@@ -14,11 +14,11 @@ d) támogatási egység: olyan tevékenység, amelyhez a rendelet elszámolható
 
 e) telepi út: az e rendelet 1. és 2. számú mellékletében meghatározott létesítményeket összekötő út;
 
-f)[^1] zöldség-gyümölcs termelői csoport: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 2. § (1) bekezdés a) pontjában ekként meghatározott fogalom;
+f)[^2] zöldség-gyümölcs termelői csoport: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 2. § (1) bekezdés a) pontjában ekként meghatározott fogalom;
 
-g)[^2] termelői szervezet: zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 2. § (1) bekezdés b) pontjában ekként meghatározott fogalom.
+g)[^3] termelői szervezet: zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet 2. § (1) bekezdés b) pontjában ekként meghatározott fogalom.
 
 (2) Az e rendeletben nem szabályozott kérdésekben az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások részletes szabályairól szóló 23/2007. (IV. 17.) rendelet (a továbbiakban: Vhr.) szabályai alkalmazandók.
 
-[^1]: A 2. § (1) bekezdés f) pontja a 164/2009. (XI. 30.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^2]: A 2. § (1) bekezdés g) pontja a 164/2009. (XI. 30.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^2]: A 2. § (1) bekezdés f) pontja a 164/2009. (XI. 30.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^3]: A 2. § (1) bekezdés g) pontja a 164/2009. (XI. 30.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.

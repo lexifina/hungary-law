@@ -6,7 +6,7 @@ a) a kertészeti termelő tevékenységet szolgáló létesítmények építése
 
 b) a kertészeti ágazatot szolgáló új tároló, manipuláló létesítmények építése és a hozzá kapcsolódó, telepen belüli infrastrukturális beruházások megvalósítása (a továbbiakban: 2. célterület),
 
-c)[^3] az a)–b) pontokban meghatározott kertészeti létesítmények energiaellátását és az energiaellátás fenntarthatóságát biztosító beruházások megvalósítása (a továbbiakban: 3. célterület).
+c)[^4] az a)–b) pontokban meghatározott kertészeti létesítmények energiaellátását és az energiaellátás fenntarthatóságát biztosító beruházások megvalósítása (a továbbiakban: 3. célterület).
 
 (2) E rendelet alkalmazásában elszámolható kiadásnak minősül:
 
@@ -24,17 +24,17 @@ bb) infrastrukturális beruházás;
 
 c) a 3. célterület esetében:
 
-ca)[^4] a gépkatalógusban az 5141., a 6213., a 6221., a 6224. gépváltozatokhoz tartozó gépek, berendezések beszerzése,
+ca)[^5] a gépkatalógusban az 5141., a 6213., a 6221., a 6224. gépváltozatokhoz tartozó gépek, berendezések beszerzése,
 
-cb)[^5] termálkútfúrás (minimálisan 30 méter fúrási mélység esetén) és a meglévő termálkút fennmaradását – beleértve a termálvíz visszasajtolását, illetve szénhidrogén-meddő kút termálkúttá történő átalakítását – biztosító beruházások;
+cb)[^6] termálkútfúrás (minimálisan 30 méter fúrási mélység esetén) és a meglévő termálkút fennmaradását – beleértve a termálvíz visszasajtolását, illetve szénhidrogén-meddő kút termálkúttá történő átalakítását – biztosító beruházások;
 
-cc)[^6] a hőenergia előállításhoz kapcsolódó tüzelő-, biogáz-, termálkút-, valamint napenergia-hasznosító berendezéssel funkcionális egységet képező tartozékok, szerelvények beszerzése;
+cc)[^7] a hőenergia előállításhoz kapcsolódó tüzelő-, biogáz-, termálkút-, valamint napenergia-hasznosító berendezéssel funkcionális egységet képező tartozékok, szerelvények beszerzése;
 
 cd) a hőtermelő berendezés elhelyezéséhez, működéséhez kapcsolódó, az építési normagyűjteményben (a továbbiakban: ÉNGY) beazonosítható építési beruházás.
 
 (3) Támogatás igényelhető továbbá a Vhr. 31. §-ában meghatározottak szerinti kiadásokra.
 
-[^3]: A 3. § (1) bekezdésének c) pontja a 34/2009. (IV. 2.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^4]: A 3. § (2) bekezdés c) pont ca) alpontja a 164/2009. (XI. 30.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^5]: A 3. § (2) bekezdés c) pont cb) alpontja a 164/2009. (XI. 30.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^6]: A 3. § (2) bekezdés c) pont cc) alpontja a 164/2009. (XI. 30.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^4]: A 3. § (1) bekezdésének c) pontja a 34/2009. (IV. 2.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^5]: A 3. § (2) bekezdés c) pont ca) alpontja a 164/2009. (XI. 30.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^6]: A 3. § (2) bekezdés c) pont cb) alpontja a 164/2009. (XI. 30.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^7]: A 3. § (2) bekezdés c) pont cc) alpontja a 164/2009. (XI. 30.) FVM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.

@@ -8,7 +8,7 @@ b) zöldség-gyümölcs termelői csoport, termelői szervezet vagy azok leányv
 
 c) a kertészeti és a burgonya ágazatban működő termelői csoport
 
-## (a továbbiakban együtt: ügyfél).
+(a továbbiakban együtt: ügyfél).
 
 (2) Az ügyfél mezőgazdasági üzeme méretének meg kell haladnia a 4 európai méretegységet (EUME). Nem vonatkozik ez a szabály az (1) bekezdés b) és c) pontjában meghatározott ügyfelekre és az induló vállalkozás ügyfélre.
 
@@ -22,16 +22,17 @@ c) a kertészeti és a burgonya ágazatban működő termelői csoport
 
 a) a Vhr. 27. § (1) bekezdés d) pontjától eltérően az ügyfél rendelkezzen a fejlesztés megvalósítására vonatkozó, gépészmérnöki végzettséggel rendelkező személy által készített és aláírt technológiai tervvel;
 
-b)[^7] termálkút létesítése esetén az ügyfél rendelkezzen a fejlesztés megvalósítására vonatkozó, saját névre szóló hatályos, elvi vízjogi vagy létesítési vízjogi engedéllyel;
+b)[^8] termálkút létesítése esetén az ügyfél rendelkezzen a fejlesztés megvalósítására vonatkozó, saját névre szóló hatályos, elvi vízjogi vagy létesítési vízjogi engedéllyel;
 
-c) az ügyfél a 3. célterületen megvalósuló fejlesztés esetén köteles továbbá a beruházással előállított energiát mezőgazdasági tevékenység keretében hasznosítani.
+c)[^9]
 
 (7) A technológiai tervnek tartalmaznia kell a telepítési vázrajzot, a hasznos hőigény kiszámítását, a hőenergia előállító berendezés méretezését, az egyes fejlesztési komponensek legfontosabb műszaki-technológiai adatait.
 
-(8)[^8] Nem tekinthető rendeltetéssel ellentétes használatnak, ha a kérelmező a burgonya tárházban a burgonya mellett az általa megtermelt, tárolásra alkalmas zöldségfélét is tárol.
+(8)[^10] Nem tekinthető rendeltetéssel ellentétes használatnak, ha a kérelmező a burgonya tárházban a burgonya mellett az általa megtermelt, tárolásra alkalmas zöldségfélét is tárol.
 
-(9)[^9] Amennyiben az ügyfél 2012. december 31-ét követően vette kézhez a támogatási határozatot, úgy köteles a támogatott műveletet a Vhr. 25. § (2) bekezdésében foglaltaktól eltérően legkésőbb 2015. március 31. napjáig megvalósítani, és az utolsó kifizetési kérelmet a 8/C. § szerinti határidőig benyújtani.
+(9)[^11] Amennyiben az ügyfél 2012. december 31-ét követően vette kézhez a támogatási határozatot, úgy köteles a támogatott műveletet a Vhr. 25. § (2) bekezdésében foglaltaktól eltérően legkésőbb 2015. március 31. napjáig megvalósítani, és az utolsó kifizetési kérelmet a 8/C. § szerinti határidőig benyújtani.
 
-[^7]: A 4. § (6) bekezdés b) pontja a 164/2009. (XI. 30.) FVM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^8]: A 4. § (8) bekezdését az 57/2008. (IV. 29.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^9]: A 4. § (9) bekezdését újonnan a 8/2014. (XI. 19.) MvM rendelet 4. § (1) bekezdése iktatta be.
+[^8]: A 4. § (6) bekezdés b) pontja a 164/2009. (XI. 30.) FVM rendelet 3. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^9]: A 4. § (6) bekezdés c) pontját a 7/2015. (II. 17.) MvM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^10]: A 4. § (8) bekezdését az 57/2008. (IV. 29.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^11]: A 4. § (9) bekezdését újonnan a 8/2014. (XI. 19.) MvM rendelet 4. § (1) bekezdése iktatta be.

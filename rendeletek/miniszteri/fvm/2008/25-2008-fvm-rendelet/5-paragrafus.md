@@ -32,9 +32,9 @@ ea) az ügyfél fiatal mezőgazdasági termelő, és
 
 eb) a beruházás kedvezőtlen adottságú vagy NATURA 2000 területen valósul meg;
 
-f)[^10] a 2. célterület esetén, a beruházás összes elszámolható kiadásának 45%-a, ha a 4. § (1) bekezdés a) pontja szerinti ügyfél fiatal mezőgazdasági termelő.
+f)[^12] a 2. célterület esetén, a beruházás összes elszámolható kiadásának 45%-a, ha a 4. § (1) bekezdés a) pontja szerinti ügyfél fiatal mezőgazdasági termelő.
 
-(3)[^11] A 3. § (3) bekezdésében meghatározott kiadások tekintetében, ha a támogatási határozatban eltérő támogatási intenzitások kerülnek megállapításra, egységesen a legalacsonyabb intenzitást kell figyelembe venni.
+(3)[^13] A 3. § (3) bekezdésében meghatározott kiadások tekintetében, ha a támogatási határozatban eltérő támogatási intenzitások kerülnek megállapításra, egységesen a legalacsonyabb intenzitást kell figyelembe venni.
 
 (4) A 3. § (2) bekezdés a) pontjának aa) alpontja szerinti tevékenység számlával igazolt elszámolható kiadása az 1. számú mellékletben meghatározott fajlagos kiadás alapján számított összeghatárig támogatható. A támogatási egységen belüli egyes elszámolható kiadások azonban nem haladhatják meg az ÉNGY-ben, illetve a gépkatalógusban szereplő referenciaárat.
 
@@ -56,5 +56,5 @@ c) építési beruházás esetén az ÉNGY-ben meghatározott fajlagos referenci
 
 (10) Támogatás nem vehető igénybe olyan beruházásra, amely kizárólag a 3. § (2) bekezdés ab) vagy bb) pontjai szerinti telepen belüli infrastrukturális beruházásra irányul.
 
-[^10]: Az 5. § (2) bekezdésének f) pontját az 57/2008. (IV. 29.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^11]: Az 5. § (3) bekezdése a 164/2009. (XI. 30.) FVM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^12]: Az 5. § (2) bekezdésének f) pontját az 57/2008. (IV. 29.) FVM rendelet 2. §-a iktatta be. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^13]: Az 5. § (3) bekezdése a 164/2009. (XI. 30.) FVM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 10. § (1) bekezdése alapján a 2009. december 1-jét követően benyújtott támogatási kérelmek esetében kell alkalmazni.
