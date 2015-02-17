@@ -150,7 +150,7 @@
 
 ## 4. Ha az ügyfél lakhelyén/székhelyén van helyi (települési) cigány kisebbségi önkormányzat, akkor a helyi önkormányzat támogató nyilatkozta, ha nincs akkor a megyei cigány kisebbségi önkormányzat nyilatkozata.
 
-5. számú melléklet a 35/2008. (III. 27.) FVM rendelethez[^18]
+5. számú melléklet a 35/2008. (III. 27.) FVM rendelethez[^23]
 
 1. A támogatás igénybevételéhez rendszeresített formanyomtatvány kötelező adattartalma:
 
@@ -186,4 +186,4 @@
 
 1.16. a 4. számú melléklet szerinti értékelési rendszer „Pénzügyi terv” szakasz értékeléséhez a beruházásra vonatkozó, valamint az ügyfél múltbéli és a jövőben tervezett gazdálkodási adatai.
 
-[^18]: Az 5. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 4. § (8) bekezdése iktatta be.
+[^23]: Az 5. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 4. § (8) bekezdése iktatta be.

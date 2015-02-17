@@ -32,7 +32,7 @@ c) az ÉNGY-ben beazonosítható, telephelyen belüli a 3. § (3) bekezdés c) p
 
 d) a Vhr. 31. §-ban meghatározottak szerinti egyéb elszámolható kiadásra
 
-## kifizetett/kifizetni tervezett pénzösszeg.
+kifizetett/kifizetni tervezett pénzösszeg.
 
 (8) A jóváhagyott elszámolható kiadások mértéke és aránya nem haladhatja meg:
 

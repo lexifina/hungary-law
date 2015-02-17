@@ -6,7 +6,7 @@ a) a termelői csoport (a továbbiakban: TCs);
 
 b) a mezőgazdasági termelő, ha a beruházással érintett mezőgazdasági üzemének mérete meghaladja a 4 európai méretegységet (EUME)
 
-## [a továbbiakban a)–b) pontok együtt: ügyfél].
+[a továbbiakban a)–b) pontok együtt: ügyfél].
 
 (2) Az (1) bekezdés b) pontjában meghatározott üzemméret feltétel nem vonatkozik az induló vállalkozásra. Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban köteles vállalni, hogy legkésőbb a beruházás befejezését követő első lezárt teljes naptári évben megfelel az (1) bekezdés b) pontjában meghatározott feltételnek.
 
@@ -36,7 +36,7 @@ ea) a Mezőgazdasági Parcella Azonosító Rendszerről szóló 115/2003. (XI. 1
 
 eb) ingatlan-nyilvántartási térkép másolatot (helyszínrajz),
 
-## amelyeken be kell jelölni a beruházással érintett telephelyeket, illetve létesítményeket.
+amelyeken be kell jelölni a beruházással érintett telephelyeket, illetve létesítményeket.
 
 (4) Nem vehető igénybe támogatás, ha a támogatási kérelem benyújtásakor az ügyfélnek e rendelet alapján támogatott, lezáratlan művelete van.
 

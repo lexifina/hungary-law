@@ -36,7 +36,7 @@ g) telephelyenként csak egy fogadógarat létesítéséhez, felújításához,
 
 h) felújítási célterületen fogadógarat, hídmérleg, előtéttároló, illetve terménytároló felújításához csak ugyanazon telephelyen megvalósuló terményszárító vagy terménytisztító felújításával és/vagy létesítésével együtt
 
-## nyújtható.
+nyújtható.
 
 (4) Különböző telephelyként vehetők figyelembe azon telephelyek, amelyek:
 
