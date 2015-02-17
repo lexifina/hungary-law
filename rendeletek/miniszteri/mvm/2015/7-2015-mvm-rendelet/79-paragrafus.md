@@ -1,0 +1,3 @@
+## „16. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 1. § 10. pontját, 12. § (1)–(1b) bekezdést, (3) bekezdést, (5a) és (5b) bekezdést, (9) bekezdés a) pontját és g) pont ga)–gc) alpontját a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+
+## 17. § Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-je előtt nyílt meg.”

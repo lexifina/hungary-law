@@ -1,0 +1,19 @@
+## „10/D. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 3. § (1) bekezdést és 9. §-t a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.”
+
+## 14. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez nyújtandó támogatások részletes feltételeiről szóló 137/2008. (X. 18.) FVM rendelet módosítása
+
+21. § (1) Az Európai Mezőgazdasági Vidékfejlesztési Alapból a turisztikai tevékenységek ösztönzéséhez nyújtandó támogatások részletes feltételeiről szóló 137/2008. (X. 18.) FVM rendelet [a továbbiakban: 137/2008. (X. 18.) FVM rendelet] 9. §-a helyébe a következő rendelkezés lép:
+
+## „9. § (1) Ha az ügyfél által realizált – szállásadásból vagy szolgáltatásból származó – árbevétel az üzemeltetési kötelezettség negyedik naptári évében 50%-nál nagyobb mértékben marad el a negyedik évre vállalt árbevételtől, akkor köteles a támogatási összegből valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
+
+## (2) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor köteles a támogatási összegből – hiányzó foglalkoztatottanként egyszer – valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
+
+## (3) Ha az ügyfél a támogatási kérelemben vállalt, az 5. § (9) bekezdés a) pontjához kapcsolódó együttműködési megállapodásban foglaltakat nem teljesíti, akkor a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összegből – együttműködési megállapodásonként egyszer – 300 000 forintot köteles visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
+
+## (4) Az (1)–(3) bekezdésben nem szabályozott szempontok esetében a pontozási szempontok tekintetében vállalt kötelezettség nem teljesítése esetén, amennyiben a nem teljesítés pontszámvesztést eredményezne, az ügyfél szempontonként valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot köteles intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
+
+## (5) Ha az ügyfél nem tesz eleget az 5. § (9) bekezdés d) vagy h) pontja szerinti kötelezettségének, továbbá pótolható mulasztás esetén felszólításra sem teljesíti azt, akkor az ügyfél kötelezettségszegés esetén a támogatási összegből valamennyi kifizetési kérelem alapján jóváhagyott összeg 5%-ának megfelelő összeget, de legfeljebb 500 000 forintot köteles intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
+
+## (6) Amennyiben az ügyfélnek a 3. § (1) bekezdés c) pont cd) alpontjára irányuló fejlesztéshez kapcsolódó vadászati jogosultsága az üzemeltetési kötelezettség alatt megszűnik, akkor az ügyfél köteles az új vadászati jogosultság igényléséről nyilatkozni az MVH részére, valamint a megszerzett új vadászati jogosultságról szóló határozat hiteles másolatát benyújtani az MVH részére 2017. december 31-ig. Amennyiben az ügyfél nem szerzi meg az új vadászati jogosultságot 2017. december 31-ig, akkor köteles a támogatási összegből a kifizetési kérelem alapján jóváhagyott összeg 5%-ának megfelelő összeg, de legfeljebb 500 000 forint visszafizetésére intézkedésben való jogosulatlan részvétel jogcímén.”
+
+(2) A 137/2008. (X. 18.) FVM rendelet „Záró rendelkezés” alcíme a következő 10/C. §-sal egészül ki:
