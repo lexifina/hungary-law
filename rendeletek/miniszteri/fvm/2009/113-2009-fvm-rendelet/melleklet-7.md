@@ -1,5 +1,3 @@
-## A tesztüzemi rendszer adatbázisa alapján kialakított SFH értékek listája A magyarországi SFH SFH számítás
-
 | Kód | Megnevezés | Mértékegység | SFH |
 
 | D01 | Közönséges búza és tönköly | Ft/ha | 127 223 |
@@ -200,9 +198,9 @@
 
 ## * Egyedi adatgyűjtés alapján
 
-7. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^40]
+7. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^52]
 
-## Közreműködő bevonására vonatkozó magánokirat adattartalma
+Közreműködő bevonására vonatkozó magánokirat adattartalma
 
 1. a családtámogatási ellátásban részesülő ügyfél személyes adatai;
 
@@ -212,4 +210,4 @@
 
 4. a közreműködő bevonásának időtartama.
 
-[^40]: A 7. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 9. §-a iktatta be.
+[^52]: A 7. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 9. §-a iktatta be.

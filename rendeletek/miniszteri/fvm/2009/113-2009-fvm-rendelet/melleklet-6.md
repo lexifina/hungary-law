@@ -1,5 +1,3 @@
-## Értékelési szempontok
-
 | Értékelési szempont megnevezése | Értékelés/ellenőrzés módja | Maximális pontszám |
 
 | Szakmai szempontok |
@@ -74,6 +72,8 @@
 
 | MINDÖSSZESEN: | max. 170 pont |
 
-6. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^39]
+6. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez[^51]
 
-[^39]: A 6. számú melléklet a 124/2009. (IX. 24.) FVM rendelet 27. § (2) bekezdése szerint módosított szöveg.
+A tesztüzemi rendszer adatbázisa alapján kialakított SFH értékek listája A magyarországi SFH SFH számítás
+
+[^51]: A 6. számú melléklet a 124/2009. (IX. 24.) FVM rendelet 27. § (2) bekezdése szerint módosított szöveg.

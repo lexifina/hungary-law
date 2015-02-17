@@ -1,5 +1,3 @@
-## Egyetemi agrárvégzettségek
-
 | Végzettségi szint: egyetem |
 
 | Okleveles agrármérnök vagy mezőgazdasági agrármérnök vagy üzemszervező agrármérnök vagy vállalatgazdasági agrármérnök |
@@ -33,3 +31,5 @@
 | Okleveles környezetgazdálkodási agrármérnök |
 
 3. számú melléklet a 113/2009. (VIII. 29.) FVM rendelethez
+
+Főiskolai agrárvégzettségek
