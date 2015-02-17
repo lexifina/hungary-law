@@ -140,6 +140,6 @@
 
 ## 4.3. Az 1–3. pontban foglalt táblázat alapján adható pontszámok maximális értéke: 100 pont
 
-2. számú melléklet a 26/2008. (III. 7.) FVM rendelethez[^12]
+2. számú melléklet a 26/2008. (III. 7.) FVM rendelethez[^15]
 
-[^12]: A 2. számú melléklet a 49/2010. (IV. 27.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. számú melléklet a 49/2010. (IV. 27.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -422,7 +422,7 @@
 
 4. számú melléklet
 
-a 26/2008. (III. 7.) FVM rendelethez[^14]
+a 26/2008. (III. 7.) FVM rendelethez[^17]
 
 A támogatási kérelemhez rendszeresített formanyomtatvány adattartalma
 
@@ -466,4 +466,4 @@ A támogatási kérelemhez rendszeresített formanyomtatvány adattartalma
 
 9.6. a gazdálkodás eredményére vonatkozó adatok
 
-[^14]: A 4. számú mellékletet a 49/2010. (IV. 27.) FVM rendelet 3. § (3) bekezdése iktatta be.
+[^17]: A 4. számú mellékletet a 49/2010. (IV. 27.) FVM rendelet 3. § (3) bekezdése iktatta be.

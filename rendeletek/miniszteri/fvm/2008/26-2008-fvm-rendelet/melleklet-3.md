@@ -136,6 +136,6 @@
 
 ## 68. 5991 Műszerek, laboratóriumi berendezések közül a gépek helyzetmeghatározására, irányítására szolgáló sorvezető, párhuzamos kormányzási és automatakormányzási rendszerek és berendezések (GPS, DGPS, RTKGPS), valamint az agrometeorológiai állomások
 
-3. számú melléklet a 26/2008. (III. 7.) FVM rendelethez[^13]
+3. számú melléklet a 26/2008. (III. 7.) FVM rendelethez[^16]
 
-[^13]: A 3. számú mellékelt a 35/2009. (IV. 2.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 3. §-a alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^16]: A 3. számú mellékelt a 35/2009. (IV. 2.) FVM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 3. §-a alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
