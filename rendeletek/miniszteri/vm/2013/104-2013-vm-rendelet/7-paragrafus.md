@@ -28,6 +28,6 @@ a) legalább „B” kategóriájú gyermek- és ifjúsági tábor, vagy
 
 b) legalább „B” kategóriájú gyermek- és ifjúsági táborban telepített sátortábor,
 
-## fejlesztése, kialakítása támogatható.
+fejlesztése, kialakítása támogatható.
 
 (6) Ha a 2. § (1) bekezdés c) pontjában meghatározott célterületre irányuló fejlesztés új szálláshely létesítésére irányul a 173/2003. (X. 28.) Korm. rendelet 14/C. § alapján kiállított hatósági igazolvány beszerzése szükséges az utolsó kifizetési kérelem benyújtásáig.

@@ -20,9 +20,9 @@ e) a 2. § (1) bekezdés a) pontjában meghatározott célterületre irányuló 
 
 (5) Engedélyköteles építési tevékenység esetén az utolsó kifizetési kérelemhez mellékelni kell az ügyfél nevére szóló jogerős használatbavételi engedélyt vagy a használatbavétel tudomásulvételét igazoló építésügyi hatósági bizonyítványt.
 
-(5a)[^9] Amennyiben az ügyfél a (4) és (5) bekezdésben meghatározott okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást a jogerős engedély egy példányának vagy hiteles másolatának benyújtásáig, de legkésőbb 2015. szeptember 30-ig felfüggeszti. 2015. szeptember 30. napját követően a (4) és (5) bekezdésben meghatározott okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
+(5a)[^9] Amennyiben az ügyfél a (3) és (5) bekezdésben meghatározott okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást a jogerős engedély egy példányának vagy hiteles másolatának benyújtásáig, de legkésőbb 2015. szeptember 30-ig felfüggeszti. 2015. szeptember 30. napját követően a (3) és (5) bekezdésben meghatározott okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
 
 (6)[^10] Azon ügyfeleknek, akik a támogatási döntést 2014. május 31. napjáig kézhez vették, az utolsó kifizetési kérelmet a művelet megvalósulását követő 6 hónapon belül, de legkésőbb 2015. május 31-ig be kell nyújtani. A 2014. május 31. napját követően közölt támogatási döntés esetében az utolsó kifizetési kérelem benyújtásának határideje 2015. augusztus 31.
 
-[^9]: A 15. § (5a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 18. § (2) bekezdése iktatta be.
+[^9]: A 15. § (5a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 18. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 75. § (2) bekezdésével megállapított szöveg.
 [^10]: A 15. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 36. § (2) bekezdése iktatta be.

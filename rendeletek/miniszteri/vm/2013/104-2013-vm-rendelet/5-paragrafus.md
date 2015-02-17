@@ -12,7 +12,7 @@ d) a nonprofit szervezet, és
 
 e) az egyházi jogi személy
 
-## [az a)–e) pont a továbbiakban együtt: ügyfél].
+[az a)–e) pont a továbbiakban együtt: ügyfél].
 
 (2) Az ügyfél abban az esetben jogosult támogatási kérelem benyújtására, amennyiben a mezőgazdasági tevékenységéből származó árbevétele az 50%-ot nem érte el a 2011. és 2012. évben.
 

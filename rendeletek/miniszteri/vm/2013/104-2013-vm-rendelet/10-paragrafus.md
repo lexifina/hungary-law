@@ -14,13 +14,7 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 (2) Amennyiben az ügyfél az 1. melléklet 2. szakmai szempontjához az együttműködési megállapodásokat nem nyújtja be vagy nem a (1) bekezdésében meghatározott formai és tartalmi követelményeknek megfelelően nyújtja be, a fenti értékelési szempont nem vehető figyelembe.
 
-(3)[^3] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően a műveletet azon ügyfélnek, aki a támogatási döntést
-
-a) 2014. május 31. napjáig kézhez vette, legkésőbb 2015. március 31. napjáig,
-
-b) 2014. május 31. napját követően veszi kézhez, legkésőbb 2015. május 31. napjáig
-
-## kell megvalósítania.
+(3)[^3] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfélnek a műveletet 2015. május 31. napjáig kell megvalósítani.
 
 (4)[^4] A Vhr. 24. § (1) bekezdésében foglaltaktól eltérően az ügyfél a helyt adó vagy részben helyt adó támogatási határozat közlésétől számított 9 hónapon belül köteles a támogatási határozatban jóváhagyott, egyéb elszámolható kiadásnak nem minősülő nettó elszámolható kiadások legalább 10%-ára vonatkozóan kifizetési kérelmet benyújtani.
 
@@ -34,7 +28,7 @@ b) 2014. május 31. napját követően veszi kézhez, legkésőbb 2015. május 3
 
 (9)[^7] A (3) bekezdésben foglalt megvalósítási határidőn belül az ügyfél teljes bizonyító erejű magánokiratba foglalt, visszavonhatatlan nyilatkozatában vállalhatja, hogy az intézkedésben való jogosulatlan részvétel jogkövetkezményeinek alkalmazása mellett a támogatás egészéről lemond.
 
-[^3]: A 10. § (3) bekezdése az 1/2014. (IX. 15.) MvM rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^3]: A 10. § (3) bekezdése a 7/2015. (II. 17.) MvM rendelet 75. § (1) bekezdésével megállapított szöveg.
 [^4]: A 10. § (4) bekezdése az 1/2014. (IX. 15.) MvM rendelet 36. § (1) bekezdésével megállapított szöveg.
 [^5]: A 10. § (5) bekezdését a 121/2013. (XII. 16.) VM rendelet 37. §-a hatályon kívül helyezte.
 [^6]: A 10. § (8) bekezdése a 8/2014. (XI. 19.) MvM rendelet 23. § (2) bekezdésével megállapított szöveg.
