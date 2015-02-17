@@ -14,12 +14,8 @@
 
 (6) Az utolsó kifizetési kérelemhez mellékelni kell a koordináló szervezet szakmai beszámolóját.
 
-(7)[^26] Az az ügyfél, aki a támogatási döntést
-
-a) 2014. május 31. napjáig kézhez vette, annak legkésőbb 2015. május 31. napjáig,
-
-b) 2014. május 31. napját követően veszi kézhez, annak legkésőbb 2015. augusztus 31. napjáig
+(7)[^26] Az ügyfélnek az utolsó kifizetési kérelmet legkésőbb 2015. augusztus 31. napjáig kell benyújtania.
 
 [^24]: A 11. § (1) bekezdése a 8/2014. (XI. 19.) MvM rendelet 15. § (5) bekezdésével megállapított szöveg.
 [^25]: A 11. § (3) bekezdése a 93/2013. (X. 10.) VM rendelet 12. §-ával megállapított szöveg.
-[^26]: A 11. § (7) bekezdését az 1/2014. (IX. 15.) MvM rendelet 27. § (2) bekezdése iktatta be.
+[^26]: A 11. § (7) bekezdését az 1/2014. (IX. 15.) MvM rendelet 27. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 70. § (2) bekezdésével megállapított szöveg.
