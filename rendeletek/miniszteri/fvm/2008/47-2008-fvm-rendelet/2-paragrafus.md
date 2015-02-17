@@ -14,14 +14,14 @@
 
 5. nehéz helyzetben lévő vállalkozás: az 1. számú mellékletben meghatározottak szerinti vállalkozás;
 
-6.[^1] Szerződés: az Európai Közösséget létrehozó szerződés;
+6.[^2] Szerződés: az Európai Közösséget létrehozó szerződés;
 
-7.[^2] árbevétel-arányos üzemi jövedelmezőség: az üzemi tevékenység eredménye és az árbevétel hányadosa;
+7.[^3] árbevétel-arányos üzemi jövedelmezőség: az üzemi tevékenység eredménye és az árbevétel hányadosa;
 
-8.[^3] pályázati felhívás: az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 122/2009. (IX. 17.) FVM rendelet alapján meghirdetett pályázati felhívás.
+8.[^4] pályázati felhívás: az Európai Mezőgazdasági Vidékfejlesztési Alapból a Helyi Vidékfejlesztési Stratégiák LEADER fejezetének végrehajtásához nyújtandó támogatások részletes feltételeiről szóló 122/2009. (IX. 17.) FVM rendelet alapján meghirdetett pályázati felhívás.
 
 (2) Az e rendeletben nem szereplő fogalmakra az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 3. §-a irányadó.
 
-[^1]: A 2. § (1) bekezdés 6. pontja a 136/2009. (X. 16.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
-[^2]: A 2. § (1) bekezdés 7. pontját a 136/2009. (X. 16.) FVM rendelet 1. §-a iktatta be, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
-[^3]: A 2. § (1) bekezdés 8. pontját a 136/2009. (X. 16.) FVM rendelet 1. §-a iktatta be, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
+[^2]: A 2. § (1) bekezdés 6. pontja a 136/2009. (X. 16.) FVM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
+[^3]: A 2. § (1) bekezdés 7. pontját a 136/2009. (X. 16.) FVM rendelet 1. §-a iktatta be, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
+[^4]: A 2. § (1) bekezdés 8. pontját a 136/2009. (X. 16.) FVM rendelet 1. §-a iktatta be, e módosító rendelet 9. § (1) bekezdése alapján a 2009. október 19-ét követően indult ügyekben kell alkalmazni.
