@@ -36,6 +36,6 @@ b) a 1710, 1720, 1740, 1750, 1790 gépcsoportba tartozó borászat, valamint
 
 c) a 1810, 1820, 1890 pálinka előállítás
 
-## gépei és berendezései beszerzése.
+gépei és berendezései beszerzése.
 
 (8) Ha a (6) bekezdés b) pontjában meghatározott elszámolható kiadáshoz az ÉNGY nem állapít meg referenciaárat, akkor a Vhr. 27. § (1) bekezdés g) pontja szerint kell eljárni.

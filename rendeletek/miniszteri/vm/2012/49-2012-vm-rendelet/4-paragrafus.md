@@ -10,16 +10,10 @@ b) akinek (amelynek) a Római Szerződés I. mellékletében, a halászati term�
 
 (4)[^3] A Vhr. 24. §-ában foglaltaktól eltérően, az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles a támogatási határozatban jóváhagyott támogatási összeg legalább 10%-ával elszámolni.
 
-(5)[^4] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően,
-
-a) az ügyfélnek a támogatási határozat közlésétől számított két éven belül,
-
-b) annak az ügyfélnek, aki 2015. március 31. napját megelőző két éven belül veszi kézhez a támogatási határozatot, az a) pont szerinti határidőre tekintet nélkül 2015. március 31. napjáig
-
-## kell a műveletet megvalósítania.
+(5)[^4] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfélnek a műveletet 2015. május 31. napjáig kell megvalósítania.
 
 (6)[^5]
 
 [^3]: A 4. § (4) bekezdése a 28/2013. (IV. 30.) VM rendelet 11. §-ával megállapított szöveg.
-[^4]: A 4. § (5) bekezdése az 1/2014. (IX. 15.) MvM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (5) bekezdése a 7/2015. (II. 17.) MvM rendelet 56. § (1) bekezdésével megállapított szöveg.
 [^5]: A 4. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 16. §-a hatályon kívül helyezte.
