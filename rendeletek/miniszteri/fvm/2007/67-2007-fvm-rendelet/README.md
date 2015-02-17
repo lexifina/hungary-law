@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-67-20-8
 | 2011-12-22 | 2007-67-20-82.9 | 123/2011. (XII. 21.) VM rendelet |
 | 2013-02-05 | 2007-67-20-82.10 | 4/2013. (II. 4.) VM rendelet |
 | 2014-04-04 | 2007-67-20-82.11 | 30/2014. (IV. 3.) VM rendelet |
+| 2015-02-17 | 2007-67-20-82.12 | 7/2015. (II. 17.) MvM rendelet |

@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-5. § (1)[^16]
+5. § (1)[^17]
 
 (2) A támogatási kérelemhez mellékelni kell:
 
@@ -12,7 +12,7 @@ c) az egyéni vállalkozói igazolvány hiteles másolatát, amennyiben az rende
 
 d) az értékelési szempontokhoz a mellékletben meghatározott igazolásokat, nyilatkozatokat, dokumentumokat;
 
-e)–h)[^17]
+e)–h)[^18]
 
-[^16]: Az 5. § (1) bekezdését a 95/2009. (VII. 30.) FVM rendelet 5. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 5. § (2) bekezdése alapján a hatályon kívül helyezett 5. § (1) bekezdés alapján új támogatási kérelmet nem lehet benyújtani.
-[^17]: Az 5. § (2) bekezdésének e)–h) pontját a 138/2007. (XI. 17.) FVM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^17]: Az 5. § (1) bekezdését a 95/2009. (VII. 30.) FVM rendelet 5. § (3) bekezdése hatályon kívül helyezte. E módosító rendelet 5. § (2) bekezdése alapján a hatályon kívül helyezett 5. § (1) bekezdés alapján új támogatási kérelmet nem lehet benyújtani.
+[^18]: Az 5. § (2) bekezdésének e)–h) pontját a 138/2007. (XI. 17.) FVM rendelet 7. § (2) bekezdése hatályon kívül helyezte.

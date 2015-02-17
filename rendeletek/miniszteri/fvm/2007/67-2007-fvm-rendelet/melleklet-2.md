@@ -1,6 +1,6 @@
-## 14. §[^38] Az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 30/2014. (IV. 3.) VM rendelettel megállapított 9. § (6), (10) és (11) bekezdését a 2007. december 3. és 2008. február 7. között benyújtott támogatási kérelmek esetében kell alkalmazni.
+## 16. §[^44] Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-je előtt nyílt meg.
 
-## Melléklet a 67/2007. (VII. 26.) FVM rendelethez[^39]
+## Melléklet a 67/2007. (VII. 26.) FVM rendelethez[^45]
 
 ## Értékelési szempontok
 
@@ -60,7 +60,7 @@
 
 | A vállalkozás társadalmi felelősségvállalása | (+) 5 |
 
-2. számú melléklet a 67/2007. (VII. 26.) FVM rendelethez[^40]
+2. számú melléklet a 67/2007. (VII. 26.) FVM rendelethez[^46]
 
 Közreműködő bevonására vonatkozó magánokirat adattartalma
 
@@ -72,6 +72,6 @@ Közreműködő bevonására vonatkozó magánokirat adattartalma
 
 4. a közreműködő bevonásának időtartama.
 
-[^38]: A 14. §-t a 30/2014. (IV. 3.) VM rendelet 2. §-a iktatta be.
-[^39]: A melléklet a 105/2008. (VIII. 14.) FVM rendelet 4. §-a szerint módosított szöveg.
-[^40]: A 2. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 5. §-a iktatta be.
+[^44]: A 16. §-t a 7/2015. (II. 17.) MvM rendelet 8. § (5) bekezdése iktatta be.
+[^45]: A melléklet a 105/2008. (VIII. 14.) FVM rendelet 4. §-a szerint módosított szöveg.
+[^46]: A 2. számú mellékletet a 123/2011. (XII. 21.) VM rendelet 5. §-a iktatta be.
