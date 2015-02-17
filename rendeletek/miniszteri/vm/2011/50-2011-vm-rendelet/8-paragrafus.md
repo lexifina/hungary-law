@@ -1,4 +1,4 @@
-## 7. §[^23] A művelet megvalósítását az ügyfél a támogatási kérelem benyújtását követően saját felelősségre megkezdheti, a művelet egyes önállóan értékelhető és elszámolható tevékenységeit a támogatási határozat jogerőre emelkedését megelőzően befejezheti, a teljes művelet azonban a határozat jogerőre emelkedése előtt nem fejezhető be.
+## 7. §[^24] A művelet megvalósítását az ügyfél a támogatási kérelem benyújtását követően saját felelősségre megkezdheti, a művelet egyes önállóan értékelhető és elszámolható tevékenységeit a támogatási határozat jogerőre emelkedését megelőzően befejezheti, a teljes művelet azonban a határozat jogerőre emelkedése előtt nem fejezhető be.
 
 8. § (1) A művelet megkezdésének időpontja
 
@@ -22,4 +22,4 @@ dátuma közül a legkorábbi.
 
 (3) Ha egy művelet az (1) bekezdés a) és b) pontjában említett tevékenységet is magában foglal, akkor a művelet megkezdésének időpontja a korábban megkezdett tevékenység időpontjával egyezik meg.
 
-[^23]: A 7. § a 2/2014. (IX. 15.) MvM rendelet 5. §-ával megállapított szöveg.
+[^24]: A 7. § a 2/2014. (IX. 15.) MvM rendelet 5. §-ával megállapított szöveg.

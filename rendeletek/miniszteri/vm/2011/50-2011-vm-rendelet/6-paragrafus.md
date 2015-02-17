@@ -8,6 +8,6 @@
 
 (4) Ha a támogatási kérelem az egyes támogatásoknál meghatározott célkitűzések közül legalább egyet nem valósít meg, az MVH a kérelmet elutasítja.
 
-(5)[^22] A rangsorba állított kérelmek esetén a támogatás igénybevételéhez szükséges minimális ponthatárt a rendelkezésre álló forrás ismeretében, annak figyelembe vétele mellett az Irányító Hatóság azon támogatási kérelem alapján határozza meg, amelynek vonatkozásában a támogatás nyújtására fordítható keretösszeg még teljességgel fedezi az adott kérelem és a rangsorban azt megelőző támogatási kérelmek összesített támogatási igényét. A minimális ponthatárt el nem érő támogatási kérelmek a Tv. alapján forráshiány miatt elutasításra kerülnek.
+(5)[^23] A rangsorba állított kérelmek esetén a támogatás igénybevételéhez szükséges minimális ponthatárt a rendelkezésre álló forrás ismeretében, annak figyelembe vétele mellett az Irányító Hatóság azon támogatási kérelem alapján határozza meg, amelynek vonatkozásában a támogatás nyújtására fordítható keretösszeg még teljességgel fedezi az adott kérelem és a rangsorban azt megelőző támogatási kérelmek összesített támogatási igényét. A minimális ponthatárt el nem érő támogatási kérelmek a Tv. alapján forráshiány miatt elutasításra kerülnek.
 
-[^22]: A 6. § (5) bekezdését a 2/2014. (IX. 15.) MvM rendelet 4. §-a iktatta be.
+[^23]: A 6. § (5) bekezdését a 2/2014. (IX. 15.) MvM rendelet 4. §-a iktatta be.

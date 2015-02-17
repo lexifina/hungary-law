@@ -4,6 +4,6 @@
 
 (2) Az MVH a kérelemnek – a 6. § (4) bekezdésben foglaltak kivételével – a nem megfelelés által érintett részét elutasítja. Kifizetési kérelem esetén az elutasított kiadás a 10. § (6) bekezdése szerinti soron következő időszakban ismételten benyújtható.
 
-(3)[^69]
+(3)[^71]
 
-[^69]: A 25. § (3) bekezdését a 97/2012. (IX. 13.) VM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § f) pontja.
+[^71]: A 25. § (3) bekezdését a 97/2012. (IX. 13.) VM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § f) pontja.

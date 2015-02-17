@@ -6,12 +6,12 @@
 
 (3) Többéves kötelezettségvállalás esetében az ügyfél kizárólag a vis maior esemény bekövetkezését követően mentesíthető a további időszakra fennálló kötelezettségek alól, és a vis maior esemény befejeződéséig jogszerűen igénybe vett támogatás visszafizetése alól mentesül.
 
-(4)[^42]
+(4)[^43]
 
-(5)[^43]
+(5)[^44]
 
-(6)[^44]
+(6)[^45]
 
-[^42]: A 16. § (4) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.
-[^43]: A 16. § (5) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.
-[^44]: A 16. § (6) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.
+[^43]: A 16. § (4) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.
+[^44]: A 16. § (5) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.
+[^45]: A 16. § (6) bekezdését a 86/2011. (IX. 1.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 2/2014. (IX. 15.) MvM rendelet 19. § d) pontja.
