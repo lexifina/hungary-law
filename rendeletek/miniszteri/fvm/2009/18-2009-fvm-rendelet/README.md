@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-18-20-8
 | 2014-02-07 | 2009-18-20-82.8 | 8/2014. (II. 6.) VM rendelet |
 | 2014-02-15 | 2009-18-20-82.9 | 3/2012. (I. 31.) VM rendelet |
 | 2014-03-13 | 2009-18-20-82.10 | 20/2014. (III. 12.) VM rendelet |
+| 2015-02-17 | 2009-18-20-82.11 | 7/2015. (II. 17.) MvM rendelet |
