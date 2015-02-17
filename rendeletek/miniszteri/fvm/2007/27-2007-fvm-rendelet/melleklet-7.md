@@ -1,5 +1,7 @@
 ## Támogatási egységek állategységre vetített elszámolható kiadása az állattartási tevékenységhez kapcsolódó munkafolyamatok elvégzésének minőségét javító beruházás megvalósítására szolgáló beruházásokra vonatkozóan
 
+## 7M07890_0
+
 | Cél- terü- leti kód | Te- vé- keny- ség- típus | Fő- cso- port | Cso- port | Támo- gatási egység kódja | Megnevezés | Maximum elszámolható kiadás | Kiadás mérték- egység |
 
 | 4 | Az állattartási tevékenységhez kapcsolódó munkafolyamatok elvégzésének minőségét javító beruházások célterülete |  |
@@ -48,6 +50,6 @@
 
 | 4 | 1 | 2 | 3 | 3 | Légnemű anyagok veszélyes szintű légköri koncentrációját jelző berendezések telepítése | 1 220 | Ft/ÁE |
 
-7. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^110]
+7. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^113]
 
-[^110]: A 7. számú melléklet a 82/2007. (VIII. 3.) FVM rendelet 9. §-ával megállapított szöveg.
+[^113]: A 7. számú melléklet a 82/2007. (VIII. 3.) FVM rendelet 9. §-ával megállapított szöveg.
