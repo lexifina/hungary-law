@@ -4,7 +4,7 @@
 
 (3) Amennyiben az ügyfél az (1) bekezdésben foglaltaknak nem tesz eleget, úgy a Vhr. 35. § (9) bekezdésében foglaltakat kell alkalmazni.
 
-(4)[^15] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmet.
+(4)[^15] A kifizetési kérelmet elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani a Vhr. 16/B. § (1) bekezdésben megjelölt időszakban a Vhr. 16/B. § (2) bekezdésével összhangban. A kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
 
 [^14]: A 10/A. §-t a 76/2012. (VII. 27.) VM rendelet 21. § (2) bekezdése iktatta be.
-[^15]: A 10/A. § (4) bekezdését a 121/2013. (XII. 16.) VM rendelet 11. § (1) bekezdése iktatta be.
+[^15]: A 10/A. § (4) bekezdését a 121/2013. (XII. 16.) VM rendelet 11. § (1) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 31. § (2) bekezdésével megállapított szöveg.
