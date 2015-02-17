@@ -26,6 +26,8 @@ a) 2014. május 31. napjáig kézhez vette és a műveletet 2015. május 31. nap
 
 b) 2014. május 31. napját követően veszi kézhez és a műveletet 2015. augusztus 31. napját megelőző hat hónapon belül megvalósítja, akkor az utolsó kifizetési kérelmet az (5) bekezdés szerinti határidőre tekintet nélkül 2015. augusztus 31. napjáig
 
+kell benyújtania.
+
 [^14]: A 14. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte.
 [^15]: A 14. § (3) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés n) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 24. § (3) bekezdése iktatta be.
 [^16]: A 14. § (4) bekezdését a 30/2013. (IV. 30.) VM rendelet 12. § (1) bekezdése iktatta be.

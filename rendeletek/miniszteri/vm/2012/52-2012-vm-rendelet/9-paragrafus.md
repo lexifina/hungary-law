@@ -48,13 +48,7 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 (12) Amennyiben az ügyfél az 1. melléklet 2. szakmai szempontjához az együttműködési megállapodásokat nem nyújtja be vagy nem a (11) bekezdésében meghatározott formai és tartalmi követelményeknek megfelelően nyújtja be, a fenti értékelési szempont nem vehető figyelembe.
 
-(13)[^6] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően annak az ügyfélnek, aki a támogatási döntést
-
-a) 2014. május 31. napjáig kézhez vette, a műveletet a támogatási határozat közlésétől számított két éven belül, de legkésőbb 2015. március 31-ig,
-
-b) 2014. május 31. napját követően veszi kézhez, a műveletet 2015. május 31-ig
-
-## kell megvalósítania.
+(13)[^6] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfélnek a műveletet 2015. május 31-ig kell megvalósítania.
 
 (14) A Vhr. 24. § (1) bekezdésében foglaltaktól eltérően az ügyfél a helyt adó vagy részben helyt adó támogatási határozat közlésétől számított hat hónapon belül köteles kifizetési kérelmet benyújtani, amellyel legalább 10%-os mértékben az ügyfél olyan kiadást is el kíván számolni, amely nem minősül egyéb elszámolható kiadásnak.
 
@@ -65,5 +59,5 @@ b) 2014. május 31. napját követően veszi kézhez, a műveletet 2015. május 
 (17) Induló vállalkozás, egyéni vállalkozóként kérelmező és természetes személy ügyfél vonatkozásban a Vhr. 7. § (1) bekezdés c) pontja szerinti nehéz helyzetben lévőségre vonatkozó szabályokat nem kell alkalmazni.
 
 [^5]: A 9. § (10) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^6]: A 9. § (13) bekezdése az 1/2014. (IX. 15.) MvM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^6]: A 9. § (13) bekezdése a 7/2015. (II. 17.) MvM rendelet 57. § (1) bekezdésével megállapított szöveg.
 [^7]: A 9. § (15) bekezdését az 1/2014. (IX. 15.) MvM rendelet 18. §-a hatályon kívül helyezte.
