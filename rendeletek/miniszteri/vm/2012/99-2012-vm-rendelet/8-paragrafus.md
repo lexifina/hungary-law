@@ -16,13 +16,7 @@ c) a német nyelvű 7. melléklet szerinti együttműködési megállapodást, v
 
 d) a francia nyelvű 8. melléklet szerinti együttműködési megállapodást.
 
-(5)[^22] Az az ügyfél, aki a támogatási döntést
-
-a) 2014. május 31. napjáig kézhez vette, annak legkésőbb 2015. március 31. napjáig,
-
-b) 2014. május 31. napját követően veszi kézhez, annak 2015. május 31. napjáig
-
-## kell az együttműködési projektet megvalósítania.
+(5)[^22] Az ügyfélnek az együttműködési projektet legkésőbb 2015. május 31. napjáig kell megvalósítania.
 
 (6) Az együttműködési projekt kötelezettség vállalásával érintett részének átruházása csak a kötelezettségek átvállalásával lehetséges az utolsó kifizetési határozat közlésétől számított 5 évig fennálló kötelezettségek teljesítésének időtartama alatt. Az átvállalással az átadó mentesül a kötelezettségek alól. A kötelezettség átvállalásához az MVH előzetes jóváhagyása szükséges. Az erre irányuló kérelmet az MVH által rendszeresített, az MVH honlapján közzétett formanyomtatványon kell benyújtani. A kötelezettség átvállalása abban az esetben hagyható jóvá, ha az átvevő
 
@@ -52,7 +46,7 @@ d) a nemzeti és közösségi jogszabályok alapján tiltott, illetve nem támog
 
 (9)[^25] A Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható.
 
-[^22]: A 8. § (5) bekezdése az 1/2014. (IX. 15.) MvM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^22]: A 8. § (5) bekezdése a 7/2015. (II. 17.) MvM rendelet 63. § (1) bekezdésével megállapított szöveg.
 [^23]: A 8. § (6) bekezdés b) pontja a 93/2013. (X. 10.) VM rendelet 8. §-ával megállapított szöveg.
 [^24]: A 8. § (7) bekezdése a 121/2013. (XII. 16.) VM rendelet 26. § (4) bekezdésével megállapított szöveg.
 [^25]: A 8. § (9) bekezdését a 110/2012. (X. 15.) VM rendelet 2. §-a iktatta be.

@@ -8,13 +8,9 @@
 
 (3)[^34] Természetes személy ügyfél esetén az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolatát.
 
-(4)[^35] Az az ügyfél, aki a támogatási döntést
-
-a) 2014. május 31. napjáig kézhez vette, annak legkésőbb 2015. május 31. napjáig,
-
-b) 2014. május 31. napját követően veszi kézhez, annak legkésőbb 2015. augusztus 31. napjáig
+(4)[^35] Az ügyfélnek az utolsó kifizetési kérelmet legkésőbb 2015. augusztus 31. napjáig kell benyújtania.
 
 [^32]: A 11. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 15. §-ával megállapított szöveg.
 [^33]: A 11. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 6. §-ával megállapított szöveg.
 [^34]: A 11. § (3) bekezdését a 93/2013. (X. 10.) VM rendelet 6. §-a iktatta be.
-[^35]: A 11. § (4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 20. § (2) bekezdése iktatta be.
+[^35]: A 11. § (4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 20. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 63. § (2) bekezdésével megállapított szöveg.
