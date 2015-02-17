@@ -12,7 +12,7 @@
 
 ## Határidő: 2016. június 30.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2013. évi kötelezettségvállalással nem terhelt költségvetési maradvány egy részének átcsoportosításáról, valamint az Emberi Erőforrások Minisztériuma és a Miniszterelnökség közötti előirányzat átcsoportosításról szóló 1091/2014. (II. 28.) Korm. határozat 2. pontjában a „2015. január 30.; a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Kiemelt célú beruházások támogatása alcím, 2. Egyedi kormánydöntésen alapuló közlekedési beruházások jogcímcsoport javára átcsoportosított 350,0 millió forint tekintetében 2015. június 30.” szövegrész helyébe a „2015. január 30.; a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Kiemelt célú beruházások támogatása alcím, 2. Egyedi kormánydöntésen alapuló közlekedési beruházások jogcímcsoport javára átcsoportosított 350,0 millió forint és a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 100,0 millió forint tekintetében 2015. június 30.” szöveg lép.
+## 2.[^1]
 
 ## 3. A Kormány a büntetés-végrehajtás szirmabesenyői új objektumának építése érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1229/2014. (IV. 10.) Korm. határozat 1. pontjában meghatározottaktól eltérően úgy dönt, hogy az ott átcsoportosítani rendelt összeget az Állampusztai Országos Büntetés-végrehajtási Intézet (Solt) férőhelybővítéssel kapcsolatos feladatok finanszírozására kell felhasználni.
 
@@ -107,3 +107,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
