@@ -1,8 +1,8 @@
-## 12/A. §[^23] A támogatásra jogosult valamennyi célprogram esetén köteles rájegyezni a 19. § (2a) bekezdés a), b), c) pont szerinti, és ex situ megőrzés célprogram esetében az f) pont szerinti adatokat azon számla és bizonylat eredeti példányára, amely másolatát a kifizetési kérelemhez csatolta.
+## 12/A. §[^25] A támogatásra jogosult valamennyi célprogram esetén köteles rájegyezni a 19. § (2a) bekezdés a), b), c) pont szerinti, és ex situ megőrzés célprogram esetében az f) pont szerinti adatokat azon számla és bizonylat eredeti példányára, amely másolatát a kifizetési kérelemhez csatolta.
 
 ## 6. A támogatási kérelem benyújtása
 
-13. § (1)[^24] A támogatási kérelmeket 2012. április 1. és október 10. között lehet benyújtani az MVH-hoz, az MVH honlapján közleményben közzétett nyomtatványon. A nyomtatványnak legalább a következő adatokat kell tartalmaznia
+13. § (1)[^26] A támogatási kérelmeket 2012. április 1. és október 10. között lehet benyújtani az MVH-hoz, az MVH honlapján közleményben közzétett nyomtatványon. A nyomtatványnak legalább a következő adatokat kell tartalmaznia
 
 a) ügyfél-azonosítási adatok, valamint a kapcsolattartó adatai;
 
@@ -14,7 +14,7 @@ ca) in vitro megőrzés célprogram esetén a tárolásra kerülő genetikai any
 
 cb) ex situ megőrzés célprogram esetén a támogatási időszakban mesterséges termékenyítő állomáson, várományos bika telepen és kancafedeztetési állomáson tartani kívánt apaállatok tervezett száma, a felvásárolni kívánt apaállatok száma, baromfifélék esetén a beólazásra tervezett nőivarú, és a termeltetéshez szükséges ivararány szerint felnevelni, vagy felvásárolni kívánt hímivarú egyedek száma fajtánként a támogatási időszakra;
 
-cc)[^25] tenyésztésszervezés célprogram esetén az elismert tenyésztőszervezet által a támogatási kérelem benyújtásának időpontjában fenntartott fajták felsorolása, az elismert tenyésztőszervezethez tartozó tenyészetek száma és a tenyészetek száma alapján meghatározott tenyésztésvezető és körzeti tenyésztők száma;
+cc)[^27] tenyésztésszervezés célprogram esetén az elismert tenyésztőszervezet által a támogatási kérelem benyújtásának időpontjában fenntartott fajták felsorolása, az elismert tenyésztőszervezethez tartozó tenyészetek száma és a tenyészetek száma alapján meghatározott tenyésztésvezető és körzeti tenyésztők száma;
 
 cd) tájékoztatás és ismeretterjesztés célprogram esetén a megvalósítandó rendezvényre, kiadványra, nemzetközi kapcsolattartásra, nyilvántartás fejlesztésére vagy fajtahasznosításra vonatkozó adatok megjelölésével;
 
@@ -36,7 +36,7 @@ a kérelmező szakmai és technikai felkészültségére vonatkozó állásfogla
 
 a) a tenyésztési hatóság által a feladattal megbízott kutatási intézménynek, felsőfokú oktatási intézménynek mesterséges termékenyítő állomásnak, embrió-átültető állomásnak, spermatároló központnak, tenyésztő szervezetnek és azok szövetségeinek a támogatott feladat ellátására vonatkozó szándéknyilatkozatát;
 
-b) állatfajtánként – az elismert tenyésztőszervezet kivételével – az elismert tenyésztőszervezet igazolását arról, hogy a tárolni kívánt műszalma – baromfifélék esetén ampulla – és embrió mennyisége és genetikai minősége illeszkedik az elismert tenyésztőszervezet által kialakított megőrzési programhoz.
+b)[^28] állatfajtánként – az elismert tenyésztőszervezet kivételével – az elismert tenyésztőszervezet igazolását arról, hogy a tárolni kívánt műszalma – baromfifélék esetén ampulla vagy műszalma – és embrió mennyisége és genetikai minősége illeszkedik az elismert tenyésztőszervezet által kialakított megőrzési programhoz.
 
 (5) A támogatási kérelemhez mellékelni kell a 3. melléklet szerinti, a támogatási kérelem pontozásához szükséges eredeti dokumentumokat, valamint – ahol e rendelet lehetővé teszi a másolatot – a másolati példányt.
 
@@ -54,9 +54,9 @@ c) a támogatási kérelem pontozásához szükséges dokumentumok
 
 tekintetében hiánypótlásra nincs lehetőség.
 
-(9)[^26] Ha a tájékoztatás és ismeretterjesztés célprogramban a 8. § h) pontjában foglaltak megvalósítására elismert tenyésztőszervezetek szövetsége nyújtotta be a támogatási kérelmet, akkor az a (10) bekezdésben szereplő feltételeknek eleget tevő tagjai számának és a 2. melléklet 4. táblázatának B:5 mezőjében szereplő összeg szorzatának megfelelő mértékű támogatásra jogosult.
+(9)[^29] Ha a tájékoztatás és ismeretterjesztés célprogramban a 8. § h) pontjában foglaltak megvalósítására elismert tenyésztőszervezetek szövetsége nyújtotta be a támogatási kérelmet, akkor az a (10) bekezdésben szereplő feltételeknek eleget tevő tagjai számának és a 2. melléklet 4. táblázatának B:5 mezőjében szereplő összeg szorzatának megfelelő mértékű támogatásra jogosult.
 
-(10)[^27] A (9) bekezdésben szereplő számítási módban az az elismert tenyésztőszervezet vehető figyelembe, amely
+(10)[^30] A (9) bekezdésben szereplő számítási módban az az elismert tenyésztőszervezet vehető figyelembe, amely
 
 a) tagja az adott szövetségnek,
 
@@ -64,8 +64,9 @@ b) a 8. § h) pontjában foglaltak megvalósítására önállóan nem nyújtott
 
 c) az 1. mellékletben szereplő állatfajtát tenyészt.
 
-[^23]: A 12/A. §-t a 61/2013. (VII. 19.) VM rendelet 4. §-a iktatta be.
-[^24]: A 13. § (1) bekezdése a 101/2012. (IX. 28.) VM rendelet 1. §-ával megállapított szöveg.
-[^25]: A 13. § (1) bekezdés c) pont cc) alpontja a 138/2012. (XII. 22.) VM rendelet 21. §-a szerint módosított szöveg.
-[^26]: A 13. § (9) bekezdését a 47/2013. (VI. 7.) VM rendelet 5. § (2) bekezdése iktatta be.
-[^27]: A 13. § (10) bekezdését a 47/2013. (VI. 7.) VM rendelet 5. § (2) bekezdése iktatta be.
+[^25]: A 12/A. §-t a 61/2013. (VII. 19.) VM rendelet 4. §-a iktatta be.
+[^26]: A 13. § (1) bekezdése a 101/2012. (IX. 28.) VM rendelet 1. §-ával megállapított szöveg.
+[^27]: A 13. § (1) bekezdés c) pont cc) alpontja a 138/2012. (XII. 22.) VM rendelet 21. §-a szerint módosított szöveg.
+[^28]: A 13. § (4) bekezdés b) pontja a 7/2015. (II. 17.) MvM rendelet 49. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^29]: A 13. § (9) bekezdését a 47/2013. (VI. 7.) VM rendelet 5. § (2) bekezdése iktatta be.
+[^30]: A 13. § (10) bekezdését a 47/2013. (VI. 7.) VM rendelet 5. § (2) bekezdése iktatta be.

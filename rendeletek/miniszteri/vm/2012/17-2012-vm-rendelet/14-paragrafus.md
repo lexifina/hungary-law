@@ -20,7 +20,7 @@ ca) a gazdasági társaság tagja,
 
 cb) a gazdasági társaság vagy társadalmi szervezet vezető tisztségviselője
 
-## a megfelelő végzettséggel rendelkező személy;
+a megfelelő végzettséggel rendelkező személy;
 
 d) a szerződés másolatát, amely igazolja, hogy a szerződés alapján a megfelelő végzettséggel rendelkező személy látja el a szerződésben foglalt feladatokat;
 

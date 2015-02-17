@@ -1,5 +1,3 @@
-## (a továbbiakban együtt: kérelmező).
-
 5. § (1) Az in vitro megőrzés célprogram esetén támogatás igénybevételére a tenyésztési hatóság a védett őshonos állatfajták genetikai fenntartásának rendjéről szóló FVM rendelet
 
 szerint történt kijelölés alapján, valamint kutatási intézmények és felsőfokú oktatási intézmények, mesterséges termékenyítő állomások, embrió-átültető állomások, spermatároló központok, elismert tenyésztőszervezetek és azok szövetségei jogosultak, amennyiben vállalják, hogy
@@ -22,11 +20,11 @@ g) az igénybevett támogatási összegből beszerzett eszközöket génmegőrz�
 
 a) a tenyésztési hatósággal megkötött szerződéssel, amelyben vállalja az (1) bekezdésben foglaltak betartását a teljes támogatási időszakra vonatkozóan, és
 
-b) állatfajtánként – az elismert tenyésztőszervezet kivételével – az elismert tenyésztőszervezet igazolásával arról, hogy a tárolni kívánt műszalma – baromfifélék esetén ampulla – és embrió mennyisége, valamint genetikai minősége illeszkedik az elismert tenyésztőszervezet által kialakított megőrzési programhoz.
+b)[^3] állatfajtánként – az elismert tenyésztőszervezet kivételével – az elismert tenyésztőszervezet igazolásával arról, hogy a tárolni kívánt műszalma – baromfifélék esetén ampulla vagy műszalma – és embrió mennyisége, valamint genetikai minősége illeszkedik az elismert tenyésztőszervezet által kialakított megőrzési programhoz.
 
-(3)[^3] A támogatott a (2) bekezdés a) pontja szerinti szerződést a támogatási kérelemre hozott helyt adó vagy részben helyt adó határozat jogerőre emelkedésétől számított 30 napon belül megküldi a Mezőgazdasági és Vidékfejlesztési Hivatalnak (a továbbiakban: MVH).
+(3)[^4] A támogatott a (2) bekezdés a) pontja szerinti szerződést a támogatási kérelemre hozott helyt adó vagy részben helyt adó határozat jogerőre emelkedésétől számított 30 napon belül megküldi a Mezőgazdasági és Vidékfejlesztési Hivatalnak (a továbbiakban: MVH).
 
-(4) A támogatási időszak alatt
+(4)[^5] A támogatási időszak alatt
 
 a) egy szarvasmarha vagy bivaly bikától legfeljebb 250,
 
@@ -44,10 +42,12 @@ g) gyöngytyúk esetében legfeljebb 300,
 
 h) kacsa és lúd esetében fajtánként legfeljebb 300
 
-műszalma – baromfifélék esetén ampulla – sperma begyűjtése, mélyhűtésre történő előkészítése és megőrzése támogatható.
+műszalma – baromfifélék esetén ampulla vagy műszalma – sperma begyűjtése, mélyhűtésre történő előkészítése és megőrzése támogatható.
 
 (5) Támogatás csak a termékenyítő anyagot tartalmazó műszalmára – baromfifélék esetén ampullára – igényelhető.
 
 (6) Embrió-előállítás csak szarvasmarha faj esetén támogatható. A támogatási időszak alatt egy donoranyától legfeljebb 20 embrió begyűjtése, mélyhűtésre történő előkészítése és megőrzése támogatható.
 
-[^3]: Az 5. § (3) bekezdése a 13/2014. (II. 24.) VM rendelet 19. §-ával megállapított szöveg.
+[^3]: Az 5. § (2) bekezdés b) pontja a 7/2015. (II. 17.) MvM rendelet 49. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdése a 13/2014. (II. 24.) VM rendelet 19. §-ával megállapított szöveg.
+[^5]: Az 5. § (4) bekezdés záró szövegrésze a 7/2015. (II. 17.) MvM rendelet 49. § (1) bekezdés b) pontja szerint módosított szöveg.

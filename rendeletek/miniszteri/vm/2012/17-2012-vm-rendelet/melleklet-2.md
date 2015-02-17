@@ -1,6 +1,6 @@
-2. melléklet a 17/2012. (II. 29.) VM rendelethez[^82]
+2. melléklet a 17/2012. (II. 29.) VM rendelethez[^90]
 
-## A támogatás céljára kifizethető maximális összegek
+A támogatás céljára kifizethető maximális összegek
 
 1. In vitro megőrzés célprogram
 
@@ -22,15 +22,15 @@
 
 | 8 | Ló és szamár sperma mélyhűtve történő megőrzése | 36 Euró/műszalma |
 
-| 9 | Házityúk sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla |
+| 9 | Házityúk sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla vagy 7 Euro/műszalma |
 
-| 10 | Gyöngytyúk sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla |
+| 10 | Gyöngytyúk sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla vagy 7 Euro/műszalma |
 
-| 11 | Pulyka sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla |
+| 11 | Pulyka sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla vagy 7 Euro/műszalma |
 
-| 12 | Kacsa sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla |
+| 12 | Kacsa sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla vagy 7 Euro/műszalma |
 
-| 13 | Lúd sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla |
+| 13 | Lúd sperma mélyhűtve történő megőrzése | 7 Euró/500 µl ampulla vagy 7 Euro/műszalma |
 
 2. Ex situ állattartás célprogram
 
@@ -104,4 +104,4 @@
 
 | 10 | Nemzetközi szervezet tagdíja | 1 800 Euró/év |
 
-[^82]: A 2. melléklet a 30/2013. (IV. 30.) VM rendelet 11. § (11) bekezdése, a 61/2013. (VII. 19.) VM rendelet 10. § d) pontja szerint módosított szöveg.
+[^90]: A 2. melléklet a 30/2013. (IV. 30.) VM rendelet 11. § (11) bekezdése, a 61/2013. (VII. 19.) VM rendelet 10. § d) pontja, a 7/2015. (II. 17.) MvM rendelet 49. § (2) bekezdése szerint módosított szöveg.
