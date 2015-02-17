@@ -10,6 +10,6 @@
 
 (6) A 2. § c) pontja szerinti tevékenység a 25 évesnél fiatalabb, de 4 évnél idősebb, az Evt. 7. § (1) bekezdés e) és f) pontja szerinti faültetvény, vagy kultúrerdő természetességi kategóriájú erdőkben támogatható. Az erdő korát elegyes állomány esetében a főfafaj kora határozza meg.
 
-(7)[^8] A 2. § c) pontja szerinti tevékenység akkor támogatható, ha a főfafaj darabszáma a támogatott tevékenység elvégzésekor, illetve azt követően eléri az Evt. Vhr. 4. mellékletében meghatározott minimális darabszámot.
+(7)[^9] A 2. § c) pontja szerinti tevékenység akkor támogatható, ha a főfafaj darabszáma a támogatott tevékenység elvégzésekor, illetve azt követően eléri az Evt. Vhr. 4. mellékletében meghatározott minimális darabszámot.
 
-[^8]: A 4. § (7) bekezdését a 122/2012. (XII. 6.) VM rendelet 4. §-a iktatta be.
+[^9]: A 4. § (7) bekezdését a 122/2012. (XII. 6.) VM rendelet 4. §-a iktatta be.

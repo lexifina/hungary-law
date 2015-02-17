@@ -7,3 +7,5 @@ a) befejezett ápolás,
 b) tisztítás, valamint
 
 c) törzsnyesés
+
+céljára.

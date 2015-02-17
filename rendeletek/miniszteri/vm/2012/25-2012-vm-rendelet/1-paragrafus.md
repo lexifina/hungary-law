@@ -6,7 +6,7 @@
 
 2. erdő: az Evt. 6. § (1) bekezdése szerint meghatározott terület;
 
-3.[^1] erdőgazdálkodó: az a természetes vagy jogi személy, akit az Evt. 17. § (1) bekezdése szerint az erdészeti hatóságként eljáró területileg illetékes kormányhivatal erdészeti igazgatósága (a továbbiakban: erdészeti igazgatóság) nyilvántartásba vett;
+3.[^2] erdőgazdálkodó: az a természetes vagy jogi személy, akit az Evt. 17. § (1) bekezdése szerint az erdészeti hatóságként eljáró területileg illetékes kormányhivatal erdészeti igazgatósága (a továbbiakban: erdészeti igazgatóság) nyilvántartásba vett;
 
 4. erdősítés: az Evt. 5. § 10. pontjában meghatározott művelet;
 
@@ -20,13 +20,13 @@
 
 9. törzsnyesés: az ágtiszta törzsek nevelése érdekében a törzsön található ágaknak – az e rendeletben meghatározott magasságig – a törzs palástjában történő eltávolítása;
 
-10.[^2] támogatási időszak: a kifizetési határozat jogerőre emelkedését követő 12 hónap;
+10.[^3] támogatási időszak: a kifizetési határozat jogerőre emelkedését követő 12 hónap;
 
-11.[^3] tevékenység megvalósítása: az adott erdőrészletre benyújtott kifizetést alátámasztó bizonylatokban, számlákban, szerződésekben a támogatott tevékenység megvalósítására vonatkozóan feltüntetett teljesítési dátumok közül erdőrészletenként a legutolsó;
+11.[^4] tevékenység megvalósítása: az adott erdőrészletre benyújtott kifizetést alátámasztó bizonylatokban, számlákban, szerződésekben a támogatott tevékenység megvalósítására vonatkozóan feltüntetett teljesítési dátumok közül erdőrészletenként a legutolsó;
 
-12.[^4] 2012. évi bázisév: az Országos Erdőállomány Adattár 2012. december 31. napján nyilvántartott adatai alapján meghatározott időszak.
+12.[^5] 2012. évi bázisév: az Országos Erdőállomány Adattár 2012. december 31. napján nyilvántartott adatai alapján meghatározott időszak.
 
-[^1]: Az 1. § 3. pontja a 22/2014. (III. 14.) VM rendelet 84. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § 10. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
-[^3]: Az 1. § 11. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
-[^4]: Az 1. § 12. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be, szövege a 13/2014. (II. 24.) VM rendelet 26. §-ával megállapított szöveg.
+[^2]: Az 1. § 3. pontja a 22/2014. (III. 14.) VM rendelet 84. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 10. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
+[^4]: Az 1. § 11. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be.
+[^5]: Az 1. § 12. pontját a 122/2012. (XII. 6.) VM rendelet 2. §-a iktatta be, szövege a 13/2014. (II. 24.) VM rendelet 26. §-ával megállapított szöveg.
