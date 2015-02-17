@@ -10,7 +10,7 @@ a) kis értékű fejlesztések támogatására legfeljebb négy célterületet;
 
 b) komplex fejlesztések támogatására legfeljebb két célterületet
 
-## határozhat meg.
+határozhat meg.
 
 (4) A LEADER HACS célterületei vonatkozásában az igénybe vehető támogatás minimum és maximum összeghatárát forintban határozza meg.
 

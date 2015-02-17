@@ -1,4 +1,4 @@
-## 25/D. §[^31] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 4. § (7) bekezdést, 10. § (4) bekezdést és 22. § (5) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^32] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 25/E. §[^34] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] hatályon kívül helyezett 24. § (3) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^35] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban sem kell alkalmazni.
 
-[^31]: A 25/D. §-t a 8/2014. (XI. 19.) MvM rendelet 9. § (4) bekezdése iktatta be.
-[^32]: A hatálybalépés időpontja 2014. november 20.
+[^34]: A 25/E. §-t a 7/2015. (II. 17.) MvM rendelet 39. § (3) bekezdése iktatta be.
+[^35]: A hatálybalépés időpontja 2015. február 17.

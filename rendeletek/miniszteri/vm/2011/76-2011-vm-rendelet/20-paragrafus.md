@@ -50,7 +50,7 @@ fa) az adott pénzügyi évben, valamint
 
 fb) az előző két pénzügyi évben
 
-## igénybe vett de minimis támogatásról szóló nyilatkozatot;
+igénybe vett de minimis támogatásról szóló nyilatkozatot;
 
 g) természetes személy ügyfél esetében a lakcímet igazoló hatósági igazolvány egyszerű másolatát;
 
