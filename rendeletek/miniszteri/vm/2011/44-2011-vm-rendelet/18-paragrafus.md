@@ -1,4 +1,4 @@
-## 17/B. §[^9] E rendeletnek a vidékfejlesztési miniszter felelősségi körébe tartozó egyes miniszteri rendeleteknek a vallási közösségek jogállásával és működésével kapcsolatos törvényeknek az Alaptörvény negyedik módosításával összefüggő módosításáról szóló törvényhez kapcsolódó, valamint más vidékfejlesztési tárgyú módosításáról szóló 121/2013. (XII. 16.) VM rendelettel [a továbbiakban: 121/2013. (XII. 16.) VM rendelet] megállapított 15. § (4) bekezdését a 121/2013. (XII. 16.) VM rendelet hatálybalépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
+## 17/C. §[^12] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 16. §-t a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^13] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
-[^9]: A 17/B. §-t a 121/2013. (XII. 16.) VM rendelet 18. § (3) bekezdése iktatta be.
-[^10]: A hatálybalépés időpontja 2013. december 17.
+[^12]: A 17/C. §-t a 7/2015. (II. 17.) MvM rendelet 36. § (2) bekezdése iktatta be.
+[^13]: A hatálybalépés időpontja 2015. február 17.

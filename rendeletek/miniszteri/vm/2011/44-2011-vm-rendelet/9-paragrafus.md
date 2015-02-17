@@ -1,5 +1,3 @@
-## fejlesztése, kialakítása támogatható.
-
 9. § (1) A Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség az utolsó kifizetési kérelem benyújtásától számított öt évig tart.
 
 (2) Az ügyfél köteles az üzemeltetési kötelezettség alatt

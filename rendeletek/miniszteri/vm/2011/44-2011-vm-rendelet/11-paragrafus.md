@@ -20,7 +20,7 @@ g) az ügyfél nyilatkozatát a vonatkozó feltételek megismeréséről és tud
 
 h) az ügyfél aláírását
 
-## tartalmazza.
+tartalmazza.
 
 (3) A természetes személy ügyfél a lakóhelye vagy tartózkodási helye igazolása céljából a lakcímet igazoló hatósági igazolványa másolatának és az annak tartalmát képező személyes adatainak kezeléséhez való írásbeli hozzájárulását tartalmazó nyilatkozatának benyújtásával kérheti az MVH-tól, hogy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv megkeresése helyett a lakcímet igazoló hatósági igazolvány alapján állapítsa meg a támogatásra való jogosultság fennállását.
 

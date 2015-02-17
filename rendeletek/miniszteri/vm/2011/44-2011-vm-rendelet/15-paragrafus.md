@@ -20,7 +20,7 @@ g) a megvalósult fejlesztésre vonatkozó információkat,
 
 h) az ügyfél nyilatkozatát a vonatkozó feltételek megismeréséről és tudomásulvételéről
 
-## tartalmazza.
+tartalmazza.
 
 (3) Az utolsó kifizetési kérelemhez mellékelni kell
 

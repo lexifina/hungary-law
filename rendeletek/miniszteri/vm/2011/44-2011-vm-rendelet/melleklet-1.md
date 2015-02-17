@@ -1,6 +1,6 @@
-## 18/A. §[^11] E rendelet alapján 2012-től támogatási kérelem nem nyújtható be.
+## 18/A. §[^14] E rendelet alapján 2012-től támogatási kérelem nem nyújtható be.
 
-1. melléklet a 44/2011. (V. 26.) VM rendelethez[^12]
+1. melléklet a 44/2011. (V. 26.) VM rendelethez[^15]
 
-[^11]: A 18/A. §-t az 52/2012. (VI. 8.) VM rendelet 17. § (1) bekezdése iktatta be.
-[^12]: Az 1. melléklet a 76/2011. (VII. 29.) VM rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 18/A. §-t az 52/2012. (VI. 8.) VM rendelet 17. § (1) bekezdése iktatta be.
+[^15]: Az 1. melléklet a 76/2011. (VII. 29.) VM rendelet 27. § (2) bekezdése szerint módosított szöveg.
