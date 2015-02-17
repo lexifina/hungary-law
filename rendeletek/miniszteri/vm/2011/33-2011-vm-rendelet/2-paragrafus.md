@@ -2,7 +2,7 @@
 
 2. § (1) Támogatás vehető igénybe a mikrovállalkozások fejlesztéseinek támogatására, a mikrovállalkozások megkezdett vagy tervezett gazdasági tevékenységéhez közvetlenül kapcsolódó a (3) bekezdésben meghatározott, gazdaságon kívül végzett tevékenységre.
 
-(2) Tervezett tevékenység esetén, legkésőbb az utolsó kifizetési kérelem benyújtásakor szerepelnie kell a tevékenyégnek a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az utolsó kifizetési kérelem benyújtásáig felvett tevékenységnek kell lennie.
+(2)[^2] Tervezett tevékenység esetén legkésőbb az utolsó kifizetési kérelem benyújtásakor szerepelnie kell a tevékenységnek a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az egyéni vállalkozó felvett tevékenységei között. E kötelezettség az utolsó kifizetési kérelemhez kapcsolódó hiánypótlás keretében, a hiánypótlási felhívásban meghatározott határidőn belül pótolható.
 
 (3) Az e rendelet alapján támogatható tevékenységnek és elszámolható kiadásnak minősül
 
@@ -30,7 +30,7 @@ b) az Építési Normagyűjteményben (a továbbiakban: ÉNGY) beazonosítható 
 
 (7) Nem igényelhető támogatás
 
-a)[^1] motorral hajtott szárazföldi, légi, vízi, közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök forgalmazását érintő beruházásokhoz,
+a)[^3] motorral hajtott szárazföldi, légi, vízi, közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök forgalmazását érintő beruházásokhoz,
 
 b) a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben meghatározott vontató, nyerges vontató, tehergépkocsi, gépkocsi, valamint gépjármű fogalomkörébe tartozó eszköz beszerzéséhez,
 
@@ -62,7 +62,7 @@ i) NACE REV. 2. 7731 szakágazat szerinti mezőgazdasági gépkölcsönzés,
 
 j) NACE REV. 2. 03.2 alágazat szerinti halgazdálkodás,
 
-k)[^2] NACE REV. 2. 11. 02 és 2. 11.03 alágazat szerinti italgyártás,
+k)[^4] NACE REV. 2. 11. 02 és 2. 11.03 alágazat szerinti italgyártás,
 
 l) NACE REV. 2. 49 ágazat szerinti szárazföldi, csővezetékes szállítás,
 
@@ -82,5 +82,6 @@ r) NACE REV. 2. 01 ágazat szerinti minden növénytermesztés, állattenyészt�
 
 (10) Az ügyfél egy támogatási kérelmében legfeljebb három tevékenységet jelölhet meg a támogatható tevékenységei közül.
 
-[^1]: A 2. § (7) bekezdés a) pontja a 60/2011. (VI. 30.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (8) bekezdés k) pontja a 60/2011. (VI. 30.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdése a 7/2015. (II. 17.) MvM rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (7) bekezdés a) pontja a 60/2011. (VI. 30.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (8) bekezdés k) pontja a 60/2011. (VI. 30.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
