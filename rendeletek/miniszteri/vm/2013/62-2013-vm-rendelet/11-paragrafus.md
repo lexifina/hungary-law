@@ -16,6 +16,9 @@
 
 (8) Amennyiben az ügyfél a 4. § (8) bekezdésében foglaltakat megszegi, és a támogatási kérelem alapján indult eljárás során kerül megállapításra, hogy a művelet e rendelet hatálybalépését megelőzően megkezdődött, akkor az a támogatási kérelem érintett tételeinek elutasítását vonja maga után. Amennyiben ez a kifizetési kérelem alapján indult eljárás során kerül megállapításra, úgy az érintett tétel elutasításra kerül, a korábbi kifizetési határozatban elszámolt, érintett tételek vonatkozásában az intézkedésben való jogosulatlan részvétel szabályait kell alkalmazni.
 
-(9) Amennyiben az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor – hiányzó foglalkoztatottanként egyszer – a jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot köteles visszafizetni.
+(9)[^8] Amennyiben az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor – hiányzó foglalkoztatottanként egyszer – a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot intézkedésben való jogosulatlan részvétel jogcímén köteles visszafizetni.
 
-(10) Amennyiben az ügyfél nyilatkozatban vállalja, hogy a támogatott gépet illóolaj-, gyógy- és fűszernövény ágazatban fogja használni és ezen kötelezettségének nem tesz eleget, úgy az igénybe vett támogatási összeget a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint kell visszafizetni.
+(10)[^9] Amennyiben az ügyfél nyilatkozatban vállalja, hogy a támogatott gépet illóolaj-, gyógy- és fűszernövény ágazatban fogja használni és ezen kötelezettségének nem tesz eleget, de a gépet kertészeti tevékenységén belül használja, a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 50%-át a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint kell visszafizetni.
+
+[^8]: A 11. § (9) bekezdése a 7/2015. (II. 17.) MvM rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^9]: A 11. § (10) bekezdése a 7/2015. (II. 17.) MvM rendelet 72. § (2) bekezdésével megállapított szöveg.
