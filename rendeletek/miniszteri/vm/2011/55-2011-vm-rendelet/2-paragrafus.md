@@ -40,7 +40,7 @@ b) a 2. mellékletben szereplő csemegeszőlő fajták esetében a telepítés s
 
 c) a 6. mellékletben meghatározott fajták esetében a telepítés jó minőségű, ellenőrzött hazai vagy ennek hiányában külföldi CAC, vagy standard kategóriájú szaporítóanyaggal (spárgatelepítés esetén minősített vetőmagból előállított palántával)
 
-## történik.
+történik.
 
 (4) Támogatás vehető igénybe
 

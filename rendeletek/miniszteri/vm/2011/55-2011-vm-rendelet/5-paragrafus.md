@@ -42,7 +42,7 @@ a) az 1. célterület esetén az 1. melléklet C oszlopában meghatározott fajl
 
 b) a 2. célterület esetén a 4. mellékletben meghatározott elszámolható kiadások
 
-## képezik.
+képezik.
 
 (5) A 5. § (2) bekezdés a)–c) pontjaiban meghatározott beruházásokkal kapcsolatos kiadások, külön-külön és együttesen is elszámolhatóak.
 
