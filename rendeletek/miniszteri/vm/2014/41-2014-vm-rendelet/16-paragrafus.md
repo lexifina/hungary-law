@@ -7,3 +7,5 @@
 a) adminisztratív ellenőrzést, és
 
 b) helyszíni ellenőrzést
+
+foglal magában.
