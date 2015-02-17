@@ -16,6 +16,6 @@ b) a mezőgazdasági termelő, ha a mezőgazdasági üzemének mérete meghaladj
 
 (5) A telepi utak nem támogathatóak.
 
-(6)[^1] A támogatási határozattal jóváhagyott műveletet 2015. március 31. napjáig kell megvalósítani.
+(6)[^2] A támogatási határozattal jóváhagyott műveletet 2015. május 31. napjáig kell megvalósítani.
 
-[^1]: A 3. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 9. § (1) bekezdése iktatta be.
+[^2]: A 3. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 9. § (1) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 46. §-a szerint módosított szöveg.
