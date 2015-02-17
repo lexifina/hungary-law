@@ -1,8 +1,8 @@
 ## A támogatási kérelem benyújtása
 
-6. § (1)[^27]
+6. § (1)[^28]
 
-(2)[^28] A támogatási kérelemnek a következőket kell tartalmaznia:
+(2)[^29] A támogatási kérelemnek a következőket kell tartalmaznia:
 
 a) az ügyfél azonosítására vonatkozó adatok,
 
@@ -20,7 +20,7 @@ g) az ügyfél nyilatkozata a vonatkozó feltételek megismeréséről és tudom
 
 h) az ügyfél aláírása.
 
-(3)[^29]
+(3)[^30]
 
 (4) A támogatási kérelemhez csatolni kell:
 
@@ -28,13 +28,13 @@ a) nonprofit szervezet ügyfél esetén a bejegyzést igazoló okirat hiteles m�
 
 b) önkormányzat vagy önkormányzati társulás ügyfél esetén az érintett önkormányzat képviselő-testületének vagy társulási tanácsnak a fejlesztés megvalósításáról szóló határozatának hiteles kivonat;
 
-c)[^30] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
+c)[^31] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
 
 d) a tervezett fejlesztés megvalósulási helyének feltüntetésével kiegészített, a fejlesztés településen belüli elhelyezkedését bemutató térképrészletet;
 
 e) az értékeléshez az 1. számú mellékletben meghatározott igazolásokat, nyilatkozatokat, dokumentumokat;
 
-f)[^31]
+f)[^32]
 
 g) amennyiben a fejlesztés az 5. számú mellékletben szereplő településen valósul meg, akkor az ügyfél nyilatkozatát, hogy a fejlesztés a település külterületén, tanyás térségén valósul meg;
 
@@ -54,14 +54,14 @@ a) a 3. § (1) bekezdés a)–c) pontjaiban meghatározott célterületre irány
 
 b) a 3. § (1) bekezdés a) pont ab) alpontjában meghatározott célterületre irányuló fejlesztés megvalósítása esetén biztosítani az építmény legalább heti öt napon való rendszeres látogathatóságát.
 
-(7)[^32] Ha az ügyfél a (4) bekezdés h) és i) pontjában meghatározott értékhatárokra tekintettel nem köteles üzleti vagy működtetési és fenntarthatósági tervet benyújtani, kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
+(7)[^33] Ha az ügyfél a (4) bekezdés h) és i) pontjában meghatározott értékhatárokra tekintettel nem köteles üzleti vagy működtetési és fenntarthatósági tervet benyújtani, kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
 
-(8)[^33] A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségétől. Benyújtásuk esetén a fejezeteket a (7) bekezdésben meghatározott arányosítást követően a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
+(8)[^34] A „Kommunikációs terv” és „A vállalkozás társadalmi felelősségvállalása” című fejezetek nem képezik az üzleti terv vagy a működtetési és fenntarthatósági terv részét, benyújtásuk opcionális, függetlenül az üzleti terv vagy a működtetési és fenntarthatósági terv benyújtási kötelezettségétől. Benyújtásuk esetén a fejezeteket a (7) bekezdésben meghatározott arányosítást követően a pontozás során egyenként maximum +5 ponttal kell figyelembe venni.
 
-[^27]: A 6. § (1) bekezdését a 90/2012. (VIII. 28.) VM rendelet 12. § (2) bekezdése hatályon kívül helyezte.
-[^28]: A 6. § (2) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^29]: A 6. § (3) bekezdését a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
-[^30]: A 6. § (4) bekezdés c) pontja a 121/2013. (XII. 16.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^31]: A 6. § (4) bekezdésének f) pontját a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
-[^32]: A 6. § (7) bekezdését a 159/2009. (XI. 19.) FVM rendelet 4. § (2) bekezdése iktatta be.
-[^33]: A 6. § (8) bekezdését a 159/2009. (XI. 19.) FVM rendelet 4. § (2) bekezdése iktatta be.
+[^28]: A 6. § (1) bekezdését a 90/2012. (VIII. 28.) VM rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^29]: A 6. § (2) bekezdése a 159/2009. (XI. 19.) FVM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^30]: A 6. § (3) bekezdését a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
+[^31]: A 6. § (4) bekezdés c) pontja a 121/2013. (XII. 16.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^32]: A 6. § (4) bekezdésének f) pontját a 159/2009. (XI. 19.) FVM rendelet 8. §-a hatályon kívül helyezte.
+[^33]: A 6. § (7) bekezdését a 159/2009. (XI. 19.) FVM rendelet 4. § (2) bekezdése iktatta be.
+[^34]: A 6. § (8) bekezdését a 159/2009. (XI. 19.) FVM rendelet 4. § (2) bekezdése iktatta be.
