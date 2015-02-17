@@ -1,6 +1,6 @@
-## 14. §[^1] Az e rendelet alapján 2014. július 1. és az 1. mellékletnek az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (X. 27.) EMMI rendelettel (a továbbiakban: Módr.) történő módosítása hatálybalépésének időpontja között kiállított várandósgondozási könyvvel rendelkező várandósok esetében is alkalmazni kell az 1. melléklet Módr. által megállapított rendelkezéseit.
+## 14. §[^10] Az e rendelet alapján 2014. július 1. és az 1. mellékletnek az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (X. 27.) EMMI rendelettel (a továbbiakban: Módr.) történő módosítása hatálybalépésének időpontja között kiállított várandósgondozási könyvvel rendelkező várandósok esetében is alkalmazni kell az 1. melléklet Módr. által megállapított rendelkezéseit.
 
-1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez[^2]
+1. melléklet a 26/2014. (IV. 8.) EMMI rendelethez[^11]
 
 ## A várandós anya gondozási könyve
 
@@ -8,91 +8,97 @@
 
 1.1. a várandós személyi adatai (név, születési név, lakcím, TAJ, születési idő)
 
-1.2. a várandósgondozást végző felelős személy neve, elérhetősége, rendelési ideje
+1.2. a várandósgondozást végző felelős személy neve, elérhetősége, rendelési ideje, valamint azon egészségügyi szolgáltató neve, elérhetősége, akinek a nevében és felelősségére az ellátást igénybe veszik
 
 1.3. a várandósgondozást végző háziorvos neve, elérhetősége, rendelési ideje
 
-1.4. a várandósgondozást végző védőnő neve, elérhetősége
+1.4. a várandósgondozást végző védőnő neve, elérhetősége, tanácsadási ideje
 
-1.5. a várandósgondozásba vétel alapjául szolgáló első szakorvosi lelet
+1.5. a választott vagy a területi ellátási kötelezettséget vállalt házi gyermekorvos neve, elérhetősége
 
-1.6. a szülés várható időpontjának meghatározása
+1.6. a gondozásba vételkor rögzített rizikó-besorolás és a várandóssági hét (gesztációs hét)
 
-1.7. a szülők vércsoportja és az antitest vizsgálatok eredményei
+1.7. a szülés várható időpontjának meghatározása
 
-1.8. előző várandósságok száma, lefolyása, esetleges szövődmények
+1.8. a vizsgálatok értékelése
 
-1.9. anamnézis
+1.9. előző várandósságok száma, lefolyása, esetleges szövődmények
 
-1.10. vizsgálati leletek
+1.10. anamnézis
 
-1.11. a várandósság jellemzői
+1.11. javaslatok a rizikó-besorolás megváltoztatására
 
-1.12. szakorvosi minősítés a gondozás szempontjából (rizikó-besorolás)
+1.12. szakellátásba utalás ideje, indoka
 
-1.13. háziorvosi minősítés a gondozás szempontjából (rizikó-besorolás)
+1.13. egyéb igazolások, megállapítások, csatolt leletek
 
-1.14. várandósgondozási naptár
+2. Beutaló térítésmentes, kötelező vizsgálatokra
 
-1.15. a várandósgondozás alatti kötelező szűrővizsgálatok leletei
+Várandós neve: ………………………………………………..…. TAJ: …………….
 
-1.16. szakellátásba utalás ideje, indoka
+Születési idő: …….. év ………………..……. hó ……….. nap
 
-1.17. egyéb igazolások, csatolt leletek
+BNO: ……………………………………………………….
 
-2. Kötelező vizsgálatok időrendje a bizonyítottan méhen belüli várandóssággal védőnőnél jelentkező várandósok számára
+Anyja neve: …………………………………………………………………………….
 
-2.1. Beutaló gondozó háziorvos neve és pecsétje:
+Beutalás időpontja: …….. év …………. hó ……….. nap
 
-…………………………………………………………………………
+Naplószám: ……………
 
-P. H.
+| HSZKÓD |  |  |  |  |  |  |  |  |  |
 
-2.2. Vizsgálatok
+| A | B | C |
 
-|  | A | B | C |
+|  | Vizsgálat időpontja | Orvos/intézmény aláírás, időpont, pecsét |
 
-| 1. |  | Vizsgálat időpontja (nap/időszak) | Orvos/intézmény aláírás, időpont, pecsét |
+| (nap/időszak) |
 
-| 2. | 1. A várandósság első harmadában végzendő vizsgálatok |  |  |
+| 1. A várandósság első harmadában végzendő vizsgálatok |  |
 
-| 3. | vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejtszám, vérlemezkeszám), májfunkció, vesefunkció |  |  |  |
+| vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejt szám, vérlemezke szám), Se kreatinin, KN, eGFR, SGOT, SGPT, SeBi |  |  |  |
 
-| 4. | vizelet (fehérje, genny, cukor, aceton, urobilinogen, üledék) |  |  |
+| vizelet (fehérje, genny, cukor, aceton, UBG, üledék) |  |  |
 
-| 5. | HBsAg szűrés |  |  |
+| HBsAg szűrés |  |  |
 
-| 6. | szifilisz szűrés |  |  |
+| WDRL |  |  |
 
-| 7. | vércsoport meghatározás és vörösvértest ellenanyagszűrés |  |  |
+| vércsoport meghatározás és vörösvértest ellenanyagszűrés |  |  |
 
-| 8. | ultrahang szűrővizsgálat | 11–13. héten |  |  |
+| ultrahang szűrővizsgálat | 11-13. hét |  |  |
 
-| 9. | genetikai tanácsadás (fogamzáskor betöltött 37. életévtől kezdve) |  |  |  |
+| genetikai tanácsadás (fogamzáskor betöltött 37. életévtől kezdve) |  |  |  |
 
-| 10. | fogorvosi vizsgálat |  |  |  |
+| fogorvosi vizsgálat |  |  |  |
 
-| 11. | háziorvosi (belgyógyászati, EKG) vizsgálat |  |  |  |
+| 2. A várandósság második harmadában végzendő vizsgálatok |  |
 
-| 12. | 2. A várandósság második harmadában végzendő vizsgálatok |  |  |
+| ultrahang szűrővizsgálat | 18-20. hét |  |  |
 
-| 13. | ultrahang szűrővizsgálat | 18–20. héten |  |  |
+| terheléses vércukor vizsgálat (éhomi és 75 g glukóz fogyasztás után 120 perccel) | 24-28. hét |  |  |
 
-| 14. | terheléses vércukorvizsgálat (éhomi és 75 g glukózfogyasztás után 120 perccel) | 24–28. héten |  |  |
+| vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejt szám, vérlemezke szám) | 24-28. hét |  |  |
 
-| 15. | vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejtszám, vérlemezkeszám) és vörösvértest ellenanyagszűrés | 24–28. héten |  |  |
+| vizelet (fehérje, genny, cukor, aceton, UBG, üledék) | 24-28. hét |  |  |
 
-| 16. | vizelet (fehérje, genny, cukor, aceton, urobilinogen, üledék) | 24–28. héten |  |  |
+| 3. A várandósság harmadik harmadában végzendő vizsgálatok |  |
 
-| 17. | 3. A várandósság harmadik harmadában végzendő vizsgálatok |  |  |
+| ultrahang szűrővizsgálat | 30-32. hét |  |  |
 
-| 18. | ultrahang szűrővizsgálat | 30–32. héten |  |  |
+| vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejt szám, vérlemezke szám), vörösvértest-ellenanyagszűrés, Se creatinin, KN, eGFR, SGOT, SGPT, SeBi | 36-37. hét |  |  |
 
-| 19. | vérkép (hemoglobin, hematokrit, vvt indexek, fehérvérsejtszám, vérlemezkeszám) és vörösvértest ellenanyagszűrés, májfunkció, vesefunkció | 36–37. héten |  |  |
+| kardiotokográfos szűrővizsgálat | 38. hét |  |  |
 
-| 20. | vizelet (fehérje, genny, cukor, aceton, urobilinogen, üledék) | 36–37. héten |  |  |
+| 39. hét |  |  |
 
-| 21. | kardiotokográfos szűrővizsgálat | 38. héten 39. héten 40. héten |  |  |
+| 40. hét |  |  |
 
-[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 44/2014. (X. 27.) EMMI rendelet 10. §-a iktatta be.
-[^2]: Az 1. melléklet a 44/2014. (X. 27.) EMMI rendelet 11. §-a szerint módosított szöveg.
+PH.
+
+…………………………….
+
+háziorvos aláírása
+
+[^10]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 44/2014. (X. 27.) EMMI rendelet 10. §-a iktatta be.
+[^11]: Az 1. melléklet a 7/2015. (II. 2.) EMMI rendelet 18. §-ával megállapított szöveg.

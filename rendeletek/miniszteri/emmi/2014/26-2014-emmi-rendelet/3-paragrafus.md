@@ -1,4 +1,4 @@
-## végzi a szakellátás keretében.
+## végzi a védőnő és a háziorvos együttműködésével.
 
 ## 2. A szülésznő közreműködése
 
