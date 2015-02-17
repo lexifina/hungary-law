@@ -6,9 +6,9 @@ a) ha az ügyfél a támogatást a 4. § (3) bekezdés a) pontja szerinti nyilat
 
 b) ha az ügyfél a támogatást a 4. § (3) bekezdés b) pontja szerinti nyilatkozata alapján feldolgozó ügyfélként igényli, akkor az ÚMVP „Mezőgazdasági termékek értéknövelése”
 
-## intézkedéshez rendelt keretösszeg [az a)–b) pontok a továbbiakban együtt: keretösszeg].
+intézkedéshez rendelt keretösszeg [az a)–b) pontok a továbbiakban együtt: keretösszeg].
 
-(2)[^5] Egy kérelem benyújtásával igénybe vehető támogatás:
+(2)[^6] Egy kérelem benyújtásával igénybe vehető támogatás:
 
 a) legmagasabb összege 735 000 eurónak megfelelő forintösszeg, ha az ügyfél a támogatást mezőgazdasági termelő ügyfélként, illetve TCs ügyfélként igényli;
 
@@ -46,9 +46,9 @@ b) az építési normagyűjteményben beazonosítható építés-, épületgép�
 
 c) a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra,
 
-d)[^6] a támogatott fejlesztés bármely területét szolgáló, az adott területre egyedileg adaptált szoftver – kivéve a számítógép működését lehetővé tévő operációs rendszer – és alkalmazását biztosító hardvereszköz
+d)[^7] a támogatott fejlesztés bármely területét szolgáló, az adott területre egyedileg adaptált szoftver – kivéve a számítógép működését lehetővé tévő operációs rendszer – és alkalmazását biztosító hardvereszköz
 
-## kifizetett vagy kifizetni tervezett összeg.
+kifizetett vagy kifizetni tervezett összeg.
 
 (9) A támogatás elszámolható kiadásai nem haladhatják meg:
 
@@ -56,13 +56,13 @@ a) a (8) bekezdés a) és d) pontjai alá tartozó tételek esetében a Vhr. 27.
 
 b) a (8) bekezdés b) pontja alá tartozó tételek esetében az építési normagyűjteményben szereplő referenciaárat;
 
-c)[^7] a melléktermékvonal blokk elszámolható kiadása az egyéb elszámolható kiadások és a melléktermékvonal blokk elszámolható kiadásai nélkül számított összes elszámolható kiadás 25%-át;
+c)[^8] a melléktermékvonal blokk elszámolható kiadása az egyéb elszámolható kiadások és a melléktermékvonal blokk elszámolható kiadásai nélkül számított összes elszámolható kiadás 25%-át;
 
 d) a kapcsolódó infrastruktúra elszámolható kiadásai a 20 millió forintot.
 
-(10)[^8] A (8) bekezdés c) pontja szerinti egyéb elszámolható kiadások tekintetében, ha a támogatási döntésben telephelyenként eltérő támogatási intenzitások kerülnek megállapításra, akkor az egyéb elszámolható kiadásokra egységesen a legalacsonyabb intenzitást kell figyelembe venni.
+(10)[^9] A (8) bekezdés c) pontja szerinti egyéb elszámolható kiadások tekintetében, ha a támogatási döntésben telephelyenként eltérő támogatási intenzitások kerülnek megállapításra, akkor az egyéb elszámolható kiadásokra egységesen a legalacsonyabb intenzitást kell figyelembe venni.
 
-[^5]: Az 5. § (2) bekezdése a 61/2009. (V. 14.) FVM rendelet 83. §-ával megállapított szöveg.
-[^6]: Az 5. § (8) bekezdésének d) pontja a 96/2009. (VII. 30.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (9) bekezdésének c) pontja a 96/2009. (VII. 30.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (10) bekezdését a 96/2009. (VII. 30.) FVM rendelet 3. § (3) bekezdése iktatta be.
+[^6]: Az 5. § (2) bekezdése a 61/2009. (V. 14.) FVM rendelet 83. §-ával megállapított szöveg.
+[^7]: Az 5. § (8) bekezdésének d) pontja a 96/2009. (VII. 30.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (9) bekezdésének c) pontja a 96/2009. (VII. 30.) FVM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (10) bekezdését a 96/2009. (VII. 30.) FVM rendelet 3. § (3) bekezdése iktatta be.

@@ -10,7 +10,7 @@ c) a kis- és középvállalkozásnak minősülő (a továbbiakban: KKV), vagy n
 
 (2) Az (1) bekezdés a) és c) pontjaiban foglalt árbevételi arányra, mezőgazdasági üzemméretre vonatkozó feltételek nem vonatkoznak az induló vállalkozásra.
 
-(3)[^2] Az ügyfélnek a támogatás igénybevételéhez a támogatási kérelemhez rendszeresített vonatkozó formanyomtatvány adataival nyilatkoznia kell arról, hogy az üzemeltetési kötelezettség lejáratáig terjedő időszakban minden évben az értékesítésből származó árbevételének
+(3)[^3] Az ügyfélnek a támogatás igénybevételéhez a támogatási kérelemhez rendszeresített vonatkozó formanyomtatvány adataival nyilatkoznia kell arról, hogy az üzemeltetési kötelezettség lejáratáig terjedő időszakban minden évben az értékesítésből származó árbevételének
 
 a) legalább 50%-a származik nem-feldolgozott mezőgazdasági termékek értékesítéséből és a támogatást mezőgazdasági termelő ügyfélként vagy TCs-ként igényli, vagy
 
@@ -38,13 +38,13 @@ e) a Vhr. 3. § 26. pontja szerinti feldolgozónak minősülő nehéz helyzetben
 
 f) a gyártási blokk névleges teljesítményéhez igazodóan 30 munkanap alatt gyártott végtermék-készletet meghaladó mennyiség tárolására alkalmas tárolóegység-rész létesítéséhez, felújításához;
 
-g)[^3] nem mezőgazdasági beruházáshoz.
+g)[^4] nem mezőgazdasági beruházáshoz.
 
 (6) E rendelet alapján támogatás csak akkor nyújtható, ha a (9) bekezdés szerinti technológiai terv alapján a fejlesztés technológiailag-műszakilag megvalósítható, a technológiai blokkok, az abban szereplő gépek, berendezések paraméterei, kapacitásai egymáshoz illeszkednek és műszakilag-energetikailag képes teljesíteni a (10) bekezdés c) pontja szerinti vállalást.
 
 (7) Induló vállalkozásnak minősülő feldolgozó ügyfél esetén az (5) bekezdés e) pontjában foglalt feltétel vizsgálata a támogatási kérelem benyújtásától számított 3. lezárt, teljes gazdasági évet követően történik.
 
-(8)[^4] A Tv. 18. §-ában foglaltak figyelembevételével a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a (4) bekezdés a) és b) pontjaiban, az (5) bekezdés a), b), c) és f) pontjaiban, a (6), (9) bekezdésekben, a (10) bekezdés c) pontjában, a (11) bekezdésben, valamint a 8. § (2) bekezdésében foglaltak és a mellékletben a „Szakmai Szempontok” cím értékeléséhez együttműködő szervezetként a Földművelésügyi és Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézetét (a továbbiakban: MGI) vonja be.
+(8)[^5] A Tv. 18. §-ában foglaltak figyelembevételével a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a (4) bekezdés a) és b) pontjaiban, az (5) bekezdés a), b), c) és f) pontjaiban, a (6), (9) bekezdésekben, a (10) bekezdés c) pontjában, a (11) bekezdésben, valamint a 8. § (2) bekezdésében foglaltak és a mellékletben a „Szakmai Szempontok” cím értékeléséhez együttműködő szervezetként a Földművelésügyi és Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézetét (a továbbiakban: MGI) vonja be.
 
 (9) A technológiai tervnek tartalmaznia kell:
 
@@ -80,6 +80,6 @@ h) a beruházás befejezését követő első teljes lezárt gazdasági évre me
 
 (11) Az e rendelet alapján nyújtott támogatásból vásárolt gép, berendezés olyan eszközre cserélhető le, amelyik a 8. § (2) bekezdés alapján egyenértékűnek tekinthető, és amely cseréjével a támogatással érintett gyártási blokk éves kapacitása nem csökken.
 
-[^2]: A 4. § (3) bekezdése a 96/2009. (VII. 30.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 4. § (5) bekezdésének g) pontját a 96/2009. (VII. 30.) FVM rendelet 2. § (2) bekezdése iktatta be.
-[^4]: A 4. § (8) bekezdése a 96/2009. (VII. 30.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^3]: A 4. § (3) bekezdése a 96/2009. (VII. 30.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (5) bekezdésének g) pontját a 96/2009. (VII. 30.) FVM rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 4. § (8) bekezdése a 96/2009. (VII. 30.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg.

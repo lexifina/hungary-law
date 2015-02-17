@@ -1,4 +1,4 @@
-## 10/A. §[^18] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártárgyú miniszteri rendeletek módosításáról szóló 76/2012. (VII. 27.) VM rendelettel [a továbbiakban: 76/2012. (VII. 27.) VM rendelet] megállapított 8/A. §-ának rendelkezéseit a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^19] folyamatban lévő azon ügyekben kell alkalmazni, amelyekben a támogatási kérelmet 2009. november 16. napjáig nyújtották be és a 76/2012. (VII. 27.) VM rendelet hatálybalépésekor[^20] a Vhr. 24. § (1) bekezdése rendelkezéseinek megsértése miatt a 35. § (9) bekezdésében foglaltak alkalmazásának lenne helye, vagy a Vhr. 35. § (9) bekezdésében foglalt bármelyik döntés még nem emelkedett jogerőre, vagy annak kapcsán bírósági felülvizsgálat van folyamatban.
+## 10/B. §[^24] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 9. § (3) és (4) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^25] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
@@ -166,6 +166,5 @@ Magyarázatok, kiegészítések, megjegyzések:
 
 4. Nem természetes személy ügyfél esetén a pontszám csak akkor kerül megállapításra, ha az ügyfél egyidejűleg nyilatkozik arról, hogy a munkavállalója hozzájárult az adatkezeléshez.
 
-[^18]: A 10/A. §-t a 76/2012. (VII. 27.) VM rendelet 18. §-a iktatta be.
-[^19]: A hatálybalépés időpontja 2012. július 28.
-[^20]: A hatálybalépés időpontja 2012. július 28.
+[^24]: A 10/B. §-t a 7/2015. (II. 17.) MvM rendelet 27. § (2) bekezdése iktatta be.
+[^25]: A hatálybalépés időpontja 2015. február 17.
