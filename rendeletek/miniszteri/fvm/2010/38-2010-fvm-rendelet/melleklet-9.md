@@ -1,5 +1,3 @@
-## A támogatási kérelmek elbírálása során célprogramcsoportonként elfogadható elismert termelői csoportok a termékcsoportok alapján
-
 |  | A | B |
 
 | 1 | Célprogramcsoport | Termékcsoport |
@@ -22,9 +20,9 @@
 
 | 10 | Tojás |
 
-9. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^69]
+9. melléklet a 38/2010. (IV. 15.) FVM rendelethez[^73]
 
-## A tenyésztési programra vonatkozó meg nem felelés kiértékelésének alapelvei
+A tenyésztési programra vonatkozó meg nem felelés kiértékelésének alapelvei
 
 1. Az egyes meg nem felelések meghatározott értékelése alapján a következő jogkövetkezmény- számítási besorolást kell elvégezni:
 
@@ -68,4 +66,4 @@
 
 |  | 10. | 5 | 5 | 100% |
 
-[^69]: A 9. melléklet a 74/2011. (VII. 29.) VM rendelet 9. §-a szerint módosított szöveg.
+[^73]: A 9. melléklet a 74/2011. (VII. 29.) VM rendelet 9. §-a szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## Támogatható állatfajok ugyanazon fajtához tartozó, tenyészthető fajtatiszta nőivarú egyedeinek száma (db)
-
 |  | A | B | C |
 
 | 1 | Fajta | Maximális támogatható állatlétszám fajtánként | Maximális támogatható nukleusz/elit fajtánként |
@@ -29,3 +27,5 @@
 | 13 | lúd | 25 000 | 3 000 |
 
 3. melléklet a 38/2010. (IV. 15.) FVM rendelethez
+
+A támogatás mértéke
