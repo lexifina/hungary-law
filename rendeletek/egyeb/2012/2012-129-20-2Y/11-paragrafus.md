@@ -1,7 +1,7 @@
-## kell az utolsó kifizetési kérelmet benyújtania.
-
 ## 10. Jogkövetkezmények
 
-11. § (1) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor – hiányzó foglalkoztatottanként egyszer – a kifizetési kérelmek alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legalább 300 000 forintot köteles visszafizetni.
+11. §[^8] (1) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor – hiányzó foglalkoztatottanként egyszer – valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot köteles visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
 
-(2) A pontozási szempontok tekintetében vállalt kötelezettség nem teljesítése esetén, amennyiben a nem teljesítés pontszámvesztést eredményezne, az ügyfél szempontonként a kifizetési kérelmek alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget köteles visszafizetni.
+(2) Az (1) bekezdésben nem szabályozott pontozási szempontok tekintetében vállalt kötelezettség nem teljesítése esetén, amennyiben a nem teljesítés pontszámvesztést eredményezne, az ügyfél szempontonként valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot köteles visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
+
+[^8]: A 11. § a 7/2015. (II. 17.) MvM rendelet 68. § (2) bekezdésével megállapított szöveg.
