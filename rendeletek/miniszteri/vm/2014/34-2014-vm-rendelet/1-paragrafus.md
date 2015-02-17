@@ -20,9 +20,13 @@
 
 9. mezőgazdasági termelő tevékenységből származó árbevétel: a mezőgazdasági termelő tevékenységet folytató gazdálkodó gazdaságából – a növénytermesztés, kertészet, és állattenyésztés ágazataiból – származó termékek értékesítéséből származó bevételek összege;
 
-10. működtetési időszak: e rendelet szerinti támogatási kérelmet jóváhagyó határozat jogerőre emelkedését követő év január 1-jétől számított ötödik naptári év végéig terjedő időszak;
+10.[^1] működtetési időszak:
 
-11.[^1] tanya: az ingatlan-nyilvántartásban szereplő, a település külterületén fekvő olyan földrészlet, amelyhez a föld mellett növénytermesztés és állattartás, továbbá az ezekkel kapcsolatos termékfeldolgozás, termény- vagy terméktárolás céljára létesített lakó- és gazdasági épület, illetve ilyen épületcsoport is tartozik, vagy az olyan földrészlet, amely az ingatlan-nyilvántartásban tanyaként vagy majorként szerepel;
+a) e rendelet szerinti támogatási kérelmet jóváhagyó határozat jogerőre emelkedését követő év január 1-jétől számított ötödik naptári év végéig terjedő időszak, vagy
+
+b) ha a támogatási kérelmet jóváhagyó határozat 2015. január és február hónapokban emelkedik jogerőre, és az ügyfél legkésőbb 2015. március 15-ig nyilatkozik, hogy az e rendeletben foglalt kötelezettségeket vállalja a támogatási kérelmet jóváhagyó határozat jogerőre emelkedése évének január 1-jétől, akkor a működtetési időszak első napja a támogatási határozat jogerőssé válása évének január 1-je és a működtetési időszak az e naptól számított ötéves időtartam;
+
+11.[^2] tanya: az ingatlan-nyilvántartásban szereplő, a település külterületén fekvő olyan földrészlet, amelyhez a föld mellett növénytermesztés és állattartás, továbbá az ezekkel kapcsolatos termékfeldolgozás, termény- vagy terméktárolás céljára létesített lakó- és gazdasági épület, illetve ilyen épületcsoport is tartozik, vagy az olyan földrészlet, amely az ingatlan-nyilvántartásban tanyaként vagy majorként szerepel;
 
 12. termelői csoport: a Vhr. 3. § 7. pontja szerinti csoport;
 
@@ -30,4 +34,5 @@
 
 14. zöldség-gyümölcs termelői csoport és termelői szervezet: a Vhr. 3. § 18. pontja szerinti csoport.
 
-[^1]: Az 1. § 11. pontja az 53/2014. (IV. 29.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § 10. pontja a 7/2015. (II. 17.) MvM rendelet 78. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 11. pontja az 53/2014. (IV. 29.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.

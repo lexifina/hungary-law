@@ -22,7 +22,7 @@ ed) a sertésfélékre vonatkozóan a sertések jelöléséről, valamint Egysé
 
 ee) a baromfifélékre vonatkozóan a Baromfi Információs Rendszer létrehozásáról és működtetésének rendjéről szóló miniszteri rendeletben
 
-## előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek;
+előírt, az állatállományra vonatkozó bejelentési kötelezettségeknek;
 
 f) a használatában lévő területeket a földhasználati nyilvántartásba bejelenteni, amennyiben a feltételt jogszabály lehetővé teszi;
 
@@ -30,8 +30,9 @@ g) a gazdálkodásával összefüggésben, a gazdasága teljes területén elvé
 
 (2) A gazdaság személyes vezetésének minősül a támogatásra jogosult ügyfél általi személyes vezetés, továbbá a mezőgazdasági üzemnek a (3) bekezdés szerinti közreműködő bevonásával történő vezetése.
 
-(3) A terhességi-gyermekágyi segélyben, gyermekgondozási díjban vagy gyermekgondozási segélyben (a továbbiakban együtt: családtámogatási ellátás) részesülő ügyfél a gazdaság vezetésébe az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti közreműködőt vonhat be. A közreműködő bevonásának tényét teljes bizonyító erejű magánokiratba kell foglalni, a 4. melléklet szerinti adattartalommal. A teljes bizonyító erejű magánokirat másolatát a közreműködő bevonásának kezdetétől számított 8 munkanapon belül meg kell küldeni az MVH részére, amelyhez igazolást kell mellékelni arról, hogy az ügyfél családtámogatási ellátásban részesül.
+(3)[^3] A csecsemőgondozási díjban, gyermekgondozási díjban vagy gyermekgondozási segélyben (a továbbiakban együtt: családtámogatási ellátás) részesülő ügyfél a gazdaság vezetésébe az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti közreműködőt vonhat be. A közreműködő bevonásának tényét teljes bizonyító erejű magánokiratba kell foglalni, a 4. melléklet szerinti adattartalommal. A teljes bizonyító erejű magánokirat másolatát a közreműködő bevonásának kezdetétől számított 8 munkanapon belül meg kell küldeni az MVH részére, amelyhez igazolást kell mellékelni arról, hogy az ügyfél családtámogatási ellátásban részesül.
 
-(4)[^2] Ha az ügyfél életvitelszerű tartózkodási helye tanyán van, azonban nem tanyaként vagy majorként szerepel az ingatlan-nyilvántartásban, akkor az ügyfélnek a területileg illetékes önkormányzat jegyzője által kiállított igazolással kell igazolnia legkésőbb az utolsó kifizetési kérelem benyújtásáig, hogy külterületi életvitelszerű tartózkodási helye gazdálkodásra alkalmas.
+(4)[^4] Ha az ügyfél életvitelszerű tartózkodási helye tanyán van, azonban nem tanyaként vagy majorként szerepel az ingatlan-nyilvántartásban, akkor az ügyfélnek a területileg illetékes önkormányzat jegyzője által kiállított igazolással kell igazolnia legkésőbb az utolsó kifizetési kérelem benyújtásáig, hogy külterületi életvitelszerű tartózkodási helye gazdálkodásra alkalmas.
 
-[^2]: A 4. § (4) bekezdését a 8/2014. (XI. 19.) MvM rendelet 25. § (1) bekezdése iktatta be.
+[^3]: A 4. § (3) bekezdése a 7/2015. (II. 17.) MvM rendelet 79. §-a szerint módosított szöveg.
+[^4]: A 4. § (4) bekezdését a 8/2014. (XI. 19.) MvM rendelet 25. § (1) bekezdése iktatta be.

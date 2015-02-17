@@ -1,8 +1,8 @@
-## 15. §[^8] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 4. § (4) bekezdést és 12. § (9) bekezdés e) és f) pontot a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^9] folyamatban levő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 17. §[^24] Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-je előtt nyílt meg.
 
 1. melléklet a 34/2014. (IV. 4.) VM rendelethez
 
-## Mezőgazdasági termeléssel összefüggő szakképesítések
+Mezőgazdasági termeléssel összefüggő szakképesítések
 
 1. Elfogadható szakképesítések az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet alapján
 
@@ -706,5 +706,4 @@
 
 | Szakmunkás bizonyítvány alapján: | Szakmunkás |
 
-[^8]: A 15. §-t a 8/2014. (XI. 19.) MvM rendelet 25. § (3) bekezdése iktatta be.
-[^9]: A hatálybalépés időpontja 2014. november 20.
+[^24]: A 17. §-t a 7/2015. (II. 17.) MvM rendelet 78. § (7) bekezdése iktatta be.
