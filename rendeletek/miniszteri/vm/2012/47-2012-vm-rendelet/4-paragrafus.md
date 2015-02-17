@@ -8,7 +8,7 @@ b) az induló mikrovállalkozás,
 
 c) a természetes személy, aki vállalja, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig egyéni vállalkozóként nyilvántartásba veteti magát és tevékenységét, amennyiben főállású alkalmazottat nem foglalkoztat, főállásban ekként végzi
 
-## (az a)–c) pont a továbbiakban együtt: ügyfél).
+(az a)–c) pont a továbbiakban együtt: ügyfél).
 
 (2) Az ügyfél lakóhelye, tartózkodási helye, székhelye, telephelye, fióktelepe szerint illetékes LEADER HACS tervezési területén megvalósuló fejlesztések támogathatóak. Az ügyfél kérelme vonatkozásában a beruházás csak egy LEADER HACS területén valósulhat meg.
 
@@ -18,19 +18,13 @@ a) ha az ügyfél természetes személy, akkor lakóhellyel vagy tartózkodási 
 
 b) ha mikrovállalkozás, akkor székhellyel, telephellyel vagy fiókteleppel
 
-## rendelkezik.
+rendelkezik.
 
 (4) Ha a kérelem az 5. mellékletben szereplő települések közül több települést is érint, az ügyfélnek valamely településen vagy annak külterületén már a támogatási kérelem benyújtásakor lakóhellyel, tartózkodási hellyel, székhellyel, telephellyel vagy fiókteleppel kell rendelkeznie.
 
-(5)[^2] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően,
+(5)[^3] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfélnek a műveletet 2015. május 31-ig kell megvalósítania.
 
-a) az ügyfélnek a támogatási határozat közlésétől számított két éven belül,
+(6)[^4]
 
-b) annak az ügyfélnek, aki 2015. március 31. napját megelőző két éven belül veszi kézhez a támogatási határozatot, az a) pont szerinti határidőre tekintet nélkül 2015. március 31. napjáig
-
-## kell a műveletet megvalósítania.
-
-(6)[^3]
-
-[^2]: A 4. § (5) bekezdése az 1/2014. (IX. 15.) MvM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^3]: A 4. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 14. §-a hatályon kívül helyezte.
+[^3]: A 4. § (5) bekezdése a 7/2015. (II. 17.) MvM rendelet 54. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 14. §-a hatályon kívül helyezte.
