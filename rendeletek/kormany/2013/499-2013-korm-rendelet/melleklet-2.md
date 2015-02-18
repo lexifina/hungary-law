@@ -30,21 +30,19 @@
 
 |  | TÁMOGATÁSI IGÉNYT ELBÍRÁLÓ SZERVEZET NEVE | A TÁMOGATÁSI IGÉNY BENYÚJTÁSÁNAK IDŐPONTJA | A TÁMOGATÁSI IGÉNYBEN MEGJELÖLT ÖSSZEG |
 
-## [Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 72. § (2) bekezdés a) pont]
+## 2. Kijelentem, hogy az általam képviselt szervezet nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban.
 
-## 2. Kijelentem, hogy az általam képviselt szervezet nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban. [Ávr. 72. § (2) bekezdés b) pont]
+## 3. Hozzájárulok, hogy az általam képviselt szervezet támogatási kérelmében szereplő, valamint az azzal összefüggő adatokat a támogató a Magyar Államkincstár által működtetett monitoring rendszer részére közvetítse, valamint hogy a nyilvántartott adatokhoz a támogató, az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az Európai Támogatásokat Auditáló Főigazgatóság, az állami adóhatóság, a csekély összegű támogatások nyilvántartásában érintett szervek, valamint a jogszabályban meghatározott más jogosultak hozzáférjenek.
 
-## 3. Hozzájárulok, hogy az általam képviselt szervezet támogatási kérelmében szereplő, valamint az azzal összefüggő adatokat a támogató a Magyar Államkincstár által működtetett monitoring rendszer részére közvetítse, valamint hogy a nyilvántartott adatokhoz a támogató, az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az Európai Támogatásokat Auditáló Főigazgatóság, az állami adóhatóság, a csekély összegű támogatások nyilvántartásában érintett szervek, valamint az Ávr.-ben meghatározott más jogosultak hozzáférjenek.
+## 4. Nyilatkozom, hogy az általam képviselt szervezet megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdésében meghatározott követelményeknek, és az Áht. 109. § (4) bekezdése alapján kiadott miniszteri rendelet szerint vizsgálandó jogi személy, jogi személyiséggel nem rendelkező szervezet adatait rendelkezésre bocsátja.
 
-## 4. Nyilatkozom, hogy az általam képviselt szervezet megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdésében meghatározott követelményeknek, és az Áht. 109. § (4) bekezdése alapján kiadott miniszteri rendelet szerint vizsgálandó jogi személy, jogi személyiséggel nem rendelkező szervezet adatait rendelkezésre bocsátja. [Ávr. 72. § (2) bekezdés d) pont]
+## 5. Tudomásul veszem, hogy amennyiben az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 97. § (1) bekezdésében meghatározott adatokban változás következik be, úgy a tudomásra jutástól számított 8 napon belül azt írásban jelzem a támogató részére, és kötelezettséget vállalok arra, hogy a jogosulatlanul igénybe vett támogatás összegét és annak kamatait az Ávr.-ben foglaltak szerint visszafizetem a támogató részére.
 
-## 5. Tudomásul veszem, hogy amennyiben az Ávr. 83. § (1) bekezdésében meghatározott adatokban változás következik be, úgy a tudomásra jutástól számított 8 napon belül azt írásban jelzem a támogató részére, és kötelezettséget vállalok arra, hogy a jogosulatlanul igénybe vett támogatás összegét és annak kamatait az Ávr.-ben foglaltak szerint visszafizetem a támogató részére. [Ávr. 72. § (2) bekezdés f) pont]
-
-## 6. Tudomásul veszem, hogy részemre támogatás nem folyósítható, amíg lejárt esedékességű, meg nem fizetett köztartozásom van, illetve a megítélt és folyósításra kerülő esedékes támogatásból a köztartozás összege visszatartásra kerül. (Ávr. 79. §)
+## 6. Tudomásul veszem, hogy részemre támogatás nem folyósítható, amíg lejárt esedékességű, meg nem fizetett köztartozásom van, illetve a megítélt és folyósításra kerülő esedékes támogatásból a köztartozás összege visszatartásra kerül.
 
 ## 7. Tudomásul veszem, hogy a köztartozás vizsgálata céljából – a támogatási jogviszony fennállásáig – a támogató vagy a támogató adatszolgáltatása alapján a Magyar Államkincstár és a Nemzeti Adó- és Vámhivatal jogosultak az általam képviselt szervezet nevének (megnevezésének), lakhelyének (székhelyének), adószámának, adóazonosító jelének kezelésére.
 
-## 8. Nyilatkozom továbbá, hogy az általam képviselt szervezet a támogatott tevékenység tekintetében az általános forgalmi adó levonására [Ávr. 72. § (2) bekezdés h) pont]
+## 8. Nyilatkozom továbbá, hogy az általam képviselt szervezet a támogatott tevékenység tekintetében az általános forgalmi adó levonására
 
 ## a)
 
@@ -57,8 +55,6 @@
 |  | □ | az adóterhet áthárítja |
 
 |  | □ | nem hárítja át. |
-
-## [Ávr. 72. § (2) bekezdés d) pont]
 
 ## 9. Nyilatkozom, hogy az általam képviselt szervezettel szemben nem állnak fenn az alábbiak:
 
@@ -102,13 +98,11 @@
 
 ## Kijelentem, hogy az érintettség közzétételét külön űrlap csatolásával kezdeményeztem.
 
-## [Ávr. 72. § (2) bekezdés e) pont]
-
 ## Kelt:
 
 ## Aláírás/Cégszerű aláírás
 
-2. melléklet a 499/2013. (XII. 29.) Korm. rendelethez
+2. melléklet a 499/2013. (XII. 29.) Korm. rendelethez[^16]
 
 NYILATKOZAT
 
@@ -146,7 +140,7 @@ A fizetési számla tulajdonos címe:
 
 Fizetési számlát vezető pénzintézet neve:
 
-Fizetési számla száma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ - ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜, ahova a támogatás átutalását kéri.
+Fizetési számla száma: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ -⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ -⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜, ahova a támogatás átutalását kéri.
 
 Nem magyar állampolgárság esetén
 
@@ -176,7 +170,7 @@ Alulírott .....................................................................
 
 járó adót ................................-ban fizetem meg. (az ország neve)
 
-Kijelentem továbbá, hogy adóazonosító jellel rendelkezem/nem rendelkezem Magyarországon.[^9]
+Kijelentem továbbá, hogy adóazonosító jellel rendelkezem/nem rendelkezem Magyarországon.[^17]
 
 Amennyiben Magyarországon rendelkezem adóazonosító jellel, úgy az a következő: ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
@@ -186,13 +180,11 @@ Amennyiben Magyarországon rendelkezem adóazonosító jellel, úgy az a követk
 
 |  | TÁMOGATÁSI IGÉNYT ELBÍRÁLÓ SZERVEZET NEVE | A TÁMOGATÁSI IGÉNY BENYÚJTÁSÁNAK IDŐPONTJA | A TÁMOGATÁSI IGÉNYBEN MEGJELÖLT ÖSSZEG |
 
-[Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 72. § (2) bekezdés a) pont]
+3. Hozzájárulok, hogy a támogatási kérelemben szereplő, valamint az azzal összefüggő adatokat a támogató a Magyar Államkincstár által működtetett monitoring rendszer részére közvetítse, valamint hogy a nyilvántartott adatokhoz a támogató, az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az Európai Támogatásokat Auditáló Főigazgatóság, az állami adóhatóság, a csekély összegű támogatások nyilvántartásában érintett szervek, valamint a jogszabályban meghatározott más jogosultak hozzáférjenek.
 
-3. Hozzájárulok, hogy a támogatási kérelemben szereplő, valamint az azzal összefüggő adatokat a támogató a Magyar Államkincstár által működtetett monitoring rendszer részére közvetítse, valamint hogy a nyilvántartott adatokhoz a támogató, az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az Európai Támogatásokat Auditáló Főigazgatóság, az állami adóhatóság, a csekély összegű támogatások nyilvántartásában érintett szervek, valamint az Ávr.-ben meghatározott más jogosultak hozzáférjenek.
+4. Tudomásul veszem, hogy amennyiben az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 97. § (1) bekezdésében meghatározott adatokban változás következik be, úgy a tudomásra jutástól számított 8 napon belül azt írásban jelzem a támogató részére, és kötelezettséget vállalok arra, hogy a jogosulatlanul igénybe vett támogatás összegét és annak kamatait az Ávr.-ben foglaltak szerint visszafizetem a támogató részére.
 
-4. Tudomásul veszem, hogy amennyiben az Ávr. 83. § (1) bekezdésében meghatározott adatokban változás következik be, úgy a tudomásra jutástól számított 8 napon belül azt írásban jelzem a támogató részére, és kötelezettséget vállalok arra, hogy a jogosulatlanul igénybe vett támogatás összegét és annak kamatait az Ávr.-ben foglaltak szerint visszafizetem a támogató részére. [Ávr. 72. § (2) bekezdés f) pont]
-
-5. Tudomásul veszem, hogy részemre támogatás nem folyósítható, amíg lejárt esedékességű, meg nem fizetett köztartozásom van, illetve a megítélt és folyósításra kerülő esedékes támogatásból a köztartozás összege visszatartásra kerül. (Ávr. 79. §)
+5. Tudomásul veszem, hogy részemre támogatás nem folyósítható, amíg lejárt esedékességű, meg nem fizetett köztartozásom van, illetve a megítélt és folyósításra kerülő esedékes támogatásból a köztartozás összege visszatartásra kerül.
 
 6. Tudomásul veszem, hogy a köztartozás vizsgálata céljából – a támogatási jogviszony fennállásáig – a támogató vagy a támogató adatszolgáltatása alapján a Magyar Államkincstár és a Nemzeti Adó- és Vámhivatal jogosultak a fenti kezelésére.
 
@@ -210,16 +202,15 @@ b) 8. § (1) bekezdése szerinti érintettség
 
 |  | ⬜ | fennáll a(z) ... pont alapján |
 
-Az összeférhetetlenség vagy az érintettség alapjául szolgáló körülmény leírása:
+| Az összeférhetetlenség vagy az érintettség alapjául szolgáló körülmény leírása: |
 
-Kijelentem, hogy az összeférhetetlenség megszüntetésére az alábbiak szerint intézkedtem:
+| Kijelentem, hogy az összeférhetetlenség megszüntetésére az alábbiak szerint intézkedtem: |
 
-Kijelentem, hogy az érintettség közzétételét külön űrlap csatolásával kezdeményeztem.
-
-[Ávr. 72. § (2) bekezdés e) pont]
+| Kijelentem, hogy az érintettség közzétételét külön űrlap csatolásával kezdeményeztem. |
 
 Kelt:
 
 Aláírás
 
-[^9]: A megfelelő aláhúzandó, illetve kitöltendő.
+[^16]: A 2. melléklet a 20/2015. (II. 17.) Korm. rendelet 29. §-a, 30. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A megfelelő aláhúzandó, illetve kitöltendő.
