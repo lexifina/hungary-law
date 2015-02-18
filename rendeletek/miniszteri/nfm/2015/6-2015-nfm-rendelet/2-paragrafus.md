@@ -1,0 +1,1 @@
+## 1. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvényben meghatározott feladatokat ellátó tanúsító szervnek minősül bármely, az Európai Unió területén működő, bármely tagállam által elismert tanúsító szerv.
