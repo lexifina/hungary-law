@@ -1,5 +1,5 @@
-62/E. §[^169] (1) A Kincstár a személyi juttatások, az adók és a járulékok felhasználásáról az államháztartási számviteli kormányrendelet számviteli elszámolásainak megfelelően könyvelési értesítőt készít, amelyet a tárgyhónapot követő hónap 16. napjáig megküld a foglalkoztatónak.
+62/E. §[^176] (1) A Kincstár a személyi juttatások, az adók és a járulékok felhasználásáról az államháztartási számviteli kormányrendelet számviteli elszámolásainak megfelelően könyvelési értesítőt készít, amelyet a tárgyhónapot követő hónap 16. napjáig megküld a foglalkoztatónak.
 
 (2) Ha az államháztartási számviteli kormányrendelet 44. § (5) bekezdése szerinti egyeztetés alapján a foglalkoztató megállapítja, hogy a könyvelési értesítő hibás adatot tartalmaz, a Kincstár a foglalkoztató tájékoztatása alapján, annak megalapozottsága esetén helyesbítő könyvelési értesítőt készít és küld meg a foglalkoztató részére. A foglalkoztató által jelzett hiba, eltérés kivizsgálására és javítására, valamint az esetleges hiányosságok pótolására a 62/D. § (3) bekezdését kell alkalmazni. Az adóbevallás hibás, hiányos vagy késedelmes teljesítéséből eredő felelősség azt terheli, akinek a tevékenységében az azt kiváltó ok felmerült.
 
-[^169]: Az Ávr. 62/E. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^176]: Az Ávr. 62/E. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.

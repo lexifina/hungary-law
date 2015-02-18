@@ -1,21 +1,21 @@
-152. § (1)[^294] A fejezetet irányító szerv a fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok összesített költségvetési maradványáról az államháztartásért felelős miniszternek elszámolást (e § alkalmazásában a továbbiakban: elszámolás) készít.
+152. § (1)[^312] A fejezetet irányító szerv a fejezetbe sorolt költségvetési szervek és fejezeti kezelésű előirányzatok összesített költségvetési maradványáról az államháztartásért felelős miniszternek elszámolást (e § alkalmazásában a továbbiakban: elszámolás) készít.
 
 (2) Az elszámolás költségvetési szervenként és fejezeti kezelésű előirányzatonként külön-külön tartalmazza
 
-a)[^295] a költségvetési maradványból a központi költségvetést megillető részt,
+a)[^313] a költségvetési maradványból a központi költségvetést megillető részt,
 
-b)[^296] a kötelezettségvállalással terhelt költségvetési maradványt, és
+b)[^314] a kötelezettségvállalással terhelt költségvetési maradványt, és
 
-c)[^297] javaslatot a kötelezettségvállalással nem terhelt költségvetési maradvány változatlan célú visszahagyására vagy eltérő célú felhasználására.
+c)[^315] javaslatot a kötelezettségvállalással nem terhelt költségvetési maradvány változatlan célú visszahagyására vagy eltérő célú felhasználására.
 
 (3) A fejezetet irányító szerv az elszámolást a költségvetési évet követő év április 15-éig nyújtja be az államháztartásért felelős miniszternek.
 
 (4) Az államháztartásért felelős miniszter a benyújtott elszámolást a költségvetési évet követő év május 15-éig felülvizsgálja, és annak eredményéről a fejezetet irányító szervet tájékoztatja.
 
-(5)[^298] Az államháztartásért felelős miniszter a (2) bekezdés c) pontja szerinti kérelmek alapján előterjesztést készít a Kormánynak a kötelezettségvállalással nem terhelt költségvetési maradványok változatlan vagy eltérő célú felhasználásának engedélyezéséről. A Kormány az előterjesztésről egyedi határozatban dönt.
+(5)[^316] Az államháztartásért felelős miniszter a (2) bekezdés c) pontja szerinti kérelmek alapján előterjesztést készít a Kormánynak a kötelezettségvállalással nem terhelt költségvetési maradványok változatlan vagy eltérő célú felhasználásának engedélyezéséről. A Kormány az előterjesztésről egyedi határozatban dönt.
 
-[^294]: Az Ávr. 152. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 45. pontja szerint módosított szöveg.
-[^295]: Az Ávr. 152. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 46. pontja szerint módosított szöveg.
-[^296]: Az Ávr. 152. § (2) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 47. pontja szerint módosított szöveg.
-[^297]: Az Ávr. 152. § (2) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 48. pontja szerint módosított szöveg.
-[^298]: Az Ávr. 152. § (5) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 49. pontja szerint módosított szöveg.
+[^312]: Az Ávr. 152. § (1) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 45. pontja szerint módosított szöveg.
+[^313]: Az Ávr. 152. § (2) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 46. pontja szerint módosított szöveg.
+[^314]: Az Ávr. 152. § (2) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 47. pontja szerint módosított szöveg.
+[^315]: Az Ávr. 152. § (2) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 48. pontja szerint módosított szöveg.
+[^316]: Az Ávr. 152. § (5) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 49. pontja szerint módosított szöveg.

@@ -14,6 +14,8 @@ d) a kérelemben meghatározott időpontra szóló, a törzskönyvi jogi személ
 
 (3) A törzskönyvi jogi személyek meghatározott csoportjának vagy teljes körének a törzskönyvi nyilvántartásban szereplő, egyes fennálló vagy törölt adatára vonatkozó (a továbbiakban: csoportos adatszolgáltatás) kérelemben fel kell tüntetni a kérelmező nevét (megnevezését), címét (székhelyét), a kérelemmel érintett törzskönyvi jogi személyek és a 167/A. §-ban meghatározott adatok közül az igényelt adatok körét, az átvétel módját (személyesen vagy elektronikus úton), az értesítési elérhetőséget (elektronikus levélcím, telefonszám).
 
-(4) A csoportos adatszolgáltatás – a (3) bekezdésben meghatározott kivétellel – költségtérítés ellenében történik, amelynek összegét a Kincstár az adatszolgáltatás teljesítését megelőzően állapítja meg és közli a kérelmezővel. A költségtérítés összegét a Kincstár honlapján megjelölt fizetési számlájára kell befizetni. A csoportos adatszolgáltatás teljesítésére kizárólag a befizetés igazolását követően kerülhet sor.
+(4)[^361] A csoportos adatszolgáltatás – az (5) bekezdésben meghatározott kivétellel – költségtérítés ellenében történik, amelynek összegét a Kincstár az adatszolgáltatás teljesítését megelőzően állapítja meg és közli a kérelmezővel. A költségtérítés összegét a Kincstár honlapján megjelölt fizetési számlájára kell befizetni. A csoportos adatszolgáltatás teljesítésére kizárólag a befizetés igazolását követően kerülhet sor.
 
 (5) A csoportos adatszolgáltatás a bíróság, az ügyészség, a nemzetbiztonsági szolgálatok, a nyomozó hatóság, a közigazgatási szervek, a közjegyző, a bírósági végrehajtó, az állami, önkormányzati ellenőrző szervek és az MNV Zrt. számára – közfeladataik ellátása érdekében – ingyenes. A csoportos adatszolgáltatás iránti kérelemben a felhasználás céljára és az ingyenességre hivatkozni kell.
+
+[^361]: Az Ávr. 167/K. § (4) bekezdése a 20/2015. (II. 17.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.

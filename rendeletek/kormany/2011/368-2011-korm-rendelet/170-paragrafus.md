@@ -1,4 +1,4 @@
-170. §[^346] (1) Az eszközök és források alakulására vonatkozóan
+170. §[^367] (1) Az eszközök és források alakulására vonatkozóan
 
 a) az államháztartás központi alrendszerébe tartozó költségvetési szerv,
 
@@ -30,4 +30,4 @@ időközi mérlegjelentést készít.
 
 (10) Az államháztartás önkormányzati alrendszerébe tartozó szervezetek időközi mérlegjelentésére a (9) bekezdést azzal az eltéréssel kell alkalmazni, hogy Kincstáron az esetén az Igazgatóságot kell érteni. Az Igazgatóság által elfogadott adatszolgáltatást a Kincstár az adatszolgáltatás elfogadását követő öt munkanapon belül jóváhagyja.
 
-[^346]: Az Ávr. 170. §-a a 397/2014. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^367]: Az Ávr. 170. §-a a 397/2014. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.

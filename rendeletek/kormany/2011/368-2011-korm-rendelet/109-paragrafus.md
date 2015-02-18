@@ -18,8 +18,13 @@ d) az ellenőrzött szervnél bármilyen munkavégzésre irányuló tevékenysé
 
 e) az ellenőrzött szerv vezetőjének a Polgári Törvénykönyv szerinti közeli hozzátartozója,
 
-f) vagyonnyilatkozati kötelezettségének nem tett eleget vagy azt megtagadta.
+f)[^191] vagyonnyilatkozati kötelezettségének nem tett eleget vagy azt megtagadta,
+
+g)[^192] az ellenőrzött szervnél a felülvizsgálat megkezdését megelőző két naptári évben kincstári ellenőrzést végzett.
 
 (5) A felülvizsgálat keretében végzett hatósági ellenőrzés ügyintézési határideje két hónap, amely szükség esetén egy alkalommal, legfeljebb harminc nappal meghosszabbítható. A másodfokú döntés meghozatalára a fellebbezés kézhezvételét követően hatvan nap áll rendelkezésre.
 
 (6) A Kincstár az Áht. 59. §-a szerinti felülvizsgálatok tapasztalatait és számszaki összegzéseit május 31-éig megküldi az államháztartásért felelős miniszternek, a helyi önkormányzatokért felelős miniszternek és az Állami Számvevőszék elnökének.
+
+[^191]: Az Ávr. 109. § (4) bekezdés f) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^192]: Az Ávr. 109. § (4) bekezdés g) pontját a 20/2015. (II. 17.) Korm. rendelet 11. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 5. §[^8] (1) Az alapító okirat tartalmazza a költségvetési szerv
 
-a) megnevezését magyar nyelven és idegen nyelven, továbbá rövidített nevét,
+a)[^9] megnevezését magyar nyelven,
 
 b) székhelyét, telephelyeit,
 
@@ -18,13 +18,15 @@ g) vezetőjének megbízási rendjét, és
 
 h) alkalmazásában álló személyek jogviszonyának megjelölését.
 
-(2) Az alapító okirat – az (1) bekezdésben foglaltakon túl – az alábbiak fennállása esetén tartalmazza a költségvetési szerv
+(2)[^10] Az alapító okirat – az (1) bekezdésben foglaltakon túl – az alábbiak fennállása esetén tartalmazza a költségvetési szerv
 
-a) jogelődjének megnevezését, székhelyét,
+a) megnevezését idegen nyelven és rövidített nevét,
 
-b) vállalkozási tevékenysége felső határát a módosított kiadási előirányzatok arányában,
+b) jogelődjének megnevezését, székhelyét,
 
-c) megszűnésének időpontját vagy pontos feltételét, ha a költségvetési szerv határozott időre vagy bizonyos feltétel bekövetkeztéig jön létre.
+c) vállalkozási tevékenysége felső határát a módosított kiadási előirányzatok arányában,
+
+d) megszűnésének időpontját vagy pontos feltételét, ha a költségvetési szerv határozott időre vagy bizonyos feltétel bekövetkeztéig jön létre.
 
 (3) Ha az Áht. 9. § a) pontja szerinti hatáskörök gyakorlására jogosult és az irányító szerv személye nem azonos, az alapító okiratban mindkettőt meg kell jelölni.
 
@@ -32,3 +34,5 @@ c) megszűnésének időpontját vagy pontos feltételét, ha a költségvetési
 
 [^7]: Az Ávr. 5. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^8]: Az Ávr. 5. §-a a 397/2014. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^9]: Az Ávr. 5. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 16. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^10]: Az Ávr. 5. § (2) bekezdése a 20/2015. (II. 17.) Korm. rendelet 7. §-ával megállapított szöveg.

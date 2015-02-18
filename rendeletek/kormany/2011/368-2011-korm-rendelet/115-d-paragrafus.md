@@ -1,4 +1,4 @@
-115/D. §[^184] (1) Az ellenőrzött szerv vezetője, kapcsolattartója és alkalmazottja köteles
+115/D. §[^199] (1) Az ellenőrzött szerv vezetője, kapcsolattartója és alkalmazottja köteles
 
 a) a kincstári ellenőrzés végrehajtását elősegíteni, ennek keretében
 
@@ -22,4 +22,4 @@ b) a kincstári ellenőrzésnek az ellenőrzött szervre vonatkozó javaslatait 
 
 (3) A (2) bekezdés a) pontját az ellenőrzött szerv kapcsolattartója és alkalmazottai tekintetében is alkalmazni kell.
 
-[^184]: Az Ávr. 115/D. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
+[^199]: Az Ávr. 115/D. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.

@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2014-10-16 | 2011-368-20-22.30 | 260/2014. (X. 15.) Korm. rendelet |
 | 2014-12-31 | 2011-368-20-22.31 | 397/2014. (XII. 31.) Korm. rendelet |
 | 2015-01-01 | 2011-368-20-22.32 | 397/2014. (XII. 31.) Korm. rendelet |
+| 2015-02-18 | 2011-368-20-22.33 | 20/2015. (II. 17.) Korm. rendelet |

@@ -1,6 +1,6 @@
-## [Az Áht. 9/A. §-ához][^9]
+## [Az Áht. 9/A. §-ához][^11]
 
-6. §[^10] A fejezetet irányító szervet, a helyi önkormányzati költségvetési szerv irányító szervét és a nemzetiségi önkormányzati költségvetési szerv irányító szervét és annak vezetőjét az 1. melléklet határozza meg.
+6. §[^12] A fejezetet irányító szervet, a helyi önkormányzati költségvetési szerv irányító szervét és a nemzetiségi önkormányzati költségvetési szerv irányító szervét és annak vezetőjét az 1. melléklet határozza meg.
 
-[^9]: Az Ávr. 6. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^10]: Az Ávr. 6. §-a a 397/2014. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^11]: Az Ávr. 6. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^12]: Az Ávr. 6. §-a a 397/2014. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.

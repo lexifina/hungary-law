@@ -1,4 +1,4 @@
-62/G. §[^171] (1) A Kincstár a jogviszony megszüntetésére, illetve megszűnésének megállapítására vonatkozó foglalkoztatói intézkedés alapján
+62/G. §[^178] (1) A Kincstár a jogviszony megszüntetésére, illetve megszűnésének megállapítására vonatkozó foglalkoztatói intézkedés alapján
 
 a) végelszámolást készít,
 
@@ -14,4 +14,4 @@ f) kiállítja az adó-adatlapot.
 
 (2) A Kincstár a foglalkoztató bejelentésétől számított három munkanapon belül a foglalkoztatón keresztül gondoskodik az (1) bekezdés a)–f) pontja szerinti okiratoknak a foglalkoztatott részére történő eljuttatásáról.
 
-[^171]: Az Ávr. 62/G. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^178]: Az Ávr. 62/G. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.

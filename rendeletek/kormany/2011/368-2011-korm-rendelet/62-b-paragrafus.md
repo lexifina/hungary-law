@@ -1,4 +1,4 @@
-62/B. §[^166] (1) Az illetményszámfejtő programban – a Kincstárral kötött eltérő megállapodás hiányában – a foglalkoztató egyedi adatrögzítés vagy a Kincstár által meghatározott tartalom és struktúra szerint csoportos adatátadás útján rögzíti
+62/B. §[^173] (1) Az illetményszámfejtő programban – a Kincstárral kötött eltérő megállapodás hiányában – a foglalkoztató egyedi adatrögzítés vagy a Kincstár által meghatározott tartalom és struktúra szerint csoportos adatátadás útján rögzíti
 
 a) a vele foglalkoztatási jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állók (a továbbiakban: foglalkoztatott) alkalmazási okiratainak adatait, azok adatváltozásait és ehhez kapcsolódóan a személyi jövedelemadó és a járulékfizetési kötelezettség megállapítására, valamint foglalkoztatási jogviszony esetén a korábbi jogviszonyra vonatkozó adatokat,
 
@@ -20,4 +20,4 @@ d) az olyan levonásokat, amelyek jogosultja a foglalkoztató.
 
 (7) Jogalap nélküli kifizetés esetén a végrehajtható fizetési felszólítás alapján történő levonásról – ha a jogalap nélküli kifizetés más módon nem térült meg – a foglalkoztató írásban tájékoztatja a Kincstárt. A levonást a Kincstár érvényesíti. A foglalkoztató a részére közvetlenül megtérített jogalap nélküli kifizetésről haladéktalanul írásban értesíti a Kincstárt.
 
-[^166]: Az Ávr. 62/B. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^173]: Az Ávr. 62/B. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
