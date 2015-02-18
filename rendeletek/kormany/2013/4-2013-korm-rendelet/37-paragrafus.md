@@ -26,6 +26,6 @@ d) az államháztartás egésze esetén valamennyi éves költségvetési beszá
 
 (6) A helyi önkormányzat, nemzetiségi önkormányzat, társulás összevont (konszolidált) beszámolóját a Kincstár a költségvetési évet követő év április 15-éig megküldi a helyi önkormányzat, nemzetiségi önkormányzat, társulás részére.
 
-(7)[^118] A Kincstár az összevont (konszolidált) beszámolók elkészítését követően elkészíti a Gst. szerinti államadósságról szóló kimutatást a 13. mellékletben foglaltak szerint.
+(7)[^120] A Kincstár az összevont (konszolidált) beszámolók elkészítését követően elkészíti a Gst. szerinti államadósságról szóló kimutatást a 13. mellékletben foglaltak szerint.
 
-[^118]: A 37. § (7) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^120]: A 37. § (7) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^210]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^214]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -86,4 +86,4 @@
 
 - speciális finanszírozású szakellátás.
 
-[^210]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^214]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított szöveg.

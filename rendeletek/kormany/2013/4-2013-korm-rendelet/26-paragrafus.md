@@ -4,7 +4,7 @@
 
 (3) Az igénybe vett szolgáltatások között kell kimutatni az egységes rovatrend K32. Kommunikációs szolgáltatások, a K335. Közvetített szolgáltatások kivételével a K33. Szolgáltatási kiadások és K34. Kiküldetések, reklám- és propagandakiadások rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket.
 
-(4)[^90] Az eladott áruk beszerzési értéke között az Szt. 78. § (5) bekezdése szerinti gazdasági eseményeket kell kimutatni.
+(4)[^91] Az eladott áruk beszerzési értéke között az Szt. 78. § (5) bekezdése szerinti gazdasági eseményeket kell kimutatni.
 
 (5) Az eladott (közvetített) szolgáltatások között kell kimutatni az egységes rovatrend K335. Közvetített szolgáltatások rovathoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket.
 
@@ -16,13 +16,13 @@
 
 (9) A bérjárulékok között kell kimutatni az egységes rovatrend K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó rovathoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket.
 
-(10)[^91] Értékcsökkenési leírásként az eszközök elszámolt terv szerinti értékcsökkenését kell kimutatni, ideértve a kisértékű immateriális javak beszerzésekor, kisértékű tárgyi eszközök használatbavételekor egy összegben elszámolt értékcsökkenést is.
+(10)[^92] Értékcsökkenési leírásként az eszközök elszámolt terv szerinti értékcsökkenését kell kimutatni, ideértve a kisértékű immateriális javak beszerzésekor, kisértékű tárgyi eszközök használatbavételekor egy összegben elszámolt értékcsökkenést is.
 
-(10a)[^92] Az egyéb ráfordítások között kell elszámolni az immateriális jószág, a tárgyi eszköz értékesítésekor azok könyv szerinti értékét, a hiányzó, megsemmisült, állományból kivezetett eszközök könyv szerinti értékét, és a (11) bekezdés szerinti különféle egyéb ráfordításokat.
+(10a)[^93] Az egyéb ráfordítások között kell elszámolni az immateriális jószág, a tárgyi eszköz értékesítésekor azok könyv szerinti értékét, a hiányzó, megsemmisült, állományból kivezetett eszközök könyv szerinti értékét, és a (11) bekezdés szerinti különféle egyéb ráfordításokat.
 
-(11)[^93] A különféle egyéb ráfordítások között kell elszámolni az anyagok, áruk veszteségjellegű leltárértékelési különbözetének összegét, a kötelezett megszűnése és a más okból behajthatatlan követelés leírt összegét, valamint a (11a) bekezdés szerinti más különféle egyéb ráfordításokat.
+(11)[^94] A különféle egyéb ráfordítások között kell elszámolni az anyagok, áruk veszteségjellegű leltárértékelési különbözetének összegét, a kötelezett megszűnése és a más okból behajthatatlan követelés leírt összegét, valamint a (11a) bekezdés szerinti más különféle egyéb ráfordításokat.
 
-(11a)[^94] A más különféle egyéb ráfordítások között kell elszámolni
+(11a)[^95] A más különféle egyéb ráfordítások között kell elszámolni
 
 a) az egységes rovatrend K502. Elvonások és befizetések, K506. Egyéb működési célú támogatások államháztartáson belülre és K915. Központi, irányító szervi támogatás folyósítása rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon végleges kötelezettségvállalásként, más fizetési kötelezettségként nyilvántartott összegeket,
 
@@ -36,8 +36,8 @@ e) az eredeti követelést engedményezőnél az átruházott követelésnek a k
 
 f) a szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott engedmény szerződés szerinti összegét.
 
-[^90]: A 26. § (4) bekezdése a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^91]: A 26. § (10) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 22. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^92]: A 26. § (10a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 95. §-a iktatta be.
-[^93]: A 26. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^94]: A 26. § (11a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^91]: A 26. § (4) bekezdése a 284/20145 (XI. 20.) Korm. rendelet 23. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^92]: A 26. § (10) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 22. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^93]: A 26. § (10a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 95. §-a iktatta be.
+[^94]: A 26. § (11) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^95]: A 26. § (11a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
