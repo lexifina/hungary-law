@@ -1,4 +1,4 @@
-## 10/B. A nem pályázati úton biztosított oktatás-nevelési támogatás és hallgatói támogatás szabályai
+## 10/B. [^41] Az oktatás-nevelési támogatás és hallgatói támogatás szabályai
 
 32/B. § (1) Az Alap terhére a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 14. §-a szerinti oktatási támogatásként
 
@@ -29,3 +29,5 @@ e) az a kiskorú, aki sajátos nevelési igényeinek megfelelő – részben vag
 (4) Hallgatói támogatásra jogosult az a nappali tagozatos hallgató, aki tanulmányait az adott államban működő felsőoktatási intézményben, részben vagy egészben magyar nyelven folytatja.
 
 (5) Az oktatás-nevelési támogatás és a hallgatói támogatás egy főre jutó éves összegét évente a Bizottság állapítja meg.
+
+[^41]: A 10/B. alcím címe a 20/2015. (II. 17.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

@@ -1,20 +1,6 @@
-## 22. §[^37]
+## 22. §[^27]
 
-## 6. A támogatások folyósítása és teljesítése
+## 6.[^28]
 
-23. § (1) A támogatás a támogatási szerződésben meghatározott pénzügyi és időbeli ütemezésben vehető igénybe.
-
-(2) A támogatások folyósítása
-
-a) a benyújtott számlák közvetlen kiegyenlítésével,
-
-b)[^38] a finanszírozásba bevont pénzügyi intézmény vagy egyéb szervezet útján,
-
-c) közvetlenül a kedvezményezett számlájára történő átutalással,
-
-d) rendkívül indokolt esetben a kedvezményezett címére fizetési számláról történő készpénz-kifizetés kézbesítése útján
-
-történhet.
-
-[^37]: Az 5. alcímet (22. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^38]: A 23. § (2) bekezdés b) pontja a 128/2014. (IV. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: Az 5. alcímet (22. §) a 128/2014. (IV. 10.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^28]: A 6. alcímet (23–25. §) a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.

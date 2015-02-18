@@ -1,10 +1,14 @@
-## 17. § Az Európai Unió által is támogatott határmenti program céljára támogatás a 2007-2013. programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó állami támogatások felhasználásának szabályairól és egyes támogatási jogcímeiről szóló 5/2009. (III. 18.) NFGM rendeletben, valamint a Magyarország–Szlovákia–Románia– Ukrajna Európai Szomszédsági és Partnerségi Eszköz Határon Átnyúló Együttműködési Programból származó, az Európai Közösséget létrehozó Szerződés 87. cikk (1) bekezdés hatálya alá tartozó állami támogatások felhasználásának szabályairól és egyes támogatási jogcímeiről szóló 19/2009. (VIII. 14.) NFGM rendeletben meghatározott jogcímekhez tartozó támogatási kategóriák szerint nyújtható, az ott meghatározottak szerint.
+## 13–17. §[^15]
 
-18. § (1)[^27] A Bgatv. alapján pályázati önrész kiegészítésére nyújtott támogatás és a pályázati forrásból származó támogatási összeg együttes mértéke nem haladhatja meg a pályázati kiírás által elvárt minimális, minden támogatástól mentes saját forrás mértékét.
+## 18. §[^16] Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 27. §-ával összhangban kulturális célú támogatás nyújtható
 
-(2) A Bgatv. alapján nem nyújtható támogatás a pályázati önrész kiegészítésére, amennyiben az elnyert EU-támogatásra kiírt pályázathoz szükséges saját forrás finanszírozására vonatkozó előírások azt nem teszik lehetővé.
+a) a Bgatv. 3. § a) pont aa) és ab) alpontjában meghatározott jogcímeken egyéni vállalkozó részére,
 
-(3)[^28] Az EUMSZ 107. cikk (1) bekezdése hatálya alá tartozó korábban megítélt támogatások esetében a Bgatv. alapján a pályázati önrész kiegészítésére nyújtott támogatás és a pályázati forrásból származó támogatási összeg együttesen nem haladhatja meg a 800/2008/EK bizottsági rendeletben, az 1998/2006/EK bizottsági rendeletben, a 2012/21/EU bizottsági határozatban, illetve az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy legmagasabb támogatási összeget.
+b) a Bgatv. 3. § b) pont ba) alpontjában felsorolt jogcímen a kutatást, fejlesztést végző intézmény és háttérintézmény, szociális, felzárkózást és szociális integrációt elősegítő szervezet, kulturális szervezet, tömegtájékoztatási szervezet, vallási szervezet, ifjúsági szervezet részére,
 
-[^27]: A 18. § (1) bekezdése a 128/2014. (IV. 10.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^28]: A 18. § (3) bekezdése az 507/2013. (XII. 29.) Korm. rendelet 3. § (4) bekezdés a) pontja szerint módosított szöveg.
+c) a Bgatv. 3. § c) pont ca) és cb) alpontjában meghatározott jogcímeken,
+
+d) a Bgatv. 3. § d) pontjában felsorolt támogatottak részére a Bgatv. 3. § d) pont da) alpontjában meghatározott jogcímeken.
+
+[^15]: A 13–17. §-t a 20/2015. (II. 17.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^16]: A 18. § a 20/2015. (II. 17.) Korm. rendelet 2. §-ával megállapított szöveg.

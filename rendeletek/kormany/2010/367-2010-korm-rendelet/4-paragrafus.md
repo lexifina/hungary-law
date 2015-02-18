@@ -1,15 +1,15 @@
-4. § (1)[^1] A Kollégium tagjává a Bizottság – a Bethlen Gábor Alapkezelő Nonprofit Zrt. (a továbbiakban: Alapkezelő) vezérigazgatójának javaslatára – a központi államigazgatási szerveknek az adott támogatási területeken gyakorlattal és szakértelemmel, továbbá a támogatások odaítélésénél a döntések meghozatalához szükséges ismeretekkel rendelkező, a Magyar Köztársaság területén lakóhellyel rendelkező szakértőit nevezi ki.
+4. § (1)[^2] A Kollégium tagjává a Bizottság – a Bethlen Gábor Alapkezelő Nonprofit Zrt. (a továbbiakban: Alapkezelő) vezérigazgatójának javaslatára – a központi államigazgatási szerveknek az adott támogatási területeken gyakorlattal és szakértelemmel, továbbá a támogatások odaítélésénél a döntések meghozatalához szükséges ismeretekkel rendelkező, a Magyar Köztársaság területén lakóhellyel rendelkező szakértőit nevezi ki.
 
 (2) Az (1) bekezdés szerint kinevezett tagok feladatai és kötelezettségei, valamint jogai azonosak. A Kollégium minden tagja egy szavazattal rendelkezik.
 
-(3)[^2] A Kollégium elnökét a Kollégium tagjai közül – az Alapkezelő vezérigazgatójának javaslatára – a Bizottság nevezi ki és menti fel.
+(3)[^3] A Kollégium elnökét a Kollégium tagjai közül – az Alapkezelő vezérigazgatójának javaslatára – a Bizottság nevezi ki és menti fel.
 
-(4)[^3] Ha a Kollégium elnökének megbízatása megszűnik, az új elnök kinevezéséről a Bizottság tizenöt napon belül dönt. Amennyiben az új elnök kinevezéséig az elnök hatáskörébe tartozó ügyben halaszthatatlan döntésre van szükség, és nincs az elnöknek ügyrendben kijelölt helyettese, úgy az elnöki teendőket ideiglenesen az Alapkezelő vezérigazgatójának javaslata alapján a Bizottság által a Kollégium tagjai közül megbízott személy látja el.
+(4)[^4] Ha a Kollégium elnökének megbízatása megszűnik, az új elnök kinevezéséről a Bizottság tizenöt napon belül dönt. Amennyiben az új elnök kinevezéséig az elnök hatáskörébe tartozó ügyben halaszthatatlan döntésre van szükség, és nincs az elnöknek ügyrendben kijelölt helyettese, úgy az elnöki teendőket ideiglenesen az Alapkezelő vezérigazgatójának javaslata alapján a Bizottság által a Kollégium tagjai közül megbízott személy látja el.
 
 (5) A Kollégium elnökének és tagjainak járó költségtérítés elszámolásának rendjét a Bizottság határozza meg.
 
 (6) A Kollégium elnöke és tagjai a feladatkörük ellátása során okozott kárért a polgári jog általános szabályai szerint felelnek.
 
-[^1]: A 4. § (1) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg. [A 4. § (1) bekezdésében a 201/2011. (X. 7.) Korm. rendelet 6. § (4) bekezdésével elrendelt módosítás, amely szerint a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép, nem vezethető át, mivel e módosító rendelet 6. § (2) bekezdése alapján e módosítás 2012. január 1-jén lép hatályba, azonban e módosító rendelet a 6. § (1) bekezdése alapján már hatályát vesztette 2011. október 9. napjával.]
-[^2]: A 4. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^3]: A 4. § (4) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg. [A 4. § (1) bekezdésében a 201/2011. (X. 7.) Korm. rendelet 6. § (4) bekezdésével elrendelt módosítás, amely szerint a „Magyar Köztársaság” szövegrész helyébe a „Magyarország” szöveg lép, nem vezethető át, mivel e módosító rendelet 6. § (2) bekezdése alapján e módosítás 2012. január 1-jén lép hatályba, azonban e módosító rendelet a 6. § (1) bekezdése alapján már hatályát vesztette 2011. október 9. napjával.]
+[^3]: A 4. § (3) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 4. § (4) bekezdése a 178/2011. (IX. 1.) Korm. rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
