@@ -20,7 +20,7 @@
 
 10. regisztráció: a befogadó szervezetnek a honlapon keresztül történő adatszolgáltatása, valamint a hozzájárulása szabad kapacitásának felhasználására;
 
-11. szabad kapacitás: az államháztartásról szóló 2011. évi CXCV. törvény 7. § (3) bekezdése szerinti befogadó szervezet időlegesen rendelkezésre álló szabad infrastrukturális erőforrásai, amelyet a befogadó szervezetnél keletkező valamennyi közvetlen és az ahhoz rendelhető közvetett kiadás megtérítésével igénybe vehetővé tesz civil szervezet számára.
+11.[^1] szabad kapacitás: a befogadó szervezet időlegesen rendelkezésre álló szabad infrastrukturális erőforrásai, amelyet a befogadó szervezetnél keletkező valamennyi közvetlen és az ahhoz rendelhető közvetett kiadás megtérítésével igénybe vehetővé tesz civil szervezet számára.
 
 (2) Befogadó szervezetként civil szervezetek részére infrastruktúra-támogatást biztosít:
 
@@ -43,3 +43,5 @@ h) a Közigazgatási és Igazságügyi Hivatal;
 i) a nemzeti park igazgatóság;
 
 j) a Nemzeti Agrár-szaktanácsadási, Képzési és Vidékfejlesztési Intézet, az Integrált Közösségi Szolgáltató.
+
+[^1]: Az 1. § (1) bekezdés 11. pontja a 20/2015. (II. 17.) Korm. rendelet 31. §-a szerint módosított szöveg.
