@@ -24,12 +24,15 @@ a) 100%-a, ha a nemzetiséghez tartozók száma a településen legalább huszon
 
 b) 200%-a, ha a nemzetiséghez tartozók száma a településen meghaladja az ötven főt.
 
-(5) A területi nemzetiségi önkormányzat részére megállapítható működési költségvetési támogatás az egy helyi nemzetiségi önkormányzatra eső átlagtámogatás összegének
+(5)[^8] A területi nemzetiségi önkormányzat részére megállapítható működési költségvetési támogatás az egy helyi nemzetiségi önkormányzatra eső átlagtámogatás összegének
 
-a) kétszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) nemzetiségi önkormányzatok és átalakult nemzetiségi önkormányzatok száma legalább tíz, illetve legfeljebb húsz,
+a) egyszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) nemzetiségi önkormányzatok és átalakult nemzetiségi önkormányzatok száma kevesebb mint tíz,
 
-b) négyszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) nemzetiségi önkormányzatok és átalakult nemzetiségi önkormányzatok száma meghaladja a húszat.
+b) kétszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) nemzetiségi önkormányzatok és átalakult nemzetiségi önkormányzatok száma legalább tíz, de legfeljebb húsz,
+
+c) négyszerese, ha a megyében (fővárosban) működő települési (fővárosi kerületi) nemzetiségi önkormányzatok és átalakult nemzetiségi önkormányzatok száma meghaladja a húszat.
 
 (6) A működési költségvetési támogatás a nemzetiségi önkormányzati működéssel közvetlenül összefüggő – a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 80. §-a és 159. § (3) bekezdése szerint a helyi önkormányzat által biztosított feltételeket meghaladó további – működési költségek fedezetére használható fel.
 
 [^7]: A 2. § a 397/2014. (XII. 31.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^8]: A 2. § (5) bekezdése a 20/2015. (II. 17.) Korm. rendelet 19. §-ával megállapított szöveg.

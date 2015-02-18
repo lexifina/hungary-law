@@ -18,11 +18,11 @@ nyújtható.
 
 (4)[^5] A működési költségvetési támogatás a költségvetési évben december 31-éig, a feladatalapú költségvetési támogatás a költségvetési évet követő év április 30-áig használható fel.
 
-(5)[^6] A helyi nemzetiségi önkormányzat a feladatarányos támogatás felhasználásáról beszámolót nyújt be a támogató részére. A támogató a beszámoló elfogadásáról a nemzetiségpolitikáért felelős miniszter által vezetett minisztérium honlapján történő közzététellel értesíti a helyi nemzetiségi önkormányzatot.
+(5)[^6] A helyi nemzetiségi önkormányzat a feladatarányos támogatás felhasználásáról beszámolót nyújt be a nemzetiségpolitikáért felelős miniszter (a továbbiakban: támogató) részére. A támogató a beszámoló elfogadásáról a nemzetiségpolitikáért felelős miniszter által vezetett minisztérium honlapján történő közzététellel értesíti a helyi nemzetiségi önkormányzatot.
 
 [^1]: Az I. fejezet címe a 397/2014. (XII. 31.) Korm. rendelet 85. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 85. § 2. pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 85. § 3. pontja szerint módosított szöveg.
 [^4]: [Az 1. § (3) bekezdésének a 397/2014. (XII. 31.) Korm. rendelet 85. § 4. pontjával elrendelt módosítása, amely szerint a „települési nemzetiségi önkormányzatok vagy a területi” szövegrész helyébe a „helyi” szöveg lép, nem vezethető át.]
 [^5]: Az 1. § (4) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 80. §-a iktatta be.
-[^6]: Az 1. § (5) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 80. §-a iktatta be.
+[^6]: Az 1. § (5) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 80. §-a iktatta be, szövege a 20/2015. (II. 17.) Korm. rendelet 20. §-a szerint módosított szöveg.

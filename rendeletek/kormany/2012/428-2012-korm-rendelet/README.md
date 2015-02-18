@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-428-20-
 | 2013-11-20 | 2012-428-20-22.3 | 437/2013. (XI. 19.) Korm. rendelet |
 | 2014-11-21 | 2012-428-20-22.4 | 287/2014. (XI. 20.) Korm. rendelet |
 | 2015-01-01 | 2012-428-20-22.5 | 397/2014. (XII. 31.) Korm. rendelet |
+| 2015-02-18 | 2012-428-20-22.6 | 20/2015. (II. 17.) Korm. rendelet |
