@@ -32,6 +32,6 @@
 
 | 15 | Buddhista Misszió, Magyarországi Árya Maitreya Mandala Egyházközösség | 0,1% |
 
-2. melléklet a 295/2013. (VII. 29.) Korm. rendelethez[^9]
+2. melléklet a 295/2013. (VII. 29.) Korm. rendelethez[^13]
 
-[^9]: A 2. melléklet a 24/2014. (II. 6.) Korm. rendelet 4. § a) pontjával megállapított szöveg.
+[^13]: A 2. melléklet a 24/2014. (II. 6.) Korm. rendelet 4. § a) pontjával megállapított szöveg.
