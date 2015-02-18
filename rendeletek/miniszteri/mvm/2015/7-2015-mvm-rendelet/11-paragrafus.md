@@ -1,3 +1,0 @@
-## „10/A. § Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 9. §-t a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.”
-
-## 7. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kertészet korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 25/2008. (III. 7.) FVM rendelet módosítása
