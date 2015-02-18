@@ -1,0 +1,1 @@
+## „(2a) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások esetén a támogatási szerződés a támogatási előleg összegét és a folyósítás ütemezését az (1a) és (2) bekezdéstől eltérően is megállapíthatja.”
