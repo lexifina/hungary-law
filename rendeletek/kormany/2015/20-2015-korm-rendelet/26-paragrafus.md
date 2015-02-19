@@ -1,3 +1,0 @@
-## 25. § Az egyházi elismerésről és az egyházi jogi személyek jogállásának és működésének sajátos szabályairól szóló 295/2013. (VII. 29.) Korm. rendelet (a továbbiakban: R6.) 18/A. §-a a következő (2a) bekezdéssel egészül ki:
-
-## „(2a) Az (1) bekezdés szerinti költségvetési támogatásra vonatkozó támogatási szerződés az Ávr. 75. § (2) bekezdés h) pontja szerinti nyilatkozat megtétele hiányában is megköthető, azzal, hogy ha az egyházi jogi személy kedvezményezett legkésőbb a költségvetési támogatás vagy annak első részlete folyósítását megelőzően nem teszi meg az Ávr. 75. § (2) bekezdés h) pontja szerinti nyilatkozatot, a támogatási szerződés a költségvetési támogatás vagy annak első részlete folyósításának esedékességét követő napon hatályát veszti.”

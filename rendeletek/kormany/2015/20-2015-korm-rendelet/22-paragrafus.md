@@ -1,3 +1,5 @@
-## 21. § Hatályát veszti az R4. 9. § (2) bekezdése, 11. § (4) bekezdése és III. Fejezete.
+## 19–21. §[^5]
 
 ## 5. Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet módosítása
+
+[^5]: A 19–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
