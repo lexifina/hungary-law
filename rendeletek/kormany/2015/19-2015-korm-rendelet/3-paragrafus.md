@@ -1,0 +1,1 @@
+## „(1a) A termesztető köteles őszi vetésű ipari mák kipusztulása esetén a földművelésügyi igazgatóságnak a vetést követő év április 30-ig bejelenteni a kipusztulással érintett termesztő nevét, címét, a terület azonosítóit (település neve, földrészlet helyrajzi száma, alrészlet megjelölése, fizikai blokk és parcella azonosító), nagyságát, valamint a kipusztult állomány fajtáját.”

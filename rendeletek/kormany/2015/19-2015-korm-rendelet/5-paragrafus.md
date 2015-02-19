@@ -1,0 +1,1 @@
+## „(5) A földművelésügyi igazgatóság a NÉBIH-en keresztül a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában május 31-ig megküldi a Minisztériumnak, amely azt június 15-ig összesítve továbbítja az EEKH-nak.”
