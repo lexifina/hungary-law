@@ -54,7 +54,7 @@
 
 26. máknövény: a mák vagy ópiummák (Papaver somniferum L.) faj fajtáihoz, valamint a murvásmák (Papaver bracteatum Lindl.) faj fajtáihoz tartozó növény;
 
-27. mákszalma: a levágott máknövény minden része, kivéve a máknövény magját a tokból való kifejtés és tisztítás után;
+27.[^3] mákszalma: a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló kormányrendelet 1. § e) pontja szerinti fogalom;
 
 28. nem gyógyászati célú tevékenység: a 12. pontban meghatározottól eltérő minden, a kábítószerekkel és pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végzett tevékenység;
 
@@ -68,11 +68,12 @@
 
 33. tranzitszállítás: kábítószereknek és pszichotróp anyagoknak, valamint új pszichoaktív anyagoknak az ország területén – a leszállás nélküli légi forgalom kivételével – történő átszállítása, amelynek során az áru vámjogi helyzetében változás nem történik;
 
-34.[^3] új pszichoaktív anyag: az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő anyag vagy vegyületcsoport;
+34.[^4] új pszichoaktív anyag: az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő anyag vagy vegyületcsoport;
 
-35.[^4] előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől.
+35.[^5] előállítás: az opioid alkaloidok elválasztása az azt szolgáltató máknövénytől, valamint a kannabisz, kannabisz gyanta elválasztása az azt szolgáltató kannabisz növénytől.
 
 [^1]: Az 1. § 7. pontja a 13/2014. (I. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 11. pontja a 137/2012. (VI. 29.) Korm. rendelet 81. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 34. pontja a 367/2014. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. § 35. pontját a 137/2012. (VI. 29.) Korm. rendelet 81. § (2) bekezdése iktatta be.
+[^3]: Az 1. § 27. pontja a 19/2015. (II. 16.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^4]: Az 1. § 34. pontja a 367/2014. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § 35. pontját a 137/2012. (VI. 29.) Korm. rendelet 81. § (2) bekezdése iktatta be.

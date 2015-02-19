@@ -1,6 +1,6 @@
 ## 8. A kábítószer, pszichotróp anyag, az új pszichoaktív anyag nyilvántartásával, tárolásával, megrendelésével, átadásával, belföldi szállításával, átvételével kapcsolatos szabályok
 
-18. § (1)[^44] Az engedélyes és a nyilvántartásba vett gazdálkodó szervezet a kábítószerekről, a pszichotróp anyagokról és az új pszichoaktív anyagokról olyan naprakész nyilvántartást vezet, amelyből a beszerzés, gyártás, feldolgozás, csomagolás, forgalmazás, készletezés, veszteségek, selejtezés, megsemmisítés teljes anyagmozgása pontosan követhető mind a nyersanyagra, mind a félkész- és késztermékre vonatkozóan. Az engedélyes és a nyilvántartásba vett gazdálkodó szervezet valamennyi 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyagról év végi zárókészletet vesz fel. Az engedélyes a kábítószerekre vonatkozó összesített adatokat a tárgyévet követő év január 31. napjáig az EEKH-nak megküldi.
+18. § (1)[^45] Az engedélyes és a nyilvántartásba vett gazdálkodó szervezet a kábítószerekről, a pszichotróp anyagokról és az új pszichoaktív anyagokról olyan naprakész nyilvántartást vezet, amelyből a beszerzés, gyártás, feldolgozás, csomagolás, forgalmazás, készletezés, veszteségek, selejtezés, megsemmisítés teljes anyagmozgása pontosan követhető mind a nyersanyagra, mind a félkész- és késztermékre vonatkozóan. Az engedélyes és a nyilvántartásba vett gazdálkodó szervezet valamennyi 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyagról év végi zárókészletet vesz fel. Az engedélyes a kábítószerekre vonatkozó összesített adatokat a tárgyévet követő év január 31. napjáig az EEKH-nak megküldi.
 
 (2) Az engedélyes az EEKH részére
 
@@ -18,4 +18,4 @@ c) a speciális raktárkészletek (katasztrófa-egészségügyi és honvédségi
 
 (5) Az EEKH a (2) bekezdés alapján nyert adatokból készített jelentést, valamint a (4) bekezdés alapján megállapított összesített becslést megküldi a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény (a továbbiakban: Kábítószer Egyezmény), és a Pszichotróp Egyezmény alapján a Nemzetközi Kábítószer Ellenőrző Szerv (INCB) részére.
 
-[^44]: A 18. § (1) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^45]: A 18. § (1) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

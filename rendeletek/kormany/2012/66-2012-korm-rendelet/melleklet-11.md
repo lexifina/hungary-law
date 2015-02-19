@@ -56,7 +56,7 @@
 
 ## (IV. 2.) Korm. rendelet 28. § (1) bekezdése alapján kötelező.
 
-## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^67], 2. példányát a Nemzeti Drog Fókuszpontnak[^68] (Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ – Reitox National Focal Point), 3. példányát az Országos Addiktológiai Centrumnak[^69] kell megküldeni. A 4. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
+## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^68], 2. példányát a Nemzeti Drog Fókuszpontnak[^69] (Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ – Reitox National Focal Point), 3. példányát az Országos Addiktológiai Centrumnak[^70] kell megküldeni. A 4. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
 
 ## Mindazon kérdésekre, melyekre vonatkozóan tényszerű információk, illetve adatok, vizsgálati eredmények állnak rendelkezésre, a válaszokat értelemszerűen: szövegesen, vagy számszerűen, illetve a megfelelő négyzet megjelölésével kell megadni! A kitöltéssel kapcsolatban a Tanács 2005/387/IB Határozatának EMCDDA-Europol jelentési ívet és annak kitöltési útmutatóját tartalmazó melléklete az irányadó.
 
@@ -198,6 +198,6 @@ Hatósági bélyegző (Authority stamp)
 
 aláírás (Authority's signature)
 
-[^67]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
-[^68]: Nemzeti Drog Fókuszpont címe: 1097 Budapest, Gyáli út 2-6.
-[^69]: Országos Addiktológiai Centrum címe: 1097 Budapest, Nagyvárad tér 2.
+[^68]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
+[^69]: Nemzeti Drog Fókuszpont címe: 1097 Budapest, Gyáli út 2-6.
+[^70]: Országos Addiktológiai Centrum címe: 1097 Budapest, Nagyvárad tér 2.
