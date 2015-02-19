@@ -34,7 +34,7 @@
 
 | 16. |  |  |  |
 
-2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^12]
+2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^15]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -54,7 +54,9 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 6. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 7. | közlekedés | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 7. | közlekedés: közút | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+
+| 7a. | közlekedés: vasút | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
 | 8. | egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -70,4 +72,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 | 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^12]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 57. §-a, az 527/2013. (XII. 30.) Korm. rendelet 115. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 85. § (2) bekezdése és 86. § c) pontja szerint módosított szöveg.
+[^15]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 57. §-a, az 527/2013. (XII. 30.) Korm. rendelet 115. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 85. § (2) bekezdése és 86. § c) pontja, a 23/2015. (II. 18.) Korm. rendelet 4. §-a szerint módosított szöveg.
