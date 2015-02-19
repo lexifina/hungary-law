@@ -2,21 +2,25 @@
 
 ## c) [^3]étkezési mák: a NÉBIH által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett olyan – alacsony alkaloid tartalmú – mákfajta, amelyben a KKR. 1. számú melléklete szerint kábítószernek minősülő ópium alkaloidok összes hatóanyag koncentrációja a légszáraz állapotú kifejtett máktokban átlagosan 0,7% vagy az alatti;
 
-## d) díszítő mák: virágkötészeti célra előállított étkezési mákfajta. A díszítő mák virágkötészeti célra felhasznált mákszalmája a növény 30–50 cm hosszú mákszára és kifejtett vagy kifejtetlen máktokja;
+## d)[^4] díszítő mák: virágkötészeti célra előállított étkezési mákfajta;
 
-## e) mákszalma: a levágott máknövény minden része. A magok a tokból való kifejtés és tisztítás után nem minősülnek a KKR. 1. számú melléklete szerint ellenőrzött szernek, kivéve az ipari mák vetőmagját, amelynek kivitele, illetve behozatala eseti export-, illetve import engedélyköteles;
+## e)[^5] mákszalma: teljes éréskor szárrésszel betakarított mák magot már nem tartalmazó tokja;
 
-## f) kifejtetlen ipari máktok: teljes éréskor legfeljebb 10 cm-es szárrésszel betakarított ipari mák magot tartalmazó tokja;
+## f)[^6] kifejtetlen máktok: teljes éréskor szárrésszel betakarított mák magot tartalmazó tokja;
 
-## g) kifejtett máktok: teljes éréskor legfeljebb 10 cm-es szárrésszel betakarított mák magot már nem tartalmazó tokja;
+## g)[^7]
 
 ## h) kender: minden Cannabis nemzetséghez tartozó növény;
 
-## i) [^4]alacsony tetrahidrocannabinol (a továbbiakban: THC) tartalmú kender (Cannabis sativa L.): olyan, a NÉBIH által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett rost- és magkenderfajta, amelynek szabad THC tartalma a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében, a növény érettségi állapotától függetlenül nem éri el a 0,2%-ot;
+## i) [^8]alacsony tetrahidrocannabinol (a továbbiakban: THC) tartalmú kender (Cannabis sativa L.): olyan, a NÉBIH által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett rost- és magkenderfajta, amelynek szabad THC tartalma a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében, a növény érettségi állapotától függetlenül nem éri el a 0,2%-ot;
 
-## j) [^5]magas THC tartalmú kender: olyan, a NÉBIH által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett rost- és magkenderfajta, amelynek szabad THC tartalma a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében, a növény érettségi állapotától függetlenül eléri vagy meghaladja a 0,2%-ot.
+## j) [^9]magas THC tartalmú kender: olyan, a NÉBIH által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett rost- és magkenderfajta, amelynek szabad THC tartalma a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében, a növény érettségi állapotától függetlenül eléri vagy meghaladja a 0,2%-ot.
 
 [^2]: Az 1. § b) pontja a 137/2012. (VI. 29.) Korm. rendelet 95. § (3) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § c) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^4]: Az 1. § i) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^5]: Az 1. § j) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^4]: Az 1. § d) pontja a 19/2015. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § e) pontja a 19/2015. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § f) pontja a 19/2015. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. § g) pontját a 19/2015. (II. 16.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § i) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^9]: Az 1. § j) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-2. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^60]
+2. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^76]
 
-[^60]: A 2. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^76]: A 2. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
