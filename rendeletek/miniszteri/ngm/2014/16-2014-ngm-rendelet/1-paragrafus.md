@@ -10,7 +10,7 @@ c) az Fktv. 9. §-a szerinti Felnőttképzési Szakértői Bizottságra (a tová
 
 d) az Fktv. 19. § (3) bekezdésében meghatározott jogalanyra (a továbbiakban: javaslatot benyújtó),
 
-e) a Nemzeti Munkaügyi Hivatalról és a szakmai irányítása alá tartozó szakigazgatási szervek feladat és hatásköréről szóló 323/2011. (XII. 28.) Korm. rendelet szerinti Nemzeti Munkaügyi Hivatalra (a továbbiakban: NMH).
+e)[^1] a Nemzeti Szakképzési és Felnőttképzési Hivatalra (a továbbiakban: NSZFH).
 
 (2) E rendelet alkalmazásában:
 
@@ -27,3 +27,5 @@ e) a Nemzeti Munkaügyi Hivatalról és a szakmai irányítása alá tartozó sz
 6. nyelvi képzés szintjei: az Fktv. szerinti általános nyelvi képzés esetén az Európa Tanács Közös Európai Referenciakeretében (a továbbiakban: „KER”) ajánlott hatfokozatú rendszer szintjei, melyek további bemeneti és kimeneti követelmények által meghatározott képzési szintekre bonthatóak, egyéb nyelvi képzés esetén a nyelvi készségek, képességek és ismeretek programkövetelményben meghatározott, „KER” szintekhez köthető szintjei;
 
 7. nyelvi képzés típusa: kontaktórás képzés vagy távoktatás.
+
+[^1]: Az 1. § (1) bekezdés e) pontja a 4/2015. (II. 19.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.

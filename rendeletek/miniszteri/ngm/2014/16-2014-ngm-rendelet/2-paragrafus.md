@@ -1,6 +1,6 @@
 ## 2. A nyelvi programkövetelmények nyilvántartásba vételének, nyilvántartása módosításának követelményei és eljárási rendje
 
-2. § (1) Az NMH a felnőttképzési nyelvi programkövetelményre vonatkozó javaslatnak (a továbbiakban: javaslat) a felnőttképzési nyelvi programkövetelmények nyilvántartásába (a továbbiakban: nyilvántartás) történő felvételéről dönt, ha – a (2) és (3) bekezdésben foglalt eltéréssel – a javaslatban
+2. § (1)[^2] Az NSZFH a felnőttképzési nyelvi programkövetelményre vonatkozó javaslatnak (a továbbiakban: javaslat) a felnőttképzési nyelvi programkövetelmények nyilvántartásába (a továbbiakban: nyilvántartás) történő felvételéről dönt, ha – a (2) és (3) bekezdésben foglalt eltéréssel – a javaslatban
 
 a) a felnőttképzési nyelvi programkövetelmény (a továbbiakban: programkövetelmény) megnevezése – az Fktv. 19. § (3) bekezdés a) pontjában foglaltakon túlmenően – megfelel a tisztességes tájékoztatás követelményeinek,
 
@@ -32,13 +32,13 @@ modult tartalmaz,
 
 f) a programkövetelmény minden „KER” szintre kiterjed,
 
-g) a nyelvi képzettségi szint megszerzését igazoló, 3. melléklet szerinti tanúsítvány kiadásának feltételeként a felnőttképzést folytató intézmény által szervezett képzést záró vizsga sikeres teljesítése kerül megjelölésre és
+g)[^3] a nyelvi képzettségi szint megszerzését igazoló, 3. melléklet szerinti tanúsítvány kiadásának feltételeként valamennyi modul vonatkozásában a nyelvi képzés felnőttképzési szerződésben megjelölt óraszámának legalább nyolcvan százalékán való részvétel, valamint a felnőttképzést folytató intézmény által szervezett képzést záró vizsga sikeres teljesítése kerül megjelölésre és
 
 h) a nyelvi képzésen való részvételről szóló igazolás kiállításának feltételeként a nyelvi képzés felnőttképzési szerződésben megjelölt óraszámának legalább nyolcvan százalékán való részvétel kerül megjelölésre.
 
-(2) Az NMH az egyéb nyelvi képzésre irányuló javaslat benyújtása esetén a javaslat nyilvántartásba történő felvételéről dönt, ha az megfelel az (1) bekezdés a)–b), d) és g)–h) pontjában foglaltaknak és tartalmazza a képzés minimális és maximális óraszámát.
+(2)[^4] Az NSZFH az egyéb nyelvi képzésre irányuló javaslat benyújtása esetén a javaslat nyilvántartásba történő felvételéről dönt, ha az megfelel az (1) bekezdés a)–b), d) és g)–h) pontjában foglaltaknak és tartalmazza a képzés minimális és maximális óraszámát.
 
-(3) Az NMH a kombinált nyelvi képzésre irányuló javaslat benyújtása esetén a javaslat nyilvántartásba történő felvételéről dönt, ha
+(3)[^5] Az NSZFH a kombinált nyelvi képzésre irányuló javaslat benyújtása esetén a javaslat nyilvántartásba történő felvételéről dönt, ha
 
 a) az megfelel az (1) bekezdés a)–b), d) és g)–h) pontjában foglaltaknak, és
 
@@ -48,10 +48,16 @@ b) a képzés óraszáma a programkövetelmény általános nyelvi képzési ré
 
 (5) A nyilvántartásába történő felvételre javaslat nyújtható be bármely idegen nyelvre, valamint a magyarra, mint idegen nyelvre.
 
-(6) Az NMH nem veszi nyilvántartásba azt a javaslatot,
+(6)[^6] Az NSZFH nem veszi nyilvántartásba azt a javaslatot,
 
 a) amely – az 5. § (1) bekezdés alapján biztosított hiánypótlást követően – nem felel meg az (1)–(5) bekezdésben foglalt követelményeknek,
 
 b) amelyben a programkövetelmény bármely modulja – a távoktatási típusú képzés kivételével – harminc tanóránál kisebb terjedelmű, vagy
 
 c) amely a nyelvi képzés fajtájának nem megfelelő modult tartalmaz.
+
+[^2]: A 2. § (1) bekezdés nyitó szövegrésze a 4/2015. (II. 19.) NGM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés g) pontja a 4/2015. (II. 19.) NGM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 4/2015. (II. 19.) NGM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdés nyitó szövegrésze a 4/2015. (II. 19.) NGM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § (6) bekezdés nyitó szövegrésze a 4/2015. (II. 19.) NGM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
