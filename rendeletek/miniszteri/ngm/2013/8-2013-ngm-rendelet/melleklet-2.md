@@ -76,6 +76,22 @@
 
 |  | 37. | 36. | Vízvezeték- és vízkészülék-szerelő |
 
+|  | 38. | 37. | Audio- és vizuáltechnikai műszerész |
+
+|  | 39. | 38. | Bádogos |
+
+|  | 40. | 39. | CNC gépkezelő |
+
+|  | 41. | 40. | Fehérnemű-készítő és kötöttáru összeállító |
+
+|  | 42. | 41. | Ipari alpinista |
+
+|  | 43. | 42. | Kereskedő |
+
+|  | 44. | 43. | Központifűtés- és gázhálózat rendszerszerelő |
+
+|  | 45. | 44. | Órás |
+
 2. melléklet a 8/2013. (III. 6.) NGM rendelethez[^3]
 
 1. ÁCS, ÁLLVÁNYOZÓ
@@ -8860,34 +8876,4 @@ A szint megjelölésével a szakmai készségek:
 
 3 A pedagógiai módszerek használata
 
-3 Pedagógiai beszédkészség
-
-3 A szakképzési eszközök használata
-
-4 A gyakorlati képzés módszertana
-
-4 Oktatási eszközök használata
-
-3 A valós vállalkozási környezetben történő gyakorlati eszközhasználat
-
-3 A munkáltató foglalkozások használatának készsége
-
-4 A célorientált munkavégzés készsége
-
-4 A feladatok erőforrás-takarékos végzésének készsége
-
-4 Az önálló munkavégzés készsége
-
-3 A szakmai problémamegoldás képességének kialakítási készsége
-
-3 A minőségi munkavégzés készsége
-
-4 A szakmai probléma-megoldási készsége
-
-4 Fejlődési készség szakmai és együttműködés területein
-
-3 A személyes példamutatás készsége
-
-Személyes kompetenciák:
-
-[^3]: A 2. melléklet a 17/2014. (IV. 8.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. melléklet a 17/2014. (IV. 8.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 3. § (2) bekezdése szerint módosított szöveg.
