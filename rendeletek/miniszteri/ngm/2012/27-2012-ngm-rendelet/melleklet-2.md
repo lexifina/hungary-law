@@ -2322,7 +2322,7 @@ A szakképesítéssel rendelkező képes:
 
 | 4.5. | 10226-12 | Asztalosipari termékek gyártása |
 
-| 4.6. | 113-12 | Biztonságos munkavégzés |
+| 4.6. | 11371-12 | Biztonságos munkavégzés |
 
 | 4.7. | 10228-12 | Gépkezelés |
 
@@ -4210,7 +4210,7 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 A vizsgafeladat megnevezése: Mélybányászati munkafolyamatok, technológiák
 
-A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított vizsgakérdései a IV. Szakmai követelmények fejezetben szereplő szakmai követelménymodulok témaköreit tartalmazza
+A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben szereplő szakmai követelménymodulok témaköreit tartalmazza
 
 A vizsgafeladat időtartama: 45perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
 
@@ -5464,4 +5464,4 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
 
-[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. melléklet a 12/2013. (III. 28.) NGM rendelet 1. § (2) bekezdésével megállapított, a 40/2013. (IX. 30.) NGM rendelet 19. § a)–c) pontja, a 12/2014. (III. 12.) NGM rendelet, a 25/2014. (VIII. 26.) NGM rendelet 1. § (2) bekezdése, a 4/2015. (II. 19.) NGM rendelet 2. §-a szerint módosított szöveg.
