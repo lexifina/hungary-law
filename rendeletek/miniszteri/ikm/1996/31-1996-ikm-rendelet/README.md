@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-31-20-6
 | 2013-03-21 | 1996-31-20-6A.6 | 8/2013. (III. 6.) NGM rendelet |
 | 2013-12-28 | 1996-31-20-6A.7 | 78/2013. (XII. 20.) NFM rendelet |
 | 2014-04-23 | 1996-31-20-6A.8 | 17/2014. (IV. 8.) NGM rendelet |
+| 2015-02-20 | 1996-31-20-6A.9 | 4/2015. (II. 19.) NGM rendelet |
