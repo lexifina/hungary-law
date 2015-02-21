@@ -3,3 +3,7 @@
 (2) A 2014. évi XL. törvény 7. § (2) bekezdése szerinti elszámolási igény előterjesztésére szolgáló – az MNB által e rendelet hatálybalépését követő 15 munkanapon belül a honlapján közzétett – ajánlott mintakérelmet a pénzügyi intézmény és a követeléskezelő az MNB általi közzétételt követő 5 munkanapon belül „Elszámolási és forintosítási információk” cím alatt a honlapján és az ügyfélfogadásra nyitva álló helyiségeiben elérhetővé teszi, továbbá a követeléskezelő a fogyasztó kérésére elektronikus vagy postai úton az igény beérkezésétől számított 5 munkanapon belül a fogyasztó részére megküldi.
 
 (3) A 2014. évi XL. törvény 10. § (3) bekezdése szerinti elszámolási igény előterjesztésére szolgáló – az MNB által legkésőbb 2015. február 16-tól a honlapján közzétett – ajánlott mintakérelmet a pénzügyi intézmény „Elszámolási és forintosítási információk” cím alatt a honlapján, továbbá az ügyfélszolgálatain legkésőbb 2015. február 23-tól elérhetővé teszi, illetve azt követően a fogyasztó kérésére elektronikus vagy postai úton az igény beérkezésétől számított 5 munkanapon belül megküldi.
+
+(4)[^2] Az (1)–(3) bekezdés csak azon pénzügyi intézményre alkalmazandó, amelyet a 2014. évi XL. törvény ott hivatkozott rendelkezései alapján az adott elszámolási kötelezettség terhelhet.
+
+[^2]: A 4. § (4) bekezdését a 3/2015. (II. 20.) MNB rendelet 1. §-a iktatta be.

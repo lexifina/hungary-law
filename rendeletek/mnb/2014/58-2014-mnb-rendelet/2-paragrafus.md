@@ -14,7 +14,7 @@ c) gyűjtőszámlahitellel érintett fogyasztói kölcsönszerződés esetén az
 
 d) áthidaló kölcsönnel érintett fogyasztói kölcsönszerződés esetén az elszámolás áthidaló kölcsönnel érintett fogyasztói kölcsönszerződésekre vonatkozó eltérő szabályaira kiterjedő tájékoztatás,
 
-e) amennyiben az elszámolásra köteles pénzügyi intézmény a fogyasztóval kötött más szerződésből eredő, lejárt követelést, illetve a követeléskezelő a fogyasztóval szemben fennálló, engedményezés útján megszerzett egyéb lejárt követelést érvényesít az elszámolás alapján fennálló fogyasztói követelésbe történő beszámítás útján, úgy annak tényét, összegét és jogi alapját.
+e)[^1]
 
 (5) A pénzügyi intézmény a fogyasztó részére küldött (1)–(3) bekezdés szerinti értesítő levélhez a 4. melléklet szerinti hiteltörténeti kimutatást és segédletet csatolja.
 
@@ -25,3 +25,5 @@ e) amennyiben az elszámolásra köteles pénzügyi intézmény a fogyasztóval 
 (8) A pénzügyi intézmény a fogyasztó kérésére elektronikus úton vagy nyomtatott formában a fogyasztó rendelkezésére bocsátja az elszámolás számszaki ellenőrzéshez szükséges, teljes körű levezetését, valamint az adatok beazonosítását és értelmezését lehetővé tevő formátumban az elszámolás során figyelembe vett valamennyi adatot, vagy internetes szolgáltatói felületén lehetővé teszi, hogy a fogyasztó ezen kimutatáshoz és adatokhoz hozzáférjen. A pénzügyi intézmény a fogyasztó kérelmére történő adatszolgáltatást a kérelem beérkezésétől számított 5 munkanapon belül teljesíti.
 
 (9) A felszámoló, illetve végelszámoló az 1–4. mellékletek felszámolás, illetve végelszámolás alatt álló intézményekre vonatkozó külön elszámolási szabályok figyelembevételével történő módosításával alakítja ki az elszámolásról szóló értesítő levél tartalmát. Az alkalmazni kívánt értesítő levél mintát a felszámoló, illetve végelszámoló a Magyar Nemzeti Bank (a továbbiakban: MNB) részére 2014. december 31-ig megküldi, amelyet az MNB 2015. január 31-ig jóváhagy.
+
+[^1]: A 2. § (4) bekezdés e) pontját a 3/2015. (II. 20.) MNB rendelet 8. §-a hatályon kívül helyezte.
