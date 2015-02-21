@@ -1,1 +1,0 @@
-## „g) a nyelvi képzettségi szint megszerzését igazoló, 3. melléklet szerinti tanúsítvány kiadásának feltételeként valamennyi modul vonatkozásában a nyelvi képzés felnőttképzési szerződésben megjelölt óraszámának legalább nyolcvan százalékán való részvétel, valamint a felnőttképzést folytató intézmény által szervezett képzést záró vizsga sikeres teljesítése kerül megjelölésre és”
