@@ -1,0 +1,5 @@
+20. § (1) Az anyajuhtartás termeléshez kötött támogatása igénybevételének feltétele, hogy a mezőgazdasági termelő gondoskodjon az állattenyésztési törvényben foglaltak szerinti apaállat-használatról és kizárólag törzskönyvi kivonattal vagy származási igazolással ellátott kost használjon a nőivarú állomány fedeztetésére, továbbá gondoskodjon a tenyészetében tartott állatállománynak a juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 182/2009. (XII. 30.) FVM rendelet (a továbbiakban: Juh ENAR rendelet) szerinti tartós jelöléséről, folyamatos nyilvántartásáról és az adatok bejelentéséről.
+
+(2) A támogatható minimális állatlétszám tíz egyed.
+
+(3) A mezőgazdasági termelő, mint tartó tenyészeteiben a kérelmező által tartott állatok létszámát és az (1) bekezdésben meghatározott feltételeket a Magyar Juh- és Kecsketenyésztő Szövetség, az igazolás kiállításakor aktuális adatok szerint, – az agrárpolitikáért felelős miniszterrel kötött megállapodás alapján – térítésmentesen igazolja. Az igazolás másolata elektronikusan, ügyfélkapun keresztül nyújtható be.

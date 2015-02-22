@@ -1,0 +1,3 @@
+27. § (1) A 7. § (1) bekezdés c) és e) pontja szerinti támogatási jogcímek esetén a támogatási kérelmet elektronikus úton, ügyfélkapun keresztül lehet visszavonni.
+
+(2) A 7. § (1) bekezdés c) és e) pontja szerinti támogatási jogcímek esetén az elháríthatatlan külső ok (vis maior) miatti kérelmet az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendeletben foglaltaknak megfelelően kell elektronikus úton, ügyfélkapun keresztül benyújtani. A kérelemhez mellékelni kell a vis maior esemény okát tartalmazó állatorvosi igazolást.
