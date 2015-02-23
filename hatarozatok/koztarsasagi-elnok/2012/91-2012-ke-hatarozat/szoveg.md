@@ -26,7 +26,7 @@ dr. Borbély-Szabó Franciskát,
 
 dr. Bors Ágnes Editet,
 
-dr. Bozsó Pétert,
+dr. Bozsó Pétert,[^1]
 
 Breczkáné dr. Békési Gabriellát,
 
@@ -217,3 +217,5 @@ dr. Kutas Rékát
 bíróvá kinevezem.
 
 KEH ügyszám: IV-4/01142/2012.
+
+[^1]: A 116/2015. (II. 23.) KE határozat alapján a Köztársasági Elnök dr. Bozsó Péter bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
