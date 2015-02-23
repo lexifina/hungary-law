@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-87-30-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-03-20 | 2012-87-30-76.1 | 87/2012. (III. 20.) KE határozat |
+| 2015-02-23 | 2012-87-30-76.2 | 115/2015. (II. 23.) KE határozat |
