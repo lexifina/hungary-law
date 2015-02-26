@@ -1,1 +1,3 @@
-## 4. § A honvédelmi szervezetek egyes szellemi és fizikai (technikai) támogató tevékenységeit a miniszter által meghatározott rend szerint, több önállóan működő és gazdálkodó honvédelmi szervezet láthatja el.
+## 4. §[^10] Az MH hadrendje szerinti szervezetek alapító okiratai azok telephelyeinek megnevezését nem tartalmazzák.
+
+[^10]: A 4. § a 26/2015. (II. 25.) Korm. rendelet 9. §-ával megállapított szöveg.

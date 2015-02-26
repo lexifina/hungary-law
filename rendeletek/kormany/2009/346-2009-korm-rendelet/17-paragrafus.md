@@ -1,22 +1,32 @@
-## 16. § A miniszter által meghatározott, a miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok részére, az általuk ellátott állami feladat támogatása céljából, továbbá a miniszter által támogatott társadalmi szervezetek részére a fejezeti kezelésű előirányzatokból származó támogatások rendelkezésre bocsátása teljesítésarányosan történik.
+## 14–16. §[^29]
 
 ## Költségvetési beszámolás
 
-17. §[^24] (1)[^25] A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
+17. §[^30] (1) A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
 
-a)[^26] a fejezeti kezelésű előirányzatok tekintetében költségvetési beszámolót (a továbbiakban: beszámoló) és a zárszámadáshoz kapcsolódó adatszolgáltatást,
+a) a fejezeti kezelésű előirányzatok és – a KNBSZ, valamint az MH EK kivételével – a honvédelmi szervezetek tekintetében éves költségvetési beszámolót, időközi mérlegjelentéseket, időközi költségvetési jelentéseket (a továbbiakban együtt: elszámolások), továbbá azok a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettségű összesítésével – ide értve a KNBSZ és az MH EK elszámolásait is – elszámolásokat, valamint
 
-b)[^27] a KNBSZ és az MH Egészségügyi Központ kivételével a honvédelmi szervezetek vonatkozásában intézményi beszámolókat és időközi mérlegjelentéseket, továbbá azok költségvetési törvény szerkezeti rendjének megfelelő részletezettségű összesítésével beszámolókat és időközi mérlegjelentéseket,
+b) a zárszámadáshoz kapcsolódó adatszolgáltatást
 
-c) a zárszámadáshoz kapcsolódó adatszolgáltatást
+készít, és azokat – az intézményi elszámolások, valamint a 3. Katonai Nemzetbiztonsági Szolgálat költségvetési cím időközi mérlegjelentésének kivételével – az Áhsz.-ben, az Ávr.-ben, valamint az államháztartásért felelős miniszter zárszámadási tájékoztatójában meghatározott határideig megküldi a Kincstár és az államháztartásért felelős miniszter részére.
 
-készít és azokat – az intézményi beszámolók és időközi mérlegjelentések kivételével – az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendeletben, az Ávr.-ben, illetve az államháztartásért felelős miniszter zárszámadási tájékoztatójában meghatározott határideig megküldi a Kincstár és az államháztartásért felelős miniszter részére.
+(2) A költségvetési beszámolás során
 
-(2) Azon honvédelmi szervezet esetében, amelynél a gazdasági vezetői feladat megosztásra kerül, az intézményi beszámolót és az időközi mérlegjelentést a honvédelmi szervezet vezetője (parancsnoka) mellett a 8. § (2) bekezdése szerinti pénzügyi gazdasági vezető és a 8. § (5) bekezdése szerint a könyvviteli feladatok végrehajtására kijelölt személy együttesen, az intézményi beszámolók felügyeleti szerv részéről történő ellenőrzését az (1) bekezdés szerinti honvédelmi szervezet vezetője által – a beszámolók felülvizsgálatára – kijelölt bizottság vezetője írja alá.
+a) azon honvédelmi szervezet esetében, amelynél a gazdasági vezetői feladat megosztásra kerül, az elszámolásokat a honvédelmi szervezet vezetője, parancsnoka mellett a 8. § (2) bekezdése szerinti pénzügyi gazdasági vezető és a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet az Ávr. 9. § (1) bekezdés a) pontjában meghatározott könyvviteli szolgáltatásokat végző szervezeti egységéből kijelölt személy együttesen,
 
-(3) A honvédelmi szervezetek intézményi beszámolóinak és időközi mérlegjelentéseinek (1) bekezdés b) pontja szerinti összesítésével elkészített beszámolókat és időközi mérlegjelentéseket a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetője és a 8. § (5) bekezdése szerint kijelölt szervezeti egység vezetője írja alá.
+b) az éves költségvetési beszámoló irányító szerv részéről történő ellenőrzését az (1) bekezdés szerinti honvédelmi szervezet vezetője által kijelölt bizottság vezetője,
 
-[^24]: A 17. § a 282/2010. (XII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^25]: A 17. § (1) bekezdés záró szövegrésze a 89/2012. (IV. 26.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
-[^26]: A 17. § (1) bekezdés a) pontja a 89/2012. (IV. 26.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
-[^27]: A 17. § (1) bekezdés b) pontja a 89/2012. (IV. 26.) Korm. rendelet 6. §-ával megállapított, a 194/2013. (VI. 12.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+c) az (1) bekezdés a) pontja szerint összesített elszámolásokat a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetője és ezen honvédelmi szervezet az Ávr. 9. § (1) bekezdés a) pontjában meghatározott könyvviteli szolgáltatásokat végző szervezeti egységének vezetője
+
+## írja alá.
+
+(3) A honvédelmi szervezetek a havi zárlati feladataik végrehajtása során az Áhsz. 53. § (5) bekezdés d) és e) pontja szerinti egyeztetéseket hajtják végre. Az Áhsz. 53. § (5) bekezdés a)–c) pontja szerinti feladatok a negyedéves könyvviteli zárlat keretében kerülnek végrehajtásra.
+
+(4) A honvédelmi szervezetek költségvetése végrehajtását érintő, az Ávr. 169. § (2) bekezdése szerinti kötelezettségek teljesítése során feltárt, esetleges eltérések rendezését, a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet negyedévente, a Kincstár által közzétett, a negyedév utolsó hónapját érintő kincstári költségvetési jelentés visszaküldésével egyidejűleg teljesíti.
+
+(5) A maradványelszámolás keretében a NATO Biztonsági Beruházási Programja megvalósításához kapcsolódó fejezeti kezelésű előirányzat teljesítésével összefüggésben a lezárt beruházási programok elszámolását követően a NATO által visszatérített pénzeszközök alapján elszámolt bevétel az Ávr. 150. § (1) bekezdésben foglaltaktól eltérően kötelezettségvállalás hiányában is a „Hozzájárulás a NATO Biztonsági Beruházási Programjához” fejezeti kezelésű előirányzat fejezetet megillető költségvetési maradványnak minősül.
+
+(6) A KNBSZ speciális feladatai ellátása érdekében bérelt ingatlanon végzett felújítás elszámolt kiadásait a KNBSZ vagyonában nem kell kimutatni, azt a speciális működési kiadások terhére kell elszámolni. A felújítás elszámolt kiadásai a bérleti díjban érvényesíthetőek.
+
+[^29]: A 14–16. §-t a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^30]: A 17. § A 26/2015. (II. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
