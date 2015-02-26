@@ -1,1 +1,0 @@
-A Kormány az államháztartásról szóló, többször módosított 1992. évi XXXVIII. törvény (a továbbiakban: Áht.) 88. §-ának (5) bekezdésében, 88/A. §-ának (2) bekezdésében, valamint 124. §-a (2) bekezdésének d) és m) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
