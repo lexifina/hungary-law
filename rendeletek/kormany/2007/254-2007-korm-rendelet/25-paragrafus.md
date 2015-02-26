@@ -1,8 +1,8 @@
 ## Az értékesítés engedélyezése
 
-25. § (1)[^107] Az állami vagyon értékesítésére – ha törvény másként nem rendelkezik – a tulajdonosi joggyakorló vagy a 26. § (2) bekezdése szerinti vagyon vonatkozásában, az ott meghatározott, a tulajdonosi joggyakorlóval kötött hatályos megbízási szerződéssel rendelkező személy döntése alapján kerülhet sor.
+25. § (1)[^108] Az állami vagyon értékesítésére – ha törvény másként nem rendelkezik – a tulajdonosi joggyakorló vagy a 26. § (2) bekezdése szerinti vagyon vonatkozásában, az ott meghatározott, a tulajdonosi joggyakorlóval kötött hatályos megbízási szerződéssel rendelkező személy döntése alapján kerülhet sor.
 
-(2)[^108] Az értékesítésre az a központi költségvetési szerv, amely az adott vagyontárgy vagyonkezelője, haszonélvezője vagy használója javaslatot tehet. A javaslatról szóló döntést az erre vonatkozó megkeresésnek a tulajdonosi joggyakorlóhoz történő beérkezését követő hatvan napon belül kell meghozni és a kérelmező részére kiadni. A határidőbe nem számít bele a kérelmezőhöz intézett hiánypótlási felhívás kiadása (kiegészítő tájékoztatás kérése) és annak teljesítése között eltelt idő.
+(2)[^109] Az értékesítésre az a központi költségvetési szerv, amely az adott vagyontárgy vagyonkezelője, haszonélvezője vagy használója javaslatot tehet. A javaslatról szóló döntést az erre vonatkozó megkeresésnek a tulajdonosi joggyakorlóhoz történő beérkezését követő hatvan napon belül kell meghozni és a kérelmező részére kiadni. A határidőbe nem számít bele a kérelmezőhöz intézett hiánypótlási felhívás kiadása (kiegészítő tájékoztatás kérése) és annak teljesítése között eltelt idő.
 
 (3) A (2) bekezdés szerinti írásbeli javaslatnak tartalmaznia kell, illetve ahhoz csatolni szükséges:
 
@@ -12,17 +12,17 @@ b) az értékesítendő vagyonelem megtartásának hosszú távú pénzügyi, il
 
 c) ingatlan esetében egy hónapnál nem régebbi teljes tulajdoni lap másolatot (külföldi ingatlan esetében három hónapnál nem régebbi teljes tulajdoni lap másolatot vagy azzal egyenértékű, az ingatlan adatait, az ingatlanhoz kapcsolódó jogokat, valamint jogilag jelentős tényeket a helyi jogszabályok szerint közhitelesen tanúsító okiratot vagy nemzetközi szerződés másolatát).
 
-(4)[^109] Az értékesítéshez a vagyonkezelő központi költségvetési szerv és az irányítását vagy felügyeletét ellátó szerv vezetőjének írásbeli egyetértése szükséges, amennyiben az értékesítésre nem a (2) bekezdés szerinti javaslat alapján került sor.
+(4)[^110] Az értékesítéshez a vagyonkezelő központi költségvetési szerv és az irányítását vagy felügyeletét ellátó szerv vezetőjének írásbeli egyetértése szükséges, amennyiben az értékesítésre nem a (2) bekezdés szerinti javaslat alapján került sor.
 
-(5)[^110] Műemlék, védett kulturális javak tulajdonjogának átruházásához, továbbá a védetté nyilvánított régészeti lelőhely, védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan tulajdonjogának átruházásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges. A felelős miniszter egyetértését a Vtv. 34. § (2) bekezdés a) és b) pontja alapján lefolytatott versenyeztetési eljárás során annak megkezdését, a Vtv. 34. § (2) bekezdés c) pontja esetében pedig a szerződés megkötését engedélyező döntés előtt be kell szerezni.
+(5)[^111] Műemlék, védett kulturális javak tulajdonjogának átruházásához, továbbá a védetté nyilvánított régészeti lelőhely, védett természeti területként, illetve Natura 2000 területként nyilvántartott ingatlan tulajdonjogának átruházásához a védettség jellege szerint felelős miniszter előzetes egyetértése szükséges. A felelős miniszter egyetértését a Vtv. 34. § (2) bekezdés a) és b) pontja alapján lefolytatott versenyeztetési eljárás során annak megkezdését, a Vtv. 34. § (2) bekezdés c) pontja esetében pedig a szerződés megkötését engedélyező döntés előtt be kell szerezni.
 
-(6)[^111] Az értékesítésre vonatkozó döntés megalapozásához független szakértővel el kell végeztetni – a tőzsdén jegyzett részvény, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény szerinti kibocsátási jogosultságok, továbbá a nettó 5 millió forint egyedi könyv szerinti érték alatti, valamint jogszabályban rögzített árral, értékkel rendelkező vagyonelemek kivételével – az érintett vagyonelem forgalmi értékbecslését (vagyonértékelését). Az értékesítési eljárás megindítására vonatkozó döntés a szakvéleményben rögzített érvényességi időn belül hozható meg.
+(6)[^112] Az értékesítésre vonatkozó döntés megalapozásához független szakértővel el kell végeztetni – a tőzsdén jegyzett részvény, az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény szerinti kibocsátási jogosultságok, továbbá a nettó 5 millió forint egyedi könyv szerinti érték alatti, valamint jogszabályban rögzített árral, értékkel rendelkező vagyonelemek kivételével – az érintett vagyonelem forgalmi értékbecslését (vagyonértékelését). Az értékesítési eljárás megindítására vonatkozó döntés a szakvéleményben rögzített érvényességi időn belül hozható meg.
 
-(7)[^112]
+(7)[^113]
 
-[^107]: A 25. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^108]: A 25. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 11. §-ával megállapítot, a 77/2014. (III. 14.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
-[^109]: A 25. § (4) bekezdése 348/2010. (XII. 28.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^110]: A 25. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 397. §-ával megállapított szöveg.
-[^111]: A 25. § (6) bekezdése a 77/2014. (III. 14.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^112]: A 25. § (7) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § a) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.
+[^108]: A 25. § (1) bekezdése a 77/2014. (III. 14.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^109]: A 25. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 11. §-ával megállapítot, a 77/2014. (III. 14.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
+[^110]: A 25. § (4) bekezdése 348/2010. (XII. 28.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^111]: A 25. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 397. §-ával megállapított szöveg.
+[^112]: A 25. § (6) bekezdése a 77/2014. (III. 14.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^113]: A 25. § (7) bekezdését a 262/2010. (XI. 17.) Korm. rendelet 54. § a) pontja hatályon kívül helyezte. E módosító rendelet 52. § (1) bekezdése alapján a 2010. december 2-a után közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre kell alkalmazni, az 52. § (2) bekezdése alapján a 2010. december 2-át megelőzően közzétett pályázati felhívások és árverési hirdetmények alapján indult eljárásokra és az azok alapján kötött szerződésekre, valamint a 2010. december 2-át megelőzően kötött szerződésekre a 2010. december 1-jén alkalmazandó rendelkezéseket kell alkalmazni.

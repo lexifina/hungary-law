@@ -24,7 +24,7 @@ b) a központi költségvetési szervnek nem minősülő vagyonkezelő (a továb
 
 (9)[^44] Az államháztartás alrendszereibe nem tartozó egyéb vagyonkezelő köteles továbbá:
 
-a) a vagyonkezelésbe vett eszközöket a számviteli törvény előírásai szerint a hosszú lejáratú kötelezettségekkel szemben a vagyonkezelési szerződésben rögzített értéken állományba venni,
+a)[^45] a vagyonkezelésbe vett eszközöket a számvitelről szóló törvény előírásai szerint a hosszú lejáratú kötelezettségekkel szemben a vagyonkezelési szerződésben rögzített értéken állományba venni,
 
 b) ha törvény és ez alapján a vagyonkezelési szerződés másként nem rendelkezik, a számviteli politikájában meghatározott módon terv szerinti – szükség esetén terven felüli – értékcsökkenést elszámolni,
 
@@ -38,9 +38,9 @@ d) ha törvény és ez alapján a vagyonkezelési szerződés másként nem rend
 
 (12) A központi költségvetési szerv vagyonkezelő köteles harminc napon belül írásban jelezni az MNV Zrt. felé, ha a vagyonkezelésében lévő ingatlan kilencven napot meghaladó időtartamban az általa ellátandó állami feladathoz, vagy a közvetlen intézményi elhelyezéséhez szükségtelenné vált. A határidő elmulasztása a szerződés szempontjából a 12. § (4) bekezdésének c) pontjában említett lényeges kötelezettségszegésnek minősül. A kötelezettség nem áll fenn, ha a használat ideiglenes szünetelése az állami feladat időszakos ellátása, vagy a vagyon értékesítésének előkészítése miatt következett be.
 
-(13)[^45] A tulajdonosi joggyakorló a (12) bekezdés alapján tett bejelentéstől számított 90 napon belül köteles az ingatlant birtokba venni és az érintett ingatlan tekintetében a vagyonkezelési szerződést megszüntetni. A tulajdonosi joggyakorló birtokba vételi késedelme esetén a vagyonkezelő az ingatlan őrzésére és állagának megóvására a megbízás nélküli ügyvitel szabályai szerint köteles, valamint jogosult az ingatlan vonatkozásában az ezt követően felmerült igazolt indokolt költségeit a tulajdonosi joggyakorlótól követelni.
+(13)[^46] A tulajdonosi joggyakorló a (12) bekezdés alapján tett bejelentéstől számított 90 napon belül köteles az ingatlant – a PPP-konstrukcióban (az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés keretében) létrehozott, felújított vagy átalakított ingatlanok és az azokhoz tartozó földterületek kivételével – birtokba venni és az érintett ingatlan tekintetében a vagyonkezelési szerződést megszüntetni. A tulajdonosi joggyakorló birtokba vételi késedelme esetén a vagyonkezelő az ingatlan őrzésére és állagának megóvására a megbízás nélküli ügyvitel szabályai szerint köteles, valamint jogosult az ingatlan tekintetében az ezt követően felmerült, igazolt, indokolt költségeit a tulajdonosi joggyakorlótól követelni.
 
-(14)[^46] A központi költségvetési szervek a működésükhöz már nem szükséges, a számviteli törvény szerinti immateriális jószág, tárgyi eszköz, készlet vagyonkezelői jogának megszüntetését írásban kezdeményezhetik a tulajdonosi joggyakorlónál. A tulajdonosi joggyakorló a kezdeményezéstől számított 90 napon belül köteles a vagyonelemeket birtokba venni és az érintett vagyonelemek tekintetében a vagyonkezelési szerződést megszüntetni.
+(14)[^47] A központi költségvetési szervek a működésükhöz már nem szükséges, az államháztartás számviteléről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz, készlet vagyonkezelői jogának megszüntetését írásban kezdeményezhetik a tulajdonosi joggyakorlónál. A tulajdonosi joggyakorló a kezdeményezéstől számított 90 napon belül köteles a vagyonelemeket – a PPP-konstrukcióban (az állami és a magánszektor közötti fejlesztési, illetve szolgáltatási együttműködés keretében) megvalósult fejlesztések során, azokhoz kapcsolódóan létrejöttek vagy beszerzettek kivételével – birtokba venni és az érintett vagyonelemek tekintetében a vagyonkezelési szerződést megszüntetni.
 
 [^37]: A 9. § a 348/2010. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^38]: A 9. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
@@ -50,5 +50,6 @@ d) ha törvény és ez alapján a vagyonkezelési szerződés másként nem rend
 [^42]: A 9. § (6a) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^43]: A 9. § (7) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
 [^44]: A 9. § (9) bekezdése a 77/2014. (III. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^45]: A 9. § (13) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^46]: A 9. § (14) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^45]: A 9. § (9) bekezdés a) pontja a 26/2015. (II. 25.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^46]: A 9. § (13) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 26/2015. (II. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^47]: A 9. § (14) bekezdését a 77/2014. (III. 14.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 26/2015. (II. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
