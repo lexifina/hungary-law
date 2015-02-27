@@ -1,6 +1,4 @@
-3. § (1) A Magyar Köztársaság az Országgyűlés felhatalmazása alapján az Egyezmény 8. Cikkéhez a következő fenntartást tette:
-
-„,,A 37. Cikk 1. bekezdésében foglaltak alapján Magyarország fenntartja a jogát arra, hogy a 8. Cikkbe foglalt magatartást, amennyiben külföldi állampolgár, külföldi magánszektorban lévő egység vonatkozásában követi el, ne nyilvánítsa bűncselekménnyé.''”
+3. § (1)
 
 (2) A Magyar Köztársaság az Országgyűlés felhatalmazása alapján az Egyezmény megerősítéséről szóló okirat letétbe helyezésekor a következő nyilatkozatokat tette:
 
