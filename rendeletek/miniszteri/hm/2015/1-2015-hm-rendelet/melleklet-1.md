@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 3/2013. (VI. 11.) HM rendelet.
+## 6. §[^1]
 
 1. melléklet az 1/2015. (II. 25.) HM rendelethez
 
@@ -41,3 +41,5 @@ A XIII. Honvédelmi Minisztérium fejezet 2015. évi költségvetési kiadási e
 | 17 | 249745 |  |  |  | Hozzájárulás az EU védelmi célú közös finanszírozású védelmi alapjaihoz | Az EU védelmi célú közös finanszírozású alapjaihoz történő hozzájárulás. | az EU ATHENA és az EDA pénzügyi alapjához kapcsolódó, valamint az EU ATHENA műveletek során felmerülő, válságkezelő és békefenntartó műveletekben résztvevő magyar katonai szervezetek és személyek részére az EU által biztosított logisztikai és infrastrukturális ellátás |  |  | közvetlen kifizetés |  |  | HM VGH |  |  |
 
 | 18 | 240801 |  |  | Nemzeti és kiemelt ünnepek, egyéb rendezvények, események támogatása | A nemzeti és kiemelt ünnepek, és egyéb – országos jelentőségű – események, évfordulók, világnapok méltó, az ország márkaképe építéséhez hozzájáruló szervezése, megrendezése, a rendezvényekhez kapcsolódóan a lakosság széleskörű és részletes tájékoztatása, az ünnepi tájékoztató kiadványok összeállítása, kiadása, a rendezvényekhez kapcsolódó sajtóesemények lebonyolítása és az egyes nemzeti rendezvények lebonyolítását biztonsági szempontból felügyelő és irányító operatív törzs működési költségei forrásának biztosítása. | a Hungarofest Nemzeti Rendezvényszervező Nonprofit Korlátolt Felelősségű Társaság vagy a rendezvény megrendezésére kijelölt olyan gazdasági társaság, melynek társasági részesedése 100 százalékban állami tulajdonban áll | a Hungarofest Nemzeti Rendezvény- szervező Nonprofit Korlátolt Felelősségű Társaság számláinak pénzügyi teljesítése | nem nyújtható | közvetlen kifizetés |  |  | HM Nemzeti Rendezvény- szervező Hivatal |  |  |
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
