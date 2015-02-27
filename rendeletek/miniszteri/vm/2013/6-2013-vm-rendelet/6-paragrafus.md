@@ -2,7 +2,7 @@
 
 6. § (1) A program megvalósítása során kizárólag az alábbi költségek támogathatóak
 
-a)[^8] az egyes akcióknak a kérelmezőtől különböző szervezet által végzett koordinációs költségei, amelyek összértéke nem haladhatja meg a program teljes költségvetésének 15%-át;
+a)[^9] az egyes akcióknak a kérelmezőtől különböző szervezet által végzett koordinációs költségei, amelyek összértéke nem haladhatja meg a program teljes költségvetésének 15%-át;
 
 b) az akció megvalósításában résztvevők utazási költsége, amelynek mértéke nem haladhatja meg a program teljes költségvetésének 20%-át, és amely az alábbi költségnemeket foglalja magában:
 
@@ -18,7 +18,7 @@ c) az akció megvalósításában résztvevők szállásköltsége az 5. mellék
 
 d) kiállításokon vagy vásárokon való részvételért az esemény szervezőinek fizetendő díjak, amelyek mértéke nem haladhatja meg a program teljes költségvetésének 40%-át;
 
-e)[^9] a program teljes költségvetésének legfeljebb 15%-a erejéig a program megvalósításához nélkülözhetetlen olyan eszközbeszerzés, amelynél
+e)[^10] a program teljes költségvetésének legfeljebb 15%-a erejéig a program megvalósításához nélkülözhetetlen olyan eszközbeszerzés, amelynél
 
 ea) az eszközbeszerzés költsége nem éri el a bérlet költségét, vagy
 
@@ -40,11 +40,11 @@ i) PR tevékenységek, média-megjelenés, honlap, film, reklám előállítás�
 
 j) az akció megvalósításában résztvevők napidíja legfeljebb 50 euró/nap összegben, amelynek összesített mértéke nem haladhatja meg a program teljes költségvetésének 5%-át;
 
-k) a célországban vagy célországokban megjelenő sajtótermékek szerzői számára váltott business osztályra szóló repülőjegy, a beutaztatásukhoz kapcsolódó szakértői költségek, utazási költségek a b) pont ba)–bd) alpontja szerint, szállásköltségek az 5. melléklet szerint és étkeztetési költségek, amelyek mértéke nem haladhatja meg a program teljes költségvetésének 30%-át;
+k[^11]) a célországban vagy célországokban megjelenő sajtótermékek szerzői számára váltott business osztályra szóló repülőjegy, a beutaztatásukhoz kapcsolódó szakértői költségek, a taxival és tömegközlekedéssel történő utazás költségei, valamint a b) pont bb)–bd) alpontja szerinti utazási költségek, szállásköltségek az 5. melléklet szerint és étkeztetési költségek, amelyek mértéke nem haladhatja meg a program teljes költségvetésének 30%-át;
 
 l) a program megvalósítása során felhasznált reprezentációs termékek költségei, amelyek mértéke nem haladhatja meg a program teljes költségvetésének 20%-át;
 
-m)[^10] a számítógép-használat átalányösszegként figyelembe vett költségei, amelyek mértéke nem haladhatja meg a program teljes költségvetésének 2%-át.
+m)[^12] a számítógép-használat átalányösszegként figyelembe vett költségei, amelyek mértéke nem haladhatja meg a program teljes költségvetésének 2%-át.
 
 (2) A szállítónak – kivitelezés, beszerzés, szolgáltatás – fizetett előleg csak a fizikai teljesítést igazoló rész- vagy végszámla együttes benyújtásával számolható el.
 
@@ -52,9 +52,10 @@ m)[^10] a számítógép-használat átalányösszegként figyelembe vett költs
 
 (4) Az akciók megvalósításának elszámolható költsége az akció jóváhagyott költségvetését, ha az akció több borpiaci évet érint, az akciónak az adott borpiaci évre vonatkozóan jóváhagyott költségvetését nem haladhatja meg.
 
-(5)[^11] Az eszközbeszerzés elszámolható költsége nem haladhatja meg az értékcsökkenésnek az arra az időszakra eső értékét, amelynek során a kérelmező az eszközt a program megvalósítása érdekében használja.
+(5)[^13] Az eszközbeszerzés elszámolható költsége nem haladhatja meg az értékcsökkenésnek az arra az időszakra eső értékét, amelynek során a kérelmező az eszközt a program megvalósítása érdekében használja.
 
-[^8]: A 6. § (1) bekezdés a) pontja a 17/2013. (III. 18.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^9]: A 6. § (1) bekezdés e) pontja a 17/2013. (III. 18.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^10]: A 6. § (1) bekezdés m) pontját a 17/2013. (III. 18.) VM rendelet 7. § (4) bekezdése iktatta be.
-[^11]: A 6. § (5) bekezdését a 17/2013. (III. 18.) VM rendelet 7. § (5) bekezdése iktatta be.
+[^9]: A 6. § (1) bekezdés a) pontja a 17/2013. (III. 18.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. § (1) bekezdés e) pontja a 17/2013. (III. 18.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^11]: A 6. § (1) bekezdés k) pontja a 4/2015. (II. 19.) FM rendelet 12. § (4) bekezdése szerint módosított szöveg.
+[^12]: A 6. § (1) bekezdés m) pontját a 17/2013. (III. 18.) VM rendelet 7. § (4) bekezdése iktatta be.
+[^13]: A 6. § (5) bekezdését a 17/2013. (III. 18.) VM rendelet 7. § (5) bekezdése iktatta be.

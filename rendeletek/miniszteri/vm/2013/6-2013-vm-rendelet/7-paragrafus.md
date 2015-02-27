@@ -8,8 +8,14 @@
 
 (4) A miniszter által jóváhagyott programtól kizárólag az egyes akciók megvalósításának időpontja és helyszíne tekintetében van lehetőség eltérni, amihez a miniszter előzetes jóváhagyása szükséges.
 
-(5) A programtól való eltérés jóváhagyása iránti kérelmet legkésőbb az érintett akció eredeti időpontját, időszak megjelölése estében az eredeti időszak első napját megelőző hatvan nappal kell a minisztériumhoz benyújtani. Ha a kérelmező az akciót az eredeti időpontnál vagy időszaknál korábban tervezi megvalósítani, a benyújtási határidőt a tervezett időpont vagy időszak alapulvételével kell számítani.
+(5)[^14] A program módosításának jóváhagyása iránti kérelmet a módosítással érintett akció megvalósítását megelőzően kell a minisztériumnál benyújtani. A módosított program megvalósítására az (1) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 (6) A miniszter döntését a kérelmezővel és jóváhagyás esetén az MVH-val is közli.
 
-(7) Ha a miniszter a programtól való eltérés jóváhagyása ügyében hatvan napon belül nem dönt, a jóváhagyást megadottnak kell tekinteni. E körülményről a miniszter az MVH-t a kérelem benyújtásától számított hetven napon belül tájékoztatja.
+(7)[^15] A miniszter a program módosítására vonatkozó döntését a módosítás iránti kérelem benyújtását követő 30 napon belül közli a kérelmezővel és az MVH-val, ellenkező esetben a jóváhagyást megadottnak kell tekinteni.
+
+(8)[^16] A módosítás jóváhagyása iránti kérelem benyújtása előtt az ügyfél köteles tájékoztatni az MVH-t az akció megvalósításának új időpontjáról vagy új helyszínéről.
+
+[^14]: A 7. § (5) bekezdése a 4/2015. (II. 19.) FM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^15]: A 7. § (7) bekezdése a 4/2015. (II. 19.) FM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^16]: A 7. § (8) bekezdését a 4/2015. (II. 19.) FM rendelet 12. § (2) bekezdése iktatta be.
