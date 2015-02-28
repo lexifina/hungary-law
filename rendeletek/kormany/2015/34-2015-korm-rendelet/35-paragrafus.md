@@ -1,0 +1,3 @@
+## 34. § A KR. 38/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha az érkeztető rendszerhez a 2. mellékletben felsorolt küldemény érkezik, azt az érkeztető rendszer működtetője az átvétel tényének és időpontjának megjelölésével, illetve amennyiben a küldeményt felbontotta, a felbontás tényének és időpontjának dokumentálásával a címzetthez a postai papíralapú küldeményeken feltüntetett címen történő közvetlen kézbesítés érdekében – a közvetlen kézbesítés szükségességének küldeményen való feltüntetése mellett – a postai szolgáltatónak haladéktalanul visszaadja vagy az Állami Futárszolgálatnak haladéktalanul átadja.”
