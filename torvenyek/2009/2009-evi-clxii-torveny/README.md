@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-162-00-00
 | 2014-01-01 | 2013. évi CCXXXVI. törvény | 2009-162-00-00.8 |
 | 2014-12-06 | 2014. évi LXXVIII. törvény | 2009-162-00-00.9 |
 | 2015-02-01 | 2014. évi LXXVIII. törvény | 2009-162-00-00.10 |
+| 2015-02-28 | 2015. évi II. törvény | 2009-162-00-00.11 |
