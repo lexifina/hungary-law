@@ -1,1 +1,1 @@
-### 280. §
+280. § A nem természetes személlyel kötött betétszerződésben – a Ptk. 6:390. § (1) bekezdésének rendelkezéseitől eltérően – a betét összege után 0%-os vagy negatív előjelű kamat is kiköthető. Negatív előjelű kamat alkalmazása esetén a visszafizetendő pénzösszeg a negatív előjelű kamatlábnak megfelelő mértékben csökken.
