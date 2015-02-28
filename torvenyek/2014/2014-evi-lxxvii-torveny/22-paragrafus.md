@@ -1,1 +1,1 @@
-22. §
+22. § A Khrtv. 15. § (6) bekezdésében foglalt, e törvénnyel összefüggő adatszolgáltatási kötelezettségének a referenciaadat-szolgáltató akként tesz eleget, hogy a természetes személyt az adatátadás megtörténtéről az 5. § (1) bekezdésében foglalt szerződésmódosulással egyidejűleg értesíti.

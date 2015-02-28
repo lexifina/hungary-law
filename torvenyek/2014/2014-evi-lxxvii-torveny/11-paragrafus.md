@@ -4,9 +4,9 @@
 
 (3) A referencia-kamatláb második kamatperiódusának első napja
 
-a) ha az első új kamatfelárperiódus kezdete 2015. május 1. napja és 2015. augusztus 1. napja közé esik, ez a nap,
+a) ha az első új referencia-kamatláb periódus kezdete 2015. május 1. napja és 2015. augusztus 1. napja közé esik, ez a nap,
 
-b) minden más esetben a 2015. április 30-át követő azon hónap azon napja, amely az első új kamatfelár-periódus kezdő napjából háromhónapos visszaszámítással határozható meg.
+b) minden más esetben a 2015. április 30-át követő azon hónap azon napja, amely az első új referencia-kamatláb periódus kezdő napjából háromhónapos visszaszámítással határozható meg.
 
 (4) A kamatfelár az eredeti kamatfelár, azzal, hogy
 

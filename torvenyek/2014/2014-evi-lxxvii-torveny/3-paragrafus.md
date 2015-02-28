@@ -2,7 +2,7 @@
 
 3. § (1) A fogyasztói kölcsönszerződés az e törvényben meghatározottak szerint a törvény erejénél fogva módosul.
 
-(2) A pénzügyi intézmény köteles a fogyasztói kölcsönszerződés és az ahhoz kapcsolódó biztosítéki szerződés, jelzálogszerződés, önálló zálogjogi szerződés (a továbbiakban e § alkalmazásában együtt: jelzálogszerződés) e törvény szerint módosuló rendelkezéseinek szövegét elkészíteni.
+(2) A pénzügyi intézmény köteles a fogyasztói kölcsönszerződés és az ahhoz kapcsolódó biztosítéki szerződés, jelzálogszerződés, önálló zálogjogi szerződés e törvény szerint módosuló rendelkezéseinek szövegét elkészíteni.
 
 (3) A szerződés módosulásának napja
 

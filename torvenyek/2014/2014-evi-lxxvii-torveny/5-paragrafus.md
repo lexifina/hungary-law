@@ -14,4 +14,6 @@ da) a jövedelemarányos törlesztőrészlet és a hitelfedezeti arányok szabá
 
 db) a 12. § (3) bekezdés c) és d) pontjában foglalt feltételek fennállására történő figyelemfelhívást, valamint
 
-dc) az árfolyamgáttal érintett fogyasztói kölcsönszerződések esetén a 12. § (3) bekezdésében meghatározott írásos nyilatkozat megtételére vonatkozó figyelemfelhívást.
+dc) az árfolyamgáttal érintett fogyasztói kölcsönszerződések esetén a 12. § (3) bekezdésében meghatározott írásos nyilatkozat megtételére vonatkozó figyelemfelhívást,
+
+e) a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény (a továbbiakban: Khrtv.) 15. § (6) bekezdése szerinti tájékoztatást.
