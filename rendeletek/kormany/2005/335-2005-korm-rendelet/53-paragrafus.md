@@ -1,4 +1,4 @@
-53. §[^92] (1) Jogszabály eltérő rendelkezése hiányában a papír alapú irat akkor hiteles kiadmány, ha
+53. §[^94] (1) Jogszabály eltérő rendelkezése hiányában a papír alapú irat akkor hiteles kiadmány, ha
 
 a) azt a szervezeti és működési szabályzatban, ügyrendben, iratkezelési szabályzatban meghatározott kiadmányozási joggal rendelkező személy saját kezűleg aláírja, és aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel, vagy
 
@@ -26,4 +26,4 @@ a) hiteles papír alapú, illetve
 
 b) hiteles elektronikus
 
-[^92]: Az 53. § a 196/2013. (VI. 13.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^94]: Az 53. § a 196/2013. (VI. 13.) Korm. rendelet 29. §-ával megállapított szöveg.

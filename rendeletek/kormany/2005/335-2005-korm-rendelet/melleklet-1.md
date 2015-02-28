@@ -24,7 +24,7 @@
 
 11. Közigazgatási és Igazságügyi Hivatal
 
-12. Nemzeti Innovációs Hivatal
+12.[^148] Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
 
 13. Nemzetstratégiai Kutatóintézet
 
@@ -38,7 +38,7 @@
 
 18. VERITAS Történetkutató Intézet
 
-19. Fővárosi és megyei kormányhivatalok és járási hivatalaik
+19.[^149] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
 
 20. Bevándorlási és Állampolgársági Hivatal
 
@@ -118,6 +118,9 @@
 
 58. Országos Atomenergia Hivatal
 
-59. Magyar Kormánytisztviselői Kar
+59.[^150] Nemzeti Szakképzési és Felnőttképzési Hivatal
 
 [^147]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
+[^148]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^149]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^150]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
