@@ -1,6 +1,6 @@
 ## 21. Egyoldalú kamatemelés, költségemelés, díjemelés tilalma, és a fogyasztói kölcsönszerződések körében a felmondás tekintetében érvényesülő speciális szabályozás
 
-45. § (1) A pénzügyi intézmény fogyasztói kölcsönszerződések tekintetében külön törvényben meghatározott időpontig, de legkésőbb 2016. április 30. napjáig nem jogosult egyoldalú kamatemelésre, költségemelésre vagy díjemelésre.
+45. § (1) A pénzügyi intézmény fogyasztói kölcsönszerződések tekintetében külön törvényben meghatározott időpontig, de legkésőbb 2016. április 1. napjáig nem jogosult egyoldalú kamatemelésre, költségemelésre vagy díjemelésre.
 
 (2) A fogyasztói kölcsönszerződést a fogyasztót terhelő fizetési kötelezettség nem teljesítése miatt a pénzügyi intézmény az e törvény szerinti elszámolás fogyasztó részére való megküldését követő hatállyal mondhatja fel, illetve a fogyasztóval szembeni hátralékos követelése ilyen hatállyal válhat egy összegben esedékessé.
 

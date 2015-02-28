@@ -1,0 +1,1 @@
+35/A. § A 2014. évi XXXVIII. törvény 13. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bíróság a 2014. évi XXXVIII. törvény 13. § (4) bekezdésében meghatározott kezdőidőponttól számított 45 napon belül bírálja el a fellebbezést.

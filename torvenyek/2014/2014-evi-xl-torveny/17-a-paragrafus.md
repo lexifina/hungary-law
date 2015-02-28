@@ -1,0 +1,1 @@
+17/A. § A központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény 15. § (6) bekezdésében foglalt, e törvénnyel összefüggő adatszolgáltatási kötelezettségének a referenciaadat-szolgáltató akként tesz eleget, hogy a természetes személyt az adatátadás megtörténtéről az elszámolás 13. § szerinti megküldésével egyidejűleg értesíti.

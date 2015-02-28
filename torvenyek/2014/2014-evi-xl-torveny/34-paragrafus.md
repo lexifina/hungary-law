@@ -2,6 +2,6 @@
 
 (2) A bíróságnak a keresetlevél beérkezésétől számított 15 napon belül kell megvizsgálnia a keresetlevelet, és döntenie a keresetlevél elutasításáról vagy a tárgyalás kitűzéséről. A tárgyalást legkésőbb a keresetlevél vizsgálatától számított tizenötödik napra kell kitűzni. A tárgyalást úgy kell kitűzni, hogy a keresetlevélnek az alperes részére való kézbesítése a tárgyalás napját legalább 8 nappal megelőzze. A bíróság a keresetet 45 napon belül bírálja el, amely határidőt a tárgyalás kitűzésétől kell számítani.
 
-(3) A perben nem kell alkalmazni a 2014. évi XXXVIII. törvény 7. § (2) bekezdését és 8. § (1) bekezdését.
+(3) A perben nem kell alkalmazni a 2014. évi XXXVIII. törvény 7. § (2) bekezdését, 8. § (1) bekezdését és 13. § (6) bekezdését.
 
 (4) A Felügyelet személyes illetékmentessége erre az eljárásra is kiterjed.
