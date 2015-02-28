@@ -69,5 +69,3 @@ b) pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás
 8. Mentesül a biztosítékadási kötelezettség alól az az adózó, aki
 
 a) az állami adóhatóság által vezetett minősített adózói adatbázisban szerepel, vagy
-
-b) legalább két éve működik és szerepel az állami adóhatóság által vezetett köztartozásmentes adózói adatbázisban, valamint az I. és III. alcím szerinti bejelentés időpontjában nem áll adószám felfüggesztés hatálya alatt.

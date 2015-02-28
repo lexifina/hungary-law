@@ -10,8 +10,4 @@
 
 (6) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény által megállapított 8. számú melléklet 1/C. alpontját 2015. január 1-jével kezdődő adómegállapítási időszakokra benyújtandó összesítő nyilatkozatok esetében kell először alkalmazni.
 
-(7) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény által megállapított 22/E. § és a 11. számú melléklet I–III. alcímei szerinti bejelentési kötelezettségeket első alkalommal a 2015. január 1-jén és azt követően megkezdett fuvarozások tekintetében kell teljesíteni.
-
-(8) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 11. számú melléklet IV. alcím 3. pontja szerinti biztosítékot első alkalommal 2015. január 31-éig kell nyújtani, az eddig az időpontig az EKAER-be rögzített adatok alapján. A biztosíték összegének meghatározása során az annak alapjául szolgáló időszakot 2015. január 1-jétől az első biztosítékadási kötelezettséggel érintett bejelentés időpontjáig kell számolni. Ha az első biztosítékadási kötelezettséggel érintett bejelentésre 2015. március 1-jét követően kerül sor, a biztosíték összegének alapjául szolgáló időszakot a 11. melléklet IV. alcím 3. pontja alapján kell meghatározni.
-
-(9) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény által megállapított 172. § (19a) bekezdését, 173. § (1) bekezdését 2015. február 1-jétől kell alkalmazni.
+(7)–(9)

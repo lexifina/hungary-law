@@ -71,3 +71,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2014-12-20 | 2014. évi LXXV. törvény | 2003-92-00-00.122 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2003-92-00-00.123 |
 | 2015-02-01 | 2014. évi XCII. törvény | 2003-92-00-00.124 |
+| 2015-02-28 | 2015. évi I. törvény | 2003-92-00-00.125 |

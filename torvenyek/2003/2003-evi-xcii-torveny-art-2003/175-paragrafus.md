@@ -124,6 +124,6 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 
 (31) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben állapítsa meg a pénztárgép éves felülvizsgálatához kapcsolódó valamennyi szolgáltatás hatósági árát és a hatósági árszabályozás részletes szabályait.
 
-(32) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER működésével kapcsolatos részletszabályokat, különösen az EKAER szám megállapításának rendjét, az EKAER elektronikus felületén történő bejelentéssel, változásbejelentéssel, a kockázati biztosíték mértékének folyamatos meghatározásával kapcsolatos szabályokat rendeletben határozza meg.
+(32) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az EKAER hatálya alá tartozó termékértékesítést, termékbeszerzést és egyéb célú termékmozgatást, az EKAER működésével kapcsolatos szabályokat, az EKAER hatálya alóli mentesülés eseteit, valamint a kockázati biztosítékkal kapcsolatos szabályokat, különösen az EKAER szám megállapításának rendjét, a személyes adatok kivételével a bejelentendő adatok körét, a bejelentésre kötelezettek körét, a bejelentési kötelezettség teljesítése alóli egyedi mentesítés szabályait, az EKAER elektronikus felületén történő bejelentéssel, változás-bejelentéssel kapcsolatos szabályokat rendeletben határozza meg.
 
 (33) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott rendeletben határozza meg az EKAER működésével összefüggésben a kockázatos termékek körét.
