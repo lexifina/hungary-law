@@ -1,0 +1,1 @@
+## 1. § A 2014–2020-as programozási időszakban a transznacionális és interregionális együttműködési programok végrehajtási intézményeiről szóló 126/2014. (IV. 10.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
