@@ -58,7 +58,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 9. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 10 | Gyógyfürdők | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+| 10 | Gyógyfürdők | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 | 11 | Határrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -84,7 +84,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 1 | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2 | Gyógyhely, ásvány-, gyógyvíz és gyógyiszap lelőhely védelme | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+| 2 | Gyógyhely, ásvány-, gyógyvíz és gyógyiszap lelőhely védelme | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 | 3 | Közegészségügy | fővárosi és megyei kormányhivatal megyei népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
 
@@ -158,7 +158,7 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 9. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 10 | Gyógyfürdők | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+| 10 | Gyógyfürdők | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 | 11 | Bányászati vagy gázipari létesítmény érintettsége esetén | bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
@@ -198,4 +198,4 @@ A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági
 
 | 4. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^7]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a, a 394/2012. (XII. 20.) Korm. rendelet 41. §-a, az 527/2013. (XII. 30.) Korm. rendelet 90. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 48. § (2)–(5) bekezdése, 49. § b)–e) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet a 351/2010. (XII. 30.) Korm. rendelet 281. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 35. §-a, a 282/2011. XII. 21.) Korm. rendelet 44. § (2) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 56. §-a, a 394/2012. (XII. 20.) Korm. rendelet 41. §-a, az 527/2013. (XII. 30.) Korm. rendelet 90. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 48. § (2)–(5) bekezdése, 49. § b)–e) pontja, a 30/2015. (II. 25.) Korm. rendelet 44. §-a szerint módosított szöveg.

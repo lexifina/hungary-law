@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-174-20-
 | 2013-01-01 | 2010-174-20-22.7 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2014-01-01 | 2010-174-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2014-09-13 | 2010-174-20-22.9 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2015-03-01 | 2010-174-20-22.10 | 351/2010. (XII. 30.) Korm. rendelet |
