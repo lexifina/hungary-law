@@ -64,11 +64,11 @@
 
 |  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-|  | 2 | Egészségügyi Engedélyezési és Közigazgatási Hivatal | irányítás |
+|  | 2 | Egészségügyi Nyilvántartási és Képzési Központ | irányítás |
 
 |  | 3 | Emberi Erőforrás Támogatáskezelő | irányítás |
 
-|  | 4 | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | irányítás |
+|  | 4 | Állami Egészségügyi Ellátó Központ | irányítás |
 
 |  | 5 | Klebelsberg Intézményfenntartó Központ | irányítás |
 
@@ -85,6 +85,8 @@
 |  | 11 | Országos Tisztifőorvosi Hivatal | irányítás |
 
 |  | 12 | Szociális és Gyermekvédelmi Főigazgatóság | irányítás |
+
+|  | 13 | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | irányítás |
 
 ## D) Földművelésügyi miniszter
 

@@ -14,6 +14,10 @@ e) közreműködik a védelemszervezés közigazgatási szerveket érintő infor
 
 f) – az informatikáért felelős miniszterrel együttműködve – gondoskodik az állampolgárok és a vállalkozások elektronikus közigazgatási szolgáltatások használatára való ösztönzéséről,
 
-g) ellátja az összkormányzati szintű közigazgatási informatikai alkalmazásokkal és nyilvántartások összehangolásával összefüggő igazgatásszervezési feladatokat.
+g) ellátja az összkormányzati szintű közigazgatási informatikai alkalmazásokkal és nyilvántartások összehangolásával összefüggő igazgatásszervezési feladatokat,
+
+h)[^20] az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs infrastruktúrához történő illeszkedés szempontjának vizsgálatával jóváhagyja az egyes kormányzati informatikai beszerzések és beruházások megvalósításához szükséges közbeszerzésekre irányuló előterjesztéseket, valamint ellenőrizheti a beruházás végrehajtását.
 
 (3) A miniszter – jogszabályban meghatározott kivétellel – a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. útján központosított informatikai és telekommunikációs szolgáltatásokat nyújt, gondoskodik az igénybevevők informatikai és telekommunikációs eszközökkel történő ellátásáról és az ilyen eszközök működtetéséről.
+
+[^20]: A 26. § (2) bekezdés h) pontját a 391/2014. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
