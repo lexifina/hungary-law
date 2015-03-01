@@ -2,7 +2,7 @@
 
 1. számú melléklet
 
-a 339/2008. (XII. 30.) Korm. rendelethez[^5]
+a 339/2008. (XII. 30.) Korm. rendelethez[^9]
 
 ## Adatszolgáltatás reprodukciós eljárás során elvégzett beavatkozásról
 
@@ -16,21 +16,21 @@ a 339/2008. (XII. 30.) Korm. rendelethez[^5]
 
 4. OEP finanszírozott
 
-4/A.[^6] Nem magyar állampolgár esetén a költségviselő megnevezése
+4/A.[^10] Nem magyar állampolgár esetén a költségviselő megnevezése
 
 5. Páciens születési éve
 
 6. Férj/partner születési éve
 
-7.[^7] Összesen hányadik reprodukciós eljárás kezdődik most (megelőző szüléstől függetlenül összesen)
+7.[^11] Összesen hányadik reprodukciós eljárás kezdődik most (megelőző szüléstől függetlenül összesen)
 
-7/A.[^8] A jelenleg végzett humán reprodukciós eljárásból összesen hányadik kezdődik
+7/A.[^12] A jelenleg végzett humán reprodukciós eljárásból összesen hányadik kezdődik
 
 8. Korábbi friss embriótranszferek száma
 
 9. Korábbi fagyasztott embriótranszferek száma
 
-9/A.[^9] Korábbi ivarsejttel végzett mesterséges ondóbevitelek száma
+9/A.[^13] Korábbi ivarsejttel végzett mesterséges ondóbevitelek száma
 
 10. Kezelés javallata
 
@@ -44,7 +44,7 @@ a 339/2008. (XII. 30.) Korm. rendelethez[^5]
 
 15. Petesejtleszívás időpontja
 
-15/A.[^10] Az ondóbevitel időpontja
+15/A.[^14] Az ondóbevitel időpontja
 
 16. Leszívott petesejtek száma összesen
 
@@ -98,9 +98,9 @@ a 339/2008. (XII. 30.) Korm. rendelethez[^5]
 
 41. Adományozás (petesejt/spermium/embrio) esetén a donorok száma
 
-[^5]: Az 1. számú melléklet a 447/2012. (XII. 29.) Korm. rendelet 72. § (4) bekezdésével megállapított szöveg.
-[^6]: Az 1. számú melléklet 4/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
-[^7]: Az 1. számú melléklet 7. pontja az 520/2013. (XII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
-[^8]: Az 1. számú melléklet 7/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
-[^9]: Az 1. számú melléklet 9/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
-[^10]: Az 1. számú melléklet 15/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
+[^9]: Az 1. számú melléklet a 447/2012. (XII. 29.) Korm. rendelet 72. § (4) bekezdésével megállapított szöveg.
+[^10]: Az 1. számú melléklet 4/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
+[^11]: Az 1. számú melléklet 7. pontja az 520/2013. (XII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^12]: Az 1. számú melléklet 7/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
+[^13]: Az 1. számú melléklet 9/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
+[^14]: Az 1. számú melléklet 15/A. pontját az 520/2013. (XII. 30.) Korm. rendelet 58. §-a iktatta be.
