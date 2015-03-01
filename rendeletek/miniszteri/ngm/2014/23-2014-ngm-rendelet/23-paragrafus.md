@@ -1,3 +1,3 @@
-## 22. §[^10]
+## 22. §[^11]
 
-[^10]: A 22. § a 20. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^11]: A 22. § a 20. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.

@@ -8,6 +8,6 @@ b) rendelkezésre bocsátani az a) pontban említett eszközök használatára v
 
 c) megadni az a) pontban említett eszközök használatához szükséges felvilágosítást.
 
-(2)[^8]
+(2)[^9]
 
-[^8]: A 18. § (2) bekezdése a 20. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^9]: A 18. § (2) bekezdése a 20. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
