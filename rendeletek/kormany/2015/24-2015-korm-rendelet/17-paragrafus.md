@@ -1,0 +1,1 @@
+## „(2) Ha az ellátást megállapító szerv az Szt. 10. § (6) bekezdésében foglalt jogkörében a jövedelmet vélelmezi, a havi vélelmezett jövedelem nem haladhatja meg a család (háztartás) által lakott lakás és a tulajdonában álló vagyontárgyak együttes havi fenntartási költségének háromszorosát.”
