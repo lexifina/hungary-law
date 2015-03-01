@@ -116,15 +116,7 @@ g) nem minősül adó megfizetésére kötelezettnek.
 
 42. EKAER szám: az Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (EKAER) által a termék közúti fuvarozásának bejelentését követően automatikusan képzett azonosító szám, amely egy adott termék egységet azonosít.
 
-43. Kockázatos termék: a külön jogszabály által kockázatosnak minősített élelmiszerek és egyéb termékek.
-
-44. Végfelhasználó: a terméket személyes szükséglet kielégítését meg nem haladó mennyiségben magánszükséglete kielégítésére való felhasználás céljából vásárló természetes személy.
-
-45. Címzett: a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzését vagy belföldi beszerzését megvalósító általános forgalmi adó alanya.
-
-46. Feladó: a terméknek Magyarország területéről az Európai Unió más tagállamába irányuló, vagy első belföldi adóköteles – nem közvetlenül végfelhasználó részére történő – értékesítését megvalósító általános forgalmi adó alanya, valamint az általános forgalmi adó mentesség érvényesítése érdekében a belföldön nyilvántartásba nem vett adózó helyett eljáró közvetett vámjogi képviselő, adóraktár üzemeltetője.
-
-47. Felrakodó: a közúti fuvarozásához használt gépjárműre a termék felrakodását végző személy.
+43–47.
 
 48. Útdíjköteles gépjármű: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjköteles gépjármű.
 
@@ -132,4 +124,4 @@ g) nem minősül adó megfizetésére kötelezettnek.
 
 50. Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (EKAER): az állami adó- és vámhatóság által működtetett elektronikus rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja.
 
-51. Átvevő: a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzése vagy belföldi értékesítése esetén, ha nem a címzett veszi át a terméket, vagy a terméknek az Európai Unió más tagállamából Magyarország területére irányuló beszerzéstől eltérő egyéb célból történő behozatala esetén a terméket a kirakodási (átvételi) helyen átvevő személy.
+51.
