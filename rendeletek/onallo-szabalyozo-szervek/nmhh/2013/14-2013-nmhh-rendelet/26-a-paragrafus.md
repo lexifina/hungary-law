@@ -1,4 +1,4 @@
-## 25. [^2] Az építési napló
+## 25. [^3] Az építési napló
 
 26/A. § (1) Minden építésügyi hatósági engedélyhez vagy a 19. § szerinti bejelentéshez kötött építési tevékenység végzéséről építési naplót kell vezetni.
 
@@ -34,4 +34,4 @@ e) közös gyűjtő napló.
 
 (9) Az építési napló vezetésére egyebekben az Épkiv. rendelkezései irányadók.
 
-[^2]: A 25. alcímet (26/A. §) a 7/2014. (X. 21.) NMHH rendelet 1. §-a iktatta be.
+[^3]: A 25. alcímet (26/A. §) a 7/2014. (X. 21.) NMHH rendelet 1. §-a iktatta be.
