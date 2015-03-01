@@ -1,6 +1,6 @@
-## A határozat tartalma[^685]
+## A határozat tartalma[^691]
 
-105. §[^686] (1) A gyermek gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+105. §[^692] (1) A gyermek gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) a gyermek gondozási helyének
 
@@ -12,7 +12,7 @@ történő megállapítását, az ellátás kezdő időpontját,
 
 b) a gyermekvédelmi gyám személyének megállapítását, ennek hiányában a gyermek számára gyermekvédelmi gyám kirendelését és tájékoztatását a gyermek gyámságával kapcsolatos jogairól és kötelezettségeiről,
 
-c)[^687] a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásra vonatkozó szabályokat, és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Ptk. 4:124. §-a szerinti jogkövetkezményekre,
+c)[^693] a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásra vonatkozó szabályokat, és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Ptk. 4:124. §-a szerinti jogkövetkezményekre,
 
 d) a gyermek ellátási szükségletének és annak kezdő időpontja megállapítását,
 
@@ -42,19 +42,19 @@ k) a gyermek lakóhelyének, és ha szükséges, tartózkodási helyének megál
 
 l) a fellebbezésre tekintet nélküli végrehajthatóság kimondását,
 
-m)[^688] megelőző pártfogás alatt álló gyermek esetében a megelőző pártfogás fenntartását vagy megszüntetését.
+m)[^694] megelőző pártfogás alatt álló gyermek esetében a megelőző pártfogás fenntartását vagy megszüntetését.
 
-(1a)[^689] A gyámhivatal a megelőző pártfogás fenntartása esetén az (1) bekezdés szerinti döntésében rendelkezik a 91/M. §-ban foglaltakról is, egyidejűleg felhívja a gyermek gyermekvédelmi gyámját és gondozási helyét a megelőző pártfogó felügyelővel való együttműködésre.
+(1a)[^695] A gyámhivatal a megelőző pártfogás fenntartása esetén az (1) bekezdés szerinti döntésében rendelkezik a 91/M. §-ban foglaltakról is, egyidejűleg felhívja a gyermek gyermekvédelmi gyámját és gondozási helyét a megelőző pártfogó felügyelővel való együttműködésre.
 
 (2) A gyámhivatal a gondozási díjról külön határozatban is rendelkezhet.
 
 (3) A gondozási helyről szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel a gyermek gondozási helyét, feltéve, hogy az eltér az ideiglenes gondozási helytől.
 
-(4)[^690] Megelőző pártfogás alatt álló gyermek esetén a gyámhivatal a határozatát közli a pártfogó felügyelői szolgálattal.
+(4)[^696] Megelőző pártfogás alatt álló gyermek esetén a gyámhivatal a határozatát közli a pártfogó felügyelői szolgálattal.
 
-[^685]: A 105. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 36. §-a iktatta be.
-[^686]: A 105. § a 97/2013. (III. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^687]: A 105. § (1) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 73. pontja szerint módosított szöveg.
-[^688]: A 105. § (1) bekezdés m) pontját a 353/2014. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^689]: A 105. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^690]: A 105. § (4) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^691]: A 105. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 36. §-a iktatta be.
+[^692]: A 105. § a 97/2013. (III. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^693]: A 105. § (1) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 73. pontja szerint módosított szöveg.
+[^694]: A 105. § (1) bekezdés m) pontját a 353/2014. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^695]: A 105. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^696]: A 105. § (4) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.

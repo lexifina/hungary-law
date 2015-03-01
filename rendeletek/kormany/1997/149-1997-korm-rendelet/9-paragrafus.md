@@ -1,10 +1,10 @@
-## 8/D. §[^34] A gyámhatóság – ha technikai felkészültsége lehetővé teszi – a megkeresést elektronikus levél útján küldi meg a másik hatóság, szerv vagy személy részére. A gyámhatóság a megkeresést kinyomtatva elhelyezi az iratanyagban vagy arról hivatalos feljegyzést készít.
+## 8/D. §[^36] A gyámhatóság – ha technikai felkészültsége lehetővé teszi – a megkeresést elektronikus levél útján küldi meg a másik hatóság, szerv vagy személy részére. A gyámhatóság a megkeresést kinyomtatva elhelyezi az iratanyagban vagy arról hivatalos feljegyzést készít.
 
 ## Környezettanulmány
 
-9. § (1)[^35] A gyámhatóság a Gyvt. 130. § (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére felkérhet más személyt vagy szervet, így különösen a gyermekjóléti szolgálatot és a települési önkormányzat jegyzőjét.
+9. § (1)[^37] A gyámhatóság a Gyvt. 130. § (2) bekezdésében meghatározottak alapján részletes környezettanulmányt (helyzetértékelést) készít, illetve ennek készítésére felkérhet más személyt vagy szervet, így különösen a gyermekjóléti szolgálatot és a települési önkormányzat jegyzőjét.
 
-(2)[^36] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
+(2)[^38] A gyámhivatal környezettanulmány (helyzetértékelés) elkészítésére
 
 a) az örökbefogadhatónak nyilvánításra irányuló eljárás során a gyermekjóléti szolgálatot,
 
@@ -12,7 +12,7 @@ b) az örökbefogadás előtti eljárás és az örökbefogadás engedélyezése
 
 kérheti fel.
 
-(3)[^37] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon kívül tartalmazza
+(3)[^39] A környezettanulmány (helyzetértékelés) során felvett jegyzőkönyv a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon kívül tartalmazza
 
 a) a gyermek
 
@@ -36,7 +36,7 @@ bd) anyagi és szociális körülményeit,
 
 be) ügyének szempontjából lényeges megállapításokat.
 
-[^34]: A 8/D. §-t a 97/2013. (III. 29.) Korm. rendelet 2. §-a iktatta be.
-[^35]: A 9. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^36]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^37]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, bevezető szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 3. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A 8/D. §-t a 97/2013. (III. 29.) Korm. rendelet 2. §-a iktatta be.
+[^37]: A 9. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^38]: A 9. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^39]: A 9. § (3) bekezdése a 315/2005. (XII. 25.) Korm. rendelet 9. §-ával megállapított, bevezető szövegrésze a 173/2009. (VIII. 29.) Korm. rendelet 66. § (1) bekezdés 3. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.

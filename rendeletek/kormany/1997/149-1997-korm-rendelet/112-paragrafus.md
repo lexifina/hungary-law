@@ -1,3 +1,3 @@
-## 111. §[^710]
+112. §[^717]
 
-[^710]: A 111. §-t és az azt megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^717]: A 112–114. §-t a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés g) pontja hatályon kívül helyezte.

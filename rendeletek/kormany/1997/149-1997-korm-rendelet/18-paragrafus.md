@@ -1,12 +1,10 @@
-## 17/A. §[^81]
-
 ## MÁSODIK RÉSZ
 
 ## SZÜLŐI FELÜGYELET
 
 ## ÉS A KAPCSOLATTARTÁS
 
-## III. Fejezet[^82]
+## III. Fejezet[^84]
 
 ## A SZÜLŐI FELÜGYELETI JOG GYAKORLÁSÁVAL KAPCSOLATOS ÜGYEK
 
@@ -24,5 +22,4 @@ a gyámhivatal e megállapodásukat – kérésükre – jegyzőkönyvben rögz�
 
 (3) A szülőket tájékoztatni kell arról, hogy a (2) bekezdésben meghatározott megállapodásukat módosíthatják, valamint ezen megállapodásuk nem azonos hatályú a bíróságnak a házassági vagy a szülői felügyelet rendezése iránti perben hozott határozatával.
 
-[^81]: A 17/A. §-t és alcímét a 315/2005. (XII. 25.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés h) pontja. Ez utóbbi módosító rendelet 61. § (2) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^82]: A III. Fejezet (18–26/C. §) a 70/2014. (III. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^84]: A III. Fejezet (18–26/C. §) a 70/2014. (III. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

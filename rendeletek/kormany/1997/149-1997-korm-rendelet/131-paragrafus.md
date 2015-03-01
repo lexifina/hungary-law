@@ -1,6 +1,6 @@
 ## A gondnok kirendelése
 
-131. §[^775] (1)[^776] A gondnokrendelés előtt a gyámhivatal megvizsgálja, hogy
+131. §[^783] (1)[^784] A gondnokrendelés előtt a gyámhivatal megvizsgálja, hogy
 
 a) mi a gondnokrendelés oka,
 
@@ -14,11 +14,11 @@ e) a gondnokrendeléssel érintett személy gondozásában, ellátásában ki ve
 
 f) van-e vagyona a gondnokrendeléssel érintett személynek.
 
-(2)[^777] A gondnokrendelés előtt a gyámhivatal beszerzi a gondnokrendelés alapjául szolgáló bizonyítékokat, így különösen a jogerős bírósági határozatot, valamint a gondnokolt születési anyakönyvi kivonatának adattartalmát.
+(2)[^785] A gondnokrendelés előtt a gyámhivatal beszerzi a gondnokrendelés alapjául szolgáló bizonyítékokat, így különösen a jogerős bírósági határozatot, valamint a gondnokolt születési anyakönyvi kivonatának adattartalmát.
 
-(3)[^778] A gyámhivatal a Gyvt. 128. §-ában meghatározott személyeken kívül meghallgatja – ha mentális állapota lehetővé teszi – a gondnokság alá helyezéssel érintett személyt, valamint a gondnoki tisztség ellátását vállaló valamennyi személyt.
+(3)[^786] A gyámhivatal a Gyvt. 128. §-ában meghatározott személyeken kívül meghallgatja – ha mentális állapota lehetővé teszi – a gondnokság alá helyezéssel érintett személyt, valamint a gondnoki tisztség ellátását vállaló valamennyi személyt.
 
-[^775]: A 131. § a 262/2001. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^776]: A 131. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 67. §-ával megállapított szöveg.
-[^777]: A 131. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés t) pontja szerint módosított szöveg.
-[^778]: A 131. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 82. pontja szerint módosított szöveg.
+[^783]: A 131. § a 262/2001. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^784]: A 131. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 67. §-ával megállapított szöveg.
+[^785]: A 131. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés t) pontja szerint módosított szöveg.
+[^786]: A 131. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 82. pontja szerint módosított szöveg.

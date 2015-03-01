@@ -1,4 +1,4 @@
-30/D. §[^108] (1) Ha a felek között megállapodás vagy részmegállapodás jön létre, azt a közvetítő írásba foglalja.
+30/D. §[^110] (1) Ha a felek között megállapodás vagy részmegállapodás jön létre, azt a közvetítő írásba foglalja.
 
 (2) A közvetítő külön megállapodásba foglalja a felek közötti megegyezésnek azt a részét, amely nem tárgya a folyamatban lévő gyámhatósági eljárásnak.
 
@@ -10,4 +10,4 @@
 
 (6) A gyámhivatal kérelemre akkor biztosít a Gyvt. 133/A. § (3a) bekezdés b) pontja szerinti költségmentességet a támogatott közvetítői eljárást vagy kötelező támogatott közvetítői eljárást igénybe vevő félnek, ha az a közvetítői eljárással összefüggő együttműködési kötelezettségének eleget tett, és jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének négyszeresét.
 
-[^108]: A 30/D. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^110]: A 30/D. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

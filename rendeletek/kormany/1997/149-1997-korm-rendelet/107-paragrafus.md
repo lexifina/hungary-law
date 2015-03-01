@@ -1,10 +1,8 @@
-## 106. §[^693]
+## Elhelyezési javaslat és egyéni elhelyezési terv[^700]
 
-## Elhelyezési javaslat és egyéni elhelyezési terv[^694]
+107. § (1)[^701] Az elhelyezési javaslat és egyéni elhelyezési terv célja, hogy elősegítse a gyermek saját családjába történő visszahelyezését és ehhez meghatározza a szükséges feltételeket.
 
-107. § (1)[^695] Az elhelyezési javaslat és egyéni elhelyezési terv célja, hogy elősegítse a gyermek saját családjába történő visszahelyezését és ehhez meghatározza a szükséges feltételeket.
-
-(2)[^696] A gyámhivatal által elfogadott elhelyezési javaslat és egyéni elhelyezési terv tartalmazza
+(2)[^702] A gyámhivatal által elfogadott elhelyezési javaslat és egyéni elhelyezési terv tartalmazza
 
 a) annak a célnak a megjelölését, hogy a nevelésbe vétel megszüntetése után melyik szülő vagy más hozzátartozó, vagy örökbefogadó szülő gondozásába kerüljön a gyermek,
 
@@ -22,17 +20,16 @@ f) a soron kívüli felülvizsgálat időpontját, ha az szükségesnek látszik
 
 a) a (2) bekezdés d) pontjában előírt feltételek megvalósításához igénybe vehető szolgáltatások megjelölését,
 
-b)[^697] a gyermekvédelmi gyám és a lakóhely szerinti gyermekjóléti szolgálat családgondozója, valamint megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő közötti munkamegosztás formáit,
+b)[^703] a gyermekvédelmi gyám és a lakóhely szerinti gyermekjóléti szolgálat családgondozója, valamint megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő közötti munkamegosztás formáit,
 
-c)[^698] a családgondozó, a szülő, a gyermek és megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő közötti együttműködés részletes szabályait,
+c)[^704] a családgondozó, a szülő, a gyermek és megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő közötti együttműködés részletes szabályait,
 
 d) a szakmailag indokoltnak tartott egyéb feltételeket.
 
 (4) A gyámhivatalnak az egyéni elhelyezési terv elfogadásáról való döntése nem terjed ki a (3) bekezdésben meghatározott rendelkezésekre.
 
-[^693]: A 106. §-t és az azt megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 64. § (2) bekezdés e) pontja hatályon kívül helyezte.
-[^694]: A 107. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 38. §-a iktatta be.
-[^695]: A 107. § (1) bekezdése a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 11. pontja szerint módosított szöveg.
-[^696]: A 107. § (2) bekezdése a 97/2013. (III. 29.) Korm. rendelet 39. §-ával megállapított szöveg.
-[^697]: A 107. § (3) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^698]: A 107. § (3) bekezdés c) pontja a 353/2014. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^700]: A 107. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 38. §-a iktatta be.
+[^701]: A 107. § (1) bekezdése a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 11. pontja szerint módosított szöveg.
+[^702]: A 107. § (2) bekezdése a 97/2013. (III. 29.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^703]: A 107. § (3) bekezdés b) pontja a 353/2014. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^704]: A 107. § (3) bekezdés c) pontja a 353/2014. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-## A Magyarországon szokásos tartózkodási hellyel rendelkező külföldi állampolgárságú örökbefogadóra vonatkozó rendelkezések[^318]
+## A Magyarországon szokásos tartózkodási hellyel rendelkező külföldi állampolgárságú örökbefogadóra vonatkozó rendelkezések[^320]
 
-51/B. §[^319] (1) A Magyarország területén szokásos tartózkodási hellyel rendelkező külföldi állampolgárságú örökbe fogadni szándékozó személy esetén az örökbefogadás előtti eljárásra a 38–39/A. §-t kell alkalmazni.
+51/B. §[^321] (1) A Magyarország területén szokásos tartózkodási hellyel rendelkező külföldi állampolgárságú örökbe fogadni szándékozó személy esetén az örökbefogadás előtti eljárásra a 38–39/A. §-t kell alkalmazni.
 
 (2) A Magyarország területén szokásos tartózkodási hellyel rendelkező külföldi állampolgárságú örökbe fogadni szándékozó személy által történő belföldi örökbefogadás engedélyezésére a 40–43. §-t és a 45–47/A. §-t kell alkalmazni.
 
-[^318]: Az 51/B. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 40. §-a iktatta be.
-[^319]: Az 51/B. §-t a 70/2014. (III. 13.) Korm. rendelet 40. §-a iktatta be.
+[^320]: Az 51/B. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 40. §-a iktatta be.
+[^321]: Az 51/B. §-t a 70/2014. (III. 13.) Korm. rendelet 40. §-a iktatta be.

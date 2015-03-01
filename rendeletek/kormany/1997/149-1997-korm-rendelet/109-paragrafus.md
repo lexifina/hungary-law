@@ -1,12 +1,12 @@
-## 108. §[^699] A gyámhivatal szükség szerint a 107. § (2) bekezdésének a) pontjában foglaltak érdekében felhívja a szülőt a gyermekelhelyezési vagy a gyermekelhelyezés megváltoztatására irányuló per megindítására, vagy maga intézkedik a per megindítása iránt. Ha a bíróság a keresetet jogerősen elutasítja, a gyermek elhelyezési javaslatát és egyéni elhelyezési tervét módosítani kell.
+## 108. §[^705] A gyámhivatal szükség szerint a 107. § (2) bekezdésének a) pontjában foglaltak érdekében felhívja a szülőt a gyermekelhelyezési vagy a gyermekelhelyezés megváltoztatására irányuló per megindítására, vagy maga intézkedik a per megindítása iránt. Ha a bíróság a keresetet jogerősen elutasítja, a gyermek elhelyezési javaslatát és egyéni elhelyezési tervét módosítani kell.
 
-## A nevelésbe vétel felülvizsgálata[^700]
+## A nevelésbe vétel felülvizsgálata[^706]
 
-109. §[^701] (1)[^702] A gyámhivatal a nevelésbe vétel felülvizsgálata során tájékoztatást kér a gyermekvédelmi gyámtól, a vér szerinti családot gondozó gyermekjóléti szolgálattól, a gyermekvédelmi szakszolgálattól, a nevelőszülői hálózat vezetőjétől vagy a gyermekotthontól, megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelőtől, továbbá szükség szerint a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottságtól.
+109. §[^707] (1)[^708] A gyámhivatal a nevelésbe vétel felülvizsgálata során tájékoztatást kér a gyermekvédelmi gyámtól, a vér szerinti családot gondozó gyermekjóléti szolgálattól, a gyermekvédelmi szakszolgálattól, a nevelőszülői hálózat vezetőjétől vagy a gyermekotthontól, megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelőtől, továbbá szükség szerint a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottságtól.
 
-(2)[^703] A gyámhivatal a felülvizsgálat során szükség esetén tárgyalást tart, amelyen – a felülvizsgálat céljától függően – részt vesz a kapcsolattartásra jogosult szülő, a gyermek más hozzátartozója, az ítélőképessége birtokában lévő gyermek, valamint a gyermekvédelmi gyám, a gyermek gondozója, nevelőszülője, a gyermekjóléti szolgálat családgondozója, a gyermekvédelmi szakszolgálat, a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottság képviselője és megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő.
+(2)[^709] A gyámhivatal a felülvizsgálat során szükség esetén tárgyalást tart, amelyen – a felülvizsgálat céljától függően – részt vesz a kapcsolattartásra jogosult szülő, a gyermek más hozzátartozója, az ítélőképessége birtokában lévő gyermek, valamint a gyermekvédelmi gyám, a gyermek gondozója, nevelőszülője, a gyermekjóléti szolgálat családgondozója, a gyermekvédelmi szakszolgálat, a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottság képviselője és megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogó felügyelő.
 
-(3)[^704] A gyámhivatal a gyermekvédelmi szakszolgálat, a gyermekvédelmi gyám és a gyermekjóléti szolgálat javaslata, szükség esetén a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottság szakmai véleménye alapján
+(3)[^710] A gyámhivatal a gyermekvédelmi szakszolgálat, a gyermekvédelmi gyám és a gyermekjóléti szolgálat javaslata, szükség esetén a megyei, fővárosi, illetve országos gyermekvédelmi szakértői bizottság szakmai véleménye alapján
 
 a) fenntartja vagy megszünteti a gyermek nevelésbe vételét,
 
@@ -18,17 +18,17 @@ d) a gyermekvédelmi gyám javaslatára dönt a nevelőszülőnek egyes gyámi f
 
 e) a feltételek fennállása esetén pert indít a szülői felügyelet megszüntetése vagy a gyermek elhelyezésének megváltoztatása iránt, vagy ha ez nem szükséges, a gyermek örökbefogadhatónak nyilvánítása céljából az iratanyagot megküldi a 37. § (2) bekezdése szerinti kijelölt gyámhivatalnak,
 
-f)[^705] a megelőző pártfogás alatt álló gyermek esetén – indokolt esetben a megelőző pártfogó felügyelő véleményét kikérve – dönt a megelőző pártfogás fenntartásáról vagy megszüntetéséről.
+f)[^711] a megelőző pártfogás alatt álló gyermek esetén – indokolt esetben a megelőző pártfogó felügyelő véleményét kikérve – dönt a megelőző pártfogás fenntartásáról vagy megszüntetéséről.
 
-(4)[^706] A nevelésbe vétel és a megelőző pártfogás fenntartása esetén a gyámhivatal határozatban rendelkezik a nevelésbe vétel és a megelőző pártfogás következő felülvizsgálatának időpontjáról.
+(4)[^712] A nevelésbe vétel és a megelőző pártfogás fenntartása esetén a gyámhivatal határozatban rendelkezik a nevelésbe vétel és a megelőző pártfogás következő felülvizsgálatának időpontjáról.
 
 (5) Ha a gyámhivatal illetékessége megváltozik, erről az újonnan illetékes gyámhivatal értesíti az (1) bekezdésben felsorolt szerveket és személyeket, valamint indokolt esetben elvégzi a felülvizsgálatot.
 
-[^699]: A 108. § a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 13. pontja szerint módosított szöveg.
-[^700]: A 109. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^701]: A 109. § a 97/2013. (III. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^702]: A 109. § (1) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^703]: A 109. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^704]: A 109. § (3) bekezdés nyitó szövegrésze a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés q) pontja szerint módosított szöveg.
-[^705]: A 109. § (3) bekezdés f) pontját a 353/2014. (XII. 29.) Korm. rendelet 18. § (2) bekezdése iktatta be.
-[^706]: A 109. § (4) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^705]: A 108. § a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 13. pontja szerint módosított szöveg.
+[^706]: A 109. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^707]: A 109. § a 97/2013. (III. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^708]: A 109. § (1) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^709]: A 109. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^710]: A 109. § (3) bekezdés nyitó szövegrésze a 70/2014. (III. 13.) Korm. rendelet 86. § (2) bekezdés q) pontja szerint módosított szöveg.
+[^711]: A 109. § (3) bekezdés f) pontját a 353/2014. (XII. 29.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^712]: A 109. § (4) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
