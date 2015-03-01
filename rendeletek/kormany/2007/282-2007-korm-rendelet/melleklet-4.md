@@ -40,7 +40,7 @@
 
 |  | b) az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló 18/2008. (XII. 3.) SZMM rendelet 4. § (3) és (4) bekezdése alapján a 2. és 3. kategóriába tartozó egyéni védőeszközök megfelelőségének vizsgálata |  |
 
-| 11. | Gyógyszerek vizsgálata | Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (GYEMSZI) |
+| 11. | Gyógyszerek vizsgálata | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (OGYÉI) |
 
 4. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^9]
 

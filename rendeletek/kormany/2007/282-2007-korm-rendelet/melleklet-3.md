@@ -10,7 +10,7 @@
 
 |  | b) véralkohol, vérfolt, testváladék, haj-szőr, diatóma, szén-monoxid, szövettani vizsgálat csontvázlelet alapján történő személyazonosítás | Bűnügyi Szakértői és Kutatóintézet Igazságügyi Szakértői és Kutatóintézet egyetemi intézetek |
 
-|  | c) ételmérgezéssel és ételfertőzéssel kapcsolatos bakteriológiai szakkérdés | Országos Élelmezés- és Táplálkozástudományi Intézet (OÉTI) |
+|  | c) ételmérgezéssel és ételfertőzéssel kapcsolatos bakteriológiai szakkérdés | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetet (OGYÉI) |
 
 |  | d) vírustani vizsgálat | Országos Epidemológiai Központ (OEK) |
 
@@ -22,13 +22,13 @@
 
 |  | c) anyagmaradványok, minták toxikológiai vizsgálata | ISZKI Toxikológiai Intézet Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
-|  | d) gombamérgezés esetén ételmaradék és gombamaradvány vizsgálata | Országos Élelmezés- és Táplálkozástudományi Intézet (OÉTI) |
+|  | d) gombamérgezés esetén ételmaradék és gombamaradvány vizsgálata | Országos Gyógyszerészeti és Élelmezés- egészségügyi Intézet (OGYÉI) |
 
 |  | e) |  |
 
-|  | f) gyermekjáték, csomagoló- és tárolóanyag, kozmetikai készítmény toxikológiai vizsgálata | Országos Élelmezés- és Táplálkozástudományi Intézet (OÉTI) |
+|  | f) gyermekjáték, csomagoló- és tárolóanyag, kozmetikai készítmény toxikológiai vizsgálata | Országos Gyógyszerészeti és Élelmezés- egészségügyi Intézet (OGYÉI) |
 
-|  | g) mérgező hatású anyaggal történt emberi mérgezési eset toxikológiai szakkérdései | ISZKI Toxikológiai Intézet Országos Kémiai Biztonsági Intézet (OKBI) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+|  | g) mérgező hatású anyaggal történt emberi mérgezési eset toxikológiai szakkérdései | ISZKI Toxikológiai Intézet Országos Közegészségügyi Központ (OKK) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 4. |  |  |
 
@@ -36,7 +36,7 @@
 
 | 6. | Lőfegyverrel elkövetett bűncselekmény esetén az ismeretlen lőfegyverek, töltényhüvelyek és lövedékek azonosítási vizsgálata | Bűnügyi Szakértői és Kutatóintézet |
 
-| 7. | Sugárzó anyaggal és sugárártalommal (ionizáló és nem ionizáló) kapcsolatos szakkérdés | Országos „Frédéric Joliot-Curie” Sugárbiológiai és Sugáregészségügyi Kutató Intézet (OSSKI) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
+| 7. | Sugárzó anyaggal és sugárártalommal (ionizáló és nem ionizáló) kapcsolatos szakkérdés | Országos Közegészségügyi Központ (OKK) Magyar Honvédség Dr. Radó György Honvéd Egészségügyi Központ |
 
 | 8. |  |  |
 
@@ -50,4 +50,4 @@
 
 3. számú melléklet a 282/2007. (X. 26.) Korm. rendelethez[^8]
 
-[^8]: A 3. számú melléklet a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának o) pontja, az 59/2011. (IV. 12.) Korm. rendelet 14. § (1) bekezdése, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 23/2012. (II. 29.) Korm. rendelet 28. §-a, a 318/2014. (XII. 13.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 3. számú melléklet a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának o) pontja, az 59/2011. (IV. 12.) Korm. rendelet 14. § (1) bekezdése, a 324/2011. (XII. 28.) Korm. rendelet 13. §-a, a 23/2012. (II. 29.) Korm. rendelet 28. §-a, a 318/2014. (XII. 13.) Korm. rendelet 8. § (1) bekezdése, a 30/2015. (II. 25.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
