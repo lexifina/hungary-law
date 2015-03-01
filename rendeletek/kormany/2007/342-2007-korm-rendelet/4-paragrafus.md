@@ -1,4 +1,4 @@
-4. §[^10] (1) Az e rendelet szerinti eljárásban – az 5. §-ban foglaltak kivételével – a munkahigiénés és foglalkozás-egészségügyi szerv szakértője jár el.
+4. §[^11] (1) Az e rendelet szerinti eljárásban – az 5. §-ban foglaltak kivételével – a munkahigiénés és foglalkozás-egészségügyi szerv szakértője jár el.
 
 (2) A munkahigiénés és foglalkozás-egészségügyi szerv szakértője a szakértői véleményt
 
@@ -14,4 +14,4 @@ a) ellenőrzi, hogy az állapotfelmérésben foglalt körülmények a valóságn
 
 b) megvizsgálja, hogy a kérelemben megjelölt munkakörben foglalkoztatottak esetében a vizsgált munkahelyen a Tv. 355. § (1) bekezdésében foglaltak fennállnak-e, illetve milyen mértékben állnak fenn.
 
-[^10]: A 4. § a 250/2011. (XII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 4. § a 250/2011. (XII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
