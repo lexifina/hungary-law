@@ -1,3 +1,3 @@
-121. §[^356] A VET 178/E. § (3) bekezdése szerint továbbadásra jogosultra a VET és az e rendelet magánvezeték engedélyesére vonatkozó rendelkezéseit kell alkalmazni.
+121. §[^357] A VET 178/E. § (3) bekezdése szerint továbbadásra jogosultra a VET és az e rendelet magánvezeték engedélyesére vonatkozó rendelkezéseit kell alkalmazni.
 
-[^356]: A Vhr. 121. §-a a 378/2011. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^357]: A Vhr. 121. §-a a 378/2011. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.

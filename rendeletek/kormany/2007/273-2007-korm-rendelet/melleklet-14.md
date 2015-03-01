@@ -1,3 +1,3 @@
-14. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^409]
+14. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^410]
 
-[^409]: A Vhr. 14. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (9) bekezdésével megállapított szöveg.
+[^410]: A Vhr. 14. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (9) bekezdésével megállapított szöveg.

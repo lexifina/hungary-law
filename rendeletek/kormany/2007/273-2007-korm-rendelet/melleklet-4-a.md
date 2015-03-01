@@ -1,4 +1,4 @@
-4a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^386]
+4a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^387]
 
 A villamosenergia-rendszer üzemét lényegesen befolyásoló erőmű elvi engedélye iránti kérelemhez benyújtandó dokumentumok
 
@@ -10,7 +10,7 @@ A villamosenergia-rendszer üzemét lényegesen befolyásoló erőmű elvi enged
 
 3.1. a tanulmány összefoglalása,
 
-3.2.[^387] a kiválasztott telephely ismertetése és földrajzi elhelyezkedésének bemutatása,
+3.2.[^388] a kiválasztott telephely ismertetése és földrajzi elhelyezkedésének bemutatása,
 
 3.3. a tervezett technológia indokolása, a vizsgálatok eredményeinek értékelése (előnyök, hátrányok),
 
@@ -22,7 +22,7 @@ b) energetikai hatásfok,
 
 c) a légszennyező pontforrás maximális teljesítményhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3),
 
-d)[^388]
+d)[^389]
 
 e) tervezett kihasználtság,
 
@@ -34,7 +34,7 @@ h) hálózathoz való csatlakozás helye és módja,
 
 i) tulajdoni határok és a tulajdonjogok csatlakozási pontonként,
 
-3.5.[^389] a tervezett technológiai berendezések bemutatása villamosenergia-rendszerbe, illetve földgáztüzelésű erőmű esetében együttműködő földgázrendszerbe illeszthetőség szempontjából,
+3.5.[^390] a tervezett technológiai berendezések bemutatása villamosenergia-rendszerbe, illetve földgáztüzelésű erőmű esetében együttműködő földgázrendszerbe illeszthetőség szempontjából,
 
 3.6. a hálózat üzemi szabályzat nagyfeszültségű hálózatok tervezésére vonatkozó előírásai szerinti vizsgálata,
 
@@ -48,12 +48,12 @@ b) a hálózat bármely más részén a hálózatvizsgálat alapján szükséges
 
 a) a tervezett gépegység műszaki jellemzőinek hatása a magyar villamosenergia-rendszerben szükséges tartalékok mértékére, figyelembe véve a regionális vagy európai rendszerszinten szervezett és koordinált átviteli szűkületkezelési eljárásokat, valamint a villamosenergia-rendszer együttműködő képességét alapvetően befolyásoló megállapodásokat,
 
-b)[^390] a tervezett gépegység adott rendszerszintű szolgáltatás nyújtásában képes-e részt venni, figyelemmel az üzemi szabályzatban az egyes rendszerszintű szolgáltatásokra előírt akkreditáció műszaki követelményeire,
+b)[^391] a tervezett gépegység adott rendszerszintű szolgáltatás nyújtásában képes-e részt venni, figyelemmel az üzemi szabályzatban az egyes rendszerszintű szolgáltatásokra előírt akkreditáció műszaki követelményeire,
 
 3.9. a megvalósítás tervezett ütemterve.
 
-[^386]: A Vhr. 4a. számú mellékletét a 378/2011. (XII. 31.) Korm. rendelet 31. § (4) bekezdése iktatta be.
-[^387]: A Vhr. 4a. melléklet 3. pont 3.2. alpontja a 300/2013. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^388]: A Vhr. 4a. melléklet 3. pont 3.4. alpont d) pontját a 300/2013. (VII. 29.) Korm. rendelet 9. §-a hatályon kívül helyezte.
-[^389]: A Vhr. 4a. melléklet 3. pont 3.5. alpontja a 300/2013. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^390]: A Vhr. 4a. melléklet 3. pont 3.8. alpont b) pontja a 300/2013. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^387]: A Vhr. 4a. számú mellékletét a 378/2011. (XII. 31.) Korm. rendelet 31. § (4) bekezdése iktatta be.
+[^388]: A Vhr. 4a. melléklet 3. pont 3.2. alpontja a 300/2013. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^389]: A Vhr. 4a. melléklet 3. pont 3.4. alpont d) pontját a 300/2013. (VII. 29.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^390]: A Vhr. 4a. melléklet 3. pont 3.5. alpontja a 300/2013. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^391]: A Vhr. 4a. melléklet 3. pont 3.8. alpont b) pontja a 300/2013. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
