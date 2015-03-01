@@ -1,6 +1,6 @@
 ## 44. A szállító által a támogatótól közvetlenül igényelhető szállítói előleg további szabályai
 
-119. § (1)[^14] Szállítói finanszírozás alkalmazása esetén a közszféra szervezet kedvezményezett
+119. § (1)[^18] Szállítói finanszírozás alkalmazása esetén a közszféra szervezet kedvezményezett
 
 a) a Kbt. hatálya alá tartozó közbeszerzési eljárás, valamint
 
@@ -14,4 +14,4 @@ b) a 218/2011. (X. 19.) Korm. rendelet szerinti beszerzési eljárás
 
 (4) A kedvezményezett köteles a szállító által megküldött előleg-számlát annak beérkezését követő 5 napon belül záradékolni és az irányító hatóság részére megküldeni.
 
-[^14]: A 119. § (1) bekezdés záró szövegrésze a 366/2014. (XII. 30.) Korm. rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 119. § (1) bekezdés záró szövegrésze a 366/2014. (XII. 30.) Korm. rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.

@@ -30,7 +30,7 @@ k) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifize
 
 l) társasház és lakásszövetkezet a szociális célú városrehabilitációra vonatkozó felhívás keretében,
 
-m)[^10] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (12 naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
+m)[^11] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (12 naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
 
 (2) A felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
@@ -38,7 +38,7 @@ a) nem beruházási célú, vagy
 
 b) kutatás-fejlesztésre vagy innovációra irányul.
 
-(3)[^11] Ha a kedvezményezett a köztartozásmentes adózói adatbázisban nem szerepel, a köztartozás-mentességét 30 napnál nem régebbi együttes adóigazolással is igazolhatja.
+(3)[^12] Ha a kedvezményezett a köztartozásmentes adózói adatbázisban nem szerepel, a köztartozás-mentességét 30 napnál nem régebbi együttes adóigazolással is igazolhatja.
 
-[^10]: A 84. § (1) bekezdés m) pontját a 358/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^11]: A 84. § (3) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^11]: A 84. § (1) bekezdés m) pontját a 358/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^12]: A 84. § (3) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.

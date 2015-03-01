@@ -8,6 +8,6 @@
 
 (2) A támogatási szerződés alapján megvalósuló támogatási jogviszonyra vonatkozó, e rendeletben meghatározott feltételeket a támogatói okirat alapján megvalósuló jogviszonyokra is megfelelően alkalmazni kell.
 
-(3)–(6)[^9]
+(3)–(6)[^10]
 
-[^9]: A 75. § (3)–(6) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 96. §-a hatályon kívül helyezte.
+[^10]: A 75. § (3)–(6) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 96. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## 206–208. §[^30]
+## 206–208. §[^34]
 
-1. melléklet a 272/2014. (XI. 5.) Korm. rendelethez[^31]
+1. melléklet a 272/2014. (XI. 5.) Korm. rendelethez[^35]
 
 EGYSÉGES MŰKÖDÉSI KÉZIKÖNYV
 
@@ -772,33 +772,5 @@ a) a vizsgált projekt megnevezését,
 
 b) a helyszíni szemlét végző szervezet és személyek nevét,
 
-c) a vizsgált szervezet nevét, címét, az szemle helyszínét, időpontját, időtartamát,
-
-d) a helyszíni szemle során figyelembe vett ellenőrzési szempontokat,
-
-e) a helyszíni szemle során átvizsgált bizonylatok, dokumentumok körét,
-
-f) a szemlét végzők által másolatban átvett iratok, dokumentumok azonosítási adatait,
-
-g) a helyszíni szemlét végzők által tett megállapításokat és a támogatást igénylő álláspontját a megállapításokkal kapcsolatban.
-
-60.7. A jegyzőkönyvet a szemlét végzők aláírják és a támogatást igénylő jelen lévő, cégjegyzésre jogosult, vagy annak megbízott képviselője ellenjegyzi. A helyszínen felvett - a támogatást igénylő észrevételeit is tartalmazó - írásos jegyzőkönyv egy másolati példányát a helyszíni szemlét végző a támogatást igénylő részére átadja.
-
-60.8. Ha a támogatást igénylő a helyszíni szemle lebonyolítását megtagadja, akadályozza, illetve a helyszíni szemlét végzőkkel nem működik együtt, a helyszíni szemlét végző tájékoztatja, hogy az irányító hatóság elállhat a támogatói döntéstől. Ennek tényét a jegyzőkönyvben rögzíteni kell.
-
-A támogatási szerződés módosítása
-
-61.1. Ha a kedvezményezett e rendelet 86. § (1) bekezdése szerint a támogatás feltételeinek változásáról értesíti az irányító hatóságot, az irányító hatóság
-
-a) a bejelentést elfogadja, és a feltételeknek a nyilvántartásban történő átvezetéséről gondoskodik,
-
-b) a bejelentést, ha több adat vonatkozásában tartalmaz változást, részben elfogadja, vagy
-
-c) a bejelentést elutasítja,
-
-d) a bejelentés alapján a támogatási szerződés módosítását kezdeményezi, vagy
-
-e) a bejelentés alapján elállást, a jogosulatlanul igénybe vett támogatás visszakövetelését, vagy más szükséges eljárás lefolytatására irányuló intézkedést kezdeményez,
-
-[^30]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: Az 1. melléklet a 358/2014. (XII. 29.) Korm. rendelet 8. §-a, a 366/2014. (XII. 30.) Korm. rendelet 9. §-a, a 10. § (2) bekezdése és a 11. § (3)–(4) bekezdése szerint módosított szöveg.
+[^34]: A 206–208. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: Az 1. melléklet a 358/2014. (XII. 29.) Korm. rendelet 8. §-a, a 366/2014. (XII. 30.) Korm. rendelet 9. §-a, a 10. § (2) bekezdése és a 11. § (3)–(4) bekezdése szerint módosított szöveg.

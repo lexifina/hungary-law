@@ -1,4 +1,4 @@
-## XXVII/A. Fejezet[^23]
+## XXVII/A. Fejezet[^27]
 
 ## A SZENNYVÍZELVEZETÉSI ÉS -TISZTÍTÁSI, A HULLADÉKGAZDÁLKODÁSI ÉS AZ IVÓVÍZMINŐSÉG-JAVÍTÓ PROJEKTEKRE VONATKOZÓ SZABÁLYOK
 
@@ -10,4 +10,4 @@
 
 (4) A kijelölt szervezet a projektek megvalósításából nem szerezhet vagyont, a létrehozott vagyont és az előállított szellemi terméket térítésmentesen át kell adnia más konzorciumi tag részére.
 
-[^23]: A XXVII/A. fejezetet (192/A–192/F. §) a 339/2014. (XII. 19.) Korm. rendelet 19. §-a iktatta be.
+[^27]: A XXVII/A. fejezetet (192/A–192/F. §) a 339/2014. (XII. 19.) Korm. rendelet 19. §-a iktatta be.

@@ -1,3 +1,3 @@
-## 205. §[^29]
+## 205. §[^33]
 
-[^29]: A 205. § a 358/2014. (XII. 29.) Korm. rendelet 9. § b) pontja alapján nem lép hatályba.
+[^33]: A 205. § a 358/2014. (XII. 29.) Korm. rendelet 9. § b) pontja alapján nem lép hatályba.
