@@ -66,7 +66,7 @@
 
 32. Országos Vízügyi Főigazgatóság
 
-33. Egészségügyi Engedélyezési és Közigazgatási Hivatal
+33.[^150] Egészségügyi Nyilvántartási és Képzési Központ
 
 34. Emberi Erőforrás Támogatáskezelő
 
@@ -118,9 +118,10 @@
 
 58. Országos Atomenergia Hivatal
 
-59.[^150] Nemzeti Szakképzési és Felnőttképzési Hivatal
+59.[^151] Nemzeti Szakképzési és Felnőttképzési Hivatal
 
 [^147]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
 [^148]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
 [^149]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^150]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^150]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^151]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
