@@ -1,4 +1,4 @@
-## A helyi esélyegyenlőségi program helyzetelemzésének tartalmi elemei[^1]
+## A helyi esélyegyenlőségi program helyzetelemzésének tartalmi elemei[^2]
 
 ## 1. Jogszabályi háttér bemutatása
 
@@ -302,4 +302,4 @@ A helyi esélyegyenlőségi program intézkedési terve
 
 | … |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A tartalmi elemek listájának 3.1-től 7.4-ig tartó pontjai alatt szereplő felsorolások példálózó jelleggel kerültek feltüntetésre.
+[^2]: A tartalmi elemek listájának 3.1-től 7.4-ig tartó pontjai alatt szereplő felsorolások példálózó jelleggel kerültek feltüntetésre.
