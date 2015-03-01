@@ -2,6 +2,6 @@
 
 (2) Az 1. § d) pontja a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2009. május 25-i 2009/50/EK tanácsi irányelv 14. cikk (1) bekezdés e) pontjának való részleges megfelelést szolgálja.
 
-(3)[^61] Az 1. § e) pontja a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv 12. cikk (1) bekezdés e) pontjának való részleges megfelelést szolgálja.
+(3)[^62] Az 1. § e) pontja a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv 12. cikk (1) bekezdés e) pontjának való részleges megfelelést szolgálja.
 
-[^61]: A 15. § (3) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^62]: A 15. § (3) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 18. §-a iktatta be.

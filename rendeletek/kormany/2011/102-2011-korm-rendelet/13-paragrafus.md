@@ -14,17 +14,17 @@ b) a 2011. év folyamán hozott, szerzési, illetve átalakítási támogatásra
 
 (4) E rendelet hatálybalépését követően a lejárt és a hatálybalépésig fel nem használt utalványokra új jogosult nem jelölhető ki. A már kiadott utalványok az érvényességük lejártáig, de legkésőbb 2011. december 31-éig használhatók fel.
 
-(5)[^51] 2011. évben
+(5)[^52] 2011. évben
 
 a) a szerzési, illetve átalakítási támogatás iránti kérelem benyújtásának határideje 2011. október 15-e,
 
 b) a hivatal a jogosultságokról – az általa létrehozott bizottság véleményének kikérésével és a keretszámnak a figyelembevételével – 2011. november 30-áig dönt.
 
-(6)[^52] A 7. § (3) bekezdés a) pont ac) alpontja, valamint a 7. § (3) bekezdés d) pont dd) alpontja alkalmazásában a szakértői szerv jogelődjének az Országos Rehabilitációs és Szociális Szakértői Intézet minősül.
+(6)[^53] A 7. § (3) bekezdés a) pont ac) alpontja, valamint a 7. § (3) bekezdés d) pont dd) alpontja alkalmazásában a szakértői szerv jogelődjének az Országos Rehabilitációs és Szociális Szakértői Intézet minősül.
 
-(7)[^53] A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosításáról szóló 189/2011. (IX. 19.) Korm. rendelet hatálybalépéséig[^54] benyújtott kérelmek esetében a hivatal a kérelmezőt tájékoztatja a jogszabály-változásról, és felhívja a 7. § (3) bekezdés f) pontja szerinti, kölcsönszerződés megkötésére vonatkozó nyilatkozat benyújtására a hiánypótlásra vonatkozó szabályok szerint.
+(7)[^54] A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosításáról szóló 189/2011. (IX. 19.) Korm. rendelet hatálybalépéséig[^55] benyújtott kérelmek esetében a hivatal a kérelmezőt tájékoztatja a jogszabály-változásról, és felhívja a 7. § (3) bekezdés f) pontja szerinti, kölcsönszerződés megkötésére vonatkozó nyilatkozat benyújtására a hiánypótlásra vonatkozó szabályok szerint.
 
-[^51]: A 13. § (5) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^52]: A 13. § (6) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^53]: A 13. § (7) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 9. §-a iktatta be.
-[^54]: A hatálybalépés időpontja 2011. szeptember 20.
+[^52]: A 13. § (5) bekezdése a 189/2011. (IX. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^53]: A 13. § (6) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^54]: A 13. § (7) bekezdését a 189/2011. (IX. 19.) Korm. rendelet 9. §-a iktatta be.
+[^55]: A hatálybalépés időpontja 2011. szeptember 20.
