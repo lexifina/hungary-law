@@ -10,7 +10,7 @@ d) az ellenőrzési eredmények éves jelentésekben történő közzététele.
 
 (2) Az SZB feladatkörébe tartozik:
 
-a)[^4] a Működési Rend kidolgozása és jóváhagyás végett történő benyújtása az Országos Atomenergia Hivatal felügyeletét ellátó miniszterhez,
+a)[^5] a Működési Rend kidolgozása és jóváhagyás végett történő benyújtása az Országos Atomenergia Hivatal felügyeletét ellátó miniszterhez,
 
 b) az OKSER tagjainak az OKSER keretében végrehajtandó mérési és adatszolgáltatási éves programjainak elfogadása és azok módosításának jóváhagyása,
 
@@ -42,4 +42,4 @@ h) az IK ügyrendjének, valamint éves költségvetési tervének elkészítés
 
 i) a Radiológiai Adatcsere Központ részére a szükséges adatok biztosítása.
 
-[^4]: A 3. § (2) bekezdésének a) pontja a 114/2003. (VII. 29.) Korm. rendelet 22. §-ának (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdésének a) pontja a 114/2003. (VII. 29.) Korm. rendelet 22. §-ának (1) bekezdése szerint módosított szöveg.

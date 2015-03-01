@@ -4,25 +4,25 @@
 
 ## és a vizsgálatok tárgya
 
-## 1.[^13] Országos Katasztrófavédelmi Főigazgatóság, Nukleáris Baleseti Információs és Értékelő Központ (a továbbiakban: OKF NBIÉK):
+## 1.[^14] Országos Katasztrófavédelmi Főigazgatóság, Nukleáris Baleseti Információs és Értékelő Központ (a továbbiakban: OKF NBIÉK):
 
 ## az Országos Sugárfigyelő, Jelző és Ellenőrző Rendszer távmérő hálózata (a Belügyminisztérium, a Honvédelmi Minisztérium, a Földművelésügyi Minisztérium, az Emberi Erőforrások Minisztériuma és a Magyar Tudományos Akadémia által működtetett állomások bevonásával),
 
 ## az építőanyagok gyártásához felhasznált, illetve külföldről behozott alapanyagok, építőanyagok;
 
-## 2.[^14] Emberi Erőforrások Minisztériuma:
+## 2.[^15] Emberi Erőforrások Minisztériuma:
 
 ## aeroszol, fall-out, radon és leányelemei, felszíni víz, ivóvíz, import élelmiszer, tejtermék, kenyér, hal, vegyes étrend, emberi egésztest; gamma dózisteljesítmény, a Budapesti Műszaki és Gazdaságtudományi Egyetem, Nukleáris Technikai Intézet Tanreaktora Üzemi Környezeti Sugárvédelmi Ellenőrző Rendszere; valamennyi felsőoktatási intézmény környezeti ellenőrzési eredményei;
 
-## 3.[^15] Földművelésügyi Minisztérium:
+## 3.[^16] Földművelésügyi Minisztérium:
 
 ## talaj, takarmánynövények, nyers tej, zöldségfélék, gyümölcsfélék, gabonafélék, húsfélék, tojás, erdei termékek, hal, élelmiszer technológiai víz, aeroszol, fall-out, felszíni víz és üledéke, talajvíz;
 
-## 4.[^16] Nemzeti Fejlesztési Minisztérium:
+## 4.[^17] Nemzeti Fejlesztési Minisztérium:
 
 ## import gyermekjátékok; import fából készült termékek;
 
-## 5.[^17]
+## 5.[^18]
 
 ## 6. Országos Meteorológiai Szolgálat adatgyűjtő és szolgáltató központ:
 
@@ -32,7 +32,7 @@
 
 ## a KFKI Atomenergiakutató Intézete; Atommagkutató Intézete; Kémiai Kutatóközpontja, Izotóp és Felületkémiai Intézete környezeti sugárvédelmi ellenőrző rendszerei; KFKI Atomenergiakutató Intézet: emberi egésztest;
 
-## 8.[^18]
+## 8.[^19]
 
 ## 9. Paksi Atomerőmű Részvénytársaság Adatgyűjtő és Szolgáltató Központ:
 
@@ -44,11 +44,11 @@
 
 ## II. A sűrű és ritka mérőhálózatok elemei
 
-## 1.[^19] Ritka mérőhálózat:
+## 1.[^20] Ritka mérőhálózat:
 
 ## – Alsó-Duna-völgyi Környezetvédelmi Felügyelőség,
 
-## – OKK-OSSKI,
+## – OKK,
 
 ## – Mezőgazdasági Szakigazgatási Hivatal Központ.
 
@@ -92,10 +92,10 @@ II. Az OKSER IK jelentési kötelezettségi szintjei
 
 | Becquerel személyenként és naponta |  |  |
 
-[^13]: A 3. számú melléklet I.1. pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 156. pontja, a 221/2014. (IX. 4.) Korm. rendelet 238. § h) pontja szerint módosított szöveg.
-[^14]: A 3. számú melléklet I.2. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § i) pontja szerint módosított szöveg.
-[^15]: A 3. számú melléklet I.3. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § j) pontja szerint módosított szöveg.
-[^16]: A 3. számú melléklet I.4. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § k) pontja szerint módosított szöveg.
-[^17]: A 3. számú melléklet 5. pontját a 221/2014. (IX. 4.) Korm. rendelet 239. §-a hatályon kívül helyezte.
-[^18]: A 3. számú melléklet 8. pontját a 221/2014. (IX. 4.) Korm. rendelet 239. §-a hatályon kívül helyezte.
-[^19]: A 3. számú melléklet II. pontjának 1. alpontja a 337/2007. (XII. 13.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^14]: A 3. számú melléklet I.1. pontja a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 156. pontja, a 221/2014. (IX. 4.) Korm. rendelet 238. § h) pontja szerint módosított szöveg.
+[^15]: A 3. számú melléklet I.2. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § i) pontja szerint módosított szöveg.
+[^16]: A 3. számú melléklet I.3. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § j) pontja szerint módosított szöveg.
+[^17]: A 3. számú melléklet I.4. pontja a 221/2014. (IX. 4.) Korm. rendelet 238. § k) pontja szerint módosított szöveg.
+[^18]: A 3. számú melléklet 5. pontját a 221/2014. (IX. 4.) Korm. rendelet 239. §-a hatályon kívül helyezte.
+[^19]: A 3. számú melléklet 8. pontját a 221/2014. (IX. 4.) Korm. rendelet 239. §-a hatályon kívül helyezte.
+[^20]: A 3. számú melléklet II. pontjának 1. alpontja a 337/2007. (XII. 13.) Korm. rendelet 14. §-a, a 30/2015. (II. 25.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
