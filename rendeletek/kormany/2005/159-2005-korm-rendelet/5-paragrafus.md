@@ -2,7 +2,7 @@
 
 (2) A 273/2004/EK európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdésében, a 111/2005/EK tanácsi rendelet 9. cikk (2) bekezdésében, valamint a 1277/2005/EK bizottsági rendelet 17–19. cikkében meghatározott információszolgáltatási kötelezettséget – a (3) bekezdésben meghatározott kivétellel – a Hivatal felé kell teljesíteni.
 
-(3)[^7] Az információszolgáltatásra kötelezett gyógyszertár az előírt adatokat a megyei/fővárosi tisztifőgyógyszerészeknek küldi meg, amelyeket központi nyilvántartásba vétel céljából a beérkezéstől számított 30 napon belül összesítve az országos tisztifőgyógyszerész felé továbbítanak.
+(3)[^7] Az információszolgáltatásra kötelezett gyógyszertár az előírt adatokat az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnek (a továbbiakban: OGYÉI) küldi meg, nyilvántartásba vétel céljából.
 
 (4)[^8] Annak a 273/2004/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontjában, illetve a 111/2005/EK tanácsi rendelet 2. cikk f) pontjában meghatározott gazdasági szereplőnek, aki a tevékenység folytatása során
 
@@ -20,6 +20,6 @@ b) más jogkövetkezményekkel együtt is alkalmazhatja.
 
 [^5]: Az 5. § a 88/2008. (IV. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 5. § (1) bekezdés harmadik mondatát a 182/2009. (IX. 10.) Korm. rendelet 418. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^7]: Az 5. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^7]: Az 5. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 17. §-ával megállapított szöveg.
 [^8]: Az 5. § (4) bekezdését a 29/2014. (II. 11.) Korm. rendelet 1. §-a iktatta be.
 [^9]: Az 5. § (5) bekezdését a 29/2014. (II. 11.) Korm. rendelet 1. §-a iktatta be.
