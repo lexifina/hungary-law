@@ -1,0 +1,1 @@
+## 11. § Ha a jegyző a birtokvédelmi eljárást az eljárási határidőn belül nem folytatja le, az illetékes fővárosi és megyei kormányhivatal – az arról történő tudomásszerzést követő nyolc napon belül – határozatával másik jegyzőt jelöl ki a birtokvédelmi eljárás lefolytatására, és ezzel egyidejűleg fegyelmi eljárást kezdeményez a mulasztó jegyző ellen a polgármesternél.

@@ -1,0 +1,1 @@
+## 5. § A jegyző a tényállás tisztázásához szükséges bizonyítékokat az eljárási határidő lejártát megelőző ötödik napig fogadja be, ezt követően a bizonyítási eljárást befejezi, és a rendelkezésre álló bizonyítékok alapján meghozza a határozatát.
