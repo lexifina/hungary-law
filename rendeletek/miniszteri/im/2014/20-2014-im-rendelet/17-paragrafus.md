@@ -1,16 +1,18 @@
 ## 17. A civil szervezetek nyilvántartásával összefüggésben a bírósági eljárásokban érvényesülő ügyviteli és iratkezelési szabályokról szóló 58/2012. (XII. 28.) KIM rendelet módosítása
 
-17. § (1)[^17]
+17. § (1)[^14]
 
-(2)–(3)[^18]
+(2)–(3)[^15]
 
-(4)[^19]
+(4) Az R6. 36/A. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-(5)–(7)[^20]
+## „(2) Az ügyész a bírósággal történő elektronikus kommunikáció során az erre a célra kialakított informatikai alkalmazások igénybevételével jár el.”
 
-(8)[^21]
+(5)–(7)[^16]
 
-(9)[^22]
+(8)[^17]
+
+(9)[^18]
 
 (10) Az R6.
 
@@ -22,14 +24,13 @@ c) 31. §-ában a „2014. július 1.” szövegrész helyett a „2015. január
 
 ## lép hatályba.
 
-(11)[^23]
+(11)[^19]
 
 (12) Nem lép hatályba az R6. 39. §-a.
 
-[^17]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 17. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 17. § (4) bekezdése a 21. § (6) bekezdése alapján 2015. március 1-jén lép hatályba.
-[^20]: A 17. § (5)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 17. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 17. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 17. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 17. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 17. § (5)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 17. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 17. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
