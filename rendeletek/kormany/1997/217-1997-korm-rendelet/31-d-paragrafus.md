@@ -1,4 +1,4 @@
-31/D. §[^421] (1) A biztosított a méltányossági kérelmet a foglalkoztatójához nyújthatja be. A táppénz folyósítására vonatkozó kérelemhez csatolni kell az orvosi igazolást és javaslatot, valamint az orvosi szakvéleményt a keresőképtelenség várható időtartamáról. A foglalkoztató a biztosított méltányossági kérelmét a kérelem kézhezvételétől számított 5 napon belül továbbítja a 38. § (1) bekezdése szerint a székhelye szerint illetékes egészségbiztosítási szakigazgatási szervhez.
+31/D. §[^420] (1) A biztosított a méltányossági kérelmet a foglalkoztatójához nyújthatja be. A táppénz folyósítására vonatkozó kérelemhez csatolni kell az orvosi igazolást és javaslatot, valamint az orvosi szakvéleményt a keresőképtelenség várható időtartamáról. A foglalkoztató a biztosított méltányossági kérelmét a kérelem kézhezvételétől számított 5 napon belül továbbítja a 38. § (1) bekezdése szerint a székhelye szerint illetékes egészségbiztosítási szakigazgatási szervhez.
 
 (2) A foglalkoztató – az Ebtv. 50. § (2) és (3) bekezdése szerinti esetben – ha
 
@@ -20,4 +20,4 @@ c) jövedelmi viszonyára és egyéb méltánylást érdemlő körülményeire.
 
 (6) A táppénzt méltányosságból legkorábban – a 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása vagy kórházi tartózkodása címén méltányosságból megállapítható táppénz esetét kivéve – az igényjogosultság megszűnését követő naptól lehet megállapítani.
 
-[^421]: A Vhr. 31/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^420]: A Vhr. 31/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.

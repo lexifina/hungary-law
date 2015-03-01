@@ -6,11 +6,11 @@
 
 a) három hónapnál nem régebbi kórtörténeti összefoglalót, amely igazolja, hogy a kérelmező kizárólag az igényelt termékkel, illetve ellátással kezelhető vagy látható el;
 
-b) gyógyszerre vonatkozó kérelem esetén az a) pontban foglaltakon kívül:
+b)[^234] gyógyszerre vonatkozó kérelem esetén az a) pontban foglaltakon kívül:
 
 ba) a biztosítottat kezelő szakorvos javaslatát, amelyből megállapítható a kért gyógyszer neve, kiszerelése, pontos dózisa, a gyógyszerváltás, tápszerváltás indokoltsága, az eddigi terápiák, illetve az új kezelések várható hatékonysága, a támogatás időtartama,
 
-bb)[^234] a Magyarországon és az Európai Gazdasági Térség (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező állam (a továbbiakban: EGT tagállam) területén forgalomban nem lévő gyógyszer esetén – a kezelőorvos kérelmére – a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) által kiadott engedély másolatát, a Magyarországon nem, viszont valamely EGT tagállam területén forgalomban lévő gyógyszer esetén a GYEMSZI által – a kezelőorvosnak a gyógyszer rendelését megelőző kérelmére – kiadott, külön jogszabályban meghatározott nyilatkozat másolatát;
+bb) a Magyarországon és az Európai Gazdasági Térség (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező állam (a továbbiakban: EGT tagállam) területén forgalomban nem lévő gyógyszer esetén – a kezelőorvos kérelmére – az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott engedély másolatát, a Magyarországon nem, viszont valamely EGT tagállam területén forgalomban lévő gyógyszer esetén az OGYÉI által – a kezelőorvosnak a gyógyszer rendelését megelőző kérelmére – kiadott, jogszabályban meghatározott nyilatkozat másolatát;
 
 c) gyógyászati segédeszközre vonatkozó kérelem esetén az a) pontban foglaltakon kívül:
 
@@ -38,7 +38,7 @@ aa) járóbeteg-ellátás keretében rendelt gyógyszer valamely forgalomba hoza
 
 ab) fekvőbeteg-ellátás keretében alkalmazható gyógyszer valamennyi forgalomba hozatalra engedélyezett indikációjában a finanszírozásba befogadásra került,
 
-a (2) bekezdéstől eltérően kizárólag a külön jogszabály szerinti, az indikáción túli gyógyszerrendelés iránti kérelmet – az ott meghatározott mellékletek kivételével –, a GYEMSZI által kiadott engedélyt, valamint az aa) pont szerinti esetben a rendelésre jogosult orvos által kiállított vényt,
+a (2) bekezdéstől eltérően kizárólag a külön jogszabály szerinti, az indikáción túli gyógyszerrendelés iránti kérelmet – az ott meghatározott mellékletek kivételével –, az OGYÉI által kiadott engedélyt, valamint az aa) pont szerinti esetben a rendelésre jogosult orvos által kiállított vényt,
 
 b) az a) pont alá nem tartozó gyógyszer esetén a (2) bekezdésben – a fekvőbeteg-ellátás során alkalmazható gyógyszer esetében a (2) bekezdés d) pontja kivételével – foglaltakat
 
@@ -48,7 +48,7 @@ kell mellékelni.
 
 (4)[^244] Az OEP határozatát megküldi a kezelőorvosnak, a beteg által a (2) bekezdés alapján megjelölt gyógyszertárnak, gyártónak vagy forgalmazónak. A határozatban fel kell tüntetni a beteg számára kiváltható gyógyszer vagy gyógyászati segédeszköz adatait, mennyiségét, a megállapított támogatás alapjául figyelembe vett árát, a méltányosságból megállapított támogatás összegét, és a méltányosságból megállapított támogatás időtartamát. A kérelmezőt tájékoztatni kell arról, hogy a (2) bekezdés b) pont bb) alpontja esetén a gyógyszert melyik gyógyszertárban válthatja ki.
 
-(4a)[^245] Az OEP a GYEMSZI által kiadott engedély, illetve nyilatkozat másolatát a (4) bekezdés szerinti határozattal együtt megküldi a (2) bekezdés b) pont bb) alpontja szerint rendelt gyógyszer támogatással történő kiszolgáltatására kijelölt, külön szerződéssel rendelkező gyógyszertárnak.
+(4a)[^245] Az OEP az OGYÉI által kiadott engedély, illetve nyilatkozat másolatát a (4) bekezdés szerinti határozattal együtt megküldi a (2) bekezdés b) pont bb) alpontja szerint rendelt gyógyszer támogatással történő kiszolgáltatására kijelölt, külön szerződéssel rendelkező gyógyszertárnak.
 
 (5)[^246] A (3) bekezdés a) pontja szerinti kérelmet az OEP tizenkét napon belül, az indikáción túli gyógyszerrendelésnek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló külön jogszabály szerint sürgős szükséggé történt minősítése esetén pedig soron kívül bírálja el.
 
@@ -58,7 +58,7 @@ kell mellékelni.
 [^231]: A Vhr. 11/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
 [^232]: A Vhr. 11/D. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^233]: A Vhr. 11/D. § (2) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 11. pontja szerint módosított szöveg.
-[^234]: A Vhr. 11/D. § (2) bekezdés b) pont bb) alpontja a 447/2012. (XII. 29.) Korm. rendelet 17. § h) pontja, az 520/2013. (XII. 30.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
+[^234]: A Vhr. 11/D. § (2) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^235]: A Vhr. 11/D. § (2) bekezdés c) pont cb) alpontja a 447/2012. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^236]: A Vhr. 11/D. § (2) bekezdés c) pont cd) alpontját a 366/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
 [^237]: A Vhr. 11/D. § (2) bekezdés c) pont ce) alpontját az 520/2013. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
@@ -66,9 +66,9 @@ kell mellékelni.
 [^239]: A Vhr. 11/D. § (2) bekezdés d) pontját a 447/2012. (XII. 29.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
 [^240]: A Vhr. 11/D. § (2) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
 [^241]: A Vhr. 11/D. § új (3) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
-[^242]: A Vhr. 11/D. § (3) bekezdés a) pont záró szövegrésze a 447/2012. (XII. 29.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
+[^242]: A Vhr. 11/D. § (3) bekezdés a) pont záró szövegrésze a 30/2015. (II. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^243]: A Vhr. 11/D. § (3a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be.
 [^244]: A Vhr. 11/D. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése. A (4) bekezdést a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 14. § 12. pontja, a 447/2012. (XII. 29.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
-[^245]: A Vhr. 11/D. § (4a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^245]: A Vhr. 11/D. § (4a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^246]: A Vhr. 11/D. § (4) bekezdését a 281/2004. (X. 20.) Korm. rendelet 7. §-ának (4) bekezdése iktatta be, számozását (5) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése, szövege a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 13. pontja szerint módosított szöveg.
 [^247]: A Vhr. 11/D. § (6) bekezdését újonnan a 447/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdése iktatta be.
