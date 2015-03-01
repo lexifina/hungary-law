@@ -1,4 +1,4 @@
-2/A. §[^4] (1) A központi ügynyilvántartó rendszer működtetője a kamara, alkalmazásgazdája és adatgazdája a kamara elnöke.
+2/A. §[^5] (1) A központi ügynyilvántartó rendszer működtetője a kamara, alkalmazásgazdája és adatgazdája a kamara elnöke.
 
 (2) Az adatvédelemre vonatkozó jogszabályok betartásán túl a központi ügynyilvántartó rendszer fejlesztésével és üzemeltetésével megbízott kamarai tagok és alkalmazottak az e tevékenységük végzése során tudomásukra jutott, a központi ügynyilvántartó rendszerrel kapcsolatos adatok tekintetében titoktartásra kötelesek. A titoktartási kötelezettség a munkaviszony, illetve a munkavégzésre irányuló egyéb jogviszony megszűnését követően is fennmarad.
 
@@ -32,4 +32,4 @@ f) a rendkívüli üzemeltetési helyzetekre kidolgozott eljárásrenddel, és r
 
 (6) A kamarának gondoskodnia kell a Vht. 253/E. § (10) bekezdés szerinti adatokon túlmenően a központi ügynyilvántartó rendszer működése szempontjából meghatározó folyamatok valamennyi – különösen az informatikai biztonsági szempontból – kritikus eseményének naplózásáról.
 
-[^4]: A 2/A. §-t a 12/2013. (VII. 5.) KIM rendelet 1. §-a iktatta be.
+[^5]: A 2/A. §-t a 12/2013. (VII. 5.) KIM rendelet 1. §-a iktatta be.

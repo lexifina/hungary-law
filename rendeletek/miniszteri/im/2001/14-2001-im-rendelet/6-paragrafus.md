@@ -1,4 +1,4 @@
-6. §[^12] (1) A központi ügynyilvántartás adatairól szóló tanúsítvány kiállításáért fizetendő költségtérítés összege – a központi ügynyilvántartásban szereplő személyenként –
+6. §[^13] (1) A központi ügynyilvántartás adatairól szóló tanúsítvány kiállításáért fizetendő költségtérítés összege – a központi ügynyilvántartásban szereplő személyenként –
 
 a) a Vht. 253/E. § (6) bekezdés a) pontja szerinti tanúsítvány esetében 3000 Ft,
 
@@ -20,4 +20,4 @@ kell megfizetni.
 
 (6) A kérelmező az át nem vett összeg visszatérítését, az eredménytelen visszatérítést követően 5 évig kérheti.
 
-[^12]: A 6. § a 12/2013. (VII. 5.) KIM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 6. § a 12/2013. (VII. 5.) KIM rendelet 3. §-ával megállapított szöveg.

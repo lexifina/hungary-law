@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-14-20-0
 | 2013-08-01 | 2001-14-20-06.11 | 12/2013. (VII. 5.) KIM rendelet |
 | 2014-03-15 | 2001-14-20-06.12 | 12/2014. (II. 28.) KIM rendelet |
 | 2014-04-29 | 2001-14-20-06.13 | 12/2014. (II. 28.) KIM rendelet |
+| 2015-03-01 | 2001-14-20-06.14 | 12/2014. (II. 28.) KIM rendelet |

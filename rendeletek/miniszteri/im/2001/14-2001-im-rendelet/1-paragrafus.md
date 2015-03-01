@@ -1,6 +1,6 @@
-## Végrehajtási ügyek központi nyilvántartása[^1]
+## Végrehajtási ügyek központi nyilvántartása[^2]
 
-1. §[^2] (1) A Magyar Bírósági Végrehajtói Kamara (a továbbiakban: kamara) az önálló bírósági végrehajtók (a továbbiakban: végrehajtó) adatszolgáltatása alapján elektronikus nyilvántartást vezet a végrehajtók által intézett, a Vht. 253/E. § (1) bekezdésében meghatározott végrehajtási ügyekről (a továbbiakban: központi ügynyilvántartás).
+1. §[^3] (1) A Magyar Bírósági Végrehajtói Kamara (a továbbiakban: kamara) az önálló bírósági végrehajtók (a továbbiakban: végrehajtó) adatszolgáltatása alapján elektronikus nyilvántartást vezet a végrehajtók által intézett, a Vht. 253/E. § (1) bekezdésében meghatározott végrehajtási ügyekről (a továbbiakban: központi ügynyilvántartás).
 
 (2) A kamara a központi ügynyilvántartás vezetésére szolgáló informatikai alkalmazást (a továbbiakban: központi ügynyilvántartó rendszer) működtet.
 
@@ -28,5 +28,5 @@ b) a végrehajtási kérelem elkészítését és a kézbesítési regisztráci�
 
 c) a végrehajtási ügy befejezésének módját a bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet 33. §-a és 34. §-a szerinti bontásban kell szerepeltetni azzal, hogy a szüneteléssel történő befejezések körében fel kell tüntetni a szünetelés Vht. 52. §-ában meghatározott okát is.
 
-[^1]: Az 1. §-t megelőző alcím a 12/2013. (VII. 5.) KIM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § a 12/2013. (VII. 5.) KIM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. §-t megelőző alcím a 12/2013. (VII. 5.) KIM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § a 12/2013. (VII. 5.) KIM rendelet 1. §-ával megállapított szöveg.

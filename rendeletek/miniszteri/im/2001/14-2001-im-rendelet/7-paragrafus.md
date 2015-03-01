@@ -1,4 +1,4 @@
-7. §[^13] (1) A kamara az általa üzemeltetett honlapon közzéteszi
+7. §[^14] (1) A kamara az általa üzemeltetett honlapon közzéteszi
 
 a) a kérelem benyújtására rendszeresített nyomtatványt a kitöltését segítő tájékoztatóval együtt,
 
@@ -14,4 +14,4 @@ d) a költségtérítés megfizetése igazolásának módját.
 
 (4) A befizetett költségtérítések összegéről a kamara nyilvántartást vezet, melynek alkalmasnak kell lennie a tanúsítvány kiállítása iránti ügyek számának és a befizetett költségtérítések összegének kimutatására.
 
-[^13]: A 7. § a 12/2013. (VII. 5.) KIM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 7. § a 12/2013. (VII. 5.) KIM rendelet 3. §-ával megállapított szöveg.

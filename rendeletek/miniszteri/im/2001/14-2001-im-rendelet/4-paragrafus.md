@@ -1,6 +1,6 @@
-## A központi ügynyilvántartás adatairól szóló tanúsítvány kiállítása[^9]
+## A központi ügynyilvántartás adatairól szóló tanúsítvány kiállítása[^10]
 
-4. §[^10] (1) A Vht. 253/E. § (6) és (7) bekezdése szerinti tanúsítvány kiállítása iránti kérelmet (a továbbiakban: kérelem) az erre rendszeresített nyomtatványon – papír alapon vagy elektronikus úton – kell előterjeszteni.
+4. §[^11] (1) A Vht. 253/E. § (6) és (7) bekezdése szerinti tanúsítvány kiállítása iránti kérelmet (a továbbiakban: kérelem) az erre rendszeresített nyomtatványon – papír alapon vagy elektronikus úton – kell előterjeszteni.
 
 (2) A kérelemben fel kell tüntetni
 
@@ -26,5 +26,5 @@ g) a kérelmezőnek a büntetőjogi felelőssége tudatában előterjesztett nyi
 
 (6) A kamara a tanúsítványt vagy az elutasítás okáról szóló tájékoztatást elektronikus úton akként kézbesíti, hogy a kézbesítési folyamat részeként a kézbesítés időpontját, a kézbesített irat átvételét vagy a kézbesítés sikertelenségét igazoló, automatikusan létrejövő igazolás (elektronikus tértivevény) keletkezzen. Ha a tanúsítványt vagy az elutasítás okáról szóló tájékoztatást öt munkanapon belül nem veszik át, azt kézbesítettnek kell tekinteni (kézbesítési vélelem), a kézbesítési vélelem beálltáról – a kézbesítési folyamat részeként – mind a kamara, mind a kérelmező értesítést kap. Papír alapú kézbesítés esetén a Pp.-nek a bírósági iratok kézbesítésére vonatkozó szabályait kell alkalmazni.
 
-[^9]: A 4. §-t megelőző alcím a 12/2013. (VII. 5.) KIM rendelet 2. §-ával megállapított szöveg.
-[^10]: A 4. § a 12/2013. (VII. 5.) KIM rendelet 2. §-ával megállapított szöveg.
+[^10]: A 4. §-t megelőző alcím a 12/2013. (VII. 5.) KIM rendelet 2. §-ával megállapított szöveg.
+[^11]: A 4. § a 12/2013. (VII. 5.) KIM rendelet 2. §-ával megállapított szöveg.
