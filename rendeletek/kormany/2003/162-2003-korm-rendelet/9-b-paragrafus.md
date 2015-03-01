@@ -1,4 +1,4 @@
-9/B. §[^45] (1) Az étkezési mák termesztője köteles tárgyév szeptember 30-ig a földművelésügyi igazgatóságnak bejelenteni a mákszalma és a betakarított mákmag mennyiségét, megjelölve, hogy a tisztított vagy tisztítatlan állapotú mákmag mennyiségét adta-e meg, valamint a mákszalma megsemmisítésének tervezett módját. A bejelentés és a mákszalma megsemmisítése között legalább hét napnak kell eltelnie.
+9/B. §[^46] (1) Az étkezési mák termesztője köteles tárgyév szeptember 30-ig a földművelésügyi igazgatóságnak bejelenteni a mákszalma és a betakarított mákmag mennyiségét, megjelölve, hogy a tisztított vagy tisztítatlan állapotú mákmag mennyiségét adta-e meg, valamint a mákszalma megsemmisítésének tervezett módját. A bejelentés és a mákszalma megsemmisítése között legalább hét napnak kell eltelnie.
 
 (2) A mákszalma megsemmisítéséről az étkezési mák termesztőjének nyilvántartást kell vezetnie, megjelölve a megsemmisítés időpontját és módját. A mákszalma megsemmisítését, valamint a nyilvántartás meglétét a földművelésügyi igazgatóság szúrópróbaszerűen ellenőrzi. Amennyiben a mákszalma megsemmisítését a termesztő nem végzi el a 9. § (2) bekezdése szerinti határidőig, a földművelésügyi igazgatóság a termesztő költségére elrendeli a mákszalma megsemmisítését.
 
@@ -10,4 +10,4 @@
 
 (6) A földművelésügyi igazgatóság, valamint a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) ellenőrzi a forgalomba hozott étkezési mák (3) bekezdés szerinti igazolásának meglétét. Amennyiben a termesztő igazolás nélkül hozta forgalomba az étkezési mákot, a földművelésügyi igazgatóság vagy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az étkezési mákot lefoglalja és elrendeli a termesztő költségén való megsemmisítését.
 
-[^45]: A 9/B. §-t a 19/2015. (II. 16.) Korm. rendelet 6. §-a iktatta be.
+[^46]: A 9/B. §-t a 19/2015. (II. 16.) Korm. rendelet 6. §-a iktatta be.

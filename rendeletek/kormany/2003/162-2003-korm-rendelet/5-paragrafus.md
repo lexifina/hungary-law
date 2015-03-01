@@ -20,7 +20,7 @@ ah)[^15]
 
 ai)[^16] a termesztető részére a termesztők által leadott kifejtetlen ipari máktok mennyisége (kg).
 
-b)[^17] az adott év július 15-ig az eseti termesztetési engedély kiadása érdekében a KKR. 10. §-ában meghatározott adatokat az EEKH-nak, valamint az agrárpolitikáért felelős miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium) megküldeni,
+b)[^17] az adott év július 15-ig az eseti termesztetési engedély kiadása érdekében a KKR. 10. §-ában meghatározott adatokat az ENKK-nak, valamint az agrárpolitikáért felelős miniszter által vezetett minisztériumnak (a továbbiakban: Minisztérium) megküldeni,
 
 c)[^18] folyamatos nyilvántartást vezetni a szerződéses máktermesztőkről, azok vetőmag és ipari mák termőterületeinek helyéről és nagyságáról, az átadott és visszaszolgáltatott vetőmag, valamint az átvett ipari mák kifejtetlen tokjának mennyiségéről, továbbá a bejelentett különleges esetekről,
 
@@ -45,7 +45,7 @@ j)[^23] a vetőmaggal kapcsolatos számlák másolatát a földművelésügyi ig
 [^14]: Az 5. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) és c) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
 [^15]: Az 5. § (1) bekezdés a) pont ah) alpontját a 19/2015. (II. 16.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
 [^16]: Az 5. § (1) bekezdés a) pont ai) alpontja a 19/2015. (II. 16.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
-[^17]: Az 5. § (1) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (1) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
 [^18]: Az 5. § (1) bekezdés c) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
 [^19]: Az 5. § (1) bekezdés f) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
 [^20]: Az 5. § (1) bekezdés g) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

@@ -26,7 +26,7 @@ e) az előző évi betakarított terület nagysága.
 
 (4)[^41] Az étkezési mák termesztője minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek köteles jelenteni.
 
-(5)[^42] A földművelésügyi igazgatóság a NÉBIH-en keresztül a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában május 31-ig megküldi a Minisztériumnak, amely azt június 15-ig összesítve továbbítja az EEKH-nak.
+(5)[^42] A földművelésügyi igazgatóság a NÉBIH-en keresztül a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában május 31-ig megküldi a Minisztériumnak, amely azt június 15-ig összesítve továbbítja az ENKK-nak.
 
 [^35]: A 8. § (1) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 12. pontja szerint módosított szöveg.
 [^36]: A 8. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított, nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) és e) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 13–14. pontja szerint módosított szöveg.
@@ -35,4 +35,4 @@ e) az előző évi betakarított terület nagysága.
 [^39]: A 8. § (2b) bekezdését a 19/2015. (II. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^40]: A 8. § (3) bekezdése a 19/2015. (II. 16.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^41]: A 8. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^42]: A 8. § (5) bekezdése a 19/2015. (II. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^42]: A 8. § (5) bekezdése a 19/2015. (II. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
