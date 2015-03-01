@@ -1,6 +1,6 @@
 3. melléklet a 124/2013. (IV. 26.) Korm. rendelethez
 
-## Elszámolás a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vett támogatásról
+Elszámolás a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vett támogatásról
 
 1. A munkáltatóra vonatkozó adatok
 
@@ -28,7 +28,7 @@
 
 2.2. a kifizetőt terhelő közterhek összege/hónap.
 
-3.[^4] A kifizetett támogatásra vonatkozó adatok
+3.[^22] A kifizetett támogatásra vonatkozó adatok
 
 3.1. a kifizetőt terhelő, közterhekkel növelt bruttó összeg,
 
@@ -48,4 +48,4 @@
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
 
-[^4]: A 3. melléklet 3. pontja a 256/2013. (VII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^22]: A 3. melléklet 3. pontja a 256/2013. (VII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.

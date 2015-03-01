@@ -1,4 +1,4 @@
-1. melléklet a 124/2013. (IV. 26.) Korm. rendelethez
+1. melléklet a 124/2013. (IV. 26.) Korm. rendelethez[^21]
 
 ## Kérelem jövedelemkiegészítés megállapítása iránt
 
@@ -20,7 +20,7 @@ f) Társadalombiztosítási Azonosító Jele:
 
 g) nyugdíjfolyósítási törzsszáma:
 
-az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) szerinti jövedelemkiegészítés megállapítása, folyósítása és ellenőrzése érdekében kifejezett hozzájárulásomat adom ahhoz, hogy a munkáltatóm ……………………………………… (intézmény megnevezése), valamint a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet az a)–g) pont szerinti adataimat, valamint a szüneteltetésre kerülő pénzellátásom összegére vonatkozó adatot a jövedelemkiegészítésre való jogosultságom megszűnésétől számított 3 évig kezelje.
+az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) szerinti jövedelemkiegészítés megállapítása, folyósítása és ellenőrzése érdekében kifejezett hozzájárulásomat adom ahhoz, hogy a munkáltatóm ……………………………………… (intézmény megnevezése), valamint az Országos Egészségbiztosítási Pénztár az a)–g) pont szerinti adataimat, valamint a szüneteltetésre kerülő pénzellátásom összegére vonatkozó adatot a jövedelemkiegészítésre való jogosultságom megszűnésétől számított 3 évig kezelje.
 
 2. Az Eütev. 16/B. § (3) bekezdésében foglalt feltételek tekintetében nyilatkozom a következőkről:
 
@@ -49,3 +49,5 @@ _______________________
 1 A megfelelő aláhúzandó.
 
 2 Kitöltendő, amennyiben az a) pontban a „több” választási lehetőség került megjelölésre. A ba) és bb) alpontban meghatározott lehetőségek közül a megfelelőt kérjük „X”-szel megjelölni.
+
+[^21]: Az 1. melléklet a 30/2015. (II. 25.) Korm. rendelet 79. § f) pontja szerint módosított szöveg.

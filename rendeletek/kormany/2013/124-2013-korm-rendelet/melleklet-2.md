@@ -1,6 +1,6 @@
 2. melléklet a 124/2013. (IV. 26.) Korm. rendelethez
 
-## Igénylőlap a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz
+Igénylőlap a továbbfoglalkoztatott egészségügyi dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz
 
 1. A munkáltatóra vonatkozó adatok
 
