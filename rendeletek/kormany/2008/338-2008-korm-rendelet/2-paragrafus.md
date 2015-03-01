@@ -1,17 +1,17 @@
 ## 1. §[^1]
 
-2. § (1)[^2] A gyógyszerek és gyógyászati segédeszközök ismertetésével kapcsolatban eljáró hatóság által a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 19. § (2) bekezdés d) pontja szerint kiszabott bírságot a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetnek (a továbbiakban: GYEMSZI) a Magyar Államkincstárnál vezetett számlájára – a (2) bekezdésben megjelölt időpontig – kell megfizetni, amelyet a GYEMSZI az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezeti számlára utal.
+2. § (1)[^2] A gyógyszerek és gyógyászati segédeszközök ismertetésével kapcsolatban eljáró hatóság által a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 19. § (2) bekezdés d) pontja szerint kiszabott bírságot az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnek (a továbbiakban: OGYÉI) a Magyar Államkincstárnál vezetett számlájára – a (2) bekezdésben megjelölt időpontig – kell megfizetni, amelyet az OGYÉI az államháztartásról szóló 2011. évi CXCV. törvény 14. § (4) bekezdés d) pontja szerinti fejezeti számlára utal.
 
 (2) A bírságot az azt kiszabó határozat jogerőre emelkedését követő 30 napon belül kell megfizetni.
 
-(3)[^3] A bírság megfizetésére a GYEMSZI a teljesítési határidő lejárta előtt benyújtott kérelemre egy alkalommal legfeljebb harminc nap fizetési halasztást, illetve a kiszabott bírság összegétől függően legfeljebb egy évre – negyedéves vagy havi teljesítéssel – részletfizetést engedélyezhet.
+(3)[^3] A bírság megfizetésére az OGYÉI a teljesítési határidő lejárta előtt benyújtott kérelemre egy alkalommal legfeljebb harminc nap fizetési halasztást, illetve a kiszabott bírság összegétől függően legfeljebb egy évre – negyedéves vagy havi teljesítéssel – részletfizetést engedélyezhet.
 
-(4)[^4] A GYEMSZI által kiszabott bírságot banki átutalással kell megfizetni. Az átutalási megbízásban fel kell tüntetni a bírságot kiszabó határozat számát, az átutalás jogcímét és a kötelezett nevét (megnevezését).
+(4)[^4] Az OGYÉI által kiszabott bírságot banki átutalással kell megfizetni. Az átutalási megbízásban fel kell tüntetni a bírságot kiszabó határozat számát, az átutalás jogcímét és a kötelezett nevét (megnevezését).
 
 (5)[^5]
 
 [^1]: Az 1. §-t a 182/2009. (IX. 10.) Korm. rendelet 659. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: A 2. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 658–659. §-a, a 351/2010. (XII. 30.) Korm. rendelet 226. § (2) bekezdése, az 59/2011. (IV. 12.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^4]: A 2. § (4) bekezdése a 351/2010. (XII. 30.) Korm. erndelet 226. § (2) bekezdése, az 59/2011. (IV. 12.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 60. § (1) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 35. § a)–b) pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 658–659. §-a, a 351/2010. (XII. 30.) Korm. rendelet 226. § (2) bekezdése, a 30/2015. (II. 25.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése a 351/2010. (XII. 30.) Korm. erndelet 226. § (2) bekezdése, a 30/2015. (II. 25.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
 [^5]: A 2. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 659. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
