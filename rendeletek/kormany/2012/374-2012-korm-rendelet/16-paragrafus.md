@@ -1,4 +1,4 @@
-## 16. §[^3] Ez a rendelet
+## 16. §[^4] Ez a rendelet
 
 1. az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló, 2011. június 8-i 2011/65/EU európai parlamenti és tanácsi irányelvnek,
 
@@ -56,4 +56,4 @@
 
 való megfelelést szolgálja.
 
-[^3]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.

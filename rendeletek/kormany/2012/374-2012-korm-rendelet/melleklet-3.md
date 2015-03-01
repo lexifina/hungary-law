@@ -224,7 +224,7 @@
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként a hűtőközegben | ≤ 0,75 m/m % hat vegyértékű króm | mentesség ideje nincs korlátozva |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^6]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^7]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a felügyeleti és vezérlő eszközök vonatkozásában
 
@@ -372,4 +372,4 @@ lejár.
 
 44. Az ipari felügyeleti és vezérlő eszközök 125 V alatti névleges egyenfeszültségű vagy 250 V alatti névleges váltófeszültségű kondenzátoraiban található dielektromos kerámiaanyagokban lévő ólom – a mentesség 2020. december 31-én lejár. A 2021. január 1-je előtt forgalomba hozott ipari felügyeleti és vezérlő eszközök cserealkatrészeiben a fenti időpontot követően is felhasználható.”
 
-[^6]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
