@@ -68,4 +68,4 @@
 
 5. melléklet a 481/2013. (XII. 17.) Korm. rendelethez[^63]
 
-[^63]: Az 5. melléklet a 42/2014. (II. 24.) Korm. rendelet 19. § (3) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 784. §-a, 785. § i)–j) pontja és 786. § (1) bekezdés f) pontja, a 373/2014. (XII. 31.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^63]: Az 5. melléklet a 42/2014. (II. 24.) Korm. rendelet 19. § (3) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 784. §-a, 785. § i)–j) pontja és 786. § (1) bekezdés f) pontja, a 373/2014. (XII. 31.) Korm. rendelet 53. §-a, a 30/2015. (II. 25.) Korm. rendelet 97. §-a szerint módosított szöveg.
