@@ -1,0 +1,45 @@
+## Jegyzőkönyv a helyi népszavazás eredményről
+
+| JEGYZŐKÖNYV A HELYI NÉPSZAVAZÁS EREDMÉNYÉRŐL |
+
+| (A HELYI NÉPSZAVAZÁSRA BOCSÁTOTT KÉRDÉS) |
+
+| (MEGYE) |  | (TELEPÜLÉS / FŐVÁROSI KERÜLET NEVE) |  |  |
+
+|  |  |  |  |  | számú példány |
+
+| Készült |  | év |  | hó |  | napján, a helyi / területi választási bizottság hivatalos helyiségében. |
+
+| A szavazóköri névjegyzékben lévő választópolgárok száma: |  | A |  |
+
+| Szavazóként megjelent választópolgárok száma |  | B | IGEN szavazatok száma: |  | I |
+
+| Urnában lévő, bélyegzőlenyomat nélküli szavazólapok száma: |  | C |  |
+
+| Urnában lévő, lebélyegzett szavazólapok száma: |  | D | NEM szavazatok száma: |  | N |
+
+| Érvénytelen lebélyegzett szavazólapok száma: |  | F | D=F+G, G=I+N |
+
+| Érvényes szavazólapok száma: |  | G |
+
+|  | ÉRVÉNYTELEN |
+
+| A NÉPSZAVAZÁS | ÉRVÉNYES, DE EREDMÉNYTELEN |
+
+|  | ÉRVÉNYES ÉS EREDMÉNYES1 |
+
+## 1 A megfelelő rész aláhúzandó
+
+| HELYI / TERÜLETI VÁLASZTÁSI BIZOTTSÁG |
+
+| NÉV | Aláírás a jegyzőkönyv kiállításakor | Aláírás a jegyzőkönyv átvételéről |
+
+| elnök |  | – |
+
+| elnökhelyettes |  | – |
+
+| HVI vezetője |  | – |
+
+## P.H.
+
+11. melléklet a 2/2015. (II. 20.) IM rendelethez
