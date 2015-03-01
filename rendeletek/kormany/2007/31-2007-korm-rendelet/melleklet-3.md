@@ -12,9 +12,9 @@
 
 | 5. | ÁNTSZ | A fekvőbeteg ellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 7. | ÁNTSZ, OKI | Ivóvíz minősége, ivóvíz-indikátorok (bór, nitrit, fluorid, arzén, ammónium), határérték feletti települések | 4.9.1. | évente vagy frissítést követően | település, előfordulási hely | frissítést követő 90. nap |
+| 7. | ÁNTSZ, OKK | Ivóvíz minősége, ivóvíz-indikátorok (bór, nitrit, fluorid, arzén, ammónium), határérték feletti települések | 4.9.1. | évente vagy frissítést követően | település, előfordulási hely | frissítést követő 90. nap |
 
-| 8. | ÁNTSZ, OKI | Fürdők vizének minősége | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 8. | ÁNTSZ, OKK | Fürdők vizének minősége | 4.9.1. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 9. | NAV | A társasági adóbevallások főbb adatai | 1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -186,7 +186,7 @@
 
 | 95. | OKF | Veszélyes ipari üzemek települések szerint | 4.12. | frissítést követően | település | frissítést követő 90. nap |
 
-| 96. | OKI | Pollenterhelés | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 96. | OKK | Pollenterhelés | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 97. | EMMI | Általános iskolák | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -318,7 +318,7 @@
 
 | 36. | Országos Katasztrófavédelmi Főigazgatóság | OKF |
 
-| 37. | Országos Környezetegészségügyi Intézet | OKI |
+| 37. | Országos Közegészségügyi Központ | OKK |
 
 | 38. | Országos Mentőszolgálat | OMSZ |
 
