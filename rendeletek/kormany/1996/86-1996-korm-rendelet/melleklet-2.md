@@ -302,7 +302,7 @@
 
 ## 1.119.[^124] nemzetközi gépjárművezetői engedély;
 
-## 1.120.[^125] az Egészségügyi Engedélyezési és Közigazgatási Hivatal által kiállított működési nyilvántartási igazolvány;
+## 1.120.[^125] az Egészségügyi Nyilvántartási és Képzési Központ által kiállított működési nyilvántartási igazolvány;
 
 ## 1.121.[^126] esélyegyenlőségi szakértői bizonyítvány;
 
@@ -483,7 +483,7 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^122]: Az 1. számú melléklet III. rész 1. pont 1.117. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^123]: Az 1. számú melléklet III. rész 1. pont 1.118. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^124]: Az 1. számú melléklet III. rész 1. pont 1.119. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^125]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^125]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^126]: Az 1. számú melléklet III. rész 1. pont 1.121. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^127]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^128]: Az 1. számú melléklet III. rész 1. pont 1.123. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
