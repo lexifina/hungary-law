@@ -1,6 +1,6 @@
-13. §[^24] (1) Intézményi várólistát az 5. számú mellékletben meghatározott ellátások esetében, valamint az Ebtv. 20. § (2) bekezdés b) pontja szerinti esetben kell vezetni.
+13. §[^26] (1) Intézményi várólistát az 5. számú mellékletben meghatározott ellátások esetében, valamint az Ebtv. 20. § (2) bekezdés b) pontja szerinti esetben kell vezetni.
 
-(1a)[^25] Abban az esetben, ha az egészségügyi szolgáltató az (1) bekezdésben meghatározott, várólista alapján igénybe vehető ellátást egymástól közigazgatásilag elkülönült településeken elhelyezkedő telephelyein végzi, az egészségügyi szolgáltató az országos várólista nyilvántartást vezető szervnél kezdeményezheti az adott ellátás vonatkozásában telephelyenként külön várólista vezetését. A kezdeményezés alapján az – országos várólista nyilvántartást vezető szerv által – egymástól elkülönített várólistákat e rendelet alkalmazása szempontjából önálló intézményi várólistának kell tekinteni azzal, hogy az egészségügyi szolgáltató alatt a telephelyet kell érteni.
+(1a)[^27] Abban az esetben, ha az egészségügyi szolgáltató az (1) bekezdésben meghatározott, várólista alapján igénybe vehető ellátást egymástól közigazgatásilag elkülönült településeken elhelyezkedő telephelyein végzi, az egészségügyi szolgáltató az országos várólista nyilvántartást vezető szervnél kezdeményezheti az adott ellátás vonatkozásában telephelyenként külön várólista vezetését. A kezdeményezés alapján az – országos várólista nyilvántartást vezető szerv által – egymástól elkülönített várólistákat e rendelet alkalmazása szempontjából önálló intézményi várólistának kell tekinteni azzal, hogy az egészségügyi szolgáltató alatt a telephelyet kell érteni.
 
 (2) A várólistára történő betegfelvétellel kapcsolatos feladatok ellátására egy szolgáltatón belül – az intézményi várólista vezetéséért felelős személyen túl – más személyek (a továbbiakban: intézményi várólista kezelését végző személy) is kijelölhetőek a szervezeti és működési szabályzatában.
 
@@ -20,7 +20,7 @@
 
 (10) Ha az intézményi várólistára felvett beteg a (9) bekezdés szerinti egészségügyi szolgáltató helyett másik egészségügyi szolgáltatónál kívánja az ellátást igénybe venni, azt a napot kell a várólistára felvétel időpontjának meghatározásánál figyelembe venni, amikor az utóbbi egészségügyi szolgáltatónál a várólistára felvételre került. Ha az utóbbi egészségügyi szolgáltatónál az (5) bekezdésben foglaltak szerint felvételre kerül a várólistára a beteg, az országos várólista nyilvántartásért felelős szerv törli a beteget a korábbi szolgáltató intézményi várólistájáról és erről egyidejűleg tájékoztatja a korábbi szolgáltatót.
 
-(10a)[^26] Az Ebtv. 20. § (3) bekezdése alkalmazása szempontjából a várólistára történő felkerülés időpontja szerinti igénybevételnek minősül a tervezett ellátási időpontot megelőző 7 munkanapon belüli, ellátás ütemezési érdekből végzett ellátási sorrendmódosítás. Az ütemezés nem eredményezhet az érintett betegek részére 7 munkanapnál hosszabb várakozási idő növekedést.
+(10a)[^28] Az Ebtv. 20. § (3) bekezdése alkalmazása szempontjából a várólistára történő felkerülés időpontja szerinti igénybevételnek minősül a tervezett ellátási időpontot megelőző 7 munkanapon belüli, ellátás ütemezési érdekből végzett ellátási sorrendmódosítás. Az ütemezés nem eredményezhet az érintett betegek részére 7 munkanapnál hosszabb várakozási idő növekedést.
 
 (11) Abban az esetben, ha az ellátás igénybevételének időpontja eltér a beteggel korábban közölt tervezett időponttól, erről a beteget haladéktalanul tájékoztatja az intézményi várólista vezetéséért felelős személy, illetve az intézményi várólista kezelését végző személy.
 
@@ -32,14 +32,14 @@
 
 (15) Az intézményi várólista alapján nyújtott ellátás befejezését követő napon az intézményi várólista vezetéséért felelős személy törli az intézményi várólistából a beteg adatait.
 
-(16)[^27] Ha a beteg nem jelenik meg a számára megadott napon az ellátás igénybevétele céljából a szolgáltatónál, és ezt előzetesen nem jelezte a (14) bekezdésben foglaltak szerint, valamint a (12) bekezdésben meghatározott eset sem áll fenn, az intézményi várólista vezetéséért felelős személy 7 napon belül új időpontot jelöl ki az ellátás igénybevételére, amiről egyidejűleg tájékoztatni kell a beteget. Ha a beteg az új időpontban sem jelenik meg a szolgáltatónál, az új időpontot követő 30. napon törölni kell az adatait az intézményi várólistáról. Annak a betegnek az adatait, akinek az egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvos-szakmai szempontból indokolatlanná teszi, törölni kell a várólistáról.
+(16)[^29] Ha a beteg nem jelenik meg a számára megadott napon az ellátás igénybevétele céljából a szolgáltatónál, és ezt előzetesen nem jelezte a (14) bekezdésben foglaltak szerint, valamint a (12) bekezdésben meghatározott eset sem áll fenn, az intézményi várólista vezetéséért felelős személy 7 napon belül új időpontot jelöl ki az ellátás igénybevételére, amiről egyidejűleg tájékoztatni kell a beteget. Ha a beteg az új időpontban sem jelenik meg a szolgáltatónál, az új időpontot követő 30. napon törölni kell az adatait az intézményi várólistáról. Annak a betegnek az adatait, akinek az egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvos-szakmai szempontból indokolatlanná teszi, törölni kell a várólistáról.
 
 (17) Az intézményi várólistákkal kapcsolatos, az (1)–(16) bekezdésben foglalt nyilvántartási és adatkezelési feladatok ellátása az országos várólista nyilvántartást vezető szerv által működetett központi informatikai rendszeren keresztül, online módon történik.
 
-(18)[^28] Az intézményi előjegyzési lista tekintetében a 12/B. §-t, az (1a)–(11) és a (17) bekezdést, a 13/B. § (2) bekezdését, a 13/C. §-t, a 13/D. § (2) bekezdését és a 13/E. §-t alkalmazni kell.
+(18)[^30] Az intézményi előjegyzési lista tekintetében a 12/B. §-t, az (1a)–(11) és a (17) bekezdést, a 13/B. § (2) bekezdését, a 13/C. §-t, a 13/D. § (2) bekezdését és a 13/E. §-t alkalmazni kell.
 
-[^24]: A 13. § a 92/2012. (IV. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^25]: A 13. § (1a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
-[^26]: A 13. § (10a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 35. §-a iktatta be.
-[^27]: A 13. § (16) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
-[^28]: A 13. § (18) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^26]: A 13. § a 92/2012. (IV. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^27]: A 13. § (1a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
+[^28]: A 13. § (10a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 35. §-a iktatta be.
+[^29]: A 13. § (16) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^30]: A 13. § (18) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be.

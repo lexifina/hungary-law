@@ -434,6 +434,6 @@
 
 | 026 | Jelentős kiterjesztett gerincműtétek | 5812K | Kombinált ventro-dorsalis gerincműtét |
 
-6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^58]
+6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^60]
 
-[^58]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^60]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
