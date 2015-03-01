@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-7-20-3H
 | --- | --- | --- |
 | 2014-10-29 | 2014-7-20-3H.1 | 7/2014. (X. 21.) NMHH rendelet |
 | 2014-10-30 | 2014-7-20-3H.2 | 2010: CXXX. törvény |
+| 2015-03-01 | 2014-7-20-3H.3 | 2010: CXXX. törvény |
