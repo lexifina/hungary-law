@@ -1,3 +1,1 @@
-## 56. §[^3]
-
-[^3]: Az 56. § a 44. § (2) bekezdése alapján 2015. március 1-jén lép hatályba.
+## 56. § Az 1. melléklet a 6. melléklet szerint módosul.

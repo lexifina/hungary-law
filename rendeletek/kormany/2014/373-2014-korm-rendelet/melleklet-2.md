@@ -1962,7 +1962,7 @@
 
 ## 7. FEJÉR MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA (székhelye: Székesfehérvár)
 
-## 7.1. Bicskei Járási Hivatal Járási Földhivatala (székhelye: Bicske)
+## 7.1.[^4] Bicskei Járási Hivatal Járási Földhivatala (székhelye: Bicske)
 
 ## Alcsútdoboz
 
@@ -1977,6 +1977,8 @@
 ## Etyek
 
 ## Felcsút
+
+## Gánt
 
 ## Mány
 
@@ -2026,7 +2028,7 @@
 
 ## Rácalmás
 
-## 7.3. Móri Járási Hivatal Járási Földhivatala (székhelye: Mór)
+## 7.3.[^5] Móri Járási Hivatal Járási Földhivatala (székhelye: Mór)
 
 ## Bakonycsernye
 
@@ -2044,6 +2046,8 @@
 
 ## Kincsesbánya
 
+## Magyaralmás
+
 ## Mór
 
 ## Nagyveleg
@@ -2052,7 +2056,7 @@
 
 ## Söréd
 
-## 7.4. Sárbogárdi Járási Hivatal Járási Földhivatala (székhelye: Sárbogárd)
+## 7.4.[^6] Sárbogárdi Járási Hivatal Járási Földhivatala (székhelye: Sárbogárd)
 
 ## Alap
 
@@ -2068,9 +2072,17 @@
 
 ## Igar
 
+## Kisláng
+
 ## Lajoskomárom
 
+## Lepsény
+
+## Mátyásdomb
+
 ## Mezőkomárom
+
+## Mezőszentgyörgy
 
 ## Mezőszilas
 
@@ -2088,7 +2100,7 @@
 
 ## Vajta
 
-## 7.5. Székesfehérvári Járási Hivatal Járási Földhivatala (székhelye: Székesfehérvár)
+## 7.5.[^7] Székesfehérvári Járási Hivatal Járási Földhivatala (székhelye: Székesfehérvár)
 
 ## Aba
 
@@ -2104,8 +2116,6 @@
 
 ## Füle
 
-## Gánt
-
 ## Gárdony
 
 ## Gyúró
@@ -2120,21 +2130,11 @@
 
 ## Kápolnásnyék
 
-## Kisláng
-
 ## Kőszárhegy
-
-## Lepsény
 
 ## Lovasberény
 
-## Magyaralmás
-
 ## Martonvásár
-
-## Mátyásdomb
-
-## Mezőszentgyörgy
 
 ## Moha
 
@@ -2394,7 +2394,9 @@
 
 ## Tét
 
-## 8.4. Kapuvári Járási Hivatal Járási Földhivatala (székhelye: Kapuvár)
+## 8.4.[^8] Kapuvári Járási Hivatal Járási Földhivatala (székhelye: Kapuvár)
+
+## Agyagosszergény
 
 ## Babót
 
@@ -2488,9 +2490,7 @@
 
 ## Várbalog
 
-## 8.6. Soproni Járási Hivatal Járási Földhivatala (székhelye: Sopron)
-
-## Agyagosszergény
+## 8.6.[^9] Soproni Járási Hivatal Járási Földhivatala (székhelye: Sopron)
 
 ## Ágfalva
 
@@ -6633,3 +6633,10 @@
 ## Zalavég
 
 2. melléklet a 373/2014. (XII. 31.) Korm. rendelethez
+
+[^4]: Az 1. melléklet 7. pont 7.1. alpontja az 56. §-sal megállapított szöveg.
+[^5]: Az 1. melléklet 7. pont 7.3. alpontja az 56. §-sal megállapított szöveg.
+[^6]: Az 1. melléklet 7. pont 7.4. alpontja az 56. §-sal megállapított szöveg.
+[^7]: Az 1. melléklet 7. pont 7.5. alpontja az 56. §-sal megállapított szöveg.
+[^8]: Az 1. melléklet 8. pont 8.4. alpontja az 56. §-sal megállapított szöveg.
+[^9]: Az 1. melléklet 8. pont 8.6. alpontja az 56. §-sal megállapított szöveg.

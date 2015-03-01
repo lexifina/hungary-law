@@ -30,6 +30,6 @@
 
 | 9. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve. | Annak elbírálása, hogy a telekalakítás a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban a főjegyző | fővárosi, megyei kormányhivatal |
 
-5. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^5]
+5. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^10]
 
-[^5]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
