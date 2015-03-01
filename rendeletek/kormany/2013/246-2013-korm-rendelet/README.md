@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-246-20-
 | --- | --- | --- |
 | 2013-07-11 | 2013-246-20-22.1 | 246/2013. (VII. 2.) Korm. rendelet |
 | 2013-09-01 | 2013-246-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-03-01 | 2013-246-20-22.3 | 30/2015. (II. 25.) Korm. rendelet |

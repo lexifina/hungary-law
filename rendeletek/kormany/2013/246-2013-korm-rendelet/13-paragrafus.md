@@ -1,5 +1,8 @@
-## 12. § A 2. §-ban foglaltaktól eltérően, ha a termék csomagolása és tárolóedénye nem azonos, a 2. §-ban foglalt adatokat magyar nyelven 2014. december 31-éig elegendő a termék csomagolásán feltüntetni.
+## 12. §[^4]
 
 13. § (1) Ez a rendelet a kozmetikai termékekről szóló 2009. november 30-i 1223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) Ez a rendelet a kozmetikai termékekről szóló 76/768/EGK tanácsi irányelv II. és III. mellékletének a műszaki fejlődéshez való hozzáigazítása céljából történő módosításáról szóló 2012. augusztus 2-i 2012/21/EU bizottsági végrehajtási irányelvnek való megfelelést szolgálja.
+(2)[^5]
+
+[^4]: A 12. §-t a 30/2015. (II. 25.) Korm. rendelet 84. § a) pontja hatályon kívül helyezte.
+[^5]: A 13. § (2) bekezdését a 30/2015. (II. 25.) Korm. rendelet 84. § b) pontja hatályon kívül helyezte.

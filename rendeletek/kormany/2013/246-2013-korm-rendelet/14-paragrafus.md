@@ -1,5 +1,0 @@
-14. § (1) Az 1223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásakor az 1. mellékletben foglalt korlátozásokat is alkalmazni kell.
-
-(2) Kozmetikai termék előállításához az 1. mellékletben meghatározott anyag felhasználása tilos, vagy csak az 1. mellékletben meghatározott korlátozásokkal lehetséges. Ezen anyagok bármelyikének nyomokban való jelenléte akkor fogadható el, ha az a jó gyártási gyakorlat során technikailag elkerülhetetlen és a termék eleget tesz a (3) bekezdésben foglalt követelménynek.
-
-(3) A kozmetikai termék hosszabb időn keresztül történő rendszeres, rendeltetésszerű vagy előreláthatóan ésszerű használata nem veszélyeztetheti és nem károsíthatja a felhasználó egészségét, figyelembe véve különösen a termék külső megjelenítését, címkézését, használati útmutatójának tartalmát, valamint a gyártó, illetve a forgalmazó által közölt egyéb megjegyzést, információt is. Az ilyen figyelemfelhívó információ megadása a gyártót, illetve forgalmazót nem mentesíti a jogszabályban meghatározott, az áru biztonságosságával kapcsolatos kötelezettségei alól.
