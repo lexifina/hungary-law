@@ -1,4 +1,4 @@
-## 6. §[^7] A praxisengedélyre vonatkozó határozatot közölni kell az Országos Alapellátási Intézettel (a továbbiakban: OALI), az Országos Egészségbiztosítási Pénztárral és az állami adóhatósággal.
+## 6. §[^7] A praxisengedélyre vonatkozó határozatot közölni kell az Országos Tisztifőorvosi Hivatallal (a továbbiakban: OTH), az Országos Egészségbiztosítási Pénztárral és az állami adóhatósággal.
 
 7. § (1) A praxisengedélyt vissza kell vonni, ha
 
@@ -22,7 +22,7 @@ e)[^10] a praxisjog elidegenítésére nyitva álló határidő eredménytelenü
 
 (6) A praxisengedély visszavonásáról szóló határozatot közölni kell az önkormányzattal és azokkal a szervekkel, amelyekkel a praxisengedélyre vonatkozó határozatot közölték.
 
-[^7]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.
+[^7]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja, a 30/2015. (II. 25.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
 [^8]: A 7. § (1) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
 [^9]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
 [^10]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.
