@@ -18,7 +18,8 @@ be) a termék hatóanyagának megnevezését.
 
 (2)[^15]
 
-(3) A biocid termékekkel összefüggő mérgezési eseteket az Országos Kémiai Biztonsági Intézetben működő Egészségügyi Toxikológiai Tájékoztató Szolgálat mérgező anyag csoportok szerint csoportosítja, és minden év március 31-éig összesítve jelenti az OTH-nak.
+(3)[^16] A biocid termékekkel összefüggő mérgezési eseteket az Országos Közegészségügyi Központban működő Egészségügyi Toxikológiai Tájékoztató Szolgálat mérgező anyag csoportok szerint csoportosítja, és minden év március 31-éig összesítve jelenti az OTH-nak.
 
 [^14]: A 23. § (1) bekezdés b) pontja a 364/2014. (XII. 30.) Korm. rendelet 110. §-ával megállapított szöveg.
 [^15]: A 23. § (2) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 113. § b) pontja hatályon kívül helyezte.
+[^16]: A 23. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 91. §-a szerint módosított szöveg.
