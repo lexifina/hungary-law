@@ -1,11 +1,11 @@
 ## Vizsgabizottság
 
-21. § (1)[^53] A szakvizsgát a minisztériumban a Bírósági Végrehajtási Szakvizsga Bizottság (a továbbiakban: Szakvizsga Bizottság) tagjaiból a minisztérium által esetenként kijelölt vizsgabizottság előtt kell letenni.
+21. § (1)[^54] A szakvizsgát a minisztériumban a Bírósági Végrehajtási Szakvizsga Bizottság (a továbbiakban: Szakvizsga Bizottság) tagjaiból a minisztérium által esetenként kijelölt vizsgabizottság előtt kell letenni.
 
-(2)[^54] A Szakvizsga Bizottság tagjait a miniszter nevezi ki 5 évre a bírósági végrehajtási jogterület szakemberei közül.
+(2)[^55] A Szakvizsga Bizottság tagjait a miniszter nevezi ki 5 évre a bírósági végrehajtási jogterület szakemberei közül.
 
-(3)[^55] Az esetenként kijelölt vizsgabizottság 5 főből áll, akik közül az egyik személy ellátja a vizsgabizottsági teendőket. A vizsgabizottságot úgy kell megalakítani, hogy abban a minisztériumnak, a Kúriának, a bíróságoknak vagy az Országos Bírósági Hivatal elnökének, a kamarának és valamely egyetem jogi karának kiküldöttjei részt vegyenek.
+(3)[^56] Az esetenként kijelölt vizsgabizottság 5 főből áll, akik közül az egyik személy ellátja a vizsgabizottsági teendőket. A vizsgabizottságot úgy kell megalakítani, hogy abban a minisztériumnak, a Kúriának, a bíróságoknak vagy az Országos Bírósági Hivatal elnökének, a kamarának és valamely egyetem jogi karának kiküldöttjei részt vegyenek.
 
-[^53]: A 21. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 2. § (3) bekezdésével megállapított, a 6/2010. (III. 12.) IRM rendelet 6. § e) pontja szerint módosított szöveg.
-[^54]: A 21. § (2) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^55]: A 21. § (3) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése, a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 8. és 18. pontja szerint módosított szöveg.
+[^54]: A 21. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 2. § (3) bekezdésével megállapított, a 6/2010. (III. 12.) IRM rendelet 6. § e) pontja szerint módosított szöveg.
+[^55]: A 21. § (2) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^56]: A 21. § (3) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése, a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 8. és 18. pontja szerint módosított szöveg.
