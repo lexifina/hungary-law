@@ -1,0 +1,1 @@
+## 7. § Az OGYÉI főigazgatóját a vitaminok és ásványi anyagok, valamint az egyéb táplálkozási, vagy élettani hatással rendelkező anyagok élelmiszerekben való biztonságos felhasználására és táplálkozás-élettani hatásaira vonatkozó értékelési feladatai ellátásában tudományos tanácsadó testület segíti.

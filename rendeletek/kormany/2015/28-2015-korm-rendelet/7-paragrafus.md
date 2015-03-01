@@ -1,0 +1,1 @@
+## 6. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (2) bekezdése szerinti feladatokat az OGYÉI-ben működő tisztifőgyógyszerész és tisztigyógyszerészek látják el.
