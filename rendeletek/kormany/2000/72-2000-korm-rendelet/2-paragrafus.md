@@ -8,11 +8,12 @@
 
 (4) A berendezés tulajdonátruházási szerződése nem hagyható jóvá, ha
 
-a) a tulajdont szerző természetes személy cselekvőképességet érintő gondnokság alatt áll,
+a)[^2] a tulajdont szerző természetes személy cselekvőképességet részlegesen korlátozó gondnokság vagy cselekvőképességet teljesen korlátozó gondnokság alatt áll,
 
-b)[^2]
+b)[^3]
 
 c) a berendezés biztonságos tárolásának, őrzésének, illetőleg az azzal kapcsolatos baleset-elhárításnak a külön jogszabályban meghatározott feltételei nem biztosítottak.
 
 [^1]: A 2. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (4) bekezdésének b) pontját a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 9. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megsimételt eljárásokban kell alkalmazni.
+[^2]: A 2. § (4) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdésének b) pontját a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 9. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megsimételt eljárásokban kell alkalmazni.
