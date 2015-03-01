@@ -4,7 +4,9 @@
 
 a) a 7. § (3) bekezdésének b) pontjában megjelölt összegek végrehajtás alá vonásának részletes szabályait,
 
-b) a végrehajtói kézbesítés részletes eljárási szabályait.
+b) a végrehajtói kézbesítés részletes eljárási szabályait,
+
+c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
@@ -38,6 +40,6 @@ n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők ele
 
 o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
 
-p) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének, magatartásának ellenőrzésére irányuló kamarai vizsgálatok lefolytatására, a vizsgálat területeire és szempontjaira, valamint a fegyelmi eljárás során a vizsgálóbiztos által végzett fegyelmi vizsgálatok lefolytatására vonatkozó részletes szabályokat,
+p)
 
 q) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.

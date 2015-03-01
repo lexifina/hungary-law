@@ -22,9 +22,7 @@ b) elrendelheti a végrehajtó összeférhetetlenségének ellenőrzését, és 
 
 c) elrendelheti a 226/A. §-ban foglaltak betartásának ellenőrzését,
 
-d) elrendelheti a végrehajtók vizsgálatát, és a vizsgálat elrendelése esetén kijelölheti a vizsgálatot végző személyeket (230/A. §),
-
-e) a vizsgálati jegyzőkönyv alapján javaslatot tehet a miniszternek a végrehajtói szolgálat megszűnésének megállapítására vagy fegyelmi feljelentés tételére, vagy a kamara elnökének fegyelemi feljelentés tételére,
+d)–e)
 
 f) dönt a tartós helyettes kirendeléséről, valamint a tartós helyettesi kirendelés megszüntetéséről,
 
@@ -42,9 +40,7 @@ k) a kamarai felterjesztés előtt jóváhagyja a végrehajtói kinevezési java
 
 (5) A miniszteri biztos felügyeli
 
-a) a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek szakmai felügyeletének ellátását [250. § (2) bekezdés h) pont],
-
-b) a panaszügyek kezelését [250. § (2) bekezdés i) pont],
+a)–b)
 
 c) a kamara ügyintézési és ügyviteli tevékenységét [253/B. § (3) bekezdés].
 

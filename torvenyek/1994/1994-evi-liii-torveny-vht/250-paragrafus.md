@@ -16,7 +16,7 @@ f) engedélyezi a végrehajtók közös irodájának létesítését és a végr
 
 g) ellenőrzi a végrehajtó hivatali helyiségét, felelősségbiztosítását, a biztosíték összegének befizetését, bélyegzőlenyomatát, a letéti és elszámolási számla megnyitásáról szóló szerződést,
 
-h) ellátja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek feletti szakmai felügyeletet, ennek keretében jogosult a végrehajtó működését, ügyvitelét és pénzkezelését ellenőrizni, a végrehajtó iratait és nyilvántartásait megvizsgálni, magatartását ellenőrizni, a tényállás megállapítása céljából a végrehajtás során történt adatigénylésről vezetett adatszolgáltatási, adattovábbítási nyilvántartásokból adatot igényelni, továbbá a végrehajtó által lefolytatott eljárási cselekményen részt venni,
+h)
 
 i) intézi a végrehajtókkal, végrehajtó-helyettesekkel és végrehajtójelöltekkel kapcsolatos panaszügyeket, a bíróság hatáskörébe tartozó ügyek kivételével,
 
@@ -52,7 +52,7 @@ f) működteti az elektronikus árverési rendszert,
 
 g) működteti a végrehajtási ügyek végrehajtók közötti elosztására és a végrehajtható okiratok, valamint a kézbesítendő okiratok végrehajtóknak történő megküldésére szolgáló informatikai alkalmazást.
 
-(4) A kamara a tagjaira kötelező iránymutatást adhat ki különösen a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek
+(4) A kamara a tagjaira kötelező iránymutatást adhat ki különösen a panaszügyek intézéséről, továbbá a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek
 
 a) képzéséről és továbbképzéséről,
 
@@ -60,6 +60,6 @@ b) magatartási szabályairól,
 
 c) statisztikai adatszolgáltatásáról,
 
-d) működésének vizsgálatáról és a panaszügyek intézéséről.
+d)
 
 (5) A kamara működésével felmerülő kiadásokat elsősorban a végrehajtók által fizetett kamarai hozzájárulás (tagdíj), a kamara tevékenységével kapcsolatos gazdasági tevékenységből származó bevétel, az általános költségátalány összege fedezi.

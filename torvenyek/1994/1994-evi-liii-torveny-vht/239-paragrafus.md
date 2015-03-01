@@ -30,7 +30,7 @@ e) a végrehajtó a kinevezését követően keletkezett összeférhetetlensége
 
 (4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
 
-(4a) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a 230/A. § alapján lefolytatott átfogó vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
+(4a) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtói vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
 
 (5) Ha a kamara a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a miniszternek haladéktalanul bejelenteni. Összeférhetetlenség esetén a kamara írásban felszólítja a végrehajtót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén jelenti be a miniszternek az összeférhetetlenség fennállását.
 
