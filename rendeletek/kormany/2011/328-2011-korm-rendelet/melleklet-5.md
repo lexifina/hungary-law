@@ -134,31 +134,37 @@
 
 I. Személyi adatok
 
-## A jövedelemvizsgálat vonatkozásában közös háztartásban élő közeli hozzátartozóként a szülőt, a szülő házastársát vagy élettársat, a húszévesnél fiatalabb, önálló keresettel nem rendelkező, a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, a nappali oktatás munkarendje szerint tanulmányokat folytató, a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermeket, valamint korhatárra tekintet nélkül a tartós beteg, illetőleg a fogyatékos gyermeket kell figyelembe venni.
+1. A jövedelemvizsgálat vonatkozásában közös háztartásban élő közeli hozzátartozóként kell figyelembe venni
+
+1.1. a szülőt,
+
+1.2. a szülő házastársát vagy élettársát,
+
+1.3. a húszévesnél fiatalabb, önálló keresettel nem rendelkező gyermeket,
+
+1.4. a huszonhárom évesnél fiatalabb, önálló keresettel nem rendelkező, a nappali oktatás munkarendje szerint tanulmányokat folytató gyermeket,
+
+1.5. a huszonöt évesnél fiatalabb, önálló keresettel nem rendelkező, felsőoktatási intézmény nappali tagozatán tanulmányokat folytató gyermeket, valamint
+
+1.6. korhatárra tekintet nélkül a tartós beteg, illetőleg a fogyatékos gyermeket.
 
 II. Jövedelmi adatok
 
-## Jövedelem: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
+1. Jövedelem: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó - megszerzett - vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
 
-## A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. Elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj.
+2. A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-## Befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségbiztosítási hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
+2.1. Elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj.
 
-## Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
+2.2. Befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségbiztosítási hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
 
-## A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni.
+3. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani az önkormányzati segélyt, a rendkívüli települési támogatást, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a családbafogadó gyámnak járó pénzbeli ellátáshoz kapcsolódó pótlékot, a gyermekvédelmi nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a személyes gondoskodásért fizetendő személyi térítési díj megállapítása kivételével a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
 
-## Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani az önkormányzati segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a rendszeres gyermekvédelmi kedvezményre jogosult gyermek után a családbafogadó gyámnak járó pénzbeli ellátáshoz kapcsolódó pótlékot, a gyermekvédelmi nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a személyes gondoskodásért fizetendő személyi térítési díj megállapítása kivételével a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
+4. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
 
-## Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
+5. A családtagok jövedelmét kizárólag kiskorú igénybe vevő esetén kell feltüntetni, külön-külön. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
 
-## A családtagok jövedelmét kizárólag kiskorú igénybe vevő esetén kell feltüntetni, külön-külön. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
-
-## A jövedelemszámításnál irányadó időszakot a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 131. § (1)–(2) bekezdése alapján kell meghatározni.
-
-## – rendszeres jövedelem esetén a kérelem benyújtását megelőző hónap,
-
-## – nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap alatt kapott összeg egy havi átlagát kell együttesen figyelembe venni.
+6. A jövedelemszámításnál irányadó időszakot a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 131. § (1) és (2) bekezdése alapján kell meghatározni. Eszerint rendszeres jövedelem esetén a kérelem benyújtását megelőző hónapban kapott összeget, míg nem rendszeres jövedelem, illetve vállalkozásból, őstermelésből származó jövedelem esetén a kérelem benyújtását megelőző tizenkét hónap alatt kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 III. Jövedelem típusai
 
@@ -168,14 +174,16 @@ III. Jövedelem típusai
 
 3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
-4. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+4. Önkormányzat és állami foglalkoztatási szervek által folyósított ellátások: különösen az időskorúak járadéka, az aktív korúak ellátása, az ápolási díj; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
-5. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, rokkantsági, baleseti rokkantsági nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék.
+5. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; bányászok egészségkárosodási járadéka, rokkantsági járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék.
 
 6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
 
-Szükség esetén a nyilatkozatok rovatai bővíthetők, valamint kitöltésük mellékletben folytatható.
+IV. Egyebek
 
-A cselekvőképességet kizáró gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
+1. Szükség esetén a nyilatkozatok rovatai bővíthetők, valamint kitöltésük mellékletben folytatható.
 
-[^14]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
+2. A cselekvőképességet teljesen korlátozó gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet részlegesen korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
+
+[^14]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a szerint módosított szöveg.

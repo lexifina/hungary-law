@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-328-20-
 | 2014-01-01 | 2011-328-20-22.6 | 98/2013. (III. 29.) Korm. rendelet |
 | 2014-03-15 | 2011-328-20-22.7 | 349/2012. (XII. 12.) Korm. rendelet |
 | 2015-01-01 | 2011-328-20-22.8 | 98/2013. (III. 29.) Korm. rendelet |
+| 2015-03-01 | 2011-328-20-22.9 | 98/2013. (III. 29.) Korm. rendelet |
