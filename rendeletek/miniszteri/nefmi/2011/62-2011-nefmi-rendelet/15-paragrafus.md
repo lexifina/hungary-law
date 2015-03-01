@@ -16,6 +16,6 @@ számított 15 napon belül ki kell írni.
 
 (3) Az időközi pályázat lebonyolítására az általános pályázati eljárásra irányadó szabályokat kell alkalmazni azzal, hogy a pályázati kiírásban a finanszírozási időszak megjelölése helyett a finanszírozás időközi pályázat szerinti kezdő és a finanszírozási időszak befejező időpontját kell megjelölni.
 
-(4)–(5)[^10]
+(4)–(5)[^11]
 
-[^10]: A 15. § (4)–(5) bekezdését a 48. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^11]: A 15. § (4)–(5) bekezdését a 48. § (2) bekezdés e) pontja hatályon kívül helyezte.

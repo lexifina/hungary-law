@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-62-20-2
 | 2014-03-15 | 2011-62-20-2V.5 | 19/2014. (III. 13.) EMMI rendelet |
 | 2015-01-01 | 2011-62-20-2V.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-01-02 | 2011-62-20-2V.7 | 2010: CXXX. törvény |
+| 2015-03-01 | 2011-62-20-2V.8 | 11/2015. (II. 25.) EMMI rendelet |

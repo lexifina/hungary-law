@@ -2,7 +2,7 @@
 
 26. § (1) Az alaptámogatás terhére elszámolhatók:
 
-a) a tolmácsszolgálat működéséhez szükséges tárgyi feltételek biztosításának – így berendezéseinek, felszereléseinek beszerzési, fenntartási, működési, fejlesztési, karbantartási és javítási, továbbá helyiségeinek fenntartási, karbantartási, felújítási és korszerűsítési – költsége,
+a)[^17] a tolmácsszolgálat működéséhez szükséges anyagbeszerzés, valamint tárgyi feltételek biztosításának – így berendezéseinek, felszereléseinek beszerzési, fenntartási, működési, fejlesztési, karbantartási és javítási, továbbá helyiségeinek fenntartási, karbantartási, felújítási és korszerűsítési – költsége,
 
 b) a tolmácsszolgálat honlapjának kialakítási és üzemeltetési költsége,
 
@@ -13,3 +13,5 @@ d) a tolmácsszolgálatnál munkaviszony keretében kötelezően alkalmazottak s
 e) a tolmácsszolgálatnál munkaviszony keretében kötelezően alkalmazottak jelnyelvi képzésével, továbbképzésével kapcsolatos költségek.
 
 (2) Ha egy fenntartó több tolmácsszolgálatot működtet, az egyik tolmácsszolgálatra tekintettel kapott alaptámogatás a másik tolmácsszolgálat költségeire nem használható fel.
+
+[^17]: A 26. § (1) bekezdés a) pontja a 11/2015. (II. 25.) EMMI rendelet 14. § (1) bekezdés c) pontja szerint módosított szöveg.

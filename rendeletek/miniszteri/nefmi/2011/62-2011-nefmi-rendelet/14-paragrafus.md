@@ -6,7 +6,7 @@ b) a tolmácsszolgálat és annak munkatársai által használt eszközök szám
 
 c) a tolmácsszolgálat által ellátott tolmácsolási módok,
 
-d)[^8]
+d)[^9]
 
 e) a költségterv belső arányai, megalapozottsága,
 
@@ -36,7 +36,7 @@ c) nyertes pályázat esetén
 
 ca) az ellátási területet,
 
-cb)–cc)[^9]
+cb)–cc)[^10]
 
 cd) az első költségvetési évre vonatkozó alaptámogatás összegét,
 
@@ -58,5 +58,5 @@ c) a pályázó a pályázatban vagy az ahhoz csatolt dokumentumokban szándéko
 
 (6) Az (5) bekezdés b), illetve c) pontja szerinti körülmény fennállásáról a módszertani központ – a finanszírozási szerződés megkötésére megjelölt határidő leteltét, illetve a valótlan adat közléséről, jelentős tény, körülmény elhallgatásáról történő tudomásszerzést követő 5 napon belül – írásban értesíti a pályázót.
 
-[^8]: A 14. § (1) bekezdés d) pontját a 48. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^9]: A 14. § (4) bekezdés c) pont cb)–cc) alpontját a 48. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^9]: A 14. § (1) bekezdés d) pontját a 48. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^10]: A 14. § (4) bekezdés c) pont cb)–cc) alpontját a 48. § (2) bekezdés d) pontja hatályon kívül helyezte.
