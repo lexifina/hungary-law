@@ -2,7 +2,7 @@
 
 (2) A társaság e törvény alapján történő megszűnésére a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) végelszámolásra vonatkozó szabályait, valamint a csődeljárásról és a felszámolási eljárásról szóló törvény (a továbbiakban: Csődtv.) felszámolási eljárásra vonatkozó szabályait nem kell alkalmazni. E törvény hatálybalépését követően a társasággal szemben felszámolási, illetve csődeljárás nem indítható.
 
-(3) A GYEMSZI e törvény hatálybalépését követő 5 napon belül egy alkalommal a Cégközlönyben felhívást tesz közzé. A felhívás közzététele közzétételi költségtérítés megfizetése nélkül történik. A felhívásban tájékoztatást kell adni arról, hogy a társaság megszűnésére e törvény rendelkezései alapján kerül sor, továbbá meg kell jelölni a 3. § (1) és (2) bekezdése szerinti jogutódot és az állam képviseletét a 3. § (3) bekezdés alapján ellátó szervet. A felhívásnak tartalmaznia kell, hogy a még le nem járt követelések megtérítését a hitelező nem követelheti, az e törvény szerinti feladatátvételre hivatkozással a szerződést nem mondhatja fel.
+(3)
 
 (4) A cégbíróság a társaságot a feladat átvételének időpontját követő 5 munkanapon belül jogutód feltüntetése nélkül hivatalból törli a cégjegyzékből.
 

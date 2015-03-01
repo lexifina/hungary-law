@@ -6,7 +6,7 @@
 
 (4) Az (1) bekezdésben meghatározottakat az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) alkalmazásában olyan jogutódlással történő megszűnésnek kell tekinteni, amely az Áfa tv. 18. § (1) bekezdésében leírt feltételeknek megfelel.
 
-(5) A feladat átvételének időpontjától az állam tulajdonába kerülő vagyon tekintetében a tulajdonosi jogokat a GYEMSZI gyakorolja.
+(5) Az e törvény szerint az állam tulajdonába került vagyon tekintetében a tulajdonosi jogokat az ÁEEK gyakorolja.
 
 (6) A társaság által kezelt nyilvántartások a feladat átvételének időpontjában a befogadó intézmény kezelésébe kerülnek.
 
