@@ -2,9 +2,9 @@
 
 (2) Ha több pályázó azonos legmagasabb vételárra tesz ajánlatot, akkor
 
-a)[^4] az nyer, aki az adott közforgalmú gyógyszertárat működtető gazdasági társaságban tulajdoni hányaddal rendelkezik,
+a)[^10] az nyer, aki az adott közforgalmú gyógyszertárat működtető gazdasági társaságban tulajdoni hányaddal rendelkezik,
 
-b)[^5] az a) pont szerinti pályázó hiányában az nyer, aki az adott közforgalmú gyógyszertárat működtető gazdasági társaságban munkaviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik, ha ilyen nincs, akkor aki
+b)[^11] az a) pont szerinti pályázó hiányában az nyer, aki az adott közforgalmú gyógyszertárat működtető gazdasági társaságban munkaviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik, ha ilyen nincs, akkor aki
 
 c) az a) és a b) pont szerinti pályázó hiányában az nyer, aki az állam által kijelölt szerv felhívására 3 napon belül magasabb vételárra tesz ajánlatot.
 
@@ -16,5 +16,5 @@ c) az a) és a b) pont szerinti pályázó hiányában az nyer, aki az állam á
 
 (6) Az állam által kijelölt szerv felhívására 3 napon belül tett azonos ajánlattétel esetében addig kell újabb ajánlattételre felhívni az érintett gyógyszerészeket, amíg valamelyik a többinél magasabb vételárra vonatkozó ajánlatot megteszi.
 
-[^4]: A 12. § (1) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
-[^5]: A 12. § (1) bekezdés b) pontja az 520/2013. (XII. 30.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
+[^10]: A 12. § (1) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
+[^11]: A 12. § (1) bekezdés b) pontja az 520/2013. (XII. 30.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.

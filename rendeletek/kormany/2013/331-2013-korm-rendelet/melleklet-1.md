@@ -1,6 +1,6 @@
 ## 17. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 331/2013. (IX. 5.) Korm. rendelethez[^6]
+1. melléklet a 331/2013. (IX. 5.) Korm. rendelethez[^12]
 
 A minimális pályázati ajánlati ár kiszámítása
 
@@ -26,4 +26,4 @@ PV = piac éves változása +3%, (0,03),
 
 PÜ = pályázattal érintett üzletrész 0-100% (0,0-1,0).
 
-[^6]: Az 1. melléklet a Magyar Közlöny 2013. évi 147. számában megjelent helyesbtésnek megfelelő szöveg.
+[^12]: Az 1. melléklet a Magyar Közlöny 2013. évi 147. számában megjelent helyesbtésnek megfelelő szöveg.
