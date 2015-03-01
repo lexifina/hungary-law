@@ -58,7 +58,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 9. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-|  | 10. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+|  | 10. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 2. A bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó egyes építésügyi hatósági eljárások szabályairól szóló rendelet szerinti építésügyi engedélyezési eljárások
 
@@ -90,7 +90,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 13. | Környezet- és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-|  | 14. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+|  | 14. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 3. Vízjogi (vízkivétel) engedély
 
@@ -202,4 +202,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 3. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-[^9]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a, az 527/2013. (XII. 30.) Korm. rendelet 105. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 63. § (2)–(5) bekezdése, 64. § b)–e) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 54. § a)–b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 49. §-a, az 527/2013. (XII. 30.) Korm. rendelet 105. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 63. § (2)–(5) bekezdése, 64. § b)–e) pontja, a 30/2015. (II. 25.) Korm. rendelet 60. §-a szerint módosított szöveg.
