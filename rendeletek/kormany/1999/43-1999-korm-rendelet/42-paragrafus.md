@@ -1,12 +1,12 @@
-## 42. §[^453] A finanszírozással kapcsolatos nem személyes adatok közérdekű adatoknak minősülnek. Az adatokhoz való hozzáférés és ellenőrizhetőségük érdekében
+## 42. §[^456] A finanszírozással kapcsolatos nem személyes adatok közérdekű adatoknak minősülnek. Az adatokhoz való hozzáférés és ellenőrizhetőségük érdekében
 
-a)[^454] az OEP a havi összesített teljesítményadatokról és a kifizetésekről az 5. melléklet szerinti bontásban, ellátástípusonként készített tájékoztatót – az utalványozással egyidejűleg – megküldi az egészségügyért felelős miniszter által vezetett minisztériumnak (a továbbiakban: minisztérium), amelyet a minisztérium és az OEP hivatalos tájékoztatóként közzétesz az Egészségügyi Közlönyben,
+a)[^457] az OEP a havi összesített teljesítményadatokról és a kifizetésekről az 5. melléklet szerinti bontásban, ellátástípusonként készített tájékoztatót – az utalványozással egyidejűleg – megküldi az egészségügyért felelős miniszter által vezetett minisztériumnak (a továbbiakban: minisztérium), amelyet a minisztérium és az OEP hivatalos tájékoztatóként közzétesz az Egészségügyi Közlönyben,
 
-b)[^455] az OEP a finanszírozási adatok közül a 22. számú melléklet A) pontja szerinti adatokat honlapján közzéteszi, továbbá a C) pont szerinti adatokat megküldi a minisztérium részére,
+b)[^458] az OEP a finanszírozási adatok közül a 22. számú melléklet A) pontja szerinti adatokat honlapján közzéteszi, továbbá a C) pont szerinti adatokat megküldi a minisztérium részére,
 
-c)[^456] a finanszírozási adatokról az OEP – a b) pontban foglaltak mellett – a minisztérium részére esetenként, igény szerinti csoportosításban összesítést és elemzést készít.
+c)[^459] a finanszírozási adatokról az OEP – a b) pontban foglaltak mellett – a minisztérium részére esetenként, igény szerinti csoportosításban összesítést és elemzést készít.
 
-[^453]: A 42. § a 112/2004. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^454]: A 42. § (1) bekezdésének a) pontja a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének a) pontja, a 7/2008. (I. 23.) Korm. rendelet 3. § (8) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 48. pontja szerint módosított szöveg.
-[^455]: A 42. § (1) bekezdésének b) pontja a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének a) pontja, a 365/2010. (XII. 30.) Korm. rendelet 18. § 48. pontja szerint módosított szöveg.
-[^456]: A 42. § (1) bekezdés c) pontja a 365/2010. (XII. 30.) Korm. rendelet 18. § 48. pontja szerint módosított szöveg.
+[^456]: A 42. § a 112/2004. (IV. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^457]: A 42. § (1) bekezdésének a) pontja a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének a) pontja, a 7/2008. (I. 23.) Korm. rendelet 3. § (8) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 48. pontja szerint módosított szöveg.
+[^458]: A 42. § (1) bekezdésének b) pontja a 15/2005. (I. 26.) Korm. rendelet 19. § (2) bekezdésének a) pontja, a 365/2010. (XII. 30.) Korm. rendelet 18. § 48. pontja szerint módosított szöveg.
+[^459]: A 42. § (1) bekezdés c) pontja a 365/2010. (XII. 30.) Korm. rendelet 18. § 48. pontja szerint módosított szöveg.

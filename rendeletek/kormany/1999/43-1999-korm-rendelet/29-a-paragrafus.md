@@ -1,10 +1,10 @@
-29/A. §[^313] (1)[^314] Az R. 2. számú melléklete szerinti, laboratóriumi szakmai besorolású szervezeti egységek által végzett orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint a mintaszállítás – ide nem értve a mintavételt – teljesítménydíjazása az 5. mellékletben e feladatra meghatározott előirányzat terhére történik.
+29/A. §[^316] (1)[^317] Az R. 2. számú melléklete szerinti, laboratóriumi szakmai besorolású szervezeti egységek által végzett orvosi klinikai laboratóriumi és mikrobiológiai vizsgálatok, valamint a mintaszállítás – ide nem értve a mintavételt – teljesítménydíjazása az 5. mellékletben e feladatra meghatározott előirányzat terhére történik.
 
-(2)[^315]
+(2)[^318]
 
-(3)[^316]
+(3)[^319]
 
-[^313]: A 29/A. §-t a 257/2001. (XII. 19.) Korm. rendelet 13. §-a iktatta a szövegbe.
-[^314]: A 29/A. § (1) bekezdése a 318/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdésével megállapított, valamint a 7/2008. (I. 23.) Korm. rendelet 3. § (8) bekezdése szerint módosított szöveg.
-[^315]: A 29/A. § (2) bekezdését az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének d) pontja hatályon kívül helyezte.
-[^316]: A 29/A. § (3) bekezdését a 329/2005. (XII. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének d) pontja.
+[^316]: A 29/A. §-t a 257/2001. (XII. 19.) Korm. rendelet 13. §-a iktatta a szövegbe.
+[^317]: A 29/A. § (1) bekezdése a 318/2006. (XII. 23.) Korm. rendelet 13. § (1) bekezdésével megállapított, valamint a 7/2008. (I. 23.) Korm. rendelet 3. § (8) bekezdése szerint módosított szöveg.
+[^318]: A 29/A. § (2) bekezdését az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének d) pontja hatályon kívül helyezte.
+[^319]: A 29/A. § (3) bekezdését a 329/2005. (XII. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte az 58/2009. (III. 18.) Korm. rendelet 18. § (6) bekezdésének d) pontja.
