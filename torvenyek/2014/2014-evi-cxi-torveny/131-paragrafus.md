@@ -1,1 +1,3 @@
-131–133. §
+131. § A fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény (a továbbiakban: 2013. évi XXV. törvény) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az államot a (2) bekezdés szerinti ügyletek tekintetében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) képviseli.”
