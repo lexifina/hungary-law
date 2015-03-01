@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2011-195-00-00.35 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2011-195-00-00.36 |
 | 2015-02-01 | 2014. évi XCIX. törvény | 2011-195-00-00.37 |
+| 2015-03-01 | 2014. évi XCIX. törvény | 2011-195-00-00.38 |
