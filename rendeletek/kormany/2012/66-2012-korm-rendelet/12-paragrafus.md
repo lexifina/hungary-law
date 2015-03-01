@@ -1,8 +1,8 @@
 ## 6. Az eseti kutatási engedély
 
-12. § (1) Az eseti kutatási engedély iránti kérelmet a kutatásra tevékenységi engedéllyel nem rendelkező kérelmezőnek vizsgálatonként kell benyújtania az EEKH-hoz. Az eseti kutatási engedély a kérelemben megjelölt időpontig vagy visszavonásáig hatályos.
+12. § (1)[^41] Az eseti kutatási engedély iránti kérelmet a kutatásra tevékenységi engedéllyel nem rendelkező kérelmezőnek vizsgálatonként kell benyújtania az ENKK-hoz. Az eseti kutatási engedély a kérelemben megjelölt időpontig vagy visszavonásáig hatályos.
 
-(2) A kérelmezőnek klinikai vizsgálat esetén a kérelemhez csatolnia kell a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) által kiadott klinikai vizsgálati engedélyt. Az EEKH a kérelem beérkezését követő tizenöt napon belül dönt az engedély kiadásáról és határozatát közli az GYEMSZI-vel, valamint az Országos Tisztifőorvosi Hivatallal.
+(2)[^42] A kérelmezőnek klinikai vizsgálat esetén a kérelemhez csatolnia kell az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott klinikai vizsgálati engedélyt. Az ENKK a kérelem beérkezését követő tizenöt napon belül dönt az engedély kiadásáról és határozatát közli az OGYÉI-vel, valamint az Országos Tisztifőorvosi Hivatallal.
 
 (3) Az engedély iránti kérelemben meg kell jelölni:
 
@@ -47,3 +47,6 @@ c) az anyagot tartalmazó biológiai minták exportja, importja.
 a) azt az engedélyes kéri, vagy
 
 b) az engedélyes az e rendeletben foglalt előírásokat, vagy az engedélyben meghatározott kötelezettségeket ismételten vagy súlyosan megszegi.
+
+[^41]: A 12. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 65. § f) pontja szerint módosított szöveg.
+[^42]: A 12. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 63. §-ával megállapított szöveg.

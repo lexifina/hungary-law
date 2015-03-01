@@ -6,7 +6,7 @@
 
 (2) A selejtezett anyagokról az anyag e rendelet mellékletei szerinti megnevezésének, mennyiségének és a selejtté válás okának feltüntetésével tételes jegyzőkönyvet kell készíteni. A jegyzőkönyvet az engedélyes képviseletére jogosult személynek és a kijelölt kábítószer-felelősnek vagy helyettesének, vagy a kábítószerért felelős személynek is alá kell írnia. A selejtezett anyagokat megsemmisítésig elkülönítetten, a kábítószerek tárolására vonatkozó előírások szerint kell tárolni.
 
-(3) Az (1) bekezdés szerinti anyagokat égetéssel kell megsemmisíteni. Az átadásra fel nem kínált, és az át nem vett mákszalma-maradványt égetéssel vagy talajba forgatással kell megsemmisíteni. A megsemmisítést – a nyomozó hatóság birtokába került, vagy a tárgyi eljárás során lefoglalt, de elkobzásra nem került anyagok kivételével – az EEKH engedélyezi.
+(3)[^67] Az (1) bekezdés szerinti anyagokat égetéssel kell megsemmisíteni. Az átadásra fel nem kínált, és az át nem vett mákszalma-maradványt égetéssel vagy talajba forgatással kell megsemmisíteni. A megsemmisítést – a nyomozó hatóság birtokába került, vagy a tárgyi eljárás során lefoglalt, de elkobzásra nem került anyagok kivételével – az ENKK engedélyezi.
 
 (4) A megsemmisítést veszélyes hulladék égetésére környezetvédelmi hatósági engedéllyel rendelkező égetőműben kell végezni.
 
@@ -15,3 +15,5 @@
 (6) Amennyiben a gyógyászati célú tevékenységi engedély kábítószerek vagy pszichotróp anyagok forgalmazására jogosítja fel az engedélyest, az köteles a megrendelőktől éves rendszerességgel átvenni a tőle korábban beszerzett (1) bekezdés szerinti készleteket és gondoskodni azok megsemmisíttetéséről.
 
 (7) Az állatgyógyászati termék kiskereskedelmi forgalmazója köteles átvenni a megrendelőktől a tőle korábban beszerzett (1) bekezdés szerinti készleteket és gondoskodni azok megsemmisíttetéséről.
+
+[^67]: A 22. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 65. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-20. § (1)[^47] Az engedélyes vagy e rendelet szerint nyilvántartásba vett gazdálkodó szervezet kábítószert, pszichotróp anyagot, valamint új pszichoakítv anyagot – a (2) bekezdésben foglaltak és az egészségügyi szolgáltatóknak történő értékesítés és átadás, továbbá a szállítás céljára történő átadás kivételével – kizárólag más engedélyesnek vagy e rendelet szerint nyilvántartásba vett gazdálkodó szervezetnek értékesíthet vagy adhat át.
+20. § (1)[^66] Az engedélyes vagy e rendelet szerint nyilvántartásba vett gazdálkodó szervezet kábítószert, pszichotróp anyagot, valamint új pszichoakítv anyagot – a (2) bekezdésben foglaltak és az egészségügyi szolgáltatóknak történő értékesítés és átadás, továbbá a szállítás céljára történő átadás kivételével – kizárólag más engedélyesnek vagy e rendelet szerint nyilvántartásba vett gazdálkodó szervezetnek értékesíthet vagy adhat át.
 
 (2) Az engedélyes a K1, K2, illetve P2 jegyzéken szereplő hatóanyagot tartalmazó állatgyógyászati készítményt csak olyan állatgyógyászati készítmények kiskereskedelmi forgalmazójának értékesíthet vagy adhat át, amely szerepel a 3. § (3) bekezdése szerinti nyilvántartásban.
 
@@ -12,4 +12,4 @@
 
 (7) A K1, K2 és a P2 jegyzéken szereplő kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó gyógyszert állatgyógyászati intézmény, állatorvost alkalmazó telep, állatkert és vadaspark, illetve magán-állatorvos az állatgyógyászati termékekről szóló rendeletben meghatározott minta szerinti vény felhasználásával rendelhet.
 
-[^47]: A 20. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^66]: A 20. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 51. §-ával megállapított szöveg.

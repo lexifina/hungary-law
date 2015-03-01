@@ -1,8 +1,8 @@
-## Egészségügyi Engedélyezési és Közigazgatási Hivatal
+## Egészségügyi Nyilvántartási és Képzési Központ
 
 ## KÁBÍTÓSZER (K1, K2) / PSZICHOTRÓP ANYAG (P1, P2, P3, P4) EXPORT adatlap
 
-## Külforgalmi engedély kiadását kérem az EEKH-nak a mellékelt adatlap(ok)ban felsorolt, nemzetközi egyezmények és hatályos jogszabályok szerint ellenőrzött anyagokra, illetve készítményekre.
+## Külforgalmi engedély kiadását kérem az ENKK-nak a mellékelt adatlap(ok)ban felsorolt, nemzetközi egyezmények és hatályos jogszabályok szerint ellenőrzött anyagokra, illetve készítményekre.
 
 ## Nyilatkozom, hogy az alábbi adatok nyilvántartásunkkal és a valósággal megegyeznek.
 
@@ -58,4 +58,6 @@
 
 | Cégszerű aláírás, cégbélyegző, dátum, a kábítószer felelős ellenjegyzése: |
 
-8. melléklet a 66/2012. (IV. 2.) Korm. rendelethez
+8. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^96]
+
+[^96]: A 8. melléklet a 30/2015. (II. 25.) Korm. rendelet 65. § b) és k) pontja szerint módosított szöveg.

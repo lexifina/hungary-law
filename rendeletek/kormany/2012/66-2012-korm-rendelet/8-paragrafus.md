@@ -1,4 +1,4 @@
-8. § (1)[^27] Az engedélyesnek
+8. § (1)[^30] Az engedélyesnek
 
 a) az engedélyben foglalt adatokban tervezett változás,
 
@@ -8,11 +8,12 @@ c) a rendészeti szempontból előírt biztonsági, biztonságtechnikai berendez
 
 d) új telephely, üzemrész tevékenységi körbe vonása, valamint
 
-e)[^28] a tevékenységi engedélyben nem szereplő, újabb, az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyag, vagy új gyógyszerforma tevékenységi körbe vonása
+e)[^31] a tevékenységi engedélyben nem szereplő, újabb, az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyag, vagy új gyógyszerforma tevékenységi körbe vonása
 
 ## előtt az engedély módosítását kell kérnie a tervezett változások indokolásával és annak dokumentálásával, illetve feldolgozás esetén a kiinduló anyag és az előállított terméknek az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti hatóanyagra számított tervezett mennyiségének a megadásával.
 
-(2) A módosítás iránti kérelmet az EEKH honlapján közzétett adatlapnak megfelelően kell benyújtani.
+(2)[^32] A módosítás iránti kérelmet az ENKK honlapján közzétett adatlapnak megfelelően kell benyújtani.
 
-[^27]: A 8. § (1) bekezdés záró szövegrésze a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^28]: A 8. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 83. §-ával megállapított, a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^30]: A 8. § (1) bekezdés záró szövegrésze a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^31]: A 8. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 83. §-ával megállapított, a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^32]: A 8. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 65. § c) pontja szerint módosított szöveg.
