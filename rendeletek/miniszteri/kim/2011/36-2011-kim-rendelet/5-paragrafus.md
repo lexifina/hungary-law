@@ -8,7 +8,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ)
 
-| ÖVTJ-kód 2014 | ÖVTJ 2014 megnevezés |
+| ÖVTJ-kód 2015 | ÖVTJ 2015 megnevezés |
 
 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
@@ -19,8 +19,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 011101 | Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése m.n.s. |
 
 | 011102 | Máktermesztés |
-
-| 011103 | Brikett, pellet gyártása gabonafélékből |
 
 | 0112 | Rizstermesztés |
 
@@ -33,8 +31,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 0114 | Cukornádtermesztés |
 
 | 011401 | Cukornádtermesztés |
-
-| 011402 | Brikett, pellet gyártása cukornádból |
 
 | 0115 | Dohánytermesztés |
 
@@ -55,8 +51,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 011903 | Koszorú- és virágkötés saját termesztésű növényből (nem művirágból) |
 
 | 011904 | Koszorúalap készítés szalmából és szénából (saját termelésű alapanyagból) |
-
-| 011905 | Brikett, pellet gyártása egyéb nem évelő növényből |
 
 | 012 | Évelő növény termesztése |
 
@@ -103,8 +97,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 012902 | Nádgazdasági és fűztelepi tevékenység |
 
 | 012903 | Karácsonyfa termesztése |
-
-| 012904 | Brikett, pellet gyártása egyéb évelő növényből |
 
 | 013 | Növényi szaporítóanyag termesztése |
 
@@ -176,6 +168,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 016103 | Mezőgazdasági kártevőírtás |
 
+| 016104 | Beporzási szolgáltatás |
+
 | 0162 | Állattenyésztési szolgáltatás |
 
 | 016201 | Állattenyésztési szolgáltatás |
@@ -211,8 +205,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 0220 | Fakitermelés |
 
 | 022001 | Fakitermelés saját jogon |
-
-| 022002 | Brikett, pellet gyártása fahulladékból |
 
 | 022003 | Faszéntermelés az erdőben (hagyományos módszerrel előállítva) |
 
@@ -826,6 +818,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 162906 | Népi iparművészeti és iparművészeti fonottáru készítése |
 
+| 162907 | Brikett, pellet gyártása |
+
 | 17 | Papír, papírtermék gyártása |
 
 | 171 | Papíripari rostanyag, papír gyártása |
@@ -884,7 +878,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 1813 | Nyomdai előkészítő tevékenység |
 
-| 181301 | M.n.s.nyomdai előkészítő tevékenység |
+| 181301 | M.n.s. nyomdai előkészítő tevékenység |
 
 | 181302 | Kiegészítő nyomdai tevékenység |
 
@@ -1806,6 +1800,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 329914 | Preparátori tevékenység (állatkitömés) |
 
+| 329916 | Dekorációs szolgáltatás |
+
 | 33 | Ipari gép, berendezés, eszköz javítása, üzembe helyezése |
 
 | 331 | Ipari gép, berendezés, eszköz javítása |
@@ -1948,8 +1944,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 331910 | Műszaki üvegtermék javítása |
 
-| 331911 | Dekorációs festés |
-
 | 331912 | M.n.s. egyéb ipari eszköz javítása |
 
 | 332 | Ipari gép, berendezés üzembe helyezése |
@@ -2086,8 +2080,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 381101 | Nem veszélyes hulladék gyűjtése, kezelése |
 
-| 381102 | Brikett, pellet gyártása nem veszélyes hulladékból (fafeldolgozás hulladékából, más ipari és háztartási hulladékból) |
-
 | 3812 | Veszélyes hulladék gyűjtése |
 
 | 381201 | Veszélyes hulladék gyűjtése |
@@ -2118,13 +2110,15 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 383206 | Másodlagos nyersanyag előállítása nemfém hulladékból |
 
+| 383207 | Brikett, pellet gyártása vegyes ipari hulladékból |
+
 | 39 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
 | 390 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
 | 3900 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
-| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s |
+| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s. |
 
 | 390002 | Területtisztítás |
 
@@ -2304,7 +2298,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 433203 | Nyílászáró beszerelése |
 
-| 433204 | Álmennyezet-,álpadló-szerelés |
+| 433204 | Álmennyezet-, álpadló-szerelés |
 
 | 433206 | Beépített bútor beszerelése, javítása |
 
@@ -2422,7 +2416,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 452003 | Gépjárműkarosszéria-, tartozék-javítás |
 
-| 452004 | Egyéb közútijárműjavítás és -karbantartás |
+| 452004 | Egyéb gépjármű javítása és karbantartása |
 
 | 452005 | Gépjármű elektromos rendszerének javítása |
 
@@ -2932,7 +2926,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4759 | Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme |
 
-| 475901 | Egyéb háztartási termék kiskereskedelem m.n.s |
+| 475901 | Egyéb háztartási termék kiskereskedelem m.n.s. |
 
 | 475902 | Finomacéláru kiskereskedelem |
 
@@ -3340,7 +3334,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 5520 | Üdülési, egyéb átmeneti szálláshely-szolgáltatás |
 
-| 552001 | Ifjúsági-, turistaszállás-szolgáltatás |
+| 552001 | Közösségi szálláshely-szolgáltatás |
 
 | 552003 | Üdülőházi szolgáltatás |
 
@@ -3348,15 +3342,19 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 552006 | Üdülési, egyéb átmeneti szálláshely-szolgáltatás m.n.s. |
 
-| 552007 | Közösségi szálláshely-szolgáltatás: üdülő |
+| 552007 | Közösségi, szabadidős szálláshely-szolgáltatás: üdülő |
 
-| 552008 | Közösségi szálláshely-szolgáltatás: gyermek- és ifjúsági tábor |
+| 552008 | Közösségi, szabadidős szálláshely-szolgáltatás: gyermek- és ifjúsági tábor |
 
-| 552009 | Közösségi szálláshely-szolgáltatás: hegyi menedékház |
+| 552009 | Közösségi, szabadidős szálláshely-szolgáltatás: hegyi menedékház |
 
-| 552010 | Közösségi szálláshely-szolgáltatás: vendégszállás |
+| 552010 | Közösségi, szabadidős szálláshely-szolgáltatás: vendégszállás |
 
 | 552011 | Falusi szálláshely-szolgáltatás |
+
+| 552012 | Közösségi, szabadidős szálláshely-szolgáltatás: munkásszállás |
+
+| 552013 | Közösségi, szabadidős szálláshely-szolgáltatás: diákotthon, kollégium |
 
 | 553 | Kempingszolgáltatás |
 
@@ -3364,25 +3362,15 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 553001 | Kempingszolgáltatás |
 
-| 553002 | Közösségi szálláshely-szolgáltatás: nomád szálláshely |
+| 553002 | Közösségi, szabadidős szálláshely-szolgáltatás: nomád táborhely |
 
-| 553003 | Közösségi szálláshely-szolgáltatás: bivakszállás |
+| 553003 | Közösségi, szabadidős szálláshely-szolgáltatás: bivakszállás |
 
 | 559 | Egyéb szálláshely-szolgáltatás |
 
 | 5590 | Egyéb szálláshely-szolgáltatás |
 
-| 559001 | Egyéb szálláshely-szolgáltatás |
-
-| 559002 | Diákszálló üzemeltetése |
-
-| 559003 | Munkásszálló üzemeltetése |
-
-| 559004 | Kollégium üzemeltetése |
-
-| 559005 | Közösségi szálláshely-szolgáltatás: munkásszállás |
-
-| 559006 | Közösségi szálláshely-szolgáltatás: diákotthon, kollégium |
+| 559001 | Nem üdülési, nem turisztikai egyéb szálláshely-szolgáltatás |
 
 | 56 | Vendéglátás |
 
@@ -4202,6 +4190,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 813001 | Zöldterület-kezelés |
 
+| 813002 | Házikertgondozás |
+
 | 82 | Adminisztratív, kiegészítő egyéb üzleti szolgáltatás |
 
 | 821 | Adminisztratív, kiegészítő szolgáltatás |
@@ -4342,6 +4332,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 855911 | Általános és szaknyelvi felnőttképzés |
 
+| 855912 | Házi korrepetálás |
+
 | 856 | Oktatást kiegészítő tevékenység |
 
 | 8560 | Oktatást kiegészítő tevékenység |
@@ -4420,6 +4412,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 869009 | Hospice ellátás a beteg otthonában |
 
+| 869010 | Lovasterápia |
+
 | 87 | Bentlakásos, nem kórházi ápolás |
 
 | 871 | Bentlakásos, nem kórházi ápolás |
@@ -4491,8 +4485,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 879004 | Hajléktalanok éjjeli menedékhelyének és átmeneti szállásának működtetése |
 
 | 879005 | Éjjeli menedékhely működtetése |
-
-| 879006 | Nevelőszülői tevékenység |
 
 | 879007 | Önálló helyettes szülői tevékenység |
 
@@ -4682,8 +4674,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 931906 | Sportszakemberek tevékenysége |
 
-| 931907 | Lovasterápia |
-
 | 932 | Egyéb szórakoztatás, szabadidős tevékenység |
 
 | 9321 | Vidámparki, szórakoztatóparki tevékenység |
@@ -4830,6 +4820,12 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 960206 | Kéz- és lábápolás, műkörömépítés |
 
+| 960207 | Fodrászat az ügyfél otthonában |
+
+| 960208 | Kozmetika, szépségápolás az ügyfél otthonában |
+
+| 960209 | Kéz­ és lábápolás az ügyfél otthonában |
+
 | 9603 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
 | 960301 | A temető fenntartása, üzemeltetése |
@@ -4888,6 +4884,4 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 990001 | Külföldi képviseletet ellátó személy |
 
-| 990002 | Adómentes termékimportot megalapozó közösségen belüli termékértékesítés |
-
-[^2]: A melléklet szövege a 6/2014. (I. 29.) KIM rendelet 1. §-ával megállapított szöveg.
+[^2]: A melléklet a 10/2015. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
