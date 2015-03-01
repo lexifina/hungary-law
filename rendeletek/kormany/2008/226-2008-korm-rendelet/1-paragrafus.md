@@ -1,6 +1,6 @@
 1. § (1) A 2004. évi CIX. törvénnyel kihirdetett, a biológiai biztonságról szóló, Nairobiban, 2000. május 24-én aláírt Cartagena Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) szerinti illetékes hatóság feladatait
 
-a)[^1] humán-egészségügyi, humán gyógyszergyártási célú felhasználás, az emberi testtel közvetlenül érintkező vegyi anyagok esetén a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet,
+a)[^1] humán-egészségügyi, humán gyógyszergyártási célú felhasználás, az emberi testtel közvetlenül érintkező vegyi anyagok esetén az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet,
 
 b)[^2] a mezőgazdaság és az élelmiszeripar területén (beleértve az élelmiszer-előállításban alkalmazott technológiai segédanyagokat is), illetve egyéb ipari célú felhasználás esetén az agrárpolitikáért felelős miniszter és az élelmiszeriparért felelős miniszter,
 
@@ -12,7 +12,7 @@ c) a felügyelet és ellenőrzés tekintetében a Mezőgazdasági és Szakigazga
 
 (3)[^4] Az (1) bekezdésben foglalt hatóságok a szükséges információkról rendszeresen tájékoztatják a kapcsolattartót.
 
-[^1]: Az 1. § (1) bekezdés a) pontja az 59/2011. (IV. 12.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdás a) pontja a 30/2015. (II. 25.) Korm. rendelet 30. §-a szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 430. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 642. §-a, a 221/2014. (IX. 4.) Korm. rendelet 430. § b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 642. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
