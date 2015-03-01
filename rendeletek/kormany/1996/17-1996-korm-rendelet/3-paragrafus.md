@@ -1,10 +1,10 @@
-3. § (1) Ha az anyag gépkocsival szállítható, akkor azt az Országos Frédéric Joliot-Curie Sugárbiológiai és Sugáregészségügyi Kutató Intézetbe[^10] (a továbbiakban: OSSKI) az erre a célra kijelölt tárolóhelyre kell vinni.
+3. § (1)[^11] Ha az anyag gépkocsival szállítható, akkor azt az Országos Közegészségügyi Központba (a továbbiakban: OKK) az erre a célra kijelölt tárolóhelyre kell vinni.
 
 (2) Az (1) bekezdés szerint nem szállítható anyag esetében a sugáregészségügyi szakértő
 
-a)[^11] felveszi a kapcsolatot az MTA Kémiai Kutatóközpont Izotóp- és Felületkémiai Intézettel (a továbbiakban: MTA KK IKI)– az általuk kidolgozott eljárásrend szerint –, amely a lehető leghamarabb saját telephelyére szállítja az anyagot,
+a)[^12] felveszi a kapcsolatot az MTA Energiatudományi Kutatóközponttal (a továbbiakban: MTA EK)– az általuk kidolgozott eljárásrend szerint –, amely a lehető leghamarabb saját telephelyére szállítja az anyagot,
 
 b) meghatározza a helyszínen történő őrzés sugárbiztonsági feltételeit.
 
-[^10]: Lásd az Állami Népegészségügyi és Tisztiorvosi Szolgálat szervezetéről és működéséről szóló 7/1991. (IV. 26.) NM rendeletet.
-[^11]: A 3. § (2) bekezdésének a) pontja a 122/1998. (VI. 17.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
