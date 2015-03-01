@@ -1,3 +1,3 @@
-2. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^43]
+2. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^12]
 
-[^43]: Az 2. számú melléklet a 331/2011. (XII. 29.) Korm. rendelet 4. § b) pontjával megállapított szöveg.
+[^12]: A 2. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

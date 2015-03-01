@@ -1,3 +1,3 @@
-7. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^49]
+7. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^17]
 
-[^49]: A 7. számú melléklet a 331/2011. (XII. 29.) Korm. rendelet 4. § f) pontjával megállapított szöveg.
+[^17]: A 7. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

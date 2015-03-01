@@ -1,22 +1,9 @@
-2. § (1)[^19]
+2. §[^2] (1) Az Szt. 43/A. (4) bekezdése szerinti szakértői díjak kifizetésének forrása a központi költségvetésről szóló törvényben az ápolási díj kifizetésére szolgáló előirányzat.
 
-(2)[^20] A 2. számú melléklet szerinti adatlapon kifizetett összegként az Szt. 37. § (1) bekezdése szerinti jogosultak részére megállapított rendszeres szociális segély tárgyhónapban folyósított összegét – ide értve a természetbeni juttatásként biztosított összeget – kell feltüntetni.
+(2) A Kincstár a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság) mint módszertani feladatokat ellátó szerv részére az Szt. 43/A. § (4) bekezdése szerinti, a fokozott ápolási igényre vonatkozó szakértői vélemény elkészítéséért a központi költségvetésben meghatározott összegben járó díjazás kifizetése céljából elkülönített számlát vezet.
 
-(3) A 3. számú melléklet szerinti adatlapon kifizetett összegként az Szt. 38. §-a (1) bekezdésének a) pontja szerint megállapított lakásfenntartási támogatásnak tárgyhónapban folyósított összegét kell feltüntetni.
+(3) A Főigazgatóság a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 26. § (4) bekezdése szerinti, hozzá a tárgyhónap 14. napjáig beérkezett szakértői véleményekre tekintettel minden hónap 15-éig igényli a Kincstártól a szakértői díjak összegét. Az igényléshez készített kimutatást az elvégzett szakértői vizsgálat helye szerinti megyei bontásban kell megküldeni.
 
-(4)[^21]
+(4) A Kincstár minden hónap 25-éig, december hónapban 20-áig a Főigazgatóság (2) bekezdés szerinti elkülönített számláján rendelkezésre bocsátja a kifizetés havi összegét, egyidejűleg az igényelt szakértői díjakra vonatkozó, (3) bekezdés szerinti adatokat – elektronikus úton – megküldi a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium részére.
 
-(5) Az 5. számú melléklet szerinti adatlapon kifizetett összegként a megállapított adósságcsökkentési támogatásnak, illetőleg lakásfenntartási támogatásnak a tárgyhónapban folyósított összegét kell feltüntetni.
-
-(6)[^22]
-
-(7)[^23] A 7. számú melléklet szerinti adatlapon kifizetett összegként az Szt. 35. § (1) bekezdése alapján folyósított foglalkoztatást helyettesítő támogatás tárgyhónapban folyósított összegét kell feltüntetni.
-
-(8)[^24]
-
-[^19]: A 2. § (1) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (8) bekezdés b) pontja hatályon kívül helyezte.
-[^20]: A 2. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^21]: A 2. § (4) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 2. § (8) bekezdés b) pontja hatályon kívül helyezte.
-[^22]: A 2. § (6) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés e) pontja hatályon kívül helyezte.
-[^23]: A 2. § (7) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 358/2010. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^24]: A 2. § (8) bekezdését a 75/2009. (IV. 8.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 331/2011. (XII. 29.) Korm. rendelet 6. § a) pontja.
+[^2]: A 2. § a 24/2015. (II. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
