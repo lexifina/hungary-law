@@ -3,4 +3,4 @@
 1. melléklet a 288/2009. (XII. 15.) Korm. rendelethez[^14]
 
 [^13]: A 7. § a 305/2014. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^14]: Az 1. melléklet a 305/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 128. § a) pontja szerint módosított szöveg. [A 381/2014. (XII. 31.) Korm. rendelet 17. §-ával elrendelt módosítás, amely szerint „Nemzeti Innovációs Hivatal” szövegrész helyébe „Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal” szöveg lép, nem vezethető át.]
+[^14]: Az 1. melléklet a 305/2014. (XII. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 128. § a) pontja, a 30/2015. (II. 25.) Korm. rendelet 42. § (1) bekezdése szerint módosított szöveg. [A 381/2014. (XII. 31.) Korm. rendelet 17. §-ával elrendelt módosítás, amely szerint „Nemzeti Innovációs Hivatal” szövegrész helyébe „Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal” szöveg lép, nem vezethető át.]
