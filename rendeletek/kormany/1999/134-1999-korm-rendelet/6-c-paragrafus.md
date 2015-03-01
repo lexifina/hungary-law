@@ -12,11 +12,11 @@ c) legalább heti – fiókgyógyszertár üzemeltetése esetén a fiókgyógysz
 
 (3)[^45]
 
-(4)[^46] Az (1) bekezdés szerinti támogatásra való jogosultság megítélése során figyelembe veendő feltételek meglétéről a gyógyszertárak szakmai felügyeletét ellátó Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala (a továbbiakban: ÁNTSZ OTH) hatósági bizonyítványt állít ki a támogatást igénylő kérelmére. Az ÁNTSZ OTH az általa kiállított hatósági bizonyítványon feltünteti a (2) bekezdés alapján kiszámított, egy gyógyszertár által igényelhető működési célú támogatás összegét.
+(4)[^46] Az (1) bekezdés szerinti támogatásra való jogosultság megítélése során figyelembe veendő feltételek meglétéről a gyógyszertárak szakmai felügyeletét ellátó Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) hatósági bizonyítványt állít ki a támogatást igénylő kérelmére. Az OGYÉI az általa kiállított hatósági bizonyítványon feltünteti a (2) bekezdés alapján kiszámított, egy gyógyszertár által igényelhető működési célú támogatás összegét.
 
 (5)[^47] Az (1) bekezdés szerinti támogatásra való jogosultság megítélése során figyelembe veendő feltételek meglétét a gyógyszertárak szakmai felügyeletét ellátó egészségügyi államigazgatási szerv igazolja a támogatást igénylő kérelmére.
 
-(6)[^48] A támogatás igényléséhez szükséges, az (1) bekezdés b) pontjában meghatározott adatokat az OEP az ÁNTSZ OTH számára az összes forgalmazóra vonatkozóan minden év január 31. napjáig megküldi.
+(6)[^48] A támogatás igényléséhez szükséges, az (1) bekezdés b) pontjában meghatározott adatokat az OEP az OGYÉI számára az összes forgalmazóra vonatkozóan minden év január 31. napjáig megküldi.
 
 (7)[^49] Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 52. § (4) bekezdésében foglaltak alapján a gyógyszertárak szakmai felügyeletét ellátó egészségügyi államigazgatási szerv a gyógyszertár helye szerint illetékes adóhatóság részére az Art. 3. számú melléklet L) pontja szerint szolgáltat adatot.
 
@@ -30,9 +30,9 @@ c) legalább heti – fiókgyógyszertár üzemeltetése esetén a fiókgyógysz
 [^43]: A 6/C. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított, a 254/2013. (VII. 5.) Korm. rendelet 59. §-a szerint módosított szöveg.
 [^44]: A 6/C. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 31. § (2) bekezdése iktatta be.
 [^45]: A 6/C. § (3) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 32. §-a hatályon kívül helyezte.
-[^46]: A 6/C. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 201/2010. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^46]: A 6/C. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 201/2010. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^47]: A 6/C. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 175. §-a hatályon kívül helyezte, újonnan a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^48]: A 6/C. § (6) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^48]: A 6/C. § (6) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^49]: A 6/C. § (7) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^50]: A 6/C. § (8) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
 [^51]: A 6/C. § (9) bekezdése a 201/2010. (VI. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
