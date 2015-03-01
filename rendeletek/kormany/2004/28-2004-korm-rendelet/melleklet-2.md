@@ -38,7 +38,7 @@ h)[^12] Földművelésügyi Minisztérium;
 
 i) Büntetés-végrehajtás Országos Parancsnoksága;
 
-j) Egészségügyi Engedélyezési és Közigazgatási Hivatal;
+j)[^13] Egészségügyi Nyilvántartási és Képzési Központ;
 
 k) Magyar Kereskedelmi és Engedélyezési Hivatal;
 
@@ -56,11 +56,12 @@ q) Országos Rendőr-főkapitányság;
 
 r) Nemzeti Adó- és Vámhivatal Központi Hivatala;
 
-s)[^13] Miniszterelnökség.
+s)[^14] Miniszterelnökség.
 
 [^8]: A 2. számú melléklet a 94/2011. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 6. §-a alapján a 2011. július 6-tól a folyamatban lévő ügyekre is alkalmazni kell.
 [^9]: A 2. számú melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § d) pontjával megállapított szöveg.
 [^10]: A 2. számú melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § e) pontjával megállapított szöveg.
 [^11]: A 2. számú melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § f) pontjával megállapított szöveg.
 [^12]: A 2. számú melléklet h) pontja a 221/2014. (IX. 4.) Korm. rendelet 260. § g) pontjával megállapított szöveg.
-[^13]: A 2. számú melléklet s) pontját a 221/2014. (IX. 4.) Korm. rendelet 259. §-a iktatta be.
+[^13]: A 2. számú melléklet j) pontja a 30/2015. (II. 25.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^14]: A 2. számú melléklet s) pontját a 221/2014. (IX. 4.) Korm. rendelet 259. §-a iktatta be.
