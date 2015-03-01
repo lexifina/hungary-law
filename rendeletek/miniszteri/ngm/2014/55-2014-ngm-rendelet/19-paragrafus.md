@@ -1,4 +1,4 @@
-## 18. §[^18]
+## 18. §[^19]
 
 ## 19. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 20. § c) pontja 2015. március 1-jén lép hatályba.
 
-[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
