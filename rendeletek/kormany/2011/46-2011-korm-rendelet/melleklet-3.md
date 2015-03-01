@@ -112,6 +112,6 @@
 
 ## P. H.
 
-3. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^53]
+3. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^58]
 
-[^53]: A 3. mellékletet a 238/2013. (VI. 30.) Korm. rendelet 2. § (17) bekezdése iktatta be, hatályon kívül helyezte a 241/2014. (IX. 23.) Korm. rendelet 10. § (3) bekezdése.
+[^58]: A 3. mellékletet a 238/2013. (VI. 30.) Korm. rendelet 2. § (17) bekezdése iktatta be, hatályon kívül helyezte a 241/2014. (IX. 23.) Korm. rendelet 10. § (3) bekezdése.
