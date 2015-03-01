@@ -14,7 +14,7 @@ d)[^4] ATC: a gyógyszereknek a biztonságos és gazdaságos gyógyszer- és gy�
 
 e)[^5] gyógyszerforma: az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet (a továbbiakban: Tfr.) 2. §-a (1) bekezdésének 3. pontja szerinti fogalom;
 
-f)[^6] forgalomba hozatalra engedélyezett gyógyszer: a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI), valamint a 726/2004/EK európai parlamenti és tanácsi rendelet alapján az Európai Unió Bizottsága (a továbbiakban: Bizottság) által forgalomba hozatalra engedélyezett gyógyszer;
+f)[^6] forgalomba hozatalra engedélyezett gyógyszer: az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI), valamint a 726/2004/EK európai parlamenti és tanácsi rendelet alapján az Európai Unió Bizottsága (a továbbiakban: Bizottság) által forgalomba hozatalra engedélyezett gyógyszer;
 
 g)[^7] forgalomba hozatali engedély: az f) pont szerinti hatóságok által kibocsátott hatósági határozat;
 
@@ -32,13 +32,13 @@ m) gyors értékelés: az egyszerűsített eljárásrendbe sorolt kérelmek tart
 
 n) kritikai technológia-értékelés: a normál eljárásrendbe sorolt kérelmekhez benyújtott technológia-értékelés anyagának tartalmi ellenőrzése, értékelése;
 
-o)[^12] részletes technológiaértékelés: a 22. § (2) bekezdése szerinti kategóriába tartozó kérelmek esetén, a kérelemhez benyújtott technológiaértékelés az n) pont szerinti ellenőrzés után, szükség esetén a GYEMSZI által végzett további technológiaértékelés, mellyel igazolni lehet a technológia megfelelőségét;
+o)[^12] részletes technológiaértékelés: a 22. § (2) bekezdése szerinti kategóriába tartozó kérelmek esetén, a kérelemhez benyújtott technológiaértékelés az n) pont szerinti ellenőrzés után, szükség esetén az OGYÉI által végzett további technológiaértékelés, mellyel igazolni lehet a technológia megfelelőségét;
 
 p) egészség-gazdaságtani elemzés: a meghatározott alternatívák költségeinek és következményeinek a megjelölése, mérése, értékelése és összehasonlítása[^13];
 
 q)[^14] összehasonlító elemzés: a hasonló hatású, felhasználású és már támogatott készítményekkel való összevetés, figyelemmel az egészségnyereségre és a gazdasági előnyökre;
 
-r)[^15] kiszerelés: a GYEMSZI, illetve a Bizottság által forgalomba hozatalra engedélyezett, egy nyilvántartási számmal meghatározott csomagolási egység;
+r)[^15] kiszerelés: az OGYÉI, illetve a Bizottság által forgalomba hozatalra engedélyezett, egy nyilvántartási számmal meghatározott csomagolási egység;
 
 s)[^16] DDD (Defined Daily Dose): a WHO által meghatározott, adott hatóanyagra jellemző napi dózis;
 
@@ -76,16 +76,16 @@ zs)[^25] költséghatékonysági elemzés: olyan elemzés, amely összehasonlít
 [^3]: A 2. § c) pontja a 7/2014. (I. 29.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § d) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 30/2010. (XII. 30.) NEFMI rendelet 10. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § e) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 7/2014. (I. 29.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
-[^6]: A 2. § f) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 47/2011. (VII. 27.) NEFMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § f) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 10/2015. (II. 23.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § g) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § h) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 38. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § i) pontja az 53/2006. (XII. 28.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^10]: A 2. § k) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^11]: A 2. § l) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
-[^12]: A 2. § o) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított, a 47/2011. (VII. 27.) NEFMI rendelet 13. § b) pontja szerint módosított szöveg.
+[^12]: A 2. § o) pontja a 10/2004. (XII. 15.) EüM rendelet 1. §-ával megállapított, a 10/2015. (II. 23.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
 [^13]: (2002 Egészségügyi Közlöny, LII. évfolyam 11. szám 1314–1334. oldal).
 [^14]: A 2. § q) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
-[^15]: A 2. § r) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, szövege az 53/2006. (XII. 28.) EüM rendelet 1. § (3) bekezdésével megállapított, a 47/2011. (VII. 27.) NEFMI rendelet 13. § c) pontja szerint módosított szöveg.
+[^15]: A 2. § r) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, szövege az 53/2006. (XII. 28.) EüM rendelet 1. § (3) bekezdésével megállapított, a 10/2015. (II. 23.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
 [^16]: A 2. § s) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^17]: A 2. § t) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.
 [^18]: A 2. § u) pontját a 10/2004. (XII. 15.) EüM rendelet 1. §-a iktatta be, e módosító rendelet 19. §-ának (5) bekezdése alapján a rendelkezést a 2004. december 20. napját követően benyújtott kérelmek esetében kell alkalmazni.

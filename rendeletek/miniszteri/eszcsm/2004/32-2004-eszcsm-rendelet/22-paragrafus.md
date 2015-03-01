@@ -1,4 +1,4 @@
-22. §[^134] (1) Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
+22. §[^140] (1) Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
 
 a) már támogatott hatóanyagot tartalmazó gyógyszerrel egyenértékű készítmény:
 
@@ -10,13 +10,15 @@ ac) új gyógyszerformájára és azonos beviteli formájára,
 
 ad) új generikumára, márkanevű készítményére,
 
+ae)[^141] új csomagolására,
+
 b) tápszer vagy forgalomba hozatalra engedélyezett, a Szabványos Vényminta Gyűjteményben vagy a Gyógyszerkönyvben is szereplő gyógyszer támogatására,
 
-c)[^135] a 14. § (1) bekezdés g) és h) pontja szerinti kombinációra,
+c)[^142] a 14. § (1) bekezdés g) és h) pontja szerinti kombinációra,
 
 d) már támogatott – a Tfr. 2. § (2) bekezdés 14. pontja szerinti – biológiai gyógyszer valamely hatóanyagával azonos vagy hasonló hatóanyagot tartalmazó, a Tfr. 2. § (2) bekezdés 15. pontja szerinti generikumnak nem minősülő hasonló biológiai gyógyszerre
 
-e)[^136] kedvezményezetti státusz megítélésére is
+e)[^143] kedvezményezetti státusz megítélésére is
 
 érkezett.
 
@@ -40,6 +42,7 @@ h) jelentős terápiás előnnyel rendelkező készítményre, magasabb áron t�
 
 érkezett.
 
-[^134]: A 22. § a 30/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
-[^135]: A 22. § (1) bekezdés c) pontja a 47/2011. (VII. 27.) NEFMI rendelet 13. § k) pontja, a 10/2013. (I. 31.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
-[^136]: A 22. § (1) bekezdés e) pontját a 7/2014. (I. 29.) EMMI rendelet 6. §-a iktatta be.
+[^140]: A 22. § a 30/2010. (XII. 30.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^141]: A 22. § (1) bekezdés a) pont ae) alpontját a 10/2015. (II. 23.) EMMI rendelet 3. §-a iktatta be.
+[^142]: A 22. § (1) bekezdés c) pontja a 47/2011. (VII. 27.) NEFMI rendelet 13. § k) pontja, a 10/2013. (I. 31.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
+[^143]: A 22. § (1) bekezdés e) pontját a 7/2014. (I. 29.) EMMI rendelet 6. §-a iktatta be.
