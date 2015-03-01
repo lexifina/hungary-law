@@ -1,3 +1,3 @@
-## 24. §[^5]
+## 24. § Az NGM rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: A 24. § a 29. § (2) bekezdése alapján 2015. március 1-jén lép hatályba.
+## „(2) A sorszámtartományt az adóhatóság a nyomtatvány előállítójának az erre a célra rendszeresített nyomtatványon, elektronikus úton benyújtott kérelmére jelöli ki.”
