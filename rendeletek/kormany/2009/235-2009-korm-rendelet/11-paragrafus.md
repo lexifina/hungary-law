@@ -10,10 +10,18 @@ a) a módosítás hatással lehet a kutatásban résztvevők biztonságára,
 
 b) a módosítás megváltoztathatja a kutatás elvégzését alátámasztó tudományos dokumentumok értelmezését,
 
-c) a módosítás a kutatók részére készített ismertetőt érinti, vagy
+c)[^13] a módosítás a kutatók részére készített ismertetőt érinti,
 
-d) az addigi kutatási eredmények az írásos tájékoztató módosítását teszik szükségessé.
+d) az addigi kutatási eredmények az írásos tájékoztató módosítását teszik szükségessé,
+
+e)[^14] a kutatásba új kutatási helyszín kerül bevonásra, vagy
+
+f)[^15] a kutatás vezetőjének személye változik.
 
 (4) Ha az engedélyező a módosítást engedélyezi, a kérelmező a módosított kutatási terv betartásával folytatja a kutatást. Az engedélyező a módosítás elfogadását a kutatással, illetve a 4. § szerinti szempontokkal összefüggő szakmai feltételhez kötheti. Ebben az esetben a kérelmező vagy az engedélyező által megjelölt feltételeknek megfelelően folytatja a kutatást, vagy amennyiben az engedélyező által megjelölt feltételeknek nem kíván eleget tenni, a kutatást az eredeti kutatási tervnek megfelelően folytatja, és erről az engedélyezőt értesíti. A kérelmező a kérelem elutasítása esetén az eredeti kutatási tervnek megfelelően folytatja a vizsgálatot. Több módosítás esetén az engedélyező a kérelemben foglalt módosításokról külön rendelkezik.
 
 (5) Egyebekben a módosítás iránti kérelemre az engedélyezésre vonatkozó rendelkezéseket kell értelemszerűen alkalmazni.
+
+[^13]: A 11. § (3) bekezdés c) pontja a 364/2014. (XII. 30.) Korm. rendelet 84. § a) pontja szerint módosított szöveg.
+[^14]: A 11. § (3) bekezdés e) pontját a 364/2014. (XII. 30.) Korm. rendelet 78. §-a iktatta be.
+[^15]: A 11. § (3) bekezdés f) pontját a 364/2014. (XII. 30.) Korm. rendelet 78. §-a iktatta be.

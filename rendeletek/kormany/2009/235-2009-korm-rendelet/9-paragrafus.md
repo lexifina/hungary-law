@@ -20,8 +20,8 @@ a) a kérelmezőnek,
 
 b) az eljáró etikai, illetve regionális etikai bizottságnak,
 
-c)[^7] az Országos Egészségbiztosítási Pénztárnak.
+c)[^10] az Országos Egészségbiztosítási Pénztárnak.
 
 (3) A kérelmező a határozatról értesíti az illetékes IKEB-et, a kutatást végző intézmény vezetőjét és – amennyiben a kérelmező nem azonos a kutatásvezetővel – a kutatásvezetőt.
 
-[^7]: A 9. § (2) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 260. §-a szerint módosított szöveg.
+[^10]: A 9. § (2) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 260. §-a szerint módosított szöveg.

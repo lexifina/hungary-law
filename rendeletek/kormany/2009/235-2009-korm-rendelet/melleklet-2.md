@@ -90,7 +90,7 @@
 
 ## A klinikai vizsgálatra vonatkozó adatok és dokumentumok
 
-## 15.[^62] Multicentrikus vizsgálat esetén – ha van – az EGT-megállapodásban részes érintett állam etikai bizottságának állásfoglalása
+## 15.[^80] Multicentrikus vizsgálat esetén – ha van – az EGT-megállapodásban részes érintett állam etikai bizottságának állásfoglalása
 
 ## 16. A klinikai vizsgálat terve, amely magában foglalja a következőket:
 
@@ -132,23 +132,23 @@
 
 ## s) a klinikai vizsgálat leállításának kritériumai,
 
-## t)[^63] a klinikai vizsgálatot végző egészségügyi szolgáltatónak a kártérítés és sérelemdíj fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződésének visszaigazolása,
+## t)[^81] a klinikai vizsgálatot végző egészségügyi szolgáltatónak a kártérítés és sérelemdíj fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződésének visszaigazolása,
 
 ## u) a kutatás tárgyi és személyi feltételei,
 
-## v)[^64] a toborzási felhívás tervezett szövege és a toborzási módszer ismertetése.
+## v)[^82] a toborzási felhívás tervezett szövege és a toborzási módszer ismertetése.
 
 ## 17. III. kockázati osztályba tartozó eszköz és aktív implantátum klinikai vizsgálata esetén a minőségbiztosítási tanúsítvány
 
-## 18.[^65]
+## 18.[^83]
 
 ## 19. Multicentrikus vizsgálat esetén – amennyiben van – az EGT-megállapodásban részes állam etikai bizottsága által a vizsgálatról már kiadott vélemény
 
-2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^66]
+2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^84]
 
 |  | A | B |
 
-|  | Illetékességi terület | Engedélyező |
+|  | Illetékességi terület | Szakértő |
 
 | 1. | Bács-Kiskun megye | Bács-Kiskun Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
@@ -188,8 +188,8 @@
 
 | 19. | Zala megye | Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
 
-[^62]: A melléklet 15. pontja a 308/2012. (XI. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^63]: A melléklet 16. pont t) alpontja a 46/2014. (II. 26.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^64]: A melléklet 16. pont v) alpontját a 308/2012. (XI. 6.) Korm. rendelet 11. §-a iktatta be.
-[^65]: A melléklet 18. pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^66]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^80]: A melléklet 15. pontja a 308/2012. (XI. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^81]: A melléklet 16. pont t) alpontja a 46/2014. (II. 26.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^82]: A melléklet 16. pont v) alpontját a 308/2012. (XI. 6.) Korm. rendelet 11. §-a iktatta be.
+[^83]: A melléklet 18. pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^84]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 60. §-a, a 364/2014. (XII. 30.) Korm. rendelet 82. §-a szerint módosított szöveg.

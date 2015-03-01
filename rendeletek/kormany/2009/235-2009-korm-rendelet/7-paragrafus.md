@@ -10,7 +10,7 @@ c) arról, hogy a kutatási terv alapján a résztvevők mindegyike megkapja-e a
 
 d) a várható előnyök és kockázatok előzetes becslésének megfelelőségéről, a résztvevőket fenyegető kockázatok és a kutatás várható eredményének arányosságáról,
 
-e) a kutatás vezetőjének szakmai alkalmasságáról,
+e)[^8] a kutatás vezetőjének szakmai alkalmasságáról és etikai megfelelőségéről,
 
 f) az írásos tájékoztató megfelelőségéről, teljeskörűségéről,
 
@@ -24,10 +24,11 @@ j) a kutatásban résztvevők toborzásának és beválasztásának módjáról 
 
 k) a kutatás során nyert adatok statisztikai feldolgozási módszerének megfelelőségéről,
 
-l)[^6] ha a kutatást állapotos, szabadságában korlátozott (Eütv. 161. §), korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott nagykorú vagy cselekvőképtelen személyen is végzik, ezek bevonásának indokoltságáról és érdekeik védelmének megfelelőségéről,
+l)[^9] ha a kutatást állapotos, szabadságában korlátozott (Eütv. 161. §), korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott nagykorú vagy cselekvőképtelen személyen is végzik, ezek bevonásának indokoltságáról és érdekeik védelmének megfelelőségéről,
 
 m) a kutatás vezetőjének és a kutatásban közreműködők díjazásának megfelelőségéről,
 
 n) arról, hogy a várható kockázatot a várható terápiás előny meghaladja-e.
 
-[^6]: A 7. § l) pontja a 46/2014. (II. 26.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^8]: A 7. § e) pontja a 364/2014. (XII. 30.) Korm. rendelet 83. §-a szerint módosított szöveg.
+[^9]: A 7. § l) pontja a 46/2014. (II. 26.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

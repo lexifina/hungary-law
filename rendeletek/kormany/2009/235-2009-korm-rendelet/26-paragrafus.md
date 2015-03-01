@@ -18,6 +18,6 @@ a) a kérelmezőnek, illetve a megbízónak,
 
 b) az eljáró szakhatóságoknak,
 
-c)[^38] az Országos Egészségbiztosítási Pénztárnak.
+c)[^56] az Országos Egészségbiztosítási Pénztárnak.
 
-[^38]: A 26. § (2) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 260. §-a szerint módosított szöveg.
+[^56]: A 26. § (2) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 260. §-a szerint módosított szöveg.

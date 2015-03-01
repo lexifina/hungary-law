@@ -1,14 +1,14 @@
-17. §[^10] (1) Beavatkozással nem járó vizsgálatot végezni
+17. §[^21] (1) Beavatkozással nem járó vizsgálatot végezni
 
-a)[^11] a 16. § a) pontjában említett vizsgálatok és kutatások esetében az ETT TUKEB szakmai-etikai engedélyének birtokában lehet;
+a)[^22] a 16. § a) pontjában említett vizsgálatok és kutatások esetében az ETT TUKEB szakmai-etikai engedélyének birtokában lehet;
 
-b)[^12] a 16. § c) pontjában említett vizsgálat esetében
+b)[^23] a 16. § c) pontjában említett vizsgálat esetében
 
-ba) amennyiben a vizsgálat nem a bb) alpontban említett vizsgálat, akkor a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) engedélyének birtokában lehet,
+ba)[^24] amennyiben a vizsgálat nem a bb) alpontban említett vizsgálat, akkor az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) engedélyének birtokában lehet,
 
-bb) amennyiben engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat végzésére hatósági határozat teljesítése érdekében van szükség és az más EGT-tagállamot is érint, a Gytv. 1. § 31. pontjában említett farmakovigilancia kockázatértékelési bizottság (a továbbiakban: PRAC) által kiadott jóváhagyó levél és az ETT TUKEB etikai engedélyének birtokában lehet, azzal, hogy a vizsgálatot legkésőbb annak megkezdéséig be kell jelenteni a GYEMSZI részére.
+bb)[^25] amennyiben engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat végzésére hatósági határozat teljesítése érdekében van szükség és az más EGT-tagállamot is érint, a Gytv. 1. § 31. pontjában említett farmakovigilancia kockázatértékelési bizottság (a továbbiakban: PRAC) által kiadott jóváhagyó levél és az ETT TUKEB etikai engedélyének birtokában lehet, azzal, hogy a vizsgálatot legkésőbb annak megkezdéséig be kell jelenteni az OGYÉI részére.
 
-c)[^13] a 16. § b) pontjában említett vizsgálatok esetében az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) engedélyének birtokában lehet.
+c)[^26] a 16. § b) pontjában említett vizsgálatok esetében az Egészségügyi Nyilvántartási és Képzési Központ (a továbbiakban: ENKK) engedélyének birtokában lehet.
 
 (2) Kiskorúakon tervezett beavatkozással nem járó vizsgálat esetén az ETT TUKEB gyermekgyógyász szakorvos véleményének birtokában hoz döntést.
 
@@ -24,7 +24,9 @@ c) az ETT-TUKEB etikai engedélyének másolatát,
 
 d) a vizsgálat lefolytatása során alkalmazott valamennyi dokumentum eredeti és magyar nyelvű változatát.
 
-[^10]: A 17. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^11]: A 17. § (1) bekezdés a) pontja a 308/2012. (XI. 6.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^12]: A 17. § (1) bekezdés b) pontja a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^13]: A 17. § (1) bekezdés c) pontját a 308/2012. (XI. 6.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 17. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^22]: A 17. § (1) bekezdés a) pontja a 308/2012. (XI. 6.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^23]: A 17. § (1) bekezdés b) pontja a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^24]: A 17. § (1) bekezdés b) pont ba) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^25]: A 17. § (1) bekezdés b) pont bb) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^26]: A 17. § (1) bekezdés c) pontját a 308/2012. (XI. 6.) Korm. rendelet 3. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
