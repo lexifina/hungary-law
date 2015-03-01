@@ -1,4 +1,4 @@
-16. § (1) A Kormány egészségügyi államigazgatási szervként az Országos Kémiai Biztonsági Intézetet jelöli ki a Kbtv.
+16. § (1)[^89] A Kormány egészségügyi államigazgatási szervként az Országos Közegészségügyi Központot jelöli ki a Kbtv.
 
 a) 6. § (1) és (2) bekezdése,
 
@@ -16,7 +16,7 @@ g) 26/A. §-a
 
 ## szerinti feladatok ellátására.
 
-(2) A Kormány az Országos Kémiai Biztonsági Intézetet jelöli ki a Kbtv. 24. § (1) bekezdése szerinti, a hazai és nemzetközi adatok feldolgozásáért felelős Információs Központ működtetésére.
+(2)[^90] A Kormány az Országos Közegészségügyi Központot jelöli ki a Kbtv. 24. § (1) bekezdése szerinti, a hazai és nemzetközi adatok feldolgozásáért felelős Információs Központ működtetésére.
 
 (3) A Kbtv. 25. § (4) bekezdése szerinti, a kémiai biztonságot koordináló tárcaközi bizottság tagjaiként a Kormány a Kbtv. 25. § (1) bekezdése alapján a következőket jelöli ki
 
@@ -41,3 +41,6 @@ i) a honvédelemért felelős miniszter,
 j) az egészségügyért felelős miniszter,
 
 k) a fogyasztóvédelemért felelős miniszter
+
+[^89]: A 16. § (1) bekezdés nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 55. § c) pontja szerint módosított szöveg.
+[^90]: A 16. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 55. § c) pontja szerint módosított szöveg.

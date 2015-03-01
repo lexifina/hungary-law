@@ -12,13 +12,13 @@ b) 140/E. § (5) bekezdésének b) pontja szerinti feladatok ellátása során e
 
 (4) Egészségügyi államigazgatási szervként a Kormány az Eüak.
 
-a)[^90] 15. § (1)–(3a) és (7) bekezdésének alkalmazásában az érintett lakóhelye, tartózkodási helye, munkahelye vagy a megbetegedés helye szerint illetékes járási népegészségügyi intézetet,
+a)[^97] 15. § (1)–(3a) és (7) bekezdésének alkalmazásában az érintett lakóhelye, tartózkodási helye, munkahelye vagy a megbetegedés helye szerint illetékes járási népegészségügyi intézetet,
 
-b)[^91]
+b)[^98]
 
 ## jelöli ki.
 
-(5)[^92] Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint járási népegészségügyi intézetet jelöli ki a Kbtv.
+(5)[^99] Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint járási népegészségügyi intézetet jelöli ki a Kbtv.
 
 a) 29. § (1) bekezdésének,
 
@@ -26,13 +26,14 @@ b) 32. § (1) bekezdés a) pontjának
 
 ## alkalmazásában.
 
-(6)[^93]
+(6)[^100]
 
-(7) Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (2) bekezdése szerinti feladatokat – a külön jogszabályban foglaltak szerint – a tisztifőgyógyszerész és tisztigyógyszerészek látják el.
+(7)[^101]
 
 (8) A víziközlekedésről szóló 2000. évi XLII. törvény 6. §-a szerinti feladatokat a miniszter külön jogszabály szerint, a Szolgálat és a megyei népegészségügyi szakigazgatási szerv útján látja el.
 
-[^90]: A 22. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 78. §-ával megállapított szöveg.
-[^91]: A 22. § (4) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 62. §-a hatályon kívül helyezte.
-[^92]: A 22. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^93]: A 22. § (6) bekezdését a 39/2013. (II. 14.) Korm. rendelet 24. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^97]: A 22. § (4) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 78. §-ával megállapított szöveg.
+[^98]: A 22. § (4) bekezdés b) pontját a 447/2012. (XII. 29.) Korm. rendelet 62. §-a hatályon kívül helyezte.
+[^99]: A 22. § (5) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^100]: A 22. § (6) bekezdését a 39/2013. (II. 14.) Korm. rendelet 24. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^101]: A 22. § (7) bekezdését a 30/2015. (II. 25.) Korm. rendelet 56. § f) pontja hatályon kívül helyezte.

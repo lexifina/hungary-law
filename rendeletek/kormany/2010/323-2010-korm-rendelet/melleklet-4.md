@@ -778,6 +778,6 @@
 
 | 8. | Hajdú-Bihar Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye |
 
-4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^128]
+4. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^142]
 
-[^128]: A 4. melléklet a 282/2011. (XII. 21.) Korm. rendelet 51. § (2) bekezdésével megállapított, a 137/2012. (VI. 29.) Korm. rendelet 67. § c) és d) pontja, a 176/2013. (VI. 3.) Korm. rendelet 9. §-a, az 527/2013. (XII. 30.) Korm. rendelet 96. § (2) bekezdése, a 42/2014. (II. 24.) Korm. rendelet 12. §-a, a 156/2014. (VI. 30.) Korm. rendelet 5. §-a, a 364/2014. (XII. 30.) Korm. rendelet 91. § c) pontja szerint módosított szöveg.
+[^142]: A 4. melléklet a 282/2011. (XII. 21.) Korm. rendelet 51. § (2) bekezdésével megállapított, a 137/2012. (VI. 29.) Korm. rendelet 67. § c) és d) pontja, a 176/2013. (VI. 3.) Korm. rendelet 9. §-a, az 527/2013. (XII. 30.) Korm. rendelet 96. § (2) bekezdése, a 42/2014. (II. 24.) Korm. rendelet 12. §-a, a 156/2014. (VI. 30.) Korm. rendelet 5. §-a, a 364/2014. (XII. 30.) Korm. rendelet 91. § c) pontja szerint módosított szöveg.

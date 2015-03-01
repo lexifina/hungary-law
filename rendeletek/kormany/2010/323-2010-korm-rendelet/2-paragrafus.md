@@ -4,7 +4,8 @@
 
 (2) Az OTH-t az országos tisztifőorvos vezeti.
 
-(3) Az országos tisztifőorvos tevékenységét a helyettes országos tisztifőorvosok és az országos tisztifőgyógyszerész segíti, akiket a miniszter nevez ki és ment fel, az egyéb munkáltatói jogokat az országos tisztifőorvos gyakorolja.
+(3)[^3] Az országos tisztifőorvos tevékenységét a helyettes országos tisztifőorvosok segítik, akiket a miniszter nevez ki és ment fel, az egyéb munkáltatói jogokat az országos tisztifőorvos gyakorolja.
 
 [^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 518. §-ával megállapított szöveg.
 [^2]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 518. §-ával megállapított szöveg.
+[^3]: A 2. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 51. §-ával megállapított szöveg.
