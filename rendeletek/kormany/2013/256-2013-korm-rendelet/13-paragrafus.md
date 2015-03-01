@@ -1,3 +1,5 @@
-## 12. § A 17. § és a 9. melléklet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
+## 12. §[^19]
 
 ## 8. Módosító rendelkezések
+
+[^19]: A 12. §-t a 30/2015. (II. 25.) Korm. rendelet 90. § c) pontja hatályon kívül helyezte.

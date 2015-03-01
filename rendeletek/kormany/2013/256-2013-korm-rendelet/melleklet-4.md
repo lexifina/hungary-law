@@ -1,3 +1,3 @@
-4. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^21]
+4. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^30]
 
-[^21]: A 4. melléklet a 40/2014. (II. 24.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^30]: A 4. melléklet a 40/2014. (II. 24.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.

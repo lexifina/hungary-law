@@ -296,13 +296,13 @@
 
 | 148. | Országos Epidemiológiai Központ | Budapest |
 
-| 149. | Országos Gyermekegészségügyi Intézet | Budapest |
+| 149. | Nemzeti Egészségfejlesztési Intézet | Budapest |
 
 | 150. | Országos Idegtudományi Intézet | Budapest |
 
 | 151. | Országos Korányi TBC és Pulmonológiai Intézet | Budapest |
 
-| 152. | Országos Környezetegészségügyi Intézet | Budapest |
+| 152. | Országos Közegészségügyi Központ | Budapest |
 
 | 153. | Országos Mentőszolgálat | Budapest |
 

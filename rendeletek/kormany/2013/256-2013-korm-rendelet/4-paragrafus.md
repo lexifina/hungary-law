@@ -1,19 +1,26 @@
-4. § (1) A 2013. szeptember 1-je és 2014. február 28-a közötti időszakban a 2013. július 1-jei munkáltatói foglalkoztatási adatok alapján havonta utalványozandó bruttó támogatási összeget szolgáltatói és havi bontásban a GYEMSZI – az igény megalapozottságának megállapítását követően – 2013. szeptember 20-áig továbbítja az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) részére.
+4. § (1)[^4]
 
-(2) 2014. március 1-jétől a havonta utalványozandó bruttó támogatási összeget szolgáltatói és havi bontásban a GYEMSZI – az igény megalapozottságának megállapítását követően –
+(2)[^5] A munkáltató a 3. § (1) bekezdésében meghatározott igénybejelentését az OEP által meghatározott, legalább 5 munkanapos határidővel megállapított időpontig nyújtja be az OEP részére.
 
-a) az adott év március 1-je és augusztus 31-e közötti időszakra vonatkozóan az adott év január 1-jei munkáltatói foglalkoztatási adatok alapján adott év február 20-áig, és
+(3)[^6] A 3. § (1) bekezdése alapján benyújtott igénybejelentés alapján az OEP a támogatási összeget
 
-b) az adott év szeptember 1-je és az adott évet követő év február 28-a közötti időszakra vonatkozóan az adott év július 1-jei munkáltatói foglalkoztatási adatok alapján adott év augusztus 21-éig
+a) az adott év március 1-je és augusztus 31-e közötti időszakra vonatkozóan az adott év január 1-jei munkáltatói foglalkoztatási adatok alapján,
 
-## továbbítja az OEP részére.
+b) az adott év szeptember 1-je és az adott évet követő év február 28-a közötti időszakra vonatkozóan az adott év július 1-jei munkáltatói foglalkoztatási adatok alapján
 
-(3) A munkáltató a 3. § (1) bekezdésében meghatározott igénybejelentését a GYEMSZI által meghatározott, legalább 5 munkanapos határidővel megállapított időpontig nyújtja be a GYEMSZI részére. A GYEMSZI által meghatározott időpont nem lehet későbbi, mint a GYEMSZI-nek az OEP tájékoztatására irányuló határnapját megelőző 5. nap.
+## állapítja meg.
 
-(4) Az igénylésnek megfelelő támogatási összeget – a GYEMSZI adatszolgáltatása alapján – az OEP havonta utalványozza a munkáltatónak.
+(4)[^7] A (3) bekezdés alapján megállapított vagy az 5. § (2) bekezdésében foglalt bejelentés figyelembe vételével módosított támogatási összeget az OEP havonta utalványozza a munkáltatónak.
 
 (5) Az e rendeletben foglalt támogatás fedezetéül az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: FinR.) 5. számú melléklete szerinti Célelőirányzatok jogcímen belül az illetmény- és bérnövelés fedezeteként nevesített előirányzat szolgál.
 
-(6) A munkáltató a 2013. január–szeptember hónapra ténylegesen kifizetett összegekkel 2013. október 15-éig elszámol a 6. melléklet szerinti tartalommal a GYEMSZI felé.
+(6)[^8] A munkáltató a ténylegesen kifizetett összegekkel a 6. melléklet szerinti tartalommal számol el az OEP felé.
 
-(7) A (6) bekezdésben foglalt elszámolás teljesítését követően az elszámolás a tárgyévet megelőző év október hónaptól a tárgyév szeptember hónapjáig tartó időszakra a ténylegesen kifizetett összegekkel október 15-ig esedékes.
+(7)[^9] A (6) bekezdésben foglalt elszámolás a tárgyévet megelőző év október hónaptól a tárgyév szeptember hónapjáig tartó időszakra a tárgyév október 15-ig esedékes.
+
+[^4]: A 4. § (1) bekezdését a 30/2015. (II. 25.) Korm. rendelet 90. § a) pontja hatályon kívül helyezte.
+[^5]: A 4. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (6) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (2) bekezdésével megállapított szöveg.
+[^9]: A 4. § (7) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (2) bekezdésével megállapított szöveg.
