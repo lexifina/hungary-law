@@ -1,4 +1,4 @@
-11/A. §[^48] (1) A lakhatási célú ingatlanok vonatkozásában a NET tv. 4. § (2) bekezdésében meghatározott feladatokat kizárólagos jog alapján az Ócsa Városüzemeltetési nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Városüzemeltetési Kft.) látja el.
+11/A. §[^49] (1) A lakhatási célú ingatlanok vonatkozásában a NET tv. 4. § (2) bekezdésében meghatározott feladatokat kizárólagos jog alapján az Ócsa Városüzemeltetési nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Városüzemeltetési Kft.) látja el.
 
 (2) A Városüzemeltetési Kft. által ellátandó feladatok körét a 2/A. melléklet határozza meg.
 
@@ -6,4 +6,4 @@
 
 (4) A Városüzemeltetési Kft. a feladatot közszolgáltatás keretében látja el.
 
-[^48]: A 11/A. §-t a 368/2013. (X. 24.) Korm. rendelet 8. §-a iktatta be.
+[^49]: A 11/A. §-t a 368/2013. (X. 24.) Korm. rendelet 8. §-a iktatta be.
