@@ -4,7 +4,7 @@
 
 5/B. §[^43] (1) A vízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint a minőségjavító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az OTH működteti a Humán felhasználású vizek informatikai rendszerét (a továbbiakban: HUMVI rendszer).
 
-(2) A HUMVI rendszerbe az OTH, valamint az OTH feljogosítását követően az OKI, az illetékes népegészségügyi szerv, továbbá az üzemeltető, és az üzemeltető által megbízott laboratórium tölthet fel adatokat.
+(2)[^44] A HUMVI rendszerbe az OTH, valamint az OTH feljogosítását követően az OKK, az illetékes népegészségügyi szerv, továbbá az üzemeltető, és az üzemeltető által megbízott laboratórium tölthet fel adatokat.
 
 (3) A HUMVI rendszerbe az üzemeltető és az általa megbízott ivóvízvizsgálatra akkreditált laboratórium a (4)–(7) bekezdésben foglaltak szerint rögzít adatokat.
 
@@ -39,3 +39,4 @@ g) vízfertőtlenítésének módja.
 [^41]: Az 5/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
 [^42]: Az 5/B. §-t megelőző alcímet a 364/2014. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
 [^43]: Az 5/B. §-t a 364/2014. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
+[^44]: Az 5/B. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

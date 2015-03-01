@@ -1,4 +1,4 @@
-8/A. §[^65] (1) Az első hazai forgalmazást megelőzően a forgalmazónak az 5. számú melléklet I. pont A) alpontjában felsorolt, az ivó- és használati melegvíz-ellátásban vízzel közvetlenül érintkező anyagokat, termékeket az OTH felé be kell jelenteni, az 5. számú melléklet II. pontjában előírt követelményeknek megfelelően. A bejelentésre nem köteles termékcsoportok felsorolását az 5. számú melléklet I. pont B) alpontja tartalmazza.
+8/A. §[^66] (1) Az első hazai forgalmazást megelőzően a forgalmazónak az 5. számú melléklet I. pont A) alpontjában felsorolt, az ivó- és használati melegvíz-ellátásban vízzel közvetlenül érintkező anyagokat, termékeket az OTH felé be kell jelenteni, az 5. számú melléklet II. pontjában előírt követelményeknek megfelelően. A bejelentésre nem köteles termékcsoportok felsorolását az 5. számú melléklet I. pont B) alpontja tartalmazza.
 
 (2) A bejelentés tudomásulvételét az OTH az (1) bekezdésben jelzett követelményeknek maradéktalanul megfelelő bejelentés beérkezésétől számított 8 napon belül visszaigazolja és a használat feltételeit meghatározza.
 
@@ -14,4 +14,4 @@
 
 (8) Az (1)–(7) bekezdésben foglalt előírásoknak az ivóvízellátáson kívül a közösségi használatra szánt használati melegvízzel és medencés fürdővizekkel érintkezésbe kerülő termékekre, anyagokra vonatkozóan is teljesülniük kell.
 
-[^65]: A 8/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 9. §-a iktatta be.
+[^66]: A 8/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 9. §-a iktatta be.

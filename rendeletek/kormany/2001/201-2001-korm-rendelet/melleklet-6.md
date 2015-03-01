@@ -20,9 +20,9 @@
 
 ## 2. Ivóvízkezelésben használatos természetes ásványi és szervetlen segédanyag, szűrőanyagok, amelyek minőségi követelményeire vonatkozóan van MSZ EN, MSZ EN ISO szabvány.
 
-## 3. Közüzemi ivóvízkezelő eljárás, amely az A) pont szerinti elemeket nem tartalmazza, vagy amelyről az OKI azt megállapítja.
+## 3. Közüzemi ivóvízkezelő eljárás, amely az A) pont szerinti elemeket nem tartalmazza, vagy amelyről az OKK azt megállapítja.
 
-## 4. Amennyiben az OKI szakvéleményében megállapította, hogy az alkalmazás közegészségügyi és vízbiztonsági kockázata a fogyasztóra nézve elhanyagolható.
+## 4. Amennyiben az OKK szakvéleményében megállapította, hogy az alkalmazás közegészségügyi és vízbiztonsági kockázata a fogyasztóra nézve elhanyagolható.
 
 ## C) Bejelentés közösségi használatra szánt használati melegvízzel és medencés fürdővízzel érintkező termékcsoportok esetében
 
@@ -62,7 +62,7 @@
 
 ## 1.7. A termék felhasználási területe (részletezve).
 
-## 1.8. Az OKI által kiadott pozitív elbírálású szakvélemény.
+## 1.8. Az OKK által kiadott pozitív elbírálású szakvélemény.
 
 ## 1.9. Használati útmutató
 
@@ -92,7 +92,7 @@
 
 ## III. Az OTH-hoz benyújtandó felülvizsgálati kérelem tartalmi követelményei
 
-## 1. A felülvizsgálatról szóló OKI által kiadott pozitív elbírálású szakvélemény.
+## 1. A felülvizsgálatról szóló OKK által kiadott pozitív elbírálású szakvélemény.
 
 ## 2. Gyártói nyilatkozat a termék változatlan gyártási körülményeiről.
 
@@ -120,9 +120,9 @@
 
 ## A kioldási vizsgálat során az 1., 2. és 6. napos áztató vizeket vizsgálják. Kedvezőtlen eredmény esetén az áztatást folytatják, és a kritikus komponenseket a 7., 8. és 9. nap után is mérik.
 
-## A vizsgálat során kioldódó anyagok mennyiségét felületegységre átszámítva értékelik attól is függően, hogy milyen a felhasználás módja. Műanyagok esetén a kioldódó összes szerves széntartalmat (TOC) minden esetben mérni és értékelni kell. A minősítés szempontjait az OKI a honlapján közzéteszi.
+## A vizsgálat során kioldódó anyagok mennyiségét felületegységre átszámítva értékelik attól is függően, hogy milyen a felhasználás módja. Műanyagok esetén a kioldódó összes szerves széntartalmat (TOC) minden esetben mérni és értékelni kell. A minősítés szempontjait az OKK a honlapján közzéteszi.
 
-6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^95]
+6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^96]
 
 Az ivóvízbiztonsági terv tartalmi követelményei
 
@@ -178,4 +178,4 @@ A vízellátórendszer főbb elemein végigvezetve kell a szükséges adatokat, 
 
 5. A fogyasztásra szánt ivóvíz egészségre és fogyaszthatóságra vonatkozó veszélyeinek kezelésére, kockázatuk csökkentésére beállított egyedi szabályzó dokumentumok és munkautasítások.
 
-[^95]: A 6. számú mellékletet a 22/2013. (II. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^96]: A 6. számú mellékletet a 22/2013. (II. 1.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte, újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be.
