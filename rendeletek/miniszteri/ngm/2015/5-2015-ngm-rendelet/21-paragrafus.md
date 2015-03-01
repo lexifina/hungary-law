@@ -1,0 +1,3 @@
+21. § (1) E rendelet rendelkezéseit – a (2) bekezdésben meghatározott kivétellel – az állami adó- és vámhatóság által 2015. március 1-jén és azt követően megállapított EKAER szám esetében kell először alkalmazni.
+
+(2) A biztosíték összegének meghatározása során az annak alapjául szolgáló időszakot 2015. március 1-jétől az első biztosítékadással érintett bejelentés időpontjáig kell számolni. Ha az első biztosítékadási kötelezettséggel érintett bejelentésre 2015. április 15-ét követően kerül sor, a biztosíték összegének alapjául szolgáló időszakot a 16. § (3) bekezdése alapján kell meghatározni.
