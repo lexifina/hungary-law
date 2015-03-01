@@ -1,5 +1,3 @@
-## 2K25110O_0
-
 |  | Ebr azonosító |  |  |  |  |  |  |
 
 |  | Önkormányzat |  |  |  |  |  |  |
@@ -16,6 +14,6 @@
 
 |  |  | jegyző |  |  | polgármester |  |  |
 
-5. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^148]
+5. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^145]
 
-[^148]: Az 5. melléklet a 315/2012. (XI. 13.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^145]: Az 5. melléklet a 315/2012. (XI. 13.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

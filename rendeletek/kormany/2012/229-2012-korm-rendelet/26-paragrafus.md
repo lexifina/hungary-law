@@ -8,7 +8,7 @@ b) az ellenőrzés eredményét az ellenőrzés befejezését követő tizenöt 
 
 c) a munkaterven felüli ellenőrzéssel érintett köznevelési intézmény és fenntartójának nevét és az ellenőrzés eredményét minden év november 15-ig
 
-rögzíti a KIR-ben.
+## rögzíti a KIR-ben.
 
 (3) A miniszter az illetékes kormányhivatal éves munkatervét az (1) bekezdésben meghatározott rendszerben február 20-ig jóváhagyja, és szükség esetén javaslatot tesz a kincstárnak és az illetékes kormányhivatalnak az együttes ellenőrzésre.
 

@@ -1,5 +1,3 @@
-## 2K25110M_0
-
 | Ebr azonosító |  |  |  |  |
 
 | TELEPÜLÉSI ÖNKORMÁNYZATRA VONATKOZÓ ADATSZOLGÁLTATÁS |

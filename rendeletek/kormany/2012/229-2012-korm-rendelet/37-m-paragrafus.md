@@ -10,7 +10,7 @@ c) a fenntartó által igénybe vett támogatások legalább három százalékka
 
 d) a fenntartó a támogatásokra vonatkozóan jogszabályban meghatározott valamely feltételt megszegett.
 
-(3)[^90] Az igénybevételi kamat mértéke
+(3)[^91] Az igénybevételi kamat mértéke
 
 a) – ha az igényelt támogatásokról – a fenntartó a tárgyév
 
@@ -28,7 +28,7 @@ bb) a jogosulatlan igénybevételt az Igazgatóság a 37/O. § szerinti ellenőr
 
 (5) Ha a jogosulatlanul igénybe vett támogatások összege nem haladja meg az ötszázezer forintot, az igénybevételi kamat mértéke a (3) bekezdésben meghatározott kamatmérték 50%-a.
 
-(6)[^91] E § alkalmazásában jegybanki alapkamaton a támogatások jogosulatlan igénybevételét megállapító döntés napját magában foglaló naptári félévet megelőző utolsó napon érvényes jegybanki alapkamatot kell érteni.
+(6)[^92] E § alkalmazásában jegybanki alapkamaton a támogatások jogosulatlan igénybevételét megállapító döntés napját magában foglaló naptári félévet megelőző utolsó napon érvényes jegybanki alapkamatot kell érteni.
 
-[^90]: A 37/M. § (3) bekezdése a 3/2015. (I. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^91]: A 37/M. § (6) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
+[^91]: A 37/M. § (3) bekezdése a 3/2015. (I. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^92]: A 37/M. § (6) bekezdése a 3/2015. (I. 28.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.

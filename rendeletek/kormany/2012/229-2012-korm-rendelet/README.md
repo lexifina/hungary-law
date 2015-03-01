@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2014-11-04 | 2012-229-20-22.15 | 268/2014. (XI. 3.) Korm. rendelet |
 | 2015-01-01 | 2012-229-20-22.16 | 365/2014. (XII. 30.) Korm. rendelet |
 | 2015-01-28 | 2012-229-20-22.17 | 3/2015. (I. 28.) Korm. rendelet |
+| 2015-03-01 | 2012-229-20-22.18 | 3/2015. (I. 28.) Korm. rendelet |

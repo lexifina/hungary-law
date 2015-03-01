@@ -1,5 +1,3 @@
-## 2K19073_0
-
 |  | Ebr azonosító |  |  |  |  |  |
 
 |  | Önkormányzat |  |  |  |  |  |
@@ -34,6 +32,6 @@
 
 | (fő)jegyző |  | polgármester |  |
 
-3/a. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^144]
+3/a. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^141]
 
-[^144]: A 3/a. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § j)–k) pontja szerint módosított szöveg.
+[^141]: A 3/a. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § j)–k) pontja szerint módosított szöveg.
