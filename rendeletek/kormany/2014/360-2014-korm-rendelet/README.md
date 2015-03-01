@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-360-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-02-28 | 2014-360-20-22.1 | 360/2014. (XII. 30.) Korm. rendelet |
+| 2015-03-01 | 2014-360-20-22.2 | 78/2016. (IV. 11.) Korm. rendelet |

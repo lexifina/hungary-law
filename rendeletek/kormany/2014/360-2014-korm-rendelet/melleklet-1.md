@@ -1,3 +1,5 @@
+## 4. §[^2]
+
 1. melléklet a 360/2014. (XII. 30.) Korm. rendelethez
 
 A minimális vagyonvédelmi szolgáltatási rezsióradíj egyes elemei
@@ -97,3 +99,5 @@ A minimális vagyonvédelmi szolgáltatási rezsióradíj egyes elemei
 | 9. ÖSSZESEN | 66 |
 
 | MINDÖSSZESEN | 1929 |
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
