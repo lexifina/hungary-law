@@ -12,8 +12,8 @@ c) továbbképzést szervez a szolgáltatók adatvédelmi felelősei számára.
 
 a) módszertani útmutatókat dolgoz ki a jogvédelmi képviselők tevékenységével, a beteg-, az ellátotti és a gyermekjogok védelmével, e jogok érvényesítésével, az egységes jogértelmezéssel és joggyakorlattal kapcsolatban, részt vesz az ezen jogokkal kapcsolatos tudományos kutatásokban,
 
-b)[^25] összegzi a jogvédelmi képviselők működésének gyakorlati tapasztalatait, az egészségügyi, szociális, gyermekjóléti és gyermekvédelmi szolgáltatást nyújtó szakembereknek szakmai segítséget, módszertani útmutatást nyújt, szakmai műhelyt és továbbképzési programot szervez, valamint képzési programot dolgoz ki és képzést tart a betegek, ellátottak, gyermekek jogainak érvényesülése érdekében,
+b)[^28] összegzi a jogvédelmi képviselők működésének gyakorlati tapasztalatait, az egészségügyi, szociális, gyermekjóléti és gyermekvédelmi szolgáltatást nyújtó szakembereknek szakmai segítséget, módszertani útmutatást nyújt, szakmai műhelyt és továbbképzési programot szervez, valamint képzési programot dolgoz ki és képzést tart a betegek, ellátottak, gyermekek jogainak érvényesülése érdekében,
 
 c) felkérésre előzetesen véleményezi a szolgáltatók panaszkezelésre vonatkozó, illetve a beteg-, az ellátotti és a gyermekjogokat érintő előírásait, szabályzatait.
 
-[^25]: A 19. § (2) bekezdés b) pontja a 364/2014. (XII. 30.) Korm. rendelet 100. §-ával megállapított szöveg.
+[^28]: A 19. § (2) bekezdés b) pontja a 364/2014. (XII. 30.) Korm. rendelet 100. §-ával megállapított szöveg.

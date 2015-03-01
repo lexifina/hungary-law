@@ -2,7 +2,7 @@
 
 20. § (1) Az OBDK feladat- és hatáskörében eljárva ellátja a két- és többoldalú kormányközi nemzetközi kapcsolatokból és az európai uniós tagságból eredő feladatokat, együttműködve az illetékes magyar szervekkel.
 
-(2)[^26] A kötelező egészségbiztosítás ellátásairól szóló törvény szerinti határon átnyúló egészségügyi ellátáshoz való jogok érvényesítése érdekében az OBDK tájékoztatást nyújt a betegek és az egészségügyi szakemberek számára
+(2)[^29] A kötelező egészségbiztosítás ellátásairól szóló törvény szerinti határon átnyúló egészségügyi ellátáshoz való jogok érvényesítése érdekében az OBDK tájékoztatást nyújt a betegek és az egészségügyi szakemberek számára
 
 a) a határon átnyúló egészségügyi ellátás igénybevételével kapcsolatos jogaikról és jogosultságaikról, a panasztételi eljárásokról és jogorvoslati mechanizmusokról, valamint a vitarendezésre szolgáló jogi és közigazgatási lehetőségekről, beleértve a határon átnyúló egészségügyi ellátásokból eredő károk esetét is,
 
@@ -12,21 +12,21 @@ c) a Magyarországon érvényes minőségi és biztonsági előírásokról és 
 
 d) a más tagállamban levő nemzeti kapcsolattartó pont vagy pontok elérhetőségéről,
 
-e)[^27] az egy adott tagállamban kiállított, de más tagállamban kiváltott orvosi rendelvényeken feltüntetendő elemekről.
+e)[^30] az egy adott tagállamban kiállított, de más tagállamban kiváltott orvosi rendelvényeken feltüntetendő elemekről.
 
 (3) Az OBDK a (2) bekezdésben írt jogkörében eljárva együttműködik más nemzeti kapcsolattartó pontokkal, az Európai Bizottsággal, betegszervezetekkel, egészségügyi szolgáltatókkal és egészségbiztosítókkal, az európai uniós szabályokkal összhangban.
 
-(4)[^28] Az OBDK a (2) bekezdésben meghatározott feladatainak az ellátása érdekében – a fogyatékkal élők számára akadálymentesen is elérhető – tájékoztató honlapot működtet és adattartalmának frissítéséről szükség szerint, de legalább 30 naponta gondoskodik.
+(4)[^31] Az OBDK a (2) bekezdésben meghatározott feladatainak az ellátása érdekében – a fogyatékkal élők számára akadálymentesen is elérhető – tájékoztató honlapot működtet és adattartalmának frissítéséről szükség szerint, de legalább 30 naponta gondoskodik.
 
-(5)[^29] Az OBDK a (4) bekezdés szerinti honlap működtetése és a (2) bekezdés szerinti feladatok ellátása érdekében történő adatszolgáltatásra vonatkozóan megállapodást köt az Országos Tisztifőorvosi Hivatallal, az Országos Egészségbiztosítási Pénztárral, a Gyógyszerészeti és Egészségügyi, Minőség- és Szervezetfejlesztési Intézettel, továbbá az Egészségügyi Engedélyezési és Közigazgatási Hivatallal.
+(5)[^32] Az OBDK a (4) bekezdés szerinti honlap működtetése és a (2) bekezdés szerinti feladatok ellátása érdekében történő adatszolgáltatásra vonatkozóan megállapodást köt az Országos Tisztifőorvosi Hivatallal, az Országos Egészségbiztosítási Pénztárral, az Állami Egészségügyi Ellátó Központtal, továbbá az Egészségügyi Nyilvántartási és Képzési Központtal.
 
-(6)[^30] Az (5) bekezdés szerinti megállapodásban meg kell határozni a honlap működtetéséhez és a (2) bekezdés szerinti tájékoztatás megadásához szükséges, továbbítandó adatköröket és az adatszolgáltatás rendjét.
+(6)[^33] Az (5) bekezdés szerinti megállapodásban meg kell határozni a honlap működtetéséhez és a (2) bekezdés szerinti tájékoztatás megadásához szükséges, továbbítandó adatköröket és az adatszolgáltatás rendjét.
 
-(7)[^31] Az OBDK közreműködik a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti határon átnyúló egészségügyi ellátásokkal kapcsolatos számlák tartalmára vonatkozó megkeresések kezelésében.
+(7)[^34] Az OBDK közreműködik a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti határon átnyúló egészségügyi ellátásokkal kapcsolatos számlák tartalmára vonatkozó megkeresések kezelésében.
 
-[^26]: A 20. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 55. § (1) bekezdésével megállapított szöveg.
-[^27]: A 20. § (2) bekezdés e) pontját a 364/2014. (XII. 30.) Korm. rendelet 101. §-a iktatta be.
-[^28]: A 20. § (4) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 55. § (2) bekezdése iktatta be.
-[^29]: A 20. § (5) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 55. § (2) bekezdése iktatta be.
-[^30]: A 20. § (6) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 55. § (2) bekezdése iktatta be.
-[^31]: A 20. § (7) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 55. § (2) bekezdése iktatta be.
+[^29]: A 20. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 55. § (1) bekezdésével megállapított szöveg.
+[^30]: A 20. § (2) bekezdés e) pontját a 364/2014. (XII. 30.) Korm. rendelet 101. §-a iktatta be.
+[^31]: A 20. § (4) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 55. § (2) bekezdése iktatta be.
+[^32]: A 20. § (5) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^33]: A 20. § (6) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 55. § (2) bekezdése iktatta be.
+[^34]: A 20. § (7) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 55. § (2) bekezdése iktatta be.

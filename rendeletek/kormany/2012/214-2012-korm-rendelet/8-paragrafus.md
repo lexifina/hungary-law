@@ -1,6 +1,6 @@
 8. § (1) A szolgáltató gondoskodik arról, hogy a jogvédelmi képviselő
 
-a)[^18] neve, elérhetősége, fogadóóráinak helye és időpontja a szolgáltató területén jól látható helyen kifüggesztésre kerüljön, továbbá, ha a szolgáltató honlapot üzemeltet, azon közzétételre kerüljön,
+a)[^21] neve, elérhetősége, fogadóóráinak helye és időpontja a szolgáltató területén jól látható helyen kifüggesztésre kerüljön, továbbá, ha a szolgáltató honlapot üzemeltet, azon közzétételre kerüljön,
 
 b) a szolgáltató területére beléphessen, munkáját zavartalanul végezhesse,
 
@@ -22,4 +22,4 @@ b) a szolgáltató működésével kapcsolatos észrevételre 15 napon belül é
 
 c) a szolgáltatást igénybe vevővel kapcsolatos dokumentáció megtekintésére, illetve a dokumentációról való másolat készítésére vonatkozó megkeresést, amennyiben a dokumentáció helyben rendelkezésre áll azonnal, egyéb esetben 5 munkanapon belül teljesíti.
 
-[^18]: A 8. § (1) bekezdés a) pontja a 364/2014. (XII. 30.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdés a) pontja a 364/2014. (XII. 30.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.

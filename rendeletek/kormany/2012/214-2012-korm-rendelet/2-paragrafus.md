@@ -1,6 +1,8 @@
+## 1/B. §[^3] Az OBDK gazdasági szervezettel rendelkezik.
+
 2. § (1) Az OBDK látja el
 
-a)[^3] az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 30. § (1) bekezdése,
+a)[^4] az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 30. § (1) bekezdése,
 
 b) a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 94/K. § (3) bekezdése és
 
@@ -10,17 +12,19 @@ szerinti szervezet feladatait, továbbá
 
 d) az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 30. § (4) bekezdés b) pontja szerinti, egyéb egészségügyi dokumentációt kezelő szerv működésével és
 
-e) a betegjogi, ellátottjogi és gyermekjogi képviselők (e rendelet alkalmazásában a továbbiakban: jogvédelmi képviselők) Nyilvántartásával (a továbbiakban: Nyilvántartás)
+e) a betegjogi, ellátottjogi és gyermekjogi képviselők (e rendelet alkalmazásában a továbbiakban: jogvédelmi képviselők) Nyilvántartásával (a továbbiakban: Nyilvántartás),
+
+f)[^5] az Eütv. 123. § (1) bekezdés b) pontja és (3) bekezdése szerinti egészségügyi államigazgatási szerv működésével
 
 kapcsolatos feladatokat.
 
-(2)[^4] Az OBDK hivatalból jár el, ha tudomására jut olyan tény, körülmény, vagy olyan intézkedés, illetve mulasztás, amely súlyos vagy az ellátottak nagyobb csoportját érintő betegjogi jogsérelmet okozhat, illetve az egészségügyi szolgáltatások hozzáférésével, az ellátásszervezéssel, a beutalási renddel, a betegtájékoztatással kapcsolatos.
+(2)[^6] Az OBDK hivatalból jár el, ha tudomására jut olyan tény, körülmény, vagy olyan intézkedés, illetve mulasztás, amely súlyos vagy az ellátottak nagyobb csoportját érintő betegjogi jogsérelmet okozhat, illetve az egészségügyi szolgáltatások hozzáférésével, az ellátásszervezéssel, a beutalási renddel, a betegtájékoztatással kapcsolatos.
 
-(3)[^5] Ha az ügy nem tartozik az OBDK hatáskörébe, erről a panaszost értesíteni kell. Az értesítés tartalmazza az ügyben hatáskörrel rendelkező szerv megnevezését is.
+(3)[^7] Ha az ügy nem tartozik az OBDK hatáskörébe, erről a panaszost értesíteni kell. Az értesítés tartalmazza az ügyben hatáskörrel rendelkező szerv megnevezését is.
 
-(4)[^6] Az OBDK – a (2) bekezdés szerinti esetekben – az irányító szerve felkérése alapján is indíthat vizsgálatot.
+(4)[^8] Az OBDK – a (2) bekezdés szerinti esetekben – az irányító szerve felkérése alapján is indíthat vizsgálatot.
 
-(5)[^7] A (2)–(4) bekezdés szerinti eljárás esetén az OBDK
+(5)[^9] A (2)–(4) bekezdés szerinti eljárás esetén az OBDK
 
 a) tájékoztatást kérhet az egészségügyi szolgáltató vezetőjétől, a fenntartótól, illetve az egészségügyi államigazgatási szervtől,
 
@@ -30,11 +34,16 @@ c) javaslatot tehet az adott üggyel kapcsolatos jogszabály tartalmára vonatko
 
 d) az egészségügyi szolgáltató vezetője, a fenntartó, valamint az eljárásban részt vevő más szerv részére ajánlást fogalmazhat meg.
 
-(6)[^8] Az (5) bekezdés d) pontja szerinti ajánlásban érintett szerv 60 napon belül tájékoztatja az OBDK-t az ajánlással kapcsolatos észrevételeiről.
+(6)[^10] Az (5) bekezdés d) pontja szerinti ajánlásban érintett szerv 60 napon belül tájékoztatja az OBDK-t az ajánlással kapcsolatos észrevételeiről.
 
-[^3]: A 2. § (1) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (2) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 96. §-ával megállapított szöveg.
-[^5]: A 2. § (3) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 96. §-a iktatta be.
-[^6]: A 2. § (4) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 96. §-a iktatta be.
-[^7]: A 2. § (5) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 96. §-a iktatta be.
-[^8]: A 2. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 96. §-a iktatta be.
+(7)[^11] Az egészségügyért felelős miniszter az Eütv. 151. § (1) bekezdésében meghatározott feladatát az OBDK közreműködésével látja el a Nemzeti Betegfórumról szóló miniszteri rendeletben meghatározottak szerint.
+
+[^3]: Az 1/B. §-t a 30/2015. (II. 25.) Korm. rendelet 66. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés f) pontját a 30/2015. (II. 25.) Korm. rendelet 67. § (1) bekezdése iktatta be.
+[^6]: A 2. § (2) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 96. §-ával megállapított szöveg.
+[^7]: A 2. § (3) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 96. §-a iktatta be.
+[^8]: A 2. § (4) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 96. §-a iktatta be.
+[^9]: A 2. § (5) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 96. §-a iktatta be.
+[^10]: A 2. § (6) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 96. §-a iktatta be.
+[^11]: A 2. § (7) bekezdését a 30/2015. (II. 25.) Korm. rendelet 67. § (2) bekezdése iktatta be.
