@@ -50,7 +50,7 @@ w) az új szolgáltatóknak, intézményeknek, ellátotti létszámnak, illetve 
 
 x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.
 
-y) a 32/D. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
+y) a 32/D. § (1) bekezdése és 37/C. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
 
 z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait, valamint a nyilvántartást vezető szerv kijelölését.
 
@@ -96,14 +96,10 @@ b)
 
 a) az aktív korúak ellátására jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
 
-b) a rendszeres szociális segélyre való jogosultságnak a 37. § (1) bekezdés a)–c) pontjában foglaltakon túli, az aktív korúak ellátására jogosult személy családi körülményeire, egészségi vagy mentális állapotára vonatkozó feltételeit, valamint a feltételek fennállásának igazolási szabályait,
-
-c) a rendszeres szociális segélyben részesülő személyek együttműködésének eljárási szabályait, a beilleszkedést segítő programok típusait és az együttműködés megszegésének eseteit
+b)–c)
 
 d) az étkeztetés jogosultsági feltételeinek részletes szabályait,
 
-e) a normatív lakásfenntartási támogatásra jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
+e)–f)
 
-f) a rendszeres szociális segély és a foglalkoztatást helyettesítő támogatás természetbeni szociális ellátás formájában történő nyújtásának eljárási szabályait és a természetbeni juttatás formáit,
-
-g) az önkormányzati segély megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályait.
+g) a települési támogatás keretében nyújtott ellátások jogosultsági feltételeit, valamint az ellátások megállapításának, kifizetésének, folyósításának, valamint felhasználása ellenőrzésének szabályait.

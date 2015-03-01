@@ -6,16 +6,18 @@
 
 a) a helyi önkormányzat képviselő-testülete,
 
-b) a települési önkormányzat polgármestere,
+b) a települési önkormányzat jegyzője (a továbbiakban: jegyző),
 
-c) a települési önkormányzat jegyzője (a továbbiakban: jegyző),
+c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), vagy
 
-d) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
+d) a szociális hatóság
 
-e) a szociális hatóság
+gyakorolja [az a)–d) pontokban foglaltak a továbbiakban együtt: szociális hatáskört gyakorló szerv].
 
-gyakorolja (a továbbiakban az a)–e) pontokban foglaltak együtt: szociális hatáskört gyakorló szerv).
+(2) A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében az e törvényben
 
-(2) A fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében az e törvényben a helyi önkormányzat képviselő-testülete számára meghatározott feladat- és hatásköröket a fővárosi önkormányzat közgyűlése, a települési önkormányzat polgármestere számára meghatározott feladat- és hatásköröket a főpolgármester, a jegyző számára meghatározott feladat- és hatásköröket a fővárosi főjegyző gyakorolja.
+a) a helyi önkormányzat képviselő-testülete számára meghatározott feladat- és hatásköröket a fővárosi önkormányzat közgyűlése,
 
-(3)–(5)
+b) a jegyző számára meghatározott feladat- és hatásköröket a fővárosi főjegyző
+
+gyakorolja.

@@ -4,31 +4,23 @@
 
 (3) Szociális rászorultság esetén a jogosult számára
 
-a) a települési önkormányzat jegyzője az e törvényben meghatározott feltételek szerint
+a) a járási hivatal – az e törvényben meghatározott feltételek szerint –
 
-aa) foglalkoztatást helyettesítő támogatást,
+aa) időskorúak járadékát,
 
-ab) rendszeres szociális segélyt,
+ab) foglalkoztatást helyettesítő támogatást,
 
-ac) lakásfenntartási támogatást;
+ac) egészségkárosodási és gyermekfelügyeleti támogatást,
 
-b) a települési önkormányzat képviselő-testülete az e törvényben, illetve a települési önkormányzat rendeletében meghatározott feltételek szerint
+ad) a 41. § (1) bekezdése szerinti ápolási díjat, a 43. § szerinti ápolási díjat (a továbbiakban: kiemelt ápolási díj), a 43/A. § (1) bekezdése szerinti ápolási díjat (a továbbiakban: emelt összegű ápolási díj);
 
-ba) a 43/B. § (1) bekezdése szerinti ápolási díjat (a továbbiakban: méltányossági ápolási díj),
-
-bb) önkormányzati segélyt;
-
-c) a járási hivatal az e törvényben meghatározott feltételek szerint
-
-ca) időskorúak járadékát,
-
-cb) a 41. § (1) bekezdése szerinti ápolási díjat, a 43. § szerinti ápolási díjat (a továbbiakban: kiemelt ápolási díj) vagy a 43/A. § (1) bekezdése szerinti ápolási díjat (a továbbiakban: emelt összegű ápolási díj)
+b) a képviselő-testület – az e törvényben és a települési önkormányzat rendeletében meghatározott feltételek szerint – települési támogatást
 
 állapít meg (a továbbiakban együtt: szociális rászorultságtól függő pénzbeli ellátások).
 
 (4) A jogosultságot megállapító szerv
 
-a) az időskorúak járadékára, a rendszeres szociális segélyre és az ápolási díjra (a továbbiakban együtt: havi rendszeres szociális ellátás) való jogosultság feltételeinek fennállását kétévente,
+a) az időskorúak járadékára, az egészségkárosodási és gyermekfelügyeleti támogatásra és az ápolási díjra (a továbbiakban együtt: havi rendszeres szociális ellátás) való jogosultság feltételeinek fennállását kétévente,
 
 b) a foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek fennállását évente
 
@@ -82,8 +74,10 @@ a) a (4)–(6) bekezdés szerinti felülvizsgálat során annak a havi rendszere
 
 b) a foglalkoztatást helyettesítő támogatásra való jogosultság, vagy a jogosultság jövedelmi feltételének (4) és (6) bekezdés szerinti felülvizsgálata során a foglalkoztatást helyettesítő támogatásra jogosult közfoglalkoztatásban való részvételéből származó jövedelmet,
 
-c) a rendszeres szociális segély (4)–(6) bekezdés szerinti felülvizsgálata során a rendszeres szociális segélyre jogosult személy közfoglalkoztatásban való részvételéből származó jövedelmet
+c)
 
 figyelmen kívül kell hagyni.
 
-(13) Ha a foglalkoztatást helyettesítő támogatás vagy a rendszeres szociális segély folyósítása e törvény rendelkezései alapján szünetel, az ellátások (4)–(6) bekezdés szerinti felülvizsgálatát a szünetelés megszűnését követően kell lefolytatni.
+(13) Ha a foglalkoztatást helyettesítő támogatás vagy a az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása e törvény rendelkezései alapján szünetel, az ellátások (4)–(6) bekezdés szerinti felülvizsgálatát a szünetelés megszűnését követően kell lefolytatni.
+
+(14) A jogosultnak a hatóság illetékességét érintő lakcímváltozása esetén a (3) bekezdés a) pontja szerinti ellátásokra való jogosultságot a lakcímváltozás hónapjának utolsó napjával meg kell szüntetni.

@@ -4,9 +4,7 @@ a) 100%-a a 41. § (1) bekezdésében meghatározott esetben,
 
 b) 180%-a a kiemelt ápolási díj esetében,
 
-c) 150%-a az emelt összegű ápolási díj esetében, és
-
-d) legalább 80%-a a méltányossági ápolási díj esetében.
+c) 150%-a az emelt összegű ápolási díj esetében.
 
 (2) Az ápolási díj havi összege a más rendszeres pénzellátásban – ide nem értve a 42. § (4) bekezdés a) pontja szerinti rendszeres pénzellátásokat, ha a 42. § (4) bekezdésében foglalt feltételek fennállnak – részesülő jogosult esetén az (1) bekezdés szerinti összegnek és a jogosult részére folyósított más rendszeres pénzellátás havi bruttó összegének a különbözete. Ha a különbözet az ezer forintot nem éri el, a jogosult részére ezer forint összegű ápolási díjat kell megállapítani.
 

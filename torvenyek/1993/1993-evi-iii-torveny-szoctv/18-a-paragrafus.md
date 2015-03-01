@@ -26,7 +26,7 @@ de) megszűnésének vagy megszüntetésének jogcímét;
 
 e) a szociális ellátásra való jogosultsággal összefüggő érdemi döntés jogerőre emelkedésének időpontját;
 
-f) a szociális ellátás megállapításánál figyelembe vett, egy főre jutó jövedelem összegét;
+f) a szociális ellátás megállapításánál figyelembe vett, egy főre vagy egy fogyasztási egységre jutó jövedelem összegét;
 
 g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozói jogcímen történő tartózkodás esetén a rokoni kapcsolatot;
 
@@ -34,4 +34,6 @@ h) az ápolási díjra jogosult személy adóazonosító jelét;
 
 i) azt a tényt, hogy a jogosult részére az ellátás folyósítása a hajléktalan személyekre vonatkozó szabályok szerint történik;
 
-j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét.
+j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
+
+k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó törvényben foglalt adatokat.

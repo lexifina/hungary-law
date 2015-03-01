@@ -1,19 +1,23 @@
-## Önkormányzati segély
+## Települési támogatás
 
-45. § (1) A települési önkormányzat képviselő-testülete a létfenntartást veszélyeztető rendkívüli élethelyzetbe került, valamint az időszakosan vagy tartósan létfenntartási gonddal küzdő személyek részére a rendeletében meghatározottak szerint önkormányzati segélyt nyújt. Önkormányzati segély pénzügyi szolgáltatási tevékenységnek nem minősülő kamatmentes kölcsön formájában is nyújtható.
+45. § (1) A képviselő-testület az e törvény rendelkezései alapján nyújtott pénzbeli és természetbeni ellátások kiegészítéseként, önkormányzati rendeletben meghatározott feltételek alapján települési támogatást nyújt. Települési támogatás keretében nyújtható támogatás különösen
 
-(2) A fővárosban – ha a fővárosi önkormányzat és a kerületi önkormányzat másként nem állapodik meg – a hajléktalanok önkormányzati segélyezése a fővárosi önkormányzat feladata.
+a) a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez,
 
-(3) Önkormányzati segély adható eseti jelleggel vagy meghatározott időszakra havi rendszerességgel.
+b) a 18. életévét betöltött tartósan beteg hozzátartozójának az ápolását, gondozását végző személy részére,
 
-(4) Önkormányzati segélyben elsősorban azokat a személyeket indokolt részesíteni, akik önmaguk, illetve családjuk létfenntartásáról más módon nem tudnak gondoskodni vagy alkalmanként jelentkező, nem várt többletkiadások – így különösen betegséghez, halálesethez, elemi kár elhárításához, a válsághelyzetben lévő várandós anya gyermekének megtartásához, iskoláztatáshoz, a gyermek fogadásának előkészítéséhez, a nevelésbe vett gyermek családjával való kapcsolattartásához, a gyermek családba való visszakerülésének elősegítéséhez kapcsolódó kiadások – vagy a gyermek hátrányos helyzete miatt anyagi segítségre szorulnak.
+c) a gyógyszerkiadások viseléséhez,
 
-(5) Önkormányzati segély esetén az ellátás megállapításánál figyelembe vehető, egy főre számított havi családi jövedelemhatárt az önkormányzat rendeletében úgy kell szabályozni, hogy az nem lehet alacsonyabb az öregségi nyugdíj mindenkori legkisebb összegének 130%-ánál.
+d) a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek részére.
 
-(6) Az elhunyt személy eltemettetésének költségeihez való hozzájárulásként megállapított önkormányzati segély összege nem lehet kevesebb a helyben szokásos legolcsóbb temetés költségének 10%-ánál, de elérheti annak teljes összegét, ha a temetési költségek viselése a kérelmező vagy családja létfenntartását veszélyezteti.
+(2) Más jogszabály alkalmazásában az (1) bekezdés a) pontja szerinti célra nyújtott települési támogatást lakásfenntartási támogatásnak kell tekinteni.
 
-(7) A temetési költségek finanszírozása érdekében önkormányzati segély nem állapítható meg annak a személynek, aki a hadigondozásról szóló törvény alapján temetési hozzájárulásban részesül.
+(3) A képviselő-testület a létfenntartást veszélyeztető rendkívüli élethelyzetbe került, valamint az időszakosan vagy tartósan létfenntartási gonddal küzdő személyek részére rendkívüli települési támogatást köteles nyújtani.
 
-(8) Az önkormányzati segély kérelemre és hivatalból – különösen nevelési-oktatási intézmény, gyámhatóság, továbbá más családvédelemmel foglalkozó intézmény, illetve természetes személy vagy a gyermekek érdekeinek védelmét ellátó társadalmi szervezet kezdeményezésére – is megállapítható.
+(4) Rendkívüli települési támogatásban elsősorban azokat a személyeket indokolt részesíteni, akik önmaguk, illetve családjuk létfenntartásáról más módon nem tudnak gondoskodni vagy alkalmanként jelentkező többletkiadások – így különösen betegséghez, halálesethez, elemi kár elhárításához, a válsághelyzetben lévő várandós anya gyermekének megtartásához, iskoláztatáshoz, a gyermek fogadásának előkészítéséhez, a nevelésbe vett gyermek családjával való kapcsolattartásához, a gyermek családba való visszakerülésének elősegítéséhez kapcsolódó kiadások – vagy a gyermek hátrányos helyzete miatt anyagi segítségre szorulnak.
 
-(9) Az önkormányzati segély iránti kérelemről a kérelem beérkezését vagy a hivatalbóli eljárás megindítását követő 15 napon belül kell dönteni.
+(5) A rendkívüli települési támogatás kérelemre és hivatalból – különösen nevelési-oktatási intézmény, gyámhatóság vagy más családvédelemmel foglalkozó intézmény, illetve természetes személy vagy a gyermekek érdekeinek védelmét ellátó társadalmi szervezet kezdeményezésére – is megállapítható.
+
+(6) Ha a fővárosi önkormányzat és a kerületi önkormányzat nem állapodik meg ettől eltérően, a fővárosban a hajléktalanok számára nyújtott rendkívüli települési támogatás megállapítása a fővárosi önkormányzat feladata.
+
+(7) A települési önkormányzat rendeletében a havi rendszerességgel nyújtott települési támogatás – ide nem értve az (1) bekezdés d) pontja szerinti célra nyújtott támogatást – havi összegét úgy kell szabályozni, hogy az nem haladhatja meg az öregségi nyugdíj mindenkori legkisebb összegét.

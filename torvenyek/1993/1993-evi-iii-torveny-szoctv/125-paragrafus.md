@@ -4,7 +4,7 @@ a) a) központi költségvetésről szóló törvényben biztosított támogatá
 
 b) kötött felhasználású foglalkoztatási támogatással;
 
-c) a lakásfenntartási támogatáshoz [38. § (2) és (5) bek.] és az adósságcsökkentési támogatáshoz kötött felhasználású támogatásokkal;
+c)
 
 d)
 

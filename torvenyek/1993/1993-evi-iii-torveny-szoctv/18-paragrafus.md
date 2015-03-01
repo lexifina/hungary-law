@@ -1,8 +1,8 @@
 ## Adatkezelés
 
-18. § A jegyző a települési önkormányzat és a jegyző feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság megállapítása, az ellátások biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+18. § A jegyző a települési önkormányzat képviselő-testületének feladat- és hatáskörébe tartozó szociális ellátásokra való jogosultság megállapítása, az ellátások biztosítása, fenntartása és megszüntetése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
-a) a jogosult és az adott ellátás megállapítása során e törvény rendelkezései alapján figyelembe vett más személyek
+a) a jogosult és az adott ellátás megállapítása során e törvény rendelkezései, illetve a települési önkormányzat rendelete alapján figyelembe vett más személyek
 
 aa) természetes személyazonosító adatait,
 
@@ -32,15 +32,13 @@ f) a szociális ellátás megállapítása során figyelembe vett, egy főre vag
 
 g) a 3. § (3) és (4) bekezdése szerinti személy esetében a Magyarországon tartózkodás jogcímét, hozzátartozói jogcímen történő tartózkodás esetén a rokoni kapcsolatot;
 
-h) az ápolási díjra jogosult személy adóazonosító jelét;
-
-i) azt a tényt, hogy a jogosult részére az ellátás folyósítása a hajléktalan személyekre vonatkozó szabályok szerint történik;
+h)–i)
 
 j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
 
-k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó, külön törvényben foglalt adatokat;
+k)
 
-l) a lakásfenntartási támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
+l) a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatás természetbeni szociális ellátás formájában történő nyújtása esetén
 
 la) a támogatott szolgáltatást szolgáltatási vagy közszolgáltatási szerződés alapján szerződőként igénybe vevő fogyasztónak és a fogyasztási helynek a szolgáltató általi azonosításához szükséges adatot,
 

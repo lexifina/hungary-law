@@ -18,7 +18,7 @@ f) a jogosult számára megállapított, a jogosultsági időtartam alatt még f
 
 g) a jogosult közgyógyellátási igazolványának számát,
 
-h) a támogatás jogcímét (alanyi, normatív, méltányossági),
+h) a támogatás jogcímét (alanyi, normatív),
 
 i) a közgyógyellátásra jogosult által a közgyógyellátás terhére igénybe vett gyógyszert és gyógyászati segédeszközt.
 

@@ -8,7 +8,7 @@ b) az egyedülálló, a reá irányadó nyugdíjkorhatárt betöltött, de 75 é
 
 c) az egyedülálló, 75. életévét betöltött személyt, akinek havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 130%-át.
 
-(2) Az aktív korúak ellátására való jogosultságnak a nyugdíjkorhatár betöltésére tekintettel történő megszüntetéséről hozott határozatát a jegyző, annak jogerőre emelkedését követően haladéktalanul megküldi az illetékes járási hivatalnak. A járási hivatal a határozat megérkezését követő öt napon belül, hivatalból eljárást indít az időskorúak járadékára való jogosultság megállapítása iránt. A jogosultság megállapítása esetén annak kezdő napja az aktív korúak ellátására való jogosultság megszűnését követő nap.
+(2) Az aktív korúak ellátására való jogosultságnak a nyugdíjkorhatár betöltésére tekintettel történő megszüntetése esetén a járási hivatal a döntés jogerőre emelkedését követően haladéktalanul, hivatalból eljárást indít az időskorúak járadékára való jogosultság megállapítása iránt. A jogosultság megállapítása esetén annak kezdő napja az aktív korúak ellátására való jogosultság megszűnését követő nap.
 
 (3) A járási hivatal időskorúak járadékában részesíti a 3. § (3) bekezdés b) pontjában, valamint (4) bekezdésében meghatározott személyt, amennyiben az e törvényben foglalt feltételeknek megfelel.
 

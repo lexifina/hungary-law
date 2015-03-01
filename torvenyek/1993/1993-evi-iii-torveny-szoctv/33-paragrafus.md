@@ -1,6 +1,6 @@
 ## Aktív korúak ellátása
 
-33. § (1) Az aktív korúak ellátása a hátrányos munkaerő-piaci helyzetű aktív korú személyek és családjuk részére nyújtott ellátás. A jegyző aktív korúak ellátására való jogosultságot állapít meg annak az aktív korú személynek,
+33. § (1) Az aktív korúak ellátása a hátrányos munkaerő-piaci helyzetű aktív korú személyek és családjuk részére nyújtott ellátás. A járási hivatal aktív korúak ellátására való jogosultságot állapít meg annak az aktív korú személynek,
 
 a) aki munkaképességét legalább 67%-ban elvesztette, aki legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg az 50%-os mértéket, vagy
 
@@ -50,6 +50,6 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 (5) Aktív korúak ellátására egy családban egyidejűleg – a (6) bekezdésben meghatározott kivétellel – csak egy személy jogosult.
 
-(6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a foglalkoztatást helyettesítő támogatás, míg a másik személy a rendszeres szociális segély feltételeinek felel meg.
+(6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a foglalkoztatást helyettesítő támogatás, míg a másik személy az egészségkárosodási és gyermekfelügyeleti támogatás feltételeinek felel meg.
 
-(7) A települési önkormányzat rendeletében az aktív korúak ellátására való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a jegyzőnek – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania.
+(7) A települési önkormányzat rendeletében az aktív korúak ellátására való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a járási hivatalnak – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania.
