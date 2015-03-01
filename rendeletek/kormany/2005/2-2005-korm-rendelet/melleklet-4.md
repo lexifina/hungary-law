@@ -98,9 +98,9 @@
 
 ## a fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája;
 
-## j) kémiai biztonságra kiterjedően:
+## j)[^32] kémiai biztonságra kiterjedően:
 
-## a Fodor József Országos Közegészségügyi Központ Országos Kémiai Biztonsági Intézete;
+## az Országos Közegészségügyi Központ;
 
 ## k) súlyos ipari balesetek megelőzésére kiterjedően:
 
@@ -114,7 +114,7 @@
 
 1.1. előzmények, különösen a tematika tartalma;
 
-1.2. a tervezési folyamat más részeihez[^32] való kapcsolódása;
+1.2. a tervezési folyamat más részeihez[^33] való kapcsolódása;
 
 1.3. a környezeti értékelés készítése során tett javaslatok hatása a terv, illetve program alakulására;
 
@@ -126,7 +126,7 @@
 
 2.1. a terv, illetve program céljainak, tartalmának összefoglaló ismertetése, kiemelve a környezeti értékelés készítése szempontjából fontos részeket;
 
-2.2. a terv, illetve program összefüggése más releváns tervekkel, illetve programokkal[^33];
+2.2. a terv, illetve program összefüggése más releváns tervekkel, illetve programokkal[^34];
 
 2.3. a változatok közötti választás indokai, a választást alátámasztó vizsgálat rövid leírása.
 
@@ -158,7 +158,7 @@
 
 3.6.1. jól azonosítható környezet igénybevétel vagy terhelés esetén különös tekintettel:
 
-3.6.1.1. a környezeti elemekre (földre, levegőre, vízre, élővilágra, épített környezetre, ez utóbbi részeként az építészeti és régészeti örökségre[^34]),
+3.6.1.1. a környezeti elemekre (földre, levegőre, vízre, élővilágra, épített környezetre, ez utóbbi részeként az építészeti és régészeti örökségre[^35]),
 
 3.6.1.2. a környezeti elemek rendszereire, folyamataira, szerkezetére, különösen a tájra, településre, klímára, természeti (ökológiai) rendszerre, a biodiverzitásra,
 
@@ -205,6 +205,7 @@
 [^29]: A 3. számú melléklet II. cím 2. pont f) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a, a 296/2012. (X. 17.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
 [^30]: A 3. számú melléklet II.2. pontjának g) alpontja a 269/2006. (XII. 20.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^31]: A 3. számú melléklet II. cím 2. pont i) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a szerint módosított szöveg.
-[^32]: A „tervezési folyamat” jelenti a terv, illetve program dokumentáció kidolgozásának folyamatát.
-[^33]: Releváns az a terv, illetve program, ami például a tervezési hierarchiában elfoglalt helyéből következően a vizsgált terv, illetve program számára előírásokat, szempontokat tartalmaz, vagy más módon hatással lehet a terv, illetve program megvalósítására, illetve a vizsgált terv, illetve program befolyásolja a másik terv, illetve program megvalósulását.
-[^34]: Ha a terv, illetve program kidolgozása során a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 66. § (2) bekezdése, illetve az örökségvédelmi hatástanulmányról szóló 4/2003. (II. 20.) NKÖM rendelet szerint örökségvédelmi hatástanulmányt kell készíteni, akkor e hatástanulmány felhasználásával.
+[^32]: A 3. számú melléklet II. rész II.2. pont j) alpontja a 30/2015. (II. 25.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^33]: A „tervezési folyamat” jelenti a terv, illetve program dokumentáció kidolgozásának folyamatát.
+[^34]: Releváns az a terv, illetve program, ami például a tervezési hierarchiában elfoglalt helyéből következően a vizsgált terv, illetve program számára előírásokat, szempontokat tartalmaz, vagy más módon hatással lehet a terv, illetve program megvalósítására, illetve a vizsgált terv, illetve program befolyásolja a másik terv, illetve program megvalósulását.
+[^35]: Ha a terv, illetve program kidolgozása során a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 66. § (2) bekezdése, illetve az örökségvédelmi hatástanulmányról szóló 4/2003. (II. 20.) NKÖM rendelet szerint örökségvédelmi hatástanulmányt kell készíteni, akkor e hatástanulmány felhasználásával.

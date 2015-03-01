@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-2-20-22
 | 2014-01-01 | 2005-2-20-22.14 | 377/2007. (XII. 23.) Korm. rendelet |
 | 2014-04-02 | 2005-2-20-22.15 | 100/2014. (III. 25.) Korm. rendelet |
 | 2014-09-05 | 2005-2-20-22.16 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-03-01 | 2005-2-20-22.17 | 30/2015. (II. 25.) Korm. rendelet |
