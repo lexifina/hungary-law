@@ -58,7 +58,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 9. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-|  | 10. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+|  | 10. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 2. A bányafelügyelet hatáskörébe tartozó egyes sajátos építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendelet szerinti építésügyi engedélyezési eljárások
 
@@ -98,7 +98,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 17. | Környezet- és természetvédelem | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-|  | 18. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+|  | 18. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 3. Vízjogi (vízkivétel) engedély
 
@@ -214,4 +214,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 |  | 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^5]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 62. §-a, a 414/2012. (XII. 29.) Korm. rendelet 13. §-a, az 527/2013. (XII. 30.) Korm. rendelet 121. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 100. § (2) bekezdése és 101. § b)–e) pontja szerint módosított szöveg.
+[^5]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 62. §-a, a 414/2012. (XII. 29.) Korm. rendelet 13. §-a, az 527/2013. (XII. 30.) Korm. rendelet 121. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 100. § (2) bekezdése és 101. § b)–e) pontja, a 30/2015. (II. 25.) Korm. rendelet 73. §-a szerint módosított szöveg.

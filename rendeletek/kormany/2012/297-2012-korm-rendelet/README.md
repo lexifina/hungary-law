@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-297-20-
 | 2013-01-01 | 2012-297-20-22.2 | 394/2012. (XII. 20.) Korm. rendelet |
 | 2014-01-01 | 2012-297-20-22.3 | 394/2012. (XII. 20.) Korm. rendelet |
 | 2014-09-13 | 2012-297-20-22.4 | 394/2012. (XII. 20.) Korm. rendelet |
+| 2015-03-01 | 2012-297-20-22.5 | 394/2012. (XII. 20.) Korm. rendelet |
