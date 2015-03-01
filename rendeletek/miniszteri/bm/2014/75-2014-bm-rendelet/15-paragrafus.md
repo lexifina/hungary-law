@@ -1,3 +1,3 @@
-## 14. §[^2]
+## 14. § A belföldi Állami Futárszolgálat tevékenységének szabályozásáról szóló 44/1998. (X. 14.) BM rendelet 9. §-a a következő (1a) bekezdéssel egészül ki:
 
-[^2]: A 14. § a 12. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
+## „(1a) A futárszolgálat a szolgáltatást az egységes kormányzati ügyiratkezelő rendszer telephelyéről naponta egyszer, hétfőtől csütörtökig 13 órai, pénteken 10 órai indulással teljesíti.”
