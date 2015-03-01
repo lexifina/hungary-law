@@ -16,12 +16,16 @@ f) ellátja a jogszabályok előkészítésében való társadalmi részvételr�
 
 g) segíti a miniszter által vezetett minisztérium jogszabály-előkészítési feladatainak ellátását a miniszter felkérése alapján folytatott tudományos kutatói tevékenysége útján,
 
-h) támogatja a jogi szakvizsgabizottság és a Magyar Közlöny Lap- és Könyvkiadó Kft. tevékenységét.
+h)[^1] támogatja a jogi szakvizsgáztatás és a Magyar Közlöny Lap- és Könyvkiadó Kft. tevékenységét;
+
+i)[^2] ellátja a bírósági végrehajtásról szóló 1994. évi LIII. törvény 254/I. §-a szerinti feladatokat.
 
 (2) A jogi segítségnyújtással, az áldozatsegítéssel kapcsolatos igazságügyi igazgatási, valamint közigazgatási hatósági ügyekben az e rendeletben foglalt kivételekkel első fokon az igazságügyi szolgálat, másodfokon az Igazságügyi Hivatal jár el. A büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével a pártfogó felügyelői tevékenységgel kapcsolatos ügyekben az igazságügyi szolgálat, az e rendeletben meghatározott esetekben az Igazságügyi Hivatal jár el.
 
 (3) Az igazságügyi szolgálatok jogi segítségnyújtási, áldozatsegítési és pártfogó felügyelői feladatokat ellátó szervezeti egységei a székhelyüktől eltérő településeken (kerületekben) kihelyezett ügyfélszolgálati irodákat működtethetnek. Az igazságügyi szolgálatok pártfogó felügyelői tevékenységet ellátó szervezeti egységei közösségi foglalkoztatókat működtethetnek. A kihelyezett ügyfélszolgálatok és közösségi foglalkoztatók tevékenységének szakmai ellenőrzését az Igazságügyi Hivatal látja el.
 
-(4)[^1] Az igazságügyi szolgálat tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében és 7. §-ában meghatározott hatáskörök – az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az Igazságügyi Hivatal főigazgatója.
+(4)[^3] Az igazságügyi szolgálat tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében és 7. §-ában meghatározott hatáskörök – az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az Igazságügyi Hivatal főigazgatója.
 
-[^1]: A 3. § (4) bekezdése a 233/2014. (XII. 31.) Korm. rendelet 94. §-a szerint módosított szöveg.
+[^1]: A 3. § (1) bekezdés h) pontja a 25/2015. (II. 25.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés i) pontját a 25/2015. (II. 25.) Korm. rendelet 38. § (1) bekezdése iktatta be.
+[^3]: A 3. § (4) bekezdése a 233/2014. (XII. 31.) Korm. rendelet 94. §-a szerint módosított szöveg.
