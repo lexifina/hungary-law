@@ -30,9 +30,9 @@ d) a futárjegyzék címzettjének szóló nem minősített küldemények nyilv�
 
 e) a kézbesítő személy aláírását és a futárszolgálat bélyegzőlenyomatát.
 
-(6)[^15] A futárjegyzéken a nyilvántartási számmal feladott küldeményeket darabonként felülről lefelé sorszámozva kell szerepeltetni. Ha a küldemény több nyilvántartási számmal ellátott adathordozót tartalmaz, a küldemény címoldalán valamennyi nyilvántartási számot fel kell tüntetni. A futárjegyzékbe az első (bal felső) nyilvántartási számot kell a küldemény azonosíthatósága végett beírni.
+(6)[^16] A futárjegyzéken a nyilvántartási számmal feladott küldeményeket darabonként felülről lefelé sorszámozva kell szerepeltetni. Ha a küldemény több nyilvántartási számmal ellátott adathordozót tartalmaz, a küldemény címoldalán valamennyi nyilvántartási számot fel kell tüntetni. A futárjegyzékbe az első (bal felső) nyilvántartási számot kell a küldemény azonosíthatósága végett beírni.
 
-(7)[^16] A futárjegyzéken a „Szigorúan titkos!” minősítési jelölés „SZT!”, a „Titkos!” minősítési jelölés „T!”, a „Bizalmas!” minősítési jelölés „B!”, a „Korlátozott terjesztésű!” minősítési jelölés „KT!” betűkkel rövidíthető.
+(7)[^17] A futárjegyzéken a „Szigorúan titkos!” minősítési jelölés „SZT!”, a „Titkos!” minősítési jelölés „T!”, a „Bizalmas!” minősítési jelölés „B!”, a „Korlátozott terjesztésű!” minősítési jelölés „KT!” betűkkel rövidíthető.
 
 (8) Küldemény felvételekor és kézbesítéskor a futárjegyzéket két példányban kell kiállítani, amelynek az eredeti példánya az átvétel igazolása után a futárszolgálatnál, a másik a bekapcsolt szervnél marad.
 
@@ -44,5 +44,5 @@ b) a futárzsákban el kell helyezni a futárjegyzék (4), illetve (5) bekezdés
 
 c) az a)–b) pontban szereplő futárjegyzékeket együtt kell megőrizni.
 
-[^15]: A 12. § (6) bekezdése a 38/2007. (VII. 20.) IRM rendelet 4. §-ával megállapított szöveg.
-[^16]: A 12. § (7) bekezdése a 39/2004. (VI. 29.) BM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 12. § (6) bekezdése a 38/2007. (VII. 20.) IRM rendelet 4. §-ával megállapított szöveg.
+[^17]: A 12. § (7) bekezdése a 39/2004. (VI. 29.) BM rendelet 3. §-ával megállapított szöveg.

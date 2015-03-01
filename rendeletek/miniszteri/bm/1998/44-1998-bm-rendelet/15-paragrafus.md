@@ -1,6 +1,6 @@
 ## A küldemény felvétele és kézbesítése
 
-15. § (1)[^22] A futárszolgálat a küldeményt a bekapcsolt szerv iratkezelő szervétől veszi át (küldeményfelvétel), illetőleg ott kézbesíti. A küldeményfelvétel és kézbesítés a futárszervnél történik, ha a futárszerv és a bekapcsolt szerv egy épületben vagy több épületből álló zárt objektumban van elhelyezve, valamint akkor, ha a futárszolgálat és a bekapcsolt szerv ebben megállapodik. Ugyanez az eljárás akkor is, ha a bekapcsolt szerv nem biztosítja a – magát a 7. § (7) bekezdésében meghatározott okmányokkal igazoló – futár soron kívüli beléptetését, járművének behajtását, illetőleg a bekapcsolt szerv a futárgépjárművel nem közelíthető meg.
+15. § (1)[^23] A futárszolgálat a küldeményt a bekapcsolt szerv iratkezelő szervétől veszi át (küldeményfelvétel), illetőleg ott kézbesíti. A küldeményfelvétel és kézbesítés a futárszervnél történik, ha a futárszerv és a bekapcsolt szerv egy épületben vagy több épületből álló zárt objektumban van elhelyezve, valamint akkor, ha a futárszolgálat és a bekapcsolt szerv ebben megállapodik. Ugyanez az eljárás akkor is, ha a bekapcsolt szerv nem biztosítja a – magát a 7. § (7) bekezdésében meghatározott okmányokkal igazoló – futár soron kívüli beléptetését, járművének behajtását, illetőleg a bekapcsolt szerv a futárgépjárművel nem közelíthető meg.
 
 (2) Küldemény felvételére futáron kívül a futárszolgálat vezetője által meghatalmazott más futárszolgálati alkalmazott is jogosult.
 
@@ -16,4 +16,4 @@
 
 (8) A feladó kérésére a kézbesítés várható idejét a futárszolgálat a küldemény felvételekor közli.
 
-[^22]: A 15. § (1) bekezdése a 39/2004. (VI. 29.) BM rendelet 4. §-ával megállapított, a 35/2010. (V. 12.) IRM rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^23]: A 15. § (1) bekezdése a 39/2004. (VI. 29.) BM rendelet 4. §-ával megállapított, a 35/2010. (V. 12.) IRM rendelet 3. § (4) bekezdése szerint módosított szöveg.

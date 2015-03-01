@@ -2,7 +2,7 @@
 
 ## sérülése esetén
 
-19. §[^26] (1) A küldemény elveszése esetén a futárszolgálat haladéktalanul intézkedik a feladott küldemény felkutatására, megsemmisülése esetén a megsemmisülés körülményeinek megállapítására és a feladó értesítésére. A küldemény elveszéséről és megsemmisüléséről futárszolgálati jegyzőkönyvet kell felvenni.
+19. §[^27] (1) A küldemény elveszése esetén a futárszolgálat haladéktalanul intézkedik a feladott küldemény felkutatására, megsemmisülése esetén a megsemmisülés körülményeinek megállapítására és a feladó értesítésére. A küldemény elveszéséről és megsemmisüléséről futárszolgálati jegyzőkönyvet kell felvenni.
 
 (2) Ha a továbbítás során a küldemény megsérült, és tartalma ennek folytán megismerhetővé vált, a futárszolgálat gondoskodik a küldemény lezárásáról, valamint bélyegzőlenyomattal és a lezáró személy aláírásával hitelesítve továbbítja a címzettnek.
 
@@ -22,4 +22,4 @@ d) minden olyan körülményt, amely az eseménnyel kapcsolatban szükséges int
 
 (6) A futárszolgálati jegyzőkönyvet három példányban kell elkészíteni. Egy-egy példányt meg kell küldeni a feladónak, a címzettnek, valamint a futárszolgálat vezetőjének, akik gondoskodnak az ügykörükben szükséges intézkedések megtételéről és a felelősség megállapításáról.
 
-[^26]: A 19. § a 35/2010. (V. 12.) IRM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^27]: A 19. § a 35/2010. (V. 12.) IRM rendelet 3. § (1) bekezdésével megállapított szöveg.

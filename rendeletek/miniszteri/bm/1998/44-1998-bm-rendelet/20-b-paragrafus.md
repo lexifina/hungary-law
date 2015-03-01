@@ -1,3 +1,3 @@
-## 20/A. §[^28]
+## 20/A. §[^29]
 
-[^28]: A 20/A. §-t a 35/2010. (V. 12.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^29]: A 20/A. §-t a 35/2010. (V. 12.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
