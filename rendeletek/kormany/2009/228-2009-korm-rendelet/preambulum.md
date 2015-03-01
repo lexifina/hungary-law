@@ -1,1 +1,0 @@
-A Kormány a Polgári Törvénykönyv hatálybalépéséről és végrehajtásáról szóló 1960. évi 11. törvényerejű rendelet 29. §-ában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdése b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
