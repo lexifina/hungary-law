@@ -24,7 +24,7 @@ b) adósságkezelési szolgáltatás, lakásfenntartási támogatás jogosultja,
 
 c) a családjában olyan gyermeket gondoz, akinek rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
 
-d) számára egészségügyi szolgáltatás igénybevétele céljából a települési önkormányzat polgármestere önkormányzati hatáskörben szociális rászorultságot állapított meg,
+d) számára egészségügyi szolgáltatás igénybevétele céljából a szociális rászorultságot megállapították,
 
 e) ápolási díjban, közgyógyellátásban, rokkantsági járadékban részesül,
 
