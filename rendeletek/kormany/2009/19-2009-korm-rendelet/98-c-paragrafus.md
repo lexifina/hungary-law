@@ -1,4 +1,4 @@
-98/C. §[^333] (1) Azon szállítási rendszerüzemeltető, amely rendszerére a szállítóvezeték-létesítő által létesítendő szállítóvezeték csatlakozik (a továbbiakban: kapcsolódó szállítási rendszerüzemeltető) és a szállítóvezeték-létesítési engedély kérelmezője köteles a létesítésre vonatkozó együttműködési megállapodást megkötni. Az együttműködési megállapodás a Hivatal által kiadott szállítóvezeték-létesítési engedély hatályba lépésének napján lép hatályba.
+98/C. §[^334] (1) Azon szállítási rendszerüzemeltető, amely rendszerére a szállítóvezeték-létesítő által létesítendő szállítóvezeték csatlakozik (a továbbiakban: kapcsolódó szállítási rendszerüzemeltető) és a szállítóvezeték-létesítési engedély kérelmezője köteles a létesítésre vonatkozó együttműködési megállapodást megkötni. Az együttműködési megállapodás a Hivatal által kiadott szállítóvezeték-létesítési engedély hatályba lépésének napján lép hatályba.
 
 (2) Az (1) bekezdés szerinti együttműködési megállapodás tartalmazza
 
@@ -30,4 +30,4 @@ b) nem érinti.
 
 (7) A Hivatal az (5) és a (6) bekezdés alapján megküldött adatokat a kérelem elbírálása során figyelembe veszi.
 
-[^333]: A Vhr. 98/C. §-át a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^334]: A Vhr. 98/C. §-át a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.

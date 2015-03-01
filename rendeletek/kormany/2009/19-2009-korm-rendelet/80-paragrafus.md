@@ -1,4 +1,4 @@
-80. §[^267] A rendszerüzemeltető és a termelő köteles a rendszerek kapcsolódási pontjain az alábbi, a kapacitáslekötéshez szükséges, azonos szerződéses feltételeket meghatározni:
+80. §[^268] A rendszerüzemeltető és a termelő köteles a rendszerek kapcsolódási pontjain az alábbi, a kapacitáslekötéshez szükséges, azonos szerződéses feltételeket meghatározni:
 
 a) a leköthető megszakítható és nem megszakítható kapacitást,
 
@@ -6,4 +6,4 @@ b) az üzemszerű nyomást,
 
 c) az üzemszerű minőséget.
 
-[^267]: A Vhr. 80. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^268]: A Vhr. 80. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

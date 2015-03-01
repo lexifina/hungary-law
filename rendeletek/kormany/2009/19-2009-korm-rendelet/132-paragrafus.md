@@ -2,7 +2,7 @@
 
 ## A bírság kiszabása
 
-132. §[^436] (1) A bírság kiszabásakor a Hivatal a körülmények mérlegelését köteles elvégezni, különös tekintettel a következőkre:
+132. §[^437] (1) A bírság kiszabásakor a Hivatal a körülmények mérlegelését köteles elvégezni, különös tekintettel a következőkre:
 
 a) a jogsértés súlya (a gázellátás veszélyeztetésének mértéke, a felhasználói érdekek sérelmének köre, kiterjedtsége),
 
@@ -34,4 +34,4 @@ b) 100 millió forint.
 
 (5) A bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe.
 
-[^436]: A Vhr. 132. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^437]: A Vhr. 132. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

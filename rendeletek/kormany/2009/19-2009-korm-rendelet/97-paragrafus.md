@@ -1,4 +1,4 @@
-97. §[^327] (1) A Hivatal a GET 83. § (3) bekezdésében meghatározott 10 éves fejlesztési terv jóváhagyására irányuló eljárásában a GET 83. § (1) és (2) bekezdésében foglaltakon túlmenően figyelembe veszi
+97. §[^328] (1) A Hivatal a GET 83. § (3) bekezdésében meghatározott 10 éves fejlesztési terv jóváhagyására irányuló eljárásában a GET 83. § (1) és (2) bekezdésében foglaltakon túlmenően figyelembe veszi
 
 a) a hidraulikai illeszkedést,
 
@@ -28,4 +28,4 @@ a határidőket és feltételeket módosítani, amelyhez kikéri a szállítási
 
 (6) Ha a 10 éves fejlesztési tervben meghatározott határidő nem tartható, a Hivatal kötelezésére a szállítási rendszerirányító köteles vizsgálni szűkület kezelési technika bevezetését, és szükség esetén azt az ÜKSZ-ben rögzíteni. Az ÜKSZ módosítását a Hivatal saját hatáskörben hivatalból elvégzi.
 
-[^327]: A Vhr. 97. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^328]: A Vhr. 97. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.

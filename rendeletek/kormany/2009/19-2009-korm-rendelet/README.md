@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-2
 | 2015-01-01 | 2009-19-20-22.34 | 384/2014. (XII. 31.) Korm. rendelet |
 | 2015-02-17 | 2009-19-20-22.35 | 18/2015. (II. 16.) Korm. rendelet |
 | 2015-02-28 | 2009-19-20-22.36 | 156/2014. (VI. 30.) Korm. rendelet |
+| 2015-03-01 | 2009-19-20-22.37 | 24/2015. (II. 20.) Korm. rendelet |

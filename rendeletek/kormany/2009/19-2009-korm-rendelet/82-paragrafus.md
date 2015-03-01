@@ -1,6 +1,6 @@
-82. §[^269] (1)[^270] A rendszerhasználó minden év április 15-ig köteles bejelenteni a következő gázévre szerződéssel lekötni szándékozott nyilvántartott kapacitásokat – mint előzetes lekötési igényt – annak a rendszerüzemeltetőnek, amelynek rendszerén kapacitást kíván lekötni.
+82. §[^270] (1)[^271] A rendszerhasználó minden év április 15-ig köteles bejelenteni a következő gázévre szerződéssel lekötni szándékozott nyilvántartott kapacitásokat – mint előzetes lekötési igényt – annak a rendszerüzemeltetőnek, amelynek rendszerén kapacitást kíván lekötni.
 
-(2)[^271] Ha a rendszerhasználó az aktuális gázévben lekötött kapacitást a következő gázévre az (1) bekezdés szerint bejelenti, azt a 83. § (2) bekezdése szerint kell lekötni.
+(2)[^272] Ha a rendszerhasználó az aktuális gázévben lekötött kapacitást a következő gázévre az (1) bekezdés szerint bejelenti, azt a 83. § (2) bekezdése szerint kell lekötni.
 
 (3) Ha a rendszerhasználó az aktuális gázévben lekötött kapacitásánál – legfeljebb a vásárolt kapacitása mértékéig terjedő – nagyobb nyilvántartott kapacitást igényel, annak igénybevételére legkésőbb a kapacitásra vonatkozó igénybejelentéstől számított második gázév első napjától jogosult. A rendszerhasználó és a csatlakozó rendszerüzemeltető ettől korábbi időpontban is megállapodhat. A rendszerüzemeltető jogosult az igénybevételt elutasítani, ha a rendszerhasználó a csatlakozási szerződés szerinti ütemezésétől eltérően kéri a nyilvántartásba vételt.
 
@@ -12,6 +12,6 @@
 
 (7) Ha a felhasználó a vásárolt kapacitások terhére további kapacitás nyilvántartásba vételét kezdeményezi, a nyilvántartást vezető rendszerüzemeltető köteles a kielégíthetőséget megvizsgálni. Ha a kapacitásigény teljesíthető, köteles azt nyilvántartásba venni, vagy rögzíteni a nyilvántartásba vétel időpontját.
 
-[^269]: A Vhr. 82. §-a a 378/2011. (XII. 31.) Korm. rendelet 60. §-ával megállapított szöveg.
-[^270]: A Vhr. 82. § (1) bekezdése a 18/2015. (II. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^271]: A Vhr. 82. § (2) bekezdése a 99/2013. (III. 30.) Korm. rendelet 3. § 5. pontja szerint módosított szöveg.
+[^270]: A Vhr. 82. §-a a 378/2011. (XII. 31.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^271]: A Vhr. 82. § (1) bekezdése a 18/2015. (II. 16.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^272]: A Vhr. 82. § (2) bekezdése a 99/2013. (III. 30.) Korm. rendelet 3. § 5. pontja szerint módosított szöveg.

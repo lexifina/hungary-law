@@ -1,7 +1,7 @@
-92/B. §[^313] Az összekapcsolási pont a 92/A. § (3) bekezdés b) pontja szerinti esetben nem minősül
+92/B. §[^314] Az összekapcsolási pont a 92/A. § (3) bekezdés b) pontja szerinti esetben nem minősül
 
 a) rendszerhasználatidíj-fizetés szempontjából a szállítórendszer belépési vagy kilépési pontjának, és
 
 b) a rendszerhasználati díjakról szóló MEKH elnöki rendelet szerinti átadás-átvételi pontnak.
 
-[^313]: A Vhr. 92/B. §-át a 212/2014. (VIII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^314]: A Vhr. 92/B. §-át a 212/2014. (VIII. 27.) Korm. rendelet 3. §-a iktatta be.

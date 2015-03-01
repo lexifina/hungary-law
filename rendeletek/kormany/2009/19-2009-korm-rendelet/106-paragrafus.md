@@ -1,6 +1,6 @@
 ## Üzemeltetési szerződéssel működtetett földgázrendszerek szerződéses feltételei
 
-106. §[^365] (1) A rendszerüzemeltető – a tulajdonában nem lévő eszközhányad tekintetében – a tulajdonossal történő üzemeltetési szerződés megkötését követően gyakorolhatja engedélyesi tevékenységét.
+106. §[^366] (1) A rendszerüzemeltető – a tulajdonában nem lévő eszközhányad tekintetében – a tulajdonossal történő üzemeltetési szerződés megkötését követően gyakorolhatja engedélyesi tevékenységét.
 
 (2) A szállító- és az elosztóvezeték tulajdonosa köteles a tulajdonában lévő eszközök működtetéséről, fenntartásáról és karbantartásáról gondoskodni, és ha nem rendelkezik a működtetéshez szükséges engedéllyel, köteles a rendszerüzemeltetővel üzemeltetési szerződést kötni. Az engedélyes és a tulajdonos az üzemeltetési szerződés megkötése, teljesítése és módosítása során köteles együttműködni. Az engedélyes és a tulajdonos egyetemlegesen felelős az üzemeltetési szerződés megkötéséért.
 
@@ -24,4 +24,4 @@ h) rendszerhasználati és csatlakozási díj megosztására, valamint fizetési
 
 (4) Ha az üzemeltetési szerződésben a felek másként nem állapodtak meg a rendszer fejlesztése minden esetben a tulajdonos kötelessége. Ennek elmaradása esetén a Hivatal a GET 119. §-ban foglalt jogkövetkezményeket alkalmazhatja.
 
-[^365]: A Vhr. 106. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^366]: A Vhr. 106. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
