@@ -1,0 +1,3 @@
+## 20. § A veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló 95/2006. (IV. 18.) Korm. rendelet 1. mellékletében foglalt „Megjegyzések a 2. táblázathoz:” rész 1. pont b) alpontjában a „Fodor József Közegészségügyi Központ Országos Kémiai Biztonsági Intézete” szövegrész helyébe az „Országos Közegészségügyi Központ” szöveg lép.
+
+## 16. Az észak-balatoni hulladékgazdálkodási projekt és a Szabolcs-Szatmár-Bereg megyei hulladékgazdálkodási projekt megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 151/2006. (VII. 21.) Korm. rendelet módosítása

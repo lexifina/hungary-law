@@ -1,0 +1,3 @@
+## 63. § A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet (a továbbiakban: 66/2012. Korm. r.) 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A kérelmezőnek klinikai vizsgálat esetén a kérelemhez csatolnia kell az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által kiadott klinikai vizsgálati engedélyt. Az ENKK a kérelem beérkezését követő tizenöt napon belül dönt az engedély kiadásáról és határozatát közli az OGYÉI-vel, valamint az Országos Tisztifőorvosi Hivatallal.”
