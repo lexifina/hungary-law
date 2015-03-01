@@ -70,10 +70,10 @@
 
 | 34. | Ingatlanvagyon-értékelő és közvetítő | az ingatlanközvetítői, illetőleg ingatlanvagyon-értékelő és közvetítő szolgáltató (lakóhelye) székhelye – működési területe – szerint illetékes megyeszékhely szerinti városi önkormányzat jegyzője, Pest megyében a megyei önkormányzat főjegyzője, Budapesten a Fővárosi Önkormányzat főjegyzője |
 
-| 35. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások nyújtására irányuló tevékenység az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák esetén | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+| 35. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások nyújtására irányuló tevékenység az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák esetén | Egészségügyi Nyilvántartási és Képzési Központ |
 
 | 36. | A régészeti örökség és a műemléki érték védelmével kapcsolatos területeken végzett szakértői tevékenység | régészeti területen: Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság; műemléki területen: Magyar Építész Kamara |
 
-2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^30]
+2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^33]
 
-[^30]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § h) pontja szerint módosított szöveg.
+[^33]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § h) pontja szerint módosított szöveg.
