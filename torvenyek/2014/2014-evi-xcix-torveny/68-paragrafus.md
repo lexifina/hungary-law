@@ -1,1 +1,7 @@
-68–74. §
+68. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 19. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
+
+(3) A 18/B. § szerinti országos nyilvántartást vezető hatóság az aktív korúak ellátására jogosultak tekintetében az aktív korúak ellátására jogosult személynek a 18/A. § a), b), d) és e) pontjában meghatározott adatairól az állami foglalkoztatási szervet – annak az Flt. 57/B. §-ában meghatározott nyilvántartási és adatszolgáltatási feladatai teljesítésének elősegítésére – folyamatos elektronikus adatkapcsolat keretében tájékoztatja.
+
+(4) A jegyző – a képviselő-testületnek a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez természetben nyújtott települési támogatás érvényesítésével kapcsolatos feladata teljesítése céljából – a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott módon átadja a 18. § l) pont la) alpontja szerinti szolgáltató részére a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez természetben nyújtott települési támogatásra jogosult személy 18. § a) pont aa) és ab) alpontjában, d) és e) pontjában, valamint a 18. § l) pont la) alpontjában foglalt adatait.”
