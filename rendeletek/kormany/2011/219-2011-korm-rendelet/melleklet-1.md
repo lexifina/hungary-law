@@ -2,4 +2,4 @@
 
 Üzemazonosítás
 
-[^98]: Az 1. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^98]: Az 1. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (1) bekezdése, a 30/2015. (II. 25.) Korm. rendelet 59. §-a szerint módosított szöveg.

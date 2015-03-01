@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-219-20-
 | 2013-12-25 | 2011-219-20-22.6 | 476/2013. (XII. 17.) Korm. rendelet |
 | 2014-01-01 | 2011-219-20-22.7 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-02-15 | 2011-219-20-22.8 | 476/2013. (XII. 17.) Korm. rendelet |
+| 2015-03-01 | 2011-219-20-22.9 | 476/2013. (XII. 17.) Korm. rendelet |
