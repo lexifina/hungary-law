@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2014-12-31 | 2014. évi XCIII. törvény | 2011-189-00-00.27 |
 | 2015-01-01 | 2014. évi XCIII. törvény | 2011-189-00-00.28 |
 | 2015-01-22 | 2014. évi XCIII. törvény | 2011-189-00-00.29 |
+| 2015-03-01 | 2014. évi XCIX. törvény | 2011-189-00-00.30 |

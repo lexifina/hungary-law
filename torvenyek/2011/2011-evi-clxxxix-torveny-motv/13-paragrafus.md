@@ -14,7 +14,9 @@
 
 7. kulturális szolgáltatás, különösen a nyilvános könyvtári ellátás biztosítása; filmszínház, előadó-művészeti szervezet támogatása, a kulturális örökség helyi védelme; a helyi közművelődési tevékenység támogatása;
 
-8. szociális, gyermekjóléti szolgáltatások és ellátások;
+8. gyermekjóléti szolgáltatások és ellátások;
+
+8a. szociális szolgáltatások és ellátások, amelyek keretében települési támogatás állapítható meg;
 
 9. lakás- és helyiséggazdálkodás;
 

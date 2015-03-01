@@ -68,7 +68,9 @@
 
 10. óvodai ellátás;
 
-11. szociális, gyermekjóléti szolgáltatások és ellátások;
+11. gyermekjóléti szolgáltatások és ellátások;
+
+11a. szociális szolgáltatások és ellátások, amelyek keretében települési támogatás állapítható meg;
 
 12. a területén hajléktalanná vált személyek ellátásának és rehabilitációjának, valamint a hajléktalanná válás megelőzésének biztosítása;
 
