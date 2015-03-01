@@ -1,8 +1,8 @@
-26. § (1)[^122] Ha az ápolási díj megállapítását a fokozott ápolást igénylő súlyosan fogyatékos személy gondozására tekintettel kérik, a fokozott ápolást igénylő súlyosan fogyatékos állapot vizsgálatáról szóló szakvélemény elkészítésére – 30 napos határidő tűzésével – a Főigazgatóságot kell kirendelni.
+26. § (1)[^115] Ha az ápolási díj megállapítását a fokozott ápolást igénylő súlyosan fogyatékos személy gondozására tekintettel kérik, a fokozott ápolást igénylő súlyosan fogyatékos állapot vizsgálatáról szóló szakvélemény elkészítésére – 30 napos határidő tűzésével – a Főigazgatóságot kell kirendelni.
 
-(2)[^123] Az (1) bekezdés szerinti kirendelő végzéshez a járási hivatal csatolja
+(2)[^116] Az (1) bekezdés szerinti kirendelő végzéshez a járási hivatal csatolja
 
-a)[^124]
+a)[^117]
 
 b) az ápolást végző személy nyilatkozatát a vizsgálat szükségességének tudomásul vételéről,
 
@@ -10,21 +10,21 @@ c) az ápolt személy hozzájárulását a fokozott ápolást igénylő állapot
 
 d) a háziorvos által kiállított, 5. számú melléklet szerinti igazolás és szakvélemény másolatát.
 
-(3)[^125] A Főigazgatóság által kijelölt szakértő az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább három munkanappal megelőzően értesíti.
+(3)[^118] A Főigazgatóság által kijelölt szakértő az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább három munkanappal megelőzően értesíti.
 
-(4)[^126] A Főigazgatóság által kijelölt szakértő szakvéleményét az ápolás helyszínén végzett szakértői vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra (kórházi zárójelentés stb.) alapozva készíti el, és a 7. számú melléklet szerinti formanyomtatványon küldi meg a Főigazgatóságnak. A szakértői véleményt a Főigazgatóság haladéktalanul továbbítja a járási hivatalnak.
+(4)[^119] A Főigazgatóság által kijelölt szakértő szakvéleményét az ápolás helyszínén végzett szakértői vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra (kórházi zárójelentés stb.) alapozva készíti el, és a 7. számú melléklet szerinti formanyomtatványon küldi meg a Főigazgatóságnak. A szakértői véleményt a Főigazgatóság haladéktalanul továbbítja a járási hivatalnak.
 
-(5)[^127] A Főigazgatóság a helyszíni vizsgálat elvégzésére legalább középfokú iskolai végzettséggel és egészségügyi szakképesítéssel rendelkező, személyes gondoskodást nyújtó szociális intézményben foglalkoztatott szakembert jelölhet ki, illetve kérhet fel. Amennyiben a helyszíni szakértői vizsgálatot felkérés alapján végzik, a vizsgálatot végző személyt díjazás illeti meg, amely vizsgálatonként nem lehet kevesebb, mint a vizsgálat időpontjában érvényes szakértői díj 50%-a.
+(5)[^120] A Főigazgatóság a helyszíni vizsgálat elvégzésére legalább középfokú iskolai végzettséggel és egészségügyi szakképesítéssel rendelkező, személyes gondoskodást nyújtó szociális intézményben foglalkoztatott szakembert jelölhet ki, illetve kérhet fel. Amennyiben a helyszíni szakértői vizsgálatot felkérés alapján végzik, a vizsgálatot végző személyt díjazás illeti meg, amely vizsgálatonként nem lehet kevesebb, mint a vizsgálat időpontjában érvényes szakértői díj 50%-a.
 
-(6)[^128] A Főigazgatóság által kijelölt szakértő által kiadott szakvélemény hatálya alatt a háziorvosi igazolást és szakvéleményt is hatályosnak kell tekinteni.
+(6)[^121] A Főigazgatóság által kijelölt szakértő által kiadott szakvélemény hatálya alatt a háziorvosi igazolást és szakvéleményt is hatályosnak kell tekinteni.
 
-(7)[^129] A járási hivatal a szakértői vélemény és a szakértői díjról szóló számla beérkezését követő harminc napon belül gondoskodik az Szt. 43/A. §-ának (4) bekezdésében foglaltak szerinti szakértői díjnak a Főigazgatóság számlájára történő átutalásáról.
+(7)[^122]
 
-[^122]: A 26. § (1) bekezdése az 509/2013. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^123]: A 26. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés e) pontja szerint módosított szöveg.
-[^124]: A 26. § (2) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^125]: A 26. § (3) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ag) alpontja, a 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés b) pontja szerint módosított szöveg.
-[^126]: A 26. § (4) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (5) bekezdésével megállapított, az 509/2013. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^127]: A 26. § (5) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés c) pontja szerint módosított szöveg.
-[^128]: A 26. § (6) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ag) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés b) pontja szerint módosított szöveg.
-[^129]: A 26. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés e) pontja, 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés b) pontja, az 509/2013. (XII. 29.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^115]: A 26. § (1) bekezdése az 509/2013. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^116]: A 26. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés e) pontja szerint módosított szöveg.
+[^117]: A 26. § (2) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^118]: A 26. § (3) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ag) alpontja, a 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^119]: A 26. § (4) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (5) bekezdésével megállapított, az 509/2013. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^120]: A 26. § (5) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^121]: A 26. § (6) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ag) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 352/2012. (XII. 13.) Korm. rendelet 3. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^122]: A 26. § (7) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § j) pontja hatályon kívül helyezte.

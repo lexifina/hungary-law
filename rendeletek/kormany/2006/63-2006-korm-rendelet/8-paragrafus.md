@@ -1,5 +1,3 @@
-8. § (1) Ha az Szt. 38. §-ának (3) bekezdése szerinti egy négyzetméterre jutó elismert havi költség összege változik, a változás időpontjától a lakásfenntartási támogatást az új összegnek megfelelően kell folyósítani.
+8. §[^50]
 
-(2)[^45]
-
-[^45]: A 8. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^50]: A 8. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § e) pontja hatályon kívül helyezte.

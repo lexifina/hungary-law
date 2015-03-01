@@ -1,5 +1,3 @@
-55. § (1) A megállapított adósságcsökkentési támogatásnak a követelés jogosultja részére történő folyósításáról a jegyző gondoskodik.
+55–56. §[^207]
 
-(2)[^239] Ha az adósságcsökkentési támogatásban részesülő személy lakcíme a támogatás folyósításának időtartama alatt a jegyző illetékességét érintően megváltozik vagy a jogosult meghal, a változás, illetve a haláleset hónapjára járó támogatást a korábban illetékes folyósító szerv teljes összegben folyósítja, de a támogatás további folyósítását meg kell szüntetni.
-
-[^239]: Az 55. § (2) bekezdése a 323/2009. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^207]: Az 55–56. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § r) pontja hatályon kívül helyezte.

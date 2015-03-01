@@ -34,7 +34,7 @@
 
 ## 2. A megállapítás jogcímére és a jogosultsági feltételekre vonatkozó adatok
 
-## Kérjük, a közgyógyellátás jogcímére vonatkozóan a megfelelő alpontot [2.1., 2.2. vagy 2.3. alpont] szíveskedjen megjelölni!
+## Kérjük, a közgyógyellátás jogcímére vonatkozóan a megfelelő alpontot [2.1. vagy 2.2. alpont] szíveskedjen megjelölni!
 
 ## 2.1. ⬜ Alanyi [a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50. § (1) bekezdése szerinti] jogcímen kérem a közgyógyellátás megállapítását,
 
@@ -44,7 +44,7 @@
 
 ## (kérjük X-szel külön is jelölje be, hogy melyik ellátásban részesül!)
 
-## 2.1.2.1. ⬜ egészségkárosodásra tekintettel nyújtott rendszeres szociális segély,
+## 2.1.2.1. ⬜ egészségkárosodásra tekintettel nyújtott aktív korúak ellátása,
 
 ## 2.1.2.2. ⬜ hadigondozotti pénzellátás,
 
@@ -92,17 +92,15 @@
 
 ## (Ez esetben ki kell tölteni a 3. pontban szereplő, a közeli hozzátartozókra vonatkozó adatokat, valamint a jövedelemnyilatkozatot!)
 
-## 2.3. ⬜ Méltányossági [a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 50. § (3) bekezdése szerinti] jogcímen kérem a közgyógyellátás megállapítását jövedelmi helyzetemre és a magas gyógyszerköltségemre tekintettel.
-
-## (Ez esetben ki kell tölteni a 3. pontban szereplő, a közeli hozzátartozókra vonatkozó adatokat, valamint a jövedelemnyilatkozatot!)
+## 2.3.
 
 ## 3. A közeli hozzátartozókra és jövedelmükre vonatkozó adatok
 
 ## 3.1. A kérelmező családi körülménye:
 
-## 3.1.1. ⬜ egyedül élő,
+## 3.1.1. ⬜ egyedülélő,
 
-## 3.1.2. ⬜ nem egyedül élő.
+## 3.1.2. ⬜ nem egyedülélő.
 
 ## 3.2. A kérelmező családjában élő közeli hozzátartozók adatai
 
@@ -192,7 +190,7 @@
 
 ## 5.1.1. Az alanyi és a normatív jogcímen megállapítható közgyógyellátás iránti kérelmet annál a járási hivatalnál kell benyújtani, amelynek illetékességi területén a kérelmező lakóhelye van. Ha a kérelmező életvitelszerűen a bejelentett tartózkodási helyén lakik, a kérelmet a tartózkodási hely szerint illetékes járási hivatalnál kell benyújtani. A kérelem a kormányablaknál is előterjeszthető, ebben az esetben a kormányablak továbbítja a benyújtott kérelmet a járási hivatal felé.
 
-## 5.1.2. A méltányossági jogcímen megállapítható közgyógyellátást a kérelmező azon lakcíme szerint illetékes települési önkormányzat képviselő testülete bírálja el, ahol életvitelszerűen tartózkodik. FIGYELEM! Méltányossági jogcímen a közgyógyellátás kizárólag abban az esetben állapítható meg, ha az igénylő alanyi vagy normatív jogcímen nem jogosult az ellátásra!
+## 5.1.2.
 
 ## 5.2. A jövedelmi adatok kitöltéséhez
 
@@ -252,7 +250,7 @@
 
 ## 5.2.7.5. A mezőgazdasági őstermelő adóévi őstermelésből származó bevétele csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel vagy a bevétel 85%-ának, illetve állattenyésztés esetén 94%-ának megfelelő összeggel abban az esetben, ha az őstermelő bevétele nem több mint a kistermelés értékhatára. Ha az őstermelő részére támogatást folyósítottak, a bevétel akkor csökkenthető, ha az nem több mint a kistermelés értékhatárának a folyósított támogatással növelt összege.
 
-## 5.2.7.6. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani az önkormányzati segélyt, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
+## 5.2.7.6. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani az önkormányzati segélyt, a rendkívüli települési támogatást, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást, a kiegészítő gyermekvédelmi támogatás melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
 
 ## 5.2.7.7. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
 
@@ -272,17 +270,17 @@
 
 ## 5.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
-## 5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
+## 5.2.8.3. Táppénz, gyermekgondozási támogatások: táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, csecsemőgondozási díj, gyermekgondozási díj, gyermekgondozási segély, gyermeknevelési támogatás, családi pótlék, gyermektartásdíj.
 
 ## 5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
-## 5.2.8.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, a foglalkoztatást helyettesítő támogatás, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+## 5.2.8.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, az egészségkárosodási és gyermekfelügyeleti támogatás, a foglalkoztatást helyettesítő támogatás, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
 ## 5.2.8.6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, felzárkózást elősegítő megélhetési támogatás, nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^259]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^226]
 
 ## Háziorvosi igazolás
 
@@ -340,4 +338,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^259]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^226]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -1,28 +1,3 @@
-## Adósságkezelési szolgáltatás
+51–53. §[^205]
 
-51. § (1) Az adósságkezelési szolgáltatásra irányuló kérelmet – az önkormányzat rendeletében foglaltaknak megfelelően – év közben folyamatosan, vagy évente több alkalommal lehet benyújtani.
-
-(2) Az adósságkezelési szolgáltatás iránti kérelemnek az 1. § (1) bekezdésének a) pontjában foglaltakon túl tartalmaznia kell a támogatást kérő nyilatkozatát
-
-a) a lakásban tartózkodásának jogcíméről,
-
-b) a kérelmezővel közös háztartásban élők számáról,
-
-c) azon adósságának jogcíméről és összegéről, amelynek kezelését kéri,
-
-d) arról, hogy vállalja az adósságkezelési programba bevont adósság és a települési önkormányzat által megállapított adósságcsökkentési támogatás különbözetének megfizetését,
-
-e) arról, hogy vállalja az adósságkezelési tanácsadáson való részvételt,
-
-f)[^231] arról, hogy amennyiben részére készüléket [22. § (1) bek.] biztosítanak, vállalja a készülék legalább egyéves időtartamban történő rendeltetésszerű használatát.
-
-(3) Az adósságkezelési szolgáltatás iránti kérelemhez csatolni kell
-
-a) a háztartás tagjainak jövedelméről tett nyilatkozatot,
-
-b)[^232] a hitelező által kiállított iratot az adósság jogcíméről és összegéről, vagy a közszolgáltatás kikapcsolásának tényéről,
-
-c) az adósságkezelési tanácsadó javaslatát a kérelmező adósságkezelési szolgáltatásba történő bevonására.
-
-[^231]: Az 51. § (2) bekezdésének f) pontja e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
-[^232]: Az 51. § (3) bekezdés b) pontja a 69/2014. (III. 13.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^205]: Az 51–53. §-t és az 51. §-t megelőző alcímet a 24/2015. (II. 20.) Korm. rendelet 28. § r) pontja hatályon kívül helyezte.
