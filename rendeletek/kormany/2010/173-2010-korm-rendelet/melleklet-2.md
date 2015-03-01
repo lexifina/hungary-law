@@ -70,7 +70,7 @@
 
 | 8. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-| 9 | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+| 9 | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 2. Bányahatósági engedély
 
@@ -94,7 +94,7 @@
 
 | 9 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 10 | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+| 10 | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
 3. Vízjogi (vízkivétel) engedély
 
@@ -184,4 +184,4 @@
 
 | 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
-[^7]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a, a 394/2012. (XII. 20.) Korm. rendelet 40. §-a, az 527/2013. (XII. 30.) Korm. rendelet 89. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 44. § (2)–(3) bekezdése, 45. § b)–e) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet a 282/2011. (XII. 21.) Korm. rendelet 43. §-ával megállapított, a 23/2012. (II. 29.) Korm. rendelet 55. §-a, a 394/2012. (XII. 20.) Korm. rendelet 40. §-a, az 527/2013. (XII. 30.) Korm. rendelet 89. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 44. § (2)–(3) bekezdése, 45. § b)–e) pontja, a 30/2015. (II. 25.) Korm. rendelet 43. §-a szerint módosított szöveg.
