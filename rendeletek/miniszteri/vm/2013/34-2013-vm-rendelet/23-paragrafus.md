@@ -1,4 +1,4 @@
-## 22. §[^41] Az ellenőrzési okirat 17. rovatát a 23. § c) pontja szerint kijelölt szervek hitelesítik, amennyiben az 1235/2008/EK bizottsági rendelet 13. cikke értelmében a szállítmány vizsgálata Magyarországon történik.
+## 22. §[^42] Az ellenőrzési okirat 17. rovatát a 23. § c) pontja szerint kijelölt szervek hitelesítik, amennyiben az 1235/2008/EK bizottsági rendelet 13. cikke értelmében a szállítmány vizsgálata Magyarországon történik.
 
 ## 12. A NÉBIH feladatai
 
@@ -12,15 +12,15 @@ c) kijelöli az ellenőrzési okirat 17. rovatának hitelesítéséért felelős
 
 d) jóváhagyja a 7. § (2) bekezdése szerinti éves tervet,
 
-e)[^42] a tanúsító szervezetek kérelmére dönt a 834/2007/EK tanácsi rendelet 1. cikk (3) bekezdése és 42. cikke szerinti, a tanúsító szervezet által kidolgozott magán feltételrendszerek elfogadásáról,
+e)[^43] a tanúsító szervezetek kérelmére dönt a 834/2007/EK tanácsi rendelet 1. cikk (3) bekezdése és 42. cikke szerinti, a tanúsító szervezet által kidolgozott magán feltételrendszerek elfogadásáról,
 
 f) a gazdasági szereplő kérelmére, a 889/2008/EK bizottsági rendelet VI. melléklet 3. pont a) alpontja alapján, engedélyezi az A-, D- és E-vitamin kérődzők takarmányozására való felhasználhatóságát, amennyiben az adott állomány az elérhető tápanyagforrás tekintetében nem képes a vitaminokból a szükséges mennyiségekhez hozzájutni,
 
-g)[^43] a vonatkozó jogszabályok, a készítmények adatai és a tanúsító szervezetek javaslata alapján összeállítja és felülvizsgálja az ökológiai gazdálkodásban alkalmazható növényvédő szerek, termésnövelő anyagok és növényvédő szernek nem minősülő termékek listáját, melyet tájékoztató jelleggel honlapján közzétesz,
+g)[^44] a vonatkozó jogszabályok, a készítmények adatai és a tanúsító szervezetek javaslata alapján összeállítja és felülvizsgálja az ökológiai gazdálkodásban alkalmazható növényvédő szerek, termésnövelő anyagok és növényvédő szernek nem minősülő termékek listáját, melyet tájékoztató jelleggel honlapján közzétesz,
 
-h)[^44] biztosítja a tanúsító szervezetek közötti információk cseréjét.
+h)[^45] biztosítja a tanúsító szervezetek közötti információk cseréjét.
 
-[^41]: A 22. § a 34/2014. (XII. 12.) FM rendelet 14. §-ával megállapított szöveg.
-[^42]: A 23. § e) pontja a 34/2014. (XII. 12.) FM rendelet 21. § g) pontja szerint módosított szöveg.
-[^43]: A 23. § g) pontját a 34/2014. (XII. 12.) FM rendelet 15. §-a iktatta be.
-[^44]: A 23. § h) pontját a 34/2014. (XII. 12.) FM rendelet 15. §-a iktatta be.
+[^42]: A 22. § a 34/2014. (XII. 12.) FM rendelet 14. §-ával megállapított szöveg.
+[^43]: A 23. § e) pontja a 34/2014. (XII. 12.) FM rendelet 21. § g) pontja szerint módosított szöveg.
+[^44]: A 23. § g) pontját a 34/2014. (XII. 12.) FM rendelet 15. §-a iktatta be.
+[^45]: A 23. § h) pontját a 34/2014. (XII. 12.) FM rendelet 15. §-a iktatta be.

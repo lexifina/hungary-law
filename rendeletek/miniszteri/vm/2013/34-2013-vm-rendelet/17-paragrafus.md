@@ -4,20 +4,20 @@
 
 17. § (1) A tanúsító szervezet a gazdasági szereplő tanúsító szervezet váltását nem korlátozhatja.
 
-(2)[^32] A gazdasági szereplő tanúsító szervezet váltásra vonatkozó kérelmét egyidejűleg csak egy tanúsító szervezethez adhatja be.
+(2)[^33] A gazdasági szereplő tanúsító szervezet váltásra vonatkozó kérelmét egyidejűleg csak egy tanúsító szervezethez adhatja be.
 
-(3)[^33] A gazdasági szereplő a tanúsító szervezet váltására vonatkozó kérelmét megküldi a tanúsító szervezetének és az újonnan választott tanúsító szervezetnek. A tanúsító szervezetnek küldött kérelemben meg kell jelölni az újonnan választott tanúsító szervezetet. Az újonnan választott tanúsító szervezetnek küldött kérelemben meg kell jelölni azt a tanúsító szervezetet, amelynek tanúsítása alatt a gazdasági szereplő áll.
+(3)[^34] A gazdasági szereplő a tanúsító szervezet váltására vonatkozó kérelmét megküldi a tanúsító szervezetének és az újonnan választott tanúsító szervezetnek. A tanúsító szervezetnek küldött kérelemben meg kell jelölni az újonnan választott tanúsító szervezetet. Az újonnan választott tanúsító szervezetnek küldött kérelemben meg kell jelölni azt a tanúsító szervezetet, amelynek tanúsítása alatt a gazdasági szereplő áll.
 
-(4)[^34] A tanúsító szervezet az ellenőrzési dosszié releváns elemeit [így különösen a 889/2008/EK bizottsági rendelet 63. cikk (1) bekezdése szerinti dokumentumokat és (2) bekezdése szerinti nyilatkozatokat, a tanúsító szervezet által az utolsó három évben végzett ellenőrzésekről készült jelentéseket és értékelési jelentéseket, valamint az utolsó három évben kiadott és visszavont tanúsítványokat], továbbá a 889/2008/EK bizottsági rendelet 63. cikk (2) bekezdésében említett jelentéseket a gazdasági szereplő tanúsító szervezet váltására vonatkozó kérelmének kézhezvételétől számított tizenöt napon belül elektronikus és postai úton tértivevényes szolgáltatással megküldi az újonnan választott tanúsító szervezetnek.
+(4)[^35] A tanúsító szervezet az ellenőrzési dosszié releváns elemeit [így különösen a 889/2008/EK bizottsági rendelet 63. cikk (1) bekezdése szerinti dokumentumokat és (2) bekezdése szerinti nyilatkozatokat, a tanúsító szervezet által az utolsó három évben végzett ellenőrzésekről készült jelentéseket és értékelési jelentéseket, valamint az utolsó három évben kiadott és visszavont tanúsítványokat], továbbá a 889/2008/EK bizottsági rendelet 63. cikk (2) bekezdésében említett jelentéseket a gazdasági szereplő tanúsító szervezet váltására vonatkozó kérelmének kézhezvételétől számított tizenöt napon belül elektronikus és postai úton tértivevényes szolgáltatással megküldi az újonnan választott tanúsító szervezetnek.
 
-(5)[^35] A tanúsító szervezet a (4) bekezdésben megállapított határidőn belül díj- és költségmentesen helyszíni ellenőrzést végez a gazdasági szereplőnél, amennyiben a 834/2007/EK tanácsi rendelet 27. cikke szerinti éves ellenőrzés és a tanúsító szervezet váltására vonatkozó kérelem benyújtása között hatvan napnál hosszabb idő telt el. Amennyiben minta vétele esetén a laboratóriumi vizsgálat nem megfelelőséget mutat, a 14. § (3) bekezdését kell alkalmazni.
+(5)[^36] A tanúsító szervezet a (4) bekezdésben megállapított határidőn belül díj- és költségmentesen helyszíni ellenőrzést végez a gazdasági szereplőnél, amennyiben a 834/2007/EK tanácsi rendelet 27. cikke szerinti éves ellenőrzés és a tanúsító szervezet váltására vonatkozó kérelem benyújtása között hatvan napnál hosszabb idő telt el. Amennyiben minta vétele esetén a laboratóriumi vizsgálat nem megfelelőséget mutat, a 14. § (3) bekezdését kell alkalmazni.
 
-(6)[^36] A tanúsító szervezet a (4) bekezdés szerinti dokumentumok megküldését kizárólag a tanúsítási szerződésben meghatározott díjak kiegyenlítésének elmaradása, illetve az Öko rendelkezések megsértésének gyanúja miatt folyamatban levő hatósági eljárások esetén tagadhatja meg.
+(6)[^37] A tanúsító szervezet a (4) bekezdés szerinti dokumentumok megküldését kizárólag a tanúsítási szerződésben meghatározott díjak kiegyenlítésének elmaradása, illetve az Öko rendelkezések megsértésének gyanúja miatt folyamatban levő hatósági eljárások esetén tagadhatja meg.
 
 (7) A tanúsító szervezet által a gazdasági szereplő számára kiállított tanúsítvány a tanúsítási szerződés megszűnéséig érvényes.
 
-[^32]: A 17. § (2) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
-[^33]: A 17. § (3) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
-[^34]: A 17. § (4) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
-[^35]: A 17. § (5) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
-[^36]: A 17. § (6) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^33]: A 17. § (2) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^34]: A 17. § (3) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^35]: A 17. § (4) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^36]: A 17. § (5) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
+[^37]: A 17. § (6) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
