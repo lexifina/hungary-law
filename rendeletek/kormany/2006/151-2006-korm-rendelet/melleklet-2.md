@@ -70,7 +70,7 @@
 
 | Földtani közeg védelem | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-| Gyógyhelyek védelme | Országos Tisztifőorvosi Hivatal Országos Gyógyhelyi és Gyógyfürdőügyi Főigazgatósága | Egészségügyi Engedélyezési és Közigazgatási Hivatal |
+| Gyógyhelyek védelme | Országos Tisztifőorvosi Hivatal Országos Gyógyhelyi és Gyógyfürdőügyi Főigazgatósága | Egészségügyi Nyilvántartási és Képzési Központ |
 
 | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -220,4 +220,4 @@
 
 | Műszaki biztonság | főváros, megyei kormányhivatal mérésügyi és biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^5]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 5. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 14. §-a, a 394/2012. (XII. 20.) Korm. rendelet 10. §-a, az 527/2013. (XII. 30.) Korm. rendelet 38. § b) pontja, a 229/2014. (IX. 5.) Korm. rendelet 5–6. §-a szerint módosított szöveg.
+[^5]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 151. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 5. §-a, a 259/2011. (XII. 7.) Korm. rendelet 20. § (2) bekezdés a) pontja, a 23/2012. (II. 29.) Korm. rendelet 14. §-a, a 394/2012. (XII. 20.) Korm. rendelet 10. §-a, az 527/2013. (XII. 30.) Korm. rendelet 38. § b) pontja, a 229/2014. (IX. 5.) Korm. rendelet 5–6. §-a, a 30/2015. (II. 25.) Korm. rendelet 21. §-a szerint módosított szöveg.
