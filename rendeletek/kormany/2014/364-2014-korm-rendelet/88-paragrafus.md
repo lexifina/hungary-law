@@ -1,3 +1,9 @@
-## 87. §[^23]
+## 87. § Az ÁNTSZr. 12. § (4) bekezdés a) pontja a következő ad) alponttal egészül ki:
 
-[^23]: A 87. § a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
+## (A Kormány egészségügyi államigazgatási szervként az OTH-t jelöli ki
+
+## az Eütv.)
+
+## „ad) 159. § (6) bekezdése,”
+
+## (szerinti feladatok ellátására.)

@@ -1,3 +1,3 @@
-## 34. §[^6]
+## 34. § A Kr. a következő 48/A. §-sal egészül ki:
 
-[^6]: A 34. § a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
+## „48/A. § Otthoni tartós gépi lélegeztetésre az arra jogszabályban meghatározott feltételekkel rendelkező egészségügyi szolgáltatóval az OEP finanszírozási szerződést köt. A finanszírozás betegenként napi fix díjjal történik, amelynek mértéke megegyezik a mindenkori hatályos krónikus napi díj és a 00025 kódszámú krónikus ellátás szorzójának szorzatával. Az egészségügyi szolgáltató köteles bejelenteni, ha a szerződésben meghatározott beteg otthoni lélegeztetése bármilyen okból megszűnik. A bejelentés elmulasztásából eredő finanszírozási többletet a finanszírozó jogosult az egészségügyi szolgáltató finanszírozási díjából visszavonni.”

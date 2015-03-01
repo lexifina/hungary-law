@@ -1,14 +1,13 @@
-## 39. §[^11]
+## 39. §[^10]
 
 ## 40. § Hatályát veszti a Kr.
 
-a)–l)[^12]
+a)–l)[^11]
 
-m)[^13]
+m) 8. számú mellékletében foglalt táblázat „00025” megjelölésű sorában az „és otthoni” szövegrész,
 
-n)[^14]
+n)[^12]
 
-[^11]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 40. § a)–l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 40. § m) pontja a 134. § (4) bekezdése alapján 2015. március 1-jén lép hatályba.
-[^14]: A 40. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 40. § a)–l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 40. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
