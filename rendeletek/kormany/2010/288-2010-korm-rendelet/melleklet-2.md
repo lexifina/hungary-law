@@ -468,7 +468,7 @@ A fővárosi és megyei kormányhivatal ügyfélszolgálati feladatai keretében
 
 1.50.[^150] lakástakarék-pénztári megtakarítás esetén az állami támogatás visszafizetésére kötelezettek fizetési könnyítés iránti kérelme,
 
-1.51.[^151] lakásfenntartási támogatás iránti kérelem,
+1.51.[^151]
 
 1.52.[^152] az egyes lakáscélú kölcsönökből eredő adósságok rendezéséről szóló 11/2005. (I. 26.) Korm. rendelet szerinti, törlesztési kötelezettség felfüggesztése iránti kérelem,
 
@@ -721,7 +721,7 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 [^148]: A 2. melléklet 1. pont 1.48. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
 [^149]: A 2. melléklet 1. pont 1.49. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
 [^150]: A 2. melléklet 1. pont 1.50. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
-[^151]: A 2. melléklet 1. pont 1.51. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
+[^151]: A 2. melléklet 1. pont 1.51. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 35. §-a.
 [^152]: A 2. melléklet 1. pont 1.52. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
 [^153]: A 2. melléklet 1. pont 1.53. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
 [^154]: A 2. melléklet 1. pont 1.54. alpontját a 152/2013. (V. 24.) Korm. rendelet 1. §-a iktatta be.
