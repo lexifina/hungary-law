@@ -1,4 +1,4 @@
-8. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^151]
+8. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^153]
 
 ## A végrehajtási záradék kiállítása helyetti bírósági letiltó végzés kibocsátása iránti kérelem nyomtatványának adattartalma
 
@@ -270,4 +270,4 @@
 
 Kizárólag a tájékoztatások között is felsorolásra kerülhetnek a személyi azonosításra szolgáló egyéb adat, a cím és a kamatkövetelés adatai, mint a nyomtatvány megfelelő rovatában a végrehajtást kérő által megjelölendő adatok.
 
-[^151]: A 8. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.
+[^153]: A 8. számú mellékletet a 31/2012. (VI. 29.) KIM rendelet 8. § (6) bekezdése iktatta be.

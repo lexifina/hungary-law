@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-1-20-06
 | 2013-08-01 | 2002-1-20-06.21 | 12/2013. (VII. 5.) KIM rendelet |
 | 2014-01-01 | 2002-1-20-06.22 | 35/2013. (XII. 23.) KIM rendelet |
 | 2014-03-30 | 2002-1-20-06.23 | 12/2014. (II. 28.) KIM rendelet |
+| 2015-03-01 | 2002-1-20-06.24 | 20/2014. (XII. 23.) IM rendelet |
