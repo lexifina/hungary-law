@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-156-20-
 | --- | --- | --- |
 | 2009-10-01 | 2005-156-20-22.3 | 156/2005. (VIII. 15.) Korm. rendelet |
 | 2011-07-08 | 2005-156-20-22.4 | 113/2011. (VII. 7.) Korm. rendelet |
+| 2015-03-01 | 2005-156-20-22.5 | 24/2015. (II. 20.) Korm. rendelet |
