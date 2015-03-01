@@ -1,5 +1,5 @@
 7. § (1) Az OEP közigazgatási hatósági eljárásai tekintetében a közigazgatási hatósági eljárás általános szabályairól szóló törvény központi államigazgatási szerv vezetőjének az első fokú döntése elleni fellebbezést kizáró rendelkezése külön törvény eltérő rendelkezése hiányában nem alkalmazható.
 
-(2)[^14] Az OEP által hozott hatósági döntés elleni fellebbezést az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) bírálja el.
+(2)[^17] Az OEP által hozott hatósági döntés elleni fellebbezést az Egészségügyi Nyilvántartási és Képzési Központ (a továbbiakban: ENKK) bírálja el.
 
-[^14]: A 7. § (2) bekezdése a 282/2011. (XII. 21.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^17]: A 7. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 48. §-ával megállapított szöveg.

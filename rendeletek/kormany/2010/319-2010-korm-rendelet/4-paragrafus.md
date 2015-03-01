@@ -72,7 +72,13 @@ b) részt vesz az egészségügyi szakellátási kapacitásokkal és ellátási 
 
 c) ellátja az egészségüggyel, az egészségügy finanszírozásával kapcsolatos fejlesztési, elemzési és értékelési, kutatási, szakértői és szakmai támogatási feladatokat,
 
-d) szakértőként eljár a Kormány által meghatározott szakkérdésekben.
+d) szakértőként eljár a Kormány által meghatározott szakkérdésekben,
+
+e)[^11] ellátja az egészségügyi ágazati központi informatikai tevékenységet, elkészíti és folyamatosan karbantartja az ágazati központi informatikai stratégiát,
+
+f)[^12] jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt és elemez.
+
+(1b)[^13] A Kormány térségi egészségszervezésért felelős államigazgatási szervként az OEP-et jelöli ki az egészségügyről szóló 1997. évi CLIV. törvény 146. § (1) bekezdése szerinti feladatok ellátására, azzal, hogy ezt a feladatot az Állami Egészségügyi Ellátó Központtal együttműködésben látja el.
 
 (2) Az egészségbiztosítási pénztári szakigazgatási szerv ellátja a jogszabályokban meghatározott feladatait, ennek keretében
 
@@ -102,15 +108,18 @@ ag) jelzi az OEP, mint szakmai irányító szerv felé az aa)–af) pontban fels
 
 ah) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat az OEP szakmai irányítása alatt,
 
-ai)[^11] a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
+ai)[^14] a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
 
 b) ellátja mindazon további feladatokat, amelyeket jogszabály vagy az alapító okirat a hatáskörébe utal.
 
-(3)[^12] A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 6. § (5) bekezdésében foglaltakra figyelemmel az OEP – ideértve kihelyezett területi szervezeti egységeit is – és az egészségbiztosítási pénztári szakigazgatási szervek szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
+(3)[^15] A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 6. § (5) bekezdésében foglaltakra figyelemmel az OEP – ideértve kihelyezett területi szervezeti egységeit is – és az egészségbiztosítási pénztári szakigazgatási szervek szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
 
 [^7]: A 4. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 513. §-a szerint módosított szöveg.
 [^8]: A 4. § (1) bekezdés x) pontját a 92/2012. (IV. 27.) Korm. rendelet 30. §-a iktatta be.
 [^9]: A 4. § (1) bekezdés y) pontját a 254/2013. (VII. 5.) Korm. rendelet 58. § (1) bekezdése iktatta be.
 [^10]: A 4. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 85. §-a iktatta be.
-[^11]: A 4. § (2) bekezdés a) pont ai) alpontját a 139/2011. (VII. 21.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^12]: A 4. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^11]: A 4. § (1a) bekezdés e) pontját a 30/2015. (II. 25.) Korm. rendelet 47. § (1) bekezdése iktatta be.
+[^12]: A 4. § (1a) bekezdés f) pontját a 30/2015. (II. 25.) Korm. rendelet 47. § (1) bekezdése iktatta be.
+[^13]: A 4. § (1b) bekezdését a 30/2015. (II. 25.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^14]: A 4. § (2) bekezdés a) pont ai) alpontját a 139/2011. (VII. 21.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^15]: A 4. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 24. § (2) bekezdése iktatta be.
