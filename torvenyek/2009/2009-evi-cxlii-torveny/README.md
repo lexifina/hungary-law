@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-142-00-00
 | 2012-03-01 | 2010. évi XCV. törvény | 2009-142-00-00.4 |
 | 2012-03-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-142-00-00.5 |
 | 2015-03-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-142-00-00.6 |
+| 2015-03-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-142-00-00.7 |
