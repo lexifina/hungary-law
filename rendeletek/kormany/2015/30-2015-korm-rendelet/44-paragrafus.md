@@ -1,3 +1,5 @@
-## 43. § A magyar–horvát összekötő földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 173/2010. (V. 13.) Korm. rendelet 2. melléklet 1. pontjában foglalt táblázat C:9. mezőjében, valamint 2. pontjában foglalt táblázat C:10. mezőjében az „Engedélyezési és Közigazgatási Hivatal” szövegrész helyébe a „Nyilvántartási és Képzési Központ” szöveg lép.
+## 43. §[^33]
 
 ## 34. A Nabucco Gas Pipeline International GmbH. által megvalósítandó, a Nabucco gázvezeték magyarországi szakaszának kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 174/2010. (V. 13.) Korm. rendelet módosítása
+
+[^33]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

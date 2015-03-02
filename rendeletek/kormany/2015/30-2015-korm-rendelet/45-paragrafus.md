@@ -1,3 +1,5 @@
-## 44. § A Nabucco Gas Pipeline International GmbH. által megvalósítandó, a Nabucco gázvezeték magyarországi szakaszának kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 174/2010. (V. 13.) Korm. rendelet 2. melléklet 1. pontjában foglalt táblázat C:10. mezőjében, 3. pontjában foglalt táblázat C:2. mezőjében és 6. pontjában foglalt táblázat C:10. mezőjében az „Engedélyezési és Közigazgatási Hivatal” szövegrész helyébe a „Nyilvántartási és Képzési Központ” szöveg lép.
+## 44. §[^34]
 
 ## 35. Az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló 180/2010. (V. 13.) Korm. rendelet módosítása
+
+[^34]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

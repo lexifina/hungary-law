@@ -1,5 +1,7 @@
-## 38. § Hatályát veszti a 339/2008. Korm. r. 1. §-ában az „a GYEMSZI-vel történt megállapodás alapján” szövegrész.
+## 36–38. §[^28]
 
 ## 29. Az egészségügyi felsőfokú szakirányú szakképzési rendszerről szóló
 
 ## 122/2009. (VI. 12.) Korm. rendelet módosítása
+
+[^28]: A 36–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

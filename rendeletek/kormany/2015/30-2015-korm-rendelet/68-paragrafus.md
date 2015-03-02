@@ -1,1 +1,0 @@
-## „(7) Az egészségügyért felelős miniszter az Eütv. 151. § (1) bekezdésében meghatározott feladatát az OBDK közreműködésével látja el a Nemzeti Betegfórumról szóló miniszteri rendeletben meghatározottak szerint.”

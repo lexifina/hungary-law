@@ -1,3 +1,5 @@
-## 73. § A Déli Áramlat földgázszállító-vezeték kiépítéséhez és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 297/2012. (X. 25.) Korm. rendelet 2. melléklet 1. pontjában foglalt táblázat C:10. mezőjében és 2. pontjában foglalt táblázat C:18. mezőjében az „Engedélyezési és Közigazgatási Hivatal” szövegrész helyébe a „Nyilvántartási és Képzési Központ” szöveg lép.
+## 73. §[^49]
 
 ## 47. Az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 374/2012. (XII. 18.) Korm. rendelet módosítása
+
+[^49]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

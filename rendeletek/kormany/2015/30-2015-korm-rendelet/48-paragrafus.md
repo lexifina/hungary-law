@@ -1,1 +1,0 @@
-## „(1b) A Kormány térségi egészségszervezésért felelős államigazgatási szervként az OEP-et jelöli ki az egészségügyről szóló 1997. évi CLIV. törvény 146. § (1) bekezdése szerinti feladatok ellátására, azzal, hogy ezt a feladatot az Állami Egészségügyi Ellátó Központtal együttműködésben látja el.”
