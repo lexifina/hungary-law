@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-31-20-2
 | --- | --- | --- |
 | 2014-06-30 | 2014-31-20-2W.1 | 31/2014. (VI. 27.) NFM rendelet |
 | 2014-07-01 | 2014-31-20-2W.2 | 2010: CXXX. törvény |
+| 2015-03-02 | 2014-31-20-2W.3 | 2010: CXXX. törvény |
