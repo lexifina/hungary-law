@@ -1,1 +1,3 @@
-15. § Hatályát veszti az Egészségügyi Engedélyezési és Közigazgatási Hivatalról szóló 295/2004. (X. 28.) Korm. rendelet.
+15. §[^1]
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
