@@ -1,1 +1,0 @@
-## „(7) A havi rendszeres szociális ellátásra és a foglalkoztatást helyettesítő támogatásra jogosult halála esetén a fel nem vett ellátást a vele közös háztartásban együtt élt házastárs vagy élettárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben veheti fel a halál hónapját követő hónap utolsó napjáig.”

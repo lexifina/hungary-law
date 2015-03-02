@@ -1,5 +1,7 @@
-## 41. § A személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet 5. melléklete a 8. melléklet szerint módosul.
+## 41. §[^17]
 
 ## 13. A Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról szóló
 
 ## 128/2012. (VI. 26.) Korm. rendelet módosítása
+
+[^17]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
