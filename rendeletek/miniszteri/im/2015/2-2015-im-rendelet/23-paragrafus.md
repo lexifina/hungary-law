@@ -1,1 +1,3 @@
-## 22. § Hatályát veszti a választási eljárásról szóló 1997. évi C. törvény végrehajtásáról a helyi népszavazáson és a helyi népi kezdeményezésen szóló 29/2000. (X. 27.) BM rendelet.
+## 21–22. §[^9]
+
+[^9]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
