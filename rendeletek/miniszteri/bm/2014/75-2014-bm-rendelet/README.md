@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-75-20-0
 | 2015-01-02 | 2014-75-20-0A.3 | 2010: CXXX. törvény |
 | 2015-01-03 | 2014-75-20-0A.4 | 2010: CXXX. törvény |
 | 2015-03-01 | 2014-75-20-0A.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-03-02 | 2014-75-20-0A.6 | 13/2016. (V. 10.) BM rendelet |
