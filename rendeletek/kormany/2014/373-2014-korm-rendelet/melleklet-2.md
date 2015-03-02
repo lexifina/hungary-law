@@ -1962,7 +1962,7 @@
 
 ## 7. FEJÉR MEGYEI KORMÁNYHIVATAL FÖLDHIVATALA (székhelye: Székesfehérvár)
 
-## 7.1.[^4] Bicskei Járási Hivatal Járási Földhivatala (székhelye: Bicske)
+## 7.1.[^5] Bicskei Járási Hivatal Járási Földhivatala (székhelye: Bicske)
 
 ## Alcsútdoboz
 
@@ -2028,7 +2028,7 @@
 
 ## Rácalmás
 
-## 7.3.[^5] Móri Járási Hivatal Járási Földhivatala (székhelye: Mór)
+## 7.3.[^6] Móri Járási Hivatal Járási Földhivatala (székhelye: Mór)
 
 ## Bakonycsernye
 
@@ -2056,7 +2056,7 @@
 
 ## Söréd
 
-## 7.4.[^6] Sárbogárdi Járási Hivatal Járási Földhivatala (székhelye: Sárbogárd)
+## 7.4.[^7] Sárbogárdi Járási Hivatal Járási Földhivatala (székhelye: Sárbogárd)
 
 ## Alap
 
@@ -2100,7 +2100,7 @@
 
 ## Vajta
 
-## 7.5.[^7] Székesfehérvári Járási Hivatal Járási Földhivatala (székhelye: Székesfehérvár)
+## 7.5.[^8] Székesfehérvári Járási Hivatal Járási Földhivatala (székhelye: Székesfehérvár)
 
 ## Aba
 
@@ -2394,7 +2394,7 @@
 
 ## Tét
 
-## 8.4.[^8] Kapuvári Járási Hivatal Járási Földhivatala (székhelye: Kapuvár)
+## 8.4.[^9] Kapuvári Járási Hivatal Járási Földhivatala (székhelye: Kapuvár)
 
 ## Agyagosszergény
 
@@ -2490,7 +2490,7 @@
 
 ## Várbalog
 
-## 8.6.[^9] Soproni Járási Hivatal Járási Földhivatala (székhelye: Sopron)
+## 8.6.[^10] Soproni Járási Hivatal Járási Földhivatala (székhelye: Sopron)
 
 ## Ágfalva
 
@@ -6634,9 +6634,9 @@
 
 2. melléklet a 373/2014. (XII. 31.) Korm. rendelethez
 
-[^4]: Az 1. melléklet 7. pont 7.1. alpontja az 56. §-sal megállapított szöveg.
-[^5]: Az 1. melléklet 7. pont 7.3. alpontja az 56. §-sal megállapított szöveg.
-[^6]: Az 1. melléklet 7. pont 7.4. alpontja az 56. §-sal megállapított szöveg.
-[^7]: Az 1. melléklet 7. pont 7.5. alpontja az 56. §-sal megállapított szöveg.
-[^8]: Az 1. melléklet 8. pont 8.4. alpontja az 56. §-sal megállapított szöveg.
-[^9]: Az 1. melléklet 8. pont 8.6. alpontja az 56. §-sal megállapított szöveg.
+[^5]: Az 1. melléklet 7. pont 7.1. alpontja az 56. §-sal megállapított szöveg.
+[^6]: Az 1. melléklet 7. pont 7.3. alpontja az 56. §-sal megállapított szöveg.
+[^7]: Az 1. melléklet 7. pont 7.4. alpontja az 56. §-sal megállapított szöveg.
+[^8]: Az 1. melléklet 7. pont 7.5. alpontja az 56. §-sal megállapított szöveg.
+[^9]: Az 1. melléklet 8. pont 8.4. alpontja az 56. §-sal megállapított szöveg.
+[^10]: Az 1. melléklet 8. pont 8.6. alpontja az 56. §-sal megállapított szöveg.
