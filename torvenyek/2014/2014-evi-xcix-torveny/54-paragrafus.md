@@ -6,7 +6,7 @@
 
 47–52.
 
-53. 83. § (1) bekezdésében a „továbbá” szövegrész helyébe az „a közfoglalkoztatáshoz nyújtott támogatásnak – a jogszabály alapján előlegként folyósított támogatás kivételével – a közfoglalkoztatási bér és annak közterhei megfizetésére szolgáló részét és” szöveg,
+53.
 
 54–66.
 
