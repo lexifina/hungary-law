@@ -2,10 +2,6 @@
 
 ## 24. Módosuló jogszabály
 
-38. § (1) Az Igazságügyi Hivatalról szóló 233/2014. (IX. 18.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. § (1) bekezdése a következő i) ponttal egészül ki:
+38. §[^1]
 
-(az Igazságügyi Hivatal)
-
-## „i) ellátja a bírósági végrehajtásról szóló 1994. évi LIII. törvény 254/I. §-a szerinti feladatokat.”
-
-(2) A Korm. rendelet 3. § (1) bekezdés h) pontjában a „szakvizsgabizottság” szövegrész helyébe a „szakvizsgáztatás” szöveg lép.
+[^1]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
