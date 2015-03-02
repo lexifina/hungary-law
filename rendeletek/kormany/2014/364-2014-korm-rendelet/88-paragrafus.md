@@ -1,9 +1,3 @@
-## 87. § Az ÁNTSZr. 12. § (4) bekezdés a) pontja a következő ad) alponttal egészül ki:
+## 87. §[^24]
 
-## (A Kormány egészségügyi államigazgatási szervként az OTH-t jelöli ki
-
-## az Eütv.)
-
-## „ad) 159. § (6) bekezdése,”
-
-## (szerinti feladatok ellátására.)
+[^24]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 106–108. §[^28]
+## 106–108. §[^36]
 
 ## 20. A biocid termékek engedélyezésének és forgalomba hozatalának egyes szabályairól szóló 316/2013. (VIII. 28.) Korm. rendelet módosítása
 
-[^28]: A 106–108. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 106–108. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

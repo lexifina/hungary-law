@@ -1,11 +1,12 @@
-## 90. § Az ÁNTSZr. 23. § (1) bekezdésében a „természetes fürdővíz használatának engedélyezésére irányuló” szövegrész helyébe a „természetes fürdővízzé nyilvánítási” szöveg lép.
+## 90. §[^26]
 
-## 91. § Hatályát veszti az ÁNTSZr.
+## 91. §[^27]
 
-a) 12. § (4) bekezdés b) pont ba) alpontja,
+a)–b)[^28]
 
-b) 12. § (5) bekezdés c) pont cf) alpontja,
+c)[^29]
 
-c)[^21]
-
-[^21]: A 91. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 90. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 91. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 91. § a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 91. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
