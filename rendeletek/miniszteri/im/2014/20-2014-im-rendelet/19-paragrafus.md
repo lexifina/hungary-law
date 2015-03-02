@@ -20,23 +20,23 @@
 
 ## 18/2014. (III. 13.) KIM rendelet módosítása
 
-19. § (1)–(5)[^20]
+19. § (1)–(5)[^24]
 
-(6)[^21]
+(6)[^25]
 
 (7) A Hbnyr.
 
-a)[^22]
+a)[^26]
 
-b)[^23]
+b)[^27]
 
-c)–e)[^24]
+c)–e)[^28]
 
-f)–j)[^25]
+f)–j)[^29]
 
-[^20]: A 19. § (1)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 19. § (6) bekezdése a 21. § (7) bekezdése alapján 2015. március 15-én lép hatályba.
-[^22]: A 19. § (7) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 19. § (7) bekezdés b) pontja a 21. § (7) bekezdése alapján 2015. március 15-én lép hatályba.
-[^24]: A 19. § (7) bekezdés c)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 19. § (7) bekezdés f)–j) pontja a 21. § (7) bekezdése alapján 2015. március 15-én lép hatályba.
+[^24]: A 19. § (1)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 19. § (6) bekezdése a 21. § (7) bekezdése alapján 2015. március 15-én lép hatályba.
+[^26]: A 19. § (7) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 19. § (7) bekezdés b) pontja a 21. § (7) bekezdése alapján 2015. március 15-én lép hatályba.
+[^28]: A 19. § (7) bekezdés c)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 19. § (7) bekezdés f)–j) pontja a 21. § (7) bekezdése alapján 2015. március 15-én lép hatályba.
