@@ -1,1 +1,0 @@
-## „(5) Ha az ügyfél cégjegyzékben nyilvántartott cég, akkor a cégkivonatát, és ha a cég a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, az OEP az iratot elektronikus úton, közvetlen lekérdezéssel szerzi meg.”

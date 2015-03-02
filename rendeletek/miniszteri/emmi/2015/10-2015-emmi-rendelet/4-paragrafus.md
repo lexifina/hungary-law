@@ -1,9 +1,3 @@
-## 3. § Az R1. 22. § (1) bekezdés a) pontja a következő ae) alponttal egészül ki:
+## 2–3. §[^2]
 
-## (Egyszerűsített eljárásrend alkalmazandó, amikor a kérelem
-
-## már támogatott hatóanyagot tartalmazó gyógyszerrel egyenértékű készítmény:)
-
-## „ae) új csomagolására,”
-
-## (érkezett.)
+[^2]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
