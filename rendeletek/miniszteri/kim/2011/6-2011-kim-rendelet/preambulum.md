@@ -1,1 +1,0 @@
-A Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. § (2) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 2. § (1) bekezdésében és 12. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
