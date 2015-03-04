@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-76-00-00
 | 2015-01-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-76-00-00.29 |
 | 2015-01-04 | 2010. évi CXXX. törvény | 2012-76-00-00.30 |
 | 2015-03-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-76-00-00.31 |
+| 2015-03-04 | 2010. évi CXXX. törvény | 2012-76-00-00.32 |
