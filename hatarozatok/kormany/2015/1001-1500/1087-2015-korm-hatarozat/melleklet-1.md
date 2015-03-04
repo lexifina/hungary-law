@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## 4. visszavonja a KÖZOP-3.5.0-09-11-2013-0037 azonosító számú („31. sz. főút Heves megyei szakasz 115 kN tengelyterhelésre történő megerősítése” című) projektjavaslat akciótervi nevesítéséről és támogatásának jóváhagyásáról szóló 1829/2013. (XI. 14.) Korm. határozatot.
+## 4.[^2]
 
 1. melléklet az 1087/2015. (III. 3.) Korm. határozathoz
 
@@ -17,3 +17,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő megnevezése | Projekt támogatása (Ft) | Projekt rövid bemutatása | Támogathatóság feltételei |
 
 | 2. | KÖZOP-3.5.0-09- 11-2014-0047 | 31. sz. főút Heves megyei szakasz 115 kN tengelyterhelésre történő megerősítése | Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 9 626 425 387 | A fejlesztés célja a 31. számú főút teljes Heves megyei nyomvonala burkolatának 115 kN tengelyterhelés károsodás nélküli elviselésére történő megerősítése, valamint a forgalombiztonsági és a szolgáltatási színvonal javítása. Ennek keretében a főút egyes csomópontjai és műtárgyai átépítésre kerülnek. A fejleszteni kívánt 2x1 forgalmi sávos útszakasz hossza 23,1 km, burkolatszélessége átlagosan 7 m, koronaszélesség 10–11 m. | A projektzárás határideje nem nyúlhat túl 2017. március 31-én, azaz a Közlekedés Operatív Program programzárási dokumentumainak benyújtási határidején. |
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
