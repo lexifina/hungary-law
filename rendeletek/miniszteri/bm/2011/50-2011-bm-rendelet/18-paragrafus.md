@@ -1,3 +1,3 @@
-## 17. §[^20]
+## 17. §[^27]
 
-[^20]: A 17. §-t a 64/2013. (XII. 4.) BM rendelet 12. § c) pontja hatályon kívül helyezte.
+[^27]: A 17. §-t a 64/2013. (XII. 4.) BM rendelet 12. § c) pontja hatályon kívül helyezte.

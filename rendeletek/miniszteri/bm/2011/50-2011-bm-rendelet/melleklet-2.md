@@ -68,6 +68,6 @@
 
 |  | 21 | BM Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet az 50/2011. (XII. 20.) BM rendelethez[^23]
+2. melléklet az 50/2011. (XII. 20.) BM rendelethez[^30]
 
-[^23]: A 2. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^30]: A 2. melléklet a 24/2012. (V. 8.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.

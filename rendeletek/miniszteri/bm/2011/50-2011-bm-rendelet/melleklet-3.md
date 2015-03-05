@@ -22,6 +22,6 @@
 
 ## Nyilvántartási szám (adatváltozás esetén)
 
-3. melléklet az 50/2011. (XII. 20.) BM rendelethez[^24]
+3. melléklet az 50/2011. (XII. 20.) BM rendelethez[^31]
 
-[^24]: A 3. mellékletet a 24/2012. (V. 8.) BM rendelet 16. § c) pontja hatályon kívül helyezte.
+[^31]: A 3. mellékletet a 24/2012. (V. 8.) BM rendelet 16. § c) pontja hatályon kívül helyezte.
