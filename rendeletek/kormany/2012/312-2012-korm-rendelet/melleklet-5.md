@@ -120,13 +120,13 @@ A tűzvédelmi dokumentáció tartalma
 
 1.1. Műszaki leírás, ami tartalmazza:
 
-1.1.1. az építmény tűzveszélyességi osztályba sorolására, az építmény, tűzszakaszok tűzállósági fokozatára,
+1.1.1. a kockázati osztályba sorolásra,
 
 1.1.2. a technológia tűzvédelmére,
 
 1.1.3. az alkalmazott épületszerkezetek tűzvédelmi paramétereire,
 
-1.1.4. a tűzterhelés meghatározására,
+1.1.4.
 
 1.1.5. a tűzszakaszolásra, a tűzterjedés gátlására, a tűztávolságra,
 
@@ -168,4 +168,4 @@ A tűzvédelmi dokumentáció tartalma
 
 2.2. Helyszínrajz, melyen feltüntetik az engedélyezéssel érintett építményt és a szomszédos építményeket, valamint a közöttük lévő távolságot.
 
-[^119]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése szerint módosított szöveg.
+[^119]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.

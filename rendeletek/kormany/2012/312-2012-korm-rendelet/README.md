@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-312-20-
 | 2014-12-31 | 2012-312-20-22.18 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-01-01 | 2012-312-20-22.19 | 2010: CXXX. törvény |
 | 2015-01-11 | 2012-312-20-22.20 | 358/2013. (X. 9.) Korm. rendelet |
+| 2015-03-05 | 2012-312-20-22.21 | 67/2013. (III. 8.) Korm. rendelet |

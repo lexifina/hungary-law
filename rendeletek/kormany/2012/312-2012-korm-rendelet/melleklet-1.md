@@ -40,7 +40,7 @@ f) újjáépíteni.
 
 6. Épületben az önálló rendeltetési egységek számának változtatása.
 
-7. Kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, melynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet, kivéve műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 50 méterre álló új épület építését, vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítését vagy átalakítását.
+7. A 14. pont e) alpontjában és a 30. pontban foglaltak figyelembevételével a kereskedelmi, vendéglátó rendeltetésű épület építése, bővítése, melynek mérete az építési tevékenység után sem haladja meg a nettó 20,0 m2 alapterületet, kivéve műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 50 méterre álló új épület építését, vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítését vagy átalakítását.
 
 8. Nem emberi tartózkodásra szolgáló építmény építése, bővítése, melynek mérete az építési tevékenység után sem haladja meg a nettó 50 m3 térfogatot és 3,0 m gerincmagasságot.
 
@@ -60,7 +60,7 @@ b) urnafülke, sírhely, sírjel építése, elhelyezése.
 
 12. Emlékfal építése, melynek talapzatával együtt mért magassága nem haladja meg a 3,0 m-t.
 
-13. Park, játszótér, sportpálya megfelelőségi igazolással vagy teljesítménynyilatkozattal és műszaki specifikációval rendelkező műtárgyainak építése, egyéb építési tevékenység végzése.
+13. Park, játszótér, sportpálya megfelelőségi igazolással – vagy 2013. július 1-je után gyártott szerkezetek esetében teljesítménynyilatkozattal – rendelkező műtárgyainak építése, egyéb építési tevékenység végzése.
 
 14. Megfelelőség igazolással – vagy 2013. július 1-je után gyártott szerkezetek esetében teljesítménynyilatkozattal – rendelkező építményszerkezetű, tömegtartózkodás céljára nem szolgáló, és legfeljebb 180 napig fennálló
 
@@ -71,6 +71,8 @@ b) kiállítási vagy elsősegélyt nyújtó építmény,
 c) levegővel felfújt vagy feszített fedések (sátorszerkezetek),
 
 d) ideiglenes fedett lovarda
+
+e) az a) és b) alpontokban meghatározott rendeltetéssel rendelkező és legfeljebb 50 fő egyidejű tartózkodására alkalmas vagy nettó 20 m2 alapterületet meg nem meghaladó – az Országos Tűzvédelmi Szabályzat szerinti – állvány jellegű építmény
 
 építése.
 
@@ -124,7 +126,7 @@ f) újjáépíteni.
 
 29. Építési tevékenység végzéséhez szükséges, annak befejezését követően elbontandó állványzat mérethatár nélkül, bruttó 50 m3 térfogatot meg nem haladó felvonulási építmény építése.
 
-30. Magasles, vadetető, erdei építmény, kilátó építése, amelynek a terepcsatlakozástól mért legfelső pontja az 5,0 m-t nem haladja meg.
+30. A 7. pontban és a 14. pont e) alpontjában foglaltak figyelembevételével a magasles, vadetető, erdei építmény, kilátó építése, amelynek a terepcsatlakozástól mért legfelső pontja az 5,0 m-t nem haladja meg.
 
 31.
 
@@ -134,4 +136,4 @@ f) újjáépíteni.
 
 34. Közterületen, filmforgatáshoz kapcsolódó építmény létesítése.
 
-[^117]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 29. pontja szerint módosított szöveg.
+[^117]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 29. pontja, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
