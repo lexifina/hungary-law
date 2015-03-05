@@ -1,1 +1,0 @@
-## 19. Magasnyomású lapostömlők

@@ -1,7 +1,0 @@
-364. § (1) A tűzszakaszok közötti tűzterjedés megakadályozása céljából az épületek homlokzatán tűzszakaszonként, a tűzgátló szerkezetek vonalában (tűzfalak, tűzgátló falak és tűzgátló födémek előtt) a homlokzati nyíláson kilépő tűzzel szemben a tűzszakasz-határ tűzállósági határérték-követelmény időtartamán belül ellenálló tűzterjedés elleni gátat kell kiképezni. A tűzterjedés elleni gátakra a 17. sz. melléklet vonatkozó ábrája ad támpontot.
-
-(2) A tűzterjedés elleni gát mérete a függőleges tűzszakasz-határok vonalában legalább 90 cm.
-
-(3) A tűzterjedés elleni gát mérete vízszintes tűzszakasz-határok vonalában minimum 130 cm. Ha a vízszintes tűzszakasz-határ előtti gát kiugró tagozat nélkül valósul meg, minimum 130 cm méretű nyílásmentes sávot kell hagyni a homlokzaton. A homlokzati tűzterjedés elleni gáton B, C, D, E tűzvédelmi osztályba tartozó burkolat vagy hőszigetelés nem létesíthető, és a gáthoz tartozó homlokzati szakasz homlokzatburkolat mögötti légrését a gát alsó és felső síkjánál tűzgátló módon meg kell szakítani.
-
-(4) A homlokzati tűzterjedés elleni gát helyettesíthető az erre a célra megfelelő, homlokzatot védő beépített automatikus oltóberendezéssel. Sprinkler oltóberendezés akkor alkalmazható, ha az adott tűzszakasz teljes területe sprinklerekkel védett. A tűzterjedés elleni gátat helyettesítő oltóberendezés kialakításának módját – így vízfüggöny, sprinkler, vízköd – az I. fokú tűzvédelmi hatóság határozza meg.

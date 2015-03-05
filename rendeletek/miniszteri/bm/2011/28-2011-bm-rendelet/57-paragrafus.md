@@ -1,3 +1,0 @@
-## IV. Fejezet
-
-## MŰANYAG ALAPANYAGÚ TŰZOLTÓ KUPAKKAPCSOK

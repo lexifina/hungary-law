@@ -1,3 +1,0 @@
-87. § (1) A 3. és 4. osztályú tömlők pontszerű dörzsállóságuk szerint kategóriába soroltak. A felületi dörzsállósági kategóriákat a 6. melléklet 6. táblázata tartalmazza. A vizsgált tömlő abba a kategóriába tartozik, amelyhez tartozó kettős löketeket alkalmazva az ötből legalább négy mintadarab nem reped ki.
-
-(2) A pontszerű dörzsállóság vizsgálat során a vizsgálatot végző személy a tömlő öt, egyenként 1 m hosszú vizsgálati darabját vizsgálja. A pontszerű dörzsállóság meghatározásához a tömlőn körbe öt egyenlő távolságra lévő helyen minden egyes vizsgálati darabot megjelöl az öt helyzet valamelyikénél, az egyik felületet használva kiindulási pontként.

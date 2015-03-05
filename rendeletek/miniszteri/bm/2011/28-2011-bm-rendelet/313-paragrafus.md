@@ -1,1 +1,0 @@
-## 312. § Konvejor szerkezetek záróelemeinek osztályozási lehetőségeit a 15. melléklet 14. táblázata tartalmazza, továbbá az önzáródás kritériumának kiegészítő jelzésére a C0…C5 kategóriák szolgálnak.

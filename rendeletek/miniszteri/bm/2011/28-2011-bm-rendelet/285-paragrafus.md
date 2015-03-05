@@ -1,1 +1,0 @@
-## 98. Telepítési távolság

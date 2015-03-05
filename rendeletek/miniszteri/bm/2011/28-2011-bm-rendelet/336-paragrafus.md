@@ -1,5 +1,0 @@
-## 335. § A II. tűzállósági fokozatú és a III. tűzállósági fokozatú, 3–5 szintes épületekben legfeljebb 300 m2 alapterületű rendeltetési egységen belül a menekülési útvonalakat határoló falak kivételével C, D, E tűzvédelmi osztályú EI 15 minőségű válaszfalakat is lehet alkalmazni.
-
-336. § (1) A bölcsőde, óvoda, szociális otthon, a mozgásukban vagy cselekvőképességükben korlátozott személyek elhelyezésére, oktatására, nevelésére, kezelésére szolgáló rendeltetési egységek, valamint az I. tűzállósági fokozatból építendő épületek kivételével, ha azt egyéb építési előírás lehetővé teszi, helyiségen belül tűzállósági határérték nélküli, legalább D tűzvédelmi osztályba tartozó szintosztó födém és az azt kiszolgáló lépcsőszerkezet létesítése megengedett.
-
-(2) Egyéb esetben az osztófödémek (szintosztó födémek) szerkezetei tűzvédelmi osztályának és tűzállósági határértékének meghatározása a 16. melléklet 1-4. táblázatai alapján az épületek tűzállósági fokozatának és szintszámának figyelembe vételével az „emeletközi födémekre” vonatkozó követelmények szerint történjen.

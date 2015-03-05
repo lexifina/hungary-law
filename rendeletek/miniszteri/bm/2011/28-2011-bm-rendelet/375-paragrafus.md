@@ -1,1 +1,0 @@
-## 374. § Az „A” és „B” tűzveszélyességi osztályba tartozó helyiségek, övezetek padlóburkolata és lábazata mechanikai hatásra gyújtóképes szikrát nem okozó és – éghető folyadékok előfordulása esetén – folyadékot át nem eresztő legyen, valamint elektrosztatikus szempontból szigetelő ne legyen.

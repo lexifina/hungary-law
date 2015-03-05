@@ -1,7 +1,0 @@
-184. § (1) A mennyezethez rögzített, vagy önhordó, azt megközelítő épület-gépészeti elemeket gerendának kell tekinteni, ha azok és a mennyezet között 0,15 méternél kisebb távolság van. Ha ez a távolság nagyobb 0,15 méternél, akkor sem közelítheti meg az érzékelő 0,50 méternél jobban a gépészeti elemet, a kialakítást a 9. melléklet 8. ábra szemlélteti.
-
-(2) Ha a helyiség szellőzése meghaladja a tízszeres légcserét (óránként), akkor a 10. melléklet 2. táblázatában megadottakhoz képest az érzékelők által védhető terület nagyságát, a 10. melléklet 8. táblázat szerinti korrekciós tényezővel csökkentett, valamint a várható füstáramlás irányában kell az érzékelőket elhelyezni.
-
-(3) Amennyiben az érzékelő a perforált álmennyezeten van elhelyezve, a perforált álmennyezeti elemeken keresztül történő befúvás esetében az érzékelők megfelelően korai jelzése érdekében az érzékelők felett legalább 0,6 méter sugarú kör (vagy azt befoglaló négyzet) felületen levegőt, égésterméket, füstöt át nem eresztő borítást kell alkalmazni, kivéve ha a légcsere az óránkénti tízszeres értéket nem éri el.
-
-(4) Mennyezeti befúvás esetén az érzékelőket a befúvó nyílástól legalább 1m távolságra szabad csak elhelyezni, oldalsó befúvás esetén pedig legalább 1,5 m távolságra. Érzékelő a befújt levegő áramlási irányába nem lehet. Tervezésnél fokozotton kell ügyelni a nagyobb légsebességű helyiségek áramlástani viszonyaira (1 m/s felett).
