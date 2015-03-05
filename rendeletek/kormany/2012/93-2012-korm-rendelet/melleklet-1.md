@@ -248,6 +248,8 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 4.2.6. | Egyedi méretű vagy egyedi szerkezeti kialakítású híd monitoring rendszerének terve. |
 
+| 4.2.7. | Az Országos Tűzvédelmi Szabályzatban előírt követelmények teljesülését igazoló tűzvédelmi dokumentáció. |
+
 | 5. | Alagút engedélyezési tervdokumentációja |
 
 | 5.1. | Kötelező munkarészek |
@@ -301,6 +303,8 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 | 5.2.4. | Táj- és természetvédelmi terv. |
 
 | 5.2.5. | Építéstechnológiai terv. |
+
+| 5.2.6. | Az Országos Tűzvédelmi Szabályzatban előírt követelmények teljesülését igazoló tűzvédelmi dokumentáció. |
 
 | 6. | Tám- és bélésfalak engedélyezési tervdokumentációja |
 
@@ -410,5 +414,7 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 8.2.6. | Időszakos felülvizsgálatra vonatkozó utasítások. |
 
+| 8.2.7. | Tűzvédelmi dokumentáció. |
+
 [^2]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése szerint módosított szöveg.
+[^3]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a szerint módosított szöveg.
