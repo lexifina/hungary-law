@@ -1,3 +1,0 @@
-1. § (1) A rendelet hatálya kiterjed a nukleáris létesítmények sajátos tűzvédelmi szabályaira, a tűzesetek megelőzésének, a tűzoltási feladatok ellátásának, a tűzvizsgálatnak, valamint ezek feltételei biztosításának követelményeire, a létesítés, engedélyezés, használat és ellenőrzés során, azok érvényre juttatására és a tűzvédelmi ellenőrzések rendjére.
-
-(2) A rendelettel megállapított műszaki követelményeket a technológiai létesítmény, valamint az ezekbe beépítésre kerülő berendezés építési, létesítési eljárása során a tervezésnél, az átalakításnál, a bővítésnél, illetve a módosításnál annak körében és mértékében kell alkalmazni.
