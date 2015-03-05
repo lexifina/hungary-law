@@ -1,0 +1,9 @@
+# 5/2015. (II. 27.) BM rendelet
+
+az atomenergia alkalmazásával kapcsolatos sajátos tűzvédelmi követelményekről és a hatóságok tevékenysége során azok érvényesítésének módjáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-5-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-03-05 | 2015-5-20-0A.1 | 5/2015. (II. 27.) BM rendelet |
