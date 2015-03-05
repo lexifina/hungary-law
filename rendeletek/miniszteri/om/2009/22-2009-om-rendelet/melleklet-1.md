@@ -1,4 +1,4 @@
-1. melléklet a 22/2009. (VII. 23.) ÖM rendelethez[^15]
+1. melléklet a 22/2009. (VII. 23.) ÖM rendelethez[^17]
 
 ## Tűzvédelmi megfelelőségi tanúsítvány beszerzésére kötelezett termékek és technológiai rendszerek:
 
@@ -22,4 +22,4 @@
 
 10. egyéb tűzoltó-technikai termék (különösen szerelvényszekrény, tűzoltó kapocs, műanyag kupakkapocs, szívótömlő, nyomótömlő, állványcső, pótállványcső, tűzoltó sugárcső, habsugárcső, tűzcsapkulcs, kapocskulcs, osztó, gyűjtő, szűrőkosár, tűzoltó takaró, füstriasztó eszközök, nem szabványos tűzoltó készülék).
 
-[^15]: Az 1. mellékletet az 51/2012. (X. 11.) BM rendelet 7. §-a iktatta be.
+[^17]: Az 1. mellékletet az 51/2012. (X. 11.) BM rendelet 7. §-a iktatta be.
