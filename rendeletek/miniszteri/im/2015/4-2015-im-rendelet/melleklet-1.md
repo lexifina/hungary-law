@@ -1,3 +1,5 @@
-## 15. § Hatályát veszti a közigazgatási és igazságügyi miniszter által adományozható elismerésekről szóló 6/2011. (II. 24.) KIM rendelet.
+## 15. §[^1]
 
 1.melléklet a 4/2015. (III. 3.) IM rendelethez
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
