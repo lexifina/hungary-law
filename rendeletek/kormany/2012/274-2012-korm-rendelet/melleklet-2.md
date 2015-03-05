@@ -342,9 +342,9 @@ I. A tűz elleni védekezés jogi szabályozása
 
 ## A vizsgázó ismerje meg a tűz elleni védekezés rendszerét, a végrehajtásra kötelezettek feladatait és a tűzoltóság szerveinek jogállását. A vizsgázó rendelkezzen alapismeretekkel a tűzvédelmi hatósági és szakhatósági jogkörökről, a tűzvizsgálatról és azok felosztásáról, a tűzvédelem területén alkalmazott szankciók fajtáiról.
 
-II. Az Országos Tűzvédelmi Szabályzat előírásai és követelményei
+## II.[^10] Az Országos Tűzvédelmi Szabályzat előírásai és követelményei
 
-## A vizsgázó ismerje meg az alapvető előírásokat, és rendelkezzen részletesebb szakismeretekkel a tűzveszélyességi osztályba sorolás, valamint az építmények tűzvédelmének szabályairól.
+## A vizsgázó ismerje meg az alapvető előírásokat, és rendelkezzen részletesebb szakismeretekkel a tűzveszélyességi osztályba sorolás, a kockázati osztályba sorolás, valamint az építmények tűzvédelmének szabályairól.
 
 III. Tűzoltó szolgálati ismeretek
 
@@ -514,3 +514,4 @@ V. Büntető- és szabálysértési jogi feladatok
 
 [^8]: A 2. melléklet II.1. pont VII. alpontja a 297/2013. (VII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.
 [^9]: A 2. melléklet II.3. pont IV. alpontja a 221/2014. (IX. 4.) Korm. rendelet 693. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet II.7. pont „B” ismeretrész II. pontja a 300/2014. (XII. 5.) Korm. rendelet 18. §-a szerint módosított szöveg.
