@@ -38,7 +38,7 @@ l)[^9] lefolytatja a tűzvizsgálati eljárást,
 
 m)[^10] eljár az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendeletben (a továbbiakban: OTSZ) meghatározott azon engedélyezési ügyekben, melyeket e rendelet nem utal a hivatásos katasztrófavédelmi szerv területi vagy központi szerve hatáskörébe,
 
-n)[^11] az OTSZ-ben meghatározott esetben a szabadtéri rendezvény megtartását megtilthatja, illetve a rendezvény azonnali befejezését rendelheti el.
+n)[^11] a szabadtéri rendezvény megtartását megtilthatja, a rendezvény azonnali befejezését rendelheti el, ha az írásban meghatározott vonatkozó tűzvédelmi előírások, biztonsági intézkedések nem garantálják megfelelően a rendezvényen tartózkodók biztonságát, vagy nem tartják be azokat.
 
 (2) A Kormány első fokú tűzvédelmi hatóságként a hivatásos katasztrófavédelmi szerv területi szervét (a továbbiakban: területi szerv) jelöli ki, amely
 
@@ -114,7 +114,7 @@ lb) ellenőrzi a kiadott nyilatkozatok megfelelőségét.
 [^8]: Az 1. § (1) bekezdés k) pontját a 368/2012. (XII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^9]: Az 1. § (1) bekezdés l) pontját a 368/2012. (XII. 17.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^10]: Az 1. § (1) bekezdés m) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^11]: Az 1. § (1) bekezdés n) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^11]: Az 1. § (1) bekezdés n) pontját a 435/2013. (XI. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 300/2014. (XII. 5.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^12]: Az 1. § (2) bekezdés a)–b) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^13]: Az 1. § (2) bekezdés c) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 435/2013. (XI. 19.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^14]: Az 1. § (2) bekezdés d) pontja a 368/2012. (XII. 17.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

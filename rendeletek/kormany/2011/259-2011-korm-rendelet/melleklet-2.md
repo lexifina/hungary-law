@@ -64,7 +64,7 @@
 
 | 28. | Ha a munkáltató a munkavállalók ismétlődő vagy a tűzvédelmi hatóság által előírt soron kívüli tűzvédelmi oktatásáról, illetve a tűzvédelmi szabályzat megismertetéséről a jogszabályban vagy a tűzvédelmi szabályzatában, a soron kívüli oktatást előíró határozatban rögzített határidőre – igazolt módon – nem gondoskodott és a határidő óta több mint 15 nap eltelt | 100 000/munkavállaló |
 
-| 29. | Ha az üzemeltető a fokozottan tűz- és robbanásveszélyes („A”), a tűz- és robbanásveszélyes („B”), valamint a tűzveszélyes („C”) tűzveszélyességi osztályba tartozó létesítmény esetén nem gondoskodik – aláírt megállapodással, megbízással dokumentálva – megfelelő szervezettel, illetve tűzvédelmi szakképesítéssel rendelkező személlyel vagy szolgáltatás igénybevételével a létesítmény tűzvédelméről | 100 000 | 500 000 |
+| 29. | Ha az üzemeltető – aláírt megállapodással, megbízással dokumentálva – megfelelő szervezettel, illetve tűzvédelmi szakképesítéssel rendelkező személlyel vagy szolgáltatás igénybevételével nem gondoskodik a létesítmény tűzvédelméről ott, ahol ezt jogszabály előírja | 100 000 | 500 000 |
 
 | 30. | Ha a külön jogszabály alapján kötelezettek a jogszabály által előírt tűzvédelmi szabályzatot nem készítik, készíttetik el | 60 000 | 250 000 |
 
