@@ -4640,4 +4640,4 @@ Jelképek értelmezése
 
 Mennyiségérzék
 
-[^4]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 7. § (2)–(3) bekezdése, a 266/2013. (VII. 11.) Korm. rendelet 55. § j) pontja, a 297/2013. (VII. 29.) Korm. rendelet 80. §-a, a 345/2013. (IX. 30.) Korm. rendelet 65. §-a, a 393/2013. (XI. 12.) Korm. rendelet 38. §-a, a 447/2013. (XI. 28.) Korm. rendelet 9. §-a, a 80/2014. (III. 14.) Korm. rendelet 31–32. §-a, a 136/2014. (IV. 24.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. melléklet a 84/2013. (III. 21.) Korm. rendelet 7. § (2)–(3) bekezdése, a 266/2013. (VII. 11.) Korm. rendelet 55. § j) pontja, a 297/2013. (VII. 29.) Korm. rendelet 80. §-a, a 345/2013. (IX. 30.) Korm. rendelet 65. §-a, a 393/2013. (XI. 12.) Korm. rendelet 38. §-a, a 447/2013. (XI. 28.) Korm. rendelet 9. §-a, a 80/2014. (III. 14.) Korm. rendelet 31–32. §-a, a 136/2014. (IV. 24.) Korm. rendelet 18. § (2) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 17. §-a szerint módosított szöveg.
