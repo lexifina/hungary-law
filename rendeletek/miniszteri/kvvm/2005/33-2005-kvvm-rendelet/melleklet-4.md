@@ -28,7 +28,7 @@
 
 | 13. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
 
-4. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^41]
+4. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^42]
 
 A konzultációért fizetendő díj és számítási módja
 
@@ -48,4 +48,4 @@ T: szóbeli konzultáció esetén a konzultáció időtartama, írásbeli konzul
 
 SZ: a konzultáción részt vevő szakterületi ügyintézők száma.
 
-[^41]: A 4. mellékletet a 40/2014. (XII. 23.) FM rendelet 4. §-a iktatta be.
+[^42]: A 4. mellékletet a 40/2014. (XII. 23.) FM rendelet 4. §-a iktatta be.

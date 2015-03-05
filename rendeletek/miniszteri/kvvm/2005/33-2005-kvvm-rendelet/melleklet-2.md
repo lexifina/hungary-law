@@ -118,6 +118,8 @@
 
 |  | 2.7. | 5000 m3/nap mennyiség felett | 350 000 |
 
+|  | 2.8. | Gázveszélyes vízkészletet igénybevevő vízi létesítmény esetén | A 2.1.–2.7. pontokban megállapított díjtételen felül 13 000 Ft |
+
 |  | 3. | Termálvíz-kitermelés |  |
 
 |  | 3.1. | 5 m3/nap mennyiségig | 80 000 |
@@ -133,6 +135,8 @@
 |  | 3.6. | 1000 m3/nap-tól 5000 m3/nap mennyiségig | 600 000 |
 
 |  | 3.7. | 5000 m3/nap mennyiség felett | 700 000 |
+
+|  | 3.8. | Gázveszélyes vízkészletet igénybevevő vízi létesítmény esetén | A 3.1.–3.7. pontokban megállapított díjtételen felül 13 000 Ft |
 
 |  | 4. | Vízvisszasajtolás |  |
 
@@ -236,7 +240,11 @@
 
 | 28a. |  | Egynyári öntözésre szóló vízjogi üzemeltetési engedély [Vgtv. 28. § (1) bekezdés, 72/1996. (V. 22.) Korm. rendelet 5. § (12)–(13) bekezdés] | 5 000 |
 
+| 28b. |  | Gázveszélyes vízkészletet igénybevevő vízi létesítmény vízjogi üzemeltetési engedélyezési eljárása | A 28. pontban megállapított díjtételen felül 13 000 Ft |
+
 | 29. |  | Vízjogi üzemeltetési engedély szüneteltetése, visszavonása | A vízjogi üzemeltetési engedélyre megállapított díjtétel 50%-a |
+
+| 29a. |  | Gázveszélyes vízkészletet igénybevevő vízi létesítmény vízjogi üzemeltetési engedélyének szüneteltetése, visszavonása | A 29. pontban megállapított díjtételen felül 13 000 Ft |
 
 | 30. |  | Önellenőrzési terv jóváhagyása [220/2004. (VII. 21.) Korm. rendelet 28. § (2) bekezdés] | 23 000 |
 
@@ -491,6 +499,8 @@
 | 52. |  | Az 1–50. pontban foglalt engedélyek módosítása, ha az engedélyes, illetve környezethasználó személyében bekövetkezett változás miatt szükséges | Az 1–50. pontban foglalt díjtétel 25%-a |
 
 |  | 52a | Mezőgazdasági célú vízkivételt biztosító talajvízkút vízjogi üzemeltetési engedélyének egyszerűsített eljárásban történő módosítása [72/1996. (V. 22.) Korm. rendelet 11/A. §] | A 28. pontban foglalt díjtétel 25%-a |
+
+| 52a. |  | Gázveszélyes vízkészletet igénybevevő vízi létesítmény vízjogi létesítési és üzemeltetési engedélyének módosítása | Az 51–52. pontokban megállapított díjtételen felül 13 000 Ft |
 
 | 53. |  | A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 74. § (2) bekezdésének c) pontja alapján lefolytatott, a működési engedély kiadására vonatkozó eljárás | 750 000 |
 
@@ -912,6 +922,6 @@
 
 | 16. | Az országos vízügyi hatóságnak a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 51. § (2) bekezdése szerinti eljárásában a gördülő fejlesztési terv 2015. évben és minden további alkalommal történő benyújtása esetén | 36 600 |
 
-2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^39]
+2. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^40]
 
-[^39]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^40]: A 2. melléklet a 131/2013. (XII. 23.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.

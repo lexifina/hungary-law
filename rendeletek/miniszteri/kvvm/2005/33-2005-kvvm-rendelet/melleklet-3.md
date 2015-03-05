@@ -28,6 +28,6 @@
 
 | 12. | Vidékfejlesztési Minisztérium | 10032000-01494549 |
 
-3. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^40]
+3. melléklet a 33/2005. (XII. 27.) KvVM rendelethez[^41]
 
-[^40]: A 3. mellékletet a 131/2013. (XII. 23.) VM rendelet 1. § (4) bekezdése iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 3. mellékletet a 131/2013. (XII. 23.) VM rendelet 1. § (4) bekezdése iktatta be, szövege az 52/2014. (XI. 28.) BM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
