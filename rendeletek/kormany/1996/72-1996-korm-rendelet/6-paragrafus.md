@@ -1,4 +1,4 @@
-## 5/E. §[^55] A gázveszélyes vízkészletet igénybe vevő vízilétesítmény vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárásában, ha a termelt és szolgáltatott víz – gáztartalmának vizsgálata alapján – B vagy C gázfokozatba tartozik, a területi vízügyi hatóság szakhatóságként bevonja a tűzvédelmi hatóságot, aki megvizsgálja a tűzvédelmi előírásoknak való megfelelést és annak feltételeit.
+## 5/E. §[^55] A gázveszélyes vízkészletet igénybe vevő vízilétesítmény vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárásában, ha a termelt és szolgáltatott víz – gáztartalmának vizsgálata alapján – B vagy C gázfokozatba tartozik, a területi vízügyi hatóságként eljáró katasztrófavédelmi igazgatóság tűzvédelmi hatósági feladatkörében megvizsgálja a tűzvédelmi előírásoknak való megfelelést és annak feltételeit is.
 
 ## A vízi szolgalmakra vonatkozó rendelkezések
 
@@ -26,7 +26,7 @@ b)[^61] a jogosultat (vízjogi engedélyest) és az ingatlan tulajdonosát, vagy
 
 (8)[^64] Nemzeti vagyonba tartozó vizek medrét érintő saját célú vízvezetési szolgalom az üzemeltetési engedély bármely okból történő megszűnésének időpontjáig áll fenn.
 
-[^55]: Az 5/E. §-t a 221/2014. (IX. 4.) Korm. rendelet 165. §-a iktatta be.
+[^55]: Az 5/E. §-t a 221/2014. (IX. 4.) Korm. rendelet 165. §-a iktatta be, szövege a 300/2014. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^56]: [A 3. § (3) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
 [^57]: A 6. § (2a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^58]: A 6. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
