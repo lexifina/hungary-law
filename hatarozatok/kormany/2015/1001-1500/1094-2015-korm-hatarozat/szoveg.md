@@ -1,0 +1,1 @@
+A KÖZOP-3.4.0-09-2010-0003 azonosító számú „85–86. sz. főutak Győr–Csorna–Szombathely szakasza” című projekt vonatkozásában felmerült régészeti költségek finanszírozásáról szóló 2013/2013. (XII. 29.) Korm. határozat 1. pontjában a „földmunkához” szövegrész helyébe a „feltáráshoz” szöveg lép.
