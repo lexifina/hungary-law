@@ -62,10 +62,12 @@
 
 28. tűzijáték: szórakoztató célra szánt pirotechnikai termék,
 
-29. tűzvédelmi dokumentáció: az épület, létesítmény megközelíthetőségére, oltóvízellátására, tűzveszélyességi osztályba sorolására, tűzállósági fokozatára, az alkalmazott épületszerkezetek éghetőségi és tűzállósági paramétereire, a tűzszakaszok elhelyezkedésére, kiürítési számítására, épületgépészeti kialakítására, villámvédelmi rendszerére, valamint a tűzjelzésre és oltásra vonatkozó terv,
+29.[^1] tűzvédelmi dokumentáció: az épület, létesítmény megközelíthetőségére, oltóvízellátására, a kockázati osztályba sorolásra, az alkalmazott épületszerkezetek éghetőségi és tűzállósági paramétereire, a tűzszakaszok elhelyezkedésére, kiürítési számítására, épületgépészeti kialakítására, villámvédelmi rendszerére, valamint a tűzjelzésre és oltásra vonatkozó terv,
 
 30. vállalkozás: az egyéni vállalkozó, az egyéni cég és a gazdasági társaság; e cím vállalkozás tagjára, tulajdonosára, illetve vezető tisztségviselőjére vonatkozó rendelkezéseit az egyéni vállalkozóra, illetve az egyéni cégre is alkalmazni kell,
 
 31. védőterület: az a terület, amelyen belül a pirotechnikai termék rendeltetésszerű működése balesetet, sérülést vagy kárt okozhat,
 
 32. védőtávolság: az a minimális távolság, amelyet a pirotechnikai raktárépület telepítésekor, a létesítmény és a környezetében lévő más, védendő létesítmények között, azok irányaiban tartani kell.
+
+[^1]: Az 1. § 29. pontja a 300/2014. (XII. 5.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

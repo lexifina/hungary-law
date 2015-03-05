@@ -1,4 +1,4 @@
-1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez
+1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^18]
 
 1. A telepítési távolság meghatározása
 
@@ -6,7 +6,7 @@
 
 1.2. Az 1.1. pont szerinti védőtávolságot 50%-kal meg kell növelni, ha a pirotechnikai raktárépületet belterület mellé, külterületi lakott terület, vagy országos közút (autópálya, autóút, egyéb főközlekedési út), közforgalmú vasút, honvédelmi létesítmény és repülőtér, illetőleg különleges védelmet igénylő más létesítmény (különösen torony, távközlési létesítmény, függőhíd, gyárkémény, villamosmű, vízmű-telep és közcsőhálózat, kőolaj-, kőolajtermék- vagy gázvezeték külszíni létesítménye) közelébe tervezik telepíteni.
 
-1.3. A pirotechnikai raktárépület „RV-besorolású” építményeinek környezetében – mind a létesítményen belüli „RV-besorolású” vagy tűzveszélyességi osztályú építmények, mind pedig a külső létesítmények, építmények irányában – megtartandó védőtávolságokat az alábbi képletből kiindulva, számítással kell meghatározni:
+1.3. A pirotechnikai raktárépület „RV-besorolású” építményeinek környezetében – mind a létesítményen belüli „RV-besorolású” építmények, mind pedig a külső létesítmények, építmények irányában – megtartandó védőtávolságokat az alábbi képletből kiindulva, számítással kell meghatározni:
 
 ahol:
 
@@ -116,7 +116,7 @@ ahol:
 
 5. A robbanási ütőhullám megengedett legnagyobb értékei a védendő építményeknél, létesítményeknél
 
-5.1. A pirotechnikai raktárépületen belül védendő „RV-besorolású” vagy tűzveszélyességi osztályú építmények és szabadterek, valamint a védendő külső létesítmények, építmények – robbanási centrum felé eső – legközelebbi pontjainál, illetve tartózkodási helyein a robbanási ütőhullám nyomásmaximumának („p”) megengedett legnagyobb értékei az alábbiak:
+5.1. A pirotechnikai raktárépületen belül védendő „RV-besorolású” építmények és szabadterek, valamint a védendő külső létesítmények, építmények – robbanási centrum felé eső – legközelebbi pontjainál, illetve tartózkodási helyein a robbanási ütőhullám nyomásmaximumának („p”) megengedett legnagyobb értékei az alábbiak:
 
 5.1.1. 110 kPa-nál (0,1 bar túlnyomásnál) kisebb
 
@@ -219,3 +219,5 @@ ahol:
 |  | 19 | 1 | a robbanás kifúvási irányában (különösen. falon levő nyílás, ajtó, ablak irányában), ha a kifúvás irányában nincs védősánc, vagy vasbeton védőfal, |
 
 |  | 20 | 1 | a kifúvófal és kifúvó födém esetében. |
+
+[^18]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a szerint módosított szöveg.
