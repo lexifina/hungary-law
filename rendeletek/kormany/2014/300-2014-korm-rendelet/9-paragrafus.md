@@ -1,0 +1,1 @@
+## „(1) A 3. pirotechnikai osztályba tartozó tűzijáték termék közintézményben, középületben, sportlétesítményben, egyházi jogi személy által használt helyiségben, rendezvény helyszínéül szolgáló nyilvános helyen pirotechnikus irányításával használható fel.”

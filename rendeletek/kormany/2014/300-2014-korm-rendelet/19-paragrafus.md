@@ -1,5 +1,3 @@
-## 18. §[^15]
+## 18. § A rendészeti alapvizsgáról és a rendészeti szakvizsgáról, a Rendészeti Alap- és Szakvizsga Bizottságról, valamint a rendészeti alapvizsga vizsgabiztosi és a rendészeti szakvizsga vizsgabizottsági névjegyzékről szóló 274/2012. (IX. 28.) Korm. rendelet 2. melléklet II.7. cím „B” ismeretrészének II. pontjában a „tűzveszélyességi osztályba sorolás” szövegrész helyébe a „tűzveszélyességi osztályba sorolás, a kockázati osztályba sorolás” szöveg lép.
 
 ## 14. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
-
-[^15]: A 18. § a 20. § (2) bekezdése alapján 2015. március 5-én lép hatályba.
