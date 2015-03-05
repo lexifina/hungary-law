@@ -116,7 +116,7 @@
 
 ## 5.1.3.2. a létesítmény oltóanyagellátására, a tűzoltósági beavatkozási feltételekre,
 
-## 5.1.3.3. a létesítmény, építmény tűzveszélyességi osztályba sorolására, az építmény, tűzszakaszok tűzállósági fokozatára,
+## 5.1.3.3. a kockázati osztályba sorolásra,
 
 ## 5.1.3.4. az alkalmazott épületszerkezetek tűzvédelmi paramétereire,
 
@@ -130,7 +130,7 @@
 
 ## 5.1.3.9. a hő és füst elleni védelem kialakítására,
 
-## 5.1.3.10. a tűzterhelés meghatározására,
+## 5.1.3.10.
 
 ## 5.1.3.11. a technológia tűzvédelmére,
 
@@ -168,7 +168,7 @@
 
 ## 5.2.2.3. tűzterjedési gátak,
 
-## 5.2.2.4. helyiségek tűzveszélyességi osztálya,
+## 5.2.2.4.
 
 ## 5.2.2.5. helyiségek befogadóképessége,
 

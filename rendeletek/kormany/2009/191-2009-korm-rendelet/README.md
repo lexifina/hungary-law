@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-191-20-
 | 2014-06-13 | 2009-191-20-22.22 | 62/2014. (III. 6.) Korm. rendelet |
 | 2014-07-01 | 2009-191-20-22.23 | 160/2014. (VI. 30.) Korm. rendelet |
 | 2014-09-05 | 2009-191-20-22.24 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-03-05 | 2009-191-20-22.25 | 322/2012. (XI. 16.) Korm. rendelet |
