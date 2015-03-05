@@ -22,7 +22,7 @@ bb)[^18] állatgyógyászati készítmény kiskereskedelme esetén első fokú e
 
 c)[^19] ha nem veszélyes hulladékot forgalmaznak, és a tevékenység megkezdéséhez környezetvédelmi engedély nem szükséges, annak elbírálása kérdésében, hogy a hulladékgyűjtés és -tárolás eszközei, valamint a hulladékkezelés módja megfelel-e a hulladékgazdálkodási követelményeknek, okoz-e a hulladékkezelés környezetterhelést, biztosított-e az üzlet hulladékszállítási szempontból történő megközelíthetősége – első fokú eljárásban a környezetvédelmi és természetvédelmi felügyelőséget, másodfokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget,
 
-d)[^20] olyan üzlet esetében, amelyben „A” és „B” tűzveszélyességi osztályba tartozó vegyi árut és anyagot, pirotechnikai terméket, tüzelő- és „C” tűzveszélyességi osztályú építőanyagot, járművet vagy üzemanyagot forgalmaznak
+d)[^20] olyan üzlet esetében, amelyben az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó vegyi árut és anyagot, pirotechnikai terméket, tüzelő- és az Országos Tűzvédelmi Szabályzat szerint tűzveszélyes osztályba tartozó építőanyagot, járművet vagy üzemanyagot forgalmaznak
 
 da) a működtetni kívánt üzlet működésének engedélyezése esetén – a db) alpontban foglalt kivétellel – az első- és másodfokú hatósági eljárásban közreműködő tűzvédelmi szakhatóságokat,
 
@@ -41,7 +41,7 @@ f)[^22] a honvédelmi és katonai célú ingatlanon működtetni kívánt üzlet
 [^17]: A 7. § (4) bekezdés b) pont ba) alpontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (4) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 48. §-a szerint módosított szöveg.
 [^18]: A 7. § (4) bekezdés b) pont bb) alpontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (4) bekezdésével megállapított szöveg.
 [^19]: A 7. § (4) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 79. § b) és c) pontja szerint módosított szöveg.
-[^20]: A 7. § (4) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^20]: A 7. § (4) bekezdés d) pontja a 300/2014. (XII. 5.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^21]: A 7. § (4) bekezdés e) pontját a 402/2012. (XII. 28.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.
 [^22]: A 7. § (4) bekezdés f) pontját a 158/2011. (VIII. 11.) Korm. rendelet 28. § (2) bekezdése iktatta be.
 [^23]: A 7. § (6) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 256. § (5) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § p) pontja.
