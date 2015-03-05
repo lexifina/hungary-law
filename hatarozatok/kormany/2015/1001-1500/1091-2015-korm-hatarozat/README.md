@@ -1,0 +1,9 @@
+# 1091/2015. (III. 5.) Korm. határozat
+
+a Magyarország–Horvátország Határon Átnyúló Együttműködési Program 2014–2020 elfogadásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1091-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-03-05 | 2015-1091-30-22.1 | 1091/2015. (III. 5.) Korm. határozat |
