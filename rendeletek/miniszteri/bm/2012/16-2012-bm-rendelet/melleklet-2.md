@@ -10,7 +10,7 @@
 
 | 4. | Pirotechnikai tevékenység engedélyezésére irányuló eljárásban tűzvédelmi szakhatósági közreműködés | 13 000 |
 
-| 5. | Gázveszélyes vízkészletet igénybevevő vízmű vízjogi létesítési, valamint üzemeltetési engedélyének kiadására irányuló eljárásában tűzvédelmi szakhatósági közreműködés | 13 000 |
+| 5. |  |  |
 
 | 6. | A Sugáregészségügyi Decentrum és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásaiban tűzvédelmi szakhatósági közreműködés | 13 000 |
 
