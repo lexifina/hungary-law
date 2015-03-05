@@ -42,13 +42,13 @@
 
 ## 1.2.[^75] A gyűjtőhely működtetése során különösen a következő szempontokat kell figyelembe venni:
 
-## – a veszélyes hulladékot a hulladék kémiai hatásainak ellenálló, folyadékzáró csomagolóeszközben, gyűjtő-edényzetben kell gyűjteni,
+## – a veszélyes hulladékot a hulladék kémiai hatásainak ellenálló, folyadékzáró csomagolóeszközben, gyűjtőedényzetben kell gyűjteni,
 
 ## – illékony komponenseket tartalmazó veszélyes hulladékok gyűjtése során meg kell akadályozni, hogy ezek az összetevők a környezetbe kerülhessenek,
 
-## – az Országos Tűzvédelmi Szabályzat szerint ,,A'' tűzveszélyességi osztályba sorolt, egymással vagy önmagukban reakcióképes, továbbá gyorsan bomló szerves (és szervetlen) anyagokat tartalmazó veszélyes hulladékokat a szakhatóságok által jóváhagyott mennyiségben és módon kell gyűjteni,
+## – az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó, egymással vagy önmagukban reakcióképes, továbbá gyorsan bomló szerves (és szervetlen) anyagokat tartalmazó veszélyes hulladékokat a szakhatóságok által jóváhagyott mennyiségben és módon kell gyűjteni,
 
-## – a gyűjtés során használt csomagolóeszközök, gyűjtő-edényzet és tárolóterek (utak, térburkolatok) állapotát az üzemeltetési szabályzat előírásai szerint rendszeresen ellenőrizni és szükség szerint javítani kell.
+## – a gyűjtés során használt csomagolóeszközök, gyűjtőedényzet és tárolóterek (utak, térburkolatok) állapotát az üzemeltetési szabályzat előírásai szerint rendszeresen ellenőrizni és szükség szerint javítani kell.
 
 ## 1.3. A gyűjtőhely részletes működtetési és ellenőrzési szabályait az üzemeltetőnek üzemeltetési szabályzatban kell rögzítenie. A szabályzat végrehajtására felelős személyt kell kijelölni.
 
@@ -64,7 +64,7 @@
 
 ## 3. A tárolótelepen a veszélyes hulladék legfeljebb három évig tárolható. A tárolt veszélyes hulladékra kezelési tervet kell készíteni, és a három év letelte előtt gondoskodni kell hasznosításukról, illetve ártalmatlanításukról.
 
-## 4. A tárolótelepen az Országos Tűzvédelmi Szabályzat szerint ,,A'' tűzveszélyességi osztályba sorolt, egymással vagy önmagukban reakcióképes, továbbá gyorsan bomló szerves (és szervetlen) anyagokat tartalmazó veszélyes, valamint fertőző hulladékok nem tárolhatók.
+## 4.[^76] A tárolótelepen az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó, egymással vagy önmagukban reakcióképes, továbbá gyorsan bomló szerves (és szervetlen) anyagokat tartalmazó veszélyes, valamint fertőző hulladékok nem tárolhatók.
 
 ## 5. Tárolótelep üzemeltetése során az egyes veszélyes hulladékok elkülönített tárolását abban az esetben kell biztosítani, ha a veszélyes hulladékot hasznosítani kívánják, illetve ha a keveredés következtében az eredetinél nagyobb környezeti veszélyességgel rendelkező hulladék keletkezne.
 
@@ -74,7 +74,7 @@
 
 ## 7. A tárolótelepen ellenőrző laboratóriumot kell létesíteni a beszállított hulladékok összetételének, az alkalmazott kezelési technológiák, valamint az esetleg szennyeződött környezeti elemek állapotának ellenőrzése céljából.
 
-## 8.[^76] A tárolótelepen kizárólag a környezetvédelmi hatóság által kiadott engedélyben meghatározott veszélyeshulladék-kezelési eljárások alkalmazhatók.
+## 8.[^77] A tárolótelepen kizárólag a környezetvédelmi hatóság által kiadott engedélyben meghatározott veszélyeshulladék-kezelési eljárások alkalmazhatók.
 
 ## 9. A tárolótelepen a tárolás történhet nyílt téri vagy fedett formában az e mellékletben meghatározottak szerint.
 
@@ -128,5 +128,6 @@
 
 4. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez
 
-[^75]: A 3. számú melléklet 1. pont 1.2. alpontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 52. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^76]: [A 3. számú melléklet 8. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át.]
+[^75]: A 3. számú melléklet 1. pont 1.2. alpontja a 300/2014. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^76]: A 3. számú melléklet 4. pontja a 300/2014. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^77]: [A 3. számú melléklet 8. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át.]
