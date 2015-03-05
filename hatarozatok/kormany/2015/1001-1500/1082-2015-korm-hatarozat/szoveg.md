@@ -34,14 +34,8 @@ határozza meg.
 
 2. A Kormány egyetért azzal, hogy a közfoglalkoztatáshoz kapcsolódó képzési programok és munkaerő-piaci szolgáltatások részben európai uniós, részben központi költségvetési források terhére valósuljanak meg a területi felzárkózási koordinációs központi feladatok ellátására kijelölt állami szerv bevonásával.
 
-3. A közfoglalkoztatással összefüggő, egyes döntést igénylő kérdésekről szóló 1044/2013. (II. 5.) Korm. határozat 1. pont c) alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„c) a közfoglalkoztatás szempontjából kiemelt településeknek minősíti:
-
-ca) a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendelet mellékletében és a kedvezményezett járások besorolásáról szóló 290/2014. (XI. 26.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. és 6. mellékletében szereplő településeket;
-
-cb) a 2016. január 1-jéig benyújtott közfoglalkoztatási támogatás iránti kérelmek elbírálásáig a Korm. rendelet 4. mellékletében szereplő településeket.”
+3.[^2]
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
