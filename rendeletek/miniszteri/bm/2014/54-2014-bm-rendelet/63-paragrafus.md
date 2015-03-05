@@ -1,0 +1,1 @@
+## 35. Kiürítési számítás

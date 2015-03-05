@@ -1,0 +1,1 @@
+## 149. § A tűzvédelmi eszközök helyét jelző biztonsági jeleket az eszköz, felszerelés felett legalább 1,8 méteres magasságban, legfeljebb 2,5 méter magasságban kell elhelyezni úgy, hogy azok könnyen felismerhetőek legyenek, a 13. melléklet 1. ábrája alapján.
