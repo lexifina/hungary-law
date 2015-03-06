@@ -1,5 +1,7 @@
 ## A DÉL-ALFÖLDI OPERATÍV PROGRAM 2011-2013-AS AKCIÓTERVÉBEN NEVESÍTÉSRE KERÜLŐ KIEMELT PROJEKTEK
 
+## 5K02243M_0
+
 | száma | projekt megnevezése | támogatást igénylő neve | akciótervi nevesítés elszámolható közkiadás2 összege (Ft) | projekt rövid bemutatása | támogathatóság feltételei |
 
 | DAOP-2.1.1/G-11-k-2012-0001 | Hétköznapok és ünnepek az alföldi kastélyokban - A gyulai Almássy-kastély évszázadai | Gyula Város Önkormányzata | 1 995 000 000 | A gyulai Harruckern–Wenckheim–Almássy-kastély tulajdonosainak életét bemutató projekt megvalósulásával a kastélyban kerül létrehozásra Magyarország egyetlen, az alföldi kastélyok jellegzetes mindennapjait használható bútormásolatokkal, kipróbálható korabeli tárgyakkal, valamint interaktív bemutatóval feldolgozó élményturisztikai látogatóközpontja. | A Támogatási Szerződés részletes feltételeit a 4/2011. (I. 28.) Korm. rendelet 23/A-27.§ szerinti eljárás során az NFÜ határozza meg. |
@@ -21,6 +23,8 @@
 ## 2 Elszámolható közkiadásnak minősül a 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 2. § (1) bekezdés 16a. pontja alapján a megítélt támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény 6. § (1) bekezdés a)-f) pontja alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosítandó önerő összege is. Nem közszféra szervezet esetén az elszámolható közkiadás összege a megítélt támogatás összegével egyezik meg.
 
 ## A DÉL-DUNÁNTÚLI OPERATÍV PROGRAM 2011-2013-AS AKCIÓTERVÉBEN NEVESÍTÉSRE KERÜLŐ KIEMELT PROJEKTEK
+
+## 5K02243M_1
 
 | száma | projekt megnevezése | támogatást igénylő neve | akciótervi nevesítés elszámolható közkiadás3 összege (Ft) | projekt rövid bemutatása | támogathatóság feltételei |
 
@@ -46,6 +50,8 @@
 
 ## AZ ÉSZAK-ALFÖLDI OPERATÍV PROGRAM 2011-2013-AS AKCIÓTERVÉBEN NEVESÍTÉSRE KERÜLŐ KIEMELT PROJEKTEK
 
+## 5K02243M_2
+
 | száma | címe | támogatást igénylő neve | akciótervi nevesítés elszámolható közkiadás4 összege (Ft) | projekt rövid bemutatása | támogathatóság feltételei |
 
 | ÉAOP-2.1.1/E- 12-k1-2012- 0002 | "Menjetek be a kapun hálaénekkel"- turisztikai fejlesztés a Debreceni Református Nagytemplomban | Debrecen-Nagytemplom Református Egyházközség | 962 847 444 | A projekt célja a Debreceni Református Egyházközség tulajdonában álló Nagytemplom turisztikai vonzerejének növelése, melyet egyrészt az építészeti, szerkezeti megújítással, restaurálási munkák elvégzésével (padozat, ajtók, Úrasztala, Szószék, orgona) akadálymentesítéssel (lift kialakítása, akadálymentes illemhely kialakítása), a jelenleg funkció nélküli keleti torony kihasználásával, új (kiállító)terek megnyitásával kíván a Projektgazda elérni. | Projektfejlesztés szükséges, az akciótervi nevesítés nem eredményezi a Támogatási Szerződés megkötésének kötelezettségét. A Támogatási Szerződés megkötésére a részletes projektjavaslat benyújtását és értékelését követően kerülhet sor. |
@@ -64,15 +70,15 @@
 
 | ÉAOP-2.1.1/E- 12-k1-2012- 0009 | Tisza-tó és Hortobágy közötti kerékpárút kiépítése, komplex kerékpáros turisztikai fejlesztés megvalósítása, a Tisza-tó kerékpárok körgyűrű megvalósítása | Tisza-Tavi Turizmus Fejlesztő Egyesület | 700 000 000 | A projekt célja a Világörökség részét képező ökoturisztikai mintarégió kialakítása, egy Európai viszonylatban kimagasló, természeti élményeken alapuló, síkvidéki kerékpáros desztináció megteremtése. Továbbá a szinergia hatáson keresztül a térség komplex turisztikai fejlődése. | Projektfejlesztés szükséges, az akciótervi nevesítés nem eredményezi a Támogatási Szerződés megkötésének kötelezettségét. A Támogatási Szerződés megkötésére a részletes projektjavaslat benyújtását és értékelését követően kerülhet sor. |
 
-| ÉAOP-2.1.1/E- 12-k1-2012- 0011 NGM támogató nyilatkozattal rendelkezik, határidőn túl került benyújtásra, így befogadásra nem kerülhetett | A Zagyva-folyó kerékpáros turisztikai fejlesztése a Szolnok-Boldog települések közötti szakaszon | Jánoshida Község Önkormányzata | 2 110 445 600 | A Zagyva folyó mentén tervezett kerékpárforgalmi létesítmények hossza meghaladja a 86 km-t. Az előzetese felmérés alapján 6220 m külterületi, 4770 m belterületi kerékpárút épül. A projekt kapcsán kidolgozásra kerül a térség kerékpáros-barátszolgáltató minőségbiztosító rendszer, amelynek keretén belül felmérésre kerülnek a térségi potenciális kerékpárbarát szolgáltatók, felmérésre kerülnek a kerékpáros túrázási útvonalak és élménykataszter pontok. Kialakításra kerül egy kerékpárkölcsönző rendszer 200 túrakerékpárral, és 50 db kölcsönözhető GPS készülékkel. | Projektfejlesztés szükséges, az akciótervi nevesítés nem eredményezi a Támogatási Szerződés megkötésének kötelezettségét.. A Támogatási Szerződés megkötésére a részletes projektjavaslat benyújtását és értékelését követően kerülhet sor. |
-
-| Akciótervi nevesítésre javasolt összesen: | 13 611 725 953 |
+| Akciótervi nevesítésre javasolt összesen: | 11 501 280 353 |
 
 | Az ÉAOP-2.1.1/E-12 „Versenyképes turisztikai termék – és attrakciófejlesztés” kiírás kerete közkiadás alapon: | 14 740 000 000 |
 
 ## 4 Elszámolható közkiadásnak minősül a 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 2. § (1) bekezdés 16a. pontja alapján a megítélt támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény 6. § (1) bekezdés a)-f) pontja alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosítandó önerő összege is. Nem közszféra szervezet esetén az elszámolható közkiadás összege a megítélt támogatás összegével egyezik meg.
 
 ## AZ ÉSZAK-MAGYARORSZÁGI OPERATÍV PROGRAM 2011-2013-AS AKCIÓTERVÉBEN NEVESÍTÉSRE KERÜLŐ KIEMELT PROJEKTEK
+
+## 5K02243M_3
 
 | száma | projekt megnevezése | támogatást igénylő neve | akciótervi nevesítés elszámolható közkiadás5 összege (Ft) | projekt rövid bemutatása | támogathatóság feltételei |
 
@@ -99,6 +105,8 @@
 ## 5 Elszámolható közkiadásnak minősül a 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 2. § (1) bekezdés 16a. pontja alapján a megítélt támogatáson kívül a közbeszerzésekről szóló 2011. évi CVIII. törvény 6. § (1) bekezdés a)-f) pontja alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosítandó önerő összege is. Nem közszféra szervezet esetén az elszámolható közkiadás összege a megítélt támogatás összegével egyezik meg.
 
 ## A NYUGAT-DUNÁNTÚLI OPERATÍV PROGRAM 2011-2013-AS AKCIÓTERVÉBEN NEVESÍTÉSRE KERÜLŐ KIEMELT PROJEKTEK
+
+## 5K02243M_4
 
 | száma | projekt megnevezése | támogatást igénylő neve | akciótervi nevesítés elszámolható közkiadás6 összege (Ft) | projekt rövid bemutatása | támogathatóság feltételei |
 
