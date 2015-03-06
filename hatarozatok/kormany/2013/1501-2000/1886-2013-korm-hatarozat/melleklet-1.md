@@ -48,4 +48,6 @@
 
 ## a b) alpont tekintetében: 2014. január 31.
 
-1. melléklet az 1886/2013. (XI. 29.) Korm. határozathoz
+1. melléklet az 1886/2013. (XI. 29.) Korm. határozathoz[^2]
+
+[^2]: Az 1. melléklet az 1132/2015. (III. 6.) Korm. határozat szerint módosított szöveg.

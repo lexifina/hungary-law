@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1886-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2013-11-29 | 2013-1886-30-22.1 | 1886/2013. (XI. 29.) Korm. határozat |
+| 2015-03-06 | 2013-1886-30-22.2 | 1171/2023. (IV. 28.) Korm. határozat |

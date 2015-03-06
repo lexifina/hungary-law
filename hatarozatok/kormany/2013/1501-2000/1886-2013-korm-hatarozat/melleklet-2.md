@@ -98,6 +98,6 @@
 
 | 48. | NYDOP-5.2.1/C-11-2012-0001 | Keszthelyi Kórház | 17,50 | 17,50 | 0,00 | 0 |
 
-| 49. | Regionális Operatív Programok összesen | 3 709,68 | 1 166,17 | 2 543,51 | 515,05 |
+| 49. | NYDOP-5.2.1/C-11-2012-0001 | Zala Megyei Kórház | 103,019 | 0,00 | 103,019 | 0,00 |
 
 2. melléklet az 1886/2013. (XI. 29.) Korm. határozathoz
