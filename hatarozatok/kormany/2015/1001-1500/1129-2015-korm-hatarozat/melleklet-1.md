@@ -1,0 +1,77 @@
+## A Kormány
+
+## 1. egyetért „Az ivóvízminőség-javítása a magyarországi Észak-alföldi Régióban” című, 2004/HU/16/C/PE/005 azonosító számú KA projekt zárásához is szükséges azon műszaki feladatok végrehajtásával, amelyek biztosítják Nagyiván település hosszú távú, biztonságos, egészséges, a jogszabályban meghatározott határértékeknek bór tekintetében is megfelelő ivóvízzel történő ellátását;
+
+## 2. elrendeli a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 19. § (2) bekezdésében biztosított jogkörében eljárva
+
+## a) a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 3. Az egészséges ivóvíz biztosításához szükséges Tiszaörs-Nagyiván közötti összekötő vezeték megépítésének támogatása címmel történő kiegészítését;
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## b) az 1. pontban foglalt feladatok ellátására a Tiszaörs-Nagyiván közötti összekötő vezeték megépítése érdekében 30,0 millió forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 2. A helyi önkormányzatok kiegészítő támogatásai cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet 3. Az egészséges ivóvíz biztosításához szükséges Tiszaörs-Nagyiván közötti összekötő vezeték megépítésének támogatása cím javára az 1. melléklet szerint;
+
+## Felelős: nemzetgazdasági miniszter
+
+## belügyminiszter
+
+## Határidő: azonnal
+
+## 3. egyetért azzal, hogy a belügyminiszter – amennyiben a beruházás megvalósításához szükséges hatósági engedélyek rendelkezésre állnak – a 2. pont szerinti támogatást külön pályázat és kérelem benyújtása nélkül, vissza nem térítendő támogatás formájában, előfinanszírozás keretében és egy összegben nyújtsa a projekt zárásáért felelős kedvezményezettnek, az „Önkormányzati Társulás az Észak-alföldi Régió Ivóvíz-minőségének Javításáért” elnevezésű Önkormányzati Társulást képviselő Kisújszállás Város Önkormányzata (a továbbiakban: Önkormányzat) részére, valamint a támogatás felhasználásának és utólagos elszámolásának részletes feltételeiről 2015. június 30-ig támogatási szerződést kössön az Önkormányzattal;
+
+## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti támogatási szerződés megkötését követően a 2. pont szerinti támogatást legkésőbb 2016. december 31-éig történő felhasználási kötelezettséggel a támogatási szerződés megkötését követően legkésőbb 2015. július 10-ig folyósítsa az Önkormányzat számára.
+
+1. melléklet az 1129/2015. (III. 6.) Korm. határozathoz
+
+| IX. Helyi önkormányzatok támogatásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2015. Millió forintban, egy tizedessel |
+
+| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+|  | IX |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 350973 |  | 3 |  |  |  |  |  | Az egészséges ivóvíz biztosításához szükséges Tiszaörs-Nagyiván közötti összekötő vezeték megépítésének támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 30,0 |  |  |  |
+
+|  | IX |  |  |  |  |  | Helyi önkormányzatok támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 018450 |  | 2 |  |  |  |  |  | Helyi önkormányzatok kiegészítő támogatásai |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -30,0 |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Millió forintban, egy tizedessel |
+
+| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Millió forintban, egy tizedessel |
+
+| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
+
+| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
+
+| Fejezetet irányító szerv |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 30,0 |  |  |  |  |  |  |  |  | 30,0 |  |  |  |
+
+| Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni." |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
