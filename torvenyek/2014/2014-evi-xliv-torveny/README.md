@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-44-00-00
 | --- | --- | --- |
 | 2014-10-07 | 2014. évi XLIV. törvény | 2014-44-00-00.0 (közlönyállapot) |
 | 2014-10-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-44-00-00.1 |
+| 2015-03-06 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-44-00-00.2 |
