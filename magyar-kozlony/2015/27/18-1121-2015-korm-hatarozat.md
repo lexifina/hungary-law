@@ -1,0 +1,527 @@
+# A Kormány 1121/2015. (III. 6.) Korm. határozata
+
+Magyar Közlöny 2015. évi 27. szám, 2015. március 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/fdec83fac1936a0540076db69b48fac33f017de5/dokumentumok/9e55802f343086aae81cb26d7df4e7178739155b/letoltes)
+
+---
+
+A Kormány 1121/2015. (III. 6.) Korm. határozata
+a Közlekedés Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról
+1. A Kormány megállapítja a Közlekedés Operatív Program (a továbbiakban: KÖZOP) 2011–2013. évekre szóló
+akciótervét az 1. melléklet szerint.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. A Kormány visszavonja a Közlekedés Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról
+szóló 1503/2014. (IX. 5.) Korm. határozatot.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1121/2015. (III. 6.) Korm. határozathoz
+A KÖZLEKEDÉS OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
+1. Az 1. prioritás: Az ország és a régióközpontok nemzetközi közúti elérhetőségének javítása
+1.1. A prioritás tartalma: A prioritás keretében történő útfejlesztések legfontosabb célja a biztonságos elérhetőség
+javítása, a globális és regionális versenyképesség növelése, illetve a társadalmi-
+gazdasági és a területi kohézió erősítése. Az ország nemzetközi elérhetőségének
+javításában elsődleges szempont az Európai Unió országai közötti kapcsolatot
+szorosabbá fűző TEN folyosók közúti elemeinek fejlesztése, a gyorsforgalmi utak
+hálózatának kiépítése. A 2011–2013 közötti programozási időszakban a KÖZOP-ból
+finanszírozott fejlesztések nagyobb hangsúlyt fektetnek a határon átnyúló, illetve határok
+közötti úthálózat fejlesztésére, beleértve a TEN útvonalakra ráhordó alsóbb rendű utak
+komplex kapcsolódásának fejlesztését. További célként jelenik meg a balesetek számának
+csökkentése.
+1.2. A prioritás ütemezése
+1.2.1. A kiírások kerete – mivel a prioritás kerete 2009-ben meghirdetésre került, ezért nem releváns
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2011. 2012. 2013. Összesen
+3. – – – –
+4. Többletkötelezettség-vállalás: – Mrd Ft
+5. Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: –%
+1.2.2. A kötelezettségvállalás
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2013. 2014. 2015. Összesen
+3. 405,29 24,24 18,13 447,66
+
+1.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
+1.3.1. A konstrukciók
+A B C D E F G H
+1.
+Konstrukció
+kódja
+Konstrukció neve
+Pályázatok, kiemelt projektek
+meghirdethető kerete
+(Mrd Ft)
+A konstrukció célja
+A konstrukció
+szakmai
+tartalmáért
+felelős
+miniszter
+A konstrukció
+szakmai tartalma
+tekintetében
+feladatkörrel
+rendelkező
+további miniszter
+2. 2011. 2012. 2013.
+3. 1.5.
+Az ország és a
+régióközpontok
+nemzetközi közúti
+elérhetőségének
+javítása kiemelt
+projektek
+42,37 94,29 76,48
+A biztonságos elérhetőség javítása a globális
+és a regionális versenyképesség növelése,
+illetve a társadalmi-gazdasági és a területi
+kohézió erősítése. Az ország nemzetközi
+elérhetőségének javításában elsődleges
+szempont az Európai Unió országai közötti
+kapcsolatot szorosabbá fűző TEN folyosók
+közúti elemeinek fejlesztése, a gyorsforgalmi
+utak hálózatának kiépítése.
+nemzeti
+fejlesztési
+miniszter
+-
+1.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében az 1.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra
+növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
+1.3.3. Az 1.3.1. pontban foglalt táblázat 3. sora szerinti 1.5. konstrukció 109,22 milliárd forint többletkötelezettség-vállalást tartalmaz.
+
+2. A 2. prioritás: Az ország és a régióközpontok nemzetközi vasúti és vízi úti elérhetőségének javítása
+2.1. A prioritás tartalma: A vasúti törzshálózaton belüli fejlesztések elsősorban a TEN hálózathoz tartozó
+szakaszokra koncentrálnak, amelyeket komplex módon, a kapcsolódó informatikai,
+telematikai, biztonsági fejlesztések egészítenek ki. A vasúti fejlesztések célja olyan
+működő- és versenyképes vasúti közlekedés megteremtése, amely az alapvető utazási
+igényeket (sebesség, gyakoriság, pontosság, utazási komfort, biztonság) európai
+színvonalon képes kiszolgálni. További cél a villamosított vonalak hosszának és
+arányának növelése, és ennek eredményeképpen az elérhetőség javulása. A 2011–2013
+közötti programozási időszakban fókuszban áll a meglévő vasúti állomásépületek (felvételi
+épületek) fejlesztése, szolgáltatásuk színvonalának növelése. A Duna hajózhatóságát
+célzó konstrukciók – a projekt előkészítést és megvalósítást érintő – jelentős része a
+következő programozási időszakban valósul meg.
+2.2. A prioritás ütemezése
+2.2.1. A kiírások kerete – mivel a prioritás kerete 2009-ben meghirdetésre került, ezért nem releváns
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2011. 2012. 2013. Összesen
+3. – – – –
+4. Többletkötelezettség-vállalás: – Mrd Ft
+5. Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: –%
+2.2.2. A kötelezettségvállalás
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2013. 2014. 2015. Összesen
+3. 519,16 44,69 0,09 563,94
+
+2.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
+2.3.1. A konstrukciók
+A B C D E F G H
+1.
+Konstrukció
+kódja
+Konstrukció neve
+Pályázatok, kiemelt projektek
+meghirdethető kerete
+(Mrd Ft)
+A konstrukció célja
+A konstrukció
+szakmai
+tartalmáért
+felelős
+miniszter
+A konstrukció
+szakmai tartalma
+tekintetében
+feladatkörrel
+rendelkező
+további miniszter
+2. 2011. 2012. 2013.
+3. 2.5.
+Az ország és a
+régióközpontok
+nemzetközi vasúti és
+vízi úti
+elérhetőségének
+javítása kiemelt
+projektek
+1,59 168,26 87,65
+A cél a biztonságos elérhetőség javítása a globális
+és a regionális versenyképesség növelése, illetve a
+társadalmi-gazdasági és a területi kohézió erősítése.
+A vasúti törzshálózaton belüli fejlesztések
+elsősorban a TEN-T hálózathoz tartozó szakaszokra
+koncentrálnak, amelyeket komplex módon, a
+kapcsolódó informatikai, telematikai, biztonsági
+fejlesztések egészítenek ki. A vízi utak fejlesztése
+tekintetében a Duna hajózhatóság előkészítése a
+cél.
+nemzeti
+fejlesztési
+miniszter
+-
+2.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 2.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra
+növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
+2.3.3. A 2.3.1. pontban foglalt táblázat 3. sora szerinti 2.5. konstrukció 74,25 milliárd forint többletkötelezettség-vállalást tartalmaz.
+
+3. A 3. prioritás: Térségi elérhetőség javítása
+3.1. A prioritás tartalma: A régiók gazdaságilag és társadalmilag jelentős szerepet játszó nagyvárosainak TEN
+gyorsforgalmi úthálózatra csatlakoztató közúti kapcsolatainak fejlesztése a régiók egymás
+közötti és a gyorsforgalmi úthálózat elérhetőségét biztosító kapcsolatainak hatékonyabb
+kihasználása érdekében. A térségi elérhetőséget meghatározza a régió főútjainak
+kapacitása, műszaki állapota, ezért a 100 kN tengelyterhelésre kiépített útszakaszokat
+képessé kell tenni a 115 kN terhelésű jármű-forgalom lebonyolítására. A 2011–2013
+közötti programozási időszakban további célként jelenik meg a közúti balesetek számának
+csökkentése.
+3.2. A prioritás ütemezése
+3.2.1. A kiírások kerete – mivel a prioritás kerete 2009-ben meghirdetésre került, ezért nem releváns
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2011. 2012. 2013. Összesen
+3. – – – –
+4. Többletkötelezettség-vállalás: – Mrd Ft
+5. Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: –%
+3.2.2. A kötelezettségvállalás
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2013. 2014. 2015. Összesen
+3. 511,86 74,94 11,53 598,33
+
+3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
+3.3.1. A konstrukciók
+A B C D E F G H
+1.
+Konstrukció
+kódja
+Konstrukció neve
+Pályázatok, kiemelt projektek
+meghirdethető kerete
+(Mrd Ft)
+A konstrukció célja
+A konstrukció
+szakmai
+tartalmáért
+felelős
+miniszter
+A konstrukció
+szakmai tartalma
+tekintetében
+feladatkörrel
+rendelkező
+további miniszter
+2. 2011. 2012. 2013.
+3. 3.2.
+Kerékpárút-hálózat
+fejlesztése
+8,22 0,00 0,00
+A közúthálózat közlekedés-biztonságának javítása, az
+országos kerékpárút-hálózat hálózatként történő
+működésének elősegítése.
+nemzeti
+fejlesztési
+miniszter
+-
+4. 3.5.
+Térségi elérhetőség
+javítása – kiemelt
+projektek
+52,09 54,25 273,82
+A gyorsforgalmi hálózathoz való kapcsolódás és a
+régiók térségeit összekötő főutak fejlesztése, a régiók
+főútjainak kapacitásnövelése, műszaki állapotának és
+közlekedés-biztonsági helyzetének magasabb
+szolgáltatási szintre emelése.
+nemzeti
+fejlesztési
+miniszter
+-
+5. ÖSSZESEN 60,31 54,25 273,82
+3.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 3.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra
+növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
+3.3.3. A 3.3.1. pontban foglalt táblázat 3. és 4. sora szerinti 3.2. és 3.5. konstrukciók 153,43 milliárd forint többletkötelezettség-vállalást tartalmaznak.
+
+4. A 4. prioritás: Közlekedési módok összekapcsolása, gazdasági központok intermodalitásának és
+közlekedési infrastruktúrájának fejlesztése
+4.1. A prioritás tartalma: A prioritás célja az országos és regionális közlekedés intermodalitásának fokozása, az
+intelligens közlekedés-szervezés infrastruktúrájának megteremtése, és ennek révén a
+gazdaságos és - ahol lehet - környezetbarát elérhetőség javítása. A prioritásban
+megvalósuló fejlesztések elősegítik a közlekedési módok közötti váltást, logisztikai
+központok jobb bekapcsolását a fő közlekedési (közút, vasút, légi és vízi közlekedés)
+hálózatba. A fejlesztések jellege: összekötő/csatlakozó vasúti pályák, útcsatlakozások
+építése, fejlesztése, kikötői külső infrastruktúra-építés illetve fejlesztés.
+4.2. A prioritás ütemezése
+4.2.1. A kiírások kerete – mivel a prioritás kerete 2009-ben meghirdetésre került, ezért nem releváns
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2011. 2012. 2013. Összesen
+3. – – – –
+4. Többletkötelezettség-vállalás: – Mrd Ft
+5. Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: –%
+4.2.2. A kötelezettségvállalás
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2013. 2014. 2015. Összesen
+3. 36,68 10,38 1,53 48,59
+
+4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
+4.3.1. A konstrukciók
+A B C D E F G H
+1.
+Konstrukció
+kódja
+Konstrukció neve
+Pályázatok, kiemelt
+projektek meghirdethető
+kerete
+(Mrd Ft)
+A konstrukció célja
+A
+konstrukció
+szakmai
+tartalmáért
+felelős
+miniszter
+A konstrukció
+szakmai
+tartalma
+tekintetében
+feladatkörrel
+rendelkező
+további
+miniszter
+2. 2011. 2012. 2013.
+3. 4.1.
+Közlekedési módok
+összekapcsolása, gazdasági
+központok intermodalitásának
+és közlekedési
+infrastruktúrájának fejlesztése
+0,76 0,00 1,67
+Intermodális és regionális logisztikai
+központok, ipari parkok (ipari területek),
+kikötők és repülőterek külső
+infrastruktúrájának fejlesztését célzó
+beruházások támogatása.
+nemzeti
+fejlesztési
+miniszter
+-
+4. 4.5.
+Közlekedési módok
+összekapcsolása, gazdasági
+központok intermodalitásának
+és közlekedési
+infrastruktúrájának fejlesztése
+kiemelt projektek
+0,00 0,15 11,31
+A KÖZOP keretében a jelen prioritáson belül
+megvalósítandó intermodális
+közlekedésfejlesztési projektek támogatása
+annak érdekében, hogy a KÖZOP
+közlekedésfejlesztési projektjei megfelelő
+előkészítettség és a megvalósítási kockázatok
+minimalizálása mellett valósulhassanak meg.
+nemzeti
+fejlesztési
+miniszter
+-
+5. 4.6.
+Közlekedési módok
+összekapcsolása, gazdasági
+központok intermodalitásának
+és közlekedési
+infrastruktúrájának fejlesztése.
+Kikötői alapinfrastruktúra
+fejlesztése, korszerűsítése
+0,00 0,00 1,36
+Áruforgalmat bonyolító kikötők
+infrastruktúrájának korszerűsítése,
+intermodalitás fokozása
+nemzeti
+fejlesztési
+miniszter
+-
+6. ÖSSZESEN 0,76 0,15 14,34
+4.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 4.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra
+növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
+4.3.3. A 4.3.1. pontban foglalt táblázat 3–5. sora szerinti 4.1, 4.5 és 4.6 konstrukciók 3,64 milliárd forint többletkötelezettség-vállalást tartalmaznak.
+
+5. Az 5. prioritás: Városi és elővárosi közösségi közlekedés, környezetbarát fejlesztések
+5.1. A prioritás tartalma A városok elérhetőségének és átjárhatóságának javítása, a városi közlekedés
+zsúfoltságának enyhítése, a közlekedésbiztonsági kockázatok csökkentése érdekében
+jelentős fejlesztésekre kerül sor Budapesten, a vidéki nagyvárosokban és
+agglomerációikban. A fejlesztésekkel a közösségi közlekedés igénybevétele
+ösztönözhető, ami az előbbiek mellett a városi környezetterhelést (levegő- és
+zajszennyezést) is csökkenti. Cél az egyéni közlekedéssel szemben valódi alternatívát
+nyújtó, gazdasági és környezeti szempontból fenntartható közösségi közlekedés és
+környezetbarát közlekedési módok megteremtése.
+5.2. A prioritás ütemezése
+5.2.1. A kiírások kerete – mivel a prioritás kerete 2009-ben meghirdetésre került, ezért nem releváns
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2011. 2012. 2013. Összesen
+3. – – – –
+4. Többletkötelezettség-vállalás: – Mrd Ft
+5. Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: –%
+5.2.2. A kötelezettségvállalás
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2013. 2014. 2015. Összesen
+3. 580,42 19,05 15,81 615,28
+
+5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
+5.3.1. A konstrukciók
+A B C D E F G H
+1.
+Konstrukció
+kódja
+Konstrukció neve
+Pályázatok, kiemelt projektek
+meghirdethető kerete
+(Mrd Ft)
+A konstrukció célja
+A konstrukció
+szakmai
+tartalmáért
+felelős
+miniszter
+A konstrukció
+szakmai tartalma
+tekintetében
+feladatkörrel
+rendelkező
+további miniszter
+2. 2011. 2012. 2013.
+3. 5.5.
+Városi és elővárosi
+közösségi közlekedés,
+környezetbarát
+fejlesztések kiemelt
+projektek
+28,88 65,13 124,40
+A cél a közösségi közlekedés fejlesztése,
+hatékonyságának, szolgáltatási színvonalának
+emelése, előnyben részesítése az egyéni
+közlekedéssel szemben, továbbá a
+környezetbarát közlekedési módok
+támogatása.
+nemzeti
+fejlesztési
+miniszter
+-
+5.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében az 5.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra
+növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
+5.3.3. Az 5.3.1. pontban foglalt táblázat 3. sora szerinti 5.5 konstrukció 92,03 milliárd forint többletkötelezettség-vállalást tartalmaz.
+
+6. A 6. prioritás: Technikai segítségnyújtás
+6.1. A prioritás tartalma: Az alapokból lehetőség nyílik az operatív programok (a továbbiakban jelen pont
+alkalmazásában: OP) előkészítési, menedzsment, monitoring, értékelési, tájékoztatási és
+ellenőrzési tevékenységeinek finanszírozására. A központi intézmények kapacitásának
+biztosítása, a közreműködő szervezetek kapacitásának biztosítása, a monitoring
+bizottsággal kapcsolatban felmerülő költségek, az OP szintű kommunikációs
+tevékenységek, az OP végrehajtását támogató műszaki monitoring, ellenőrzési feladatok,
+az éves megvalósítási jelentésekkel kapcsolatos tevékenységek, az OP végrehajtását
+érintő tanulmányok és elemzések készítése finanszírozhatók. A prioritásban
+kedvezményezett lehet a Közlekedés Operatív Programokért Felelős Helyettes
+Államtitkárság, a KÖZOP céljait, illetve végrehajtását támogató feladatokat ellátó központi
+költségvetési szerv, 100% állami tulajdonú közhasznú gazdasági társaság.
+6.2. A prioritás ütemezése
+6.2.1. A kiírások kerete – mivel a prioritás kerete 2009-ben meghirdetésre került, ezért nem releváns
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2011. 2012. 2013. Összesen
+3. – – – –
+4. Többletkötelezettség-vállalás: – Mrd Ft
+5. Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: –%
+6.2.2. A kötelezettségvállalás
+A B C D
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2013. 2014. 2015. Összesen
+3. 19,22 0 0,58 19,80
+
+6.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
+6.3.1. A konstrukciók
+A B C D E F G H
+1.
+Konstrukció
+kódja
+Konstrukció neve
+Pályázatok, kiemelt projektek
+meghirdethető kerete
+(Mrd Ft)
+A konstrukció célja
+A konstrukció
+szakmai
+tartalmáért
+felelős
+miniszter
+A konstrukció
+szakmai tartalma
+tekintetében
+feladatkörrel
+rendelkező
+további miniszter
+2. 2011. 2012. 2013.
+3. 6.1.1.
+OP végrehajtás
+támogatása
+0,00 2,20 0,00
+A közreműködő szervezetre delegált feladatok
+végrehajtása, különösen a projektek teljes
+körű és eredményes lebonyolítása; az OP
+végrehajtásához kapcsolódó tevékenységek
+támogatása.
+nemzeti
+fejlesztési
+miniszter
+-
+4. 6.2.1.
+A monitoring bizottság
+működtetése
+0,00 0,00 0,00
+A monitoring bizottsági ülések eredményes
+lebonyolítása, a partneri ellenőrzés
+biztosítása.
+nemzeti
+fejlesztési
+miniszter
+-
+5. 6.2.2.
+Az irányító hatóság
+szakértői támogatása
+0,00 0,00 0,93
+Az irányító hatóság feladatainak magas
+színvonalú ellátása.
+nemzeti
+fejlesztési
+miniszter
+-
+6. ÖSSZESEN 0,00 2,20 0,93
+6.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 6.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra
+növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
+6.3.3. A 6.3.1. pontban foglalt táblázat 3–5. sora szerinti 6.1.1, 6.2.1 és 6.2.2 konstrukciók 0,06 milliárd forint többletkötelezettség-vállalást tartalmaznak.
