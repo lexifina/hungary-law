@@ -1,1 +1,3 @@
-## 11. § Hatályát veszti a tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló 19/2007. (VIII. 29.) ÖTM rendelet.
+## 11. §[^1]
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
