@@ -1,1 +1,0 @@
-## 12. § A tűzoltóságok és a Magyar Honvédség tűzvédelmi szerveinek együttműködési rendjéről, valamint egyes tűzvédelmi tárgyú miniszteri rendeletek módosításáról szóló 67/2012. (XII. 14.) BM rendelet (a továbbiakban: R6.) 3. § d) pontjában a „tűzveszélyességi osztályát” szövegrész helyébe az „amennyiben azzal rendelkezik, kockázati osztályát” szöveg lép.
