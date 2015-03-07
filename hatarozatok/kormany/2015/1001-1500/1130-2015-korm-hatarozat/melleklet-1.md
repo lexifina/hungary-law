@@ -22,8 +22,8 @@
 
 ## Határidő: azonnal
 
-## 2. A Regionális Operatív Programok keretében új kiemelt turisztikai projektek akciótervi nevesítéséről, valamint támogatásuk jóváhagyásáról szóló 1347/2012. (IX. 7.) Korm. határozat (a továbbiakban: határozat) 1. melléklet „AZ ÉSZAK-ALFÖLDI OPERATÍV PROGRAM 2011–2013-AS AKCIÓTERVÉBEN NEVESÍTÉSRE KERÜLŐ KIEMELT PROJEKTEK” című táblázat Akciótervi nevesítésre javasolt összesen sorában a „13 611 725 953” szövegrész helyébe a „11 501 280 353” szöveg lép.
-
-## 3. A Kormány visszavonja a határozat 1. melléklet „AZ ÉSZAK-ALFÖLDI OPERATÍV PROGRAM 2011–2013-AS AKCIÓTERVÉBEN NEVESÍTÉSRE KERÜLŐ KIEMELT PROJEKTEK” című táblázat ÉAOP-2.1.1/E-12-k1-2012-0011 azonosító számú kiemelt projektre vonatkozó sorát.
+## 2–3.[^2]
 
 1. melléklet az 1130/2015. (III. 6.) Korm. határozathoz
+
+[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
