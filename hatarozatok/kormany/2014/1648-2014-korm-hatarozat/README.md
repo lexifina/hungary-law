@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1648-30
 | --- | --- | --- |
 | 2014-11-14 | 2014-1648-30-22.1 | 1648/2014. (XI. 14.) Korm. határozat |
 | 2014-11-15 | 2014-1648-30-22.2 | 2010: CXXX. törvény |
+| 2015-03-07 | 2014-1648-30-22.3 | 1125/2015. (III. 6.) Korm. határozat |
