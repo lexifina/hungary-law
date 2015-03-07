@@ -246,7 +246,7 @@
 
 |  | Kollégiumi törzskönyv | Kt. |
 
-2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^237]
+2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^239]
 
 JEGYZÉK
 
@@ -316,4 +316,4 @@ Az egyes helyiségek és az udvar jellemző adatait (alapterület, belmagasság,
 
 megvilágítás) a hatályos építészeti, egészségügyi, munkavédelmi és tűzvédelmi jogszabályok tartalmazzák.
 
-[^237]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a, a 45/2014. (X. 27.) EMMI rendelet 54. § 32. pontja szerint módosított szöveg.
+[^239]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a, a 45/2014. (X. 27.) EMMI rendelet 54. § 32. pontja szerint módosított szöveg.

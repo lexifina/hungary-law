@@ -44,6 +44,10 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 
 (18)[^232] 2014-ben a 2015. évi pedagógiai-szakmai ellenőrzések szervezésével összefüggésben a kormányhivatalok számára meghatározott feladatokat – a kormányhivatalok folyamatos tájékoztatása mellett – a hivatal látja el a (16) bekezdés szerinti kiemelt projektek keretében.
 
+(19)[^233] Ha a szakképző iskola – a 2015/2016-os tanévre vonatkozó szakmaszerkezeti döntésről és a 2015/2016-os tanévben induló képzésekben szakiskolai tanulmányi ösztöndíjra jogosító szakképesítésekről szóló kormányrendelet 2015. február 11-ei hatálybalépését követően – a 2015/2016. tanévre a 32. § (3) bekezdése alapján közzétett felvételi tájékoztatójában nem szereplő új szakképzési tanulmányi területen hirdetett felvételt, akkor erre a szakképzési tanulmányi területre a 2015/2016. tanévre vonatkozó középfokú felvételi eljárás során – a 38. § (6) bekezdésében foglalt rendelkezésektől eltérően – a tanulói adatlap módosítása során új szakképzési tanulmányi területre történő jelentkezéskor a tanuló eredeti tanulói adatlapján nem szereplő szakképző iskola is megjelölhető.
+
+(20)[^234] A (19) bekezdésben meghatározott esetben a 38. § (6) bekezdése szerinti előzetes egyeztetés helyett az általános iskola a módosító tanulói adatlap mellett jelentkezési lapot is kiállít, és a jelentkezési lapot megküldi a szakképzést folytató iskolának.
+
 [^225]: A 193. § (9) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § t) pontja szerint módosított szöveg.
 [^226]: A 193. § (10) bekezdése a 45/2014. (X. 27.) EMMI rendelet 50. §-ával megállapított szöveg.
 [^227]: A 193. § (11) bekezdése a 22/2013. (III. 22.) EMMI rendelet 37. §-ával megállapított szöveg.
@@ -52,3 +56,5 @@ d) a középiskola utolsó évfolyamának elvégzéséhez vagy középiskolai v�
 [^230]: A 193. § (17) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be.
 [^231]: A hatálybalépés időpontja 2014. november 4.
 [^232]: A 193. § (18) bekezdését a 45/2014. (X. 27.) EMMI rendelet 51. §-a iktatta be.
+[^233]: A 193. § (19) bekezdését a 13/2015. (III. 6.) EMMI rendelet 1. §-a iktatta be.
+[^234]: A 193. § (20) bekezdését a 13/2015. (III. 6.) EMMI rendelet 1. §-a iktatta be.
