@@ -874,9 +874,9 @@
 
 ## II. A SZOLGÁLTATANDÓ INFORMÁCIÓKHOZ KAPCSOLÓDÓ TÁBLÁK ÉS AZ AZOK KITÖLTÉSÉRE VONATKOZÓ RENDELKEZÉSEK
 
-## 20142C20000048_1
+## 20142C20000048_2
 
-3. melléklet a 48/2014. (XI. 27.) MNB rendelethez
+3. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^6]
 
 Az információk szolgáltatásához szükséges technikai segédletek
 
@@ -910,6 +910,8 @@ Az információk szolgáltatásához szükséges technikai segédletek
 
 4.11. Kódlista az L11 azonosító kódú adatszolgáltatáshoz
 
+4.12. Kódlista az L70 azonosító kódú adatszolgáltatáshoz
+
 5. Az adatszolgáltatások összefüggései, egyedi ellenőrzési szempontjai
 
 6. MNB-ben felvilágosítást adók listája
@@ -927,3 +929,5 @@ Az információk szolgáltatásához szükséges technikai segédletek
 12. A jelentő letétkezelők (értékpapír-statisztikai adatszolgáltatások teljesítésére kötelezettek) listája
 
 13. Az egyes nemzetközi intézmények monetáris statisztikai adatszolgáltatásokban történő besorolását meghatározó lista (F01, F03, F08, F09, F14, F19, F33, F77-F87 adatszolgáltatások)
+
+[^6]: A 3. melléklet a 4/2015. (III. 6.) MNB rendelet 6. §-a szerint módosított szöveg.

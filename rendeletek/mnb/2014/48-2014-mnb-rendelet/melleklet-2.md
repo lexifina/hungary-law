@@ -134,6 +134,8 @@
 
 | 64 | L11 | Nyújtott vállalati és háztartási hitelek hitelkockázati adatai | hitelintézetek, az ezen típusú EGT-fióktelepek | negyedéves | elektronikus úton [az MNB „Kihelyezett Adatküldő Program” megnevezésű jelentésfogadó rendszere (a továbbiakban: KAP rendszer)] | tárgyidőszakot követő 25. munkanap | MNB Statisztikai igazgatóság |
 
+| 64a | L70 | Projektfinanszírozási hitelek, konszolidációs körön kívüli társasággal szembeni, ingatlanfinanszírozáshoz kapcsolódó kitettségek és értékesítési célú ingatlanok | kijelölt bankok | egyedi elrendelés alapján, negyedéves | elektronikus úton (KAP rendszer) | tárgyidőszakot követő 29. munkanap | MNB Statisztikai igazgatóság |
+
 | 65 | SL2 | Fogyasztási hitelezés | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT-fióktelepek | egyedi elrendelés alapján, negyedéves | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 12. munkanap 12 óra | MNB Statisztikai igazgatóság |
 
 | 66 | SL3 | Vállalati hitelezés | kijelölt bankok, szakosított hitelintézetek, az ezen típusú EGT-fióktelepek | egyedi elrendelés alapján, negyedéves | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 12. munkanap 12 óra | MNB Statisztikai igazgatóság |
@@ -282,4 +284,6 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatási főosztály |
 
-2. melléklet a 48/2014. (XI. 27.) MNB rendelethez
+2. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^5]
+
+[^5]: A 2. melléklet a 4/2015. (III. 6.) MNB rendelet 5. §-a szerint módosított szöveg.
