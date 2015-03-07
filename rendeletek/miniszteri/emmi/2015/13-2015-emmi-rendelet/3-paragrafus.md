@@ -1,0 +1,3 @@
+## 2. § A 2014/2015. tanév rendjéről és az egyes oktatást szabályozó miniszteri rendeletek módosításáról szóló 35/2014. (IV. 30.) EMMI rendelet (a továbbiakban: Rendelet) a következő 13. §-sal egészül ki:
+
+## „13. § A 2. mellékletben foglalt táblázatnak – a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet és a 2014/2015. tanév rendjéről és az egyes oktatást szabályozó miniszteri rendeletek módosításáról szóló 35/2014. (IV. 30.) EMMI rendelet módosításáról szóló 13/2015. (III. 6.) EMMI rendelettel (a továbbiakban: R.) módosított – A:22, A:23 és A:26–A:29 mezőjében foglaltakat az R. hatálybalépésekor folyamatban lévő felvételi eljárásban is alkalmazni kell.”
