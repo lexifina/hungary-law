@@ -170,4 +170,6 @@
 
 ## 7. A HÍD II. programok keretében megszerezhető részszakképesítések írásbeli vizsgatevékenységeinek időpontja 2015. június 17., a további vizsgatevékenységeket 2015. június 30-ig kell megszervezni.
 
-2. melléklet a 35/2014. (IV. 30.) EMMI rendelethez
+2. melléklet a 35/2014. (IV. 30.) EMMI rendelethez[^5]
+
+[^5]: A 2. melléklet a 13/2015. (III. 6.) EMMI rendelet 3. §-a szerint módosított szöveg.

@@ -44,21 +44,21 @@
 
 | 21. | 2015. 03. 11. | A középfokú iskola eddig az időpontig nyilvánosságra hozza a jelentkezők felvételi jegyzékét. |
 
-| 22. | 2015. 03. 16-17. | A tanulói adatlapok módosításának lehetősége az általános iskolában. |
+| 22. | 2015. 03. 16–19. | A tanulói adatlapok módosításának lehetősége az általános iskolában. |
 
-| 23. | 2015. 03. 18. | Az általános iskola eddig az időpontig elzárva őrzi az eredeti, korábban beküldött tanulói adatlap második példányát. A módosító tanulói adatlapot ekkor kell megküldeni a Felvételi Központnak. |
+| 23. | 2015. 03. 20. | Az általános iskola eddig az időpontig elzárva őrzi az eredeti, korábban beküldött tanulói adatlap második példányát. A módosító tanulói adatlapot ekkor kell megküldeni a Felvételi Központnak. |
 
 | 24. | 2015. 03. 23. | A Felvételi Központ elektronikus formában megküldi a középfokú iskoláknak a hozzájuk jelentkezettek listáját ABC sorrendben. |
 
 | 25. | 2015. 03. 30. | Az állami intézményfenntartó központ kijelöli a Köznevelési Hídprogramokat a következő tanévtől megvalósító középfokú intézményt vagy intézményeket, és erről tájékoztatja az általános iskolákat. |
 
-| 26. | 2015. 04. 02. | A Felvételi Központ a módosító tanulói adatlapok alapján kiegészíti a jelentkezettek listáját. |
+| 26. | 2015. 04. 07. | A Felvételi Központ a módosító tanulói adatlapok alapján kiegészíti a jelentkezettek listáját. |
 
-| 27. | 2015. 04. 08. | A középfokú iskola igazgatója az ideiglenes felvételi rangsort megküldi a Felvételi Központnak. |
+| 27. | 2015. 04. 13. | A középfokú iskola igazgatója az ideiglenes felvételi rangsort megküldi a Felvételi Központnak. |
 
-| 28. | 2015. 04. 17. | A Felvételi Központ kialakítja a végeredményt az igazgatói döntések és tanulói adatlapok egyeztetése alapján, és elküldi azt a középfokú iskoláknak (egyeztetett felvételi jegyzék). |
+| 28. | 2015. 04. 22. | A Felvételi Központ kialakítja a végeredményt az igazgatói döntések és tanulói adatlapok egyeztetése alapján, és elküldi azt a középfokú iskoláknak (egyeztetett felvételi jegyzék). |
 
-| 29. | 2015. 04. 24. | A felvételt hirdető középfokú iskolák megküldik a felvételről vagy az elutasításról szóló értesítést a jelentkezőknek és az általános iskoláknak. |
+| 29. | 2015. 04. 29. | A felvételt hirdető középfokú iskolák megküldik a felvételről vagy az elutasításról szóló értesítést a jelentkezőknek és az általános iskoláknak. |
 
 | 30. | 2015. 05. 04-15. | Rendkívüli felvételi eljárást kell tartani, ha az általános felvételi eljárás keretében a felvehető létszám 90%-ánál kevesebb tanulót vettek fel. |
 
