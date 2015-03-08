@@ -1,1 +1,0 @@
-6. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba, hatálybalépésével egyidejűleg hatályát veszti a közművelődési feladatellátás országos szakfelügyeletéről szóló 5/1999. (III. 26.) NKÖM rendelet.
