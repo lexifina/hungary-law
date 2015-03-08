@@ -2,7 +2,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Kormány visszavonja a Közlekedés Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1503/2014. (IX. 5.) Korm. határozatot.
+## 3.[^1]
 
 1. melléklet az 1121/2015. (III. 6.) Korm. határozathoz
 
@@ -299,3 +299,5 @@
 6.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 6.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
 6.3.3. A 6.3.1. pontban foglalt táblázat 3–5. sora szerinti 6.1.1, 6.2.1 és 6.2.2 konstrukciók 0,06 milliárd forint többletkötelezettség-vállalást tartalmaznak.
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
