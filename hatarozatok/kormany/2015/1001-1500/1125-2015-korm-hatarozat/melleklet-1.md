@@ -24,27 +24,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Kormány visszavonja
-
-## a) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterv kereteinek módosításáról szóló 1235/2013. (IV. 23.) Korm. határozatot,
-
-## b) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1543/2013. (VIII. 15.) Korm. határozatot,
-
-## c) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról szóló 1882/2013. (XI. 28.) Korm. határozatot,
-
-## d) a Környezet és Energia Operatív Program 2011–2013. évi akcióterve 6. prioritásának módosításáról, valamint a prioritás keretében kiemelt projekt előzetes nevesítéséről és felhívás közzétételéről szóló 1648/2014. (XI. 14.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## e) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 5. prioritásának megállapításáról szóló 1795/2014. (XII. 19.) Korm. határozatot,
-
-## f) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról, valamint a prioritás keretében megvalósuló egyes projektek támogatásának növeléséről szóló 1861/2014. (XII. 30.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## g) a Környezet és Energia Operatív Program 2011–2013. évi akcióterve 3. prioritásának megállapításáról, valamint a prioritás keretében kiemelt projektek előzetes nevesítéséről és felhívás közzétételéről szóló 1862/2014. (XII. 30.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## h) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 4. prioritásának megállapításáról szóló 1863/2014. (XII. 30.) Korm. határozatot,
-
-## i) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 4. prioritásának megállapításáról szóló 1863/2014. (XII. 30.) Korm. határozatot, a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 7. prioritásának megállapításáról szóló 1864/2014. (XII. 30.) Korm. határozatot, és
-
-## j) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának megállapításáról, valamint a KEOP-2.1.2/2F/09-11-2012-0006 azonosító számú („Hatékony árvízvédelem Vácon” című) és a KEOP-2.5.0/B-09-12-2013-0001 azonosító számú („Árvízi kockázati térképezés és stratégiai kockázati terv készítése” című) projektek támogatásának növeléséről szóló 1866/2014. (XII. 30.) Korm. határozat 1. pontját és 1. mellékletét.
+## 3.[^1]
 
 1. melléklet az 1125/2015. (III. 6.) Korm. határozathoz
 
@@ -509,3 +489,5 @@
 8.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 8.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
 8.3.3. A prioritás nem tartalmaz többletkötelezettség-vállalást.
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
