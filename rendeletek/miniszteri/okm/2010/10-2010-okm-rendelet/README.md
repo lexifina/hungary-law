@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-10-20-1
 | 2012-03-29 | 2010-10-20-1W.2 | 18/2012. (III. 28.) NEFMI rendelet |
 | 2012-12-29 | 2010-10-20-1W.3 | 54/2012. (XII. 28.) EMMI rendelet |
 | 2013-03-24 | 2010-10-20-1W.4 | 21/2013. (III. 19.) EMMI rendelet |
+| 2015-03-08 | 2010-10-20-1W.5 | 5/2015. (I. 22.) EMMI rendelet |
