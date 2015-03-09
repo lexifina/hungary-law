@@ -1,7 +1,8 @@
-## 2. §[^2] A szakvizsgát a fővárosi és megyei kormányhivatal felnőttképzés keretében szervezi.
+## 2. §[^2] A szakvizsgát a fővárosi és megyei kormányhivatal szervezi.
 
-3. § (1) A szakvizsga részei a felkészítő tanfolyam, valamint az írásbeli és szóbeli vizsgarészből álló vizsga.
+3. § (1)[^3] A szakvizsga részei a felkészítő tanfolyam, valamint a gyakorlati és szóbeli vizsgarészből álló vizsga.
 
 (2) A szakvizsgán az a jelölt vehet részt, aki az 1. melléklet szerinti jelentkezési lapot legalább 15 nappal a felkészítő tanfolyam megkezdése előtt megküldte a szervezőnek. E rendelkezéstől a szervező eltérhet.
 
-[^2]: A 2. § az 50/2012. (XII. 4.) KIM rendelet 21. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a 6/2015. (III. 6.) BM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdése a 6/2015. (III. 6.) BM rendelet 8. § a) pontja szerint módosított szöveg.

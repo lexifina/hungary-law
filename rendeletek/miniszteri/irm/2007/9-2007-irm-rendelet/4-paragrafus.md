@@ -1,5 +1,5 @@
-4. § (1)[^3] A felkészítő tanfolyam időtartama 100 óra, ezen belül 40 óra a gyakorlati foglalkozások, 60 óra az elméleti felkészítés időtartama.
+4. §[^4] (1) A felkészítő tanfolyam időtartama 160 óra, ezen belül 100 óra a gyakorlati foglalkozások, 60 óra az elméleti felkészítés időtartama.
 
-(2) Vizsgára az a jelölt bocsátható, aki a tanfolyami órák több mint 75%-án részt vett.
+(2) Vizsgára az a jelölt bocsátható, aki mind a gyakorlati, mind az elméleti tanfolyami órák több mint 80%-án részt vett.
 
-[^3]: A 4. § (1) bekezdése az 54/2012. (XII. 28.) KIM rendelet 20. §-a szerint módosított szöveg.
+[^4]: A 4. § a 6/2015. (III. 6.) BM rendelet 2. §-ával megállapított szöveg.

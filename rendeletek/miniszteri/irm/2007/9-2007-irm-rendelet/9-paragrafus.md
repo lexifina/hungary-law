@@ -14,10 +14,13 @@ e) összeállítja a vizsgabizottságot,
 
 f) vezeti az 5. mellékletben meghatározott adattartalmú vizsganyilvántartó-könyvet,
 
-g) a szóbeli vizsga eredményes letételéig őrzi az írásbeli vizsgadolgozatot, és biztosítja a jelölt részére az értékelést követő betekintést,
+g)[^12]
 
-h) gondoskodik a 6. mellékletben foglalt minta szerinti vizsgajegyzőkönyve vezetéséről, valamint a vizsgabizonyítványok kitöltéséről.
+h)[^13] gondoskodik a 6. és a 7. mellékletben foglalt minta szerinti vizsgajegyzőkönyv vezetéséről, valamint a 4. melléklet szerinti vizsgabizonyítványok kitöltéséről.
 
 (2) A vizsganyilvántartó-könyv és a jegyzőkönyv nem selejtezhető közokirat, megőrzésükről a szervező az iratkezelési szabályok szerint gondoskodik.
 
 (3) Az elveszett vagy megsemmisült bizonyítványról – kérelemre – a vizsganyilvántartó-könyv alapján a vizsgaszervező díjmentesen bizonyítvány másodlatot állít ki.
+
+[^12]: A 9. § (1) bekezdés g) pontját a 6/2015. (III. 6.) BM rendelet 9. §-a hatályon kívül helyezte.
+[^13]: A 9. § (1) bekezdés h) pontja a 6/2015. (III. 6.) BM rendelet 5. §-ával megállapított szöveg.

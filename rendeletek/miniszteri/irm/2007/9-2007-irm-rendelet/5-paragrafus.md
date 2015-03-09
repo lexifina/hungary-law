@@ -1,7 +1,11 @@
-5. § (1) A vizsga írásbeli része gyakorlati feladatokat tartalmaz, szóbeli része elméleti kérdésekből áll.
+5. § (1)[^5] A vizsga gyakorlati része gyakorlati feladatok elvégzéséből áll, a szóbeli része elméleti kérdésekből áll.
 
-(2) Írásbeli vizsga céljából legalább két napot kell kijelölni úgy, hogy a kijelölt vizsganapok a felkészítő tanfolyam utolsó napjától számított tizennegyedik napot követő munkanapra essenek.
+(2)[^6] Gyakorlati vizsga céljából legalább két napot kell kijelölni úgy, hogy a kijelölt vizsganapok a felkészítő tanfolyam utolsó napjától számított tizennegyedik napot követő munkanapra essenek.
 
-(3) A szóbeli vizsga időpontját a (2) bekezdésben foglaltak szerint kell meghatározni azzal az eltéréssel, hogy a szóbeli vizsga napját az írásbeli vizsgarész napjától számított hetedik napot követő időpontra lehet kijelölni.
+(3)[^7] A szóbeli vizsga időpontját a (2) bekezdésben foglaltak szerint kell meghatározni azzal az eltéréssel, hogy a szóbeli vizsga napját a gyakorlati vizsgarész napjától számított hetedik napot követő időpontra lehet kijelölni.
 
 (4) A kijelölt napokról szóló tájékoztatást a jelöltnek a felkészítő tanfolyam megkezdésekor írásban át kell adni.
+
+[^5]: Az 5. § (1) bekezdése a 6/2015. (III. 6.) BM rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 5. § (2) bekezdése a 6/2015. (III. 6.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (3) bekezdése a 6/2015. (III. 6.) BM rendelet 8. § a) pontja szerint módosított szöveg.
