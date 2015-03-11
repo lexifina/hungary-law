@@ -34,4 +34,6 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1061/2015. (II. 18.) Korm. határozathoz
+1. melléklet az 1061/2015. (II. 18.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1138/2015. (III. 11.) Korm. határozat 7. pontja szerint módosított szöveg.

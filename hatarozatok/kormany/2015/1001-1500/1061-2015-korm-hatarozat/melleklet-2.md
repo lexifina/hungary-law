@@ -44,8 +44,6 @@
 
 | 343851 | XVII | 20 | 39 | 19 |  | Nemzeti Kézilabda Akadémia támogatása | XX | 20 | 24 | 17 |  |
 
-| 343873 | XVII | 20 | 39 | 20 |  | A 2021. évi Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezéséhez kötődő sportlétesítmény-fejlesztések támogatása | XX | 20 | 24 | 19 |  |
-
 | 343884 | XVII | 20 | 39 | 21 |  | Szombathelyi sportcélú beruházások támogatása (Szombathelyi Haladás Stadion fejlesztésének támogatása) | XX | 20 | 24 | 20 |  |
 
 | 343895 | XVII | 20 | 39 | 22 |  | Székesfehérvári Sóstói Stadion fejlesztésének támogatása | XX | 20 | 24 | 21 |  |
