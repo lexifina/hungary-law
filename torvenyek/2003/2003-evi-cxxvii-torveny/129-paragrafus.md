@@ -53,9 +53,3 @@ t) a bioüzemanyag kísérleti előállítást végző üzemben történő elő�
 u) a jövedékiadó-bevallás, valamint a vámhatóság felé teljesítendő, e törvényben előírt adatszolgáltatások, elszámolások, bejelentések (értesítések), illetve a zárjegy- és adójegy-megrendelések elektronikus úton történő benyújtásának módját és technikai feltételeit;
 
 v) az e-TKO tervezet és az elektronikus átvételi elismervény, illetve a 40. § (9) bekezdés szerinti okmányok, bizonylatok 20. § (1) bekezdés szerinti módon történő benyújtásához, továbbításához szükséges eljárás részletes szabályait;
-
-w) az 57/C. §-ban említett vámhatósági nyilvántartásba vétel részletes eljárási szabályait és a nyilvántartásba vétel iránti kérelem adattartalmát.
-
-x) a 62/A. § szerinti bejelentési, nyilvántartás-vezetési kötelezettségre vonatkozó részletes szabályokat és annak adattartalmát.
-
-y) a tiszta növényi olaj tiszta növényiolaj-gyártó adóraktárban történő előállítása engedélyezésének feltételeit, a tiszta növényiolaj-gyártó adóraktár engedélyesére vonatkozó bizonylatolás, nyilvántartás és elszámolás, valamint az előállított tiszta növényi olaj felhasználásának részletes szabályait;

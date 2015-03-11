@@ -2,7 +2,7 @@
 
 (2) A jövedéki engedélyre jogosult az a személy,
 
-a) aki – az (5) és (8)–(11) bekezdésben foglalt eltéréssel – az ásványolajtermékek esetében 600 millió Ft, dohánygyártmányok esetében 22 millió Ft, az egyéb jövedéki termékek esetében 150 millió Ft jövedéki biztosítékot nyújt,
+a) aki – az (5) és (8)–(11) bekezdésben meghatározott eltéréssel – az ásványolajtermékek esetében 600 millió Ft, dohánygyártmányok esetében 22 millió Ft, az egyéb jövedéki termékek esetében 20 millió Ft jövedéki biztosítékot nyújt,
 
 b) aki könyvvezetési kötelezettségének a kettős könyvvezetés szabályai, illetve az egyéni vállalkozó és az Szja törvény szerinti mezőgazdasági őstermelő esetében az Szja törvény rendelkezései szerint tesz eleget, és olyan nyilvántartási, bizonylati rendszert alkalmaz, hogy annak alapján a forgalmazott jövedéki termék mennyiségi számbavétele ellenőrizhető,
 
@@ -74,7 +74,7 @@ b) az a külön jogszabályban foglaltak szerint gyógyszer-nagykereskedelmi tev
 
 (12) Az országos közforgalmú vasút üzemeltetője mentesül a (4) bekezdés a) pontjában előírt feltétel teljesítése alól, ha a gázolajat kizárólag a vasúti pályához kötött járművek, munkagépek vasúti szállítási főtevékenységhez közvetlenül kapcsolódó üzemeltetése céljára értékesíti.
 
-(13) A jövedéki engedélyes kereskedő, az importáló és az exportáló által nyújtandó jövedéki biztosítékra a 38. § (5) és (11) bekezdésének rendelkezéseit is alkalmazni kell. A jövedéki biztosíték érvényesítésére a vámhatóság a jogerősen megállapított jövedéki vagy mulasztási bírság tartozás esetén – külön végzés nélkül – jogosult, illetve – a 26/A. § (6) bekezdése szerinti esetben – a 38. § (12) bekezdését kell alkalmazni.
+(13) A jövedéki engedélyes kereskedő, az importáló és az exportáló által nyújtandó jövedéki biztosítékra a 38. § (5), (9) és (11) bekezdését is alkalmazni kell. A jövedéki biztosíték érvényesítésére a vámhatóság a jogerősen megállapított jövedéki vagy mulasztási bírság tartozás esetén – végzés nélkül – jogosult, illetve – a 26/A. § (6) bekezdése szerinti esetben – a 38. § (12) bekezdését kell alkalmazni.
 
 (14) A jövedéki engedély megszűnik, ha
 
