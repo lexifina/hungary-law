@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről Mongólia közötti partnerségi és együttműködési Keretmegállapodás (a továbbiakban: Keretmegállapodás) kötelező hatályának elismerésére.
