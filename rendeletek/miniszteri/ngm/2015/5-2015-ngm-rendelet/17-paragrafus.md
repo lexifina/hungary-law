@@ -1,5 +1,17 @@
-## 16. §[^7]
-
 ## 11. A kockázati biztosíték kezelése, mértékének meghatározása
 
-[^7]: A 16. § a 20. § (2) bekezdése alapján 2015. március 11-én lép hatályba.
+17. § (1) Az adózó a 16. § (4) bekezdése alapján akkor kötelezett több jogcímen biztosíték nyújtására, amennyiben a 11. § és 13. § szerinti tevékenységet is folytat, ebben az esetben az EKAER elektronikus felület meghatározza, hogy mely tevékenységi kör tekintetében magasabb a bejelentést megelőző 45 napban (ideértve a bejelentés napját is) teljesített bejelentések alapján nyújtandó biztosíték összege.
+
+(2) Az állami adó- és vámhatóság nyilvántartásba veszi a 18. § (3) bekezdése szerinti feltételeknek megfelelő garanciát, illetve az elkülönített letéti számlára megfizetett biztosítékot. A letétbe helyezett összeg és a garancia kiegészíti egymást, az elkülönített letéti számlára megfizetett összegnek és a garanciaszerződésben szereplő összegnek együttesen el kell érnie a 16. § (3)–(4) bekezdésében meghatározott mértéket.
+
+(3) Ha az adózó a biztosíték összegét az elkülönített letéti számlára történő átutalással teljesíti, úgy a banki munkanap záró időpontjáig benyújtott fizetési megbízásban szereplő összeget a fizetési megbízás teljesítése esetén az állami adó- és vámhatóság legkésőbb a következő banki munkanapon figyelembe veszi. Ha az adózó a fizetési megbízáson a megbízás banki munkanapjától eltérő időpontot jelöl meg teljesítési dátumként, úgy a fizetési megbízás teljesítése esetén a fizetési megbízásban szereplő összeget az állami adó- és vámhatóság a megjelölt napot követő banki munkanapon veszi figyelembe.
+
+(4) A rendelkezésre álló kockázati biztosíték mértékét az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja, valamint az adatbejelentési jogosultsággal rendelkező személy folyamatosan figyelemmel kísérheti az EKAER elektronikus felületen. Az elektronikus felületen lekérdezhető a biztosíték aktuális egyenlege, a lekérdezés időpontját megelőző 45 nap (ideértve a lekérdezés napját is) alatt már bejelentett kockázatos termékek adó nélküli értékének 15 százaléka, valamint e két adat alapján – a rendelkezésre álló biztosíték összeget figyelembe véve – a biztosíték megemelése nélkül még bejelenthető kockázatos termék adó nélküli értékének 15 százaléka. Amennyiben ezen összeget meghaladóan kíván kockázatos termékekkel kapcsolatban adatot bejelenteni az erre jogosult személy, a biztosíték összegének kiegészítésére vonatkozó hibaüzenetet küld az elektronikus felület, és EKAER szám nem állapítható meg, így új bejelentés nem teljesíthető.
+
+(5) Ha az áru értékét eredetileg nem forintban határozták meg, a bejelentésre kötelezett azt az elektronikus felületen forintban adja meg, a forintra történő átszámítás a tárgyévet megelőző év utolsó napján érvényes MNB hivatalos devizaárfolyamon történik. Olyan külföldi pénznem esetében, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyamon kell forintra átszámítani.
+
+(6) A kockázati biztosíték akkor minősül megfizetettnek, mikor az elkülönített letéti számlára befizetett összeget jóváírták, illetve a garanciaszerződést az állami adó- és vámhatóság nyilvántartásba vette, de legkorábban a garancia érvényességének kezdetétől.
+
+(7) Amennyiben az állami adó- és vámhatóság a 16. § (10) bekezdése alapján az adózó fennálló adótartozására elszámolja a biztosíték összegét vagy annak egy részét, az elkülönített letéti számláról történő átvezetésről értesíti az adózót. A garanciaszerződés alapján érvényesített lehívásról az állami adó- és vámhatóság szintén értesíti az adózót.
+
+(8) A kockázati biztosíték adótartozásra történő elszámolása esetén az adótartozás megfizetésének napja az adószámlán történő jóváírás napja.
