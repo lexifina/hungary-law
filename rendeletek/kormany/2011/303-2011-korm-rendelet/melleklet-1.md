@@ -30,7 +30,7 @@
 
 | 12. | Drégelypalánk, vár | Drégelypalánk |
 
-| 13. | Eger, vár | Eger, Vár 1. |
+| 13. |  |  |
 
 | 14. | Esztergom, vár | Esztergom, Szent István tér 2. |
 
@@ -100,4 +100,4 @@
 
 | 47. | Visegrád, vár | Visegrád, Várhegy és Fő u. 23–43. |
 
-[^1]: Az 1. melléklet a 104/2014. (III. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^1]: Az 1. melléklet a 104/2014. (III. 25.) Korm. rendelet 7. §-ával megállapított, a 38/2015. (III. 11.) Korm. rendelet 16. §-a szerint módosított szöveg.
