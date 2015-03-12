@@ -4,6 +4,11 @@
 
 (2) E rendelet 3–5. §-ai a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lépnek hatályba.
 
-(3) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban – a víziközlekedésről szóló 2000. évi XLII. törvény 58/A. §-ában foglaltakkal együtt – a Tanácsnak a belvízi szállítás támogatását szolgáló közösségi flottakapacitási politikáról szóló 718/99/EK rendeletével összeegyeztethető szabályozást tartalmaz és a rendeletnek a Magyar Köztársaság Európai Unióhoz való csatlakozásától történő végrehajtását célozza.
+(3)[^6] Ez a rendelet a víziközlekedésről szóló 2000. évi XLII. törvény 58/A. §-ában foglaltakkal együtt a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
+
+a) a belvízi hajózás fejlesztését szolgáló belvízi flottakapacitási politikáról szóló, 1999. március 29-i 718/99/EK tanácsi rendelet,
+
+b) a belvízi hajózás fejlesztését szolgáló közösségi belvízi flottakapacitási politikáról szóló 718/99/EK tanácsi rendelet módosításáról szóló, 2014. május 15-i 546/2014/EU európai parlamenti és tanácsi rendelet.
 
 [^5]: Az 5. § a 12/2014. (III. 14.) NFM rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 6. § (3) bekezdése a 10/2015. (III. 11.) NFM rendelet 7. §-ával megállapított szöveg.

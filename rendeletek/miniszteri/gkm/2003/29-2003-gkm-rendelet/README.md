@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-29-20-0
 | --- | --- | --- |
 | 2007-01-01 | 2003-29-20-0L.3 | 29/2003. (V. 8.) GKM rendelet |
 | 2014-03-15 | 2003-29-20-0L.4 | 12/2014. (III. 14.) NFM rendelet |
+| 2015-03-12 | 2003-29-20-0L.5 | 10/2015. (III. 11.) NFM rendelet |
