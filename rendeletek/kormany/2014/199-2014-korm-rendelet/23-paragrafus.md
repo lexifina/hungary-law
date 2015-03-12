@@ -1,6 +1,6 @@
-## 22. §[^13] Az Eszterháza Kulturális, Kutató- és Fesztiválközpont a fertőrákosi Püspöki palotával kapcsolatos feladatok és jogviszonyok tekintetében a Központ jogutódja.
+## 22. §[^22] Az Eszterháza Kulturális, Kutató- és Fesztiválközpont a fertőrákosi Püspöki palotával kapcsolatos feladatok és jogviszonyok tekintetében a Központ jogutódja.
 
-23. §[^14] (1) Az MNM-től a Központhoz került
+23. §[^23] (1) Az MNM-től a Központhoz került
 
 a) előzetes régészeti dokumentáció készítése, ennek részeként próbafeltárások végzése,
 
@@ -22,5 +22,5 @@ d) műemléki kutatás és tervezés
 
 (6) A Központ által az (1) bekezdés szerint átvett feladatokhoz kapcsolódó egyéb jogviszonyokban jogutódlás nem következik be.
 
-[^13]: A 22. §-t újonnan a 372/2014. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
-[^14]: A 23. §-t újonnan a 372/2014. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^22]: A 22. §-t újonnan a 372/2014. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^23]: A 23. §-t újonnan a 372/2014. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
