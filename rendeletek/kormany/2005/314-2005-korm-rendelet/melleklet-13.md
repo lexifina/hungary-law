@@ -6,7 +6,7 @@
 
 | 2. | Ha a tevékenység gyógyhelyen vagy gyógyhelyre, természetes gyógytényezőre hatást gyakorló módon valósul meg. | Természetes gyógytényezők, gyógyhelyek természeti adottságainak, valamint a természetes gyógytényezőket érintő hatások vizsgálatára kiterjedően. | Országos Tisztifőorvosi Hivatal Országos Gyógyhelyi és Gyógyfürdőügyi Főigazgatósága |
 
-| 3. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme a hatáskörébe tartozik, azt érinti vagy olyan környezet-veszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja. | Kulturális örökség (műemlékvédelem, műemléki területek védelme, nyilvántartott régészeti lelőhelyek) védelmére kiterjedően. | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
+| 3. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme a hatáskörébe tartozik, azt érinti vagy olyan környezet-veszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja. | Kulturális örökség (régészeti örökség, műemlékvédelem) védelmére kiterjedően. | fővárosi és megyei kormányhivatal kulturális örökségvédelmi irodája |
 
 | 4. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörébe tartozik, azt érinti, vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja. | A helyi környezet- és természetvédelemre kiterjedően, valamint annak elbírálása kérdésében, hogy a tevékenység összhangban áll-e a településrendezési eszközökkel. | érintett települési önkormányzat jegyzője |
 
