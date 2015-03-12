@@ -1,4 +1,4 @@
-## 2/A. §[^2] A műemléki védelem alatt álló építményt érintő építési és bontási tevékenység esetén az építésügyi bírság mértékét az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet mérlegelési szempontrendszere szerint, annak megfelelő módon és mértékben kell megállapítani.
+## 2/A. §[^2] A nyilvántartott műemléki értéket, műemléket érintő és örökségvédelmi engedélyhez kötött tevékenységet megvalósító, engedély nélkül vagy attól eltérően végzett építési és bontási tevékenység esetén az építésügyi bírság mértékét az örökségvédelmi bírságról szóló 191/2001. (X. 18.) Korm. rendelet mérlegelési szempontrendszere szerint, annak megfelelő módon és mértékben kell megállapítani.
 
 3. §[^3] (1) A bírság mértéke az alapbírság és a számított építményérték (4) bekezdés és a 2. melléklet figyelembevételével meghatározott értékének az összege. A bírság mértékét a 3. melléklet szerint – a kerekítés szabályai alkalmazva – 10 000 forintra való kerekítéssel kell megállapítani.
 
@@ -50,5 +50,5 @@ a) 150%-a, ha kiszabására olyan személlyel vagy szervezettel szemben kerül s
 
 b) 200%-a, ha kiszabására olyan személlyel vagy szervezettel szemben kerül sor, akit 3 éven belül legalább két alkalommal
 
-[^2]: A 2/A. §-t a 134/2012. (VI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^2]: A 2/A. §-t a 134/2012. (VI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 38/2015. (III. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^3]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
