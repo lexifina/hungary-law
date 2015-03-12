@@ -24,6 +24,6 @@ h) a közműellátottság mértékét, és
 
 i) az egyéb meghatározó követelmények általános szempontjait,
 
-j)[^10] műemlék esetén az értékleltár és az építéstörténeti kutatási dokumentáció alapján rögzített műemlékvédelmi szempontokat.
+j)[^14] műemlék esetén az értékleltár és az építéstörténeti kutatási dokumentáció alapján rögzített műemlékvédelmi szempontokat.
 
-[^10]: A 16. § (3) bekezdés j) pontját a 62/2014. (III. 6.) Korm. rendelet 45. § (1) bekezdése iktatta be.
+[^14]: A 16. § (3) bekezdés j) pontját a 62/2014. (III. 6.) Korm. rendelet 45. § (1) bekezdése iktatta be.

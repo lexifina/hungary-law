@@ -1,3 +1,5 @@
+## 23/A. §[^16] Műemlék épület esetén az energetikai tanúsítónak az R1. szerinti energetikai minőségtanúsítvány javaslattételének kidolgozásához szakági építésügyi műszaki szakértői szakterület műemléki részszakterület jogosultsággal bíró szakértőt kell bevonnia.
+
 ## VIII. Fejezet
 
 ## A JOGOSULTSÁG MEGÁLLAPÍTÁSÁNAK ELJÁRÁSI SZABÁLYAI
@@ -10,15 +12,15 @@ a) engedélyezése,
 
 b) folytatásának szüneteltetése,
 
-c)[^12] folytatásának megtiltása,
+c)[^17] folytatásának megtiltása,
 
-d)[^13] folytatásának megtiltása és a tevékenységet folytató szakmagyakorló névjegyzékből való törlése,
+d)[^18] folytatásának megtiltása és a tevékenységet folytató szakmagyakorló névjegyzékből való törlése,
 
 e) folytatójával szembeni bírság kiszabása és
 
 f) folytatásával összefüggő hatósági bizonyítvány kiállítása,
 
-g)[^14] folytatója által az engedélyének kérelemre történő visszavonása és a névjegyzékből való törlése
+g)[^19] folytatója által az engedélyének kérelemre történő visszavonása és a névjegyzékből való törlése
 
 ## iránt kezdeményezett vagy saját hatáskörben indított eljárást a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szabályai szerint, míg a szakmagyakorlási tevékenység bejelentésére irányuló eljárást a Szolgtv. szabályai szerint kell lefolytatni.
 
@@ -32,6 +34,7 @@ g)[^14] folytatója által az engedélyének kérelemre történő visszavonása
 
 (6) A kérelmező a szakmai gyakorlat szakirányúságának megállapítását a kérelem benyújtása előtt kérelmezheti a területi kamara elnökségétől.
 
-[^12]: A 24. § (1) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 7. pontja szerint módosított szöveg.
-[^13]: A 24. § (1) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.
-[^14]: A 24. § (1) bekezdés g) pontját a 62/2014. (III. 6.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^16]: A 23/A. §-t a 38/2015. (III. 11.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^17]: A 24. § (1) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 7. pontja szerint módosított szöveg.
+[^18]: A 24. § (1) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.
+[^19]: A 24. § (1) bekezdés g) pontját a 62/2014. (III. 6.) Korm. rendelet 45. § (2) bekezdése iktatta be.

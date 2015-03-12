@@ -1,4 +1,4 @@
-1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^52]
+1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^59]
 
 ## A szakmagyakorlási jogosultságokhoz szükséges képesítési követelmények, szakmai gyakorlati idők, továbbá feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni
 
@@ -32,11 +32,11 @@ Településrendezési tervezés
 
 | 1. | Szakmagyakorlási terület megnevezése | Szakterület/ részszakterület megnevezése | Szakterület/ részszakterület jelölése | Feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni | Képesítési minimum követelmény és az ezzel egyenértékű szakképzettség | Szakmai gyak. idő |
 
-| 2. | Építészeti tervezési terület |  | É | Az általános építmények teljes körű építészeti tervezése, beleértve a jogszabállyal védetté nyilvánított építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakítását. A tervezésbe szakági műszaki tervezési területen jogosultsággal rendelkező tervezőt kell bevonni az Épkiv. 22. § (3) bekezdés b) pontja, 22. § (4) bekezdés a)-c) pontjában meghatározott méretet, jellemzőt meghaladó esetben. Telepítési tanulmányterv (településrendezési eszköz készítése vagy módosítása esetén településtervező, szükség szerint szakági településtervező bevonásával), továbbá beépítési terv és örökségvédelmi hatástanulmány készítése. A saját tervezésű építmény teljes körű belsőépítészeti tervezése. | okleveles építészmérnök | 2 év |
+| 2. | Építészeti tervezési terület | É | Az általános építmények teljes körű építészeti tervezése, beleértve a helyi vagy műemléki védelem alatt álló építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakítását. A tervezésbe szakági műszaki tervezési területen jogosultsággal rendelkező tervezőt kell bevonni az Épkiv. 22. § (3) bekezdés b) pontja, 22. § (4) bekezdés a)-c) pontjában meghatározott méretet, jellemzőt meghaladó esetben. Telepítési tanulmányterv (településrendezési eszköz készítése vagy módosítása esetén településtervező, szükség szerint szakági településtervező bevonásával), továbbá beépítési terv és örökségvédelmi hatástanulmány készítése. A saját tervezésű építmény teljes körű belsőépítészeti tervezése. | okleveles építész-mérnök | 2 év |
 
-| 3. | Belsőépítészeti tervezési szakterület | BÉ | Építmények teljes körű belsőépítészeti tervezése. Külön jogszabály szerinti belsőépítészeti terv készítése. | okleveles építész tervező művész, okleveles belsőépítész környezettervező művész | 2 év |
+| 3. |  | Belsőépítészeti tervezési szakterület | BÉ | Építmények teljes körű belsőépítészeti tervezése. Külön jogszabály szerinti belsőépítészeti terv készítése. | okleveles építész tervező művész, okleveles belsőépítész környezet- tervező művész | 2 év |
 
-| 4. | Kertépítészeti műtárgy tervezési szakterület | ÉKM | Tartószerkezeti szakági tervező bevonásával 4,5 m-nél magasabb kerti építmény, 1,0 m-nél magasabb támfal, úszómedence szerkezete, 2,0 m-nél magasabb tömör kerítés, 45 foknál meredekebb terep rendezése. | táj-és kertépítészeti szakon végzett okleveles kertészmérnök, okleveles tájépítész mérnök, okleveles tájépítész | 2 év |
+| 4. |  | Kertépítészeti műtárgy tervezési szakterület | ÉKM | Tartószerkezeti szakági tervező bevonásával 4,5 m-nél magasabb kerti építmény, 1,0 m-nél magasabb támfal, úszómedence szerkezete, 2,0 m-nél magasabb tömör kerítés, 45 foknál meredekebb terep rendezése. | táj- és kertépítészeti szakon végzett okleveles kertészmérnök, okleveles tájépítész mérnök, okleveles tájépítész | 2 év |
 
 | 5. | Táj- és kertépítészeti tervezési terület | K | Terep és zöldfelületek kertépítészeti kialakításának a tervezése (a belső út és burkolatrendszerrel együtt); kertépítészeti, növénytelepítési, valamint önálló táj- és kertépítészeti tervek készítése (közpark, közkert, köztér, történeti kert stb.), továbbá a kertépítészeti műtárgy tervezési szakterületnél (ÉKM) meghatározott feladatok. Telepítési tanulmányterv, beépítési terv zöldfelület alakítási munkarészeinek elkészítése, valamint ha jogszabály táj- és természetvédelmi szakhatósági közreműködést ír elő, az ehhez szükséges jogszabályban meghatározott dokumentáció elkészítése. | táj-és kertépítészeti szakon végzett okleveles kertészmérnök, okleveles tájépítész mérnök, okleveles tájépítész | 2 év |
 
@@ -166,6 +166,8 @@ Településrendezési szakértés
 
 | 23. | Építési beruházási szakértői szakterület | SZB | SZB/SZÉSZ7 | Beruházások előkészítésének, megvalósítási folyamatok irányításának, kivitelezési munkák műszaki tartalmának szakértése. | okleveles építészmérnök, okleveles építőmérnök |
 
+| 24. | Szakági építésügyi műszaki szakértői szakterület műemlék építmények műszaki szakértői részszakterület | SZÉS5 | SZÉSZ5 | Műemlék építmények történeti épületszerkezetei, építőanyagai esetében a javító, konzerváló és fenntartó technológiák, anyaghasználat, szerkezeti megoldás az adott műemléken való alkalmazhatóságának szakvéleményezése. | okleveles építészmérnök és műemlékvédelmi szakmérnök |
+
 III. Építési műszaki ellenőrzés
 
 1. rész
@@ -240,6 +242,8 @@ IV. Felelős műszaki vezetés
 
 | 3. | Építési szakterület részszakterülete | MV-É-R | Az építési szakterület (MV-É) szerinti építési-szerelési munkák felelős műszaki vezetése az Épkiv. 22. § (3) bekezdés a) pontjában meghatározott méretet, jellemzőt meg nem haladó építmény esetén. | szakirányú építőipari technikusi, szakirányú építőipari szakközépiskola | 5 év |
 
+| 4. | Építési szakterület műemléki részszakterülete | MV-É-M | Az építési szakterület (MV-É) szerinti építési-szerelési munkák felelős műszaki vezetése műemlék építmény esetén. | okleveles építészmérnök | 5 év műemléken műszaki szakértő irányítása mellett |
+
 2. rész
 
 Szakági felelős műszaki vezetői szakterületek
@@ -308,4 +312,4 @@ A sajátos építményfajták felelős műszaki vezetői szakterületek
 
 | 22. | Villamosság szakterület részszakterülete | MV-VI-R | Erősáramú föld feletti és föld alatti vezetékek, átalakító- és kapcsolóberendezések építésének felelős műszaki vezetése kisfeszültségű hálózatoknál. | villamosipari technikus | 5 év |
 
-[^52]: Az 1. melléklet a 62/2014. (III. 6.) Korm. rendelet 47. § 25–29. pontja szerint módosított szöveg.
+[^59]: Az 1. melléklet a 62/2014. (III. 6.) Korm. rendelet 47. § 25–29. pontja, a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.

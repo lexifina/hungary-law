@@ -1,4 +1,4 @@
-2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez
+2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^60]
 
 I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján megállapított építészeti tervezési jogosultságok és a hozzájuk tartozó építészeti-műszaki tervezési tevékenységek
 
@@ -6,7 +6,7 @@ I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján 
 
 | 1. | Korlátozott szakterület (tervezői fokozat) megnevezése, jelölése | Feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni |
 
-| 2. | É2 jelű építész tervezői fokozat | a) Építmények építészeti tervezése terepszint fölött legfeljebb öt szint magasságig és összesen 2000 m2 szintterület nagyságig. b) Meglévő építmény bővítése maximum 2000 m2 összes szintterület nagyságig. c) Bontási, felújítási, korszerűsítési és helyreállítási tervek, korlátozás nélkül. Az É2 jelű tervezői fokozat tevékenységi köre nem terjed ki a jogszabállyal védetté nyilvánított építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakításával kapcsolatos építészeti-műszaki terveinek készítésére. |
+| 2. | É2 jelű építész tervezői fokozat | a) Építmények építészeti tervezése terepszint fölött legfeljebb öt szint magasságig és összesen 2000 m2 szintterület nagyságig. b) Meglévő építmény bővítése maximum 2000 m2 összes szintterület nagyságig. c) Bontási, felújítási, korszerűsítési és helyreállítási tervek, korlátozás nélkül. Az É2 jelű tervezői fokozat tevékenységi köre nem terjed ki a helyi vagy műemléki védelem alatt álló építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakításával kapcsolatos építészeti-műszaki terveinek készítésére. |
 
 | 3. | K2 jelű tervezői fokozat | Az 1. mellékletben foglalt I. Tervezés 2. rész Építészeti-műszaki tervezés táblázatban a táj- és kertépítészeti területnél (K) meghatározott tervezés 2 hektár terület nagyságig, továbbá az É2 jelű tervezői fokozatban tervezhető épületekkel összefüggő egyéb táj- és kertépítészeti tervezés. |
 
@@ -57,3 +57,5 @@ A sajátos építményfajták építési műszaki ellenőri szakterületei
 | 8. | Villamos energia termelésre, elosztásra és szállításra szolgáló sajátos műszaki építmények építése (VI/II.) | ME-VI/II. | Erősáramú föld feletti és föld alatti vezetékek, átalakító- és kapcsolóberendezések szerelési munkái 69 kV feszültségig. |
 
 III. Az építész és a mérnöki kamarák által nyilvántartott, korábbi jogszabály alapján megállapított felelős műszaki vezetői jogosultságok és a hozzájuk tartozó tevékenység
+
+[^60]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése szerint módosított szöveg.

@@ -1,3 +1,5 @@
+## részszakterülethez kapcsolódó szakmagyakorlási tevékenységek engedélyezését.
+
 ## 4. A szakmagyakorlási tevékenység megkezdésének és folytatásának feltételei
 
 6. § (1) Természetes személy a 3. § szerinti tevékenységeket akkor folytathatja, ha rendelkezik a névjegyzéket vezető szerv engedélyével. Természetes személy a 4. § szerinti esetekben köteles a tevékenység végzésére irányuló szándékát a névjegyzéket vezető szervnek bejelenteni.
@@ -20,7 +22,7 @@ g) 38/C. §-a szerinti energetikai tanúsítói tevékenységet, ha tagja vagy m
 
 és a tevékenységet a jogosultsággal rendelkező személy végzi.
 
-(3)[^1] A cég a Szolgtv., az Étv. 58. § (10) bekezdése és a Kamtv. 43. § (3) bekezdése szerinti tartalmú bejelentése alapján az 5. § (6) bekezdése szerinti területi kamara titkára által nyilvántartási jelölést (C-területi kamara kódja és nyilvántartási szám) ad ki. A cég által folytatható tevékenység terjedelme azonos a (2) bekezdésben meghatározott természetes személy jogosultságának terjedelmével. Egyéni vállalkozó esetében a cég nyilvántartási száma azonos lehet a természetes személy nyilvántartási számával.
+(3)[^4] A cég a Szolgtv., az Étv. 58. § (10) bekezdése és a Kamtv. 43. § (3) bekezdése szerinti tartalmú bejelentése alapján az 5. § (6) bekezdése szerinti területi kamara titkára által nyilvántartási jelölést (C-területi kamara kódja és nyilvántartási szám) ad ki. A cég által folytatható tevékenység terjedelme azonos a (2) bekezdésben meghatározott természetes személy jogosultságának terjedelmével. Egyéni vállalkozó esetében a cég nyilvántartási száma azonos lehet a természetes személy nyilvántartási számával.
 
 (4) Cég az általa vállalt szakmagyakorlási tevékenységek közül, az (5) bekezdés figyelembevételével olyan tevékenységet végezhet,
 
@@ -54,4 +56,4 @@ bc) adategyeztetési kötelezettség teljesítése és az éves nyilvántartási
 
 (7) A (2) bekezdés vonatkozásában a cég a munkavállalót legalább heti 20 órában foglalkoztatja.
 
-[^1]: A 6. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 1. pontja szerint módosított szöveg.
+[^4]: A 6. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 1. pontja szerint módosított szöveg.
