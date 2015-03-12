@@ -1,7 +1,0 @@
-## 11. A védetté nyilvánított régészeti lelőhelyek ellenőrzése
-
-18. § (1) A védetté nyilvánított régészeti lelőhelyeken a járási építésügyi és örökségvédelmi hivatalnak évenként legalább egy alkalommal helyszíni ellenőrzést kell lefolytatnia.
-
-(2)[^56] A helyszíni ellenőrzés során jegyzőkönyvben és fotódokumentációval rögzíteni kell a védetté nyilvánított régészeti lelőhely állapotát. A jegyzőkönyvet és a fotódokumentációt meg kell küldeni a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központnak.
-
-[^56]: A 18. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 709. § d) pontja szerint módosított szöveg.
