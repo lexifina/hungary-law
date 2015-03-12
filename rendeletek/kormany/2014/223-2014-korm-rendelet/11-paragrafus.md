@@ -20,11 +20,11 @@ f) ha az eljárás külterületet, belterületen országos jelentőségű védet
 
 g) ha a tevékenység helyi jelentőségű védett természeti területet érint, – annak elbírálása érdekében, hogy a tevékenység a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek megfelel-e – az első fokú eljárásban a települési önkormányzat jegyzőjét, a másodfokú eljárásban a fővárosi és megyei kormányhivatalt,
 
-h) a vízjogi üzemeltetési engedélyezés kivételével, ha az eljárás régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben műemléket érintő tevékenység engedélyezésére irányul, – annak elbírálása kérdésében, hogy a kulturális örökség védelmének jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e – az első fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási építésügyi és örökségvédelmi hivatalát, a másodfokú eljárásban,
+h)[^3] a vízjogi üzemeltetési, valamint a fúrt kút engedélyezés kivételével, ha az eljárás nyilvántartott régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben nyilvántartott műemléki értéket vagy műemléket érintő tevékenység engedélyezésére irányul – annak elbírálása kérdésében, hogy a kulturális örökség védelmének jogszabályban meghatározott követelményei a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e –, az első fokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási építésügyi és örökségvédelmi hivatalát, a másodfokú eljárásban,
 
-ha) ha az eljárás régészeti lelőhelyen, vagy régészeti védőövezet területén megvalósuló tevékenység engedélyezésére irányul, Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalát,
+ha)[^4] ha az eljárás nyilvántartott régészeti lelőhelyen, vagy régészeti védőövezet területén megvalósuló tevékenység engedélyezésére irányul, Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalát,
 
-hb) ha az eljárás műemléki területen megvalósuló, vagy külön jogszabályban meghatározott esetekben műemléket érintő tevékenység engedélyezésére irányul, a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát,
+hb)[^5] ha az eljárás műemléki területen megvalósuló vagy külön jogszabályban meghatározott esetekben nyilvántartott műemléki értéket vagy műemléket érintő tevékenység engedélyezésére irányul, a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatalát,
 
 i) vízjogi létesítési engedélyezés esetén, ha a kérelmező az útkezelői hozzájárulás megtagadását vagy a hozzájárulásban előírt feltételeket sérelmesnek tartja, – annak elbírálása kérdésében, hogy a közút területének nem közlekedési célú igénybevétele a közúti forgalom biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára gyakorolt hatása alapján engedélyezhető-e –
 
@@ -47,3 +47,7 @@ l) ha az eljárás halastavakkal, horgásztavakkal, jóléti tavakkal, víztáro
 (2) Az (1) bekezdés i)–k) pontja szerinti eljárásban hozott határozatot akkor is közölni kell a fővárosi és megyei kormányhivatal közlekedési felügyelőségével, ha az az eljárásban szakhatóságként nem vesz részt.
 
 (3) Az (1) bekezdés l) pontja szerinti vízilétesítmények tekintetében kiadott fennmaradási engedélyt a bányakapitánysággal is közölni kell.
+
+[^3]: A 11. § (1) bekezdés h) pontja a 38/2015. (III. 11.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^4]: A 11. § (1) bekezdés h) pont ha) alpontja a 38/2015. (III. 11.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^5]: A 11. § (1) bekezdés h) pont hb) alpontja a 38/2015. (III. 11.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
