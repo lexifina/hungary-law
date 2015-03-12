@@ -1,0 +1,1 @@
+## 14. § A 2015. január 1-je előtt műemlékként védett műemléki értékre vonatkozóan a 4. § (2)–(5) bekezdése, a 4. § (6) bekezdés a) pontja, a 4. § (8) és (9) bekezdése szerinti szabályokat nem kell alkalmazni.
