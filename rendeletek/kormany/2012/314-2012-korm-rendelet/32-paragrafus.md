@@ -26,7 +26,7 @@ c) nem történik zöld, vízgazdálkodási, erdő- és természetközeli terül
 
 (6) A településrendezési eszköz egyeztetése tárgyalásos eljárás szerint történik, amennyiben a településrendezési eszköz készítése vagy módosítás
 
-a) kiemelt társadalmi cél érdekében központi költségvetési forrásból finanszírozott, nemzetgazdásági szempontból kiemelt jelentőségű ügy tárgyát képező építési beruházás megvalósítása miatt indokolt,
+a)[^23] a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó ügy tárgyát képező építési beruházás megvalósítása miatt indokolt,
 
 b) a Kormány által rendeletben kihirdetett veszélyhelyzet esetén, az érintett településen a veszélyhelyzet következményeinek a felszámolása vagy a további, közvetlenül fenyegető veszélyhelyzet megelőzése miatt indokolt,
 
@@ -35,3 +35,5 @@ c) magasabb szintű jogszabályi változás átvezetése, érvényesítése, val
 d) elírás javítása, rajzi feldolgozásból, méretarányból adódó pontatlanság javítása érdekében történik.
 
 (7) Az önkormányzat bármely településrendezési eszköz készítése során alkalmazhatja a teljes eljárást, illetve indíthatja az eljárást az előzetes tájékoztatási szakasz kezdeményezésével.
+
+[^23]: A 32. § (6) bekezdés a) pontja a 38/2015. (III. 11.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.

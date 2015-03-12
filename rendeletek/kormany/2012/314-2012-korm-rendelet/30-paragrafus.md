@@ -1,6 +1,6 @@
 ## 22. A településfejlesztési koncepció egyeztetésének és elfogadásának szabályai
 
-30. § (1)[^20] A polgármester
+30. § (1)[^21] A polgármester
 
 a) a készítendő koncepcióról előzetes tájékoztatót küld a 9. mellékletben meghatározott államigazgatási szerveknek, az érintett területi (megyei és fővárosi) és a közvetlenül érintett szomszédos települési önkormányzatnak (a továbbiakban együtt: érintett területi, települési önkormányzat),
 
@@ -24,7 +24,7 @@ b) az érintett területi, települési önkormányzat, továbbá a fővárosi k
 
 c) a partner a partnerségi egyeztetés szabályai szerint javaslatokat, észrevételeket tesz, véleményt nyilvánít.
 
-(2a)[^21] A KSH az adatszolgáltatási kérelem kézhezvétele után adatszolgáltatási szerződést köt az önkormányzattal és a szerződés megkötését követő 21 napon belül
+(2a)[^22] A KSH az adatszolgáltatási kérelem kézhezvétele után adatszolgáltatási szerződést köt az önkormányzattal és a szerződés megkötését követő 21 napon belül
 
 a) elvégzi a településrészek lehatárolását, és táblázatban átadja az önkormányzatnak a településrészek jellemzésére szolgáló, 2011. évi népszámlálási adatokat a 11. mellékletnek megfelelően,
 
@@ -44,5 +44,5 @@ c) táblázatban átadja az önkormányzatnak a szegregált és a szegregációv
 
 (8) A koncepció elfogadásáról és honlapon való közzétételéről a polgármester 5 napon (a főváros esetében 10 napon) belül értesítést küld az egyeztetésben részt vetteknek és az állami főépítésznek.
 
-[^20]: A 30. § (1) bekezdése a 342/2014. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^21]: A 30. § (2a) bekezdését a 342/2014. (XII. 19.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^21]: A 30. § (1) bekezdése a 342/2014. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^22]: A 30. § (2a) bekezdését a 342/2014. (XII. 19.) Korm. rendelet 13. § (2) bekezdése iktatta be.

@@ -20,7 +20,9 @@ a) az önkormányzati főépítész szakmai álláspontját, vagy
 
 b) helyi tervtanács működtetése esetén annak szakmai álláspontját.
 
-(5)[^14] A polgármester vagy főpolgármester véleményében
+(4a)[^14] A polgármester vagy főpolgármester a kérelem beérkezését követően – határidő megjelölésével – bekérheti a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ Műemléki Tanácsadó Testületének szakértői véleményét.
+
+(5)[^15] A polgármester vagy főpolgármester véleményében
 
 a) engedélyezésre – feltétellel vagy anélkül – javasolja a tervezett építési tevékenységet, vagy
 
@@ -30,7 +32,7 @@ ba) a kérelem vagy melléklete nem felel meg az e rendeletben és az önkormán
 
 bb) a tervezett építési tevékenység nem felel meg a településképi illeszkedési követelményeknek.
 
-(6)[^15] A polgármester vagy főpolgármester véleménye tartalmazza:
+(6)[^16] A polgármester vagy főpolgármester véleménye tartalmazza:
 
 a) a kérelmező (építtető) adatait,
 
@@ -38,11 +40,12 @@ b) a tervezett építési tevékenység rövid leírását, helyét, címét és
 
 c) az (5) bekezdés szerinti véleményét és annak részletes indoklását.
 
-(7)[^16] A polgármester vagy főpolgármester a kérelem beérkezésétől számított 15 napon belül megküldi véleményét az építtetőnek vagy a kérelmezőnek, továbbá véleményét elektronikus formában feltölti az elektronikus tárhelyre.
+(7)[^17] A polgármester vagy főpolgármester a kérelem beérkezésétől számított 15 napon belül megküldi véleményét az építtetőnek vagy a kérelmezőnek, továbbá véleményét elektronikus formában feltölti az elektronikus tárhelyre.
 
 (8) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
 
 [^13]: A 22. § (4) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^14]: A 22. § (5) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^15]: A 22. § (6) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^16]: A 22. § (7) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
+[^14]: A 22. § (4a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 20. § (1) bekezdése iktatta be.
+[^15]: A 22. § (5) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
+[^16]: A 22. § (6) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
+[^17]: A 22. § (7) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
