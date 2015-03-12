@@ -1,0 +1,9 @@
+# 21/2015. (III. 12.) ME határozat
+
+a 2014–2020 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek kinevezéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-21-30-63
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-03-12 | 2015-21-30-63.1 | 21/2015. (III. 12.) ME határozat |
