@@ -164,6 +164,6 @@
 
 81. villamos világítóeszköz gyártása
 
-82.[^8] nem közművel összegyűjtött háztartási szennyvíz szállítása
+82.[^9] nem közművel összegyűjtött háztartási szennyvíz szállítása
 
-[^8]: Az 1. melléklet 82. pontját a 455/2013. (XI. 29.) Korm. rendelet 23. §-a iktatta be.
+[^9]: Az 1. melléklet 82. pontját a 455/2013. (XI. 29.) Korm. rendelet 23. §-a iktatta be.
