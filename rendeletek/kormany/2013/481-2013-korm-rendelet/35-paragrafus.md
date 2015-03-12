@@ -8,10 +8,10 @@ c) a gyűjtés és szállítás kivételével, ha az engedélyezés a termőföl
 
 d) hulladékkezelési tevékenység engedélyezése esetén – a katasztrófavédelemmel összefüggő létesítési és használati szabályok érvényre juttatása, a környezetbiztonság katasztrófavédelmi vizsgálata érdekében – az első fokú eljárásban a létesítmény helye szerint illetékes hivatásos katasztrófavédelem helyi szervét, a másodfokú eljárásban a hivatásos katasztrófavédelem területi szervét, valamint
 
-e)[^39] hulladékkezelési tevékenység engedélyezése esetén – a tevékenység vízellátásának, csapadék- és szennyvízelvezetésének, a felszíni és felszín alatti vizek védelmére, a vízbázisra, a vizek lefolyására gyakorolt hatás vizsgálata érdekében – az első fokú eljárásban a hulladékkezelés helye szerint illetékes területi vízügyi hatóságot, a másodfokú eljárásban az országos vízügyi hatóságot
+e)[^40] hulladékkezelési tevékenység engedélyezése esetén – a tevékenység vízellátásának, csapadék- és szennyvízelvezetésének, a felszíni és felszín alatti vizek védelmére, a vízbázisra, a vizek lefolyására gyakorolt hatás vizsgálata érdekében – az első fokú eljárásban a hulladékkezelés helye szerint illetékes területi vízügyi hatóságot, a másodfokú eljárásban az országos vízügyi hatóságot
 
 ## szakhatóságként jelöli ki.
 
 (2) A Kormány – a minősítési eljárás és a bírság kiszabásának kivételével – az OKTF veszélyes hulladékkal kapcsolatos első fokú engedélyezési eljárásában szakhatóságként az (1) bekezdés szerint a másodfokú eljárásban közreműködő szakhatóságokat jelöli ki. A hivatásos katasztrófavédelmi szerv területi szerve a veszélyes hulladékkal kapcsolatos hulladékkezelési tevékenység engedélyezésében az (1) bekezdés d) pontjában meghatározott szakkérdésben szakhatóságként jár el.
 
-[^39]: A 35. § (1) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 778. §-ával megállapított szöveg.
+[^40]: A 35. § (1) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 778. §-ával megállapított szöveg.

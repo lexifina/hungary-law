@@ -18,9 +18,9 @@ h) 78. § (1) bekezdésében
 
 ## foglalt természetvédelmi hatóságként.
 
-(2)[^24] Helyi jelentőségű védett természeti területen a jegyző jár el a Tvt. 77. §-a szerinti természetvédelmi hatóságként.
+(2)[^25] Helyi jelentőségű védett természeti területen a jegyző jár el a Tvt. 77. §-a szerinti természetvédelmi hatóságként.
 
-(3)[^25] Helyi jelentőségű védett fasor esetében a jegyző jár el a Tvt. 42. § (5) bekezdése szerinti természetvédelmi hatóságként.
+(3)[^26] Helyi jelentőségű védett fasor esetében a jegyző jár el a Tvt. 42. § (5) bekezdése szerinti természetvédelmi hatóságként.
 
-[^24]: A 22. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 776. §-ával megállapított szöveg.
-[^25]: A 22. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 776. §-ával megállapított szöveg.
+[^25]: A 22. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 776. §-ával megállapított szöveg.
+[^26]: A 22. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 776. §-ával megállapított szöveg.

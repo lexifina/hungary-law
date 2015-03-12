@@ -1,4 +1,4 @@
-3/A. §[^6] (1) A Nemzeti Hulladékgazdálkodási Igazgatóság az OKTF e §-ban foglaltak szerint – a környezetvédelmi termékdíjról szóló törvényben meghatározott környezetvédelmi igazgatási feladatok ellátása érdekében – elkülönült szervezeti egysége.
+3/A. §[^7] (1) A Nemzeti Hulladékgazdálkodási Igazgatóság az OKTF e §-ban foglaltak szerint – a környezetvédelmi termékdíjról szóló törvényben meghatározott környezetvédelmi igazgatási feladatok ellátása érdekében – elkülönült szervezeti egysége.
 
 (2) A Nemzeti Hulladékgazdálkodási Igazgatóság vezetőjét a környezetvédelemért felelős miniszter nevezi ki és menti fel, és gyakorolja felette a munkáltatói jogokat.
 
@@ -8,4 +8,4 @@
 
 (5) A Nemzeti Hulladékgazdálkodási Igazgatóság illetékessége az ország egész területére kiterjed.
 
-[^6]: A 3/A. §-t a 368/2014. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^7]: A 3/A. §-t a 368/2014. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.

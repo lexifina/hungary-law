@@ -1,6 +1,6 @@
 ## 4. Nemzeti park igazgatóság
 
-6. § (1)[^13] A nemzeti park igazgatóságok szervezetrendszere a miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv. A nemzeti park igazgatóságok szervezetrendszerének területi szerve a nemzeti park igazgatóság (a továbbiakban: NPI).
+6. § (1)[^14] A nemzeti park igazgatóságok szervezetrendszere a miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv. A nemzeti park igazgatóságok szervezetrendszerének területi szerve a nemzeti park igazgatóság (a továbbiakban: NPI).
 
 (2) Az NPI elnevezését, székhelyét és működési területét a 3. melléklet tartalmazza.
 
@@ -8,4 +8,4 @@
 
 (4) A miniszter irányítási jogkörében az NPI igazgatójának javaslatára kinevezi és felmenti az NPI gazdasági vezetőjét.
 
-[^13]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 785. § b) pontja szerint módosított szöveg.
+[^14]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 785. § b) pontja szerint módosított szöveg.

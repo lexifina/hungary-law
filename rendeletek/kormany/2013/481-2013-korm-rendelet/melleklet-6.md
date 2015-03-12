@@ -12,7 +12,7 @@
 
 | 5. | Ha a tevékenység gyógyhelyen vagy gyógyhelyre, természetes gyógytényezőre hatást gyakorló módon valósul meg. | Természetes gyógytényezők, gyógyhelyek természeti adottságainak és az emberi használatra szolgáló felszíni vizek védelmére, valamint a természetes gyógytényezőket érintő hatások vizsgálatára kiterjedően. | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
 
-| 6. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme a hatáskörébe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja. | Az egységes környezet- használati engedély megszerzésére irányuló eljárás műemléki területet, régészeti lelőhelyet vagy régészeti védőövezetet érint. | Kulturális örökség (műemlékvédelem, műemléki területek védelme, nyilvántartott régészeti lelőhelyek) védelmére kiterjedően. | járási (fővárosi kerületi) hivatala járási építésügyi és örökségvédelmi hivatal | ha az egységes környezethasználati engedély megszerzésére irányuló eljárás régészeti lelőhelyet vagy régészeti védőövezetet érint, Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala, ha az egységes környezethasználati engedély megszerzésére irányuló eljárás műemléki területet érint, a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
+| 6. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme a hatáskörébe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja. | Az egységes környezet- használati engedély megszerzésére irányuló eljárás műemléki területet, nyilvántartott régészeti lelőhelyet vagy régészeti védőövezetet érint. | Kulturális örökség (műemlékvédelem, műemléki területek védelme, nyilvántartott régészeti lelőhelyek) védelmére kiterjedően. | járási (fővárosi kerületi) hivatala járási építésügyi és örökségvédelmi hivatal | ha az egységes környezethasználati engedély megszerzésére irányuló eljárás nyilvántartott régészeti lelőhelyet vagy régészeti védőövezetet érint, Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala, ha az egységes környezethasználati engedély megszerzésére irányuló eljárás műemléki területet érint, a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
 
 | 7. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörébe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály a feladat- és hatáskörébe utalja. | A helyi környezet- és természetvédelemre kiterjedően | települési önkormányzat jegyzője | fővárosi és megyei kormányhivatal |
 
@@ -28,7 +28,7 @@
 
 | 12. | Ha a kérelem a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló kormányrendelet szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. | állami főépítész | területrendezésért felelős miniszter |
 
-6. melléklet a 481/2013. (XI. 17.) Korm. rendelethez[^64]
+6. melléklet a 481/2013. (XI. 17.) Korm. rendelethez[^65]
 
 A felügyelőség nem veszélyes hulladék kereskedelme, közvetítése, szállítása, gyűjtése, előkezelése, tárolása, hasznosítása, ártalmatlanítása engedélyezése iránti eljárásában közreműködő szakhatóságok
 
@@ -46,4 +46,4 @@ A felügyelőség nem veszélyes hulladék kereskedelme, közvetítése, száll�
 
 | 6. | Nyilvántartott ásványi nyersanyag lelőhely, bányatelek érintettsége, ásványi nyersanyag kitermelése és annak használata, értékesítése, hasznosítása esetén | Földtani környezet, földtani veszélyforrások, földtani gátak és az ásványvagyon- védelem értékelése, a fizetendő bányajáradék mértékének meghatározása, az építésföldtani megalapozottság vizsgálata, a földtani veszélyeztetettség vizsgálata, figyelemmel a vízzáró rétegre, a felszínen folyásra alkalmas képződmények meglétére, tektonikai jelenségekre (vetők, csúszásra alkalmas felületek), védelemre érdemes földtani képződményekre, a felszínmozgás veszélyeztetésének vizsgálata. | bányakapitányság | Magyar Bányászati és Földtani Hivatal | NEM | IGEN | IGEN |
 
-[^64]: A 6. melléklet a 221/2014. (IX. 4.) Korm. rendelet 785. § k)–m) pontja szerint módosított szöveg.
+[^65]: A 6. melléklet a 221/2014. (IX. 4.) Korm. rendelet 785. § k)–m) pontja szerint módosított szöveg.
