@@ -1,0 +1,21 @@
+45. § (1) A feltárási engedély tartalmazza
+
+a) a feltárást végző intézmény, mint az engedély jogosultjának nevét és székhelyét,
+
+b) ha más intézmény vagy a Kötv. 22. § (8) bekezdése szerinti akkreditált szervezet bevonására kerül sor, annak nevét és székhelyét,
+
+c) a feltárásvezető nevét,
+
+d) a terület azonosítására alkalmas megjelölését, a feltárás pontos helyét, az érintett régészeti lelőhely nyilvántartási azonosítóját és megnevezését,
+
+e) a feltárás módszereit és a feltárás várható időtartamát,
+
+f) ha nem azonos a feltárást végző intézménnyel, a leletanyagot véglegesen befogadó intézmény nevét és székhelyét, valamint
+
+g) a feltárásra vonatkozó jogszabályi követelményekre való hivatkozást és szakmai feltételeket.
+
+(2) Az engedély a határozat jogerőre emelkedésétől számított kétéves időtartamban jogosít feltárás végzésére. A megelőző feltárásra vonatkozó feltárási engedély hatálya kérelemre egy évvel, nagyberuházás esetén két évvel meghosszabbítható.
+
+(3) A hatóság a jogerős engedélyt megküldi a Nyilvántartási Irodának a jogerőre emelkedést követő harminc napon belül.
+
+(4) Az (1) bekezdés c) és e) pontja alapján az engedélyben meghatározottaktól eltérni csak a hatóság módosított engedélyével lehet.
