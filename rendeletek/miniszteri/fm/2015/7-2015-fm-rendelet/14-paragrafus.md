@@ -1,0 +1,1 @@
+## 13. § A fűszerpaprika-termelők mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 37/2014. (IV. 4.) VM rendelet 3. § (2) bekezdésében a „2014. évben” szövegrész helyébe a „2015. évben” szöveg lép.

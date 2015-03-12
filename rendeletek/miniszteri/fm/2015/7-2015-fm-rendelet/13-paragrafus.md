@@ -1,0 +1,1 @@
+## 12. § E rendelet a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatás állatjóléti kötelezettségvállalások teljesítéséhez nyújtott támogatásról szóló 1.1.5.2 alfejezetének végrehajtásához szükséges rendelkezéseket állapít meg.
