@@ -192,7 +192,7 @@
 
 ## Bridgewater-csatorna Az egész csatorna
 
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^48]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^51]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -468,9 +468,7 @@ terjed ki.
 
 (b) a személyzeten kívül több mint 12 személy szállítására szolgáló személyhajókra,
 
-(c) az úszómunkagépekre
-
-terjed ki.
+(c) az úszómunkagépekre.
 
 3. Nem tartoznak Szemleszabályzat alkalmazási körébe:
 
@@ -712,7 +710,7 @@ Az olyan országból származó úszólétesítménynél, amelyekben nem lehet e
 
 5. Az Európai Bizottságot az európai hajóazonosító szám kiadásáért felelős hatóság kijelöléséről a közlekedésért felelős miniszter értesíti.
 
-6. A hajózási hatóság megtesz minden ahhoz szükséges intézkedést, hogy az európai hajóazonosító szám kiadásáért felelős hatóságoknak az Európai Bizottság által vezetett nyilvántartásban felsorolt valamennyi hatóságot az általa kiadott európai hajóazonosító számokról, valamint az úszólétesítmények azonosítására szolgáló, a 3. függelékben foglalt adatokról tájékoztassa. Ezek az adatok a hajózás biztonságának fenntartására és megkönnyítésére, valamint e melléklet 2.02–2.15 cikkének, továbbá 8., 10., 11., 12., 16. és 17. fejezetének végrehatására szolgáló közigazgatási intézkedések megtétele érdekében a tagállamok, a rajnai hajózásról szóló Mannheimi Egyezményben részes államok, valamint – közigazgatási megállapodás alapján a magánélet azonos szintű védelmét garantáló harmadik országok – illetékes hatóságai részére tehetők hozzáférhetővé.
+6. A hajózási hatóság az európai hajóazonosító számot a víziközlekedésről szóló 2000. évi XLII. törvény szerint kezeli és jegyzi be a Bizottság hajóadatbázisába.
 
 2.19 cikk
 
@@ -2494,7 +2492,7 @@ A vontatásra alkalmas géphajókat és tolóhajókat fel kell szerelni legaláb
 
 (e) Egy csáklya.
 
-(f) Külön jogszabályban[^49] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
+(f) Külön jogszabályban[^52] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
 
 (g) Egy távcső, amely legalább 7x50 lencseátmérőjű.
 
@@ -4922,15 +4920,9 @@ A VITORLÁS SZEMÉLYHAJÓKRA VONATKOZÓ KÜLÖN KÖVETELMÉNYEK
 
 A II. rész alkalmazása
 
-A II. rész előírásain túlmenően az e fejezetben szereplő követelmények vonatkoznak a vitorlás személyhajókra.
-
-15a.02 cikk
-
-Eltérések bizonyos vitorlás személyhajók esetében
-
-[^48]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. § c) pontja szerint módosított szöveg.
+[^51]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. § c) pontja, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről.
-[^49]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
+[^52]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész

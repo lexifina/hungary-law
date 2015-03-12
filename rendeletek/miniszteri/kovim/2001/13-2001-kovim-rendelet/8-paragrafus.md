@@ -26,10 +26,13 @@ i) Nemzetközi kedvtelési célú kishajóbizonyítvány.
 
 (5)[^29] A hajózási hatóság az (1) bekezdés szerinti hajóokmányokat a 6. melléklet szerinti jegyzékben tartja nyilván.
 
-(6)[^30] Az elveszett vagy sérült bizonyítványokat – a sérült bizonyítvány visszaszolgáltatása után – a kiállító hajózási hatóság a nyilvántartásában szereplő adatok alapján külön jogszabályban megállapított díj ellenében pótolja.
+(5a)[^30] A nemzeti víziúton közlekedő, 20 méternél rövidebb személyhajók üzemképességét tanúsító bizonyítványba be kell jegyezni az engedélyezett vonalszakaszt vagy vízterületet.
+
+(6)[^31] Az elveszett vagy sérült bizonyítványokat – a sérült bizonyítvány visszaszolgáltatása után – a kiállító hajózási hatóság a nyilvántartásában szereplő adatok alapján külön jogszabályban megállapított díj ellenében pótolja.
 
 [^26]: A 8. § (1) bekezdése a 29/2014. (V. 5.) NFM rendelet 8. §-ával megállapított szöveg.
 [^27]: A 8. § (2) bekezdése az 1/2010. (I. 8.) KHEM rendelet 6. §-ával megállapított szöveg.
 [^28]: A 8. § (3) bekezdése a 34/2010. (IV. 22.) KHEM rendelet 3. §-ával megállapított szöveg. A 13/A. § alapján a rendelkezést a 2010. június 1-jét követően indult és a megismételt eljárásokban kell alkalmazni.
 [^29]: A 8. § (5) bekezdését a 9/2008. (III. 21.) GKM rendelet 6. § (2) bekezdése iktatta be.
-[^30]: A 8. § (6) bekezdését a 9/2008. (III. 21.) GKM rendelet 6. § (2) bekezdése iktatta be.
+[^30]: A 8. § (5a) bekezdését a 10/2015. (III. 11.) NFM rendelet 1. §-a iktatta be.
+[^31]: A 8. § (6) bekezdését a 9/2008. (III. 21.) GKM rendelet 6. § (2) bekezdése iktatta be.
