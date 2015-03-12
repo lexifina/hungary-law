@@ -1,12 +1,8 @@
-2. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^118]
+2. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^129]
 
 ## Bontási engedély és bontás tudomásulvétele nélkül végezhető bontási tevékenységek
 
-1. A bruttó 300,0 m3 térfogatot vagy a rendezett terepcsatlakozástól mért 4,0 m épületmagasságot meg nem haladó egyszintes építmény bontása, kivéve
-
-a) a műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 50 méterre álló meglévő épületet,
-
-b) valamint a lakást tartalmazó, a zártsorú vagy ikres beépítésű épületet.
+1. A bruttó 300,0 m3 térfogatot vagy a rendezett terepcsatlakozástól mért 4,0 m épületmagasságot meg nem haladó egyszintes építmény bontása, kivéve a lakást tartalmazó, a zártsorú vagy ikres beépítésű épületet.
 
 2. A legfeljebb 2,0 m mélységű és legfeljebb 20 m3 légterű pince bontása.
 
@@ -30,7 +26,7 @@ f) újjáépíteni.
 
 6. Kereskedelmi, vendéglátó rendeltetésű épület bontása, melynek mérete nem haladja meg a nettó 20,0 m2 alapterületet.
 
-7. Nem emberi tartózkodásra szolgáló építmény bontása, melynek mérete nem haladja meg a nettó 50 m3 térfogatot és 3,0 m gerincmagasságot, kivéve a műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 50 méterre álló meglévő épület bontását.
+7. Nem emberi tartózkodásra szolgáló építmény bontása, melynek mérete nem haladja meg a nettó 50 m3 térfogatot és 3,0 m gerincmagasságot.
 
 8. Önálló reklámtartó építmény bontása, melynek mérete nem haladja meg
 
@@ -44,11 +40,11 @@ a) sírbolt, urnasírbolt bontása, melynek mérete nem haladja meg a nettó 50 
 
 b) urnafülke, sírhely, sírjel bontása.
 
-10. Szobor, emlékmű, kereszt, emlékjel bontása, ha annak a talapzatával együtt mért magassága nem haladja meg a 6,0 m-t, kivéve, ha az műemléki jelentőségű területen áll.
+10. Szobor, emlékmű, kereszt, emlékjel bontása, ha annak a talapzatával együtt mért magassága nem haladja meg a 6,0 m-t.
 
-11. Emlékfal bontása, ha annak magassága nem haladja meg a 3,0 m-t – kivéve, ha az műemléki jelentőségű területen áll.
+11. Emlékfal bontása, ha annak magassága nem haladja meg a 3,0 m-t.
 
-12. Park – kivéve, ha az műemléki jelentőségű területen van -, játszótér, sportpálya műtárgyainak bontása.
+12. Park, játszótér, sportpálya műtárgyainak bontása.
 
 13. Tömegtartózkodás céljára nem alkalmas, vagy legfeljebb 180 napig fennálló
 
@@ -114,4 +110,4 @@ f) újjáépíteni.
 
 30. Közforgalom elől elzárt, telken belüli 3,0 m vagy annál kisebb fesztávú áteresz, bejáró-, átjáró-híd bontása.
 
-[^118]: A 2. melléklet a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^129]: A 2. melléklet a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés b) pontja, a 38/2015. (III. 11.) Korm. rendelet 18. § (11) bekezdése, (13) bekezdés b)–e) pontja szerint módosított szöveg.

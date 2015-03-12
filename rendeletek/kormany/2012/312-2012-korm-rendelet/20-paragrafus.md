@@ -28,7 +28,7 @@ a) az építtetővel vagy meghatalmazottjával,
 
 b) az építésfelügyeleti hatósággal az ÉTDR-en keresztül,
 
-c)[^25] az illetékes környezetvédelmi és természetvédelmi felügyelőséggel, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
+c)[^30] az illetékes környezetvédelmi és természetvédelmi felügyelőséggel, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
 
 d) a fővárosi és megyei kormányhivatal munkavédelmi felügyelőségével, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
 
@@ -42,4 +42,4 @@ e) mindazokkal, akiknek értesítését jogszabály előírja.
 
 (7) Az építésügyi hatóság – az építési engedélykérelemben erre irányuló külön kérelem esetén – a jogerős építési engedélyt és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációt a jogerőre emelkedés időpontjának tudomásra jutásától számított három napon belül az építtető vagy meghatalmazottjának a kapcsolattartás módjára megjelölt rendelkezésének megfelelően megküldi.
 
-[^25]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja szerint módosított szöveg.
+[^30]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja szerint módosított szöveg.

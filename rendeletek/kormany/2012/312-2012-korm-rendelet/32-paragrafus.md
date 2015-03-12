@@ -14,7 +14,7 @@ d) az előzetes régészeti dokumentációt és a földmunkákat bemutató terve
 
 e) ha a kérelem benyújtásakor rendelkezésre áll a 29. § (1) bekezdése szerinti eljárásokban hozott döntések megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
 
-f)[^40]
+f)[^47]
 
 g) az eljárási illeték, igazgatási szolgáltatási díj megfizetésének igazolását,
 
@@ -24,4 +24,4 @@ h) a településrendezési szerződés másolatát és a településrendezési e
 
 (4) A THSZ-ben a településrendezési eszköz módosításának, elfogadásának egyeztetési szakaszát a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerint e fejezetben foglalt eltérésekkel kell lefolytatni.
 
-[^40]: A 32. § (2) bekezdés f) pontját a 77. § hatályon kívül helyezte.
+[^47]: A 32. § (2) bekezdés f) pontját a 77. § hatályon kívül helyezte.

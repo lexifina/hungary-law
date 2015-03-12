@@ -2,23 +2,23 @@
 
 54. § (1) Az építtető kérelmére az építésügyi hatóság tudomásulvételi eljárásával vehető használatba – a 39. § (1) bekezdése szerint használatbavételi engedélyhez kötött építmények kivételével – az építési engedélyhez kötött építmény, építményrész, építési tevékenység.
 
-(1a)[^64] A használatbavétel tudomásulvételére irányuló kérelmet az építtető
+(1a)[^72] A használatbavétel tudomásulvételére irányuló kérelmet az építtető
 
 a) az építmény rendeltetésszerű és biztonságos használatra alkalmassá válásakor,
 
-b)[^65] az építési munkaterület építtető részére történő – az építési naplóban igazolt – visszaadását követően,
+b)[^73] az építési munkaterület építtető részére történő – az építési naplóban igazolt – visszaadását követően,
 
 c) az építési engedély hatályossága alatt – használatbavétel előtt -
 
 nyújtja be az építésügyi hatósághoz.
 
-(1b)[^66] Az építtető a használatbavétel tudomásulvételére irányuló kérelemében kérheti, hogy az építésügyi hatóság a tudomásul vételt foglalja írásba.
+(1b)[^74] Az építtető a használatbavétel tudomásulvételére irányuló kérelemében kérheti, hogy az építésügyi hatóság a tudomásul vételt foglalja írásba.
 
-(2)[^67] Az (1) bekezdésben meghatározott körben az építmény – ingatlan-nyilvántartásban változást eredményező – építése, bővítése esetén a használatbavétel tudomásulvételi kérelem előterjesztésével egyidőben a hatályos földhivatali záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez jogszabályban előírt változási vázrajzot az OÉNY-be elektronikusan fel kell tölteni.
+(2)[^75] Az (1) bekezdésben meghatározott körben az építmény – ingatlan-nyilvántartásban változást eredményező – építése, bővítése esetén a használatbavétel tudomásulvételi kérelem előterjesztésével egyidőben a hatályos földhivatali záradékkal ellátott, a változás ingatlan-nyilvántartási átvezetéséhez jogszabályban előírt változási vázrajzot az OÉNY-be elektronikusan fel kell tölteni.
 
 (3) A (2) bekezdésben meghatározott változási vázrajz feltöltésének hiánya a használatbavétel tudomásulvételi eljárásának lefolytatását és a használatbavétel tudomásulvételét nem akadályozza, azonban ha a (2) bekezdésben foglaltaknak a kérelmező nem tett eleget, az építésügyi hatóság a használatbavétel tudomásulvételével egyidejűleg, határidő megjelölésével és eljárási bírság kiszabásának kilátásba helyezésével kötelezi az építtetőt a változási vázrajznak az OÉNY-be történő elektronikus feltöltésére.
 
-(3a)[^68] Az (1) bekezdés szerinti eljárásban az építésügyi hatóság meggyőződik arról, hogy
+(3a)[^76] Az (1) bekezdés szerinti eljárásban az építésügyi hatóság meggyőződik arról, hogy
 
 a) az építési tevékenységet az építési, módosított építési engedélynek és az ahhoz tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációnak megfelelően végezték-e el,
 
@@ -44,7 +44,7 @@ e tényről és a használatbavétel tudomásulvételéről történő tájékoz
 
 (5) Az építésügyi hatóság helyszíni szemlén tisztázza a tényállást, ha a kérelem elbírálásához szükséges információk, adatok és dokumentumok nem állnak a rendelkezésére.
 
-(6)[^69] Az építésügyi hatóság az eljárás megindulásától számított tíz napon belül a használatbavétel tudomásulvételét megtagadja és az építmény, építményrész használatát megtiltja, ha
+(6)[^77] Az építésügyi hatóság az eljárás megindulásától számított tíz napon belül a használatbavétel tudomásulvételét megtagadja és az építmény, építményrész használatát megtiltja, ha
 
 a) a használatbavétel tudomásulvételére irányuló kérelemhez a (9) bekezdésben meghatározott mellékleteket nem csatolták,
 
@@ -52,21 +52,21 @@ b) az OTÉK-ban meghatározott rendeltetésszerű és biztonságos használat k�
 
 c) megállapítja, hogy az építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól eltértek és az eltérés építésügyi hatósági engedélyhez kötött.
 
-(7)[^70] Az építésügyi hatóság – a (6) és (7a) bekezdésben meghatározott eset kivételével – a használatbavételt hallgatással tizenöt nap elteltével tudomásul veszi, egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi az építtetőt.
+(7)[^78] Az építésügyi hatóság – a (6) és (7a) bekezdésben meghatározott eset kivételével – a használatbavételt hallgatással tizenöt nap elteltével tudomásul veszi, egyidejűleg határidő megjelölésével az esetlegesen hiányzó munkálatok elvégzésére kötelezi az építtetőt.
 
-(7a)[^71] Az építésügyi hatóság az eljárás ügyintézési határidejét hatvan nappal meghosszabbítja, ha az eljárásban megállapítja, hogy az (1a) bekezdés b) pontja szerinti építési munkaterület visszaadása az építési naplóban igazoltan nem történt meg és erről az építtetőt az ÉTDR-en keresztül értesíti.
+(7a)[^79] Az építésügyi hatóság az eljárás ügyintézési határidejét hatvan nappal meghosszabbítja, ha az eljárásban megállapítja, hogy az (1a) bekezdés b) pontja szerinti építési munkaterület visszaadása az építési naplóban igazoltan nem történt meg és erről az építtetőt az ÉTDR-en keresztül értesíti.
 
-(7b)[^72] Ha a (7a) bekezdésben meghatározott idő alatt az építési naplóban az építési munkaterület visszaadása az építési naplóban igazoltan nem történt meg, és a használatbavétel e rendelet szerinti egyéb feltételei teljesültek a hatvanadik nap leteltével az építésügyi hatóság a használatbavételt hallgatással tudomásul veszi.
+(7b)[^80] Ha a (7a) bekezdésben meghatározott idő alatt az építési naplóban az építési munkaterület visszaadása az építési naplóban igazoltan nem történt meg, és a használatbavétel e rendelet szerinti egyéb feltételei teljesültek a hatvanadik nap leteltével az építésügyi hatóság a használatbavételt hallgatással tudomásul veszi.
 
-(7c)[^73] Az építésügyi hatóság a használatbavételt – ha az építési naplóban az építési munkaterület visszaadása a (7a) bekezdésben meghatározott határidő lejárta előtt megtörtént – a jegyzőkönyv az építésügyi hatóság tudomására jutásától számított öt nap elteltével hallgatással tudomásul veszi.
+(7c)[^81] Az építésügyi hatóság a használatbavételt – ha az építési naplóban az építési munkaterület visszaadása a (7a) bekezdésben meghatározott határidő lejárta előtt megtörtént – a jegyzőkönyv az építésügyi hatóság tudomására jutásától számított öt nap elteltével hallgatással tudomásul veszi.
 
-(7d)[^74] Az építésügyi hatóság a tudomásulvételi eljárás ügyintézési határidejének (7a) bekezdés szerinti meghosszabbításáról a használatbavétel tudomásulvételi eljárás megindulásától számított tíz napon belül az elektronikus építési naplóban történő bejegyzéssel is tájékoztatást ad.
+(7d)[^82] Az építésügyi hatóság a tudomásulvételi eljárás ügyintézési határidejének (7a) bekezdés szerinti meghosszabbításáról a használatbavétel tudomásulvételi eljárás megindulásától számított tíz napon belül az elektronikus építési naplóban történő bejegyzéssel is tájékoztatást ad.
 
 (8) Az eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és hiánypótlásra felhívás nem bocsát ki, és a szakhatóságot nem keresi meg.
 
-(9)[^75] A használatbavétel tudomásulvételére irányuló kérelemhez a 39. § (8) bekezdés a) és c) pontjában meghatározottakat kell mellékelni.
+(9)[^83] A használatbavétel tudomásulvételére irányuló kérelemhez a 39. § (8) bekezdés a) és c) pontjában meghatározottakat kell mellékelni.
 
-(10)[^76] A használatbavétel megtiltásáról szóló határozat rendelkező része a Ket. 72. § (1) bekezdésében foglaltakon kívül tartalmazza
+(10)[^84] A használatbavétel megtiltásáról szóló határozat rendelkező része a Ket. 72. § (1) bekezdésében foglaltakon kívül tartalmazza
 
 a) az ÉTDR ügy- és iratazonosítót,
 
@@ -74,7 +74,7 @@ b) az építési engedély számát, keltét,
 
 c) – az eljárási bírság kiszabásának kilátásba helyezése mellett – a használat megtiltására vonatkozó kötelezést.
 
-(11)[^77] A (10) bekezdés szerinti határozat szóban nem közölhető. Az iratazonosítóval ellátott döntést közölni kell
+(11)[^85] A (10) bekezdés szerinti határozat szóban nem közölhető. Az iratazonosítóval ellátott döntést közölni kell
 
 a) ügyféli minőségben, az értesítettek körének feltüntetése mellett
 
@@ -84,17 +84,17 @@ ab) az építési tevékenységgel érintett telek, építmény, építményrés
 
 b) azzal a hatósággal, amely az építési engedélyezési eljárásban részt vett.
 
-[^64]: Az 54. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (4) bekezdése iktatta be.
-[^65]: Az 54. § (1a) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 15. pontja szerint módosított szöveg.
-[^66]: Az 54. § (1b) bekezdését a 62/2014. (III. 6.) Korm. rendelet 17. § (3) bekezdése iktatta be.
-[^67]: Az 54. § (2) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés g) pontja szerint módosított szöveg.
-[^68]: Az 54. § (3a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg.
-[^69]: Az 54. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
-[^70]: Az 54. § (7) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 9. pontja, a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés h) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 16. pontja szerint módosított szöveg.
-[^71]: Az 54. § (7a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 17. pontja szerint módosított szöveg.
-[^72]: Az 54. § (7b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 18. pontja szerint módosított szöveg.
-[^73]: Az 54. § (7c) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 19. pontja szerint módosított szöveg.
-[^74]: Az 54. § (7d) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be.
-[^75]: Az 54. § (9) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (8) bekezdése iktatta be.
-[^76]: Az 54. § (10) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (8) bekezdése iktatta be.
-[^77]: Az 54. § (11) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (8) bekezdése iktatta be.
+[^72]: Az 54. § (1a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^73]: Az 54. § (1a) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 15. pontja szerint módosított szöveg.
+[^74]: Az 54. § (1b) bekezdését a 62/2014. (III. 6.) Korm. rendelet 17. § (3) bekezdése iktatta be.
+[^75]: Az 54. § (2) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés g) pontja szerint módosított szöveg.
+[^76]: Az 54. § (3a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg.
+[^77]: Az 54. § (6) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^78]: Az 54. § (7) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 9. pontja, a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés h) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 16. pontja szerint módosított szöveg.
+[^79]: Az 54. § (7a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 17. pontja szerint módosított szöveg.
+[^80]: Az 54. § (7b) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 18. pontja szerint módosított szöveg.
+[^81]: Az 54. § (7c) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be, szövege a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 19. pontja szerint módosított szöveg.
+[^82]: Az 54. § (7d) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (7) bekezdése iktatta be.
+[^83]: Az 54. § (9) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (8) bekezdése iktatta be.
+[^84]: Az 54. § (10) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (8) bekezdése iktatta be.
+[^85]: Az 54. § (11) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 4. § (8) bekezdése iktatta be.

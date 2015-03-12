@@ -334,7 +334,7 @@
 
 ## 4.2. A dokumentáció minden esetben tartalmazza – az ÉTDR általános felületén történő tájékoztatás érdekében – a 10. § (6) bekezdés d) pontjában meghatározott dokumentumokat: az I. rész 2.1. pontjában meghatározott tartalmú helyszínrajzot és az I. rész 2.5. pontjában meghatározott tartalmú utcai homlokzati tervet, vagy az utcaképet bemutató látványtervet.
 
-## 5. Műemléki védelem alatt álló építmény átalakítása, bővítése, felújítása, korszerűsítése, helyreállítása esetén az építészeti műszaki dokumentációnak – az 1-4. pontban meghatározottakon túl – alábbiakat kell tartalmaznia:
+## 5. Nyilvántartott műemléki érték, műemléki védelem alatt álló építmény átalakítása, bővítése, felújítása, korszerűsítése, helyreállítása esetén az építészeti műszaki dokumentációnak – az 1–4. pontban meghatározottakon túl – alábbiakat kell tartalmaznia:
 
 ## 5.1. az építmény teljes helyreállítása, felújítása esetében külön jogszabályban meghatározott tartalmú építéstörténeti kutatási dokumentációt,
 
@@ -346,7 +346,7 @@
 
 ## 5.3.2. állapotvizsgálatot,
 
-## 5.4. műemlék épületszerkezetének nedvesedése vagy sók által okozott károk elhárítása esetén faldiagnosztikai szakvéleményt, amely tartalmazza az előzetes adatgyűjtés eredményeit, a helyszíni szemle megállapításait, a faldiagnosztikai minták vizsgálatainak ismertetését, a kár-okok teljes körű bemutatását, elemzését, a nedvesség és sószennyezés elleni védelmi technikák alkalmazhatóságának elemzését, fotó- és rajzi dokumentációt,
+## 5.4. nyilvántartott műemléki érték, műemlék épületszerkezetének nedvesedése vagy sók által okozott károk elhárítása esetén faldiagnosztikai szakvéleményt, amely tartalmazza az előzetes adatgyűjtés eredményeit, a helyszíni szemle megállapításait, a faldiagnosztikai minták vizsgálatainak ismertetését, a kár-okok teljes körű bemutatását, elemzését, a nedvesség és sószennyezés elleni védelmi technikák alkalmazhatóságának elemzését, fotó- és rajzi dokumentációt,
 
 ## 5.5. építmény tetőszerkezetének megerősítése, terhének növekedésével járó átalakítása esetén az 1950 előtti tetőszerkezetek helyreállítása esetén az elemek teljes vagy részleges cseréjét, megerősítését tételesen, rajzi mellékleteken is fel kell tüntetni,
 
@@ -362,13 +362,13 @@
 
 ## 6.2.2. a bontáshoz tervezett technológiai leírást, amely tartalmazza a bontáshoz felhasználandó eszközöket, segédszerkezeteket, a műveletek sorrendjét, a közművezetékek leválasztási módját, a munkavédelmi és környezetvédelmi előírásokat, valamint az elbontásra kerülő szerkezetek, anyagok további sorsának meghatározását,
 
-## 6.2.3. helyi védelem alá tartozó építmény, illetve egyedi tájértékké minősített építmény elbontása vagy műemlék részleges bontása esetén fényképeket az építmény valamennyi nézetéről,
+## 6.2.3. helyi védelem alá tartozó építmény, illetve egyedi tájértékké minősített építmény elbontása vagy nyilvántartott műemléki érték, műemlék részleges bontása esetén fényképeket az építmény valamennyi nézetéről,
 
-## 6.2.4. műemlék részleges bontásához a beavatkozással érintett részre vonatkozó, külön jogszabályban meghatározott tartalmú építéstörténeti kutatási dokumentációt,
+## 6.2.4. nyilvántartott műemléki érték, műemlék részleges bontásához a beavatkozással érintett részre vonatkozó, külön jogszabályban meghatározott tartalmú építéstörténeti kutatási dokumentációt,
 
 ## 6.2.5. zártsorú beépítés esetén tartószerkezeti szakértői véleményt különös tekintettel a szomszédos ingatlanokra és az azokon lévő építmények állagvédelmére.
 
-## 6.3. Bontás tudomásulvételéhez szükséges dokumentáció a 6.2.1-6.2.3. pontban foglaltakat, továbbá műemléki jelentőségű területen álló építmény esetén a meglévő (a változtatás előtti) állapotra vonatkozó fotódokumentációt és az érintett környezet fényképi ábrázolását tartalmazza.
+## 6.3. Bontás tudomásulvételéhez szükséges dokumentáció a 6.2.1-6.2.3. pontban foglaltakat, továbbá műemléki környezetben álló építmény esetén a meglévő (a változtatás előtti) állapotra vonatkozó fotódokumentációt és az érintett műemlék környezetének fényképi ábrázolását tartalmazza.
 
 ## 7. Fennmaradási engedélyezési dokumentáció
 
@@ -380,7 +380,7 @@
 
 ## 7.2.2. a szabálytalanságot milyen módon szüntetik meg (átalakítással vagy egyéb módon).
 
-## 7.3. Műemléki területen épült építmény esetén fotódokumentáció is szükséges.
+## 7.3. Műemléki jelentőségű területen, műemléki környezetben, történeti tájban épült építmény esetén fotódokumentáció is szükséges.
 
 ## 8. Használatbavételi engedélyezési, tudomásulvételi dokumentáció
 

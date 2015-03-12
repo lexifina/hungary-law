@@ -6,7 +6,7 @@
 
 17. § (1) Az építési tevékenység végzésére – az 1. mellékletben felsoroltak kivételével – jogszabályban meghatározott építésügyi hatóságtól építési engedélyt kell kérni.
 
-(1a)[^17] Építmény, építményrész rendeltetésének építési engedély köteles építési munkával nem járó megváltoztatásához nem kell az építésügyi hatóság engedélye.
+(1a)[^18] Építmény, építményrész rendeltetésének építési engedély köteles építési munkával nem járó megváltoztatásához nem kell az építésügyi hatóság engedélye.
 
 (2) Az építési engedélyt egy telekre – a (3) bekezdésben foglalt kivétellel – az egy időben megvalósuló építési tevékenység egészére kell kérni.
 
@@ -26,7 +26,7 @@ b) bontás engedélyezésére,
 
 c) fennmaradási engedélyezésre, valamint
 
-d) a műemlékileg védett építmény esetén, az örökségvédelmi engedélyre
+d)[^19] nyilvántartott műemléki érték, műemlék esetén az örökségvédelmi engedélyre
 
 ## irányuló kérelem is előterjeszthető.
 
@@ -38,9 +38,9 @@ a) jogszabályban előírt esetekben
 
 aa) a települési önkormányzat polgármesterének településképi véleményét, vagy
 
-ab)[^18] a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
+ab)[^20] a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
 
-b)[^19]
+b)[^21]
 
 c) az eljárási illeték, igazgatási szolgáltatási díj befizetésének igazolását.
 
@@ -70,6 +70,7 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, illetve az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^17]: A 17. § (1a) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdése iktatta be.
-[^18]: A 17. § (6) bekezdés a) pont ab) alpontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 9. pontja szerint módosított szöveg.
-[^19]: A 17. § (6) bekezdés b) pontját a 77. § hatályon kívül helyezte.
+[^18]: A 17. § (1a) bekezdését a 67/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^19]: A 17. § (4) bekezdés d) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^20]: A 17. § (6) bekezdés a) pont ab) alpontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 9. pontja szerint módosított szöveg.
+[^21]: A 17. § (6) bekezdés b) pontját a 77. § hatályon kívül helyezte.
