@@ -1,8 +1,8 @@
-## 5/A. [^6] Az ajánlatban alkalmazott minimális rezsióradíj vizsgálata
+## 5/A. [^7] Az ajánlatban alkalmazott minimális rezsióradíj vizsgálata
 
-8/A. §[^7] (1) Amennyiben a rezsióradíj mértéke az eljárásban a Kbt. 71. §-a szerint önállóan értékelésre kerül, aránytalanul alacsony árajánlatnak minősül, és köteles az ajánlatkérő a Kbt. 69. §-a szerint indokolást kérni, ha az ajánlattevő által alkalmazott rezsióradíj alacsonyabb az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján az építésügyért felelős miniszter rendeletében megállapított minimális építőipari rezsióradíj mértékénél.
+8/A. §[^8] (1) Amennyiben a rezsióradíj mértéke az eljárásban a Kbt. 71. §-a szerint önállóan értékelésre kerül, aránytalanul alacsony árajánlatnak minősül, és köteles az ajánlatkérő a Kbt. 69. §-a szerint indokolást kérni, ha az ajánlattevő által alkalmazott rezsióradíj alacsonyabb az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján az építésügyért felelős miniszter rendeletében megállapított minimális építőipari rezsióradíj mértékénél.
 
 (2) Az (1) bekezdésen kívüli esetekben az ajánlatkérő a Kbt. 69. § (1) bekezdése szerinti indokolás kérése keretében köteles arra vonatkozóan is tájékoztatást kérni, hogy az aránytalanul alacsony árat benyújtó ajánlattevő ajánlatában milyen összegű rezsióradíjjal számolt, és a rezsióradíj kiszámításakor egyes – az Épkiv.-ben meghatározottak szerint az építőipari minimális rezsióradíj elemeit képező – költségeket milyen összeggel és módon vett figyelembe. Az ajánlatkérő az ajánlattevő által nyújtott indokolás gazdasági ésszerűséggel való összeegyeztethetőségének vizsgálata során figyelembe veszi az Építőipari Ágazati Párbeszéd Bizottság ajánlása alapján az építésügyért felelős miniszter rendeletében megállapított minimális építőipari rezsióradíj mértékét, és amennyiben az ajánlatban alkalmazott rezsióradíj annál alacsonyabb, különös figyelemmel vizsgálja a Kbt. 69. § (6) bekezdése szerinti körülmény fennállását.
 
-[^6]: Az 5/A. alcímet (8/A. §) a 109/2013. (IV. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^7]: A 8/A. § a 433/2013. (XI. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: Az 5/A. alcímet (8/A. §) a 109/2013. (IV. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^8]: A 8/A. § a 433/2013. (XI. 18.) Korm. rendelet 2. §-ával megállapított szöveg.

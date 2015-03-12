@@ -6,15 +6,15 @@ b) az Európai Unió Kohéziós Alapjából származó forrásból támogatott, 
 
 c) vízilétesítmény megvalósítására irányuló közbeszerzési eljárás esetén,
 
-d)[^1] a hulladékról szóló törvény szerinti hulladékgazdálkodási létesítmény építményeinek megvalósítására irányuló közbeszerzési eljárás esetén,
+d)[^2] a hulladékról szóló törvény szerinti hulladékgazdálkodási létesítmény építményeinek megvalósítására irányuló közbeszerzési eljárás esetén,
 
 e) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó építési beruházás esetén,
 
-f)[^2] a Kbt. 94. § (3) bekezdés a) pontja szerinti kiegészítő építési beruházás esetén (ha az ajánlatkérő készít dokumentációt),
+f)[^3] a Kbt. 94. § (3) bekezdés a) pontja szerinti kiegészítő építési beruházás esetén (ha az ajánlatkérő készít dokumentációt),
 
-g)[^3] nukleáris létesítmény építményeivel, vagy nukleáris létesítmény létesítéséhez vagy üzemeltetéséhez kapcsolódó egyéb építményekkel kapcsolatos közbeszerzési eljárás esetén.
+g)[^4] nukleáris létesítmény építményeivel, vagy nukleáris létesítmény létesítéséhez vagy üzemeltetéséhez kapcsolódó egyéb építményekkel kapcsolatos közbeszerzési eljárás esetén.
 
-(2)[^4]
+(2)[^5]
 
 (3) A dokumentáció kivitelezésre és tervezésre irányuló építési beruházás esetében is lehet az Épkiv. szerinti – e rendelet előírásainak megfelelő – kivitelezési dokumentáció, ahol a nyertes ajánlattevő feladata egyes kiegészítő tervezési feladatok ellátása.
 
@@ -22,7 +22,7 @@ g)[^3] nukleáris létesítmény építményeivel, vagy nukleáris létesítmén
 
 (5) A Kbt. 24. § (3) bekezdése alkalmazásában nem eredményezi a verseny tisztaságának sérelmét és nem összeférhetetlen a kivitelezésre, vagy kivitelezésére és tervezésére együtt, illetve egy (elvi) engedélyezési tervet követően ugyanazon építmény tekintetében további tervek készítésére vonatkozó közbeszerzési eljárásban annak a tervezőnek a részvétele, aki ezen közbeszerzési eljárás Kbt. 49. §-a szerinti dokumentációját megalapozó tervet készítette, ha egyéb módon nem vesz részt a közbeszerzési eljárás előkészítésében.
 
-[^1]: Az 5. § (1) bekezdés d) pontja a 441/2012. (XII. 29.) Korm. rendelet 24. §-a szerint módosított szöveg.
-[^2]: Az 5. § (1) bekezdés f) pontját a 238/2013. (VI. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^3]: Az 5. § (1) bekezdés g) pontját a 433/2013. (XI. 18.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 5. § (2) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 3. § (5) bekezdése hatályon kívül helyezte.
+[^2]: Az 5. § (1) bekezdés d) pontja a 441/2012. (XII. 29.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés f) pontját a 238/2013. (VI. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^4]: Az 5. § (1) bekezdés g) pontját a 433/2013. (XI. 18.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 5. § (2) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 3. § (5) bekezdése hatályon kívül helyezte.

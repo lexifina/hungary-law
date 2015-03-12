@@ -14,6 +14,8 @@
 
 ## 1.2.4. az ajánlattételt lényegesen befolyásoló, építési beruházásnak nem minősülő, de azzal együtt elkészítendő munkákat.
 
+## 1.2.5.[^19] az ajánlattételt befolyásoló, az építési beruházás során elvégzendő régészeti feladatellátás követelményeit, előzetes régészeti dokumentációt vagy örökségvédelmi hatsátanulmányt, ha a beruházás előkésztése során készült.
+
 ## 1.3. A dokumentációt legalább az e rendeletben meghatározott általános tartalommal, az építmény jellegének megfelelő szakterületi sajátosságok részletes tartalmi követelményeinek megfelelően, az egyes munkarészeket a szükséges szakági bontásban és részletességgel kell elkészíteni.
 
 ## 1.4. A dokumentáció tartalmát úgy kell megállapítani, hogy annak tartalmaznia kell legalább
@@ -105,3 +107,5 @@ Műemlékekkel kapcsolatos követelmények
 2.4. az esztétikai helyreállítási javaslat,
 
 2.5. a kezelések várható eredményei és kockázata.
+
+[^19]: Az 1. melléklet 1.2. pont 1.2.5. alpontját a 38/2015. (III. 11.) Korm. rendelet 15. §-a iktatta be.
