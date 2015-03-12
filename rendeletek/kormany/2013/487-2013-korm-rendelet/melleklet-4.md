@@ -4,11 +4,11 @@
 
 ## építésügyi vizsgáról
 
-## Ezt a tanúsítványt ...................................................... részére állítottuk ki, aki .............................................. városban (községben) ......... év ................... hó ......... napján született, anyja neve: ...............................................
+## Ezt a tanúsítványt ....................................................………………………………….. (születési név) részére állítottuk ki, aki ............................................………………… városban (községben) ......... év ................... hó ......... napján született, anyja neve: ...............................................
 
-## Nevezett az építésügyi, az építésfelügyeleti és az örökségvédelmi hatóságnál foglalkoztatott köztisztviselők és kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló
+## Nevezett az építésügyi, az építésfelügyeleti és az örökségvédelmi hatóságnál foglalkoztatott köztisztviselők és kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló 487/2013.
 
-## 487/2013. (XII. 17.) Korm. rendelet szerint
+## (XII. 17.) Korm. rendelet szerint
 
 ## ÉPÍTÉSÜGYI VIZSGÁT TETT
 
@@ -16,38 +16,52 @@
 
 ## ÉTDR témakörökből
 
-## Elektronikus építési napló témakörökből
+## Elektronikus építési napló témakörökből*
 
-## Műemlékvédelmi témakörökből
-
-## Műemlékvédelmi témakörökből és építésügyi résztémakörökből[^*]
+## A továbbképzési program pontértéke: ……
 
 ## Kelt: ........................, .......... év ............. hó ......... nap
 
 ## P. H.
 
-## ...................................................................... ......................................................................
+| ...................................................................... vizsgabizottság tagja | ..................................................................... vizsgabizottság tagja |
 
-## vizsgabizottság tagja vizsgabizottság tagja
+| ...................................................................... |
 
-## ......................................................................
+| vizsgabizottság elnöke |
 
-## vizsgabizottság elnöke
+## * A megfelelő témakör vagy témakörök aláhúzandók.
 
-4. melléklet a 487/2013. (XII. 17.) Korm. rendelethez
+4. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^32]
 
-Az Éhk. 1. melléklet II. részében foglalt táblázat 20. sora helyébe a következő rendelkezés lép:
+Szám: .............
 
-|  | [A | B | C |
+TANÚSÍTVÁNY
 
-| Sor- szám | Megye | Járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatalának központja | Járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatalának illetékességi területe] |
+építésügyi vizsgáról
 
-| „ |  |  |  |
+Ezt a tanúsítványt ....................................................………………………………… (születési név) részére állítottuk ki, aki ............................................……………… városban (községben) ......... év ................... hó ......... napján született, anyja neve: ...............................................
 
-| 20. | Budapest | I. kerület | az 1. § (2)–(3) bekezdésében meghatározott feladatok tekintetében: I. kerület, II. kerület, III. kerület, XI. kerület, XII. kerület, XX. kerület, XXI. kerület, XXII. kerület, XXIII. kerület |
+Nevezett az építésügyi, az építésfelügyeleti és az örökségvédelmi hatóságnál foglalkoztatott köztisztviselők és kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló 487/2013.
 
-| V. kerület | az 1. § (2)–(3) bekezdésében meghatározott feladatok tekintetében: IV. kerület, V. kerület, VI. kerület, VII. kerület, VIII. kerület, IX. kerület, X. kerület, XIII. kerület, XIV. kerület, XV. kerület, XVI. kerület, XVII. kerület, XVIII. kerület, XIX. kerület, Fővárosi Önkormányzat által közvetlenül igazgatott terület |
+(XII. 17.) Korm. rendelet szerint
 
-”
+a ……………………………… elnevezésű továbbképzési programban
 
-[^*]: A megfelelő témakör vagy témakörök aláhúzandók.
+ÉPÍTÉSÜGYI VIZSGÁT TETT
+
+Műemlékvédelmi témakörökből
+
+A továbbképzési program pontértéke: ……
+
+Kelt: ........................, .......... év ............. hó ......... nap
+
+P. H.
+
+| ...................................................................... vizsgabizottság tagja | ..................................................................... vizsgabizottság tagja |
+
+| ...................................................................... |
+
+| vizsgabizottság elnöke |
+
+[^32]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 38/2015. (III. 11.) Korm. rendelet 25. § (14) bekezdése iktatta be.

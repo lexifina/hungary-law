@@ -8,7 +8,7 @@ b) építésügyi vizsgát tett, vagy építési jogi szakokleveles mérnöki v�
 
 c) teljes körű vagy részleges mentességet kapott az építésügyi vizsga letételének kötelezettsége alól, az e rendelet szerinti építésügyi vizsgát teljesíteni köteles.
 
-(2)[^5] Az (1) bekezdés szerinti, valamint annak a köztisztviselőnek, akinek 2014. július 1-jéig megkezdődött a továbbképzési kötelezettsége, az építésügyi vizsgát 2015. július 1-jéig kell teljesíteni.
+(2)[^24] Az (1) bekezdés szerinti, valamint annak a köztisztviselőnek, akinek 2014. július 1-jéig megkezdődött a továbbképzési kötelezettsége, az építésügyi vizsgát 2015. július 1-jéig kell teljesíteni.
 
 (3) A 2014. évben esedékes vizsgakötelezettek névsorát a munkáltató közigazgatási szerv legkésőbb 2014. február 28-ig küldi meg a vizsgaszervezőnek.
 
@@ -16,4 +16,4 @@ c) teljes körű vagy részleges mentességet kapott az építésügyi vizsga le
 
 (5) Az oktatói, illetve vizsgáztatói feladatok ellátására 2014. január 1-jétől folyamatosan lehet jelentkezni az LLTK-nál.
 
-[^5]: A 8. § (2) bekezdése a 280/2014. (XI. 14.) Korm. rendelet 4. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 8. § (2) bekezdése a 280/2014. (XI. 14.) Korm. rendelet 4. § (4) bekezdés c) pontja szerint módosított szöveg.

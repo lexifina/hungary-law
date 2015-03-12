@@ -24,7 +24,7 @@
 
 ## 13. Az építményekkel szemben támasztott követelmények
 
-## 14. A műemlékek védelmével kapcsolatos építésügyi szabályok
+## 14.[^26]
 
 ## 15. Építésügyi fogalomrendszer
 
@@ -36,11 +36,7 @@
 
 ## 19. Az építési folyamat szereplői
 
-## 20. Általános jogi ismeretek
-
-## 21. Higiénés és egészségvédelmi alapismeretek
-
-## 22. Tűzvédelmi alapismeretek
+## 20–22.[^27]
 
 ## B) ÉTDR TÉMAKÖRÖK
 
@@ -99,3 +95,6 @@
 ## ÉPÍTÉSÜGYI VIZSGA TÉMAKÖREI
 
 A) ÉPÍTÉSÜGYI TÉMAKÖRÖK
+
+[^26]: Az 1. melléklet A) rész 14. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.
+[^27]: Az 1. melléklet A) rész 20–22. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.
