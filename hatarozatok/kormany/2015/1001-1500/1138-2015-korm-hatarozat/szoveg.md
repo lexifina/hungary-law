@@ -38,7 +38,7 @@ emberi erőforrások minisztere
 
 Határidő: azonnal
 
-7. a sportfejlesztéssel és sportlétesítmény-gazdálkodással összefüggő feladatok változásával kapcsolatos intézkedésekről szóló 1061/2015. (II. 18.) Korm. határozat 1. melléklet „343873 ÁHT-T A 2021. évi Úszó-, Vízilabda, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezéséhez kötődő sportlétesítmény-fejlesztés támogatása” sort törli;
+7.[^1]
 
 8. felhívja a nemzeti fejlesztési minisztert, hogy az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos bevonásával intézkedjen annak érdekében, hogy a Beruházás építtetője, illetve bármely más ajánlatkérő a Beruházás megvalósításához szükséges beszerzésekre vonatkozó közbeszerzési eljárásokat rendkívüli sürgősséggel, haladéktalanul megindítsa;
 
@@ -48,4 +48,7 @@ az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiz
 
 Határidő: azonnal
 
-9. visszavonja a FINA 2021. évi Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezéséhez szükséges létesítmény-fejlesztéshez kapcsolódó feladatokról szóló 1750/2013. (X. 24.) Korm. határozatot.
+9.[^2]
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
