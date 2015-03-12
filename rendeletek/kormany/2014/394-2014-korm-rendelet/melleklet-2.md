@@ -4,7 +4,7 @@
 
 | 1 | Beruházások megnevezése | Beruházások azonosítója | A Beruházások megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2 | Az Esterházy-kastélyegyüttes rekonstrukciója | Fertőd 127/2, 130, 131, 136, 144, 0225, 324/1, 327/2, 327/4, 329, 335, 341, 346/2, 346/4, 348/1, 327/6, 342/5, 342/6, 0215, 0223/1, 128, 135, 137/1, 138, 139, 140, 141, 142, 143, 327/7, 330/1, 330/2, 330/3, 331, 332, 333, 334, 336, 337, 338/1, 339/2, 340, 343, 344/1, 347, 1229/1 helyrajzi számon nyilvántartott ingatlanok | építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Sopron Járási Hivatal Járási Építésügyi Hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2 | Az Esterházy-kastélyegyüttes rekonstrukciója | Fertőd 126, 127/2, 128,130, 131, 132, 133, 135, 136, 137/1,138, 139, 140, 141, 142, 143, 144, , 324/1, 327/2, 327/4, 327/6, 327/7, 329, 330/1, 330/2, 330/3,331, 332, 333, 334, 335, 336, 337,338/1, 339/2, 340, 341, 342/5, 342/6, 343, 344/1, 346/2, 346/4, 347, 348/1, 0215, 0223/1, 1229/1, 0202/1, 0213, 0216, 0217/1,0224, 0225 helyrajzi számon nyilvántartott ingatlanok | építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3 |  |  | a) örökségvédelmi hatósági engedélyezési eljárások, b) régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
@@ -30,7 +30,7 @@
 
 | 14 |  |  | azok a 2–13. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
 
-2. melléklet a 394/2014. (XII. 31.) Korm. rendelethez
+2. melléklet a 394/2014. (XII. 31.) Korm. rendelethez[^3]
 
 A Beruházások megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
 
@@ -50,7 +50,7 @@ A Beruházások megvalósításához szükséges hatósági engedélyezési elj�
 
 | 7 | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 8 | Régészet és műemlékvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 8 | Régészet és műemlékvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Győri Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 9 | Közlekedés: közút | Győr-Moson-Sopron Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
 
@@ -71,3 +71,5 @@ A Beruházások megvalósításához szükséges hatósági engedélyezési elj�
 | 17 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
 | 18 | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Soproni Rendőrkapitányság | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
+
+[^3]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
