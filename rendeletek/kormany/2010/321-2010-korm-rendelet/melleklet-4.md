@@ -38,4 +38,4 @@
 
 4. melléklet a 321/2010. (XII. 27.) Korm. rendelethez[^29]
 
-[^29]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át. Szövege az 51/2013. (II. 25.) Korm. rendelet 21. §-a, az 527/2013. (XII. 30.) Korm. rendelet 95. § a) pontja, a 42/2014. (II. 24.) Korm. rendelet 11. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 516. § a) pontja szerint módosított szöveg.
+[^29]: A 4. mellékletet a 7/2013. (I. 18.) Korm. rendelet 6. § (23) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 14. §-át, szövege az 51/2013. (II. 25.) Korm. rendelet 21. §-a, az 527/2013. (XII. 30.) Korm. rendelet 95. § a) pontja, a 42/2014. (II. 24.) Korm. rendelet 11. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 516. § a) pontja, a 38/2015. (III. 11.) Korm. rendelet 14. §-a szerint módosított szöveg.
