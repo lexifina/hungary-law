@@ -8,7 +8,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Kormány visszavonja az Elektronikus Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1859/2014. (XII. 30.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1133/2015. (III. 10.) Korm. határozathoz
 
@@ -223,3 +223,5 @@
 | 4. | 3.1.5. | A Rendőrség elektronikus feldolgozó rendszerének korszerűsítése a KMR régióban | 0 | 2 | 0 | A Rendőrség elektronikus feldolgozó rendszerének korszerűsítése, bővítése, átstrukturálása, egyes közigazgatási folyamatok elektronizálása, valamint az informatikai biztonság növelését célzó hardverkörnyezet és egyéb technikai eszközrendszer fejlesztése a Közép-magyarországi régióban. | belügy- miniszter |  |
 
 3.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 3.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
