@@ -1,8 +1,8 @@
-## 2/A. §[^5] A műemléki épületen végzett, az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendelet alapján építési engedélyhez kötött építési továbbá a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott örökségvédelmi engedélyhez kötött és e rendeletben meghatározott tevékenység dokumentációjának véleményezése során a tervtanács a 2. §-ban foglaltakon túlmenően a műemlékvédelemben kiemelkedő, magas szintű elméleti és gyakorlati ismeretekkel rendelkező természetes személyekből áll.
+## 2/A. §[^6]
 
 ## A tervtanács elnöke
 
-3. §[^6] (1) A tervtanács elnöke
+3. §[^7] (1) A tervtanács elnöke
 
 a) a központi építészeti tervtanács esetében az országos főépítész,
 
@@ -30,5 +30,5 @@ i) gondoskodik a tervtanács működésével kapcsolatos iratkezelési, nyilván
 
 j) gondoskodik akadályoztatása esetén a helyettesítéséről.
 
-[^5]: A 2/A. §-t a 394/2012. (XII. 20.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^6]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^6]: A 2/A. §-t a 394/2012. (XII. 20.) Korm. rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés b) pontja.
+[^7]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 20. §-ával megállapított szöveg.

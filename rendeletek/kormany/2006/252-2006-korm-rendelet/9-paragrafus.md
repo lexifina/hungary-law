@@ -4,23 +4,17 @@
 
 9. § (1) A központi építészeti-műszaki tervtanács működési területe az egész ország területére kiterjed.
 
-(2)[^22] A központi építészeti tervtanács feladata, hogy
+(2)[^23] A központi építészeti tervtanács feladata, hogy
 
 a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben a másodfokú építésügyi hatóság megkeresésére véleményezze az első fokú építésügyi hatósági eljárásban a döntés alapjául szolgáló, a területi tervtanács által véleményezett építészeti-műszaki dokumentációt, valamint
 
 b) véleményezze a nemzetgazdasági szempontból kiemelt jelentőségű ügy tárgyát képező építési beruházás épületeinek építészeti-műszaki dokumentációját, ha a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító kormányrendelet erre kijelöli.
 
-(2a)[^23] A 2/A. §-ban meghatározott dokumentációk tárgyalása során a központi tervtanács feladata, hogy véleményezze
+(2a)[^24]
 
-a) a jogszabály szerinti I. és II. bírsági kategóriába tartozó műemlékeket érintő építési tevékenységek építészeti-műszaki, továbbá
+(3)[^25] A területi építészeti-műszaki tervtanács működési területe – a 10. § (1) bekezdésében foglaltak figyelembevételével – megegyezik a területi főépítész illetékességi területével.
 
-b) az a) pont szerinti épületeket érintő, a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott tevékenységek örökségvédelmi
-
-## dokumentációját.
-
-(3)[^24] A területi építészeti-műszaki tervtanács működési területe – a 10. § (1) bekezdésében foglaltak figyelembevételével – megegyezik a területi főépítész illetékességi területével.
-
-(4)[^25] A területi építészeti-műszaki tervtanács feladata, hogy véleményezze
+(4)[^26] A területi építészeti-műszaki tervtanács feladata, hogy véleményezze
 
 a) a főpolgármester településképi véleménye hiányában a fővárosi helyi építészeti örökségvédelem alatt
 
@@ -32,15 +26,10 @@ szükséges építészeti-műszaki dokumentációt,
 
 b) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott esetekben a másodfokú építésügyi hatóság megkeresésére az első fokú eljárásban a döntés alapjául szolgáló, az önkormányzat polgármestere által – a helyi építészeti-műszaki tervtanács szakmai álláspontjára alapozott – véleményezett építészeti-műszaki dokumentációt, továbbá
 
-c) a jogszabály szerint III. bírság kategóriába tartozó műemléki épületen végzett építési tevékenység végzéséhez szükséges építészeti-műszaki dokumentációt,
+c)–f)[^27]
 
-d) a jogszabály szerint III. bírság kategóriába tartozó műemléki épületen végzett, a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott tevékenységek örökségvédelmi dokumentációját,
-
-e) az önkormányzat polgármesterének településképi véleménye hiányában a világörökségi területen a telek közterületi határához legközelebb, de legfeljebb 10 méterre álló új épület építésével vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítésével vagy átalakításával kapcsolatos építészeti-műszaki dokumentációt, valamint
-
-f) az önkormányzat polgármesterének településképi véleménye hiányában a műemléki jelentőségű területen a telek közterületi határához legközelebb, de legfeljebb 10 méterre álló új épület építésével vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítésével vagy átalakításával kapcsolatos építészeti-műszaki dokumentációt.
-
-[^22]: A 9. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^23]: A 9. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 12. § (5) bekezdése iktatta be.
-[^24]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
-[^25]: A 9. § (4) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^23]: A 9. § (2) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^24]: A 9. § (2a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 12. § (5) bekezdése iktatta be, hatályon kívül helyezte a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés f) pontja.
+[^25]: A 9. § (3) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
+[^26]: A 9. § (4) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (6) bekezdésével megállapított szöveg.
+[^27]: A 9. § (4) bekezdés c)–f) pontját a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte.
