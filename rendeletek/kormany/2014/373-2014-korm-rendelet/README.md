@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-373-20-
 | 2015-01-02 | 2014-373-20-22.2 | 2010: CXXX. törvény |
 | 2015-03-01 | 2014-373-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-03-02 | 2014-373-20-22.4 | 2010: CXXX. törvény |
+| 2015-03-12 | 2014-373-20-22.5 | 38/2015. (III. 11.) Korm. rendelet |

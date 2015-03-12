@@ -36,4 +36,6 @@
 
 ## záradékszöveggel látja el.
 
-4. melléklet a 373/2014. (XII. 31.) Korm. rendelethez
+4. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^12]
+
+[^12]: A 4. melléklet a 38/2015. (III. 11.) Korm. rendelet 28. § i)–l) pontja szerint módosított szöveg.

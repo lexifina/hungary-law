@@ -6632,7 +6632,7 @@
 
 ## Zalavég
 
-2. melléklet a 373/2014. (XII. 31.) Korm. rendelethez
+2. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^11]
 
 [^5]: Az 1. melléklet 7. pont 7.1. alpontja az 56. §-sal megállapított szöveg.
 [^6]: Az 1. melléklet 7. pont 7.3. alpontja az 56. §-sal megállapított szöveg.
@@ -6640,3 +6640,4 @@
 [^8]: Az 1. melléklet 7. pont 7.5. alpontja az 56. §-sal megállapított szöveg.
 [^9]: Az 1. melléklet 8. pont 8.4. alpontja az 56. §-sal megállapított szöveg.
 [^10]: Az 1. melléklet 8. pont 8.6. alpontja az 56. §-sal megállapított szöveg.
+[^11]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 28. § a)–h) pontja szerint módosított szöveg.
