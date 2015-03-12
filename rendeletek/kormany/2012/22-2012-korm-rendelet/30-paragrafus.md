@@ -1,6 +1,6 @@
 ## 11. Az erdészeti hatósági eljárásokban közreműködő szakhatóságok
 
-30. § (1)[^68] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket és a műemlékeket tartalmazó, a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ által vezetett adatbázisban szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt régészeti lelőhelyen, műemlék területén és műemléki területen
+30. § (1)[^68] A Kormány az ingatlan-nyilvántartásból megismerhető, valamint a nyilvántartott régészeti lelőhelyeket, régészeti védőövezeteket, műemléki területeket, nyilvántartott műemléki értékeket és a műemlékeket tartalmazó, a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ által vezetett adatbázisban szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt nyilvántartott régészeti lelőhelyen, nyilvántartott műemléki érték, műemlék területén és műemléki területen
 
 a) az erdészeti magánút, műtárgy, csatorna, tározó létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, megszüntetésére, illetve használatbavételére, fennmaradására irányuló másodfokú eljárásban,
 
@@ -104,7 +104,7 @@ f) az erdő elsődleges rendeltetése megváltoztatására vonatkozó másodfok�
 
 g) cserjék kivágásának engedélyezése iránti másodfokú eljárásban,
 
-[^68]: A 30. § (1) bekezdés nyitó és záró szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 54. §-a, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 639. § (1) bekezdése, záró szövegrésze a 439/2013. (XI. 20.) Korm. rendelet 18. § (6) bekezdése szerint módosított szöveg.
+[^68]: A 30. § (1) bekezdés nyitó és záró szövegrésze a 394/2012. (XII. 20.) Korm. rendelet 54. §-a, nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 639. § (1) bekezdése, a 38/2015. (III. 11.) Korm. rendelet 17. §-a, záró szövegrésze a 439/2013. (XI. 20.) Korm. rendelet 18. § (6) bekezdése szerint módosított szöveg.
 [^69]: A 30. § (2) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
 [^70]: A 30. § (3) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^71]: A 30. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
