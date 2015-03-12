@@ -6,7 +6,7 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | A FINA 2021. évi Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezéséhez szükséges létesítmény-fejlesztés, valamint az ezzel közvetlenül összefüggő közmű- és útépítési tevékenységek | a Budapest XIII. kerület 25879, 25667/7 és 25666/2 helyrajzi számú földrészletek, illetve az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek. | általános építésügyi hatósági eljárások, beleértve: – az általános építményeket, – a műemléki védelem alatt álló építményeket, – az építményen belül, építménybe beépített felvonókat, mozgólépcsőket (beleértve a mozgójárdát is), ha annak létesítéséhez építésügyi hatósági engedélyhez kötött építési tevékenység szükséges | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2. | A FINA Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megrendezéséhez szükséges létesítmény-fejlesztés, valamint az ezzel közvetlenül összefüggő, így különösen a gát-, közmű- és útépítési tevékenységek | a Budapest XIII. kerület 25879, 25667/7 és 25666/2 helyrajzi számú földrészletek, illetve az ezekből a földrészletekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek. | általános építésügyi hatósági eljárások, beleértve: – az általános építményeket, – a műemléki védelem alatt álló építményeket, – az építményen belül, építménybe beépített felvonókat, mozgólépcsőket (beleértve a mozgójárdát is), ha annak létesítéséhez építésügyi hatósági engedélyhez kötött építési tevékenység szükséges | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
 
 | 3. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
@@ -38,7 +38,7 @@
 
 | 17. | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-2. melléklet a 26/2014. (II. 7.) Korm. rendelethez[^7]
+2. melléklet a 26/2014. (II. 7.) Korm. rendelethez[^9]
 
 Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges
 
@@ -80,4 +80,4 @@ hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelke
 
 | 17. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
 
-[^7]: A 2. melléklet a 229/2014. (IX. 5.) Korm. rendelet 175. § (2) bekezdése és 176. § c) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet a 229/2014. (IX. 5.) Korm. rendelet 175. § (2) bekezdése és 176. § c) pontja szerint módosított szöveg.
