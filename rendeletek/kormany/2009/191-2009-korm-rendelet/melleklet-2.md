@@ -252,7 +252,7 @@
 
 ## Örökségvédelmi hatóság által meghatározott esetekben és tartalommal:
 
-## 8.1. Az építéstörténeti kutatási dokumentáció aktualizálása.
+## 8.1. Az építéstörténeti tudományos dokumentáció aktualizálása.
 
 ## 8.2. Archív tervek és fényképek másolata.
 
@@ -282,7 +282,7 @@
 
 ## 8.6.4. színezési tervek, burkolatok (részlet)tervei, pl.: kiosztás, felületképzés, kezelés stb.,
 
-## 8.6.5. kert-történeti kutatási dokumentációkon alapuló, a történeti kertépítészeti elemek és a növényzet helyreállítására (szükség esetén pótlására, rekonstrukciójára vagy cseréjére) vonatkozó (részlet)tervek.
+## 8.6.5. kerttörténeti tudományos dokumentáción, régészeti módszerekkel történő kutatásról szóló kutatási dokumentáción alapuló, a történeti kertépítészeti elemek és a növényzet helyreállítására (szükség esetén pótlására, rekonstrukciójára vagy cseréjére) vonatkozó (részlet)tervek.
 
 ## 9. Részletes, minden szakágra kiterjedő tételes költségvetés-kiírás, mennyiségi kimutatással.
 
@@ -294,6 +294,6 @@
 
 ## 10.2. a kivitelezési tevékenység végzéséhez szükséges – tervezői koordinátor által ellenőrzött – munkabiztonsági és egészségvédelmi tervet.
 
-2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^302]
+2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^305]
 
-[^302]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § b) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (19) bekezdése, a (20) bekezdés 19. pontja, valamint a (21) bekezdés i) pontja, a 336/2013. (IX. 20.) Korm. rendelet 16. § d)–f) pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 34–35. pontja szerint módosított szöveg.
+[^305]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § b) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (19) bekezdése, a (20) bekezdés 19. pontja, valamint a (21) bekezdés i) pontja, a 336/2013. (IX. 20.) Korm. rendelet 16. § d)–f) pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 34–35. pontja szerint módosított szöveg.
