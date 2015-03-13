@@ -1,1 +1,0 @@
-## 3. § A Rendelet 1. mellékletében foglalt táblázat A:2–A:17 mezőjében a „FINA 2021. évi” szövegrész helyébe a „FINA” szöveg, valamint a „közvetlenül összefüggő közmű-” szövegrész helyébe a „közvetlenül összefüggő, így különösen a gát-, közmű-” szöveg lép.
