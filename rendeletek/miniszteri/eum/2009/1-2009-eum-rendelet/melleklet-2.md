@@ -386,15 +386,19 @@
 
 | XII. | Orvostudományi kutatással kapcsolatos igazgatási szolgáltatások [nem kereskedelmi kutatás, valamint az Eütv. 159. § (5) bekezdése szerinti kutatás kivételével] |  |
 
-| XII. 1. | Orvostudományi kutatás engedélyezése, az engedély módosítása az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottságának szakhatósági állásfoglalása alapján | 434 000 Ft (ebből a szakhatósági eljárás díja: 320 000 Ft) |
+| XII. 1. | Orvostudományi kutatás engedélyezése, az engedély módosítása az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottságának szakhatósági állásfoglalása alapján | 377 000 Ft + kutatásba bevont telephelyenként 25 000 Ft szakértői díj (az összegből a szakhatósági eljárás díja 320 000 Ft) |
 
-| XII. 2. | Orvostudományi kutatás engedélyezése, az engedély módosítása az Egészségügyi Tudományos Tanács Humánreprodukciós Bizottságának szakhatósági állásfoglalása alapján | 429 000 Ft (ebből a szakhatósági eljárás díja: 315 000 Ft) |
+| XII. 2. | Orvostudományi kutatás engedélyezése, az engedély módosítása az Egészségügyi Tudományos Tanács Humánreprodukciós Bizottságának szakhatósági állásfoglalása alapján | 372 000 Ft + kutatásba bevont telephelyenként 25 000 Ft szakértői díj (az összegből a szakhatósági eljárás díja 315 000 Ft) |
 
 | XII. 3. | Orvostudományi kutatás engedélyezése, az engedély módosítása a Regionális Kutatásetikai Bizottságok (RKEB) véleménye alapján | 114 000 Ft (ebből az RKEB díja: 15 300 Ft) |
 
 | XIII. | A nemdohányzók védelmével kapcsolatos igazgatási szolgáltatások |  |
 
 | XIII.1. | Zárt légterű dohányzóhely kijelölésének engedélyezése a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 2. § (9) bekezdése alapján, az Nvt. 2. § (5) bekezdés d) és e) pontja szerinti esetekben a munkavállalók részére | 40 000 Ft |
+
+| XIII. 2. | Új adalékanyagok dohánytermék-gyártásban történő felhasználásának engedélyezése | 40 000 Ft |
+
+| XIII. 3. | A jogszabályban foglaltaktól eltérő dohányzási tilalmat jelző felirat engedélyezése | 15 000 Ft |
 
 2. melléklet az 1/2009. (I. 30.) EüM rendelethez[^11]
 

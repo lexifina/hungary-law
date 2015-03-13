@@ -28,21 +28,27 @@ e) a mulasztási bírságra az Itv. 82. §-ában foglaltakat
 
 (8) A díjak nyilvántartására és elszámolására az államháztartás alrendszerébe tartozó, költségvetés alapján gazdálkodó szervek beszámolási és könyvvezetési kötelezettségéről szóló hatályos jogszabályi előírásokat kell alkalmazni.
 
-(9)[^3] Az 1. melléklet XII. pontja szerinti orvostudományi kutatás engedélyének módosítása során minden egyes önálló, külön jogszabály szerinti, egymással össze nem függő lényeges módosítás iránti kérelem külön díj köteles.
+(9)[^3] Az 1. mellékletben foglalt táblázat XII. pontja szerinti orvostudományi kutatás engedélyezése során fizetendő díjból a szakértői díjtételt a kutatásba bevont telephelyenként kell megfizetni. Az engedély módosítása során minden egyes önálló, jogszabály szerinti, egymással össze nem függő lényeges módosítás iránti kérelem külön díj köteles.
 
 (10)[^4] Az intézet a hozzá befizetett,
 
-a) az 1. melléklet XII. 1. pontja, illetve XII. 2. pontja szerinti díjból az orvostudományi kutatás engedélyezése, illetve az engedély lényeges módosítása esetén – a szakhatósági állásfoglalásért – az igazgatási díjtétel ott meghatározott részét az Egészségügyi Stratégiai Kutatóintézet 10032000-01491728 számú számlájára átutalja,
+a) az 1. mellékletben foglalt táblázat XII. 1. pontja, illetve XII. 2. pontja szerinti díjból az orvostudományi kutatás engedélyezése, illetve az engedély lényeges módosítása esetén
 
-b) az 1. melléklet XII. 3. pontja szerinti díjból az orvostudományi kutatás engedélyezése, illetve az engedély lényeges módosítása esetén – a véleményért – az igazgatási díjtétel ott meghatározott részét az emberen végzett orvostudományi kutatásokról szóló jogszabályban meghatározott, véleményt adó illetékes Regionális Kutatásetikai Bizottság részére átutalja.
+aa) a szakhatósági állásfoglalásért az igazgatási díjtétel ott meghatározott részét a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet 10032000-01490576-00000000 számú számlájára,
 
-(11)[^5] Az 1. melléklet XII. 1. pontja, valamint XII. 2. pontja szerinti orvostudományi kutatás engedélyének előzetes szakhatósági állásfoglalására irányuló kérelem esetén a kérelmező a (10) bekezdés a) pontja szerinti díjtétel részt az előzetes szakhatósági eljárás megindításakor köteles az Egészségügyi Stratégiai Kutatóintézet 10032000-01491728 számú számlájára átutalással, készpénzátutalási megbízással, belföldi postautalvány útján megfizetni vagy a házipénztárba befizetni.
+ab) a szakértői tevékenységért az igazgatási díjtétel ott meghatározott részét az engedélyezési eljárásban az emberen végzett orvostudományi kutatásokról szóló kormányrendeletben meghatározott szakértő számlájára
+
+átutalja,
+
+b) az 1. mellékletben foglalt táblázat XII. 3. pontja szerinti díjból az orvostudományi kutatás engedélyezése, illetve az engedély lényeges módosítása esetén a szakvéleményért az igazgatási díjtétel ott meghatározott részét az emberen végzett orvostudományi kutatásokról szóló kormányrendeletben meghatározott, véleményt adó illetékes Regionális Kutatásetikai Bizottság részére átutalja.
+
+(11)[^5]
 
 (12)[^6] Az 1. melléklet I.3. pontja szerinti eljárások jogorvoslati díját az Egészségügyi Engedélyezési és Közigazgatási Hivatal 10032000-00285788-00000000 számú számlájára kell befizetni.
 
 [^1]: Az 1. § a 10/2011. (III. 30.) NEFMI rendelet 64. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 31. §-a szerint módosított szöveg.
 [^2]: A 2. § (7) bekezdés b) pontja a 34/2009. (X. 20.) EüM rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^3]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be.
-[^4]: A 2. § (10) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be.
-[^5]: A 2. § (11) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be, szövege a 9/2015. (II. 10.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^4]: A 2. § (10) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be, szövege a 9/2015. (II. 10.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^5]: A 2. § (11) bekezdését a 34/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 9/2015. (II. 10.) EMMI rendelet 8. §-a.
 [^6]: A 2. § (12) bekezdését a 42/2012. (XI. 28.) EMMI rendelet 5. § (1) bekezdése iktatta be.
