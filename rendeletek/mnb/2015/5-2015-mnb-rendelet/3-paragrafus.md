@@ -1,0 +1,3 @@
+## 2. § Az R. 4. §-a a következő (3a) bekezdéssel egészül ki:
+
+## „(3a) A harmadik országbeli hitelintézet fióktelepe a 680/2014/EU bizottsági végrehajtási rendelet 12. cikk (2) bekezdésében, valamint a VI. és VII. mellékletében foglaltaknak megfelelő tartalommal és formában felügyeleti jelentést teljesít az ingatlanfedezetű hitelekből származó veszteségekre vonatkozó adatokról az MNB részére. A vonatkozási időpontra a 680/2014/EU bizottsági végrehajtási rendelet 2. cikk (1) bekezdés c) pontja, a teljesítési határidőre a 680/2014/EU bizottsági végrehajtási rendelet 3. cikk (1) bekezdés c) pontja, valamint (2), (4) és (5) bekezdése az irányadó.”
