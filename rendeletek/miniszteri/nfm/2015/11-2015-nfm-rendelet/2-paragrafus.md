@@ -1,0 +1,5 @@
+## „26. § (1) Eseti légtér gyakorló ejtőernyős ugrás vagy gyakorló műrepülés céljából – a (2) bekezdésben meghatározott kivétellel – 2015. március 31-ig jelölhető ki.
+
+## (2) 2015. március 31-ét követően gyakorló ejtőernyős ugrás vagy gyakorló műrepülés céljából akkor jelölhető ki eseti légtér egy alkalommal, legfeljebb 90 napra, ha a repülőtér üzemben tartója vagy a repülőtéren légiforgalmi szolgálatot ellátó szervezet 2015. március 31-ig a 18/A. §-ban foglaltak szerint Drop Zone légtér kijelölésére irányuló javaslatot terjesztett elő. Ebben az esetben az eseti légtér kijelölésére irányuló kérelemhez mellékelni kell a 4. melléklet 2.10. pontja szerint elkészített biztonsági felmérést, amelynek tartalmaznia kell a tervezett változtatásokkal érintett légiforgalmi szolgálatokkal, egyéb érintett szervezetekkel történt egyeztetés dokumentációját is, valamint a felmerülő kockázatok csökkentéséhez szükséges eljárásokat.”
+
+## 2. A Magyar Köztársaság területén lévő repülőtereket használó légijárművek földi ellenőrzései végrehajtásának részletes szabályairól szóló 23/2009. (VI. 3.) KHEM rendelet hatályon kívül helyezése
