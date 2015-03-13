@@ -1,0 +1,5 @@
+## 2. § Az emberen végzett orvostudományi kutatásokról szóló 23/2002. (V. 9.) EüM rendelet 3. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A kutatásba résztvevőként elsősorban az egészségügyi intézményben ellátott betegeket lehet bevonni. A résztvevők toborzására felhívás – az egészséges önkéntesek kivételével – kizárólag orvosokhoz intézhető, a kutatás céljának, módszereinek, a beválasztandó résztvevők körének pontos megjelölésével. Egészséges önkéntesek toborzása nyilvános közlésre szánt eszközzel történhet, a toborzási felhívásnak egyértelműen tartalmaznia kell, hogy az egészséges önkéntesek bevonására vonatkozik. A toborzási felhívás nem lehet reklámcélú. A toborzási felhívás tervezett szövegét és a toborzási módszer ismertetését a kutatás hatósági engedélyezése, illetve szakmai-etikai véleményezése iránti kérelemhez csatolni kell. A közzétett toborzási felhívásban a hatósági engedély meglétére utalni kell. A toborzás engedélyezett módszerétől és szövegétől való eltérés esetén az engedély módosítását kell kezdeményezni.”
+
+## 3. A területi védőnői ellátásról szóló 49/2004. (V. 21.) ESZCSM rendelet módosítása
