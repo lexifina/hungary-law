@@ -1,4 +1,4 @@
-## 14. § A tenyésznyúl tenyésztésbe állításának mezőgazdasági csekély összegű (de minimis) támogatásáról szóló 54/2014. (IV. 29.) VM rendelet 3. § (2) bekezdésében a „2014. évben” szövegrész helyébe a „2015. évben” szöveg lép.
+## 13–14. §[^1]
 
 1. melléklet a 7/2015. (III. 11.) FM rendelethez
 
@@ -27,3 +27,5 @@
 9.2 a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazolás eredeti példánya,
 
 9.3 nagyvállalkozásnak minősülő ügyfél esetén az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság álláspontja arról, hogy részvétele a támogatási programban indokolt.
+
+[^1]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
