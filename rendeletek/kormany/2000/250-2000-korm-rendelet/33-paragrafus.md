@@ -24,6 +24,12 @@
 
 (12)[^289] A pénzügyi intézmények a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény, valamint a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény hatálya alá tartozó devizaköveteléseiket, az azokhoz kapcsolódó értékvesztések, céltartalékok és elhatárolt kamatok összegeit 2014. december 31-én, az erre vonatkozó döntésük alapján – a számvitelről szóló 2000. évi C. törvény 60. §-ában rögzített szabályoktól eltérően – értékelhetik az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény 10. §-a szerinti árfolyamon is.
 
+(13)[^290] Rendkívüli ráfordításként kell elszámolni a pénzügyi intézménynél a 2015. üzleti évben a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény (a továbbiakban: elszámolási törvény) 5. §-a szerinti fogyasztói követelés és a 3–4. §-a szerinti túlfizetés összegének különbözetét.
+
+(14)[^291] Rendkívüli bevételként kell elszámolni a pénzügyi intézménynél a 2015. üzleti évben az elszámolási törvény alapján a fogyasztói követelésekkel (a pénzügyi intézmény részéről az ügyfelekkel szembeni kötelezettségekkel) szemben figyelembe veendő (beszámítandó) olyan összegeket, amelyeket korábban még nem számoltak el bevételként. Ilyen tételnek minősülnek különösen a korábban függővé tett, de az elszámolási törvény szerinti beszámítással kiegyenlítettnek minősülő kamatok, valamint kamatjellegű jutalékok, késedelmi kamatok összegei.
+
+(15)[^292] A pénzügyi intézménynél az elszámolási törvény végrehajtásával összefüggésben az ügyfelekkel szembeni követelések értékvesztésének visszaírását a 2015. üzleti évben a 13. § (1) bekezdésnek megfelelően kell elszámolni.
+
 [^278]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.
 [^279]: A 33. §-t a 345/2010. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
 [^280]: A 33. § (3) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
@@ -36,3 +42,6 @@
 [^287]: A 33. § (10) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
 [^288]: A 33. § (11) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
 [^289]: A 33. § (12) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^290]: A 33. § (13) bekezdését a 46/2015. (III. 12.) Korm. rendelet 2. §-a iktatta be.
+[^291]: A 33. § (14) bekezdését a 46/2015. (III. 12.) Korm. rendelet 2. §-a iktatta be.
+[^292]: A 33. § (15) bekezdését a 46/2015. (III. 12.) Korm. rendelet 2. §-a iktatta be.

@@ -434,6 +434,6 @@
 
 ## – SAJÁT TŐKE [8–9+10+11±12+13+14±15]
 
-2. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^291]
+2. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^294]
 
-[^291]: A 2. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a, az 518/2013. (XII. 30.) Korm. rendelet 33. § (2) bekezdése szerint módosított szöveg.
+[^294]: A 2. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a, az 518/2013. (XII. 30.) Korm. rendelet 33. § (2) bekezdése szerint módosított szöveg.
