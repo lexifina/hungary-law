@@ -1,0 +1,9 @@
+# 48/2015. (III. 12.) Korm. rendelet
+
+a Fővárosi Állat- és Növénykert fejlesztésére irányuló Pannon Park és Mesepark projektekhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-48-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-03-13 | 2015-48-20-22.1 | 48/2015. (III. 12.) Korm. rendelet |
