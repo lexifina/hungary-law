@@ -1,4 +1,4 @@
-## 16. § Hatályát veszti a régészeti lelőhely és a műemléki érték védetté nyilvánításáról, nyilvántartásáról és a régészeti feltárás részletes szabályairól szóló 80/2012. (XII. 28.) BM rendelet.
+## 16. §[^1]
 
 1. melléklet a 13/2015. (III. 11.) MvM rendelethez
 
@@ -9,3 +9,5 @@ A) VÉDETTSÉG KEZDEMÉNYEZÉSÉHEZ SZÜKSÉGES ADATOK
 (A *-gal jelölt pontok kötelezően kitöltendők!)
 
 *1. Az építmény (együttes) neve(i)
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
