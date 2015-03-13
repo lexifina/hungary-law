@@ -20,6 +20,7 @@ d) nyilvántartás vezetése a szült anyákról, újszülöttekről a vonatkoz�
 
 e) adatok gyűjtése és szolgáltatása a területi védőnői szolgálat részére, a gyermekágyas anya és az újszülött ellátásával kapcsolatos adatok rögzítése a vonatkozó szakmai eljárásrendnek megfelelően,
 
-f) az anya, illetve az újszülött érkezési helye szerinti területileg illetékes védőnő értesítése a születésekről, illetve a gyógyintézetből való távozásokról.
+f)[^15] az anya, illetve az újszülött érkezési helye szerinti területileg illetékes védőnő, valamint – az anya nyilatkozata alapján – a választott házi gyermekorvos vagy háziorvos értesítése a születésekről, illetve a gyógyintézetből való távozásokról.
 
 [^14]: A 3/A. §-t a 11/2014. (II. 24.) EMMI rendelet 40. §-a iktatta be.
+[^15]: A 3/A. § f) pontja a 9/2015. (II. 10.) EMMI rendelet 3. §-ával megállapított szöveg.
