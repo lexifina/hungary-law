@@ -1,6 +1,6 @@
-## Műrepülő légtér[^30]
+## Műrepülő légtér[^31]
 
-18/F. §[^31] (1) Műrepülő légteret kizárólag nem ellenőrzött légtérben lehet kijelölni oly módon, hogy
+18/F. §[^32] (1) Műrepülő légteret kizárólag nem ellenőrzött légtérben lehet kijelölni oly módon, hogy
 
 a) a műrepülő légtér és az ellenőrzött légtér magassági határai között legalább 1000 láb (300 m) vagy
 
@@ -12,5 +12,5 @@ b) a műrepülő légtér és az ellenőrzött légtér oldalhatárától legal�
 
 (3) Repülőtér felett műrepülő légteret akkor lehet kijelölni, ha a repülőtér nem rendelkezik kijelölt légtérrel. A kijelöléshez szükséges a repülőtér üzemben tartójának a hozzájárulása.
 
-[^30]: A 18/F. §-t megelőző alcímet a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
-[^31]: A 18/F. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
+[^31]: A 18/F. §-t megelőző alcímet a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
+[^32]: A 18/F. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.

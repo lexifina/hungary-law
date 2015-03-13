@@ -1,4 +1,4 @@
-## 23. §[^39] A légtér szerkezetére és osztályozására, a légi útvonalakra, a katonai légi folyosókra és a koordinált légtérben használt frekvenciákra vonatkozó adatokat a légiközlekedési hatóság az AIP-ben (Magyarország légiforgalmi tájékoztató kiadványában) teszi közzé.
+## 23. §[^40] A légtér szerkezetére és osztályozására, a légi útvonalakra, a katonai légi folyosókra és a koordinált légtérben használt frekvenciákra vonatkozó adatokat a légiközlekedési hatóság az AIP-ben (Magyarország légiforgalmi tájékoztató kiadványában) teszi közzé.
 
 ## Fogalmak, meghatározások
 
@@ -22,13 +22,13 @@
 
 9. Budapest ATS Központ: a közlekedésért felelős miniszter által a légiforgalom irányítására kijelölt szervezeten belül működő integrált, polgári-katonai operatív egység, amely továbbá jelenti a légtérgazdálkodó egységet (AMC) is;
 
-10.[^40] Budapest FIR (Budapest Repüléstájékoztató Körzet): Magyarország államhatára által körbezárt terület, amelyen belül a légiközlekedés számára FL660 (20 100 m STD) magasságig légiforgalmi szolgálatot biztosítanak;
+10.[^41] Budapest FIR (Budapest Repüléstájékoztató Körzet): Magyarország államhatára által körbezárt terület, amelyen belül a légiközlekedés számára FL660 (20 100 m STD) magasságig légiforgalmi szolgálatot biztosítanak;
 
 11. CTA (Control Area): polgári irányítói körzet, a földfelszín felett meghatározott magasságtól kezdődő térbeli kiterjedéssel rendelkező ellenőrzött légtér;
 
 12. CTR (Aerodrome Control Zone): a polgári repülőtéri irányító körzet jelölésére használt rövidítés. Repülőtéri irányító körzet a föld vagy a víz felszínétől kezdődő térbeli kiterjedéssel rendelkező ellenőrzött légtér. Felső határa megegyezik az adott repülőtéri irányító körzet feletti ellenőrzött légtér alsó határával;
 
-12a.[^41] Drop Zone légtér: meghatározott kiterjedésű, elsődlegesen a gyakorló ejtőernyős ugrások védelme céljából, repülőterek felett kijelölt légtér, amely gyakorló műrepülés végrehajtására is igénybe vehető, és amelyben – TIZ-hez kapcsolódó légtér kivételével – légiforgalmi szolgáltatást nem nyújtanak;
+12a.[^42] Drop Zone légtér: meghatározott kiterjedésű, elsődlegesen a gyakorló ejtőernyős ugrások védelme céljából, repülőterek felett kijelölt légtér, amely gyakorló műrepülés végrehajtására is igénybe vehető, és amelyben – TIZ-hez kapcsolódó légtér kivételével – légiforgalmi szolgáltatást nem nyújtanak;
 
 13. FIR (Flight Information Region): a repüléstájékoztató körzet jelölésére használt rövidítés;
 
@@ -80,7 +80,7 @@
 
 37. TMA (Terminal Control Area): közelkörzeti irányítói körzet, amelyet egy vagy több nagyobb repülőtér közelében, rendszerint ATS útvonalak találkozásánál létesítettek. A közelkörzeti irányító körzet alsó határa a földrajzi viszonyoknak és a légiforgalomnak megfelelően változik, de sehol sem alacsonyabb 600 lábnál (200 m) a terep felszíne felett;
 
-38.[^42] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
+38.[^43] TRA (Temporary Reserved Area): időszakosan korlátozott légtér: meghatározott kiterjedésű légtér, amelyben állami légijárművel olyan repülési tevékenység zajlik, amely veszélyt jelenthet az adott tevékenységben részt nem vevő légijárművek számára;
 
 39. UTC (Coordinated Universal Time): az egyeztetett egyetemes világidő jelölésére használt rövidítés;
 
@@ -90,7 +90,7 @@
 
 42. WGS-84 (World Geodetic System '84): az 1984-ben elfogadott világméretű geodéziai referenciarendszer jelölésére használt rövidítés.
 
-[^39]: A 23. § a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
-[^40]: A 24. § 10. pontja a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
-[^41]: A 24. § 12a. pontját a 15/2014. (IV. 3.) NFM rendelet 13. §-a iktatta be.
-[^42]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.
+[^40]: A 23. § a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
+[^41]: A 24. § 10. pontja a 91/2011. (XII. 30.) NFM rendelet 55. § b) pontja szerint módosított szöveg.
+[^42]: A 24. § 12a. pontját a 15/2014. (IV. 3.) NFM rendelet 13. §-a iktatta be.
+[^43]: A 24. § 38. pontja a 87/2007. (XI. 6.) GKM rendelet 2. §-ával megállapított szöveg.

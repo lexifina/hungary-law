@@ -1,8 +1,8 @@
-## 18/D. §[^27] A koordinációs feladatokat ellátó szervezet a 18/C. § (1) bekezdésében meghatározott engedély megszerzését követően írásban tájékoztatja a Budapest ATS Központot a légtér igénylésére jogosult személyekről, kivéve, ha a két szervezet között együttműködési megállapodás kerül megkötésre.
+## 18/D. §[^28] A koordinációs feladatokat ellátó szervezet a 18/C. § (1) bekezdésében meghatározott engedély megszerzését követően írásban tájékoztatja a Budapest ATS Központot a légtér igénylésére jogosult személyekről, kivéve, ha a két szervezet között együttműködési megállapodás kerül megkötésre.
 
-## A Drop Zone légtér igénybevétele[^28]
+## A Drop Zone légtér igénybevétele[^29]
 
-18/E. §[^29] (1) A Drop Zone légteret működési ideje alatt
+18/E. §[^30] (1) A Drop Zone légteret működési ideje alatt
 
 a) kizárólag VFR szerint működő légijármű veheti igénybe, a Drop Zone légtér koordinációs feladatait ellátó szervezet által megadott kezdő és befejező időpont között és magasságig,
 
@@ -28,6 +28,6 @@ c) valamennyi légijárműnek a koordinációs feladatokat ellátó szervezet t�
 
 (8) A működő Drop Zone légtérben a gyakorló ejtőernyős dobást vagy a gyakorló műrepülést végző légijárműnek elsőbbsége van az átrepülő forgalommal szemben, azzal, hogy biztosítani kell a kényszerhelyzetben lévő légijármű, a légvédelmi repülés, a kutató-mentő repülést végző légijármű, a mentőrepülés, valamint a rendészeti vagy bűnüldözés feladata céljából végzett repülés elsőbbségét.
 
-[^27]: A 18/D. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
-[^28]: A 18/E. §-t megelőző alcímet a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
-[^29]: A 18/E. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
+[^28]: A 18/D. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
+[^29]: A 18/E. §-t megelőző alcímet a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
+[^30]: A 18/E. §-t a 15/2014. (IV. 3.) NFM rendelet 11. §-a iktatta be.
