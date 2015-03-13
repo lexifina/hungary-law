@@ -1,3 +1,5 @@
-## 4. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet 1. mellékletében foglalt táblázat 6. sorában a „távhővezetéket régészeti lelőhelyen” szövegrészek helyébe a „távhővezetéket nyilvántartott régészeti lelőhelyen” szöveg, valamint a „műemléki területen vagy külön jogszabályban meghatározott esetekben műemléket érintő módon” szövegrészek helyébe a „műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén” szöveg lép.
+## 4. §[^4]
 
 ## 5. A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosítása
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

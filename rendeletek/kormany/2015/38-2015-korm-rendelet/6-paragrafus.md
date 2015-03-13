@@ -1,3 +1,5 @@
-## 5. § A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 12. számú melléklet 3. sorában a „(műemlékvédelem, műemléki területek védelme, nyilvántartott régészeti lelőhelyek)” szövegrész helyébe a „(régészeti örökség, műemlékvédelem)” szöveg lép.
+## 5. §[^5]
 
 ## 6. Az építésügyi bírság megállapításának részletes szabályairól szóló 245/2006. (XII. 5.) Korm. rendelet módosítása
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

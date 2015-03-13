@@ -1,3 +1,5 @@
-## 15. § Az építési beruházások közbeszerzésének részletes szabályairól szóló 306/2011. (XII. 23.) Korm. rendelet (a továbbiakban: R6.) 1. melléklete a 2. melléklet szerint módosul.
+## 15. §[^15]
 
 ## 16. A történelmi emlékhelyekről szóló 303/2011. (XII. 23.) Korm. rendelet módosítása
+
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
