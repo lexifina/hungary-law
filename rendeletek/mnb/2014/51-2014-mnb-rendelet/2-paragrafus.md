@@ -2,6 +2,11 @@
 
 2. § (1) Az adatszolgáltató az e rendeletben foglaltak szerint rendszeres, eseti és a Magyar Nemzeti Bank (a továbbiakban: MNB) kijelölésén alapuló adatszolgáltatást (a továbbiakban: felügyeleti jelentés) teljesít az MNB részére.
 
-(2) A felügyeleti jelentés elkészítésének alapját a magyar számviteli jogszabályok szerint készített főkönyvi és analitikus nyilvántartások képezik.
+(2)[^1] A felügyeleti jelentés elkészítésének alapját – a (2a) bekezdésben foglalt kivétellel – a magyar számviteli jogszabályok szerint készített főkönyvi és analitikus nyilvántartások képezik.
+
+(2a)[^2] A konszolidált éves beszámolóját a nemzetközi pénzügyi beszámolási sztenderdek (a továbbiakban: IFRS) alapján készítő adatszolgáltató 12. melléklet szerinti felügyeleti jelentése elkészítésének alapját az IFRS szerint készített főkönyvi és analitikus nyilvántartások képezik.
 
 (3) A felügyeleti jelentés alapjául szolgáló dokumentumokat, a számviteli, nyilvántartási, informatikai rendszerekben tárolt információkat a felügyeleti jelentés esedékessége naptári évének utolsó napjától számított öt évig kell megőrizni.
+
+[^1]: A 2. § (2) bekezdése az 5/2015. (III. 12.) MNB rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (2a) bekezdését az 5/2015. (III. 12.) MNB rendelet 1. §-a iktatta be.
