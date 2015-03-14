@@ -1,0 +1,1 @@
+## „(8) A Hivatal a kiadott érettségi bizonyítványokról, tanúsítványokról, és törzslapkivonatokról évenként és ezen belül vizsgaidőszakonként a köznevelési információs rendszer részeként központi nyilvántartást vezet.”
