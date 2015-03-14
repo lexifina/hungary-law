@@ -1,9 +1,9 @@
-## 54–56. §[^12]
+## 54–56. §[^16]
 
-57. § (1)[^13]
+57. § (1)[^17]
 
-(2)[^14]
+(2)[^18]
 
-[^12]: Az 54–56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: Az 57. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: Az 57. § (2) bekezdése a 45. § (4) bekezdése alapján 2015. március 15-én lép hatályba.
+[^16]: Az 54–56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: Az 57. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 57. § (2) bekezdése a 45. § (4) bekezdése alapján 2015. március 15-én lép hatályba.

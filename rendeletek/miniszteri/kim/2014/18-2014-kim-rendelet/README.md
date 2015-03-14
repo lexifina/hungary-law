@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-18-20-2
 | 2014-12-01 | 2014-18-20-2T.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-12-02 | 2014-18-20-2T.5 | 2010: CXXX. törvény |
 | 2015-01-01 | 2014-18-20-2T.6 | 20/2014. (XII. 23.) IM rendelet |
+| 2015-03-14 | 2014-18-20-2T.7 | 5/2015. (III. 13.) IM rendelet |
