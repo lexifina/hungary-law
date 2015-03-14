@@ -1,5 +1,3 @@
-## 3. § A területi védőnői ellátásról szóló 49/2004. (V. 21.) ESZCSM rendelet (a továbbiakban: ESZCSM rendelet) 3/A. § f) pontja helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## (Fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatónál dolgozó védőnő feladata:)
-
-## „f) az anya, illetve az újszülött érkezési helye szerinti területileg illetékes védőnő, valamint – az anya nyilatkozata alapján – a választott házi gyermekorvos vagy háziorvos értesítése a születésekről, illetve a gyógyintézetből való távozásokról.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
