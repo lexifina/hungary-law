@@ -1,6 +1,6 @@
 ## A korlátozás alá eső területre kiadható üzemeltetési engedély
 
-## 5. §[^6] A vitorlás kishajó belső égésű segédmotorját – üzemeltetési engedély hiányában – kizárólag a következő esetekben használhatja:
+## 5. §[^7] A vitorlás kishajó belső égésű segédmotorját – üzemeltetési engedély hiányában – kizárólag a következő esetekben használhatja:
 
 a) kikötőben és annak 300 m-es körzetében,
 
@@ -12,4 +12,4 @@ d) viharjelzés esetén kizárólag a legközelebbi kikötőbe történő behaj�
 
 e) ha a szél ereje nem éri el a Beaufort-skála szerinti 1. szélerősséget, kizárólag a legközelebbi kikötőbe történő behajózásig.
 
-[^6]: Az 5. § a 76/2003. (V. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: Az 5. § a 76/2003. (V. 28.) Korm. rendelet 2. §-ával megállapított szöveg.

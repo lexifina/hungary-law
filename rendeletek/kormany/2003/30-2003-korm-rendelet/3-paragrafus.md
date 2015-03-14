@@ -1,6 +1,6 @@
 ## Közlekedési korlátozások a Tisza-tavon
 
-3. §[^4] (1) A Hortobágyi Nemzeti Parknak a Tisza-tóra eső területrészein a vízi közlekedés 4 kW-nál nagyobb teljesítményű belső égésű motorral hajtott kishajóval és csónakkal – a (3) és (4) bekezdésben foglalt kivételekkel – tilos.
+3. §[^5] (1) A Hortobágyi Nemzeti Parknak a Tisza-tóra eső területrészein a vízi közlekedés 4 kW-nál nagyobb teljesítményű belső égésű motorral hajtott kishajóval és csónakkal – a (3) és (4) bekezdésben foglalt kivételekkel – tilos.
 
 (2) Tilos belső égésű motor használata az Óhalászi-holtág, a Porong tava, az Ispán tava, a Hód, a Gaznyilas és a Partos fenék elnevezésű területeken.
 
@@ -16,4 +16,4 @@ d) a Hortobágyi Nemzeti Park Igazgatóság által kijelölt túraútvonalakra.
 
 (4) A (3) bekezdés d) pontjában megjelölt túraútvonalakon belső égésű motorral hajtott kishajó és csónak csak a Hortobágyi Nemzeti Park Igazgatóság által kiadott ökotúra-vezetői jogosítvány birtokában kaphat – legfeljebb 15 kW teljesítményig – üzemeltetési engedélyt. Az ökotúra-vezetői jogosítvány a hajózási hatóság által kiadott üzemeltetési engedéllyel együtt jogosít a (3) bekezdés d) pontjában megjelölt túraútvonalakon való közlekedésre.
 
-[^4]: A 3. § a 110/2010. (IV. 9.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^5]: A 3. § a 110/2010. (IV. 9.) Korm. rendelet 8. §-ával megállapított szöveg.
