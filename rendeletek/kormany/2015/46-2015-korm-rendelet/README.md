@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-46-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-03-13 | 2015-46-20-22.1 | 46/2015. (III. 12.) Korm. rendelet |
+| 2015-03-14 | 2015-46-20-22.2 | 2010: CXXX. törvény |
