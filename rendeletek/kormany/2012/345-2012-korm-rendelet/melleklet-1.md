@@ -502,6 +502,10 @@
 
 4.3.[^31] Baja Országos Közforgalmú Kikötő fejlesztése.
 
+4.4.[^32] Budapesti Szabadkikötő mobil árvízvédelmi rendszerének kiépítése.
+
+4.5.[^33] A magyarországi TEN-T belvízi út fejlesztésének előkészítése.
+
 [^20]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^21]: Az 1. melléklet a 376/2013. (X. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^22]: Az 1. melléklet 1.164. pontját a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
@@ -514,3 +518,5 @@
 [^29]: Az 1. melléklet 3. cím 3.23. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
 [^30]: Az 1. melléklet 4. címét (4.1–4.2. pont) a 486/2013. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
 [^31]: Az 1. melléklet 4. cím 4.3. pontját a 211/2014. (VIII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^32]: Az 1. melléklet 4. pont 4.4. alpontját a 37/2015. (III. 6.) Korm. rendelet 6. §-a iktatta be.
+[^33]: Az 1. melléklet 4. pont 4.5. alpontját az 51/2015. (III. 13.) Korm. rendelet 1. §-a iktatta be.
