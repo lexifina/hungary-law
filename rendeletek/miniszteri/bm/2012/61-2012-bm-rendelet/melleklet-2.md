@@ -1206,181 +1206,177 @@
 
 | 49. | Gibárt | II. |
 
-| 50. | Golop | III. |
+| 50. | Gönc | II. |
 
-| 51. | Gönc | II. |
+| 51. | Göncruszka | II. |
 
-| 52. | Göncruszka | II. |
+| 52. | Györgytarló | II. |
 
-| 53. | Györgytarló | II. |
+| 53. | Halmaj | II. |
 
-| 54. | Halmaj | II. |
+| 54. | Háromhuta | II. |
 
-| 55. | Háromhuta | II. |
+| 55. | Hejce | II. |
 
-| 56. | Hejce | II. |
+| 56. | Hercegkút | II. |
 
-| 57. | Hercegkút | II. |
+| 57. | Hernádbűd | III. |
 
-| 58. | Hernádbűd | III. |
+| 58. | Hernádcéce | II. |
 
-| 59. | Hernádcéce | II. |
+| 59. | Hernádkércs | II. |
 
-| 60. | Hernádkércs | II. |
+| 60. | Hernádpetri | II. |
 
-| 61. | Hernádpetri | II. |
+| 61. | Hernádszentandrás | II. |
 
-| 62. | Hernádszentandrás | II. |
+| 62. | Hernádszurdok | II. |
 
-| 63. | Hernádszurdok | II. |
+| 63. | Hernádvécse | II. |
 
-| 64. | Hernádvécse | II. |
+| 64. | Hidasnémeti | II. |
 
-| 65. | Hidasnémeti | II. |
+| 65. | Hollóháza | II. |
 
-| 66. | Hollóháza | II. |
+| 66. | Homrogd | II. |
 
-| 67. | Homrogd | II. |
+| 67. | Ináncs | II. |
 
-| 68. | Ináncs | II. |
+| 68. | Kány | III. |
 
-| 69. | Kány | III. |
+| 69. | Karcsa | III. |
 
-| 70. | Karcsa | III. |
+| 70. | Karos | II. |
 
-| 71. | Karos | II. |
+| 71. | Kázsmárk | II. |
 
-| 72. | Kázsmárk | II. |
+| 72. | Kéked | III. |
 
-| 73. | Kéked | III. |
+| 73. | Kenézlő | II. |
 
-| 74. | Kenézlő | II. |
+| 74. | Keresztéte | III. |
 
-| 75. | Keresztéte | III. |
+| 75. | Kishuta | III. |
 
-| 76. | Kishuta | III. |
+| 76. | Kiskinizs | II. |
 
-| 77. | Kiskinizs | II. |
+| 77. | Kisrozvágy | III. |
 
-| 78. | Kisrozvágy | III. |
+| 78. | Komlóska | II. |
 
-| 79. | Komlóska | II. |
+| 79. | Korlát | II. |
 
-| 80. | Korlát | II. |
+| 80. | Kovácsvágás | III. |
 
-| 81. | Kovácsvágás | III. |
+| 81. | Krasznokvajda | III. |
 
-| 82. | Krasznokvajda | III. |
+| 82. | Kupa | III. |
 
-| 83. | Kupa | III. |
+| 83. | Lácacséke | II. |
 
-| 84. | Lácacséke | II. |
+| 84. | Léh | II. |
 
-| 85. | Léh | II. |
+| 85. | Litka | III. |
 
-| 86. | Litka | III. |
+| 86. | Makkoshotyka | III. |
 
-| 87. | Makkoshotyka | III. |
+| 87. | Méra | II. |
 
-| 88. | Méra | II. |
+| 88. | Mikóháza | III. |
 
-| 89. | Mikóháza | III. |
+| 89. | Mogyoróska | III. |
 
-| 90. | Mogyoróska | III. |
+| 90. | Monaj | III. |
 
-| 91. | Monaj | III. |
+| 91. | Nagyhuta | III. |
 
-| 92. | Nagyhuta | III. |
+| 92. | Nagykinizs | II. |
 
-| 93. | Nagykinizs | II. |
+| 93. | Nagyrozvágy | II. |
 
-| 94. | Nagyrozvágy | II. |
+| 94. | Novajidrány | II. |
 
-| 95. | Novajidrány | II. |
+| 95. | Nyésta | III. |
 
-| 96. | Nyésta | III. |
+| 96. | Nyíri | III. |
 
-| 97. | Nyíri | III. |
+| 97. | Olaszliszka | II. |
 
-| 98. | Olaszliszka | II. |
+| 98. | Pácin | II. |
 
-| 99. | Pácin | II. |
+| 99. | Pálháza | II. |
 
-| 100. | Pálháza | II. |
+| 100. | Pamlény | III. |
 
-| 101. | Pamlény | III. |
+| 101. | Pányok | II. |
 
-| 102. | Pányok | II. |
+| 102. | Pere | II. |
 
-| 103. | Pere | II. |
+| 103. | Perecse | III. |
 
-| 104. | Perecse | III. |
+| 104. | Pusztafalu | III. |
 
-| 105. | Pusztafalu | III. |
+| 105. | Pusztaradvány | II. |
 
-| 106. | Pusztaradvány | II. |
+| 106. | Rásonysápberencs | II. |
 
-| 107. | Rásonysápberencs | II. |
+| 107. | Regéc | II. |
 
-| 108. | Regéc | II. |
+| 108. | Révleányvár | II. |
 
-| 109. | Révleányvár | II. |
+| 109. | Ricse | II. |
 
-| 110. | Ricse | II. |
+| 110. | Sárazsadány | II. |
 
-| 111. | Sárazsadány | II. |
+| 111. | Sárospatak | II. |
 
-| 112. | Sárospatak | II. |
+| 112. | Sátoraljaújhely | II. |
 
-| 113. | Sátoraljaújhely | II. |
+| 113. | Selyeb | II. |
 
-| 114. | Selyeb | II. |
+| 114. | Semjén | II. |
 
-| 115. | Semjén | II. |
+| 115. | Sima | III. |
 
-| 116. | Sima | III. |
+| 116. | Szalaszend | II. |
 
-| 117. | Szalaszend | II. |
+| 117. | Szászfa | III. |
 
-| 118. | Szászfa | III. |
+| 118. | Szemere | II. |
 
-| 119. | Szemere | II. |
+| 119. | Szentistvánbaksa | II. |
 
-| 120. | Szentistvánbaksa | II. |
+| 120. | Szikszó | II. |
 
-| 121. | Szikszó | II. |
+| 121. | Telkibánya | II. |
 
-| 122. | Tállya | III. |
+| 122. | Tiszacsermely | II. |
 
-| 123. | Telkibánya | II. |
+| 123. | Tiszakarád | II. |
 
-| 124. | Tiszacsermely | II. |
+| 124. | Tolcsva | II. |
 
-| 125. | Tiszakarád | II. |
+| 125. | Tornyosnémeti | II. |
 
-| 126. | Tolcsva | II. |
+| 126. | Vágáshuta | III. |
 
-| 127. | Tornyosnémeti | II. |
+| 127. | Vajdácska | II. |
 
-| 128. | Vágáshuta | III. |
+| 128. | Vámosújfalu | II. |
 
-| 129. | Vajdácska | II. |
+| 129. | Vilmány | II. |
 
-| 130. | Vámosújfalu | II. |
+| 130. | Vilyvitány | III. |
 
-| 131. | Vilmány | II. |
+| 131. | Viss | II. |
 
-| 132. | Vilyvitány | III. |
+| 132. | Vizsoly | II. |
 
-| 133. | Viss | II. |
+| 133. | Zalkod | II. |
 
-| 134. | Vizsoly | II. |
+| 134. | Zemplénagárd | II. |
 
-| 135. | Zalkod | II. |
-
-| 136. | Zemplénagárd | II. |
-
-| 137. | Zsujta | II. |
+| 135. | Zsujta | II. |
 
 ## Kazincbarcika székhelyű katasztrófavédelmi kirendeltség
 
@@ -1640,103 +1636,107 @@
 
 | 15. | Gesztely | II. |
 
-| 16. | Harsány | III. |
+| 16. | Golop | III. |
 
-| 17. | Hernádkak | II. |
+| 17. | Harsány | III. |
 
-| 18. | Hernádnémeti | II. |
+| 18. | Hernádkak | II. |
 
-| 19. | Kisgyőr | III. |
+| 19. | Hernádnémeti | II. |
 
-| 20. | Kistokaj | II. |
+| 20. | Kisgyőr | III. |
 
-| 21. | Kondó | II. |
+| 21. | Kistokaj | II. |
 
-| 22. | Köröm | III. |
+| 22. | Kondó | II. |
 
-| 23. | Legyesbénye | II. |
+| 23. | Köröm | III. |
 
-| 24. | Mád | II. |
+| 24. | Legyesbénye | II. |
 
-| 25. | Mályi | II. |
+| 25. | Mád | II. |
 
-| 26. | Megyaszó | III. |
+| 26. | Mályi | II. |
 
-| 27. | Mezőzombor | II. |
+| 27. | Megyaszó | III. |
 
-| 28. | Miskolc | I. |
+| 28. | Mezőzombor | II. |
 
-| 29. | Monok | III. |
+| 29. | Miskolc | I. |
 
-| 30. | Nyékládháza | II. |
+| 30. | Monok | III. |
 
-| 31. | Onga | II. |
+| 31. | Nyékládháza | II. |
 
-| 32. | Ónod | III. |
+| 32. | Onga | II. |
 
-| 33. | Parasznya | II. |
+| 33. | Ónod | III. |
 
-| 34. | Prügy | II. |
+| 34. | Parasznya | II. |
 
-| 35. | Radostyán | II. |
+| 35. | Prügy | II. |
 
-| 36. | Rátka | III. |
+| 36. | Radostyán | II. |
 
-| 37. | Répáshuta | III. |
+| 37. | Rátka | III. |
 
-| 38. | Sajóbábony | I. |
+| 38. | Répáshuta | III. |
 
-| 39. | Sajóecseg | II. |
+| 39. | Sajóbábony | I. |
 
-| 40. | Sajóhídvég | II. |
+| 40. | Sajóecseg | II. |
 
-| 41. | Sajókápolna | II. |
+| 41. | Sajóhídvég | II. |
 
-| 42. | Sajókeresztúr | II. |
+| 42. | Sajókápolna | II. |
 
-| 43. | Sajólád | II. |
+| 43. | Sajókeresztúr | II. |
 
-| 44. | Sajólászlófalva | II. |
+| 44. | Sajólád | II. |
 
-| 45. | Sajópálfala | II. |
+| 45. | Sajólászlófalva | II. |
 
-| 46. | Sajópetri | II. |
+| 46. | Sajópálfala | II. |
 
-| 47. | Sajósenye | II. |
+| 47. | Sajópetri | II. |
 
-| 48. | Sajóvámos | II. |
+| 48. | Sajósenye | II. |
 
-| 49. | Sóstófalva | III. |
+| 49. | Sajóvámos | II. |
 
-| 50. | Szegi | III. |
+| 50. | Sóstófalva | III. |
 
-| 51. | Szegilong | III. |
+| 51. | Szegi | III. |
 
-| 52. | Szerencs | II. |
+| 52. | Szegilong | III. |
 
-| 53. | Szirmabesenyő | II. |
+| 53. | Szerencs | II. |
 
-| 54. | Taktabáj | II. |
+| 54. | Szirmabesenyő | II. |
 
-| 55. | Taktaharkány | II. |
+| 55. | Taktabáj | II. |
 
-| 56. | Taktakenéz | II. |
+| 56. | Taktaharkány | II. |
 
-| 57. | Taktaszada | II. |
+| 57. | Taktakenéz | II. |
 
-| 58. | Tarcal | II. |
+| 58. | Taktaszada | II. |
 
-| 59. | Tiszaladány | II. |
+| 59. | Tállya | III. |
 
-| 60. | Tiszalúc | II. |
+| 60. | Tarcal | II. |
 
-| 61. | Tiszatardos | II. |
+| 61. | Tiszaladány | II. |
 
-| 62. | Tokaj | II. |
+| 62. | Tiszalúc | II. |
 
-| 63. | Újcsanálos | III. |
+| 63. | Tiszatardos | II. |
 
-| 64. | Varbó | II. |
+| 64. | Tokaj | II. |
+
+| 65. | Újcsanálos | III. |
+
+| 66. | Varbó | II. |
 
 ## Tiszaújváros székhelyű katasztrófavédelmi kirendeltség
 
@@ -1980,63 +1980,87 @@
 
 | 4. | Baracs | II. |
 
-| 5. | Beloiannisz | II. |
+| 5. | Baracska | II. |
 
-| 6. | Besnyő | II. |
+| 6. | Beloiannisz | II. |
 
-| 7. | Cece | II. |
+| 7. | Besnyő | II. |
 
-| 8. | Daruszentmiklós | II. |
+| 8. | Cece | II. |
 
-| 9. | Dég | III. |
+| 9. | Daruszentmiklós | II. |
 
-| 10. | Dunaújváros | I. |
+| 10. | Dég | III. |
 
-| 11. | Előszállás | II. |
+| 11. | Dunaújváros | I. |
 
-| 12. | Enying | II. |
+| 12. | Előszállás | II. |
 
-| 13. | Hantos | III. |
+| 13. | Enying | II. |
 
-| 14. | Igar | II. |
+| 14. | Ercsi | I. |
 
-| 15. | Iváncsa | II. |
+| 15. | Gyúró | II. |
 
-| 16. | Kisapostag | II. |
+| 16. | Hantos | III. |
 
-| 17. | Kulcs | I. |
+| 17. | Igar | II. |
 
-| 18. | Lajoskomárom | III. |
+| 18. | Iváncsa | II. |
 
-| 19. | Mezőfalva | III. |
+| 19. | Kajászó | II. |
 
-| 20. | Mezőkomárom | III. |
+| 20. | Kisapostag | II. |
 
-| 21. | Mezőszilas | III. |
+| 21. | Kisláng | III. |
 
-| 22. | Nagykarácsony | II. |
+| 22. | Kulcs | I. |
 
-| 23. | Nagylók | III. |
+| 23. | Lajoskomárom | III. |
 
-| 24. | Nagyvenyim | III. |
+| 24. | Lepsény | III. |
 
-| 25. | Perkáta | III. |
+| 25. | Martonvásár | II. |
 
-| 26. | Pusztaszabolcs | II. |
+| 26. | Mátyásdomb | II. |
 
-| 27. | Rácalmás | I. |
+| 27. | Mezőfalva | III. |
 
-| 28. | Sárbogárd | II. |
+| 28. | Mezőkomárom | III. |
 
-| 29. | Sáregres | II. |
+| 29. | Mezőszentgyörgy | II. |
 
-| 30. | Sárkeresztúr | II. |
+| 30. | Mezőszilas | III. |
 
-| 31. | Sárszentágota | II. |
+| 31. | Nagykarácsony | II. |
 
-| 32. | Szabadhídvég | III. |
+| 32. | Nagylók | III. |
 
-| 33. | Vajta | II. |
+| 33. | Nagyvenyim | III. |
+
+| 34. | Perkáta | III. |
+
+| 35. | Pusztaszabolcs | II. |
+
+| 36. | Rácalmás | I. |
+
+| 37. | Ráckeresztúr | I. |
+
+| 38. | Sárbogárd | II. |
+
+| 39. | Sáregres | II. |
+
+| 40. | Sárkeresztúr | II. |
+
+| 41. | Sárszentágota | II. |
+
+| 42. | Szabadhídvég | III. |
+
+| 43. | Tordas | III. |
+
+| 44. | Vajta | II. |
+
+| 45. | Vál | II. |
 
 ## Székesfehérvár székhelyű katasztrófavédelmi kirendeltség
 
@@ -2052,145 +2076,121 @@
 
 | 5. | Balinka | III. |
 
-| 6. | Baracska | II. |
+| 6. | Bicske | II. |
 
-| 7. | Bicske | II. |
+| 7. | Bodajk | II. |
 
-| 8. | Bodajk | II. |
+| 8. | Bodmér | III. |
 
-| 9. | Bodmér | III. |
+| 9. | Csabdi | III. |
 
-| 10. | Csabdi | III. |
+| 10. | Csákberény | III. |
 
-| 11. | Csákberény | III. |
+| 11. | Csákvár | III. |
 
-| 12. | Csákvár | III. |
+| 12. | Csókakő | II. |
 
-| 13. | Csókakő | II. |
+| 13. | Csór | II. |
 
-| 14. | Csór | II. |
+| 14. | Csősz | II. |
 
-| 15. | Csősz | II. |
+| 15. | Etyek | III. |
 
-| 16. | Ercsi | I. |
+| 16. | Fehérvárcsurgó | II. |
 
-| 17. | Etyek | III. |
+| 17. | Felcsút | III. |
 
-| 18. | Fehérvárcsurgó | II. |
+| 18. | Füle | III. |
 
-| 19. | Felcsút | III. |
+| 19. | Gánt | II. |
 
-| 20. | Füle | III. |
+| 20. | Gárdony | II. |
 
-| 21. | Gánt | II. |
+| 21. | Iszkaszentgyörgy | III. |
 
-| 22. | Gárdony | II. |
+| 22. | Isztimér | II. |
 
-| 23. | Gyúró | II. |
+| 23. | Jenő | III. |
 
-| 24. | Iszkaszentgyörgy | III. |
+| 24. | Káloz | II. |
 
-| 25. | Isztimér | II. |
+| 25. | Kápolnásnyék | II. |
 
-| 26. | Jenő | III. |
+| 26. | Kincsesbánya | III. |
 
-| 27. | Kajászó | II. |
+| 27. | Kőszárhegy | III. |
 
-| 28. | Káloz | II. |
+| 28. | Lovasberény | III. |
 
-| 29. | Kápolnásnyék | II. |
+| 29. | Magyaralmás | III. |
 
-| 30. | Kincsesbánya | III. |
+| 30. | Mány | III. |
 
-| 31. | Kisláng | III. |
+| 31. | Moha | III. |
 
-| 32. | Kőszárhegy | III. |
+| 32. | Mór | II. |
 
-| 33. | Lepsény | III. |
+| 33. | Nadap | III. |
 
-| 34. | Lovasberény | III. |
+| 34. | Nádasdladány | II. |
 
-| 35. | Magyaralmás | III. |
+| 35. | Nagyveleg | III. |
 
-| 36. | Mány | III. |
+| 36. | Óbarok | II. |
 
-| 37. | Martonvásár | II. |
+| 37. | Pákozd | III. |
 
-| 38. | Mátyásdomb | II. |
+| 38. | Pátka | II. |
 
-| 39. | Mezőszentgyörgy | II. |
+| 39. | Pázmánd | III. |
 
-| 40. | Moha | III. |
+| 40. | Polgárdi | II. |
 
-| 41. | Mór | II. |
+| 41. | Pusztavám | III. |
 
-| 42. | Nadap | III. |
+| 42. | Sárkeresztes | III. |
 
-| 43. | Nádasdladány | II. |
+| 43. | Sárkeszi | II. |
 
-| 44. | Nagyveleg | III. |
+| 44. | Sárosd | III. |
 
-| 45. | Óbarok | II. |
+| 45. | Sárszentmihály | II. |
 
-| 46. | Pákozd | III. |
+| 46. | Seregélyes | II. |
 
-| 47. | Pátka | II. |
+| 47. | Soponya | II. |
 
-| 48. | Pázmánd | III. |
+| 48. | Söréd | III. |
 
-| 49. | Polgárdi | II. |
+| 49. | Sukoró | III. |
 
-| 50. | Pusztavám | III. |
+| 50. | Szabadbattyán | II. |
 
-| 51. | Ráckeresztúr | I. |
+| 51. | Szabadegyháza | II. |
 
-| 52. | Sárkeresztes | III. |
+| 52. | Szár | III. |
 
-| 53. | Sárkeszi | II. |
+| 53. | Székesfehérvár | I. |
 
-| 54. | Sárosd | III. |
+| 54. | Tabajd | II. |
 
-| 55. | Sárszentmihály | II. |
+| 55. | Tác | II. |
 
-| 56. | Seregélyes | II. |
+| 56. | Újbarok | III. |
 
-| 57. | Soponya | II. |
+| 57. | Úrhida | II. |
 
-| 58. | Söréd | III. |
+| 58. | Velence | II. |
 
-| 59. | Sukoró | III. |
+| 59. | Vereb | III. |
 
-| 60. | Szabadbattyán | II. |
+| 60. | Vértesacsa | III. |
 
-| 61. | Szabadegyháza | II. |
+| 61. | Vértesboglár | III. |
 
-| 62. | Szár | III. |
+| 62. | Zámoly | III. |
 
-| 63. | Székesfehérvár | I. |
-
-| 64. | Tabajd | II. |
-
-| 65. | Tác | II. |
-
-| 66. | Tordas | III. |
-
-| 67. | Újbarok | III. |
-
-| 68. | Úrhida | II. |
-
-| 69. | Vál | II. |
-
-| 70. | Velence | II. |
-
-| 71. | Vereb | III. |
-
-| 72. | Vértesacsa | III. |
-
-| 73. | Vértesboglár | III. |
-
-| 74. | Zámoly | III. |
-
-| 75. | Zichyújfalu | III. |
+| 63. | Zichyújfalu | III. |
 
 ## GYŐR-MOSON-SOPRON MEGYE
 
@@ -2336,107 +2336,109 @@
 
 | 1. | Acsalag | III. |
 
-| 2. | Babót | III. |
+| 2. | Agyagosszergény | III. |
 
-| 3. | Bágyogszovát | III. |
+| 3. | Babót | III. |
 
-| 4. | Barbacs | III. |
+| 4. | Bágyogszovát | III. |
 
-| 5. | Beled | II. |
+| 5. | Barbacs | III. |
 
-| 6. | Bodonhely | II. |
+| 6. | Beled | II. |
 
-| 7. | Bogyoszló | III. |
+| 7. | Bodonhely | II. |
 
-| 8. | Bősárkány | II. |
+| 8. | Bogyoszló | III. |
 
-| 9. | Cakóháza | III. |
+| 9. | Bősárkány | II. |
 
-| 10. | Cirák | III. |
+| 10. | Cakóháza | III. |
 
-| 11. | Csorna | II. |
+| 11. | Cirák | III. |
 
-| 12. | Dénesfa | III. |
+| 12. | Csorna | II. |
 
-| 13. | Dör | III. |
+| 13. | Dénesfa | III. |
 
-| 14. | Edve | II. |
+| 14. | Dör | III. |
 
-| 15. | Egyed | III. |
+| 15. | Edve | II. |
 
-| 16. | Farád | III. |
+| 16. | Egyed | III. |
 
-| 17. | Gyóró | III. |
+| 17. | Farád | III. |
 
-| 18. | Himod | III. |
+| 18. | Gyóró | III. |
 
-| 19. | Hövej | II. |
+| 19. | Himod | III. |
 
-| 20. | Jobaháza | III. |
+| 20. | Hövej | II. |
 
-| 21. | Kapuvár | II. |
+| 21. | Jobaháza | III. |
 
-| 22. | Kisfalud | III. |
+| 22. | Kapuvár | II. |
 
-| 23. | Kóny | III. |
+| 23. | Kisfalud | III. |
 
-| 24. | Maglóca | III. |
+| 24. | Kóny | III. |
 
-| 25. | Magyarkeresztúr | III. |
+| 25. | Maglóca | III. |
 
-| 26. | Markotabödöge | III. |
+| 26. | Magyarkeresztúr | III. |
 
-| 27. | Mihályi | III. |
+| 27. | Markotabödöge | III. |
 
-| 28. | Osli | III. |
+| 28. | Mihályi | III. |
 
-| 29. | Páli | III. |
+| 29. | Osli | III. |
 
-| 30. | Pásztori | III. |
+| 30. | Páli | III. |
 
-| 31. | Potyond | III. |
+| 31. | Pásztori | III. |
 
-| 32. | Rábacsanak | III. |
+| 32. | Potyond | III. |
 
-| 33. | Rábakecöl | II. |
+| 33. | Rábacsanak | III. |
 
-| 34. | Rábapordány | III. |
+| 34. | Rábakecöl | II. |
 
-| 35. | Rábasebes | II. |
+| 35. | Rábapordány | III. |
 
-| 36. | Rábaszentandrás | II. |
+| 36. | Rábasebes | II. |
 
-| 37. | Rábatamási | III. |
+| 37. | Rábaszentandrás | II. |
 
-| 38. | Rábcakapi | III. |
+| 38. | Rábatamási | III. |
 
-| 39. | Répceszemere | III. |
+| 39. | Rábcakapi | III. |
 
-| 40. | Sobor | II. |
+| 40. | Répceszemere | III. |
 
-| 41. | Sopronnémeti | III. |
+| 41. | Sobor | II. |
 
-| 42. | Szany | II. |
+| 42. | Sopronnémeti | III. |
 
-| 43. | Szárföld | III. |
+| 43. | Szany | II. |
 
-| 44. | Szil | II. |
+| 44. | Szárföld | III. |
 
-| 45. | Szilsárkány | III. |
+| 45. | Szil | II. |
 
-| 46. | Tárnokréti | III. |
+| 46. | Szilsárkány | III. |
 
-| 47. | Vadosfa | III. |
+| 47. | Tárnokréti | III. |
 
-| 48. | Vág | II. |
+| 48. | Vadosfa | III. |
 
-| 49. | Vásárosfalu | III. |
+| 49. | Vág | II. |
 
-| 50. | Veszkény | III. |
+| 50. | Vásárosfalu | III. |
 
-| 51. | Vitnyéd | II. |
+| 51. | Veszkény | III. |
 
-| 52. | Zsebeháza | III. |
+| 52. | Vitnyéd | II. |
+
+| 53. | Zsebeháza | III. |
 
 ## Mosonmagyaróvár székhelyű katasztrófavédelmi kirendeltség
 
@@ -2500,81 +2502,79 @@
 
 | 1. | Ágfalva | III. |
 
-| 2. | Agyagosszergény | III. |
+| 2. | Csáfordjánosfa | III. |
 
-| 3. | Csáfordjánosfa | III. |
+| 3. | Csapod | III. |
 
-| 4. | Csapod | III. |
+| 4. | Csér | III. |
 
-| 5. | Csér | III. |
+| 5. | Ebergőc | II. |
 
-| 6. | Ebergőc | II. |
+| 6. | Egyházasfalu | III. |
 
-| 7. | Egyházasfalu | III. |
+| 7. | Fertőboz | II. |
 
-| 8. | Fertőboz | II. |
+| 8. | Fertőhomok | III. |
 
-| 9. | Fertőhomok | III. |
+| 9. | Fertőd | III. |
 
-| 10. | Fertőd | III. |
+| 10. | Fertőendréd | III. |
 
-| 11. | Fertőendréd | III. |
+| 11. | Fertőrákos | III. |
 
-| 12. | Fertőrákos | III. |
+| 12. | Fertőszentmiklós | II. |
 
-| 13. | Fertőszentmiklós | II. |
+| 13. | Fertőszéplak | III. |
 
-| 14. | Fertőszéplak | III. |
+| 14. | Gyalóka | III. |
 
-| 15. | Gyalóka | III. |
+| 15. | Harka | III. |
 
-| 16. | Harka | III. |
+| 16. | Hegykő | III. |
 
-| 17. | Hegykő | III. |
+| 17. | Hidegség | II. |
 
-| 18. | Hidegség | II. |
+| 18. | Iván | III. |
 
-| 19. | Iván | III. |
+| 19. | Kópháza | III. |
 
-| 20. | Kópháza | III. |
+| 20. | Lövő | III. |
 
-| 21. | Lövő | III. |
+| 21. | Nagycenk | II. |
 
-| 22. | Nagycenk | II. |
+| 22. | Nagylózs | III. |
 
-| 23. | Nagylózs | III. |
+| 23. | Nemeskér | III. |
 
-| 24. | Nemeskér | III. |
+| 24. | Pereszteg | III. |
 
-| 25. | Pereszteg | III. |
+| 25. | Petőháza | II. |
 
-| 26. | Petőháza | II. |
+| 26. | Pinnye | III. |
 
-| 27. | Pinnye | III. |
+| 27. | Pusztacsalád | III. |
 
-| 28. | Pusztacsalád | III. |
+| 28. | Répcevis | II. |
 
-| 29. | Répcevis | II. |
+| 29. | Röjtökmuzsaj | II. |
 
-| 30. | Röjtökmuzsaj | II. |
+| 30. | Sarród | III. |
 
-| 31. | Sarród | III. |
+| 31. | Sopron | II. |
 
-| 32. | Sopron | II. |
+| 32. | Sopronhorpács | III. |
 
-| 33. | Sopronhorpács | III. |
+| 33. | Sopronkövesd | III. |
 
-| 34. | Sopronkövesd | III. |
+| 34. | Szakony | III. |
 
-| 35. | Szakony | III. |
+| 35. | Újkér | III. |
 
-| 36. | Újkér | III. |
+| 36. | Und | III. |
 
-| 37. | Und | III. |
+| 37. | Völcsej | III. |
 
-| 38. | Völcsej | III. |
-
-| 39. | Zsira | III. |
+| 38. | Zsira | III. |
 
 ## HAJDÚ-BIHAR MEGYE
 
@@ -3652,35 +3652,33 @@
 
 | 16. | Nyársapát | III. |
 
-| 17. | Pánd | III. |
+| 17. | Sülysáp | III. |
 
-| 18. | Sülysáp | III. |
+| 18. | Szentlőrinckáta | II. |
 
-| 19. | Szentlőrinckáta | II. |
+| 19. | Szentmártonkáta | II. |
 
-| 20. | Szentmártonkáta | II. |
+| 20. | Tápióbicske | III. |
 
-| 21. | Tápióbicske | III. |
+| 21. | Tápiógyörgye | II. |
 
-| 22. | Tápiógyörgye | II. |
+| 22. | Tápióság | III. |
 
-| 23. | Tápióság | III. |
+| 23. | Tápiószecső | III. |
 
-| 24. | Tápiószecső | III. |
+| 24. | Tápiószele | III. |
 
-| 25. | Tápiószele | III. |
+| 25. | Tápiószentmárton | III. |
 
-| 26. | Tápiószentmárton | III. |
+| 26. | Tápiószőlős | III. |
 
-| 27. | Tápiószőlős | III. |
+| 27. | Tóalmás | II. |
 
-| 28. | Tóalmás | II. |
+| 28. | Törtel | III. |
 
-| 29. | Törtel | III. |
+| 29. | Újszilvás | II. |
 
-| 30. | Újszilvás | II. |
-
-| 31. | Úri | III. |
+| 30. | Úri | III. |
 
 ## Érd székhelyű katasztrófavédelmi kirendeltség
 
@@ -3882,25 +3880,27 @@
 
 | 20. | Örkény | II. |
 
-| 21. | Péteri | III. |
+| 21. | Pánd | III. |
 
-| 22. | Pilis | III. |
+| 22. | Péteri | III. |
 
-| 23. | Pusztavacs | II. |
+| 23. | Pilis | III. |
 
-| 24. | Táborfalva | II. |
+| 24. | Pusztavacs | II. |
 
-| 25. | Tatárszentgyörgy | II. |
+| 25. | Táborfalva | II. |
 
-| 26. | Újhartyán | II. |
+| 26. | Tatárszentgyörgy | II. |
 
-| 27. | Újlengyel | III. |
+| 27. | Újhartyán | II. |
 
-| 28. | Üllő | I. |
+| 28. | Újlengyel | III. |
 
-| 29. | Vasad | III. |
+| 29. | Üllő | I. |
 
-| 30. | Vecsés | II. |
+| 30. | Vasad | III. |
+
+| 31. | Vecsés | II. |
 
 ## Vác székhelyű katasztrófavédelmi kirendeltség
 
