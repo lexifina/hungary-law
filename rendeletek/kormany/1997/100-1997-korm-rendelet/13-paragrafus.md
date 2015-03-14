@@ -4,7 +4,7 @@
 
 (2)[^73] A vizsgabizottság munkáját az írásbeli vizsgán felügyelő tanár segíti. Nem lehet felügyelő tanár az, aki az adott vizsgatárgy oktatására jogosító végzettséggel, szakképzettséggel rendelkezik.
 
-(3)[^74] Az írásbeli feladatok javítására – vizsgatárgyanként – szaktanárt, a szóbeli vizsgáztatásra – vizsgatárgyanként – kérdező tanárt (a továbbiakban együtt: vizsgáztató tanár) kell kijelölni. Vizsgáztató tanár az lehet, aki az Nkt. 3. mellékletében meghatározottak alapján a vizsgatárgyat a középiskolában taníthatja. A vizsgáztató tanári feladatokat – ha az igazgató eltérően nem rendelkezik – azonos személy látja el. A vizsgabizottság tagjai az elnök és a vizsgáztató tanárok.
+(3)[^74] Az írásbeli feladatok javítására – vizsgatárgyanként – szaktanárt, a szóbeli vizsgáztatásra – vizsgatárgyanként – kérdező tanárt (a továbbiakban együtt: vizsgáztató tanár) kell kijelölni. Vizsgáztató tanár az lehet, aki az Nkt.-ban meghatározottak alapján a vizsgatárgyat a középiskolában taníthatja. A vizsgáztató tanári feladatokat – ha az igazgató eltérően nem rendelkezik – azonos személy látja el. A vizsgabizottság tagjai az elnök és a vizsgáztató tanárok.
 
 (4)[^75]
 
@@ -20,7 +20,7 @@
 
 [^72]: A 13. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 40. § (7) bekezdésével megállapított szöveg.
 [^73]: A 13. § (2) bekezdése a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének f) pontja szerint módosított szöveg.
-[^74]: A 13. § (3) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 9. §-ának (1) bekezdésével megállapított, a 106/2012. (VI. 1.) Korm. rendelet 9. § l) pontja szerint módosított szöveg.
+[^74]: A 13. § (3) bekezdése a 233/2004. (VIII. 6.) Korm. rendelet 9. §-ának (1) bekezdésével megállapított, a 36/2015. (III. 6.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
 [^75]: A 13. § (4) bekezdését a 78/2002. (IV. 13.) Korm. rendelet 41. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^76]: A 13. § (5) bekezdése a 74/2014. (III. 13.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^77]: A 13. § (6) bekezdése a 256/2005. (XII. 7.) Korm. rendelet 5. §-ával megállapított, valamint a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének m) pontja szerint módosított szöveg. A 351/2010. (XII. 30.) Korm. rendelet 41. § h) pontja alapján a 13. § (6) bekezdésében az „A Hivatal a” szövegrész helyébe az „A kormányhivatal által működtetett” szöveg lép, ez azonban nem vezethető át.

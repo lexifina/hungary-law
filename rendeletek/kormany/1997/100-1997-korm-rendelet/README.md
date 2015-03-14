@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2014-09-05 | 1997-100-20-22.38 | 2001: C. törvény |
 | 2014-12-15 | 1997-100-20-22.39 | 318/2014. (XII. 13.) Korm. rendelet |
 | 2015-01-01 | 1997-100-20-22.40 | 106/2012. (VI. 1.) Korm. rendelet |
+| 2015-03-14 | 1997-100-20-22.41 | 233/2004. (VIII. 6.) Korm. rendelet |
