@@ -40,4 +40,6 @@
 
 ## Az NPE6 sor tartalmazza az egyéb mérlegen kívüli kötelezettségvállalásokat.”
 
-6. melléklet az 5/2015. (III. 12.) MNB rendelethez
+6–7. melléklet az 5/2015. (III. 12.) MNB rendelethez[^4]
+
+[^4]: A 6–7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
