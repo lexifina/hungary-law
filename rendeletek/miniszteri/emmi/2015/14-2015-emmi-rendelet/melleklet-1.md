@@ -1,3 +1,5 @@
-## 7. § Hatályát veszti a közoktatási tankönyvek legmagasabb fogyasztói áráról szóló 13/2010. (XI. 25.) NEFMI rendelet.
+## 7. §[^2]
 
 1. melléklet a 14/2015. (III. 13.) EMMI rendelethez
+
+[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
