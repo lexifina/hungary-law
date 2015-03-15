@@ -2,7 +2,7 @@
 
 a) gépjármű esetében az egyes gépjárművek alvázszámának feltüntetésével, vagy
 
-b) az a) ponton kívüli egyéb vagyontárgy esetében a
+b) az a) ponton kívüli egyéb vagyontárgy esetében
 
 ba) gyártási évének,
 
@@ -12,18 +12,18 @@ bc) gyártási számának,
 
 bd) gyártó által adott egyedi azonosítójának,
 
-be) a gyártó által adott elnevezésének
+be) gyártó által adott elnevezésének
 
 ## rögzítésével.
 
-(2) Abban az esetben, ha már nyilvántartásba vett hitelbiztosítéki nyilatkozatban a vagyontárgy, vagy a vagyontárgyak köre körülírással vagy nem az (1) bekezdés szerinti módon, egyedileg került megjelölésre, ugyanezen vagyontárgy vagy vagyontárgyakra vonatkozó további hitelbiztosítéki nyilatkozat e nyilatkozatban a rendszer által létrehozott azonosítóra hivatkozással is megtehető
+(2) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy alkalmas legyen az (1) bekezdés b) pontja szerint egyedileg meghatározott vagyontárgy lekérdezésére is. A hitelbiztosítéki rendszert úgy kell kialakítani, hogy ha a lekérdezés során megadott adatok közül legalább három adat egyezik bármely (1) bekezdés b) pontja szerint egyedileg megjelölt vagyontárgy adataival, a hitelbiztosítéki rendszer a lekérdezés eredményeként azt megjelenítse.
 
-(3)[^2] A hitelbiztosítéki rendszert úgy kell kialakítani, hogy vagyontárgy körülírással vagy nem az (1) bekezdés szerinti módon, egyedileg történő megjelölése esetén a vagyontárgy legalább tízezer karakterben megadható legyen az erre szolgáló mezőben (a továbbiakban: a vagyontárgy megjelölésére szolgáló mező).
+(3) Abban az esetben, ha már nyilvántartásba vett hitelbiztosítéki nyilatkozatban a vagyontárgy, vagy a vagyontárgyak köre körülírással vagy nem az (1) bekezdés szerinti módon, egyedileg került megjelölésre, ugyanezen vagyontárgy vagy vagyontárgyakra vonatkozó további hitelbiztosítéki nyilatkozat e nyilatkozatban a rendszer által létrehozott azonosítóra hivatkozással is megtehető.
 
-(3a)[^3] Egy vagy több vagyontárgy a (3) bekezdés szerinti módon egy vagy több, a vagyontárgy megjelölésére szolgáló mezőben is megjelölhető.
+(4) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy vagyontárgy körülírással vagy nem az (1) bekezdés szerinti módon, egyedileg történő megjelölése esetén a vagyontárgy legalább tízezer karakterben megadható legyen az erre szolgáló mezőben (a továbbiakban: a vagyontárgy megjelölésére szolgáló mező).
 
-(4) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy több jogosult vagy kötelezett közös nyilatkozatát vagy több jogosulttal vagy kötelezettel szembeni nyilatkozatot egy bejegyzésben rögzítse, ha a jogosultak vagy a kötelezettek annak a jogviszonynak az egyetemleges jogosultjai vagy egyetemleges kötelezettjei, amelyre tekintettel a hitelbiztosítéki nyilatkozatot tették.
+(5) Egy vagy több vagyontárgy a (4) bekezdés szerinti módon egy vagy több, a vagyontárgy megjelölésére szolgáló mezőben is megjelölhető.
 
-[^1]: A 25. § az 57. § (1) bekezdésével megállapított szöveg.
-[^2]: A 25. § (3) bekezdése a 20/2014. (XII. 23.) IM rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^3]: A 25. § (3a) bekezdését a 20/2014. (XII. 23.) IM rendelet 19. § (2) bekezdése iktatta be.
+(6) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy több jogosult vagy kötelezett közös nyilatkozatát vagy több jogosulttal vagy kötelezettel szembeni nyilatkozatot egy bejegyzésben rögzítse, ha a jogosultak vagy a kötelezettek annak a jogviszonynak az egyetemleges jogosultjai vagy egyetemleges kötelezettjei, amelyre tekintettel a hitelbiztosítéki nyilatkozatot tették.
+
+[^1]: A 25. § az 57. § (2) bekezdésével megállapított szöveg.
