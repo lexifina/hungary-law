@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2014-01-01 | 2013. évi CC. törvény | 2005-164-00-00.20 |
 | 2014-01-13 | 2013. évi CLXXXIII. törvény | 2005-164-00-00.21 |
 | 2015-01-01 | 2014. évi CXII. törvény | 2005-164-00-00.22 |
+| 2015-03-15 | 2014. évi CII. törvény | 2005-164-00-00.23 |

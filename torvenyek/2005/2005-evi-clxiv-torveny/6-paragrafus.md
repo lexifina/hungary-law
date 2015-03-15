@@ -1,6 +1,6 @@
 ## Az üzletek üzemeltetésének és nyitva tartásának rendje
 
-6. § (1) Az üzlet nyitvatartási idejét a vásárlási szokások, a foglalkoztatottak és a lakókörnyezet érdekeinek figyelembevételével a kereskedő állapítja meg.
+6. § (1) Az üzlet nyitvatartási idejét a vásárlási szokások, a foglalkoztatottak és a lakókörnyezet érdekeinek figyelembevételével – a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény és a felhatalmazása alapján kiadott jogszabályok, valamint e törvény keretei között – a kereskedő állapítja meg.
 
 (2) A kereskedő köteles
 
@@ -8,11 +8,11 @@ a) az üzlet nyitvatartási idejét az üzlet létesítésére vonatkozó bejele
 
 b) az üzlet nyitvatartási idejéről és az abban bekövetkező változásokról a vásárlókat tájékoztatni.
 
-(3) December 24-én – a vendéglátó üzletek, szálláshelyek, a virág-, az édességüzletek és az üzemanyagtöltő állomások, továbbá a közforgalmú vasúti és buszpályaudvaron, repülőtéren, illetve az üzemanyagtöltő állomáson belül működő üzletek kivételével – az üzletek 14 óráig tarthatnak nyitva.
+(3)
 
-(4) A települési (Budapesten a kerületi) önkormányzat képviselő-testülete – a helyi sajátosságok figyelembevételével – rendeletben szabályozhatja
+(4) A települési önkormányzat képviselő-testülete (Budapesten a kerületi önkormányzat képviselő-testülete, a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése) – a helyi sajátosságok figyelembevételével – rendeletben szabályozhatja
 
-a) az üzletek éjszakai (22 és 6 óra közötti) nyitvatartási rendjét, valamint
+a) az üzletek éjszakai (22 és 6 óra közötti) nyitva tartásának a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvényben és a felhatalmazása alapján kiadott kormányrendeletben foglalt feltételei további korlátozását, valamint
 
 b) a világörökségi területen működő, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzletek 24 és 6 óra közötti nyitva tartásával összefüggő – a közbiztonság, illetve a köztisztaság fenntartásához kapcsolódó – többletfeladatokhoz igazodó összegű felügyeleti díjat.
 
@@ -20,7 +20,7 @@ b) a világörökségi területen működő, szeszes italt kimérő, árusító 
 
 (4b) A felügyeleti díjat az önkormányzat kizárólag a felügyeleti díj fizetésére kötelezett üzletek által közvetlenül vagy közvetve okozott, a települési önkormányzatot egyébként terhelő közbiztonsági, illetve köztisztasági feladatokat meghaladóan az éjszakai nyitva tartással összefüggésben keletkező – az önkormányzat által elkülönítetten kimutatott – közbiztonsági, illetve köztisztasági többletfeladatok ellátására fordíthatja.
 
-(5) A kereskedelmi hatóság bejelentés alapján vagy hivatalból – a lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében – a külön jogszabályban meghatározott veszélyes mértékű zaj esetén az üzlet éjszakai (22 óra és 6 óra közötti) nyitva tartását korlátozhatja. A korlátozás keretében a kereskedelmi hatóság a jogsértő állapot megszüntetéséig kötelező éjszakai zárva tartási időszakot rendelhet el.
+(5) A kereskedelmi hatóság bejelentés alapján vagy hivatalból – a lakók egészséges életkörülményeinek és pihenéshez való jogának biztosítása érdekében – a külön jogszabályban meghatározott veszélyes mértékű zaj esetén az üzlet éjszakai (22 óra és 6 óra közötti) nyitva tartását – korlátozhatja akkor is, ha az üzlet a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény vagy a felhatalmazása alapján kiadott kormányrendelet rendelkezései alapján nyitva tarthat. A korlátozás keretében a kereskedelmi hatóság a jogsértő állapot megszüntetéséig kötelező éjszakai zárvatartási időszakot rendelhet el.
 
 (6) A kereskedelmi tevékenységhez kapcsolódóan nem használható hirdetés vagy figyelemfelhívás céljára olyan hanghatást okozó eszköz, amely a külön jogszabályban meghatározott veszélyes mértékű környezeti zajjal jár.
 
