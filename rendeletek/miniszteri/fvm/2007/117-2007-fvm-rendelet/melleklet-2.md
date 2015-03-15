@@ -1,33 +1,31 @@
-2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^31]
+2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^35]
 
 Kifizetési kérelem adattartalma
 
-– Benyújtó adatai
+1. Benyújtó adatai
 
-– Ügyfél-azonosítója;
+2. Ügyfél-azonosítója;
 
-– A NÉBIH elnökének igazolása, hogy a 117/2007. (X. 10.) FVM rendelet alapján tárgyhónapban a növény- és talajvédelmi igazgatóságok területi szervei által elvégzett szántóföldi, kertészeti, engedélyes faiskolai és erdészeti vetőmagtermesztésre és szaporítóanyag-előállításra használt területek növényegészségügyi vizsgálatok alapján mely költségek merültek fel;
+3. Tárgyhónap megjelölése;
 
-– Tárgyhónap megjelölése;
+4. A támogatott növényegészségügyi szolgáltatást igénybe vevő:
 
-– A támogatott növényegészségügyi szolgáltatást igénybe vevő:
+4.1. nevének,
 
-– nevének,
+4.2. ügyfél-azonosítójának,
 
-– ügyfél-azonosítójának,
+4.3. mikro-, kis- vagy középvállalkozás minősítés feltüntetése;
 
-– mikro-, kis- vagy középvállalkozás minősítés feltüntetése;
+5. A növény- és talajvédelmi igazgatóság, valamint a NÉBIH által kiállított számla számának megjelölése;
 
-– A NÉBIH által kiállított számla számának megjelölése;
+6. A számlán szereplő támogatható nettó érték forintban;
 
-– A számlán szereplő támogatható nettó érték forintban;
+7. A számla kiállítási dátuma;
 
-– A számla kiállítási dátuma;
+8. Az igényelt összeg (a támogatás összege forintban);
 
-– Az igényelt összeg (a támogatás összege forintban);
+9. Keltezés, aláírás;
 
-– Keltezés, aláírás;
+10. Melléklet: az elvégzett szolgáltatásokról kiállított számlák másolatai.
 
-– Melléklet: az elvégzett szolgáltatásokról kiállított számlák másolatai.
-
-[^31]: A 2. számú melléklet a 8/2010. (II. 4.) FVM rendelet 3. § (6) bekezdésével megállapított, a 46/2013. (VI. 3.) VM redelet 5. § 14–20. pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 78. § i) pontjával elrendelt módosítás, amely szerint „Az MgSzH elnökének igazolása, hogy a 117/2007. (X. 10.) FVM rendelet alapján tárgyhónapban az MgSzH területi szervei által elvégzett szántóföldi, kertészeti, engedélyes faiskolai és erdészeti vetőmagtermesztésre és szaporítóanyag-előállításra használt területek növényegészségügyi vizsgálatok alapján mely költségek merültek fel;”szövegrész helyébe a „A NÉBIH elnökének igazolása, hogy a 117/2007. (X. 10.) FVM rendelet alapján tárgyhónapban a növény- és talajvédelmi igazgatóság által elvégzett szántóföldi, kertészeti, engedélyes faiskolai és erdészeti vetőmagtermesztésre és szaporítóanyag-előállításra használt területek növényegészségügyi vizsgálatok alapján mely költségek merültek fel;”, „Az MgSzH által kiállított számla számának megjelölése;” szövegrész helyébe „A növény- és talajvédelmi igazgatóság által kiállított számla számának megjelölése;” szöveg lép, nem vezethető át.]
+[^35]: A 2. számú melléklet a 6/2015. (III. 10.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.

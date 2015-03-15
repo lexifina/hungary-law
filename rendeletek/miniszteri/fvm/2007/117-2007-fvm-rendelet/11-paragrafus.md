@@ -1,1 +1,3 @@
-## 10. § E rendelet a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról szóló 2006. december 15-i 1857/2006/EK bizottsági rendelet hatálya alá tartozó támogatási programot tartalmaz.
+## 10. §[^27] E rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet hatálya alá tartozó támogatási programot tartalmaz.
+
+[^27]: A 10. § a 6/2015. (III. 10.) FM rendelet 7. §-ával megállapított szöveg.

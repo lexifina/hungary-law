@@ -1,8 +1,8 @@
 ## Tájékoztatás
 
-7. § (1)[^22] Az adott támogatási célra kifizetett összegről az MVH havonta tájékoztatást küld a vidékfejlesztési miniszternek.
+7. § (1)[^23] Az adott támogatási célra kifizetett összegről az MVH havonta tájékoztatást küld a földművelésügyi miniszternek.
 
-(2)[^23] E rendelet alapján nyújtott támogatásokra vonatkozóan az 1857/2006/EK rendelet 20. cikk (2) bekezdése szerinti nyilvántartást az MVH vezeti, és a nyilvántartás alapján – kérelemre – a Bizottság részére megadja a kért információkat.
+(2)[^24] E rendelet alapján nyújtott támogatásokra vonatkozóan a 702/2014/EU bizottsági rendelet 13. cikke szerinti nyilvántartást az MVH vezeti.
 
-[^22]: A 7. § (1) bekezdése a 8/2010. (II. 4.) FVM rendelet 3. § (5) bekezdésével megállapított, a 46/2013. (VI. 3.) VM rendelet 5. § 11. és 12. pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 78. § h) pontjával elrendelt módosítás, amely szerint „a földművelésügyi és vidékfejlesztési miniszternek” szövegrész helyébe „a vidékfejlesztési miniszternek” szöveg lép, nem vezethető át.]
-[^23]: A 7. § (2) bekezdése a 46/2013. (VI. 3.) VM rendelet 5. § 11. pontja szerint módosított szöveg.
+[^23]: A 7. § (1) bekezdése a 8/2010. (II. 4.) FVM rendelet 3. § (5) bekezdésével megállapított, a 46/2013. (VI. 3.) VM rendelet 5. § 11. és 12. pontja, a 6/2015. (III. 10.) FM rendelet 9. § b) pontja szerint módosított szöveg.
+[^24]: A 7. § (2) bekezdése a 6/2015. (III. 10.) FM rendelet 6. §-ával megállapított szöveg.

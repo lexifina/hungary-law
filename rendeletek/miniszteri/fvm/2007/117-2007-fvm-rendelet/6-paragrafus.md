@@ -10,7 +10,10 @@
 
 (5) A minisztérium fejezeti kezelésű előirányzat-felhasználási keretszámláról az MVH rendelkezésére bocsátott források felhasználásról, a költségvetési szervekre vonatkozó jogszabályokban előírt módon, az MVH a tárgyhónapot követő hónap 8-áig, analitikus nyilvántartása alapján, főkönyvi könyvelési feladást készít a minisztérium költségvetési elszámolásokért felelős szervezeti egysége számára.
 
+(6)[^22] A támogatást a költségek vagy veszteségek keletkezésének időpontjától számított négy éven belül kell kifizetni.
+
 [^18]: A 6. § (1) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított szöveg.
 [^19]: A 6. § (2) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított szöveg.
 [^20]: A 6. § (3) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított szöveg.
 [^21]: A 6. § (4) bekezdése a 12/2014. (IX. 24.) FM rendelet 3. §-ával megállapított szöveg.
+[^22]: A 6. § (6) bekezdését a 6/2015. (III. 10.) FM rendelet 5. §-a iktatta be.
