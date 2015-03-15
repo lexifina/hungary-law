@@ -1,3 +1,3 @@
-## 7. § Az R. 52. § (8) bekezdése helyébe a következő rendelkezés lép:
+## 6–7. §[^5]
 
-## „(8) A tantárgyi bizottság üléseiről készített jegyzőkönyveket a kormányhivatalnál kell megőrizni, a többi irattól elkülönítve. Az őrzési idő tíz év.”
+[^5]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
