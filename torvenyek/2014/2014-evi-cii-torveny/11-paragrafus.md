@@ -23,11 +23,3 @@ i) a kereskedelemről szóló törvény hatálya alá tartozó, kereskedelmi tev
 j) a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény keretei között
 
 foglalkoztatott munkavállaló számára osztható be.”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
