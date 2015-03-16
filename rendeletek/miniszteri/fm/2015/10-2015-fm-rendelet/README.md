@@ -1,0 +1,9 @@
+# 10/2015. (III. 13.) FM rendelet
+
+az éghajlat és környezet szempontjából előnyös mezőgazdasági gyakorlatokra nyújtandó támogatás igénybevételének szabályairól, valamint a szántóterület, az állandó gyepterület és az állandó kultúrával fedett földterület növénytermesztésre vagy legeltetésre alkalmas állapotban tartásának feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-10-20-11
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-03-16 | 2015-10-20-11.1 | 10/2015. (III. 13.) FM rendelet |
