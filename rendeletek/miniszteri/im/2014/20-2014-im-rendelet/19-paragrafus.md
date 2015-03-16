@@ -54,24 +54,19 @@
 
 ## (6) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy több jogosult vagy kötelezett közös nyilatkozatát vagy több jogosulttal vagy kötelezettel szembeni nyilatkozatot egy bejegyzésben rögzítse, ha a jogosultak vagy a kötelezettek annak a jogviszonynak az egyetemleges jogosultjai vagy egyetemleges kötelezettjei, amelyre tekintettel a hitelbiztosítéki nyilatkozatot tették.””
 
-(7) A Hbnyr.
+(7)[^25]
 
-a)[^25]
+a)[^26]
 
-b) 40. § (3) bekezdésében a „25. § (3a) bekezdése” szövegrész helyébe a „25. § (5) bekezdése” szöveg,
+b)[^27]
 
-c)–e)[^26]
+c)–e)[^28]
 
-f) 40. § (6) bekezdésében a „25. § (2) vagy (3a) bekezdésében” szövegrész helyébe a „25. § (3) vagy (5) bekezdésében” szöveg,
-
-g) 40. § (7) bekezdésében a „25. § (2) vagy (3a) bekezdésében” szövegrész helyébe a „25. § (3) vagy (5) bekezdésében” szöveg,
-
-h) 40. § (8) bekezdésében a „25. § (2) vagy (3a) bekezdésében” szövegrész helyébe a „25. § (3) vagy (5) bekezdésében” szöveg,
-
-i) 40. § (9) bekezdés c) pontjában a „25. § (3) bekezdése” szövegrész helyébe a „25. § (4) bekezdése” szöveg,
-
-j) 40. § (9) bekezdés d) pontjában a „[25. § (3a) bekezdés]” szövegrész helyébe a „[25. § (5) bekezdés]” szöveg,
+f)–j)[^29]
 
 [^24]: A 19. § (1)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 19. § (7) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 19. § (7) bekezdés c)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 19. § (7) bekezdés nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 19. § (7) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 19. § (7) bekezdés b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 19. § (7) bekezdés c)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 19. § (7) bekezdés f)–j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
