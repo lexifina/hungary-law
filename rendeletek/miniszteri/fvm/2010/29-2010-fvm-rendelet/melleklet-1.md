@@ -1,7 +1,7 @@
-## 23. §[^51] E rendeletnek az egyes miniszteri rendeletek módosításáról szóló 59/2013. (VII. 15.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított 16. § (6a) bekezdését a módosító rendelet hatályba lépésekor[^52] folyamatban lévő ügyekben is alkalmazni kell.
+## 24. §[^53] A termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 9/2015. (III. 13.) FM rendelettel [a továbbiakban: 9/2015. (III. 13.) FM rendelet] megállapított 16. § (1) bekezdést a 9/2015. (III. 13.) FM rendelet hatálybalépésekor[^54] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 29/2010. (III. 30.) FVM rendelethez[^53]
+1. melléklet a 29/2010. (III. 30.) FVM rendelethez[^55]
 
-[^51]: A 23. §-t az 59/2013. (VII. 15.) VM rendelet 3. § (3) bekezdése iktatta be.
-[^52]: A hatálybalépés időpontja 2013. július 18.
-[^53]: Az 1. melléklet a 34/2010. (IV. 9.) FVM rendelet 20. § (2) bekezdése szerint módosított szöveg.
+[^53]: A 24. §-t a 9/2015. (III. 13.) FM rendelet 24. § (2) bekezdése iktatta be.
+[^54]: A hatálybalépés időpontja 2015. március 16.
+[^55]: Az 1. melléklet a 34/2010. (IV. 9.) FVM rendelet 20. § (2) bekezdése szerint módosított szöveg.
