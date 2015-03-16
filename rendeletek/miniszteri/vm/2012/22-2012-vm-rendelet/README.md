@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-2
 | 2014-04-19 | 2012-22-20-2Y.10 | 45/2014. (IV. 18.) VM rendelet |
 | 2014-09-13 | 2012-22-20-2Y.11 | 8/2014. (IX. 10.) FM rendelet |
 | 2014-10-30 | 2012-22-20-2Y.12 | 18/2014. (X. 29.) FM rendelet |
+| 2015-03-16 | 2012-22-20-2Y.13 | 9/2015. (III. 13.) FM rendelet |

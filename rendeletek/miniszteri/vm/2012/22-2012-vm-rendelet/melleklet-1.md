@@ -1,6 +1,6 @@
-## 24. §[^53] Az egyes agrártárgyú rendeletek módosításáról szóló 18/2014. (X. 29.) FM rendelettel [a továbbiakban: 18/2014. (X. 29.) FM rendelet] megállapított 1. § 5–6. és 18. pontját, 3. § (1) bekezdés b) pont bc) alpontját, a 3. § (8) bekezdését és a 3. § (12)–(13) bekezdését, valamint 4. mellékletét a 2013. évi és 2014. évi egységes kérelemmel indult eljárásokban is alkalmazni kell.
+## 25. §[^49] A termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 9/2015. (III. 13.) FM rendelettel [a továbbiakban: 9/2015. (III. 13.) FM rendelet] megállapított 14. §-t a 9/2015. (III. 13.) FM rendelet hatálybalépésekor[^50] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 22/2012. (III. 9.) VM rendelethez[^54]
+1. melléklet a 22/2012. (III. 9.) VM rendelethez[^51]
 
 1. táblázat: Felsőoktatás
 
@@ -3100,5 +3100,6 @@
 
 | 130. | 51 | 344 | 8 | Termékdíj ügyintéző |
 
-[^53]: A 24. §-t a 18/2014. (X. 29.) FM rendelet 29. §-a iktatta be.
-[^54]: Az 1. melléklet a 97/2013. (X. 22.) VM rendelet 26. §-ával megállapított szöveg.
+[^49]: A 25. §-t a 9/2015. (III. 13.) FM rendelet 25. § (2) bekezdése iktatta be.
+[^50]: A hatálybalépés időpontja 2015. március 16.
+[^51]: Az 1. melléklet a 97/2013. (X. 22.) VM rendelet 26. §-ával megállapított szöveg.

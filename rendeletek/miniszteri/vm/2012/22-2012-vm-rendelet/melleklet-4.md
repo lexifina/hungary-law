@@ -1,4 +1,4 @@
-4. melléklet a 22/2012. (III. 9.) VM rendelethez[^56]
+4. melléklet a 22/2012. (III. 9.) VM rendelethez[^53]
 
 A Magyar Juh- és Kecsketenyésztő Szövetség által koordinált juhász gazdálkodóképzés
 
@@ -48,4 +48,4 @@ a Szegedi Tudományegyetem Mezőgazdasági Kara.
 
 13. Bemutató mintatelepek látogatása
 
-[^56]: A 4. mellékletet a 18/2014. (X. 29.) FM rendelet 30. §-a iktatta be.
+[^53]: A 4. mellékletet a 18/2014. (X. 29.) FM rendelet 30. §-a iktatta be.

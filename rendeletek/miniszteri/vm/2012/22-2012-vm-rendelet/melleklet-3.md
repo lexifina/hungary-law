@@ -1,4 +1,4 @@
-3. melléklet a 22/2012. (III. 9.) VM rendelethez[^55]
+3. melléklet a 22/2012. (III. 9.) VM rendelethez[^52]
 
 ## A Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet által a húsmarha és a juh ágazatokban nyújtott kérődző szerkezetátalakítási nemzeti program feltételeinek teljesítéséhez szervezett képzések felsorolása és tartalmi meghatározása
 
@@ -174,4 +174,4 @@
 
 | 1.7 Gazdasági és vállalkozási ismeretek |
 
-[^55]: A 3. mellékletet a 48/2012. (V. 16.) VM rendelet 11. §-a iktatta be, szövege a 65/2013. (VII. 29.) VM rendelet 12. §-ával megállapított szöveg.
+[^52]: A 3. mellékletet a 48/2012. (V. 16.) VM rendelet 11. §-a iktatta be, szövege a 65/2013. (VII. 29.) VM rendelet 12. §-ával megállapított szöveg.
