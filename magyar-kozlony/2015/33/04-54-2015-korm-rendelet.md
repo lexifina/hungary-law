@@ -1,0 +1,70 @@
+# A Kormány 54/2015. (III. 17.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 33. szám, 2015. március 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/65ef835bfd6ab8bf2d996b3869ef041393163adb/dokumentumok/05a373c519720917be41b2ecdb13609fe185f3fa/letoltes)
+
+---
+
+A Kormány 54/2015. (III. 17.) Korm. rendelete
+a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosításáról
+A Kormány a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. § (1) bekezdés a) pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 10. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) A fegyver
+a) forgalmazását vagy javítását végző személy szakképzettségeként, szakképesítéseként előírt képesítésnek kell
+tekinteni
+aa) a puskaművesi képesítést,
+ab) a fémipari technikusi képesítést,
+ac) a fegyvermesteri szakvizsgát,
+ad) az okleveles gépészmérnök szakképzettséget,
+ae) a gépészmérnök szakképzettséget,
+af) a katonai középfokú oktatási intézményben vagy a katonai felsőoktatási intézményben szakirányú – fegyverzeti –
+szakon megszerzett szakképesítést, illetve szakképzettséget,
+ag) a 09 2 7490 03 9 0 05, a 34 5237 01, a 31 863 01 0001 33 01 vagy az 55 863 02 OKJ számú Vadászpuskaműves
+szakképesítést,
+ah) a 93 4 0210 02 2 4 06, az 51 8917 01, a 31 863 01 0000 00 00 vagy az 54 863 01 OKJ számú Fegyverműszerész
+szakképesítést,
+ai) a 93 5 0210 16 9 0 02 vagy az 52 8917 01 OKJ számú Fegyvertechnikus szakképesítést,
+aj) a vadászpuskaműves mester végzettséget, valamint
+ak) forgalmazási tevékenység esetén a megyei (fővárosi) rendőr-főkapitányságon letett fegyverforgalmazási vizsgát,
+továbbá
+b) gyártását végző személy szakképesítéseként, végzettségeként előírt képesítésnek kell tekinteni az a) pont af),
+ag) és aj) alpontjában meghatározott képesítést, valamint a gépgyártás-technológia szakon végzett okleveles
+gépészmérnök, illetve gépészmérnök szakképzettséget.”
+(2) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 10. § (3) bekezdése helyébe a következő
+rendelkezés lép:
+„(3) A vizsgabizottság tagjait a megyei (fővárosi) rendőrfőkapitány jelöli ki, egy tagjának az (1) bekezdés a) pont
+aa) alpontjában, ac) alpontjában, af) alpontjában, ag) alpontjában, ah) vagy ai) alpontjában meghatározott
+képesítéssel vagy igazságügyi fegyverszakértői képesítéssel kell rendelkeznie.”
+2. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 37. § (6) bekezdése helyébe a következő
+rendelkezés lép:
+„(6) A sportegyesület a lőfegyverét és a lőszerét
+a) átengedheti
+aa) a tizennegyedik életévét betöltött, versenyengedéllyel vagy rajtengedéllyel rendelkező sportolójának
+– a tizennyolcadik életév betöltéséig az ab) alpontban vagy a b) pontban meghatározott személyek valamelyikének
+folyamatos felügyelete mellett – a sporttevékenység (edzés, verseny) végzésének időtartamára, továbbá
+ab) a tizennyolcadik életévét betöltött tagjának az edzés időtartamára, valamint
+b) átadhatja a tizennyolcadik életévét betöltött, versenyengedéllyel vagy rajtengedéllyel rendelkező sportolójának
+a lőfegyver és a lőszer tárolásának helye és a sporttevékenység (edzés, verseny) végzésének helyszíne közötti
+közvetlen szállítás időtartamára.”
+3. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet a következő 38/A. §-sal egészül ki:
+„38/A. § A 37. § (6) bekezdés b) pontja szerinti szállítás esetén
+a) a 38. § (1) bekezdés a) pontjában foglalt rendelkezést is megfelelően alkalmazni kell, valamint
+b) a szállítás jogszerű voltát a lőfegyvert, lőszert saját jogon tartó által kiállított – a szállítás jogcímére is kiterjedő –
+igazolás igazolja, amelyet a szállító a szállítás során mindvégig köteles magánál tartani.”
+
+4. §
+A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet„Átmeneti rendelkezések” alcíme a következő
+55/B. §-sal egészül ki:
+„55/B. § Az e rendeletnek a fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosításáról szóló
+54/2015. (III. 17.) Korm. rendelettel (a továbbiakban: Módosító Rendelet 2.) megállapított 10. § (1) bekezdése
+a) a Módosító Rendelet 2. hatálybalépését megelőzően kiadott hatósági engedély hatályosságát nem érinti,
+valamint
+b) nem alkalmazandó az a) pontban meghatározott hatósági engedély meghosszabbítására vonatkozó kérelmek
+elbírálása során.”
+5. §
+Ez a rendelet a kihirdetését követő második hónap tizenötödik napján lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
