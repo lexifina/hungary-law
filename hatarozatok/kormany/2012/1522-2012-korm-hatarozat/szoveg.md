@@ -42,10 +42,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-8. felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszterrel együttműködve 2013. évtől az Alapítvány működéséhez szükséges forrást biztosítsa.
+8.[^1]
 
-Felelős: nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: azonnal
+[^1]: A 8. pontot az 1156/2015. (III. 17.) Korm. határozat 3. pontja visszavonta.
