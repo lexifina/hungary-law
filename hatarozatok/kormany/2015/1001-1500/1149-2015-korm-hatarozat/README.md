@@ -1,0 +1,9 @@
+# 1149/2015. (III. 17.) Korm. határozat
+
+az Észak-atlanti Szerződés Szervezete és az Európai Unió által tervezett katonai válságkezelési gyakorlatok nemzeti feladatainak végrehajtásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1149-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-03-17 | 2015-1149-30-22.1 | 1149/2015. (III. 17.) Korm. határozat |
