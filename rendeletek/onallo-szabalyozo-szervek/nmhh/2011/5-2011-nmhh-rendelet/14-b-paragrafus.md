@@ -1,4 +1,4 @@
-14/B. §[^13] (1) A Hivatalnak a filmalkotás kulturális követelményeknek való megfelelés szerinti támogatásra jogosultságának igazolására irányuló eljárásáért fizetendő díj 15 000 Ft.
+14/B. §[^15] (1) A Hivatalnak a filmalkotás kulturális követelményeknek való megfelelés szerinti támogatásra jogosultságának igazolására irányuló eljárásáért fizetendő díj 15 000 Ft.
 
 (2) A Hivatalnak a filmalkotás magyar részvételi arányok szerinti besorolása tárgyában lefolytatott eljárásáért fizetendő díj,
 
@@ -14,4 +14,4 @@ b) ha a filmalkotás költségvetése az 50 millió forintot meghaladja, 40 000 
 
 (4) Amennyiben a Hivatal a (2)–(3) bekezdés szerinti eljárásában megállapítja, hogy az ügyfél által megfizetett igazgatási szolgáltatási díj alapjának összege eltér a hatósági ügy tényállása alapján meghatározható igazgatási szolgáltatási díj alapjának összegétől (filmalkotás költségvetésétől), az eljárás során kiszabja az igazgatási szolgáltatási díjkülönbözetet.
 
-[^13]: A 14/B. §-t a 12/2012. (VIII. 9.) NMHH rendelet 6. § (2) bekezdése iktatta be.
+[^15]: A 14/B. §-t a 12/2012. (VIII. 9.) NMHH rendelet 6. § (2) bekezdése iktatta be.
