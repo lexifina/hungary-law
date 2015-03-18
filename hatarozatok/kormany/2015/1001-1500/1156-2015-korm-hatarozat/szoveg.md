@@ -10,4 +10,6 @@ Határidő: azonnal
 
 2. tudomásul veszi, hogy az Amerikai Egyesült Államokban bejegyzésre került „Friends of Hungary” Alapítvány neve „The Hungary Initiatives Foundation”-ra változott;
 
-3. az Amerikai Egyesült Államokban bejegyzésre kerülő „Friends of Hungary” Alapítvány létrehozására irányuló koncepció elfogadásáról és működési feltételeinek megteremtéséről szóló 1522/2012. (XI. 28.) Korm. határozat 8. pontját visszavonja.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése lapján hatályát vesztette.
