@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-211-00-00
 | --- | --- | --- |
 | 2013-12-13 | 2013. évi CCXI. törvény | 2013-211-00-00.0 (közlönyállapot) |
 | 2013-12-13 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-211-00-00.1 |
+| 2015-03-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-211-00-00.2 |
