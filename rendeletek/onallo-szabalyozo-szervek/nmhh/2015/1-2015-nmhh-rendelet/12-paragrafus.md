@@ -1,0 +1,1 @@
+## „(1a) A keret-rádióengedély kérelem – az e) pont kivételével – a 10. § (2) bekezdésében, a légiközlekedési és a viziközlekedési célú fedélzeti rádióberendezésekkel létrehozott rádiórendszer esetében az 5. § (2) bekezdés d) pontjában, továbbá e) pont ee) és eh) alpontjában, valamint a 10. § (2) bekezdés a) és b) pontjában megállapított adatokat tartalmazza.”
