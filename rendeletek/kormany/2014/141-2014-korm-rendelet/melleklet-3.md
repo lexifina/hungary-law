@@ -58,4 +58,84 @@ A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvaló
 
 | 27. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem- fejlesztés | Csanádpalota |
 
-[^2]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+| 28. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Dabas |
+
+| 29. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Konyár |
+
+| 30. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Andocs |
+
+| 31. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Bogyiszló |
+
+| 32. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Görgeteg |
+
+| 33. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Nagyberény |
+
+| 34. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Báránd |
+
+| 35. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Nagyrábé |
+
+| 36. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Szomód |
+
+| 37. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Jászfelsőszentgyörgy |
+
+| 38. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Dunaalmás |
+
+| 39. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Zichyújfalu |
+
+| 40. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Tiszatarján |
+
+| 41. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Érd |
+
+| 42. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Pázmánd |
+
+| 43. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Sárrétudvari |
+
+| 44. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Szerep |
+
+| 45. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Gárdony |
+
+| 46. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Kaba |
+
+| 47. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Kistarcsa |
+
+| 48. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Nyírbogát |
+
+| 49. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Csanádpalota |
+
+| 50. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Tiszabő |
+
+| 51. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Dunakeszi |
+
+| 52. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Gyál |
+
+| 53. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Sárbogárd |
+
+| 54. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Budapest XI. kerület |
+
+| 55. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Kemecse |
+
+| 56. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Füzesgyarmat |
+
+| 57. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Sümeg |
+
+| 58. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Enying |
+
+| 59. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Putnok |
+
+| 60. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Tolna |
+
+| 61. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Edelény |
+
+| 62. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Sásd |
+
+| 63. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Abádszalók |
+
+| 64. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Bélapátfalva |
+
+| 65. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Tokaj |
+
+| 66. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Derecske |
+
+| 67. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Pannonhalma |
+
+[^2]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
