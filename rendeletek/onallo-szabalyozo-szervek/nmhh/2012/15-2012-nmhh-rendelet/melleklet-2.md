@@ -252,8 +252,8 @@
 
 | 124 | WRC97 | World Radiocommunication Conference, Geneva, 1997 Rádiótávközlési Világértekezlet, Genf, 1997 |
 
-2. melléklet a 15/2012. (XII. 29.) NMHH rendelethez[^19]
+2. melléklet a 15/2012. (XII. 29.) NMHH rendelethez[^27]
 
 FREKVENCIASÁVOK NEMZETI FELOSZTÁSI TÁBLÁZATA
 
-[^19]: A 2. melléklet a 8/2013. (IX. 19.) NMHH rendelet 3. § (2) bekezdése, a 11/2013. (IX. 19.) NMHH rendelet 2. § (1) bekezdése és 4. § b) pontja szerint módosított szöveg.
+[^27]: A 2. melléklet a 8/2013. (IX. 19.) NMHH rendelet 3. § (2) bekezdése, a 11/2013. (IX. 19.) NMHH rendelet 2. § (1) bekezdése és 4. § b) pontja, az 1/2015. (III. 17.) NMHH rendelet 27. § c) pontja szerint módosított szöveg.

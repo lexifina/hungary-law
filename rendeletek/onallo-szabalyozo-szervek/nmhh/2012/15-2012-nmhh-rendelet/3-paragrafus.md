@@ -38,9 +38,9 @@
 
 ## 19. biztonsági szolgálat: minden olyan rádiótávközlési szolgálat, amelyet állandóan vagy időszakosan az emberi élet védelme és a javak megóvása érdekében üzemeltetnek;
 
-## 19a.[^1] csoportkommunikációs igény: természetes személyek kivételével a frekvencia-felhasználók csoporton belüli és csoportok közötti kommunikációs igénye.
+## 19a.[^4] csoportkommunikációs igény: természetes személyek kivételével a frekvencia-felhasználók csoporton belüli és csoportok közötti kommunikációs igénye.
 
-## 20.[^2]
+## 20.[^5]
 
 ## 21. egyeztetett világidő (UTC): az ITU-R TF.460-6 Ajánlásban meghatározott, másodpercen (SI) alapuló időskála; az RR-hez kapcsolódó gyakorlati alkalmazások nagy részében az UTC idő azonos a korábban GMT-ben kifejezett, a kezdő délkörre (0 hosszúsági fok) vonatkoztatott közepes napidővel;
 
@@ -72,11 +72,11 @@
 
 ## 33. frekvenciafelhasználás: rádiótávközlési és rádiócsillagászati célból rádiófrekvenciás jelek előállítása, kisugárzása és vétele;
 
-## 34.[^3] frekvenciafelhasználó: az a természetes személy, jogi személy, jogi személyiséggel nem rendelkező szervezet, aki vagy amely rádiótávközlési célból rádiófrekvenciás jeleket állít elő, vagy rádiófrekvenciás jeleket kisugároz, vagy rádióberendezést üzemben tart;
+## 34.[^6] frekvenciafelhasználó: az a természetes személy, jogi személy, jogi személyiséggel nem rendelkező szervezet, aki vagy amely rádiótávközlési célból rádiófrekvenciás jeleket állít elő, vagy rádiófrekvenciás jeleket kisugároz, vagy rádióberendezést üzemben tart;
 
 ## 35. frekvenciasáv: a rádiófrekvenciás tartomány egy meghatározott része;
 
-## 36.[^4] GSM-rendszer: elektronikus hírközlő hálózat, amely megfelel a GSM nemzeti szabványoknak, különösen az MSZ EN 301 502-nek és az MSZ EN 301 511-nek;
+## 36.[^7] GSM-rendszer: elektronikus hírközlő hálózat, amely megfelel a GSM nemzeti szabványoknak, különösen az MSZ EN 301 502-nek és az MSZ EN 301 511-nek;
 
 ## 37. hajóállomás: a tengeri mozgószolgálat nem állandó jelleggel kikötött hajó fedélzetén elhelyezett mozgóállomása, a mentőjármű állomás kivételével;
 
@@ -130,7 +130,7 @@
 
 ## 62. kisugárzott egyenértékű izotrop teljesítmény (EIRP): az antennára juttatott teljesítmény és az adott irányban az izotrop antennára vonatkoztatott nyereség (izotrop vagy abszolút nyereség) szorzata;
 
-## 63. koordinált állomás: olyan, a polgári vagy a nem polgári frekvenciagazdálkodó hatóság által engedélyezett állomás, amelynek telepítési és sugárzási jellemzői a koordinációs övezetében korábban engedélyezett, legalább azonos szolgálati kategóriájú más állomásokkal szemben, az azoknak okozott káros zavarás elkerülése érdekében le lettek egyeztetve;
+## 63.[^8] koordinált állomás: olyan, a Hivatal által engedélyezett állomás, amelynek telepítési és sugárzási jellemzői a koordinációs övezetében korábban engedélyezett, legalább azonos szolgálati kategóriájú más állomásokkal szemben, az azoknak okozott káros zavarás elkerülése érdekében le lettek egyeztetve;
 
 ## 64. központi állomás: pont-többpont és általános többpont rendszerek olyan állomása, amely ezen rendszerek valamennyi felhasználói állomásával közvetlen vagy átjátszóállomás közvetítésével létrehozott rádiókapcsolatban van; amennyiben a rendszer az alaphálózathoz vagy más rendszerhez csatlakozik, a csatlakozás ezen állomás közvetítésével történik;
 
@@ -156,7 +156,7 @@
 
 ## 75. légi rádiónavigáció szolgálat: lásd légiforgalmi rádiónavigáció szolgálat;
 
-## 76.[^5] LTE-rendszer: elektronikus hírközlő hálózat, amely megfelel az LTE nemzeti szabványoknak, különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-13-nak, az MSZ EN 301 908-14-nek és az MSZ EN 301 908-15-nek;
+## 76.[^9] LTE-rendszer: elektronikus hírközlő hálózat, amely megfelel az LTE nemzeti szabványoknak, különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-13-nak, az MSZ EN 301 908-14-nek és az MSZ EN 301 908-15-nek;
 
 ## 77. markeradó: a légiforgalmi rádiónavigáció szolgálatban alkalmazott olyan adóállomás, amely függőleges nyalábot sugároz abból a célból, hogy a légijárművek részére helyzetjelölést adjon;
 
@@ -354,7 +354,7 @@
 
 ## 161. rádiórendszer: együttműködő adó- vagy vevőállomások, vagy adó- és vevőállomások meghatározott célú rádiótávközlésre szolgáló csoportja;
 
-## 162.[^6]
+## 162.[^10]
 
 ## 163. rádiószonda: a meteorológiát segítő szolgálatban alkalmazott olyan automatikus rádió-adókészülék, amelyet rendszerint légijármű, szabad léggömb, ejtőernyő vagy sárkány hordoz, és amely meteorológiai adatokat továbbít;
 
@@ -368,7 +368,7 @@
 
 ## 168. RR: Nemzetközi Rádiószabályzat, a Nemzetközi Távközlési Egyesület külön jogszabállyal kihirdetett Alapokmánya és Egyezménye kiegészítését képező igazgatási szabályzat;
 
-## 169.[^7] szélesebb sávú rádiórendszer: 25 kHz-nél nagyobb csatornaosztást használó rádiórendszer vagy az olyan technológiát használó rádiórendszer, amely 25 kHz-nél nagyobb csatornaosztást is tud támogatni;
+## 169.[^11] szélesebb sávú rádiórendszer: 25 kHz-nél nagyobb csatornaosztást használó rádiórendszer vagy az olyan technológiát használó rádiórendszer, amely 25 kHz-nél nagyobb csatornaosztást is tud támogatni;
 
 ## 170. szélessávú állandóhelyű vezetéknélküli hozzáférési (BFWA) rendszer: az állandóhelyű szolgálatban működő szélessávú vezetéknélküli hozzáférési (BWA) rendszer;
 
@@ -402,7 +402,7 @@
 
 ## 185. ultraszéles sávú (UWB) technológiát használó berendezés: beépített összetevőként vagy kiegészítőként olyan, kis hatótávolságú rádiótávközlő technológiát alkalmazó, 50 MHz-nél szélesebb frekvenciatartományra kiterjedő rádiófrekvenciás energiát szándékosan előállító és sugárzó berendezés, amely frekvenciatartománya átfedésbe kerülhet több, a rádiótávközlési szolgálatok részére felosztott frekvenciasávval;
 
-## 186.[^8] UMTS-rendszer: elektronikus hírközlő hálózat, amely megfelel az UMTS nemzeti szabványoknak, különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-2-nek, az MSZ EN 301 908-3-nak és az MSZ EN 301 908-11-nek;
+## 186.[^12] UMTS-rendszer: elektronikus hírközlő hálózat, amely megfelel az UMTS nemzeti szabványoknak, különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-2-nek, az MSZ EN 301 908-3-nak és az MSZ EN 301 908-11-nek;
 
 ## 187. űrállomás: olyan tárgyon elhelyezett állomás, amely a Föld légkörének központi részén kívül helyezkedik el, azon kívülre szánták, vagy oda került;
 
@@ -424,7 +424,7 @@
 
 ## 196. vezetéknélküli hozzáférési rendszer (WAS): szélessávú rádiórendszer, amely tekintet nélkül a hálózat topológiájára, vezetéknélküli hozzáférést biztosít nyilvános és magáncélú alkalmazások számára;
 
-## 197.[^9] WiMAX-rendszer: az állandóhelyű szolgálatban olyan pont-többpont rádiórendszer, valamint a mozgószolgálatban olyan mobil rádiórendszer, amelynek berendezései a WiMAX Fórum által kiadott WiMAX-típustanúsítvánnyal rendelkeznek. A 880–915/925–960 MHz és az 1710–1785/1805–1880 MHz sávban a WiMAX nemzeti szabványoknak, ezen belül különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-21-nek és az MSZ EN 301 908-22-nek megfelelő elektronikus hírközlő hálózat is WiMAX-rendszernek minősül;
+## 197.[^13] WiMAX-rendszer: az állandóhelyű szolgálatban olyan pont-többpont rádiórendszer, valamint a mozgószolgálatban olyan mobil rádiórendszer, amelynek berendezései a WiMAX Fórum által kiadott WiMAX-típustanúsítvánnyal rendelkeznek. A 880–915/925–960 MHz és az 1710–1785/1805–1880 MHz sávban a WiMAX nemzeti szabványoknak, ezen belül különösen az MSZ EN 301 908-1-nek, az MSZ EN 301 908-21-nek és az MSZ EN 301 908-22-nek megfelelő elektronikus hírközlő hálózat is WiMAX-rendszernek minősül;
 
 ## 198. zsinórnélküli telefon: elektronikus hírközlő hálózat azon földi mozgószolgálati része, amelynek bázisállomásai közvetlenül csatlakoznak elektronikus hírközlő hálózathoz.
 
@@ -442,12 +442,13 @@ b) megállapítja a frekvenciasávok rádiószolgálatok részére történő ne
 
 (4) Az FNFT-ben a nemzetközi felosztást az A–D oszlop, a nemzeti felosztást az E–G oszlop tartalmazza.
 
-[^1]: A 2. § 19a. pontját a 11/2013. (IX. 19.) NMHH rendelet 1. §-a iktatta be.
-[^2]: A 2. § 20. pontját a 11/2013. (IX. 19.) NMHH rendelet 4. § a) pontja hatályon kívül helyezte.
-[^3]: A 2. § 34. pontja a 3/2014. (III. 13.) NMHH rendelet 6. §-a szerint módosított szöveg.
-[^4]: A 2. § 36. pontja a 8/2013. (IX. 19.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § 76. pontja a 8/2013. (IX. 19.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § 162. pontját a 11/2013. (IX. 19.) NMHH rendelet 4. § a) pontja hatályon kívül helyezte.
-[^7]: A 2. § 169. pontja a 8/2013. (IX. 19.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § 186. pontja a 8/2013. (IX. 19.) NMHH rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^9]: A 2. § 197. pontja a 8/2013. (IX. 19.) NMHH rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^4]: A 2. § 19a. pontját a 11/2013. (IX. 19.) NMHH rendelet 1. §-a iktatta be.
+[^5]: A 2. § 20. pontját a 11/2013. (IX. 19.) NMHH rendelet 4. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § 34. pontja a 3/2014. (III. 13.) NMHH rendelet 6. §-a szerint módosított szöveg.
+[^7]: A 2. § 36. pontja a 8/2013. (IX. 19.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § 63. pontja az 1/2015. (III. 17.) NMHH rendelet 27. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § 76. pontja a 8/2013. (IX. 19.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § 162. pontját a 11/2013. (IX. 19.) NMHH rendelet 4. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § 169. pontja a 8/2013. (IX. 19.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § 186. pontja a 8/2013. (IX. 19.) NMHH rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^13]: A 2. § 197. pontja a 8/2013. (IX. 19.) NMHH rendelet 1. § (4) bekezdésével megállapított szöveg.
