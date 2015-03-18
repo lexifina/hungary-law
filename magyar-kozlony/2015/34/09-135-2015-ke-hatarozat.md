@@ -1,0 +1,36 @@
+# A köztársasági elnök 135/2015. (III. 18.) KE határozata
+
+Magyar Közlöny 2015. évi 34. szám, 2015. március 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/624da06011ce01788611183ab6cc35b4fa71a211/dokumentumok/04e736f1f99d68eebb1e79608f3b05e78ad82309/letoltes)
+
+---
+
+A köztársasági elnök 135/2015. (III. 18.) KE határozata
+kitüntetés adományozásáról
+Az Alaptörvény 9. cikk (4) bekezdés f) pontja, illetve a Magyarország címerének és zászlajának használatáról,
+valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 18. § (1) bekezdése alapján – a miniszterelnök
+előterjesztésére –
+Magyarország európai integrációjának elősegítése, valamint a német–magyar, illetve bajor–magyar kapcsolatok
+fejlesztése érdekében végzett tevékenysége elismeréseként
+Reinhold Bocklet, a Bajor Tartományi Parlament első alelnöke részére a
+MAGYAR ÉRDEMREND KÖZÉPKERESZTJE A CSILLAGGAL
+polgári tagozata;
+a holland–magyar kapcsolatok fejlesztését, valamint hazánk jó hírének megőrzését szolgáló diplomáciai és kulturális
+közéleti tevékenysége elismeréseként
+Jankovich-de Jeszenice József Béla, Magyarország hollandiai tiszteletbeli konzulja részére,
+az emigrációba kényszerült magyar alkotók között betöltött meghatározó szerepe, jelentős szépirodalmi, valamint
+irodalomtörténészi pályája elismeréseként
+Kibédi Varga Áron irodalomtörténész, költő, a Magyar Tudományos Akadémia külső tagja részére,
+kiemelkedő diplomáciai, valamint a keresztény hit és értékek megőrzését, illetve a magyar érdekek vatikáni és
+szlovéniai képviseletét szolgáló, támogató tevékenysége elismeréseként
+Mariano Hugo Windisch-Graetz, a Szuverén Máltai Lovagrend szlovéniai nagykövete részére a
+MAGYAR ÉRDEMREND KÖZÉPKERESZTJE
+polgári tagozata
+kitüntetést adományozom.
+Budapest, 2015. március 5.
+ Áder János s. k.,
+ köztársasági elnök
+Ellenjegyzem:
+Budapest, 2015. március 5.
+ Orbán Viktor s. k.,
+ miniszterelnök
+KEH ügyszám: VIII-1/01377-2/2015.
