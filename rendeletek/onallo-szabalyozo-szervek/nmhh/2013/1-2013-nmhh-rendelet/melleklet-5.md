@@ -26,11 +26,11 @@
 
 | 9 |  | földi telepítésű meteorológiai radar | 2700–2900 MHz | H157 | A földi telepítésű meteorológiai radarok a légi rádiónavigáció szolgálat állomásaival azonos jogokkal működhetnek. 4. § (2) bekezdése. |
 
-| 10 | RÁDIÓLOKÁCIÓ | földi telepítésű korai előrejelző, légtérellenőrző, célmegjelölő, rávezető elsődleges radar, földi telepítésű magasságmérő radar, földi telepítésű meteorológiai radar, hajófedélzeti radar | 2900–3400 MHz | H23 | A rádiócsillagászati szolgálat védelmét a 3260–3267 MHz, 3332–3339 MHz és a 3345,8–3352,5 MHz sávban a KFGH lehetőség szerint biztosítja. A rádiólokáció szolgálat állomásai a 2900–3100 MHz sávban nem okozhatnak káros zavarást a rádiónavigáció szolgálat radarrendszereinek, és azokkal szemben védelemre sem tarthatnak igényt. NATO célokra is használható. 4. § (2) bekezdése. NATO előírás. |
+| 10 | RÁDIÓLOKÁCIÓ | földi telepítésű korai előrejelző, légtérellenőrző, célmegjelölő, rávezető elsődleges radar, földi telepítésű magasságmérő radar, földi telepítésű meteorológiai radar, hajófedélzeti radar | 2900–3400 MHz | H23 | A rádiócsillagászati szolgálat védelmét a 3260–3267 MHz, 3332–3339 MHz és a 3345,8–3352,5 MHz sávban a Hivatal lehetőség szerint biztosítja. A rádiólokáció szolgálat állomásai a 2900–3100 MHz sávban nem okozhatnak káros zavarást a rádiónavigáció szolgálat radarrendszereinek, és azokkal szemben védelemre sem tarthatnak igényt. NATO célokra is használható. 4. § (2) bekezdése. NATO előírás. |
 
 | 11 |  | fedélzeti elsődleges radar, fedélzeti és földi telepítésű meteorológiai radar, földi telepítésű közel körzeti felderítő, légtérellenőrző, célmegjelölő radar | 5250–5850 MHz |  | A rádiólokáció szolgálat állomásai az 5350–5470 MHz sávban nem okozhatnak káros zavarást a légi rádiónavigáció szolgálat fedélzeti radarrendszereinek és a hozzájuk kapcsolódó fedélzeti rádióbójáknak és nem is tarthatnak igényt védelemre azokkal szemben. Az 5470–5650 MHz sávban a rádiólokáció szolgálat állomásai nem okozhatnak káros zavarást a tengeri (belvízi) rádiónavigáció szolgálat radarrendszereinek, és nem is tarthatnak igényt védelemre azokkal szemben. NATO célokra is használható. Az 5600–5650 MHz sávban földi telepítésű meteorológiai radarok használhatók. 4. § (2) bekezdése. Az 5600–5650 MHz sávban a meteorológiai radarok esetén a radar vivőfrekvenciájától számított ± 300 MHz-es tartományon kívűl eső sávban a mellékhullám sugárzás szintje nem haladhatja meg a névleges kimenő teljesítményre vonatkoztatott –100 dB értéket. NATO előírás. |
 
-| 12 |  | felderítő, célkövető és rávezető radar, földi telepítésű magasságmérő radar | 6425–7075 MHz | H70 | A rádiócsillagászati szolgálat védelmét a 6650–6675,2 MHz sávban a KFGH lehetőség szerint biztosítja. A radarok várhatóan 2018. december 31-ig tarthatók üzemben, amennyiben az állomások 2008. január 1-jén és azóta megszakítás nélkül érvényes rádióengedéllyel rendelkeznek. 4. § (2) bekezdése. |
+| 12 |  | felderítő, célkövető és rávezető radar, földi telepítésű magasságmérő radar | 6425–7075 MHz | H70 | A rádiócsillagászati szolgálat védelmét a 6650–6675,2 MHz sávban a Hivatal lehetőség szerint biztosítja. A radarok várhatóan 2018. december 31-ig tarthatók üzemben, amennyiben az állomások 2008. január 1-jén és azóta megszakítás nélkül érvényes rádióengedéllyel rendelkeznek. 4. § (2) bekezdése. |
 
 | 13 |  | felderítő, célmegjelölő, rávezető radar, meteorológiai radar | 8500–9000 MHz | H23 | 4. § (2) bekezdése. |
 
@@ -48,7 +48,7 @@
 
 | 20 |  | légijármű fedélzeti radar, mobil kis teljesítményű, elsődleges radar | 59–63 GHz | H23 | Az 59–63 GHz sávban a légijárművek fedélzetén elhelyezett radarok nem okozhatnak káros zavarást a műholdak közötti szolgálatnak, ugyanakkor nem is tarthat igényt védelemre azokkal szemben. Az 59–61 GHz sáv 2. típusú harmonizált NATO sáv. 4. § (2) bekezdése. NATO előírás. |
 
-| 21 |  | mobil kis teljesítményű, elsődleges radar | 76–77,5 GHz 78–81 GHz 92–95 GHz |  | A rádiócsillagászati szolgálat védelmét a 79–81 GHz és a 92–94 GHz sávban a KFGH lehetőség szerint biztosítja. 4. § (2) bekezdése. |
+| 21 |  | mobil kis teljesítményű, elsődleges radar | 76–77,5 GHz 78–81 GHz 92–95 GHz |  | A rádiócsillagászati szolgálat védelmét a 79–81 GHz és a 92–94 GHz sávban a Hivatal lehetőség szerint biztosítja. 4. § (2) bekezdése. |
 
 ## 1.2. Másodlagos rádiószolgálat
 
@@ -66,8 +66,8 @@
 
 ## 2. A sávhasználat frekvenciagazdálkodási feltételei és követelményei
 
-## Az új radarok használatának engedélyezésekor a KFGH vizsgálja azok sávon kívüli sugárzásának hatását a már üzemelő polgári és nem polgári célú rádiórendszerekre, nem megengedett ezen rendszerek működésének ellehetetlenülése.
+## Az új radarok használatának engedélyezésekor a Hivatal vizsgálja azok sávon kívüli sugárzásának hatását a már üzemelő polgári és nem polgári célú rádiórendszerekre, nem megengedett ezen rendszerek működésének ellehetetlenülése.
 
-5. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^6]
+5. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^8]
 
-[^6]: Az 5. melléklet a 10/2013. (IX. 19.) NMHH rendelet 1. § (5) bekezdése és 2. § (12) bekezdése szerint módosított szöveg.
+[^8]: Az 5. melléklet a 10/2013. (IX. 19.) NMHH rendelet 1. § (5) bekezdése és 2. § (12) bekezdése, az 1/2015. (III. 17.) NMHH rendelet 30. § (5) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.

@@ -16,4 +16,6 @@ ba) rádióberendezés bejelentését, belföldi forgalomba hozatalát végzi,
 
 bb) rádióberendezés, rádiórendszer tervezése, telepítése, valamint a nem polgári célú frekvenciagazdálkodást érintő hatósági ügy vonatkozásában a felhasználóval kapcsolatban áll,
 
-c) e rendeletben meghatározott hatósági feladat- és hatásköröket ellátó Közigazgatási Frekvenciagazdálkodási Hatóságra (a továbbiakban: KFGH).
+c)[^2] a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) Hivatalára (a továbbiakban: Hivatal).
+
+[^2]: Az 1. § (2) bekezdés c) pontja az 1/2015. (III. 17.) NMHH rendelet 29. §-ával megállapított szöveg. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.

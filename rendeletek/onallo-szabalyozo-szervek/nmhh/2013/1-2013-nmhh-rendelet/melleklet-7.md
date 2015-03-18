@@ -14,14 +14,14 @@
 
 | 4 |  | jel-, adat- és beszédátvitel | 150,05–151,4 MHz 154–156 MHz 167,3–169,4 MHz 169,8125–174 MHz 270,25–275,25 MHz 318,25–328,6 MHz 406,1–417 MHz 420–427 MHz 440–442 MHz 445–447 MHz | H69 | A 150,05–151,4 MHz és a 167,3–169,4 MHz sáv várhatóan 2018. december 31-ig használható. Csatornaosztás: max. 25 kHz. Teljesítmény: max. 25 mW ERP. Videoátvitel nem megengedett. |
 
-| 5 |  | katonai információ elosztó rendszer (JTIDS/MIDS) | 960–1215 MHz | H122A | Egyedi engedély a frekvenciagazdálkodó hatóságok, valamint a KFGH és a légiközlekedési hatóság közötti megállapodások alapján szerezhető. NATO előírás. |
+| 5 |  | katonai információ elosztó rendszer (JTIDS/MIDS) | 960–1215 MHz | H122A | Egyedi engedély az összehangolt nem polgári és polgári frekvenciagazdálkodási szempontoknak megfelelően, a Hivatal és a légiközlekedési hatóság közötti megállapodás alapján szerezhető. NATO előírás. |
 
 | 6 |  | általános adatátvitel, videoátvitel | 1350–1375 MHz 1492–1518 MHz | H69 | Teljesítmény: max. 10 mW EIRP. |
 
-| 7 |  | szélessávú adatátvitel | 2245–2300 MHz 2370–2483,5 MHz |  | Teljesítmény: max. 10 mW EIRP. Kitöltési tényező: ≤ 100%. |
+| 7 |  | szélessávú adatátvitel | 2245–2300 MHz 2370–2483,5 MHz |  | Teljesítmény: max. 10 mW EIRP. Kitöltési tényező: ≤100%. |
 
 | 8 |  | digitális szélessávú hozzáférési rendszerek | 5725–5875 MHz | H166 | RAT 2. melléklet II. fejezet 6-7. pontja szerinti sávhasználati szabályok érvényesek. Egyedi engedélyezési kötelezettség alól mentesítve. |
 
-7. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^7]
+7. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^10]
 
-[^7]: A 7. melléklet a 10/2013. (IX. 19.) NMHH rendelet 2. § (13) bekezdése és 3. § e) pontja szerint módosított szöveg.
+[^10]: A 7. melléklet a 10/2013. (IX. 19.) NMHH rendelet 2. § (13) bekezdése és 3. § e) pontja, az 1/2015. (III. 17.) NMHH rendelet 30. § (7) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.

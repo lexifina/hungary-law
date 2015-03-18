@@ -88,7 +88,7 @@
 
 | WRC | World Radiocommunication Conference Rádiótávközlési Világértekezlet |
 
-10. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^9]
+10. melléklet az 1/2013. (I. 7.) NMHH rendelethez[^12]
 
 Dokumentumok jegyzéke
 
@@ -208,4 +208,4 @@ Dokumentumok jegyzéke
 
 | Hatósági frekvenciajegyzék | Megállapodás a légiforgalmi célú frekvenciakiosztási terv készítésére, valamint a frekvenciák kijelölésére és engedélyezésére vonatkozó összehangolt hatósági feladatokról, valamint a légiforgalmi célú hatósági frekvenciajegyzékről 2013. március 27. |
 
-[^9]: A 10. melléklet a 10/2013. (IX. 19.) NMHH rendelet 1. § (6) bekezdése szerint módosított szöveg.
+[^12]: A 10. melléklet a 10/2013. (IX. 19.) NMHH rendelet 1. § (6) bekezdése szerint módosított szöveg.

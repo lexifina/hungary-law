@@ -2,7 +2,7 @@
 
 ## a nem polgári célú rádióalkalmazásokhoz
 
-## Nemzetközi frekvenciakoordinációt a KFGH akkor kezdeményezi az NMHH hatáskörrel rendelkező szervezeti egységénél, ha az előzetes számítások alapján valószínűsíthető a megengedett térerősség túllépése, vagy a szomszédos ország koordinált és frekvenciajegyzékbe felvett állomásának zavarása.
+## Nemzetközi frekvenciakoordinációt a Hivatal akkor végez, ha az előzetes számítások alapján valószínűsíthető a megengedett térerősség túllépése, vagy a szomszédos ország koordinált és frekvenciajegyzékbe felvett állomásának zavarása.
 
 ## 1. Koordinációs megállapodások szerinti koordináció
 
