@@ -1,4 +1,4 @@
-34. § (1) A KFGH hatósági nyilvántartásában engedélyesenként nyilvántartja az érvényes egyedi engedélyeket és az abban foglalt
+34. § (1)[^75] A Hivatal nem polgári célú hatósági nyilvántartásában engedélyesenként nyilvántartja az érvényes egyedi engedélyeket és az abban foglalt
 
 a) rádióberendezések alapvető műszaki jellemzőit,
 
@@ -8,4 +8,7 @@ c) hálózat rendszertechnikai felépítését,
 
 d) üzemidőt, a telepítés, üzemben tartás célját.
 
-(2) A KFGH hatósági nyilvántartása nem nyilvános.
+(2)[^76] A Hivatal nem polgári célú hatósági nyilvántartása nem nyilvános.
+
+[^75]: A 34. § (1) bekezdés nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 18. § (6) bekezdése szerint módosított szöveg.
+[^76]: A 34. § (2) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (6) bekezdése szerint módosított szöveg.

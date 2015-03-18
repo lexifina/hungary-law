@@ -1,4 +1,4 @@
-5. § (1) A 4. §-ban foglaltak kivételével a rádióberendezés, rádiórendszer telepítéséhez frekvenciakijelölés szükséges. A frekvenciakijelölési eljárást a KFGH kérelemre folytatja le. Az eljárást megelőzően a KFGH – a felhasználó kérelmére – a 33. § (1) bekezdése szerinti tervezési adatszolgáltatást nyújt.
+5. § (1)[^24] A 4. §-ban foglaltak kivételével a rádióberendezés, rádiórendszer telepítéséhez frekvenciakijelölés szükséges. A frekvenciakijelölési eljárást a Hivatal kérelemre folytatja le. Az eljárást megelőzően a Hivatal – a felhasználó kérelmére – a 33. § (1) bekezdése szerinti tervezési adatszolgáltatást nyújt.
 
 (2) A kérelem tartalmazza:
 
@@ -42,6 +42,9 @@ en) a közegészségügyi jogszabályokba foglalt követelmények betartására 
 
 f) amennyiben nem készül műszaki terv, a frekvenciasáv, a csatorna- vagy a frekvenciahasználat egyéb jellemzőinek kiválasztását indokoló, valamennyi tényt és körülményt.
 
-(3) A KFGH a felhasználót – kérelemre – felhasználói gazdálkodásra feljogosítja, ha az alkalmazás körülményei ezt lehetővé teszik.
+(3)[^25] A Hivatal a felhasználót – kérelemre – felhasználói gazdálkodásra feljogosítja, ha az alkalmazás körülményei ezt lehetővé teszik.
 
 (4) A műszaki tervbe foglalt adatokat a kérelemben nem kell külön szerepeltetni.
+
+[^24]: Az 5. § (1) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^25]: Az 5. § (3) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (2) bekezdés e) pontja szerint módosított szöveg.

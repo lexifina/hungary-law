@@ -1,6 +1,6 @@
-29. § (1) A zavar kivizsgálása során a KFGH a rendelkezésre álló információk alapján műszeres zavarvizsgálatot kezdeményez, vagy intézkedik a zavar elhárítása iránt.
+29. § (1)[^64] A zavar kivizsgálása után a Hivatal a rendelkezésre álló információk alapján műszeres zavarvizsgálatot végez, vagy intézkedik a zavar elhárítása érdekében.
 
-(2) A zavarvizsgálat során a Hatóság mérőszolgálata a zavar okának megállapítására
+(2)[^65] A zavarvizsgálat során a Hivatal a zavar okának megállapítására
 
 a) az elektromágneses zavar okozására alkalmas villamos vagy elektronikus berendezés kisugárzott jelét rádiómérés útján ellenőrzi,
 
@@ -8,16 +8,22 @@ b) bármely nem polgári célra engedélyezett rádióberendezést, rádiórends
 
 c) együttműködik a zavar elhárításában érintett engedélyes illetékesével.
 
-(3) A zavarvizsgálat eredményeként a Hatóság mérőszolgálata nem polgári célú berendezés, rádióállomás esetén jegyzőkönyvet vesz fel.
+(3)[^66] A zavarvizsgálat eredményeként a Hivatal nem polgári célú berendezés, rádióállomás esetén jegyzőkönyvet vesz fel.
 
-(4) A zavarvizsgálati jegyzőkönyv alapján a KFGH
+(4)[^67] A zavarvizsgálati jegyzőkönyv alapján a Hivatal
 
 a) felszólítja a zavart okozó engedélyest a zavarás megszüntetésére, vagy
 
-b)[^30] felszólítja a bejelentő engedélyest a zavart rádióberendezés áthelyezésére vagy tartozékainak, paramétereinek megváltoztatására.
+b)[^68] felszólítja a bejelentő engedélyest a zavart rádióberendezés áthelyezésére vagy tartozékainak, paramétereinek megváltoztatására.
 
-(5) A zavart okozó engedélyes – a rendeltetéséből adódó feladatok végrehajtása mellett – a KFGH felhívása alapján az abban foglaltaknak megfelelően a zavart megszünteti és erről tájékoztatja a KFGH-t.
+(5)[^69] A zavart okozó engedélyes – a rendeltetéséből adódó feladatok végrehajtása mellett – a Hivatal felhívása alapján köteles az abban foglaltaknak megfelelően a zavart megszüntetni és erről tájékoztatni a Hivatalt.
 
-(6) A zavar elhárításáról a KFGH a bejelentőt tájékoztatja.
+(6)[^70] A zavar elhárításáról a Hivatal a bejelentőt tájékoztatja.
 
-[^30]: A 29. § (4) bekezdés b) pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (18) bekezdésével megállapított szöveg.
+[^64]: A 29. § (1) bekezdése az 1/2015. (III. 17.) NMHH rendelet 17. § (1) bekezdésével megállapított szöveg. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^65]: A 29. § (2) bekezdés nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^66]: A 29. § (3) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^67]: A 29. § (4) bekezdés nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés g) pontja szerint módosított szöveg.
+[^68]: A 29. § (4) bekezdés b) pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (18) bekezdésével megállapított szöveg.
+[^69]: A 29. § (5) bekezdése az 1/2015. (III. 17.) NMHH rendelet 17. § (2) bekezdésével megállapított szöveg. E módosító rendelet 34. § (2) bekezdése alapján a 2015. március 18-át követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^70]: A 29. § (6) bekezdése az 1/2015. (III. 17.) NMHH rendelet 18. § (5) bekezdés g) pontja szerint módosított szöveg.
