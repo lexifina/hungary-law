@@ -6,6 +6,8 @@ b) az állandóhelyű és a földi mozgószolgálatra vonatkozó két- és több
 
 c) speciális hazai frekvenciagazdálkodási követelmények és sávhasználati feltételek megadásával – szükség szerint a 2. mellékletben részletezetten –, amelyek az a) és a b) pont szerinti dokumentumokra történő hivatkozással nem rendelhetők el.
 
-(2) A dokumentumok között a RAT megadja azokat a nem kötelezően alkalmazandó nemzeti és európai szabványokat, amelyek útmutatást adnak az alkalmazható rádióberendezések és rádiórendszerek műszaki jellemzőiről. A 3. § (2) bekezdés szerinti alapvető frekvenciagazdálkodási jellemzők határértékei a harmonizált szabványokban találhatók. A hivatkozott harmonizált szabványokban, illetve e szabványok részeiben meghatározott műszaki jellemzők teljesítése esetében a polgári frekvenciagazdálkodó hatóság vélelmezi, hogy a rádióberendezés megfelel az Eht. 80. § (2)–(3) bekezdése szerinti egyes alapvető követelményeknek.
+(2)[^10] A dokumentumok között a RAT megadja azokat a nem kötelezően alkalmazandó nemzeti és európai szabványokat, amelyek útmutatást adnak az alkalmazható rádióberendezések és rádiórendszerek műszaki jellemzőiről. A 3. § (2) bekezdés szerinti alapvető frekvenciagazdálkodási jellemzők határértékei a harmonizált szabványokban találhatók. A hivatkozott harmonizált szabványokban, illetve e szabványok részeiben meghatározott műszaki jellemzők teljesítése esetében vélelmezni kell, hogy a rádióberendezés megfelel az Eht. 80. § (2)–(3) bekezdése szerinti egyes alapvető követelményeknek.
 
 (3) E rendeletben alkalmazott rövidítések értelmezését a 8. melléklet, a hivatkozott dokumentumok jegyzékét a 9. melléklet tartalmazza.
+
+[^10]: A 6. § (2) bekezdése az 1/2015. (III. 17.) NMHH rendelet 33. § (1) bekezdés b) pontja szerint módosított szöveg.

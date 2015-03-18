@@ -1,4 +1,4 @@
-## 12. §[^12] Az 1. és 2. mellékletben hivatkozott ERC- és ECC-határozatokon kívül az alábbi határozatok is teljesülnek a frekvenciasávok felhasználási szabályai tekintetében:
+## 12. §[^21] Az 1. és 2. mellékletben hivatkozott ERC- és ECC-határozatokon kívül az alábbi határozatok is teljesülnek a frekvenciasávok felhasználási szabályai tekintetében:
 
 1. ECC/DEC/(03)03: az ECC 2003. október 17-i határozata a „Határozat a repülőgépes földfelszíni távközlő rendszerre vonatkozó Schiever Terv kezeléséről” című (97)08 ERC-határozat visszavonásáról;
 
@@ -18,4 +18,4 @@
 
 9. ECC/DEC/(11)05: az ERC/DEC/(01)02, ERC/DEC/(01)03, ERC/DEC/(01)07, ERC/DEC/(01)10 és az ERC/DEC/(01)16 jelű ERC-határozat visszavonása, 2011. december 9.
 
-[^12]: A 12. § nyitó szövegrésze a 8/2013. (IX. 19.) NMHH rendelet 10. § a) pontja szerint módosított szöveg.
+[^21]: A 12. § nyitó szövegrésze a 8/2013. (IX. 19.) NMHH rendelet 10. § a) pontja szerint módosított szöveg.

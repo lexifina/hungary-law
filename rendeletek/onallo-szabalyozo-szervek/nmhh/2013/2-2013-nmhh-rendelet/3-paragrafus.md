@@ -20,7 +20,7 @@ b) vevőjellemzők: legnagyobb használható érzékenység, azonoscsatorna-szel
 
 c) antennajellemzők: nyereség, iránypontosság, keresztpolarizációs csillapítás, karakterisztika, aktív antenna mellékhullám-sugárzása.
 
-(3)[^3] A frekvenciaengedélyezéssel és -használattal kapcsolatos sávhasználati feltételek az alábbi csoportokba sorolhatóak:
+(3)[^9] A frekvenciaengedélyezéssel és -használattal kapcsolatos sávhasználati feltételek az alábbi csoportokba sorolhatóak:
 
 1. egyedi engedélyezési kötelezettség alóli mentesítés;
 
@@ -52,4 +52,4 @@ c) antennajellemzők: nyereség, iránypontosság, keresztpolarizációs csillap
 
 15. a rádióberendezésre vonatkozó – az Eht. 80. § (3) bekezdése szerinti – egyes alapvető követelmények.
 
-[^3]: A 3. § (3) bekezdése a 11/2013. (IX. 19.) NMHH rendelet 6. §-ával megállapított szöveg.
+[^9]: A 3. § (3) bekezdése a 11/2013. (IX. 19.) NMHH rendelet 6. §-ával megállapított szöveg.

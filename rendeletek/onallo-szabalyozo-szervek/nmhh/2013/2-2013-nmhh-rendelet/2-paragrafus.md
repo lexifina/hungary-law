@@ -14,7 +14,7 @@
 
 6. blokkgazdálkodás: frekvenciablokk felhasználásának frekvenciakijelölésben megadott feltételek között szabadon történő tervezése;
 
-6a.[^1] csoportkommunikációs rendszer: olyan rádiórendszer, amely állandóhelyű és földi mozgószolgálati csoportkommunikációs igényeket elégít ki, és amely az állandóhelyű és a földi mozgószolgálat alkalmazásai számára egyaránt kijelölt frekvenciasávban üzemel;
+6a.[^3] csoportkommunikációs rendszer: olyan rádiórendszer, amely állandóhelyű és földi mozgószolgálati csoportkommunikációs igényeket elégít ki, és amely az állandóhelyű és a földi mozgószolgálat alkalmazásai számára egyaránt kijelölt frekvenciasávban üzemel;
 
 7. csúcs EIRP-sűrűség: a legmagasabb átlagos kisugárzott teljesítmény frekvenciája körüli 50 MHz-es sávszélességen belül előforduló legmagasabb adásszint; ha az értéket x MHz sávszélességen mérik, akkor ezt a szintet 20lg(50/x) dB tényezővel kell csökkenteni;
 
@@ -30,7 +30,7 @@
 
 13. fix állomás: a mozgószolgálat olyan állandó telephelyű állomása, amely sem átjátszó, sem egyéb központi feladatot nem lát el;
 
-14. frekvenciakiosztási terv: a rádióalkalmazásra vonatkozó frekvenciasáv-használati, illetve csatornaelrendezési terv, amelyet nemzetközi vonatkozásban az arra illetékes értekezlet, nemzeti vonatkozásban a magyar frekvenciagazdálkodó hatóságok fogadnak el;
+14.[^4] frekvenciakiosztási terv: a rádióalkalmazásra vonatkozó frekvenciasáv-használati, illetve csatornaelrendezési terv, amelyet nemzetközi vonatkozásban az arra illetékes értekezlet, nemzeti vonatkozásban a Hivatal fogad el;
 
 15. gépjármű: olyan motorral hajtott, önállóan mozgásképes, legalább négykerekű, teljes, befejezett vagy nem teljes jármű, melynek legnagyobb tervezett sebessége meghaladja a 25 km/órát, beleértve annak pótkocsiját, amely önálló hajtással nem rendelkező kerekes jármű, és amelyet arra terveztek, gyártottak, hogy gépjármű vontassa;
 
@@ -38,19 +38,19 @@
 
 17. hálózati vezérlő egység (NCU): a légijárműveken elhelyezendő berendezés, amely a mobil vételi frekvenciasávban a zajszint növelésével biztosítja, hogy a 2. melléklet I. fejezet 13. pont 13.1. táblázatában felsorolt földi telepítésű elektronikus mobilhírközlő rendszerek által sugárzott jeleket ne lehessen venni a fedélzeten;
 
-18. hatósági frekvenciajegyzék: frekvenciakiosztási terv alapján készült frekvenciakijelölési terv, jegyzék, amelyet a polgári frekvenciagazdálkodó hatóság más hatóságokkal való szükség szerinti egyeztetés után internetes honlapján tesz közzé;
+18.[^5] hatósági frekvenciajegyzék: frekvenciakiosztási terv alapján készült frekvenciakijelölési terv, jegyzék, amelyet a Hivatal más hatóságokkal való szükség szerinti egyeztetés után az NMHH internetes honlapján tesz közzé;
 
 19. kis teljesítményű műholdas végfelhasználói állomás (LEST): a 10,7–12,75 GHz vagy a 19,7–20,2 GHz frekvenciasávban (űr–Föld irány) és a 14–14,25 GHz vagy a 29,5–30 GHz frekvenciasávban (Föld–űr irány) műholdas rendszer irányítása alatt működő, digitális átvitelt biztosító olyan nem koordinált földi végfelhasználói állomás, amelynek EIRP-je nem nagyobb, mint 34 dBW;
 
 20. kitöltési tényező: annak a bármely egyórás időtartamon belüli időnek a százalékban kifejezett aránya, amely alatt a rádióberendezés ténylegesen adás üzemmódban van;
 
-21. közös használatú frekvencia: a frekvenciakijelölés vagy rádióengedély alapján kettő vagy több jogosult vagy engedélyes által azonos területen, tetszőleges (megosztás nélküli) időben, a polgári frekvenciagazdálkodó hatóság által meghatározott zavarvédelemmel igénybe vehető frekvencia, amelynek felhasználói forgalmi viszonyait a polgári frekvenciagazdálkodó hatóság nem szabályozza;
+21.[^6] közös használatú frekvencia: a frekvenciakijelölés vagy rádióengedély alapján kettő vagy több jogosult vagy engedélyes által azonos területen, tetszőleges (megosztás nélküli) időben, a Hivatal által meghatározott zavarvédelemmel igénybe vehető frekvencia, amelynek felhasználói forgalmi viszonyait a Hivatal nem szabályozza;
 
 22. levegőbe sugárzott jel: az ultraszéles sávú technológia egyedi alkalmazásai által kibocsátott jelek azon része, amelyet nem nyel el az árnyékolás vagy a vizsgálat tárgyát képező anyag;
 
 23. maximális EIRP-sűrűség: a meghatározott tartomány bármely frekvenciáján tetszőleges irányban mért legmagasabb jelerősség;
 
-24. megosztott használatú frekvencia: a frekvenciakijelölés vagy rádióengedély alapján kettő vagy több jogosult vagy engedélyes által azonos területen, de különböző időben, a polgári frekvenciagazdálkodó hatóság által meghatározott zavarvédelemmel igénybe vehető frekvencia;
+24.[^7] megosztott használatú frekvencia: a frekvenciakijelölés vagy rádióengedély alapján kettő vagy több jogosult vagy engedélyes által azonos területen, de különböző időben, a Hivatal által meghatározott zavarvédelemmel igénybe vehető frekvencia;
 
 25. mozgószolgálati vezetéknélküli hozzáférési (MWA) rendszer: olyan rádiórendszer, amely felhasználói állomásokból, valamint a felhasználói állomásokat az alaphálózathoz kapcsoló rendszerből áll, és amelyben mozgó felhasználói állomás is lehet;
 
@@ -58,7 +58,7 @@
 
 27. nomadikus vezetéknélküli hozzáférési (NWA) rendszer: olyan rádiórendszer, amely felhasználói állomásokból, valamint a felhasználói állomásokat az alaphálózathoz kapcsoló rendszerből áll, és amelyben a felhasználói állomások csak állandó és változó telephelyűek lehetnek;
 
-27a.[^2] összes kisugárzott teljesítmény (TRP): a tér minden irányába kisugárzott teljesítmény integrálja, amely az antenna által ténylegesen kisugárzott teljesítmény nagyságát határozza meg;
+27a.[^8] összes kisugárzott teljesítmény (TRP): a tér minden irányába kisugárzott teljesítmény integrálja, amely az antenna által ténylegesen kisugárzott teljesítmény nagyságát határozza meg;
 
 28. szimplex frekvencia: olyan frekvencia, amelynek rendeltetés szerinti használata alapján egyidejűleg csak egyirányú összeköttetés valósulhat meg (vagy adási vagy vételi üzemmód);
 
@@ -68,5 +68,9 @@
 
 (2) Az e rendeletben alkalmazott egyéb frekvenciagazdálkodási fogalmakat – a megosztás kivételével – az R. és az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) szerint kell értelmezni.
 
-[^1]: A 2. § (1) bekezdés 6a. pontját a 11/2013. (IX. 19.) NMHH rendelet 5. §-a iktatta be.
-[^2]: A 2. § (1) bekezdés 27a. pontját a 8/2013. (IX. 19.) NMHH rendelet 6. §-a iktatta be.
+[^3]: A 2. § (1) bekezdés 6a. pontját a 11/2013. (IX. 19.) NMHH rendelet 5. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés 14. pontja az 1/2015. (III. 17.) NMHH rendelet 33. § (1) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés 18. pontja az 1/2015. (III. 17.) NMHH rendelet 33. § (1) bekezdés a) pont ab) alpontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 21. pontja az 1/2015. (III. 17.) NMHH rendelet 33. § (1) bekezdés a) pont ac) alpontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés 24. pontja az 1/2015. (III. 17.) NMHH rendelet 33. § (1) bekezdés a) pont ad) alpontja szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés 27a. pontját a 8/2013. (IX. 19.) NMHH rendelet 6. §-a iktatta be.
