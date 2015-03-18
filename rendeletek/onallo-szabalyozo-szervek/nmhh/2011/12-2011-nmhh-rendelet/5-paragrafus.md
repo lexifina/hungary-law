@@ -1,6 +1,6 @@
-## 4. A KFGH feladatai
+## 4. [^8] A Hivatal nem polgári célú frekvenciagazdálkodási feladatai
 
-## 5. § A KFGH
+## 5. §[^9] A Hivatal
 
 a) lefolytatja a nem polgári célú frekvenciakijelölési és rádióengedélyezési eljárásokat,
 
@@ -15,3 +15,6 @@ e) ellátja – a NATO illetékes szerveivel együttműködve – a NATO Nemzeti
 f) nyilvántartja – felhasználónként, rendeltetés és műszaki jellemzők szerint – a nem polgári célú frekvenciahasználatot és a nem polgári célú frekvenciagazdálkodás körébe tartozó rádióberendezéseket,
 
 g) adatszolgáltatást végez a felhasználók, továbbá az érintett államigazgatási szervek részére.
+
+[^8]: A 4. alcím címe az 1/2015. (III. 17.) NMHH rendelet 22. § c) pontja szerint módosított szöveg.
+[^9]: Az 5. § nyitó szövegrésze az 1/2015. (III. 17.) NMHH rendelet 22. § d) pontjával megállapított szöveg.
