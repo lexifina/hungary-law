@@ -6,7 +6,7 @@
 
 (2) Az e törvényben meghatározott nemzeti vagyon körébe tartozó vagyonnak minősül az e törvény hatálybalépését követően az állam vagy az önkormányzat tulajdonába kerülő vagyon. Az 1. mellékletben nem szereplő, e törvény hatálybalépését követően létrejövő vagy bármilyen más jogcímen az állam tulajdonába kerülő folyóvizek és természetes tavak, a medrükkel együtt, valamint országos törzshálózati vasúti pálya e törvény erejénél fogva az állam kizárólagos tulajdonában álló nemzeti vagyonnak minősül.
 
-(3) Magyarország határa által körbezárt területen lévő nemzeti vagyonra vonatkozó polgári jogi szerződésben a nemzeti vagyonnal rendelkezni jogosult irányadóként kizárólag a magyar nyelvet, valamint a magyar jog alkalmazását, és jogvita esetére kizárólag a magyar bíróság – ide nem értve a választottbíróságot – joghatóságát kötheti ki. A nemzeti vagyonnal rendelkezni jogosult e jogviták eldöntésére választottbírósági eljárást nem köthet ki.
+(3) Nemzetközi szerződés eltérő rendelkezése hiányában, Magyarország határa által körbezárt területen lévő nemzeti vagyonra vonatkozó polgári jogi szerződésben a nemzeti vagyonnal rendelkezni jogosult irányadóként kizárólag a magyar nyelv és a magyar jog alkalmazását, jogvita esetére kizárólag a magyar bíróság joghatóságát kötheti ki. A magyar bíróság joghatóságának kizárólagossága nem érinti a választottbíróság kikötésének jogát.
 
 (4) A (3) bekezdés nem alkalmazható a nemzeti vagyont érintő, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott következő pénzügyi eszközökre vonatkozó nemzetközi pénz- és tőkepiaci ügyletekre:
 
