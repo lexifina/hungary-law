@@ -40,7 +40,7 @@
 
 20. 19. § (7) bekezdésében az „a (6) bekezdés” szövegrész helyébe az „az (5) bekezdés” szöveg,
 
-21. 26. § (2) bekezdésében a „20. § (1) bekezdés a)–c), e)–f) és h)” szövegrész helyébe az „17. § (2) bekezdés 26–35. és 36–42.” szöveg,
+21.
 
 22. 32. § (3) bekezdésében az „az országos nukleáris és balesetelhárítási intézkedési tervbe illeszkedő” szövegrész helyébe az „az országos nukleárisbaleset-elhárítási intézkedési tervbe illeszkedő” szöveg,
 
