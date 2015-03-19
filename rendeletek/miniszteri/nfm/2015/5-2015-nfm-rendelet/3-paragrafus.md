@@ -1,5 +1,0 @@
-3. § (1) A 2. § (1) bekezdés szerinti egyedi támogatás a Bányavagyon-hasznosító Nonprofit Kft. által a szénbányászati szerkezetátalakításból átvett és a bányászatban jelentkező egyéb állami kötelezettségek – köztük az állami tulajdonú meddő szénhidrogén kutak kezelése és a bánya-erőmű integrációs szerződések megkötésekor még nem ismert kötelezettségek – vagyon-értékesítésből nem fedezett részének finanszírozására, továbbá a Bányavagyon-hasznosító Nonprofit Kft. működési költségeire – beleértve a mecseki uránbányászok baleseti járadékaival és egyéb kártérítési kötelezettségeivel összefüggésben felmerült működési költségeit is – használható fel.
-
-(2) A 2. § (1) bekezdés szerinti egyedi támogatás folyósítására negyedéves ütemezéssel kerül sor. A folyósításról – a Bányavagyon-hasznosító Nonprofit Kft. kezdeményezése alapján – a bányászati ügyekért felelős miniszter a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) útján gondoskodik.
-
-(3) A 2. § (1) bekezdés szerinti egyedi támogatás felhasználásáról a Bányavagyon-hasznosító Nonprofit Kft. negyedévente beszámol a bányászati ügyekért felelős miniszternek.
