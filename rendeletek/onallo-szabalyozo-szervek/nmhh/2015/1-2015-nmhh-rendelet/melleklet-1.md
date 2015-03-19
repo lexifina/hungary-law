@@ -1,3 +1,6 @@
-## 35. § Hatályát veszti a nemzeti frekvenciafelosztás megállapításáról szóló 15/2012. (XII. 29.) NMHH rendelet és a polgári célra használható frekvenciasávok felhasználási szabályainak megállapításáról szóló 2/2013. (I. 7.) NMHH rendelet módosításáról szóló 8/2013. (IX. 19.) NMHH rendelet.
+## 35. §[^9]
 
-1. melléklet az 1/2015. (III. 17.) NMHH rendelethez
+1–2. melléklet az 1/2015. (III. 17.) NMHH rendelethez[^10]
+
+[^9]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

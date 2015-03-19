@@ -1,1 +1,0 @@
-## „(6) Az FNFT nemzeti felosztást tartalmazó részének „Közös” (G) oszlopában megadott rádiószolgálatok részére felosztott frekvenciasávokat nem polgári és polgári célra egyaránt fel lehet használni. Ezekben a frekvenciasávokban frekvenciahasználati jog csak a nem polgári és a polgári frekvenciagazdálkodási szempontok összehangolása után szerezhető.”
