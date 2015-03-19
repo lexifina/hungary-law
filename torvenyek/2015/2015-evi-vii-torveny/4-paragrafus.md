@@ -1,0 +1,3 @@
+4. § (1) Az alvállalkozó köteles biztosítani a munka törvénykönyvéről szóló 2012. évi I. törvény szerinti egyenlő bánásmód követelményét. Az alvállalkozó a Beruházás megvalósítását szolgáló foglalkoztatásra irányuló jogviszony létesítése során az azonos vagy hasonló iparágakban hasonló munkakört betöltők átlagjövedelmét köteles alapul venni.
+
+(2) A Fővállalkozó, illetve az alvállalkozó köteles felhívni az alvállalkozó, illetve a további alvállalkozók figyelmét arra, hogy az (1) bekezdésben foglaltaknak folyamatosan meg kell felelnie, ennek ellenőrzése a munkaügyi ellenőrzés szabályai szerint történik.
