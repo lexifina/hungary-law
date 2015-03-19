@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-71-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 1994-71-00-00.7 |
 | 2012-06-13 | 2012. évi LXV. törvény | 1994-71-00-00.8 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 1994-71-00-00.9 |
+| 2015-03-19 | 2015. évi VII. törvény | 1994-71-00-00.10 |
