@@ -6,7 +6,7 @@ b) mind a biztonságot felügyelő szervek, mind a kockázattal járó tevékeny
 
 c) a biztonságért való elsődleges felelősség azt a személyt vagy szervezetet terheli, aki, vagy amely a sugárzásból eredő kockázat növekedését okozó létesítmény vagy tevékenység engedélyese;
 
-d) az atomenergia alkalmazásának általános feltétele, hogy az általa nyújtott társadalmi előnyök nagyobbak legyenek, mint a nukleáris létesítmény területén tartózkodó személyeket, a lakosságot, a környezetet és az anyagi javakat fenyegető kockázatok;
+d) az atomenergia alkalmazásának általános feltétele, hogy az általa nyújtott társadalmi előnyök nagyobbak legyenek, mint az atomenergiát alkalmazó természetes személyt, az atomenergia alkalmazásával kapcsolatos tevékenységet végző munkavállalót, a lakosságot, a környezetet és az anyagi javakat fenyegető kockázatok;
 
 e) az atomenergia alkalmazója biztosítja az ember és a környezet sugárzástól való ésszerű védelmét a 4. § (1) bekezdése szerint;
 

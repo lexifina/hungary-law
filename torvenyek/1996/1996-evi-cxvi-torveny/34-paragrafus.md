@@ -1,6 +1,6 @@
 ## Idegen ingatlannal kapcsolatos jogok és kötelezettségek, biztonsági övezet
 
-34. § (1) A nukleáris létesítmény vagy radioaktívhulladék-tároló környezete – ideértve annak felszín alatti részét is – biztonsági övezetté jelölhető ki a létesítmény, illetve annak környezete és az ott élő lakosság védelme érdekében.
+34. § (1) A nukleáris létesítménynek és a radioaktívhulladék-tárolónak a környezete – ideértve annak felszín alatti részét is – biztonsági övezetté jelölhető ki a létesítmény, illetve annak környezete és az ott élő lakosság védelme érdekében.
 
 (2) A biztonsági övezetben telekalakítási, illetve építési tilalom, bányászati, föld- és vízhasználati jog korlátozása, valamint egyéb használati korlátozás rendelhető el.
 

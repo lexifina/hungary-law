@@ -1,1 +1,1 @@
-46. § Nukleáris veszélyhelyzetben a jelentéstételi kötelezettséget a balesetelhárítási és intézkedési terv szabályozza.
+46. § Nukleáris veszélyhelyzetben a jelentéstételi kötelezettséget a Nukleárisbaleset-elhárítási Intézkedési Terv szabályozza.

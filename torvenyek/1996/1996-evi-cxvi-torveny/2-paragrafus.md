@@ -28,7 +28,7 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 9. rendszerelem: a rendszer szerelési egységként is elhatárolható komponense, részegysége vagy önállóan kezelhető készüléke, egy adott funkció megvalósításában önálló részfunkciót ellátó elem, így különösen berendezés, műszer, csővezeték, építmény, épületszerkezet;
 
-10. nukleáris rendszer, rendszerelem: nukleáris létesítményeknek a nukleáris biztonság szempontjából fontos rendszerei, rendszerelemei;
+10. nukleáris rendszer, rendszerelem: nukleáris létesítményeknek és a radioaktívhulladék-tárolóknak a nukleáris biztonság szempontjából fontos rendszerei, rendszerelemei;
 
 11. atomreaktor: olyan berendezés, amely szabályozott nukleáris láncreakció megvalósítására alkalmas;
 
@@ -36,13 +36,13 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 13. nukleáris üzemanyag: atomreaktor üzemanyaga, amely nukleáris anyagot tartalmaz;
 
-14. kiégett üzemanyag: az atomreaktorban besugárzott és a reaktorból véglegesen eltávolított nukleáris üzemanyag, amely az atomreaktoron kívüli újrafeldolgozhatósága miatt nem minősül hulladéknak, vagy ha radioaktív hulladéknak minősül, annak végleges elhelyezéséről gondoskodni kell;
+14. kiégett üzemanyag: az atomreaktorban besugárzott és a reaktorból véglegesen eltávolított nukleáris üzemanyag, amely az atomreaktoron kívüli újrafeldolgozhatósága miatt nem minősül hulladéknak, vagy ha erre vonatkozó döntés alapján nem kerül újrafeldolgozásra, akkor a továbbiakban radioaktív hulladéknak minősül és a végleges elhelyezéséről gondoskodni kell;
 
 15. radioaktív hulladék: további felhasználásra már nem kerülő olyan radioaktív anyag, amely sugárvédelmi jellemzők alapján nem kezelhető közönséges hulladékként;
 
-16. radioaktívhulladék-tároló: a radioaktív hulladék végleges elhelyezésére szolgáló létesítmény;
+16. radioaktívhulladék-tároló: a radioaktív hulladék végleges és átmeneti elhelyezésére szolgáló létesítmény;
 
-17. radioaktív hulladék átmeneti tárolója: a radioaktív hulladék időleges elhelyezésére szolgáló létesítmény;
+17. radioaktív hulladék átmeneti tárolója: a 7. pont b) alpontja szerinti létesítmények kivételével a radioaktív hulladék időleges elhelyezésére szolgáló létesítmény;
 
 18. atomerőmű: olyan energiaátalakító létesítmény, amely nukleáris láncreakció felhasználásával villamos energiát termel;
 
@@ -66,7 +66,7 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 28. nukleárisüzemanyag-ciklus lezárása: a kiégett üzemanyag hazai vagy külföldi radioaktívhulladék-tárolóban való végleges elhelyezése feldolgozás nélkül, vagy a kiégett üzemanyag előzetes feldolgozása és az ennek során keletkezett radioaktív hulladékok végleges elhelyezése hazai vagy külföldi radioaktívhulladék-tárolóban, beleértve a nukleárisüzemanyag-ciklus lezárására vonatkozó döntést műszaki szempontból megalapozó tevékenységet;
 
-29. nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a nukleáris létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme;
+29. nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény, valamint a radioktívhulladék-tároló életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak és a lakosságnak a nukleáris létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme;
 
 30. nukleáris védettség: azon tevékenységek, eszközök és eljárások összessége, amelyek a szabotázs, a nukleáris vagy más radioaktív anyaggal elkövetett, a Büntető Törvénykönyv (a továbbiakban: Btk.) szerinti visszaélés, közveszélyokozás, környezetkárosítás, illetve jogtalan eltulajdonítás megelőzésére, észlelésére, elhárítására és következményeinek kezelésére irányulnak;
 
@@ -78,7 +78,7 @@ b) az a) alpontban felsorolt nukleáris létesítményekhez közvetlenül kapcso
 
 34. fizikai védelmi terv: a fizikai védelmi rendszer működését, az elrettentés, észlelés, késleltetés és elhárítás fizikai védelmi funkciók konkrét megvalósulását leíró terv;
 
-35. szabotázs: nukleáris vagy más radioaktív anyag nukleáris létesítmény, radioaktív hulladék átmeneti és végleges tárolója, valamint a radiológiai következmények szempontjából jelentős rendszer, rendszerelem ellen irányuló tevékenységgel szándékosan elkövetett – a Btk., illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti – közveszély okozása, közérdekű üzem működésének megzavarása vagy kísérletének, előkészületének, szándékos környezetkárosítás vagy kísérletének rendkívüli esemény bekövetkezését célzó elkövetése;
+35. szabotázs: nukleáris vagy más radioaktív anyag nukleáris létesítmény, radioaktívhulladék-tároló, valamint a radiológiai következmények szempontjából jelentős rendszer, rendszerelem ellen irányuló tevékenységgel szándékosan elkövetett – a Btk., illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti – közveszély okozása, közérdekű üzem működésének megzavarása vagy kísérletének, előkészületének, szándékos környezetkárosítás vagy kísérletének rendkívüli esemény bekövetkezését célzó elkövetése;
 
 36. nukleáris vagy más radioaktív anyaggal elkövetett közveszély okozása, környezetkárosítás:
 
@@ -106,4 +106,8 @@ b) nukleáris vagy más radioaktív anyaggal összefüggésben elkövetett, a Bt
 
 44. végleges elhelyezés: a kiégett üzemanyag és a radioaktív hulladék visszanyerés szándéka nélkül történő végső, engedélyezett elhelyezése;
 
-45. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+45. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
+46. nukleáris létesítmény létesítményszintű nukleáris biztonságával kapcsolatos engedély: a nukleáris létesítmény és radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez, telephelye jellemzőinek és alkalmasságának megállapításához, létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, létesítményszintű tervezett üzemidején túli üzemeltetéséhez, létesítményszintű átalakításához, végleges üzemen kívül helyezéséhez vagy megszüntetéséhez szükséges engedély;
+
+47. felszín alatti kutatólaboratórium: kutatólétesítmény, a nagy aktivitású radioaktív hulladék végleges elhelyezését előkészítő tevékenység részeként a felszín alatt tetszőleges mélységben és geometriával kialakított földalatti térség és az ott működtetett kísérleti, kutató-fejlesztő és megfigyelő berendezések együttese, amelynek rendeltetése a földtani környezet és azon belül a befogadó kőzet részletes megismerése, a végleges elhelyezés műszaki megoldásainak optimalizálása, a földtani (természetes) és műszaki (épített) gátrendszer kölcsönhatásainak vizsgálata, és mindezek bemutatása a nyilvánosság számára;

@@ -22,7 +22,7 @@ de) a munkavállalók foglalkoztatási előírásait,
 
 df) a nukleáris biztonsági és műszaki sugárvédelmi hatósági tevékenység szabályait,
 
-dg) a nukleáris létesítményekkel összefüggő építmények építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit;
+dg) a nukleáris létesítményekkel összefüggő építmények körét, a nukleáris létesítményekkel, valamint a nukleáris létesítményekkel összefüggő építményekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, a műszaki dokumentáció részletes tartalmi követelményeit, az építésfelügyeleti ellenőrzés építéshatósági eljárásának és ellenőrzésének rendjét, továbbá építészeti és épületgépészeti nukleáris biztonsági követelményeit;
 
 e) az atomenergia alkalmazóinak, valamint az illetékes hatóságoknak, az érintett ágazati és területi szerveknek mind a nukleáris veszélyhelyzetre való felkészüléssel és tervezéssel, mind a nukleáris veszélyhelyzet elhárításával, továbbá a lakosság hiteles és időben történő tájékoztatásával összefüggő feladatait és kötelezettségeit;
 
@@ -58,10 +58,18 @@ t) a radioaktívhulladék-tároló, a radioaktív hulladék átmeneti tárolója
 
 u) a 62. § (6) bekezdése szerinti testület létrehozását, összetételét, tevékenységét, álláspontja kialakításának rendjét és működésének feltételeit;
 
-v) az atomenergia-felügyeleti szerv e törvény szerinti
+v) az atomenergia-felügyeleti szerv
 
-va) eljárásaira vonatkozó eljárási határidőket, valamint
+va) eljárásaira vonatkozó eljárási határidőket,
 
-vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt;
+vb) eljárásaiban közreműködő szakhatóság eljárására irányadó ügyintézési határidőt,
 
-v) a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója engedélyezési, ellenőrzési, jelentési követelményeit.
+vc) által lefolytatott eljárásban benyújtandó műszaki dokumentáció nyelvét,
+
+vd) által lefolytatott, a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatóval, és az előzetes típusengedélyezési eljárással kapcsolatos részletes szabályokat,
+
+ve) által lefolytatandó, a 18/D. § szerinti szakmagyakorlásra alkalmasság igazolásának és a nyilvántartásba vétel részletes szabályait, továbbá a nyilvántartás adattartalmát.
+
+v)
+
+w) a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait.

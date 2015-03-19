@@ -1,6 +1,6 @@
 ## Felügyeleti díj
 
-19. § (1) A létesülő és üzemelő nukleáris létesítmények az atomenergia-felügyeleti szervnek felügyeleti díjat kötelesek fizetni, amely adók módjára behajtható köztartozásnak minősül.
+19. § (1) A létesülő és üzemelő nukleáris létesítmény engedélyese az atomenergia-felügyeleti szervnek felügyeleti díjat köteles fizetni, amely adók módjára behajtható köztartozásnak minősül.
 
 (2) A felügyeleti díj éves mértéke:
 
@@ -16,6 +16,6 @@ c) az atomerőművi kiégett üzemanyag átmeneti tárolója esetén az előző 
 
 (5) A határidőben meg nem fizetett felügyeleti díj összegét az atomenergia-felügyeleti szerv határozatában állapítja meg, és kötelezi a díjfizetésre kötelezettet annak megfizetésére.
 
-(6) A felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén a (3)–(5) bekezdésben meghatározott esedékesség napjától a teljesítés napjáig az adózás rendjéről szóló törvény (a továbbiakban: Art.) 165–167. §-a szerinti késedelmi pótlékot kell fizetni.
+(6) A felügyeleti díj meg nem fizetése vagy késedelmes teljesítése esetén a (3) és (4), valamint a (4c)–(5) bekezdésben meghatározott esedékesség napjától a teljesítés napjáig az adózás rendjéről szóló törvény (a továbbiakban: Art.) 165–167. §-a szerinti késedelmi pótlékot kell fizetni.
 
-(7) Ha a díjfizetésre kötelezett a (6) bekezdés szerinti határozatban meghatározott teljesítési határidőig fizetési kötelezettségét nem teljesíti, akkor az atomenergia-felügyeleti szerv az Art. 161. §-a szerint végrehajtást kezdeményez.
+(7) Ha a díjfizetésre kötelezett az (5) bekezdés szerinti határozatban meghatározott teljesítési határidőig fizetési kötelezettségét nem teljesíti, akkor az atomenergia-felügyeleti szerv az Art. 161. §-a szerint végrehajtást kezdeményez.

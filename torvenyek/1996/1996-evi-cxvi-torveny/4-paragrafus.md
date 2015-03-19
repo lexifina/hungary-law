@@ -22,7 +22,7 @@ d) a rendkívüli esemény bekövetkezésének kockázata csökkenjen, kialakul�
 
 (8) Az atomenergia biztonságos alkalmazását – beleértve a nukleárisbaleset-elhárítást – és az ezzel összefüggő kutatási-fejlesztési feladatok megoldását a tudomány és a technika fejlesztésével, a kutatómunka összehangolt szervezésével, a hazai, illetve a nemzetközi tudományos kutatások eredményeinek gyakorlati alkalmazásával, valamint szakemberek képzésével, továbbképzésével kell elősegíteni.
 
-(9) Nukleáris létesítmény biztonságának növeléséhez szükséges kutatási-fejlesztési tevékenység költségei az engedélyest terhelik.
+(9) Nukleáris létesítmény, radioaktívhulladék-tároló biztonságának növeléséhez szükséges kutatási-fejlesztési tevékenység költségei az engedélyest terhelik.
 
 (10) Az atomenergia biztonságos alkalmazásának hatósági felügyeletét szolgáló műszaki megalapozó tevékenységek költségét a központi költségvetésből kell biztosítani.
 
