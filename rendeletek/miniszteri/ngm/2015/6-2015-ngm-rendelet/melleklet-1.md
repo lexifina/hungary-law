@@ -1,3 +1,5 @@
-## 6. § Hatályát veszti az egyedi támogatások, költségtérítések mértékéről és felhasználási szabályairól szóló 5/2015. (II. 9.) NFM rendelet.
+## 5–6. §[^2]
 
 1. melléklet a 6/2015. (III. 18.) NGM rendelethez
+
+[^2]: Az 5–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
