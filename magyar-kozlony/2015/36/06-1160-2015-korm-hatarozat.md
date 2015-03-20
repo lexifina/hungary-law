@@ -1,0 +1,83 @@
+# A Kormány 1160/2015. (III. 20.) Korm. határozata
+
+Magyar Közlöny 2015. évi 36. szám, 2015. március 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f68441f28754ff3e5fc3d8efa3b7e9feabe681c1/dokumentumok/6c037de941952865d90c65f9ca373d833fd24c15/letoltes)
+
+---
+
+A Kormány 1160/2015. (III. 20.) Korm. határozata
+a Nemzeti Energiastratégia energiafelhasználás-előrejelzéseinek frissítéséről
+A Kormány – figyelemmel a Nemzeti Energiastratégiáról szóló 77/2011. (X. 14.) OGY határozat 4. pont w) és
+z) alpontjaiban foglaltakra – megvizsgálta a Nemzeti Energiastratégia energiafelhasználásra vonatkozó előrejelzéseit
+és a Nemzeti Energiastratégia energiafelhasználási előrejelzései című melléklete szerinti adatokat az 1. mellékletben
+közzéteszi.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1160/2015. (III. 20.) Korm. határozathoz
+A Nemzeti Energiastratégia energiafelhasználási előrejelzései
+Mértékegység: PJ
+2012 2020 2030
+tényadat „Ölbe tett kéz” „Közös erőfeszítés” „Ölbe tett kéz” „Közös erőfeszítés”
+1. Primerenergia-felhasználás* 992 1101 1009 1217 1028
+2. Végső energiafogyasztás 677 766 693 840 692
+2. a) Ipari szektor 96 124 114 139 126
+2. b) Közlekedés 157 161 147 173 151
+2. c) Lakosság 215 247 207 284 187
+2. d) Kereskedelem és szolgáltatás 116 126 118 135 121
+
+2. e) Mezőgazdaság 17 18 17 19 17
+2. f) Nem energetikai célú felhasználás 77 90 90 90 90
+3. Villamosenergia-felhasználás** 153 170 164 197 181
+*Primerenergia-felhasználás hálózati veszteségre és erőművi önfogyasztásra vonatkozó előrejelzései:
+2012 2020 2030
+tényadat „Ölbe tett kéz” „Közös erőfeszítés” „Ölbe tett kéz” „Közös erőfeszítés”
+Hálózati veszteség 22 24 23 26 24
+Erőművi önfogyasztás 9 10 9 11 10
+** A megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül
+helyezéséről szóló 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv szerinti bruttó végső villamosenergia-felhasználás erőművi önfogyasztással és
+hálózati veszteséggel, valamint az energiaszektor saját fogyasztásával együtt.
+Az előrejelzés a 2012. évi értékekből kiindulva készült a jelenlegi trendek, GDP előrejelzések, illetve
+valószínűsíthetően megvalósuló energiahatékonysági beruházások és az ezekhez rendelt pénzügyi keretek
+számbavételével.
+Két forgatókönyv frissítése készült el: az „Ölbe tett kéz” (BAU) forgatókönyv és a „Közös erőfeszítés” (Policy)
+forgatókönyv, amely az Európai Unióval kapcsolatos kötelezettségeinkből fakadó és az azon felül reálisnak
+tekinthető energiahatékonysági intézkedések végrehajtásával, illetve energiamegtakarítással számol. Mindezt
+figyelembe véve az ennél jelentősebb energia-megtakarítást előrejelző forgatókönyv, mint a korábbi Zöld
+Forgatókönyv, nem mutatna be reálisan megvalósítható energiafelhasználási pályát, ezért annak szerepeltetése
+nem indokolt.
+A Nemzeti Energiastratégiában eddig megadott előrejelzésekhez képest mind a primerenergia-felhasználás, mind
+pedig a végső energiafogyasztás mérsékeltebb növekedésével lehet számolni. Fontos megjegyezni, hogy mindkét
+forgatókönyv a villamosenergia-import csökkenésével és a hazai villamosenergia-termelés növekedésével számol,
+amelynek következtében a hazai átalakítási veszteség és annak velejárójaként a hazai primerenergia fogyasztás
+rövidtávon növekszik.
+1. Az„Ölbe tett kéz”(BAU) forgatókönyv:
+a) az energiahatékonysági intézkedések elmaradásával,
+b) a villamosenergia-fogyasztás 1,5%-os ütemű éves növekedésével,
+c) a GDP növekedés erősödésével a lakossági energiafogyasztás növekedésével,
+d) az ipari szektor, a közlekedési szektor, a kereskedelmi és a szolgáltatási szektor energiafogyasztása esetében
+GDP-vel arányos növekedéssel,
+e) fentiek következtében a végső energiafogyasztás növekedésével,
+f) az energiahatékonysági intézkedések elmaradása miatt a fűtési és hűtési energiaigény 1,2%-os
+növekedésével
+számol.
+2. A„Közös erőfeszítés”(Policy) forgatókönyv:
+a) az energiahatékonysági intézkedések sikerességével és a kitűzött energia-megtakarítási célok elérésével,
+b) a lakosság energiatudatosságot célzó szemléletformálásának eredményességével,
+c) az energiahatékonysági intézkedéseknek köszönhetően – egy rövidtávú növekedés után (a GDP növekedés
+és a jóléti intézkedések hatására visszatér egy válság előtti pályára) – a lakossági energiafogyasztás
+csökkenésével,
+d) a villamosenergia-fogyasztás 1%-os ütemű éves növekedésével,
+e) az energiahatékonysági intézkedések végrehajtásának eredményeként a fűtési és hűtési energiaigény
+csökkenésével,
+f) az ipari szektor, a közlekedés, a kereskedelmi és a szolgáltatási szektor kisebb mértékű (de szintén GDP
+növekedés arányos) növekedésével,
+g) a fentiek következtében a végső energiafogyasztás rövidtávú növekedésével, majd ezt követően
+stagnálásával
+számol.
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó.
+Felelős kiadó: Majláth Zsolt László ügyvezető.
