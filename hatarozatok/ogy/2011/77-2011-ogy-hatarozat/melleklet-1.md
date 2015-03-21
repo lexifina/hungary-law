@@ -46,7 +46,7 @@
 
 ## l) továbbra is gondoskodjon a nukleáris hulladékok biztonságos kezelésére és végleges elhelyezésére irányuló programok megvalósításáról, az ehhez szükséges feltételek biztosításáról;
 
-## m) gondoskodjon az energetikailag hasznosítható hazai ásványvagyon felkutatásáról és a stratégiai készletgazdálkodás feltételeinek biztosításáról, valamint a hazai szénbányászati szakmakultúra fennmaradásának feltételeiről – ennek megfelelően dolgozzon ki cselekvési tervet a hazai ásványvagyon készletgazdálkodásáról és hasznosításáról;
+## m) gondoskodjon az energetikailag hasznosítható hazai ásványvagyon felkutatásáról és a stratégiai készletgazdálkodás feltételeinek biztosításáról, valamint a hazai szénbányászati szakmakultúra fennmaradásának feltételeiről – ennek megfelelően dolgozzon ki cselekvési tervet a hazai ásványvagyon készletgazdálkodásáról és hasznosításáról;[^2]
 
 ## n) a fogyasztók információval való ellátása érdekében segítse elő a háztartások energiafelhasználási adatainak megismerhetőségét és az energiastatisztikák elérhetőségét;
 
@@ -64,7 +64,11 @@
 
 ## u) dolgozzon ki a fogyasztók energia- és környezettudatos szemléletének formálására és fejlesztésére irányuló cselekvési tervet; gondoskodjon a fenntartható fejlődéssel és az energiatudatossággal kapcsolatos ismeretek oktatásáról, illetve a médián keresztüli terjesztéséről; hozzon létre a lakosság széles körét elérő energetikai tanácsadó rendszert;
 
-## v)[^2] legalább kétévenként készítsen tájékoztatót az energiapolitika megvalósulásáról és annak a 2. pont b) alpontjában meghatározott szakterületekkel történő összhangjáról az Országgyűlés feladatkörrel rendelkező bizottsága részére, és amennyiben az energiapolitika feltételrendszerében bekövetkezett változások indokolják, egyidejűleg tegyen javaslatokat az Energiastratégia kiigazítására.
+## v)[^3] legalább kétévenként készítsen tájékoztatót az energiapolitika megvalósulásáról és annak a 2. pont b) alpontjában meghatározott szakterületekkel történő összhangjáról az Országgyűlés feladatkörrel rendelkező bizottsága részére, és amennyiben az energiapolitika feltételrendszerében bekövetkezett változások indokolják, egyidejűleg tegyen javaslatokat az Energiastratégia kiigazítására;
+
+## w)[^4] kétévente vizsgálja felül, szükség esetén frissítse az Energiastratégia energiafelhasználásra vonatkozó előrejelzéseit és gondoskodjon azok közzétételéről;
+
+## z)[^5] ha a w) alpont szerinti frissített előrejelzések közzétételre kerülnek, akkor az 5. táblázat értékei helyett azokat tekintse irányadónak a Kormány az energetikai vonatkozású tervezései során.
 
 ## 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -74,4 +78,7 @@
 
 20114130000077_1
 
-[^2]: A 4. pont v) alpontja a 10/2014. (II. 24.) OGY határozat 161. § (7) bekezdésével megállapított szöveg.
+[^2]: Lásd az 1345/2018. (VII. 26.) Korm. határozatot.
+[^3]: A 4. pont v) alpontja a 10/2014. (II. 24.) OGY határozat 161. § (7) bekezdésével megállapított szöveg.
+[^4]: A 4. pont w) alpontját az 5/2015. (III. 20.) OGY határozat 1. pontja iktatta be.
+[^5]: A 4. pont z) alpontját az 5/2015. (III. 20.) OGY határozat 1. pontja iktatta be.
