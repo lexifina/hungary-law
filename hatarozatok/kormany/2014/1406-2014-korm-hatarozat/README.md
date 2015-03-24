@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1406-30
 | --- | --- | --- |
 | 2014-07-18 | 2014-1406-30-22.1 | 1406/2014. (VII. 18.) Korm. határozat |
 | 2014-07-19 | 2014-1406-30-22.2 | 2010: CXXX. törvény |
+| 2015-03-24 | 2014-1406-30-22.3 | 1168/2015. (III. 24.) Korm. határozat |
