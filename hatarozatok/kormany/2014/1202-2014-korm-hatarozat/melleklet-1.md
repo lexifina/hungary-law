@@ -30,7 +30,7 @@
 
 ## Felelős: Miniszterelnökséget vezető államtitkár, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15., a Miniszterelnökség igazgatása részére átcsoportosított 284,2 millió forintot tekintetében „2015. június 30.
+## Határidő: 2014. december 15., a Miniszterelnökség igazgatása részére átcsoportosított 284,2 millió forint, továbbá a XX. fejezet, 20. cím, 23. alcím, 23. Szabadidősport támogatása jogcímcsoport javára átcsoportosított 350,0 millió forint tekintetében 2015. június 30.[^2]
 
 ## 5. A Kormány – tekintettel arra, hogy a VI. Bíróságok fejezet, a XVIII. Nemzeti Fejlesztési Minisztérium, valamint a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) között az Áht. 33. § (8) bekezdése szerinti megállapodás alapján a VI. Bíróságok fejezet a 2014. évi költségvetési terhére 1,7 milliárd forint előirányzat átcsoportosítását biztosítja – a bírósági eljárások hatékonyságának javítása érdekében támogatja a Fővárosi Törvényszék egyes szervezeti egységeinek a Budapest, II. kerület, Tölgyfa u. 1–3. szám (Budapest, II. kerület belterület, 13507/4/A/2. helyrajzi szám) alatt található „Margit Ház” irodaházban történő elhelyezését.
 
@@ -50,9 +50,10 @@
 
 ## Határidő: 2014. október 31.
 
-## 8.[^2]
+## 8.[^3]
 
 1. melléklet az 1202/2014. (IV. 1.) Korm. határozathoz
 
 [^1]: A 4. pont az 1812/2014. (XII. 19.) Korm. határozat 19. pontja szerint módosított szöveg.
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont határideje az 1168/2015. (III. 24.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
