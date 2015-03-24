@@ -22,7 +22,7 @@
 
 | 11. | KEOP-5.6.0/12-2013-0041 | Eötvös Loránd Tudományegyetem | 260 000 000 |
 
-| 12. | KEOP-5.6.0/12-2013-0042 | Budapesti Gazdasági Főiskola | 297 000 000 |
+| 12. | KEOP-5.6.0/12-2013-0042 | Budapesti Gazdasági Főiskola | 340 189 570 |
 
 | 13. | KEOP-5.6.0/12-2013-0043 | Budapesti Corvinus Egyetem | 264 787 628 |
 
@@ -96,7 +96,7 @@
 
 | 48. | KEOP-5.6.0/12-2013-0049 | Békés Megyei Kormányhivatal | 500 000 000 |
 
-| 49. | KEOP-5.6.0/12-2014-0001 | Országos Onkológiai Intézet | 504 300 000 |
+| 49. | KEOP-5.6.0/12-2014-0001 | Országos Onkológiai Intézet | 517 772 728 |
 
 | 50. | KEOP-5.6.0/12-2014-0002 | Győr-Moson-Sopron Megyei Rendőr-főkapitányság | 338 000 000 |
 
@@ -112,9 +112,9 @@
 
 | 56. | KEOP-5.6.0/12-2014-0008 | Pest Megyei Rendőr-főkapitányság | 130 000 000 |
 
-| 57. | KEOP-5.6.0/12-2014-0009 | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 144 000 000 |
+| 57. | KEOP-5.6.0/12-2014-0009 | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 157 385 933 |
 
-| 58. | KEOP-5.6.0/12-2014-0010 | Bács-Kiskun Megyei Rendőr-főkapitányság | 122 000 000 |
+| 58. | KEOP-5.6.0/12-2014-0010 | Bács-Kiskun Megyei Rendőr-főkapitányság | 157 490 638 |
 
 | 59. | KEOP-5.6.0/12-2014-0011 | Pest Megyei Rendőr-főkapitányság | 135 000 000 |
 
