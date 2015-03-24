@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. december 31.[^1]
 
 1. melléklet az 1574/2014. (X. 10.) Korm. határozathoz
 
@@ -67,3 +67,5 @@
 | Magyar Államkincstár |  | 1 példány |  |  | egyéb: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határidő az 1168/2015. (III. 24.) Korm. határozat 6. pontja szerint módosított szöveg.
