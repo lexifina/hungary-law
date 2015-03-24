@@ -12,4 +12,6 @@ Határidő: azonnal
 
 4. egyetért az Európai Unió azon törekvésével, hogy a biológiai sokféleség mind klímapolitikai, mind környezetvédelmi szempontból történő megőrzésére irányuló uniós kötelezettségre tekintettel elengedhetetlen a szolidaritás és a felelősségmegosztás elvének következetes alkalmazása, melyre tekintettel az éghajlat-politika és a környezetvédelem terén tagállami szinten egyedi megközelítésekre van szükség; ezért felhívja a nemzeti fejlesztési minisztert, hogy az 1293/2013/EU parlamenti és tanácsi rendeletben kitűzött célok Magyarország részéről történő megvalósítása érdekében lássa el az 1293/2013/EU parlamenti és tanácsi rendeletben meghatározott kapacitásépítési pályázat előkészítésének tárcák közötti koordinációját és intézkedjen az Európai Bizottság felé való beadásáról azzal, hogy az előkészítésbe kerüljön bevonásra a környezet- és természetvédelmi pályázatokkal kapcsolatban szakmai felelősséggel bíró földművelésügyi miniszter;
 
-5. a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarához delegált közfeladatok ellátása érdekében szükséges forrás biztosításáról szóló 1589/2014. (X. 21.) Korm. határozat 1. pontja szerinti előirányzat-átcsoportosítás esetében az elszámolás és a visszatérítési kötelezettség határidejét 2015. március 31. helyett 2015. június 30-ában állapítja meg.
+5.[^2]
+
+[^2]: Az 5. pontot az 1168/2015. (III. 24.) Korm. határozat 14. pont b) pontja visszavonta.
