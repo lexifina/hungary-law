@@ -30,16 +30,16 @@
 
 | 11. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Hajnal István Szociális Szolgáltató Centrum) | 5630 Békés, Farkas Gyula utca 2. (békési 6532/4 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 88 963 691 |
 
-| 12. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Körös-menti Szociális Centrum telephelye) | 5667 Magyarbánhegyes, Tanya 37., (magyarbánhegyesi 026/6 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 68 925 009 |
+| 12. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Körös-menti Szociális Centrum telephelye) | 5667 Magyarbánhegyes, Tanya 37., (magyarbánhegyesi 026/6 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 78 946 249 |
 
-| 13. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Körös-menti Szociális Centrum) | 5540 Szarvas, Rákóczi Ferenc utca 25. (szarvasi 4883/12 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 64 760 905 |
+| 13. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Körös-menti Szociális Centrum) | 5540 Szarvas, Rákóczi Ferenc utca 25. (szarvasi 4883/12 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 74 973 378 |
 
 | 14. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Körös-menti Szociális Centrum telephelye) | 5931 Nagyszénás, Táncsics Mihály utca 3. (nagyszénási 2063 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 79 762 545 |
 
-| 15. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Körös-menti Szociális Centrum telephelye) | 5800 Mezőkovácsháza, Tanya 36., (mezőkovácsházai 0102 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 89 002 868 |
+| 15. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Körös-menti Szociális Centrum telephelye) | 5800 Mezőkovácsháza, Tanya 36., (mezőkovácsházai 0102 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 107 290 845 |
 
-| 16. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Szociális és Gyermekvédelmi Központ) | 5600 Békéscsaba, Degré utca 59. (békéscsabai 1512/2 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 102 877 061 |
+| 16. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Szociális és Gyermekvédelmi Központ) | 5600 Békéscsaba, Degré utca 59. (békéscsabai 1512/2 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 153 319 082 |
 
 | 17. | Szociális és Gyermekvédelmi Főigazgatóság (Vámosgyörki Idősek Otthona) | 3291 Vámosgyörk, István király utca 1. | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 52 230 400 |
 
-[^1]: Az 1. melléklet az 1634/2014. (XI. 7.) Korm. határozat szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1634/2014. (XI. 7.) Korm. határozat, az 1174/2015. (III. 24.) Korm. határozat 2. pontja szerint módosított szöveg.
