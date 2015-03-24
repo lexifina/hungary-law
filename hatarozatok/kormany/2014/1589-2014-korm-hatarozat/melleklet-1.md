@@ -14,7 +14,7 @@
 
 ## Felelős: földművelésügyi miniszter
 
-## Határidő: 2015. március 31.
+## Határidő: 2016. március 31.[^1]
 
 ## 2. felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzetgazdasági miniszter bevonásával vizsgálja meg a Kamara informatikai fejlesztéséhez és az integrált vállalatirányítási rendszer kialakításához szükséges európai uniós források biztosításának lehetőségét.
 
@@ -97,3 +97,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont határideje az 1168/2015. (III. 24.) Korm. határozat 7. pontja szerint módosított szöveg.
