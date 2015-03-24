@@ -10,7 +10,7 @@
 
 ## Felelős: belügyminiszter
 
-## Határidő: 2015. január 31.
+## Határidő: 2016. március 31.[^1]
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy a belügyminiszter bevonásával a 2015. évi központi költségvetés tervezése során a beruházás megvalósításához szükséges költségek fedezetét biztosítsa.
 
@@ -73,3 +73,5 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont határideje az 1168/2015. (III. 24.) Korm. határozat 4. pontja szerint módosított szöveg.
