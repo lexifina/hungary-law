@@ -14,12 +14,12 @@
 
 (8) A feladatellátáshoz kapcsolódó vagyoni jogok, ingó és ingatlan állomány – ha kormányrendelet eltérően nem rendelkezik – térítésmentesen kerül átadásra a jogutód részére.
 
-(9)[^92] Az állami tulajdonban lévő és az e § szerinti jogutódlás körébe tartozó közcélú vízgazdálkodási létesítmények térítésmentesen a létesítmény helye szerint illetékes vízügyi igazgatóság vagyonkezelésébe kerülnek.
+(9)[^93] Az állami tulajdonban lévő és az e § szerinti jogutódlás körébe tartozó közcélú vízgazdálkodási létesítmények térítésmentesen a létesítmény helye szerint illetékes vízügyi igazgatóság vagyonkezelésébe kerülnek.
 
-(10)[^93] A központi államigazgatási szervek által a szakigazgatási szervvé váló költségvetési szervre vonatkozóan kötött, különösen az ingatlanok bérletére, üzemeltetésére vonatkozó olyan szerződés tekintetében, amelynek jogosultja (a szolgáltatás igénybe vevője) a megszűnő költségvetési szerv, a központi államigazgatási szerv jogutódjának – amennyiben a szakigazgatási szervre vonatkozó jogszabály másként nem rendelkezik – a fővárosi és megyei kormányhivatal tekintendő.
+(10)[^94] A központi államigazgatási szervek által a szakigazgatási szervvé váló költségvetési szervre vonatkozóan kötött, különösen az ingatlanok bérletére, üzemeltetésére vonatkozó olyan szerződés tekintetében, amelynek jogosultja (a szolgáltatás igénybe vevője) a megszűnő költségvetési szerv, a központi államigazgatási szerv jogutódjának – amennyiben a szakigazgatási szervre vonatkozó jogszabály másként nem rendelkezik – a fővárosi és megyei kormányhivatal tekintendő.
 
-(11)[^94] A megszűnő költségvetési szerv által a központi államigazgatási szervre, illetve az általa is kezelt alapra vonatkozóan kötött szerződés tekintetében, amelynek jogosultja a központi államigazgatási szerv vagy az általa kezelt alap, a megszűnő költségvetési szerv jogutódjának a központi államigazgatási szerv tekintendő, ha a szakigazgatási szervre vonatkozó jogszabály másképp nem rendelkezik.
+(11)[^95] A megszűnő költségvetési szerv által a központi államigazgatási szervre, illetve az általa is kezelt alapra vonatkozóan kötött szerződés tekintetében, amelynek jogosultja a központi államigazgatási szerv vagy az általa kezelt alap, a megszűnő költségvetési szerv jogutódjának a központi államigazgatási szerv tekintendő, ha a szakigazgatási szervre vonatkozó jogszabály másképp nem rendelkezik.
 
-[^92]: A 29. § (9) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 300/2011. (XII. 22.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
-[^93]: A 29. § (10) bekezdését a 212/2011. (X. 14.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^94]: A 29. § (11) bekezdését a 212/2011. (X. 14.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^93]: A 29. § (9) bekezdését a 111/2011. (VII. 4.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 300/2011. (XII. 22.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
+[^94]: A 29. § (10) bekezdését a 212/2011. (X. 14.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^95]: A 29. § (11) bekezdését a 212/2011. (X. 14.) Korm. rendelet 1. § (4) bekezdése iktatta be.

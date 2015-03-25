@@ -1,7 +1,7 @@
-## 5. §[^22] A közigazgatás-szervezésért felelős miniszter a fővárosi és megyei kormányhivatalok bevonásával kezdeményezi és ellenőrzi
+## 5. §[^23] A közigazgatás-szervezésért felelős miniszter a fővárosi és megyei kormányhivatalok bevonásával kezdeményezi és ellenőrzi
 
 a) a több ágazatot érintő közigazgatással kapcsolatos kormányzati feladatok végrehajtásának területi összehangolását, valamint
 
 b) a közigazgatás fejlesztésével és korszerűsítésével kapcsolatos kormányzati feladatok területi összehangolását.
 
-[^22]: Az 5. § nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 493. § b) pontja szerint módosított szöveg.
+[^23]: Az 5. § nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 493. § b) pontja szerint módosított szöveg.

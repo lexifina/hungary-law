@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-288-20-
 | 2014-12-10 | 2010-288-20-22.28 | 308/2014. (XII. 9.) Korm. rendelet |
 | 2015-01-01 | 2010-288-20-22.29 | 397/2014. (XII. 31.) Korm. rendelet |
 | 2015-03-01 | 2010-288-20-22.30 | 152/2013. (V. 24.) Korm. rendelet |
+| 2015-03-25 | 2010-288-20-22.31 | 66/2015. (III. 30.) Korm. rendelet |
