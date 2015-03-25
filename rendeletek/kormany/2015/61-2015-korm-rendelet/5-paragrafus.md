@@ -1,0 +1,3 @@
+## 4. § Az R1. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A törvényességi felügyeleti eljárás során és az Mötv. 133. § (2) bekezdése szerinti javaslattétel esetén az írásbeli kapcsolattartás – a (2) bekezdésben meghatározott kivétellel – jogszabályban meghatározott informatikai rendszerbe (a továbbiakban: informatikai rendszer) történő feltöltés útján valósul meg. Az információkérés és a szakmai segítségnyújtás során az írásbeli kapcsolattartás papír alapon, elektronikus úton vagy az informatikai rendszerbe történő feltöltéssel valósul meg. Az informatikai rendszerbe történő feltöltéssel az iratot kézbesítettnek kell tekinteni.”
