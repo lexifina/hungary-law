@@ -1,6 +1,6 @@
 ## 1. módosítja
 
-## a) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 3–6. prioritását az 1. melléklet szerint,
+## a)[^1]
 
 ## b) a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritását a 2. melléklet szerint,
 
@@ -12,8 +12,10 @@
 
 ## Határidő: azonnal
 
-## 4.[^1]
+## 4.[^2]
 
-1. melléklet az 1451/2014. (VII. 31.) Korm. határozathoz
+1. melléklet az 1451/2014. (VII. 31.) Korm. határozathoz[^3]
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontját az 1172/2015. (III. 24.) Korm. határozat 4. pont l) pontja visszavonta.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. mellékletet az 1172/2015. (III. 24.) Korm. határozat 4. pont l) pontja visszavonta.
