@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-424-20-
 | --- | --- | --- |
 | 2013-01-01 | 2012-424-20-22.1 | 424/2012. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2012-424-20-22.2 | 538/2013. (XII. 30.) Korm. rendelet |
+| 2015-03-25 | 2012-424-20-22.3 | 59/2015. (III. 24.) Korm. rendelet |

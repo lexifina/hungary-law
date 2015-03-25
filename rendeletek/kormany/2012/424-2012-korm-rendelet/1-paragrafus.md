@@ -1,24 +1,24 @@
-## 1. § Az állami adóhatóság átadja a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 31. § (2) bekezdés szerint, az Art. 52. § (4) bekezdésben meghatározott bevallásra kötelezett és a mezőgazdasági őstermelő által bevallott, magánszemélyekre vonatkozó, a foglalkoztatók által bevallott adatokkal megegyező adatok közül:
+## 1. §[^1] Az állami adóhatóság elektronikus úton hivatalból átadja a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 31. § (2) bekezdés szerint, az Art. 52. § (4) bekezdésben meghatározott bevallásra kötelezett és a mezőgazdasági őstermelő által bevallott, magánszemélyekre vonatkozó, a foglalkoztatók által bevallott adatokkal megegyező adatok közül:
 
-a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló a 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 44. § (1) bekezdése szerinti nyilvántartásra kötelezett nevét, székhelyét és adóazonosító számát,
+a)[^2] a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló a 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 44. § (1) bekezdése szerinti nyilvántartásra kötelezett nevét, székhelyét és adóazonosító számát, jogelődjének adóazonosító számát,
 
-b) a magánszemély természetes személyazonosító adatait (ideértve az előző nevet és a titulust is), nemét, állampolgárságát,
+b)[^3] a magánszemély természetes személyazonosító adatait (ideértve az előző nevet és a titulust is), nemét, állampolgárságát, adóazonosító jelét, társadalombiztosítási azonosító jelét,
 
-c)[^1] a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, a gyermekgondozási díj (a továbbiakban: gyed) és a gyermekgondozási segély (a továbbiakban: gyes) folyósítása melletti munkavégzés tényét, és azt az adatot, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
+c)[^4] a biztosításban töltött idő tartamát, az alkalmazás minőségének, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, a gyermekgondozási díj (a továbbiakban: gyed) és a gyermekgondozási segély (a továbbiakban: gyes) folyósítása melletti munkavégzés tényét, és azt az adatot, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességét,
 
-d) a korkedvezmény-biztosítási járulék alapját, összegét,
+d)[^5]
 
-e) a nyugdíjjárulék alapját képező jövedelemre vonatkozó adatot, a nyugdíjjárulék-köteles jutalom összegét, és a levont nyugdíjjárulék összegét,
+e)[^6] a nyugdíjjárulék alapját képező jövedelemre vonatkozó adatot, a nyugdíjjárulék-köteles jutalom összegét, a levont nyugdíjjárulék összegét, és a levonás elmaradásának okát, valamint családi járulékkedvezmény igénybevétele esetén annak összegét,
 
-f) a természetbeni egészségbiztosítási, a pénzbeli egészségbiztosítási és a munkaerő-piaci járulékok levonása és a nyugdíjjárulék-levonás elmaradásának okát,
+f)[^7]
 
 g) a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, és az ezen időtartamra vonatkozó levont természetbeni és pénzbeli egészségbiztosítási, munkaerő-piaci és nyugdíjjárulék alapját és összegét,
 
-h)[^2] a gyed, gyes, gyermeknevelési támogatás (gyet), ápolási díj, munkanélküli-ellátás folyósításának időtartamát, az ellátás összegét és az abból levont nyugdíjjárulék összegét és a levonás elmaradásának okát,
+h)[^8] a gyed, gyes, gyermeknevelési támogatás (gyet), ápolási díj, munkanélküli-ellátás folyósításának időtartamát, az ellátás összegét és az abból levont nyugdíjjárulék összegét és a levonás elmaradásának okát, valamint családi járulékkedvezmény igénybevétele esetén annak összegét,
 
 i) a biztosítás szünetelését vagy a munkabérrel ellátatlanság idejét, ennek jogcímkódját,
 
-j) a foglalkozás FEOR számát, a heti munkaidő tartamát, a korkedvezményre jogosító munkakör tartamát,
+j)[^9] a foglalkozás FEOR számát, a heti munkaidő tartamát,
 
 k) az egészségügyi dolgozók heti 48 órát meghaladó önként vállalt többletmunkavégzésének idejét (munkaórában),
 
@@ -26,9 +26,17 @@ l) a társas vállalkozóként biztosított, egyidejűleg több gazdasági társ
 
 m) a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 31. § (6) bekezdése szerinti nyilatkozatában foglalt választását,
 
-n) az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér együttes – összegét, és a foglalkoztatás napját (napjait) személyenként, az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerinti foglalkoztatási jogviszonnyal összefüggésben,
+n)[^10] az adott hónapban történt egyszerűsített foglalkoztatás napjára (napjaira) kifizetett (nettó) munkabér és közteher – a hónapon belüli több napi foglalkoztatás esetén a kifizetett (nettó) munkabér és közteher együttes – összegét, és a foglalkoztatás napját (napjait) személyenként, az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerinti foglalkoztatási jogviszonnyal összefüggésben,
 
 o) a felszolgálási díj után fizetett nyugdíjjárulék alapját és összegét.
 
-[^1]: Az 1. § c) pontja az 538/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § h) pontja az 538/2013. (XII. 30.) Korm. rendelet 2. § 1. pontja szerint módosított szöveg.
+[^1]: Az 1. § nyitó szövegrésze az 59/2015. (III. 24.) Korm. rendelet 5. § a) pontja szerint módosítot szöveg.
+[^2]: Az 1. § a) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § b) pontja szerint módosítot szöveg.
+[^3]: Az 1. § b) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § c) pontja szerint módosítot szöveg.
+[^4]: Az 1. § c) pontja az 538/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított, az 59/2015. (III. 24.) Korm. rendelet 5. § d) pontja szerint módosítot szöveg.
+[^5]: Az 1. § d) pontját az 59/2015. (III. 24.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^6]: Az 1. § e) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § e) pontja szerint módosítot szöveg.
+[^7]: Az 1. § f) pontját az 59/2015. (III. 24.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^8]: Az 1. § h) pontja az 538/2013. (XII. 30.) Korm. rendelet 2. § 1. pontja, az 59/2015. (III. 24.) Korm. rendelet 5. § f) pontja szerint módosítot szöveg.
+[^9]: Az 1. § j) pontja az 59/2015. (III. 24.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^10]: Az 1. § n) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § g) pontja szerint módosítot szöveg.
