@@ -12,17 +12,7 @@
 
 ## Határidő: 2016. június 30.
 
-## 2. A pénztárgépek cseréjének és beszerzésének támogatásához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1512/2013. (VIII. 1.) Korm. határozatban a „2014. december 31.” szövegrész helyébe a „2015. december 31.” szöveg lép.
-
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a IX. Helyi önkormányzatok támogatásai fejezeten belüli átcsoportosításról, a Fővárosi Törvényszék egyes szervezeti egységeinek megfelelő színvonalú elhelyezéséhez kapcsolódó intézkedésekről és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1664/2012. (XII. 20.) Korm. határozat módosításáról szóló 1202/2014. (IV. 1.) Korm. határozat 4. pontjában a „forintot tekintetében „2015. június 30.” szövegrész helyébe a „forint, továbbá a XX. fejezet, 20. cím, 23. alcím, 23. Szabadidősport támogatása jogcímcsoport javára átcsoportosított 350,0 millió forint tekintetében 2015. június 30.” szöveg lép.
-
-## 4. A büntetés-végrehajtás szirmabesenyői új objektumának építése érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1229/2014. (IV. 10.) Korm. határozat 1. pontjában a „2015. január 31.” szövegrész helyébe a „2016. március 31.” szöveg lép.
-
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2013. évi kötelezettségvállalással terhelt költségvetési maradványok rendkívüli visszahagyásáról és egyes kormányhatározatok módosításáról szóló 1426/2014. (VII. 28.) Korm. határozat 2. pontjában a „2015. június 30.” szövegrész helyébe a „2015. június 30., a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ részére átcsoportosított 580,0 millió forint tekintetében 2015. december 31.” szöveg lép.
-
-## 6. A Nemzeti Sírkerttel kapcsolatos feladatok ellátása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1574/2014. (X. 10.) Korm. határozatban a „2015. június 30.” szövegrész helyébe a „2015. december 31.” szöveg lép.
-
-## 7. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarához delegált közfeladatok ellátása érdekében szükséges forrás biztosításáról szóló 1589/2014. (X. 21.) Korm. határozat 1. pontjában a „2015. március 31.” szövegrész helyébe a „2016. március 31.” szöveg lép.
+## 2–7.[^1]
 
 ## 8. A Kormány
 
@@ -40,11 +30,7 @@
 
 ## 13. A Kormány egyetért azzal, hogy az Erdélyi Magyar Nemzeti Tanács Demokrácia-központok tevékenységének, valamint az erdélyi szórványkollégiumok működési és beruházási költségei finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1817/2014. (XII. 19.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport, K6. Beruházások kiemelt előirányzat javára átcsoportosított 469,0 millió forint a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 3. Határon túli magyarok programjainak támogatása alcím, 1. Nemzetpolitikai tevékenység támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 14. A Kormány visszavonja
-
-## a) a Szépművészeti Múzeum kiállításainak támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1406/2014. (VII. 18.) Korm. határozat 3. és 4. pontját;
-
-## b) a közvetlen brüsszeli kifizetésű források hatékony felhasználásának kárpát-medencei szintű összehangolásáról és a Magyar Fejlesztési Központ felállításáról, valamint az Éghajlat-politika és Környezetvédelem Alprogrammal (LIFE) kapcsolatos feladatok ellátásáról szóló 1856/2014. (XII. 30.) Korm. határozat 5. pontját.
+## 14.[^2]
 
 1. melléklet az 1168/2015. (III. 24.) Korm. határozathoz
 
@@ -161,3 +147,6 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
