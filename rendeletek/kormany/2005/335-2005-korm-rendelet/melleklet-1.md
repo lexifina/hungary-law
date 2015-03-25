@@ -1,4 +1,4 @@
-1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^147]
+1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^151]
 
 ## Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe bevont szervek
 
@@ -24,7 +24,7 @@
 
 11. Közigazgatási és Igazságügyi Hivatal
 
-12.[^148] Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
+12.[^152] Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
 
 13. Nemzetstratégiai Kutatóintézet
 
@@ -38,7 +38,7 @@
 
 18. VERITAS Történetkutató Intézet
 
-19.[^149] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
+19.[^153] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
 
 20. Bevándorlási és Állampolgársági Hivatal
 
@@ -66,7 +66,7 @@
 
 32. Országos Vízügyi Főigazgatóság
 
-33.[^150] Egészségügyi Nyilvántartási és Képzési Központ
+33.[^154] Egészségügyi Nyilvántartási és Képzési Központ
 
 34. Emberi Erőforrás Támogatáskezelő
 
@@ -118,10 +118,10 @@
 
 58. Országos Atomenergia Hivatal
 
-59.[^151] Nemzeti Szakképzési és Felnőttképzési Hivatal
+59.[^155] Nemzeti Szakképzési és Felnőttképzési Hivatal
 
-[^147]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
-[^148]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^149]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^150]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^151]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^151]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
+[^152]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^153]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^154]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^155]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.

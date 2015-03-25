@@ -1,4 +1,4 @@
-70. §[^146] (1) E rendeletnek az egységes kormányzati ügyiratkezelő rendszer létrehozásával összefüggő kormányrendeletek módosításáról szóló 323/2014. (XII. 15.) Korm. rendelettel (a továbbiakban: Módr. 1.) és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet módosításáról, valamint az egységes kormányzati ügyiratkezelő rendszerrel összefüggő egyes kormányrendeletek módosításáról szóló 34/2015. (II. 27.) Korm. rendelettel (a továbbiakban: Módr. 2.) megállapított rendelkezéseit 2015. május 1-jétől kell alkalmazni.
+70. §[^150] (1) E rendeletnek az egységes kormányzati ügyiratkezelő rendszer létrehozásával összefüggő kormányrendeletek módosításáról szóló 323/2014. (XII. 15.) Korm. rendelettel (a továbbiakban: Módr. 1.) és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 219/2011. (X. 20.) Korm. rendelet módosításáról, valamint az egységes kormányzati ügyiratkezelő rendszerrel összefüggő egyes kormányrendeletek módosításáról szóló 34/2015. (II. 27.) Korm. rendelettel (a továbbiakban: Módr. 2.) megállapított rendelkezéseit 2015. május 1-jétől kell alkalmazni.
 
 (2) A kormányzati ügyiratkezelő rendszer, valamint az 58. § szerinti elektronikus úton történő iratküldés 2015. április 30-ig próbaüzemmódban működik.
 
@@ -6,4 +6,4 @@
 
 (4) Az 1. mellékletben felsorolt közfeladatot ellátó szervnek a Módr. 1. hatálybalépésekor érvényben lévő iratkezelési szabályzatát 2015. április 30-ig kell módosítani – 2015. május 1-jétől történő alkalmazással – az e rendeletnek a Módr. 1.-gyel és Módr 2.-vel megállapított rendelkezéseinek megfelelően.
 
-[^146]: A 70. §-t újonnan a 346/2014. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 34/2015. (II. 27.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^150]: A 70. §-t újonnan a 346/2014. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 34/2015. (II. 27.) Korm. rendelet 35. §-ával megállapított szöveg.

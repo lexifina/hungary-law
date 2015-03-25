@@ -1,1 +1,0 @@
-## másolatot is kiadni.
