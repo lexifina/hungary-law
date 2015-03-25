@@ -22,11 +22,11 @@ Bálintné dr. Szegedi Noémit,
 
 dr. Bónis Krisztinát,
 
-dr. Borbély-Szabó Franciskát,
+dr. Borbély-Szabó Franciskát,[^1]
 
 dr. Bors Ágnes Editet,
 
-dr. Bozsó Pétert,[^1]
+dr. Bozsó Pétert,[^2]
 
 Breczkáné dr. Békési Gabriellát,
 
@@ -68,7 +68,7 @@ dr. Ivanovics Georginát,
 
 dr. Jakabovits Pétert,
 
-dr. Jancsák Ramónát,
+dr. Jancsák Ramónát,[^3]
 
 dr. Józsa Zsoltot,
 
@@ -104,7 +104,7 @@ dr. Kulcsár Zitát,
 
 dr. Kurucz Ákos Józsefet,
 
-dr. Lázár-Staár Ágota Katalint,
+dr. Lázár-Staár Ágota Katalint,[^4]
 
 dr. Márkus Anikót,
 
@@ -136,7 +136,7 @@ dr. Pető Katalint,
 
 dr. Pokorny Gabriellát,
 
-dr. Rédei Andreát,
+dr. Rédei Andreát,[^5]
 
 dr. Remes Gábort,
 
@@ -174,7 +174,7 @@ dr. Széplaki-Szabó Krisztina Ágnest,
 
 dr. Szilágyi István Zoltánt,
 
-dr. Takácsné dr. Takács Dórát,
+dr. Takácsné dr. Takács Dórát,[^6]
 
 dr. Tokovicz Adriennt,
 
@@ -206,7 +206,7 @@ dr. Virányi Karolinát,
 
 dr. Völgyesi Barbarát és
 
-dr. Zengődiné dr. Lascsik Líviát
+dr. Zengődiné dr. Lascsik Líviát[^7]
 
 2012. április 1. napjától 2015. március 31. napjáig terjedő időtartamra,
 
@@ -218,4 +218,10 @@ bíróvá kinevezem.
 
 KEH ügyszám: IV-4/01142/2012.
 
-[^1]: A 116/2015. (II. 23.) KE határozat alapján a Köztársasági Elnök dr. Bozsó Péter bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^1]: A 150/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Borbély-Szabó Franciska bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^2]: A 116/2015. (II. 23.) KE határozat alapján a Köztársasági Elnök dr. Bozsó Péter bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^3]: A 151/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Jancsák Ramóna bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^4]: A 152/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Lázár-Staár Ágota Katalin bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^5]: A 153/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Rédei Andrea bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^6]: A 154/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Takácsné dr. Takács Dóra bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
+[^7]: A 155/2015. (III. 25.) KE határozat alapján a Köztársasági Elnök dr. Zengődiné dr. Lascsik Lívia bírói kinevezését 2015. április 1. napjától 2018. március 31. napjáig terjedő időtartamra meghosszabbította.
