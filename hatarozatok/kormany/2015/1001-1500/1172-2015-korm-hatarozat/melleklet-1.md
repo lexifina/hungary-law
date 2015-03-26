@@ -20,35 +20,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Kormány visszavonja
-
-## a) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1013/2011. (I. 19.) Korm. határozatot,
-
-## b) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének és a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1276/2011. (VIII. 10.) Korm. határozatot,
-
-## c) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akciótervének és a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1277/2011. (VIII. 10.) Korm. határozatot,
-
-## d) a Társadalmi Megújulás Operatív Program 2011–2013. évi akcióterve 3. és 5. prioritásai keretében történő forrásátcsoportosításról szóló 1282/2012. (VIII. 6.) Korm. határozatot,
-
-## e) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterv 2–6. prioritásának a megállapításáról szóló 1469/2012. (X. 26.) Korm. határozatot,
-
-## f) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterv 1. prioritásának megállapításáról, valamint egyes pályázati felhívások jóváhagyásáról szóló 1016/2013. (I. 18.) Korm. határozatot,
-
-## g) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 3–6. prioritásának módosításáról és a kormányzati stratégiai célokhoz illeszkedő konstrukciók indításáról szóló 1242/2013. (IV. 30.) Korm. határozatot,
-
-## h) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 6. prioritásának módosításáról szóló 1328/2013. (VI. 12.) Korm. határozatot,
-
-## i) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 3–6. prioritásának és Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 1. és 3. prioritásának módosításáról szóló 1736/2013. (X. 11.) Korm. határozat 1. pont a) alpontját, 2–4. pontját és 1. mellékletét,
-
-## j) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról szóló 1048/2014. (II. 7.) Korm. határozatot,
-
-## k) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról szóló 1254/2014. (IV. 18.) Korm. határozatot,
-
-## l) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 3–6. prioritásának és a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról, valamint a TÁMOP 4.1.3-11/1-2011-0001 azonosító számú, „Felsőoktatási szolgáltatások rendszerszintű fejlesztése, 2. ütem” című projekt támogatásának növeléséről szóló 1451/2014. (VII. 31.) Korm. határozat 1. pont a) alpontját és 1. mellékletét,
-
-## m) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 3–6. és 8. prioritásának módosításáról szóló 1499/2014. (IX. 4.) Korm. határozat 1. pontját, 1. és 2. mellékletét, valamint
-
-## n) a Társadalmi Megújulás Operatív Program és a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve módosításáról szóló 1865/2014. (XII. 30.) Korm. határozat 1. pont a) alpontját és 1. mellékletét.
+## 4.[^1]
 
 1. melléklet az 1172/2015. (III. 24.) Korm. határozathoz
 
@@ -707,3 +679,5 @@
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. |
 
 | 3. | 7.2.1 | Az OP lebonyolításával kapcsolatos egyéb feladatok | 4,85 | 4,85 | 4,85 | 0,00 | 0,00 | A konstrukció célja, hogy biztosítsa a Társadalmi Megújulás Operatív Program lebonyolításával kapcsolatos specifikus feladatok költséghatékony és eredményes ellátását (pl. monitoring bizottság működtetése, beleértve annak titkársági feladatai ellátását is, az éves megvalósítási jelentések, a Társadalmi Megújulás Operatív Program végrehajtását érintő tanulmányok, elemzések, a Nemzeti Stratégiai Referencia Keret-szintű értékelési tervben nem szereplő, valamint a monitoring bizottság kezdeményezésére indított értékelések). | emberi erőforrások minisztere |  |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
