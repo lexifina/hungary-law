@@ -1,18 +1,8 @@
-## 1. megállapítja
-
-## a)[^1]
-
-## b) a Dél-Dunántúli Operatív Program (a továbbiakban: DDOP) 2011–2013. évekre szóló akciótervének 1. és 4. prioritását a 3. és a 4. melléklet szerint,
-
-## c) az Észak-Alföldi Operatív Program (a továbbiakban: ÉAOP) 2011–2013. évekre szóló akciótervének 1. és 5. prioritását az 5. és a 6. melléklet szerint,
-
-## d) a Közép-Dunántúli Operatív Program (a továbbiakban: KDOP) 2011–2013. évekre szóló akciótervének 1., 4. és 5. prioritását a 7., a 8. és a 9. melléklet szerint, valamint
-
-## e) a Közép-Magyarországi Operatív Program (a továbbiakban: KMOP) 2011–2013. évekre szóló akciótervének 1. prioritását a 10. melléklet szerint;
+## 1.[^2]
 
 ## 2. egyetért azzal, hogy
 
-## a)[^2] a Dél-Alföldi Operatív Program (a továbbiakban: DAOP) 2011–2013. évekre szóló akciótervének 5. prioritásán 970,0 millió forint zárolásra kerüljön annak érdekében, hogy a DAOP 1. prioritásának kötelezettségvállalási állománya ezzel az összeggel megemelhető legyen,
+## a)[^3] a Dél-Alföldi Operatív Program (a továbbiakban: DAOP) 2011–2013. évekre szóló akciótervének 5. prioritásán 970,0 millió forint zárolásra kerüljön annak érdekében, hogy a DAOP 1. prioritásának kötelezettségvállalási állománya ezzel az összeggel megemelhető legyen,
 
 ## b) a DDOP 2011–2013. évekre szóló akciótervének 4. prioritásán 2430,4 millió forint zárolásra kerüljön annak érdekében, hogy a DDOP 1. prioritásának kötelezettségvállalási állománya ezzel az összeggel megemelhető legyen,
 
@@ -26,11 +16,11 @@
 
 ## 5. egyetért azzal, hogy a 3. pontban megjelölt prioritás esetében – a prioritás eddigi többletkötelezettség-vállalásaira tekintettel – a későbbiekben felszabaduló források terhére új projektek támogatása céljából újabb kötelezettséget ne lehessen vállalni;
 
-## 6.[^3]
+## 6.[^4]
 
-1–2. melléklet az 1352/2014. (VI. 26.) Korm. határozathoz[^4]
+1. melléklet az 1352/2014. (VI. 26.) Korm. határozathoz[^5]
 
-[^1]: Az 1. pont a) alpontját az 1492/2014. (VIII. 28.) Korm. határozat 7. pont c) alpontja hatályon kívül helyezte.
-[^2]: A 2. pont a) alpontja az 1492/2014. (VIII. 28.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1–2. mellékletet az 1492/2014. (VIII. 28.) Korm. határozat 7. pont c) alpontja hatályon kívül helyezte.
+[^2]: Az 1. pontot az 1179/2015. (III. 25.) Korm. határozat 7. pont g) alpontja visszavonta.
+[^3]: A 2. pont a) alpontja az 1492/2014. (VIII. 28.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1–2. mellékletet az 1492/2014. (VIII. 28.) Korm. határozat 7. pont c) alpontja hatályon kívül helyezte.
