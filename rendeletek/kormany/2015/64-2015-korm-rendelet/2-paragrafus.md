@@ -1,0 +1,1 @@
+## 1. § A Kormány a Magyar Kémény Korlátolt Felelősségű Társaságot (a továbbiakban: Társaság) (székhelye: 7400 Kaposvár, Petőfi tér 1. 2. em. 216.; cégjegyzékszáma: 14-09-300520) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
