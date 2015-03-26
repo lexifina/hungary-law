@@ -1,4 +1,4 @@
-## 1. megállapítja a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akciótervének 2. prioritását az 1. melléklet szerint,
+## 1.[^2]
 
 ## 2. jóváhagyja az NYDOP-2.1.1/A.B-12-k-2012-0001 azonosító számú, „Eszterháza Közép-Európai Kulturális Központ III. fejlesztési ütem” című kiemelt projekt (a továbbiakban: projekt) elszámolható közkiadásának
 
@@ -16,8 +16,10 @@
 
 ## a 2. pont b) alpontja esetén a forrás rendelkezésre állását követően azonnal
 
-## 4.[^1]
+## 4.[^3]
 
-1. melléklet az 1620/2014. (XI. 4.) Korm. határozathoz
+1. melléklet az 1620/2014. (XI. 4.) Korm. határozathoz[^4]
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot az 1179/2015. (III. 25.) Korm. határozat 7. pont l) alpontja visszavonta.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet az 1179/2015. (III. 25.) Korm. határozat 7. pont l) alpontja visszavonta.
