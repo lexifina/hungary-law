@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-2057-30
 | 2014-06-26 | 2013-2057-30-22.11 | 1006/2014. (I. 17.) Korm. határozat |
 | 2014-07-31 | 2013-2057-30-22.12 | 1110/2014. (III. 6.) Korm. határozat |
 | 2014-08-28 | 2013-2057-30-22.13 | 1492/2014. (VIII. 28.) Korm. határozat |
+| 2015-03-26 | 2013-2057-30-22.14 | 1179/2015. (III. 25.) Korm. határozat |
