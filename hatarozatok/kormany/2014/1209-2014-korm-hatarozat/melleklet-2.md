@@ -1,44 +1,6 @@
-| 3. | I. Prioritás bemutatása: 3. prioritás: Fenntartható településfejlesztés |  |
-
-|  |  |  |  |  | Közép-Dunántúli Operatív Program Akcióterv 2011–2013 |
-
-| 1. Prioritás tartalma |  |  |  |  |  |  |
-
-| Prioritás rövid tartalma (max. 500 karakter) |  |
-
-| A prioritási tengely fő célja a régió településeinek hálózatszerű fejlesztése, elsősorban azok gazdasági és közösségi célú, valamint szociális szempontokat is figyelembe vevő fizikai és funkcionális megújítása révén. A prioritás feladata az elsődleges térségi dinamizáló tényezőként felfogható város és térségére gyakorolt hatás ösztönzése, a város és térsége közötti kiegyensúlyozott, harmonikus kapcsolat elérése, egészségesebb lakókörnyezet megteremtése, a városok belső problémáinak kezelése. |  |
-
-| 2. A prioritás ütemezése – kiírások kerete |  |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |  |  |
-
-| 2011 | 2012 | 2013 | Összesen |  |  |  |
-
-| 1,10 | 6,85 | 2,51 | 10,46 |  |  |  |
-
-| Tervezett ESZA arány (%): | max. 10% |  |  |  |
-
-| 3. A prioritás ütemezése – kötelezettségvállalás (IH döntés) |  |  |  |  |  |
-
-| Indikatív forrásallokáció (Mrd Ft, folyó áron, 280 HUF/EUR árfolyamon) |  |
-
-| 2007–2010 | 2011 | 2012 | 2013 | 2014–2015 | Összesen |  |
-
-| 16,33 | 0,00 | 0,68 | 7,27 | 2,52 | 26,80 |  |
-
-| 3. | II. A támogatási konstrukciók összefoglaló adatai (2011–2013) |  |  |  |  |
-
-| Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (Mrd Ft) | Konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2011 | 2012 | 2013 |
-
-| 3.1.1. | Település (al)központok kialakítása, értékmegőrző rehabilitációja | 1,10 | 6,85 | 2,51 | A városközpontok és városi alközpontok értékmegőrző fejlesztése. A kistelepülések tudatos fejlesztése, élhető és örökségvezérelt települési környezet kialakítása. | belügyminiszter | emberi erőforrások minisztere |
-
-| 3.2.1. | Leromlott vagy leromlással veszélyeztetett városrészek rehabilitációja (20 000 fő feletti városok, megyei jogú városok kivételével) | 0,00 | 0,00 | 0,00 | A szociálisan leromlott lakóterületek és szegregátumok akcióterületi alapú megújítása a fizikai környezet és a társadalmi kohézió együttes erősítése által. | belügyminiszter | emberi erőforrások minisztere |
-
-| 3. Prioritás összesen | 1,10 | 6,85 | 2,51 |  |
-
 2. melléklet az 1209/2014. (IV. 1.) Korm. határozathoz
+
+4K04725_0
 
 |  | A | B | C | D | E | F | G |
 
