@@ -36,7 +36,7 @@
 
 | II.6. | Az in vitro diagnosztikai orvostechnikai eszközök közül a reagensek, reagens származékok, kalibráló és kontrol anyagok, reagens készletek nyilvántartásba vétele eszközcsoportonként | 17 000 Ft |
 
-| II.7. | Igazolás kiállítása hazai gyártású orvostechnikai eszköz EU-n kívül történő forgalmazásához (angol nyelven) | 24 000 Ft |
+| II.7. | Igazolás kiállítása hazai gyártású orvostechnikai eszköz EU-n kívül történő forgalmazásához angol nyelven, nyilvántartásba vételi igazolásonként vagy megfelelőségi tanúsítványonként, az igazolásban maximum 60 termék (maximum 60 sorban) feltüntetésével | 35 000 Ft |
 
 | II.8. | Szakvélemény kiállítása az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek való megfelelés tekintetében | 40 000 Ft |
 

@@ -3,4 +3,4 @@
 1. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^22]
 
 [^21]: A 4. §-t a 14/2004. (III. 4.) ESZCSM rendelet 3. §-a ikatta a szövegbe.
-[^22]: Az 1. számú melléklet a 2/2009. (I. 30.) EüM rendelet 4. §-ának a) pontjával megállapított és a 34/2009. (X. 20.) EüM rendelet 2. § (2) bekezdése, a 29/2012. (IX. 25.) EMMI rendelet 2. §-a, az 57/2012. (XII. 29.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^22]: Az 1. számú melléklet a 2/2009. (I. 30.) EüM rendelet 4. §-ának a) pontjával megállapított és a 34/2009. (X. 20.) EüM rendelet 2. § (2) bekezdése, a 29/2012. (IX. 25.) EMMI rendelet 2. §-a, az 57/2012. (XII. 29.) EMMI rendelet 1. §-a, a 10/2015. (II. 23.) EMMI rendelet 1. §-a szerint módosított szöveg.
