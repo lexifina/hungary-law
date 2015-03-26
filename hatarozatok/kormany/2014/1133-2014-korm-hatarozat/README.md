@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1133-30
 | --- | --- | --- |
 | 2014-03-13 | 2014-1133-30-22.1 | 1133/2014. (III. 13.) Korm. határozat |
 | 2014-03-14 | 2014-1133-30-22.2 | 2010: CXXX. törvény |
+| 2015-03-26 | 2014-1133-30-22.3 | 1179/2015. (III. 25.) Korm. határozat |
