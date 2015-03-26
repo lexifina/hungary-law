@@ -1,4 +1,4 @@
-## 1. megállapítja a Dél-Alföldi Operatív Program (a továbbiakban: DAOP) 2011–2013. évekre szóló akciótervének 1–3. és 5. prioritását az 1–4. melléklet szerint,
+## 1.[^2]
 
 ## 2. egyetért azzal, hogy
 
@@ -20,8 +20,10 @@
 
 ## Határidő: a támogathatósági feltételek teljesítését követően azonnal
 
-## 5.[^1]
+## 5.[^3]
 
-1. melléklet az 1619/2014. (XI. 4.) Korm. határozathoz
+1–4. melléklet az 1619/2014. (XI. 4.) Korm. határozathoz[^4]
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot az 1179/2015. (III. 25.) Korm. határozat 7. pont k) alpontja visszavonta.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1–4. mellékletet az 1179/2015. (III. 25.) Korm. határozat 7. pont k) alpontja visszavonta.
