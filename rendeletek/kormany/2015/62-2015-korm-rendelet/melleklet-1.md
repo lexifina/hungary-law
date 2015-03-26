@@ -1,7 +1,6 @@
-1. melléklet a 62/2015. (III. 24.) Korm. rendelethez
+## 11. §[^10]
 
-Az R. 2. melléklet II. pontja a következő n) alponttal egészül ki:
+1. melléklet a 62/2015. (III. 24.) Korm. rendelethez[^11]
 
-(II. Speciális kivételek:)
-
-„n) a fővárosi és megyei kormányhivatal családtámogatási és lakáscélú állami támogatási feladataival kapcsolatos küldemények.”
+[^10]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
