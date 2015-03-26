@@ -2,8 +2,9 @@
 
 5. § (1) Védett tárgy- vagy műemlékegyüttes, illetőleg védett gyűjtemény esetén az 1. § szerinti kategóriába sorolás a teljes tárgy- vagy műemlékegyüttesre, illetve a védett gyűjtemény egészére vonatkozik.
 
-(2)[^12] A valamely kategóriába besorolt egyes örökségi elemek értéke eltérhet műszaki, biztosítási vagy forgalmi értéküktől.
+(2)[^12] A valamely kategóriába besorolt egyes örökségi elemek számított értéke eltérhet műszaki, biztosítási vagy forgalmi (piaci) értéküktől.
 
-(3) A bírság megfizetése nem mentesít a bírsággal sújtott tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a kulturális örökség elemeinek megóvása érdekében a megfelelő védekezés kialakítására, a védettségi állapot vagy környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
+(3)[^13] A bírság megfizetése nem mentesít a bírsággal sújtott tevékenység korlátozására, felfüggesztésére, tiltására, illetve a kulturális örökség elemeinek megóvása érdekében a megfelelő intézkedés megtételére, a védettségi állapot vagy környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
 
-[^12]: Az 5. § (2) bekezdése a 281/2005. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. §-a alapján a rendelkezést a 2006. január 1. napját követően megvalósított (befejezett) kötelezettségszegésekre kell alkalmazni.
+[^12]: Az 5. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.

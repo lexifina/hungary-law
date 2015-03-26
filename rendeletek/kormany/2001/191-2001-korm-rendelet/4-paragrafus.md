@@ -1,12 +1,21 @@
-## 4. § A bírság összege
+4. §[^11] (1) A bírság összege a kulturális örökségnek a Kövt. hatálybalépése előtt védetté nyilvánított elemei közül a régészeti lelőhelyek és kulturális javak vonatkozásában
 
-a)[^10] az I. kategória esetén 10 ezertől 250 millió forintig,
+a) az I. kategória esetén 10 ezertől 250 millió forintig,
 
-b)[^11] a II. kategória esetén 10 ezertől 125 millió forintig,
+b) a II. kategória esetén 10 ezertől 125 millió forintig,
 
 c) a III. kategória esetén 10 ezertől 25 millió forintig,
 
 d) a IV. kategória esetén 10 ezertől 250 millió forintig
 
-[^10]: A 4. § a) pontja a 281/2005. (XII. 20.) Korm. rendelet 7. § e) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján a rendelkezést a 2006. január 1. napját követően megvalósított (befejezett) kötelezettségszegésekre kell alkalmazni.
-[^11]: A 4. § b) pontja a 281/2005. (XII. 20.) Korm. rendelet 7. § f) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján a rendelkezést a 2006. január 1. napját követően megvalósított (befejezett) kötelezettségszegésekre kell alkalmazni.
+## terjedhet.
+
+(2) A bírság összege a műemlékvédelem tárgyai tekintetében
+
+a) az I. kategória esetén 300 ezertől 250 millió forintig,
+
+b) a II. kategória esetén 175 ezertől 125 millió forintig,
+
+c) a III. kategória esetén 50 ezertől 25 millió forintig
+
+[^11]: A 4. § a 38/2015. (III. 11.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.

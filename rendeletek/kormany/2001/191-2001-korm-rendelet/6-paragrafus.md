@@ -1,4 +1,4 @@
-6. §[^20] (1) A bírság összegét 10 000 forintra, kulturális javak esetén 1000 forintra való kerekítéssel kell megállapítani.
+6. §[^27] (1) A bírság összegét 10 000 forintra, kulturális javak esetén 1000 forintra való kerekítéssel kell megállapítani.
 
 (2) A bírság megfizetésének határideje legfeljebb 90 nap.
 
@@ -6,4 +6,4 @@
 
 (4) A teljesítési határidő előtt benyújtott kérelemre halasztás egy alkalommal engedélyezhető legfeljebb 90 napra.
 
-[^20]: A 6. § a 394/2012. (XII. 20.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^27]: A 6. § a 394/2012. (XII. 20.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
