@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1535-30
 | --- | --- | --- |
 | 2014-09-23 | 2014-1535-30-22.1 | 1535/2014. (IX. 23.) Korm. határozat |
 | 2014-09-24 | 2014-1535-30-22.2 | 2010: CXXX. törvény |
+| 2015-03-26 | 2014-1535-30-22.3 | 1179/2015. (III. 25.) Korm. határozat |
