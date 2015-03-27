@@ -18,9 +18,9 @@ g) társadalmi közszükségletet kielégítő, vagy külföldre történő szol
 
 h) külföldön történő munkavégzés során,
 
-i) a kereskedelemről szóló törvény hatálya alá tartozó, kereskedelmi tevékenységet, a kereskedelmet kiszolgáló szolgáltató, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál, valamint
+i) a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) hatálya alá tartozó, kereskedelmi tevékenységet, a kereskedelmet kiszolgáló szolgáltató, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál
 
-j) a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló törvény keretei között
+j)
 
 foglalkoztatott munkavállaló számára osztható be.
 

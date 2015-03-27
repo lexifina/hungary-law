@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2014-07-01 | 2013. évi CCXLV. törvény | 2012-1-00-00.8 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2012-1-00-00.9 |
 | 2015-03-15 | 2014. évi CII. törvény | 2012-1-00-00.10 |
+| 2015-03-27 | 2015. évi XVII. törvény | 2012-1-00-00.11 |
