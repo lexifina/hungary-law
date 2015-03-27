@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Szlovén Köztársaság Kormánya, Magyarország Kormánya és az Olasz Köztársaság Kormánya között a Többnemzeti Szárazföldi Kötelékről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
