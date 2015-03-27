@@ -7,11 +7,3 @@
 (4) E törvény végrehajtásához szükséges intézkedésekről a határrendészetért, illetve az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
 
 (5) A 2004. évi VII. törvénnyel kihirdetett, a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya közötti, személyeknek a közös államhatáron történő visszafogadásáról szóló, Budapesten, 2002. szeptember 12. napján aláírt Egyezmény a Módosító Egyezménnyel egységes szerkezetbe foglalt szövege közzétételéről a Módosító Egyezmény hatálybalépését követően haladéktalanul a rendészetért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Jakab István s. k.,
-
-az Országgyűlés alelnöke
