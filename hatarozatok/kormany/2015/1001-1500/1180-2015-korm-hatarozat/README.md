@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1180-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-03-26 | 2015-1180-30-22.1 | 1180/2015. (III. 25.) Korm. határozat |
+| 2015-03-27 | 2015-1180-30-22.2 | 1171/2023. (IV. 28.) Korm. határozat |

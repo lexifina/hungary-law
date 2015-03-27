@@ -44,18 +44,10 @@
 
 ## Határidő: folyamatos
 
-## 2. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat (a továbbiakban: határozat) 1. mellékletének 2.3.1. pontjában foglalt táblázat
-
-## a) C:3–C:4 mezőjében az „56,87” szövegrész helyébe a „65,45” szöveg,
-
-## b) E:7 mezőjében a „0,00” szövegrész helyébe a „0,76” szöveg,
-
-## c) C:13 mezőjében az „1,86” szövegrész helyébe a „6,86” szöveg
-
-## lép.
-
-## 3. A határozat 1. melléklete a 3. melléklet szerint módosul.
+## 2–3.[^2]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
 1. melléklet az 1180/2015. (III. 25.) Korm. határozathoz
+
+[^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
