@@ -46,33 +46,7 @@
 
 ## 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 7. A Kormány visszavonja
-
-## a) a regionális operatív programok 2011–2013. évekre szóló akcióterveinek módosításáról és a Nyugat-Dunántúli Operatív Program 5. prioritás keretének növeléséről szóló 2057/2013. (XII. 31.) Korm. határozat 1. pontját, valamint 1., 3., 4., 6. és 7. mellékletét,
-
-## b) a Dél-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterve 3. prioritásának módosításáról szóló 1128/2014. (III. 13.) Korm. határozatot,
-
-## c) a Közép-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról és a prioritás keretének növeléséről szóló 1133/2014. (III. 13.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## d) a regionális operatív programok 2011–2013. évekre szóló akciótervei egyes prioritásainak módosításáról szóló 1185/2014. (III. 27.) Korm. határozatot,
-
-## e) a Közép-Dunántúli Operatív Program és a Dél-Alföldi Operatív Program keretében városrehabilitáció tárgyú kiemelt projektek akciótervi nevesítéséről szóló 1209/2014. (IV. 1.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## f) az Észak-Alföldi Operatív Program 2011–2013. évekre szóló akcióterve 4. prioritásának módosításáról és a prioritás keretének növeléséről szóló 1299/2014. (V. 5.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## g) a regionális operatív programok 2011–2013. évekre szóló akciótervei egyes prioritásainak módosításáról és a Közép-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásán többletkötelezettség vállalásáról szóló 1352/2014. (VI. 26.) Korm. határozat 1. pontját és 3–10. mellékletét,
-
-## h) a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterve 3. prioritásának módosításáról és az NYDOP-3.1.1/B2-13-k2-2013-0004 azonosító számú („Szociális városrehabilitáció a soproni Kurucdombon” című) projekt támogatásának növeléséről szóló 1450/2014. (VII. 31.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## i) a Dél-Alföldi Operatív Program 2011–2013. évekre szóló akcióterve egyes prioritásainak módosításáról szóló 1492/2014. (VIII. 28.) Korm. határozat 1. pontját és 4. mellékletét,
-
-## j) a Közép-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterve 3. prioritásának módosításáról és a KMOP-3.1.1/E-12-k-2012-0001 azonosító számú („Várkert Bazár fejlesztése” című) kiemelt projekt támogatásának növeléséről szóló 1535/2014. (IX. 23.) Korm. határozat 1. pontját és 1. mellékletét,
-
-## k) a Dél-Alföldi Operatív Program 2011–2013. évekre szóló akcióterve egyes prioritásainak módosításáról, valamint a DAOP-2.1.1/G-11-k-2012-0001 azonosító számú („Hétköznapok és ünnepek az alföldi kastélyokban – A gyulai Almásy-kastély évszázadai” című) és a DAOP-2.1.1/G-11-k2-2012-0002 azonosító számú („A Szegedi Dóm turisztikai vonzerővé fejlesztése” című) kiemelt projektek támogatásának növeléséről szóló 1619/2014. (XI. 4.) Korm. határozat 1. pontját és 1–4. mellékletét,
-
-## l) a Nyugat-Dunántúli Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról és az NYDOP-2.1.1/A.B-12-k-2012-0001 azonosító számú („Eszterháza Közép-Európai Kulturális Központ III. fejlesztési ütem” című) projekt támogatásának növeléséről szóló 1620/2014. (XI. 4.) Korm. határozat 1. pontját és 1. mellékletét, valamint
-
-## m) az Észak-Magyarországi Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról és az ÉMOP-2.1.1/A-12-k-2012-0004 azonosító számú („Élő vár Zemplénben” című) projekt támogatásának növeléséről szóló 1860/2014. (XII. 30.) Korm. határozat 1. pontját és 1. mellékletét.
+## 7.[^1]
 
 1. melléklet az 1179/2015. (III. 25.) Korm. határozathoz
 
@@ -317,3 +291,5 @@
 | 6. | 5.2.1. | Környezeti értékeink védelme környezetbiztonság | 3,8730 | 2,4197 | 0,7519 | A konstrukció célja a csapadék, valamint a belvíz okozta károk mérséklése a helyi és térségi jelentőségű vízvédelmi rendszerek fejlesztésével, valamint a 2000 LE alatti kistelepülések szennyvízkezelésének megoldása és a partfalvédelem. | 5.2.1/A, 5.2.1/B és 5.2.1/D konstrukció esetén a belügyminiszter, 5.2.1/C és 5.2.1/E konstrukció esetén a Miniszterelnökséget vezető miniszter | 5.2.1/A konstrukció esetén a Miniszterelnökséget vezető miniszter |
 
 | 7. | 5. prioritás összesen | 4,4060 | 3,4546 | 3,0449 |  |  |  |
+
+[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
