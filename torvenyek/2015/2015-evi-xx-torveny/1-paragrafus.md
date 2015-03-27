@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Azerbajdzsáni Köztársaság Kormánya közötti Légiközlekedési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
