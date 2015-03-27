@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Macedón Köztársaság között a társadalombiztosításról és a szociális biztonságról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
