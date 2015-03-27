@@ -7,11 +7,3 @@
 (4) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik.
 
 (5) A 2006. évi XCI. törvénnyel kihirdetett, a Magyar Köztársaság és a Szlovák Köztársaság között a határokat átlépő bűnözés megelőzésében és a szervezett bűnözés elleni harcban folytatott együttműködésről szóló, Pozsonyban, 2006. október 2-án aláírt Egyezménynek a Módosító Egyezménnyel egységes szerkezetbe foglalt szövege közzétételéről a Módosító Egyezmény hatálybalépését követően haladéktalanul a rendészetért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Jakab István s. k.,
-
-az Országgyűlés alelnöke
