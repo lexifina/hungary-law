@@ -1,1 +1,0 @@
-A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény 54. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 10. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
