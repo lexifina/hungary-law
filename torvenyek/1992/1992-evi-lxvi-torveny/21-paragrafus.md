@@ -38,4 +38,8 @@ r) az út- és úthasználati díjköteles országos közutak díjfizetés ellen
 
 s) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
 
-t) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-felügyeleti információs rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához.
+t) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-felügyeleti információs rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához,
+
+u) a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére, a tartózkodási helyre, az értesítési címre vonatkozó adatok kivételével a mezőgazdasági és vidékfejlesztési támogatási szerv az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához;
+
+v) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére, a tartózkodási helyre, az értesítési címre vonatkozó adatok kivételével az erdészeti hatóság az erdőgazdálkodói nyilvántartás működtetésével összefüggő feladatai ellátásához.
