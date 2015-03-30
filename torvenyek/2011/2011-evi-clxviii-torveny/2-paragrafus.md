@@ -14,7 +14,7 @@
 
 6. egységes kérelem: a közös agrárpolitika keretébe tartozó közvetlen támogatási rendszer részét képező uniós jogi aktusban meghatározottak szerinti közvetlen támogatás kifizetése iránti kérelem;
 
-7. elemi káresemény: üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, téli fagykár vagy viharkár;
+7. elemi káresemény: üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, őszi fagykár, téli fagykár vagy viharkár;
 
 8.
 
@@ -44,7 +44,7 @@
 
 20. mezőgazdasági biztosítás: a lábon álló növénykultúrára, továbbá a gazdasági céllal tartott, illetve tenyésztett haszonállatra kötött vagyonbiztosítás;
 
-21. mezőgazdasági káresemény: a mezőgazdasági termelő használatában lévő termőföldön a káreseménnyel érintett területen a termesztett növénykultúra 30%-ot meghaladó mértékű várható hozamcsökkenését okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, téli fagykár vagy viharkár;
+21. mezőgazdasági káresemény: a mezőgazdasági termelő használatában lévő termőföldön a káreseménnyel érintett területen a termesztett növénykultúra 30%-ot meghaladó mértékű várható hozamcsökkenését okozó aszálykár, belvízkár, felhőszakadáskár, jégesőkár, mezőgazdasági árvízkár, tavaszi fagykár, őszi fagykár, téli fagykár vagy viharkár;
 
 22. mezőgazdasági őstermelő: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 18–19. pontja szerinti magánszemély;
 
@@ -52,7 +52,9 @@
 
 24. mezőgazdasági termény termeltetése: a mezőgazdasági termény termelőjével kötött olyan megállapodás, amely keretében a mezőgazdasági termény termelője a mezőgazdasági termény megtermelését segítő szolgáltatást vesz igénybe, és az így megtermelt mezőgazdasági terményt a szolgáltatás nyújtója saját felhasználás vagy továbbértékesítés céljára átveszi;
 
-25.
+25. őszi fagy: a kockázatviselés helyén az őszi időszakban a talajszinttől számított két méter magasságban mért mínusz 2 °C vagy annál alacsonyabb hőmérséklet;
+
+25a. őszi fagykár: az őszi fagy miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 
 26. referenciahozam: a referencia-időszak hozamának – ideértve szükség esetén az átlaghozamot is – számtani átlaga;
 

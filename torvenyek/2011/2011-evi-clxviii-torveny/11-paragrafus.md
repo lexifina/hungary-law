@@ -8,7 +8,7 @@ b) a használatában levő termőföldön bekövetkezett mezőgazdasági kárese
 
 c) elemi káreseményt szenvedett el,
 
-d) 30%-ot meghaladó mértékű üzemi szintű hozamérték-csökkenést szenvedett el,
+d) 15%-ot meghaladó mértékű üzemi szintű hozamérték-csökkenést szenvedett el,
 
 e) az agrárkár-megállapító szerv az elemi káresemény tényét, valamint a d) pontban foglaltakat a 14. § (2) bekezdése szerinti döntéssel igazolta,
 

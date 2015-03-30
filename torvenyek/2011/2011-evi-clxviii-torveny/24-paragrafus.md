@@ -28,7 +28,9 @@ j) a kárenyhítési hozzájárulás megfizetésének részletes szabályait,
 
 k) a kárenyhítő juttatások kifizetési terve elkészítésének határidejét,
 
-l) a kockázatkezelési adatbázis feletti rendelkezési jogot, a kármegállapítást támogató szervek által a kockázatkezelési adatbázis működéséhez szükséges adatok körét és az adatbázisban szereplő adatok felhasználására vonatkozó szabályokat
+l) a kockázatkezelési adatbázis feletti rendelkezési jogot, a kármegállapítást támogató szervek által a kockázatkezelési adatbázis működéséhez szükséges adatok körét és az adatbázisban szereplő adatok felhasználására vonatkozó szabályokat,
+
+m) az időjárási kockázatkezelési rendszer működtetésével és fejlesztésével kapcsolatos végrehajtási költségek fedezetére szolgáló pénzforrás felhasználásának részletszabályait
 
 rendeletben állapítsa meg.
 

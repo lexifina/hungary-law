@@ -1,5 +1,7 @@
 18. § (1) Az agrárkár-enyhítési szerv a kárbejelentéssel, a kárenyhítési hozzájárulás-fizetési kötelezettség teljesítésével, a kárenyhítő juttatás megállapításával, valamint a mezőgazdasági biztosítás díjához nyújtott támogatás nyújtásával, ellenőrzésével összefüggő feladatai ellátásához mezőgazdasági kockázatkezelési adatbázist működtet.
 
+(1a) A mezőgazdasági kockázatkezelési adatbázis állami tulajdonban van, amely felett a tulajdonosi jogokat a miniszter gyakorolja.
+
 (2) A mezőgazdasági kockázatkezelési adatbázis tartalmazza:
 
 a) a mezőgazdasági termelő azonosítására szolgáló (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
