@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 23,7 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a középmezőben egy lant reneszánsz rozettával díszített húrjainak és húrtartójának ábrázolása látható. Az ábrázolástól jobbra a „BP.” verdejel, balra a „2015” verési évszám olvasható. Az emlékérme szélén, felső köriratban a „MAGYARORSZÁG” felirat, alsó köriratban a „2000” értékjelzés és a „FORINT” felirat olvasható. A felső és az alsó köriratot középen egy-egy pont választja el egymástól. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Tinódi Sebestyén címerének ábrázolása látható. A címertől jobbra az „1515K”, balra az „1556” felirat olvasható, alatta Soltra E. Tamás tervezőművész mesterjegye látható. Az emlékérme szélén, felső köriratban a „TINÓDI SEBESTYÉN”, alsó köriratban az „500 ÉVE SZÜLETETT” felirat olvasható. A felső és az alsó köriratot középen egy-egy pont választja el egymástól. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
