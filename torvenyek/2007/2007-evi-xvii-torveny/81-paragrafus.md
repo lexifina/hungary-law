@@ -60,7 +60,7 @@ e) az EMGA-ból támogatott Nemzeti Diverzifikációs Program intézkedései ese
 
 f) a (3) bekezdés f) pontja alá nem tartozó pályázati eljárás részletes szabályait,
 
-g) a MePAR és az ügyfél-blokk kapcsolat nyilvántartásának részletes szabályait,
+g) a MePAR és az ügyfél-blokk kapcsolat nyilvántartásának részletes szabályait, a MePAR üzemeltetésének részletes szabályait, a MePAR-ban kezelt adattartalmat, az adatszolgáltatás, adatfelhasználás és adatkezelés rendjének részletes szabályait,
 
 h) az intervenciós raktárregiszter létrehozásával, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes szabályokat,
 

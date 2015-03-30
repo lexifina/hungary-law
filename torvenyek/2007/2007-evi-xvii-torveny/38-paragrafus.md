@@ -12,6 +12,8 @@
 
 (6) A kérelem benyújtására vagy beérkezésére nyitva álló, illetve eljárási cselekményre meghatározott határidő vagy határnap elmulasztása esetén – kivéve, ha az intézkedésben való részvétel részletes feltételeit meghatározó jogszabály ezt kifejezetten lehetővé teszi – igazolásnak helye nincs.
 
+(6a) A (6) bekezdéstől eltérően az EMVA és az EHA terhére nyújtott támogatások esetében a kérelem benyújtására vagy beérkezésére nyitva álló, illetve eljárási cselekményre meghatározott határidő vagy határnap elmulasztása esetén – a 43/A. § és a 41. § (6) bekezdésében foglaltak sérelme nélkül – igazolásnak van helye, amely a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 66. § (4) bekezdésétől eltérően 2015. augusztus 31-ig nyújtható be.
+
 (7) A kérelem, illetve a pályázat benyújtása, valamint a vonatkozó jogszabályokban, illetve a pályázati felhívásban rögzített feltételek teljesítése az intézkedésben való részvételre nem jelent alanyi jogosultságot, arról csak a rendelkezésre álló jogosultsági keretekre tekintettel hozható döntés.
 
 (8) Az intézkedésekben való részvétel során az ügyfélnek kell a jogosultsági feltételek meglétét hitelt érdemlően bizonyítania. Az ügyfelet terheli továbbá a kérelemmel, illetve a pályázattal összefüggésben tett bármilyen nyilatkozatával, állításával, valamint mezőgazdasági és vidékfejlesztési támogatási szerv által megállapított ténnyel szemben a bizonyítási kötelezettség.

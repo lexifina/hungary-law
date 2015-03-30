@@ -10,7 +10,7 @@ d) a tagállami hatáskörben
 
 hozott intézkedésekben való részvétellel kapcsolatos, az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek hatáskörébe tartozó eljárására.
 
-(1a) Az (1) bekezdés a) és c) pontja tekintetében e törvényt – a III. Fejezet, a 81. § (1) bekezdés c)–g) pontja, a 81. § (1a) és (2) bekezdése, a 81. § (3) bekezdés b)–d) pontja kivételével – a 2007–2013. programozási időszak intézkedései tekintetében kell alkalmazni.
+(1a) Az (1) bekezdés a) és c) pontja tekintetében e törvényt – a 9. § c) pontja, a III. Fejezet, a 81. § (1) bekezdés c)–g) pontja, a 81. § (1a) és (2) bekezdése, a 81. § (3) bekezdés b)–d) pontja kivételével – a 2007–2013. programozási időszak intézkedései tekintetében kell alkalmazni.
 
 (2) E törvény végrehajtásáért az EMVA vagy az EHA terhére nyújtott támogatás tekintetében az agrár-vidékfejlesztésért felelős miniszter, az EMGA terhére nyújtott támogatás tekintetében az agrárpolitikáért felelős miniszter felel, amelynek keretében:
 

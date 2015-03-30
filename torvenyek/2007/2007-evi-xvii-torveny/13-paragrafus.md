@@ -12,7 +12,7 @@ a) felelős a kifizető ügynökség akkreditációjáért, e feladatkörében �
 
 b) folyamatosan figyelemmel kíséri a kifizető ügynökségnél az akkreditációs feltételek teljesítését;
 
-c) gondoskodik az egyes intézkedésekhez kapcsolódó monitoringrendszer működéséhez és az ellenőrzési feladatok végrehajtásához szükséges ágazati információs rendszereknek más információs rendszerekkel való összehangolásáról;
+c)
 
 d) közleményt ad ki a forrás kimerüléséről.
 

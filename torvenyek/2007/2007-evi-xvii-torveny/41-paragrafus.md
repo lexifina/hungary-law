@@ -4,6 +4,8 @@
 
 (2) Jogszabály eltérő rendelkezése hiányában hiánypótlási, nyilatkozattételre való felhívás azonos tárgyban ismételten nem bocsátható ki.
 
+(2a) A (2) bekezdéstől eltérően az EMVA és az EHA terhére nyújtott támogatások esetében hiánypótlási vagy nyilatkozattételre való felhívás azonos tárgyban egyszer ismételten kibocsátható. E törvény felhatalmazása alapján kiadott miniszteri rendeletben e rendelkezéstől eltérni nem lehet.
+
 (3) Az intézkedések igénybevételének részletes szabályait tartalmazó jogszabály meghatározhatja azon adatok, dokumentumok körét, amelyek a kérelem benyújtására nyitva álló határidő leteltét követően nem pótolhatók.
 
 (4) A hiánypótlási és a nyilatkozattételre való felhívás teljesítésére rendelkezésre álló határidő nem haladhatja meg a harminc napot.

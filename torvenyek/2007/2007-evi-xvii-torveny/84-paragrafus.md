@@ -14,11 +14,11 @@ e) a Tanács 1782/2003/EK rendelete (2003. szeptember 29.) a közös agrárpolit
 
 f) a Tanács 1788/2003/EK rendelete (2003. szeptember 29.) a tej, és tejtermék ágazatban illeték megállapításáról;
 
-g) a Tanács 1290/2005/EK rendelete (2005. június 21.) a közös agrárpolitika finanszírozásáról;
+g) az Európai Parlament és a Tanács 1306/2013/EU rendelete (2013. december 17.) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről;
 
-h) a Tanács 1698/2005/EK rendelete (2005. szeptember 20.) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról;
+h) az Európai Parlament és a Tanács 1305/2013/EU rendelete (2013. december 17.) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről;
 
-i) a Tanács 1198/2006/EK rendelete (2006. július 27.) az Európai Halászati Alapról;
+i) az Európai Parlament és a Tanács 508/2014/EU rendelete (2014. május 15.) az Európai Tengerügyi és Halászati Alapról, valamint a 2328/2003/EK, a 861/2006/EK, az 1198/2006/EK és a 791/2007/EK tanácsi rendelet, valamint az 1255/2011/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről;
 
 j) a Bizottság 800/1999/EK rendelete (1999. április 15.) a mezőgazdasági termékek után járó export visszatérítési rendszer alkalmazása közös részletes szabályainak megállapításáról;
 
@@ -30,7 +30,7 @@ m) a Bizottság 796/2004/EK rendelete (2004. április 21.) a közös agrárpolit
 
 n) a Bizottság 1973/2004/EK rendelete (2004. október 29.) az 1782/2003/EK tanácsi rendelet IV. és IVa. címeiben meghatározott támogatási rendszereket, továbbá pihentetett terület alapanyag-termelésre való használatát illetően ugyanezen rendelet alkalmazásának részletes szabályozásáról;
 
-o) a Bizottság 1535/2007/EK rendelete (2007. december 20.) az EK-Szerződés 87. és 88. cikkének a mezőgazdasági termelőágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról;
+o) a Bizottság 1408/2013/EU rendelete (2013. december 18.) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról;
 
 p) a Bizottság 885/2006/EK rendelete (2006. június 21.) az 1290/2005/EK tanácsi rendeletnek a kifizető ügynökségek és más testületek akkreditációja és az EMGA és az EMVA számláinak elszámolása tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról;
 
@@ -42,16 +42,16 @@ s) a Bizottság 1848/2006/EK rendelete (2006. december 14.) a közös agrárpoli
 
 t) a Bizottság 1975/2006/EK rendelete (2006. december 7.) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról;
 
-u) a Bizottság 875/2007/EK rendelete (2007. július 24.) az EK-Szerződés 87. és 88. cikkének a halászati ágazatban nyújtott csekély összegű (de minimis) támogatásokra való alkalmazásáról és az 1860/2004/EK rendelet módosításáról;
+u) a Bizottság 717/2014/EU rendelete (2014. június 27.) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról;
 
-v) a Bizottság 1998/2006/EK rendelete (2006. december 15.) a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról;
+v) a Bizottság 1407/2013/EU rendelete (2013. december 18.) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról;
 
-w) a Bizottság 1857/2006/EK rendelete (2006. december 15.) a Szerződés 87. és 88. cikkének a mezőgazdasági termékek előállításával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról és a 70/2001/EK rendelet módosításáról;
+w) a Bizottság 702/2014/EU rendelete (2014. június 25.) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról;
 
 x) a Bizottság 736/2008/EK rendelete (2008. július 22.) a Szerződés 87. és 88. cikkének a halászati termékek előállításával, feldolgozásával és forgalmazásával foglalkozó kis- és középvállalkozásoknak nyújtott állami támogatásokra történő alkalmazásáról;
 
-y) a Bizottság 800/2008/EK rendelete (2008. augusztus 6.) a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról.
+y) a Bizottság 651/2014/EU rendelete (2014. június 17.) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról;
 
-z) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet;
+z) az Európai Parlament és a Tanács 1307/2013/EU rendelete (2013. december 17.) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről;
 
-zs) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet.
+zs) a Bizottság felhatalmazáson alapuló 640/2014/EU rendelete (2014. március 11.) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről.

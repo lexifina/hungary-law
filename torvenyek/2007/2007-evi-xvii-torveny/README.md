@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2007-17-00-00.29 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2007-17-00-00.30 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2007-17-00-00.31 |
+| 2015-03-30 | 2015. évi XII. törvény | 2007-17-00-00.32 |
