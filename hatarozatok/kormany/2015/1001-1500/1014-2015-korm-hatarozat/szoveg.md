@@ -168,17 +168,15 @@ emberi erőforrások minisztere
 
 Határidő: folyamatos, de legkésőbb 2015. április 30.
 
-16. felhívja a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagjait, hogy ne hagyjanak jóvá olyan, a 2007–2013 közötti programozási időszak operatív programjai keretében uniós forrásból megvalósítandó, háromszázmillió forintot elérő, vagy meghaladó értékű építési beruházás vagy építési koncesszió megvalósítására irányuló közbeszerzési dokumentációt, amelyben a közbeszerzési eljárás megindításának időpontja 2015. február 1-jét követő, illetve amelyben a tevékenység nem fejeződik be 2015. november 30-ig azzal, hogy e határidőn – azaz 2015. február 1-jén – túl a Kormány, vagy a Nemzeti Fejlesztési Kormánybizottság előzetes hozzájárulásával lehet közbeszerzési eljárást indítani, és amennyiben e közbeszerzésből az Európai Unió felé el nem számolható költség merül fel, az az operatív programért felelős minisztérium költségvetését terheli;
+16.[^1] egyetért azzal, hogy ha a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja
 
-Felelős: Miniszterelnökséget vezető miniszter
+a) olyan támogatási szerződést köt, illetve
 
-nemzetgazdasági miniszter
+b) a támogatási szerződések módosítására irányuló kérelmek elbírálásakor olyan támogatási szerződés módosításhoz járul hozzá, valamint
 
-nemzeti fejlesztési miniszter
+c) a közbeszerzési dokumentumok támogathatósági, elszámolhatósági és műszaki szempontú minőségellenőrzése során olyan közbeszerzési eljárás megindításához járul hozzá,
 
-emberi erőforrások minisztere
-
-Határidő: folyamatos
+amely eredményeként az elszámolhatósági időszakon kívül költség merülne fel, akkor a támogatási szerződés, módosított támogatási szerződés, illetve – a szakaszolt projektekből finanszírozott szerződések kivételével – a kedvezményezett és a nyertes ajánlattevő között létrejött szerződés által előidézett, az Európai Unió felé el nem számolható költséget – a kedvezményezett által finanszírozott összeg kivételével – annak a minisztériumnak a központi költségvetésbeli fejezetéből kell finanszírozni, amelynek a projektet finanszírozó operatív program végrehajtásáért felelős irányító hatóság a szervezeti egysége;
 
 17. felhívja a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagjait, hogy költségvetési szerv kedvezményezett esetén gondoskodjanak arról, hogy az előirányzat-maradvány képzési lehetőséget kihasználó kedvezményezett ne használhassa fel a hazai költségvetési forrás maradvány részét, amíg az uniós finanszírozású projektjében neki felróható okból adódó késedelmét nem számolta fel;
 
@@ -290,6 +288,7 @@ Határidő: folyamatos
 
 II.
 
-1–2.[^1]
+1–2.[^2]
 
-[^1]: A II. rész 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az I. 16. pont az 1186/2015. (III. 30.) Korm. határozattal megállapított szöveg.
+[^2]: A II. rész 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
