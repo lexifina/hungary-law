@@ -1,0 +1,3 @@
+7. § Az Eljárási Törvény 39. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Egyes, az EMVA-ból vagy nemzeti forrásból finanszírozott, jogszabályban, illetve pályázati felhívást tartalmazó közleményben meghatározott intézkedések esetében a kérelem benyújtását követően a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy a kérelem rendelkezik-e az értékelési eljárás lefolytatásához szükséges, jogszabályban, illetve pályázati felhívást tartalmazó közleményben előírt valamennyi tartalmi és formai kellékkel, és ezáltal rangsorba állítható-e (a továbbiakban: befogadás).”

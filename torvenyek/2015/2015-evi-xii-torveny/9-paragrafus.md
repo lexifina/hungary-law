@@ -1,0 +1,3 @@
+9. § Az Eljárási Törvény a következő 55/A. §-sal egészül ki:
+
+„55/A. § Az ügyfélkapun keresztül elektronikus úton kézbesített irat az átvétel napján kézbesítettnek minősül, ha a központi elektronikus szolgáltató rendszer az irat kézhezvételét igazolja vissza. Amennyiben az irat átvétele öt napon belül nem kerül visszaigazolásra, a mezőgazdasági és vidékfejlesztési támogatási szerv az iratot ismételten megküldi az ügyfél értesítési tárhelyére. Ebben az esetben az elektronikus úton kézbesített hatósági irat vonatkozásában a kézbesítési vélelem az iratnak az értesítési tárhelyen történő ismételt elhelyezésétől számított ötödik napot követő munkanapon áll be.”
