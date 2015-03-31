@@ -32,7 +32,7 @@
 
 | 15. | A Nemzetközi Egészségügyi Rendszabályok végrehajtása kapcsán felmerülő feladatellátás terve | X | X | – |
 
-2. melléklet a 43/2014. (VIII. 19.) EMMI rendelethez
+2. melléklet a 43/2014. (VIII. 19.) EMMI rendelethez[^16]
 
 ## A résztervekre vonatkozó részletes előírások
 
@@ -76,7 +76,7 @@
 
 2.2. A kitelepítési tervet telephelyenként kell elkészíteni.
 
-2.3. A kitelepülő intézményt befogadó, az illetékes védelmi bizottság által kijelölt objektumok földrajzi elhelyezkedésének, valamint az intézményt potenciálisan veszélyeztethető természeti tényezők, havária veszélyes objektumok és az uralkodó meteorológiai viszonyok figyelembevételével a résztervet több változatban kell elkészíteni.
+2.3. A kitelepülő intézményt befogadó, az illetékes fővárosi, megyei védelmi bizottság által kijelölt objektumok földrajzi elhelyezkedésének, valamint az intézményt potenciálisan veszélyeztethető természeti tényezők, havária veszélyes objektumok és az uralkodó meteorológiai viszonyok figyelembevételével a résztervet több változatban kell elkészíteni.
 
 2.4. A Kitelepítési tervet előzetesen egyeztetni kell a helyi és területi (megyei fővárosi) védelmi igazgatás szerveivel. A jóváhagyott tervet a betegszállítási feladatok tervezhetősége érdekében meg kell küldeni az Országos Mentőszolgálat (a továbbiakban: OMSZ) megyei szervezete részére.
 
@@ -122,7 +122,7 @@
 
 3.4. A Kimenekítési terv mindkét változata tartalmazza:
 
-3.4.1. az ideiglenes befogadásra alkalmas, az illetékes védelmi bizottság által kijelölt objektumok címét, megnevezését, felelős vezetőinek elérhetőségét,
+3.4.1. az ideiglenes befogadásra alkalmas, az illetékes fővárosi, megyei védelmi bizottság által kijelölt objektumok címét, megnevezését, felelős vezetőinek elérhetőségét,
 
 3.4.2. az OMSZ vezetésével való azonnali kapcsolatfelvételt és a szállítási kapacitások igénylésének rendjét, módját,
 
@@ -226,7 +226,7 @@
 
 6.1.1. a telepítendő szükségkórház típusát,
 
-6.1.2. a telepítés helyét, az illetékes védelmi bizottság által kijelölt befogadó objektum megnevezését, címét, tulajdonosa, üzemeltetője megnevezését, címadatait,
+6.1.2. a telepítés helyét, az illetékes fővárosi, megyei védelmi bizottság által kijelölt befogadó objektum megnevezését, címét, tulajdonosa, üzemeltetője megnevezését, címadatait,
 
 6.1.3. az objektumot kiutaló határozatot,
 
@@ -455,3 +455,5 @@
 14.2.7. az egészségügyi zárlat működtetésére vonatkozó terveket.
 
 14.3. Kapcsolódó tervek: Riasztási, berendelési Terv, Szállítási terv, Többletfeladatok ellátásának terve.
+
+[^16]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a szerint módosított szöveg.
