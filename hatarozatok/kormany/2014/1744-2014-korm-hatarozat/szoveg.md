@@ -30,7 +30,7 @@ Határidő: a 7–10. pontokban meghatározottak szerint
 
 3.2. Magyar Bányászati és Földtani Hivatal bányakapitányságai;
 
-4. egyetért azzal, hogy a Magyar Államkincstár megyei igazgatóságainak családtámogatási és szociális ellátási, valamint lakáscélú állami támogatással összefüggő feladataiban – a feladatok ellátásához szükséges személyi, dologi és infrastrukturális feltételek biztosítása mellett – a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hivatalai járjanak el;
+4.[^1] egyetért azzal, hogy a Magyar Államkincstár megyei igazgatóságainak családtámogatási és szociális ellátási, valamint lakáscélú állami támogatással összefüggő feladataiban – a feladatok ellátásához szükséges személyi, dologi és infrastrukturális feltételek biztosítása mellett – a fővárosi és megyei kormányhivatalok járjanak el;
 
 5. egyetért azzal, hogy a Bevándorlási és Állampolgársági Hivatal anyakönyvezéssel összefüggő feladataiban – a feladatok ellátásához szükséges személyi, dologi és infrastrukturális feltételek biztosítása mellett – a fővárosi és megyei kormányhivatalok járjanak el;
 
@@ -138,4 +138,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2015. február 28.
 
-13. egyetért azzal, hogy a 3. pontban meghatározott területi államigazgatási szerveknek és a 4–6. pontban meghatározott feladatoknak a fővárosi és megyei kormányhivatalokba történő integrálásának időpontja: 2015. március 1.
+13.[^2] egyetért azzal, hogy a 3. pontban meghatározott területi államigazgatási szerveknek és a 4–6. pontban meghatározott feladatoknak a fővárosi és megyei kormányhivatalokba történő integrálásának időpontja: 2015. április 1.
+
+[^1]: A 4. pont az 1195/2015. (III. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 13. pont az 1195/2015. (III. 31.) Korm. határozat 1. pontja szerint módosított szöveg.
