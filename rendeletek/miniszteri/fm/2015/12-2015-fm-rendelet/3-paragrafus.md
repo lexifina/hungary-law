@@ -1,0 +1,5 @@
+## 3. Az egységes kérelem tartalma
+
+3. § (1) Az egységes kérelemnek tartalmaznia kell az ügyfél támogatási, illetve kifizetési igényét a 2. § (1) bekezdésben meghatározott támogatások vonatkozásában. Az ügyfélnek az egységes kérelemben meg kell jelölnie, hogy mely támogatási jogcímre vonatkozik az igénylése, ki kell töltenie az igényléshez kapcsolódó mezőket és meg kell adnia a támogatásra való jogosultság megállapításához szükséges adatokat.
+
+(2) Az egységes kérelemben az 1306/2013/EU parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet (a továbbiakban: 809/2014/EU rendelet) 14. cikk (1) bekezdés d) pontjában meghatározott területadatok megadására vonatkozó kötelezettségét az ügyfélnek a MePAR szerinti fizikai blokk alfanumerikus, továbbá a bejelentett tábla numerikus és grafikus azonosításával, valamint a bejelentett táblák hasznosítására vonatkozó adatok megadásával kell teljesíteni.
