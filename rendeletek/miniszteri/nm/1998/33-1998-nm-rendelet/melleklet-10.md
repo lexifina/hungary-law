@@ -4,43 +4,41 @@
 
 ## A) Hatóanyagok (amelyek nem szerepelnek a 8. számú mellékletben), továbbá eljárások
 
-## 1. Kémiai kóroki tényezők
+## 1.[^106] Kémiai kóroki tényezők
 
-## a) Azok a veszélyes anyagok, amelyek a 44/2000. (XII. 17.) EüM rendelet előírásainak megfelelően mérgező (T), nagyon mérgező (T+), maró hatású (C) vagy robbanásveszélyes (E) osztályba sorolt anyagok és készítmények.
+## a) Az 1272/2008/EK rendelet alapján a besorolás kritériumainak megfelelő, a következő veszélyességi osztályok és kategóriák egyikébe, vagy ezek közül többe besorolt, és a következő figyelmeztető mondat egyikével, vagy ezek közül többel ellátott anyagok és keverékek:
 
-## b) A károsító (Xn) osztályba sorolt anyagok és készítmények, amelyekre az alábbi veszélyességi kifejezések közül egy vagy több alkalmazható:
+## aa) akut toxicitás, 1., 2. vagy 3. kategória (H300, H310, H330, H301, H311, H331),
 
-## ba) nagyon súlyos, irreverzíbilis hatások veszélye (R39),
+## ab) bőrmarás, 1A., 1B.vagy 1C. kategória (H314),
 
-## bb) irreverzíbilis hatások esetleges veszélye (R40),
+## ac) tűzveszélyes gáz, 1. vagy 2. kategória (H220, H221),
 
-## bc) belégzéssel érzékenyítést okozhatnak (R42),
+## ad) tűzveszélyes aeroszolok, 1. kategória (H222),
 
-## bd) bőrrel való érintkezésük érzékenyítést okozhat (R43),
+## ae) tűzveszélyes folyadék, 1. vagy 2. kategória (H224, H225),
 
-## be) hosszan tartó érintkezés velük súlyos egészségkárosodás veszélyével jár (R48),
+## af) robbanóanyagok – „instabil robbanóanyag” kategória vagy 1.1., 1.2., 1.3., 1.4., 1.5. alosztályba tartozó robbanóanyag kategória (H200, H201, H202, H203, H204, H205),
 
-## bf) károsíthatják a termékenységet (R60),
+## ag) önreaktív anyagok és keverékek, A., B., C. vagy D. típus (H240, H241, H242),
 
-## bg) károsodást okozhatnak a magzatnak (61).
+## ah) szerves peroxidok, A. vagy B. típus (H240, H241),
 
-## c) Az (Xi) osztályba sorolt anyagok és készítmények, amelyekre az alábbi veszélyességi kifejezések közül egy vagy több alkalmazható:
+## ai) célszervi toxicitás egyszeri expozíciót követően, 1. vagy 2. kategória (H370, H371),
 
-## ca) nagyon gyúlékonyak (R12),
+## aj) célszervi toxicitás ismétlődő expozíciót követően, 1. vagy 2. kategória (H372, H373),
 
-## cb) belégzéssel érzékenyítést okozhatnak (R42),
+## ak) légzőszervi szenzibilizáció, 1. kategória, 1A. vagy 1B. alkategória (H334),
 
-## cc) bőrrel való érintkezésük érzékenyítést okozhat (R43).
+## al) bőrszenzibilizáció, 1. kategória, 1A. vagy 1B. alkategória (H317),
 
-## d) Eljárások:
+## am) rákkeltő hatás, 1A., 1B. vagy 2. kategória (H350, H350i, H351),
 
-## da) auramin gyártása,
+## an) csírasejt-mutagenitás, 1A., 1B. vagy 2. kategória (H340, H341),
 
-## db) policiklikus, aromás szénhidrogének hatásának való kitétellel járó munkák szénből származó korom, szurok és kátrány jelenlétében,
+## ao) reprodukciós toxicitás, 1A. vagy 1B. kategória (H360, H360F, H360FD, H360Fd, H360D, H360Df).
 
-## dc) réz-nikkel ércek kiolvasztásakor és elektromos finomításakor keletkező por, füst és permet hatásának való kitétellel járó munkák,
-
-## dd) isopropyl-alkohol gyártásakor alkalmazott savas eljárás.
+## b) A 2004/37/EK irányelv I. mellékletében felsorolt ipari eljárások.
 
 ## 2. Biológiai kóroki tényezők
 
@@ -59,3 +57,5 @@
 ## 5. A szerkezet összeomlásával végzett munka.
 
 10. számú melléklet a 33/1998. (VI. 24.) NM rendelethez
+
+[^106]: A 9/A. számú melléklet A) pont 1. pontja a 16/2015. (III. 30.) EMMI rendelet 12. § (3) bekezdésével megállapított szöveg.

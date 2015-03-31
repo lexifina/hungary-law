@@ -190,7 +190,7 @@
 
 ## Az újonnan alakult államok névváltozása folyamatosan módosítandó.
 
-8. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^98]
+8. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^103]
 
 A sérülékeny csoportok egészségét potenciálisan károsító, tiltást igénylő megterhelések
 
@@ -198,9 +198,9 @@ A sérülékeny csoportok egészségét potenciálisan károsító, tiltást ig�
 
 [A mellékletben a tiltást + jelöli. A zárójelben szereplő számok (magyarázatuk a táblázat végén található) a foglalkoztathatóság feltételeit jelentik.]
 
-## 7M03775_0
+## 5K03529M_0
 
-|  | Megterhelések | Terhes | Fiatal- korú | <45 | 45-x | >x | Fiatal- korú | >x |
+|  | Megterhelések | Váran- dós | Fiatal- korú | <45 | 45-x | >x | Fiatal- korú | >x |
 
 | (1) | éves | éves |
 
@@ -244,13 +244,13 @@ A sérülékeny csoportok egészségét potenciálisan károsító, tiltást ig�
 
 | 2.1.1.3. | Könnyű fizikai munka | + | + |  |  |  | + |  |
 
-| 2.1.2. | Hideg munkakörnyezetben végzett munka61 | + | + |  |  |  | + |  |
+| 2.1.2. | Hideg munkakörnyezetben végzett munka104 | + | + |  |  |  | + |  |
 
 | 2.1.3. | Váltakozva hideg-meleg munkahelyen végzett munka | + | + |  |  |  |  | (5) |
 
 | 2.1.4. | Nedves munkakörnyezetben végzett munka | + | (5) |  |  |  | + | (5) |
 
-| 2.2.62 | Kéz/kar rezgés 2,5 m/s2 expozíció felett | + | + | + | + | + | + |  |
+| 2.2.105 | Kéz/kar rezgés 2,5 m/s2 expozíció felett | + | + | + | + | + | + |  |
 
 | 2.3.2 | Egész testre ható rezgéssel járó munka: 0,5 m/s2 expozíció felett | + | + | + | + | + | + |  |
 
@@ -258,7 +258,7 @@ A sérülékeny csoportok egészségét potenciálisan károsító, tiltást ig�
 
 | 2.5. | Mikrohullámú sugár-expozíció | + | + |  |  |  | + |  |
 
-| 2.6.63 | Zajexpozícióban végzett munka: a munkavállalót érő, az alkalmazott egyéni hallásvédő eszköz zajcsillapító képességének figyelembevételével számított 87 dBA egyenértékű A-hangnyomásszintet meghaladó napi expozíció, illetve a munkavállalót érő 140 dBC csúcs hangnyomásszintet meghaladó pillanatnyi zajbehatás | + | + |  |  |  | + |  |
+| 2.6.106 | Zajexpozícióban végzett munka: a munkavállalót érő, az alkalmazott egyéni hallásvédő eszköz zajcsillapító képességének figyelembevételével számított 87 dBA egyenértékű A-hangnyomásszintet meghaladó napi expozíció, illetve a munkavállalót érő 140 dBC csúcs hangnyomásszintet meghaladó pillanatnyi zajbehatás | + | + |  |  |  | + |  |
 
 | 2.7. | Túlnyomásban végzett munka | + | + |  |  | (5) | (5) | + |
 
@@ -274,9 +274,9 @@ A sérülékeny csoportok egészségét potenciálisan károsító, tiltást ig�
 
 | 2.8.5. | Hormonok, hormonkészítmények gyártásával, csomagolásával járó munkák | +, (2) | + | (5), (8) |  | (5) | + | (5) |
 
-| 2.8.6. | A külön jogszabályban meghatározott rákkeltő anyagok | +, (2) | + | (5) |  |  | + |  |
+| 2.8.6. | A külön jogszabályban meghatározott rákkeltő anyagok (10) | +, (2) | + | (5) |  |  | + |  |
 
-| 2.8.7. | Az alábbi vegyi anyagokkal történő expozíció: |  |  |  |  |  |  |  |
+| 2.8.7. | A következő vegyi anyagokkal történő expozíció: |  |  |  |  |  |  |  |
 
 | aminopterin | +, (2) | + | (5), (8) |  |  | + |  |
 
@@ -302,15 +302,17 @@ A sérülékeny csoportok egészségét potenciálisan károsító, tiltást ig�
 
 | nikotin | +, (2) | + |  |  |  | + |  |
 
+| ólom és szervetlen vegyületei | + | + |  |  |  | + |  |
+
 | tireosztatikumok |  |  | (5), (8) |  |  |  |  |
 
 | treoszulfán | +, (2) | + | (5), (8) |  |  | + |  |
 
-| Szaporodást károsító anyagok 1. kategória64 | +, (2) | + |  |  |  | + |  |
+| Szaporodást károsító anyagok (11) 1. kategória | +, (2) | + |  |  |  | + |  |
 
-| 2.8.8. | Szaporodást károsító anyagok 2. kategória4 | + | + |  |  |  | + |  |
+| 2.8.8. | Szaporodást károsító anyagok (11) 2. kategória | + | + |  |  |  | + |  |
 
-| 2.8.9. | Mutagén anyagok 2. kategória65 | + | + |  |  |  | + |  |
+| 2.8.9. | Mutagén anyagok (10) 2. kategória | + | + |  |  |  | + |  |
 
 | hexametilfoszfortriamid | + | + |  |  |  | + |  |
 
@@ -324,35 +326,31 @@ A sérülékeny csoportok egészségét potenciálisan károsító, tiltást ig�
 
 | etilén-oxid | + | + |  |  |  | + |  |
 
-| metil-akrilamidometoxi-acetát (>0,1% akrilamid-tartalommal) | + | + |  |  |  | + |  |
+| metil-akrilamidometoxi-acetát (≥0,1% akrilamid-tartalommal) | + | + |  |  |  | + |  |
 
-| metil-akrilamidoglikolát (>0,1% akrilamid-tartalommal) | + | + |  |  |  | + |  |
+| metil-akrilamidoglikolát (≥0,1% akrilamid-tartalommal) | + | + |  |  |  | + |  |
 
 | etilénimilin; azriridin | + | + |  |  |  | + |  |
 
 | akrilamid | + | + |  |  |  | + |  |
 
-| 2.9. | Tüdőfibrózist okozó porexpozíció66 | + | + |  |  |  | + |  |
+| 2.9. | Tüdőfibrózist okozó porexpozíció107 | + | + |  |  |  | + |  |
 
-| 2.10. | Toxoplazma és rubeola vírusfertőzés veszélyével járó munka, illetve expozíció, kivéve, ha terhes dolgozók immunizálás útján megfelelő védelmet kaptak ezen ágensek ellen | + | + |  |  |  | + |  |
+| 2.10. | Toxoplazma és rubeola vírusfertőzés veszélyével járó munka, illetve expozíció, kivéve, ha várandós dolgozók immunizálás útján megfelelő védelmet kaptak ezen ágensek ellen | + | + |  |  |  | + |  |
 
-## 61 Megállapította: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet 7. § 2. számú melléklet.
+## 104 Megállapította: 3/2002. (II. 8.) SZCSM–EüM együttes rendelet 7. § 2. számú melléklet.
 
-## 62 Megállapította: 22/2005. (VI. 24.) EüM rendelet 10. § (3) bekezdés c) pont.
+## 105 Megállapította: 22/2005. (VI. 24.) EüM rendelet 10. § (3) bekezdés c) pont.
 
-## 63 Megállapította: 66/2005. (XII. 22.) EüM rendelet 15. § (5) bekezdés.
+## 106 Megállapította: 66/2005. (XII. 22.) EüM rendelet 15. § (5) bekezdés.
 
-## 64 41/2000. (XII. 20.) EüM–KöM együttes rendelet 1. számú melléklet 31. pont.
-
-## 65 41/2000. (XII. 20.) EüM–KöM együttes rendelet 1. számú melléklet 30. pont.
-
-## 66 Megállapította: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet 1. sz. melléklet 1.2 pont
+## 107 Megállapította: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet 1. sz. melléklet 1.2 pont
 
 ## Jelmagyarázat:
 
 ## + Tiltás.
 
-(1) A tiltás terhesekre, nemrégen szült dolgozókra és szoptató anyákra terjed ki.
+(1) A tiltás várandósokra, nemrégen szült dolgozókra és szoptató anyákra terjed ki.
 
 (2) A tiltás az anyatejet adókra is kiterjed.
 
@@ -366,12 +364,16 @@ A sérülékeny csoportok egészségét potenciálisan károsító, tiltást ig�
 
 (7) A föld alatti bányászati, kőolaj- és földgázbányászati mélyfúrási munkakörökben végzett munka esetében esetenkénti döntés az (5) pontban foglaltak szerint, kivéve: fizikai munkát nem végző nők vagy azok, akik szakmai kiképzésük céljából kötelesek bizonyos időt föld alatti bányászati munkakörben vagy fúrótoronynál eltölteni.
 
-(8) Korai terhesség (<14. terhességi nap) vizsgálati feltételeinek és vizsgálatának biztosítása kötelező. A korai terhesség védelme végett a fogamzóképes korú nő a (8) jelzésű anyagokkal (ezek gyártásával, kiszerelésével, illetőleg növényvédő szerek esetében felhordásával) csak akkor foglalkoztatható, ha a munkaadó biztosítja a korai terhesség diagnosztizálásához szükséges gyorstesztet. A gyorstesztet családtervezés előtt álló munkavállaló nő a foglalkozás-egészségügyi szolgálat orvosa útján kapja meg, ha a családtervezést neki bejelentette, és a gyorsteszt alkalmazásának módját, időpontját az orvossal ugyancsak előzetesen megbeszélte, és írásban nyilatkozik arról, hogy a megbeszélés értelmében megfelelően jár el, valamint a teszt eredményéről a foglalkozás-egészségügyi orvosát 24 órán belül tájékoztatja.
+(8) Korai várandósság (<14. várandóssági nap) vizsgálati feltételeinek és vizsgálatának biztosítása kötelező. A korai várandósság védelme végett a fogamzóképes korú nő a (8) jelzésű anyagokkal (ezek gyártásával, kiszerelésével, illetőleg növényvédő szerek esetében felhordásával) csak akkor foglalkoztatható, ha a munkaadó biztosítja a korai várandósság diagnosztizálásához szükséges gyorstesztet. A gyorstesztet családtervezés előtt álló munkavállaló nő a foglalkozás-egészségügyi szolgálat orvosa útján kapja meg, ha a családtervezést neki bejelentette, és a gyorsteszt alkalmazásának módját, időpontját az orvossal ugyancsak előzetesen megbeszélte, és írásban nyilatkozik arról, hogy a megbeszélés értelmében megfelelően jár el, valamint a teszt eredményéről a foglalkozás-egészségügyi orvosát 24 órán belül tájékoztatja.
 
 (9) A 4. számú mellékletben szereplő munkakörök, tevékenységek.
+
+(10) Az 1272/2008/EK rendelet szerint rákkeltő 1A., 1B. vagy 2., illetve csírasejt mutagén 1A., 1B. vagy 2. kategóriájú anyagok.
+
+(11) Az 1272/2008/EK rendelet szerint reprodukciót károsító hatású 1A., 1B. vagy 2. kategóriájú anyagok.
 
 x Az egyénre irányadó nyugdíjkorhatár.
 
 * Szaporodást károsító anyagok 1. kategória.
 
-[^98]: A 8. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^103]: A 8. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított, a 16/2015. (III. 30.) EMMI rendelet 12. § (1) bekezdése, 13. § a)–b), d)–e) pontja szerint módosított szöveg.

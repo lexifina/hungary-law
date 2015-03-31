@@ -30,15 +30,16 @@ m)[^4] munkaviszony: a munka törvénykönyvéről szóló 2012. évi I. törvé
 
 n)[^5] idősödő: az egyénre irányadó nyugdíjkorhatárt betöltött személy;
 
-o) sérülékeny csoportok: fiatalkorúak, továbbá terhes, nemrégen szült, anyatejet adó nők és szoptató anyák, valamint idősödők;
+o)[^6] sérülékeny csoportok: fiatalkorúak, továbbá várandós, nemrégen szült, anyatejet adó nők és szoptató anyák, valamint idősödők;
 
 p) nemrégen szült nő: aki legfeljebb hat héttel korábban szült, de gyermekét nem neveli, számára anyatejet nem ad.
 
-q)[^6] munkaügyi kirendeltség: a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatal munkaügyi kirendeltsége.
+q)[^7] munkaügyi kirendeltség: a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatal munkaügyi kirendeltsége.
 
 [^1]: Az 1. § e) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
 [^2]: Az 1. § k) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
 [^3]: Az 1. § l) pontja az 55/2013. (XII. 4.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § m) pontja a 41/2012. (XII. 20.) NGM rendelet 3. §-ával megállapított szöveg.
 [^5]: Az 1. § n)-q) pontját a 27/2000. (IX. 30.) EüM rendelet 1. §-a iktatta a szövegbe.
-[^6]: Az 1. § q) pontot a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte, újonnan a 41/2012. (XII. 20.) NGM rendelet 3. §-a iktatta be.
+[^6]: Az 1. § o) pontja a 16/2015. (III. 30.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § q) pontot a 18/2007. (V. 10.) SZMM rendelet 24. § d) pontja hatályon kívül helyezte, újonnan a 41/2012. (XII. 20.) NGM rendelet 3. §-a iktatta be.

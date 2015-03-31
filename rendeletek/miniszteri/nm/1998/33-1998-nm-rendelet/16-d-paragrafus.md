@@ -1,6 +1,6 @@
-## A büntető ügyben kiszabott közérdekű munkához kapcsolódó foglalkoztathatósági szakvélemény[^91]
+## A büntető ügyben kiszabott közérdekű munkához kapcsolódó foglalkoztathatósági szakvélemény[^95]
 
-16/D. §[^92] (1) A foglalkoztathatóság szakvéleményezését a közérdekű munka esetén a pártfogó felügyelői szolgálat kezdeményezi a közérdekű munkahely kijelölése előtt az elítélt nevének és a közérdekű munkaként végezhető munkakör megnevezésének a megadásával.
+16/D. §[^96] (1) A foglalkoztathatóság szakvéleményezését a közérdekű munka esetén a pártfogó felügyelői szolgálat kezdeményezi a közérdekű munkahely kijelölése előtt az elítélt nevének és a közérdekű munkaként végezhető munkakör megnevezésének a megadásával.
 
 (2) A foglalkoztathatósági vizsgálatról a szakvéleményt
 
@@ -20,5 +20,5 @@ c) a feladatra szerződött foglalkozás-egészségügyi szakellátó hely szako
 
 Záró és átmeneti rendelkezések
 
-[^91]: A 16/D. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^92]: A 16/D. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^95]: A 16/D. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^96]: A 16/D. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
