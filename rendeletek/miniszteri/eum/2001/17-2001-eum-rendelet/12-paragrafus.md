@@ -1,5 +1,5 @@
 12. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^27]
+(2)[^28]
 
-[^27]: A 12. § (2) bekezdését a 40/2005. (IX. 22.) EüM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
+[^28]: A 12. § (2) bekezdését a 40/2005. (IX. 22.) EüM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
