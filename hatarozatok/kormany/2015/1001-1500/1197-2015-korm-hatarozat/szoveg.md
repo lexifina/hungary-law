@@ -1,0 +1,17 @@
+A Kormány
+
+1. felhívja az emberi erőforrások miniszterét és a külgazdasági és külügyminisztert, hogy – a nemzetgazdasági miniszter bevonásával – vizsgálják meg a Stipendium Hungaricum ösztöndíjprogram 2015. szeptember 1. – 2015. december 31. közötti szakaszának forrásigényét, és tegyenek javaslatot a szükséges források biztosítására;
+
+Felelős: emberi erőforrások minisztere
+
+külgazdasági és külügyminiszter
+
+nemzetgazdasági miniszter
+
+Határidő: 2015. április 15.
+
+2. felhívja a nemzetgazdasági minisztert, hogy az 1. pont szerinti forrás-meghatározást követően gondoskodjon a Stipendium Hungaricum ösztöndíjprogram megvalósításához 2015. évben szükséges forrás rendelkezésre állásáról.
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: 2015. szeptember 1.
