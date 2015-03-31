@@ -1,6 +1,6 @@
-## 5. §[^4] A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások visszafizetésének biztosításaként felajánlott bankgarancia tekintetében a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 50. § (1) bekezdése irányadó.
+## 6. §[^5] Az e rendelet hatálya alá tartozó források felhasználása tekintetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletet (a továbbiakban: Ávr.) csak akkor kell alkalmazni, ha e rendelet eltérő szabályokat nem állapít meg.
 
-1. melléklet az 547/2013. (XII. 30.) Korm. rendelethez[^5]
+1. melléklet az 547/2013. (XII. 30.) Korm. rendelethez[^6]
 
 Az egységes működési kézikönyv
 
@@ -256,9 +256,9 @@ f) az adott operatív program, illetve más operatív program valamely felhívá
 
 13. A pályázati felhívás adatainak továbbítása a Kincstár Monitoring Rendszer felé
 
-24.1. A Kincstár Monitoring Rendszernek való adatküldést, illetve a válaszállományok feldolgozását az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 65/A. § (1) bekezdése szerint kell elvégezni.
+24.1. A Kincstár Monitoring Rendszernek való adatküldést, illetve a válaszállományok feldolgozását az Ávr. szerint kell elvégezni.
 
-24.2. Az IH az Ávr. 65/A. § (1) bekezdése szerinti adattartalmat a Kincstár Monitoring Rendszerrel való kompatibilitás biztosítása érdekében köteles a konstrukció meghirdetése előtt a Magyar Államkincstár (a továbbiakban: kincstár) részére megküldeni.
+24.2. Az IH az Ávr. szerinti adattartalmat a Kincstár Monitoring Rendszerrel való kompatibilitás biztosítása érdekében köteles a konstrukció meghirdetése előtt a Magyar Államkincstár (a továbbiakban: kincstár) részére megküldeni.
 
 24.3. A Kincstár Monitoring Rendszer által az interfész specifikáció alapján kért adatok közül a forrástérkép-azonosítót az IH kapja meg a kincstártól és azt az IH rögzíti az egységes monitoring információs rendszerben (a továbbiakban: monitoring és információs rendszer).
 
@@ -1508,7 +1508,7 @@ a) bruttó tervezés esetén az önerő összegének,
 
 b) nettó tervezés esetén – az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: ÁFA törvény) 142. §-a szerinti fordított áfa kivételével – az önerő és az áfa összegének a szállító vagy a szállítói engedményes részére történő kifizetését igazolja a KSZ felé.
 
-148.4. A 148.2. pont szerinti esetben az önerő igazolására nincs szükség, ha kifizetési igénylés keretében önerő támogatásban részesül a kedvezményezett.
+148.4. A 148.2. pont szerinti esetben az önerő kifizetésének igazolására nincs szükség a Rendelet 56/A. §-a szerinti esetben, és ha a kedvezményezett a kifizetési igénylés keretében önerő támogatásban részesül.
 
 71. A finanszírozási típusok
 
@@ -1544,7 +1544,9 @@ c) záró kifizetési igénylés.
 
 75. A befejezés
 
-154. A projekt, illetve a támogatott tevékenység akkor tekinthető befejezettnek, ha a támogatott tevékenység a támogatói okiratban, támogatási szerződésben meghatározottak szerint teljesült, a megvalósítás során keletkezett számlák kiegyenlítése megtörtént, a költségvetésből nyújtott támogatással létrehozott vagy beszerzett eszköz aktiválásra került, és a kedvezményezettnek a támogatott tevékenység befejezését igazoló és alátámasztó kifizetési igénylését és beszámolóját, elszámolását a KSZ jóváhagyta és a támogatás folyósítása megtörtént.
+154.1. A projekt, illetve a támogatott tevékenység akkor tekinthető befejezettnek, ha a támogatott tevékenység a támogatói okiratban, támogatási szerződésben meghatározottak szerint teljesült, a megvalósítás során keletkezett számlák kiegyenlítése megtörtént, próbaüzem esetén az annak megkezdéséhez szükséges feltételek fennállnak, valamint a kedvezményezettnek a támogatott tevékenység befejezését igazoló kifizetési igénylését és beszámolóját, elszámolását a KSZ jóváhagyta és a támogatás folyósítása megtörtént.
+
+154.2. A támogatásból létrehozott vagy beszerzett eszközt a támogató által meghatározott időpontig, de legkésőbb 2017. március 31-ig aktiválni kell. Az aktiválásról az azt követő első projekt fenntartási jelentésben kell beszámolni.
 
 76. A költségvetési tervezés
 
@@ -1886,13 +1888,13 @@ d) a szállítói előleg maximális összege.
 
 184. A szállítói előleg elszámolható összege nem csökken a szállítói szerződés alapján elszámolható költség csökkenése esetén.
 
-185.1. Ha a projekt vagy projektelem vonatkozásában szállítói finanszírozási módot választ a kedvezményezett, a szállító részére a szállítói előlegre jutó támogatás kifizetése közvetlenül történik, a szállítói előlegre jutó önerő kifizetésének igazolását követően.
+185.1. Ha a projekt vagy projektelem vonatkozásában szállítói finanszírozási módot választ a kedvezményezett, a szállító részére a szállítói előlegre jutó támogatás kifizetése közvetlenül történik, a szállítói előlegre jutó önerő kifizetésének igazolását követően. A Rendelet 56/A. §-a szerinti esetben az önerő kifizetését nem kell igazolni.
 
 185.2. A KSZ akkor fizeti ki a szállítói előlegre jutó támogatást, ha a kedvezményezett a szállító által kiállított előlegbekérő dokumentumot szállítói előlegigénylés keretében nyújtja be – ha releváns – az önerő kifizetésének igazolásával együtt.
 
 185.3. A KSZ a monitoring és információs rendszerben található egységes ellenőrzési szempontok szerinti ellenőrzést, illetve a monitoring és információs rendszerben történt jóváhagyást követően a szállító részére átutalja a támogatást.
 
-185.4. Ha a Rendelet 30. § (2) bekezdése által előírt dokumentumokat, illetve a szállítói előlegigénylésre jutó önerő kifizetésének igazolását a kedvezményezett nem nyújtja be a hiánypótlási határidőig, a szállítói előlegigénylést el kell utasítani.
+185.4. Ha a Rendelet 30. § (2) bekezdése által előírt dokumentumokat, illetve – ha jogszabály eltérően nem rendelkezik – a szállítóielőleg-igénylésre jutó önerő kifizetésének igazolását a kedvezményezett nem nyújtja be a hiánypótlási határidőig, a szállítóielőleg-igénylést el kell utasítani.
 
 185.5. Ha a hiánypótlás nem vagy csak részben felel meg, a szállítói előlegigénylést el kell utasítani.
 
@@ -1930,7 +1932,7 @@ d) a szállítói előleg maximális összege.
 
 a) a közbeszerzési eljárás teljes dokumentációja ellenőrzésre benyújtásra került a közbeszerzések ellenőrzésére vonatkozó eljárásrendnek megfelelően a KSZ részére és jóváhagyásra került,
 
-b) a kedvezményezett a szállítói előlegigénylésre jutó önerő kifizetését igazolta a KSZ felé, kivéve 100%-os támogatási intenzitás alkalmazása esetén, és
+b) a kedvezményezett a szállítói előlegigénylésre jutó önerő kifizetését igazolta a KSZ felé, kivéve 100%-os támogatási intenzitás, illetve a Rendelet 56/A. §-a alkalmazása esetén, és
 
 c) a közbeszerzési eljárás eredményeként kötött, aláírt szállítói szerződés az aláírást követően haladéktalanul benyújtásra került a KSZ-hez.
 
@@ -1944,7 +1946,7 @@ c) a közbeszerzési eljárás eredményeként kötött, aláírt szállítói s
 
 193.4. A 193.2. pont szerinti biztosítékot a szállító a szállítói előleggel történő elszámolásig köteles fenntartani. Ha a szállító a szállítói előleggel több részletben számol el, a biztosíték értéke arányosan csökkenthető.
 
-194. A kedvezményezettnek igazolnia kell a szállítói előlegre jutó önerő szállító részére történő kifizetését, kivéve 100%-os támogatási intenzitás alkalmazása esetén.
+194. A kedvezményezettnek igazolnia kell a szállítói előlegre jutó önerő szállító részére történő kifizetését, kivéve 100%-os támogatási intenzitás, illetve a Rendelet 56/A. §-a alkalmazása esetén.
 
 195.1. Ha a Pályázati e-ügyintézés felület infrastrukturális feltételei nem adottak, a kért dokumentumokat papír alapon és elektronikus adathordozón is be kell kérni. Ebben az esetben az előlegbekérőt a szállító a KSZ-nek és a kedvezményezettnek egyidejűleg köteles megküldeni.
 
@@ -2022,7 +2024,7 @@ d) a közvetlen szállítói előleggel való elszámolást legkésőbb 70%-os t
 
 201.7. Ha a projekt keretében, a projekt megvalósítási ideje alatt csak egy kifizetési igénylés kerül benyújtásra, a kifizetési igénylés záró kifizetési igénylésnek minősül, így meg kell felelnie a záró kifizetési igénylésre vonatkozó előírásoknak.
 
-201.8. Az Ávr. 78/F §-a alapján a derogációs kötelezettség teljesítéséhez kapcsolódó, önkormányzati kedvezményezett által megvalósítandó projektek, valamint az egyéb közszféra szervezetek által megvalósítandó, az NFK egyedi döntése szerinti projektek esetében lehetőség van a támogatási intenzitás átmeneti megemelésére azzal a feltétellel, hogy a projekt befejezésekor a projekt teljes elszámolt költségére vonatkozó támogatási intenzitásnak meg kell egyeznie a támogatási szerződésben meghatározott projekt szintű támogatási intenzitással.
+201.8. A Rendelet 56/A. §-a szerinti projektek esetében lehetőség van a támogatási intenzitás átmeneti megemelésére azzal a feltétellel, hogy a projekt befejezésekor a projekt teljes elszámolt költségére vonatkozó támogatási intenzitásnak meg kell egyeznie a támogatási szerződésben meghatározott projekt szintű támogatási intenzitással.
 
 94. Az időközi kifizetés igénylésének feltételei
 
@@ -2046,7 +2048,7 @@ f) legkésőbb az első időközi kifizetési igénylésben benyújtja a Rendele
 
 a) a projektek első kifizetési igénylésére,
 
-b) a fordított áfa-előleg elszámolása céljából a kizárólag fordított áfa-összesítőt tartalmazó elszámolásra az Ávr. 78/E §-a alapján.
+b) a fordított áfa-előleg elszámolása céljából a kizárólag fordított áfa-összesítőt tartalmazó elszámolásra az Ávr. 87. § (4) bekezdése alapján.
 
 202.4. A 202.1. d) és e) pontja szerinti százalékos és összegszerű korláttól az IH a kedvezményezett javára eltérhet.
 
@@ -2418,7 +2420,7 @@ b) az Art. 36/A. §-a szerinti szállítói köztartozás-ellenőrzési és eset
 
 109. A jó tételek továbbengedésének szabálya
 
-233.1. Ha az időszakos beszámolóban bemutatott szakmai előrehaladás kellőképpen igazolt, de a kifizetési igényléssel kapcsolatban olyan hiánypótlás merül fel, amely vonatkozásában kizárólag egyes számlákhoz kapcsolódóan szükséges a hiánypótlás lefolytatása, lehetőség van a jó tételek, azaz hiánypótlással nem érintett tételek kifizetésére.
+233.1. Ha az időszakos vagy a záró beszámolóban bemutatott szakmai előrehaladás igazolt, de a kifizetési igényléssel kapcsolatban olyan hiánypótlás merül fel, amely vonatkozásában kizárólag egyes számlákhoz kapcsolódóan szükséges a hiánypótlás lefolytatása, lehetőség van a jó tételek, azaz hiánypótlással nem érintett tételek kifizetésére.
 
 233.2. A hiánypótlással érintett bizonylatok ezzel egyidejűleg felfüggesztésre kerülnek.
 
@@ -2626,7 +2628,7 @@ b) jelezni kell, hogy a kifizetési igénylés kizárólag költségvetési elő
 
 253.4. A pótlólagos kifizetés alátámasztó dokumentuma kifogásnak helyt adó döntés esetén a kifogás jóváhagyásáról szóló dokumentum, a KSZ adminisztratív hibája esetén az erről szóló feljegyzés.
 
-253.5. Ha a projektben fennálló követelés van, a fennálló követelés kompenzálandó a pótlólagos kifizetés összegével, valamint a pénzügyi zárás során kifizetendőnek minősített összeggel, ha a KSZ pénzügyi zárást vagy korrekciós pénzügyi rendezést is kezdeményezett, és annak az eredménye kifizetés lett.
+253.5. Ha a projektben fennálló követelés van, a fennálló követelés kompenzálandó a pótlólagos kifizetés öösszegével, ha a KSZ korrekciós pénzügyi rendezést is kezdeményezett, és annak az eredménye kifizetés lett.
 
 253.6. A pótlólagos kifizetés összegéről a KSZ tájékoztatja a kedvezményezettet a kifogás jóváhagyását követő, illetve az adminisztratív hiba észlelését követő 15 napon belül.
 
@@ -2738,7 +2740,7 @@ b) be kell számolni a projekt szakmai megvalósításáról.
 
 262.1. Záró kifizetési igénylés kizárólag – a projekt megvalósítását bemutató – záró beszámoló benyújtásával együtt igényelhető. A záró kifizetési igénylés benyújtására a XVII. Fejezet rendelkezéseit megfelelően alkalmazni kell.
 
-262.2. A záró kifizetési igénylés és a záró beszámoló hitelesítés keretében végzendő ellenőrzésére megfelelően alkalmazni kell az időközi kifizetési igénylés és az időszakos beszámoló ellenőrzésére vonatkozó szabályokat.
+262.2. A záró kifizetési igénylés és a záró beszámoló hitelesítés keretében végzendő ellenőrzésére megfelelően alkalmazni kell az időközi kifizetési igénylés és az időszakos beszámoló ellenőrzésére vonatkozó szabályokat, beleértve a 233.1. pontot is.
 
 262.3. Ha a záró kifizetési igénylés, illetve a záró beszámoló ellenőrzése során hiányosságok merülnek fel, a KSZ-nek a dokumentumok beérkezését követő 30 napon belül, legfeljebb 15 napos határidő kitűzésével hiánypótlásra kell felszólítani a kedvezményezettet.
 
@@ -2752,9 +2754,9 @@ b) be kell számolni a projekt szakmai megvalósításáról.
 
 262.8. Ha a kedvezményezett a tisztázó kérdésre adott választ hibásan vagy hiányosan nyújtja be, a záró beszámolót, illetve a záró kifizetési igénylést a rendelkezésre álló információk alapján kell elbírálni.
 
-263.1. A hiánypótlás sikertelensége esetén a kifizetést fel kell függeszteni.
+263.1. A záró beszámoló hiánypótlásának sikertelensége esetén a kifizetést fel kell függeszteni. Ha a záró beszámoló hiánypótlást követően elfogadható, a kifizetési igénylés hiánypótlással nem érintett tételei, illetve a megfelelően hiánypótolt tételei kifizethetők, a nem megfelelően hiánypótolt tételek kifizetését fel kell függeszteni.
 
-263.2. A kifizetés felfüggesztése nem jelenti a záró kifizetési igénylés, illetve záró beszámoló automatikus elutasítását, hanem lehetőséget teremt annak korrekciójára.
+263.2. A kifizetés felfüggesztése nem jelenti a záró kifizetési igénylés, illetve záró beszámoló egészének vagy részének automatikus elutasítását, hanem lehetőséget teremt annak korrekciójára
 
 263.3. A korrekció lehetőségéről a KSZ tájékoztatja a kedvezményezettet.
 
@@ -2762,7 +2764,7 @@ b) be kell számolni a projekt szakmai megvalósításáról.
 
 264.1. A korrekcióra rendelkezésre álló idő alatt a záró kifizetési igénylés, illetve a záró beszámoló többször korrigálható.
 
-264.2. A korrekció teljes időtartama alatt a kifizetés felfüggesztésre kerül, a korrekció időtartama hiánypótlásra igénybe vett időtartamnak tekintendő, így késedelmi kamatfizetési kötelezettség nem áll fenn.
+264.2. A korrekció teljes időtartama alatt a korrigált tételek kifizetése a 233.1. pont szerint történik, a korrekciók számától függően szükség esetén több alkalommal. A korrekció időtartama hiánypótlásra igénybe vett időtartamnak tekintendő, így késedelmi kamatfizetési kötelezettség nem áll fenn.
 
 264.3. A 264.2. pont szerinti felfüggesztés kezdő napja az a nap, amikor megállapításra kerül, hogy a záró beszámoló hiánypótlása nem teljes körű.
 
@@ -2814,7 +2816,7 @@ c) visszamenőlegesen megváltozik a kedvezményezett áfa-státusza, vagy
 
 d) rendezni kell a jogcímarányok közötti kis összegű eltéréseket.
 
-271.2. A korrekciós pénzügyi rendezés során össze kell vetni a kifizetett összeg, valamint a státusz-, illetve intenzitásváltozás után kifizethető támogatás összegét, figyelembe véve a szerződéses keretösszeget, és ezek alapján meg kell határozni a szükséges kifizetés, illetve követelés mértékét.
+271.2. A korrekciós pénzügyi rendezés során számla szinten össze kell vetni a kifizetett összeg, valamint a státusz-, vagy intenzitásváltozás után kifizethető támogatás összegét, és ezek alapján meg kell határozni a szükséges kifizetés, illetve követelés mértékét.
 
 271.3. Korrekciós pénzügyi rendezés a projekt megvalósítása és fenntartási időszaka alatt több alkalommal is végezhető.
 
@@ -2834,61 +2836,47 @@ d) rendezni kell a jogcímarányok közötti kis összegű eltéréseket.
 
 272.6. A 271.1. a) és d) pontja szerinti korrekciós pénzügyi rendezést tagi konzorcium esetében minden konzorciumi tagra egyidejűleg el kell végezni.
 
-273.1. A pénzügyi rendezés érinti a rendelkezésre álló keret felhasználását, ezért költséghez kell rendelni. A pénzügyi rendezés csak olyan költséghez rendelhető hozzá, amelyre korábban a kedvezményezett támogatást igényelt. A hozzárendelés a korábban elszámolt támogatás költségösszetételének korrekcióját eredményezi.
+273.1.
 
-273.2. Ha a 273.1. pontszerinti feltételnek több költség is megfelel, a pénzügyi rendezéshez rendelendő költségekről a KSZ dönt.
+273.2.
 
 273.3. A pénzügyi rendezés folyamata jóváhagyással zárul.
 
-124. A pénzügyi zárás és a végső pénzügyi zárás
+124. A pénzügyi zárás
 
-274.1. A pénzügyi zárás a záró kifizetést követően végrehajtott pénzügyi rendezés, melynek során a KSZ-nek el kell végeznie a megtörtént kifizetések kifizethető támogatáshoz viszonyított ellenőrzését, és ki kell számítania az esetleges rendezendő kifizetéseket, követeléseket.
+274.1. A pénzügyi zárás a záró elszámolást követő, a 275.1. és 275.2. pontban meghatározott időszakban végrehajtott, dokumentum alapú ellenőrzés, amelynek során az IH ellenőrzi a szerződéshez, finanszírozáshoz, szakmai előrehaladáshoz, helyszíni ellenőrzéshez, közbeszerzéshez, hazai és külső ellenőrzéshez kapcsolódó dokumentumok elektronikus, ennek hiányában papír alapú rendelkezésre állását, illetve ezek adatainak a monitoring és információs rendszerben való megfelelő rögzítettségét.
 
-274.2. A záró kifizetést követően, a kifogásra rendelkezésre álló határidő elteltét követő 60 napon belül kell elvégezni a pénzügyi zárást.
+274.2. A pénzügyi zárást a monitoring és információs rendszerbe feltöltött ellenőrzési lista segíti. A projekteket az IH által meghatározott értékhatár alatt mintavételezés alapján lehet ellenőrizni, az IH által meghatározott értékhatár felett minden projektet ellenőrizni kell. A KSZ a mintavétel alapján kiválasztott, és az értékhatár feletti projektek esetében az ellenőrző lista kitöltésével és jóváhagyásával igazolja, hogy elvégezte a projektek zárása során az IH által előírt ellenőrzéseket. A mintavételezés módszerét az IH-nak alá kell támasztania.
 
-274.3. A végső pénzügyi zárás a projekt lezárásakor végrehajtott pénzügyi rendezés, melynek során a KSZ-nek el kell végeznie a megtörtént kifizetések kifizethető támogatáshoz viszonyított ellenőrzését, és ki kell számítania az esetleges rendezendő kifizetéseket, követeléseket.
+274.3. A KSZ-nek lehetősége van csoportosan zárni azokat a projekteket, amelyek nem kerültek bele a mintába és nem értékhatár felettiek.
 
-274.4. Fenntartási kötelezettséggel nem rendelkező projektek esetében a pénzügyi zárás egyben végső pénzügyi zárásnak minősül, amelyet a záró kifizetést követően, a kifogásra rendelkezésre álló határidő elteltét követő 60 napon belül kell elvégezni.
+274.4. A pénzügyi zárást tagi konzorcium esetében minden konzorciumi tagra egyidejűleg el kell végezni.
 
-274.5. Pénzügyi zárás abban az esetben végezhető, ha
+274.5. A pénzügyi zárás során a négy szem elvét megfelelően alkalmazni kell.
 
-a) a záró kifizetési igénylés jóváhagyása megtörtént és a kedvezményezettnek nincs kifizetetlen számlája a záró elszámolási ütemet megelőző ütemből,
+274.6. A pénzügyi zárás folyamata jóváhagyással zárul.
 
-b) a projektben nincs folyamatban lévő szabálytalansági eljárás, jogorvoslati eljárás vagy kifogás,
+275.1. Olyan projektek esetén, amelyekkel összefüggésben nem áll fenn fenntartási kötelezettség, a pénzügyi zárást a záró elszámolást követően, a kifogásra rendelkezésre álló határidő elteltét követő 60 napon belül kell elvégezni, ha a projekt a 276.2. és a 276.3. pont szerinti feltételeknek megfelel.
+
+275.2. Olyan projektek esetén, amelyekkel összefüggésben fenntartási kötelezettség áll fenn, a pénzügyi zárást a fenntartási időszak végén benyújtott záró fenntartási jelentésről hozott döntéssel kapcsolatban a kifogásra rendelkezésre álló határidő elteltét követő 60 napon belül kell elvégezni, ha a projekt a 276.2. és a 276.3. pont szerinti feltételeknek megfelel.
+
+275.3. A záró elszámolás elutasítása esetén a pénzügyi zárást az elutasítás miatti szabálytalansági eljárás döntésének meghozatalát követően kell elvégezni.
+
+276.1. Az IH vagy a kedvezményezett szerződéstől történő elállása esetén nincs szükség pénzügyi zárás elvégzésére.
+
+276.2. Pénzügyi zárás abban az esetben végezhető, ha
+
+a) a záró elszámolásban benyújtott valamennyi elszámoló bizonylat ellenőrzése megtörtént, és az ellenőrzés kimenete szerinti döntés rögzítésre került a monitoring és információs rendszerben,
+
+b) a projektben nincs folyamatban lévő szabálytalansági eljárás, szabálytalansági döntés ellen benyújtott jogorvoslati kérelem miatt vagy kifogás benyújtása miatt jogorvoslati eljárás,
 
 c) a projektben nincs folyamatban lévő szerződésmódosítás,
 
 d) nincs kifizetetlen vagy el nem számolt előleg.
 
-274.6. Végső pénzügyi zárás nem végezhető addig, amíg előírásra váró vagy függőben lévő követelés van a projektben.
+276.3. A projekt pénzügyi zárása nem végezhető addig, amíg azzal összefüggésben előírásra váró vagy függőben lévő követelés áll fenn.
 
-274.7. A záró kifizetési igénylés elutasítása esetén a pénzügyi zárást az elutasítás miatti szabálytalansági eljárás döntésének meghozatalát követően kell elvégezni.
-
-274.8. Az IH szerződéstől történő elállása esetén nincs szükség pénzügyi zárás elvégzésére.
-
-275.1. A pénzügyi zárás és a végső pénzügyi zárás eredménye automatikusan kerül meghatározásra, amely lehet követelés vagy kifizetés.
-
-275.2. Ha a pénzügyi zárás vagy a végső pénzügyi zárás kifizetést eredményez, azt pótlólag teljesíteni kell a kedvezményezett felé. A pénzügyi zárás vagy a végső pénzügyi zárás eredményeként utalandó támogatási összeget kizárólag akkor kell folyósítani a kedvezményezett részére, ha az meghaladja az ezer forintot.
-
-275.3. Ha a pénzügyi zárás vagy a végső pénzügyi zárás összege negatív előjelű, az eredménye követelés.
-
-275.4. A pénzügyi zárásból és a végső pénzügyi zárásból adódó követelést elő kell írni a kedvezményezettel szemben a XV. Fejezet szabályai szerint.
-
-275.5. Ha a pénzügyi zárásból vagy a végső pénzügyi zárásból eredő követelendő összeg nem haladja meg a tízezer forintot, a követelést nem kell előírni.
-
-275.6. A záró kifizetési igénylés kifizetését követően, a kifogásra rendelkezésre álló határidő lejárta után, a pénzügyi zárást megelőzően a fel nem használt támogatást fel kell szabadítani a kötelezettségvállalás alól a kedvezményezett záró kifizetési kérelemben található nyilatkozata alapján.
-
-275.7. A pénzügyi zárást és a végső pénzügyi zárást tagi konzorcium esetében minden konzorciumi tagra egyidejűleg el kell végezni.
-
-275.8. A pénzügyi zárást a monitoring és információs rendszerbe feltöltött ellenőrzési lista segíti. A projekteket az IH által meghatározott értékhatár alatt mintavételezés alapján lehet ellenőrizni, az IH által meghatározott értékhatár felett minden projektet ellenőrizni kell. A KSZ – a négy szem elvét figyelembe véve – a mintavétel alapján kiválasztott, illetve az értékhatár feletti projektek esetében az ellenőrző lista kitöltésével és jóváhagyásával igazolja, hogy elvégezte a projektek zárása során az IH által előírt ellenőrzéseket. A mintavételezés módszerét az IH-nak alá kell támasztania.
-
-275.9. A KSZ-nek lehetősége van csoportosan zárni azon projekteket, melyek nem kerültek bele a mintába, nem értékhatár felettiek és megfelelnek a csoportos zárás feltételeinek.
-
-276.1. A pénzügyi zárás érinti a rendelkezésre álló keret felhasználását, ezért költséghez kell rendelni. A pénzügyi zárás csak olyan költséghez rendelhető hozzá, amelyre korábban a kedvezményezett támogatást igényelt. A hozzárendelés a korábban elszámolt támogatás költségösszetételének korrekcióját eredményezi.
-
-276.2. Ha a 276.1. pont szerinti feltételnek több költség is megfelel, a pénzügyi záráshoz rendelendő költségekről a KSZ dönt.
-
-276.3. A pénzügyi zárás és a végső pénzügyi zárás folyamata jóváhagyással zárul.
+276.4. A záró elszámolás kifizetését követően, a kifogásra rendelkezésre álló határidő lejárta után, a pénzügyi zárást megelőzően a fel nem használt támogatást fel kell szabadítani a kötelezettségvállalás alól a kedvezményezett záró kifizetési igénylés keretében adott nyilatkozata alapján.
 
 125. A hitelesítési jelentés készítése
 
@@ -4888,5 +4876,13 @@ b) megvizsgálja, hogy ugyanaz a szabálytalansági gyanú korábban volt-e már
 
 c) tájékozódik a gyanúra utaló tényről, körülményről vagy dokumentumokról, melynek során helyszíni ellenőrzést tarthat, iratokba betekinthet, személyeket hallgathat meg, (külső) szakértő véleményét kérheti ki,
 
-[^4]: Az 5. §-t a 203/2014. (VIII. 14.) Korm. rendelet 12. §-a iktatta be.
-[^5]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a szerint módosított szöveg.
+d) megvizsgálja, hogy a Rendelet 84. § (5) bekezdésében foglaltak valamelyike fennáll-e,
+
+e) megteszi a haladéktalanul szükséges intézkedéseket,
+
+f) megküldi a szabálytalansági gyanú bejelentés kezelésével kapcsolatos döntési javaslatát a KSZ/IH vezetőjének, mellékelve a kapcsolódó dokumentumokat,
+
+g) rögzíti a szabálytalansági gyanút a monitoring és információs rendszerben.
+
+[^5]: A 6. §-t a 69/2015. (III. 30.) Korm. rendelet 12. §-a iktatta be.
+[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a szerint módosított szöveg.
