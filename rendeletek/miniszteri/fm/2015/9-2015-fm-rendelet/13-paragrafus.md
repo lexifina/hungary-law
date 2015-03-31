@@ -20,6 +20,8 @@ c) amelyek tartója megfelel a kistermelői élelmiszer-termelés, -előállít�
 
 (4) A támogatási kérelem tárgyévente az egységes kérelem benyújtásának kezdő napjától május 15-éig nyújtható be.
 
-(5) A támogatási kérelemhez mellékelni kell a hatósági állatorvos vagy a járási főállatorvos által kiállított, (2) bekezdés szerinti igazolás másolatát.
+(5)[^1] A támogatási kérelemhez mellékelni kell a hatósági állatorvos vagy a járási főállatorvos által kiállított, (2) bekezdés szerinti igazolás másolatát, és ha a mezőgazdasági termelő a (3) bekezdés c) pontja szerint kistermelőként kívánja igénybe venni a támogatást, akkor a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló 52/2010. (IV. 30.) FVM rendelet 2. melléklete szerinti igazolás másolatát.
 
 (6) A tejhasznú tehéntartás támogatására jogosult állategyedek létszámát a mezőgazdasági termelő tenyészetében tárgyév március 31-én megtalálható, tejhasznú tehéntartás támogatására jogosult állatok létszáma alapján kell meghatározni.
+
+[^1]: A 13. § (5) bekezdése a 12/2015. (III. 30.) FM rendelet 31. §-ával megállapított szöveg.
