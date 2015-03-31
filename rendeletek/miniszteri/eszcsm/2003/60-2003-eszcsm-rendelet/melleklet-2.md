@@ -920,7 +920,7 @@
 
 ## X: szükséges
 
-2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^52]
+2. melléklet a 60/2003. (X. 20.) ESZCSM rendelethez[^53]
 
 A TEVÉKENYSÉGEK VÉGZÉSÉHEZ SZÜKSÉGES MINIMUMFELTÉTELEK
 
@@ -3198,7 +3198,7 @@ Kiemelt dialízis központ:
 
 Minimum ágyszám: 15
 
-4K24797N_55
+5K03531M_55
 
 | Bőrgyógyászati osztály minimumfeltételei |
 
@@ -4126,4 +4126,4 @@ A gyermek szemészeti osztály minimumfeltételei: lásd a 0700 szakmakód alatt
 
 | Könnycsatorna szondázáshoz szondasorozat |  | X |
 
-[^52]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^53]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése, a 16/2015. (III. 30.) EMMI rendelet 19. §-a szerint módosított szöveg.
