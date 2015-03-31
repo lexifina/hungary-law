@@ -1,0 +1,1 @@
+## „(24) A támogatások átláthatóságának növelése céljából e rendeletnek a 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatásokra vonatkozó előírásai a miniszter által vezetett minisztérium honlapján is közzétételre kerülnek.”
