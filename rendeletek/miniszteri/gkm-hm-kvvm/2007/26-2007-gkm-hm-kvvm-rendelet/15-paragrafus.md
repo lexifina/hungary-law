@@ -4,11 +4,11 @@
 
 (2) Az eseti légterek kijelölése során a katonai légügyi hatóság egyidejűleg nem jelölhet ki olyan eseti légtereket, amelyek térben és időben átfedik egymást.
 
-(3)[^16] Az eseti légteret – a (4) bekezdésben foglalt eltéréssel – a légtér kijelölés indokául szolgáló esemény, rendezvény időtartamára, de legfeljebb 30 napra lehet kijelölni.
+(3)[^16] Az eseti légteret a légtér kijelölés indokául szolgáló esemény, rendezvény időtartamára, de legfeljebb 30 napra lehet kijelölni.
 
-(4) Az eseti légteret a 15/A. § (1) bekezdés d) pontjában meghatározott esetben egy évben legfeljebb két alkalommal, alkalmanként 90 napra lehet kijelölni. Harmadik alkalommal az eseti légteret akkor lehet kijelölni, ha ezzel egyidejűleg a kérelmező kezdeményezte az 1/A–1/D. § szerinti légtér-kijelölést.
+(4)[^17]
 
-(5)[^17] Ha
+(5)[^18] Ha
 
 a) az eseti légtér kijelölését
 
@@ -26,9 +26,10 @@ bb) az aa) vagy ab) alpontokban meghatározott légterek oldalhatárától keves
 
 ## a kérelemhez a kérelmezőnek mellékelnie kell az illetékes légiforgalmi szolgáltató véleményét a közzétett repülési eljárások biztonságos végrehajthatóságáról az eseti légtér kijelölése esetén, valamint a 2150/2005/EK bizottsági rendelet 7. cikkében meghatározott biztonsági elemzést a 4. melléklet 3.2. és 3.6. pontjában foglalt tartalmi követelmények szerint.
 
-(6)[^18] Az eseti légtér felső határát úgy kell megállapítani, hogy az 500 lábra (150 m) végződjön.
+(6)[^19] Az eseti légtér felső határát úgy kell megállapítani, hogy az 500 lábra (150 m) végződjön.
 
 [^15]: A 15. § az 56/2011. (XI. 8.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^16]: A 15. § (3) bekezdése a 11/2015. (III. 12.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^17]: A 15. § (5) bekezdése a 15/2014. (IV. 3.) NFM rendelet 7. §-ával megállapított szöveg.
-[^18]: A 15. § (6) bekezdése a 15/2014. (IV. 3.) NFM rendelet 7. §-ával megállapított szöveg.
+[^16]: A 15. § (3) bekezdése a 11/2015. (III. 12.) NFM rendelet 1. § (1) bekezdésével megállapított, a 15/2014. (IV. 3.) NFM rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 15. § (4) bekezdését a 15/2014. (IV. 3.) NFM rendelet 15. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: A 15. § (5) bekezdése a 15/2014. (IV. 3.) NFM rendelet 7. §-ával megállapított szöveg.
+[^19]: A 15. § (6) bekezdése a 15/2014. (IV. 3.) NFM rendelet 7. §-ával megállapított szöveg.

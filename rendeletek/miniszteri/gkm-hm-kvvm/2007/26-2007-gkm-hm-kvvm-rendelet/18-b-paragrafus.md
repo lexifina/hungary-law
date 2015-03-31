@@ -1,4 +1,4 @@
-18/B. §[^25] (1) A Drop Zone légtér igénylési rendjét a Budapest ATS Központ vagy az illetékes légiforgalmi irányító szolgálat és a koordinációs feladatokat ellátó szervezet között a légiközlekedési hatóság által jóváhagyott együttműködési megállapodásban kell rögzíteni, ha
+18/B. §[^28] (1) A Drop Zone légtér igénylési rendjét a Budapest ATS Központ vagy az illetékes légiforgalmi irányító szolgálat és a koordinációs feladatokat ellátó szervezet között a légiközlekedési hatóság által jóváhagyott együttműködési megállapodásban kell rögzíteni, ha
 
 a) a Drop Zone légteret vagy egy részét ellenőrzött légtérben jelölték ki,
 
@@ -12,4 +12,4 @@ c) a Drop Zone légtér az ellenőrzött légtér oldalhatárától kevesebb, mi
 
 (4) Időszakosan korlátozott légteret érintő Drop Zone légtér az időszakosan korlátozott légtér működésével egyidejűleg nem igényelhető.
 
-[^25]: A 18/B. §-t a 15/2014. (IV. 3.) NFM rendelet 10. § (2) bekezdése iktatta be.
+[^28]: A 18/B. §-t a 15/2014. (IV. 3.) NFM rendelet 10. § (2) bekezdése iktatta be.

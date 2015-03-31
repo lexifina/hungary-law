@@ -814,7 +814,7 @@
 
 | 2 km sugarú kör a 480403N 0191953E középpont körül |
 
-4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^51]
+4. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelethez[^54]
 
 ## A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELEMEI
 
@@ -866,7 +866,7 @@
 
 3.7. repülőtér létesítése vagy fejlesztése esetén a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet szerinti létesítési vagy fejlesztési engedély.
 
-4.[^52] Az ESARR előírásoknak megfelelő, az EUROCONTROL Safety Assessment Methodology elemeivel megegyező tartalmú biztonsági felmérés elkészítésének elsajátítására alkalmas képzettség
+4.[^55] Az ESARR előírásoknak megfelelő, az EUROCONTROL Safety Assessment Methodology elemeivel megegyező tartalmú biztonsági felmérés elkészítésének elsajátítására alkalmas képzettség
 
 Az EUROCONTROL – Institute of Air Navigation Services (Léginavigációs Szolgálatok Képzőintézete) képzése, a következő képzési modulokkal:
 
@@ -890,5 +890,5 @@ vagy
 
 Safety Assessment for Practitioners (SAF-SA2)
 
-[^51]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
-[^52]: A 4. melléklet 4. pontja a 15/2014. (IV. 3.) NFM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^54]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
+[^55]: A 4. melléklet 4. pontja a 15/2014. (IV. 3.) NFM rendelet 16. § (4) bekezdésével megállapított szöveg.
