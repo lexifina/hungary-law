@@ -1,12 +1,12 @@
-## 29. §[^36]
+## 29. §[^37]
 
 ## Átmeneti rendelkezések
 
-30. §[^37] (1) Az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 32/2014. (IV. 18.) EMMI rendelet (a továbbiakban: Módr.) hatálybalépését[^38] megelőzően e rendelet szerint engedélyezett, vagy nem engedélyköteles, de jogszerűen forgalmazott biocid termék a Módr. hatálybalépése után az 528/2012/EU európai parlamenti és tanácsi rendelet vagy e rendelet szerint kiadott engedélyének (a továbbiakban: új engedély) kibocsátását követően az új engedélyben foglaltak szerint, de legfeljebb további 180 napig forgalmazható az új engedély kibocsátását közvetlenül megelőzően, jogszerűen alkalmazott címkével.
+30. §[^38] (1) Az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 32/2014. (IV. 18.) EMMI rendelet (a továbbiakban: Módr.) hatálybalépését[^39] megelőzően e rendelet szerint engedélyezett, vagy nem engedélyköteles, de jogszerűen forgalmazott biocid termék a Módr. hatálybalépése után az 528/2012/EU európai parlamenti és tanácsi rendelet vagy e rendelet szerint kiadott engedélyének (a továbbiakban: új engedély) kibocsátását követően az új engedélyben foglaltak szerint, de legfeljebb további 180 napig forgalmazható az új engedély kibocsátását közvetlenül megelőzően, jogszerűen alkalmazott címkével.
 
-(2) Az (1) bekezdés a Módr. hatálybalépésekor[^39] folyamatban lévő engedélyezési eljárásokban is alkalmazandó.
+(2) Az (1) bekezdés a Módr. hatálybalépésekor[^40] folyamatban lévő engedélyezési eljárásokban is alkalmazandó.
 
-[^36]: A 29. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.
-[^37]: A 30. § a 32/2014. (IV. 18.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^38]: A hatálybalépés időpontja 2014. április 21.
+[^37]: A 29. §-t és az azt megelőző alcímet a 32/2014. (IV. 18.) EMMI rendelet 11. § a)–b) pontja hatályon kívül helyezte.
+[^38]: A 30. § a 32/2014. (IV. 18.) EMMI rendelet 8. §-ával megállapított szöveg.
 [^39]: A hatálybalépés időpontja 2014. április 21.
+[^40]: A hatálybalépés időpontja 2014. április 21.

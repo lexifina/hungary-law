@@ -160,6 +160,6 @@
 
 10. számú melléklet a 38/2003. (VII. 7.) ESZCSM–FVM–KvVM
 
-együttes rendelethez[^75]
+együttes rendelethez[^77]
 
-[^75]: A 10. számú melléklet a 15/2012. (III. 12.) NEFMI rendelet 9. § (3) bekezdésével megállapított, a 32/2014. (IV. 18.) EMMI rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^77]: A 10. számú melléklet a 15/2012. (III. 12.) NEFMI rendelet 9. § (3) bekezdésével megállapított, a 32/2014. (IV. 18.) EMMI rendelet 10. § (3) bekezdése szerint módosított szöveg.
