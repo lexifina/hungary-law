@@ -12,6 +12,10 @@
 
 | Feszített ütemtervű (ütemterv szerint 2015-ig lezárni tervezett, de kockázatos) városi, elővárosi projektek |
 
+| Kelenföld vasútállomás 8 vágány helyén P+R |
+
+| M1–M7 csomópont |
+
 ## 2015. január 1. után indítani tervezett projektek
 
 | Fejlesztés tartalma |
@@ -20,9 +24,19 @@
 
 | Elővárosi állomások, megállóhelyek fejlesztése és felújítása |
 
-| Szeged – Hódmezővásáhely városi-elővárosi tram-train rendszer megvalósítása |
+| Szeged – Hódmezővásárhely városi-elővárosi tram-train rendszer megvalósítása |
 
-| Budapest elővárosi HÉV vonalak fejlesztése, felújítása |
+| M3 metró vonal infrastruktúra rekonstrukciója |
+
+| Külső Bécsi úti villamosvonal |
+
+| Keleti – Újpalota villamosvonal |
+
+| Kelenföld intermodális központ |
+
+| 1-es villamos meghosszabbítása az Etele térig |
+
+| A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten |
 
 | Szeged – Hódmezővásárhely – Békéscsaba – Gyula szűk keresztmetszet kiváltás és villamosítás |
 
@@ -40,9 +54,9 @@
 
 | Debrecen – Nyírábrány korszerűsítés |
 
-| Rákospalota-Újpest – Veresegyház – Vác korszerűsítés |
+| Rákospalota – Újpest – Veresegyház – Vác korszerűsítés |
 
-| Hungária körút – Rákospalota-Újpest korszerűsítés |
+| Hungária körút – Rákospalota – Újpest korszerűsítés |
 
 | Kőbánya-Kispest – Lajosmizse – Kecskemét szűk keresztmetszet kiváltás és villamosítás |
 
@@ -52,11 +66,7 @@
 
 | Szombathely – Kőszeg korszerűsítés |
 
-| Budapest-Keleti pályaudvar épület-felújítás |
-
-| Budapest-Nyugati pályaudvar épület-felújítás |
-
-4. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz
+4. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^4]
 
 ## Nagyprojekt-lista
 
@@ -162,7 +172,9 @@
 
 3/B 2015. január 1. után indítani tervezett projektek
 
-| Budapest elővárosi HÉV vonalak fejlesztése, felújítása |
+| M3 metró vonal infrastruktúra rekonstrukciója |
+
+| Keleti – Újpalota villamosvonal |
 
 | Szeged – Hódmezővásárhely – Békéscsaba – Gyula szűk keresztmetszet kiváltás és villamosítás |
 
@@ -170,9 +182,9 @@
 
 | Megyei jogú városok vasútállomásai intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása megyeszékhelyek vasúti elővárosi körzetében I. |
 
-| Rákospalota-Újpest – Veresegyház – Vác korszerűsítés |
+| Rákospalota – Újpest – Veresegyház – Vác korszerűsítés |
 
-| Hungária körút – Rákospalota-Újpest korszerűsítés |
+| Hungária körút- Rákospalota Újpest korszerűsítés |
 
 | Kőbánya-Kispest – Lajosmizse – Kecskemét szűk keresztmetszet kiváltás és villamosítás |
 
@@ -191,3 +203,5 @@
 | 21 | Lőrinci; Szurdokpüspöki – Bátonyterenye között négynyomúsítás (2x2) |
 
 | 67 | Kaposvár és az M7 közötti szakasz (érintett települések elkerülését is megvalósító) rekonstrukciója |
+
+[^4]: A 4. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.

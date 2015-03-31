@@ -1,6 +1,4 @@
-## Vasúti és vízi közlekedési projektlista
-
-## TEN-T vasúti projektlista
+## TENT-T vasúti projektlista
 
 ## Kivitelezés alatt álló KözOP-IKOP szakaszolt projektek
 
@@ -10,7 +8,7 @@
 
 | Bajánsenye – Boba ETCS2 vonatbefolyásoló rendszer kiépítése |
 
-| Gyoma – Békéscsaba biztosítóberendezés korszerűsítés és Békéscsaba állomás, Ferencváros – Lőkösháza ETCS2 vonatbefolyásoló rendszer kiépítése (III/I.b. ütem) |
+| Gyoma – Békéscsaba biztosítóberendezés korszerűsítés és Békéscsaba állomás, Ferencváros – Lökösháza ETCS2 vonatbefolyásoló rendszer kiépítése (III/I.b. ütem) |
 
 | Szolnok – Szajol korszerűsítés |
 
@@ -74,6 +72,12 @@
 
 | MÁV Hídrekonstrukciós program I. ütem |
 
+| Elővárosi állomások, megállóhelyek fejlesztése és felújítása (TEN-T vonalak) |
+
+| Budapest-Keleti pályaudvar épület-felújítás |
+
+| Budapest-Nyugati pályaudvar épület-felújítás |
+
 ## CEF (Európai Hálózatfinanszírozási Eszköz)
 
 ## CEF vasúti projektek
@@ -114,4 +118,6 @@
 
 | Dunai hajóút kitűzési rendszerének fejlesztése |
 
-3. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz
+3. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^3]
+
+[^3]: A 3. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont b) alpontjával megállapított szöveg.

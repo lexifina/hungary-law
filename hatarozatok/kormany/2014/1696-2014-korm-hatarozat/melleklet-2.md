@@ -130,4 +130,6 @@
 
 | 405 | Újhartyán térsége – Albertirsa (2x2 110 km/óra kiemelt főút) |
 
-2. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz
+2. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^2]
+
+[^2]: A 2. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont a) alpontjával megállapított szöveg.
