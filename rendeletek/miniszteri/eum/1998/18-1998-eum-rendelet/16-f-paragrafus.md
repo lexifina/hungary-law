@@ -8,7 +8,10 @@ b) nyilvántartást vezet a transzplantációs központok tevékenységeiről, a
 
 c) a b) pont szerinti tevékenységekről évente jelentést készít, és azt honlapján közzéteszi,
 
-d) biztosítja, hogy Magyarország és az Európai Unió valamely tagállama közötti szervcsere esetén a 9/a. számú melléklet szerinti szerv- és donoradatok eljussanak a szervcserével érintett tagállamhoz.
+d) biztosítja, hogy Magyarország és az Európai Unió valamely tagállama közötti szervcsere esetén a 9/a. számú melléklet szerinti szerv- és donoradatok eljussanak a szervcserével érintett tagállamhoz,
+
+e)[^48] figyelemmel kíséri a szervriadók eredményességét és elemzi a transzplantációk országos helyzetét.
 
 [^46]: A 16/E. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
 [^47]: A 16/F. §-t a 12/2012. (VIII. 6.) EMMI rendelet 6. §-a iktatta be.
+[^48]: A 16/F. § e) pontját a 16/2015. (III. 30.) EMMI rendelet 9. §-a iktatta be.
