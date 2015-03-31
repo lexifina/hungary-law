@@ -1,42 +1,40 @@
-9. melléklet a 10/2015. (III. 13.) FM rendelethez
+9. melléklet a 10/2015. (III. 13.) FM rendelethez[^8]
 
-Gazdálkodási napló formai és tartalmi követelményei
+A gazdálkodási napló formai és tartalmi követelményei
 
-|  | GAZDÁLKODÁSI NAPLÓ |  |
+|  | GAZDÁLKODÁSI NAPLÓ |
+
+| _________________________ gazdálkodási év |
 
 | A termeléshez kötött közvetlen támogatást igénylők számára. |
 
-|  | Főlap a GAZDÁLKODÓ ADATAI |
+| Főlap a GAZDÁLKODÓ ADATAI |
 
-| 1 | Név: |
+| Név: |
 
-| 2 | MVH által kiadott ügyfél-azonosító: | 3 | Cégforma: |
+| MVH által kiadott ügyfél-azonosító: | Cégforma: |
 
-| 4 | Helység, irányítószám: | 5 | Közterület neve, száma: |
+| Cím: |
 
-| 6 | Telefonszám: | 7 | E - levélcím: |
+| Telefonszám: | E-mail cím: |
 
-|  | Kapcsolattartó adatai (amennyiben eltér a gazdálkodó adataitól) |
+| Kapcsolattartó adatai (amennyiben eltér a gazdálkodó adataitól) |
 
-| 8 | Név: |
+| Név: |
 
-| 9 | Helység, irányítószám: | 10 | Közterület neve, száma: |
+| Cím: |
 
-| 11 | Telefonszám: | 12 | E - levélcím: |
+| Telefonszám: | E-mail cím: |
 
-| GN-01 | Ökológiai jelentőségű másodvetés ökológiai jelentőségű területként való elszámolása - ALAPADATOK | Lap sorszáma: |
+Dátum: Aláírás
 
-|  |  |  |  | Kötelezettségvállalással érintett egybefüggő terület azonosítási alapadatai |
+| GN-0901 | Ökológiai jelentőségű másodvetés ökológiai jelentőségű területként való elszámolása – ALAPADATOK | Lap sorszáma: |
 
-|  | I. | Sorszáma: | II. |  |  |  | Földhasználat joga: | III. |
+|  | Kötelezettségvállalással érintett egybefüggő terület azonosítási alapadatai |
 
-|  | A | B |  |  |  | C | D |
+| Település | Helyrajzi szám | MePAR blokkazonosítók | Terület (ha) |
 
-|  | Település | Helyrajzi számok |  |  |  | MePAR blokkazonosítók | Terület (ha) |
-
-|  | A | B | C | D | E |  | F | G | H | I | J | K |
-
-|  | Gazdál- kodási év | Tábla- sorszám (adott évi egységes kérelem szerint) | Terület (ha) | Hasznosítási kód | A 3. melléklet ökológiai jelentőségű másodvetés magkeverékének növényfajai | Vetés ideje (hónap, nap) | Felhasznált szaporítóanyag típusa (vetőmag/ palánta/ hagyma/ hagymagerezd/ dugvány) | Felhasznált szaporítóanyag mennyisége | Felhasznált szaporítóanyag mértékegysége (db) | A talajba- forgatás várható ideje (hónap, nap) | Vis maior | Megjegyzés |
+| Gazdálkodási év | Táblasorszám (adott évi egységes kérelem szerint) | Terület (ha) | Hasznosítási kód | A 3. melléklet ökológiai jelentőségű másodvetés magkeverékének növényfajai | Vetés ideje (hónap, nap) | Felhasznált szaporítóanyag típusa | (vetőmag/ palánta/ hagyma/ hagymagerezd/ dugvány) | Felhasznált szaporító- anyag mennyisége | Felhasznált szaporító- anyag mértékegysége (db) | A talajba- forgatás várható ideje (hónap, nap) | Vis maior |
 
 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -60,10 +58,6 @@ Gazdálkodási napló formai és tartalmi követelményei
 
 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 12 |  |  |  |  |  |  |  |  |  |  |  |  |
+Dátum: Aláírás
 
-| 13 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 14 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 15 |  |  |  |  |  |  |  |  |  |  |  |  |
+[^8]: A 9. melléklet a 12/2015. (III. 30.) FM rendelet 32. § (2) bekezdésével megállapított szöveg.

@@ -1,3 +1,5 @@
+## 26. §
+
 ## V. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
