@@ -1,24 +1,50 @@
-18/A. §[^103] (1)[^104] Regionális beruházási és foglalkoztatási támogatás induló beruházáshoz – a 18. §-ban foglaltak és a 27. § vonatkozó rendelkezései mellett – az általános csoportmentességi rendelet előírásaival összhangban nyújtható.
+18/A. §[^115] (1)[^116] Regionális beruházási támogatás induló beruházáshoz – a 18. §-ban foglaltak és a 27. § vonatkozó rendelkezései mellett – a 651/2014/EU bizottsági rendelet előírásaival összhangban nyújtható.
 
-(2)[^105] Nem nyújtható regionális beruházási és foglalkoztatási támogatás
+(1a)[^117] A regionális beruházási támogatás igénybevételének feltétele, hogy a tervezett beruházás
 
-a) a 2007–2013 közötti időszakra vonatkozó nemzeti regionális támogatásról szóló 2006/C 54/08 számú iránymutatás (a továbbiakban: iránymutatás) I. számú mellékletében meghatározott acélipari tevékenységhez,
+a) olyan induló beruházásnak minősüljön, amelyet
+
+aa) a 37/2011. (III. 22.) Korm. rendelet 25. § (1) bekezdés a)–c) pontja szerinti régióban kis- és középvállalkozás vagy nagyvállalkozás, vagy
+
+ab) a 37/2011. (III. 22.) Korm. rendelet 25. § (1) bekezdés d) pontja szerinti településen kis- és középvállalkozás, vagy
+
+b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet a 37/2011. (III. 22.) Korm. rendelet 25. § (1) bekezdés d) pontja szerinti településen nagyvállalkozás
+
+valósít meg.
+
+(1b)[^118] A termelési folyamat alapvető megváltozását eredményező beruházás esetén a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
+
+(1c)[^119] Meglévő létesítmény tevékenységének új tevékenységgel vagy termékkel történő bővítését eredményező beruházáshoz a támogatás akkor vehető igénybe, ha az elszámolható költségek legalább 200%-kal meghaladják az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett eszközöknek a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
+
+(2)[^120] Nem nyújtható regionális beruházási támogatás
+
+a) a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti acélipari tevékenységhez,
 
 b) a hajóépítési ágazatba tartozó tevékenységekhez,
 
-c) az iránymutatásban meghatározott szénbányászathoz,
+c) a 651/2014/EU bizottsági rendelet 2. cikk 13. pontja szerinti szénbányászathoz,
 
-d) az iránymutatás II. számú mellékletében meghatározott szintetikusszál-ipari tevékenységhez,
+d) a 651/2014/EU bizottsági rendelet 2. cikk 44. pontja szerinti szintetikusszál-ipari tevékenységhez,
 
-e) a halászati és akvakultúra-termékek piacának közös szervezéséről szóló 104/2000/EK tanácsi rendelet (HL L 17., 2000.1.21., 22–52. o.) szerinti halászati és akvakultúra tevékenységet szolgáló beruházásokhoz, továbbá halászati termékek feldolgozását és forgalmazását szolgáló beruházáshoz,
+e) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet szerinti halászati és akvakultúra tevékenységet szolgáló beruházásokhoz, továbbá halászati termékek feldolgozását és forgalmazását szolgáló beruházásához,
 
-f)[^106] az általános csoportmentességi rendelet 2. cikk 22. pontja szerinti, az EK Szerződés I. mellékletében felsorolt mezőgazdasági termékek elsődleges termeléséhez,
+f) a 651/2014/EU bizottsági rendelet 2. cikk 9. pontja szerinti, az Európai Unió működéséről szóló szerződés I. mellékletében felsorolt mezőgazdasági termékek elsődleges termeléséhez,
 
-g)[^107] az általános csoportmentességi rendelet 2. cikk 23. és 24. pontjában meghatározott mezőgazdasági termékek feldolgozásához és forgalomba hozatalához,
+g) a 651/2014/EU bizottsági rendelet 2. cikk 8. és 10. pontjában meghatározott mezőgazdasági termékek feldolgozásához és forgalomba hozatalához, ha
 
-h) a nehéz helyzetben lévő vállalkozások megmentéséhez és szerkezetátalakításához nyújtott állami támogatásról szóló bizottsági közlemény (HL 2004/C 244/02.) 2.1 alpontja szerinti nehéz helyzetben lévő vállalkozásnak.
+ga) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, vagy
 
-(3)[^108] A regionális beruházási és foglalkoztatási támogatás keretében a következő költségek számolhatók el:
+gb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
+
+h) a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak,
+
+i) energiatermelési és elosztási, valamint az energetikai infrastruktúrával kapcsolatos tevékenységekhez,
+
+j) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához, vagy a kapcsolódó infrastruktúrához, vagy
+
+k) ha a beruházó vagy a tőle független, harmadik félnek nem minősülő beruházó a kérelem benyújtását megelőző két évben a kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntetett meg az Európai Gazdasági Térség (a továbbiakban: EGT) területén, vagy a támogatási kérelem benyújtásakor – egyidejűleg benyújtott nyilatkozat alapján – tervezi, hogy a kérelem benyújtásától a beruházás befejezéséig, vagy a beruházás befejezésétől számított két éven belül a kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntet meg az EGT területén.
+
+(3)[^121] A regionális beruházási támogatás keretében a következő költségek számolhatók el:
 
 a) a beruházás célját szolgáló
 
@@ -28,29 +54,45 @@ ab) immateriális javak közül a találmány, a szabadalom, a licenc és a know
 
 vagy
 
-b) a beruházás üzembe helyezését követő harmadik hónap végéig újonnan létrehozott munkakörökben foglalkoztatott munkavállalók – az Sztv. 79. §-a szerint elszámolható – személyi jellegű ráfordításának 24 havi összege, a munkakör létrehozásának napjától számítva.
+b) a beruházás üzembe helyezését követő harmadik hónap végéig újonnan létrehozott munkakörökben foglalkoztatott munkavállalók – az Sztv. 79. §-a szerint elszámolható – személyi jellegű ráfordításának – ide nem értve az egyéb személyi jellegű kifizetéseket – 24 havi összege a munkakör betöltésének napjától számítva,
 
-(4) A támogatás keretében új tárgyi eszközök és immateriális javak költségei számolhatók el. Az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha az a kedvezményezett és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
+c) az a)–b) pontban meghatározott költségtípusok kombinációja, ha az így kapott összeg nem haladja meg az a) és b) pont szerinti összeg közül a magasabbat.
 
-(5) Immateriális javakhoz támogatás akkor nyújtható, ha azokat a kedvezményezett
+(4)[^122] A támogatás keretében új tárgyi eszközök és immateriális javak költségei számolhatók el. Tárgyi eszköz esetében az elszámolható költséget szokásos piaci áron kell figyelembe venni, ha az a kedvezményezett és a kedvezményezettől nem független harmadik személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
 
-a) piaci feltételek mellett harmadik féltől vásárolja, és
+(5)[^123] Az immateriális javak költsége elszámolható, ha
 
-b) legalább öt – kis- és középvállalkozások (a továbbiakban: KKV) esetében legalább három – évig kizárólag a regionális támogatásban részesülő létesítményben használja, és
+a) azokat kizárólag a támogatásban részesült létesítményben használják fel,
 
-c) eszköznyilvántartásba veszi, és az Sztv. 52–53. §-a szerinti értékcsökkenést alkalmazza.
+b) az az Sztv. előírásai szerinti terv szerinti értékcsökkenési leírás alá esik,
+
+c) azokat szokásos piaci feltételek mellett, a vevőtől független harmadik féltől vásárolják meg,
+
+d) azok kis- és középvállalkozás esetén legalább három évig a beruházó eszközei között szerepelnek és ahhoz a projekthez kapcsolódnak, amelyhez a támogatást nyújtották,
+
+e) azok nagyvállalkozás esetén legalább öt évig a beruházó eszközei között szerepelnek és ahhoz a projekthez kapcsolódnak, amelyhez a támogatást nyújtották.
 
 (6) A (3) bekezdés a) pontjában szereplő elszámolható költségekre nyújtott támogatás esetén a beruházással létrehozott kapacitást a beruházás befejezésétől (üzembe helyezés időpontjától) számított legalább öt – KKV esetében legalább három – évig fenn kell tartani az érintett régióban. Ez a követelmény – amennyiben ezen időszak alatt a gazdasági tevékenység fenntartása biztosított az érintett régióban – nem akadályozza a technológiai változások miatt korszerűtlenné vált tárgyi eszközök és immateriális javak cseréjét. A korszerűtlenné vált tárgyi eszközök és immateriális javak cseréjét követő fenntartási időszakban a kedvezményezett a tárgyi eszközök és immateriális javak cseréjére támogatásban nem részesülhet.
 
 (7) A (3) bekezdés a) pontjában megjelölt elszámolható költségekre nyújtott támogatás esetén a (6) bekezdésben meghatározott kötelezettségen túlmenően a foglalkoztatási kötelezettséget az érintett régióban legalább három – KKV esetében két – éven át folyamatosan, éves átlagos statisztikai állományi létszámra vonatkoztatva teljesíteni kell.
 
-(8)[^109] A (3) bekezdés b) pontjában megjelölt elszámolható költségek alapján nyújtott munkahelyteremtést szolgáló regionális beruházási és foglalkoztatási támogatás esetén a foglalkoztatási kötelezettséget az érintett régióban legalább öt – KKV esetében három – éven át folyamatosan, éves átlagos statisztikai állományi létszámra vonatkoztatva kell teljesíteni. Az újonnan létrehozott munkakörökben foglalkoztatott munkavállalók száma a kedvezményezettnél közvetlenül teljes munkaidőben alkalmazott személyek számának nettó növekedése az előző 12 hónap átlagához képest. A munkahelyeket közvetlenül a támogatott beruházási projektnek kell létrehoznia.
+(7a)[^124] A (3) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
 
-(9)[^110] Egyedi kormánydöntés esetén a 18. § (2) bekezdés dd) pontjában meghatározott 90 napos időtartam egy évben is meghatározható, illetve a (7) bekezdésben előírt feltételtől el lehet tekinteni.
+a) a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest,
+
+b) a munkahelyeket a beruházás befejezésétől számított három hónapon belül betöltik,
+
+c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább három évig az érintett területen fenntartja,
+
+d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
+
+(8)[^125]
+
+(9)[^126] Egyedi kormánydöntés esetén a 18. § (2) bekezdés dd) pontjában meghatározott 90 napos időtartam egy évben is meghatározható, illetve a (7) bekezdésben előírt feltételtől el lehet tekinteni.
 
 (10) A támogatás keretében nem számolhatók el az alábbi költségek:
 
-a) a szinten tartást szolgáló tárgyi eszköz bekerülési értéke,
+a)[^127] a szinten tartást szolgáló tárgyi eszköz és immateriális javak költsége,
 
 b) ingatlan, földterület vásárlása,
 
@@ -62,16 +104,27 @@ e) bérleti díjak, lízing költségek,
 
 f) a (3) bekezdés ab) alpont szerinti immateriális javak bekerülési értéke, ha azt a kedvezményezett nem kizárólag a támogatásban részesülő létesítményben használja,
 
-g) a korábban már használatba vett tárgyi eszköz bekerülési értéke.
+g) a korábban már használatba vett tárgyi eszköz bekerülési értéke,
 
-h)[^111]
+h)[^128] a korábban már használatba vett olyan tárgyi eszköz és támogatható immateriális javak költsége, amelyre a beruházó, más társaság vagy egyéni vállalkozó állami támogatást vett igénybe,
 
-[^103]: Az új 18/A. §-t a 3/2007. (II. 9.) SZMM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 18/A. § számozását 18/C. §-ra változtatta. E módosító rendelet 25. § (2) bekezdése alapján a rendelkezést a 2007. január 1-jét követően benyújtott kérelmek elbírálására megfelelően alkalmazni kell.
-[^104]: A 18/A. § (1) bekezdése a 66/2013. (XII. 23.) NGM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^105]: A 18/A. § (2) bekezdés bevezető szövegrésze a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
-[^106]: A 18/A. § (2) bekezdés f) pontja a 66/2013. (XII. 23.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^107]: A 18/A. § (2) bekezdés g) pontja a 66/2013. (XII. 23.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^108]: A 18/A. § (3) bekezdés bevezető szövegrésze a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
-[^109]: A 18/A. § (8) bekezdése a 3/2009. (II. 18.) SZMM rendelet 12. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 12. § (5) bekezdését.
-[^110]: A 18/A. § (9) bekezdése a 33/2009. (XII. 30.) SZMM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^111]: A 18/A. § (10) bekezdés h) pontját a 27/2010. (XII. 31.) NGM rendelet 75. § c) pontja hatályon kívül helyezte.
+i)[^129] az olyan tárgyi eszköz és támogatható immateriális javak költsége, amelyet a beruházó nehéz helyzetben lévő, vagy csődeljárás, felszámolás vagy kényszertörlési eljárás alatt álló beruházótól szerzett be,
+
+j)[^130] a kérelem benyújtásának napja előtt felmerült költség, ráfordítás.
+
+[^115]: Az új 18/A. §-t a 3/2007. (II. 9.) SZMM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 18/A. § számozását 18/C. §-ra változtatta. E módosító rendelet 25. § (2) bekezdése alapján a rendelkezést a 2007. január 1-jét követően benyújtott kérelmek elbírálására megfelelően alkalmazni kell.
+[^116]: A 18/A. § (1) bekezdése a 8/2015. (III. 30.) NGM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^117]: A 18/A. § (1a) bekezdését a 8/2015. (III. 30.) NGM rendelet 8. § (2) bekezdése iktatta be.
+[^118]: A 18/A. § (1b) bekezdését a 8/2015. (III. 30.) NGM rendelet 8. § (2) bekezdése iktatta be.
+[^119]: A 18/A. § (1c) bekezdését a 8/2015. (III. 30.) NGM rendelet 8. § (2) bekezdése iktatta be.
+[^120]: A 18/A. § (2) bekezdése a 8/2015. (III. 30.) NGM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^121]: A 18/A. § (3) bekezdése a 8/2015. (III. 30.) NGM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^122]: A 18/A. § (4) bekezdése a 8/2015. (III. 30.) NGM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^123]: A 18/A. § (5) bekezdése a 8/2015. (III. 30.) NGM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^124]: A 18/A. § (7a) bekezdését a 8/2015. (III. 30.) NGM rendelet 8. § (6) bekezdése iktatta be.
+[^125]: A 18/A. § (8) bekezdését a 8/2015. (III. 30.) NGM rendelet 16. § a) pontja hatályon kívül helyezte.
+[^126]: A 18/A. § (9) bekezdése a 33/2009. (XII. 30.) SZMM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^127]: A 18/A. § (10) bekezdés a) pontja a 8/2015. (III. 30.) NGM rendelet 8. § (7) bekezdésével megállapított szöveg.
+[^128]: A 18/A. § (10) bekezdés h) pontját a 27/2010. (XII. 31.) NGM rendelet 75. § c) pontja hatályon kívül helyezte, újonnan a 8/2015. (III. 30.) NGM rendelet 8. § (8) bekezdése iktatta be.
+[^129]: A 18/A. § (10) bekezdés i) pontját a 8/2015. (III. 30.) NGM rendelet 8. § (8) bekezdése iktatta be.
+[^130]: A 18/A. § (10) bekezdés j) pontját a 8/2015. (III. 30.) NGM rendelet 8. § (8) bekezdése iktatta be.

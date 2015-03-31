@@ -26,7 +26,7 @@ a) az egyetemi, főiskolai továbbtanulásra felkészítő képzésre, valamint
 
 b) az olyan iskolarendszerű képzésre, amelyre az éves költségvetési törvény normatív állami hozzájárulást állapít meg.
 
-(4)[^10] A (3) bekezdés a) pontjában foglaltaktól eltérően támogatás nyújtható az egyetemi (főiskolai) továbbtanulására felkészítő képzéshez, feltéve, ha a képzésben történő részvételt a cigány kisebbségi önkormányzat, cigány kisebbségi önkormányzati társulás vagy bíróság által nyilvántartásba vett cigány érdekképviseleti szervezet szervezi, vagy szervezésében közreműködik.
+(4)[^10] A (3) bekezdés a) pontjában foglaltaktól eltérően támogatás nyújtható az egyetemi (főiskolai) továbbtanulására felkészítő képzéshez, feltéve, ha a képzésben történő részvételt a cigány nemzetiségi önkormányzat, cigány nemzetiségi önkormányzati társulás vagy bíróság által nyilvántartásba vett cigány érdekképviseleti szervezet szervezi, vagy szervezésében közreműködik.
 
 [^3]: Az 1. § (1) bekezdése a 8/1997. (IV. 28.) MüM rendelet 1. §-ának (1) bekezdésével megállapított, nyitó szövegrésze a 3/2012. (II. 10.) NGM rendelet 3. § (18) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés a) pontja a 17/2012. (VII. 5.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
@@ -35,4 +35,4 @@ b) az olyan iskolarendszerű képzésre, amelyre az éves költségvetési törv
 [^7]: Az 1. § (1) bekezdés f) pontját a 66/2013. (XII. 23.) NGM rendelet 1. §-a iktatta be.
 [^8]: Az 1. § (2) bekezdése a 8/1997. (IV. 28.) MüM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
 [^9]: Az 1. § (3) bekezdésének felvezető szövege a 13/2003. (X. 10.) FMM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (4) bekezdését a 13/2003. (X. 10.) FMM rendelet 1. §-ának (3) bekezdése iktatta a szövegbe.
+[^10]: Az 1. § (4) bekezdését a 13/2003. (X. 10.) FMM rendelet 1. §-ának (3) bekezdése iktatta be, szövege a 8/2015. (III. 30.) NGM rendelet 13. § a) pontja szerint módosított szöveg.
