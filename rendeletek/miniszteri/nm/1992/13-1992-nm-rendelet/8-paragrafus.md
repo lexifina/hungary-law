@@ -1,4 +1,4 @@
-## 8. §[^17]
+## 8. §[^22]
 
 (1) Az egészségi alkalmassági vizsgálatot első fokon végző szervek:
 
@@ -26,4 +26,4 @@ b) a MÁV Kórház és Rendelőintézet (Szolnok) és a Vasút-egészségügyi �
 
 (4) Ha a (3) bekezdésben foglalt értesítés esetén a háziorvos a rendelkezésére álló egészségügyi dokumentáció alapján azt állapítja meg, hogy a vizsgált személy a közúti járművezetésre feltehetőleg valamilyen betegség következtében alkalmatlan, illetve alkalmassága csak feltételekkel vagy korlátozásokkal lehetséges, úgy kezdeményezheti az alkalmasság felülvizsgálatát.
 
-[^17]: A 8. § a 16/2008. (IV. 24.) EüM rendelet 3. §-ával megállapított szöveg.
+[^22]: A 8. § a 16/2008. (IV. 24.) EüM rendelet 3. §-ával megállapított szöveg.
