@@ -26,7 +26,7 @@
 
 ## * súlyos válsághelyzet
 
-## 4.[^17] A térítési díj megállapításnál *kérem/*nem kérem a szociális kedvezmény érvényesítését.
+## 4.[^19] A térítési díj megállapításnál *kérem/*nem kérem a szociális kedvezmény érvényesítését.
 
 ## Kelt: ………………… 199… év …………… hó …… napján.
 
@@ -266,7 +266,7 @@
 
 ## *mb. helyettese/*adjunktus
 
-## [^18]
+## [^20]
 
 ## M204719A_0
 
@@ -352,44 +352,42 @@
 
 ## ”
 
-4/a. számú melléklet a 32/1992. (XII. 23.) NM rendelethez[^19]
+4/a. számú melléklet a 32/1992. (XII. 23.) NM rendelethez[^21]
 
-Súlyos válsághelyzet esetén a terhességmegszakítás szociális kedvezmény figyelembevételével történő igénybevételére jogosító pénzbeni ellátásokról
+Súlyos válsághelyzet esetén a térítési díj kedvezményre jogosító pénzbeli ellátások
 
-1. Munkanélküliek jövedelempótló támogatása,
+1.
 
-## munkanélküliek járadéka,
+1.1. Álláskeresési járadék
 
-## nyugdíj előtti munkanélküli segély,
+1.2. Nyugdíj előtti álláskeresési segély
 
-## ápolási díj,
+1.3. Ápolási díj
 
-## sorkatonai családi segély,
+1.4. Rendszeres gyermekvédelmi kedvezmény
 
-## rendszeres gyermekvédelmi támogatás,
+1.5. Időskorúak járadéka
 
-## idôskorúak járadéka.
+2.
 
-2. Gyermekgondozási segély,
+2.1. Öregségi nyugdíj
 
-## gyermeknevelési támogatás,
+2.2. Rokkantsági járadék
 
-## átmeneti járadék,
+2.3. Rokkantsági ellátás
 
-## rendszeres szociális járadék,
+2.4. Rehabilitációs ellátás
 
-## egészségkárosodási járadék.
+2.5. Bányászok egészségkárosodási járadéka
 
-3. Öregségi nyugdíj,
+3.
 
-## rokkantsági járadék,
+3.1. Aktív korúak ellátása
 
-## rokkantsági nyugdíj,
+3.2. Fogyatékossági támogatás
 
-## baleseti rokkantsági nyugdíj.
+3.3. Vakok személyi járadéka
 
-4. Rendszeres szociális segély,
-
-[^17]: A 4. számú melléklet „A” 1. KÉRŐLAP A TERHESSÉG MEGSZAKÍTÁSÁHOZ rész 4. pontja a 16/2014. (III. 12.) EMMI rendelet 1. § b) pontja szerint módosított szöveg.
-[^18]: A Statisztikai adatlapot ld. 1992. MK 132. szám 4719-4720. oldal.
-[^19]: A 4/a. számú mellékletet a 18/2000. (VI. 29.) EüM rendelet 7. § (1) bekezdése iktatta be.
+[^19]: A 4. számú melléklet „A” 1. KÉRŐLAP A TERHESSÉG MEGSZAKÍTÁSÁHOZ rész 4. pontja a 16/2014. (III. 12.) EMMI rendelet 1. § b) pontja szerint módosított szöveg.
+[^20]: A Statisztikai adatlapot ld. 1992. MK 132. szám 4719-4720. oldal.
+[^21]: A 4/a. számú mellékletet a 18/2000. (VI. 29.) EüM rendelet 7. § (1) bekezdése iktatta be, szövege a 16/2015. (III. 30.) EMMI rendelet 6. §-ával megállapított szöveg.

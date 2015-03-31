@@ -1,4 +1,4 @@
-## 9/A §[^9]
+## 9/A §[^10]
 
 ## (1) A terhessége megszakítását kezdeményező állapotos nő a Családvédelmi Szolgálatnál történő első jelentkezése alkalmával személyazonosító adatainak személyazonosításra alkalmas módon történő közlésére nem kötelezhető. A kérelmezőt a tanácsadás anonim módon történő igénybevételének lehetőségéről, valamint arról, hogy az anonimitás kizárólag a terhességmegszakítás iránti kérelem benyújtásáig vehető igénybe, tájékoztatni kell.
 
@@ -10,14 +10,15 @@
 
 ## (5) Amennyiben a kérelmező ismételt megjelenése alkalmával nem a Családvédelmi Szolgálatnak az első megjelenésekor igénybe vett szervét keresi meg, úgy a tanácsadáson történő korábbi részvételét a (2) bekezdés szerinti igazolással bizonyíthatja. Kétség esetén – a jelige alapján – a munkatárs megkeresi a Családvédelmi Szolgálat korábban eljáró szervét, és – szükség esetén – kérheti a kérelmező személyazonosító adatait tartalmazó, lezárt boríték átadását is.
 
-10. § (1)[^10] Amennyiben a kérelmező a terhesség megszakítása iránti kérelmét tv. 9. §-ának (1)–(2) bekezdéseiben foglalt tájékoztatást követően is fenntartja, a munkatárs a rendelkezésre álló adatok és iratok alapján kitölti a rendelet 4. számú mellékletét képező, ,,A'' jelű nyomtatvány ,,1. kérőlap'' részét, valamint a ,,B'' jelű ,,statisztikai adatszolgáltató lap'' 1—12. pontját.
+10. § (1)[^11] Amennyiben a kérelmező a terhesség megszakítása iránti kérelmét tv. 9. §-ának (1)–(2) bekezdéseiben foglalt tájékoztatást követően is fenntartja, a munkatárs a rendelkezésre álló adatok és iratok alapján kitölti a rendelet 4. számú mellékletét képező, ,,A'' jelű nyomtatvány ,,1. kérőlap'' részét, valamint a ,,B'' jelű ,,statisztikai adatszolgáltató lap'' 1—12. pontját.
 
-(2)[^11] Amennyiben a kérelmező korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott, a kérőlap kitöltésének nem feltétele, hogy törvényes képviselője és a kérelmező egyidejűleg legyen jelen a Családvédelmi Szolgálatnál. A törvényes képviselő a kérőlapot a kérelmező felvilágosítását követően is aláírhatja, illetve akadályoztatása esetén tudomásul vevő nyilatkozatát teljes bizonyító erejű magánokirat formájában is eljuttathatja.
+(2)[^12] Amennyiben a kérelmező korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott, a kérőlap kitöltésének nem feltétele, hogy törvényes képviselője és a kérelmező egyidejűleg legyen jelen a Családvédelmi Szolgálatnál. A törvényes képviselő a kérőlapot a kérelmező felvilágosítását követően is aláírhatja, illetve akadályoztatása esetén tudomásul vevő nyilatkozatát teljes bizonyító erejű magánokirat formájában is eljuttathatja.
 
-(3) A kitöltött és a kérelmező, illetőleg a munkatárs által aláírt kérőlapot a munkatárs a kérelem előterjesztését követő munkanapon megküldi a terhességmegszakítás elvégzésére a kérelmező által választott intézménynek. A kérőlap másolatát átadja a kérelmező részére. A kérőlap kiállításáról, illetve a tanácsadás megtörténtéről a munkatárs nyilvántartást vezet.
+(3)[^13] A kitöltött és a kérelmező, illetőleg a munkatárs által aláírt kérőlap másolati példányát a munkatárs a kérelem előterjesztését követő munkanapon megküldi a terhességmegszakítás elvégzésére a kérelmező által választott intézménynek. A kérőlap eredeti példányát átadja a kérelmező részére. A kérőlap kiállításáról, illetve a tanácsadás megtörténtéről a munkatárs nyilvántartást vezet.
 
 (4) A kérőlap kiállításával egyidejűleg a munkatárs kiállítja a terhességmegszakításért fizetendő térítési díj befizetésére szolgáló utalványt, illetve igazolást állít ki a térítési díj fizetési kötelezettség alóli mentességről.
 
-[^9]: A 9/A. §-t a 18/2000. (VI. 29.) EüM rendelet 3. §-a iktatta a szövegbe.
-[^10]: A 10. § (1) bekezdése a 18/2000. (VI. 29.) EüM rendelet 7. §-ának (1) bekezdése szerint módosított szöveg.
-[^11]: A 10. § (2) bekezdése a 16/2014. (III. 12.) EMMI rendelet 1. § a) pontja szerint módosított szöveg.
+[^10]: A 9/A. §-t a 18/2000. (VI. 29.) EüM rendelet 3. §-a iktatta a szövegbe.
+[^11]: A 10. § (1) bekezdése a 18/2000. (VI. 29.) EüM rendelet 7. §-ának (1) bekezdése szerint módosított szöveg.
+[^12]: A 10. § (2) bekezdése a 16/2014. (III. 12.) EMMI rendelet 1. § a) pontja szerint módosított szöveg.
+[^13]: A 10. § (3) bekezdés b) pontja a 16/2015. (III. 30.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.

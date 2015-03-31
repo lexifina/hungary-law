@@ -1,4 +1,6 @@
-## 16. § A terhességmegszakítás elvégzésének feltétele — a 17. §-ban foglaltak kivételével — a térítési díj befizetésének igazolása.
+## 16. §
+
+## A terhességmegszakítás elvégzésének feltétele — a 17. §-ban foglaltak kivételével — a térítési díj befizetésének igazolása.
 
 17. § (1) A tv. 16. §-ának (1) bekezdésén túl a munkatárs igazolást állít ki a térítési díj befizetése alóli mentességről a (2) és (3) bekezdésben foglalt esetekben.
 
