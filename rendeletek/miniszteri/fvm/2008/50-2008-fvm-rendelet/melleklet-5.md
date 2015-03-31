@@ -1,14 +1,4 @@
-## Veszélyes gyomnövények
-
-|  | Magyar név | Tudományos (latin) név |
-
-| 1. | Aranka fajok | Cuscuta spp. |
-
-| 2. | Parlagfű | Ambrosia artemisiifolia |
-
-| 3. | Selyemkóró | Asclepias syriaca |
-
-5. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^56]
+5. számú melléklet az 50/2008. (IV. 24.) FVM rendelethez[^38]
 
 | Kérődzők, lófélék |
 
@@ -36,4 +26,4 @@
 
 | Egyéb baromfi | 0,03 ÁE |
 
-[^56]: Az 5. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^38]: Az 5. számú melléklet a 80/2009. (VII. 3.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg.
