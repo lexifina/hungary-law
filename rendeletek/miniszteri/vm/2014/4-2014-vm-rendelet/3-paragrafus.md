@@ -12,15 +12,15 @@ da) nem rendelkezik adók módjára behajtható köztartozással vagy lejárt es
 
 db) nem áll felszámolási, végelszámolási eljárás, csődeljárás alatt,
 
-dc)[^3]
+dc)[^5]
 
 dd) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek, és
 
 e) aki a d) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik,
 
-f)[^4] aki megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+f)[^6] aki megfelel az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló 353/2012. (XII. 13.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
-(2) A kérelmezőnek az MVH által rendszeresített és honlapján közzétett támogatási kérelmét évente egy alkalommal, a tárgyévet követő év február 15. és március 14. között az MVH-hoz kell benyújtania.
+(2)[^7] A kérelmezőnek az MVH által rendszeresített és honlapján közzétett támogatási kérelmét évente egy alkalommal, a tárgyévet követő év február 15. és április 15. között az MVH-hoz kell benyújtania.
 
 (3) A támogatási kérelemhez a kérelmezőnek mellékelnie kell
 
@@ -30,9 +30,13 @@ b) a kötelező gépjármű-felelősségbiztosítása fordulónapjától függet
 
 c) a tárgyévben befizetendő gépjárműadót megállapító határozat és annak befizetését igazoló szelvény vagy a banki átutalást igazoló számlakivonat másolatát,
 
-d) az (1) bekezdés c) pontja szerinti, tárgyévet követő évben kiállított igazolást.
+d) az (1) bekezdés c) pontja szerinti, tárgyévet követő évben kiállított igazolást,
+
+e)[^8] OBU fedélzeti rendszer vásárlása esetén a tárgyévben kiállított számla másolatát és a befizetést igazoló szelvény vagy banki átutalást igazoló számlakivonat másolatát.
 
 (4) A méhcsaládok számát a Nemzeti Élelmiszerlánc-biztonsági Hivatal az MVH felé a TIR adatbázisában nyilvántartott adatok alapján igazolja azzal, hogy a támogatási kérelem elbírálásához szükséges adatokat minden év november 30-ig – 2014. évben január 31-ig – az MVH rendelkezésére bocsátja.
 
-[^3]: A 3. § (1) bekezdés d) pont dc) alpontját a 36/2014. (IV. 4.) VM rendelet 108. §-a hatályon kívül helyezte.
-[^4]: A 3. § (1) bekezdés f) pontját a 36/2014. (IV. 4.) VM rendelet 106. §-a iktatta be.
+[^5]: A 3. § (1) bekezdés d) pont dc) alpontját a 36/2014. (IV. 4.) VM rendelet 108. §-a hatályon kívül helyezte.
+[^6]: A 3. § (1) bekezdés f) pontját a 36/2014. (IV. 4.) VM rendelet 106. §-a iktatta be.
+[^7]: A 3. § (2) bekezdése a 13/2015. (III. 30.) FM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdés e) pontját a 13/2015. (III. 30.) FM rendelet 9. § (2) bekezdése iktatta be.
