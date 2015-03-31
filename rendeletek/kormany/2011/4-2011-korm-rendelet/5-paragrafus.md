@@ -1,6 +1,6 @@
-## 4. [^47] Az európai uniós források felhasználásáért felelős miniszter
+## 4. [^49] Az európai uniós források felhasználásáért felelős miniszter
 
-## 5. §[^48] Az európai uniós források felhasználásáért felelős miniszter
+## 5. §[^50] Az európai uniós források felhasználásáért felelős miniszter
 
 a) összehangolja a központi államigazgatási szervek európai uniós támogatási forrásokból finanszírozott országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
@@ -18,7 +18,7 @@ g) biztosítja a 3. melléklet 53. sorának A oszlopában meghatározott operat�
 
 h) központi koordinációs szervezeti egysége (a továbbiakban: központi koordinációs szerv) útján központi koordinációs funkciót lát el az operatív programok összehangolt végrehajtása, valamint a fejlesztéspolitikai jogszabályok egységes alkalmazásának biztosítása érdekében, melynek keretében
 
-ha)[^49] az irányító hatósággal együttműködve kialakítja a támogatások igénylésével és felhasználásával kapcsolatos eljárásrendet, biztosítja a program- és projekt végrehajtási eljárás teljes folyamatának egységességét, meghatározza az irányító hatósági feladatok delegálására vonatkozó eljárásjogi kereteket, előkészíti az egységes működési kézikönyvet a lebonyolításban érintett szervek számára,
+ha)[^51] az irányító hatósággal együttműködve kialakítja a támogatások igénylésével és felhasználásával kapcsolatos eljárásrendet, biztosítja a program- és projekt végrehajtási eljárás teljes folyamatának egységességét, meghatározza az irányító hatósági feladatok delegálására vonatkozó eljárásjogi kereteket, előkészíti az egységes működési kézikönyvet a lebonyolításban érintett szervek számára,
 
 hb) biztosítja – figyelemmel az operatív programok különös jellemzőire a programozási és végrehajtási dokumentumok egységességét, amely feladat keretében az irányító hatósággal együttműködve – egyedi eltérés lehetőségét is biztosítva – meghatározza az akciótervek, a pályázati felhívások, a támogatási szerződések, támogatói okiratok egységes mintáit, valamint a program- és projekt végrehajtási eljárás során használandó dokumentumok egységes tartalmi és formai követelményeit
 
@@ -60,6 +60,6 @@ hu) az irányító hatósággal együttműködve egységes, minden operatív pro
 
 hv) ellátja az operatív programok zárásának koordinációs feladatait.
 
-[^47]: A 4. alcím (5. §) az 548/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. A 4. alcím címe a 203/2014. (VIII. 14.) Korm. rendelet 9. § 2. pontjával megállapított szöveg.
-[^48]: Az 5. § nyitó szövegrésze a 203/2014. (VIII. 14.) Korm. rendelet 9. § 3. pontjával megállapított szöveg.
-[^49]: Az 5. § h) pont ha) alpontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
+[^49]: A 4. alcím (5. §) az 548/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. A 4. alcím címe a 203/2014. (VIII. 14.) Korm. rendelet 9. § 2. pontjával megállapított szöveg.
+[^50]: Az 5. § nyitó szövegrésze a 203/2014. (VIII. 14.) Korm. rendelet 9. § 3. pontjával megállapított szöveg.
+[^51]: Az 5. § h) pont ha) alpontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.

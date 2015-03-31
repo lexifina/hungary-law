@@ -20,7 +20,11 @@ h)[^44] dönt az irányító hatóság és az ágazati fejlesztési miniszter va
 
 i)[^45] véleményezi a kormányzati döntést nem igénylő ágazati fejlesztési terveket, programokat és stratégiákat,
 
-j)[^46] véleményezi az e rendelet végrehajtásával összefüggő, fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket és a komplex programokat.
+j)[^46] véleményezi az e rendelet végrehajtásával összefüggő, fejlesztéspolitikai szempontból kiemelt jelentőségű ügyeket és a komplex programokat,
+
+k)[^47] dönt az 56/A. §-ban meghatározott esetben,
+
+l)[^48] ellátja a 2007–2013 programozási időszak zárásával összefüggő egyes, a feladat- és hatáskörébe tartozó feladatokat.
 
 [^39]: A 4. § nyitó szövegrésze a 272/2014. (XI. 5.) Korm. rendelet 204. §-a szerint módosított szöveg.
 [^40]: A 4. § c) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
@@ -30,3 +34,5 @@ j)[^46] véleményezi az e rendelet végrehajtásával összefüggő, fejleszté
 [^44]: A 4. § h) pontját az 548/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 203/2014. (VIII. 14.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
 [^45]: A 4. § i) pontját a 272/2014. (XI. 5.) Korm. rendelet 203. §-a iktatta be.
 [^46]: A 4. § j) pontját a 272/2014. (XI. 5.) Korm. rendelet 203. §-a iktatta be.
+[^47]: A 4. § k) pontját a 69/2015. (III. 30.) Korm. rendelet 1. §-a iktatta be.
+[^48]: A 4. § l) pontját a 69/2015. (III. 30.) Korm. rendelet 1. §-a iktatta be.

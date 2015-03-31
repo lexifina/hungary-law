@@ -1,4 +1,4 @@
-## 4/A. [^50] Az irányító hatóság vezetőjének feladatai
+## 4/A. [^52] Az irányító hatóság vezetőjének feladatai
 
 5/A. § (1) Az irányító hatóság
 
@@ -48,4 +48,4 @@ v) felelős az operatív program éves és záró jelentésének elkészítésé
 
 (2) Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátásra kijelölt miniszter az általa vezetett minisztérium, a Kormány európai uniós források felhasználásáért felelős tagja a Miniszterelnökség szervezeti és működési szabályzatában meghatározza a 6. § szerinti ágazati feladatainak ellátása tekintetében feladatkörrel rendelkező szervezeti egységeknek az irányító hatósággal való kapcsolattartásának rendjét.
 
-[^50]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^52]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
