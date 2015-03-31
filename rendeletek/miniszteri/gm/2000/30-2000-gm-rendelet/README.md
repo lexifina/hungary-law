@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-30-20-8
 | 2012-02-11 | 2000-30-20-83.14 | 3/2012. (II. 10.) NGM rendelet |
 | 2013-01-01 | 2000-30-20-83.15 | 48/2012. (XII. 28.) NGM rendelet |
 | 2013-07-01 | 2000-30-20-83.16 | 35/2012. (XII. 14.) NGM rendelet |
+| 2015-03-31 | 2000-30-20-83.17 | 48/2012. (XII. 28.) NGM rendelet |
