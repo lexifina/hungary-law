@@ -1,4 +1,4 @@
-3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^67]
+3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^65]
 
 ## Műszaki dokumentáció
 
@@ -184,4 +184,4 @@ c) a tervezés során milyen szabványokat, műszaki irányelveket alkalmazott (
 
 d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) számának feltüntetése].
 
-[^67]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
+[^65]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
