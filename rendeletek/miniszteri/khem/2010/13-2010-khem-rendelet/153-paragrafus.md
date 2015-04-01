@@ -8,7 +8,7 @@ ab) 3000 db gyutacs,
 
 ac) 500 db perforátor,
 
-ad)[^237] 500 m robbanózsinór
+ad)[^238] 500 m robbanózsinór
 
 tárolható együtt;
 
@@ -26,4 +26,4 @@ g) hálózati világítás létesítése, valamint szellőztetőgép használata
 
 h) a földalatti térség védelmére a 134. § (6) és (7) bekezdése szerinti villámhárító berendezést kell létesíteni, ha a tárolóterek feletti fedőréteg vastagsága a 6 m-t nem éri el.
 
-[^237]: A 153. § a) pont ad) alpontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 78. pontja szerint módosított szöveg.
+[^238]: A 153. § a) pont ad) alpontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 78. pontja szerint módosított szöveg.

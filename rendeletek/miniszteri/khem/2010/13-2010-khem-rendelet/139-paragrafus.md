@@ -1,8 +1,8 @@
-139. § (1)[^223] A robbantóanyagot a csomagolási módjától függően asztallapokra szerelt rekeszben, állványon, polcon, faalátéten vagy raklapon kell tárolni.
+139. § (1)[^224] A robbantóanyagot a csomagolási módjától függően asztallapokra szerelt rekeszben, állványon, polcon, faalátéten vagy raklapon kell tárolni.
 
 (2) Az állványt és a polcot eldőlés ellen rögzíteni kell, az azokon végzett tárolás esetében a tárolási normát az állvány, polc terhelhetőségének figyelembevételével kell megállapítani.
 
-(3)[^224] A robbantóanyagot tartalmazó ládát, dobozt vagy zsákot – 3–10 cm vastagságú faalátétekre vagy farácsokra helyezve – oszlopokba kell rakni, több oszlopból oszlopsort, több oszlopsorból rakatot kell kialakítani a következők figyelembevételével:
+(3)[^225] A robbantóanyagot tartalmazó ládát, dobozt vagy zsákot – 3–10 cm vastagságú faalátétekre vagy farácsokra helyezve – oszlopokba kell rakni, több oszlopból oszlopsort, több oszlopsorból rakatot kell kialakítani a következők figyelembevételével:
 
 a) egy oszlopba csak egyforma méretű és kivitelű csomagolóeszközbe csomagolt, azonos tartalmú és azonos gyártási sorozathoz tartozó robbantóanyagot szabad rakni,
 
@@ -14,11 +14,11 @@ d) a rakatok között a csomagolási egységek méretétől és megfogási lehet
 
 (4) A robbanóanyagot tartalmazó tonnereket – faalátétekre helyezve – sorokba kell lerakni, és a sorokból rakatokat kell kialakítani. A fogantyúkkal ellátott vagy a 25 kg-nál kisebb össztömegű tonnerek – legfeljebb két sorban – egymás fölé is rakhatók, ekkor az alsó sor tetejére is faalátéteket kell fektetni. A rakatok között a rakodáshoz szükséges térközt szabadon kell hagyni.
 
-(5)[^225] A robbantóanyagot tartalmazó ládákkal, dobozokkal vagy zsákokkal megrakott raklapokat sorban egymás mellé úgy kell elhelyezni, hogy a ki- vagy betároláskor egymással ne ütközzenek.
+(5)[^226] A robbantóanyagot tartalmazó ládákkal, dobozokkal vagy zsákokkal megrakott raklapokat sorban egymás mellé úgy kell elhelyezni, hogy a ki- vagy betároláskor egymással ne ütközzenek.
 
-(6)[^226] A raktárakban – a közlekedés és a rakodás biztonsága érdekében – a rakodás módjától és a szállítóeszköz méreteitől függő, de legalább 0,8 m szélességű térközt szabadon kell hagyni, az ajtót és a közlekedési utat robbantóanyag-csomagokkal vagy más anyagokkal eltorlaszolni, illetve elfoglalni átmenetileg sem szabad.
+(6)[^227] A raktárakban – a közlekedés és a rakodás biztonsága érdekében – a rakodás módjától és a szállítóeszköz méreteitől függő, de legalább 0,8 m szélességű térközt szabadon kell hagyni, az ajtót és a közlekedési utat robbantóanyag-csomagokkal vagy más anyagokkal eltorlaszolni, illetve elfoglalni átmenetileg sem szabad.
 
-[^223]: A 139. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 54. § (1) bekezdésével megállapított szöveg.
-[^224]: A 139. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 54. § (2) bekezdésével megállapított szöveg.
-[^225]: A 139. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 71. pontja szerint módosított szöveg.
-[^226]: A 139. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 54. § (3) bekezdésével megállapított szöveg.
+[^224]: A 139. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^225]: A 139. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 54. § (2) bekezdésével megállapított szöveg.
+[^226]: A 139. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 71. pontja szerint módosított szöveg.
+[^227]: A 139. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 54. § (3) bekezdésével megállapított szöveg.

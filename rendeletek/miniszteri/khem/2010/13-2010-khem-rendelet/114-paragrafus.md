@@ -4,9 +4,9 @@
 
 ## Általános előírások
 
-114. § (1)[^197] A nem megfelelő működésű vagy lejárt szavatossági idejű terméket a gyártó által meghatározott módon 30 napon belül meg kell semmisíteni, kivéve, ha az arra jogosult vizsgáló szervezet azt felülvizsgálat után megfelelőnek minősítette. A felülvizsgálat időtartama nem számít bele a megsemmisítésre meghatározott 30 napos határidőbe.
+114. § (1)[^198] A nem megfelelő működésű vagy lejárt szavatossági idejű terméket a gyártó által meghatározott módon 30 napon belül meg kell semmisíteni, kivéve, ha az arra jogosult vizsgáló szervezet azt felülvizsgálat után megfelelőnek minősítette. A felülvizsgálat időtartama nem számít bele a megsemmisítésre meghatározott 30 napos határidőbe.
 
-(2)[^198] A robbantóanyagok gyártása közben vagy a kísérletek és a vizsgálatok során keletkező termékselejt vagy hulladék megsemmisítésének módját, helyét üzemi utasításban kell szabályozni.
+(2)[^199] A robbantóanyagok gyártása közben vagy a kísérletek és a vizsgálatok során keletkező termékselejt vagy hulladék megsemmisítésének módját, helyét üzemi utasításban kell szabályozni.
 
 (3) A (2) bekezdés szerinti üzemi utasításban rögzíteni kell azt, hogy
 
@@ -22,12 +22,12 @@ a) anyagmérleget kell készíteni,
 
 b) nyilvántartást kell vezetni,
 
-c)[^199]
+c)[^200]
 
 (5) A megsemmisítés végrehajtása előtt minden esetben meg kell állapítani az időjárási és talajviszonyokat, valamint figyelembe kell venni azok rövid időn belül várható változásait.
 
 (6) A robbanóanyagokat – a robbanóanyagok fajtájától és a helyi körülményektől függően – robbantással vagy elégetéssel kell megsemmisíteni.
 
-[^197]: A 114. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 44. §-ával megállapított szöveg.
-[^198]: A 114. § (2) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 44. §-ával megállapított szöveg.
-[^199]: A 114. § (4) bekezdés c) pontját a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 19. pontja hatályon kívül helyezte.
+[^198]: A 114. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 44. §-ával megállapított szöveg.
+[^199]: A 114. § (2) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 44. §-ával megállapított szöveg.
+[^200]: A 114. § (4) bekezdés c) pontját a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 19. pontja hatályon kívül helyezte.

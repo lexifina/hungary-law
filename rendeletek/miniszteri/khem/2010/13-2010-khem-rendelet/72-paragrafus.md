@@ -12,13 +12,13 @@ a) a robbanóanyag átvételét az átadó személy által vezetett nyilvántart
 
 b) Robbanóanyag-felhasználási könyvébe az átvett robbanóanyag megnevezését és mennyiségét bejegyezni, és azt az átadó személlyel igazoltatni,
 
-c)[^128] a robbantás helyét és időpontját (év, hó, nap, óra, perc), valamint a felhasználásra kerülő betöltött robbanóanyag mennyiségét a robbantás kezdete előtt a Robbanóanyag-felhasználási könyvbe bejegyezni.
+c)[^129] a robbantás helyét és időpontját (év, hó, nap, óra, perc), valamint a felhasználásra kerülő betöltött robbanóanyag mennyiségét a robbantás kezdete előtt a Robbanóanyag-felhasználási könyvbe bejegyezni.
 
 (5) A nyilvántartást golyóstollal kell vezetni, a bejegyzést átírással megváltoztatni tilos. A téves bejegyzést egyszeri áthúzással kell törölni.
 
-(6)[^129] A Robbanóanyag-felhasználási könyvet a használatból való kivonás után öt évig meg kell őrizni.
+(6)[^130] A Robbanóanyag-felhasználási könyvet a használatból való kivonás után öt évig meg kell őrizni.
 
 (7) A robbantás helyszínén a felhasználásra kerülő robbanóanyagot szemrevételezéssel ellenőrizni kell. A nem megfelelő robbanóanyagot vissza kell adni a robbanóanyag-raktárba.
 
-[^128]: A 72. § (4) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 38. pontja szerint módosított szöveg.
-[^129]: A 72. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 39. pontja szerint módosított szöveg.
+[^129]: A 72. § (4) bekezdés c) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 38. pontja szerint módosított szöveg.
+[^130]: A 72. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 39. pontja szerint módosított szöveg.

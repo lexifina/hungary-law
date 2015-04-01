@@ -1,4 +1,4 @@
-124. § (1)[^207] Robbantóanyag elhelyezésére szolgáló tárolóban maximum–minimum hőmérőt kell tartani, és a hőmérsékletet rendszeresen figyelemmel kell kísérni. Ha a tárolóban a hőmérséklet a gyártó által megadott hőmérsékleti tartományon kívül esik, a robbantóanyagot nem megfelelő minőségűnek kell tekinteni.
+124. § (1)[^208] Robbantóanyag elhelyezésére szolgáló tárolóban maximum–minimum hőmérőt kell tartani, és a hőmérsékletet rendszeresen figyelemmel kell kísérni. Ha a tárolóban a hőmérséklet a gyártó által megadott hőmérsékleti tartományon kívül esik, a robbantóanyagot nem megfelelő minőségűnek kell tekinteni.
 
 (2) A robbanóanyag csomagolását csak az előtérben vagy a robbantásvezető által erre a célra kijelölt helyen lehet felbontani.
 
@@ -22,4 +22,4 @@ c) egy oszlopban csak azonos megnevezésű robbanóanyag tárolható,
 
 d) az oszlopokat a faltól legalább 10 cm távolságra kell helyezni.
 
-[^207]: A 124. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 48. §-ával megállapított szöveg.
+[^208]: A 124. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 48. §-ával megállapított szöveg.

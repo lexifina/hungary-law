@@ -22,16 +22,17 @@ a) a 4. melléklet I. pont 2.5. alpontjában foglalt táblázat szerinti külön
 
 b) a robbantások rendszeresen ismétlődnek és idegen, nem a robbantást végző engedélyes kezelésében lévő létesítmények védelmét kell biztosítani, vagy
 
-c) azt a bányakapitányság szükségesnek tartja és határozatában előírja.
+c)[^119] azt a bányafelügyelet szükségesnek tartja és határozatában előírja.
 
-(10)[^119] A robbantás káros hatásai elleni védelmet szolgáló biztonsági távolságot a 4. melléklet II. és III. pontja szerint kell előzetesen meghatározni, amelyet a robbantási tevékenység során ellenőrizni és szükség esetén módosítani kell annak figyelembevételével, hogy a robbantással előidézett legnagyobb A-hangnyomásszint egyetlen alkalommal sem haladhatja meg a robbantás közelében tartózkodó embereknél a 125 dB értéket.
+(10)[^120] A robbantás káros hatásai elleni védelmet szolgáló biztonsági távolságot a 4. melléklet II. és III. pontja szerint kell előzetesen meghatározni, amelyet a robbantási tevékenység során ellenőrizni és szükség esetén módosítani kell annak figyelembevételével, hogy a robbantással előidézett legnagyobb A-hangnyomásszint egyetlen alkalommal sem haladhatja meg a robbantás közelében tartózkodó embereknél a 125 dB értéket.
 
-(11)[^120] Amennyiben a (10) bekezdésben meghatározott A-hangnyomásszint a 125 dB értéket túllépi, a robbantást végző köteles műszaki intézkedésekkel, a munkák szervezésével és a zajexpozíció intenzitásának és időtartamának minimalizálásával ezen zajok okozta kockázatot megszüntetni.
+(11)[^121] Amennyiben a (10) bekezdésben meghatározott A-hangnyomásszint a 125 dB értéket túllépi, a robbantást végző köteles műszaki intézkedésekkel, a munkák szervezésével és a zajexpozíció intenzitásának és időtartamának minimalizálásával ezen zajok okozta kockázatot megszüntetni.
 
 [^114]: A 70. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 32. pontja szerint módosított szöveg.
 [^115]: A 70. § (2) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^116]: A 70. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^117]: A 70. § (8) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^118]: A 70. § (9) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^119]: A 70. § (10) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 22. § (2) bekezdése iktatta be.
-[^120]: A 70. § (11) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 22. § (2) bekezdése iktatta be.
+[^119]: A 70. § (9) bekezdés c) pontja a 15/2015. (III. 31.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
+[^120]: A 70. § (10) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 22. § (2) bekezdése iktatta be.
+[^121]: A 70. § (11) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 22. § (2) bekezdése iktatta be.

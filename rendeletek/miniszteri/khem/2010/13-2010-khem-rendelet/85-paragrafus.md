@@ -4,8 +4,8 @@ a) a robbantás helyéhez csatlakozó egyenes vágat (akna) első 100 m-es szaka
 
 b) olyan hely, ahol a levegő mérgezőgáz-tartalma a robbantás következtében a megengedett érték fölé emelkedhet.
 
-(2)[^159]
+(2)[^160]
 
 (3) A várakozási idő helyességét a robbantásvezető által meghatározott időközönként ellenőrizni kell. Az ellenőrzéskor – a megengedett legnagyobb robbanóanyag-mennyiség egyidejű robbantása mellett – a levegő mérgezőgáz-tartalmát méréssel kell meghatározni.
 
-[^159]: A 85. § (2) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 11. pontja hatályon kívül helyezte.
+[^160]: A 85. § (2) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 11. pontja hatályon kívül helyezte.

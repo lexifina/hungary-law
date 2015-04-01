@@ -10,9 +10,9 @@
 
 (5) 1 m-nél rövidebb vagy 4 m-nél hosszabb gyújtózsinórt nem lehet használni, kivéve a jégrobbantásnál alkalmazott dobótöltet esetét.
 
-(6)[^137] Az indítótöltetet a fúrólyukba utolsóként kell elhelyezni.
+(6)[^138] Az indítótöltetet a fúrólyukba utolsóként kell elhelyezni.
 
-(7)[^138] A gyújtózsinórt megtörni, toldani vagy az indítótöltet köré tekerni nem lehet.
+(7)[^139] A gyújtózsinórt megtörni, toldani vagy az indítótöltet köré tekerni nem lehet.
 
 (8) A fúrólyukból legalább 20 cm hosszú gyújtózsinór-darabnak ki kell állnia.
 
@@ -24,5 +24,5 @@
 
 (12) Gyújtózsinóros indítás más indítási módszerrel együtt nem alkalmazható.
 
-[^137]: A 74. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 46. pontja szerint módosított szöveg.
-[^138]: A 74. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 47. pontja szerint módosított szöveg.
+[^138]: A 74. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 46. pontja szerint módosított szöveg.
+[^139]: A 74. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 47. pontja szerint módosított szöveg.
