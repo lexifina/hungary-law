@@ -1,51 +1,18 @@
-## 2/B. §[^4] Az egészségbiztosítási pénztári szakigazgatási szerv által hozott hatósági döntés elleni fellebbezést az OEP bírálja el.
+## 2/B. §[^4] A kormányhivatal által a 4. § (2) bekezdése szerinti egészségbiztosítási pénztári ügyekben hozott hatósági döntés elleni fellebbezést az OEP bírálja el.
 
-3. § (1) A fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári szakigazgatási szervei:
+3. § (1)[^5]
 
-a) Baranya Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Pécs),
+(2)[^6] A kormányhivatal illetékessége – Budapest Főváros Kormányhivatala illetékessége kivételével – megegyezik a megyei kormányhivatal illetékességével. A Budapest Főváros Kormányhivatala illetékessége egészségbiztosítási pénztári feladatkörében Budapest főváros és Pest megye területére terjed ki.
 
-b) Bács-Kiskun Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Kecskemét),
+(3)[^7] A kormányhivatal a 4. § (2) bekezdés a) pont ae) alpont 1. pontjában és af) alpontjában meghatározott hatáskörét országos illetékességgel gyakorolja.
 
-c) Békés Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Békéscsaba),
+(4)[^8] A fővárosi és megyei kormányhivatal egészségbiztosítást érintő feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az egészségbiztosításért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-d) Borsod-Abaúj-Zemplén Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Miskolc),
+(4a)[^9] Az OEP közreműködik a miniszternek a fővárosi és megyei kormányhivatal (4) bekezdés szerinti szakmai irányításával kapcsolatos feladatai ellátásában.
 
-e) Csongrád Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Szeged),
-
-f) Fejér Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Székesfehérvár),
-
-g) Budapest Főváros Kormányhivatalának Egészségbiztosítási Pénztári Szakigazgatási Szerve (Budapest),
-
-h) Győr-Moson-Sopron Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Győr),
-
-i) Hajdú-Bihar Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Debrecen),
-
-j) Heves Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Eger),
-
-k) Jász-Nagykun-Szolnok Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Szolnok),
-
-l) Komárom-Esztergom Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Tatabánya),
-
-m) Nógrád Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Salgótarján),
-
-n) Somogy Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Kaposvár),
-
-o) Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Nyíregyháza),
-
-p) Tolna Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Szekszárd),
-
-q) Vas Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Szombathely),
-
-r) Veszprém Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Veszprém),
-
-s) Zala Megyei Kormányhivatal Egészségbiztosítási Pénztári Szakigazgatási Szerve (Zalaegerszeg).
-
-(2) A szakigazgatási szerv illetékessége – a Budapest Főváros Kormányhivatala Egészségbiztosítási Pénztári Szakigazgatási Szervének illetékessége kivételével – megegyezik a megyei kormányhivatal illetékességével. A Budapest Főváros Kormányhivatala Egészségbiztosítási Pénztári Szakigazgatási Szervének illetékessége Budapest főváros és Pest megye területére terjed ki.
-
-(3)[^5] Az egészségbiztosítási pénztári szakigazgatási szerv a 4. § (2) bekezdés a) pont ae) alpont 1. pontjában és af) alpontjában meghatározott hatáskörét országos illetékességgel gyakorolja.
-
-(4)[^6] Az egészségbiztosítási pénztári szakigazgatási szervek tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az OEP főigazgatója.
-
-[^4]: A 2/B. §-t a 221/2014. (IX. 4.) Korm. rendelet 510. §-a iktatta be.
-[^5]: A 3. § (3) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 24. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 3. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 60. §-a szerint módosított szöveg.
+[^4]: A 2/B. §-t a 221/2014. (IX. 4.) Korm. rendelet 510. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 161. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdését a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés a) pontja hatályon kívül helyezte.
+[^6]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 161. § (3) bekezdésével megállapított szöveg.
+[^7]: A 3. § (3) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 24. § (3) bekezdés a) pontja, a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 161. § (4) bekezdésével megállapított szöveg.
+[^9]: A 3. § (4a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 161. § (5) bekezdése iktatta be.

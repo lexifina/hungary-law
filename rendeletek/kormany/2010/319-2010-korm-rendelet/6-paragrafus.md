@@ -1,8 +1,8 @@
-6. § (1)[^16] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő vagyonkezelést – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Magyar Nemzeti Vagyonkezelő Zrt. végezheti.
+6. § (1)[^24] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő vagyonkezelést – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Magyar Nemzeti Vagyonkezelő Zrt. végezheti.
 
 (2) A Kormány egészségbiztosítási szervként – ha kormányrendelet eltérően nem rendelkezik – az OEP-et jelöli ki.
 
-(3) A Kormány egészségbiztosítási szervként az egészségbiztosítási pénztári szakigazgatási szervet jelöli ki
+(3)[^25] A Kormány egészségbiztosítási szervként a kormányhivatalt jelöli ki
 
 a) a Polgári Perrendtartásról szóló 1952. évi III. törvény 341. § c) pontjában,
 
@@ -10,15 +10,15 @@ b) az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 5.
 
 c) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény
 
-ca) 26. § (4) bekezdésében,
+ca)[^26]
 
 cb) 52. § (2) bekezdésében,
 
-d) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 97. § (7) bekezdésében
+d)[^27]
 
 ## foglalt feladatok ellátására.
 
-(4) A Kormány egészségbiztosítási szervként az OEP-et és az egészségbiztosítási pénztári szakigazgatási szervet jelöli ki
+(4)[^28] A Kormány egészségbiztosítási szervként az OEP-et és a kormányhivatalt jelöli ki
 
 a) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (3) bekezdés a) pontjában,
 
@@ -60,8 +60,14 @@ i) az egészségügyről szóló 1997. évi CLIV. törvény 147. § (2) bekezdé
 
 ## foglalt feladatok ellátására.
 
-(5) Az államháztartásról szóló 1992. évi XXXVIII. törvény 86/F. § (2) bekezdés a) pontjában foglalt feladatok ellátása tekintetében egészségbiztosítási szervként a Kormány az OEP-et jelöli ki azzal, hogy a fejezet felügyeletét ellátó szerv hatáskörében az OEP – mint országos illetékességgel eljáró egészségbiztosítási szerv – tekintetében az egészségügyért felelős miniszter jár el.
+(5)[^29]
 
-(6) Az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés h) pontja szerinti egészségbiztosítási szerv alatt az OEP és az egészségbiztosítási pénztári szakigazgatási szerv is értendő.
+(6)[^30] Az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés h) pontja szerinti egészségbiztosítási szerv alatt az OEP és a kormányhivatal is értendő.
 
-[^16]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 511. §-ával megállapított szöveg.
+[^24]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 511. §-ával megállapított szöveg.
+[^25]: A 6. § (3) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés b) pontja szerint módosított szöveg.
+[^26]: A 6. § (3) bekezdés c) pont ca) alpontját a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés b) pontja hatályon kívül helyezte.
+[^27]: A 6. § (3) bekezdés d) pontját a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés b) pontja hatályon kívül helyezte.
+[^28]: A 6. § (4) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés b) pontja szerint módosított szöveg.
+[^29]: A 6. § (5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 161. § (13) bekezdés c) pontja hatályon kívül helyezte.
+[^30]: A 6. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 161. § (12) bekezdés c) pontja szerint módosított szöveg.

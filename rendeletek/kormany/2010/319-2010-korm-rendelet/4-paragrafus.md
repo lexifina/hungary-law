@@ -1,6 +1,6 @@
 4. § (1) Az OEP ellátja a jogszabályokban meghatározott feladatait, ennek keretében
 
-a)[^7] végzi az E. Alap kezelésével – ideértve a finanszírozással és az ártámogatás-elszámolással kapcsolatos feladatokat –, a nyilvántartások vezetésével, a pénzügyi elszámolásokkal és az adatszolgáltatási kötelezettséggel kapcsolatos feladatokat,
+a)[^10] végzi az E. Alap kezelésével – ideértve a finanszírozással és az ártámogatás-elszámolással kapcsolatos feladatokat –, a nyilvántartások vezetésével, a pénzügyi elszámolásokkal és az adatszolgáltatási kötelezettséggel kapcsolatos feladatokat,
 
 b) részt vesz az E. Alap költségvetésének tervezésében és a zárszámadás elkészítésében,
 
@@ -12,7 +12,7 @@ e) végzi a nem az egészségbiztosítás keretében igénybe vehető ellátáso
 
 f) vezeti a társadalombiztosítási támogatásban részesülő gyógyszerekről, gyógyászati segédeszközökről, gyógyászati ellátásokról szóló egységes nyilvántartást,
 
-g) vezeti az egészségbiztosítási nyilvántartásokat, és ezzel kapcsolatban ellátja az adatvédelmi feladatok szakmai irányítását az egészségbiztosítási pénztári szakigazgatási szervek egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelése, és adatszolgáltatása vonatkozásában, illetve közreműködik ezen szervek feletti törvényességi, és szakszerűségi ellenőrzésben,
+g)[^11] vezeti az egészségbiztosítási nyilvántartásokat,
 
 h) a nyilvántartással összefüggésben különösen
 
@@ -34,11 +34,11 @@ m) feladatkörében közreműködik a társadalombiztosítással kapcsolatos nem
 
 n) gondoskodik az egészségbiztosítással kapcsolatos tájékoztatásról és az igényérvényesítést segítő szolgáltatások fejlesztéséről,
 
-o) gondoskodik az egészségbiztosítási ágazat vezetőinek és ügyintézőinek képzéséről, továbbképzéséről és vizsgáztatásáról, ideértve az egészségbiztosítási pénztári szakigazgatási szervek és az egészségbiztosítási kifizetőhelyek ügyintézőinek képzését is,
+o)[^12] gondoskodik az egészségbiztosítási ágazat vezetőinek és ügyintézőinek képzéséről, továbbképzéséről és vizsgáztatásáról, ideértve a kormányhivatal és az egészségbiztosítási kifizetőhelyek ügyintézőinek képzését is,
 
 p) véleményezi a kötelező egészségbiztosítással kapcsolatos jogszabályok tervezetét, valamint javaslatot tesz ezen jogszabályok módosítására, új jogszabály megalkotására,
 
-q) ellátja a megtérítési eljárásokkal kapcsolatban hatáskörébe utalt feladatokat,
+q)[^13] ellátja a megtérítési eljárásokkal kapcsolatban az E. Alap érdekében hatáskörébe utalt feladatokat, adatszolgáltatást teljesít, továbbá koordinálja, működteti és fejleszti az egészségbiztosítási ellátások költségeinek megtérítésére irányuló eljáráshoz szükséges informatikai rendszereket, gondoskodik a statisztikai adatok gyűjtéséről, azok közzétételéről, elemzéséről, értékeléséről,
 
 r) TAJ-t képez,
 
@@ -60,11 +60,13 @@ v) ellátja az E. Alap ellátási és működési vagyonával – ideértve a va
 
 w) ellátja mindazon további feladatokat, amelyeket jogszabály vagy az alapító okirat a hatáskörébe utal,
 
-x)[^8] vezeti az országos várólista nyilvántartást és ellátja az országos várólista nyilvántartással kapcsolatban külön jogszabályban meghatározott feladatokat,
+x)[^14] vezeti az országos várólista nyilvántartást és ellátja az országos várólista nyilvántartással kapcsolatban külön jogszabályban meghatározott feladatokat,
 
-y)[^9] működteti és vezeti az implantátum beültetésével, kivételével és cseréjével kapcsolatos beavatkozáson átesett érintetteknek az egészségügyről szóló 1997. évi CLIV. törvény 101/C. § (1) bekezdése szerinti, az egészségügyi szolgáltatói nyilvántartáshoz kapcsolódó informatikai felületet és az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 22/B. §-a szerinti központi implantátumregisztert.
+y)[^15] működteti és vezeti az implantátum beültetésével, kivételével és cseréjével kapcsolatos beavatkozáson átesett érintetteknek az egészségügyről szóló 1997. évi CLIV. törvény 101/C. § (1) bekezdése szerinti, az egészségügyi szolgáltatói nyilvántartáshoz kapcsolódó informatikai felületet és az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 22/B. §-a szerinti központi implantátumregisztert,
 
-(1a)[^10] Az OEP – az (1) bekezdésben foglaltakon túl – a jogszabályokban meghatározott feladatai keretében
+z)[^16] az E. Alap költségvetésében meghatározott egyszeri segély, valamint a méltányosságból adható pénzbeli ellátások keretösszegének a kormányhivatalok közötti felosztását, továbbá figyelemmel kíséri a keretösszeg felhasználását.
+
+(1a)[^17] Az OEP – az (1) bekezdésben foglaltakon túl – a jogszabályokban meghatározott feladatai keretében
 
 a) meghatározza a területi egészségügyi ellátás megszervezésének módszertanát, és irányítja a területi egészségügyi ellátás megszervezését,
 
@@ -74,13 +76,13 @@ c) ellátja az egészségüggyel, az egészségügy finanszírozásával kapcsol
 
 d) szakértőként eljár a Kormány által meghatározott szakkérdésekben,
 
-e)[^11] ellátja az egészségügyi ágazati központi informatikai tevékenységet, elkészíti és folyamatosan karbantartja az ágazati központi informatikai stratégiát,
+e)[^18] ellátja az egészségügyi ágazati központi informatikai tevékenységet, elkészíti és folyamatosan karbantartja az ágazati központi informatikai stratégiát,
 
-f)[^12] jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt és elemez.
+f)[^19] jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt és elemez.
 
-(1b)[^13] A Kormány térségi egészségszervezésért felelős államigazgatási szervként az OEP-et jelöli ki az egészségügyről szóló 1997. évi CLIV. törvény 146. § (1) bekezdése szerinti feladatok ellátására, azzal, hogy ezt a feladatot az Állami Egészségügyi Ellátó Központtal együttműködésben látja el.
+(1b)[^20] A Kormány térségi egészségszervezésért felelős államigazgatási szervként az OEP-et jelöli ki az egészségügyről szóló 1997. évi CLIV. törvény 146. § (1) bekezdése szerinti feladatok ellátására, azzal, hogy ezt a feladatot az Állami Egészségügyi Ellátó Központtal együttműködésben látja el.
 
-(2) Az egészségbiztosítási pénztári szakigazgatási szerv ellátja a jogszabályokban meghatározott feladatait, ennek keretében
+(2)[^21] A kormányhivatal az egészségbiztosítási pénztári feladatai keretében
 
 a) ellátja
 
@@ -104,22 +106,34 @@ af) a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve
 
 kapcsolatosan a hatáskörébe tartozó feladatokat,
 
-ag) jelzi az OEP, mint szakmai irányító szerv felé az aa)–af) pontban felsorolt feladatok végrehajtása során észlelt jogalkalmazási problémákat,
+ag) jelzi a miniszter felé az aa)–af) pontban felsorolt feladatok végrehajtása során észlelt jogalkalmazási problémákat,
 
-ah) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat az OEP szakmai irányítása alatt,
+ah) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat,
 
-ai)[^14] a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
+ai) a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
+
+aj) az anyatej-elszámolások fogadásával, ellenőrzésével, feldolgozásával kapcsolatos feladatokat,
+
+ak) az üzemi balesetből vagy foglalkozási megbetegedésből eredő egészségkárosodás miatt igénybe vett gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás térítési díjának utólagos megtérítésével kapcsolatos feladatokat,
+
+al) jelzi a miniszter felé az aa)–ak) pontban felsorolt feladatok végrehajtása során észlelt jogalkalmazási problémákat,
+
+am) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) VIII. fejezetében meghatározott megtérítési eljárásokkal kapcsolatban hatáskörébe utalt feladatokat,
 
 b) ellátja mindazon további feladatokat, amelyeket jogszabály vagy az alapító okirat a hatáskörébe utal.
 
-(3)[^15] A fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 6. § (5) bekezdésében foglaltakra figyelemmel az OEP – ideértve kihelyezett területi szervezeti egységeit is – és az egészségbiztosítási pénztári szakigazgatási szervek szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
+(3)[^22] Az OEP és a kormányhivatalok a szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
 
-[^7]: A 4. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 513. §-a szerint módosított szöveg.
-[^8]: A 4. § (1) bekezdés x) pontját a 92/2012. (IV. 27.) Korm. rendelet 30. §-a iktatta be.
-[^9]: A 4. § (1) bekezdés y) pontját a 254/2013. (VII. 5.) Korm. rendelet 58. § (1) bekezdése iktatta be.
-[^10]: A 4. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 85. §-a iktatta be.
-[^11]: A 4. § (1a) bekezdés e) pontját a 30/2015. (II. 25.) Korm. rendelet 47. § (1) bekezdése iktatta be.
-[^12]: A 4. § (1a) bekezdés f) pontját a 30/2015. (II. 25.) Korm. rendelet 47. § (1) bekezdése iktatta be.
-[^13]: A 4. § (1b) bekezdését a 30/2015. (II. 25.) Korm. rendelet 47. § (2) bekezdése iktatta be.
-[^14]: A 4. § (2) bekezdés a) pont ai) alpontját a 139/2011. (VII. 21.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^15]: A 4. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^10]: A 4. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 513. §-a szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 161. § (6) bekezdésével megállapított szöveg.
+[^12]: A 4. § (1) bekezdés o) pontja a 70/2015. (III. 30.) Korm. rendelet 161. § (7) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdés q) pontja a 70/2015. (III. 30.) Korm. rendelet 161. § (8) bekezdésével megállapított szöveg.
+[^14]: A 4. § (1) bekezdés x) pontját a 92/2012. (IV. 27.) Korm. rendelet 30. §-a iktatta be.
+[^15]: A 4. § (1) bekezdés y) pontját a 254/2013. (VII. 5.) Korm. rendelet 58. § (1) bekezdése iktatta be.
+[^16]: A 4. § (1) bekezdés z) pontját a 70/2015. (III. 30.) Korm. rendelet 161. § (9) bekezdése iktatta be.
+[^17]: A 4. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 85. §-a iktatta be.
+[^18]: A 4. § (1a) bekezdés e) pontját a 30/2015. (II. 25.) Korm. rendelet 47. § (1) bekezdése iktatta be.
+[^19]: A 4. § (1a) bekezdés f) pontját a 30/2015. (II. 25.) Korm. rendelet 47. § (1) bekezdése iktatta be.
+[^20]: A 4. § (1b) bekezdését a 30/2015. (II. 25.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^21]: A 4. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 161. § (10) bekezdésével megállapított szöveg.
+[^22]: A 4. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 161. § (10) bekezdésével megállapított szöveg.
