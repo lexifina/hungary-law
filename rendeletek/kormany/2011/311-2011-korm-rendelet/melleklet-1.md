@@ -3,4 +3,4 @@
 1. melléklet a 311/2011. (XII. 23.) Korm. rendelethez[^8]
 
 [^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1. melléklet a 6. § (1) bekezdése, az 51/2012. (III. 28.) Korm. rendelet 3. §-a, a 166/2012. (VII. 19.) Korm. rendelet 10. §-a, a 296/2012. (X. 17.) Korm. rendelet 56. §-a, a 394/2012. (XII. 20.) Korm. rendelet 51. §-a, a 67/2013. (III. 8.) Korm. rendelet 12. §-a, az 527/2013. (XII. 30.) Korm. rendelet 107. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 73. § (1) bekezdése és 74. § a)–b) pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 24. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
