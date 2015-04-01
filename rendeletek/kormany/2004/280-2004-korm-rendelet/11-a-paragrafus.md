@@ -1,3 +1,3 @@
-11/A. §[^26]
+11/A. §[^31]
 
-[^26]: A 11/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 128. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § c) pontja.
+[^31]: A 11/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 128. §-a iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § c) pontja.
