@@ -1,12 +1,10 @@
-## A megyei és fővárosi közlekedési felügyelőségek jogállása[^8]
+## A fővárosi és megyei kormányhivatal közlekedési hatósági feladatainak ellátása[^8]
 
-3/A. §[^9] (1) A megyei és fővárosi közlekedési felügyelőségek a fővárosi és megyei kormányhivatalok közlekedési szakigazgatási szervei.
+3/A. §[^9] (1) A fővárosi és megyei kormányhivatal közlekedési hatósági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-(2)[^10] A megyei és fővárosi közlekedési felügyelőségek tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője a Hatóság elnöke.
+(2) A fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) pontjában meghatározott hatásköröket a Nemzeti Közlekedési Hatóság Központ (a továbbiakban: Központ) gyakorolja.
 
-(3)[^11] A megyei és fővárosi közlekedési felügyelőségek által első fokon hozott döntés elleni fellebbezést a Nemzeti Közlekedési Hatóság Központja bírálja el.
+(3) A közlekedésért felelős miniszter az (1) bekezdésben meghatározott irányítási és ellenőrzési feladatainak ellátásában a Központ közreműködik.
 
-[^8]: A 3/A. §-t megelőző alcímet a 326/2010. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
-[^9]: A 3/A. §-t a 326/2010. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
-[^10]: A 3/A. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^11]: A 3/A. § (3) bekezdése a 175/2011. (VIII. 31.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^8]: A 3/A. §-t megelőző alcímet a 326/2010. (XII. 27.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3/A. §-t a 326/2010. (XII. 27.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.

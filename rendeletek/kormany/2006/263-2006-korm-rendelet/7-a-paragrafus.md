@@ -1,12 +1,16 @@
-## A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése[^144]
+## A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése[^154]
 
-7/A. §[^145] (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány a (2)–(5) bekezdés szerinti ügyek vonatkozásában a Hatóságot jelöli ki.
+7/A. §[^155] (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány a (2)–(5) bekezdés szerinti ügyek vonatkozásában a Hatóságot jelöli ki.
 
-(2) Első fokú építésfelügyeleti hatóságként
+(2)[^156] Első fokú építésfelügyeleti hatóságként
 
-a) az országos közúthálózatba tartozó autópályák, autóutak és a közúti határátkelőhelyek közlekedési építményei, továbbá a 30 méter szabad nyílást meghaladó hidak, valamint az alagutak tekintetében az Útügyi, Vasúti és Hajózási Hivatal,
+a) a 4. § (2) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében az Útügyi, Vasúti és Hajózási Hivatal,
 
-b) az a) pont hatálya alá nem tartozó közúti közlekedési építmények vonatkozásában a területileg illetékes megyei (fővárosi) közlekedési felügyelőség
+b) a 4. § (4) bekezdés a) pont hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest Főváros Kormányhivatala V. kerületi hivatala,
+
+c) a 4. § (4) bekezdés b) pont hatálya alá tartozó közúti közlekedési építmények tekintetében az illetékes járási hivatal, a fővárosban Budapest Főváros Kormányhivatala V. kerületi hivatala,
+
+d) a 4. § (5a) bekezdés hatálya alá tartozó közúti közlekedési építmények vonatkozásában a fővárosi és megyei kormányhivatal
 
 ## jár el.
 
@@ -16,7 +20,13 @@ b) az a) pont hatálya alá nem tartozó közúti közlekedési építmények vo
 
 (5) Első fokú építésfelügyeleti hatóságként a víziközlekedési építmények vonatkozásában az Útügyi, Vasúti és Hajózási Hivatal jár el.
 
-(6) A (2)–(5) bekezdés szerinti ügyek vonatkozásában másodfokú építésfelügyeleti hatóságként a Központ jár el.
+(6)[^157] Másodfokú építésfelügyeleti hatóságként
 
-[^144]: A 7/A. §-t megelőző alcímet a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
-[^145]: A 7/A. §-t a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+a) a (2) bekezdés a) és d) pontjai, a (3)–(5) bekezdés szerinti ügyek vonatkozásában a Központ,
+
+b) a (2) bekezdés b)–c) pontjai szerinti ügyek vonatkozásában a fővárosi és megyei kormányhivatal
+
+[^154]: A 7/A. §-t megelőző alcímet a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
+[^155]: A 7/A. §-t a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^156]: A 7/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (10) bekezdésével megállapított szöveg.
+[^157]: A 7/A. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (11) bekezdésével megállapított szöveg.
