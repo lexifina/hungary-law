@@ -1,6 +1,6 @@
 ## 1. § E rendelet hatálya kiterjed a Munkaerőpiaci Alap képzési alaprésze – az Szht. 9. §-ának (4) bekezdésében meghatározott – központi keretéből (a továbbiakban: keret) iskolarendszeren kívüli felnőttképzéshez nyújtható támogatásokra.
 
-## 2. §[^1] E rendelet alkalmazásában:
+## 2. §[^2] E rendelet alkalmazásában:
 
 a) állami támogatás: az államháztartás alrendszereiből nyújtott, illetve az államháztartási alrendszerek költségvetései számára kiadást vagy bevételkiesést jelentő támogatás, valamint a 6. §-ban, a 8–10. §-ban, a 17. §-ban és a 19–20. §-ban meghatározott támogatások esetében az Európai Szerződés 87. cikkének (1) bekezdése szerinti támogatás és a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 1998/2006/EK rendelet – HL L sorozat 379. szám, 2006. 12. 28. – (a továbbiakban: 1998/2006/EK bizottsági rendelet) 2. cikke szerinti csekély összegű (de minimis) támogatás;
 
@@ -58,7 +58,7 @@ p) támogatási program: a 85/2004. (IV. 19.) Korm. rendelet 1. § 26. pontja sz
 
 q) támogatás szempontjából elszámolható költség: a támogatás alapjának meghatározásakor figyelembe vett, a támogatás tárgyával összefüggésben közvetlenül felmerült vagy ahhoz közvetett módon hozzárendelhető költségek, ráfordítások és beszerzett eszközök bekerülési értéke, amelyek finanszírozására a támogatás felhasználható;
 
-r)[^2] egyedi támogatás: a 800/2008/EK bizottsági rendelet 2. cikkének 3. pontjában meghatározott támogatás.
+r)[^3] egyedi támogatás: a 800/2008/EK bizottsági rendelet 2. cikkének 3. pontjában meghatározott támogatás.
 
-[^1]: A 2. § a 2/2009. (II. 10.) SZMM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § r) pontját a 10/2009. (IV. 14.) SZMM rendelet 4. § (1) bekezdése iktatta be.
+[^2]: A 2. § a 2/2009. (II. 10.) SZMM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § r) pontját a 10/2009. (IV. 14.) SZMM rendelet 4. § (1) bekezdése iktatta be.

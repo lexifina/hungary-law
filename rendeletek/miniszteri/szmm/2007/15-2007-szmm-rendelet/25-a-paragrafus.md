@@ -1,4 +1,4 @@
-25/A. §[^22] (1) A csekély összegű támogatás odaítélésének feltétele a kedvezményezett nyilatkozata, mely szerint általa az előző három pénzügyi évben igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak megfelelő forintösszeget.
+25/A. §[^23] (1) A csekély összegű támogatás odaítélésének feltétele a kedvezményezett nyilatkozata, mely szerint általa az előző három pénzügyi évben igénybe vett csekély összegű támogatások támogatástartalma nem haladja meg a 200 000 eurónak megfelelő forintösszeget.
 
 (2) A több részletben fizetendő támogatást az odaítélése időpontjában érvényes értékre kell diszkontálni.
 
@@ -8,4 +8,4 @@
 
 (5) Csekély összegű (de minimis) támogatás nem nyújtható az 1998/2006/EK rendelet 1. cikk 1. pontjában meghatározott tevékenységekhez.
 
-[^22]: A 25/A. §-t a 2/2009. (II. 10.) SZMM rendelet 5. §-a iktatta be.
+[^23]: A 25/A. §-t a 2/2009. (II. 10.) SZMM rendelet 5. §-a iktatta be.
