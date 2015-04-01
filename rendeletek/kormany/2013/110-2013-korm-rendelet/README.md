@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-110-20-
 | --- | --- | --- |
 | 2013-04-16 | 2013-110-20-22.1 | 110/2013. (IV. 9.) Korm. rendelet |
 | 2013-04-17 | 2013-110-20-22.2 | 2010: CXXX. törvény |
+| 2015-04-01 | 2013-110-20-22.3 | 70/2015. (III. 30.) Korm. rendelet |

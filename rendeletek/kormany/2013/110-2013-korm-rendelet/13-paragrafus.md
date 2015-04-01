@@ -6,7 +6,7 @@
 
 a) a kibocsátó szervek vagy megbízottaik,
 
-b) az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság,
+b)[^6] az élelmiszerlánc-biztonsági és állategészségügyi hatóság,
 
 c) a Mezőgazdasági és Vidékfejlesztési Hivatal
 
@@ -29,3 +29,5 @@ e) az 5. § (6) bekezdése szerinti adatokat.
 (5) Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság rögzíti a központi adatbázisban az élelmiszerlánc-biztonsággal, járványügyi intézkedésekkel kapcsolatos adatokat.
 
 (6) A kibocsátó szervek, valamint a NÉBIH biztosítják, hogy a kibocsátó szervek adatbázisa és a központi adatbázis lehetővé tegye a lófélék eredete, tartási helye, állattartója, tulajdonosa, illetve az ezen adatokban bekövetkezett változás nyomonkövetését.
+
+[^6]: A 13. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.
