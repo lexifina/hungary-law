@@ -1,6 +1,6 @@
 ## az éves támogatási szerződés alatt az (1) bekezdés szerinti támogatási szerződést kell érteni.
 
-55/B. §[^108] (1) A 17. § (1) bekezdésétől eltérően 2014. decemberben az az akkreditált munkáltató, amely a 2014. évi foglalkoztatásra érvényes és hatályos éves támogatási szerződéssel rendelkezik, a 26–28. §-ban foglalt pályázati eljárás lefolytatása, a keretszerződés, valamint az éves támogatási szerződés módosítása nélkül egyszeri támogatásra (a továbbiakban: egyszeri támogatás) jogosult.
+55/B. §[^123] (1) A 17. § (1) bekezdésétől eltérően 2014. decemberben az az akkreditált munkáltató, amely a 2014. évi foglalkoztatásra érvényes és hatályos éves támogatási szerződéssel rendelkezik, a 26–28. §-ban foglalt pályázati eljárás lefolytatása, a keretszerződés, valamint az éves támogatási szerződés módosítása nélkül egyszeri támogatásra (a továbbiakban: egyszeri támogatás) jogosult.
 
 (2) Az egyszeri támogatás összegét a rendelkezésre álló források figyelembevételével, a munkáltató 2014. december 10-én hatályos egyéni foglalkoztatási megállapodásainak, valamint valamennyi hatályos keret- és támogatási szerződéssel rendelkező munkáltató 2014. december 10-én hatályos egyéni foglalkoztatási megállapodásainak arányában kell meghatározni. Az egyéni foglalkoztatási megállapodások száma tekintetében legfeljebb az éves támogatási szerződésben meghatározott létszámot lehet figyelembe venni.
 
@@ -30,4 +30,4 @@ b) az egyszeri támogatás folyósításának időpontjában az egyéni támogat
 
 (13) Az egyszeri támogatásra e rendeletnek a 285/2014. (XI. 20.) Korm. rendelet hatálybalépését megelőző napon hatályos 1. § 12. pontját, 17. § (4) bekezdését, 19. § (1) és (2) bekezdését, 19. § (4) bekezdés b) pontját, 22. § (1) és (4) bekezdését és 45. §-át kell alkalmazni.
 
-[^108]: Az 55/B. §-t a 340/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
+[^123]: Az 55/B. §-t a 340/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be.

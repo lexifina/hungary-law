@@ -12,11 +12,11 @@ d) a rendelkezésre állás időtartama alatt
 
 da) az új vagy átalakított munkahelyet fenntartja, és
 
-db) az új vagy átalakított munkahelyen a munkahely-teremtési szerződésben meghatározott létszámban újonnan alkalmazott megváltozott munkaképességű munkavállalót foglalkoztat, a rehabilitációs szakigazgatási szervvel kötött megállapodásnak megfelelően (a továbbiakban: foglalkoztatási kötelezettség).
+db)[^100] az új vagy átalakított munkahelyen a munkahely-teremtési szerződésben meghatározott létszámban újonnan alkalmazott megváltozott munkaképességű munkavállalót foglalkoztat, a rehabilitációs hatósággal kötött megállapodásnak megfelelően (a továbbiakban: foglalkoztatási kötelezettség).
 
 (2) Ha a munkáltató a rendelkezésre állás időtartama alatt az új vagy átalakított munkahelyen nem tud a munkahely-teremtési szerződésben meghatározott létszámban újonnan alkalmazott megváltozott munkaképességű munkavállalót foglalkoztatni, a foglalkoztatási kötelezettségét akkor is teljesíti, ha a munkahely-teremtési szerződésben meghatározott határidőt figyelembe véve az új vagy átalakított munkahelyen újonnan alkalmazott megváltozott munkaképességű munkavállalók létszámának és foglalkoztatásuk időtartamának a szorzata eléri a munkahely-teremtési szerződésben meghatározott létszám és a rendelkezésre állás időtartamának a szorzatát.
 
-(3) A (2) bekezdés alkalmazásának feltétele, hogy a rehabilitációs szakigazgatási szerv a munkáltató részére a munkahelyteremtés befejezését követő 90 napon belül nem tudja kiközvetíteni a munkahely-teremtési szerződésben meghatározott létszámú megváltozott munkaképességű személyt.
+(3)[^101] A (2) bekezdés alkalmazásának feltétele, hogy a rehabilitációs hatóság a munkáltató részére a munkahelyteremtés befejezését követő 90 napon belül nem tudja kiközvetíteni a munkahely-teremtési szerződésben meghatározott létszámú megváltozott munkaképességű személyt.
 
 (4) Ha a munkáltató az új vagy átalakított munkahelyen foglalkoztatott munkavállaló tekintetében rendelkezik egyéni foglalkoztatási megállapodással, az (1) bekezdés d) pont db) alpontja szerinti megállapodás alatt az egyéni foglalkoztatási megállapodást kell érteni, ellenkező esetben az (1) bekezdés d) pont db) alpontja szerinti megállapodásra az egyéni foglalkoztatási megállapodás 33. §-ban meghatározott szabályait kell alkalmazni, a következő eltérésekkel:
 
@@ -24,7 +24,7 @@ a) az egyéni támogatással érintett munkavállaló alatt az új vagy átalak�
 
 b) az egyéni támogatás kezdetére és időtartamára, valamint mértékének megállapítására vonatkozó rendelkezéseket nem kell alkalmazni,
 
-c) a megállapodást a rehabilitációs szakigazgatási szerv azonnali hatállyal felmondhatja, ha az új vagy átalakított munkahelyen foglalkoztatott munkavállaló tekintetében a 21. § (3) bekezdésében megállapított valamely kizáró feltétel teljesül.
+c)[^102] a megállapodást a rehabilitációs hatóság azonnali hatállyal felmondhatja, ha az új vagy átalakított munkahelyen foglalkoztatott munkavállaló tekintetében a 21. § (3) bekezdésében megállapított valamely kizáró feltétel teljesül.
 
 (5) Nem nyújtható munkahely-teremtési támogatás,
 
@@ -46,12 +46,16 @@ f) ha a munkáltató a közpénzekből nyújtott támogatások átláthatóság�
 
 g) ha a munkáltató a munkahely-teremtési szerződés megkötésének feltételeként meghatározott nyilatkozatokat nem teszi meg, dokumentumokat nem nyújtja be, vagy a megtett nyilatkozatát visszavonja,
 
-h)[^90]
+h)[^103]
 
 i) ha a munkáltató megváltozott munkaképességű személy foglalkoztatásához a munkahely-teremtési pályázat benyújtása előtt költségvetési támogatásban részesült és ennek felhasználásáról – jogszabályi vagy szerződéses kötelezettségét megszegve – még nem számolt el,
 
-j) ha a munkáltató a munkahely-teremtési pályázat kiírását megelőző hat hónapban a munkahelyteremtés helye szerint illetékes rehabilitációs szakigazgatási szerv illetékességi területén csoportos létszámcsökkentést hajtott végre,
+j)[^104] ha a munkáltató a munkahely-teremtési pályázat kiírását megelőző hat hónapban a munkahelyteremtés helye szerint illetékes rehabilitációs hatóság illetékességi területén csoportos létszámcsökkentést hajtott végre,
 
 k) ha a munkáltató a munkahely-teremtési pályázat kiírását megelőzően a pályázatban meghatározott munkahely-teremtési tevékenységet már megkezdte.
 
-[^90]: A 42/B. § (5) bekezdés h) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^100]: A 42/B. § (1) bekezdés d) pont db) alpontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^101]: A 42/B. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^102]: A 42/B. § (4) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^103]: A 42/B. § (5) bekezdés h) pontját a 285/2014. (XI. 20.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^104]: A 42/B. § (5) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés a) pontja szerint módosított szöveg.

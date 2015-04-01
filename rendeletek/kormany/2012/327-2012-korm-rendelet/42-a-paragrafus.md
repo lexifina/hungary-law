@@ -1,10 +1,10 @@
-## III/B. Fejezet[^86]
+## III/B. Fejezet[^96]
 
 ## A MUNKAHELY-TEREMTÉSI TÁMOGATÁS SZABÁLYAI
 
 ## 28/A. A munkahely-teremtési támogatás általános szabályai
 
-42/A. § (1)[^87] A munkahely-teremtési támogatás keretében az általános csoportmentességi rendelet 34. cikk (2) bekezdés a) pontjában, valamint c)–f) pontjában meghatározott költségek támogathatóak, az általános csoportmentességi rendelet 34. cikkében meghatározott feltételekkel.
+42/A. § (1)[^97] A munkahely-teremtési támogatás keretében az általános csoportmentességi rendelet 34. cikk (2) bekezdés a) pontjában, valamint c)–f) pontjában meghatározott költségek támogathatóak, az általános csoportmentességi rendelet 34. cikkében meghatározott feltételekkel.
 
 (2) A támogatási intenzitás – ideértve az egyéb költségvetési forrásból kapott támogatásokat – nem haladhatja meg az elszámolható költségek 100%-át.
 
@@ -16,7 +16,7 @@
 
 a) az új vagy átalakított munkahelyen újonnan alkalmazandó megváltozott munkaképességű munkavállalók – a munkahely-teremtési szerződésben meghatározott – létszámának és
 
-b)[^88] az egyéni támogatás – a szerződéskötés évében érvényes – egy hónapra számított keretösszege 24-szeresének
+b)[^98] az egyéni támogatás – a szerződéskötés évében érvényes – egy hónapra számított keretösszege 24-szeresének
 
 ## a szorzata.
 
@@ -24,9 +24,9 @@ b)[^88] az egyéni támogatás – a szerződéskötés évében érvényes – 
 
 a) az adott évet megelőző évben egyéni támogatásra kiírt pályázatok keretében befogadott valamennyi foglalkoztatási kapacitás legfeljebb 2%-ának és
 
-b)[^89] az egyéni támogatás – a szerződéskötés évében érvényes – egy hónapra számított keretösszege legfeljebb 24-szeresének
+b)[^99] az egyéni támogatás – a szerződéskötés évében érvényes – egy hónapra számított keretösszege legfeljebb 24-szeresének
 
-[^86]: A III/B. Fejezetet (42/A–42/G. §) a 335/2013. (IX. 20.) Korm. rendelet 24. §-a iktatta be.
-[^87]: A 42/A. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^88]: A 42/A. § (5) bekezdés b) pontja a 332/2014. (XII. 18.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^89]: A 42/A. § (6) bekezdés b) pontja a 332/2014. (XII. 18.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^96]: A III/B. Fejezetet (42/A–42/G. §) a 335/2013. (IX. 20.) Korm. rendelet 24. §-a iktatta be.
+[^97]: A 42/A. § (1) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^98]: A 42/A. § (5) bekezdés b) pontja a 332/2014. (XII. 18.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^99]: A 42/A. § (6) bekezdés b) pontja a 332/2014. (XII. 18.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

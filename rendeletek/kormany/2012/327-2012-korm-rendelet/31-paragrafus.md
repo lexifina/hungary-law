@@ -26,7 +26,7 @@ b) az egyéni támogatás éves keretösszegét,
 
 c) a munkáltató részére nyújtandó egyéni támogatások együttes tervezett éves keretösszegét.
 
-(4) Az egyes munkáltatók esetében a támogatott megváltozott munkaképességű munkavállalók számát az adott munkáltató hatályos egyéni foglalkoztatási megállapodásai és a rehabilitációs szakigazgatási szerv javaslata alapján a következő költségvetési évre tervezett új egyéni foglalkoztatási megállapodások alapján kell meghatározni.
+(4)[^77] Az egyes munkáltatók esetében a támogatott megváltozott munkaképességű munkavállalók számát az adott munkáltató hatályos egyéni foglalkoztatási megállapodásai és a rehabilitációs hatóság javaslata alapján a következő költségvetési évre tervezett új egyéni foglalkoztatási megállapodások alapján kell meghatározni.
 
 (5) A miniszter az éves támogatási tervben meghatározza a (3) bekezdés a)–c) pontjában meghatározottak módosítására vonatkozó elveket arra az esetre, ha
 
@@ -37,3 +37,5 @@ b) az éves támogatási tervben meghatározott munkáltatónak az e rendelet sz
 (6) Az (5) bekezdés szerinti elveket a miniszter által vezetett minisztérium és a Hivatal honlapján minden évben december 31-ig közzé kell tenni.
 
 (7) Ha az (1) bekezdés b) pontja szerinti keretösszeg a következő évre szóló költségvetési törvényben meghatározott fejezeti kezelésű előirányzat összegétől eltér, a Hivatal az éves támogatási tervet – munkáltatónként – az (5) bekezdésben foglaltak szerint meghatározott elvek alapján módosítja.
+
+[^77]: A 31. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
