@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-232-20-
 | 2012-01-01 | 1996-232-20-22.12 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2013-03-16 | 1996-232-20-22.13 | 69/2013. (III. 8.) Korm. rendelet |
 | 2014-01-01 | 1996-232-20-22.14 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2015-04-01 | 1996-232-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
