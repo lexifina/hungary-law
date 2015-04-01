@@ -64,6 +64,10 @@
 
 ## 1.31. a lakás-takarékpénztár általános szerződési feltételeiről szóló 47/1997. (III. 12.) Korm. rendelet;
 
+## 1.31a. a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvényben rögzített elszámolás szabályairól és egyes egyéb rendelkezésekről szóló 2014. évi XL. törvény (a továbbiakban: Elszámolási tv.);
+
+## 1.31b. az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: Forintosítási tv.);
+
 ## 1.32. a hitelintézetek és pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Hitkr.);
 
 ## 1.33. a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 251/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Beszkr.);
@@ -102,7 +106,11 @@
 
 ## 1.50. a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: CRR);
 
+## 1.50a. a betétbiztosítói rendszerekről szóló 1994. május 30-i 94/19/EK európai parlamenti és tanácsi irányelv;
+
 ## 1.51. a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelv (a továbbiakban: CRD).
+
+## 1.52. 680/2014/EU bizottsági végrehajtási rendelet.
 
 ## 2. Fogalmak
 
@@ -760,4 +768,6 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet az 51/2014. (XII. 9.) MNB rendelethez
+2. melléklet az 51/2014. (XII. 9.) MNB rendelethez[^10]
+
+[^10]: A 2. melléklet az 5/2015. (III. 12.) MNB rendelet 7. §-a szerint módosított szöveg.
