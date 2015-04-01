@@ -1,9 +1,0 @@
-1. § (1) A regionális fejlesztési és képzési bizottság (a továbbiakban: bizottság) a szakképzésért és felnőttképzésért felelős miniszter (a továbbiakban: miniszter) által felkért tagokból álló, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény (a továbbiakban: Szht.) 13. § (2) bekezdésében, valamint a közoktatásról szóló 1993. évi LXXIX. törvény 89/B. § (1) bekezdésében meghatározott feladatok ellátására létrehozott, régiónként működő testület.
-
-(2)[^2] Az Szht. 13. § (3) bekezdésében meghatározott szerveket, testületeket – a szakképzést folytató intézmények fenntartói kivételével – a miniszter keresi meg a bizottság tagjaira vonatkozó javaslatok megtételére. A szakképzést folytató intézmények fenntartóinak képviselőire vonatkozó javaslat beszerzésében – a miniszter erre irányuló felkérése alapján – fővárosi és megyei kormányhivatal munkaügyi központja (a továbbiakban: munkaügyi központ) működik közre.
-
-(3) A szakképzést folytató intézmények fenntartói által delegált személyekről való döntés során valamennyi érdekelt fenntartó részére véleménynyilvánítási lehetőséget kell biztosítani. A bizottságba delegált személyre vonatkozó javaslatról az érdekeltek – legalább kétharmaduk részvétele esetén – egyszerű szótöbbséggel döntenek.
-
-(4) A javaslattételre jogosult a bizottsági tagságra jelölt személyéről a javaslatot a megkereséstől számított 45 napon belül küldi meg a miniszternek. A miniszter a javasolt személyt a javaslat kézhezvételét követő 30 napon belül kéri fel a bizottsági tagságra.
-
-[^2]: Az 1. § (2) bekezdése a 27/2010. (XII. 31.) NGM rendelet 61. §-a szerint módosított szöveg.
