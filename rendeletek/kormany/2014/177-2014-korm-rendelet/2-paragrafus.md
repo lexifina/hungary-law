@@ -2,7 +2,7 @@
 
 (2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(3) Az eljáró hatóság az általa meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő ötödik nap.
+(3)[^2]
 
 (4) Az 1. § (1) bekezdése szerinti
 
@@ -11,3 +11,5 @@ a) építésügyi hatósági ügyekben nem kell településképi véleményezés
 b) beruházással összefüggésben településképi bejelentési eljárásnak nincs helye,
 
 c) beruházással összefüggésben nem kell építészeti-műszaki tervtanácsi véleményt beszerezni.
+
+[^2]: A 2. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 86. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.

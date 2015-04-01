@@ -1,3 +1,3 @@
-1. melléklet a 177/2014. (VII. 18.) Korm. rendelethez[^4]
+1. melléklet a 177/2014. (VII. 18.) Korm. rendelethez[^6]
 
-[^4]: Az 1. melléklet a 229/2014. (IX. 5.) Korm. rendelet 199. § (1) bekezdése és 200. § a)–b) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 86. § (2) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
