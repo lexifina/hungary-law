@@ -1,1 +1,0 @@
-A földgázellátásról szóló 2008. évi XL. törvény 133. § (1) bekezdés 3. pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 84. § f) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
