@@ -18,7 +18,7 @@ Az 1. § (1) bekezdésben foglalt beruházással összefüggő kiemelt jelentős
 
 6. útügyi hatósági eljárások,
 
-7. a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti építésügyi hatósági engedélyezési eljárások,
+7.[^2] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 8. műszaki biztonsági engedélyezési eljárások,
 
@@ -35,3 +35,5 @@ Az 1. § (1) bekezdésben foglalt beruházással összefüggő kiemelt jelentős
 14. az 1–3. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások,
 
 15. az 1–13. pontban felsorolt ügyfajtákhoz kapcsolódó szakhatósági eljárások.
+
+[^2]: Az 1. melléklet 7. pontja a 72/2015. (III. 30.) Korm. rendelet 94. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.

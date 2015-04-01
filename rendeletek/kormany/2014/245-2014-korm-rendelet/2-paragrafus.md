@@ -6,6 +6,8 @@
 
 (4) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokra vonatkozó ügyintézési határidő tizenöt nap.
 
-(5) Az eljáró hatóság az általa meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő 5. nap.
+(5)[^1]
 
 (6) Az 1. § (1) bekezdése szerinti beruházással összefüggésben településképi bejelentési eljárásnak nincs helye.
+
+[^1]: A 2. § (5) bekezdését a 72/2015. (III. 30.) Korm. rendelet 94. § (2) bekezdése hatályon kívül helyezte, Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
