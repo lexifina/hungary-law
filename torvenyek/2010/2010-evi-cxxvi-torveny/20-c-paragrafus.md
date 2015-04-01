@@ -1,3 +1,13 @@
-20/C. § (1) A megyei szakigazgatási szerv vezetőjének javaslatára a kormánymegbízott írásban indokolt döntést hozhat arról, hogy a járási szakigazgatási szerv kormánytisztviselői és munkavállalói tekintetében a munkavégzéssel összefüggő munkáltatói jogokat (így különösen a munkarend, munkaidő-beosztás meghatározását, rendkívüli munkaidő elrendelését, utasításadást, munkaköri feladatok ellátásához szükséges tájékoztatás és iránymutatás megadását) a megyei szakigazgatási szerv vezetője gyakorolja ideiglenesen. A kormánymegbízottnak – akadályoztatása esetén a főigazgatónak – a megyei szakigazgatási szerv vezetője javaslatáról a javaslat kézhezvételét követően azonnal írásban döntenie kell, ennek hiányában a javaslatot elfogadottnak kell tekinteni. A megyei szakigazgatási szerv vezetője a kormánymegbízott döntéséig a szükséges intézkedéseket saját hatáskörben megteheti, ennek során a járási szakigazgatási szerv kormánytisztviselőit és munkavállalóit – a hivatalvezető egyidejű értesítésével – feladat elvégzésére utasíthatja.
+20/C. § (1) A kormánymegbízott gyakorolja a járási hivatal vezetője helyett a járási hivatal kormánytisztviselői és munkavállalói tekintetében
 
-(2) A megyei szakigazgatási szerv vezetője a járási szakigazgatási szerv kormánytisztviselői és munkavállalói tekintetében az (1) bekezdésben meghatározott munkavégzéssel összefüggő munkáltatói jogkörét célhoz kötötten, meghatározott esemény vagy történés bekövetkezte esetén gyakorolhatja. A megyei szakigazgatási szerv vezetője az érintett hivatalvezetőket írásban tájékoztatja az általa elrendelt intézkedésekről. Amennyiben a döntés elrendelése okafogyottá válik, a megyei szakigazgatási szerv vezetőjének javaslatára a kormánymegbízott haladéktalanul írásban visszavonja a döntését.
+a) munkaidő-beosztás meghatározására,
+
+b) a rendkívüli munkaidő elrendelésére,
+
+c) az utasításadásra,
+
+d) a munkaköri feladatok ellátásához szükséges tájékoztatás és iránymutatás megadására
+
+vonatkozó munkáltatói jogokat.
+
+(2) A kormánymegbízott a járási hivatal kormánytisztviselői és munkavállalói tekintetében az (1) bekezdésben meghatározott munkáltatói jogokat célhoz kötötten, meghatározott esemény vagy történés bekövetkezte esetén, továbbá a szakkérdések elbírálásával összefüggő feladatok hatékony ellátása érdekében gyakorolhatja. A kormánymegbízott az érintett hivatalvezetőket írásban tájékoztatja az általa elrendelt intézkedésekről. Amennyiben az intézkedés elrendelése okafogyottá válik, a kormánymegbízott haladéktalanul írásban visszavonja a döntését.

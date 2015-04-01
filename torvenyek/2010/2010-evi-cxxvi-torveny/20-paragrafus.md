@@ -4,7 +4,7 @@ a) döntés-előkészítő és javaslattevő szervként közreműködik a Kormá
 
 ellátásában,
 
-b) a szakigazgatási szerveket érintő funkcionális feladatokat lát el,
+b)
 
 c) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – ellenőrzési feladatokat lát el, különös tekintettel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
 

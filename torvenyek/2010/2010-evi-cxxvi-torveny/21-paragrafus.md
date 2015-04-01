@@ -4,11 +4,11 @@
 
 a) a fővárosi és megyei kormányhivatalok feladat- és hatáskörére, szervezetére, működésére és ellenőrzésére vonatkozó részletes szabályokat,
 
-b) a szakigazgatási szerveket,
+b)
 
-c) a törzshivatal és a szakigazgatási szervek irányításának részletes szabályait,
+c) a fővárosi és megyei kormányhivatal, valamint a járási hivatalok irányításának részletes szabályait,
 
-d) a szakmai irányító szerv vezetőjét,
+d) az 1. § 3. pontjában meghatározott rendelkezéstől eltérő szakmai irányító minisztert
 
 e) a fővárosi és megyei kormányhivatal funkcionális feladatait, valamint az azok irányítását ellátó szervet vagy szerveket,
 
