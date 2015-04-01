@@ -1,4 +1,4 @@
-## IV/A. Fejezet[^59]
+## IV/A. Fejezet[^76]
 
 ## A NEMZETKÖZI BŰNÜGYI EGYÜTTMŰKÖDÉSI KÖZPONT ADATKÖZLÉSI KÖTELEZETTSÉGE
 
@@ -14,4 +14,4 @@ c) a Bnytv. 30/D. § (3a) bekezdésében meghatározott átadás tényét és id
 
 (2) Az (1) bekezdésben meghatározott adatközlést a nyilvántartásba vételt megalapozó átadás napjától számított három munkanapon belül kell teljesíteni.
 
-[^59]: A IV/A. fejezetet (22/B. §) a 17/2014. (XII. 19.) IM rendelet 30. §-a iktatta be.
+[^76]: A IV/A. fejezetet (22/B. §) a 17/2014. (XII. 19.) IM rendelet 30. §-a iktatta be.

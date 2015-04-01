@@ -50,7 +50,7 @@
 
 | ........................................................ Az eljáró szerv képviselője |
 
-13. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^90]
+13. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^107]
 
 Az arcképmásrögzítés módja
 
@@ -74,4 +74,4 @@ Az arcképmásrögzítéskor a fényképezőgép objektív tengelyének a jobb s
 
 A rögzített arcképmásnak a képmező közepében kell elhelyezkedni, a képen a fej és az azonosító tábla töltse ki az egész képmezőt, a tábla alsó széle a képmező alsó szélére illesztve helyezkedjen el. A fejtető a kép felső szélére illeszkedjen.
 
-[^90]: A 13. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.
+[^107]: A 13. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be.

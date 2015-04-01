@@ -1,4 +1,4 @@
-10. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^87]
+10. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^104]
 
 10. adatlap
 
@@ -76,4 +76,4 @@ ADATKÖZLÉS A KÜLFÖLDRE UTAZÁSI KORLÁTOZÁS HATÁLYA ALATT ÁLLÓK NYILVÁN
 
 | Az eljáró szerv képviselője |
 
-[^87]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
+[^104]: A 10. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 34. §-ával megállapított szöveg.
