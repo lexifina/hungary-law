@@ -1,0 +1,1 @@
+## „(6) Az ösztöndíjasnak teljesítenie kell a fogadó felsőoktatási intézmény által meghatározott felvételi követelményeket. Az ösztöndíjat a miniszter megbízásából a Közalapítvány adományozza azzal a feltétellel, hogy az ösztöndíjasnak hallgatói jogviszonyt kell létesítenie.”

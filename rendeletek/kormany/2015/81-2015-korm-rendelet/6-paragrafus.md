@@ -1,0 +1,3 @@
+## 5. § Az R2 7. §-a helyébe a következő rendelkezés lép:
+
+## „7. § A külföldi hallgatói helyek önköltségének mértéke a képzési pályázat alapján meghatározott összeg. Az ösztöndíj a hallgatói jogviszonyban álló ösztöndíjas részére tanulmányai során folyósítandó, ha az adott tanulmányi időszakban aktív hallgatói jogviszonnyal rendelkezik. A tanulmányok ütemezése során az ösztöndíjast a fogadó felsőoktatási intézmény hallgatói követelményrendszerében, valamint az ösztöndíjas szerződésben rögzített jogok és kötelezettségek illetik meg, illetve terhelik. Ösztöndíjas hallgatót csak olyan felsőoktatási intézmény fogadhat, amely képzési pályázatot nyújtott be a programban való részvételre.”
