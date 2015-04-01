@@ -8,6 +8,6 @@
 
 (2) A mellékletben az összes nem metán szénhidrogénre megállapított határértékek 1995. január 1-jén lépnek hatályba.
 
-(3)[^5]
+(3)[^8]
 
-[^5]: A 6. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 28. §-ának 21. pontja hatályon kívül helyezte.
+[^8]: A 6. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 28. §-ának 21. pontja hatályon kívül helyezte.

@@ -20,7 +20,7 @@
 
 ## a metán kivételével 150 mg/m3
 
-## A megadott határértékek fizikai normál állapotú, száraz füstgázra vonatkoznak, 5% O2 tartalom mellett. Az 5%-nál nagyobb etántartalmú földgázok esetében az összes szénhidrogéntartalom C1-ben kifejezve, a metán kivételével 250 mg/m3.[^6]
+## A megadott határértékek fizikai normál állapotú, száraz füstgázra vonatkoznak, 5% O2 tartalom mellett. Az 5%-nál nagyobb etántartalmú földgázok esetében az összes szénhidrogéntartalom C1-ben kifejezve, a metán kivételével 250 mg/m3.[^9]
 
 2. számú melléklet a 32/1993. (XII. 23.) KTM rendelethez
 
@@ -48,4 +48,4 @@ a metán kivételével 300 mg/m3
 
 A megadott határértékek fizikai normál állapotú, száraz füstgázra vonatkoznak, 5% O2 tartalom mellett.
 
-[^6]: Az 1. számú melléklet utolsó bekezdését a 49/1997. (XII. 29.) KTM rendelet 4. §-a iktatta a szövegbe.
+[^9]: Az 1. számú melléklet utolsó bekezdését a 49/1997. (XII. 29.) KTM rendelet 4. §-a iktatta a szövegbe.
