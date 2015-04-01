@@ -302,4 +302,4 @@ P. H.
 
 ............................................................
 
-[^446]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. §-a, a 24/2015. (II. 20.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
+[^446]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. §-a, a 24/2015. (II. 20.) Korm. rendelet 32. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 107. § (2) bekezdése szerint módosított szöveg.
