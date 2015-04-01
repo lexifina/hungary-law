@@ -26,6 +26,6 @@ a) kizárólag határidőn túl érkezett a jegyzőhöz elfogadó jognyilatkozat
 
 b) a határidőn belül beérkezett valamennyi elfogadó jognyilatkozat hiányos, vagy valótlan tartalmú, és ezáltal egyik sem felel meg az (1) bekezdés c) pontjában foglaltaknak.
 
-(5) Az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén a (3) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv a rendelkezésére álló okiratok, és az általa készített jegyzék másolatának megküldésével haladéktalanul megkeresi az erdészeti hatóságot a szakhatósági állásfoglalásának beszerzése céljából. Az erdészeti hatóság az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételek fennállását vizsgálja.
+(5) Az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén a (3) és (4) bekezdésben meghatározott esetben az eljáró hatóság vizsgálja az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételek fennállását.
 
-(6) Ha a (4) bekezdésben foglalt esetek valamelyike áll fenn, az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén az (5) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a mezőgazdasági igazgatási szerv jegyzék nélkül keresi meg az erdészeti hatóságot.
+(6)

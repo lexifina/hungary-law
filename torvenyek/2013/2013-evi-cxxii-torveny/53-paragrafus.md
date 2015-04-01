@@ -16,7 +16,7 @@ dc) birtokában álló föld jogellenes más célú hasznosítása, vagy a haszn
 
 e) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak)nak, illetve a soron következő előhaszonbérletre jogosult(ak)nak, vagy a haszonbérleti szerződés szerinti haszonbérlőnek jogerősen megállapított földhasználati díjtartozása áll fenn;
 
-f) az erdőnek minősülő föld haszonbérbe adásához az erdészeti hatóság nem járul hozzá.
+f) az erdőnek minősülő föld haszonbérbe adása esetén a szerződés nem felel meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételeknek.
 
 (2) Az (1) bekezdésben foglaltakon túl, a mezőgazdasági igazgatási szerv megtagadhatja a haszonbérleti szerződés jóváhagyását, különösen, ha
 
