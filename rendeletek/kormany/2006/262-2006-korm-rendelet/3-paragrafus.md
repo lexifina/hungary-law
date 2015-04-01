@@ -1,6 +1,6 @@
-## 2. §[^4]
+## 2. §[^5]
 
-3. § (1)[^5] A bírság mértéke
+3. § (1)[^6] A bírság mértéke
 
 a) lovas szolgáltató tevékenységgel, idegenvezetői tevékenységgel, valamint tartós szálláshasználati szolgáltatási tevékenységgel kapcsolatos eljárásban ötezer forinttól ötvenezer forintig,
 
@@ -14,11 +14,11 @@ d) kábítószer-prekurzorokkal kapcsolatos eljárásban százezer forinttól t�
 
 (2) A bírság egy eljárásban, ugyanazon kötelezettség ismételt megszegése, vagy más kötelezettségszegés esetén ismételten is kiszabható. Ugyanazon személy tekintetében – ismételt kiszabás esetén – a bírság felső határa a kétszeresére emelkedik.
 
-(3)[^6]
+(3)[^7]
 
-(4)[^7]
+(4)[^8]
 
-[^4]: A 2. §-t a 7/2013. (I. 18.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
-[^5]: A 3. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^6]: A 3. § (3) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
-[^7]: A 3. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 158. § (2) bekezdése iktatta be, hatályon kívül helyezte a 7/2013. (I. 18.) Korm. rendelet 12. § e) pontja.
+[^5]: A 2. §-t a 7/2013. (I. 18.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
+[^6]: A 3. § (1) bekezdése a 7/2013. (I. 18.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (3) bekezdését a 7/2013. (I. 18.) Korm. rendelet 12. § e) pontja hatályon kívül helyezte.
+[^8]: A 3. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 158. § (2) bekezdése iktatta be, hatályon kívül helyezte a 7/2013. (I. 18.) Korm. rendelet 12. § e) pontja.
