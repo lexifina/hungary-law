@@ -1,4 +1,4 @@
-46. § (1)[^76] Az elhunyt külföldre szállításához engedély szükséges. Az erre vonatkozó kérelmet a halál megállapításának helye szerint illetékes járási népegészségügyi intézethez kell benyújtani. A kérelemnek tartalmaznia kell a szállítandó halott nevét, anyja nevét, utolsó lakhelyét, a halál okának megnevezését, a halál napját, azoknak a helységeknek a megnevezését, ahonnan és ahová a szállítás történik, a szállító jármű, valamint a szállítás módjának megjelölését és a szállítmány kísérőjének megnevezését.
+46. § (1)[^76] Az elhunyt külföldre szállításához engedély szükséges. Az erre vonatkozó kérelmet a halál megállapításának helye szerint illetékes népegészségügyi feladatkörében eljáró járási hivatalhoz kell benyújtani. A kérelemnek tartalmaznia kell a szállítandó halott nevét, anyja nevét, utolsó lakhelyét, a halál okának megnevezését, a halál napját, azoknak a helységeknek a megnevezését, ahonnan és ahová a szállítás történik, a szállító jármű, valamint a szállítás módjának megjelölését és a szállítmány kísérőjének megnevezését.
 
 (2) A kérelemhez csatolni kell a halottvizsgálati bizonyítványt vagy a halotti anyakönyvi kivonatot.
 
@@ -6,8 +6,8 @@
 
 (4)[^77] Halottnak külföldről Magyarországra való szállításához az engedélyt a magyar konzuli tisztviselő adja ki. Az engedélyezésnél a belföldi helyközi halottszállításra vonatkozó rendelkezéseket is figyelembe kell venni azzal az eltéréssel, hogy a kettős koporsó használata minden esetben kötelező. A rendeltetési helyen – a temető fenntartója (üzemeltetője) értesítése alapján – az intézet a szállítmányt ellenőrzi, a halottszállítási engedélyt bevonja és megőrzi.
 
-(5)[^78] Ha a kérelmező a (2) bekezdésben meghatározott okiratokat nem csatolja, a járási népegészségügyi intézet az elhunyt külföldre szállításához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(5)[^78] Ha a kérelmező a (2) bekezdésben meghatározott okiratokat nem csatolja, a népegészségügyi feladatkörében eljáró járási hivatal az elhunyt külföldre szállításához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
 
-[^76]: A 46. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^76]: A 46. § (1) bekezdése a 379/2013. (X. 25.) Korm. rendelet 22. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 40. § f) pontja szerint módosított szöveg.
 [^77]: A 46. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 177. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^78]: A 46. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 176. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^78]: A 46. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 176. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 22. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.
