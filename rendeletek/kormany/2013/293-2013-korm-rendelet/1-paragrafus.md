@@ -16,7 +16,7 @@ b) másodfokú eljárásban szakhatóságként azt a hatóságot jelöli ki, ame
 
 (5) A Kormány a (2) bekezdés szerinti közigazgatási hatósági ügyben eljáró
 
-a) első fokú hatóságként általános építésügyi hatósági ügyekben a Bács-Kiskun Megyei Kormányhivatal Bajai Járási Hivatal Járási Építésügyi Hivatalát jelöli ki, az egyéb ügyekben azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint elsőfokú hatóságként jár el,
+a)[^1] első fokú hatóságként általános építésügyi hatósági ügyekben a Bács-Kiskun Megyei Kormányhivatal Bajai Járási Hivatalát jelöli ki, az egyéb ügyekben azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint elsőfokú hatóságként jár el,
 
 b) első fokú eljárásban szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú szakhatóságként jár el.
 
@@ -25,3 +25,5 @@ b) első fokú eljárásban szakhatóságként azt a hatóságot jelöli ki, ame
 a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként jár el,
 
 b) másodfokú eljárásban szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú szakhatóságként jár el.
+
+[^1]: Az 1. § (5) bekezdés a) pontja a 72/2015. (III. 30.) Korm. rendelet 55. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
