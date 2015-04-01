@@ -16,4 +16,6 @@
 
 (6) A dízelmotorokra és a papírrostot gyártó létesítményben működő regeneráló kazánokra az 1. és 2. mellékletben szereplő kibocsátási határértékeket nem kell alkalmazni.
 
-(7) Az évi 500 üzemóránál kevesebbet üzemelő, a villamosenergia-rendszer teljesítmény egyensúlyának biztosítása céljából, a villamosenergia-rendszer rendszerirányítója által szerződéssel lekötött, vészhelyzeti tartalék gázturbinákra és gázmotorokra az 1. melléklet 10. pontjában és a 2. melléklet 10. pontjában foglalt kibocsátási határértékek nem vonatkoznak. E bekezdés szerinti gázturbinák és gázmotorok üzemeltetését dokumentálni kell, és az üzemeltetés tényét és körülményeit a felügyelőségnek az üzemeltetés megkezdését követő 5 napon belül be kell jelenteni. Az üzemeltetőnek az éves üzemórákról nyilvántartást kell vezetni.
+(7)[^4] Az évi 500 üzemóránál kevesebbet üzemelő, a villamosenergia-rendszer teljesítmény egyensúlyának biztosítása céljából, a villamosenergia-rendszer rendszerirányítója által szerződéssel lekötött, vészhelyzeti tartalék gázturbinákra és gázmotorokra az 1. melléklet 10. pontjában és a 2. melléklet 10. pontjában foglalt kibocsátási határértékek nem vonatkoznak. E bekezdés szerinti gázturbinák és gázmotorok üzemeltetését dokumentálni kell, és az üzemeltetés tényét és körülményeit a környezetvédelmi hatóságnak az üzemeltetés megkezdését követő 5 napon belül be kell jelenteni. Az üzemeltetőnek az éves üzemórákról nyilvántartást kell vezetni.
+
+[^4]: A 6. § (7) bekezdése a 15/2015. (III. 31.) FM rendelet 34. § c) pontja szerint módosított szöveg.

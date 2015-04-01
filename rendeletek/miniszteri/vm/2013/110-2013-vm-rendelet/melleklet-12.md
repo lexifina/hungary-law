@@ -1,4 +1,4 @@
-12. melléklet a 110/2013. (XII. 4.) VM rendelethez
+12. melléklet a 110/2013. (XII. 4.) VM rendelethez[^35]
 
 ## Gázturbinák kibocsátási határértékei 2015. december 31-ig
 
@@ -62,4 +62,6 @@ képlettel kell kiszámítani, ahol η = a gázturbina hatásfoka, %-ban (a vona
 
 3.4. A kizárólag könnyű- vagy középpárlatból álló olajat felhasználó gázturbinák esetében a nitrogén-oxid kibocsátási határérték 120 mg/Nm3.
 
-3.5. Azon szekunder tartalék gázturbinák esetében, amelyeknek az éves összes üzemideje az 500 órát nem haladja meg, és amelyek üzemeltetésére csak abban az esetben kerülhet sor, ha a villamosenergia-rendszerben egy vagy több energetikai egység üzemzavar esetén üzemképtelenné válik, a nitrogén-oxidok kibocsátási koncentrációja nem haladhatja meg a 800 mg/Nm3 értéket. Ezen gázturbinák folyamatos üzemeltetése az üzembe helyezést követően addig tarthat, ameddig a korábban üzemképtelenné vált berendezés helyett másik energetikai egység üzembevételére sor kerül, de legfeljebb 24 óra időtartamig. A tartalék berendezés üzemeltetését dokumentálni kell, és az üzemeltetés tényét, körülményeit a felügyelőségnek 5 napon belül be kell jelenteni.
+3.5. Azon szekunder tartalék gázturbinák esetében, amelyeknek az éves összes üzemideje az 500 órát nem haladja meg, és amelyek üzemeltetésére csak abban az esetben kerülhet sor, ha a villamosenergia-rendszerben egy vagy több energetikai egység üzemzavar esetén üzemképtelenné válik, a nitrogén-oxidok kibocsátási koncentrációja nem haladhatja meg a 800 mg/Nm3 értéket. Ezen gázturbinák folyamatos üzemeltetése az üzembe helyezést követően addig tarthat, ameddig a korábban üzemképtelenné vált berendezés helyett másik energetikai egység üzembevételére sor kerül, de legfeljebb 24 óra időtartamig. A tartalék berendezés üzemeltetését dokumentálni kell, és az üzemeltetés tényét, körülményeit a környezetvédelmi hatóságnak 5 napon belül be kell jelenteni.
+
+[^35]: A 12. melléklet a 15/2015. (III. 31.) FM rendelet 34. § c) pontja szerint módosított szöveg.

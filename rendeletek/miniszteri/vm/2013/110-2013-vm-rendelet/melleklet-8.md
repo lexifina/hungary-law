@@ -1,4 +1,4 @@
-8. melléklet a 110/2013. (XII. 4.) VM rendelethez
+8. melléklet a 110/2013. (XII. 4.) VM rendelethez[^34]
 
 ## A folyamatos kibocsátásmérés eredményeinek értékelése
 
@@ -30,6 +30,8 @@ A 95%-os konfidencia-intervallum az a határértéknek megfelelő mértékegysé
 
 4. Minden olyan napra vonatkozó napi középértéket érvényteleníteni kell, amely a nap folyamán a mérőrendszer hibás működése, vagy annak karbantartása miatt háromnál több órás középértéket érvénytelenítettek.
 
-5. Ha egy naptári éven belül több mint 10 napot érvénytelenítenek a 4. pontban foglalt ok miatt, a felügyelőség kötelezi az üzemeltetőt, hogy tegyen megfelelő intézkedéseket a folyamatos mérőrendszer megbízhatóságának biztosítása érdekében.
+5. Ha egy naptári éven belül több mint 10 napot érvénytelenítenek a 4. pontban foglalt ok miatt, a környezetvédelmi hatóság kötelezi az üzemeltetőt, hogy tegyen megfelelő intézkedéseket a folyamatos mérőrendszer megbízhatóságának biztosítása érdekében.
 
 6. Az átlagos kibocsátási határértékek kiszámításakor nem kell figyelembe venni a 9. § (1) és (2) bekezdésében, valamint a 16. §-ban foglalt időszakok alatt, valamint az indítási és a leállítási időszakban végzett méréseket.
+
+[^34]: A 8. melléklet a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.

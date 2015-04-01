@@ -1,4 +1,4 @@
-13. melléklet a 110/2013. (XII. 4.) VM rendelethez
+13. melléklet a 110/2013. (XII. 4.) VM rendelethez[^36]
 
 ## A folyamatos kibocsátásmérés eredményeinek feldolgozása és értékelése az I., II. és III. kategóriájú tüzelőberendezések esetében 2015. december 31-ig
 
@@ -42,4 +42,6 @@ A 95%-os konfidencia-intervallum az a határértéknek megfelelő mértékegysé
 
 7. Minden olyan napra vonatkozó napi középértéket érvényteleníteni kell, amely a nap folyamán a mérőrendszer hibás működése vagy annak karbantartása miatt háromnál több órás középértéket érvénytelenítettek.
 
-8. Ha egy naptári éven belül több mint 10 napot érvénytelenítenek a 7. pontban foglalt ok miatt, a felügyelőség kötelezi az üzemeltetőt, hogy tegyen megfelelő intézkedéseket a folyamatos mérőrendszer megbízhatóságának biztosítása érdekében.
+8. Ha egy naptári éven belül több mint 10 napot érvénytelenítenek a 7. pontban foglalt ok miatt, a környezetvédelmi hatóság kötelezi az üzemeltetőt, hogy tegyen megfelelő intézkedéseket a folyamatos mérőrendszer megbízhatóságának biztosítása érdekében.
+
+[^36]: A 13. melléklet a 15/2015. (III. 31.) FM rendelet 34. § b) pontja szerint módosított szöveg.
