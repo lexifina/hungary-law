@@ -1,8 +1,8 @@
-## A költségmegosztók alkalmazásának és a költségek megosztásának általános szabályai[^26]
+## A költségmegosztók alkalmazásának és a költségek megosztásának általános szabályai[^32]
 
 ## [a Tszt. 44. § (1) bekezdéséhez]
 
-17/A. §[^27] E rendelet 17/B–17/H. §-ának alkalmazásában:
+17/A. §[^33] E rendelet 17/B–17/H. §-ának alkalmazásában:
 
 1. elszámolási időszak: azon legfeljebb 12 hónap hosszúságú időszak, amelyre vonatkozóan a felhasználási helyen igénybe vett fűtési hőmennyiség és ennek díja az épületrészek között megosztásra kerül;
 
@@ -28,5 +28,5 @@ c) fűtési költségmegosztás céljára alkalmazott hőfogyasztásmérő, ha t
 
 9. megbízott: az a gazdálkodó szervezet, amely a tulajdonosi közösséggel kötött megbízási szerződés alapján felszereli, működteti, karbantartja a költségmegosztókat, elvégzi a költségmegosztók időszakos ellenőrzését, leolvassa, kiértékeli a költségmegosztók adatait és kiszámítja a fűtési díjmegosztási arányokat, valamint a melegvíz- díjmegosztási arányokat.
 
-[^26]: A Vhr. 17/A. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
-[^27]: A Vhr. 17/A. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^32]: A Vhr. 17/A. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^33]: A Vhr. 17/A. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.

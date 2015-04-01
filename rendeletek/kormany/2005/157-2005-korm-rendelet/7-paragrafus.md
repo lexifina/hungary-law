@@ -1,6 +1,6 @@
 7. § (1) A távhőszolgáltatói működési engedély iránti kérelemnek tartalmaznia kell:
 
-a)[^11] ha a kérelmező cégjegyzékben nyilvántartott cég, a kérelmező nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
+a)[^13] ha a kérelmező cégjegyzékben nyilvántartott cég, a kérelmező nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
 
 b) a távhővel ellátandó terület adatait, a közigazgatási határok megjelölésével,
 
@@ -8,9 +8,9 @@ c) a területi egységek (kirendeltségek, felhasználói irodák stb.) megnevez
 
 d) a szolgáltatandó távhő termelőjének megnevezését és telephelyét.
 
-(2)[^12] A távhőszolgáltatói működési engedély iránti kérelemhez – a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
+(2)[^14] A távhőszolgáltatói működési engedély iránti kérelemhez – a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
 
-a)[^13]
+a)[^15]
 
 b) a távhővel ellátandó terület körülírását,
 
@@ -26,7 +26,7 @@ g) jogszabály szerint szükséges egyéb engedélyek felsorolását.
 
 (3) A távhőszolgáltatói működési engedélynek tartalmaznia kell:
 
-a)[^14]
+a)[^16]
 
 b) a területi egységek megnevezését és telephelyét,
 
@@ -40,15 +40,15 @@ f) a szükséges környezet- és természetvédelmi előírásokat,
 
 g) a felhasználói korlátozási sorrend készítésére vonatkozó követelményt,
 
-h)[^15]
+h)[^17]
 
 i) egyéb – jogszabályban meghatározott – követelményeket.
 
-(4)[^16] Ha a kérelmező cégjegyzékben nyilvántartott cég, annak cégkivonatát a Hivatal a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(4)[^18] Ha a kérelmező cégjegyzékben nyilvántartott cég, annak cégkivonatát a Hivatal a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-[^11]: A Vhr. 7. § (1) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte, újonnan a 355/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^12]: A Vhr. 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 414. § szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^13]: A Vhr. 7. § (2) bekezdés a) pontját a 355/2012. (XII. 13.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
-[^14]: A Vhr. 7. § (3) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: A Vhr. 7. § (3) bekezdés h) pontját a 104/2011. (VI. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^16]: A Vhr. 7. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 413. § (2) bekezdése iktatta be, szövege a 355/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
+[^13]: A Vhr. 7. § (1) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte, újonnan a 355/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^14]: A Vhr. 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 414. § szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A Vhr. 7. § (2) bekezdés a) pontját a 355/2012. (XII. 13.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
+[^16]: A Vhr. 7. § (3) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A Vhr. 7. § (3) bekezdés h) pontját a 104/2011. (VI. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^18]: A Vhr. 7. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 413. § (2) bekezdése iktatta be, szövege a 355/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
