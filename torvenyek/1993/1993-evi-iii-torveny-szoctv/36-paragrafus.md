@@ -14,9 +14,9 @@ a) aki az állami foglalkoztatási szervvel való együttműködés keretében s
 
 b) akit az állami foglalkoztatási szerv – neki felróható okból – törölt az álláskeresők nyilvántartásából;
 
-c) aki az állami foglalkoztatási szervnél az aktív korúak ellátásának megállapításáról szóló határozatban foglalt határidőig nem kérelmezi az álláskeresőként történő nyilvántartásba vételét;
+c) aki az állami foglalkoztatási szervnél az aktív korúak ellátásának megállapításáról szóló határozatban foglalt határidőig nem kérelmezi az álláskeresőként történő nyilvántartásba vételét; vagy
 
-d) aki a 33. § (7) bekezdés szerinti feltételeknek – a felszólítás ellenére – nem tesz eleget; vagy
+d)
 
 e) aki a foglalkoztatást helyettesítő támogatásra való jogosultságának a 25. § (4) bekezdés b) pontja szerinti éves felülvizsgálata során, a felülvizsgálat időpontját megelőző egy évben a foglalkoztatást helyettesítő támogatásra való jogosultságának fennállása alatt legalább 30 nap időtartamban
 

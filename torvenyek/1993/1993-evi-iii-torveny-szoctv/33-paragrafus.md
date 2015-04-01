@@ -20,6 +20,8 @@ feltéve, hogy saját maga és családjának megélhetése más módon nem bizto
 
 (1a) Az aktív korúak ellátása tekintetében – ha e törvény eltérően nem rendelkezik – nem minősül keresőtevékenységnek, ha a kérelmező, illetve a jogosult közfoglalkoztatásban, egyszerűsített foglalkoztatásban vesz részt vagy háztartási munkát végez.
 
+(1b) Az (1) bekezdés a) pontja szerinti esetben az egészségkárosodott személy egészségkárosodásának mértékét, az egészségkárosodás felülvizsgálatának szükségességét, valamint a felülvizsgálat szükségessége esetén annak időpontját az eljáró hatóság szakkérdésként megvizsgálja.
+
 (2) Az (1) bekezdés alkalmazásában akkor nem biztosított a megélhetés, ha a családnak az egy fogyasztási egységre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének 90%-át és vagyona nincs. Az aktív korúak ellátása tekintetében fogyasztási egység a családtagoknak a családon belüli fogyasztási szerkezetet kifejező arányszáma, ahol
 
 a) az első nagykorú családtag arányszáma 1,0, azzal, hogy a gyermekét egyedülállóként nevelő szülő arányszáma 0,2-vel növekszik,
@@ -52,4 +54,4 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 (6) Egy családban egyidejűleg két személy abban az esetben jogosult az aktív korúak ellátására, ha az egyik személy a foglalkoztatást helyettesítő támogatás, míg a másik személy az egészségkárosodási és gyermekfelügyeleti támogatás feltételeinek felel meg.
 
-(7) A települési önkormányzat rendeletében az aktív korúak ellátására való jogosultság egyéb feltételeként előírhatja, hogy a kérelem benyújtója, illetve az ellátás jogosultja a lakókörnyezete rendezettségének biztosítására vonatkozó, a rendeletében megállapított feltételeket teljesítse. A lakókörnyezet rendezettségének biztosítása körében a kérelmező vagy jogosult által életvitelszerűen lakott lakás vagy ház és annak udvara, kertje, a kerítéssel kívül határos terület, járda tisztán tartása, az ingatlan állagának és rendeltetésszerű használhatóságának, valamint higiénikus állapotának biztosítására irányuló kötelezettség írható elő. A rendeletben megállapított feltételek teljesítésére a kérelmezőt, illetve a jogosultat megfelelő, de legalább ötnapos határidő tűzésével a járási hivatalnak – az elvégzendő tevékenységek konkrét megjelölésével – fel kell szólítania.
+(7)

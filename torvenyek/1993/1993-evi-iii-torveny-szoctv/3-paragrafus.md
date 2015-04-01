@@ -50,7 +50,7 @@ e) a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a tovább
 
 f) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.),
 
-g) a rendszeres gyermekvédelmi kedvezményre jogosultakról a 18/B. § alapján vezetett országos nyilvántartás vezetésével összefüggő rendelkezések kivételével a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), és
+g) a 18/B. § alapján vezetett országos nyilvántartás vezetésével összefüggő rendelkezések kivételével a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.), és
 
 h) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény
 

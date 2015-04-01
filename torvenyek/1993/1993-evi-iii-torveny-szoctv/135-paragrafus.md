@@ -1,1 +1,1 @@
-135. §
+135. § E törvénynek a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes törvények módosításáról szóló 2015. évi VIII. törvénnyel megállapított 45. § (2a) bekezdését a 2015. február 28-án hatályos 43/B. § alapján 2015. március 1-jét megelőző kezdő időponttal megállapított és 2015. március 1-jétől települési támogatásként nyújtott méltányossági ápolási díjra is alkalmazni kell.

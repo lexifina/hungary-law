@@ -12,6 +12,8 @@ d) a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek r�
 
 (2) Más jogszabály alkalmazásában az (1) bekezdés a) pontja szerinti célra nyújtott települési támogatást lakásfenntartási támogatásnak kell tekinteni.
 
+(2a) A 18. életévét betöltött tartósan beteg hozzátartozójának ápolását, gondozását végző személy részére megállapított települési támogatás a társadalombiztosítási tárgyú jogszabályok alkalmazásában ápolási díjnak minősül, ha az ellátás önkormányzati rendeletben szabályozott havi összege eléri az ápolási díj központi költségvetésről szóló törvényben meghatározott alapösszegének a 80%-át.
+
 (3) A képviselő-testület a létfenntartást veszélyeztető rendkívüli élethelyzetbe került, valamint az időszakosan vagy tartósan létfenntartási gonddal küzdő személyek részére rendkívüli települési támogatást köteles nyújtani.
 
 (4) Rendkívüli települési támogatásban elsősorban azokat a személyeket indokolt részesíteni, akik önmaguk, illetve családjuk létfenntartásáról más módon nem tudnak gondoskodni vagy alkalmanként jelentkező többletkiadások – így különösen betegséghez, halálesethez, elemi kár elhárításához, a válsághelyzetben lévő várandós anya gyermekének megtartásához, iskoláztatáshoz, a gyermek fogadásának előkészítéséhez, a nevelésbe vett gyermek családjával való kapcsolattartásához, a gyermek családba való visszakerülésének elősegítéséhez kapcsolódó kiadások – vagy a gyermek hátrányos helyzete miatt anyagi segítségre szorulnak.

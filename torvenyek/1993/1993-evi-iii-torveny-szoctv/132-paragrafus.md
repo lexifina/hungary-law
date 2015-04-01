@@ -94,7 +94,7 @@ b)
 
 (4) Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza
 
-a) az aktív korúak ellátására jogosult személyek részére a lakókörnyezet rendezettségének biztosítása körében előírt részletes szabályokat,
+a)
 
 b)–c)
 
