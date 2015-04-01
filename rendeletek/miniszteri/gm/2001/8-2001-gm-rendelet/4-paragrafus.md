@@ -1,4 +1,4 @@
-## 3. §[^2] A Szabályzatban foglalt műszaki-biztonsági rendelkezések felügyeletét első fokon a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága (a továbbiakban: Hatóság), másodfokon a Magyar Kereskedelmi Engedélyezési Hivatal központi szerve látja el.
+## 3. §[^2] A Szabályzatban foglalt műszaki-biztonsági rendelkezések felügyeletét első fokon a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: Hatóság), másodfokon a Magyar Kereskedelmi Engedélyezési Hivatal központi szerve látja el.
 
 ## 4. §[^3] A Hatóság ellenőrzési hatásköre kiterjed:
 
@@ -10,5 +10,5 @@ c) a jogszabályokban és szabályzatokban előírt műszaki-biztonsági felülv
 
 d) a villamosmű üzemi személyzetére vonatkozó képzési és feljogosítási előírások betartásának ellenőrzésére.
 
-[^2]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 28. § (1) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 25. §-a szerint módosított szöveg.
 [^3]: A 4. § nyitó szövegrésze a 27/2010. (XII. 31.) NGM rendelet 28. § (2) bekezdése szerint módosított szöveg.
