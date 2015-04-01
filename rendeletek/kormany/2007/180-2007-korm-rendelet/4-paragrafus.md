@@ -18,11 +18,11 @@ b) helyszíni vagy laboratóriumi vizsgálat érdekében felnyittathatja,
 
 c) további intézkedés megtétele érdekében feltartóztathatja.
 
-(4) A Főfelügyelőség a (2) és (3) bekezdésben foglaltak ellátásához igénybe veheti a felügyelőségek közreműködését is.
+(4)[^15] A Főfelügyelőség a (2) és (3) bekezdésben foglaltak ellátásához igénybe veheti a környezetvédelmi hatóságok közreműködését is.
 
-(5)[^15] A Főfelügyelőség a (3) bekezdésben foglalt intézkedéséről haladéktalanul értesíti a veszélyes hulladék szállítása esetén a hivatásos katasztrófavédelmi szerv központi szervét.
+(5)[^16] A Főfelügyelőség a (3) bekezdésben foglalt intézkedéséről haladéktalanul értesíti a veszélyes hulladék szállítása esetén a hivatásos katasztrófavédelmi szerv központi szervét.
 
-(6)[^16] A Főfelügyelőségnek – a NAV Központi Hivatalának bevonásával – az illegális szállítások megelőzésének és felderítésének megkönnyítése érdekében rendszeresen együtt kell működnie a szomszédos országok illetékes hatóságaival, közös ellenőrzések szervezésével is.
+(6)[^17] A Főfelügyelőségnek – a NAV Központi Hivatalának bevonásával – az illegális szállítások megelőzésének és felderítésének megkönnyítése érdekében rendszeresen együtt kell működnie a szomszédos országok illetékes hatóságaival, közös ellenőrzések szervezésével is.
 
 (7) A vámhatóság önállóan is jogosult a hulladékszállítmányok ellenőrzésére. E célból az ország területén a szállítmányokat megállíthatja, és a jogellenes hulladékszállítás gyanúja esetén a Főfelügyelőség egyidejű értesítése mellett a szállítmányt a Főfelügyelőség intézkedéséig visszatartja.
 
@@ -32,5 +32,6 @@ c) további intézkedés megtétele érdekében feltartóztathatja.
 [^12]: A 4. § (1) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (2) bekezdése szerint módosított szöveg.
 [^13]: A 4. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^14]: A 4. § (3) bekezdés nyitó szövegrésze a 441/2012. (XII. 29.) Korm. rendelet 12. § (3) bekezdése szerint módosított szöveg.
-[^15]: A 4. § (5) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 5. § (4) bekezdése szerint módosított szöveg.
-[^16]: A 4. § (6) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (3) bekezdésével megállapított szöveg.
+[^15]: A 4. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 102. § c) pontja szerint módosított szöveg.
+[^16]: A 4. § (5) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 5. § (4) bekezdése szerint módosított szöveg.
+[^17]: A 4. § (6) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (3) bekezdésével megállapított szöveg.
