@@ -106,9 +106,13 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 
 21.[^14] igénylő: olyan támogatott személy, aki otthonteremtési kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban az otthonteremtési kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor;
 
-22.[^15] lakás: az OTÉK rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel.
+22.[^15] lakás: az OTÉK rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
-(2)[^16] Az e rendeletben meg nem határozott fogalmakat a Ptk.-ban, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és az országos településrendezési és az építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
+23.[^16] kormányhivatal: amennyiben e rendelet eltérően nem rendelkezik, a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes megyei kormányhivatal, Pest megye vagy a főváros területén fekvő támogatott ingatlan esetén Budapest Főváros Kormányhivatala.
+
+24.[^17] összkomfortos lakás: a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 91/A. § 2. pontjában meghatározott lakás.
+
+(2)[^18] Az e rendeletben meg nem határozott fogalmakat a Ptk.-ban, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben és az országos településrendezési és az építési követelményekről szóló kormányrendeletben meghatározottak szerint kell értelmezni.
 
 [^2]: Az 1. § (1) bekezdés 2–3. pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (1) bekezdés 5. pontja a 128/2013. (IV. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
@@ -124,4 +128,6 @@ bb) amelyet másodízben értékesítenek természetes személy részére, felt�
 [^13]: Az 1. § (1) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
 [^14]: Az 1. § (1) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
 [^15]: Az 1. § (1) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 34. §-a iktatta be.
-[^16]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 74. § c) pontja szerint módosított szöveg.
+[^16]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be.
+[^17]: Az 1. § (1) bekezdés 24. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be.
+[^18]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 74. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 2. [^17] Az otthonteremtési kamattámogatás igénylésének feltételei
+## 2. [^19] Az otthonteremtési kamattámogatás igénylésének feltételei
 
 2. § (1) Az e rendeletben meghatározott feltételekkel a központi költségvetésből otthonteremtési kamattámogatást igényelhet:
 
@@ -14,7 +14,7 @@ e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglalt
 
 (2) Az otthonteremtési kamattámogatás a támogatott személy által egy alkalommal vehető igénybe.
 
-(3)[^18] Nem támogatott személy hiteladós az otthonteremtési kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
+(3)[^20] Nem támogatott személy hiteladós az otthonteremtési kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
 
 a) nyilatkozik arról, hogy otthonteremtési kamattámogatással érintett kölcsönt e rendelet hatálybalépése óta nem vett igénybe és
 
@@ -26,5 +26,5 @@ bb) nem támogatott személy hiteladósként további otthonteremtési kamattám
 
 bc) az otthonteremtési kamattámogatásos kölcsönnel érintett lakásban lakóhelyet nem létesít.
 
-[^17]: A 2. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
-[^18]: A 2. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 69. §-a iktatta be.
+[^19]: A 2. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
+[^20]: A 2. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 69. §-a iktatta be.

@@ -22,26 +22,26 @@ j) az oltalmazott jogállást az azt tanúsító személyazonosító igazolvánn
 
 k) a hontalan jogállást a hontalankénti elismerésről szóló határozattal, vagy a jogállást igazoló hatósági igazolással,
 
-l)[^95] az 5. § (1) bekezdés b) pontja szerinti feltétel teljesülését a jogerős építési engedély és a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatásával,
+l)[^101] az 5. § (1) bekezdés b) pontja szerinti feltétel teljesülését a jogerős építési engedély és a jogerős használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatásával,
 
-m)[^96] a 4. § (1) bekezdés f) pont fa) alpontjában foglaltakat a megyei kormányhivatalok egészségbiztosítási szakigazgatási szervének – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 4. § (1) bekezdés f) pont fb) alpontja második fordulatában foglaltakat nemleges együttes adóigazolással,
+m)[^102] a 4. § (1) bekezdés f) pont fa) alpontjában foglaltakat az illetékes egészségbiztosítási pénztári feladatokat ellátó fővárosi és megyei kormányhivatalnak – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 4. § (1) bekezdés f) pont fb) alpontja második fordulatában foglaltakat nemleges együttes adóigazolással,
 
-n)[^97] a 4. § (1) bekezdés h) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatáva,
+n)[^103] a 4. § (1) bekezdés h) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatáva,
 
-o)[^98] a saját és gyermeke adóazonosító jelét adóigazolvánnyal,
+o)[^104] a saját és gyermeke adóazonosító jelét adóigazolvánnyal,
 
-p)[^99] több lakásból álló, osztatlan közös tulajdon esetén, amennyiben az ingatlan-nyilvántartásból az otthonteremtési kamattámogatással érintett lakásra vonatkozóan a támogatott személy tulajdonszerzésének mértéke nem állapítható meg, közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt használati megosztási megállapodással,
+p)[^105] több lakásból álló, osztatlan közös tulajdon esetén, amennyiben az ingatlan-nyilvántartásból az otthonteremtési kamattámogatással érintett lakásra vonatkozóan a támogatott személy tulajdonszerzésének mértéke nem állapítható meg, közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt használati megosztási megállapodással,
 
-q)[^100] annak tényét, hogy a 4. § (1d) bekezdése szerinti saját jogú öregségi vagy özvegyi nyugdíjas, a nyugellátás megállapításáról szóló határozattal.
+q)[^106] annak tényét, hogy a 4. § (1d) bekezdése szerinti saját jogú öregségi vagy özvegyi nyugdíjas, a nyugellátás megállapításáról szóló határozattal.
 
 (2) Házaspárok esetében, ha a házastársak egyike magyar állampolgár az (1) bekezdés f)–k) pontjában foglaltak igazolására nincs szükség.
 
-(3)[^101] Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott az otthonteremtési kamattámogatáshoz, akkor a folyósított összeget az igénybevétel napjától, a Ptk. szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni.
+(3)[^107] Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott az otthonteremtési kamattámogatáshoz, akkor a folyósított összeget az igénybevétel napjától, a Ptk. szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni.
 
-[^95]: A 14. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 128/2013. (IV. 30.) Korm. rendelet 21. § j) pontja szerint módosított szöveg.
-[^96]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
-[^97]: A 14. § (1) bekezdés n) pontját a 379/2012. (XII. 19.) Korm. rendelet 39. § (2) bekezdése iktatta be.
-[^98]: A 14. § (1) bekezdés o) pontját az 537/2013. (XII. 30.) Korm. rendelet 73. §-a iktatta be.
-[^99]: A 14. § (1) bekezdés p) pontját a 331/2014. (XII. 18.) Korm. rendelet 41. §-a iktatta be.
-[^100]: A 14. § (1) bekezdés q) pontját a 331/2014. (XII. 18.) Korm. rendelet 41. §-a iktatta be.
-[^101]: A 14. § (3) bekezdése a 80/2014. (III. 14.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^101]: A 14. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 128/2013. (IV. 30.) Korm. rendelet 21. § j) pontja szerint módosított szöveg.
+[^102]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 43. § l) pontja, a 70/2015. (III. 30.) Korm. rendelet 187. § (8) bekezdés k) pontja szerint módosított szöveg.
+[^103]: A 14. § (1) bekezdés n) pontját a 379/2012. (XII. 19.) Korm. rendelet 39. § (2) bekezdése iktatta be.
+[^104]: A 14. § (1) bekezdés o) pontját az 537/2013. (XII. 30.) Korm. rendelet 73. §-a iktatta be.
+[^105]: A 14. § (1) bekezdés p) pontját a 331/2014. (XII. 18.) Korm. rendelet 41. §-a iktatta be.
+[^106]: A 14. § (1) bekezdés q) pontját a 331/2014. (XII. 18.) Korm. rendelet 41. §-a iktatta be.
+[^107]: A 14. § (3) bekezdése a 80/2014. (III. 14.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
