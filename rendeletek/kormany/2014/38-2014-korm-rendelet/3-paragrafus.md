@@ -6,14 +6,16 @@
 
 (2) Az adatlap a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 100. § (3) bekezdésében meghatározott adatokon túl tartalmazza
 
-a) a fővárosi és megyei kormányhivatal járási hivatalának eljáró járási földhivatala (a továbbiakban: földhivatal) megnevezését,
+a)[^3] a mezőgazdasági igazgatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) megnevezését,
 
 b) a nyilvántartásba történő bejegyzés és a nyilvántartásból való törlés iránti kérelem iktatásának időpontját, valamint a nyilvántartásba történő bejegyzésről, a nyilvántartásból való törlésről szóló döntés számát és meghozatalának időpontját,
 
 c) a nyilvántartásban szereplő egyes adatok módosítása (ide értve a kiegészítést, kijavítást is) átvezetése iránti bejelentés iktatásának időpontját, és a nyilvántartásban végzett módosításról szóló döntés számát és meghozatalának időpontját.
 
-(3) Az újonnan alapított mezőgazdasági termelőszervezet esetében az adatlap nem tartalmazza a mezőgazdasági üzemközpontra vonatkozó adatokat, ha a szervezet az újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében a mezőgazdasági üzemközpont hiányát tünteti fel, de a kérelmében nyilatkozik arról, hogy Földforgalmi tv. 42. § (5) bekezdésében meghatározott, a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét az ott meghatározott időn belül teljesíti, és a mezőgazdasági üzemközpont adatait e rendeletben meghatározottak szerint bejelenti a földhivatalhoz.
+(3)[^4] Az újonnan alapított mezőgazdasági termelőszervezet esetében az adatlap nem tartalmazza a mezőgazdasági üzemközpontra vonatkozó adatokat, ha a szervezet az újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében a mezőgazdasági üzemközpont hiányát tünteti fel, de a kérelmében nyilatkozik arról, hogy Földforgalmi tv. 42. § (5) bekezdésében meghatározott, a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét az ott meghatározott időn belül teljesíti, és a mezőgazdasági üzemközpont adatait e rendeletben meghatározottak szerint bejelenti a járási hivatalhoz.
 
 (4) Ha a nyilvántartásba vételi kérelemben a természetes személy, illetve a szervezet azt jelöli meg, hogy a mezőgazdasági üzemközpontja azonos a lakóhelyével, illetve a székhelyével, vagy telephelyével, akkor ezen ingatlanok adatait kell mezőgazdasági üzemközpontként nyilvántartásba venni. E rendelkezést nem lehet alkalmazni a (3) bekezdésben meghatározott esetben.
 
 [^2]: A 2/A. §-t a 121/2014. (IV. 8.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^3]: A 3. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 244. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 244. § b) pontja szerint módosított szöveg.
