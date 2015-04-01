@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-80-20-2
 | 2013-01-01 | 2009-80-20-22.7 | 234/2010. (VIII. 31.) Korm. rendelet |
 | 2014-01-01 | 2009-80-20-22.8 | 234/2010. (VIII. 31.) Korm. rendelet |
 | 2014-09-13 | 2009-80-20-22.9 | 229/2014. (IX. 5.) Korm. rendelet |
+| 2015-04-01 | 2009-80-20-22.10 | 72/2015. (III. 30.) Korm. rendelet |
