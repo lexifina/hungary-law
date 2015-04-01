@@ -4,73 +4,71 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Kiemelt beruházásként gumiabroncs üzem és annak építményei | Rácalmás város területén fekvő, az ingatlan-nyilvántartás szerinti 053/9 helyrajzi számú földrészlet, illetve az ebből a földrészletből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | általános építésügyi hatósági eljárások | Dunaújvárosi Járási Hivatal Járási Építésügyi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Kiemelt beruházásként gumiabroncs üzem és annak építményei | Rácalmás város területén fekvő, az ingatlan-nyilvántartás szerinti 053/9 helyrajzi számú földrészlet, illetve az ebből a földrészletből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | általános építésügyi hatósági eljárások | Dunaújvárosi Járási Hivatal | Fejér Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Székesfehérvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet vonatkozásában: Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Székesfehérvári Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 4. | további régészeti feladatellátás meghatározása | Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala | nincs |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 5. | környezetvédelmi hatósági engedélyezési eljárás | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 6. | természetvédelmi hatósági engedélyezési eljárás | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 6. | útügyi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 7. | útügyi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
+| 7. | vízjogi engedélyezési eljárás | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 8. | vízjogi engedélyezési eljárás | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 8. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Fejér Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 9. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárás | Fejér Megyei Kormányhivatal Székesfehérvári Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 9. | ingatlan-nyilvántartási hatósági eljárás | Dunaújvárosi Járási Hivatal | Fejér Megyei Kormányhivatal |
 
-| 10. | ingatlan-nyilvántartási hatósági eljárás | Dunaújvárosi Járási Hivatal Járási Földhivatala | Fejér Megyei Kormányhivatal Földhivatala |
+| 10. | telekalakítási hatósági eljárás | Dunaújvárosi Járási Hivatal | Fejér Megyei Kormányhivatal |
 
-| 11. | telekalakítási hatósági eljárás | Dunaújvárosi Járási Hivatal Járási Földhivatala | Fejér Megyei Kormányhivatal Földhivatala |
+| 11. | földmérési hatósági eljárás | Dunaújvárosi Járási Hivatal | Fejér Megyei Kormányhivatal |
 
-| 12. | földmérési hatósági eljárás | Dunaújvárosi Járási Hivatal Járási Földhivatala | Fejér Megyei Kormányhivatal Földhivatala |
+| 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. |  |  | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 14. | bányahatósági engedélyezési eljárás | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 15. | bányahatósági engedélyezési eljárás | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 15. | talajvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 16. | talajvédelmi hatósági engedélyezési eljárás | Fejér Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 16. | élelmiszerlánc-felügyeleti eljárás | Dunaújvárosi Járási Hivatal | Fejér Megyei Kormányhivatal |
 
-| 17. | élelmiszerlánc-felügyeleti eljárás | Dunaújvárosi Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal | Fejér Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága |
+| 17. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 18. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
+| 18. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 19. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 20. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 20. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-| 21. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
+| 21. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-| 22. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
+2. melléklet az 526/2013. (XII. 30.) Korm. rendelethez[^6]
 
-2. melléklet az 526/2013. (XII. 30.) Korm. rendelethez[^4]
-
-Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű ügyekben közreműködő szakhatóságok
+A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
 |  | A | B | C |
 
 | 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
 
-| 2. | építésügy | Dunaújvárosi Járási Hivatal Járási Építésügyi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | építésügy | Dunaújvárosi Járási Hivatal | Fejér Megyei Kormányhivatal |
 
-| 3. | műemlékvédelem és régészet | Székesfehérvári Járási Hivatal Járási Építésügyi és Örökségvédelmi Hivatala | Fejér Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, régészet vonatkozásában: Budapest Főváros Kormányhivatalának Építésügyi és Örökségvédelmi Hivatala |
+| 3. | műemlékvédelem és régészet | Székesfehérvári Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelem és természetvédelem | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelem és természetvédelem | Fejér Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 5. | vízügy | Közép-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 5. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | közúti közlekedés | Fejér Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
+| 6. | közúti közlekedés | Fejér Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 7. | vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
+| 7. | vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 8. | légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központ |
+| 8. | légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 9. | földtan | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 9. | földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 10. | bányászat | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 10. | bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
 | 11. | rendészet | Fejér Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -80,16 +78,16 @@ Az 1. melléklet szerinti nemzetgazdasági szempontból kiemelt jelentőségű �
 
 | 14. | katasztrófavédelem | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-| 15. | talajvédelem | Fejér Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 15. | talajvédelem | Fejér Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 16. | erdővédelem | Pest Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 16. | erdővédelem | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 17. | élelmiszerlánc-biztonság | Dunaújvárosi Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatal | Fejér Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága |
+| 17. | élelmiszerlánc-biztonság | Dunaújvárosi Járási Hivatal | Fejér Megyei Kormányhivatal |
 
-| 18. | egészségügy | Dunaújvárosi Járási Népegészségügyi Intézet | Fejér Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
+| 18. | egészségügy | Dunaújvárosi Járási Hivatal | Fejér Megyei Kormányhivatal |
 
 | 19. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 20. | műszaki biztonság | Fejér Megyei Kormányhivatal Székesfehérvári Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 20. | műszaki biztonság | Fejér Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^4]: A 2. melléklet a 176/2014. (VII. 18.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 69. § (2) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.

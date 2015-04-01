@@ -2,4 +2,6 @@
 
 (2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés – a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet szerinti előzetes vizsgálati eljárást lezáró határozat, a környezetvédelmi engedély és az egységes környezethasználati engedély tárgyában hozott döntés kivételével – fellebbezésre tekintet nélkül végrehajtható.
 
-(3) Az eljáró hatóság az általa meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő 5. nap.
+(3)[^2]
+
+[^2]: A 2. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 69. § (3) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 114. §-át.
