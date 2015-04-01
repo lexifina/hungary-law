@@ -1,5 +1,8 @@
 4. § (1) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(2) Az eljáró hatóság az általa meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő 6. nap.
+(2)[^1] Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének napja a hirdetmény kifüggesztését követő hatodik nap.
 
-(3) Ha a (2) bekezdés szerint hirdetményi közlésnek van helye, és a döntés az ügyfél számára kötelezettséget állapít meg, vagy alapvető jogát vonja el vagy korlátozza, a hatóság az ismert ügyfelet a döntés szövegéről – hirdetmény kifüggesztésével egyidejűleg – az ügyfél tekintetében az adott ügyfajtára vonatkozó külön jogszabály szerint alkalmazható kapcsolattartási forma használatával tájékoztatja. A közlés jogkövetkezményei ilyen esetben is a hirdetményi úton történő közléshez kapcsolódóan állnak be.
+(3)[^2]
+
+[^1]: A 4. § (2) bekezdése a 72/2015. (III. 30.) Korm. rendelet 102. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^2]: A 4. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 102. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
