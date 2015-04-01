@@ -12,7 +12,7 @@ e) a körözési nyilvántartási rendszerből a nyilvántartásban szereplő va
 
 f) az európai vagy a nemzetközi elfogatóparancsot kibocsátó bíróságtól a 12. §-ban meghatározott adatok, illetve feltételezések, valamint a 14–15. §-ban meghatározott adatok,
 
-g) a bűnügyi nyilvántartási rendszerről szóló törvény szerinti bűntettesek nyilvántartásában, a büntetőeljárás hatálya alatt állók nyilvántartásában, a kényszerintézkedés hatálya alatt állók nyilvántartásában, a külföldre utazási korlátozás hatálya alatt álló személyek nyilvántartásában, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő valamennyi adat,
+g) a bűnügyi nyilvántartási rendszerről szóló törvény szerinti bűntettesek nyilvántartásában, a büntetőeljárás hatálya alatt állók nyilvántartásában, a külföldre utazási korlátozás hatálya alatt álló személyek nyilvántartásában, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő valamennyi adat,
 
 h) a büntetés-végrehajtási szervezetről szóló törvény szerinti fogvatartotti nyilvántartásban szereplő adatok közül a fogvatartott személyazonosító adatai, fényképe és lakcíme, a fogva tartás jogalapja, helye, a szabadulással összefüggő adatok,
 
