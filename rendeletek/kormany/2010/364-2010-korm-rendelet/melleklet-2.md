@@ -8,7 +8,7 @@
 
 | 2. | Vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági ellenőrzés szolgáltatási díja/vény | 40 Ft | 20 Ft | 10 Ft | 0 Ft |
 
-2. melléklet a 364/2010. (XII. 30.) Korm. rendelethez[^8]
+2. melléklet a 364/2010. (XII. 30.) Korm. rendelethez[^11]
 
 Gyógyszertárak részére juttatandó, magisztrális gyógyszerkészítéshez kapcsolódó
 
@@ -20,4 +20,4 @@ A gyógyszertárak részére juttatandó, magisztrális gyógyszerkészítéshez
 
 | 1. | Magisztrális gyógyszerbiztonsági ellenőrzés szolgáltatási díja/vény | 90 Ft |
 
-[^8]: A 2. mellékletet a 376/2012. (XII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 80. §-a, a 364/2014. (XII. 30.) Korm. rendelet 92. §-a szerint módosított szöveg.
+[^11]: A 2. mellékletet a 376/2012. (XII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 80. §-a, a 364/2014. (XII. 30.) Korm. rendelet 92. §-a szerint módosított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-364-20-
 | 2013-01-01 | 2010-364-20-22.3 | 376/2012. (XII. 19.) Korm. rendelet |
 | 2014-01-01 | 2010-364-20-22.4 | 376/2012. (XII. 19.) Korm. rendelet |
 | 2015-01-01 | 2010-364-20-22.5 | 376/2012. (XII. 19.) Korm. rendelet |
+| 2015-04-01 | 2010-364-20-22.6 | 70/2015. (III. 30.) Korm. rendelet |

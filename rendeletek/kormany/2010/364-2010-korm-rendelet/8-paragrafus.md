@@ -1,6 +1,6 @@
-## 7. § Amennyiben a vizsgált terápiás területen az orvos által társadalombiztosítási támogatással, normatív jogcímen felírt és a betegek által az adott naptári negyedévben kiváltott gyógyszerek egy napra eső támogatásának átlaga az adott naptári negyedévben nagyobb, mint a célérték, az egészségbiztosítási szerv tételes helyszíni ellenőrzést tarthat.
+## 7. §[^6] Amennyiben a vizsgált terápiás területen az orvos által társadalombiztosítási támogatással, normatív jogcímen felírt és a betegek által az adott naptári negyedévben kiváltott gyógyszerek egy napra eső támogatásának átlaga az adott naptári negyedévben nagyobb, mint a célérték, az OEP tételes helyszíni ellenőrzést tarthat.
 
-8. §[^4] (1) A közforgalmú gyógyszertárat működtető vállalkozás, valamint a közvetlen lakossági gyógyszerellátást végző intézeti gyógyszertár (a továbbiakban: gyógyszertár) a Gyftv. 44/A. §-ában foglaltak alapján az Egészségbiztosítási Alap 2. cím, 3. alcím, 4. jogcím-csoport 6. Gyógyszertárak juttatása jogcím előirányzata terhére a (2) bekezdésben meghatározott összegű juttatásra jogosult naptári negyedévente a (4) bekezdésben foglalt feltétel mellett.
+8. §[^7] (1) A közforgalmú gyógyszertárat működtető vállalkozás, valamint a közvetlen lakossági gyógyszerellátást végző intézeti gyógyszertár (a továbbiakban: gyógyszertár) a Gyftv. 44/A. §-ában foglaltak alapján az Egészségbiztosítási Alap 2. cím, 3. alcím, 4. jogcím-csoport 6. Gyógyszertárak juttatása jogcím előirányzata terhére a (2) bekezdésben meghatározott összegű juttatásra jogosult naptári negyedévente a (4) bekezdésben foglalt feltétel mellett.
 
 (2) Az (1) bekezdés alapján adható juttatás összege a tárgyév negyedik negyedévére és a tárgyévet követő év első három negyedévére vonatkozóan a tárgyévet követő évben rendelkezésre álló előirányzat 25-25%-a.
 
@@ -20,4 +20,5 @@ c) 70%-nál magasabb esetében 1,3.
 
 (7) Az (1) bekezdésben megjelölt gyógyszertárnak járó (2)–(3) bekezdés szerinti juttatást az OEP a tárgynegyedévet követő második hónap 20. napjáig utalja át.
 
-[^4]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 91. §-ával megállapított szöveg.
+[^6]: A 7. § a 70/2015. (III. 30.) Korm. rendelet 166. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 8. § a 325/2011. (XII. 28.) Korm. rendelet 91. §-ával megállapított szöveg.

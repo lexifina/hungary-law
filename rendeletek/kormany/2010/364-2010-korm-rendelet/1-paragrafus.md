@@ -8,4 +8,6 @@ c) a kormányrendelet szerint társadalombiztosítási támogatással történő
 
 d) gyógyszerárhoz nyújtott, támogatással történő gyógyszer kiszolgáltatásra jogosító szerződéssel rendelkező gyógyszertárakra, és
 
-e) az Országos Egészségbiztosítási Pénztár központi szervére (a továbbiakban: OEP) és a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szervére (a továbbiakban: egészségbiztosítási szerv).
+e)[^1] az Országos Egészségbiztosítási Pénztár központi szervére (a továbbiakban: OEP).
+
+[^1]: Az 1. § e) pontja a 70/2015. (III. 30.) Korm. rendelet 166. § (2) bekezdése szerint módosított szöveg.

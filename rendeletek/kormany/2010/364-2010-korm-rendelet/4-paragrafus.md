@@ -12,8 +12,8 @@ a) az adott ATC csoportban történő gyógyszerrendelés országos átlagát é
 
 b) az adott ATC csoport tekintetében irányadó irányelvekben és finanszírozási protokollokban lefektetett elveket, és
 
-c)[^3] az egészségügyi szakmai kollégium és az OEP véleményét.
+c)[^5] az egészségügyi szakmai kollégium és az OEP véleményét.
 
 (6) A miniszter ATC csoportonként minden naptári félév ötödik hónapjának első napjával megállapítja a következő naptári félévre érvényes, a terápiás gyógyszercsoportra jellemző, egy napi terápiára jutó elvárt társadalombiztosítási támogatást (célértéket) az orvosok által felírt és a betegek által kiváltott gyógyszerek és a preferált megoszlási mutató alapján.
 
-[^3]: A 4. § (5) bekezdés c) pontja a 325/2011. (XII. 28.) Korm. rendelet 89. §-ával megállapított szöveg.
+[^5]: A 4. § (5) bekezdés c) pontja a 325/2011. (XII. 28.) Korm. rendelet 89. §-ával megállapított szöveg.
