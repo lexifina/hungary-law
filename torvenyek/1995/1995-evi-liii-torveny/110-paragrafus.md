@@ -56,6 +56,8 @@
 
 21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait,
 
+21a. a hatósági eljárás során felmerülő, a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségeket;
+
 22. a környezetkárosodás megelőzésének és elhárításának rendjét,
 
 23. a zaj és rezgés elleni védelem szabályait;
@@ -82,7 +84,9 @@
 
 34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket;
 
-35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait.
+35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait;
+
+36. a szakértőként eljáró környezetvédelmi és természetvédelmi hatóság szakértői díját.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 

@@ -2,6 +2,8 @@
 
 92. § (1) Környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységet az végezhet, akinek tevékenységét a (2) bekezdésben meghatározott hatóság engedélyezte. Ha jogszabály környezetvédelmi, természetvédelmi és tájvédelmi szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez külön jogkövetkezményt állapít meg, szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki rendelkezik a (2) bekezdés szerinti engedéllyel.
 
+(1a) Az (1) bekezdésben foglalt rendelkezést nem kell alkalmazni, ha a környezetvédelmi, természetvédelmi és tájvédelmi szakkérdést a környezetvédelmi és természetvédelmi hatóság más hatóság eljárásában – jogszabály alapján – szakértőként vizsgálja.
+
 (2) Az (1) bekezdés szerinti szakértői tevékenység folytatására jogosító engedélyt
 
 a) természetvédelmi és tájvédelmi szakértői tevékenység esetében a környezetvédelmi hatóság,
