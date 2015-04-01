@@ -8,7 +8,7 @@
 
 (5)[^24] Az állatokat legfeljebb 12 óráig lehet a 3. számú mellékletben szereplő feltételek mellett utaztatni. Ezt követően az utazást legalább 24 órára meg kell szakítani, és az állatokat a 8. § szerinti feltételek között kell elhelyezni.
 
-(6)[^25] A kutya kivételével, a 3. számú mellékletben nem szereplő fajok szállítási feltételeit az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság – a környezetvédelmi és természetvédelmi felügyelőség véleményének kikérését követően – állapítja meg.
+(6)[^25] A kutya kivételével, a 3. számú mellékletben nem szereplő fajok szállítási feltételeit az élelmiszerlánc-biztonsági és állat-egészségügyi, valamint természetvédelmi hatáskörében eljáró megyei kormányhivatal állapítja meg.
 
 (7) A fenntartónak gondoskodnia kell továbbá az állatállomány folyamatos állat-egészségügyi felügyeletéről és szükség szerinti állatorvosi kezeléséről.
 
@@ -18,4 +18,4 @@
 
 [^23]: A 6. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 7. pontja, a 174/2012. (VII. 26.) Korm. rendelet 48. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^24]: A 6. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 564. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^25]: A 6. § (6) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 188. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
+[^25]: A 6. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 103. § (2) bekezdésével megállapított szöveg.
