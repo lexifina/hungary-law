@@ -2,11 +2,11 @@
 
 | Sorszám | Szabályozott szakma megnevezése | Előzetes ellenőrzést végző elsőfokú hatóság | Előzetes ellenőrzést végző másodfokú hatóság |
 
-| 1. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
+| 1. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások, az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák kivételével | népegészégügyi feladatkörében eljáró fővárosi és megyei kormányhivatal | Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala |
 
 | 2. | Tűzvédelmi szakértő | Országos Katasztrófavédelmi Főigazgatóság |  |
 
-| 3. | Gázszerelő | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi és Engedélyezési Hivatal központi szerve |
+| 3. | Gázszerelő | mérésügyi és műszaki biztonsági hatáskörében eljáró fővárosi és megyei kormányhivatal | Magyar Kereskedelmi és Engedélyezési Hivatal központi szerve |
 
 | 4. | Növényvédelmi tevékenység | Magyar Növényvédő Mérnöki és Növényorvosi Kamara területileg illetékes szerve | Magyar Növényvédő Mérnöki és Növényorvosi Kamara |
 
