@@ -18,7 +18,7 @@ h) a szolgáltatás kizárólagos tárgya a külföldi munkáltatóval kötött 
 
 i) a harmadik országbeli állampolgár állandó lakóhelye szerinti ország illetékes hatósága a magyar állampolgárok adott országban történő munkavállalásának engedélyezését más országok állampolgáraira irányadó általános feltételekhez képest indokolatlanul nehezebb feltételhez köti (viszonosság hiánya),
 
-j)[^6] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintően érvényes engedély van hatályban,
+j)[^8] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintően érvényes engedély van hatályban,
 
 k) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatása érdekében hamis vagy hamisított szakképzettséget, iskolai végzettséget igazoló okiratot nyújtott be.
 
@@ -30,9 +30,10 @@ b) a feltételeknek megfelelő kiközvetíthető munkaerő foglalkoztatásától
 
 c) érvényes munkaerőigénnyel rendelkezett, de abban közvetítést nem kért, vagy a munkaerőigény érvényességi idejét tizenöt napnál rövidebb időtartamban határozta meg.
 
-(3) Az (1) bekezdés i) pontjában meghatározott körülmény fennállásáról a munkaügyi központot a miniszter tájékoztatja.
+(3)[^9] Az (1) bekezdés i) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
 
-(4)[^7] Az (1) bekezdés j) pontjának alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását.
+(4)[^10] Az (1) bekezdés j) pontjának alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását.
 
-[^6]: Az 5. § (1) bekezdés j) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^8]: Az 5. § (1) bekezdés j) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^10]: Az 5. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be.

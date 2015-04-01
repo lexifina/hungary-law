@@ -1,6 +1,6 @@
-## 27–28. §[^32]
+## 27–28. §[^49]
 
-1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez
+1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^50]
 
 KÉRELEM
 
@@ -8,13 +8,13 @@ szezonális munkavállalási engedély iránt
 
 A kérelem benyújtásának helye:
 
-Az általános szabályok szerint a kérelmet a harmadik országbeli állampolgár foglalkoztatásának helye szerinti munkaügyi központnál kell benyújtani.
+Az általános szabályok szerint a kérelmet a harmadik országbeli állampolgár foglalkoztatásának helye szerinti kormányhivatalnál kell benyújtani.
 
 Kivételek:
 
-– a foglalkoztatás megkezdésének helye szerinti munkaügyi központnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
+– a foglalkoztatás megkezdésének helye szerinti kormányhivatalnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
 
-– a foglalkoztató székhelye szerinti munkaügyi központnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
+– a foglalkoztató székhelye szerinti kormányhivatalnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
 
 1. A kérelmező foglalkoztató (kölcsönbeadó) adatai:
 
@@ -108,7 +108,7 @@ Igen Nem
 
 Igen Nem
 
-Előző munkavállalási engedélyt kiadó munkaügyi központ megnevezése:
+Előző munkavállalási engedélyt kiadó kormányhivatal megnevezése:
 
 6. A kérelmező foglalkoztató nyilatkozatai:
 
@@ -132,7 +132,7 @@ a befizetésnek ..................................... napján eleget tettem.
 
 mikor:
 
-melyik kirendeltségen:
+melyik járási hivatalnál:
 
 – nem rendelkezem
 
@@ -140,9 +140,9 @@ melyik kirendeltségen:
 
 7. A kérelemhez csatolandó mellékletek:
 
-7.1. Munkaerőigény benyújtása, amennyiben korábban nem nyújtotta be a foglalkoztatás tervezett helye szerinti kirendeltségen.
+7.1. Munkaerőigény benyújtása, amennyiben korábban nem nyújtotta be a foglalkoztatás tervezett helye szerinti járási hivatalnál.
 
-8. A munkaügyi központ – az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével – a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
+8. A kormányhivatal – az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével – a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
 
 Dátum: ........................................................
 
@@ -150,4 +150,5 @@ Dátum: ........................................................
 
 foglalkoztató cégszerű aláírása
 
-[^32]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 236. § (9) bekezdése szerint módosított szöveg.

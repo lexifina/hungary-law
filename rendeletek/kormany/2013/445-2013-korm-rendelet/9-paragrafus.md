@@ -44,6 +44,6 @@
 
 (5) Az (1) bekezdés 4. pontjában meghatározott viszonosság fennállásának tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-(6)[^10] Az (1) bekezdés 13. pontjában meghatározott esetben az engedély kiadásakor nem kell vizsgálni a 3. § (2) bekezdés c) pontjában írt feltétel fennállását, és a kérelemhez a képzettséget, végzettséget tanúsító okiratok másolatait nem kell csatolni. A kérelemhez csatolni kell a filmalkotás magyarországi gyártásának elvégzésére vagy a koprodukciós filmalkotás gyártására kötött magánjogi szerződést, valamint a filmalkotás Nemzeti Média és Hírközlési Hatóság Hivatalánál történő nyilvántartásba vételére irányuló kérelem benyújtásáról szóló igazolást.
+(6)[^14] Az (1) bekezdés 13. pontjában meghatározott esetben az engedély kiadásakor nem kell vizsgálni a 3. § (2) bekezdés c) pontjában írt feltétel fennállását, és a kérelemhez a képzettséget, végzettséget tanúsító okiratok másolatait nem kell csatolni. A kérelemhez csatolni kell a filmalkotás magyarországi gyártásának elvégzésére vagy a koprodukciós filmalkotás gyártására kötött magánjogi szerződést, valamint a filmalkotás Nemzeti Média és Hírközlési Hatóság Hivatalánál történő nyilvántartásba vételére irányuló kérelem benyújtásáról szóló igazolást.
 
-[^10]: A 9. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (6) bekezdése iktatta be.
+[^14]: A 9. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (6) bekezdése iktatta be.

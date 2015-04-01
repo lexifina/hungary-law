@@ -1,4 +1,4 @@
-2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^33]
+2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^51]
 
 KÉRELEM
 
@@ -10,13 +10,13 @@ Az engedélyt a harmadik országbeli állampolgárok magyarországi foglalkoztat
 
 □ Az engedélyt a Korm. rendelet 9. § (1) bekezdés ........ pontja szerint munkaerőpiaci vizsgálat nélkül kérelmezem.
 
-Az egyéni munkavállalási engedély és a 9. § szerinti munkavállalási engedély iránti kérelem benyújtásának helye: Az általános szabályok szerint a kérelmet a harmadik országbeli állampolgár foglalkoztatásának helye szerinti munkaügyi központnál kell benyújtani.
+Az egyéni munkavállalási engedély és a 9. § szerinti munkavállalási engedély iránti kérelem benyújtásának helye: Az általános szabályok szerint a kérelmet a harmadik országbeli állampolgár foglalkoztatásának helye szerinti kormányhivatalnál kell benyújtani.
 
 Kivételek:
 
-— a foglalkoztatás megkezdésének helye szerinti munkaügyi központnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
+— a foglalkoztatás megkezdésének helye szerinti kormányhivatalnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
 
-— a foglalkoztató székhelye szerinti munkaügyi központnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
+— a foglalkoztató székhelye szerinti kormányhivatalnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
 
 1. A kérelmező foglalkoztató adatai:
 
@@ -122,9 +122,9 @@ Teljes/részmunkaidő ..................... óra.
 
 Igen Nem
 
-Előző munkavállalási engedélyt kiadó munkaügyi központ megnevezése:
+Előző munkavállalási engedélyt kiadó kormányhivatal megnevezése:
 
-Kérem, hogy a harmadik országbeli állampolgár tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét igazoló dokumentumot a munkaügyi központ belföldi jogsegély keretében szerezze be a korábbi munkavállalási engedélyt kiadó munkaügyi központtól.
+Kérem, hogy a harmadik országbeli állampolgár tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét igazoló dokumentumot a kormányhivatal belföldi jogsegély keretében szerezze be a korábbi munkavállalási engedélyt kiadó kormányhivataltól.
 
 Igen Nem
 
@@ -162,7 +162,7 @@ a befizetésnek ...................................... napján eleget tettem/nem
 
 mikor:
 
-melyik kirendeltségen:
+melyik járási hivatalnál:
 
 – nem rendelkezem
 
@@ -180,15 +180,15 @@ melyik kirendeltségen:
 
 7. A kérelemhez kötelezően csatolandó mellékletek:
 
-7.1. Munkaerőigény benyújtása, amennyiben korábban nem nyújtotta be a foglalkoztatás tervezett helye szerinti kirendeltségen.
+7.1. Munkaerőigény benyújtása, amennyiben korábban nem nyújtotta be a foglalkoztatás tervezett helye szerinti járási hivatalnál.
 
-7.2. A harmadik országbeli állampolgár tevékenység ellátásához szükséges szakképzettségéről, iskolai végzettségéről szóló okirat hiteles másolata, valamint hiteles magyar fordítása. Ha a harmadik országbeli állampolgárnak öt éven belül volt korábbi engedélye valamely munkaügyi központnál és a szakképzettségéről, iskolai végzettségéről szóló okirat a munkaügyi központ részére munkavállalási engedélyeztetési ügyben becsatolásra került, a dokumentumot nem szükséges csatolni, azt - a foglalkoztató kérelmére - az eljáró munkaügyi központ szerzi be, amennyiben az a munkaügyi központ rendelkezésére áll.
+7.2. A harmadik országbeli állampolgár tevékenység ellátásához szükséges szakképzettségéről, iskolai végzettségéről szóló okirat hiteles másolata, valamint hiteles magyar fordítása. Ha a harmadik országbeli állampolgárnak öt éven belül volt korábbi engedélye valamely kormányhivatalnál és a szakképzettségéről, iskolai végzettségéről szóló okirat a kormányhivatal részére munkavállalási engedélyeztetési ügyben becsatolásra került, a dokumentumot nem szükséges csatolni, azt - a foglalkoztató kérelmére - az eljáró kormányhivatal szerzi be, amennyiben az a kormányhivatal rendelkezésére áll.
 
 7.3. A 6.6. pont 1–3. pontjainak alátámasztására szolgáló magyar nyelvű dokumentum, vagy annak hiteles másolata, illetve nem magyar nyelvű dokumentum esetén annak hiteles magyar fordítása.
 
 7.4. A munkavállaló útlevelének másolata.
 
-8. A munkaügyi központ - az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével - a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
+8. A kormányhivatal - az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével - a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
 
 Dátum: ........................................................
 
@@ -196,4 +196,4 @@ Dátum: ........................................................
 
 foglalkoztató cégszerű aláírása
 
-[^33]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése szerint módosított szöveg.
+[^51]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése szerint módosított szöveg.

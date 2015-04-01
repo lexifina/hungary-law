@@ -4,7 +4,7 @@
 
 a) a foglalkoztatóval szemben a kérelem benyújtását megelőző egy éven belül jogerősen munkaügyi vagy munkavédelmi bírságot szabtak ki,
 
-b)[^8] a foglalkoztatót a kérelem benyújtását megelőző egy éven belül jogerősen harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt a munkaügyi ellenőrzésről szóló törvényben meghatározott, a Nemzeti Foglalkoztatási Alapba történő befizetésre kötelezték,
+b)[^11] a foglalkoztatót a kérelem benyújtását megelőző egy éven belül jogerősen harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt a munkaügyi ellenőrzésről szóló törvényben meghatározott, a Nemzeti Foglalkoztatási Alapba történő befizetésre kötelezték,
 
 c) a kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységre vonatkozóan a Nemzeti Foglalkoztatási Alapból támogatott olyan képzés van folyamatban, amely a harmadik országbeli állampolgár foglalkoztatásának tervezett megkezdését megelőzően befejeződik,
 
@@ -18,4 +18,4 @@ g) a foglalkoztató a harmadik országbeli állampolgár által ellátandó tev�
 
 (3) A (2) bekezdés g) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által ellátandó tevékenységért megjelölt alapbér – ideértve az illetményt és a díjazást – az erre a tevékenységre vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.
 
-[^8]: A 6. § (2) bekezdés b) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^11]: A 6. § (2) bekezdés b) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 2. § E rendelet alkalmazásában:
 
-1. bejelentett munkaerőigény: a foglalkoztatónál olyan tevékenység jövőbeni ellátására felmerült igény, amelyben a munkavégzés foglalkoztatásra irányuló jogviszony keretében történik, és amelyet a foglalkoztató a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatal munkaügyi kirendeltségéhez (a továbbiakban: kirendeltség) vagy a fővárosi és megyei kormányhivatal munkaügyi központjánál (a továbbiakban: munkaügyi központ) jelentett be;
+1.[^1] bejelentett munkaerőigény: a foglalkoztatónál olyan tevékenység jövőbeni ellátására felmerült igény, amelyben a munkavégzés foglalkoztatásra irányuló jogviszony keretében történik, és amelyet a foglalkoztató a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) vagy az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) jelentett be;
 
 2. családtag: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 2. § d) pontjában meghatározott személy;
 
@@ -22,7 +22,7 @@ b) a belföldi foglalkoztatóval kötött megállapodás teljesítése érdekéb
 
 7. kiközvetíthető munkaerő: a magyar állampolgár, valamint az Flt. 2. § (2) bekezdése alapján a magyar állampolgárral azonos jogokkal és kötelezettségekkel rendelkező személy, akinek az Flt. 25. § (2) bekezdés b)–d) pontjában felsorolt szempontokat figyelembe véve megfelel az a munkahely, ahol a foglalkoztató a harmadik országbeli állampolgárt foglalkoztatni kívánja;
 
-8.[^1] kulcsszemélyzet: a Magyarország területén alapított külföldi érdekeltségű vállalkozás által foglalkoztatott olyan természetes személy, aki nem minősül a Polgári Törvénykönyvben meghatározott vezető tisztségviselőnek, és
+8.[^2] kulcsszemélyzet: a Magyarország területén alapított külföldi érdekeltségű vállalkozás által foglalkoztatott olyan természetes személy, aki nem minősül a Polgári Törvénykönyvben meghatározott vezető tisztségviselőnek, és
 
 a) irányítja vagy felügyeli (ideértve a munkáltatói jogkörök gyakorlását is) a vállalkozás egészét, valamint egy vagy több olyan szervezeti egységét, amely a vállalkozás tulajdonosa, legfőbb szerve vagy vezető tisztségviselője közvetlen irányítása, felügyelete alatt áll, vagy
 
@@ -40,14 +40,15 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 11. mezőgazdaság: a növénytermesztési, erdőgazdálkodási, állattenyésztési, és halászati ágazat;
 
-12.[^2] munkavállalási engedély meghosszabbítása: ha a harmadik országbeli állampolgár foglalkoztatására a mezőgazdasági szezonális munkavállalási engedély kivételével a munkavállalási engedély érvényességi időtartamának lejártát követően ugyanannál a foglalkoztatónál, ugyanabban a munkakörben és ugyanazon a munkavégzési helyen kerül sor, és a foglalkoztató a hosszabbítás iránti kérelmét a 9. § (1) bekezdés 16. pontjában meghatározott időben nyújtja be;
+12.[^3] munkavállalási engedély meghosszabbítása: ha a harmadik országbeli állampolgár foglalkoztatására a mezőgazdasági szezonális munkavállalási engedély kivételével a munkavállalási engedély érvényességi időtartamának lejártát követően ugyanannál a foglalkoztatónál, ugyanabban a munkakörben és ugyanazon a munkavégzési helyen kerül sor, és a foglalkoztató a hosszabbítás iránti kérelmét a 9. § (1) bekezdés 16. pontjában meghatározott időben nyújtja be;
 
-13.[^3] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszeréről szóló 7/2010. (IV. 23.) KSH közlemény mellékletében (a továbbiakban: FEOR) megfelelő foglalkozás gyakorlása során elért személyi alapbér – a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott – országos átlaga;
+13.[^4] országos átlagos személyi alapbér: a harmadik országbeli állampolgár által ellátandó tevékenységnek a Foglalkozások Egységes Osztályozási Rendszeréről szóló 7/2010. (IV. 23.) KSH közlemény mellékletében (a továbbiakban: FEOR) megfelelő foglalkozás gyakorlása során elért személyi alapbér – a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott – országos átlaga;
 
 14. összevont kérelmezési eljárás: a Harmtv. 2. § w) pontjában meghatározott eljárás;
 
 15. összevont engedély: a Harmtv. 2. § v) pontjában meghatározott engedély.
 
-[^1]: A 2. § 8. pont nyitó szövegrésze a 80/2014. (III. 14.) Korm. rendelet 37. §-a szerint módosított szöveg.
-[^2]: A 2. § 12. pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 13. pontja a 318/2014. (XII. 13.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § 1. pontja a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § 8. pont nyitó szövegrésze a 80/2014. (III. 14.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^3]: A 2. § 12. pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 13. pontja a 318/2014. (XII. 13.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
