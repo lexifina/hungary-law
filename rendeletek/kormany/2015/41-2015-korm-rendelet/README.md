@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-41-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-03-12 | 2015-41-20-22.1 | 41/2015. (III. 11.) Korm. rendelet |
+| 2015-04-01 | 2015-41-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
