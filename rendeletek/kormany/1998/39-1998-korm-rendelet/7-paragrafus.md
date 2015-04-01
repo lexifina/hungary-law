@@ -4,9 +4,9 @@
 
 (2)[^44] A 2. és 3. §-ban meghatározott támogatást a munkaadó részére havonta utólag kell folyósítani. A 2. §-ban meghatározott támogatást a munkavállaló részére a munkaadó útján kell folyósítani. A munkaadói igénylésnek tartalmaznia kell a munkavállaló adatait, továbbá ahhoz mellékelni kell a kifizetés tényét igazoló bizonylatokat és első ízben a munkaszerződést is.
 
-(3)[^45] A 4. §-ban meghatározott támogatást a munkavállaló részére a kifizetést igazoló bizonylatok bemutatását követően utólag kell folyósítani. A munkavállaló kérelmére a költségek megelőlegezése céljából a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának foglalkoztatási, munkaerőpiaci feladatokat ellátó ágazati szakigazgatási szerve (a továbbiakban: kirendeltség) egy alkalommal a bérleti szerződésben megállapított óvadék (kaució) összegéig, de legfeljebb 2 havi támogatási összeg mértékéig előleget nyújt.
+(3)[^45] A 4. §-ban meghatározott támogatást a munkavállaló részére a kifizetést igazoló bizonylatok bemutatását követően utólag kell folyósítani. A munkavállaló kérelmére a költségek megelőlegezése céljából a járási hivatal egy alkalommal a bérleti szerződésben megállapított óvadék (kaució) összegéig, de legfeljebb 2 havi támogatási összeg mértékéig előleget nyújt.
 
-(4)[^46] A kirendeltség a megállapított folyósítási idő lejárta előtt megszünteti
+(4)[^46] A járási hivatal a megállapított folyósítási idő lejárta előtt megszünteti
 
 a) a 2. §-ban meghatározott támogatás folyósítását, ha a támogatott foglalkoztatással érintett munkavállaló munkaviszonya megszűnik,
 
@@ -14,7 +14,7 @@ b) a 3. §-ban meghatározott támogatás folyósítását, ha a 3. § (5) bekez
 
 (4a)[^47] A munkaadó a munkaviszony megszűnésének időpontját haladéktalanul köteles bejelenteni.
 
-(5)[^48] A 2. §-ban meghatározott támogatással kapcsolatos feladatokat a foglalkoztatni kívánt személyt álláskeresőként nyilvántartó kirendeltség, a 3. §-ban meghatározott támogatással kapcsolatos feladatokat – a munkaügyi központ illetékességi területén kívül lakó és a csoportos személyszállításban részt vevő munkavállalókra vonatkozóan is – a munkaadó székhelye (telephelye) szerint illetékes kirendeltség, a 4. §-ban meghatározott támogatással kapcsolatos feladatokat a foglalkoztatni kívánt személyt álláskeresőként nyilvántartó kirendeltség látja el. A 4. §-ban meghatározott támogatás elszámolásával kapcsolatos ügyekben az ügyfél tartózkodási helye szerint illetékes kirendeltség is eljárhat.
+(5)[^48] A 2. §-ban meghatározott támogatással kapcsolatos feladatokat a foglalkoztatni kívánt személyt álláskeresőként nyilvántartó járási hivatal, a 3. §-ban meghatározott támogatással kapcsolatos feladatokat – a kormányhivatal illetékességi területén kívül lakó és a csoportos személyszállításban részt vevő munkavállalókra vonatkozóan is – a munkaadó székhelye (telephelye) szerint illetékes járási hivatal, a 4. §-ban meghatározott támogatással kapcsolatos feladatokat a foglalkoztatni kívánt személyt álláskeresőként nyilvántartó járási hivatal látja el. A 4. §-ban meghatározott támogatás elszámolásával kapcsolatos ügyekben az ügyfél tartózkodási helye szerint illetékes járási hivatal is eljárhat.
 
 (5a)[^49] A 4. §-ban meghatározott támogatásról hatósági szerződést kell kötni.
 
@@ -26,10 +26,10 @@ b) a 3. §-ban meghatározott támogatás folyósítását, ha a 3. § (5) bekez
 [^42]: Lásd a 2004: CXL. törvényt.
 [^43]: A 7. § (1a) bekezdését a 167/2013. (V. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^44]: A 7. § (2) bekezdése a 272/2012. (IX. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^45]: A 7. § (3) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 5. § (7) bekezdés c) pontja hatályon kívül helyezte, újonnan a 272/2012. (IX. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 265/2013. (VII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^46]: A 7. § (4) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg. [az e módosító rendelet 5. § (6) bekezdés c) pontjával elrendelt módosítás, amely szerint a „2–4. §-ban” szövegrész helyébe a „2–3. §-ban” szöveg lép, nem vezethető át.] A 7. § (4) bekezdés nyitó szövegrésze a 167/2013. (V. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^45]: A 7. § (3) bekezdését a 324/2011. (XII. 28.) Korm. rendelet 5. § (7) bekezdés c) pontja hatályon kívül helyezte, újonnan a 272/2012. (IX. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 265/2013. (VII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 31. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^46]: A 7. § (4) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg. [az e módosító rendelet 5. § (6) bekezdés c) pontjával elrendelt módosítás, amely szerint a „2–4. §-ban” szövegrész helyébe a „2–3. §-ban” szöveg lép, nem vezethető át.] A 7. § (4) bekezdés nyitó szövegrésze a 167/2013. (V. 29.) Korm. rendelet 5. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 31. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^47]: A 7. § (4a) bekezdését 324/2011. (XII. 28.) Korm. rendelet 5. § (4) bekezdése iktatta be.
-[^48]: A 7. § (5) bekezdése a 167/2013. (V. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^48]: A 7. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^49]: A 7. § (5a) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 354/2014. (XII. 29.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
 [^50]: A 7. § (5b) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 4. § (5) bekezdése iktatta be.
 [^51]: A 7. § (6) bekezdését a 225/2005. (X. 13.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 167/2013. (V. 29.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
