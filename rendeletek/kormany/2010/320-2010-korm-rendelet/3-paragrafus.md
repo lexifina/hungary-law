@@ -2,7 +2,7 @@
 
 3. § (1) A Hivatal központi szervből és országos illetékességű első fokú igazgatási szervekből (továbbiakban: igazgatási szervek) áll. A Hivatal főigazgatója közvetlenül vezeti a központi szervet.
 
-(2)[^7] A Hivatal igazgatási szervei a 2. mellékletben foglaltak szerint a haditechnikai és exportellenőrzési hatóság, a kereskedelmi hatóság, a nemesfémvizsgáló és hitelesítő hatóság, a piacfelügyeleti és műszaki felügyeleti hatóság, valamint a metrológiai hatóság.
+(2)[^4] A Hivatal igazgatási szervei a 2. mellékletben foglaltak szerint a haditechnikai és exportellenőrzési hatóság, a kereskedelmi hatóság, a nemesfémvizsgáló és hitelesítő hatóság, a piacfelügyeleti és műszaki felügyeleti hatóság, valamint a metrológiai hatóság.
 
 (3) Az igazgatási szervek önálló jogi személyiséggel nem rendelkeznek.
 
@@ -12,4 +12,4 @@
 
 (6) A Hivatal főigazgatója vagy más kormánytisztviselője az igazgatási szervek vezetőjét vagy kiadmányozási jogkörrel rendelkező ügyintézőjét az első fokú közigazgatási hatósági eljárásban nem utasíthatja.
 
-[^7]: A 3. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (10) és (12) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 7/2013. (I. 18.) Korm. rendelet 5. § (10) és (12) bekezdése szerint módosított szöveg.
