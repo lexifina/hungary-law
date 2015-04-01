@@ -1,1 +1,3 @@
-## 3. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyek koordinációjára – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 8/A. §-ában foglaltak szerint – feladat- és hatáskörrel rendelkező kormánymegbízottként a Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+## 3. §[^2] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+
+[^2]: A 3. § a 72/2015. (III. 30.) Korm. rendelet 83. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
