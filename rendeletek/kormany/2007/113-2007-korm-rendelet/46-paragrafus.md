@@ -4,7 +4,7 @@
 
 (2) A Tv. 37. § (2) bekezdésében foglalt határidőt a beléptetés megtagadásának időpontjától kell számítani.
 
-(3)[^104] Ha a Rendőrség az EGT-állampolgárt vagy családtagot a Tv. 37. § (2) bekezdése alapján a határterület vagy a repülőtér meghatározott részén való tartózkodásra kötelezi, részére a repülőtéri tranzitterületen vagy a határterületen e célra kialakított helyiségében
+(3)[^107] Ha a Rendőrség az EGT-állampolgárt vagy családtagot a Tv. 37. § (2) bekezdése alapján a határterület vagy a repülőtér meghatározott részén való tartózkodásra kötelezi, részére a repülőtéri tranzitterületen vagy a határterületen e célra kialakított helyiségében
 
 a) elhelyezést,
 
@@ -14,7 +14,7 @@ c) személyi felszerelést
 
 ## köteles biztosítani.
 
-(4)[^105] A Tv. 37. § (4) bekezdésében meghatározott esetben a Rendőrség az érintett EGT-állampolgárt vagy a családtagot a határátlépés helye szerint illetékes regionális igazgatósághoz állítja elő.
+(4)[^108] A Tv. 37. § (4) bekezdésében meghatározott esetben a Rendőrség az érintett EGT-állampolgárt vagy a családtagot a határátlépés helye szerint illetékes regionális igazgatósághoz állítja elő.
 
-[^104]: A 46. § (3) bekezdésének felvezető szövege a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^105]: A 46. § (4) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^107]: A 46. § (3) bekezdésének felvezető szövege a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^108]: A 46. § (4) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.

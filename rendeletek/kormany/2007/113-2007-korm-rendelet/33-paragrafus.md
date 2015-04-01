@@ -1,4 +1,4 @@
-## 32. §[^74]
+## 32. §[^75]
 
 33. § (1) A Tv. 16. § (1) bekezdés d) pontjában foglalt feltétel igazolására a születési anyakönyvi kivonat szolgál.
 
@@ -6,4 +6,4 @@
 
 (3) A magyar állampolgár házastársa házassági anyakönyvi kivonattal igazolja, hogy a házasságot a kérelem benyújtását megelőzően legalább két éve megkötötték.
 
-[^74]: A 32. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^75]: A 32. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte.

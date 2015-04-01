@@ -1,6 +1,6 @@
 ## A tartózkodási jogot igazoló okmányokra vonatkozó közös rendelkezések
 
-39. § (1)[^89] A tartózkodási jogot igazoló okmány érvénytelen, ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, továbbá, ha a tartózkodási jog, illetve az állandó tartózkodási jog megszűnt.
+39. § (1)[^90] A tartózkodási jogot igazoló okmány érvénytelen, ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, továbbá, ha a tartózkodási jog, illetve az állandó tartózkodási jog megszűnt.
 
 (2) A tartózkodási jogot igazoló okmány akkor is érvénytelen, ha
 
@@ -16,20 +16,20 @@ e) tulajdonosa meghalt;
 
 f) az érintett magyar állampolgárságot szerzett;
 
-g)[^90] a harmadik ország állampolgárságával rendelkező családtag EK letelepedési engedélyt szerzett;
+g)[^91] a harmadik ország állampolgárságával rendelkező családtag EK letelepedési engedélyt szerzett;
 
-h)[^91] az okmány elveszett, vagy az okmányt eltulajdonították;
+h)[^92] az okmány elveszett, vagy az okmányt eltulajdonították;
 
-i)[^92] az EGT-állampolgár vagy családtag a tartózkodásra jogosító okmányát, Magyarország területének végleges elhagyási szándéka miatt a regionális igazgatóságon leadta.
+i)[^93] az EGT-állampolgár vagy családtag a tartózkodásra jogosító okmányát, Magyarország területének végleges elhagyási szándéka miatt a regionális igazgatóságon leadta.
 
 (3) Érvénytelen a regisztrációs igazolás és a tartózkodási kártya, ha jogosultja részére állandó tartózkodási jogot igazoló okmány kerül kiállításra.
 
-(4)[^93] Az okmányt kiállító hatóság az érvénytelen tartózkodási jogot igazoló okmányt – a (2) bekezdés b), e), f) és i) pontjában meghatározott esetek kivételével – visszavonja. A visszavonásról az érvénytelenséget megállapító határozatban rendelkezik.
+(4)[^94] Az okmányt kiállító hatóság az érvénytelen tartózkodási jogot igazoló okmányt – a (2) bekezdés b), e), f) és i) pontjában meghatározott esetek kivételével – visszavonja. A visszavonásról az érvénytelenséget megállapító határozatban rendelkezik.
 
 (5) Az okmányt visszavonó regionális igazgatóság gondoskodik az okmány érvénytelenítéséről, valamint a visszavonás tényének, okának és időpontjának a Tv. 75. § (1) bekezdésében meghatározott megfelelő résznyilvántartásba történő bejegyzéséről, továbbá a (2) bekezdés a)–c) pontjában meghatározott esetekben az új okmány kiadásáról.
 
-[^89]: A 39. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^90]: A 39. § (2) bekezdés g) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^91]: A 39. § (2) bekezdés h) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^92]: A 39. § (2) bekezdés i) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^93]: A 39. § (4) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^90]: A 39. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^91]: A 39. § (2) bekezdés g) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^92]: A 39. § (2) bekezdés h) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^93]: A 39. § (2) bekezdés i) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^94]: A 39. § (4) bekezdése a 168/2011. (VIII. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
