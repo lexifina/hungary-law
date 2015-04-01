@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-85-20-2
 | 2014-05-01 | 1998-85-20-22.13 | 140/2014. (IV. 30.) Korm. rendelet |
 | 2014-12-23 | 1998-85-20-22.14 | 327/2014. (XII. 15.) Korm. rendelet |
 | 2015-01-01 | 1998-85-20-22.15 | 140/2014. (IV. 30.) Korm. rendelet |
+| 2015-04-01 | 1998-85-20-22.16 | 183/2013. (VI. 7.) Korm. rendelet |
