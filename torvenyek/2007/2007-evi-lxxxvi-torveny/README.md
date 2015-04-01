@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2014-11-05 | 2014. évi XLI. törvény | 2007-86-00-00.50 |
 | 2014-12-30 | 2014. évi XCIX. törvény | 2007-86-00-00.51 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2007-86-00-00.52 |
+| 2015-04-01 | 2013. évi CXLV. törvény | 2007-86-00-00.53 |
