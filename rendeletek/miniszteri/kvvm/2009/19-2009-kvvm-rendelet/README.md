@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-0
 | 2011-01-15 | 2009-19-20-0N.2 | 5/2011. (I. 14.) VM rendelet |
 | 2013-01-28 | 2009-19-20-0N.3 | 80/2012. (XII. 28.) NFM rendelet |
 | 2013-06-01 | 2009-19-20-0N.4 | 40/2013. (V. 24.) VM rendelet |
+| 2015-04-01 | 2009-19-20-0N.5 | 2017: CLXXIX. törvény |
