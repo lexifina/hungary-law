@@ -20,7 +20,9 @@ h) a szabálysértést felszólítás ellenére folytató személy előállítá
 
 i) személy- és létesítménybiztosítási intézkedés [46. § (1) bekezdés c) pont] végrehajtására;
 
-j) ha az előállítás a törvényben meghatározott egyéb okból szükséges.
+j) ha az előállítás a törvényben meghatározott egyéb okból szükséges;
+
+k) a Bv. tv.-ben meghatározott, az elítélt mozgását nyomon követő elektronikus távfelügyeleti eszköz telepítése, ellenőrzése, karbantartása, valamint eltávolítása céljából.
 
 (2) A végrehajtási eljárásban a rendőr kirendelésének törvényességéért a végrehajtást elrendelő szerv vezetője a felelős.
 

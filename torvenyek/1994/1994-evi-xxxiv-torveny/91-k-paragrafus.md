@@ -6,7 +6,7 @@ a) beutazási és tartózkodási tilalom hatálya alatt állók nyilvántartása
 
 b) körözési nyilvántartási rendszer,
 
-c) kényszerintézkedés hatálya alatt állók nyilvántartása,
+c) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása,
 
 d) útiokmány-nyilvántartás,
 
