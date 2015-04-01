@@ -84,7 +84,7 @@
 
 ## a hozzájárulásra kötelezett cégszerű aláírása
 
-3. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^18]
+3. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^24]
 
 Nyilvántartás a szakképzési hozzájárulási kötelezettséget saját munkavállalóik képzésére fordító kötelezettek által,
 
@@ -110,4 +110,4 @@ A nyilvántartást készítő neve: ……………………………………�
 
 Kelt: …………………………………………., 20.. . év ………………………… hó ……………………….. nap
 
-[^18]: A 3. melléklet az 52/2013. (XI. 25.) NGM rendelet 8. §-a szerint módosított szöveg.
+[^24]: A 3. melléklet az 52/2013. (XI. 25.) NGM rendelet 8. §-a szerint módosított szöveg.

@@ -62,6 +62,6 @@
 
 ## * A megfelelő válasz aláhúzandó!
 
-2. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^17]
+2. melléklet a 21/2013. (VI. 18.) NGM rendelethez[^23]
 
-[^17]: A 2. melléklet az 52/2013. (XI. 25.) NGM rendelet 7. §-ával megállapított szöveg.
+[^23]: A 2. melléklet az 52/2013. (XI. 25.) NGM rendelet 7. §-ával megállapított szöveg.
