@@ -9,11 +9,3 @@
 (5) A 2015. április 1-jét megelőzően indult ügyben folyamatban lévő szakhatósági eljárás 2015. április 1-jén a törvény erejénél fogva egyesül azzal az eljárással, amelyben a szakhatóság megkeresésére sor került, ha a szakhatósági eljárásban vizsgálandó szakkérdést a 2015. április 1-jén hatályos jogszabályok alapján az ügyben hatáskörrel rendelkező hatóság szakhatósági közreműködés nélkül a saját eljárásában vizsgálja. Az eljárások egyesítésére egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 33/B. §-a alkalmazandó azzal, hogy az egyesítés nem érinti a 2015. április 1. előtt végzett eljárási cselekmények hatályát és a megkezdett határidőket.
 
 (6) A 2015. április 1-jét megelőzően előzetes szakhatósági állásfoglalás iránt indult eljárást meg kell szüntetni, ha a szakhatósági eljárásban vizsgálandó szakkérdést a 2015. április 1-jén hatályos jogszabályok alapján az ügyben hatáskörrel rendelkező hatóság szakhatósági közreműködés nélkül a saját eljárásában vizsgálja. Az előzetes szakhatósági eljárásért megfizetett illetéket vagy igazgatási szolgáltatási díjat vissza kell téríteni annak, aki azt megfizette. A visszatérítés iránt a 2015. április 1-jén hatályos jogszabályok alapján az ügyben hatáskörrel rendelkező hatóság intézkedik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Jakab István s. k.,
-
-az Országgyűlés alelnöke
