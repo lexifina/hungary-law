@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-346-20-
 | 2014-09-05 | 2010-346-20-22.13 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2010-346-20-22.14 | 169/2013. (V. 29.) Korm. rendelet |
 | 2015-03-01 | 2010-346-20-22.15 | 169/2013. (V. 29.) Korm. rendelet |
+| 2015-04-01 | 2010-346-20-22.16 | 169/2013. (V. 29.) Korm. rendelet |

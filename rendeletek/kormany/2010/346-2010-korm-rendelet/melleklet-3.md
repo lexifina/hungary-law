@@ -96,7 +96,7 @@ I. Központi finanszírozásúak
 
 |  | 11.2. Nemzeti Közlekedési Hatóság Központ, Útügyi, Vasúti és Hajózási Hivatal, Közúti Gépjármű-közlekedési Hivatal, Légügyi Hivatal | X |
 
-|  | 11.3. Nemzeti Közlekedési Hatóság szakmai irányításával működő fővárosi és megyei közlekedési szakigazgatási szervek | X |
+|  | 11.3. Közlekedési hatósági hatáskörben eljáró fővárosi és megyei kormányhivatalok | X |
 
 |  | 12. Nemzeti Média- és Hírközlési Hatóság /NMHH VPN/ | X | 12.1. Nemzeti Média- és Hírközlési Hatóság | X |
 
@@ -117,4 +117,4 @@ II. Egyedi finanszírozásúak
 [^116]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^117]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^118]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^119]: A 3. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (3) bekezdésével megállapított, a 98/2014. (III. 25.) Korm. rendelet 10. §-a, a 221/2014. (IX. 4.) Korm. rendelet 531. § d)–h) pontja, a 382/2014. (XII. 31.) Korm. rendelet 1. §-a, a 30/2015. (II. 25.) Korm. rendelet 57. §-a szerint módosított szöveg.
+[^119]: A 3. melléklet a 169/2013. (V. 29.) Korm. rendelet 31. § (3) bekezdésével megállapított, a 98/2014. (III. 25.) Korm. rendelet 10. §-a, a 221/2014. (IX. 4.) Korm. rendelet 531. § d)–h) pontja, a 382/2014. (XII. 31.) Korm. rendelet 1. §-a, a 30/2015. (II. 25.) Korm. rendelet 57. §-a, a 70/2015. (III. 30.) Korm. rendelet 165. §-a szerint módosított szöveg.
