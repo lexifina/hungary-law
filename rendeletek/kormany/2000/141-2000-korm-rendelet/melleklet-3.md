@@ -40,10 +40,8 @@
 
 ## 2.3 nyilatkozat a fogyatékossági támogatás folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
 
-## 2.4 az 1.1.1 alpontban, valamint az 1.1.3 alpontban foglalt jogcímen benyújtott kérelem esetén nyilatkozat a rehabilitációs szakigazgatási szervvel történő együttműködés vállalásáról.
-
 ## 3. Kitöltési útmutató és tájékoztatás a csatolandó dokumentumokról.
 
-3. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^82]
+3. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^80]
 
-[^82]: A 3. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^80]: A 3. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.

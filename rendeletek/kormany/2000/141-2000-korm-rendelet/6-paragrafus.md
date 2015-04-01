@@ -1,6 +1,6 @@
 ## 5/A. §[^15]
 
-6. §[^16] (1)[^17] Ha a kérelmező a kérelemhez a rehabilitációs szakigazgatási szervnek, illetve jogelődjének a súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalását vagy szakvéleményét nem csatolta, az Igazgatóság a kérelmező által benyújtott orvosi dokumentáció megküldésével
+6. §[^16] (1)[^17] Ha a kérelmező súlyos fogyatékosságát a rehabilitációs szakértői szerv vagy jogelődjének hatályos határozata, szakhatósági állásfoglalása vagy szakvéleménye nem állapítja meg, a kormányhivatal a kérelmező által benyújtott orvosi dokumentáció alapján
 
 a) a súlyos fogyatékosság fennállása,
 
@@ -10,10 +10,11 @@ c) a súlyos fogyatékosság fennállása esetén felülvizsgálatának szüksé
 
 d) a felülvizsgálat szükségessége esetén annak időpontja
 
-kérdésében – szakhatósági állásfoglalás kiadása céljából – megkeresi a rehabilitációs szakigazgatási szervet.
+## kérdését szakkérdésként vizsgálja. Ha az első fokú eljárásban vizsgálni kell a szakkérdést, az ügyintézési határidő ötven nap.
 
-(2) A kérelmező a súlyos fogyatékosság minősítése céljából személyes megjelenésre kötelezhető. Ha a kérelmező a jogkövetkezményekről való tájékoztatást tartalmazó felhívás ellenére nem jelenik meg, az Igazgatóság az eljárást megszüntetheti.
+(2)[^18] A kérelmező a súlyos fogyatékosság minősítése céljából személyes megjelenésre kötelezhető. Ha a kérelmező a jogkövetkezményekről való tájékoztatást tartalmazó felhívás ellenére nem jelenik meg, a kormányhivatal az eljárást megszüntetheti.
 
 [^15]: Az 5/A. §-t a 125/2004. (IV. 29.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 95/2013. (III. 29.) Korm. rendelet 10. § a) pontja.
 [^16]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 189. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^17]: A 6. § (1) bekezdés nyitó szövegrésze a 95/2012. (V. 15.) Korm. rendelet 31. § (2) bekezdés a) pontja, záró szövegrésze a 31. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^17]: A 6. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.
+[^18]: A 6. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 43. § (12) bekezdés c) pontja szerint módosított szöveg.

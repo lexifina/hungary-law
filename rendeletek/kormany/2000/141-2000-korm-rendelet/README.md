@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-141-20-
 | 2011-10-15 | 2000-141-20-22.17 | 212/2011. (X. 14.) Korm. rendelet |
 | 2012-07-01 | 2000-141-20-22.18 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2013-04-01 | 2000-141-20-22.19 | 95/2013. (III. 29.) Korm. rendelet |
+| 2015-04-01 | 2000-141-20-22.20 | 70/2015. (III. 30.) Korm. rendelet |
