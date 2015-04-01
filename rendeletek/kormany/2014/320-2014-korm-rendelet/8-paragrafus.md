@@ -1,38 +1,38 @@
 ## 6. A közfoglalkoztatásért felelős miniszter feladatai
 
-8. § (1) A közfoglalkoztatásért felelős miniszter a munkaügyi központok és kirendeltségek közfoglalkoztatási feladatai tekintetében
+8. §[^20] (1) A közfoglalkoztatásért felelős miniszter az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalok és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok közfoglalkoztatási feladatai tekintetében
 
-a) követelményeket határoz meg a számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában,
+a) követelményeket határoz meg a közfoglalkoztatással kapcsolatos számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában,
 
-b) irányítja az NFA közfoglalkoztatási előirányzat felhasználásával kapcsolatos tervezési, pénzügyi-számviteli és beszámolási feladatok végrehajtását,
+b) az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalra és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalra is kiterjedően közreműködik az NFA közfoglalkoztatási előirányzat felhasználásával kapcsolatos tervezési feladatok végrehajtásában, javaslatokat tesz a pénzügyi nyilvántartásokra vonatkozóan,
 
 c) figyelemmel kíséri az NFA közfoglalkoztatási előirányzat keretének felhasználását,
 
-d) eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza a hatósági és szolgáltató tevékenység szakmai követelményeit, meghatározza az azok ellátásához szükséges informatikai és számítógépes rendszereket,
+d) eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza a közfoglalkoztatással kapcsolatos hatósági és szolgáltató tevékenység szakmai követelményeit, meghatározza az azok ellátásához szükséges informatikai és számítógépes rendszereket,
 
 e) közfoglalkoztatással összefüggő kutatásokat kezdeményez és végez,
 
-f) megállapítja a munkaügyi központok és kirendeltségek kötelező belső szakmai szabályzatainak elveit és főbb tartalmi követelményeit,
+f) megállapítja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal kötelező belső szakmai szabályzatainak a közfoglalkoztatást érintő rendelkezéseire vonatkozó elveit és főbb tartalmi követelményeit,
 
 g) ellátja a közfoglalkoztatási támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat,
 
-h) meghatározza az adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez, melyekhez kapcsolódóan prognózisokat, elemzéseket, statisztikai összesítéseket, nyilvántartásokat készít,
+h) meghatározza a közfoglalkoztatásra vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez, melyekhez kapcsolódóan prognózisokat, elemzéseket, statisztikai összesítéseket, nyilvántartásokat készít,
 
-i) javaslatot tesz a munkaügyi központok és kirendeltségek informatikai rendszerének fejlesztésére,
+i) javaslatot tesz az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos tevékenysége informatikai rendszerének fejlesztésére,
 
-j) ellátja a munkaügyi központok és kirendeltségek munkatársainak humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat,
+j) ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos feladatokat ellátó kormánytisztviselőinek humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat,
 
-k) ellátja a munkaügyi központok és kirendeltségek hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá a munkaügyi központok szakmai és pénzügyszakmai tevékenységének ellenőrzését,
+k) ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatással kapcsolatos hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal közfoglalkoztatással kapcsolatos szakmai és pénzügyszakmai tevékenységének ellenőrzését,
 
 l) hatósági jogkört gyakorol, amelynek keretében
 
-la) ellenőrzi a munkaügyi központok és kirendeltségek által kötött hatósági szerződésben foglaltak teljesítését,
+la) ellenőrzi az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok által, a közfoglalkoztatással kapcsolatban kötött hatósági szerződésben foglaltak teljesítését,
 
 lb) ellenőrzi a munkavégzés közfoglalkoztatási szerződésben foglaltak szerinti teljesítését,
 
-lc) ellenőrzi a munkaügyi központok vagy kirendeltségek hatáskörébe tartozó közfoglalkoztatási támogatás nyújtására irányuló kérelem megalapozottságát és a kérelemben foglalt adatok valódiságát,
+lc) ellenőrzi az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal hatáskörébe tartozó közfoglalkoztatási támogatás nyújtására irányuló kérelem megalapozottságát és a kérelemben foglalt adatok valódiságát,
 
-ld) elbírálja a munkaügyi központok által hozott határozatok és önállóan megfellebbezhető végzések ellen benyújtott fellebbezéseket,
+ld) elbírálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal által, a közfoglalkoztatással összefüggésben hozott határozatok és önállóan megfellebbezhető végzések ellen benyújtott fellebbezéseket,
 
 m) adatokat gyűjt és elemez a közfoglalkoztatási bérek és keresetek alakulására vonatkozóan,
 
@@ -54,26 +54,30 @@ qd) egyéb szervezetekkel,
 
 r) a közfoglalkoztatáshoz kapcsolódó képzésekkel összefüggő feladatai keretében
 
-ra) koordinálja, ellenőrzi, értékeli a munkaügyi központok felnőttképzéssel összefüggő tevékenységét,
+ra) a felnőttképzésért felelős miniszterrel együttműködve koordinálja, ellenőrzi, értékeli az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal felnőttképzéssel összefüggő tevékenységét,
 
-rb) a miniszter egyetértésével meghatározza a közfoglalkoztatással kapcsolatos képzési irányokat,
+rb) a felnőttképzésért felelős miniszter egyetértésével meghatározza a közfoglalkoztatással kapcsolatos képzési irányokat,
 
-rc) a felhasználás irányelveire tekintettel szervezi a képzési programok megvalósítását és koordinálja a munkaügyi központok és kirendeltségek ezirányú feladatát,
+rc) a felhasználás irányelveire tekintettel szervezi a képzési programok megvalósítását és koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú feladatát,
 
 rd) összegyűjti, tanulmányozza az egyes képzési programok főbb követelményeit, ellenőrző munkája során vizsgálja azok megvalósítását,
 
-re) koordinálja a munkaügyi központok és kirendeltségek közfoglalkoztatottak képzéséhez kapcsolódó, európai uniós támogatással megvalósuló tevékenységeit,
+re) a felnőttképzésért felelős miniszterrel együttműködve koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatottak képzéséhez kapcsolódó, európai uniós támogatással megvalósuló tevékenységét,
 
-s) koordinálja a közfoglalkoztatáshoz kapcsolódóan a munkaügyi központok munkaerő-piaci szolgáltatásokkal kapcsolatos feladatait,
+s) koordinálja a közfoglalkoztatáshoz kapcsolódóan az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal munkaerő-piaci szolgáltatásokkal kapcsolatos feladatait a miniszterrel együttműködve,
 
 t) ellátja a jogszabályban meghatározott egyéb feladatokat.
 
-(2) A közfoglalkoztatásért felelős miniszter – a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala útján –
+(2) A közfoglalkoztatásért felelős miniszter a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala útján
 
-a) a miniszterrel egyeztetve fejleszti a miniszter, a munkaügyi központ és a kirendeltség tevékenységét támogató programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
+a) a 4. § (1) bekezdés g) pontjával összhangban a miniszterrel egyeztetve fejleszti a miniszter, az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal tevékenységét támogató programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
 
-b) fejleszti és működteti a munkaügyi központ, a kirendeltség feladatainak ellátásával kapcsolatos informatikai és számítógépes rendszereket, továbbá ennek körében telepíti, teszteli és módosítja a programrendszereket,
+b) a miniszterrel egyeztetve fejleszti a munkaerőpiaccal, a közfoglalkoztatással kapcsolatos programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
 
-c) az b) pontban meghatározott informatikai rendszerekkel összefüggésben teljesíti a miniszter, valamint az adatok igénylésére jogosult más szervek megkereséseit.
+c) fejleszti és működteti az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladatainak ellátásával kapcsolatos informatikai és számítógépes rendszereket, továbbá ennek körében telepíti, teszteli és módosítja a programrendszereket,
+
+d) a c) pontban meghatározott informatikai rendszerekkel összefüggésben teljesíti a miniszter, valamint az adatok igénylésére jogosult más szervek megkereséseit.
 
 (3) A közfoglalkoztatásért felelős miniszter közreműködik az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes közfoglalkoztatáshoz kapcsolódó képzési programok megvalósításának tervezésében és szervezésében.
+
+[^20]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.

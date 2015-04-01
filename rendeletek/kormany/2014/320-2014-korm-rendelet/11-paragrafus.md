@@ -1,16 +1,14 @@
-## 8. A kirendeltség feladat- és hatásköre
+## 8. [^25] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
 
-11. § (1) A kirendeltség a járási (fővárosi kerületi) hivatal önálló feladat- és hatáskörrel rendelkező szakigazgatási szerve. A kirendeltség élén kirendeltség-vezető áll. A kirendeltség nevében a közigazgatási hatósági eljárásokban a kirendeltség vezetője vagy kiadmányozási jogkörrel rendelkező ügyintézője jár el.
+11. §[^26] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
 
-(2) A kirendeltség
-
-a) a megyei (fővárosi) munkaügyi központok illetékességéről szóló jogszabályban meghatározott illetékességi területén ellátja az álláskeresők nyilvántartásba vételével kapcsolatos feladatokat, valamint az álláskeresési járadék, álláskeresési segély megállapításával, szüneteltetésével, megszüntetésével és visszakövetelésével kapcsolatos, továbbá azokkal a foglalkoztatást elősegítő támogatásokkal kapcsolatos feladatokat, amelyek ellátása nem tartozik a munkaügyi központ hatáskörébe,
+a) ellátja az álláskeresők nyilvántartásba vételével kapcsolatos feladatokat, valamint az álláskeresési járadék, álláskeresési segély megállapításával, szüneteltetésével, megszüntetésével és visszakövetelésével kapcsolatos, továbbá azokkal a foglalkoztatást elősegítő támogatásokkal kapcsolatos feladatokat, amelyek ellátása nem tartozik az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe,
 
 b) ellátja a hatáskörébe tartozó ügyekben a pénzeszközök visszakövetelésével kapcsolatos feladatokat,
 
 c) közreműködik a munkaerő-piaci szolgáltatások szervezésében és bonyolításában,
 
-d) a fővárosi illetékességi területtel rendelkező kirendeltségek kivételével nyilvántartja a csoportos létszámleépítésre vonatkozó bejelentéseket,
+d) a fővárosi illetékességi területtel rendelkező járási hivatalok kivételével nyilvántartja azon munkaadók csoportos létszámleépítésre vonatkozó bejelentéseit, amelyek csoportos létszámcsökkentéssel érintett székhelye vagy telephelye a járási hivatal illetékességi területén van,
 
 e) munkaközvetítést végez,
 
@@ -30,7 +28,7 @@ l) kapcsolatot tart a megye (főváros), a járás gazdasági életében részt 
 
 m) ellátja a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek végrehajtásával összefüggő feladatokat.
 
-(3) A kirendeltség közfoglalkoztatási feladatai körében
+(2) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal közfoglalkoztatási feladatai körében
 
 a) közreműködik a közfoglalkoztatáshoz kapcsolódó képzések szervezésében és bonyolításában,
 
@@ -64,4 +62,5 @@ i) feltárja a közfoglalkoztatási munkalehetőségeket,
 
 j) szervezi a közfoglalkoztatást.
 
-(4) A hatósági szerződések megkötése, módosítása és megszüntetése, továbbá a költségvetésből nyújtott támogatás biztosítékául szolgáló zálogjog, garanciaszerződés, óvadék tekintetében a kirendeltség vezetője szerződéskötési képességgel rendelkezik.
+[^25]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
+[^26]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.

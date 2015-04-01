@@ -10,12 +10,18 @@ d) a munkavédelmi szabályok munkáltatók általi megtartásának külön jogs
 
 (2) A miniszter a külön jogszabályban meghatározottak szerint közreműködik az Mvt. 84. § (2) bekezdésében meghatározott foglalkozási megbetegedésekkel kapcsolatos feladatok ellátásában.
 
-(3) A munkavédelmi felügyelőségek gyakorolják az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. Ellátják továbbá mindazon hatósági ellenőrzési feladatokat, amelyeket külön jogszabály nevesítve feladat- és hatáskörükbe utal.
+(3)[^30] A munkavédelmi hatósági hatáskörben eljáró kormányhivatal gyakorolja az Mvt. 81. §-ában meghatározott feladat- és hatásköröket. A munkavédelmi hatósági hatáskörben eljáró kormányhivatal ellátja továbbá mindazon munkavédelmi hatósági ellenőrzési feladatokat, amelyeket jogszabály nevesítve feladat- és hatáskörébe utal.
 
-(4) A munkavédelmi bírság kiszabására első fokon annak a munkavédelmi és munkaügyi felügyelőségnek a vezetője jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
+(4)[^31] A munkavédelmi bírság kiszabására első fokon az a munkavédelmi hatósági hatáskörben eljáró kormányhivatal jogosult, amelynek illetékességi területén az ellenőrzött munkahely található.
 
-(5) Az egyéni védőeszközök és a munkaeszközök tekintetében a munkavédelmi és munkaügyi felügyelőségek a munkavédelmi hatósági ellenőrzés során saját hatáskörében látják el a piacfelügyeleti hatósági feladatokat.
+(5)[^32] Az egyéni védőeszközök és a munkaeszközök tekintetében a munkavédelmi hatósági hatáskörben eljáró kormányhivatal a munkavédelmi hatósági ellenőrzés során saját hatáskörben látja el a piacfelügyeleti hatósági feladatokat.
 
-(6) A miniszter által vezetett minisztérium kormánytisztviselője Magyarország területén megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján induló első fokú hatósági eljárás lefolytatására az a munkavédelmi felügyelőség jogosult, amelynek illetékességi területén az ellenőrzés történt.
+(6)[^33] A miniszter által vezetett minisztérium kormánytisztviselője Magyarország területén megbízólevél birtokában végezhet ellenőrzést. Az ellenőrzés alapján induló első fokú hatósági eljárás lefolytatására az a munkavédelmi hatóság jogosult, amelynek illetékességi területén az ellenőrzés történt.
 
-(7) Munkavédelmi hatósági ügyben a fellebbezés elbírálására jogosult hatóságnak minősül a munkavédelmi felügyelő és a munkavédelmi és munkaügyi felügyelőség eljárása vonatkozásában a miniszter.
+(7)[^34] A munkavédelmi hatósági hatáskörben eljáró kormányhivatal által lefolytatott hatósági ügyben a fellebbezés elbírálására jogosult hatóságként a miniszter jár el.
+
+[^30]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított szöveg.
+[^31]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított szöveg.
+[^32]: A 14. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (21) bekezdésével megállapított szöveg.
+[^33]: A 14. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (27) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 14. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 258. § (22) bekezdésével megállapított szöveg.

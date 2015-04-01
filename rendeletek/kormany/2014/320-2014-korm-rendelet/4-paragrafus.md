@@ -10,27 +10,27 @@ aa) dönt a foglalkoztatáshoz kapcsolódó központi munkaerőpiaci programok i
 
 ab) kezdeményezi munkaerőpiaci programok kidolgozását és indítását,
 
-ac) véleményezi a munkaügyi központ által indítandó programok tervezetét,
+ac)[^4] véleményezi a munkaügyi hatósági hatáskörében eljáró kormányhivatal által indítandó programok tervezetét,
 
 b) követelményeket határoz meg a számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában,
 
-c) irányítja a Nemzeti Foglalkoztatási Alap (a továbbiakban: NFA) felhasználásával kapcsolatos tervezési, pénzügyi-számviteli és beszámolási feladatok végrehajtását,
+c)[^5] az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalra és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalra is kiterjedően irányítja az NFA felhasználásával kapcsolatos tervezési, pénzügyi-számviteli és beszámolási feladatok végrehajtását,
 
-d) figyelemmel kíséri az NFA foglalkoztatási alaprésze decentralizált keretének a munkaügyi központok által történő felhasználását, valamint a kormányzati foglalkoztatáspolitika érvényesítését,
+d)[^6] figyelemmel kíséri az NFA foglalkoztatási alaprésze decentralizált keretének az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal, valamint az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal által történő felhasználását,
 
-e) megállapítja a munkaügyi központok és a kirendeltségek kötelező belső szakmai szabályzatainak elveit és főbb tartalmi követelményeit,
+e)[^7] megállapítja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal kötelező szakmai szabályzatainak, az állami foglalkoztatási szervként ellátott feladatokat érintő rendelkezéseinek elveit és főbb tartalmi követelményeit,
 
-f) meghatározza a munkaügyi központok és a kirendeltségek szolgáltató tevékenységére vonatkozó szakmai követelményeket, a munkaerő-piaci szolgáltatást nyújtók részére adható támogatással kapcsolatos feladatait, továbbá ellátja az álláskeresők ellátásával, valamint a foglalkoztatást elősegítő támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat,
+f)[^8] meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal munkaerőpiaci szolgáltató tevékenységére vonatkozó szakmai követelményeket, a munkaerőpiaci szolgáltatást nyújtók részére adható támogatással kapcsolatos feladatait, továbbá ellátja az álláskeresők ellátásával, valamint a foglalkoztatást elősegítő támogatások működtetésével és fejlesztésével kapcsolatos szakmai feladatokat,
 
-g) meghatározza a hatósági, támogatási és szolgáltató tevékenység ellátásához szükséges informatikai és számítógépes rendszerek szakmai, tartalmi követelményeit, javaslatot tesz a munkaügyi központok és a kirendeltségek informatikai rendszerének fejlesztésére,
+g)[^9] meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal hatósági, támogatási és szolgáltató tevékenységének ellátásához szükséges informatikai és számítógépes rendszerek szakmai, tartalmi követelményeit, javaslatot tesz e számítógépes rendszerek fejlesztésére,
 
-h) eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza a munkaügyi központok és kirendeltségek hatósági és szolgáltató tevékenységét,
+h)[^10] eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal hatósági és szolgáltató tevékenységét,
 
 i) fejleszti a munkaerőpiaci szolgáltatásokat,
 
-j) meghatározza a munkaügyi központok és kirendeltségek hatósági és szolgáltató tevékenységére vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez,
+j)[^11] meghatározza az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal, hatósági és szolgáltató tevékenységére vonatkozó adatgyűjtési rendszert, továbbá hatékonysági vizsgálatokat végez,
 
-k) ellátja a munkaügyi központ hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá az NFA működtetéséért felelős területi egységek szakmai és pénzügyszakmai tevékenységének ellenőrzését,
+k)[^12] ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatósági ellenőrzési feladatainak szakmai felügyeletét, továbbá az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal NFA működtetésével kapcsolatos tevékenységének szakmai és pénzügyszakmai ellenőrzését,
 
 l) hatósági jogkört gyakorol, amelynek keretében
 
@@ -38,7 +38,7 @@ la) dönt a munkahelyteremtő beruházáshoz pályázati eljárás keretében ny
 
 lb) ellátja a munkavállalók kölcsönös foglalkoztatásának cseréjéről szóló nemzetközi szerződések végrehajtásával kapcsolatos feladatokat,
 
-lc) elbírálja a munkaügyi központ által hozott határozat ellen benyújtott fellebbezést,
+lc)[^13] elbírálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal által hozott határozat ellen benyújtott fellebbezést,
 
 ld) ellátja az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alá tartozó tartózkodási engedélyhez szükséges szakhatósági állásfoglalással kapcsolatos másodfokú hatósági feladatot,
 
@@ -52,11 +52,11 @@ mc) a külföldiek – engedély-, illetve bejelentés köteles – magyarorszá
 
 n) nemzetközi feladatokat lát el, amelynek keretében
 
-na) koordinálja a munkaügyi központok nemzetközi tevékenységét,
+na)[^14] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal nemzetközi tevékenységét,
 
 nb) elősegíti az ILO, WAPES és EU tagságból adódó feladatok végrehajtását,
 
-nc) koordinálja a munkaügyi központ – a személyek szabad áramlásához kapcsolódó – feladatainak végrehajtását,
+nc)[^15] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal – a személyek szabad áramlásához kapcsolódó – feladatainak végrehajtását,
 
 nd) ellátja az Európai Foglalkoztatási Szolgálat (a továbbiakban: EURES) magyarországi rendszere működtetésének és fejlesztésének feladatait, ügyfélszolgálatot működtet, kapcsolatot tart az EURES szerveivel,
 
@@ -66,7 +66,9 @@ o) ellátja a jogszabályok által meghatározott nyilvántartások vezetéséve
 
 p) munkaügyi kutatásokat kezdeményez,
 
-q) koordinálja a munkaügyi központok és kirendeltségek európai uniós támogatással megvalósuló tevékenységeit.
+q)[^16] koordinálja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal európai uniós támogatással megvalósuló tevékenységeit,
+
+r)[^17] ellátja az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal munkaerőpiaci feladatokat ellátó kormánytisztviselőinek humánerőforrás-fejlesztéséhez és belső szakmai képzéséhez kapcsolódó feladatokat.
 
 (2) A miniszter a munkaügyi kapcsolatok feladatkörében
 
@@ -91,3 +93,18 @@ c) más államok hasonló feladatot ellátó szerveivel és a feladatkörét ér
 d) egyéb szervezetekkel.
 
 (4) A miniszter foglalkoztatáspolitikai, munkavédelmi, munkaügyi feladat- és hatáskörében tervezi és szervezi az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes fejlesztési, foglalkoztatási, képzési és informatikai programok megvalósítását, illetve támogatást vagy ösztöndíjat folyósít.
+
+[^4]: A 4. § (1) bekezdés a) pont ac) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (27) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^6]: A 4. § (1) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^7]: A 4. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^8]: A 4. § (1) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^10]: A 4. § (1) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (4) bekezdésével megállapított szöveg.
+[^11]: A 4. § (1) bekezdés j) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
+[^12]: A 4. § (1) bekezdés k) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdés l) pont lc) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (6) bekezdésével megállapított szöveg.
+[^14]: A 4. § (1) bekezdés n) pont na) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (7) bekezdésével megállapított szöveg.
+[^15]: A 4. § (1) bekezdés n) pont nc) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (8) bekezdésével megállapított szöveg.
+[^16]: A 4. § (1) bekezdés q) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (9) bekezdésével megállapított szöveg.
+[^17]: A 4. § (1) bekezdés r) pontját a 70/2015. (III. 30.) Korm. rendelet 258. § (10) bekezdése iktatta be.
