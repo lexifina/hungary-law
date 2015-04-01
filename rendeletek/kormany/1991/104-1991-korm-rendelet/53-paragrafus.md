@@ -1,12 +1,12 @@
 53. § (1) Ez a rendelet 1991. augusztus hó 10. napján lép hatályba.
 
-(2)[^74]
+(2)[^79]
 
 (3) A Tv. kihirdetést követően kötött, határozott időre szóló haszonbérleti szerződést a vételi jog alapján megszerzett termőföld új tulajdonosa azonnali hatállyal felmondja.
 
-(4)[^75] A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25. §-ának (4) bekezdése alapján önkormányzati tulajdonba került földterületekről helyrajzi szám, aranykorona érték (AK), művelési ág és terület megjelölésével a kárpótlási hatóság a területileg illetékes önkormányzatokat értesíti.
+(4)[^80] A szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25. §-ának (4) bekezdése alapján önkormányzati tulajdonba került földterületekről helyrajzi szám, aranykorona érték (AK), művelési ág és terület megjelölésével a kárpótlási hatóság a területileg illetékes önkormányzatokat értesíti.
 
-KITÖLTÉSI ÚTMUTATÓ[^76]
+KITÖLTÉSI ÚTMUTATÓ[^81]
 
 KITÖLTÉSI ÚTMUTATÓ
 
@@ -60,7 +60,7 @@ Ha ez idő hiányában (a 90 napos határidőn belül) nem lehetséges, akkor m�
 
 11. A külföldi állampolgárok a részükre kiállított kárpótlási jegyet külföldre kivihetik, és külföldről behozhatják. A kárpótlási jegyekkel való tulajdonszerzéshez nincs szükség devizahatósági hozzájárulásra vagy pénzügyminisztériumi előzetes engedélyre.
 
-12. Azoknak az igénylőknek, akik a sérelem elszenvedése előtt szerezték meg a tulajdonjogot és a tulajdonjogukat igazoló érvényes okirattal rendelkeznek, de azt az ingatlan-nyilvántartásba még nem vezették át, a földhivataltól bizonyítvány kiállítását kell kérniük. A bizonyítványt és a tulajdonjogot igazoló okiratot is az adatlapokhoz mellékelni kell!
+12. Azoknak az igénylőknek, akik a sérelem elszenvedése előtt szerezték meg a tulajdonjogot és a tulajdonjogukat igazoló érvényes okirattal rendelkeznek, de azt az ingatlan-nyilvántartásba még nem vezették át, az ingatlanügyi hatóságtól bizonyítvány kiállítását kell kérniük. A bizonyítványt és a tulajdonjogot igazoló okiratot is az adatlapokhoz mellékelni kell!
 
 13. Aki az őt megillető kárpótlás fejében termőföldet kíván szerezni, részt kell vennie annak az mgtsz-nek az árverésén, amelynek a földjére igényt tarthat. Az mgtsz árverésén az a kárpótlásra jogosult vehet részt:
 
@@ -186,7 +186,7 @@ A megfelelő okiratot a beadványhoz kell csatolni.
 
 6. „37”-es–”39”-es rovat: az ingatlan-nyilvántartási adatok közül azt az azonosítószámot kell beírni, amely az igénylő nyilvántartási okmányán szerepel (pl. telekkönyvi betétszám). A többi kérdést válasz nélkül kell hagyni. Az igénylő tulajdonjogát igazoló okmányt csatolni kell az adatlapokhoz.
 
-7. A „40”-es rovatba akkor kell a birtokív számát beírni, ha az ingatlan-nyilvántartási okmány nem tartalmazza a föld AK ( aranykorona)-értékét. Birtokívmásolatot az illetékes földhivatalban lehet beszerezni.
+7. A „40”-es rovatba akkor kell a birtokív számát beírni, ha az ingatlan-nyilvántartási okmány nem tartalmazza a föld AK ( aranykorona)-értékét. Birtokívmásolatot az illetékes ingatlanügyi hatóságnál lehet beszerezni.
 
 8. A „41”-es rovatban az ingatlan-nyilvántartási okmányban (telekkönyvi betétben, telekjegyzőkönyvben, tulajdoni lapon) szereplő helyrajzi számot kell feltüntetni. Ha az okmányban több helyrajzi szám szerepel, minden egyes helyrajzi számról külön adatlapot kell kitölteni.
 
@@ -268,7 +268,7 @@ A „V” JELŰ ADATLAP KITÖLTÉSI ÚTMUTATÓJA
 
 5. A „36”-os rovatban a vállalkozás jelenlegi címét kell megadni.
 
-6. „37”-es rovat: a vállalkozás államosításkori alkalmazottairól a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szervétől kell igazolást kérni, a kárpótlási igény benyújtása előtt. Az igazoláshoz az alkalmazottak nevének ismerete szükséges, ezért szíveskedjen a névsort az igazolás kéréséhez összeállítani! Alkalmazottként kell figyelembe venni a a vállalkozásban dolgozó, segítő családtagot, közeli hozzátartozót is.
+6. „37”-es rovat: a vállalkozás államosításkori alkalmazottairól az egészségbiztosítási szervként eljáró fővárosi és megyei kormányhivataltól kell igazolást kérni, a kárpótlási igény benyújtása előtt. Az igazoláshoz az alkalmazottak nevének ismerete szükséges, ezért szíveskedjen a névsort az igazolás kéréséhez összeállítani! Alkalmazottként kell figyelembe venni a a vállalkozásban dolgozó, segítő családtagot, közeli hozzátartozót is.
 
 6. A „38”-as rovat kérdésére a megfelelő szöveg aláhúzásával kell válaszolni.
 
@@ -844,6 +844,6 @@ M101872_1
 
 | Hiánypótlás szükséges: | 44 |  |  | igen (1) | nem (2) | Hiánypótlás határideje: | 45 | 19 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^74]: A Vhr. 53. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 136. §-a hatályon kívül helyezte.
-[^75]: A Vhr. 53. §-ának (4) bekezdését a 124/1995. ( X. 18.) Korm. rendelet 8. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés s) pontja szerint módosított szöveg.
-[^76]: A Kitöltési Útmutató a 360/2008. (XII. 31.) Korm. rendelet 17. § (1) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése, a 68/2014. (III. 13.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^79]: A Vhr. 53. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 136. §-a hatályon kívül helyezte.
+[^80]: A Vhr. 53. §-ának (4) bekezdését a 124/1995. ( X. 18.) Korm. rendelet 8. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 7. § (1) bekezdés s) pontja szerint módosított szöveg.
+[^81]: A Kitöltési Útmutató a 360/2008. (XII. 31.) Korm. rendelet 17. § (1) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése, a 68/2014. (III. 13.) Korm. rendelet 1. § (2) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 5. § c), j) és k) pontja szerint módosított szöveg.
