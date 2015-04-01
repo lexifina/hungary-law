@@ -44,7 +44,7 @@ mb)[^90] rögzítése az építési naplóban,
 
 az alvállalkozó kivitelező által megküldött, teljesítésről szóló értesítés kézhezvételétől – ha szerződés vagy jogszabály átadás-átvételi eljárást határoz meg, ennek lezárásától – számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül,
 
-n)[^91] értesíteni az illetékes környezetvédelmi és természetvédelmi felügyelőséget arról, hogy az építési munkaterületen keletkezett építési-bontási hulladék mennyisége eléri az építési és bontási hulladék kezelésének részletes szabályairól szóló jogszabályban előírt küszöbértéket,
+n)[^91] értesíteni az illetékes környezetvédelmi és természetvédelmi hatóságot arról, hogy az építési munkaterületen keletkezett építési-bontási hulladék mennyisége eléri az építési és bontási hulladék kezelésének részletes szabályairól szóló jogszabályban előírt küszöbértéket,
 
 o)[^92] annak ellenőrzése, hogy az építménybe csak a tervező által a kivitelezési dokumentációban meghatározott, az Étv. 41. §-a szerinti, legalább az elvárt műszaki teljesítményű építési termék kerüljön beépítésre, és a szakszerű beépítés ellenőrzése,
 
@@ -69,7 +69,7 @@ b) a használatbavételi engedélyezési eljáráshoz szükséges felelős műsz
 [^88]: A 13. § (3) bekezdés j) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.1. alpontja szerint módosított szöveg.
 [^89]: A 13. § (3) bekezdés m) pontja a 322/2012. (XI. 16.) Korm. rendelet 69. §-ával megállapított szöveg.
 [^90]: A 13. § (3) bekezdés m) pont mb) alpontja a 62/2014. (III. 6.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^91]: A 13. § (3) bekezdés n) pontját a 311/2009. (XII. 28.) Korm. rendelet 19. §-a iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 92. § f) pont fa) alpontja és az 527/2013. (XII. 30.) Korm. rendelet 76. §-a szerint módosított szöveg.
+[^91]: A 13. § (3) bekezdés n) pontját a 311/2009. (XII. 28.) Korm. rendelet 19. §-a iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 92. § f) pont fa) alpontja és az 527/2013. (XII. 30.) Korm. rendelet 76. §-a, a 70/2015. (III. 30.) Korm. rendelet 139. §-a szerint módosított szöveg.
 [^92]: A 13. § (3) bekezdés o) pontját a 322/2012. (XI. 16.) Korm. rendelet 70. § (1) bekezdése iktatta be.
 [^93]: A 13. § (3) bekezdés p) pontját a 322/2012. (XI. 16.) Korm. rendelet 70. § (1) bekezdése iktatta be.
 [^94]: A 13. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.2. alpontja szerint módosított szöveg.
