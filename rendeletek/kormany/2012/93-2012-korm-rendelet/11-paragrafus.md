@@ -1,6 +1,6 @@
 11. § (1) Az építtetőnek az építési engedély iránti kérelméhez mellékelnie kell:
 
-a) a megvalósítani kívánt építmény műszaki tartalmától függően az 1. melléklet 2–6. pontjának, továbbá az általános érvényű szakmai követelményeknek, műszaki szabályozásnak megfelelő – építészeti-műszaki tervező szakterületnek megfelelő jogosultsággal rendelkező tervező által kidolgozott – útépítési, vízépítési és műtárgyépítési, valamint forgalomtechnikai engedélyezési tervet három példányban; a szakági terveket egy-egy példányban, a szakhatósági állásfoglalást igénylő esetekben a szakhatósági megkeresésekhez, az adott ügyben érintett szakhatóság számára szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban,
+a)[^3] a megvalósítani kívánt építmény műszaki tartalmától függően az 1. melléklet 2–6. pontjának, továbbá az általános érvényű szakmai követelményeknek, műszaki szabályozásnak megfelelő – építészeti-műszaki tervező szakterületnek megfelelő jogosultsággal rendelkező tervező által kidolgozott – útépítési, vízépítési és műtárgyépítési, valamint forgalomtechnikai engedélyezési tervet három példányban; a szakági terveket egy-egy példányban, továbbá a szakhatósági állásfoglalást, illetve szakkérdés vizsgálatát igénylő esetekben a szakhatósági megkeresésekhez, a szakkérdés vizsgálatához szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban,
 
 b) a tervező nyilatkozatát arról, hogy a tervezett műszaki megoldás megfelel a jogszabályoknak, műszaki előírásoknak és az általános érvényű szakmai követelményeknek,
 
@@ -23,3 +23,5 @@ j) a közösségi közlekedési szolgáltatók részére küldött tájékoztat�
 (2) Az államhatáron átnyúló, az államhatárt metsző vagy érintő utakkal, illetve a határhidakkal kapcsolatos engedély iránti kérelem esetében mellékelni kell az építtető erre utaló nyilatkozatát.
 
 (3) A hatóság a tervező tervezési jogosultságát a névjegyzéket vezető szerv által működtetett elektronikus névjegyzékből közvetlenül vagy belföldi jogsegély keretében ellenőrzi.
+
+[^3]: A 11. § (1) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (2) bekezdésével megállapított szöveg.

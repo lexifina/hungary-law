@@ -1,6 +1,6 @@
-## 31. §[^2]
+## 31. §[^5]
 
-1. melléklet a 93/2012. (V. 10.) Korm. rendelethez[^3]
+1. melléklet a 93/2012. (V. 10.) Korm. rendelethez[^6]
 
 Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
@@ -102,7 +102,7 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 2.2.1. | Műtárgyak engedélyezési terve és műszaki leírása – a 4–8. pontban részletezettek szerint. |
 
-| 2.2.2. | Környezetvédelmi munkarész (előzetes régészeti dokumentációval vagy örökségvédelmi hatástanulmánnyal). Az előzetes régészeti dokumentáció vagy örökségvédelmi hatástanulmány az építési engedélyhez szükséges örökségvédelmi szakhatósági hozzájárulás feltétele. |
+| 2.2.2. | Környezetvédelmi munkarész (előzetes régészeti dokumentációval vagy örökségvédelmi hatástanulmánnyal). |
 
 | 2.2.3. | Táj- és természetvédelmi terv, növénytelepítési terv. |
 
@@ -416,5 +416,5 @@ Az egyes engedélykérelmek mellékletét képező tervdokumentációk
 
 | 8.2.7. | Tűzvédelmi dokumentáció. |
 
-[^2]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^5]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 439/2013. (XI. 20.) Korm. rendelet 18. § (4) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 16. §-a, a 70/2015. (III. 30.) 200. § (4) bekezdése szerint módosított szöveg.

@@ -14,7 +14,7 @@ követelmények bármelyikének előzetes tisztázása céljából a hatóságt�
 
 (2) A kérelemhez mellékelni kell:
 
-a) az 1. melléklet 1. pontjának, továbbá az általános érvényű szakmai követelményeknek, műszaki szabályozásnak megfelelő – építészeti-műszaki tervező szakterületnek megfelelő jogosultsággal rendelkező tervező által kidolgozott – elvi engedélyezési tervdokumentációt három példányban, a szakági terveket egy-egy példányban, vagy a szakhatósági állásfoglalást igénylő esetekben a szakhatósági megkeresésekhez, az adott ügyben érintett szakhatóság számára szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban;
+a)[^2] az 1. melléklet 1. pontjának, továbbá az általános érvényű szakmai követelményeknek, műszaki szabályozásnak megfelelő – építészeti-műszaki tervező szakterületnek megfelelő jogosultsággal rendelkező tervező által kidolgozott – elvi engedélyezési tervdokumentációt három példányban, a szakági terveket egy-egy példányban, továbbá a szakhatósági állásfoglalást, illetve szakkérdés vizsgálatát igénylő esetekben a szakhatósági megkeresésekhez, a szakkérdés vizsgálatához szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban;
 
 b) a tervező nyilatkozatát egy példányban arról, hogy a tervezett műszaki megoldás megfelel a jogszabályoknak, műszaki előírásoknak és az általános érvényű szakmai követelményeknek;
 
@@ -25,3 +25,5 @@ d) új országos közút esetében az útkategóriába sorolásra, azonosításr
 e) kormányrendeletben meghatározott esetekben az engedélyezési tervek közúti biztonsági auditjának vizsgálati jelentését és az építtető arra vonatkozó nyilatkozatát.
 
 (3) A hatóság a tervező tervezési jogosultságát a névjegyzéket vezető szerv által működtetett elektronikus névjegyzékből közvetlenül vagy belföldi jogsegély keretében ellenőrzi.
+
+[^2]: A 8. § (2) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (1) bekezdésével megállapított szöveg.
