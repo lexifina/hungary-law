@@ -1,7 +1,7 @@
-## 42. §[^18]
+## 42. §[^17]
 
 ## 14. A szociális és gyermekvédelmi ellátások országos nyilvántartásáról szóló
 
 ## 392/2013. (XI. 12.) Korm. rendelet módosítása
 
-[^18]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
