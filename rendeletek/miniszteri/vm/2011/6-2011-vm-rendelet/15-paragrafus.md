@@ -8,4 +8,6 @@ b) a 14. mellékletben meghatározott légszennyező tevékenységek esetében a
 
 (3) Az időszakos mérési kötelezettség gyakoriságát a környezetvédelmi hatóság írja elő.
 
-(4) Bűzkibocsátó források esetén a kibocsátó forrás szagkibocsátását, az alkalmazott szagcsökkentő berendezés, illetve szagcsökkentő rendszer hatásfokát időszakosan, a felügyelőség döntésétől függően évente vagy két évente olfaktometriás méréssel kell ellenőrizni.
+(4)[^1] Bűzkibocsátó források esetén a kibocsátó forrás szagkibocsátását, az alkalmazott szagcsökkentő berendezés, illetve szagcsökkentő rendszer hatásfokát időszakosan, a környezetvédelmi hatóság döntésétől függően évente vagy két évente olfaktometriás méréssel kell ellenőrizni.
+
+[^1]: A 15. § (4) bekezdése a 15/2015. (III. 31.) FM rendelet 29. §-a szerint módosított szöveg.

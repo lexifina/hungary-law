@@ -1,4 +1,4 @@
-## 26–27. §[^2]
+## 26–27. §[^3]
 
 1. melléklet a 6/2011. (I. 14.) VM rendelethez
 
@@ -60,4 +60,4 @@
 
 3.3. Szigeteken lévő zónákban a helyhez kötött mérésekre szolgáló mintavételi pontok számát a levegő szennyezettségének valószínű eloszlása és a növényzet potenciális expozíciójának figyelembevételével kell kiszámítani.
 
-[^2]: A 17. alcímet és a 26–27. §-t a 27. § hatályon kívül helyezte.
+[^3]: A 17. alcímet és a 26–27. §-t a 27. § hatályon kívül helyezte.
