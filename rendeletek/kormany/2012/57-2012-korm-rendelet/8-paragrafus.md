@@ -24,7 +24,7 @@ nem rendelkezett, és
 
 f) saját maga és adóstársa írásban hozzájárul ahhoz, hogy
 
-fa) a 3. § (2) bekezdésében meghatározott adatokat, továbbá a munkáltatójának nevét, címét és adószámát, valamint a kamattámogatás szempontjából figyelembe vett gyermek adóazonosító jelét a pénzügyi intézmény a kincstár részére átadja, és
+fa)[^10] a 3. § (2) bekezdésében meghatározott adatokat, továbbá a munkáltatójának nevét, címét és adószámát, valamint a kamattámogatás szempontjából figyelembe vett gyermek adóazonosító jelét a pénzügyi intézmény a kincstár, valamint a kormányhivatal részére átadja, és
 
 fb) az 5. § (1) bekezdése szerinti adatokat a munkáltatója kezelje.
 
@@ -35,3 +35,5 @@ a) együttesen legfeljebb 50 százalékos tulajdoni hányada van egy olyan lakó
 b) a tulajdonukban lévő lakóingatlan lebontását az építésügyi hatóság elrendelte vagy engedélyezte, vagy
 
 c) a lakóingatlan több mint két éve öröklés vagy ajándékozás jogcímén haszonélvezettel terhelten került a tulajdonukba és a haszonélvező bent lakik.
+
+[^10]: A 8. § (1) bekezdés f) pont fa) alpontja a 70/2015. (III. 30.) Korm. rendelet 195. § (5) bekezdés b) pontja szerint módosított szöveg.
