@@ -1,28 +1,24 @@
-## Az 1. § (3) bekezdésben hivatkozott szakhatóságok
+## A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
 |  | A | B | C |
 
-|  |  | Első fokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködés tárgya | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 1. | Közlekedés |  |  |
+| 2. | Közlekedés: gyorsforgalmi utak esetében, és 30 méter szabad nyílást meghaladó közúti hidak esetén | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 1.1. | gyorsforgalmi utak esetében, és 30 méter szabad nyílást meghaladó közúti hidak esetén | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 3. | Közlekedés: az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes fővárosi és megyei kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 1.2. | az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | fővárosi és megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 4. | Vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 2. | vasút, hajózás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 5. | Polgári célú légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 3. | Légiközlekedés |  |  |
+| 6. | Állami célú légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | honvédelemért felelős miniszter |
 
-| 3.1. | polgári célú | Nemzeti Közlekedési Hatóság Légügyi Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 7. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal | Budapest Főváros Kormányhivatala |
 
-| 3.2. | állami célú | Nemzeti Közlekedési Hatóság Légügyi Hivatala | honvédelemért felelős miniszter |
+| 8. | Műszaki biztonság | illetékes fővárosi és megyei kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 4. | Régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
-
-| 5. | Műszaki biztonság | fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
-
-3. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^11]
+3. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^13]
 
 ## Az 1. § (2a) bekezdése szerinti közigazgatási hatósági eljárások
 
@@ -50,4 +46,4 @@
 
 12. az 1–11. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^11]: A 3. számú mellékletet a 377/2013. (X. 25.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^13]: A 3. számú mellékletet a 377/2013. (X. 25.) Korm. rendelet 4. § (2) bekezdése iktatta be.
