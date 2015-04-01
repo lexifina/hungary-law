@@ -1,3 +1,3 @@
-## 2.[^4] Illetékességi szabályok
+## 2.[^5] Illetékességi szabályok
 
-[^4]: A 2. §-t megelőző alcím a 95/2012. (V. 15.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. §-t megelőző alcím a 95/2012. (V. 15.) Korm. rendelet 46. § (2) bekezdésével megállapított szöveg.

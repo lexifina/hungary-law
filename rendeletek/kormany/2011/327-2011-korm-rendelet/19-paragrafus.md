@@ -4,7 +4,7 @@
 
 (2) A foglalkozási és szociális rehabilitációs szükségleteket és a hozzájuk kapcsolódó rehabilitációs szolgáltatásokat az 1. melléklet tartalmazza. Az orvosi rehabilitációs szolgáltatások az egészségügyről szóló 1997. évi CLIV. törvény 100. § (4) és (5) bekezdésében foglalt szolgáltatások, figyelembe véve a kötelező egészségbiztosítás ellátásait meghatározó törvény által előírt, az orvosi rehabilitáció keretében nyújtható szolgáltatásokat.
 
-(3)[^42] A rehabilitációs szakigazgatási szerv a rehabilitációs tervben foglaltak végrehajtása érdekében a rehabilitációs ellátásban részesülő személynek rehabilitációs mentort (a továbbiakban: mentor) jelölhet ki.
+(3)[^43] A első fokon eljáró rehabilitációs hatóság a rehabilitációs tervben foglaltak végrehajtása érdekében a rehabilitációs ellátásban részesülő személynek rehabilitációs mentort (a továbbiakban: mentor) jelölhet ki.
 
 (4) Kötelező a mentor kijelölése abban az esetben, ha
 
@@ -18,12 +18,12 @@ a) a rehabilitációs ellátásban részesülő személynek a rehabilitációs s
 
 b) a rehabilitációs tervben foglaltak szerint rendszeres kapcsolattartást a rehabilitációs ellátásban részesülő személlyel, amely során figyelemmel kell kísérni a mentális, fizikai és egészségi állapotát, a rehabilitációs tervben foglaltak megvalósulását és közre kell működni az akadályok elhárításában,
 
-c)[^43] tájékoztatási kötelezettség teljesítését a rehabilitációs szakigazgatási szerv felé, ha a rehabilitációs tervben foglaltak megvalósulását ellehetetlenítő körülmény merült fel, vagy a rehabilitációs terv módosítása vált szükségessé,
+c)[^44] tájékoztatási kötelezettség teljesítését az első fokon eljáró rehabilitációs hatóság felé, ha a rehabilitációs tervben foglaltak megvalósulását ellehetetlenítő körülmény merült fel, vagy a rehabilitációs terv módosítása vált szükségessé,
 
 d) közreműködést a rehabilitációs terv módosításában.
 
-(6)[^44] A mentori szolgáltatást nyújtó a rehabilitációs tervben foglaltak megvalósulásáról és az (5) bekezdésben foglalt intézkedésekről rehabilitációs naplót vezet, és tevékenységéről havonta beszámol a rehabilitációs szakigazgatási szervnek.
+(6)[^45] A mentori szolgáltatást nyújtó a rehabilitációs tervben foglaltak megvalósulásáról és az (5) bekezdésben foglalt intézkedésekről rehabilitációs naplót vezet, és tevékenységéről havonta beszámol az első fokon eljáró rehabilitációs hatóságnak.
 
-[^42]: A 19. § (3) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (11) bekezdés i) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
-[^43]: A 19. § (5) bekezdés c) pontja a 95/2012. (V. 15.) Korm. rendelet 46. § (11) bekezdés i) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
-[^44]: A 19. § (6) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (11) bekezdés n) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
+[^43]: A 19. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^44]: A 19. § (5) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^45]: A 19. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés o) pontja szerint módosított szöveg.
