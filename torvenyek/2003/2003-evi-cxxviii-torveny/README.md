@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-128-00-00
 | 2013-01-01 | 2012. évi CCVIII. törvény | 2003-128-00-00.23 |
 | 2013-12-15 | 2013. évi CCXII. törvény | 2003-128-00-00.24 |
 | 2014-05-06 | 2014. évi XIV. törvény | 2003-128-00-00.25 |
+| 2015-04-01 | 2015. évi VI. törvény | 2003-128-00-00.26 |
