@@ -14,9 +14,9 @@ d) amelyek – megfelelő kezelés ellenére – hosszan tartó, visszatérő me
 
 e) amelyek súlyos késői hatással járó fertőzést okozhatnak.
 
-A jegyzék megőrzéséről a munkáltató gondoskodik. Amennyiben a munkáltató tevékenységét megszünteti, az (1) bekezdés szerinti jegyzéket a munkavédelmi felügyelőségnek átadja.
+A jegyzék megőrzéséről a munkáltató gondoskodik. Amennyiben a munkáltató tevékenységét megszünteti, az (1) bekezdés szerinti jegyzéket a munkavédelmi hatóságnak átadja.
 
-(3)[^11] A foglalkozás-egészségügyi orvos, a munkavédelmi felügyelőség felügyelője, továbbá a munkahelyen a biztonságért és az egészségvédelemért felelős személy jogosult az (1) bekezdés szerinti jegyzékben szereplő adatokhoz hozzáférni.
+(3)[^11] A foglalkozás-egészségügyi orvos, a munkavédelmi hatóság felügyelője, továbbá a munkahelyen a biztonságért és az egészségvédelemért felelős személy jogosult az (1) bekezdés szerinti jegyzékben szereplő adatokhoz hozzáférni.
 
-[^10]: A 11. § (2) bekezdésének harmadik és negyedik mondatát a 18/2007. (V. 10.) SZMM rendelet 12. § (7) bekezdése iktatta be.
-[^11]: A 11. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (5) bekezdésének c) pontja szerint módosított szöveg.
+[^10]: A 11. § (2) bekezdése a 18/2007. (V. 10.) SZMM rendelet 12. § (7) bekezdése, a 9/2015. (III. 31.) NGM rendelet 15. § d) pontja szerint módosított szöveg.
+[^11]: A 11. § (3) bekezdése a 9/2015. (III. 31.) NGM rendelet 15. § c) pontja szerint módosított szöveg.

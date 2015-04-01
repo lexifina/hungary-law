@@ -1,6 +1,6 @@
 ## Orvosi felügyelet
 
-13. § (1)[^14] Biológiai tényezővel kapcsolatos tevékenységet csak abban az esetben lehet végezni, ha a munkavédelmi felügyelőség ellenőrizte, hogy a szervezett munkavégzésben foglalkoztatott munkavállaló foglalkozás-egészségügyi ellátása biztosított.
+13. § (1)[^14] Biológiai tényezővel kapcsolatos tevékenységet csak abban az esetben lehet végezni, ha a munkavédelmi hatóság ellenőrizte, hogy a szervezett munkavégzésben foglalkoztatott munkavállaló foglalkozás-egészségügyi ellátása biztosított.
 
 (2) A munkavállaló előzetes, időszakos, valamint soron kívüli munkaköri alkalmasságának vizsgálatára és véleményezésére a külön jogszabály[^15] rendelkezéseit kell alkalmazni.
 
@@ -10,12 +10,12 @@
 
 (5) Az azzal megbízott foglalkozás-egészségügyi orvos az oltásra vonatkozó adatokat (oltóanyag megnevezése, gyártási száma, az oltás ideje) a munkavállaló egészségügyi törzslapján is feljegyzi.
 
-(6)[^17] A védőoltást a munkavállaló számára térítésmentesen kell biztosítani. Az oltóorvos a foglalkozás-egészségügyi szolgálat orvosa. A védőoltás megtörténtét a „Védőoltási könyv 14 év feletti személyek részére” elnevezésű oltási könyvbe, 2009. szeptember 1-jét követően kiadott Egészségügyi Könyv esetén annak „Védőoltási adatlapjába” kell bejegyezni, amelyet a munkáltatónak, illetve – kérelemre – a munkavédelmi felügyelőségnek be kell mutatni, valamint a járási népegészségügyi intézetnek kérésére annak rendelkezésére kell bocsátani.
+(6)[^17] A védőoltást a munkavállaló számára térítésmentesen kell biztosítani. Az oltóorvos a foglalkozás-egészségügyi szolgálat orvosa. A védőoltás megtörténtét a „Védőoltási könyv 14 év feletti személyek részére” elnevezésű oltási könyvbe, 2009. szeptember 1-jét követően kiadott Egészségügyi Könyv esetén annak „Védőoltási adatlapjába” kell bejegyezni, amelyet a munkáltatónak, illetve – kérelemre – a munkavédelmi hatóságnak be kell mutatni, valamint a népegészségügyi feladatkörében eljáró járási hivatalnak kérésére annak rendelkezésére kell bocsátani.
 
-(7)[^18] A foglalkozás-egészségügyi szolgálat az általa végzett védőoltásokról évente, a tárgyévet követő év január 5. napjáig összefoglaló jelentést küld a járási népegészségügyi intézetnek és a munkavédelmi felügyelőségnek.
+(7)[^18] A foglalkozás-egészségügyi szolgálat az általa végzett védőoltásokról évente, a tárgyévet követő év január 5. napjáig összefoglaló jelentést küld a népegészségügyi feladatkörében eljáró járási hivatalnak és a munkavédelmi hatóságnak.
 
-[^14]: A 13. § (1) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (5) bekezdésének d) pontja szerint módosított szöveg.
+[^14]: A 13. § (1) bekezdése a 9/2015. (III. 31.) NGM rendelet 15. § c) pontja szerint módosított szöveg.
 [^15]: A népjóléti miniszter 33/1998. (VI. 24.) NM rendelete a munkaköri, a szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről.
 [^16]: A 13. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 12. § (8) bekezdésével megállapított szöveg.
-[^17]: A 13. § (6) bekezdése a 27/2010. (XII. 30.) NGM rendelet 19. § (3) bekezdésével megállapított, a 48/2012. (XII. 28.) NGM rendelet 6. § c) pontja szerint módosított szöveg.
-[^18]: A 13. § (7) bekezdése a 27/2010. (XII. 30.) NGM rendelet 19. § (3) bekezdésével megállapított, a 48/2012. (XII. 28.) NGM rendelet 6. § d) pontja szerint módosított szöveg.
+[^17]: A 13. § (6) bekezdése a 27/2010. (XII. 30.) NGM rendelet 19. § (3) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 15. § d)–e) pontja szerint módosított szöveg.
+[^18]: A 13. § (7) bekezdése a 27/2010. (XII. 30.) NGM rendelet 19. § (3) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 15. § d)–e) pontja szerint módosított szöveg.
