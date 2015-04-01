@@ -72,7 +72,7 @@ A természetvédelmi kezelés részletes előírásait – a természetvédelmi 
 
 – A vadállományt a körzeti vadgazdálkodási tervben meghatározott, az élőhelyet még nem veszélyeztető vadlétszám szintjére kell csökkenteni.
 
-– A vadászati létesítményeket a természetvédelem, turizmus, kutatás szempontjait figyelembe véve kell elhelyezni a területen. A vadászati létesítmények engedélyezési eljárása során a természetvédelmi szakhatóság az igazgatóság szakvéleményének figyelembevételével adja meg szakmai állásfoglalását.
+–[^1] A vadászati létesítményeket a természetvédelem, turizmus, kutatás szempontjait figyelembe véve kell elhelyezni a területen. A vadászati létesítmények engedélyezési eljárása során a természetvédelmi hatóság a szakkérdés vizsgálata során az igazgatóság szakvéleményének figyelembevételével jár el.
 
 – A területen vadat vonzó vadgazdálkodási berendezés (sózó, szóró) elhelyezése tilos.
 
@@ -103,3 +103,5 @@ A természetvédelmi kezelés részletes előírásait – a természetvédelmi 
 – A halak etetését minimalizálni kell, a gazdálkodást a természetes eltartóképességre kell alapozni.
 
 – A halastó töltéseit folyamatosan karban kell tartani.
+
+[^1]: A 2. számú melléklet 3.1.6. alpont második franciabekezdése a 15/2015. (III. 31.) FM rendelet 24. §-a szerint módosított szöveg.
