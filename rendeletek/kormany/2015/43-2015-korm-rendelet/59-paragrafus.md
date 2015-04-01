@@ -1,0 +1,5 @@
+## 58. §[^10]
+
+## 24. A többlettőke-követelmény
+
+[^10]: Az 58. § a 86. § (2) bekezdése alapján 2016. január 1-jén lép hatályba.
