@@ -44,7 +44,9 @@ k) múzeumi, levéltári, oktatási tevékenységgel kapcsolatos feladatokat lá
 
 l) ellátja az egyéb, jogszabály vagy a miniszter által a feladatkörébe utalt feladatokat.
 
-(2) A területi vízügyi igazgatóság vagyongazdálkodási feladatai körében fenntartja, üzemelteti és fejleszti az egyes állami tulajdonú vagyontárgyakat (medrek, vízilétesítmények, erdők), így különösen a vízrajzi törzshálózatot, illetve az állami alapfeladatokat ellátó vízrajzi üzemi hálózatot, a távlati ivóvízbázisok mérő- és megfigyelő rendszerét, a vízminőségi monitoring-rendszert, az ár- és belvízvédelmi létesítményeket, a vízelvezető műveket, az öntözési célú vízilétesítményeket, a vízépítési műtárgyakat, a vízlépcsőket, a folyók duzzasztott tereit, a vízelosztó- és többes rendeltetésű rendszereket, továbbá a vízkészlet-gazdálkodási feladatokat ellátó vízátvezető, vízpótló műveket.
+(2)[^3] A területi vízügyi igazgatóság vagyongazdálkodási feladatai körében fenntartja, üzemelteti és fejleszti az egyes állami tulajdonú vagyontárgyakat (medrek, vízilétesítmények, erdők), így különösen a vízrajzi törzshálózatot, illetve az állami alapfeladatokat ellátó vízrajzi üzemi hálózatot, a távlati ivóvízbázisok mérő- és megfigyelő rendszerét, az üzemeltetési monitorozó rendszereket, az ár- és belvízvédelmi létesítményeket, a vízelvezető műveket, az öntözési célú vízilétesítményeket, a vízépítési műtárgyakat, a vízlépcsőket, a folyók duzzasztott tereit, a vízelosztó- és többes rendeltetésű rendszereket, továbbá a vízkészlet-gazdálkodási feladatokat ellátó vízátvezető, vízpótló műveket.
+
+(2a)[^4] A távlati ivóvízbázisok mérő- és megfigyelő rendszere mellett a területi vízügyi igazgatóság fenntartja a kezelésébe tartozó felszín alatti területi vízminőségi monitoring hálózat vízilétesítményeit is.
 
 (3) A területi vízügyi igazgatóság végzi
 
@@ -109,3 +111,6 @@ g) a többoldalú nemzetközi együttműködések vízgazdálkodási feladataina
 (7) A területi vízügyi igazgatóság véleményezi a kiemelt térségre és a megyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket.
 
 (8) A területi vízügyi igazgatóság együttműködik a helyi önkormányzatokkal és a vízitársulatokkal a vízgazdálkodási feladatok megoldásában.
+
+[^3]: A 7. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdésével megállapított szöveg.
+[^4]: A 7. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdése iktatta be.
