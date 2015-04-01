@@ -364,60 +364,36 @@
 
 |  |  | Technikusóra | 7 000 |
 
-2. számú melléklet a 72/2007. (IV. 17.) Korm. rendelethez[^6]
+2. számú melléklet a 72/2007. (IV. 17.) Korm. rendelethez[^7]
 
 Az eljáró közigazgatási szerv fizetési számlája
 
 |  | A | B |
 
-| 1 | Eljáró szerv | Fizetési számlák száma |
+| 1. | Eljáró szerv | Fizetési számlák száma |
 
-| 2 | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | 10032000-00287261-00000000 |
+| 2. | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | 10032000-00287261-00000000 |
 
-| 3 | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | 10033001-01711899-00000000 |
+| 3. | Baranya Megyei Kormányhivatal | 10024003-00299585-00000000 |
 
-| 4 | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | 10032000-01711806-00000000 |
+| 4. | Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
-| 5 | Közép-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | 10029008-01711882-00000000 |
+| 5. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00299561-00000000 |
 
-| 6 | Dél-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | 10024003-01711837-00000000 |
+| 6. | Csongrád Megyei Kormányhivatal | 10028007-00299664-00000000 |
 
-| 7 | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | 10047004-01711947-00000000 |
+| 7. | Fejér Megyei Kormányhivatal | 10029008-00299640-00000000 |
 
-| 8 | Felső-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | 10044001-01711923-00000000 |
+| 8. | Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
 
-| 9 | Észak-Magyarországi Környezetvédelmi és Természetvédelmi Felügyelőség | 10027006-01711868-00000000 |
+| 9. | Hajdú-Bihar Megyei Kormányhivatal | 10034002-00299626-00000000 |
 
-| 10 | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | 10034002-01711916-00000000 |
+| 10. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00299602-00000000 |
 
-| 11 | Közép-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | 10045002-01711930-00000000 |
+| 11. | Pest Megyei Kormányhivatal | 10023002-00333489-00000000 |
 
-| 12 | Alsó-Tisza-vidéki Környezetvédelmi és Természetvédelmi Felügyelőség | 10028007-01711875-00000000 |
+| 12. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00299695-00000000 |
 
-| 13 | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
+| 13. | Vas Megyei Kormányhivatal | 10047004-00299523-00000000 |
 
-| 14 | Baranya Megyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
-
-| 15 | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
-
-| 16 | Békés Megyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
-
-| 17 | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
-
-| 18 | Csongrád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
-
-| 19 | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
-
-| 20 | Fővárosi Katasztrófavédelmi Igazgatóság | 10023002-00319566-00000000 |
-
-| 21 | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
-
-| 22 | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
-
-| 23 | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
-
-| 24 | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
-
-| 25 | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
-
-[^6]: A 2. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 377. §-ával megállapított szöveg.
+[^7]: A 2. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg.

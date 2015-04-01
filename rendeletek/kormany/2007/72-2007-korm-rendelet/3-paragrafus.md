@@ -1,4 +1,4 @@
-3. § (1)[^3] Az eljárási költséget az eljáró közigazgatási szervnek a Magyar Államkincstárnál vezetett, e rendelet 2. számú mellékletében meghatározott fizetési számlájára kell átutalási megbízással teljesíteni, vagy készpénz-átutalási megbízással (csekk) postai úton befizetni.
+3. § (1)[^4] Az eljárási költséget az eljáró közigazgatási szervnek a Magyar Államkincstárnál vezetett, e rendelet 2. számú mellékletében meghatározott fizetési számlájára kell átutalási megbízással teljesíteni, vagy készpénz-átutalási megbízással (csekk) postai úton befizetni.
 
 (2) Az eljárási költséget a döntés jogerőre emelkedésétől számított 15 napon belül kell az ügyfélnek megfizetnie.
 
@@ -8,4 +8,4 @@
 
 (5) Amennyiben az ügyfél elektronikus úton intézi az eljárási költség megfizetését, arra a külön jogszabályban foglaltakat kell alkalmazni.
 
-[^3]: A 3. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 378. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 378. § a) pontja szerint módosított szöveg.
