@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-389-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2012-12-20 | 2012-389-20-22.1 | 389/2012. (XII. 19.) Korm. rendelet |
+| 2015-04-01 | 2012-389-20-22.2 | 72/2015. (III. 30.) Korm. rendelet |
