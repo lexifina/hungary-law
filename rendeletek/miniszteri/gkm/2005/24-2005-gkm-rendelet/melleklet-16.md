@@ -1,4 +1,4 @@
-16. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^381]
+16. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^419]
 
 ## Az e-learning rendszerű képzésekre vonatkozó követelmények
 
@@ -48,7 +48,7 @@ be) színvonala és kidolgozottsága – ide értve de nem kizárólagosan a spe
 
 II. Követelmények
 
-1.[^382] Az e-learning rendszerű képzésben alkalmazható Rendszereknek akkreditációjára és üzemeltetésre vonatkozó követelmények, előírások:
+1.[^420] Az e-learning rendszerű képzésben alkalmazható Rendszereknek akkreditációjára és üzemeltetésre vonatkozó követelmények, előírások:
 
 a) a Rendszer akkreditációját megszerezni kívánó képző szervnek az akkreditációs időszak teljes idejére igazolnia kell a tanúsított és szabványos Rendszer jogszerű felhasználhatóságát legalább ezer konkurens (egyidejű) felhasználóra vonatkozóan,
 
@@ -80,8 +80,8 @@ m) a modulok végén önellenőrző tesztet kell biztosítani a tanuló számár
 
 a) a képzés Tananyagát – az e-learning tananyagokra vonatkozó speciális pedagógiai és didaktikai elvárásokra figyelemmel – olyan mennyiségű és színvonalú animációval és önellenőrző teszttel kell megvalósítani, hogy az előírt ismeretanyagot egy átlagos képességű tanuló külső segítség nélkül is el tudja sajátítani és megszerzett tudásának megfelelőségéről önállóan meg tudjon győződni,
 
-b)[^383] képzésen belül a Tananyagnak modulárisan kell felépülnie, oly módon, hogy egy átlagos képességű tanulónak képesnek kell lennie bármely modul egyszerre történő elvégzésére. A modulokat fejezetekbe kell szervezni olyan módon, hogy egy fejezet legfeljebb tíz modult tartalmazhat.
+b)[^421] képzésen belül a Tananyagnak modulárisan kell felépülnie, oly módon, hogy egy átlagos képességű tanulónak képesnek kell lennie bármely modul egyszerre történő elvégzésére. A modulokat fejezetekbe kell szervezni olyan módon, hogy egy fejezet legfeljebb tíz modult tartalmazhat.
 
-[^381]: A 16. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (14) bekezdése iktatta be.
-[^382]: A 16. melléklet II. Fejezet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.
-[^383]: A 16. melléklet II. Fejezet 2. pont c) alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.
+[^419]: A 16. mellékletet az 58/2011. (XI. 24.) NFM rendelet 39. § (14) bekezdése iktatta be.
+[^420]: A 16. melléklet II. Fejezet 1. pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.
+[^421]: A 16. melléklet II. Fejezet 2. pont c) alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (10) bekezdésével megállapított szöveg.

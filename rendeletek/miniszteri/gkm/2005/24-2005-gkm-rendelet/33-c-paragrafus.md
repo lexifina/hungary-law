@@ -1,14 +1,14 @@
-## Szakmai továbbképzés[^140]
+## Szakmai továbbképzés[^157]
 
-33/C. §[^141] (1)[^142] A 33/A. § a) pontjában meghatározott gépkocsivezető a közúton történő járművezetéshez
+33/C. §[^158] (1)[^159] A 33/A. § a) pontjában meghatározott gépkocsivezető a közúton történő járművezetéshez
 
 a) az alapképesítés megszerzését követő öt éven belül, vagy
 
 b) ha az alapképesítés megszerzésére nem kötelezett
 
-ba) a D1, D1+E, D, D+E kategóriájú jármű esetében – a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló minisztertanácsi rendelet alapján kiadott – nemzetközi vagy belföldi autóbuszos szolgáltatói képesítés (bizonyítvány) hatályának lejártát követően, de legfeljebb 2013. szeptember 10-éig, és
+ba)[^160] a D1, D1E, D, DE kategóriájú jármű esetében – a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló minisztertanácsi rendelet alapján kiadott – nemzetközi vagy belföldi autóbuszos szolgáltatói képesítés (bizonyítvány) hatályának lejártát követően, de legfeljebb 2013. szeptember 10-éig, és
 
-bb) a C1, C1+E, C, C+E kategóriájú jármű esetében – a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló minisztertanácsi rendelet alapján kiadott – nemzetközi vagy belföldi árufuvarozó szolgáltatói képesítés (bizonyítvány) hatályának lejártát követően, de legfeljebb 2014. szeptember 10-éig
+bb)[^161] a C1, C1E, C, CE kategóriájú jármű esetében – a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló minisztertanácsi rendelet alapján kiadott – nemzetközi vagy belföldi árufuvarozó szolgáltatói képesítés (bizonyítvány) hatályának lejártát követően, de legfeljebb 2014. szeptember 10-éig
 
 ## a szakmai továbbképzési képesítés (a továbbiakban: továbbképzési képesítés) megszerzésére kötelezett.
 
@@ -24,6 +24,8 @@ c) EGT-államban szerzett alapképesítéssel rendelkezik vagy ennek megszerzés
 
 (4) A továbbképzési képesítés megszerzésével kapcsolatos rendelkezéseket a 13. melléklet tartalmazza.
 
-[^140]: A 33/C. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^141]: A 33/C. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
-[^142]: A 33/C. § (1) bekezdése a 47/2012. (VIII. 23.) NFM rendelet 1. §-ával megállapított szöveg.
+[^157]: A 33/C. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^158]: A 33/C. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be.
+[^159]: A 33/C. § (1) bekezdése a 47/2012. (VIII. 23.) NFM rendelet 1. §-ával megállapított szöveg.
+[^160]: A 33/C. § (1) bekezdés b) pont ba) alpontja a 14/2015. (III. 31.) NFM rendelet 10. § e) pontja szerint módosított szöveg.
+[^161]: A 33/C. § (1) bekezdés b) pont bb) alpontja a 14/2015. (III. 31.) NFM rendelet 10. § f) pontja szerint módosított szöveg.

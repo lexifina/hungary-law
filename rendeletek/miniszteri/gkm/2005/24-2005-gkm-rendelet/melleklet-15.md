@@ -88,7 +88,7 @@
 
 ## 8. a lakóhelye vagy tartózkodási hely postai címe (nem kell kitölteni);
 
-## 9. azon gépjármű-kategória, -alkategória, amelyekre vonatkozóan a gépjárművezető megfelel az alapképesítési vagy szakmai továbbképzési követelménynek;
+## 9. azon gépjármű kategória, amelyre vonatkozóan a gépjárművezető megfelel az alapképesítési vagy szakmai továbbképzési követelménynek;
 
 ## 10. közösségi kód: 95 szám és a vezetői engedély kategóriájához tartozó alapképesítés vagy szakmai továbbképzés érvényességi dátuma;
 
@@ -156,6 +156,6 @@
 
 ## db) sárga: Pantone Yellow.
 
-15. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^380]
+15. számú melléklet a 24/2005. (IV. 21.) GKM rendelethez[^418]
 
-[^380]: A 15. számú mellékletet a 85/2009. (XII. 30.) KHEM rendelet 20. § (5) bekezdése iktatta be, hatályon kívül helyezet a 45/2013. (VIII. 7.9 NFM rendelet 21. § p) pontja.
+[^418]: A 15. számú mellékletet a 85/2009. (XII. 30.) KHEM rendelet 20. § (5) bekezdése iktatta be, hatályon kívül helyezet a 45/2013. (VIII. 7.9 NFM rendelet 21. § p) pontja.
