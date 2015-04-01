@@ -4,4 +4,6 @@
 
 a) a fogyasztóvédelmi hatósággal, valamint
 
-b) a fővárosi és megyei kormányhivatal munkavédelmi felügyelőségével és a munkaügyi felügyelőségével.
+b)[^11] a területileg illetékes munkavédelmi hatósági és munkaügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal.
+
+[^11]: A 6. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 170. § (1) bekezdésével megállapított szöveg.

@@ -10,6 +10,6 @@
 
 ## aláírás
 
-3. melléklet a 23/2011. (III. 8.) Korm. rendelethez[^18]
+3. melléklet a 23/2011. (III. 8.) Korm. rendelethez[^19]
 
-[^18]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
