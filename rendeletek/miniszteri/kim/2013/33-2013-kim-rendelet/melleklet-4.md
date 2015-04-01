@@ -30,4 +30,6 @@
 
 | 14 | 11. |  |  |  |  |  |  |  |
 
-4. melléklet a 33/2013. (XII. 23.) KIM rendelethez
+4. melléklet a 33/2013. (XII. 23.) KIM rendelethez[^5]
+
+[^5]: A 4. melléke3. § (1) bekezdése a 18/2015. (III. 31.) MvM rendelet 2. § b) pontja szerint módosított szöveg.
