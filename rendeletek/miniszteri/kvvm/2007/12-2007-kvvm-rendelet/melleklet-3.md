@@ -120,7 +120,7 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 
 – A magterületen vadgazdálkodási és vadászati létesítmény nem üzemeltethető.
 
-– A védőzónában csak a természetvédelmi hatóság szakhatósági állásfoglalása szerinti vadgazdálkodási és vadászati létesítmények (pl. magasles, szóró, sózó) tarthatók fenn. A használaton kívüli berendezések elbontásáról gondoskodni kell.
+–[^1] A védőzónában csak a természetvédelmi hatóság szerinti vadgazdálkodási és vadászati létesítmények (pl. magasles, szóró, sózó) tarthatók fenn. A használaton kívüli berendezések elbontásáról gondoskodni kell.
 
 – Hordozható (mobil) magaslesek a védőzónában szabadon elhelyezhetők, de mellettük engedély nélkül egyéb vadgazdálkodási létesítmény nem létesíthető.
 
@@ -159,3 +159,5 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 – A területet érintő főbb közlekedési utak (burkolt utak és földutak) mentén – a közút mellett elhelyezhető jelzésekre vonatkozó szabályok betartásával – természetvédelmi hatósági tájékoztató táblákat kell elhelyezni, és gondoskodni kell azok fenntartásáról.
 
 – A Pálma-forrás melletti tisztást, illetve pihenőhelyet a területet érintő turistaforgalom számára továbbra is fenn kell tartani. A pihenőhely berendezései csak tájba illő, esztétikus anyagokból és megoldásokkal újíthatók fel vagy cserélhetők ki.
+
+[^1]: A 3. melléklet 3.2.4. alpont harmadik franciabekezdése a 15/2015. (III. 31.) FM rendelet 21. §-a szerint módosított szöveg.
