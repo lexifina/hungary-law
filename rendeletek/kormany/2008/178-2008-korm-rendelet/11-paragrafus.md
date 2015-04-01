@@ -2,9 +2,9 @@
 
 ## az értékkülönbözet megfizetése tekintetében adható fizetési kedvezmény szabályai
 
-11. § (1)[^17] A fővárosi és megyei kormányhivatal (a továbbiakban: kisajátítási hatóság) a csereingatlannal történő kártalanítás esetében a kisajátított ingatlan és a csereingatlan közötti értékkülönbözet megfizetésére kötelezett magánszemély részére a részletfizetés engedélyezésekor irányadó jegybanki alapkamattal terhelten legfeljebb tízévi részletfizetést engedélyezhet, a havi részlet összege azonban ötezer forintnál kevesebb nem lehet.
+11. § (1)[^20] A kisajátítási hatóság a csereingatlannal történő kártalanítás esetében a kisajátított ingatlan és a csereingatlan közötti értékkülönbözet megfizetésére kötelezett magánszemély részére a részletfizetés engedélyezésekor irányadó jegybanki alapkamattal terhelten legfeljebb tízévi részletfizetést engedélyezhet, a havi részlet összege azonban ötezer forintnál kevesebb nem lehet.
 
-(2)[^18] A részletfizetés engedélyezése mellett a fővárosi és megyei kormányhivatal (a továbbiakban: kisajátítási hatóság) a részletfizetés megkezdésére – a (4) bekezdésben meghatározott feltétel fennállása esetén – legfeljebb tizenkét hónapig terjedő halasztást is engedélyezhet.
+(2)[^21] A részletfizetés engedélyezése mellett a kisajátítási hatóság a részletfizetés megkezdésére – a (4) bekezdésben meghatározott feltétel fennállása esetén – legfeljebb tizenkét hónapig terjedő halasztást is engedélyezhet.
 
 (3) Az értékkülönbözet és kamata megfizetésére részletfizetés akkor engedélyezhető, ha
 
@@ -24,5 +24,5 @@ b) a tulajdonos legalább három kiskorú gyermekének eltartásáról gondoskod
 
 (7) Havi jövedelmen a személyi jövedelemadóról szóló törvény szerinti adóköteles jövedelmet kell érteni.
 
-[^17]: A 11. § (1) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 3. pontja, a 174/2012. (VII. 26.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
-[^18]: A 11. § (2) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 3. pontja, a 174/2012. (VII. 26.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
+[^20]: A 11. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (4) bekezdésével megállapított szöveg.
+[^21]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (4) bekezdésével megállapított szöveg.
