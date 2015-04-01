@@ -26,6 +26,8 @@
 
 (13)[^157] A 3. számú melléklet EÜ90 4/f. pontja alapján felírt vények EÜ 90 százalékos támogatással 2014. április 30-ig válthatóak ki és számolhatóak el.
 
+(14)[^158] A 2. számú melléklet EÜ100 24. pontja alapján 2015. április 1-jét megelőzően felírt, dienogest hatóanyagú gyógyszerek vényei kiemelt, indikációhoz kötött támogatással érvényességi idejükig válthatóak ki és számolhatóak el.
+
 [^146]: A 24/A. §-t a 31/2010. (V. 13.) EüM rendelet 8. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 12. § a) pontja, újonnan a 47/2011. (VII. 27.) NEFMI rendelet 7. §-a iktatta be.
 [^147]: A 25. §-t a 36/2010. (V. 14.) EüM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 5. §-a, újonnan a 2/2012. (I. 3.) NEFMI rendelet 5. §-a iktatta be.
 [^148]: A hatálybalépés időpontja 2012. január 4.
@@ -38,3 +40,4 @@
 [^155]: A 25. § (11) bekezdését újonnan a 7/2014. (I. 29.) EMMI rendelet 7. § (1) bekezdése iktatta be.
 [^156]: A 25. § (12) bekezdését a 7/2014. (I. 29.) EMMI rendelet 7. § (2) bekezdése iktatta be.
 [^157]: A 25. § (13) bekezdését a 7/2014. (I. 29.) EMMI rendelet 7. § (3) bekezdése iktatta be.
+[^158]: A 25. § (14) bekezdését a 10/2015. (II. 23.) EMMI rendelet 4. §-a iktatta be.

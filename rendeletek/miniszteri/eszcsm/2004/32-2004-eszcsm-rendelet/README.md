@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-32-20-0
 | 2014-05-01 | 2004-32-20-0M.54 | 53/2006. (XII. 28.) EüM rendelet |
 | 2014-07-01 | 2004-32-20-0M.55 | 53/2006. (XII. 28.) EüM rendelet |
 | 2015-03-01 | 2004-32-20-0M.56 | 10/2015. (II. 23.) EMMI rendelet |
+| 2015-04-01 | 2004-32-20-0M.57 | 10/2015. (II. 23.) EMMI rendelet |
