@@ -1,5 +1,5 @@
 ## való megfelelést szolgálja.
 
-1. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^56]
+1. számú melléklet a 275/2004. (X. 8.) Korm. rendelethez[^60]
 
-[^56]: Az 1. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^60]: Az 1. számú melléklet a 337/2013. (IX. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
