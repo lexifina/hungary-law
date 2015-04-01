@@ -26,4 +26,4 @@ c) a Dokumentációs Központ felelősségi körét.
 
 (6) A Dokumentációs Központ, amennyiben alapfeladatának ellátását nem veszélyezteti, a kötelező gyűjtőkörön kívüli dokumentumokat is gyűjthet. A kötelező gyűjtőkörön kívüli dokumentumok átadásáról az Üzemeltető megállapodást köt az átadó szervvel vagy személlyel, amelyben rendelkezni kell a dokumentumok átvételével és tárolásával kapcsolatban felmerülő költségek viseléséről.
 
-[^6]: A 2. § (1) bekezdése a 107/2013. (IV. 5.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdése a 107/2013. (IV. 5.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg. [A 2. § (1) bekezdésének a 70/2015. (III. 30.) Korm. rendelet 150. § (2) bekezdésével elrendelt módosítása, amely szerint a „Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „Lechner Tudásközpont, Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szöveg lép, nem vezethető át.]
