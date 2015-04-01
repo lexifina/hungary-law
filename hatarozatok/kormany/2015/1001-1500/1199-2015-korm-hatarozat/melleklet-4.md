@@ -1,21 +1,3 @@
-## 3/B 2015. január 1. után indítani tervezett projektek
-
-| M3 metró vonal infrastruktúra rekonstrukciója |
-
-| Keleti – Újpalota villamosvonal |
-
-| Szeged – Hódmezővásárhely – Békéscsaba – Gyula szűk keresztmetszet kiváltás és villamosítás |
-
-| Debreceni intermodális személyszállítási központ létrehozása |
-
-| Megyei jogú városok vasútállomásai intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása megyeszékhelyek vasúti elővárosi körzetében I. |
-
-| Rákospalota – Újpest – Veresegyház – Vác korszerűsítés |
-
-| Hungária körút- Rákospalota Újpest korszerűsítés |
-
-| Kőbánya-Kispest – Lajosmizse – Kecskemét szűk keresztmetszet kiváltás és villamosítás |
-
 4. melléklet az 1199/2015. (III. 31.) Korm. határozathoz
 
 | Projekt | Indikatív nettó beruházási költség (Mrd forint) |

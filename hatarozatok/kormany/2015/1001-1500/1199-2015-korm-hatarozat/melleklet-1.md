@@ -1,10 +1,4 @@
-## 1. a 2014–2020-as programozási időszak országos jelentőségű közúti, vasúti és vízi közlekedési, városi és elővárosi közlekedési fejlesztéseinek indikatív listájáról szóló 1696/2014. (XI. 26.) Korm. határozat [a továbbiakban: 1696/2014. (XI. 26.) Korm. határozat]
-
-## a) 2. melléklete helyébe az 1. melléklet lép,
-
-## b) 3. melléklete helyébe a 2. melléklet lép,
-
-## c) 4. melléklete „3/B 2015. január 1. után indítani tervezett projektek” táblázata helyébe a 3. melléklet lép;
+## 1.[^1]
 
 ## 2. felhívja a nemzeti fejlesztési minisztert, hogy az Integrált Közlekedés-fejlesztési Operatív Program Éves Fejlesztési Keretének (a továbbiakban: IKOP Éves Fejlesztési Keret) előkészítése és módosításának előkészítése során gondoskodjon a 1696/2014. (XI. 26.) Korm. határozatban kijelölt budapesti projektjavaslatok elszámolható költségeinek az IKOP Éves Fejlesztési Keretbe történő betervezéséről;
 
@@ -36,4 +30,7 @@
 
 ## Határidő: 2015. június 30.
 
-1. melléklet az 1199/2015. (III. 31.) Korm. határozathoz
+1–3. melléklet az 1199/2015. (III. 31.) Korm. határozathoz[^2]
+
+[^1]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
