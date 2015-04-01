@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-144-00-00
 | 2014-01-01 | 2013. évi CCXLIX. törvény | 2009-144-00-00.6 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2009-144-00-00.7 |
 | 2014-10-01 | 2013. évi CCXLIX. törvény | 2009-144-00-00.8 |
+| 2015-04-01 | 2015. évi VI. törvény | 2009-144-00-00.9 |
