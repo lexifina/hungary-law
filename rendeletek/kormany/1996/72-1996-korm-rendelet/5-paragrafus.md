@@ -64,7 +64,7 @@ c) a vizek védelmére vonatkozó jogszabályokban foglalt előírásokra
 
 ## figyelemmel kell meghatározni.
 
-(17)[^47] A tavas szennyvízleürítő hely üzemeltetésére vonatkozó jogerős határozattal és a változási vázrajz közlésével a vízügyi hatóság megkeresi a tavas szennyvízleürítő hely fekvése szerint illetékes járási földhivatalt, hogy a tavas szennyvízleürítő helyet ezzel a megnevezéssel, művelés alól kivett területként jegyezze be az ingatlan-nyilvántartásba.
+(17)[^47] A tavas szennyvízleürítő hely üzemeltetésére vonatkozó jogerős határozattal és a változási vázrajz közlésével a vízügyi hatóság megkeresi a tavas szennyvízleürítő hely fekvése szerint illetékes első fokon eljáró ingatlanügyi hatóságot, hogy a tavas szennyvízleürítő helyet ezzel a megnevezéssel, művelés alól kivett területként jegyezze be az ingatlan-nyilvántartásba.
 
 [^32]: Az 5. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^33]: Az 5. § (3) bekezdésének b) pontja a 10/2000. (II. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -81,4 +81,4 @@ c) a vizek védelmére vonatkozó jogszabályokban foglalt előírásokra
 [^44]: Az 5. § (14) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
 [^45]: Az 5. § (15) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
 [^46]: Az 5. § (16) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
-[^47]: Az 5. § (17) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
+[^47]: Az 5. § (17) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.

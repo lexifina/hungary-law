@@ -1,14 +1,15 @@
-## Nemzeti vagyonba tartozó vizek medrének használati joga[^75]
+## Nemzeti vagyonba tartozó vizek medrének használati joga[^76]
 
-9/A. §[^76] (1)[^77] A nemzeti vagyonba tartozó vizek medrében elhelyezett – a vizek és a közcélú vízilétesítmények fenntartására vonatkozó feladatokról szóló kormányrendeletben meghatározott – mederhasználati vízilétesítmények létesítésére vonatkozó vízjogi engedélyezési eljárásban a meder vagyonkezelőjének a mederhasználathoz történő hozzájárulását a vízügyi hatóság részére be kell nyújtani. A hozzájárulás a vízjogi létesítési engedélyezési eljáráshoz szükséges mellékletek részét képezi, de polgári jogi igényt arra alapítani nem lehet. A hozzájárulás hiányában a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmények tekintetében vízjogi létesítési és üzemeltetési engedély nem adható ki.
+9/A. §[^77] (1)[^78] A nemzeti vagyonba tartozó vizek medrében elhelyezett – a vizek és a közcélú vízilétesítmények fenntartására vonatkozó feladatokról szóló kormányrendeletben meghatározott – mederhasználati vízilétesítmények létesítésére vonatkozó vízjogi engedélyezési eljárásban a meder vagyonkezelőjének a mederhasználathoz történő hozzájárulását a vízügyi hatóság részére be kell nyújtani. A hozzájárulás a vízjogi létesítési engedélyezési eljáráshoz szükséges mellékletek részét képezi, de polgári jogi igényt arra alapítani nem lehet. A hozzájárulás hiányában a nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmények tekintetében vízjogi létesítési és üzemeltetési engedély nem adható ki.
 
-(2)[^78] A vízügyi hatóság az üzemeltetési engedélyben rögzíti a mederhasználati jog létrejöttének, idejének, gyakorlásának, megszűnésének feltételeit.
+(2)[^79] A vízügyi hatóság az üzemeltetési engedélyben rögzíti a mederhasználati jog létrejöttének, idejének, gyakorlásának, megszűnésének feltételeit.
 
-(3) Az üzemeltetési engedélyben a vízjogi üzemeltetési engedély iránti kérelem mellékletét képező földhivatal által érvényes záradékkal ellátott változási vázrajz alapján meg kell jelölni az ingatlannak a mederhasználati joggal érintett részét. A változási vázrajz az üzemeltetési engedély kötelező mellékletét képezi.
+(3)[^80] Az üzemeltetési engedélyben a vízjogi üzemeltetési engedély iránti kérelem mellékletét képező ingatlanügyi hatóság által érvényes záradékkal ellátott változási vázrajz alapján meg kell jelölni az ingatlannak a mederhasználati joggal érintett részét. A változási vázrajz az üzemeltetési engedély kötelező mellékletét képezi.
 
 (4) A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítményre csak határozott idejű, legfeljebb 15 évre szóló üzemeltetési engedély adható ki.
 
-[^75]: A 9/A. §-t megelőző alcímet a 242/2012. (VIII. 31.) Korm. rendelet 1. § (8) bekezdése iktatta be.
-[^76]: A 9/A. §-t a 242/2012. (VIII. 31.) Korm. rendelet 1. § (8) bekezdése iktatta be.
-[^77]: A 9/A. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (9) bekezdésével megállapított, a 42/2014. (II. 24.) Korm. rendelet 1. § (6) bekezdés b) pontja szerint módosított szöveg.
-[^78]: A 9/A. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontja szerint módosított szöveg.
+[^76]: A 9/A. §-t megelőző alcímet a 242/2012. (VIII. 31.) Korm. rendelet 1. § (8) bekezdése iktatta be.
+[^77]: A 9/A. §-t a 242/2012. (VIII. 31.) Korm. rendelet 1. § (8) bekezdése iktatta be.
+[^78]: A 9/A. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (9) bekezdésével megállapított, a 42/2014. (II. 24.) Korm. rendelet 1. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^79]: A 9/A. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontja szerint módosított szöveg.
+[^80]: A 9/A. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.

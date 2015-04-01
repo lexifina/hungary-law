@@ -1,10 +1,10 @@
 14. § (1) A vízjogi engedély visszavonható, ha az engedélyes:
 
-a)[^86] a jogszabályban foglalt, illetőleg engedélyben előírt feltételeknek és kötelezettségeknek a vízügyi hatóság felhívása ellenére az abban megállapított határidő alatt nem tesz eleget;
+a)[^88] a jogszabályban foglalt, illetőleg engedélyben előírt feltételeknek és kötelezettségeknek a vízügyi hatóság felhívása ellenére az abban megállapított határidő alatt nem tesz eleget;
 
 b) a vízimunka vagy a vízilétesítmény átalakítására, illetőleg a vízhasználat gyakorlásának megváltoztatására vonatkozó határozatot az abban megjelölt határidő alatt nem teljesíti;
 
-c)[^87] a vízilétesítmény fenntartására és üzemeltetésére vonatkozó kötelezettségét a vízügyi hatóság felhívása ellenére nem végzi el.
+c)[^89] a vízilétesítmény fenntartására és üzemeltetésére vonatkozó kötelezettségét a vízügyi hatóság felhívása ellenére nem végzi el.
 
 (2) A vízjogi engedélyt vissza kell vonni, ha alapvetően megváltoztak azok a feltételek és körülmények, amelyek az engedély alapjául szolgáltak, így különösen:
 
@@ -18,5 +18,5 @@ d) a felhasználható vízkészlet mennyisége és minősége oly mértékben me
 
 e) az engedélyes a vízhasználatot – bár ez módjában állott – 1 éven át, öntözési célú vízhasználat esetén 3 éven át nem gyakorolta, és az engedély szüneteltetését sem kérte.
 
-[^86]: [A 14. § (1) bekezdés a) pontjában az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^87]: [A 14. § (1) bekezdés c) pontjában az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^88]: [A 14. § (1) bekezdés a) pontjában az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^89]: [A 14. § (1) bekezdés c) pontjában az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
