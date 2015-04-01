@@ -2,7 +2,7 @@
 
 a) a foglalkoztatáspolitikáért felelős miniszterre,
 
-b) a fővárosi (megyei) kormányhivatal foglalkoztatási, munkaerő-piaci feladatot ellátó szakigazgatási szervére (a továbbiakban: munkaügyi központ), a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala foglalkoztatási, munkaerőpiaci feladatokat ellátó ágazati szakigazgatási szervére (a továbbiakban: kirendeltség), valamint
+b)[^2] az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatalra (a továbbiakban: kormányhivatal) és az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalra (a továbbiakban: járási hivatal), valamint
 
 c) arra a természetes és jogi személyre aki, illetőleg amely
 
@@ -11,3 +11,4 @@ ca) a Társadalmi Megújulás Operatív Program 1. prioritás 1.1.2. konstrukci�
 cb) Társadalmi Megújulás Operatív Program 1. prioritás 1.1.1./08/1 konstrukció keretében megvalósításra kerülő kiemelt projektben (a továbbiakban: 1.1.1./08/1 Program)
 
 [^1]: Az 1. § a 318/2014. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^2]: Az 1. § b) pontja a 70/2015. (III. 30.) Korm. rendelet 135. § (1) bekezdésével megállapított szöveg.

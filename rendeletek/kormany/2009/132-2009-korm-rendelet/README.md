@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-132-20-
 | 2014-01-01 | 2009-132-20-22.11 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2014-03-15 | 2009-132-20-22.12 | 80/2014. (III. 14.) Korm. rendelet |
 | 2015-01-01 | 2009-132-20-22.13 | 354/2014. (XII. 29.) Korm. rendelet |
+| 2015-04-01 | 2009-132-20-22.14 | 70/2015. (III. 30.) Korm. rendelet |
