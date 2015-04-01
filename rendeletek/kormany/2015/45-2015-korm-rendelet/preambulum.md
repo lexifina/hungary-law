@@ -1,0 +1,1 @@
+A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 234. § f) pontjában meghatározott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
