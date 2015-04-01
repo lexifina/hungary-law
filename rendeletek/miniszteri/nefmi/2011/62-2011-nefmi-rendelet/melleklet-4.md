@@ -2,7 +2,7 @@
 
 ## A finanszírozási szerződés megkötéséhez benyújtandó dokumentumok
 
-1.[^31] ha a fenntartó
+1.[^59] ha a fenntartó
 
 1.1. központi költségvetési szerv, helyi önkormányzat, önkormányzati társulás, települési kisebbségi önkormányzat, területi kisebbségi önkormányzat vagy országos kisebbségi önkormányzat: a létesítő dokumentumának másolata,
 
@@ -40,4 +40,4 @@
 
 10. a pályázathoz a 3. melléklet 1–3., 7–8., 16., 18. és 19. pontja szerint benyújtott valamely nyilatkozat, dokumentum alapjául szolgáló körülményben történt változás esetén a változással érintett új nyilatkozat, dokumentum.
 
-[^31]: A 4. melléklet 1. pontja a 19/2014. (III. 13.) EMMI rendelet 53. § (2) bekezdésével megállapított szöveg.
+[^59]: A 4. melléklet 1. pontja a 19/2014. (III. 13.) EMMI rendelet 53. § (2) bekezdésével megállapított szöveg.

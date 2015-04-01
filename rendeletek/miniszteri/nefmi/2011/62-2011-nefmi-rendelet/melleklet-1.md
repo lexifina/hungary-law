@@ -2,13 +2,11 @@
 
 ## A tolmácsszolgálat szolgáltatási rendjének tartalma
 
-1. a tolmácsszolgálat megnevezése, címe, postacíme, vezetékes telefonszáma, mobiltelefonszáma, elektronikus levélcíme (e-mail címe), telefaxszáma, videoüzenet fogadására és küldésére alkalmas készülékének elérhetősége, külön megjelölve a készenléti idő alatt használható elérhetőségeket,
+1.[^48] a tolmácsszolgálat megnevezése, címe, postacíme, vezetékes telefonszáma, mobiltelefonszáma, elektronikus levélcíme (e-mail címe), videoüzenet fogadására és küldésére alkalmas készülékének elérhetősége, külön megjelölve a készenléti idő alatt használható elérhetőségeket,
 
 2. a tolmácsszolgálat ellátási területe,
 
-3. annak megjelölése, hogy a tolmácsszolgálat ellátási területén végez-e tolmácsolást siketvak személyek számára,
-
-4. annak megjelölése, hogy a tolmácsszolgálat az ország egész területére kiterjedően végez-e tolmácsolást siketvak személyek számára,
+3–4.[^49]
 
 5. a választható jelnyelvi tolmácsok fényképpel ellátott névsora az általuk vállalt tolmácsolási típusok, továbbá tolmácsolási módok megjelölésével,
 
@@ -27,3 +25,6 @@
 12. a jelnyelvi tolmácsszolgáltatással és a jelnyelvi tolmácsokkal kapcsolatos észrevételek, panaszok befogadásának és kezelésének rendje,
 
 13. a tolmácsszolgálat fenntartójának megnevezése, székhelye, valamint a képviseletére jogosult személy neve és elérhetősége.
+
+[^48]: Az 1. melléklet 1. pontja a 11/2015. (II. 25.) EMMI rendelet 15. § c) pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet 3–4. pontját a 48. § (3) bekezdés e) pontja hatályon kívül helyezte.

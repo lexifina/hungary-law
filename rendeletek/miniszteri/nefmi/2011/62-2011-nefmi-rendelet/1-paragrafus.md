@@ -32,6 +32,8 @@ e) az Európai Gazdasági Térségről szóló megállapodásban részes valamel
 
 9. megrendelő: jelnyelvi tolmácsszolgáltatás biztosítását kérő szervezet vagy személy, függetlenül attól, hogy e rendelet szerint igénybe vevőnek minősül-e;
 
+9a.[^3] megvalósítási szakasz: a finanszírozási időszakon belül tárgyév április 1-jétől az azt követő év március 31-éig terjedő időszak;
+
 10. módszertani központ: a Jtv. 6. § (1) bekezdése szerinti szervezet;
 
 11. sürgős megrendelés: az igénybe vevő életét, testi épségét, egészségét, vagy vagyonát veszélyeztető helyzet, és az azonnali hatósági intézkedés miatt történő megrendelés, amennyiben a sürgősség alapjául szolgáló körülményt a megrendelő vagy az igénybe vevő a megrendeléskor jelzi a tolmácsszolgálatnak;
@@ -54,7 +56,7 @@ a) magyar jelnyelv,
 
 b) a Jtv. mellékletében foglalt valamely speciális kommunikációs rendszer;
 
-14.[^3] tolmácsszolgálat: a Magyarország területén állami támogatással működő jelnyelvi tolmácsszolgálat;
+14.[^4] tolmácsszolgálat: a Magyarország területén állami támogatással működő jelnyelvi tolmácsszolgálat;
 
 15. tolmácsszolgáltatási fajta: az alábbi tolmácsszolgáltatások valamelyike:
 
@@ -68,9 +70,10 @@ d) a Jtv. 10. § (4) bekezdése szerinti, oktatás, képzés kapcsán szervezett
 
 e) a Jtv.-ben nem szabályozott, térítésköteles jelnyelvi tolmácsszolgáltatás.
 
-(2)[^4] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
+(2)[^5] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
 
 [^1]: Az 1. § (1) bekezdés 4. pont b) alpontját a 19/2014. (III. 13.) EMMI rendelet 54. §-a hatályon kívül helyezte.
 [^2]: Az 1. § (1) bekezdés 4. pont d) alpontja a 19/2014. (III. 13.) EMMI rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés 9a. pontját a 11/2015. (II. 25.) EMMI rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.

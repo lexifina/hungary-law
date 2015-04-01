@@ -6,9 +6,7 @@ a) a fenntartó a Knyt. 6. §-a alapján nem részesíthető költségvetési t�
 
 b) a tolmácsszolgálat a finanszírozási szerződésben rögzített ellátási területnek csak egy részén nyújt, vagy egyáltalán nem nyújt tolmácsszolgáltatást,
 
-c) a tolmácsszolgálat a finanszírozási szerződésben foglaltak ellenére ellátási területén nem nyújt tolmácsszolgáltatást siketvak személyek számára,
-
-d) a tolmácsszolgálat a finanszírozási szerződésben foglaltak ellenére az ország egész területére kiterjedően nem nyújt tolmácsszolgáltatást siketvak személyek számára.
+c)–d)[^28]
 
 (3) A módszertani központ a finanszírozási szerződést 90 napos felmondási idővel felmondhatja, ha
 
@@ -33,3 +31,5 @@ i) a fenntartó állami támogatást nyújtó szervtől vagy szervezettől a fin
 j) a fenntartó vagy a tolmácsszolgálat a jogszabályban, vagy a finanszírozási szerződésben meghatározott valamely további kötelezettségét súlyosan vagy ismételten megszegi,
 
 k) a fenntartó a támogatás igénybevételéhez szükséges valamely jogszabályi feltételnek nem felel meg.
+
+[^28]: A 23. § (2) bekezdés c)–d) pontját a 48. § (3) bekezdés d) pontja hatályon kívül helyezte.

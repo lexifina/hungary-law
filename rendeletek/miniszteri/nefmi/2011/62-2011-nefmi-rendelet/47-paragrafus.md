@@ -1,6 +1,8 @@
-47. § (1)[^20]
+47. § (1)[^44]
 
-(2)–(3)[^21]
+(2)[^45]
 
-[^20]: A 47. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 47. § (2)–(3) bekezdése a 44. § (4) bekezdése alapján 2015. április 1-jén lép hatályba.
+(3) A 6. § helyébe a következő rendelkezés lép:
+
+[^44]: A 47. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 47. § (2) bekezdése a 11/2015. (II. 25.) EMMI rendelet 16. §-a alapján nem lép hatályba.

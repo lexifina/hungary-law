@@ -32,7 +32,7 @@ g) a jelnyelvi tolmácsok és a diszpécser díjazására vonatkozó feltételek
 
 h) a pályázható ellátási területek megjelölését,
 
-i)[^6]
+i)[^12]
 
 j) a finanszírozási időszak megjelölését,
 
@@ -56,7 +56,7 @@ s) a finanszírozási szerződés megkötésének feltételeire, az azzal szerze
 
 (5) A pályázat benyújtásának határidejét a pályázati kiírásban úgy kell meghatározni, hogy a pályázat benyújtására a pályázat közzétételét követően legalább 30 nap álljon rendelkezésre.
 
-(6)[^7] A pályázati kiírást közzé kell tenni a módszertani központ honlapján, valamint a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) által irányított minisztérium honlapján.
+(6)[^13] A pályázati kiírást közzé kell tenni a módszertani központ honlapján, valamint a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) által irányított minisztérium honlapján.
 
-[^6]: A 10. § (4) bekezdés i) pontját a 48. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^7]: A 10. § (6) bekezdése a 11/2015. (II. 25.) EMMI rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 10. § (4) bekezdés i) pontját a 48. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^13]: A 10. § (6) bekezdése a 11/2015. (II. 25.) EMMI rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.

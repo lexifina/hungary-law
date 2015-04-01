@@ -14,8 +14,8 @@ b) a módszertani központ által rendelkezésre bocsátott útmutató alapján 
 
 c) magyar jelnyelven készült, mozgóképpel rögzített változat, továbbá
 
-d)[^5] Braille-írásos változat.
+d)[^6] Braille-írásos változat.
 
 (3) A tolmácsszolgálat önálló honlapot működtet, amely tartalmazza a tolmácsszolgálat szolgáltatási rendjét a (2) bekezdés a)–c) pontja szerinti formátumokban, és megfelel a WCAG 2.0 webes akadálymentesítési ajánlás legalább „A” szintjének.
 
-[^5]: A 2. § (2) bekezdés d) pontja a 47. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdés d) pontja a 47. § (1) bekezdésével megállapított szöveg.
