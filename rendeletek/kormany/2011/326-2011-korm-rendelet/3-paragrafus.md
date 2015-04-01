@@ -2,7 +2,7 @@
 
 ## JÁRMŰVEZETÉSRE JOGOSÍTÓ OKMÁNYOK
 
-3. §[^7] (1) Az e rendeletben meghatározott járművezetésre jogosító okmány:
+3. §[^8] (1) Az e rendeletben meghatározott járművezetésre jogosító okmány:
 
 a) a vezetői engedély,
 
@@ -16,4 +16,4 @@ b) a külföldi hatóság által kiállított érvényes vezetői engedély Magy
 
 c) az érvényes magyar vezetői engedély elvesztése, eltulajdonítása, megsemmisülése esetén a külföldi vagy magyar hatóságnál tett bejelentésről szóló jegyzőkönyv, a jegyzőkönyv kiállításának napjától számított legfeljebb 30 napig.
 
-[^7]: A 3. § az 544/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: A 3. § az 544/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.

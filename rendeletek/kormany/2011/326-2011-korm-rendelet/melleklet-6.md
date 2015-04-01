@@ -280,7 +280,7 @@
 
 6. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-## Járművezetésre jogosító okmányok kiadásának életkori és jártassági feltételei 2013. január 18-ig[^128]
+## Járművezetésre jogosító okmányok kiadásának életkori és jártassági feltételei 2013. január 18-ig[^129]
 
 I. Életkori feltételek
 
@@ -324,4 +324,4 @@ b) aki a 21. életévét betöltötte, és külön vizsgát tett a kategóriára
 
 4.5. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-[^128]: A 6. melléklet címe az 544/2013. (XII. 30.) Korm. rendelet 42. § j) pontja szerint módosított szöveg.
+[^129]: A 6. melléklet címe az 544/2013. (XII. 30.) Korm. rendelet 42. § j) pontja szerint módosított szöveg.

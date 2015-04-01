@@ -1,4 +1,4 @@
-## 1/A. §[^4] A megye területére kiterjedő illetékességgel a megyeszékhelyen működő járási hivatal hatáskörébe tartozik
+## 1/A. §[^5] A megye területére kiterjedő illetékességgel a megyeszékhelyen működő járási hivatal hatáskörébe tartozik
 
 a) a „P” és a „Z” betűjelű ideiglenes rendszámtábla kiadásával,
 
@@ -8,4 +8,4 @@ c) a b) pont szerinti járművek üzemeltetési jellegével, annak változásáv
 
 kapcsolatos feladatok ellátása.
 
-[^4]: Az 1/A. § az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1/A. § az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

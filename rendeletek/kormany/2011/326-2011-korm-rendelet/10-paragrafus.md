@@ -2,7 +2,7 @@
 
 ## 3. Nemzetközi vezetői engedély
 
-10. §[^12] (1) A közlekedési igazgatási hatóság kérelemre nemzetközi vezetői engedélyt ad ki.
+10. §[^13] (1) A közlekedési igazgatási hatóság kérelemre nemzetközi vezetői engedélyt ad ki.
 
 (2) Nemzetközi vezetői engedélyt az érvényes magyar vezetői engedély adatai alapján kell kiállítani.
 
@@ -18,4 +18,4 @@
 
 (8) A nemzetközi vezetői engedély adattartalmát az 1968. évi november hó 8. napján Bécsben aláírásra megnyitott Közúti Közlekedési Egyezmény kihirdetéséről szóló 1980. évi 3. törvényerejű rendelet határozza meg.
 
-[^12]: A 10. § az 544/2013. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^13]: A 10. § az 544/2013. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.

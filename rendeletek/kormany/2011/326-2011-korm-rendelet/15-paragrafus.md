@@ -6,8 +6,8 @@
 
 (3) Az (1) bekezdéstől eltérően nem követelmény a hat hónapos magyarországi tartózkodás igazolása, ha a harmadik ország állampolgárának kérelme a Magyarországon korábban megszerzett vezetői engedély pótlására irányul.
 
-(4)[^14] Az (1) bekezdéstől eltérően a vezetői engedély kiadását megelőző 6 hónapos magyarországi tartózkodás igazolása nem követelmény, ha a kérelem alapja a külföldi vezetői engedélybe bejegyzett érvényességi idő lejárata és a nem magyar állampolgár kérelme ezen okmány honosítására vagy cseréjére irányul. Ez esetben a vezetői engedély kiadásának feltétele a tartózkodási jogosultságot igazoló okmány bemutatása mellett a külföldi személy jegyzőkönyvbe foglalt nyilatkozata arra vonatkozóan, hogy a szokásos tartózkodási helye Magyarország területén van.
+(4)[^15] Az (1) bekezdéstől eltérően a vezetői engedély kiadását megelőző 6 hónapos magyarországi tartózkodás igazolása nem követelmény, ha a kérelem alapja a külföldi vezetői engedélybe bejegyzett érvényességi idő lejárata és a nem magyar állampolgár kérelme ezen okmány honosítására vagy cseréjére irányul. Ez esetben a vezetői engedély kiadásának feltétele a tartózkodási jogosultságot igazoló okmány bemutatása mellett a külföldi személy jegyzőkönyvbe foglalt nyilatkozata arra vonatkozóan, hogy a szokásos tartózkodási helye Magyarország területén van.
 
 (5) A külföldön megszerzett vezetői engedély honosítására vonatkozó szabályokat kell alkalmazni, ha a kérelmező Magyarországon szerez olyan járműfajta vezetésére való jogosultságot, amellyel korábban nem rendelkezett.
 
-[^14]: A 15. § (4) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^15]: A 15. § (4) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.

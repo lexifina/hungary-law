@@ -6,7 +6,7 @@
 
 ## 1. 14. életév az „M” kategóriába tartozó jármű vezetésére.
 
-## 2.[^129] 14. életév az „AM” kategóriába tartozó jármű vezetésére
+## 2.[^130] 14. életév az „AM” kategóriába tartozó jármű vezetésére
 
 ## 3. 16. életév a „T” és a „K” kategóriába tartozó jármű vezetésére.
 
@@ -32,7 +32,7 @@
 
 ## 10.2. az „A” kategóriába tartozó motorkerékpár vezetésére, előzetes motorkerékpár vezetési gyakorlat hiányában.
 
-## 11.[^130] A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
+## 11.[^131] A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
 
 ## a) a tűzoltóság által, illetve a közrend fenntartására használt járművek;
 
@@ -56,17 +56,17 @@
 
 ## 5. A „C+E” kategóriájú vezetői engedélyek érvényesek „D+E” kategóriára is, amennyiben a vezetői engedély birtokosa jogosult „D” kategóriájú járművek vezetésére.
 
-## 6.[^131] A „C+E” kategóriájú vezetői engedélyek a „C1+E” kategóriájú járműszerelvényekre, a „D+E” kategóriájú vezetői engedélyek a „D1+E” kategóriájú járműszerelvényekre is érvényesek.
+## 6.[^132] A „C+E” kategóriájú vezetői engedélyek a „C1+E” kategóriájú járműszerelvényekre, a „D+E” kategóriájú vezetői engedélyek a „D1+E” kategóriájú járműszerelvényekre is érvényesek.
 
 ## 7. Bármely nemzetközi kategóriára megszerzett vezetői engedély érvényes az AM kategóriájú járművekre.
 
 ## 8. Az „A2” alkategóriájú vezetői engedélyek az „A1” alkategóriára is érvényesek.
 
-## 9.[^132] Az „A” kategóriájú vezetői engedély az „A1”, „A2” alkategóriákra, a „B” kategóriájú vezetői engedély a „B1” alkategóriára, a „C” kategóriájú vezetői engedély a „C1”, a „D” kategóriájú vezetői engedély a „D1” alkategóriára is érvényes.
+## 9.[^133] Az „A” kategóriájú vezetői engedély az „A1”, „A2” alkategóriákra, a „B” kategóriájú vezetői engedély a „B1” alkategóriára, a „C” kategóriájú vezetői engedély a „C1”, a „D” kategóriájú vezetői engedély a „D1” alkategóriára is érvényes.
 
 ## 10. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^133]
+8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^134]
 
 ## A kártya formátumú vezetői engedélybe bejegyezhető kódok jegyzéke
 
@@ -390,8 +390,8 @@
 
 270 A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
 
-[^129]: A 7. melléklet I. fejezet 2. pontja az 5/2013. (I. 16.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
-[^130]: A 7. melléklet I. fejezet 11. pont záró szövegrésze az 5/2013. (I. 16.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
-[^131]: A 7. melléklet II. pont 6. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^132]: A 7. melléklet II. pont 9. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^133]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja szerint módosított szöveg.
+[^130]: A 7. melléklet I. fejezet 2. pontja az 5/2013. (I. 16.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^131]: A 7. melléklet I. fejezet 11. pont záró szövegrésze az 5/2013. (I. 16.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
+[^132]: A 7. melléklet II. pont 6. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^133]: A 7. melléklet II. pont 9. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^134]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja szerint módosított szöveg.

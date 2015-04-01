@@ -20,7 +20,7 @@ d) a jármű – kivéve a lassú járművet és a lassú jármű pótkocsiját 
 
 (6) Az (1) bekezdésben felsorolt közlekedési igazgatási eljárásban a közlekedési igazgatási hatóság ellenőrzi a jármű előzetes eredetiségvizsgálatának meglétét, eredményét, valamint annak érvényességi idejét.
 
-(7)[^57] Az előzetes eredetiségvizsgálat elvégzése nélkül is nyilvántartásba kell venni a jármű tulajdonjogában bekövetkezett változást, ha annak jogalapja
+(7)[^58] Az előzetes eredetiségvizsgálat elvégzése nélkül is nyilvántartásba kell venni a jármű tulajdonjogában bekövetkezett változást, ha annak jogalapja
 
 a) öröklés,
 
@@ -36,4 +36,4 @@ f) a használt jármű cégjegyzék vagy vállalkozói igazolvány alapján az a
 
 (8) A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
 
-[^57]: Az 52. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^58]: Az 52. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.

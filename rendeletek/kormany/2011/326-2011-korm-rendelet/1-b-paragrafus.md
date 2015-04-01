@@ -1,4 +1,4 @@
-## 1/B. §[^5] Ha a jármű tulajdonosa az Észak-atlanti Szerződés Szervezete, Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erő, Magyarország területén felállított nemzetközi katonai parancsnokság vagy ezek katonai vagy polgári személyi állományának tagja, valamint ezen állomány tagjának törvényben meghatározott hozzátartozója, a gépjárművel kapcsolatos közlekedési igazgatási eljárás lefolytatására a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala, továbbá ha a tulajdonos székhelye, lakóhelye, szolgálati célú tartózkodási vagy elhelyezési helye
+## 1/B. §[^6] Ha a jármű tulajdonosa az Észak-atlanti Szerződés Szervezete, Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erő, Magyarország területén felállított nemzetközi katonai parancsnokság vagy ezek katonai vagy polgári személyi állományának tagja, valamint ezen állomány tagjának törvényben meghatározott hozzátartozója, a gépjárművel kapcsolatos közlekedési igazgatási eljárás lefolytatására a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala, továbbá ha a tulajdonos székhelye, lakóhelye, szolgálati célú tartózkodási vagy elhelyezési helye
 
 a) Baranya megye, Fejér megye, Somogy megye, Tolna megye vagy Zala megye területén van, a Veszprémi Járási Hivatal,
 
@@ -6,4 +6,4 @@ b) Győr-Moson-Sopron megye, Komárom-Esztergom megye, Vas megye vagy Veszprém 
 
 c) Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád megye, Hajdú-Bihar megye, Heves megye, Jász-Nagykun-Szolnok megye vagy Szabolcs-Szatmár-Bereg megye területén van, a Szolnoki Járási Hivatal
 
-[^5]: Az 1/B. §-t a 81/2013. (III. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^6]: Az 1/B. §-t a 81/2013. (III. 19.) Korm. rendelet 2. § (1) bekezdése iktatta be.

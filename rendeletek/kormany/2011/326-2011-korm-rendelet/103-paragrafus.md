@@ -1,4 +1,4 @@
-103. § (1)[^102] A járművet a hivatalból indult eljárás során a forgalmi engedély és a hatósági jelzés bevonásával – az f) pontban és a (2) bekezdésben foglaltak kivételével – a következő időtartamra kell ideiglenesen a forgalomból kivonni:
+103. § (1)[^103] A járművet a hivatalból indult eljárás során a forgalmi engedély és a hatósági jelzés bevonásával – az f) pontban és a (2) bekezdésben foglaltak kivételével – a következő időtartamra kell ideiglenesen a forgalomból kivonni:
 
 a) a 96. § (1) bekezdés a)–c) és f) pontja és a 101. § (1) bekezdés e), f) és h) pontja esetén a jármű műszaki alkalmasságának igazolásáig,
 
@@ -30,4 +30,4 @@ d) 180 napot meghaladja, egy év.
 
 (5) A forgalomból – a 101. § (1) bekezdés i) pontja alapján – kivont jármű ismételten nem helyezhető forgalomba.
 
-[^102]: A 103. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
+[^103]: A 103. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.

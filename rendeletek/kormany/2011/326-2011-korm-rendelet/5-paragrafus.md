@@ -1,10 +1,10 @@
 ## 4. § A vezetői engedély különböző kategóriákba, alkategóriákba és kombinált kategóriákba sorolt járművek vezetésére jogosít, amelyeket az 1. és a 2. melléklet tartalmaz.
 
-5. § (1)[^8] A nemzetközi kategóriára, valamint a „TR” és „V” nemzeti kategóriára megszerzett vizsga a vezetői engedélybe bejegyzett kategória érvényességi idejének lejárta után is – ha a közúti járművezetők egészségi alkalmasságáról szóló miniszteri rendelet egészségi alkalmasságot nem ír elő – jogosít a 4. mellékletben meghatározott járművek vezetésére.
+5. § (1)[^9] A nemzetközi kategóriára, valamint a „TR” és „V” nemzeti kategóriára megszerzett vizsga a vezetői engedélybe bejegyzett kategória érvényességi idejének lejárta után is – ha a közúti járművezetők egészségi alkalmasságáról szóló miniszteri rendelet egészségi alkalmasságot nem ír elő – jogosít a 4. mellékletben meghatározott járművek vezetésére.
 
-(2)[^9] A közlekedési igazgatási hatóság az ügyfél kérelmére nemzeti kategóriára érvényesített vezetői engedélyt állít ki, ha az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni.
+(2)[^10] A közlekedési igazgatási hatóság az ügyfél kérelmére nemzeti kategóriára érvényesített vezetői engedélyt állít ki, ha az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni.
 
-(3)[^10] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
+(3)[^11] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
 
 a) a „B” kategória esetében 18. életév,
 
@@ -28,6 +28,6 @@ b) a nemzeti kategóriában – a „TR” és „V” kategória kivételével 
 
 (6) A vezetői engedély érvényességi idejének meghosszabbítása az okmány cseréjével történik.
 
-[^8]: Az 5. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^9]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^10]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^9]: Az 5. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^10]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^11]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.

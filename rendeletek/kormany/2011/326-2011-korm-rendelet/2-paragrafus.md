@@ -1,6 +1,6 @@
 ## is jogosult eljárni.
 
-2. §[^6] (1) E rendelet alkalmazásában:
+2. §[^7] (1) E rendelet alkalmazásában:
 
 1. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes más állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
@@ -36,4 +36,4 @@
 
 (2) Ha e rendelet viszonosságról rendelkezik, akkor a viszonosság fennállása tekintetében a közlekedésért felelős miniszter és a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-[^6]: A 2. § az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

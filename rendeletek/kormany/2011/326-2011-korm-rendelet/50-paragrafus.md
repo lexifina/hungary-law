@@ -4,25 +4,25 @@
 
 (3) Az ideiglenes behozatali vámeljárás hatálya alá tartozó jármű esetében csak a V betűjelű ideiglenes rendszámtábla kiadása, valamint az ilyen rendszámtáblával ellátott jármű üzemben tartójának személyében bekövetkezett változás, az üzemben tartó által kezdeményezett forgalomból történő kivonás, a forgalmi engedély adatváltozás vagy adatjavítás miatti cseréje, valamint a forgalmi engedély pótlása iránti kérelem terjeszthető elő elektronikus úton.
 
-(4)[^51] Nem nyújtható be elektronikus úton kérelem az ideiglenes, továbbá a DT, CK és RR betűjelű, valamint a H, M és R kezdőbetű-jelű különleges rendszámtáblák kiadásával, az ilyen rendszámú járművek tulajdonjogával – ideértve a Kknyt. 33. § (6) bekezdésében meghatározott bejelentési kötelezettséget is –, forgalomban tartásával, forgalomból történő kivonásával, a jármű forgalmi engedélyének vagy törzskönyvének cseréjével, pótlásával, záradék bejegyzésével kapcsolatos eljárásokban.
+(4)[^52] Nem nyújtható be elektronikus úton kérelem az ideiglenes, továbbá a DT, CK és RR betűjelű, valamint a H, M és R kezdőbetű-jelű különleges rendszámtáblák kiadásával, az ilyen rendszámú járművek tulajdonjogával – ideértve a Kknyt. 33. § (6) bekezdésében meghatározott bejelentési kötelezettséget is –, forgalomban tartásával, forgalomból történő kivonásával, a jármű forgalmi engedélyének vagy törzskönyvének cseréjével, pótlásával, záradék bejegyzésével kapcsolatos eljárásokban.
 
-(5)[^52] Ha a kérelem elektronikus előterjesztésének feltételei fennállnak, a természetes személy tulajdonos elektronikus úton is intézheti
+(5)[^53] Ha a kérelem elektronikus előterjesztésének feltételei fennállnak, a természetes személy tulajdonos elektronikus úton is intézheti
 
 a) a gépjármű tulajdonjog-átruházással kapcsolatos tulajdonátruházói bejelentését, amennyiben a tulajdonátruházó a gépjármű kizárólagos tulajdonosa és a tulajdonszerzők a gépjármű tulajdonjogát teljes egészében megszerzik,
 
 b) a gépjármű forgalomból történő ideiglenes kivonását, az ideiglenes kivonás meghosszabbítását, valamint a forgalomból kérelemre ideiglenesen kivont gépjármű forgalomba történő visszahelyezését, feltéve, hogy a kérelmező a gépjármű kizárólagos tulajdonosa és kizárólagos üzemben tartója, aki egyben a gépjármű törzskönyvével is jogszerűen rendelkezik,
 
-c)[^53] az állandó forgalmi engedély, a törzskönyv pótlását, amennyiben az okmány adataiban változás nem következett be,
+c)[^54] az állandó forgalmi engedély, a törzskönyv pótlását, amennyiben az okmány adataiban változás nem következett be,
 
-d)[^54] az elveszett vagy eltulajdonított sorozatban előállított (általános) állandó rendszámtábla, és szükség szerint az ehhez tartozó érvényesítő címke pótlását.
+d)[^55] az elveszett vagy eltulajdonított sorozatban előállított (általános) állandó rendszámtábla, és szükség szerint az ehhez tartozó érvényesítő címke pótlását.
 
-(6)[^55] A jogszabályban meghatározott feltételek teljesülése esetén, az ügyfél (5) bekezdés a) és b) pontja szerinti kérelmében foglalt változásokat a közlekedési igazgatási hatóság 3 napon belül átvezeti a nyilvántartáson.
+(6)[^56] A jogszabályban meghatározott feltételek teljesülése esetén, az ügyfél (5) bekezdés a) és b) pontja szerinti kérelmében foglalt változásokat a közlekedési igazgatási hatóság 3 napon belül átvezeti a nyilvántartáson.
 
-(7)[^56] Az elektronikus úton kezdeményezett eljárásban pótolt állandó forgalmi engedély és az utángyártott rendszámtábla 15 napon belül az ügyfél választása szerint postázásra kerül, vagy az általa megjelölt közlekedési igazgatási hatóságnál, annak értesítése alapján átvehető. A hátsó rendszámtábla postai úton nem kézbesíthető, átvételére az ügyfél által megjelölt közlekedési igazgatási hatóságnál, annak értesítése alapján kerülhet sor.
+(7)[^57] Az elektronikus úton kezdeményezett eljárásban pótolt állandó forgalmi engedély és az utángyártott rendszámtábla 15 napon belül az ügyfél választása szerint postázásra kerül, vagy az általa megjelölt közlekedési igazgatási hatóságnál, annak értesítése alapján átvehető. A hátsó rendszámtábla postai úton nem kézbesíthető, átvételére az ügyfél által megjelölt közlekedési igazgatási hatóságnál, annak értesítése alapján kerülhet sor.
 
-[^51]: Az 50. § (4) bekezdése az 5/2013. (I. 16.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^52]: Az 50. § (5) bekezdését az 5/2013. (I. 16.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^53]: Az 50. § (5) bekezdés c) pontját az 5/2013. (I. 16.) Korm. rendelet 12. § (3) bekezdése iktatta be.
-[^54]: Az 50. § (5) bekezdés d) pontját az 5/2013. (I. 16.) Korm. rendelet 12. § (3) bekezdése iktatta be.
-[^55]: Az 50. § (6) bekezdését az 5/2013. (I. 16.) Korm. rendelet 12. § (4) bekezdése iktatta be.
-[^56]: Az 50. § (7) bekezdését az 5/2013. (I. 16.) Korm. rendelet 12. § (5) bekezdése iktatta be.
+[^52]: Az 50. § (4) bekezdése az 5/2013. (I. 16.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^53]: Az 50. § (5) bekezdését az 5/2013. (I. 16.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^54]: Az 50. § (5) bekezdés c) pontját az 5/2013. (I. 16.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^55]: Az 50. § (5) bekezdés d) pontját az 5/2013. (I. 16.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^56]: Az 50. § (6) bekezdését az 5/2013. (I. 16.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^57]: Az 50. § (7) bekezdését az 5/2013. (I. 16.) Korm. rendelet 12. § (5) bekezdése iktatta be.

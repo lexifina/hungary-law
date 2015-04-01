@@ -14,6 +14,9 @@ b) másodfokon: a fővárosi és megyei kormányhivatal
 
 (3)[^3] A vezetésre jogosító okmányok helyszíni elvételére és visszavonására, az előzetes eredetiségvizsgálatra, a származás-ellenőrzési eljárásra és a jármű hivatalból indított forgalomból történő kivonására vonatkozó szabályok a Magyarországon működő diplomáciai és konzuli képviseletek tagjaira nem alkalmazhatóak.
 
+(4)[^4] A fővárosi és megyei kormányhivatal közúti közlekedési igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter feladatai ellátásában a Hivatal közreműködik.
+
 [^1]: Az 1. § (1) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (3) bekezdését az 544/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 183. §-a iktatta be.

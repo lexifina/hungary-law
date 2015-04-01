@@ -8,8 +8,8 @@
 
 (5) A vezetői engedély cseréjére irányuló eljárás során ellenőrizni kell, hogy a benyújtott vezetői engedély ténylegesen mely kategóriára érvényes.
 
-(6)[^23] A közlekedési igazgatási hatóság a Hivatal útján megkeresi a más EGT-állam hatóságát, ha a magyar vezetői engedély kiállítására, cseréjére, pótlására irányuló eljárás során kétség merül fel a benyújtott vezetői engedély valódiságával vagy az ügyfél vezetési jogosultságával kapcsolatban.
+(6)[^24] A közlekedési igazgatási hatóság a Hivatal útján megkeresi a más EGT-állam hatóságát, ha a magyar vezetői engedély kiállítására, cseréjére, pótlására irányuló eljárás során kétség merül fel a benyújtott vezetői engedély valódiságával vagy az ügyfél vezetési jogosultságával kapcsolatban.
 
 (7) A közlekedési igazgatási hatóság megtagadja a vezetői engedély kiállítását azon kérelmezőnek, akinek a vezetői engedélyét egy másik tagállamban korlátozták, érvénytelenítették, visszavonták vagy a vezetési jogosultságát felfüggesztették.
 
-[^23]: A 19. § (6) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 10. §-val megállapított szöveg.
+[^24]: A 19. § (6) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 10. §-val megállapított szöveg.
