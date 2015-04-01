@@ -1,3 +1,3 @@
-1. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^13]
+1. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^12]
 
-[^13]: Az 1. melléklet a 259/2011. (XII. 7.) Korm. rendelet 25. § (1) bekezdés g) pontja, a 299/2012. (X. 26.) Korm. rendelet 3. §-a, a 296/2012. (X. 17.) Korm. rendelet a) és b) pontja, a 394/2012. (XII. 20.) Korm. rendelet 46. §-a, a 441/2012. (XII. 29.) Korm. rendelet 23. §-a, a 67/2013. (III. 8.) Korm. rendelet 10. § a) pontja, a 225/2013. (VI. 24.) Korm. rendelet 5. § (2) bekezdés b) pontja, az 527/2013. (XII. 30.) Korm. rendelet 99. § (2) bekezdése, a 22/2014. (II. 3.) Korm. rendelet 7. §-a, a 229/2014. (IX. 5.) Korm. rendelet 54. § (1) bekezdése, 55. § a)–b) pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 19. § (2) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
