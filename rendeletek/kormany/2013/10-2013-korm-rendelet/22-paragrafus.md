@@ -1,4 +1,4 @@
-## 21. §[^8] Ha az értékelt személy jogviszonya év közben keletkezik, a jogviszony keletkezésétől számított harminc napon belül, a katonai állomány és az Információs Hivatal állományának tagja esetében a próbaidő leteltéig meg kell állapítani részére a teljesítményértékelés kötelező és – a közszolgálati tisztviselők vonatkozásában – ajánlott elemeit.
+## 21. §[^9] Ha az értékelt személy jogviszonya év közben keletkezik, a jogviszony keletkezésétől számított harminc napon belül, a katonai állomány és az Információs Hivatal állományának tagja esetében a próbaidő leteltéig meg kell állapítani részére a teljesítményértékelés kötelező és – a közszolgálati tisztviselők vonatkozásában – ajánlott elemeit.
 
 22. § (1) A teljesítményértékelésre – a 20. § (1) bekezdésében, valamint a (2)–(4) bekezdésekben foglalt eltéréssel – csak akkor kerülhet sor, ha az értékelt személy az értékelés alapjául szolgáló időszakban legalább két hónapig az értékelő vezetőjének irányítása alatt állt.
 
@@ -12,4 +12,4 @@ b) az új munkakörben az új munkakör szerint illetékes értékelő vezető a
 
 (4) A (3) bekezdés rendelkezései megfelelően alkalmazandóak az értékelt személy végleges áthelyezése esetén. Az új munkáltatónak figyelmembe kell vennie az értékelt személyre vonatkozó – az áthelyezése előtti munkáltató által végzett – tárgyévi teljesítményértékeléseket.
 
-[^8]: A 21. § az 552/2013. (XII. 31.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^9]: A 21. § az 552/2013. (XII. 31.) Korm. rendelet 20. §-a szerint módosított szöveg.
