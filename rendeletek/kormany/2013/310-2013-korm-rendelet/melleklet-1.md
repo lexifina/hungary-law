@@ -6,43 +6,43 @@
 
 A hulladékgazdálkodási terv és a megelőzési program előkészítése során az OKTF NHI a következő hatóságokat vonja be:
 
-1. az erdővédelem vonatkozásában a megyei kormányhivatal erdészeti igazgatóságát,
+1. a területileg illetékes vízügyi hatóságot a vízügyre vonatkozó szakkérdések vonatkozásában,
 
-2.[^8] a környezetvédelemre, természetvédelemre szakkérdések vonatkozásában a területileg illetékes környezetvédelmi és természetvédelmi felügyelőséget,
+2. a bányafelügyeleti hatáskörében eljáró kormányhivatalt a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányászati szakkérdések vonatkozásában,
 
-2a.[^9] a vízügyre vonatkozó szakkérdések vonatkozásában a területileg illetékes vízügyi hatóságot,
+3. a Magyar Energetikai és Közmű-szabályozási Hivatalt az árképzéssel és az energetikával kapcsolatos szakkérdések vonatkozásában,
 
-3. a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányászati szakkérdések vonatkozásában a Magyar Bányászati és Földtani Hivatalt,
+4. a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát az útügyi, vasúti és hajózási szakkérdések vonatkozásában,
 
-4. az árképzéssel és az energetikával kapcsolatos szakkérdések vonatkozásában a Magyar Energetikai és Közmű-szabályozási Hivatalt,
+5. a Nemzeti Közlekedési Hatóság Légügyi Hivatalát a légügyi szakkérdések vonatkozásában,
 
-5. a termőföld védelmével kapcsolatos szakkérdések vonatkozásában a területileg illetékes fővárosi és megyei kormányhivatal földhivatalát,
+6. a Nemzeti Média-és Hírközlési Hatóságot a hírközlési szakkérdések vonatkozásában.
 
-6. az állat-egészségügyi szakkérdések vonatkozásában a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát,
+7. a Honvédelmi Minisztérium Hatósági Hivatalát a honvédelmi szakkérdések vonatkozásában,
 
-7. a növény-egészségügyi szakkérdések vonatkozásában a megyei kormányhivatal növény- és talajvédelmi igazgatóságát,
+8. a területileg illetékes települési, fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés vonatkozásában,
 
-8. a közlekedési szakkérdések vonatkozásában a területileg illetékes fővárosi és megyei kormányhivatal közlekedési felügyelőségét,
+9. az Országos Meteorológiai Szolgálatot a meteorológiai szakkérdések vonatkozásában,
 
-9. az útügyi, vasúti és hajózási szakkérdések vonatkozásában a Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatalát,
+10. a megyei katasztrófavédelmi igazgatóságot, a Fővárosi Katasztrófavédelmi Igazgatóságot a tűz- és katasztrófavédelmi szakkérdések vonatkozásában,
 
-10. a légügyi szakkérdések vonatkozásában a Nemzeti Közlekedési Hatóság Légügyi Hivatalát,
+11. a területileg illetékes fővárosi és megyei kormányhivatalt
 
-11. a hírközlési szakkérdések vonatkozásában a hírközlési területi hivatalt,
+a) erdészeti hatáskörében eljárva az erdővédelem vonatkozásában,
 
-12. a honvédelmi szakkérdések vonatkozásában a Honvédelmi Minisztérium Hatósági Hivatalát,
+b) környezetvédelmi és természetvédelmi hatáskörében eljárva a környezetvédelmi és természetvédelmi szakkérdések vonatkozásában,
 
-13. a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés vonatkozásában a területileg illetékes települési, fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt,
+c) termőföld mennyiségi védelmével kapcsolatos hatáskörében eljárva a termőföld mennyiségi védelmével kapcsolatos szakkérdések vonatkozásában,
 
-14. a meteorológiai szakkérdések vonatkozásában az Országos Meteorológiai Szolgálatot,
+d) élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljárva az állategészségügyi szakkérdések vonatkozásában,
 
-15. a fogyasztóvédelmi szakkérdések vonatkozásában a területileg illetékes fővárosi és megyei kormányhivatal fogyasztóvédelmi felügyelőségét,
+e) növény- és talajvédelmi hatáskörében eljárva a növény-egészségügyi szakkérdések vonatkozásában,
 
-16. a tűz- és katasztrófavédelmi szakkérdések vonatkozásában a megyei katasztrófavédelmi igazgatóságot, a Fővárosi Katasztrófavédelmi Igazgatóságot,
+f) közlekedési hatáskörében eljárva a közlekedési szakkérdések vonatkozásában,
 
-17. a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában a területileg illetékes fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét.
+g) fogyasztóvédelmi hatáskörében eljárva a fogyasztóvédelmi szakkérdések vonatkozásában,
+
+h) népegészségügyi hatáskörében eljárva a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában.
 
 [^6]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet a 368/2014. (XII. 30.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^8]: Az 1. melléklet 2. pontja az 527/2013. (XII. 30.) Korm. rendelet 150. § (2) bekezdésével megállapított szöveg.
-[^9]: Az 1. melléklet 2a. pontját az 527/2013. (XII. 30.) Korm. rendelet 150. § (2) bekezdése iktatta be.
+[^7]: Az 1. mellékelt a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított szöveg.
