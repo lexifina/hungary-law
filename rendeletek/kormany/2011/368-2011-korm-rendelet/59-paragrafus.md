@@ -12,7 +12,7 @@ c) a befizető, kedvezményezett megnevezését, címét,
 
 d) a fizetés időpontját, módját, összegét, devizanemét,
 
-e)[^159] a bevétel, kiadás egységes rovatrend és kormányzati funkció szerinti számát, a terheléssel, jóváírással (kifizetéssel, bevételezéssel) érintett pénzeszköz államháztartási számviteli kormányrendelet szerinti könyvviteli számlájának számát,
+e)[^160] a bevétel, kiadás egységes rovatrend és kormányzati funkció szerinti számát, a terheléssel, jóváírással (kifizetéssel, bevételezéssel) érintett pénzeszköz államháztartási számviteli kormányrendelet szerinti könyvviteli számlájának számát,
 
 f) a kötelezettségvállalás nyilvántartási számát,
 
@@ -24,18 +24,18 @@ h) az 58. § (3) bekezdése szerinti érvényesítést.
 
 (5) Nem kell utalványozni
 
-a)[^160] a közigazgatási hatósági határozaton alapuló, az egységes rovatrend B3. Közhatalmi bevételek rovatain elszámolandó költségvetési bevételek beszedését, és az egységes rovatrend B401. Készletértékesítés ellenértéke, B402. Szolgáltatások ellenértéke és B403. Közvetített szolgáltatások ellenértéke rovatain elszámolandó költségvetési bevételeket,
+a)[^161] a közigazgatási hatósági határozaton alapuló, az egységes rovatrend B3. Közhatalmi bevételek rovatain elszámolandó költségvetési bevételek beszedését, és az egységes rovatrend B401. Készletértékesítés ellenértéke, B402. Szolgáltatások ellenértéke és B403. Közvetített szolgáltatások ellenértéke rovatain elszámolandó költségvetési bevételeket,
 
-b)[^161] a fizetési számla vezetésével és az azon végzett műveletekkel kapcsolatban a számlavezető által felszámított díjakkal, költségekkel kapcsolatos költségvetési kiadásokat,
+b)[^162] a fizetési számla vezetésével és az azon végzett műveletekkel kapcsolatban a számlavezető által felszámított díjakkal, költségekkel kapcsolatos költségvetési kiadásokat,
 
-c)[^162] az egységes rovatrend B813. Maradvány igénybevétele rovatain elszámolandó finanszírozási bevételek teljesítését, és
+c)[^163] az egységes rovatrend B813. Maradvány igénybevétele rovatain elszámolandó finanszírozási bevételek teljesítését, és
 
 d) a fedezetkezelői számláról, valamint – a fedezetkezelői számlára történő átutalás esetén – az építtetői fedezetbiztosítási számláról történő kifizetéseket.
 
-(6)[^163]
+(6)[^164]
 
-[^159]: Az Ávr. 59. § (3) bekezdés e) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^160]: Az Ávr. 59. § (5) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (2) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 33. pontja szerint módosított szöveg.
-[^161]: Az Ávr. 59. § (5) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 34. pontja szerint módosított szöveg.
-[^162]: Az Ávr. 59. § (5) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (3) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 35. pontja szerint módosított szöveg.
-[^163]: Az Ávr. 59. § (6) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 13. pontja hatályon kívül helyezte.
+[^160]: Az Ávr. 59. § (3) bekezdés e) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^161]: Az Ávr. 59. § (5) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (2) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 33. pontja szerint módosított szöveg.
+[^162]: Az Ávr. 59. § (5) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 34. pontja szerint módosított szöveg.
+[^163]: Az Ávr. 59. § (5) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 24. § (3) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 35. pontja szerint módosított szöveg.
+[^164]: Az Ávr. 59. § (6) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 13. pontja hatályon kívül helyezte.

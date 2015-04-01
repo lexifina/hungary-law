@@ -88,7 +88,7 @@
 
 ## 30. a központi költségvetés LXIII. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 31.[^397] a központi költségvetés LXV. fejezeténél a Bethlen Gábor Alapért felelős testület,
+## 31.[^408] a központi költségvetés LXV. fejezeténél a Bethlen Gábor Alapért felelős testület,
 
 ## 32. a központi költségvetés LXVI. fejezeténél a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
@@ -118,7 +118,7 @@
 
 ## b) az országos nemzetiségi önkormányzat esetében az országos nemzetiségi önkormányzat képviselő-testülete és a képviselő-testület elnöke.
 
-2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^398]
+2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^409]
 
-[^397]: Az Ávr. 1. melléklet 31. pontja a 20/2015. (II. 17.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
-[^398]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított szöveg.
+[^408]: Az Ávr. 1. melléklet 31. pontja a 20/2015. (II. 17.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
+[^409]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított szöveg.

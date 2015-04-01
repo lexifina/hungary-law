@@ -1,6 +1,6 @@
-## [Az Áht. 28. §-ához][^80]
+## [Az Áht. 28. §-ához][^81]
 
-30. §[^81] Az Áht. 28. § (1) bekezdése szerinti rendelet, szabályzat mellékletében a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok és elkülönített állami pénzalapok előirányzatának felhasználási szabályait a 3. mellékletben meghatározott módon kell szabályozni. A központi költségvetésről szóló törvény elfogadását követően a rendeletet, szabályzatot a fejezetet irányító szerv vezetője haladéktalanul felülvizsgálja és azt módosítja. Ha a fejezetet irányító szerv szabályzatot ad ki, a szabályzatnak rendelkeznie kell az Áht. 109. § (5) bekezdésében foglaltakról is.
+30. §[^82] Az Áht. 28. § (1) bekezdése szerinti rendelet, szabályzat mellékletében a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok és elkülönített állami pénzalapok előirányzatának felhasználási szabályait a 3. mellékletben meghatározott módon kell szabályozni. A központi költségvetésről szóló törvény elfogadását követően a rendeletet, szabályzatot a fejezetet irányító szerv vezetője haladéktalanul felülvizsgálja és azt módosítja. Ha a fejezetet irányító szerv szabályzatot ad ki, a szabályzatnak rendelkeznie kell az Áht. 109. § (5) bekezdésében foglaltakról is.
 
-[^80]: Az Ávr. 30. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^81]: Az Ávr. 30. §-a a 397/2014. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^81]: Az Ávr. 30. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^82]: Az Ávr. 30. §-a a 397/2014. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.

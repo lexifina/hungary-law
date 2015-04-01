@@ -46,8 +46,8 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-3. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^399]
+3. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^410]
 
 Az Áht. 109. § (5) bekezdésében kapott felhatalmazás alapján megalkotott jogszabály tervezete megszerkesztésénél alkalmazandó kodifikációs szövegezési minta
 
-[^399]: Az Ávr. 3. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 3. pontjával megállapított szöveg.
+[^410]: Az Ávr. 3. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 3. pontjával megállapított szöveg.

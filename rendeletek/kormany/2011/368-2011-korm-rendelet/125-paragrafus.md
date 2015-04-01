@@ -16,7 +16,7 @@ c) a támogató szolgáltatás, a közösségi ellátások, a jelzőrendszeres h
 
 (6)[^224]
 
-(7)[^225] Az Igazgatóság a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási gyámhivatala döntése alapján intézkedik a természetbeni családi pótlék meghatározott részének, illetve az iskoláztatási támogatásnak a családtámogatási számlára utalásáról. Az Igazgatóság az utalás során feltünteti a kedvezményezett gyermek azonosító számát.
+(7)[^225] Az Igazgatóság a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala döntése alapján intézkedik a természetbeni családi pótlék meghatározott részének, illetve az iskoláztatási támogatásnak a családtámogatási számlára utalásáról. Az Igazgatóság az utalás során feltünteti a kedvezményezett gyermek azonosító számát.
 
 (8) A Kincstár az építőipari kivitelezési tevékenységről szóló kormányrendelet rendelkezése szerint fedezetkezelői számlát, továbbá az államháztartás központi alrendszerébe tartozó költségvetési szerv részére építtetői fedezetbiztosítási számlát vezet.
 
@@ -26,4 +26,4 @@ c) a támogató szolgáltatás, a közösségi ellátások, a jelzőrendszeres h
 [^222]: Az Ávr. 125. § (2) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 31. pontja szerint módosított szöveg.
 [^223]: Az Ávr. 125. § (5) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^224]: Az Ávr. 125. § (6) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 5. § (3) bekezdése hatályon kívül helyezte.
-[^225]: Az Ávr. 125. § (7) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^225]: Az Ávr. 125. § (7) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 188. § (6) bekezdés b) pontja szerint módosított szöveg.

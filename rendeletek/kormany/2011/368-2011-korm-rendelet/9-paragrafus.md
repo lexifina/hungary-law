@@ -20,13 +20,13 @@ b) a (4) bekezdés szerinti esetben az önkormányzati hivatal, illetve a társu
 
 látja el, kivéve ha az (1) bekezdés b) pontja szerinti feladatok ellátása szolgáltatás vásárlásával történik.
 
-(5a)[^23] A munkamegosztási megállapodásnak tartalmaznia kell, hogy a 9. § (1) bekezdése szerinti feladatok közül melyik feladatot melyik költségvetési szerv látja el. Egy feladatra csak egy költségvetési szerv jelölhető ki. Az irányító szerv az önkormányzati hivatalt külön gazdasági szervezet nélkül is kijelölheti a 9. § (1) bekezdésében meghatározott feladatok ellátására. A munkamegosztási megállapodást az irányító szerv hagyja jóvá.
+(5a)[^23] A munkamegosztási megállapodásnak tartalmaznia kell, hogy az (1) bekezdés szerinti feladatok közül melyik feladatot melyik költségvetési szerv látja el. Egy feladatra csak egy költségvetési szerv jelölhető ki. Az irányító szerv az önkormányzati hivatalt külön gazdasági szervezet nélkül is kijelölheti az (1) bekezdésben meghatározott feladatok ellátására. A munkamegosztási megállapodást az irányító szerv hagyja jóvá.
 
 (6) A központi kezelésű előirányzat és a fejezeti kezelésű előirányzat kezelő szerve a kezelt központi kezelésű előirányzatok és fejezeti kezelésű előirányzatok tekintetében a tervezéssel, gazdálkodással, finanszírozással, adatszolgáltatással és beszámolással kapcsolatos feladatokat a gazdasági szervezetével vagy ezekkel a feladatokkal a szervezeti és működési szabályzatában kijelölt más szervezeti egységével látja el.
 
 (7) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szerve a kezelt elkülönített állami pénzalapokkal és társadalombiztosítás pénzügyi alapjaival kapcsolatos tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladatokat – figyelemmel a (8) bekezdésben foglaltakra is – a gazdasági szervezetével vagy ezekkel a feladatokkal a szervezeti és működési szabályzatában kijelölt más szervezeti egységével látja el.
 
-(8)[^24] Ha a fővárosi és megyei kormányhivatal megyei szakigazgatási szerve vagy járási (fővárosi kerületi) hivatala járási szakigazgatási szerve törvény alapján elkülönített állami pénzalap vagy társadalombiztosítás pénzügyi alapja előirányzatai meghatározott része felett rendelkezési joggal bír, az azzal kapcsolatos gazdálkodási, nyilvántartás-vezetési, adatszolgáltatási feladatokat a fővárosi és megyei kormányhivatal ezekkel a feladatokkal megbízott megyei szakigazgatási szerve vagy járási (fővárosi kerületi) hivatala járási szakigazgatási szerve vagy annak irányítása alatt működő szervezeti egysége látja el.
+(8)[^24] Ha a fővárosi és megyei kormányhivatal vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala törvény alapján elkülönített állami pénzalap vagy társadalombiztosítás pénzügyi alapja előirányzatai meghatározott része felett rendelkezési joggal bír, az azzal kapcsolatos gazdálkodási, nyilvántartás-vezetési, adatszolgáltatási feladatokat a fővárosi és megyei kormányhivatal szervezeti és működési szabályzata alapján e feladatért felelős szervezeti egysége vagy a fővárosi és megyei kormányhivatal vezetője által kijelölt, a fővárosi és megyei kormányhivatal alkalmazásában álló személy látja el.
 
 (9)[^25]
 
@@ -36,6 +36,6 @@ látja el, kivéve ha az (1) bekezdés b) pontja szerinti feladatok ellátása s
 [^20]: Az Ávr. 9. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^21]: Az Ávr. 9. § (4) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 5. pontja hatályon kívül helyezte, újonnana a 397/2014. (XII. 31.) Korm. rendelet 8. § (3) bekezdése iktatta be.
 [^22]: Az Ávr. 9. § (5) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^23]: Az Ávr. 9. § (5a) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 8. § (6) bekezdése iktatta be.
-[^24]: Az Ávr. 9. § (8) bekezdése a 74/2013. (III. 11.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^23]: Az Ávr. 9. § (5a) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 8. § (6) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 188. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^24]: Az Ávr. 9. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (1) bekezdésével megállapított szöveg.
 [^25]: Az Ávr. 9. § (9) bekezdését az 56/2012. (III. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 3. pontja.

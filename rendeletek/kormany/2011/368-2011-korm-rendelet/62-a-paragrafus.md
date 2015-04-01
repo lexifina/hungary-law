@@ -1,4 +1,4 @@
-62/A. §[^172] (1) A foglalkoztató a központosított illetményszámfejtéssel és a foglalkoztatót terhelő munkaügyi statisztikai és más adatszolgáltatások teljesítésével összefüggő adatszolgáltatási kötelezettségét – ha e rendelet eltérően nem rendelkezik – a Kincstár számára az illetményszámfejtő programon keresztül teljesíti.
+62/A. §[^173] (1) A foglalkoztató a központosított illetményszámfejtéssel és a foglalkoztatót terhelő munkaügyi statisztikai és más adatszolgáltatások teljesítésével összefüggő adatszolgáltatási kötelezettségét – ha e rendelet eltérően nem rendelkezik – a Kincstár számára az illetményszámfejtő programon keresztül teljesíti.
 
 (2) A foglalkoztató
 
@@ -46,4 +46,4 @@ ellenőrzésére irányul.
 
 (6) Ha az ellenőrzés során a Kincstár hibát vagy hiányosságot észlel, arról a foglalkoztatót haladéktalanul tájékoztatja. A foglalkoztató a tárgyhavi számfejtés zárásáig köteles a hibát javítani és a hiányosságot pótolni. Ennek elmulasztása esetén a Kincstár – a hibás vagy hiányos foglalkoztatói döntés végrehajtása mellett – a foglalkoztató irányító szervét a foglalkoztatónak a hiba javítására vagy a hiányosság pótlására való kötelezése céljából megkeresi.
 
-[^172]: Az Ávr. 62/A. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^173]: Az Ávr. 62/A. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
