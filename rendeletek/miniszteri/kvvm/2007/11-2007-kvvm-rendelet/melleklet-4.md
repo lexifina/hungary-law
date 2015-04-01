@@ -54,7 +54,7 @@ A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatko
 
 – A vadállományt a körzeti vadgazdálkodási tervben meghatározott, az élőhelyet még nem veszélyeztető vadlétszám szintjére kell csökkenteni.
 
-– Vadgazdálkodási berendezések létesítése az erdőrezervátum magterületen tilos. Az erdőrezervátum védőzónában létesítendő vadgazdálkodási berendezés engedélyezési eljárása során a természetvédelmi szakhatóság az igazgatóság szakvéleményének figyelembevételével adja meg szakmai állásfoglalását.
+–[^1] Vadgazdálkodási berendezések létesítése az erdőrezervátum magterületen tilos. Az erdőrezervátum védőzónában létesítendő vadgazdálkodási berendezés engedélyezési eljárása során a természetvédelmi hatóság a szakkérdés vizsgálata során az igazgatóság szakvéleményének figyelembe vételével jár el.
 
 – A fekete gólya (Ciconia nigra) és vörös kánya (Milvus milvus) fészkek 100 m-es körzetében március 1. és július 31. között mindennemű vadászati tevékenység tilos.
 
@@ -70,7 +70,7 @@ A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatko
 
 – Tilos olyan tevékenységet folytatni, olyan létesítményt elhelyezni és üzemeltetni, amely a terület erdőrezervátum funkciójának betöltését zavarja vagy veszélyezteti.
 
-– Vízrendezési beavatkozás engedélyezési eljárása során a természetvédelmi szakhatóság az igazgatóság szakvéleményének figyelembevételével adja meg szakmai állásfoglalását. Zsilip, áteresz kizárólag a természetvédelmi célú vízellátás biztosítása érdekében tervezhető, építhető és működtethető.
+–[^2] Vízrendezési beavatkozás engedélyezési eljárása során a természetvédelmi hatóság szakhatósági állásfoglalása kiadása vagy szakkérdés vizsgálata során az igazgatóság szakvéleményének figyelembe vételével jár el. Zsilip, áteresz kizárólag a természetvédelmi célú vízellátás biztosítása érdekében tervezhető, építhető és működtethető.
 
 3.1.3. Látogatás
 
@@ -115,3 +115,6 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 3.2.3. Gyepek kezelése
 
 – A gyepeket kaszálással kell fenntartani.
+
+[^1]: A 4. melléklet 3.1.1. alpont második franciabekezdése a 15/2015. (III. 31.) FM rendelet 20. § a) pontja szerint módosított szöveg.
+[^2]: A 4. melléklet 3.1.2. alpont második franciabekezdése a 15/2015. (III. 31.) FM rendelet 20. § b) pontja szerint módosított szöveg.
