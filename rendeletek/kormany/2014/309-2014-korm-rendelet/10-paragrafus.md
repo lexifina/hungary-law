@@ -12,6 +12,8 @@ c) nyilvántartásba vételhez kötött tevékenység esetén a nyilvántartásb
 
 ## keletkezik.
 
-(2) Az adatszolgáltatásra kötelezett az adatszolgáltatási kötelezettségének keletkezését és megszűnését a kötelezettség keletkezésétől vagy megszűnésétől számított 15 napon belül a telephelye szerint illetékes környezetvédelmi és természetvédelmi felügyelőségnek (a továbbiakban: felügyelőség) a (3) bekezdésben meghatározottak szerint bejelenti.
+(2)[^1] Az adatszolgáltatásra kötelezett az adatszolgáltatási kötelezettségének keletkezését és megszűnését a kötelezettség keletkezésétől vagy megszűnésétől számított 15 napon belül a telephelye szerint illetékes környezetvédelmi hatóságnak a (3) bekezdésben meghatározottak szerint bejelenti.
 
 (3) A (2) bekezdés szerinti kötelezettség bejelentését – a környezet védelmének általános szabályairól szóló törvény adatszolgáltatási kötelezettségre vonatkozó előírásai szerint – a 2. melléklet szerinti adattartalommal kell teljesíteni.
+
+[^1]: A 10. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 257. § a) pontja szerint módosított szöveg.
