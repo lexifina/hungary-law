@@ -516,7 +516,7 @@ Nyomáspróbák
 
 2.1. A szilárdsági nyomáspróbához semleges kémhatású (6 ≤ pH ≤ 8) szilárd szennyeződésektől mentes, tiszta vizet kell használni. Ha a nyomáspróba vizének hőmérséklete +4 °C alá csökkenhet, a várható legalacsonyabb vízhőmérséklet kialakulását figyelembe véve, fagyáspontcsökkentő adalékot lehet alkalmazni. Fagyáspontcsökkentőként csak olyan anyag alkalmazható, ami nem korrodálja a csővezeték vagy a tartozékok anyagát.
 
-2.2. Különleges esetekben (pl. csőhídon haladó gázvezetékeknél vagy olyan nagynyomású gázvezetékeknél, amelyeket nem lehet vízteleníteni) az illetékes Bányakapitányság engedélyével, a víz helyett levegőt vagy nitrogént is lehet használni. Az ilyen esetekre külön technológiai utasítást és/vagy nyomáspróbatervet kell készíteni.
+2.2.[^9] Különleges esetekben (pl. csőhídon haladó gázvezetékeknél vagy olyan nagynyomású gázvezetékeknél, amelyeket nem lehet vízteleníteni) a bányafelügyelet engedélyével, a víz helyett levegőt vagy nitrogént is lehet használni. Az ilyen esetekre külön technológiai utasítást és/vagy nyomáspróbatervet kell készíteni.
 
 2.3. Egyes esetekben (például bekötéseknél) a szilárdsági nyomáspróba közegeként a szállítani tervezett anyag is használható a megfelelő biztonsági intézkedések mellett. Az ilyen esetekre külön technológiai utasítást és/vagy nyomáspróbatervet kell készíteni.
 
@@ -550,7 +550,7 @@ Nyomáspróbák
 
 3.3. A tömörségi nyomáspróba előtt a szállítóvezetékből a szilárdsági nyomáspróba közegét (vizet) a lehető legnagyobb mértékben el kell távolítani a csővezetékből, és a csővezeték belső terét megfelelően ki kell szárítani. A szárítás mértékét az üzemeltető határozza meg.
 
-3.4. A tömörségi nyomáspróba közegeként általában levegőt kell használni. Különleges esetekben, az illetékes Bányakapitányság engedélyével, szagosított földgáz is használható tömörségi nyomáspróba közegeként.
+3.4.[^10] A tömörségi nyomáspróba közegeként általában levegőt kell használni. Különleges esetekben, a bányafelügyelet engedélyével, szagosított földgáz is használható tömörségi nyomáspróba közegeként.
 
 3.5. A tömörségi nyomáspróbához csak olyan levegő vagy szagosított földgáz használható, amelyek vízharmatpontja a tömörségi próba nyomásán nem nagyobb, mint az üzemszerűen szállítani tervezett gáz vízharmatpontja, maximális üzemnyomáson.
 
@@ -715,3 +715,5 @@ Ha a korlátozás nem ideiglenes jellegű – tehát az üzemeltető nem kíván
 [^6]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 97. pontja hatályon kívül helyezte.
 [^7]: Jelenleg a 8/2002. (II. 16.) GM rendelet.
 [^8]: Jelenleg a 35/1996. (XII. 29.) BM rendelet.
+[^9]: A melléklet IV. fejezet 2.2. pontja a 15/2015. (III. 31.) NFM rendelet 7. § b) pontja szerint módosított szöveg.
+[^10]: A melléklet IV. fejezet 3.4. pontja a 15/2015. (III. 31.) NFM rendelet 7. § b) pontja szerint módosított szöveg.

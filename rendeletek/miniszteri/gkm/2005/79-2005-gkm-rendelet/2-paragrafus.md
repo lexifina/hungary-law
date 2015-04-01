@@ -4,6 +4,6 @@
 
 (3) E rendelet előírásait az egyéb gázok és termékei vonatkozásában a szállított közeg összetételének és nyomásának figyelembevételével kell alkalmazni.
 
-(4)[^1] A Szabályzat előírásai alól – egyenértékű biztonsági szintet eredményező műszaki megoldás esetén – általános érvényű eltérést, felmentést a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH), egyedi esetekben az egyes előírások alóli eltérést, felmentést a területileg illetékes bányakapitányság engedélyezhet.
+(4)[^1]
 
-[^1]: A 2. § (4) bekezdése a 86/2006. (XII. 26.) GKM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § (4) bekezdését a 15/2015. (III. 31.) NFM rendelet 8. §-a hatályon kívül helyezte.
