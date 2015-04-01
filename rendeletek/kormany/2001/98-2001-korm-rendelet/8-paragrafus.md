@@ -1,4 +1,4 @@
-## 8. §[^13] Veszélyes hulladékokkal kapcsolatos kezelési tevékenységhez nincs szükség a környezetvédelmi hatóság engedélyére a következő esetekben:
+## 8. §[^14] Veszélyes hulladékokkal kapcsolatos kezelési tevékenységhez nincs szükség a környezetvédelmi hatóság engedélyére a következő esetekben:
 
 a) a veszélyes hulladékoknak a termelő telephelyén (létesítményen) belüli gyűjtése (munkahelyi gyűjtőhelyen, üzemi gyűjtőhelyen) és mozgatása, valamint a termelő által végzett előkezelése,
 
@@ -8,4 +8,4 @@ c) a háztartásokban keletkező veszélyes hulladéknak a speciális gyűjtőhe
 
 d) egyes veszélyes hulladékoknak a lakosságtól való begyűjtése céljából speciális gyűjtőhelyeken történő gyűjtése.
 
-[^13]: A 8. § a 182/2009. (IX. 10.) Korm. rendelet 228. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 8. § a 182/2009. (IX. 10.) Korm. rendelet 228. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

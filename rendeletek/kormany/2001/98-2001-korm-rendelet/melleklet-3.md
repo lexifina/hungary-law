@@ -20,7 +20,7 @@
 
 ## 2.4. A termelőnek a veszélyes hulladékot tartalmazó csomagolóeszközön láthatóan fel kell tüntetnie az „SZ” kísérőjegy számát és a hulladék EWC kódszámát.
 
-## 2.5. Ha a veszélyes hulladék kísérőjegyének megfelelő példánya a szállítmány útnak indítását követő 30 napon belül nem kerül vissza a termelőhöz, akkor ezt a körülményt a termelőnek jelentenie kell a környezetvédelmi és természetvédelmi felügyelőség részére.
+## 2.5. Ha a veszélyes hulladék kísérőjegyének megfelelő példánya a szállítmány útnak indítását követő 30 napon belül nem kerül vissza a termelőhöz, akkor ezt a körülményt a termelőnek jelentenie kell a környezetvédelmi hatóság részére.
 
 ## 3. Szállító, begyűjtő
 
@@ -40,7 +40,7 @@
 
 ## 5. Kezelő
 
-## 5.1. Veszélyes hulladékot a kezelő csak abban az esetben vehet át, ha a veszélyes hulladék kezelésére a felügyelőségtől engedéllyel rendelkezik, és ha a hulladékot azonosította a kísérőjegyen feltüntetettel.
+## 5.1. Veszélyes hulladékot a kezelő csak abban az esetben vehet át, ha a veszélyes hulladék kezelésére a környezetvédelmi hatóságtól engedéllyel rendelkezik, és ha a hulladékot azonosította a kísérőjegyen feltüntetettel.
 
 ## 5.2. A kezelőnek telephelye beléptető pontján a veszélyeshulladék-szállítmány okmányain szereplő adatokat egyeztetnie kell az engedélyében lévő felhatalmazással és a birtokossal, illetve a begyűjtővel kötött szerződés esetén a szerződésében rögzített adatokkal.
 
@@ -380,4 +380,4 @@
 
 3. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^74]
 
-[^74]: A 3. számú melléklet a 377/2007. (XII. 23.) Korm. rendelet 10. §-ának – a Magyar Közlöny 2007. évi 187. számában megjelenő helesbítésnek megfelelő – (1) bekezdése szerint módosított szöveg. A 3. számú melléklet a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 16. § a)–b) pontja szerint módosított szöveg.
+[^74]: A 3. számú melléklet a 377/2007. (XII. 23.) Korm. rendelet 10. §-ának – a Magyar Közlöny 2007. évi 187. számában megjelenő helesbítésnek megfelelő – (1) bekezdése szerint módosított szöveg. A 3. számú melléklet a 289/2010. (XII. 21.) Korm. rendelet 3. § (26) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 16. § a)–b) pontja, a 70/2015. (III. 30.) Korm. rendelet 50. § (1) bekezdés d), h) és i) pontja szerint módosított szöveg.

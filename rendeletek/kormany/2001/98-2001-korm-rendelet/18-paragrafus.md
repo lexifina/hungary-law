@@ -1,4 +1,4 @@
-## 17. §[^24]
+## 17. §[^25]
 
 18. § (1) A veszélyes hulladék hasznosítása olyan kezelési tevékenység, melynek révén a kezelésnek alávetett veszélyes hulladékot alapanyaggá, illetve alapanyagból előállított termékkel egyenértékű termékké alakítják át. Hasznosításnak minősül a veszélyes hulladék környezetvédelmi szempontból biztonságosan végzett égetése során keletkezett hő felhasználása is.
 
@@ -6,4 +6,4 @@
 
 (3) A veszélyes hulladék energetikai hasznosítása elvégezhető veszélyeshulladék-égetőben, továbbá más hulladékkal vagy tüzelőanyaggal együtt más létesítményekben is olyan koncentrációarányban, amely mellett betartják a levegőtisztaság-védelmi előírásokat, illetve gondoskodnak az égetési maradékanyagok kezeléséről, ártalmatlanításáról.
 
-[^24]: A 17. §-t a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (2) bekezdése hatályon kívül helyezte.
+[^25]: A 17. §-t a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (2) bekezdése hatályon kívül helyezte.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-98-20-2
 | 2014-01-01 | 2001-98-20-22.16 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-05 | 2001-98-20-22.17 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-03-05 | 2001-98-20-22.18 | 300/2014. (XII. 5.) Korm. rendelet |
+| 2015-04-01 | 2001-98-20-22.19 | 527/2013. (XII. 30.) Korm. rendelet |

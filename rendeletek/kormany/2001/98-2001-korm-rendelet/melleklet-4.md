@@ -12,17 +12,17 @@
 
 ## A veszélyes hulladékot a hulladék kémiai hatásainak ellenálló gyűjtőedényzetben kell gyűjteni. Illékony összetevőket tartalmazó veszélyes hulladékok gyűjtése esetében meg kell akadályozni, hogy ezek a komponensek a környezetbe kerüljenek.
 
-## A hulladék kezelője annyi kezelendő hulladékot tarthat a telephelyén, amennyi a kezelési tevékenysége zavartalan végzése érdekében szükséges. Ezt a hulladékmennyiséget a környezetvédelmi és természetvédelmi felügyelőség a kezelési engedélyben határozza meg.
+## A hulladék kezelője annyi kezelendő hulladékot tarthat a telephelyén, amennyi a kezelési tevékenysége zavartalan végzése érdekében szükséges. Ezt a hulladékmennyiséget a környezetvédelmi hatóság a kezelési engedélyben határozza meg.
 
 ## Az üzemi gyűjtőhely kialakítható nyílt téri vagy fedett módon az e melléklet előírásai szerint.
 
-## Az üzemi gyűjtőhely működési szabályzatának 1 példányát a használatbavételi engedélyezési eljárást megelőzően meg kell küldeni a környezetvédelmi és természetvédelmi felügyelőségnek. A megküldött működési szabályzatra a felügyelőség szükség esetén észrevételt, javaslatot tehet. Amennyiben a felügyelőség a működési szabályzatra harminc napon belül észrevételt nem tesz, úgy azt elfogadottnak kell tekinteni.
+## Az üzemi gyűjtőhely működési szabályzatának 1 példányát a használatbavételi engedélyezési eljárást megelőzően meg kell küldeni a környezetvédelmi hatóságnak. A megküldött működési szabályzatra a felügyelőség szükség esetén észrevételt, javaslatot tehet. Amennyiben a környezetvédelmi hatóság a működési szabályzatra harminc napon belül észrevételt nem tesz, úgy azt elfogadottnak kell tekinteni.
 
 ## A hulladékgyűjtő udvar kialakítható nyílt téri vagy fedett módon az e melléklet előírásai szerint, amelyből a szivárgórendszer elhagyható, ha összefolyóval és nyílt téri megoldásnál övárokkal alakítják ki.
 
 ## A hulladékgyűjtő udvaron a különböző anyagi minőségű veszélyes hulladékokat szállítható, ütésálló, bélelt vagy kettős falú, illetve kármentővel felszerelt gyűjtőedényzetben vagy gyűjtőkonténerekben kell gyűjteni, amelyek kialakítása összhangban van a bennük gyűjtendő veszélyes hulladékok fizikai és kémiai tulajdonságaival.
 
-## A hulladékgyűjtő udvar működési szabályzatának egy példányát – az üzembe helyezési eljárást megelőzően – jóváhagyás végett meg kell küldeni a környezetvédelmi és természetvédelmi felügyelőségnek.
+## A hulladékgyűjtő udvar működési szabályzatának egy példányát – az üzembe helyezési eljárást megelőzően – jóváhagyás végett meg kell küldeni a környezetvédelmi hatóságnak.
 
 ## Az üzemi gyűjtőhely és a hulladékgyűjtő udvarra vonatkozó műszaki előírások:
 
@@ -126,8 +126,9 @@
 
 ## A fedett tárolók funkcionális, épületszerkezeti és épületgépészeti kialakítására vonatkozó követelményeket – a helyi körülmények és a hulladék környezeti veszélyességét mérlegelve – az engedélyben szükséges rögzíteni.
 
-4. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez
+4. számú melléklet a 98/2001. (VI. 15.) Korm. rendelethez[^78]
 
 [^75]: A 3. számú melléklet 1. pont 1.2. alpontja a 300/2014. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^76]: A 3. számú melléklet 4. pontja a 300/2014. (XII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^77]: [A 3. számú melléklet 8. pontjában az 527/2013. (XII. 30.) Korm. rendelet 16. § a) pontjával elrendelt módosítás, amely szerint a „környezetvédelmi, természetvédelmi és vízügyi felügyelőség” szövegrészek helyébe a „környezetvédelmi és természetvédelmi felügyelőség” lép, nem vezethető át.]
+[^78]: A 4. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 50. § (1) bekezdés j) pontja szerint módosított szöveg.

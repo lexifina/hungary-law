@@ -1,6 +1,6 @@
 26. § (1) A veszélyes hulladék kezelésére irányuló engedély iránti kérelemnek tartalmaznia kell:
 
-a)[^39] a kérelmező statisztikai azonosító jelét, telephelyének címét, helyrajzi számát, tevékenysége műszaki és környezetvédelmi szempontból lényeges leírását;
+a)[^40] a kérelmező statisztikai azonosító jelét, telephelyének címét, helyrajzi számát, tevékenysége műszaki és környezetvédelmi szempontból lényeges leírását;
 
 b) a folytatni tervezett kezelési tevékenységet, amelynek engedélyezését kéri;
 
@@ -28,10 +28,10 @@ j) az engedélyt kérőnek a hulladékkezelést szolgáló műszaki és pénzüg
 
 (2) Az (1) bekezdés d) pontjában meghatározott jellemzőket össze kell vetni a elérhető legjobb technika jellemzőivel.
 
-(3)[^40] A szállításra csak az (1) bekezdés a), b) és j) pontjai vonatkoznak.
+(3)[^41] A szállításra csak az (1) bekezdés a), b) és j) pontjai vonatkoznak.
 
-(4)[^41] A veszélyes hulladék kezelésére irányuló engedély iránti kérelmet a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály alapján a hulladékgazdálkodás részszakterületen szakértői jogosultsággal rendelkező szakértő is elkészítheti.
+(4)[^42] A veszélyes hulladék kezelésére irányuló engedély iránti kérelmet a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály alapján a hulladékgazdálkodás részszakterületen szakértői jogosultsággal rendelkező szakértő is elkészítheti.
 
-[^39]: A 26. § (1) bekezdésének a) pontja a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^40]: A 26. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 18. pontja, a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^41]: A 26. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 228. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 26. § (1) bekezdésének a) pontja a 192/2003. (XI. 26.) Korm. rendelet 11. §-ának (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 26. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 43. § (1) bekezdés 18. pontja, a 182/2009. (IX. 10.) Korm. rendelet 230. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A 26. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 228. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

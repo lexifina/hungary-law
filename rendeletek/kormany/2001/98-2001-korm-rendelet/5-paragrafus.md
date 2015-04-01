@@ -1,4 +1,4 @@
-## 4/B. §[^11]
+## 4/B. §[^12]
 
 ## A veszélyes hulladékok kezelésének általános szabályai
 
@@ -24,4 +24,4 @@ d) kezelése a munka-egészségügyi és munkabiztonsági szabályok maradéktal
 
 (7) A hulladékkezelőnek a külön jogszabályban meghatározottak szerint környezetvédelmi megbízottat kell alkalmaznia.
 
-[^11]: A 4/B. §-t a 192/2003. (XI. 26.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 52. pontja. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^12]: A 4/B. §-t a 192/2003. (XI. 26.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 52. pontja. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
