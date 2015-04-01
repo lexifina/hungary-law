@@ -74,13 +74,13 @@ b) ár-, illetve belvízvédekezés, továbbá helyi vízkár-elhárítási cél
 
 (7) A (6) bekezdés szerinti esetben a robbantási munkát a helyszínen robbantásvezetőnek kell irányítania. Ha a robbantási munkát a (6) bekezdés b) pontja szerinti esetben az Országos Műszaki Irányító Törzs rendeli el, a robbantási munkát csak víz alatti és jég robbantási munkák végzésére jogosult robbantásvezető irányíthatja.
 
-(8) A robbantási munkát a (7) bekezdés szerinti robbantásvezető a robbantási munka kezdete előtt legalább két órával
+(8)[^27] A robbantási munkát a (7) bekezdés szerinti robbantásvezető a robbantási munka kezdete előtt legalább két órával
 
 a) a (6) bekezdés a) pontja szerinti esetben a bányafelügyeletnek,
 
 b) a (6) bekezdés b) pontja szerinti esetben a bányafelügyeletnek és a hivatásos katasztrófavédelmi szerv területi szervének
 
-## köteles bejelenteni. A (7) bekezdés szerinti robbantásvezető a robbanóanyag-felhasználást követően az elvégzett robbantási munkát haladéktalanul köteles a bányafelügyeletnek, a rendőrségnek és a környezetvédelmi felügyelőségnek jelenteni.
+## köteles bejelenteni. A (7) bekezdés szerinti robbantásvezető a robbanóanyag-felhasználást követően az elvégzett robbantási munkát haladéktalanul köteles a bányafelügyeletnek, a rendőrségnek és a környezetvédelmi hatóságnak jelenteni.
 
 (9) A (8) bekezdés szerinti jelentésnek tartalmaznia kell
 
@@ -97,3 +97,4 @@ c) – bányafelügyeletnek küldendő jelentés esetében – a robbantásvezet
 [^24]: A 3. § (2d) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 26. § (1) bekezdése iktatta be.
 [^25]: A 3. § (2e) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 26. § (1) bekezdése iktatta be.
 [^26]: A 3. § (4) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^27]: A 3. § (8) bekezdés záró szövegrésze a 70/2015. (III. 30.) Korm. rendelet 57. §-a szerint módosított szöveg.

@@ -1,12 +1,12 @@
-23/A. §[^65] (1)[^66] A belföldi átadási engedély iránti kérelemhez csatolni kell a robbanóanyag átadójának arra vonatkozó igazolását, hogy jogosult polgári robbantási tevékenység végzésére, vagy polgári robbanóanyag forgalmazására.
+23/A. §[^67] (1)[^68] A belföldi átadási engedély iránti kérelemhez csatolni kell a robbanóanyag átadójának arra vonatkozó igazolását, hogy jogosult polgári robbantási tevékenység végzésére, vagy polgári robbanóanyag forgalmazására.
 
 (2) A belföldi átadási engedély iránti kérelemben nem kell megjelölni a 23. § (1) bekezdésének h) pontjában foglaltakat.
 
-(3)[^67] A belföldi átadási engedély a kiállítástól számított egy évig terjedő hatállyal állítható ki.
+(3)[^69] A belföldi átadási engedély a kiállítástól számított egy évig terjedő hatállyal állítható ki.
 
-(4)[^68]
+(4)[^70]
 
-[^65]: A 23/A. §-t a 235/2007. (IX. 4.) Korm. rendelet 5. §-a iktatta be.
-[^66]: A 23/A. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
-[^67]: A 23/A. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
-[^68]: A 23/A. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 282. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
+[^67]: A 23/A. §-t a 235/2007. (IX. 4.) Korm. rendelet 5. §-a iktatta be.
+[^68]: A 23/A. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
+[^69]: A 23/A. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
+[^70]: A 23/A. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 282. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.

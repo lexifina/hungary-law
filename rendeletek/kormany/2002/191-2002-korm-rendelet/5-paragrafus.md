@@ -1,4 +1,4 @@
-5. §[^28] (1) A robbanóanyag-felhasználás tervezett időpontját – a (2) bekezdésben foglaltakra figyelemmel – a bányafelügyeletnek, a felhasználás helye szerint illetékes megyei rendőr-főkapitányságnak és környezetvédelmi felügyelőségnek, továbbá épület- vagy építmény robbantása esetén a hivatásos katasztrófavédelmi szerv területi szervének a 6. számú melléklet szerinti adattartalommal a robbantás előtt legalább 72 órával korábban be kell jelenteni. A bejelentéshez a hivatásos katasztrófavédelmi szerv a honlapján formanyomtatványt tesz közzé.
+5. §[^29] (1)[^30] A robbanóanyag-felhasználás tervezett időpontját – a (2) bekezdésben foglaltakra figyelemmel – a bányafelügyeletnek, a felhasználás helye szerint illetékes megyei rendőr-főkapitányságnak és környezetvédelmi hatóságnak, továbbá épület- vagy építmény robbantása esetén a hivatásos katasztrófavédelmi szerv területi szervének a 6. számú melléklet szerinti adattartalommal a robbantás előtt legalább 72 órával korábban be kell jelenteni. A bejelentéshez a hivatásos katasztrófavédelmi szerv a honlapján formanyomtatványt tesz közzé.
 
 (2) Nem kell bejelenteni a mélyműveléses bányában tervezett robbanóanyag-felhasználást az (1) bekezdésben meghatározott szerveknek, továbbá a külszíni művelésű bányában tervezett robbanóanyag-felhasználást a megyei rendőr-főkapitányságnak.
 
@@ -12,4 +12,5 @@ b) a felhasznált robbanóanyag megnevezését és mennyiségét,
 
 c) a robbantásvezető nevét, lakcímét, a robbantásvezetői engedély vagy igazolvány számát.
 
-[^28]: Az 5. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 47. pontja hatályon kívül helyezte, újonnan a 18/2013. (I. 30.) Korm. rendelet 3. §-a iktatta be.
+[^29]: Az 5. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 47. pontja hatályon kívül helyezte, újonnan a 18/2013. (I. 30.) Korm. rendelet 3. §-a iktatta be.
+[^30]: Az 5. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 57. §-a szerint módosított szöveg.

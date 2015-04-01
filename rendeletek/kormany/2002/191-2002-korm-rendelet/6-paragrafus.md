@@ -1,8 +1,8 @@
-6. § (1)[^29] Robbanóanyag gyártási, forgalmazási, tárolási, felhasználási, illetve megsemmisítési munkát, valamint e munkák irányítását nem végezheti az a természetes személy,
+6. § (1)[^31] Robbanóanyag gyártási, forgalmazási, tárolási, felhasználási, illetve megsemmisítési munkát, valamint e munkák irányítását nem végezheti az a természetes személy,
 
 a) aki a külön jogszabályban meghatározott szakképesítéssel és szakmai gyakorlati feltételekkel nem rendelkezik;
 
-b)[^30] akit
+b)[^32] akit
 
 ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), személy elleni bűncselekmények [1978. évi IV. törvény XII. fejezet I. cím 166–168. §, 170. § (2)–(5) bekezdés, 171. §, III. cím 174. §, 175. §, 175/A. §, 175/B. §], közösség tagja elleni erőszak (1978. évi IV. törvény 174/B. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (1978. évi IV. törvény 174/C. §), nemi erkölcs elleni erőszakos bűncselekmények [1978. évi IV. törvény XIV. fejezet II. cím 197–198. §, 207. § (3) bekezdés b) pont], embercsempészés (1978. évi IV. törvény 218. §), hivatalos személy elleni bűncselekmények (1978. évi IV. törvény XV. fejezet V. cím), közveszélyokozás (1978. évi IV. törvény 259. §), közérdekű üzem működésének megzavarása (1978. évi IV. törvény 260. §), terrorcselekmény (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), visszaélés robbanóanyaggal és robbantószerrel (1978. évi IV. törvény 263. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), közveszéllyel való fenyegetés (1978. évi IV. törvény 270/A. §), garázdaság (1978. évi IV. törvény 271. §), önbíráskodás (1978. évi IV. törvény 273. §), visszaélés kábítószer-prekurzorral (1978. évi IV. törvény 283/A. §), vagyon elleni szándékos bűncselekmények (1978. évi IV. törvény XVIII. fejezet 316–324. § és 326–327. §), fegyveresen elkövetett szökés [1978. évi IV. törvény 343. § (2) bekezdés a) pont], fegyverrel elkövetett elöljáró vagy szolgálati közeg elleni erőszak [1978. évi IV. törvény 355. § (2) bekezdés a) pont],
 
@@ -12,14 +12,14 @@ bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbia
 
 c) akit bűncselekmény bűnszervezetben történt elkövetése miatt ítéltek el, illetve akivel szemben bűncselekmény bűnszervezetben történt elkövetése miatt intézkedést alkalmaztak, a büntetés vagy intézkedés külön jogszabályban meghatározott bűnügyi nyilvántartásának időtartamáig, de legalább a jogerős döntés meghozatalát követő három évig;
 
-d)[^31] aki ellen a b) és c) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás folyik, az eljárás jogerős befejezéséig;
+d)[^33] aki ellen a b) és c) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás folyik, az eljárás jogerős befejezéséig;
 
-e)[^32] aki ellen polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel, illetőleg lőfegyverrel kapcsolatos szabálysértés, rendzavarás, garázdaság, veszélyes fenyegetés szabálysértés elkövetése miatt büntetést szabtak ki vagy intézkedést alkalmaztak, a szabálysértési határozat jogerőre emelkedésétől számított két évig.
+e)[^34] aki ellen polgári felhasználású robbanóanyagokkal és pirotechnikai termékekkel, illetőleg lőfegyverrel kapcsolatos szabálysértés, rendzavarás, garázdaság, veszélyes fenyegetés szabálysértés elkövetése miatt büntetést szabtak ki vagy intézkedést alkalmaztak, a szabálysértési határozat jogerőre emelkedésétől számított két évig.
 
-(2)[^33]
+(2)[^35]
 
-[^29]: A 6. § (1) bekezdésének felvezető szövege a 101/2004. (IV. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^30]: A 6. § (1) bekezdésének b) pontja a 172/2013. (V. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^31]: A 6. § (1) bekezdésének d) pontja a 235/2007. (IX. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^32]: A 6. § (1) bekezdésének e) pontja a 245/2005. (XI. 8.) Korm. rendelet 32. § (2) bekezdése, a 235/2007. (IX. 4.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^33]: A 6. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 282. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
+[^31]: A 6. § (1) bekezdésének felvezető szövege a 101/2004. (IV. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^32]: A 6. § (1) bekezdésének b) pontja a 172/2013. (V. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: A 6. § (1) bekezdésének d) pontja a 235/2007. (IX. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^34]: A 6. § (1) bekezdésének e) pontja a 245/2005. (XI. 8.) Korm. rendelet 32. § (2) bekezdése, a 235/2007. (IX. 4.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^35]: A 6. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 282. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.

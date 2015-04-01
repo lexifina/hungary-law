@@ -1,11 +1,11 @@
-## 19/A. §[^54]
+## 19/A. §[^56]
 
-20. § (1)[^55] A robbanóanyagokat forgalomba hozatal előtt a 4. számú melléklet szerinti megfelelőségi jelöléssel kell ellátni.
+20. § (1)[^57] A robbanóanyagokat forgalomba hozatal előtt a 4. számú melléklet szerinti megfelelőségi jelöléssel kell ellátni.
 
 (2) A megfelelőségi jelölést jól láthatóan, könnyen olvashatóan és maradandóan a robbanóanyagon, vagy ha ez nem lehetséges, a robbanóanyaghoz rögzített azonosító táblán vagy a csomagoláson kell elhelyezni. Az azonosító táblát, illetve a csomagolást úgy kell kialakítani, hogy azt ne lehessen újra felhasználni.
 
-(3)[^56] Tilos a robbanóanyagokon olyan megjelölést vagy feliratot elhelyezni, amelyet harmadik személyek a CE megjelölés jelentésével vagy írásképével összetéveszthetnek. Bármely másfajta megjelölés elhelyezhető robbanóanyagokon, amennyiben az nem rontja a CE megjelölés láthatóságát és olvashatóságát.
+(3)[^58] Tilos a robbanóanyagokon olyan megjelölést vagy feliratot elhelyezni, amelyet harmadik személyek a CE megjelölés jelentésével vagy írásképével összetéveszthetnek. Bármely másfajta megjelölés elhelyezhető robbanóanyagokon, amennyiben az nem rontja a CE megjelölés láthatóságát és olvashatóságát.
 
-[^54]: A 19/A. §-t a 101/2004. (IV. 27.) Korm. rendelet 19. §-a iktatta be, a 163/2010. (V. 11.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
-[^55]: A 20. § (1) bekezdése a 101/2004. (IV. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^56]: A 20. § (3) bekezdését a 101/2004. (IV. 27.) Korm. rendelet 21. §-a iktatta a szövegbe.
+[^56]: A 19/A. §-t a 101/2004. (IV. 27.) Korm. rendelet 19. §-a iktatta be, a 163/2010. (V. 11.) Korm. rendelet 5. § c) pontja hatályon kívül helyezte.
+[^57]: A 20. § (1) bekezdése a 101/2004. (IV. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^58]: A 20. § (3) bekezdését a 101/2004. (IV. 27.) Korm. rendelet 21. §-a iktatta a szövegbe.

@@ -1,6 +1,6 @@
-## 26. §[^101]
+## 26. §[^103]
 
-27. §[^102] (1)[^103] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+27. §[^104] (1)[^105] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 93/15/EGK irányelve (1993. április 5.) a polgári felhasználású robbanóanyagok forgalomba hozatalára és felügyeletére vonatkozó rendelkezések harmonizációjáról, a 10. és 11. cikk kivételével,
 
@@ -10,9 +10,9 @@ c) a Bizottság 4/2012/EU irányelve (2012. február 22.) a polgári felhasznál
 
 (2) E rendelet a robbanóanyagok Közösségen belüli szállítási okmányáról szóló, 2004. április 15-i 2004/388/EK bizottsági határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(3)[^104] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(3)[^106] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^101]: A 26. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 944. pontja hatályon kívül helyezte.
-[^102]: A 27. § a 235/2007. (IX. 4.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^103]: A 27. § (1) bekezdése a 65/2012. (IV. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^104]: A 27. § (3) bekezdését a 18/2013. (I. 30.) Korm. rendelet 8. §-a iktatta be.
+[^103]: A 26. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 944. pontja hatályon kívül helyezte.
+[^104]: A 27. § a 235/2007. (IX. 4.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^105]: A 27. § (1) bekezdése a 65/2012. (IV. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^106]: A 27. § (3) bekezdését a 18/2013. (I. 30.) Korm. rendelet 8. §-a iktatta be.

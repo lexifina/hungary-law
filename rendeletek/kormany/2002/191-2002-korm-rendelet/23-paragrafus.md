@@ -1,8 +1,8 @@
-## A robbanóanyagok szállításának és belföldi átadásának felügyeletére vonatkozó előírások[^62]
+## A robbanóanyagok szállításának és belföldi átadásának felügyeletére vonatkozó előírások[^64]
 
-## 23. §[^63] A szállítási engedély iránti kérelemnek, illetve a belföldi átadási engedély iránti kérelemnek tartalmaznia kell
+## 23. §[^65] A szállítási engedély iránti kérelemnek, illetve a belföldi átadási engedély iránti kérelemnek tartalmaznia kell
 
-a)[^64] a robbanóanyag szállításában közreműködők természetes személyazonosító adatait, állampolgárságát, lakóhelyét, jogi személy, egyéni vállalkozó vagy egyéni cég esetén az annak azonosításához szükséges adatokat, különösen megnevezését, székhelyének pontos címét;
+a)[^66] a robbanóanyag szállításában közreműködők természetes személyazonosító adatait, állampolgárságát, lakóhelyét, jogi személy, egyéni vállalkozó vagy egyéni cég esetén az annak azonosításához szükséges adatokat, különösen megnevezését, székhelyének pontos címét;
 
 b) a szállítandó robbanóanyag kereskedelmi megnevezését, a különféle típusok számát és mennyiségét;
 
@@ -18,6 +18,6 @@ g) a címet, ahová a robbanóanyagot küldik vagy szállítják;
 
 h) az országhatáron történő belépés és a kilépés helyének pontos megjelölését.
 
-[^62]: A 23. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
-[^63]: A 23. § a 235/2007. (IX. 4.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^64]: A 23. § a) pontja a 13/2014. (I. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^64]: A 23. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 281. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy mnegismételt eljárásokban kell alkalmazni.
+[^65]: A 23. § a 235/2007. (IX. 4.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^66]: A 23. § a) pontja a 13/2014. (I. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
