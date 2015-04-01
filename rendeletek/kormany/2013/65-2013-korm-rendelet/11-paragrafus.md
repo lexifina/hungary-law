@@ -2,7 +2,7 @@
 
 11. § (1)[^3] A 4. § (2) bekezdése szerinti szakhatósági eljárásban vagy a 4. § (2a) bekezdése szerinti hatósági eljárásban a pénz- és adóügyi biztonság vonatkozásában a Nemzeti Adó- és Vámhivatal területi, illetve központi szerve, a közrend, a közbiztonság, a lakosságvédelem, az alkotmányvédelem, a nemzetbiztonság, a terrorelhárítás vonatkozásában az általános rendőrségi feladatok ellátására létrehozott szerv területi, illetve központi szerve, az Alkotmányvédelmi Hivatal területi, illetve központi szerve, valamint a Terrorelhárítási Központ véleményt nyilvánít.
 
-(2)[^4] Az 1. melléklet szerinti politikai hatás kritériuma teljesülésének lehetősége tekintetében az illetékes kormánymegbízott, a környezeti hatás kérdésében a környezetvédelmi és természetvédelmi felügyelőség, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség véleményt nyilvánít.
+(2)[^4] Az 1. melléklet szerinti politikai hatás kritériuma teljesülésének lehetősége tekintetében az illetékes kormánymegbízott, a környezeti hatás kérdésében a környezetvédelmi feladatkörében eljáró megyei kormányhivatal, és az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség véleményt nyilvánít.
 
 (3) Az (1) bekezdésben meghatározott szervek ellenőrzési tevékenységük során a kijelölés alapjául szolgáló körülmények változatlan fennállásán kívül vizsgálják a létfontosságú rendszerelemek, az azokhoz tartozó közterületek, valamint az azokat felügyelő, működtető személyek azon fizikai, humán és informatikai biztonsági feltételeinek meglétét, amelyek garantálják az azonosított kockázatokkal szembeni védelmet, a rendeltetésszerű működést, a szándékos és nem szándékos károkozás elkerülését.
 
@@ -23,4 +23,4 @@ d) a szükséges erők, eszközök bevonására az érintett kijelölő hatósá
 e) a kiváltó okok azonosításában, a tett intézkedések értékelésében, az érintett kijelölő hatóság, a beavatkozást végző szervek és a biztonsági összekötő személy együtt vesz részt.
 
 [^3]: A 11. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 723. § b) pontja szerint módosított szöveg.
-[^4]: A 11. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 140. §-ával megállapított szöveg.
+[^4]: A 11. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 140. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 224. §-a szerint módosított szöveg.
