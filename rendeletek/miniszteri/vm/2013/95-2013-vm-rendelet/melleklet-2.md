@@ -1,28 +1,32 @@
 ## A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
 
+|  | A | B |
+
 | Sorszám | Eljáró szerv | Előirányzat-felhasználási számlák megnevezése |
 
-| 1. | Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség | 10032000-00287261-00000000 |
+| 1. | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | 10032000-00287261-00000000 |
 
-| 2. | Észak-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10033001-01711899-00000000 |
+| 2. | Baranya Megyei Kormányhivatal | 10024003-00299585-00000000 |
 
-| 3. | Közép-Duna-völgyi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10032000-01711806-00000000 |
+| 3. | Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
-| 4. | Közép-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10029008-01711882-00000000 |
+| 4. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00299561-00000000 |
 
-| 5. | Dél-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10024003-01711837-00000000 |
+| 5. | Csongrád Megyei Kormányhivatal | 10028007-00299664-00000000 |
 
-| 6. | Nyugat-dunántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10047004-01711947-00000000 |
+| 6. | Fejér Megyei Kormányhivatal | 10029008-00299640-00000000 |
 
-| 7. | Felső-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10044001-01711923-00000000 |
+| 7. | Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
 
-| 8. | Észak-magyarországi Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10027006-01711868-00000000 |
+| 8. | Hajdú-Bihar Megyei Kormányhivatal | 10034002-00299626-00000000 |
 
-| 9. | Tiszántúli Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10034002-01711916-00000000 |
+| 9. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00299602-00000000 |
 
-| 10. | Közép-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10045002-01711930-00000000 |
+| 10. | Pest Megyei Kormányhivatal | 10023002-00333489-00000000 |
 
-| 11. | Alsó-Tisza-vidéki Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség | 10028007-01711875-00000000 |
+| 11. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00299695-00000000 |
+
+| 12. | Vas Megyei Kormányhivatal | 10047004-00299523-00000000 |
 
 2. melléklet a 95/2013. (X. 14.) VM rendelethez
 
