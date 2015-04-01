@@ -1,4 +1,4 @@
-4. § (1)[^3] Az időszakos ellenőrzést a Hatóság az általa nyilvántartásba vett szervezeteknél végzi.
+4. § (1)[^4] Az időszakos ellenőrzést a Hatóság az általa nyilvántartásba vett szervezeteknél végzi.
 
 (2) A szervezetek nyilvántartásba vételének feltétele, hogy azok rendelkezzenek:
 
@@ -10,4 +10,4 @@ c) az ellenőrzés előkészítését, elvégzését és a szükséges utómunk�
 
 d) kellő számú és képzettségű segédszemélyzettel.
 
-[^3]: A 4. § (1) bekezdésének felvezető szövege a 87/2006. (XII. 26.) GKM rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdésének felvezető szövege a 87/2006. (XII. 26.) GKM rendelet 10. § (2) bekezdése szerint módosított szöveg.

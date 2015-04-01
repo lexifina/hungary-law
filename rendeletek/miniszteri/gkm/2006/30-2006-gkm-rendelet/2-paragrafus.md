@@ -1,6 +1,6 @@
 ## 1. § A rendelet alkalmazási köre a gázüzemű közúti járművek és munkagépek üzemanyag-ellátó berendezésébe épített, az üzemben tartó által tölthető autógáz tartály időszakos ellenőrzésére terjed ki.
 
-2. § (1)[^1] Az időszakos ellenőrzést az üzemben tartó köteles kérni, de megbízása alapján kérheti az időszakos ellenőrzés előkészítésére alkalmas szervezet is, a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatóságainál (a továbbiakban: Hatóság).
+2. § (1)[^2] Az időszakos ellenőrzést az üzemben tartó köteles kérni, de megbízása alapján kérheti az időszakos ellenőrzés előkészítésére alkalmas szervezet is, a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: Hatóság).
 
 (2) Az autógáz tartályon időszakos ellenőrzést kell végezni:
 
@@ -14,4 +14,4 @@ ac) kompozit bevonatú sűrített földgázt vagy egyéb gázt tartalmazó autó
 
 b) a jármű balesete esetén vagy más okból, ha az autógáz tartály használata veszélyessé válhatott.
 
-[^1]: A 2. § (1) bekezdése a 27/2010. (XII. 31.) NGM rendelet 56. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 9/2015. (III. 31.) NGM rendelet 41. §-a szerint módosított szöveg.
