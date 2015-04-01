@@ -1,3 +1,3 @@
-3. számú melléklet a 326/2001. (XII. 30.) Korm. rendelethez[^48]
+3. számú melléklet a 326/2001. (XII. 30.) Korm. rendelethez[^51]
 
-[^48]: A 3. számú mellékletet a 276/2002. (XII. 21.) Korm. rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte azzal, hogy rendelkezéseit a folyamatban lévő ügyekre alkalmazni kell.
+[^51]: A 3. számú mellékletet a 276/2002. (XII. 21.) Korm. rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte azzal, hogy rendelkezéseit a folyamatban lévő ügyekre alkalmazni kell.
