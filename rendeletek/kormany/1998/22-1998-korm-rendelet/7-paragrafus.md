@@ -8,10 +8,10 @@
 
 (4)[^10] A nádas és más vízinövényzet égetése csak kivételesen, így különösen növény-egészségügyi és természetvédelmi okból – a biztonsági, környezet- és természetvédelmi rendszabályok betartásával – engedélyezhető.
 
-(5)[^11] Nádas és más vízinövények égetését a felügyelőség engedélyezi.
+(5)[^11] Nádas és más vízinövények égetését a természetvédelmi hatóság engedélyezi.
 
 (6) A IV. és V. osztályú nádasok megtartásáról, illetve ahol ez lehetséges a helyreállításáról gondoskodni kell.
 
 [^9]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 136. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: A 7. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^11]: A 7. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^11]: A 7. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 40. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 30. § (2) bekezdés d) pontja szerint módosított szöveg.
