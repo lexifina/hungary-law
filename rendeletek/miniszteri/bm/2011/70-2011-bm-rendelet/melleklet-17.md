@@ -1,4 +1,4 @@
-17. melléklet a 70/2011. (XII. 30.) BM rendelethez[^58]
+17. melléklet a 70/2011. (XII. 30.) BM rendelethez[^65]
 
 ## Kimutatás kötelező adattartalma a munkavédelmi tevékenység statisztikai adatairól
 
@@ -40,4 +40,4 @@
 
 19. Képernyő előtti munkavégzéshez szükséges éleslátást biztosító szemüveggel ellátottak száma (fő)
 
-[^58]: A 17. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés h) pontja iktatta be.
+[^65]: A 17. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés h) pontja iktatta be.

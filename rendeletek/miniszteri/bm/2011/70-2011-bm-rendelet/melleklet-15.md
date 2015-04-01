@@ -1,4 +1,4 @@
-15. melléklet a 70/2011. (XII. 30.) BM rendelethez[^56]
+15. melléklet a 70/2011. (XII. 30.) BM rendelethez[^63]
 
 ## Határozat kötelező adattartalma megbetegedés minősítéséről
 
@@ -40,4 +40,4 @@
 
 19. Készített példányszám meghatározása
 
-[^56]: A 15. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés f) pontja iktatta be.
+[^63]: A 15. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés f) pontja iktatta be.

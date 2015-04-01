@@ -1,4 +1,4 @@
-23. §[^26] (1) A baleset kivizsgálásának eredményeképpen keletkező dokumentációnak alkalmasnak kell lennie arra, hogy a baleset lefolyása a későbbiek során bármikor rekonstruálható, a baleset oka feltárható, a baleset előidézőjének a felelőssége megállapítható legyen, továbbá arra, hogy a hasonló balesetek elkerülése érdekében iránymutatást adjon.
+23. §[^27] (1) A baleset kivizsgálásának eredményeképpen keletkező dokumentációnak alkalmasnak kell lennie arra, hogy a baleset lefolyása a későbbiek során bármikor rekonstruálható, a baleset oka feltárható, a baleset előidézőjének a felelőssége megállapítható legyen, továbbá arra, hogy a hasonló balesetek elkerülése érdekében iránymutatást adjon.
 
 (2) Ha a személyi állomány tagját a baleset során nem az alapellátó orvos részesítette ellátásban, a szolgálati elöljáró intézkedik arra, hogy a sérült a keresőképtelenségéről, szolgálatképtelenségéről szóló igazolást, valamint a sérülése ellátásával kapcsolatos egészségügyi dokumentációt a baleset munkavégzéssel, szolgálati kötelmekkel való összefüggésének megállapítása céljából az illetékes alapellátó orvos részére küldje meg.
 
@@ -8,8 +8,9 @@
 
 (5) A határozat rendelkező része a sérült személyére és szolgálati helyére, a baleset helyére és idejére vonatkozó adatokon, továbbá az állományilletékes parancsnok baleset minősítésére vonatkozó döntésén kívül a jogorvoslati felhívást is tartalmazza. Az indokolásban meg kell határozni azokat a körülményeket és jogszabályokat, amelyek a baleset bekövetkezése és a hivatásos szolgálat ellátása közötti összefüggést alátámasztják vagy kizárják, a bekövetkezett sérülést és ha a szolgálattal összefüggő jelleg megállapítható, a sérült közrehatását. Az állományilletékes parancsnok a határozatát 5 napon belül közli a sérülttel és megküldi az alapellátó orvosnak.
 
-(6) A munkabaleset vagy a szolgálati kötelmekkel összefüggő baleset esetén, ha maradandó károsodás vélelmezhető, az alapellátó orvos köteles a balesetet szenvedett személyt az illetékes kormányhivatal rehabilitációs szakigazgatási szerve elé rendelni a baleseti egészségkárosodás mértékének megállapítása érdekében.
+(6)[^28] A munkabaleset vagy a szolgálati kötelmekkel összefüggő baleset esetén, ha maradandó károsodás vélelmezhető, az alapellátó orvos köteles a balesetet szenvedett személyt a rehabilitációs feladatkörében eljáró fővárosi és megyei kormányhivatal elé rendelni a baleseti egészségkárosodás mértékének megállapítása érdekében.
 
 (7) Az állományilletékes parancsnok köteles felhívni az érintett figyelmét arra, hogy ha a balesetével kapcsolatban kára keletkezett, kárigényét a balesetminősítő határozat kézhezvételétől számított 30 napon belül hivatásos állomány tagja a 10. melléklet, munkavállaló a 11. melléklet vagy a 11/A. melléklet szerinti nyomtatványon terjesztheti elő.
 
-[^26]: A 23. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
+[^27]: A 23. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
+[^28]: A 23. § (6) bekezdése a 11/2015. (III. 31.) BM rendelet 10. § b) pontja szerint módosított szöveg.
