@@ -40,7 +40,7 @@ n) az a)–m) pontokban meghatározott szakképzettséggel egyenértékű szakir
 
 (6) A kezelési terv készítője a megalapozó dokumentáció és a kezelési terv elkészítésébe bevonja
 
-a)[^5] az illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatalát,
+a)[^5] kulturális örökségvédelmi feladatkörében az illetékes járási (fővárosi kerületi) hivatalt,
 
 b) táj- és természetvédelmet, ökoturizmust és környezeti nevelést érintő kérdésekben a működési területével érintett nemzeti park igazgatóságot,
 
@@ -60,4 +60,4 @@ g) az illetékes önkormányzati és állami főépítészeket.
 
 [^3]: A 2. § (1) bekezdése a 73/2014. (III. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^4]: A 2. § (1a) bekezdését a 310/2012. (XI. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be, e módosító rendelet 11. §-a alapján a folyamatban lévő ügyekben is alkalmazni kell.
-[^5]: A 2. § (6) bekezdés a) pontja a 394/2012. (XII. 20.) Korm. rendelet 52. § (1) bekezdés a) pontjával megállapított szöveg.
+[^5]: A 2. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 181. § (1) bekezdésével megállapított szöveg.
