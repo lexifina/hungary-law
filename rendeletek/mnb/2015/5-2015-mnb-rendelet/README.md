@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-5-20-2C
 | --- | --- | --- |
 | 2015-03-13 | 2015-5-20-2C.1 | 5/2015. (III. 12.) MNB rendelet |
 | 2015-03-14 | 2015-5-20-2C.2 | 2010: CXXX. törvény |
+| 2015-04-01 | 2015-5-20-2C.3 | 2010: CXXX. törvény |
