@@ -1,6 +1,6 @@
-## 17. §[^13] Az építési engedélynek a 10. §-ban foglaltakon túl tartalmaznia kell:
+## 17. §[^14] Az építési engedélynek a 10. §-ban foglaltakon túl tartalmaznia kell:
 
-a) a sajátos építmény biztonsági övezetének mértékét,
+a)[^15] a sajátos építmény helyét, helyrajzi számát, megnevezését és rendeltetését, mélyműveléses bánya esetében a bányatelek védnevét, a bányamező megnevezését és a vágat elnevezését, továbbá a sajátos építmény biztonsági övezetének mértékét,
 
 b) az építési tevékenység megkezdésének bejelentésére vonatkozó kötelezettség előírását,
 
@@ -10,4 +10,5 @@ d) a sajátos építményre vonatkozó használatbavételi engedély iránti ké
 
 e) az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározottak szerint az arra vonatkozó tájékoztatást, hogy az építőipari kivitelezési tevékenység folytatása során építtetői fedezetkezelő közreműködése kötelező-e.
 
-[^13]: A 17. § az 559/2013. (XII. 31.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^14]: A 17. § az 559/2013. (XII. 31.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^15]: A 17. § a) pontja a 70/2015. (III. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg.

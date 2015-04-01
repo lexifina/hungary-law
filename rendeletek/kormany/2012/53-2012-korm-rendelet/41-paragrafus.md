@@ -1,5 +1,7 @@
-## 40. § A bírságot fizetési számlára történő készpénz befizetéssel, vagy átutalással az azt megállapító jogerős és végrehajtható döntésben előírt határidőn belül a bányafelügyelet Magyar Államkincstárnál vezetett 10032000- 01417179-00000000 számú számlájára kell befizetni. A fizetési számlára történő készpénz befizetésen vagy az átutalási megbízáson a döntés számát is fel kell tüntetni.
+## 40. §[^33]
 
 ## V. Fejezet
 
 ## A MŰSZAKI TERVDOKUMENTÁCIÓ
+
+[^33]: A 40. §-t a 70/2015. (III. 30.) Korm. rendelet 194. § (2) bekezdés b) pontja hatályon kívül helyezte.

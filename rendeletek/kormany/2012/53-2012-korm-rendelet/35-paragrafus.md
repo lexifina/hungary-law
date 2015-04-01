@@ -1,10 +1,10 @@
-## 34. §[^24] A 3. melléklet 2. pontjában meghatározott építési tevékenység befejezését a 8. melléklet szerinti adattartalommal, összevontan, a tárgyhónapot követő hónap 15. napjáig kell bejelenteni.
+## 34. §[^26] A 3. melléklet 2. pontjában meghatározott építési tevékenység befejezését a 8. melléklet szerinti adattartalommal, összevontan, a tárgyhónapot követő hónap 15. napjáig kell bejelenteni.
 
 ## IV. Fejezet
 
 ## A BÁNYAFELÜGYELET ÉPÍTÉSÜGYI HATÓSÁGI ÉS ÉPÍTÉSFELÜGYELETI ELLENŐRZÉSÉNEK SZABÁLYAI
 
-## 35. §[^25] A bányafelügyelet építésügyi és építésfelügyeleti hatósági hatáskörében ellenőrzi, hogy
+## 35. §[^27] A bányafelügyelet építésügyi és építésfelügyeleti hatósági hatáskörében ellenőrzi, hogy
 
 a) a vállalkozó kivitelező, a kivitelezési dokumentáció tervezője, az építési műszaki ellenőr, a felelős műszaki vezető, a beruházás-lebonyolító rendelkezik-e a kivitelezési tevékenység jellegének megfelelő jogosultsággal, regisztrációval,
 
@@ -22,5 +22,5 @@ g) az építtető a jogszabályban meghatározott esetekben és módon bejelente
 
 h) az építési szerződésre vonatkozó előírások teljesültek-e.
 
-[^24]: A 34. § a 311/2014. (XII. 11.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
-[^25]: A 35. § az 559/2013. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^26]: A 34. § a 311/2014. (XII. 11.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^27]: A 35. § az 559/2013. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
