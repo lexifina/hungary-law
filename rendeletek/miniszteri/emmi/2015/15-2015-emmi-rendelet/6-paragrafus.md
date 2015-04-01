@@ -14,6 +14,6 @@ b) a vizsgaelnöki feladat ellátásra felkészítő pedagógus-szakvizsga vagy
 
 c) az adott szakterületre meghatározott továbbképzéseken legalább húsz óra időtartamban oktatóként való részvétel
 
-fogadható el.
+## fogadható el.
 
 (5) A vizsgaelnöki névjegyzékbe történő második és további felvétel esetében a (4) bekezdés szerinti továbbképzést kiváltja a Hivatallal szakmai együttműködésben a megyei (fővárosi) kormányhivatal által szervezett, a felvételt megelőző öt évben legalább három továbbképzésen való részvétel. A továbbképzés tartalmi követelményeit a 2. melléklet tartalmazza. A továbbképzés évenként, vizsgakötelezettség nélküli, ingyenes formában valósul meg. A továbbképzés időpontját, helyét, a tananyagot, valamint a jelentkezés módját a Hivatal a saját és az oktatásért felelős miniszter által vezetett minisztérium honlapján is közzéteszi.

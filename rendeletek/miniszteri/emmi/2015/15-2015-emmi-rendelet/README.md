@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-15-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-03-31 | 2015-15-20-5H.1 | 15/2015. (III. 13.) EMMI rendelet |
+| 2015-04-01 | 2015-15-20-5H.2 | 2010: CXXX. törvény |
