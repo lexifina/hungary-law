@@ -40,7 +40,7 @@ h) ha a kérelmező intézmény nem szerepel a köztartozásmentes adózói adat
 
 (3)[^8] Az (1) bekezdés e) pontjában meghatározott szakképesítés esetén a kérelemben nem kell megjelölni azt a részszakképesítést, amely esetén a kérelmező a részszakképesítés szakmai és vizsgakövetelményében meghatározott kapcsolódó szakképesítés tekintetében is engedélyt kíván szerezni. A szakképesítés tekintetében kiadott engedély a szakképesítés szakmai és vizsgakövetelményében kapcsolódó részszakképesítésként megjelölt részszakképesítésre is kiterjed.
 
-(4)[^9] A kérelmező intézmény az engedély kiadása iránti kérelmet a székhelye szerint illetékes kormányhivatalhoz nyújtja be.
+(4)[^9] A kérelmező intézmény az engedély kiadása iránti kérelmet a székhelye szerint illetékes, fővárosi és megyei kormányhivatalhoz (a továbbiakban: kormányhivatal) nyújtja be.
 
 [^2]: A 2. § a 11. § (2) bekezdése alapján 2010. május 25. napján lép hatályba.
 [^3]: A 2. § (1) bekezdés nyitó szövegrésze a 136/2014. (IV. 24.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
@@ -49,4 +49,4 @@ h) ha a kérelmező intézmény nem szerepel a köztartozásmentes adózói adat
 [^6]: A 2. § (2) bekezdés c) pontja a 136/2014. (IV. 24.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdés g) pontja a 136/2014. (IV. 24.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
 [^8]: A 2. § (3) bekezdését a 136/2014. (IV. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^9]: A 2. § (4) bekezdését a 136/2014. (IV. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^9]: A 2. § (4) bekezdését a 136/2014. (IV. 24.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 153. §-ával megállapított szöveg.

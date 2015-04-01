@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-111-20-
 | 2013-06-04 | 2010-111-20-22.5 | 176/2013. (VI. 3.) Korm. rendelet |
 | 2013-11-13 | 2010-111-20-22.6 | 393/2013. (XI. 12.) Korm. rendelet |
 | 2014-05-02 | 2010-111-20-22.7 | 136/2014. (IV. 24.) Korm. rendelet |
+| 2015-04-01 | 2010-111-20-22.8 | 136/2014. (IV. 24.) Korm. rendelet |
