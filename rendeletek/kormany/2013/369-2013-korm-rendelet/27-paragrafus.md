@@ -1,5 +1,3 @@
-## 26. § A működést engedélyező szerv a 24. és 25. § szerinti bejelentésről nyolc napon belül értesíti az ellátásra köteles helyi önkormányzatot, illetve megyei kirendeltséget, az igazgatóságot és az ellátottjogi, illetve gyermekjogi képviselőt.
-
 ## 11. Adatmódosítás
 
 27. § (1) A fenntartó köteles kérelmezni az adatmódosítást, ha a szolgáltatói nyilvántartásba bejegyzett adatok megváltoznak.

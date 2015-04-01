@@ -1,4 +1,4 @@
-## 38. § A működést engedélyező szerv az ellenőrzésről készült jegyzőkönyvet megküldi
+38. § A működést engedélyező szerv az ellenőrzésről készült jegyzőkönyvet megküldi
 
 a) a fenntartónak,
 

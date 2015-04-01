@@ -1,6 +1,6 @@
-5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^28]
+5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^86]
 
-## Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működést engedélyező szervnek bemutatandó iratok
+Az engedélyes bejegyzése iránti kérelemhez csatolandó, illetve a működést engedélyező szervnek bemutatandó iratok
 
 1. A fenntartóval és a szolgáltatóval kapcsolatos iratok:
 
@@ -62,7 +62,7 @@
 
 2.2.3. csatolni kell a biztosító igazolását arról, hogy a szolgáltatáshoz használni kívánt gépjárműre kötelező gépjármű-felelősségbiztosítási és casco biztosítási szerződéssel rendelkeznek.
 
-2.3. Szociális étkeztetés esetén a 2.1. pontban foglaltakon túl csatolni kell az előzetes szakhatósági hozzájárulást, ha a fenntartó beszerezte.
+2.3.
 
 2.4. Támogatott lakhatás esetén a 2.1. pontban foglaltakon túl
 
@@ -178,4 +178,4 @@
 
 3.3.5. a 2.5. pont szerinti iratokat abban az esetben kell csatolni, ha az időszakos férőhelyeket nem az engedélyes épületében alakítják ki, vagy adatmódosítás esetén a szakhatóságok bevonása a 31. § (4) bekezdése alapján szükséges.
 
-[^28]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése szerint módosított szöveg.
+[^86]: Az 5. melléklet a 353/2014. (XII. 29.) Korm. rendelet 75. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (12) bekezdése szerint módosított szöveg.

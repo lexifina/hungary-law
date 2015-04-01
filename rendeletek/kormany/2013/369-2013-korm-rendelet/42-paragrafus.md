@@ -1,6 +1,6 @@
 42. § (1) A jogsértés és a jogkövetkezmények jellegének, valamint a jogsértés súlyának megfelelően egyidejűleg több jogkövetkezmény is megállapítható.
 
-(2)[^18] A hatósági szerződésben a 41. § (2) bekezdése szerinti jogkövetkezmények köthetők ki.
+(2)[^71] A hatósági szerződésben a 41. § (2) bekezdése szerinti jogkövetkezmények köthetők ki.
 
 (3) A jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével a 41. § (2) bekezdés a) pontja alapján történő ideiglenes hatályú bejegyzés hatálya egy alkalommal, legfeljebb egy évvel meghosszabbítható.
 
@@ -18,8 +18,8 @@ c) csökkentheti a férőhelyek számát, vagy
 
 d) zárathatja le az engedélyes épületének egy részét,
 
-## ha az engedélyes személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét vagy egészségét veszélyezteti vagy más alapvető jogát sérti.
+ha az engedélyes személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét vagy egészségét veszélyezteti vagy más alapvető jogát sérti.
 
 (7) Az engedélyes épületének lezárt része szolgáltatáshoz akkor használható, ha a működést engedélyező szerv a lezárást – az arra okot adó körülmény megszűnése esetén – a fenntartó kérelmére megszünteti.
 
-[^18]: A 42. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 72. §-ával megállapított szöveg.
+[^71]: A 42. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 72. §-ával megállapított szöveg.

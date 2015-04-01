@@ -2,12 +2,14 @@
 
 a) az érintett ellátottaknak és törvényes képviselőiknek,
 
-b) a 4. § (1)–(3) bekezdése alapján illetékes szociális és gyámhivatalnak, és
+b)[^47] a 4. § (1)–(3) bekezdése alapján illetékes megyei működést engedélyező szervnek, és
 
 c) – ahol működik – az érdekképviseleti fórumnak, illetve az ellátotti önkormányzatnak,
 
-## ha kérelmezni fogja az engedélyes törlését, vagy olyan adatmódosítást, amelynek következtében ellátás megszüntetésére kerül sor.
+ha kérelmezni fogja az engedélyes törlését, vagy olyan adatmódosítást, amelynek következtében ellátás megszüntetésére kerül sor.
 
 (2) Ellátási szerződés, illetve az Szt. 90. § (4) bekezdése szerinti megállapodás a bejelentési kötelezettség teljesítésére az (1) bekezdésben meghatározottaktól eltérő, de legalább egy hónapos határidőt is megállapíthat.
 
 (3) Az (1) bekezdés szerinti bejelentési kötelezettség határideje az engedélyes törlése, illetve az adatmódosítás iránti kérelem benyújtását megelőző nyolcadik nap, ha a fenntartó az ellátottakról megfelelően gondoskodik.
+
+[^47]: A 24. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés f) pontja szerint módosított szöveg.

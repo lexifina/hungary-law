@@ -1,8 +1,6 @@
-## 57. §[^24]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^83]
 
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^25]
-
-## A szolgáltatói nyilvántartás adatai
+A szolgáltatói nyilvántartás adatai
 
 1. Az engedélyes adatai:
 
@@ -308,7 +306,7 @@
 
 3.5. a támogatott lakhatás kivételével valamennyi szolgáltatás esetén az arra vonatkozó adat, hogy a szolgáltatás bejegyzése határozatlan idejű, határozott idejű vagy ideiglenes hatályú, továbbá határozott idejű bejegyzés és ideiglenes hatályú bejegyzés esetén a bejegyzés hatályának záró időpontja,
 
-3.6. az egyedi szakhatósági előírás, illetve a feltétel, ha a szakhatóság egyedi szakhatósági előírást vagy feltételt határozott meg, vagy a működést engedélyező szerv jogszabályban meghatározottak szerint az ideiglenes hatályú bejegyzés során feltételt határozott meg,
+3.6. az egyedi előírás, feltétel, illetve az egyedi szakhatósági előírás, feltétel, ha szakkérdésben ilyet határoztak meg, vagy a működést engedélyező szerv jogszabályban foglaltak szerint az ideiglenes hatályú bejegyzés során egyéb feltételt határozott meg,
 
 3.7. valamennyi szolgáltatás esetén az ellátási terület,
 
@@ -344,5 +342,4 @@
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^24]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése szerint módosított szöveg.
+[^83]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja szerint módosított szöveg.

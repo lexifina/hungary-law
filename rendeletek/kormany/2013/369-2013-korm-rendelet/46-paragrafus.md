@@ -1,5 +1,3 @@
-## soron kívül – szükség szerint az ellenőrző társhatóságok bevonásával – helyszíni ellenőrzést tart. Az ellenőrzés magáningatlanban és abban az esetben is lefolytatható, ha az ügyfél vagy a helyszínen jelen lévő más személy úgy nyilatkozik, hogy az ellátást más jogviszony keretében nyújtják.
-
 46. § (1) Ha a működést engedélyező szerv megállapítja, hogy bejegyzés hiányában nyújtanak szolgáltatást, bírságot szab ki, és
 
 a) felszólítja a szolgáltatást megszervező személyt, szervezetet, hogy a felszólítás közlésétől számított tizenöt napon belül kérelmezze a bejegyzést, feltéve, hogy a szolgáltatás eleget tesz a bejegyzéshez szükséges feltételeknek, vagy a feltételek tizenöt napon belül biztosíthatók,

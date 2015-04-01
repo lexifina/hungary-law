@@ -14,7 +14,7 @@ c) az a) és b) pontban nem említett esetben legalább kétévente
 
 hivatalból ellenőrzi, hogy az engedélyes a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően működik-e (a továbbiakban: rendes ellenőrzés).
 
-(2) A működést engedélyező szerv jogszabályban foglaltak szerint éves ellenőrzési tervet készít, amelyet megküld a Hivatalnak, a Főigazgatóságnak, az érintett kijelölt egyházi módszertani intézménynek és a járási népegészségügyi intézeteknek.
+(2)[^61] A megyei működést engedélyező szerv jogszabályban foglaltak szerint éves ellenőrzési tervet készít, amelyet megküld a Hivatalnak, a Főigazgatóságnak, az érintett kijelölt egyházi módszertani intézménynek és a népegészségügyi feladatkörében eljáró járási hivataloknak.
 
 (3) Az e rendelet szerinti hatósági ellenőrzés kérelemre nem indítható meg.
 
@@ -25,3 +25,5 @@ a) rendes ellenőrzés során,
 b) ha tudomására jut, hogy az engedélyes személyi, tárgyi feltételei vagy működése az ellátottak életét, testi épségét, egészségét vagy az ellátott gyermekek fejlődését veszélyezteti vagy más jogát sérti, vagy az engedélyes működésére vonatkozó jogszabályokat vagy a szolgáltatói nyilvántartásban foglaltakat súlyosan megsértették,
 
 c) a 23. § (1) bekezdés a) pontja szerinti bejelentést követő harminc napon belül.
+
+[^61]: A 36. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés n) pontja szerint módosított szöveg.

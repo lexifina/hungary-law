@@ -1,5 +1,3 @@
-## Az ágazati azonosító képzése
-
 ## 1. Az ágazati azonosító nyolc jegyből áll.
 
 ## 2. Az ágazati azonosító összetétele:
@@ -14,7 +12,7 @@
 
 3. melléklet a 369/2013. (X. 24.) Korm. rendelethez
 
-## A tanúsítvány adattartalma
+A tanúsítvány adattartalma
 
 1. A tanúsítványt kiállító szerv neve, székhelye, telefonszáma és elektronikus levélcíme.
 

@@ -4,6 +4,8 @@
 
 (2) Megkeresésre bármely működést engedélyező szerv tájékoztatást ad az engedélyes nyilvános adatairól.
 
-(3) A 4. § (1)–(3) bekezdése alapján illetékes szociális és gyámhivatal megkeresésre tájékoztatást ad arról, hogy az engedélyes működése az ellenőrzés során tett megállapítások alapján megfelel-e a jogszabályi feltételeknek.
+(3)[^16] A 4. § (1)–(3) bekezdése alapján illetékes megyei működést engedélyező szerv megkeresésre tájékoztatást ad arról, hogy az engedélyes működése az ellenőrzés során tett megállapítások alapján megfelel-e a jogszabályi feltételeknek.
 
 (4) A Hivatal a szolgáltatói nyilvántartás nyilvános adatait egyedi azonosításra alkalmas módon, statisztikai célra átadja a Központi Statisztikai Hivatalnak.
+
+[^16]: A 13. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés c) pontja szerint módosított szöveg.

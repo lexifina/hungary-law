@@ -2,7 +2,7 @@
 
 ## ÉRTELMEZŐ RENDELKEZÉSEK
 
-## 1. § E rendelet alkalmazásában
+1. § E rendelet alkalmazásában
 
 a) adatmódosítás: az engedélyesnek a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) bejegyzett adatainak módosítása, ideértve a bejegyzett engedélyes egyes új adatainak a szolgáltatói nyilvántartásba történő bejegyzését és a bejegyzett engedélyes egyes adatainak a szolgáltatói nyilvántartásból történő törlését is;
 

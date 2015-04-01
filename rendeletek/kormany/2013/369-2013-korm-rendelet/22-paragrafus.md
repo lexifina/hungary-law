@@ -1,1 +1,1 @@
-## 21. § Időszakos férőhelybővítés esetén az ügyintézési határidő tíz munkanap, amely legfeljebb öt munkanappal hosszabbítható meg.
+22. § A működést engedélyező szerv az engedélyest bejegyzi a szolgáltatói nyilvántartásba, ha az megfelel a jogszabályokban meghatározott feltételeknek.
