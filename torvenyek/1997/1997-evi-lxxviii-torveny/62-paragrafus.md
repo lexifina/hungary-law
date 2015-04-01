@@ -176,7 +176,7 @@ rendelettel állapítsa meg.
 
 2. az építésügyi hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
 
-3. az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető igazgatási szolgáltatási díj mértékét, annak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
+3. az építésügyi hatóságot szakkérdés vizsgálatáért megillető eljárási költségek körét, mértékét, annak beszedésével, kezelésével, nyilvántartásával kapcsolatos részletes szabályokat.
 
 (4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
 
