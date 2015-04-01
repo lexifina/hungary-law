@@ -44,6 +44,6 @@
 
 | 19. | Zala Megyei Igazgatóság | Zalaegerszeg | Zala megye |
 
-2. számú melléklet a 311/2006. (XII. 23.) Korm. rendelethez[^18]
+2. számú melléklet a 311/2006. (XII. 23.) Korm. rendelethez[^20]
 
-[^18]: A 2. számú melléklet e rendelet 9. §-a alapján 2007. április 1. napján hatályát vesztette.
+[^20]: A 2. számú melléklet e rendelet 9. §-a alapján 2007. április 1. napján hatályát vesztette.
