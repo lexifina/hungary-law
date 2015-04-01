@@ -2,6 +2,9 @@
 
 ## 4. Hatósági felügyelet, engedélyezési eljárások
 
-4. § (1) Az e rendelet hatálya alá tartozó gázpalackok vonatkozásában hatáskörrel rendelkező nemzeti hatóságként (a továbbiakban: Hatóság) – a (2) bekezdésben meghatározottak kivételével – a műszaki biztonsági hatósági jogkört első fokon a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága gyakorolja. Az első fokú hatóság közigazgatási határozata ellen benyújtott jogorvoslati kérelmek tekintetében másodfokú hatóságként a Magyar Kereskedelmi Engedélyezési Hivatal jár el.
+4. § (1)[^1] Az e rendelet hatálya alá tartozó gázpalackok vonatkozásában hatáskörrel rendelkező nemzeti hatóságként (a továbbiakban: Hatóság) – a (2) bekezdésben meghatározottak kivételével – a műszaki biztonsági hatósági jogkört első fokon a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal gyakorolja. Az első fokú hatóság közigazgatási határozata ellen benyújtott jogorvoslati kérelmek tekintetében másodfokú hatóságként a Magyar Kereskedelmi Engedélyezési Hivatal jár el.
 
-(2) A cseppfolyós propán-, butángázok és ezek elegyei forgalmazására szolgáló szállítható nyomástartó berendezések vonatkozásában a műszaki biztonsági hatósági jogkört első fokon a Magyar Bányászati és Földtani Hivatal területileg illetékes bányakapitánysága gyakorolja. Az első fokú hatóság közigazgatási határozata ellen benyújtott jogorvoslati kérelmek tekintetében másodfokú hatóságként a Magyar Bányászati és Földtani Hivatal jár el.
+(2)[^2] A cseppfolyós propán-, butángázok és ezek elegyei forgalmazására szolgáló szállítható nyomástartó berendezések vonatkozásában a műszaki biztonsági hatósági jogkört a bányafelügyelet gyakorolja.
+
+[^1]: A 4. § (1) bekezdése a 9/2015. (III. 31.) NGM rendelet 57. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 4. § (2) bekezdése a 9/2015. (III. 31.) NGM rendelet 56. § (1) bekezdésével megállapított szöveg.
