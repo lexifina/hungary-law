@@ -1,10 +1,10 @@
 33/A. § (1) A bűnügyi nyilvántartó szerv az érintett személyazonosító adatait bejegyzéskor, a tagállami ítéletek nyilvántartása adatainak módosításakor vagy javításakor, valamint a kérelemre történő adattovábbítást megelőzően – a változások nyomon követése céljából – elektronikus úton egyedileg összehasonlítja a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal.
 
-(2) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján az anyakönyvi ügyekért felelős miniszter által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartás hatálya alá nem tartozó személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
+(2) A bűnügyi nyilvántartó szerv az anyakönyvi eljárásról szóló törvény alapján a központi anyakönyvi szerv által a névváltoztatással érintett, a személyiadat- és lakcímnyilvántartás aktív nyilvántartás hatálya alá nem tartozó személyek adatairól történt értesítés kézhezvételét követően haladéktalanul egyedileg összehasonlítja az érintett személyazonosító adatait az értesítésben megküldött adatokkal.
 
 (3) A bűnügyi nyilvántartó szerv az összehasonlítást követően haladéktalanul átvezeti a személyazonosító adatokban bekövetkezett változást.
 
-(4) A (2) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv az anyakönyvi ügyekért felelős miniszter értesítésében megküldött adatokat haladéktalanul törli, ha az érintett adatait a tagállami ítéletek nyilvántartásában nem kezeli.
+(4) A (2) bekezdésben meghatározott összehasonlítást követően a bűnügyi nyilvántartó szerv a központi anyakönyvi szerv értesítésében megküldött adatokat haladéktalanul törli, ha az érintett adatait a tagállami ítéletek nyilvántartásában nem kezeli.
 
 (5) Ha az elítélt személy személyazonossága az Európai Unió más tagállamának kijelölt központi hatósága által a bűnügyi nyilvántartó szerv részére megküldött személyazonosító adatok alapján kétséget kizáró módon nem állapítható meg, a bűnügyi nyilvántartó szerv – ha az Európai Unió más tagállamának kijelölt központi hatósága erre vonatkozóan küldött adatot –
 

@@ -32,7 +32,7 @@ ba) a 11. § (1) bekezdés c), e), h), i) pontjában, a 11. § (2) bekezdés e) 
 
 bb) a 16. § (1) bekezdés c), f), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
 
-c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 28. § b) és c) pontjában meghatározott adatok;
+c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § c) és h) pontjában meghatározott adatok;
 
 d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
 
@@ -110,9 +110,9 @@ a) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) beke
 
 b) a 16. § (2) bekezdés a) pontjában meghatározott adatok,
 
-c) a 23. § c), f) és g) pontjában meghatározott adatok, valamint
+c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 
-d) a 28. § b) és c) pontjában meghatározott adatok.
+d)
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
@@ -156,6 +156,6 @@ a) a 11. § (1) bekezdés c), e), f), h) és i) pontjában, a 11. § (2) bekezd�
 
 b) a 16. § (1) bekezdés c), f), g) és i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
 
-c) a 23. § c), f) és g) pontjában meghatározott adatok,
+c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 
-d) a 28. § b) és c) pontjában meghatározott adatok.
+d)

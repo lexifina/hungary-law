@@ -6,8 +6,8 @@ a) a bűntettesek nyilvántartása,
 
 b) a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása,
 
-c) a büntetőeljárás hatálya alatt állók nyilvántartása,
+c) a büntetőeljárás hatálya alatt állók nyilvántartása, és
 
-d) a kényszerintézkedés hatálya alatt állók nyilvántartása és,
+d) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása.
 
-e) a külföldre utazási korlátozás hatálya alatt állók nyilvántartása.
+e)

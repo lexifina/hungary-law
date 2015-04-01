@@ -18,10 +18,12 @@ f) vádemelés elhalasztása esetén az elhalasztás tényét, okát, időtartam
 
 g) a nyomozás vagy az eljárás felfüggesztése esetén a felfüggesztés tényét, okát, időtartamát, az erről szóló határozat számát és keltét, valamint a nyomozás vagy az eljárás továbbfolytatásának időpontját;
 
-h) a büntetőügy iktatószámát;
+h) az előzetes letartóztatás, a lakhelyelhagyási tilalom, a házi őrizet, a távoltartás, az ideiglenes kényszergyógykezelés elrendelésének tényét, valamint azt a tényt, hogy az előzetes letartóztatás óvadék letétele miatt szűnt meg, a kényszerintézkedés időtartamát, megszűnése vagy megszüntetése tényét, a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, megszüntetéséről határozatot hozó bíróság megnevezését, határozatának számát és keltét, a kényszerintézkedés megszüntetéséről határozatot hozó ügyészség megnevezését, határozatának számát és keltét;
 
-i) a büntetőügyek egyesítésének, elkülönítésének, áttételének tényét,
+i) a büntetőügy iktatószámát;
 
-j) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
+j) a büntetőügyek egyesítésének, elkülönítésének, áttételének tényét, az erről szóló határozat számát és keltét;
 
-k) a szakrendszeri azonosító kódot.
+k) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
+
+l) a szakrendszeri azonosító kódot.

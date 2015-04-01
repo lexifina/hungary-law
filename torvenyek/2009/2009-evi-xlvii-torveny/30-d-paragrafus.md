@@ -1,6 +1,6 @@
 30/D. § (1) A személyazonosító adatokat, valamint a 30/C. § b), c), d), e), f), h) pontjában, i) pont ia)–ic) alpontjában és l) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely e törvény rendelkezései szerint
 
-a) kényszerintézkedés elrendelése esetén a kényszerintézkedés hatálya alatt állók nyilvántartásába,
+a) kényszerintézkedés elrendelése esetén a büntetőeljárás hatálya alatt állók nyilvántartásába,
 
 b) szabadságvesztés büntetés kiszabása esetén a bűntettesek nyilvántartásába,
 
@@ -22,7 +22,7 @@ teljesítendő adatközlésre köteles.
 
 (7) A bűnügyi nyilvántartó szerv a külföldre utazási korlátozás hatálya alatt állók nyilvántartásába az adatokat
 
-a) kényszerintézkedés esetén a kényszerintézkedés hatálya alatt állók nyilvántartásába,
+a) kényszerintézkedés esetén a büntetőeljárás hatálya alatt állók nyilvántartásába,
 
 b) szabadságvesztés büntetés esetén a bűntettesek nyilvántartásába,
 

@@ -1,6 +1,6 @@
 ## Kérelemre történő adattovábbítás az Európai Unió más tagállamának, valamint harmadik országnak
 
-80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül a mellékletben meghatározott formanyomtatványon adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a kényszerintézkedés hatálya alatt állók nyilvántartásának, valamint a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
+80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül a mellékletben meghatározott formanyomtatványon vagy elektronikus úton adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának, valamint a 15. § e) pontja szerinti adatok kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
 
 (1a) Ha az (1) bekezdés szerinti adattovábbítási kérelem teljesítéséhez a kérelemben foglaltakon túl további adat szükséges, a bűnügyi nyilvántartó szerv a kérelem kézhezvételét követően haladéktalanul további tájékoztatást kér az adattovábbítási kérelmet benyújtó, az Európai Unió más tagállama kijelölt központi hatóságától.
 
