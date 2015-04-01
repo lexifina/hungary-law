@@ -10,6 +10,6 @@ c) a kezdeményezéssel kapcsolatos mindazon további adatokat, információkat,
 
 d) a kezdeményezés indokait, különösen az érintett lakosságra és a természeti környezetre gyakorolt hatását, előnyeit és hátrányait.
 
-(2)[^1] Az előkészítő bizottság az Mötv. 98. § (2) bekezdésében foglalt feltételek teljesülését az elkülönült településrész lakosságszámának növekedése, valamint az infrastrukturális ellátottság vonatkozásában a Központi Statisztikai Hivatal érintett főosztálya (a továbbiakban: KSH), míg a községi önkormányzati feladatoknak az országos átlagot meg nem haladó költségráfordítással történő ellátását a Magyar Államkincstár területi szerve által kiállított igazolással tanúsítja.
+(2)[^2] Az előkészítő bizottság az Mötv. 98. § (2) bekezdésében foglalt feltételek teljesülését az elkülönült településrész lakosságszámának növekedése, valamint az infrastrukturális ellátottság vonatkozásában a Központi Statisztikai Hivatal érintett főosztálya (a továbbiakban: KSH), míg a községi önkormányzati feladatoknak az országos átlagot meg nem haladó költségráfordítással történő ellátását a Magyar Államkincstár területi szerve által kiállított igazolással tanúsítja.
 
-[^1]: A 7. § (2) bekezdése a 67/2013. (III. 8.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^2]: A 7. § (2) bekezdése a 67/2013. (III. 8.) Korm. rendelet 19. §-a szerint módosított szöveg.

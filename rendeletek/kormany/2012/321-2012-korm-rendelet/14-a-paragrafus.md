@@ -1,4 +1,4 @@
-14/A. §[^2] (1) A kezdeményezések értékelése során térségi szerepet betöltőnek kell tekinteni azt a községet, amely esetén a községben dolgozók legalább 20%-a más településről jár be dolgozni.
+14/A. §[^4] (1) A kezdeményezések értékelése során térségi szerepet betöltőnek kell tekinteni azt a községet, amely esetén a községben dolgozók legalább 20%-a más településről jár be dolgozni.
 
 (2) A kezdeményezések értékelése során az átlagos városi fejlettségi szintet elérőnek kell tekinteni különösen azt a községet, amely
 
@@ -24,4 +24,4 @@ j) rendelkezik tanuszodával vagy többcélú sportcsarnokkal,
 
 k) esetén – ha a helyi önkormányzat bevezetett ilyen adónemet – az elbírálást megelőző évben a helyi önkormányzat bevételeinek legalább 20%-a helyi iparűzési adóból folyt be.
 
-[^2]: A 14/A. §-t a 61/2015. (III. 24.) Korm. rendelet 9. §-a iktatta be.
+[^4]: A 14/A. §-t a 61/2015. (III. 24.) Korm. rendelet 9. §-a iktatta be.

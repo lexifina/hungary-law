@@ -12,10 +12,12 @@
 
 (5) A területrészt átvevő település önkormányzatának polgármestere az aláírást, illetve döntés kézhezvételét követő öt napon belül küldi meg
 
-a) az átadás részletes feltételeit tartalmazó megállapodást, vagy az Mötv. 102. § (4) bekezdése szerinti jogerős bírói döntést a járási földhivatali bejegyzés és
+a)[^3] az átadás részletes feltételeit tartalmazó megállapodást, vagy az Mötv. 102. § (4) bekezdése szerinti jogerős bírói döntést a járási hivatali bejegyzés és
 
 b) az a) pontban meghatározott iratokat és a területrész átadásának ingatlan-nyilvántartási jogerős bejegyzését a miniszternek, kormányhivatalnak és a KSH-nak tájékoztatás
 
 ## céljából.
 
 (6) Területrész átadása esetén a 2. §, a 3. § (1) bekezdése és a 6. § rendelkezéseit nem kell alkalmazni.
+
+[^3]: A 11. § (5) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 209. § b) pontja szerint módosított szöveg.
