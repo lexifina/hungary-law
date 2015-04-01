@@ -1,4 +1,4 @@
-17. §[^38] (1) A parti település önkormányzata a vízpart-rehabilitációs tanulmánytervben szereplő területfelhasználás megváltoztatására irányuló, a Törvény 59. § (2) bekezdése szerinti kérelmét a területrendezésért felelős miniszternek nyújtja be.
+17. §[^39] (1) A parti település önkormányzata a vízpart-rehabilitációs tanulmánytervben szereplő területfelhasználás megváltoztatására irányuló, a Törvény 59. § (2) bekezdése szerinti kérelmét a területrendezésért felelős miniszternek nyújtja be.
 
 (2) Az (1) bekezdésben foglalt kérelemnek a 16. § (2) bekezdésében szereplő munkarészeken túl tartalmaznia kell
 
@@ -14,4 +14,4 @@ e) ha az egyes tervek, illetve programok környezeti vizsgálatáról szóló ko
 
 f) az előzetes egyeztetések emlékeztetőjét.
 
-[^38]: A 17. §-t a 152/2007. (VI. 26.) Korm. rendelet 12. § (3) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 342/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
+[^39]: A 17. §-t a 152/2007. (VI. 26.) Korm. rendelet 12. § (3) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 342/2014. (XII. 19.) Korm. rendelet 1. §-a iktatta be.

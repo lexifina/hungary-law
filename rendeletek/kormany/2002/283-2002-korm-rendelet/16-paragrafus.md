@@ -2,7 +2,7 @@
 
 ## A vízpart-rehabilitációs tanulmánytervek módosításának, felülvizsgálatának, valamint a partvonal-szabályozási és vízpart-rehabilitációs tervek felülvizsgálatának és kidolgozásának szabályai és tartalmi követelményei[^36]
 
-16. §[^37] (1) A területrendezésért felelős miniszter a vízpart-rehabilitációs tanulmánytervek felülvizsgálatáról – a Törvény 59. § (2) bekezdése alapján történő módosítás kivételével – a vízpart-rehabilitációs tervek készítéséről és felülvizsgálatáról a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
+16. §[^37] (1)[^38] A területrendezésért felelős miniszter a vízpart-rehabilitációs tanulmánytervek felülvizsgálatáról – a Törvény 59. § (2) bekezdése alapján történő módosítás kivételével – a vízpart-rehabilitációs tervek készítéséről és felülvizsgálatáról a Lechner Tudásközpont, Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
 
 (2) A vízpart-rehabilitációs tanulmányterv, illetve annak felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs terv elfogadásra kerülő munkarészei
 
@@ -17,3 +17,4 @@ b) a vízpart-rehabilitációs szabályozási követelményekkel érintett terü
 [^35]: A 15. §-t a 201/2013. (VI. 13.) Korm. rendelet 19. § e) pontja hatályon kívül helyezte.
 [^36]: A 16. §-t megelőző alcím a 342/2014. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^37]: A 16. § a 342/2014. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^38]: A 16. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 59. § (1) bekezdése szerint módosított szöveg.
