@@ -548,7 +548,7 @@
 
 ## Megjegyzés: A fogalomjegyzékben szereplő fogalmak nem minden esetben egyeznek meg az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben, illetőleg az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben szereplő fogalmakkal, figyelemmel a jogszabályok hatálybalépése előtt már meglévő ingatlanállományra.
 
-5. számú melléklet a 147/1992. (XI. 6.) Korm. rendelethez[^11]
+5. számú melléklet a 147/1992. (XI. 6.) Korm. rendelethez[^13]
 
 ## Ingatlanjelleg-azonosító a helyi önkormányzatok ingatlanvagyon-kataszteréhez
 
@@ -628,7 +628,7 @@ Nem tartoznak ide:
 
 – a börtönök, barakkok (1274)
 
-12.[^12] Nem lakóépületek
+12.[^14] Nem lakóépületek
 
 121 Szállodák és szálló jellegű épületek
 
@@ -1348,5 +1348,5 @@ Nem tartoznak ide:
 
 – a katonai kikötők (2151)
 
-[^11]: Az 5. számú mellékletet a 48/2001. (III. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 331/2007. (XII. 13.) Korm. rendelet 3. § 2. pontja, a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának b) pontja szerint módosított szöveg.
-[^12]: Az 5. számú melléklet 12. pontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 2. pontja, a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának b) pontja szerint módosított szöveg.
+[^13]: Az 5. számú mellékletet a 48/2001. (III. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 331/2007. (XII. 13.) Korm. rendelet 3. § 2. pontja, a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának b) pontja szerint módosított szöveg.
+[^14]: Az 5. számú melléklet 12. pontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 2. pontja, a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának b) pontja szerint módosított szöveg.

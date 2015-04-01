@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-147-20-
 | 2011-07-08 | 1992-147-20-22.9 | 89/2003. (VI. 25.) Korm. rendelet |
 | 2013-01-01 | 1992-147-20-22.10 | 48/2001. (III. 27.) Korm. rendelet |
 | 2013-08-01 | 1992-147-20-22.11 | 48/2001. (III. 27.) Korm. rendelet |
+| 2015-04-01 | 1992-147-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
