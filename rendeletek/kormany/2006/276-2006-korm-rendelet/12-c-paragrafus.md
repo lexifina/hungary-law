@@ -1,11 +1,11 @@
-## 12/B. §[^29]
+## 12/B. §[^32]
 
-## Kormányzati Ügyfélvonal[^30]
+## Kormányzati Ügyfélvonal[^33]
 
-12/C. §[^31] (1) A KEKKH működteti a 1818-as és a 185-ös telefonszámon elérhető országos telefonos ügyfélszolgálatot (a továbbiakban: Kormányzati Ügyfélvonal).
+12/C. §[^34] (1) A KEKKH működteti a 1818-as és a 185-ös telefonszámon elérhető országos telefonos ügyfélszolgálatot (a továbbiakban: Kormányzati Ügyfélvonal).
 
 (2) A Kormányzati Ügyfélvonal az (1) bekezdésben foglaltak keretében a kormányablakokra és a kormányablakokban intézhető ügyekre vonatkozóan tájékoztatást és egyéb ügyintézési szolgáltatásokat nyújt, amelynek keretében különösen ügyindítást, ügyintézést és időpontfoglalást tesz lehetővé.
 
-[^29]: A 12/B. §-t és a megelőző alcímet a 105/2010. (IV. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte az 56/2014. (III. 4.) Korm. rendelet 5. § b) pontja.
-[^30]: A 12/C. §-t megelőző alcímet az 515/2013. (XII. 30.) Korm. rendelet 21. § (5) bekezdése iktatta be.
-[^31]: A 12/C. §-t az 515/2013. (XII. 30.) Korm. rendelet 21. § (5) bekezdése iktatta be.
+[^32]: A 12/B. §-t és a megelőző alcímet a 105/2010. (IV. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte az 56/2014. (III. 4.) Korm. rendelet 5. § b) pontja.
+[^33]: A 12/C. §-t megelőző alcímet az 515/2013. (XII. 30.) Korm. rendelet 21. § (5) bekezdése iktatta be.
+[^34]: A 12/C. §-t az 515/2013. (XII. 30.) Korm. rendelet 21. § (5) bekezdése iktatta be.
