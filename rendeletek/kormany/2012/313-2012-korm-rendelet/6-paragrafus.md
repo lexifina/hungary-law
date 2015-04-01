@@ -20,7 +20,7 @@ a) az első és másodfokú építésügyi és építésfelügyeleti hatóságok
 
 b) az 5. § (1) bekezdés e) pontja szerinti statisztikai adatok és jelentések rögzítését az Üzemeltető végzi minden tárgyévet követő február 28-ig, amely adatállomány közérdekű adattartalmának nyilvánosságát, közzétételét biztosítani kell.
 
-(3)[^18] Az e-bírság alkalmazásában az adatkezelő
+(3)[^19] Az e-bírság alkalmazásában az adatkezelő
 
 a) elsőfokú építésügyi és építésfelügyeleti hatóság ellenőrzi az általa kiszabott bírság adatainak nyilvántartásba kerülését, és szükség szerint gondoskodik
 
@@ -40,7 +40,7 @@ bb) a megváltozott adatok rögzítéséről.
 
 a) a szankció megállapítását megelőzően ellenőrzi az adatállományban rögzített adatokat,
 
-b)[^19] a figyelmeztetés esetén annak közlésekor, egyéb döntés esetén annak jogerőre emelkedését követően ellenőrzi a saját eljárásában alkalmazott, az Étv. 52. § (1) és (2) bekezdése szerinti jogkövetkezmény adatainak nyilvántartásba kerülését, és szükség szerint gondoskodik a döntése csatolásáról, és a jogkövetkezmény fajtájának, a szabálytalan tevékenységgel érintett ingatlan címadatainak, helyrajzi számának és a szankcionált személy vagy szervezet – rendelkezésre álló – cégnyilvántartási, adóazonosító és személyi azonosító adatainak rögzítéséről.
+b)[^20] a figyelmeztetés esetén annak közlésekor, egyéb döntés esetén annak jogerőre emelkedését követően ellenőrzi a saját eljárásában alkalmazott, az Étv. 52. § (1) és (2) bekezdése szerinti jogkövetkezmény adatainak nyilvántartásba kerülését, és szükség szerint gondoskodik a döntése csatolásáról, és a jogkövetkezmény fajtájának, a szabálytalan tevékenységgel érintett ingatlan címadatainak, helyrajzi számának és a szankcionált személy vagy szervezet – rendelkezésre álló – cégnyilvántartási, adóazonosító és személyi azonosító adatainak rögzítéséről.
 
 (5) Az e-szankció alkalmazásban a honvédelmi és katonai célú, valamint a nemzetbiztonsági célú és rendeltetésű építmények tekintetében hatáskörrel rendelkező építésügyi és építésfelügyeleti hatóság
 
@@ -48,5 +48,5 @@ a) a szankció megállapítását megelőzően ellenőrzi az adatállományban r
 
 b) a figyelmeztetés közlésekor vagy a döntés jogerőre emelkedését követően az adatállományban rögzíti a saját eljárásában alkalmazott, az Étv. 52. § (1) és (2) bekezdése szerinti jogkövetkezmény fajtáját, a szankcionált személy vagy szervezet – rendelkezésre álló – cégnyilvántartási és személyi azonosító adatait.
 
-[^18]: A 6. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^19]: A 6. § (4) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^19]: A 6. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^20]: A 6. § (4) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.

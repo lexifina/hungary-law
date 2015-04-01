@@ -20,7 +20,7 @@ e) évente statisztikai összesítést és összefoglaló jelentést készít a 
 
 (2) A dokumentációknak a Dokumentációs Központban történő adatkezelése a dokumentációkkal kapcsolatos szerzői jogokat nem érinti.
 
-(3)[^16] Az Üzemeltető az 1. melléklet szerinti rendszerhasználati díjról elkülönített nyilvántartást vezet. Az Üzemeltető a miniszter számára a rendszerhasználati díj tételes felhasználásáról évente részletes beszámolót készít.
+(3)[^17] Az Üzemeltető az 1. melléklet szerinti rendszerhasználati díjról elkülönített nyilvántartást vezet. Az Üzemeltető a miniszter számára a rendszerhasználati díj tételes felhasználásáról évente részletes beszámolót készít.
 
 (4) Kérelemre az Üzemeltető az 1. § (1) bekezdése szerinti dokumentumállomány archivált és a külön jogszabály szerinti újrahasznosítás céljából rendelkezésre bocsátható közérdekű adataiba betekintést biztosít, abból adatokat szolgáltat, az adatokról másolatot ad a közadatok újrahasznosításáról szóló törvény, az információs önrendelkezési jogról és az információszabadságról szóló törvény, valamint az Étv. 58–59. §-ának a személyes adatok kezelésére vonatkozó rendelkezései szerint.
 
@@ -40,9 +40,9 @@ b) gondoskodik az elektronikus alkalmazások működtetéséről, valamint
 
 c) kezeli az adatállomány és az alkalmazások hozzáférési jogosultsági adatait és vezeti azok nyilvántartását.
 
-(6a)[^17] Az Üzemeltető hozzáférést biztosít a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ számára a Nyilvántartás alkalmazásaihoz, amennyiben azok használata a műemléki értékkel vagy régészeti lelőhellyel kapcsolatos.
+(6a)[^18] Az Üzemeltető hozzáférést biztosít a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ számára a Nyilvántartás alkalmazásaihoz, amennyiben azok használata a műemléki értékkel vagy régészeti lelőhellyel kapcsolatos.
 
 (7) Az Étv. 3. § (2) bekezdésében foglalt, az Étv. 5. §-ában meghatározott miniszteri feladatok ellátásához szükséges, valamint az e rendeletben előírt közzétételi feladatok ellátásáról az Üzemeltető a www.e-epites.hu weboldal működtetésével gondoskodik.
 
-[^16]: Az 5. § (3) bekezdését a 107/2013. (IV. 5.) Korm. rendelet 15. § (4) bekezdése hatályon kívül helyezte, újonnan a 62/2014. (III. 6.) Korm. rendelet 20. §-a iktatta be.
-[^17]: Az 5. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 19. §-a iktatta be.
+[^17]: Az 5. § (3) bekezdését a 107/2013. (IV. 5.) Korm. rendelet 15. § (4) bekezdése hatályon kívül helyezte, újonnan a 62/2014. (III. 6.) Korm. rendelet 20. §-a iktatta be.
+[^18]: Az 5. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 19. §-a iktatta be.

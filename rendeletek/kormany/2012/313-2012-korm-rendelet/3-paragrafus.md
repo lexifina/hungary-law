@@ -1,6 +1,6 @@
 ## 2. A Dokumentációs Központ és a Nyilvántartás működtetése, fenntartása és fejlesztése
 
-3. § (1)[^10] Az építésügyért felelős miniszter (a továbbiakban: miniszter) az Étv. 59. § (3) bekezdése szerinti feladatai ellátása keretében kizárólagos joggal a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Üzemeltető) útján gondoskodik
+3. § (1)[^10] Az építésügyért felelős miniszter (a továbbiakban: miniszter) az Étv. 59. § (3) bekezdése szerinti feladatai ellátása keretében kizárólagos joggal a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Üzemeltető) útján gondoskodik
 
 a) az 1. § (1) bekezdése szerinti dokumentációk országos központi tervtárának fenntartásáról,
 
@@ -40,7 +40,7 @@ e)[^12] a Nyilvántartás működését elősegítő elektronikus alkalmazások 
 
 (9)[^15] Túlfizetés esetén az igazoltan befizetett rendszerhasználati díjtöbbletet az Üzemeltető 15 napon belül átutalással visszatéríti.
 
-[^10]: A 3. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 19. § (1) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 207. § (2) bekezdése szerint módosított szöveg.
 [^11]: A 3. § (1a) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 699. §-a iktatta be.
 [^12]: A 3. § (3) bekezdés e) pontját a 62/2014. (III. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be.
 [^13]: A 3. § (7) bekezdését a 62/2014. (III. 6.) Korm. rendelet 19. § (3) bekezdése iktatta be.
