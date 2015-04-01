@@ -18,7 +18,7 @@ f) az egyes övezetekbe tartozó ingatlanok felsorolását (helyrajzi szám),
 
 g) a számított övezeti határokat térképen ábrázolva.
 
-(3)[^12] A közüzemnek biztosítania kell, hogy az érintett ingatlantulajdonosok az intézkedési terv tervezetébe – a környezetvédelmi hatóságnak történő megküldés előtt – betekinthessenek és arra észrevételt tehessenek.
+(3)[^16] A közüzemnek biztosítania kell, hogy az érintett ingatlantulajdonosok az intézkedési terv tervezetébe – a környezetvédelmi hatóságnak történő megküldés előtt – betekinthessenek és arra észrevételt tehessenek.
 
 (4) A környezetvédelmi hatóság az intézkedési tervet jóváhagyó határozatban fokozottan zajos területnek minősíti a védendő környezetnek azt a részét, amelyik beleesik a zajterhelést okozó közüzemi szolgáltató (közüzemi létesítmény) hatásterületének abba a részletébe, amelyen belül a zajterhelés nem csökkenthető a határérték szintjére.
 
@@ -30,4 +30,4 @@ a) a fokozottan zajos terület kijelölt övezeti határait (beépített belter�
 
 b) az egyes övezetekbe eső ingatlanok (utca, házszám, helyrajzi szám) övezetenkénti tételes felsorolását.
 
-[^12]: A 19. § (3) bekezdés második mondatát a 182/2009. (IX. 10.) Korm. rendelet 578. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 19. § (3) bekezdés második mondatát a 182/2009. (IX. 10.) Korm. rendelet 578. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
