@@ -20,7 +20,7 @@ c)[^20] a meder jogellenes igénybevétele, feltöltése esetén az eredeti áll
 
 (5) A feltöltés fennmaradása esetén a fenntartó elkészíti az ingatlan-nyilvántartási átvezetéshez szükséges dokumentációt.
 
-(6) Az ingatlan-nyilvántartási változás és átvezetés alapja a jogerős partvonal-megállapító határozat, amelynek alapján – figyelemmel a (5) bekezdés szerinti dokumentációra – az illetékes földhivatal az eddig mederként nyilvántartott területet a változás átvezetésével, rendeltetésének, illetve a hasznosításnak megfelelő művelési ágban tartja nyilván.
+(6)[^24] Az ingatlan-nyilvántartási változás és átvezetés alapja a jogerős partvonal-megállapító határozat, amelynek alapján – figyelemmel a (5) bekezdés szerinti dokumentációra – az illetékes ingatlanügyi hatóság az eddig mederként nyilvántartott területet a változás átvezetésével, rendeltetésének, illetve a hasznosításnak megfelelő művelési ágban tartja nyilván.
 
 (7) Az ingatlan-nyilvántartási átvezetés után a meder részét már nem képező parti területeken – ha annak tulajdonosa és a vagyonkezelő személye megegyezik a meder tulajdonosával – a fenntartó gondoskodik a földrészletek (parti területek) jogszabálynak megfelelő, rendeltetésszerű hasznosításáról.
 
@@ -31,3 +31,4 @@ c)[^20] a meder jogellenes igénybevétele, feltöltése esetén az eredeti áll
 [^21]: A 8. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 60. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^22]: 72/1996. (V. 22.) Korm. r. 10. §.
 [^23]: A 8. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 170. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A 8. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 39. §-a szerint módosított szöveg.
