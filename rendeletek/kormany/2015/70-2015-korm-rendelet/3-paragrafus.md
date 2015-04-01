@@ -1,0 +1,3 @@
+## 2. § A közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló 89/1988. (XII. 20.) MT rendelet 5/A. § (13) bekezdés b) pontjában és 25. § (2) bekezdésében a „Nemzeti Fogyasztóvédelmi Hatóság” szövegrész helyébe a „fogyasztóvédelmi hatóság” szöveg lép.
+
+## 3. Az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről, továbbá az egyes személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet módosítása

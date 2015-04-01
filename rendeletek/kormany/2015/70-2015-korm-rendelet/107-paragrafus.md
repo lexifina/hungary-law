@@ -1,0 +1,9 @@
+## 106. § A NATURA 2000 gyepterületek fenntartásának földhasználati szabályairól szóló 269/2007. (X. 18.) Korm. rendelet 4. § (4) bekezdésében az „a környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség)” szövegrész helyébe a „fővárosi és megyei kormányhivatalnak” szöveg lép.
+
+## 107. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
+
+107. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: R48.) 33. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A fogyatékosság jellegét – amely a fogyatékkal élő fogyasztót alkalmatlanná teszi a mérő leolvasására, a mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére – vagy az (1) bekezdés b) pont bc) alpontjának való megfelelést a kezelőorvos, ennek hiányában a háziorvos igazolja a 23/b. számú melléklet C) része szerinti nyomtatvány kitöltésével a jogszabályok és az engedélyes üzletszabályzata szerinti különleges bánásmód jellegének és tartalmának engedélyes általi azonosítása céljából. Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos és a háziorvos a 23/b. számú melléklet C) része szerinti nyomtatványt e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján tölti ki.”
+
+(2) Az R48. 23/b. számú mellékletében a „rehabilitációs szakigazgatási szerv, a Nemzeti Rehabilitációs és Szociális Hivatal” szövegrész helyébe a „rehabilitációs szakértői szerv” szöveg, a „szakhatósági állásfoglalást” szövegrész helyébe a „szakhatósági állásfoglalást, határozatot” szöveg lép.

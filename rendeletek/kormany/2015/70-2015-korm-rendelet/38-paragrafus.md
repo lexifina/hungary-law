@@ -1,0 +1,3 @@
+## 37. § A büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtásának szabályairól szóló 34/1999. (II. 26.) Korm. rendelet 6. § (3) bekezdésében a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) gyámhivatala” szövegrész helyébe a „fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala” szöveg lép.
+
+## 38. Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosítása
