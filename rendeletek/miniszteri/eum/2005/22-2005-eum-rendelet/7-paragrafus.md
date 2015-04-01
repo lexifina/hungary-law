@@ -2,7 +2,7 @@
 
 (2) A prevenciós határértéket meghaladó mértékű behatás esetén a munkavállalót minden esetben soron kívüli foglalkozás-egészségügyi orvosi vizsgálatra kell küldeni.
 
-(3)[^3] A foglalkozás-egészségügyi szolgálat a rezgésexpozíciónak kitett munkavállalóról a külön jogszabály szerint vezeti az egészségügyi dokumentációt. Az egészségügyi dokumentáció másolatát kérésre az illetékes munkavédelmi felügyelőség rendelkezésére kell bocsátani. A munkavállaló részére biztosítani kell a rá vonatkozó egészségügyi dokumentáció megismerésének lehetőségét.
+(3)[^3] A foglalkozás-egészségügyi szolgálat a rezgésexpozíciónak kitett munkavállalóról a külön jogszabály szerint vezeti az egészségügyi dokumentációt. Az egészségügyi dokumentáció másolatát kérésre az illetékes munkavédelmi hatóság rendelkezésére kell bocsátani. A munkavállaló részére biztosítani kell a rá vonatkozó egészségügyi dokumentáció megismerésének lehetőségét.
 
 (4) Ha az orvosi vizsgálat megállapítja, hogy a munkavállalónál olyan betegség vagy egészségkárosodás azonosítható, amely a foglalkozás-egészségügyi szolgálat orvosának álláspontja szerint a munkahelyi mechanikus rezgésexpozíció következménye:
 
@@ -24,4 +24,4 @@ e) intézkedni a soron kívüli orvosi vizsgálatról,
 
 f) gondoskodni azon munkavállalók egészségi állapotának a felméréséről, akik hasonló mértékű rezgésexpozíciónak voltak kitéve.
 
-[^3]: A 7. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (7) bekezdésének b) pontja szerint módosított szöveg.
+[^3]: A 7. § (3) bekezdése a 9/2015. (III. 31.) NGM rendelet 35. § c) pontja szerint módosított szöveg.
