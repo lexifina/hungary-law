@@ -8,8 +8,17 @@ c)[^2] Záhony térségében vasúti infrastruktúra fejlesztése, az árufuvaro
 
 (2) E rendelet melléklete állapítja meg az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságokat.
 
-(3)[^3] Azokban az esetekben, amikor a mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a szakhatóságként közreműködő szervet – a régészettel és műemlékvédelemmel összefüggő ügyekben eljáró szakhatóságok kivételével – az Ngt. 2. §-ának alkalmazásával kell megállapítani. A régészettel és műemlékvédelemmel összefüggő ügyekben szakhatóságként első fokon a Nyíregyházi Járási Hivatal járási építésügyi és örökségvédelmi hivatala, másodfokon régészet esetén a Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala, műemlékvédelem esetén a Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala jár el.
+(3)[^3] Azokban az esetekben, amikor a mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el,
+
+a) első fokon – a (3a) bekezdésben meghatározott kivétellel – az ügyfajtára vonatkozó különös eljárási szabályok szerint a másodfokú eljárásban szakhatóságként kijelölt hatóság,
+
+b) másodfokon – a (3a) bekezdésben meghatározott kivétellel – az a) pont alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló hatóság
+
+## jár el.
+
+(3a)[^4] Azokban az esetekben, amikor a mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben régészeti vagy műemlékvédelmi kérdésben szakhatóság közreműködését írja elő, első fokon szakhatóságként a Nyíregyházi Járási Hivatal, másodfokon szakhatóságként Budapest Főváros Kormányhivatala jár el.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 227/2008. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indult ügyekben kell alkalmazni.
 [^2]: Az 1. § (1) bekezdés c) pontja a 227/2008. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indult ügyekben kell alkalmazni.
-[^3]: Az 1. § (3) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 72/2015. (III. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^4]: Az 1. § (3a) bekezdését a 72/2015. (III. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 114. §-át.
