@@ -14,7 +14,7 @@ c)[^109]
 
 (2) A háziorvos az (1) bekezdés a) pont aa) alpontjában foglalt igazolást
 
-a) a rehabilitációs hatóság szakvéleménye,
+a)[^110] a rehabilitációs hatóság súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalása vagy szakvéleménye, illetve a fogyatékossági támogatással összefüggő feladatkörében eljáró hatóság határozata
 
 b) a szakmailag illetékes szakfelügyelő főorvos igazolása, vagy
 
@@ -26,7 +26,7 @@ c) a fekvőbeteg-szakellátást nyújtó intézmény vagy területileg illetéke
 
 (4) Az ápolási díjat kérelmező személy, illetve az ápolási díjat megállapító szerv
 
-a) az (1) bekezdés a) pont aa) alpontjában foglalt igazolás felülvizsgálatát a járási hivatal népegészségügyi intézetének tisztiorvosa által kijelölt, az ápolást indokoló diagnózis szerinti szakorvostól vagy szervtől,
+a) az (1) bekezdés a)[^111] pont aa) alpontjában foglalt igazolás felülvizsgálatát a népegészségügyi feladatkörében általa kijelölt, az ápolást indokoló diagnózis szerinti szakorvostól vagy szervtől,
 
 b) az (1) bekezdés a) pont ab) alpontjában foglalt szakvélemény felülvizsgálatát a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság) mint módszertani feladatot ellátó szerv által kijelölt szakértőtől
 
@@ -36,3 +36,5 @@ b) az (1) bekezdés a) pont ab) alpontjában foglalt szakvélemény felülvizsg�
 
 [^108]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^109]: A 25. § (1) bekezdés c) pontját a 24/2015. (II. 20.) Korm. rendelet 28. § i) pontja hatályon kívül helyezte.
+[^110]: A 25. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (6) bekezdésével megállapított szöveg.
+[^111]: A 25. § (4) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés j) pontja szerint módosított szöveg.

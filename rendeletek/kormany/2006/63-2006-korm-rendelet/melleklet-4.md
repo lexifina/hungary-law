@@ -1,4 +1,4 @@
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^220]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^214]
 
 ## KÉRELEM
 
@@ -100,7 +100,7 @@ végzem (a megfelelő aláhúzandó);
 
 1.2.5. Az 1.2.1.4. alpont szerinti jogcímen igényelt kiemelt ápolási díj igénylése esetén kérjük, jelölje,
 
-⬜ ha rendelkezik a rehabilitációs hatóság érvényes és hatályos, az ápolt személy tekintetében elvégzett komplex minősítés eredményéről kiállított szakhatósági állásfoglalásával, bizottsági állásfoglalásával, határozatával vagy hatósági bizonyítványával és azt a kérelemhez csatolta.
+⬜ ha rendelkezik a rehabilitációs hatóság érvényes és hatályos, az ápolt személy tekintetében elvégzett komplex minősítés eredményéről kiállított szakvéleményével, szakhatósági állásfoglalásával, bizottsági állásfoglalásával, határozatával vagy hatósági bizonyítványával és azt a kérelemhez csatolta.
 
 1.2.6. Ha az 1.2.5. alpont szerinti irattal rendelkezik, de azt nem csatolta a kérelemhez, kérjük, adja meg annak a rehabilitációs szakigazgatási szervnek a megnevezését és címét, amelyik az ápolt személy komplex minősítésének eredményéről szóló iratot kiállította:
 
@@ -180,8 +180,8 @@ e) lakáson belül – segédeszköz igénybevételével is – közlekedni.
 
 4.4. A kiemelt ápolási díj iránti kérelemhez csatolni kell
 
-4.4.1. a rehabilitációs hatóság érvényes és hatályos szakhatósági állásfoglalását, bizottsági állásfoglalását, határozatát vagy hatósági bizonyítványát az ápolt személy vonatkozásában elvégzett komplex minősítés eredményéről, vagy
+4.4.1. a rehabilitációs hatóság érvényes és hatályos szakvéleményét, szakhatósági állásfoglalását, bizottsági állásfoglalását, határozatát vagy hatósági bizonyítványát az ápolt személy vonatkozásában elvégzett komplex minősítés eredményéről, vagy
 
 4.4.2. a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló miniszteri rendelet szerinti igazolást.
 
-[^220]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése, a 69/2014. (III. 13.) Korm. rendelet 13. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § d) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^214]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése, a 69/2014. (III. 13.) Korm. rendelet 13. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § d) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés v) pontja szerint módosított szöveg.

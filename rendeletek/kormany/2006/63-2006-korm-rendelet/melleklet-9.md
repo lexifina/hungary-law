@@ -80,6 +80,6 @@
 
 ## A megfelelő választ X-szel kell jelölni, illetve a hiányzó adatokat kitölteni.
 
-9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^225]
+9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^219]
 
-[^225]: A 9. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § e) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (3) bekezdése és 14. § p) pontja, a 69/2014. (III. 13.) Korm. rendelet 13. § c) pontja, a 353/2014. (XII. 29.) Korm. rendelet 37. §-a, a 364/2014. (XII. 30.) Korm. rendelet 125. § e) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés o) pontja, 28. § t) pontja szerint módosított szöveg.
+[^219]: A 9. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § e) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (3) bekezdése és 14. § p) pontja, a 69/2014. (III. 13.) Korm. rendelet 13. § c) pontja, a 353/2014. (XII. 29.) Korm. rendelet 37. §-a, a 364/2014. (XII. 30.) Korm. rendelet 125. § e) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés o) pontja, 28. § t) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés w) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^219]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^213]
 
 ## KÉRELEM
 
@@ -146,7 +146,7 @@ c) fogyatékossági támogatásban részesül.
 
 3.2.2. jelölje aláhúzással, ha csatolta
 
-a) annak a munkaügyi központnak az igazolását, amely a munkanélküli járadékot, álláskeresési járadékot, álláskeresési segélyt, vállalkozói járadékot folyósította, vagy amellyel a kérelem benyújtása előtt együttműködött;
+a) annak az állami foglalkoztatási szervként eljáró járási hivatalnak az igazolását, amely a munkanélküli járadékot, álláskeresési járadékot, álláskeresési segélyt, vállalkozói járadékot folyósította, vagy amellyel a kérelem benyújtása előtt együttműködött;
 
 b) a korábban folyósított szociális ellátások megszüntetéséről hozott határozatot vagy az ellátást korábban folyósító szerv igazolását.
 
@@ -156,7 +156,7 @@ b) a korábban folyósított szociális ellátások megszüntetéséről hozott 
 
 3.2.4. Amennyiben Ön
 
-a) a 3.2.2. pont a) alpontjában foglalt igazolást nem csatolta, kérjük, adja meg annak a munkaügyi központnak a megnevezését és címét, amely Önnek ellátást folyósított, vagy amellyel Ön együttműködött:
+a) a 3.2.2. pont a) alpontjában foglalt igazolást nem csatolta, kérjük, adja meg annak az állami foglalkoztatási szervként eljáró járási hivatalnak a megnevezését és címét, amely Önnek ellátást folyósított, vagy amellyel Ön együttműködött:
 
 b) a 3.2.2. pont b) alpontjában foglalt határozatot, igazolást nem csatolta, kérjük, adja meg a korábbi szociális ellátást megszüntető szerv megnevezését és címét:
 
@@ -308,9 +308,9 @@ a) akinek a munkanélküli járadék, álláskeresési járadék, álláskeresé
 
 b) akinek álláskeresési támogatását keresőtevékenység folytatása miatt a folyósítási időtartam lejártát megelőzően szüntették meg, és a keresőtevékenységet követően az álláskeresési támogatásra nem szerzett jogosultságot, vagy
 
-c) aki az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőző két évben a munkaügyi központtal, illetve a rehabilitációs hatósággal legalább egy év időtartamban együttműködött, vagy
+c) aki az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőző két évben az állami foglalkoztatási szervvel, illetve a rehabilitációs hatósággal legalább egy év időtartamban együttműködött, vagy
 
-d) akinek az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, rokkantsági ellátás, rehabilitációs ellátás, a rehabilitációs járadék, az ideiglenes özvegyi nyugdíj, továbbá az árvaellátás megszűnése miatt az özvegyi nyugdíj folyósítását megszüntették, és közvetlenül a kérelem benyújtását megelőzően a munkaügyi központtal, annak kirendeltségével, illetve a rehabilitációs hatósággal legalább három hónapig együttműködött, vagy
+d) akinek az ápolási díj, a gyermekgondozási segély, a gyermeknevelési támogatás, rokkantsági ellátás, rehabilitációs ellátás, a rehabilitációs járadék, az ideiglenes özvegyi nyugdíj, továbbá az árvaellátás megszűnése miatt az özvegyi nyugdíj folyósítását megszüntették, és közvetlenül a kérelem benyújtását megelőzően az állami foglalkoztatási szervként eljáró járási hivatallal, illetve a rehabilitációs hatósággal legalább három hónapig együttműködött, vagy
 
 e) akinek az aktív korúak ellátására való jogosultság iránti kérelem benyújtását megelőzően fennálló aktív korúak ellátására való jogosultsága nem az együttműködési kötelezettség megszegése miatt szűnt meg, feltéve, hogy az aktív korúak ellátása megállapítását a kérelmező a korábbi jogosultság megszüntetésétől számított harminchat hónapon belül kérte.
 
@@ -318,9 +318,9 @@ e) akinek az aktív korúak ellátására való jogosultság iránti kérelem be
 
 a) az 5.3.3. pont a) alpontjában meghatározott esetben: a munkaügyi központnak az igazolása a munkanélküli járadék, az álláskeresési járadék, álláskeresési segély folyósítása időtartamának lejártáról, valamint arról, hogy a nem foglalkoztatott személy álláskeresést ösztönző juttatásban nem részesül;
 
-b) az 5.3.3. pont b) alpontjában meghatározott esetben: a munkaügyi központ igazolása arról, hogy az álláskeresési támogatásra való jogosultsága nem áll fenn, továbbá a munkaviszonyban töltött azon napjainak számáról, amelyeket az álláskeresési támogatás megállapításánál figyelembe kell venni;
+b) az 5.3.3. pont b) alpontjában meghatározott esetben: az állami foglalkoztatási szervként eljáró járási hivatal igazolása arról, hogy az álláskeresési támogatásra való jogosultsága nem áll fenn, továbbá a munkaviszonyban töltött azon napjainak számáról, amelyeket az álláskeresési támogatás megállapításánál figyelembe kell venni;
 
-c) az 5.3.3. pont c) és d) alpontjában meghatározott esetben: a munkaügyi központ, illetve a rehabilitációs hatóság igazolása a megelőző együttműködés teljesítéséről;
+c) az 5.3.3. pont c) és d) alpontjában meghatározott esetben: az állami foglalkoztatási szervként eljáró járási hivatal, illetve a rehabilitációs hatóság igazolása a megelőző együttműködés teljesítéséről;
 
 d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban megállapított szociális ellátások megszüntetéséről szóló határozat vagy a folyósító szerv igazolása, ha a korábbi ellátásokat nem a kérelmező jelenlegi lakcíme szerint illetékes folyósító szerv folyósította.
 
@@ -332,4 +332,4 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 a törvényes képviselője jogosult az aláírásra.
 
-[^219]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^213]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja szerint módosított szöveg.

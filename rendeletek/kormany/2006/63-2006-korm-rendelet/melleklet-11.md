@@ -20,38 +20,6 @@
 
 ## háziorvos aláírása
 
-11. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^227]
+11. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^221]
 
-## Szakhatósági megkeresés kormányhivatal egészségbiztosítási szakigazgatási szerve
-
-I. A kérelmező személyes adatai
-
-## Neve:
-
-## Születési neve:
-
-## Anyja neve:
-
-## Születési hely, év, hó, nap:
-
-## Lakóhely:
-
-## Tartózkodási hely:
-
-## Társadalombiztosítási Azonosító Jele:
-
-1. Nevezett a közgyógyellátásra való jogosultság megállapítását az
-
-□ Szt. 50. § (1) bekezdésében
-
-□ Szt. 50. § (2), illetve (3) bekezdésében
-
-foglalt jogosultsági feltételek fennállására hivatkozással kérte. (A megfelelő választ X-szel kell jelölni.)
-
-2. Nevezett a gyógyszerkerete felülvizsgálatát kérte.
-
-(Az 1. és 2. pont közül a megfelelő bekarikázandó.)
-
-II. A szakhatósági megkeresést benyújtó hatóság adatai
-
-[^227]: A 11. számú melléklet az 51/2013. (II. 25.) Korm. rendelet 7. §-ával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 14. § q) pontja szerint módosított szöveg.
+[^221]: A 11. számú mellékletet a 70/2015. (III. 30.) Korm. rendelet 76. § (14) bekezdés b) pontja hatályon kívül helyezte.

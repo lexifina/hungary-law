@@ -170,7 +170,7 @@
 
 ## 4.2.8. A jövedelemről – a Magyar Államkincstár területileg illetékes Igazgatósága által a családtámogatási törvény szerint folyósított családtámogatási ellátás, vagy a fogyatékossági támogatás kivételével – a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^218]
+2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^212]
 
 ## Adatlap
 
@@ -252,7 +252,7 @@ az időskorúak járadékának hivatalból történő megállapításához
 
 | 2.4. | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |  |
 
-| 2.5. | Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások |  |  |
+| 2.5. | Önkormányzat, járási hivatal és az állami foglalkoztatási szerv által folyósított ellátások |  |  |
 
 | 2.6. | Egyéb jövedelem |  |  |
 
@@ -282,7 +282,7 @@ Felelősségem tudatában kijelentem, hogy
 
 Kelt: ,......................................................
 
-## 5K01509N_1
+## 5K03644M_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -342,4 +342,4 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 4.2.9. A jövedelemről a kérelemhez mellékelni kell – a családtámogatási törvény szerint folyósított családtámogatási ellátás kivételével – a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-[^218]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés m) pontja, 28. § s) pontja szerint módosított szöveg.
+[^212]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés m) pontja, 28. § s) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés t) pontja szerint módosított szöveg.

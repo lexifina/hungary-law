@@ -136,7 +136,7 @@
 
 | 5. | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |  |  |  |  |  |
 
-| 6. | Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások |  |  |  |  |  |  |
+| 6. | Önkormányzat, járási hivatal és az állami foglalkoztatási szerv által folyósított ellátások |  |  |  |  |  |  |
 
 | 7. | Egyéb jövedelem |  |  |  |  |  |  |
 
@@ -158,7 +158,7 @@
 
 ## címre kérem.
 
-## 4.2.2. ⬜ A közgyógyellátási igazolványt személyesen veszem át a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szervénél.
+## 4.2.2. ⬜ A közgyógyellátási igazolványt személyesen veszem át az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatalnál.
 
 ## 4.3. Kijelentem, hogy
 
@@ -280,7 +280,7 @@
 
 ## 5.2.9. A jövedelemről a kérelemhez mellékelni kell a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^226]
+10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^220]
 
 ## Háziorvosi igazolás
 
@@ -338,4 +338,4 @@ II. A társadalombiztosítás által támogatott, tartósan alkalmazott gyógyí
 
 III. Háziorvosra (intézményi orvosra) vonatkozó adatok, a háziorvos nyilatkozata
 
-[^226]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^220]: A 10. számú melléklet a 326/2006. (XII. 23.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
