@@ -2,7 +2,7 @@
 
 1.
 
-2.
+2. 34. § (15) bekezdésében az „A járulékokat a Köztársasági Elnöki Hivatal fizeti meg és vallja be, továbbá teljesíti a biztosítotti bejelentést.” szövegrész,
 
 3.
 
