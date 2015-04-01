@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-66-00-00
 | 2013-01-01 | 2012. évi CXCVII. törvény | 1994-66-00-00.18 |
 | 2014-01-01 | 2013. évi CLXXIX. törvény | 1994-66-00-00.19 |
 | 2014-07-01 | 2013. évi CLXXIX. törvény | 1994-66-00-00.20 |
+| 2015-04-01 | 2015. évi VI. törvény | 1994-66-00-00.21 |
