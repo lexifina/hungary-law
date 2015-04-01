@@ -1,4 +1,4 @@
-## 30/C. §[^109] A közvetítő írásban jelzi a gyámhivatal részére
+## 30/C. §[^113] A közvetítő írásban jelzi a gyámhivatal részére
 
 a) – a közvetítői megbeszélés elmaradásától számított nyolc napon belül –, hogy a közvetítői eljárás nem indult meg, mert az első közvetítői megbeszélésen egyik fél sem vagy az egyik fél nem vett részt, továbbá nem mentette ki magát és nem kért újabb időpontot,
 
@@ -10,4 +10,4 @@ ca) sikerült-e megállapodást, részmegállapodást kötni vagy a közvetítő
 
 cb) a közvetítői eljárás már megindult, de még nem fejeződött be, és további legfeljebb két hónap szükséges a megállapodás, részmegállapodás létrehozásához.
 
-[^109]: A 30/C. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^113]: A 30/C. §-t a 14/2003. (II. 12.) Korm. rendelet 11. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

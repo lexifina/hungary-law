@@ -1,6 +1,6 @@
 ## Intézkedések a családi jogállás rendezésére irányuló pereknél
 
-64. §[^378] (1) A családi jogállás rendezése iránti per megindításához a gyámhivatal a gyermek törvényes képviseletének ellátására eseti gyámot rendel ki, ha a perben gyermeke törvényes képviselőjeként az anya nem járhat el, vagy nem kíván eljárni. Az eseti gyám kirendelését a szülő, a gyermek gyámja és a tizennegyedik életévét betöltött gyermek kérheti, de a kirendelésről a gyámhivatal hivatalból is dönthet.
+64. §[^382] (1) A családi jogállás rendezése iránti per megindításához a gyámhivatal a gyermek törvényes képviseletének ellátására eseti gyámot rendel ki, ha a perben gyermeke törvényes képviselőjeként az anya nem járhat el, vagy nem kíván eljárni. Az eseti gyám kirendelését a szülő, a gyermek gyámja és a tizennegyedik életévét betöltött gyermek kérheti, de a kirendelésről a gyámhivatal hivatalból is dönthet.
 
 (2) A családi jogállás megállapítására irányuló per megindítására a gyámhivatal előzetes hozzájárulásával a gyám is jogosult.
 
@@ -10,4 +10,4 @@
 
 (5) A gyámhivatal az apaság vélelmének megdöntése iránti pert indít, ha az apai elismerő nyilatkozatot jogszabály, különösen az örökbefogadási szabályok megkerülése céljából tették.
 
-[^378]: A 64. § a 70/2014. (III. 13.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^382]: A 64. § a 70/2014. (III. 13.) Korm. rendelet 50. §-ával megállapított szöveg.

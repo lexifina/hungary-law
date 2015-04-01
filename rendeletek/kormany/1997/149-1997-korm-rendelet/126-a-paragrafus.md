@@ -1,8 +1,8 @@
 ## HATODIK RÉSZ
 
-## TÁMOGATOTT DÖNTÉSHOZATAL, ELŐZETES JOGNYILATKOZAT, GYÁMSÁG ÉS GONDNOKSÁG[^746]
+## TÁMOGATOTT DÖNTÉSHOZATAL, ELŐZETES JOGNYILATKOZAT, GYÁMSÁG ÉS GONDNOKSÁG[^757]
 
-## XVI/A. Fejezet[^747]
+## XVI/A. Fejezet[^758]
 
 ## A TÁMOGATOTT DÖNTÉSHOZATALLAL ÉS AZ ELŐZETES JOGNYILATKOZATTAL KAPCSOLATOS ÜGYEK
 
@@ -82,5 +82,5 @@ d) a támogatott döntéshozatal általános jellegét, vagy azoknak az ügycsop
 
 e) több támogató kirendelése esetén ennek a tényét, valamint azoknak az ügyeknek, ügycsoportoknak a megjelölését, amelyekben a tanúsítvány kiállítását kérő támogató eljárhat.
 
-[^746]: A Hatodik Rész címe a 70/2014. (III. 13.) Korm. rendelet 58. §-ával megállapított szöveg.
-[^747]: A XVI/A. Fejezetet (126/A–126/F. §) a 70/2014. (III. 13.) Korm. rendelet 59. §-a iktatta be.
+[^757]: A Hatodik Rész címe a 70/2014. (III. 13.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^758]: A XVI/A. Fejezetet (126/A–126/F. §) a 70/2014. (III. 13.) Korm. rendelet 59. §-a iktatta be.

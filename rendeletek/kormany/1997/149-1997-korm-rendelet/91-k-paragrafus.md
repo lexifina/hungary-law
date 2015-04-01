@@ -1,4 +1,4 @@
-## XII/A. Fejezet[^637]
+## XII/A. Fejezet[^643]
 
 ## MEGELŐZŐ PÁRTFOGÁS
 
@@ -44,4 +44,4 @@ b) közepes fokát állapította meg, és az alapellátás önkéntes igénybev�
 
 (7) Ha a gyermek bűnmegelőzési szempontú veszélyeztetettségének foka alacsony, a gyámhivatal dönt a védelembe vétel iránti eljárás és a megelőző pártfogás iránti eljárás megszüntetéséről. A gyámhivatal indokolt esetben ezzel egyidejűleg felhívja a gyermekjóléti szolgálatot az alapellátás keretében történő segítségnyújtásra.
 
-[^637]: A XII/A. Fejezetet (91/K–91/R. §) újonnan a 353/2014. (XII. 29.) Korm. rendelet 9. § iktatta be.
+[^643]: A XII/A. Fejezetet (91/K–91/R. §) újonnan a 353/2014. (XII. 29.) Korm. rendelet 9. § iktatta be.
