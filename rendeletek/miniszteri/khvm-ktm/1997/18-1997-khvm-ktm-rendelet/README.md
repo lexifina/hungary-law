@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-18-20-6
 | 2012-01-01 | 1997-18-20-6B.6 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2013-01-01 | 1997-18-20-6B.7 | 76/2012. (XII. 22.) NFM rendelet |
 | 2014-05-07 | 1997-18-20-6B.8 | 24/2014. (IV. 29.) NFM rendelet |
+| 2015-04-01 | 1997-18-20-6B.9 | 15/2015. (III. 31.) NFM rendelet |

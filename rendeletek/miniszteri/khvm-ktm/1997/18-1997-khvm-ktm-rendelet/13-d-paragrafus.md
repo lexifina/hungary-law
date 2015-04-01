@@ -1,4 +1,4 @@
-13/D. §[^31] (1) A tagok az üléseken tájékoztatást adnak a szervezetüket érintő – légiközlekedéssel kapcsolatos zaj- és egyéb környezetvédelmi – feladatok aktuális helyzetéről, különös tekintettel a folyamatban lévő hatósági eljárásokra, a zajgátló védőövezetekre és a repülőtéri, valamint az önkormányzati fejlesztési tervekre. A zajvédelmi bizottság a tájékoztatók, valamint a napirenden szereplő egyes speciális szakmai kérdések megtárgyalása során – a zajvédelmi bizottság által felkért szakértő véleményének előzetes kikérése mellett – összehangolt, egységes véleményt alakít ki.
+13/D. §[^33] (1) A tagok az üléseken tájékoztatást adnak a szervezetüket érintő – légiközlekedéssel kapcsolatos zaj- és egyéb környezetvédelmi – feladatok aktuális helyzetéről, különös tekintettel a folyamatban lévő hatósági eljárásokra, a zajgátló védőövezetekre és a repülőtéri, valamint az önkormányzati fejlesztési tervekre. A zajvédelmi bizottság a tájékoztatók, valamint a napirenden szereplő egyes speciális szakmai kérdések megtárgyalása során – a zajvédelmi bizottság által felkért szakértő véleményének előzetes kikérése mellett – összehangolt, egységes véleményt alakít ki.
 
 (2) A zajvédelmi bizottság a repülőtér zajszempontú üzemeltetésével kapcsolatos ajánlását, állásfoglalását, döntését egységesen, az ülésen jelen lévő tagok egyetértése alapján hozza, amely a delegáló szervezetek közös véleménye egy adott kérdésben. Ha a szavazásra feltett kérdésben nincs egységes álláspont, az eltérő véleményeket a jegyzőkönyvben rögzíteni kell.
 
@@ -6,4 +6,4 @@
 
 (4) Az elnök a tárgyévet követő év január 31-ig tájékoztatót készít a zajvédelmi bizottság éves munkájáról, amelyet – a zajvédelmi bizottság jóváhagyását követően – legkésőbb a tárgyévet követő március 31-ig megküld a miniszter részére.
 
-[^31]: A 13/D. §-t a 24/2014. (IV. 29.) NFM rendelet 2. §-a iktatta be.
+[^33]: A 13/D. §-t a 24/2014. (IV. 29.) NFM rendelet 2. §-a iktatta be.

@@ -1,6 +1,6 @@
 1. számú melléklet a 18/1997. (X. 11.) KHVM–KTM
 
-együttes rendelethez[^34]
+együttes rendelethez[^36]
 
 ## 1. számú függelék
 
@@ -68,4 +68,4 @@ továbbá:
 
 – a vonatkoztatási pont azonos az Lden-re meghatározottal.
 
-[^34]: Az 1. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 2. számú mellékletre változtatva.
+[^36]: Az 1. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 2. számú mellékletre változtatva.
