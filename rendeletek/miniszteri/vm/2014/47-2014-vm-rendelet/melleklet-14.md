@@ -130,7 +130,7 @@ A fakitermelési munkák során fészekrakásra alkalmas, nagy koronájú fákat
 
 6.3. Az erdőtervezés során alkalmazandó vágásérettségi szakaszok
 
-4K05763_1
+## 4K05763_1
 
 |  |  | A | B | C | D | E |
 
@@ -181,3 +181,19 @@ A fakitermelési munkák során fészekrakásra alkalmas, nagy koronájú fákat
 |  | 20. | Egyéb lágy lombosok | 25-60 | 25-70 | 25-70 | 25-70 |
 
 |  | 21. | Fenyvesek | 50-80 | 50-90 | 50-90 | 50-90 |
+
+6.4. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
+
+|  |  | A | B |
+
+|  | 1. | Véghasználat módja | hektár |
+
+|  | 2. | Tarvágással érintett terület | 2700 |
+
+|  | 3. | Fokozatos felújítóvágás és szálalóvágás tervezett redukált területe | 500 |
+
+|  | 4. | Összesen | 3200 |
+
+6.5. A véghasználatok és erdőfelújítások tervezési szempontjai
+
+6.5.1. A nagy, összefüggő, egykorú erdőtömbök újbóli kialakulásának elkerülése érdekében a véghasználatokat megfelelő térbeli és időbeli ütemezéssel kell megtervezni.

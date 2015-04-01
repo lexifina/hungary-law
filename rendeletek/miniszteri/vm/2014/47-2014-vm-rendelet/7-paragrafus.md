@@ -50,4 +50,6 @@ db) a (6) bekezdés szerint nyilvántartott fészek – ide nem értve a nem fog
 
 (7) Ha e rendelet szerint valamely erdőgazdálkodási tevékenységet a természetvédelmi célokkal összhangban kell elvégezni, az erdőgazdálkodó a tevékenység megkezdése előtt legalább 15 nappal megkeresi a védett természeti terület természetvédelmi kezeléséért felelős szervet, amely 15 napon belül írásban tájékoztatja az erdőgazdálkodót a tevékenység végzésének természetvédelmi feltételeiről.
 
-(8) A (7) bekezdés szerinti tájékoztatást a védett természeti terület természetvédelmi kezeléséért felelős szerv egyidejűleg megküldi az illetékes környezetvédelmi és természetvédelmi felügyelőségnek és erdészeti hatóságnak is.
+(8)[^2] A (7) bekezdés szerinti tájékoztatást a védett természeti terület természetvédelmi kezeléséért felelős szerv egyidejűleg megküldi az illetékes környezetvédelmi és természetvédelmi hatóságnak és erdészeti hatóságnak is.
+
+[^2]: A 7. § (8) bekezdése a 15/2015. (III. 31.) FM rendelet 35. §-a szerint módosított szöveg.
