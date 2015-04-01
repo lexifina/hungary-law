@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1987-6-20-0B
 | 2011-01-01 | 1987-6-20-0B.6 | 27/2010. (XII. 31.) NGM rendelet |
 | 2011-12-24 | 1987-6-20-0B.7 | 51/2011. (XII. 23.) NGM rendelet |
 | 2012-02-11 | 1987-6-20-0B.8 | 27/2010. (XII. 31.) NGM rendelet |
+| 2015-04-01 | 1987-6-20-0B.9 | 27/2010. (XII. 31.) NGM rendelet |
