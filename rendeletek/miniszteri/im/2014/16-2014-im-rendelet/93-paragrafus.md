@@ -6,7 +6,7 @@ a) a szabadságvesztés végrehajtási fokozatának megváltoztatására,
 
 b) az enyhébb végrehajtási szabályok alkalmazásának, illetve megszüntetésének az elrendelésére,
 
-c)[^6]
+c) a reintegrációs őrizet elrendelésére,
 
 d) a feltételes szabadságra bocsátásra,
 
@@ -41,5 +41,3 @@ q) az intézetelhagyással járó javaslatok elbírálásához
 (2) A bv. bíró részére készült értékelő véleménynek – ha az elítélt több ítéletet folyamatosan tölt – minden ítéletre vonatkozóan tartalmaznia kell a döntéshez szükséges adatokat. A fegyelmi és jutalmazási helyzetre vonatkozó adatok tekintetében a véleményt úgy kell elkészíteni, hogy azok az egyes ítéletekre vonatkozóan elkülönülve jelenjenek meg.
 
 (3) Kötelező kegyelmi eljárás esetén az értékelő véleményhez csatolni kell az elítélt általános egészségi és mentális állapotát bemutató bv. orvosi, szakorvosi és pszichológusi véleményeket.
-
-[^6]: A 93. § (1) bekezdés c) pontja a 206. § (2) bekezdése alapján 2015. április 1-jén lép hatályba.

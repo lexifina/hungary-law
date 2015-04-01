@@ -4,8 +4,10 @@
 
 186. § (1) Az előzetesen letartóztatottat zárkában kell elhelyezni.
 
-(2) A zárkában elhelyezhető létszámot úgy kell meghatározni, hogy személyenként lehetőleg tíz köbméter légtér és négy négyzetméter mozgástér jusson.
+(2)[^9] A zárkában elhelyezhető létszámot úgy kell meghatározni, hogy személyenként tíz köbméter légtér és négy négyzetméter mozgástér jusson.
 
 (3) Arra az időre, amikor az előzetesen letartóztatott nem tartózkodik a zárkában, az ajtókat zárva kell tartani.
 
 (4) A zárkaajtók nyitva vagy zárva tartásáról a bv. intézet parancsnoka a fogvatartás biztonsága és a rezsimszabályok figyelembevételével dönt.
+
+[^9]: A 186. § (2) bekezdése a 6/2015. (III. 30.) IM rendelet 12. § c) pontja szerint módosított szöveg.

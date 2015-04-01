@@ -26,10 +26,8 @@ i) az elítélt társadalmi kötődés programban való részvételére és ért
 
 j) a szabadulásra való felkészítés érdekében tett intézkedéseket,
 
-k)[^4]
+k) a reintegrációs őrizetre vonatkozó adatokat,
 
 l) a feltételes szabadságra vonatkozó adatokat.
 
 (4) Az egyéniesített fogvatartási programterv elkészítése során az elítéltet a bv. intézet támogatja a bűncselekmény elkövetéséhez vezető okok felismerésében, a bűncselekmény következményeinek és az okozott sérelmek tudatosításában, valamint a lehetséges helyreállítási-, jóvátételi cselekmények megtervezésében és kivitelezésében.
-
-[^4]: A 89. § (3) bekezdés k) pontja a 206. § (2) bekezdése alapján 2015. április 1-jén lép hatályba.
