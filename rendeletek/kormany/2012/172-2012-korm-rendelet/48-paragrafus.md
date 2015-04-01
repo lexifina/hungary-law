@@ -1,9 +1,9 @@
-## 47. §[^68]
+## 47. §[^71]
 
-48. § (1)[^69]
+48. § (1)[^72]
 
-(2)[^70]
+(2)[^73]
 
-[^68]: A 47. §-t a 48. § (2) bekezdése hatályon kívül helyezte.
-[^69]: A 48. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^70]: A 48. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 47. §-t a 48. § (2) bekezdése hatályon kívül helyezte.
+[^72]: A 48. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 48. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
