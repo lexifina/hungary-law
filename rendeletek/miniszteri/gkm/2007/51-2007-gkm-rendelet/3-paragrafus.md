@@ -1,4 +1,4 @@
-## 2. §[^1] A munkagépek gáz-üzemanyag ellátó berendezéseivel kapcsolatos első fokú hatósági jogköröket a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatóságai (a továbbiakban: területi hatóság) gyakorolják. A területi hatóság első fokú közigazgatási döntése ellen benyújtott fellebbezéseket másodfokon a Magyar Kereskedelmi Engedélyezési Hivatal bírálja el.
+## 2. §[^1] A munkagépek gáz-üzemanyag ellátó berendezéseivel kapcsolatos első fokú hatósági jogköröket a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: területi hatóság) gyakorolja. A területi hatóság első fokú közigazgatási döntése ellen benyújtott fellebbezéseket másodfokon a Magyar Kereskedelmi Engedélyezési Hivatal bírálja el.
 
 3. § (1) A gázüzemű munkagép gáz-üzemanyag ellátó berendezésének beszerelése, megbontásával járó javítása, karbantartása, a belső égésű motorral üzemelő munkagép gázüzeműre történő utólagos átalakítása (a továbbiakban együtt: szerelési tevékenység) a területi hatóság engedélye alapján végezhető. Az engedélyt a műhely üzemeltetőjének kell kérnie.
 
@@ -22,5 +22,5 @@ d) ha az ingatlan tulajdonosa és az üzemeltetője nem azonos, akkor a tulajdon
 
 (5) Az engedély nem mentesíti a munkáltatót a munkavédelemről szóló 1993. évi XCIII. törvény 21. §-ának (3) bekezdésében rögzített munkavédelmi szempontú előzetes vizsgálat kötelezettsége alól.
 
-[^1]: A 2. § a 27/2010. (XII. 31.) NGM rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § a 27/2010. (XII. 31.) NGM rendelet 60. § (1) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 43. §-a szerint módosított szöveg.
 [^2]: A 3. § (3) bekezdés a) pontja a 64/2013. (XII. 18.) NGM rendelet 9. §-ával megállapított szöveg.

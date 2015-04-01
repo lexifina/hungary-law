@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-0
 | 2007-06-16 | 2007-51-20-0L.1 | 51/2007. (V. 17.) GKM rendelet |
 | 2011-01-01 | 2007-51-20-0L.2 | 27/2010. (XII. 31.) NGM rendelet |
 | 2014-01-17 | 2007-51-20-0L.3 | 64/2013. (XII. 18.) NGM rendelet |
+| 2015-04-01 | 2007-51-20-0L.4 | 27/2010. (XII. 31.) NGM rendelet |
