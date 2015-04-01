@@ -34,46 +34,40 @@
 
 ## Karrier Híd Program résztvevője
 
-4. melléklet a 2/2012. (II. 7.) NGM rendelethez
+4. melléklet a 2/2012. (II. 7.) NGM rendelethez[^17]
 
-Hatósági bizonyítvány
+| Hatósági bizonyítvány |
 
-járulékkedvezmény igénybevételéhez
+| járulékkedvezmény igénybevételéhez a Karrier Híd Programban részt vett személy részére |
 
-a Karrier Híd Programban részt vett személy részére
+| Hatósági bizonyítvány száma: |
 
-Hatósági bizonyítvány száma:
+| családi és utónév: | ; |
 
-családi és utónév: ;
+| születési családi és utónév: | ; |
 
-születési családi és utónév: ;
+| születési hely, idő (év, hónap, nap): | ; |
 
-születési hely, idő (év, hónap, nap): ;
+| anyja neve: | ; |
 
-anyja neve: ;
+| lakóhely/tartózkodási hely/értesítési cím: | ; |
 
-lakóhely/tartózkodási hely/értesítési cím: ;
+| adóazonosító jel: | ; |
 
-adóazonosító jel: ;
+| A járulékkedvezmény igénybevételének érvényessége: |
 
-A járulékkedvezmény igénybevételének érvényessége:
+| .....................................................-tól (kiállítás dátuma) |
 
-.....................................................-tól (kiállítás dátuma max. 2012. október 31.)
+| .....................................................-ig (a kiállítás hónapját követő tizenkettedik hónap utolsó napja) |
 
-.....................................................-ig (a kiállítás hónapját követő tizenkettedik hónap utolsó napja)
+| A Karrier Híd Programban résztvevő személy foglalkoztatása esetén a költségvetési szervnek nem minősülő foglalkoztatónál munkaviszony keretében történő foglalkoztatás esetén a foglalkoztató jogosult az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 462. § (1) bekezdésben meghatározott adókedvezményre. Az adókedvezmény a hatósági bizonyítványon szereplő érvényességi időtartam alatt vehető igénybe. |
 
-A Karrier Híd Programban résztvevő személy foglalkoztatása esetén a költségvetési szervnek nem minősülő foglalkoztatónál munkaviszony keretében történő foglalkoztatás esetén a foglalkoztató jogosult a 2011. évi CLVI. törvény 462. § (1) bekezdésben meghatározott adókedvezményre. Az adókedvezmény a hatósági bizonyítványon szereplő érvényességi időtartam alatt vehető igénybe.
+| Ismételt kiadás esetén: |
 
-Ismételt kiadás esetén:
+| A ......................... napon kiadott ........................ számú hatósági bizonyítvány .............................................. naptól érvénytelen. |
 
-A ......................... napon kiadott ........................ számú hatósági bizonyítvány .............................................. naptól érvénytelen.
+| A kiállítás dátuma: ................................................. |
 
-A kiállítás dátuma: .................................................
+| .................................................................................... járási hivatal vezető /kiadmányozási jogkörrel rendelkező ügyintéző |
 
-........................................................................................
-
-kirendeltség- és szolgáltató központ-vezető
-
-/kirendeltség-vezető
-
-/kiadmányozási jogkörrel rendelkező ügyintéző
+[^17]: A 4. melléklet a 9/2015. (III. 31.) NGM rendelet 50. § (2) bekezdésével megállapított szöveg.
