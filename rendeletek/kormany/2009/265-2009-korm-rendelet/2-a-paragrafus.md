@@ -1,6 +1,6 @@
 ## Kockázatértékelés, megelőzési cselekvési terv és vészhelyzeti terv[^1]
 
-2/A. §[^2] (1) A Magyar Energia Hivatal (a továbbiakban: Hivatal) elkészítteti a 994/2010/EU európai parlamenti és tanácsi rendelet 6. cikk (9) bekezdése és 9. cikke szerinti kockázatértékelést és azt a 994/2010/EU európai parlamenti és tanácsi rendelet 9. cikk (4) bekezdése szerint felülvizsgálja.
+2/A. §[^2] (1)[^3] A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) elkészítteti a 994/2010/EU európai parlamenti és tanácsi rendelet 6. cikk (9) bekezdése és 9. cikke szerinti kockázatértékelést és azt a 994/2010/EU európai parlamenti és tanácsi rendelet 9. cikk (4) bekezdése szerint felülvizsgálja.
 
 (2) Az (1) bekezdés szerinti kockázatértékelést és annak felülvizsgálatát a Hivatal megküldi az Európai Bizottság részére.
 
@@ -30,3 +30,4 @@ b) indokkal alátámasztott egyet nem értéséről tájékoztatja a minisztert.
 
 [^1]: A 2/A. §-t megelőző alcímet a 293/2011. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
 [^2]: A 2/A. §-t a 293/2011. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
+[^3]: A 2/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 146. § a) pontja szerint módosított szöveg.
