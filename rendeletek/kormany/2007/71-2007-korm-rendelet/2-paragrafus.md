@@ -1,4 +1,4 @@
-## 1. §[^1] A fás szárú energetikai ültetvények telepítésével és megszüntetésével összefüggő hatósági feladatokat a megyei kormányhivatal erdészeti Igazgatósága (a továbbiakban: Erdészeti Igazgatóság) látja el.
+## 1. §[^1] A fás szárú energetikai ültetvények telepítésével és megszüntetésével összefüggő hatósági feladatokat az erdészeti feladatkörében eljáró megyei kormányhivatal (a továbbiakban: Erdészeti Hatóság) látja el.
 
 2. § (1) Fás szárú energetikai ültetvény a külön jogszabályban meghatározott fajú, illetve fajtájú fás szárú növényekkel létesített, biológiai energiahordozó termesztését szolgáló növényi kultúra, amelynek területe az 1500 m2-t meghaladja.
 
@@ -10,5 +10,5 @@ b) hengeres: minden olyan fás szárú energetikai ültetvény, amely nem sarjaz
 
 (3)[^2] E rendelet alkalmazásában gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet.
 
-[^1]: Az 1. § a 351/2010. (XII. 30.) Korm. rendelet 177. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § a 351/2010. (XII. 30.) Korm. rendelet 177. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 94. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (3) bekezdését az 57/2014. (III. 4.) Korm. rendelet 7. §-a iktatta be.

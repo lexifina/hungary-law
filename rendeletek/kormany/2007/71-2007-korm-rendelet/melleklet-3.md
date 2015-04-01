@@ -38,7 +38,7 @@
 
 ## i) a telepítés befejezésével vagy megszüntetésével érintett ültetvény nagysága hektárban, ha az ültetvény nem az egész ingatlant érinti.
 
-## 4.[^20] Megszüntetni kívánt ültetvény esetén az Erdészeti Igazgatóság által kiadott telepítési engedély száma.
+## 4.[^23] Megszüntetni kívánt ültetvény esetén az Erdészeti Hatóság által kiadott telepítési engedély száma.
 
 ## 5. A telepítés befejezésével vagy megszüntetésével érintett ingatlan tulajdonosának azonosító adatai:
 
@@ -54,7 +54,7 @@
 
 ## 9. A bejelentő aláírása.
 
-3. számú melléklet a 71/2007. (IV. 14.) Korm. rendelethez[^21]
+3. számú melléklet a 71/2007. (IV. 14.) Korm. rendelethez[^24]
 
-[^20]: A 2. számú melléklet 4. pontja a 351/2010. (XII. 30.) Korm. rendelet 177. § (7) bekezdésével megállapított szöveg.
-[^21]: A 3. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 533. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 2. számú melléklet 4. pontja a 351/2010. (XII. 30.) Korm. rendelet 177. § (7) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 94. § c) pontja szerint módosított szöveg.
+[^24]: A 3. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 533. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
