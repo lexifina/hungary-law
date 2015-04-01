@@ -1,4 +1,4 @@
-6. melléklet a 78/2003. (XI. 27.) GKM rendelethez[^29]
+6. melléklet a 78/2003. (XI. 27.) GKM rendelethez[^30]
 
 ## A nyilvántartási adatlap tartalmi követelményei
 
@@ -20,4 +20,4 @@
 
 3.6. a bontás időpontja (ha volt).
 
-[^29]: A 6. mellékletet a 7/2012. (IV. 18.) NGM rendelet 7. § (3) bekezdése iktatta be, szövege a 64/2013. (XII. 18.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^30]: A 6. mellékletet a 7/2012. (IV. 18.) NGM rendelet 7. § (3) bekezdése iktatta be, szövege a 64/2013. (XII. 18.) NGM rendelet 7. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-5. melléklet a 78/2003. (XI. 27.) GKM rendelethez[^28]
+5. melléklet a 78/2003. (XI. 27.) GKM rendelethez[^29]
 
 ## Egyedi megfelelőségi igazolás tartalmi követelményei
 
@@ -14,4 +14,4 @@
 
 6. Az egyedi megfelelőségi igazolás hitelességét igazoló aláírások.
 
-[^28]: Az 5. mellékletet a 7/2012. (IV. 18.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege a 64/2013. (XII. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 5. mellékletet a 7/2012. (IV. 18.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege a 64/2013. (XII. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.

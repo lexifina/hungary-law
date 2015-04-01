@@ -1,4 +1,4 @@
-4. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^27]
+4. számú melléklet a 78/2003. (XI. 27.) GKM rendelethez[^28]
 
 ## Az időszakos ellenőrzési jegyzőkönyv tartalmi követelményei
 
@@ -20,4 +20,4 @@
 
 9. Az értékelés hitelességének aláírásokkal történő igazolása.
 
-[^27]: A 4. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^28]: A 4. melléklet a 7/2012. (IV. 18.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
