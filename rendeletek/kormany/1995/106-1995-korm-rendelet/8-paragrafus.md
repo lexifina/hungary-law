@@ -1,8 +1,8 @@
-## 7. §[^7] Az állapotvizsgálat eredményének elbírálására irányuló eljárás ügyintézési határideje 45 nap. A felügyelőség a felszíni vizekre és a felszín alatti vizekre gyakorolt környezeti hatások megállapítása érdekében az eljárásba a területi vízügyi hatóságot szakhatóságként bevonja.
+## 7. §[^11] Az állapotvizsgálat eredményének elbírálására irányuló eljárás ügyintézési határideje 45 nap. A környezetvédelmi hatóság a felszíni vizekre és a felszín alatti vizekre gyakorolt környezeti hatások megállapítása érdekében az eljárásba a területi vízügyi hatóságot szakhatóságként bevonja.
 
 ## A környezeti károsodások, környezeti terhek rendezésének módja és követelményei
 
-8. § (1)[^8] A nyilatkozatot, illetőleg a környezeti állapotvizsgálatot elbíráló hatósági határozatban a felügyelőség az adós gazdálkodó szervezetet a bizonyított környezeti károsodások, terhek rendezésére külön jogszabályok figyelembevételével kötelezi. Talaj és felszín alatti vizek veszélyeztetése, szennyezettsége esetében a felügyelőségnek a felszín alatti vizek védelméről szóló külön jogszabályban[^9] foglaltak szerint intézkednie kell. A kötelezés végrehajtásáról a felszámoló gondoskodik [Cstv. 48. § (3) bekezdés].
+8. § (1)[^12] A nyilatkozatot, illetőleg a környezeti állapotvizsgálatot elbíráló hatósági határozatban a környezetvédelmi hatóság az adós gazdálkodó szervezetet a bizonyított környezeti károsodások, terhek rendezésére külön jogszabályok figyelembevételével kötelezi. Talaj és felszín alatti vizek veszélyeztetése, szennyezettsége esetében a környezetvédelmi hatóságnak a felszín alatti vizek védelméről szóló külön jogszabályban[^13] foglaltak szerint intézkednie kell. A kötelezés végrehajtásáról a felszámoló gondoskodik [Cstv. 48. § (3) bekezdés].
 
 (2) A gazdálkodó szervezetnek 2 éves határidőn belül, de legfeljebb a felszámolási eljárás befejezéséig kell azon kötelezettségeket teljesíteni, amelyek a környezeti károk súlyosbodásának vagy a környezetszennyezettség újabb környezeti elemre való átterjedésének megakadályozását célozzák, továbbá, amelyek a más tulajdonában álló, bértárolásra átvett hulladékok, veszélyes anyagok kezelését vagy visszaszolgáltatását célozzák, valamint, amelyek teljesítését a felszámolás alatt álló gazdálkodó szervezet jogutód nélküli megszűnése lényegesen megnehezítené.
 
@@ -16,11 +16,12 @@ b) szerződéses formában, a vagyontárgyak olyan értékesítésével gondosko
 
 c) vagyontárgyakhoz fűződő környezeti teher esetén — szerződéses formában — úgy gondoskodik, hogy a zárómérleg vagyonfelosztási javaslatához kapcsolódva arányos költségfedezet biztosítása mellett a környezeti terhet az a hitelező, vagy a Cstv. 61. § (2)—(5) bekezdésekben meghatározott személy (szervezet) vállalja át, amelyik a szóban forgó vagyontárgy tulajdonosává lesz a felszámolás befejezésével.
 
-(5) A szerződés pénzügyi feltételeinek — elsősorban a kifizetések ütemezése, valamint pénzügyi biztosíték alkalmazása által — biztosítania kell, hogy a környezeti teherrel arányos költségfedezet kizárólag a hatósági határozatban előírt teendők végrehajtását szolgálja. A szerződő fél vállalja a hatósági határozatban előírt teendők végrehajtását. E teendők végrehajtására a felszámolóval szerződő felet a környezetvédelmi felügyelőség hatósági határozatban kötelezheti.
+(5)[^14] A szerződés pénzügyi feltételeinek — elsősorban a kifizetések ütemezése, valamint pénzügyi biztosíték alkalmazása által — biztosítania kell, hogy a környezeti teherrel arányos költségfedezet kizárólag a hatósági határozatban előírt teendők végrehajtását szolgálja. A szerződő fél vállalja a hatósági határozatban előírt teendők végrehajtását. E teendők végrehajtására a felszámolóval szerződő felet a környezetvédelmi hatóság hatósági határozatban kötelezheti.
 
-(6)[^10] A szerződést annak hatálybalépése előtt a felszámoló véleményezésre megküldi a felügyelőségnek, valamint – ha a környezeti károsodások, terhek rendezésére kötelezés a felszíni vizeket, a felszín alatti vizeket érinti – a területi vízügyi hatóságnak is. A véleményezés határideje 30 nap. Amennyiben a felügyelőség, illetve a területi vízügyi hatóság a kézhezvételtől számított 30 napon belül nem közli véleményét, úgy kell tekinteni, hogy nem kíván véleményt nyilvánítani.
+(6)[^15] A szerződést annak hatálybalépése előtt a felszámoló véleményezésre megküldi a környezetvédelmi hatóságnak, valamint – ha a környezeti károsodások, terhek rendezésére kötelezés a felszíni vizeket, a felszín alatti vizeket érinti – a területi vízügyi hatóságnak is. A véleményezés határideje 30 nap. Amennyiben a környezetvédelmi hatóság, illetve a területi vízügyi hatóság a kézhezvételtől számított 30 napon belül nem közli véleményét, úgy kell tekinteni, hogy nem kíván véleményt nyilvánítani.
 
-[^7]: A 7. § a 221/2014. (IX. 4.) Korm. rendelet 159. §-ával megállapított szöveg.
-[^8]: A 8. § (1) bekezdése a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (1) bekezdésével megállapított szöveg.
-[^9]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
-[^10]: A 8. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 162. § a) pontja szerint módosított szöveg.
+[^11]: A 7. § a 221/2014. (IX. 4.) Korm. rendelet 159. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^12]: A 8. § (1) bekezdése a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 16. § d) és e) pontja szerint módosított szöveg.
+[^13]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
+[^14]: A 8. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^15]: A 8. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 162. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 16. § d) és e) pontja szerint módosított szöveg.
