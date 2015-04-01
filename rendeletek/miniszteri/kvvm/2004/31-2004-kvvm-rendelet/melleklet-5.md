@@ -348,7 +348,7 @@
 
 ## Cianid
 
-5. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^20]
+5. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^19]
 
 ## Felszíni vizek tipológiája
 
@@ -410,4 +410,4 @@ I. Vízfolyások tipológiája
 
 II. Állóvizek tipológiája
 
-[^20]: Az 5. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (4) bekezdése iktatta be.
+[^19]: Az 5. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (4) bekezdése iktatta be.

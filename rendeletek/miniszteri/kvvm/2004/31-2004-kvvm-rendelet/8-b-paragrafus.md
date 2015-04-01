@@ -1,6 +1,8 @@
-8/B. §[^13] (1) Az operatív monitorozó program célja a víztestek állapotára vonatkozó előzetes kockázatbecslés igazolása, az állapot javítására tett intézkedések hatásainak nyomon követése, továbbá a külön jogszabály szerinti védett területen lévő felszíni víztest állapotának ellenőrzése akkor, ha az előzetes állapotértékelés alapján megállapítható a környezeti célkitűzés teljesíthetőségének bizonytalan volta.
+8/B. §[^11] (1) Az operatív monitorozó program célja a víztestek állapotára vonatkozó előzetes kockázatbecslés igazolása, az állapot javítására tett intézkedések hatásainak nyomon követése, továbbá a külön jogszabály szerinti védett területen lévő felszíni víztest állapotának ellenőrzése akkor, ha az előzetes állapotértékelés alapján megállapítható a környezeti célkitűzés teljesíthetőségének bizonytalan volta.
 
 (2) Az operatív monitorozást olyan gyakorisággal kell végezni, hogy elegendő adatot nyújtson a megbízható értékeléshez a 4. számú mellékletben meghatározottak alapján. Az operatív monitorozó program a vízgyűjtő-gazdálkodási terv végrehajtásának időszaka alatt módosítható, illetőleg a megfigyelések gyakorisága csökkenthető azon víztestek esetében, ahol megállapítható, hogy a terhelések hatása nem jelentős, vagy nem kockáztatja a célkitűzések elérését, vagy az adott terhelést időközben megszüntették.
+
+(2a)[^12] Az adott vízgyűjtő-gazdálkodási cikluson belül érvényes operatív monitoring program részleteit a vízgyűjtő-gazdálkodási terv határozza meg.
 
 (3) Az operatív monitoring rendszer megfigyelési pontjainak helyét és mennyiségét úgy kell megválasztani, hogy
 
@@ -34,4 +36,5 @@ c) azokat a hidrológiai, morfológiai, fizikai-kémiai minőségi elemeket, mel
 
 (11) Az erősen módosított és mesterséges felszíni víztestekre alkalmazva a kiváló ökológiai állapot referencia értékeket, az 1. számú mellékletben felsorolt minőségi elemekre meghatározott referencia értékeket a maximális ökológiai potenciál referencia értékeiként kell értelmezni, melyet a legjobban hasonlító természetes tó vagy folyótípus minőségi elemeinek figyelembevételével kell meghatározni. A maximális ökológiai potenciál referencia értékeit minden 6. évben (vízgyűjtő-gazdálkodási tervben) felül kell vizsgálni.
 
-[^13]: A 8/B. §-t a 34/2008. (XII. 31.) KvVM rendelet 3. §-a iktatta be.
+[^11]: A 8/B. §-t a 34/2008. (XII. 31.) KvVM rendelet 3. §-a iktatta be.
+[^12]: A 8/B. § (2a) bekezdését a 11/2015. (III. 31.) BM rendelet 4. § (2) bekezdése iktatta be.
