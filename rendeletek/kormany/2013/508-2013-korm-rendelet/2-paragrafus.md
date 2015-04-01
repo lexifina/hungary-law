@@ -4,4 +4,6 @@ a) a döntést 30 napon belül meg kell hozni, a szakhatóságok tekintetében a
 
 b) hozott döntés fellebbezésre tekintet nélkül végrehajtható,
 
-c) a döntések kézbesítése – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton történik. A döntés kézbesítésének napja a hirdetmény kifüggesztését követő ötödik nap.
+c)[^1]
+
+[^1]: A 2. § c) pontját a 72/2015. (III. 30.) Korm. rendelet 68. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 114. §-át.
