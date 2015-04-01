@@ -1,6 +1,6 @@
 ## A védett műhelyek nyilvántartása
 
-5. § (1) A Hivatal a kiemelt tanúsítványban védett foglalkoztatóvá minősített, a védett szervezeti szerződést kötött, továbbá a szociális és gyámhivatal által kiadott szociális foglalkoztatási engedéllyel rendelkező foglalkoztatót kérelmére védett műhelyként nyilvántartásba veszi, feltéve, ha a foglalkoztató által munkaviszony keretében alkalmazott munkavállalók átlagos statisztikai állományi létszámán belül a megváltozott munkaképességű munkavállalók aránya a kérelem benyújtását megelőző hónapban meghaladja az ötven százalékot.
+5. § (1)[^12] A Hivatal a kiemelt tanúsítványban védett foglalkoztatóvá minősített, a védett szervezeti szerződést kötött, továbbá a fővárosi és megyei kormányhivatal által kiadott szociális foglalkoztatási engedéllyel rendelkező foglalkoztatót kérelmére védett műhelyként nyilvántartásba veszi, feltéve, ha a foglalkoztató által munkaviszony keretében alkalmazott munkavállalók átlagos statisztikai állományi létszámán belül a megváltozott munkaképességű munkavállalók aránya a kérelem benyújtását megelőző hónapban meghaladja az ötven százalékot.
 
 (2) A kérelemben meg kell jelölni a foglalkoztató
 
@@ -38,9 +38,10 @@ d) a megváltozott munkaképességű munkavállalók létszámaránya hat egymá
 
 (7) A védett műhelyként nyilvántartásba vett foglalkoztatókat a Hivatal ellenőrzi. Az ellenőrzés az (1) bekezdésben megjelölt feltételek, valamint az (5) bekezdésben meghatározott kötelezettségek teljesítésének vizsgálatára irányul.
 
-(8)[^11] A Hivatal a helyszíni ellenőrzés lefolytatására szakértőt rendelhet ki. Szakértőként az országos szakértői nyilvántartásba felvett foglalkozási rehabilitációs szakértő rendelhető ki.
+(8)[^13] A Hivatal a helyszíni ellenőrzés lefolytatására szakértőt rendelhet ki. Szakértőként az országos szakértői nyilvántartásba felvett foglalkozási rehabilitációs szakértő rendelhető ki.
 
-(9)[^12] A nyilvántartásba vételre, a nyilvántartásból való törlésre, továbbá az ellenőrzésre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény, valamint az illetékekről szóló 1990. évi XCIII. törvény szabályait kell alkalmazni. A Hivatal döntése ellen benyújtott fellebbezést a szociál- és nyugdíjpolitikáért felelős miniszter bírálja el.
+(9)[^14] A nyilvántartásba vételre, a nyilvántartásból való törlésre, továbbá az ellenőrzésre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény, valamint az illetékekről szóló 1990. évi XCIII. törvény szabályait kell alkalmazni. A Hivatal döntése ellen benyújtott fellebbezést a szociál- és nyugdíjpolitikáért felelős miniszter bírálja el.
 
-[^11]: Az 5. § (8) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^12]: Az 5. § (9) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 354. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 87. §-a szerint módosított szöveg.
+[^13]: Az 5. § (8) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^14]: Az 5. § (9) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 354. § b) pontja szerint módosított szöveg.

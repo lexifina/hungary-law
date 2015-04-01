@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerint fenntartott közbeszerzési eljárásban kizárólag az 1. § szerinti védett műhely lehet ajánlattevő, illetőleg részvételre jelentkező.
 
-(3)[^4] A védett műhely a közbeszerzési eljárásban való részvételi jogosultságát az 5. § (4) bekezdése szerinti igazolással, külföldi letelepedésű védett műhely a nemzeti jogának megfelelő okirattal igazolhatja. A közbeszerzési eljárás során az igazolás benyújtására a Kbt. 20. §-ának (3) bekezdése szerinti rendelkezések megfelelően alkalmazandók.
+(3)[^5] A védett műhely a közbeszerzési eljárásban való részvételi jogosultságát az 5. § (4) bekezdése szerinti igazolással, külföldi letelepedésű védett műhely a nemzeti jogának megfelelő okirattal igazolhatja. A közbeszerzési eljárás során az igazolás benyújtására a Kbt. 20. §-ának (3) bekezdése szerinti rendelkezések megfelelően alkalmazandók.
 
-[^4]: A 2. § (3) bekezdése e rendelet 7. § (3) bekezdése alapján 2007. június 15. napján lép hatályba.
+[^5]: A 2. § (3) bekezdése e rendelet 7. § (3) bekezdése alapján 2007. június 15. napján lép hatályba.

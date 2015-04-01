@@ -4,13 +4,13 @@
 
 7. § (1) Ez a rendelet – a (2) bekezdésben foglaltak figyelembevételével és a (3) bekezdésben foglalt kivétellel – 2007. január 1. napján lép hatályba.
 
-(2)[^13]
+(2)[^15]
 
 (3) A rendelet 2. §-ának (3) bekezdése 2007. június 15. napján lép hatályba.
 
 (4) A 2007. június 15-ét megelőzően indult közbeszerzési eljárásban az ajánlatkérő köteles elfogadni a védett műhely nyilatkozatát a részvételi jogosultsági feltételek fennállásáról.
 
-(5)[^14]
+(5)[^16]
 
-[^13]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 210. pontja hatályon kívül helyezte.
-[^14]: A 7. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 210. pontja hatályon kívül helyezte.
+[^15]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 210. pontja hatályon kívül helyezte.
+[^16]: A 7. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 210. pontja hatályon kívül helyezte.

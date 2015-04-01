@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-302-20-
 | 2009-04-11 | 2006-302-20-22.3 | 302/2006. (XII. 23.) Korm. rendelet |
 | 2011-01-01 | 2006-302-20-22.4 | 332/2010. (XII. 27.) Korm. rendelet |
 | 2014-09-05 | 2006-302-20-22.5 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-04-01 | 2006-302-20-22.6 | 379/2016. (XII. 2.) Korm. rendelet |
