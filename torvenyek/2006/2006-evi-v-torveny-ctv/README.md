@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2006-5-00-00.45 |
 | 2014-07-01 | 2013. évi CCLII. törvény | 2006-5-00-00.46 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2006-5-00-00.47 |
+| 2015-04-01 | 2015. évi VI. törvény | 2006-5-00-00.48 |

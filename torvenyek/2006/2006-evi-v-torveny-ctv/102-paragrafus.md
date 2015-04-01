@@ -18,7 +18,7 @@ c)
 
 d) a területileg illetékes állami munkaerő-piaci szervezetet,
 
-e) az illetékes környezetvédelmi felügyelőséget arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve terhek rendezéséhez szükséges kiadás származhat,
+e) a környezetvédelmi és természetvédelmi hatóságot arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, melyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve terhek rendezéséhez szükséges kiadás származhat,
 
 f) a cég pénzforgalmi számláit vezető valamennyi pénzforgalmi szolgáltatót,
 
