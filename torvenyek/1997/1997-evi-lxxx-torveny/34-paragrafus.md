@@ -48,4 +48,4 @@ b) 18 évesnél fiatalabb gyermek esetén a (4) bekezdés szerinti minimálbér 
 
 (14) A köztársasági elnök saját jogú nyugdíjasnak nem minősülő házastársa biztosítottnak minősül arra az időre is, amelyre a fennálló biztosítással járó jogviszonyában a biztosítása szünetel, vagy nem rendelkezik az 5. § szerinti biztosítással járó jogviszonnyal.
 
-(15) A járulékfizetés alapja a (14) bekezdés szerinti esetben a biztosítás szünetelésének kezdetét vagy a biztosítási jogviszony megszűnését megelőző hónapban elért járulékalapot képező jövedelem, ilyen jövedelem hiányában a minimálbér kétszerese. A járulékokat a Köztársasági Elnöki Hivatal fizeti meg és vallja be, továbbá teljesíti a biztosítotti bejelentést.
+(15) A járulékfizetés alapja a (14) bekezdés szerinti esetben a biztosítás szünetelésének kezdetét vagy a biztosítási jogviszony megszűnését megelőző hónapban elért járulékalapot képező jövedelem, ilyen jövedelem hiányában a minimálbér kétszerese.

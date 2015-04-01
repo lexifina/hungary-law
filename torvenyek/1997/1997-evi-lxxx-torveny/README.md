@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2014-05-06 | 2012. évi XXXVI. törvény | 1997-80-00-00.72 |
 | 2014-12-20 | 2014. évi LXXV. törvény | 1997-80-00-00.73 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 1997-80-00-00.74 |
+| 2015-04-01 | 2015. évi VIII. törvény | 1997-80-00-00.75 |
