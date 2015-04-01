@@ -1,0 +1,1 @@
+## 3. § A Kormány e rendelettel felhatalmazást ad a Turisztikai Világszervezet Közgyűlése által a harmadik ülésén Torremolinosban 1979. szeptemberében a 61(III) számú határozatával az Alapszabály mellékletét képező Pénzügyi Szabályzathoz elfogadott 1. módosítás (a továbbiakban: 1. módosítás) szövege kötelező hatályának elismerésére.

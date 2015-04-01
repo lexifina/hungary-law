@@ -1,0 +1,1 @@
+## 27. § A Kormány e rendelettel felhatalmazást ad a Turisztikai Világszervezet Közgyűlése által a tizenhetedik ülésén Cartagena de Indiasban 2007. novemberben az Alapszabályhoz az 521(XVII) számú határozatával elfogadott módosítás (a továbbiakban: 9. módosítás) szövege kötelező hatályának elismerésére.

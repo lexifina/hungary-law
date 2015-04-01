@@ -1,0 +1,1 @@
+## 9. § A Kormány e rendelettel felhatalmazást ad a Turisztikai Világszervezet Közgyűlése által a negyedik ülésén Rómában 1981. szeptemberében a 93(IV) számú határozatával elfogadott módosítás (a továbbiakban: 3. módosítás) szövege kötelező hatályának elismerésére.

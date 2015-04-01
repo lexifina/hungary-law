@@ -1,0 +1,1 @@
+## 6. § A Kormány e rendelettel felhatalmazást ad a Turisztikai Világszervezet Közgyűlése által a negyedik ülésén Rómában 1981. szeptemberében a 92(IV) számú határozatával az Alapszabály mellékletét képező Pénzügyi Szabályzathoz elfogadott módosítás (a továbbiakban: 2. módosítás) szövege kötelező hatályának elismerésére.

@@ -1,0 +1,1 @@
+## 15. § A Kormány e rendelettel felhatalmazást ad a Turisztikai Világszervezet Közgyűlése által a hetedik ülésén Madridban 1987. szeptember-októberében az Alapszabályhoz a 208(VII) számú határozatával elfogadott módosítás (a továbbiakban: 5. módosítás) szövege kötelező hatályának elismerésére.

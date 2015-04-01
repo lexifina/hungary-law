@@ -1,0 +1,1 @@
+## 24. § A Kormány e rendelettel felhatalmazást ad a Turisztikai Világszervezet Közgyűlése által a tizenhatodik ülésén Dakarban 2005. november–decemberében az Alapszabályhoz az 512(XVI) számú határozatával elfogadott módosítás (a továbbiakban: 8. módosítás) szövege kötelező hatályának elismerésére.

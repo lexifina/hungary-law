@@ -1,0 +1,1 @@
+## 18. § A Kormány e rendelettel felhatalmazást ad a Turisztkai Világszervezet Közgyűlése által a tizennegyedik ülésén Szöulban és Oszakában 2001. szeptember 24–29-én az Alapszabály mellékletét képező Pénzügyi Szabályzathoz a 422(XIV) számú határozatával elfogadott módosítás (a továbbiakban: 6. módosítás) szövege kötelező hatályának elismerésére.

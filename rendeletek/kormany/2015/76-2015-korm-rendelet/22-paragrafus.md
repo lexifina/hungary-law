@@ -1,0 +1,1 @@
+## 21. § A Kormány e rendelettel felhatalmazást ad a Turisztikai Világszervezet Közgyűlése által a tizenhatodik ülésén Dakarban 2005. november–decemberében az Alapszabályhoz és annak mellékletét képező Pénzügyi Szabályzathoz az 511(XVI) számú közgyűlési határozatával elfogadott módosítás (a továbbiakban: 7. módosítás) szövege kötelező hatályának elismerésére.

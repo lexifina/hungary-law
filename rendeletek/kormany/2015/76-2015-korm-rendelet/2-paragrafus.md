@@ -1,0 +1,1 @@
+## 1. § A Kormány a Turisztikai Világszervezet Alapszabályának a Turisztikai Világszervezet Közgyűlése által az Alapszabály 38. cikkéhez a 61(III) számú határozatával elfogadott módosítással egységes szerkezetbe foglalt szövegét (a továbbiakban: Alapszabály) e rendelettel kihirdeti.
