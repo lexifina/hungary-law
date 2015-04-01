@@ -1,4 +1,4 @@
-32. § (1) A munkálatok megkezdését – a karbantartás jellegű tevékenységek kivételével – a bányakapitányságra a munkálatok megkezdését megelőzően 8 nappal be kell jelenteni.
+32. § (1)[^2] A munkálatok megkezdését – a karbantartás jellegű tevékenységek kivételével – a bányafelügyeletnek a munkálatok megkezdését megelőzően 8 nappal be kell jelenteni.
 
 (2) Az építési engedélyt, az engedélyezett geo-műszaki tervet, kútmunkálati tervet és a kiviteli tervet a fúrás helyszínén kell tartani.
 
@@ -15,3 +15,5 @@ b) a berendezések villamos készülékeit és a védőhálózatot villamos szak
 c) a nyomástartó edények felülvizsgálatát el kell végezni.
 
 (6) Kútmunkálatok megkezdése előtt a termelőcsőben, a csőközben, valamint a kútfejre szerelt vezetékekben uralkodó nyomást felügyeleti személynek kell ellenőrizni. A kútfejszerelvényt megbontani csak a termelő- és béléscső-terek nyomásmentesítése után, vagy a kút elfojtását követően szabad.
+
+[^2]: A 32. § (1) bekezdése a 15/2015. (III. 31.) NFM rendelet 18. § a) pontja szerint módosított szöveg.

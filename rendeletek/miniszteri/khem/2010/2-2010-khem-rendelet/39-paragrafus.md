@@ -28,8 +28,10 @@ i) a művelési folyamat megfigyeléséhez szükséges méréseket és vizsgála
 
 j) a kihozatal tervezett alakulását.
 
-(3) A művelési tervet és a próbatermeltetési tervet (módosítását) tájékoztatásul meg kell küldeni a bányakapitányságnak.
+(3)[^3]
 
 (4) A telep termelés közbeni viselkedését, a rétegviszonyok (állapot-jellemzők) alakulását a művelési tervben előírt gyakorisággal végzett mérésekkel, vizsgálatokkal meg kell határozni. A tervezett és mért adatok eltérése esetén az észlelt eltérésekre figyelemmel a művelési tervet módosítani kell.
 
 (5) A próbatermeltetési tervben kell meghatározni a művelési terv kidolgozásához szükséges adatok és összefüggések megismerése céljából történő mérések és vizsgálatok körét, gyakoriságát.
+
+[^3]: A 39. § (3) bekezdését a 15/2015. (III. 31.) NFM rendelet 19. §-a hatályon kívül helyezte.

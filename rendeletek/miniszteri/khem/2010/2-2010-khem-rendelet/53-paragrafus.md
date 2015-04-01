@@ -2,7 +2,7 @@
 
 (2) Szilárdsági nyomáspróbához indokolt esetben más folyadék is felhasználható (gázolaj, fagyálló folyadék, párlat stb.)
 
-(3) Szilárdsági nyomáspróbát levegővel vagy légnemű közeggel tartani csak előzetes bányahatósági engedély alapján szabad.
+(3)[^4] Szilárdsági nyomáspróbát levegővel vagy légnemű közeggel tartani csak előzetes bányafelügyeleti engedély alapján szabad.
 
 (4) A szilárdsági nyomáspróba időtartama és értéke a következő:
 
@@ -19,3 +19,5 @@ b) a légtelenített rendszert az engedélyezési nyomás 1,1-szereséig a Nyom�
 c) az engedélyezési nyomás 1,1-szeresén végzett 30 perces pihentetés után az engedélyezési nyomás 1,25-szörösére a nyomást egy lépcsőben kell felemelni, amelynek elérése egyben a nyomáspróba kezdetét jelenti.
 
 (6) A nyomáspróba akkor eredményes, ha annak során a hegesztési varratokon, oldható kötéseken és a szerkezet felületén rendellenesség nem következik be (csepegés, szivárgás, a szerkezeti anyag deformálódása, stb.).
+
+[^4]: Az 53. § (3) bekezdése a 15/2015. (III. 31.) NFM rendelet 18. § b) pontja szerint módosított szöveg.
