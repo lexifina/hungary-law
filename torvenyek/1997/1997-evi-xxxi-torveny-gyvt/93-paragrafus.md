@@ -32,7 +32,7 @@ b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott kés
 
 (7) Nincs helye az utógondozói ellátás ismételt elrendelésének, ha az utógondozói ellátás megszüntetésére a (10) bekezdés b)–f) pontjában foglaltak miatt került sor és a megszüntető határozat jogerőre emelkedésétől számítva egy év még nem telt el.
 
-(8) Az (1) bekezdés a) és c) pontjában meghatározott ok alapján elrendelt utógondozói ellátásban részesülő munkaképes fiatal felnőtt köteles a munkaügyi központtal együttműködni.
+(8) Az (1) bekezdés a) és c) pontjában meghatározott ok alapján elrendelt utógondozói ellátásban részesülő munkaképes fiatal felnőtt köteles az állami foglalkoztatási szervvel együttműködni.
 
 (9) Megszűnik az utógondozói ellátás, ha a fiatal felnőtt
 

@@ -6,6 +6,6 @@
 
 (3)
 
-(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, valamint a rendszeres gyermekvédelmi kedvezményre jogosult személyről és gondozó családjáról.
+(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, a gyermektartásdíj megelőlegezésről és az otthonteremtési támogatásról (a továbbiakban együtt: pénzbeli és természetbeni ellátás), valamint a pénzbeli és természetbeni ellátásra jogosult személyről és – az otthonteremtési támogatás kivételével – a pénzbeli és természetbeni ellátásra jogosult személy gondozó családjáról.
 
 (4) A nyilvántartás eszköze lehet minden olyan adattároló eszköz vagy módszer, amely biztosítja a 134. § (3) bekezdése szerinti védelmet.

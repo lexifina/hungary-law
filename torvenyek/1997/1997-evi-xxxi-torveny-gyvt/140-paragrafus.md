@@ -1,6 +1,6 @@
 140. § (1) A gyámhatóság nyilvántartást vezet
 
-a) az általa megállapított és folyósított pénzbeli ellátásokról,
+a) az általa megállapított és folyósított pénzbeli és természetbeni ellátásokról,
 
 b) az ideiglenes hatállyal elhelyezett, valamint a nevelésbe vett gyermekekről, a gyámság és gondnokság alatt állókról a 139. § (1) bekezdésében meghatározott adattartalommal,
 

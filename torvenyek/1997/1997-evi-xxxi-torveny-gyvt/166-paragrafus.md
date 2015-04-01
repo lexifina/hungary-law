@@ -15,7 +15,3 @@ c) az örökbefogadás utánkövetésére vonatkozó, 135. § (5) bekezdés c) p
 (5) A területi gyermekvédelmi szakszolgálat és az örökbefogadást elősegítő közhasznú szervezet
 
 a) a (2) bekezdés szerinti adatokat és az azokban bekövetkezett változásokat 2014. március 14-éig a 141. § (1) bekezdés c) pontja, illetve a 141/B. § szerinti saját nyilvántartásában vezeti, és
-
-b) az örökbe fogadni szándékozó személy alkalmasságára vonatkozó adatokat 2014. március 15-től nem a 141. § (1) bekezdés c) pontja és 141/B. § szerinti saját nyilvántartásában, hanem kizárólag az egységes örökbefogadási nyilvántartásban vezeti.
-
-(6) 2014. június 30-án
