@@ -1,4 +1,4 @@
-## VI. Fejezet[^32]
+## VI. Fejezet[^33]
 
 ## A FIZETÉSI MEGHAGYÁS KÉZBESÍTÉSÉRE VONATKOZÓ SZABÁLYOK
 
@@ -14,4 +14,4 @@
 
 (6) A 7–9. §-t a fizetési meghagyás kézbesítése során nem lehet alkalmazni.
 
-[^32]: A VI. fejezetet (46/C–46/E. §) a 142/2010. (IV. 28.) Korm. rendelet 3. §-a iktatta be.
+[^33]: A VI. fejezetet (46/C–46/E. §) a 142/2010. (IV. 28.) Korm. rendelet 3. §-a iktatta be.

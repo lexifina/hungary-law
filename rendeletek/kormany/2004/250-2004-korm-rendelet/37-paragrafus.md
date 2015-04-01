@@ -1,4 +1,4 @@
-37. § (1)[^25] Ha a kérelmező nem jelölt meg a kérelmében kézbesítési helyet, vagy ilyet megjelölt, de egyben kérte a címzett felkutatását is, valamint a címzett felkutatásához szükséges személyazonosításra szolgáló adatot a kérelemben megjelölte, a végrehajtó megkeresi
+37. § (1)[^27] Ha a kérelmező nem jelölt meg a kérelmében kézbesítési helyet, vagy ilyet megjelölt, de egyben kérte a címzett felkutatását is, valamint a címzett felkutatásához szükséges személyazonosításra szolgáló adatot a kérelemben megjelölte, a végrehajtó megkeresi
 
 a) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet a címzett lakóhelyének, tartózkodási helyének,
 
@@ -10,4 +10,4 @@ felkutatása érdekében.
 
 (3) A végrehajtó a postafiókkal rendelkező címzett nyilvántartott adatairól történő tájékoztatás érdekében az illetékes postai szolgáltatót keresheti meg.
 
-[^25]: A 37. § (1) bekezdése a 238/2009. (X. 20.) Korm. rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
+[^27]: A 37. § (1) bekezdése a 238/2009. (X. 20.) Korm. rendelet 2. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.

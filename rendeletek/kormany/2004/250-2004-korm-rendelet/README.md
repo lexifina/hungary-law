@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-250-20-
 | 2010-06-01 | 2004-250-20-22.9 | 142/2010. (IV. 28.) Korm. rendelet |
 | 2014-03-15 | 2004-250-20-22.10 | 68/2014. (III. 13.) Korm. rendelet |
 | 2014-09-05 | 2004-250-20-22.11 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-04-01 | 2004-250-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |

@@ -1,8 +1,8 @@
-|  | önálló bírósági végrehajtó |
+| önálló bírósági végrehajtó |
 
-|  | irodájának címe |
+| irodájának címe |
 
-| ............................................................. telefonszám | ügyszám |
+| ............................................................. telefonszám ügyszám |
 
 ## ÁTVÉTELI IGAZOLÁS
 
@@ -10,65 +10,53 @@
 
 ## I. A kézbesítendő bírósági határozat adatai
 
-| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| □ | □ | □ | □ | □ | □ | □ | □ |
 
-| ítélet | végzés | fizetési meghagyás | bírósági meghagyás | közjegyzői határozat, egyezség, költségjegyzék | földhivatali határozat | felszámolói értesítés | szerződés megszűnését eredményező nyilatkozat |
+| ítélet | végzés | fizetési meghagyás | bírósági meghagyás | közjegyzői határozat, egyezség, költségjegyzék | ingatlan- nyilvántartási határozat | felszámolói értesítés | szerződés megszűnését eredményező nyilatkozat |
 
-| A határozatot hozó bíróság/földhivatal neve/közjegyző neve és székhelye1: |
-
-| ............................................................................................................................................................................................ |
+| A határozatot hozó bíróság/ingatlanügyi hatóság neve/közjegyző neve és székhelye1: |
 
 | A felszámolói értesítést kiadó felszámoló (felszámolóbiztos) neve, székhelye, levelezési címe2: |
 
-| ............................................................................................................................................................................................. |
-
-| A bírósági/földhivatali/közjegyzői határozat száma/a felszámolói értesítés iktatószáma3: |
-
-| ............................................................................................................................................................................................. |
+| A bírósági/ingatlan-nyilvántartási/közjegyzői határozat száma/a felszámolói értesítés iktatószáma3: |
 
 | A szerződés megszűnését eredményező nyilatkozatot közjegyzői okiratba foglaló közjegyző neve, székhelye, a közjegyzői okirat száma4: |
 
-| …………………………………………………………………………………………………………….….….……….… |
-
 | A szerződés megszűnését eredményező nyilatkozat mellékletei5: |
-
-| ………………………………………………………………………………………………………….……..……….…… |
 
 | II. A címzett adatai |
 
-| név: .................................................................................................................................................................................... |
+| név: |
 
-| cím (bírósági/földhivatali határozat/ felszámolói értesítés szerint): ..................................................................................... |
+| cím (bírósági/ ingatlan-nyilvántartási határozat/ felszámolói értesítés szerint): |
 
-| kézbesítés helye: ................................................................................................................................................................. |
+| kézbesítés helye: |
 
 | III. Kézbesítés a címzett részére |
 
 | Az I. pont szerinti iratot és annak I. pont szerinti mellékleteit átvettem. |
 
-| dátum: ................................................ aláírás: ................................................................................................................... |
+| dátum: ................................................ aláírás: |
 
 | az átvevő neve (14 év alatti, gondnokság alatt lévő, vagy nem természetes személy címzett esetében): |
 
-| ............................................................................................................................................................................................ |
-
-| személyazonosságot igazoló okirat fajtája és száma: .......................................................................................................... |
+| személyazonosságot igazoló okirat fajtája és száma: |
 
 | IV. Kézbesítés helyettes átvevő részére |
 
 | Az I. pont szerinti iratot és annak I. pont szerinti mellékleteit átvettem. Kijelentem, hogy a címzettel perben nem állok, és az általam átvett iratot és mellékleteit a címzett részére átadom. |
 
-| helyettes átvevő neve: ....................................................................................................................................................... |
+| helyettes átvevő neve: |
 
 | dátum: ................................................ aláírás: .................................................................................................................. |
 
-| személyazonosságot igazoló okirat fajtája és száma: ......................................................................................................... |
+| személyazonosságot igazoló okirat fajtája és száma: |
 
-| hozzátartozói, egyéb kapcsolata a címzettel: ..................................................................................................................... |
+| hozzátartozói, egyéb kapcsolata a címzettel: |
 
 | V. A kézbesítési végrehajtó aláírása, bélyegzőjének lenyomata: |
 
-| ....................................................................... | P. H. |
+| ....................................................................... P. H. |
 
 | 1 A megfelelő aláhúzandó. |
 
@@ -76,6 +64,6 @@
 
 | 3 A megfelelő aláhúzandó. 4-5 Ezeket a szerződés megszűnését eredményező nyilatkozat végrehajtói kézbesítésekor kell kitölteni. |
 
-2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^37]
+2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^38]
 
-[^37]: A 2. számú melléklet a 68/2014. (III. 13.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^38]: A 2. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 66. § (3) bekezdés b) pontjával megállapított szöveg.

@@ -8,7 +8,7 @@ c) a természetes személy címzett nevét és különleges kézbesítés eseté
 
 d) ha a címzett szervezet: nevét, székhelyét és – ha a kézbesítést kérő arról tudomással bír – vezetőjének vagy képviselőjének a nevét, továbbá különleges kézbesítés esetén, vagy ha azt a végrehajtó egyébként kéri, az azonosítására szolgáló egyéb adatait (nyilvántartási szám, adószám stb.),
 
-e)[^16] ha a kérelmezőnek tudomása van róla, annak tényét, ha a címzett
+e)[^18] ha a kérelmezőnek tudomása van róla, annak tényét, ha a címzett
 
 ea) 14 év alatti személy (a törvényes képviselő nevét és címét is meg kell jelölni),
 
@@ -34,4 +34,4 @@ h) ha a kérelem különleges kézbesítésre irányul, az ahhoz szükséges ada
 
 (4) A kérelem előterjesztésével egyidejűleg meg kell fizetni a végrehajtó részére a kézbesítés külön jogszabályban meghatározott díját (a továbbiakban: kézbesítési díj), és nyilatkozni kell arról, hogy a kérelmező nem kért bírósági végrehajtást a címzett ellen. Ha a kérelem postai úton kerül megküldésre, ahhoz csatolni kell a kézbesítési díj megfizetését igazoló átutalási megbízás vagy postai feladóvevény másolatát.
 
-[^16]: Az 5. § (1) bekezdése e) pontjának bevezető szövegrésze a 11/2008. (I. 26.) Korm. rendelet 4. § (2) bekezdésének e) pontjával megállapított szöveg.
+[^18]: Az 5. § (1) bekezdése e) pontjának bevezető szövegrésze a 11/2008. (I. 26.) Korm. rendelet 4. § (2) bekezdésének e) pontjával megállapított szöveg.
