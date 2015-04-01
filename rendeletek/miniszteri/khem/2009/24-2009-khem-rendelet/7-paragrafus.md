@@ -1,3 +1,0 @@
-## 6. § Az R. 22. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az igénylőlapot, valamint az annak kitöltésére vonatkozó – legalább az átviteli rendszerirányító által meghatározott tartalmi elemekre kiterjedő – tájékoztatót minden egyetemes szolgáltató az állandó ügyfélszolgálati irodában és az ügyfélszolgálati fiókirodában hozzáférhetővé teszi, és honlapján elektronikusan letölthető formátumban is közzéteszi. A munkáltatói listán szereplő vállalkozás és szakszervezet a munkavállalók számára az igénylőlapot, valamint az annak kitöltésére vonatkozó tájékoztatót nyomtatott és elektronikus formátumban is hozzáférhetővé teszi.”
