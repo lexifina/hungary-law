@@ -1,10 +1,10 @@
-## 11. §[^22] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
+## 11. §[^26] Felhatalmazást kap az iparügyekért felelős miniszter, hogy
 
 a) a nyomástartó berendezésre, nyomástartó létesítményre,
 
-b) a szállítható nyomástartó berendezésre,[^23]
+b) a szállítható nyomástartó berendezésre,[^27]
 
-c) az a) és b) pontban említett nyomástartó berendezés töltésére szolgáló berendezésre, valamint az egyedi sűrített földgáztöltő berendezésre,[^24]
+c) az a) és b) pontban említett nyomástartó berendezés töltésére szolgáló berendezésre, valamint az egyedi sűrített földgáztöltő berendezésre,[^28]
 
 d) az éghető gázok tárolására szolgáló, nyomástartó berendezésnek nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú gáztárolók és üzemi berendezésre,
 
@@ -22,11 +22,11 @@ j) a hegesztett szerkezet helyszíni gyártásánál, szerelésénél, átalakí
 
 k) a tartályok, tároló létesítmények és berendezéseik gyártására és a tartályokhoz kapcsolódó helyszíni technológiai szerelésére, a tartályok javítását, átalakítását, tisztítását, szivárgásvizsgálatát, időszakos vizsgálatát végző gazdálkodó szervezetek nyilvántartásba vételének feltételeire és a tevékenység folytatásának részletes szabályaira, a nyilvántartásba vétel rendjére, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, és a nyilvántartás vezetésére, valamint az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre,
 
-l)[^25] az adópolitikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási-szolgáltatási díjak mértékére, valamint a díjak fizetésére
+l)[^29] az adópolitikáért felelős miniszterrel egyetértésben a kijelölt műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási-szolgáltatási díjak mértékére, valamint a díjak fizetésére
 
 vonatkozó részletes szabályokat rendeletben szabályozza.
 
-[^22]: A 11. § a 7/2013. (I. 18.) Korm. rendelet 6. § (18) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
-[^23]: Lásd a 35/2014. (XI. 19) NGM rendeletet.
-[^24]: Lásd a 35/2014. (XI. 19) NGM rendeletet.
-[^25]: A 11. § l) pontja a 221/2014. (IX. 4.) Korm. rendelet 517. §-a szerint módosított szöveg.
+[^26]: A 11. § a 7/2013. (I. 18.) Korm. rendelet 6. § (18) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 14. §-át.
+[^27]: Lásd a 35/2014. (XI. 19) NGM rendeletet.
+[^28]: Lásd a 35/2014. (XI. 19) NGM rendeletet.
+[^29]: A 11. § l) pontja a 221/2014. (IX. 4.) Korm. rendelet 517. §-a szerint módosított szöveg.
