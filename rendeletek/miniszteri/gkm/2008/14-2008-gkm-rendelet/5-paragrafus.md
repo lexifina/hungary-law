@@ -40,7 +40,7 @@ d) a megtett intézkedésekre
 
 (8)[^29] A bányafelügyelet az üzemeltető által bejelentett súlyos balesetet a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos munkabaleset bejelentésének és vizsgálatának rendjéről szóló biztonsági szabályzat közzétételéről szóló rendelet szerint kivizsgálja.
 
-(9)[^30] A külső vészhelyzeti tervről annak elkészítése során a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete, a környezetvédelmi, természetvédelmi és vízügyi felügyelőség, a tűzvédelmi hatóság, a mentőszolgálat, a rendőrség, valamint az üzemeltető véleményt nyilvánít.
+(9)[^30] A külső vészhelyzeti tervről annak elkészítése során a a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró illetékes járási (fővárosi kerületi) hivatala, illetve a környezetvédelmi hatóság, továbbá a vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló kormányrendelet szerinti megyei, fővárosi katasztrófavédelmi igazgatóság, a tűzvédelmi hatóság, a mentőszolgálat, a rendőrség, valamint az üzemeltető véleményt nyilvánít.
 
 (9a)[^31] A külső vészhelyzeti tervet annak jóváhagyása előtt az érintett nyilvánosság véleményezheti. A polgármester a polgármesteri hivatal hirdetőtábláján közleményt tesz közzé, amely tartalmazza a külső vészhelyzeti terv véleményezési lehetőségére, a terv végrehajtásában érintett hatóságokra, valamint a vélemény megtételének módjára és határidejére vonatkozó tájékoztatást. A külső vészhelyzeti terv véleményezésére legalább 30 napot kell biztosítani. A véleményeket a terv véglegesítése során figyelembe kell venni.
 
@@ -63,7 +63,7 @@ d) a megtett intézkedésekre
 [^27]: Az 5. § (4a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 5. § (3) bekezdése iktatta be.
 [^28]: Az 5. § (7) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (4) bekezdésével megállapított szöveg.
 [^29]: Az 5. § (8) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^30]: Az 5. § (9) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (6) bekezdésével megállapított, a 76/2012. (XII. 22.) NFM rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^30]: Az 5. § (9) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (6) bekezdésével megállapított, a 15/2015. (III. 31.) NFM rendelet 12. §-a szerint módosított szöveg.
 [^31]: Az 5. § (9a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 5. § (7) bekezdése iktatta be.
 [^32]: Az 5. § (10) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (8) bekezdésével megállapított szöveg.
 [^33]: Az 5. § (12) bekezdése a 11/2011. (IV. 7.) NFM rendelet 5. § (9) bekezdésével megállapított szöveg.
