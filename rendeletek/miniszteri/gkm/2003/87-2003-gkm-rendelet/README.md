@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-87-20-0
 | --- | --- | --- |
 | 2004-02-01 | 2003-87-20-0L.1 | 87/2003. (XII. 16.) GKM rendelet |
 | 2011-10-15 | 2003-87-20-0L.2 | 40/2011. (X. 14.) NGM rendelet |
+| 2015-04-01 | 2003-87-20-0L.3 | 9/2015. (III. 31.) NGM rendelet |
