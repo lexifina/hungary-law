@@ -1,3 +1,0 @@
-## 1. § A foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet (a továbbiakban: R.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A munkaügyi központ, az országos és a regionális programok esetén – a társadalmi felzárkózásért felelős miniszter véleményének figyelembevételével – a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) meghatározhatja azokat a képzéseket, amelyeket az állami felnőttképzési intézmény nyújt a támogatásban részesülők számára.”
