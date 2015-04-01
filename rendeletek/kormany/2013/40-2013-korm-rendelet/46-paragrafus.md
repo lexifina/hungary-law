@@ -1,6 +1,6 @@
 46. § (1) A 42. § (2) bekezdés f) pontja alapján az ÁTET visszamenőleges értékelést folytat.
 
-(2) A visszamenőleges értékeléshez a felhasználónak az élelmiszerlánc-biztonsági és állategészségügyi igazgatósághoz be kell nyújtania:
+(2)[^34] A visszamenőleges értékeléshez a felhasználónak az élelmiszerlánc-biztonsági és állategészségügyi hatósághoz be kell nyújtania:
 
 a) a projekt célkitűzéseinek megfelelő eredmények összefoglalóját;
 
@@ -22,4 +22,7 @@ c) a helyettesítés, csökkentés és tökéletesítés követelményének tov�
 
 (5) A kizárólag „enyhe” vagy „érzéstelenítéses-túlaltatásos” besorolású kísérleteket magukban foglaló projektek esetében – a (4) bekezdés sérelme nélkül – nem kell visszamenőleges értékelést végezni.
 
-(6) A visszamenőleges értékelés eredményéről az ÁTET értesíti az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot, amely tájékoztatja a felhasználót és a MÁB-ot.
+(6)[^35] A visszamenőleges értékelés eredményéről az ÁTET értesíti az élelmiszerlánc-biztonsági és állategészségügyi hatóságot, amely tájékoztatja a felhasználót és a MÁB-ot.
+
+[^34]: A 46. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 221. § g) pontja szerint módosított szöveg.
+[^35]: A 46. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § f) pontja szerint módosított szöveg.

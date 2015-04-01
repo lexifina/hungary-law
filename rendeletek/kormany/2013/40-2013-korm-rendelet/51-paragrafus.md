@@ -2,12 +2,13 @@
 
 (2) Az országos főállatorvos évente tájékoztatja az Európai Bizottságot a 14. § (6) bekezdés a) pontja szerinti mentességekről.
 
-(3)[^14] A felhasználó minden év február 28-ig megküldi – a NÉBIH honlapján közzétett táblázatok szerint – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak az állatok kísérletekben történt felhasználására vonatkozó statisztikai adatokat, köztük az alkalmazott kísérletek tényleges súlyosságára, és a felhasznált főemlős állatok eredetére és fajaira vonatkozó információkat is, valamint a kizárólag szerveik vagy szöveteik felhasználása céljából leölt állatok számára vonatkozó adatokat. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság összesíti az információkat és minden év április 15-ig megküldi a NÉBIH-nek, amely az összesített adatokat minden év május 31-ig közzéteszi a honlapján. Az országos főállatorvos az összesített adatokról tájékoztatja az Európai Bizottságot.
+(3)[^45] A felhasználó minden év február 28-ig megküldi – a NÉBIH honlapján közzétett táblázatok szerint – az élelmiszerlánc-biztonsági és állategészségügyi hatóságnak az állatok kísérletekben történt felhasználására vonatkozó statisztikai adatokat, köztük az alkalmazott kísérletek tényleges súlyosságára, és a felhasznált főemlős állatok eredetére és fajaira vonatkozó információkat is, valamint a kizárólag szerveik vagy szöveteik felhasználása céljából leölt állatok számára vonatkozó adatokat. Az élelmiszerlánc-biztonsági és állategészségügyi hatóság összesíti az információkat és minden év április 15-ig megküldi a NÉBIH-nek, amely az összesített adatokat minden év május 31-ig közzéteszi a honlapján. Az országos főállatorvos az összesített adatokról tájékoztatja az Európai Bizottságot.
 
 (4) A 11. § (4) bekezdése szerinti engedély kiadásáról és annak indokairól az országos főállatorvos haladéktalanul tájékoztatja az Európai Bizottságot és a többi tagállamot.
 
 (5) Az országos főállatorvos tájékoztatja az Európai Bizottságot a 2010. november 9-én hatályban lévő, a tudományos célokra felhasznált állatok védelméről szóló 2010/63/EU irányelv hatálya alá tartozó állatok ezen irányelvben foglaltaknál kiterjedtebb védelmének biztosítását célzó nemzeti rendelkezésekről.
 
-(6) Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság – ha jogszabály másként nem rendelkezik – felhasználhat más tagállami adatokat, ha azok európai uniós jogi aktus vagy azt átültető tagállami jogszabály által elismert eljárásból származnak.
+(6)[^46] Az élelmiszerlánc-biztonsági és állategészségügyi hatóság – ha jogszabály másként nem rendelkezik – felhasználhat más tagállami adatokat, ha azok európai uniós jogi aktus vagy azt átültető tagállami jogszabály által elismert eljárásból származnak.
 
-[^14]: Az 51. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^45]: Az 51. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 14. § (8) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 221. § b) és c) pontja szerint módosított szöveg.
+[^46]: Az 51. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.

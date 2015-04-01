@@ -8,6 +8,8 @@ c) az állat jólétének biztosításáról megfelelő intézkedések révén g
 
 (2) Az állatot kihelyező tenyésztő, beszállító és felhasználó előzetesen köteles az (1) bekezdés előírásait biztosító kihelyezési akciótervet (a továbbiakban: akcióterv) kidolgozni. Az akciótervnek biztosítania kell az állat beilleszkedését a kihelyezés helyén. Vadon élő állat esetén az állat egészségi állapotára, viselkedésére és kísérleti előéletére figyelemmel, szükség szerint rehabilitációs programot kell végrehajtani az élőhelyre való visszajuttatás előtt.
 
-(3) A (2) bekezdés szerinti akciótervet az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hagyja jóvá. Az akciótervet a kihelyezés várható időpontja előtt legalább 60 nappal be kell nyújtani az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak.
+(3)[^10] A (2) bekezdés szerinti akciótervet az élelmiszerlánc-biztonsági és állategészségügyi hatóság hagyja jóvá. Az akciótervet a kihelyezés várható időpontja előtt legalább 60 nappal be kell nyújtani az élelmiszerlánc-biztonsági és állategészségügyi hatóságnak.
 
 (4) Állat kihelyezése kizárólag a (3) bekezdés szerint jóváhagyott akcióterv keretén belül történhet.
+
+[^10]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) és c) pontja szerint módosított szöveg.

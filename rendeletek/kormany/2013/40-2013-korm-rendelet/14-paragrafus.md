@@ -1,6 +1,6 @@
 ## III/A. Fejezet
 
-## AZ ÁLLATOK LEÖLÉSE[^2]
+## AZ ÁLLATOK LEÖLÉSE[^8]
 
 14. § (1) Az állatot úgy kell leölni, hogy az az állat számára a lehető legkevesebb fájdalommal, szenvedéssel és kínnal járjon.
 
@@ -24,7 +24,7 @@ d) kivéreztetés; vagy
 
 e) a hullamerevség beálltának megállapítása.
 
-(5) Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a kísérlet engedélyezése során kérelemre mentességet biztosíthat a (3)–(4) bekezdésekben foglalt követelmények alól:
+(5)[^9] Az élelmiszerlánc-biztonsági és állategészségügyi hatóság a kísérlet engedélyezése során kérelemre mentességet biztosíthat a (3)–(4) bekezdésekben foglalt követelmények alól:
 
 a) egyéb módszer alkalmazása érdekében, amennyiben a tudományos bizonyítékok alapján e módszer legalább annyira kíméletesnek tekintett; vagy
 
@@ -34,4 +34,5 @@ b) amennyiben tudományos indokok alapján egy adott kísérlet célját a 4. me
 
 (7) A (2)–(4) bekezdésekben foglaltakat nem kell alkalmazni, amennyiben az állat leölése állatjóléti, közegészségügyi, közbiztonsági, állat-egészségügyi vagy környezeti szükséghelyzet következtében indokolt.
 
-[^2]: A III/A. Fejezet címét a 98/2014. (III. 25.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^8]: A III/A. Fejezet címét a 98/2014. (III. 25.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^9]: A 14. § (5) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.

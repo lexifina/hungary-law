@@ -6,4 +6,6 @@
 
 (4) A főemlősöket a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendelet előírásai szerint kell megjelölni.
 
-(5) A tenyésztő, beszállító vagy felhasználó az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság kérésére köteles megindokolni, ha egy kutyán, macskán vagy főemlősön nincs azonosító jelzés.
+(5)[^17] A tenyésztő, beszállító vagy felhasználó az élelmiszerlánc-biztonsági és állategészségügyi hatóság kérésére köteles megindokolni, ha egy kutyán, macskán vagy főemlősön nincs azonosító jelzés.
+
+[^17]: A 32. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.

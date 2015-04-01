@@ -1,4 +1,4 @@
-## 23. § Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság tudományos, állatjóléti vagy állategészségügyi okból erre irányuló kérelemre mentességet adhat az 18–22. §-okban foglalt egyes előírások alkalmazása alól.
+## 23. §[^14] Az élelmiszerlánc-biztonsági és állategészségügyi hatóság tudományos, állatjóléti vagy állategészségügyi okból erre irányuló kérelemre mentességet adhat az 18–22. §-okban foglalt egyes előírások alkalmazása alól.
 
 ## 3. Az állatok tartására (elhelyezésére és gondozására) vonatkozó követelmények
 
@@ -9,3 +9,5 @@
 (3) Szükség szerint, de legalább napi rendszerességgel ellenőrizni kell az állatok tenyésztésének, tartásának és felhasználásának környezeti viszonyait.
 
 (4) Megfelelő intézkedésekkel kell felkészülni az esetlegesen feltárt hiányosságok, valamint az elkerülhető fájdalom, szenvedés, kín vagy maradandó egészségkárosodás mielőbbi felszámolására.
+
+[^14]: A 23. § a 70/2015. (III. 30.) Korm. rendelet 221. § b) pontja szerint módosított szöveg.

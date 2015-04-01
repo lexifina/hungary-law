@@ -16,11 +16,11 @@ c) a kísérletek súlyossági besorolásának értékelését és megállapít�
 
 d) a projekt elemzését ártalom és haszon szempontjából, azaz annak megállapítása, hogy az állatoknak szenvedés, fájdalom vagy félelemformájában okozott ártalmat indokolttá teszi-e a várt eredmény – az etikai megfontolásokat is figyelembe véve –, és végeredményben az emberek, állatok és a környezet javát szolgálhatja-e;
 
-e)[^8] a 3–8., 11., 12., 14., 28. és 29. §-ban, valamint az Ávtv. 30 §-ban említett indokolás értékelését;
+e)[^26] a 3–8., 11., 12., 14., 28. és 29. §-ban, valamint az Ávtv. 30 §-ban említett indokolás értékelését;
 
-f)[^9] annak megállapítását – figyelemmel a 46. § (2) és (3) bekezdésére –, hogy szükség van-e a projekt visszamenőleges értékelésére, és ha igen, ennek időpontját, és
+f)[^27] annak megállapítását – figyelemmel a 46. § (2) és (3) bekezdésére –, hogy szükség van-e a projekt visszamenőleges értékelésére, és ha igen, ennek időpontját, és
 
-g)[^10] a 45. §-ban meghatározott nem szakmai jellegű összefoglaló megfelelőségének értékelését.
+g)[^28] a 45. §-ban meghatározott nem szakmai jellegű összefoglaló megfelelőségének értékelését.
 
 (3) A projektértékelés során különösen a következő szakterületek szempontjait kell figyelembe venni:
 
@@ -34,8 +34,9 @@ d) állattenyésztés és állatgondozás a felhasználni kívánt fajok vonatko
 
 (4) A projektértékelés folyamatának átláthatónak kell lennie. A projektértékelést a szellemi tulajdon és a bizalmas információk védelmére figyelemmel, részrehajlás nélkül kell végezni, és a független felek véleményét is magában foglalhatja.
 
-(5) A projektértékelés eredményéről az ÁTET a kérelem beérkezésétől számított 35 munkanapon belül értesíti az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot.
+(5)[^29] A projektértékelés eredményéről az ÁTET a kérelem beérkezésétől számított 35 munkanapon belül értesíti az élelmiszerlánc-biztonsági és állategészségügyi hatóságot.
 
-[^8]: A 42. § (2) bekezdés e) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^9]: A 42. § (2) bekezdés f) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^10]: A 42. § (2) bekezdés g) pontját a 98/2014. (III. 25.) Korm. rendelet 14. § (5) bekezdése iktatta be.
+[^26]: A 42. § (2) bekezdés e) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^27]: A 42. § (2) bekezdés f) pontja a 98/2014. (III. 25.) Korm. rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^28]: A 42. § (2) bekezdés g) pontját a 98/2014. (III. 25.) Korm. rendelet 14. § (5) bekezdése iktatta be.
+[^29]: A 42. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § f) pontja szerint módosított szöveg.
