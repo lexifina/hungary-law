@@ -50,7 +50,7 @@ t) az anyakönyvvezető a személyazonosság ellenőrzése és az elhunyt szemé
 
 u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a) és b) pontjában, valamint (2) bekezdés a)–c) pontjaiban megjelölt adatokat;
 
-v) a környezetvédelmi, természetvédelmi és vízügyi felügyelőség az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésben megjelölt adatokat.
+v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésben megjelölt adatokat.
 
 (2) A nyilvántartásból adatot igényelhetnek:
 
