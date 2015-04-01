@@ -1,4 +1,4 @@
-4. § (1) A főépítészi vizsgát – a melléklet szerinti követelményrendszer és a miniszter által jóváhagyott eljárási rend szerint – az önkormányzati főépítészek tekintetében az illetékes állami főépítész, az állami főépítészek tekintetében a miniszter bonyolítja le.
+4. § (1)[^17] A főépítészi vizsgát – a melléklet szerinti követelményrendszer és a miniszter által jóváhagyott eljárási rend szerint – az önkormányzati főépítészek tekintetében az illetékes állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal, az állami főépítészi feladatokat ellátó kormánytisztviselő tekintetében a miniszter bonyolítja le.
 
 (2) A főépítészi vizsga
 
@@ -16,6 +16,7 @@ a) mentesíti azt a személyt, aki önkormányzati főépítészi szakmérnöki 
 
 b) részben mentesíti azt a személyt, aki egyéb szakmai tartalmú vizsgával rendelkezik, és e vizsga követelményrendszere a főépítészi vizsga általános vagy a különös rész követelményrendszerével megegyezik.
 
-(5)[^13]
+(5)[^18]
 
-[^13]: A 4. § (5) bekezdését a 222/2010. (VII. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^17]: A 4. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 4. § (5) bekezdését a 222/2010. (VII. 30.) Korm. rendelet 2. §-a hatályon kívül helyezte.

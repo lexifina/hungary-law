@@ -1,18 +1,18 @@
-## A főépítészi rendszer, az állami főépítészek kijelölése
+## A főépítészi rendszer,[^2]
 
-2. §[^2] (1)[^3] A Kormány az állami főépítészi feladatok ellátására a 2. mellékletben meghatározott fővárosi és megyei kormányhivatal szakigazgatási szerveként működő építésügyi és örökségvédelmi hivatal (a továbbiakban: Építésügyi Hivatal) önálló feladat- és hatáskörrel rendelkező szervezeti egységeként működő állami főépítészt jelöli ki. Az állami főépítészi feladatok ellátásának munkaszervezete az állami főépítészi iroda, amelyet az állami főépítész vezet.
+2. §[^3] (1)[^4] Az állami főépítészi feladatokat illetékességi területén a fővárosi és megyei kormányhivatal látja el.
 
-(2) Az Építésügyi Hivatal az állami főépítészi feladat- és hatáskörök tekintetében a fővárosi és megyei kormányhivatal illetékességi területétől eltérő, e rendelet 2. mellékletében meghatározott különös illetékességgel működik.
+(2)[^5] A fővárosi és megyei kormányhivatal állami főépítészi feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az építésügyért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-(2a)[^4]
+(2a)[^6]
 
-(3)[^5] Az 1. §-ban meghatározott feladatok központi szakmai irányítását, összehangolását az egész országra kiterjedő illetékességgel az építésügyért felelős miniszter (a továbbiakban: miniszter) látja el, amely keretében
+(3)[^7] Az 1. §-ban meghatározott feladatok központi szakmai irányítását, összehangolását az egész országra kiterjedő illetékességgel az építésügyért felelős miniszter (a továbbiakban: miniszter) látja el, amely keretében
 
-a) gyakorolja a szakmai irányító szerv vezetőjének jogkörét az Építésügyi Hivatal önálló feladat- és hatáskörrel rendelkező szervezeti egységeként működő állami főépítészének tevékenysége felett,
+a)[^8]
 
-b) koordinálja az állami főépítészek terület- és településrendezéssel, valamint építészeti értékvédelemmel kapcsolatos feladatait,
+b)[^9] koordinálja az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal terület- és településrendezéssel, valamint építészeti értékvédelemmel kapcsolatos feladatait,
 
-c)[^6]
+c)[^10]
 
 d) elősegíti az egységes településpolitikai és építészetpolitikai elvek és elvárások koncepcionális kialakítását,
 
@@ -30,8 +30,12 @@ b) társulási megállapodásban meghatározott települési önkormányzati fel
 
 c) települési önkormányzati feladatokkal kapcsolatos döntéseket a települési önkormányzat közigazgatási területére kiterjedő illetékességgel a települési főépítész, a fővárosban a fővárosi önkormányzat és a kerületi önkormányzatok megosztott feladatai szerint a fővárosi, illetve a kerületi főépítész
 
-[^2]: A 2. § a 329/2010. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^3]: A 2. § (1) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 35. §-a szerint módosított szöveg.
-[^4]: A 2. § (2a) bekezdését a 258/2011. (XII. 7.) Korm. rendelet 37. §-a iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 54. § a) pontja.
-[^5]: A 2. § (3) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
-[^6]: A 2. § (3) bekezdés c) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
+[^2]: A 2. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § a 329/2010. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 138. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2a) bekezdését a 258/2011. (XII. 7.) Korm. rendelet 37. §-a iktatta be, hatályon kívül helyezte a 322/2012. (XI. 16.) Korm. rendelet 54. § a) pontja.
+[^7]: A 2. § (3) bekezdés nyitó szövegrésze a 322/2012. (XI. 16.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdés a) pontját a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^9]: A 2. § (3) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 2. § (3) bekezdés c) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.

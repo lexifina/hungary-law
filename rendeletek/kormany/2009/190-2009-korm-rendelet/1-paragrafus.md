@@ -1,11 +1,13 @@
 ## A rendelet alkalmazási köre
 
-## 1. § E rendeletet a törvényekben, kormányrendeletekben meghatározott, a területfejlesztéssel és -rendezéssel, a településfejlesztéssel és -rendezéssel, továbbá az épített környezet alakításával és védelmével, az építésüggyel kapcsolatos egyes feladatokra és hatósági eljárásokra kell alkalmazni, melyeket
+## 1. §[^1] E rendeletet a törvényekben, kormányrendeletekben meghatározott, a területfejlesztéssel és -rendezéssel, a településfejlesztéssel és -rendezéssel, továbbá az épített környezet alakításával és védelmével, az építésüggyel kapcsolatos egyes feladatokra kell alkalmazni, melyeket
 
-a)[^1] az országos és az állami főépítész,
+a) az országos főépítész,
 
-b) a települési önkormányzat a települési főépítész, a megyei önkormányzat a megyei főépítész, a települési önkormányzatok társulása a térségi főépítész (a továbbiakban együtt: önkormányzati főépítész) közreműködésével
+b) az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal,
 
-[az a) és b) pontokban foglaltak a továbbiakban együtt: főépítész] lát el.
+c) a települési önkormányzat a települési főépítész, a megyei önkormányzat a megyei főépítész, a települési önkormányzatok társulása a térségi főépítész (a továbbiakban együtt: önkormányzati főépítész) közreműködésével
 
-[^1]: Az 1. § a) pontja a 322/2012. (XI. 16.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
+[az a)–c) pontokban foglaltak a továbbiakban együtt: főépítész] lát el.
+
+[^1]: Az 1. § a 70/2015. (III. 30.) Korm. rendelet 138. § (1) bekezdésével megállapított szöveg.
