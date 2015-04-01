@@ -1,8 +1,8 @@
-## A termelő által a 3. és 4. melléklet alapján átadott földgázmennyiség után fizetendő hozzájárulások mértéke 2015. első negyedévére
+## A termelő által a 3. és 4. melléklet alapján átadott földgázmennyiség után fizetendő hozzájárulások mértéke 2015. második negyedévére
 
 |  | A | B |
 
-| 1. | kapcsolt termelésszerkezet átalakítási hozzájárulás | 0 forint/MJ |
+| 1. | kapcsolt termelésszerkezet-átalakítási hozzájárulás | 0 forint/MJ |
 
 | 2. | kiegyenlítő hozzájárulás | 0 forint/MJ |
 

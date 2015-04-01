@@ -10,4 +10,4 @@
 
 8. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^44]
 
-[^44]: A 8. mellékletet a 14/2014. (III. 31.) NFM rendelet 9. § (6) bekezdése iktatta be, szövege az 52/2014. (XII. 13.) NFM rendelet 7. § (7) bekezdésével megállapított szöveg.
+[^44]: A 8. mellékletet a 14/2014. (III. 31.) NFM rendelet 9. § (6) bekezdése iktatta be, szövege a 12/2015. (III. 31.) NFM rendelet 5. § (6) bekezdésével megállapított szöveg.
