@@ -1,4 +1,4 @@
-7. §[^3] (1) A nevelőszülő szakképzésre jelentkező személy kérheti az Országos Képzési Jegyzékben szereplő nevelőszülő szakképzést szervező képzőintézménytől (a továbbiakban: képzőintézmény) felsőfokú végzettségének, felsőfokú szakképzésben szerzett szakképesítésének, felsőoktatási szakképzésben szerzett szakképzettségének és előzetes munkatapasztalatának a nevelőszülő szakképzés szakmai és vizsgakövetelményei teljesítésébe való beszámítását.
+7. §[^5] (1) A nevelőszülő szakképzésre jelentkező személy kérheti az Országos Képzési Jegyzékben szereplő nevelőszülő szakképzést szervező képzőintézménytől (a továbbiakban: képzőintézmény) felsőfokú végzettségének, felsőfokú szakképzésben szerzett szakképesítésének, felsőoktatási szakképzésben szerzett szakképzettségének és előzetes munkatapasztalatának a nevelőszülő szakképzés szakmai és vizsgakövetelményei teljesítésébe való beszámítását.
 
 (2) A képzőintézmény köteles a nevelőszülő szakképzésre jelentkező személy számára az emberi erőforrások minisztere ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 37/2013. (V. 28.) EMMI rendelet (a továbbiakban: EMMI rendelet) 5. melléklet 60. sorszámú Nevelőszülő szakképesítés 4. Szakmai követelmények pontjában megjelölt
 
@@ -22,4 +22,4 @@ h) 11497-12 azonosító számú „Foglalkoztatás I.” képzési modul 60 ór�
 
 (3) A (2) bekezdés a)–h) pontja szerinti több feltétel fennállása esetén az óralátogatás alóli felmentést együttesen is meg kell állapítani azzal, hogy a képzési modul ugyanazon tanegysége ugyanazon óraszáma alóli felmentés csak egyszer alkalmazható.
 
-[^3]: A 7. § a 353/2014. (XII. 29.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^5]: A 7. § a 353/2014. (XII. 29.) Korm. rendelet 81. §-ával megállapított szöveg.
