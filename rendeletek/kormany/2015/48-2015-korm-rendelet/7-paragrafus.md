@@ -1,5 +1,5 @@
 7. § (1) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(2) Az eljáró hatóság az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések, valamint az ingatlan-nyilvántartással összefüggő döntések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő ötödik nap.
+(2)–(3)[^2]
 
-(3) Ha a (2) bekezdés szerint hirdetményi közlésnek van helye, és a döntés az ügyfél számára kötelezettséget állapít meg, vagy alapvető jogát vonja el vagy korlátozza, a hatóság az ismert ügyfelet a döntés szövegéről – hirdetmény kifüggesztésével egyidejűleg – az ügyfél tekintetében az adott ügyfajtára vonatkozó külön jogszabály szerint alkalmazható kapcsolattartási forma használatával tájékoztatja. A közlés jogkövetkezményei ilyen esetben is a hirdetményi úton történő közléshez kapcsolódóan állnak be.
+[^2]: A 7. § (2)–(3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 110. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
