@@ -1,4 +1,4 @@
-12/A. §[^67] (1) Az Eütv. 108/A. §-a szerinti bejelentést a személyes közreműködő teszi meg. Ha a személyes közreműködő e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
+12/A. §[^68] (1) Az Eütv. 108/A. §-a szerinti bejelentést a személyes közreműködő teszi meg. Ha a személyes közreműködő e tevékenységét az igénybe vevő szolgáltató több szervezeti egységében is végzi, a bejelentést ezen szervezeti egységek tekintetében kell megtenni.
 
 (2) A praxisengedélyhez kötött egészségügyi szolgáltatások személyes közreműködés keretében nem végezhetők.
 
@@ -26,7 +26,7 @@ fa) cégnevét
 
 fb) a személyes közreműködő szervezet KSH törzsszámát (új, egyéni vállalkozás keretében működni kívánó egészségügyi szolgáltató kivételével),
 
-g)[^68] a tevékenységet végző egészségügyi dolgozók nevét, pecsétszámát vagy működési nyilvántartási számát, egészségügyi alkalmassági vizsgálatának dátumát és eredményét, valamint foglalkoztatásra irányuló jogviszony típusát.
+g)[^69] a tevékenységet végző egészségügyi dolgozók nevét, pecsétszámát vagy működési nyilvántartási számát, egészségügyi alkalmassági vizsgálatának dátumát és eredményét, valamint foglalkoztatásra irányuló jogviszony típusát.
 
 (7) A bejelentéshez mellékelni kell a személyes közreműködésről szóló szerződést.
 
@@ -44,5 +44,5 @@ b) a tevékenységet végző egészségügyi dolgozók vonatkozásában a műkö
 
 (12) A (11) bekezdés szerinti határozatot közölni kell a közreműködést igénybe vevő szolgáltatóval és közszolgáltatás keretében történő tevékenységvégzés esetén az Országos Egészségbiztosítási Pénztárral vagy az egészségügyi közszolgáltatást finanszírozó más állami szervvel.
 
-[^67]: A 12/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
-[^68]: A 12/A. § (6) bekezdés g) pontja a 364/2014. (XII. 30.) Korm. rendelet 57. § d) pontja szerint módosított szöveg.
+[^68]: A 12/A. §-t az 520/2013. (XII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^69]: A 12/A. § (6) bekezdés g) pontja a 364/2014. (XII. 30.) Korm. rendelet 57. § d) pontja szerint módosított szöveg.

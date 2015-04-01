@@ -8,45 +8,46 @@
 
 a)[^31] fekvőbeteg-szakellátást, mentést, betegszállítást, vérellátást, haemodialízist és sejt- és szövetbanki, biobanki, in vitro fertilizáció, klinikai genetikai, genetikai tanácsadási, molekuláris genetikai laboratóriumi diagnosztikai, intézeten kívüli szülészeti és újszülött-ellátási tevékenységet, valamint a fekvő- és járóbeteg szakellátást – diagnosztikai szolgáltatást is ideértve – egyidejűleg nyújtó egészségügyi szolgáltató és ezen egészségügyi szolgáltató közreműködői esetén – függetlenül attól, hogy a szolgáltató hány telephelyen nyújtja szolgáltatásait – az Országos Tisztifőorvosi Hivatal,
 
-b) alapellátást, otthoni szakápolást, otthoni hospice ellátást, gyógyászati segédeszközökkel kapcsolatos szolgáltatást, bentlakásos szociális vagy gyermekvédelmi intézményben szervezett egészségügyi ellátást, önálló járóbeteg-szakellátást – ideértve az egynapos sebészeti és a kúraszerűen végezhető ellátásokat – és diagnosztikai szolgáltatást nyújtó egészségügyi szolgáltató és ezen egészségügyi szolgáltató közreműködői esetén a járási népegészségügyi intézet,
+b)[^32] alapellátást, otthoni szakápolást, otthoni hospice ellátást, gyógyászati segédeszközökkel kapcsolatos szolgáltatást, bentlakásos szociális vagy gyermekvédelmi intézményben szervezett egészségügyi ellátást, önálló járóbeteg-szakellátást – ideértve az egynapos sebészeti és a kúraszerűen végezhető ellátásokat – és diagnosztikai szolgáltatást nyújtó egészségügyi szolgáltató és ezen egészségügyi szolgáltató közreműködői esetén a járási hivatal,
 
-c)[^32] ha az a) pont szerinti fekvőbeteg-szakellátást nyújtó, valamint fekvő- és járóbeteg-szakellátást – a diagnosztikai szolgáltatást is ideértve – egyidejűleg nyújtó szolgáltató emellett önálló járóbeteg-szakellátást is nyújt, az Országos Tisztifőorvosi Hivatal
+c)[^33] ha az a) pont szerinti fekvőbeteg-szakellátást nyújtó, valamint fekvő- és járóbeteg-szakellátást – a diagnosztikai szolgáltatást is ideértve – egyidejűleg nyújtó szolgáltató emellett önálló járóbeteg-szakellátást is nyújt, az Országos Tisztifőorvosi Hivatal
 
 ## jogosult.
 
-(3)[^33] Ha az egészségügyi szolgáltató nem rendelkezik telephellyel, a működési engedélyt – (2) bekezdés b) pontja szerinti hatáskörében eljárva – az egészségügyi szolgáltató székhelye szerint illetékes járási népegészségügyi intézet adja ki.
+(3)[^34] Ha az egészségügyi szolgáltató nem rendelkezik telephellyel, a működési engedélyt – (2) bekezdés b) pontja szerinti hatáskörében eljárva – az egészségügyi szolgáltató székhelye szerint illetékes járási hivatal adja ki.
 
-(4)[^34] Amennyiben az egészségügyi szolgáltató több telephellyel rendelkezik, illetve székhelyén is nyújt szolgáltatást, a működési engedélyt a telephelyekre, vagy székhelyre és telephelyekre külön-külön lefolytatott eljárásokban – figyelemmel a (2) bekezdés c) pontjára – a telephely, illetve székhely szerinti járási népegészségügyi intézet vagy az Országos Tisztifőorvosi Hivatal adja ki.
+(4)[^35] Amennyiben az egészségügyi szolgáltató több telephellyel rendelkezik, illetve székhelyén is nyújt szolgáltatást, a működési engedélyt a telephelyekre, vagy székhelyre és telephelyekre külön-külön lefolytatott eljárásokban – figyelemmel a (2) bekezdés c) pontjára – a telephely, illetve székhely szerinti járási hivatal vagy az Országos Tisztifőorvosi Hivatal adja ki.
 
-(4a)[^35] A praxisengedélyhez kötött egészségügyi szolgáltatások esetén közreműködő részére működési engedély nem adható.
+(4a)[^36] A praxisengedélyhez kötött egészségügyi szolgáltatások esetén közreműködő részére működési engedély nem adható.
 
-(5)[^36] A területi ellátási kötelezettséggel végzett háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi, iskola- és ifjúság-egészségügyi, körzeti-közösségi szakápolói, védőnői feladat engedélyezését a több, ugyanazon járási népegészségügyi intézet illetékességébe tartozó telephelyen teljesítő számára egy eljárásban, telephelyenként kell lefolytatni, és az engedélyeket egy okiratba kell foglalni.
+(5)[^37] A területi ellátási kötelezettséggel végzett háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi, iskola- és ifjúság-egészségügyi, körzeti-közösségi szakápolói, védőnői feladat engedélyezését a több, ugyanazon járási hivatal illetékességébe tartozó telephelyen teljesítő számára egy eljárásban, telephelyenként kell lefolytatni, és az engedélyeket egy okiratba kell foglalni.
 
-(6)[^37] Az egészségügyi szolgáltató a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek számára nyújtott egészségügyi szolgáltatás esetén a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek egészségügyi szakmai szerve véleményének kikérését követően nyújtja be kérelmét az engedélyezési eljárás lefolytatásához.
+(6)[^38] Az egészségügyi szolgáltató a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek számára nyújtott egészségügyi szolgáltatás esetén a Magyar Honvédség, a Nemzeti Adó- és Vámhivatal és a rendvédelmi szervek egészségügyi szakmai szerve véleményének kikérését követően nyújtja be kérelmét az engedélyezési eljárás lefolytatásához.
 
-(6a)[^38] A sejt- és szövetbanki, biobanki, in vitro fertilizáció, klinikai genetika, genetikai tanácsadás, molekuláris genetikai laboratóriumi diagnosztika szakmák működési engedélyezési eljárása során az Országos Tisztifőorvosi Hivatal megkéri az Egészségügyi Tudományos Tanács Humán Reprodukciós Bizottságának szakmai véleményét. A működési engedélyt az eljáró hatóság a jogszabályban előírt feltételek teljesítésének vizsgálata mellett az Egészségügyi Tudományos Tanács Humán Reprodukciós Bizottságának véleménye alapján adja ki.
+(6a)[^39] A sejt- és szövetbanki, biobanki, in vitro fertilizáció, klinikai genetika, genetikai tanácsadás, molekuláris genetikai laboratóriumi diagnosztika szakmák működési engedélyezési eljárása során az Országos Tisztifőorvosi Hivatal megkéri az Egészségügyi Tudományos Tanács Humán Reprodukciós Bizottságának szakmai véleményét. A működési engedélyt az eljáró hatóság a jogszabályban előírt feltételek teljesítésének vizsgálata mellett az Egészségügyi Tudományos Tanács Humán Reprodukciós Bizottságának véleménye alapján adja ki.
 
-(7)[^39] Az otthoni szakápolásra, otthoni hospice ellátásra vonatkozó működési engedélyt a szolgáltató székhelye szerint illetékes járási népegészségügyi intézet adja ki azzal, hogy a közreműködő részére a működési engedély kiadására a közreműködőt igénybe vevő szolgáltató részére működési engedélyt kiadó járási népegészségügyi intézet jogosult. A határozatot közölni kell a szolgáltató ellátási területéhez tartozó települések szerint illetékes járási népegészségügyi intézetekkel. Az otthoni szakápolás, otthoni hospice ellátás esetén a kiadott működési engedélyben szereplő ellátási terület nem haladhatja meg az engedélyt kiadó egészségügyi államigazgatási szerv székhelye szerinti megye területét. Amennyiben a szolgáltató a székhelye szerinti megyehatáron kívül is szolgáltatást kíván nyújtani, a működési engedélyt a másik megyében a telephely szerinti járási népegészségügyi intézet adja ki, amely esetben az ellátási terület szintén ez utóbbi megyére terjedhet ki.
+(7)[^40] Az otthoni szakápolásra, otthoni hospice ellátásra vonatkozó működési engedélyt a szolgáltató székhelye szerint illetékes járási hivatal adja ki azzal, hogy a közreműködő részére a működési engedély kiadására a közreműködőt igénybe vevő szolgáltató részére működési engedélyt kiadó járási hivatal jogosult. A határozatot közölni kell a szolgáltató ellátási területéhez tartozó települések szerint illetékes járási hivatalokkal. Az otthoni szakápolás, otthoni hospice ellátás esetén a kiadott működési engedélyben szereplő ellátási terület nem haladhatja meg az engedélyt kiadó egészségügyi államigazgatási szerv székhelye szerinti megye területét. Amennyiben a szolgáltató a székhelye szerinti megyehatáron kívül is szolgáltatást kíván nyújtani, a működési engedélyt a másik megyében a telephely szerinti járási hivatal adja ki, amely esetben az ellátási terület szintén ez utóbbi megyére terjedhet ki.
 
-(8)[^40] Változó helyszínen végzett egészségügyi szolgáltatás esetén az engedélyezés feltételeit az egészségügyi szolgáltatás nyújtásának helyén kell vizsgálni. A változó helyszínen a szolgáltatásnyújtás időtartama alatt ellenőrizhető a közegészségügyi, valamint a személyi és tárgyi feltételek biztosítása.
+(8)[^41] Változó helyszínen végzett egészségügyi szolgáltatás esetén az engedélyezés feltételeit az egészségügyi szolgáltatás nyújtásának helyén kell vizsgálni. A változó helyszínen a szolgáltatásnyújtás időtartama alatt ellenőrizhető a közegészségügyi, valamint a személyi és tárgyi feltételek biztosítása.
 
-(9)[^41] Változó helyszínen végzett és mozgó egészségügyi szolgáltatás esetén a szolgáltató a székhelyétől vagy telephelyétől eltérő helyszínen végzett tevékenységét 5 nappal korábban írásban köteles bejelenteni a helyszín szerinti járási népegészségügyi intézetnek, amely jogosult helyszíni ellenőrzést tartani.
+(9)[^42] Változó helyszínen végzett és mozgó egészségügyi szolgáltatás esetén a szolgáltató a székhelyétől vagy telephelyétől eltérő helyszínen végzett tevékenységét 5 nappal korábban írásban köteles bejelenteni a helyszín szerinti járási hivatalnak, amely jogosult helyszíni ellenőrzést tartani.
 
-(10)[^42] Az (1) bekezdés, a 14. § (1) bekezdése, a 15/A. §, a 16. § (2) bekezdése, valamint a 19. § szerinti eljárásokban az ügyintézési határidő harminc nap.
+(10)[^43] Az (1) bekezdés, a 14. § (1) bekezdése, a 15/A. §, a 16. § (2) bekezdése, valamint a 19. § szerinti eljárásokban az ügyintézési határidő harminc nap.
 
 [^27]: A 6/B. §-t a 25/2004. (II. 26.) Korm. rendelet 4. §-a iktatta be, szövege a 308/2009. (XII. 28.) Korm. rendelet 8. §-ával megállapított, az 520/2013. (XII. 30.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
 [^28]: A 7. § a 351/2010. (XII. 30.) Korm. rendelet 104. § (3) bekezdésével megállapított szöveg.
 [^29]: A 7. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 48. § (1) bekezdése szerint módosított szöveg.
 [^30]: A 7. § (2) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított, nyitó szövegrésze a 125/2013. (IV. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^31]: A 7. § (2) bekezdés a) pontja a 364/2014. (XII. 30.) Korm. rendelet 57. § b) pontja szerint módosított szöveg.
-[^32]: A 7. § (2) bekezdés c) pontja az 520/2013. (XII. 30.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^33]: A 7. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
-[^34]: A 7. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
-[^35]: A 7. § (4a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
-[^36]: A 7. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
-[^37]: A 7. § (6) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
-[^38]: A 7. § (6a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 53. §-a iktatta be.
-[^39]: A 7. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.
-[^40]: A 7. § (8) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be.
-[^41]: A 7. § (9) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
-[^42]: A 7. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 57. § c) pontja szerint módosított szöveg.
+[^32]: A 7. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^33]: A 7. § (2) bekezdés c) pontja az 520/2013. (XII. 30.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^34]: A 7. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^35]: A 7. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^36]: A 7. § (4a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^37]: A 7. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^38]: A 7. § (6) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^39]: A 7. § (6a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 53. §-a iktatta be.
+[^40]: A 7. § (7) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 30. § (4) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
+[^41]: A 7. § (8) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^42]: A 7. § (9) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 34. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^43]: A 7. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 57. § c) pontja szerint módosított szöveg.

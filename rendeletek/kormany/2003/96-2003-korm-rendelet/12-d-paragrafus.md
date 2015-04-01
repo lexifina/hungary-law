@@ -1,6 +1,6 @@
-## Alkalmazott orvos részvétele alapellátást végző egészségügyi szolgáltatás nyújtása során[^71]
+## Alkalmazott orvos részvétele alapellátást végző egészségügyi szolgáltatás nyújtása során[^72]
 
-12/D. §[^72] (1) Az a szakorvos-jelölt, illetve szakorvos, aki tevékenységét a praxisjoghoz kötött egészségügyi szolgáltatást nyújtó egészségügyi szolgáltató alkalmazásában vagy ezen egészségügyi szolgáltatóval kötött megbízási szerződés alapján végzi (e § alkalmazásában a továbbiakban együtt: alkalmazott orvos), önálló orvosi tevékenységet nem végezhet, abban kizárólag a praxisjoggal rendelkező orvos felelősségi körén belül és utasításai alapján, az egészségügyi szolgáltatóval fennálló munkaviszony vagy a megbízás keretei között vehet részt.
+12/D. §[^73] (1) Az a szakorvos-jelölt, illetve szakorvos, aki tevékenységét a praxisjoghoz kötött egészségügyi szolgáltatást nyújtó egészségügyi szolgáltató alkalmazásában vagy ezen egészségügyi szolgáltatóval kötött megbízási szerződés alapján végzi (e § alkalmazásában a továbbiakban együtt: alkalmazott orvos), önálló orvosi tevékenységet nem végezhet, abban kizárólag a praxisjoggal rendelkező orvos felelősségi körén belül és utasításai alapján, az egészségügyi szolgáltatóval fennálló munkaviszony vagy a megbízás keretei között vehet részt.
 
 (2) Az alkalmazott orvos – indokolt esetben – a háziorvost akkor helyettesítheti, ha a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló miniszteri rendeletben foglalt szakmai és személyi feltételeknek megfelel.
 
@@ -34,5 +34,5 @@ d) az ellátni kívánt egészségügyi szakma vagy szakmák megnevezését, sza
 
 e) az alkalmazott orvos nevét, pecsétszámát, egészségügyi alkalmassági vizsgálatának dátumát és eredményét.
 
-[^71]: A 12/D. §-t megelőző alcímet a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
-[^72]: A 12/D. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
+[^72]: A 12/D. §-t megelőző alcímet a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
+[^73]: A 12/D. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.

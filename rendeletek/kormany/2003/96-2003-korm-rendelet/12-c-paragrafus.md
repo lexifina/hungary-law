@@ -1,4 +1,4 @@
-12/C. §[^70] (1) Az egészségügyi államigazgatási szerv a személyes közreműködőt törli a hatósági nyilvántartásból, ha
+12/C. §[^71] (1) Az egészségügyi államigazgatási szerv a személyes közreműködőt törli a hatósági nyilvántartásból, ha
 
 a) a személyes közreműködő bejelenti a tevékenységének megszüntetését,
 
@@ -16,4 +16,4 @@ b) a személyes közreműködést igénybe vevő egészségügyi szolgáltató v
 
 (3) A hatósági nyilvántartásból történő törlésről a törlés időpontjában a személyes közreműködőt igénybe vevő szolgáltató működési engedélyének kiadására a 7. § (2) bekezdése alapján hatáskörrel rendelkező egészségügyi államigazgatási szerv dönt. A hatósági nyilvántartásból történő törlésről az egészségügyi államigazgatási szerv a személyes közreműködőt a törléstől számított 30 napon belül értesíti.
 
-[^70]: A 12/C. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
+[^71]: A 12/C. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
