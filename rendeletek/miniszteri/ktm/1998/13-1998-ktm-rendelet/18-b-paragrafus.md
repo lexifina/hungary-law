@@ -1,6 +1,6 @@
 ## Eljárási rendelkezések
 
-18/B. §[^84] (1) Valamennyi barlangra vonatkozó természetvédelmi hatósági engedély iránti kérelemnek tartalmaznia kell:
+18/B. §[^86] (1) Valamennyi barlangra vonatkozó természetvédelmi hatósági engedély iránti kérelemnek tartalmaznia kell:
 
 a) a kérelmező nevét, lakcímét (székhelyét); valamint
 
@@ -52,4 +52,4 @@ a) a barlangban tervezett tevékenységek pontos leírását; valamint
 
 b) a filmforgatásért felelős vezető nevét és címét.
 
-[^84]: A 18/B. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
+[^86]: A 18/B. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.

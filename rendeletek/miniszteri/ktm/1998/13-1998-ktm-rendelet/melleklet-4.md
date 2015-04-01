@@ -14,9 +14,9 @@
 
 ## 1. Barlangi túravezető képzés: 200 óra.
 
-## 2.[^94] Barlangi kutatásvezető képzés: 100 óra.
+## 2.[^96] Barlangi kutatásvezető képzés: 100 óra.
 
-## 3.[^95] Az összóraszámból mindkét képzés esetében 50% elmélet, 50% gyakorlat.
+## 3.[^97] Az összóraszámból mindkét képzés esetében 50% elmélet, 50% gyakorlat.
 
 ## III. A képzés szakmai követelményei
 
@@ -74,7 +74,7 @@
 
 ## – Jogi ismeretek.
 
-## –[^96] Csoport szervezési, képzési ismeretek.
+## –[^98] Csoport szervezési, képzési ismeretek.
 
 ## – Expedíciók szervezése, vezetése.
 
@@ -102,7 +102,7 @@
 
 ## IV. A vizsgáztatás követelményei
 
-## 1.[^97] A vizsgára bocsátás feltételei
+## 1.[^99] A vizsgára bocsátás feltételei
 
 ## Vizsgára az jelentkezhet, aki – barlangi túravezető esetén a III. 1–3. pontokban, barlangi kutatásvezető esetén a III. 1. és 4. pontokban foglalt– elméleti és gyakorlati szakképzésben részt vett, a követelményeket teljesítette és gyakorlata eredményes volt. A vizsgára való jelentkezés további feltétele:
 
@@ -126,7 +126,7 @@
 
 ## – szóbeli, a felkészülési idő minimum 30 perc.
 
-## V.[^98] Tananyag, vizsga
+## V.[^100] Tananyag, vizsga
 
 ## A képzés végzésére jogosult személy előzetesen tájékoztatja a Főfelügyelőséget a képzés helyéről, időpontjairól és az oktatók személyéről. A Főfelügyelőség előírhatja a képzés egyes elemeinek módosítását, amennyiben az nem felel meg a III. pont szerinti szakmai követelményeknek.
 
@@ -138,26 +138,26 @@
 
 ## A záróvizsgák díja – a IV. pont 2. b) alpontjában meghatározott – záróvizsgánként: 1000 Ft, melyet a Főfelügyelőség Magyar Államkincstárnál vezetett 10032000-00287261-00000000 számú előirányzat-felhasználási számlájára kell befizetni.
 
-## VII.[^99] A képzést folytatókra vonatkozó követelmények meghatározása
+## VII.[^101] A képzést folytatókra vonatkozó követelmények meghatározása
 
 ## A képzés folytatójának rendelkeznie kell a szükséges tárgyi és személyi feltételekkel, így:
 
 ## a) előadóteremmel, szemléltető eszközökkel,
 
-## b)[^100] az egyes szereplő szakterületeken felsőfokú végzettségű szakelőadókkal, a csak az e rendelet szerinti szakterületeken megfelelő képzettségű és legalább középfokú végzettségű előadókkal, valamint meghatározott (legalább 5 hallgatónként egy) számú e rendelet szerinti képzettséggel rendelkező gyakorlatvezetővel,
+## b)[^102] az egyes szereplő szakterületeken felsőfokú végzettségű szakelőadókkal, a csak az e rendelet szerinti szakterületeken megfelelő képzettségű és legalább középfokú végzettségű előadókkal, valamint meghatározott (legalább 5 hallgatónként egy) számú e rendelet szerinti képzettséggel rendelkező gyakorlatvezetővel,
 
 ## c) a gyakorlatok lebonyolításához szükséges technikai eszközökkel és engedélyekkel.
 
-## d)[^101]
+## d)[^103]
 
-4. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^102]
+4. számú melléklet a 13/1998. (V. 6.) KTM rendelethez[^104]
 
-[^94]: A 3. számú melléklet II. pont 2. alpontja az 58/2013. (VII. 11.) VM rendelet 23. § l) pontja szerint módosított szöveg.
-[^95]: A 3. számú melléklet II. pontjának 3. alpontja a 3/2007. (I. 22.) KvVM rendelet 13. §-ával megállapított szöveg.
-[^96]: A 3. számú melléklet III. pont 3. alpont ötödik franciabekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^97]: A 3. számú melléklet IV. pont 1. alpontja az 58/2013. (VII. 11.) VM rendelet 23. § m) pontja szerint módosított szöveg.
-[^98]: A 3. számú melléklet V. pontja a 10/2010. (IV. 28.) KvVM rendelet 3. § (3) bekezdésével megállapított, az 58/2013. (VII. 11.) VM rendelet 23. § n) pontja és 24. §-a szerint módosított szöveg.
-[^99]: A 3. számú melléklet VII. pontjának címe és nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^100]: A 3. számú melléklet VII. pont b) alpontja a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^101]: A 3. számú melléklet VII. pont d) alpontját a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^102]: A 4. számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^96]: A 3. számú melléklet II. pont 2. alpontja az 58/2013. (VII. 11.) VM rendelet 23. § l) pontja szerint módosított szöveg.
+[^97]: A 3. számú melléklet II. pontjának 3. alpontja a 3/2007. (I. 22.) KvVM rendelet 13. §-ával megállapított szöveg.
+[^98]: A 3. számú melléklet III. pont 3. alpont ötödik franciabekezdése a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^99]: A 3. számú melléklet IV. pont 1. alpontja az 58/2013. (VII. 11.) VM rendelet 23. § m) pontja szerint módosított szöveg.
+[^100]: A 3. számú melléklet V. pontja a 10/2010. (IV. 28.) KvVM rendelet 3. § (3) bekezdésével megállapított, az 58/2013. (VII. 11.) VM rendelet 23. § n) pontja és 24. §-a szerint módosított szöveg.
+[^101]: A 3. számú melléklet VII. pontjának címe és nyitó szövegrésze a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^102]: A 3. számú melléklet VII. pont b) alpontja a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^103]: A 3. számú melléklet VII. pont d) alpontját a 10/2010. (IV. 28.) KvVM rendelet 4. § (3) bekezdés f) pontja hatályon kívül helyezte, e módosító rendelet 4. § (1) bekezdése alapján a 2010. május 6-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^104]: A 4. számú melléklet a 148/2011. (XII. 29.) VM rendelet 3. § (5) bekezdése szerint módosított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.

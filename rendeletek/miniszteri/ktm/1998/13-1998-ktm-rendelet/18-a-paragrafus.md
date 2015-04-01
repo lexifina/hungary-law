@@ -1,6 +1,6 @@
-## A barlangok hasznosítása[^82]
+## A barlangok hasznosítása[^84]
 
-18/A. §[^83] (1) Az igazgatóság a vagyonkezelésében lévő barlangot turisztikai célból kizárólag maga hasznosíthatja, de a barlang használatát és a hasznok szedését harmadik fél részére külön jogszabályokban meghatározott feltételekkel átengedheti.
+18/A. §[^85] (1) Az igazgatóság a vagyonkezelésében lévő barlangot turisztikai célból kizárólag maga hasznosíthatja, de a barlang használatát és a hasznok szedését harmadik fél részére külön jogszabályokban meghatározott feltételekkel átengedheti.
 
 (2) A barlang hasznosítására vonatkozó, 18/B. § (2) bekezdés b) pontja szerinti üzemeltetési szabályzat kötelező tartalmi elemei a következők:
 
@@ -12,5 +12,5 @@ c) a túrákkal kapcsolatos rendelkezések, útvonalak, valamint
 
 d) a barlangra vonatkozó biztonsági előírások.
 
-[^82]: A 18/A. §-t megelőző alcímet az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
-[^83]: A 18/A. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
+[^84]: A 18/A. §-t megelőző alcímet az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
+[^85]: A 18/A. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.

@@ -1,4 +1,4 @@
-18/E. §[^87] (1) A Tvt. 51. § (1) és (3) bekezdése alapján kiadott engedélyt a természetvédelmi hatóság hivatalból módosíthatja, ha az engedély kiadását követően megváltoztak azok a környezetvédelmi, vízgazdálkodási vagy természetvédelmi feltételek illetve körülmények, amelyek az engedély kiadásának alapjául szolgáltak, és ezek folytán a barlang vagy az abban tartózkodó személyek védelmének szükséges szintje a kiadott engedély alapján a továbbiakban nem biztosítható.
+18/E. §[^89] (1) A Tvt. 51. § (1) és (3) bekezdése alapján kiadott engedélyt a természetvédelmi hatóság hivatalból módosíthatja, ha az engedély kiadását követően megváltoztak azok a környezetvédelmi, vízgazdálkodási vagy természetvédelmi feltételek illetve körülmények, amelyek az engedély kiadásának alapjául szolgáltak, és ezek folytán a barlang vagy az abban tartózkodó személyek védelmének szükséges szintje a kiadott engedély alapján a továbbiakban nem biztosítható.
 
 (2) A Tvt. 51. § (1) és (3) bekezdése alapján kiadott engedély visszavonható, ha az engedélyes a jogszabályban foglalt, illetve az engedélyben előírt feltételeknek és kötelezettségeknek a természetvédelmi hatóság felhívása ellenére az abban megállapított határidő alatt nem tesz eleget, vagy az engedélyes az engedélyben foglalt jogait egy éven át önhibájából nem gyakorolta.
 
@@ -18,4 +18,4 @@ c) az újonnan bejelentett barlangi kutatásvezető vagy kutatásvezető-helyett
 
 d) az igazgatóság vagyonkezelői hozzájárulását visszavonta.
 
-[^87]: A 18/E. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
+[^89]: A 18/E. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.

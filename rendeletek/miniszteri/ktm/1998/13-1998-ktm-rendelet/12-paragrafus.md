@@ -1,6 +1,6 @@
 ## Barlangok látogatásának, kutatásának feltételei[^30]
 
-12. §[^31] (1)[^32] Az igazgatóságnak a Tvt. 51. § (5) bekezdése szerinti vagyonkezelői hozzájárulása szükséges a 2. számú mellékletben felsorolt barlangok és a jogszerűen lezárt barlangok látogatásához. Nem kell az igazgatóság vagyonkezelői hozzájárulását beszerezni a felügyelőségnek, továbbá a természetvédelmi kezelési feladatokat ellátó személynek, valamint a Minisztérium Nyilvántartás vezetéséért felelős szervezeti egysége munkatársainak.
+12. §[^31] (1)[^32] Az igazgatóságnak a Tvt. 51. § (5) bekezdése szerinti vagyonkezelői hozzájárulása szükséges a 2. számú mellékletben felsorolt barlangok és a jogszerűen lezárt barlangok látogatásához. Nem kell az igazgatóság vagyonkezelői hozzájárulását beszerezni a természetvédelmi hatóságnak, továbbá a természetvédelmi kezelési feladatokat ellátó személynek, valamint a Minisztérium Nyilvántartás vezetéséért felelős szervezeti egysége munkatársainak.
 
 (2)[^33]
 
@@ -10,6 +10,6 @@
 
 [^30]: A 12. §-t megelőző alcímet az 58/2013. (VII. 11.) VM rendelet 9. §-a iktatta be.
 [^31]: A 12. § a 3/2007. (I. 22.) KvVM rendelet 6. §-ával megállapított szöveg.
-[^32]: A 12. § (1) bekezdése az 58/2013. (VII. 11.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^32]: A 12. § (1) bekezdése az 58/2013. (VII. 11.) VM rendelet 10. § (1) bekezdésével megállapított, a 15/2015. (III. 31.) FM rendelet 4. § d) pontja szerint módosított szöveg.
 [^33]: A 12. § (2) bekezdését az 58/2013. (VII. 11.) VM rendelet 24. §-a hatályon kívül helyezte.
 [^34]: A 12. § (4) bekezdése az 58/2013. (VII. 11.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.

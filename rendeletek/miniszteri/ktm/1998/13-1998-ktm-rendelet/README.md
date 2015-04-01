@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-13-20-6
 | 2012-04-21 | 1998-13-20-6D.9 | 36/2012. (IV. 13.) VM rendelet |
 | 2013-07-19 | 1998-13-20-6D.10 | 58/2013. (VII. 11.) VM rendelet |
 | 2014-01-01 | 1998-13-20-6D.11 | 132/2013. (XII. 23.) VM rendelet |
+| 2015-04-01 | 1998-13-20-6D.12 | 58/2013. (VII. 11.) VM rendelet |

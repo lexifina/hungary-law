@@ -1,4 +1,4 @@
-18/C. §[^85] (1) A barlangban végzett, a Tvt. 51. § (1) és (3) bekezdésében meghatározott tevékenységek engedélyezése során a természetvédelmi hatóság beszerzi az igazgatóság vagyonkezelői hozzájárulását, kivéve, ha az igazgatóság maga kívánja végezni a tevékenységet.
+18/C. §[^87] (1) A barlangban végzett, a Tvt. 51. § (1) és (3) bekezdésében meghatározott tevékenységek engedélyezése során a természetvédelmi hatóság beszerzi az igazgatóság vagyonkezelői hozzájárulását, kivéve, ha az igazgatóság maga kívánja végezni a tevékenységet.
 
 (2) A Tvt. 51. § (1) bekezdésében és 51. § (3) bekezdés b)–e) pontjaiban meghatározott tevékenységekre vonatkozó engedély határozott időtartamra, de legfeljebb 10 évre adható.
 
@@ -10,4 +10,4 @@
 
 (6) A természetvédelmi hatóság a megvalósulási dokumentáció alapján indult eljárásban dönt annak elfogadásáról, vagy – ha a megvalósított tevékenység természetvédelmi szempontból nem elfogadható – az engedélyes számára további beavatkozási kötelezettséget ír elő.
 
-[^85]: A 18/C. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
+[^87]: A 18/C. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.

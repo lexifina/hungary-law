@@ -4,7 +4,7 @@ a) jogszabály,
 
 b) jogerős bírósági vagy hatósági határozat,
 
-c)[^13] a felügyelőség, az igazgatóság vagy a Minisztérium tudomásszerzése
+c)[^13] a természetvédelmi hatóság, az igazgatóság vagy a Minisztérium tudomásszerzése
 
 ## alapján lehet.
 
@@ -16,10 +16,10 @@ c)[^13] a felügyelőség, az igazgatóság vagy a Minisztérium tudomásszerzé
 
 (5) A Nyilvántartás alapadataihoz kapcsolódó mellékletek tekintetében az (1)–(4) bekezdések rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a dokumentumok valóságtartalmáért azok kiállítója tartozik helytállni.
 
-(6)[^16] A felügyelőség és a Főfelügyelőség a Nyilvántartásba történő bejegyzés céljából köteles megküldeni a jogerőre emelkedést követő 15 napon belül a Minisztérium számára valamennyi, a Tvt. 51. § (1) és (3) bekezdésében meghatározott tevékenységekre vonatkozó jogerős határozatát és a határozat kiadásának alapjául szolgáló kérelmet, valamint engedélyezési dokumentációt.
+(6)[^16] A természetvédelmi hatósági jogkörében eljáró kormányhivatal és a Főfelügyelőség a Nyilvántartásba történő bejegyzés céljából köteles megküldeni a jogerőre emelkedést követő 15 napon belül a Minisztérium számára valamennyi, a Tvt. 51. § (1) és (3) bekezdésében meghatározott tevékenységekre vonatkozó jogerős határozatát és a határozat kiadásának alapjául szolgáló kérelmet, valamint engedélyezési dokumentációt.
 
 [^12]: A 7. § (1) bekezdése a 3/2005. (II. 22.) KvVM rendelet 4. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 9. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^13]: A 7. § (1) bekezdés c) pontja az 58/2013. (VII. 11.) VM rendelet 23. § d) pontja szerint módosított szöveg.
+[^13]: A 7. § (1) bekezdés c) pontja az 58/2013. (VII. 11.) VM rendelet 23. § d) pontja, a 15/2015. (III. 31.) FM rendelet 4. § b) pontja szerint módosított szöveg.
 [^14]: A 7. § (3) bekezdése az 58/2013. (VII. 11.) VM rendelet 23. § c) pontja szerint módosított szöveg.
 [^15]: A 7. § (4) bekezdése az 1/2006. (I. 13.) KvVM rendelet 1. §-ával megállapított, a 10/2010. (IV. 28.) KvVM rendelet 4. § (2) bekezdés d) pontja, az 58/2013. (VII. 11.) VM rendelet 23. § e) pontja szerint módosított szöveg.
-[^16]: A 7. § (6) bekezdését az 58/2013. (VII. 11.) VM rendelet 4. §-a iktatta be.
+[^16]: A 7. § (6) bekezdését az 58/2013. (VII. 11.) VM rendelet 4. §-a iktatta be, szövege a 15/2015. (III. 31.) FM rendelet 4. § c) pontja szerint módosított szöveg.

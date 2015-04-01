@@ -1,4 +1,4 @@
-18/D. §[^86] (1) A Tvt. 51. § (1) és (3) bekezdése alapján kiadott engedély az engedélyes kérelmére módosítható, ha:
+18/D. §[^88] (1) A Tvt. 51. § (1) és (3) bekezdése alapján kiadott engedély az engedélyes kérelmére módosítható, ha:
 
 a) az engedélyes az engedélyben meghatározott tevékenységtől el kíván térni; vagy
 
@@ -14,4 +14,4 @@ b) megváltoztak az engedély alapjául szolgáló körülmények és feltétele
 
 (6) A természetvédelmi hatóság fennmaradási engedélyt ad ki akkor is, ha a kutatás során beépítésre került, útvonal kijelölésére szolgáló, szilárdan rögzített, beszerelt kötél használatára kerül sor a barlang vagy barlangszakasz hasznosítása érdekében.
 
-[^86]: A 18/D. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
+[^88]: A 18/D. §-t az 58/2013. (VII. 11.) VM rendelet 20. §-a iktatta be.
