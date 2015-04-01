@@ -4,7 +4,7 @@
 
 (3) Azokban az esetekben, amikor az 1. számú mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatósági hatósági ügyekben eljáró szakhatóságként a 2. számú mellékletben meghatározott hatóságokat jelöli ki.
 
-(4)[^2] A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyek koordinációjára – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 8/A. §-ában foglaltak szerinti – feladat- és hatáskörrel rendelkező kormánymegbízottként a Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+(4)[^2] A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
 
 [^1]: Az 1. § (1) bekezdése a 37/2013. (II. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (4) bekezdését a 37/2013. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^2]: Az 1. § (4) bekezdését a 37/2013. (II. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 72/2015. (III. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 114. §-át.
