@@ -1,5 +1,7 @@
-## 16. § Hatályát veszti az Állami Egészségügyi Tartalékkal való gazdálkodás szabályairól szóló 17/2001. (IV. 28.) EüM rendelet 6. § (2) bekezdése.
+## 16. §[^7]
 
 ## 8. A biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló
 
 ## 38/2003. (VII. 7.) ESZCSM–FVM–KvVM együttes rendelet módosítása
+
+[^7]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
