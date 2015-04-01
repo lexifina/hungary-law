@@ -2,7 +2,11 @@
 
 a) az ingatlanra feljegyzett tények megszűnéséért;
 
-b) az olyan épületért, amelynél az építést vagy fennmaradást engedélyező határozat a későbbi lebontás esetére a kártalanítást kizárta, illetőleg amelynek a tulajdonos költségére való lebontását az építésügyi hatóság elrendelte.
+b) az olyan épületért,
+
+ba) amelynél az építést, a használatbevételt vagy fennmaradást engedélyező jogerős határozat a későbbi lebontás esetére a kártalanítást kizárta,
+
+bb) amelynek a lebontását az építésügyi vagy az építésfelügyeleti hatóság jogerős döntéssel elrendelte.
 
 (2)
 
