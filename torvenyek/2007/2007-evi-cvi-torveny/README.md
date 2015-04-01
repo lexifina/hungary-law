@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2007-106-00-00.31 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2007-106-00-00.32 |
 | 2015-02-01 | 2014. évi XCIX. törvény | 2007-106-00-00.33 |
+| 2015-04-01 | 2015. évi VI. törvény | 2007-106-00-00.34 |
