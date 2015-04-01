@@ -1,6 +1,6 @@
-## 8. §[^5] E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az 1. melléklet 1. pontjában foglalt táblázatnak az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 307/2014. (XII. 5.) Korm. rendelettel megállapított 285–291. sorában meghatározott projektekkel összefüggő, folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^6] E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az 1. melléklet 1. pontjában foglalt táblázatnak az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 307/2014. (XII. 5.) Korm. rendelettel megállapított 285–291. sorában meghatározott projektekkel összefüggő, folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^6]
+1. melléklet a 29/2013. (II. 12.) Korm. rendelethez[^7]
 
 ## A kiemelt jelentőségű ügyek alapját képező szennyvíz-elvezetési és -tisztítási beruházások
 
@@ -780,5 +780,5 @@
 
 | 90. | BUDAKALÁSZ VÁROS ÖNKORMÁNYZATA | KEOP-1.2.0/09-11-2013-0064 |
 
-[^5]: A 8. §-t a 307/2014. (XII. 5.) Korm. rendelet 5. §-a iktatta be.
-[^6]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a, a 231/2014. (IX. 5.) Korm. rendelet 2–3. §-a, a 307/2014. (XII. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^6]: A 8. §-t a 307/2014. (XII. 5.) Korm. rendelet 5. §-a iktatta be.
+[^7]: Az 1. melléklet a 357/2013. (X. 8.) Korm. rendelet 2. §-a, a 84/2014. (III. 14.) Korm. rendelet 2. §-a, a 231/2014. (IX. 5.) Korm. rendelet 2–3. §-a, a 307/2014. (XII. 5.) Korm. rendelet 6. §-a szerint módosított szöveg.
