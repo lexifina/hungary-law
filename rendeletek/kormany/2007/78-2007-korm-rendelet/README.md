@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-78-20-2
 | 2014-09-05 | 2007-78-20-22.5 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2014-11-15 | 2007-78-20-22.6 | 118/2008. (V. 8.) Korm. rendelet |
 | 2014-12-15 | 2007-78-20-22.7 | 310/2014. (XII. 11.) Korm. rendelet |
+| 2015-04-01 | 2007-78-20-22.8 | 310/2014. (XII. 11.) Korm. rendelet |

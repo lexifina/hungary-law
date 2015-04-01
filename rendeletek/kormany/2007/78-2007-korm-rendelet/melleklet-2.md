@@ -308,6 +308,6 @@
 
 ## 9.2.10. Kiállítás dátuma (év/hó/nap)
 
-2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^24]
+2. melléklet a 78/2007. (IV. 24.) Korm. rendelethez[^25]
 
-[^24]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^25]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
