@@ -4,10 +4,10 @@
 
 (2) Az 1–31. §, a 32. § (3) és (4) bekezdése, továbbá a 33. § (1) és (2) bekezdése 2012. március 15-én lép hatályba.
 
-(3)[^77] E rendeletnek a Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet módosításáról szóló 265/2014. (X. 21.) Korm. rendelettel [a továbbiakban: 265/2014. (X. 21.) Korm. rendelet] megállapított 13. § (7) bekezdését a 265/2014. (X. 21.) Korm. rendelet hatálybalépésekor[^78] folyamatban lévő ügyekben is alkalmazni kell.
+(3)[^91] E rendeletnek a Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet módosításáról szóló 265/2014. (X. 21.) Korm. rendelettel [a továbbiakban: 265/2014. (X. 21.) Korm. rendelet] megállapított 13. § (7) bekezdését a 265/2014. (X. 21.) Korm. rendelet hatálybalépésekor[^92] folyamatban lévő ügyekben is alkalmazni kell.
 
-(4)[^79]
+(4)[^93]
 
-[^77]: A 32. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 265/2014. (X. 21.) Korm. rendelet 2. §-a iktatta be.
-[^78]: A hatálybalépés napja: 2014. október 22.
-[^79]: A 32. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 32. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 265/2014. (X. 21.) Korm. rendelet 2. §-a iktatta be.
+[^92]: A hatálybalépés napja: 2014. október 22.
+[^93]: A 32. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

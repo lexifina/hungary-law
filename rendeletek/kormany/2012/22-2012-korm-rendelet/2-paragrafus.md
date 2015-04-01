@@ -22,10 +22,12 @@ i) működteti a NÉBIH laboratóriumait,
 
 j) jogszabályban meghatározott keretek között kidolgozza és fejleszti az elektronikus kapcsolattartás, adatátvitel és adatbázis technikai rendszerét a NÉBIH feladatellátásával összefüggésben.
 
-(2)[^3] Az elnök a fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) mezőgazdasági szakigazgatási szerve tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője.
+(2)[^3] A fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-(3) Az elnök a (2) bekezdésben meghatározott jogkörében a megyei kormányhivatal mezőgazdasági szakigazgatási szervének kormánytisztviselőjét jogszabályban meghatározott járványügyi, vagy más kiemelt jelentőségű okból azonnali intézkedést igénylő esetben közvetlenül utasíthatja feladat elvégzésére vagy mulasztás pótlására, továbbá jelentést kérhet.
+(3)[^4] A fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § g) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket a NÉBIH gyakorolja.
 
-(4) Az elnök kibocsátja a NÉBIH, valamint a megyei kormányhivatal mezőgazdasági szakigazgatási szerv hatósági eljárásban részt vevő kormánytisztviselői részére kiadásra kerülő igazolványt.
+(4)[^5] Az elnök a megyei kormányhivatal kormánytisztviselőjét jogszabályban meghatározott járványügyi, vagy más kiemelt jelentőségű okból azonnali intézkedést igénylő esetben közvetlenül utasíthatja feladat elvégzésére vagy mulasztás pótlására, továbbá jelentést kérhet.
 
-[^3]: A 2. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 74. §-a szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (1) bekezdésével megállapított szöveg.
