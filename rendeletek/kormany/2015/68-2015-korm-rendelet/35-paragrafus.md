@@ -1,0 +1,1 @@
+## 34. § A védett természeti területen található nemzetközi vagy kiemelt jelentőségű vízi élőhelyeken történő vízivad vadászat rendjének szabályozására irányuló eljárásban szakkérdésként kell vizsgálni, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e.

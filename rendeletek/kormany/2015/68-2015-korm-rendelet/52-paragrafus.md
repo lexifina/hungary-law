@@ -1,0 +1,1 @@
+## szakhatóságként jelöli ki.

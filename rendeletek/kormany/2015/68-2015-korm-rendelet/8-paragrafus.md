@@ -1,0 +1,13 @@
+8. § (1) Az állati eredetű melléktermékekből készített komposztok mezőgazdasági területen történő felhasználásának hatósági engedélyezési eljárása tekintetében a Kormány élelmiszerlánc-felügyeleti szervként az élelmiszerlánc-biztonsági és állat-egészségügyi hatóságként eljáró megyei kormányhivatalt jelöli ki.
+
+(2) Az Éltv. 17. § (1) bekezdés c) pontjában és a (4) bekezdésben foglalt védekezési kötelezettség megszegése esetén a növényvédelmi bírság kiszabására a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatal jogosult.
+
+(3) Az állami védekezés elrendelésére a NÉBIH előzetes tájékoztatásával a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatal jogosult.
+
+(4) A növények, növényi termékek határforgalmának növény-egészségügyi, növényvédelmi, forgalmazási-minőségszabványoknak való megfelelési, és a bizonyos kockázatot jelentő növényi termékek élelmiszerbiztonsági ellenőrzését a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatal látja el. A szomszédos ország területén működő magyar növény-egészségügyi határkirendeltség a működtetés, illetve a közszolgálati jogviszony szempontjából a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatal helye szerinti, annak szervezeti egységét képező belföldi munkahelynek minősül.
+
+(5) A közérdekű védekezés elrendelésére külterületen a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatal jogosult. Ha belterületi ingatlan esetében a települési (fővárosban a kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat nem tesz eleget a védekezési kötelezettségének, a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatal rendeli el a közérdekű védekezést.
+
+(6) A települési (fővárosban kerületi) önkormányzat jegyzőjének, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőnek a helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatáskörének megállapításával kapcsolatos földművelésügyi ágazati jogszabályok módosításáról szóló 19/1992. (I. 28.) Korm. rendelet 1. § (1) bekezdés g) pontja alapján elsőfokon hozott döntése esetében másodfokon a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatal jár el.
+
+(7) A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 2. § (3) bekezdés c) pontjában és 19. § (9) bekezdésében foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatalt jelöli ki.
