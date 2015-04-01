@@ -2,9 +2,9 @@
 
 ## A SZOCIÁLIS FOGLALKOZTATÁSI ENGEDÉLY
 
-2. § (1)[^11] A szociális foglalkoztatási engedéllyel kapcsolatos hatósági eljárásban első fokon a szociális intézmény székhelye, illetőleg telephelye szerint illetékes szociális és gyámhivatal (a továbbiakban: szociális és gyámhivatal) jár el.
+2. § (1)[^11] A szociális foglalkoztatási engedéllyel kapcsolatos hatósági eljárásban első fokon szociális hatóságként a szociális intézmény székhelye, illetve telephelye szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: szociális hatóság) jár el.
 
-(2)[^12] A szociális foglalkoztatási engedély iránti kérelmet a foglalkoztató nyújtja be a szociális és gyámhivatalhoz, amely foglalkoztatási helyenként és foglalkoztatási formánként külön-külön megvizsgálja az engedélyezési feltételeket.
+(2)[^12] A szociális foglalkoztatási engedély iránti kérelmet a foglalkoztató nyújtja be a szociális hatósághoz, amely foglalkoztatási helyenként és foglalkoztatási formánként külön-külön megvizsgálja az engedélyezési feltételeket.
 
 (3)[^13] A szociális foglalkoztatás iránti kérelem tartalmazza
 
@@ -58,8 +58,8 @@ k)[^21] a szociális intézmény tevékenységére vonatkozó – külön jogsza
 
 (5a)[^23] Ha a külső foglalkoztató cégjegyzékben nyilvántartott cég, annak cégkivonatát a hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-[^11]: A 2. § (1) bekezdése a 321/2006. (XII. 23.) Korm. rendelet 9. § (2) bekezdésével megállapított és a 371/2007. (XII. 23.) Korm. rendelet 11. § (5) bekezdésének a) pontja szerint módosított szöveg.
-[^12]: A 2. § (2) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^11]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 78. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § (2) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^13]: A 2. § (3) bekezdése a 371/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^14]: A 2. § (4) bekezdését a 371/2007. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^15]: A 2. § (4) bekezdésének da) alpontja a 174/2009. (VIII. 29.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.

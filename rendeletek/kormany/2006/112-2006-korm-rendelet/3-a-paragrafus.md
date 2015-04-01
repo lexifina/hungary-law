@@ -1,4 +1,4 @@
-3/A. §[^31] (1) A szociális és gyámhivatal a szociális foglalkoztatást engedélyezi, ha
+3/A. §[^32] (1)[^33] A szociális hatóság a szociális foglalkoztatást engedélyezi, ha
 
 a) a kérelem megfelel az e rendeletben előírtaknak,
 
@@ -8,11 +8,11 @@ c) a kérelmező biztosítja a külön jogszabályban meghatározott tárgyi és
 
 d) a foglalkoztatási szakmai program megfelel a külön jogszabályban meghatározott követelményeknek, a szociális foglalkoztatás céljainak megvalósulását elősegíti, valamint összhangban áll a szociális intézmény szakmai programjával.
 
-(2)[^32] Nappali intézmény esetén a szociális foglalkoztatás engedélyezésének további feltétele, hogy az intézmény a szociális foglalkoztatás iránti kérelem benyújtásakor legalább 6 hónapja – a szolgáltatói nyilvántartásba jogerősen bejegyezve – nappali ellátást nyújtson.
+(2)[^34] Nappali intézmény esetén a szociális foglalkoztatás engedélyezésének további feltétele, hogy az intézmény a szociális foglalkoztatás iránti kérelem benyújtásakor legalább 6 hónapja – a szolgáltatói nyilvántartásba jogerősen bejegyezve – nappali ellátást nyújtson.
 
-(3)[^33] A 8. számú melléklet szerinti tevékenységre szociális foglalkoztatási engedély nem adható.
+(3)[^35] A 8. számú melléklet szerinti tevékenységre szociális foglalkoztatási engedély nem adható.
 
-(4) A szociális és gyámhivatal a szociális foglalkoztatási engedély iránti kérelmet elutasítja, amennyiben a kérelem benyújtását megelőző egy éven belül a szociális intézményben ellátottak foglalkoztatására kiadott szociális foglalkoztatási engedélyt – a 6. § (4) bekezdésének c) vagy d) pontja vagy (6) bekezdésének e) pontja alapján – jogerősen visszavonták.
+(4)[^36] A szociális hatóság a szociális foglalkoztatási engedély iránti kérelmet elutasítja, amennyiben a kérelem benyújtását megelőző egy éven belül a szociális intézményben ellátottak foglalkoztatására kiadott szociális foglalkoztatási engedélyt – a 6. § (4) bekezdésének c) vagy d) pontja vagy (6) bekezdésének e) pontja alapján – jogerősen visszavonták.
 
 (5) A szociális foglalkoztatási engedély tartalmazza
 
@@ -24,19 +24,21 @@ c) a szociális foglalkoztatás helyét,
 
 d) a szociális foglalkoztatás keretében végzett tevékenység – a 2. § (3) bekezdésének e) pontjában foglalt besorolás szerinti – megnevezését és számát,
 
-e)[^34] az ellátottakkal, illetve törvényes képviselőjükkel szociális foglalkoztatás céljából kötött, egyidejűleg fennálló szerződések maximális számát, amely nem haladhatja meg az intézménynek a szolgáltatói nyilvántartásba bejegyzett férőhelyszámát,
+e)[^37] az ellátottakkal, illetve törvényes képviselőjükkel szociális foglalkoztatás céljából kötött, egyidejűleg fennálló szerződések maximális számát, amely nem haladhatja meg az intézménynek a szolgáltatói nyilvántartásba bejegyzett férőhelyszámát,
 
 f) intézményi foglalkoztató esetén az intézmény, telephely ágazati azonosítóját,
 
 g) külső foglalkoztató esetén a foglalkoztató adószámát.
 
-(6)[^35] A szociális és gyámhivatal a szociális foglalkoztatási engedély jogerőre emelkedését követő 15 napon belül az 1. számú melléklet szerinti tanúsítványt állítja ki. A foglalkoztató a tanúsítványt a foglalkoztatás helyszínén jól látható helyen kifüggeszti.
+(6)[^38] A szociális hatóság a szociális foglalkoztatási engedély jogerőre emelkedését követő 15 napon belül az 1. számú melléklet szerinti tanúsítványt állítja ki. A foglalkoztató a tanúsítványt a foglalkoztatás helyszínén jól látható helyen kifüggeszti.
 
-(7)[^36] Az ellátottakkal, illetve törvényes képviselőjükkel szociális foglalkoztatás céljából kötött, egyidejűleg fennálló szerződések számának megállapítása során figyelmen kívül kell hagyni a foglalkoztatott szerződését abban az időszakban, amelyben egészségi állapotára tekintettel a munkavégzésben nem tud részt venni, amennyiben igazolt távolléte idejére feladategység nem számolható el.
+(7)[^39] Az ellátottakkal, illetve törvényes képviselőjükkel szociális foglalkoztatás céljából kötött, egyidejűleg fennálló szerződések számának megállapítása során figyelmen kívül kell hagyni a foglalkoztatott szerződését abban az időszakban, amelyben egészségi állapotára tekintettel a munkavégzésben nem tud részt venni, amennyiben igazolt távolléte idejére feladategység nem számolható el.
 
-[^31]: A 3/A. §-t a 174/2009. (VIII. 29.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
-[^32]: A 3/A. § (2) bekezdése a 369/2013. (X. 24.) Korm. rendelet 53. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^33]: A 3/A. § (3) bekezdését a 174/2009. (VIII. 29.) Korm. rendelet 35. § (11) bekezdése alapján a 2009. szeptember 1. napját követően benyújtott kérelmek tekintetében kell alkalmazni.
-[^34]: A 3/A. § (5) bekezdés e) pontja a 279/2009. (XII. 9.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 369/2013. (X. 24.) Korm. rendelet 53. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^35]: A 3/A. § (6) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 16. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^36]: A 3/A. § (7) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^32]: A 3/A. §-t a 174/2009. (VIII. 29.) Korm. rendelet 17. §-a iktatta be. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
+[^33]: A 3/A. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^34]: A 3/A. § (2) bekezdése a 369/2013. (X. 24.) Korm. rendelet 53. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^35]: A 3/A. § (3) bekezdését a 174/2009. (VIII. 29.) Korm. rendelet 35. § (11) bekezdése alapján a 2009. szeptember 1. napját követően benyújtott kérelmek tekintetében kell alkalmazni.
+[^36]: A 3/A. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^37]: A 3/A. § (5) bekezdés e) pontja a 279/2009. (XII. 9.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 369/2013. (X. 24.) Korm. rendelet 53. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^38]: A 3/A. § (6) bekezdése a 357/2010. (XII. 30.) Korm. rendelet 16. § (1) bekezdés c) pontja, a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^39]: A 3/A. § (7) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 2. § (3) bekezdése iktatta be.

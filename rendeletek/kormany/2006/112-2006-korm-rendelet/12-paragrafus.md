@@ -1,6 +1,6 @@
-12. §[^83] (1)[^84] A bizottság javaslatának beérkezésétől számított 8 napon belül a Hivatal a pályázatokat döntésre terjeszti fel a miniszternek. A pályázatokról a miniszter a felterjesztés beérkezését követő 8 napon belül dönt, és a döntésről haladéktalanul tájékoztatja a Hivatal főigazgatóját.
+12. §[^90] (1)[^91] A bizottság javaslatának beérkezésétől számított 8 napon belül a Hivatal a pályázatokat döntésre terjeszti fel a miniszternek. A pályázatokról a miniszter a felterjesztés beérkezését követő 8 napon belül dönt, és a döntésről haladéktalanul tájékoztatja a Hivatal főigazgatóját.
 
-(2)[^85] A miniszter az (1) bekezdés szerinti döntését
+(2)[^92] A miniszter az (1) bekezdés szerinti döntését
 
 a) a szociális foglalkoztatás Szt. szerinti céljainak érvényesülése,
 
@@ -20,7 +20,7 @@ alapján hozza meg.
 
 (3) A pályázat nem támogatható, ha a pénzügyi-gazdálkodási tervben tervezett bevételek nem teljesíthetőek, a kiadások nem állnak összhangban a foglalkoztatási szakmai programban bemutatott személyi és tárgyi feltételekkel és a vállalt feladatokkal, vagy a foglalkoztatás működésének pénzügyi feltételei egyéb okból nem biztosítottak.
 
-(4)[^86] A Hivatal a döntésről – a miniszteri döntést követő 8 napon belül – elektronikus pályázatkezelő rendszerén keresztül értesíti a pályázókat. Az értesítés tartalmazza
+(4)[^93] A Hivatal a döntésről – a miniszteri döntést követő 8 napon belül – elektronikus pályázatkezelő rendszerén keresztül értesíti a pályázókat. Az értesítés tartalmazza
 
 a) a fenntartó nevét, székhelyét és adószámát;
 
@@ -46,10 +46,10 @@ a) a (4) bekezdés ca)–cc) alpontja szerinti foglalkoztatási feltételek elt�
 
 b) a támogatási szerződés a döntésről szóló értesítésben megjelölt időpontig a fenntartó mulasztásából vagy neki felróható egyéb okból nem jön létre.
 
-(6)[^87] Az (5) bekezdés b) pontja szerinti körülmények fennállásáról – a határidő leteltét, illetve a valós adatokról, tényekről, körülményekről történő tudomásszerzést követő 8 napon belül – a Hivatal elektronikus úton értesíti a fenntartót.
+(6)[^94] Az (5) bekezdés b) pontja szerinti körülmények fennállásáról – a határidő leteltét, illetve a valós adatokról, tényekről, körülményekről történő tudomásszerzést követő 8 napon belül – a Hivatal elektronikus úton értesíti a fenntartót.
 
-[^83]: A 12. § a 279/2009. (XII. 9.) Korm. rendelet 9. §-ával megállapított szöveg, a §-t megelőző alcímet e módosító rendelet 33. § (1) bekezdés a) pont ab) alpontja hatályon kívül helyezte.
-[^84]: A 12. § (1) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^85]: A 12. § (2) bekezdés nyitó szövegrésze a 317/2012. (XI. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^86]: A 12. § (4) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § e) pontja, a 317/2012. (XI. 13.) Korm. rendelet 13. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^87]: A 12. § (6) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^90]: A 12. § a 279/2009. (XII. 9.) Korm. rendelet 9. §-ával megállapított szöveg, a §-t megelőző alcímet e módosító rendelet 33. § (1) bekezdés a) pont ab) alpontja hatályon kívül helyezte.
+[^91]: A 12. § (1) bekezdése a 317/2012. (XI. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^92]: A 12. § (2) bekezdés nyitó szövegrésze a 317/2012. (XI. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^93]: A 12. § (4) bekezdés nyitó szövegrésze a 332/2010. (XII. 27.) Korm. rendelet 19. § e) pontja, a 317/2012. (XI. 13.) Korm. rendelet 13. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^94]: A 12. § (6) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.

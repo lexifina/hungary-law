@@ -1,3 +1,3 @@
-6/B. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^171]
+6/B. számú melléklet a 112/2006. (V. 12.) Korm. rendelethez[^178]
 
-[^171]: A 6/B. számú mellékletet a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.
+[^178]: A 6/B. számú mellékletet a 279/2009. (XII. 9.) Korm. rendelet 33. § (1) bekezdés a) pont ac) alpontja hatályon kívül helyezte.
