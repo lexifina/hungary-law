@@ -8,7 +8,7 @@ b) táj- és természetvédelmi, környezetvédelmi, erdővédelmi, valamint kul
 
 c) a tervezett funkció ellátásához szükséges műszaki infrastruktúra kapacitás azt lehetővé teszi vagy a terület igénybevételével párhuzamosan kiépül.
 
-(3) Városias települési térségben és hagyományosan vidéki települési térségben új beépítésre szánt terület a település közigazgatási határához 200 méternél közelebb csak az állami főépítésznek a területrendezési hatósági eljárás során kiadott területfelhasználási engedélye alapján jelölhető ki.
+(3) Városias települési térségben és hagyományosan vidéki települési térségben új beépítésre szánt terület a település közigazgatási határához 200 méternél közelebb csak az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak a területrendezési hatósági eljárás során kiadott területfelhasználási engedélye alapján jelölhető ki.
 
 (4) Városias települési térségben és hagyományosan vidéki települési térségben új lakóterületet, illetve vegyes területet csak a települési területhez kapcsolódóan lehet kijelölni.
 
