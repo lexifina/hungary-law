@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-341-20-
 | 2013-01-01 | 2007-341-20-22.5 | 281/2012. (X. 1.) Korm. rendelet |
 | 2013-01-02 | 2007-341-20-22.6 | 353/2012. (XII. 13.) Korm. rendelet |
 | 2014-01-01 | 2007-341-20-22.7 | 543/2013. (XII. 30.) Korm. rendelet |
+| 2015-04-01 | 2007-341-20-22.8 | 70/2015. (III. 30.) Korm. rendelet |
