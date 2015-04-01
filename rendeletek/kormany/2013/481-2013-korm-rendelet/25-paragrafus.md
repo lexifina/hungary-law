@@ -1,1 +1,0 @@
-## 24. § Ha a természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek kereskedelmi célú begyűjtésére vonatkozó tevékenység több hatóság illetékességi területéhez tartozik, az engedélyező hatóság az OKTF.
