@@ -2,9 +2,9 @@
 
 a)[^1] 5. cikke (3) bekezdésének a) pontjában meghatározott adatszolgáltatási kötelezettség tekintetében az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség),
 
-b)[^2] 6. cikkében meghatározott adatszolgáltatási kötelezettség tekintetében a létesítmény helye szerint illetékes környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség)
+b)[^2] 6. cikkében meghatározott adatszolgáltatási kötelezettség tekintetében a létesítmény helye szerint illetékes környezetvédelmi hatóság
 
 az illetékes hatóság.
 
 [^1]: Az 1. § a) pontja az 527/2013. (XII. 30.) Korm. rendelet 81. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § b) pontja az 527/2013. (XII. 30.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.
+[^2]: Az 1. § b) pontja a 70/2015. (III. 30.) Korm. rendelet 147. § a) pontja szerint módosított szöveg.
