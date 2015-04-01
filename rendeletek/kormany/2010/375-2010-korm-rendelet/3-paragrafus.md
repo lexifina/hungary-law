@@ -12,7 +12,7 @@ legfeljebb 4 hónap időtartamra szóló, határozott idejű közfoglalkoztatás
 
 (3) Támogatás állapítható meg továbbá a (4) bekezdésben foglalt közvetlen költségekhez, melynek mértéke legfeljebb a ténylegesen foglalkoztatottak után a közfoglalkoztatási bérhez és járulékaihoz nyújtott támogatási összeg 5 százaléka.
 
-(4)[^7] A foglalkoztatásból eredő közvetlen költségként a foglalkozás-egészségügyi vizsgálat térítési díja, a munka- és védőruházat és egyéni védőeszköz költsége, a munkába járással kapcsolatos utazási költségtérítésről szóló jogszabály szerint a munkaadót terhelő utazási költség, a munkásszállítás költsége, a megyei (fővárosi) kormányhivatal járási (fővárosi kerületi) hivatalának munkaügyi kirendeltségével (a továbbiakban: kirendeltség) történő előzetes egyeztetés szerint a munkavégzéshez nélkülözhetetlen munkaeszközök költsége számolható el.
+(4)[^7] A foglalkoztatásból eredő közvetlen költségként a foglalkozás-egészségügyi vizsgálat térítési díja, a munka- és védőruházat és egyéni védőeszköz költsége, a munkába járással kapcsolatos utazási költségtérítésről szóló jogszabály szerint a munkaadót terhelő utazási költség, a munkásszállítás költsége, a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal) történő előzetes egyeztetés szerint a munkavégzéshez nélkülözhetetlen munkaeszközök költsége számolható el.
 
 (5) Több közfoglalkoztatott foglalkoztatása után megállapított közvetlen költség összevontan is felhasználható.
 
@@ -24,5 +24,5 @@ legfeljebb 4 hónap időtartamra szóló, határozott idejű közfoglalkoztatás
 [^4]: A 3. § a 171/2011. (VIII. 24.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^5]: A 3. § (1) bekezdése a 136/2012. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 3. § (2) bekezdése a 296/2014. (XI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 81. §-a szerint módosított szöveg.
+[^7]: A 3. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 167. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^8]: A 3. § (7) bekezdését a 382/2013. (XI. 4.) Korm. rendelet 1. §-a iktatta be, szövege a 296/2014. (XI. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

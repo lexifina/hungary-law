@@ -1,6 +1,6 @@
-## 9/A. §[^62]
+## 9/A. §[^68]
 
-## 10. §[^63] E rendelet 5. §-a
+## 10. §[^69] E rendelet 5. §-a
 
 a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.06.26., 1. o.),
 
@@ -12,5 +12,5 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^62]: A 9/A. §-t a 171/2011. (VIII. 24.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 136/2012. (VI. 28.) Korm. rendelet 9. §-a.
-[^63]: A 10. § a 296/2014. (XI. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^68]: A 9/A. §-t a 171/2011. (VIII. 24.) Korm. rendelet 24. §-a iktatta be, hatályon kívül helyezte a 136/2012. (VI. 28.) Korm. rendelet 9. §-a.
+[^69]: A 10. § a 296/2014. (XI. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
