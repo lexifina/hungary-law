@@ -4,13 +4,13 @@
 
 a)[^25] a fogyasztóvédelmi hatósággal;
 
-b)[^26] a fővárosi és megyei kormányhivatal munkavédelmi felügyelőségével és a munkaügyi felügyelőségével,
+b)[^26] a munkavédelmi és a munkaügyi hatósággal;
 
 c) az illetékes rendőrkapitánysággal;
 
-d)[^27] jövedéki termék esetében a vámhatósággal; élelmiszer, takarmány, állatgyógyászati készítménynek nem minősülő állatgyógyászati termék forgalmazása esetén a járási állat-egészségügyi hivatallal, vagy termésnövelő anyag forgalmazása esetén a növény- és talajvédelmi igazgatósággal.
+d)[^27] jövedéki termék esetében a vámhatósággal; élelmiszer, takarmány, állatgyógyászati készítménynek nem minősülő állatgyógyászati termék forgalmazása esetén a megyei kormányhivatal állat-egészségügyi és élelmiszer-ellenőrző feladatkörében eljáró járási hivatalával, termésnövelő anyag forgalmazása esetén a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatallal.
 
 [^24]: A 9. § (1) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
 [^25]: A 9. § (2) bekezdés a) pontja a 351/2010. (XII. 30.) Korm. rendelet 257. § (2) bekezdésével megállapított szöveg.
-[^26]: A 9. § (2) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (6) bekezdésével megállapított szöveg.
-[^27]: A 9. § (2) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 256. § (7) bekezdésével megállapított, a 418/2012. (XII. 29.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^26]: A 9. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 142. § (8) bekezdésével megállapított szöveg.
+[^27]: A 9. § (2) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 142. § (9) bekezdésével megállapított szöveg.
