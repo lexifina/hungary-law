@@ -1,1 +1,0 @@
-## „(10) A hatósági árelőkészítés érdekében az egyetemes szolgáltatók minden negyedévet megelőző második hónap 1. napjáig kötelesek megadni a Hivatal részére a forrásszerződéseik szerint felhasználni tervezett földgáz mennyiségét – források szerinti – bontásban.”
