@@ -1,4 +1,4 @@
-4. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^15]
+4. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^18]
 
 ## Írásbeli tájékoztatás a járművezető távollétében kiszabott közigazgatási bírságról
 
@@ -24,4 +24,4 @@
 
 11. Az eljáró hatóság megnevezése, bélyegzőlenyomata, a hatóság eljáró tagjának aláírása.
 
-[^15]: A 4. mellékletet a 47/2012. (VIII. 23.) NFM rendelet 8. § (2) bekezdése iktatta be.
+[^18]: A 4. mellékletet a 47/2012. (VIII. 23.) NFM rendelet 8. § (2) bekezdése iktatta be.
