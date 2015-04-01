@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2014-07-24 | 2014. évi XXXVI. törvény | 2011-204-00-00.18 |
 | 2014-09-01 | 2014. évi XXXVI. törvény | 2011-204-00-00.19 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2011-204-00-00.20 |
+| 2015-04-01 | 2015. évi VI. törvény | 2011-204-00-00.21 |
