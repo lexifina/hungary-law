@@ -1,3 +1,3 @@
-## 22. §[^1]
+## 22. §[^2]
 
-[^1]: A 22. § a 19. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
+[^2]: A 22. § a 19. § (2) bekezdése alapján 2018. július 1-jén lép hatályba.
