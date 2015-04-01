@@ -124,7 +124,9 @@ j) a telek ára,
 
 21.[^13] igénylő: olyan támogatott személy, aki az e rendelet szerinti kamattámogatás igénybevétele iránt kérelmet nyújtott be a hitelintézethez, azonban a kamattámogatással érintett kölcsönszerződésének megkötésére még nem került sor,
 
-22.[^14] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel.
+22.[^14] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel,
+
+23.[^15] kormányhivatal: amennyiben e rendelet eltérően nem rendelkezik, a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes megyei kormányhivatal, Pest megye vagy a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala.
 
 (3) Az e rendeletben meg nem határozott fogalmakat a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvényben, illetve az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben meghatározottak szerint kell értelmezni.
 
@@ -132,13 +134,13 @@ j) a telek ára,
 
 a) a 7. § (1) bekezdés b) pont bb) alpontjában, (7) és (9) bekezdésében meghatározott esetben az adózás rendjéről szóló törvény rendelkezései alapján az állami adóhatóság,
 
-b) az a) pont hatálya alá nem tartozó esetekben a Magyar Államkincstár (a továbbiakban: Kincstár)
+b)[^16] az a) pont hatálya alá nem tartozó esetekben a kormányhivatal
 
 ## ellenőrzi.
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
 
-(6)[^15] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
+(6)[^17] Az e rendeletben meghatározott feltételekkel a központi költségvetésből kamattámogatást igényelhet:
 
 a) a magyar állampolgár,
 
@@ -150,7 +152,7 @@ d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tar
 
 e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkezik.
 
-(7)[^16] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
+(7)[^18] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
 
 a) nyilatkozik és vállalja az 5. § (1) bekezdésben foglaltakat és
 
@@ -174,5 +176,7 @@ bb) az e rendelet szerinti kamattámogatásos kölcsönnel érintett lakásban l
 [^12]: Az 1. § (2) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
 [^13]: Az 1. § (2) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
 [^14]: Az 1. § (2) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
-[^15]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^16]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^15]: Az 1. § (2) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 136. § (1) bekezdése iktatta be.
+[^16]: Az 1. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 136. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^17]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^18]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.

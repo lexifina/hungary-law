@@ -6,9 +6,9 @@ b) a lakás eladása érdekében egy összegben kiegyenlített lakáscélú hite
 
 c) a számlával igazolt ingatlan-közvetítői jutalék összegével,
 
-d)[^29] a kamattámogatásra irányuló kérelem benyújtását megelőző 5 éven belül értékesített lakása, illetve tulajdoni hányada értékesítésével egyidejűleg vagy azt követően vásárolt és az építés helyszínéül szolgáló építési teleknek az általános forgalmi adó (a továbbiakban: áfa) összegével növelt vételárával,
+d)[^31] a kamattámogatásra irányuló kérelem benyújtását megelőző 5 éven belül értékesített lakása, illetve tulajdoni hányada értékesítésével egyidejűleg vagy azt követően vásárolt és az építés helyszínéül szolgáló építési teleknek az általános forgalmi adó (a továbbiakban: áfa) összegével növelt vételárával,
 
-e) a kamattámogatással vásárolni kívánt lakás telekárat is tartalmazó vételárának legfeljebb 10%-ával, ha ezen összeg kifizetése a korábbi lakás eladását bejegyző földhivatali határozat kiadásának időpontját legfeljebb 120 nappal előzi meg,
+e)[^32] a kamattámogatással vásárolni kívánt lakás telekárat is tartalmazó vételárának legfeljebb 10%-ával, ha ezen összeg kifizetése a korábbi lakás eladását bejegyző ingatlan-nyilvántartási eljárásban hozott határozat kiadásának időpontját legfeljebb 120 nappal előzi meg,
 
 f) olyan számlával, szerződéssel igazoltan kifizetett összeggel, amelyet az igénylő az általa vásárolni kívánt, de végül a tulajdonába nem került lakás megszerzésére fizetett ki, ha az összeg az értékesítés céljára lakást építő gazdasági társaság bíróság által elrendelt felszámolásának teljes befejezését követően nem térült meg,
 
@@ -20,4 +20,5 @@ g) a lakásértékesítésből származó bevétel után megfizetett és az áll
 
 (4) Korszerűsítéshez csak az építési termékek műszaki követelményeinek, megfelelőség igazolásának, valamint forgalomba hozatalának és felhasználásának részletes szabályairól szóló rendelet szerinti megfelelőségi igazolással rendelkező termékeket lehet felhasználni.
 
-[^29]: A 3. § (1) bekezdés d) pontja a 331/2014. (XII. 18.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^31]: A 3. § (1) bekezdés d) pontja a 331/2014. (XII. 18.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^32]: A 3. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 136. § (7) bekezdés b) pontja szerint módosított szöveg.
