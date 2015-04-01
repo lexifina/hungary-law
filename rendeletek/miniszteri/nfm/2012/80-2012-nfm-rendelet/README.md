@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-80-20-2
 | 2013-01-29 | 2012-80-20-2W.2 | 2010: CXXX. törvény |
 | 2013-05-01 | 2012-80-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-05-02 | 2012-80-20-2W.4 | 2010: CXXX. törvény |
+| 2015-04-01 | 2012-80-20-2W.5 | 15/2015. (III. 31.) NFM rendelet |
