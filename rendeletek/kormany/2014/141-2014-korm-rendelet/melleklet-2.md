@@ -160,7 +160,7 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőség�
 
 9. útügyi hatósági eljárások,
 
-10. a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti építésügyi hatósági engedélyezési eljárások,
+10.[^2] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 11. műszaki biztonsági engedélyezési eljárások,
 
@@ -181,3 +181,5 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőség�
 19. közegészségügyi hatósági eljárások,
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 2. melléklet 10. pontja a 72/2015. (III. 30.) Korm. rendelet 81. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.

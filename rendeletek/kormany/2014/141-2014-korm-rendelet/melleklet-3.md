@@ -1,4 +1,4 @@
-3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^2]
+3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^3]
 
 A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósításra kerülő beruházások
 
@@ -138,4 +138,4 @@ A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvaló
 
 | 67. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Pannonhalma |
 
-[^2]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
