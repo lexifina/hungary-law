@@ -6,7 +6,7 @@
 
 2. A töltőállomások kiszolgáló kútfejét II. fázisú benzingőz-visszanyerő rendszerrel kell létesíteni és üzemeltetni.
 
-3.[^20] Az üzemeltető köteles az I. fázisú és a II. fázisú benzingőz-visszanyerő rendszert és a véggázkezelő berendezéseket folyamatosan üzemképes állapotban tartani és működtetni. Benzingőz környezetbe kerülésével járó meghibásodás esetén – a 7. pontban foglalt kivétellel – az üzemeltető köteles a meghibásodott berendezésekhez csatlakozó tárolóberendezéseknél és kútoszlopoknál a töltést és a lefejtést a meghibásodást követő 24 órán belül megszüntetni. A meghibásodásokról az üzemeltető nyilvántartást vezet, amely tartalmazza a meghibásodás jellegét és észlelésének időpontját, a meghibásodott berendezés megnevezését, a töltés és a lefejtés megszüntetésének és újbóli elindításának időpontját, valamint a javítás befejezésének időpontját.
+3.[^27] Az üzemeltető köteles az I. fázisú és a II. fázisú benzingőz-visszanyerő rendszert és a véggázkezelő berendezéseket folyamatosan üzemképes állapotban tartani és működtetni. Benzingőz környezetbe kerülésével járó meghibásodás esetén – a 7. pontban foglalt kivétellel – az üzemeltető köteles a meghibásodott berendezésekhez csatlakozó tárolóberendezéseknél és kútoszlopoknál a töltést és a lefejtést a meghibásodást követő 24 órán belül megszüntetni. A meghibásodásokról az üzemeltető nyilvántartást vezet, amely tartalmazza a meghibásodás jellegét és észlelésének időpontját, a meghibásodott berendezés megnevezését, a töltés és a lefejtés megszüntetésének és újbóli elindításának időpontját, valamint a javítás befejezésének időpontját.
 
 4. Az üzemeltetőnek a benzinkútoszlopon, vagy annak közelében jelzést, matricát vagy más értesítést kell elhelyeznie, amely arról a tényről tájékoztatja a fogyasztót, hogy a kútoszlop II. fázisú benzingőz-visszanyerő rendszerrel van felszerelve.
 
@@ -14,7 +14,7 @@
 
 6. A töltőállomáson passzív védelem esetén a benzingőz-visszanyerő rendszerben kis áramlási ellenállás mellett biztosított a szabad benzingőz-átáramlás. Az áttöltőfej töltőszelep ellennyomása a gyártó adatai szerinti maximális értéket nem lépheti túl. A töltőszelep a gépjármű üzemanyagtartályához csatlakozó tömítőkarimái nem lehetnek kirepedve, vagy nem mutathatnak egyéb más tömítetlenséget okozó meghibásodást.
 
-7.[^21] Azoknak a töltőállomásoknak a kútoszlopait, amelyek forgalma:
+7.[^28] Azoknak a töltőállomásoknak a kútoszlopait, amelyek forgalma:
 
 a) 500 m3/év vagy a feletti
 
@@ -26,5 +26,5 @@ A rendszernek automatikusan észlelni kell a II. fázisú benzingőz-visszanyer�
 
 8. A 7. pont hatálya alá nem tartozó kútoszlopot fel kell szerelni olyan kijelző berendezéssel, amely jól látható módon és elektronikusan jelzi, hogy a kútoszlopon a benzingőz-visszavezető rendszer működik-e.
 
-[^20]: A 4. melléklet 3. pontja a 38/2014. (IV. 4.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^21]: A 4. melléklet 7. pontja a 38/2014. (IV. 4.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^27]: A 4. melléklet 3. pontja a 38/2014. (IV. 4.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^28]: A 4. melléklet 7. pontja a 38/2014. (IV. 4.) VM rendelet 6. § (3) bekezdésével megállapított szöveg.
