@@ -1,6 +1,7 @@
-## 9. §[^8] A Módr. hatálybalépésekor[^9] a közszolgálati tisztviselőt – a 8. §-ban foglaltak kivételével – feladatköre megváltozásáig képesítettnek kell tekinteni, amennyiben e rendeletnek a Módr. hatálybalépését megelőzően hatályos szabályai alapján feladatköre ellátására képesítettnek minősült.
+## 10. §[^14] Azt a közszolgálati tisztviselőt, aki a területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelet (a továbbiakban: Módr1.) hatálybalépésekor[^15] feladatköre ellátására e rendeletnek a Módr1. hatálybalépését megelőzően hatályos szabályai alapján képesítettnek minősült, feladatköre megváltozásáig képesítettnek kell tekinteni.
 
-1. melléklet a 29/2012. (III. 7.) Korm. rendelethez
+1. melléklet a 29/2012. (III. 7.) Korm. rendelethez[^16]
 
-[^8]: A 9. §-t a 415/2012. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A hatálybalépés időpontja 2013. január 1.
+[^14]: A 10. §-t a 70/2015. (III. 30.) Korm. rendelet 192. § (2) bekezdése iktatta be.
+[^15]: A hatálybalépés időpontja 2015. április 1.
+[^16]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 192. § (4) bekezdésével megállapított szöveg.

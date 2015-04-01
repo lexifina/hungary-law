@@ -1,365 +1,3 @@
-## A fővárosi és megyei kormányhivatalnál az egyes feladatkörökhöz meghatározott végzettségek és szakképzettségek, illetve szakirányú szakképesítések[^21]
-
-## I.
-
-## 1.[^22] Belügyi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező, igazságügyi ügyintéző szakképzettség, rendészeti felsőoktatásban vagy katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és legalább középfokú számítástechnikai szakképesítés vagy nyilvántartási és okmányügyintéző szakképesítés vagy igazgatási ügyintéző-ügykezelő szakképesítés; egyetemi vagy főiskolai szintű végzettség és kormányablak ügyintéző szakirányú továbbképzési szakon szerzett szakképzettség.
-
-## A II. besorolási osztályban:
-
-## közgazdasági szakközépiskolai végzettség, rendészeti szakközépiskolai végzettség vagy középiskolai végzettség és számítástechnikai szakképesítés; középiskolai végzettség és az OKJ szerint: nyilvántartási és okmányügyintéző szakképesítés, igazgatási ügyintéző-ügykezelő szakképesítés.
-
-## Kiemelt munkakör
-
-## Okmányirodai igazgatási feladatok:
-
-## A II. besorolási osztályban:
-
-## közgazdasági szakközépiskolai végzettség; középiskolai végzettség és középfokú számítástechnikai szakképesítés; középiskolai végzettség és az OKJ szerint: nyilvántartási és okmányügyintéző, számítástechnikai programozó, számítógép rendszerprogramozó, információrendszer-szervező, számítástechnikai szoftverüzemeltető szakképesítés; középiskolai végzettség és kormányablak ügyintéző vizsga.
-
-## Kiemelt munkakör
-
-## Anyakönyvi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## főiskolai szintű igazgatásszervező szakképzettség; egyetemi vagy főiskolai szintű végzettség és anyakönyvi szakvizsga.
-
-## 2. Európai uniós feladatkör
-
-## Az I. besorolási osztályban:
-
-## Európa Unió szakirányú továbbképzési szakon szerzett szakképzettség; egyetemi szintű jogász, szociológus, politológus, bölcsészettudományi és egyes társadalomtudományi, vagy közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű műszaki felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus, nemzetközi kapcsolatok szakon szerzett szakképzettség, vagy agrár-felsőoktatásban; államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség, gazdaságdiplomácia és nemzetközi menedzsment, nemzetközi kommunikáció, külgazdasági, nemzetközi marketing és teljes körű minőségirányítási szakokon szerzett közgazdász szakképzettség; egyetemi szintű katonai felsőoktatást folytató intézményben (jogelőd intézményében) biztonság- és védelempolitikai szakon, illetve azzal egyenértékű szakon szerzett szakképzettség és legalább középfokú angol, valamint a helyi adottságok szerint indokolt idegen nyelvből szerzett legalább középfokú nyelvvizsga.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és közgazdasági (külkereskedelmi szakirányú) szakképesítés vagy középiskolai végzettség és az OKJ szerint: európai üzleti asszisztens szakképesítés.
-
-## 3.[^23] Építésügyi igazgatási feladatok
-
-## Kiemelt munkakör
-
-## Kiemelt építésügyi hatósági munkakör:
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő szakirány) szakképzettség, főiskolai szintű magasépítő üzemmérnöki, építészmérnöki, építőmérnöki (magasépítő területen szerkezetépítő szakirány) vagy városgazdasági üzemmérnöki (ezzel egyenértékű településmérnöki) szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik; építészmérnöki alapképzési szak építész, épületszerkezeti konstruktőr vagy magasépítési szakirányán szerzett szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik, tervező építészmérnöki, szerkezettervező építészmérnöki mesterképzési szakon, osztatlan képzésben építész mesterképzési szakon szerzett szakképzettség vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik.
-
-## Műemléki érték védelmével, műemlékekkel kapcsolatos építésügyi hatósági munkakör:
-
-## Az I. besorolási osztályban:
-
-## egyetemi vagy főiskolai szintű építészmérnöki szakképzettség vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik; tervező építészmérnöki, szerkezettervező építészmérnöki mesterképzési szakon, osztatlan képzésben építész mesterképzési szakon szerzett szakképzettség vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik.
-
-## Építésfelügyeleti hatósági munkakör:
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő szakirány) szakképzettség, főiskolai szintű magasépítő üzemmérnöki, építészmérnöki, építőmérnöki (magasépítő területen szerkezetépítő szakirány) vagy városgazdasági üzemmérnöki (ezzel egyenértékű településmérnöki) szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik; építészmérnöki alapképzési szak építész, épületszerkezeti konstruktőr, magasépítési vagy építés-kivitelezés szakirányán szerzett szakképzettség, építőmérnöki alapképzési szak magasépítési szakirányán szerzett szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik, tervező építészmérnöki, szerkezettervező építészmérnöki mesterképzési szakon szerzett szakképzettség, szerkezet-építőmérnöki mesterképzési szak magasépítő és rekonstrukciós szakirányán szerzett szakképzettség, osztatlan képzésben építész mesterképzési szakon szerzett szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik.
-
-## Járási építésügyi hivatal, járási építésügyi és örökségvédelmi hivatal, valamint a fővárosi és a megyei kormányhivatal építésügyi és örökségvédelmi hivatal vezetői feladatok:
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő szakirány) szakképzettség, főiskolai szintű magasépítő üzemmérnöki, építészmérnöki, építőmérnöki (magasépítő területen szerkezetépítő szakirány) vagy városgazdasági üzemmérnöki (ezzel egyenértékű településmérnöki) szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik; építészmérnöki alapképzési szak építész, épületszerkezeti konstruktőr vagy magasépítési szakirányán szerzett szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik, tervező építészmérnöki, szerkezettervező építészmérnöki mesterképzési szakon, osztatlan képzésben építész mesterképzési szakon szerzett szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik.
-
-## Építésügyi Hivatal Állami Főépítészi kiemelt munkakör:
-
-## Az I. besorolási osztályban:
-
-## okleveles építészmérnök, okleveles építész tervezőművész, okleveles építész, építész mesterképzési szakon szerzett okleveles építészmérnök, vagy azzal egyenértékű szakképzettség.
-
-## Építésügyi Hivatal Állami Főépítészi Irodai kiemelt munkakör:
-
-## Az I. besorolási osztályban:
-
-## okleveles építészmérnök, okleveles építész tervezőművész, okleveles építész, okleveles építőmérnök (szerkezetépítő, magasépítő üzemmérnöki) szakképzettség, okleveles településmérnök, okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök, vagy aki ezekkel egyenértékűnek elismert végzettséggel rendelkezik, valamint egyetemi szintű jogász szakképzettség.
-
-## Építésügyi, építésfelügyeleti és örökségvédelmi igazgatási feladatok jogi támogatása:
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű jogász szakképzettség.
-
-## Építésügyi nyilvántartások vezetése munkakör:
-
-## A II. besorolási osztályban:
-
-## szakirányú középfokú iskolai végzettség.
-
-## Titkársági munkakör:
-
-## A II. besorolási osztályban:
-
-## érettségi vizsga.
-
-## 4. Fogyasztóvédelmi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász vagy általános orvos szakképzettség, egyetemi vagy főiskolai szintű agrár- (ezen belül élelmiszer szakirányú agrármérnök), közgazdasági (ezen belül főiskolai szintű kereskedelmi, vendéglátó és szálloda, idegenforgalmi és szálloda szakon), vagy műszaki felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező, pénzügyi-üzemgazdászi, fogyasztóvédelmi vagy gazdasági (fogyasztóvédelmi, üzemgazdászi) szakképzettség.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és közgazdasági, műszaki, kereskedelmi, vendéglátó-ipari szakképesítés vagy középiskolai végzettség és az OKJ szerint: kereskedelmi technikus, pénzügyi ügyintézői szakképesítés.
-
-## 5.[^24] Földművelésügyi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; egyetemi vagy főiskolai szintű agrár-felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és agrár-, közgazdasági szakképesítés vagy növényvédelmi, erdészeti, mezőgazdasági áruforgalmi, általános kertész, földmérési, térképészeti technikus; középiskolai végzettség és az OKJ szerint: mezőgazdasági áruforgalmazó technikus, kertész- és növényvédelmi technikus, földmérő technikus, térképész technikus szakképesítés.
-
-## Kiemelt munkakör az I. besorolási osztályban:
-
-## Állat-egészségügyi igazgatási feladatok:
-
-## állatorvos doktor szakképzettség.
-
-## Növény-egészségügyi igazgatási feladatok:
-
-## okleveles növényorvos szakképzettség; egyetemi szintű növényvédelmi szakirányú agrármérnök, kertészmérnök szakképzettség.
-
-## 6.[^25] Gyámügyi és gyermekvédelmi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## okleveles közigazgatási menedzser, jogász, főiskolai szintű igazgatásszervező szakképzettség; általános orvos, egyetemi szintű szociológus, pszichológus, szociálpolitikus vagy közgazdasági felsőoktatásban szerzett szakképzettség, egyetemi vagy főiskolai szintű szociális munkás, pedagógus, pszichopedagógus, gyógypedagógus, védőnő, hittudományi felsőoktatásban szerzett szakképzettség, főiskolai szintű szociálpedagógus, szociális szervező, egészségügyi felsőoktatásban szerzett szakképzettség és – mindegyik esetben – szociális igazgatásszervező szakképzettség vagy jogi szakokleveles családvédelmi tanácsadó szakirányú szakképzettség vagy legalább 2 éves gyámügyi vagy gyermekvédelmi szakmai gyakorlat.
-
-## Kiemelt munkakörben az I. besorolási osztályban
-
-## Megyei gyámhivatali vezetői feladatok:
-
-## az I. besorolási osztályban meghatározott végzettség, szakképzettség és legalább 5 éves gyámügyi, gyermekvédelmi vagy szociális szakmai gyakorlat.
-
-## Járási gyámhivatali vezetői feladatok:
-
-## az I. besorolási osztályban meghatározott végzettség, szakképzettség és legalább 3 éves gyámügyi vagy gyermekvédelmi szakmai gyakorlat.
-
-## Megyei gyámügyi igazgatási feladatok:
-
-## az I. besorolási osztályban meghatározott végzettség, szakképzettség és legalább 2 éves gyámügyi vagy gyermekvédelmi szakmai gyakorlat.
-
-## 7. Idegenforgalommal kapcsolatos feladatkör
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; a közgazdasági, a bölcsészettudományi és egyes társadalomtudományi felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező szakképzettség, valamint a turizmus szakterület alaptevékenységének fejlesztési programjai igénye szerinti egyetemi vagy főiskolai végzettség.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és közgazdasági, kereskedelmi, vendéglátó-ipari, idegenforgalmi szakképesítés vagy középiskolai végzettség és az OKJ szerint: idegenforgalmi menedzser, idegenforgalmi technikus, vendéglátó menedzser, vendéglátó technikus, kereskedelmi technikus, idegenforgalmi ügyintéző szakképesítés.
-
-## 8.[^26] Ipari és belkereskedelmi, valamint egyéni vállalkozással kapcsolatos igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági (ezen belül kereskedelmi, idegenforgalmi és szálloda, vendéglátó és szálloda szakon) vagy műszaki felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező szakképzettség.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és közgazdasági, műszaki, kereskedelmi, vendéglátó-ipari, élelmiszer-ipari szakképesítés; középiskolai végzettség és az OKJ szerint: műszaki szakcsoportba tartozó technikus, intézményi kommunikátor, idegenforgalmi menedzser, kereskedelmi technikus, pénzügyi ügyintéző szakmai vizsga; középiskolai végzettség és szakképző iskolában szerzett ipari, élelmiszer-ipari, kereskedelmi, vendéglátó-ipari szakképesítés.
-
-## 9.[^27] Környezetvédelmi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; egyetemi szintű biológus (ökológus), geológus, geográfus, meteorológus, környezetmérnök vagy közgazdasági felsőoktatásban szerzett szakképzettség, egyetemi vagy főiskolai szintű pedagógus, vegyészmérnök, építészmérnök, építőmérnök, biomérnök, környezetmérnök, mérnök-fizikus vagy agrár-felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező vagy településmérnök szakképzettség; egyetemi vagy főiskolai végzettség és szakirányú (szakosító) továbbképzésben szerzett környezetvédelmi vagy természetvédelmi szakmérnök szakképzettség.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, építőipari, közgazdasági, geológiai, vízügyi szakképesítés; mezőgazdasági, geológiai, kertészeti, erdészeti, építőipari, vízügyi vízgazdálkodási technikus; középiskolai végzettség és az OKJ szerint: környezet- és természetvédelmi szakmunkás, környezetvédelmi (szak)technikus, települési környezetvédelmi technikus, környezetvédelmi szakelőadó, természetvédelmi technikus, településfejlesztési szakelőadó szakképesítés, hulladékkezelői, valamint az ipari biotechnológusi technikus.
-
-## 10.[^28] Közlekedési és vízügyi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; egyetemi vagy főiskolai szintű közlekedésmérnöki, építőmérnöki (vízellátási, csatornázási, vízépítő) vagy környezetmérnöki szakképzettség; főiskolai szintű igazgatásszervező, környezetgazdálkodási agrármérnök vagy meliorációs mérnök szakképzettség.
-
-## A II. besorolási osztályban:
-
-## települési vízgazdálkodási, vízügyi, közlekedésgépészeti, útépítési, fenntartási technikus; középiskolai végzettség és közgazdasági szakképesítés; középiskolai végzettség és az OKJ szerint: közlekedésépítő-környezetvédő technikus, közlekedési környezetvédelmi technikus, víz- és szennyvíztechnológus technikus, vízügyi technikus szakképesítés.
-
-## 11. Minőségügyi, minőségbiztosítási, minőségmenedzsmenti feladatkör
-
-## Az I. besorolási osztályban:
-
-## egyetemi vagy főiskolai szintű minőségmenedzsment szakképzettség; egyetemi vagy főiskolai végzettség és szakirányú továbbképzésben szerzett szakképzettség, vagy minőségirányítási vezetői vagy minőségbiztosítási auditori bizonyítvány.
-
-## 12. Kulturális és oktatási igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű jogász, közgazdasági, természettudományi vagy bölcsészettudományi és egyes társadalomtudományi felsőoktatásban szerzett szakképzettség, hittudományi felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus, hittudományi vagy művészeti felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
-
-## 13. Pénzügyi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség és pénzügyi, számviteli szakképesítés.
-
-## 14. Személyiadat- és lakcím-nyilvántartási feladatkör
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű jogász, gazdasági agrármérnök vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű biztonságtechnikai mérnök vagy államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
-
-## 15. Szervezési és koordinációs feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási vagy rendvédelmi szakképzettség.
-
-## 16.[^29] Szociális igazgatási, szociálpolitikai és rehabilitációs feladatok
-
-## Járási szociális igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## okleveles közigazgatási menedzser; egyetemi szintű szociálpolitikus, jogász szakképzettség; egyetemi vagy főiskolai szintű szociális munkás szakképzettség; főiskolai szintű szociálpedagógus, szociális szervező, igazgatásszervező szakképzettség; egyetemi vagy főiskolai szintű végzettség és legalább 1 éves szociális szakterületen szerzett gyakorlat vagy szakirányú (szakosító) továbbképzésben szerzett szociális igazgatásszervező szakképzettség vagy szociális ügyintézői szakképesítés.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és szociális ügyintéző szakképesítés; középiskolai végzettség és az OKJ szerint: szociális gyermek- és ifjúságvédelmi ügyintéző, szociális asszisztens, igazgatási ügyintéző-ügykezelő szakképesítés.
-
-## Szociálpolitikai, rehabilitációs, megyei szociális igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## okleveles közigazgatási menedzser, egyetemi szintű jogász, szociálpolitikus szakképzettség, egyetemi vagy főiskolai szintű szociális munkás szakképzettség, főiskolai szintű igazgatásszervező szakképzettség; egyetemi szintű szociológus, pszichológus szakképzettség, egyetemi vagy főiskolai szintű közgazdasági, hittudományi felsőoktatásban szerzett szakképzettség, pedagógia szakos előadó vagy tanár szakképzettség, főiskolai szintű szociálpedagógus szakképzettség és – mindegyik esetben – szakirányú (szakosító) továbbképzésben szerzett szociális igazgatásszervező szakképzettség vagy legalább 5 éves szociális szakterületen szerzett gyakorlat. szakképzettség és szakirányú (szakosító) továbbképzésben szerzett szociális igazgatásszervező szakképzettség vagy legalább 5 éves szociális szakterületen szerzett gyakorlat,
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és szociális ügyintéző szakképesítés vagy középiskolai végzettség és az OKJ szerint: szociális gyermek- és ifjúságvédelmi ügyintéző, szociális asszisztens szakképesítés.
-
-## 17.[^30] Természetvédelmi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű közgazdász, jogász, biológus, geológus, geográfus szakképzettség; egyetemi vagy főiskolai agrár- (ezen belül erdőmérnök, kertészmérnök, okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök) felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és szakirányú továbbképzésben szerzett természetvédelmi szakmérnök szakképzettség.
-
-## 18.[^31] Területfejlesztési és vidékfejlesztési feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű jogász, szociológus, földrajztanár vagy geográfus szakképzettség; egyetemi vagy főiskolai szintű agrár- (ezen belül környezetgazdálkodási agrármérnök, okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök), közgazdasági vagy műszaki felsőoktatásban szerzett szakképzettség; főiskolai szintű településmérnök vagy államigazgatási és szociális igazgatási szakképzettség.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, építőipari, közgazdasági, vízügyi szakképesítés, mezőgazdasági, kertészeti, erdészeti, építőipari, vízügyi, települési vízgazdálkodási technikusi képesítés; középiskolai végzettség és az OKJ szerint: településfejlesztési szakelőadó szakképesítés.
-
-## 19. Jogi segítségnyújtással, áldozatsegítéssel és pártfogó felügyelettel összefüggő feladatkör
-
-## Kiemelt munkakörök az I. besorolási osztályban
-
-## Jogi segítségnyújtási feladatkörben:
-
-## Vezetői munkakört betöltő: jogász szakképzettség.
-
-## Jogi segítségnyújtási szakreferens/ügyintéző: jogász, okleveles közigazgatási szakértő, főiskolai szintű igazgatásszervező vagy igazságügyi ügyintéző szakképzettség.
-
-## Áldozatsegítési feladatkörben:
-
-## Vezetői munkakört betöltő: jogász szakképzettség.
-
-## Áldozatsegítő szakreferens/ügyintéző: jogász, szociális munkás vagy pszichológus szakképzettség.
-
-## Pártfogó felügyelői feladatkörben:
-
-## Vezetői munkakört betöltő: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
-
-## Pártfogó felügyelő: jogász, okleveles közigazgatási szakértő, pszichológus, szociálpolitikus, szociológus vagy teológus; egyetemi vagy főiskolai szintű pedagógus, vagy szociális munkás; főiskolai szintű gyógypedagógus, igazgatásszervező vagy szociálpedagógus; felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett – így különösen addiktológiai konzultáns, gyermek- és ifjúságvédelmi tanácsadó, mentálhigiénés – szakképzettség.
-
-## Pártfogó felügyelői asszisztens, pártfogó felügyelői szakreferens/ügyintéző: szakirányú felsőfokú iskolai végzettség vagy felsőfokú iskolai végzettség és szakirányú továbbképzési szakon szerzett szakképzettség.
-
-## Egyéb vezetői munkakört betöltő: jogász szakképzettség.
-
-## 20.[^32] Integrált ügyfélszolgálati feladatok
-
-## Az I. besorolási osztályban:
-
-## felsőfokú iskolai végzettség és kormányablak ügyintéző vizsga megléte.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és kormányablak ügyintéző vizsga megléte.
-
-## 21. Műszaki-biztonsági felügyelői feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi vagy főiskolai szintű műszaki, vagy természettudományos felsőoktatásban szerzett szakképzettség és műszaki-biztonsági felügyelői vizsga.
-
-## 22.[^33] Építésügyi és örökségvédelmi hivatal régészeti örökség védelmével kapcsolatos örökségvédelmi hatósági feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű (akkreditált) régész szakképzettség; egyetemi szintű bölcsészettudományi felsőoktatásban szerzett szakképzettség és régészeti szakirányú tudományos fokozat.
-
-## II.
-
-## 1.[^34] Foglalkoztatással kapcsolatos humánpolitikai, valamint munkaügyi feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű jogász, humánszervező, pszichológus, szociálpolitikus vagy szociológus szakképzettség; egyetemi vagy főiskolai szintű pedagógus, szociális munkás, hittudományi vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség, humánerőforrás menedzser, igazságügyi ügyintéző vagy személyügyi szervező szakképzettség; rendészeti felsőoktatásban szerzett igazgatásrendészeti szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképesítés.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és az OKJ szerint: legalább középfokú munkaügyi, társadalombiztosítási, személyügyi, személyzeti, szociális ügyintéző, szociális asszisztens szakképesítés.
-
-## 2.[^35] Gazdálkodással kapcsolatos feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi szintű műszaki felsőoktatásban szerzett szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és felsőfokú pénzügyi, számviteli szakképesítés.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és közgazdasági szakképesítés vagy középiskolai végzettség és az OKJ szerint: pénzügyi-számviteli, számítógép-kezelői, számítástechnikai szoftverüzemeltetői, gazdasági elemző és szakstatisztikai ügyintéző, banki ügyintéző szakképesítés.
-
-## 3. Képzéssel, továbbképzéssel kapcsolatos feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű jogász vagy bölcsészettudományi felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett katonai vezető (parancsnok) szakképzettség; államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség szakképzettség.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és felsőfokú oktatásszervezői szakképesítés.
-
-## 4. Kommunikációs feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus, kommunikáció vagy nemzetközi kapcsolatok szakon szerzett szakképzettség; államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
-
-## 5.[^36] Műszaki és belső ellátási feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi vagy főiskolai szintű műszaki vagy agrár műszaki felsőoktatásban szerzett szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett műszaki (technikai) szakirányú szakképzettség.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és építőipari szakképesítés vagy műszaki szakmacsoportban szerzett technikusi szakképesítés; középiskolai végzettség és az OKJ szerint: műszaki szakmacsoportba tartozó szakképesítés.
-
-## 6.[^37] Számítógépes, informatikai feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű rendszerinformatikai mérnök szakképzettség; egyetemi vagy főiskolai szintű programtervező matematikus, informatikatanár, számítástechnikai tanár, programozó matematikus, mérnökinformatikus vagy villamosmérnök szakképzettség; egyetemi vagy főiskolai szintű végzettség és ügyvitelszervező, programtervező, számítógép-programozó, rendszerszervező szakképesítés.
-
-## A II. besorolási osztályban:
-
-## középiskolai végzettség és legalább középfokú számítástechnikai szakképesítés vagy középiskolai végzettség és az OKJ szerint: számítástechnikai programozó, számítógép rendszerprogramozó, számítástechnikai szoftverüzemeltető, információrendszer szervező szakképesítés.
-
 3. melléklet a 29/2012. (III. 7.) Korm. rendelethez
 
 ## Az államigazgatási szerveknél egyes feladatkörökhöz meghatározott végzettségek és szakképzettségek, illetve szakirányú szakképesítések
@@ -600,7 +238,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági szakképesítés, műszaki szakközépiskolai végzettség vagy műszaki technikusi végzettség; környezetvédelmi (szak)technikus, környezetvédelmi méréstechnikus, környezetvédelmi szakelőadó, biztonságszervező szakképesítés.
 
-27.[^38] Cégnyilvántartói és céginformációs feladatokat ellátó feladatkör
+27.[^18] Cégnyilvántartói és céginformációs feladatokat ellátó feladatkör
 
 Az I. besorolási osztályban:
 
@@ -694,7 +332,7 @@ Az I. besorolási osztályban:
 
 egyetemi szintű élelmiszermérnök vagy élelmiszer minőségbiztosító agrármérnök szakképzettség; főiskolai szintű élelmiszer-ipari gépészmérnök, élelmiszer-technológus mérnök szakképzettség; egyetemi szintű gazdasági agrármérnök vagy közgazdász szakképzettség; főiskolai szintű agrármenedzser vagy gazdasági mérnök szakképzettség; egyetemi vagy főiskolai szintű gépészmérnök, villamosmérnök vagy vegyészmérnök szakképzettség.
 
-38.[^39] Építésügyi igazgatási feladatkör
+38.[^19] Építésügyi igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -778,7 +416,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági, műszaki, kereskedelmi, vendéglátó-ipari szakképesítés vagy középiskolai végzettség és az OKJ szerint: középfokú kereskedelmi jellegű vagy idegenforgalmi szakképesítés.
 
-45.[^40] Ingatlan-nyilvántartási, földmérési és térképészeti, földminősítési és földvédelmi, földhasználati nyilvántartási feladatkör
+45.[^20] Ingatlan-nyilvántartási, földmérési és térképészeti, földminősítési és földvédelmi, földhasználati nyilvántartási, valamint földforgalmi és földműves nyilvántartási feladatkör
 
 45.1. Ingatlan-nyilvántartási feladatkör
 
@@ -848,11 +486,11 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és az OKJ szerint: ingatlan-nyilvántartási titkár, jogi asszisztens, ingatlan-nyilvántartási ügyintéző szakképesítés.
 
-45.5. Földforgalmi és földműves nyilvántartási feladatkör
+45.5.[^21] Földforgalmi és földműves nyilvántartási feladatkör
 
 Az I. besorolási osztályban:
 
-jogász szakképzettség; főiskolai szintű ingatlan-nyilvántartási szervező, igazságügyi ügyintéző, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
+jogász szakképzettség; főiskolai szintű ingatlan-nyilvántartási szervező, igazságügyi ügyintéző, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség, agrár szakoktató, agrármenedzser, agrármérnök, erdőmérnök, gazdasági és vidékfejlesztési agrármérnök, kertészmérnök, környezetgazdálkodási agrármérnök, meliorációs mérnök, meliorációs üzemmérnök, mezőgazdasági gépész üzemmérnök mezőgazdasági mérnök, mezőgazdasági szakigazgatási szervező mérnök, növénytermesztési mérnök, növénytermesztő mérnök, növényvédelmi mérnök, okleveles agrárkémikus agrármérnök, okleveles agrármérnök, okleveles erdőmérnök, okleveles gazdasági agrármérnök, okleveles geográfus, okleveles informatikus agrármérnök, okleveles kertészmérnök, okleveles környezetgazdálkodási agrármérnök, okleveles környezetmérnök, okleveles közigazgatási menedzser, okleveles mezőgazdasági vízgazdálkodási mérnök, okleveles növényorvos, okleveles növénytermesztő mérnök, okleveles tájépítész mérnök, okleveles természetvédelmi mérnök, okleveles vidékfejlesztő agrármérnök, öntözéses üzemmérnök, tájgazdálkodási mérnök, természetvédelmi mérnök, területfejlesztési mérnök, vidékfejlesztési agrármérnök;
 
 A II. besorolási osztályban:
 
@@ -868,7 +506,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági, műszaki szakképesítés.
 
-47.[^41] Gazdálkodással kapcsolatos feladatkör
+47.[^22] Gazdálkodással kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -878,7 +516,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági szakképesítés vagy pénzügyi-számviteli szakképesítés; középiskolai végzettség és az OKJ szerint: pénzügyi ügyintéző, számviteli ügyintéző, mérlegképes könyvelői szakképesítés; általános gazdasági és statisztikai ügyintéző vagy gazdasági elemző és szakstatisztikai ügyintéző szakképesítés és legalább középfokú számítástechnikai szakképesítés.
 
-48.[^42] Gyámügyi és gyermekvédelmi igazgatási feladatkör
+48.[^23] Gyámügyi és gyermekvédelmi igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -928,7 +566,7 @@ Az I. besorolási osztályban:
 
 egyetemi szintű meteorológus vagy vegyész szakképzettség; egyetemi vagy főiskolai műszaki felsőoktatásban szerzett szakképzettség.
 
-54.[^43] Informatikai és számítógépes feladatkör
+54.[^24] Informatikai és számítógépes feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1100,7 +738,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és pénzügyi vagy költségvetési, vagy számviteli vagy általános gazdasági és statisztikai ügyintéző, vagy gazdasági elemző és szakstatisztikai ügyintéző szakképesítés.
 
-67.[^44] Környezetvédelmi és természetvédelmi igazgatási feladatkör
+67.[^25] Környezetvédelmi és természetvédelmi igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1126,7 +764,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és egészségügyi szakképesítés, vagy középiskolai végzettség és felsőfokú vagy középfokú egészségügyi szakképesítés.
 
-70.[^45] Közegészségügyi-járványügyi, környezet- és település-egészségügyi hatósági és megelőző, népegészségügyi, egészségvédelmi, egészségmegőrzési és -megelőzési, valamint egészségügyi igazgatási, koordinációs és hatósági feladatkör
+70.[^26] Közegészségügyi-járványügyi, környezet- és település-egészségügyi hatósági és megelőző, népegészségügyi, egészségvédelmi, egészségmegőrzési és -megelőzési, valamint egészségügyi igazgatási, koordinációs és hatósági feladatkör
 
 Kiemelt munkakörben az I. besorolási osztályban:
 
@@ -1326,23 +964,15 @@ Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű minőségügyi, minőségbiztosítási feladatokra felkészítő szakképzettség; egyetemi vagy főiskolai szintű végzettség és szakirányú továbbképzésben szerzett szakképzettség, vagy minőségirányítási vezetői vagy minőségbiztosítási auditori bizonyítvány.
 
-91. Munkavédelmi és munkaügyi igazgatási és hatósági feladatkör
+91.[^27] Munkavédelmi és munkaügyi igazgatási és hatósági feladatkör
 
 Az I. besorolási osztályban:
 
-Munkavédelmi és munkaügyi szakigazgatási szerv vezetője: a munkavédelmi felügyelőség vezetőjére megállapított képesítési előírásoknak vagy a munkaügyi felügyelőség vezetőjére megállapított képesítési előírásoknak való megfelelés.
+Munkavédelmi hatóság vezető beosztású kormánytisztviselője, munkavédelmi hatósági feladatokat ellátó érdemi ügyintézője, a munkavédelem központi irányítását ellátó szerv/szervezeti egység vezetője és érdemi ügyintéző munkatársai: munkahigiénés és/vagy foglalkozás-orvostan, közegészségtan-járványtan, népegészségtan, illetve egyéb szakirányú szakképesítésű szakorvos szakképzettség; egészségügyi felsőoktatásban szerzett közegészségügyi-járványügyi felügyelői szakképesítés; egészségügyi gondozás és prevenció alapképzési szak népegészségügyi ellenőri szakirányán szerzett vagy népegészségügyi mesterszakon szerzett szakképzettség; egyetemi vagy főiskolai szintű szakképzettség a következő területeken és felsőfokú munkavédelmi szakképesítés: jogász, szociológus, statisztikus szakképzettség, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű szakképzettség a következő területeken és legalább középfokú munkavédelmi szakképesítés: természettudományi-, agrár-, műszaki-felsőoktatásban szerzett szakképzettség, biztonságtechnikai mérnök szakon szerzett szakképzettség. Munkahigiéné és foglalkozás-egészségügyi munkaterületen: a munkavédelmi munkaterületre meghatározott, fenti szakképzettségeken túl egyetemi szintű vegyész szakképzettség; egyetemi vagy főiskolai szintű pszichológus szakképzettség.
 
-Munkavédelmi felügyelőség vezetője, munkavédelmi felügyelő, munkavédelem központi irányítását ellátó szerv/szervezeti egység vezetője és érdemi ügyintéző munkatársai: munkahigiénés és/vagy foglalkozás-orvostan, közegészségtan-járványtan, népegészségtan, illetve egyéb szakirányú szakképesítésű szakorvos szakképzettség; egészségügyi felsőoktatásban szerzett közegészségügyi-járványügyi felügyelői szakképesítés; egészségügyi gondozás és prevenció alapképzési szak népegészségügyi ellenőri szakirányán szerzett vagy népegészségügyi mesterszakon szerzett szakképzettség; egyetemi vagy főiskolai szintű szakképzettség a következő területeken és felsőfokú munkavédelmi szakképesítés: jogász, szociológus, statisztikus szakképzettség, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű szakképzettség a következő területeken és legalább középfokú munkavédelmi szakképesítés: természettudományi-, agrár-, műszaki- felsőoktatásban szerzett szakképzettség, biztonságtechnikai mérnök szakon szerzett szakképzettség.
+Munkaügyi hatóság vezető beosztású kormánytisztviselője, munkaügyi hatósági feladatokat ellátó érdemi ügyintéző, a munkaügy központi irányítását ellátó szerv/szervezeti egység vezetője és érdemi ügyintéző munkatársai: jogász, egyetemi szintű humánszervező, statisztikus szakképzettség; egyetemi vagy főiskolai szintű közgazdász, gazdasági mérnöki szakképzettség, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; főiskolai szintű munkaügyi kapcsolatok szakképzettség, rendészeti felsőoktatásban szerzett igazgatásrendészeti szakképzettség; főiskolai szintű személyügyi szervező szakképzettség; egyéb felsőfokú végzettség és munkaügyi felügyelő, felsőfokú munkaügyi, személyügyi szakképesítés vagy szakirányú továbbképzésben szerzett személyügyi szakigazgatás-szervező szakképzettség.
 
-Munkahigiéné és foglalkozás-egészségügyi munkaterületen: a munkavédelmi munkaterületre meghatározott, fenti szakképzettségeken túl egyetemi szintű vegyész szakképzettség; egyetemi vagy főiskolai szintű pszichológus szakképzettség.
-
-Munkaügyi felügyelőség vezetője, munkaügyi felügyelő, munkaügy központi irányítását ellátó szerv/szervezeti egység vezetője és érdemi ügyintéző munkatársai: jogász, egyetemi szintű humánszervező, statisztikus szakképzettség; egyetemi vagy főiskolai szintű közgazdász, gazdasági mérnöki szakképzettség, államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; főiskolai szintű munkaügyi kapcsolatok szakképzettség, rendészeti felsőoktatásban szerzett igazgatásrendészeti szakképzettség; főiskolai szintű személyügyi szervező szakképzettség; egyéb felsőfokú végzettség és munkaügyi felügyelő, felsőfokú munkaügyi, személyügyi szakképesítés vagy szakirányú továbbképzésben szerzett személyügyi szakigazgatás-szervező szakképzettség.
-
-A II. besorolási osztályban:
-
-Munkahigiéné és foglalkozás-egészségügyi munkaterületen: középiskolai végzettség és középfokú vagy felsőfokú egészségügyi szakképesítés; vegyésztechnikus szakképesítés.
-
-92.[^46] Műszaki fenntartási, fejlesztési és belső ellátási feladatkör
+92.[^28] Műszaki fenntartási, fejlesztési és belső ellátási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1410,7 +1040,7 @@ Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű műszaki, közgazdasági vagy természettudományi felsőoktatásban szerzett szakképzettség; általános orvos vagy jogász szakképzettség; okleveles közigazgatási szakértő szakképzettség; főiskolai szintű igazgatásszervező szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) katonai vezető (parancsnok) szakon szerzett szakképzettség.
 
-102.[^47] Nyugdíjbiztosítási szakfeladat-ellátás
+102.[^29] Nyugdíjbiztosítási szakfeladat-ellátás
 
 Az I. besorolási osztályban:
 
@@ -1420,13 +1050,13 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági szakképesítés vagy középiskolai végzettség és középfokú társadalombiztosítási, pénzügyi, munkaügyi, személyügyi, informatikai, számítástechnikai szakképesítés.
 
-103.[^48] Okmányügyi szakfelügyeleti és koordinációs feladatkör
+103.[^30] Okmányügyi szakfelügyeleti és koordinációs feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; államigazgatási és szociális igazgatási vagy rendészeti felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és ügyvitelszervező, rendszerszervező, nyilvántartási és okmányügyintéző vagy számítástechnikai szakképesítés.
 
-103a.[^49] Anyakönyvi szakfelügyeleti és koordinációs feladatkör
+103a.[^31] Anyakönyvi szakfelügyeleti és koordinációs feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1598,7 +1228,7 @@ Az I. besorolási osztályban:
 
 egyetemi szintű pedagógia szakos előadó vagy tanár, szociológus, pszichológus, szociálpolitikus, jogász, okleveles közigazgatási szakértő szakképzettség vagy közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű hittudományi, szociális munkás szakképzettség; főiskolai szintű gyógypedagógus, szociálpedagógus, vagy államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
 
-123.[^50] Településfejlesztési és településüzemeltetési feladatkör
+123.[^32] Településfejlesztési és településüzemeltetési feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1608,7 +1238,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és építőipari, épületgépészeti, kertészeti, közgazdasági szakképesítés, települési vízgazdálkodási, víz- és szennyvíztisztító, kertészeti technikusi végzettség; középiskolai végzettség és az OKJ szerint: építőanyag-ipari technikus, épületgépész technikus, településfejlesztési szakelőadó, települési környezetvédelmi technikus, víz- és szennyvíztechnológus technikus, vízügyi technikus, kertésztechnikusi, parképítő- és fenntartó technikusi végzettség és növényvédelmi technikus, környezetvédelmi szakelőadó, környezetvédelmi szaktechnikus szakképesítés.
 
-124.[^51] Természetvédelmi igazgatási feladatok
+124.[^33] Természetvédelmi igazgatási feladatok
 
 Az I. besorolási osztályban:
 
@@ -1630,7 +1260,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, vadgazdálkodási, vízügyi, vízgazdálkodási, geológiai szakképesítés vagy környezet- vagy természetvédelmi középfokú végzettség vagy középfokú szakképesítés.
 
-125.[^52] Területfejlesztési és vidékfejlesztési feladatok
+125.[^34] Területfejlesztési és vidékfejlesztési feladatok
 
 Az I. besorolási osztályban:
 
@@ -1640,13 +1270,13 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, építőipari, közgazdasági, vízügyi szakképesítés; mezőgazdasági, kertészeti, erdészeti, építőipari, vízügyi, települési vízgazdálkodási technikusi képesítések; középiskolai végzettség és az OKJ szerint: településfejlesztési szakelőadó szakképesítés.
 
-125a.[^53] Területrendezési feladatok
+125a.[^35] Területrendezési feladatok
 
 Az I. besorolási osztályban:
 
 okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök, okleveles településmérnök, jogász szakképzettség.
 
-126.[^54] Titkársági és igazgatási feladatkör
+126.[^36] Titkársági és igazgatási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1778,7 +1408,7 @@ Az I. besorolási osztályban:
 
 jogász szakképzettség; okleveles közigazgatási szakértő szakképzettség, egyetemi vagy főiskolai szintű műszaki, természettudományi, bölcsészettudományi és egyes társadalomtudományi, közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező szakképzettség.
 
-142.[^55] Állami támogatásokkal és építtetői fedezetkezelésekkel kapcsolatos feladatkör
+142.[^37] Állami támogatásokkal és építtetői fedezetkezelésekkel kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1788,19 +1418,19 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és banki szakügyintéző vagy banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-142.[^56] Integritás tanácsadói feladatkörben:
+142.[^38] Integritás tanácsadói feladatkörben:
 
 Az I. besorolási osztályban:
 
 felsőfokú végzettség és integritás tanácsadó szakképzettség
 
-143.[^57] Bérszámfejtési rendszerek működésével összefüggő feladatkör
+143.[^39] Bérszámfejtési rendszerek működésével összefüggő feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és felsőfokú pénzügyi, számviteli, munkaügyi, vagy társadalombiztosítási szakképesítés.
 
-144.[^58] Családtámogatási ellátásokkal összefüggő feladatkör
+144.[^40] Családtámogatási ellátásokkal összefüggő feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1810,7 +1440,7 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és egészségügyi, közgazdasági szakképesítés vagy középiskolai végzettség és az OKJ szerint: társadalombiztosítási, pénzügyi, végrehajtó-behajtói, munkaügyi, személyügyi, informatikai, számítástechnikai szakképesítés.
 
-145.[^59] Értékpapír-forgalmazási feladatkör
+145.[^41] Értékpapír-forgalmazási feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1820,19 +1450,19 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és banki szakügyintéző, banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-146.[^60] Önkormányzatok költségvetésével összefüggő ellenőrzési feladatkör
+146.[^42] Önkormányzatok költségvetésével összefüggő ellenőrzési feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és pénzügyi, mérlegképes könyvelői, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés.
 
-147.[^61] Nem állami intézmények finanszírozásával és ellenőrzésével kapcsolatos feladatkör
+147.[^43] Nem állami intézmények finanszírozásával és ellenőrzésével kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
 jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és mérlegképes könyvelői, felsőfokú pénzügyi, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés.
 
-148.[^62] Számlavezetéssel kapcsolatos feladatkör
+148.[^44] Számlavezetéssel kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1842,13 +1472,13 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és banki szakügyintéző, banki tanácsadó, szakképesített bankreferens, banki ügyintéző, banki, befektetési termékértékesítő, mérlegképes könyvelő, pénzügyi szakügyintéző, pénzügyi tanácsadó, pénzügyi-számviteli ügyintéző, számviteli szakügyintéző szakképesítés.
 
-149.[^63] Előirányzat-nyilvántartással és finanszírozással kapcsolatos feladatkör
+149.[^45] Előirányzat-nyilvántartással és finanszírozással kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
 egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai végzettség és mérlegképes könyvelői, felsőfokú pénzügyi, költségvetési ellenőri, közigazgatási gazdálkodási és ellenőrzési szakértői, okleveles könyvvizsgálói, okleveles pénzügyi revizori, közoktatási szakértői szakképesítés.
 
-150.[^64] Költségvetés végrehajtásával kapcsolatos feladatkör
+150.[^46] Költségvetés végrehajtásával kapcsolatos feladatkör
 
 Az I. besorolási osztályban:
 
@@ -1858,47 +1488,32 @@ A II. besorolási osztályban:
 
 középiskolai végzettség és közgazdasági, pénzügyi-számviteli szakképesítés; közgazdasági szakközépiskolai általános ügyintéző titkár (menedzserasszisztens) szakképesítés; középiskolai végzettség és az OKJ szerint: mérlegképes könyvelői, pénzügyi ügyintéző, számviteli ügyintéző, középfokú anyaggazdálkodói, általános gazdasági és statisztikai ügyintéző, gazdasági elemző és szakstatisztikai ügyintéző, költségvetési gazdálkodási szakügyintéző szakképesítés.
 
-[^21]: A 2. melléklet címe a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^22]: A 2. melléklet I. pont 1. alpontja a 333/2013. (IX. 17.) Korm. rendelet 1. §-ával megállapított, a 76/2014. (III. 14.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
-[^23]: A 2. melléklet I. pont 3. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^24]: A 2. melléklet I. pont 5. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^25]: A 2. melléklet I. pont 6. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^26]: A 2. melléklet I. pont 8. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^27]: A 2. melléklet I. pont 9. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^28]: A 2. melléklet I. pont 10. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^29]: A 2. melléklet I. pont 16. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^30]: A 2. melléklet I. rész 17. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^31]: A 2. melléklet I. rész 18. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^32]: A 2. melléklet 20. pontja a 131/2014. (IV. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^33]: A 2. melléklet I. pont 22. alpontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^34]: A 2. melléklet II. pont 1. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^35]: A 2. melléklet II. pont 2. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^36]: A 2. melléklet II. rész 5. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^37]: A 2. melléklet II. pont 6. alpontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^38]: A 3. melléklet 27. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^39]: A 3. melléklet 38. pontja a 322/2012. (XI. 16.) Korm. rendelet 108. § c) pontja, a 342/2014. (XII. 19.) Korm. rendelet 10. § f) pontja és 11. § a) pontja szerint módosított szöveg.
-[^40]: A 3. melléklet 45. pontja a 373/2014. (XII. 31.) Korm. rendelet 51. §-ával megállapított szöveg.
-[^41]: A 3. melléklet 47. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^42]: A 3. melléklet 48. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^43]: A 3. melléklet 54. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^44]: A 3. melléklet 67. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^45]: A 3. melléklet 70. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 94/2013. (III. 29.) Korm. rendelet 5. § (1) bekezdés a)–b) pontja szerint módosított szöveg.
-[^46]: A 3. melléklet 92. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^47]: A 3. melléklet 102. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^48]: A 3. melléklet 103. pontja a 76/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^49]: A 3. melléklet 103a. pontját a 76/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^50]: A 3. melléklet 123. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
-[^51]: A 3. melléklet 124. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § h)–i) pontja szerint módosított szöveg.
-[^52]: A 3. melléklet 125. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § j) pontja szerint módosított szöveg.
-[^53]: A 3. melléklet 125a. pontját a 342/2014. (XII. 19.) Korm. rendelet 9. §-a iktatta be.
-[^54]: A 3. melléklet 126. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^55]: A 3. melléklet 142. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^56]: A 3. melléklet újabb 142. pontját az 50/2013. (II. 25.) Korm. rendelet 12. §-a iktatta be.
-[^57]: A 3. melléklet 143. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^58]: A 3. melléklet 144. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^59]: A 3. melléklet 145. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^60]: A 3. melléklet 146. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^61]: A 3. melléklet 147. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^62]: A 3. melléklet 148. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^63]: A 3. melléklet 149. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^64]: A 3. melléklet 150. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^18]: A 3. melléklet 27. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^19]: A 3. melléklet 38. pontja a 322/2012. (XI. 16.) Korm. rendelet 108. § c) pontja, a 342/2014. (XII. 19.) Korm. rendelet 10. § f) pontja és 11. § a) pontja szerint módosított szöveg.
+[^20]: A 3. melléklet 45. pont nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 192. § (5) bekezdésével megállapított szöveg.
+[^21]: A 3. melléklet 45.5. pontja a 70/2015. (III. 30.) Korm. rendelet 192. § (5) bekezdésével megállapított szöveg.
+[^22]: A 3. melléklet 47. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 3. melléklet 48. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^24]: A 3. melléklet 54. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^25]: A 3. melléklet 67. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^26]: A 3. melléklet 70. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 94/2013. (III. 29.) Korm. rendelet 5. § (1) bekezdés a)–b) pontja szerint módosított szöveg.
+[^27]: A 3. melléklet 91. pontja a 70/2015. (III. 30.) Korm. rendelet 192. § (5) bekezdésével megállapított szöveg.
+[^28]: A 3. melléklet 92. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^29]: A 3. melléklet 102. pontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^30]: A 3. melléklet 103. pontja a 76/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 3. melléklet 103a. pontját a 76/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^32]: A 3. melléklet 123. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^33]: A 3. melléklet 124. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § h)–i) pontja szerint módosított szöveg.
+[^34]: A 3. melléklet 125. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § j) pontja szerint módosított szöveg.
+[^35]: A 3. melléklet 125a. pontját a 342/2014. (XII. 19.) Korm. rendelet 9. §-a iktatta be.
+[^36]: A 3. melléklet 126. pontja a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^37]: A 3. melléklet 142. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^38]: A 3. melléklet újabb 142. pontját az 50/2013. (II. 25.) Korm. rendelet 12. §-a iktatta be.
+[^39]: A 3. melléklet 143. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^40]: A 3. melléklet 144. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^41]: A 3. melléklet 145. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^42]: A 3. melléklet 146. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^43]: A 3. melléklet 147. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^44]: A 3. melléklet 148. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^45]: A 3. melléklet 149. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^46]: A 3. melléklet 150. pontját a 415/2012. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.

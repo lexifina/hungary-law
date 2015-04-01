@@ -1,377 +1,325 @@
-## A helyi önkormányzat képviselő-testülete hivatalában az egyes feladatkörökhöz meghatározott végzettségek és szakképzettségek, illetve szakirányú szakképesítések
+## A fővárosi és megyei kormányhivatalnál, valamint a helyi önkormányzat képviselő-testülete hivatalában az egyes feladatkörökhöz meghatározott végzettségek és szakképzettségek, illetve szakirányú szakképesítések
 
-## I.
-
-## 1.[^10] Belügyi igazgatási feladatok
+## 1. Belső ellenőrzési feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; főiskolai szintű igazgatásszervező, igazságügyi ügyintéző vagy rendészeti felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és legalább középfokú számítástechnikai szakképesítés.
+## Felsőoktatásban szerzett gazdaságtudományi, jogi, közszolgálati, a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló kormányrendelet szerinti szakképzettség; vagy felsőoktatásban szerzett szakképzettség és okleveles pénzügyi revizori, pénzügyi-számviteli szakellenőri, ellenőrzési szakelőadó, okleveles könyvvizsgálói, költségvetési ellenőri, mérlegképes könyvelői, a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri, az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA), közigazgatási gazdálkodási és ellenőrzési szakértői, költségvetési ellenőri, államháztartási felsőfokú szakképesítés.
 
-## Kiemelt munkakör
-
-## Anyakönyvvezetői munkakörben:
+## 2. Védelmi igazgatási, honvédelmi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## főiskolai szintű igazgatásszervező szakképzettség; egyetemi vagy főiskolai szintű végzettség és anyakönyvi szakvizsga.
+## Felsőoktatásban szerzett jogi, közszolgálati, gazdaságtudományi, műszaki szakképzettség; vagy felsőoktatásban szerzett szakképzettség és közszolgálati felsőfokú szakmacsoportba tartozó szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és anyakönyvi szakvizsga.
+## Közszolgálati középiskolai végzettség; vagy középiskolai végzettség és közszolgálati szakmacsoportba tartozó szakképesítés.
 
-## 2. Egészségügyi igazgatási feladatok
+## 3. Közlekedési, mérésügyi és műszaki biztonsági feladatkör
 
 ## Az I. besorolási osztályban:
 
-## általános orvos, fogorvos, gyógyszerész, jogász szakképzettség; főiskolai szintű egészségügyi ügyvitelszervező szakképzettség, egészségügyi felsőoktatásban szerzett szakképzettség vagy közgazdasági felsőoktatásban szerzett szakképzettség és informatikus szakképesítés.
+## Felsőoktatásban szerzett műszaki, közszolgálati, környezetgazdálkodási, jogi, gazdaságtudományi, bölcsészettudományi, természettudományi, agrár szakképzettség; vagy felsőoktatásban szerzett szakképzettség és műszaki, környezetgazdálkodási felsőfokú szakképesítés, valamint mérésügyi területen mérésügyi hitelesítő vizsga, műszaki biztonsági területen műszaki-biztonsági felügyelői szakvizsga.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és egészségügyi szakképesítés vagy középiskolai végzettség, és az OKJ szerint: egészségügyi szakképesítés.
+## Műszaki, közszolgálati, erdészet és vadgazdálkodási középiskolai végzettség; vagy középiskolai végzettség és műszaki, közszolgálati, erdészeti és vadgazdálkodási, kertészeti és parképítési szakképesítés, valamint mérésügyi területen mérésügyi hitelesítő vizsga, műszaki biztonsági területen műszaki-biztonsági felügyelői szakvizsga.
 
-## 3. Európai uniós feladatkör
+## 4. Fogyasztóvédelmi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## Európai Unió szakirányú továbbképzési szakon szerzett szakképzettség; egyetemi szintű jogász, szociológus, politológus, bölcsészettudományi és egyes társadalomtudományi, vagy közgazdasági felsőoktatásban szerzett szakképzettség; műszaki felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű pedagógus, nemzetközi kapcsolatok szakon, agrár-felsőoktatásban, vagy államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; főiskolai szintű gazdaságdiplomácia és nemzetközi menedzsment, nemzetközi kommunikáció, külgazdasági, nemzetközi marketing és teljes körű minőségirányítási szakon szerzett közgazdász szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) egyetemi szintű biztonság- és védelempolitikai szakon, illetve azzal egyenértékű egyetemi szintű szakon szerzett szakképzettség és legalább középfokú angol, valamint a helyi adottságok szerint indokolt nyelvből szerzett legalább középfokú nyelvvizsga.
+## Felsőoktatásban szerzett közszolgálati, gazdaságtudományi, agrár, műszaki, orvos és egészségtudományi, jogi szakképzettség; vagy felsőoktatásban szerzett szakképzettség és közszolgálati, közgazdasági, kereskedelem-marketing, üzleti adminisztráció, vendéglátás-turisztikai, ügyviteli felsőfokú szakmacsoportba tartozó szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és közgazdasági (külkereskedelmi szakirányú) szakképesítés, vagy középiskolai végzettség és az OKJ szerint: európai üzleti asszisztensi szakképesítés.
+## Közszolgálati, közgazdasági, kereskedelmi, vendéglátó-ipari középiskolai végzettség; vagy középiskolai végzettség és közgazdasági, közszolgálati, kereskedelem-marketing, üzleti adminisztráció, ügyviteli szakmacsoportba tartozó szakképesítés.
 
-## 4.[^11] Építésügyi igazgatási feladatok
-
-## Kiemelt munkakör
-
-## Építésügyi igazgatási (hatósági) kiemelt munkakörben:
+## 5. Élelmiszerlánc-biztonsági és állategészségügyi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség a döntés-előkészítő és a döntéshozó munkakör kivételével; egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő szakirány) szakképzettség, főiskolai szintű magasépítő üzemmérnöki, építészmérnöki, építőmérnöki (magasépítő területen szerkezetépítő szakirány) vagy városgazdasági üzemmérnöki (ezzel egyenértékű településmérnöki) szakképzettség vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik; építészmérnöki alapképzési szak építész, épületszerkezeti konstruktőr vagy magasépítési szakirányán szerzett szakképzettség, vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik, tervező építészmérnöki, szerkezettervező építészmérnöki mesterképzési szakon, osztatlan képzésben építész mesterképzési szakon szerzett szakképzettség vagy aki ezekkel egyenértékűnek elismert szakképzettséggel rendelkezik.
-
-## Építésügyi nyilvántartások vezetése és egyéb építésügyi munkakörben:
+## Felsőoktatásban szerzett állatorvosi, műszaki, gazdaságtudományi, orvos- és egészségtudományi, természettudományi, agrár szakképzettség; vagy felsőoktatásban szerzett szakképzettség és minőségbiztosítási felsőfokú szakképesítés; vagy felsőoktatásban szerzett szakképzettség és felsőfokú minőségirányítási vezetői vagy felsőfokú minőségbiztosítási auditori bizonyítvány.
 
 ## A II. besorolási osztályban:
 
-## Szakirányú középfokú végzettség.
+## Mezőgazdasági középiskolai végzettség; vagy középiskolai végzettség és mezőgazdasági, élelmiszeripari, kereskedelem-marketing, üzleti adminisztráció szakmacsoportba tartozó szakképzettség.
 
-## 5. Fogyasztóvédelmi igazgatási feladatok
+## 6. Népegészségügyi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász vagy általános orvos szakképzettség; egyetemi vagy főiskolai szintű agrár-, közgazdasági (ezen belül főiskolai szintű kereskedelmi, vendéglátó és szálloda, idegenforgalmi és szálloda szakon) vagy műszaki felsőoktatásban szerzett szakképzettség; főiskolai szintű igazgatásszervező, pénzügyi-üzemgazdászi, fogyasztóvédelmi vagy gazdasági (fogyasztóvédelmi, üzemgazdászi) szakképzettség.
+## Felsőoktatásban szerzett orvos- és egészségtudományi, jogi, közszolgálati, gazdaságtudományi, természettudományi, műszaki, társadalomtudományi szakképzettség; vagy felsőoktatásban szerzett szakképzettség és egészségügyi szakmacsoportba tartozó felsőfokú szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és közgazdasági, műszaki, agrár, kereskedelmi, vendéglátó-ipari szakképesítés, vagy középiskolai végzettség és az OKJ szerint: műszaki szakmacsoportban iskolarendszerű képzésben szerezhető szakképesítés vagy kereskedelmi technikus, idegenforgalmi technikus, pénzügyi ügyintézői szakképesítés.
+## Egészségügyi, vegyipari középiskolai végzettség; vagy középiskolai végzettség és egészségügyi szakmacsoportba tartozó szakképesítés.
 
-## 6. Földművelésügyi igazgatási feladatok
+## 7. Támogatási és rehabilitációs feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi vagy főiskolai szintű agrár-felsőoktatásban szerzett szakképzettség; egyetemi szintű földmérő és térinformatikai mérnök szakképzettség.
+## Felsőoktatásban szerzett jogi, orvosi, egészségtudományi, közszolgálati, társadalomtudományi, hittudományi, pszichológus, pedagógus, andragógus, mentálhigiénés, művelődésszervező szakképzettség; vagy felsőoktatásban szerzett szakképzettség és szociális, mentálhigiénés, andragógus felsőfokú szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és agrár-, közgazdasági szakképesítés vagy növényvédelmi, erdészeti, mezőgazdasági áruforgalmi, általános kertész, földmérési, térképészeti technikus; középiskolai végzettség és az OKJ szerint: mezőgazdasági áruforgalmazó technikus, kertész- és növényvédelmi technikus, földmérő technikus, térképész technikus szakképesítés.
+## Középiskolai végzettség és közgazdasági, szociális, jogi, közszolgálati szakmacsoportba tartozó szakképesítés.
 
-## Kiemelt munkakör
-
-## Állat-egészségügyi igazgatási feladatok:
+## 8. Egészség- és nyugdíjbiztosítási feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű állatorvos doktor szakképzettség; önálló szervezeti egység vezetésével megbízottnak szakállatorvosi szakirányú szakképzettség.
-
-## 7.[^12] Gyámügyi és gyermekvédelmi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## okleveles közigazgatási menedzser, jogász, főiskolai szintű igazgatásszervező szakképzettség; egyetemi szintű szociálpolitikus, egyetemi vagy főiskolai szintű szociális munkás, pedagógus, főiskolai szintű szociálpedagógus, szociális szervező szakképzettség, egyetemi vagy főiskolai szintű végzettség és – mindegyik esetben – legalább 1 éves gyámügyi vagy gyermekvédelmi gyakorlat vagy szakirányú (szakosító) továbbképzésben szerzett szociális igazgatásszervező szakképzettség vagy jogi szakokleveles családvédelmi tanácsadó szakirányú szakképzettség.
+## Felsőoktatásban szerzett orvosi, egészségtudományi, gazdaságtudományi, társadalomtudományi, közszolgálati, jogi szakképzettség; vagy felsőoktatásban szerzett szakképzettség és gazdaságtudományi, közszolgálati, munkaügyi és társadalombiztosítási felsőfokú szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és az OKJ szerinti: szociális gyermek- és ifjúságvédelmi ügyintéző, szociális asszisztens, szociális gondozó és szervező szakképesítés.
+## Közgazdasági középiskolai végzettség; vagy középiskolai végzettség és szociális, jogi, közgazdasági, közszolgálati, egészségügyi szakmacsoportba tartozó szakképesítés.
 
-## 8. Honvédelmi igazgatási, tervezési, szervezési feladatkör
+## 9. Szociális és gyámügyi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű műszaki vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű rendészeti felsőoktatásban szerzett szakképzettség vagy államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
+## Felsőoktatásban szerzett közszolgálati, gazdaságtudományi, társadalomtudományi, jogi, bölcsészettudományi, orvos és egészségtudományi, hittudományi, pedagógus szakképzettség; vagy felsőoktatásban szerzett szakképzettség és szociális szakmacsoportba tartozó szakképesítés, vagy gyámügyi, vagy gyermekvédelmi, vagy szociális területen szerzett gyakorlat.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és az OKJ szerint: honvéd zászlós, védelmi igazgatási szakelőadó, katonai kiképző szakképesítés.
+## Középiskolai végzettség és szociális szakmacsoportba tartozó szakképesítés, vagy gyámügyi, vagy gyermekvédelmi, vagy szociális területen szerzett gyakorlat.
 
-## 9. Idegenforgalommal kapcsolatos feladatkör
+## 10. Igazságügyi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági, bölcsészettudományi, társadalomtudományi szakképzettség; főiskolai szintű igazgatásszervező szakképzettség, valamint a turizmus szakterület alaptevékenységének fejlesztési programjai igénye szerinti egyetemi vagy főiskolai végzettség.
+## Jogi segítségnyújtási szakterületen: felsőoktatásban szerzett jogi, közszolgálati szakképzettség; vagy felsőoktatásban szerzett szakképzettség és jogi, igazságügyi felsőfokú szakképesítés.
+
+## Áldozatsegítési és pártfogó felügyelő szakterületen: felsőoktatásban szerzett közszolgálati, jogi, társadalomtudományi, hittudományi, pedagógus, andragógus, pszichológus, művelődésszervező szakképzettség; felsőoktatásban szerzett szakképzettség és szociális, addiktológiai, gyermek- és ifjúságvédelmi, mentálhigiénés felsőfokú szakképesítés.
+
+## II. besorolási osztályban:
+
+## Áldozatsegítő és pártfogó felügyelői szakterületen: középiskolai végzettség és szociális, jogi, közgazdasági, közszolgálati szakmacsoportba tartozó szakképesítés, valamint középiskolai végzettség és pénzügyi vagy számviteli ügyintézői szakképesítés.
+
+## 11. Foglalkoztatáspolitikai, munkavédelmi és munkaügyi feladatkör
+
+## Az I. besorolási osztályban:
+
+## Felsőoktatásban szerzett jogi, közszolgálati, pedagógus, gazdaságtudományi, agrár, műszaki, bölcsészettudományi, társadalomtudományi szakképzettség; vagy felsőoktatásban szerzett szakképzettség és szociális, mentálhigiénés, andragógus szakképesítés; szociálpolitikus vagy szociológus szakképzettség. Munkavédelmi feladatkörök esetében a természettudományi-, agrár-, műszaki-, orvos- és egészségtudományi felsőoktatásban szerzett szakképzettség mellett legalább középfokú munkavédelmi szakképesítés, egyebekben felsőfokú munkavédelmi szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és közgazdasági, kereskedelmi, vendéglátó-ipari, idegenforgalmi szakképesítés vagy középiskolai végzettség és az OKJ szerint: idegenforgalmi menedzser, idegenforgalmi technikus, vendéglátó menedzser, vendéglátó technikus, kereskedelmi technikus, idegenforgalmi ügyintéző szakképesítés.
+## Közszolgálati középiskolai végzettség; vagy középiskolai végzettség és közszolgálati vagy közgazdasági szakmacsoportba tartozó szakképesítés. Középfokú személyügyi, középfokú társadalombiztosítási, munkaerő-piaci menedzser, munkaerő-piaci ügyintéző, munkaerő-piaci instruktor szakképesítés.
 
-## 10. Ipari és belkereskedelmi igazgatási feladatok
+## 12. Növény- és talajvédelmi, erdészeti, földművelésügyi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban (ezen belül kereskedelmi, vendéglátó és szálloda, idegenforgalmi és szálloda szakon) szerzett szakképzettség; egyetemi vagy főiskolai szintű műszaki vagy élelmiszer-ipari szakirányú agrármérnök szakképzettség; jogász szakképzettség; főiskolai szintű igazgatásszervező szakképzettség.
+## Felsőoktatásban szerzett közszolgálati, agrár, jogi, gazdaságtudományi, műszaki, vegyészmérnök szakképzettség; vagy felsőoktatásban szerzett szakképzettség és közgazdasági, mezőgazdasági szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és közgazdasági, műszaki, kereskedelmi, vendéglátó-ipari, élelmiszer-ipari szakképesítés; középiskolai végzettség és az OKJ szerint: műszaki szakcsoportba tartozó technikus, intézményi kommunikátor, idegenforgalmi menedzser, kereskedelmi technikus, pénzügyi ügyintéző szakmai vizsga; középiskolai végzettség és szakképző iskolában szerzett ipari, élelmiszer-ipari, kereskedelmi, vendéglátó-ipari szakképesítés.
+## Közszolgálati, közgazdasági, agrár, erdészetet és vadgazdálkodási, mezőgazdasági középiskolai végzettség; vagy középiskolai végzettség és közszolgálati, mezőgazdasági szakmacsoportba tartozó szakképesítés.
 
-## 11. Környezetvédelmi igazgatási feladatok
+## 13. Földhivatali feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű biológus (ökológus), geológus, meteorológus, környezetmérnök vagy közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű agrár-felsőoktatásban szerzett szakképzettség vagy vegyészmérnök, építészmérnök, építőmérnök, biomérnök, környezetmérnök, mérnök-fizikus szakképzettség; főiskolai szintű településmérnök szakképzettség; szakirányú (szakosító) továbbképzésben szerzett környezetvédelmi vagy természetvédelmi szakmérnök szakképzettség.
+## Felsőoktatásban szerzett jogi, közszolgálati, agrár, műszaki, föld- és földrajztudományi szakképzettség; vagy felsőfokú szakképzettség és közszolgálati, mezőgazdasági szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, építőipari, közgazdasági, geológiai, vízügyi szakképesítés; mezőgazdasági, geológiai, kertészeti, erdészeti, építőipari, vízügyi vízgazdálkodási technikus; középiskolai végzettség és az OKJ szerint: környezet- és természetvédelmi szakmunkás, környezetvédelmi (szak)technikus, települési környezetvédelmi technikus, környezetvédelmi szakelőadó, természetvédelmi technikus, településfejlesztési szakelőadó szakképesítés, hulladékkezelői, valamint az ipari biotechnológusi technikus.
+## Közszolgálati középiskolai végzettség; vagy középiskolai végzettség és közszolgálati, mezőgazdasági szakmacsoportba tartozó szakképesítés.
 
-## 12. Közlekedési és vízügyi igazgatási feladatok
+## 14. Hatósági feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi vagy főiskolai szintű közlekedésmérnök, építőmérnök (vízellátási és csatornázási, vízépítő) vagy környezetmérnök szakképzettség; főiskolai szintű környezetgazdálkodási agrármérnök, meliorációs mérnök szakképzettség.
+## Felsőoktatásban szerzett közszolgálati, gazdaságtudományi, természettudományi, bölcsészettudományi, társadalomtudományi, hittudományi, jogi, műszaki szakképzettség; vagy felsőoktatásban szerzett szakképzettség és informatikai, ügyviteli, közgazdasági, közszolgálati, jogi szakképesítés, vagy kormányablak ügyintézői szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## települési vízgazdálkodási, vízügyi, közlekedésgépészeti, útépítési, fenntartási technikus; középiskolai végzettség és közgazdasági szakképesítés; középiskolai végzettség és az OKJ szerint: közlekedésépítő-környezetvédő technikus, közlekedési környezetvédelmi technikus, víz- és szennyvíztechnológus technikus, vízügyi technikus szakképesítés.
+## Közgazdasági, közszolgálati rendészeti, műszaki középiskolai végzettség; vagy középiskolai végzettség és informatikai, ügyviteli, közgazdasági, üzleti, közszolgálati szakmacsoportba tartozó szakképesítés, vagy kormányablak ügyintézői szakképesítés.
 
-## 13. Közterület-felügyelői feladatkör
+## 15. Építésügyi igazgatási területen
 
-## Az I. besorolási osztályban:
+## a) az építésfelügyeleti ellenőrzési tevékenységet, az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó köztisztviselő és kormánytisztviselő képesítési követelménye:
 
-## főiskolai szintű rendészeti felsőoktatásban szerzett szaknyomozó vagy szervező szakképzettség; egyetemi vagy főiskolai szintű katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett határrendészeti és védelmi vezetői, illetve azzal egyenértékű szakképzettség; egyetemi vagy főiskolai szintű végzettség és a rendészeti felsőoktatásban szerzett szakképesítés; egyetemi vagy főiskolai szintű végzettség és közterület-felügyelői vizsga.
+## aa) egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő szakirány) szakképzettség, főiskolai szintű magasépítő üzemmérnöki, építészmérnöki, építőmérnöki (magasépítő területen szerkezetépítő szakirány) vagy városgazdasági üzemmérnöki (ezzel egyenértékű településmérnöki) szakképzettség vagy ezekkel egyenértékűnek elismert szakképzettség, vagy
 
-## A II. besorolási osztályban:
+## ab) alapképzésben szerzett építész, épületszerkezeti konstruktőr vagy magasépítési szakirányán szerzett szakképzettség, mesterfokozatú képzésben szerzett tervező építészmérnöki, szerkezettervező építészmérnöki szakképzettség, osztatlan képzésben szerzett építész szakképzettség vagy ezekkel egyenértékűnek elismert szakképzettség.
 
-## rendészeti szakközépiskolai végzettség vagy ezzel egyenértékű más korábbi képzési formában szerzett végzettség; rendőr szakközépiskolai, határrendészképző szakiskolai végzettség; középiskolai végzettség és rendőri szakképesítés vagy ezzel egyenértékű más korábbi szakképesítés, határrendész szakképesítés vagy ezzel egyenértékű más korábbi szakképesítés; középiskolai végzettség és közterület-felügyelői vizsga.
+## b) építésügyi nyilvántartások vezetése munkakörben
 
-## 14. Minőségügyi, minőségbiztosítási, minőség-menedzsmenti feladatkör
+## II. besorolási osztályban:
 
-## Az I. besorolási osztályban:
+## szakirányú középfokú iskolai végzettség.
 
-## egyetemi vagy főiskolai szintű minőségügyi, minőségbiztosítási feladatokra felkészítő szakképzettség; egyetemi vagy főiskolai szintű végzettség és szakirányú posztgraduális másoddiploma vagy minőségirányítási vezetői vagy minőségbiztosítási auditori bizonyítvány.
-
-## 15. Kulturális és közoktatási igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű jogász, közgazdasági, természettudományi, bölcsészettudományi, hittudományi, művészeti felsőoktatásban szerzett szakképzettség; főiskolai szintű pedagógus, hittudományi, művész, közigazgatási felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és az OKJ szerint: felsőfokú közművelődési, közgyűjteményi szakképesítés.
-
-## 16. Pénzügyi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi vagy főiskolai szintű katonai felsőoktatást folytató intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség és felsőfokú pénzügyi, számviteli szakügyintézői szakképesítés.
+## c) Titkársági munkakör:
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és közgazdasági szakképesítés vagy pénzügyi-számviteli szakképesítés; középiskolai végzettség és az OKJ szerint: gazdasági elemző- és szakstatisztikai ügyintéző, banki ügyintéző, számítógép-kezelői és számítástechnikai szoftverüzemeltetői szakképesítés.
+## érettségi vizsga.
 
-## 17. Sportszakmai és sportigazgatási feladatok
+## 16. Örökségvédelmi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## sportszervező; sportmenedzser; okleveles sportmenedzser; testnevelő tanár; okleveles testnevelő tanár; rekreáció-szervező; szakedző; okleveles szakedző; testnevelő-edző; rekreációszervező-egészségfejlesztő; okleveles rekreáció-irányító; humánkineziológus; okleveles humánkineziológus; jogász szakképzettség; egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; testnevelés műveltségi területen (szakkollégiumi képzésben) szerzett tanító; államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; jogi és igazgatási képzési területen szerzett szakképzettség; katonai felsőoktatásban szerzett szakképzettség; nemzetvédelmi és katonai képzési területen szerzett szakképzettség.
+## Felsőoktatásban szerzett építész-, építőmérnök, műemlékvédelmi szakmérnök, egyetemi szintű régész, jogász, közszolgálati szakképzettség.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és az OKJ szerint: sportszervező, -menedzser; katonai kiképző szakképesítés.
+## Építőipari középiskolai végzettség; vagy középiskolai végzettség és építészeti szakmacsoportba tartozó szakképesítés.
 
-## 18.[^13] Szociális igazgatási feladatok
+## 17. Oktatási feladatkör
 
 ## Az I. besorolási osztályban:
 
-## okleveles közigazgatási menedzser; egyetemi szintű szociálpolitikus, jogász szakképzettség; egyetemi vagy főiskolai szintű szociális munkás szakképzettség; főiskolai szintű szociálpedagógus, szociális szervező, igazgatásszervező szakképzettség; egyetemi vagy főiskolai szintű végzettség és legalább 1 éves szociális szakterületen szerzett gyakorlat vagy szakirányú (szakosító) továbbképzésben szerzett szociális igazgatásszervező szakképzettség vagy szociális ügyintézői szakképesítés.
+## Felsőoktatásban szerzett bölcsészettudományi, társadalomtudományi, hittudományi, közszolgálati, jogi, gazdaságtudományi, természettudományi, művészeti, pedagógus, szakképzettség; vagy felsőoktatásban szerzett szakképzettség és közművelődési, közgyűjteményi felsőfokú szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és szociális ügyintéző vagy középiskolai végzettség és az OKJ szerint: szociális gyermek- és ifjúságvédelmi ügyintéző, szociális asszisztens szakképesítés.
+## Középiskolai végzettség.
 
-## 19.[^14] Településfejlesztési és -rendezési, valamint településüzemeltetési feladatok
+## 18. Törvényességi felügyeleti feladat
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű geográfus, jogász vagy szociológus szakképzettség; egyetemi vagy főiskolai szintű műszaki vagy közgazdasági, agrár- (ezen belül környezetvédelmi mérnök vagy okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök) felsőoktatásban szerzett szakképzettség; szakirányú továbbképzésben szerzett környezetvédelmi szakmérnök szakképzettség; főiskolai szintű igazgatásszervező szakképzettség és településfejlesztési, -rendezési szakképesítés.
+## Felsőoktatásban szerzett jogi, közszolgálati szakképzettség.
+
+## 19. Pénzügyi és számviteli feladatkör
+
+## Az I. besorolási osztályban:
+
+## Felsőoktatásban szerzett gazdaságtudományi, közszolgálati, műszaki menedzser, gazdasági agrármérnöki, jogi, szakképzettség; vagy felsőoktatásban szerzett szakképzettség és gazdaságtudományi, statisztikai, informatikai, műszaki, logisztikai felsőfokú, illetve mérlegképes könyvelő szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és építőipari, épületgépészeti, kertészeti, közgazdasági szakképesítés, települési vízgazdálkodási, vízügyi, kertésztechnikusi, parképítő- és fenntartó technikusi végzettség, közlekedésépítő, környezetvédő technikus, útépítő technikus, műemléki fenntartó technikus, középiskolai végzettség és az OKJ szerint: építőanyag-ipari technikus, épületgépész technikus, településfejlesztési szakelőadó, települési környezetvédelmi technikus, víz- és szennyvíztechnológus technikus, vízügyi technikus, kertész- és növényvédelmi technikus, környezetvédelmi szakelőadó, környezetvédelmi (szak)technikus szakképesítés.
+## Gazdasági középiskolai végzettség; vagy középiskolai végzettség és gazdaságtudományi, statisztikai, banki ügyintézői, informatikai, műszaki, logisztikai, menedzserasszisztens szakképesítés.
 
-## Kiemelt munkakör
-
-## Főépítészi munkakörben:
+## 20. Gazdasági és üzemeltetési feladatkör
 
 ## Az I. besorolási osztályban:
 
-## okleveles építészmérnök, vagy azzal egyenértékű szakképzettség, és – a megyei jogú városi, fővárosi, valamint fővárosi kerületi főépítészi munkakör kivételével – okleveles településmérnök, vagy azzal egyenértékű szakképzettség.
-
-## 20.[^15] Természetvédelmi igazgatási feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi szintű közgazdász, jogász, biológus, geológus, geográfus szakképzettség; egyetemi vagy főiskolai szintű agrár-felsőoktatásban szerzett szakképzettség (ezen belül erdőmérnök, kertészmérnök, okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök); egyetemi vagy főiskolai szintű végzettség és szakirányú továbbképzésben szerzett természetvédelmi szakmérnök szakképzettség.
+## Felsőoktatásban szerzett műszaki, közszolgálati, jogi, építész, gazdaságtudományi, szakképzettség.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, közgazdasági, geológiai, vízügyi szakképesítés, mezőgazdasági, geológiai, kertészeti, erdészeti, vízügyi vízgazdálkodási technikusi képesítés; középiskolai végzettség és az OKJ szerint: természetvédelmi szakmunkás, természetvédelmi (szak)technikusi szakképesítés.
+## Műszaki, gazdasági középiskolai végzettség; vagy középiskolai végzettség és közgazdasági, közszolgálati, gépészet, elektrotechnika-elektronika, informatika szakmacsoportba tartozó szakképesítés.
 
-## Kiemelt munkakör
-
-## Önkormányzati természetvédelmi őr:
+## 21. Informatikai feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi vagy főiskolai szintű kertészmérnök, okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök, környezetgazdálkodási agrármérnök, biomérnök, környezetmérnök, biológiatanár, földrajztanár szakképzettség; egyetemi szintű erdőmérnök, orvosbiológiai mérnök, növényorvos, okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök, vidékfejlesztési agrármérnök, biológus, geofizikus, geográfus, geológus, környezettan-tanár szakképzettség; főiskolai szintű földmérő mérnök, földrendező mérnök, meliorációs mérnök, növénytermesztési mérnök, tájgazdálkodási mérnök, vadgazda mérnök, környezetvédelem-tanár szakképzettség; egyetemi vagy főiskolai szintű természettudományos, műszaki, agrár-felsőoktatásban szerzett szakképzettség, és a szakterületnek megfelelő szakirányú továbbképzésben szerzett szakképzettség.
+## Felsőoktatásban szerzett műszaki, informatikai, informatikatanár, számítástechnika tanár szakképzettség; vagy felsőoktatásban szerzett szakképzettség és ügyvitelszervező, informatikus, programtervező, programozó, rendszerszervező felsőfokú szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, vadgazdálkodási, vízügyi, vízgazdálkodási, geológiai szakképesítés vagy középiskolai végzettség és környezet- vagy természetvédelmi szakképesítés.
+## Középiskolai informatikai végzettség; vagy középiskolai végzettség és informatikai szakmacsoportba tartozó szakképesítés.
 
-## 21.[^16] Területfejlesztési és vidékfejlesztési feladatok
+## 22. Jogi és perképviseleti feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű jogász, szociológus, földrajztanár vagy geográfus szakképzettség; egyetemi vagy főiskolai szintű agrár- (ezen belül környezetgazdálkodási agrármérnök, okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles táj- és kertépítész szakos kertészmérnök), közgazdasági vagy műszaki felsőoktatásban szerzett szakképzettség; főiskolai szintű településmérnök vagy államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
+## Felsőoktatásban szerzett jogi, közszolgálati szakképzettség.
+
+## 23. Humánpolitikai feladatkör
+
+## Az I. besorolási osztályban:
+
+## Felsőoktatásban szerzett jogi, közszolgálati, gazdaságtudományi, pedagógus, bölcsészettudományi, társadalomtudományi, hittudományi, szociális felsőoktatásban szerzett szakképzettség; vagy felsőoktatásban szerzett szakképzettség és közszolgálati, emberi erőforrás gazdálkodási, humán erőforrás menedzser vagy munkaügyi és társadalombiztosítási felsőfokú szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és mezőgazdasági, kertészeti, erdészeti, építőipari, közgazdasági, vízügyi szakképesítés; mezőgazdasági, kertészeti, erdészeti, építőipari, vízügyi, települési vízgazdálkodási technikusi képesítés; középiskolai végzettség és az OKJ szerint: településfejlesztési szakelőadó szakképesítés.
+## Középiskolai végzettség és munkaügyi, társadalombiztosítási, szociális, emberi erőforrás gazdálkodási szakmacsoportba tartozó szakképesítés.
 
-## 22.[^17] Titkársági, testületi feladatkör
+## 24. Koordinációs feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség; főiskolai szintű igazságügyi ügyintéző szakképzettség.
+## Felsőoktatásban szerzett közszolgálati, jogi, műszaki, gazdaságtudományi, pedagógus, hittudományi, andragógus, művelődésszervező szakképzettség.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és közgazdasági szakképesítés; közgazdasági szakközépiskolai általános ügyintéző titkár (menedzserasszisztens) szakképesítés; középiskolai végzettség és az OKJ szerint: valamely középfokú (ügyintézői szintű) pénzügyi-számviteli, általános gazdasági és statisztikai ügyintéző, vállalkozási ügyintéző, igazgatási ügyintéző-ügykezelő, irodavezető, nyilvántartási és okmányügyintéző, jogi asszisztens, idegen nyelvi titkár, ügyvitelszervezői és rendszerszervezői, számítástechnikai szakképesítés vagy katonai kiképző, védelmi igazgatási szakelőadó, honvéd zászlós, honvéd tiszthelyettes szakképesítés.
+## Középiskolai végzettség.
 
-## 23. Villamosenergia- és távhőszolgáltatás, valamint energetikai igazgatási feladatok
+## 25. Anyakönyvi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi vagy főiskolai szintű műszaki felsőoktatásban szerzett szakképzettség.
+## Felsőoktatásban szerzett közszolgálati vagy jogi szakképzettség; vagy felsőoktatásban szerzett szakképzettség és anyakönyvi szakvizsga.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és távközlési, villamosenergia-ipari középfokú szakképesítés; középiskolai végzettség és az OKJ szerint: távközlési technikus szakképesítés.
+## Középiskolai végzettség és anyakönyvi szakvizsga.
 
-## II.
-
-## 1. Foglalkoztatással kapcsolatos humánpolitikai, valamint munkaügyi feladatok
+## 26. Környezetvédelmi és vízügyi feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű jogász, humánszervező, pszichológus, szociálpolitikus vagy szociológus szakképzettség; egyetemi vagy főiskolai szintű pedagógus, hittudományi, szociális munkás vagy közgazdasági felsőoktatásban szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség, munkaügyi kapcsolatok, humánerőforrás menedzser, személyügyi szervező szakképzettség; rendészeti felsőoktatásban szerzett igazgatásrendészeti szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképesítés.
+## Felsőoktatásban szerzett jogi, közszolgálati, gazdaságtudományi, pedagógus, tanár, természettudományi, agrár, műszaki, természetvédelmi szakképzettség; vagy felsőoktatásban szerzett szakképzettség és környezetgazdálkodási, környezetmérnöki, vízépítőmérnöki, vegyészmérnöki, biomérnöki, környezettudományi, természetvédelmi szakképzettség.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és középfokú munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképesítés.
+## Közszolgálati, mezőgazdasági, erdészet és vadgazdálkodási, kertészet és parképítési, építőipari középiskolai végzettség; vagy középiskolai végzettség és környezetvédelem, természetvédelem- vízgazdálkodási szakmacsoportba tartozó szakképesítés.
 
-## 2. Gazdálkodással kapcsolatos feladatok
+## 27. Titkársági feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi vagy főiskolai szintű közgazdasági felsőoktatásban szerzett szakképzettség; egyetemi szintű műszaki felsőoktatásban szerzett szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) gazdálkodási (gazdasági) szakon szerzett szakképzettség; egyetemi vagy főiskolai szintű végzettség és pénzügyi, számviteli, számítástechnikai felsőfokú szakképesítés.
+## Felsőoktatásban szerzett szakképzettség.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és közgazdasági szakképesítés vagy középiskolai végzettség és az OKJ szerint: pénzügyi-számviteli szakképesítés, gazdasági elemző és szakstatisztikus ügyintéző, banki ügyintéző szakképesítés.
+## Középiskolai végzettség.
 
-## 3.[^18] Belső ellenőrzési feladatok
-
-## Az I. besorolási osztályban:
-
-## a) az alábbi szakirányú szakképzettségek valamelyikével rendelkezik:
-
-## aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász, igazgatásszervező, okleveles igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser vagy
-
-## ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi, vagy
-
-## b) az a) pontba nem tartozó felsőfokú iskolai végzettséggel és
-
-## ba) okleveles pénzügyi revizori,
-
-## bb) pénzügyi-számviteli szakellenőri,
-
-## bc) ellenőrzési szakelőadó,
-
-## bd) okleveles könyvvizsgálói,
-
-## be) költségvetési ellenőri,
-
-## bf) mérlegképes könyvelői,
-
-## bg) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
-
-## bh) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
-
-## bi) közigazgatási gazdálkodási és ellenőrzési szakértői,
-
-## bj) felsőfokú költségvetési, vagy
-
-## bk) felsőfokú államháztartási
-
-## szakképesítéssel rendelkezik.
-
-## 4. Kommunikációs feladatok
+## 28. Ügyfélszolgálati feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász szakképzettség; egyetemi vagy főiskolai szintű pedagógus, kommunikáció vagy nemzetközi kapcsolatok szakon szerzett szakképzettség; főiskolai szintű államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
-
-## 5.[^19] Műszaki és belső ellátási feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi vagy főiskolai szintű műszaki vagy agrár műszaki felsőoktatásban szerzett szakképzettség; katonai felsőoktatást folytató intézményben (jogelőd intézményében) műszaki (technikai) szakirányú szakképzettség.
+## Felsőoktatásban szerzett közszolgálati, jogi szakképzettség; vagy felsőoktatásban szerzett szakképzettség és kormányablak ügyintéző vizsga.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és építőipari szakképesítés vagy műszaki szakmacsoportban szerzett technikusi szakképesítés; középiskolai végzettség és az OKJ szerint: műszaki szakmacsoportban szerezhető szakképesítés.
+## Közszolgálati középiskolai végzettség; vagy középiskolai végzettség és kormányablak ügyintéző vizsga.
 
-## 6.[^20] Számítógépes, informatikai feladatok
+## 29. Civil kapcsolati és kommunikációs feladatkör
 
 ## Az I. besorolási osztályban:
 
-## egyetemi szintű rendszerinformatikai mérnök szakképzettség; egyetemi vagy főiskolai szintű programtervező matematikus, informatikatanár, számítástechnika-tanár, programozó matematikus, mérnökinformatikus vagy villamosmérnök szakképzettség; egyetemi vagy főiskolai szintű végzettség és ügyvitelszervező, programtervező, számítógép-programozó, rendszerszervező felsőfokú szakképesítés.
+## Felsőoktatásban szerzett bölcsészettudományi, társadalomtudományi, közszolgálati, gazdaságtudományi, pedagógus, hittudományi, andragógus, művelődésszervező szakképzettség; vagy felsőoktatásban szerzett szakképzettség és andragógus, művelődésszervező felsőfokú szakképesítés.
 
 ## A II. besorolási osztályban:
 
-## középiskolai végzettség és legalább középfokú számítástechnikai szakképesítés vagy középiskolai végzettség és az OKJ szerint: számítástechnikai programozó, számítógép rendszerprogramozó, számítástechnikai szoftverüzemeltető, információrendszer szervező, földügyi számítógépes adatkezelő, földügyi térinformatikai szaktechnikus, rendszerinformatikus, gazdasági informatikus, műszaki számítástechnikai technikusi szakképesítés.
+## Közszolgálati középiskolai végzettség; vagy középiskolai végzettség és közszolgálati szakmacsoportba tartozó szakképesítés.
 
-## 7. Vagyonkezeléssel, külföldi befektetéssel kapcsolatos feladatok
-
-## Az I. besorolási osztályban:
-
-## egyetemi vagy főiskolai szintű közgazdasági vagy műszaki felsőoktatásban szerzett szakképzettség és nyelvvizsga.
-
-## 8. Civil referens feladatkör
+## 30. Közterület-felügyelői feladatkör
 
 ## Az I. besorolási osztályban:
 
-## jogász, egyetemi szintű művelődési (és felnőttképzési) menedzser, szociológus, szociálpolitikus szakképzettség; egyetemi vagy főiskolai szintű pedagógus, hittudományi, vagy közgazdasági felsőoktatásban szerzett szakképzettség; államigazgatási és szociális igazgatási felsőoktatásban szerzett szakképzettség.
+## Felsőoktatásban szerzett közszolgálati szakképzettség; vagy felsőoktatásban szerzett szakképzettség és közszolgálati másodfokú szakképesítés.
 
-2. melléklet a 29/2012. (III. 7.) Korm. rendelethez
+## A II. besorolási osztályban:
 
-[^10]: Az 1. melléklet I. pont 1. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 76/2014. (III. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^11]: Az 1. melléklet I. pont 4. alpontja a 105/2012. (V. 30.) Korm. rendelet 27. §-a, a 322/2012. (XI. 16.) Korm. rendelet 108. § a) pontja szerint módosított szöveg.
-[^12]: Az 1. melléklet I. pont 7. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^13]: Az 1. melléklet I. pont 18. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^14]: Az 1. melléklet I. rész 19. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^15]: Az 1. melléklet I. rész 20. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § b)–c) pontja szerint módosított szöveg.
-[^16]: Az 1. melléklet I. rész 21. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^17]: Az 1. melléklet I. pont 22. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 1. melléklet II. rész 3. pontja a 497/2013. (XII. 29.) Korm. rendelet 71. §-ával megállapított szöveg.
-[^19]: Az 1. melléklet II. rész 5. pontja a 342/2014. (XII. 19.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
-[^20]: Az 1. melléklet II. pont 6. alpontja a 415/2012. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+## Közszolgálati középiskolai végzettség; vagy középiskolai végzettség és közszolgálati szakképesítés; vagy középiskolai végzettség és közterület-felügyelői vizsga.
+
+## 31. Sportszakmai feladatkör
+
+## Az I. besorolási osztályban:
+
+## Felsőoktatásban szerzett sporttudományi, testnevelő tanár, testnevelés műveltségi területen szerzett tanító, közszolgálati szakképzettség; vagy felsőoktatásban szerzett szakképzettség és sporttudományi, közszolgálati felsőfokú szakképesítés.
+
+## A II. besorolási osztályban:
+
+## Középiskolai végzettség és sportszervező, sportmenedzser, katonai kiképző szakképesítés.
+
+## 32. Település-, terület- és vidékfejlesztési, település-üzemeltetési feladatkör
+
+## Az I. besorolási osztályban:
+
+## Felsőoktatásban szerzett építész-, építő-, kertészmérnök szakmacsoportokba tartozó, gazdaságtudományi, agrár, szociológus, földrajztanár, geográfus szakképzettség; vagy felsőoktatásban szerzett szakképzettség és környezetvédelmi, vízügyi, település-fejlesztési, vidékfejlesztési, közlekedési felsőfokú szakképesítés.
+
+## A II. besorolási osztályban:
+
+## Műszaki középiskolai végzettség; vagy középiskolai végzettség és műszaki, agrár, kertészeti, közgazdasági, környezetgazdálkodási szakképesítés.
+
+2. melléklet a 29/2012. (III. 7.) Korm. rendelethez[^17]
+
+[^17]: A 2. mellékletet a 70/2015. (III. 30.) Korm. rendelet 192. § (6) bekezdése hatályon kívül helyezte.
