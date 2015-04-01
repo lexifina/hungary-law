@@ -10,4 +10,6 @@ c) a gázelosztó vezeték biztonsági övezetével érintett ingatlan tulajdono
 
 d) a gázelosztó vezeték biztonsági övezetével érintett építmény, létesítmény beruházójára, építtetőjére és üzemben tartójára.
 
-(2) E rendelet előírásait kell alkalmazni a földgázellátásról szóló 2003. évi XLII. törvény (a továbbiakban: GET) 3. §-ának 1. pontjában meghatározott célvezetékre és 5. pontjában meghatározott elosztóvezetékekre, ezek alkotórészeire, tartozékaira, a hozzá tartozó nyomásszabályozó berendezésekre (a továbbiakban együtt: gázelosztó vezeték).
+(2)[^1] E rendelet előírásait kell alkalmazni a földgázellátásról szóló törvényben meghatározott célvezetékekre és elosztóvezetékekre, ezek alkotórészeire, tartozékaira, a hozzájuk tartozó nyomásszabályozó berendezésekre (a továbbiakban együtt: gázelosztó vezeték).
+
+[^1]: Az 1. § (2) bekezdése a 15/2015. (III. 31.) NFM rendelet 9. §-ával megállapított szöveg.

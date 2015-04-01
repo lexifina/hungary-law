@@ -2,7 +2,7 @@
 
 7. § (1) E rendelet a kihirdetését követő 30. napon lép hatályba, rendelkezéseit a hatálybalépéskor folyamatban lévő ügyekben is alkalmazni kell.
 
-(2)[^7]
+(2)[^9]
 
 (3) E rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló, a 98/48/EK irányelvvel módosított 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
 
@@ -494,7 +494,7 @@ nyilvántartásba vétel
 
 1. Műszaki felülvizsgálat
 
-1.1. Az elkészült vezetékszakaszon a vezeték takarását megelőzően – lehetőség szerint a nyomáspróbával együtt – műszaki felülvizsgálatot kell tartani, amelynek időpontját az illetékes bányakapitányságnak a felülvizsgálat előtt legalább 8 nappal be kell jelenteni. A felülvizsgálatra a beruházónak meg kell hívnia a bányakapitányságot, az építtetőt, a kivitelezőt, a kijelölt elosztói engedélyest, az érintett közművek üzemeltetőit és az érintett szakhatóságokat.
+1.1.[^10] Az elkészült vezetékszakaszon a vezeték takarását megelőzően – lehetőség szerint a nyomáspróbával együtt – műszaki felülvizsgálatot kell tartani, amelynek időpontját az illetékes bányafelügyeletnek a felülvizsgálat előtt legalább 8 nappal be kell jelenteni. A felülvizsgálatra a beruházónak meg kell hívnia a bányafelügyeletet, az építtetőt, a kivitelezőt, a kijelölt elosztói engedélyest, az érintett közművek üzemeltetőit és az érintett szakhatóságokat.
 
 1.2. A takarás előtti műszaki felülvizsgálatról jegyzőkönyvet kell készíteni.
 
@@ -524,7 +524,7 @@ nyilvántartásba vétel
 
 2.1.1. Az elkészült és kellően rögzített gázelosztó vezetéken a vezeték takarását megelőzően szilárdsági és tömörségi nyomáspróbát kell tartani. A nyomáspróbák végrehajtása terv vagy technológiai utasítás alapján történhet. A tervet vagy technológiai utasítást lehetőleg a vonatkozó szabványok előírásainak figyelembevételével kell elkészíteni.
 
-2.1.2. Az elosztóvezetéken a nyomáspróbát a kivitelező végzi el, és arra köteles a tervezett időpont előtt 8 nappal írásban meghívni a területileg illetékes bányakapitányságot, az építtetőt és az üzemeltetőt.
+2.1.2.[^11] Az elosztóvezetéken a nyomáspróbát a kivitelező végzi el, és arra köteles a tervezett időpont előtt 8 nappal írásban meghívni a területileg illetékes bányafelügyeletet, az építtetőt és az üzemeltetőt.
 
 2.1.3. A nyomáspróba megkezdése előtt a vezeték az üzemeltetés feltételeinek megfelelően kitisztított, az üzemeltetési állapotnak megfelelő helyzetben, elmozdulás ellen rögzített legyen úgy, hogy a nyomáspróbák során elvégzendő vizsgálatok végrehajtását a rögzítés ne akadályozza. A nyomáspróba végrehajtója köteles minden olyan intézkedést megtenni, ami biztosítja a nyomáspróba biztonságos, az életet, vagyont, egészséget és a környezetet nem veszélyeztető végrehajtását.
 
@@ -606,7 +606,7 @@ Tpt a nyomáspróba időtartama [óra]
 
 2.3.3. Nem kell külön tömörségi nyomáspróbát végezni, ha a szilárdsági nyomáspróba légnemű közeggel történt, és a vizsgálatok végrehajtása, valamint kiértékelése a tömörségi követelményekre is kiterjedt.
 
-2.3.4. Üzemelő gázelosztó vezeték nyomásemelésénél a MOP-nak megfelelő értékű tömörségi nyomáspróbát kell tartani haszongázzal a 2.3.2. pontnak megfelelően. A nyomásemeléshez tervdokumentációt kell készíteni, amelyet a bányakapitánysággal engedélyeztetni kell.
+2.3.4.[^12] Üzemelő gázelosztó vezeték nyomásemelésénél a MOP-nak megfelelő értékű tömörségi nyomáspróbát kell tartani haszongázzal a 2.3.2. pontnak megfelelően. A nyomásemeléshez tervdokumentációt kell készíteni, amelyet a bányafelügyelettel engedélyeztetni kell.
 
 2.3.5. A tömörségi nyomáspróba akkor minősíthető sikeresnek, ha a nyomásváltozás igazoltan kizárólag az esetleges légnyomásváltozásból, illetve hőmérsékletváltozásból adódóan következett be, és a vizsgált rendszer egyik elemén sem volt tömörtelenség kimutatható.
 
@@ -756,7 +756,7 @@ A nyomásmentesítéshez szükséges elzárást DN ≤ 160 mm névleges átmér�
 
 történhet.
 
-5. Rekonstrukció
+5.[^13] Rekonstrukció
 
 5.1. A rekonstrukciót a területileg illetékes bányakapitánysághoz történt bejelentést követően az elosztói engedélyes által elfogadott kiviteli terv alapján kell végezni.
 
@@ -918,9 +918,9 @@ Az állandó, vagy tartósan telepített folyamatvezérlő állomást lehetőleg
 
 10.2. Különálló épület
 
-10.2.1. Az épület a külön jogszabály[^8] szerinti I., vagy II. tűzállósági fokozatú legyen.
+10.2.1. Az épület a külön jogszabály[^14] szerinti I., vagy II. tűzállósági fokozatú legyen.
 
-10.2.2. Az épületnek az a külön jogszabály[^9] szerinti hasadó-nyíló felülete legyen.
+10.2.2. Az épületnek az a külön jogszabály[^15] szerinti hasadó-nyíló felülete legyen.
 
 10.2.3. Az épület belmagassága legalább 2,60 m legyen.
 
@@ -1130,6 +1130,10 @@ Munkavédelmi előírások
 
 10.5. A berendezés jegesedését csak olyan mértékben szabad melegítéssel megelőzni, amely nem okozza a berendezés veszélyes felmelegedését vagy a gáz meggyulladását.
 
-[^7]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 96. pontja hatályon kívül helyezte.
-[^8]: Tűzvédelem és a polgári védelem műszaki követelményeinek megállapításáról szóló 2/2002. (I. 23.) BM rendelet.
-[^9]: Tűzvédelem és a polgári védelem műszaki követelményeinek megállapításáról szóló 2/2002. (I. 23.) BM rendelet.
+[^9]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 96. pontja hatályon kívül helyezte.
+[^10]: A melléklet VII. fejezet 1.1. pontja a 15/2015. (III. 31.) NFM rendelet 10. § c) pont ca)–cb) alpontja szerint módosított szöveg.
+[^11]: A melléklet VII. fejezet 2.1.2. pontja a 15/2015. (III. 31.) NFM rendelet 10. § c) pont cb) alpontja szerint módosított szöveg.
+[^12]: A melléklet VII. fejezet 2.3.4. pontja a 15/2015. (III. 31.) NFM rendelet 10. § c) pont cc) alpontja szerint módosított szöveg.
+[^13]: [A melléklet VIII. fejezet 5.1.1. pontjának a 15/2015. (III. 31.) NFM rendelet 10. § c) pont cd) alpontjával elrendelt módosítás, amely szerint a „bányakapitánysághoz” szövegrész helyébe a „bányafelügyelethez” szöveg lép, nem vezethető át.]
+[^14]: Tűzvédelem és a polgári védelem műszaki követelményeinek megállapításáról szóló 2/2002. (I. 23.) BM rendelet.
+[^15]: Tűzvédelem és a polgári védelem műszaki követelményeinek megállapításáról szóló 2/2002. (I. 23.) BM rendelet.
