@@ -28,7 +28,7 @@ b) a jegyző a (4) bekezdés szerinti ellenőrzés során nem tárt fel olyan hi
 
 (5)[^37] Üdülő, gyermek- és ifjúsági tábor, turistaház, kulcsosház, valamint pihenőház esetén a jegyző a nyilvántartásba vételről értesíti
 
-a)[^38] a szálláshely szerint illetékes járási (fővárosi kerületi) népegészségügyi intézetet (a továbbiakban: járási népegészségügyi intézet) a közegészségügyi követelmények,
+a)[^38] a fővárosi és megyei kormányhivatalnak a népegészségügyi feladatkörében eljáró – a szálláshely szerint illetékes – járási (fővárosi kerületi) hivatalát (a továbbiakban: népegészségügyi feladatkörében eljáró járási hivatal) a közegészségügyi követelmények,
 
 b) a szálláshely szerint illetékes tűzoltó-parancsnokságot a tűzvédelmi előírások,
 
@@ -57,7 +57,7 @@ b) az alaptevékenység nyújtására jogosító okiratban foglaltakhoz képest 
 [^35]: A 14/A. § (1) bekezdésének e) pontja a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^36]: A 14/A. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 306. § (2) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (42) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^37]: A 14/A. § (5) bekezdés záró szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (42) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^38]: A 14/A. § (5) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^38]: A 14/A. § (5) bekezdés a) pontja a 174/2012. (VII. 26.) Korm. rendelet 33. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 62. § a) pontja szerint módosított szöveg.
 [^39]: A 14/A. § (5) bekezdés d) pontja az 527/2013. (XII. 30.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
 [^40]: A 14/A. § (5) bekezdés e) pontját az 527/2013. (XII. 30.) Korm. rendelet 24. § (1) bekezdése iktatta be.
 [^41]: A 14/A. § (6) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

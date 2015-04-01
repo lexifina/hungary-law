@@ -12,11 +12,11 @@
 
 (6)[^51] A jegyző ellenőrzi, hogy a szolgáltatás megfelel-e a hatósági nyilvántartásban, a szolgáltató önminősítésében és a jogszabályokban foglaltaknak. A jegyző értesíti a 14/A. § (5) bekezdése szerinti, illetve más hatóságokat, ha az ellenőrzése során azok hatáskörébe tartozó jogsértést tapasztal.
 
-(7)[^52] Üdülő, gyermek- és ifjúsági tábor, valamint pihenőház esetén a közegészségügyi követelmények teljesítését a járási népegészségügyi intézet minden évben március 31-éig ellenőrzi.
+(7)[^52] Üdülő, gyermek- és ifjúsági tábor, valamint pihenőház esetén a közegészségügyi követelmények teljesítését a népegészségügyi feladatkörében eljáró járási hivatal minden évben március 31-éig ellenőrzi.
 
 (8)[^53] A 14/A. § (5) bekezdése szerinti, illetve más hatóságok – ha jogsértést tapasztalnak – az ellenőrzés eredményéről és a megtett intézkedésekről értesítik a jegyzőt.
 
 [^50]: A 19. § (1) bekezdése a 218/2007. (VIII. 15.) Korm. rendelet 7. § (1) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^51]: A 19. § (6) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^52]: A 19. § (7) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 33. § (2) bekezdése szerint módosított szöveg.
+[^52]: A 19. § (7) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 33. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 62. § b) pontja szerint módosított szöveg.
 [^53]: A 19. § (8) bekezdését a 218/2007. (VIII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
