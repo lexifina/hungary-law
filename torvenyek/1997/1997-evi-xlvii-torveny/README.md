@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-47-00-00
 | 2014-01-01 | 2013. évi CCXLIV. törvény | 1997-47-00-00.37 |
 | 2014-07-01 | 2013. évi CCXLIV. törvény | 1997-47-00-00.38 |
 | 2015-01-01 | 2014. évi CXI. törvény | 1997-47-00-00.39 |
+| 2015-04-01 | 2015. évi VIII. törvény | 1997-47-00-00.40 |
