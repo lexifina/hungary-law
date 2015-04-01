@@ -1,7 +1,7 @@
 9. § (1) A mezőgazdasági őstermelő az értékesítési betétlapot az adóév végét követően az értékesítések összegezésével, az üresen maradt sorok áthúzásával lezárja.
 
-(2)[^32]
+(2)[^34]
 
 (3) Az értékesítési betétlap az értékesítést igazoló bizonylatokkal, tételes költségelszámolás esetén a kiadásokat igazoló számlákkal, illetőleg más, az adókötelezettséggel kapcsolatos bizonylattal, saját feljegyzéssel (pl. az adóelőlegfizetéshez alkalmazott jövedelemszámítással) stb. együtt az őstermelő által megőrzendő bizonylat.
 
-[^32]: A 9. § (2) bekezdését a 252/1997. (XII. 20.) Korm. rendelet 6. §-a hatályon kívül helyezte 1998. január 1. napjával.
+[^34]: A 9. § (2) bekezdését a 252/1997. (XII. 20.) Korm. rendelet 6. §-a hatályon kívül helyezte 1998. január 1. napjával.
