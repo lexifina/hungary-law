@@ -14,9 +14,9 @@ c) a 68/B. § szerinti megtérítésre kötelező határozattal
 
 (3) A jogalap nélkül felvett pénzbeli ellátás és baleseti táppénz visszafizetésére kötelező határozatot az a szerv hozza, amely az ellátást folyósította. A 66. §-on alapuló megtérítésre kötelező fizetési meghagyást az egészségbiztosító, vagy a vasutas egészségbiztosítási szerv hozza. Ez utóbb említett igazgatási szerv rendelkezik hatáskörrel a visszafizetésre kötelező határozat meghozatalára is, ha a visszafizetési kötelezettség mellett a foglalkoztató vagy egyéb szerv (személy) megtérítési kötelezettsége is megállapítható.
 
-(4) A 67. §-on alapuló, fizetési meghagyást az egészségbiztosító, vagy a vasutas egészségbiztosítási szerv hozza.
+(4) A 67. és 68. §-on alapuló, fizetési meghagyást az egészségbiztosító, vagy a vasutas egészségbiztosítási szerv hozza.
 
-(5) A 68. §-on alapuló fizetési meghagyást és a 68/B. §-on alapuló határozatot az egészségbiztosító hozza.
+(5) A 68/B. §-on alapuló határozatot az egészségbiztosító hozza.
 
 (6) A 66–68/B. §-on és a 80. § (6) bekezdésén alapuló követelés és az érvényesítéséhez kapcsolódó járulékos költség adók módjára behajtandó köztartozásnak minősül.
 

@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-83-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1997-83-00-00.66 |
 | 2014-07-01 | 2013. évi CCXLIV. törvény | 1997-83-00-00.67 |
 | 2015-01-01 | 2014. évi CXI. törvény | 1997-83-00-00.68 |
+| 2015-04-01 | 2015. évi VIII. törvény | 1997-83-00-00.69 |

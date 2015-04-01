@@ -2,7 +2,7 @@
 
 ## NYILVÁNTARTÁSI ÉS ADATSZOLGÁLTATÁSI KÖTELEZETTSÉG
 
-79. § (1) Az egészségbiztosító – ideértve a társadalombiztosítási feladatokat külön jogszabály vagy megállapodás alapján ellátó munkáltatókat és egyéb szerveket – természetes személyről adatokat az egészségbiztosítás pénzbeli ellátásai, illetőleg a társadalombiztosítási feladatot ellátó szervek hatáskörébe utalt más ellátások megállapítása, folyósítása és ellenőrzése céljából TAJ-számon, társadalombiztosítási folyószámlaszámon, illetőleg nyugdíjfolyósítási törzsszámon tarthat nyilván.
+79. § (1) Az egészségbiztosító – ideértve a társadalombiztosítási feladatokat külön jogszabály vagy megállapodás alapján ellátó munkáltatókat és egyéb szerveket – természetes személyről adatokat az egészségbiztosítás pénzbeli ellátásai, illetőleg a társadalombiztosítási feladatot ellátó szervek hatáskörébe utalt más ellátások megállapítása, folyósítása és ellenőrzése, valamint a kifizetett ellátások visszafizetése, megtérítése céljából TAJ-számon, társadalombiztosítási folyószámlaszámon, illetőleg nyugdíjfolyósítási törzsszámon tarthat nyilván.
 
 (2) Az (1) bekezdésben meghatározott célra az alábbi személyes adatok tarthatók nyilván:
 

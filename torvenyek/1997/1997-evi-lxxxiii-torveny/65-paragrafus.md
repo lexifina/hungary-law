@@ -2,7 +2,7 @@
 
 (2) Az üzemi baleset jogerős megállapításáig a biztosítottnak az általános szabályok szerint rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás árához, továbbá az 54. § (3) bekezdésében foglalt fogászati ellátásért a biztosított által kifizetett térítési díjat a baleset üzemiségének elismerését követően az egészségbiztosító, vasutas dolgozók esetén a vasutas egészségbiztosítási szerv a rendelkezésre álló nyilvántartás, az üzemi baleset megállapításáról szóló határozat, valamint a kezelőorvos igazolása alapján téríti meg.
 
-(3) A baleseti táppénz iránti kérelem benyújtására, elbírálására és folyósítására a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a baleseti táppénz meghosszabbítása esetén az orvosszakértői szervet szakértőként kell igénybe venni.
+(3) A baleseti táppénz iránti kérelem benyújtására, elbírálására és folyósítására a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 (3a) Ha a baleseti táppénzre irányuló kérelem azért nem bírálható el, mert a baleset üzemiségére vonatkozóan még nem született döntés, a kérelem elbírálására vonatkozó ügyintézési határidő kezdő napja a baleset üzemisége tárgyában hozott érdemi döntés jogerőre emelkedését követő nap.
 

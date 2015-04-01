@@ -48,13 +48,13 @@ c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egé
 
 (6) A biztosított jogosult a kezelőorvosánál mindazon vizsgálatok kezdeményezésére és – a kezelőorvos javaslata alapján – elvégeztetésére, amelyek a várakozás sorrendjét befolyásoló egészségi állapotváltozás megállapításához szükségesek.
 
-(7) Az országos várólista-nyilvántartást vezető szerv, illetve a térségi betegútszervezésért felelős szerv kezdeményezésére az egészségügyi államigazgatási szerv köteles megvizsgálni, hogy az egészségügyi szolgáltató megfelel-e a működési engedély kiadásának feltételéül külön jogszabályban meghatározott szakmai minimumfeltételeknek, amennyiben a várólista hossza szakember, gép, műszer, orvostechnikai eszköz hiánya miatt aránytalanul eltér az országos átlagtól.
+(7) Az országos várólista-nyilvántartást vezető szerv kezdeményezésére az egészségügyi államigazgatási szerv köteles megvizsgálni, hogy az egészségügyi szolgáltató megfelel-e a működési engedély kiadásának feltételéül külön jogszabályban meghatározott szakmai minimumfeltételeknek, amennyiben a várólista hossza szakember, gép, műszer, orvostechnikai eszköz hiánya miatt aránytalanul eltér az országos átlagtól.
 
-(7a) Az egészségügyi államigazgatási szerv a (7) bekezdés szerinti vizsgálat eredményéről 15 napon belül tájékoztatja az országos várólista-nyilvántartást vezető szervet, illetve a térségi betegútszervezésért felelős szervet.
+(7a) Az egészségügyi államigazgatási szerv a (7) bekezdés szerinti vizsgálat eredményéről 15 napon belül tájékoztatja az országos várólista-nyilvántartást vezető szervet.
 
-(7b) Amennyiben a várólisták hossza egyes ellátások esetében aránytalanul eltér egymástól, az országos várólista-nyilvántartást vezető szerv, illetve a térségi betegútszervezésért felelős szerv kezdeményezheti az egészségügyi államigazgatási szervnél az érintett egészségügyi szolgáltató kapacitásainak és ellátási területének a külön törvény szerinti módosítását.
+(7b) Amennyiben a várólisták hossza egyes ellátások esetében aránytalanul eltér egymástól, az országos várólista-nyilvántartást vezető szerv kezdeményezheti az egészségügyi államigazgatási szervnél az érintett egészségügyi szolgáltató kapacitásainak és ellátási területének a külön törvény szerinti módosítását.
 
-(7c) Az országos várólista-nyilvántartást vezető szerv havonta tájékoztatja a térségi betegútszervezésért felelős szervet az intézményi várólistát vezető szolgáltatók köréről, szolgáltatónkénti bontásban az intézményi várólista alapján igénybe vehető ellátások köréről, a tervezett várakozási időről és a várólistán a tárgyhónapot megelőző hónap utolsó napján lévő betegek számáról.
+(7c)
 
 (8) A biztosítottat a várólistáról vagy betegfogadási listáról törölni kell, ha egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi.
 

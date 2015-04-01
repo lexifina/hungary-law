@@ -64,7 +64,7 @@ meghatározására.
 
 a) határozza meg az országos várólista nyilvántartás, valamint a térségi várólistáknak a korábbi intézményi várólisták alapján történő létrehozásának szabályait,
 
-b) jelölje ki a térségi betegút-szervezésért felelős szervet,
+b)
 
 c) jelölje ki az országos várólista nyilvántartást vezető szervet,
 
