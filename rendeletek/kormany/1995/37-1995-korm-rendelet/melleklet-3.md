@@ -2,7 +2,7 @@
 
 ## Nemzetközi egyezményekben, Magyarország Alaptörvényében, honvédelmi alapelveinkben rögzített kötelezettség az elemi csapások, az ipari vagy egyéb szerencsétlenségek (katasztrófák) hatásai következményeinek csökkentése, a veszélyhelyzetek elhárítása, valamint az országot ért fegyveres támadás esetén a lakosság életének, anyagi javainak, a nemzet kulturális értékeinek védelme.
 
-## Az óvóhelyi védelem tervezése, szervezése érdekében minden meglévő, és az élet, az anyagi javak, kulturális értékek védelme szempontjából figyelembe vehető mélyépítményről egyedi nyilvántartást kell vezetni.[^11]
+## Az óvóhelyi védelem tervezése, szervezése érdekében minden meglévő, és az élet, az anyagi javak, kulturális értékek védelme szempontjából figyelembe vehető mélyépítményről egyedi nyilvántartást kell vezetni.[^12]
 
 ## Általános tudnivalók
 
@@ -20,7 +20,7 @@
 
 ## Az óvóhelykataszter nyilvántartása Magyarország védelmi képességével összefüggő adat, ezért azt mindenkor az adatvédelmi előírásokra figyelemmel, felelősséggel kell vezetni.
 
-## A honvédelmi törvényből eredően, a lakosságvédelem részeként a szükséges védőkapacitás biztosítása, a védelmi létesítmények kezelése, nyilvántartásának vezetése mind béke-, mind minősített időszak idején, személyes vagyoni szolgáltatásos honvédelmi, polgári védelmi kötelezettség.[^12]
+## A honvédelmi törvényből eredően, a lakosságvédelem részeként a szükséges védőkapacitás biztosítása, a védelmi létesítmények kezelése, nyilvántartásának vezetése mind béke-, mind minősített időszak idején, személyes vagyoni szolgáltatásos honvédelmi, polgári védelmi kötelezettség.[^13]
 
 ## Az óvóhely dokumentációja
 
@@ -96,11 +96,11 @@
 
 ## Az adatváltozás esetén valamennyi esetben — a régi adatlapok meghagyása mellett — új adatlapot kell kitölteni, melyet /M jellel kell ellátni (A2/M1). Az adatlapok többszöri módosulása esetén növekvő sorszámozást kell alkalmazni, például A2/M2…A2/M5 vagy É/3 stb.
 
-## ,,A” Általános adatlap
+## ,,A” Általános adatlap[^14]
 
 ## Helyrajzi szám:
 
-## A földhivatal ingatlan-nyilvántartása szerint annak az ingatlannak a száma, amelyen a védőlétesítmény található.
+## Az ingatlanügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, illetve az ingatlanügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal ingatlan-nyilvántartása szerint annak az ingatlannak a száma, amelyen a védőlétesítmény található.
 
 ## A01. A település közigazgatás szerinti neve.
 
@@ -120,7 +120,7 @@
 
 ## Abban az esetben, ha egy törzsszámon több épület van, az épületeket külön sorszámmal kell megkülönböztetni (01, 02, 03… stb.).
 
-## A11. A földhivatal nyilvántartása szerinti tulajdoni lap száma.
+## A11. Az ingatlanügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, illetve az ingatlanügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal nyilvántartása szerinti tulajdoni lap száma.
 
 ## A12—13. Az óvóhely tulajdonosa a tulajdoni lap szerinti személy.
 
@@ -260,5 +260,6 @@
 
 3. számú melléklet a 37/1995. (IV. 5.) Korm. rendelethez
 
-[^11]: A Kitöltési útmutató az óvóhelykataszterhez címet követő szöveg a 276/2011. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^12]: Az Általános tudnivalók alcímet követő szöveg a 276/2011. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^12]: A Kitöltési útmutató az óvóhelykataszterhez címet követő szöveg a 276/2011. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^13]: Az Általános tudnivalók alcímet követő szöveg a 276/2011. (XII. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^14]: A 2. melléklet „A” Általános adatlap alcíme a 70/2015. (III. 30.) Korm. rendelet 13. §-a szerint módosított szöveg.

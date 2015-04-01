@@ -10,6 +10,6 @@
 
 (5) A védelmi létesítmények adatait kezelő ügyintéző az óvóhelyi szolgálat keretében a települési óvóhelyi részleg tagja.
 
-(6)[^3] A védelmi létesítmények nyilvántartásának szakszerűségéért, folyamatosságáért a területileg illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság szakmai felügyeletet lát el. Az állami, a megyei önkormányzati, valamint a fővárosi önkormányzati tulajdonban lévő ingatlanok esetében a szakmai felügyeletet az Országos Katasztrófavédelmi Főigazgatóság látja el.
+(6)[^4] A védelmi létesítmények nyilvántartásának szakszerűségéért, folyamatosságáért a területileg illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Polgári Védelmi Igazgatóság szakmai felügyeletet lát el. Az állami, a megyei önkormányzati, valamint a fővárosi önkormányzati tulajdonban lévő ingatlanok esetében a szakmai felügyeletet az Országos Katasztrófavédelmi Főigazgatóság látja el.
 
-[^3]: A 4. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
