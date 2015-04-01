@@ -1,6 +1,6 @@
 4. § (1) Az MBFH a tanulmányt az 1. mellékletben meghatározott közreműködő közigazgatási szerveknek az 1. mellékletben meghatározott vélemény és adatok szolgáltatása céljából megküldi.
 
-(2)[^5] A környezetvédelmi és természetvédelmi felügyelőség és a vízügyi hatóság a 2. melléklet 3. pontjában foglaltakra is véleményt ad.
+(2)[^5] A környezetvédelmi és természetvédelmi hatóság és a vízügyi hatóság a 2. melléklet 3. pontjában foglaltakra is véleményt ad.
 
 (3) A megkeresett közigazgatási szerv a véleményét és az adatokat a tanulmány beérkezésétől számított 30 napon belül küldi meg az MBFH-nak.
 
@@ -12,4 +12,4 @@
 
 (7) Ha az MBFH a megkeresett közigazgatási szerv véleményében foglaltakkal nem ért egyet, a véleményeltérést a vélemény beérkezésétől számított 15 napon belül egyezteti. Ha az egyeztetés nem vezet eredményre, a véleményeltérésről és annak indokáról a minisztert a jelentésben tájékoztatni kell.
 
-[^5]: A 4. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 100. § (5) bekezdése szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 100. § (5) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 173. § (1) bekezdés a) pontja szerint módosított szöveg.

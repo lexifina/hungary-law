@@ -4,10 +4,12 @@
 
 (3) Ha az MBFH a közigazgatási szerv észrevételében foglaltakkal egyetért, a jelentés tervezetét az észrevételnek megfelelően módosítja. Ha az MBFH az észrevétellel nem ért egyet, az észrevételt a jelentéshez mellékeli és a véleményeltérésről a minisztert a jelentésben tájékoztatja.
 
-(4) Az MBFH a jelentés tervezetét a közigazgatási szerveknek történő megküldéssel egyidejűleg a honlapján, valamint a vizsgálattal érintett terület szerinti bányakapitányság hivatalában a nyilvánosság számára, véleményezés céljából 30 napra közzéteszi. A közzétételben meg kell jelölni az észrevételek benyújtásának határidejét és módját.
+(4)[^7] Az MBFH a jelentés tervezetét a közigazgatási szerveknek történő megküldéssel egyidejűleg a honlapján, valamint a vizsgálattal érintett terület szerinti bányafelügyeleti hatáskörben eljáró megyei kormányhivatal hivatalában a nyilvánosság számára, véleményezés céljából 30 napra közzéteszi. A közzétételben meg kell jelölni az észrevételek benyújtásának határidejét és módját.
 
 (5) A nyilvánosságtól érkezett észrevételeket az MBFH a végleges jelentés elkészítése során figyelembe veszi.
 
 (6) A végleges jelentést az MBFH a (4) bekezdésben foglalt határidő leteltétől számított 15 napon belül készíti el és küldi meg a miniszternek.
 
 (7) A vizsgálat eredményét tartalmazó végleges jelentést az MBFH a honlapján közzéteszi.
+
+[^7]: A 6. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 173. § (1) bekezdés b) pontja szerint módosított szöveg.

@@ -4,31 +4,31 @@
 
 |  | Az adatszolgáltatás és véleményezés köre | A jelentés elkészítésében közreműködő közigazgatási szerv |
 
-| 1. | A tervezett koncessziós tevékenység érint-e oltalom alatt álló területet (természetvédelmi terület, Natura 2000 terület), az érintett védett természeti területekre, Natura 2000 területekre vonatkozó adatok, az érintett védett természeti területek, Natura 2000 területek térképi ábrázolása. Vízbázisvédelmi terület, védőidom aktualizálása, kiegészítése. A terület levegőtisztaság-védelmi zóna szerinti besorolása szennyező anyagonkénti bontásban. A tervezett tevékenység környezetre (felszíni és felszín alatti víztestek állapotára, hasznosítási lehetőségeire, a földtani közegre, és a levegőtisztaságra) és természetre gyakorolt hatása. | Környezetvédelmi, természetvédelmi és vízügyi felügyelőség |
+| 1. | A tervezett koncessziós tevékenység érint-e oltalom alatt álló területet (természetvédelmi terület, Natura 2000 terület), az érintett védett természeti területekre, Natura 2000 területekre vonatkozó adatok, az érintett védett természeti területek, Natura 2000 területek térképi ábrázolása. A terület levegőtisztaság-védelmi zóna szerinti besorolása szennyező anyagonkénti bontásban. A tervezett tevékenység földtani közegre, levegőtisztaságra és természetre gyakorolt hatása. | a környezetvédelmi és természetvédelmi feladatkörében eljáró megyei kormányhivatal |
 
-| 2. | A területen és annak környezetében levő gyógyhelyek, ásvány-, gyógyvíz és gyógyiszap lelőhelyek megadása. | Országos Tisztifőorvosi Hivatal |
+| 2. | Vízbázisvédelmi terület, védőidom aktualizálása, kiegészítése. A tervezett tevékenység a felszíni és felszín alatti víztestek állapotára, hasznosítási lehetőségeire gyakorolt hatása. | a vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló Korm. rendelet szerinti megyei katasztrófavédelmi igazgatóság |
 
-| 3. | A területen található termőföld. | Megyei Kormányhivatal Földhivatala a fővárosban a Fővárosi Kormányhivatal Földhivatala |
+| 3. | A területen és annak környezetében levő gyógyhelyek ásvány-, gyógyvíz és gyógyiszap lelőhelyek megadása. | Országos Tisztifőorvosi Hivatal |
 
-| 4. |  |  |
+| 4. | A területen található termőföld. | ingatlanügyi hatósági hatáskörben eljáró fővárosi és megyei kormányhivatal |
 
-| 5. | A területen található erdő és a védelmére vonatkozó követelmények. | Megyei, fővárosi kormányhivatal erdészeti igazgatósága |
+| 5. | A területen található erdő és a védelmére vonatkozó követelmények | erdészeti hatáskörben eljáró megyei kormányhivatal |
 
-| 6. | A területen elhelyezkedő országos és helyi közutak közúti forgalmának biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára vonatkozó követelmények. | Fővárosi és megyei kormányhivatal közlekedési felügyelősége |
+| 6. | A területen elhelyezkedő országos és helyi közutak közúti forgalmának biztonságára, a közút fejlesztési terveinek végrehajtására, a közútkezelő fenntartási, üzemeltetési feladatainak ellátására, a közút állagára vonatkozó követelmények | közlekedési feladatkörében eljáró fővárosi és megyei kormányhivatal |
 
-| 7. | A területen elhelyezkedő vasút állagára, a vasúti forgalom biztonságára, a vasútkezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására vonatkozó követelmények. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
+| 7. | A területen elhelyezkedő vasút állagára, a vasúti forgalom biztonságára, a vasútkezelő fenntartási, üzemeltetési feladatainak ellátására, fejlesztési terveinek végrehajtására vonatkozó követelmények | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
 
-| 8. | A területen elhelyezkedő vízi közlekedési létesítmények működésével, a biztonságos hajóforgalom lebonyolításával kapcsolatos követelmények. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
+| 8. | A területen elhelyezkedő vízi közlekedési létesítmények működésével, a biztonságos hajóforgalom lebonyolításával kapcsolatos követelmények | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
 
-| 9. | A légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára vonatkozó követelmények. | Nemzeti Közlekedési Hatóság Légügyi Hivatala |
+| 9. | A légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára vonatkozó követelmények | Nemzeti Közlekedési Hatóság Légügyi Hivatala |
 
-| 10. | A Magyar Honvédség nemzeti és szövetségi védelmi feladatainak ellátásához kapcsolódó követelmények. | Honvédelmi Minisztérium Hatósági Hivatal igazgatója |
+| 10. | A Magyar Honvédség nemzeti és szövetségi védelmi feladatainak ellátásához kapcsolódó követelmények | Honvédelmi Minisztérium Hatósági Hivatal igazgatója |
 
 | 11. | A tervezett koncessziós tevékenység érint-e helyi természetvédelmi oltalom alatt álló (önkormányzati rendeletben meghatározott) területet, és a helyi építési szabályzatnak való megfelelése. | Települési önkormányzat jegyzője, fővárosban a főjegyző |
 
-| 12. | A területen található régészeti lelőhelyre, régészeti védőövezetre, műemlékre és műemléki területre vonatkozó követelmények. | Járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala |
+| 12. | A kulturális örökségvédelmi hatósági nyilvántartás alapján, a területen található nyilvántartott vagy védetté nyilvánított régészeti lelőhelyre, régészeti védőövezetre, nyilvántartott műemléki értékre vagy műemlékre és műemléki területre vonatkozó követelmények. | kulturális örökségvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala |
 
-2. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^9]
+2. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^10]
 
 A komplex érzékenységi és terhelhetőségi vizsgálati tanulmány tartalma
 
@@ -74,4 +74,4 @@ A komplex érzékenységi és terhelhetőségi vizsgálati tanulmány tartalma
 
 3.4. A bányászati tevékenység értékelése a védett természeti és NATURA 2000 területekre vonatkozóan a várható állapotváltozások megadása, a várható regionális vagy országhatáron átnyúló hatások bemutatása.
 
-[^9]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 100. § (6) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 100. § (6) bekezdése szerint módosított szöveg.
