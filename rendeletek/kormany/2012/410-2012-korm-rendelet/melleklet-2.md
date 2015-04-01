@@ -46,7 +46,7 @@
 
 ## B.2.4 Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a 601/2012/EU bizottsági rendelet iránymutatásait.
 
-## B.2.5 A mennyiségi adatokat mérő mérőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága által kiállított hitelesítési bizonyítvánnyal.
+## B.2.5[^54] A mennyiségi adatokat mérő mérőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a mérésügyi és műszaki biztonsági hatáskörében eljáró fővárosi és megyei kormányhivatal által kiállított hitelesítési bizonyítvánnyal.
 
 ## B.2.6 Amennyiben a kibocsátási számítása az anyagmérlegen alapuló megközelítéssel történik, akkor meg kell jelölni a létesítmény területére belépő összes karbontartalmú forrásanyagot, a létesítmény területéről kilépő összes karbontartalmú forrásanyagot, valamint létesítményben készletként megmaradó összes karbontartalmú forrásanyagot, valamint mindezek mennyiségének és karbontartalmának meghatározáshoz kiválasztott adatmeghatározási szinteket, módszereket.
 
@@ -258,3 +258,4 @@
 
 [^52]: Az 1. melléklet A.3.3 pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^53]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^54]: Az 1. melléklet B.2.5 pontja a 70/2015. (III. 30.) Korm. rendelet 213. §-a szerint módosított szöveg.
