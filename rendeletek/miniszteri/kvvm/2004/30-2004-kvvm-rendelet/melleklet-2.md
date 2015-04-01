@@ -1,4 +1,4 @@
-2. melléklet a 30/2004. (XII. 30.) KvVM rendelethez[^55]
+2. melléklet a 30/2004. (XII. 30.) KvVM rendelethez[^61]
 
 ## A víztest állapotának értékelése és minősítése
 
@@ -108,4 +108,4 @@ c) állandó állapot esetén nincs jelölés.
 
 2.3. A minősítéshez kapcsolódóan térképen kell feltüntetni – adott esetben és amennyiben az megvalósítható – valamennyi olyan mintavételi pontot, ahol a felszín alatti vizek minőségi előírásait és/vagy küszöbértékeit túllépik.
 
-[^55]: A 2. számú melléklet a 33/2008. (XII. 31.) KvVM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^61]: A 2. számú melléklet a 33/2008. (XII. 31.) KvVM rendelet 14. § (1) bekezdésével megállapított szöveg.
