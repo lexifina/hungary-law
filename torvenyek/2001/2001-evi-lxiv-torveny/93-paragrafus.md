@@ -4,7 +4,7 @@
 
 a) szabályozza az örökségvédelmi bírsággal, a műemlékek kategóriába sorolásával kapcsolatos részletes szabályokat, a bírság legmagasabb összegét, valamint a bírság megállapításának alapjául szolgáló értékhatárokat;
 
-b) jelölje ki az e törvényben meghatározott feladatok tekintetében hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket, és állapítsa meg az azok eljárására és szolgáltatásaira vonatkozó szabályokat, beleértve a hatóságok eljárásaiban vizsgálandó szempontokat, az eljárások alóli mentesség feltételeit;
+b) jelölje ki az e törvényben meghatározott feladatok tekintetében hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket, és állapítsa meg az azok eljárására és szolgáltatásaira vonatkozó szabályokat, beleértve a hatóságok eljárásaiban vizsgálandó kulturális örökségvédelmi szempontokat és szakkérdéseket, a szakkérdések vizsgálatára a kormányhivatalhoz örökségvédelmi érdekből történő kirendelés szabályait, valamint az eljárások alóli mentesség feltételeit;
 
 c) szabályozza a kulturális örökség hozzáférhetővé tételének szabályait, különös tekintettel a fogyatékos személyek esélyegyenlőségének előmozdítására,
 
