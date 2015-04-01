@@ -34,7 +34,7 @@ o) a nyomozó hatóságok a bűnüldözési célú feladataik ellátásához;
 
 p) a közúti közlekedési nyilvántartást vezető szerv a nyilvántartási eljáráshoz;
 
-q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár feladatai ellátásához;
+q) a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, fővárosi és megyei kormányhivatal, valamint lakásgazdálkodásért és lakáspolitikáért felelős miniszter feladatai ellátásához;
 
 r) a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 
