@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-162-20-
 | 2013-01-01 | 2003-162-20-22.18 | 62/2010. (III. 18.) Korm. rendelet |
 | 2015-02-19 | 2003-162-20-22.19 | 19/2015. (II. 16.) Korm. rendelet |
 | 2015-03-01 | 2003-162-20-22.20 | 62/2010. (III. 18.) Korm. rendelet |
+| 2015-04-01 | 2003-162-20-22.21 | 70/2015. (III. 30.) Korm. rendelet |
