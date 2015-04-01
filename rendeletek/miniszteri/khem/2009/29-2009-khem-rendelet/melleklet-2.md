@@ -1,20 +1,14 @@
 ## 1. Az elismert fajlagos földgázár meghatározása negyedévre (Ft/MJ):
 
-|  | fgFt = a x fgFtA + b x fgFtT | (Ft/MJ) | (1) |
+| fgFt = a x fgFtA + b x fgFtT | (Ft/MJ) | (1) |
 
-|  | ha fgFtS < fgFtH akkor fgFtA = 0,75 x fgFtS + 0,25 x fgFtH | (Ft/MJ) | (2) |
+| ha fgFtS < fgFtH akkor fgFtA = 0,75 x fgFtS + 0,25 x fgFtH | (Ft/MJ) | (2) |
 
-|  | ha fgFtS > fgFtH akkor fgFtA = fgFtH | (Ft/MJ) | (2) |
+| ha fgFtS > fgFtH akkor fgFtA = fgFtH ahol fgFtH = erUSD x fgUSDA /1000 | (Ft/MJ) (Ft/MJ) | (2) (3) |
 
-|  | ahol |  |  |
+| fgFtS = erEUR x fgEURA | (Ft/MJ) | (4) |
 
-|  | fgFtH = erUSD x fgUSDA /1000 | (Ft/MJ) | (3) |
-
-|  | fgFtS = erEUR x fgEURA | (Ft/MJ) | (4) |
-
-|  | fgUSDA = 14,426 x 0,5 x fo /520,928+0,5 x go / 935,741 | (USD/GJ) | (5) |
-
-|  | fgEURA = (fgs + sp) | (EUR/MJ) | (6) |
+| fgUSDA = 12,983 x (0,5 x fo /520,928+0,5 x go / 935,741) fgEURA = (fgS + sp) | (USD/GJ) (EUR/MJ) | (5) (6) |
 
 ## 2. 2010. január 1-jétől az egyetemes szolgáltatás árában elismerésre kerülő nagykereskedői árrés („n”) gázévenként:
 
@@ -56,17 +50,17 @@
 
 ## 5. Jelölések:
 
-| a: | együttható, nem a tárolóból felhasznált gáz árának figyelembevételére; |
+## a: együttható, nem a tárolóból felhasznált gáz árának figyelembevételére;
 
-|  | a naptári év első és negyedik negyedévében: | 1 - b |
+## a naptári év első és negyedik negyedévében: 1 – b
 
-|  | második és harmadik negyedévében: | 1,00 |
+## második és harmadik negyedévében: 1,00
 
-| b: | együttható, a tárolóból felhasznált gáz árának figyelembevételére; |
+## b: együttható, a tárolóból felhasznált gáz árának figyelembevételére;
 
-|  | a naptári év első és negyedik negyedévében: | a téli felkészülésnek megfelelő együttható |
+## a naptári év első és negyedik negyedévében: a téli felkészülésnek megfelelő együttható
 
-|  | második és harmadik negyedévében: | 0,00 |
+## együttható második és harmadik negyedévében: 0,00
 
 ## e: az egyetemes szolgáltatás árában elismerendő egyetemes szolgáltatói árrés a gázévben, Ft/MJ
 
@@ -86,31 +80,27 @@
 
 ## fgFtS: nem hosszú távú szerződések alapján lekötött, piaci földgázforrás ára, Ft/MJ
 
-## fgFtT tárolói készletérték a hosszútávú szerződések alapján beszerzett földgáz árának és nem hosszútávú szerződések alapján lekötött, piaci földgázforrás árának 10%–90%-os arányú figyelembevételével negyedik negyedévre a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ) a hosszú távú szerződések alapján beszerzett földgáz árának és nem hosszú távú szerződések alapján lekötött, piaci földgázforrás árának 10%-90%-os arányú figyelembevételével; a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napjakor, árszabályozás szerint érvényes erEUR és erUSD árfolyamokon történik.
+## fgFtT: tárolói készletérték negyedik negyedévre a betároláskori fgFtH, valamint az fgFtH és az fgFtS 10%-90%-os arányú keverékének ára közül az alacsonyabb figyelembevételével a szeptember 30-ra becsült tárolói készletérték; az első negyedévre az ármegállapítást megelőző szeptember 30-i szintre korrigált tárolói készletérték (Ft/MJ) a betároláskori fgFtH, valamint az fgFtH és az fgFtS 10%-90%-os arányú keverékének ára közül az alacsonyabb figyelembevételével; a tárolt gáz értékének nyilvántartása a tárolóban elhelyezett gáz beszerzéséhez kapcsolódó számlafizetés napjakor, az árszabályozás szerint érvényes erEUR és erUSD árfolyamokon történik.
 
-## fo: az 1%-os kéntartalmú fűtőolaj havi átlagárainak egyszerű számtani középértéke az aktuális naptári
+## fo: az 1%-os kéntartalmú fűtőolaj havi átlagárainak egyszerű számtani középértéke az aktuális naptári negyedévet megelőző 9 naptári hónap során USD/t-ban (3 tizedes értékre kerekítve), USD/t
 
-## negyedévet megelőző 9 naptári hónap során USD/t-ban (3 tizedes értékre kerekítve), USD/t
-
-## A havi átlagárat a Platts által publikált „1 PCT Fuel FOB MedCargoes” napi „low” és „high” értékeiből
-
-## külön-külön meghatározott (2 tizedes értékre kerekített) havi átlagok számtani középértéke adja.
+## A havi átlagárat a Platts által publikált „FO 1%S FOB Med Cargo” napi „low” és „high” értékeiből külön-külön meghatározott (2 tizedes értékre kerekített) havi átlagok számtani középértéke adja.
 
 ## Ha a havi tény értékek nem állnak rendelkezésre, akkor
 
-## − az aktuális negyedévet megelőző negyedév második hónapjának átlagárát a hónap 1. napjától a 15. napjáig terjedő időszak banki napjain jegyzett tény értékek adják, és
+## – az aktuális negyedévet megelőző negyedév második hónapjának átlagárát a hónap 1. napjától a 15. napjáig terjedő időszak banki napjain jegyzett tény értékek adják, és
 
-## − az aktuális negyedévet megelőző hónap átlagárának meghatározásakor a megfelelő (az aktuális negyedévet megelőző negyedév második hónapjának 1-jétől a 15. napjáig terjedő időszak banki napjain jegyzett) PlattsForward jegyzésárakat kell alkalmazni.
+## – az aktuális negyedévet megelőző hónap átlagárának meghatározásakor a megfelelő (az aktuális negyedévet megelőző negyedév második hónapjának 1-jétől a 15. napjáig terjedő időszak banki napjain jegyzett) Platts Forward jegyzésárakat kell alkalmazni.
 
 ## A havi átlagár a napi legmagasabb, illetve legalacsonyabb jegyzésekből külön-külön meghatározott havi átlagok számtani középértéke.
 
 ## go: a 0,1%-os kéntartalmú gázolaj havi átlagárainak egyszerű számtani középértéke az aktuális naptári negyedévet megelőző 9 naptári hónap során USD/t-ban (3 tizedes értékre kerekítve), USD/t
 
-## A havi átlagárat a Platts által publikált „Gasoil 0.1 FOB Med” napi „low” és „high” értékeiből külön-külön meghatározott (2 tizedes értékre kerekített) havi átlagok számtani középértéke adja. Ha a havi tény értékek nem állnak rendelkezésre, akkor
+## A havi átlagárat a Platts által publikált „Gasoil 0,1%S FOB Med Cargo” napi „low” és „high” értékeiből külön-külön meghatározott (2 tizedes értékre kerekített) havi átlagok számtani középértéke adja. Ha a havi tény értékek nem állnak rendelkezésre, akkor
 
-## − az aktuális negyedévet megelőző negyedév második hónapjának átlagárát a hónap 1. napjától a 15. napjáig terjedő időszak banki napjain jegyzett tény értékek adják, és
+## – az aktuális negyedévet megelőző negyedév második hónapjának átlagárát a hónap 1. napjától a 15. napjáig terjedő időszak banki napjain jegyzett tény értékek adják, és
 
-## − az aktuális negyedévet megelőző hónap átlagárának meghatározásakor a megfelelő (az aktuális negyedévet megelőző negyedév második hónapjának 1-jétől a 15. napjáig terjedő időszak banki napjain jegyzett) PlattsForward jegyzésárakat kell alkalmazni.
+## – az aktuális negyedévet megelőző hónap átlagárának meghatározásakor a megfelelő (az aktuális negyedévet megelőző negyedév második hónapjának 1-jétől a 15. napjáig terjedő időszak banki napjain jegyzett) Platts Forward jegyzésárakat kell alkalmazni.
 
 ## A havi átlagár a napi legmagasabb, illetve legalacsonyabb jegyzésekből külön-külön meghatározott havi átlagok számtani középértéke.
 
