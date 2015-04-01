@@ -1,3 +1,3 @@
-## 20. §[^96] Helyszíni ellenőrzésre a Szolgálat vagy a megyei népegészségügyi szakigazgatási szerv, illetve járási népegészségügyi intézet fényképes igazolvánnyal ellátott kormánytisztviselője jogosult.
+## 20. §[^86] Helyszíni ellenőrzésre a Szolgálat vagy a kormányhivatal, illetve járási hivatal fényképes igazolvánnyal ellátott kormánytisztviselője jogosult.
 
-[^96]: A 20. § a 174/2012. (VII. 26.) Korm. rendelet 78. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^86]: A 20. § a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) és e) pontja szerint módosított szöveg.

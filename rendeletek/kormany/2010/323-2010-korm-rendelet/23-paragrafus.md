@@ -1,18 +1,16 @@
-## 10. A közigazgatási hatósági eljárásokban közreműködő szakhatóságok kijelölése
+## 10. [^97] A közigazgatási hatósági eljárásokban vizsgálandó szakkérdések köre, és közreműködő szakhatóságok kijelölése
 
-23. § (1)[^102] A Kormány a természetes fürdővízzé nyilvánítási eljárásban
+23. § (1) A Kormány a természetes fürdővízzé nyilvánítási eljárásban
 
-a) belső határon és a magyar–horvát határszakaszon lévő határvízen – az államhatár rendje fenntarthatóságának szakkérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
+a) belső határon és a magyar-horvát határszakaszon lévő határvízen – az államhatár rendje fenntarthatóságának szakkérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
 
 b) a külső határon lévő határvízen – az államhatár rendje fenntarthatóságának szakkérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes határrendészeti kirendeltséget, másodfokú eljárásban a fürdővíz helye szerint illetékes rendőr-főkapitányságot,
 
 c) dunai, tiszai, valamint balatoni fürdőhely esetén – annak elbírálása kérdésében, hogy a vízterületen nem tilos-e fürdeni, milyen feltételek esetén szabad fürdeni, a vízterületen történő fürdés nem veszélyezteti-e a hajók közlekedését –, első fokú eljárásban az illetékes vízirendészeti rendőrkapitányságot, másodfokú eljárásban az illetékes rendőr-főkapitányságot,
 
-d)[^103] dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdővíz használatának engedélyezése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
+d) dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdővíz használatának engedélyezése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
 
-e)[^104] – a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes első fokon eljáró vízvédelmi hatóságot, másodfokú eljárásban a másodfokon eljáró vízvédelmi hatóságot
-
-szakhatóságként jelöli ki. A fürdővíz használatának engedélyezésére irányuló eljárásban hozott határozatot a fürdővíz helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
+e) a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében , első fokú eljárásban a fürdővíz helye szerint illetékes vízvédelmi feladatkörében eljáró fővárosi, megyei katasztrófavédelmi igazgatóságot (a továbbiakban: megyei katasztrófavédelmi igazgatóság), másodfokú eljárásban a vízvédelmi feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóságot szakhatóságként jelöli ki. A fürdővíz használatának engedélyezésére irányuló eljárásban hozott határozatot a fürdővíz helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
 (2) A Kormány a fürdőhely kijelölésére irányuló eljárásban
 
@@ -22,25 +20,21 @@ b) a külső határon lévő határvízen – az államhatár rendje fenntarthat
 
 c) dunai, tiszai, valamint balatoni fürdőhely esetén – annak elbírálása kérdésében, hogy a vízterületen nem tilos-e fürdeni, milyen feltételek esetén szabad fürdeni, a vízterületen történő fürdés nem veszélyezteti-e a hajók közlekedését –, első fokú eljárásban az illetékes vízirendészeti rendőrkapitányságot, másodfokú eljárásban az illetékes rendőr-főkapitányságot,
 
-d)[^105] dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdőhely kijelölése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatók-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
+d) dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdőhely kijelölése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatók-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
 
-e)[^106] – a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében –, első fokú eljárásban a fürdővíz helye szerint illetékes első fokon eljáró vízvédelmi hatóságot, másodfokú eljárásban a másodfokon eljáró vízvédelmi hatóságot, valamint
+e) a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében, első fokú eljárásban a fürdővíz helye szerint illetékes vízvédelmi feladatkörében eljáró megyei katasztrófavédelmi igazgatóságot, másodfokú eljárásban a vízvédelmi feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóságot, valamint
 
-f) a vízi út 50 méteres körzetében és a kikötő, átkelőhely, hajózási létesítmény környezetében található kijelölendő fürdőhely esetén – a biztonságos hajózás feltételei érvényesíthetősége megállapításának kérdésében –, első fokú eljárásban a Nemzeti Közlekedési Hatóság Útügyi Vasúti és Hajózási Hivatalát, másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központját szakhatóságként jelöli ki. A fürdőhely kijelölésére irányuló eljárásban hozott határozatot a fürdőhely helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Polgári Védelmi Igazgatósággal is közölni kell.
+f) a vízi út 50 méteres körzetében és a kikötő, átkelőhely, hajózási létesítmény környezetében található kijelölendő fürdőhely esetén – a biztonságos hajózás feltételei érvényesíthetősége megállapításának kérdésében –, első fokú eljárásban a Nemzeti Közlekedési Hatóság Útügyi Vasúti és Hajózási Hivatalát, másodfokú eljárásban a Nemzeti Közlekedési Hatóság Központját szakhatóságként jelöli ki. A fürdőhely kijelölésére irányuló eljárásban hozott határozatot a fürdőhely helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
-(3)[^107] A Kormány a fürdővízprofil megállapítására, felülvizsgálatára és frissítésére irányuló, valamint a vízminőség romlása esetén lefolytatott eljárásban – a szennyező anyagok kibocsátási határértékeinek megállapítása, a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapítása kérdésében –, első fokú eljárásban a első fokon eljáró vízvédelmi hatóságot, másodfokú eljárásban a másodfokon eljáró vízvédelmi hatóságot szakhatóságként jelöli ki.
+(3) A Kormány a fürdővízprofil megállapítására, felülvizsgálatára és frissítésére irányuló, valamint a vízminőség romlása esetén lefolytatott eljárásban – a szennyező anyagok kibocsátási határértékeinek megállapítása, a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapítása kérdésében –, első fokú eljárásban a vízvédelmi feladatkörében eljáró megyei katasztrófavédelmi igazgatóságot, másodfokú eljárásban a vízvédelmi feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóságot szakhatóságként jelöli ki.
 
-(4) A Kormány a gyógyhellyé nyilvánítással kapcsolatos eljárásban,
+(4) A gyógyhellyé nyilvánítással kapcsolatos eljárásban, a földtani környezet és az ásványvagyon védelme szakkérdését az első fokú eljárásban a gyógyhely helye szerint illetékes bányafelügyeleti hatáskörében eljáró megyei kormányhivatal vizsgálja. A gyógyhellyé nyilvánítással kapcsolatos másodfokú eljárásban szakértőként a Magyar Bányászati és Földtani Hivatal rendelhető ki.
 
-a) – a földtani környezet és az ásványvagyon védelme szakkérdésében –, első fokú eljárásban a bányakapitányságot, másodfokú eljárásban a Magyar Bányászati és Földtani Hivatalt,
+(5) A Kormány a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében első fokú eljárásban a vízvédelmi feladatkörében eljáró megyei katasztrófavédelmi igazgatóságot, másodfokú eljárásban a vízvédelmi feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóságot szakhatóságként jelöli ki.
 
-b)[^108] – a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében –, első fokú eljárásban a első fokon eljáró vízvédelmi hatóságot, másodfokú eljárásban a másodfokon eljáró vízvédelmi hatóságot
+(6) A Kormány a kormányhivatal sugáregészségügyi feladataival összefüggő és az OTH hatáskörébe tartozó atomenergiával kapcsolatos első és másodfokú engedélyezési eljárásokban a 4. mellékletben meghatározott hatóságokat – az ott megjelölt feltételek fennállása esetén és szakkérdésben – szakhatóságként jelöli ki, vagy szakértőként jelöli meg. Környezetvédelmi szakkérdés vizsgálata esetén a sugáregészségügyi feladatokat ellátó kormányhivatalok által folytatott, 4. mellékletben meghatározott eljárások ügyintézési határideje 50 nap. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság egy évig felhasználható előzetes szakhatósági állásfoglalást ad ki.
 
-## szakhatóságként jelöli ki.
-
-(5) A Kormány a Sugáregészségügyi Decentrum és az OTH hatáskörébe tartozó atomenergiával kapcsolatos első és másodfokú engedélyezési eljárásokban a 4. mellékletben meghatározott hatóságokat – az ott megjelölt feltételek fennállása esetén és szakkérdésben – szakhatóságként jelöli ki. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság egy évig felhasználható előzetes szakhatósági állásfoglalást ad ki.
-
-(6) A Kormány
+(7) A Kormány
 
 a) a biocid termék forgalomba hozatalához és felhasználásához szükséges engedély kiadása iránti és regisztrációs eljárásban,
 
@@ -50,13 +44,13 @@ c) a biocid termék korlátozott és ellenőrzött felhasználás céljára tör
 
 d) az engedélyezett, illetőleg a regisztrált biocid termék további forgalmazásának megtiltására, valamint a módosított engedély és regisztráció kiadására, elvégzésére irányuló eljárásban, valamint
 
-e)[^109] a biocid termék vagy biocid termékben való felhasználásra szánt hatóanyag kísérlet vagy vizsgálat céljára történő forgalomba hozatalának és felhasználásának engedélyezése iránti eljárásban
+e) a biocid termék vagy biocid termékben való felhasználásra szánt hatóanyag kísérlet vagy vizsgálat céljára történő forgalomba hozatalának és felhasználásának engedélyezése iránti eljárásban
 
-a biocid termék és hatóanyaga, valamint a nem hatóanyag anyagainak a nem cél élő szervezetekre gyakorolt ökotoxikológiai hatásának vizsgálata, továbbá az anyagok környezeti sorsának és viselkedésének vizsgálata kérdésében az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+## a biocid termék és hatóanyaga, valamint a nem hatóanyag anyagainak a nem cél élő szervezetekre gyakorolt ökotoxikológiai hatásának vizsgálata, továbbá az anyagok környezeti sorsának és viselkedésének vizsgálata kérdésében az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(7) A Kormány a sírhely hamvasztáshoz szükséges megnyitására vonatkozó engedélyezési eljárásban, külön jogszabályban meghatározott rendkívüli halálesetkor és az eltemetéstől számított 25 éven belül – annak elbírálására, hogy a rendkívüli halálesethez kapcsolódó nyomozási feladatok a hamvasztást követően biztosíthatók-e –, első fokú eljárásban az elhalálozás helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban az elhalálozás helye szerint illetékes rendőr-főkapitányságot szakhatóságként jelöli ki.
+(8) A Kormány a sírhely hamvasztáshoz szükséges megnyitására vonatkozó engedélyezési eljárásban, külön jogszabályban meghatározott rendkívüli halálesetkor és az eltemetéstől számított 25 éven belül – annak elbírálására, hogy a rendkívüli halálesethez kapcsolódó nyomozási feladatok a hamvasztást követően biztosíthatók-e –, első fokú eljárásban az elhalálozás helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban az elhalálozás helye szerint illetékes rendőr-főkapitányságot szakhatóságként jelöli ki.
 
-(8) A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban
+(9) A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban
 
 a) a Magyarországon még nem elfogadott, új megelőző, terápiás vagy diagnosztikus eljárás, módszer alkalmazása esetén, ha azzal összefüggésben a betegen invazív beavatkozást végeznek,
 
@@ -66,16 +60,8 @@ c) az a)–b) pont alá nem tartozó, több központban végzett kutatás eseté
 
 d) az Eütv. 161. § (1) és (3) bekezdése szerinti kutatás esetében
 
-## első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) Tudományos és Kutatásetikai Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
+első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) Tudományos és Kutatásetikai Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-(9)[^110] A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
+(10) A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-[^102]: A 23. § (1) bekezdés nyitó szövegrésze a 364/2014. (XII. 30.) Korm. rendelet 90. §-a szerint módosított szöveg.
-[^103]: A 23. § (1) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^104]: A 23. § (1) bekezdés e) pontja az 527/2013. (XII. 30.) Korm. rendelet 96. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^105]: A 23. § (2) bekezdés d) pontja a 158/2011. (VIII. 11.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^106]: A 23. § (2) bekezdés e) pontja az 527/2013. (XII. 30.) Korm. rendelet 96. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^107]: A 23. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 10. §-a, az 527/2013. (XII. 30.) Korm. rendelet 96. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^108]: A 23. § (4) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 96. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^109]: A 23. § (6) bekezdés e) pontja az 527/2013. (XII. 30.) Korm. rendelet 96. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^110]: A 23. § (9) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^97]: A 10. alcím (23. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (9) bekezdésével megállapított szöveg.

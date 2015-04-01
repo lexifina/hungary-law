@@ -1,3 +1,3 @@
-## 7. [^40] A járási népegészségügyi intézet
+## 7. [^27] A járási hivatal népegészségügyi feladatai
 
-[^40]: A 7. alcím címe a 174/2012. (VII. 26.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
+[^27]: A 7. alcím (11–11/A. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (7) bekezdésével megállapított szöveg.
