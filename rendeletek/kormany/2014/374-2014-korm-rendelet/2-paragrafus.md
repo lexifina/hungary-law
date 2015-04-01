@@ -20,7 +20,7 @@ a) ellen a jogosultak részéről az arra nyitva álló határidőn belül felle
 
 b) elleni fellebbezési jogáról valamennyi jogosult írásban lemondott,
 
-c) ellen benyújtott fellebbezést a fővárosi és megyei kormányhivatal földhivatala (a továbbiakban: megyei földhivatal) elutasította, a fellebbezés elbírálásának eredményeként született határozatot megváltoztatta, illetve az eljárást megszüntette, vagy
+c)[^6] ellen benyújtott fellebbezést az ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) elutasította, a fellebbezés elbírálásának eredményeként született határozatot megváltoztatta, illetve az eljárást megszüntette, vagy
 
 d) ellen benyújtott fellebbezést,
 
@@ -29,3 +29,5 @@ da) a fellebbezési határidő leteltét megelőzően visszavonták és más jog
 db) a fellebbezési határidő leteltét követően visszavonták,
 
 e) bírósági felülvizsgálatára nem nyújtottak be kérelmet, vagy az annak alapján indult bírósági eljárás jogerősen lezárult.
+
+[^6]: A 2. § (2) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 5. pontja szerint módosított szöveg.

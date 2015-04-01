@@ -2,11 +2,11 @@
 
 15. § (1) A kérelmezők a kiosztási sorrend egymás közötti meghatározására egyezséget köthetnek. Az egyezséget közokiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni (a továbbiakban: egyezségi okirat). Az egyezségi okiratnak tartalmaznia kell az egyezségben résztvevő kérelmezők arra vonatkozó egybehangzó nyilatkozatát, hogy a 11. § (1) bekezdése szerinti határozatban foglaltaknak megfelelően határozzák meg a tulajdoni hányaduknak megfelelő terület egymás közötti kiosztási rendjét, és ennek megfelelően készíttetik el a változási munkarészeket, valamint az ingatlan-nyilvántartási bejegyzésre irányuló megállapodást.
 
-(2) A jogi szolgáltatónak, a 6. §-ban meghatározott tájékoztató megküldését követően, a kérelmezők és a földmérő összehívásával meg kell kísérelnie az egyezség létrehozását. Az első egyezségi tárgyalást a 11. § (1) bekezdésben meghatározott határozat meghozatala előtt kell megtartani. A tárgyalásról jegyzőkönyvet kell készíteni. Amennyiben a jegyzőkönyv a megosztás kiindulási helyére és irányára vonatkozó javaslatot, vagy teljes körű egyezségre irányuló döntést tartalmaz, a jogi szolgáltató – a tárgyalás napját követő – 8 napon belül megküldi azt a földhivatal részére.
+(2)[^31] A jogi szolgáltatónak, a 6. §-ban meghatározott tájékoztató megküldését követően, a kérelmezők és a földmérő összehívásával meg kell kísérelnie az egyezség létrehozását. Az első egyezségi tárgyalást a 11. § (1) bekezdésben meghatározott határozat meghozatala előtt kell megtartani. A tárgyalásról jegyzőkönyvet kell készíteni. Amennyiben a jegyzőkönyv a megosztás kiindulási helyére és irányára vonatkozó javaslatot, vagy teljes körű egyezségre irányuló döntést tartalmaz, a jogi szolgáltató – a tárgyalás napját követő – 8 napon belül megküldi azt a járási hivatal részére.
 
-(3) Az egyezségi tárgyalás helyszínét a földhivatal illetékességi területén kell kijelölni.
+(3)[^32] Az egyezségi tárgyalás helyszínét a járási hivatal illetékességi területén kell kijelölni.
 
-(4) Az egyezségi okiratnak a földhivatalhoz való benyújtására a 11. § (1) bekezdésben meghatározott jogerős határozat közlését követő naptól, legfeljebb a sorsolás napját megelőző 5. nap végéig van lehetőség, ezt követően egyezség nem köthető.
+(4)[^33] Az egyezségi okiratnak a járási hivatalhoz való benyújtására a 11. § (1) bekezdésben meghatározott jogerős határozat közlését követő naptól, legfeljebb a sorsolás napját megelőző 5. nap végéig van lehetőség, ezt követően egyezség nem köthető.
 
 (5) Az egyezségi meghívóban ismertetni kell:
 
@@ -38,7 +38,7 @@ c) a jogutódlás igazolására,
 
 d) arra, hogy a megosztási eljárás nem szünteti meg a fennálló földhasználati szerződést, de a mező és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 60. § (1) bekezdése szerinti esetben és módon a haszonbérleti szerződés felmondható,
 
-e) az újonnan kialakítandó földrészlet új helyrajzi száma, területi változása miatt a földhasználati szerződés módosul, ezért javasolt gondoskodni a földhasználati szerződés módosításáról és földhivatali bejelentéséről,
+e)[^34] az újonnan kialakítandó földrészlet új helyrajzi száma, területi változása miatt a földhasználati szerződés módosul, ezért javasolt gondoskodni a földhasználati szerződés módosításáról és járási hivatalhoz történő bejelentéséről,
 
 f) arra a tényre, hogy az újonnan kialakítandó földrészletek területe az Fkbt. 9/C. § (6) bekezdésében meghatározott területi minimumnál nem lehet kisebb és ez a kérelmezők közül kit érinthet, valamint, belterület esetén a helyi építési szabályzattal és a településszerkezeti tervvel összhangban kell azokat kialakítani,
 
@@ -52,11 +52,11 @@ g) a Polgári Törvénykönyvről szóló 2013. évi V. törvényben foglalt jog
 
 (10) Egy kérelmező esetén a jogi szolgáltatónak ki kell kérnie a kérelmező tulajdonos nyilatkozatát arról is, hogy szándékozik-e teljes körű egyezséget kötni. A teljes körű egyezség kialakításának szándéka a teljes körű egyezség kialakítására vonatkozó határidő alatt bármikor visszavonható.
 
-(11) A jogi szolgáltató írásban tájékoztatja a földhivatalt a visszavont kérelmekről. Amennyiben egy érintett földrészlet esetében az összes kérelmet visszavonták, az eljárást a (9) bekezdés szerint kell lefolytatni.
+(11)[^35] A jogi szolgáltató írásban tájékoztatja a járási hivatalt a visszavont kérelmekről. Amennyiben egy érintett földrészlet esetében az összes kérelmet visszavonták, az eljárást a (9) bekezdés szerint kell lefolytatni.
 
-(12) A tartalmi és alaki követelményeknek megfelelő egyezségről a földhivatal befogadó nyilatkozatot állít ki, amely azt igazolja, hogy a megosztási eljárás a továbbiakban az egyezség szabályai szerint folytatható. A befogadó nyilatkozatot – legkésőbb a sorsolás napjáig – a földhivatal a jogi szolgáltató útján közli az egyezséget benyújtó kérelmezőkkel.
+(12)[^36] A tartalmi és alaki követelményeknek megfelelő egyezségről a járási hivatal befogadó nyilatkozatot állít ki, amely azt igazolja, hogy a megosztási eljárás a továbbiakban az egyezség szabályai szerint folytatható. A befogadó nyilatkozatot – legkésőbb a sorsolás napjáig – a járási hivatal a jogi szolgáltató útján közli az egyezséget benyújtó kérelmezőkkel.
 
-(13) Ha a befogadott egyezségi okirat mellékleteként a kérelmezők a megosztás kiindulási helyére és irányára javaslatot tesznek és az nem ellentétes az Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal, a földhivatal a 11. § (1) bekezdésében meghozott határozatát a javaslat szerint módosítja.
+(13)[^37] Ha a befogadott egyezségi okirat mellékleteként a kérelmezők a megosztás kiindulási helyére és irányára javaslatot tesznek és az nem ellentétes az Fkbt. 12/G. § (2) bekezdésében meghatározott szempontokkal, a járási hivatal a 11. § (1) bekezdésében meghozott határozatát a javaslat szerint módosítja.
 
 (14) A késedelmesen benyújtott (1) bekezdés szerinti egyezséget tartalmazó okirat esetében, valamint a (12) bekezdésben meghatározott befogadó nyilatkozat hiányában a megosztási eljárás a 2. § (1) bekezdés e)–g) pontjában meghatározott eljárásokkal folytatódik, és fejeződik be.
 
@@ -67,3 +67,11 @@ g) a Polgári Törvénykönyvről szóló 2013. évi V. törvényben foglalt jog
 (17) A megosztást a 11. § (1) bekezdése szerinti határozat alapján, és az egyezség tartalma szerint kell elvégezni.
 
 (18) Egy kérelmező esetén a kérelmet kell a bejegyzés alapjául szolgáló okiratnak tekinteni.
+
+[^31]: A 15. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^32]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^33]: A 15. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 15. pontja szerint módosított szöveg.
+[^34]: A 15. § (6) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 16. pontja szerint módosított szöveg.
+[^35]: A 15. § (11) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 9. pontja szerint módosított szöveg.
+[^36]: A 15. § (12) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 4. pontja szerint módosított szöveg.
+[^37]: A 15. § (13) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.

@@ -26,6 +26,9 @@ k) azt a bejegyzést, hogy a jogi képviselő ismertette és a jelenlévők tudo
 
 (3) A sorsolási jegyzőkönyv négy eredeti példányban készül.
 
-(4) A sorsolási jegyzőkönyvet a földhivatalnak soron kívül záradékkal kell ellátnia, ha a sorsolás lefolytatása ellen a 20. § szerinti kifogás nem került benyújtásra, vagy a benyújtott kifogást a megyei földhivatal elutasította és a sorsolás eredményét a megyei földhivatal helyben hagyta. A záradék azt tanúsítja, hogy a megosztási eljárás a sorsolás eredményének megfelelően folytatható.
+(4)[^41] A sorsolási jegyzőkönyvet a járási hivatalnak soron kívül záradékkal kell ellátnia, ha a sorsolás lefolytatása ellen a 20. § szerinti kifogás nem került benyújtásra, vagy a benyújtott kifogást a kormányhivatal elutasította és a sorsolás eredményét a kormányhivatal helyben hagyta. A záradék azt tanúsítja, hogy a megosztási eljárás a sorsolás eredményének megfelelően folytatható.
 
-(5) Záradékolás után a sorsolási jegyzőkönyv két példánya a földhivatalnál, egy példány a jogi szolgáltatónál és egy példány a földmérőnél kerül megőrzésre.
+(5)[^42] Záradékolás után a sorsolási jegyzőkönyv két példánya a járási hivatalnál, egy példány a jogi szolgáltatónál és egy példány a földmérőnél kerül megőrzésre.
+
+[^41]: A 19. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 14. és 20. pontja szerint módosított szöveg.
+[^42]: A 19. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 21. pontja szerint módosított szöveg.
