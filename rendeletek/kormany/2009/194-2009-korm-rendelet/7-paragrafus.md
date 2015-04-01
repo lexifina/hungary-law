@@ -26,7 +26,7 @@ i)[^6] az 1. § (1) bekezdés c) pontja esetében a kérelemmel érintett épít
 
 (4) A kérelmezőnek a (2) bekezdés szerinti kérelmét és annak mellékleteit az egyes társhatósági és szakhatósági eljárások lefolytatásához alkalmas, jogszabályban meghatározott tartalommal és módon kell összeállítania.
 
-(5) Ha az integrált eljárásban építésügyi hatósági engedélyezési eljárás is lefolytatásra kerül, akkor mellékelni kell az építésügyi igazgatási szakértő nyilatkozatát, amely nem lehet a kérelem benyújtását megelőző tizenötödik napnál korábbi.
+(5)[^7]
 
 (6) A mellékleteket szakhatósági közreműködés esetén a kérelmezőnek úgy kell összeállítania, hogy alkalmas legyen a szakhatósági eljárás lefolytatásához, kivéve, ha a kérelmező az eljárási kérelemhez mellékelte a hat hónapnál nem régebbi előzetes szakhatósági állásfoglalást.
 
@@ -35,3 +35,4 @@ i)[^6] az 1. § (1) bekezdés c) pontja esetében a kérelemmel érintett épít
 [^4]: A 7. § (2) bekezdés g) pontja a 228/2010. (VIII. 13.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^5]: A 7. § (2) bekezdés h) pontja a 228/2010. (VIII. 13.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^6]: A 7. § (2) bekezdés i) pontját a 228/2010. (VIII. 13.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^7]: A 7. § (5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 140. § (2) bekezdés a) pontja hatályon kívül helyezte.

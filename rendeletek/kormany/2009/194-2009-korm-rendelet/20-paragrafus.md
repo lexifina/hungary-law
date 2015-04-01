@@ -4,7 +4,7 @@
 
 (2) Az integrált engedélyezési eljárásban – a (3) bekezdésben foglalt kivétellel – a 2. mellékletben kijelölt engedélyező hatóság látja el a közreműködő hatóság feladatait.
 
-(3)[^24] Honvédelmi és katonai célú építmények engedélyezése során
+(3)[^25] Honvédelmi és katonai célú építmények engedélyezése során
 
 a) az építmények (ideértve a műemléket, a sajátos építményfajtát is) használatbavételi engedélyezési eljárásai, és
 
@@ -12,4 +12,4 @@ b) az építményben folytatott vagy az építmény használatához kapcsolódó
 
 folytathatók le integrált engedélyezési eljárásban, amely esetében a közreműködő hatóság a Honvédelmi Minisztérium Hatósági Hivatal vezetője.
 
-[^24]: A 20. § (3) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^25]: A 20. § (3) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Integrált hatásvizsgálati eljárás
 
-21. § (1)[^25] Ha az építési beruházás építési engedélyezéséhez, azt megelőzően, több – nem építésügyi – hatóság eljárásának lefolytatása szükséges, a különböző hatóságok eljárásait összefogó, az építési beruházás feltételeinek előzetes tisztázására szolgáló, e rendeletben meghatározott közreműködő hatóság igénybevételével folytatható le az integrált hatásvizsgálati eljárás.
+21. § (1)[^26] Ha az építési beruházás építési engedélyezéséhez, azt megelőzően, több – nem építésügyi – hatóság eljárásának lefolytatása szükséges, a különböző hatóságok eljárásait összefogó, az építési beruházás feltételeinek előzetes tisztázására szolgáló, e rendeletben meghatározott közreműködő hatóság igénybevételével folytatható le az integrált hatásvizsgálati eljárás.
 
 (2) Az integrált hatásvizsgálati eljárás az integrált építésügyi hatósági eljárást, az integrált engedélyezési eljárást vagy az általános építésügyi hatósági eljárást megelőzi.
 
@@ -8,7 +8,7 @@
 
 (4) Honvédelmi és katonai célú építmények engedélyezése során
 
-a)[^26]
+a)[^27]
 
 b) az egyéb közlekedési építmények elvi építési engedélyezési eljárásai,
 
@@ -20,8 +20,8 @@ e) az erdő igénybevételének engedélyezési eljárása
 
 folytathatók le integrált hatásvizsgálati eljárásban.
 
-(5)[^27] A (4) bekezdés a)–c) és e) pontjában meghatározott eljárások integrált hatásvizsgálati eljárásban történő lefolytatása esetében a közreműködő hatóság a Honvédelmi Minisztérium Hatósági Hivatal vezetője. Ha az ügyfél az integrált eljárásban a (4) bekezdés d) pontjában meghatározott eljárás lefolytatását is kérelmezi, akkor az integrált eljárás közreműködő hatósága az illetékes környezetvédelmi és természetvédelmi felügyelőség.
+(5)[^28] A (4) bekezdés a)–c) és e) pontjában meghatározott eljárások integrált hatásvizsgálati eljárásban történő lefolytatása esetében a közreműködő hatóság a Honvédelmi Minisztérium Hatósági Hivatal vezetője. Ha az ügyfél az integrált eljárásban a (4) bekezdés d) pontjában meghatározott eljárás lefolytatását is kérelmezi, akkor az integrált eljárás közreműködő hatósága az illetékes környezetvédelmi és természetvédelmi hatáskörében eljáró megyei kormányhivatal.
 
-[^25]: A 21. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 100. §-ával megállapított szöveg.
-[^26]: A 21. § (4) bekezdés a) pontját a 322/2012. (XI. 16.) Korm. rendelet 103. § d) pontja hatályon kívül helyezte.
-[^27]: A 21. § (5) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a, az 527/2013. (XII. 30.) Korm. rendelet 77. §-a szerint módosított szöveg.
+[^26]: A 21. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 100. §-ával megállapított szöveg.
+[^27]: A 21. § (4) bekezdés a) pontját a 322/2012. (XI. 16.) Korm. rendelet 103. § d) pontja hatályon kívül helyezte.
+[^28]: A 21. § (5) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a, a 70/2015. (III. 30.) Korm. rendelet 140. § (1) bekezdése szerint módosított szöveg.

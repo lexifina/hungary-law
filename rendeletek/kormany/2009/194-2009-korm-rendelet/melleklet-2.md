@@ -66,6 +66,6 @@
 
 | 4. | Amennyiben az építéssel kapcsolatban közműkiváltás történik, akkor az ezzel érintett szénhidrogén szállító-, földgázelosztó- és célvezeték, valamint az egyéb gázok és ezek termékeinek vezetéke engedélyezési eljárása tekintetében |  |
 
-2. melléklet a 194/2009. (IX. 15.) Korm. rendelethez[^32]
+2. melléklet a 194/2009. (IX. 15.) Korm. rendelethez[^33]
 
-[^32]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 102. § c) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 102. § c) pontja szerint módosított szöveg.
