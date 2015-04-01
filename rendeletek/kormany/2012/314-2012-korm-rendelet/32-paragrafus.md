@@ -10,7 +10,7 @@ c) tárgyalásos
 
 ## eljárás.
 
-(2) Az eljárás típusának meghatározása e rendeletben foglalt követelmények szerint történik, a településrendezési eszközök kidolgozását vagy módosítását megelőzően. Amennyiben az eljárás típusa nem határozható meg egyértelműen, a polgármester egyeztetést kezdeményez a kérdés eldöntésének érdekében az állami főépítésznél, aki az egyeztetés alapján javaslatot tesz az eljárás típusára.
+(2)[^25] Az eljárás típusának meghatározása e rendeletben foglalt követelmények szerint történik, a településrendezési eszközök kidolgozását vagy módosítását megelőzően. Amennyiben az eljárás típusa nem határozható meg egyértelműen, a polgármester egyeztetést kezdeményez a kérdés eldöntésének érdekében az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál, amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
 
 (3) Településrendezési eszköz készítése és módosítása során – a (4)–(6) bekezdésben meghatározott esetek kivételével – teljes eljárást kell lefolytatni.
 
@@ -26,7 +26,7 @@ c) nem történik zöld, vízgazdálkodási, erdő- és természetközeli terül
 
 (6) A településrendezési eszköz egyeztetése tárgyalásos eljárás szerint történik, amennyiben a településrendezési eszköz készítése vagy módosítás
 
-a)[^23] a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó ügy tárgyát képező építési beruházás megvalósítása miatt indokolt,
+a)[^26] a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó ügy tárgyát képező építési beruházás megvalósítása miatt indokolt,
 
 b) a Kormány által rendeletben kihirdetett veszélyhelyzet esetén, az érintett településen a veszélyhelyzet következményeinek a felszámolása vagy a további, közvetlenül fenyegető veszélyhelyzet megelőzése miatt indokolt,
 
@@ -36,4 +36,5 @@ d) elírás javítása, rajzi feldolgozásból, méretarányból adódó pontatl
 
 (7) Az önkormányzat bármely településrendezési eszköz készítése során alkalmazhatja a teljes eljárást, illetve indíthatja az eljárást az előzetes tájékoztatási szakasz kezdeményezésével.
 
-[^23]: A 32. § (6) bekezdés a) pontja a 38/2015. (III. 11.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^25]: A 32. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^26]: A 32. § (6) bekezdés a) pontja a 38/2015. (III. 11.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.

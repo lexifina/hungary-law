@@ -6,4 +6,6 @@
 
 (3) Az elfogadott stratégiát az önkormányzat honlapján közzé kell tenni.
 
-(4) A stratégia elfogadásáról és honlapon való közzétételéről a polgármester 5 napon (a főváros esetében 10 napon) belül értesítést küld az egyeztetésben részt vetteknek és az állami főépítésznek.
+(4)[^24] A stratégia elfogadásáról és honlapon való közzétételéről a polgármester 5 napon (a főváros esetében 10 napon) belül értesítést küld az egyeztetésben részt vetteknek és az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak.
+
+[^24]: A 31. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés b) pontja szerint módosított szöveg.

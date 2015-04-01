@@ -42,7 +42,8 @@ c) táblázatban átadja az önkormányzatnak a szegregált és a szegregációv
 
 (7) Az elfogadott koncepciót az önkormányzat honlapján közzé kell tenni.
 
-(8) A koncepció elfogadásáról és honlapon való közzétételéről a polgármester 5 napon (a főváros esetében 10 napon) belül értesítést küld az egyeztetésben részt vetteknek és az állami főépítésznek.
+(8)[^23] A koncepció elfogadásáról és honlapon való közzétételéről a polgármester 5 napon (a főváros esetében 10 napon) belül értesítést küld az egyeztetésben részt vetteknek és az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak.
 
 [^21]: A 30. § (1) bekezdése a 342/2014. (XII. 19.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^22]: A 30. § (2a) bekezdését a 342/2014. (XII. 19.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^23]: A 30. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés b) pontja szerint módosított szöveg.
