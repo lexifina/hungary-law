@@ -1,4 +1,4 @@
-## 1. § A hazai anyakönyvezést végző hatóság a Bevándorlási és Állampolgársági Hivatal (a továbbiakban: hazai anyakönyvezést végző hatóság).
+## 1. §[^1] A hazai anyakönyvezést végző hatóság Budapest Főváros Kormányhivatala (a továbbiakban: hazai anyakönyvezést végző hatóság).
 
 ## 2. Az anyakönyvezéssel összefüggő feladatok ellátása
 
@@ -6,6 +6,7 @@
 
 a) a fővárosi és megyei kormányhivatal anyakönyvi igazgatási feladatokat ellátó, és
 
-b)[^1] a központi anyakönyvi szerv
+b)[^2] a központi anyakönyvi szerv
 
-[^1]: A 2. § b) pontja a 38/2014. (VII. 16.) BM rendelet 2. §-ával megállapított szöveg.
+[^1]: Az 1. § a 11/2015. (III. 31.) BM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § b) pontja a 38/2014. (VII. 16.) BM rendelet 2. §-ával megállapított szöveg.

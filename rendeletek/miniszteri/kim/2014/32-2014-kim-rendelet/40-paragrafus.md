@@ -12,10 +12,10 @@ b) egyéb esetben a fővárosi és megyei kormányhivatalnak
 
 (4) Ha a házasságot vagy bejegyzett élettársi kapcsolatot külföldön létesítették, a kérelmet a konzuli tisztviselő a hazai anyakönyvezést végző hatóságnak az első diplomáciai postával továbbítja.
 
-(5)[^10] Ha a házasságot vagy bejegyzett élettársi kapcsolatot belföldön létesítették, a konzuli tisztviselő a kérelmet az első diplomáciai postával a központi anyakönyvi szervnek küldi meg, amely öt napon belül
+(5)[^11] Ha a házasságot vagy bejegyzett élettársi kapcsolatot belföldön létesítették, a konzuli tisztviselő a kérelmet az első diplomáciai postával a központi anyakönyvi szervnek küldi meg, amely öt napon belül
 
 a) a 2201/2003/EK tanácsi rendelet hatálya alá tartozó ügyekben az illetékes anyakönyvvezetőnek,
 
 b) egyéb esetben a fővárosi és megyei kormányhivatalnak
 
-[^10]: A 40. § (5) bekezdés nyitó szövegrésze a 38/2014. (VII. 16.) BM rendelet 3. § g) pontja szerint módosított szöveg.
+[^11]: A 40. § (5) bekezdés nyitó szövegrésze a 38/2014. (VII. 16.) BM rendelet 3. § g) pontja szerint módosított szöveg.

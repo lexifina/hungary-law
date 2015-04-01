@@ -1,4 +1,4 @@
-## 27. §[^6] A központi anyakönyvi szerv a nem megváltozásával összefüggésben történt névváltoztatásról haladéktalanul értesíti a születést nyilvántartó anyakönyvvezetőt a nem megváltozásának az anyakönyvbe való bejegyzése érdekében. A nyilvántartó anyakönyvvezető a nem megváltozását a központi anyakönyvi szerv értesítése alapján jegyzi be az anyakönyvbe.
+## 27. §[^7] A központi anyakönyvi szerv a nem megváltozásával összefüggésben történt névváltoztatásról haladéktalanul értesíti a születést nyilvántartó anyakönyvvezetőt a nem megváltozásának az anyakönyvbe való bejegyzése érdekében. A nyilvántartó anyakönyvvezető a nem megváltozását a központi anyakönyvi szerv értesítése alapján jegyzi be az anyakönyvbe.
 
 ## 11. A bejegyzést követő feladatok
 
@@ -24,4 +24,4 @@ d) haláleset esetén a temetésről gondoskodni köteles személynek vagy szerv
 
 (3) Az anyakönyvvezető a haláleset anyakönyvezése után, vagy ha az anyakönyvezést elhalasztja, a halottvizsgálati bizonyítványnak a temetésről gondoskodni köteles személy vagy szerv számára átadott példányára az anyakönyvezés megtörténtét vagy az elhalasztás tényét feljegyzi, azt aláírja, bélyegzőlenyomatával ellátja és a bejelentőnek átadja.
 
-[^6]: A 27. § a 38/2014. (VII. 16.) BM rendelet 3. § c) és d) pontja szerint módosított szöveg.
+[^7]: A 27. § a 38/2014. (VII. 16.) BM rendelet 3. § c) és d) pontja szerint módosított szöveg.
