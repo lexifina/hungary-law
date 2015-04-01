@@ -18,14 +18,18 @@ d) az Országos Egészségbiztosítási Pénztár és a munkáltató társadalom
 
 (5) Halálos kimenetelű vagy tömeges foglalkozási megbetegedés kivizsgálásába a munkavédelmi hatóság
 
-a) növényvédő szer vagy termésnövelő anyag okozta megbetegedés esetén a megyei kormányhivatal növény- és talajvédelmi igazgatóságát,
+a)[^1] növényvédő szer vagy termésnövelő anyag okozta megbetegedés esetén a növény- és talajvédelmi feladatkörében eljáró megyei kormányhivatalt,
 
-b) biológiai kóroki tényező okozta megbetegedés esetén a területileg illetékes népegészségügyi szakigazgatási szervet,
+b)[^2] biológiai kóroki tényező okozta megbetegedés esetén a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt,
 
-c) élelmiszer eredetű vagy állatról emberre terjedő fertőzés okozta megbetegedés esetén a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatóságát
+c)[^3] élelmiszer eredetű vagy állatról emberre terjedő fertőzés okozta megbetegedés esetén az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatalt
 
 ## szakértőként bevonja.
 
 (6) A foglalkozási megbetegedés, szolgálati kötelmekkel összefüggő betegség és fokozott expozíció szolgálattal, munkavégzéssel összefüggő jellegének megállapításához, minősítéséhez minden esetben a munkahigiénés és foglalkozás-egészségügyi szerv szakvéleménye, valamint az illetékes I. fokú Felülvizsgáló Orvosi Bizottság (a továbbiakban: FÜV Bizottság) véleménye szükséges. A szakvélemények beszerzéséről az Országgyűlési Őrség parancsnoka gondoskodik. A 21. § (1) bekezdésében meghatározott határidőbe nem számít bele a szakvélemények beszerzésére irányuló megkeresés előterjesztésétől a szakvélemények megérkezéséig tartó időtartam.
 
 (7) A munkavédelmi hatóság és az alapellátó orvos által elkészített és összeállított megbetegedési dokumentáció, továbbá a munkahigiénés és foglalkozás-egészségügyi szerv és a FÜV Bizottság véleménye alapján a foglalkozási megbetegedés, valamint a fokozott expozíciós esetek szolgálattal, munkavégzéssel összefüggő minősítését az Országgyűlési Őrség parancsnoka a szakvélemények mérlegelésével végzi el. Az Országgyűlési Őrség parancsnoka a 10. melléklet szerinti nyomtatványon értesíti a társadalombiztosítási kifizetőhelyet, valamint az Országos Egészségbiztosítási Pénztárat.
+
+[^1]: A 25. § (5) bekezdés a) pontja a 11/2015. (III. 31.) BM rendelet 11. § a) pontja szerint módosított szöveg.
+[^2]: A 25. § (5) bekezdés b) pontja a 11/2015. (III. 31.) BM rendelet 11. § b) pontja szerint módosított szöveg.
+[^3]: A 25. § (5) bekezdés c) pontja a 11/2015. (III. 31.) BM rendelet 11. § c) pontja szerint módosított szöveg.
