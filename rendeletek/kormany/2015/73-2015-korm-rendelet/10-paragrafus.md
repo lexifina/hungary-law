@@ -1,0 +1,9 @@
+## 9. § Ez a rendelet 2015. április 1-jén lép hatályba.
+
+10. § (1) A 2015. április 1-jén folyamatban lévő közigazgatási hatósági ügyekben 2015. március 31-ét követően az a szerv jár el, amelynek hatáskörébe a közigazgatási hatósági ügy ellátása vagy a fellebbezés elbírálása jogszabály rendelkezése szerint kerül.
+
+(2) A Magyar Államkincstártól (a továbbiakban: Kincstár) 2015. április 1-jén az ONYF-hez kerülő feladat- és hatáskörök, valamint az átvett feladat- és hatáskörökhöz kötődő foglalkoztatotti állomány, tárgyi eszköz és egyéb más, vagyoni értékű jogok tekintetében 2015. április 1-jétől az ONYF a Kincstár jogutódja. A Kincstártól átvételre kerülő feladatok ellátásához szükséges informatikai rendszereket 2015. december 31-éig az ONYF szakmai iránymutatása szerint a Kincstár térítésmentesen üzemelteti, ideértve az időközben bekövetkező jogszabályváltozásoknak való megfeleltetést is. Az informatikai rendszereket az ONYF 2016. január 1-jétől veszi át, és az ahhoz kötődő foglalkoztatotti állomány, tárgyi eszköz, valamint egyéb más, vagyoni értékű jogok tekintetében az ONYF 2016. január 1-jétől a Kincstár jogutódja. E kérdések rendezésére az ONYF és a Kincstár megállapodást köt.
+
+(3) Az EKOP-1.2.6-2008-2008-0001 azonosítási számú „a családtámogatási ellátások folyósításának korszerűsítése” kiemelt projekt tekintetében a projekt lezárását követően a Kincstárt terhelő fenntartási kötelezettség 2016. január 1-jétől az ONYF-et terheli.
+
+(4) A 2014. december 31-én költségvetési szervként működő Nyugdíjfolyósítási Igazgatóság 2015. január 1-jével a közfeladat eredményesebb ellátása céljából beolvad az Országos Nyugdíjbiztosítási Főigazgatóságba. A beolvadást követően az Országos Nyugdíjbiztosítási Főigazgatóság, mint a Nyugdíjfolyósítási Igazgatóság általános és egyetemes jogutódja látja el a beolvadó költségvetési szerv közfeladatait.

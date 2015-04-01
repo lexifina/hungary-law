@@ -1,0 +1,1 @@
+## 1. § Az Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) a szociál- és nyugdíjpolitikáért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
