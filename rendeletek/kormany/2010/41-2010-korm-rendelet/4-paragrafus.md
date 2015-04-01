@@ -16,7 +16,7 @@ b) az ellátó állatorvossal kötött szerződés egy példányát,
 
 c) a kereskedésnek a működési szabályzatát (a továbbiakban: az állatkereskedés működési szabályzata), amely tartalmazza az állatok etetésére, gondozására, egészségügyi ellenőrzésére, az elkülönítésre, a trágya, a hulladék elhelyezésére, a tetemek tárolására és ártalmatlanítására, a takarításra, a fertőtlenítésre, a közegészségügyi és állategészségügyi, állatvédelmi előírások betartására és a vásárlók tájékoztatására vonatkozó előírásokat.
 
-(4)[^10] Az állatkereskedés tevékenységi engedélyét a kereskedés helye szerint illetékes járási állat-egészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: járási állat-egészségügyi hivatal) adja ki. A járási állat-egészségügyi hivatal az állatkereskedés működési szabályzatának jóváhagyásáról az engedélyben dönt.
+(4)[^10] Az állatkereskedés tevékenységi engedélyét a kereskedés helye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatala (a továbbiakban: járási állat-egészségügyi hatóság) adja ki. A járási állat-egészségügyi hatóság az állatkereskedés működési szabályzatának jóváhagyásáról az engedélyben dönt.
 
 (5)[^11] Az állatkereskedés naprakész nyilvántartást vezet a beszerzett, készleten lévő, eladott és elhullott
 
@@ -28,6 +28,6 @@ b) nemzetközi természetvédelmi egyezmény hatálya alá tartozó gerinctelen 
 
 [^8]: A 4. § a 18. § (2) bekezdése alapján 2010. július 1-jén lép hatályba.
 [^9]: A 4. § (2) bekezdés a) pontja a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A 4. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 273. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 70. § a) és b) pontja szerint módosított szöveg.
+[^10]: A 4. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 273. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 151. § a) pontja szerint módosított szöveg.
 [^11]: A 4. § (5) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (3) bekezdése iktatta be.
 [^12]: A 4. § (6) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (3) bekezdése iktatta be.

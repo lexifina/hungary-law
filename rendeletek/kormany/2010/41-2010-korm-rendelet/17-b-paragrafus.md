@@ -24,9 +24,9 @@ b) az adatbázis működtetője köteles a korábbi tartó adatait legalább öt
 
 (10)[^54] Négy hónaposnál idősebb eb csak transzponderrel megjelölve tartható.
 
-(11)[^55] A (10) bekezdésekben foglaltak betartását a jegyző és a járási állat-egészségügyi hivatal ellenőrzi.
+(11)[^55] A (10) bekezdésekben foglaltak betartását a jegyző és a járási állat-egészségügyi hatóság ellenőrzi.
 
-(12)[^56] A négy hónaposnál idősebb transzponderrel nem jelölt ebről a jegyző és a szolgáltató állatorvos köteles jelentést tenni a járási állat-egészségügyi hivatal felé.
+(12)[^56] A négy hónaposnál idősebb transzponderrel nem jelölt ebről a jegyző és a szolgáltató állatorvos köteles jelentést tenni a járási állat-egészségügyi hatóság felé.
 
 [^45]: A 17/A. §-t a 115/2012. (VI. 11.) Korm. rendelet 6. § (10) bekezdése iktatta be.
 [^46]: A 17/B. §-t a 115/2012. (VI. 11.) Korm. rendelet 6. § (10) bekezdése iktatta be.
@@ -38,5 +38,5 @@ b) az adatbázis működtetője köteles a korábbi tartó adatait legalább öt
 [^52]: A 17/B. § (6) bekezdés a) pontja a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^53]: A 17/B. § (8) bekezdése a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^54]: A 17/B. § (10) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (11) bekezdése iktatta be.
-[^55]: A 17/B. § (11) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (11) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
-[^56]: A 17/B. § (12) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (11) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^55]: A 17/B. § (11) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (11) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.
+[^56]: A 17/B. § (12) bekezdését a 115/2012. (VI. 11.) Korm. rendelet 6. § (11) bekezdése iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 70. § b) pontja, a 40/2013. (II. 14.) Korm. rendelet 58. § (2) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.

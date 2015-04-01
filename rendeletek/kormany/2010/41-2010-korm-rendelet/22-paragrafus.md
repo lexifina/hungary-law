@@ -1,3 +1,3 @@
-## 21. §[^88]
+## 21. §[^89]
 
-[^88]: A 21. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.
+[^89]: A 21. §-t a 189/2013. (VI. 7.) Korm. rendelet 7. § (3) bekezdése hatályon kívül helyezte.
