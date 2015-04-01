@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-67-20-2
 | --- | --- | --- |
 | 2009-10-01 | 1998-67-20-22.5 | 67/1998. (IV. 3.) Korm. rendelet |
 | 2014-01-01 | 1998-67-20-22.6 | 340/2004. (XII. 22.) Korm. rendelet |
+| 2015-04-01 | 1998-67-20-22.7 | 182/2009. (IX. 10.) Korm. rendelet |
