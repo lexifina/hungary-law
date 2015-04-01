@@ -1,6 +1,6 @@
 ## (A Bt. 20. §-ához)
 
-4. §[^31] (1)[^32] A bányajáradék számításának alapjául
+4. §[^32] (1)[^33] A bányajáradék számításának alapjául
 
 a) az ásványi nyersanyagnak
 
@@ -8,7 +8,7 @@ aa) a kutatási területről, bányatelekből vagy meddőhányóból kitermelt,
 
 ab) a torlatból vagy hordalékból vízjogi engedély alapján kitermelt,
 
-ac)[^33] a Bt. 1. § (7) bekezdése szerinti más hatósági engedély alapján kitermelt és az engedélyben foglalt tevékenységgel össze nem függő célra felhasznált, hasznosított vagy értékesített, továbbá a Bt. 3. § (1a) bekezdés b) pontja szerint a katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra felhasznált, hasznosított vagy értékesített,
+ac)[^34] a Bt. 1. § (7) bekezdése szerinti más hatósági engedély alapján kitermelt és az engedélyben foglalt tevékenységgel össze nem függő célra felhasznált, hasznosított vagy értékesített, továbbá a Bt. 3. § (1a) bekezdés b) pontja szerint a katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra felhasznált, hasznosított vagy értékesített,
 
 ad) szénhidrogén esetében – beleértve a vízjogi (üzemeltetési) engedéllyel rendelkező víztermelő kutakból kitermelt és értékesített vagy hasznosított szénhidrogént és egyéb ásványi nyersanyagot is – a kútfejen méréssel vagy ennek hiányában a kútfejre visszaszármaztatással meghatározott,
 
@@ -16,15 +16,15 @@ ae) a föld alatti gáztárolóban lévő és a Bt. 3. § (1) bekezdése alapjá
 
 b) a kinyert geotermikus energia kútfejen méréssel meghatározott
 
-c)[^34] föld alatti szénelgázosítással történő kitermelés esetében a kutatási területből vagy a bányatelekből a műszaki üzemi tervben tervezett, a bányajáradék bevallási időszakra igénybevett ásványi nyersanyag mennyiségének
+c)[^35] föld alatti szénelgázosítással történő kitermelés esetében a kutatási területből vagy a bányatelekből a műszaki üzemi tervben tervezett, a bányajáradék bevallási időszakra igénybevett ásványi nyersanyag mennyiségének
 
 értékét kell figyelembe venni.
 
-(2)–(3)[^35]
+(2)–(3)[^36]
 
-(4)[^36] A bányajáradékot – a (12) bekezdésben foglalt eltéréssel – az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben foglaltak szerint önbevallásban kell meghatározni. Önbevallást a kutatás során végzett kitermelés megkezdését, az első műszaki üzemi tervet jóváhagyó vagy a külön jogszabály szerinti tevékenységet engedélyező határozat jogerőre emelkedését követő első határnaptól kezdődően kell benyújtani. A bányajáradék önbevallást akkor is be kell nyújtani, ha az adott időszakban bányajáradék fizetési-kötelezettség nem keletkezett. A bányafelügyelet a bányajáradék számítását, az önbevallás alapjául szolgáló adatokat, továbbá a bányajáradék befizetését ellenőrzi, a bányajáradék fizetésre kötelezettekről és a bányajáradék fizetésről nyilvántartást vezet.
+(4)[^37] A bányajáradékot – a (12) bekezdésben foglalt eltéréssel – az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben foglaltak szerint önbevallásban kell meghatározni. Önbevallást a kutatás során végzett kitermelés megkezdését, az első műszaki üzemi tervet jóváhagyó vagy a külön jogszabály szerinti tevékenységet engedélyező határozat jogerőre emelkedését követő első határnaptól kezdődően kell benyújtani. A bányajáradék önbevallást akkor is be kell nyújtani, ha az adott időszakban bányajáradék fizetési-kötelezettség nem keletkezett. A bányafelügyelet a bányajáradék számítását, az önbevallás alapjául szolgáló adatokat, továbbá a bányajáradék befizetését ellenőrzi, a bányajáradék fizetésre kötelezettekről és a bányajáradék fizetésről nyilvántartást vezet.
 
-(5)[^37] A bányajáradékot
+(5)[^38] A bányajáradékot
 
 a) kőolaj, földgáz és szén-dioxid gáz esetében havonta, a tárgyhót követő hónap 20. napjáig,
 
@@ -34,23 +34,23 @@ c) a föld alatti gáztárolóban lévő és a Bt. 3. § (1) bekezdése alapján
 
 kell bevallani a bányafelügyeletnek, valamint befizetni a központi költségvetés e célra elkülönített számláira.
 
-(6)[^38]
+(6)[^39]
 
-(7)[^39] Ha a Bt. 20. § (2) bekezdésében foglaltak szerint bányajáradék fizetésére kötelezett
+(7)[^40] Ha a Bt. 20. § (2) bekezdésében foglaltak szerint bányajáradék fizetésére kötelezett
 
 a) a jóváhagyott műszaki üzemi tervben engedélyezett ásványvagyon-veszteség, visszahagyás mértékét a bányászati tevékenységre vonatkozó szabályok és előírások megszegésével túllépi, vagy
 
-b) a tevékenységre vonatkozó szabályok és előírások megszegésével az ásványvagyon jövőbeni kitermelését lehetetlenné vagy haszonanyagként történő kitermelésre alkalmatlanná teszi,
+b)[^41] a tevékenységre vonatkozó szabályok és előírások megszegésével az ásványvagyon jövőbeni kitermelését lehetetlenné vagy haszonanyagként történő kitermelésre alkalmatlanná teszi,
 
-az érintett ásványvagyon mennyisége után kiesett bányajáradék pótlására a bányakapitányság díjfizetési kötelezettséget állapít meg.
+az érintett ásványvagyon mennyisége után kiesett bányajáradék pótlására a bányafelügyelet díjfizetési kötelezettséget állapít meg.
 
-(8)[^40] Az ásványvagyon-gazdálkodási szabályok megszegésével okozott veszteség miatt a bányajáradék pótlására megállapított díjat az (5) bekezdésben foglalt gyakorisággal és időpontoknak megfelelően kell megfizetni.
+(8)[^42] Az ásványvagyon-gazdálkodási szabályok megszegésével okozott veszteség miatt a bányajáradék pótlására megállapított díjat az (5) bekezdésben foglalt gyakorisággal és időpontoknak megfelelően kell megfizetni.
 
-(9)[^41]
+(9)[^43] A jogosulatlanul kitermelt ásványi nyersanyag értéket, a térítési díjat, a kitermelés szüneteltetése esetén a kieső bányajáradék pótlására előírt díjat, valamint az ásványvagyon-gazdálkodási szabályok megszegésével okozott veszteség miatt a bányajáradék pótlására megállapított díjat a Magyar Államkincstárnál vezetett 10032000-01031513-00000000 számú „Bányajáradék befizetés” elnevezésű számlára kell befizetni.
 
-(10)[^42] A bányavállalkozó kérheti annak megállapítását, hogy az általa alkalmazni tervezett művelési eljárás növelt hatékonyságú. A művelési eljárás akkor tekinthető növelt hatékonyságúnak, ha rétegkezelési, kitermelés-technológiai vagy felszíni technológiai beavatkozásokkal az ipari vagyon növelésére gyakorolt hatása bizonyított. A minősítésről az MBFH dönt.
+(10)[^44] A bányavállalkozó kérheti annak megállapítását, hogy az általa alkalmazni tervezett művelési eljárás növelt hatékonyságú. A művelési eljárás akkor tekinthető növelt hatékonyságúnak, ha rétegkezelési, kitermelés-technológiai vagy felszíni technológiai beavatkozásokkal az ipari vagyon növelésére gyakorolt hatása bizonyított. A minősítésről az MBFH dönt.
 
-(10a)[^43] A (10) bekezdés szerinti kérelemhez mellékelni kell:
+(10a)[^45] A (10) bekezdés szerinti kérelemhez mellékelni kell:
 
 a) a növelt hatékonyságú eljárás ismertetését,
 
@@ -72,28 +72,30 @@ i) a növelt hatékonyságú eljárás alkalmazását megelőzően és az eljár
 
 j) a növelt hatékonyságú eljárással érintett mező vagy telep nyomásértékeit az eljárás alatt tervezett nyomásértékekkel együtt.
 
-(11) A földalatti gáztárolóban, állami tulajdonban álló szénhidrogén tulajdonjogának a Bt. 3. § (1) bekezdés szerinti megszerzése iránti kérelmet a bányakapitánysághoz kell benyújtani. A kérelemnek tartalmaznia kell a fizetendő bányajáradék megállapításához szükséges adatokat, így különösen:
+(11)[^46] A földalatti gáztárolóban, állami tulajdonban álló szénhidrogén tulajdonjogának a Bt. 3. § (1) bekezdés szerinti megszerzése iránti kérelmet a bányafelügyelethez kell benyújtani. A kérelemnek tartalmaznia kell a fizetendő bányajáradék megállapításához szükséges adatokat, így különösen:
 
 a) a bányavállalkozónak az érintett tárolóra, bányatelekre fennálló bányászati jogát igazoló dokumentumokra történő utalást;
 
 b) tárolónként a tulajdonba venni kívánt kitermelhető földgáz mennyiségét m3-ben és hőmennyiségét MJ-ban kifejezve, valamint az azt alátámasztó adatokat.
 
-(12)[^44] A földalatti gáztárolóban állami tulajdonban álló földgáz mennyiségét a szénhidrogén termékmérleg alapján kell meghatározni. A fizetendő bányajáradék összegét – figyelemmel a (2) bekezdés alapján hozott miniszteri döntésre is – a bányakapitányság állapítja meg.
+(12)[^47] A földalatti gáztárolóban állami tulajdonban álló földgáz mennyiségét a szénhidrogén termékmérleg alapján kell meghatározni. A fizetendő bányajáradék összegét – figyelemmel a (2) bekezdés alapján hozott miniszteri döntésre is – a bányafelügyelet állapítja meg.
 
-(13)[^45] A (12) bekezdés szerint fizetendő bányajáradékot pénzben kell megállapítani és a Bt. 3. § (1) bekezdése szerint – a kitermelt szénhidrogén után fizetendő bányajáradéktól elkülönítetten – kell megfizetni. A szénhidrogén tulajdonjoga a Bt. 3. § (1) bekezdése a) pont rendelkezései alapján fizetendő járadék megfizetésével egyidejűleg száll át a bányavállalkozóra.
+(13)[^48] A (12) bekezdés szerint fizetendő bányajáradékot pénzben kell megállapítani és a Bt. 3. § (1) bekezdése szerint – a kitermelt szénhidrogén után fizetendő bányajáradéktól elkülönítetten – kell megfizetni. A szénhidrogén tulajdonjoga a Bt. 3. § (1) bekezdése a) pont rendelkezései alapján fizetendő járadék megfizetésével egyidejűleg száll át a bányavállalkozóra.
 
-[^31]: A Vhr. 4. §-a a 106/2005. (VI. 16.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^32]: A Vhr. 4. § (1) bekezdése a 411/2012. (XII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^33]: A Vhr. 4. § (1) bekezdés a) pont ac) alpontja a 311/2014. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^34]: A Vhr. 4. § (1) bekezdés c) pontját az 559/2013. (XII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^35]: A Vhr. 4. § (2)–(3) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^36]: A Vhr. 4. § (4) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^37]: A Vhr. 4. § (5) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^38]: A Vhr. 4. § (6) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.
-[^39]: A Vhr. 4. §-a (7) bekezdésének második mondatát a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
-[^40]: A Vhr. 4. § (8) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^41]: A Vhr. 4. §-ának (9) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
-[^42]: A Vhr. 4. §-ának (10) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 2. §-ával megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
-[^43]: A Vhr. 4. § (10a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^44]: A Vhr. 4. §-ának (12) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^45]: A Vhr. 4. §-ának (13) bekezdése a 267/2005. (XII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^32]: A Vhr. 4. §-a a 106/2005. (VI. 16.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^33]: A Vhr. 4. § (1) bekezdése a 411/2012. (XII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^34]: A Vhr. 4. § (1) bekezdés a) pont ac) alpontja a 311/2014. (XII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^35]: A Vhr. 4. § (1) bekezdés c) pontját az 559/2013. (XII. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^36]: A Vhr. 4. § (2)–(3) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^37]: A Vhr. 4. § (4) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^38]: A Vhr. 4. § (5) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^39]: A Vhr. 4. § (6) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^40]: A Vhr. 4. §-a (7) bekezdésének második mondatát a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^41]: A Vhr. 4. § (7) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^42]: A Vhr. 4. § (8) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^43]: A Vhr. 4. §-ának (9) bekezdését a 268/2006. (XII. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte, újonnan a 70/2015. (III. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^44]: A Vhr. 4. §-ának (10) bekezdése a 268/2006. (XII. 20.) Korm. rendelet 2. §-ával megállapított, az 559/2013. (XII. 31.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^45]: A Vhr. 4. § (10a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^46]: A Vhr. 4. § (11) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés c) pontja szerint módosított szöveg.
+[^47]: A Vhr. 4. §-ának (12) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 148. §-a, a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^48]: A Vhr. 4. §-ának (13) bekezdése a 267/2005. (XII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.

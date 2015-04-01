@@ -1,8 +1,8 @@
 ## (A Bt. 27. §-ához)
 
-13. §[^155] (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
+13. §[^162] (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
 
-(2)[^156] A bányavállalkozónak a műszaki üzemi tervben meghatározott bányászati tevékenységgel, vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságának igazolása céljából a műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelnie kell
+(2)[^163] A bányavállalkozónak a műszaki üzemi tervben meghatározott bányászati tevékenységgel, vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságának igazolása céljából a műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelnie kell
 
 a) az ingatlan tulajdonosával vagy vagyonkezelőjével megkötött, ügyvéd vagy jogtanácsos által ellenjegyzett, az ingatlan bányászati tevékenység céljából való igénybevételére vonatkozó megállapodást,
 
@@ -34,9 +34,9 @@ hb) a kitermeléssel érintett területen (térrészben) nyilvántartott ásván
 
 hc) a kitermelt ásványi nyersanyag mennyiségét érintő veszteséget (termelvény-veszteség) és annak indokolását;
 
-i)[^157] a bányaművelés környezetre gyakorolt hatásának ismertetését, a káros környezeti hatások megelőzéséhez és csökkentéséhez szükséges intézkedéseket, a hatások megfigyelésének módját, az ehhez szolgáló létesítmények, mérési helyek kialakításának, üzemeltetésének rendjét,;
+i)[^164] a bányaművelés környezetre gyakorolt hatásának ismertetését, a káros környezeti hatások megelőzéséhez és csökkentéséhez szükséges intézkedéseket, a hatások megfigyelésének módját, az ehhez szolgáló létesítmények, mérési helyek kialakításának, üzemeltetésének rendjét,;
 
-j)[^158] a föld alatti szénelgázosítással történő kitermelés esetében
+j)[^165] a föld alatti szénelgázosítással történő kitermelés esetében
 
 ja) az égetéssel művelésbe vonni tervezett széntelep lehatárolását,
 
@@ -56,28 +56,28 @@ kc) a kitermelés fenntartásához és az új területek (telepek) bekapcsolás�
 
 kd) a tárgyidőszakban tervezett próbatermeltetéseket;
 
-ke)[^159] a szénhidrogének feltárására és kitermelésére kijelölt bányatelekkel lehatárolt földtani közegben tervezett rétegrepesztések és egyéb kitermelést serkentő besajtolások tervét, az alkalmazni tervezett folyadék jellemzőinek ismertetését (összetétel, mennyiség);
+ke)[^166] a szénhidrogének feltárására és kitermelésére kijelölt bányatelekkel lehatárolt földtani közegben tervezett rétegrepesztések és egyéb kitermelést serkentő besajtolások tervét, az alkalmazni tervezett folyadék jellemzőinek ismertetését (összetétel, mennyiség);
 
 l) az esetleges régészeti feltárás ütemezését, módszerét, a feltárást követően bolygatatlanul maradó régészeti lelőhely-részlet megőrzésére tett intézkedéseket.
 
-(4)[^160] A szénhidrogénre, valamint a szén-dioxid gázra vonatkozó első feltárási, kitermelési vagy földgáztárolási, továbbá a föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelni kell a 11/A. § (2) bekezdés a) pontja szerinti határozatot.
+(4)[^167] A szénhidrogénre, valamint a szén-dioxid gázra vonatkozó első feltárási, kitermelési vagy földgáztárolási, továbbá a föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelni kell a 11/A. § (2) bekezdés a) pontja szerinti határozatot.
 
-(4a)[^161] Szénhidrogén, valamint szén-dioxid gáz feltárás, kitermelés vagy földgáztárolás esetében a kérelemhez mellékelni kell a kőolaj és földgázbányászati biztonsági szabályzat szerinti művelési tervet. Az első benyújtott művelési tervet követően a további kitermelési műszaki üzemi terv jóváhagyási eljárásokban csak a művelési terv módosítását kell benyújtani.
+(4a)[^168] Szénhidrogén, valamint szén-dioxid gáz feltárás, kitermelés vagy földgáztárolás esetében a kérelemhez mellékelni kell a kőolaj és földgázbányászati biztonsági szabályzat szerinti művelési tervet. Az első benyújtott művelési tervet követően a további kitermelési műszaki üzemi terv jóváhagyási eljárásokban csak a művelési terv módosítását kell benyújtani.
 
-(5)[^162] A Bt. 29. § (1) bekezdése szerinti együttes kitermelés esetében a műszaki üzemi tervhez mellékelni kell az együttes művelési tervet. A bányafelügyelet a műszaki üzemi tervet az együttes művelési terv alapján engedélyezi.
+(5)[^169] A Bt. 29. § (1) bekezdése szerinti együttes kitermelés esetében a műszaki üzemi tervhez mellékelni kell az együttes művelési tervet. A bányafelügyelet a műszaki üzemi tervet az együttes művelési terv alapján engedélyezi.
 
 (6) Ha a kitermelés szüneteltetését, illetve a bánya bezárását (megszüntetését), a szénhidrogénmező felhagyását a 14. § (3) bekezdése szerinti időszakra tervezik, a műszaki üzemi tervnek tartalmaznia kell a 17. §, illetve a 26. § szerinti tervrészletet is.
 
 (7) A tervtérkép tartalmi követelményeit a miniszter bányabiztonsági szabályzatban állapítja meg.
 
-(8)[^163] Ha a bányászati tevékenység folytatásához környezetvédelmi engedély, egységes környezethasználati engedély vagy környezetvédelmi működési engedély szükséges, akkor a kérelemhez mellékelni kell a jogerős környezetvédelmi engedélyt, egységes környezethasználati engedélyt vagy a környezetvédelmi működési engedélyt.
+(8)[^170] Ha a bányászati tevékenység folytatásához környezetvédelmi engedély, egységes környezethasználati engedély vagy környezetvédelmi működési engedély szükséges, akkor a kérelemhez mellékelni kell a jogerős környezetvédelmi engedélyt, egységes környezethasználati engedélyt vagy a környezetvédelmi működési engedélyt.
 
-[^155]: A Vhr. 13. §-a a 106/2005. (VI. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^156]: A Vhr. 13. § (2) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^157]: A Vhr. 13. § (3) bekezdés i) pontja a 411/2012. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg.
-[^158]: A Vhr. 13. § (3) bekezdés j) pontját a 411/2012. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan az 559/2013. (XII. 31.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^159]: A Vhr. 13. § (3) bekezdés k) pont ke) alpontját az 559/2013. (XII. 31.) Korm. rendelet 11. § 2) bekezdése iktatta be.
-[^160]: A Vhr. 13. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte, újonnan az 559/2013. (XII. 31.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^161]: A Vhr. 13. § (4a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^162]: A Vhr. 13. § (5) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^163]: A Vhr. 13. § (8) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan a 146/2012. (VII. 5.) Korm. rendelet 9. §-a iktatta be.
+[^162]: A Vhr. 13. §-a a 106/2005. (VI. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^163]: A Vhr. 13. § (2) bekezdése a 251/2011. (XII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^164]: A Vhr. 13. § (3) bekezdés i) pontja a 411/2012. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^165]: A Vhr. 13. § (3) bekezdés j) pontját a 411/2012. (XII. 28.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan az 559/2013. (XII. 31.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^166]: A Vhr. 13. § (3) bekezdés k) pont ke) alpontját az 559/2013. (XII. 31.) Korm. rendelet 11. § 2) bekezdése iktatta be.
+[^167]: A Vhr. 13. § (4) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte, újonnan az 559/2013. (XII. 31.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^168]: A Vhr. 13. § (4a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^169]: A Vhr. 13. § (5) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^170]: A Vhr. 13. § (8) bekezdését a 251/2011. (XII. 1.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan a 146/2012. (VII. 5.) Korm. rendelet 9. §-a iktatta be.

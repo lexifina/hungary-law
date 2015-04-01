@@ -1,10 +1,10 @@
-6/D. §[^57] (1) A kutatási műszaki üzemi terv szöveges részből és tervtérképből áll. A szöveges résznek tartalmaznia kell:
+6/D. §[^60] (1) A kutatási műszaki üzemi terv szöveges részből és tervtérképből áll. A szöveges résznek tartalmaznia kell:
 
 a) a tervezett kutatási feladatokat és az ezek teljesítéséhez szükséges technológia és a biztonsági intézkedések leírását,
 
 b) a tervezett kutató létesítmények felsorolását, a helyének és felvonulási útvonalainak leírását,
 
-c)[^58] az egyes kutatási tevékenységek mennyiségét, ütemezését, azok tervezett időtartamát, módjának, mélységének, technológiájának, valamint a kutatás során várható veszélyek, a környezetre és természetre gyakorolt hatások, valamint a várható veszélyek és a kedvezőtlen hatások elhárítására tervezett intézkedések leírását,
+c)[^61] az egyes kutatási tevékenységek mennyiségét, ütemezését, azok tervezett időtartamát, módjának, mélységének, technológiájának, valamint a kutatás során várható veszélyek, a környezetre és természetre gyakorolt hatások, valamint a várható veszélyek és a kedvezőtlen hatások elhárítására tervezett intézkedések leírását,
 
 d) a tevékenység káros környezeti és természeti hatásainak, továbbá a környezet és természet veszélyeztetésének megelőzésére és csökkentésére tervezett műszaki intézkedéseket, valamint az elvégzendő tájrendezési feladatok ütemezését,
 
@@ -14,10 +14,11 @@ f) a kutatási létesítményekkel érintett ingatlanok ingatlan-nyilvántartás
 
 g) a kutatás során kitermelni kívánt ásványi nyersanyag mennyiségét és a kitermelés indokát.
 
-(1a)[^59] Ha a kutatás felhagyott földalatti bánya bányatérségein keresztül, valamint azok igénybevételével történő bányabeli módszerek alkalmazására is irányul, a műszaki üzemi tervnek tartalmaznia kell a bányatérségek újranyitásának, biztosításának, járásra, szállításra, munkavégzésre történő alkalmassá tételének, szellőztetésének, világításának, víztelenítésének, továbbá végleges felhagyásának és lezárásának a tervét és a kutatási munkálatok, valamint az ahhoz igénybevett bányatérségek biztonsága érdekében elvégzendő feladatok tételes költségtervét.
+(1a)[^62] Ha a kutatás felhagyott földalatti bánya bányatérségein keresztül, valamint azok igénybevételével történő bányabeli módszerek alkalmazására is irányul, a műszaki üzemi tervnek tartalmaznia kell a bányatérségek újranyitásának, biztosításának, járásra, szállításra, munkavégzésre történő alkalmassá tételének, szellőztetésének, világításának, víztelenítésének, továbbá végleges felhagyásának és lezárásának a tervét és a kutatási munkálatok, valamint az ahhoz igénybevett bányatérségek biztonsága érdekében elvégzendő feladatok tételes költségtervét.
 
-(2) Ha a kérelmező a kérelemhez az (1) bekezdés f) pontja szerinti adatokat nem mellékeli, azok beszerzéséről a bányafelügyelet az elektronikus szolgáltatásokat nyújtó országos földhivatali rendszeren, a TAKARNET-en keresztül, az érintett ingatlanok tulajdoni lapjának elektronikus formában történő lekérdezésével gondoskodik.
+(2)[^63] Ha a kérelmező a kérelemhez az (1) bekezdés f) pontja szerinti adatokat nem mellékeli, azok beszerzéséről a bányafelügyelet a TAKARNET-en keresztül, az érintett ingatlanok tulajdoni lapjának elektronikus formában történő lekérdezésével gondoskodik.
 
-[^57]: A Vhr. 6/D. §-át a 251/2011. (XII. 1.) Korm. rendelet 6. §-a iktatta be.
-[^58]: A Vhr. 6/D. § (1) bekezdés c) pontja a 146/2012. (VII. 5.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^59]: A Vhr. 6/D. § (1a) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^60]: A Vhr. 6/D. §-át a 251/2011. (XII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^61]: A Vhr. 6/D. § (1) bekezdés c) pontja a 146/2012. (VII. 5.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^62]: A Vhr. 6/D. § (1a) bekezdését a 411/2012. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^63]: A Vhr. 6/D. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (18) bekezdés a) pontja szerint módosított szöveg.

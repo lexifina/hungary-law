@@ -1,6 +1,6 @@
-## (A Bt. 47–47/F. §-ához)[^279]
+## (A Bt. 47–47/F. §-ához)[^301]
 
-32/A. §[^280] (1) A komplex műveleti terv jóváhagyása iránti kérelemnek tartalmaznia kell:
+32/A. §[^302] (1) A komplex műveleti terv jóváhagyása iránti kérelemnek tartalmaznia kell:
 
 a) a tevékenységet végző megnevezését, székhelyét, amennyiben az nem az engedélyes, és
 
@@ -64,5 +64,5 @@ f) a tevékenységgel érintett közmű esetén a közmű üzemeltető nyilatkoz
 
 (8) A (7) bekezdés d) pontja szerinti költségterv elkészítésére a 25. § (9) bekezdését kell megfelelően alkalmazni.
 
-[^279]: A Vhr. 32/A. §-át megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 16. §-a iktatta be.
-[^280]: A Vhr. 32/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 16. §-a iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^301]: A Vhr. 32/A. §-át megelőző alcímet a 311/2014. (XII. 11.) Korm. rendelet 16. §-a iktatta be.
+[^302]: A Vhr. 32/A. §-át a 146/2012. (VII. 5.) Korm. rendelet 16. §-a iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 16. §-ával megállapított szöveg.

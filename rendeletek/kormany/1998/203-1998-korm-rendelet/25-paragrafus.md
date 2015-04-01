@@ -1,6 +1,6 @@
 ## (A Bt. 41. §-ához)
 
-25. §[^236] (1) A Bt. 41. §-a alapján kiszabott bírság összegének felső határa tízmillió forint. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a határozatban megállapított határidőre nem szünteti meg vagy a jogsértést ismét elköveti, a bírság ismételten kiszabható, amelynek felső határa harmincmillió forint.
+25. §[^251] (1) A Bt. 41. §-a alapján kiszabott bírság összegének felső határa tízmillió forint. Ha a bírság kiszabásának alapját képező jogellenes állapotot a kötelezett a határozatban megállapított határidőre nem szünteti meg vagy a jogsértést ismét elköveti, a bírság ismételten kiszabható, amelynek felső határa harmincmillió forint.
 
 (2) A Bt. 41/A. §-a alapján kiszabott bírság összege – a Bt. 41/A. § (1) bekezdés d) pontja kivételével – egymillió forintig terjedhet. A Bt. 41/A. § (1) bekezdés d) pontja alapján kiszabott bírság összege kétmillió forintig terjedhet.
 
@@ -10,13 +10,13 @@ a) a jogsértés felróhatóságára és
 
 b) a jogsértés veszélyeztető jellegére.
 
-(4) A jogosulatlan vagy szabálytalan bányászati tevékenység kivizsgálása során a bányakapitányság – a tevékenységet végző költségére – elrendelheti a kitermelőhely hites bányamérővel történő geodéziai bemérését és a kitermelt ásványvagyon mennyiségének és fajtájának földtani szakértő bevonásával történő meghatározását.
+(4)[^252] A jogosulatlan vagy szabálytalan bányászati tevékenység kivizsgálása során a bányafelügyelet – a tevékenységet végző költségére – elrendelheti a kitermelőhely hites bányamérővel történő geodéziai bemérését és a kitermelt ásványvagyon mennyiségének és fajtájának földtani szakértő bevonásával történő meghatározását.
 
 (5) Jogosulatlan bányászati tevékenység folytatása esetén a kitermelt ásványi nyersanyag értékét az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló rendeletben meghatározott fajlagos érték alapján kell kiszámítani.
 
-(6) Szabálytalan bányászati tevékenység esetében az ingatlan eredeti állapotának helyreállítását elrendelő határozatot a bányakapitányság megküldi a földhivatalnak.
+(6)[^253] Szabálytalan bányászati tevékenység esetében az ingatlan eredeti állapotának helyreállítását elrendelő határozatot a bányafelügyelet megküldi az ingatlanügyi hatóságnak.
 
-(7) A bányakapitányság a bányászati jog átruházásához előírt hozzájárulás iránti, valamint a műszaki üzemi terv, illetve módosításának jóváhagyására irányuló kérelem elbírálása során dönt a bányavállalkozót terhelő kötelezettségek teljesítésére szolgáló biztosíték nagyságáról és teljesítésének módjáról. A kérelemhez a bányavállalkozó köteles a biztosíték nagyságát alátámasztó költségtervet, és a biztosítékadás módjára vonatkozó ajánlatot mellékelni.
+(7)[^254] A bányafelügyelet a bányászati jog átruházásához előírt hozzájárulás iránti, valamint a műszaki üzemi terv, illetve módosításának jóváhagyására irányuló kérelem elbírálása során dönt a bányavállalkozót terhelő kötelezettségek teljesítésére szolgáló biztosíték nagyságáról és teljesítésének módjáról. A kérelemhez a bányavállalkozó köteles a biztosíték nagyságát alátámasztó költségtervet, és a biztosítékadás módjára vonatkozó ajánlatot mellékelni.
 
 (8) A biztosítékot bányatelkenként, illetve geotermikus védőidomonként kell meghatározni. Ha a bányavállalkozó jogosultságában több bányatelek, illetve geotermikus védőidom is van, a biztosítékot összevontan is szolgáltathatja, azonban az összevont biztosíték nagysága nem lehet kisebb, mint az egyes bányatelkekre, illetve geotermikus védőidomokra meghatározott biztosítékok együttes összege. A biztosíték mértéke nem haladhatja meg a kétmilliárd forintot.
 
@@ -42,7 +42,7 @@ figyelemmel.
 
 (11) A (7) bekezdésben meghatározott biztosítékként hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás – garanciaszerződés, garanciavállaló nyilatkozat, biztosítási szerződés alapján kiállított, garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége –, zálogjog, óvadék vagy a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól szóló kormányrendelet alapján megállapított támogatás szolgálhat.
 
-(12) Zálogjogszerződés vagy óvadéki szerződést a bányafelügyelettel kell megkötni. Zálogként – kivéve, ha a biztosítékul felajánlott ingatlan zálogjogosultja az MBFH – csak per-, teher- és igénymentes ingatlan vagy dolog szolgálhat. Óvadékként csak pénz szolgálhat, amelyet a bányavállalkozó a bányafelügyelet hatósági letéti számláján köteles elhelyezni.
+(12)[^255] A zálogjogszerződést vagy óvadéki szerződést a kormányhivatallal kell megkötni. Zálogként – kivéve, ha a biztosítékul felajánlott ingatlan zálogjogosultja az MBFH vagy a kormányhivatal – csak per-, teher- és igénymentes ingatlan vagy dolog szolgálhat. Óvadékként csak pénz szolgálhat, amelyet a bányavállalkozó a kormányhivatal hatósági letéti számláján köteles elhelyezni.
 
 (13) A (12) bekezdés szerinti szerződés hatályát – a biztosítékadási kötelezettség fennállását – a szerződés jogalapját képező (7) bekezdés szerinti bányafelügyeleti határozat hatálya nem érinti.
 
@@ -52,8 +52,13 @@ figyelemmel.
 
 (16) A meg nem fizetett bányajáradék, jogosulatlanul kitermelt ásványi nyersanyag értéke, a felügyeleti díj, a kitermelés szüneteltetése esetén a kieső bányajáradék pótlására előírt díj, valamint ezek késedelmi kamatai behajtása érdekében a bányafelügyelet megkeresi az adóhatóságot.
 
-(17) A jogosulatlan bányászati tevékenység ügyében hivatalból indult eljárásáról a bányakapitányság értesíti a jegyzőt, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát és az elsőfokú környezetvédelmi, természetvédelmi, vízügyi, kulturális örökségvédelmi, valamint talajvédelmi hatóságot.
+(17)[^256]
 
 (18) Föld alatti szénelgázosítással történő ásványi nyersanyag kitermelése esetén a biztosíték összege nem lehet kevesebb kétszázmillió forintnál.
 
-[^236]: A Vhr. 25. §-a a 311/2014. (XII. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^251]: A Vhr. 25. §-a a 311/2014. (XII. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^252]: A Vhr. 25. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^253]: A Vhr. 25. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (10) bekezdésével megállapított szöveg.
+[^254]: A Vhr. 25. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (16) bekezdés b) pontja szerint módosított szöveg.
+[^255]: A Vhr. 25. § (12) bekezdése a 70/2015. (III. 30.) Korm. rendelet 35. § (11) bekezdésével megállapított szöveg.
+[^256]: A Vhr. 25. § (17) bekezdését a 70/2015. (III. 30.) Korm. rendelet 35. § (18) bekezdés c) pontja hatályon kívül helyezte.
