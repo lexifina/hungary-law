@@ -44,7 +44,7 @@
 
 ## b) amennyiben az egyetemes szolgáltatási szerződés alapján már történt számlakibocsátás, a kérelem benyújtását megelőzően kézhez kapott utolsó számla (részszámla) másolatát.
 
-## 4. Ha a családi pótlék folyósítására kifizetőhelyen kerül sor, ennek neve és címe:
+## 4.
 
 ## 5. Fogyasztói közösség képviselőjére vonatkozó adatok
 
@@ -54,15 +54,15 @@
 
 ## 6. Nyilatkozat
 
-## Tudomásul veszem, hogy a kérelemben foglaltak valódiságát a Magyar Államkincstár ellenőrizheti.
+## Tudomásul veszem, hogy a kérelemben foglaltak valódiságát a kormányhivatal ellenőrizheti.
 
 ## Tudomásul veszem, hogy a jogosulatlanul igénybe vett kedvezményt kamattal növelten az érintett földgáz egyetemes szolgáltató részére vagyok köteles egy összegben visszafizetni.
 
-## A Magyar Államkincstárnak a jogosultság elbírálásához, valamint a kedvezmény érvényesítéséhez és ellenőrzéséhez szükséges adatkezeléséhez, továbbá az egyetemes szolgáltató, valamint fogyasztási közösség esetén a fogyasztói közösség képviselője részére történő adattovábbításhoz hozzájárulok.
+## A kormányhivatalnak és az ONYFK-nak a jogosultság elbírálásához, valamint a kedvezmény érvényesítéséhez és ellenőrzéséhez szükséges adatkezeléséhez, továbbá az egyetemes szolgáltató, valamint fogyasztási közösség esetén a fogyasztói közösség képviselője részére történő adattovábbításhoz hozzájárulok.
 
 ## Kijelentem, hogy sem én, sem a háztartásomban élő személy más felhasználási helyen nagycsaládos kedvezményt nem vesz(ek) igénybe.
 
-## Kijelentem és tudomásul veszem, hogy köteles vagyok bejelenteni a jogosultságom fennállásának feltételeiben történt bármilyen változást – annak bekövetkeztétől számított 15 napon belül – a MÁK/Igazgatóság részére.
+## Kijelentem és tudomásul veszem, hogy köteles vagyok bejelenteni a jogosultságom fennállásának feltételeiben történt bármilyen változást – annak bekövetkeztétől számított 15 napon belül – a kormányhivatal részére.
 
 ## Büntetőjogi felelősségem tudatában kijelentem, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
 
@@ -72,7 +72,7 @@
 
 ## (az igénylő aláírása)
 
-12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^94]
+12. melléklet a 28/2009. (VI. 25.) KHEM rendelethez[^99]
 
 A kedvezményre jogosultakról szóló értesítés adatai
 
@@ -110,4 +110,4 @@ A kedvezményre jogosultakról szóló értesítés adatai
 
 13. Dátum.
 
-[^94]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított, a 78/2012. (XII. 22.) NFM rendelet 13. §-a szerint módosított szöveg.
+[^99]: A 12. mellékletet a 39/2010. (XII. 31.) NFM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2011. (VI. 30.) NFM rendelet 1. § (8) bekezdésével megállapított, a 78/2012. (XII. 22.) NFM rendelet 13. §-a szerint módosított szöveg.

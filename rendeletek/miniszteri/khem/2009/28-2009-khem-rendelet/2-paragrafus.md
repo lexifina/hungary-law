@@ -28,7 +28,7 @@ ka) a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti 
 
 kb) egyetemes szolgáltatási szerződéssel rendelkezik és a ka) alpont szerint családi pótlékban részesülő személlyel egy háztartásban él,
 
-l)[^10] nagycsaládos kedvezmény: a jogosult részére a MÁK által határozatban megállapított kedvezmény.
+l)[^10] nagycsaládos kedvezmény: a jogosult részére a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok (a továbbiakban: kormányhivatal) által határozatban megállapított kedvezmény.
 
 (2) Az (1) bekezdésben meg nem határozott fogalmakat a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET), valamint a felhatalmazása alapján kiadott jogszabályok szerint kell értelmezni.
 
@@ -40,4 +40,4 @@ l)[^10] nagycsaládos kedvezmény: a jogosult részére a MÁK által határozat
 [^7]: A 2. § (1) bekezdés i) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be.
 [^8]: A 2. § (1) bekezdés j) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be, hatályon kívül helyezte az 51/2012. (VIII. 31.) NFM rendelet 12. § a) pontja.
 [^9]: A 2. § (1) bekezdés k) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^10]: A 2. § (1) bekezdés l) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés l) pontját a 39/2010. (XII. 31.) NFM rendelet 2. §-a iktatta be, szövege az 51/2012. (VIII. 31.) NFM rendelet 1. § (2) bekezdésével megállapított, a 15/2015. (III. 31.) NFM rendelet 15. § b) pontja szerint módosított szöveg.
