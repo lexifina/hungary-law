@@ -1,12 +1,14 @@
-1. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^75]
+1. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^72]
 
 I. rész
 
-## A járási hivatalok szakigazgatási szerveként működő járási építésügyi hivatalok és illetékességi területük
+Az 1. § (2) bekezdésében meghatározott építésügyi és építésfelügyeleti hatáskörben eljáró járási
+
+hivatalok és illetékességi területük
 
 |  | A | B | C |
 
-| Sor- szám | Megye | Járási hivatal járási építésügyi hivatalának központja | Járási hivatal járási építésügyi hivatalának illetékességi területéhez tartozó járások |
+| Sor- szám | Megye | Az építésügyi és építésfelügyeleti hatáskörben eljáró járási hivatal székhelye | Az építésügyi és építésfelügyeleti hatáskörben eljáró járási hivatal illetékességi területéhez tartozó járások |
 
 | 1. | Baranya | 1.1. Szigetvári | Szigetvári, Szentlőrinci, Sellyei |
 
@@ -86,11 +88,11 @@ I. rész
 
 II. rész
 
-## A járási (fővárosi kerületi) hivatalok szakigazgatási szerveként működő járási építésügyi és örökségvédelmi hivatalok és illetékességi területük
+Az 1. § (2) és (3) bekezdésében meghatározott építésügyi és építésfelügyeleti hatáskörben, valamint örökségvédelmi feladatkörben eljáró járási hivatalok és illetékességi területük
 
 |  | A | B | C |
 
-| Sor- szám | Megye | Járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatalának központja | Járási (fővárosi kerületi) hivatal építésügyi és örökségvédelmi hivatalának illetékességi területe |
+| Sor- szám | Megye | Az építésügyi és építésfelügyeleti hatáskörben, valamint örökségvédelmi feladatkörben eljáró járási (fővárosi kerületi) hivatal székhelye | Az építésügyi és építésfelügyeleti hatáskörben, valamint örökségvédelmi feladatkörben eljáró járási (fővárosi kerületi) hivatal illetékességi területe |
 
 | 1. | Baranya | Pécs | az 1. § (2) bekezdésében meghatározott feladatok tekintetében: Hegyháti, Komlói, Pécsi, Pécsváradi, Siklósi járás az 1. § (3) bekezdésében meghatározott feladatok tekintetében: a megye |
 
@@ -136,4 +138,4 @@ II. rész
 
 III. rész
 
-[^75]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése, a 487/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése, a 308/2014. (XII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^72]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése, a 487/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése, a 308/2014. (XII. 9.) Korm. rendelet 1. §-a, a 70/2015. (III. 30.) Korm. rendelet 91. § (9) bekezdése szerint módosított szöveg.

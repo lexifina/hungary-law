@@ -1,3 +1,5 @@
-## A szakmai irányító szerv[^24]
+## jelöli ki.
 
-[^24]: A 3/A. §-t megelőző alcímet újonnan a 322/2012. (XI. 16.) Korm. rendelet 36. §-a iktatta be.
+## A szakmai irányító szerv[^19]
+
+[^19]: A 3/A. §-t megelőző alcímet újonnan a 322/2012. (XI. 16.) Korm. rendelet 36. §-a iktatta be.
