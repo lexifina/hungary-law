@@ -1,3 +1,3 @@
 1. melléklet a 362/2008. (XII. 31.) Korm. rendelethez[^47]
 
-[^47]: Az 1. melléklet a 351/2010. (XII. 30.) Korm. rendelet 233. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 20. §-a, a 23/2012. (II. 29.) Korm. rendelet 39. §-a, a 296/2012. (X. 17.) Korm. rendelet 39. §-a, a 394/2012. (XII. 20.) Korm. rendelet 29. §-a, a 402/2012. (XII. 28.) Korm. rendelet 9. §-a, az 51/2013. (II. 25.) Korm. rendelet 17. §-a, a 255/2013. (VII. 5.) Korm. rendelet 26. § (1) és (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 69. §-a, az 559/2013. (XII. 31.) Korm. rendelet 55. §-a, a 221/2014. (IX. 4.) Korm. rendelet 443. §-a, a 311/2014. (XII. 11.) Korm. rendelet 31. §-a, a 38/2015. (III. 11.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^47]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 128. §-ával megállapított szöveg.
