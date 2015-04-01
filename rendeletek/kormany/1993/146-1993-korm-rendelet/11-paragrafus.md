@@ -2,7 +2,7 @@
 
 ## A területi szervek feladatai
 
-11. §[^35] A fővárosi és megyei kormányhivatal
+11. §[^35] A személyiadat- és lakcímnyilvántartási feladatkörében eljáró fővárosi és megyei kormányhivatal
 
 a)[^36] érvényesíti a központi szerv szakmai iránymutatásait és rendszeresen ellenőrzi ezek végrehajtását, tájékoztatja a központi szervet felügyeleti, koordinációs tevékenységéről;
 
@@ -20,7 +20,7 @@ g) gondoskodik a nyilvántartás helyi és területi számítógépes rendszerei
 
 h) gondoskodik a területi adatgyűjtő és adatszétosztó, valamint a kommunikációs és felügyelő rendszerek üzemeltetéséről.
 
-[^35]: Az R. 11. §-a a 230/2000. (XII. 23.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze a 417/2012. (XII. 29.) Korm. rendelet 40. § j) pontja szerint módosított szöveg.
+[^35]: Az R. 11. §-a a 230/2000. (XII. 23.) Korm. rendelet 7. §-ával megállapított, nyitó szövegrésze a 417/2012. (XII. 29.) Korm. rendelet 40. § j) pontja, a 70/2015. (III. 30.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^36]: Az R. 11. § a) pontja a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^37]: Az R. 11. § b) pontja a 417/2012. (XII. 29.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^38]: Az R. 11. § d) pontját a 345/2014. (XII. 23.) Korm. rendelet 29. §-a hatályon kívül helyezte.

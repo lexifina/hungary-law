@@ -34,7 +34,7 @@ l)[^50] dönt a külföldön élő magyar állampolgárok külföldi lakóhely v
 
 (4)[^53] A központi szerv gondoskodik a települési szintet meghaladó területszervezési döntés kihirdetését követően a közigazgatási változásoknak a nyilvántartáson történő átvezetéséről.
 
-(5)[^54] A fővárosi és megyei kormányhivatalnak másodfokú eljárása során hozott elsőfokú végzése elleni fellebbezés elbírálására a központi szerv jogosult.
+(5)[^54] A személyiadat- és lakcímnyilvántartási feladatkörében eljáró fővárosi és megyei kormányhivatalnak másodfokú eljárása során hozott elsőfokú végzése elleni fellebbezés elbírálására a központi szerv jogosult.
 
 [^40]: Az R. 12. §-a előtti alcím a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^41]: Az R. 12. § (1) bekezdése a 230/2000. (XII. 23.) Korm. rendelet 8. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
@@ -50,4 +50,4 @@ l)[^50] dönt a külföldön élő magyar állampolgárok külföldi lakóhely v
 [^51]: Az 12. § (2) bekezdése a 230/2000. (XII. 23.) Korm. rendelet 8. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^52]: Az R. 12. §-ának (3) bekezdése a 9/2004. (I. 31.) Korm. rendelet 2. §-ával megállapított és a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^53]: Az R. 12. § (4) bekezdése a 345/2014. (XII. 23.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^54]: Az R. 12. § (5) bekezdését újonnan a 282/2011. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 40. § k) pontja szerint módosított szöveg.
+[^54]: Az R. 12. § (5) bekezdését újonnan a 282/2011. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 40. § k) pontja, a 70/2015. (III. 30.) Korm.rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
