@@ -108,9 +108,9 @@
 
 ## A természetben okozott károsodás felszámolásának szempontjai, valamint a hatóság által előírható beavatkozási intézkedések
 
-A természetben okozott károsodások felszámolása elsődleges, kiegészítő és kompenzációs[^15] helyreállítás útján történik az 1. § (1) bekezdésben meghatározott értékek és területek eredeti állapotba való visszaállításával.
+A természetben okozott károsodások felszámolása elsődleges, kiegészítő és kompenzációs[^25] helyreállítás útján történik az 1. § (1) bekezdésben meghatározott értékek és területek eredeti állapotba való visszaállításával.
 
-Amennyiben az elsődleges helyreállítás eredményeként a természet nem áll vissza az eredeti állapotba, vagy a kedvező természetvédelmi helyzetet nem sikerült elérni, kiegészítő helyreállítást kell végezni. Az ideiglenes veszteségek kompenzálására szükség szerint kompenzációs[^16] helyreállítást is kell végezni.
+Amennyiben az elsődleges helyreállítás eredményeként a természet nem áll vissza az eredeti állapotba, vagy a kedvező természetvédelmi helyzetet nem sikerült elérni, kiegészítő helyreállítást kell végezni. Az ideiglenes veszteségek kompenzálására szükség szerint kompenzációs[^26] helyreállítást is kell végezni.
 
 A természetben okozott kár helyreállítása az emberi egészségre jelentősen ártalmas hatások kiküszöbölését is jelenti.
 
@@ -124,9 +124,9 @@ Az elsődleges helyreállítás célja a károsodott természeti értékek, ter�
 
 Amennyiben a károsodott természeti érték, terület, illetve szolgáltatások nem állíthatók vissza eredeti állapotba, kiegészítő helyreállítást kell végezni. A kiegészítő helyreállítás célja olyan természeti érték, terület, illetve szolgáltatások helyreállítása adott esetben egy másik természeti területen, amelyeket a károsodott terület eredeti állapotba történő visszaállításával lehetett volna helyreállítani. Amennyiben a kiegészítő helyreállításra másik természeti területen kerül sor, lehetőség szerint olyan területet szükséges választani, amely földrajzi kapcsolatban van a károsodott természeti területtel, figyelembe véve az érintett populáció fennmaradásához szükséges szempontokat.
 
-1.3. A kompenzációs[^17] helyreállítás célja
+1.3. A kompenzációs[^27] helyreállítás célja
 
-Kompenzációs[^18] helyreállítást kell végezni a természeti érték, terület és azok szolgáltatásainak regenerálódásáig bekövetkező ideiglenes veszteségek kompenzálására. Ez a kompenzáció az 1. § (1) bekezdésben meghatározott érték, terület további javítását jelenti vagy a károsodott vagy egy másik területen. Nem minősül kompenzációs[^19] helyreállításnak a köznek nyújtott pénzbeli kompenzáció.
+Kompenzációs[^28] helyreállítást kell végezni a természeti érték, terület és azok szolgáltatásainak regenerálódásáig bekövetkező ideiglenes veszteségek kompenzálására. Ez a kompenzáció az 1. § (1) bekezdésben meghatározott érték, terület további javítását jelenti vagy a károsodott vagy egy másik területen. Nem minősül kompenzációs[^29] helyreállításnak a köznek nyújtott pénzbeli kompenzáció.
 
 2. A kármentesítési intézkedések azonosítása
 
@@ -134,13 +134,13 @@ Kompenzációs[^18] helyreállítást kell végezni a természeti érték, terü
 
 Mérlegelni kell, hogy az 1. § (1) bekezdésben meghatározott érték, terület és szolgáltatásoknak az eredeti állapothoz közeli állapotba történő közvetlen visszaállása természetes regenerálódás útján, vagy különböző intézkedések végrehajtása révén, szükség szerint a természetes regenerálódás időtartamának lerövidítésével történjen.
 
-2.2. A kiegészítő és a kompenzációs[^20] helyreállításhoz szükséges intézkedések meghatározása
+2.2. A kiegészítő és a kompenzációs[^30] helyreállításhoz szükséges intézkedések meghatározása
 
-A kiegészítő és a kompenzációs[^21] helyreállítási intézkedések mértékének meghatározása során lehetőség szerint a kieső természeti értéket, területet, illetve szolgáltatást az adott természeti értékkel, területtel, illetve azokkal egyenértékű értékkel, területtel vagy szolgáltatással kell helyettesíteni. Tehát olyan intézkedések megvalósíthatóságát kell először mérlegelni, amelyek a károsodott természeti értékkel, területtel, illetve szolgáltatással típusukban, minőségükben és mennyiségükben megegyező természeti értéket, területet, illetve szolgáltatást biztosítanak.
+A kiegészítő és a kompenzációs[^31] helyreállítási intézkedések mértékének meghatározása során lehetőség szerint a kieső természeti értéket, területet, illetve szolgáltatást az adott természeti értékkel, területtel, illetve azokkal egyenértékű értékkel, területtel vagy szolgáltatással kell helyettesíteni. Tehát olyan intézkedések megvalósíthatóságát kell először mérlegelni, amelyek a károsodott természeti értékkel, területtel, illetve szolgáltatással típusukban, minőségükben és mennyiségükben megegyező természeti értéket, területet, illetve szolgáltatást biztosítanak.
 
-Amennyiben nem lehetséges az elsőként választandó megközelítés, azaz az adott természeti érték, terület vagy szolgáltatás egyenértékű természeti értékkel, területtel vagy szolgáltatással történő helyettesítése, alternatív értékelési technikákat kell alkalmazni. A természetvédelmi hatóság előírhatja a megfelelő módszert – például pénzügyi értékelést – a szükséges kiegészítő és kompenzációs[^22] helyreállítási tevékenységek mértékének meghatározására. Amennyiben elvégezhető az elveszett természeti érték, terület, illetve szolgáltatások értékelése, de a helyettesítő természeti érték, terület, illetve szolgáltatások értékelése nem hajtható végre ésszerű határidőn belül vagy ésszerű költségszinten, az illetékes hatóság választhat olyan helyreállítási intézkedéseket, amelyek költsége megegyezik az elveszett természeti érték, terület, illetve szolgáltatások becsült pénzügyi értékével.
+Amennyiben nem lehetséges az elsőként választandó megközelítés, azaz az adott természeti érték, terület vagy szolgáltatás egyenértékű természeti értékkel, területtel vagy szolgáltatással történő helyettesítése, alternatív értékelési technikákat kell alkalmazni. A természetvédelmi hatóság előírhatja a megfelelő módszert – például pénzügyi értékelést – a szükséges kiegészítő és kompenzációs[^32] helyreállítási tevékenységek mértékének meghatározására. Amennyiben elvégezhető az elveszett természeti érték, terület, illetve szolgáltatások értékelése, de a helyettesítő természeti érték, terület, illetve szolgáltatások értékelése nem hajtható végre ésszerű határidőn belül vagy ésszerű költségszinten, az illetékes hatóság választhat olyan helyreállítási intézkedéseket, amelyek költsége megegyezik az elveszett természeti érték, terület, illetve szolgáltatások becsült pénzügyi értékével.
 
-A kiegészítő és a kompenzációs[^23] helyreállítási intézkedések tervezése során annyi időre kell gondoskodni további természeti erőforrásokról, illetve szolgáltatásokról, amennyi a helyreállítási tevékenységek időigénye és időbeli lefutása alapján szükséges. Például minél több időt vesz igénybe az eredeti állapotba történő visszaállítás, annál több kompenzációs[^24] helyreállítási intézkedést kell alkalmazni (egyéb tényezők változatlan állapotát feltételezve).
+A kiegészítő és a kompenzációs[^33] helyreállítási intézkedések tervezése során annyi időre kell gondoskodni további természeti erőforrásokról, illetve szolgáltatásokról, amennyi a helyreállítási tevékenységek időigénye és időbeli lefutása alapján szükséges. Például minél több időt vesz igénybe az eredeti állapotba történő visszaállítás, annál több kompenzációs[^34] helyreállítási intézkedést kell alkalmazni (egyéb tényezők változatlan állapotát feltételezve).
 
 3. A helyreállítási eljárások kiválasztása
 
@@ -164,7 +164,7 @@ A kiegészítő és a kompenzációs[^23] helyreállítási intézkedések terve
 
 – a különböző eljárások mennyire veszik figyelembe a lényeges társadalmi, gazdasági és kulturális vonatkozásokat és a helyi sajátosságokból adódó egyéb lényeges tényezőket.
 
-3.2. Az így meghatározott különböző helyreállítási eljárások értékelése során előírható olyan elsődleges helyreállítási intézkedés, amely nem állítja vissza teljesen a károsodott érték, terület eredeti állapotát, vagy csak lassabban állítja vissza azt. Ilyen döntés csak akkor hozható, ha az annak eredményeként a károsodott területen a természeti értékben, területben, illetve szolgáltatásokban bekövetkező veszteséget egyre növekvő mennyiségű kiegészítő vagy kompenzációs[^25] tevékenységekkel kompenzáljuk annak érdekében, hogy az elveszített természeti értékhez, területhez, illetve szolgáltatásokhoz hasonló szintű természeti értékek, területek, illetve szolgáltatások álljanak rendelkezésre. Ez az eset áll fenn például akkor, ha az azonos természeti értékek, területek, illetve szolgáltatások biztosításáról máshol lényegesen alacsonyabb költséggel lehet gondoskodni. Ezeket a további helyreállítási intézkedéseket a 2.2. pontban meghatározott szabályokkal összhangban kell meghatározni.
+3.2. Az így meghatározott különböző helyreállítási eljárások értékelése során előírható olyan elsődleges helyreállítási intézkedés, amely nem állítja vissza teljesen a károsodott érték, terület eredeti állapotát, vagy csak lassabban állítja vissza azt. Ilyen döntés csak akkor hozható, ha az annak eredményeként a károsodott területen a természeti értékben, területben, illetve szolgáltatásokban bekövetkező veszteséget egyre növekvő mennyiségű kiegészítő vagy kompenzációs[^35] tevékenységekkel kompenzáljuk annak érdekében, hogy az elveszített természeti értékhez, területhez, illetve szolgáltatásokhoz hasonló szintű természeti értékek, területek, illetve szolgáltatások álljanak rendelkezésre. Ez az eset áll fenn például akkor, ha az azonos természeti értékek, területek, illetve szolgáltatások biztosításáról máshol lényegesen alacsonyabb költséggel lehet gondoskodni. Ezeket a további helyreállítási intézkedéseket a 2.2. pontban meghatározott szabályokkal összhangban kell meghatározni.
 
 3.3. Az előző pontban meghatározott szabályok figyelembevételével a természetvédelmi hatóság jogosult úgy dönteni, hogy nem kell további helyreállítási intézkedéseket tenni, amennyiben:
 
@@ -208,7 +208,7 @@ c) Olyan kiegészítő helyreállítási tevékenységek, melyek alkalmazása cs
 
 – más fajra irányuló, az előbbiekben felsorolt intézkedés a kár bekövetkeztétől eltérő területen.
 
-4.1.3. Kompenzációs[^26] helyreállítás
+4.1.3. Kompenzációs[^36] helyreállítás
 
 Fajok által nyújtott szolgáltatásból kieső veszteségek ideiglenes pótlása az állomány helyreállításáig az előző pontokban felsorolt eszközökkel vagy más, esetleg nem ökológiai módszerekkel a károsodott vagy egyéb területen a faj állományának helyreállásáig.
 
@@ -254,9 +254,9 @@ Barlangok helyreállítása többek között az alábbi módszerekkel történhe
 
 Amennyiben nem lehet a károsodott területen helyreállítást végezni, akkor a hatóság részéről más olyan területen is kijelölhető helyreállítás az elsődleges helyreállítás módszereivel vagy egyéb módon, mely alkalmas a károsodott élőhely nyújtotta szolgáltatások biztosítására, és azt a terület tulajdonviszonyai lehetővé teszik. A kijelölt területen előírható rehabilitáció, rekonstrukció vagy élőhelylétesítés, amely azon szolgáltatások helyettesítésére szolgál, melyek a károsodott területen semmilyen módon nem állíthatók helyre. (A kiegészítő helyreállítás a 4.2.1. alá tartozó módszerekkel, illetve egyéb módon végezhető: pl. elő lehet írni felhagyott gát-, csatornarendszerek eltüntetését, inváziós fajok irtását hosszan tartó helyreállítási folyamatok kiegészítéseképpen stb.)
 
-4.2.3. Kompenzációs[^27] helyreállítás
+4.2.3. Kompenzációs[^37] helyreállítás
 
-Élőhelyek által nyújtott szolgáltatásból kieső veszteségek pótlására az állomány helyreállításáig kompenzációs[^28] helyreállítás írható elő az előző pontokban felsorolt vagy egyéb, nem ökológiai eszközökkel a károsodott, esetleg más területen.
+Élőhelyek által nyújtott szolgáltatásból kieső veszteségek pótlására az állomány helyreállításáig kompenzációs[^38] helyreállítás írható elő az előző pontokban felsorolt vagy egyéb, nem ökológiai eszközökkel a károsodott, esetleg más területen.
 
 4.3. Országos jelentőségű védett természeti területek károsodása során előírható intézkedések
 
@@ -268,17 +268,17 @@ Lényeges a védetté nyilvánítás alapjául szolgáló fajok, élőhelytípus
 
 A kijelölés alapjául szolgáló közösségi jelentőségű fajok, élőhelytípusok komplex rendszerének helyreállítása, illetve a fenntartási tervekben előírt célok megvalósulásának elősegítése a 1. és 2. pontban felsorolt vagy egyéb módszerekkel.
 
-[^15]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^16]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^17]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^18]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^19]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^20]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^21]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^22]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^23]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
-[^24]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
 [^25]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
 [^26]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
 [^27]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
 [^28]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^29]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^30]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^31]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^32]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^33]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^34]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^35]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^36]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^37]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^38]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.

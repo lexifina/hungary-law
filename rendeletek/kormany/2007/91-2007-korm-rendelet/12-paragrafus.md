@@ -68,7 +68,7 @@ c) javaslat a kármentesítési tevékenység és a monitoring folytatására, m
 
 (9) Az eredmények értékelése során figyelemmel kell lenni a 3. §-ban foglalt szempontokra, különös tekintettel a védetté nyilvánító jogszabályban, illetve a kezelési tervben megfogalmazott természetvédelmi előírásokra, illetve a Natura 2000 terület egységességére.
 
-(10) A monitoring-jelentés, illetve záródokumentáció alapján a felügyelőség dönt:
+(10)[^24] A monitoring-jelentés, illetve záródokumentáció alapján a környezetvédelmi hatóság dönt:
 
 a) szükség esetén tényfeltárás, beavatkozás végzéséről, esetleges kiegészítéséről;
 
@@ -77,3 +77,5 @@ b) a monitoring folytatásáról, módosításáról;
 c) a monitoring befejezéséről;
 
 d) a kármentesítés befejezéséről, ha minden körülmény együttes mérlegelése azt mutatja, hogy további kármentesítési munkára nincs szükség.
+
+[^24]: A 12. § (10) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 99. § (2) bekezdés b) pontja szerint módosított szöveg.
