@@ -1,4 +1,4 @@
-## 5. §[^2]
+## 5. §[^3]
 
 1. melléklet a 452/2013. (XI. 28.) Korm. rendelethez
 
@@ -10,7 +10,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 3. Környezetvédelmi hatósági eljárások
 
-4. A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások
+4.[^4] Az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások
 
 5. Vízügyi hatósági eljárások
 
@@ -20,4 +20,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 8. Azok a további hatósági engedélyezési eljárások, amelyek a beruházás megvalósításhoz közvetlenül szükségesek
 
-[^2]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet 4. pontja a 72/2015. (III. 30.) Korm. rendelet 59. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
