@@ -182,8 +182,10 @@ c) a környezetvédelmi felülvizsgálaton minősített járművek esetenkénti 
 
 d) a környezetvédelmi felülvizsgálat során végrehajtott technológiai folyamatokra kiterjedő ellenőrzésként,
 
-e) a felkért állampolgárok vagy társhatóságok (különösen a környezetvédelmi felügyelőségek és a fogyasztóvédelmi felügyelőségek) közreműködésével a járműnek mesterségesen előidézett hibával (hibákkal) környezetvédelmi felülvizsgálatra állítása révén,
+e)[^4] a felkért állampolgárok vagy társhatóságok (különösen a környezetvédelmi hatóságok és a fogyasztóvédelmi hatóságok) közreműködésével a járműnek mesterségesen előidézett hibával (hibákkal) környezetvédelmi felülvizsgálatra állítása révén,
 
 f) a felülvizsgáló állomás nem megfelelő munkavégzésének alapos gyanúja esetén a kiállított műszaki adatlapok, környezetvédelmi adatlapok és a forgalmi engedély alapján a felülvizsgált járművek a felülvizsgálattól számított egy héten belüli utóellenőrzésével a külön jogszabály szerinti vizsgára rendelés, vagy a jármű tulajdonosával (üzemben tartójával) folytatott előzetes egyeztetés utáni, mozgó mérőegységgel végzett mérésekkel.
 
 4.1.3. A közlekedési hatóság az éves ellenőrzés eredményéről és javaslatairól összefoglaló értékelést készít. Az ellenőrzés során megállapított hiányosságok felszámolása, a jelentésben foglalt javaslatok megvalósítása érdekében tett intézkedésekről a felülvizsgáló helynek 30 napon belül tájékoztatni kell az ellenőrzést végző a közlekedési hatóságot.
+
+[^4]: Az 5. melléklet 4.1.2. pont e) alpontja a 15/2015. (III. 31.) NFM rendelet 17. §-a szerint módosított szöveg.
