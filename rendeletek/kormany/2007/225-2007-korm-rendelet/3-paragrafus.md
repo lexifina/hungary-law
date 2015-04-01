@@ -1,9 +1,10 @@
 ## 2. §[^2] Az NFH-t főigazgató vezeti.
 
-3. §[^3] (1) A fogyasztóvédelmi felügyelőség (a továbbiakban: felügyelőségek) a fővárosi és megyei kormányhivatal szervezetében szakigazgatási szervként működik.
+3. §[^3] (1)[^4]
 
-(2)[^4] A felügyelőségek tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) 6. § (4) bekezdésében, valamint a 7. §-ában meghatározott hatáskörök – az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az NFH főigazgatója.
+(2)[^5] A fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) fogyasztóvédelmi feladatai, valamint a termékek biztonságosságának és megfelelőségének ellenőrzésével összefüggő, külön jogszabályban meghatározott feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a fogyasztóvédelemért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
 [^2]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 395. §-ával megállapított szöveg.
 [^3]: A 3. § a 316/2010. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 3. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdését a 70/2015. (III. 30.) Korm. rendelet 104. § (8) bekezdése hatályon kívül helyezte.
+[^5]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 104. § (1) bekezdésével megállapított szöveg.

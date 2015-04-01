@@ -1,18 +1,14 @@
-## 4. §[^5] A főigazgató gyakorolja a munkáltatói jogokat az NFH kormánytisztviselői, kormányzati ügykezelői és munkavállalói felett.
+## 4. §[^6] A főigazgató gyakorolja a munkáltatói jogokat az NFH kormánytisztviselői, kormányzati ügykezelői és munkavállalói felett.
 
-## 5. § A főigazgató
+5. §[^7] (1) A miniszter:
 
-a)[^6] évente beszámoltatja, továbbá döntése szerint beszámoltathatja a felügyelőségek vezetőit a felügyelőség tevékenységéről;
+a) a több kormányhivatal illetékességi területét vagy a fogyasztók széles körét érintően eseti vizsgálatokat rendelhet el;
 
-b)[^7] megszervezi és összehangolja az éves ellenőrzési és vizsgálati programban meghatározott területi és országos vizsgálatokat;
+b) a fővárosi és megyei kormányhivatalt vezető kormánymegbízottat a fogyasztóvédelmi feladatköréhez kapcsolódóan – a fővárosi és megyei kormányhivatal közigazgatási hatósági eljárása kivételével – konkrét feladat elvégzésére, mulasztás pótlására utasíthatja;
 
-c) több felügyelőség illetékességi területét vagy a fogyasztók széles körét érintően eseti vizsgálatokat rendelhet el;
+c) évente beszámoltatja, továbbá döntése szerint beszámoltathatja a fővárosi és megyei kormányhivatalt vezető kormánymegbízottat a fogyasztóvédelmi feladatkörbe tartozó tevékenységéről.
 
-d) ellátja a felügyelőségek szakmai tevékenységének törvényességi, szakszerűségi ellenőrzését;
+(2) A kormánymegbízott a fogyasztóvédelmi feladatköréhez kapcsolódóan illetékességi területén megszervezi és összehangolja az éves ellenőrzési és vizsgálati programban meghatározott területi és országos vizsgálatokat.
 
-e)[^8] a felügyelőségek vezetőit – a felügyelőség közigazgatási hatósági eljárása kivételével – konkrét feladat elvégzésére, mulasztás pótlására utasíthatja.
-
-[^5]: A 4. § a 316/2010. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^6]: Az 5. § a) pontja a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^7]: Az 5. § b) pontja a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^8]: Az 5. § e) pontja a 316/2010. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^6]: A 4. § a 316/2010. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: Az 5. § a 70/2015. (III. 30.) Korm. rendelet 104. § (2) bekezdésével megállapított szöveg.
