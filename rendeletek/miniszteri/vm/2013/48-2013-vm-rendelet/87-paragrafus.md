@@ -2,6 +2,6 @@
 
 ## 73. Hatályon kívül helyező rendelkezések
 
-87. §[^170]
+87. §[^172]
 
-[^170]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^172]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

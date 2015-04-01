@@ -1,4 +1,4 @@
-19. § (1)[^16] A miniszter által meghozott döntésről a szakmai kezelő, – ha kezelő szerv kijelölésre vagy lebonyolító szerv megbízásra került, a kezelő szerv, illetve a lebonyolító szerv, – a pályázót a pályázat befogadásáról az arra vonatkozó döntéstől számított 15 napon belül a miniszter által vezetett minisztérium honlapján a benyújtott pályázatokról készített lista közzétételével tájékoztatja. A közzétett lista tartalmazza a befogadott és be nem fogadott pályázatokat.
+19. § (1)[^17] A miniszter által meghozott döntésről a szakmai kezelő, – ha kezelő szerv kijelölésre vagy lebonyolító szerv megbízásra került, a kezelő szerv, illetve a lebonyolító szerv, – a pályázót a pályázat befogadásáról az arra vonatkozó döntéstől számított 15 napon belül a miniszter által vezetett minisztérium honlapján a benyújtott pályázatokról készített lista közzétételével tájékoztatja. A közzétett lista tartalmazza a befogadott és be nem fogadott pályázatokat.
 
 (2) A Bizottság a pályázat elbírálásához szükséges javaslatát a pályázat benyújtására nyitva álló határidő lejártát követő 45 napon belül készíti el, majd azt a szakmai kezelő 5 napon belül a miniszter elé terjeszti. Az elbíráláshoz szükséges javaslat elkészítésére előírt határidőtől a szakmai kezelő – indokolt esetben és a pályázati kiírásban meghatározott módon – eltérhet.
 
@@ -6,4 +6,4 @@
 
 (4) Ha az Ávr. 74. § (1) bekezdése szerinti felszabaduló támogatási keretösszeg nem fedi le teljes egészében a forráshiány miatt elutasított sorban következő pályázat számára döntéssel megítélt támogatás összegét, a pályázó elfogadó nyilatkozata alapján a döntéshez képest az alacsonyabb összegű támogatásra vonatkozóan is köthető támogatási szerződés.
 
-[^16]: A 19. § (1) bekezdése a 23/2014. (III. 20.) VM rendelet 10. §-ával megállapított szöveg.
+[^17]: A 19. § (1) bekezdése a 23/2014. (III. 20.) VM rendelet 10. §-ával megállapított szöveg.

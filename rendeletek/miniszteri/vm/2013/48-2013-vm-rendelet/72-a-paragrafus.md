@@ -1,4 +1,4 @@
-## 58/A. [^153] Állami halgazdálkodási feladatok támogatása (20/05/09/00)
+## 58/A. [^155] Állami halgazdálkodási feladatok támogatása (20/05/09/00)
 
 72/A. § (1) Az előirányzat a halgazdálkodásról és a hal védelméről szóló törvényben (a továbbiakban: Hhvtv.), valamint az annak végrehajtására kiadott rendeletekben meghatározott célok közül
 
@@ -40,4 +40,4 @@ c) halgazdálkodással kapcsolatos kutatással, oktatással, illetve szakképzé
 
 (5) Támogatási előleg indokolt esetben nyújtható.
 
-[^153]: Az 58/A. alcímet (72/A. §) a 23/2014. (III. 20.) VM rendelet 60. §-a iktatta be.
+[^155]: Az 58/A. alcímet (72/A. §) a 23/2014. (III. 20.) VM rendelet 60. §-a iktatta be.

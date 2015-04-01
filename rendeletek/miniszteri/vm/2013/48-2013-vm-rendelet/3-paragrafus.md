@@ -4,7 +4,7 @@
 
 ## 3. Közös szabályok
 
-3. §[^5] (1) A fejezeti kezelésű előirányzatok cél szerinti, időbeni és szabályos felhasználásáért, a feladatok végrehajtása érdekében szükséges intézkedések megtételéért a szakmai kezelő, a kezelő szerv, vagy a lebonyolító szerv a felelős.
+3. §[^6] (1) A fejezeti kezelésű előirányzatok cél szerinti, időbeni és szabályos felhasználásáért, a feladatok végrehajtása érdekében szükséges intézkedések megtételéért a szakmai kezelő, a kezelő szerv, vagy a lebonyolító szerv a felelős.
 
 (2) A szakmai felelős gondoskodik arról, hogy lehetőség szerint legkésőbb a tárgyév november 30-áig a kezelésében lévő előirányzaton rendelkezésre álló keretösszeg terhére a kötelezettségvállalások maradéktalanul megtörténjenek és a keretösszeg felhasználása a tárgyév december 31-éig realizálódjon.
 
@@ -12,4 +12,4 @@
 
 (4) A szakmai kezelő, a 35. §-ban meghatározott esetben a kezelő szerv – az éves beszámoló elkészítése és a zárszámadás keretében – szöveges értékelést készít az általa kezelt előirányzatok felhasználásáról, a megvalósított szakmai célokról és a nevesített feladatok végrehajtásáról.
 
-[^5]: A 3. § a 23/2014. (III. 20.) VM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 3. § a 23/2014. (III. 20.) VM rendelet 2. §-ával megállapított szöveg.

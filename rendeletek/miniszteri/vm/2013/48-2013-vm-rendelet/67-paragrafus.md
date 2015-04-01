@@ -6,16 +6,16 @@ a) az Országos Vadgazdálkodási Adattár működtetése,
 
 b) a fogoly repatriációs program mintaterületeinek támogatása,
 
-c)[^124] a vadászható állatfajok monitoring programjainak folytatása, fajvédelmi terveinek kidolgozása,
+c)[^126] a vadászható állatfajok monitoring programjainak folytatása, fajvédelmi terveinek kidolgozása,
 
 d) a vadgazdálkodás pályázatos rendszerében történő támogatása.
 
 (2) Az előirányzat felhasználása fejezeti kifizetéssel, valamint megállapodás alapján, fejezeten belüli, illetve fejezetek közötti előirányzat-átcsoportosítással történik. Az előirányzatból költségvetési szervek, valamint gazdasági társaságok részére adható támogatás.
 
-(3)[^125] Támogatási előleg indokolt esetben nyújtható.
+(3)[^127] Támogatási előleg indokolt esetben nyújtható.
 
-(4)[^126] Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
+(4)[^128] Az előirányzatból költségvetési támogatás pályázati úton, illetve egyedi döntéssel nyújtható.
 
-[^124]: A 67. § (1) bekezdés c) pontja a 23/2014. (III. 20.) VM rendelet 69. § 7. pontja szerint módosított szöveg.
-[^125]: A 67. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 55. §-ával megállapított szöveg.
-[^126]: A 67. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 55. §-ával megállapított szöveg.
+[^126]: A 67. § (1) bekezdés c) pontja a 23/2014. (III. 20.) VM rendelet 69. § 7. pontja szerint módosított szöveg.
+[^127]: A 67. § (3) bekezdése a 23/2014. (III. 20.) VM rendelet 55. §-ával megállapított szöveg.
+[^128]: A 67. § (4) bekezdése a 23/2014. (III. 20.) VM rendelet 55. §-ával megállapított szöveg.

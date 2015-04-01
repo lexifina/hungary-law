@@ -1,3 +1,3 @@
-## 27.[^60]
+## 27.[^62]
 
-[^60]: A 27. alcímet (41. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.
+[^62]: A 27. alcímet (41. §) a 23/2014. (III. 20.) VM rendelet 70. §-a hatályon kívül helyezte.

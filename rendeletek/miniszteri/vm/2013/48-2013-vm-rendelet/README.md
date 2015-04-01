@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-48-20-2
 | 2014-03-21 | 2013-48-20-2Y.7 | 23/2014. (III. 20.) VM rendelet |
 | 2014-12-17 | 2013-48-20-2Y.8 | 35/2014. (XII. 16.) FM rendelet |
 | 2015-01-01 | 2013-48-20-2Y.9 | 42/2014. (XII. 29.) FM rendelet |
+| 2015-04-01 | 2013-48-20-2Y.10 | 24/2015. (V. 26.) FM rendelet |
