@@ -8,4 +8,11 @@
 
 (4) Az 1. és 2. melléklet szerinti ügykörökben a papír alapú iratok tárolásáról, illetve a 3. melléklet szerinti ügykörökben azon papír alapú iratok tárolásáról, amelyekről az eljáró hatósághoz csak a hiteles elektronikus másolat került továbbításra, az a kormányhivatal gondoskodik, amelyhez tartozó kormányablakban keletkezett vagy átvételre került az irat. A tárolás piaci szolgáltatás igénybevételével is biztosítható.
 
+(4a)[^5] A kormányhivatal iratkezelési szabályzatában a (3) bekezdés szerinti eljárás alkalmazhatóságát csak az irathoz kapcsolódó eljárás tekintetében illetékes szakmai irányító miniszter egyetértésével írhatja elő.
+
+(4b)[^6] Ha a (2) bekezdés alapján a kormányablak a (3) bekezdés hatálya alá nem tartozó iratról készít hiteles elektronikus másolatot, a kormányhivatal köteles gondoskodni a papír alapú irat egy eredeti példányának megőrzéséről, és annak a megkereső hatóság vagy más szerv részére történő bemutatásáról.
+
 (5) A kormányablak 3–8. §-ban meghatározott feladatainak ellátása érdekében a kormányablakok technikai feltételeit meghatározó miniszteri rendeletben megfogalmazott követelmények és feltételek szerint az informatikai üzemeltetési és szolgáltatói feladatok ellátását a KEK KH biztosítja, és ezen feladatok ellátása érdekében bevonja a fővárosi és megyei kormányhivatalokat, és a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t.
+
+[^5]: A 9. § (4a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 240. § (4) bekezdése iktatta be.
+[^6]: A 9. § (4b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 240. § (4) bekezdése iktatta be.

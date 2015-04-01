@@ -40,7 +40,7 @@
 
 ## 20. Építésügyi hatósági szolgáltatás iránti kérelem
 
-## 21.[^17] Műemlékre kiterjedő, az államot megillető elővásárlási jognyilatkozat iránti kérelem
+## 21.[^21] Műemlékre kiterjedő, az államot megillető elővásárlási jognyilatkozat iránti kérelem
 
 ## 22. Az építőipari vállalkozói kivitelezői tevékenység bejelentése
 
@@ -110,11 +110,11 @@
 
 ## 55. Aktív korúak ellátása iránti kérelem
 
-## 56.[^18]
+## 56.[^22]
 
 ## 57. Az Egészségbiztosítási Alap terhére méltányosságból adható egyszeri segély iránti kérelem
 
-## 58.[^19] Táppénz, gyermekápolási táppénz, csecsemőgondozási díj, gyermekgondozási díj megállapítása iránti méltányossági kérelem
+## 58.[^23] Táppénz, gyermekápolási táppénz, csecsemőgondozási díj, gyermekgondozási díj megállapítása iránti méltányossági kérelem
 
 ## 59. Nevelési ellátásra való jogosultság megállapítása iránti kérelem (családi pótlék)
 
@@ -124,7 +124,7 @@
 
 ## 62. Vándortábor útvonalának több népegészségügyi szolgálat területi illetékességét érintő bejelentése
 
-## 63.[^20]
+## 63.[^24]
 
 ## 64. Gyermek családi és utónevének megállapítása iránti kérelem
 
@@ -282,9 +282,12 @@
 
 ## 141. Rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítása iránti kérelem
 
+## 142.[^25] Útdíjfizetési kompenzáció iránti kérelem
+
 4. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^17]: A 3. melléklet 21. pontja a 221/2014. (IX. 4.) Korm. rendelet 791. § d) pontja szerint módosított szöveg.
-[^18]: A 3. melléklet 56. pontját a 24/2015. (II. 20.) Korm. rendelet 44. § (1) bekezdése hatályon kívül helyezte.
-[^19]: A 3. melléklet 58. pontja a 397/2014. (XII. 31.) Korm. rendelet 93. § 2. pontja szerint módosított szöveg.
-[^20]: A 3. melléklet 63. pontját a 131/2014. (IV. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^21]: A 3. melléklet 21. pontja a 221/2014. (IX. 4.) Korm. rendelet 791. § d) pontja szerint módosított szöveg.
+[^22]: A 3. melléklet 56. pontját a 24/2015. (II. 20.) Korm. rendelet 44. § (1) bekezdése hatályon kívül helyezte.
+[^23]: A 3. melléklet 58. pontja a 397/2014. (XII. 31.) Korm. rendelet 93. § 2. pontja szerint módosított szöveg.
+[^24]: A 3. melléklet 63. pontját a 131/2014. (IV. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^25]: A 3. melléklet 142. pontját a 60/2015. (III. 24.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 7. § (2) bekezdését.

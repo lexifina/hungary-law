@@ -1,3 +1,5 @@
+## 14/G. § A kormányablak 14/C–14/E. §-ban meghatározott feladatainak ellátása érdekében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. külön jogszabályban meghatározottak szerint biztosítja az okmányirodák és kormányablakok működéséhez szükséges informatikai rendszerek, beleértve a szükséges végfelhasználói hardver- és szoftverinfrastruktúra biztonságos és menedzselt üzemeltetését és karbantartását.
+
 ## 4. Hatályba léptető és átmeneti rendelkezések
 
 15. § (1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – 2014. január 1-jén lép hatályba.
@@ -6,7 +8,7 @@
 
 (3) A 16. § (1) bekezdése 2014. március 1-jén lép hatályba.
 
-(4) A fővárosi és megyei kormányhivatal által a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 21–23. § alapján működtetett kormányablak tekintetében a fővárosi és megyei kormányhivatal a www.kormanyhivatal.hu honlapon, valamint a helyben szokásos módon folyamatos tájékoztatást ad arról, hogy a kormányablak eleget tesz-e az ezen rendeletben a kormányablakokra előírt feltételeknek. Amennyiben igen, a kormányablak eljárására és a kormányablak által ellátott ügykörökre ezen rendelet szabályait kell alkalmazni.
+(4)[^14]
 
 (5) Amennyiben jogszabály – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet kivételével – kormányablakról rendelkezik, ott ezen rendelet szerinti kormányablakot kell érteni.
 
@@ -14,6 +16,7 @@
 
 (7) E rendelet 27. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(8)[^11]
+(8)[^15]
 
-[^11]: A 15. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 15. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 240. § (8) bekezdése hatályon kívül helyezte.
+[^15]: A 15. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
 ## A kormányablak kizárólag tájékoztatást nyújt az alábbi esetekben
 
-## 1.[^21] Csecsemőgondozási díj iránti kérelem
+## 1.[^26] Csecsemőgondozási díj iránti kérelem
 
 ## 2. Gyermekgondozási díj iránti kérelem
 
@@ -44,4 +44,4 @@
 
 5. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^21]: A 4. melléklet 1. pontja a 397/2014. (XII. 31.) Korm. rendelet 93. § 3. pontja szerint módosított szöveg.
+[^26]: A 4. melléklet 1. pontja a 397/2014. (XII. 31.) Korm. rendelet 93. § 3. pontja szerint módosított szöveg.
