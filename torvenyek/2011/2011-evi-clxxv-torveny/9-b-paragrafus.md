@@ -22,7 +22,7 @@ b) ha a civil szervezet valamely vagyontárgya országos közhiteles vagy közé
 
 c) a területileg illetékes állami munkaerő-piaci szervezetet,
 
-d) az illetékes környezetvédelmi felügyelőséget arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, amelyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve a terhek rendezéséhez szükséges kiadás származhat,
+d) a környezetvédelmi és természetvédelmi hatóságot arról, hogy maradtak-e fenn olyan környezeti károsodások, környezeti terhek, amelyekből bírságfizetési vagy egyéb fizetési kötelezettség, a károsodások elhárításához, illetve a terhek rendezéséhez szükséges kiadás származhat,
 
 e) a civil szervezet pénzforgalmi számláit vezető valamennyi pénzforgalmi szolgáltatót,
 
