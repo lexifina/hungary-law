@@ -8,4 +8,6 @@ b) az ügyész,
 
 c) a bírósági eljárásban a bíróság tanácsa, a tanács elnöke, az egyesbíró, valamint – az e jogszabályban írt korlátozásokkal – a bírósági titkár és a bírósági ügyintéző, továbbá a büntetés végrehajtása érdekében a büntetés-végrehajtási bíró (a továbbiakban: bíróság).
 
-(2) Az intézkedésre jogosult szerv a 3. §-ban szabályozott megkeresést, illetőleg a körözést és az elfogató parancs kibocsátását elrendelő határozat hozatalát megelőzően megkeresheti a bűntettesek nyilvántartását, illetőleg a kényszerintézkedés alatt állók nyilvántartását vezető szervet annak közlése végett, hogy a terhelt nincs-e előzetes letartóztatásban, nem tölt-e jogerős szabadságvesztés büntetést, illetve nem foganatosítanak-e vele szemben elzárást, idegenrendészeti őrizetet, ideiglenes kényszergyógykezelést vagy kényszergyógykezelést.
+(2)[^2] Az intézkedésre jogosult szerv a 3. §-ban szabályozott megkeresést, illetőleg a körözést és az elfogató parancs kibocsátását elrendelő határozat hozatalát megelőzően megkeresheti a bűntettesek nyilvántartását, illetve a büntetőeljárás hatálya alatt állók nyilvántartását vezető szervet annak közlése végett, hogy a terhelt nincs-e előzetes letartóztatásban, nem tölt-e jogerős szabadságvesztés büntetést, illetve nem foganatosítanak-e vele szemben elzárást, idegenrendészeti őrizetet, ideiglenes kényszergyógykezelést vagy kényszergyógykezelést.
+
+[^2]: A 2. § (2) bekezdése a 17/2014. (XII. 19.) IM rendelet 1. §-a szerint módosított szöveg.

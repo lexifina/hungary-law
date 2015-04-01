@@ -8,7 +8,7 @@ c) a megkeresésre irányuló kérelmet;
 
 d) a megkeresés célját és jogalapját;
 
-e)[^2] az ismeretlen helyen tartózkodó személy
+e)[^4] az ismeretlen helyen tartózkodó személy
 
 ea) természetes személyazonosító adatait,
 
@@ -32,4 +32,4 @@ eh) törvény vagy törvénnyel kihirdetett nemzetközi szerződés által megha
 
 (4) Ha a megkeresés oka megszűnt, erről az intézkedésre jogosult szerv haladéktalanul értesíti a megkeresett szervet. Nem kell értesíteni a megkeresett szervet, ha az – az ok megszűnését megelőzően – a kért tájékoztatást megadta.
 
-[^2]: A 4. § (1) bekezdésének e) pontja a 41/2009. (IX. 15.) IRM rendelet 32. §-ával megállapított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (1) bekezdésének e) pontja a 41/2009. (IX. 15.) IRM rendelet 32. §-ával megállapított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
