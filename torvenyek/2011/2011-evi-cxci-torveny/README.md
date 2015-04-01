@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-191-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2011-191-00-00.20 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2011-191-00-00.21 |
 | 2015-01-01 | 2014. évi CI. törvény | 2011-191-00-00.22 |
+| 2015-04-01 | 2015. évi VIII. törvény | 2011-191-00-00.23 |

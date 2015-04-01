@@ -4,7 +4,7 @@
 
 a) a megváltozott munkaképességű személyek ellátásai megállapításával, folyósításával, szüneteltetésével, felülvizsgálatával, megszüntetésével, továbbá a jogosulatlanul felvett ellátás visszafizetésével és a megtérítéssel kapcsolatos eljárási szabályokat,
 
-b) a komplex minősítésre vonatkozó részletes eljárási szabályokat,
+b) a rehabilitációs hatóság által végzett komplex minősítésre, rehabilitációs és orvosszakértői feladatok ellátására vonatkozó részletes eljárási szabályokat,
 
 c) a rehabilitációs szolgáltatásokra, a rehabilitációval kapcsolatos eljárási szabályokra, az együttműködésre, továbbá a rehabilitációs tervre vonatkozó szabályokat,
 

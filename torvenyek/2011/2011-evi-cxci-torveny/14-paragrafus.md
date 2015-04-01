@@ -4,24 +4,10 @@
 
 (2) A megváltozott munkaképességű személyek ellátásaival kapcsolatos e törvényben meghatározott eljárás – ideértve a tartozás elengedésére, mérséklésére és a részletfizetés engedélyezésére irányuló eljárást is – költség- és illetékmentes.
 
-(3) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából –
+(3) Az állami adóhatóság az ellátás megállapítása céljából a rehabilitációs hatóság megkeresésére a megkereséstől számított 15 napon belül közli
 
-a) a kérelem benyújtását megelőző öt éven belüli időszakban a biztosításban töltött napok számát
+a) a 2009. december 31-ét követő időszakra vonatkozóan a biztosításban töltött napok számát,
 
-aa) a 2010. január 1-jét megelőző időszakra vonatkozóan a nyilvántartásában szereplő adatok alapján a nyugdíjbiztosítási igazgatási szerv,
+b) a 2010. december 31-ét követő időszakra vonatkozóan – a havi átlagjövedelem meghatározása érdekében – az adózás rendjéről szóló törvény 31. § (2) bekezdésében meghatározott bevallásban bevallott pénzbeli egészségbiztosítási járulék alapot képező havi jövedelmi adatokat.
 
-ab) a 2009. december 31-ét követő időszakra az állami adóhatóság;
-
-b) a havi átlagjövedelem meghatározásához a 2010. december 31-ét követő időszakra vonatkozó, az Art. 31. § (2) bekezdésében meghatározott bevallásban bevallott pénzbeli egészségbiztosítási járulék alapot képező havi jövedelmi adatokat az állami adóhatóság
-
-a megkereséstől számított tizenöt napon belül közli.
-
-(4) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából – a nyugdíjbiztosítási igazgatási szerv tizenöt napon belül közli a rokkantsági nyugdíj, baleseti rokkantsági nyugdíj, rehabilitációs járadék, egészségkárosodott személyek szociális járadékai folyósításának időtartamára vonatkozó adatokat.
-
-(5) A rehabilitációs hatóság megkeresésére – az ellátás megállapítása céljából – az egészségbiztosítási szerv
-
-a) tizenöt napon belül közli a táppénz, baleseti táppénz, terhességi-gyermekágyi segély, csecsemőgondozási díj, gyermekgondozási díj folyósításának időtartamára,
-
-b)
-
-vonatkozó adatokat.
+(4)–(5)

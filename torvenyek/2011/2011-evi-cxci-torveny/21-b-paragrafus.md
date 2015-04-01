@@ -70,7 +70,7 @@ b) az akkreditált munkaadó adatait az akkreditált munkaadói minősége megsz
 
 c) a nyilvántartásba vételét önként kérő megváltozott munkaképességű személynek, valamint a nem akkreditált munkaadónak az adatait, amennyiben ezt kéri, de legkésőbb az adatfelvételt követő 5 év elteltével.
 
-(4) Az állami foglalkoztatási szerv munkaerő-piaci szolgáltatások nyújtása céljából a (2) bekezdés c) pontjában meghatározott adatokat közvetlen hozzáféréssel átveheti.
+(4)
 
 (5) Az akkreditált munkaadó az Flt. 8. § (6) bekezdés b) pontjában meghatározott – a megváltozott munkaképességű személyek foglalkoztatására irányuló – munkaerőigény bejelentésével kapcsolatos kötelezettségét a rehabilitációs hatóság felé teljesíti.
 
