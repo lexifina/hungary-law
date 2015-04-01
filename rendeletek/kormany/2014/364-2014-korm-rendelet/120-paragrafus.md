@@ -3,3 +3,7 @@
 ## „(6) Természetes halál esetén, ha a holttest boncolására nem került sor, a holttest elhamvaszthatóságát a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete engedélyezi.”
 
 ## 23. Az egészségügyi válsághelyzeti ellátásról szóló 521/2013. (XII. 30.) Korm. rendelet módosítása
+
+120. §[^125]
+
+[^125]: A 120. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
