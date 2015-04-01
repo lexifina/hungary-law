@@ -1,11 +1,11 @@
-41. § (1)[^322] A támogatás folyósítása a támogatási szerződésben meghatározott forrásösszetétel szerinti pénzügyi és időbeli ütemezésben, a készültségi fokkal arányosan és utólagosan, pályázó által benyújtott számlák és teljesítést igazoló dokumentumok, illetőleg ezek ellenőrzése alapján történik. A teljesítésigazolásban a pályázó nyilatkozni tartozik arról, hogy a támogatás feltételéül vállalt kötelezettségek a támogatási szerződésnek megfelelően teljesültek, a forrásokat rendeltetésszerűen és maradéktalanul a szerződésben meghatározott feladatra használták fel.
+41. § (1)[^335] A támogatás folyósítása a támogatási szerződésben meghatározott forrásösszetétel szerinti pénzügyi és időbeli ütemezésben, a készültségi fokkal arányosan és utólagosan, pályázó által benyújtott számlák és teljesítést igazoló dokumentumok, illetőleg ezek ellenőrzése alapján történik. A teljesítésigazolásban a pályázó nyilatkozni tartozik arról, hogy a támogatás feltételéül vállalt kötelezettségek a támogatási szerződésnek megfelelően teljesültek, a forrásokat rendeltetésszerűen és maradéktalanul a szerződésben meghatározott feladatra használták fel.
 
 (2) A folyósítás a készpénzben vállalt saját forrás és az állami támogatás arányában történik, a támogatási szerződésben meghatározott feladatok elvégzését követően.
 
-(3)[^323] A támogatás folyósítását a Kincstár a miniszter rendelkezése, utalványozása alapján végzi.
+(3)[^336] A támogatás folyósítását a Kincstár a miniszter rendelkezése, utalványozása alapján végzi.
 
-(4)[^324] A támogatás kifizetése csak akkor rendelhető el, illetve teljesíthető, ha az önkormányzat, társasház, lakásszövetkezet, illetve egyházi jogi személy köztartozásmentesnek minősül, amelyről minden számla benyújtása esetén a pályázónak nyilatkoznia kell. Az utalványozó köteles felfüggeszteni az esedékes támogatások folyósítását a köztartozás fennállásáig.
+(4)[^337] A támogatás kifizetése csak akkor rendelhető el, illetve teljesíthető, ha az önkormányzat, társasház, lakásszövetkezet, illetve egyházi jogi személy köztartozásmentesnek minősül, amelyről minden számla benyújtása esetén a pályázónak nyilatkoznia kell. Az utalványozó köteles felfüggeszteni az esedékes támogatások folyósítását a köztartozás fennállásáig.
 
-[^322]: A 41. § (1) bekezdése a 207/2001. (X. 30.) Korm. rendelet 11. §-ának (7) bekezdésével megállapított szöveg. E módosító rendelet 12. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő támogatási kérelmekre, valamint kölcsönkérelmekre is alkalmazni kell.
-[^323]: A 41. § (3) bekezdése a 3/2005. (I. 12.) Korm. rendelet 21. §-ának a) pontja és a 391/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdésének c) és f) pontja szerint módosított szöveg.
-[^324]: A 41. § (4) bekezdése a 74/2011. (V. 2.) Korm. rendelet 15. §-ával megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^335]: A 41. § (1) bekezdése a 207/2001. (X. 30.) Korm. rendelet 11. §-ának (7) bekezdésével megállapított szöveg. E módosító rendelet 12. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő támogatási kérelmekre, valamint kölcsönkérelmekre is alkalmazni kell.
+[^336]: A 41. § (3) bekezdése a 3/2005. (I. 12.) Korm. rendelet 21. §-ának a) pontja és a 391/2007. (XII. 23.) Korm. rendelet 31. § (1) bekezdésének c) és f) pontja szerint módosított szöveg.
+[^337]: A 41. § (4) bekezdése a 74/2011. (V. 2.) Korm. rendelet 15. §-ával megállapított, a 297/2013. (VII. 29.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.

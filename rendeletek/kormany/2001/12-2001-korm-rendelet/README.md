@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2014-09-05 | 2001-12-20-22.62 | 257/2011. (XII. 6.) Korm. rendelet |
 | 2015-01-01 | 2001-12-20-22.63 | 331/2014. (XII. 18.) Korm. rendelet |
 | 2015-02-01 | 2001-12-20-22.64 | 4/2015. (I. 29.) Korm. rendelet |
+| 2015-04-01 | 2001-12-20-22.65 | 70/2015. (III. 30.) Korm. rendelet |

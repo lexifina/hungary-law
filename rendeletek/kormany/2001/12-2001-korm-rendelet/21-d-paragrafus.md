@@ -1,4 +1,4 @@
-21/D. §[^234] (1) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó, e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a, 17/D. §-a, valamint 20/A. §-a helyett a (2)–(6) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
+21/D. §[^245] (1) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) hatálya alá tartozó, e rendelet szerinti kamattámogatással nyújtott kölcsönök esetében az Fhtv. 17/B. § (2) bekezdése, 17/C. §-a, 17/D. §-a, valamint 20/A. §-a helyett a (2)–(6) bekezdésben meghatározott rendelkezéseket kell alkalmazni.
 
 (2) A hitelintézet – a támogatás időtartama alatt – a 12. § és a 13. § szerint támogatott kölcsön ügyleti kamatának egyoldalú módosítására nem jogosult. A 12. § és a 13. § szerinti kamattámogatott kölcsönök ügyleti kamata a 12. § és a 13. § rendelkezéseinek megfelelően változik.
 
@@ -24,4 +24,4 @@ bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiód
 
 (7) A (2)–(6) bekezdést az Fhtv. hatálya alá nem tartozó, az e rendelet, valamint a lakáscélú támogatásokról szóló 106/1988. (XII. 26.) MT rendelet szerinti kamattámogatással nyújtott kölcsönökre is megfelelően alkalmazni kell.
 
-[^234]: A 21/D. §-t a 4/2015. (I. 29.) Korm. rendelet 2. §-a iktatta be.
+[^245]: A 21/D. §-t a 4/2015. (I. 29.) Korm. rendelet 2. §-a iktatta be.
