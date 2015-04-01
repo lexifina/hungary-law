@@ -6,8 +6,11 @@
 
 (3) A hajózási hatóság a tengerész munkaközvetítőt és a tengerész kölcsönbeadót törli a nyilvántartásból, ha
 
-a) a munkaügyi központ a tengerész kölcsönbeadót törli a nyilvántartásból, vagy a magán-munkaközvetítőt eltiltja a tevékenység folytatásától és egyidejűleg törli a nyilvántartásból;
+a)[^4] a kormányhivatal a tengerész kölcsönbeadót törli a nyilvántartásból, vagy a magán-munkaközvetítőt eltiltja a tevékenység folytatásától és egyidejűleg törli a nyilvántartásból;
 
 b) a tevékenység felfüggesztését követő 3 hónapon belül nem igazolja a 3. § (2) bekezdés b) pontjában foglalt feltételeknek való megfelelést.
 
-(4) A hajózási hatóság a (2) és (3) bekezdésben foglaltakról a munkaügyi központot és a tengerész munkaközvetítővel, valamint a tengerész kölcsönbeadóval kapcsolatban álló hajótulajdonosokat tájékoztatja.
+(4)[^5] A hajózási hatóság a (2) és (3) bekezdésben foglaltakról a kormányhivatalt és a tengerész munkaközvetítővel, valamint a tengerész kölcsönbeadóval kapcsolatban álló hajótulajdonosokat tájékoztatja.
+
+[^4]: Az 5. § (3) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 262. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 262. § c) pontja szerint módosított szöveg.

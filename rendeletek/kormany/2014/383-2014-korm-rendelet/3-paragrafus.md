@@ -4,7 +4,7 @@
 
 (2) A hajózási hatóság a tengerész munkaközvetítőt, valamint a tengerész kölcsönbeadót kérelmére akkor veszi nyilvántartásba, ha
 
-a) szerepel a kölcsönbeadókról és magán-munkaerőközvetítőkről a fővárosi és megyei kormányhivatal munkaügyi feladatokat ellátó ágazati szakigazgatási szerveként működő munkaügyi központja (a továbbiakban: munkaügyi központ) által vezetett nyilvántartásában, továbbá
+a)[^1] szerepel a kölcsönbeadókról és magán-munkaerőközvetítőkről az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) által vezetett nyilvántartásában, továbbá
 
 b) olyan minőségirányítási rendszert működtet vagy olyan belső szabályozók szerint jár el, amely biztosítja, hogy
 
@@ -20,7 +20,7 @@ b) olyan minőségirányítási rendszert működtet vagy olyan belső szabályo
 
 (3) A nyilvántartásba vételre vonatkozó kérelemnek a következőket kell tartalmaznia:
 
-a) a tengerész munkaközvetítő és a tengerész kölcsönbeadó nyilvántartásba vételét tartalmazó, a munkaügyi központ által kiadott határozat száma és kelte,
+a)[^2] a tengerész munkaközvetítő és a tengerész kölcsönbeadó nyilvántartásba vételét tartalmazó, a kormányhivatal által kiadott határozat száma és kelte,
 
 b) a tengerész munkaközvetítő és a tengerész kölcsönbeadó szervezeti formája, székhelye, telephelye, képviseletre jogosultak neve és címe,
 
@@ -33,3 +33,6 @@ c) minőségirányítási rendszer működését igazoló tanúsítvány, vagy a
 (6) A tengerész munkaközvetítő, valamint a tengerész kölcsönbeadó tevékenységével kapcsolatos panaszokat – azok elutasítása esetén – a hajózási hatóság kivizsgálja és elbírálja, amennyiben az nem tartozik más hatóság vagy bíróság feladatkörébe. A panasz elutasítása esetén a tengerész munkaközvetítő, valamint a tengerész kölcsönbeadó tájékoztatni köteles a tengerészeket a panasz kivizsgálására jogosult hajózási hatóság elérhetőségéről.
 
 (7) A tengerész munkaközvetítő, valamint a tengerész kölcsönbeadó tájékoztatni köteles a tengerészeket a Tengerészeti Munkaügyi Egyezményben nem részes lobogójú hajón való szolgálat következményeiről. Az ilyen lobogójú hajóra történő kiközvetítés esetén a (2) bekezdés b) pont 2. alpontjában meghatározott írásbeli tájékoztatónak erre a körülményre vonatkozó részletes ismertetést is tartalmaznia kell.
+
+[^1]: A 3. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 262. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 262. § b) pontja szerint módosított szöveg.
