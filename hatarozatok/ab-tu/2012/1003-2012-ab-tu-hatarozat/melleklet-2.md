@@ -1,30 +1,30 @@
-2. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^1]
+2. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^7]
 
 Állománytábla
 
 | Szervezeti egység | Beosztás | Létszámkeret (fő) |
 
-| Alkotmánybírói törzskarok | Alkotmánybíró | 15 |
+| Alkotmánybírói törzskarok | Az Alkotmánybíróság tagja | 15 |
 
 |  | Jogász (érdemi) munkatárs | 45 |
 
 |  | Titkárságvezető/titkár(nő) | 15 |
 
-| Elnöki kabinet | Kabinetfőnök | 1 |
+| Elnöki kabinet |  |  |
 
-|  | Elnöki tanácsadó | 1 |
+|  | Kabinetfőnök | 1 |
 
-|  | Elnöki referens | 1 |
+|  | Nemzetközi és protokoll (fő)tanácsadó | 1 |
 
-|  | Nemzetközi és protokoll ügyek referense | 2 |
+|  | Elnöki (fő)tanácsadók | 2 |
 
-|  | Belső (külső) ellenőr | 0,5 |
+|  | Belső ellenőr (külsős) | 0,5 |
+
+| Volt elnök titkársága | Jogász (érdemi) munkatárs | 2 |
 
 | Főtitkárság | Főtitkár | 1 |
 
 | Főtitkársági titkárság | Titkárságvezető/titkár(nő) | 1 |
-
-|  | Sajtóreferens | 1 |
 
 | Indítványelemzői munkacsoport | Indítványelemző | 5 |
 
@@ -34,9 +34,7 @@
 
 |  | Ügyintéző | 2 |
 
-|  | Ügykezelő | 1 |
-
-| Könyvtár | Könyvtáros | 1 |
+| Könyvtár | Könyvtárvezető | 1 |
 
 | Gazdasági főosztály | Gazdasági főigazgató | 1 |
 
@@ -48,18 +46,18 @@
 
 |  | Gazdasági ügyintéző | 1 |
 
-| Műszaki-ellátási egység | Gondnok, tűz- és munkavédelmi ügyintéző | 1 |
+| Műszaki-ellátó egység | Gondnok, tűz- és munkavédelmi ügyintéző | 1 |
 
 |  | Épületgépész | 0,5 |
 
-|  | Szakmunkás, egyéb fizikai alkalmazott | 11 |
+|  | Szakmunkás, egyéb fizikai alkalmazott | 12 |
 
-| Személy- és munkaügyi egység | Humánpolitikus (személy- és munkaügyi referens) | 1 |
+| Személy- és munkaügyi referens | Humánpolitikus | 1 |
 
-| Gépkocsi-üzemeltetési egység | Garázsmester | 1 |
+| Gépkocsi-üzemeltetési referens (garázsmester) | Garázsmester | 1 |
 
 |  | Gépkocsivezető | 17 |
 
-| Összesen | 136 |
+| Összesen |  | 136 |
 
-[^1]: A 2. számú melléklet az 1003/2013. (XII. 21.) AB Tü. határozat 11. §-a szerint módosított szöveg.
+[^7]: A 2. számú melléklet az 1001/2015. (III. 31.) AB TÜ határozat 7. pontjával megállapított szöveg.

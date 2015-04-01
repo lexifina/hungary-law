@@ -58,7 +58,7 @@
 
 ## 3. Az Alkotmánybíróság Hivatalának szervezete
 
-## 3.1. Az Alkotmánybíróság Hivatalának önálló szervezeti egységei az alkotmánybírói törzskarok, az elnöki kabinet, a főtitkárság és a gazdasági főosztály.
+## 3.1.[^1] Az Alkotmánybíróság Hivatalának önálló szervezeti egységei az alkotmánybírói törzskarok, az elnöki kabinet, az Alkotmánybíróság volt elnökének (a továbbiakban: volt elnök) titkársága, a főtitkárság és a gazdasági főosztály.
 
 ## 3.2. Az Alkotmánybíróság Hivatalának szervezeti ábráját az SZMSZ 1. számú melléklete tartalmazza.
 
@@ -70,7 +70,7 @@
 
 ## 4.2. Az Alkotmánybíróság Hivatalát az elnök irányítása mellett az Alkotmánybíróság főtitkára (a továbbiakban: a főtitkár) vezeti. E jogköre alapján a főtitkár ellátja az Alkotmánybíróság Hivatalának igazgatásával kapcsolatos feladatokat.
 
-## 4.3. Az önálló szervezeti egységek vezetői az alkotmánybírói törzskarok esetében az alkotmánybírák, az elnöki kabinet esetében az elnök, a főtitkárság esetében a főtitkár, a gazdasági főosztály esetében a gazdasági főigazgató. Az önálló szervezeti egységek vezetői az Alkotmánybíróság elnökének irányítása és intézkedései alapján, a jogszabályoknak és a szakmai követelményeknek megfelelően, önállóan vezetik a szervezeti egységeiket, felelősek a feladatok elvégzéséért, döntenek a szervezeti egységeik feladatkörébe tartozó ügyekben. A főtitkár nem felettese az önálló szervezeti egységek vezetőinek, részükre, illetve a főtitkárság kivételével az önálló szervezeti egységeknél foglalkoztatottak részére utasítást nem adhat.
+## 4.3.[^2] Az önálló szervezeti egységek vezetői az alkotmánybírói törzskarok esetében az alkotmánybírák, az elnöki kabinet esetében az elnök, a volt elnök titkársága esetében a volt elnök, a főtitkárság esetében a főtitkár, a gazdasági főosztály esetében a gazdasági főigazgató. Az önálló szervezeti egységek vezetői az Alkotmánybíróság elnökének irányítása és intézkedései alapján, a jogszabályoknak és a szakmai követelményeknek megfelelően, önállóan vezetik a szervezeti egységeiket, felelősek a feladatok elvégzéséért, döntenek a szervezeti egységeik feladatkörébe tartozó ügyekben. A főtitkár nem felettese az önálló szervezeti egységek vezetőinek, részükre, illetve a főtitkárság kivételével az önálló szervezeti egységeknél foglalkoztatottak részére utasítást nem adhat.
 
 ## 4.4. Az önálló szervezeti egységek vezetői együttműködnek az Alkotmánybíróság Hivatala más szervezeti egységeinek vezetőivel és munkatársaival.
 
@@ -86,7 +86,7 @@
 
 ## 5.5. Az alapfeladat ellátásában résztvevő vezető köztisztviselő (a továbbiakban: vezető köztisztviselő) feladata az Alkotmánybíróság feladat- és hatáskörébe, illetve az Alkotmánybíróság Hivatalának feladatkörébe tartozó ügyek érdemi elintézése, kiadmányozása. A vezető köztisztviselő a munkaköri leírásában részére megállapított feladatokat – a felettesétől kapott utasítás és határidő figyelembevételével – a jogszabályoknak, a szakmai előírásoknak és az ügyviteli szabályoknak megfelelően önállóan látja el. Vezető köztisztviselő különösen a főtitkár és a gazdasági főosztály vezetője.
 
-## 5.6. Főtanácsadói munkaköri megbízás adható annak az alkotmánybírói törzskar, illetve elnöki kabinet állományában tartozó jogász érdemi munkatársnak, továbbá a sajtóreferensnek, aki feladata ellátásához szükséges szakirányú egyetemi végzettséggel, jogi vagy közigazgatási szakvizsgával és legalább 10 éves szakmai gyakorlattal rendelkezik. Tanácsadói munkaköri megbízás adható annak az alkotmánybírói törzskar, illetve elnöki kabinet állományába tartozó jogász érdemi munkatársnak, továbbá a sajtóreferensnek, aki feladata ellátásához szükséges szakirányú felsőfokú iskolai végzettséggel, jogi vagy közigazgatási szakvizsgával és legalább 5 éves szakmai gyakorlattal rendelkezik. A főtanácsadói és tanácsadói cím nem minősül vezetői kinevezésnek és külön indokolás nélkül bármikor visszavonható. A főtanácsadói és tanácsadói címet az elnök adományozza.
+## 5.6.[^3] Főtanácsadói munkaköri megbízás adható annak az alkotmánybírói törzskar állományába tartozó jogász érdemi munkatársnak, továbbá az elnöki kabinet és a volt elnök titkársága állományába tartozó érdemi munkatársnak, aki feladata ellátásához szükséges szakirányú egyetemi végzettséggel, jogi vagy közigazgatási szakvizsgával és legalább 10 éves szakmai gyakorlattal rendelkezik. Tanácsadói munkaköri megbízás adható annak az alkotmánybírói törzskar állományába tartozó jogász érdemi munkatársnak, továbbá az elnöki kabinet és a volt elnök titkársága állományába tartozó érdemi munkatársnak, aki feladata ellátásához szükséges szakirányú felsőfokú iskolai végzettséggel, jogi vagy közigazgatási szakvizsgával és legalább 5 éves szakmai gyakorlattal rendelkezik. A főtanácsadói és tanácsadói cím nem minősül vezetői kinevezésnek és külön indokolás nélkül bármikor visszavonható. A főtanácsadói és tanácsadói címet az elnök adományozza.
 
 ## 5.7. Szakmai főtanácsadói cím adományozható annak az I. besorolási osztályba tartozó ügyintéző köztisztviselőnek, aki legalább 10 éves szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve tudományos fokozattal (PhD) rendelkezik. Szakmai tanácsadói cím adományozható annak az I. besorolási osztályba tartozó ügyintéző köztisztviselőnek, aki legalább 5 éves szakmai gyakorlattal és közigazgatási vagy jogi szakvizsgával, illetve tudományos fokozattal (PhD) rendelkezik. A szakmai főtanácsadói és szakmai tanácsadói cím nem minősül vezetői kinevezésnek és külön indokolás nélkül bármikor visszavonható. A főtanácsadói és tanácsadói címet az elnök adományozza. A szakmai főtanácsadók és szakmai tanácsadók száma az Alkotmánybíróság Hivatalában nem haladhatja meg a 14 főt.
 
@@ -160,63 +160,65 @@
 
 ## h) titkárságvezetőként közreműködik továbbá a hivatali és az önálló szervezeti egységet érintő rendezvények szervezésében, idegen nyelvű levéltervezeteket készít, kapcsolatot tart hazai és külföldi szervekkel, részt vesz az önálló szervezeti egység személyügyi feladatainak ellátásában, szervezi és irányítja az ügyviteli feladatokat, segíti az önálló szervezeti egység munkatársait az ügyekhez kapcsolódó hazai és külföldi jogszabályok, szakirodalom és precedensek összegyűjtésében.
 
-## 8. Az elnöki kabinet
+## 8.[^4] Az elnöki kabinet
 
-## 8.1. Az elnöki kabinet az elnök munkaszervezete, mely segíti irányítási, koordinatív, képviseleti és a nemzetközi kapcsolatokkal összefüggő feladatait. Az elnöki kabinetet az elnök vezeti.
+## 8.1. Az elnöki kabinet az elnök munkaszervezete, mely segíti irányítási, koordinatív, képviseleti, valamint a nemzetközi kapcsolatokkal és a nyilvánossággal összefüggő feladatainak ellátását. Az elnöki kabinetet az elnök vezeti.
 
-## 8.2. Az elnöki kabinet a kabinetfőnökből, az elnöki tanácsadóból, az elnöki referensből, valamint a nemzetközi és protokollügyek referenséből áll. Az elnöki kabinet titkársági feladatait az elnök alkotmánybírói törzskarának a titkársági feladatokat ellátó munkatársa (titkárságvezető vagy titkár/nő) látja el.
+## 8.2. Az elnöki kabinet a kabinetfőnökből, a nemzetközi és protokoll (fő)tanácsadóból, valamint az elnöki (fő)tanácsadókból áll. Az elnöki kabinet titkársági feladatait az elnök alkotmánybírói törzskarának a titkársági feladatokat ellátó munkatársa (titkárságvezető vagy titkár/nő) látja el.
 
-## 8.3. Az elnöki kabinet az elnök rendelkezésének megfelelően együttműködik az elnök alkotmánybírói törzskarával.
+## 8.3. Az elnöki kabinet és az elnök alkotmánybírói törzskara az elnök rendelkezésének megfelelően együttműködnek.
 
 ## 8.4. A kabinetfőnök
 
-## a) koordinálja az elnök nemzetközi tárgyú tevékenységét, ellátja az Alkotmánybíróság nemzetközi képviseletével kapcsolatos feladatokat;
+## a) segíti az elnök irányító munkáját, koordinálja az elnöki kabinet és az elnök alkotmánybírói törzskarának együttműködését;
 
-## b) kapcsolatot tart más intézményekkel, nemzetközi szervezetekkel;
+## b) figyelemmel kíséri az Alkotmánybíróság teljes ülése és tanácsai munkáját, közreműködik az egységes ítélkezési tevékenység figyelemmel kísérésében és értékelésében;
 
-## c) közreműködik az elnök külügyi vonatkozású találkozóinak a szervezésében, az elnök igénye szerint szakmai anyagokat készít nemzetközi és hazai vonatkozású megbeszélésekhez, egyeztetésekhez;
+## c) kapcsolatot tart más állami szervekkel, intézményekkel, előkészíti és szervezi az elnök belföldi vonatkozású hivatalos találkozóit;
 
-## d) beszerzi és értékeli az elnök számára a szükséges előkészítő információkat, háttéranyagokat készít;
+## d) szervezi és értékeli az elnök nyilvános szerepléseit, előkészíti az azokhoz szükséges szakmai anyagokat;
 
-## e) véleményezi az Alkotmánybíróságot érintő egyes jogi kérdéseket;
+## e) figyelemmel kíséri és értékeli az elnököt érintő eseményeket, szakmai véleményeket, sajtómegjelenéseket.
 
-## f) eljár az elnök által meghatározott egyéb ügyekben.
+## 8.5. A nemzetközi és protokoll (fő)tanácsadó
 
-## 8.5. Az elnöki tanácsadó
+## a) koordinálja az elnök nemzetközi tárgyú tevékenységét, közreműködik az elnök külügyi vonatkozású találkozóinak a szervezésében;
 
-## a) szervezi, koordinálja és értékeli az elnök nyilvános szerepléseit, előkészíti az azokhoz szükséges szakmai anyagokat;
+## b) az elnök igénye szerint szakmai anyagokat készít nemzetközi és hazai vonatkozású megbeszélésekhez, egyeztetésekhez;
 
-## b) figyelemmel kíséri és értékeli az elnököt érintő eseményeket, szakmai véleményeket, sajtómegjelenéseket;
+## c) ellátja az Alkotmánybíróság nemzetközi képviseletével kapcsolatos feladatokat, kapcsolatot tart más külföldi intézményekkel, nemzetközi szervezetekkel;
 
-## c) figyelemmel kíséri az Alkotmánybíróság teljes ülése és tanácsai munkáját,
+## d) a főtitkárral együttműködve közreműködik az Alkotmánybírósághoz érkező külföldi delegációk fogadásának, valamint az ünnepi (szakmai és protokoll) programoknak a kialakításában;
 
-## d) segíti az elnök irányító munkáját;
+## e) a főtitkárral együttműködve közreműködik az Alkotmánybíróság nemzetközi és hazai levelezéseinek előkészítésében;
 
-## e) kapcsolatot tart más állami szervekkel, intézményekkel;
+## f) a gazdasági főosztállyal együttműködve előkészíti az elnök és az alkotmánybírák külföldi hivatalos és munkalátogatásait.
 
-## f) előkészíti és szervezi az elnök belföldi vonatkozású találkozóit.
+## 8.6. Az elnöki (fő)tanácsadók
 
-## 8.6. Az elnöki referens
+## a) az elnök által meghatározottak szerint előkészítő anyagokat készítenek, véleményező tevékenységet végeznek;
 
-## a) az elnök által meghatározottak szerint előkészítő anyagokat készít, véleményező tevékenységet végez;
+## b) közreműködnek az egységes ítélkezési tevékenység figyelemmel kísérésében és értékelésében;
 
-## b) közreműködik az egységes ítélkezési tevékenység figyelemmel kísérésében és értékelésében;
+## c) figyelemmel kísérik a beérkezett indítványokat, elemzéseket készítenek, kutatási feladatokat látnak el;
 
-## c) figyelemmel kíséri a beérkezett alkotmányjogi panaszokat, elemzéseket készít;
+## d) segítik az elnököt a nyilvánossággal és a sajtóval kapcsolatos feladatainak ellátásában.
 
-## d) kutatási feladatokat lát el az elnök utasításai szerint;
+## 8/A.[^5] A volt elnök titkársága
 
-## e) közreműködik az elnöki feladatok szakmai megalapozásában.
+## 8/A.1. A volt elnök titkársága az Alkotmánybíróság volt elnökének munkaszervezete, mely az Abtv. 20. § (5) bekezdése alapján, az ott meghatározott ideig működik.
 
-## 8.7. A nemzetközi és protokoll ügyek referense
+## 8/A.2. A volt elnök titkársága segíti az Alkotmánybíróság volt elnökének az e tisztségével összefüggő tevékenységét. A volt elnök titkárságát a volt elnök vezeti.
 
-## a) közreműködik az Alkotmánybíróság nemzetközi levelezéseinek előkészítésében;
+## 8/A.3. A volt elnök titkárságának munkatársai
 
-## b) közreműködik az Alkotmánybírósághoz érkező külföldi delegációk elnöki fogadásának, valamint az ünnepi (szakmai és protokoll) programok kialakításában;
+## a) kapcsolatot tartanak más állami szervekkel, intézményekkel, előkészítik és szervezik a volt elnök belföldi vonatkozású hivatalos találkozóit;
 
-## c) előkészíti az elnök és az alkotmánybírák külföldi hivatalos és munkalátogatásait;
+## b) szervezik a volt elnök nyilvános szerepléseit, nemzetközi és hazai vonatkozású megbeszéléseit, előkészítik a felkészüléshez szükséges anyagokat;
 
-## d) közreműködik a protokoll-rendezvények előkészítésében.
+## c) figyelemmel kísérik a volt elnököt érintő eseményeket, szakmai véleményeket, sajtómegjelenéseket;
+
+## d) közreműködnek a volt elnök nemzetközi találkozóinak a szervezésében.
 
 ## 9. A főtitkárság
 
@@ -714,4 +716,11 @@
 
 ## Alkotmánybírósági ügyszám: XVIII/2181/2012.
 
-1. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz
+1. számú melléklet az 1003/2012. (III. 9.) AB Tü. határozathoz[^6]
+
+[^1]: A 3. pont 3.1. alpontja az 1001/2015. (III. 31.) AB TÜ határozat 1. pontjával megállapított szöveg.
+[^2]: A 4. pont 4.3. alpontja az 1001/2015. (III. 31.) AB TÜ határozat 2. pontja szerint módosított szöveg.
+[^3]: A 5. pont 5.6. alpontja az 1001/2015. (III. 31.) AB TÜ határozat 3. pontja szerint módosított szöveg.
+[^4]: A 8. pont az 1001/2015. (III. 31.) AB TÜ határozat 4. pontjával megállapított szöveg.
+[^5]: A 8/A. pontot az 1001/2015. (III. 31.) AB TÜ határozat 5. pontja iktatta be.
+[^6]: Az 1. számú melléklet az 1001/2015. (III. 31.) AB TÜ határozat 6. pontjával megállapított szöveg.
