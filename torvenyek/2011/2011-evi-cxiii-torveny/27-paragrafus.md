@@ -10,7 +10,7 @@
 
 a) a hivatásos katasztrófavédelmi szerv kivételével a rendvédelmi szerveknek a helyi védelmi bizottság illetékességi területe szerinti vezetője,
 
-b) a helyi védelmi bizottság illetékességi területén működő, a helyi védelmi bizottság feladatrendszerében érintett szakigazgatási szerv vezetője,
+b)
 
 c) a fővárosi és megyei kormányhivatal képviselője,
 
