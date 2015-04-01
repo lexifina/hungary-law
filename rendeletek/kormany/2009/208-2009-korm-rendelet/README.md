@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-208-20-
 | 2013-12-30 | 2009-208-20-22.6 | 506/2013. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2009-208-20-22.7 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-01-01 | 2009-208-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2015-04-01 | 2009-208-20-22.9 | 351/2010. (XII. 30.) Korm. rendelet |

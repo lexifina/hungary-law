@@ -18,9 +18,9 @@
 
 | 6. közlekedéssel kapcsolatos sajátos építményfajtákra vonatkozó terület | az a területi mérnöki kamara, melynek a kérelmező a tagja |
 
-| 7. ipari terület | a) a b) pontban foglalt kivétellel a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága |
+| 7. ipari terület | a) a b) pontban foglalt kivétellel a mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatal |
 
-|  | b) a bányászat és a szénhidrogén termelés, -kutatás, -szállítás szakterületeken a Magyar Bányászati és Földtani Hivatal területileg illetékes bányakapitánysága |
+|  | b) a bányászat és a szénhidrogén termelés, -kutatás, -szállítás szakterületeken a bányafelügyeleti feladatkörben eljáró megyei kormányhivatal |
 
 | 8. informatikai terület | Nemzeti Média- és Hírközlési Hatóság |
 
