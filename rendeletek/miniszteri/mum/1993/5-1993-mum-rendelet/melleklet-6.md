@@ -2,7 +2,7 @@
 
 ## A kitöltési útmutató a munkabalesetek európai statisztikája ESAW (European Statistics of Accidents at Work) módszertanának figyelembevételével készült.
 
-## A munkabaleset kivizsgálása során nyert adatok alapján a munkáltatónak - számítógéppel, írógéppel vagy nyomtatott betűvel - kell kitölteni a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi rovatát az (E) blokk „A munkabalesettel kapcsolatos egyéb információk:” 1-6 pontjaihoz tartozó kódnégyzetek, továbbá az (F) és a (G) blokkban lévő kódnégyzet, valamint a (J) blokk kivételével. Az (E) blokkban lévő sorokba a szöveges meghatározást, választ a munkáltatónak kell megadni. Az (E), (F), (G) blokkokban lévő kódnégyzeteket (az (E) blokk 7 pont kivételével), valamint a jegyzőkönyv (J) blokkját az illetékes hatóság (munkavédelmi felügyelőség, illetve a bányakapitányság) tölti ki.
+## A munkabaleset kivizsgálása során nyert adatok alapján a munkáltatónak - számítógéppel, írógéppel vagy nyomtatott betűvel - kell kitölteni a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi rovatát az (E) blokk „A munkabalesettel kapcsolatos egyéb információk:” 1-6 pontjaihoz tartozó kódnégyzetek, továbbá az (F) és a (G) blokkban lévő kódnégyzet, valamint a (J) blokk kivételével. Az (E) blokkban lévő sorokba a szöveges meghatározást, választ a munkáltatónak kell megadni. Az (E), (F), (G) blokkokban lévő kódnégyzeteket (az (E) blokk 7 pont kivételével), valamint a jegyzőkönyv (J) blokkját az illetékes hatóság (munkavédelmi hatóság, illetve a bányafelügyeleti hatáskörében eljáró megyei kormányhivatal) tölti ki.
 
 ## A munkabaleset kivizsgálása során a munkáltatónak figyelemmel kell lennie a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 57. §-a (3) bekezdésének h) pontjában foglalt előírásra, amely szerint a munkáltató által kijelölt (vagy foglalkoztatott, megbízott) személy feladata a munkabalesetek kivizsgálása, valamint az Mvt. 65. §-ának (2) bekezdésében foglalt azon előírásra, amely munkabiztonsági szaktevékenységnek minősíti a súlyos munkabaleset, valamint az olyan - munkaeszköz, illetve technológia által okozott - munkabaleset kivizsgálását, amely kettőnél több személy egyszerre (egy időben), azonos helyen történő sérülését vagy más egészségkárosodását okozta.
 
@@ -192,7 +192,7 @@
 
 ## A kódnégyzetekbe a sérült munkavállaló foglalkoztatási jogviszonyának jellegét (önfoglalkoztató, munkaviszony, egyéb foglalkozási jogviszony, ismeretlen), tartamát (határozott vagy határozatlan idejű), valamint a munkaidő mértékét (rész- vagy teljes munkaidő) kifejező kódszámot kell beírni.
 
-## 3K85045_3
+## 5K04458M_3
 
 | Kód | Megjelölés |
 
@@ -248,7 +248,7 @@
 
 ## Annak a sérülésnek a típusát kell megjelölni, amely a munkaképtelenséget okozta. Többszörös sérülés esetén a legsúlyosabb sérülést kell figyelembe venni. Például: ha a munkavállaló elesés következtében ficamot és zárt törést szenvedett, akkor a „Zárt törések” elnevezésű (021) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (019, 029, 039, 059, 069, 079, 089, 099, 109, 119, 999), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérülést pontosan feltüntetni.
 
-## 3K85045_5
+## 5K04458M_5
 
 | Kód | Megjelölés | Ide tartozik | Nem tartozik ide |
 
@@ -348,7 +348,7 @@
 
 ## Azt a testrészt kell pontosan megjelölni, amely a baleset során a legsúlyosabb mértékben sérült. Például: ha a bal kézen a mutató ujj sérült meg, akkor az „Ujj(ak)” elnevezésű (54-es) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (19, 29, 39, 49, 59, 69, 99), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérült testrészt pontosan feltüntetni.
 
-## 3K85045_6
+## 5K04458M_6
 
 | Kód | Megjelölés |
 
@@ -734,6 +734,6 @@
 
 ## A munkabaleseti esemény elemzését (vizsgálatát, kódolását) követően a felügyelő köteles a nevét, felügyelői igazolvány számát, a felülvizsgálat lezárásának napját beírni, majd ezt követően a jegyzőkönyvet aláírni.
 
-6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^36]
+6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^39]
 
-[^36]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
