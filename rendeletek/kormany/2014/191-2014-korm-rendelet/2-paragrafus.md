@@ -1,10 +1,10 @@
 ## 2. Árverési hirdetmény
 
-2. § (1) A megkeresés alapján az igazgatóság a megkeresés kézhezvételétől számított 15 napon belül az árverést árverési hirdetménnyel tűzi ki.
+2. § (1)[^2] A megkeresés alapján a mezőgazdasági igazgatási szerv a megkeresés kézhezvételétől számított 15 napon belül az árverést árverési hirdetménnyel tűzi ki.
 
 (2) Az árverési hirdetményben fel kell tüntetni:
 
-a) az árverést lefolytató igazgatóság megnevezését, címét, telefonszámát, letéti számlájának számát,
+a)[^3] az árverést lefolytató mezőgazdasági igazgatási szerv megnevezését, címét, telefonszámát, letéti számlájának számát,
 
 b) az árverés helyét és idejét, azonosító számát,
 
@@ -49,3 +49,6 @@ p) a földrészlettel együtt nyilvántartott épület, építmény árverezők 
 q) az árverezőket érintő egyéb tudnivalókat.
 
 (3) Az árverést a föld fekvése szerinti járási hivatal hivatali helyiségében kell megtartani. Az árverés időpontját úgy kell meghatározni, hogy az nem lehet korábbi az árverés kitűzésének napjától számított 60. napnál, de nem lehet későbbi az árverés kitűzésétől számított 90. napnál. E határidők számításába az árverés kitűzésének napja nem számít bele.
+
+[^2]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés c) pontja szerint módosított szöveg.

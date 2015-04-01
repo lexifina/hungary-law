@@ -1,6 +1,6 @@
 11. § (1) A kikiáltó az árverésről jegyzőkönyvet (a továbbiakban: árverési jegyzőkönyv) vesz fel, amely magában foglaltan tartalmazza az árverésen hozott döntéseket, továbbá tartalmazza:
 
-a) az igazgatóság megnevezését, címét, telefonszámát, számlájának számát,
+a)[^16] a mezőgazdasági igazgatási szerv megnevezését, címét, telefonszámát, számlájának számát,
 
 b) az árverés helyét, kezdetének és befejezésének időpontját,
 
@@ -34,7 +34,7 @@ k) a jelen levők kérelmét és észrevételét, az észrevételekre adott vál
 
 l) a jogszabályban meghatározott egyéb adatokat és körülményeket.
 
-(2) Az (1) bekezdés g) és h) pontjában megjelölt adatokat, valamint az árverésen hozott döntéseket az igazgatóság a jegyzőkönyvbe foglalt határozattal állapítja meg.
+(2)[^17] Az (1) bekezdés g) és h) pontjában megjelölt adatokat, valamint az árverésen hozott döntéseket a mezőgazdasági igazgatási szerv a jegyzőkönyvbe foglalt határozattal állapítja meg.
 
 (3) Az árverési jegyzőkönyvet az árverési vevő is aláírásával látja el.
 
@@ -50,8 +50,12 @@ d) a végrehajtást kérővel és az adóssal,
 
 e) azokkal, akiknek a földre vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van.
 
-(5) Az igazgatóságnak az árverési jegyzőkönyv – (4) bekezdés szerinti személyeknek történő – kézbesítését, annak lezárásától számított három napon belül meg kell kezdenie.
+(5)[^18] A mezőgazdasági igazgatási szervnek az árverési jegyzőkönyv – (4) bekezdés szerinti személyeknek történő – kézbesítését, annak lezárásától számított három napon belül meg kell kezdenie.
 
 (6) A (4) bekezdés c) pontja szerinti személyek számára olyan jegyzőkönyv másolatot kell kézbesíteni, amely az árverezők nevén kívül az árverezők további személyes adatait nem tartalmazza.
 
 (7) Ahol jogszabály a megkereső további eljárásával kapcsolatban árverési jegyzőkönyvet vagy árverési hirdetményt említ, azon az e rendelet szerinti árverési jegyzőkönyvet kell érteni.
+
+[^16]: A 11. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 11. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés j) pontja szerint módosított szöveg.
