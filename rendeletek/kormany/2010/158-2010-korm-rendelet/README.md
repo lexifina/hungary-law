@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-158-20-
 | 2010-07-02 | 2010-158-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2011-01-01 | 2010-158-20-22.5 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2012-03-15 | 2010-158-20-22.6 | 23/2012. (II. 29.) Korm. rendelet |
+| 2015-04-01 | 2010-158-20-22.7 | 70/2015. (III. 30.) Korm. rendelet |
