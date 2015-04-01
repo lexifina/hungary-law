@@ -12,7 +12,7 @@ b) nyilvántartását nem rendszeresen vagy hiányosan vezeti,
 
 c)[^11] a származás igazolására szolgáló okiratot (a továbbiakban: származási igazolvány) a szaporítóanyag átadásával egyidőben nem állítja ki, vagy nem adja át,
 
-d)[^12] az általa forgalmazott szaporító alapanyagokról kiállított származási igazolványokat az előírt határidőre nem küldi meg a NÉBIH-nek, illetve a növény- és talajvédelmi igazgatóságnak vagy
+d)[^12] az általa forgalmazott szaporító alapanyagokról kiállított származási igazolványokat az előírt határidőre nem küldi meg a NÉBIH-nek, illetve a megyei kormányhivatalnak vagy
 
 e) törzsültetvényt engedély nélkül vág ki, vagy törzsültetvényt engedély nélkül von ki törzsültetvénykénti üzemeltetésből.
 
@@ -43,5 +43,5 @@ e)[^13] szaporítóanyagot hamis származási igazolvánnyal hoz forgalomba.
 (6) Az (1) bekezdés szerinti jogszabályokban foglaltaknak a (2)–(5) bekezdésben nem nevesített megsértése esetén a minőségvédelmi bírság mértéke legfeljebb 500 000 forintig terjedhet.
 
 [^11]: A 6. § (2) bekezdés c) pontja a 182/2009. (IX. 10.) Korm. rendelet 386. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: A 6. § (2) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 130. § (4) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 130. § (4) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 69. § c) pontja szerint módosított szöveg.
 [^13]: A 6. § (5) bekezdés e) pontja a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés j) pontja szerint módosított szöveg.
