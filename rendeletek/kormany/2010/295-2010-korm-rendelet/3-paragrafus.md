@@ -8,11 +8,11 @@ b) szervezi és koordinálja a terrorcselekmények megelőzését és elhárít�
 
 c) részt vesz a kritikus infrastruktúrák védelmére vonatkozó nemzeti program kidolgozásában, a veszélyeztetettség értékelésében és biztonsági intézkedési tervek kidolgozásában, továbbá külön szerződés alapján ellátja a terrorveszélyeztetettség szempontjából jelentős, kritikus infrastruktúrák védelmét,
 
-d)[^4] végzi a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározottak szerint a köztársasági elnök és a miniszterelnök védelmét, valamint a rendészetért felelős miniszter által ideiglenesen, eseti jelleggel a hatáskörébe utalt egyéb személyvédelmi feladatokat, ennek keretében
+d)[^4] végzi a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározottak szerint a legfőbb ügyész és a miniszterelnök védelmét, valamint a rendészetért felelős miniszter által ideiglenesen, eseti jelleggel a hatáskörébe utalt egyéb személyvédelmi feladatokat, ennek keretében
 
 da) személy-, valamint létesítményvédelmi feladatainak ellátása során irányítja a feladatok előkészítését és végrehajtását, valamint az általános rendőrségi feladatokat ellátó szerv tűzszerész szolgálati ágának szakegységeivel együttműködve végzi a személy- és létesítményvédelmi feladatkörében felmerülő tűzszerészeti feladatokat, a robbantással fenyegetett helyszínek átvizsgálását,
 
-db)[^5] végzi a Magyarország érdekei szempontjából jelentős – köztársasági elnök és a miniszterelnök részvételével megtartott, valamint a rendészetért felelős miniszter által ideiglenesen hatáskörébe utalt egyéb személyvédelmi feladatokkal összefüggő – rendezvények biztosításához kapcsolódó feladatok előkészítését és végrehajtását,
+db)[^5] végzi a Magyarország érdekei szempontjából jelentős – különösen a miniszterelnök részvételével megtartott, valamint a rendészetért felelős miniszter által ideiglenesen hatáskörébe utalt egyéb személyvédelmi feladatokkal összefüggő – rendezvények biztosításához kapcsolódó feladatok előkészítését és végrehajtását,
 
 dc) együttműködik a személy- és létesítményvédelmi feladatok biztosításban érdekelt és a biztosítás végrehajtásában közvetlenül érintett hazai, valamint külföldi szervekkel és szervezetekkel,
 
@@ -67,8 +67,8 @@ e) a hatósági eljárás során lefoglalt, a közbiztonságra különösen vesz
 (6)[^14] A TEK az Rtv. szerinti rendőrségi feladatok ellátása során közreműködhet a harmadik országbeli állampolgárok hatósági kísérettel történő kiutasításának végrehajtásában.
 
 [^3]: A 3. § (1) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^4]: A 3. § (1) bekezdés d) pontja a 102/2012. (V. 18.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdés d) pont db) alpontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a, a 102/2012. (V. 18.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés d) pont nyitó szövegrésze a 102/2012. (V. 18.) Korm. rendelet 23. § a) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés d) pont db) alpontja a 276/2011. (XII. 20.) Korm. rendelet 18. §-a, a 102/2012. (V. 18.) Korm. rendelet 23. § b) pontja, a 83/2015. (III. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés d) pont de) alpontja a 102/2012. (V. 18.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdés h) pontja a 221/2014. (IX. 4.) Korm. rendelet 500. § a) pontja szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés j) pontja a 376/2011. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 500. § b) pontja szerint módosított szöveg.
