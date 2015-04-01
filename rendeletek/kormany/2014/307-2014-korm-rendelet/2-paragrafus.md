@@ -6,4 +6,6 @@ a) a döntést az adott hatósági eljárásra vonatkozó jogszabályokban megha
 
 b) hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a döntések kézbesítése – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton történik. A döntés kézbesítésének napja a hirdetmény kifüggesztését követő ötödik nap.
+(2)[^1]
+
+[^1]: A 2. § (2) bekezdését a 72/2015. (III. 30.) Korm. rendelet 101. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
