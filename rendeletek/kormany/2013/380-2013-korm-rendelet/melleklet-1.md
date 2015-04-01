@@ -12,7 +12,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 5. Útügyi, vasúti hatósági eljárások
 
-6. A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti építésügyi hatósági eljárások
+6.[^3] Az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai
 
 7. Vízügyi hatósági eljárások
 
@@ -41,3 +41,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 19. Azok a további hatósági engedélyezési eljárások, melyek a beruházás megvalósításához és használatbavételéhez közvetlenül szükségesek
 
 20. Az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások
+
+[^3]: Az 1. melléklet 6. pontja a 72/2015. (III. 30.) Korm. rendelet 57. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
