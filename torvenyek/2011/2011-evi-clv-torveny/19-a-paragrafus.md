@@ -4,7 +4,7 @@
 
 (3) Az alaprész kiadási előirányzatának 0,3%-a felhasználható az állami szakképzési és felnőttképzési szervnek az alaprészből nyújtott támogatások ellenőrzésével összefüggő, az alaprészből nyújtható szakképzési célú támogatások szabályairól szóló miniszteri rendeletben meghatározott feladatai ellátására.
 
-(4) Az alaprész kiadási előirányzatának 0,2%-a felhasználható a fővárosi és megyei kormányhivatal munkaügyi központ szakigazgatási szervnek a saját munkavállalók költségeinek elszámolásával kapcsolatos ellenőrzési feladatai ellátására.
+(4) Az alaprész kiadási előirányzatának 0,2%-a felhasználható a fővárosi és megyei kormányhivatalnak a saját munkavállalók költségeinek elszámolásával kapcsolatos ellenőrzési feladatai ellátására.
 
 (5) Az alaprész kiadási előirányzatának 0,3%-a felhasználható az állami szakképzési és felnőttképzési szervnek az akkreditált felnőttképzést folytató intézmények támogatott képzésének indításáról szóló bejelentésén alapuló ellenőrzési feladatok ellátására.
 

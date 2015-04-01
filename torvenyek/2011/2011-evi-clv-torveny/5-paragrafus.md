@@ -20,4 +20,4 @@ e) a d) pont szerinti teljesítés esetén a bruttó kötelezettség csökkenthe
 
 ea) az 5. § ab) pontja szerint, havonta legalább 45 fő tanulószerződéses tanuló gyakorlati képzésével teljesíti részben a hozzájárulási kötelezettségét, és
 
-eb) az elszámolt képzésről a jogszabályban előírt adatszolgáltatást a fővárosi, megyei kormányhivatal munkaügyi központ szakigazgatási szervéhez a 9. § (1) bekezdés c) pontjában meghatározott határidőig teljesítette. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.
+eb) az elszámolt képzésről a jogszabályban előírt adatszolgáltatást a fővárosi és megyei kormányhivatalhoz a 9. § (1) bekezdés c) pontjában meghatározott határidőig teljesítette. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.
