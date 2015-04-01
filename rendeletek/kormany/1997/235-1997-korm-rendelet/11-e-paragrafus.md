@@ -1,6 +1,6 @@
 ## 11/D. § A Kormány országos örökbefogadást elősegítő szervként a gyermekek és az ifjúság védelméért felelős minisztert jelöli ki.
 
-## 2/A. [^14] A gyermekvédelmi szakellátási intézménynek és a javítóintézetnek a köznevelés információs rendszerével kapcsolatos feladatai
+## 2/A. [^15] A gyermekvédelmi szakellátási intézménynek és a javítóintézetnek a köznevelés információs rendszerével kapcsolatos feladatai
 
 11/E. § (1) Az újonnan létrejött gyermekvédelmi szakellátást nyújtó intézmény vezetője az intézmény szolgáltatói nyilvántartásba történő jogerős bejegyzése birtokában, a javítóintézet vezetője az intézmény Magyar Államkincstár (a továbbiakban: Kincstár) törzskönyvi nyilvántartásba vételét követően, a köznevelés információs rendszere (a továbbiakban: KIR) honlapján keresztül kezdeményezi az intézmény számára az intézmény hatjegyű köznevelési azonosítójának kiadását, és egyidejűleg postai úton megküldi az Oktatási Hivatal számára a gyermekvédelmi szakellátási intézmény esetében a jogerős működési engedélyt, javítóintézet esetében az intézmény egységes szerkezetű alapító okiratát és a törzskönyvi nyilvántartásba vételről szóló határozatot.
 
@@ -28,4 +28,4 @@ cc) azon feladat-ellátási helyének (telephelyének) esetében, ahol legalább
 
 (7) Az Oktatási Hivatal a kiadott hatjegyű köznevelési azonosítót megküldi a gyermekvédelmi szakellátást nyújtó intézménynek, javítóintézetnek, a fenntartónak és a Kincstárnak.
 
-[^14]: A 2/A. alcímet (11/E–11/J. §) a 353/2014. (XII. 29.) Korm. rendelet 28. §-a iktatta be.
+[^15]: A 2/A. alcímet (11/E–11/J. §) a 353/2014. (XII. 29.) Korm. rendelet 28. §-a iktatta be.
