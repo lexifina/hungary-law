@@ -74,7 +74,7 @@
 
 | 18. |  |  | igazgató (KR NNI, KR SZO) |  |  |  |
 
-| 19. |  |  | igazgató (KR, ORFK BEI, ORFK NEBEK, ORFK RSZKK, ORFK DOK) rendőrfőkapitány- helyettesek, igazgatóhelyettes (RRI, BSZKI, Központi GEI) | ezredes | egyetem vagy főiskola |  |
+| 19. |  |  | igazgató (KR, ORFK BEI, ORFK NEBEK, ORFK RSZKK, ORFK DOK) rendőrfőkapitány-helyettesek, igazgatóhelyettes (RRI, BSZKI, Központi GEI) főosztályvezető (KR KEŐ) | ezredes | egyetem vagy főiskola |  |
 
 | 20. |  | főosztályvezető- helyettesi illetményre jogosult | főosztályvezető (KR, BRFK) |  |  |  |
 
@@ -134,7 +134,7 @@
 
 | KR: | Készenléti Rendőrség |
 
-| KR SZO: | Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóság |
+| KR KEŐ: KR SZO: | Készenléti Rendőrség parancsnokának közvetlen irányítása alatt álló Köztársasági Elnöki Őrség Főosztálya Készenléti Rendőrség Személy- és Objektumvédelmi Igazgatóság |
 
 | BRFK: | Budapesti Rendőr-főkapitányság |
 

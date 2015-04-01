@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-140-20-
 | 2012-07-01 | 1996-140-20-22.27 | 102/2012. (V. 18.) Korm. rendelet |
 | 2012-09-01 | 1996-140-20-22.28 | 115/2001. (VI. 29.) Korm. rendelet |
 | 2013-01-01 | 1996-140-20-22.29 | 416/2012. (XII. 29.) Korm. rendelet |
+| 2015-04-01 | 1996-140-20-22.30 | 149/2004. (V. 7.) Korm. rendelet |
