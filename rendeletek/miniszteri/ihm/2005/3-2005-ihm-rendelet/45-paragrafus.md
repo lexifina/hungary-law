@@ -6,6 +6,6 @@
 
 45. § (1) Ez a rendelet 2005. április 1-jén lép hatályba.
 
-(2)[^2]
+(2)[^4]
 
-[^2]: A 45. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 15. §-ának 14. pontja hatályon kívül helyezte.
+[^4]: A 45. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 15. §-ának 14. pontja hatályon kívül helyezte.

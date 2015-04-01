@@ -1,4 +1,4 @@
-## 1. § A rendelet hatálya kiterjed a belföldi lakóhelyű vagy belföldön tartózkodási hellyel rendelkező természetes személyekre, illetve belföldi székhelyű (telephelyű) jogi személyekre vagy jogi személyiség nélküli szervezetekre (a továbbiakban: szolgáltató), amelyek az Eat. 6. §-ának (1) bekezdése szerinti, elektronikus aláírással kapcsolatos szolgáltatást (a továbbiakban: szolgáltatás) nyújtanak vagy a Nemzeti Hírközlési Hatósághoz (a továbbiakban: Hatóság) ilyen szolgáltatás nyújtására irányuló bejelentést tesznek.
+## 1. §[^2] A rendelet hatálya kiterjed a belföldi lakóhelyű vagy belföldön tartózkodási hellyel rendelkező természetes személyekre, illetve belföldi székhelyű (telephelyű) jogi személyekre vagy jogi személyiség nélküli szervezetekre (a továbbiakban: szolgáltató), amelyek az Eat. 6. §-ának (1) bekezdése szerinti, elektronikus aláírással kapcsolatos szolgáltatást (a továbbiakban: szolgáltatás) nyújtanak vagy a Nemzeti Média- és Hírközlési Hatósághoz (a továbbiakban: Hatóság) ilyen szolgáltatás nyújtására irányuló bejelentést tesznek.
 
 ## 2. § E rendelet alkalmazásában
 
@@ -41,3 +41,5 @@ l) változáskezelés: azon szabályok összessége, amelyek meghatározzák a s
 m) visszavonás kezelése: az Eat. 14. §-ban meghatározott esetekben a kibocsátott tanúsítványok visszavonására és felfüggesztésére vonatkozó eljárások lefolytatása;
 
 n) visszavonási nyilvántartások: nyilvántartások a felfüggesztett, illetőleg a visszavont tanúsítványokról, amelyek tartalmazzák legalább a felfüggesztés vagy visszavonás tényét, és a felfüggesztés vagy visszavonás időpontját.
+
+[^2]: Az 1. § a 15/2015. (III. 31.) NFM rendelet 5. § a) pontja szerint módosított szöveg.

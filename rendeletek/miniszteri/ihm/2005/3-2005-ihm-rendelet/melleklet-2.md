@@ -14,7 +14,7 @@
 
 ## g) utalást arra, hogy a szolgáltató az Eat. 8/B. § szerinti önkéntes akkreditációs rendszer keretében tanúsítva lett-e;
 
-## h) a szolgáltató tevékenységével kapcsolatos kifogások és panaszok bejelentésének helyét és módját, a szolgáltatói ügyfélszolgálat és az illetékes fogyasztóvédelmi felügyelőség elérhetőségét;
+## h)[^6] a szolgáltató tevékenységével kapcsolatos kifogások és panaszok bejelentésének helyét és módját, a szolgáltatói ügyfélszolgálat és az illetékes fogyasztóvédelmi hatóság elérhetőségét;
 
 ## i) a szolgáltató által vállalt egyes nyitvatartási és rendelkezésre állási időket (a továbbiakban: rendelkezésre állási idők): a kibocsátott tanúsítványt tartalmazó nyilvántartás, valamint a visszavonási nyilvántartás, és a visszavonás kezelési szolgáltatások rendelkezésre állási idejét;
 
@@ -78,7 +78,7 @@ a) a szolgáltató által vállalt egyes nyitvatartási és rendelkezésre áll�
 
 b) tájékoztatást a szolgáltató által nyújtott szolgáltatásokról és azok felhasználásának módjáról;
 
-c) az igénybevevővel való együttműködés szabályait abban az esetben, ha a szolgáltató által megőrzött érvényességi láncnak az elektronikus dokumentum nem része, így azon időtartam és események meghatározását, amely eltelte vagy amelyek beállta esetén az igénybevevő köteles az elektronikus dokumentumnak a Nemzeti Hírközlési Hatóság által meghatározott elfogadott kriptográfiai algoritmus alkalmazásával képzett lenyomatát az archiválási szolgáltató számára átadni;
+c)[^7] az igénybevevővel való együttműködés szabályait abban az esetben, ha a szolgáltató által megőrzött érvényességi láncnak az elektronikus dokumentum nem része, így azon időtartam és események meghatározását, amely eltelte vagy amelyek beállta esetén az igénybevevő köteles az elektronikus dokumentumnak a Hatóság által meghatározott elfogadott kriptográfiai algoritmus alkalmazásával képzett lenyomatát az archiválási szolgáltató számára átadni;
 
 d) archiválási szabályzatot, amely tartalmazza azon dokumentumformátumok felsorolását, amelyek vonatkozásában az archiválási szolgáltató vállalja a értelmezhetőség (olvashatóság) és megjeleníthetőség folyamatos fenntartását, az értelmezhetőség és megjeleníthetőség biztosítását szolgáló eljárásrendet, ideértve a hardver- és szoftvereszközök rendelkezésre állásának biztosítására (emuláció) vonatkozó szabályokat, illetve az új adathordozóra vagy új formátumba történő átvitellel (migráció) kapcsolatos eljárásrendet is, valamint az ezen dokumentumformátumokban őrzött dokumentumokkal kapcsolatban a szolgáltató működésének befejezése esetén követendő eljárást;
 
@@ -107,3 +107,6 @@ k) a rendkívüli üzemeltetési helyzet esetén követendő eljárás leírás�
 l) a bizalmi munkakörök nevesítését és leírását;
 
 m) az igénybevevő azonosítására szolgáló eljárást.
+
+[^6]: Az 1. melléklet h) pontja a 15/2015. (III. 31.) NFM rendelet 5. § c) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet „Azon archiválási szolgáltató szolgáltatási szabályzatának, amely valamely szolgáltatását minősítettként nyújtja, az 1. számú mellékletben foglalt előírásokon kívül az alábbiakat is tartalmaznia kell:” című bekezdés c) pontja a 15/2015. (III. 31.) NFM rendelet 5. § d) pontja szerint módosított szöveg.
