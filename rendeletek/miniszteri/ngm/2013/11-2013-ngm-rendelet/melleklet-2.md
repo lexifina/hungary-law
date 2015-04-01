@@ -26,7 +26,7 @@
 
 ## * Megjegyzés: Amennyiben a Műszaki Biztonsági Szabályzattól eltértek, a nyilatkozatnak ki kell térnie az eltérés lényeges elemeire, valamint mellékelni kell a dokumentumot, amely alapján az eltérés történt.
 
-2. melléklet a 11/2013. (III. 21.) NGM rendelethez
+2. melléklet a 11/2013. (III. 21.) NGM rendelethez[^3]
 
 Műszaki Biztonsági Szabályzat
 
@@ -258,7 +258,7 @@ o) Tömörségvizsgálati nyomás (TTP): a csővezeték tömörségvizsgálata s
 
 |  | Kisnyomás | MOP≤ 100 mbar |
 
-|  | Középnyomás | 100 mbar < MOP≤ 4 bar |
+|  | Középnyomás | 100 mbar ≤ MOP≤ 4 bar |
 
 |  | Nagyközép nyomás | 4 bar < MOP≤ 25 bar |
 
@@ -276,7 +276,7 @@ b) tömörségi próba olyan eljárás, amellyel igazolható, hogy a csatlakozó
 
 81. Összeszellőztetés: két, egymással határos helyiség akkor tekinthető összeszellőztetettnek, ha a két helyiség közös elválasztó fala rendelkezik 2 db, egyenként legalább 150 cm2 szabad felületű, el nem zárható, a két légteret összekötő szellőzőnyílással, amelyek közvetlenül a padló szinten és a mennyezet alatt, de egymástól legalább 1,8 m függőleges távolságban helyezkednek el.
 
-82. Pébégázforgalmazó: az a jogi személyiségű gazdasági társaság, amely a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásának szabályairól és hatósági felügyeletéről szóló 94/2003. (XII. 18.) GKM rendeletben előírt feltételeknek megfelel és az illetékes bányakapitányságtól a pébégáz forgalmazására engedélyt kapott.
+82. Pébégázforgalmazó: az a jogi személyiségű gazdasági társaság, amely a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásának szabályairól és hatósági felügyeletéről szóló 94/2003. (XII. 18.) GKM rendeletben előírt feltételeknek megfelel és a bányafelügyelettől a pébégáz forgalmazására engedélyt kapott.
 
 83. Rendeltetési ország (közvetlen): az az ország, amely számára a gázfogyasztó készüléket tanúsították, és amelyet a gyártó közvetlen rendeltetési célországként megad, és ott a gázfogyasztó készülék átalakítás nélkül üzemeltethető.
 
@@ -1094,7 +1094,7 @@ c) ipari nyomásszabályozó állomás, amelynek névleges térfogatárama nagyo
 
 | 40 < Q ≤ 200 |
 
-| Q≤ 650 | MSZ EN 12279 az A. melléklet 1., 2. és 3. beépítési változatok esetén | MSZ EN 12279 és MSZ EN 334:2005+A1:2009 |
+| Q ≤ 650 | MSZ EN 12279 az A. melléklet 1., 2. és 3. beépítési változatok esetén | MSZ EN 12279 és MSZ EN 334:2005+A1:2009 |
 
 | 200 < Q | MSZ EN 12279 |
 
@@ -3063,3 +3063,5 @@ Példa tartályra szerelt nyomásszabályozó max. 24 kg/h gázelvételre
 Példa párologtatós rendszerű nyomásszabályozó berendezésre.
 
 Az ábra szerinti kialakításban a külön szűrő cseppleválasztó funkciót és másodlagos elpárologtatást is szolgál.
+
+[^3]: A 2. melléklet a 9/2015. (III. 31.) NGM rendelet 51. § b)–c) pontja szerint módosított szöveg.
