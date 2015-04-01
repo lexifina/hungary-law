@@ -1,3 +1,5 @@
 6. § (1) Ez a rendelet a kihirdetést követő harmadik napon lép hatályba.
 
-(2) A munkaügyi központ 2009. évben akkor köteles az e rendelet 2–3. §-ában foglalt támogatásra felhívást közzétenni, illetve a jogszabályi feltételeknek megfelelő munkaadó kérelmére a támogatást nyújtani, ha a Munkaerőpiaci Alap foglalkoztatási alaprészének általa felhasználható keretében a pénzügyi eszközök rendelkezésre állnak.
+(2)[^23]
+
+[^23]: A 6. § (2) bekezdését a 70/2015. (III. 30.) Korm. rendelet 132. § (3) bekezdése hatályon kívül helyezte.

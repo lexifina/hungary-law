@@ -1,6 +1,6 @@
 ## Szakképzettséggel rendelkező pályakezdő álláskeresők munkatapasztalat-szerzésének támogatása
 
-2. § (1)[^5] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatal járási munkaügyi kirendeltsége (a továbbiakban: kirendeltség) támogatást nyújt a munkaadó kérelmére, ha a munkaadó a pályakezdő álláskereső munkaviszony keretében történő foglalkoztatását napi legalább négyórás munkaidőben, és – (6) bekezdésben foglaltak figyelembevételével – legalább 365 napi időtartamra, az 1. § b) pontja szerinti munkahelyen vállalja.
+2. § (1)[^5] Az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) támogatást nyújt a munkaadó kérelmére, ha a munkaadó a pályakezdő álláskereső munkaviszony keretében történő foglalkoztatását napi legalább négyórás munkaidőben, és – (6) bekezdésben foglaltak figyelembevételével – legalább 365 napi időtartamra, az 1. § b) pontja szerinti munkahelyen vállalja.
 
 (2)[^6]
 
@@ -18,6 +18,6 @@ c) az emelt szintű vagy felsőfokú szakképesítéssel, illetve felsőfokú is
 
 (6) Ha a pályakezdő támogatott munkaviszonya 365 napnál rövidebb idő után megszűnik, újbóli foglalkoztatása esetén a 365 napból fennmaradó időtartamra nyújtható támogatás.
 
-[^5]: A 2. § (1) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 132. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdését a 272/2012. (IX. 28.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
 [^7]: A 2. § (3) bekezdés a) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés d) pontja szerint módosított szöveg.

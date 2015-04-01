@@ -2,11 +2,11 @@
 
 ## a részmunkaidős foglalkoztatás támogatása
 
-4. § (1)[^11] A kirendeltség felhívás alapján támogatást nyújthat a munkaadó kérelmére, ha a munkaadó a vele teljes munkaidőben munkaviszonyban álló munkavállalót az 1. § i) pontjában meghatározott részmunkaidőben foglalkoztatja a munkavállalói létszám csökkentésének megelőzése érdekében.
+4. § (1)[^11] A járási hivatal felhívás alapján támogatást nyújthat a munkaadó kérelmére, ha a munkaadó a vele teljes munkaidőben munkaviszonyban álló munkavállalót az 1. § i) pontjában meghatározott részmunkaidőben foglalkoztatja a munkavállalói létszám csökkentésének megelőzése érdekében.
 
 (2) A munkaadó a támogatás igénybevétele mellett vállalja, hogy
 
-a)[^12] megtartja a kérelem kirendeltséghez történő benyújtását megelőző hónapban meglévő átlagos statisztikai állományi létszámát, és
+a)[^12] megtartja a kérelem járási hivatalhoz történő benyújtását megelőző hónapban meglévő átlagos statisztikai állományi létszámát, és
 
 b) a munkavállalót legalább a támogatási időtartamával megegyező további időtartamig továbbfoglalkoztatja, és
 
@@ -16,15 +16,15 @@ c) a támogatás adókkal és járulékokkal csökkentett részét a munkaválla
 
 (4) A támogatás legfeljebb 365 napra nyújtható.
 
-(5)[^14] A kirendeltség a támogatást a részmunkaidőben történő foglalkoztatást vállaló munkáltató részére havonta utólag téríti meg.
+(5)[^14] A járási hivatal a támogatást a részmunkaidőben történő foglalkoztatást vállaló munkáltató részére havonta utólag téríti meg.
 
-(6)[^15] A kirendeltség köteles a támogatásra vonatkozó felhívást legalább egy napilapban közzétenni, és ezzel egyidejűleg a felhívást a honlapján is megjelentetni.
+(6)[^15] A járási hivatal köteles a támogatásra vonatkozó felhívást legalább egy napilapban közzétenni, és ezzel egyidejűleg a felhívást a honlapján is megjelentetni.
 
-(7)[^16] A kirendeltség a felhívásban meghatározza azokat a szempontokat, amelyek alapján megállapítható, hogy a munkaadónál a részmunkaidős foglalkoztatásra történő áttérés a munkavállalói létszám csökkentésének megelőzését szolgálja.
+(7)[^16] A járási hivatal a felhívásban meghatározza azokat a szempontokat, amelyek alapján megállapítható, hogy a munkaadónál a részmunkaidős foglalkoztatásra történő áttérés a munkavállalói létszám csökkentésének megelőzését szolgálja.
 
-[^11]: A 4. § (1) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^12]: A 4. § (2) bekezdés a) pontja az 51/2013. (II. 25.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 132. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 4. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 132. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^13]: A 4. § (3) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^14]: A 4. § (5) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^15]: A 4. § (6) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
-[^16]: A 4. § (7) bekezdése az 51/2013. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^14]: A 4. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 132. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 4. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 132. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^16]: A 4. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 132. § (2) bekezdés b) pontja szerint módosított szöveg.
