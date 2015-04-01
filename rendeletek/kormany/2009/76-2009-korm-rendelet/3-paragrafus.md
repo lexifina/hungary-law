@@ -12,13 +12,13 @@ kérelme alapján indul.
 
 (2)[^20] Az 1. § (1) bekezdés a)–d) és g) pontjában foglalt esetben állampolgári megkeresésre az illetékes állami főépítész az eljárás megindítását javasolhatja az (1) bekezdés a) pontjában megjelölt szerveknél.
 
-(3)[^21] Területrendezési hatósági eljárás megindítására irányuló kérelmet „térségi területfelhasználási engedély kérelem” formában az állami főépítészhez kell benyújtani.
+(3)[^21] Területrendezési hatósági eljárás megindítására irányuló kérelmet „térségi területfelhasználási engedély kérelem” formában az illetékes állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalhoz kell benyújtani.
 
-(3a)[^22] Ha a kérelem több állami főépítész illetékességi területét érinti, az eljáró főépítészt a területrendezésért felelős miniszter jelöli ki.
+(3a)[^22] Ha a kérelem több állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal illetékességi területét érinti, az eljáró fővárosi és megyei kormányhivatalt (továbbiakban: eljáró hatóság) a területrendezésért felelős miniszter jelöli ki.
 
-(3b)[^23] A (3a) bekezdés szerinti kérelem benyújtását megelőzően a területrendezésért felelős miniszternél kell kezdeményezni az eljáró állami főépítész kijelölését. Az 1. § (1) bekezdés e) pontjában foglalt esetben az eljáró állami főépítész kijelölésére vonatkozó kezdeményezés a beruházó, az 1. § (1) bekezdés c) pontjában foglalt esetben az (1) bekezdés a) pontja szerinti önkormányzat feladata. A területrendezésért felelős miniszter a kijelölés tárgyában nyolc napon belül dönt.
+(3b)[^23] A (3a) bekezdés szerinti kérelem benyújtását megelőzően a területrendezésért felelős miniszternél kell kezdeményezni az eljáró hatóság kijelölését. Az eljáró hatóság kijelölésére vonatkozó kezdeményezés az 1. § (1) bekezdés e) pontjában foglalt esetben a beruházó, az 1. § (1) bekezdés c) pontjában foglalt esetben az (1) bekezdés a) pontja szerinti önkormányzat feladata. A területrendezésért felelős miniszter a kijelölés tárgyában nyolc napon belül dönt.
 
-(3c)[^24] Amennyiben a területrendezési hatósági eljárás több állami főépítész illetékességi területét érinti, a kijelölt állami főépítész az illetékességi területén kívül is végezhet eljárási cselekményt.
+(3c)[^24] Amennyiben a területrendezési hatósági eljárás több állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal illetékességi területét érinti, a kijelölt eljáró hatóság az illetékességi területén kívül is végezhet eljárási cselekményt.
 
 (4)[^25] A kérelemnek tartalmaznia kell a kérelem tárgyát és rövid összefoglaló indoklását, továbbá a kérelemhez csatolni kell a(az)
 
@@ -70,16 +70,16 @@ g)[^33] az 1. § (1) bekezdés a)–d) és f)–g) pontja szerinti eljárások e
 
 (5)[^35] Amennyiben az ügyfél nem elektronikus úton tart kapcsolatot a hatósággal, akkor a kérelmet – postai úton vagy személyes átadás útján – írásban a (4) bekezdésben meghatározott tartalommal kell benyújtani tíz papíralapú példányban és egy példányban elektronikus adathordozón. Az eltérésre, a beillesztésre, a beépítésre szánt terület kivételes kijelölésére, a területcserére, továbbá az országos jelentőségű elem beillesztésére, továbbá az összhang igazolására vonatkozó tíz papíralapú példányban benyújtott kérelemnek a területi (környezeti, társadalmi és gazdasági) hatásvizsgálat rövid összefoglalóját kell tartalmaznia. Az egyéb tartalmi elemeket teljes körűen kell benyújtani. Az eltérésre, a beillesztésre, a beépítésre szánt terület kivételes kijelölésére, a területcserére, az országos jelentőségű elem beillesztésére, továbbá az összhang igazolására vonatkozó elektronikus adathordozón benyújtott kérelemnek a (4) bekezdésben meghatározott tartalommal kell rendelkeznie, a területi (környezeti, társadalmi és gazdasági) hatásvizsgálatot teljes terjedelmében kell tartalmaznia. Amennyiben a papíralapú kérelem és az elektronikus adathordozón benyújtott kérelem szövege egymástól eltér, a papíralapú kérelem szövegét kell hitelesnek tekinteni.
 
-(6)[^36] A területével érintett fővárosi kerületi, fővárosi, megyei jogú városi és megyei önkormányzat, valamint az illetékes, de a (3b) bekezdés alapján eljáró hatóságként nem kijelölt állami főépítész – az (1) bekezdésben foglaltaktól függetlenül – a területrendezési hatósági eljárásban ügyfélnek minősül.
+(6)[^36] A területével érintett fővárosi kerületi, fővárosi, megyei jogú városi és megyei önkormányzat, valamint az illetékes, de a (3b) bekezdés alapján eljáró hatóságként nem kijelölt fővárosi és megyei kormányhivatal – az (1) bekezdésben foglaltaktól függetlenül – a területrendezési hatósági eljárásban ügyfélnek minősül.
 
 [^17]: A 3. § (1) bekezdése a 197/2011. (IX. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^18]: A 3. § (1) bekezdés a) pontja a 105/2012. (V. 30.) Korm. rendelet 20. § c) pontja, a 25/2014. (II. 7.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^19]: A 3. § (1) bekezdés b) pontja a 25/2014. (II. 7.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
 [^20]: A 3. § (2) bekezdése a 249/2009. (XI. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 20. § d) pontja, a 25/2014. (II. 7.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^21]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^22]: A 3. § (3a) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^23]: A 3. § (3b) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 342/2014. (XII. 19.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^24]: A 3. § (3c) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^21]: A 3. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
+[^22]: A 3. § (3a) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
+[^23]: A 3. § (3b) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
+[^24]: A 3. § (3c) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 133. § (2) bekezdésével megállapított szöveg.
 [^25]: A 3. § (4) bekezdés nyitó szövegrésze a 25/2014. (II. 7.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
 [^26]: A 3. § (4) bekezdés c) pontja a 197/2011. (IX. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^27]: A 3. § (4) bekezdés c) pont ca) alpontja a 25/2014. (II. 7.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
@@ -91,4 +91,4 @@ g)[^33] az 1. § (1) bekezdés a)–d) és f)–g) pontja szerinti eljárások e
 [^33]: A 3. § (4) bekezdés g) pontját a 105/2012. (V. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
 [^34]: A 3. § (4a) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 342/2014. (XII. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^35]: A 3. § (5) bekezdése a 197/2011. (IX. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 105/2012. (V. 30.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
-[^36]: A 3. § (6) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 342/2014. (XII. 19.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^36]: A 3. § (6) bekezdését a 25/2014. (II. 7.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 133. § (3) bekezdésével megállapított szöveg.
