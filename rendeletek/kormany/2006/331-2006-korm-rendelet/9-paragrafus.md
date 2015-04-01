@@ -1,6 +1,6 @@
-## 8/A. §[^54] A járási gyámhivatal a jogszabályban meghatározott esetben kéri a bíróságtól az eltűnt személy holtnak nyilvánítását.
+## 8/A. §[^53] A gyámhivatal a jogszabályban meghatározott esetben kéri a bíróságtól az eltűnt személy holtnak nyilvánítását.
 
-## 9. §[^55] A járási gyámhivatal a kapcsolattartással, a szülői felügyeleti joggal és a gyermektartásdíjjal kapcsolatban
+## 9. §[^54] A gyámhivatal a kapcsolattartással, a szülői felügyeleti joggal és a gyermektartásdíjjal kapcsolatban
 
 a) dönt a gyermek és a szülő, illetve más kapcsolattartásra jogosult személy kapcsolattartásáról, indokolt esetben felügyelt kapcsolattartást rendel el, továbbá a kapcsolattartási ügyben kötelező gyermekvédelmi közvetítői eljárás vagy kötelező támogatott közvetítői eljárás igénybevételét rendeli el,
 
@@ -24,5 +24,5 @@ j) engedélyezi a tanköteles gyermek művészeti, sport-, modell- vagy hirdeté
 
 k) eljár a megelőlegezett gyermektartásdíj kötelezett által meg nem térített összegének elengedésére, csökkentésére vagy részletfizetés engedélyezésére irányuló kérelem ügyében.
 
-[^54]: A 8/A. §-t a 70/2014. (III. 13.) Korm. rendelet 92. §-a iktatta be.
-[^55]: A 9. § a 70/2014. (III. 13.) Korm. rendelet 93. §-ával megállapított szöveg.
+[^53]: A 8/A. §-t a 70/2014. (III. 13.) Korm. rendelet 92. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^54]: A 9. § a 70/2014. (III. 13.) Korm. rendelet 93. §-ával megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.

@@ -1,15 +1,9 @@
-14. § (1) A szociális és gyámhivatal ellenőrzési jogkörében legalább négyévenként ellenőrzi
+14. §[^67] (1) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal ellenőrzési jogkörében legalább négyévenként ellenőrzi a települési önkormányzat jegyzője és a gyámhivatal gyámügyi és gyermekvédelmi hatósági tevékenységének jogszerűségét.
 
-a)[^66] települési önkormányzat jegyzője, a járási gyámhivatal gyámügyi és gyermekvédelmi hatósági tevékenységének jogszerűségét,
+(2) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal az (1) bekezdésben meghatározott ellenőrzési jogkörét éves ellenőrzési terv és program szerint gyakorolja, amelyben meghatározza a teljes körű, illetve célellenőrzés alá vont szerveket, valamint a célvizsgálati tárgyköröket.
 
-b)[^67]
+(3) A miniszter a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt a gyermekvédelmi és gyámügyi feladatok ellátása tekintetében az ellenőrzési tervben meghatározottakon túl vizsgálat lefolytatására utasíthatja.
 
-(2)[^68] A szociális és gyámhivatal az (1) bekezdésben meghatározott ellenőrzési jogkörét a fővárosi és megyei kormányhivatal vezetőjével egyeztetett éves ellenőrzési terv és program szerint gyakorolja, amelyben meghatározza a teljes körű, illetve célellenőrzés alá vont szerveket, valamint a célvizsgálati tárgyköröket.
+(4) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal az ellenőrzési tervről, valamint az ellenőrzések tapasztalatairól tájékoztatja a minisztert.
 
-(3) A miniszter a szociális és gyámhivatal vezetőjét az ellenőrzési tervben meghatározottakon túl vizsgálat lefolytatására utasíthatja.
-
-(4) A szociális és gyámhivatal vezetője az ellenőrzési tervről, valamint az ellenőrzések tapasztalatairól tájékoztatja a minisztert.
-
-[^66]: A 14. § (1) bekezdés a) pontja a 353/2014. (XII. 29.) Korm. rendelet 53. § c) pontja szerint módosított szöveg.
-[^67]: A 14. § (1) bekezdés b) pontját a 369/2013. (X. 24.) Korm. rendelet 55. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^68]: A 14. § (2) bekezdése a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 16. pontja, a 174/2012. (VII. 26.) Korm. rendelet 42. § (13) bekezdés c) pontja szerint módosított szöveg.
+[^67]: A 14. § a 70/2015. (III. 30.) Korm. rendelet 89. § (4) bekezdésével megállapított szöveg.

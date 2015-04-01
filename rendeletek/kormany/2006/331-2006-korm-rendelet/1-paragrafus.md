@@ -1,25 +1,19 @@
 ## A gyámhatóság szervezete
 
-1. § (1) A gyámhatóság feladat- és hatáskörét
+1. §[^1] (1) A gyámhatóság feladat- és hatáskörét
 
 a) a települési önkormányzat jegyzője,
 
-b)[^1] a járási (fővárosi kerületi) gyámhivatal (a továbbiakban: járási gyámhivatal),
+b) a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: gyámhivatal),
 
-c) a szociális és gyámhivatal
+c) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal
 
 ## gyakorolja.
 
-(2)[^2] A járási gyámhivatalok a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szakigazgatási szervei.
+(2) A gyámhivatal a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott illetékességi területén látja el feladat- és hatáskörét.
 
-(3)[^3] A járási gyámhivatal a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott illetékességi területén látja el feladat- és hatáskörét.
+(3) A fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a gyermek és ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-(4)[^4] A szociális és gyámhivatalok a fővárosi és megyei kormányhivatalok szakigazgatási szervei. A szociális és gyámhivatalok szakmai irányítója a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter).
+(4) A miniszter a gyermekvédelmi és gyámügyi feladatok szakmai irányítása körében közvetlen megkereséssel fordul a gyámhatóság feladatkörét gyakorló bármely szervhez, ha a gyermek vagy a gondnokság alatt álló személy, továbbá a gondnokság alá helyezéssel érintett személy érdekében sürgős intézkedés szükséges.
 
-(5)[^5]
-
-[^1]: Az 1. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (4) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 51. §-ával megállapított szöveg.
-[^5]: Az 1. § (5) bekezdését a 318/2008. (XII. 23.) Korm. rendelet 17. § (2) bekezdés 2. pontja hatályon kívül helyezte, újonnan a 173/2009. (VIII. 29.) Korm. rendelet 46. §-a iktatta be, újból hatályon kívül helyezte a 369/2013. (X. 24.) Korm. rendelet 55. § (3) bekezdés a) pontja.
+[^1]: Az 1. § a 70/2015. (III. 30.) Korm. rendelet 89. § (1) bekezdésével megállapított szöveg.
