@@ -1,8 +1,8 @@
-## 121. §[^283] A jogerős és végrehajtható határozattal kiutasított harmadik országbeli állampolgár kiléptetéséről a Rendőrség – a Tv. 102. § (1) bekezdés a) pontja szerinti adatok, továbbá a kiléptetés időpontjának és helyének közlésével – haladéktalanul értesíti a központi adatkezelő szervet.
+## 121. §[^287] A jogerős és végrehajtható határozattal kiutasított harmadik országbeli állampolgár kiléptetéséről a Rendőrség – a Tv. 102. § (1) bekezdés a) pontja szerinti adatok, továbbá a kiléptetés időpontjának és helyének közlésével – haladéktalanul értesíti a központi adatkezelő szervet.
 
-## Dublini eljárás[^284]
+## Dublini eljárás[^288]
 
-121/A. §[^285] (1) A Harmtv. 48/A. § (1) bekezdése szerinti eljárás (a továbbiakban: dublini eljárás) magában foglalja a dublini rendeleteket alkalmazó más állam (a továbbiakban: tagállam) hatóságának megkeresését, a más tagállam hatóságával történő egyeztetést, a visszaadás-visszavételi eljárás lefolytatását, valamint a kérelmező visszaadását (a továbbiakban együtt: visszaadás).
+121/A. §[^289] (1) A Harmtv. 48/A. § (1) bekezdése szerinti eljárás (a továbbiakban: dublini eljárás) magában foglalja a dublini rendeleteket alkalmazó más állam (a továbbiakban: tagállam) hatóságának megkeresését, a más tagállam hatóságával történő egyeztetést, a visszaadás-visszavételi eljárás lefolytatását, valamint a kérelmező visszaadását (a továbbiakban együtt: visszaadás).
 
 (2) A dublini eljárás kezdőnapja az a nap, amikor a menekültügyi hatóság más tagállam hatóságát megkeresi. A dublini eljárás befejező napja az a nap, amikor a kérelmezőt más tagállam hatósága visszaveszi, a visszavételt megtagadja, vagy nyilvánvalóvá válik, hogy a visszaadás nem hajtható végre.
 
@@ -10,6 +10,6 @@
 
 (4) A kérelmező visszaadásáról rendelkező végzés a Dublin II. rendelet 20. cikk (1) bekezdés e) pontjában foglaltakat tartalmazza.
 
-[^283]: A 121. § a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^284]: A 121/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 62. §-a iktatta be.
-[^285]: A 121/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 62. §-a iktatta be.
+[^287]: A 121. § a 327/2007. (XII. 11.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^288]: A 121/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 62. §-a iktatta be.
+[^289]: A 121/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 62. §-a iktatta be.

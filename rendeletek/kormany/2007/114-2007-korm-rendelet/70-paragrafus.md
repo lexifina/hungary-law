@@ -6,7 +6,7 @@ a) a Tv. 29. § (1) bekezdés a) és b) pontjában foglalt esetekben a hontalank
 
 b) a Tv. 29. § (1) bekezdés c) pontjában foglalt esetben a menekültügyi hatóság,
 
-c)[^164] a Tv. 29. § (1) bekezdés d) pontjában foglalt esetben – a járási (fővárosi kerületi) gyámhivatal (a továbbiakban: járási gyámhivatal) kezdeményezésére – a kísérő nélküli kiskorú szálláshelye szerint illetékes regionális igazgatóság,
+c)[^164] a Tv. 29. § (1) bekezdés d) pontjában foglalt esetben – a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: gyámhivatal) kezdeményezésére – a kísérő nélküli kiskorú szálláshelye szerint illetékes regionális igazgatóság,
 
 d) a Tv. 29. § (1) bekezdés e) pontjában foglalt esetben a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság
 
@@ -21,7 +21,7 @@ f)[^166] a Tv. 29. § (1a) bekezdésében meghatározott esetben a harmadik orsz
 (3)[^167] A Tv. 29. § (1) bekezdés a)–f) pontjának, valamint 29. § (1a) bekezdésének hatálya alá tartozó harmadik országbeli állampolgárnak a tartózkodási engedély kiadásához, illetve meghosszabbításához ki kell töltenie a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 25/2007. (V. 31.) IRM rendeletben meghatározott adatlapot, továbbá az adatlaphoz mellékelnie kell egy darab arcfényképet.
 
 [^163]: A 69/A. §-t a 142/2013. (V. 13.) Korm. rendelet 4. §-a iktatta be.
-[^164]: A 70. § (1) bekezdés c) pontja a 296/2012. (X. 17.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^164]: A 70. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
 [^165]: A 70. § (1) bekezdés e) pontját a 168/2011. (VIII. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
 [^166]: A 70. § (1) bekezdés f) pontját a 221/2013. (VI. 24.) Korm. rendelet 14. §-a iktatta be.
 [^167]: A 70. § (3) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 15. §-ával megállapított szöveg.

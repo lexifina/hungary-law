@@ -12,6 +12,6 @@ b) a Tv. 83–85. §-ában meghatározott úti okmány iránti kérelem esetén 
 
 (4) Az úti okmány iránti kérelemhez csatolni kell – amennyiben azzal rendelkezik – a kérelmező birtokában lévő előző úti okmányt, továbbá kettő darab, a kérelmező felismerésére alkalmas arcfényképet.
 
-(5)[^371] A kiskorú vagy gondnokság alatt álló harmadik országbeli állampolgár kérelméhez csatolni kell a szülőknek (törvényes képviselőknek) a közjegyző, járási gyámhivatal vagy a regionális igazgatóság előtt tett, az úti okmány kiadásához hozzájáruló nyilatkozatát vagy a szülői felügyelet megszűnését, illetve szünetelését igazoló jogerős bírósági határozat másolatát.
+(5)[^375] A kiskorú vagy gondnokság alatt álló harmadik országbeli állampolgár kérelméhez csatolni kell a szülőknek (törvényes képviselőknek) a közjegyző, gyámhivatal vagy a regionális igazgatóság előtt tett, az úti okmány kiadásához hozzájáruló nyilatkozatát vagy a szülői felügyelet megszűnését, illetve szünetelését igazoló jogerős bírósági határozat másolatát.
 
-[^371]: A 167. § (5) bekezdése a 296/2012. (X. 17.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
+[^375]: A 167. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 101. § j) pontja szerint módosított szöveg.

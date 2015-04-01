@@ -1,4 +1,4 @@
-115/A. §[^269] (1) A Tv. 47. § (10) bekezdése alapján az idegenrendészeti kiutasítást, illetve a beutazási és tartózkodási tilalmat elrendelő regionális igazgatóság az ismert magyarországi szálláshellyel rendelkező harmadik országbeli állampolgár esetén az idegenrendészeti kiutasítást, illetve a beutazási és tartózkodási tilalmat a kiutasítás végrehajthatóvá válását követő tizenkét hónap elteltét követő 21 napon belül felülvizsgálja.
+115/A. §[^272] (1) A Tv. 47. § (10) bekezdése alapján az idegenrendészeti kiutasítást, illetve a beutazási és tartózkodási tilalmat elrendelő regionális igazgatóság az ismert magyarországi szálláshellyel rendelkező harmadik országbeli állampolgár esetén az idegenrendészeti kiutasítást, illetve a beutazási és tartózkodási tilalmat a kiutasítás végrehajthatóvá válását követő tizenkét hónap elteltét követő 21 napon belül felülvizsgálja.
 
 (2) A Tv. 47. § (10) bekezdésének alkalmazásában a kiutasítás végrehajtásának tizenkét hónapon túli meghiúsulása a harmadik országbeli állampolgárnak különösen akkor nem róható fel, ha
 
@@ -10,4 +10,4 @@ b) a számára előírt magatartási szabályokat betartotta, és rendszeres meg
 
 (4) Ha a regionális igazgatóság az idegenrendészeti kiutasítást, illetve a beutazási és tartózkodási tilalmat visszavonja, az idegenrendészeti kiutasítást, illetve a beutazási és tartózkodási tilalmat haladéktalanul törli.
 
-[^269]: A 115/A. §-t a 221/2013. (VI. 24.) Korm. rendelet 20. §-a iktatta be.
+[^272]: A 115/A. §-t a 221/2013. (VI. 24.) Korm. rendelet 20. §-a iktatta be.
