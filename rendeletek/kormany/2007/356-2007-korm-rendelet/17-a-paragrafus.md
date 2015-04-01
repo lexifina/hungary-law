@@ -1,8 +1,8 @@
-17/A. §[^57] (1) A Fétv.-ben meghatározott földhasználati összesítőt – papír alapon vagy elektronikusan – a földhivatal a Földmérési és Távérzékelési Intézet által üzemeltetett országos földhivatali rendszerből való lekérdezés útján szolgáltatja.
+17/A. §[^64] (1)[^65] A Fétv.-ben meghatározott földhasználati összesítőt – papír alapon vagy elektronikusan – a járási hivatal a Földmérési és Távérzékelési Intézet által üzemeltetett országos földügyi nyilvántartási rendszerből való lekérdezés útján szolgáltatja.
 
 (2) Földhasználati összesítő a Fétv. 99. § (2) bekezdésében meghatározott azonosító adatok alapján kérdezhető le.
 
-(3) A földhasználati összesítőt a Fétv. 99. § (4) bekezdés a) pontjában meghatározott személy papír alapon a földhivatalban igényelheti. A földhasználati összesítő kiadása iránti kérelmet a földügyért felelős miniszter által rendszeresített, az általa vezetett minisztérium, valamint a földhivatalok hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A kérelem adattartalmát a 6. számú melléklet határozza meg.
+(3)[^66] A földhasználati összesítőt a Fétv. 99. § (4) bekezdés a) pontjában meghatározott személy papír alapon a járási hivatalban igényelheti. A földhasználati összesítő kiadása iránti kérelmet a földügyért felelős miniszter által rendszeresített, az általa vezetett minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A kérelem adattartalmát a 6. számú melléklet határozza meg.
 
 (4) A földhasználati összesítő a Fétv. 99. § (4) bekezdés b)–e) pontjában meghatározott szervek részére kizárólag adatátviteli vonalon keresztül, elektronikus formában szolgáltatható.
 
@@ -16,12 +16,17 @@ b) a földhasználónak a földhasználati lap I. részében foglalt adatait, ki
 
 c) a földhasználati nyilvántartás szerint a földhasználó által használt valamennyi földterület területét hektárban (tízezred pontossággal) és aranykorona értékét (AK) (két tizedes pontossággal) jogcímenkénti bontásban, valamint összesítve;
 
-d) a földhasználati nyilvántartás szerint a földhasználó által használt földterületek fekvése szerint illetékes földhivatalok megnevezését;
+d)[^67] a földhasználati nyilvántartás szerint a földhasználó által használt földterületek fekvése szerint illetékes járási hivatalok megnevezését;
 
-e) a papír alapon kiállított földhasználati összesítő esetében az azt kiállító földhivatal megnevezését.
+e)[^68] a papír alapon kiállított földhasználati összesítő esetében az azt kiállító járási hivatal megnevezését.
 
 (7) A földhasználati összesítőt a következő szöveget tartalmazó záradékkal kell ellátni: „A földhasználati összesítő a megadott azonosító adat alapján azonosított földhasználónak a kiadást megelőző napig a földhasználati nyilvántartásba bejegyzett használatainak országosan összesített adatait tartalmazza.”
 
-(8) Ha a földhasználati összesítő lekérdezése a lekérdező által megadott azonosító adat alapján eredménytelen volt, erről a lekérdezéshez felhasznált adatokat és a lekérdezés eredményét tartalmazó, „A megadott azonosító adat alapján földhasználati összesítő nem készíthető.” szövegű záradékkal ellátott igazolást kell kiadni. Ennek az igazolásnak tartalmaznia kell az azt kiállító földhivatal megnevezését is.
+(8)[^69] Ha a földhasználati összesítő lekérdezése a lekérdező által megadott azonosító adat alapján eredménytelen volt, erről a lekérdezéshez felhasznált adatokat és a lekérdezés eredményét tartalmazó, „A megadott azonosító adat alapján földhasználati összesítő nem készíthető.” szövegű záradékkal ellátott igazolást kell kiadni. Ennek az igazolásnak tartalmaznia kell az azt kiállító járási hivatal megnevezését is.
 
-[^57]: A 17/A. §-t a 473/2013. (XII. 12.) Korm. rendelet 11. §-a iktatta be.
+[^64]: A 17/A. §-t a 473/2013. (XII. 12.) Korm. rendelet 11. §-a iktatta be.
+[^65]: A 17/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 116. § c) és i) pontja szerint módosított szöveg.
+[^66]: A 17/A. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 116. § a) és j) pontja szerint módosított szöveg.
+[^67]: A 17/A. § (6) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 116. § k) pontja szerint módosított szöveg.
+[^68]: A 17/A. § (6) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
+[^69]: A 17/A. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.

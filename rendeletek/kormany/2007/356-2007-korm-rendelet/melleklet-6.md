@@ -1,4 +1,4 @@
-6. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^95]
+6. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^113]
 
 A papír alapú földhasználati összesítő kiadása iránti kérelem tartalma
 
@@ -34,9 +34,9 @@ e) bélyegzőlenyomata.
 
 5. A kérelmező aláírása.
 
-II. A kérelem benyújtására szolgáló nyomtatványon a földhivatal által feltüntetendő tartalmi elemek:
+II. A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
 
-1. A földhivatal bélyegzője
+1. A járási hivatal bélyegzője
 
 2. A kérelem érkezési ideje
 
@@ -46,4 +46,4 @@ II. A kérelem benyújtására szolgáló nyomtatványon a földhivatal által f
 
 5. Az ügyintéző aláírása
 
-[^95]: A 6. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^113]: A 6. számú mellékletet a 473/2013. (XII. 12.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.

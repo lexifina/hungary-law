@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-356-20-
 | 2014-04-09 | 2007-356-20-22.18 | 504/2013. (XII. 29.) Korm. rendelet |
 | 2014-08-01 | 2007-356-20-22.19 | 191/2014. (VII. 31.) Korm. rendelet |
 | 2015-01-01 | 2007-356-20-22.20 | 373/2014. (XII. 31.) Korm. rendelet |
+| 2015-04-01 | 2007-356-20-22.21 | 70/2015. (III. 30.) Korm. rendelet |

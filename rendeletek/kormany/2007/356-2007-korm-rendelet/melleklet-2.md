@@ -116,9 +116,9 @@
 
 ## 3. Az újonnan alapított mezőgazdasági termelőszervezetnek minősülő földhasználó nyilatkozata arról, hogy kötelezettséget vállal arra, hogy a földhasználati jogosultság megszerzésétől számított 1 éven belül a föld helye szerinti településen mezőgazdasági üzemközpontot létesít.
 
-## III. A bejelentési adatlapon a földhivatal által feltüntetendő tartalmi elemek:
+## III. A bejelentési adatlapon a járási hivatal által feltüntetendő tartalmi elemek:
 
-## 1. A földhivatal bélyegzője.
+## 1. A járási hivatal bélyegzője.
 
 ## 2. A földhasználati bejelentés érkezési ideje.
 
@@ -132,6 +132,6 @@
 
 ## 7. Az ügyintéző aláírása.
 
-2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^75]
+2. számú melléklet a 356/2007. (XII. 23.) Korm. rendelethez[^89]
 
-[^75]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^89]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 599. § (16) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
