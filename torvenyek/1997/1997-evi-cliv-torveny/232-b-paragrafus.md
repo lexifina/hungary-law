@@ -4,6 +4,6 @@
 
 a) a 228. § (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet esetén a megyei, fővárosi védelmi bizottság,
 
-b) a 228. § (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén a megyei tisztifőorvos
+b) a 228. § (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet esetén az egészségügyi államigazgatási szerv
 
 látja el.

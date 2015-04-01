@@ -8,7 +8,7 @@
 
 a) az adott térség megyei önkormányzatainak egy-egy képviselője, valamint a fővárosi térség esetében a fővárosi önkormányzat egy képviselője,
 
-b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy képviselője, valamint ezen túlmenően a térségben működő népegészségügyi szakigazgatási szervek egy közös képviselője,
+b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy népegészségügyi feladatokért felelős képviselője,
 
 c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 
