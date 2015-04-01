@@ -12,9 +12,9 @@ volt vagy van-e folyamatban a balesettel kapcsolatban hatósági (rendőrségi, 
 
 e) a balesetből eredő betegsége, sérülése miatt hol látták el, illetőleg kezelték (egészségügyi szolgáltató neve, címe).
 
-(2)[^503] Az (1) bekezdésben említett nyilatkozatot a táppénzfolyósító szerv megkeresésére a táppénzben részesülő személy kiállítja és tizenöt napon belül visszajuttatja a folyósító szervhez. Ha a táppénzt folyósító a nyilatkozatban foglaltak alapján azt állapítja meg, hogy a balesetet nem a biztosított, hanem más személy okozta, a nyilatkozatot további intézkedésre az OEP-nek küldi meg, a baleset miatt folyósított táppénzre vonatkozó adatok közlésével együtt.
+(2)[^509] Az (1) bekezdésben említett nyilatkozatot a táppénzfolyósító szerv megkeresésére a táppénzben részesülő személy kiállítja és tizenöt napon belül visszajuttatja a folyósító szervhez. Ha a táppénzt folyósító a nyilatkozatban foglaltak alapján azt állapítja meg, hogy a balesetet nem a biztosított, hanem más személy okozta, a nyilatkozatot további intézkedésre az OEP-nek küldi meg, a baleset miatt folyósított táppénzre vonatkozó adatok közlésével együtt.
 
-(3)[^504] Az (1) bekezdésben említett nyilatkozatot az egészségbiztosítási szakigazgatási szervek és a társadalombiztosítási kifizetőhelyek – az Ebtv. 67–68. §-a szerinti megtérítési eljárás megindítása szükségességének vizsgálata céljából – megküldik az OEP-nek.
+(3)[^510] Az (1) bekezdésben említett nyilatkozatot a kormányhivatalok és a társadalombiztosítási kifizetőhelyek – az Ebtv. 67–68. §-a szerinti megtérítési eljárás megindítása szükségességének vizsgálata céljából – megküldik az OEP-nek.
 
-[^503]: A Vhr. 47. § (2) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.
-[^504]: A Vhr. 47. § (3) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^509]: A Vhr. 47. § (2) bekezdése a 111/2011. (VII. 4.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^510]: A Vhr. 47. § (3) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés n) pontja szerint módosított szöveg.

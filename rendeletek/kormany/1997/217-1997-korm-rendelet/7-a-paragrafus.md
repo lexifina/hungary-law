@@ -1,6 +1,6 @@
-## A gyógyászati ellátások árához, valamint a gyógyászati segédeszközök árához, javítási és kölcsönzési díjához nyújtott támogatás[^127]
+## A gyógyászati ellátások árához, valamint a gyógyászati segédeszközök árához, javítási és kölcsönzési díjához nyújtott támogatás[^126]
 
-7/A. §[^128] (1) A biztosított az Ebtv. 21. § (2) bekezdése alapján fekvőbeteg-gyógyintézeti (a továbbiakban: gyógyintézeti) kezelése alatt, vagy elbocsátása előtt akkor jogosult árhoz nyújtott támogatással gyógyászati segédeszközre, ha számára az eszköz használata a rehabilitációjához, betanításához, végleges ellátásához, ideiglenes protézissel történő ellátásához már a gyógyintézetben tartózkodása alatt indokolt és a gyógyászati segédeszköz alkalmazása vagy használata a fekvőbeteg-ellátás keretében nem finanszírozott. A gyógyászati segédeszközt a gyógyintézet orvosa rendeli, ha a felírói körre vagy a szakorvosi javaslat tételére meghatározott szakképesítés valamelyikének megfelelő szakvizsgával rendelkezik.
+7/A. §[^127] (1) A biztosított az Ebtv. 21. § (2) bekezdése alapján fekvőbeteg-gyógyintézeti (a továbbiakban: gyógyintézeti) kezelése alatt, vagy elbocsátása előtt akkor jogosult árhoz nyújtott támogatással gyógyászati segédeszközre, ha számára az eszköz használata a rehabilitációjához, betanításához, végleges ellátásához, ideiglenes protézissel történő ellátásához már a gyógyintézetben tartózkodása alatt indokolt és a gyógyászati segédeszköz alkalmazása vagy használata a fekvőbeteg-ellátás keretében nem finanszírozott. A gyógyászati segédeszközt a gyógyintézet orvosa rendeli, ha a felírói körre vagy a szakorvosi javaslat tételére meghatározott szakképesítés valamelyikének megfelelő szakvizsgával rendelkezik.
 
 (2) A biztosított az Ebtv. 21. § (2) bekezdése alapján akkor is jogosult a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben (a továbbiakban: R.) foglalt feltételek szerint támogatásban részesülő
 
@@ -24,17 +24,17 @@ ba) eszközre meghatározott fix összegű támogatás, vagy
 
 bb) az eszköz valamely fizikai paraméterének fajlagos egységére meghatározott fix összegű támogatás.
 
-(4)[^129] Önálló funkcionális elv szerinti fixcsoport állapítható meg adott funkcionális alcsoportra, valamint funkcionális csoportra vonatkozóan, amennyiben azt az R. – a (6) bekezdésben foglaltak szerint – az adott eszközcsoport tekintetében lehetővé teszi.
+(4)[^128] Önálló funkcionális elv szerinti fixcsoport állapítható meg adott funkcionális alcsoportra, valamint funkcionális csoportra vonatkozóan, amennyiben azt az R. – a (6) bekezdésben foglaltak szerint – az adott eszközcsoport tekintetében lehetővé teszi.
 
-(5)[^130] Önálló rendeltetés szerinti fixcsoport állapítható meg adott rendeltetési csoportra, amennyiben azt az R. – a (6) bekezdésben foglaltak szerint – az adott eszközcsoport tekintetében lehetővé teszi.
+(5)[^129] Önálló rendeltetés szerinti fixcsoport állapítható meg adott rendeltetési csoportra, amennyiben azt az R. – a (6) bekezdésben foglaltak szerint – az adott eszközcsoport tekintetében lehetővé teszi.
 
-(6)[^131] Az (5) bekezdés szerinti önálló rendeltetés szerinti fixcsoport a fixesítés alapjául szolgáló funkcionális csoportból vagy alcsoportból, valamint a fixesítés alá vont funkcionális csoportból, illetve csoportokból vagy alcsoportból, illetve alcsoportokból áll.
+(6)[^130] Az (5) bekezdés szerinti önálló rendeltetés szerinti fixcsoport a fixesítés alapjául szolgáló funkcionális csoportból vagy alcsoportból, valamint a fixesítés alá vont funkcionális csoportból, illetve csoportokból vagy alcsoportból, illetve alcsoportokból áll.
 
-(7)[^132] Az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási technikát az R. melléklete tartalmazza.
+(7)[^131] Az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási technikát az R. melléklete tartalmazza.
 
-[^127]: A Vhr. 7/A. §-a előtti alcímet a 91/2004. (IV. 26.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
-[^128]: A Vhr. 7/A. §-át a 111/2000. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^129]: A Vhr. 7/A. § (4) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^130]: A Vhr. 7/A. § (5) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^131]: A Vhr. 7/A. § (6) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^132]: A Vhr. 7/A. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^126]: A Vhr. 7/A. §-a előtti alcímet a 91/2004. (IV. 26.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
+[^127]: A Vhr. 7/A. §-át a 111/2000. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^128]: A Vhr. 7/A. § (4) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^129]: A Vhr. 7/A. § (5) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^130]: A Vhr. 7/A. § (6) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^131]: A Vhr. 7/A. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
