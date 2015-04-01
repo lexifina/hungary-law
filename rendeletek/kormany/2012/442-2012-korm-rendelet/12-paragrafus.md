@@ -12,7 +12,7 @@ d) az anyagában és egyéb módon hasznosított csomagolási hulladék mennyis�
 
 (3)[^13] A gyártó, a forgalmazó a 11. § (5) bekezdése szerinti nyilvántartás szerinti adattartalommal a tárgyévet követő év január 31-ig az OKTF részére adatot szolgáltat a 2009/292/EK bizottsági határozatnak való megfelelésről.
 
-(4)[^14] Az adatszolgáltatási kötelezettséget formanyomtatványon vagy elektronikus űrlapon kell teljesíteni. A formanyomtatványt és az elektronikus űrlapot az OKTF honlapján és a kormányzati portálon kell közzétenni, továbbá az OKTF vagy a felügyelőség kérelemre a gyártó, a forgalmazó, a kereskedő, a közvetítő, valamint a hulladékkezelő rendelkezésére bocsátja.
+(4)[^14] Az adatszolgáltatási kötelezettséget formanyomtatványon vagy elektronikus űrlapon kell teljesíteni. A formanyomtatványt és az elektronikus űrlapot az OKTF honlapján és a kormányzati portálon kell közzétenni, továbbá az OKTF vagy a környezetvédelmi hatóság kérelemre a gyártó, a forgalmazó, a kereskedő, a közvetítő, valamint a hulladékkezelő rendelkezésére bocsátja.
 
 (5) Az adatszolgáltatás során közölt adatok teljeskörűségéért, az adatszolgáltatásra kötelezettre vonatkozó számviteli szabályokkal, statisztikai rendszerrel, valamint saját nyilvántartási rendszereivel, mérési, megfigyelési adataival való egyezésért az adatszolgáltatásra kötelezett felel.
 
@@ -20,4 +20,4 @@ d) az anyagában és egyéb módon hasznosított csomagolási hulladék mennyis�
 
 [^12]: A 12. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 130. § c) pontja szerint módosított szöveg.
 [^13]: A 12. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 130. § b) pontja szerint módosított szöveg.
-[^14]: A 12. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 130. § b) pontja szerint módosított szöveg.
+[^14]: A 12. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 130. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 216. §-a szerint módosított szöveg.
