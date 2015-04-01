@@ -1,5 +1,3 @@
-## 46. § Ha a bv. bíró, vagy a másodfokú bíróság az elítélt feltételes szabadságát megszünteti, vagy a szabadságvesztés ideiglenes foganatba vételét rendeli el, a végzését megküldi a büntetés-végrehajtási pártfogó felügyelőnek, ha az elítélt pártfogó felügyelet alatt áll.
-
 ## 16. A szabadságvesztés végrehajtási fokozatának megváltoztatása
 
 47. § (1) A bv. bíró – amennyiben az ügyben nem az iratok alapján határoz – a meghallgatás időpontjáról a bv. intézetet értesíti.

@@ -6,7 +6,7 @@
 
 ## Idézés büntetés-végrehajtási ügyben
 
-## A ............................................................................................................................................ ellen
+## A ......................................................................................................................................... ellen
 
 ## ……………………………………………………………………… tárgyában indított büntetés-végrehajtási ügyben a járásbíróság/törvényszék hivatalos helyiségébe
 
@@ -18,7 +18,11 @@
 
 ## Figyelmeztetem, hogy
 
-## ha az idézés ellenére nem jelenik meg és ezt alapos okkal előzetesen nem menti ki, vagy engedély nélkül eltávozik, vagy önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, elővezetése rendelhető el, amelynek költségeként kilométerenként ................................... Ft-ot, de legkevesebb .............................. Ft-ot kell megfizetnie.
+## ha az idézés ellenére nem jelenik meg és ezt alapos okkal előzetesen nem menti ki, vagy engedély nélkül eltávozik, vagy önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, elővezetése rendelhető el, amelynek költsége
+
+## - szolgálati gépkocsi igénybevétele esetén legkevesebb 9250,- forint, amely a 26. kilométertől kilométerenként 50,- forinttal, illetve a 3. órától óránként a foganatosításban részt vevő hatósági személyek számától függően 2000,- forinttal tovább növekedhet,
+
+## - szolgálati gépkocsi igénybevétele nélkül történő foganatosítás esetén a foganatosításban részt vevő hatósági személyek számától függően óránként 2000,- forint.
 
 ## Ha a határnapot önhibáján kívül mulasztotta el, a határnaptól számított nyolc napon belül igazolási kérelmet terjeszthet elő.
 
@@ -34,13 +38,13 @@
 
 ## ......................................................
 
-## .........................................................
+## ...................................................................
 
 ## büntetés-végrehajtási bíró
 
 ## A kiadmány hiteléül:
 
-## .................................................
+## ..............................................
 
 ## tisztviselő – ügykezelő
 

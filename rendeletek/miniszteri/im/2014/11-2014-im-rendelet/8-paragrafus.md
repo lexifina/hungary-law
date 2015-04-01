@@ -32,6 +32,8 @@ k) a végrehajtást foganatosító javítóintézetet, ha a bíróság olyan ter
 
 l) ha a büntetőeljárásban – amelyben a szabadságvesztést kiszabták – óvadék letételére került sor, az óvadék megállapítása tárgyában jogerős határozatot hozó bíróság megjelölésével.
 
-(3) Ha a bíróság a szabadlábon lévő terhelttel szemben a szabadságvesztés azonnali foganatba vételét [Be. 596. § (1) bekezdés], vagy a szabadságvesztés végrehajtásának biztosítására irányuló intézkedést [Be. 596. § (3)–(4) bekezdés] rendeli el, ezt a tanács elnöke – az intézkedés ellenőrzésére jogosult rendőri szerv megjelölésével – az értesítőlap megjegyzés rovatában feltünteti.
+(3)[^1] Ha a bíróság a szabadlábon lévő terhelttel szemben a szabadságvesztés azonnali foganatba vételét [Bv. tv. 37. § (1) bekezdés], vagy a szabadságvesztés végrehajtásának biztosítására irányuló intézkedést [Bv. tv. 38. § (1) és (2) bekezdés] rendeli el, ezt a tanács elnöke – az intézkedés ellenőrzésére jogosult rendőri szerv megjelölésével – az értesítőlap megjegyzés rovatában feltünteti.
 
 (4) Az összbüntetésként megállapított szabadságvesztés végrehajtására vonatkozó értesítőlap kiállítására és megküldésére a 8–14. § rendelkezéseit értelemszerűen alkalmazni kell.
+
+[^1]: A 8. § (3) bekezdése a 6/2015. (III. 30.) IM rendelet 10. §-a szerint módosított szöveg.

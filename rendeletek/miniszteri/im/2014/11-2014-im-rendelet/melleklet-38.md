@@ -1,18 +1,18 @@
 ## Az elítélt felhívása a szabadságvesztés megkezdésére
 
-## Büntetés-végrehajtás Országos Parancsnokság
+| Büntetés-végrehajtás Országos Parancsnokság |
 
-## A Büntetés-végrehajtás Országos Parancsnoksága felhívja ..................................................................................................... elítéltet (aki ....................................-n .......... évi ...................................... hó ................. napján született, anyja neve: ……................. ), hogy a ........................................... Járásbíróság/Törvényszék ................../20................/................ számú ítéletével, a .............................................. Törvényszék/Ítélőtábla mint másodfokú bíróság, és az Ítélőtábla/Kúria a ……………………........../20............./...........................................számú határozatával .................................................................... miatt jogerősen kiszabott ..................................................... szabadságvesztésének megkezdése végett ..............................................................Büntetés-végrehajtási Intézetben - Országos Büntetés-végrehajtási Intézetben - Fegyház és Börtönben (........................................... település ................................ utca ............... szám .......... ) 20........ évi ........................................ hó ........ napján ............ órakor jelentkezzék.
+| A Büntetés-végrehajtás Országos Parancsnoksága felhívja ................................................................................ elítéltet (aki ....................................-n .......... évi ...................................... hó ................. napján született, anyja neve: …….................................................... ), hogy a ................................................................................. Járásbíróság/Törvényszék ................../20................/................ számú ítéletével,........................................... Törvényszék/Ítélőtábla mint másodfokú bíróság, és az Ítélőtábla/Kúria a ……………………........../20............./...........................................számú határozatával .................................................................... miatt jogerősen kiszabott ..................................................... szabadságvesztésének megkezdése végett ..............................................................Büntetés-végrehajtási Intézetben - Országos Büntetés-végrehajtási Intézetben - Fegyház és Börtönben (........................................... település ................................ utca ............... szám .......... ) 20........ évi ........................................ hó ........ napján ............ órakor jelentkezzék. |
 
-## A jelentkezés elmulasztása esetén a Büntetés-végrehajtás Országos Parancsnoksága elővezetés elrendelése iránt fog intézkedni. Elővezetés esetén a költségtérítés ..................................................…………………… Ft kilométerenként, de legkevesebb ................................................ Ft.
+| A jelentkezés elmulasztása esetén a Büntetés-végrehajtás Országos Parancsnoksága elővezetés elrendelése iránt fog intézkedni. Elővezetés esetén a költségtérítés: - szolgálati gépkocsi igénybevétele esetén legkevesebb 9250,- forint, amely a 26. kilométertől kilométerenként 50,- forinttal, illetve a 3. órától óránként a foganatosításban részt vevő hatósági személyek számától függően 2000,- forinttal tovább növekedhet, - szolgálati gépkocsi igénybevétele nélkül történő foganatosítás esetén a foganatosításban részt vevő hatósági személyek számától függően óránként 2000,- forint. |
 
-## .................................., 20........ évi ..................... hó ....... napján.
+| .................................., 20........ évi ..................... hó ....... napján. |
 
-## ..............................................
+| .............................................. |
 
-## Címzett: ............................................
+| Címzett: ............................................ |
 
-## ...........................................................
+| ........................................................... |
 
 ## FIGYELMEZTETÉS
 

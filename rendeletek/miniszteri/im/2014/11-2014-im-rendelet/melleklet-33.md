@@ -28,4 +28,6 @@
 
 | 206/b. | Értesítés szabadságvesztés végrehajtását biztosító intézkedés elrendeléséről. |
 
-33. melléklet a 11/2014. (XII. 13.) IM rendelethez
+33. melléklet a 11/2014. (XII. 13.) IM rendelethez[^10]
+
+[^10]: A 33. melléklet a 6/2015. (III. 30.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
