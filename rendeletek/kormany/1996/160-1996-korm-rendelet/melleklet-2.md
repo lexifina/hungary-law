@@ -1,18 +1,18 @@
-## 1. Állandó személyvédelemben részesülő állami vezetők
+## 1.[^82] Állandó személyvédelemben részesülő személyek
 
 ## 1. A köztársasági elnök
 
-## 2.[^84]
+## 2.[^83]
 
 ## 3. A miniszterelnök
 
 ## 4. Az Alkotmánybíróság elnöke
 
-## 5.[^85] A Kúria elnöke
+## 5.[^84] A Kúria elnöke
 
-## 6.[^86] A legfőbb ügyész
+## 6.[^85] A legfőbb ügyész
 
-## 2.[^87] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
+## 2.[^86] Létesítménybiztosítási intézkedés céljából kijelölt létesítmények és értékek
 
 ## a) a Szent Koronához tartozó jelvények közül a koronázási palást,
 
@@ -42,7 +42,7 @@
 
 ## n) az Információs Hivatal központi objektuma.
 
-2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^88]
+2. melléklet a 160/1996. (XI. 5.) Korm. rendelethez[^87]
 
 ## A védett személy gyógyintézeti ellátására kijelölhető intézmények
 
@@ -176,8 +176,9 @@
 
 65. Zalaegerszeg, Zala Megyei Kórház
 
-[^84]: Az 1. melléklet 1. pont 2. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^85]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^86]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
-[^87]: Az 1. melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 169. §-ával megállapított szöveg.
-[^88]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^82]: Az 1. melléklet 1. pont nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 2. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^83]: Az 1. melléklet 1. pont 2. alpontját a 102/2012. (V. 18.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^84]: Az 1. melléklet 1. pont 5. alpontja a 314/2011. (XII. 23.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^85]: Az 1. melléklet 1. pont 6. alpontját a 376/2011. (XII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^86]: Az 1. melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 169. §-ával megállapított szöveg.
+[^87]: A 2. mellékletet a 63/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
