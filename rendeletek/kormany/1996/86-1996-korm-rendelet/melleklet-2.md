@@ -150,7 +150,7 @@
 
 ## 1.44. a bírósági végrehajtók, a bírósági végrehajtó helyettesek, a bírósági végrehajtójelöltek, helyettes bírósági végrehajtók igazolványai;
 
-## 1.45.[^75] az Igazságügyi Hivatal, továbbá a fővárosi és megyei kormányhivatal igazságügyi szolgálata dolgozójának dolgozói igazolványa;
+## 1.45.[^75] az Igazságügyi Hivatal, továbbá a fővárosi és megyei kormányhivatal pártfogó felügyelői tevékenység, az áldozatsegítési és kárenyhítési tevékenység és a jogi segítségnyújtás feladatkörében eljáró dolgozójának dolgozói igazolványa;
 
 ## 1.46.[^76] az ügyészség szolgálati igazolványai;
 
@@ -248,11 +248,11 @@
 
 ## 1.92. közrendvédelmi terület okmányai;
 
-## 1.93.[^100] a fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve hatósági jogkörének gyakorlására jogosító munkavédelmi felügyelői igazolvány, valamint munkaügyi felügyelői igazolvány;
+## 1.93.[^100] a munkavédelmi hatósági és munkaügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal hatósági jogkörének gyakorlására jogosító munkavédelmi felügyelői igazolvány, valamint munkaügyi felügyelői igazolvány;
 
 ## 1.94.[^101] a Nemzeti Média- és Hírközlési Hatóság hatósági ellenőrzésre és intézkedésre feljogosított személyeinek igazolványa;
 
-## 1.95.[^102] a Nemzeti Fejlesztési Minisztérium, a Nemzeti Közlekedési Hatóság, a fővárosi és megyei kormányhivatal közlekedési felügyelőségei, valamint a Közlekedésbiztonsági Szervezet által kiadott felügyeleti igazolványok;
+## 1.95.[^102] a Nemzeti Fejlesztési Minisztérium, a Nemzeti Közlekedési Hatóság, a közlekedési feladatkörében eljáró fővárosi és megyei kormányhivatal, valamint a Közlekedésbiztonsági Szervezet által kiadott felügyeleti igazolványok;
 
 ## 1.96. bányafelügyeleti hatósági feladatokat ellátó személyek részére rendszeresített igazolványok;
 
@@ -264,13 +264,13 @@
 
 ## 1.100.[^105] a Nemzeti Élelmiszerlánc-biztonsági Hivatal által kiadott kormánytisztviselői igazolvány;
 
-## 1.101.[^106] Megyei Kormányhivatalok Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságon dolgozó hatósági személy igazolványa;
+## 1.101.[^106] élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatalban dolgozó hatósági személy igazolványa;
 
-## 1.102.[^107] Megyei Kormányhivatalok járási hivatalai Állat-egészségügyi és Élelmiszer-ellenőrző Hivatalaiban dolgozó hatósági személy igazolványa;
+## 1.102.[^107] megyei kormányhivatal élelmiszer-ellenőrzési és állategészségügyi feladatkörében eljáró járási hivatalában dolgozó hatósági személy igazolványa;
 
-## 1.103.[^108] Megyei Kormányhivatalok Növény- és Talajvédelmi Igazgatóságon dolgozó hatósági személy igazolványa;
+## 1.103.[^108] növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalban dolgozó hatósági személy igazolványa;
 
-## 1.104.[^109] Megyei Kormányhivatalok Földművelésügyi Igazgatóságon dolgozó hatósági személy igazolványa;
+## 1.104.[^109] földművelésügyi feladatkörében eljáró megyei kormányhivatalban dolgozó hatósági személy igazolványa;
 
 ## 1.105.[^110] a Mezőgazdasági és Vidékfejlesztési Hivatal által kiadott hatósági ellenőrzésre jogosító igazolvány;
 
@@ -296,7 +296,7 @@
 
 ## 1.116.[^121]
 
-## 1.117.[^122] az Országos Egészségbiztosítási Pénztár, valamint a fővárosi és megyei kormányhivatalok egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szervei ellenőreinek igazolványa;
+## 1.117.[^122] az Országos Egészségbiztosítási Pénztár, valamint az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal ellenőreinek igazolványa;
 
 ## 1.118.[^123] ideiglenes vezetői engedély;
 
@@ -306,7 +306,7 @@
 
 ## 1.121.[^126] esélyegyenlőségi szakértői bizonyítvány;
 
-## 1.122.[^127] az Országos Tisztifőorvosi Hivatalban, valamint a fővárosi és megyei kormányhivatalok megyei népegészségügyi szakigazgatási szerveiben, továbbá járási (fővárosi kerületi) hivatalok járási (fővárosi kerületi) népegészségügyi intézeteiben dolgozó hatósági személy igazolványa;
+## 1.122.[^127] az Országos Tisztifőorvosi Hivatalban, valamint népegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatalban, továbbá a fővárosi és megyei kormányhivatal népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatalában dolgozó hatósági személy igazolványa;
 
 ## 1.123.[^128] a Magyar Honvédség központi adatfeldolgozó szerve által a külföldi fegyveres erők és nemzetközi katonai parancsnokságok részére kiállított igazolás és állományuk tagja részére kiállított igazolvány jogállásukról, kiváltságaik és mentességeik igénybevételére;
 
@@ -433,7 +433,7 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^72]: Az 1. számú melléklet III. rész 1. pont 1.36. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^73]: Az 1. számú melléklet III. rész 1. Személyi és jogosultságot igazoló okmányok pont 1.37. alpontja a 293/2010. (XII. 22.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14. § (2)–(4) bekezdését.
 [^74]: Az 1. számú melléklet III. rész 1. pont 1.38. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 167. § b) pontja szerint módosított szöveg.
-[^75]: Az 1. számú melléklet III. rész 1.45. alpontja a 233/2014. (IX. 18.) Korm. rendelet 11. § (3) bekezdése szerint módosított szöveg.
+[^75]: Az 1. számú melléklet III. rész 1.45. alpontja a 233/2014. (IX. 18.) Korm. rendelet 11. § (3) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^76]: Az 1. számú melléklet III. pont 1.46. alpontja a 276/2011. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^77]: Az 1. számú melléklet III. rész 1. pont 1.47. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 167. § c) pontja szerint módosított szöveg.
 [^78]: Az 1. számú melléklet III. rész 1. pont 1.48. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
@@ -458,16 +458,16 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^97]: Az 1. számú melléklet III. rész 1. pont 1.90. alpontja a 319/2012. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^98]: Az 1. számú melléklet III. rész 1. pont 1.91. alpontját a 145/2011. (VII. 27.) Korm. rendelet 13. § (2) bekezdése hatályon kívül helyezte, újonnan a 319/2012. (XI. 13.) Korm. rendelet 1. §-a iktatta be.
 [^99]: Az 1. számú melléklet III. részének 1.92. pontját a 235/2007. (IX. 4.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^100]: Az 1. számú melléklet III. rész 1. pont 1.93. alpontja a 318/2014. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^100]: Az 1. számú melléklet III. rész 1. pont 1.93. alpontja a 318/2014. (XII. 13.) Korm. rendelet 1. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^101]: Az 1. számú melléklet III. rész 1. pont 1.94. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^102]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^102]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
 [^103]: Az 1. melléklet III. fejezet 1. pont 1.98. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § f) pontjával megállapított szöveg.
 [^104]: Az 1. számú melléklet III. rész 1. pont 1.99. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^105]: Az 1. számú melléklet III. rész 1. pont 1.100. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 23/2012. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^106]: Az 1. számú melléklet III. rész 1. pont 1.101. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^107]: Az 1. számú melléklet III. rész 1. pont 1.102. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^108]: Az 1. számú melléklet III. rész 1. pont 1.103. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^109]: Az 1. számú melléklet III. rész 1. pont 1.104. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^106]: Az 1. számú melléklet III. rész 1. pont 1.101. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^107]: Az 1. számú melléklet III. rész 1. pont 1.102. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
+[^108]: Az 1. számú melléklet III. rész 1. pont 1.103. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 19. § f) pontja szerint módosított szöveg.
+[^109]: Az 1. számú melléklet III. rész 1. pont 1.104. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
 [^110]: Az 1. számú melléklet III. rész 1. pont 1.105. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^111]: Az 1. számú melléklet III. rész 1. pont 1.106. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^112]: Az 1. számú melléklet III. rész 1. pont 1.107. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
@@ -480,12 +480,12 @@ Az e védelmi kategóriába tartozó biztonsági okmányok hamisítása ellen é
 [^119]: Az 1. számú melléklet III. rész 1. pont 1.114. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^120]: Az 1. számú melléklet III. rész 1. pont 1.115. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^121]: Az 1. számú melléklet III. rész 1. pont 1.116. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 276/2011. (XII. 20.) Korm. rendelet 22. § a) pontja.
-[^122]: Az 1. számú melléklet III. rész 1. pont 1.117. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
+[^122]: Az 1. számú melléklet III. rész 1. pont 1.117. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 19. § h) pontja szerint módosított szöveg.
 [^123]: Az 1. számú melléklet III. rész 1. pont 1.118. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^124]: Az 1. számú melléklet III. rész 1. pont 1.119. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^125]: Az 1. számú melléklet III. rész 1. pont 1.120. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^126]: Az 1. számú melléklet III. rész 1. pont 1.121. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
-[^127]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^127]: Az 1. számú melléklet III. rész 1. pont 1.122. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
 [^128]: Az 1. számú melléklet III. rész 1. pont 1.123. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be.
 [^129]: Az 1. számú melléklet III. rész 1. pont 1.124. alpontját a 359/2012. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
 [^130]: Az 1. számú melléklet III. rész 1. pont 1.125. alpontját a 131/2013. (V. 2.) Korm. rendelet 7. § (2) bekezdése iktatta be.
