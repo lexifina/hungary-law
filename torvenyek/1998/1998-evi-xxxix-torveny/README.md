@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-39-00-00
 | 2011-07-22 | 2011. évi XCIII. törvény | 1998-39-00-00.19 |
 | 2012-01-01 | 2011. évi CCI. törvény | 1998-39-00-00.20 |
 | 2014-05-06 | 2012. évi XXXVI. törvény | 1998-39-00-00.21 |
+| 2015-04-01 | 2015. évi VI. törvény | 1998-39-00-00.22 |
