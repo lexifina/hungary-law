@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-79-20-2
 | 2013-01-01 | 2009-79-20-22.5 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2014-01-01 | 2009-79-20-22.6 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-13 | 2009-79-20-22.7 | 229/2014. (IX. 5.) Korm. rendelet |
+| 2015-04-01 | 2009-79-20-22.8 | 72/2015. (III. 30.) Korm. rendelet |
