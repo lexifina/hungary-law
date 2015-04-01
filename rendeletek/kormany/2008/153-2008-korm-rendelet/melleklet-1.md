@@ -1,3 +1,3 @@
-1. melléklet a 153/2008. (VI. 6.) Korm. rendelethez[^4]
+1. melléklet a 153/2008. (VI. 6.) Korm. rendelethez[^5]
 
-[^4]: Az 1. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 215. §-ával megállapított, a 46/2013. (II. 19.) Korm. rendelet 2. §-a, az 527/2013. (XII. 30.) Korm. rendelet 63. § (1) bekezdése szerint módosított szöveg.
+[^5]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 7. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
