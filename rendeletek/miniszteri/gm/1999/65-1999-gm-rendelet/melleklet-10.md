@@ -34,7 +34,7 @@ Feliratok és jelölések a súlyokon
 
 Az E1 és E2 pontossági osztályú súlyok kivételével az 1 g és feletti súlyok névleges értékének a súlyon szerepelnie kell.
 
-A névleges értéket 1 kilogramm alatt grammban, 1 kilogramm esetén és fölötte kilogrammban kell megadni.[^3]
+A névleges értéket 1 kilogramm alatt grammban, 1 kilogramm esetén és fölötte kilogrammban kell megadni.[^4]
 
 A mértékegység jelölése ,,g'' vagy ,,kg''.
 
@@ -54,4 +54,4 @@ A vékony lemez- és huzalsúlyokon nem lehet sem a névleges érték, sem a pon
 
 | Megjegyzés | Az E2-es sú- lyokat meg lehet jelölni egy nem a középpontban elhelyezett ponttal, hogy meg lehessen különböztetni az E1-es súlyoktól. | A szükséges feliratok csiszolással vagy gravírozással készülnek | A feliratok homorúak vagy kidomborodók is lehetnek. A feliratok a hasábsúlyok felső felületére kerülnek. A hengeres súlyokon a feliratok a súly tetejére kerülnek, ill. 500 g-nál és felette a hengerpalástra is kerülhetnek. |
 
-[^3]: Azaz 1 kg és nem 1000 g (M1 esetén), illetve 1 és nem 1000 (F1, F2 esetén).
+[^4]: Azaz 1 kg és nem 1000 g (M1 esetén), illetve 1 és nem 1000 (F1, F2 esetén).
