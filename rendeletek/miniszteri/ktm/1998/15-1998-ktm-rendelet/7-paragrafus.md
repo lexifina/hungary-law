@@ -1,4 +1,4 @@
-## 6. §[^3]
+## 6. §[^4]
 
 ## 7. § Az 1. §-ban megjelölt szervek vezetői felelősek a polgári védelmi feladatok végrehajtásáért és a végrehajtás ellenőrzéséért. Ennek keretében
 
@@ -8,4 +8,4 @@ b) intézkednek az alkalmazottak kollektív védelmi feltételeinek megteremtés
 
 c) kidolgoztatják – a területileg illetékes polgári védelmi szervekkel egyetértésben – a polgári védelmi terveket.
 
-[^3]: A 6. §-t a 24/2001. (XI. 23.) KöM rendelet 1. §-ának (2) bekezdése hatályon kívül helyezte.
+[^4]: A 6. §-t a 24/2001. (XI. 23.) KöM rendelet 1. §-ának (2) bekezdése hatályon kívül helyezte.
