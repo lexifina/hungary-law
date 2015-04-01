@@ -1,6 +1,6 @@
 35. § (1) Az ellátás iránti kérelmet elbíráló szerv
 
-a) a kincstár,
+a) a fővárosi és megyei kormányhivatal,
 
 b) a külön jogszabályban meghatározott családtámogatási kifizetőhely.
 

@@ -2,7 +2,7 @@
 
 ## ADATVÉDELEM
 
-45. § (1) Az igényelbíráló szerv – ideértve a kincstár vezetőjét is a méltányossági jogkörének gyakorlása során – természetes személyről adatokat a családtámogatási ellátások megállapítása, folyósítása és ellenőrzése céljából – TAJ számon – tart nyilván.
+45. § (1) Az igényelbíráló szerv – ideértve a családtámogatási ellátásokkal kapcsolatos fellebbezések elbírálására jogosult hatóság vezetőjét is a méltányossági jogkörének gyakorlása során – természetes személyről adatokat a családtámogatási ellátások megállapítása, folyósítása és ellenőrzése céljából – TAJ számon – tart nyilván.
 
 (2) Az (1) bekezdésben meghatározott célra az alábbi személyes adatok tarthatók nyilván:
 

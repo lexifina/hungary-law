@@ -8,4 +8,4 @@
 
 (2)
 
-(3) A kincstár – a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény szerint az életkezdési támogatás érvényesítése érdekében az állami adóhatóság által átadott természetes személyazonosító és lakcímadatok alapján – a 2007. december 31-e után született gyermek törvényes képviselője részére megküldi a családi pótlék iránti kérelem előterjesztéséhez szükséges nyomtatványokat, valamint az ellátásokról szóló tájékoztatást.
+(3)

@@ -4,7 +4,7 @@
 
 a) az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja az iskoláztatási támogatás jogosultját a b) pontban meghatározott jogkövetkezményre,
 
-b) az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a kincstárnál az ellátás szüneteltetését.
+b) az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a fővárosi és megyei kormányhivatalnál az ellátás szüneteltetését.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a közoktatási intézmény kötelező tanórai foglalkozásai tekintetében
 
@@ -18,7 +18,7 @@ d) szociális intézményben elhelyezett
 
 gyermek mulasztott.
 
-(3) A kincstár a gyámhatóság kezdeményezésére megszünteti az iskoláztatási támogatás szüneteltetését, ha
+(3) A fővárosi és megyei kormányhivatal a gyámhatóság kezdeményezésére megszünteti az iskoláztatási támogatás szüneteltetését, ha
 
 a) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma a Gyvt. 68/A. § (2) bekezdés szerinti felülvizsgálattal érintett időszakban nem haladta meg az ötöt, vagy
 
