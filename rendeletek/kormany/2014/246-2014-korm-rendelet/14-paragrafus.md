@@ -6,7 +6,7 @@ a) a munkahelyi gyűjtőhelyen gyűjtött hulladékot a munkahelyi gyűjtőhelyr
 
 b) a munkahelyi gyűjtőhely üzemeltetője a hulladékgazdálkodási kötelezettségeit másképp nem tudja ellátni;
 
-c) a felügyelőség szakhatóságként vagy saját hatáskörében eljárva a telephelyi jellemzők, a képződött hulladék fajtája, jellege, típusa, továbbá a hulladék elhelyezésének módja alapján azt indokoltnak tartja; valamint
+c)[^3] a telephelyi jellemzők, a képződött hulladék fajtája, jellege, típusa, továbbá a hulladék elhelyezésének módja alapján az indokolt; valamint
 
 d) azt kormányrendelet vagy miniszteri rendelet előírja.
 
@@ -23,3 +23,5 @@ d) azt kormányrendelet vagy miniszteri rendelet előírja.
 (7) Az üzemi gyűjtőhelyet táblával kell jelezni. Az üzemi gyűjtőhelyen – nyílt téri gyűjtés és az üzemi gyűjtőhely területén belüli gépjárművel történő közlekedés esetén – a forgalom irányítására szolgáló közlekedési jelzőtáblákat kell elhelyezni. Ha az üzemi gyűjtőhelyen veszélyes hulladékot gyűjtenek, az üzemi gyűjtőhelyen a hulladék veszélyességére figyelmeztető táblát is el kell helyezni. Valamennyi táblán az üzemi gyűjtőhelyre utaló feliratot, jelzést úgy kell feltüntetni, hogy az mindenki számára jól látható és olvasható legyen.
 
 (8) Ha az üzemi gyűjtőhelyet üzemeltető gazdálkodó szervezet több telephelyet üzemeltet, üzemi gyűjtőhelyet több telephelyen is létesíthet.
+
+[^3]: A 14. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 255. § (1) bekezdésével megállapított szöveg.

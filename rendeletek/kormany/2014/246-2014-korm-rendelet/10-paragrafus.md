@@ -14,7 +14,7 @@ e) az üzemvitellel kapcsolatos rendkívüli események (így különösen betö
 
 f) a hatósági ellenőrzések megállapításai és az ezek hatására tett intézkedések.
 
-(3) A közszolgáltató a hulladékgyűjtő udvar részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. A közszolgáltató az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolja. A hulladékgyűjtő udvar csak az üzemeltetési szabályzatban foglaltak szerint, a környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: felügyelőség) általi jóváhagyását követően üzemeltethető.
+(3)[^1] A közszolgáltató a hulladékgyűjtő udvar részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. A közszolgáltató az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolja. A hulladékgyűjtő udvar csak az üzemeltetési szabályzatban foglaltak szerint, a környezetvédelmi hatóság általi jóváhagyását követően üzemeltethető.
 
 (4) Az üzemeltetési szabályzatban legalább
 
@@ -55,3 +55,5 @@ a lakosságot a hulladékgyűjtő udvar bejáratánál, honlapján és a helyben
 (8) A hulladékgyűjtő udvar nyitvatartását a helyi lakossági igények figyelembevételével úgy kell meghatározni, hogy a hulladékgyűjtő udvar használata hétköznapokon és a hétvége valamelyik napján a lakosság számára biztosított legyen.
 
 (9) Veszélyes hulladék tárolása esetén a hulladékgyűjtő udvar kialakítására és üzemeltetésére a 2. melléklet szerinti műszaki előírásokat is alkalmazni kell.
+
+[^1]: A 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés a) pontja szerint módosított szöveg.

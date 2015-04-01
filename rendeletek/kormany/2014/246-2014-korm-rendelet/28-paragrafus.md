@@ -24,7 +24,7 @@ f) az üzemvitellel kapcsolatos rendkívüli események (így különösen az ü
 
 g) a hatósági ellenőrzések megállapításai és az ezek hatására tett intézkedések.
 
-(7) A válogatómű üzemeltetője a válogatómű részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolva a felügyelőségnek megküldi. A válogatómű csak az üzemeltetési szabályzat felügyelőség általi jóváhagyását követően üzemeltethető.
+(7)[^13] A válogatómű üzemeltetője a válogatómű részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolva a környezetvédelmi hatóságnak megküldi. A válogatómű csak az üzemeltetési szabályzat környezetvédelmi hatóság általi jóváhagyását követően üzemeltethető.
 
 (8) A válogatómű üzemeltetési szabályzatában legalább
 
@@ -55,3 +55,5 @@ vonatkozó előírásokat kell meghatározni.
 (12) A válogatómű területére beszállított hulladék legfeljebb a hulladékgazdálkodási engedélyben meghatározott ideig tárolható.
 
 (13) A válogatómű kialakítására vonatkozó műszaki előírásokat a 3. melléklet tartalmazza.
+
+[^13]: A 28. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) és e) pontja szerint módosított szöveg.

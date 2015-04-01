@@ -16,7 +16,7 @@ e) az üzemvitellel kapcsolatos rendkívüli események (így különösen az ü
 
 f) a hatósági ellenőrzések megállapításai és az ezek hatására tett intézkedések.
 
-(4) A hulladéktároló hely üzemeltetője a hulladéktároló hely részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolja. A hulladéktároló hely csak az üzemeltetési szabályzatban foglaltak szerint, a felügyelőség általi jóváhagyását követően üzemeltethető.
+(4)[^10] A hulladéktároló hely üzemeltetője a hulladéktároló hely részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolja. A hulladéktároló hely csak az üzemeltetési szabályzatban foglaltak szerint, a környezetvédelmi hatóság általi jóváhagyását követően üzemeltethető.
 
 (5) A hulladéktároló hely üzemeltetési szabályzatában legalább
 
@@ -45,3 +45,5 @@ vonatkozó előírásokat kell meghatározni.
 (8) Ha a hulladéktároló helyen veszélyes hulladékot tárolnak, az esetlegesen bekövetkező baleset megelőzésére vagy környezetszennyező hatásainak enyhítésére a hulladéktároló hely üzemeltetője havária-tervet készít.
 
 (9) Veszélyes hulladék tárolása esetén a hulladéktároló hely kialakítására és üzemeltetésére a 2. melléklet szerinti műszaki előírásokat is alkalmazni kell.
+
+[^10]: A 21. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) pontja szerint módosított szöveg.
