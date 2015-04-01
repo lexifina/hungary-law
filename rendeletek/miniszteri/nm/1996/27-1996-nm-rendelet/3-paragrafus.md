@@ -1,6 +1,6 @@
 ## A foglalkozási betegségek és fokozott expozíciók bejelentése
 
-3. §[^7] (1)[^8] Az orvosi tevékenység körében észlelt, a 2. számú mellékletben szereplő foglalkozási betegséget, foglalkozási eredetű heveny vagy idült mérgezést (a továbbiakban: foglalkozási betegség), valamint a külön jogszabályban[^9] meghatározott vegyi anyagok, továbbá zaj okozta fokozott expozíciós esetet a munkáltató telephelye szerint illetékes fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szervének munkavédelmi felügyelőségéhez (a továbbiakban: munkavédelmi felügyelőség) be kell jelenteni, ki kell vizsgálni és elfogadásuk esetén nyilvántartásba kell venni. A munkavédelmi felügyelőség a hozzá érkezett, a foglalkozási betegség gyanújával kapcsolatos bejelentéseket egy munkanapon belül továbbítja a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium).
+3. §[^7] (1)[^8] Az orvosi tevékenység körében észlelt, a 2. számú mellékletben szereplő foglalkozási betegséget, foglalkozási eredetű heveny vagy idült mérgezést (a továbbiakban: foglalkozási betegség), valamint a külön jogszabályban[^9] meghatározott vegyi anyagok, továbbá zaj okozta fokozott expozíciós esetet a munkáltató telephelye szerint illetékes fővárosi és megyei kormányhivatalhoz mint munkavédelmi hatósághoz (a továbbiakban: munkavédelmi hatóság) be kell jelenteni, ki kell vizsgálni és elfogadásuk esetén nyilvántartásba kell venni. A munkavédelmi hatóság a hozzá érkezett, a foglalkozási betegség gyanújával kapcsolatos bejelentéseket egy munkanapon belül továbbítja a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium).
 
 (2) Az (1) bekezdés szerinti bejelentést a 3. számú mellékletben foglaltak figyelembevételével
 
@@ -21,7 +21,7 @@ c) fokozott expozíció esetén az érintett személyt vizsgálatra beküldő fo
 (6)[^12] A tüdőfibrózist okozó porok esetében a diagnózist felállító egészségügyi szolgáltató, illetve az OTH végzi a bejelentést.
 
 [^7]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^8]: A 3. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés a) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés a) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (1) bekezdés a) pontja, a 9/2015. (III. 31.) Korm. rendelet 9. § a) és b) pontja szerint módosított szöveg.
 [^9]: 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet 2. számú melléklete.
 [^10]: A 3. § (4) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés b) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^11]: A 3. § (5) bekezdése a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés c) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.

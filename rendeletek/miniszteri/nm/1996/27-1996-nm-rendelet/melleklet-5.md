@@ -88,7 +88,7 @@
 
 | paraméter | érték | mértékegység | paraméter | érték | mértékegység |
 
-| A munkavédelmi felügyelőség véleménye: |
+| A munkavédelmi hatóság véleménye: |
 
 | A bejelentés: |  |  | 1 – elfogadva |  |
 
@@ -450,6 +450,6 @@
 
 | FEOR kód: (KSH) | Foglalkozások Egységes Osztályozási Rendszere (Korszerűsített jegyzék) FEOR-93 |
 
-5. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^33]
+5. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^39]
 
-[^33]: Az 5. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 5. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg.

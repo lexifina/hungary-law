@@ -298,7 +298,7 @@
 
 | D17 | A munkavégzéssel vagy a munkakörnyezettel kapcsolatos egyéb betegségek |
 
-3. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^29]
+3. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^32]
 
 ## A foglalkozási betegségek és fokozott expozíciós esetek jelentési és nyilvántartási rendje
 
@@ -308,13 +308,13 @@ I. A bejelentés
 
 2. A bejelentés megtörténtét és keltét - a kórisme feltüntetésével - a munkavállalóról vezetett egészségügyi nyilvántartásban rögzíteni kell.
 
-3. A munkavédelmi felügyelőség a bejelentést nyilvántartásba veszi, és erről a bejelentőt 3 napon belül értesíti.
+3.[^33] A munkavédelmi hatóság a bejelentést nyilvántartásba veszi, és erről a bejelentőt 3 napon belül értesíti.
 
-4. Ha a bejelentés nem a foglalkozás-egészségügyi szolgálat orvosától érkezett, a munkavédelmi felügyelőség a bejelentőlap másolatát is megküldi az érintett foglalkozás-egészségügyi szolgálatnak.
+4.[^34] Ha a bejelentés nem a foglalkozás-egészségügyi szolgálat orvosától érkezett, a munkavédelmi hatóság a bejelentőlap másolatát is megküldi az érintett foglalkozás-egészségügyi szolgálatnak.
 
 II. Az esetek nyilvántartása
 
-1. A munkavédelmi felügyelőség a bejelentett foglalkozási betegségekkel, fokozott expozíciós esetekkel kapcsolatos vizsgálati lapokat, jegyzőkönyveket munkáltatók szerint, továbbá e rendelet mellékleteiben foglalt jegyzékek szerint külön-külön az alábbi csoportosításban tartja nyilván:
+1.[^35] A munkavédelmi hatóság a bejelentett foglalkozási betegségekkel, fokozott expozíciós esetekkel kapcsolatos vizsgálati lapokat, jegyzőkönyveket munkáltatók szerint, továbbá e rendelet mellékleteiben foglalt jegyzékek szerint külön-külön az alábbi csoportosításban tartja nyilván:
 
 - a bejelentés dátuma,
 
@@ -330,10 +330,13 @@ II. Az esetek nyilvántartása
 
 - kiváltó ok, munkakörülmény, rendelkezésre álló higiénés adat.
 
-2.[^30] A munkavédelmi felügyelőség a bejelentett foglalkozási betegségekkel, fokozott expozíciós esetekkel kapcsolatos, az 1. pont szerinti csoportosításban nyilvántartott adatokat folyamatosan megküldi az OTH-nak. Az OTH az 5. § (8) bekezdésében leírtak szerint vizsgálja a bejelentés szakmai megalapozottságát, a vizsgálat teljeskörűségét.
+2.[^36] A munkavédelmi hatóság a bejelentett foglalkozási betegségekkel, fokozott expozíciós esetekkel kapcsolatos, az 1. pont szerinti csoportosításban nyilvántartott adatokat folyamatosan megküldi az OTH-nak. Az OTH az 5. § (8) bekezdésében leírtak szerint vizsgálja a bejelentés szakmai megalapozottságát, a vizsgálat teljeskörűségét.
 
-3.[^31] Az OTH az Országos Statisztikai Adatszolgáltatási Program (OSAP) által előírt jelentési rendnek megfelelően évenként országos összesítő jelentést készít.
+3.[^37] Az OTH az Országos Statisztikai Adatszolgáltatási Program (OSAP) által előírt jelentési rendnek megfelelően évenként országos összesítő jelentést készít.
 
-[^29]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (2) bekezdése alapján a 3. számú melléklet szerint nyilvántartásba vett adatokat az ÁNTSZ munkáltató székhelye szerint illetékes városi (fővárosi kerületi) intézete a 2007. május 13. napját követő 30 napon belül átadja az Országos Munkavédelmi és Munkaügyi Felügyelőség munkáltató székhelye szerint illetékes területi munkavédelmi felügyelőségének.
-[^30]: A 3. számú melléklet II. alcím 2. pontja a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés h) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^31]: A 3. számú melléklet II. alcím 3. pontja a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés i) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 3. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított szöveg. E módosító rendelet 22. § (2) bekezdése alapján a 3. számú melléklet szerint nyilvántartásba vett adatokat az ÁNTSZ munkáltató székhelye szerint illetékes városi (fővárosi kerületi) intézete a 2007. május 13. napját követő 30 napon belül átadja az Országos Munkavédelmi és Munkaügyi Felügyelőség munkáltató székhelye szerint illetékes területi munkavédelmi felügyelőségének.
+[^33]: A 3. számú melléklet I. alcím 3. pontja a 9/2015. (III. 31.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^34]: A 3. számú melléklet I. alcím 4. pontja a 9/2015. (III. 31.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^35]: A 3. számú melléklet II. alcím 1. pontja a 9/2015. (III. 31.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^36]: A 3. számú melléklet II. alcím 2. pontja a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés h) pontja, a 9/2015. (III. 31.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^37]: A 3. számú melléklet II. alcím 3. pontja a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés i) pontja, az 55/2014. (XII. 31.) NGM rendelet 2. § (2) bekezdése szerint módosított szöveg.
