@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-102-20-
 | 2013-01-01 | 2011-102-20-22.8 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2014-01-01 | 2011-102-20-22.9 | 509/2013. (XII. 29.) Korm. rendelet |
 | 2015-03-01 | 2011-102-20-22.10 | 24/2015. (II. 20.) Korm. rendelet |
+| 2015-04-01 | 2011-102-20-22.11 | 70/2015. (III. 30.) Korm. rendelet |

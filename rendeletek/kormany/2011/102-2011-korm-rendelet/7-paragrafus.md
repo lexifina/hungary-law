@@ -1,6 +1,6 @@
 ## 4. A jogosultság megállapítása
 
-7. § (1)[^24] A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes megyei, fővárosi kormányhivatal megyei, fővárosi szociális és gyámhivatalánál (a továbbiakban: hivatal) minden év március 31-éig és szeptember 30-áig lehet benyújtani.
+7. § (1)[^26] A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes, szociális hatóságként eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: hivatal) minden év március 31-éig és szeptember 30-áig lehet benyújtani.
 
 (2) A kérelemben fel kell tüntetni
 
@@ -8,7 +8,7 @@ a) a 4. § (1) bekezdésének vagy az 5. § (1) bekezdésének megfelelő pontj�
 
 b) szállítást végző személy esetén a szállítást végző személy természetes személyazonosító adatait.
 
-(3)[^25] A kérelemhez mellékelni kell
+(3)[^27] A kérelemhez mellékelni kell
 
 a) a súlyos mozgáskorlátozottság, illetve egyéb fogyatékosság tényét igazoló,
 
@@ -16,9 +16,9 @@ aa) a Fot. szerinti fogyatékossági támogatás megállapításáról szóló h
 
 ab) az Mr. 3. számú mellékletében meghatározott, hatályos igazolás másolatát, vagy
 
-ac) a szakértői szerv által a közlekedőképesség minősítéséről kiadott, a 2. § a) pont ac) alpontjában meghatározott állapotot igazoló hatályos szakvélemény másolatát, vagy
+ac)[^28] a rehabilitációs szakértői szerv vagy jogelődje által a közlekedőképesség minősítéséről kiadott, a 2. § a) pont ac) alpontjában meghatározott állapotot igazoló hatályos szakvélemény másolatát, vagy
 
-ad) a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat, ha az aa)–ac) alpont szerinti iratok nem állnak rendelkezésre, vagy
+ad)[^29] a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat, ha az aa)–ac) alpont szerinti iratok nem állnak rendelkezésre és a szükséges adatok a hivatal nyilvántartásában sem szerepelnek, vagy
 
 ae) a vakok személyi járadékának megállapításáról szóló hatósági határozat vagy a vakok személyi járadékát kérelmező csökkentlátó nyilvántartó lap másolatát, és
 
@@ -34,13 +34,13 @@ db) b) pontja szerinti esetben a tanulói, képzési jogviszony fennállását i
 
 dc) c) pontja szerinti esetben a kérelmező nyilatkozatát a gyermek egyedülállóként nevelésének tényéről,
 
-dd) d) pontja szerinti esetben a szakértői szervnek vagy jogelődjének a hadigondozásról szóló törvény szerinti hadieredetű fogyatkozás fennállását igazoló szakvéleményét, és
+dd)[^30] d) pontja szerinti esetben a rehabilitációs szakértői szervnek vagy jogelődjének a hadigondozásról szóló törvény szerinti hadieredetű fogyatkozás fennállását igazoló szakvéleményét, és
 
 e) a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő és a szállítást végző személy nyilatkozatát arról, hogy a 6. § (1) bekezdés a) pontja, (1a) bekezdés a) pontja és (2) bekezdése szerint nem részesült ő maga vagy más személy rá tekintettel közlekedési kedvezményben, és
 
 f) a 4. § (1) bekezdés a)–b) pontja szerinti esetben a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy nyilatkozatát arról, hogy a 9. § (1) bekezdés a) pontja szerinti szerződés megkötését vállalja.
 
-(4)[^26] Az 1. § c)–e) pontja szerinti személynek a közlekedési kedvezmény iránti kérelméhez – a (3) bekezdésben meghatározottakon túl – csatolnia kell
+(4)[^31] Az 1. § c)–e) pontja szerinti személynek a közlekedési kedvezmény iránti kérelméhez – a (3) bekezdésben meghatározottakon túl – csatolnia kell
 
 a) a tartózkodási engedély másolatát,
 
@@ -48,11 +48,19 @@ b) a tartózkodás jogcímét igazoló egyéb iratokat,
 
 c) a rokoni kapcsolatot igazoló irat másolatát, amennyiben hozzátartozóként válik jogosulttá az ellátásra.
 
-(5) Ha a kérelmező az érvényes vezetői engedély fénymásolatát, a tanulói, képzési jogviszony fennállását igazoló dokumentumot, a tartózkodási engedély másolatát vagy a (3) bekezdés a) pont aa) alpontja szerinti dokumentumot nem mellékeli a kérelméhez, a hivatal adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
+(5)[^32] Ha a kérelmező nem mellékeli a kérelméhez
 
-(6)[^27] A (3) bekezdés b), c) és d) pontja, valamint a (4) bekezdés szerint igazolandó körülményeknek a kérelem benyújtásának időpontjában kell fennállniuk.
+a) a tartózkodási engedély másolatát, a (3) bekezdés a) pont aa), ab) vagy ac) alpontja szerinti dokumentumot, az 5. § (1) bekezdés a) pontja szerinti esetben a gépjárművezetői alkalmasságot tanúsító szakvélemény fénymásolatát, vagy a 6. § (3) bekezdés d) pontja szerinti esetben a 7. § (3) bekezdés d) pont dd) alpontja szerinti szakvélemény fénymásolatát, a hivatal nyilvántartásában ellenőrzi az adatokat,
 
-[^24]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 84. § (2) bekezdése szerint módosított szöveg.
-[^25]: A 7. § (3) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^26]: A 7. § (4) bekezdés nyitó szövegrésze az 509/2013. (XII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^27]: A 7. § (6) bekezdését a 61/2012. (III. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+b) az érvényes vezetői engedély fénymásolatát vagy a tanulói, képzési jogviszony fennállását igazoló dokumentumot, a hivatal adatszolgáltatási kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
+
+(6)[^33] A (3) bekezdés b), c) és d) pontja, valamint a (4) bekezdés szerint igazolandó körülményeknek a kérelem benyújtásának időpontjában kell fennállniuk.
+
+[^26]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 172. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^27]: A 7. § (3) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^28]: A 7. § (3) bekezdés a) pont ac) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (8) bekezdés d) pontja szerint módosított szöveg.
+[^29]: A 7. § (3) bekezdés a) pont ad) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (1) bekezdésével megállapított szöveg.
+[^30]: A 7. § (3) bekezdés d) pont dd) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (8) bekezdés e) pontja szerint módosított szöveg.
+[^31]: A 7. § (4) bekezdés nyitó szövegrésze az 509/2013. (XII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^32]: A 7. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (2) bekezdésével megállapított szöveg.
+[^33]: A 7. § (6) bekezdését a 61/2012. (III. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.
