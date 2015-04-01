@@ -1,8 +1,8 @@
 ## Vagyoni biztosíték
 
-6. § (1)[^20] A magán-munkaközvetítői tevékenység és a kölcsönzési tevékenység vagyoni biztosíték letétbe helyezése esetén folytatható.
+6. § (1)[^19] A magán-munkaközvetítői tevékenység és a kölcsönzési tevékenység vagyoni biztosíték letétbe helyezése esetén folytatható.
 
-(2)[^21] A vagyoni biztosíték mértéke
+(2)[^20] A vagyoni biztosíték mértéke
 
 a) magán-munkaközvetítői tevékenység folytatása esetén, amennyiben a közvetítés
 
@@ -12,7 +12,7 @@ ab) az Európai Gazdasági Térségről szóló megállapodásban nem részes á
 
 b) kölcsönzési tevékenység folytatása esetén kétmillió forint.
 
-(3)[^22] A vagyoni biztosíték a kérelmező vagy a bejelentő által hitelintézetnél vagy pénzügyi vállalkozásnál (a továbbiakban: pénzügyi intézménynél) lekötött és elkülönítetten kezelt pénzbeli letét.
+(3)[^21] A vagyoni biztosíték a kérelmező vagy a bejelentő által hitelintézetnél vagy pénzügyi vállalkozásnál (a továbbiakban: pénzügyi intézménynél) lekötött és elkülönítetten kezelt pénzbeli letét.
 
 (4) Vagyoni biztosítékként csak olyan letéti szerződés vehető figyelembe, amely az alábbi rendelkezéseket tartalmazza:
 
@@ -20,10 +20,11 @@ a) a letét kizárólag a kölcsönzés, illetve a magán-munkaközvetítés sor
 
 b) a pénzügyi intézmény a letét terhére a munkavállaló vagy a munkát kereső részére az a) pont szerinti kártérítést a kölcsönbeadó, illetve a magán-munkaközvetítő kártérítési kötelezettségét megállapító jogerős bírói ítélet vagy a feleknek a kártérítésre irányuló egyezsége alapján fizet,
 
-c) a letét bármilyen okból való megszűnése esetén a kifizetés összegéről és időpontjáról a pénzügyi intézmény a kölcsönbeadót, illetve a magán-munkaközvetítőt nyilvántartó munkaügyi központot, továbbá a kölcsönbeadót, illetve magán-munkaközvetítőt a kifizetéstől számított három munkanapon belül írásban tájékoztatja.
+c)[^22] a letét bármilyen okból való megszűnése esetén a kifizetés összegéről és időpontjáról a pénzügyi intézmény a kölcsönbeadót, illetve a magán-munkaközvetítőt nyilvántartó kormányhivatalt, továbbá a kölcsönbeadót, illetve magán-munkaközvetítőt a kifizetéstől számított három munkanapon belül írásban tájékoztatja.
 
 (5) Ha a magán-munkaközvetítő munkaerő-kölcsönzést is végez, a biztosítékok összegét külön kell letétbe helyezni. Az egyes tevékenységekhez kapcsolódó kártérítési igények kielégítése tekintetében kifizetés a kölcsönzés, illetve a magán-munkaközvetítés érdekében elhelyezett letét mértékéig, tevékenységenként külön-külön kell teljesíteni.
 
-[^20]: A 6. § (1) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^21]: A 6. § (2) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
-[^22]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 232. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: A 6. § (1) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^20]: A 6. § (2) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
+[^21]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 232. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 6. § (4) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés f) pontja szerint módosított szöveg.
