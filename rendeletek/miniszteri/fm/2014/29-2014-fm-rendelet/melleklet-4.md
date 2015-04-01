@@ -1,4 +1,4 @@
-4. melléklet a 29/2014. (XI. 28.) FM rendelethez
+4. melléklet a 29/2014. (XI. 28.) FM rendelethez[^25]
 
 ## Légszennyező anyagok kibocsátási határértékei hulladék hulladék-együttégető művek esetében
 
@@ -64,7 +64,7 @@
 
 |  | 9. | Dioxinok és furánok | 0,1 |
 
-2.4.1 A felügyelőség 2016. január 1-jéig a Lepol-kemencék és a hosszú forgókemencék esetében, a NOx tekintetében legfeljebb 800 mg/Nm3 teljes kibocsátási határértéket ír elő.
+2.4.1 A környezetvédelmi hatóság 2016. január 1-jéig a Lepol-kemencék és a hosszú forgókemencék esetében, a NOx tekintetében legfeljebb 800 mg/Nm3 teljes kibocsátási határértéket ír elő.
 
 2.5 C: összkibocsátási határértékek SO2-re és TOC-ra
 
@@ -261,3 +261,5 @@ A szén-monoxidra vonatkozó kibocsátási határértéket a környezetvédelmi 
 | 2. | Cd + Tl | 0,05 |
 
 | 3. | Hg | 0,05 |
+
+[^25]: A 4. melléklet a 15/2015. (III. 31.) FM rendelet 36. § v) pontja szerint módosított szöveg.

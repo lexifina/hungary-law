@@ -18,6 +18,9 @@ d) a hulladék kezelésével kapcsolatos elővigyázatossági intézkedéseknek.
 
 a) a veszélyes hulladékkal kapcsolatos tevékenységek részletes szabályairól szóló kormányrendeletben előírt, és a veszélyes áruk szállításáról szóló rendelkezések által megkövetelt dokumentáció ellenőrzése; és
 
-b) reprezentatív minta vétele – fertőző kórházi hulladék kivételével – kirakodás előtt, amely alkalmasak arra, hogy a (3) bekezdésben meghatározottak szerint megadott adatok megfelelőségét igazolja, és a felügyelőség megállapíthassa a kezelt hulladék összetételét, fizikai és kémiai jellemzőit, tulajdonságait; a mintát az égetést követően legalább 6 hónapig meg kell őrizni.
+b)[^5] reprezentatív minta vétele – fertőző kórházi hulladék kivételével – kirakodás előtt, amely alkalmasak arra, hogy a (3) bekezdésben meghatározottak szerint megadott adatok megfelelőségét igazolja, és a környezetvédelmi hatóság megállapíthassa a kezelt hulladék összetételét, fizikai és kémiai jellemzőit, tulajdonságait; a mintát az égetést követően legalább 6 hónapig meg kell őrizni.
 
-(5) A felügyelőség mellőzi a (2)–(4) bekezdésben foglaltak érvényesítését az olyan hulladékégető és hulladék-együttégető mű esetében, amely a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 2. mellékletének hatálya alá tartozó létesítmény részét képezi, és kizárólag a létesítményben képződött hulladék égetését végzi.
+(5)[^6] A környezetvédelmi hatóság mellőzi a (2)–(4) bekezdésben foglaltak érvényesítését az olyan hulladékégető és hulladék-együttégető mű esetében, amely a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 2. mellékletének hatálya alá tartozó létesítmény részét képezi, és kizárólag a létesítményben képződött hulladék égetését végzi.
+
+[^5]: A 13. § (4) bekezdés b) pontja a 15/2015. (III. 31.) FM rendelet 36. § f) pontja szerint módosított szöveg.
+[^6]: A 13. § (5) bekezdése a 15/2015. (III. 31.) FM rendelet 36. § f) pontja szerint módosított szöveg.

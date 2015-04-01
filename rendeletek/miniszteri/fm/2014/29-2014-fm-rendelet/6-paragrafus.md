@@ -2,7 +2,7 @@
 
 ## 4. Az engedélyezésre vonatkozó sajátos szabályok
 
-6. § (1) A hulladékégető vagy hulladék-együttégető műre vonatkozó, a környezetvédelmi, és természetvédelmi felügyelőségekhez (a továbbiakban: felügyelőség) benyújtott környezetvédelmi engedély, egységes környezethasználati engedély, illetve levegővédelmi engedély (a továbbiakban együtt: engedély) iránti kérelemnek tartalmaznia kell az alábbi követelmények teljesülését:
+6. § (1)[^1] A hulladékégető vagy hulladék-együttégető műre vonatkozó, a környezetvédelmi, és természetvédelmi hatósághoz (a továbbiakban együtt: környezetvédelmi hatóság) benyújtott környezetvédelmi engedély, egységes környezethasználati engedély, illetve levegővédelmi engedély (a továbbiakban együtt: engedély) iránti kérelemnek tartalmaznia kell az alábbi követelmények teljesülését:
 
 a) a hulladékégető vagy hulladék-együttégető mű tervezése, kialakítása, üzemeltetése és karbantartása kielégíti e rendelet követelményeit, figyelembe véve az égetendő vagy együttégetendő hulladék fajtáját, összetételét, fizikai és kémiai jellemzőit;
 
@@ -19,3 +19,5 @@ f) a levegőbe történő kibocsátások meghatározására tervezett mérési m
 (2) Hulladékégető vagy hulladék-együttégető mű létesítésekor, vagy az I. kategóriájú hulladékégető mű, továbbá hulladék-együttégető mű olyan átalakítása, korszerűsítése esetén, amikor a névleges teljesítmény vagy a füstgáztisztító egység leválasztási hatásfoka módosul, a hulladékégető vagy hulladék-együttégető mű engedélyezésének feltétele az eredményes próbaüzem lefolytatása.
 
 (3) Az engedélykérelmet a tartalmi követelményeknek megfelelő részszakterületeken – a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján – szakértői jogosultsággal rendelkező szakértő készíti el.
+
+[^1]: A 6. § (1) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 36. § a) pontja szerint módosított szöveg.
