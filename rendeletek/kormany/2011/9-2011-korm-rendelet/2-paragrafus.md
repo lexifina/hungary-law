@@ -30,7 +30,7 @@
 
 14.[^13] igazgatási, valamint egyéb kötelező feladatok ellátását szolgáló intézmény: önkormányzati, államigazgatási feladat ellátását végző intézmény, különösen a polgármesteri hivatal, fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala.
 
-15.[^14] katasztrófavédelmi szúnyoggyérítés: a Kormány által kihirdetett veszélyhelyzet időszakában ár- és belvíz által sújtott területet érintő védekezéshez kapcsolódó, a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve által – az Országos Tisztifőorvosi Hivatal engedélye alapján – jóváhagyott, légi úton, belterületen az adott költségvetési évben végzett szúnyoggyérítés.
+15.[^14] katasztrófavédelmi szúnyoggyérítés: a Kormány által kihirdetett veszélyhelyzet időszakában ár- és belvíz által sújtott területet érintő védekezéshez kapcsolódó, a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által – az Országos Tisztifőorvosi Hivatal engedélye alapján – jóváhagyott, légi úton, belterületen az adott költségvetési évben végzett szúnyoggyérítés.
 
 [^6]: A 2. § 1. pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
 [^7]: A 2. § 3. pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
@@ -40,4 +40,4 @@
 [^11]: A 2. § 11. pontját a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 129/2014. (IV. 10.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^12]: A 2. § 12. pontját a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.
 [^13]: A 2. § 14. pontja a 174/2012. (VII. 26.) Korm. rendelet 82. §-a, a 92/2013. (III. 28.) Korm. rendelet 11. § 6. pontja szerint módosított szöveg.
-[^14]: A 2. § 15. pontját a 92/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be.
+[^14]: A 2. § 15. pontját a 92/2013. (III. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 169. § (1) bekezdés a) pontja szerint módosított szöveg.

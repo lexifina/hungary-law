@@ -158,7 +158,7 @@
 
 | P. H. ............................................... | P. H. ............................................... |
 
-| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala részéről |  |
+| Közlekedésfejlesztési Koordinációs Központ részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi és örökségvédelmi feladatkörében) |  |
 
 | Beosztás: |  | Beosztás: |  |
 
@@ -210,6 +210,6 @@
 
 | 17 | Intézkedési javaslat: |  |
 
-9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^123]
+9. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^126]
 
-[^123]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 10. § b) pontjával megállapított, a Magyar Közlöny 2014. évi 54. számában megjelent helyesbítésnek megfelelő szöveg.
+[^126]: A 9. mellékletet a 92/2013. (III. 28.) Korm. rendelet 10. §-a iktatta be, szövege a 129/2014. (IV. 10.) Korm. rendelet 10. § b) pontjával megállapított szöveg, a Magyar Közlöny 2014. évi 54. számában megjelent helyesbítésnek megfelelő szöveg.

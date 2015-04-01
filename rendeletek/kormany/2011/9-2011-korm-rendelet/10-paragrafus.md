@@ -1,9 +1,9 @@
-10. § (1)–(2)[^110]
+10. § (1)–(2)[^113]
 
-(3)[^111] Amennyiben az 5. § (2) bekezdésének c) pontja szerinti magasabb mértékű támogatás igénylése esetén az önkormányzatnak a pályázat benyújtásakor nem áll rendelkezésére az adott évi költségvetéséről szóló önkormányzati rendelet akkor annak elfogadását követő 10 napon belül azt pótlólagosan be kell nyújtania a Kincstárnak.
+(3)[^114] Amennyiben az 5. § (2) bekezdésének c) pontja szerinti magasabb mértékű támogatás igénylése esetén az önkormányzatnak a pályázat benyújtásakor nem áll rendelkezésére az adott évi költségvetéséről szóló önkormányzati rendelet akkor annak elfogadását követő 10 napon belül azt pótlólagosan be kell nyújtania a Kincstárnak.
 
-(4)[^112]
+(4)[^115]
 
-[^110]: A 10. § (1)–(2) bekezdését a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^111]: A 10. § (3) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 12. § 26. pontja, a 221/2014. (IX. 4.) Korm. rendelet 538. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^112]: A 10. § (4) bekezdését a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^113]: A 10. § (1)–(2) bekezdését a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^114]: A 10. § (3) bekezdése a 129/2014. (IV. 10.) Korm. rendelet 12. § 26. pontja, a 221/2014. (IX. 4.) Korm. rendelet 538. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^115]: A 10. § (4) bekezdését a 92/2013. (III. 28.) Korm. rendelet 12. § (1) bekezdés e) pontja hatályon kívül helyezte.

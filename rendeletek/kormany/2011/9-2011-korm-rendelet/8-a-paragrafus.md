@@ -1,4 +1,4 @@
-8/A. §[^106] (1) A helyi önkormányzat a 2/A. § (1) bekezdés a) pontja szerinti támogatáshoz kapcsolódó támogatási előleggel a pályázat benyújtásával, a 2/A. § (1) bekezdés b) pontja szerinti támogatáshoz kapcsolódó támogatási előleggel a támogatás első teljesítésarányos lehívásával számol el.
+8/A. §[^109] (1) A helyi önkormányzat a 2/A. § (1) bekezdés a) pontja szerinti támogatáshoz kapcsolódó támogatási előleggel a pályázat benyújtásával, a 2/A. § (1) bekezdés b) pontja szerinti támogatáshoz kapcsolódó támogatási előleggel a támogatás első teljesítésarányos lehívásával számol el.
 
 (2) A kincstár az elszámolás benyújtására vonatkozó határidő lejártát megelőző 30 napon belül írásban felszólítja a Támogatottat az elszámolás határidőben történő benyújtására. A határidőben benyújtott és tartalmilag hiányos elszámolás hiányosságainak pótlására a kincstár az elszámolás benyújtását vagy helyreállítás esetében a helyszíni ellenőrzést végző bizottság értesítését követő 10 napon belül – határidő kitűzésével – írásban hívja fel a Támogatottat.
 
@@ -38,4 +38,4 @@ eb) a d) pont dc) alpontja szerinti kamat, a d) pont df) alpontja szerinti jogor
 
 (7) A jogosulatlanul igénybe vett támogatás visszafizetésének elmulasztása – kivéve a (6) bekezdésben szabályozott részletfizetési kedvezmény nyújtása – esetén a visszafizetési határidőt követő tizenöt napon belül a kincstár a Támogatott fizetési számlája ellen beszedési megbízást nyújt be.
 
-[^106]: A 8/A. §-t a 92/2013. (III. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^109]: A 8/A. §-t a 92/2013. (III. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 397/2014. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
