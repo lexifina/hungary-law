@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2014-12-20 | 2014. évi LXXV. törvény | 1991-49-00-00.92 |
 | 2014-12-30 | 2014. évi XCIX. törvény | 1991-49-00-00.93 |
 | 2015-01-02 | 2014. évi LXXIII. törvény | 1991-49-00-00.94 |
+| 2015-04-01 | 2015. évi VI. törvény | 1991-49-00-00.95 |
