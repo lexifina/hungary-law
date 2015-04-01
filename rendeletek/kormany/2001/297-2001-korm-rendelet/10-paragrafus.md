@@ -24,7 +24,7 @@ g) a 11. §-ban megjelölt technikai eszköz
 
 ## megléte esetén végezhető.
 
-(2)[^22] A pénzváltási tevékenységet közvetítő az (1) bekezdés a) pontjában említett feltétel meglétét az ingatlanra vonatkozó tulajdonjog és az ingatlan-nyilvántartásba bejegyezhető más, használati jog esetében a földhivatal által kiállított tulajdoni lappal, bérleti jog esetén bérleti szerződéssel köteles igazolni. Ha a kérelmező – ide nem értve a bérleti jogot – az adatokat nem mellékeli, az MNB adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz.
+(2)[^22] A pénzváltási tevékenységet közvetítő az (1) bekezdés a) pontjában említett feltétel meglétét az ingatlanra vonatkozó tulajdonjog és az ingatlan-nyilvántartásba bejegyezhető más, használati jog esetében az ingatlanügyi hatóságként eljáró járási (fővárosi kerületi) hivatal által kiállított tulajdoni lappal, bérleti jog esetén bérleti szerződéssel köteles igazolni. Ha a kérelmező – ide nem értve a bérleti jogot – az adatokat nem mellékeli, az MNB adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz.
 
 (3)[^23] A pénzváltási tevékenységet közvetítőnek az (1) bekezdés d) pontjában említett feltétel meglétét valamelyik távközlési szolgáltatóval kötött szolgáltatási szerződéssel köteles igazolni.
 
@@ -38,7 +38,7 @@ g) a 11. §-ban megjelölt technikai eszköz
 
 [^20]: A 9. § a 182/2009. (IX. 10.) Korm. rendelet 259. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni. A 9. § a 345/2013. (IX. 30.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
 [^21]: A 10. § (1) bekezdés d) pontja az 537/2013. (XII. 30.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^22]: A 10. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított és a 345/2013. (IX. 30.) Korm. rendelet 34. § c) pontja szerint módosított szöveg.
+[^22]: A 10. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított és a 345/2013. (IX. 30.) Korm. rendelet 34. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 53. §-a szerint módosított szöveg.
 [^23]: A 10. § (3) bekezdése a 80/2010. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^24]: A 10. § (5) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
 [^25]: A 10. § (6) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 34. § c) pontja szerint módosított szöveg.
