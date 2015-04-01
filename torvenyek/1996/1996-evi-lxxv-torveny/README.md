@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-75-00-00
 | 2014-01-01 | 2013. évi XCIII. törvény | 1996-75-00-00.43 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 1996-75-00-00.44 |
 | 2015-01-01 | 2014. évi LXXII. törvény | 1996-75-00-00.45 |
+| 2015-04-01 | 2015. évi VIII. törvény | 1996-75-00-00.46 |

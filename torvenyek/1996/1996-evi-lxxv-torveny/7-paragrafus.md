@@ -22,4 +22,4 @@ b) jogellenes állapot fenntartása esetén az a nap, amikor ez az állapot megs
 
 (7) A munkaügyi bírság összegének megállapításánál figyelembe kell venni különösen a jogszabály megsértésével okozott jogellenes állapot időtartamát, az okozott hátrány nagyságát, a megsértett jogszabályi előírások számát és hatását, az érintett munkavállalók számát, továbbá a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94/A. § (1) bekezdésében meghatározott körülményeket.
 
-(8) A 6. § (1) bekezdés b), g), h) és j) pontjában meghatározott jogkövetkezmény, valamint munkaügyi bírság egyidejű alkalmazása esetén a határozatokat egybe kell foglalni.
+(8) A 6. § (1) bekezdés b), e), f) és h) pontjában meghatározott jogkövetkezmény, valamint munkaügyi bírság egyidejű alkalmazása esetén egy határozatot kell hozni.

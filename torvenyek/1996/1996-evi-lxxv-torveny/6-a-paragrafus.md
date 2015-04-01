@@ -1,4 +1,4 @@
-6/A. § (1) A felügyelő köteles javaslatot tenni munkaügyi bírság kiszabására, valamint a munkaügyi bírság kiszabása nem mellőzhető, ha a foglalkoztató
+6/A. § (1) Munkaügyi bírság kiszabása nem mellőzhető, ha a foglalkoztató
 
 a) a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre (ideértve a gyermekmunka tilalmát is) vonatkozó rendelkezéseket megsértette,
 
@@ -10,7 +10,7 @@ d) hatósági nyilvántartásba vétel hiányában folytat munkaerő-kölcsönz�
 
 (2) Nem szabható ki munkaügyi bírság, ha
 
-a) a foglalkoztató a munkaviszony létesítésének vagy megszűnésének (megszüntetésének) bejelentésére vonatkozó kötelezettségét a munkaügyi ellenőrzés megkezdéséig a tényleges foglalkoztatás teljes időtartamára vonatkozóan teljesítette,
+a) a foglalkoztató a munkaviszony létesítésének vagy megszűnésének (megszüntetésének) bejelentésére vonatkozó kötelezettségét a hatósági ellenőrzés megkezdéséig a tényleges foglalkoztatás teljes időtartamára vonatkozóan teljesítette,
 
 b) a munkaviszony létesítésének vagy megszűnésének (megszüntetésének) bejelentésére vonatkozó kötelezettséget külön jogszabály szerint a foglalkoztató helyett más teljesíti, és a foglalkoztató a bejelentés határidőben történő teljesítéséhez szükséges adatokat a munkaügyi ellenőrzés megkezdéséig teljes körűen átadta, vagy
 

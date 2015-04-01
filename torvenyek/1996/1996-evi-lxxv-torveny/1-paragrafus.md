@@ -26,7 +26,7 @@ d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közre
 
 e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
 
-(5) A felügyelő jogosult hatósági ellenőrzés során megállapított tényállás alapján a foglalkoztató és a részére munkát végző személy közötti, illetve a munkavállalónak munkavégzés céljából történő átengedése alapjául szolgáló jogviszony, valamint a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére. Ehhez a foglalkoztatónak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka a (4) bekezdés szerinti jogviszonyok alapján, vagy ellenérték nélkül történt.
+(5) A munkaügyi hatóság jogosult hatósági ellenőrzés során megállapított tényállás alapján a foglalkoztató és a részére munkát végző személy közötti, illetve a munkavállalónak munkavégzés céljából történő átengedése alapjául szolgáló jogviszony, valamint a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére. Ehhez a foglalkoztatónak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka a (4) bekezdés szerinti jogviszonyok alapján, vagy ellenérték nélkül történt.
 
 (6) Olyan munkahelyen, ahol különböző foglalkoztatók alkalmazásában álló munkavállalókat egyidejűleg foglalkoztatnak, és a munkaügyi ellenőrzés eredményeként valamely foglalkoztató személye nem állapítható meg, az (5) bekezdés vonatkozásában – az ellenkező bizonyításáig – vélelmezni kell, hogy az érintett munkavállalók foglalkoztatója az, aki a tevékenységet a munkahelyen ténylegesen irányítja.
 

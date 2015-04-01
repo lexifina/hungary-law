@@ -1,1 +1,1 @@
-4/A. § A munkaügyi felügyelő hatósági ellenőrzést erre jogosító igazolvány birtokában végezhet. Az igazolvány tartalmazza a felügyelő nevét, az igazolvány sorszámát, és a munkaügyi hatóság illetékes szervének megnevezését.
+4/A. § A munkaügyi hatóság kormánytisztviselője hatósági ellenőrzést erre jogosító igazolvány birtokában végezhet. Az igazolvány tartalmazza a munkaügyi hatóság kormánytisztviselőjének nevét, az igazolvány sorszámát és az eljárásra illetékes munkaügyi hatóság megnevezését.

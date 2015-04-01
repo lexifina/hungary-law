@@ -20,9 +20,11 @@ is érteni kell.
 
 (5a) Felhatalmazást kap a Kormány, hogy a büntetés-végrehajtási intézetekben fogvatartottak tekintetében rendeletben jelölje ki a munkaügyi hatósági jogkör gyakorlóját.
 
+(5b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a munkaügyi hatósági jogkör gyakorlóját a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél és ideiglenes építési munkahelynél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter (a továbbiakban együtt: honvédelmi foglalkoztatók).
+
 (6) Felhatalmazást kap
 
-a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelynél, illetve ideiglenes építési munkahelynél, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter,
+a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honvédelmi foglalkoztatók tekintetében a munkaügyi ellenőrzés eljárási, valamint a 3. § és a 6. § alkalmazásának eltérő szabályait,
 
 b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál,
 

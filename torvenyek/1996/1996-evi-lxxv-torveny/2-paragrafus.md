@@ -1,4 +1,4 @@
-2. § (1) A munkaügyi ellenőrzést – az e törvényben foglalt kivételekkel – a munkaügyi hatóság munkaügyi felügyelői (a továbbiakban: felügyelő) látják el.
+2. § (1) A munkaügyi ellenőrzést – az e törvényben foglalt kivételekkel – a munkaügyi hatóság látja el.
 
 (2) A bányászatról szóló 1993. évi XLVIII. törvény hatálya alá tartozó bányavállalkozók és bányaüzemek, illetve a bányafelügyelet felügyelete alá tartozó tevékenységek munkaügyi ellenőrzését a bányafelügyelet végzi.
 
