@@ -54,7 +54,7 @@ b)[^18] személytaxinként a szállítható utasok száma alapján 25 ezer Ft ö
 
 a)[^24] az engedélyezett tevékenységet tartósan – legalább egy éven át – nem gyakorolja, anélkül, hogy a szünetelést a közlekedési hatóságnál megfelelő indokkal a taxi-rendszámtábla egyidejű letétbe helyezése mellett bejelentette volna,
 
-b)[^25] a jogszabályban meghatározott szakmai követelményeket megsértette – így különösen ha a hatósági árat túllépte, az árat nem tüntette fel, a nyugtaadási kötelezettségét megszegte, a viteldíjkészüléket szabálytalanul működtette, illetve az utasokat más módon megkárosította, a taxiállomás használatára vonatkozó szabályokat megszegte, és emiatt a visszavonásra a működési terület szerint illetékes települési önkormányzat jegyzője (a fővárosban a Fővárosi Önkormányzat jegyzője), a Nemzeti Fogyasztóvédelmi Hatóság, a közlekedési hatóság vagy az illetékes érdekképviseleti szerv megfelelően alátámasztott javaslatot tett.
+b)[^25] a jogszabályban meghatározott szakmai követelményeket megsértette – így különösen ha a hatósági árat túllépte, az árat nem tüntette fel, a nyugtaadási kötelezettségét megszegte, a viteldíjkészüléket szabálytalanul működtette, illetve az utasokat más módon megkárosította, a taxiállomás használatára vonatkozó szabályokat megszegte, és emiatt a visszavonásra a működési terület szerint illetékes települési önkormányzat jegyzője (a fővárosban a Fővárosi Önkormányzat jegyzője), a fogyasztóvédelmi hatóság, a közlekedési hatóság vagy az illetékes érdekképviseleti szerv megfelelően alátámasztott javaslatot tett.
 
 (14)[^26] A közlekedési hatóság a vállalkozás valamennyi taxiengedélyét
 
@@ -82,6 +82,6 @@ b) legalább 3 hónapra, de legfeljebb 5 évre visszavonhatja a (13) bekezdés b
 [^22]: Az 5/A. § (12) bekezdése a 128/2000. (VII. 11.) Korm. rendelet 6. §-ának (3) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 2. § c), f) és h) pontja szerint módosított szöveg.
 [^23]: Az 5/A. § (13) bekezdése a 128/2000. (VII. 11.) Korm. rendelet 6. §-ának (4) bekezdésével megállapított, myitó szövegrészer a 351/2010. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^24]: Az 5/A. § (13) bekezdésének a) pontja a 351/2010. (XII. 30.) Korm. rendelet 2. § f) pontja szerint módosított szöveg.
-[^25]: Az 5/A. § (13) bekezdésének b) pontja a 168/2007. (VI. 28.) Korm. rendelet 1. § (1) bekezdése, a 226/2007. (VIII. 31.) Korm. rendelet 6. § a) pontjának aa) alpontja, a 351/2010. (XII. 30.) Korm. rendelet 2. § i) pontja szerint módosított szöveg.
+[^25]: Az 5/A. § (13) bekezdésének b) pontja a 168/2007. (VI. 28.) Korm. rendelet 1. § (1) bekezdése, a 226/2007. (VIII. 31.) Korm. rendelet 6. § a) pontjának aa) alpontja, a 351/2010. (XII. 30.) Korm. rendelet 2. § i) pontja, a 70/2015. (III. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^26]: Az 5/A. § (14) bekezdésének bevezető mondata a 128/2000. (VII. 11.) Korm. rendelet 6. §-ának (5) bekezdésével megállapított, a 351/2010. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^27]: Az 5/A. § (16) bekezdését a 128/2000. (VII. 11.) Korm. rendelet 6. § (6) bekezdése iktatta be, hatályon kívül helyezte a 101/2009. (V. 8.) Korm. rendelet 9. § (2) bekezdése.
