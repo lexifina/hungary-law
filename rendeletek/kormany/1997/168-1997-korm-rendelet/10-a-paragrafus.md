@@ -1,3 +1,3 @@
-10/A. §[^22]
+10/A. §[^23]
 
-[^22]: A 10/A. §-t a 248/2003. (XII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 333/2011. (XII. 29.) Korm. rendelet 29. § e) pontja.
+[^23]: A 10/A. §-t a 248/2003. (XII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 333/2011. (XII. 29.) Korm. rendelet 29. § e) pontja.

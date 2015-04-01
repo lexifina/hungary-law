@@ -10,7 +10,8 @@ ac) az ügyfél szolgálati viszonyban áll fegyveres szervvel, a Magyar Honvéd
 
 ad) az ügyfél korábban szolgálati viszonyban állt valamelyik nemzetbiztonsági szolgálattal;
 
-b) az a) pontban nem említett esetben az ügyfél lakóhelye szerint illetékes nyugdíjbiztosítási igazgatóság jár el első fokon.
+b)[^15] az a) pontban nem említett esetben az ügyfél lakóhelye szerint illetékes általános hatáskörű nyugdíj-megállapító szerv jár el első fokon.
 
 [^13]: A 3. §-t újonnan a 425/2012. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^14]: A 3. § a) pontja az 500/2013. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: A 3. § b) pontja a 70/2015. (III. 30.) Korm. rendelet 26. § (8) bekezdés a) pontja szerint módosított szöveg.

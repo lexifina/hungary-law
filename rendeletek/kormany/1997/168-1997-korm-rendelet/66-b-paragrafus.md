@@ -1,7 +1,3 @@
-66/B. §[^147] (1)[^148]
+66/B. §[^147] A nyugdíjbiztosítási igazgatási szervek a nyugellátások és a hatáskörükbe tartozó más ellátások megállapítása és folyósítása, az egyeztetési eljárás, valamint az e rendelet szerinti más eljárások során az ONYF főigazgatója által jóváhagyott központi szakmai informatikai rendszert kötelesek használni.
 
-(2)[^149]
-
-[^147]: A 66/B. §-t a 229/2000. (XII. 23.) Korm. rendelet 10. §-a iktatta a szövegbe.
-[^148]: A 66/B. § (1) bekezdését a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^149]: A 66/B. § (2) bekezdését a 91/2013. (III. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^147]: A 66/B. §-t a 229/2000. (XII. 23.) Korm. rendelet 10. §-a iktatta be, az (1) bekezdését a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte, a (2) bekezdését a 91/2013. (III. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte, újonnan a 66/b. §-t a 70/2015. (III. 30.) Korm. rendelet 26. § (4) bekezdése iktatta be.

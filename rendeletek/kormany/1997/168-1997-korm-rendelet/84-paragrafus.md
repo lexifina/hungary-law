@@ -1,5 +1,5 @@
 ## A jogorvoslat
 
-84. §[^275]
+84. §[^274]
 
-[^275]: A 84. §-t a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^274]: A 84. §-t a 219/2005. (X. 13.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
