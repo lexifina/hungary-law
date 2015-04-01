@@ -6,12 +6,12 @@ a) a biztosítók éves beszámolókészítési és könyvvezetési kötelezetts
 
 b) a 105. § (1) bekezdésében, illetve más törvényben előírt biztosítási szerződéskötési kötelezettségekkel kapcsolatos részletes szabályokat,
 
-c)
+c) a biztosítók és a viszontbiztosítók szavatolótőkéjére és biztosítástechnikai tartalékaira vonatkozó részletes szabályokat,
 
 d) a független biztosításközvetítői és biztosítási szaktanácsadói felelősségbiztosítási szerződés minimális tartalmi követelményeit,
 
-e)
+e) a különleges célú gazdasági egységek létrehozására és működésére vonatkozó részletes szabályokat,
 
-f)
+f) a 231/J. §-ban meghatározott, a csoportfelügyelettel kapcsolatos átmeneti felügyeleti feladatokra vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
