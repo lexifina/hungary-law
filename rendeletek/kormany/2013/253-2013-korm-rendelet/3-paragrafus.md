@@ -10,7 +10,7 @@ c) a Bevándorlási és Állampolgársági Hivatal,
 
 d) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság,
 
-e) a megyei és fővárosi kormányhivatalok, valamint azok járási és fővárosi kerületi hivatalai és szakigazgatási szervei,
+e)[^1] a megyei és fővárosi kormányhivatalok, valamint azok járási és fővárosi kerületi hivatalai,
 
 f) a Nemzeti Élelmiszerlánc-biztonsági Hivatal,
 
@@ -29,3 +29,5 @@ k) a Magyar Honvédség Közegészségügyi-járványügyi Szolgálat.
 (3) A NER végrehajtásában részt vevő (1) bekezdés szerinti, valamint a NER végrehajtásában közvetve részt vevő más hatóságok és szervezetek – a hatáskörükbe tartozó események tekintetében – minden a NER-ben foglalt bejelentési, információs és együttműködési kötelezettségnek a Nemzeti NER Tájékoztatási Központon keresztül tesznek eleget.
 
 (4) A NER szerinti feladatok végrehajtásában az (1) bekezdés a) vagy e) pontja szerinti szerv megkeresésére az (1) bekezdés szerinti szervek – különösen az (1) bekezdés d), h) és j) pontja szerinti szervek – területi szervei is részt vesznek.
+
+[^1]: A 3. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 227. § a) pontja szerint módosított szöveg.
