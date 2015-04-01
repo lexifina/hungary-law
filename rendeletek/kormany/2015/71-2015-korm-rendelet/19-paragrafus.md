@@ -1,0 +1,1 @@
+## 18. § Ha a természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek kereskedelmi célú begyűjtésére vonatkozó tevékenység engedélyezése több kormányhivatal illetékességi területéhez tartozik, az engedélyező hatóság az OKTF.

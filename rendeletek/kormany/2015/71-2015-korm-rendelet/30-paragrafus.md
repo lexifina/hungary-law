@@ -1,0 +1,5 @@
+30. § (1) A környezetvédelmi hatáskörében eljáró kormányhivatal elsőfokon a 7. melléklet I. táblázatában meghatározott szakkérdéseket is vizsgálja, ha a 7. melléklet I. táblázata szerinti hulladékgazdálkodással összefüggő eljárásokban a 7. melléklet I. táblázatában megjelölt feltételek fennállnak.
+
+(2) A 7. melléklet I. táblázata szerinti hulladékgazdálkodással összefüggő eljárásokban, ha elsőfokon a szakkérdést a kormányhivatal járási (fővárosi kerületi) hivatala, vagy a kormányhivatal vizsgálta, a másodfokon eljáró környezetvédelmi hatóság a 7. melléklet I. táblázatában megjelölt feltételek esetén a 7. melléklet I. táblázatában meghatározott szakkérdést is vizsgálja, amelynek eldöntéséhez – szakértő igénybevétele esetén – a 7. melléklet I. táblázatában meghatározott szervet rendeli ki szakértőként.
+
+(3) A Kormány a 7. melléklet II. táblázata szerinti hulladékgazdálkodással összefüggő eljárásokban a 7. melléklet II. táblázatában megjelölt feltételek esetén a 7. melléklet II. táblázatában meghatározott hatóságokat jelöli ki szakhatóságként.
