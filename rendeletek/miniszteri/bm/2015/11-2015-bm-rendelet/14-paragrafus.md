@@ -1,0 +1,3 @@
+## „83. § E rendeletnek a területi államigazgatási szervezetrendszer átalakításához kapcsolódó intézkedésekkel összefüggésben egyes belügyi tárgyú miniszteri rendeletek módosításáról szóló 11/2015. (III. 31.) BM rendelettel (a továbbiakban: MÓD 1. rendelet) megállapított 1. §-át a MÓD 1. rendelet hatálybalépése előtt benyújtott, folyamatban lévő hazai anyakönyvezési ügyekben is alkalmazni kell.”
+
+## 14. Az egészséget nem veszélyeztető és biztonságos munkavégzés szabályairól, a büntetés-végrehajtási szervezetnél működő, fogvatartottakat érintő foglalkozás-egészségügyi feladatokról, valamint a fogvatartottak büntetés-végrehajtási jogviszony keretében történő munkáltatásának munkaügyi ellenőrzéséről szóló 63/2014. (XII. 15.) BM rendelet módosítása
