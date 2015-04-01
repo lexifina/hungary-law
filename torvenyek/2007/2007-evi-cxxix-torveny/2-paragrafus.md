@@ -12,6 +12,8 @@
 
 5. földvédelmi eljárás: az ingatlanügyi hatóság által, ügydöntő hatóságként vagy szakhatóságként lefolytatott olyan hatósági eljárás, amely a termőföld mennyiségi védelmének érvényre juttatására, illetve a termőföld más célú hasznosításának engedélyezésére irányul;
 
+5a. földvédelmi szakkérdés vizsgálata: a termőföld mennyiségi védelmére vonatkozó jogszabályi előírásoknak való megfelelés vizsgálata bármely hatósági eljárásban;
+
 6. havária: olyan káresemény, amely elemi csapás, vagy ipari szerencsétlenség következtében, a katasztrófavédelmi, a vízügyi, illetve a környezetvédelmi szervek valamelyikének azonnali intézkedését igényli, és amelynek hatására a termőföld mezőgazdasági hasznosításra alkalmatlanná válik;
 
 7. humuszos termőréteg: a talaj felső, biológiailag aktív, szerves anyagot tartalmazó rétege;

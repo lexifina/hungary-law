@@ -20,7 +20,7 @@ b) ha a bejelentésig az eredeti állapot helyreállítása megtörtént, akkor 
 
 (5) Ha a (4) bekezdés a) pontja szerinti iratok valamelyike az ingatlanügyi hatósághoz már korábbi ügyben benyújtásra került, elegendő a korábbi benyújtásra, és a korábbi ügy ügyiratszámára való hivatkozással arra utalni, hogy az ingatlanügyi hatóságnál lévő okiratokban szereplő adatok a bejelentés időpontjáig nem változtak meg.
 
-(6) Az ingatlanügyi hatóság a bejelentésben foglaltakat megvizsgálja. Ha a vizsgálat eredményeként megállapítja, hogy a más célú hasznosítás engedélyköteles lett volna, megindítja az engedély nélküli más célú hasznosítás esetére irányadó eljárást.
+(6) Az ingatlanügyi hatóság a bejelentésben foglaltakat megvizsgálja. Ha a vizsgálat eredményeként megállapítja, hogy a bejelentés megfelel az (1)–(5) bekezdésben foglaltaknak, a bejelentés elfogadásáról értesíti a bejelentőt. Ha a vizsgálat eredményeként azt állapítja meg, hogy más célú hasznosítás engedélyköteles lett volna, megindítja az engedély nélküli más célú hasznosítás esetére irányadó eljárást.
 
 (7) Az igénybevevő – a (3) bekezdés d) pontjában meghatározott eset kivételével – az eredeti állapot helyreállítását, annak elvégzését követő 8 napon belül köteles az ingatlanügyi hatóságnak bejelenteni.
 
@@ -30,7 +30,7 @@ a) a (7) bekezdés szerinti bejelentésben megjelölt időpontot,
 
 b) a (3) bekezdés d) pontjában meghatározott esetben a bejelentés beérkezését
 
-követő 15 napon belül a talajvédelmi hatósággal közös helyszíni szemle lefolytatásával ellenőrzi.
+követő 15 napon belül helyszíni szemle lefolytatásával ellenőrzi.
 
 (9) Ha az ingatlanügyi hatóság a helyszíni ellenőrzés során megállapítja, hogy
 

@@ -16,7 +16,7 @@ d) a talajszerkezet károsodik.
 
 (4) Az engedély jogosultja az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 
-(5) Az eredeti állapot helyreállítását az ingatlanügyi hatóság a talajvédelmi hatósággal közös helyszíni ellenőrzéssel állapítja meg.
+(5) Az eredeti állapot helyreállítását – a (4) bekezdés szerinti bejelentést követő 15 napon belül – az ingatlanügyi hatóság helyszíni ellenőrzéssel állapítja meg.
 
 (6) Ha a helyszíni ellenőrzés során megállapításra kerül, hogy az eredeti állapot helyreállására a (2) bekezdés szerinti határozatban előírtak szerint került sor, az ingatlanügyi hatóság az eredeti állapot helyreállítását határozattal elfogadja, ezzel egyidejűleg rendelkezik a fizetendő földvédelmi járulékról és – ha e törvény úgy rendelkezik – a bírság megfizetéséről.
 

@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-129-00-00
 | 2014-09-01 | 2013. évi CLXIX. törvény | 2007-129-00-00.18 |
 | 2014-12-01 | 2013. évi CCL. törvény | 2007-129-00-00.19 |
 | 2015-01-11 | 2014. évi LXXXVI. törvény | 2007-129-00-00.20 |
+| 2015-04-01 | 2015. évi VIII. törvény | 2007-129-00-00.21 |

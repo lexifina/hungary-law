@@ -2,7 +2,7 @@
 
 (2) Az igénybevevő az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 
-(3) A bejelentés alapján az ingatlanügyi hatóság a talajvédelmi hatóság bevonásával helyszíni szemlét tart.
+(3) A bejelentés alapján az ingatlanügyi hatóság helyszíni szemlét tart.
 
 (4) Az ingatlanügyi hatóság az eredeti állapot helyreállításának elfogadása esetén földvédelmi bírság és a termőföld más célú hasznosításáért járó földvédelmi járulék megfizetésére kötelezi az igénybevevőt. Az eredeti állapot helyreállításának el nem fogadása esetén újabb határidő megjelölésével a helyreállítás érdekében szükséges további munkák elvégzését írja elő.
 

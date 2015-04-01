@@ -34,7 +34,7 @@ b) előírja az újrahasznosítás megvalósítása érdekében az igénybevevő
 
 (7) Az igénybevevő a (6) bekezdés szerinti határozatban előírtaknak megfelelően köteles a területet újrahasznosítani. Az igénybevevő az újrahasznosítást – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 
-(8) Az újrahasznosításról a (7) bekezdésben meghatározott bejelentéstől számított 15 napon belül, bejelentés hiányában legkésőbb a (6) bekezdés szerinti határozatban meghatározott határidő elteltét követő 30 napon belül az ingatlanügyi hatóság a talajvédelmi hatósággal közös helyszíni ellenőrzés során győződik meg.
+(8) Az újrahasznosításról a (7) bekezdésben meghatározott bejelentéstől számított 15 napon belül, bejelentés hiányában legkésőbb a (6) bekezdés szerinti határozatban meghatározott határidő elteltét követő 30 napon belül az ingatlanügyi hatóság helyszíni ellenőrzés során győződik meg.
 
 (9) Ha a helyszíni ellenőrzés során megállapításra kerül, hogy a terület újrahasznosítása a (6) bekezdés szerinti határozatban előírtak szerint valósult meg, az ingatlanügyi hatóság az újrahasznosítást határozattal elfogadja, amelyben megállapítja az újrahasznosított terület művelési ágát és minőségi osztályát.
 

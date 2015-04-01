@@ -28,8 +28,10 @@ g) a talajvédelmi szakértői tevékenység folytatásának részletes feltéte
 
 a) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben, valamint
 
-b) a földvédelmi hatósági eljárás és a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
+b) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
 
 c) a gyümölcs termőhelyi kataszteri eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben,
+
+d) a földvédelmi eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
 
 kiadott rendeletben határozza meg.
