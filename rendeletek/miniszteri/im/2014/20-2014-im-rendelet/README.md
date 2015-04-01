@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-20-20-0
 | 2015-03-02 | 2014-20-20-06.11 | 2010: CXXX. törvény |
 | 2015-03-15 | 2014-20-20-06.12 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-03-16 | 2014-20-20-06.13 | 2010: CXXX. törvény |
+| 2015-04-01 | 2014-20-20-06.14 | Nemzeti Jogszabálytár (egységes szerkezet) |
