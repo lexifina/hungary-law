@@ -40,17 +40,17 @@ p)[^18] a hulladék telephelyen történő tárolásának módjára és körülm
 
 a) az adott telephelyen végzett kezelési tevékenységet engedélyező környezetvédelmi hatóság megnevezését, az engedély számát (ha van), valamennyi telephelyének címét és KTJ-azonosítóját, a kérelmező KÜJ-azonosítóját, és a telephelyen végzett hulladékgazdálkodási tevékenység pontos megnevezését, vagy
 
-b) az adott telephelyen végezni kívánt kezelési tevékenység engedélyezése ügyében a benyújtott kérelem alapján eljáró felügyelőség megnevezését és az engedélykérelem iktatószámát, valamint a telephelyen végezni kívánt hulladékgazdálkodási tevékenység pontos megnevezését, ha a hulladékgazdálkodási engedélyre vonatkozó kérelem elbírálása folyamatban van.
+b)[^20] az adott telephelyen végezni kívánt kezelési tevékenység engedélyezése ügyében a benyújtott kérelem alapján eljáró környezetvédelmi hatóság megnevezését és az engedélykérelem iktatószámát, valamint a telephelyen végezni kívánt hulladékgazdálkodási tevékenység pontos megnevezését, ha a hulladékgazdálkodási engedélyre vonatkozó kérelem elbírálása folyamatban van.
 
 (2) Ha az (1) bekezdésben előírt feltételeknek, valamint a Ht.-ben foglaltaknak a kérelem megfelel, a környezetvédelmi hatóság a kérelmező részére a hulladékgazdálkodási engedélyt kiadja, amely a Ht.-ben meghatározottakon túlmenően a következőket tartalmazza:
 
-a)[^20] a tevékenység végzése során alkalmazott műveletek megnevezését,
+a)[^21] a tevékenység végzése során alkalmazott műveletek megnevezését,
 
 b) a tevékenység végzéséhez szükséges egyedi feltételeket, előírásokat,
 
-c)[^21] az adott hulladékgazdálkodási tevékenységgel érintett éves maximális hulladékmennyiséget (tonnában kifejezve), szilárd és folyékony hulladék szállítása esetén a hulladékmennyiséget külön-külön is megadva.
+c)[^22] az adott hulladékgazdálkodási tevékenységgel érintett éves maximális hulladékmennyiséget (tonnában kifejezve), szilárd és folyékony hulladék szállítása esetén a hulladékmennyiséget külön-külön is megadva.
 
-(3)[^22] A közvetítésre, kereskedelemre vonatkozó hulladékgazdálkodási engedély jogerőre emelkedését követően a környezetvédelmi hatóság az engedélyes adatait felveszi a közvetítők, kereskedők nyilvántartásába.
+(3)[^23] A közvetítésre, kereskedelemre vonatkozó hulladékgazdálkodási engedély jogerőre emelkedését követően a környezetvédelmi hatóság az engedélyes adatait felveszi a közvetítők, kereskedők nyilvántartásába.
 
 [^9]: A 7. § (1) bekezdés nyitó szövegrésze a 370/2014. (XII. 30.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
 [^10]: A 7. § (1) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
@@ -63,6 +63,7 @@ c)[^21] az adott hulladékgazdálkodási tevékenységgel érintett éves maxim�
 [^17]: A 7. § (1) bekezdés l) pontja a 370/2014. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^18]: A 7. § (1) bekezdés p) pontját a 370/2014. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^19]: A 7. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^20]: A 7. § (2) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^21]: A 7. § (2) bekezdés c) pontját a 370/2014. (XII. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^22]: A 7. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 12. § 10. pontja szerint módosított szöveg.
+[^20]: A 7. § (1a) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 215. §-a szerint módosított szöveg.
+[^21]: A 7. § (2) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^22]: A 7. § (2) bekezdés c) pontját a 370/2014. (XII. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^23]: A 7. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 12. § 10. pontja szerint módosított szöveg.
