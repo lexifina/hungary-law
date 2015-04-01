@@ -1,3 +1,1 @@
-## 1–3. §[^1]
-
-[^1]: Az 1–3. § a 17. § (2) bekezdése alapján 2015. április 1-jén lép hatályba.
+## „(3) A pályázatokról – a bíráló bizottság javaslata alapján – a módszertani központ a bíráló bizottság javaslatának kézhezvételét követően 5 napon belül döntési javaslatot készít, és azt felterjeszti a miniszternek. A miniszter a döntési javaslatról annak kézhezvételétől számított 5 napon belül dönt, és erről 5 napon belül értesíti a módszertani központot. A módszertani központ a döntés kézhezvételétől számított 3 napon belül értesíti a pályázókat.”

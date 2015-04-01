@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-11-20-5
 | --- | --- | --- |
 | 2015-03-01 | 2015-11-20-5H.1 | 11/2015. (II. 25.) EMMI rendelet |
 | 2015-03-02 | 2015-11-20-5H.2 | 2010: CXXX. törvény |
+| 2015-04-01 | 2015-11-20-5H.3 | 2010: CXXX. törvény |
