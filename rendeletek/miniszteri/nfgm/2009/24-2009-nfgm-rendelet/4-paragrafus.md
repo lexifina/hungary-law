@@ -12,6 +12,8 @@ c) az Étv. 20. § (4) bekezdése szerint az érintett települési önkormányz
 
 a) az Étv. 20. § (6) bekezdése alapján az illetékes ingatlanügyi hatóságnak a tilalomnak az ingatlan-nyilvántartásba történő bejegyzése céljából,
 
-b) a Váti Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Kft. által működtetett országos illetékességű Dokumentációs Központnak (a továbbiakban: Dokumentációs Központ) nyilvántartásba vétele
+b)[^2] a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság által működtetett országos illetékességű Dokumentációs Központnak (a továbbiakban: Dokumentációs Központ) nyilvántartásba vétele
 
 céljából.
+
+[^2]: A 4. § (2) bekezdés b) pontja a 18/2015. (III. 31.) MvM rendelet 1. § b) pontja szerint módosított szöveg.

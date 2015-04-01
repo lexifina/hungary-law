@@ -16,6 +16,8 @@ a) a terület rendeltetésszerű felhasználását, az élet- és vagyonvédelme
 
 b) a régészet, a műemlékvédelem, a környezetvédelem vagy a természetvédelem érdeke azt megköveteli,
 
-c) a terület bányatelek határain belül fekszik és a tilalom elrendelését a bányatelek jogosultja kéri, vagy ha a felszín alatt bányatelekkel még nem fedett ásványi nyersanyag települt, és a tilalom elrendelését a Magyar Bányászati és Földtani Hivatal illetékes bányakapitánysága javasolja, illetve
+c)[^1] a terület bányatelek határain belül fekszik és a tilalom elrendelését a bányatelek jogosultja kéri, vagy ha a felszín alatt bányatelekkel még nem fedett ásványi nyersanyag települt, és a tilalom elrendelését a bányafelügyeleti hatáskörében eljáró megyei kormányhivatal javasolja, illetve
 
 d) külön jogszabály azt előírja.
+
+[^1]: A 2. § (3) bekezdés c) pontja a 18/2015. (III. 31.) MvM rendelet 1. § a) pontja szerint módosított szöveg.
