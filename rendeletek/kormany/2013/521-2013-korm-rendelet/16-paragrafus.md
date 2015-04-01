@@ -1,6 +1,6 @@
 ## 7. Az egészségügyi dolgozó kirendelésének részletes szabályai
 
-16. § (1) Az egészségügyi szolgáltató vezetője a kirendelést elrendelő tisztifőorvosi határozat kézhezvételét követően
+16. § (1)[^42] Az egészségügyi szolgáltató vezetője a kirendelést elrendelő határozat kézhezvételét követően
 
 a) az egészségügyi válsághelyzet felszámolásában résztvevő fekvőbeteg-szakellátó intézménybe történő kirendeléshez haladéktalanul,
 
@@ -19,3 +19,5 @@ c) hozzátartozójának tartós, személyes gondozása esetén,
 d) ha a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította, illetve
 
 e) ha az OMSZ-nak az adott válsághelyzet felszámolásában érintett szervezeti egységébe tartozik.
+
+[^42]: A 16. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 241. § (9) bekezdés c) pontja szerint módosított szöveg.
