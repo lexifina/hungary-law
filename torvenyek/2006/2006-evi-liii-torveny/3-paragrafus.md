@@ -1,6 +1,6 @@
 ## Ügyintézési határidő a kiemelt jelentőségű ügyben
 
-3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – az (5) bekezdésben meghatározott, valamint az általános építésügyi hatósági engedélyezési eljárásra vonatkozó ügyintézési határidő kivételével – legfeljebb két hónap lehet.
+3. § (1) Kiemelt jelentőségű ügyben a kérelmet soron kívül kell elbírálni, az ügyintézési határidő azonban – az (5) bekezdésben meghatározott, valamint az általános építésügyi hatósági engedélyezési eljárásra vonatkozó ügyintézési határidő kivételével – legfeljebb negyvenkét nap lehet.
 
 (2)
 
@@ -18,4 +18,4 @@ c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósá
 
 d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap.
 
-(6) A hatóság vezetője indokolt esetben az ügyintézési határidőt legfeljebb tizenöt nappal meghosszabbíthatja.
+(6) A hatóság vezetője indokolt esetben az ügyintézési határidőt egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja.

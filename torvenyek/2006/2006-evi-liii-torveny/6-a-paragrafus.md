@@ -1,1 +1,1 @@
-6/A. § A kiemelt jelentőségű ügyben hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb harminc napon belül el kell bírálni.
+6/A. § A kiemelt jelentőségű ügyben hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb huszonegy napon belül el kell bírálni.

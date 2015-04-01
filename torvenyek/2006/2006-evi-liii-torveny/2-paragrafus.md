@@ -1,15 +1,5 @@
 ## A hatósági eljárás szabályai
 
-2. § (1) Kiemelt jelentőségű ügyben első fokon
+2. § (1) A kiemelt jelentőségű ügyben eljáró hatóság az általa meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton közli.
 
-a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az ügyfajtára vonatkozó különös eljárási szabályok szerint a fellebbezés elbírálására jogosult hatóság,
-
-b) szakhatóságként a Kormány által rendeletben kijelölt hatóság, ennek hiányában az ügyfajtára vonatkozó különös eljárási szabályok szerint a másodfokú eljárásban szakhatóságként kijelölt hatóság jár el.
-
-(2) Kiemelt jelentőségű ügyben a fellebbezés elbírálására jogosult
-
-a) az (1) bekezdés a) pontja alkalmazásával első fokon eljáró hatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság,
-
-b) szakhatóságként az (1) bekezdés b) pontja alkalmazásával első fokon eljáró szakhatóság felett felügyeleti jogkört gyakorló hatóság, illetőleg a Kormány által rendeletben kijelölt hatóság.
-
-(3) Ha a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény vagy az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító törvény kizárja a fellebbezést vagy másodfokú szakhatóság közreműködését, akkor a kiemelt jelentőségű üggyé nyilvánító kormányrendeletben nem kell a fellebbezés elbírálására jogosult hatóságot vagy másodfokú szakhatóságot kijelölni.
+(2) Az (1) bekezdés szerinti hirdetményi úton történő közlés esetén, ha a döntés az ügyfél számára kötelezettséget állapít meg, vagy alapvető jogát vonja el vagy korlátozza, a kiemelt jelentőségű ügyben a hatóság az ismert ügyfelet a döntés szövegéről – a hirdetmény kifüggesztésével egyidejűleg – az ügyfél tekintetében az adott ügyfajtára vonatkozó külön jogszabály szerint alkalmazható egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei ilyen esetben is a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja – a kiemelt jelentőségű üggyé nyilvánító kormányrendelet eltérő rendelkezése hiányában – a hirdetmény kifüggesztését követő 5. nap.
