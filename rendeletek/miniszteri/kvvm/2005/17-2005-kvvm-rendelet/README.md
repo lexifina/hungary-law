@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-17-20-0
 | --- | --- | --- |
 | 2005-07-22 | 2005-17-20-0N.1 | 17/2005. (VII. 14.) KvVM rendelet |
 | 2014-01-01 | 2005-17-20-0N.2 | 132/2013. (XII. 23.) VM rendelet |
+| 2015-04-01 | 2005-17-20-0N.3 | 15/2015. (III. 31.) FM rendelet |
