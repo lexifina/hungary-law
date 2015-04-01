@@ -24,7 +24,7 @@
 
 ## 1.11. a páncélozott gépjármű.
 
-## 2.[^39] A hivatásos katasztrófavédelmi szervnél
+## 2.[^41] A hivatásos katasztrófavédelmi szervnél
 
 ## 2.1. a magasból mentő gépjármű,
 
@@ -70,4 +70,4 @@
 
 11. melléklet a 66/2011. (XII. 30.) BM rendelethez
 
-[^39]: A 10. melléklet 2. pontja a 60/2013. (X. 24.) BM rendelet 1. § c) pontjával megállapított szöveg.
+[^41]: A 10. melléklet 2. pontja a 60/2013. (X. 24.) BM rendelet 1. § c) pontjával megállapított szöveg.

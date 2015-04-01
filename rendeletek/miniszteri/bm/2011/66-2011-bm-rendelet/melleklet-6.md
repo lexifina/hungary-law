@@ -10,7 +10,7 @@
 
 ## 2.1. a Katasztrófavédelmi Műveleti Szolgálatnál rendszeresített valamennyi szolgálati beosztás
 
-## II.[^22] A Vhr. 37/A. § (2) bekezdésében meghatározott feltételekkel veszélyes katasztrófavédelmi beosztás pótlékra jogosító beosztások:
+## II.[^24] A Vhr. 37/A. § (2) bekezdésében meghatározott feltételekkel veszélyes katasztrófavédelmi beosztás pótlékra jogosító beosztások:
 
 ## 1. Helyi szerveknél:
 
@@ -22,4 +22,4 @@
 
 6. melléklet a 66/2011. (XII. 30.) BM rendelethez
 
-[^22]: Az 5. melléklet II. pontja a 60/2013. (X. 24.) BM rendelet 1. § a) pontjával megállapított szöveg.
+[^24]: Az 5. melléklet II. pontja a 60/2013. (X. 24.) BM rendelet 1. § a) pontjával megállapított szöveg.
