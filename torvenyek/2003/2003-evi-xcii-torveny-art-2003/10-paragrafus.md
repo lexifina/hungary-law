@@ -8,7 +8,7 @@ b) a NAV vámszerve, mint vámhatóság (az állami adóhatóság és a vámhat�
 
 c) az önkormányzat jegyzője (a továbbiakban: önkormányzati adóhatóság),
 
-d) e törvény vonatkozásában a fővárosi és megyei kormányhivatal, ha az önkormányzati adóhatóság felettes szerveként jár el.
+d) e törvény vonatkozásában a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), ha az önkormányzati adóhatóság felettes szerveként jár el.
 
 (2) Az adóhatóság feladatkörében nyilvántartja az adózókat és azokat az adózónak nem minősülő személyeket, akiknek, amelyeknek jogát, kötelezettségét e törvény vagy adót, költségvetési támogatást megállapító törvény írja elő, az adót, a költségvetési támogatást, adó-visszatérítést, adó-visszaigénylést – ha törvény előírja – megállapítja, az adót, az adók módjára behajtandó köztartozást beszedi, végrehajtja, az adókötelezettségek teljesítését ellenőrzi, a költségvetési támogatást, az adó-visszaigénylést, az adó-visszatérítést kiutalja, és vezeti az adózók adószámláját.
 

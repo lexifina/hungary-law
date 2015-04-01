@@ -10,6 +10,6 @@ c) előterjeszti a kormányhoz az önkormányzati adóigazgatás szervezeti rend
 
 d) a törvényesség és szakszerűség ellenőrzése érdekében az önkormányzati adóhatóságok vezetőitől jelentéseket, beszámolókat, adatszolgáltatást, továbbá – amennyiben az jogszabályban meghatározott feladata ellátásához szükséges – bármely adózó ügyéről tájékoztatást kérhet,
 
-e) az önkormányzati adóhatóság hatáskörébe tartozó adóügyben megváltoztatja, megsemmisíti a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jogszabálysértő határozatát (végzését), illetve a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja.
+e) az önkormányzati adóhatóság hatáskörébe tartozó adóügyben megváltoztatja, megsemmisíti a kormányhivatal jogszabálysértő határozatát (végzését), illetve a határozat, végzés meghozatalának törvénysértő mulasztása esetén az eljárás lefolytatására utasítja.
 
 (2) Az adópolitikáért felelős miniszter az (1) bekezdés b) pontjában meghatározott hatáskörét nem ruházhatja át.

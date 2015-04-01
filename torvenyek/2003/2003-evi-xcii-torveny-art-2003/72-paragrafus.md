@@ -28,4 +28,4 @@ az állami adóhatóság jár el.
 
 (5) A lakáscélú állami támogatások igénylésével összefüggésben a számlák valódiságát, valamint ezzel kapcsolatosan a támogatások igénybevételének jogszerűségét – a hitelintézet megkeresése alapján – az állami adóhatóság ellenőrzi.
 
-(6) A lakáscélú állami támogatásokkal összefüggő – (4) bekezdésben meghatározottakon kívül eső – állami követeléseket a kincstár érvényesíti. A kincstár – ezzel összefüggő – közigazgatási hatósági eljárás keretében hozott jogerős határozatában szereplő követelés köztartozásnak minősül, amit az állami adóhatóság adók módjára hajt be.
+(6) A lakáscélú állami támogatásokkal összefüggő – (5) bekezdésben meghatározottakon kívül eső – állami követeléseket a kormányhivatal érvényesíti. A közigazgatási hatósági eljárás keretében hozott jogerős határozatban szereplő követelés köztartozásnak minősül, amit az állami adóhatóság adók módjára hajt be.
