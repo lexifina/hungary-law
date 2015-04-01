@@ -16,7 +16,7 @@ f) az ügyfél a kérelmére indult eljárásban a képviselő visszautasítása
 
 g) jogszabályváltozás miatt az ügy elbírálása a továbbiakban már nem hatósági hatáskörbe tartozik,
 
-h) a hatósági eljárásért illetéket vagy igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni és az ügyfél a fizetési kötelezettségének a hatóság erre irányuló felhívása ellenére az erre tűzött határidő alatt nem tesz eleget és költségmentességben sem részesül,
+h) a hatósági eljárásért illetéket vagy igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni, vagy a hatóság az ügyfelet eljárási költség előlegezésére kötelezi, és az ügyfél a fizetési kötelezettségének a hatóság erre irányuló felhívása ellenére az erre tűzött határidő alatt nem tesz eleget és költségmentességben sem részesül,
 
 i) hivatalbóli eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekménytől sem várható eredmény,
 

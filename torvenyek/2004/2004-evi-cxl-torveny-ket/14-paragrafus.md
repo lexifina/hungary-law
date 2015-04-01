@@ -27,3 +27,5 @@ e) a szakhatóság közreműködésére,
 f) a fellebbezésre tekintet nélkül végrehajthatóvá nyilvánításra.
 
 (4) A hulladékgazdálkodási közszolgáltatási tevékenység minősítésével kapcsolatos eljárásban törvény az ügyfélkörre vonatkozóan e törvény rendelkezéseitől eltérő szabályokat állapíthat meg.
+
+(5) Amennyiben a 44. § (1) bekezdése szerinti szakkérdést a hatóságként eljáró fővárosi és megyei kormányhivatal vizsgálja, a szakkérdés vizsgálatával kapcsolatban kormányrendelet e törvény rendelkezéseitől eltérő szabályokat állapíthat meg, ennek során elrendelheti e törvény szakhatósági eljárásra vonatkozó egyes szabályainak megfelelő alkalmazását.

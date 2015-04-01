@@ -34,4 +34,6 @@
 
 14. a helyszíni szemlével, valamint a szakértői tevékenységgel jogszerűen okozott kárért járó kártalanítás összege,
 
+14a. a tényállás tisztázásához szükséges, az eljáró hatóság által végzett műszeres (laboratóriumi vagy más speciális eszköz használatát igénylő) vizsgálat azon költsége, amelyet az eljárásért fizetendő illeték vagy igazgatási szolgáltatási díj nem tartalmaz,
+
 15. jogszabályban meghatározott, az 1–14. pont alá nem tartozó eljárási költség.

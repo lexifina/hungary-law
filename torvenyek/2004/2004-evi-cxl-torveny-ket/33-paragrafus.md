@@ -22,7 +22,7 @@ g) a hatóság működését legalább egy teljes napra ellehetetlenítő üzemz
 
 h) a kérelem, a döntés és egyéb irat fordításához szükséges idő,
 
-i)
+i) a kérelmező ügyfelet az eljárási költség előlegezésére kötelező döntés közlésére irányuló intézkedéstől az annak teljesítéséig terjedő idő,
 
 j) a szakértői vélemény elkészítésének időtartama,
 
