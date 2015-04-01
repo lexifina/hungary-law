@@ -1,4 +1,4 @@
-## 2/A. §[^8] Illetékes népegészségügyi szervként az 1000 m3/nap mennyiségnél kisebb kapacitású és 5000 főnél kevesebb állandó népességet ellátó vízellátó rendszerek esetén az illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete, az ennél nagyobb, illetve egy járás határán átnyúló vízellátó rendszerek esetén az illetékes népegészségügyi szakigazgatási szerv jár el.
+## 2/A. §[^12] Illetékes népegészségügyi szervként az 1000 m3/nap mennyiségnél kisebb kapacitású és 5000 főnél kevesebb állandó népességet ellátó vízellátó rendszerek esetén az illetékes járási (fővárosi kerületi) hivatal, az ennél nagyobb, illetve egy járás határán átnyúló vízellátó rendszerek esetén az illetékes megyei kormányhivatal jár el.
 
 ## Minőségi követelmények
 
@@ -14,9 +14,9 @@ c) az a)–b) pontokban, valamint a 4–6. és 8. §-okban meghatározott követ
 
 (3) Ha a szolgáltatott víz az 1. számú melléklet A) és B) részében meghatározott határértékeknek megfelel, azonban az 1. számú melléklet C), D) és/vagy E) részében előírt valamely határértéknek nem felel meg, akkor kifogásolt minőségű ivóvíznek kell tekinteni.
 
-(4)[^9]
+(4)[^13]
 
 (5) A jelen rendelet végrehajtása során tett intézkedések hatására az ivóvíz minősége nem romolhat az emberi egészség védelme szempontjából lényeges tényezők tekintetében, és nem növekedhet az ivóvíz előállítására használt vizek szennyezettsége.
 
-[^8]: A 2/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 3. §-a iktatta be.
-[^9]: A 3. § (4) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 14. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^12]: A 2/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. § (4) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 14. § (2) bekezdés a) pontja hatályon kívül helyezte.

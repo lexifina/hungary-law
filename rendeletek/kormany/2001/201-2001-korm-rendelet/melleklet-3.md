@@ -192,6 +192,6 @@
 
 ## A vizsgálatot az üzemeltetőnek kell elvégeznie vagy elvégeztetnie.
 
-3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^93]
+3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^97]
 
-[^93]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja szerint módosított szöveg.
+[^97]: A 3. számú melléklet a 47/2005. (III. 11.) Korm. rendelet 5. § (2) bekezdésének f) pontja szerint módosított szöveg.

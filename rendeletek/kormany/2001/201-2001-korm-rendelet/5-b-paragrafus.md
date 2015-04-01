@@ -1,10 +1,10 @@
-## 5/A. §[^41] Az élelmiszeripari vállalkozások tulajdonában lévő, közvetlen lakossági ellátást nem biztosító, az ingatlan határain belül elhelyezkedő és saját célt szolgáló vízilétesítmények esetében az élelmiszer előállítására felhasználásra kerülő víz tekintetében élelmiszerlánc-felügyeleti feladatkörében az élelmiszerlánc-felügyeleti szerv jár el.
+## 5/A. §[^45] Az élelmiszeripari vállalkozások tulajdonában lévő, közvetlen lakossági ellátást nem biztosító, az ingatlan határain belül elhelyezkedő és saját célt szolgáló vízilétesítmények esetében az élelmiszer előállítására felhasználásra kerülő víz tekintetében élelmiszerlánc-felügyeleti feladatkörében az élelmiszerlánc-felügyeleti szerv jár el.
 
-## Informatikai rendszer[^42]
+## Informatikai rendszer[^46]
 
-5/B. §[^43] (1) A vízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint a minőségjavító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az OTH működteti a Humán felhasználású vizek informatikai rendszerét (a továbbiakban: HUMVI rendszer).
+5/B. §[^47] (1) A vízminőség-ellenőrző vizsgálatokkal, a határérték-túllépésekkel, a szennyezés veszélyével járó rendkívüli eseményekkel, valamint a minőségjavító intézkedésekkel kapcsolatos adatok, információk rögzítése, folyamatos tárolása és kezelése céljából az OTH működteti a Humán felhasználású vizek informatikai rendszerét (a továbbiakban: HUMVI rendszer).
 
-(2)[^44] A HUMVI rendszerbe az OTH, valamint az OTH feljogosítását követően az OKK, az illetékes népegészségügyi szerv, továbbá az üzemeltető, és az üzemeltető által megbízott laboratórium tölthet fel adatokat.
+(2)[^48] A HUMVI rendszerbe az OTH, valamint az OTH feljogosítását követően az OKK, az illetékes népegészségügyi szerv, továbbá az üzemeltető, és az üzemeltető által megbízott laboratórium tölthet fel adatokat.
 
 (3) A HUMVI rendszerbe az üzemeltető és az általa megbízott ivóvízvizsgálatra akkreditált laboratórium a (4)–(7) bekezdésben foglaltak szerint rögzít adatokat.
 
@@ -36,7 +36,7 @@ g) vízfertőtlenítésének módja.
 
 (8) Az emberi fogyasztásra szánt ivóvízre vonatkozó, valamennyi hatósági vízminőség-ellenőrző vizsgálat eredményét az aktuális negyedév lezárultát követő 15 napon belül az illetékes népegészségügyi szerv által megbízott laboratórium a HUMVI rendszerben rögzíti. A laboratórium által rögzített adatokat az illetékes népegészségügyi szerv jóváhagyja.
 
-[^41]: Az 5/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
-[^42]: Az 5/B. §-t megelőző alcímet a 364/2014. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
-[^43]: Az 5/B. §-t a 364/2014. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
-[^44]: Az 5/B. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^45]: Az 5/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 6. §-a iktatta be.
+[^46]: Az 5/B. §-t megelőző alcímet a 364/2014. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
+[^47]: Az 5/B. §-t a 364/2014. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
+[^48]: Az 5/B. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

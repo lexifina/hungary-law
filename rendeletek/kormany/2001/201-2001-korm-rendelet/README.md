@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-201-20-
 | 2014-09-10 | 2001-201-20-22.20 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2001-201-20-22.21 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2015-03-01 | 2001-201-20-22.22 | 430/2013. (XI. 15.) Korm. rendelet |
+| 2015-04-01 | 2001-201-20-22.23 | 70/2015. (III. 30.) Korm. rendelet |

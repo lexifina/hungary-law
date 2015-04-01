@@ -1,4 +1,4 @@
-8/B. §[^67] (1) Az 5. számú melléklet I. pont D) alpontjában felsorolt ivó- és használati melegvíz-ellátásban alkalmazni kívánt technológiákat az OTH ivóvízbiztonsági szempontból engedélyezi. Az ivóvízbiztonsági engedélyezés során az OTH figyelembe veszi a vízzel érintkező anyagból kioldódó szennyező anyagok jelenlétét, vizsgálja, hogy a technológia alkalmazása nem eredményezi-e a mikrobiológiai minőség romlását, továbbá kellemetlen íz- és szaganyagok ivóvízbe kerülését.
+8/B. §[^71] (1) Az 5. számú melléklet I. pont D) alpontjában felsorolt ivó- és használati melegvíz-ellátásban alkalmazni kívánt technológiákat az OTH ivóvízbiztonsági szempontból engedélyezi. Az ivóvízbiztonsági engedélyezés során az OTH figyelembe veszi a vízzel érintkező anyagból kioldódó szennyező anyagok jelenlétét, vizsgálja, hogy a technológia alkalmazása nem eredményezi-e a mikrobiológiai minőség romlását, továbbá kellemetlen íz- és szaganyagok ivóvízbe kerülését.
 
 (2) Az ivóvízbiztonsági engedélyt az első hazai forgalmazást megelőzően a forgalmazónak kell az OTH-nál kérelmezni.
 
@@ -16,4 +16,4 @@
 
 (9) Az (1)–(8) bekezdésben foglalt előírásoknak az ivóvízellátáson kívül a közösségi használatra szánt használati melegvízzel és medencés fürdővizekkel érintkezésbe kerülő termékekre, anyagokra és technológiákra vonatkozóan is teljesülniük kell.
 
-[^67]: A 8/B. §-t a 430/2013. (XI. 15.) Korm. rendelet 9. §-a iktatta be.
+[^71]: A 8/B. §-t a 430/2013. (XI. 15.) Korm. rendelet 9. §-a iktatta be.

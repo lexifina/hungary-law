@@ -2,7 +2,7 @@
 
 ## vonatkozó előírások
 
-8. §[^65] (1) Az ivóvízellátó rendszereket üzemeltetőnek minden intézkedést meg kell tennie annak érdekében, hogy az ivóvíz előállítása (beszerzése, kezelése, tárolása, elosztása) során a vízzel érintkezésbe kerülő anyagok, termékek, a vízkezelési eljárások ne jelentsenek veszélyt az emberi egészségre, az élelmiszerbiztonságra és hatásukra ne történjen vízminőségromlás.
+8. §[^69] (1) Az ivóvízellátó rendszereket üzemeltetőnek minden intézkedést meg kell tennie annak érdekében, hogy az ivóvíz előállítása (beszerzése, kezelése, tárolása, elosztása) során a vízzel érintkezésbe kerülő anyagok, termékek, a vízkezelési eljárások ne jelentsenek veszélyt az emberi egészségre, az élelmiszerbiztonságra és hatásukra ne történjen vízminőségromlás.
 
 (2) Magyarország területén csak az e rendeletnek megfelelő, vízzel érintkezésbe kerülő anyagok, termékek és technológiák használhatóak.
 
@@ -14,4 +14,4 @@
 
 (6) A (4) bekezdésben foglaltaktól eltérően az OTH további vizsgálatok elrendelése nélkül, haladéktalanul visszavonja az ivóvízbiztonsági engedélyt, illetve törli az anyagot, terméket a nyilvántartásból, ha a közegészségügyi kockázat olyan magas, hogy a kockázatcsökkenés lehetősége a további vizsgálatok eredményétől sem várható.
 
-[^65]: A 8. § a 430/2013. (XI. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^69]: A 8. § a 430/2013. (XI. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
