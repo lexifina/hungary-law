@@ -40,4 +40,6 @@ g) alkalmazott terápia,
 
 h) a bejelentéssel kapcsolatos további, egészségügyi szempontból jelentős tény vagy körülmény.
 
-(6) Hazai gyártású termék esetén a kozmetikai toxikológiai központ a bejelentett esetről értesíti a felelős személy címe vagy a gyártás helye szerint területileg illetékes járási népegészségügyi intézetet.
+(6)[^6] Hazai gyártású termék esetén a kozmetikai toxikológiai központ a bejelentett esetről értesíti a felelős személy címe vagy a gyártás helye szerint területileg illetékes járási hivatalt.
+
+[^6]: A 8. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 226. § (2) bekezdés b) pontja szerint módosított szöveg.
