@@ -1,4 +1,4 @@
-## 24. §[^1]
+## 24. §[^2]
 
 1. melléklet a 83/2014. (III. 14.) Korm. rendelethez
 
@@ -162,4 +162,4 @@
 
 5.12. Területhasználati előírások térképi ábrázolása
 
-[^1]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

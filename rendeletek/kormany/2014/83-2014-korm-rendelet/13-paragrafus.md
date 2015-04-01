@@ -6,7 +6,7 @@
 
 (3) A készítő a nagyvízi mederkezelési terv tervezetére vonatkozóan beszerzi a tervezési területtel érintett
 
-a) központi államigazgatási szervek területi szervei – így különösen az illetékes környezetvédelmi és természetvédelmi felügyelőségek, a működési területük szerint érintett nemzeti park igazgatóságok –, a Honvédelmi Minisztérium Hatósági Hivatala,
+a)[^1] központi államigazgatási szervek területi szervei – így különösen a környezetvédelmi és természetvédelmi feladatkörükben eljáró megyei kormányhivatalok, a működési területük szerint érintett nemzeti park igazgatóságok –, a Honvédelmi Minisztérium Hatósági Hivatala,
 
 b) a települési önkormányzatok, valamint
 
@@ -31,3 +31,5 @@ c) az agrárkamarák, továbbá ipari és kereskedelmi kamarák
 (11) A nagyvízi mederkezelési terv tervezetének elkészítési határideje a nagyvízi mederben fekvés ténye ingatlan-nyilvántartási feljegyzéséről szóló határozat közlését követő hat hónap.
 
 (12) A készítő a nagyvízi mederkezelési terv kidolgozásában való közreműködésre kizárólag olyan személyt vagy szervezetet bízhat meg, aki, vagy amelynek tagjai vagy munkavállalói között található olyan személy, aki a vízgazdálkodási építmények tervezési szakterület területi vízgazdálkodás tervezési részszakterületen tervezői jogosultsággal rendelkezik.
+
+[^1]: A 13. § (3) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 247. §-a szerint módosított szöveg.
