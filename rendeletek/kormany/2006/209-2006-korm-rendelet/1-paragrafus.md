@@ -4,7 +4,7 @@
 
 (2)[^3] A polgármester közszolgálati járadéka megállapítása kérelemre történik.
 
-(3)[^4] A polgármester kérelmét tisztsége megszűnése napjától számított három hónapon belül a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) szerinti öregségi nyugellátás igénylésére rendszeresített igénybejelentő lapon, a kérelem elbírálására hatáskörrel rendelkező, lakóhely szerint illetékes nyugdíjbiztosítási igazgatóságnál (a továbbiakban: megállapító szerv) nyújthatja be.
+(3)[^4] A polgármester kérelmét tisztsége megszűnése napjától számított három hónapon belül a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) szerinti öregségi nyugellátás igénylésére rendszeresített igénybejelentő lapon, a kérelem elbírálására hatáskörrel rendelkező, lakóhely szerint illetékes általános hatáskörű nyugdíj-megállapító szerv (a továbbiakban: megállapító szerv) nyújthatja be.
 
 (4)[^5] A kérelemhez csatolni kell az Országos Nyugdíjbiztosítási Főigazgatóság által e célra rendszeresített, a kitöltéshez szükséges tájékoztatót tartalmazó nyomtatványt vagy elektronikus űrlapot (a továbbiakban: igénybejelentő pótlap) és annak a helyi önkormányzatnak a jegyzője, főjegyzője (a továbbiakban együtt: jegyző) által a polgármester közszolgálati járadéka megállapításához kiállított igazolást, amelynél a polgármester tisztsége megszűnt.
 
@@ -59,7 +59,7 @@ g) a jegyző aláírását, bélyegzőjét.
 [^1]: Az 1. §-t megelőző alcím a 333/2011. (XII. 29.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdése a 365/2007. (XII. 23.) Korm. rendelet 18. § (2) bekezdése f) pontjának fa) alpontja, a 351/2010. (XII. 30.) Korm. rendelet 154. §-a szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 154. §-a, a 70/2015. (III. 30.) Korm. rendelet 80. §-a szerint módosított szöveg.
 [^5]: Az 1. § (4) bekezdése a 93/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 333/2011. (XII. 29.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
 [^6]: Az 1. § (5) bekezdése a 93/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (5) bekezdés d) pont da) alpontját a 333/2011. (XII. 29.) Korm. rendelet 33. § e) pontja hatályon kívül helyezte.
