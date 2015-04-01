@@ -24,7 +24,7 @@
 
 6. útügyi hatósági eljárások,
 
-7. a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet szerinti építésügyi hatósági engedélyezési eljárások,
+7.[^2] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 8. hírközlési hatósági eljárások,
 
@@ -49,3 +49,5 @@
 18. vízügyi hatósági eljárások,
 
 továbbá az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések esetleges módosítására irányuló hatósági eljárások.
+
+[^2]: A 2. melléklet 7. pontja a 72/2015. (III. 30.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
