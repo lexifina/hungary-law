@@ -2,216 +2,86 @@
 
 |  | A | B | C | D |
 
-| 1 | Beruházás és azonosítója | A beruházás megvalósításával kapcsolatos engedélyek, engedélyezési eljárások | Első fokon eljáró hatóság | Fellebbezés elbírálására jogosult hatóság |
+| 1. | Beruházás és azonosítója | A beruházás megvalósításával kapcsolatos engedélyek, engedélyezési eljárások | Első fokon eljáró hatóság | Fellebbezés elbírálására jogosult hatóság |
 
-| 2 | A Déli Áramlat földgázszállító-vezeték Hercegszántó-Tornyiszent- miklós közötti szakasza kiépítéséhez, és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások | előzetes vizsgálati eljárás, környezeti hatásvizsgálati eljárás, egységes környezethasználati engedélyezési eljárás | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 2. | A Déli Áramlat földgázszállító-vezeték Hercegszántó- Tornyiszent- miklós közötti szakasza kiépítéséhez, és a vezeték üzemszerű működtetéséhez kapcsolódó beruházások | előzetes vizsgálati eljárás, környezeti hatásvizsgálati eljárás, egységes környezethasználati engedélyezési eljárás | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3 |  | vízjogi engedély vezeték szilárdsági nyomáspróbához, vízjogi létesítési engedély kútfúráshoz | illetékes vízügyi hatóság | Országos Vízügyi Hatóság |
+| 3. | vízjogi engedély vezeték szilárdsági nyomáspróbához, vízjogi létesítési engedély kútfúráshoz | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 4 |  | régészeti feltárási engedély | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 4. | régészeti feltárási engedély | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
-| 5 |  | külső villamos energia-ellátás kiépítésére vonatkozó engedély | illetékes megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 5. | külső villamos energia-ellátás kiépítésére vonatkozó engedély | illetékes megyei kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6 |  | erdő igénybevétele és fakitermelés bejelentése | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 6. | erdő igénybevétele és fakitermelés bejelentése | illetékes megyei kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 7 |  | termőföld más célú hasznosítására vonatkozó engedély | illetékes járási földhivatal | illetékes megyei kormányhivatal földhivatala |
+| 7. | termőföld más célú hasznosítására vonatkozó engedély | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-| 8 |  | bányaszolgalom alapítására irányuló engedélyezési eljárás | illetékes megyei kormányhivatal | nincs |
+| 8. | bányaszolgalom alapítására irányuló engedélyezési eljárás | illetékes megyei kormányhivatal | nincs |
 
-| 9 |  | építésügyi hatósági engedélyezési eljárások a bányafelügyelet hatáskörébe tartozó sajátos építményekre | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 9. | építésügyi hatósági engedélyezési eljárások a bányafelügyelet hatáskörébe tartozó sajátos építményekre | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 10 |  | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 11 |  | építésügyi hatósági engedélyezési eljárások a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló kormányrendelet szerint | illetékes megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 11. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai | illetékes megyei kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 12 |  | általános építésügyi hatósági engedélyezési eljárások | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
+| 12. | általános építésügyi hatósági engedélyezési eljárások | illetékes járási hivatal | illetékes fővárosi és megyei kormányhivatal |
 
-| 13 |  | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 13. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 14 |  | területrendezési eljárások | illetékes állami főépítész | nincs |
+| 14. | területrendezési eljárások | illetékes megyei kormányhivatal | nincs |
 
-| 15 |  | útügyi hatósági engedélyezési eljárások | illetékes megyei kormányhivatal közlekedési felügyelősége | Nemzeti Közlekedési Hatóság Központ |
+| 15. | útügyi hatósági engedélyezési eljárások | illetékes megyei kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 297/2012. (X. 25.) Korm. rendelethez[^5]
+2. melléklet a 297/2012. (X. 25.) Korm. rendelethez[^7]
 
-A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
+A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
-1. Előzetes vizsgálati eljárás, környezet hatásvizsgálati és egységes környezethasználati engedélyezési eljárás
+|  | A | B | C |
 
-|  |  | A | B | C |
+| 1. | Szakhatósági közreműködés tárgya | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
+| 2. | Egészségügy | illetékes megyei kormányhivatal | Országos Tisztifőorvosi Hivatal |
 
-|  | 2. | Egészségügy | illetékes megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
+| 3. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
 
-|  | 3. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
+| 4. | Bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-|  | 4. | Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 5. | Területrendezési előírásokkal való összhang | illetékes megyei kormányhivatal | területrendezésért felelős miniszter |
 
-|  | 5. | Területrendezési előírásokkal való összhang | illetékes állami főépítész | területrendezésért felelős miniszter |
+| 6. | Erdővédelem | illetékes megyei kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | 6. | Erdővédelem | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 7. | Termőföld minőségi védelme | illetékes megyei kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | 7. | Termőföld minőségi védelme | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 8. | Termőföld mennyiségi védelme | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-|  | 8. | Termőföld mennyiségi védelme | illetékes járási földhivatal | illetékes megyei kormányhivatal földhivatala |
+| 9. | Régészet és műemlékvédelem | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
-|  | 9. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 10. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartó és Képzési Központ |
 
-|  | 10. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
+| 11. | Víziközlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja |
 
-2. A bányafelügyelet hatáskörébe tartozó egyes sajátos építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendelet szerinti építésügyi engedélyezési eljárások
+| 12. | Közúti közlekedés: a) gyorsforgalmi utak esetében, és 30 méter szabad nyílást meghaladó közúti hidak esetén | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja |
 
-|  |  | A | B | C |
+| 13. | Közúti közlekedés: b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
+| 14. | Légi közlekedés: a) polgári célú | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
 
-|  | 2. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
+| 15. | Légi Közlekedés: b) állami célú | Nemzeti Közlekedési Hatóság Légügyi Hivatal | honvédelemért felelős miniszter |
 
-|  | 3. | Víziközlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központ |
+| 16. | Vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja |
 
-|  | 4. | Közúti közlekedés: |
+| 17. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-|  | 5. | a) gyorsforgalmi utak esetében, és 30 méter szabad nyílást meghaladó közúti hidak esetén | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központ |
+| 18. | Határrendészet | illetékes megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-|  | 6. | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei kormányhivatal közlekedési felügyelősége |
+| 19. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-|  | 7. | Légiközlekedés: |
+| 20. | Környezetvédelem, természetvédelem és tájvédelem. Környezet- és természetvédelem, ha a tevékenység megkezdéséhez egységes környezethasználati engedély vagy környezetvédelmi engedély nem szükséges | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-|  | 8. | a) polgári célú | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központ |
+| 21. | Talajvédelem | illetékes megyei kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | 9. | b) állami célú | Nemzeti Közlekedési Hatóság Légügyi Hivatal | honvédelemért felelős miniszter |
+| 22. | Vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-|  | 10. | Vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központ |
+| 23. | Építésügy | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-|  | 11. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
-
-|  | 12. | Erdővédelem | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-|  | 13. | Termőföld minőségi védelme | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-|  | 14. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
-
-|  | 15. | Határrendészet | illetékes megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
-
-|  | 16. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
-
-|  | 17. | Környezet- és természetvédelem | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
-
-|  | 18. | Gyógyhelyek | Országos Tisztifőorvosi Hivatal | Egészségügyi Nyilvántartási és Képzési Központ |
-
-3. Vízjogi (vízkivétel) engedély
-
-|  |  | A | B | C |
-
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-|  | 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
-
-|  | 3. | Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
-
-4. Régészeti feltárási engedély
-
-|  |  | A | B | C |
-
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-|  | 2. | Erdővédelem | illetékes megyei kormányhivatal erdészeti igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-|  | 3. | Termőföld minőségi védelme | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-|  | 4. | Természetvédelem | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
-
-5. Termőföld más célú hasznosításának engedélyeztetése
-
-|  |  | A | B | C |
-
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-|  | 2. | Talajvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-|  | 3. | környezetvédelem, természetvédelem és tájvédelem | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
-
-|  | 3a. | vízügy | illetékes vízügyi hatóság | Országos Vízügyi Hatóság |
-
-|  | 4. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
-
-|  | 5. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
-
-6. Útügyi hatósági eljárások
-
-|  |  | A | B | C |
-
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-|  | 2. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
-
-|  | 3. | Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
-
-|  | 4. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
-
-|  | 5. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
-
-|  | 6. | Építésügy | illetékes járási (fővárosi kerületi) hivatal járási építésügyi hivatala vagy járási építésügyi és örökségvédelmi hivatala, műemléket érintő ügyben a járási építésügyi és örökségvédelmi hivatal | illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala |
-
-|  | 7. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
-
-7. Általános építésügyi hatósági engedélyezési eljárás
-
-|  |  | A | B | C |
-
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-|  | 2. | Egészségügy | illetékes megyei kormányhivatal népegészségügyi szakigazgatási szerve | Országos Tisztifőorvosi Hivatal |
-
-|  | 3. | Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
-
-|  | 4. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
-
-|  | 5. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
-
-8. A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi és a mérésügyi és műszaki biztonsági hatóságokról szóló kormányrendelet szerinti építésügyi engedélyezési eljárások
-
-|  |  | A | B | C |
-
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-|  | 2. | Talaj- és termőföldvédelem | illetékes megyei kormányhivatal növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-|  | 3. | Helyi jelentőségű védett természetvédelmi terület | települési önkormányzat jegyzője | illetékes megyei kormányhivatal |
-
-|  | 4. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
-
-|  | 5. | Bányászat | illetékes bányakapitányság | Magyar Bányászati és Földtani Hivatal |
-
-|  | 6. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
-
-|  | 7. | Környezet- és természetvédelem, ha a tevékenység megkezdéséhez egységes környezethasználati engedély vagy környezetvédelmi engedély nem szükséges | illetékes környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
-
-|  | 8. | Víziközlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központ |
-
-|  | 9. | Közúti közlekedés: |
-
-|  | 10. | a) gyorsforgalmi utak esetében, és 30 méter szabad nyílást meghaladó közúti hidak esetén | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központ |
-
-|  | 11. | b) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei kormányhivatal közlekedési felügyelősége |
-
-|  | 12. | Légiközlekedés: |
-
-|  | 13. | a) polgári célú | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központ |
-
-|  | 14. | b) állami célú | Nemzeti Közlekedési Hatóság Légügyi Hivatal | honvédelemért felelős miniszter |
-
-|  | 15. | Vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központ |
-
-|  | 16. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
-
-9. Erdészeti engedélyezési eljárások
-
-|  |  | A | B | C |
-
-|  | 1. | Szakhatósági közreműködés tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
-
-|  | 2. | régészet és műemlékvédelem | illetékes járási (fővárosi kerületi) hivatal járási építésügyi és örökségvédelmi hivatala | az illetékes fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
-
-[^5]: A 2. melléklet a 394/2012. (XII. 20.) Korm. rendelet 62. §-a, a 414/2012. (XII. 29.) Korm. rendelet 13. §-a, az 527/2013. (XII. 30.) Korm. rendelet 121. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 100. § (2) bekezdése és 101. § b)–e) pontja, a 30/2015. (II. 25.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 32. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
