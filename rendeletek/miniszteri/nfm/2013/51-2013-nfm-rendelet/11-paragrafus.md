@@ -6,10 +6,12 @@ a) a rendőrség,
 
 b) a közlekedési hatóság,
 
-c) az illetékes sugáregészségügyi decentrum,
+c)[^8] az illetékes sugáregészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal,
 
 d) az illetékes hivatásos katasztrófavédelmi szerv
 
 ## végzi.
 
 (2) Az (1) bekezdésben foglalt szervek tájékoztatják egymást a lefolytatott ellenőrzésekről.
+
+[^8]: A 11. § (1) bekezdés c) pontja a 15/2015. (III. 31.) NFM rendelet 31. § b) pontja szerint módosított szöveg.

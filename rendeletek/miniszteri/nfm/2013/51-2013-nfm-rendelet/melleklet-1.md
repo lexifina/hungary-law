@@ -26,4 +26,6 @@
 
 9.3. a járművezető sugárvédelmi és az ADR képzettségét igazoló dokumentumok másolatait (ha jogszabály előírja),
 
-9.4. a sugáregészségügyi decentrum által kiadott, a szállítóeszköz használatát sugárvédelmi szempontból engedélyező határozat másolatát.
+9.4.[^12] a sugáregészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által kiadott, a szállítóeszköz használatát sugárvédelmi szempontból engedélyező határozat másolatát.
+
+[^12]: Az 1. melléklet 9.4. pontja a 15/2015. (III. 31.) NFM rendelet 31. § b) pontja szerint módosított szöveg.
