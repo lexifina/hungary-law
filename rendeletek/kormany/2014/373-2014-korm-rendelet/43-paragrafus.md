@@ -16,7 +16,7 @@ g) az állami ingatlan-nyilvántartási térképi adatbázisból elektronikus fo
 
 h) az alaphálózati pontok áthelyezése, megszüntetése során,
 
-i) a megyei földhivatal alappont helyszínelésének ellenőrzése során,
+i)[^94] a kormányhivatal alappont helyszínelésének ellenőrzése során,
 
 j) a földmérési engedélyhez kötött tevékenység gyakorlásának időtartama alatt a tevékenységre jogosultnál lefolytatott hatósági ellenőrzés során,
 
@@ -85,3 +85,5 @@ s) ellátja az állami földmérési és ingatlan-nyilvántartási térképi ada
 t) tevékenységi körébe tartozó szakértői véleményt készít,
 
 u) ellátja a szakirányú konferenciák, valamint a szakirányú továbbképzés akkreditálását.
+
+[^94]: A 43. § (1) bekezdés i) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.

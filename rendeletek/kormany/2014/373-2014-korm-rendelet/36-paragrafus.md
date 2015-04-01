@@ -1,4 +1,4 @@
-## 35. § Ha a megkeresésre induló egyesített eljárás során a járási földhivatal olyan változást is megállapít, amelyet az ügyfélnek kellett volna bejelentenie, a hivatalból induló egyesített eljárásra vonatkozó szabályokat kell alkalmazni.
+## 35. §[^72] Ha a megkeresésre induló egyesített eljárás során a járási hivatal olyan változást is megállapít, amelyet az ügyfélnek kellett volna bejelentenie, a hivatalból induló egyesített eljárásra vonatkozó szabályokat kell alkalmazni.
 
 ## V. Fejezet
 
@@ -58,7 +58,7 @@ f) az igazgatási szolgáltatási díj befizetésének igazolását.
 
 (6) Az egyesített telekalakítási eljárás megindítására irányuló kérelemnek az (5) bekezdésben foglaltakon túl meg kell felelnie az ingatlan-nyilvántartásról szóló törvény szerinti előírásoknak is.
 
-(7) A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, az általa irányított minisztérium, valamint a földhivatalok honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 3. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
+(7)[^73] A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, az általa irányított minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 3. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
 
 (8) Telekalakítási dokumentációt
 
@@ -69,3 +69,6 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 ## készíthet.
 
 (9) Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja a változási vázrajzon és a telekalakítási helyszínrajzon.
+
+[^72]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
+[^73]: A 36. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 21. pontja szerint módosított szöveg.

@@ -1,11 +1,13 @@
-## 25. § A Kormány a 2. melléklet szerinti hatóságokat szakhatóságként jelöli ki az ott meghatározott földhivatali eljárásokban és az abban megállapított feltételek fennállása esetén, a megjelölt szakkérdés elbírálása tekintetében.
-
-26. § (1) A termőföld védelméről szóló törvényben meghatározott földminősítéssel kapcsolatos ügyekben első fokon a megyei földhivatal
+26. § (1)[^52] A termőföld védelméről szóló törvényben meghatározott földminősítéssel kapcsolatos ügyekben első fokon a kormányhivatal
 
 a) végzi a járási mintaterek kijelölését, karbantartását, a járási mintatér-jegyzék vezetését,
 
 b) folytatja le a földminősítési eljárást, ha a különböző becslőjárásba vagy osztályozási vidékbe tartozó települések határa területrész átadása-átvétele következtében megváltozik.
 
-(2) A több megye területére kiterjedő becslőjárás, illetve osztályozási vidék esetén a járási mintaterek felülvizsgálatával, újak kijelölésével kapcsolatos feladatokat a legnagyobb területtel érintett megyei földhivatal – az érintett megyei földhivatalok javaslatainak figyelembevételével – látja el.
+(2)[^53] A több megye területére kiterjedő becslőjárás, illetve osztályozási vidék esetén a járási mintaterek felülvizsgálatával, újak kijelölésével kapcsolatos feladatokat a legnagyobb területtel érintett kormányhivatal – az érintett megyei kormányhivatalok javaslatainak figyelembevételével – látja el.
 
-(3) A termőföld védelméről szóló törvényben meghatározott, a földminősítési mintatér elhelyezését biztosító használati jogot a fővárosi és megyei kormányhivatal a megyei földhivatalon keresztül gyakorolja. Az ingatlan-nyilvántartási bejegyzésben erre utalni kell.
+(3)[^54] A termőföld védelméről szóló törvényben meghatározott, a földminősítési mintatér elhelyezését biztosító használati jogot a kormányhivatal gyakorolja.
+
+[^52]: A 26. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. pontja szerint módosított szöveg.
+[^53]: A 26. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 10. és 18. pontja szerint módosított szöveg.
+[^54]: A 26. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 19. pontja szerint módosított szöveg.

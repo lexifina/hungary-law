@@ -1,5 +1,11 @@
-3. § (1) A megyei földhivatal illetékessége az adott megye területére, Budapest Főváros Kormányhivatalának Földhivatala illetékessége a főváros területére terjed ki.
+3. §[^6] (1) Az 1. § (2) bekezdésében meghatározott földügyi igazgatási feladatkörében eljáró
 
-(2) A járási földhivatalok illetékességi területét, valamint a kirendeltségek működési területét az 1. melléklet határozza meg.
+a) kormányhivatal illetékessége a hatáskörébe tartozó ügyekben az adott megye (főváros) területére,
 
-(3) A FÖMI országos illetékességgel jár el.
+b) járási hivatal illetékességi területe a hatáskörébe tartozó ügyekben az 1. mellékletben meghatározott területre
+
+terjed ki.
+
+(2) A FÖMI országos illetékességgel jár el.
+
+[^6]: A 3. § a 70/2015. (III. 30.) Korm. rendelet 260. § (3) bekezdésével megállapított szöveg.

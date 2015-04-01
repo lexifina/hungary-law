@@ -30,12 +30,8 @@
 
 ## 3. A telekalakítási záradék:
 
-## A földhivatal a telekalakítás engedélyezése esetén a változási vázrajzot
+## A járási hivatal a telekalakítás engedélyezése esetén a változási vázrajzot az »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat jogerőre emelkedésétől számított egy évig hatályos.« záradékszöveggel látja el.
 
-## »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat jogerőre emelkedésétől számított egy évig hatályos.«
+4. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^241]
 
-## záradékszöveggel látja el.
-
-4. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^12]
-
-[^12]: A 4. melléklet a 38/2015. (III. 11.) Korm. rendelet 28. § i)–l) pontja szerint módosított szöveg.
+[^241]: A 4. melléklet a 70/2015. (III. 30.) Korm. rendelet 260. § (22) bekezdésével megállapított szöveg.

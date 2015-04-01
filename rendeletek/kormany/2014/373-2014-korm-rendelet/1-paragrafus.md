@@ -6,9 +6,9 @@
 
 1. § (1) A földügyi igazgatás:
 
-a) helyi szervei: a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hivatalainak önálló feladat- és hatáskörrel rendelkező szakigazgatási szerveként működő, hivatalvezető által vezetett járási földhivatalok, Budapesten a Budapesti 1. Számú Földhivatal és a Budapesti 2. Számú Földhivatal (a továbbiakban együtt: járási földhivatal), valamint az önálló hatósági jogkörrel nem rendelkező kirendeltségek,
+a)[^1] helyi szervei: az ingatlanügyi és telekalakítási hatóságként, továbbá mezőgazdasági igazgatási szervként eljáró járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: járási hivatal), valamint a járási hivatal önálló hatósági jogkörrel nem rendelkező földügyi kirendeltségei,
 
-b) területi szervei: a fővárosi és megyei kormányhivatalok önálló feladat- és hatáskörrel rendelkező ingatlanügyi szakigazgatási szerveként működő, hivatalvezető által vezetett földhivatalok (a továbbiakban együtt: megyei földhivatal),
+b)[^2] területi szervei: az a) pontban megjelölt feladatkörükben eljáró fővárosi és megyei kormányhivatalok (a továbbiakban együtt: kormányhivatal),
 
 c) központi szerve: a Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI).
 
@@ -26,8 +26,14 @@ e) a földforgalommal és a földművesekről, a mezőgazdasági termelőszervez
 
 ## összefüggő feladatok ellátására.
 
-(3) A járási földhivatal tekintetében a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e)–h) pontja szerinti hatáskörök gyakorlására a szakmai irányítást végző megyei földhivatal vezetője jogosult.
+(3)[^3]
 
-(4) A megyei földhivatal tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (4) bekezdésében, valamint 7. §-ában meghatározott hatáskörök – a Ksztv. 2. § (1) bekezdés h)–i) pontja szerinti hatáskört is beleértve – gyakorlására jogosult szakmai irányító szerv vezetője az ingatlan-nyilvántartásért felelős miniszter (a továbbiakban: miniszter).
+(4)[^4] A járási hivatal és a kormányhivatal (2) bekezdés szerinti földügyi igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az ingatlan-nyilvántartásért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-(5) A közigazgatási hatósági eljárásokban a járási földhivatal vezetője vagy a hivatalvezető nevében a kiadmányozási jogkörrel rendelkező ügyintéző jár el.
+(5)[^5]
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 260. § (24) bekezdés a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 260. § (24) bekezdés a) pontja hatályon kívül helyezte.
