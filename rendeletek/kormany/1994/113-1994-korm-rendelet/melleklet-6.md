@@ -92,10 +92,6 @@ A hadigondozottat a hadigondozásról szóló 1994. évi XLV. törvény alapján
 
 (3) A mozgáskorlátozott személyeket megillető támogatások megállapítása során — az azonos feltételek fennállása esetén — a hadirokkantat előnyben kell részesíteni.
 
-23. § (1) A hadirokkant és hadiözvegy mentes a televízió előfizetési díjának megfizetése alól.
-
-(2) Ez a kedvezmény háztartásonként egy televízió-műsorvevő készülékre terjed ki.
-
 24. § A hadirokkant és hadiözvegy a vásárcsarnokokban és a piacokon a helypénz megfizetése nélkül árusíthatja saját kisipari és mezőgazdasági termékeit, illetve terményeit.
 
 Figyelmeztetés:
@@ -106,4 +102,4 @@ Figyelmeztetés:
 
 3. Az igazolvány elvesztését a tulajdonos a kiállító hatósággal 8 napon belül köteles közölni.
 
-[^49]: Az R. 6. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 4. § e) pontja, a 174/2012. (VII. 26.) Korm. rendelet 5. § (2) és (6) bekezdése szerint módosított szöveg.
+[^49]: Az R. 6. számú melléklete a 332/2010. (XII. 27.) Korm. rendelet 4. § e) pontja, a 174/2012. (VII. 26.) Korm. rendelet 5. § (2) és (6) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 12. § (4) bekezdése szerint módosított szöveg.

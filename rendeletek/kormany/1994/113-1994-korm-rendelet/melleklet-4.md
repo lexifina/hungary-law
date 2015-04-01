@@ -1,8 +1,8 @@
-## A rehabilitációs szakigazgatási szerv vezetője vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője
+## A fővárosi és megyei kormányhivatal vezetője vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője
 
 ## …………………………
 
-## Szám:………………… Tárgy: szakhatósági állásfoglalás hadieredetű
+## Szám:………………… Tárgy: Szakhatósági állásfoglalás/Szakvélemény hadieredetű
 
 ## fogyatkozásról és az általa okozott egészségkárosodás mértékéről
 
@@ -40,7 +40,7 @@
 
 ## .................................................
 
-## A szakhatósági állásfoglalás alapjául szolgáló indokok:
+## A szakvélemény alapjául szolgáló indokok:
 
 ## .....................................................
 
@@ -68,7 +68,7 @@
 
 ## …………………………… ……………………………
 
-## (rehabilitációs szakigazgatási szerv vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője)
+## (fővárosi és megyei kormányhivatal vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője)
 
 4. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^47]
 
