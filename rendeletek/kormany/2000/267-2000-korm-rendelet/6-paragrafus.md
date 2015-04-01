@@ -2,10 +2,10 @@
 
 (2)[^27] A jogosult az 1. §-ban meghatározott feltételek fennállását az állampolgárságot igazoló okirattal, a szabadságelvonás tekintetében kárpótlási hatóság által hozott jogerős személyi kárpótlási határozattal, vagy társadalombiztosítási és munkajogi helyzetének rendezéséről szóló hatósági bizonyítvánnyal, igazolással is bizonyíthatja, az elítélés semmisségét és a szabadságvesztés tényleges időtartamát az első fokon eljárt bíróság igazolása igazolja. A folyósító szerv a juttatást megállapító határozatának meghozatala előtt, amennyiben a jogosult az előzőekben részletezett, kárpótlási hatóság által kibocsátott döntésekkel nem rendelkezik, és az előterjesztett igazolásokból a jogosultság ténye vagy a szabadságkorlátozás időtartama egyértelműen nem állapítható meg, az ügyfél által becsatolt dokumentumok alapján az adatok pontosítása miatt megkeresheti a kárpótlási hatóságot.
 
-(3)[^28] Amennyiben a kérelmező a munkaképesség-csökkenésre vagy az egészségkárosodás mértékére vonatkozó hatályos szakvéleménnyel, szakhatósági állásfoglalással nem rendelkezik, kérelmére az egészségkárosodás mértékét a rehabilitációs szakigazgatási szerv igazolja.
+(3)[^28] Amennyiben a kérelmező a munkaképesség-csökkenésre vagy az egészségkárosodás mértékére vonatkozó hatályos szakvéleménnyel, szakhatósági állásfoglalással nem rendelkezik, kérelmére az egészségkárosodás mértékét a rehabilitációs szakértői szerv igazolja.
 
 (4) A juttatásban részesülő a jogosultság feltételeit érintő tények, körülmények megváltozásáról a változás bekövetkeztétől számított 15 napon belül a folyósító szervet köteles írásban értesíteni.
 
 [^26]: A 6. § (1) bekezdése a 349/2011. (XII. 30.) Korm. rendelet 5. §-ával megállapított, a 63/2013. (III. 4.) Korm. rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^27]: A 6. § (2) bekezdése a 102/2013. (III. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^28]: A 6. § (3) bekezdése a 95/2012. (V. 15.) Korm. rendelet 32. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 23. §-át.
+[^28]: A 6. § (3) bekezdése a 95/2012. (V. 15.) Korm. rendelet 32. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 47. §-a szerint módosított szöveg.
