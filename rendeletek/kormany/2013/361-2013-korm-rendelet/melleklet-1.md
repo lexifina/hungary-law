@@ -22,7 +22,7 @@
 
 9a.[^4] Országos Vízügyi Főigazgatóság,
 
-10.[^5] környezetvédelmi és természetvédelmi felügyelőségek,
+10.[^5] környezetvédelmi és természetvédelmi feladatkörükben eljáró megyei kormányhivatalok,
 
 10a.[^6]
 
@@ -66,5 +66,5 @@
 [^2]: Az 1. melléklet 8. pontja a 221/2014. (IX. 4.) Korm. rendelet 757. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. melléklet 9. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
 [^4]: Az 1. melléklet 9a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 757. § c) pontja szerint módosított szöveg.
-[^5]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 233. §-a szerint módosított szöveg.
 [^6]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 758. §-a.
