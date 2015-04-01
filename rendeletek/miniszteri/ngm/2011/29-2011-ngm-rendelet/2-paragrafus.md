@@ -34,7 +34,7 @@
 
 16. gazdasági szereplő: gazdasági vagy közszolgáltatási tevékenysége körében a gyártó, a meghatalmazott képviselő, az importőr, a forgalmazó, a tulajdonos és az üzemeltető, akár ellenérték fejében, akár ingyenesen végzi tevékenységét;
 
-17. piacfelügyeleti hatóság: Magyar Kereskedelmi Engedélyezési Hivatal, Magyar Bányászati és Földtani Hivatal;
+17.[^1] piacfelügyeleti hatóság: Magyar Kereskedelmi Engedélyezési Hivatal, bányafelügyelet;
 
 18. megfelelőségértékelés: az ADR-ben, a RID-ben és az ADN-ben megállapított megfelelőségértékelés és megfelelőségértékelési eljárás;
 
@@ -47,3 +47,5 @@
 22. közbenső vizsgálat: az ADR-ben, a RID-ben és az ADN-ben megállapított közbenső vizsgálat és az arra irányadó eljárások;
 
 23. soron kívüli ellenőrzés: az ADR-ben, a RID-ben és az ADN-ben megállapított soron kívüli ellenőrzés és az arra irányadó eljárások.
+
+[^1]: A 2. § 17. pontja a 9/2015. (III. 31.) NGM rendelet 47. §-a szerint módosított szöveg.

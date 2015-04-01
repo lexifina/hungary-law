@@ -1,6 +1,6 @@
 ## 8. Bejelentett szervezet kijelölése
 
-15. § (1)[^1] A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: kijelölő hatóság) jelöli ki a bejelentett szervezeteket
+15. § (1)[^2] A Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: kijelölő hatóság) jelöli ki a bejelentett szervezeteket
 
 a) megfelelőségértékelésre;
 
@@ -16,4 +16,4 @@ c) időszakos vizsgálatra.
 
 (5) A kijelölő hatóság nem jelentheti be a Bizottságnak az ADR-ben, a RID-ben és az ADN-ben meghatározott kijelölt üzemi vizsgálóhelyet az (1) bekezdés szerinti eljárások lefolytatására.
 
-[^1]: A 15. § (1) bekezdés nyitó szövegrésze a 10/2012. (V. 18.) NGM rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 15. § (1) bekezdés nyitó szövegrésze a 10/2012. (V. 18.) NGM rendelet 7. § (1) bekezdése szerint módosított szöveg.
