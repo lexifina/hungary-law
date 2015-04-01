@@ -1,8 +1,8 @@
-5/B. §[^55] (1) A felügyelőség a nyilvánosság észrevételeinek beérkezését követően – a vélemény tartalmának kialakítása érdekében – szóbeli konzultációt tarthat, illetve a környezethasználó vagy az 5/A. § (2) bekezdés szerinti közigazgatási szerv kérelmére szóbeli konzultációt tart, amelyre meghívja az 5/A. § (2) bekezdés szerinti közigazgatási szerveket és a környezethasználót.
+5/B. §[^67] (1) A környezetvédelmi hatóság a nyilvánosság észrevételeinek beérkezését követően – a vélemény tartalmának kialakítása érdekében – szóbeli konzultációt tarthat, illetve a környezethasználó vagy az 5/A. § (2) bekezdés szerinti közigazgatási szerv kérelmére szóbeli konzultációt tart, amelyre meghívja az 5/A. § (2) bekezdés szerinti közigazgatási szerveket és a környezethasználót.
 
-(2)[^56] A felügyelőség a konzultációs kérelembe, az (1) bekezdés szerinti szóbeli konzultációról készült összefoglalóba, valamint a közigazgatási szervek észrevételeibe a betekintést – a rendelkezésre állásukat, illetve a szóbeli konzultációt követő nyolc napon belül – lehetővé teszi.
+(2)[^68] A környezetvédelmi hatóság a konzultációs kérelembe, az (1) bekezdés szerinti szóbeli konzultációról készült összefoglalóba, valamint a közigazgatási szervek észrevételeibe a betekintést – a rendelkezésre állásukat, illetve a szóbeli konzultációt követő nyolc napon belül – lehetővé teszi.
 
-(3) A felügyelőség az előzetes konzultáció keretében
+(3) A környezetvédelmi hatóság az előzetes konzultáció keretében
 
 a) a kizárólag az 1. számú mellékletbe tartozó tevékenység esetén véleményt ad a környezeti hatástanulmány tartalmi követelményeiről a 6. számú melléklet figyelembevételével;
 
@@ -16,15 +16,15 @@ e) ha a tevékenység környezetvédelmi engedélyezését vagy egységes körny
 
 f) ha valamely Natura 2000 területre jelentős környezeti hatás várható, az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló jogszabályban a hatásbecslési dokumentáció tartalmára vonatkozó előírások figyelembevételével ad véleményt a környezeti hatástanulmány, illetve az egységes környezethasználati engedély iránti kérelem tartalmi követelményeiről.
 
-(4) A felügyelőség véleményét a konzultációs kérelem benyújtásától számított 45 napon belül adja meg. E határidőbe az 5/A. § (2) bekezdés szerinti közigazgatási szervek észrevételezési határideje beszámít.
+(4) A környezetvédelmi hatóság véleményét a konzultációs kérelem benyújtásától számított 45 napon belül adja meg. E határidőbe az 5/A. § (2) bekezdés szerinti közigazgatási szervek észrevételezési határideje beszámít.
 
-(5) A tartalmi követelmények meghatározásakor a felügyelőség figyelembe veszi, hogy melyek azok az információk, amelyek megfelelnek a tervezés adott szakaszának, a tevékenység és a várhatóan hatásviselő környezeti elemek, rendszerek jellegének, valamint amelyek ésszerűen megkövetelhetők a konzultáció időpontjában fennálló ismeretek és vizsgálati módszerek alapján.
+(5) A tartalmi követelmények meghatározásakor a környezetvédelmi hatóság figyelembe veszi, hogy melyek azok az információk, amelyek megfelelnek a tervezés adott szakaszának, a tevékenység és a várhatóan hatásviselő környezeti elemek, rendszerek jellegének, valamint amelyek ésszerűen megkövetelhetők a konzultáció időpontjában fennálló ismeretek és vizsgálati módszerek alapján.
 
-(6) A közigazgatási szervek, valamint a nyilvánosság észrevételeit a felügyelőség véleményével együtt a környezethasználó részére megküldi.
+(6) A közigazgatási szervek, valamint a nyilvánosság észrevételeit a környezetvédelmi hatóság véleményével együtt a környezethasználó részére megküldi.
 
-(7) A felügyelőség a (3) bekezdés szerinti véleményének közzétételéről honlapján gondoskodik. A felügyelőség a véleményről közleményt készít, amelyet megküld az érintett önkormányzatok jegyzőinek. A jegyzők haladéktalanul, de legkésőbb öt napon belül gondoskodnak a közlemény közterületen és helyben szokásos egyéb módon való közzétételéről.
+(7) A környezetvédelmi hatóság a (3) bekezdés szerinti véleményének közzétételéről honlapján gondoskodik. A környezetvédelmi hatóság a véleményről közleményt készít, amelyet megküld az érintett önkormányzatok jegyzőinek. A jegyzők haladéktalanul, de legkésőbb öt napon belül gondoskodnak a közlemény közterületen és helyben szokásos egyéb módon való közzétételéről.
 
-(8) A környezethasználó a vélemény megadását követő két éven belül nyújthat be kérelmet a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránt. Ha a felügyelőség határidőben véleményt nem ad, a környezethasználó a vélemény hiányában is benyújthatja a kérelmet a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránt.
+(8) A környezethasználó a vélemény megadását követő két éven belül nyújthat be kérelmet a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránt. Ha a környezetvédelmi hatóság határidőben véleményt nem ad, a környezethasználó a vélemény hiányában is benyújthatja a kérelmet a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránt.
 
-[^55]: Az 5/B. §-t a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^56]: Az 5/B. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^67]: Az 5/B. §-t a 151/2009. (VII. 23.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^68]: Az 5/B. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (70) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

@@ -14,8 +14,8 @@ c) az előbbi hatások következtében az érintett népesség egészségi álla
 
 ## az egyes esetek sajátosságainak figyelembevételével történő meghatározására, valamint a tevékenység ennek alapján történő engedélyezhetőségére terjed ki a 6–16. §-ok rendelkezései szerint.
 
-(2) A tevékenységnek az (1) bekezdés a)–c) pontjai szerinti hatásai meghatározását a tevékenység egyes szakaszai – telepítés[^57], megvalósítás[^58], felhagyás[^59] – szerint megkülönböztetve kell elvégezni.
+(2) A tevékenységnek az (1) bekezdés a)–c) pontjai szerinti hatásai meghatározását a tevékenység egyes szakaszai – telepítés[^69], megvalósítás[^70], felhagyás[^71] – szerint megkülönböztetve kell elvégezni.
 
-[^57]: Telepítés: a tevékenység gyakorlásához szükséges feltételek megteremtése, különösen a területfoglalás, az építési terület előkészítése, az építés, a berendezések felszerelése.
-[^58]: Megvalósítás: a tevékenység tényleges gyakorlása, különösen a létesítmény működtetése, üzemelése, használata.
-[^59]: Felhagyás: a tevékenység megszüntetése.
+[^69]: Telepítés: a tevékenység gyakorlásához szükséges feltételek megteremtése, különösen a területfoglalás, az építési terület előkészítése, az építés, a berendezések felszerelése.
+[^70]: Megvalósítás: a tevékenység tényleges gyakorlása, különösen a létesítmény működtetése, üzemelése, használata.
+[^71]: Felhagyás: a tevékenység megszüntetése.

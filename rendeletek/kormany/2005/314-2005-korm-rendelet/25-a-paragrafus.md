@@ -1,6 +1,6 @@
-## 25. §[^131]
+## 25. §[^177]
 
-## A NEMZETGAZDASÁGI SZEMPONTBÓL KIEMELT JELENTŐSÉGŰ BERUHÁZÁSOK MEGVALÓSÍTÁSÁNAK GYORSÍTÁSÁRÓL ÉS EGYSZERŰSÍTÉSÉRŐL SZÓLÓ TÖRVÉNY HATÁLYA ALÁ TARTOZÓ ELJÁRÁSOKRA VONATKOZÓ KÜLÖNÖS HATÁRIDŐK[^132]
+## A NEMZETGAZDASÁGI SZEMPONTBÓL KIEMELT JELENTŐSÉGŰ BERUHÁZÁSOK MEGVALÓSÍTÁSÁNAK GYORSÍTÁSÁRÓL ÉS EGYSZERŰSÍTÉSÉRŐL SZÓLÓ TÖRVÉNY HATÁLYA ALÁ TARTOZÓ ELJÁRÁSOKRA VONATKOZÓ KÜLÖNÖS HATÁRIDŐK[^178]
 
-[^131]: A 25. §-t és az azt megelőző alcím címet a 371/2012. (XII. 17.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
-[^132]: A 25/A. §-t megelőző fejezetcímet a 80/2012. (IV. 18.) Korm. rendelet 1. §-a iktatta be.
+[^177]: A 25. §-t és az azt megelőző alcím címet a 371/2012. (XII. 17.) Korm. rendelet 16. § d) pontja hatályon kívül helyezte.
+[^178]: A 25/A. §-t megelőző fejezetcímet a 80/2012. (IV. 18.) Korm. rendelet 1. §-a iktatta be.

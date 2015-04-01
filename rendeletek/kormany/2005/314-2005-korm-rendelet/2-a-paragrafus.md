@@ -1,30 +1,30 @@
-## MÁS HATÓSÁGI, SZAKHATÓSÁGI ELJÁRÁSBAN A KÖRNYEZETI HATÁSOK JELENTŐSÉGÉNEK VIZSGÁLATA[^26]
+## MÁS HATÓSÁGI, SZAKHATÓSÁGI ELJÁRÁSBAN A KÖRNYEZETI HATÁSOK JELENTŐSÉGÉNEK VIZSGÁLATA[^30]
 
-2/A. §[^27] (1) A 3. számú melléklet szerinti olyan tevékenység esetén, amely nem éri el a 3. számú mellékletben meghatározott küszöbértéket, vagy a 3. számú mellékletben a tevékenységre megállapított feltétel nem teljesül, kormányrendeletben meghatározott esetekben a felügyelőség – a környezethasználó által benyújtott, a 13. számú melléklet szerinti adatlap alapján – előzetes vizsgálati eljárás lefolytatása nélkül, más hatósági, szakhatósági eljárásban az 5. számú mellékletben foglaltak szerint vizsgálja, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e.
+2/A. §[^31] (1) Kormányrendeletben meghatározott esetekben a 3. számú melléklet szerinti olyan tevékenység esetén, amely nem éri el a 3. számú mellékletben meghatározott küszöbértéket, vagy a 3. számú mellékletben a tevékenységre megállapított feltétel nem teljesül, előzetes vizsgálati eljárás lefolytatása nélkül – a 13. számú melléklet szerint megadott adatok és az 5. mellékletben meghatározott szempontok figyelembevételével –, a (2)–(6) bekezdésben foglaltak szerint kell megvizsgálni a feltételezett környezeti hatások jelentőségét, továbbá döntést hozni a környezeti hatásvizsgálat szükségességéről és az annak során vizsgálandó kérdésekről.
 
-(1a)[^28] A szakhatósági állásfoglalása kialakításához a felszíni- és felszín alatti vizek védelme vonatkozásában
+(2) Jelentős környezeti hatás feltételezése esetén a környezeti hatásvizsgálat szükségességét, továbbá – a 6. számú melléklet figyelembevételével – a környezeti hatástanulmány tartalmi követelményeit
 
-a) a környezetvédelmi és természetvédelmi felügyelőség az első fokon eljáró vízvédelmi hatóság,
+a) az érdemi döntésre jogosult hatóság az (1) bekezdésben foglalt szakkérdés vizsgálatával, vagy
 
-b) az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség a másodfokon eljáró vízvédelmi hatóság
+b) a környezetvédelmi hatóság szakhatósági közreműködés keretében
 
-véleményét kikéri.
+## állapítja meg.
 
-(2) Jelentős környezeti hatás feltételezése esetén a felügyelőség szakhatósági állásfoglalásában, vagy a felügyelőség saját hatáskörébe tartozó engedélyezési eljárás során hozott, az eljárás felfüggesztéséről szóló végzésben – a 6. számú melléklet figyelembevételével – megállapítja a környezeti hatástanulmány tartalmi követelményeit.
+(3) A (2) bekezdésben foglalt esetben a hatóság az eljárását – a b) pont esetén a környezetvédelmi hatóság szakhatósági állásfoglalása alapján – a környezetvédelmi engedélyezési eljárás jogerős lezárultáig felfüggeszti.
 
-(2a)[^29] A környezeti hatástanulmányt az eljárás felfüggesztéséről szóló végzés jogerőre emelkedését követő három éven belül kell benyújtani.
+(4) Ha az ügyben érdemi döntésre jogosult hatóságként nem a vízvédelmi hatóság jár el,
 
-(3) Az (1) bekezdésben foglalt eljárást megelőző, előzetes szakhatósági állásfoglalás kérése esetén az ügyfél a 13. számú melléklet szerinti adatlapon túl – a (4) bekezdésben foglalt kivétellel – az engedélyezési eljáráshoz szükséges teljes engedélyezési tervdokumentációt vagy építészeti-műszaki dokumentációt és mellékleteket nyújtja be a felügyelőségnek.
+a) az ügyben érdemi döntésre jogosult, környezetvédelmi és természetvédelmi hatáskörrel rendelkező hatóság az eljárás felfüggesztésének tárgyában való döntés meghozatalát megelőzően, vagy
 
-(4) A Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet (a továbbiakban: Nkr.)
+b) a szakhatóság a szakhatósági állásfoglalásának kialakítását megelőzően
 
-a) 8/A. §-ának (2a) bekezdése szerinti esetben,
+## a felszíni és a felszín alatti vizekre gyakorolt hatásokra kiterjedően a vízvédelmi hatóság véleményét kikéri.
 
-b) 8/D. §-ának (2) bekezdése szerinti esetben, ha az Nkr. 8/D. § (1) bekezdésének f) pontjában foglalt szakhatósági eljárásban a szakhatóság azon szakkérdést vizsgálja, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e, valamint
+(5) A vízvédelmi hatóság a véleményét 15 napon belül megadja.
 
-c) 8/E. §-ának (1a) bekezdése szerinti esetben
+(6) A (4) bekezdésben foglaltakat a másodfokú eljárás során is alkalmazni kell azzal, hogy a másodfokú hatóság vagy szakhatóság a felülvizsgálat során a másodfokon eljáró vízvédelmi hatóság véleményét kéri ki.
 
-[^26]: A 2/A. §-t megelőző alcímet a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
-[^27]: A 2/A. §-t a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
-[^28]: A 2/A. § (1a) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 309. §-a iktatta be.
-[^29]: A 2/A. § (2a) bekezdését a 308/2011. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+(7) A környezeti hatástanulmányt az eljárás felfüggesztéséről szóló végzés jogerőre emelkedését követő három éven belül kell benyújtani.
+
+[^30]: A 2/A. §-t megelőző alcímet a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be.
+[^31]: A 2/A. §-t a 82/2011. (V. 18.) Korm. rendelet 14. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (2) bekezdésével megállapított szöveg.
