@@ -1,4 +1,4 @@
-39. § (1) Védett természeti területre közvetlen kihatással lévő vagy azt közvetlenül érintő más hatósági eljárás során a természetvédelmi hatóság – kivéve, ha a tevékenység környezeti hatásvizsgálat- vagy egységes környezethasználati engedélyköteles – szakhatóságként működik közre:
+39. § (1) Védett természeti területre közvetlen kihatással lévő vagy azt közvetlenül érintő hatósági eljárás során a természetvédelmi hatóság – kivéve, ha a tevékenység környezeti hatásvizsgálat- vagy egységes környezethasználati engedélyköteles –, ha a szakhatósági közreműködés törvényben meghatározott eljárási feltételei fennállnak, szakhatóságként működik közre:
 
 a) földrészlet megosztása, alakjának, terjedelmének megváltoztatása;
 

@@ -22,7 +22,9 @@
 
 11. a természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját;
 
-12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését.
+12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését;
+
+13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
