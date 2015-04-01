@@ -126,7 +126,7 @@ rendeletben történő megállapítására.
 
 (3) Felhatalmazást kap
 
-a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 43. § (9) bekezdésében megállapított felügyeleti díj fizetésének részletes szabályait, valamint az igazgatási szolgáltatási díjak körét, mértékét és a díjak beszedésének, kezelésének, nyilvántartásának szabályait rendeletben állapítsa meg,
+a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének, megosztásának és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak alá nem tartozó eljárási költségek körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
 
 b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 

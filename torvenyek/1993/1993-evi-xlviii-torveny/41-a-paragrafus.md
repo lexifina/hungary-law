@@ -10,7 +10,7 @@ d) a földgáz, a kőolaj, a kőolajtermék, valamint az egyéb gáz és gázter
 
 e) a bányatelekkel kapcsolatos rendelkezéseket vagy a bányabiztonsági szabályzatok előírásait megszegi, vagy
 
-f) a földtani kutatási munka megkezdését vagy befejezését a bányakapitányságnak nem jelenti be,
+f) a földtani kutatási munka megkezdését vagy befejezését a bányafelügyeletnek nem jelenti be,
 
 g) e törvény hatálya alá tartozó tevékenységek végzése során a villamos berendezés és készülék, a villamos fogyasztó berendezés létesítésére és üzemben tartására vonatkozó biztonsági előírást megszegi,
 

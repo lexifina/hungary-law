@@ -20,4 +20,4 @@
 
 (8) Ha az eljárás jelentős számú ügyfelet érint – az eljárás megindításáról szóló értesítés, valamint az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a bányafelügyelet az ügyféllel hirdetményi úton tart kapcsolatot.
 
-(9) A bányafelügyelet eljárásaiban szakhatóságként kijelölt hatóság az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére – a földvédelmi szakhatósági eljárás kivételével – előzetes szakhatósági állásfoglalást ad ki, amely a kiadásától számított egy évig használható fel.
+(9) A bányafelügyelet eljárásaiban szakhatóságként kijelölt hatóság az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére előzetes szakhatósági állásfoglalást ad ki, amely a kiadásától számított egy évig használható fel.
