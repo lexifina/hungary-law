@@ -50,7 +50,7 @@ A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott
 
 – A gyepművelési ágban nyilvántartott, de jelenleg szántóként hasznosított területek gyepekké történő visszaalakítása érdekében a kaszált gyepekről származó széna laza elterítésével és rendszeres kaszálással vagy szárzúzással kell kezelni e területeket, a termőhelynek megfelelő, természetes állapotára jellemző gyepstruktúra és fajösszetétel visszaállásáig.
 
-– A területen épületet, építményt, kerítést létesíteni, nem gyepgazdálkodásból származó anyagot tárolni tilos. Kivételt képeznek a legelőgazdálkodáshoz feltétlenül szükséges épületek és építmények, amelyek a természetvédelmi érdekeket nem sértve a jelenleg is a biodiverzitás szempontjából degradálódott részeken (pl. akácosok, szántók helyén) az igazgatóság a terület építés céljára való igénybevételéhez – termőföld más célú hasznosításához – szakhatóságként kiadott engedélyével létesíthetők.
+–[^1] A területen épületet, építményt, kerítést létesíteni, nem gyepgazdálkodásból származó anyagot tárolni tilos. Kivételt képeznek a legelőgazdálkodáshoz feltétlenül szükséges épületek és építmények, amelyeket a természetvédelmi érdekeket nem sértve, a biodiverzitás szempontjából degradálódott részeken helyeznek el. A termőföld más célú hasznosítására irányuló eljárásban a természetvédelmi hatóság a szakkérdés vizsgálata során az igazgatóság szakvéleményének figyelembe vételével jár el.
 
 3.1.2. Erdők kezelése
 
@@ -83,3 +83,5 @@ A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott
 3.2.3. Látogatás
 
 – Látogatás során csak a meglévő utakon lehet közlekedni. A tulajdonosok (bérlők, kezelők) számára gazdálkodási, kezelési célból a belépést biztosítani kell.
+
+[^1]: A melléklet 3.1.1. pont hatodik franciabekezdése a 15/2015. (III. 31.) FM rendelet 12. §-a szerint módosított szöveg.
