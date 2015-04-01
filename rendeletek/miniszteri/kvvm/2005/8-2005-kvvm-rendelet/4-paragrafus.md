@@ -26,7 +26,7 @@ Az Edelényi Magyar Nőszirmos Természetvédelmi Terület természetvédelmi ke
 
 A természetvédelmi kezelési módokra, korlátozásokra, tilalmakra vonatkozó előírásokat – a természetvédelmi kezelési tervek készítésére, készítőjére és tartalmára vonatkozó szabályokról szóló 30/2001. (XII. 28.) KöM rendelet (R.) 2. § (2) bekezdés c) pontjában, illetve az R. mellékletének 7. pontjában meghatározottak szerint – a 3.1. és 3.2. fejezet tartalmazza.
 
-A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott kezelési előírásokat a környezetvédelmi és természetvédelmi felügyelőség egyedi államigazgatási eljárásban határozza meg.
+A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott kezelési előírásokat a természetvédelmi hatóság egyedi államigazgatási eljárásban határozza meg.
 
 3.1. Művelési ághoz köthető természetvédelmi kezelési módok, korlátozások és tilalmak
 
@@ -84,4 +84,4 @@ A természetvédelmi kezelési tervben nem részletezett, vagy nem szabályozott
 
 – A terület határán hatósági tájékoztató táblákat kell kihelyezni és gondoskodni kell fenntartásukról.
 
-[^1]: A melléklet 3. pontja a 132/2013. (XII. 23.) VM rendelet 16. §-a szerint módosított szöveg.
+[^1]: A melléklet 3. pontja a 132/2013. (XII. 23.) VM rendelet 16. §-a, a 15/2015. (III. 31.) FM rendelet 13. §-a szerint módosított szöveg.
