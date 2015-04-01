@@ -22,10 +22,11 @@ c) amely gazdasági tevékenységével vagy a környezet védelmének általáno
 
 (4) Az OKTF a közvetítő szervezet nyilvántartásba vételével egyidejűleg a közvetítő szervezetnek nyilvántartási számot ad.
 
-(5) A közvetítő szervezet a nyilvántartásba vételt követően a (2) és (3) bekezdésben meghatározott adatokban vagy körülményekben bekövetkezett változásokat – a változás bekövetkeztétől számított 15 napon belül – az OKTF-nek a változás tényét igazoló dokumentum csatolásával egyidejűleg bejelenti. A bejelentés tényéről az OKTF a bejelentéstől számított 30 napon belül a környezetvédelmi és természetvédelmi felügyelőséget (a továbbiakban: felügyelőség) tájékoztatja.
+(5)[^23] A közvetítő szervezet a nyilvántartásba vételt követően a (2) és (3) bekezdésben meghatározott adatokban vagy körülményekben bekövetkezett változásokat – a változás bekövetkeztétől számított 15 napon belül – az OKTF-nek a változás tényét igazoló dokumentum csatolásával egyidejűleg bejelenti. A bejelentés tényéről az OKTF a bejelentéstől számított 30 napon belül a környezetvédelmi hatóságot tájékoztatja.
 
 (6) Az OKTF a közvetítő szervezetet törli a nyilvántartásból, ha a nyilvántartás feltételei már nem állnak fenn.
 
-(7)[^23]
+(7)[^24]
 
-[^23]: A 16. § (7) bekezdését a 310/2014. (XII. 11.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^23]: A 16. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 251. §-a szerint módosított szöveg.
+[^24]: A 16. § (7) bekezdését a 310/2014. (XII. 11.) Korm. rendelet 20. §-a hatályon kívül helyezte.

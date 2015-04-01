@@ -1,6 +1,6 @@
-18/A. §[^27] (1)[^28] Az állami hulladékgazdálkodást közvetítő szervezet a 8. melléklet 2. pontja szerinti adattartalommal nyilvántartást vezet, és arról a tárgyév május 20. napjáig az OKTF részére adatot szolgáltat.
+18/A. §[^28] (1)[^29] Az állami hulladékgazdálkodást közvetítő szervezet a 8. melléklet 2. pontja szerinti adattartalommal nyilvántartást vezet, és arról a tárgyév május 20. napjáig az OKTF részére adatot szolgáltat.
 
 (2) Ha a gyártó termékdíjátalány-fizetés vagy az állami hulladékgazdálkodást közvetítő szervezeten keresztül történő kollektív teljesítés útján tesz eleget a gyűjtési, kezelési kötelezettségének, az OKTF részére a 7. melléklet 2. pont d)–g) alpontjában foglaltakról az állami hulladékgazdálkodást közvetítő szervezet szolgáltat adatot tárgyév május 20. napjáig.
 
-[^27]: A 18/A. §-t a 310/2014. (XII. 11.) Korm. rendelet – 368/2014. (XII. 30.) Korm. rendelet 12. § (5) bekezdés b) pontja és (6) bekezdés b) pontja szerint módosított – 19. § (5) bekezdése iktatta be.
-[^28]: A
+[^28]: A 18/A. §-t a 310/2014. (XII. 11.) Korm. rendelet – 368/2014. (XII. 30.) Korm. rendelet 12. § (5) bekezdés b) pontja és (6) bekezdés b) pontja szerint módosított – 19. § (5) bekezdése iktatta be.
+[^29]: A

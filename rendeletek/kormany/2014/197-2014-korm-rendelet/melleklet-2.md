@@ -596,7 +596,7 @@
 
 ## * Abban az esetben, ha a gyártó, a forgalmazó olyan használt elektromos, elektronikus berendezést vesz vissza vagy olyan hulladékká vált elektromos, elektronikus berendezést vesz át, amelyet az 1-10. pontban foglalt táblázatokban meghatározott elektromos-, elektronikusberendezés-kategóriák nem tartalmaznak, a gyártó, a forgalmazó az adott elektromos-, elektronikusberendezés-kategóriához tartozó legalacsonyabb értékű vásárlási utalványt állítja ki.
 
-2. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^47]
+2. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^48]
 
 ## A gyűjtési és a hasznosítási arány mértéke
 
@@ -696,4 +696,4 @@ T: a gyártó által a tárgyévet megelőző évben ténylegesen átvett, hulla
 
 A: a táblázatban az adott kategóriára vonatkozó újrahasználatra előkészítési, újrafeldolgozási arány mértéke (százalékban megadva).
 
-[^47]: A 2. melléklet a 370/2014. (XII. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^48]: A 2. melléklet a 370/2014. (XII. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
