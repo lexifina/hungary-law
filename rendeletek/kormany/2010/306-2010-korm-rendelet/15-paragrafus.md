@@ -2,4 +2,6 @@
 
 (2) Amennyiben a 11. § (2) bekezdés szerint bizonyítható, hogy az egészségügyi határérték túllépése a közutak téli homokszórásának vagy sózásának tulajdonítható, a zónára és agglomerációra levegőminőségi terv kidolgozása nem szükséges.
 
-(3) A felügyelőség a levegőminőségi terv végrehajtását ellenőrzi.
+(3)[^9] A környezetvédelmi hatáskörében eljáró megyei kormányhivatal a levegőminőségi terv végrehajtását ellenőrzi.
+
+[^9]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 159. § (2) bekezdés b) pontja szerint módosított szöveg.

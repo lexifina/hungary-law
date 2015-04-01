@@ -6,6 +6,8 @@
 
 (3) A szmoghelyzet kialakulása esetén a füstköd-riadó tervben foglaltak szerint kell a lakosságot tájékoztatni, és a szmoghelyzet megszüntetéséhez, vagy hatásainak enyhítéséhez szükséges mértékben, arra alkalmas módon a füstköd-riadó terv alapján a helyhez kötött és a mozgó légszennyező források működése korlátozható vagy megtiltható. A riasztási fokozat esetén elrendelhető intézkedéseket légszennyező anyagonként a 3. melléklet tartalmazza. A polgármester, a fővárosban a főpolgármester a 3. mellékletben foglaltakon túl más – a füstköd-riadó tervben meghatározott – intézkedéseket is elrendelhet.
 
-(4) A füstköd-riadó tervben foglalt korlátozásokat a szmoghelyzet jellegének, súlyosságának, a meteorológiai előrejelzésnek a figyelembevételével a közegészségügyi hatóság, a közlekedési hatóság, valamint a felügyelőség véleményére tekintettel kell elrendelni.
+(4)[^16] A füstköd-riadó tervben foglalt korlátozásokat a szmoghelyzet jellegének, súlyosságának, a meteorológiai előrejelzésnek a figyelembevételével a környezetvédelmi, közegészségügyi, valamint közlekedési hatáskörében eljáró fővárosi és megyei kormányhivatal véleményére tekintettel kell elrendelni.
 
 (5) A füstköd-riadó terveket, valamint az előkészítésükkel és végrehajtásukkal kapcsolatos információt a nyilvánosság számára hozzáférhetővé kell tenni.
+
+[^16]: A 20. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 159. § (2) bekezdés e) pontja szerint módosított szöveg.
