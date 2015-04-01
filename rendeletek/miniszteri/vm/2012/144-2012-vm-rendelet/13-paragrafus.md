@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti elemzés
 
-a) a felügyelőség illetékességi területén 2001. március 1-je és 2013. március 29-e közötti időszakban bejelentett, használt, továbbá üzemben tartott PCB-t tartalmazó berendezésekre,
+a)[^9] a környezetvédelmi hatóság illetékességi területén 2001. március 1-je és 2013. március 29-e közötti időszakban bejelentett, használt, továbbá üzemben tartott PCB-t tartalmazó berendezésekre,
 
 b) a 2001. március 1-je és 2013. március 29-e közötti időszakban bejelentett, továbbá üzemben tartott PCB-t tartalmazó berendezések megtisztítására, hasznosítására vagy ártalmatlanítására, az eltávolított, hasznosított vagy ártalmatlanított PCB mennyiségére, valamint
 
@@ -16,3 +16,4 @@ vonatkozó adatokat tartalmazza.
 
 [^7]: A 12. §-t a 40/2013. (V. 24.) VM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
 [^8]: A 13. § (1) bekezdése a 132/2013. (XII. 23.) VM rendelet 34. § c) pontja szerint módosított szöveg.
+[^9]: A 13. § (2) bekezdés a) pontja a 15/2015. (III. 31.) FM rendelet 31. § b) pontja szerint módosított szöveg.

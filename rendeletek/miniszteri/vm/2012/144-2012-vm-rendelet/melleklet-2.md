@@ -4,7 +4,7 @@
 
 |  | PCB-TŐL MEGTISZTÍTOTT BERENDEZÉS A PCB-t tartalmazó folyadék cseréje megtörtént: – a helyettesítő anyag neve: ………………………… – a csere dátuma: ……………………………………. – a cserét elvégezte: ………………………………… A PCB koncentrációja: ………………………………… – a régi folyadékban ………………………… tömeg% – az új folyadékban: ………………………… tömeg% |
 
-2. melléklet a 144/2012. (XII. 27.) VM rendelethez[^10]
+2. melléklet a 144/2012. (XII. 27.) VM rendelethez[^11]
 
 ## A hulladékká vált PCB, PCB-vel szennyezett berendezés, valamint tárgy ártalmatlanítására szolgáló műveletek
 
@@ -26,4 +26,4 @@ b) egyéb termikus ártalmatlanítás (pl. plazmaégetés).
 
 4. A Ht. 2. mellékletében meghatározott D15 művelet.
 
-[^10]: A 2. melléklet a 72/2013. (VIII. 27.) VM rendelet 7. §-ával megállapított szöveg.
+[^11]: A 2. melléklet a 72/2013. (VIII. 27.) VM rendelet 7. §-ával megállapított szöveg.
