@@ -1,1 +1,0 @@
-A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. §-ának (13) bekezdésében, az illetékekről szóló 1990. évi XCIII. törvény 67. §-ának (2) bekezdésében foglalt felhatalmazás alapján a pénzügyminiszterrel egyetértésben a következőket rendelem el:
