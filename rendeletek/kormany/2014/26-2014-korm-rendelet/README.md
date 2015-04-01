@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-26-20-2
 | 2014-08-01 | 2014-26-20-22.2 | 196/2014. (VII. 31.) Korm. rendelet |
 | 2014-09-13 | 2014-26-20-22.3 | 229/2014. (IX. 5.) Korm. rendelet |
 | 2015-03-12 | 2014-26-20-22.4 | 40/2015. (III. 11.) Korm. rendelet |
+| 2015-04-01 | 2014-26-20-22.5 | 72/2015. (III. 30.) Korm. rendelet |

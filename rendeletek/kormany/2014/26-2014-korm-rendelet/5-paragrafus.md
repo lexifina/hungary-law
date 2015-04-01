@@ -1,3 +1,3 @@
-## 4/A. §[^2]
+## 4/A. §[^5]
 
-[^2]: A 4/A. §-t a 196/2014. (VII. 31.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 40/2015. (III. 11.) Korm. rendelet 4. §-a.
+[^5]: A 4/A. §-t a 196/2014. (VII. 31.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 40/2015. (III. 11.) Korm. rendelet 4. §-a.

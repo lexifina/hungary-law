@@ -2,4 +2,6 @@
 
 (2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(3) Az eljáró hatóság az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő ötödik nap.
+(3)[^3]
+
+[^3]: A 2. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 75. § (3) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 114. §-át.

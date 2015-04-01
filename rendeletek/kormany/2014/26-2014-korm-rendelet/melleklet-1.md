@@ -1,3 +1,3 @@
-1. melléklet a 26/2014. (II. 7.) Korm. rendelethez[^8]
+1. melléklet a 26/2014. (II. 7.) Korm. rendelethez[^11]
 
-[^8]: Az 1. melléklet a 196/2014. (VII. 31.) Korm. rendelet 2. §-a, a 229/2014. (IX. 5.) Korm. rendelet 175. § (1) bekezdése és 176. § a)–b) pontja, a 40/2015. (III. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 75. § (2) bekezdés a) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
