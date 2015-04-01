@@ -20,7 +20,7 @@ b) 53/A. § (3) bekezdésében a „módjára hajtja” szövegrész helyébe a 
 
 c) 84. § (4) bekezdésében a „fel.” szövegrész helyébe a „fel. Ez az előírás nem vonatkozik a naptári éven belül lejáró, Gst. szerinti adósságot keletkeztető ügyletre, amelynek fedezetéül a helyi önkormányzatok általános működésének és ágazati feladatainak támogatása felhasználható.” szöveg,
 
-d) 98. §-ában a „lakásépítési támogatással” szövegrész helyébe a „családok otthonteremtési kedvezményével” szöveg,
+d)
 
 e) 111. § (24) bekezdésében a „ki.” szövegrész helyébe a „ki. A helyi önkormányzat által 2013. évben a 14. § (3) bekezdése szerinti fejezetből igénybe vett támogatások elszámolására és felülvizsgálatára e törvény 2014. december 31-én hatályos rendelkezéseit kell alkalmazni.” szöveg,
 
