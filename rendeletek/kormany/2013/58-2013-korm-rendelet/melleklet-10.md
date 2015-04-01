@@ -176,7 +176,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^189]
+10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^191]
 
 Kérelem fogyatékkal élő személyként a védendő felhasználók nyilvántartásába történő
 
@@ -392,10 +392,10 @@ Az értesítendő személy vagy szervezet neve, telefonszáma mezőbe annak a sz
 
 Az egészségi állapotra vonatkozó besorolás valódiságát az orvos aláírásával igazolja.
 
-A fogyatékosság jellegét igazoló orvos részére be kell mutatni a fogyatékkal élő személy fogyatékossága tekintetében a rehabilitációs szakigazgatási szerv, a Nemzeti Rehabilitációs és Szociális Hivatal által kiállított szakvéleményt, szakhatósági állásfoglalást, amennyiben ilyen készült.
+A fogyatékosság jellegét igazoló orvos részére be kell mutatni a fogyatékkal élő személy fogyatékossága tekintetében a rehabilitációs szakértői szerv által kiállított szakvéleményt, szakhatósági állásfoglalást, határozatot, amennyiben ilyen készült.
 
 Az igazolást az igénylőnek kell benyújtania a víziközmű-szolgáltatóhoz az igazolás kiállításától számított 30 napon belül, a nyilvántartásba történő felvétel iránti igény bejelentésekor. A 30 nap elteltét követően az igénylőnek új igazolást kell kérnie.
 
 A nyilvántartásba történő felvételt követő évtől a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő felhasználók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-[^189]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be.
+[^191]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés b) pontja szerint módosított szöveg.

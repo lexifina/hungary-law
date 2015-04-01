@@ -1,4 +1,4 @@
-## VII/A. Fejezet[^173]
+## VII/A. Fejezet[^175]
 
 ## ÜGYFÉLSZOLGÁLAT
 
@@ -14,4 +14,4 @@
 
 (6) Az ügyfélszolgálatok (2) és (3) bekezdés figyelembevételével megállapított nyitva tartási idejét a víziközmű-szolgáltató üzletszabályzata rögzíti.
 
-[^173]: A VII/A. fejezetet (89/A–89/C. §) a 292/2014. (XI. 26.) Korm. rendelet 30. §-a iktatta be.
+[^175]: A VII/A. fejezetet (89/A–89/C. §) a 292/2014. (XI. 26.) Korm. rendelet 30. §-a iktatta be.

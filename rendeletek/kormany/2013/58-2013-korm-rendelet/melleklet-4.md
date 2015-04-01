@@ -36,6 +36,6 @@
 
 ## az aláíró személy(ek) nevét, cég esetében cégszerű aláírás]
 
-4. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^184]
+4. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^186]
 
-[^184]: A 4. melléklet az 53/2014. (III. 3.) Korm. rendelet 39. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^186]: A 4. melléklet az 53/2014. (III. 3.) Korm. rendelet 39. § (5) bekezdés d) pontja szerint módosított szöveg.

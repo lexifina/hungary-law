@@ -54,6 +54,6 @@
 
 ## A víziközmű-szolgáltatás új ellátási területre történő kiterjesztése esetén - amennyiben arra beolvadás vagy összeolvadás eredményeként kerül sor - a mutatók kiszámítása könyvvizsgáló által hitelesített, Sztv. által előírt vagyonmérleg alapján történik.
 
-5. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^185]
+5. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^187]
 
-[^185]: Az 5. melléklet a 292/2014. (XI. 26.) Korm. rendelet 37. § 54. pontja szerint módosított szöveg.
+[^187]: Az 5. melléklet a 292/2014. (XI. 26.) Korm. rendelet 37. § 54. pontja, a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés a) pontja szerint módosított szöveg.
