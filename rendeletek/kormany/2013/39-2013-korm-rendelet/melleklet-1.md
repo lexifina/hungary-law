@@ -1,4 +1,4 @@
-## 24. §[^6]
+## 24. §[^9]
 
 1. melléklet a 39/2013. (II. 14.) Korm. rendelethez
 
@@ -58,4 +58,4 @@ importáló, bejegyzett kereskedő
 
 vagy tároló adóraktár engedélyes neve
 
-[^6]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
