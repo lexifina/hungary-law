@@ -1066,4 +1066,4 @@
 
 2. melléklet a 68/2013. (XII. 29.) NGM rendelethez[^12]
 
-[^12]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet a 43/2014. (XII. 30.) NGM rendelet 2. § b) pontja, a 9/2015. (III. 31.) NGM rendelet 55. §-a szerint módosított szöveg.

@@ -394,7 +394,7 @@
 
 | 27 |  | 041233 | Hosszabb időtartamú közfoglalkoztatás |
 
-| 28 |  |  | Ide tartozik: - a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 4. §-a alapján FHT-ra jogosult személy, a munkaügyi kirendeltség által közvetített álláskereső, vagy rehabilitációs ellátásban részesülő személy legfeljebb 11 hónap időtartamra szóló, határozott idejű közfoglalkoztatási jogviszony keretében, napi 6-8 órás munkaidőben történő foglalkoztatásával összefüggő feladatok ellátása, kifizetések teljesítése. |
+| 28 |  |  | Ide tartozik: - a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 4. §-a alapján FHT-ra jogosult személy, a járási hivatal által közvetített álláskereső, vagy rehabilitációs ellátásban részesülő személy legfeljebb 11 hónap időtartamra szóló, határozott idejű közfoglalkoztatási jogviszony keretében, napi 6-8 órás munkaidőben történő foglalkoztatásával összefüggő feladatok ellátása, kifizetések teljesítése. |
 
 | 29 |  | 041234 | Közfoglalkoztatás mobilitását szolgáló támogatás (közhasznú kölcsönző részére) |
 
