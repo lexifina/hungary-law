@@ -1,6 +1,6 @@
 ## A szolgáltatás nyújtásának személyi feltételei
 
-## A munkaügyi központ által támogatott szolgáltatást – az e) 3. pontban foglaltak kivételével – egyetemi vagy főiskolai szintű végzettséggel, illetve az új, többciklusú képzési rendszernek megfelelően alapfokozattal vagy mesterfokozattal rendelkezők nyújthatnak, ha a következőkben meghatározott szakképzettség valamelyikével rendelkeznek:
+## A kormányhivatal által támogatott szolgáltatást – az e) 3. pontban foglaltak kivételével – egyetemi vagy főiskolai szintű végzettséggel, illetve az új, többciklusú képzési rendszernek megfelelően alapfokozattal vagy mesterfokozattal rendelkezők nyújthatnak, ha a következőkben meghatározott szakképzettség valamelyikével rendelkeznek:
 
 ## a) munkaerőpiaci és foglalkozási információk nyújtása, valamint helyi (térségi, EURES) foglalkoztatási tanácsadás esetén bármely felsőfokú végzettség, továbbá munkaerőpiaci információnyújtás esetében ezen a területen szerzett egy év szakmai gyakorlat;
 
@@ -66,6 +66,6 @@
 
 ## 3. középiskolai végzettség és államilag elismert felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző vagy szociális asszisztens szakképesítés.
 
-2–6. számú melléklet a 30/2000. (IX. 15.) GM rendelethez[^48]
+2–6. számú melléklet a 30/2000. (IX. 15.) GM rendelethez[^66]
 
-[^48]: A 2–6. számú mellékletet a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése hatályon kívül helyezte.
+[^66]: A 2–6. számú mellékletet a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése hatályon kívül helyezte.

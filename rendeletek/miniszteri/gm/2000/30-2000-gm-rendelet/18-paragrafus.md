@@ -1,15 +1,18 @@
-18. § (1) A kirendeltség a foglalkoztató részére közvetítést akkor végez, ha
+18. § (1)[^32] A járási hivatal a foglalkoztató részére közvetítést akkor végez, ha
 
 a) munkaerőigényét a 16. § (1) bekezdésében meghatározott módon bejelentette, és
 
 b) a közvetítést kéri, továbbá vállalja, hogy
 
-c)[^21] fogadja a kirendeltség által kiállított közvetítő lappal megjelenő személyeket, és
+c)[^33] fogadja a járási hivatal által kiállított közvetítő lappal megjelenő személyeket, és
 
 d) a közvetítő lapon igazolja a közvetítés eredményét, és
 
-e) fogadja a kirendeltség képviselőjét, valamint tájékoztatja őt a foglalkoztatás körülményeiről.
+e)[^34] fogadja a járási hivatal képviselőjét, valamint tájékoztatja őt a foglalkoztatás körülményeiről.
 
-(2) A kirendeltség az (1) bekezdésben meghatározott munkaerőigényt benyújtott állást kínálótól a tevékenységére és működésére vonatkozó tájékoztatást – így különösen alapító okiratának, a bejegyzésre vonatkozó okiratnak a becsatolása, adószámának bejelentését – kérhet, továbbá ezek beszerzése érdekében más hatóságot kereshet meg.
+(2)[^35] A járási hivatal az (1) bekezdésben meghatározott munkaerőigényt benyújtott állást kínálótól a tevékenységére és működésére vonatkozó tájékoztatást – így különösen alapító okiratának, a bejegyzésre vonatkozó okiratnak a becsatolása, adószámának bejelentését – kérhet, továbbá ezek beszerzése érdekében más hatóságot kereshet meg.
 
-[^21]: A 18. § (1) bekezdésének c) pontja a 6/2008. (IV. 23.) SZMM rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^32]: A 18. § (1) bekezdés nyitó szövegrésze a 9/2015. (III. 31.) NGM rendelet 22. § c) pontja szerint módosított szöveg.
+[^33]: A 18. § (1) bekezdés c) pontja a 9/2015. (III. 31.) NGM rendelet 22. § c) pontja szerint módosított szöveg.
+[^34]: A 18. § (1) bekezdés e) pontja a 9/2015. (III. 31.) NGM rendelet 22. § c) pontja szerint módosított szöveg.
+[^35]: A 18. § (2) bekezdése a 9/2015. (III. 31.) NGM rendelet 22. § c) pontja szerint módosított szöveg.

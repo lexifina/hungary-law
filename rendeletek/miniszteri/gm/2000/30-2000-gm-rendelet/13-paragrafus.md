@@ -10,9 +10,10 @@ c) olyan munkaerőigényre közvetíteni, amely jogszabálysértő feltételeket
 
 d) a közvetítés olyan foglalkoztatóhoz, ahol a foglalkoztatási feltételek nyilvánvalóan nem biztosítottak.
 
-(2)[^10] A kirendeltségnek a munkaközvetítés során törekednie kell arra, hogy a munkát kereső számára feltárja a szakképzettségének, szakmai gyakorlatának, s egyéb körülményeinek megfelelő foglalkoztatási lehetőségeket, továbbá arra, hogy az álláskínálók részére a munkaerőigénynek megfelelő munkát kereső személyek kerüljenek kiválasztásra és közvetítésre.
+(2)[^14] A járási hivatalnak a munkaközvetítés során törekednie kell arra, hogy a munkát kereső számára feltárja a szakképzettségének, szakmai gyakorlatának, s egyéb körülményeinek megfelelő foglalkoztatási lehetőségeket, továbbá arra, hogy az álláskínálók részére a munkaerőigénynek megfelelő munkát kereső személyek kerüljenek kiválasztásra és közvetítésre.
 
-(3) A (2) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a kirendeltség a munkanélküli ellátást[^11], valamint egyes szociális ellátásokat kérő, illetőleg abban részesülő személyek számára a rájuk irányadó jogszabályok szerint megfelelő munkahelyet ajánl fel.
+(3)[^15] A (2) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a járási hivatal a munkanélküli ellátást[^16], valamint egyes szociális ellátásokat kérő, illetőleg abban részesülő személyek számára a rájuk irányadó jogszabályok szerint megfelelő munkahelyet ajánl fel.
 
-[^10]: A 13. § (2) bekezdése a 20/2005. (X. 27.) FMM rendelet 29. § (5) bekezdése szerint módosított szöveg.
-[^11]: A 20/2005. (X. 27.) FMM rendelet 29. § (6) bekezdése alapján a "munkanélküli ellátás" kifejezés alatt "álláskeresők támogatása" kifejezést is érteni kell.
+[^14]: A 13. § (2) bekezdése a 9/2015. (III. 31.) NGM rendelet 22. § h) pontja szerint módosított szöveg.
+[^15]: A 13. § (3) bekezdése a 9/2015. (III. 31.) NGM rendelet 22. § c) pontja szerint módosított szöveg.
+[^16]: A 20/2005. (X. 27.) FMM rendelet 29. § (6) bekezdése alapján a "munkanélküli ellátás" kifejezés alatt "álláskeresők támogatása" kifejezést is érteni kell.
