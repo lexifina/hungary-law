@@ -1,6 +1,6 @@
 9. § (1) A jegyző a telepengedély tárgyában hozott határozatot haladéktalanul közli
 
-a) a területileg illetékes fővárosi és megyei kormányhivatal munkavédelmi felügyelőségével, és
+a)[^4] a munkavédelmi hatósággal, és
 
 b) az illetékes rendőrkapitánysággal.
 
@@ -18,6 +18,7 @@ b) a tevékenyégre a 4. §-ban meghatározott követelmények vonatkoznak, ille
 
 (6) A (3) és (5) bekezdésben meghatározott hatóságok az ellenőrzést követő nyolc napon belül annak eredményéről tájékoztatják a jegyzőt.
 
-(7)[^6] A telep működésével kapcsolatos – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 97. § (2) bekezdésében meghatározott – figyelemfelhívás esetén az illetékes környezetvédelmi és természetvédelmi felügyelőség szükség szerint megteszi a hatáskörébe tartozó intézkedéseket, valamint megkeresi a jegyzőt.
+(7)[^5] A telep működésével kapcsolatos – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 97. § (2) bekezdésében meghatározott – figyelemfelhívás esetén a környezetvédelmi feladatkörében eljáró illetékes megyei kormányhivatal szükség szerint megteszi a hatáskörébe tartozó intézkedéseket, valamint megkeresi a jegyzőt.
 
-[^6]: A 9. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 138. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 9. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 222. § (3) bekezdésével megállapított szöveg.
+[^5]: A 9. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 222. § (6) bekezdése szerint módosított szöveg.

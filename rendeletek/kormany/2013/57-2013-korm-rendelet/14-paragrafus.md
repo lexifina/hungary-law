@@ -1,1 +1,3 @@
-## 13. § A Kormány az e rendelet által meghatározott közigazgatási hatósági ügyek tekintetében a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 6. § (3) bekezdése szerinti feladat- és hatáskörök ellátására az iparügyekért felelős minisztert jelöli ki.
+## 13. §[^6] A fővárosi és megyei kormányhivatal e rendelet alapján ellátott feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az iparügyekért felelős miniszter gyakorolja.
+
+[^6]: A 13. § a 70/2015. (III. 30.) Korm. rendelet 222. § (4) bekezdésével megállapított szöveg.
