@@ -1,3 +1,3 @@
-1. melléklet a 101/2014. (III. 25.) Korm. rendelethez[^4]
+1. melléklet a 101/2014. (III. 25.) Korm. rendelethez[^6]
 
-[^4]: Az 1. melléklet a 229/2014. (IX. 5.) Korm. rendelet 187. § (1) bekezdése és 188. § a)–b) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 79. § (2) bekezdés a) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
