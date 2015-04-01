@@ -1,31 +1,26 @@
-7. § (1) A Kormány a szálláshely engedélyezése iránti eljárásban – az egyéb szálláshely engedélyezése kivételével –
+7. § (1)[^7] A Kormány a szálláshely engedélyezése iránti eljárásban – az egyéb szálláshely engedélyezése kivételével –
 
-a)[^6] a higiénés és egészségvédelmi, táplálkozás-egészségügyi és dietetikai, az ivóvíz minőségi – ide nem értve a b) pont szerinti szakkérdést –, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások érvényesítésével kapcsolatos szakkérdésben
+a) a higiénés és egészségvédelmi, táplálkozás-egészségügyi és dietetikai, az ivóvíz minőségi – ide nem értve a b) pont szerinti szakkérdést –, a települési hulladékkal és nem közművel összegyűjtött háztartási szennyvízzel kapcsolatos közegészségügyi, járványügyi vonatkozású követelmények, valamint a kémiai biztonságra és a dohányzóhelyek kijelölésére vonatkozó jogszabályi előírások érvényesítésével kapcsolatos szakkérdésben
 
-aa)[^7] – a Magyar Honvédség létesítményeinek területén kívül működtetni kívánt szálláshely engedélyezése esetében – elsőfokú eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét, a másodfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervét,
+aa) – a Magyar Honvédség létesítményeinek területén kívül működtetni kívánt szálláshely engedélyezése esetében – elsőfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát,
 
-ab)[^8] – a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely engedélyezése esetében – elsőfokú eljárásban a honvédelemért felelős miniszter által létrehozott, a szakkérdés elbírálására jogosult hatóságot, másodfokú eljárásban a honvédelemért felelős minisztert,
+ab) – a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely engedélyezése esetében –elsőfokú eljárásban a honvédelemért felelős miniszter által létrehozott, a szakkérdés elbírálására jogosult hatóságot, másodfokú eljárásban a honvédelemért felelős minisztert,
 
-b)[^9] ha a szálláshelyen élelmiszert, élelmiszer-nyersanyagot állítanak elő, használnak fel, hoznak forgalomba – az élelmiszer-higiéniai, -biztonsági, -minőségi követelményeknek való megfelelés kérdésében – elsőfokú eljárásban a megyei kormányhivatalnak a szálláshely helye szerint illetékes járási hivatala állat-egészségügyi és élelmiszert-ellenőrző hivatalát, másodfokú eljárásban a megyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi igazgatóságát,
+b) ha a szálláshelyen élelmiszert, élelmiszer-nyersanyagot állítanak elő, használnak fel, hoznak forgalomba – az élelmiszer-higiéniai, -biztonsági, -minőségi követelményeknek való megfelelés kérdésében – elsőfokú eljárásban megyei kormányhivatalnak a szálláshely helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát,
 
 c) a 10 fő feletti befogadóképességű szálláshely esetében annak elbírálása kérdésében, hogy a szálláshely a tűzvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e
 
 ca) – a Magyar Honvédség létesítményeinek területén kívül működtetni kívánt szálláshely engedélyezése esetében – első- és másodfokú eljárásban az első- és másodfokú tűzvédelmi szakhatóságot,
 
-cb)[^10] – a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely engedélyezése esetében – elsőfokú eljárásban a honvédelemért felelős miniszter által létrehozott, a szakkérdés elbírálására jogosult hatóságot, másodfokú eljárásban a honvédelemért felelős minisztert, valamint
+cb) – a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely engedélyezése esetében –elsőfokú eljárásban a honvédelemért felelős miniszter által létrehozott, a szakkérdés elbírálására jogosult hatóságot, másodfokú eljárásban a honvédelemért felelős minisztert, valamint
 
-d)[^11] ha arra az építményre, amelyben a szálláshelyet működtetni kívánják, ugyanarra a rendeltetésre vonatkozóan a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az általános építésügyi követelményeknek való megfelelés kérdésében – elsőfokú eljárásban az építésügyi hatóságot, másodfokú eljárásban a fővárosi és megyei kormányhivatalt
+d) ha arra az építményre, amelyben a szálláshelyet működtetni kívánják, ugyanarra a rendeltetésre vonatkozóan a kérelem benyújtását megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az általános építésügyi követelményeknek való megfelelés kérdésében – elsőfokú eljárásban az építésügyi hatáskörben eljáró járási (fővárosi kerületi) hivatalt
 
-szakhatóságként jelöli ki.
+## szakhatóságként jelöli ki.
 
 (2) A szálláshely-üzemeltetési engedélyeztetési eljárásban – az egyéb szálláshely engedélyezése kivételével – külön vizsgálat nélkül ügyfélnek minősül a szálláshely, valamint a szálláshellyel közvetlenül szomszédos, a szálláshellyel közös határvonalú, telekhatárú ingatlan tulajdonosa, használója, kezelője, társasház esetén a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetén az elnök.
 
-(3)[^12] A szálláshely engedélyezése iránti eljárásban az ügyintézési határidőbe a szakhatóság ügyintézési határideje beszámít.
+(3)[^8] A szálláshely engedélyezése iránti eljárásban az ügyintézési határidőbe a szakhatóság ügyintézési határideje beszámít.
 
-[^6]: A 7. § (1) bekezdés a) pont nyitó szövegrésze a 441/2012. (XII. 29.) Korm. rendelet 15. §-a szerint módosított szöveg.
-[^7]: A 7. § (1) bekezdés a) pont aa) alpontja a 351/2010. (XII. 30.) Korm. rendelet 261. §-a, a 174/2012. (VII. 26.) Korm. rendelet 64. § a) pontja szerint módosított szöveg.
-[^8]: A 7. § (1) bekezdés a) pont ab) alpontja a 221/2014. (IX. 4.) Korm. rendelet 454. § b) pontja szerint módosított szöveg.
-[^9]: A 7. § (1) bekezdés b) pontja a 174/2012. (VII. 26.) Korm. rendelet 64. § b) pontja szerint módosított szöveg.
-[^10]: A 7. § (1) bekezdés c) pont cb) alpontja a 221/2014. (IX. 4.) Korm. rendelet 454. § b) pontja szerint módosított szöveg.
-[^11]: A 7. § (1) bekezdés d) pontja a 174/2012. (VII. 26.) Korm. rendelet 64. § c) pontja szerint módosított szöveg.
-[^12]: A 7. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 262. § (1) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § q) pontja, újonnan a 402/2012. (XII. 28.) Korm. rendelet 13. §-a iktatta be.
+[^7]: A 7. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 145. § (2) bekezdésével megállapított szöveg.
+[^8]: A 7. § (3) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 262. § (1) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § q) pontja, újonnan a 402/2012. (XII. 28.) Korm. rendelet 13. §-a iktatta be.

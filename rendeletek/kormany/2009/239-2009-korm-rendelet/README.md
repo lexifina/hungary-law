@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-239-20-
 | 2013-07-01 | 2009-239-20-22.12 | 203/2013. (VI. 14.) Korm. rendelet |
 | 2013-07-20 | 2009-239-20-22.13 | 255/2013. (VII. 5.) Korm. rendelet |
 | 2014-09-05 | 2009-239-20-22.14 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-04-01 | 2009-239-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |

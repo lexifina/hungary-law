@@ -4,7 +4,7 @@ a) a szálláshely címét, helyrajzi számát,
 
 b) a szálláshely elnevezését,
 
-c)[^16] a szálláshely-szolgáltató adóazonosító számát, statisztikai számjelét,
+c)[^12] a szálláshely-szolgáltató adóazonosító számát, statisztikai számjelét,
 
 d) a szálláshely-szolgáltatási tevékenység típusának megjelölését,
 
@@ -18,7 +18,7 @@ h) a szálláshely megszűnésének időpontját és a megszűnés okát.
 
 (2) A jegyző az általa vezetett nyilvántartás valamennyi adatát közzéteszi az interneten.
 
-(3)[^17] Az (1) bekezdés szerinti, szálláshely-üzemeltetési engedéllyel rendelkezők nyilvántartása az (1) bekezdésben meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(3)[^13] Az (1) bekezdés szerinti, szálláshely-üzemeltetési engedéllyel rendelkezők nyilvántartása az (1) bekezdésben meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-[^16]: A 12. § (1) bekezdés c) pontja a 281/2010. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^17]: A 12. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 18. §-a iktatta be.
+[^12]: A 12. § (1) bekezdés c) pontja a 281/2010. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 12. § (3) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 18. §-a iktatta be.
