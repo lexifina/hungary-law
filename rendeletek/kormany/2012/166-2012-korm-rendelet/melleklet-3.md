@@ -1,40 +1,40 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő, hatáskörrel rendelkező szakhatóságok
+## A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködése tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködés tárgya | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | építésügy | Debreceni Járási Hivatal | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 3. | környezet- és természetvédelem | Tiszántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezet- és természetvédelem | Hajdú-Bihar Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3a. | vízügy | Tiszántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 4. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 4. | közlekedés (közút) | Hajdú-Bihar Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 5. | közlekedés: közút | Hajdú-Bihar Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 5. | rendészet – gyorsforgalmi utak esetén | Országos Rendőr-főkapitányság | rendészetért felelős miniszter |
+| 6. | rendészet – gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 6. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Debreceni Rendőrkapitányság | Hajdú-Bihar Megyei Rendőr-főkapitányság |
+| 7. | rendészet – egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Debreceni Rendőrkapitányság | Hajdú-Bihar Megyei Rendőr-főkapitányság |
 
-| 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 8. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 8. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | földművelésügy (talajvédelem) | Hajdú-Bihar Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 10. | földművelésügy: talajvédelem | Hajdú-Bihar Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 10. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 11. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 11. | műszaki biztonság | Hajdú-Bihar Megye Kormányhivatal Debreceni Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 12. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 12. | egészségügy | Hajdú-Bihar Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
+| 13. | egészségügy | Hajdú-Bihar Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
 
-| 13. | területrendezés | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának állami főépítésze | területrendezésért felelős miniszter |
+| 14. | területrendezés | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-| 14. | régészet és műemlékvédelem | Debreceni Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Hajdú-Bihar Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 15. | régészet és műemlékvédelem | Debreceni Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 15. | helyi védelem (természetvédelem) | Debrecen Megyei Jogú Város Önkormányzatának jegyzője | Hajdú-Bihar Megyei Kormányhivatal |
+| 16. | helyi védelem (természetvédelem) | Debrecen Megyei Jogú Város Önkormányzatának jegyzője | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 16. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 17. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
 
 3–5. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^7]
 
