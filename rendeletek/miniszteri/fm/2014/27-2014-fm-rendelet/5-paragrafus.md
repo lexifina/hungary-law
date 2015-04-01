@@ -24,6 +24,10 @@ figyelembe veszi.
 
 (6) Az agrárkár-megállapító szerv a (4) bekezdés szerinti ellenőrzés alapján az Mkk. tv. 14. § (1) bekezdésben foglaltakról határozatot hoz.
 
-(7)–(8)[^1]
+(7) Amennyiben a (3) bekezdés szerinti adatok, valamint az adminisztratív ellenőrzést megalapozó – különösen a hőmérsékletre, csapadék mennyiségre, csapadék intenzitásra, felszíni vízborítottságra, talajvízszintre, távérzékeléses adatokból származó megállapításokra vonatkozó adatokon alapuló – kockázatelemzés során felhasznált adatok kétséget kizáróan alkalmasak a mezőgazdasági káresemény megállapítására, úgy ezen adatok alapján az agrárkár-megállapító szerv mellőzheti a (4) bekezdés szerinti helyszíni ellenőrzés lefolytatását
 
-[^1]: Az 5. § (7)–(8) bekezdése a 17. § (2) bekezdése alapján 2015. április 1-jén lép hatályba.
+a) aszály, nagy kiterjedésű belvíz és mezőgazdasági árvíz esetében, ha igazoltnak találja a mezőgazdasági káresemény bekövetkezését, vagy
+
+b) bármely mezőgazdasági káresemény bejelentését követően, ha megállapítja, hogy a mezőgazdasági káresemény nem következett be.
+
+(8) A (7) bekezdés szerinti eljárás esetén az agrárkár-megállapító szerv a lefolytatott adminisztratív ellenőrzés alapján hozza meg a (6) bekezdés szerinti határozatot a mezőgazdasági káresemény bejelentésétől számított hét napon belül.
