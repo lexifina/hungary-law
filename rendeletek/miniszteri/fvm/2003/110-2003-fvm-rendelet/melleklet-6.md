@@ -274,7 +274,7 @@
 
 ## 1.5.2. Kivételes esettől eltekintve, törlést csak az állomány egészségi állapotának súlyos megromlása vagy felújulása miatt lehet kezdeményezni.
 
-## 1.5.3.[^102] A törzskönyvből való törlésről a NÉBIH dönt és arról értesíti az erdő kezelőjét, valamint védett természeti területen az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség területi felügyelőségeit.
+## 1.5.3.[^102] A törzskönyvből való törlésről a NÉBIH dönt és arról értesíti az erdő kezelőjét, valamint védett természeti területen a természetvédelmi hatóságot.
 
 ## 2. Magtermesztő ültetvények
 
@@ -468,7 +468,7 @@
 [^99]: Az 5. számú melléklet 1.3.1. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^100]: Az 5. számú melléklet 1.3.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § q) pontja szerint módosított szöveg.
 [^101]: Az 5. számú melléklet 1.4.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) és p) pontja, a 19/2014. (III. 12.) VM rendelet 11. § e) pontja szerint módosított szöveg.
-[^102]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja, a 132/2013. (XII. 23.) VM rendelet 12. §-a szerint módosított szöveg.
+[^102]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja, a 15/2015. (III. 31.) FM rendelet 9. §-a szerint módosított szöveg.
 [^103]: Az 5. számú melléklet 2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^104]: Az 5. számú melléklet 2.3.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) és o) pontja szerint módosított szöveg.
 [^105]: Az 5. számú melléklet 2.3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
