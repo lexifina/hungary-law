@@ -1,6 +1,6 @@
-4. § (1) A Kormány – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – pártfogó felügyelői szolgálatként az igazságügyi szolgálatot és az Igazságügyi Hivatalt jelöli ki.
+4. § (1)[^11] A Kormány – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – pártfogó felügyelői szolgálatként a fővárosi és megyei kormányhivatalt és az Igazságügyi Hivatalt jelöli ki.
 
-(2) A magyarországi lakóhellyel, tartózkodási hellyel, szálláshellyel vagy munkavégzési hellyel nem rendelkező magyar állampolgár, vagy külföldi személy esetében – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – a pártfogó felügyelői feladatok ellátására a fővárosi kormányhivatal igazságügyi szolgálata az illetékes.
+(2)[^12] A magyarországi lakóhellyel, tartózkodási hellyel, szálláshellyel vagy munkavégzési hellyel nem rendelkező magyar állampolgár, vagy külföldi személy esetében – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – a pártfogó felügyelői feladatok ellátására a fővárosi kormányhivatal az illetékes.
 
 (3) Az Igazságügyi Hivatal
 
@@ -9,3 +9,6 @@ a) a pártfogó felügyelői feladatokkal kapcsolatban a büntető ügyekben alk
 b) – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – a pártfogó felügyelői tevékenység országos adatbázisából statisztikai kimutatást készít,
 
 c) kialakítja és fejleszti a pártfogó felügyelői szolgálat és a tevékenységével érintett hatóságok, intézmények és szervezetek közötti együttműködést.
+
+[^11]: A 4. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 254. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 4. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 254. § (8) bekezdés b) pontja szerint módosított szöveg.
