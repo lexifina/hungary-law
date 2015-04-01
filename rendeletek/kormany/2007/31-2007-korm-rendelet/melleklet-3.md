@@ -4,7 +4,7 @@
 
 | 1. | Adatkezelő szervezet | Adatgyűjtés megnevezése | Az 1. számú melléklet témaköre | Adatátadás gyakorisága | Vonatkoztatási egység | Átadási határnap |
 
-| 2. | NFSZ | Fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának munkaügyi kirendeltségei | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 2. | NFSZ | Fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 3. | ÁNTSZ | Az alapellátásban működő szolgáltatók adatai szakmákban | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -100,7 +100,7 @@
 
 | 52. | FM | Kiemelten fontos érzékeny természeti terület | 4.8. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 53. | FM, BM | Környezetvédelmi és természetvédelmi felügyelőség és a területi vízügyi hatóság illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
+| 53. | FM, BM | Környezetvédelmi és természetvédelmi feladatkörében eljáró megyei kormányhivatal és a területi vízügyi hatóság illetékessége, vízügyi igazgatóságok, valamint nemzeti park igazgatóságok működési területe | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
 
 | 54. | BM | Kiemelten érzékeny felszín alatti vízminőség-védelmi terület | 4.9.1. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -198,9 +198,9 @@
 
 | 101. | OH | Felsőoktatási intézmények | 2.4.4. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 102. | Kormányhivatal | Munkaügyi felügyelőségek | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 102. | Kormányhivatal | Munkaügyi hatóság | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 103. | Kormányhivatal | Munkavédelmi felügyelőségek | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 103. | Kormányhivatal | Munkavédelmi hatóság | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 104. | OMSZ | Mentőállomások | 2.4.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 

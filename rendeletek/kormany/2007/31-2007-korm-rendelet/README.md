@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-31-20-2
 | 2014-12-16 | 2007-31-20-22.16 | 326/2014. (XII. 15.) Korm. rendelet |
 | 2015-01-01 | 2007-31-20-22.17 | 65/2010. (III. 18.) Korm. rendelet |
 | 2015-03-01 | 2007-31-20-22.18 | 65/2010. (III. 18.) Korm. rendelet |
+| 2015-04-01 | 2007-31-20-22.19 | 70/2015. (III. 30.) Korm. rendelet |
