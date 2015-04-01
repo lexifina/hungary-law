@@ -4,4 +4,6 @@ a) a kibocsátásra kerülő és a befogadó víz hőmérséklete közötti kül
 
 b) a kibocsátási ponttól folyásirányban számított 500 m-en lévő szelvény bármely pontján a befogadó víz hőmérséklete nem haladhatja meg a 30 °C-ot.
 
-(2) A hőterhelésre vonatkozó egyéb, vízminőség-védelmi érdekből szükséges korlátozásokat a felügyelőség a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 66. §-ának (1) bekezdése alapján a környezethasználat engedélyezése során állapítja meg.
+(2)[^17] A hőterhelésre vonatkozó egyéb, vízminőség-védelmi érdekből szükséges korlátozásokat a környezetvédelmi hatóság a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 66. §-ának (1) bekezdése alapján a környezethasználat engedélyezése során állapítja meg.
+
+[^17]: A 10. § (2) bekezdése a 15/2015. (III. 31.) FM rendelet 7. § j) pontja szerint módosított szöveg.

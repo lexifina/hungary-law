@@ -6,7 +6,7 @@
 
 2. A kibocsátási határérték származtatása
 
-2.1. Alapösszefüggés:
+2.1.[^26] Alapösszefüggés:
 
 ahol
 
@@ -16,7 +16,7 @@ DL: a tevékenységre vonatkozó dózismegszorítás (Sv év–1),
 
 DEij: az i radionuklid vagy radionuklid csoport j kibocsátási módon történő egységnyi kibocsátására eső éves dózisjáruléka (Sv év–1 / Bq év–1),
 
-Γ: a származtatási folyamat bizonytalanságát figyelembe vevő biztonsági tényező. Értékét kiemelt létesítmény esetén a felügyelőség állapítja meg (Γ ≤5).
+Γ: a származtatási folyamat bizonytalanságát figyelembe vevő biztonsági tényező. Értékét kiemelt létesítmény esetén a környezetvédelmi hatóság állapítja meg (Γ ≤5).
 
 2.2. Az egységnyi kibocsátás dózisjárulékát nemzetközileg elfogadott modellek segítségével kell meghatározni, a felhasznált paraméterek értékeit reális közelítéssel kell megállapítani.
 
@@ -31,3 +31,5 @@ ELij: az i radionuklid, illetve radionuklid csoport j kibocsátási módra vonat
 Rij: az i radionuklid, illetve radionuklid csoport j kibocsátási módra vonatkozó éves kibocsátása (Bq év–1).
 
 4. A kibocsátási határérték az ellenőrzés, illetve mérés lehetőségei által indokolt kivételes esetekben alkalmasan megválasztott radionuklid csoportokra (pl. radiojód) is megállapítható. Ebben az esetben az egész csoportra az egységnyi kibocsátáshoz tartozó legnagyobb sugárterhelést eredményező radionuklidra érvényes határértéket kell figyelembe venni.
+
+[^26]: Az 1. számú melléklet 2. pont 2.1. pontja a 15/2015. (III. 31.) FM rendelet 7. § m) pontja szerint módosított szöveg.
