@@ -6,10 +6,7 @@
 
 (4)[^1] Az (1) bekezdés szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(5)[^2] Az eljáró hatóság az általa meghozott döntéseket – a kérelmező ügyfélnek szóló döntések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő 5. nap.
-
-(6)[^3] Ha az (5) bekezdés szerint hirdetményi közlésnek van helye, de a döntés az ügyfél számára kötelezettséget állapít meg, vagy alapvető jogát vonja el, vagy korlátozza, a hatóság az ismert ügyfelet a döntés szövegéről – hirdetmény kifüggesztésével egyidejűleg – az ügyfél tekintetében az adott ügyfajtára vonatkozó külön jogszabály szerint alkalmazható kapcsolattartási forma használatával tájékoztatja. A közlés jogkövetkezményei ilyen esetben is a hirdetményi úton történő közléshez kapcsolódóan állnak be.
+(5)–(6)[^2]
 
 [^1]: Az 1. § (4) bekezdését a 358/2013. (X. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^2]: Az 1. § (5) bekezdését a 358/2013. (X. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^3]: Az 1. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (5)–(6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 72/2015. (III. 30.) Korm. rendelet 3. § (3) bekezdése. Alkalmazására lásd e módosító rendelet 114. §-át.

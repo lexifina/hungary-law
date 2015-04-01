@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-89-20-2
 | 2013-10-14 | 2007-89-20-22.13 | 358/2013. (X. 9.) Korm. rendelet |
 | 2014-01-01 | 2007-89-20-22.14 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-13 | 2007-89-20-22.15 | 229/2014. (IX. 5.) Korm. rendelet |
+| 2015-04-01 | 2007-89-20-22.16 | 72/2015. (III. 30.) Korm. rendelet |
