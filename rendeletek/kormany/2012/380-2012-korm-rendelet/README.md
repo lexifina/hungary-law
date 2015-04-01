@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-380-20-
 | --- | --- | --- |
 | 2012-12-20 | 2012-380-20-22.1 | 380/2012. (XII. 19.) Korm. rendelet |
 | 2013-02-13 | 2012-380-20-22.2 | 28/2013. (II. 12.) Korm. rendelet |
+| 2015-04-01 | 2012-380-20-22.3 | 72/2015. (III. 30.) Korm. rendelet |
