@@ -46,7 +46,7 @@ b) amely kezeléséhez szükséges feltételekkel az egészségügyi szolgálat 
 
 c) amelyet megállapítottak, de a kezelést alapvetően nem ez határozta meg.
 
-(6)[^402]
+(6)[^402] A rehabilitációs ellátást végző szervezeti egységek által nyújtott ellátásokat – ide nem értve a rehabilitációs ellátási program szerinti nappali ellátásokat – az OEP honlapján közzétett kitöltési útmutató szerint kell jelenteni.
 
 [^396]: A 36. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 29. § e) pontja szerint módosított szöveg.
 [^397]: A 36. § (2) bekezdése a 21/2000. (III. 3.) Korm. rendelet 21. §-ának (1) bekezdésével megállapított szöveg.
@@ -54,4 +54,4 @@ c) amelyet megállapítottak, de a kezelést alapvetően nem ez határozta meg.
 [^399]: A 36. § új (3) bekezdését a 29/2001. (III. 2.) Korm. rendelet 15. §-a iktatta be, szövege a 227/2011. (X. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^400]: A 36. § eredeti (3) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (4) bekezdésre változtatta.
 [^401]: A 36. § eredeti (4) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (5) bekezdésre változtatta.
-[^402]: A 36. § eredeti (5) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (6) bekezdésre változtatta. A 36. § (6) bekezdését a 318/2006. (XII. 23.) Korm. rendelet 25. § (5) bekezdése hatályon kívül helyezte.
+[^402]: A 36. § eredeti (5) bekezdés számozását a 29/2001. (III. 2.) Korm. rendelet 15. §-a (6) bekezdésre változtatta. A 36. § (6) bekezdését a 318/2006. (XII. 23.) Korm. rendelet 25. § (5) bekezdése hatályon kívül helyezte, újonnan a 364/2014. (XII. 30.) Korm. rendelet 33. §-a iktatta be.

@@ -50,7 +50,7 @@ a) az oktatási intézményben ellátandó tanulói létszámot az oktatási int
 
 b)[^193] a körzet 0–7 éves korú lakosságának számát és az oktatási intézménybe nem járó, otthon gondozott tanköteles korúak számát a területileg illetékes jegyző ellenjegyzése alapján;
 
-c)[^194] a várandós anyák számát a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetének igazolása alapján.
+c)[^194] a várandós anyák számát a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának igazolása alapján.
 
 (14)[^195] A szolgáltató részére az adott havi finanszírozás összegét az OEP a 6. § (3) bekezdése szerint utalványozza a tárgyhónapot megelőző hónapban.
 
@@ -76,7 +76,7 @@ c)[^194] a várandós anyák számát a fővárosi és megyei kormányhivatal j�
 [^191]: A 21. § eredeti (10) bekezdésének számozását (12) bekezdésre változtatta és szövegét módosította a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, illetve 5. § (5) bekezdése.
 [^192]: A 21. § (11) bekezdése a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (2) bekezdésével megállapított szöveg, számozását (13) bekezdésre változtatta a 79/2008. (IV. 3.) 1. § (2) bekezdése, nyitó szövegrésze a 365/2010. (XII. 30.) Korm. rendelet 18. § 18. pontja szerint módosított szöveg.
 [^193]: A 21. § (13) bekezdés b) pontja a 73/2011. (IV. 29.) Korm. rendelet 5. § c) pont ca) alpontja szerint módosított szöveg.
-[^194]: A 21. § (13) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 5. § c) pont cb) alpontja, a 174/2012. (VII. 26.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^194]: A 21. § (13) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 5. § c) pont cb) alpontja, a 174/2012. (VII. 26.) Korm. rendelet 20. §-a, a 70/2015. (III. 30.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^195]: A 21. § új (12) bekezdését a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (12) bekezdés számozását (13) bekezdésre változtatva. A (12) bekezdés számozását (14) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése.
 [^196]: A 21. § eredeti (12) bekezdésének számozását a 112/2004. (IV. 28.) Korm. rendelet 15. §-ának (3) bekezdése (13) bekezdésre változtatta, szövege a 318/2006. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg. A (13) bekezdés számozását (15) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, szövege a 447/2012. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^197]: A 21. § (14) bekezdését a 318/2006. (XII. 23.) Korm. rendelet 9. §-a iktatta be, számozását (16) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése.
