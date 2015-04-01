@@ -146,50 +146,8 @@
 
 2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^84]
 
-|  | A | B |
-
-|  | Illetékességi terület | Szakértő |
-
-| 1. | Bács-Kiskun megye | Bács-Kiskun Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 2. | Baranya megye | Baranya Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 3. | Békés megye | Békés Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 4. | Borsod-Abaúj-Zemplén megye | Borsod-Abaúj-Zemplén Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 5. | Budapest és Pest megye | Budapest Főváros Kormányhivatalának Népegészségügyi Szakigazgatási Szerve |
-
-| 6. | Csongrád megye | Csongrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 7. | Fejér megye | Fejér Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 8. | Győr-Moson-Sopron megye | Győr-Moson-Sopron Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 9. | Hajdú-Bihar megye | Hajdú-Bihar Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 10. | Heves megye | Heves Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 11. | Jász-Nagykun-Szolnok megye | Jász-Nagykun-Szolnok Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 12. | Komárom-Esztergom megye | Komárom-Esztergom Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 13. | Nógrád megye | Nógrád Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 14. | Somogy megye | Somogy Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 15. | Szabolcs-Szatmár-Bereg megye | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 16. | Tolna megye | Tolna Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 17. | Vas megye | Vas Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 18. | Veszprém megye | Veszprém Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
-| 19. | Zala megye | Zala Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve |
-
 [^80]: A melléklet 15. pontja a 308/2012. (XI. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^81]: A melléklet 16. pont t) alpontja a 46/2014. (II. 26.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
 [^82]: A melléklet 16. pont v) alpontját a 308/2012. (XI. 6.) Korm. rendelet 11. §-a iktatta be.
 [^83]: A melléklet 18. pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (2) bekezdés c) pontja hatályon kívül helyezte.
-[^84]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 60. §-a, a 364/2014. (XII. 30.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^84]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 144. § (2) bekezdése.
