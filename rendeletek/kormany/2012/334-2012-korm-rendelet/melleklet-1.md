@@ -1,6 +1,6 @@
 ## 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 334/2012. (XII. 4.) Korm. rendelethez
+1. melléklet a 334/2012. (XII. 4.) Korm. rendelethez[^3]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
@@ -22,7 +22,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 | 8. | vasúti hatósági eljárások |
 
-| 9. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (1) bekezdése szerinti hatósági eljárások |
+| 9. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások |
 
 | 10. | hírközlési hatósági eljárások |
 
@@ -43,3 +43,5 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 | 18. | jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások |
 
 | 19. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott |
+
+[^3]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 34. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
