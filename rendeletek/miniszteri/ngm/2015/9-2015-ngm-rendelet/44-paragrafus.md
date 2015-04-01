@@ -1,0 +1,3 @@
+## 43. § A gázüzemű munkagép gáz-üzemanyag ellátó berendezései beszerelésének, karbantartásának, javításának, a belső égésű motorral üzemelő munkagép gázüzeműre történő utólagos átalakításának műszaki-biztonsági követelményeiről szóló 51/2007. (V. 17.) GKM rendelet 2. §-ában a „fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatóságai (a továbbiakban: területi hatóság) gyakorolják” szövegrész helyébe a „mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: területi hatóság) gyakorolja” szöveg lép.
+
+## 32. A gázszerelők engedélyezéséről és nyilvántartásáról szóló 30/2009. (XI. 26.) NFGM rendelet módosítása

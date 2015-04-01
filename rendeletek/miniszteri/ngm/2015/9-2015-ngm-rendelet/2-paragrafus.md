@@ -1,0 +1,1 @@
+## 1. § A keszonmunkákról szóló 6/1987. (VI. 24.) EüM rendelet (a továbbiakban: 6/1987. EüM rendelet) 3. §-ában a „fővárosi és megyei kormányhivatal munkavédelmi és munkaügyi szakigazgatási szerve felügyelősége” szövegrész helyébe a „fővárosi és megyei kormányhivatal mint munkavédelmi hatóság” szöveg lép.
