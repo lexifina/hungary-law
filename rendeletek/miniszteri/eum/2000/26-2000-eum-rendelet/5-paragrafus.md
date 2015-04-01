@@ -18,16 +18,16 @@
 
 (9) Rákkeltő alkalmazásakor a munkáltató köteles a munkavállaló egészségére és biztonságára a legkevésbé veszélyes feltételeket biztosítani, és azt írásban dokumentálni.
 
-(10)[^14] Rákkeltő használata csak akkor vezethető be, ha azt műszaki okokból nem lehet célazonos, nem rákkeltő vagy kevésbé erős rákkeltővel helyettesíteni. A munkáltató a 3. számú mellékletben meghatározottak szerint írásban indokolja a munkavédelmi felügyelőségnek a rákkeltő választását, amely indoklásban fel kell tüntetni, hogy van-e célazonos, nem rákkeltő vagy kevésbé erős rákkeltő anyag, készítmény vagy eljárás. Amennyiben rendelkezésre áll nem rákkeltő vagy kevésbé erős rákkeltő, a munkáltató azt is feltünteti, hogy miért nem ezek alkalmazására kerül sor, miért nem történik meg a rákkeltő cseréje.
+(10)[^14] Rákkeltő használata csak akkor vezethető be, ha azt műszaki okokból nem lehet célazonos, nem rákkeltő vagy kevésbé erős rákkeltővel helyettesíteni. A munkáltató a 3. számú mellékletben meghatározottak szerint írásban indokolja a munkavédelmi hatóságnak a rákkeltő választását, amely indoklásban fel kell tüntetni, hogy van-e célazonos, nem rákkeltő vagy kevésbé erős rákkeltő anyag, készítmény vagy eljárás. Amennyiben rendelkezésre áll nem rákkeltő vagy kevésbé erős rákkeltő, a munkáltató azt is feltünteti, hogy miért nem ezek alkalmazására kerül sor, miért nem történik meg a rákkeltő cseréje.
 
 (11)[^15] Ha a rákkeltő alkalmazása nem igényli a szabad teret, akkor a rákkeltőt előállítani, illetőleg felhasználni csak olyan munkahelyen szabad, ahol a munkáltató olyan építményt biztosít, amely az előállított, illetve felhasznált anyag jellegének, a technológiának, az abból fakadó tisztítási, mentesítési feltételeknek, a légtechnikai követelményeknek megfelel.
 
 (12) A munkáltató a munkavállalót írásban tájékoztatja arról, hogy rákkeltővel kívánja foglalkoztatni, vagy hogy rákkeltővel foglalkoztatja. A foglalkoztatásra vonatkozó valamennyi információt a munkáltató köteles megadni.
 
-(13)[^16] Az (1)–(12) bekezdésben foglaltakra vonatkozó adatokat a munkavédelmi felügyelőség kérésére a munkáltató rendelkezésre bocsátja.
+(13)[^16] Az (1)–(12) bekezdésben foglaltakra vonatkozó adatokat a munkavédelmi hatóság kérésére a munkáltató rendelkezésre bocsátja.
 
 [^12]: Az 5. § (4) bekezdése a 75/2003. (XII. 23.) ESZCSM rendelet 3. §-ával megállapított szöveg.
 [^13]: Az 5. § (8) bekezdése a 12/2002. (XI. 16.) ESZCSM rendelet 2. §-ával megállapított szöveg.
-[^14]: Az 5. § (10) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének c) pontja szerint módosított szöveg.
+[^14]: Az 5. § (10) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdés c) pontja, a 9/2015. (III. 31.) NGM rendelet 19. § b) pontja szerint módosított szöveg.
 [^15]: Az 5. § (11) bekezdése a 12/2002. (XI. 16.) ESZCSM rendelet 3. §-ával megállapított szöveg.
-[^16]: Az 5. § (13) bekezdése a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének b) pontja szerint módosított szöveg.
+[^16]: Az 5. § (13) bekezdése a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.

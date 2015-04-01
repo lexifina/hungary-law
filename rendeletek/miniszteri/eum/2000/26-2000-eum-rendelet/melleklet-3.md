@@ -1,6 +1,6 @@
-3. számú melléklet a 26/2000. (IX. 30.) EüM rendelethez[^47]
+3. számú melléklet a 26/2000. (IX. 30.) EüM rendelethez[^48]
 
-## A fővárosi és megyei kormányhivatal munkavédelmi felügyelősége részére nyújtott tájékoztatás a rákkeltő/mutagén anyagokkal tevékenységet végző munkáltatókról és munkavállalókról
+## A fővárosi és megyei kormányhivatal mint munkavédelmi hatóság részére nyújtott tájékoztatás a rákkeltő/mutagén anyagokkal tevékenységet végző munkáltatókról és munkavállalókról
 
 Bejelentés ⬜ Változás bejelentés ⬜
 
@@ -146,7 +146,7 @@ Neve:
 
 Telephely címe:   Megye: .....................................
 
-A rákkeltő anyaggal végzett tevékenységről szóló tájékoztatást a munkavédelmi felügyelőség fogadta.
+A rákkeltő anyaggal végzett tevékenységről szóló tájékoztatást a munkavédelmi hatóság fogadta.
 
 Dátum: ................................................................
 
@@ -154,4 +154,4 @@ Dátum: ................................................................
 
 aláírás
 
-[^47]: A 3. számú melléklet a 30/2009. (XII. 22.) SZMM rendelet 3. § (2) bekezdés b) pontjával megállapított, a 27/2010. (XII. 31.) NGM rendelet 26. § (3) bekezdése szerint módosított szöveg.
+[^48]: A 3. számú melléklet a 30/2009. (XII. 22.) SZMM rendelet 3. § (2) bekezdés b) pontjával megállapított, a 27/2010. (XII. 31.) NGM rendelet 26. § (3) bekezdése, a 9/2015. (III. 31.) Korm. rendelet 20. §-a szerint módosított szöveg.

@@ -18,11 +18,11 @@ e) az expozíciós koncentráció mért adatait anyagonként.
 
 (2) A munkáltató az (1) bekezdés c)–e) pontjaiban meghatározott adatokat legalább évente rögzíti a nyilvántartásban, a kiegészítést dátummal látja el, és az adatok érvényességét a foglalkozás-egészségügyi szolgálat orvosával együtt aláírásával igazolja.
 
-(3)[^23] A munkavédelmi felügyelőség felügyelője, továbbá – az (5) bekezdés keretei között – minden más olyan személy, aki felelős a munkahelyi biztonságért és egészségvédelemért, jogosult az (1) és (2) bekezdés szerinti nyilvántartásba betekinteni és az adatokat elemezni.
+(3)[^23] A munkavédelmi hatóság kormánytisztviselője, továbbá – az (5) bekezdés keretei között – minden más olyan személy, aki felelős a munkahelyi biztonságért és egészségvédelemért, jogosult az (1) és (2) bekezdés szerinti nyilvántartásba betekinteni és az adatokat elemezni.
 
 (4) A munkáltató a munkavállaló kérelmére rendelkezésére bocsátja az (1) és (2) bekezdés szerinti nyilvántartásnak a munkavállalóra vonatkozó adatait.
 
 (5) A munkáltató gondoskodik arról, hogy valamennyi érintett munkavállaló, illetve munkavédelmi képviselő megismerhesse – személyazonosításra alkalmatlan módon – az (1) bekezdés c)–e) pontjai szerinti adatokat, továbbá tájékoztatást kapjon a munkavállalók számáról, az expozíciót okozó rákkeltő anyag(ok)ról, ez(ek) koncentrációjáról a munkatérben, az egy munkavállalóra jutó napi, heti, éves átlagos expozíciós időről, valamint arról, hogy hány munkavállalót ért a megengedettnél nagyobb expozíció (magasabb koncentráció és/vagy hosszabb expozíciós idő), továbbá annak okáról.
 
 [^22]: A 15. § (1) bekezdése a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének b) pontja szerint módosított szöveg.
-[^23]: A 15. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^23]: A 15. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 14. § (3) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 19. § c) pontja szerint módosított szöveg.

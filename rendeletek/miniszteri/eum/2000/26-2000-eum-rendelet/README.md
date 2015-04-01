@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-26-20-0
 | 2011-12-24 | 2000-26-20-0B.16 | 51/2011. (XII. 23.) NGM rendelet |
 | 2012-02-11 | 2000-26-20-0B.17 | 51/2011. (XII. 23.) NGM rendelet |
 | 2015-01-01 | 2000-26-20-0B.18 | 51/2011. (XII. 23.) NGM rendelet |
+| 2015-04-01 | 2000-26-20-0B.19 | 9/2015. (III. 31.) NGM rendelet |
