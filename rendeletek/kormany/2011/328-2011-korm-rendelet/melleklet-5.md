@@ -1,5 +1,3 @@
-## A GYERMEKÉTKEZTETÉS IGÉNYBEVÉTELÉNEK DOKUMENTÁLÁSA
-
 ## Év, hónap: ................................
 
 | Sor- szám | Név | Napok | Havi étke- zési na- pok | Előre befi- zetett na- pok | Napi térí- tési díj | Havi elő- leg | Előző havi | Havi ösz- szes befi- zetés | Tárgyhavi | Meg- jegyzés |
@@ -56,7 +54,7 @@
 
 5. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^14]
 
-## JÖVEDELEMNYILATKOZAT A SZEMÉLYI TÉRÍTÉSI DÍJ MEGÁLLAPÍTÁSÁHOZ
+JÖVEDELEMNYILATKOZAT A SZEMÉLYI TÉRÍTÉSI DÍJ MEGÁLLAPÍTÁSÁHOZ
 
 ## Az ellátást igénybe vevőre vonatkozó személyes adatok*:
 
@@ -92,7 +90,7 @@
 
 | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |
 
-| Önkormányzat és munkaügyi szervek által folyósított ellátások |  |
+| Önkormányzat és az állami foglalkoztatási szerv által folyósított ellátások |  |
 
 | Egyéb jövedelem (pl. ösztöndíj, bérbeadás) |  |
 
@@ -100,7 +98,7 @@
 
 ## Kiskorú igénybe vevő esetén a családban élőkre vonatkozó (nettó) jövedelmi adatok:
 
-| A család létszáma: .............. fő** | Munka- viszonyból és más foglalkoztatási jogviszonyból származó | Társas és egyéni vállalkozásból, őstermelői, szellemi és más önálló tevékeny- ségből származó | Táppénz, gyermek- gondozási támogatások | Önkormányzat és munkaügyi szervek által folyósított ellátások | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások | Egyéb jövedelem |
+| A család létszáma: .............. fő** | Munka- viszonyból és más foglalkoztatási jogviszonyból származó | Társas és egyéni vállalkozásból, őstermelői, szellemi és más önálló tevékeny- ségből származó | Táppénz, gyermek- gondozási támogatások | Önkormányzat és az állami foglalkoztatási szerv által folyósított ellátások | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások | Egyéb jövedelem |
 
 | Az ellátást igénybe vevő kiskorú |  |  |  |  |  |  |
 
@@ -186,4 +184,4 @@ IV. Egyebek
 
 2. A cselekvőképességet teljesen korlátozó gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet részlegesen korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
 
-[^14]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a szerint módosított szöveg.
+[^14]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a, a 70/2015. (III. 30.) Korm. rendelet 185. §-a szerint módosított szöveg.

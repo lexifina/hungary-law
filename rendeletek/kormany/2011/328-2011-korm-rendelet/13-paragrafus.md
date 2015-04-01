@@ -10,7 +10,7 @@ a) teljes körű ellátást biztosít, a családok átmeneti otthona,
 
 b) szükség szerinti ellátást biztosít, a szülő
 
-## fizeti meg.
+fizeti meg.
 
 (5) Az intézményvezető a gyermekétkeztetés igénybevételét a 4. melléklet szerint dokumentálja.
 

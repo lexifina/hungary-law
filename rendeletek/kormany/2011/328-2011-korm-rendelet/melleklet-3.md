@@ -1,5 +1,3 @@
-## AZ ELLÁTÁSI NAPOKON AZ ELLÁTÁST IGÉNYBE VEVŐK JELEN- VAGY TÁVOLLÉTÉNEK DOKUMENTÁLÁSA
-
 ## Az intézmény neve, címe: .................................................. Év, hónap: .................................................. Ellenőrizte: ..................................................
 
 | Sor- szám | Név | Napok | Havi összes | Megjegyzés |

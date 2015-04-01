@@ -10,7 +10,7 @@ ba) a Gyvt. 5. § s) pont sb) alpontja szerinti egyházi fenntartó,
 
 bb) a Gyvt. 5. § s) pont sc)–se) alpontja szerinti nem állami fenntartó
 
-## által fenntartott intézményben a gyermekjóléti alapellátás keretében biztosított gyermekek napközbeni ellátásáért, átmeneti gondozásáért, a gyermekvédelmi szakellátás keretében biztosított utógondozói ellátásért, valamint a Gyvt. 151. § szerinti gyermekétkeztetésért fizetendő térítési díjak megállapítására kell alkalmazni.
+által fenntartott intézményben a gyermekjóléti alapellátás keretében biztosított gyermekek napközbeni ellátásáért, átmeneti gondozásáért, a gyermekvédelmi szakellátás keretében biztosított utógondozói ellátásért, valamint a Gyvt. 151. § szerinti gyermekétkeztetésért fizetendő térítési díjak megállapítására kell alkalmazni.
 
 (2) E rendelet hatálya nem terjed ki
 

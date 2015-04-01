@@ -1,5 +1,3 @@
-## A TÉRÍTÉSIDÍJ-FIZETÉS DOKUMENTÁLÁSA A ..... ÉVBEN
-
 | Az ellátásra jogosult neve: |
 
 | Beutaló határozat száma, kelte:...................................... Az ellátás kezdete: |
@@ -53,3 +51,5 @@
 ## Ellenőrizte: ..............................................
 
 2. melléklet a 328/2011. (XII. 29.) Korm. rendelethez
+
+AZ ELLÁTÁSI NAPOKON AZ ELLÁTÁST IGÉNYBE VEVŐK JELEN- VAGY TÁVOLLÉTÉNEK DOKUMENTÁLÁSA
