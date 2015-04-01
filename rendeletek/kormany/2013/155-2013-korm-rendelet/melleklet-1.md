@@ -14,7 +14,7 @@
 
 5. A 4. pontban meghatározottakon kívüli egyéb bányászati engedélyezésre irányuló hatósági eljárások
 
-6. A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások
+6.[^3] Az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások
 
 7. Tűzvédelmi hatósági eljárások
 
@@ -47,3 +47,5 @@
 21. Azok a további hatósági engedélyezési eljárások, melyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez (forgalomba helyezéséhez, üzemeltetéséhez, működéséhez) közvetlenül szükségesek
 
 22. Az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások
+
+[^3]: Az 1. melléklet 6. pontja a 72/2015. (III. 30.) Korm. rendelet 47. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
