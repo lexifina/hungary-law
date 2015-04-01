@@ -1,81 +1,75 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások
-
-## és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
+## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
 |  | A | B | C | D | E |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Az új ferencvárosi labdarúgó stadion, és a megépítéséhez kapcsolódó beruházások. | A Budapest IX. kerület 38293/75 hrsz. alatt nyilvántartott, természetben a Budapest IX. kerület, Üllői út 129. és a Budapest IX. kerület, Könyves Kálmán körút 34–36. szám alatt található ingatlan. A Budapest IX. kerület 38293/15 hrsz. (Könyves Kálmán körút); a Budapest IX. kerület 38298 hrsz. (Üllői út); a Budapest IX. kerület 38291 hrsz. (Gyáli út) alatt nyilvántartott ingatlan. A Budapest IX. kerület 38293/33 hrsz. alatt nyilvántartott, és ott található ingatlan. | építésügyi hatósági engedélyezési eljárások: – általános építmények, – műemléki védelem alatt álló építmények, – építményen belül, építménybe beépített felvonók, mozgólépcsők (beleértve a mozgójárdát is) esetében | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Az új ferencvárosi labdarúgó stadion, és a megépítéséhez kapcsolódó beruházások. | A Budapest IX. kerület 38293/75 hrsz. alatt nyilvántartott, természetben a Budapest IX. kerület, Üllői út 129. és a Budapest IX. kerület, Könyves Kálmán körút 34–36. szám alatt található ingatlan. A Budapest IX. kerület 38293/15 hrsz. (Könyves Kálmán körút); a Budapest IX. kerület 38298 hrsz. (Üllői út); a Budapest IX. kerület 38291 hrsz. (Gyáli út) alatt nyilvántartott ingatlan. A Budapest IX. kerület 38293/33 hrsz. alatt nyilvántartott, és ott található ingatlan. | építésügyi hatósági engedélyezési eljárások: – általános építmények, – műemléki védelem alatt álló építmények, – építményen belül, építménybe beépített felvonók, mozgólépcsők (beleértve a mozgójárdát is) esetében | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 5. | építményeken kívüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezése | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 5. | építményeken kívüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezése | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 6. | a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyezési eljárások | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 6. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 7. |  |  | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapesti 1. számú Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 12. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 12. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 13. |  |  |  |
+| 13. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 14. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 14. | bányahatósági engedélyek | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 15. | bányahatósági engedélyek | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+2. melléklet a 173/2012. (VII. 26.) Korm. rendelethez[^7]
 
-2. melléklet a 173/2012. (VII. 26.) Korm. rendelethez[^6]
-
-A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
+A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködése tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Építésügy | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 3. | környezet- és természetvédelem | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | Környezet- és természetvédelem | Pest Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3a. | vízügy | Közép-Duna-völgyi Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 4. | Vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 4. | Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 5. | Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 5. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 6. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 6. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatalának Építésügyi és Örökségvédelmi Hivatala | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 7. | Régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 7. | Közlekedés: közút | Budapest Főváros Kormányhivatala Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 8. | Közlekedés: közút | Budapest Főváros Kormányhivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 8. | Rendészet: a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Budapest IX. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
+| 9. | Rendészet: a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Budapest IX. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-| 9. | Földművelésügy: |  |  |
+| 10. | Földművelésügy: termőföldvédelem | Budapest Főváros Kormányhivatala XI. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 10. | a) termőföldvédelem | Budapesti 1. számú Földhivatal | Budapest Főváros Kormányhivatalának Földhivatala |
+| 11. | Földművelésügy: talajvédelem | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 11. | b) talajvédelem | Pest Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-| 12. | Egészségügy | Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
+| 12. | Egészségügy | Budapest Főváros Kormányhivatala | Országos Tisztifőorvosi Hivatal |
 
 | 13. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 14. | Műszaki biztonság | Budapest Főváros Kormányhivatala Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 14. | Műszaki biztonság | Budapest Főváros Kormányhivatala | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 15. | Élelmiszer-biztonság | Pest Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 15. | Élelmiszer-biztonság | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 16. | Területrendezés | Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
+| 16. | Területrendezés | Budapest Főváros Kormányhivatala | területrendezésért felelős miniszter |
 
-| 17. | Földtan | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 17. | Földtan | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 18. | Bányászat | Budapesti Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 18. | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-[^6]: A 2. melléklet a 296/2012. (X. 17.) Korm. rendelet 63. §-a, a 394/2012. (XII. 20.) Korm. rendelet 60. §-a, az 527/2013. (XII. 30.) Korm. rendelet 118. § (1) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 94. § (2) bekezdése és 95. § c) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 30. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.

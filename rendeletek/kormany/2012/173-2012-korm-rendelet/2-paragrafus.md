@@ -10,4 +10,6 @@
 
 (6) Az (1) bekezdés szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(7) Az eljáró hatóság az általa meghozott döntéseket – az 1. mellékletben foglalt táblázat C:2. mezőjében meghatározott hatósági ügyek, valamint az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton kézbesíti. A döntés kézbesítésének napja a hirdetmény kifüggesztését követő 5. nap.
+(7)[^1]
+
+[^1]: A 2. § (7) bekezdését a 72/2015. (III. 30.) Korm. rendelet 30. § (3) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 114. §-át.
