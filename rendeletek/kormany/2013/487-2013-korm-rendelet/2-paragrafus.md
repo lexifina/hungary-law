@@ -22,21 +22,22 @@ c) az 1. § (1) bekezdés c) pontja szerinti köztisztviselőnek az 1. mellékle
 
 (6)[^9] A (4) bekezdés a) pontja szerinti szakmai továbbképzést
 
-a) az első fokú hatóság köztisztviselője részére a fővárosi és megyei kormányhivatal építésügyi és örökségvédelmi hivatala,
+a)[^10] az első fokú hatóság köztisztviselője részére a építésügyi és örökségvédelmi feladatkörében eljáró Budapest Főváros Kormányhivatala, építésügyi hatáskörében eljáró megyei kormányhivatal,
 
-b)[^10] a másodfokú hatóság köztisztviselője részére a miniszter a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: LLTK) bevonásával
+b)[^11] a másodfokú hatóság köztisztviselője részére a miniszter a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: LLTK) bevonásával
 
 ## szervezi.
 
-(6a)[^11] A (4) bekezdés b)–c) pontja szerinti szakmai továbbképzést a miniszter szakmai irányítása mellett a Forster Központ szervezi.
+(6a)[^12] A (4) bekezdés b)–c) pontja szerinti szakmai továbbképzést a miniszter szakmai irányítása mellett a Forster Központ szervezi.
 
-(7)[^12] A szakmai továbbképzést szervező a szakmai továbbképzés teljesítésére a (2) és (3) bekezdésben meghatározott, a miniszter által kidolgozott továbbképzési program alapján – a következő évre vonatkozóan, minden év október 31-ig – éves továbbképzési tervet készít, amelyet a miniszter minden év december 31-ig jóváhagy.
+(7)[^13] A szakmai továbbképzést szervező a szakmai továbbképzés teljesítésére a (2) és (3) bekezdésben meghatározott, a miniszter által kidolgozott továbbképzési program alapján – a következő évre vonatkozóan, minden év október 31-ig – éves továbbképzési tervet készít, amelyet a miniszter minden év december 31-ig jóváhagy.
 
 [^5]: A 2. § (2a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (3) bekezdése iktatta be.
 [^6]: A 2. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
 [^7]: A 2. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
 [^8]: A 2. § (5) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 2. § (6) bekezdés nyitó szövegrésze a 38/2015. (III. 11.) Korm. rendelet 25. § (15) bekezdés b) pontja szerint módosított szöveg.
-[^10]: A 2. § (6) bekezdés b) pontja a 38/2015. (III. 11.) Korm. rendelet 25. § (15) bekezdés c) pontja szerint módosított szöveg.
-[^11]: A 2. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (5) bekezdése iktatta be.
-[^12]: A 2. § (7) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (6) bekezdésével megállapított szöveg.
+[^10]: A 2. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 237. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (6) bekezdés b) pontja a 38/2015. (III. 11.) Korm. rendelet 25. § (15) bekezdés c) pontja szerint módosított szöveg.
+[^12]: A 2. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (5) bekezdése iktatta be.
+[^13]: A 2. § (7) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (6) bekezdésével megállapított szöveg.

@@ -32,13 +32,13 @@
 
 ## 17. Az építésügyi szabványok alkalmazása
 
-## 18.[^28]
+## 18.[^30]
 
 ## 19. Építésügyi fogalomrendszer
 
 ## 20. Az építészeti értékek védelmének eszközei
 
-## 21.[^29]
+## 21.[^31]
 
 ## 22. Tervtanácsok működése
 
@@ -52,7 +52,7 @@
 
 ## 27. Az építési folyamat szereplői
 
-## 28.[^30]
+## 28.[^32]
 
 ## B) ÉTDR TÉMAKÖRÖK
 
@@ -106,9 +106,9 @@
 
 ## 8. Műemlékek fejlesztése, korszerűsítése
 
-3. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^31]
+3. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^33]
 
-[^28]: A 2. melléklet A) rész 18. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
-[^29]: A 2. melléklet A) rész 21. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
-[^30]: A 2. melléklet A) rész 28. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
-[^31]: A 3. melléklet a 280/2014. (XI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 38/2015. (III. 11.) Korm. rendelet 25. § (13) bekezdése szerint módosított szöveg.
+[^30]: A 2. melléklet A) rész 18. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^31]: A 2. melléklet A) rész 21. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^32]: A 2. melléklet A) rész 28. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^33]: A 3. melléklet a 280/2014. (XI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 38/2015. (III. 11.) Korm. rendelet 25. § (13) bekezdése szerint módosított szöveg.

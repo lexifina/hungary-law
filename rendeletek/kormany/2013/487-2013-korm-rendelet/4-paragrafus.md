@@ -6,11 +6,11 @@
 
 (3) Az építésügyi vizsga tematikáját a 2. melléklet tartalmazza.
 
-(4)[^16] Az 1. § (1) bekezdés a)–c) pontja szerinti köztisztviselőnek a 2. melléklet A)–C) pontjában foglalt témakörökből kell vizsgát tenni.
+(4)[^18] Az 1. § (1) bekezdés a)–c) pontja szerinti köztisztviselőnek a 2. melléklet A)–C) pontjában foglalt témakörökből kell vizsgát tenni.
 
-(4a)[^17] Az 1. § (1) bekezdés b) pontja szerinti köztisztviselőnek a 2. melléklet D) pontjában foglalt témakörökből kell vizsgát tennie. Az 1. § (1) bekezdés c) pontja szerinti köztisztviselőnek a 2. melléklet D) pont 1–4. alpontjában foglalt témakörökből kell vizsgát tennie.
+(4a)[^19] Az 1. § (1) bekezdés b) pontja szerinti köztisztviselőnek a 2. melléklet D) pontjában foglalt témakörökből kell vizsgát tennie. Az 1. § (1) bekezdés c) pontja szerinti köztisztviselőnek a 2. melléklet D) pont 1–4. alpontjában foglalt témakörökből kell vizsgát tennie.
 
-(5)[^18] Az LLTK – a (4) bekezdés szerinti építésügyi vizsgára vonatkozóan – a miniszter szakmai irányítása és felügyelete mellett gondoskodik
+(5)[^20] Az LLTK – a (4) bekezdés szerinti építésügyi vizsgára vonatkozóan – a miniszter szakmai irányítása és felügyelete mellett gondoskodik
 
 a) az építésügyi vizsgaszabályzat elkészítéséről,
 
@@ -28,7 +28,7 @@ g) a vizsgafelkészítők és vizsgák megvalósításáról, valamint
 
 h) a vizsgafelkészítők és vizsgák eredményeinek vizsgaszervező rendszerben való elektronikus kezeléséről.
 
-(5a)[^19] A Forster Központ a miniszter szakmai irányítása és felügyelete mellett, felsőoktatási intézmény vagy más szervezet bevonásával együtt gondoskodik a (4a) bekezdés szerinti építésügyi vizsgára vonatkozóan
+(5a)[^21] A Forster Központ a miniszter szakmai irányítása és felügyelete mellett, felsőoktatási intézmény vagy más szervezet bevonásával együtt gondoskodik a (4a) bekezdés szerinti építésügyi vizsgára vonatkozóan
 
 a) az építésügyi vizsgaszabályzat elkészítéséről,
 
@@ -58,7 +58,7 @@ b) az (5) bekezdés b) pontja szerinti tananyagot,
 
 (8) A munkáltató közigazgatási szerv a vizsgára kötelezett köztisztviselők névsorát a vizsgakötelezettség keletkezésének időpontjától számított 15 napon belül megküldi a vizsgaszervezőnek.
 
-[^16]: A 4. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.
-[^17]: A 4. § (4a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (9) bekezdése iktatta be.
-[^18]: A 4. § (5) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (10) bekezdésével megállapított szöveg.
-[^19]: A 4. § (5a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (10) bekezdése iktatta be.
+[^18]: A 4. § (4) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.
+[^19]: A 4. § (4a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (9) bekezdése iktatta be.
+[^20]: A 4. § (5) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^21]: A 4. § (5a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (10) bekezdése iktatta be.

@@ -24,7 +24,7 @@
 
 ## 13. Az építményekkel szemben támasztott követelmények
 
-## 14.[^26]
+## 14.[^28]
 
 ## 15. Építésügyi fogalomrendszer
 
@@ -36,7 +36,7 @@
 
 ## 19. Az építési folyamat szereplői
 
-## 20–22.[^27]
+## 20–22.[^29]
 
 ## B) ÉTDR TÉMAKÖRÖK
 
@@ -96,5 +96,5 @@
 
 A) ÉPÍTÉSÜGYI TÉMAKÖRÖK
 
-[^26]: Az 1. melléklet A) rész 14. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.
-[^27]: Az 1. melléklet A) rész 20–22. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.
+[^28]: Az 1. melléklet A) rész 14. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.
+[^29]: Az 1. melléklet A) rész 20–22. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.
