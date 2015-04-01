@@ -1,0 +1,3 @@
+## 7/A. §[^35] A lakás-takarékpénztárt – a nem lakáscélú felhasználás esetén igénybe vett állami támogatás és járulékai érvényesítése miatt – költségtérítési átalány illeti meg, amely a lakás-takarékpénztár által a lakás-előtakarékoskodók részére folyósított állami támogatás kamatok nélküli összegének 2 százaléka. A lakás-takarékpénztár a költségtérítési átalány iránti igényét havonta, a folyósítást követő hónapban nyújtja be a Kincstárhoz.
+
+[^35]: A 7/A. §-t a 47/2006. (III. 7.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.

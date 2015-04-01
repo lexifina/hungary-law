@@ -52,13 +52,13 @@ c) 120 napon belül kell benyújtani az egyéb szükséges iratokat.
 
 (8) Az utólagos ellenőrzéssel megbízott külső szakértő és a lakás-takarékpénztár jogosult a lakáscélú felhasználást a helyszínen ellenőrizni. A lakás-előtakarékoskodó köteles a külső szakértő számára a helyszíni ellenőrzést lehetővé tenni, és a felhasználással kapcsolatban adatot szolgáltatni.
 
-(9) A lakás-takarékpénztár az eredeti számlákat – letörölhetetlen jelzéssel ellátva – a lakás-előtakarékoskodónak vagy a kedvezményezettnek visszaadja. A lakás-előtakarékoskodó vagy a kedvezményezett a lakáscélú felhasználás igazolásáról szóló dokumentumokat, míg a társasház, illetőleg a lakásszövetkezet azokat az eredeti számlákat, amelyekről a (3) bekezdés a) pontjának 2. alpontjában foglalt esetben hitelesített másolatot adott ki, öt évig megőrzi, és azokat az Adó- és Pénzügyi Ellenőrzési Hivatal kérésére bemutatja.
+(9)[^33] A lakás-takarékpénztár az eredeti számlákat – letörölhetetlen jelzéssel ellátva – a lakás-előtakarékoskodónak vagy a kedvezményezettnek visszaadja. A lakás-előtakarékoskodó vagy a kedvezményezett a lakáscélú felhasználás igazolásáról szóló dokumentumokat, míg a társasház, illetőleg a lakásszövetkezet azokat az eredeti számlákat, amelyekről a (3) bekezdés a) pontjának 2. alpontjában foglalt esetben hitelesített másolatot adott ki, öt évig megőrzi, és azokat az állami adóhatóság kérésére bemutatja.
 
 (10) Az Ltv. 8. § (1) bekezdésében meghatározott lakáscélú felhasználások fogalmainál az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet szerinti meghatározásokat kell figyelembe venni.
 
 (11) A lakás-előtakarékoskodó az igénybe vett összeg kifizetését követően, de az adott, (6)–(7) bekezdésben meghatározott lakáscélú felhasználás igazolására nyitva álló határidő letelte előtt jogosult kezdeményezni a lakáscél módosítását más olyan lakáscélra, amelynek az igazolási határideje még nem telt le.
 
-(12)[^33]
+(12)[^34]
 
 [^26]: A 7. § a 47/2006. (III. 7.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
 [^27]: A 7. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
@@ -67,4 +67,5 @@ c) 120 napon belül kell benyújtani az egyéb szükséges iratokat.
 [^30]: A 7. § (4a) bekezdését a 254/2012. (IX. 11.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^31]: A 7. § (5) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^32]: A 7. § (6) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^33]: A 7. § (12) bekezdését a 254/2012. (IX. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^33]: A 7. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^34]: A 7. § (12) bekezdését a 254/2012. (IX. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
