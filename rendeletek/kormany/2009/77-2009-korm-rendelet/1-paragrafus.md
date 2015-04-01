@@ -4,6 +4,6 @@
 
 (3) Azokban az esetekben, amikor az 1. számú mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatósági hatósági ügyekben eljáró szakhatóságként a 2. számú mellékletben meghatározott hatóságokat jelöli ki.
 
-(4)[^1] A 2. melléklet szerinti megyei népegészségügyi szakigazgatási szervek e rendelet szerinti feladat- és hatáskörükben különös illetékességgel járnak el.
+(4)[^1]
 
-[^1]: Az 1. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 238. §-a iktatta be.
+[^1]: Az 1. § (4) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 238. §-a iktatta be, hatályon kívül helyezte a 72/2015. (III. 30.) Korm. rendelet 10. § (2) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 114. §-át.
