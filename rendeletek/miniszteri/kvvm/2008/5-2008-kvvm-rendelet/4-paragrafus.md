@@ -94,7 +94,7 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 
 – A vadállományt a körzeti vadgazdálkodási tervben meghatározott, az élőhelyet még nem veszélyeztető vadlétszám szintjén kell tartani.
 
-– Vadászati, vadgazdálkodási létesítmények, berendezések engedélyezési eljárása során a természetvédelmi szakhatóság az igazgatóság szakvéleményének figyelembevételével adja meg állásfoglalását.
+–[^1] Vadászati, vadgazdálkodási létesítmények, berendezések engedélyezési eljárása során a természetvédelmi hatóság a szakkérdés vizsgálata során az igazgatóság szakvéleményének figyelembevételével jár el.
 
 3.2.6. Közlekedés
 
@@ -111,3 +111,5 @@ Az erdőgazdálkodásra vonatkozó további részletes előírásokat az érvén
 3.2.8. Bemutatás, oktatás
 
 – A területen található tanösvény folyamatos karbantartásával, fejlesztésével biztosítani kell a környezettudatos nevelés, oktatás, valamint a természetvédelmi bemutatás céljainak és igényeinek érvényesülését.
+
+[^1]: A melléklet 3.2.5. alpont harmadik franciabekezdése a 15/2015. (III. 31.) FM rendelet 25. §-a szerint módosított szöveg.
