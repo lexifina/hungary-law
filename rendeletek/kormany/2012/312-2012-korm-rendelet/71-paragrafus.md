@@ -10,21 +10,17 @@ b) építtetőt, valamint
 
 c) a már ismert ügyfelet.
 
-(4) A másodfokú hatóság a jogorvoslati eljárásban, amennyiben a jogorvoslati kérelem az első fokú hatóság határozatába foglalt szakhatósági állásfoglalás tartalma ellen irányul, az eljárás megindulását követően öt napon belül megkeresi a 6. melléklet szerinti, másodfokon eljáró szakhatóságot az állásfoglalásának beszerzése érdekében.
+(4)[^131] A másodfokú építésügyi hatóság a jogorvoslati eljárásban, amennyiben a jogorvoslati kérelem az első fokú hatóság határozatába foglalt szakhatósági állásfoglalás tartalma ellen irányul, az eljárás megindulását követően öt napon belül megkeresi a 6. melléklet I. vagy II. táblázat szerinti, másodfokon eljáró szakhatóságot az állásfoglalásának beszerzése érdekében.
 
-(5)[^118] A másodfokú építésügyi hatóság az eljárás megindulását követően öt napon belül, amennyiben a fellebbezés tartalma
+(5)[^132] A másodfokú építésügyi hatóság az eljárás megindulását követően öt napon belül, amennyiben a fellebbezés tartalma
 
-a) érinti a települési önkormányzat polgármesterének az első fokú határozatba beépült településképi véleményét, és amennyiben
-
-aa) az a helyi építészeti műszaki tervtanács szakmai álláspontjára alapozott, kikéri a területi építészeti-műszaki tervtanács, vagy
-
-ab) az az önkormányzati főépítész szakmai álláspontjára alapozott, kikéri az állami főépítész,
+a)[^133] érinti a települési önkormányzat polgármesterének az első fokú határozatba beépült településképi véleményét, kikéri a területi építészeti-műszaki tervtanács, vagy
 
 b) érinti a területi építészeti-műszaki tervtanácsnak az első fokú határozatba beépült véleményét, kikéri a központi építészeti tervtanács
 
 véleményét, aki, illetve amely azt tizenöt napon belül köteles megadni.
 
-(6)[^119] A másodfokú építésügyi hatóság az állami főépítész, illetve az országos főépítész (5) bekezdés a) és b) pontja szerinti véleményt az eljárásában bizonyítékként veszi figyelembe.
+(6)[^134] A másodfokú építésügyi hatóság az állami főépítész, illetve az országos főépítész (5) bekezdés a) és b) pontja szerinti véleményt az eljárásában bizonyítékként veszi figyelembe.
 
 (7) Ha a döntés meghozatalához szükséges adat nem áll rendelkezésre, a másodfokú hatóság legfeljebb nyolcnapos teljesítési határidő kitűzésével, egy alkalommal az eljárás megindulásától számított öt napon belül hiánypótlásra hívja fel a fellebbezőt.
 
@@ -34,5 +30,7 @@ a) a jogorvoslati eljárás megindulásától számított harminc napon belül h
 
 b) az utolsó szakhatósági állásfoglalás vagy dokumentum beérkezésétől számított tizenöt napon belül hozza meg, ha az eljárásba a (4) bekezdés szerinti szakhatóságot be kell vonni.
 
-[^118]: A 71. § (5) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg.
-[^119]: A 71. § (6) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 16. pontja szerint módosított szöveg. [E módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint a „hatóság, az állami főépítész, illetve az országos főépítész” szövegrész helyébe a „hatóság az” szöveg lép, nem vezethető át.]
+[^131]: A 71. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (20) bekezdésével megállapított szöveg.
+[^132]: A 71. § (5) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (4) bekezdésével megállapított szöveg.
+[^133]: A 71. § (5) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (21) bekezdésével megállapított szöveg.
+[^134]: A 71. § (6) bekezdése a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 16. pontja szerint módosított szöveg. [E módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint a „hatóság, az állami főépítész, illetve az országos főépítész” szövegrész helyébe a „hatóság az” szöveg lép, nem vezethető át.]

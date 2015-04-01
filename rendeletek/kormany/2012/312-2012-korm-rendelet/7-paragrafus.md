@@ -2,7 +2,7 @@
 
 7. § (1) Az építésügyi hatósági engedély iránti kérelem a Ket. 35. § (1) bekezdésében foglaltakon kívül tartalmazza:
 
-a) az építési tevékenységgel érintett telek címét, helyrajzi számát,
+a)[^10] az építési tevékenységgel érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
 
 b) a kérelmezett engedélyezési eljárás fajtáját,
 
@@ -25,3 +25,5 @@ g) meghatalmazott esetén az építtető meghatalmazását és
 h) az építtető aláírását.
 
 (2) A kérelmet az ÉTDR által biztosított elektronikus vagy papírformátumú formanyomtatványon lehet benyújtani, mely egyben a külön jogszabályban meghatározott kísérőlap is.
+
+[^10]: A 7. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (3) bekezdésével megállapított szöveg.

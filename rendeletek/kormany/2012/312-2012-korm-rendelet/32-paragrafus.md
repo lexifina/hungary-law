@@ -1,27 +1,23 @@
 ## 25. Telepítési hatásvizsgálati szakasz
 
-32. § (1) A THSZ a 29. § (1) bekezdés a)–g) pontja szerinti, az építési beruházás megvalósításához szükséges önálló eljárásokat válthatja ki.
+32. §[^55] (1) A kérelemhez – a THSZ-ben összevonható kérelmezett eljárásoktól függően – mellékelni kell
 
-(2) A THSZ megindításához – érintettségtől függően – mellékelni kell
+a) a 8. mellékletben meghatározott építészeti-műszaki dokumentációt,
 
-a) a 8. mellékletben meghatározott építészeti-műszaki és egyéb dokumentációt,
+b) a 7. mellékletben meghatározott mellékletet,
 
-b) a szakhatóság megkereséséhez szükséges, a szakhatósági eljárások lefolytatásához alkalmas, a 7. mellékletben felsorolt dokumentációt,
+c) a településrendezési szerződés másolatát, a településrendezési eszköz tervezetét,
 
-c) a telekalakítás engedélyezéséhez szükséges hatályos záradékkal ellátott változási vázrajzot,
+d) ha a kérelem benyújtásakor rendelkezésre áll a 29. § (1) bekezdése szerinti eljárásokban hozott jogerős döntések megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
 
-d) az előzetes régészeti dokumentációt és a földmunkákat bemutató terveket, vagy az örökségvédelemi hatóság nyilatkozatát a terület régészeti érintettségéről, valamint a régészeti örökség védelme érdekében elvégzendő régészeti feladatokról,
+e) az eljárási illeték, igazgatási szolgáltatási díj megfizetésének igazolását.
 
-e) ha a kérelem benyújtásakor rendelkezésre áll a 29. § (1) bekezdése szerinti eljárásokban hozott döntések megnevezését, iktatószámát és keltét, vagy az ÉTDR ügy- és iratazonosítóját,
+(2) Az építésügyi hatóság a THSZ-ben a 7. melléklet II. pontja szerinti szakhatóságot keresi meg a szakhatóság állásfoglalásának beszerzése érdekében.
 
-f)[^47]
+(3) A szakhatóság a dokumentáció hiányainak pótlására az eljárásában egy alkalommal bocsáthat ki hiánypótlási felhívást, a szakhatósági megkereséstől számított öt napon belül és legfeljebb tíz napos teljesítési határidő megjelölésével.
 
-g) az eljárási illeték, igazgatási szolgáltatási díj megfizetésének igazolását,
+(4) A településrendezési eszköz készítésének, módosításának egyeztetési eljárását a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerint az e fejezetben foglalt eltérésekkel kell lefolytatni.
 
-h) a településrendezési szerződés másolatát és a településrendezési eszköz egyeztetéséhez – a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben – előírt telepítési tanulmánytervet, ha az építési beruházás megvalósítása érdekében településrendezési eszköz készítése vagy módosítása szükséges.
+(5) Az építésügyi hatóság a kérelem tartalmától függően a 7. melléklet III. pontjában meghatározott szakkérdéseket vizsgálja.
 
-(3) A THSZ-ben a hatóságon kívül a szakhatóságok szakhatósági eljárásukban a Ket. szerinti egyszeri tartalmi hiánypótlási felhívást bocsáthatnak ki a szakterületükre vonatkozó dokumentáció hiányossága esetén a szakhatósági megkeresésétől számított öt napon belül.
-
-(4) A THSZ-ben a településrendezési eszköz módosításának, elfogadásának egyeztetési szakaszát a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerint e fejezetben foglalt eltérésekkel kell lefolytatni.
-
-[^47]: A 32. § (2) bekezdés f) pontját a 77. § hatályon kívül helyezte.
+[^55]: A 32. § a 70/2015. (III. 30.) Korm. rendelet 206. § (13) bekezdésével megállapított szöveg.

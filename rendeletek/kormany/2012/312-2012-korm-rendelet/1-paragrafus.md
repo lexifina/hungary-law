@@ -22,6 +22,8 @@ kapcsolatos építésügyi és építésfelügyeleti hatósági eljárásokra é
 
 a) a sajátos építményfajtákkal, valamint
 
-b) ha annak létesítéséhez építésügyi hatósági engedélyhez kötött építési tevékenység szükséges, a felvonóval, mozgólépcsővel és mozgójárdával
+b)[^1] a felvonóval, mozgólépcsővel és mozgójárdával – ha annak létesítéséhez, átalakításához, áthelyezéséhez vagy bontásához építésügyi hatósági engedélyhez kötött építési tevékenység szükséges –
 
 kapcsolatos építésügyi és építésfelügyeleti hatósági eljárásokra és ellenőrzésekre is alkalmazni kell.
+
+[^1]: Az 1. § (3) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (1) bekezdésével megállapított szöveg.

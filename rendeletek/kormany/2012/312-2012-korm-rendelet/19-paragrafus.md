@@ -24,7 +24,7 @@ c) figyelmeztető és tájékoztató rész.
 
 a) az ÉTDR ügy- és iratazonosítót,
 
-b) a tervezett építési tevékenységgel érintett telek címét, helyrajzi számát,
+b)[^35] a tervezett építési tevékenységgel érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
 
 c) az építési tevékenység rövid leírását, az építmény rendeltetését, az önálló rendeltetési egység számát és rendeltetésének megjelölését,
 
@@ -56,11 +56,11 @@ a) figyelmeztetést arra, hogy az építtető építési tevékenységet csak a 
 
 b) figyelmeztetést arra, hogy az építési engedély polgári jogi igényt nem dönt el,
 
-c)[^27] figyelmeztetést arra vonatkozóan, hogy a létrehozott építmény csak használatbavételi engedély kiadását vagy tudomásulvételt követően, és – a kéményseprő-ipari közszolgáltatásról szóló törvényben meghatározott esetben – szén-monoxid érzékelő berendezés elhelyezése után használható,
+c)[^36] figyelmeztetést arra vonatkozóan, hogy a létrehozott építmény csak használatbavételi engedély kiadását vagy tudomásulvételt követően, és – a kéményseprő-ipari közszolgáltatásról szóló törvényben meghatározott esetben – szén-monoxid érzékelő berendezés elhelyezése után használható,
 
-d)[^28] figyelmeztetést arra, hogy nyilvántartott műemléki értéken, műemléken az egyes, építési engedély nélkül végezhető tevékenységekhez – külön jogszabályban meghatározott esetekben – az örökségvédelmi hatósághoz történő bejelentése vagy az örökségvédelmi hatóság engedélye is szükséges,
+d)[^37] figyelmeztetést arra, hogy nyilvántartott műemléki értéken, műemléken az egyes, építési engedély nélkül végezhető tevékenységekhez – külön jogszabályban meghatározott esetekben – az örökségvédelmi hatósághoz történő bejelentése vagy az örökségvédelmi hatóság engedélye is szükséges,
 
-e)[^29] tájékoztatást arról, hogy az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
+e)[^38] tájékoztatást arról, hogy az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
 
 f) tájékoztatást arról, hogy az építésügyi hatósági engedély nem mentesíti az építtetőt az építési tevékenység megkezdéséhez az egyéb jogszabályokban előírt engedélyek, hozzájárulások vagy nyilatkozatok megszerzésének kötelezettsége alól,
 
@@ -70,6 +70,7 @@ h) tájékoztatást arról, hogy a jogorvoslatra nyitva álló idő alatt az üg
 
 (7) Az építésügyi hatóság a határozaton feltünteti az értesítettek körét a 20. § (2) bekezdésében foglaltak szerint.
 
-[^27]: A 19. § (6) bekezdés c) pontja a 440/2013. (XI. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^28]: A 19. § (6) bekezdés d) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.
-[^29]: A 19. § (6) bekezdés e) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^35]: A 19. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (9) bekezdésével megállapított szöveg.
+[^36]: A 19. § (6) bekezdés c) pontja a 440/2013. (XI. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^37]: A 19. § (6) bekezdés d) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.
+[^38]: A 19. § (6) bekezdés e) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.

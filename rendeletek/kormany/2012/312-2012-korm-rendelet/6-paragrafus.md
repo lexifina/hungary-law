@@ -18,6 +18,6 @@ e) hogy a megvalósult építmény, építményrész – az engedély nélkül m
 
 (4) Az építésügyi, építésfelügyeleti hatóság a helyszíni szemlén tapasztaltakról feljegyzést vagy jegyzőkönyvet és a helyszínről, annak környezetéről dátummal ellátott fényképfelvételt készít.
 
-(5)[^6] A Kormány által rendeletben kihirdetett veszélyhelyzet esetén három napon belül helyszíni szemlét kell tartani, amelyen a résztvevő szakhatóság – amennyiben ennek információtechnológiai feltételei fennállnak – állásfoglalását az ÉTDR-be tölti fel. Ha a helyszíni szemlén az információtechnológiai feltételek nem állnak fenn, a szakhatósági állásfoglalást legkésőbb a helyszíni szemlét követő napon kell az ÉTDR-be feltölteni.
+(5)[^9] A Kormány által rendeletben kihirdetett veszélyhelyzet esetén három napon belül helyszíni szemlét kell tartani, amelyen a résztvevő szakhatóság – amennyiben ennek információtechnológiai feltételei fennállnak – állásfoglalását az ÉTDR-be tölti fel. Ha a helyszíni szemlén az információtechnológiai feltételek nem állnak fenn, a szakhatósági állásfoglalást legkésőbb a helyszíni szemlét követő napon kell az ÉTDR-be feltölteni.
 
-[^6]: A 6. § (5) bekezdését a 62/2014. (III. 6.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^9]: A 6. § (5) bekezdését a 62/2014. (III. 6.) Korm. rendelet 17. § (2) bekezdése iktatta be.

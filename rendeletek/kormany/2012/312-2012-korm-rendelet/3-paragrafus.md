@@ -1,6 +1,6 @@
 ## 3. Építésügyi hatósági szolgáltatás
 
-3. § (1) Az építtető az építésügyi hatósági engedély iránti kérelem tervezett benyújtása előtt építésügyi hatósági szolgáltatás iránti kérelmet terjeszthet elő az építésügyi hatósághoz elektronikusan a 2. § (2) bekezdése szerinti tárhely igénybevételével vagy papír alapon.
+3. § (1)[^6] Az építtető az építésügyi hatósági engedély iránti kérelem tervezett benyújtása előtt építésügyi hatósági szolgáltatás iránti kérelmet terjeszthet elő az illetékes építésügyi hatósághoz elektronikusan a 2. § (2) bekezdése szerinti tárhely igénybevételével vagy papír alapon.
 
 (2) Az építtető az építésügyi hatósági szolgáltatás keretében kérheti
 
@@ -12,7 +12,7 @@ ba) további melléklet, dokumentum beszerzése, vagy
 
 bb) további szakhatósági közreműködés,
 
-c) tájékoztatást az általa kérelmezni szándékozott eljárás és az ahhoz szükséges szakhatósági közreműködés eljárási, igazgatási szolgáltatási díjának vagy illetékének mértékéről,
+c)[^7] tájékoztatást az általa kérelmezni szándékozott eljárás és az ahhoz szükséges szakhatósági közreműködés eljárási, igazgatási szolgáltatási díjának vagy illetékének, továbbá jogszabályban meghatározott eljárási költségének mértékéről,
 
 d) a leendő ügyféli kör előzetes tisztázását,
 
@@ -27,3 +27,6 @@ f) az általa kérelmezni szándékozott eljárásra vonatkozó szabályokról e
 (5) Az építésügyi hatósági szolgáltatást az építésügyi hatósági engedély iránti kérelem benyújtása előtt többször is igénybe lehet venni.
 
 (6) Az építésügyi hatóságot a szolgáltatása körében kiadott szakmai nyilatkozata azokban a kérdésekben köti, amelyekről nyilatkozott, mindaddig, amíg a vonatkozó jogszabályok vagy az engedély iránti kérelem típusa, tartalma és mellékletei nem változnak meg.
+
+[^6]: A 3. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 1. pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 2. pontja szerint módosított szöveg.

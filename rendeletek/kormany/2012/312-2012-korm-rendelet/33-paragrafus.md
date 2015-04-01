@@ -1,10 +1,8 @@
-33. § (1) Az építésügyi hatóság a THSZ-ben a döntést
+33. § (1)[^56] Az építésügyi hatóság ügyintézési határideje a THSZ-ben
 
-a) hiánytalan kérelem esetén az utolsó szakhatósági állásfoglalás beérkezésétől,
+a) a b) pont kivételével hatvan nap,
 
-b) hiányos kérelem esetén az utolsó hiányzó dokumentum vagy szakhatósági állásfoglalás beérkezésétől
-
-## számított tizenöt napon belül hozza meg.
+b) a 29. § (1) bekezdés c) pontjában meghatározott eljárás lefolytatása esetén száz nap.
 
 (2) Ha a településrendezési eszköz véleményezési eljárása is a THSZ-ben kerül lefolytatásra, akkor a szakhatóságok állásfoglalásának a településrendezési eszköz elfogadásával kapcsolatos – a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben foglaltak szerinti tartalmú – véleményt is tartalmaznia kell.
 
@@ -26,29 +24,25 @@ f) környezetvédelmi engedély vagy egységes környezethasználati engedély,
 
 g) a településrendezési eszközzel kapcsolatos vélemény.
 
-(5) A telepítési engedély tárgyában hozott döntés rendelkező része a Ket. 72. § (2) bekezdésében foglaltakon kívül – a (4) bekezdés szerinti tartalomtól függően – tartalmazza:
+(5)[^57] A telepítési engedély tárgyában hozott döntés rendelkező része a Ket. 72. § (2) bekezdésében foglaltakon kívül – a (4) bekezdés szerinti tartalomtól függően – tartalmazza:
 
 a) az ÉTDR ügy- és iratazonosítót,
 
 b) a tervezett építési beruházás, a beruházásra vonatkozó teljesítmény és kibocsátási adatok, valamint technológia rövid leírását, a tervezett építmény rendeltetését, az ismert és vizsgált önálló rendeltetési egységek számát és rendeltetésük megjelölését,
 
-c) a döntéssel érintett valamennyi telek címét, helyrajzi számát,
+c) a tervezett építési beruházással érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
 
-d) az eljáró hatóság – kérelemtől függően – elvi építési keretengedély, telekalakítási engedély, régészeti feltárási engedély tárgyában hozott döntését, az engedély feltételeit,
+d) az eljáró hatóság – kérelemtől függően – hozott döntését, az engedély feltételeit,
 
-e) az eljáró hatóságnak a 29. § (1) bekezdésében felsorolt, a kérelem tárgyát képező kiváltott eljárásokban az ügydöntő szakhatóságok állásfoglalása alapján hozott döntését,
+e) a termőföld végleges más célú hasznosításának engedélyezési feltételeire, a földvédelmi járulék megfizetésére vonatkozó előírásokat,
 
-f) az építési beruházás megvalósításának jogszabályban és az ügydöntő szakhatóságok állásfoglalásában előírt feltételeit, azaz
-
-fa) a termőföld végleges más célú hasznosításának engedélyezési feltételeire, a földvédelmi járulék megfizetésére vonatkozó előírásokat,
-
-fb) az erdő igénybevételének engedélyezésére, feltételeire, az erdővédelmi járulék megfizetésére vonatkozó rendelkezéseket,
+f) az erdő igénybevételének engedélyezésére, feltételeire, az erdővédelmi járulék megfizetésére vonatkozó rendelkezéseket,
 
 g) az engedély hatályát, meghosszabbításának módját, feltételeit,
 
-h) a megalapozó szakhatóságok állásfoglalását és kikötéseit,
+h) a szakhatóságok állásfoglalását és kikötéseit,
 
-i) a szakhatóságok településrendezési eszközzel kapcsolatos – a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben foglaltak szerinti – véleményét, jóváhagyásuk szakmai feltételeit.
+i) a településrendezési eszközzel kapcsolatos – a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben foglaltak szerinti – véleményt, a jóváhagyás szakmai feltételeit.
 
 (6) A döntés az engedély tárgyától függően tartalmazza:
 
@@ -62,7 +56,7 @@ ac) a régészeti feltárás a telepítési engedély kézhezvétele után megke
 
 ad) az engedélyezett végleges más célú termőföld felhasználást, erdő igénybevételt, környezethasználatot és a kérelmezett tevékenységet, a telepítési engedélyben meghatározott időn belül és csak a jogerős integrált építési engedély birtokában szabad megkezdeni és folytatni,
 
-ae) a telekalakítási engedély alapján a változás ingatlan-nyilvántartáson való átvezetése csak az integrált építési engedély végrehajthatóvá válása után kérhető, és az átvezetés megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor igazolni köteles,
+ae)[^58] a telekalakítási engedély alapján a változás ingatlan-nyilvántartáson való átvezetése csak az integrált építési engedély végrehajthatóvá válása után kérhető, és az átvezetés megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor az építési naplóban történő rögzítéssel igazolni köteles,
 
 af) a telepítési engedély nem mentesíti az építtetőt a környezethasználat és az építési tevékenység megkezdéséhez az egyéb jogszabályokban előírt engedélyek, hozzájárulások vagy nyilatkozatok megszerzésének kötelezettsége alól,
 
@@ -73,3 +67,7 @@ b) a figyelmeztetést arra, hogy
 ba) a földvédelmi és az erdővédelmi járulékot az előírt határidőre be kell fizetni,
 
 bb) az előírt régészeti feltárást a kivitelezés megkezdéséig be kell fejezni.
+
+[^56]: A 33. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (14) bekezdésével megállapított szöveg.
+[^57]: A 33. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (15) bekezdésével megállapított szöveg.
+[^58]: A 33. § (6) bekezdés a) pont ae) alpontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 5. pontja szerint módosított szöveg.
