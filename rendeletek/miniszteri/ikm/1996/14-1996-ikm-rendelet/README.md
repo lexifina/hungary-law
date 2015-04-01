@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-14-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-01-01 | 1996-14-20-6A.3 | 14/1996. (III. 5.) IKM rendelet |
+| 2015-04-01 | 1996-14-20-6A.4 | 14/2015. (III. 31.) NFM rendelet |

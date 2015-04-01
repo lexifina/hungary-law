@@ -26,9 +26,9 @@
 
 ## Magyar Kereskedelmi és Vendéglátóipari Múzeum
 
-## Fogyasztóvédelmi Főfelügyelőség
+## Nemzeti Fogyasztóvédelmi Hatóság[^3]
 
-## Magyar Elektrotechnikai Ellenőrző Intézet Korlátolt Felelősségű Társaság[^3]
+## Magyar Elektrotechnikai Ellenőrző Intézet Korlátolt Felelősségű Társaság[^4]
 
 ## Fa-, Papír- és Nyomdaipari Minőségellenőrző Intézet
 
@@ -105,4 +105,5 @@ h) szemétszállítás,
 i) a bérbeadó és bérlő megállapodása alapján nyújtott egyéb szolgáltatás.
 
 [^2]: Az időközi szerveeti változásoknak megfelelő szöveg.
-[^3]: A 67/1996. (XII.28.)IKIM rendelet 4.§-ának (2) bekezdésének megfelelően módosított szöveg.
+[^3]: A 14/2015. (III. 31.) NFM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 67/1996. (XII.28.)IKIM rendelet 4.§-ának (2) bekezdésének megfelelően módosított szöveg.
