@@ -1,4 +1,4 @@
-4. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^32]
+4. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^34]
 
 Melléklet a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló 18/1996. (VI. 13.) KHVM rendelethez
 
@@ -130,4 +130,4 @@ I/B.) A HELYI ÖNKORMÁNYZAT JEGYZŐJÉNEK [A VÍZGAZDÁLKODÁSI HATÓSÁGI JOGK
 
 6. Megjegyzés:
 
-[^32]: A 4. melléklet I/A pont címe a 132/2013. (XII. 23.) VM rendelet 26. § c) pontja szerint módosított szöveg.
+[^34]: A 4. melléklet I/A pont címe a 132/2013. (XII. 23.) VM rendelet 26. § c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## Az üzemeltetésre vonatkozó egyes szabályok
 
-9. § (1)[^18] A kút
+9. § (1)[^20] A kút
 
 a) a vízügyi hatóság által kiadott vízjogi üzemeltetési engedély, és
 
@@ -26,7 +26,7 @@ bh) a rendszeres és időszakos kútvizsgálatokra vonatkozó rendelkezéseket.
 
 (3) Egy hónapot meghaladó üzemszünet esetén a nyugalmi kútfejnyomást a kútfej gáztalanítása után, illetve a nyugalmi vízszintet havonta kell mérni.
 
-(4)[^19] A vízkémiára és a gáztartalomra vonatkozó vizsgálatok gyakoriságát és a vizsgálandó komponensek körét – a vízilétesítmény céljától függően – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről, a víziközművek üzemeltetéséről, a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről, valamint a termelt és szolgáltatott vizek gázmentesítéséről szóló miniszteri rendeletekkel összhangban az üzemeltetési szabályzatban, amennyiben az (1) bekezdés alapján ez nem szükséges, a vízjogi üzemeltetési engedélyben kell meghatározni, ideértve a mérések módját, eszközigényét és a minőség biztosítását is.
+(4)[^21] A vízkémiára és a gáztartalomra vonatkozó vizsgálatok gyakoriságát és a vizsgálandó komponensek körét – a vízilétesítmény céljától függően – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről, a víziközművek üzemeltetéséről, a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről, valamint a termelt és szolgáltatott vizek gázmentesítéséről szóló miniszteri rendeletekkel összhangban az üzemeltetési szabályzatban, amennyiben az (1) bekezdés alapján ez nem szükséges, a vízjogi üzemeltetési engedélyben kell meghatározni, ideértve a mérések módját, eszközigényét és a minőség biztosítását is.
 
 (5) Az ásvány-, gyógyvíz minősítésű kutaknál a vizsgálatoknak a minősítés megalapozásához meghatározott komponensekre és azok ellenőrzésének gyakoriságára kell kiterjedni.
 
@@ -62,5 +62,5 @@ m) gázkapacitás mérést és gázmintavétel elemzést a gázos kutaknál.
 
 (8) Az időszakos vizsgálatok eredményét és az értékelést tartalmazó dokumentációt az engedélyezésre hatáskörrel rendelkező hatóságnak egy hónapon belül meg kell küldeni. Amennyiben az időszakos vizsgálatok értékelése alapján az üzemeltetés módja és a rendszeres, valamint időszakos mérések rendje módosítása válik szükségessé, a megfelelően módosított üzemeltetési szabályzatot a vízügyi hatóságnak meg kell küldeni.
 
-[^18]: A 9. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^19]: A 9. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^20]: A 9. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^21]: A 9. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
