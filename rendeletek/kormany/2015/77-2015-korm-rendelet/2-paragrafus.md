@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad Magyarország Kormánya és az Európai Űrügynökség között Magyarország csatlakozásáról az Európai Űrügynökséget létrehozó Alapokmányhoz és az erre vonatkozó szerződési feltételekről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
