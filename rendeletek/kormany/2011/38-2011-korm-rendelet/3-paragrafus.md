@@ -16,13 +16,15 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 4. | A polgárok személyi adatainak és lakcímének nyilvántartása | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
 
-| 5. | Földhasználati nyilvántartás | Földmérési és Távérzékelési Intézet és földhivatalok | teljes adatfeldolgozás | kötelező |
+| 4a. | Elektronikus anyakönyvi nyilvántartás | Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala | teljes adatfeldolgozás | kötelező |
+
+| 5. | Földhasználati nyilvántartás | Földmérési és Távérzékelési Intézet és járási hivatalok | teljes adatfeldolgozás | kötelező |
 
 | 6.1. | Az államhatár adatbázisa, az állami nagyméretarányú topográfiai térképi adatbázisok, az állami távérzékelési adatbázisok, a Földrajzinév-tár adatbázis | Földmérési és Távérzékelési Intézet | teljes adatfeldolgozás | kötelező |
 
-| 6.2. | Az alapponthálózati pontok adatbázisa, az állami földmérési alaptérképi adatbázis, az állami ingatlan-nyilvántartási térképi adatbázis, az archív analóg és digitális térképi adatok adatbázisai. | Földmérési és Távérzékelési Intézet és földhivatalok | teljes adatfeldolgozás | kötelező |
+| 6.2. | Az alapponthálózati pontok adatbázisa, az állami földmérési alaptérképi adatbázis, az állami ingatlan-nyilvántartási térképi adatbázis, az archív analóg és digitális térképi adatok adatbázisai. | Földmérési és Távérzékelési Intézet és járási hivatalok | teljes adatfeldolgozás | kötelező |
 
-| 6.3. | Ingatlan-nyilvántartás | Földmérési és Távérzékelési Intézet és földhivatalok | teljes adatfeldolgozás | kötelező |
+| 6.3. | Ingatlan-nyilvántartás | Földmérési és Távérzékelési Intézet és járási hivatalok | teljes adatfeldolgozás | kötelező |
 
 | 7. | Közepes és kisméretarányú állami topográfiai térképek | MH Geoinformációs Szolgálat és HM Térképészeti Közhasznú Nonprofit Kft. | teljes adatfeldolgozás | kötelező |
 
@@ -60,4 +62,4 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 24. | Egységes örökbefogadási nyilvántartás | Nemzeti Rehabilitációs és Szociális Hivatal | elektronikus adatfeldolgozás | kötelező |
 
-[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24–25. §-a, az 513/2013. (XII. 29.) Korm. rendelet 32. §-a, a 221/2014. (IX. 4.) Korm. rendelet 556. §-a szerint módosított szöveg.
+[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24–25. §-a, az 513/2013. (XII. 29.) Korm. rendelet 32. §-a, a 221/2014. (IX. 4.) Korm. rendelet 556. §-a, a 70/2015. (III. 30.) Korm. rendelet 171. §-a szerint módosított szöveg.
