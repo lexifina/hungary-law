@@ -12,7 +12,7 @@ a) a külföldi devizapozíció árfolyamkockázatára kötött, fedezeti célú
 
 b) a Nemzetközi Valuta Alap által swap hitel formájában nyújtott devizahitelek forintellenértékét, az éven túli IMF kvóta forintfedezetét (együttesen az IMF forintkészlete) és a forintkészlet értékállandóságát biztosító évenkénti átértékelési különbözetek összegét.
 
-(5)[^22] A banküzem egyéb forrásai között kell kimutatni a központi költségvetéssel, az Országos Egészségbiztosítási Pénztárral, a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatokat ellátó szakigazgatási szervével és az önkormányzatokkal szembeni rövid lejáratú kötelezettségeket, a munkavállalókkal kapcsolatos passzív elszámolásokat, az áruszállításból és szolgáltatásból eredő kötelezettségeket.
+(5)[^22] A banküzem egyéb forrásai között kell kimutatni a központi költségvetéssel, az Országos Egészségbiztosítási Pénztárral, az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatallal és az önkormányzatokkal szembeni rövid lejáratú kötelezettségeket, a munkavállalókkal kapcsolatos passzív elszámolásokat, az áruszállításból és szolgáltatásból eredő kötelezettségeket.
 
 (6)[^23] Az átértékelési körbe bevonandó eszközöknek és forrásoknak az MNB tv. 147. § (1) bekezdése szerinti értékeléséből adódó árfolyamnyereséget vagy árfolyamveszteséget a saját tőke részét képező, forint árfolyam kiegyenlítési tartalékába kell helyezni.
 
@@ -29,7 +29,7 @@ a) a tárgyévet követő év március 31-éig megtérített összeget az eredm�
 b) a tárgyévi éves beszámoló részvényes általi kézhezvételét követő 8 napon belül megtérített további összeget, vagy túlfizetés miatt visszafizetett összeget az eredménytartalék javára, illetve terhére kell elszámolni a tárgyévet követő év főkönyvi számláin a Magyar Államkincstár részére vezetett Kincstári Egységes Számlával szemben, és azt a tárgyévet követő év mérlegében kell kimutatni.
 
 [^21]: Az 5. § (2) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^22]: Az 5. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 76. §-a szerint módosított szöveg.
+[^22]: Az 5. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 76. §-a, a 70/2015. (III. 30.) Korm. rendelet 44. §-a szerint módosított szöveg.
 [^23]: Az 5. § (6) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 3. § (2) bekezdésével megállapított, az 518/2013. (XII. 30.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
 [^24]: Az 5. § (7) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 2. §-ának (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
 [^25]: Az 5. § (8) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
