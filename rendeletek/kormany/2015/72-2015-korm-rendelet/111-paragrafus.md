@@ -1,0 +1,1 @@
+## 111. A tatabányai multifunkcionális sportcsarnok beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 49/2015. (III. 12.) Korm. rendelet módosítása

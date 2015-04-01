@@ -1,0 +1,7 @@
+## 48. A KEOP-1.1.1/B/10-11-2013-0002 azonosító számú („A fővárosi hulladékgazdálkodási rendszer környezetbarát technológiáinak bővítése, a hulladékfeldolgozás és újrahasznosítás arányának növelése” című), valamint a KEOP-1.1.1/2F/09-11-2012-0005 azonosító számú („Települési szilárdhulladék-gazdálkodási rendszerek fejlesztése a Körös-szögi Kistérségben” című) projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 190/2013. (VI. 7.) Korm. rendelet módosítása
+
+48. § (1) A KEOP-1.1.1/B/10-11-2013-0002 azonosító számú („A fővárosi hulladékgazdálkodási rendszer környezetbarát technológiáinak bővítése, a hulladékfeldolgozás és újrahasznosítás arányának növelése” című), valamint a KEOP-1.1.1/2F/09-11-2012-0005 azonosító számú („Települési szilárdhulladék-gazdálkodási rendszerek fejlesztése a Körös-szögi Kistérségben” című) projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 190/2013. (VI. 7.) Korm. rendelet [a továbbiakban: 190/2013. (VI. 7.) Korm. rendelet] 2. melléklet 7. pontja helyébe a következő rendelkezés lép:
+
+## „7. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,”
+
+(2) Hatályát veszti a 190/2013. (VI. 7.) Korm. rendelet 3. § (2) bekezdése.
