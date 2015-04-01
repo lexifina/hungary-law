@@ -1,3 +1,3 @@
 ## 19. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-90. §
+90. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 16. § g) pontjában a „nyilvántartásában, a kényszerintézkedés hatálya alatt állók nyilvántartásában, a” szövegrész helyébe a „nyilvántartásában, a” szöveg lép.

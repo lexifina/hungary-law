@@ -26,7 +26,7 @@
 
 (14) A Bv. tv. 95. § (5) bekezdése az „A fogvatartott” szövegrész helyett az „Az elítélt” szöveggel lép hatályba.
 
-(15)
+(15) A Bv. tv. 96. § (2) bekezdésében a „b), d), f)–h), j) és l) pontjában” szövegrész helyébe a „b), d), f)–h), j), l) és o) pontjában” szöveg lép.
 
 (16) A Bv. tv. 99. § (5) bekezdése a „szakmai képzésben,” szövegrész helyett a „szakmai képzésben, reintegrációs programon,” szöveggel lép hatályba.
 

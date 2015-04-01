@@ -34,6 +34,12 @@ o) jogszabályban meghatározott egyéb feladat.
 
 (2) A BFB az (1) bekezdés b), d), f)–h), j) és l) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.”
 
-(2)
+(2) A Bv. tv. 96. § (1) bekezdés o) pontja helyébe a következő rendelkezés lép és a Bv. tv. 96. § (1) bekezdése a következő p) ponttal egészül ki:
+
+(A BFB elítéltekkel kapcsolatos feladatai:)
+
+„o) reintegrációs őrizet elrendelésére javaslattétel,
+
+p) jogszabályban meghatározott egyéb feladat.”
 
 (3)
