@@ -2,11 +2,11 @@
 
 a) lefolytatja a Kötv. 29. § (2) bekezdése szerint a műemléki értékek védetté nyilvánításának és a Kötv. 35. § (2) bekezdése szerint a védetté nyilvánítás megszüntetésének előkészítését,
 
-b)[^9] intézkedik a Kötv. 74. §-a szerint a védetté nyilvánítás tényének az ingatlan-nyilvántartásba történő feljegyzés iránt.
+b)[^10] intézkedik a Kötv. 74. §-a szerint a védetté nyilvánítás tényének az ingatlan-nyilvántartásba történő feljegyzés iránt.
 
-c)[^10]
+c)[^11]
 
-(2)[^11] A Központ a tudományos feladatainak körében különösen
+(2)[^12] A Központ a tudományos feladatainak körében különösen
 
 a) végzi az ország műemléki értékeinek feltárását, azonosítását, meghatározását és dokumentálását, a műemléki értékekre vonatkozó forrásdokumentumok gyűjtését,
 
@@ -24,6 +24,6 @@ g) ellát szakértői feladatokat, különösen az értékleltár, az építést
 
 h) vezeti a Kötv. 71. § (2) bekezdésében szereplő, a Kötv. 72. § (1) bekezdése alapján közhiteles hatósági nyilvántartásnak nem minősülő nyilvántartásokat.
 
-[^9]: Az 7. § (1) bekezdés d) pontja a 372/2014. (XII. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
-[^10]: A 6. § (1) bekezdés c) pontját a 372/2014. (XII. 30.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^11]: A 7. § (2) bekezdés nyitó szövegrésze a 372/2014. (XII. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^10]: Az 7. § (1) bekezdés d) pontja a 372/2014. (XII. 30.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^11]: A 6. § (1) bekezdés c) pontját a 372/2014. (XII. 30.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^12]: A 7. § (2) bekezdés nyitó szövegrésze a 372/2014. (XII. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.

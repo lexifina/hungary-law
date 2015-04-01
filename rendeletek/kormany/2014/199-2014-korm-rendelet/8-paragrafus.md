@@ -1,6 +1,6 @@
 8. § (1) A Központ szakmai tanácsadó testületként működteti a Kulturális Javak Bizottságát, amely a kulturális javakkal kapcsolatos hatósági és egyéb szakmai döntések előkészítésében segíti a Központ munkáját.
 
-(2)[^12] A Kulturális Javak Bizottsága kilenctagú testület, amelynek egy-egy tagját
+(2)[^13] A Kulturális Javak Bizottsága kilenctagú testület, amelynek egy-egy tagját
 
 a) a Magyar Tudományos Akadémia,
 
@@ -18,4 +18,4 @@ g) a Magyar Műkereskedők és Galériák Országos Szövetsége, valamint
 
 h) a miniszter
 
-[^12]: A 8. § (2) bekezdés nyitó és záró szövegrésze a 38/2015. (III. 11.) Korm. rendelet 27. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^13]: A 8. § (2) bekezdés nyitó és záró szövegrésze a 38/2015. (III. 11.) Korm. rendelet 27. § (2) bekezdés d) pontja szerint módosított szöveg.
