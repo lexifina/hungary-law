@@ -6,7 +6,7 @@ b) félig zárt komposztálási rendszerrel, vagy
 
 c) zárt rendszerű statikus építményű komposztálással
 
-## történhet.
+történhet.
 
 (2) Az anaerob biológiai lebontással előállított biogázt zárt rendszerben kell felhasználni a környezetvédelmi és tűzvédelmi előírások betartása mellett.
 
