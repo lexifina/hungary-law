@@ -44,6 +44,6 @@
 
 ## – mérőműszer (így például pH-mérő) beállításánál a kibocsátó képviselőjének jelenlétét.
 
-4. melléklet a 27/2005. (XII. 6.) KvVM rendelethez[^26]
+4. melléklet a 27/2005. (XII. 6.) KvVM rendelethez[^27]
 
-[^26]: A 4. melléklet a 72/2014. (XII. 22.) BM rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^27]: A 4. melléklet a 11/2015. (III. 31.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
