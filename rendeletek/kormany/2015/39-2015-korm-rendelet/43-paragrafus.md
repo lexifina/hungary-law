@@ -1,6 +1,6 @@
-43. § (1) A Kormány a termőföldön megvalósuló régészeti feltárás esetén a hatóságnak a régészeti feltárás engedélyezésére irányuló eljárásában, ha a szakhatóság az érintett tevékenységgel összefüggő más eljárásban döntést nem hozott vagy állásfoglalást nem adott – abban a kérdésben, hogy a kérelem szerinti tevékenység a termőföld minőségi védelmére vonatkozó jogszabályi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az első fokú eljárásban a fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatóságát, másodfokú eljárásban a Nemzeti Élelmiszerlánc-biztonsági Hivatalt szakhatóságként jelöli ki.
+43. §[^5] (1) A hatóság a járási hivatal termőföldön megvalósuló régészeti feltárás engedélyezésére irányuló eljárásában – ha az érintett tevékenységgel összefüggésben a talajvédelmi hatóság más eljárásban döntést nem hozott vagy állásfoglalást nem adott – vizsgálja, hogy a kérelem szerinti tevékenység a termőföld minőségi védelmére vonatkozó jogszabályi feltételeknek megfelel-e.
 
-(2) A Kormány a hatóságnak a tervásatás engedélyezésére irányuló eljárásában, ha a tervásatást országos jelentőségű védett természeti területnek vagy barlangnak nem minősülő
+(2) A járási hivatal tervásatás engedélyezésére irányuló eljárásában, ha a tervásatást országos jelentőségű védett természeti területnek vagy barlangnak nem minősülő
 
 a) külterületen,
 
@@ -9,3 +9,9 @@ b) természeti területen,
 c) egyedi tájértéket magába foglaló területen vagy
 
 d) Natura 2000 területen
+
+végzik, vizsgálja, hogy a tevékenység a természet védelmére vonatkozó nemzeti és uniós jogi követelményeknek, valamint a tájvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
+
+(3) Az (1) és a (2) bekezdés szerinti esetben az eljárás ügyintézési határideje negyven nap.
+
+[^5]: A 43. § a 70/2015. (III. 30.) Korm. rendelet 264. § (3) bekezdésével megállapított szöveg.

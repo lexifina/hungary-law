@@ -1,3 +1,5 @@
+## 3/A. § A fővárosi és megyei kormányhivatal örökségvédelemmel kapcsolatos feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja.
+
 ## II. Fejezet
 
 ## A RÉGÉSZETI ÖRÖKSÉG VÉDELME

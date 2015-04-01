@@ -1,8 +1,8 @@
-## A járási építésügyi és örökségvédelmi hivatalok és illetékességi területük az örökségvédelmi feladatok tekintetében
+## A járási hivatalok és illetékességi területük az örökségvédelmi feladatok tekintetében
 
 |  | A | B | C |
 
-| Sorszám | Megye | Járási építésügyi és örökségvédelmi hivatal központja | Járási építésügyi és örökségvédelmi hivatal illetékességi területe |
+| Sorszám | Megye | Járási hivatal székhelye | Járási hivatal illetékességi területe örökségvédelmi hatáskörében |
 
 | 1. | Baranya | Pécs | a megye |
 
