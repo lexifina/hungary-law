@@ -4,4 +4,6 @@
 
 (2) Ha a berendezés létesítése építési engedélyhez kötött építési tevékenységgel nem jár együtt, a létesítést, a használatbavételt, az áthelyezést, a berendezés e rendeletben felsorolt főbb műszaki adatainak megváltozásával járó átalakítását első fokon a Hatóság, másodfokon országos illetékességgel az MKEH engedélyezi műszaki biztonsági hatósági eljárásban.
 
-(3) Ha a (2) bekezdésben meghatározott tevékenység műemlék építményben valósul meg, az engedélyezési eljárásban az örökségvédelmi hatóság szakhatóságként részt vesz.
+(3)[^3] Ha a (2) bekezdésben meghatározott tevékenység a kulturális örökségvédelmi hatósági nyilvántartásban szereplő műemlék vagy nyilvántartott műemléki érték építményben valósul meg, az engedélyezési eljárásban a Hatóság vizsgálja, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
+
+[^3]: A 3. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 248. § (2) bekezdésével megállapított szöveg.

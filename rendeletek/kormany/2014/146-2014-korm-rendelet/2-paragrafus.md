@@ -4,7 +4,7 @@
 
 1. állandó jellegű: az építmény részét képező, hosszú távú, tartós használat céljából létesített kategóriába tartozó;
 
-2. általános építésügyi hatóság: az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (1)–(5) bekezdése szerinti építésügyi hatóság;
+2.[^1] általános építésügyi hatóság: az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet szerinti építésügyi hatóság;
 
 3. bejelentett tanúsító szervezet: a felvonók biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 108/2001. (XII. 23.) FVM–GM együttes rendelet (a továbbiakban: felvonó rendelet) hatálya alá tartozó felvonók esetében a felvonó rendeletben meghatározott, a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet (a továbbiakban: gépek rendelet) hatálya alá tartozó berendezések esetében a gépek rendeletben meghatározott – erre a szakterületre vonatkozóan – a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH) által kijelölt és bejelentett tanúsító szervezet;
 
@@ -30,7 +30,7 @@ c) a személyszállításra való körforgó felvonó,
 
 d) a mozgáskorlátozott személyek számára készült lépcsőfelvonó, ferdepályás vagy függőleges pályájú emelőlap;
 
-8. felvonó leállítása: az üzemeltető önkéntes elhatározása, illetve balesetveszély esetén a nyilvántartott szervezet, az ellenőr, a karbantartó, az üzemügyeletes, a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága (a továbbiakban: Hatóság) intézkedésének hatására a berendezés legfeljebb egy naptári évig tartó, villamos hálózatról való lekapcsolása;
+8.[^2] felvonó leállítása: az üzemeltető önkéntes elhatározása, illetve balesetveszély esetén a nyilvántartott szervezet, az ellenőr, a karbantartó, az üzemügyeletes, a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: Hatóság) intézkedésének hatására a berendezés legfeljebb egy naptári évig tartó, villamos hálózatról való lekapcsolása;
 
 9. felvonó veszélytelenítése: a felvonó villamos táphálózatról történő leválasztása, a fülke és ha van, az ellensúly, illetve kiegyenlítősúly ütközőre ültetése, és valamennyi aknaajtó nem oldható kötéssel történő lezárása, hidraulikus felvonók esetében a munkafolyadék teljes eltávolítása;
 
@@ -55,3 +55,6 @@ c) a berendezés főbb műszaki adatainak megváltoztatásával járó átalakí
 16. sajátos építésügyi hatóság: az egyes sajátos építményfajták tekintetében kijelölt hatáskörrel rendelkező építésügyi hatóság;
 
 17. üzemeltető: a berendezés tulajdonosa vagy a berendezés tulajdonosának a berendezés üzemeltetésével megbízott képviselője.
+
+[^1]: A 2. § 2. pontja a 70/2015. (III. 30.) Korm. rendelet 248. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 8. pontja a 70/2015. (III. 30.) Korm. rendelet 248. § (3) bekezdése szerint módosított szöveg.
