@@ -6,6 +6,8 @@
 
 | 2. | XIV. fejezet 21. cím | Belügyminisztérium | A cím terhére vállalt kötelezettségek adatai, a kifizetésekkel kapcsolatos követelések | Havonta egyszer, a Kincstár által megállapított időpontban |
 
+| 2a. | XX. fejezet 21. cím 1. alcím 1-4., 8 jogcímcsoport, 3. alcím 3,7-8. jogcímcsoport | fővárosi és megyei kormányhivatalok | A jogtalanul igénybevett ellátásokkal kapcsolatos követelések és a kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
+
 | 3. | XLI. fejezet | Államadósság Kezelő Központ Zrt. | A kincstári, elemi költségvetés elkészítéséhez szükséges adatok | A kincstári, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
 | 4. | A hitelekkel, kölcsönökkel, értékpapírokkal, más finanszírozási célú műveletekkel (pl. betételhelyezéssel, visszavonással, fedezeti ügyletekkel) kapcsolatos követelések és kötelezettségek, egyéb eszközök (pl. értékpapírok, betétek, devizaszámlák) adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
@@ -22,7 +24,9 @@
 
 | 10. | XLII. fejezet 7. cím 3. alcím | Mezőgazdasági és Vidékfejlesztési Hivatal | A bevételekkel kapcsolatos követelések és kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 11. | XLII. fejezet 29. cím | Erste Lakástakarék-pénztár Zrt., Fundamenta – Lakáskassza Zrt., OTP Lakástakarékpénztár Zrt. | Lakás-előtakarékosság jogtalanul igénybe vett állami támogatásával kapcsolatos követelések és kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 11. | XLII. fejezet 29. cím | fővárosi és megyei kormányhivatalok | Lakás célú állami támogatásokkal kapcsolatos és jogtalanul igénybe vett lakás célú állami támogatásokkal kapcsolatos követések és a kötelezettségek adatai | Havonta egyszer, a Kincstár által megállapított időpontban |
+
+| fővárosi és megyei kormányhivatalok, Erste Lakástakarék-pénztár Zrt., Fundamenta - Lakáskassza Zrt., OTP Lakástakarékpénztár Zrt. | Lakás-előtakarékosság jogtalanul igénybe vett állami támogatásával kapcsolatos követelések és kötelezettségek adatai |
 
 | 12. | XLII. fejezet 33. cím 3. és 4. alcím | EXIM Export Bank Biztosító Magyar Export-Import Bank Zrt. | A biztosított támogatásokról szóló kötelezettségvállalások (támogatói okiratok, támogatási szerződések) adatai. Állami kezességbeváltásból eredő követelések, a kamatkiegyenlítési rendszer keretében fennálló követelések és kötelezettségek, a kárkintlévőség, egyéb állammal szembeni követelések és kötelezettségek adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
