@@ -1,5 +1,3 @@
-## 26–28. §[^15]
-
 ## 16. A kormányhivatali integrációhoz kapcsolódó jogutódlási szabályok
 
 29. § (1) A környezetvédelmi, természetvédelmi, vízvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 481/2013. (XII. 17.) Korm. rendelet 4. §-ában meghatározott környezetvédelmi és természetvédelmi felügyelőségek (a továbbiakban: felügyelőségek) 2015. március 31-ével beolvadással megszűnnek. A felügyelőségek általános jogutóda – a (2) bekezdésben meghatározott kivétellel – a 3. melléklet szerinti fővárosi és megyei kormányhivatal.
@@ -15,5 +13,3 @@
 (6) Központi államigazgatási szerv önálló jogi személyiséggel nem rendelkező területi szerve vagy szervezeti egysége a központi államigazgatási szerv alapító okiratának és ezzel egyidejűleg a fővárosi és megyei kormányhivatal alapító okiratának megfelelő módosításával válik a fővárosi és megyei kormányhivatal részévé.
 
 (7) Az (1) és (3) bekezdés alapján a fővárosi és megyei kormányhivatalba integrálásra kerülő, illetve az átalakításban érintett egyéb költségvetési szervek alapító okiratának az átalakítással összefüggésben szükséges módosításai 2015. április 1-jétől alkalmazandóak.
-
-[^15]: A 26–28. § a 31. § (2) bekezdése alapján 2015. április 1-jén lép hatályba.
