@@ -1,12 +1,12 @@
-6. §[^52] (1) A Magyar Földtani és Geofizikai Intézet (a továbbiakban: MFGI) a Magyar Állami Eötvös Loránd Geofizikai Intézet névváltozásával létrejövő központi költségvetési szerv, alaptevékenysége alapján kutatóintézet, amely a beolvadó Magyar Állami Földtani Intézet általános jogutódja.
+6. §[^11] (1) A Magyar Földtani és Geofizikai Intézet (a továbbiakban: MFGI) a Magyar Állami Eötvös Loránd Geofizikai Intézet névváltozásával létrejövő központi költségvetési szerv, alaptevékenysége alapján kutatóintézet, amely a beolvadó Magyar Állami Földtani Intézet általános jogutódja.
 
-(2)[^53] Az MFGI-nek az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti irányításáért a (3) bekezdésben meghatározott kivétellel a miniszter a felelős.
+(2)[^12] Az MFGI-nek az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti irányításáért a (3) bekezdésben meghatározott kivétellel a miniszter a felelős.
 
-(3)[^54] Az Áht. 9. § (1) bekezdés b)–c) és g)–j) pontjában meghatározott irányítási jogokat az MFGI tekintetében a Hivatal elnöke gyakorolja.
+(3)[^13] Az Áht. 9. § b)–c) és g)–j) pontjában meghatározott irányítási jogokat az MFGI tekintetében a Hivatal elnöke gyakorolja.
 
-(4)[^55] Az állami földtani feladatok, valamint a Hivatal bányászati és földtani feladatai ellátásában az MFGI közreműködik. Az MFGI a Hivatal bányamérési tevékenységet igénylő hatósági eljárásaiban szakértőként jár el. Szakértői kirendelés esetén nem járhat el az MFGI, amennyiben szakértőként történő eljárása tekintetében összeférhetetlenség állna fenn. Összeférhetetlenség áll fenn az MFGI azon vállalkozási tevékenysége tekintetében is, amely a meghatározott szakértői feladatait érinti.
+(4)[^14] Az állami földtani feladatok, valamint a Hivatal bányászati és földtani feladatai ellátásában az MFGI közreműködik. Az MFGI a Hivatal bányamérési tevékenységet igénylő hatósági eljárásaiban szakértőként jár el. Szakértői kirendelés esetén nem járhat el az MFGI, amennyiben szakértőként történő eljárása tekintetében összeférhetetlenség állna fenn. Összeférhetetlenség áll fenn az MFGI azon vállalkozási tevékenysége tekintetében is, amely a meghatározott szakértői feladatait érinti.
 
-(4a)[^56] Az MFGI ellátja az e rendeletben megállapított és alapító okiratában rögzített állami földtani és geofizikai kutatással, valamint klímapolitikával összefüggő feladatokat.
+(4a)[^15] Az MFGI ellátja az e rendeletben megállapított és alapító okiratában rögzített állami földtani és geofizikai kutatással, valamint klímapolitikával összefüggő feladatokat.
 
 (5) Az MFGI állami földtani és geofizikai kutatási, valamint klímapolitikával összefüggő feladatai a következők:
 
@@ -56,7 +56,7 @@ df) földrengés-veszélyeztetettségi terület-besorolások aktualizálása és
 
 e) földtani információ kezelése, szolgáltatása:
 
-ea) földtani, geofizikai adatok és információk gyűjtése, közreműködés a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, valamint a Földtani és Bányászati Információs Rendszer kiépítésében, fejlesztésében és működtetésében,
+ea)[^16] földtani, geofizikai adatok és információk gyűjtése, közreműködés a Magyar Állami Földtani, Geofizikai és Bányászati Adattár, valamint a földtani és bányászati információs rendszer kiépítésében, fejlesztésében és működtetésében,
 
 eb) az ország földtani, geofizikai tér-adat infrastruktúrájának építése és fejlesztése, adatszolgáltatás,
 
@@ -78,11 +78,12 @@ j) a klímaváltozással, az azt kiváltó folyamatokkal és hatásokkal kapcsol
 
 (7) Az MFGI éves kutatási munkaprogramját – az MFGI igazgatójának javaslata alapján – a Hivatal elnöke az MFGI éves költségvetési keretének ismeretében hagyja jóvá. Jóváhagyás előtt a munkaprogramot a környezetvédelemért és a vízgazdálkodásért felelős miniszter által kijelölt szervezetnek véleményezésre megküldi, tekintettel a hulladékgazdálkodást és a vízgazdálkodást érintő feladatokra. A kutatási munkaprogram teljesítéséről szóló jelentés elfogadásáról a Hivatal elnöke az éves költségvetési beszámoló ismeretében dönt.
 
-6./A §[^57]
+6./A §[^17]
 
-[^52]: A 6. § a 320/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezésével megállapított szöveg.
-[^53]: A 6. § (2) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^54]: A 6. § (3) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^55]: A 6. § (4) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 45. §-ával megállapított szöveg.
-[^56]: A 6. § (4a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 45. §-a iktatta be.
-[^57]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be, hatályon kívül helyezte a 320/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdése.
+[^11]: A 6. § a 320/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezésével megállapított szöveg.
+[^12]: A 6. § (2) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^13]: A 6. § (3) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 28. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 85. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 6. § (4) bekezdése az 559/2013. (XII. 31.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^15]: A 6. § (4a) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 45. §-a iktatta be.
+[^16]: A 6. § (5) bekezdés e) pont ea) alpontja a 70/2015. (III. 30.) Korm. rendelet 85. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 6/A. §-t a 351/2010. (XII. 30.) Korm. rendelet 163. §-a iktatta be, hatályon kívül helyezte a 320/2011. (XII. 27.) Korm. rendelet 1. § (2) bekezdése.

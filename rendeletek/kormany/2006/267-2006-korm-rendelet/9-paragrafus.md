@@ -1,6 +1,6 @@
-## 8/B. §[^64] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 308/2011. (XII. 23.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) megállapított rendelkezéseit a Mód. Kr2. hatálybalépését[^65] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+## 8/B. §[^24] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 308/2011. (XII. 23.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) megállapított rendelkezéseit a Mód. Kr2. hatálybalépését[^25] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-## 9. §[^66] Ez a rendelet
+## 9. §[^26] Ez a rendelet
 
 a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 2. cikk és 4. cikkének, valamint II. és III. mellékletének,
 
@@ -10,6 +10,6 @@ c) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi ir�
 
 való megfelelést szolgálja.
 
-[^64]: A 8/B. §-t a 308/2011. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
-[^65]: A hatálybalépés időpontja 2012. január 7.
-[^66]: A 9. §-t a 82/2011. (V. 18.) Korm. rendelet 37. §-a iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
+[^24]: A 8/B. §-t a 308/2011. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^25]: A hatálybalépés időpontja 2012. január 7.
+[^26]: A 9. §-t a 82/2011. (V. 18.) Korm. rendelet 37. §-a iktatta be, szövege a 411/2012. (XII. 28.) Korm. rendelet 24. § (5) bekezdésével megállapított szöveg.
