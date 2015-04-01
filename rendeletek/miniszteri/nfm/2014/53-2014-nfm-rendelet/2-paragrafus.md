@@ -10,7 +10,11 @@
 
 4. hadihajó: valamely állam fegyveres erőihez tartozó hajó, amely az adott állam hadihajóinak külső megkülönböztető jelzését viseli, az adott állam kormánya által megfelelő megbízással ellátott parancsnok irányítása alatt áll, és neve szerepel a megfelelő szolgálati jegyzéken vagy azzal egyenértékű nyilvántartásban, továbbá függelmileg a reguláris fegyveres erők irányítása alá tartozik,
 
+4a.[^1] a hajó képviselője: a hajó parancsnoka vagy azon felelős tisztje, aki a használt tüzelőanyagokért, a dokumentációért és az alternatív tüzelőanyag-mintavételi pontról való megállapodásért felel,
+
 5. hajózási hatóság: a Nemzeti Közlekedési Hatóságról szóló kormányrendeletben meghatározott hatóság,
+
+5a.[^2] kéntartalom-ellenőr: e rendelet rendelkezéseinek való megfelelés vizsgálatára felhatalmazott személy,
 
 6. kibocsátás-csökkentési módszer: bármely olyan, a hajóba szerelt alkatrész, anyag, eszköz vagy berendezés, vagy egyéb eljárás, alternatív tüzelő- vagy üzemanyag vagy megfelelési módszer, amelyet az alacsony kéntartalmú, az ezen jogszabályban meghatározott követelményeknek megfelelő, tengeri hajózásban használatos tüzelő- és üzemanyagok helyett használnak, és amely ellenőrizhető, számszerűsíthető és kikényszeríthető,
 
@@ -42,4 +46,16 @@ b) az egyévesnél fiatalabb korú csecsemőt,
 
 16. tengeri hajózásban használatos gázolaj: bármely olyan tengeri hajózásban használatos tüzelő- és üzemanyag, amely az ISO 8217 I. sz. táblázatában a DMX, DMA és DMZ fokozatra meghatározott tartományba esik, a kéntartalomra való hivatkozás kivételével,
 
-17. tüzelőolaj: kőolaj eredetű folyékony tüzelőanyag – kivéve a tengeri hajózásban használatos üzemanyagokat –, amelynek a vámtarifaszáma 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 vagy 2710 20 19, vagy olyan kőolaj eredetű folyékony tüzelőanyag, amelyet mind az elpárologtatós, mind a kényszerporlasztásos égető berendezésekben hő fejlesztésre használnak fel, és az MSZ EN ISO 3405 szerinti – vagy azzal egyenértékű más megoldással történő – vizsgálata során legalább 85% (V/V)-a desztillál át 350°C hőmérsékleten.
+16a.[^3] tüzelőanyag-ellátást kiszolgáló rendszer: a tüzelőanyagot az üzemi tartályból a belsőégésű motorba juttató, azt megszűrő, tisztító és továbbító rendszer,
+
+17. tüzelőolaj: kőolaj eredetű folyékony tüzelőanyag – kivéve a tengeri hajózásban használatos üzemanyagokat –, amelynek a vámtarifaszáma 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17 vagy 2710 20 19, vagy olyan kőolaj eredetű folyékony tüzelőanyag, amelyet mind az elpárologtatós, mind a kényszerporlasztásos égető berendezésekben hő fejlesztésre használnak fel, és az MSZ EN ISO 3405 szerinti – vagy azzal egyenértékű más megoldással történő – vizsgálata során legalább 85% (V/V)-a desztillál át 350°C hőmérsékleten,
+
+18.[^4] uniós információs rendszer: az egyes hajóknak a 2002/59/EK európai parlamenti és tanácsi irányelv 22a. cikke értelmében létrehozott tengeri információkezelő rendszerben (SafeSeaNet) tárolt kikötői adatait felhasználó, az Európai Tengerészeti Biztonsági Ügynökség által üzemeltetett rendszer, amelynek rendeltetése az 1999/32/EK irányelv értelmében elvégzett egyéni megfelelőség-ellenőrzésekkel kapcsolatos adatok és eredmények tárolása, valamint megosztása,
+
+19.[^5] üzemi tartály: az a tartály, ahonnan a tüzelőanyag a belsőégésű motorba érkezik.
+
+[^1]: A 2. § 4a. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (1) bekezdése iktatta be.
+[^2]: A 2. § 5a. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (2) bekezdése iktatta be.
+[^3]: A 2. § 16a. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (3) bekezdése iktatta be.
+[^4]: A 2. § 18. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (4) bekezdése iktatta be.
+[^5]: A 2. § 19. pontját a 12/2015. (III. 31.) NFM rendelet 6. § (4) bekezdése iktatta be.
