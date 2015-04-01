@@ -98,7 +98,7 @@
 
 | név/rokonság foka: | születési hely, idő: | állampolgárság: | tartózkodása jogcíme: □ vízum □ tartózkodási engedély □ ideiglenes letelepedési engedély □ EK letelepedési engedély □ egyéb | □ tartózkodási vízum □ letelepedési engedély □ nemzeti letelepedési engedély □ bevándorlási engedély □ EU Kék Kártya |
 
-## 3K84318_55
+## 5K04385M_55
 
 | 9. Magyarországi tartózkodása alatt kíván-e foglalkoztatásra irányuló jogviszonyt létesíteni? □ igen □ nem Amennyiben igen, magyarországi foglalkoztatója adatai: |
 
@@ -120,7 +120,7 @@
 
 | Nyelvismerete: Anyanyelve: Egyéb nyelvismerete: Beszél-e magyarul? □ igen □ nem |
 
-| Korábban dolgozott-e már Magyarországon munkavállalási engedéllyel igen/nem Ha igen: Előző magyarországi foglalkoztatója: neve: ............................................................................................................... címe: ............................................................................................................... Előző munkavállalási engedélye: száma: ............................................................................................................ kiállító munkaügyi központ megnevezése: .................................................... érvényességi ideje: ......................................................................................... |
+| Korábban dolgozott-e már Magyarországon munkavállalási engedéllyel igen/nem Ha igen: Előző magyarországi foglalkoztatója: neve: ............................................................................................................... címe: ............................................................................................................... Előző munkavállalási engedélye: száma: ............................................................................................................ kiállító állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal megnevezése: .................................................... érvényességi ideje: ......................................................................................... |
 
 | 10. Egyéb adatok |
 
@@ -220,9 +220,9 @@
 
 | a harmadik országbeli állampolgárnak a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét, nyelvismeretét, gyakorlatát, egyéb készségeit igazoló okirat hiteles másolata, valamint annak hiteles magyar fordítása |
 
-## 3K84318_107
+## 5K04385M_107
 
-| Kérem, hogy a tevékenység ellátásához szükséges szakképzettségemet, iskolai végzettségemet igazoló dokumentumot a munkaügyi központ belföldi jogsegély keretében szerezze be a korábbi munkavállalási engedélyt kiadó munkaügyi központtól. |
+| Kérem, hogy a tevékenység ellátásához szükséges szakképzettségemet, iskolai végzettségemet igazoló dokumentumot az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal belföldi jogsegély keretében szerezze be a korábbi munkavállalási engedélyt kiadó állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivataltól. |
 
 | □ Igen | □ Nem |
 
@@ -314,4 +314,4 @@
 
 12. melléklet a 25/2007. (V. 31.) IRM rendelethez[^52]
 
-[^52]: A 12. melléklet a 69/2013. (XII. 11.) BM rendelet 3. § c) pontjával megállapított szöveg.
+[^52]: A 12. melléklet a 69/2013. (XII. 11.) BM rendelet 3. § c) pontjával megállapított, a 11/2015. (III. 31.) BM rendelet 6. § (1)–(2) bekezdése szerint módosított szöveg.

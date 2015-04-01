@@ -94,7 +94,7 @@
 
 | Nyelvismerete: Anyanyelve: Egyéb nyelvismerete: Beszél-e magyarul? □ igen □ nem |
 
-| Korábban dolgozott-e már Magyarországon munkavállalási engedéllyel igen/nem Ha igen: Előző magyarországi foglalkoztatója: neve: ............................................................................................................... címe: ............................................................................................................... Előző munkavállalási engedélye: száma: ............................................................................................................ kiállító munkaügyi központ megnevezése: .................................................... érvényességi ideje: ......................................................................................... |
+| Korábban dolgozott-e már Magyarországon munkavállalási engedéllyel igen/nem Ha igen: Előző magyarországi foglalkoztatója: neve: ............................................................................................................... címe: ............................................................................................................... Előző munkavállalási engedélye: száma: ............................................................................................................ kiállító állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal megnevezése: .................................................... érvényességi ideje: ......................................................................................... |
 
 | Önálló vállalkozói, őstermelői tevékenység esetén az erre jogosító igazolvány száma: |
 
@@ -210,9 +210,9 @@
 
 | □ teljes körű egészség biztosítást igazoló okirat |
 
-## 3K84329_110
+## 5K04385N_110
 
-| a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét, nyelvismeretét, gyakorlatát, egyéb készségeit igazoló okirat hiteles másolata, valamint annak hiteles magyar fordítása. Kérem, hogy a tevékenység ellátásához szükséges szakképzettségemet, iskolai végzettségemet igazoló dokumentumot a munkaügyi központ belföldi jogsegély keretében szerezze be a korábbi munkavállalási engedélyt kiadó munkaügyi központtól. |
+| a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét, nyelvismeretét, gyakorlatát, egyéb készségeit igazoló okirat hiteles másolata, valamint annak hiteles magyar fordítása. Kérem, hogy a tevékenység ellátásához szükséges szakképzettségemet, iskolai végzettségemet igazoló dokumentumot az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal belföldi jogsegély keretében szerezze be a korábbi munkavállalási engedélyt kiadó állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivataltól. |
 
 | □ Igen | □ Nem |
 
