@@ -6,7 +6,9 @@ b) ha az előzetes letartóztatást, a szabálysértési elzárást rendőrségi
 
 c) a pártfogó felügyelet,
 
-d) az elítélt vagy az egyéb jogcímen fogvatartott más ügyben történő előállítása, szállítása
+d) az elítélt vagy az egyéb jogcímen fogvatartott más ügyben történő előállítása, szállítása,
+
+e) a reintegrációs őrizet
 
 végrehajtásához szükséges adatokat ismerheti meg és kezelheti.
 

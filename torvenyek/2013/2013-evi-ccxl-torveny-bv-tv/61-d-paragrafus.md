@@ -1,0 +1,1 @@
+61/D. § E cím alkalmazásával – ideértve a feltételes szabadságra bocsátásról az elítélt meghallgatásának mellőzésével – lefolytatott eljárásokban a 61/A. § (5) és (6) bekezdésében foglalt kivétellel bírósági titkár nem járhat el.

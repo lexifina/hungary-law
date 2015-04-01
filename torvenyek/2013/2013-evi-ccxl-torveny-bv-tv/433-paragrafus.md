@@ -23,3 +23,5 @@ c) a Szabs. tv. 24. §-ában meghatározott elévülés bekövetkezett.
 (3a) Nincs helye az elkövető munkáltatásának, ha a szabálysértési elzárást rendőrségi fogdán kell végrehajtani.
 
 (4) E § alkalmazásában katona: az, a Szabs. tv. 28. § (1) bekezdésében meghatározott személy, akinek tényleges állományviszonya a vele szemben kiszabott elzárás végrehajtásának megkezdésekor és a végrehajtás alatt fennáll.
+
+## HATODIK RÉSZ

@@ -28,9 +28,11 @@ m) a drogprevenciós részlegen történő elhelyezés vagy annak megszüntetés
 
 n) az alacsony biztonsági kockázatú részlegen történő elhelyezés vagy annak megszüntetése,
 
-o) jogszabályban meghatározott egyéb feladat.
+o) reintegrációs őrizet elrendelésére javaslattétel,
 
-(2) A BFB az (1) bekezdés b), d), f)–h), j) és l) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
+p) jogszabályban meghatározott egyéb feladat.
+
+(2) A BFB az (1) bekezdés b), d), f)–h), j), l) és o) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
 
 (3) Az elítéltet a bv. intézet parancsnoka és a BFB döntéseivel szemben e törvényben meghatározott jogorvoslati jog illeti meg. Jogorvoslatnak a határozat, illetve a döntés végrehajtására nincs halasztó hatálya.
 

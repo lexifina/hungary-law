@@ -8,4 +8,4 @@
 
 (5) Az elítélt által e törvény alapján megtérítendő költségeket és az általa igénybe vett jogszabályban meghatározott többletszolgáltatások díjait és költségeit a (4) bekezdés szerinti levonásokat követően kell levonni.
 
-(6) Az elítélt nem kötelezhető a tartási költségek megfizetésére a feltételes szabadságra bocsátás, a büntetés félbeszakítás és a bv. intézet huszonnégy órát meghaladó elhagyása esetén.
+(6) Az elítélt nem kötelezhető a tartási költségek megfizetésére a reintegrációs őrizet, feltételes szabadságra bocsátás, a büntetés félbeszakítás és a bv. intézet huszonnégy órát meghaladó elhagyása esetén.
