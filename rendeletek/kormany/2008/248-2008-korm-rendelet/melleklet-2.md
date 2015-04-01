@@ -2,90 +2,86 @@
 
 |  | A | B | C | D | E |
 
-|  | Létesítmény | Létesítmény azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
+| 1. | Létesítmény | Létesítmény azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa által lehatárolt terület Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület. | általános építésügyi hatósági engedélyek | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Kiemelt nagyberuházásként motorverseny-pálya és ahhoz kapcsolódó egyéb sport, szálláshely, szolgáltató és logisztikai kiszolgáló bázis és létesítményei. | Az M7-es autópálya, Sávoly község északi közigazgatási határa által lehatárolt terület Marótvölgyi-csatorna és Szőkedencs község déli közigazgatási határa által lehatárolt terület. | általános építésügyi hatósági engedélyek | Kaposvári Járási Hivatal | Somogy Megyei Kormányhivatal |
 
-| 2. | környezetvédelmi hatósági engedélyezések | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezések | Vas Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3. | útügyi hatósági engedélyek | Somogy Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 4. | útügyi hatósági engedélyek | Somogy Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 4. | vízjogi engedélyek | Nyugat-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 5. | vízjogi engedélyek | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Baranya Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 6. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Baranya Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 6. | földvédelmi hatósági eljárások | illetékes járási földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
+| 7. | földvédelmi hatósági eljárások | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
-| 7. | ingatlan-nyilvántartási hatósági eljárások | illetékes járási földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
+| 8. | ingatlan-nyilvántartási hatósági eljárások | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
-| 8. | földmérési hatósági eljárások | illetékes járási földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
+| 9. | földmérési hatósági eljárások | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
-| 9. | erdővédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 10. | erdővédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 10. | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 11. | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 11. | bányahatósági engedélyek | Magyar Bányászati és Földtani Hivatal Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 12. | bányahatósági engedélyek | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 12. | talajvédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 13. | talajvédelmi hatósági engedélyek | Somogy Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 13. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala, vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 14. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Kaposvári Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 15. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
 2. számú melléklet a 248/2008. (X. 14.) Korm. rendelethez[^6]
 
-A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő szakhatóságok
+A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
-|  | Szakhatósági közreműködés tárgyköre | Első fokú szakhatóság | Másodfokú szakhatóság |
+|  | A | B | C |
 
-| 1. | építésügy | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | környezetvédelem, természetvédelem | Nyugat-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 2. | építésügy | Kaposvári Járási Hivatal | Somogy Megyei Kormányhivatal |
 
-| 2a. | vízügy | Nyugat-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 3. | környezetvédelem, természetvédelem | Vas Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3. | közlekedés |  |  |
+| 4. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-|  | a) közút | Somogy Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központja |
+| 5. | közlekedés: közút | Somogy Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-|  | b) vasút | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |
+| 6. | közlekedés: vasút | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-|  | c) állami célú légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatala | honvédelemért felelős miniszter |
+| 7. | közlekedés: állami célú légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | honvédelemért felelős miniszter |
 
-|  | d) vízi közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 8. | közlekedés: vízi közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 4. | földtan | Magyar Bányászati és Földtani Hivatal Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 9. | földtan | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 5. | bányászat | Magyar Bányászati és Földtani Hivatal Pécsi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 10. | bányászat | Baranya Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 6. | rendészet (rendőrség) |  |  |
+| 11. | rendészet (rendőrség) gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-|  | a) gyorsforgalmi utak esetén | Országos Rendőr-főkapitányság | rendészetért felelős miniszter |
+| 12. | rendészet (rendőrség) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Marcali Rendőrkapitányság | Somogy Megyei Rendőr-főkapitányság |
 
-|  | b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Marcali Rendőrkapitányság | Somogy Megyei Rendőr-főkapitányság |
+| 13. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 8. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 15. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 16. | földművelésügy: termőföldvédelem | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
-| 10. | földművelésügy |  |  |
+| 17. | földművelésügy: talajvédelem | Somogy Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | a) termőföldvédelem | illetékes járási földhivatal | Somogy Megyei Kormányhivatal Földhivatala |
+| 18. | földművelésügy: erdővédelem | Somogy Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-|  | b) talajvédelem | Somogy Megyei Kormányhivatal Növény- és talajvédelmi igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 19. | régészet és műemlékvédelem | Kaposvári Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-|  | c) erdővédelem | Somogy Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 20. | egészségügy | Somogy Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
 
-| 11. | régészet és műemlékvédelem | Kaposvári Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Somogy Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 21. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 12. | egészségügy | Somogy Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
+| 22. | műszaki biztonság | Baranya Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 13. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 23. | élelmiszer-biztonság | Somogy Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 14. | műszaki biztonság | Baranya Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatósága | Magyar Kereskedelmi Engedélyezési Hivatal |
-
-| 15. | élelmiszer-biztonság | Somogy Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-[^6]: A 2. számú melléklet a 351/2010. (XII. 30.) Korm. rendelet 224. §-ával megállapított, a 158/2011. (VIII. 11.) Korm. rendelet 18. §-a, a 282/2011. (XII. 21.) Korm. rendelet 34. §-a, a 23/2012. (II. 29.) Korm. rendelet 37. §-a, a 296/2012. (X. 17.) Korm. rendelet 38. §-a, a 394/2012. (XII. 20.) Korm. rendelet 27. §-a, az 527/2013. (XII. 30.) Korm. rendelet 66. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 23–24. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 9. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
