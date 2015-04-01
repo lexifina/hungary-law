@@ -4,7 +4,7 @@
 
 | 1 | Bevonás és közreműködés feltétele | Szakkérdés | 1. fokú szakhatóság | 2. fokú szakhatóság |
 
-| 2 | Pirotechnikai termék védett természeti területen való felhasználásának engedélyezése | Annak elbírálása kérdésében, hogy a pirotechnikai termék felhasználása a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e | Környezetvédelmi és természetvédelmi felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 2 | Pirotechnikai termék védett természeti területen való felhasználásának engedélyezése | Annak elbírálása kérdésében, hogy a pirotechnikai termék felhasználása a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e | A környezetvédelmi és természetvédelmi feladatkörében eljáró megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
 | 3 | Minden esetben | Tűzvédelmi szempontból a védőterület meghatározása | Az illetékes megyei katasztrófavédelmi igazgatóság, a főváros területén a Fővárosi Tűzoltóparancsnokság | Országos Katasztrófavédelmi Főigazgatóság |
 
