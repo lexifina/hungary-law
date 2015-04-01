@@ -12,8 +12,11 @@
 
 (6) A fémkereskedő a telephelyen tárolt, raktározott fémkereskedelmi engedélyköteles anyagok beszerzésére vonatkozó okiratokat – ideértve az anyagkísérő okmányokat, pótlapokat, szállítólevelet – és nyilvántartásokat köteles a helyszínen másolatban őrizni.
 
-(7) A fémkereskedő a fémkereskedelmi engedélyköteles anyagok mérlegeléséhez csak a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága által hitelesített mérleget használhat. A fémkereskedő az anyagmozgatást szolgáló technikai eszközöket és személyzetet köteles biztosítani a fémkereskedelmi hatóság ellenőrzése során.
+(7)[^6] A fémkereskedő a fémkereskedelmi engedélyköteles anyagok mérlegeléséhez csak a mérésügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által hitelesített mérleget használhat. A fémkereskedő az anyagmozgatást szolgáló technikai eszközöket és személyzetet köteles biztosítani a fémkereskedelmi hatóság ellenőrzése során.
 
 (8) Az ellenőrzést végző fémkereskedelmi hatóság köteles jegyzőkönyvben rögzíteni, ha az ellenőrzés során a mérőeszköz mérési pontatlansága az 5%-ot meghaladja.
 
-(9) A fémkereskedelmi hatóság a jegyzőkönyvben foglalt eltérés okainak kivizsgálása céljából 8 napon belül megkeresi az illetékes mérésügyi és műszaki biztonsági hatóságot, akinek jogerős döntéséig a mérlegelő-berendezés nem használható.
+(9)[^7] A fémkereskedelmi hatóság a jegyzőkönyvben foglalt eltérés okainak kivizsgálása céljából 8 napon belül megkeresi a mérésügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt, akinek jogerős döntéséig a mérlegelő-berendezés nem használható.
+
+[^6]: A 13. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § a) pontja szerint módosított szöveg.
+[^7]: A 13. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § b) pontja szerint módosított szöveg.
