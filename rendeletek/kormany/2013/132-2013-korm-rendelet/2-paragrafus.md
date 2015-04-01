@@ -1,4 +1,4 @@
-## 2. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyek koordinációjára – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 8/A. §-ában foglaltak szerinti – feladat- és hatáskörrel rendelkező kormánymegbízottként az 1. mellékletben meghatározott,
+## 2. §[^1] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként az 1. mellékletben meghatározott,
 
 1. Békés megye területén megvalósuló beruházások tekintetében a Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízottat,
 
@@ -39,3 +39,5 @@
 19. Zala megye területén megvalósuló beruházások tekintetében a Somogy Megyei Kormányhivatalt vezető kormánymegbízottat,
 
 20. Budapest területén megvalósuló beruházások tekintetében a Pest Megyei Kormányhivatalt vezető kormánymegbízottat
+
+[^1]: A 2. § nyitó szövegrésze a 72/2015. (III. 30.) Korm. rendelet 44. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.

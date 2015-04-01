@@ -14,4 +14,6 @@ b) ügyekben településképi bejelentési eljárásnak nincs helye.
 
 (5) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(6) Az eljáró hatóság az általa meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő nap.
+(6)[^2] Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének napja a hirdetmény kifüggesztését követő nap.
+
+[^2]: A 3. § (6) bekezdése a 72/2015. (III. 30.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
