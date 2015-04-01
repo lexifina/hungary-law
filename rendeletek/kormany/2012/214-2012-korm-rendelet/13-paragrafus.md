@@ -10,7 +10,7 @@ b) az adatkezelése alá tartozó egészségügyi dokumentációból – az elő
 
 a) a jogvédelmi képviselők lezárt ügyeinek irattárba helyezett dokumentációját,
 
-b)–c)[^25]
+b)–c)[^26]
 
 és rendelkezik azok archiválásáról.
 
@@ -18,4 +18,4 @@ b)–c)[^25]
 
 (4) Az OBDK az (1) és (3) bekezdés szerinti dokumentáció elhelyezésére szerződést köt az Egészségügyi Készletgazdálkodási Intézettel.
 
-[^25]: A 13. § (2) bekezdés b)–c) pontját az 520/2013. (XII. 30.) Korm. rendelet 101. §-a hatályon kívül helyezte.
+[^26]: A 13. § (2) bekezdés b)–c) pontját az 520/2013. (XII. 30.) Korm. rendelet 101. §-a hatályon kívül helyezte.
