@@ -20,12 +20,10 @@ c) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott
 
 a) az építtetővel vagy meghatalmazottjával,
 
-b) az építésfelügyeleti hatósággal,
-
-c) az illetékes környezetvédelmi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
-
-d) a fővárosi és megyei kormányhivatal munkavédelmi felügyelőségével, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
+b)–d)[^4]
 
 e) mindazokkal, akiknek értesítését jogszabály előírja.
 
 (4) Az építési engedélyezési eljárás során hozott jogerős döntés a hozzátartozó, engedélyezési záradékkal ellátott tervdokumentációban foglaltakkal együtt hatályos.
+
+[^4]: A 14. § (3) bekezdés b)–d) pontját a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés b) pontja hatályon kívül helyezte.

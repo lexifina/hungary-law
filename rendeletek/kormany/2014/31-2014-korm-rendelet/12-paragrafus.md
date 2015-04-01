@@ -10,4 +10,6 @@ b) termőföldön megvalósítandó sajátos építmény esetében az ingatlanü
 
 c) a hivatásos katasztrófavédelmi szerv katasztrófavédelmi engedélyét a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló kormányrendeletben meghatározott határértéket elérő veszélyes anyagokkal foglalkozó üzem, veszélyes anyagokkal foglalkozó létesítmény építése esetében.
 
-(2) A biogáz- és komposztáló üzemek létesítését a környezetvédelmi, élelmiszerlánc-felügyeleti és közegészségügyi szakhatósági hozzájárulás mellett engedélyezi az építésügyi hatóság a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendelettel (a továbbiakban: VM rendelet) összhangban.
+(2)[^3] A biogáz- és komposztáló üzemek létesítését a 3/A. mellékletben foglalt táblázat 2., 6., 7. és 13. sora szerinti szakkérdések vizsgálata mellett engedélyezi az építésügyi hatóság a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendelettel (a továbbiakban: VM rendelet) összhangban.
+
+[^3]: A 12. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 243. § (2) bekezdésével megállapított szöveg.
