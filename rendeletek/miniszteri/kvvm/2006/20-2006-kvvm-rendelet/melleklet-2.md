@@ -60,7 +60,7 @@
 
 ## C kategóriájú hulladéklerakó esetében két szivárgóréteget kell kialakítani. A két geomembrán közötti szivárgó-ellenőrző rétegként geodrén (mesterséges anyagú szűrőréteg) alkalmazható, amelynek hatékonyságát hidraulikai számításokkal kell igazolni. A második szivárgóréteg az első szigetelőréteg alá kerül, és szintén kettős célt szolgál: elsődleges az ellenőrzési funkció (jelzi a szigetelőrendszer meghibásodását) és másodlagos a gyűjtő-elvezető funkció.
 
-## Ha a hulladéklerakó környezetre gyakorolt hatásának vizsgálata, a hulladéklerakó környezetvédelmi engedélykérelméhez benyújtott környezeti kockázatelemzés, valamint a lerakásra kerülő hulladék anyagának, összetételének, kioldódási tulajdonságainak alapján megállapítható, hogy a hulladéklerakó nem jelent potenciális veszélyt a földtani közegre, a felszín alatti vagy a felszíni vízre, a levegőre, a Felügyelőség jogosult az 1.2. és 1.3. pontban foglalt követelmények mérséklésére.
+## Ha a hulladéklerakó környezetre gyakorolt hatásának vizsgálata, a hulladéklerakó környezetvédelmi engedélykérelméhez benyújtott környezeti kockázatelemzés, valamint a lerakásra kerülő hulladék anyagának, összetételének, kioldódási tulajdonságainak alapján megállapítható, hogy a hulladéklerakó nem jelent potenciális veszélyt a földtani közegre, a felszín alatti vagy a felszíni vízre, a levegőre, a környezetvédelmi hatóság jogosult az 1.2. és 1.3. pontban foglalt követelmények mérséklésére.
 
 ## 2. A hulladékréteg deformáció és elcsúszás elleni védelme; a lerakó-aljzat rétegeinek mechanikai stabilitása
 
@@ -78,7 +78,7 @@
 
 ## 3.4. A hulladéklerakó területén gondoskodni kell elektromos energiaellátásról, a térvilágításról, a vízellátásról, továbbá a kommunális szennyvíz elvezetéséről és kezeléséről.
 
-## 3.5. A Felügyelőség jogosult a 3.2–3.4. pontokban szereplő építmények elhagyását engedélyezni.
+## 3.5. A környezetvédelmi hatóság jogosult a 3.2–3.4. pontokban szereplő építmények elhagyását engedélyezni.
 
 ## 4. A csurgalékvíz és a csapadékvíz kezelése
 
@@ -132,6 +132,6 @@
 
 ## f) A tárolást úgy kell megszervezni, hogy minden tartály könnyen kivehető legyen.
 
-2. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^61]
+2. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^71]
 
-[^61]: A 2. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés b) pontja és (10) bekezdés g) pontja szerint módosított szöveg.
+[^71]: A 2. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés b) pontja és (10) bekezdés g) pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) pontja szerint módosított szöveg.

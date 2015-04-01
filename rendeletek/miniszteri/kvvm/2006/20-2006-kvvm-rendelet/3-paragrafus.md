@@ -38,7 +38,7 @@ l) a külön jogszabályban[^16] megállapított területen,
 
 m)[^17] földtani közegben lévő üregben.
 
-(4)[^18] A hulladéklerakó telekhatára és összefüggő lakóterület, lakóépület, valamint más, védendő területek, létesítmények között a védőtávolságot a környezetvédelmi és természetvédelmi felügyelőség (a továbbiakban: a Felügyelőség) állapítja meg, amely – ha egyéb jogszabály eltérően nem rendelkezik, akkor – nem lehet kevesebb, mint:
+(4)[^18] A hulladéklerakó telekhatára és összefüggő lakóterület, lakóépület, valamint más, védendő területek, létesítmények között a védőtávolságot a környezetvédelmi hatóság állapítja meg, amely – ha egyéb jogszabály eltérően nem rendelkezik, akkor – nem lehet kevesebb, mint:
 
 a) veszélyes hulladék lerakására szolgáló hulladéklerakó esetén: 1000 m,
 
@@ -53,4 +53,4 @@ c) inert hulladék lerakására szolgáló hulladéklerakó esetén: 300 m.
 [^15]: A 3. § (3) bekezdésének j) pontja a 92/2007. (XI. 28.) KvVM rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
 [^16]: Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény.
 [^17]: A 3. § (3) bekezdésének m) pontját a 92/2007. (XI. 28.) KvVM rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést alkalmazni kell a 2007. december 13. napját megelőzően hulladéklerakó felszámolására indított és jogerősen még be nem fejezett eljárásokban.
-[^18]: A 3. § (4) bekezdés nyitó szövegrésze a 132/2013. (XII. 23.) VM rendelet 22. §-a szerint módosított szöveg.
+[^18]: A 3. § (4) bekezdés nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.

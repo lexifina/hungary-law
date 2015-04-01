@@ -178,7 +178,7 @@
 
 | PAH (policiklikus aromás szénhidrogének, 16 vegyületre) | 1 |
 
-## * Talajhulladék esetében a Felügyelőség nagyobb határértéket is megállapíthat, ha a hulladék L/S=10 l/kg arány mellett mért DOC értéke nem éri el az 500 mg/kg-ot a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
+## * Talajhulladék esetében a környezetvédelmi hatóság nagyobb határértéket is megállapíthat, ha a hulladék L/S=10 l/kg arány mellett mért DOC értéke nem éri el az 500 mg/kg-ot a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
 
 ## 2.2. Átvételi követelmények nem veszélyes hulladék lerakására szolgáló hulladéklerakón (B kategória)
 
@@ -260,7 +260,7 @@
 
 | ANC/BNC (sav-, illetve lúgsemlegesítési kapacitás) | Lásd a ** alatti értelmezést |
 
-## * Ha a mért TOC érték meghaladja az 5 tömeg%-ot (pl. talajhulladékok esetében), akkor a Felügyelőség nagyobb határértéket is megállapíthat, feltéve hogy L/S=10 l/kg arány mellett a hulladék mért DOC értéke nem éri el a 800 mg/kg értéket a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
+## * Ha a mért TOC érték meghaladja az 5 tömeg%-ot (pl. talajhulladékok esetében), akkor a környezetvédelmi hatóság nagyobb határértéket is megállapíthat, feltéve hogy L/S=10 l/kg arány mellett a hulladék mért DOC értéke nem éri el a 800 mg/kg értéket a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
 
 ## ** Minthogy több szervetlen összetevő pH ≥ 6 tartományban is kioldódik, ezért el kell végezni az ANC/BNC vizsgálatokat a pH 4–pH 12 tartományban, nyolc különböző pH-n. A kioldott anyagmennyiségeket a pH 4 és pH 12 értéken kell meghatározni. Átvehető a hulladék akkor, ha a pH 4 és pH 12 értékeken mért kioldási koncentrációk sem lépik túl a 2.3.–1. táblázatban megadott, L/S=10 l/kg arányra vonatkozó határértékeket.
 
@@ -358,7 +358,7 @@
 
 ## * A TOC helyett első közelítésben a mért LOI érték is használható, figyelembe véve, hogy azzal nem egyenértékű. Ha a LOI értéke nem éri el a 6 tömeg%-ot, akkor a TOC-t nem szükséges meghatározni.
 
-## ** Ha a mért TOC érték meghaladja a 6 tömeg%-ot (pl. talajhulladékok esetében), akkor a Felügyelőség nagyobb határértéket is megállapíthat, feltéve hogy L/S=10 l/kg arány mellett a hulladék mért DOC értéke nem éri el a 1000 mg/kg-ot a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
+## ** Ha a mért TOC érték meghaladja a 6 tömeg%-ot (pl. talajhulladékok esetében), akkor a környezetvédelmi hatóság nagyobb határértéket is megállapíthat, feltéve hogy L/S=10 l/kg arány mellett a hulladék mért DOC értéke nem éri el a 1000 mg/kg-ot a hulladék saját pH-ján vagy pH 7,5–8,0 tartományban mérve.
 
 ## *** Minthogy több szervetlen összetevő pH>6 tartományban is kioldódik, ezért el kell végezni az ANC/BNC vizsgálatokat, a pH 4–pH 12 tartományban, nyolc különböző pH-n. A kioldott anyagmennyiségeket a pH 4 és pH 12 értéken kell meghatározni. Átvehető a hulladék akkor, ha a pH 4 és pH 12 értékeken mért kioldási koncentrációk sem lépik túl a 2.3.–1. táblázatban, L/S=10 l/kg arányra vonatkozó határértékeket.
 
@@ -370,7 +370,7 @@
 
 ## Bizonyos esetekben a 2.1.–2.3. pontokban megadott összetevők/jellemzők megadott határkoncentrációinak akár a háromszoros értéke is elfogadható a hulladék átvételekor (a 2.1.–2., 2.1.–3., 2.2.1.–1. és 2.3.–1. táblázatokban szereplő DOC, a 2.1.–3. táblázatban szereplő BTEX, PCB és ásványolaj, a 2.2.1.–2. táblázatban szereplő TOC és pH, és a 2.3.–2. táblázatban említett LOI és/vagy TOC, valamint a 2.1.–3. táblázatban szereplő TOC esetén kivételesen a határkoncentráció legfeljebb kétszeres értéke elfogadható), amennyiben
 
-## – a Felügyelőség eseti alapon, kérelemre, azt engedélyezi egyes hulladékok átvételére a befogadó hulladéklerakó esetében, figyelembe véve a hulladéklerakó műszaki védelmét, környezeti adottságait, továbbá meghatározva az átvehető hulladék mennyiségét és a fogadás időtartamát, valamint
+## – a környezetvédelmi hatóság eseti alapon, kérelemre, azt engedélyezi egyes hulladékok átvételére a befogadó hulladéklerakó esetében, figyelembe véve a hulladéklerakó műszaki védelmét, környezeti adottságait, továbbá meghatározva az átvehető hulladék mennyiségét és a fogadás időtartamát, valamint
 
 ## – a hulladéklerakó kibocsátása (beleértve a csurgalékvizet is) a kockázatértékelés alapján nem jelent számottevő környezeti kockázat növekedést.
 
@@ -434,13 +434,13 @@
 
 ## h) az esetleges észrevételeket.
 
-3. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^62]
+3. számú melléklet a 20/2006. (IV. 5.) KvVM rendelethez[^72]
 
 ## Monitoringrendszer a hulladéklerakó üzemeltetési és az utógondozási időszakában
 
 1. Meteorológiai adatok gyűjtése
 
-A hulladéklerakó vízháztartásának értékeléséhez a hulladéklerakó területére vonatkozóan az 1.–1. táblázatban felsorolt jellemzőket a megadott gyakorisággal gyűjteni kell. Ahol az értékelés nem szükséges (pl. inert hulladéklerakó), a Felügyelőség e kötelezettség elhagyásáról rendelkezhet.
+A hulladéklerakó vízháztartásának értékeléséhez a hulladéklerakó területére vonatkozóan az 1.–1. táblázatban felsorolt jellemzőket a megadott gyakorisággal gyűjteni kell. Ahol az értékelés nem szükséges (pl. inert hulladéklerakó), a környezetvédelmi hatóság e kötelezettség elhagyásáról rendelkezhet.
 
 Az adatokat gyűjtheti az üzemeltető, vagy biztosíthatja azokat a nemzeti meteorológiai hálózattal kötött megállapodás alapján.
 
@@ -462,15 +462,15 @@ Meteorológiai adatok gyűjtése
 
 2. A csapadékvíz, a csurgalékvíz, a felszíni víz és a hulladéklerakó-gáz ellenőrzése
 
-A vizsgálandó paramétereket a lerakott hulladék összetétele és a hulladéklerakó helyének hidrogeológiai tulajdonságai alapján a Felügyelőség határozatban állapítja meg. A mintavétel és a vizsgálatok gyakoriságát a 2.–1. táblázat mutatja.
+A vizsgálandó paramétereket a lerakott hulladék összetétele és a hulladéklerakó helyének hidrogeológiai tulajdonságai alapján a környezetvédelmi hatóság határozatban állapítja meg. A mintavétel és a vizsgálatok gyakoriságát a 2.–1. táblázat mutatja.
 
 2.1. A csapadékvíz összetételének meghatározása akkor szükséges, ha azt befogadóba elvezetik, illetve tengelyen elszállítják. Amennyiben szükséges a csapadékvíz összetételének ismerete, a vizsgálatokhoz a mintát az elvezetési ponton, illetve a tározóból kell venni.
 
 2.2. A csurgalékvízből a jellemző elvezetési pontokon mintát kell venni. Mintavételi pontonként külön kell megvizsgálni a csurgalékvíz mennyiségét és összetételét. Nem kell vizsgálatot végezni, ha a csurgalékvíz gyűjtésére nem kerül sor (pl. inert hulladéklerakón).
 
-2.3. Ha a hulladéklerakó közelében olyan időszakos vagy állandó vízfolyás van, amelynek vízminőségét a környezetvédelmi felülvizsgálat alapján a hulladéklerakó veszélyeztetheti, a Felügyelőség előírja a felszíni víz ellenőrzését. Ebben az esetben a mintavételt és a vizsgálatokat legalább két ponton kell elvégezni, mégpedig a hulladéklerakó fölött a folyásiránnyal szemben, illetve alatta a folyásirányban.
+2.3. Ha a hulladéklerakó közelében olyan időszakos vagy állandó vízfolyás van, amelynek vízminőségét a környezetvédelmi felülvizsgálat alapján a hulladéklerakó veszélyeztetheti, a környezetvédelmi hatóság előírja a felszíni víz ellenőrzését. Ebben az esetben a mintavételt és a vizsgálatokat legalább két ponton kell elvégezni, mégpedig a hulladéklerakó fölött a folyásiránnyal szemben, illetve alatta a folyásirányban.
 
-2.4. A hulladéklerakó-gáz elvezetési rendszer hatékony működését rendszeresen ellenőrizni kell. A hulladéklerakó-gáz vizsgálatát úgy kell végrehajtani, hogy reprezentálja a hulladéktestben keletkező gázkeverék mennyiségét és összetételét. Az utógondozási időszakban a vizsgálat alapulhat mérésen vagy a lerakott hulladék mennyiségén és összetételén alapuló számításon. A vizsgálat célja elsődlegesen a hulladékban lévő szerves anyag lebomlási folyamatának ellenőrzése. A CH4-, a CO2- és az O2-emissziót a hulladéklerakó üzemeltetőjének a Felügyelőség által előírt rendszerességgel meg kell határoznia, a többi gáz esetében az emisszióvizsgálat szükségességét, gyakoriságát a lerakott hulladék összetétele függvényében kell megállapítani.
+2.4. A hulladéklerakó-gáz elvezetési rendszer hatékony működését rendszeresen ellenőrizni kell. A hulladéklerakó-gáz vizsgálatát úgy kell végrehajtani, hogy reprezentálja a hulladéktestben keletkező gázkeverék mennyiségét és összetételét. Az utógondozási időszakban a vizsgálat alapulhat mérésen vagy a lerakott hulladék mennyiségén és összetételén alapuló számításon. A vizsgálat célja elsődlegesen a hulladékban lévő szerves anyag lebomlási folyamatának ellenőrzése. A CH4-, a CO2- és az O2-emissziót a hulladéklerakó üzemeltetőjének a környezetvédelmi hatóság által előírt rendszerességgel meg kell határoznia, a többi gáz esetében az emisszióvizsgálat szükségességét, gyakoriságát a lerakott hulladék összetétele függvényében kell megállapítani.
 
 2.5. Azon a hulladéklerakón, amelyen a geofizikai monitoringrendszer kiépítésre került, rendszeresen, azonban évente legalább egy alkalommal elvégzett felméréssel adatokat kell gyűjteni.
 
@@ -498,7 +498,7 @@ A csapadékvíz, a csurgalékvíz, a felszíni víz és a hulladéklerakó-gáz 
 
 A felszín alatti víz védelme érdekében ellenőrizni kell, hogy a hulladéklerakás veszélyezteti-e a környezetében lévő felszín alatti vizet. Ennek érdekében a felszín alatti vízáramlás szempontjából a hulladéklerakó feletti területen legalább egy, a hulladéklerakó alatti területen legalább két monitoring kutat (mérési pontot) kell kialakítani a hulladéklerakó hatásterületén belül. Referenciaértékeknek a felső monitoring kútból vett vízminta vizsgálata során mért értékeket kell tekinteni. A hulladéklerakóból származó szennyezettség jellemzésére az alsó monitoring kutakból vett vízminták vizsgálata során mért értékeket a referenciaértékekhez kell viszonyítani.
 
-A monitoring kutak helyét és számát – a tervezőnek a hulladéklerakó hatásterületére készített hidrogeológiai szakvéleményen alapuló javaslata figyelembevételével – a Felügyelőség határozatban állapítja meg.
+A monitoring kutak helyét és számát – a tervezőnek a hulladéklerakó hatásterületére készített hidrogeológiai szakvéleményen alapuló javaslata figyelembevételével – a környezetvédelmi hatóság határozatban állapítja meg.
 
 3.1. Mintavétel
 
@@ -598,7 +598,7 @@ A fémhigany egy évnél hosszabb ideig történő ideiglenes tárolására a k�
 
 a) A tárolóhelyen folyamatos üzemű, legalább 0,02 mg higany/m3 érzékenységű higanygőzfigyelő rendszert kell felszerelni. Az érzékelőket talajszinten és fejmagasságban kell elhelyezni. A rendszernek látható és hallható riasztást kell adnia. A rendszert évente karbantartásnak kell alávetni.
 
-b) A tárolóhelyet és a tartályokat arra feljogosított személynek legalább havonta egyszer szemrevételezéssel ellenőriznie kell. Szivárgás észlelése esetén az üzemeltető köteles haladéktalanul megtenni a környezeti higanykibocsátás megelőzéséhez és a higanytárolás biztonságosságának helyreállításához szükséges valamennyi intézkedést, továbbá köteles haladéktalanul értesíteni a Felügyelőséget.
+b) A tárolóhelyet és a tartályokat arra feljogosított személynek legalább havonta egyszer szemrevételezéssel ellenőriznie kell. Szivárgás észlelése esetén az üzemeltető köteles haladéktalanul megtenni a környezeti higanykibocsátás megelőzéséhez és a higanytárolás biztonságosságának helyreállításához szükséges valamennyi intézkedést, továbbá köteles haladéktalanul értesíteni a környezetvédelmi hatóságot.
 
 c) A telephelynek rendelkeznie kell veszélyhelyzeti tervvel, valamint a fémhigannyal kapcsolatos műveletek elvégzéséhez igénybe vehető, e célra alkalmas megfelelő védőfelszereléssel.
 
@@ -606,4 +606,4 @@ c) A telephelynek rendelkeznie kell veszélyhelyzeti tervvel, valamint a fémhig
 
 A 2. számú melléklet 2.5. pontjában és a 7.1. pontban említett információkat tartalmazó valamennyi dokumentumot, beleértve a tartályt kísérő tanúsítványt, valamint a fémhigany ideiglenes tárolás utáni kitárolásáról, átadásáról, rendeltetési helyéről és tervezett kezeléséről készített feljegyzéseket is, a tárolás befejezését követően legalább három évig meg kell őrizni.
 
-[^62]: A 3. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés c) pontja szerint módosított szöveg.
+[^72]: A 3. számú melléklet a 92/2007. (XI. 28.) KvVM rendelet 13. § (2) bekezdésével megállapított, a 40/2013. (V. 24.) VM rendelet 4. § (9) bekezdés c) pontja, a 15/2015. (III. 31.) FM rendelet 18. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
