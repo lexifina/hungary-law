@@ -4,7 +4,7 @@
 
 (2a)[^90] A 15. § (2)–(5) bekezdésében meghatározott esetben, ha a kérelmező nem személyesen jár el, a kérelemhez csatolni kell a kérelmező arcképmását (igazolványképét) is.
 
-(3)[^91] Kiskorú vagy gondnokság alatt álló személy kérelméhez csatolni kell a szülőknek (törvényes képviselőnek) a közjegyző, a járási (fővárosi kerületi) gyámhivatal, a büntetés-végrehajtási intézet vezetője, a konzuli tisztviselő, az útlevélhatóság vagy a járási hivatal előtt tett, vagy a szülő által kiállított, teljes bizonyító erejű magánokiratba foglalt, az úti okmány kiadásához hozzájáruló nyilatkozatát vagy a szülői felügyelet megszűnését, illetőleg szünetelését igazoló okiratot.
+(3)[^91] Kiskorú vagy gondnokság alatt álló személy kérelméhez csatolni kell a szülőknek (törvényes képviselőnek) a közjegyző, a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala, a büntetés-végrehajtási intézet vezetője, a konzuli tisztviselő, az útlevélhatóság vagy a járási hivatal előtt tett, vagy a szülő által kiállított, teljes bizonyító erejű magánokiratba foglalt, az úti okmány kiadásához hozzájáruló nyilatkozatát vagy a szülői felügyelet megszűnését, illetőleg szünetelését igazoló okiratot.
 
 (4)[^92] Nem kell csatolni a szülők (törvényes képviselők) hozzájáruló nyilatkozatát kiskorú vagy gondnokság alatt álló személy esetén az ideiglenes magánútlevél kiállítására irányuló kérelemhez, ha a kérelmező útlevele, illetőleg a külföldre utazáshoz felhasznált személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, elveszett, vagy azt eltulajdonították. Ebben az esetben az ideiglenes magánútlevelet – az Utv. 10. § (1)–(2) bekezdésében meghatározott keretek között – legfeljebb a korábbi magánútlevéllel megegyező érvényességi idővel lehet kiállítani.
 
@@ -15,7 +15,7 @@
 [^88]: A 17. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
 [^89]: A 17. § (2) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^90]: A 17. § (2a) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^91]: A 17. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^91]: A 17. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 34. §-a szerint módosított szöveg.
 [^92]: A 17. § új (4) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 2. § (5) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
 [^93]: A 17. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 117/2009. (VI. 4.) Korm. rendelet 2. § (5) bekezdése.
 [^94]: A 17. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 6. § (3) bekezdése iktatta be.
