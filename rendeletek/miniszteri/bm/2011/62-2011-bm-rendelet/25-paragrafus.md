@@ -4,7 +4,7 @@
 
 a) terhesség esetén a terhesgondozási könyvvel,
 
-b)[^8] a Kat. 54. § (1) bekezdés c)–f) pontjában vagy (3) bekezdésében meghatározott ok a kötelezett lakóhelye szerint illetékes települési önkormányzat jegyzőjének – környezettanulmány alapján – kiállított igazolásával,
+b)[^9] a Kat. 54. § (1) bekezdés c)–f) pontjában vagy (3) bekezdésében meghatározott ok a kötelezett lakóhelye szerint illetékes települési önkormányzat jegyzőjének – környezettanulmány alapján – kiállított igazolásával,
 
 c) a munkaképesség 67%-os elvesztése az azt megállapító határozattal, a betegség három hónapnál nem régebbi, szakrendelő intézet vagy kórház szakorvosa által kiállított igazolással.
 
@@ -20,10 +20,10 @@ c) készenléti szolgálat a készenlétet elrendelő okmánnyal,
 
 d) közfeladatot ellátó ágazati védekezési szervezet tagja a munkáltató által kiállított igazolással,
 
-e)[^9] közüzemi feladatot ellátó létesítmények üzemeltető személyzete esetén a munkáltató által kiállított igazolással.
+e)[^10] közüzemi feladatot ellátó létesítmények üzemeltető személyzete esetén a munkáltató által kiállított igazolással.
 
-(4)[^10] A polgármester a Kat. 54. § (3) bekezdésében meghatározott körülmények fennállása esetén az (1) bekezdés b) pontja szerinti környezettanulmány, valamint a hivatásos katasztrófavédelmi szerv helyi szerve vezetőjének a véleménye mérlegelésével dönt a mentesség kérdésében.
+(4)[^11] A polgármester a Kat. 54. § (3) bekezdésében meghatározott körülmények fennállása esetén az (1) bekezdés b) pontja szerinti környezettanulmány, valamint a hivatásos katasztrófavédelmi szerv helyi szerve vezetőjének a véleménye mérlegelésével dönt a mentesség kérdésében.
 
-[^8]: A 25. § (1) bekezdés b) pontja a 11/2014. (II. 21.) BM rendelet 3. §-ával megállapított szöveg.
-[^9]: A 25. § (3) bekezdés e) pontját a 11/2014. (II. 21.) BM rendelet 4. § (1) bekezdése iktatta be.
-[^10]: A 25. § (4) bekezdését a 11/2014. (II. 21.) BM rendelet 4. § (2) bekezdése iktatta be.
+[^9]: A 25. § (1) bekezdés b) pontja a 11/2014. (II. 21.) BM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 25. § (3) bekezdés e) pontját a 11/2014. (II. 21.) BM rendelet 4. § (1) bekezdése iktatta be.
+[^11]: A 25. § (4) bekezdését a 11/2014. (II. 21.) BM rendelet 4. § (2) bekezdése iktatta be.
