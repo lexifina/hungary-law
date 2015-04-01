@@ -14,4 +14,6 @@ c) Szegilong község közigazgatási területén lévő, az ingatlan-nyilvánta
 
 (4) Azokban az esetekben, amikor az 1. mellékletben meghatározott eljárásfajtára vonatkozó jogszabály az adott eljárásban szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
 
-(5) A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyek koordinációjára – a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 21.) Korm. rendelet 8/A. §-ában foglaltak szerinti – feladat- és hatáskörrel rendelkező kormánymegbízottként a Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+(5)[^1] A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+
+[^1]: Az 1. § (5) bekezdése a 72/2015. (III. 30.) Korm. rendelet 107. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
