@@ -12,7 +12,7 @@
 
 | Megjegyzés / Remarks CITES függelék / App.: EU melléklet / Annex*: Eredet / Source: |  |
 
-| Kiállítás helye és ideje / Place and date of issue | ................. Környezetvédelmi, Természetvédelmi és Vízügyi Felügyelőség (Issuing Authority) |
+| Kiállítás helye és ideje / Place and date of issue | .................  természetvédelmi feladatkörében eljáró megyei kormányhivatal (Issuing Authority) |
 
 | .................................................................... | .................................................................... aláírás, P. H. / stamp and signature |
 
@@ -22,6 +22,6 @@
 
 ## A DOKUMENTUM ÉRVÉNYESSÉGÉRE VONATKOZÓ SPECIÁLIS FELTÉTELEK / SPECIAL CONDITIONS FOR THE VALIDITY OF THE DOCUMENT:
 
-6. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^55]
+6. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^62]
 
-[^55]: A 6. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^62]: A 6. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.

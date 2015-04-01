@@ -14,6 +14,6 @@
 
 | Kelés/születés időpontja | Az egyedi azonosító száma / Szárazföldi teknősök esetében példányszám | Jelölés időpontja, azonosító típusa | Felnevelés módja (természetes vagy kézi neveléssel) | Elhullás időpontja |
 
-5. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^54]
+5. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^61]
 
-[^54]: [Az 527/2013. (XII. 30.) Korm. rendelet 67. § d) pontjával elrendelt módosítás, amely szerint a „Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség” szövegrész helyébe a „Környezetvédelmi és Természetvédelmi Főfelügyelőség” szöveg lép, nem vezethető át.]
+[^61]: Az 5. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 127. § i) pontja szerint módosított szöveg.

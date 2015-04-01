@@ -16,7 +16,7 @@
 
 | Megjegyzés / Remarks CITES függelék / App.: EU melléklet / Annex*: Eredet / Source: |
 
-| Kiállítás helye és ideje / Place and date of issue | Közép-Duna-völgyi Környezetvédelmi és Természetvédelmi Felügyelőség (Issuing Authority) |
+| Kiállítás helye és ideje / Place and date of issue | természetvédelmi feladatkörében eljáró Pest Megyei Kormányhivatal (Issuing Authority) |
 
 | Budapest | ..................................................................... aláírás, P. H. / stamp and signature |
 
@@ -26,6 +26,6 @@
 
 ## A DOKUMENTUM ÉRVÉNYESSÉGÉRE VONATKOZÓ SPECIÁLIS FELTÉTELEK / SPECIAL CONDITIONS FOR THE VALIDITY OF THE DOCUMENT:
 
-4. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^53]
+4. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^60]
 
-[^53]: A 4. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
+[^60]: A 4. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
