@@ -12,4 +12,6 @@ c) településképi bejelentési eljárásnak nincs helye.
 
 (4) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban hozott döntés – a környezetvédelmi engedély vagy az egységes környezethasználati engedély tárgyában hozott döntést kivéve – fellebbezésre tekintet nélkül végrehajtható.
 
-(5) Az eljáró hatóság az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokban meghozott döntéseket – az eljárás során a személyesen az ügyfélnek szóló végzések, valamint az ingatlan-nyilvántartással összefüggő döntések kivételével – hirdetményi úton közli. A döntés közlésének napja a hirdetmény kifüggesztését követő ötödik nap.
+(5)[^2]
+
+[^2]: A 2. § (5) bekezdését a 72/2015. (III. 30.) Korm. rendelet 65. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 114. §-át.
