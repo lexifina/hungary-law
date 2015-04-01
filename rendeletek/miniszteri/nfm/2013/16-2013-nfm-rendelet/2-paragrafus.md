@@ -1,4 +1,4 @@
-2. § (1) Bányaüzemi felelős műszaki vezetői tevékenység végzésének engedélyezése iránti kérelmet a bányakapitánysághoz kell benyújtani.
+2. § (1)[^1] Bányaüzemi felelős műszaki vezetői tevékenység végzésének engedélyezése iránti kérelmet a bányafelügyelethez kell benyújtani.
 
 (2) Az (1) bekezdés szerinti tevékenység engedélyezését
 
@@ -20,4 +20,7 @@ e) szénhidrogén
 
 (5) Engedély több típusú bányaüzemre is adható, ha a kérelemben megjelölt típusú bányaüzemre vonatkozóan a kérelmező eleget tesz a tevékenység folytatásához szükséges feltételeknek. A feltételek fennállását a megjelölt bányaüzemekre külön-külön kell vizsgálni.
 
-(6) A bányakapitányság az engedélyest a határozat jogerőre emelkedésének napján nyilvántartásba veszi.
+(6)[^2] A bányafelügyelet az engedélyest a határozat jogerőre emelkedésének napján nyilvántartásba veszi.
+
+[^1]: A 2. § (1) bekezdése a 15/2015. (III. 31.) NFM rendelet 30. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (6) bekezdése a 15/2015. (III. 31.) NFM rendelet 30. § b) pontja szerint módosított szöveg.

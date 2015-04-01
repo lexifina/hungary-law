@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-16-20-2
 | --- | --- | --- |
 | 2013-05-04 | 2013-16-20-2W.1 | 16/2013. (IV. 19.) NFM rendelet |
 | 2013-05-05 | 2013-16-20-2W.2 | 2010: CXXX. törvény |
+| 2015-04-01 | 2013-16-20-2W.3 | 15/2015. (III. 31.) NFM rendelet |

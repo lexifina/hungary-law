@@ -14,6 +14,9 @@ e) szénhidrogén bányaüzem esetében „SzB” rövidítésből, kötőjelbő
 
 ## áll.
 
-(3) Az engedélyes köteles a bányakapitányságnak 8 napon belül bejelenteni, ha a nyilvántartott adataiban változás következik be. A bejelentést követően a bányakapitányság a változást átvezeti a nyilvántartáson.
+(3)[^3] Az engedélyes köteles a bányafelügyeletnek 8 napon belül bejelenteni, ha a nyilvántartott adataiban változás következik be. A bejelentést követően a bányafelügyelet a változást átvezeti a nyilvántartáson.
 
-(4) A bányakapitányságok a bányaüzemi felelős műszaki vezetőre vonatkozó nyilvántartások adatait a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH) részére megküldik. A felelős műszaki vezető hozzájárulása esetén az MBFH honlapján közzéteszi a felelős műszaki vezető nevét, címét, egyéb általa megadott elérhetőségét és a bányaüzem megnevezését.
+(4)[^4] A nyilvántartásba bejegyzett felelős műszaki vezető hozzájárulása esetén a Magyar Bányászati és Földtani Hivatal a honlapján közzéteszi a felelős műszaki vezető nevét, címét, egyéb általa megadott elérhetőségét és a bányaüzem megnevezését.
+
+[^3]: A 7. § (3) bekezdése a 15/2015. (III. 31.) NFM rendelet 30. § c) pontja szerint módosított szöveg.
+[^4]: A 7. § (4) bekezdése a 15/2015. (III. 31.) NFM rendelet 29. §-ával megállapított szöveg.
