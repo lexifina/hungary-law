@@ -4,7 +4,7 @@
 
 33. § (1)[^216] Tartós környezetkárosodásnak minősül, ha a rendelet hatálya alá tartozó tevékenység olyan károsodást okozott a földtani közegben, illetve a felszín alatti vízben, amely a természeti folyamatok vagy beavatkozás révén a tényfeltárási záródokumentáció elfogadásától számított öt éven belül sem csökken a (D) kármentesítési célállapot határérték alá.
 
-(2)[^217] A pontszerű szennyezőforráshoz tartozó tartós környezeti károsodás tényfeltárását követően a környezetvédelmi hatóság a tényfeltárás eredménye alapján határozatot hoz, és azt a vázrajzzal együtt megküldi az illetékes járási földhivatalnak a tartós környezetkárosodás tényének feljegyzése végett. Az ingatlan-nyilvántartási feljegyzésben a tartós környezetkárosodás tényének feltüntetése mellett utalni kell a tény jellegét és mértékét megállapító jogerős határozatra, illetve az annak mellékletét képező vázrajzra.
+(2)[^217] A pontszerű szennyezőforráshoz tartozó tartós környezeti károsodás tényfeltárását követően a környezetvédelmi hatóság a tényfeltárás eredménye alapján határozatot hoz, és azt a vázrajzzal együtt megküldi az illetékes, első fokon eljáró ingatlanügyi hatóságnak a tartós környezetkárosodás tényének feljegyzése végett. Az ingatlan-nyilvántartási feljegyzésben a tartós környezetkárosodás tényének feltüntetése mellett utalni kell a tény jellegét és mértékét megállapító jogerős határozatra, illetve az annak mellékletét képező vázrajzra.
 
 (3) A (2)[^218] bekezdés szerinti határozatnak tartalmaznia kell a károsodás jellegét és mértékét az alábbiak szerint:
 
@@ -41,7 +41,7 @@ b) a bejegyzett adatok nagyságrendet meghaladó változása esetén a változá
 (7)[^226] A tartós károsodással érintett területek ingatlan-nyilvántartásba bejegyzésének kezdeményezésével egyidejűleg a hatóság közli határozatát az érintett önkormányzattal is. E szerint jár el a (6) bekezdés szerinti módosulások esetében is.
 
 [^216]: A 33. § (1) bekezdése a 92/2007. (IV. 26.) Korm. rendelet 9. § (1)–(2) bekezdése szerint módosított szöveg.
-[^217]: A 33. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 359. §-a, a 296/2012. (X. 17.) Korm. rendelet 14. §-a, a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
+[^217]: A 33. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 359. §-a, a 296/2012. (X. 17.) Korm. rendelet 14. §-a, a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja, a 70/2015. (III. 30.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
 [^218]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.
 [^219]: A 33. § (3) bekezdésének a) pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
 [^220]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.
