@@ -6,7 +6,7 @@
 
 a) a központi építészeti tervtanács esetében az országos főépítész,
 
-b) a területi tervtanács esetén a működési területén illetékes állami főépítész.
+b)[^8] a területi tervtanács esetén a működési területén illetékes, állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalt vezető kormánymegbízott által kijelölt, az állami főépítészre vonatkozó képesítési követelményekkel rendelkező személy.
 
 (2) A tervtanács elnöke
 
@@ -32,3 +32,4 @@ j) gondoskodik akadályoztatása esetén a helyettesítéséről.
 
 [^6]: A 2/A. §-t a 394/2012. (XII. 20.) Korm. rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés b) pontja.
 [^7]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^8]: A 3. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
