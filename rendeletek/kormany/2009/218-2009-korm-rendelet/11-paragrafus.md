@@ -1,4 +1,4 @@
-## 10/B. §[^16] A területrendezésért felelős miniszter a Balaton Kiemelt Üdülőkörzet területrendezési tervének a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény szerinti felülvizsgálatáról, valamint a Balaton Kiemelt Üdülőkörzet területrendezési terve módosításának előkészítéséről a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
+## 10/B. §[^16] A területrendezésért felelős miniszter a Balaton Kiemelt Üdülőkörzet területrendezési tervének a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény szerinti felülvizsgálatáról, valamint a Balaton Kiemelt Üdülőkörzet területrendezési terve módosításának előkészítéséről a Lechner Tudásközpont, Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság útján gondoskodik.
 
 ## 11. §[^17] A területi terveket az Országos Területfejlesztési és Területrendezési Információs Rendszerbe (a továbbiakban: TeIR) történő illeszthetőség követelményeinek figyelembevételével elektronikus és papíralapú dokumentumként kell kidolgozni és a kidolgozásért felelős szerv részére átadni. Ennek érdekében:
 
@@ -10,5 +10,5 @@ c) a területrendezési tervek elfogadásra kerülő térképi munkarészeit Egy
 
 d) a területrendezési tervek kidolgozása során a térségi szerkezeti terv tartalmi elemeit egy tervlapon, az egyes, tartalmilag nem összetartozó és az átfedő térségi övezeteket külön tervlapokon kell ábrázolni.
 
-[^16]: A 10/B. §-t a 342/2014. (XII. 19.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^16]: A 10/B. §-t a 342/2014. (XII. 19.) Korm. rendelet 7. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 143. § (2) bekezdése szerint módosított szöveg.
 [^17]: A 11. § a 25/2014. (II. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
