@@ -12,9 +12,9 @@ d) védőterület: a fürdőhely területét övező, a víz minőségének meg�
 
 e) fürdési idény:
 
-ea)[^2] a járási népegészségügyi intézet határozatában megállapított, az év azon két napja közötti legalább 8 hétig tartó egybefüggő időszak, amikor napi átlagban legalább 100 fő fürdőzőre lehet számítani, vagy
+ea)[^2] a járási hivatal határozatában megállapított, az év azon két napja közötti legalább 8 hétig tartó egybefüggő időszak, amikor napi átlagban legalább 100 fő fürdőzőre lehet számítani, vagy
 
-eb)[^3] üzemeltetett fürdőhely esetében az átlagos napi fürdőzőszámra tekintet nélkül a fürdőhely üzemeltetője által kérelmezett és a járási népegészségügyi intézet határozatában megállapított időszak;
+eb)[^3] üzemeltetett fürdőhely esetében az átlagos napi fürdőzőszámra tekintet nélkül a fürdőhely üzemeltetője által kérelmezett és a járási hivatal határozatában megállapított időszak;
 
 f) szennyezés: az 1. melléklet „A” oszlopában meghatározott mikrobiológiai szennyező anyag vagy más olyan élőlény vagy hulladék jelenléte, amely kihat a fürdővizek minőségére és veszélyezteti a fürdőzők egészségét;
 
@@ -34,7 +34,7 @@ m) makrofiton: magasabbrendű vízinövények;
 
 n) fitoplankton: vízben lebegő alacsonyrendű növényi szervezetek összessége.
 
-[^1]: A 2. § a) pontja a 351/2010. (XII. 30.) Korm. rendelet 213. § a) pontja szerint módosított szöveg. [A 2. § a) pontjához elrendelet módosítás, amely szerint a „kistérségi népegészségügyi intézete (a továbbiakban: kistérségi népegészségügyi intézet)” szövegrész helyébe a „járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete (a továbbiakban: járási népegészségügyi intézet)” szöveg lép, nem vezethető át.]
-[^2]: A 2. § e) pont ea) alpontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
-[^3]: A 2. § e) pont eb) alpontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^1]: A 2. § a) pontja a 351/2010. (XII. 30.) Korm. rendelet 213. § a) pontja szerint módosított szöveg. [A 2. § a) pontjához elrendelet módosítás, amely szerint a „kistérségi népegészségügyi intézete (a továbbiakban: kistérségi népegészségügyi intézet)” szövegrész helyébe a „járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete (a továbbiakban: járási népegészségügyi intézet)” szöveg lép, valamint a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés a) pontjával elrendelt módosítás, amely szerint az „a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézete (a továbbiakban: járási népegészségügyi intézet)” szövegrész helyébe az „a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal)” szöveg lép, nem vezethető át.]
+[^2]: A 2. § e) pont ea) alpontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § e) pont eb) alpontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^4]: A 2. § h) pontja a 148/2011. (VIII. 4.) Korm. rendelet 1. §-ával megállapított szöveg.

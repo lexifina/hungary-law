@@ -1,6 +1,6 @@
 ## Fürdővízminőség értékelése és a fürdővizek osztályozása
 
-9. § (1)[^26] A 7–8. § szerint elvégzett fürdővíz vizsgálatok eredményeit a járási népegészségügyi intézet minden fürdővízre, minden fürdési idényt követően értékeli
+9. § (1)[^26] A 7–8. § szerint elvégzett fürdővíz vizsgálatok eredményeit a járási hivatal minden fürdővízre, minden fürdési idényt követően értékeli
 
 a) a 2. mellékletben részletezett eljárással,
 
@@ -16,7 +16,7 @@ a) a fürdővizet újonnan azonosították, vagy
 
 b) olyan változások következtek be, amelyek valószínűsíthetően befolyásolják a fürdővíz 2. melléklet szerinti osztályba sorolását, ez esetben az értékelést csak a változásokat követően vett mintákra vonatkozó fürdővíz-minőségi adatsorokból kell elvégezni.
 
-(5)[^27] A fürdővizeket minőségüknek megfelelően – az (1)–(4) bekezdések szerinti értékelés eredményeként – a járási népegészségügyi intézet az alábbi osztályokba sorolja be:
+(5)[^27] A fürdővizeket minőségüknek megfelelően – az (1)–(4) bekezdések szerinti értékelés eredményeként – a járási hivatal az alábbi osztályokba sorolja be:
 
 a) kifogásolt,
 
@@ -28,7 +28,7 @@ d) kiváló.
 
 (6) Ha a 8. § (2) bekezdésében előírtak alapján nem merült fel az emelkedett cianobaktérium burjánzással összefüggő egészségügyi kockázat, a fürdővíz ebből a szempontból kiváló minősítést kap. Egyéb esetben a kockázat értékelésének alapját az 1. melléklet 3. paraméter értékeinek a táblázatban megadott határértékekhez viszonyított nagysága képezi.
 
-(7)[^28] A járási népegészségügyi intézet a vízminőségi értékelés alapján
+(7)[^28] A járási hivatal a vízminőségi értékelés alapján
 
 a) a fürdővizeket hivatalból, illetve a kijelölt fürdőhelyeket az üzemeltető kérelmére feloszthatja, vagy
 
@@ -38,6 +38,6 @@ ba) az (5) bekezdés szerinti értékelésük az azt megelőző 4 évben azonos 
 
 bb) a fürdővízprofiljuk közös kockázati tényezőket vagy azok közös hiányát mutatja.
 
-[^26]: A 9. § (1) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
-[^27]: A 9. § (5) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
-[^28]: A 9. § (7) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^26]: A 9. § (1) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 9. § (5) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 9. § (7) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
