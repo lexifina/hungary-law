@@ -56,9 +56,9 @@
 
 ## 3.1 a magánnyugdíj-pénztári tagságra vonatkozó adat;
 
-## 3.2[^192] nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
+## 3.2[^210] nyilatkozat arról, hogy a kérelmező részesül-e táppénzben, terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban vagy egyéb rendszeres pénzellátásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására;
 
-## 3.3[^193] nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+## 3.3[^211] nyilatkozat arról, hogy a közös háztartásban élő másik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozási segélyben, gyermeknevelési támogatásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; amennyiben igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
 
 ## 3.4 nyilatkozat a kereső tevékenységnek a gyermeknevelési támogatás folyósításának ideje alatti korlátozásának tudomásul vételéről;
 
@@ -70,8 +70,8 @@
 
 ## 3.8 a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-5. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^194]
+5. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^212]
 
-[^192]: A 4. számú melléklet 3.2 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § e) pontja szerint módosított szöveg.
-[^193]: A 4. számú melléklet 3.3 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § e) pontja szerint módosított szöveg.
-[^194]: Az 5. számú mellékletet a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése a) pontjának ah) alpontja hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § d) pontjával megállapított szöveg.
+[^210]: A 4. számú melléklet 3.2 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § e) pontja szerint módosított szöveg.
+[^211]: A 4. számú melléklet 3.3 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § e) pontja szerint módosított szöveg.
+[^212]: Az 5. számú mellékletet a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése a) pontjának ah) alpontja hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § d) pontjával megállapított szöveg.

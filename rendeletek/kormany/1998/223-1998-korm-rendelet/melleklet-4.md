@@ -74,7 +74,7 @@
 
 ## 3.3.7 valamelyik EGT-államban folytatott kereső vagy vállalkozási tevékenységére vonatkozó adat;
 
-## 3.4[^190] arra vonatkozó adat, hogy – olyan gyermekre tekintettel, aki után a nagyszülő nem igényel gyermekgondozási segélyt – valamelyik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, vagy benyújtott-e kérelmet ilyen ellátás megállapítására; amennyiben igen, az ellátás típusa, ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+## 3.4[^208] arra vonatkozó adat, hogy – olyan gyermekre tekintettel, aki után a nagyszülő nem igényel gyermekgondozási segélyt – valamelyik szülő vagy más személy részesül-e terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, vagy benyújtott-e kérelmet ilyen ellátás megállapítására; amennyiben igen, az ellátás típusa, ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
 
 ## 3.5 a szülők nyilatkozata arról, hogy a gyermekgondozási segélyről a nagyszülő javára lemondanak és egyetértenek a gyermekgondozási segély nagyszülő részére történő folyósításával, továbbá a nyilatkozatot tevő szülők aláíróhelye;
 
@@ -92,7 +92,7 @@
 
 ## 3.12 a kérelmező aláíróhelye.
 
-4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^191]
+4. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^209]
 
-[^190]: A 3. számú melléklet 3.4 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § d) pontja szerint módosított szöveg.
-[^191]: A 4. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § c) pontjával megállapított szöveg.
+[^208]: A 3. számú melléklet 3.4 alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § d) pontja szerint módosított szöveg.
+[^209]: A 4. számú melléklet a 236/2012. (VIII. 30.) Korm. rendelet 17. § c) pontjával megállapított szöveg.

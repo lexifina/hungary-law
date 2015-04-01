@@ -1,6 +1,6 @@
 ## 3. § A Cst. 39. §-a alapján – írásban – be kell jelenteni
 
-a)[^18] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
+a)[^21] a családi pótlék folyósításának, szüneteltetésének vagy a folyósítás felfüggesztésének időtartama alatt
 
 aa) a gyermeknek az ellátásra jogosult háztartásából történő kikerülését,
 
@@ -22,19 +22,19 @@ ai) az Európai Unió tagállamában vagy az Európai Gazdasági Térségről sz
 
 aj) az ellátásra jogosult Cst. 45. § (2) bekezdés c) pontja szerinti adatában bekövetkezett változást, továbbá – ha az adatváltozás házasságkötésre, új bejegyzett élettársi vagy élettársi kapcsolat létesítésére tekintettel következett be – a házastárs, bejegyzett élettárs vagy élettárs Cst. 45. § (2) bekezdés a) és e) pontjában meghatározott adatát;
 
-b)[^19] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
+b)[^22] a gyermekgondozási támogatás folyósításának, szüneteltetésének időtartama alatt
 
 ba) a gyermek tartós betegségére, illetve súlyos fogyatékosságára okot adó körülmény megszűnését,
 
 bb) ha az ellátásra jogosult – ide nem értve a kiskorú szülő gyermekének gyámját – a gyermek egyéves kora előtt, nagyszülő esetében a gyermek hároméves kora előtt folytat keresőtevékenységet,
 
-bc)[^20]
+bc)[^23]
 
 bd) ha a gyermekgondozási segélyre jogosult nagyszülő a gyermek hároméves kora után folytat keresőtevékenységet, kivéve, ha a keresőtevékenység a Cst. 21/A. §-ában megjelölt módon és időtartamban történik,
 
 be) ha a gyermekgondozási segélyre a Cst. 20/B. §-a alapján jogosult személy heti 30 órát meghaladó időtartamban folytat keresőtevékenységet,
 
-bf)[^21] ha az ellátásra jogosult a Cst. 27. § (1) bekezdés a) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, vagy ha házastársa, élettársa terhességi-gyermekágyi segélyben, csecsemőgondozási díjban vagy gyermekgondozási díjban részesül,
+bf)[^24] ha az ellátásra jogosult a Cst. 27. § (1) bekezdés a) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, vagy ha házastársa, élettársa terhességi-gyermekágyi segélyben, csecsemőgondozási díjban vagy gyermekgondozási díjban részesül,
 
 bg) a gyermek napközbeni ellátását biztosító intézményben történő elhelyezését, ide nem értve a 22. § (1)–(4) bekezdésében megjelölt eseteket,
 
@@ -58,7 +58,7 @@ ca) a gyermek szüleinek a gyermek nevelésében történő akadályoztatásána
 
 cb) a gyermek – méltányossági gyermekgondozási segély megállapítására okot adó – betegségének megszűnését.
 
-[^18]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^19]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^20]: A 3. § b) pont bc) alpontját az 509/2013. (XII. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^21]: A 3. § b) pont bf) alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § a) pontja szerint módosított szöveg.
+[^21]: A 3. § a) pontja a 236/2010. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A 3. § b) pontja a 359/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^23]: A 3. § b) pont bc) alpontját az 509/2013. (XII. 29.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^24]: A 3. § b) pont bf) alpontja a 364/2014. (XII. 30.) Korm. rendelet 124. § a) pontja szerint módosított szöveg.
