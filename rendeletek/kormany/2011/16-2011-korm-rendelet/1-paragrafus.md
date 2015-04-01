@@ -2,11 +2,9 @@
 
 (2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
-(3)[^2] A rendelet hatálya alá tartozó első fokú környezetvédelmi hatósági engedélyezési, természetvédelmi engedélyezési, illetve természetvédelmi kiegyenlítő intézkedés előírására irányuló engedélyezési eljárások lefolytatására kijelölt Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség országos hatáskörben és illetékességgel jár el.
-
-(4) A rendelet hatálya alá tartozó elsőfokú erdészeti hatósági engedélyezési eljárások lefolytatására, valamint a rendelet hatálya alá tartozó eljárásokban, erdővédelem tárgykörben elsőfokú szakhatóságként kijelölt Vas megyei Kormányhivatal Erdészeti Igazgatóság országos hatáskörben és illetékességgel jár el.
+(3)–(4)[^2]
 
 (5) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el, a Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben szakhatóságként a 2. mellékletben meghatározott hatóságokat jelöli ki.
 
 [^1]: Az 1. § (1) bekezdése a 207/2011. (X. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 98. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (3)–(4) bekezdését a 72/2015. (III. 30.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 114. §-át.

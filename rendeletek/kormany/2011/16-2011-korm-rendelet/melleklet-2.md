@@ -1,105 +1,99 @@
-## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások
+## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
 
-## és az eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
+|  | A | B | C | D | E |
 
-| Sor- szám | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
+| 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 1. | Kiemelt nagyberuházásként gyártelepítés és annak építményei, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Az 1. § (1) bekezdése szerinti terület | általános építés- ügyi hatósági engedélyek | Győri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 2. | Kiemelt nagyberuházásként gyártelepítés és annak építményei, valamint az ahhoz kapcsolódó logisztikai bázis és építményei | Az 1. § (1) bekezdése szerinti terület | általános építésügyi hatósági engedélyek | Győri Járási Hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 2. |  |  | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges környezetvédelmi hatósági engedélyezési eljárás kivételével | Győr-Moson-Sopron Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3. |  |  | természetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges természetvédelmi hatósági engedélyezési eljárás kivételével | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | természetvédelmi hatósági engedélyezési eljárás a természetvédelmi kiegyenlítő intézkedés végrehajtásához szükséges természetvédelmi hatósági engedélyezési eljárás kivételével | Győr-Moson-Sopron Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 4. |  |  | természetvédelmi kiegyenlítő intézkedés előírására irányuló engedélyezési eljárás | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 5. | természetvédelmi kiegyenlítő intézkedés előírására irányuló engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 5. |  |  | útügyi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
+| 6. | útügyi hatósági engedélyek | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 6. |  |  | vízügyi hatósági engedélyek | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 7. | vízügyi hatósági engedélyek | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 7. |  |  | A Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 12. § (2) bekezdése és 13. § (2) bekezdése szerinti engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Győri Mérésügyi és Műszaki Biztonsági Hatósága (Győr) | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 8. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 8. |  |  | földvédelmi hatósági eljárás | illetékes járási földhivatal | Győr-Moson- Sopron Megyei Kormányhivatal Földhivatala |
+| 9. | földvédelmi hatósági eljárás | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 9. |  |  | ingatlan- nyilvántartási hatósági eljárások | illetékes járási földhivatal | Győr-Moson- Sopron Megyei Kormányhivatal Földhivatala |
+| 10. | ingatlan-nyilvántartási hatósági eljárások | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 10. |  |  | telekalakítási hatósági eljárások | illetékes járási földhivatal | Győr-Moson- Sopron Megyei Kormányhivatal Földhivatala |
+| 11. | telekalakítási hatósági eljárások | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 11. |  |  | földmérési hatósági eljárások | illetékes járási földhivatal | Győr-Moson- Sopron Megyei Kormányhivatal Földhivatala |
+| 12. | földmérési hatósági eljárások | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 12. |  |  | erdészeti hatósági engedélyek | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 13. | erdészeti hatósági engedélyek | Vas Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 13. |  |  | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Médiatanácsának elnöke |
+| 14. | hírközlési hatósági engedélyek | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 14. |  |  | bányahatósági engedélyek | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 15. | bányahatósági engedélyek | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 15. |  |  | talajvédelmi hatósági engedélyek | Győr-Moson- Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatóság | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 16. | talajvédelmi hatósági engedélyek | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 16. |  |  | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások (a további régészeti feladatellátás meghatározása kivételével) | Győri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 17. | örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos eljárások | Győri Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 17. |  |  | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
+| 18. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 18. |  |  | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 19. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 19. |  |  |  |  |  |
+| 20. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 20. |  |  | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
-
-| 21. |  |  | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 21. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 2. melléklet a 16/2011. (II. 24.) Korm. rendelethez[^10]
 
-A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárásokban közreműködő hatáskörrel rendelkező szakhatóságok
+A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
-|  | Szakhatósági közreműködése tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+|  | A | B | C |
 
-| 1. | építésügy | Győri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala |
+| 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | környezetvédelem és természetvédelem | Észak-dunántúli Környezetvédelmi és Természetvédelmi Felügyelőség | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 2. | építésügy | Győri Járási Hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 2a. | vízügy | Észak-dunántúli Vízügyi Hatóság | Országos Vízügyi Hatóság |
+| 3. | környezetvédelem és természetvédelem | Győr-Moson-Sopron Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
-| 3. | közlekedés |
+| 4. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| a) közút | Győr-Moson-Sopron Megyei Kormányhivatal Közlekedési Felügyelősége | Nemzeti Közlekedési Hatóság Központ |
+| 5. | földtan | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| b) vasút | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központ |
+| 6. | közlekedés: közút | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| c) légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központ |
+| 7. | közlekedés: Vasút | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 4. | földtan | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 8. | közlekedés légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 5. | bányászat | Magyar Bányászati és Földtani Hivatal Veszprémi Bányakapitányság | Magyar Bányászati és Földtani Hivatal |
+| 9. | bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 6. | rendészet |
+| 10. | rendészet: a) gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| a) gyorsforgalmi utak esetén | Országos Rendőr-főkapitányság | rendészetért felelős miniszter |
+| 11. | rendészet: b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Győri Rendőrkapitányság | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
 
-| b) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Győri Rendőrkapitányság | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
+| 12. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 8. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 14. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |  |
+| 15. | termőföldvédelem | illetékes járási hivatal | Győr-Moson-Sopron Megyei Kormányhivatal |
 
-| 10. | földművelésügy |
+| 16. | talajvédelem | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| a) termőföldvédelem | illetékes járási földhivatal | Győr-Moson-Sopron Megyei Kormányhivatal Földhivatala |
+| 17. | erdővédelem | Vas Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| b) talajvédelem | Győr-Moson-Sopron Megyei Kormányhivatal Növény- és Talajvédelmi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 18. | régészet és műemlékvédelem | Győri Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| c) erdővédelem | Vas Megyei Kormányhivatal Erdészeti Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 19. | egészségügy | Győr-Moson-Sopron Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
 
-| 11. | régészet és műemlékvédelem | Győri Járási Hivatal járási építésügyi és örökségvédelmi hivatala | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala |
+| 20. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 12. | egészségügy | Győr-Moson-Sopron Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szerve | Országos Tisztifőorvosi Hivatal |
+| 21. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 13. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság Médiatanácsának elnöke |
+| 22. | élelmiszer-egészségügy | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-| 14. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal Mérésügyi és Műszaki Biztonsági Hatóság | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 23. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-| 15. | élelmiszer-egészségügy | Győr-Moson-Sopron Megyei Kormányhivatal Élelmiszer-biztonsági és Állategészségügyi Igazgatósága | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
-
-| 16. | területrendezés | Győr-Moson-Sopron Megyei Kormányhivatal Építésügyi és Örökségvédelmi Hivatalának Állami Főépítésze | területrendezésért felelős miniszter |
-
-[^10]: A 2. melléklet a 158/2011. (VIII. 11.) Korm. rendelet 39. §-a, a 296/2012. (X. 17.) Korm. rendelet 50. § a) pontja, a 394/2012. (XII. 20.) Korm. rendelet 45. §-a, az 527/2013. (XII. 30.) Korm. rendelet 98. § (3) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 51. § (2) bekezdése, 52. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 18. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
