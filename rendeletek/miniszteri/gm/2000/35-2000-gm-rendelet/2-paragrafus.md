@@ -14,15 +14,15 @@ b) alkohol-sűrűségmérő: víz és etilalkohol elegyek sűrűségének méré
 
 c) szeszfokmérő és alkohol-sűrűségmérő forgalomba hozatala: a szeszfokmérő és alkohol-sűrűségmérő ingyenes vagy visszterhes elidegenítése a fogyasztók és a felhasználók részére;
 
-d)[^2] illetékes ellenőrző hatóság: külön jogszabály alapján a szeszfokmérő és alkohol-sűrűségmérő fogyasztói forgalmazásával és felhasználásával kapcsolatos ügyekben a fogyasztóvédelmi hatóság, a műszaki és metrológiai követelmények ellenőrzése tekintetében a mérésügyi hatóság;
+d)[^3] illetékes ellenőrző hatóság: külön jogszabály alapján a szeszfokmérő és alkohol-sűrűségmérő fogyasztói forgalmazásával és felhasználásával kapcsolatos ügyekben a fogyasztóvédelmi hatóság, a műszaki és metrológiai követelmények ellenőrzése tekintetében a mérésügyi hatóság;
 
 e) hitelesítési engedély: a hitelesítésre jogosult szerv által a típusvizsgálat alapján kiadott dokumentum annak igazolására, hogy a szeszfokmérő vagy az alkohol-sűrűségmérő típusa e jogszabályban előírt műszaki és metrológiai követelményeknek megfelel;
 
 f) hitelesítési bizonyítvány: a hitelesítésre jogosult szerv által kiadott dokumentum annak igazolására, hogy a szeszfokmérő, illetve alkohol-sűrűségmérő a hitelesítési eljárás során az előírt pontosságnak megfelelt;
 
-g)[^3] hitelesítésre jogosult szerv: a hitelesítési engedély és a hitelesítési bizonyítvány kiadására jogosult szerv, a mérésügyi törvény alapján a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága;
+g)[^4] hitelesítésre jogosult szerv: a hitelesítési engedély, illetve a hitelesítési bizonyítvány kiadására jogosult szerv;
 
 h) hitelesítés: a mérésügyről szóló 1991. évi XLV. törvény és a végrehajtására kiadott 127/1991. (X. 9.) Korm. rendeletben szabályozott eljárás.
 
-[^2]: A 2. § d) pontja a 27/2010. (XII. 31.) NGM rendelet 25. §-a szerint módosított szöveg.
-[^3]: A 2. § g) pontja a 27/2010. (XII. 31.) NGM rendelet 25. §-a szerint módosított szöveg.
+[^3]: A 2. § d) pontja a 27/2010. (XII. 31.) NGM rendelet 25. §-a szerint módosított szöveg.
+[^4]: A 2. § g) pontja a 9/2015. (III. 31.) NGM rendelet 24. §-ával megállapított szöveg.
