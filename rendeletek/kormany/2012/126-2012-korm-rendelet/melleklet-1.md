@@ -1,6 +1,6 @@
-## 6. §[^11]
+## 6. §[^12]
 
-1. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^12]
+1. melléklet a 126/2012. (VI. 26.) Korm. rendelethez[^13]
 
-[^11]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: Az 1. melléklet a 166/2012. (VII. 19.) Korm. rendelet 14. §-a, a 296/2012. (X. 17.) Korm. rendelet 61. §-a, a 394/2012. (XII. 20.) Korm. rendelet 58. §-a, a 67/2013. (III. 8.) Korm. rendelet 14. §-a, a 464/2013. (XII. 4.) Korm. rendelet 3. §-a, az 527/2013. (XII. 30.) Korm. rendelet 116. § (2) bekezdése, a 229/2014. (IX. 5.) Korm. rendelet 88. § (1) bekezdése és 89. § a)–b) pontja szerint módosított szöveg.
+[^12]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 28. § (2) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
