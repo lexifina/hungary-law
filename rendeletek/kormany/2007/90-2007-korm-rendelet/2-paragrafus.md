@@ -20,7 +20,8 @@ c) ne okozzon környezetveszélyeztetést, illetve környezetkárosodást.
 
 a) – amennyiben az az 1. § a) vagy b) pontja szerinti környezeti elemet érinti – a területi vízügyi hatóságot (a továbbiakban: vízügyi hatóság) és a területi vízügyi igazgatóságot (a továbbiakban: VIZIG),
 
-b) – amennyiben az az 1. § c)–g) pontja szerinti környezeti elemet érinti – a környezetvédelmi és természetvédelmi felügyelőséget (a továbbiakban: felügyelőség) és a Nemzeti Park Igazgatóságot (a továbbiakban: NPI)
+b)[^3] – amennyiben az az 1. § c)–g) pontja szerinti környezeti elemet érinti – a környezetvédelmi és természetvédelmi hatóságot (a továbbiakban együtt: környezetvédelmi hatóság) és a Nemzeti Park Igazgatóságot (a továbbiakban: NPI)
 
 [^1]: A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet. A felszíni vizek védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet. A természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló 91/2007. (IV. 26.) Korm. rendelet.
 [^2]: A 2. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés a) pontja szerint módosított szöveg.

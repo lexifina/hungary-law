@@ -1,10 +1,10 @@
-## 5. §[^8] A kárelhárításra való felkészülésben a környezethasználó és a vízügyi igazgatási, valamint a környezetvédelmi szervek feladataikat önállóan és e rendeletben meghatározott együttműködéssel hajtják végre.
+## 5. §[^9] A kárelhárításra való felkészülésben a környezethasználó és a vízügyi igazgatási, valamint a környezetvédelmi szervek feladataikat önállóan és e rendeletben meghatározott együttműködéssel hajtják végre.
 
 ## Kárelhárítási tervek
 
 6. § (1) A kárelhárítást – amennyiben rendelkezésre áll – üzemi és területi tervek alapján kell végrehajtani.
 
-(2)[^9] A kárelhárítási területi tervek készítésére
+(2)[^10] A kárelhárítási területi tervek készítésére
 
 a) az 1. § a) vagy b) pontja szerinti környezeti elem esetében a VIZIG,
 
@@ -14,11 +14,11 @@ köteles.
 
 (3) Üzemi terv készítésére e rendelet 2. számú melléklete szerinti tevékenység végzője köteles.
 
-(4)[^10] A felügyelőség vagy a vízügyi hatóság határozata alapján a 2. számú melléklet szerinti tevékenység végzőjén kívül üzemi tervet az a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (a továbbiakban: gazdálkodó szervezet) is köteles készíteni, amely által alkalmazott, a környezetet veszélyeztető technológia ezt indokolja.
+(4)[^11] A környezetvédelmi hatóság vagy a vízügyi hatóság határozata alapján a 2. számú melléklet szerinti tevékenység végzőjén kívül üzemi tervet az a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (a továbbiakban: gazdálkodó szervezet) is köteles készíteni, amely által alkalmazott, a környezetet veszélyeztető technológia ezt indokolja.
 
-(5)[^11] A területi és az üzemi tervet – amennyiben az érinti az 1. § a) vagy b) pontja szerinti környezeti elemet, a vízügyi hatóság szakhatósági közreműködésével – a felügyelőség hagyja jóvá.
+(5)[^12] A területi és az üzemi tervet – amennyiben az érinti az 1. § a) vagy b) pontja szerinti környezeti elemet, a vízügyi hatóság szakhatósági közreműködésével – a környezetvédelmi hatóság hagyja jóvá.
 
-[^8]: Az 5. § a 300/2011. (XII. 22.) Korm. rendelet 17. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés a) pontja szerint módosított szöveg.
-[^9]: A 6. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (5) bekezdésével megállapított szöveg.
-[^10]: A 6. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés b) pontja, a 42/2014. (II. 24.) Korm. rendelet 7. § (10) bekezdése szerint módosított szöveg.
-[^11]: A 6. § (5) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 5. § a 300/2011. (XII. 22.) Korm. rendelet 17. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (5) bekezdésével megállapított szöveg.
+[^11]: A 6. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés b) pontja, a 42/2014. (II. 24.) Korm. rendelet 7. § (10) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 6. § (5) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja szerint módosított szöveg.

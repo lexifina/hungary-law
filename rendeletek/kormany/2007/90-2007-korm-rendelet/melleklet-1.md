@@ -66,7 +66,7 @@ b) Dokumentációk:
 
 3. A kárelhárítási tervek tartalma
 
-a)[^37] Együttműködési terv:
+a)[^46] Együttműködési terv:
 
 – az üzemen belüli figyelőhálózat felépítése,
 
@@ -74,7 +74,7 @@ a)[^37] Együttműködési terv:
 
 – a kárelhárítás irányításáért felelős vezetők neve, beosztása, címe, telefonszáma, az üzemi kárelhárítási szervezetbe beosztott személyek neve, beosztása, címe, telefonszáma,
 
-– a területileg illetékes felügyelőség, megyei népegészségügyi szakigazgatási szerv, Nemzeti Élelmiszerlánc-biztonsági Hivatal, önkormányzat, tűzoltóság, polgári védelem, továbbá a területen működő VIZIG címe, telefon- és telefaxszáma,
+– a területileg illetékes környezetvédelmi hatóság, közegészségügyi hatáskörben eljáró fővárosi és megyei kormányhivatal, Nemzeti Élelmiszerlánc-biztonsági Hivatal, önkormányzat, tűzoltóság, polgári védelem, továbbá a területen működő VIZIG címe, telefon- és telefaxszáma,
 
 – az üzem területére történő belépés rendje,
 
@@ -106,4 +106,4 @@ d) Kárelhárítási anyagok és eszközök meghatározása:
 
 – az elhasznált kárelhárítási anyagokat és eszközöket a kárelhárítást követően azonnal pótolni kell.
 
-[^37]: Az 1. számú melléklet 3. pont a) alpontja az 527/2013. (XII. 30.) Korm. rendelet 49. § (15) bekezdésével megállapított szöveg.
+[^46]: Az 1. számú melléklet 3. pont a) alpontja az 527/2013. (XII. 30.) Korm. rendelet 49. § (15) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) és i) pontja szerint módosított szöveg.
