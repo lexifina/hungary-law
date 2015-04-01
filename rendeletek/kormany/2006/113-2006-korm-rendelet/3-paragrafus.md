@@ -2,11 +2,11 @@
 
 a) a közszolgálati jogviszonya hivatalvesztéssel járó fegyelmi büntetés következtében szűnt meg, a megszűnést követő 3 éven belül;
 
-b) élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vagy a NÉBIH felé lejárt pénzügyi tartozása van;
+b)[^17] megyei kormányhivatal vagy a NÉBIH felé lejárt pénzügyi tartozása van;
 
 c) a Magyar Állatorvosi Kamarában (a továbbiakban: kamara) betöltött tagsága megszűnt vagy azt felfüggesztették.
 
-(2) Amennyiben több állatorvos kérelmezi ugyanarra az ellátandó feladatra, illetve területre vonatkozóan a jogosult állatorvosi tevékenység ellátását, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a szerződés megkötésére irányuló javaslatát a (3) bekezdés c) pontjának, valamint annak figyelembevételével teszi meg, hogy az állatorvos
+(2)[^18] Amennyiben több állatorvos kérelmezi ugyanarra az ellátandó feladatra, illetve területre vonatkozóan a jogosult állatorvosi tevékenység ellátását, az megyei kormányhivatal a szerződés megkötésére irányuló javaslatát a (3) bekezdés c) pontjának, valamint annak figyelembevételével teszi meg, hogy az állatorvos
 
 a) hosszabb szakmai gyakorlattal rendelkezik-e;
 
@@ -14,7 +14,7 @@ b) nem követett el állatorvosi etikai vétséget;
 
 c) lakóhelye a jogosult állatorvosi tevékenység végzésének helyéhez közelebb található.
 
-(3) Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a szerződés megkötésére irányuló javaslatát a következő feltételek teljesülése mellett adja ki:
+(3)[^19] Az megyei kormányhivatal a szerződés megkötésére irányuló javaslatát a következő feltételek teljesülése mellett adja ki:
 
 a) a jogosult állatorvos tevékenysége a megye (főváros) területére terjedhet ki;
 
@@ -23,3 +23,6 @@ b) az 1. § szerinti feladatok ellátása a megye (főváros) területén minden
 c) az 1. § (4) bekezdésében foglalt feladatok esetében az az állatorvos lehet jogosult állatorvos, aki legalább 3 hónapos szakmai gyakorlattal rendelkezik az adott szakterületen.
 
 [^16]: A 3. § a 369/2012. (XII. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^17]: A 3. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 79. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 3. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 79. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^19]: A 3. § (3) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 79. § (3) bekezdés b) pontja szerint módosított szöveg.

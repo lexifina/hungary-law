@@ -1,6 +1,6 @@
 10. § (1) Ez a rendelet a kihirdetését követő 45. napon lép hatályba.
 
-(2)[^36]
+(2)[^42]
 
 (3) E rendelet – szabályozási tárgykörében – a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -8,7 +8,7 @@ a) az Európai Parlament és a Tanács 854/2004/EK rendelete (2004. április 29.
 
 b) az Európai Parlament és a Tanács 882/2004/EK rendelete (2004. április 29.) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről.
 
-Melléklet a 113/2006. (V. 12.) Korm. rendelethez[^37]
+Melléklet a 113/2006. (V. 12.) Korm. rendelethez[^43]
 
 | Iktatószám: |
 
@@ -92,9 +92,9 @@ Megbízott az 1.) pont e) alpontja szerinti húsvizsgálatot továbbá az alább
 
 Megbízott kijelenti, hogy a szerződés teljesítéséhez megfelelő szakértelemmel és gyakorlattal, továbbá a szükséges feltételekkel rendelkezik.
 
-4.) A Megbízott köteles a jelen szerződésben meghatározott feladatát a vonatkozó jogszabályok, eljárásrendek szerint, meghatározott határidőre, a szakmai és etikai szabályok, illetve az adott feladatra vonatkozó, a Megbízó vagy a Közreműködő Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága által kiadott konkrét utasítások szerint végezni.
+4.) A Megbízott köteles a jelen szerződésben meghatározott feladatát a vonatkozó jogszabályok, eljárásrendek szerint, meghatározott határidőre, a szakmai és etikai szabályok, illetve az adott feladatra vonatkozó, a Megbízó vagy a Közreműködő által kiadott konkrét utasítások szerint végezni.
 
-A jelen szerződésben foglalt feladatok ellátására utasítási joggal a Megbízó és a Közreműködő nevében annak Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága (továbbiakban ÉBAI) rendelkezik. Megbízó és az ÉBÁI bármikor jogosult Megbízott tevékenységét ellenőrizni, Megbízottól tevékenységéről tájékoztatást kérni. Megbízó és ÉBÁI utasítási, ellenőrzési és tájékoztatási jogát a 2.) pontban megjelölt teljesítés hely szerinti járási főállatorvos útján gyakorolja.
+A jelen szerződésben foglalt feladatok ellátására utasítási joggal a Megbízó nevében a Közreműködő is jogosult eljárni. Megbízó és a Közreműködő bármikor jogosult Megbízott tevékenységét ellenőrizni, Megbízottól tevékenységéről tájékoztatást kérni. Megbízó és a Közreműködő utasítási, ellenőrzési és tájékoztatási jogát a 2.) pontban megjelölt teljesítés hely szerinti járási hivatal útján gyakorolja.
 
 5.) A Megbízott feladata teljesítése során személyesen köteles eljárni.
 
@@ -114,7 +114,7 @@ A megbízási díj havi összege nem haladhatja meg a közszolgálati tisztvisel
 
 8.) Megbízott a jelen szerződés alapján elvégzett tevékenységéről havonta részletes kimutatást készít, melyben meg kell jelölnie az elvégzett feladatot, a teljesítés helyét és a feladat ellátására fordított munkaórák számát, amely nem haladhatja meg a jelen megállapodás mellékletében meghatározott mértéket, továbbá fel kell tüntetni az egyes feladatokhoz kapcsolódó igazgatási szolgáltatási díjakról kiállított számla számát és összegét, csatolva a kiadott igazolások másolati példányát, illetve a megfelelő bizonylatokat. A Megbízott a havi tevékenységéről készített kimutatást és az az alapján számított megbízási díjról kiállított számlát a tárgyhót követő hónap 6. napjáig köteles benyújtani a Közreműködő részére.
 
-A Megbízott tevékenységének szakmai teljesítési igazolására az ÉBÁI jogosult, a 2.) pontban megjelölt teljesítési hely szerinti járási főállatorvos véleményének kikérésével, a Megbízott által kiállított számlák alapján beszedett igazgatási szolgáltatási díjjal való elszámolást követően. Megbízott tudomásul veszi, hogy mindaddig, amíg a beszedett igazgatási szolgáltatási díjakkal nem számol el, a Közreműködő a szakmai teljesítési igazolás kiállítását megtagadhatja, így addig a megbízási díj kifizetésre sem kerülhet sor.
+A Megbízott tevékenységének szakmai teljesítési igazolására a Közreműködő jogosult, a 2.) pontban megjelölt teljesítési hely szerinti járási hivatal véleményének kikérésével, a Megbízott által kiállított számlák alapján beszedett igazgatási szolgáltatási díjjal való elszámolást követően. Megbízott tudomásul veszi, hogy mindaddig, amíg a beszedett igazgatási szolgáltatási díjakkal nem számol el, a Közreműködő a szakmai teljesítési igazolás kiállítását megtagadhatja, így addig a megbízási díj kifizetésre sem kerülhet sor.
 
 Amennyiben a Közreműködőnek kifogása merül fel a Megbízott által kiállított számlával kapcsolatban, vagy a szakmai teljesítés igazolás kiállításának egyéb akadálya van, köteles arról a Megbízottat a számla kézhezvételétől számított 5 munkanapon belül értesíteni és az esetleges vitás kérdésekben egyeztetni.
 
@@ -206,5 +206,5 @@ A jogosult állatorvosi tevékenység során elszámolható munkaórák
 
 |  | 13. | Vágópontok felügyelete | 2 |
 
-[^36]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 316. pontja hatályon kívül helyezte.
-[^37]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése, a 98/2014. (III. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^42]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 316. pontja hatályon kívül helyezte.
+[^43]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése, a 98/2014. (III. 25.) Korm. rendelet 3. §-a, a 70/2015. (III. 30.) Korm. rendelet 79. § (4)–(5) bekezdése szerint módosított szöveg.
