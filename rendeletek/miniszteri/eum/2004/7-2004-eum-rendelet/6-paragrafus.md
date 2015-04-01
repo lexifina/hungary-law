@@ -8,12 +8,12 @@ b) azt, hogy a gyógyászati segédeszköz használati értéke megegyezzen az u
 
 (3) Az alapvető életfunkciók fenntartására szolgáló kölcsönzött gyógyászati segédeszközök meghibásodása esetén a forgalmazó köteles a bejelentést követően, az alapvető életfunkciók fenntartását biztosító időn belül az eszköz javítását elvégezni, illetve ha az eszköz az alapvető életfunkciók fenntartását biztosító időn belül nem javítható, csereeszközt biztosítani.
 
-(4)[^16] A kölcsönzött – külön jogszabály szerinti – ápolási gyógyászati segédeszközök meghibásodása esetén – amennyiben az eszköz helyszíni javítása nem lehetséges – a kölcsönbe adó köteles a bejelentést követő 48 órán belül, a hét utolsó munkanapján érkezett bejelentés esetén a következő hét első munkanapján csereeszközt biztosítani.
+(4)[^17] A kölcsönzött – külön jogszabály szerinti – ápolási gyógyászati segédeszközök meghibásodása esetén – amennyiben az eszköz helyszíni javítása nem lehetséges – a kölcsönbe adó köteles a bejelentést követő 48 órán belül, a hét utolsó munkanapján érkezett bejelentés esetén a következő hét első munkanapján csereeszközt biztosítani.
 
-(5)[^17] Testen viselt gyógyászati segédeszköz nem kölcsönözhető.
+(5)[^18] Testen viselt gyógyászati segédeszköz nem kölcsönözhető.
 
-(6)[^18] Amennyiben a gyógyászati segédeszköz javítása a szaküzletben történik, a forgalmazónak az ügyfélfogadásra alkalmas résztől elkülönített műhellyel kell rendelkeznie.
+(6)[^19] Amennyiben a gyógyászati segédeszköz javítása a szaküzletben történik, a forgalmazónak az ügyfélfogadásra alkalmas résztől elkülönített műhellyel kell rendelkeznie.
 
-[^16]: A 6. § új (4) bekezdését a 8/2008. (III. 4.) EüM rendelet 9. §-a iktatta be, egyidejűleg az eredeti (4)–(5) bekezdésének számozását (5)–(6) bekezdésre változtatta. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
-[^17]: A 6. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 8/2008. (III. 4.) EüM rendelet 9. §-a.
-[^18]: A 6. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 8/2008. (III. 4.) EüM rendelet 9. §-a.
+[^17]: A 6. § új (4) bekezdését a 8/2008. (III. 4.) EüM rendelet 9. §-a iktatta be, egyidejűleg az eredeti (4)–(5) bekezdésének számozását (5)–(6) bekezdésre változtatta. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
+[^18]: A 6. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 8/2008. (III. 4.) EüM rendelet 9. §-a.
+[^19]: A 6. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 8/2008. (III. 4.) EüM rendelet 9. §-a.
