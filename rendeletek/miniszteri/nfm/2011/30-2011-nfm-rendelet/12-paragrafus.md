@@ -6,6 +6,6 @@
 
 (2) E rendelet 16. §-a 2014. január 1. napján lép hatályba.
 
-(3)[^6]
+(3)[^8]
 
-[^6]: A 12. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 12. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

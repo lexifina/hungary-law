@@ -1,3 +1,3 @@
-## 13. §[^7]
+## 13. §[^9]
 
-[^7]: A 13. §-t a 12. § (3) bekezdése hatályon kívül helyezte.
+[^9]: A 13. §-t a 12. § (3) bekezdése hatályon kívül helyezte.

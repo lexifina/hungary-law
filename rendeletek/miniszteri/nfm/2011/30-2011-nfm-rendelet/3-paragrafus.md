@@ -18,6 +18,7 @@ szerinti követelményeknek.
 
 (4)[^3] A motorhajtóanyag metilciklopentadienil-mangán-trikarbonil adalékának mangántartalma nem haladhatja meg a 2 mg/liter értéket.
 
-(5) Ha a kőolaj-finomítók esetében a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 1993. évi XLIX. törvény 41. § (3) bekezdésében meghatározott ellátási válsághelyzet az (1) és (4) bekezdésben foglalt minőségi követelmények betartását megnehezíti, a minőségi követelmények teljesüléséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) tájékoztatja az Európai Bizottságot.
+(5)[^4] Ha a kőolaj-finomítók esetében a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 1. § 5. pontjában meghatározott ellátási válsághelyzet az (1) és (4) bekezdésben foglalt minőségi követelmények betartását megnehezíti, a minőségi követelmények teljesüléséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) tájékoztatja az Európai Bizottságot.
 
 [^3]: A 3. § (4) bekezdése a 16. §-sal megállapított szöveg.
+[^4]: A 3. § (5) bekezdése a 15/2015. (III. 31.) NFM rendelet 24. § a) pontja szerint módosított szöveg.
