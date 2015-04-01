@@ -60,7 +60,7 @@ ad) foglalkozás-egészségügyi alkalmassága mértékét, és ez alapján eset
 
 ae) eddig betöltött munkaköreit,
 
-af) a munkaügyi központtal történő együttműködésére vonatkozó adatokat,
+af) az állami foglalkoztatási szervvel történő együttműködésére vonatkozó adatokat,
 
 ag) a (4) bekezdés alapján megállapított prioritási szintjét,
 

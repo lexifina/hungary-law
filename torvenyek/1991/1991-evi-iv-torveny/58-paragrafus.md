@@ -106,7 +106,7 @@ c) a munkaviszonynak a munkaadó részéről felmondással történő megszünte
 
 d) munkaviszony létesítéséhez szükséges feltételekkel az a személy rendelkezik, aki az Mt. alapján munkaviszonyt létesíthet.
 
-(7) Ahol jogszabály munkaügyi szakigazgatási szervet, munka- vagy munkaerőközvetítő szervet, munkaügyi szolgáltató irodát említ, ezen az állami foglalkoztatási szervet kell érteni.
+(7)
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 

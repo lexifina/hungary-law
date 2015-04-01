@@ -2,7 +2,7 @@
 
 a) az a munkaadó, munkavállaló, egyéb szerv, illetőleg személy, aki e törvényben, valamint a felhatalmazása alapján hozott jogszabályban, az Mt. 74. §-ában és 215. § (1) bekezdésében, továbbá közigazgatási határozatban, hatósági szerződésben meghatározott bejelentési [kivéve a 8. § (6) bekezdés b) pontjában, valamint a 36. § (1) bekezdésében meghatározott kötelezettséget], nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat;
 
-b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget, valamint a munkavállalók felé fennálló munkabértartozással összefüggésben a munkaügyi központ részére a valóságnak nem megfelelő adatot szolgáltat.
+b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget, valamint a munkavállalók felé fennálló munkabértartozással összefüggésben az állami foglalkozatási szerv részére a valóságnak nem megfelelő adatot szolgáltat.
 
 (2) A rendbírság összege 5000 forinttól 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a rendbírságot munkavállalónként kell kiszabni.
 

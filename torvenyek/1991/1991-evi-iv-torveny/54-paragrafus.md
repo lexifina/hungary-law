@@ -50,7 +50,7 @@ g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
 a) a három órát, illetve tíz éven aluli gyermeket nevelő nő és tíz éven aluli gyermeket egyedül nevelő férfi álláskereső esetében a két órát meghaladja, és a munkavégzés helyére és onnan a közfoglalkoztatott lakóhelyére történő térítésmentes szállításról, vagy
 
-b) a négy órát meghaladja, és a munkavégzés helyétől számított 20 km-es távolságon belül az illetékes és megyei kormányhivatal népegészségügyi szakigazgatási szerve által kiadott engedélynek megfelelő térítésmentes elhelyezésről, tisztálkodási és étkezési lehetőségről
+b) a négy órát meghaladja, és a munkavégzés helyétől számított 20 km-es távolságon belül a népegészségügyi feladatkörében eljáró illetékes fővárosi és megyei kormányhivatal által kiadott engedélynek megfelelő térítésmentes elhelyezésről, tisztálkodási és étkezési lehetőségről
 
 a foglalkoztató gondoskodik.
 
@@ -90,7 +90,7 @@ i)
 
 (14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása – a (18) bekezdésben foglaltak figyelembe vételével – szünetel, ha az álláskereső
 
-a) a munkaügyi központ által támogatott, vagy az állami felnőttképzési szerv által szervezett képzésben vesz részt,
+a) az állami foglalkoztatási szerv által támogatott, vagy az állami felnőttképzési szerv által szervezett képzésben vesz részt,
 
 b) rövid, 90 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
 
