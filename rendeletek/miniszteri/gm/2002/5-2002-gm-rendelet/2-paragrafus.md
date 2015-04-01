@@ -8,6 +8,6 @@ a) honosított harmonizált szabvány: az európai szabványügyi szervezetek á
 
 b) műszaki dokumentáció: a hűtőkészülék-típushoz összeállított irat, amely tartalmazza a hűtőkészülék azonosító adatait, tervezési jellemzőit, valamint a villamosenergia-fogyasztás mérési adatait és azok összehasonlítását, az e rendeletben meghatározott követelményekkel,
 
-c)[^1] fogyasztóvédelmi hatóság: a Nemzeti Fogyasztóvédelmi Hatóság és a fogyasztóvédelmi felügyelőségek.
+c)[^1] fogyasztóvédelmi hatóság: a Nemzeti Fogyasztóvédelmi Hatóság és a fogyasztóvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal.
 
-[^1]: A 2. § c) pontja a 27/2010. (XII. 31.) NGM rendelet 31. §-a szerint módosított szöveg.
+[^1]: A 2. § c) pontja a 9/2015. (III. 31.) NGM rendelet 30. §-a szerint módosított szöveg.
