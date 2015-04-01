@@ -2,7 +2,7 @@
 
 a) a vállalkozás üzleti tervét,
 
-b)[^14] a földművelésügyi igazgatóság igazolását a 6. § a) és b) pontjaiban előírt feltételek meglétéről.
+b)[^14] a megyei kormányhivatal igazolását a 6. § a) és b) pontjaiban előírt feltételek meglétéről.
 
 (2) Az üzleti terv részeként a gazdahitel programnak kiemelten tartalmazni kell:
 
@@ -20,7 +20,7 @@ d)[^15] az üzleti terv szerves részét képező ötéves likviditási tervet.
 
 (5)[^19] A kezességvállalás és a kamattámogatás tényleges mértékére vonatkozó döntést a hitelintézet javaslata alapján a minisztérium hozza meg.
 
-[^14]: A 8. § (1) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
+[^14]: A 8. § (1) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 68. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^15]: A 8. § (2) bekezdésének d) pontja a 32/2006. (II. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^16]: A 8. § (3) bekezdését a 32/2006. (II. 15.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^17]: A 8. § (4) bekezdése a 183/2000. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -62,8 +62,8 @@ A beszámolóhoz mellékelni kell:
 
 – a hitelintézeti szerződés másolatát (csak 2001-ben),
 
-– az a Földművelésügyi Igazgatóság igazolását a szövetkezeti tagok regisztrációjáról a beszámolási évben,
+– az a megyei kormányhivatal igazolását a szövetkezeti tagok regisztrációjáról a beszámolási évben,
 
 – a közgyűlés által elfogadott éves beszámoló másolatát.
 
-[^58]: Az 5. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 69. §-a szerint módosított szöveg.
+[^58]: Az 5. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, a 70/2015. (III. 30.) Korm. rendelet 41. § e) pontja szerint módosított szöveg.
