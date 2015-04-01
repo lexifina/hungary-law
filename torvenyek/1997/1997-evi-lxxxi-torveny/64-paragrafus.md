@@ -16,7 +16,7 @@
 
 (7)
 
-(8) Egészségi állapottól függő nyugellátás esetén az igénylő az igény elbírálása során, illetve a nyugdíjas a felülvizsgálat során – a jogkövetkezményekről való tájékoztatás mellett – a rehabilitációs szakértői szerv vizsgálatán történő személyes megjelenésre kötelezhető. Ha az igénylő, illetve a nyugdíjas a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, a nyugellátás megállapítása iránti eljárást meg kell szüntetni, illetve felülvizsgálat esetén az ellátást az erről szóló elsőfokú határozat keltét követő hónap első napjával meg kell szüntetni.
+(8) Egészségi állapottól függő nyugellátás esetén az igénylő az igény elbírálása során, illetve a nyugdíjas a felülvizsgálat során – a jogkövetkezményekről való tájékoztatás mellett – az egészségi állapot vizsgálata céljából történő személyes megjelenésre kötelezhető. Ha az igénylő, illetve a nyugdíjas a személyes megjelenési kötelezettségének önhibájából nem tesz eleget, a nyugellátás megállapítása iránti eljárást meg kell szüntetni, illetve felülvizsgálat esetén az ellátást az erről szóló elsőfokú határozat keltét követő hónap első napjával meg kell szüntetni.
 
 (9) Egészségi állapottól függő nyugellátás esetén a jogosultság felülvizsgálata soron kívül is elrendelhető, ha olyan tény vagy körülmény jut a nyugdíjbiztosítási igazgatási szerv tudomására, amely valószínűsíti, hogy a korábban megállapított munkaképesség-csökkenés, egészségkárosodás, illetve egészségiállapot-romlás nem áll fenn, vagy az a megállapítottnál kisebb mértékű.
 

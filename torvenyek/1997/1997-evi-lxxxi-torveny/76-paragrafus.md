@@ -1,1 +1,1 @@
-76. § A nyugellátásnak a rehabilitációs szakértői szerv vizsgálata alapján történő megszüntetését az erről szóló elsőfokú határozat keltét követő második hónap első napjától kell végrehajtani.
+76. § Ha a hozzátartozói nyugellátást azért szüntetik meg, mert a nyugellátásban részesülő személy már nem megváltozott munkaképességű, a megszüntetést az erről szóló elsőfokú határozat keltét követő második hónap első napjától kell végrehajtani.
