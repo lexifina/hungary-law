@@ -12,11 +12,13 @@ a) pártfogó felügyelői vélemény beszerzését [Bv. tv. 57. § (2) bekezdé
 
 b) az elítélt pártfogó felügyeletét [Bv. tv. 57. § (4) bekezdés]
 
-## rendeli el, a pártfogó felügyelői vélemény elkészítésére az elítélt magyarországi lakóhelye vagy tartózkodási helye szerint illetékes bv. intézetet rendeli ki. A pártfogó felügyelői véleményt a bv. intézet vezetője által kijelölt büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységet végző pártfogó felügyelő (a továbbiakban: büntetés-végrehajtási pártfogó felügyelő) készíti el.
+rendeli el, a pártfogó felügyelői vélemény elkészítésére az elítélt magyarországi lakóhelye vagy tartózkodási helye szerint illetékes bv. intézetet rendeli ki. A pártfogó felügyelői véleményt a bv. intézet vezetője által kijelölt büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységet végző pártfogó felügyelő (a továbbiakban: büntetés-végrehajtási pártfogó felügyelő) készíti el.
 
 (2) A fiatalkorú felkészítő részlegbe helyezését megelőzően a bv. intézet megkeresésére a büntetés-végrehajtási pártfogó felügyelő környezettanulmányt készít. A környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében azt mutatja be, hogy a nevelési terv és az abban foglalt intézkedések a szabadulás után miként szolgálhatnák a legkedvezőbben a bűnismétlés megelőzését. Ebben az esetben a büntetés-végrehajtási pártfogó felügyelő kockázatértékelést nem végez; a környezettanulmány ilyenkor nem tartalmaz IV–VI. részt.
 
 (3) Ha a bv. intézet a szabadságvesztés végrehajtásának félbeszakítását megelőzően kér környezettanulmányt, a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében elsősorban azt mutatja be, hogy az elítélt kérelmében foglaltak megfelelnek-e a valóságnak, továbbá annak tejesítéséhez fűződik-e a büntetés-végrehajtás eredményességét fokozó köz- és személyes érdek.
+
+(3a)[^80] A reintegrációs őrizet elrendelésére vonatkozó előterjesztésnek, illetve az ilyen irányú kérelem véleményezésének a megalapozása érdekében elrendelt környezettanulmány elkészítése során a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a büntetés-végrehajtási pártfogó felügyelő a szakmai ténymegállapítások keretében és az összegző értékelésben azt mutatja be, hogy a befogadó környezet megfelelően szolgálja-e az elítélt társadalmi visszailleszkedését, és hogy a büntetés célja a reintegrációs őrizet elrendelése esetén megvalósulhat-e. Ebben az esetben a büntetés-végrehajtási pártfogó felügyelő az 59. §-ban meghatározott kockázatelemzést, illetve kockázatértékelést a bűnismétlési kockázatok megállapítása érdekében végzi.
 
 (4) A büntetés-végrehajtási pártfogó felügyelőre, illetve az általa készített pártfogó felügyelői véleményre, környezettanulmányra, valamint az általa végzett pártfogó felügyeletre e jogszabály pártfogó felügyelőre, pártfogó felügyelői véleményre, környezettanulmányra és pártfogó felügyeletre vonatkozó rendelkezéseit e fejezetben lévő eltérésekkel kell megfelelően alkalmazni.
 
@@ -52,3 +54,4 @@ d) 52. § a) pont ab) alpontjában
 
 [^78]: A 62. § a 19/2014. (XII. 22.) IM rendelet 34. § 29. pontja szerint módosított szöveg.
 [^79]: A VII/A. fejezetet (62/A–62/M. §) a 19/2014. (XII. 22.) IM rendelet 33. § (1) bekezdése iktatta be.
+[^80]: A 62/A. § (3a) bekezdését a 6/2015. (III. 30.) IM rendelet 1. §-a iktatta be.

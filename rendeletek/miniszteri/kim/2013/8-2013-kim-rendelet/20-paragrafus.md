@@ -10,4 +10,4 @@
 
 [^26]: A 20. § (1) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 6. pontja szerint módosított szöveg.
 [^27]: A 20. § (2) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 7. pontja szerint módosított szöveg.
-[^28]: A 20. § (3) bekezdését a 19/2014. (XII. 22.) IM rendelet 37. § b) pontja hatályon kívül helyezte.
+[^28]: A 20. § (3( bekezdését a 19/2014. (XII. 22.) IM rendelet 37. § b) pontja hatályon kívül helyezte.
