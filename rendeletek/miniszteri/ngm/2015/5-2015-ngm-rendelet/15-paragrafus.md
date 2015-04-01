@@ -10,13 +10,13 @@ b) azt is, ha az (1) bekezdés szerinti termékegység fuvarozása a feladási c
 
 (3) Egy termékegység több vámtarifaszámmal azonosított termékfajtát, valamint több terméktételt tartalmazhat.
 
-(4)–(6)[^5]
+(4)–(6)[^2]
 
 (7) Az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja vagy az általa kijelölt személyek által teljesített bejelentés alapján az állami adó- és vámhatóság az EKAER számot az EKAER elektronikus felületen megállapítja és az adómegállapításhoz való jog elévülési idején belül tárolja.
 
-(8)[^6]
+(8) Az EKAER számot – a 15 napos érvényességi ideje alatt az érvénytelenítés indokának megadásával – érvénytelenítheti az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja, valamint az általa erre a 14. § (2) bekezdése szerint kijelölt személy.
 
-(9) A megrendelés meghiúsulása esetén az EKAER számot – a 15 napos érvényességi ideje alatt – érvénytelenítheti az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja, valamint az általa erre a 14. § (2) bekezdése szerint kijelölt személy.
+(9)[^3]
 
-[^5]: A 15. § (4)–(6) bekezdése a 20. § (4) bekezdése alapján 2015. június 1-jén lép hatályba.
-[^6]: A 15. § (8) bekezdése a 20. § (3) bekezdése alapján 2015. április 1-jén lép hatályba.
+[^2]: A 15. § (4)–(6) bekezdése a 20. § (4) bekezdése alapján 2015. június 1-jén lép hatályba.
+[^3]: A 15. § (9) bekezdését a 22. § b) pontja hatályon kívül helyezte.

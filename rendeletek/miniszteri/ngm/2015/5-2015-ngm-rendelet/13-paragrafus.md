@@ -2,7 +2,7 @@
 
 13. § (1) Belföldi feladási címről belföldi átvételi címre történő közúti fuvarozással járó termékértékesítés esetén a 7. § (1) bekezdés b)–g), i)–k) és m) pontjában meghatározott adatokat a feladó köteles bejelenteni az állami adó- és vámhatósághoz. A 3. § (3) bekezdése szerinti esetben azt a feladót terheli a bejelentési kötelezettség, aki (amely) a terméket elfuvarozza vagy elfuvaroztatja.
 
-(2)[^4]
+(2) Ha a nem kockázatos terméket a címzett fuvarozza vagy fuvaroztatja, a bejelentési kötelezettség a címzettet terheli. A 3. § (3) bekezdése szerinti esetben azt a címzettet terheli a bejelentési kötelezettség, aki (amely) a terméket elfuvarozza vagy elfuvaroztatja.
 
 (3) Az EKAER szám megállapítása érdekében a 7. § (1) bekezdés b)–g), i) és m) pontjaiban meghatározott adatok bejelentése szükséges.
 
@@ -25,5 +25,3 @@ b) a 7. § (1) bekezdés g) pont gc) alpontjábanés a 7. § (1) bekezdés i) é
 (7) A (6) bekezdés szerinti módosítást az arra okot adó körülmény bekövetkezését követően haladéktalanul be kell jelenteni. Az állami adó- és vámhatóság által lefolytatott ellenőrzés során az EKAER szám alatt az aktuális, valós adatoknak kell szerepelniük, ezért a bejelentésre kötelezett tartozik felelősséggel.
 
 (8) Az EKAER szám a megállapításától számított 15 napig érvényes.
-
-[^4]: A 13. § (2) bekezdése a 20. § (3) bekezdése alapján 2015. április 1-jén lép hatályba.
