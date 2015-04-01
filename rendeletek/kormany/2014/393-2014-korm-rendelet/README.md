@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-393-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-01-01 | 2014-393-20-22.1 | 393/2014. (XII. 31.) Korm. rendelet |
+| 2015-04-01 | 2014-393-20-22.2 | 72/2015. (III. 30.) Korm. rendelet |
