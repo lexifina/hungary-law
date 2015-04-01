@@ -8,6 +8,6 @@ c) a szóbeli tájékoztatás a létesítményben elérhető írásos dokumentum
 
 (2) Az allergiát vagy intoleranciát okozó anyagok és termékek késztermékben való jelenlétére vonatkozó tájékoztatás szóbeli megadása esetén a nem előrecsomagolt élelmiszer eladásra kínálásának helyén jól látható módon, fizikai vagy elektronikus hordozón fel kell tüntetni, hogy az allergiát vagy intoleranciát okozó anyagok és termékek késztermékben való jelenlétére vonatkozó tájékoztatás szóbeli megadása az élelmiszer eladásra kínálásának helyén kérhető.
 
-(3)[^3]
+(3)[^1]
 
-[^3]: Az 5. § (3) bekezdése a 9. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^1]: Az 5. § (3) bekezdése a 9. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
