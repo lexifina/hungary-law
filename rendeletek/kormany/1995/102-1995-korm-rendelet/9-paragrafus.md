@@ -1,17 +1,14 @@
-9. § (1)[^28] A FOB tagja az orvosszakértői szerv kijelölt szakértői bizottságának két orvosszakértője, akik közül az elnök a beteg fődiagnózisa szerint illetékes szakorvos.
+9. § (1)[^35] Az orvosszakértői feladatkörében eljáró fővárosi és megyei kormányhivatal a 4. §, a 7. § (5) bekezdése, valamint a 8. § (1) és (2) bekezdése szerinti feladatai ellátása érdekében főorvosi bizottságot (a továbbiakban: FOB) működtet. A FOB tagja az orvosszakértői szerv két orvosszakértője, akik közül az elnök a beteg fődiagnózisa szerint illetékes szakorvos.
 
 (2) A FOB a döntését a rendelkezésére álló orvosi dokumentáció alapján hozza. Szükség esetén a beteget vizsgálatra berendelheti, a fekvőbeteget az ápolás helyén megvizsgálhatja.
 
-(3)[^29]
+(3)[^36]
 
-(4)[^30] A FOB működésének helye az orvosszakértői szerv székhelye, telephelye. A FOB munkarendjét az orvosszakértői szerv vezetője határozza meg, az OEP főigazgatójával egyetértésben.
+(4)–(5)[^37]
 
-(5)[^31] A FOB naponta ülésezik, döntése végleges.
+(6)[^38] A FOB a beteg keresőképtelenségéről hozott döntését a vizsgálat lezárásával egyidejűleg írásban közli.
 
-(6)[^32] A FOB a beteg keresőképtelenségéről hozott döntését a vizsgálat lezárásával egyidejűleg írásban közli.
-
-[^28]: A 9. § (1) bekezdése a 252/2003. (XII. 23.) Korm. rendelet 8. §-ának (1) bekezdésével megállapított, a 213/2007. (VIII. 7.) Korm. rendelet 18. § d) pontjának dg) alpontja, a 332/2010. (XII.27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^29]: A 9. § (3) bekezdését a 252/2003. (XII. 23.) Korm. rendelet 15. §-ának (2) bekezdése hatályon kívül helyezte.
-[^30]: A 9. § (4) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 5. § b) pontja, 351/2010. (XII. 30.) Korm. rendelet 28. § e) pontja, a 95/2012. (V. 15.) Korm. rendelet 27. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
-[^31]: A 9. § (5) bekezdése a 217/1997. (XII. 1.) Korm. rendelet 51. §-a (3) bekezdésének b) pontja szerint módosított szöveg.
-[^32]: A 9. § (6) bekezdését a 252/2003. (XII. 23.) Korm. rendelet 8. §-ának (2) bekezdése iktatta a szövegbe.
+[^35]: A 9. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 15. § (10) bekezdésével megállapított szöveg.
+[^36]: A 9. § (3) bekezdését a 252/2003. (XII. 23.) Korm. rendelet 15. §-ának (2) bekezdése hatályon kívül helyezte.
+[^37]: A 9. § (4)–(5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 15. § (13) bekezdés c) pontja hatályon kívül helyezte.
+[^38]: A 9. § (6) bekezdését a 252/2003. (XII. 23.) Korm. rendelet 8. §-ának (2) bekezdése iktatta a szövegbe.

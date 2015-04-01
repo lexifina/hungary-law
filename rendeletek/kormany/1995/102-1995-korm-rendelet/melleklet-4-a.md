@@ -14,15 +14,15 @@
 
 ## V.
 
-## Kérjük, hogy az OEP illetékes felülvéleményező főorvosával is véleményeztesse a beteget!
+## Kérjük, hogy a kormányhivatal felülvéleményező főorvosával is véleményeztesse a beteget!
 
-| Az OEP ellenőrző vagy felülvéleményező főorvosának véleménye |
+| A kormányhivatal szakértő vagy felülvéleményező főorvosának véleménye |
 
-4/A. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^51]
+4/A. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^57]
 
 ## ORVOSI BEUTALÓ
 
-## a rehabilitációs szakértői szerv szakértői bizottságához a súlyos fogyatékosság véleményezése céljából
+## a rehabilitációs szakértői szervhez a súlyos fogyatékosság véleményezése céljából
 
 I. Személyi adatok
 
@@ -102,4 +102,4 @@ h) ⬜ kromoszóma-rendellenesség.
 
 IV. A beutalót kiállító orvos adatai
 
-[^51]: A 4/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^57]: A 4/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés l) pontja szerint módosított szöveg.

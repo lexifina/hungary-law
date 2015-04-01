@@ -42,7 +42,7 @@
 
 ## – az orvos specifikus bélyegző lenyomatát.
 
-## Heti jelentés a keresőképtelen állományba vett esetekről[^48]
+## Heti jelentés a keresőképtelen állományba vett esetekről[^54]
 
 | Heti jelentés a keresőképtelen állományba vett esetekről |
 
@@ -102,7 +102,7 @@
 
 |  | orvos aláírása |  | pecsét lenyomata |
 
-## Heti jelentés a keresőképtelen állományból kiírt esetekről[^49]
+## Heti jelentés a keresőképtelen állományból kiírt esetekről[^55]
 
 | Heti jelentés a keresőképtelen állományból kiírt esetekről |
 
@@ -160,11 +160,11 @@
 
 |  | orvos aláírása |  | pecsét lenyomata |
 
-4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^50]
+4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^56]
 
 ## ORVOSI BEUTALÓ
 
-## az orvosszakértői szerv szakértői bizottságához, illetve FOB-hoz a munkaképesség-változás vagy a keresőképesség felülvéleményezése céljából
+## az orvosszakértői szervhez, illetve FOB-hoz a munkaképesség-változás vagy a keresőképesség felülvéleményezése céljából
 
 I. Személyi adatok
 
@@ -278,6 +278,6 @@ címe: .........................................................................
 
 IV. A beutalót kiállító orvos adatai
 
-[^48]: Lásd 1999. MK 71. szám 4582. oldal.
-[^49]: Lásd 1999. MK 71. szám 4583. oldal.
-[^50]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^54]: Lásd 1999. MK 71. szám 4582. oldal.
+[^55]: Lásd 1999. MK 71. szám 4583. oldal.
+[^56]: A 4. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 95/2013. (III. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés i)–k) pontja szerint módosított szöveg.

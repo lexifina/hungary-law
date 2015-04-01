@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-102-20-
 | 2012-07-01 | 1995-102-20-22.14 | 95/2012. (V. 15.) Korm. rendelet |
 | 2013-04-01 | 1995-102-20-22.15 | 95/2013. (III. 29.) Korm. rendelet |
 | 2015-01-01 | 1995-102-20-22.16 | 364/2014. (XII. 30.) Korm. rendelet |
+| 2015-04-01 | 1995-102-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |

@@ -32,7 +32,7 @@
 
 ## * Ezt az Igazolást a fekvőbeteg-gyógyintézetben a betegség megállapítása, gyógykezelés, rehabilitáció, illetve szülészeti ellátás esetén kell kiállítani.
 
-8. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^55]
+8. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^61]
 
 HETI JELENTÉS REKORDKÉPE
 
@@ -86,4 +86,4 @@ fájlformátum: K9999999.ÉHH
 
 Fájlnév képzése az 1. karakter mindig K, a 2. karakter a flopi sorszáma, 3–4. a megyekód, a 5–8. a működési kód utolsó 4 számjegye.
 
-[^55]: A 8. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^61]: A 8. számú mellékletet a 252/2003. (XII. 23.) Korm. rendelet 13. §-a iktatta be.

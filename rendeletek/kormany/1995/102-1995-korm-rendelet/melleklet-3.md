@@ -60,6 +60,6 @@
 
 | Veszélyeztetett terhesség | „9 |
 
-3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^47]
+3. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^53]
 
-[^47]: A 3. számú mellékletet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (3) bekezdése, valamint 3. számú melléklete iktatta a szövegbe.
+[^53]: A 3. számú mellékletet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (3) bekezdése, valamint 3. számú melléklete iktatta a szövegbe.
