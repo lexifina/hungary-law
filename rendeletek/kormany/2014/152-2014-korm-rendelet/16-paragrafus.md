@@ -4,7 +4,7 @@
 
 a) az építésügyi és építésfelügyeleti hatóságok és
 
-b) – a területfejlesztéssel kapcsolatos feladatok tekintetében a területfejlesztés stratégiai tervezéséért felelős miniszterrel együttműködve – az állami főépítészek
+b)[^16] – a területfejlesztéssel kapcsolatos feladatok tekintetében a területfejlesztés stratégiai tervezéséért felelős miniszterrel együttműködve – az állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal
 
 tevékenységét.
 
@@ -17,3 +17,4 @@ b) gyakorolja az Országos Építésügyi Nyilvántartás és az Építésügyi 
 c) ellátja az építésüggyel összefüggő oktatási, továbbképzési és tanügy igazgatási feladatokat, továbbá közreműködik a nemzeti szabványok kidolgozásában.
 
 [^15]: A 16. § a 221/2014. (IX. 4.) Korm. rendelet 819. §-ával megállapított szöveg.
+[^16]: A 16. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 249. § (1) bekezdésével megállapított szöveg.
