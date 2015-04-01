@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-226-20-
 | 2013-08-01 | 2006-226-20-22.18 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2013-12-01 | 2006-226-20-22.19 | 369/2013. (X. 24.) Korm. rendelet |
 | 2015-01-01 | 2006-226-20-22.20 | 353/2014. (XII. 29.) Korm. rendelet |
+| 2015-04-01 | 2006-226-20-22.21 | 415/2015. (XII. 23.) Korm. rendelet |
