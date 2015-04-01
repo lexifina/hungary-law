@@ -1,3 +1,3 @@
 1. számú melléklet a 150/2006. (VII. 21.) Korm. rendelethez[^4]
 
-[^4]: Az 1. számú melléklet az 527/2013. (XII. 30.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
