@@ -14,7 +14,7 @@ ba) ezt 30 napnál nem régebben kiállított közokirattal igazolja, vagy
 
 bb) szerepel a köztartozásmentes adózói adatbázisban,
 
-c)[^26] a támogatással megvalósítani tervezett sportfejlesztési programjának bemutatását, célját, megnevezését, tervezett megvalósításának helyét, részletes megvalósítási tervét, amennyiben költségként elszámolandó, akkor általános forgalmi adót is tartalmazó összköltségének tervét, a megvalósítás és a finanszírozás időbeli ütemezését, valamint az építési beruházást is tartalmazó program esetén az annak helyszínéül szolgáló ingatlan helyrajzi számát és 3 hónapnál nem régebbi tulajdonilap-másolatának földhivatal által kiadott eredeti példányát vagy másolatát (a továbbiakban: szakmai és költségterv),
+c)[^26] a támogatással megvalósítani tervezett sportfejlesztési programjának bemutatását, célját, megnevezését, tervezett megvalósításának helyét, részletes megvalósítási tervét, amennyiben költségként elszámolandó, akkor általános forgalmi adót is tartalmazó összköltségének tervét, a megvalósítás és a finanszírozás időbeli ütemezését, valamint az építési beruházást is tartalmazó program esetén az annak helyszínéül szolgáló ingatlan helyrajzi számát és 3 hónapnál nem régebbi tulajdonilap-másolatának eredeti példányát vagy másolatát (a továbbiakban: szakmai és költségterv),
 
 d) amennyiben a támogatás építési beruházásra irányul, úgy az elvi építési engedélyt az ingatlan tulajdonosának hitelesített hozzájáruló nyilatkozatával vagy a jogerős építési engedélyt vagy a hatáskörrel és illetékességgel rendelkező hatóság igazolását arról, hogy a bejelentésben megjelölt beruházási tevékenység nem építésiengedély-köteles,
 
@@ -79,7 +79,7 @@ bc) építészeti, műszaki akadálymentesítésére
 [^23]: A 3. § a 268/2011. (XII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^24]: A 4. § (1) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^25]: A 4. § (2) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
-[^26]: A 4. § (2) bekezdés c) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^26]: A 4. § (2) bekezdés c) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 174. §-a szerint módosított szöveg.
 [^27]: A 4. § (2) bekezdés f) pont fb) alpontja a 221/2014. (IX. 4.) Korm. rendelet 567. § b) pontja szerint módosított szöveg.
 [^28]: A 4. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 41. § (2) bekezdése iktatta be.
 [^29]: A 4. § (3) bekezdés c) pontja 268/2011. (XII. 16.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
