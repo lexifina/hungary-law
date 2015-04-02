@@ -1,0 +1,1 @@
+## 5. A hivatásos katasztrófavédelmi szervek, az önkormányzati és létesítményi tűzoltóságok, valamint az önkéntes tűzoltó egyesületek gépjárművezetőinek képzése és pszichológiai alkalmassági vizsgálata

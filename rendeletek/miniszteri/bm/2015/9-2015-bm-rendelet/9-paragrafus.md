@@ -1,0 +1,5 @@
+9. § (1) Villamos berendezések tűzvédelmi felülvizsgálatának vezetését, abban érdemi munka folytatását olyan személy végezheti, aki az Országos Képzési Jegyzék szerinti erősáramú berendezések felülvizsgálója vagy erősáramú berendezések időszakos felülvizsgálója szakképesítéssel rendelkezik.
+
+(2) A robbanásveszélyes osztályba tartozó anyag előállítására, feldolgozására, tárolására szolgáló helyiségek, szabadterek – ha ott az anyag robbanásveszélyes állapotban fordul elő – villamos berendezéseinek vizsgálatához a vizsgálatot végző személynek az (1) bekezdésben meghatározottakon felül az Országos Képzési Jegyzék szerinti sújtólég- és robbanásbiztos villamosberendezés-kezelő vagy robbanásbiztos berendezés kezelő szakképesítéssel is rendelkeznie kell.
+
+(3) A robbanásveszélyes osztályba tartozó anyag előállítására, feldolgozására, tárolására szolgáló helyiségek, szabadterek villamos berendezéseinek felülvizsgálatát két, vagy több személy együttesen is végezheti, ha mindegyikük rendelkezik az (1) bekezdésben meghatározott szakképesítéssel és legalább az egyikük rendelkezik a (2) bekezdésben meghatározott szakképesítéssel.

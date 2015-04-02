@@ -1,0 +1,3 @@
+20. § (1) Az a gazdálkodó szervezet, amely a rendelet hatálybalépésekor nem foglalkoztat a 7. §-ban meghatározott szakképesítésű személyt, a 7. §-ban meghatározott előírások betartásáról a rendelet hatálybalépését követő száznyolcvan napon belül köteles gondoskodni.
+
+(2) Az adott szolgálati beosztás vagy munkakör betöltéséhez e rendelet hatálybalépését megelőzően elismert képesítéssel rendelkező személyt – ide nem értve a 18. § (1) és (2) bekezdés alapján szakmai képesítés megszerzésére kötelezetteket – a szolgálati beosztás vagy munkakör megváltozásáig továbbra is képesítettnek kell tekinteni.
