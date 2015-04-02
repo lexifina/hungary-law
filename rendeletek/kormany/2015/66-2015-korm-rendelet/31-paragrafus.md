@@ -4,8 +4,6 @@
 
 (2) Az 1–28. §, a 30. §, a 31. § (3) bekezdése és az 1–2. melléklet 2015. április 1-jén lép hatályba.
 
-(3) Hatályát veszti
+(3)[^1]
 
-a) a fővárosi és megyei kormányhivatalokról szóló 288/2010. (XII. 28.) Korm. rendelet,
-
-b) a járási (fővárosi kerületi) hivatalokról szóló 218/2012. (VIII. 13.) Korm. rendelet.
+[^1]: A 31. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
