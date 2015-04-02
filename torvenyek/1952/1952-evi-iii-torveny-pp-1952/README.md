@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1952-3-00-00.113 |
 | 2014-12-20 | 2004. évi LXXV. törvény | 1952-3-00-00.114 |
 | 2015-02-01 | 2014. évi CIX. törvény | 1952-3-00-00.115 |
+| 2015-04-02 | 2015. évi XI. törvény | 1952-3-00-00.116 |

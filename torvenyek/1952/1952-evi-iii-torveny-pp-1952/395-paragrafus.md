@@ -27,25 +27,3 @@ e) azon perek körét, amelyekben a felet tárgyi költségfeljegyzési jog ille
 f) a költségmentesség, a tárgyi költségfeljegyzési jog és az illetékfeljegyzési jog előfeltételeire, engedélyezésére, megvonására, valamint a költségek előlegezésére, illetve az előlegezett költségek megfizetésére és behajtására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben;
 
 g) a tanú által a peres és nemperes eljárásban felszámítható költségekre vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben;
-
-h) a fizetési meghagyásos eljárásban alkalmazandó űrlapokat, azok tartalmi és formai kellékeit, az űrlapok közzétételének módját, valamint a benyújtandó űrlapok példányszámát;
-
-i) a 185. § szerinti elővezetés végrehajtásával felmerült költség mértékét, valamint megtérítésének részletes szabályait az államháztartásért felelős miniszterrel egyetértésben;
-
-j) a munkavállalói költségkedvezmény vonatkozásában a 359/A. §-ban meghatározott mértéket, valamint a költségkedvezmény érvényesítésének eljárási szabályait az államháztartásért felelős miniszterrel, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben
-
-rendeletben állapítsa meg,
-
-j) a polgári peres eljárás elektronikus beadványai formanyomtatványának tartalmát – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza,
-
-k) a polgári perben alkalmazható videókonferencia technikai szabályait – az informatikáért felelős miniszterrel egyetértésben – rendeletben szabályozza.
-
-l) a polgári peres eljárás elektronikus beadványai űrlapjának adatait, tartalmi és formai kellékeit, valamint az űrlaphoz csatolható mellékleteket rendeletben szabályozza,
-
-m) az ügyész polgári eljárásbeli részvételével kapcsolatos költség előlegezésének és viselésének részletes szabályait az államháztartásért és az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza,
-
-n) a bíróságokkal való elektronikus kapcsolattartás és az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg.
-
-(5)
-
-(6)

@@ -1,0 +1,1 @@
+346/F. § Ha az, akiről hozzájárulása nélkül képmás vagy hangfelvétel készül, illetve kerül felhasználásra, e fejezet rendelkezései alapján nem él keresettel, az általános szabályok szerint pert indíthat a személyiségi jog védelme iránt.

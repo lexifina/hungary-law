@@ -36,7 +36,7 @@ gb) a közösséghez tartozással összefüggő – a ga) pont alá nem tartozó
 
 h) az értékpapírból származó jogviszonnyal kapcsolatos perek;
 
-i)
+i) a képmáshoz és a hangfelvételhez való jog érvényesítése iránt indított perek (XXI/A. fejezet);
 
 j) a sajtóhelyreigazítási perek (XXI. fejezet);
 
