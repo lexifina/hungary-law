@@ -1,16 +1,16 @@
 ## 17. A civil szervezetek nyilvántartásával összefüggésben a bírósági eljárásokban érvényesülő ügyviteli és iratkezelési szabályokról szóló 58/2012. (XII. 28.) KIM rendelet módosítása
 
-17. § (1)[^16]
+17. § (1)[^17]
 
-(2)–(3)[^17]
+(2)–(3)[^18]
 
-(4)[^18]
+(4)[^19]
 
-(5)–(7)[^19]
+(5)–(7)[^20]
 
-(8)[^20]
+(8)[^21]
 
-(9)[^21]
+(9)[^22]
 
 (10) Az R6.
 
@@ -22,14 +22,14 @@ c) 31. §-ában a „2014. július 1.” szövegrész helyett a „2015. január
 
 ## lép hatályba.
 
-(11)[^22]
+(11)[^23]
 
 (12) Nem lép hatályba az R6. 39. §-a.
 
-[^16]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 17. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 17. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 17. § (5)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 17. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 17. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 17. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § (2)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 17. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § (5)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 17. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 17. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

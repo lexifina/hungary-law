@@ -1,4 +1,4 @@
-## 20. §[^29]
+## 20. §[^30]
 
 ## 21. Záró rendelkezések
 
@@ -18,4 +18,4 @@
 
 (8) A 9. §, az 1. melléklet és a 2. melléklet 2015. április 1. napján lép hatályba.
 
-[^29]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
