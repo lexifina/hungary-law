@@ -1,3 +1,5 @@
-## 87. § A védett foglalkoztatók részére fenntartott közbeszerzések részletes szabályairól szóló 302/2006. (XII. 23.) Korm. rendelet 5. § (1) bekezdésében a „szociális és gyámhivatal” szövegrész helyébe a „fővárosi és megyei kormányhivatal” szöveg lép.
+## 87. §[^87]
 
 ## 88. A Magyar Államkincstárról szóló 311/2006. (XII. 23.) Korm. rendelet módosítása
+
+[^87]: A 87. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

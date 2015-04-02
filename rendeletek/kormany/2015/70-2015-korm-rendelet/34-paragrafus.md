@@ -1,5 +1,7 @@
-## 33. § A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet 6. § (2) és (7) bekezdésében az „a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári szakigazgatási szerve” szövegrész helyébe az „az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatal” szöveg lép.
+## 33. §[^33]
 
 ## 34. A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló
 
 ## 101/1998. (V. 22.) Korm. rendelet módosítása
+
+[^33]: A 33. § a 2010: CXXX. tövény 12. § (2) bekezdése alapján hatályát vesztette.
