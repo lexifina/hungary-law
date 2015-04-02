@@ -10,7 +10,7 @@ a) közalkalmazott,
 
 b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel,
 
-c) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
+c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
 
 d) közszolgálati tisztviselő
 

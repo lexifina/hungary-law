@@ -1,1 +1,1 @@
-42. § Az oktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban a közigazgatási, a rendészeti, a katonai és a nemzetbiztonsági felsőoktatás vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.
+42. § Az oktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.

@@ -10,6 +10,8 @@ b) a rendészeti felsőoktatás tekintetében a rendészetért felelős miniszte
 
 c) a katonai felsőoktatás tekintetében a honvédelemért felelős miniszter,
 
-d) a nemzetbiztonsági felsőoktatás tekintetében a rendészetért felelős miniszter és a honvédelemért felelős miniszter.
+d) a nemzetbiztonsági felsőoktatás tekintetében a rendészetért felelős miniszter és a honvédelemért felelős miniszter,
+
+e) a nemzetközi és európai közszolgálati felsőoktatás tekintetében a közigazgatás-fejlesztésért felelős miniszter és az igazságügyért felelős miniszter együttesen.
 
 (2) A felügyelet a miniszterek részére a VII. Fejezetben és az e Fejezetben meghatározott jogokat foglalja magában.
