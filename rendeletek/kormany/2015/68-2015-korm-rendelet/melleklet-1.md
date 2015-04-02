@@ -1,3 +1,5 @@
-## 59. § Hatályát veszti a fővárosi és megyei kormányhivatalok mezőgazdasági szakigazgatási szerveinek kijelöléséről szóló 328/2010. (XII. 27.) Korm. rendelet.
+## 59. §[^1]
 
 1. melléklet a 68/2015. (III. 30.) Korm. rendelethez
+
+[^1]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
