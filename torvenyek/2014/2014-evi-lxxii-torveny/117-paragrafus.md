@@ -6,10 +6,4 @@
 
 (végrehajtásához szükséges adatokat ismerheti meg és kezelheti.)
 
-(2) A Bv. tv. 78. § (1) bekezdése a következő e) ponttal egészül ki:
-
-[A rendőrség a 76. § (2) bekezdésében meghatározott adatok közül]
-
-„e) a reintegrációs őrizet”
-
-(végrehajtásához szükséges adatokat ismerheti meg és kezelheti.)
+(2)
