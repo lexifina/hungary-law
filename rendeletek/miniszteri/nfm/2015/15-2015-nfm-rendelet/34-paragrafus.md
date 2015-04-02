@@ -1,3 +1,0 @@
-## 33. § Ez a rendelet 2015. április 1-jén lép hatályba.
-
-34. § E rendelet 23–24. §-a a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illetőleg az üvegházhatású kibocsátott gázok mennyiségének nyomon követését és mérséklését célzó mechanizmus bevezetése tekintetében a 98/70/EK irányelv módosításáról, a belvízi hajókban felhasznált tüzelőanyagokra vonatkozó követelmények tekintetében az 1999/32/EK irányelv módosításáról, valamint a 93/12/EGK irányelv hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/30/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
