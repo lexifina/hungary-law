@@ -1,3 +1,3 @@
 ## 17. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-17. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 33/A. § (2) és (4) bekezdésében az „az anyakönyvi ügyekért felelős miniszter” szövegrész helyébe az „a központi anyakönyvi szerv” szöveg lép.
+17. §
