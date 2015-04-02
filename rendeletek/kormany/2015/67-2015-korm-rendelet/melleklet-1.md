@@ -1,4 +1,4 @@
-## 3. § Hatályát veszti a munkaügyi központok, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala munkaügyi kirendeltségének illetékességéről szóló 44/2012. (XII. 22.) NGM rendelet.
+## 3. §[^1]
 
 1. melléklet a 67/2015. (III. 30.) Korm. rendelethez
 
@@ -7321,3 +7321,5 @@ Zalaszentlőrinc
 Zalaszentmihály
 
 Zalatárnok
+
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
