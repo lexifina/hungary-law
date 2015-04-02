@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti az építésügyi hatóságot mint szakhatóságot a szakhatósági eljárásért megillető, továbbá az építési, a bontási és a használatbavételi bejelentésre vonatkozó igazgatási szolgáltatási díjról szóló 24/2011. (VII. 21.) BM rendelet.
+## 4. §[^4]
 
 ## 5. Záró rendelkezések
 
@@ -53,3 +53,5 @@ h) elektronikus (legalább bankkártyás) fizetés
 i) elektronikus dokumentum ügyintéző általi hitelesítési lehetőség (azonosításra visszavezetve vagy egyéb megoldással)
 
 j) ügyintéző saját járási hivatali elektronikus levelezésének elérése”
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
