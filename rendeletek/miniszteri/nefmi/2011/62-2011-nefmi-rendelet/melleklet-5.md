@@ -1,3 +1,3 @@
-5. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^60]
+5. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^62]
 
-[^60]: Az 5. melléklet a 11/2015. (II. 25.) EMMI rendelet 13. § (2) bekezdés a) pontjával megállapított szöveg.
+[^62]: Az 5. melléklet a 11/2015. (II. 25.) EMMI rendelet 13. § (2) bekezdés a) pontjával megállapított szöveg.

@@ -26,7 +26,7 @@
 
 ## 2 Az alaptámogatás terhére maximálisan megtervezhető humánerőforrás.
 
-6. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^61]
+6. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^63]
 
 A tolmácsszolgálatoknál munkaviszony keretében kötelezően alkalmazottak kiegészítő bérre jogosító térítésmentes jelnyelvi tolmácsolási óraszámai
 
@@ -44,4 +44,4 @@ A tolmácsszolgálatoknál munkaviszony keretében kötelezően alkalmazottak ki
 
 | 6. | 35–40 | 80 |
 
-[^61]: A 6. melléklet a 11/2015. (II. 25.) EMMI rendelet 13. § (2) bekezdés b) pontjával megállapítot szöveg.
+[^63]: A 6. melléklet a 11/2015. (II. 25.) EMMI rendelet 13. § (2) bekezdés b) pontjával megállapítot szöveg.
