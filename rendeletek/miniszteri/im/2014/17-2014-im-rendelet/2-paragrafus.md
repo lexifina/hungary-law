@@ -1,3 +1,5 @@
-## 1. § Az ismeretlen helyen tartózkodó terhelt, illetve a bűncselekmény elkövetésével alaposan gyanúsítható ismeretlen személy tartózkodási helye felkutatásának, lakóhelye, illetőleg személyazonossága megállapításának és körözése elrendelésének részletes szabályairól szóló 1/2003. (III. 7.) IM rendelet 2. § (2) bekezdésében az „illetőleg a kényszerintézkedés” szövegrész helyébe az „illetve a büntetőeljárás hatálya” szöveg lép.
+## 1. §[^1]
 
 ## 2. A lefoglalás és a büntetőeljárás során lefoglalt dolgok kezelésének, nyilvántartásának, előzetes értékesítésének és megsemmisítésének szabályairól, valamint az elkobzás végrehajtásáról szóló 11/2003. (V. 8.) IM–BM–PM együttes rendelet módosítása
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

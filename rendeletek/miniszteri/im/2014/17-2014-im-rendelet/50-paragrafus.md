@@ -1,4 +1,4 @@
-## 44–49. §[^11]
+## 44–49. §[^19]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 42. § és a 43. § 2015. július 1-jén lép hatályba.
 
-[^11]: A 44–49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 44–49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

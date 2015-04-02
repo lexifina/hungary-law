@@ -1,14 +1,12 @@
-## szöveg lép.
+## 36. §[^12]
 
-## 36. § Hatályát veszti a 20/2009. (VI. 19.) IRM rendelet
+1–3.[^13]
 
-1–3.[^6]
+4–5.[^14]
 
-4. 14. §-a és az azt megelőző alcím,
+6–7.[^15]
 
-5. a 22. §-t megelőző „Adatközlés a kényszerintézkedés hatálya alatt állók nyilvántartása részére” alcím,
-
-6–7.[^7]
-
-[^6]: A 36. § 1–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 36. § 6–7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 36. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 36. § 1–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 36. § 4–5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 36. § 6–7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
