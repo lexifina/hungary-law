@@ -1,3 +1,7 @@
+## 73. §[^73]
+
 ## 74. A Nemzeti Stadionfejlesztési Program keretében megvalósítandó egyes labdarúgó sportlétesítmény-fejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló
 
 ## 15/2014. (I. 30.) Korm. rendelet módosítása
+
+[^73]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
