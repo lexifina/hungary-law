@@ -1,1 +1,0 @@
-## „22. rutinvizsga: a jármű technikai kezelésének, valamint a manőverezési feladatok végrehajtásának számonkérése a „C”, „D”, „T”, „Trolibusz” kategóriák, valamint a „C1”, „D1” kategóriák, továbbá a „BE”, „CE”, „C1E”, „DE”, „D1E” kombinált kategóriák esetében,”
