@@ -34,6 +34,8 @@
 
 ## Csatolt okiratok
 
-## 1. Végfelhasználói Nyilatkozat
+## 1.[^71] Államilag megerősített Végfelhasználói Nyilatkozat vagy Nemzetközi Import Igazolás vagy a fogadó állam illetékes hatósága által kiállított beviteli engedély másolata
 
 10. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez
+
+[^71]: A 9. melléklet II. 1. pontja a 80/2015. (III. 31.) Korm. rendelet 9. §-ával megállapított szöveg.

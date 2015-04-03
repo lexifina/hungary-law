@@ -4,11 +4,11 @@
 
 ## ADATSZOLGÁLTATÁS
 
-21. § (1)[^34] A vállalkozás köteles negyedévente
+21. § (1)[^46] A vállalkozás köteles negyedévente
 
 a) az általános forgalmi engedély terhére lebonyolított forgalomról,
 
-b)[^35] a globális és egyedi forgalmi engedély, valamint a 258/2012/EU rendelet szerinti kiviteli engedély alapján lebonyolított forgalomról, és
+b)[^47] a globális és egyedi forgalmi engedély, valamint a 258/2012/EU rendelet szerinti kiviteli engedély alapján lebonyolított forgalomról, és
 
 c) a bróker engedély alapján teljesült forgalomról
 
@@ -32,5 +32,5 @@ f) annak igazolása, hogy a haditechnikai eszközök címzettjét tájékoztatat
 
 (4) A vállalkozás a (3) bekezdés szerinti nyilvántartásában rögzített adatokat és kapcsolódó dokumentációt köteles 5 évig megőrizni. A vállalkozás nyilvántartásából a 24. § (1) bekezdésében meghatározott szervek részére szolgáltathat adatot.
 
-[^34]: A 21. § (1) bekezdése a 78/2013. (III. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^35]: A 21. § (1) bekezdés b) pontja a 441/2013. (XI. 20.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^46]: A 21. § (1) bekezdése a 78/2013. (III. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^47]: A 21. § (1) bekezdés b) pontja a 441/2013. (XI. 20.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

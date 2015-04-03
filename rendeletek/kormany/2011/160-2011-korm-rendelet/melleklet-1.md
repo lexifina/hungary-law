@@ -1,5 +1,5 @@
 ## 30. § Hatályát veszti a haditechnikai eszközök és szolgáltatások kivitelének, behozatalának, transzferjének és tranzitjának engedélyezéséről szóló 16/2004. (II. 6.) Korm. rendelet.
 
-1. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez[^51]
+1. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez[^67]
 
-[^51]: Az 1. melléklet a 148/2014. (V. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^67]: Az 1. melléklet a 80/2015. (III. 31.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -60,7 +60,7 @@
 
 ## 4. ha a rendeltetési hely nem szomszédos országban található, a tranzit kilépési irányba eső szomszédos ország tranzitengedélyét.
 
-11. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez[^55]
+11. melléklet a 160/2011. (VIII. 18.) Korm. rendelethez[^72]
 
 I. A 258/2012/EU rendelet szerinti kivitelre vonatkozó forgalmi engedély iránti kérelem kötelező tartalma:
 
@@ -112,4 +112,4 @@ II. Csatolandó okiratok
 
 3. tranzit harmadik országok illetékes hatósága által kiadott tranzitengedély, vagy a harmadik ország illetékes hatóságának nyilatkozata arról, hogy a tranzithoz hozzájárul vagy a haditechnikai eszköz tranzitja nem engedélyköteles.
 
-[^55]: A 11. mellékletet a 441/2013. (XI. 20.) Korm. rendelet 13. §-a iktatta be.
+[^72]: A 11. mellékletet a 441/2013. (XI. 20.) Korm. rendelet 13. §-a iktatta be.

@@ -4,7 +4,7 @@
 
 19. § (1) A tanúsítási eljárás során a Hatóság megvizsgálja a vállalkozás megbízhatóságát. A vállalkozás megbízható, ha:
 
-a)[^32] legalább 2 éve rendelkezik hatályos tevékenységi engedéllyel, és a Httv. szerinti hatályos haditechnikai eszközök gyártására vonatkozó engedéllyel,
+a)[^44] legalább 2 éve rendelkezik hatályos tevékenységi engedéllyel, és a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) szerinti hatályos haditechnikai eszközök gyártására vonatkozó engedéllyel,
 
 b) haditechnikai külkereskedelmi tevékenysége során maradéktalanul betartotta a Httv., valamint a haditechnikai külkereskedelemre vonatkozó, jogszabályi rendelkezések előírásait és a Belső Megfelelési Programjában foglaltakat,
 
@@ -20,7 +20,7 @@ e) Belső Megfelelési Programjában kijelölt felelős vezetője írásban nyil
 
 (4) Nem szükséges tanúsítás a hon- és rendvédelmi, rendészeti, továbbá a nemzetbiztonsági szervek részére.
 
-(5)[^33] A Hatóság a tanúsítás kiadását megelőzően, továbbá a vállalkozás első alkalommal történt tanúsítását követően 1 éven belül a vállalkozást ellenőrzi. A Hatóság a tanúsított vállalatokat szükségszerűen, de legalább 3 évente ellenőrzi.
+(5)[^45] A Hatóság a tanúsítás kiadását megelőzően, továbbá a vállalkozás első alkalommal történt tanúsítását követően 1 éven belül a vállalkozást ellenőrzi. A Hatóság a tanúsított vállalatokat szükségszerűen, de legalább 3 évente ellenőrzi.
 
 (6) A Hatóság a tanúsítást kérelemre magyar és angol nyelven adja ki a védelmi vonatkozású termékek Közösségen belüli transzferére vonatkozó feltételek egyszerűsítéséről szóló, 2009. május 6-i 2009/43/EK európai parlamenti és tanácsi irányelv 9. cikke értelmében a védelmi ipari vállalkozások tanúsításáról szóló, 2011. január 11-i 2011/24/EU bizottsági ajánlás feltételei szerint.
 
@@ -30,5 +30,5 @@ e) Belső Megfelelési Programjában kijelölt felelős vezetője írásban nyil
 
 (9) A Hatóság a tanúsítást a 10. § szerinti változás bejelentés esetében újraértékeli.
 
-[^32]: A 19. § (1) bekezdés a) pontja a 441/2013. (XI. 20.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^33]: A 19. § (5) bekezdése a 78/2013. (III. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^44]: A 19. § (1) bekezdés a) pontja a 80/2015. (III. 31.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^45]: A 19. § (5) bekezdése a 78/2013. (III. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
