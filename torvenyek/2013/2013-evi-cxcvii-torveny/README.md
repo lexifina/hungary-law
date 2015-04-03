@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-197-00-00
 | --- | --- | --- |
 | 2013-11-29 | 2013. évi CXCVII. törvény | 2013-197-00-00.0 (közlönyállapot) |
 | 2013-11-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-197-00-00.1 |
+| 2015-04-03 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-197-00-00.2 |
