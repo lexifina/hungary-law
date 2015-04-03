@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti a hivatásos katasztrófavédelmi szerveknél, a tűzoltóságoknál, valamint az ez irányú szakágazatban foglalkoztatottak képesítési követelményeiről és szakmai képzéseiről szóló 10/2008. (X. 30.) ÖM rendelet.
+## 22. §[^2]
 
 1. melléklet a 9/2015. (III. 25.) BM rendelethez
 
@@ -361,3 +361,5 @@ m) tűzvédelmi szakmérnök szakképesítés vagy
 n) főiskolai szintű tűzvédelmi mérnök szak.
 
 4.4. A hivatásos katasztrófavédelmi szerveknél tűzoltó és tűzvédelmi beosztás betöltésére jogosító felsőszintű képesítések elfogadottak a gazdálkodó szervezeteknél tűzvédelmi szakágazatban foglalkoztatottak azonos szintű képesítéseként.
+
+[^2]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
