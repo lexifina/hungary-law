@@ -1,0 +1,3 @@
+## 6. § Az R. 22. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) A vállalkozások a kiszállításra és beérkezésre vonatkozó általános, globális és egyedi forgalmi engedélyeik alapján történő szállítás esetén a szállítás megkezdésének időpontját megelőzően legalább 3 nappal kötelesek azt a tervezett útvonallal és közúti szállítás esetén a szállító jármű rendszámával együtt, a vonatkozó engedély számára hivatkozással írásos formában bejelenteni az eljárás tekintetében területileg illetékes behozatali, illetve a kiviteli vámhivatal részére. Az így bejelentett adatokban bekövetkező változásokat a vállalkozások soron kívül kötelesek jelezni az eljárás tekintetében területileg illetékes behozatali, illetve a kiviteli vámhivatal részére.”
