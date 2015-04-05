@@ -60,6 +60,6 @@
 
 ## 6. A „Mennyiség” – megfelelő módon – a cikkek számát vagy a robbanóanyagok nettó tömegét jelenti.
 
-6. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^113]
+6. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^114]
 
-[^113]: A 6. számú mellékletet a 18/2013. (I. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^114]: A 6. számú mellékletet a 18/2013. (I. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be.

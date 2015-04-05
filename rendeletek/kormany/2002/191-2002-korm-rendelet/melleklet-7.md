@@ -40,7 +40,7 @@
 
 ## 8. Nyilatkozat arról, hogy a bejelentő büntetőjogi felelőssége tudatában kijelenti, hogy a bejelentésben lévő adatok a valóságnak megfelelnek.
 
-7. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^114]
+7. számú melléklet a 191/2002. (IX. 4.) Korm. rendelethez[^115]
 
 Az egyedi azonosításnak a következőkből kell állnia:
 
@@ -68,4 +68,4 @@ iii. az egységes termékazonosító kód alkalmazásáról szóló jogszabály 
 
 3.4. A 3.1. pontban meghatározott mentesség hatálya alá tartozó egyes robbanózsinórok egyedi azonosítását a tekercsen vagy az orsón, illetve adott esetben a legkisebb csomagolóegységen kell feltüntetni.
 
-[^114]: A 6. számú mellékletet a 65/2012. (IV. 2.) Korm. rendelet 4. §-a iktatta be, megjelölését 7. számú mellékletre változtatta a 99/2013. (III. 29.) Korm. rendelet 8. § b) pontja.
+[^115]: A 6. számú mellékletet a 65/2012. (IV. 2.) Korm. rendelet 4. §-a iktatta be, megjelölését 7. számú mellékletre változtatta a 99/2013. (III. 29.) Korm. rendelet 8. § b) pontja.
