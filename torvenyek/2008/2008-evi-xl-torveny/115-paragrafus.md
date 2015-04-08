@@ -8,4 +8,4 @@
 
 (5) Az engedélyezési eljárásnak meg kell felelni az objektivitás és megkülönböztetés-mentesség elvének.
 
-(6) Az engedély kiadásának, módosításának és visszavonásának részletes szabályait külön jogszabály tartalmazza.
+(6) Az engedély kiadásának és módosításának részletes szabályait külön jogszabály tartalmazza.

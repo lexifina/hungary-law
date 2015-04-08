@@ -8,13 +8,15 @@
 
 (1b) A földgázelosztó a védendő fogyasztókat megillető kedvezmény biztosítása céljából kezelheti a védendő fogyasztók nyilvántartásának kezeléséhez szükséges személyes és különleges személyes adatokat, így a védendő fogyasztó nevét, lakcímét, születési helyét és idejét, anyja nevét, valamint a védendő fogyasztói státuszt megalapozó adatokat.
 
+(1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának az e törvény 115/A. § szerinti kezdeményezése esetén az e törvény 115/B. § (1) bekezdése szerinti visszavonó és a kijelölő határozat kézhezvételének napjától az érintett felhasználók átvétele, földgázellátásuk biztosításához szükséges teendők elvégzése céljából kezelheti az érintett felhasználók azonosításához szükséges és elégséges, az (1) bekezdésben, valamint a külön jogszabályban meghatározott személyes adatokat, továbbá adott felhasználóval kapcsolatban az átadó egyetemes szolgáltató által kezelt egyéb személyes adatokat.
+
 (2) Az adatkezelő a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az (1) bekezdésben meghatározott célból történt, vagy az adatkezelés célja megszűnt.
 
 (3) Az adatkezelő rendszerhasználóval történő szerződéskötése nem tehető függővé a rendszerhasználónak valamely, az (1) bekezdésben nem szabályozott célból történő adatkezeléshez való hozzájárulásától.
 
-(4) Az (1)–(1b) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a)–c) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
+(4) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok – az a)–c) és e) pontok esetében az érintett egyidejű értesítése mellett – átadhatók:
 
-a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását illetőleg az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
+a) az adatkezelő megbízása alapján a szerződés megkötését, a leolvasást, a számlázást, a kézbesítést, a díjfizetések és követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki kivitelezését, felülvizsgálatát, ellenőrzését, kikapcsolását vagy az ügyfélszolgálati tevékenységet végző természetes személynek és gazdálkodó szervezetnek,
 
 b) a számlázási és forgalmazási jogviták rendezésére jogszabály vagy a szerződő felek megállapodása alapján jogosult szervezetek részére,
 
@@ -24,9 +26,11 @@ d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, továbbá a 
 
 e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak,
 
-f) a Nemzeti Fogyasztóvédelmi Hatóságnak, valamint
+f) a Nemzeti Fogyasztóvédelmi Hatóságnak,
 
-g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek.
+g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek, valamint
+
+h) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
 
 (5) A (4) bekezdés a)–c) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
 

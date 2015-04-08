@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2014-12-30 | 2014. évi XCIX. törvény | 2008-40-00-00.46 |
 | 2015-03-11 | 2015. évi V. törvény | 2008-40-00-00.47 |
 | 2015-04-01 | 2013. évi CXLV. törvény | 2008-40-00-00.48 |
+| 2015-04-08 | 2015. évi XXXIV. törvény | 2008-40-00-00.49 |
