@@ -47,5 +47,3 @@ e) kapcsolt vállalkozás alatt a számvitelről szóló 2000. évi C. törvény
 (8) Zár alá vétel rendelhető el azon vagyonelemre, amelyet a (2)–(6) bekezdés alapján zár alá vehető vagyon terhére a büntetőeljárás vagy a büntetőeljárást megalapozó hatósági eljárás megindulását megelőző egy évben szereztek vagy amely e vagyonelem helyébe lépett.
 
 (9) A zár alá vétellel összefüggésben a kényszerintézkedés alkalmazásával érintett szervezetek képviseletére a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 9. §-ának rendelkezései megfelelően irányadók.”
-
-2. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
