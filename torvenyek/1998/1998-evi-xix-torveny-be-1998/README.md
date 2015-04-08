@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1998-19-00-00.72 |
 | 2014-05-06 | 2012. évi XXXVI. törvény | 1998-19-00-00.73 |
 | 2015-01-01 | 2014. évi LXXII. törvény | 1998-19-00-00.74 |
+| 2015-04-08 | 2015. évi XXXI. törvény | 1998-19-00-00.75 |

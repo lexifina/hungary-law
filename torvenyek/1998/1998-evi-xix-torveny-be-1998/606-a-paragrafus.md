@@ -1,0 +1,1 @@
+606/A. § E törvénynek a büntetőeljárások időszerűségének javítása érdekében szükséges egyes törvények módosításáról szóló 2013. évi CXII. törvénnyel (a továbbiakban: Módtv.) megállapított 16. § (1) bekezdés k), l), r) és s) pontját a Módtv. hatálybalépését követően a bírósághoz érkezett ügyekben kell alkalmazni.
