@@ -10,9 +10,9 @@ d) aki rendelkezik angol, német, vagy francia nyelvből legalább középfokú 
 
 e) aki a jelentkezését megelőző utolsó minősítésén kiváló értékelést kapott, vagy akinek a három éven belüli teljesítményértékelései a két legmagasabb értékelési kategória valamelyikébe tartoztak,
 
-f)[^83] aki a kiválasztási eljárás során jogosultságot szerzett a rendészeti tehetséggondozási programra történő jelentkezésre,
+f)[^84] aki a kiválasztási eljárás során jogosultságot szerzett a rendészeti tehetséggondozási programra történő jelentkezésre,
 
-g)[^84]
+g)[^85]
 
-[^83]: A 49. § f) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § f) pontja szerint módosított szöveg.
-[^84]: A 49. § g) pontját a 45/2013. (VIII. 15.) BM rendelet 13. § g) pontja hatályon kívül helyezte.
+[^84]: A 49. § f) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § f) pontja szerint módosított szöveg.
+[^85]: A 49. § g) pontját a 45/2013. (VIII. 15.) BM rendelet 13. § g) pontja hatályon kívül helyezte.

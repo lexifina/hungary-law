@@ -1,8 +1,8 @@
 ## 17. A rendészeti vezetőképzési és tehetséggondozási rendszer működésével összefüggő egyéb képzések
 
-55. § (1)[^93] A KSZF jogosult minősített trénerek képzésére tanfolyamot szervezni.
+55. § (1)[^94] A KSZF jogosult minősített trénerek képzésére tanfolyamot szervezni.
 
-(2)[^94] A résztvevő a minősítő tréner-képző tanfolyam elvégzésével jogosulttá válik – a KSZF képzési programja szerint és felügyelete mellett – rendészeti vezetővé képző tanfolyamon résztvevő állomány felkészítését végezni, illetve abban közreműködni.
+(2)[^95] A résztvevő a minősítő tréner-képző tanfolyam elvégzésével jogosulttá válik – a KSZF képzési programja szerint és felügyelete mellett – rendészeti vezetővé képző tanfolyamon résztvevő állomány felkészítését végezni, illetve abban közreműködni.
 
-[^93]: Az 55. § (1) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § b) pontja szerint módosított szöveg.
-[^94]: Az 55. § (2) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § c) pontja szerint módosított szöveg.
+[^94]: Az 55. § (1) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § b) pontja szerint módosított szöveg.
+[^95]: Az 55. § (2) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § c) pontja szerint módosított szöveg.
