@@ -652,6 +652,8 @@ C) SZOCIÁLIS IGAZGATÁS
 
 | C133 | Szociális ellátásra jogosultak nyilvántartásai | NS | HN |
 
+| C134 | Települési támogatás | 5 | - |
+
 E) KÖRNYEZETVÉDELMI, ÉPÍTÉSI ÜGYEK, TELEPÜLÉSRENDEZÉS,
 
 TERÜLETRENDEZÉS ÉS KOMMUNÁLIS IGAZGATÁS
@@ -1475,4 +1477,4 @@ X.3. Fegyveres biztonsági őrség
 | X302 | Rendészeti ügyek | 2 | - |
 
 [^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A melléklet a 68/2013. (XII. 10.) BM rendelet 10. §-a szerint módosított szöveg.
+[^2]: A melléklet a 68/2013. (XII. 10.) BM rendelet 10. §-a, a 14/2015. (IV. 7.) BM rendelet 1. §-a szerint módosított szöveg.
