@@ -6,7 +6,9 @@ a) a 7. § (3) bekezdésének b) pontjában megjelölt összegek végrehajtás a
 
 b) a végrehajtói kézbesítés részletes eljárási szabályait,
 
-c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat.
+c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat,
+
+d) a 202/A. § szerint kirendelt zárgondnok vagyonmegőrzési feladatait és eljárása szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
