@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-15-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-04-08 | 2015-15-30-41.1 | 15/2015. (IV. 7.) OGY határozat |
+| 2015-04-09 | 2015-15-30-41.2 | 72/2025. (XII. 10.) OGY határozat |

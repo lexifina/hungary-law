@@ -30,11 +30,7 @@ b) a látássérültek érdekképviseletét ellátó országos szervezeten keres
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-6. Hatályát veszti
-
-a) az új Országos Fogyatékosügyi Programról szóló 10/2006. (II. 16.) OGY határozat;
-
-b) az új Országos Fogyatékosügyi Program, valamint a végrehajtására vonatkozó középtávú intézkedési tervben foglalt feladatok megvalósításának időarányos teljesítéséről (2007–2010.) szóló jelentés elfogadásáról szóló 70/2012. (X. 16.) OGY határozat.
+6.[^2]
 
 Melléklet a 15/2015. (IV. 7.) OGY határozathoz
 
@@ -389,3 +385,5 @@ A Programban foglalt célok időarányos megvalósulásáról a Program időtáv
 14.2. Beszámoló
 
 A Programban foglalt célok megvalósulásáról – a következő Országos Fogyatékosságügyi Program Országgyűlésnek történő benyújtásával egyidejűleg, de legkésőbb a Program időtartamának leteltét követő egy éven belül – összegző értékelés készül a fogyatékos személyek érdekvédelmi szervezeteinek bevonásával, amelyet a Kormány beszámolóként terjeszt az Országgyűlés elé.
+
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
