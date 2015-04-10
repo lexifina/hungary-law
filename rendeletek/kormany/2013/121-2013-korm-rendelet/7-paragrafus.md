@@ -1,3 +1,5 @@
+## 6/A. §[^11] A Hivatal az Nkt. 19. § (4) bekezdése alapján közreműködik a pedagógiai-szakmai szolgáltatások országosan egységes szakmai irányításában.
+
 ## 3. A Hivatal közneveléssel kapcsolatos feladatai
 
 7. § (1) A Hivatal ellátja az Nkt. 80. §-ában meghatározott országos mérési feladatokat.
@@ -9,3 +11,5 @@
 (4) A Hivatal ellátja a középfokú beiskolázással kapcsolatos, külön jogszabályokban meghatározott feladatokat.
 
 (5) A Hivatal ellátja az Országos Középiskolai Tanulmányi Verseny, az Országos Művészeti Tanulmányi Verseny és a Sajátos nevelési igényű tanulók országos szervezésű tanulmányi versenye előkészítésével, szervezésével összefüggő központi koordinációs, valamint a versenyszabályzatban, a versenykiírásban meghatározott feladatokat, az Országos Középiskolai Tanulmányi Verseny vonatkozásában a kormányhivatal közreműködésével.
+
+[^11]: A 6/A. §-t a 88/2015. (IV. 9.) Korm. rendelet 3. §-a iktatta be.

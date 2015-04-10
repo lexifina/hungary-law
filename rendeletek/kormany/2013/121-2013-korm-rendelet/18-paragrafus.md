@@ -10,7 +10,7 @@ b) a FIR-rel,
 
 c) az oktatási igazolvány kibocsátását és a nyilvántartás működését szolgáló elektronikus rendszerrel, valamint
 
-d)[^13] a magyar állami (rész)ösztöndíj feltételei teljesítésének nyilvántartásával
+d)[^16] a magyar állami (rész)ösztöndíj feltételei teljesítésének nyilvántartásával
 
 összefüggő feladatai ellátásához szükséges nyilvántartások működését szolgáló elektronikus adatbázisok és alkalmazások üzemeltetésével és informatikai fejlesztésével kapcsolatos feladatait, valamint az adatkezeléshez kapcsolódó, az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti adatfeldolgozói feladatokat – a (3)–(7) bekezdésben meghatározott keretek között – az Educatio Társadalmi Szolgáltató Nonprofit Kft. kizárólagos joggal látja el.
 
@@ -34,4 +34,4 @@ b) a statisztikai adatok előállításához szükséges lekérdezési felülete
 
 (7) A Hivatalnak és az Educatio Társadalmi Szolgáltató Nonprofit Kft.-nek az (1)–(6) bekezdés szerinti feladatellátással összefüggő kiadásai fedezetét a Hivatal költségvetésében kell megtervezni.
 
-[^13]: A 18. § (2) bekezdés d) pontja a 325/2013. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^16]: A 18. § (2) bekezdés d) pontja a 325/2013. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

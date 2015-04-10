@@ -10,8 +10,8 @@
 
 (4) A Hivatal az Nftv. 19. §-a szerint a felsőoktatási információs rendszer működéséért felelős szervként ellátja a FIR üzemeltetésével kapcsolatos feladatokat.
 
-(5)[^12] A Hivatal a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervként ellátja a magyar állami (rész)ösztöndíj feltételei teljesítésének nyilvántartásával kapcsolatos feladatokat.
+(5)[^15] A Hivatal a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervként ellátja a magyar állami (rész)ösztöndíj feltételei teljesítésének nyilvántartásával kapcsolatos feladatokat.
 
 (6) A Hivatal hatósági ellenőrzést folytat, közreműködik a nem állami felsőoktatási intézmények és – az Nftv. 76. § (6) bekezdésében szabályozott kivétellel – a külföldi felsőoktatási intézmények, valamint - a miniszter döntése szerint - az Nftv. 65. § (1) bekezdésében és a 66. § (1) bekezdésében foglalt felsőoktatási oktatási alaptevékenység körébe tartozó tevékenység feletti törvényességi ellenőrzési eljárásban.
 
-[^12]: A 16. § (5) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 16. § (5) bekezdése a 325/2013. (VIII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
