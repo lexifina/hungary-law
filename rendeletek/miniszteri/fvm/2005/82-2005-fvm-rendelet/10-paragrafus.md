@@ -4,7 +4,7 @@
 
 (2)[^19] Az országos támogatási felső határt, annak előző évi kihasználtságának szintjét és az adott évre vonatkozó országos tartalék mértékét az MVH az egységes területalapú támogatásokhoz kapcsolódó nemzeti kiegészítő támogatások (top up) igénybevételének feltételeit szabályozó miniszteri rendeletben az adott jogcímre, adott támogatási évre, a támogatási döntések meghozatalára megállapított határidő lejártát követő harminc napon belül honlapján közzéteszi.
 
-(3)[^20] Ha a termelő adott támogatási évben az egyéni támogatási felsőhatár kilencven százaléka alatt használja ki támogatási jogosultságát, akkor az összes ki nem használt egyéni támogatási jogosultság az országos tartalék javára ellenérték nélkül megvonásra kerül, függetlenül attól, hogy a termelő saját vagy használatba vett támogatási jogosultságát érinti. Kivételt képeznek az 1121/2009/EK bizottsági rendelet 43. cikk (2) bekezdése és 68. cikk (2) bekezdése szerinti esetek.
+(3)[^20] Ha a termelő adott támogatási évben az egyéni támogatási felsőhatár száz százaléka alatt használja ki támogatási jogosultságát, akkor az összes ki nem használt egyéni támogatási jogosultság az országos tartalék javára ellenérték nélkül megvonásra kerül, függetlenül attól, hogy a termelő saját vagy használatba vett támogatási jogosultságát érinti.
 
 (4)[^21] Ha a termelő támogatási jogosultságának száma nem több, mint
 
@@ -12,7 +12,7 @@ a) anyajuhtartás esetén 20 támogatási jogosultság,
 
 b)[^22] anyatehéntartás esetén 7 támogatási jogosultság,
 
-## akkor a (3) bekezdés szerinti megvonás csak a támogatási jogosultságnak két egymást követő évben való 90% alatt történő kihasználása esetén alkalmazandó a második évben.
+## akkor a (3) bekezdés szerinti megvonás csak a támogatási jogosultságnak két egymást követő évben való 100% alatt történő kihasználása esetén alkalmazandó a második évben.
 
 (5) Ha a megvonás alkalmazása során a számítások eredménye nem ad egész számot, akkor:
 
@@ -23,7 +23,7 @@ b) anyatehéntartás támogatási jogosultság esetén csak az első tizedesjegy
 (6)[^23]
 
 [^19]: A 10. § (2) bekezdése a 117/2011. (XII. 15.) VM rendelet 5. §-ával megállapított szöveg.
-[^20]: A 10. § (3) bekezdése a 117/2011. (XII. 15.) VM rendelet 5. §-ával megállapított szöveg.
-[^21]: A 10. § (4) bekezdésének záró rendelkezése a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^20]: A 10. § (3) bekezdése a 16/2015. (IV. 9.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^21]: A 10. § (4) bekezdés záró szövegrésze a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított, a 16/2015. (IV. 9.) FM rendelet 6. § (2) bekezdése szerint módosított szöveg.
 [^22]: A 10. § (4) bekezdésének b) pontja a 28/2006. (IV. 7.) FVM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^23]: A 10. § (6) bekezdését a 84/2006. (XII. 12.) FVM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 117/2011. (XII. 15.) VM rendelet 10. §-a.
