@@ -1,0 +1,130 @@
+# A honvédelmi miniszter 2/2015. (IV. 10.) HM rendelete
+
+Magyar Közlöny 2015. évi 49. szám, 2015. április 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/11d77945d6a9bc9cee855747da1c8f2f84758b07/dokumentumok/961bb4294dbe537369d6fb325580e45c01b44128/letoltes)
+
+---
+
+A honvédelmi miniszter 2/2015. (IV. 10.) HM rendelete
+a honvédelmi miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek
+meghatározásáról
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 78. § (1a) bekezdés c) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 18. cikk (2) bekezdésében és a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+77. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. §
+E rendelet alkalmazásában foglalkoztató szervezet a Honvédelmi Minisztérium, a honvédelemért felelős miniszter
+(a továbbiakban: miniszter) közvetlen irányítása alá tartozó központi hivatal, a miniszter közvetlen alárendeltségébe
+tartozó szervezet és a Magyar Honvédség (a továbbiakban: MH) katonai szervezete.
+2. § (1) A foglalkoztató szervezettel a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban:
+Nbtv.) szerinti foglalkoztatási jogviszonyban (a továbbiakban: foglalkoztatási jogviszony) álló vagy ilyen jogviszonyt
+létesíteni szándékozó személyek esetében a (2) bekezdés szerinti munkakör betöltésére irányuló foglalkoztatási
+jogviszony minősül az Nbtv. 74. § i) pont in), illetve io) alpontja szerinti jogviszonynak.
+
+(2) Az (1) bekezdés szerinti jogviszonynak minősül
+a) az 1. melléklet szerinti valamennyi munkakör,
+b) a 2. melléklet szerinti munkakör, ha
+ba) az Nbtv. 74. § i) pont io) alpontja szerinti feltétel fennáll, illetve
+bb) a foglalkoztatási jogviszony betöltője a feladatellátásával összefüggésben jogellenes befolyással
+vagy leplezett támadással fenyegetett.
+3. §
+A foglalkoztató szervezetnél a 2. § (2) bekezdés b) pontja szerinti jogviszonyt betöltők körét a foglalkoztató
+szervezet munkaköri jegyzékében vagy állománytáblájában kell kijelölni.
+4. §
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+ Dr. Hende Csaba s. k.,
+ honvédelmi miniszter
+1. melléklet a 2/2015. (IV. 10.) HM rendelethez
+A 2. § (2) bekezdés a) pontja szerinti nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
+1. Honvédelmi Minisztérium
+1.1. a miniszter kabinetfőnöke, a miniszteri kabinet munkaköre,
+1.2. a Honvéd Vezérkar főnöke, a helyettese és a törzsigazgató tevékenységét közvetlenül segítő szervezeti elem
+munkaköre,
+1.3. az állami vezetők titkárságának munkaköre,
+1.4. a főosztályvezető, a főosztályvezető helyettesítésére jogosult főosztályvezető-helyettes vagy osztályvezető,
+1.5. a biztonsági vezető, a biztonsági vezető helyettese és a biztonsági referens,
+1.6. a rendszerbiztonsági felügyelő,
+1.7. a rendszeradminisztrátor,
+1.8. a titkos ügykezelő,
+1.9. a politikai főtanácsadó, a politikai tanácsadó,
+1.10. a miniszteri főtanácsadó és tanácsadó,
+1.11. az integritás tanácsadó,
+1.12. a belső adatvédelmi felelős,
+1.13. a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről
+szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet
+18. § (1) bekezdésében meghatározott védelmi igazgatási munkában részt vevő munkakör,
+1.14. a minősített beszerzési eljárásban döntés-előkészítő vagy döntéshozó munkakör,
+1.15. a rejtjelező tevékenységet ellátó munkakör,
+1.16. az információvédelmi, a dokumentumvédelmi és az MH központi rejtjelfelügyeleti feladatokat ellátó
+munkaköre,
+1.17. a híradó és informatikai rendszerek fejlesztését és felügyeletét végző munkakör,
+1.18. a hadműveleti és haderőtervezési feladatokat ellátó szervezeti elem munkaköre,
+1.19. a védelmi tervezési rendszer keretein belül stratégiai tervek, valamint nemzeti tervek kidolgozásában részt
+vevő munkakör.
+2. A miniszter irányítása alá tartozó központi hivatal, a miniszter közvetlen alárendeltségébe tartozó szervezet és
+az MH katonai szervezete
+2.1. a szervezet parancsnoka vagy vezetője, helyettese és törzsfőnöke,
+2.2. a védett objektumok parancsnoka vagy vezetője és helyettese,
+2.3. a középszintű vezető szerv törzsfőnök-helyettese,
+2.4. a szervezetek belső adatvédelmi felelősei,
+2.5. a biztonsági vezető, a biztonsági vezető helyettese,
+
+2.6. az országos illetékességgel rendelkező ügyeleti szolgálat és a központi ügyelet munkaköre,
+2.7. az információvédelmi, a dokumentumvédelmi és a rejtjelfelügyeleti tevékenységet ellátó, a rejtjelző,
+a rejtjelző szakkiképzést végrehajtó munkakör és a futárszolgálat állománya,
+2.8. a védett objektumban munkaköri jegyzék vagy állománytábla alapján folyamatos helyszíni jelenléthez kötött
+feladatot ellátó munkakör,
+2.9. az I. osztályú biztonsági területen feladatot végző munkakör,
+2.10. a fejezet költségvetési gazdálkodásának tervezési, koordinálási és ellenőrzési feladatait végző szervezetnél
+a NATO és az EU műveletek, valamint a Katonai Nemzetbiztonsági Szolgálat költségvetésének tervezésében,
+elszámoltatásában, járandóságai megállapításában, ellenőrzésében és az előbbiekben felsoroltak
+informatikai támogatásában a teljes körű adatállományhoz való hozzáférési jogosultsággal rendelkező
+munkakör,
+2.11. az adatvédelmi felügyeleti feladatokat ellátó munkakör,
+2.12. a minősített adat védelméről szóló 2009. évi CLV. törvény 5. § (4) bekezdés a)–c) pontja szerinti minősítési
+jelölésű információt kezelő elektronikus rendszereket üzemeltető munkakör, valamint az MH szintű
+elektronikus hitelesítés-szolgáltatás fejlesztője, programozója és operátora,
+2.13. az állandó személyi védelemben részesülő állami vezetők állami légi járművel történő szállításában
+közvetlenül részt vevő gépszemélyzet munkaköre,
+2.14. olyan külföldi szolgálat teljesítése, amely esetében a fogadó fél személyi biztonsági tanúsítvány meglétét
+igényli.
+2. melléklet a 2/2015. (IV. 10.) HM rendelethez
+A 2. § (2) bekezdés b) pontja szerinti nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
+1. Honvédelmi Minisztérium
+1.1. a humán, a logisztikai és a kiképzési feladatokat tervező és irányító szervezeti elem munkaköre,
+1.2. a védelempolitikai és nemzetközi együttműködési feladatokat ellátó szervezeti elem munkaköre,
+1.3. a jogi, igazgatási és képviseleti feladatokat ellátó szervezeti elem munkaköre,
+1.4. a törvényességi felügyeleti, illetve szakellenőrzési feladatokat ellátó szervezeti elem munkaköre,
+1.5. a kontrolling, az államháztartási belső ellenőrzési, a vagyonfelügyeleti, a gazdasági-tervezési és a szabályozási
+feladatokat, valamint a közbeszerzés-felügyeleti tevékenységet ellátó szervezeti elem munkaköre,
+1.6. a tervezési és koordinációs feladatokat ellátó szervezeti elem munkaköre.
+2. A miniszter irányítása alá tartozó központi hivatal, a miniszter közvetlen alárendeltségébe tartozó szervezet és
+az MH katonai szervezete
+2.1. az MH katonai szervezet ügyeleti szolgálatának munkaköre,
+2.2. a különleges műveletben, fegyverzet-ellenőrzésben és válságkezelésben részt vevő szervezet munkaköre,
+a felderítő és elektronikai hadviselési feladatokat ellátó szervezet munkaköre, valamint a készenlét
+fokozásával, fenntartásával kapcsolatos feladatok minősített okmányrendszerének kidolgozásában és
+naprakészen tartásában részt vevő munkakör,
+2.3. a légierő, a légtérvédelem és a légtérellenőrzés feladatban részt vevő szervezet munkaköre,
+2.4. a helyszínen feladatot végrehajtó, a Honvédelmi Tanács és a Kormány speciális működési feltételeinek
+biztosításában részt vevő munkakör,
+2.5. a védett objektumok szakmai irányítását, felügyeletét, támogatását, ellenőrzését végző szervezet munkaköre,
+valamint a létesítmények vonatkozásában a beruházások lebonyolításában részt vevő munkakör,
+2.6. a középszintű vezető szerv hadműveleti, műveleti, kiképzési, tervezési, szervezési, jogi és logisztikai
+munkaköre,
+2.7. a központi személyügyi nyilvántartást kezelő szervezet munkaköre,
+2.8. a miniszter által átruházott jogkörben fejezetszintű államháztartási belső ellenőrzési feladatokat ellátó
+szervezet fejezetszintű ellenőrzést végző munkaköre, továbbá a saját szervezet államháztartási belső
+ellenőrzési feladatait ellátó munkaköre,
+
+2.9. a katonai hatóságok hatósági, szakhatósági, valamint légügyi szakirányítási döntést előkészítő feladatokat
+ellátó munkaköre,
+2.10. a honvédelmi igazgatás központi döntés-előkészítő feladatai végrehajtásában részt vevő szervezet
+munkaköre,
+2.11. a központi irattár és levéltár munkaköre,
+2.12. a szervezetek részére kommunikáció-technikai feltételeket biztosító szervezet minősített rendezvények
+informatikai, akusztikai és tolmácstechnikai biztosító állománya, valamint a minősített távközlési hálózatok és
+szolgáltatások munkaköre,
+2.13. a koronaőr munkakör,
+2.14. a hadfelszerelés-fejlesztést, a logisztikai tervezést, -irányítást és minősített beszerzést bonyolító szervezet
+munkaköre, továbbá a minősített beszerzési eljárásokban részt vevő munkakör,
+2.15. az MH Altiszti Akadémia oktatási tevékenységet folytató katona állománya, továbbá a honvéd tisztjelölt,
+a honvéd altiszt-jelölt és az önkéntes tartalékos.

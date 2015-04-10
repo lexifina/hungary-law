@@ -1,0 +1,140 @@
+# A Kormány 97/2015. (IV. 10.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 49. szám, 2015. április 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/11d77945d6a9bc9cee855747da1c8f2f84758b07/dokumentumok/961bb4294dbe537369d6fb325580e45c01b44128/letoltes)
+
+---
+
+A Kormány 97/2015. (IV. 10.) Korm. rendelete
+a nemzetbiztonsági ellenőrzéssel összefüggő lényeges adatokról, valamint a lényeges adatok
+bejelentésének rendjéről
+A Kormány a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés a) pontjában,
+a 9. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 2. számú mellékletében
+meghatározott biztonsági kérdőív szempontjából lényeges adatok, tények és körülmények (a továbbiakban: adatok)
+körét az 1. melléklet tartalmazza.
+(2) Az Nbtv. szerint nemzetbiztonsági ellenőrzés alá eső személy (a továbbiakban: ellenőrzött személy)
+az (1) bekezdésben meghatározott adatokban történt változást az e rendeletben foglaltak szerint köteles
+bejelenteni a nemzetbiztonsági ellenőrzést kezdeményező (a továbbiakban: kezdeményező) felé.
+(3) Az Nbtv. 71/A. § (3) bekezdésében – a változás-bejelentési kötelezettség teljesítésére – meghatározott határidőt
+a) az 1. melléklet 9., 10., 15. és 16. pontja szerinti változás esetében a tárgyévet követő év május 31. napjától,
+b) a jogszabály alapján bírósági, hatósági nyilvántartásba vétellel bekövetkező változás tekintetében a határozat
+jogerőre emelkedésének napjától
+kell számítani.
+(4) A kezdeményező a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyba jelölt személyt tájékoztatja
+a változás-bejelentési kötelezettségéről és a bejelentési kötelezettség alá eső lényeges adatok köréről.
+2. § (1) A változás-bejelentési kötelezettség a kitöltött és aláírt biztonsági kérdőívnek a kezdeményező számára történő
+átadását követő naptól kezdődően áll fenn az Nbtv. 71/A. § (3) bekezdésében meghatározottak szerint.
+(2) A változás-bejelentési kötelezettség teljesítése során az adatoknak a biztonsági kérdőívben feltüntetett
+adatállapothoz, ha már történt változás-bejelentés, az utolsó változás-bejelentésben feltüntetett adatállapothoz
+képest történt változását kell figyelembe venni.
+(3) Ha az ellenőrzött személy vagy – az 5. § szerinti esetben – a kezdeményező az adatokban történt változás
+bejelentésére az Nbtv.-ben vagy e rendeletben előírt határidőt elmulasztja, a bejelentésében az akadályoztatás okát
+is meg kell jelölnie.
+3. § (1) A változás-bejelentési kötelezettséget a 2. mellékletben meghatározott adattartalom szerinti adatlap kitöltésével
+kell teljesíteni.
+(2) Az ellenőrzött személy a kitöltött és aláírt adatalapot zárt borítékban személyesen, meghatalmazott útján, postai
+úton vagy kézbesítő igénybevételével juttatja el a kezdeményező számára. A zárt borítékon a címzettként megjelölt
+kezdeményező és az átadóként megjelölt ellenőrzött személy mellett fel kell tüntetni, hogy nemzetbiztonsági
+ellenőrzéssel kapcsolatos adatváltozást tartalmaz a küldemény.
+(3) A küldemény postai úton vagy kézbesítő igénybevételével történő továbbítása esetén a (2) bekezdésben
+meghatározott zárt borítékot egy másik borítékba helyezve, a külső borítékon a küldemény tartalmára utalás nélkül
+kell továbbítani.
+4. §
+A kezdeményező a 3. § (2) bekezdésében meghatározott küldeményt felbontás nélkül, haladéktalanul továbbítja
+a nemzetbiztonsági ellenőrzést folytató nemzetbiztonsági szolgálat (a továbbiakban: nemzetbiztonsági szolgálat)
+számára.
+5. §
+Az 1. melléklet szerinti olyan adatokban bekövetkezett változásokról, amelyeket az ellenőrzött személy Nbtv.
+74. §-a szerinti foglalkoztató szervezete jogszabály alapján vezetett személyügyi nyilvántartása tartalmaz,
+az ellenőrzött személy erre vonatkozó írásbeli hozzájárulása esetén, a nemzetbiztonsági ellenőrzésnek az Nbtv. 70. §
+
+(1) bekezdésében, valamint az Nbtv. 70. § (2) bekezdés d), f) és g) pontjában megjelölt kezdeményezője a változás
+tudomására jutásától számított 15 napon belül tájékoztatja a nemzetbiztonsági szolgálatot.
+6. §
+A kezdeményező a nemzetbiztonsági szolgálatnak az adatváltozással összefüggő megkeresését haladéktalanul
+továbbítja az ellenőrzött számára.
+7. §
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+8. § (1) Az Nbtv. 76/A. § (1) bekezdése szerinti, valamint az e rendelet hatálybalépésekor érvényes kockázatmentes
+biztonsági szakvéleménnyel rendelkező személy, továbbá az 5. §-ban meghatározott kezdeményező változás-
+bejelentési kötelezettsége – a 2. § (1) és (2) bekezdésében foglaltaktól eltérően – első alkalommal az 1. mellékletben
+meghatározott adatoknak az e rendelet hatálybalépésének időpontjában fennálló állapotához képest bekövetkező
+változásaira vonatkozóan áll fenn.
+(2) Az 1. § (3) bekezdés a) pontjában meghatározott adatokban bekövetkezett változásokról első alkalommal,
+a) az (1) bekezdésben meghatározott személyek a 2015. január 1-jétől 2015. december 31-ig terjedő időszakra
+vonatkozóan,
+b) az e rendelet hatálybalépése után nemzetbiztonsági ellenőrzés alá eső jogviszonyba lépők, a biztonsági
+kérdőívnek a kezdeményező részére történő átadásától 2015. december 31-ig terjedő időszakra vonatkozóan
+2016. május 31-ig kötelesek bejelentést tenni.
+(3) A nemzetbiztonsági ellenőrzésnek az 5. §-ban meghatározott kezdeményezője az e rendelet hatálybalépésétől
+számított 30 napon belül, a (4) bekezdésben foglalt jogkövetkezményekre történő figyelmeztetéssel írásban felhívja
+a vele foglalkoztatási jogviszonyban álló, nemzetbiztonsági ellenőrzés alá eső személyt a változás-bejelentés
+kezdeményező általi teljesítéséhez szükséges írásbeli hozzájárulás átadására. A nemzetbiztonsági ellenőrzés alá
+eső személy nyilatkozata alapján, a hozzájárulásban megjelölt adatkörre nézve a kezdeményező az e rendelet
+hatálybalépését követő 90. naptól kezdve teljesíti változás-bejelentési kötelezettségét az (1) bekezdésben foglaltak
+figyelembevételével.
+(4) Ha a nemzetbiztonsági ellenőrzés alá eső személy az e rendelet hatálybalépését követő 60. napig nem, vagy nem
+teljes körűen járul hozzá a változás-bejelentés kezdeményező általi teljesítéséhez, az 5. §-ban meghatározott
+adatokra (vagy ezen adatoknak a hozzájárulással nem érintett körére) vonatkozó bejelentési kötelezettségét
+az e rendelet hatálybalépését követő 90. napig köteles teljesíteni az (1) bekezdésben foglaltak figyelembevételével.
+(5) Az e rendelet hatálybalépésekor érvényes nemzetbiztonsági szakvéleménnyel rendelkező, nemzetbiztonsági
+ellenőrzés alapjául szolgáló jogviszonyban álló személyt a kezdeményező az e rendelet hatálybalépését követő
+15 napon belül írásban tájékoztatja a változás-bejelentési kötelezettségéről és a bejelentési kötelezettség alá eső
+lényeges adatok köréről.
+9. §
+Hatályát veszti az egyes nemzetbiztonsági ellenőrzés alá eső jogviszonyokról és a nemzetbiztonsági ellenőrzéssel
+összefüggő lényeges adatokról, valamint a lényeges adatok bejelentésének rendjéről szóló 303/2013. (VII. 31.)
+Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 97/2015. (IV. 10.) Korm. rendelethez
+A biztonsági kérdőív szempontjából lényeges adatok, tények és körülmények
+1. Név megváltozása (I/1.)
+2. Állampolgárság változása (II/1.)
+3. Jelenlegi házastársa, élettársa állampolgárságának változása (III/7.)
+4. Új házastárs, élettárs adatai (III/2–9.)
+5. Új házastárs, élettárs révén, illetve örökbefogadás útján a családba került gyermek adatai (III/10–17.)
+
+6. Új, közös háztartásba kerülő 18 év feletti személy adatai (III/18–25.)
+7. Új, Önnek vagy házastársának/élettársának külföldön élő hozzátartozó adatai (III/26–32.)
+8. Hat hónapot meghaladó külföldön tartózkodás jelzése (IV/4.)
+9. Főfoglalkozáson kívüli jövedelmében, naptári évi bruttó 1 millió forintot meghaladó mértékű változás, annak
+forrása (VIII/2.)
+10. Pénzintézetekkel szemben fennálló tartozásaiban, pénzügyi kötelezettségeiben naptári évi 1 millió forintot
+meghaladó mértékű változás (VIII/3.)
+11. Hazai gazdálkodó szervezetben meglévő érdekeltségben bekövetkezett változás (VIII/4–6.)
+12. Külföldi gazdálkodó szervezettel való hivatalos kapcsolatában történt változás (VIII/7–10.)
+13. Ön, valamint az Önnel közös háztartásban élő hozzátartozója vonatkozásában 1 millió forint feletti forgalmi
+értékű ingatlanon tulajdonszerzés (IX/1–5.)
+14. Ön, valamint az Önnel közös háztartásban élő hozzátartozója vonatkozásában 1 millió forintot meghaladó
+forgalmi értékű ingóságon tulajdonszerzés (IX/6–9.)
+15. Ön, valamint az Önnel közös háztartásban élő hozzátartozója vonatkozásában pénzintézetekkel szemben
+fennálló követelésekben bekövetkezett naptári évi 1 millió forint feletti összegű változás (IX/10–17.)
+16. Ön, valamint az Önnel közös háztartásban élő hozzátartozója vonatkozásában külföldről származó
+jövedelmében bekövetkezett, naptári évi bruttó 1 millió forintot meghaladó mértékű változás, annak forrása
+(IX/22–26.)
+17. Önnel, házastársával vagy élettársával szemben indult büntetőeljárás vagy elzárással büntethető
+szabálysértés miatt szabálysértési eljárás (X/3.)
+18. Külföldi hírszerző szolgálat jelenlétére utaló körülmény észlelése (XI/2.)
+19. Önnel, valamint közeli hozzátartozójával szemben külföldi hatóság által alkalmazott beutazási tilalom vagy
+más idegenrendészeti intézkedés (XI/3.)
+20. Ön, illetve házas- vagy élettársa vonatkozásában külföldi állampolgárokkal létesített új magánkapcsolat
+(XII/1–7.)
+21. Ön, illetve házas- vagy élettársa vonatkozásában külföldi hírszerző szolgálat vagy annak fedőszerve
+munkatársával létesített új kapcsolat (XII/8.)
+2. melléklet a 97/2015. (IV. 10.) Korm. rendelethez
+Az 1. mellékletben meghatározott adatok bejelentése
+A nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettséget legalább az alábbi adatok
+feltüntetésével kell teljesíteni:
+1. Név
+2. Születési hely
+3. Születési idő
+4. Telefonszám
+5. Az 1. § (1) bekezdésében meghatározott lényeges adatban bekövetkezett változás leírása, az Nbtv. 2. számú
+mellékletében meghatározott biztonsági kérdőív érintett pontjának feltüntetésével
+6. Késedelmes bejelentés esetén a késedelem oka
+7. Egyéb közlendő
+8. Dátum, aláírás
+
+V. A Kormány tagjainak rendeletei
