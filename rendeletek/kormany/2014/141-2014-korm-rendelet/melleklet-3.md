@@ -1,4 +1,4 @@
-3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^3]
+3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^6]
 
 A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósításra kerülő beruházások
 
@@ -138,4 +138,18 @@ A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvaló
 
 | 67. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Pannonhalma |
 
-[^3]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+| 68. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Baktalórántháza |
+
+| 69. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Balassagyarmat |
+
+| 70. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Csenger |
+
+| 71. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Fehérgyarmat |
+
+| 72. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Szob |
+
+| 73. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Törökszentmiklós |
+
+| 74. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Vajszló |
+
+[^6]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja, a 96/2015. (IV. 9.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

@@ -138,6 +138,20 @@
 
 | 68. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Pannonhalma közigazgatási területén fekvő, 473/1 helyrajzi számú ingatlan |
 
+| 69. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Baktalórántháza közigazgatási területén fekvő, 712/6 helyrajzi számú ingatlan |
+
+| 70. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Balassagyarmat közigazgatási területén fekvő, 3186/2 helyrajzi számú ingatlan |
+
+| 71. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Csenger közigazgatási területén fekvő, 451 helyrajzi számú ingatlan |
+
+| 72. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Fehérgyarmat közigazgatási területén fekvő, 1005/1 helyrajzi számú ingatlan |
+
+| 73. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Szob közigazgatási területén fekvő, 579 helyrajzi számú ingatlan |
+
+| 74. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Törökszentmiklós közigazgatási területén fekvő, 3998/2, 3995, 3996, 4034/4, 3998/1 helyrajzi számú ingatlanok, illetve az ezekből az ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanok |
+
+| 75. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Vajszló közigazgatási területén fekvő, 37/2 helyrajzi számú ingatlan |
+
 2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez
 
 Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
@@ -160,7 +174,7 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőség�
 
 9. útügyi hatósági eljárások,
 
-10.[^2] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+10.[^5] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 11. műszaki biztonsági engedélyezési eljárások,
 
@@ -182,4 +196,4 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőség�
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 2. melléklet 10. pontja a 72/2015. (III. 30.) Korm. rendelet 81. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^5]: A 2. melléklet 10. pontja a 72/2015. (III. 30.) Korm. rendelet 81. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.

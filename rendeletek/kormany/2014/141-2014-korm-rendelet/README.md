@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-141-20-
 | 2014-08-28 | 2014-141-20-22.2 | 213/2014. (VIII. 27.) Korm. rendelet |
 | 2015-03-18 | 2014-141-20-22.3 | 213/2014. (VIII. 27.) Korm. rendelet |
 | 2015-04-01 | 2014-141-20-22.4 | 72/2015. (III. 30.) Korm. rendelet |
+| 2015-04-10 | 2014-141-20-22.5 | 96/2015. (IV. 9.) Korm. rendelet |
