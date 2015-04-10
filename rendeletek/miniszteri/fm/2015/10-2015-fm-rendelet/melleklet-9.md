@@ -1,4 +1,4 @@
-9. melléklet a 10/2015. (III. 13.) FM rendelethez[^8]
+9. melléklet a 10/2015. (III. 13.) FM rendelethez[^10]
 
 A gazdálkodási napló formai és tartalmi követelményei
 
@@ -60,4 +60,4 @@ Dátum: Aláírás
 
 Dátum: Aláírás
 
-[^8]: A 9. melléklet a 12/2015. (III. 30.) FM rendelet 32. § (2) bekezdésével megállapított szöveg.
+[^10]: A 9. melléklet a 12/2015. (III. 30.) FM rendelet 32. § (2) bekezdésével megállapított szöveg.

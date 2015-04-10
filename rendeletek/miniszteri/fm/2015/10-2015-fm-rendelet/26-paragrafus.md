@@ -1,3 +1,3 @@
-## 25.[^7]
+## 25.[^9]
 
-[^7]: A 25. alcímet (26. §) a 12/2015. (III. 30.) FM rendelet 32. § (4) bekezdése hatályon kívül helyezte.
+[^9]: A 25. alcímet (26. §) a 12/2015. (III. 30.) FM rendelet 32. § (4) bekezdése hatályon kívül helyezte.

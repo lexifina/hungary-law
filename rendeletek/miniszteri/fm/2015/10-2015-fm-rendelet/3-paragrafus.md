@@ -13,3 +13,7 @@ b) rendelkeznie kell a 34/2013. (V. 14.) VM rendelet szerinti tanúsító szerve
 (4) A tanúsító szervezet évente, az adott év augusztus 1-jéig a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) adatszolgáltatása alapján az MVH részére tájékoztatást nyújt a mezőgazdasági termelő (2) bekezdés a) pontjában foglaltaknak való megfeleléséről, valamint arról, hogy a támogatási kérelemben a kérelmező által megjelölt ökológiai gazdálkodásba vont terület a tanúsító szervezet nyilvántartásában szerepel.
 
 (5) Ha egy, az e rendelet szerinti támogatással érintett földterület ökológiai tanúsítása megszüntetésre kerül, akkor a tanúsító szervezet a megszüntetést követő nyolc munkanapon belül megküldi az MVH-nak az érintett földterület és a mezőgazdasági termelő azonosító adatait.
+
+(6)[^1] Támogatás igénybevételére jogosult az a mezőgazdasági termelő is, aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy a támogatás feltételeinek egyébként megfelel.
+
+[^1]: A 3. § (6) bekezdését a 17/2015. (IV. 9.) FM rendelet 17. §-a iktatta be.
