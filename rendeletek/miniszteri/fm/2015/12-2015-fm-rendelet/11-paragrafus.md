@@ -1,4 +1,4 @@
-11. § (1) Ha az egységes kérelemmel kapcsolatos valamely eljárási cselekményt kamarai meghatalmazott végzi, a kamarai meghatalmazott – a képviseleti jogosultságának (2) bekezdés szerinti igazolását követően – e cselekmények elvégzésére saját ügyfélkapuját használja.
+11. § (1)[^1] Ha az egységes kérelemmel kapcsolatos és az egységes kérelem benyújtására szolgáló, az MVH honlapján keresztül elérhető elektronikus űrlapkitöltő felületen történő támogatási és kifizetési kérelem beadással kapcsolatos kapcsolatos valamely eljárási cselekményt kamarai meghatalmazott végzi, a kamarai meghatalmazott – a képviseleti jogosultságának (2) bekezdés szerinti igazolását követően – e cselekmények elvégzésére saját ügyfélkapuját használja.
 
 (2) Az eljárási cselekmények elektronikus elvégzését megelőzően a kamarai meghatalmazottnak kérelmeznie kell az ügyfél-nyilvántartási rendszerbe történő nyilvántartásba vételét, és az eljárására vonatkozó kamarai meghatalmazást az erre a célra rendszeresített nyomtatványon, elektronikus úton, ügyfélkapun keresztül be kell nyújtania az MVH-hoz.
 
@@ -13,3 +13,5 @@
 (7) Amennyiben a 2015. április 1-je előtt bejelentett és vissza nem vont technikai közreműködés nem kizárólag a (6) bekezdésben meghatározott ügyek intézésére vonatkozik, akkor a technikai közreműködésre vonatkozó jogosultság nem kerül megszüntetésre, ebben az esetben kizárólag a technikai közreműködő egységes kérelmet érintő ügyek intézésére vonatkozó jogosultságát tekinti az MVH visszavontnak.
 
 (8) A kamarai meghatalmazás megszűnik a kamarai meghatalmazott NAK-nál fennálló munkaviszonya megszűnésének időpontjában. A kamarai meghatalmazott a tartós távollétéről vagy munkaviszonyának megszűnéséről – a távollét időtartamának vagy a megszűnés időpontjának pontos megjelölésével – az MVH-t és az ügyfelet egyidejűleg értesíti. A kamarai meghatalmazott tartós távolléte esetén – ha az ügyfél ehhez a kamarai meghatalmazásban hozzájárult – a NAK gondoskodik a helyettesítő kamarai meghatalmazott kijelöléséről.
+
+[^1]: A 11. § (1) bekezdése a 17/2015. (IV. 9.) FM rendelet 19. §-a szerint módosított szöveg.
