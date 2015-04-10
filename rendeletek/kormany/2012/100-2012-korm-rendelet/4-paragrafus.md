@@ -10,6 +10,8 @@
 
 (6)[^12] E rendeletnek a Budapest V. kerület Kossuth Lajos téri beruházással összefüggő egyes kormányrendeletek módosításáról szóló 23/2015. (II. 18.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1/A. §-át, 1/B. §-át és 2. mellékletét a Módr3. hatálybalépésekor[^13] folyamatban lévő ügyekben is alkalmazni kell.
 
+(7)[^14] E rendeletnek a Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet, valamint a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósítandó tanuszoda, tornaterem, tanterem beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 141/2014. (IV. 30.) Korm. rendelet módosításáról szóló 96/2015. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr4.) módosított 1. § (1) bekezdését és 1. mellékletét a Módr4. hatálybalépésekor[^15] folyamatban lévő ügyekben is alkalmazni kell.
+
 [^7]: A 4. § (3) bekezdését a 127/2012. (VI. 26.) Korm. rendelet 4. §-a iktatta be.
 [^8]: A 4. § (4) bekezdését a 229/2014. (IX. 5.) Korm. rendelet 84. §-a iktatta be.
 [^9]: A hatálybalépés időpontja 2014. szeptember 13.
@@ -17,3 +19,5 @@
 [^11]: A hatálybalépés időpontja 2014. szeptember 13.
 [^12]: A 4. § (6) bekezdését a 23/2015. (II. 18.) Korm. rendelet 3. §-a iktatta be.
 [^13]: A hatálybalépés napja: 2015. február 19.
+[^14]: A 4. § (7) bekezdését a 96/2015. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2015. április 10.
