@@ -16,7 +16,7 @@
 
 6. birtokon tartás: a kérelmezett állatnak az egyes jogcímeknél meghatározott ideig a kérelmező tenyészetében történő tartása;
 
-7. egyéni referenciamennyiség: a tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló miniszteri rendelet (a továbbiakban: Kvótarendelet) szerinti mennyiség;
+7.[^1]
 
 8. egyéni támogatási felsőhatár: a mezőgazdasági termelőt megillető, az állatlétszámhoz kötött támogatási jogosultságról szóló miniszteri rendelet és az állatlétszámhoz kötött támogatási jogosultság országos tartalékból való igénylésének feltételeiről szóló miniszteri rendelet alapján nyilvántartott támogatási jogosultságok összege;
 
@@ -41,3 +41,5 @@
 18. történelmi bázis: a referencia időszakra vonatkozóan meghatározott termelési egység (állatlétszám, terület, tonna, kg) mértéke, amely a termeléstől elválasztott támogatások alapját képezi;
 
 19. történelmi bázis jogosultság: az ügyfél történelmi bázisa alapján megállapított mezőgazdasági vagyoni értékű jog.
+
+[^1]: Az 1. § 7. pontját a 17/2015. (IV. 9.) FM rendelet 11. §-a hatályon kívül helyezte.
