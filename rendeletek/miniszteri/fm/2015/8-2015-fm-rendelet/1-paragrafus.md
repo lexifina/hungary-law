@@ -22,7 +22,7 @@ c) a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti szálláshely
 
 7. mezőgazdasági termék: az Európai Unió működéséről szóló Szerződés I. számú mellékletében felsorolt termékek a halászati termékek kivételével, valamint a gyapot;
 
-8. mezőgazdasági tevékenység: mezőgazdasági termékek termelése, tenyésztése vagy termesztése – ideértve a betakarítást, a fejést, az állattenyésztés és a mezőgazdasági célból történő állattartást –, valamint egy mezőgazdasági terület olyan állapotban tartása, hogy az a szokásos mezőgazdasági módszereken és gépeken túlmutató előkészítés nélkül alkalmas legyen legeltetésre vagy növénytermesztésre;
+8.[^1] mezőgazdasági tevékenység: mezőgazdasági termékek termelése, tenyésztése vagy termesztése – ideértve a betakarítást, a fejést, az állattenyésztés és a mezőgazdasági célból történő állattartást –, illetve az éghajlat és környezet szempontjából előnyös mezőgazdasági gyakorlatokra nyújtandó támogatás igénybevételének szabályairól, valamint a szántóterület, az állandó gyepterület és az állandó kultúrával fedett földterület növénytermesztésre vagy legeltetésre alkalmas állapotban tartásának feltételeiről szóló 10/2015. (III. 13.) FM rendelet 2. §-ában meghatározottaknak megfelelő gazdálkodás;
 
 9. mezőgazdasági tevékenységből származó bevétel: a mezőgazdasági termelőnek a mezőgazdasági üzemében végzett mezőgazdasági tevékenységből szerzett bevétele, beleértve az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alapból kapott támogatásokat, a mezőgazdasági tevékenység után járó nemzeti támogatásokat – a halászati de minimis támogatás kivételével –, valamint mezőgazdasági termékek feldolgozásából származó bevétel, feltéve, hogy a feldolgozott termékek a mezőgazdasági termelő tulajdonában maradnak és a feldolgozás eredménye egy másik mezőgazdasági termék;
 
@@ -33,3 +33,5 @@ c) a kereskedelemről szóló 2005. évi CLXIV. törvény szerinti szálláshely
 12. vasúttársaság üzemeltetője: a Nemzeti Közlekedési Hatóság nyilvántartásába engedélyköteles vagy bejelentéshez kötött vasúti szolgáltatás végzőjeként bejegyzett, illetve az 1. melléklet III. pontjában vagy a 2. melléklet IV. pontjában meghatározott TEÁOR vagy ÖVTJ kódok valamelyike szerinti tevékenységet végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet;
 
 13. vízmű üzemeltetője: a Magyar Energetikai és Közműszabályozási Hivatal nyilvántartásába bejegyzett víziközmű szolgáltató, illetve az 1. melléklet IV. pontjában vagy a 2. melléklet V. pontjában meghatározott TEÁOR vagy ÖVTJ kód valamelyike szerinti tevékenységet végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
+
+[^1]: Az 1. § 8. pontja a 16/2015. (IV. 9.) FM rendelet 7. §-ával megállapított szöveg.
