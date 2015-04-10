@@ -4,7 +4,7 @@
 
 a) a 42. § (3) bekezdés b) pontjában foglalt eseteket kivéve, a használt jármű, továbbá a gyártótól származó járműkísérő lappal nem rendelkező új jármű, valamint a járműnyilvántartásba korábban még nem vett lassú jármű, vagy egyéb jármű első forgalomba helyezésekor;
 
-b) a forgalomból végleg, vagy átmeneti időszakra kivont járművek ismételt forgalomba helyezésekor, illetve a forgalomból ideiglenesen kivont járművek esetében az ismételt forgalomba helyezéskor akkor, ha tulajdonosváltozás következett be;
+b)[^71] a forgalomból végleg vagy átmeneti időszakra kivont jármű ismételt forgalomba helyezésekor;
 
 c) a jármű alvázszámának megváltoztatásával járó műszaki beavatkozást – alvázszámot hordozó szerkezeti elem, alváz vagy karosszéria cseréje – megelőzően;
 
@@ -20,7 +20,7 @@ d) a jármű – kivéve a lassú járművet és a lassú jármű pótkocsiját 
 
 (6) Az (1) bekezdésben felsorolt közlekedési igazgatási eljárásban a közlekedési igazgatási hatóság ellenőrzi a jármű előzetes eredetiségvizsgálatának meglétét, eredményét, valamint annak érvényességi idejét.
 
-(7)[^58] Az előzetes eredetiségvizsgálat elvégzése nélkül is nyilvántartásba kell venni a jármű tulajdonjogában bekövetkezett változást, ha annak jogalapja
+(7)[^72] Az előzetes eredetiségvizsgálat elvégzése nélkül is nyilvántartásba kell venni a jármű tulajdonjogában bekövetkezett változást, ha annak jogalapja
 
 a) öröklés,
 
@@ -36,4 +36,5 @@ f) a használt jármű cégjegyzék vagy vállalkozói igazolvány alapján az a
 
 (8) A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
 
-[^58]: Az 52. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^71]: Az 52. § (1) bekezdés b) pontja a 90/2015. (IV. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^72]: Az 52. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 21. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 112. §[^112] A közlekedési igazgatási hatóság az okmány visszavonásával egyidejűleg intézkedik a nyilvántartásban szereplő valótlan adatok javításáról, az okmány érvénytelenítését követő selejtezésről, valamint a nyilvántartásban szereplő azonosító adatok szerinti jármű valós műszaki adatainak megfelelő okmány kiadásáról, ha a járműhöz tartozó forgalmi engedély, törzskönyv vagy az abba tett bejegyzés hamis, hamisított, vagy valótlan tényt, adatot, jogosultságot tartalmaz, a nyomozó hatóság lefoglalást megszüntető, vagy a büntetőeljárást lezáró határozata alapján.
+## 112. §[^129] A közlekedési igazgatási hatóság az okmány visszavonásával egyidejűleg intézkedik a nyilvántartásban szereplő valótlan adatok javításáról, az okmány érvénytelenítését követő selejtezésről, valamint a nyilvántartásban szereplő azonosító adatok szerinti jármű valós műszaki adatainak megfelelő okmány kiadásáról, ha a járműhöz tartozó forgalmi engedély, törzskönyv vagy az abba tett bejegyzés hamis, hamisított, vagy valótlan tényt, adatot, jogosultságot tartalmaz, a nyomozó hatóság lefoglalást megszüntető, vagy a büntetőeljárást lezáró határozata alapján.
 
-112/A. §[^113] (1) A Hivatal a forgalmi engedélyre a figyelmeztető jelzés SIS II-ben történő – külön jogszabályban foglaltak szerinti – elhelyezéséről, illetve törléséről az alábbiak szerint gondoskodik:
+112/A. §[^130] (1) A Hivatal a forgalmi engedélyre a figyelmeztető jelzés SIS II-ben történő – külön jogszabályban foglaltak szerinti – elhelyezéséről, illetve törléséről az alábbiak szerint gondoskodik:
 
 a) a 89. § (7)–(10) bekezdésében meghatározott esetekben a forgalmi engedély elvesztése, eltulajdonítása, megsemmisülése, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg;
 
@@ -10,5 +10,5 @@ b) a 101. § (1) bekezdés b) pontja esetén, amennyiben a forgalmi engedély é
 
 (3) Amennyiben a forgalmi engedély vagy állandó rendszámtábla jogosultja annak megsemmisüléséről nyilatkozott, azt a közlekedési igazgatási eljárás során elveszettként kell kezelni és a nyilvántartásba az érvénytelenség tényét „elveszett (megsemmisült)” okkal kell bejegyezni.
 
-[^112]: A 112. § az 544/2013. (XII. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^113]: A 112/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (6) bekezdése iktatta be.
+[^129]: A 112. § az 544/2013. (XII. 30.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^130]: A 112/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (6) bekezdése iktatta be.

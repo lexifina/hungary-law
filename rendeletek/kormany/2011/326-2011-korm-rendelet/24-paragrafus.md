@@ -1,8 +1,8 @@
 24. § (1) A járművezetésre jogosító okmányok kiadására, cseréjére és pótlására irányuló eljárás kérelemre indul.
 
-(2) Az első vezetői engedély kiadására, vagy az új kategória, alkategória és kombinált kategória bejegyzésére és a vezetői engedély cseréjére irányuló kérelmet a közlekedési igazgatási hatóságnál személyesen lehet benyújtani. Elektronikus úton is be lehet jelenteni a 2001. január 1-je után kiadott vezetői engedély elvesztését, ellopását, megsemmisülését, és kezdeményezhető annak pótlása. Az elektronikus úton kezdeményezett pótlás esetén – az okmányazonosító adat kivételével – a korábbi vezetői engedéllyel megegyező adattartalommal kell kiállítani a vezetői engedélyt.
+(2)[^36] Az első vezetői engedély kiadására, vagy az új kategória és kombinált kategória bejegyzésére és a vezetői engedély cseréjére irányuló kérelmet a közlekedési igazgatási hatóságnál személyesen lehet benyújtani. Elektronikus úton is be lehet jelenteni a 2001. január 1-je után kiadott vezetői engedély elvesztését, ellopását, megsemmisülését, és kezdeményezhető annak pótlása. Az elektronikus úton kezdeményezett pótlás esetén – az okmányazonosító adat kivételével – a korábbi vezetői engedéllyel megegyező adattartalommal kell kiállítani a vezetői engedélyt.
 
-(3)[^28]
+(3)[^37]
 
 (4) A közlekedési igazgatási hatóság az ügyfél kérelmét elektronikus adattartalommal készíti el. A vezetői engedély iránti kérelem személyes előterjesztésekor a közlekedési igazgatási hatóság a jogosultról arcképmás felvételt készít.
 
@@ -10,7 +10,7 @@
 
 (6) Amennyiben a kérelmező magyar állampolgár érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal nem rendelkezik, vagy adataiban időközben változás következett be, az eljárás csak az ideiglenes személyazonosító igazolvány kiállítását követően folytatható le.
 
-(7)[^29] A vezetői engedély kiadására irányuló eljárásban a kérelmező jogosultságát és személyazonosságát ellenőrizni kell. Ennek során a kérelem adatait egyeztetni kell a személyazonosító igazolvány vagy személyazonosságot igazoló más érvényes okmány adattartalmával, vagy a bemutatott okiratokban szereplő adatokkal. A közlekedési igazgatási hatóság az egyeztetést a személyiadat- és lakcímnyilvántartásban tárolt adatokkal – a központi szerv közreműködésével – is elvégzi.
+(7)[^38] A vezetői engedély kiadására irányuló eljárásban a kérelmező jogosultságát és személyazonosságát ellenőrizni kell. Ennek során a kérelem adatait egyeztetni kell a személyazonosító igazolvány vagy személyazonosságot igazoló más érvényes okmány adattartalmával, vagy a bemutatott okiratokban szereplő adatokkal. A közlekedési igazgatási hatóság az egyeztetést a személyiadat- és lakcímnyilvántartásban tárolt adatokkal – a központi szerv közreműködésével – is elvégzi.
 
 (8) Ha a kérelmező bevándorolt, letelepedett vagy menekült jogállású személy, a kérelemhez be kell mutatnia az érvényes személyazonosító igazolványát.
 
@@ -22,5 +22,6 @@
 
 (12) A közlekedési igazgatási hatóság a személyi azonosítót a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó személyek esetében az azt igazoló és az ügyfél által bemutatott okmány alapján ellenőrzi.
 
-[^28]: A 24. § (3) bekezdését az 544/2013. (XII. 30.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
-[^29]: A 24. § (7) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^36]: A 24. § (2) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^37]: A 24. § (3) bekezdését az 544/2013. (XII. 30.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
+[^38]: A 24. § (7) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.

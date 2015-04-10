@@ -1,4 +1,4 @@
-## I. A járműkísérő lap tartalmi elemei
+## I.[^158] A járműkísérő lap tartalmi elemei
 
 ## H
 
@@ -78,7 +78,7 @@
 
 ## sebességváltóra vonatkozó adatok (kódszám)***
 
-## a jármű gyártási éve [a többször módosított 5/1990. (IV. 12.) KHVM rendelet 2. § (4) bekezdés b) pontja]
+## a jármű gyártási éve [a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 2. § (4) bekezdés b) pontja]
 
 ## forgalmi engedély száma
 
@@ -134,47 +134,47 @@
 
 ## a kiállítás helye, ideje, a kiállító közlekedési igazgatási hatóság megnevezése, bélyegzőlenyomat helye
 
-## II. A járműkísérő lap kitöltésének szabályai
+## II.[^159] A járműkísérő lap kitöltésének szabályai
 
 ## I. Új jármű forgalomba helyezése előtt;
 
 ## a) A járműimportőr:
 
-## Az importőrnek – a Hivatal Központi Okmányirodája által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 4. § (2) bekezdésében meghatározott műbizonylattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
+## Az importőrnek – a Hivatal Központi Okmányirodája által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározott Megfelelőségi nyilatkozattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
 
-## – D adatmező, (D.1.), (D.2.), a) pont az 5/1990. (IV. 12.) KöHÉM rendelet A. függelék A/2. számú melléklet I. Rész meghatározása alapján, B. függelék I. rész alapján, (D.3.),
+## aa) D adatmező, (D.1.), (D.2.), a) pont az 5/1990. (IV. 12.) KöHÉM rendelet A. függelék A/2. számú melléklet I. Rész meghatározása alapján, B. függelék I. rész alapján, (D.3.),
 
-## – E adatmező,
+## ab) E adatmező,
 
-## – F adatmező: (F.1.) kötelezően, a műbizonylatnak megfelelően,
+## ac) F adatmező: (F.1.) kötelezően, a Megfelelőségi nyilatkozatnak megfelelően,
 
-## – K adatmező (Típusbizonyítvány hiánya esetén forgalomba helyezési engedély kötelező),
+## ad) K adatmező (Típusbizonyítvány hiánya esetén forgalomba helyezési engedély kötelező),
 
-## – P adatmező (ha a járműben beépített motor van): (P.1), (P.2.), (P.3.) műbizonylat alapján, (P.5.) mező a jármű motorkódjával együtt, a fellelhető gyári motorszám (ha van) adatmező,
+## ae) P adatmező (ha a járműben beépített motor van): (P.1), (P.2.), (P.3.) Megfelelőségi nyilatkozat alapján, (P.5.) mező a jármű motorkódjával együtt, a fellelhető gyári motorszám (ha van) adatmező,
 
-## – Gyártó megnevezése,
+## af) Gyártó megnevezése,
 
-## – Forgalmazó megnevezése (a Járműkísérő lapot a Központi Okmányirodából felelősen átvevő cég megnevezése),
+## ag) Forgalmazó megnevezése (a Járműkísérő lapot a Központi Okmányirodából felelősen átvevő cég megnevezése),
 
-## – A fenti adatokat kitöltő cégbélyegzője, a kiállításért felelős aláírása, a kiállítás dátuma.
+## ah) A fenti adatokat kitöltő cégbélyegzője, a kiállításért felelős aláírása, a kiállítás dátuma.
 
 ## b) Az értékesítő:
 
 ## A gyártótól, illetve az importőrtől az adott járműhöz tartozó Járműkísérő lapot a műszaki megvizsgálást követően a közlekedési hatóság által kiállított Műszaki Adatlap alapján, illetve a Közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározottak szerinti eljárást követően az értékesítés során az alábbi adatokkal kell kiegészíteni:
 
-## – C.1. adatmező,
+## ba) C.1. adatmező,
 
-## – G adatmező (műbizonylat szerint, ha gyári állapot, egyéb esetben Műszaki Adatlap),
+## bb) G adatmező (Megfelelőségi nyilatkozat szerint, ha gyári állapot, egyéb esetben Műszaki Adatlap),
 
-## – Műszaki érvényességre vonatkozó adatok,
+## bc) Műszaki érvényességre vonatkozó adatok,
 
-## – R adatmező,
+## bd) R adatmező,
 
-## – S adatmező (valós állapotnak megfelelően),
+## be) S adatmező (valós állapotnak megfelelően),
 
-## – Vontatásra, sebességváltóra, környezetvédelmi osztályra vonatkozó adatok,
+## bf) Vontatásra, sebességváltóra, környezetvédelmi osztályra vonatkozó adatok,
 
-## – A jármű gyártási éve.
+## bg) A jármű gyártási éve.
 
 ## Az értékesítő a Járműkísérő lap második oldalán az általa rögzített adatokat a „kiállító aláírása” rovatnál az értékesítő aláírással és cégbélyegzővel hitelesíti.
 
@@ -187,3 +187,6 @@
 ## A lapok hatósági felhasználása során a különböző felhasználók által kötelezően kitöltendő adatmezők adatainak feltüntetését ellenőrizni kell, hiányosan kiállított okmány nem használható fel.
 
 16. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
+
+[^158]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
+[^159]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.

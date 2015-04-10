@@ -1,4 +1,4 @@
-84. § (1)[^84] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
+84. § (1)[^101] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
 
 (2) Az át nem vett törzskönyvet az értesítési cím szerint illetékes közlekedési igazgatási hatóság az okmány kiállításától számított egy évig megőrzi, ezt követően a Hivatalnak megsemmisítés céljából megküldi.
 
@@ -14,7 +14,7 @@ b) a jármű V betűjelű különleges rendszámtáblával történő ellátása
 
 c) a jármű DT, CK betűjelű különleges rendszámtáblával történő ellátása során,
 
-d)[^85] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
+d)[^102] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
 
 e) a négykerekű segédmotoros kerékpárok rendszámtáblával történő ellátása során.
 
@@ -26,8 +26,8 @@ b) a „haszonélvezeti joggal terhelt” bejegyzés, ha a járműre haszonélve
 
 c) a „közös tulajdon” bejegyzés, ha a jármű tulajdonjoga több személyt is megillet;
 
-d)[^86] az „előzetes eredetiségvizsgálat alól mentesült” bejegyzés, ha a jármű forgalomba helyezése vagy tulajdonjogában bekövetkezett változás nyilvántartásba vétele előzetes eredetiségvizsgálat elvégzése nélkül történik.
+d)[^103] az „előzetes eredetiségvizsgálat alól mentesült” bejegyzés, ha a jármű forgalomba helyezése vagy tulajdonjogában bekövetkezett változás nyilvántartásba vétele előzetes eredetiségvizsgálat elvégzése nélkül történik.
 
-[^84]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^85]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
-[^86]: A 84. § (6) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^101]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^102]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
+[^103]: A 84. § (6) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.

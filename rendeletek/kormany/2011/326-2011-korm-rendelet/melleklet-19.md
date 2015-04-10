@@ -20,7 +20,7 @@ c) az E betűjelű ideiglenes rendszámtábla, az ideiglenes forgalomban tartás
 
 d) személyes megjelenés esetén az ügyfél, képviseleti eljárás esetén a meghatalmazott személyazonosságát igazoló okmányt, illetve képviseleti eljárás esetén meghatalmazást, valamint
 
-e)[^140] jogi személy esetében
+e)[^160] jogi személy esetében
 
 ea) ha a közlekedési igazgatási hatóság a kérelemről azonnal dönt a közjegyzői aláírás-hitelesítéssel ellátott címpéldányt, avagy ennek közjegyző által hitelesített másolatát vagy az ügyvéd által ellenjegyzett aláírás-mintát,
 
@@ -60,13 +60,13 @@ a) a kötelező gépjármű-felelősségbiztosítás meglétéről, vagy a mente
 
 b) a vagyonszerzési illeték megfizetését tanúsító igazolást, ha a tulajdonszerzés és a jármű birtokba vétele a Magyarország területén történt,
 
-c) [^141]
+c) [^161]
 
 d) az ügyfél-azonosító okmányt,
 
 e) a 3,5 tonna össztömeget meghaladó tehergépjármű és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-f)[^142] a bizalmi vagyonkezelői minőséget igazoló okiratot.
+f)[^162] a bizalmi vagyonkezelői minőséget igazoló okiratot.
 
 2. Az EGT valamely más tagállamából származó használt jármű forgalomba helyezése során
 
@@ -86,13 +86,13 @@ a) a kötelező gépjármű-felelősségbiztosítás meglétéről vagy a mentes
 
 b) a vagyonszerzési illeték megfizetését tanúsító igazolást, ha a tulajdonszerzés és a jármű birtokba vétele a Magyarország területén történt,
 
-c)[^143]
+c)[^163]
 
 d) az ügyfél-azonosító okmányt,
 
 e) a 3,5 tonna össztömeget meghaladó tehergépjármű és autóbusz esetében – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-f)[^144] a bizalmi vagyonkezelői minőséget igazoló okiratot.
+f)[^164] a bizalmi vagyonkezelői minőséget igazoló okiratot.
 
 3. Új jármű forgalomba helyezése során
 
@@ -114,13 +114,13 @@ b) a kötelező gépjármű-felelősségbiztosítás meglétéről, vagy a mente
 
 c) a vagyonszerzési illeték megfizetését tanúsító igazolást, ha a tulajdonszerzés és a jármű birtokba vétele a Magyarország területén történt,
 
-d)[^145]
+d)[^165]
 
 e) az ügyfél-azonosító okmányt,
 
 f) a 3,5 tonna össztömeget meghaladó tehergépjármű és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-g)[^146] a bizalmi vagyonkezelői minőséget igazoló okiratot
+g)[^166] a bizalmi vagyonkezelői minőséget igazoló okiratot
 
 III. A járművek tulajdonjog-változásának nyilvántartásba vételéhez (a továbbiakban: átírás) szükséges okmányok
 
@@ -150,7 +150,7 @@ d) az ügyfél-azonosító okmányt,
 
 e) a 3,5 tonna össztömeget meghaladó tehergépjármű és autóbusz esetében – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-f)[^147] a bizalmi vagyonkezelői minőséget igazoló okiratot.
+f)[^167] a bizalmi vagyonkezelői minőséget igazoló okiratot.
 
 2. Az új típusú forgalmi engedélyek (17. melléklet B. és C. pont) esetében szükséges okmányok
 
@@ -180,7 +180,7 @@ d) az ügyfél-azonosító okmányt,
 
 e) a 3,5 tonna össztömeget meghaladó tehergépjármű és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-f)[^148] a bizalmi vagyonkezelői minőséget igazoló okiratot.
+f)[^168] a bizalmi vagyonkezelői minőséget igazoló okiratot.
 
 IV. A járművek forgalomból történő kivonásához szükséges okmányok
 
@@ -188,7 +188,7 @@ IV. A járművek forgalomból történő kivonásához szükséges okmányok
 
 A kérelem benyújtásakor be kell mutatni:
 
-a)[^149]
+a)[^169]
 
 b) az igazgatási szolgáltatási díj befizetéséről szóló igazolást,
 
@@ -340,7 +340,7 @@ a) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást,
 
 b) a rövid szöveges üzenet fogadására szolgáló elérhetőség, telefonszám vagy elektronikus levélcím bejegyzésére irányuló kérelmet.
 
-10.[^150] Az opciós jog vagy a tulajdonjogot érintő korlátozás nyilvántartásba vétele vagy törlése esetén a bejegyzés vagy a törlés alapjául szolgáló okirat eredeti példányát.
+10.[^170] Az opciós jog vagy a tulajdonjogot érintő korlátozás nyilvántartásba vétele vagy törlése esetén a bejegyzés vagy a törlés alapjául szolgáló okirat eredeti példányát.
 
 B) A kérelem benyújtásakor be kell mutatni:
 
@@ -398,22 +398,22 @@ B) A vezetői engedélyekkel kapcsolatos ügyintézés során be kell mutatni:
 
 a) a személyazonosításra alkalmas okmányt,
 
-b)[^151] a személyi azonosítót és lakcímet igazoló hatósági igazolványt,
+b)[^171] a személyi azonosítót és lakcímet igazoló hatósági igazolványt,
 
 c) külföldi esetén a szokásos tartózkodási hely országát igazoló okmányt,
 
-d)[^152]
+d)[^172]
 
-[^140]: A 19. melléklet I. rész 2. pont e) alpontja az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
-[^141]: A 19. melléklet II. fejezet 1. pont B) pont c) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.
-[^142]: A 19. melléklet II. fejezet 1. pont B) pont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdése iktatta be.
-[^143]: A 19. melléklet II. fejezet 2. pont B) pont c) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § e) pontja hatályon kívül helyezte.
-[^144]: A 19. melléklet II. fejezet 2. pont B) pont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdése iktatta be.
-[^145]: A 19. melléklet II. fejezet 3. pont B) pont d) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § f) pontja hatályon kívül helyezte.
-[^146]: A 19. melléklet II. fejezet 3. pont B) alpont g) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
-[^147]: A 19. melléklet III. fejezet 1. pont B) alpont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
-[^148]: A 19. melléklet III. fejezet 2. pont B) alpont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
-[^149]: A 19. melléklet IV. fejezet 1. pont a) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § g) pontja hatályon kívül helyezte.
-[^150]: A 19. melléklet V. fejezet A) pont 10) pontja az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
-[^151]: A 19. melléklet VI. alcím B) pont b) alpontja az 515/2013. (XII. 30.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
-[^152]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^160]: A 19. melléklet I. rész 2. pont e) alpontja az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
+[^161]: A 19. melléklet II. fejezet 1. pont B) pont c) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.
+[^162]: A 19. melléklet II. fejezet 1. pont B) pont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdése iktatta be.
+[^163]: A 19. melléklet II. fejezet 2. pont B) pont c) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § e) pontja hatályon kívül helyezte.
+[^164]: A 19. melléklet II. fejezet 2. pont B) pont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdése iktatta be.
+[^165]: A 19. melléklet II. fejezet 3. pont B) pont d) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § f) pontja hatályon kívül helyezte.
+[^166]: A 19. melléklet II. fejezet 3. pont B) alpont g) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
+[^167]: A 19. melléklet III. fejezet 1. pont B) alpont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
+[^168]: A 19. melléklet III. fejezet 2. pont B) alpont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
+[^169]: A 19. melléklet IV. fejezet 1. pont a) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § g) pontja hatályon kívül helyezte.
+[^170]: A 19. melléklet V. fejezet A) pont 10) pontja az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
+[^171]: A 19. melléklet VI. alcím B) pont b) alpontja az 515/2013. (XII. 30.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
+[^172]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.

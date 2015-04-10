@@ -1,6 +1,6 @@
-## 25/A. §[^30] Ha a járművezető rendelkezik a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott érvényes vezetői engedély kategóriához tartozó „Gépjárművezetői képesítési igazolvány”-nyal, akkor a vezetői engedély kiadása, pótlása, cseréje, honosítása tárgyában általa kezdeményezett eljárás során kérelmezheti a részére kiadásra kerülő vezetői engedélyben a 95. számú közösségi kód feltüntetését a megfelelő vezetői engedély kategóriához tartozóan a „Gépjárművezetői képesítési igazolvány” időbeli hatályával megegyező időtartamra.
+## 25/A. §[^39] Ha a járművezető rendelkezik a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott érvényes vezetői engedély kategóriához tartozó „Gépjárművezetői képesítési igazolvány”-nyal, akkor a vezetői engedély kiadása, pótlása, cseréje, honosítása tárgyában általa kezdeményezett eljárás során kérelmezheti a részére kiadásra kerülő vezetői engedélyben a 95. számú közösségi kód feltüntetését a megfelelő vezetői engedély kategóriához tartozóan a „Gépjárművezetői képesítési igazolvány” időbeli hatályával megegyező időtartamra.
 
-26. §[^31] (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 33. § (5) bekezdése szerinti bejelentési kötelezettség az ott meghatározott okokból a pótlás iránti kérelem benyújtásával is, valamint – az okmány eltulajdonítása esetén – a rendőrséghez tett feljelentéssel is teljesíthető.
+26. §[^40] (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 33. § (5) bekezdése szerinti bejelentési kötelezettség az ott meghatározott okokból a pótlás iránti kérelem benyújtásával is, valamint – az okmány eltulajdonítása esetén – a rendőrséghez tett feljelentéssel is teljesíthető.
 
 (2) A közlekedési igazgatási hatóság és – amennyiben az (1) bekezdés szerinti bejelentés hozzá érkezik – a Hivatal haladéktalanul gondoskodik az (1) bekezdés szerinti okmány elvesztése, eltulajdonítása, megsemmisülése tényének a nyilvántartáson történő átvezetéséről.
 
@@ -8,5 +8,5 @@
 
 (4) Amennyiben a vezetői engedély jogosultja a vezetői engedély megsemmisüléséről nyilatkozott, azt a közlekedési igazgatási eljárás során elveszettként kell kezelni, és az engedély-nyilvántartásba az érvénytelenség tényét „elveszett (megsemmisült)” okkal kell bejegyezni.
 
-[^30]: A 25/A. §-t a 280/2013. (VII. 24.) Korm. rendelet 19. §-a iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^31]: A 26. § a 15/2013. (I. 28.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^39]: A 25/A. §-t a 280/2013. (VII. 24.) Korm. rendelet 19. §-a iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^40]: A 26. § a 15/2013. (I. 28.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.

@@ -24,6 +24,6 @@ c) a 17. melléklet B. pontja szerinti forgalmi engedélyek esetében, a „Műs
 
 (10) Ha a rendőrség értesül az okmány megtalálásáról, úgy haladéktalanul értesíti bármely közlekedési igazgatási hatóságot, amely gondoskodik a találás tényének a nyilvántartáson történő átvezetéséről.
 
-(11)[^89] A forgalmi engedély elvesztéséről, eltulajdonításáról, megsemmisüléséről, illetve megtalálásáról felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton kérelmezett forgalmi engedély pótlás esetében az ügyfél elektronikus úton tett nyilatkozata kerül a Hivatalnak továbbításra.
+(11)[^106] A forgalmi engedély elvesztéséről, eltulajdonításáról, megsemmisüléséről, illetve megtalálásáról felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton kérelmezett forgalmi engedély pótlás esetében az ügyfél elektronikus úton tett nyilatkozata kerül a Hivatalnak továbbításra.
 
-[^89]: A 89. § (11) bekezdése az 5/2013. (I. 16.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^106]: A 89. § (11) bekezdése az 5/2013. (I. 16.) Korm. rendelet 16. §-ával megállapított szöveg.

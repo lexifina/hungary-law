@@ -2,7 +2,7 @@
 
 ## 7. Külföldi hatóság által kiállított vezetői engedély érvényessége, cseréje
 
-17. § (1)[^19] A külföldi hatóság által kiállított és érvényes vezetői engedély – kivéve az ideiglenes jelleggel vagy a járművezetés tanulására kiadott okmányokat – Magyarország területén akkor jogosít vezetésre, ha tartalmazza:
+17. § (1)[^22] A külföldi hatóság által kiállított és érvényes vezetői engedély – kivéve az ideiglenes jelleggel vagy a járművezetés tanulására kiadott okmányokat – Magyarország területén akkor jogosít vezetésre, ha tartalmazza:
 
 a) az engedély jogosítottjának azonosítására alkalmas adatokat,
 
@@ -18,7 +18,7 @@ f) a „vezetői engedély” címfeliratot az engedélyt kibocsátó ország ne
 
 feltéve, hogy a rovatok és a bejegyzések latin betűkkel történtek vagy ebben a formában meg vannak ismételve.
 
-(2)[^20] A külföldi hatóság által kiállított vezetői engedély – az (1) bekezdésben foglaltakon túl – akkor jogosít járművezetésre, ha
+(2)[^23] A külföldi hatóság által kiállított vezetői engedély – az (1) bekezdésben foglaltakon túl – akkor jogosít járművezetésre, ha
 
 a) az az ország, amelyben a vezetői engedélyt kiadták, csatlakozott az 1968. évi Bécsi Közúti Közlekedési Egyezményhez,
 
@@ -28,7 +28,9 @@ c) azt nemzetközi szerződés vagy nemzetközi kötelezettségvállalás alapj�
 
 d) ahhoz hiteles magyar nyelvű fordítást csatoltak és annak segítségével a járművezetési jogosultság tartalma megállapítható.
 
-(3) Amennyiben a külföldi vezetői engedély az (1) és a (2) bekezdésben foglalt feltételeknek nem felel meg, úgy – nemzetközi szerződés eltérő rendelkezése hiányában – az országhatártól a szálláshelyig, és a szálláshelytől a kiléptető határátkelőhelyig jogosít vezetésre.
+(3)[^24] Az (1) és (2) bekezdésben meghatározott feltételek teljesülése ellenére sem tekinthető érvényesnek a másik EGT-államban kiállított vezetői engedély, ha annak érvényességét a vezetői engedélyt kiállító EGT-állam területén korlátozták, felfüggesztették vagy visszavonták.
+
+(3a)[^25] Viszonosság esetén a más EGT-államban kiadott, nemzeti kategóriában érvényesített vezetői engedély Magyarország területén is jogosít ugyanazon járműkategóriába tartozó jármű vezetésére.
 
 (4) Nemzetközi szerződés eltérő rendelkezése hiányában az (1) bekezdésben, valamint a (2) bekezdés a) és d) pontjában meghatározott külföldi vezetői engedély a Magyarország területén történő tartózkodás kezdetétől számított egy évig jogosít járművezetésre, ezt követően a külföldi vezetői engedélyt kérelemre magyar vezetői engedélyre kell cserélni.
 
@@ -38,5 +40,7 @@ d) ahhoz hiteles magyar nyelvű fordítást csatoltak és annak segítségével 
 
 (7) A Magyarországon szolgálati céllal tartózkodó külföldi fegyveres erők és a Magyarországon felállított nemzetközi katonai parancsnokságok állománya tagjának a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény 2. § (2) bekezdése szerinti hozzátartozója külföldön kiállított vezetői engedélye a (4) bekezdés rendelkezéseitől eltérően az érvényességi idején belül jogosít járművezetésre.
 
-[^19]: A 17. § (1) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^20]: A 17. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^22]: A 17. § (1) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^23]: A 17. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^24]: A 17. § (3) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^25]: A 17. § (3a) bekezdését a 90/2015. (IV. 9.) Korm. rendelet 6. §-a iktatta be.

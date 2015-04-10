@@ -1,72 +1,68 @@
-## Járművezetésre jogosító okmányok kiadásának életkori és jártassági feltételei
-
-## a 2006/126/EK irányelvnek megfelelően 2013. január 19-től
+## Járművezetésre jogosító okmányok kiadásának életkori és jártassági feltételei a 2006/126/EK irányelvnek megfelelően 2013. január 19-től
 
 ## I. Életkori feltételek
 
 ## 1. 14. életév az „M” kategóriába tartozó jármű vezetésére.
 
-## 2.[^130] 14. életév az „AM” kategóriába tartozó jármű vezetésére
+## 2. 14. életév az „AM” kategóriába tartozó jármű vezetésére.
 
 ## 3. 16. életév a „T” és a „K” kategóriába tartozó jármű vezetésére.
 
-## 4. 16. életév az „A1” és „B1” alkategóriába tartozó gépjármű vezetésére
+## 4. 16. életév az „A1” és „B1” kategóriába tartozó gépjármű vezetésére.
 
 ## 5. 17. életév a „B” kategóriába tartozó gépjármű vezetésére.
 
-## 6. 18. életév az „A2”, az „A” korlátozott, a „C1” és „BE” alkategóriába tartozó gépjármű vezetésére.
+## 6. 18. életév az „A2”, az „A” korlátozott, a „C1”, a „C1E” és a „BE” kategóriába tartozó gépjármű vezetésére.
 
-## 7. 20. életév
+## 7. 20. életév:
 
 ## 7.1. a „V” kategóriában és a „TR” kategóriában a jármű vezetésére,
 
 ## 7.2. az „A” kategóriába tartozó motorkerékpár vezetésére legalább kétéves „A2” kategóriás motorkerékpár vezetési gyakorlat esetében. A 21. életév betöltéséig az „A” kategóriás vezetői engedéllyel csak olyan motoros tricikli vezethető, melynek teljesítménye a 15 kW-ot nem haladja meg.
 
-## 8. 21. életév a „C”, a „C+E”, a „D1” és a „D1+E” kategóriába (al-, kombinált kategóriába) tartozó gépjármű vezetésére.
+## 8. 21. életév a „C”, a „CE”, a „D1” és a „D1E” kategóriába tartozó gépjármű vezetésére.
 
-## 9. 21. életév az „A” kategóriába tartozó, teljesítmény korlátozás nélküli motorkerékpár vezetésére.
+## 9. 24. életév:
 
-## 10. 24. életév
+## 9.1. a „D” és a „DE” kategóriába tartozó jármű vezetésére,
 
-## 10.1. a „D” és a „D+E” kategóriába tartozó jármű vezetésére,
+## 9.2. az „A” kategóriába tartozó motorkerékpár vezetésére, előzetes motorkerékpár vezetési gyakorlat hiányában.
 
-## 10.2. az „A” kategóriába tartozó motorkerékpár vezetésére, előzetes motorkerékpár vezetési gyakorlat hiányában.
-
-## 11.[^131] A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
+## 10. A „C” kategóriába tartozó gépjármű vezetésére jogosító engedély a 18. életév betöltésétől, a „D” kategóriába tartozó gépjármű vezetésére jogosító engedély a 21. életév betöltésétől is kiadható kizárólag az alábbi járművek vonatkozásában:
 
 ## a) a tűzoltóság által, illetve a közrend fenntartására használt járművek;
 
 ## b) javítási vagy karbantartási célú közúti vizsgálatoknak alávetett járművek vezetésére.
 
-## A 8., valamint a 10. pont szerinti életkor betöltéséig a kizárólag az a) és b) pontban meghatározott járművek vezetésére jogosító „C” és/vagy „D” kategória csak Magyarország területén jogosít vezetésre.
+## A 8., valamint a 9. pont szerinti életkor betöltéséig a kizárólag az a) és b) pontban meghatározott járművek vezetésére jogosító „C” és/vagy „D” kategória csak Magyarország területén jogosít vezetésre.
 
 ## II. Jártassági feltételek
 
 ## 1. Teljesítménykorlátozás nélküli „A” kategóriába tartozó gépjármű vezetésére jogosító bejegyzést annak a személynek lehet érvényesíteni,
 
-## a) aki legalább két éve rendelkezik „A2” alkategóriába tartozó gépjárműre érvényesített bejegyzéssel, vagy annak
+## a) aki legalább két éve rendelkezik „A2” kategóriába tartozó gépjárműre érvényesített bejegyzéssel, vagy annak
 
 ## b) aki a 24. életévét betöltötte, és külön vizsgát tett a kategóriára jellemző vezetői jártasságáról és magatartásáról.
 
-## 2. A „C1”, „D1” alkategóriába, a „C”, „D” kategóriába tartozó gépjármű vezetésére jogosító bejegyzést annak a személynek lehet érvényesíteni, aki „B” kategóriába tartozó járművek vezetésére érvényesített bejegyzéssel már rendelkezik.
+## 2. A „C1”, „D1” „C” kategóriába tartozó gépjármű vezetésére jogosító bejegyzést annak a személynek lehet érvényesíteni, aki „B” kategóriába, „D” kategóriába tartozó gépjármű vezetésére jogosító bejegyzést pedig annak a személynek lehet érvényesíteni, aki „C” kategóriába tartozó járművek vezetésére érvényesített bejegyzéssel már rendelkezik.
 
 ## 3. Kombinált kategóriára jogosító bejegyzés csak annak a személynek érvényesíthető, aki már jogosult a vonó gépjármű vezetésére.
 
-## 4. A „C1+E”, a „C+E”, a „D1+E” és a „D+E” kategóriájú vezetői engedélyek a „B+E” kategóriájú járműszerelvényekre is érvényesek.
+## 4. A „C1E”, a „CE”, a „D1E” és a „DE” kategóriájú vezetői engedélyek a „BE” kategóriájú járműszerelvényekre is érvényesek.
 
-## 5. A „C+E” kategóriájú vezetői engedélyek érvényesek „D+E” kategóriára is, amennyiben a vezetői engedély birtokosa jogosult „D” kategóriájú járművek vezetésére.
+## 5. A „CE” kategóriájú vezetői engedélyek érvényesek „DE” kategóriára is, amennyiben a vezetői engedély birtokosa jogosult „D” kategóriájú járművek vezetésére.
 
-## 6.[^132] A „C+E” kategóriájú vezetői engedélyek a „C1+E” kategóriájú járműszerelvényekre, a „D+E” kategóriájú vezetői engedélyek a „D1+E” kategóriájú járműszerelvényekre is érvényesek.
+## 6. A „CE” kategóriájú vezetői engedélyek a „C1E” kategóriájú járműszerelvényekre, a „DE” kategóriájú vezetői engedélyek a „D1E” kategóriájú járműszerelvényekre is érvényesek.
 
 ## 7. Bármely nemzetközi kategóriára megszerzett vezetői engedély érvényes az AM kategóriájú járművekre.
 
-## 8. Az „A2” alkategóriájú vezetői engedélyek az „A1” alkategóriára is érvényesek.
+## 8. Az „A2” kategóriájú vezetői engedélyek az „A1” kategóriára is érvényesek.
 
-## 9.[^133] Az „A” kategóriájú vezetői engedély az „A1”, „A2” alkategóriákra, a „B” kategóriájú vezetői engedély a „B1” alkategóriára, a „C” kategóriájú vezetői engedély a „C1”, a „D” kategóriájú vezetői engedély a „D1” alkategóriára is érvényes.
+## 9. Az „A” kategóriájú vezetői engedély az „A1”, „A2” kategóriákra, a „B” kategóriájú vezetői engedély a „B1” kategóriára, a „C” kategóriájú vezetői engedély a „C1”, a „D” kategóriájú vezetői engedély a „D1” kategóriára is érvényes.
 
 ## 10. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^134]
+8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^152]
 
 ## A kártya formátumú vezetői engedélybe bejegyezhető kódok jegyzéke
 
@@ -106,7 +102,7 @@
 
 05. 03. gépjárművezetés utasok nélkül
 
-05. 04. gépjárművezetés sebességkorlátozással
+05.04. legfeljebb …km/h sebességű vezetésre korlátozott
 
 05. 05. gépjárművezetés kizárólag egy vezetői engedéllyel rendelkező személy jelenlétében
 
@@ -322,21 +318,19 @@
 
 78. Automata sebességváltóval rendelkező járművekre korlátozva
 
-79. A zárójelben megjelölt tulajdonságokkal rendelkező járművekre korlátozva
+79. A kódhoz tartozó alkódok által meghatározott tulajdonságú járművekre korlátozva:
 
-79.01. Kétkerekű, oldalkocsi vagy oldalkocsi nélküli járművekre korlátozva
+79.01. Kétkerekű, oldalkocsis vagy oldalkocsi nélküli járművekre korlátozva
 
-79.02. AM kategóriájú, háromkerekű vagy könnyű négykerekű járművekre korlátozva
+79.02. „AM” kategóriájú, háromkerekű vagy könnyű négykerekű járművekre korlátozva
 
 79.03. Triciklire korlátozva
 
 79.04. Tricikli és 750 kg-ot meg nem haladó legnagyobb megengedett össztömegű pótkocsi szerelvényére korlátozva
 
-79.05. Tricikli és 750 kg-ot meg nem haladó legnagyobb megengedett össztömegű pótkocsi szerelvényére korlátozva
+79.05. „A1” kategóriájú, 0,1 kW/kg-ot meghaladó teljesítmény/tömeg arányú motorkerékpárok
 
-79.06. A1 kategóriájú, 0,1 kW/kg-ot meghaladó teljesítmény/tömeg arányú motorkerékpárok
-
-79.07. BE kategóriájú járművek, melyek pótkocsijának megengedett legnagyobb össztömege meghaladja a 3500 kg-ot.
+79.06. „BE” kategóriájú járművek, melyek pótkocsijának megengedett legnagyobb össztömege meghaladja a 3500 kg-ot.
 
 80. A kategóriájú motoros tricikli vezetésére jogosító engedéllyel rendelkező, 24 év alatti vezetőkre korlátozva
 
@@ -366,14 +360,6 @@
 
 111 Kétoldali visszapillantó tükör kötelező
 
-130 Mozgásszervi okok miatt csak a vezetői engedély részét képező mellékletben meghatározott feltételekkel vezethet
-
-131 Csak a vezetői engedély részét képező mellékletben megjelölt típusú járművet vezethet
-
-132 Csak a vezetői engedély részét képező mellékletben meghatározott módon átalakított járművet vezethet
-
-133 Csak a vezetői engedély részét képező mellékletben meghatározott segédberendezéssel ellátott járművet vezethet
-
 181 Kezdő vezetői engedély minősítés meghosszabbítása
 
 182 „A” korlátozott kategória
@@ -390,8 +376,4 @@
 
 270 A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
 
-[^130]: A 7. melléklet I. fejezet 2. pontja az 5/2013. (I. 16.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
-[^131]: A 7. melléklet I. fejezet 11. pont záró szövegrésze az 5/2013. (I. 16.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
-[^132]: A 7. melléklet II. pont 6. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^133]: A 7. melléklet II. pont 9. alpontja az 5/2013. (I. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^134]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja szerint módosított szöveg.
+[^152]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja, a 90/2015. (IV. 9.) Korm. rendelet 14. § (6) bekezdése és 16. § f) pontja szerint módosított szöveg.
