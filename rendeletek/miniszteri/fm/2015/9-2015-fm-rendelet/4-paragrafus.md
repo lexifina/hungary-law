@@ -1,4 +1,4 @@
-## 3. § E rendelet szerinti támogatásra az a mezőgazdasági termelő jogosult, aki vagy amely a mezőgazdasági termelők részére nyújtandó közvetlen támogatás igénybevételére vonatkozó szabályokról szóló 8/2015. (III. 13.) FM rendelet 2. §-a szerint közvetlen támogatásra jogosult.
+## 3/A. §[^1] Támogatás igénybevételére jogosult az a mezőgazdasági termelő is, aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy a támogatás feltételeinek egyébként megfelel.
 
 ## 4. A támogatási kérelem elbírálása, ellenőrzése
 
@@ -29,3 +29,5 @@ a) igazolnia kell, hogy az adott támogatási jogcím vonatkozásában igényelt
 b) be kell mutatnia az adott gazdálkodási évre vonatkozó, az adott támogatásra való jogosultságot igazoló dokumentumot.
 
 (8) A mezőgazdasági termelő a (7) bekezdés szerinti dokumentumot öt évig köteles megőrizni.
+
+[^1]: A 3/A. §-t a 17/2015. (IV. 9.) FM rendelet 12. §-a iktatta be.
