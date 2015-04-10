@@ -1,4 +1,4 @@
-## 6/A. §[^8] Az Intézet közfeladatai körében – az e célból rendelkezésére bocsátott forrás terhére – az információs társadalom fejlesztésével, ezen belül kiemelten a digitális írástudás fejlesztésével, az eMagyarország hálózat szakmai koordinálásával kapcsolatos feladatokat lát el.
+## 6/A. §[^8] Az Intézet közfeladatai körében az információs társadalom fejlesztésére vonatkozó, folyamatban vagy fenntartási időszakban lévő projektek kezelésével kapcsolatos feladatokat lát el.
 
 7. § (1) E rendelet a kihirdetését követő napon lép hatályba.
 
@@ -18,7 +18,7 @@ b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^8]: A 6/A. §-t a 240/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 6/A. §-t a 240/2013. (VI. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 95/2015. (IV. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^9]: A hatálybalépés napja: 2011. február 4.
 [^10]: A 7. § (3) bekezdését a 80/2013. (III. 14.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
 [^11]: A 7. § (4) bekezdése az 507/2013. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
