@@ -26,11 +26,11 @@ a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 a) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről szóló 2006/22/EK európai parlamenti és tanácsi irányelv III. mellékletének módosításáról szóló, 2009. január 30-i 2009/5/EK bizottsági irányelvnek és
 
-b) a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvénnyel együtt a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvnek
+b)[^44] a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvénnyel együtt a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelvnek
 
 ## való megfelelést szolgálja.
 
-(10)[^44]
+(10)[^45]
 
 [^37]: A 16. § (2) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 99/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^38]: A 16. § (3) bekezdése e rendelet 16. § (10) bekezdése alapján hatályát vesztette, újonnan a 228/2012. (VIII. 23.) Korm. rendelet 4. § (4) bekezdése iktatta be.
@@ -39,4 +39,5 @@ b) a közúti közlekedésről szóló 1988. évi I. törvénnyel és a közúti
 [^41]: A 16. § (8) bekezdése a 261/2011. (XII. 7.) Korm. rendelet 41. § (7) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
 [^42]: A 16. § (8) bekezdés e) pontját a 171/2014. (VII. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be.
 [^43]: A 16. § (9) bekezdése a 138/2013. (V. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^44]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^44]: A 16. § (9) bekezdés b) pontja a 90/2015. (IV. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^45]: A 16. § (10) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
