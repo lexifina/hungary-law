@@ -2,23 +2,39 @@
 
 1. § (1) E rendelet hatálya kiterjed a kölcsönös megfeleltetés követelményei és előírásai betartására kötelezett ügyfélre, a kölcsönös megfeleltetési szabályok betartását ellenőrző szervekről szóló 322/2007. (XII. 5.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. § d) pontja szerinti hatáskörrel rendelkező hatóságoknak a (2) bekezdésben meghatározott intézkedésekben részt vevő ügyfél gazdaságában végzett ellenőrzéseire, és az annak során megállapított meg nem felelések jogkövetkezményeinek meghatározására.
 
-(2)[^1] A kölcsönös megfeleltetési szabályok betartását az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Mezőgazdasági Garancia Alapból finanszírozott alábbi intézkedésekben részt vevő ügyfelek esetében kell vizsgálni:
+(2)[^1] A kölcsönös megfeleltetési szabályok betartását az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA) és az Európai Mezőgazdasági Garancia Alapból finanszírozott alábbi intézkedésekben részt vevő ügyfelek esetében kell vizsgálni:
 
-a) a 73/2009/EK tanácsi rendelet szerinti közvetlen kifizetések;
+a) az 1306/2013/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés e) pontja szerinti közvetlen kifizetések, a mezőgazdasági kistermelői támogatási rendszer kivételével,
 
-b) az 1234/2007/EK tanácsi rendelet szerinti szőlőültetvény szerkezet átalakításának és átállásának, zöldszüret, szőlőültetvény kivágásának támogatása;
+b) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU parlamenti és tanácsi rendelet 46. és 47. cikke szerinti szőlőültetvények szerkezetátalakításának és átállításának, valamint a zöldszüret támogatása,
 
-c) az 1698/2005/EK tanácsi rendelet szerinti
+c) az EMVA-ból a 2007–2013 programozási időszak forrása tekintetében, az 1698/2005/EK tanácsi rendelet alapján nyújtott alábbi támogatások:
 
-ca)[^2] mezőgazdasági földterületek fenntartható használatát célzó intézkedések közül a hegyvidéki területeken kívüli hátrányos helyzetű területek mezőgazdasági termelőinek nyújtott kifizetések, a Natura 2000 kifizetések és a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK tanácsi irányelvhez kapcsolódó kifizetések, az agrár-környezetvédelmi kifizetések és az állatjóléti kifizetések, a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatások, a növényi genetikai erőforrások megőrzéséhez nyújtandó támogatás,
+ca) a mezőgazdasági területek erdősítéséhez nyújtandó támogatás,
 
-cb)[^3] az erdészeti földterületek fenntartható használatát célzó intézkedések közül a mezőgazdasági földterület első erdősítésének támogatása, erdő-környezetvédelmi kifizetések, és Natura 2000 kifizetések;
+cb) az agrár-környezetgazdálkodási támogatás,
 
-d)[^4] minden egyéb támogatás, amelyekre vonatkozóan az adott támogatás részletes feltételeit meghatározó jogszabály az e rendelet szerinti előírások alkalmazását írja elő.
+cc) az erdő-környezetvédelmi intézkedésekhez nyújtandó támogatás,
 
-(3) A (2) bekezdés c) pontjában meghatározott kölcsönös megfeleltetési ellenőrzések végrehajtása során a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2006. december 7-i 1975/2006/EK bizottsági rendelet 23. cikkének 2. bekezdésében foglaltak esetében is a jogkövetkezmény mértékének megállapítását az e rendeletben foglaltak szerint kell elvégezni.
+cd) a kedvezőtlen adottságú területeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás,
 
-[^1]: Az 1. § (2) bekezdése az 55/2010. (V. 6.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (2) bekezdés c) pont ca) alpontja a 32/2011. (IV. 28.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (2) bekezdés c) pont cb) alpontja a 41/2012. (IV. 27.) VM rendelet 13. §-ával megállapított szöveg.
-[^4]: Az 1. § (2) bekezdés d) pontját a 32/2011. (IV. 28.) VM rendelet 1. § (2) bekezdése iktatta be.
+ce) a Natura 2000 gyepterületeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás,
+
+cf) a Natura 2000 erdőterületeken történő gazdálkodáshoz nyújtandó kompenzációs támogatás,
+
+cg) a védett őshonos és a veszélyeztetett mezőgazdasági állatfajták genetikai állományának tenyésztésben történő megőrzésére nyújtandó támogatás,
+
+ch) növényi genetikai erőforrások megőrzéséhez nyújtandó támogatás,
+
+ci) állat genetikai erőforrások megőrzéséhez nyújtandó támogatás, és
+
+cj) a tejágazat szerkezetátalakítását kísérő állatjóléti támogatás,
+
+d) az EMVA-ból a 2014–2020 programozási időszak forrása tekintetében az 1305/2013/EU parlamenti és tanácsi rendelet 21. cikk (1) bekezdés a) és b) pontja, a 28–31. cikk, valamint a 33–34. cikk szerinti támogatások, a 28. cikk (9) bekezdése kivételével,
+
+e) minden egyéb támogatás, amelyekre vonatkozóan az adott támogatás részletes feltételeit meghatározó jogszabály az e rendelet szerinti előírások alkalmazását írja elő.
+
+(3)[^2]
+
+[^1]: Az 1. § (2) bekezdése a 17/2015. (IV. 9.) FM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdését a 17/2015. (IV. 9.) FM rendelet 7. §-a hatályon kívül helyezte.

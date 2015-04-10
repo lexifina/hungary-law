@@ -1,371 +1,349 @@
-## 1. Az egyes jogszabályban foglalt gazdálkodási követelmény (a továbbiakban: JFGK) esetében megállapított meg nem felelések értékelési szempontjai
+## Jogszabályban foglalt gazdálkodási követelmény esetében megállapított meg nem felelések értékelési szempontjai
 
-## 1.1. JFGK 1 és 5
+## 1. JFGK 1.
 
-## A JFGK célja: Natura 2000 területeken a biológiai sokféleség, a természetes élőhelyek, a vadon élő állatok és növények kedvező természetvédelmi helyzetének fenntartása, az e területek kijelölésének alapjául szolgáló természeti állapot megőrzése, valamint a fenntartó gazdálkodás feltételeinek biztosítása.
+## 1.1. Cél
 
-## Súlyosság
+## 1.1.1. A nitrátérzékeny területeken a mezőgazdasági forrásokból származó nitrátok által okozott vagy indukált vízszennyezés csökkentése.
 
-## Enyhe: a tevékenység eredményeképpen érdemben nem károsodott az élőhely, nem szűnt meg fészkelőhely, táplálkozóhely.
+## 1.2. Súlyosság
 
-## Közepes: a tevékenység eredményeképpen érdemben károsodott az élőhely, fészkelőhely, táplálkozóhely, de annak nincs jelentős kihatása a védett/jelölő fajok/élőhelyek térségbeli előfordulására, állománynagyságára.
+## 1.2.1. Enyhe: A mezőgazdasági tevékenység során nem megfelelően kijuttatott nitrogén vegyületekkel közvetlen vagy közvetett módon terhet róttak a felszíni, felszín alatti vizekre.
 
-## Súlyos: a tevékenység hatására a térségben élő védett/jelölő fajok/élőhelyek előfordulása, állománynagysága jelentősen csökken.
+## 1.2.2. Közepes: A mezőgazdasági tevékenység során kijuttatott nitrogén vegyületek kis mértékben szennyezték a felszíni, felszín alatti vizeket.
 
-## Tartósság
+## 1.2.3. Súlyos: A helyes mezőgazdasági gyakorlat előírásainak figyelmen kívül hagyásával a felszíni, felszín alatti vizekben jelentős nitrát szennyeződés következett be.
 
-## Rövidtávon helyrehozható: a tevékenység hatásai, a károsított élőhely/faj természeti értékei ésszerű időhatáron belül helyreállíthatók, a megváltoztatott élőhely ezután újra teljes mértékben képes betölteni korábbi funkcióját.
+## 1.3. Tartósság
 
-## Hosszútávon helyrehozható: a tevékenység hatásai, a károsított élőhely/faj természeti értékei helyreállíthatók, de ehhez több évre van szükség.
+## 1.3.1. Rövid távon helyrehozható: A keletkezett nitrát szennyezés rövid határidőn belül csökkenthető vagy szüntethető meg.
 
-## Maradandó: a tevékenység hatásai, a károsított élőhely/faj természeti értékei nem állíthatók vissza az eredeti állapotukba.
+## 1.3.2. Hosszú távon helyrehozható: A keletkezett nitrát szennyezés csak hosszú távon csökkenthető vagy szüntethető meg.
 
-## 1.2. JFGK 2[^19]
+## 1.3.3. Maradandó: A nitrát szennyezéssel maradandó károsodás keletkezett a felszíni, felszín alatti vizekben.
 
-## 1.3. JFGK 3
+## 2. JFGK 2.
 
-## A JFGK célja: a szennyvíziszapnak értékes mezőgazdasági tulajdonságai lehetnek, ezért helyénvaló a mezőgazdaságban történő alkalmazását ösztönözni, de kizárólag olyan feltételek betartása mellett, amellyel elkerülhető az emberekre, állatokra, növényekre és a környezetre gyakorolt káros hatások bekövetkezése.
+## 2.1. Cél
 
-## Súlyosság
+## 2.1.1. A vadon élő madarak védelme.
 
-## Enyhe: olyan mértékű meg nem felelés tekinthető enyhének, amely során a környezetre gyakorolt terhelés nem jelentős.
+## 2.2. Súlyosság
 
-## Közepes: a gazdálkodó nem is rendelkezik vagy abban az esetben, ha rendelkezik az illetékes talajvédelmi hatóság által kiadott engedéllyel, a szennyvíziszap termőföldön történő felhasználása során nem minden esetben az engedélyben foglaltak szerint jár el.
+## 2.2.1. Enyhe: A tevékenység eredményeképpen érdemben nem károsodott az élőhely, nem szűnt meg fészkelőhely, táplálkozóhely.
 
-## Súlyos: a helytelen szennyvíziszap kijuttatás következményeként az emberekre, állatokra, növényekre, a környezetre gyakorolt kedvezőtlen, káros hatások bekövetkeztek.
+## 2.2.2. Közepes: A tevékenység eredményeképpen érdemben károsodott az élőhely, fészkelőhely, táplálkozóhely, de annak nincs jelentős kihatása a védett/jelölő fajok/élőhelyek térségbeli előfordulására, állománynagyságára.
 
-## Tartósság
+## 2.2.3. Súlyos: A tevékenység hatására a térségben élő védett/jelölő fajok/élőhelyek előfordulása, állománynagysága jelentősen csökken.
 
-## Rövidtávon helyrehozható: a szennyvíziszap nem megfelelő felhasználása során keletkezett káros hatásokat ésszerű időhatáron belül meg lehet szüntetni.
+## 2.3. Tartósság
 
-## Hosszútávon helyrehozható: a szennyvíziszap termőföldön történő felhasználásakor olyan mértékű káros hatás következett be, amely csak hosszútávon hozható helyre.
+## 2.3.1. Rövid távon helyrehozható: A tevékenység hatásai, a károsított élőhely/faj természeti értékei rövid határidőn belül helyreállíthatók, a megváltoztatott élőhely ezután újra teljes mértékben képes betölteni korábbi funkcióját.
 
-## Maradandó: a szennyvíziszap kijuttatás következményeként maradandó környezeti károsodás keletkezett.
+## 2.3.2. Hosszú távon helyrehozható: A tevékenység hatásai, a károsított élőhely/faj természeti értékei helyreállíthatók, de ehhez több évre van szükség.
 
-## 1.4. JFGK 4
+## 2.3.3. Maradandó: A tevékenység hatásai, a károsított élőhely/faj természeti értékei nem állíthatók vissza az eredeti állapotukba.
 
-## A JFGK célja: a nitrát érzékeny területeken a mezőgazdasági forrásokból származó nitrátok által okozott vagy indukált vízszennyezés csökkentése.
+## 3. JFGK 3.
 
-## Súlyosság
+## 3.1. Cél
 
-## Enyhe: a mezőgazdasági tevékenység során kijuttatott nitrogén vegyületek kis mértékben szennyezték a felszíni, felszín alatti vizeket.
+## 3.1.1. A természetes élőhelyek, valamint a vadon élő állatok és növények védelme.
 
-## Közepes: a mezőgazdasági tevékenység során nem megfelelően kijuttatott nitrogén vegyületekkel közvetlen vagy közvetett módon terhet róttak a felszíni, felszín alatti vizekre.
+## 3.2. Súlyosság
 
-## Súlyos: a helyes mezőgazdasági gyakorlat előírásainak figyelmen kívül hagyásával a felszíni, felszín alatti vizekben jelentős nitrát szennyeződés következett be.
+## 3.2.1. Enyhe: A tevékenység eredményeképpen érdemben nem károsodott az élőhely, nem szűnt meg fészkelőhely, táplálkozóhely.
 
-## Tartósság
+## 3.2.2. Közepes: A tevékenység eredményeképpen érdemben károsodott az élőhely, fészkelőhely, táplálkozóhely, de annak nincs jelentős kihatása a védett/jelölő fajok/élőhelyek térségbeli előfordulására, állománynagyságára.
 
-## Rövidtávon helyrehozható: a keletkezett nitrát szennyezés ésszerű időhatáron belül csökkenthető vagy szüntethető meg.
+## 3.2.3. Súlyos: A tevékenység hatására a térségben élő védett/jelölő fajok/élőhelyek előfordulása, állománynagysága jelentősen csökken.
 
-## Hosszútávon helyrehozható: a keletkezett nitrát szennyezés csak hosszútávon csökkenthető vagy szüntethető meg.
+## 3.3. Tartósság
 
-## Maradandó: a nitrát szennyezéssel maradandó károsodás keletkezett a felszíni, a felszín alatti vizekben.
+## 3.3.1. Rövid távon helyrehozható: A tevékenység hatásai, a károsított élőhely/faj természeti értékei rövid határidőn belül helyreállíthatók, a megváltoztatott élőhely ezután újra teljes mértékben képes betölteni korábbi funkcióját.
 
-## 1.5. JFGK 6
+## 3.3.2. Hosszú távon helyrehozható: A tevékenység hatásai, a károsított élőhely/faj természeti értékei helyreállíthatók, de ehhez több évre van szükség.
 
-## A JFGK célja: állategészségügyi és élelmiszerbiztonsági okokból alapvető fontosságú a sertésszállítások nyilvántartása, azonosíthatósága és nyomon követhetősége.
+## 3.3.3. Maradandó: A tevékenység hatásai, a károsított élőhely/faj természeti értékei nem állíthatók vissza az eredeti állapotukba.
 
-## Súlyosság
+## 4. JFGK 4.
 
-## Enyhe: a sertésszállítások azonosíthatósága és nyilvántartása a gazdaságban tartott összes sertés számához viszonyítva csekély mértékű hiányosságokat mutat, amely alapvetően nem veszélyezteti a nyomon követhetőség megvalósulását, ezáltal nem növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 4.1. Cél
 
-## Közepes: a sertésszállítások azonosíthatósága és nyilvántartása a gazdaságban tartott összes sertés számához viszonyítva olyan arányú hiányosságokat mutat, amely veszélyezteti a nyomon követhetőség megvalósulását, ezáltal növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 4.1.1. Annak biztosítása, hogy a gazdálkodó által felhasznált anyagok és az általa forgalomba hozatalra kerülő termékek élelmezési és takarmányozási szempontból biztonságosak, azonosíthatók legyenek.
 
-## Súlyos: a sertésszállítások azonosíthatósága és nyilvántartása a gazdaságban tartott összes sertés számához viszonyítva olyan arányú hiányosságokat mutat, amely meghiúsítja a nyomon követhetőség megvalósulását, ezáltal nagymértékben növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 4.2. Súlyosság
 
-## Tartósság
+## 4.2.1. Enyhe: A nem megfelelően végzett tevékenység alapvetően nem veszélyezteti az emberi és állati egészséget, nem növeli az élelmiszerbiztonsági kockázatot.
 
-## Rövidtávon helyrehozható: az állatok azonosíthatóságának és nyilvántartásának a hiányosságai olyan időintervallumon belül megszüntethetőek, hogy nem veszélyeztetik a nyomon követhetőséget, azonosíthatóságot.
+## 4.2.2. Közepes: A nem megfelelően végzett tevékenység veszélyezteti az emberi és állati egészséget, növeli az élelmiszerbiztonsági kockázatot.
 
-## Hosszútávon helyrehozható: veszélyeztetheti a nyomon követhetőséget, azonosíthatóságot.
+## 4.2.3. Súlyos: A nem megfelelően végzett tevékenység nagy mértékben növeli az élelmiszerbiztonsági kockázatot, ezáltal az emberi és állati egészségre közvetlen veszélyt jelent.
 
-## Maradandó: nem teszi lehetővé a nyomon követhetőséget, azonosíthatóságot.
+## 4.3. Tartósság
 
-## 1.6. JFGK 7
+## 4.3.1. Rövid távon helyrehozható: A nem megfelelően végzett tevékenység hiányosságai olyan időintervallumon belül megszüntethetőek, hogy azok nem veszélyeztetik az élelmiszerbiztonságot.
 
-## A JFGK célja: állategészségügyi és élelmiszerbiztonsági okokból alapvető fontosságú, hogy valamennyi szarvasmarhaféle azonosítható, nyilvántartható és nyomon követhető legyen.
+## 4.3.2. Hosszú távon helyrehozható: A nem megfelelően végzett tevékenység hiányosságai csak olyan időintervallumon belül szüntethetők meg, hogy azok veszélyeztethetik az élelmiszerbiztonságot.
 
-## Súlyosság
+## 4.3.3. Maradandó: A nem megfelelően végzett tevékenység hiányosságai nem szüntethetők meg, így azok veszélyeztetik az élelmiszerbiztonságot.
 
-## Enyhe: az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes szarvasmarhaféle számához viszonyítva csekély mértékű hiányosságokat mutat, amely alapvetően nem veszélyezteti a nyomon követhetőség megvalósulását, ezáltal nem növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 5. JFGK 5.
 
-## Közepes: az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes szarvasmarhaféle számához viszonyítva olyan arányú hiányosságokat mutat, amely veszélyezteti a nyomon követhetőség megvalósulását, ezáltal növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 5.1. Cél
 
-## Súlyos: az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes szarvasmarhaféle számához viszonyítva olyan arányú hiányosságokat mutat, amely meghiúsítja a nyomon követhetőség megvalósulását, ezáltal nagymértékben növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 5.1.1. Az egyes hormon- vagy tireosztatikus hatású anyagoknak és a ß-agonistáknak az állattenyésztésben történő felhasználására vonatkozó tilalom betartatása annak érdekében, hogy az emberre kockázatos anyagok élelmiszerbe való átkerülése megakadályozható legyen.
 
-## Tartósság
+## 5.2. Súlyosság
 
-## Rövidtávon helyrehozható: az állatok azonosíthatóságának és nyilvántartásának a hiányosságai olyan időintervallumon belül megszüntethetőek, hogy nem veszélyeztetik a nyomon követhetőséget, azonosíthatóságot.
+## 5.2.1. Enyhe: Az előírások olyan fokú megsértése, amely az emberi egészséget még nem veszélyezteti.
 
-## Hosszútávon helyrehozható: veszélyeztetheti a nyomon követhetőséget, azonosíthatóságot.
+## 5.2.2. Közepes: Az előírások olyan fokú megsértése, amely az emberi egészséget veszélyeztetheti.
 
-## Maradandó: nem teszi lehetővé a nyomon követhetőséget, azonosíthatóságot.
+## 5.2.3. Súlyos: Az előírások olyan fokú megsértése, amely az emberi egészséget veszélyezteti.
 
-## 1.7. JFGK 8
+## 5.3. Tartósság
 
-## A JFGK célja: állategészségügyi, állattenyésztési és élelmiszerbiztonsági okokból alapvető fontosságú, hogy valamennyi juh és kecske azonosítható, nyilvántartható és nyomon követhető legyen.
+## 5.3.1. Rövid távon helyrehozható: Az előírások megsértése következében fennálló veszélyhelyzet rövid határidőn belül megszüntethető.
 
-## Súlyosság
+## 5.3.2. Hosszú távon helyrehozható: Az előírások megsértése következében fennálló veszélyhelyzet hosszú időhatáron belül csökkenthető vagy megszüntethető.
 
-## Enyhe: az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes juh vagy összes kecske számához viszonyítva csekély mértékű hiányosságokat mutat, amely alapvetően nem veszélyezteti a nyomon követhetőség megvalósulását, ezáltal nem növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 5.3.3. Maradandó: Az előírások megsértése következében kialakult veszélyhelyzet a gazdálkodó által nem megszüntethető.
 
-## Közepes: az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes juh vagy összes kecske számához viszonyítva olyan arányú hiányosságokat mutat, amely veszélyezteti a nyomon követhetőség megvalósulását, ezáltal növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 6. JFGK 6.
 
-## Súlyos: az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes juh vagy összes kecske számához viszonyítva olyan arányú hiányosságokat mutat, amely meghiúsítja a nyomon követhetőség megvalósulását, ezáltal nagymértékben növeli az állategészségügyi és élelmiszerbiztonsági kockázatot.
+## 6.1. Cél
 
-## Tartósság
+## 6.1.1. Állategészségügyi és élelmiszer-biztonsági okokból alapvető fontosságú a sertésszállítások nyilvántartása, azonosíthatósága és nyomon követhetősége.
 
-## Rövidtávon helyrehozható: az állatok azonosíthatóságának és nyilvántartásának a hiányosságai olyan időintervallumon belül megszüntethetőek, hogy nem veszélyeztetik a nyomon követhetőséget, azonosíthatóságot.
+## 6.2. Súlyosság
 
-## Hosszútávon helyrehozható: veszélyeztetheti a nyomon követhetőséget, azonosíthatóságot.
+## 6.2.1. Enyhe: A sertésszállítások azonosíthatósága és nyilvántartása a gazdaságban tartott összes sertés számához viszonyítva csekély mértékű hiányosságokat mutat, amely alapvetően nem veszélyezteti a nyomon követhetőség megvalósulását, ezáltal nem növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## Maradandó: nem teszi lehetővé a nyomon követhetőséget, azonosíthatóságot.
+## 6.2.2. Közepes: A sertésszállítások azonosíthatósága és nyilvántartása a gazdaságban tartott összes sertés számához viszonyítva olyan arányú hiányosságokat mutat, amely veszélyezteti a nyomon követhetőség megvalósulását, ezáltal növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## 1.8. JFGK 9.
+## 6.2.3. Súlyos: A sertésszállítások azonosíthatósága és nyilvántartása a gazdaságban tartott összes sertés számához viszonyítva olyan arányú hiányosságokat mutat, amely meghiúsítja a nyomon követhetőség megvalósulását, ezáltal nagymértékben növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## A JFGK célja: A növényvédő szer kijuttatása, tárolása során fellépő veszélyek megelőzése, az ember és az állat egészségét, a környezet és természet védelmét szolgáló intézkedések biztosításával, illetve növényvédelemmel összefüggő kémiai biztonságra vonatkozó általános szabályok betartásával.
+## 6.3. Tartósság
 
-## Súlyosság
+## 6.3.1. Rövid távon helyrehozható: Az állatok azonosíthatóságának és nyilvántartásának a hiányosságai olyan időintervallumon belül megszüntethetőek, hogy nem veszélyeztetik a nyomon követhetőséget, azonosíthatóságot.
 
-## Enyhe: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan kismértékű megsértése, amely a környezet és az emberi egészségre ártalmatlan.
+## 6.3.2. Hosszú távon helyrehozható: Veszélyeztetheti a nyomon követhetőséget, azonosíthatóságot.
 
-## Közepes: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan mértékű megsértése, amely a környezet és az emberi egészséget közvetetten veszélyezteti.
+## 6.3.3. Maradandó: Nem teszi lehetővé a nyomon követhetőséget, azonosíthatóságot.
 
-## Súlyos: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan mértékű megsértése, amely a környezet és az emberi egészséget közvetlenül veszélyezteti.
+## 7. JFGK 7.
 
-## Tartósság
+## 7.1. Cél
 
-## Rövid távon helyrehozható: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során keletkezett káros hatásokat ésszerű időhatáron belül meg lehet szüntetni.
+## 7.1.1. Állategészségügyi és élelmiszer-biztonsági okokból alapvető fontosságú, hogy valamennyi szarvasmarhaféle azonosítható, nyilvántartható és nyomon követhető legyen.
 
-## Hosszú távon helyrehozható: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során keletkezett káros hatás hosszú időhatáron belül csökkenthető, vagy megszüntethető.
+## 7.2. Súlyosság
 
-## Maradandó: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során maradandó károsodás következett be.
+## 7.2.1. Kis jelentőségű: Az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes szarvasmarhaféle számához viszonyítva elenyésző hiányosságokat mutat, amely alapvetően nem veszélyezteti a nyomon követhetőség megvalósulását, ezáltal nem növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## 1.9. JFGK 10.
+## 7.2.2. Enyhe: Az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes szarvasmarhaféle számához viszonyítva csekély mértékű hiányosságokat mutat, amely alapvetően nem veszélyezteti a nyomon követhetőség megvalósulását, ezáltal nem növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## A JFGK célja: az egyes hormon- vagy tireosztatikus hatású anyagoknak és a ß-agonistáknak az állattenyésztésben történő felhasználására vonatkozó tilalom betartatása annak érdekében, hogy az emberre kockázatos anyagok élelmiszerbe való átkerülése megakadályozható legyen.
+## 7.2.3. Közepes: Az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes szarvasmarhaféle számához viszonyítva olyan arányú hiányosságokat mutat, amely veszélyezteti a nyomon követhetőség megvalósulását, ezáltal növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## Súlyosság
+## 7.2.4. Súlyos: Az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes szarvasmarhaféle számához viszonyítva olyan arányú hiányosságokat mutat, amely meghiúsítja a nyomon követhetőség megvalósulását, ezáltal nagymértékben növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## Enyhe: Az előírások olyan fokú megsértése, amely az emberi egészséget még nem veszélyezteti.
+## 7.3. Tartósság
 
-## Közepes: Az előírások olyan fokú megsértése, amely az emberi egészséget veszélyeztetheti.
+## 7.3.1. Rövid távon helyrehozható: Az állatok azonosíthatóságának és nyilvántartásának a hiányosságai olyan időintervallumon belül megszüntethetőek, hogy nem veszélyeztetik a nyomon követhetőséget, azonosíthatóságot.
 
-## Súlyos: Az előírások olyan fokú megsértése, amely az emberi egészséget veszélyezteti.
+## 7.3.2. Hosszú távon helyrehozható: Veszélyeztetheti a nyomon követhetőséget, azonosíthatóságot.
 
-## Tartósság
+## 7.3.3. Maradandó: Nem teszi lehetővé a nyomon követhetőséget, azonosíthatóságot.
 
-## Rövid távon helyrehozható: Az előírások megsértése következében fennálló veszélyhelyzet ésszerű időhatáron belül megszüntethető.
+## 8. JFGK 8.
 
-## Hosszú távon helyrehozható: Az előírások megsértése következében fennálló veszélyhelyzet hosszú időhatáron belül csökkenthető, vagy megszüntethető.
+## 8.1. Cél
 
-## Maradandó: Az előírások megsértése következében kialakult veszélyhelyzet a gazdálkodó által nem megszüntethető.
+## 8.1.1. Állategészségügyi, állattenyésztési és élelmiszer-biztonsági okokból alapvető fontosságú, hogy valamennyi juh és kecske azonosítható, nyilvántartható és nyomon követhető legyen.
 
-## 1.10. JFGK 11.
+## 8.2. Súlyosság
 
-## A JFGK célja: Annak biztosítása, hogy a gazdálkodó által felhasznált anyagok és az általa forgalomba kerülő termékek élelmezési és takarmányozási szempontból biztonságosak, azonosíthatók legyenek.
+## 8.2.1. Enyhe: Az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes juh vagy összes kecske számához viszonyítva csekély mértékű hiányosságokat mutat, amely alapvetően nem veszélyezteti a nyomon követhetőség megvalósulását, ezáltal nem növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## Súlyosság
+## 8.2.2. Közepes: Az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes juh vagy összes kecske számához viszonyítva olyan arányú hiányosságokat mutat, amely veszélyezteti a nyomon követhetőség megvalósulását, ezáltal növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## Enyhe: A nem megfelelően végzett tevékenység alapvetően nem veszélyezteti az emberi és állati egészséget, nem növeli az élelmiszerbiztonsági kockázatot.
+## 8.2.3. Súlyos: Az egyedek azonosíthatósága és nyilvántartása a gazdaságban tartott összes juh vagy összes kecske számához viszonyítva olyan arányú hiányosságokat mutat, amely meghiúsítja a nyomon követhetőség megvalósulását, ezáltal nagymértékben növeli az állategészségügyi és élelmiszer-biztonsági kockázatot.
 
-## Közepes: A nem megfelelően végzett tevékenység veszélyezteti az emberi és állati egészséget, növeli az élelmiszerbiztonsági kockázatot.
+## 8.3. Tartósság
 
-## Súlyos: A nem megfelelően végzett tevékenység nagy mértékben növeli az élelmiszerbiztonsági kockázatot, ezáltal az emberi és állati egészségre közvetlen veszélyt jelent.
+## 8.3.1. Rövid távon helyrehozható: Az állatok azonosíthatóságának és nyilvántartásának a hiányosságai olyan időintervallumon belül megszüntethetőek, hogy nem veszélyeztetik a nyomon követhetőséget, azonosíthatóságot.
 
-## Tartósság
+## 8.3.2. Hosszú távon helyrehozható: Veszélyeztetheti a nyomon követhetőséget, azonosíthatóságot.
 
-## Rövid távon helyrehozható: A nem megfelelően végzett tevékenység hiányosságai olyan időintervallumon belül megszüntethetőek, hogy azok nem veszélyeztetik az élelmiszerbiztonságot.
+## 8.3.3. Maradandó: Nem teszi lehetővé a nyomon követhetőséget, azonosíthatóságot.
 
-## Hosszú távon helyrehozható: A nem megfelelően végzett tevékenység hiányosságai csak olyan időintervallumon belül szüntethetők meg, hogy azok veszélyeztethetik az élelmiszerbiztonságot.
+## 9. JFGK 9.
 
-## Maradandó: A nem megfelelően végzett tevékenység hiányosságai nem szüntethetők meg, így azok veszélyeztetik az élelmiszerbiztonságot.
+## 9.1. Cél
 
-## 1.11. JFGK 12–15.
+## 9.1.1. Szivacsos agyvelőbántalmak elleni védekezés.
 
-## A JFGK célja: Bizonyos fertőző állatbetegségek elleni védekezés biztosítása.
+## 9.2. Súlyosság
 
-## Súlyosság
+## 9.2.1. Enyhe: Az előírások olyan fokú megsértése, amely a járványügyi védekezést még nem veszélyezteti.
 
-## Enyhe: Az előírások olyan fokú megsértése, amely a járványügyi védekezést még nem veszélyezteti.
+## 9.2.2. Közepes: Az előírások olyan fokú megsértése, amely a járványügyi védekezést veszélyeztetheti.
 
-## Közepes: Az előírások olyan fokú megsértése, amely a járványügyi védekezést veszélyeztetheti.
+## 9.2.3. Súlyos: Az előírások olyan fokú megsértése, amely a járványügyi védekezést veszélyezteti.
 
-## Súlyos: Az előírások olyan fokú megsértése, amely a járványügyi védekezést veszélyezteti.
+## 9.3. Tartósság
 
-## Tartósság
+## 9.3.1. Rövid távon helyrehozható: Az előírás megsértésből adódó hiányosság azonnal vagy rövid időhatáron belül megszüntethető.
 
-## Rövid távon helyrehozható: Az előírás megsértésből adódó hiányosság azonnal vagy rövid időhatáron belül megszüntethető.
+## 9.3.2. Hosszú távon helyrehozható: Az előírás megsértésből adódó hiányosság hosszú időhatáron belül megszüntethető.
 
-## Hosszú távon helyrehozható: Az előírás megsértésből adódó hiányosság hosszú időhatáron belül megszüntethető.
+## 9.3.3. Maradandó: Az előírás megsértésből adódó hiányosság nem szüntethető meg.
 
-## Maradandó: Az előírás megsértésből adódó hiányosság nem szüntethető meg.
+## 10. JFGK 10.
 
-## 1.12.[^20] JFGK 16
+## 10.1. Cél
 
-## A JFGK célja: A borjak védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
+## 10.1.1. A növényvédő szer kijuttatása, tárolása során fellépő veszélyek megelőzése, az ember és az állat egészségét, a környezet és természet védelmét szolgáló intézkedések biztosításával, illetve növényvédelemmel összefüggő kémiai biztonságra vonatkozó általános szabályok betartásával.
 
-## Súlyosság
+## 10.2. Súlyosság
 
-## Enyhe: az előírás megszegése a borjak jóllétére nincs hatással vagy legfeljebb a borjak jó közérzetét veszélyezteti, de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti, biztonságukra és egészségükre nézve ártalmatlan.
+## 10.2.1. Enyhe: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan kismértékű megsértése, amely a környezet és az emberi egészségre ártalmatlan.
 
-## Közepes: az előírás megszegése a borjak biztonságát, egészségét közvetetten veszélyezteti vagy veszélyeztetheti, illetve az állatoknak szükségtelen szenvedést, fájdalmat okozhat.
+## 10.2.2. Közepes: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan mértékű megsértése, amely a környezet és az emberi egészséget közvetetten veszélyezteti.
 
-## Súlyos: az előírás megszegése a borjak biztonságát, egészségét közvetlenül veszélyezteti, illetve veszélyeztetheti.
+## 10.2.3. Súlyos: A növényvédő szer tárolására, kijuttatására, felhasználására stb. vonatkozó előírások olyan mértékű megsértése, amely a környezet és az emberi egészséget közvetlenül veszélyezteti.
 
-## Tartósság
+## 10.3. Tartósság
 
-## Rövidtávon helyrehozható: az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül megszüntethető.
+## 10.3.1. Rövid távon helyrehozható: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során keletkezett káros hatásokat ésszerű időhatáron belül meg lehet szüntetni.
 
-## Hosszútávon helyrehozható: az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszútávon lehetséges.
+## 10.3.2. Hosszú távon helyrehozható: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során keletkezett káros hatás hosszú időhatáron belül csökkenthető, vagy megszüntethető.
 
-## Maradandó: az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
+## 10.3.3. Maradandó: A növényvédő szer tárolása, kijuttatása, felhasználása stb. során maradandó károsodás következett be.
 
-## 1.13.[^21] JFGK 17
+## 11. JFGK 11.
 
-## A JFGK célja: A sertések védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
+## 11.1. Cél
 
-## Súlyosság
+## 11.1.1. A borjak védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
 
-## Enyhe: az előírás megszegése a sertések jóllétére nincs hatással vagy legfeljebb a sertések jó közérzetét veszélyezteti, de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti, biztonságukra és egészségükre nézve ártalmatlan.
+## 11.2. Súlyosság
 
-## Közepes: az előírás megszegése a sertések biztonságát, egészségét közvetetten veszélyezteti vagy veszélyeztetheti, illetve az állatoknak szükségtelen szenvedést, fájdalmat okozhat.
+## 11.2.1. Enyhe: Az előírás megszegése a borjak jóllétére nincs hatással vagy legfeljebb a borjak jó közérzetét veszélyezteti, de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti, biztonságukra és egészségükre nézve ártalmatlan.
 
-## Súlyos: az előírás megszegése a sertések biztonságát, egészségét közvetlenül veszélyezteti, illetve veszélyeztetheti.
+## 11.2.2. Közepes: Az előírás megszegése a borjak biztonságát, egészségét közvetetten veszélyezteti vagy veszélyeztetheti, illetve az állatoknak szükségtelen szenvedést, fájdalmat okozhat.
 
-## Tartósság
+## 11.2.3. Súlyos: Az előírás megszegése a borjak biztonságát, egészségét közvetlenül veszélyezteti, illetve veszélyeztetheti.
 
-## Rövidtávon helyrehozható: az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül megszüntethető.
+## 11.3. Tartósság
 
-## Hosszútávon helyrehozható: az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszútávon lehetséges.
+## 11.3.1. Rövid távon helyrehozható: Az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül megszüntethető.
 
-## Maradandó: az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
+## 11.3.2. Hosszú távon helyrehozható: Az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszú távon lehetséges.
 
-## 1.14.[^22] JFGK 18
+## 11.3.3. Maradandó: Az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
 
-## A JFGK célja: A mezőgazdasági haszonállatok védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
+## 12. JFGK 12.
 
-## Súlyosság
+## 12.1. Cél
 
-## Enyhe: az előírás megszegése a mezőgazdasági haszonállatok jóllétére nincs hatással vagy legfeljebb azok jó közérzetét veszélyezteti, de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti, biztonságukra és egészségükre nézve ártalmatlan.
+## 12.1.1. A sertések védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
 
-## Közepes: az előírás megszegése a mezőgazdasági haszonállatok biztonságát, egészségét közvetetten veszélyezteti vagy veszélyeztetheti, illetve azoknak szükségtelen szenvedést, fájdalmat okozhat.
+## 12.2. Súlyosság
 
-## Súlyos: az előírás megszegése a mezőgazdasági haszonállatok biztonságát, egészségét közvetlenül veszélyezteti, illetve veszélyeztetheti.
+## 12.2.1. Enyhe: Az előírás megszegése a sertések jóllétére nincs hatással vagy legfeljebb a sertések jó közérzetét veszélyezteti, de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti, biztonságukra és egészségükre nézve ártalmatlan.
 
-## Tartósság
+## 12.2.2. Közepes: Az előírás megszegése a sertések biztonságát, egészségét közvetetten veszélyezteti vagy veszélyeztetheti, illetve az állatoknak szükségtelen szenvedést, fájdalmat okozhat.
 
-## Rövidtávon helyrehozható: az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül megszüntethető.
+## 12.2.3. Súlyos: Az előírás megszegése a sertések biztonságát, egészségét közvetlenül veszélyezteti, illetve veszélyeztetheti.
 
-## Hosszútávon helyrehozható: az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszútávon lehetséges.
+## 12.3. Tartósság
 
-## Maradandó: az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
+## 12.3.1. Rövid távon helyrehozható: Az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül megszüntethető.
 
-## 2. Minimumkövetelmények esetében megállapított meg nem felelések értékelési szempontjai
+## 12.3.2. Hosszú távon helyrehozható: Az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszú távon lehetséges.
 
-## 2.1. Tápanyag-gazdálkodási minimum követelmények
+## 12.3.3. Maradandó: Az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
 
-## 2.1.1. Talajjavítás a talajvédelmi hatóság engedélye alapján végezhető, betartva a vonatkozó jogszabályban foglalt előírásokat.
+## 13. JFGK 13.
 
-## Célja: A talajjavítás olyan módon történő elvégzése, amelynek során a környezet nem károsodik.
+## 13.1. Cél
 
-## Súlyosság
+## 13.1.1. A mezőgazdasági haszonállatok védelme az állatok élettani szükségleteinek megfelelő életfeltételek biztosításának ellenőrzése révén.
 
-## Enyhe: engedély nélkül vagy rendelkezik engedéllyel, de nem az engedélyben foglaltak szerint végezte a talajjavítást és az engedéllyel végzett talajjavítás környezetre gyakorolt terhelése nem jelentős.
+## 13.2. Súlyosság
 
-## Közepes: engedély nélkül úgy végezte el a talajjavítást, hogy a környezetre gyakorolt terhelés nem jelentős.
+## 13.2.1. Enyhe: Az előírás megszegése a mezőgazdasági haszonállatok jóllétére nincs hatással vagy legfeljebb azok jó közérzetét veszélyezteti, de az alapvető, létfenntartáshoz nélkülözhetetlen szükségleteiket nem érinti, biztonságukra és egészségükre nézve ártalmatlan.
 
-## Súlyos: engedély nélkül vagy az engedélynek nem megfelelően végezte el a talajjavítást úgy, hogy a környezetre gyakorolt kedvezőtlen, káros hatások bekövetkeztek.
+## 13.2.2. Közepes: Az előírás megszegése a mezőgazdasági haszonállatok biztonságát, egészségét közvetetten veszélyezteti vagy veszélyeztetheti, illetve azoknak szükségtelen szenvedést, fájdalmat okozhat.
 
-## Tartósság
+## 13.2.3. Súlyos: Az előírás megszegése a mezőgazdasági haszonállatok biztonságát, egészségét közvetlenül veszélyezteti, illetve veszélyeztetheti.
 
-## Rövidtávon helyrehozható: a nem megfelelő talajjavítás során keletkezett káros hatásokat ésszerű időhatáron belül meg lehet szüntetni.
+## 13.3. Tartósság
 
-## Hosszútávon helyrehozható: a talajjavítás során olyan mértékű káros hatás következett be, amely csak hosszútávon hozható helyre.
+## 13.3.1. Rövid távon helyrehozható: Az állatjólléti hiányosság okozta káros hatás azonnal vagy rövid időn belül megszüntethető.
 
-## Maradandó: a nem megfelelő talajjavítás következményeként maradandó környezeti károsodás keletkezett.
+## 13.3.2. Hosszú távon helyrehozható: Az állatjólléti hiányosság megszüntetése, illetve az előírás megszegése által kiváltott hatás helyrehozatala az ésszerű lehetőségek figyelembevételével csak hosszú távon lehetséges.
 
-## 2.2. Növényvédelmi minimum követelmények
+## 13.3.3. Maradandó: Az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
 
-## 2.2.1. Gondoskodni kell a növényvédelmi tevékenység során kiürült csomagoló burkolatok, göngyölegek szakszerű összegyűjtéséről, kezeléséről, megsemmisítéséről (pl. növényvédő szer csomagolóeszköz más célra még tisztított állapotban sem használható).
-
-## Célja: a növényvédelmi tevékenységhez felhasznált termékek csomagoló anyagainak szakszerű megsemmisítése.
-
-## Súlyosság
-
-## Enyhe: a növényvédelemi tevékenység során kiürült csomagoló burkolatok, göngyölegek összegyűjtése, kezelése, megsemmisítése nem szakszerűen történt, de a környezetben nem következett be szennyezés.
-
-## Közepes: a növényvédelemi tevékenység során kiürült csomagoló burkolatok, göngyölegek összegyűjtése, kezelése, megsemmisítése nem szakszerűen történt és a környezetben kismértékű szennyezés következett be.
-
-## Súlyos: növényvédelemi tevékenység során kiürült csomagoló burkolatok, göngyölegek összegyűjtése, kezelése, megsemmisítése nem szakszerűen történt és a környezetben jelentős szennyezés következett be.
-
-## Tartósság
-
-## Rövidtávon helyrehozható: a keletkezett káros hatás ésszerű időhatáron belül csökkenthető vagy szüntethető meg.
-
-## Hosszútávon helyrehozható: a keletkezett káros hatás csak hosszútávon csökkenthető vagy szüntethető meg.
-
-## Maradandó: a szennyezés hatására maradandó károsodás keletkezett a környezetben.
-
-2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^23]
+2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^20]
 
 ## A jogkövetkezmény mértékének számítási alapjai
 
-1. Az egyes meg nem felelések 1. számú melléklet szerinti értékelése alapján a következő besorolást kell elvégezni:
+1. Az egyes meg nem felelések 1. melléklet szerinti értékelése alapján a következő besorolást kell elvégezni:
 
-| Súlyosság szerint | Mérték szerint | Tartósság szerint |
+|  | A. Súlyosság szerint | B. Mérték szerint | C. Tartósság szerint |
 
-| Enyhe | Közepes | Súlyos | Gazdaságon belüli vagy kismértékű | Gazdaságon kívüli vagy nagymértékű | Rövid távon helyrehozható | Hosszú távon helyrehozható | Maradandó |
+|  | Kis jelentőségű | Enyhe | Közepes | Súlyos | Gazdaságon belüli vagy kismértékű | Gazdaságon kívüli vagy nagymértékű | Rövid távon helyrehozható | Hosszú távon helyrehozható | Maradandó |
 
-| 1 | 3 | 5 | 1 | 5 | 1 | 3 | 5 |
+| 1. | 0 | 1 | 3 | 5 | 1 | 5 | 1 | 3 | 5 |
 
-2. Az adott gondatlannak minősülő meg nem felelés jogkövetkezményét az 1. pont szerinti besorolásnak megfelelően az alábbi kombinációk alkalmazásával kell meghatározni. A kombináció kialakításánál a besorolási érték (1,3,5) bármely értékelési szempontot (súlyosság, mérték, tartósság) jelentheti.
+2. Az adott gondatlannak minősülő meg nem felelés jogkövetkezményét az 1. pont szerinti besorolásnak megfelelően az alábbi kombinációk alkalmazásával kell meghatározni. A kombináció kialakításánál az „1” és az „5” besorolási érték a súlyosságot, a mértéket és a tartósságot, a „3” besorolási érték a súlyosságot és a tartósságot, valamint a „0” besorolási érték csak a súlyosságot jelenti.
 
-| Kombinációk | Meg nem felelés jogkövetkezménye |
+|  | A. Kombinációk (súlyosság szerint, mérték szerint, tartósság szerint) | B. A meg nem felelés jogkövetkezménye |
 
-| 1 | 1 | 1 | 1% |
+| 1. | 0 | 1 | 1 | 0% (előzetes figyelmeztetés) |
 
-| 1 | 1 | 3 |
+| 2. | 1 | 1 | 1 | 1% |
 
-| 1 | 3 | 3 | 3% |
+| 3. | 1 | 1 | 3 |
 
-| 1 | 1 | 5 |
+| 4. | 1 | 3 | 3 | 3% |
 
-| 1 | 3 | 5 |
+| 5. | 1 | 1 | 5 |
 
-| 1 | 5 | 5 |
+| 6. | 1 | 3 | 5 |
 
-| 3 | 3 | 5 |
+| 7. | 1 | 5 | 5 |
 
-| 3 | 5 | 5 | 5% |
+| 8. | 3 | 3 | 5 |
 
-| 5 | 5 | 5 |
+| 9. | 3 | 5 | 5 | 5% |
 
-3. Az adott szándékosnak minősülő meg nem felelés jogkövetkezményét az 1. pont szerinti besorolásnak megfelelően az alábbi kombinációk alkalmazásával kell meghatározni. A kombináció kialakításánál a besorolási érték (1,3,5) bármely értékelési szempontot (súlyosság, mérték, tartósság) jelentheti.
+| 10. | 5 | 5 | 5 |
 
-| Kombinációk | Meg nem felelés jogkövetkezménye |
+3. Az adott szándékosnak minősülő meg nem felelés jogkövetkezményét az 1. pont szerinti besorolásnak megfelelően az alábbi kombinációk alkalmazásával kell meghatározni. A kombináció kialakításánál az „1”, a „3” és az „5” besorolási érték bármely értékelési szempontot, a súlyosságot, a mértéket és a tartósságot is jelentheti.
 
-| 1 | 1 | 1 | 15% |
+|  | A. Kombinációk (súlyosság szerint, mérték szerint, tartósság szerint) | B. A meg nem felelés jogkövetkezménye |
 
-| 1 | 1 | 3 |
+| 1. | 1 | 1 | 1 | 15% |
 
-| 1 | 3 | 3 |
+| 2. | 1 | 1 | 3 |
 
-| 1 | 1 | 5 | 20% |
+| 3. | 1 | 3 | 3 |
 
-| 1 | 3 | 5 |
+| 4. | 1 | 1 | 5 | 20% |
 
-| 3 | 3 | 5 |
+| 5. | 1 | 3 | 5 |
 
-| 1 | 5 | 5 | 50% |
+| 6. | 3 | 3 | 5 |
 
-| 3 | 5 | 5 |
+| 7. | 1 | 5 | 5 | 50% |
 
-| 5 | 5 | 5 | 100% |
+| 8. | 3 | 5 | 5 |
 
-[^19]: Az 1. számú melléklet 1. pont 1.2. JFGK 2 alpontját a 43/2014. (IV. 14.) VM rendelet 1. §-a hatályon kívül helyezte.
-[^20]: Az 1. számú melléklet 1.12. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
-[^21]: Az 1. számú melléklet 1.13. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
-[^22]: Az 1. számú melléklet 1.14. pontját a 39/2013. (V. 24.) VM rendelet 1. §-a iktatta be.
-[^23]: A 2. számú melléklet az 55/2010. (V. 6.) FVM rendelet 2. § (10) bekezdése szerint módosított szöveg.
+| 9. | 5 | 5 | 5 | 100% |
+
+[^20]: A 2. számú melléklet a 17/2015. (IV. 9.) FM rendelet 5. § (2) bekezdésével megállapított szöveg.

@@ -1,3 +1,5 @@
-1. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^18]
+## való megfelelést szolgálja.
 
-[^18]: Az 1. számú melléklet a 32/2011. (IV. 28.) VM rendelet 4. §-ával megállapított szöveg.
+1. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^19]
+
+[^19]: Az 1. számú melléklet a 17/2015. (IV. 9.) FM rendelet 5. § (1) bekezdésével megállapított szöveg.

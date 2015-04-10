@@ -2,20 +2,26 @@
 
 ## Az Európai Unió jogának való megfelelés
 
-8. §[^17] (1) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+8. §[^18] (1) Ez a rendelet
 
-a) a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. január 19-i 73/2009/EK tanácsi rendelet;
+a) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet,
 
-b) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2009. november 30-i 1122/2009/EK bizottsági rendelet;
+b) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU parlamenti és tanácsi rendelet,
 
-c) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet;
+c) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet,
 
-d) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet;
+d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU felhatalmazáson alapuló bizottsági rendelet,
 
-e) a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2006. december 7-i 1975/2006/EK bizottsági rendelet;
+e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági végrehajtási rendelet
 
-f) a 73/2009/EK tanácsi rendeletnek a kölcsönös megfeleltetés, a moduláció és az integrált igazgatási és ellenőrzési rendszer tekintetében, az említett rendeletben létrehozott, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról, valamint az 1234/2007/EK tanácsi rendeletnek a kölcsönös megfeleltetés tekintetében, a borágazatban meghatározott támogatási rendszer keretében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló 1122/2009/EK rendelet módosításáról szóló, 2010. február 23-i 146/2010/EU bizottsági rendelet.
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) Ez a rendelet a borjak védelmére vonatkozó minimumkövetelmények megállapításáról szóló 2008. december 18-i 2008/119/EK tanácsi irányelvnek, a sertések védelmére vonatkozó minimumkövetelmények megállapításáról szóló 2008. december 18-i 2008/120/EK tanácsi irányelvnek, valamint a tenyésztés céljából tartott állatok védelméről szóló 1998. július 20-i 98/58/EK tanácsi irányelvnek való megfelelést szolgálja.
+(2) Ez a rendelet
 
-[^17]: A 8. § a 39/2013. (V. 24.) VM rendelet 2. §-ával megállapított szöveg.
+a) a tenyésztés céljából tartott állatok védelméről szóló, 1998. július 20-i 98/58/EK tanácsi irányelvnek,
+
+b) a borjak védelmére vonatkozó minimumkövetelmények megállapításáról szóló, 2008. december 18-i 2008/119/EK tanácsi irányelvnek,
+
+c) a sertések védelmére vonatkozó minimumkövetelmények megállapításáról szóló, 2008. december 18-i 2008/120/EK tanácsi irányelvnek
+
+[^18]: A 8. § a 17/2015. (IV. 9.) FM rendelet 4. §-ával megállapított szöveg.
