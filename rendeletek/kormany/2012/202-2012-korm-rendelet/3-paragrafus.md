@@ -6,9 +6,9 @@ b) az Esztergom Város Önkormányzata egyes intézményeinek átvételéről sz
 
 c) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervként, ennek keretében az állami fenntartású köznevelési intézmények fenntartói jogai és kötelezettségei gyakorlására.
 
-(2)[^4] Az Intézményfenntartó Központ közreműködik a Klebelsberg Képzési Ösztöndíj működtetésében.
+(2)[^6] Az Intézményfenntartó Központ közreműködik a Klebelsberg Képzési Ösztöndíj működtetésében.
 
-(3)[^5]
+(3)[^7]
 
-[^4]: A 3. § (2) bekezdése a 229/2012. (VIII. 28.) Korm. rendelet 57. §-a alapján nem lépett hatályba, újonnan az 52/2013. (II. 25.) Korm. rendelet 15. §-a iktatta be.
-[^5]: A 3. § (3) bekezdését a 467/2013. (XII. 7.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 379/2014. (XII. 31.) Korm. rendelet 7. § a) pontja.
+[^6]: A 3. § (2) bekezdése a 229/2012. (VIII. 28.) Korm. rendelet 57. §-a alapján nem lépett hatályba, újonnan az 52/2013. (II. 25.) Korm. rendelet 15. §-a iktatta be.
+[^7]: A 3. § (3) bekezdését a 467/2013. (XII. 7.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 379/2014. (XII. 31.) Korm. rendelet 7. § a) pontja.

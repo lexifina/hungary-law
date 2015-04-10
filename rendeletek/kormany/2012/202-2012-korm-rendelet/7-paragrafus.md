@@ -1,4 +1,4 @@
-7. §[^16] (1) Az Intézményfenntartó Központ a köznevelési közfeladat-ellátásban részt vevő, fenntartásában lévő köznevelési intézmények tekintetében
+7. §[^18] (1) Az Intézményfenntartó Központ a köznevelési közfeladat-ellátásban részt vevő, fenntartásában lévő köznevelési intézmények tekintetében
 
 a) ellátja – az Nkt.-ban és az e rendeletben foglaltak kivételével, figyelemmel a b)–i) pontban foglaltakra – az Nkt. 83. § (2) bekezdésében meghatározott fenntartói feladatokat,
 
@@ -20,11 +20,11 @@ i) közreműködik a középfokú beiskolázás központi írásbeli felvételi 
 
 j) összesíti a köznevelési intézményekre vonatkozó kötelező, rendszeres és ad hoc jellegű adatszolgáltatásokat,
 
-k)[^17] ellátja a jogszabályokban meghatározott fenntartói feladatokat,
+k)[^19] ellátja a jogszabályokban meghatározott fenntartói feladatokat,
 
 l) közreműködik a területi köznevelési feladatellátás megszervezése irányainak meghatározásában.
 
-(2)[^18] Az Intézményfenntartó Központ feladatkörében – a miniszter ágazati irányítási feladataihoz kapcsolódóan –
+(2)[^20] Az Intézményfenntartó Központ feladatkörében – a miniszter ágazati irányítási feladataihoz kapcsolódóan –
 
 a) javaslatot tesz a miniszternek a tankerületek illetékességi területe módosításának kezdeményezésére, közreműködik a miniszteri kezdeményezés előkészítésében,
 
@@ -38,7 +38,7 @@ e) ellátja a jogszabályban és az Intézményfenntartó Központ alapító oki
 
 (3) Az Intézményfenntartó Központ a fenntartásában lévő szakképző intézmények tekintetében
 
-a)[^19] ellátja a szakképző iskolák szakképzési feladatainak országos szakmai koordinációját,
+a)[^21] ellátja a szakképző iskolák szakképzési feladatainak országos szakmai koordinációját,
 
 b) kidolgozza a szakképzéssel kapcsolatos országos feladatellátási koncepciót, fejlesztési tervet, szakmai irányelveket és feladatszervezési alapelveket, továbbá elemzéseket készít,
 
@@ -48,7 +48,7 @@ d) a szakképzési feladatellátással kapcsolatban meghatározza a hatékonysá
 
 e) ellátja az irányítása alá tartozó szakképző iskolák felnőttképzési tevékenységének országos koordinációs feladatait,
 
-f)[^20]
+f)[^22]
 
 g) a Kormány szakmaszerkezeti döntésének előkészítése során elkészíti javaslatát a keretszámoknak a megyén, fővároson belüli, fenntartók közötti elosztására az állami szakképzési és felnőttképzési szerv által meghatározottak szerint, együttműködve a szakképző iskolai fenntartókkal és a fővárosi és megyei kormányhivatalokkal, figyelembe véve a megyei szakképzési tervben, a szakképzési megállapodásokban foglaltakat és a fenntartók szándékát,
 
@@ -56,27 +56,27 @@ h) a Kormány által az adott megyében, a fővárosban az állami intézményfe
 
 i) tervet készít a megyei szakképzési kapacitásokra vonatkozóan, amelyet összehangol a nem állami fenntartók által ellátott szakképzési feladatokkal.
 
-(3a)[^21] A (3) bekezdésben meghatározott feladatokat az elnök a szakképzési elnökhelyettes egyetértésével látja el.
+(3a)[^23] A (3) bekezdésben meghatározott feladatokat az elnök a szakképzési elnökhelyettes egyetértésével látja el.
 
-(3b)[^22] A megyeközponti tankerület és a fővárosi tankerület szakképzésért felelős szervezeti egységének vezetője a szakképzés-specifikus szakmai feladatok tekintetében a szakképzési elnökhelyettes közvetlen irányítása alatt áll és a szakképzési elnökhelyettes egyetértésével az elnök nevezi ki és menti fel.
+(3b)[^24] A megyeközponti tankerület és a fővárosi tankerület szakképzésért felelős szervezeti egységének vezetője a szakképzés-specifikus szakmai feladatok tekintetében a szakképzési elnökhelyettes közvetlen irányítása alatt áll és a szakképzési elnökhelyettes egyetértésével az elnök nevezi ki és menti fel.
 
 (4) Az Intézményfenntartó Központ a szakképzéssel kapcsolatos feladatait a szakképzésért és felnőttképzésért felelős miniszterrel együttműködve látja el.
 
-(5)[^23]
+(5)[^25]
 
 (6) Az elnöki utasítást az Oktatási és Kulturális Közlönyben, valamint az Intézményfenntartó Központ honlapján kell közzétenni.
 
-(7)[^24] Az Intézményfenntartó Központ biztosítja a szakszervezeti érdekegyeztetés rendszerének működését. A közalkalmazottak élet- és munkakörülményeit érintő munkajogi döntések meghozatala előtt egyeztet a reprezentatív szakszervezetekkel. Az Intézményfenntartó Központ tevékenysége során együttműködik a szakmai és érdekképviseleti szervezetekkel, valamint az országos nemzetiségi önkormányzatokkal. Az Intézményfenntartó Központ biztosítja a Nemzeti Pedagógus Kar javaslattevő és véleményezési jogkörét a közjogi szervezetszabályozó eszközök, valamint az Intézményfenntartó Központ Szervezeti és Működési Szabályzata kialakítása, kiadása vonatkozásában.
+(7)[^26] Az Intézményfenntartó Központ biztosítja a szakszervezeti érdekegyeztetés rendszerének működését. A közalkalmazottak élet- és munkakörülményeit érintő munkajogi döntések meghozatala előtt egyeztet a reprezentatív szakszervezetekkel. Az Intézményfenntartó Központ tevékenysége során együttműködik a szakmai és érdekképviseleti szervezetekkel, valamint az országos nemzetiségi önkormányzatokkal. Az Intézményfenntartó Központ biztosítja a Nemzeti Pedagógus Kar javaslattevő és véleményezési jogkörét a közjogi szervezetszabályozó eszközök, valamint az Intézményfenntartó Központ Szervezeti és Működési Szabályzata kialakítása, kiadása vonatkozásában.
 
-(8)[^25]
+(8)[^27]
 
-[^16]: A 7. § a 199/2013. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^17]: A 7. § (1) bekezdés k) pontja a 379/2014. (XII. 31.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^18]: A 7. § (2) bekezdése a 379/2014. (XII. 31.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^19]: A 7. § (3) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^20]: A 7. § (3) bekezdés f) pontját a 379/2014. (XII. 31.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^21]: A 7. § (3a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^22]: A 7. § (3b) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 379/2014. (XII. 31.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^23]: A 7. § (5) bekezdését a 379/2014. (XII. 31.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^24]: A 7. § (7) bekezdése a 379/2014. (XII. 31.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^25]: A 7. § (8) bekezdését a 379/2014. (XII. 31.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^18]: A 7. § a 199/2013. (VI. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^19]: A 7. § (1) bekezdés k) pontja a 379/2014. (XII. 31.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^20]: A 7. § (2) bekezdése a 379/2014. (XII. 31.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^21]: A 7. § (3) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^22]: A 7. § (3) bekezdés f) pontját a 379/2014. (XII. 31.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^23]: A 7. § (3a) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^24]: A 7. § (3b) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 379/2014. (XII. 31.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^25]: A 7. § (5) bekezdését a 379/2014. (XII. 31.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^26]: A 7. § (7) bekezdése a 379/2014. (XII. 31.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^27]: A 7. § (8) bekezdését a 379/2014. (XII. 31.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
