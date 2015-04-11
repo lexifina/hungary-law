@@ -1,1 +1,0 @@
-## „(2a) A már forgalomba helyezett közúti közlekedési szolgáltatást végző jármű esetében az eredetivel megegyező rendszámmal a (2) bekezdés c) pontjában meghatározottak szerint eltérő alapszínben legyártott rendszámtábla kiadása kérhető.”

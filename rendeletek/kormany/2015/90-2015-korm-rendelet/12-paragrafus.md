@@ -1,11 +1,9 @@
-## 11. § A KR. 52. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 4–11. §[^4]
 
-## (Az előzetes eredetiségvizsgálatot el kell végezni:)
+12. § (1)[^5]
 
-## „b) a forgalomból végleg vagy átmeneti időszakra kivont jármű ismételt forgalomba helyezésekor;”
+(2)[^6]
 
-12. § (1)[^1]
-
-(2) A KR. 60. §-a a következő (2a) bekezdéssel egészül ki:
-
-[^1]: A 12. § (1) bekezdése a 17. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^4]: A 4–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 12. § (1) bekezdése a 17. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^6]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
