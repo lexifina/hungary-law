@@ -64,4 +64,6 @@ j) tevékenységéről és működéséről és az NHJ területén legfontosabb 
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
-12. A Kormány a Nemzetközi humanitárius jog terjesztésével és érvényre juttatásával foglalkozó Nemzeti Tanácsadó Bizottság működéséről szóló 2095/2000. (V. 9.) Korm. határozatot hatályon kívül helyezi.
+12.[^1]
+
+[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
