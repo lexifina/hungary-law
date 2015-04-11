@@ -1,3 +1,0 @@
-## 17. § Az éghajlat és környezet szempontjából előnyös mezőgazdasági gyakorlatokra nyújtandó támogatás igénybevételének szabályairól, valamint a szántóterület, az állandó gyepterület és az állandó kultúrával fedett földterület növénytermesztésre vagy legeltetésre alkalmas állapotban tartásának feltételeiről szóló 10/2015. (III. 13.) FM rendelet (a továbbiakban: R4.) 3. §-a a következő (6) bekezdéssel egészül ki:
-
-## „(6) Támogatás igénybevételére jogosult az a mezőgazdasági termelő is, aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy a támogatás feltételeinek egyébként megfelel.”
