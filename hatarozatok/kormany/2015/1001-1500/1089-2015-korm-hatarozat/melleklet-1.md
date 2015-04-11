@@ -6,4 +6,6 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1089/2015. (III. 3.) Korm. határozathoz
+1. melléklet az 1089/2015. (III. 3.) Korm. határozathoz[^2]
+
+[^2]: Az 1. melléklet az 1210/2015. (IV. 10.) Korm. határozat 3. pontja szerint módosított szöveg.

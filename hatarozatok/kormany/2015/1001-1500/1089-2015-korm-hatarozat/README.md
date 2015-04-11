@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1089-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-03-04 | 2015-1089-30-22.1 | 1089/2015. (III. 3.) Korm. határozat |
+| 2015-04-11 | 2015-1089-30-22.2 | 1786/2015. (X. 30.) Korm. határozat |

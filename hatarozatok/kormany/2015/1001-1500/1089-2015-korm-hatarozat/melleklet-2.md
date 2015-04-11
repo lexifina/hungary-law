@@ -38,17 +38,17 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | VEKOP terhére történő finanszírozás (Mrd Ft) |
 
-| 2. | EFOP-1.1.5 | Komplex ifjúsági fejlesztések – új nemzedék újratöltve | 1,50 |
+| 2. | EFOP-1.2.3 | Komplex ifjúsági fejlesztések – új nemzedék újratöltve | 1,50 |
 
-| 3. | EFOP-1.3.2 | Szociális intézményi férőhelykiváltási szakmai koordinációs műhely kialakítása, a kiváltásra történő felkészítés és képzés biztosítása | 0,45 |
+| 3. | EFOP-1.9.1 | Szociális intézményi férőhelykiváltási szakmai koordinációs műhely kialakítása, a kiváltásra történő felkészítés és képzés biztosítása | 0,45 |
 
-| 4. | EFOP-1.3.3 | Ápoló tanulók részére pályaválasztást támogató ösztöndíjas program | 0,66 |
+| 4. | EFOP-1.10.1 | Ápoló tanulók részére pályaválasztást támogató ösztöndíjas program | 0,66 |
 
 | 5. | EFOP-3.1.2 | Korai iskolaelhagyás csökkentése | 1,20 |
 
 | 6. | EFOP-3.1.4 | Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – útravaló ösztöndíjprogram | 1,80 |
 
-| 7. | EFOP-3.2.2 | Campus Hungary Program – felsőoktatási mobilitás támogatása | 2,85 |
+| 7. | EFOP-3.4.2 | Campus Hungary Program – felsőoktatási mobilitás támogatása | 2,85 |
 
 ## 4. A Gazdaságfejlesztési és Innovációs Operatív Program egyes országos kihatású projektjeinek részben a VEKOP terhére történő finanszírozása
 
