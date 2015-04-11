@@ -1,3 +1,0 @@
-## 3. § A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósítandó tanuszoda, tornaterem, tanterem beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 141/2014. (IV. 30.) Korm. rendelet (a továbbiakban: R2.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program részét képező, a 3. mellékletben felsorolt beruházások beruházáslebonyolítója és építési műszaki ellenőre a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.”
