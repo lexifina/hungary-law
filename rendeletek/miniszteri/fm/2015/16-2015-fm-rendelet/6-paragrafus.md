@@ -2,8 +2,6 @@
 
 ## 6. Módosító rendelkezések
 
-6. § (1) Az állatlétszámhoz kötött támogatási jogosultságról szóló 82/2005. (IX. 15.) FVM rendelet [a továbbiakban: 82/2005. (IX. 15.) FVM rendelet] 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+6–8. §[^1]
 
-## „(3) Ha a termelő adott támogatási évben az egyéni támogatási felsőhatár száz százaléka alatt használja ki támogatási jogosultságát, akkor az összes ki nem használt egyéni támogatási jogosultság az országos tartalék javára ellenérték nélkül megvonásra kerül, függetlenül attól, hogy a termelő saját vagy használatba vett támogatási jogosultságát érinti.”
-
-(2) A 82/2005. (IX. 15.) FVM rendelet 10. § (4) bekezdésében a „90%” szövegrész helyébe a „100%” szöveg lép.
+[^1]: A 6–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
