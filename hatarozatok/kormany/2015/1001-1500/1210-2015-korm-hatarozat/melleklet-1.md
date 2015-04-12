@@ -12,16 +12,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Versenyképes Közép-Magyarország Operatív Program 2015. évre szóló éves fejlesztési kerete 7. és 8. prioritásának, valamint a 2014–2020 programozási időszak egyes országos kihatású projektjeinek részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozásának megállapításáról szóló 1089/2015. (III. 3.) Korm. határozat 1. melléklet 3. pontjában foglalt táblázat
-
-## a) A:2 mezőjében az „EFOP-1.1.5” szövegrész helyébe az „EFOP-1.2.3” szöveg,
-
-## b) A:3 mezőjében az „EFOP-1.3.2” szövegrész helyébe az „EFOP-1.9.1” szöveg,
-
-## c) A:4 mezőjében az „EFOP-1.3.3” szövegrész helyébe az „EFOP-1.10.1” szöveg,
-
-## d) A:7 mezőjében az „EFOP-3.2.2” szövegrész helyébe az „EFOP-3.4.2” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1210/2015. (IV. 10.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
