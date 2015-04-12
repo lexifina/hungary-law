@@ -1,3 +1,5 @@
-1. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez[^23]
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^23]: Az 1. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 110. § (2) bekezdésével megállapított szöveg.
+1. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez[^16]
+
+[^16]: Az 1. számú melléklet a 94/2015. (IV. 9.) Korm. rendelet 5. §-ával megállapított szöveg.
