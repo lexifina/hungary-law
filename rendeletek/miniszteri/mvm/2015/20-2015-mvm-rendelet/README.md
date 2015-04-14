@@ -1,0 +1,9 @@
+# 20/2015. (IV. 13.) MvM rendelet
+
+a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-20-20-6N
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-04-14 | 2015-20-20-6N.1 | 20/2015. (IV. 13.) MvM rendelet |
