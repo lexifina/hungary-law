@@ -1,6 +1,6 @@
 ## 34. § Befejezett a végrehajtási ügy akkor is (ügyviteli befejezés), ha
 
-a)[^82] a végrehajtást valamennyi végrehajtási cselekményre kiterjedő hatállyal felfüggesztették,
+a)[^83] a végrehajtást valamennyi végrehajtási cselekményre kiterjedő hatállyal felfüggesztették,
 
 b) a végrehajtás szünetel,
 
@@ -14,13 +14,13 @@ f) biztosítási intézkedés végrehajtása esetén a végrehajtó a szüksége
 
 g) a meghatározott cselekmény végrehajtása során a végrehajtást kérő a Vht. 172. §-ának (3) bekezdése szerinti közlési kötelezettségének határidőben nem tett eleget,
 
-h)[^83] a végrehajtói kézbesítés szünetel, vagy eredménytelen,
+h)[^84] a végrehajtói kézbesítés szünetel, vagy eredménytelen,
 
-i)[^84] a különleges intézkedés iránti kérelemben közölt adatok nem elegendőek a tartásra kötelezett adatainak a nyilvántartásokból való lekérdezésére,
+i)[^85] a különleges intézkedés iránti kérelemben közölt adatok nem elegendőek a tartásra kötelezett adatainak a nyilvántartásokból való lekérdezésére,
 
-j)[^85] a kézbesítési regisztrációs ügyben kiadott hiánypótlási felhívást nem teljesítették.
+j)[^86] a kézbesítési regisztrációs ügyben kiadott hiánypótlási felhívást nem teljesítették.
 
-[^82]: A 34. § a) pontja a 31/2012. (VI. 29.) KIM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^83]: A 34. § h) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (10) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^84]: A 34. § i) pontját a 26/2011. (VIII. 31.) KIM rendelet 26. § (11) bekezdése iktatta be.
-[^85]: A 34. § j) pontját a 40/2012. (VIII. 30.) KIM rendelet 45. § (8) bekezdése iktatta be.
+[^83]: A 34. § a) pontja a 31/2012. (VI. 29.) KIM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^84]: A 34. § h) pontját a 27/2004. (VIII. 26.) IM rendelet 1. § (10) bekezdése iktatta be, e módosító rendelet 7. § (4) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^85]: A 34. § i) pontját a 26/2011. (VIII. 31.) KIM rendelet 26. § (11) bekezdése iktatta be.
+[^86]: A 34. § j) pontját a 40/2012. (VIII. 30.) KIM rendelet 45. § (8) bekezdése iktatta be.

@@ -2,8 +2,8 @@
 
 (2) A végrehajtó pénzkezelésére, továbbá nyilvántartási, elszámolási és számlaadási kötelezettségére a számviteli törvényben, valamint az adó- és társadalombiztosítási jogszabályokban megállapított rendelkezéseket is alkalmazni kell.
 
-(3)[^131] A törvényszéki bírósági végrehajtói letéti számlára befolyt összegek kezelését és nyilvántartását a BGH végzi.
+(3)[^132] A törvényszéki bírósági végrehajtói letéti számlára befolyt összegek kezelését és nyilvántartását a BGH végzi.
 
 (4) A BGH az eljárása során e rendeletet, a bírósági ügyviteli rendelkezéseket, továbbá a gazdasági, pénzügyi és számviteli feladatok ellátására vonatkozó más szabályokat alkalmazza.
 
-[^131]: Az 52. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^132]: Az 52. § (3) bekezdése a 40/2011. (XII. 30.) KIM rendelet 20. § (1) bekezdés l) pontja szerint módosított szöveg.
