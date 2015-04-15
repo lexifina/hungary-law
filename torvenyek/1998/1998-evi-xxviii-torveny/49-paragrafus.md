@@ -30,11 +30,21 @@ rendeletben állapítsa meg.
 
 a) az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter), hogy a mezőgazdasági haszonállatok tartásának részletes szabályait;
 
-b) a miniszter, hogy a veszélyes állatok körét, tartásuk és szaporításuk részletes feltételeit, a veszélyes állattá nyilvánítás feltételeit, a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit, valamint az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
+b) a miniszter, hogy
+
+ba) a veszélyes állatok körét, egyedi azonosításának szabályait,
+
+bb) a különösen veszélyes állatfaj egyede tartásának, szaporításának, elidegenítésének, másik állatkertbe történő át- vagy kihelyezésének, országba történő behozatalának, országból történő kivitelének, és bemutatásának részletes szabályait,
+
+bc) a közepesen veszélyes állatfaj egyede tartásának, szaporításának, elidegenítésének, megvételének, felügyelete átengedésének, eladásra való felkínálásának, országba történő behozatalának, országból történő kivitelének, és bemutatásának részletes szabályait,
+
+bd) az elővigyázatosságot igénylő állatfaj egyede tartásának, szaporításának, elidegenítésének, tartása átengedésének, országba történő behozatalának részletes szabályait,
+
+be) a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit,
 
 c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 
-d)
+d) a miniszter, hogy az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 
 e) a miniszter, hogy az élő állat nyereményjáték díjaként történő felhasználásának részletes szabályait,
 
