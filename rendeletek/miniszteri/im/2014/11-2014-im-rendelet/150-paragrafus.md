@@ -2,6 +2,8 @@
 
 150. § (1) A feltételes szabadságra bocsátás szabályait a javítóintézetből ideiglenes elbocsátásra a következő eltérésekkel kell értelemszerűen alkalmazni.
 
-(2) A bv. bíró a meghallgatás időpontjáról értesíti a javítóintézet igazgatóját, a fiatalkorú törvényes képviselőjét, az elítélt lakóhelye szerint illetékes pártfogó felügyelői szolgálatot és az ügyészt.
+(2)[^43] A bv. bíró a meghallgatás időpontjáról értesíti a javítóintézet igazgatóját, a fiatalkorú törvényes képviselőjét, az elítélt lakóhelye szerint illetékes kormányhivatalt és az ügyészt.
 
 (3) A bv. bíró a végzésének három példányát átadja a javítóintézetnek.
+
+[^43]: A 150. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § i) pontja szerint módosított szöveg.

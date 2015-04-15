@@ -4,7 +4,7 @@
 
 (2) Végrehajtandó szabadságvesztés esetén az a bíróság, amely a feltételes szabadság megszüntetéséről utólag határoz (Be. 559. §), az erről kiállított értesítőlapot és a jogerős határozat két kiadmányát a bv. csoport útján – gyűjtőjegyzék nélkül – három napon belül megküldi az elítéltet fogva tartó bv. intézetnek, továbbá a büntetés-végrehajtási pártfogó felügyelőnek, ha az elítélt pártfogó felügyelet alatt áll.
 
-(3) Végrehajtásában próbaidőre felfüggesztett szabadságvesztés esetén az a bíróság, amely a büntetés végrehajtását utólag elrendeli (Be. 572. §), erről értesítőlapot állít ki, egyebekben a szabadságvesztés végrehajtásával kapcsolatos általános rendelkezések szerint jár el. Ha a bíróság a pártfogó felügyelet alatt álló, felfüggesztett szabadságvesztésre elítélt felfüggesztett szabadságvesztésének végrehajtását utólag elrendeli, határozatát három napon belül megküldi annak a pártfogó felügyelői szolgálatnak is, amely az elítélt pártfogó felügyeletét ez idáig végrehajtotta. Ha a bíróságnak nincs tudomása arról, hogy a pártfogó felügyeletet melyik pártfogó felügyelői szolgálat hajtotta végre, akkor az elítélt lakó- vagy tartózkodási helye szerint illetékes pártfogó felügyelői szolgálatnak küldi meg a határozatot.
+(3)[^6] Végrehajtásában próbaidőre felfüggesztett szabadságvesztés esetén az a bíróság, amely a büntetés végrehajtását utólag elrendeli (Be. 572. §), erről értesítőlapot állít ki, egyebekben a szabadságvesztés végrehajtásával kapcsolatos általános rendelkezések szerint jár el. Ha a bíróság a pártfogó felügyelet alatt álló, felfüggesztett szabadságvesztésre elítélt felfüggesztett szabadságvesztésének végrehajtását utólag elrendeli, határozatát három napon belül megküldi annak a kormányhivatalnak is, amely az elítélt pártfogó felügyeletét ez idáig végrehajtotta. Ha a bíróságnak nincs tudomása arról, hogy a pártfogó felügyeletet melyik kormányhivatal hajtotta végre, akkor az elítélt lakó- vagy tartózkodási helye szerint illetékes kormányhivatalnak küldi meg a határozatot.
 
 (4) Végrehajtandó szabadságvesztés esetén az a bíróság, amely az összbüntetésbe foglalásról utólag határoz (Be. 575. §), az erről kiállított értesítőlapot és a jogerős határozat két kiadmányát a bv. csoport útján – gyűjtőjegyzék nélkül – három napon belül megküldi az elítéltet fogva tartó bv. intézetnek.
 
@@ -13,3 +13,5 @@
 (6) Ha az elítélt szabadlábon van, az (1)–(2) és a (4)–(5) bekezdés szerinti értesítőlapot és határozatkiadmányokat a bíróság szerint illetékes bv. csoportnak kell megküldeni.
 
 (7) Ha az előzetes fogvatartás, vagy a házi őrizet utólagos beszámítása folytán az elítélt feltételes szabadságra lenne bocsátható, a 9. § (6) bekezdésében foglalt rendelkezéseket megfelelően alkalmazni kell.
+
+[^6]: A 18. § (3) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § d) és e) pontja szerint módosított szöveg.

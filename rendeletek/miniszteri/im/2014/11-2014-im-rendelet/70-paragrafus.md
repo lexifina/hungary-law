@@ -16,10 +16,13 @@ d) indokolt esetben – ha szabadságvesztésre átváltoztatásra nincs ok – 
 
 (4) A bv. bíró, illetve a másodfokú bíróság tanácsának elnöke a közérdekű munka helyébe lépő szabadságvesztésről kiállított értesítőlapon feltünteti, hogy milyen tételszám alatt előírt közérdekű munkát változtatott át szabadságvesztésre. Az értesítőlapot fogva lévő elítélt esetén a végzés jogerőre emelkedésekor helyben kell a bv. őrnek átadni, szabadlábon lévő elítélt esetén pedig akkor kell három napon belül megküldeni, ha a bv. intézet az elítélt befogadásáról értesíti a bv. csoportot.
 
-(5) A bv. bíró a jogerős átváltoztató végzés két kiadmányát megküldi annak a pártfogó felügyelői szolgálatnak, amely a közérdekű munka végrehajtását ellenőrizte.
+(5)[^29] A bv. bíró a jogerős átváltoztató végzés két kiadmányát megküldi annak a kormányhivatalnak, amely a közérdekű munka végrehajtását ellenőrizte.
 
 (6) A pártfogó felügyelő a bv. bíró által átadott végzéskiadmány alapján értesíti a munkahelyet a közérdekű munka hátralevő részének szabadságvesztésre való átváltoztatásáról.
 
 (7) A közérdekű munka helyébe lépő szabadságvesztés végrehajtására a 37. § (2)–(6) bekezdései irányadóak.
 
-(8) Az elítélt halála esetén a bv. bíró beszerzi a halotti anyakönyvi kivonatot, majd a halál tényéről értesíti a pártfogó felügyelői szolgálatot. Ilyenkor a közérdekű munka, illetve a közérdekű munka helyébe lépő szabadságvesztés végrehajthatatlanságáról nem kell határozatot hozni.
+(8)[^30] Az elítélt halála esetén a bv. bíró beszerzi a halotti anyakönyvi kivonatot, majd a halál tényéről értesíti a kormányhivatalt. Ilyenkor a közérdekű munka, illetve a közérdekű munka helyébe lépő szabadságvesztés végrehajthatatlanságáról nem kell határozatot hozni.
+
+[^29]: A 70. § (5) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § c) pontja szerint módosított szöveg.
+[^30]: A 70. § (8) bekezdése a 8/2015. (IV. 14.) IM rendelet 22. § i) pontja szerint módosított szöveg.
