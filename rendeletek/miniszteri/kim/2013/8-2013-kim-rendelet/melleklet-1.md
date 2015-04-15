@@ -1,5 +1,5 @@
-## 65. §[^85]
+## 65. §[^118]
 
 1. melléklet a 8/2013. (VI. 29.) KIM rendelethez
 
-[^85]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

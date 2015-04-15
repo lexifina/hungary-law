@@ -1,4 +1,4 @@
-## 6. §[^5] A pártfogó felügyelői vélemény vagy a környezettanulmány elkészítésére vonatkozó kezdőirat kijelölésnél lehetőség szerint figyelemmel kell lenni arra, hogy a gyermekkorúak, illetve a fiatalkorúak ügyeit a fiatalkorúak pártfogó felügyelője intézze.
+## 6. §[^8] A pártfogó felügyelői vélemény vagy a környezettanulmány elkészítésére vonatkozó kezdőirat kijelölésnél lehetőség szerint figyelemmel kell lenni arra, hogy a gyermekkorúak, illetve a fiatalkorúak ügyeit a fiatalkorúak pártfogó felügyelője intézze.
 
 ## 2. A pártfogó felügyelői vélemény tartalmi elemei és elkészítésének általános szabályai
 
@@ -10,7 +10,7 @@ a) a vélemény beszerzését elrendelő hatóság megnevezését, ügyszámát,
 
 b) a megalapozott gyanú szerinti bűncselekménynek a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti megnevezését és minősítését, valamint az elkövetés időpontját,
 
-c) az illetékes igazságügyi szolgálat megnevezését, a vélemény elkészítésében közreműködő igazságügyi szolgálat megnevezését, a véleményt készítő pártfogó felügyelő nevét, telefonszámát, e-mail címét,
+c)[^9] az illetékes kormányhivatal megnevezését, a vélemény elkészítésében közreműködő kormányhivatal megnevezését, a véleményt készítő pártfogó felügyelő nevét, telefonszámát, e-mail címét,
 
 d) a beszerzett okiratokat, igazolásokat, egyéb mellékleteket.
 
@@ -32,4 +32,5 @@ g) a jövedelmi, vagyoni viszonyait,
 
 h) a hozzátartozók közötti erőszakra vagy veszélyeztetettségre utaló tények leírását, az azok megszüntetése érdekében tett, vagy javasolt intézkedések bemutatását.
 
-[^5]: A 6. § a 19/2014. (XII. 22.) IM rendelet 34. § 1. pontja szerint módosított szöveg.
+[^8]: A 6. § a 19/2014. (XII. 22.) IM rendelet 34. § 1. pontja szerint módosított szöveg.
+[^9]: A 7. § (2) bekezdés c) pontja a 8/2015. (IV. 14.) IM rendelet 20. § d) pontja szerint módosított szöveg.

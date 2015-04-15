@@ -1,4 +1,4 @@
-61. §[^77] (1) A közösségi foglalkoztató programjai különösen
+61. §[^100] (1) A közösségi foglalkoztató programjai különösen
 
 a) a viselkedéskorrekciós, illetve kompetencia-fejlesztésére irányuló csoportos és egyéni foglalkozások, így különösen az agresszióhelyettesítő tréning, a szociális készségfejlesztő tréning és a munkaerőpiaci tréning,
 
@@ -16,4 +16,4 @@ e) az egyéni tanácsadások, így különösen a pszichológiai és a mentálhi
 
 (4) A közösségi foglalkoztató tanúsítványt állít ki a résztvevőknek a különböző programokban való eredményes részvételről, amely közokiratnak minősül.
 
-[^77]: A 61. § a 19/2014. (XII. 22.) IM rendelet 32. §-ával megállapított szöveg.
+[^100]: A 61. § a 19/2014. (XII. 22.) IM rendelet 32. §-ával megállapított szöveg.

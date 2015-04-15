@@ -1,4 +1,4 @@
-62/C. §[^84] (1) A büntetés-végrehajtási pártfogó felügyelő a reintegrációs őrizet végrehajtására az elítélt által megjelölt lakással kapcsolatosan az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályairól szóló 10/2015. (III. 30.) BM rendelet 4. §-ában meghatározott, az elektronikus távfelügyeleti eszköz alkalmazhatóságának a feltételeit a helyszínen ellenőrzi.
+62/C. §[^111] (1) A büntetés-végrehajtási pártfogó felügyelő a reintegrációs őrizet végrehajtására az elítélt által megjelölt lakással kapcsolatosan az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályairól szóló 10/2015. (III. 30.) BM rendelet 4. §-ában meghatározott, az elektronikus távfelügyeleti eszköz alkalmazhatóságának a feltételeit a helyszínen ellenőrzi.
 
 (2) Az elektronikus távfelügyeleti eszköz alkalmazhatóságának az (1) bekezdés szerinti felmérését a bv. intézet vezetője által kijelölt büntetés-végrehajtási pártfogó felügyelő végzi. A felmérés időpontját a büntetés-végrehajtási pártfogó felügyelő az elítélt által megjelölt személlyel vagy a befogadó nyilatkozatot tevővel előzetesen egyezteti. Szükség esetén a büntetés-végrehajtási pártfogó felügyelő a folyamatos áramellátás meglétének a vizsgálata körében az előbb felsorolt személyektől kérheti a legutolsó fogyasztói számlakivonat bemutatását. A felmérés eredményéről jegyzőkönyvet kell felvenni. Ha a felmérés elvégzése akadályba ütközött, ennek tényét és körülményeit kell a jegyzőkönyvbe foglalni.
 
@@ -90,4 +90,4 @@ b) amelyben javaslatot tehet az elítélttel szemben külön magatartási szabá
 
 bemutatja, hogy az elítélt a kilátásba helyezett külön magatartási szabályok teljesítését vállalja-e és képes-e teljesíteni.
 
-[^84]: A 62/C. § a 6/2015. (III. 30.) IM rendelet 3. §-ával megállapított szöveg.
+[^111]: A 62/C. § a 6/2015. (III. 30.) IM rendelet 3. §-ával megállapított szöveg.
