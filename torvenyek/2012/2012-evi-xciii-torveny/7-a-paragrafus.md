@@ -2,6 +2,8 @@
 
 (2) Az (1) bekezdés nem alkalmazható a települési önkormányzat részéről jogellenesen megállapított illetményre. Jogellenesen megállapított illetmény esetében a fővárosi és megyei kormányhivatal állományába átkerült köztisztviselő illetményét a Kttv. kormánytisztviselőkre vonatkozó rendelkezése alapján történő besorolás szerint, a Kttv. rendelkezéseinek megfelelően kell megállapítani.
 
-(3) A fővárosi és megyei kormányhivatal állományába átkerült köztisztviselő az (1) bekezdésben meghatározott illetményre – ide nem értve a fegyelmi büntetés miatti illetménycsökkentést – az életpályamodellhez kapcsolódó illetményrendszer bevezetéséről szóló külön törvény hatálybalépéséig jogosult, kivéve, ha a Kttv. alapján a besorolása szerinti illetménye – e törvény hatálybalépését követően bekövetkező ok miatt – meghaladja az (1) bekezdés szerinti illetmény összegét.
+(3) A fővárosi és megyei kormányhivatal állományába átkerült köztisztviselő az (1) bekezdésben meghatározott illetményre – ide nem értve a fegyelmi büntetés miatti illetménycsökkentést – az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése hónapjának utolsó napjáig jogosult, kivéve, ha a Kttv. alapján a besorolása szerinti illetménye – az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépését követően bekövetkező ok miatt – meghaladja az (1) bekezdés szerinti illetmény összegét.
 
 (4) Az (1) bekezdésben meghatározott köztisztviselők esetében a Kttv. 72. § (5) bekezdéséből az „és illetményét meg kell állapítani” szövegrész nem alkalmazható.
+
+(5) A kormánytisztviselő illetményét az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépését követő hónap első napjától a Kttv. kormánytisztviselőkre vonatkozó rendelkezése alapján történő besorolás szerint, a Kttv. rendelkezéseinek megfelelően kell megállapítani.
