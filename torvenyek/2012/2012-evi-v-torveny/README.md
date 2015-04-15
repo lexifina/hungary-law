@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-5-00-00
 | 2014-07-01 | 2013. évi CCXLV. törvény | 2012-5-00-00.19 |
 | 2014-12-12 | 2014. évi LXXXV. törvény | 2012-5-00-00.20 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2012-5-00-00.21 |
+| 2015-04-15 | 2015. évi XXXII. törvény | 2012-5-00-00.22 |

@@ -1,0 +1,1 @@
+19/L. § Az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény szerinti tájékoztatási kötelezettség az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében áll fenn.

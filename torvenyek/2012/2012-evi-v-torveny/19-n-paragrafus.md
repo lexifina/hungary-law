@@ -1,0 +1,1 @@
+19/N. § A Kttv.-nek az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvénnyel megállapított 34. § (3) bekezdés d) pontját az MKK-nak az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépését követő általános választásától kell alkalmazni.
