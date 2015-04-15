@@ -1,5 +1,3 @@
-## 27. §[^4]
-
 ## III. Fejezet
 
 ## A MŰEMLÉKI ÉRTÉKEK VÉDELME
@@ -47,5 +45,3 @@ f) a természetvédelmi kezelésért felelős szervet, ha a védelemre tervezett
 (7) Ha az előkészítés alatt álló területi védelem ötven tulajdonosnál többet érint, a Hivatal a települési önkormányzat bevonásával szervezett közmeghallgatás keretében tájékoztatást ad.
 
 (8) Az (5) bekezdés szerinti értesítés közlése, a (6) bekezdés szerinti megkeresés iránt és a (7) bekezdés szerinti közmeghallgatás érdekében a védetté nyilvánítás előkészítésének megindításától számított tizenöt napon belül kell intézkedni.
-
-[^4]: A 27. § a 79. § (2) bekezdése alapján 2015. április 15-én lép hatályba.
