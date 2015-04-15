@@ -60,7 +60,7 @@ c) felmentésére a 63. § (2) bekezdés b) pontjában meghatározott okból ker
 
 d) kormányzati szolgálati jogviszonya a 72. § szerint alakult át;
 
-e) méltatlanság címén mentették fel.
+e) méltatlanság vagy bizalomvesztés címén mentették fel.
 
 (10) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 

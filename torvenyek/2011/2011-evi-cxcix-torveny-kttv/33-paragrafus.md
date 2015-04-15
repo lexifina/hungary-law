@@ -2,11 +2,11 @@
 
 33. § (1) Az MKK tagja az a magyar állampolgár, aki államigazgatási szervnél kormánytisztviselői kinevezést kapott.
 
-(2) A munkáltató írásban tájékoztatja az Országos Irodát a kormányzati szolgálati jogviszony létesítéséről. Az Országos Iroda az MKK tagját nyilvántartásba veszi. Az Országos Iroda az MKK-tagságról igazolást állít ki.
+(2) A munkáltató a kormányzati szolgálati jogviszony létesítéséről és megszűnéséről legkésőbb tizenöt napon belül tájékoztatja az Országos Irodát.
 
 (3) Megszűnik a MKK-tagsági viszonya annak, akinek a kormányzati szolgálati jogviszonya megszűnt.
 
-(4) Az MKK-tag kormányzati szolgálati jogviszonyának megszűnéséről a munkáltató köteles tizenöt napon belül írásban tájékoztatni az Országos Irodát.
+(4)
 
 (5) Az MKK-tag a nyilvántartásba vétel, annak elmulasztása, illetve a nyilvántartásból való törlés ellen az Elnökséghez benyújtandó fellebbezéssel élhet. A nyilvántartással kapcsolatos döntésekkel, illetve mulasztással szembeni jogorvoslatra és döntés-felülvizsgálatra a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
 

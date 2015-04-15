@@ -34,16 +34,18 @@ d) az Országos Etikai Bizottság elnöke.
 
 (10) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti. Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult. Az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésre állási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult.
 
-(11) A főtitkár vezeti az MKK Országos Irodáját, valamint ellátja az Alapszabályban meghatározott feladatokat. A főtitkár az MKK-val munkajogviszonyban áll. A munkáltatói jogkört a főtitkár felett az elnök gyakorolja. A főtitkárra nem alkalmazható a 34. § (1) és (2) bekezdése.
+(10a) Az elnök irányítja az MKK Országos Irodáját.
+
+(11) A főtitkár ellátja az Alapszabályban meghatározott feladatokat. A főtitkár az MKK-val munkajogviszonyban áll. A munkáltatói jogkört a főtitkár felett az elnök gyakorolja. A főtitkárra nem alkalmazható a 34. § (1) és (2) bekezdése.
 
 (12) Az Elnökség, az Elnökség tagjainak, valamint a Pénzügyi Ellenőrző Bizottság és az Etikai Bizottság feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
 (13) A területi szinten a Területi Közgyűlés által megválasztott Területi Elnökséget és Területi Etikai Bizottságot kell alakítani. A Területi Elnökség elnökből, alelnökből, és a Területi Etikai Bizottság elnökéből áll. A Területi Elnökség, a Területi Elnökség tagjainak, valamint a Területi Etikai Bizottság feladat- és hatáskörét, és annak átruházási módját, működésük rendjét az Alapszabály határozza meg.
 
-(14) A Területi Etikai Bizottság az Alapszabályban meghatározott számú tagból álló Becsületbíróságként jár el, amelynek feladata az elsőfokú etikai eljárás lefolytatása. Etikai vétség gyanúja esetén az MKK a tagja ellen etikai eljárást folytat le. Amennyiben az etikai vétség gyanúját megalapozó bejelentés kivizsgálásához olyan adatokra, információkra van szükség, amelyek kizárólag a munkáltató számára hozzáférhetőek, felkéri a munkáltatót – utólagos tájékoztatási kötelezettség mellett – a bejelentés kivizsgálására. A kivizsgálás eredményétől függően dönt az etikai eljárás megindításáról. Nem kell az eljárást megindítani, ha a bejelentés nyilvánvalóan megalapozatlan vagy az a kormánytisztviselő munkájának ellehetetlenítésére irányul.
+(14) A Területi Etikai Bizottság Becsületbíróságként jár el, amelynek feladata az elsőfokú etikai eljárás lefolytatása. Etikai vétség gyanúja esetén az MKK a tagja ellen etikai eljárást folytat le. Amennyiben az etikai vétség gyanúját megalapozó bejelentés kivizsgálásához olyan adatokra, információkra van szükség, amelyek kizárólag a munkáltató számára hozzáférhetőek, felkéri a munkáltatót – utólagos tájékoztatási kötelezettség mellett – a bejelentés kivizsgálására. A kivizsgálás eredményétől függően dönt az etikai eljárás megindításáról. Nem kell az eljárást megindítani, ha a bejelentés nyilvánvalóan megalapozatlan vagy az a kormánytisztviselő munkájának ellehetetlenítésére irányul.
 
 (15) Az etikai vétséget elkövető MKK taggal szemben kiszabható büntetés a figyelmeztetés vagy a megrovás. Ha az etikai eljárás során fegyelmi vétség elkövetésének gyanúja merül fel, az eljáró szerv erről köteles értesíteni az eljárás alá vont kormánytisztviselő munkáltatóját.
 
-(16) Etikai vétséget követ el az, aki az e törvény 83. §-a, a Kormánytisztviselői Hivatásetikai Kódex, valamint az Alapszabály és az Etikai Eljárási Szabályzat rendelkezéseit megszegi. Az etikai eljárásról e törvény, valamint az Etikai Eljárási Szabályzat rendelkezik.
+(16) Etikai vétséget követ el az, aki a 83. § és a 83/A. § (1) bekezdésének, a Kormánytisztviselői Hivatásetikai Kódex, valamint az Alapszabály rendelkezéseit megszegi. Az etikai eljárásról e törvény, valamint a Kormánytisztviselői Hivatásetikai Kódex rendelkezik.
 
 Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottságok megválasztása

@@ -14,12 +14,18 @@ d) ha a munkakör megváltoztatása indokolja a kinevezés módosítását, vala
 
 e) az e törvényben meghatározott esetekben.
 
-(3) A (2) bekezdés c) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a kormánytisztviselő belegyezése nélkül, ha az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a két órát, illetve tíz éven aluli gyermeket nevelő kormánytisztviselő esetében a másfél órát nem haladja meg.
+(3) A (2) bekezdés c) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a kormánytisztviselő belegyezése nélkül, ha az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a három órát, tíz éven aluli gyermeket nevelő kormánytisztviselő esetében a két órát nem haladja meg.
 
 (4) A (2) bekezdés d) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a kormánytisztviselő belegyezése nélkül, ha az új munkakör megfelel a kormánytisztviselő iskolai végzettségének, szakképzettségének vagy szakképesítésének, szakmai tapasztalatának.
 
-(5) A (2) bekezdés c)–d) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a kormánytisztviselő belegyezése nélkül, ha a kormánytisztviselőre nézve – különösen beosztására, besorolására, egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem jár.
+(5) A (2) bekezdés c)–d) pontjában meghatározott okból a kinevezést abban az esetben módosíthatja a munkáltató a kormánytisztviselő belegyezése nélkül, ha a kormánytisztviselőre nézve – különösen egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem jár.
 
 (6) A vezetőre az (5) bekezdés nem alkalmazandó.
 
-(7) A kormánytisztviselőt a (2) bekezdés c)–d) pontjában meghatározott okból történő kinevezés-módosítástól számított öt munkanapon belül írásban benyújtott kérelmére a 63. § (2) bekezdés d) pontja alapján – a nyilatkozattétel időpontjától kezdődően – fel kell menteni. A kormánytisztviselő felmentése esetén a kinevezés-módosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó illetmény, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
+(7) A kormánytisztviselőt a (2) bekezdés d) pontjában meghatározott okból történő kinevezés-módosítás közlésétől számított négy munkanapon belül írásban benyújtott kérelmére a 63. § (2) bekezdés d) pontja alapján – a nyilatkozattétel időpontjával kezdődően – fel kell menteni, ha
+
+a) az új munkaköre szerinti illetmény összege nem éri el a korábbi illetménye 80%-át, illetve
+
+b) vezetői munkakörből nem vezetői munkakörbe történő helyezésre kerül sor.
+
+(8) A kormánytisztviselő (7) bekezdés szerinti felmentése esetén a kinevezés-módosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó illetmény, a végkielégítés, valamint az egyéb kifizetések összegének meghatározásakor.

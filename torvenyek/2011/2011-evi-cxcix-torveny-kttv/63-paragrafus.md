@@ -18,11 +18,25 @@ b) a kormánytisztviselő munkavégzése nem megfelelő;
 
 c) a kormánytisztviselő egészségügyi okból feladatai ellátására alkalmatlan;
 
-d) az 48. § (2) bekezdés c) és d) pontjában meghatározott kinevezés-módosítás esetén a kormánytisztviselő azt kérelmezi;
+d) az 48. § (2) bekezdés d) pontjában, valamint az 58. § (6) bekezdésében meghatározott kinevezés-módosítás esetén a kormánytisztviselő azt kérelmezi;
 
 e) a kormánytisztviselő vezetőjének bizalmát elveszti;
 
-f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi.
+f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi;
+
+g) a foglalkoztatást kizáró ok jut a munkáltató tudomására;
+
+h) azt a kormánytisztviselő a 64/A. § (2) bekezdése vagy a 155/A. § (2) bekezdése alapján kéri.
+
+(2a) A (2) bekezdés g) pontja alapján az államigazgatási szerv a kormányzati szolgálati jogviszonyt – a (2b) bekezdésben foglalt kivétellel – azonnali hatállyal megszünteti.
+
+(2b) A (2) bekezdés g) pontja alapján az államigazgatási szerv a kormányzati szolgálati jogviszonyt a 25. § (1) bekezdése alapján azonnali hatállyal megszünteti és az érvénytelenség jogkövetkezményeit alkalmazza,
+
+a) ha a kormánytisztviselő a 42. § (4) bekezdésében foglalt kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget és nem bizonyítja, hogy a kötelezettség elmulasztása menthető okból történt, vagy
+
+b) ha a foglalkoztatást kizáró és a 42. § (1)–(3) bekezdése alapján vizsgálandó követelményeknek való megfelelést a kormánytisztviselő a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni vagy a foglalkoztatást kizáró ok egyéb módon a munkáltatói jogkör gyakorlójának a tudomására jut.
+
+(2c) A kormányzati szolgálati jogviszonynak a (2a) bekezdésben meghatározott okból történő megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
 (3) A munkáltató a felmentést köteles megindokolni. Az indokolásból a felmentés okának világosan ki kell tűnnie és a munkáltatónak kell bizonyítania, hogy a felmentés indoka valós és okszerű.
 

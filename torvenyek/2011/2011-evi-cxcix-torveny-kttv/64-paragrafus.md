@@ -1,4 +1,4 @@
-64. § (1) Hivatalára az a kormánytisztviselő méltatlan, aki olyan magatartást tanúsít – akár a hivatali munkájával (munkavégzésével) összefüggésben, akár munkahelyén kívül –, amely alkalmas arra, hogy az általa betöltött beosztás tekintélyét vagy a munkáltató jó hírnevét, illetve a jó közigazgatásba vetett társadalmi bizalmat súlyosan rombolja, és emiatt nem várható el, hogy a munkáltató a jogviszonyt fenntartsa.
+64. § (1) Hivatalára az a kormánytisztviselő méltatlan, aki olyan magatartást tanúsít – akár a hivatali munkájával (munkavégzésével), akár a kormánytisztviselői jogviszonyából adódó kötelezettség megszegésével összefüggésben, akár munkahelyén kívül –, amely alkalmas arra, hogy az általa betöltött beosztás tekintélyét vagy a munkáltató jó hírnevét, illetve a jó közigazgatásba vetett bizalmat súlyosan rombolja, és emiatt nem várható el, hogy a munkáltató a jogviszonyt fenntartsa.
 
 (2) A méltatlanság címén való felmentés közlése előtt lehetőséget kell adni a kormánytisztviselőnek a felmentés indokainak megismerésére és az azokkal szembeni védekezésre, kivéve, ha az eset összes körülményeiből következően ez a munkáltatótól nem várható el.
 

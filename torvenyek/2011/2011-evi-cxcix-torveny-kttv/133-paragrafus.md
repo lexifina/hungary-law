@@ -10,12 +10,12 @@ a) költségvetési fejezetet irányító szervnél – ideértve a társadalomb
 
 b) egyéb esetben – törvény eltérő rendelkezésének hiányában – a szerv vezetője.
 
-(5) A (3) és (4) bekezdést azzal az eltéréssel kell alkalmazni a minisztériumok esetében, hogy az eltérítés maximum mértéke 30% lehet.
+(5) A (3) és (4) bekezdést azzal az eltéréssel kell alkalmazni a 134. § (1) bekezdésében felsorolt szervek esetében, hogy az eltérítés maximum mértéke 30% lehet.
 
 (6) A (3) bekezdés szerint megállapított alapilletmény-eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő vezetői kinevezést kap, vagy azt tőle visszavonják, kormány-főtanácsadói, kormánytanácsadói, miniszteri főtanácsadói, miniszteri tanácsadói munkakörbe helyezik, vagy e munkakörét módosítják, illetve címadományozásra, vagy annak visszavonására, vagy a 119. § szerinti átsorolásra vagy tartós külszolgálatra történő kirendelésre kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint e törvény alapján az eltérítés nélkül meghatározott összeg.
 
 (7) A kormánytisztviselő év közben történő végleges áthelyezése esetén – eltérő megállapodás hiányában – a korábbi munkáltató által megállapított eltérítés mértékére jogosult az áthelyezést kérő szervnél is.
 
-(8) A fővárosi és megyei kormányhivatal esetében a (3) bekezdést azzal az eltéréssel kell alkalmazni, hogy a szakigazgatási szerv kormánytisztviselője tekintetében az alapilletmény-eltérítésre a szakigazgatási szerv vezetője tesz javaslatot. A szakigazgatási szerv vezetőjének javaslata alapján az alapilletmény-eltérítésről a kormánymegbízott dönt.
+(8) A fővárosi és megyei kormányhivatal esetében a (3) bekezdést azzal az eltéréssel kell alkalmazni, hogy a járási (fővárosi kerületi) hivatal kormánytisztviselője tekintetében az alapilletmény-eltérítésre a járási (fővárosi kerületi) hivatal vezetője tesz javaslatot. A járási (fővárosi kerületi) hivatal vezetőjének javaslata alapján az alapilletmény-eltérítésről a kormánymegbízott dönt.
 
 (9) Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő illetményét újra meg kell állapítani.

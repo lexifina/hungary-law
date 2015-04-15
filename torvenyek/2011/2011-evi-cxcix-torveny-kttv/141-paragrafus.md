@@ -22,7 +22,7 @@ c) komplex alapfokú (B1) nyelvvizsga esetében az illetményalap 15%-a.
 
 (7) Ha a kormánytisztviselő a (6) bekezdésben meghatározott idegen nyelvekből szóbeli vagy írásbeli nyelvvizsgával rendelkezik, az (5) bekezdésben foglalt komplex nyelvvizsgára meghatározott mérték szerint jogosult a nyelvpótlékra.
 
-(8) Ha a kormánytisztviselő ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú, illetve különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult.
+(8) Ha a kormánytisztviselő ugyanazon idegen nyelvből azonos típusú, de különböző fokozatú nyelvvizsgával rendelkezik, a magasabb mértékű pótlékra jogosult. Ha ugyanazon idegen nyelvből különböző típusú és különböző fokozatú nyelvvizsgával rendelkezik, alap- és középfok esetén az illetményalap 20%-ának, közép- és felsőfok esetén az illetményalap 40%-ának megfelelő mértékű pótlékra jogosult.
 
 (9) Ha az államigazgatási szerv – kivéve a felsőfokú szaknyelvi vizsgát – tanulmányi szerződés alapján pénzügyi támogatást nyújt a nyelvvizsga megszerzéséhez, a kormánytisztviselő a (6) bekezdésben meghatározott idegennyelv-tudási pótlékra mindaddig nem jogosult, amíg a havonta fizetendő pótlék együttes összege nem éri el a tanulmányi szerződés alapján kifizetett pénzügyi támogatás mértékét.
 

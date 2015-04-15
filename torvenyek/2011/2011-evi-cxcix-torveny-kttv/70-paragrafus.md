@@ -12,7 +12,9 @@ d) a beteg gyermek ápolása címén fennálló keresőképtelenség,
 
 e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés, valamint
 
-f) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap
+f) a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelésének, de legfeljebb ennek megkezdésétől számított hat hónap,
+
+g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság
 
 időtartama alatt.
 

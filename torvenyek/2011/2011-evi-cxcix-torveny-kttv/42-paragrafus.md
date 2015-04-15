@@ -1,4 +1,4 @@
-42. § (1) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
+42. § (1) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, továbbá nem áll a 39. § (1) bekezdése szerinti büntetőeljárás hatálya alatt.
 
 (1a) Az, aki a 39. § (1a) bekezdése szerinti államigazgatási szervnél kíván kormányzati szolgálati jogviszonyt létesíteni, az (1) bekezdésben foglaltakon túl azt is igazolja, hogy a 39. § (1b) és (1c) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben.
 
@@ -18,7 +18,7 @@ d) az a) pontban foglaltakon túlmenően, a 39. § (1a) bekezdése szerinti áll
 
 (5) Ha a kormánytisztviselő igazolja, hogy
 
-a) büntetlen előéletű, illetve
+a) büntetlen előéletű és nem áll a 39. § (1) bekezdése szerinti büntetőeljárás hatálya alatt,
 
 b) nem áll a (4) bekezdés b) pontjában meghatározott foglalkozástól eltiltás hatálya alatt, továbbá
 
@@ -28,7 +28,7 @@ az államigazgatási szerv a bűnügyi nyilvántartó szerv által az igazolás 
 
 (5a) Ha a 39. § (1a) bekezdése szerinti államigazgatási szervnél foglalkoztatott kormányzati szolgálati jogviszonyban álló személy igazolja, hogy
 
-a) büntetlen előéletű,
+a) büntetlen előéletű és nem áll a 39. § (1) bekezdése szerinti büntetőeljárás hatálya alatt,
 
 b) nem áll a (4) bekezdés b) pontjában meghatározott foglalkozástól eltiltás hatálya alatt, és
 
@@ -46,10 +46,4 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (7) Az (1)–(5a) bekezdésben foglaltak alapján megismert személyes adatokat az államigazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a kormányzati szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
-(8) Az államigazgatási szerv a kormányzati szolgálati jogviszonyt a 25. § (1) bekezdése alapján azonnali hatállyal megszünteti, és az érvénytelenség jogkövetkezményeit alkalmazza,
-
-a) ha a kormánytisztviselő a (4) bekezdésben foglalt kötelezettségének ismételt szabályszerű felhívásra sem tesz eleget, és nem bizonyítja, hogy a kötelezettség elmulasztása menthető ok következménye,
-
-b) ha a foglalkoztatást kizáró és az (1)–(3) bekezdés alapján vizsgálandó követelményeknek való megfelelést a kormánytisztviselő a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal nem tudja igazolni, vagy a foglalkoztatást kizáró ok egyéb módon a munkáltatói jogkör gyakorlójának a tudomására jut.
-
-(9) A kormányzati szolgálati jogviszonynak a (8) bekezdésben meghatározott okból történő megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
+(8)–(9)

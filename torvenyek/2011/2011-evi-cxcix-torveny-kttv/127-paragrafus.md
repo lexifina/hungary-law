@@ -5,3 +5,5 @@
 (3) A szakmai tanácsadó, illetve szakmai főtanácsadó az államigazgatási szervre vonatkozó szabályok szerint vezetői pótlék nélkül számított főosztályvezető-helyettesi, illetve főosztályvezetői illetményre jogosult. A szakmai tanácsadói, szakmai főtanácsadói címmel és vezetői kinevezéssel rendelkező kormánytisztviselő a vezetői illetményre jogosult, ha az magasabb, mint a címe alapján számított illetménye.
 
 (4) A szakmai (fő)tanácsadói címet legalacsonyabb fokozatú minősítés esetén vissza kell vonni, ebben az esetben a kormánytisztviselő a címmel járó illetmény helyett a besorolás szerinti illetményére jogosult.
+
+(5) A hivatali szervezet vezetője visszavonhatja a szakmai tanácsadói, főtanácsadói címet, ha a kormánytisztviselő két egymást követő minősítés alkalmával a korábbinál alacsonyabb teljesítményszintet ér el.

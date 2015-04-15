@@ -4,7 +4,7 @@
 
 (2) A községi önkormányzat képviselő-testülete – ha jogszabály másként nem rendelkezik – a 84. § (1) bekezdésben foglalt tilalom alól – különösen indokolt esetben – felmentést adhat.
 
-(3) Polgármesteri hivatal vagy közös önkormányzati hivatal köztisztviselője nem lehet helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja.
+(3) Polgármesteri hivatal vagy közös önkormányzati hivatal köztisztviselője nem lehet az őt foglalkoztató helyi önkormányzatnál helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja.
 
 (4) Az illetékes helyi önkormányzat polgármesteri hivatalának vagy közös önkormányzati hivatalának köztisztviselője nem lehet
 

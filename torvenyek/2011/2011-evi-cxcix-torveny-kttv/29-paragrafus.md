@@ -10,7 +10,7 @@
 
 (6) Az MKK
 
-a) ellátja a kormánytisztviselői hivatás gyakorlásával összefüggő ügyekben az érdekképviseletet;
+a) ellátja a kormánytisztviselői hivatás gyakorlásával összefüggő ügyekben az általános érdekképviseletet;
 
 b) védi a Kormánytisztviselői Kar tekintélyét, testületeinek és tagjainak érdekeit, valamint a kormánytisztviselő jogait;
 
