@@ -6,4 +6,6 @@
 
 10. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 9/2014. (XII. 10.) MvM rendelet.
+(2)[^1]
+
+[^1]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
