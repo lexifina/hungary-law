@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-85-00-00
 | 2014-04-01 | 2014. évi XVI. törvény | 2011-85-00-00.13 |
 | 2014-07-01 | 2013. évi CC. törvény | 2011-85-00-00.14 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2011-85-00-00.15 |
+| 2015-04-15 | 2015. évi XXXVIII. törvény | 2011-85-00-00.16 |

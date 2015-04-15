@@ -118,7 +118,7 @@ ideértve a tulajdonjog más termék tartozékaként vagy alkotórészeként val
 
 18. ipari termékdíj raktár: az e törvény alapján, az állami adóhatóság engedélyével üzemeltett belföldi ingatlan, ahol az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint a termékdíjköteles termék előállítható, feldolgozható, újbóli felhasználásra előkészíthető és készletezhető;
 
-18a. irodai papír: információ hordozására alkalmas író, nyomtató vagy fénymásoló papír, amely további megmunkálás nélkül alkalmas írásra, nyomtatásra vagy fénymásolásra;
+18a. irodai papír: információ hordozására alkalmas író, nyomtató vagy fénymásoló papír, amely további megmunkálás nélkül alkalmas írásra, nyomtatásra vagy fénymásolásra, továbbá az iratok, dokumentumok, folyóiratok vagy hasonló termékek tartására, rendezésére szolgáló, papírból készült iratrendező, dosszié, iratborító, levélrendező és irattartó mappa;
 
 19. kereskedelmi csomagolás: a vám- és statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, a Tanács 1987. július 23-i 2658/87/EGK tanácsi rendelete 2010. január 1-jén hatályos I. melléklete szerinti
 
