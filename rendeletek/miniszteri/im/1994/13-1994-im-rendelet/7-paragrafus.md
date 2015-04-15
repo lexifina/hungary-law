@@ -1,4 +1,4 @@
-## 6. §[^4]
+## 6. §[^5]
 
 ## A törvényszékkel munkaviszonyban álló, a végrehajtásban közreműködött gépkocsivezetőt — ha a munkateljesítménye a törvényszék elnöke szerint ezt indokolja — havi 1000 Ft közreműködési juttatás illeti meg.
 
@@ -14,4 +14,4 @@ b) a bíróság a vagyontárgyak lefoglalását megelőzően részletfizetést e
 
 c) a követelést bírósági letétben levő összegből elégítették ki.
 
-[^4]: A 6. § a 40/2011. (XII. 30.) KIM rendelet 8. § d) pontja szerint módosított szöveg.
+[^5]: A 6. § a 40/2011. (XII. 30.) KIM rendelet 8. § d) pontja szerint módosított szöveg.

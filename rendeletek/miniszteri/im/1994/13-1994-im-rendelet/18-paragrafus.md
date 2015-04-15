@@ -1,3 +1,3 @@
-18. §[^12]
+18. §[^13]
 
-[^12]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 169. pontja hatályon kívül helyezte.
+[^13]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 169. pontja hatályon kívül helyezte.
