@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2014-07-24 | 2014. évi XXXVI. törvény | 1992-33-00-00.93 |
 | 2014-12-12 | 2014. évi LXXXV. törvény | 1992-33-00-00.94 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 1992-33-00-00.95 |
+| 2015-04-15 | 2015. évi XXXII. törvény | 1992-33-00-00.96 |
