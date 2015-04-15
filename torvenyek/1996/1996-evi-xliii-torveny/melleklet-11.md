@@ -39,33 +39,3 @@ II.
 11. rendészeti vezetővé képző tanfolyam, rendészeti mestervezetővé képző tanfolyam és rendészeti vezetői továbbképző tanfolyam elvégzésének időpontja, oklevél száma
 
 III.*
-
-1. a jelenlegi munkáltató megnevezése, tevékenységi területe
-
-2. a korábbi közigazgatási jellegű munkáltató vagy korábbi fegyveres szerv munkáltató megnevezése, tevékenységi területe, valamint az ott jogviszonyban töltött időtartamok
-
-3. szakmai tapasztalat
-
-4. beosztás
-
-5. besorolás
-
-6. feladatkör/munkakör megnevezése, célja
-
-7. feladatkörhöz/munkakörhöz tartozó főbb feladatok
-
-8. a megszűnés módja
-
-IV.
-
-1. az alkalmazó fegyveres vagy közigazgatási szerv neve és címe
-
-2. a tartalékállományba helyezés időpontja
-
-3. a tartalékállományba helyezés időtartama
-
-4. a közszolgálati tisztviselőkről szóló törvény szerinti kompetencia-vizsgálat adatai
-
-V.
-
-1. hivatásos szolgálati viszonyának időtartama

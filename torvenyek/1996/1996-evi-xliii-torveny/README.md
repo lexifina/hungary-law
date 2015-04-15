@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-43-00-00
 | 2014-06-06 | 2014. évi XXI. törvény | 1996-43-00-00.85 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 1996-43-00-00.86 |
 | 2015-02-01 | 2014. évi CIX. törvény | 1996-43-00-00.87 |
+| 2015-04-15 | 2015. évi XXXII. törvény | 1996-43-00-00.88 |
