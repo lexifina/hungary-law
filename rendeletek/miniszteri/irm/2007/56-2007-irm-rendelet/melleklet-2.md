@@ -1,4 +1,4 @@
-| NYOMTATVÁNY Jogi segítségnyújtás engedélyezése iránti kérelemhez | A fővárosi, megyei igazságügyi szolgálat érkeztető bélyegzője |
+| NYOMTATVÁNY Jogi segítségnyújtás engedélyezése iránti kérelemhez | A fővárosi és megyei, kormányhivatal érkeztető bélyegzője |
 
 | A) SZEMÉLYI ADATOK, JÖVEDELMI, VAGYONI HELYZET I. A kérelmező személyi adatai |
 
@@ -16,25 +16,25 @@
 
 | 8. Állampolgársága: | 9. Családi állapota: |
 
-| 10. Jogi szakvizsgával | _ rendelkezik | _ nem rendelkezik |
+| 10. Jogi szakvizsgával _ rendelkezik _ nem rendelkezik |
 
 | 11. Vállalkozási tevékenységet folytat | _ társas vállalkozás tagjaként _ egyéni vállalkozóként _ mezőgazdasági őstermelőként _ mezőgazdasági őstermelőként és a kérelem előterjesztését megelőző naptári évben adóbevallásra és egyszerűsített adóbevallási nyilatkozatra nem volt köteles |
 
-| 12. Ha a kérelmező e pontban foglalt valamely ellátásra jogosult, ezt igazolnia kell és a nyomtatvány A) részének további rovatait nem kell kitöltenie! | – aktív korúak ellátására jogosult, vagy aktív korúak ellátására jogosult, a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény szerinti közeli hozzátartozójával él közös háztartásban – közgyógyellátásban részesül vagy egészségügyi szolgáltatásra való jogosultságát állapították meg – átmeneti szállást igénybevevő hajléktalan személy – menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő személy, és a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapján a számára biztosított ellátásra és támogatásra jogosult – vízum kiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy – családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították – a 4/2009/EK tanácsi rendelet 56. cikke szerinti eljárás lefolytatásához a 46. cikkben meghatározott jogosultként jogi segítséget kérő személy (21 év alatti gyermek tartására vonatkozó, határon átnyúló ügy) – kiemelkedően közhasznú szervezet vagy munkavállalói érdek-képviseleti szervezet, ha közérdekből, külön jogszabály felhatalmazása alapján indít pert |
+| 12. Ha a kérelmező e pontban foglalt valamely ellátásra jogosult, ezt igazolnia kell és a nyomtatvány A) részének további rovatait nem kell kitöltenie! | – aktív korúak ellátására jogosult, vagy aktív korúak ellátására jogosult, a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény szerinti közeli hozzátartozójával él közös háztartásban – közgyógyellátásban részesül vagy egészségügyi szolgáltatásra való jogosultságát állapították meg – átmeneti szállást igénybevevő hajléktalan személy – menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő személy, és a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapjána számára biztosított ellátásra és támogatásra jogosult – vízum kiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy – családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították – a 4/2009/EK tanácsi rendelet 56. cikke szerinti eljárás lefolytatásához a 46. cikkben meghatározott jogosultként jogi segítséget kérő személy (21 év alatti gyermek tartására vonatkozó, határon átnyúló ügy) – kiemelkedően közhasznú szervezet vagy munkavállalói érdek-képviseleti szervezet, ha közérdekből, külön jogszabály felhatalmazása alapján indít pert |
 
-| II. A kérelmező jövedelme [Aki az A) I. 12. pontja, C) I. 7., valamint a 8.1–8.11. pontjai alapján kéri a támogatást, továbbá ha kiskorú sértett vagy kiskorú magánfél kéri a D) rész szerinti támogatást, vagyoni, jövedelmi viszonyait nem kell igazolnia és a nyomtatvány A) részének II–V. rovatait nem kell kitöltenie] |
+| II. A kérelmező jövedelme [Aki az A) I.12. pontja, C) I.7., valamint a 8.1-8.11. pontjai alapján kéri a támogatást, továbbá ha kiskorú sértett vagy kiskorú magánfél kéri a D) rész szerinti támogatást, vagyoni, jövedelmi viszonyait nem kell igazolnia és a nyomtatvány A) részének II-V. rovatait nem kell kitöltenie] |
 
 | 1.1. A munkáltató (járandóságot folyósító szerv) neve: |
 
 | 1.2. A munkáltató címe: |
 
-| 1.3. Havi nettó jövedelem: | 1.4. A munkáltató aláírása, bélyegzőlenyomata, dátum: |
+| 1.3. Havi nettójövedelem: | 1.4. A munkáltató aláírása, bélyegzőlenyomata, dátum: |
 
 | 2.1. A munkáltató (járandóságot folyósító szerv) neve: |
 
 | 2.2. A munkáltató címe: |
 
-| 2.3. Havi nettó jövedelem: | 2.4. A munkáltató aláírása, bélyegzőlenyomata, dátum: |
+| 2.3. Havi nettójövedelem: | 2.4. A munkáltató aláírása, bélyegzőlenyomata, dátum: |
 
 | 3. A kérelmező összes havi nettó jövedelme: |
 
@@ -88,19 +88,19 @@
 
 | 4.6. A munkáltató aláírása, bélyegzőlenyomata, dátum: | 4.7. Egyéb hozzátartozó aláírása: |
 
-| IV. A kérelmezőnek a támogatás engedélyezésénél figyelembe vehető jövedelme (A 2. pont kivételével a fővárosi, megyei igazságügyi szolgálat tölti ki) |
+| IV. A kérelmezőnek a támogatás engedélyezésénél figyelembe vehető jövedelme (A 2. pont kivételével a fővárosi és megyei kormányhivatal tölti ki) |
 
-| 1. A kérelmező és a vele közös háztartásban élő személyek havi összes nettó jövedelme: |
+| 1. A kérelmező és a vele közös háztartásban élő személyek havi összes nettó jövedelme: |  |
 
-| 2. Havi összes nettó jövedelemből levonható összegek | 2.1. | Havonta fizetett tartásdíj vagy járadék összege: |
+| 2. Havi összes nettó jövedelemből | 2.1. | Havonta fizetett tartásdíj vagy járadék összege: |
 
-| A tartásra jogosult neve: |
+| levonható |  | A tartásra jogosult neve: |
 
-| A tartásdíj fizetését elrendelő hatóság neve és a határozat száma: |
+| összegek |  | A tartásdíj fizetését elrendelő hatóság neve és a határozat száma: |
 
-| 2.2. | A lakáshitel havi törlesztő részletének összege: |
+|  | 2.2. | A lakáshitel havi törlesztő részletének összege: |
 
-| A lakáshitelt folyósító hitelintézet neve, címe: |
+|  |  | A lakáshitelt folyósító hitelintézet neve, címe: |
 
 | 3. Levonások után fennmaradó összeg: |
 
@@ -112,39 +112,39 @@
 
 | 1. Ingatlantulajdona | 1.1. Lakhatását szolgáló ingatlanának adatai (cím vagy helyrajzi szám, tulajdoni hányad, alapterület, terhek): |
 
-| 1.2. Egyéb ingatlanának adatai (cím, helyrajzi szám, művelési ág, tulajdoni hányad, alapterület, terhek, becsült forgalmi érték): |
+|  | 1.2. Egyéb ingatlanának adatai (cím, helyrajzi szám, művelési ág, tulajdoni hányad, alapterület, terhek, becsült forgalmi érték): |
 
 | 2. Gépjárműve | 2.1. Típusa, rendszáma, évjárata, becsült forgalmi értéke: |
 
-| 2.2. Típusa, rendszáma, évjárata, becsült forgalmi értéke: |
+|  | 2.2. Típusa, rendszáma, évjárata, becsült forgalmi értéke: |
 
 | 3. Egyéb vagyona (értékpapír, ingó vagyontárgy, követelés, vagyoni értékű jog, százharmincezer forintot meghaladó összegű készpénz, pénzügyi intézménnyel szemben fennálló követelés) és a vagyon értéke: |  |
 
 | B) PEREN KÍVÜLI JOGI SEGÍTSÉGNYÚJTÁS IGÉNYLÉSE I. Tájékoztatás, tanácsadás |
 
-| _ jogvitával összefüggésben _ közigazgatási (önkormányzati) eljárással kapcsolatban _ jogszabályi rendelkezésről _ peren kívüli közvetítéssel összefüggésben _ bűncselekmény sértettjének | A jogvita (ügy, bűncselekmény) rövid leírása, a közigazgatási eljárás tárgya: |
+| _ jogvitával összefüggésben – közigazgatási (önkormá nyzati) eljárással kapcsolatban _ jogszabályi rendelkezésről _ peren kívüli közvetítéssel összefüggésben _ bűncselekmény sértettjének | A jogvita (ügy, bűncselekmény) rövid leírása, a közigazgatási eljárás tárgya: |
 
 | Milyen kérdésben kér tanácsadást: |
 
 | II. Okiratkészítés |
 
-| 1. Keresetlevél, nem peres eljárás kezdeményezése iránti kérelem | A jogvita, vitás ügy rövid leírása: |
+| 1. Keresetlevél, nem peres eljárás | A jogvita, vitás ügy rövid leírása: |
 
-| Ellenérdekű fél: |
+| kezdeményezése iránti kérelem | Ellenérdekű fél: |
 
-| 2. Felülvizsgálati, perújítási kérelem | A per (nemperes eljárás) tárgya: |
+| 2. Felülvizsgálati, perújítási | A per (nemperes eljárás) tárgya: |
 
-| A pert lefolytató bíróság, a jogerős határozat száma: |
+| kérelem | A pert lefolytató bíróság, a jogerős határozat száma: |
 
-| Peres felek, eljárásban részt vevő személyek: |
+|  | Peres felek, eljárásban részt vevő személyek: |
 
-| 3. Beadvány közigazgatási ügyben | Az eljárás tárgya (ha még nem indult meg, az eljárás megindításának szükségessége): |
+| 3. Beadvány közigazgatási | Az eljárás tárgya (ha még nem indult meg, az eljárás megindításának szükségessége): |
 
-| Az eljárást lefolytató hatóság, és az ügy száma (ha az eljárás már folyamatban van): |
+| ügyben | Az eljárást lefolytató hatóság, és az ügy száma (ha az eljárás már folyamatban van): |
 
-| Az eljárásban részt vevő felek: |
+|  | Az eljárásban részt vevő felek: |
 
-| Beadvány tárgya: |
+|  | Beadvány tárgya: |
 
 | 4. Feljelentés megtétele | A bűncselekmény leírása: |
 
@@ -160,45 +160,45 @@
 
 | 2. A per ügyszáma: | _ A per még nem indult meg |
 
-| 4. Az ügyben korábban kapott-e támogatást | _ igen, _ nem |
+| 3. Az ügyben korábban kapott-e támogatást | _ igen, _ nem |  |
 
-| 5. A kérelmező _ felperes (kérelmező) _ alperes (kérelmezett) _ beavatkozó, perbehívott _ végrehajtást kérő _ a végrehajtást kérő, ha a megelőző perben pártfogó ügyvéddel rendelkezett |
+| 4. A kérelmező _ felperes (kérelmező) _ alperes (kérelmezett) _ beavatkozó, perbehívott _ végrehajtást kérő _ a végrehajtást kérő, ha a megelőző perben pártfogó ügyvéddel rendelkezett |
 
-| 6. Ellenfél neve, címe: |  |
+| 5. Ellenfél neve, címe: |  |
 
-| 7. A bíróság a perben a pártfogó ügyvédi képviselet költségeire is kiterjedő költségmentességet engedélyezett _ |
+| 6. A bíróság a perben a pártfogó ügyvédi képviselet költségeire is kiterjedő költségmentességet engedélyezett _ |
 
-| 8. A per tárgya (ha még nem indult meg, az érvényesítendő igény) | tárgyi költségmentesség alá tartozó perek |
+| 7. A per tárgya | tárgyi költségmentesség alá tartozó perek |
 
-| 8.1. a nyugellátás, hozzátartozói nyugellátás iránti igények érvényesítésével kapcsolatos per |
+| (ha még nem indult meg, az érvényesítendő igény) | 7.1. a nyugellátás, hozzátartozói nyugellátás iránti igények érvényesítésével kapcsolatos per |
 
-| 8.2. az egészségbiztosítási igények érvényesítésével kapcsolatos per |
+|  | 7.2. az egészségbiztosítási igények érvényesítésével kapcsolatos per |
 
-| 8.3. a gondnokság alá helyezés iránti, és a gondnoksággal kapcsolatos egyéb per |
+|  | 7.3. a gondnokság alá helyezés iránti, és a gondnoksággal kapcsolatos egyéb per |
 
-| 8.4. a 4/2009/EK tanácsi rendelet 56. cikke szerinti eljárás 21 év alatti gyermek tartására vonatkozóan |
+|  | 7.4. a 4/2009/EK tanácsi rendelet 56. cikke szerinti eljárás 21 év alatti gyermek tartására vonatkozóan |
 
 |  | tárgyi költségfeljegyzési joggal érintett perek |
 
-|  | 8.5. az apasági és a származás megállapítása iránti egyéb per |
+|  | 7.5. az apasági és a származás megállapítása iránti egyéb per |
 
-|  | 8.6. a szülői felügyelet megszüntetése vagy visszaállítása iránti per |
+|  | 7.6. a szülői felügyelet megszüntetése vagy visszaállítása iránti per |
 
-|  | 8.7. gyermek elhelyezésével és átadásával, valamint a kapcsolattartással összefüggő per |
+|  | 7.7. gyermek elhelyezésével és átadásával, valamint a kapcsolattartással összefüggő per |
 
-|  | 8.8. a törvényen alapuló tartással kapcsolatos per, ideértve a tartásdíjnak a kötelezett járandóságait folyósító szervtől vagy más személytől való behajtása, a tartásdíj megszüntetése vagy összegének megváltoztatása, továbbá a tartásdíjra irányuló végrehajtás megszüntetése vagy korlátozása iránti per is |
+|  | 7.8. a törvényen alapuló tartással kapcsolatos per, ideértve a tartásdíjnak a kötelezett járandóságait folyósító szervtől vagy más személytől való behajtása, a tartásdíj megszüntetése vagy összegének megváltoztatása, továbbá a tartásdíjra irányuló végrehajtás megszüntetése vagy korlátozása iránti per is |
 
-|  | 8.9. a munkaviszonnyal, a közszolgálati és a közalkalmazotti jogviszonnyal, más szolgálati viszonnyal, valamint a szövetkezeti tagsági viszony alapján létrejött munkaviszony jellegű jogviszonnyal kapcsolatos per (a továbbiakban: munkaügyi per), kivéve azokat a munkaügyi pereket, amelyekben a feleket tárgyi illetékfeljegyzési jog illeti meg |
+|  | 7.9. a munkaviszonnyal, a közszolgálati és a közalkalmazotti jogviszonnyal, más szolgálati viszonnyal, valamint a szövetkezeti tagsági viszony alapján létrejött munkaviszony jellegű jogviszonnyal kapcsolatos per (a továbbiakban: munkaügyi per), kivéve azokat a munkaügyi pereket, amelyekben a feleket tárgyi illetékfeljegyzési jog illeti meg |
 
-|  | 8.10. a bányakár megtérítése iránti per |
+|  | 7.10. a bányakár megtérítése iránti per |
 
-|  | 8.11. bűncselekménnyel a személy életében, testi épségében vagy egészségében okozott kár megtérítése iránti igény érvényesítése |
+|  | 7.11. bűncselekménnyel a személy életében, testi épségében vagy egészségében okozott kár megtérítése iránti igény érvényesítése |
 
 |  | egyéb |
 
-|  | 8.12. Egyéb: |
+|  | 7.12. Egyéb: |
 
-| 9. Az eljárás melyik szakaszában kéri a támogatást: |
+| 8. Az eljárás melyik szakaszában kéri a támogatást: |
 
 | D) JOGI SEGÍTSÉGNYÚJTÁS IGÉNYLÉSE BÜNTETŐELJÁRÁSBAN |
 
@@ -216,9 +216,9 @@
 
 | 7. Az igényelt támogatás | _ pártfogó ügyvédi képviselet |
 
-| pótmagánvádló részére | _ személyes költségmentesség |
+|  | pótmagánvádló részére | _ személyes költségmentesség |
 
-| _ személyes költségmentesség és pártfogó ügyvédi képviselet |
+|  |  | _ személyes költségmentesség és pártfogó ügyvédi képviselet |
 
 | Mellékletek felsorolása |
 
@@ -240,8 +240,12 @@
 
 | Közlemény |
 
-| Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak. A jogi segítségnyújtó szolgálat által lefolytatott, a támogatás engedélyezése és a jogi segítői, pártfogó ügyvédi díj megállapítása iránti eljárásában felmentem a jogi segítőt, pártfogó ügyvédet a jogi szolgáltatás nyújtásával kapcsolatban fennálló titoktartási kötelezettsége alól. .........................................., ........... év ............................................ hó .......... nap. ...................................................... kérelmező aláírása |
+| Büntetőjogi felelősségem tudatában kijelentem, hogy az általam tett nyilatkozatok megfelelnek a valóságnak. A jogi segítségnyújtó szolgálat által lefolytatott, a támogatás engedélyezése és a jogi segítői, pártfogó ügyvédi díj megállapítása iránti eljárásában felmentem a jogi segítőt, pártfogó ügyvédet a jogi szolgáltatás nyújtásával kapcsolatban fennálló titoktartási kötelezettsége alól. |
+
+| .........................................., ......... év ...................................... hó ........ nap. |
+
+| .......................................................................... kérelmező aláírása |
 
 2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^125]
 
-[^125]: A 2. melléklet a 30/2010. (XII. 31.) KIM rendelet 26. §-ával megállapított szöveg.
+[^125]: A 2. melléklet a 8/2015. (IV. 14.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.

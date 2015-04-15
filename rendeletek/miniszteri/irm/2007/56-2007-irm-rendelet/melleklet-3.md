@@ -1,8 +1,12 @@
 | Átadandó a határozattal együtt a jogi segítőnek! |
 
-| IGAZOLÁS Peren kívüli jogi szolgáltatás nyújtásának teljesítéséről (Az 1. és 2. pontot a fővárosi, megyei igazságügyi szolgálat tölti ki) |
+| IGAZOLÁS |
 
-| 1. A támogatás engedélyezése ügyében eljárt fővárosi, megyei igazságügyi szolgálat |  |
+| Peren kívüli jogi szolgáltatás nyújtásának teljesítéséről |
+
+| (Az 1. és 2. pontot a fővárosi és megyei kormányhivatal tölti ki) |
+
+| 1. A támogatás engedélyezése ügyében eljárt fővárosi és megyei kormányhivatal |  |
 
 | 2. A támogatást jogerősen engedélyező határozat száma: |  |
 
@@ -10,9 +14,9 @@
 
 |  | címe: |
 
-| 4. A jogi segítő szervezet megbízásából a | neve: |
+| 4. A jogi segítő szervezet megbízásából a jogi szolgáltatást | neve: |
 
-| jogi szolgáltatást teljesítő ügyvéd | irodájának címe: |
+| teljesítő ügyvéd | irodájának címe: |
 
 | 5. A jogi szolgáltatás nyújtása elvállalásának napja: |
 
@@ -22,7 +26,9 @@
 
 | .........................................., ......... év ..................................... hó ........... nap |
 
-| .......................................... fél aláírása |
+| ......................... |
+
+| fél aláírása |
 
 | 8. A jogi segítő ÁFA fizetésére | □ köteles | □ nem köteles |
 
@@ -30,8 +36,10 @@
 
 | .........................................., ......... év ..................................... hó ........... nap |
 
-| ............................................................................ jogi segítő aláírása, bélyegzőjének lenyomata |
+| .................................................................... |
+
+| jogi segítő aláírása, bélyegzőjének lenyomata |
 
 3. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^126]
 
-[^126]: A 3. melléklet a 30/2010. (XII. 31.) KIM rendelet 26. §-ával megállapított szöveg.
+[^126]: A 3. melléklet a 8/2015. (IV. 14.) IM rendelet 12. § (3) bekezdésével megállapított szöveg.

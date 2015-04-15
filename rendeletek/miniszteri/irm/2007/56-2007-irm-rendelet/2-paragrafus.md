@@ -12,11 +12,11 @@
 
 5. per: polgári peres és nemperes eljárás;
 
-6.[^1] jogi segítségnyújtó szolgálat: a fővárosi, megyei igazságügyi szolgálat és a Közigazgatási és Igazságügyi Hivatal jogi segítségnyújtási feladatokat ellátó szervezeti egysége;
+6.[^1] jogi segítségnyújtó szolgálat: a jogi segítségnyújtási feladatkörében eljáró fővárosi és megyei kormányhivatal és az Igazságügyi Hivatal;
 
-7.[^2] központi hivatal: a Közigazgatási és Igazságügyi Hivatal;
+7.[^2] központi hivatal: az Igazságügyi Hivatal;
 
-8.[^3] területi hivatal: a fővárosi, megyei igazságügyi szolgálat;
+8.[^3] területi hivatal: a jogi segítségnyújtási feladatkörében eljáró fővárosi és megyei kormányhivatal;
 
 9.[^4] fél: a jogi segítségnyújtás engedélyezése érdekében a jogi segítségnyújtó szolgálatnál kérelmet előterjesztő személy vagy szervezet; ideértve azt a felet is, akinek a határon átnyúló tartási ügyében pártfogó ügyvéd kirendelése érdekében a központi hatóság keresi meg a jogi segítségnyújtó szolgálatot;
 
@@ -46,9 +46,9 @@
 
 22.[^9] idegenrendészeti hatóság: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése, vagy 43. § (2) bekezdése alapján kiutasító döntést hozó hatóság.
 
-[^1]: A 2. § 6. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított, a 43/2012. (IX. 18.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 7. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított, a 43/2012. (IX. 18.) KIM rendelet 8. § b) pontja szerint módosított szöveg.
-[^3]: A 2. § 8. pontja a 30/2010. (XII. 31.) KIM rendelet 24. §-ával megállapított szöveg.
+[^1]: A 2. § 6. pontja a 8/2015. (IV. 14.) IM rendelet 11. §-ával megállapított szöveg.
+[^2]: A 2. § 7. pontja a 8/2015. (IV. 14.) IM rendelet 11. §-ával megállapított szöveg.
+[^3]: A 2. § 8. pontja a 8/2015. (IV. 14.) IM rendelet 11. §-ával megállapított szöveg.
 [^4]: A 2. § 9. pontja a 26/2011. (VIII. 31.) KIM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 15. pontja a 48/2009. (IX. 28.) IRM rendelet 34. § (5) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 2. § 19. pontját a 48/2009. (IX. 28.) IRM rendelet 11. §-a iktatta be. E módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
