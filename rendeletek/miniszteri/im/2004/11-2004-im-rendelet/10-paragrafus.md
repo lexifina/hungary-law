@@ -1,4 +1,4 @@
-## 9. §[^15]
+## 9. §[^16]
 
 10. § (1) A támogatás utólagos engedélyezése mellett nyújtott jogi szolgáltatás (Jstv. 43–45. §) igénybevétele esetén a jogi segítő díjának megfizetése iránt az e §-ban foglalt eltérésekkel kell eljárni.
 
@@ -12,4 +12,4 @@
 
 (6) A jogi segítő a támogatást engedélyező jogerős határozat alapján küldi meg a díjról kiállított számlát a megyei hivatalnak; a további eljárásra a 7–9. §-ok rendelkezései irányadóak.
 
-[^15]: A 9. §-t a 22/2005. (XI. 8.) IM rendelet 30. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^16]: A 9. §-t a 22/2005. (XI. 8.) IM rendelet 30. § (3) bekezdésének c) pontja hatályon kívül helyezte.
