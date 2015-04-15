@@ -1,5 +1,5 @@
 ## 45–46. §
 
-## 32.[^54]
+## 32.[^55]
 
-[^54]: A 32. alcímet (47. §) a 10/2014. (XII. 12.) IM rendelet 3. § 6. pontja hatályon kívül helyezte.
+[^55]: A 32. alcímet (47. §) a 10/2014. (XII. 12.) IM rendelet 3. § 6. pontja hatályon kívül helyezte.

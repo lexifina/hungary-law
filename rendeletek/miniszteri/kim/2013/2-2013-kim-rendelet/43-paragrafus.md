@@ -1,5 +1,5 @@
 ## 39–42. §
 
-## 28.[^51]
+## 28.[^52]
 
-[^51]: A 28. alcímet (43. §) a 32/2013. (XII. 7.) KIM rendelet 4. §-a hatályon kívül helyezte.
+[^52]: A 28. alcímet (43. §) a 32/2013. (XII. 7.) KIM rendelet 4. §-a hatályon kívül helyezte.

@@ -16,6 +16,6 @@ f) a kötelezettségvállaló és a kedvezményezett képviseletében eljáró s
 
 (2) A jogi ellenjegyzés típusszerződés mintapéldányának ellenjegyzésével is teljesíthető.
 
-(3)[^13] A 27. §-ban, meghatározott költségvetési támogatás esetén a költségvetési támogatás felhasználásának és elszámolásának szabályait tartalmazó pénzügyi elszámolási szabályzat a támogatási szerződés mellékletét képezi.
+(3)[^14] A 27. §-ban, meghatározott költségvetési támogatás esetén a költségvetési támogatás felhasználásának és elszámolásának szabályait tartalmazó pénzügyi elszámolási szabályzat a támogatási szerződés mellékletét képezi.
 
-[^13]: A 13. § (3) bekezdése a 10/2014. (XII. 12.) IM rendelet 3. § 3. pontja szerint módosított szöveg.
+[^14]: A 13. § (3) bekezdése a 10/2014. (XII. 12.) IM rendelet 3. § 3. pontja szerint módosított szöveg.

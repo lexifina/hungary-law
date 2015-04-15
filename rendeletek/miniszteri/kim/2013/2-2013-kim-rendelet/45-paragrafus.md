@@ -1,5 +1,5 @@
 ## 44. §
 
-## 30–31.[^53]
+## 30–31.[^54]
 
-[^53]: A 30–31. alcímet (45–46. §) a 32/2013. (XII. 7.) KIM rendelet 4. §-a hatályon kívül helyezte.
+[^54]: A 30–31. alcímet (45–46. §) a 32/2013. (XII. 7.) KIM rendelet 4. §-a hatályon kívül helyezte.

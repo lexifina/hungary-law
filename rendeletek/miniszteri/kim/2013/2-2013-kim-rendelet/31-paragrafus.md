@@ -1,5 +1,5 @@
 ## 30. §
 
-## 19.[^44]
+## 19.[^45]
 
-[^44]: A 19. alcímet (31. §) a 10/2014. (XII. 12.) IM rendelet 3. § 6. pontja hatályon kívül helyezte.
+[^45]: A 19. alcímet (31. §) a 10/2014. (XII. 12.) IM rendelet 3. § 6. pontja hatályon kívül helyezte.

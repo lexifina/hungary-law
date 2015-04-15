@@ -2,15 +2,15 @@
 
 17. § (1) A kedvezményezett költségvetési támogatás rendeltetésszerű felhasználására vonatkozó beszámolójának
 
-a)[^16] pénzügyi elszámolás része a költségtervben szereplő tételek felhasználására vonatkozó összesítő kimutatást, és – az Ávr. 80. § (4) bekezdésében meghatározott esetben –
+a)[^17] pénzügyi elszámolás része a költségtervben szereplő tételek felhasználására vonatkozó összesítő kimutatást, és – az Ávr. 80. § (4) bekezdésében meghatározott esetben –
 
-aa)[^17] a költségvetési támogatás felhasználását igazoló számlák, számviteli bizonylatok eredeti példányának a (2) bekezdés szerint záradékolt és hitelesített másolatait a költségterv szerinti bontásban,
+aa)[^18] a költségvetési támogatás felhasználását igazoló számlák, számviteli bizonylatok eredeti példányának a (2) bekezdés szerint záradékolt és hitelesített másolatait a költségterv szerinti bontásban,
 
 ab) készpénzkifizetés esetén a készpénzkiadás tényét igazoló számviteli bizonylatot, átutalással teljesített kifizetés esetén a pénzforgalmi számla terheléséről szóló banki igazolást vagy olyan kivonatot, amelyen a kifizetett számla összegét meg kell jelölni,
 
 ac) bérköltség elszámolása esetén a kifizetés pontos jogcímének megjelölését és a bérfizetést megalapozó jogviszony-igazolásokat,
 
-b)[^18] szakmai része a támogatott tevékenység megvalósításának igazolása tekintetében legalább a támogatási szerződésben meghatározott támogatott cél (projekt) főbb naturális mutatószámait és a feladat vagy beruházás megvalósításának helyét és időpontjára való utalást
+b)[^19] szakmai része a támogatott tevékenység megvalósításának igazolása tekintetében legalább a támogatási szerződésben meghatározott támogatott cél (projekt) főbb naturális mutatószámait és a feladat vagy beruházás megvalósításának helyét és időpontjára való utalást
 
 ## foglalja magában.
 
@@ -18,6 +18,6 @@ b)[^18] szakmai része a támogatott tevékenység megvalósításának igazolá
 
 (3) A költségvetési támogatás alapjául szolgáló számlára, számviteli bizonylatra akkor is fel kell vezetni a (2) bekezdés szerinti szöveget, ha a számla, számviteli bizonylat másolatát a beszámolóhoz nem csatolták.
 
-[^16]: A 17. § (1) bekezdés a) pont nyitó szövegrésze a 9/2014. (II. 12.) KIM rendelet 12. § 3. pontja szerint módosított szöveg.
-[^17]: A 17. § (1) bekezdés a) pont aa) alpontja a 9/2014. (II. 12.) KIM rendelet 12. § 4. pontja szerint módosított szöveg.
-[^18]: A 17. § (1) bekezdés b) pontja a 10/2014. (XII. 12.) IM rendelet 3. § 4. pontja szerint módosított szöveg.
+[^17]: A 17. § (1) bekezdés a) pont nyitó szövegrésze a 9/2014. (II. 12.) KIM rendelet 12. § 3. pontja szerint módosított szöveg.
+[^18]: A 17. § (1) bekezdés a) pont aa) alpontja a 9/2014. (II. 12.) KIM rendelet 12. § 4. pontja szerint módosított szöveg.
+[^19]: A 17. § (1) bekezdés b) pontja a 10/2014. (XII. 12.) IM rendelet 3. § 4. pontja szerint módosított szöveg.
