@@ -1,0 +1,1 @@
+A Kormány a földgázellátásról szóló 2008. évi XL. törvény 132. § 3., 5., 12., 16., 18., 19., 20., 22., 25., 28., 29., 40. és 46. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
