@@ -34,7 +34,7 @@
 
 15. a jelentős piaci erőfölény megállapítása szempontjából releváns piacok területi meghatározására, valamint a piaci verseny hatékonyságának elemzésére, a nem kellően hatékony piacokon a jelentős piaci erővel rendelkező engedélyesek azonosítására és e törvényben, valamint a VET.-ben meghatározott kötelezettségek tartalmára, alkalmazási feltételeire vonatkozó részletes előírásokat,
 
-16. a napi földgáz és kapacitás kereskedelmi piac működési feltételeit, valamint az adás-vételi ügyletben résztvevők jogait és kötelezettségeit,
+16. a kereskedési platform, egyensúlyozó platform és a kapacitáslekötési platform működési feltételeit, valamint az adás-vételi ügyletben résztvevők jogait és kötelezettségeit,
 
 17. a szervezett földgázpiaci tevékenységre és a tevékenység engedélyezésére, valamint a szervezett földgázpiac működtetésére vonatkozó részletes szabályokat,
 
@@ -64,7 +64,7 @@
 
 30. a földgáz szagosítására vonatkozó rendelkezéseket és a nem többségi földgázelosztói vagy földgázszállítói tulajdonban lévő vezeték szakaszok esetében az üzemeltetési szerződés kötelező tartalmi elemeit, valamint a szállító-, és az elosztóvezeték tulajdonosainak jogait és kötelezettségeit,
 
-31. a földgázrendszerek egymás közötti, valamint a földgázrendszerek és a földgáztermelő közötti átadás- átvételi elszámolási mérési helyek és eszközök kiépítésében és üzemeltetésében érintettek együttműködési kötelezettségét,
+31. a földgázrendszerek egymás közötti, valamint a földgázrendszerek és a földgáztermelő közötti betáplálási-kiadási ponti elszámolási mérési helyek és eszközök kiépítésében és üzemeltetésében érintettek együttműködési kötelezettségét,
 
 32. a földgázellátási válsághelyzet minősítését, kihirdetésének és megszüntetésének szabályait, valamint az intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét,
 

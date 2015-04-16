@@ -14,7 +14,7 @@ b) a szállító- és az elosztóvezetékekre vonatkozó – gázátadó állom�
 
 c) a felhasználói igények 10 gázévre vonatkozó becsült adatait az adott gázévtől kezdődő 10 éves időszakra éves, gázátadó állomásonkénti bontásban, valamint a tizedik gázévre vonatkozó tervezett fogyasztási adatokat gázátadó állomásonkénti bontásban,
 
-d) a földgáztermelésre, valamint a határkeresztező földgázforgalomra vonatkozó adatokat,
+d) a földgáztermelésre, valamint a rendszer-összekötési pontokra vonatkozó földgázforgalmi adatokat,
 
 e) a szállító- és elosztóvezetékek, valamint a földgáztárolók jóváhagyott 10 éves fejlesztési tervét,
 

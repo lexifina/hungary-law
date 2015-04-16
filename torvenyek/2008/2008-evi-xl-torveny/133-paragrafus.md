@@ -1,6 +1,6 @@
 133. § (1) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
-1. a kiegyensúlyozás földgázszállító általi biztosításához közvetlenül kapcsolódó igazolt költségeket és pótdíjakat, valamint azok nyilvántartását, kezelését,
+1.
 
 2. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó keretszabályokat,
 

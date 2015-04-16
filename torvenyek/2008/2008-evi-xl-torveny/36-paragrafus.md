@@ -22,7 +22,7 @@ j) a külön díj ellenében nyújtott szolgáltatások megnevezése és feltét
 
 k) annak a földgázelosztónak a megnevezése, székhelye, amelynek rendszeréhez a felhasználó közvetve vagy közvetlenül csatlakozik,
 
-l) arra vonatkozó megbízás, hogy a földgázkereskedő a rendszerüzemeltetőkkel a szükséges kapacitáslekötési, valamint – a felhasználó erre vonatkozó szándéka esetén – az elosztóhálózat-használati szerződéseket megkösse,
+l) arra vonatkozó megbízás, hogy a földgázkereskedő a rendszerüzemeltetőkkel a szükséges rendszerhasználati, valamint – a felhasználó erre vonatkozó szándéka esetén – az elosztóhálózat-használati szerződéseket megkösse,
 
 m) az egyetemes szolgáltató ügyfélszolgálati irodájának és az adott területre működési engedéllyel rendelkező földgázelosztó ügyfélszolgálati irodájának elérhetősége,
 
@@ -30,7 +30,7 @@ n) a felhasználási hely és a csatlakozási pont megjelölése,
 
 o) a szolgáltatott földgáz minőségi jellemzői,
 
-p) a vásárolt, a nyilvántartott és a lekötött kapacitás mértéke,
+p) a vásárolt és a lekötött kapacitás mértéke,
 
 q) a szerződött szolgáltatásért fizetendő díj meghatározásának módja.
 

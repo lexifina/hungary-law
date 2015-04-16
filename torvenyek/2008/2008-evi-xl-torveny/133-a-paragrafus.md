@@ -6,4 +6,8 @@
 
 3. a 104/A. § szerinti árszabályozási ciklus kezdetének időpontját és időtartamát,
 
-4. a rendszerüzemeltetési díjból származó árbevétel földgázszállítói engedélyesek, illetve szállítási rendszerüzemeltető engedélyesek közötti megosztására vonatkozó kiegyenlítő fizetések számítási módszerét, a kiegyenlítő fizetések részletes szabályait, összegét és mértékét.
+4. a rendszerüzemeltetési díjból származó árbevétel földgázszállítói engedélyesek, illetve szállítási rendszerüzemeltető engedélyesek közötti megosztására vonatkozó kiegyenlítő fizetések számítási módszerét, a kiegyenlítő fizetések részletes szabályait, összegét és mértékét,
+
+5. a rendszeregyensúlyozásra vonatkozó módszertant, részletszabályokat, különös tekintettel a rendszerüzemeltetői adatszolgáltatásokra, kiegyensúlyozási szolgáltatásokra, operatív egyensúlytartásra, napon belüli kötelezettségekre, vezetékkészletből nyújtott rugalmassági szolgáltatásra vonatkozóan,
+
+6. a rendszer-összekötési pontokra vonatkozó szabályok alkalmazhatóságát a harmadik országok felől való betáplálási pontokra és a harmadik országok felé való kiadási pontokra.

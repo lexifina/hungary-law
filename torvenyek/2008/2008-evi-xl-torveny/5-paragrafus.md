@@ -16,4 +16,6 @@ g) a szállítási rendszerüzemeltető által nyújtott szolgáltatásokkal kap
 
 h) a regionális piacok kialakítása, illetve a liberalizációs folyamat megkönnyítése érdekében közös vállalkozások létrehozása, valamint a szervezett földgázpiac kialakításának elősegítése,
 
-i) a napi üzemvitelhez szükséges valamennyi vállalati szolgáltatás, így különösen a napi üzemvitelhez szükséges jogi, könyvvezetési és informatikai szolgáltatások biztosítása.
+i) a napi üzemvitelhez szükséges valamennyi vállalati szolgáltatás, így különösen a napi üzemvitelhez szükséges jogi, könyvvezetési és informatikai szolgáltatások biztosítása,
+
+j) a csatlakozó nemzetközi földgázrendszerek és a szállítóvezeték működésével összefüggő feladatok összehangolása.

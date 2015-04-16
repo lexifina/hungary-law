@@ -22,4 +22,4 @@ e) a csatlakozó rendszerüzemeltető nem rendelkezik a szükséges kapacitások
 
 (4) A rendszerüzemeltetők felelősek azért, hogy az általuk üzemeltetett szállító- és elosztóvezeték közép-, illetve hosszú távon alkalmas legyen a csatlakozási szerződésekben, és más rendszerüzemeltetőknek adott kapacitásnyilatkozatban meghatározott igények kielégítésére.
 
-(5) A szállítóvezetékhez való csatlakozás feltételeit a földgázrendszerre történő csatlakozásról szóló jogszabály, valamint azzal összhangban az Üzemi és Kereskedelmi Szabályzat tartalmazza.
+(5) A szállítóvezetékhez való csatlakozás feltételeit a földgázrendszerre történő csatlakozásról szóló jogszabály, valamint azzal összhangban az Üzemi és Kereskedelmi Szabályzat, valamint a szállítási rendszerüzemeltető üzletszabályzata tartalmazza.

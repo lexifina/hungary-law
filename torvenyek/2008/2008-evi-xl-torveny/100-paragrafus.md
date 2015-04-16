@@ -44,7 +44,7 @@ kiállított számla érvénytelen.
 
 a) a megadott határnapig a felhasználó önhibájából nem valósul meg,
 
-b) időpontjában a felhasználó és a szállítási rendszerirányító, illetve az elosztó eltérően állapodott meg, vagy
+b) időpontjában a felhasználó és a szállítási rendszerüzemeltető, illetve az elosztó eltérően állapodott meg, vagy
 
 c) határidejének utolsó napja munkaszüneti nap, és ezért a leolvasásra a határidő lejártát követő első munkanapon került sor.
 

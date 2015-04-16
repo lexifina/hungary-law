@@ -1,1 +1,1 @@
-79. § A hozzáférésre vonatkozó részletes rendelkezéseket – beleértve a 76. § (3) bekezdésben foglaltakat, valamint a kapacitáshiány esetén irányadó szabályokat is – külön jogszabály és az Üzemi és Kereskedelmi Szabályzat határozza meg.
+79. § A betáplálási-kiadási pontokhoz való hozzáférésre vonatkozó részletes rendelkezéseket – beleértve a 76. § (5) bekezdésben foglaltakat, valamint a kapacitáshiány esetén irányadó szabályokat is – külön jogszabály és az Üzemi és Kereskedelmi Szabályzat határozza meg.

@@ -2,7 +2,7 @@
 
 a) kiadja, – jogszabályban meghatározott esetekben – módosítja, vagy visszavonja az e törvény szerint engedélyköteles tevékenységek gyakorlásához szükséges engedélyeket, előzetesen hozzájárul a célvezetékek létesítéséhez;
 
-b) jóváhagyja az Üzemi és Kereskedelmi Szabályzatot, az egyensúlyozó platform szabályzatát és a szervezett földgázpiaci szabályzatot, azok módosításait, valamint a jóváhagyást feltételhez kötheti, illetve e törvényben meghatározott esetekben hivatalból módosítja azt;
+b) jóváhagyja az Üzemi és Kereskedelmi Szabályzatot, a kereskedési platform szabályzatát, az egyensúlyozó platform szabályzatát, a kapacitáslekötési platform szabályzatát és a szervezett földgázpiaci szabályzatot, azok módosításait, valamint a jóváhagyást feltételhez kötheti, illetve e törvényben meghatározott esetekben hivatalból módosítja azt;
 
 c) jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat, és azok módosításait, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja, továbbá a 113. § (3) bekezdésben foglalt esetben az üzletszabályzatot hivatalból módosíthatja;
 
@@ -60,7 +60,7 @@ p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozás 
 
 q) eleget tesz a személyes adatok gyűjtésére vonatkozó – törvényben előírt –, valamint a külön jogszabályban meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének;
 
-r) a szállítási rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a szállítási rendszerirányító javaslatára dönt az egyensúlyozó platformon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
+r) a szállítási rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a szállítási rendszerirányító javaslatára dönt a kereskedési platformon, az egyensúlyozó platformon, valamint a szervezett földgázpiacon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
 
 s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a PB-gáz forgalmazó, a PB-gáz kiskereskedő, valamint a hazai termelésű földgázt termelő irataiba betekinteni, ideértve a a Ptk. 2:47. § (1) bekezdése szerinti üzleti titkot tartalmazó iratokat is, továbbá jogosult a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyes társaságtól, a PB-gáz forgalmazótól, a PB-gáz kiskereskedőtől, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles a közigazgatási hatósági eljárás általános szabályairól szóló törvény adatkezelésre vonatkozó szabályai szerint kezelni;
 
@@ -76,6 +76,6 @@ x) e törvényben foglaltak szerint kifogásolhatja a szállítási rendszerüze
 
 y) az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyezésének előkészítésével kapcsolatosan egyeztet és együttműködik azon országok szabályozó hatóságaival, amelyeken a vezeték áthalad;
 
-z) a határkeresztező vezetéken fellépő kapacitáshiány esetén együttműködik a másik tagállammal a kapacitáshiány-kezelési eljárásokra vonatkozóan;
+z) a határkeresztező gázvezetéken fellépő kapacitáshiány esetén együttműködik a másik tagállammal a kapacitáshiány-kezelési eljárásokra vonatkozóan;
 
 zs) közzéteszi minden év július 31-ig az ellátásbiztonsági felügyelet során szerzett eredményeket és az azok alapján meghozott vagy tervezett intézkedéseket ismertető jelentést, melyet haladéktalanul továbbít a Bizottságnak.

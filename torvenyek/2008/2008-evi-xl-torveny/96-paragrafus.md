@@ -8,7 +8,7 @@
 
 (5) Amennyiben a felhasználó (4) bekezdés szerinti kötelezettségének nem tesz eleget, a szállítási rendszerüzemeltető vagy a földgázelosztó, amelynek az üzemeltetésében lévő hálózathoz a felhasználó csatlakozik, jogosult és köteles a korlátozás időtartamára a felhasználót a földgázellátásból műszakilag kizárni.
 
-(6) Amennyiben a korlátozás alá vont felhasználó földgázt vételez a korlátozott mennyiségek terhére, köteles az így vételezett földgáz-mennyiségnek megfelelő, a legutolsó nem korlátozott gáznapon vételre felajánlott egyensúlyozó gáz legmagasabb árának az ötvenszeres értékében meghatározott pótdíjat a szállítási rendszerirányítónak megfizetni.
+(6) Amennyiben a korlátozás alá vont felhasználó földgázt vételez a korlátozott mennyiségek terhére, köteles az így vételezett földgáz-mennyiségnek megfelelő, a legutolsó nem korlátozott gáznapon vételre felajánlott egyensúlyozó gáz legmagasabb árának az ötvenszeres értékében meghatározott pótdíjat a szállítási rendszerüzemeltetőnek megfizetni.
 
 (6a) A (6) bekezdés szerint befolyt pótdíjból a szállítási rendszerirányítónak nem képződhet nyeresége.
 
