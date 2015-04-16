@@ -1,3 +1,0 @@
-25. § A Kttv. 81. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a kormánytisztviselő képzésben – ide nem értve a 80. § (1) bekezdése, valamint a 82. § szerinti képzést – vesz részt és ez érinti a munkaidejét, köteles ezt engedélyeztetni a munkáltatójával. A munkáltató engedélye alapján a kormánytisztviselő mentesül a munkavégzési kötelezettsége alól a tanulmányok folytatásához szükséges időre, ennek időtartamára illetményre jogosult. A kormánytisztviselő köteles ledolgozni a tanulmányi célú mentesítés időtartamát, kivéve, ha tanulmányi szerződés alapján vesz részt a képzésben.”
