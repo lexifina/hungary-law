@@ -1,3 +1,3 @@
-158. §[^508]
+158. §[^475]
 
-[^508]: A Vhr. 158. §-át a 384/2014. (XII. 31.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^475]: A Vhr. 158. §-át a 384/2014. (XII. 31.) Korm. rendelet 6. §-a hatályon kívül helyezte.

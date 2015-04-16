@@ -1,3 +1,9 @@
-79. §[^267] Korlátozás esetére a kapacitáslekötési és a kereskedelmi szerződésnek rendelkeznie kell a korlátozás során alkalmazandó eljárásrendről.
+79. §[^267] (1) A rendszerüzemeltető GET és e rendelet szerinti engedélyköteles tevékenysége keretében nyújtott alapszolgáltatások és a választható szolgáltatások részletezését az ÜKSZ tartalmazza.
 
-[^267]: A Vhr. 79. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+(2) A rendszerüzemeltető köteles az alapszolgáltatásokra a GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződésmintákat kialakítani és az üzletszabályzatában rögzíteni. Az alapszolgáltatások ellenértékét a rendszerhasználati díj tartalmazza.
+
+(3) A rendszerüzemeltető által nyújtott, választható szolgáltatásokra alkalmazandó szerződéses feltételeket az üzletszabályzatban kell rögzíteni.
+
+(4) Az (1) bekezdés szerinti szolgáltatásokon felüli, nem engedélyköteles tevékenységnek minősülő, egyedileg igényelt egyéb szolgáltatások feltételeiben és díjában a rendszerüzemeltető és az igénylő egyedileg, az azonos bánásmód elve szerint állapodik meg.
+
+[^267]: A Vhr. 79. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

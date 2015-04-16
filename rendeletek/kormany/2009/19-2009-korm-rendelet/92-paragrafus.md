@@ -1,19 +1,11 @@
-92. §[^309] (1)[^310] Az a külföldi vagy belföldi rendszerhasználó, aki szállítórendszer szabad kapacitását Magyarország területén történő átszállításra veszi igénybe, a kapacitás lekötésekor az ÜKSZ-ben meghatározott módon igazolnia kell az átszállításra vonatkozó jogosultságát és az átszállítandó mennyiségre kapacitáslekötési szerződést kell kötnie.
+92. §[^280] Ha a kapacitásigény a betáplálási-kiadási pont szabad kapacitásából csak részben vagy nem biztosítható, a szállítási rendszerüzemeltető ajánlatot tehet a kapacitások fejlesztéssel történő biztosítására, melynek tartalmaznia kell
 
-(2) Az átszállításra lekötött, de fel nem használt kapacitásra a GET 72. §-a rendelkezéseit kell alkalmazni.
+a) a betáplálási-kiadási ponton biztosított kapacitást,
 
-(3) Az egy évnél hosszabb időtartamra lekötött nem megszakítható kapacitásra szerződő rendszerhasználót nyilvántartásba kell venni.
+b) a csatlakozási szerződés vagy fejlesztési megállapodás futamidejét, amely nem lehet kevesebb, mint a beruházás megtérülése,
 
-(4)[^311] Ha a kapacitásigény szabad kapacitásból csak részben vagy nem biztosítható, a szállítási rendszerüzemeltető ajánlatot tehet a kapacitások fejlesztéssel történő biztosítására, melynek tartalmaznia kell
-
-a) a be- és kilépési ponton biztosított kapacitást,
-
-b) a szerződés futamidejét, amely nem lehet kevesebb, mint a beruházás megtérülése,
-
-c) a Hivatallal egyeztetett tarifaképzési elvet és képletet,
+c) a csatlakozási díj vagy fejlesztési hozzájárulás mértékét,
 
 d) a jogszabályokból és az ÜKSZ-ből eredő kötelezettségeket.
 
-[^309]: A Vhr. 92. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^310]: A Vhr. 92. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 35. §-a szerint módosított szöveg.
-[^311]: A Vhr. 92. § (4) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+[^280]: A Vhr. 92. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

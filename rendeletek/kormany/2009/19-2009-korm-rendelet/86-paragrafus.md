@@ -1,10 +1,35 @@
-86. §[^285] (1)[^286] A szállítási rendszerüzemeltető jogosult és köteles a szállítórendszer hatályos szerződéssel le nem kötött szabad kapacitásait május 31-ét követően az ÜKSZ-ben foglalt módon értékesítésre meghirdetni. A szabad kapacitások csak egy gázévre, vagy annál rövidebb időre köthetők le. Kapacitás túljegyzés esetén az ÜKSZ-ben rögzített ügyrend szerint kell eljárni.
+86. §[^274] (1) A rendszerüzemeltetői szolgáltatás nyújtása szerződéses biztosítékkal összefüggő okból akkor tagadható meg vagy akkor függeszthető fel, ha
 
-(2) Kapacitáslekötési szerződés megkötésére jogosult minden nyilvántartott szerződéses kapacitással rendelkező felhasználó és a felhasználó által átruházott lekötési joggal érintett kapacitások mértékéig a kereskedő, valamint az a belföldi felhasználó vagy külföldi személy vagy társaság, aki vagy amely a szabad kapacitásokra vonatkozó igényét az ÜKSZ-ben meghatározottak szerint a rendszerüzemeltetőnek bejelentette.
+a) a szerződéses biztosíték a szerződéses szolgáltatás megkezdését 15 munkanappal megelőzően nem áll rendelkezésre,
 
-(3) Kapacitáslekötési szerződés megkötésére jogosult az a termelő is, aki kapacitás igényét az ÜKSZ-ben meghatározottak szerint nyilvántartásba vetette.
+b) a módosított szerződéses biztosíték a módosítást követő 8 munkanapon belül nem áll rendelkezésre,
 
-(4) A felhasználó az átruházott lekötési jog tárgyát képező kapacitások felett a kereskedővel kötött szerződésében foglalt szolgáltatások megszűnéséig a kapacitásokkal nem rendelkezhet és azokat másodlagos kereskedelemben nem értékesítheti.
+c) a rendszerüzemeltető részére a szerződéses biztosíték annak esedékességekor nem áll rendelkezésre,
 
-[^285]: A Vhr. 86. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^286]: A Vhr. 86. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+d) a szerződéses biztosíték felhasználását követően annak feltöltése a szerződéses feltételek szerint nem történt meg, vagy
+
+e) a biztosítékként elfogadott tárolói készlet nem nyújt fedezetet a tárolói szolgáltatásra.
+
+(2) Ha a rendszerüzemeltető a szerződéses biztosítékot nyújtó pénzintézetet a rendszerhasználónak meg kívánja jelölni, úgy üzletszabályzatában köteles legalább öt pénzintézetet megnevezni, valamint a szerződéses biztosíték tartalmára vonatkozó elvárásait rögzíteni.
+
+(3) Éves és negyedéves kapacitáslekötés esetében a szerződéses biztosíték összegének fedezetet kell nyújtania legalább a rendszerhasználó által lekötött kapacitás szerinti
+
+a) éves kapacitásdíj 1/12-ed
+
+b) negyedéves kapacitásdíj 1/3-ad
+
+részére, valamint a lekötés alapján számított forgalmi díj összegére a rendszerüzemeltető üzletszabályzatában meghatározott feltételek szerint. A rendszerüzemeltető köteles a szerződéses biztosíték összegének módosítását elfogadni, ha a szerződés módosítására kereskedőváltás miatt kerül sor.
+
+(4) Havi, napi, napon belüli kapacitás-lekötés esetében a szerződéses biztosíték összegének fedezetet kell nyújtania legalább a rendszerhasználó által lekötött havi vagy napi kapacitások kapacitásdíjának teljes összegére, valamint a lekötés alapján számított forgalmi díj összegére a rendszerüzemeltető üzletszabályzatában meghatározott feltételek szerint.
+
+(5) A földgáztároló köteles a tárolt készlet letéti elszámolásához árképletet kialakítani az üzletszabályzatában, vagy az elégtelen készlet esetén igénybe veendő szerződéses biztosíték meghatározását rögzíteni.
+
+(6) A szerződéses biztosíték időtartamának meghatározására és a biztosíték feltöltésére vonatkozó előírásokat a rendszerüzemeltető üzletszabályzata tartalmazza.
+
+(7) A rendszerhasználati díjak megfizetésének elmaradása esetén a rendszerhasználati szerződés teljesítése akkor függeszthető fel, ha a rendszerüzemeltető a szerződéses biztosítékot az ÜKSZ-ben és a rendszerhasználati szerződésben foglaltak szerint igénybe vette és a rendszerhasználó annak feltöltéséről határidőre nem gondoskodott.
+
+(8) A szerződéses biztosíték rendelkezésre állását követően a felfüggesztést azonnal meg kell szüntetni, azonban a szolgáltatást attól a gáznaptól kell biztosítani, amelyre az ÜKSZ szerint érvényes nominálás adható le.
+
+(9) A földgázkereskedő a földgáz-kereskedelmi szerződésbe foglalt ügyleteinek biztosítása érdekében jogosult a földgáz-kereskedelmi szerződéses partnereitől pénzügyi biztosítékot kérni. Egyetemes szolgáltatásra jogosult felhasználótól pénzügyi biztosíték nem kérhető, kivéve a GET 31/C. § (4)–(5) bekezdésében meghatározott esetet. A pénzügyi biztosítékra vonatkozó részletes rendelkezéseket, ha azokat a földgázkereskedő alkalmazni kívánja, az üzletszabályzatában előre közzéteszi.
+
+[^274]: A Vhr. 86. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

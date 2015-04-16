@@ -1,10 +1,5 @@
-76. §[^261] (1)[^262] A szállítási rendszerüzemeltető és a földgázelosztó köteles a honlapján folyamatosan feltüntetni a szabad kapacitásait. A szabad kapacitás meghatározásánál a hidraulikailag legnagyobb szállítható mennyiséget csökkenteni kell a technológiai és veszteség-kezelési célra felhasznált kapacitásokkal.
+76. §[^264] (1) Ha a felhasználó a kapacitáslekötés során saját jogon jár el, rá a földgázkereskedőre vonatkozó rendelkezések az irányadók.
 
-(2)[^263] A szállítási rendszerirányító az igénybejelentések alapján köteles minden évben, az ÜKSZ felülvizsgálatakor – ha a rendszeren fizikai szűkületet állapít meg – javaslatot tenni a forrásoldali kapacitások ÜKSZ szerint történő felosztási szabályaira. A fizikai szűkület kezelésére az ÜKSZ-ben aukciós eljárásrendet kell kialakítani és az aukciós tapasztalatok alapján a felosztási szabályokat megfelelően módosítani. A szerződéses szűkület kezelésére az ÜKSZ-ben meghatározott szűkületkezelési eljárásokat kell alkalmazni.
+(2) Ha a felhasználó ellátását földgázkereskedő biztosítja, a földgázkereskedő a kapacitáslekötés jogát harmadik fél részére átadhatja. Ha a földgáz-kereskedelmi szerződés bármely módon megszűnik, a megszűnés napjával a kapacitáslekötési jog visszaszáll a felhasználóra. A kapacitáslekötési jog átadásáért és visszaszállásáért ellenérték vagy költségtérítés nem kérhető.
 
-(3)[^264] A rendszerhasználó Magyarország államhatárát átlépő szállítóvezetéken, elosztóvezetéken a saját felhasználása mértékéig – a szállítási rendszerüzemeltető a kiegyensúlyozó földgáz biztosításával kapcsolatos kötelezettsége, és a rendszerüzemeltetők technológiai és veszteség kezelési célra használt földgáz mértékéig, a termelő az általa termelt földgáz mértékéig – jogosult a földgáz határon keresztül történő be-, illetve kiszállítására is.
-
-[^261]: A Vhr. 76. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^262]: A Vhr. 76. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
-[^263]: A Vhr. 76. § (2) bekezdése a 344/2013. (IX. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^264]: A Vhr. 76. § (3) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 35. §-a, a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+[^264]: A Vhr. 76. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

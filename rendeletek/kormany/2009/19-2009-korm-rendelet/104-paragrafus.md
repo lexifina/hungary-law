@@ -1,26 +1,26 @@
 ## Informatikai rendszer fejlesztése, üzemeltetése
 
-104. §[^357] (1) A rendszerüzemeltető adat és informatikai rendszerének alkalmasnak kell lennie, hogy valós idejű üzemmódban (online)
+104. §[^328] (1)[^329] A rendszerüzemeltető adat és informatikai rendszerének alkalmasnak kell lennie, hogy valós idejű üzemmódban (online)
 
-a) biztosítsa a felhasználók kapacitásainak nyilvántartását,
+a) biztosítsa a felhasználók vásárolt kapacitásainak, a rendszerhasználók lekötött kapacitásának nyilvántartását, a szállítási rendszerüzemeltető esetében a kapacitások lekötésének folyamatát,
 
-b) lehetővé tegye a GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződések elektronikus úton történő megkötését, különös tekintettel a napi kapacitáslekötésekre,
+b) lehetővé tegye a GET-ben és e rendeletben meghatározott követelményeknek megfelelő rendszerhasználati szerződések elektronikus úton történő megkötését,
 
-c) biztosítsa a kapacitások másodlagos kereskedelmének nyilvántartását és az egyes rendszerhasználók igénybe vehető kapacitásait,
+c) biztosítsa a másodlagos kapacitáskereskedelmet,
 
-d) fogadja az ÜKSZ szerint teljesített nominálásokat,
+d) fogadja az ÜKSZ szerinti nominálásokat,
 
-e)[^358] biztosítsa, hogy a rendszerhasználók a gáznapon a szállítási rendszerüzemeltetőtől az ÜKSZ-ben meghatározott esetekben és időpontokban valós tartalmú információt kapjanak a földgázforgalmukról,
+e) biztosítsa, hogy a rendszerhasználók a gáznapon a szállítási rendszerüzemeltetőtől a Hivatal elnökének rendeletében és az ÜKSZ-ben meghatározott esetekben és időpontokban információt kapjanak a földgázforgalmukról,
 
-f)[^359] biztosítsa, hogy a rendszerhasználók elszámolása az egyensúlyozó platformon az ÜKSZ-ben lefektetett időpontokban megtörténjen,
+f) biztosítsa, hogy a rendszerhasználók elszámolása az egyensúlyozó és a kereskedési platformon az ÜKSZ-ben lefektetett időpontokban megtörténjen,
 
 g) lehetővé tegye a kapacitás túllépések dokumentálását,
 
-h)[^360] folyamatos kapcsolatot biztosítson az érintett rendszerüzemeltetőkkel.
+h) folyamatos kapcsolatot biztosítson az érintett rendszerüzemeltetőkkel.
 
-(2) A rendszerüzemeltető informatikai rendszerének alkalmasnak kell lennie továbbá a gáznapi forgalom rendszerhasználók szerinti tényleges felosztásához kapcsolódó informatikai feladatok lebonyolítására. A rendszer kialakításánál figyelemmel kell lenni a felhasználói profilok ÜKSZ szerinti változásának folyamatos kezelésére.
+(2)[^330] A rendszerüzemeltető informatikai rendszerének alkalmasnak kell lennie továbbá a gáznapiforgalom rendszerhasználók részére történő, az ÜKSZ szerinti tényleges felosztásához kapcsolódó informatikai feladatok lebonyolítására. A rendszer kialakításánál figyelemmel kell lenni a felhasználói profilok ÜKSZ szerinti változásának folyamatos kezelésére.
 
-(3)[^361] A szállítási rendszerirányító – a rendszerüzemeltetőkkel együttműködve – az ÜKSZ-ben meghatározott módon köteles meghatározni, felülvizsgálni és nyilvánossá tenni az együttműködő informatikai rendszerrel szemben elvárt
+(3)[^331] A szállítási rendszerirányító – a rendszerüzemeltetőkkel együttműködve – az ÜKSZ-ben meghatározott módon köteles meghatározni, felülvizsgálni és nyilvánossá tenni az együttműködő informatikai rendszerrel szemben elvárt
 
 a) műszaki paramétereket,
 
@@ -30,8 +30,7 @@ c) az adatforgalom biztonsági követelményeit.
 
 (4) Az informatikai elvárásokat a rendszerüzemeltetők és a rendszerhasználók kötelesek az ÜKSZ-ben előírt módon biztosítani.
 
-[^357]: A Vhr. 104. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^358]: A Vhr. 104. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
-[^359]: A Vhr. 104. § (1) bekezdés f) pontja a 99/2013. (III. 30.) Korm. rendelet 3. § 7. pontja szerint módosított szöveg.
-[^360]: A Vhr. 104. § (1) bekezdés h) pontját a 212/2014. (VIII. 27.) Korm. rendelet 7. §-a iktatta be.
-[^361]: A Vhr. 104. § (3) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
+[^328]: A Vhr. 104. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^329]: A Vhr. 104. § (1) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^330]: A Vhr. 104. § (2) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^331]: A Vhr. 104. § (3) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.

@@ -1,16 +1,3 @@
-5/A. §[^39] A szállítási rendszerüzemeltető a napi egyensúlyozó feladatainak ellátásához az alábbi egyensúlyozó eszközöket veheti igénybe:
+5/A. §[^44] Az összekapcsolási ponttal érintett két szállítóvezeték egy a 312/2014/EU bizottsági rendelet szerinti egyensúlytartási zónát képez.
 
-a) a földgázkereskedők vagy felhasználók által felajánlott lekötött, de fel nem használt kapacitások,
-
-b) a földgázkereskedők vagy földgáztermelők által felajánlott, az együttműködő földgázrendszerbe betáplált vagy napon belül betáplálható földgáz mennyiség,
-
-c) a földgázkereskedők által felajánlott opciós forrás,
-
-d)[^40] az egyensúlyozó platformról beszerzett földgáz mennyiség és kapacitás,
-
-e) a szervezett földgázpiacról beszerzett földgáz mennyiség és kapacitás,
-
-f) a szállítási rendszerüzemeltető által importból beszerzett földgáz mennyiség vagy opciós forrás.
-
-[^39]: A Vhr. 5/A. §-t a 75/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be.
-[^40]: A Vhr. 5/A. § d) pontja a 99/2013. (III. 30.) Korm. rendelet 3. § 2. pontja szerint módosított szöveg.
+[^44]: A Vhr. 5/A. §-t a 75/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be, szövege a 91/2015. (IV. 9.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

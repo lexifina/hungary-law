@@ -150,9 +150,9 @@
 
 ## b) 100%-a, ha az egyetemes szolgáltató érdekkörében felmerült okból a visszakapcsolásra a felhasználó tartozásának rendezését követő 72 óránál később kerül sor.
 
-## 8.6.[^557] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
+## 8.6.[^517] Nem hivatkozhat a szállítási rendszerüzemeltető és a földgázelosztó a felhasználónak a fogyasztásmérő-berendezés állagmegóvásával kapcsolatos kötelezettsége megszegésére, ha a fogyasztásmérő-berendezés nem a felhasználó kizárólagos őrizetében van vagy annak felszerelése, felhasználó részére történt átadása során nem a jogszabályokban és az üzletszabályzatban foglaltak szerint jártak el.
 
-3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez
+3. számú melléklet a 19/2009. (I. 30.) Korm. rendelethez[^518]
 
 Üzemi és Kereskedelmi Szabályzat
 
@@ -162,123 +162,77 @@
 
 a) az együttműködő földgázrendszer szereplői,
 
-b) együttműködési szerződések, az engedélyesek és a hozzáférésre jogosultak közötti együttműködés rendje,
+b) Rendszerüzemeltetők és rendszerhasználók együttműködése,
 
-c)[^558] a szállítási rendszerirányító és a külföldi rendszerirányító kapcsolatai.
+c) Rendszerüzemeltetők együttműködése,
 
-2. Az együttműködő földgázrendszer részletes leírása:
+d) A szállítási rendszerüzemeltető és a külföldi rendszerüzemeltető kapcsolatai
+
+2. Az együttműködő földgázrendszer részletes leírása – műszaki keretrendszer:
 
 a) a földgázrendszer felépítése, fő részei (szállító-, tároló-, elosztórendszerek, egymáshoz csatlakozásuknak feltételei),
 
-b) felhasználói csatlakozási előírások: műszaki, gazdasági, jogi feltételek,
+b) Gázminőségi követelmények,
 
-c) telemechanikai követelmények, elszámolási mérés, mérési adatátvitel,
+c) Szigetüzem működési feltételei
 
-d) gázminőségi követelmények, gázszagosítás,
+3. A földgázrendszerhez történő csatlakozás feltételei
 
-e) a szállító-, elosztóvezetékek és a tároló üzemeltetési feltételei,
+4. A földgázrendszer üzemeltetési feltételei:
 
-f) rendszer karbantartási szabályai.
+a) Operatív irányítás és együttműködés az engedélyesek között
 
-3. Az együttműködő földgázrendszer rendszerfejlesztési folyamatának leírása.
+b) Termelési nyomások biztosítása
 
-4. Az adatszolgáltatás rendje, a vonatkozó jogszabályok alkalmazásának részletei.
+c) Karbantartás
 
-5. Üzemzavar elhárítás, válsághelyzetre vonatkozó intézkedések, a válsághelyzet elhárítására vonatkozó jogszabályok alkalmazásának részletei.
+d) Üzemzavar elhárítás
 
-6. Versenysemlegesség érvényesítése, a rendszerhez való szabad hozzáférés részletes eljárási rendje:
+e) Mérési infrastruktúra üzemeltetése
 
-a) hozzáférésre jogosultság,
+f) Földgázszagosítás
 
-b) fogyasztási igénybejelentési eljárás rendje, feltételei,
+g) Telemechanikai rendszerek
 
-c) a kapacitás és a szabad kapacitás meghatározása,
+h) Adatforgalmi és információs rendszer kialakítási és üzemeltetési követelményei
 
-d) az elbírálás, döntés, a jogorvoslati eljárás rendje,
+i) Betáplálási vagy kiadási pontok összevonása
 
-e) a ki nem használt kapacitások kezelése,
+j) Az együttműködő földgázrendszer kapacitásainak meghatározása
 
-f) a nyilvántartásba vett felhasználói kör és az egyetemes felhasználói kör közötti átjárhatóság szabályai.
+5. Az együttműködő földgázrendszer rendszerfejlesztési folyamatának leírása
 
-7. Elszámolási, felosztási, mérési és adatforgalmi előírások.
+6. Az együttműködő földgázrendszerhez való hozzáférés szabályai:
 
-8. A felhasználói profilba történő besorolás részletes szabályai.
+a) Kapacitáslekötési szabályok
 
-9. A diszkriminációtól mentes működés érdekében az Üzemi és Kereskedelmi Szabályzatban (a továbbiakban: ÜKSZ) egységesíteni kell:
+b) Kereskedőváltás szabályai
 
-a) az üzemviteli, kereskedelmi elszámolási mérések rendjét,
+c) A hozzáférés felfüggesztésének szabályai
 
-b) a földgáz minőség meghatározásának módszerét, és a minőség elszámolásának rendjét,
+d) Kapacitás visszaadásának és visszavételének eljárásrendje
 
-c) mérőeszközök hitelesítését, a mérés módszerét,
+e) MGP használata
 
-d) elszámolás módját hiteles mérés hiánya esetén,
+f) Másodlagos kapacitáskereskedelem
 
-e) a saját gázfelhasználás, mérési különbözet és az elosztói veszteség tervezési, elszámolási rendjét,
+7. A nominálás szabályai
 
-f) a számlázás és a számla kiegyenlítésének módját és feltételeit,
+8. Az egyensúlytartás szabályai
 
-g) rendszerszintű szolgáltatások körét és ezek elszámolását,
+9. A korlátozás szabályai
 
-h) a nominálás, nominálási eljárás, felosztás rendjét, elszámolások rendjét, a nominálási eltérések kezelését, az eltérések elszámolásának rendjét.
+10. Üzemzavar elhárítás, válsághelyzetre vonatkozó intézkedések, a válsághelyzet elhárítására vonatkozó jogszabályok alkalmazásának részletei a földgázszállító rendszeren
 
-10. A rendszerirányítás működésére vonatkozó rendelkezések keretében részletesen kell szabályozni:
+11. Mennyiség mérési és minőség ellenőrzési előírások, mérési hibák kezelése
 
-a)[^559] a más szállítási rendszerüzemeltetőkkel, földgázelosztói és földgáztárolói rendszerüzemeltetőkkel történő együttműködés rendjét,
+12. Allokálási szabályok a földgázszállító rendszer hálózati pontjain és az MGP-n
 
-b) a rendszeregyensúlyhoz szükséges tartalék-szállító, elosztó és tároló kapacitások meghatározását,
+13. Elszámolási szabályok az együttműködő földgázrendszeren
 
-c) a kiegyenlítő földgáz mennyiségének és értékének meghatározási módszerét,
+14. Adatszolgáltatási szabályok
 
-d) a szabad kapacitáshoz való hozzáférési elvek alkalmazását.
+15. A szervezett földgázpiac működésének főbb szabályai
 
-11. A kapacitáslekötés folyamata, szabályai, kapacitás aukció szabályai, ezek között:
-
-a) a rendszerhasználóval szembeni feltételek,
-
-b) a kapacitáslekötés időtartama.
-
-12. A kiegyensúlyozáshoz szükséges földgázforrás megtervezése, igénybevételi rendje, opciós források felhasználása, az elszámolások szabályai.
-
-13.[^560] A szállítási rendszerüzemeltető által a kiegyenlítő földgáz beszerzésének rendje.
-
-14. Rendszerszintű szolgáltatások:
-
-a) az informatikai platform működtetésének és használatának szabályai, az adatforgalom rendje,
-
-b) nominálási szabályok,
-
-c)[^561] a szállítási rendszerüzemeltető intézkedései a rendszeregyensúly érdekében,
-
-d) másodlagos kapacitás-kereskedelem nyilvántartása,
-
-e) a rendszerirányító hatáskörébe tartozó megszakítható fogyasztás, korlátozás tervezési, vezénylési és elszámolási szabályai,
-
-f) karbantartások összehangolásának rendje.
-
-15. A mérlegkörök működtetésének szabályai:
-
-a) működési mechanizmus, szervezeti szabályzat,
-
-b) felelősségi kérdések,
-
-c) információáramlás,
-
-d) külső-belső elszámolások.
-
-16. A szervezett földgázpiac működtetésére vonatkozó jogszabályok alkalmazásának részletei.
-
-17.[^562] A szerződéses szűkület kezelésére vonatkozó eljárások:
-
-a) a túljegyzési visszavásárlási mechanizmus alkalmazása,
-
-b) a lekötött kapacitás visszaadásának és visszavételének rendje,
-
-c) a hosszú távú „használd vagy elveszíted” mechanizmus alkalmazása.
-
-[^557]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^558]: A Vhr. 3. számú melléklet 1. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^559]: A Vhr. 3. számú melléklet 10. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^560]: A Vhr. 3. számú melléklet 13. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^561]: A Vhr. 3. számú melléklet 14. pont c) alpontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (14) bekezdése szerint módosított szöveg.
-[^562]: A Vhr. 3. számú melléklet 17. pontját a 344/2013. (IX. 27.) Korm. rendelet 8. §-a iktatta be.
+[^517]: A Vhr. 2. számú melléklet 8.6. pontját a 110/2014. (IV. 1.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^518]: A Vhr. 3. számú melléklete a 91/2015. (IV. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.

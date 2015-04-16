@@ -1,6 +1,37 @@
-74. §[^256] (1) Az MSZKSZ jogosult a biztonsági készlet feltöltéséhez szükséges forrásoldali kapacitás hosszú távú lekötésére legfeljebb 10 Mm3/nap mértékig, azonban a forrásoldali kapacitáslekötési szerződés időtartama nem haladhatja meg a biztonsági készletet tároló engedélyessel megkötött tárolási szerződésben meghatározott időtartamot. A lekötött és fel nem használt szállítói kapacitásokat az MSZKSZ átlátható módon megszakítható kapacitásként értékesítheti.
+74. §[^262] (1) A rendszerüzemeltető a rendszerhasználati szerződés módosítását az üzletszabályzatában meghatározottak szerint köteles az érintett rendszerhasználó számára megküldeni.
 
-(2)[^257] A szállítási rendszerüzemeltető köteles az MSZKSZ lekötött szállítási kapacitásait nyilvántartani.
+(2) A rendszerhasználati szerződés megkötése az ÜKSZ rendszerhasználó általi elfogadásának minősül.
 
-[^256]: A Vhr. 74. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^257]: A Vhr. 74. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (6) bekezdése szerint módosított szöveg.
+(3) A rendszerüzemeltető által a GET 72. § (5) bekezdése szerint működtetett nyilvántartásnak tartalmaznia kell az adott rendszerüzemeltetőhöz közvetlenül csatlakozó felhasználási hely és a felhasználó vonatkozásában az ÜKSZ-ben meghatározott, de legalább a következő adatokat:
+
+a) a felhasználási hely egyedi azonosítóját (POD számát),
+
+b) a felhasználási helyen lévő fogyasztásmérő berendezés jellemző adatait és azonosító számát,
+
+c) a felhasználási hely vásárolt kapacitását,
+
+d) a felhasználó felhasználási helyenként lekötött kapacitását az adott és az azt megelőző öt gázévben a kapacitáslekötési időszak megjelölésével,
+
+e) a felhasználó ÜKSZ szerinti profilba sorolását,
+
+f) a felhasználó korlátozási besorolását, továbbá
+
+g) a felhasználó azonosításához szükséges adatokat és fogyasztási adatait.
+
+(4) A felhasználási hely vásárolt kapacitását, valamint lekötött kapacitását kiadási ponti kapacitásként kell nyilvántartani az ÜKSZ-ben meghatározott mértékegységben és formában, a lekötött kapacitás tekintetében a kapacitáslekötési időszak megjelölésével. A nyilvántartás alapját a rendszerhasználati vagy a csatlakozási szerződés képezi.
+
+(5) A szállítási rendszerüzemeltető és a földgáztároló a rendszerhasználók részéről lekötött kapacitásokat rendszerhasználónként, betáplálási-kiadási pontonként az ÜKSZ-ben meghatározott mértékegységben és formában tartja nyilván a kapacitáslekötési időszak megjelölésével.
+
+(6) A rendszerüzemeltető az ÜKSZ-ben meghatározott módon nyilvántartja
+
+a) a másodlagos kapacitáskereskedelemben átadott kapacitásokat, az átadás időpontját és
+
+b) a kapacitáslekötési igénybejelentéseket, illetve azok határidejét.
+
+(7) A szállítási rendszerüzemeltető és a földgázelosztó a csatlakozási szerződésben a felhasználóval megállapodhatnak a vásárolt kapacitás tervezett igénybevételének feltételeiben és ütemezésében, amelyet a szállítási rendszerüzemeltető és a földgázelosztó köteles rögzíteni a felhasználási helyre vonatkozó nyilvántartásában.
+
+(8) A földgáz- és biogáz-termelő a saját termelésű gáz Magyarország államhatárán történő átszállítása érdekében történő szállítási rendszerüzemeltetői és tárolói rendszer igénybevétele tekintetében felhasználónak minősül.
+
+(9) Ha a GET 72. § (4) bekezdése szerinti kapacitás igénybevételi korlát esetében a vásárolt kapacitás terhére felmerült többlet kapacitásigény az adott gázátadó állomáson a szállítórendszer fejlesztése nélkül nem teljesíthető, annak igénybevételét a szállítási rendszerüzemeltető a 10 éves fejlesztési terv ütemezésének megfelelően biztosítja.
+
+[^262]: A Vhr. 74. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

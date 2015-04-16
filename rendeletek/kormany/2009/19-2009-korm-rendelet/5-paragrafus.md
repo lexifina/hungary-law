@@ -1,3 +1,3 @@
-5. §[^38] A szállítási rendszerüzemeltető adatforgalmi és informatikai rendszerének biztosítania kell a gáznapra, valamint az ennél hosszabb időszakra történő kapacitáslekötés adatforgalmának rögzítését és feldolgozását a kapacitások másodlagos kereskedelmére terjedően is, továbbá alkalmasnak kell lennie a GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződések kezelésére.
+5. §[^43] A szállítási rendszerüzemeltető adatforgalmi és informatikai rendszerének biztosítania kell a kapacitáslekötések – ideértve a másodlagos kapacitáskereskedelmet is – és a földgázszállítások adatforgalmának rögzítését és feldolgozását, továbbá alkalmasnak kell lennie a GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződések kezelésére.
 
-[^38]: A Vhr. 5. §-a a 75/2011. (V. 2.) Korm. rendelet 26. § (1) bekezdése szerint módosított szöveg.
+[^43]: A Vhr. 5. §-a a 91/2015. (IV. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

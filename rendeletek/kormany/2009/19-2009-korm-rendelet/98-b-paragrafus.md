@@ -1,6 +1,6 @@
-## Szállítóvezeték-létesítés[^332]
+## Szállítóvezeték-létesítés[^305]
 
-98/B. §[^333] (1) Szállítóvezeték-létesítésre vagy -fejlesztésre a szállítási rendszerüzemeltető működési engedélye alapján, a szállítóvezeték-létesítő a szállítóvezeték-létesítési engedélye alapján jogosult.
+98/B. §[^306] (1) Szállítóvezeték-létesítésre vagy -fejlesztésre a szállítási rendszerüzemeltető működési engedélye alapján, a szállítóvezeték-létesítő a szállítóvezeték-létesítési engedélye alapján jogosult.
 
 (2) A szállítóvezeték-létesítési engedély szállítóvezeték üzemeltetésére – ide nem értve a próbaüzemet – nem jogosít.
 
@@ -8,5 +8,5 @@
 
 (4) A szállítóvezeték-létesítő a próbaüzem időtartamára vonatkozóan jogosult szabad kapacitásait vételre felajánlani, valamint a Hivatal által rendeletben megállapított rendszerhasználati díjak alkalmazásával a rendszerhasználóknak értékesíteni. A szállítóvezeték-létesítő próbaüzem alatti földgázszállítási tevékenységére a szállítási rendszerüzemeltetőre vonatkozó szabályok megfelelően irányadók.
 
-[^332]: A Vhr. 98/B. §-át megelőző alcímet a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
-[^333]: A Vhr. 98/B. §-át a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^305]: A Vhr. 98/B. §-át megelőző alcímet a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^306]: A Vhr. 98/B. §-át a 384/2014. (XII. 31.) Korm. rendelet 3. §-a iktatta be.

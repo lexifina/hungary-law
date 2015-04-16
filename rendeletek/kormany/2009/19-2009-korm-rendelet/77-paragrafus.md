@@ -1,3 +1,7 @@
-77. §[^265] A rendszerüzemeltető köteles betartani az üzletszabályzatban és az ÜKSZ-ben meghatározott kapacitás lekötésnél alkalmazott eljárásrendet, valamint a szerződés pénzügyi garanciáira, és a szerződésszegéssel összefüggésben, a szerződés teljesítésének felfüggesztésére vonatkozó előírásokat, amelyek nem sérthetik az egyenlő bánásmód követelményét.
+77. §[^265] (1) A szállítási rendszerüzemeltető a szállítóvezeték betáplálási-kiadási pontjainak, a földgáztároló engedélyes a földgáztároló szabad kapacitásait köteles a honlapján folyamatosan feltüntetni.
 
-[^265]: A Vhr. 77. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+(2) A szállítási rendszerüzemeltető a szállítóvezeték betáplálási-kiadási pontjának maximális kapacitásait, legnagyobb és legkisebb nyomását, továbbá a földgáztároló engedélyes a földgáztároló kapacitását önállóan működő fizikai pontonként köteles a működési engedély iránti kérelmében feltüntetni.
+
+(3) A szállítási rendszerüzemeltető és a földgáztároló engedélyében feltüntetett maximális kapacitás mértékén felül nem megszakítható kapacitás kizárólag a 715/2009/EK európai parlamenti és tanácsi rendelet szerinti többletkapacitásként értékesíthető.
+
+[^265]: A Vhr. 77. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

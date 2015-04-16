@@ -1,20 +1,9 @@
-89. §[^294] (1)[^295] A kapacitás lekötéshez a szállítási rendszerüzemeltető minden év február 15-ig elkészíti és honlapján nyilvánossá teszi a kiadási pontokon a következő gázévben biztosítható földgáz minőségi jellemzőket.
+89. §[^277] (1) A rendszerhasználó a betáplálási-kiadási ponton lekötött kapacitásra, és az összekapcsolási pontra vonatkozóan nominálást és napon belüli újranominálást ad le az érintett rendszerüzemeltetők informatikai platformjára az ÜKSZ-ben rögzített folyamatoknak megfelelően.
 
-(2)[^296] A rendszerhasználók, illetve a termelők kötelesek minden év december 31-ig az ÜKSZ-ben rögzített módon megadni a szállítási rendszerüzemeltetőnek a következő gázévben a forrásoldali betáplálás során általuk garantált földgáz minőségi jellemzőket. A kapott adatok alapján a szállítási rendszerüzemeltető meghatározza a földgáz minőségi jellemzők kiadási ponton biztosítható értékeit.
+(2) A rendszerüzemeltetők – a kapcsolt kapacitásokra leadott együttes nominálási eljárás keretében leadott nominálások kivételével – nominálási egyezőségi vizsgálatot folytatnak le az (1) bekezdés szerinti betáplálási-kiadási ponton, valamint az összekapcsolási ponton az ÜKSZ-ben meghatározott szabályoknak megfelelően.
 
-(3)[^297] Ha a betáplált földgáz szállítási rendszerüzemeltető által meghatározott garantált minősége folyamatosan 90 napon keresztül nem teljesül, a rendszerüzemeltetők, rendszerhasználók jogosultak annak módosítását kezdeményezni.
+(3) A rendszerüzemeltetők az ÜKSZ-ben meghatározott-szabályoknak megfelelően kötelesek elvégezni a napon belüli, napi és havi allokálási feladataikat.
 
-(4) A minőségi eltérések kezelésének részletes szabályait az ÜKSZ tartalmazza.
+(4) A rendszerüzemeltetők a kapacitáslekötési, nominálási, újranominálási és allokálási feladataikhoz szükséges adatokat kötelesek elektronikus módon, az ÜKSZ-ben meghatározott eljárásrend szerint a kapcsolódó rendszerüzemeltetők, valamint a rendszerhasználók részére eljuttatni.
 
-(5) Az ÜKSZ-ben rögzíteni kell:
-
-a) a nyilvántartott kapacitások feletti igénybejelentés és nyilvántartásba vétel eljárásrendjét,
-
-b) az igénybejelentés és nyilvántartásba vétel határidejét,
-
-c) a nyilvántartott, de nem igényelt kapacitások átlátható értékesítésének részletes feltételeit.
-
-[^294]: A Vhr. 89. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^295]: A Vhr. 89. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^296]: A Vhr. 89. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^297]: A Vhr. 89. § (3) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+[^277]: A Vhr. 89. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

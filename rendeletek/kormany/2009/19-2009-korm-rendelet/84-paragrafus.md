@@ -1,3 +1,3 @@
-84. §[^279] A rendszerhasználó köteles a szerződéses biztosíték (banki letét, bankgarancia, vagy egyéb biztosíték) érvényességét a rendszerüzemeltető GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződésében foglalt határidőig biztosítani.
+84. §[^272] A rendszerhasználó a betáplálási-kiadási pontok szabad kapacitásait a GET 71. § (8) bekezdése alapján a 984/2013/EU bizottsági rendeletben megfogalmazott aukciós naptár, valamint a 15. mellékletben rögzített kapacitáslekötési táblázat szerinti kapacitáslekötési időpontokban, a kapacitáslekötési platform szabályzatban, az ÜKSZ-ben vagy az üzletszabályzatban rögzített eljárásrend szerint rendszerhasználati szerződéssel kötheti le.
 
-[^279]: A Vhr. 84. §-a a 378/2011. (XII. 31.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^272]: A Vhr. 84. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

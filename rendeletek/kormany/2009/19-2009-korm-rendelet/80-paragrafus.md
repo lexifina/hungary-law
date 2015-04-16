@@ -1,9 +1,3 @@
-80. §[^268] A rendszerüzemeltető és a termelő köteles a rendszerek kapcsolódási pontjain az alábbi, a kapacitáslekötéshez szükséges, azonos szerződéses feltételeket meghatározni:
+80. §[^268] A földgázelosztói rendszerhasználati és a földgáz-kereskedelmi szerződésnek rendelkeznie kell a korlátozás során alkalmazandó eljárásrendről.
 
-a) a leköthető megszakítható és nem megszakítható kapacitást,
-
-b) az üzemszerű nyomást,
-
-c) az üzemszerű minőséget.
-
-[^268]: A Vhr. 80. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^268]: A Vhr. 80. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

@@ -1,3 +1,9 @@
-81. §[^269] A rendszerüzemeltető technológiai célra és a veszteségeik pótlására, pályáztatás útján, átlátható módon köteles földgázt beszerezni.
+81. §[^269] A rendszerüzemeltető és a termelő köteles a rendszerek kapcsolódási pontjain az alábbi, a kapacitáslekötéshez szükséges, azonos szerződéses feltételeket meghatározni:
 
-[^269]: A Vhr. 81. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+a) a leköthető megszakítható és nem megszakítható kapacitást,
+
+b) az üzemszerű nyomást,
+
+c) az üzemszerű minőséget.
+
+[^269]: A Vhr. 81. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

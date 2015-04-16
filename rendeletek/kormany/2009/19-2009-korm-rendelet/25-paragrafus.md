@@ -1,20 +1,20 @@
-25. §[^104] (1)[^105] A lakossági fogyasztónak a földgázkereskedő által kezdeményezett kikapcsolására csak olyan időpontban kerülhet sor, amelyről a földgázelosztó a lakossági fogyasztót a GET 29. § (3a) bekezdése szerinti második értesítéssel egyidejűleg előre értesítette. Az értesítésben a földgázelosztó köteles meghatározni azt az 5 munkanapot, amely időszakon belül a kikapcsolást a földgázkereskedő a GET 29. § (3a) bekezdése szerinti kezdeményezése esetén végre kívánja hajtani. Az értesítésnek – a földgázkereskedő által szolgáltatott adatok alapján – tételesen tartalmaznia kell a lakossági fogyasztóval szemben fennálló teljes követelést jogcímenként összegszerűen, azok eredeti fizetési határidejével együtt, továbbá – nem vagy nem kizárólag számlatartozásból eredő követelés esetében – a polgári peres vagy fizetési meghagyásos eljárás megindításának időpontját. Az értesítést a földgázelosztó a földgázkereskedővel együttműködve is teljesítheti.
+25. §[^108] (1)[^109] A lakossági fogyasztónak a földgázkereskedő által kezdeményezett kikapcsolására csak olyan időpontban kerülhet sor, amelyről a földgázelosztó a lakossági fogyasztót a GET 29. § (3a) bekezdése szerinti második értesítéssel egyidejűleg előre értesítette. Az értesítésben a földgázelosztó köteles meghatározni azt az 5 munkanapot, amely időszakon belül a kikapcsolást a földgázkereskedő a GET 29. § (3a) bekezdése szerinti kezdeményezése esetén végre kívánja hajtani. Az értesítésnek – a földgázkereskedő által szolgáltatott adatok alapján – tételesen tartalmaznia kell a lakossági fogyasztóval szemben fennálló teljes követelést jogcímenként összegszerűen, azok eredeti fizetési határidejével együtt, továbbá – nem vagy nem kizárólag számlatartozásból eredő követelés esetében – a polgári peres vagy fizetési meghagyásos eljárás megindításának időpontját. Az értesítést a földgázelosztó a földgázkereskedővel együttműködve is teljesítheti.
 
-(1a)[^106] A lakossági fogyasztó elosztó általi (1) bekezdés szerinti értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon történik. Ha az értesítés „nem kereste” jelzéssel érkezik vissza, az iratot – ellenkező bizonyításig – a postai kézbesítés megkísérlésének napját követő 10. munkanapon kézbesítettnek kell tekinteni.
+(1a)[^110] A lakossági fogyasztó elosztó általi (1) bekezdés szerinti értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon történik. Ha az értesítés „nem kereste” jelzéssel érkezik vissza, az iratot – ellenkező bizonyításig – a postai kézbesítés megkísérlésének napját követő 10. munkanapon kézbesítettnek kell tekinteni.
 
-(1b)[^107] Ha a felhasználóval szemben a földgázelosztónak van követelése, a GET 28/A. § (3) bekezdése, 29. § (3)–(6) bekezdése és az (1) bekezdés szerinti rendelkezések az elosztó eljárására megfelelően alkalmazandók.
+(1b)[^111] Ha a felhasználóval szemben a földgázelosztónak van követelése, a GET 28/A. § (3) bekezdése, 29. § (3)–(6) bekezdése és az (1) bekezdés szerinti rendelkezések az elosztó eljárására megfelelően alkalmazandók.
 
 (2) Ha a földgázelosztó a kikapcsolást a földgázkereskedő értesítésének kézhezvételétől számított 30 napon belül nem tudja végrehajtani, köteles erről a földgázkereskedőt értesíteni. A földgázkereskedő a kikapcsolás meghiúsulásáról szóló értesítést követően a földgázelosztó egyidejű tájékoztatása mellett a földgázkereskedelmi szerződést felmondhatja.
 
-(3)[^108]
+(3)[^112]
 
 (4) A lakossági fogyasztó – ha a földgázellátásra igényt tart – tartozásának rendezését a földgázkereskedő felé igazolni köteles.
 
-(5)[^109]
+(5)[^113]
 
-[^104]: A Vhr. 25. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^105]: A Vhr. 25. § (1) bekezdése a 119/2013. (IV. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^106]: A Vhr. 25. § (1a) bekezdését a 119/2013. (IV. 23.) Korm. rendelet 18. §-a iktatta be.
-[^107]: A Vhr. 25. § (1b) bekezdését a 119/2013. (IV. 23.) Korm. rendelet 18. §-a iktatta be.
-[^108]: A Vhr. 25. § (3) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
-[^109]: A Vhr. 25. § (5) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^108]: A Vhr. 25. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^109]: A Vhr. 25. § (1) bekezdése a 119/2013. (IV. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^110]: A Vhr. 25. § (1a) bekezdését a 119/2013. (IV. 23.) Korm. rendelet 18. §-a iktatta be.
+[^111]: A Vhr. 25. § (1b) bekezdését a 119/2013. (IV. 23.) Korm. rendelet 18. §-a iktatta be.
+[^112]: A Vhr. 25. § (3) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^113]: A Vhr. 25. § (5) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

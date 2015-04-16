@@ -1,27 +1,5 @@
-91. §[^302] (1)[^303] A rendszerhasználó a szállítási rendszerüzemeltetővel fennálló szerződés szerinti szolgáltatási időpontig a másodlagos piacon értékesítheti a gázátadó állomáson, illetve a betáplálási ponton leszerződött kapacitásokat.
+91. §[^279] (1) Az a rendszerhasználó, aki a rendszer-összekötési pont szabad kapacitását Magyarország területén történő átszállításra vagy bértárolásra veszi igénybe, a kapacitás megszerzésekor az ÜKSZ-ben meghatározott módon az átszállítandó mennyiségre vagy a bértárolásra rendszerhasználati szerződést kell kötnie.
 
-(2)[^304] A kapacitások másodlagos értékesítése a szállítási rendszerüzemeltető üzletszabályzatában rögzített módon, szabványosított eljárásrend alapján történik.
+(2) Az átszállításra vagy bértárolásra lekötött, de fel nem használt kapacitásra a GET és e rendelet rendelkezéseit kell alkalmazni.
 
-(3) A kapacitás másodlagos értékesítését a rendszerhasználó a gáznapot megelőző napon, az ÜKSZ-ben meghatározott időpontig végezheti.
-
-(4)[^305] A szállítási rendszerüzemeltető az ÜKSZ szerinti időpontig értékesített kapacitásokat az új vásárlónak az ÜKSZ-ben rögzített nominálási ügyrend szerint biztosítja.
-
-(5)[^306] A másodlagos piacon értékesített kapacitásra a szállítási rendszerüzemeltető az értékesítőtől érvényes nominálást nem fogad be. A kapacitás túllépés vizsgálatánál a szállítási rendszerüzemeltető a másodlagos piacon értékesített kapacitással csökkentett értéket köteles figyelembe venni.
-
-(6)[^307] A gáznapot megelőző napon az ÜKSZ szerinti időpontig a rendszerhasználó által nem értékesített és nem kihasznált kapacitásokat a szállítási rendszerüzemeltető köteles megszakítható kapacitásként felajánlani gáznapi értékesítésre. Az így értékesített kapacitás díja a szállítási rendszerüzemeltetőt illeti. Megszakítható kapacitást a gáznapra az a rendszerhasználó köthet le, aki rendelkezik hatályos szerződéssel a rendszerüzemeltetővel és biztosította a szerződéses garanciákat.
-
-(7)[^308] Ha a szállítási rendszerüzemeltető által a (6) bekezdés szerint értékesített megszakítható kapacitást a gáznapon a szállítási rendszerüzemeltető megszakítja, a vásárlónak díjfizetési kötelezettsége nem keletkezik. A megszakítható kapacitás kiszolgálásának megszüntetése esetén a rendszerüzemeltetők kötelesek az ÜKSZ-ben meghatározott módon újranominálást biztosítani a rendszerhasználónak.
-
-(8) A megszakítható kapacitások értékesítésére és felhasználására a rendszerüzemeltetők között harmonizált eljárásrendet kell kialakítani az ÜKSZ-ben, különös tekintettel
-
-a) a rendszerek csatlakozási pontján leköthető megszakítható kapacitások meghatározására,
-
-b) a megszakítható kapacitás kiszolgálásának megszüntetése esetén alkalmazott eljárásrendre és újranominálási szabályokra.
-
-[^302]: A Vhr. 91. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^303]: A Vhr. 91. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^304]: A Vhr. 91. § (2) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^305]: A Vhr. 91. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^306]: A Vhr. 91. § (5) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^307]: A Vhr. 91. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
-[^308]: A Vhr. 91. § (7) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (7) bekezdése szerint módosított szöveg.
+[^279]: A Vhr. 91. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

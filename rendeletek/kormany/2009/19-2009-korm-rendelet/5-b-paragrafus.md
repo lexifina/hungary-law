@@ -1,3 +1,3 @@
-5/B. §[^41] A szállítási rendszerüzemeltető a GET 9. § (2) bekezdésének megfelelően olyan elektronikus nyilvántartást köteles vezetni, amely biztosítja a kiegyensúlyozás bevételeinek és kiadásainak engedélyesenkénti rögzítését. A nyilvántartott adatokat a szállítási rendszerüzemeltető 5 évig köteles őrizni.
+5/B. §[^45] A szállítási rendszerüzemeltető a GET 9. § (4) bekezdésének megfelelően olyan elektronikus nyilvántartást köteles vezetni, amely biztosítja a rendszeregyensúlyozási tevékenységének végzéséhez kapcsolódó összes adat, különösen az e tevékenységéhez kapcsoló földgáz vásárlási és eladási mennyiségek és árak, valamint a rendszerhasználókkal történt napi kiegyensúlyozási díjelszámolások adatainak rögzítését.
 
-[^41]: A Vhr. 5/B. §-t a 75/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be.
+[^45]: A Vhr. 5/B. §-t a 75/2011. (V. 2.) Korm. rendelet 17. §-a iktatta be, szövege a 91/2015. (IV. 9.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

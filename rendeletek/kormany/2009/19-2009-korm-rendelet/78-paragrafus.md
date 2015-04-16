@@ -1,7 +1,3 @@
-78. §[^266] (1) A rendszerüzemeltető köteles az alapszolgáltatásokra a GET-ben és e rendeletben meghatározott követelményeknek megfelelő szerződésmintákat kialakítani és az üzletszabályzatukban rögzíteni.
+78. §[^266] A rendszerüzemeltető köteles betartani a GET-ben, e rendeletben, az ÜKSZ-ben és a kapacitáslekötési platform szabályzatban meghatározott kapacitás lekötésnél alkalmazott eljárásrendet, valamint a szerződés pénzügyi garanciáira és a szerződésszegéssel összefüggésben a szerződés teljesítésének felfüggesztésére vonatkozó előírásokat, amelyek nem sérthetik az egyenlő bánásmód követelményét.
 
-(2) A rendszerüzemeltető által nyújtott választható szolgáltatásokat, az alkalmazandó szerződéses feltételeket és díjakat az üzletszabályzatban kell rögzíteni.
-
-(3) Az üzletszabályzatban nem szereplő, egyedileg igényelt nem alapszolgáltatásnak minősülő szolgáltatások feltételeiben és díjában a rendszerüzemeltető és az igénylő egyedileg, az azonos bánásmód elve szerint állapodik meg.
-
-[^266]: A Vhr. 78. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^266]: A Vhr. 78. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
