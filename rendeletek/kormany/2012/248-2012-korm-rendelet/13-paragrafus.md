@@ -1,3 +1,3 @@
-13. §[^20]
+13. §[^27]
 
-[^20]: A 12–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 12–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

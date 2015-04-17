@@ -1,5 +1,5 @@
-8. § (1) A hallgatónak az adott képzésben történő előrehaladását a megszerzett kreditek összege fejezi ki. A hallgató az oklevél megszerzéséhez szükséges krediteket a képzési időnél rövidebb vagy hosszabb idő alatt is megszerezheti.
+8. §[^22] (1) A Hivatal a döntéseit elsődlegesen elektronikusan hozza meg, amely hiteles elektronikus iratnak minősül.
 
-(2) A kredit értéke – feltéve, hogy a hallgató teljesítményét elfogadták – nem függ attól, hogy a hallgató a tudására milyen értékelést kapott.
+(2) Ha a Hivatal a döntését az ügyféllel elektronikus úton közli, és az ügyfél a döntés átvételét harminc napon belül nem igazolja vissza, a Hivatal a döntést papír alapon ismételten közli. Ilyen esetben a döntés közlésének napja a második közlés napja.
 
-(3) A kredittel értékelt tanulmányi teljesítményt – ha annak előfeltétele fennáll – bármelyik felsőoktatási intézményben folytatott tanulmányok során el kell ismerni, függetlenül attól, hogy melyik felsőoktatási intézményben, milyen képzési szinten folytatott tanulmányok során szerezték azt.
+[^22]: A 8. § a 87/2015. (IV. 9.) Korm. rendelet 75. § (6) bekezdésével megállapított szöveg.
