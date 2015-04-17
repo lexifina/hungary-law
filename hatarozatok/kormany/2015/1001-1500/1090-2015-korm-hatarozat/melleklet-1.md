@@ -16,8 +16,10 @@
 
 ## Határidő: azonnal
 
-## 2. egyetért azzal, hogy a belügyminiszter az 1. pont szerint átcsoportosított összeg terhére, külön pályázat és kérelem benyújtása nélkül a 2. melléklet szerinti összegű visszatérítendő költségvetési támogatást (a továbbiakban: támogatás) nyújtson a 2. melléklet szerinti önkormányzatoknak az ott meghatározott célra, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatói okiratot adjon ki, 2015. június 30-áig történő felhasználási kötelezettség, továbbá 2015. július 30-áig történő visszafizetési kötelezettség előírása mellett;
+## 2.[^1] egyetért azzal, hogy a belügyminiszter az 1. pont szerint átcsoportosított összeg terhére, külön pályázat és kérelem benyújtása nélkül a 2. melléklet szerinti összegű vissza nem térítendő költségvetési támogatást (a továbbiakban: támogatás) nyújtson a 2. melléklet szerinti önkormányzatoknak az ott meghatározott célra, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatói okiratot adjon ki, 2015. június 30-áig történő felhasználási kötelezettség mellett;
 
 ## 3. egyetért azzal, hogy a belügyminiszter az 1. pont szerinti jogcím terhére, a támogatói okirat kiadását követően soron kívül folyósítsa a támogatást a 2. melléklet szerinti önkormányzatok számára.
 
 1. melléklet az 1090/2015. (III. 4.) Korm. határozathoz
+
+[^1]: A 2. pont az 1214/2015. (IV. 17.) Korm. határozat 2. és 3. pontja szerint módosított szöveg.
