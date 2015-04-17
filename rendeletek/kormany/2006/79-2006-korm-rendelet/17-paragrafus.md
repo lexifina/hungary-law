@@ -1,11 +1,5 @@
+## 16. §[^37]
+
 ## Oktatói azonosító szám
 
-17. § (1) Az oktatói jogviszonyt első alkalommal létesítő oktatónak, aki nem rendelkezik oktatói azonosító számmal, az Országos Felsőoktatási Információs Központ a bejelentéstől számított tizenöt napon belül tizenegy jegyű oktatói azonosító számot képez, és azt az intézmény számára a felsőoktatási információs rendszerben elérhetővé teszi. A felsőoktatási intézmény lehetővé teszi az oktató számára oktatói azonosító számának megismerését. Az oktatói azonosító számról az intézmény az oktató kérelmére, a kérelem benyújtásától számított tizenöt munkanapon belül – az oktató nevének, születési helyének és idejének, anyja születési nevének egyidejű feltüntetésével – igazolást állít ki. A kérelmet az oktatási intézménynél kell előterjeszteni.
-
-(2) Ugyanannak a személynek újabb azonosító szám nem adható ki. Amennyiben egy felsőoktatási intézmény azonosító szám nélkül jelenti be egy személy alkalmazását, de az adott személy azonosító számmal rendelkezik, az Országos Felsőoktatási Információs Központ az érintett felsőoktatási intézménnyel az azonosító számot tizenöt napon belül közli.
-
-(3)[^64] Az elveszett, megsemmisült vagy megrongálódott igazolás helyett, illetve az igazolás tartalmát érintő adatváltozás esetén az intézmény bejelentése alapján az Országos Felsőoktatási Információs Központ az azonosító számról igazolást állít ki és azt megküldi az intézménynek a bejelentéstől számított harminc napon belül, amit az intézmény tizenöt napon belül átad a oktatónak. Az igazolás kiállításáért az Országos Felsőoktatási Információs Központnak – a miniszter által szabályozott mértékű – igazgatási szolgáltatási díj jár.
-
-(4) Az azonosító szám a felsőoktatásról szóló törvényben szabályozott módon kezelhető és használható fel. Az azonosító számot e rendelet 9. számú mellékletében meghatározottak szerint kell képezni.
-
-[^64]: A 17. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 319. § g) pontja szerint módosított szöveg.
+[^37]: A 16. §-t a 87/2015. (IV. 9.) Korm. rendelet 76. § c) pontja hatályon kívül helyezte.

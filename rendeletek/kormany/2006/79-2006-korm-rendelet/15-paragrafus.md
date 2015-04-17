@@ -6,11 +6,11 @@
 
 a) az üres bizonyítvány-, oklevél-nyomtatványokat köteles zárt helyen elhelyezni oly módon, hogy ahhoz csak a jogosult személy férjen hozzá,
 
-b)[^42] az elrontott és nem helyesbíthető, illetve a kicserélt bizonyítvány-, oklevél-nyomtatványokról jegyzőkönyvet készít és a rontott, kicserélt példányokat megsemmisíti,
+b)[^16] az elrontott és nem helyesbíthető, illetve a kicserélt bizonyítvány-, oklevél-nyomtatványokról jegyzőkönyvet készít és a rontott, kicserélt példányokat megsemmisíti,
 
 c) nyilvántartást vezet az üres, illetve az elrontott és nem helyesbíthető, továbbá a kicserélt bizonyítvány-, oklevél-nyomtatványokról.
 
-(3)[^43] A Hivatal a miniszter által vezetett minisztérium hivatalos lapjában az elveszett vagy megsemmisült üres oklevél-nyomtatvány, oklevélmelléklet-nyomtatvány érvénytelenségéről szóló közlemény közzétételét kezdeményezi.
+(3)[^17] A Hivatal a miniszter által vezetett minisztérium hivatalos lapjában az elveszett vagy megsemmisült üres oklevél-nyomtatvány, oklevélmelléklet-nyomtatvány érvénytelenségéről szóló közlemény közzétételét kezdeményezi.
 
-[^42]: A 15. § (2) bekezdésének b) pontja a 175/2006. (VIII. 14.) Korm. rendelet 36. § (3) bekezdésével megállapított szöveg.
-[^43]: A 15. § (3) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 319. § d) pontja szerint módosított szöveg.
+[^16]: A 15. § (2) bekezdésének b) pontja a 175/2006. (VIII. 14.) Korm. rendelet 36. § (3) bekezdésével megállapított szöveg.
+[^17]: A 15. § (3) bekezdése a 372/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 319. § d) pontja szerint módosított szöveg.

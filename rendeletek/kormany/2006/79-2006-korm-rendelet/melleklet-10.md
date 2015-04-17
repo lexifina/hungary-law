@@ -1,24 +1,4 @@
-## A hallgatói és az oktatói azonosító szám
-
-## képzésének szabálya
-
-## 1. Az azonosító szám tizenegy jegyű szám.
-
-## 2. Az azonosító szám képzése:
-
-## a) az 1. számjegy konstans 7-es szám,
-
-## b) a 2–10. számjegyek összessége egy garantáltan egyedi, véletlenszerűen generált szám,
-
-## c) a 11. számjegy az 1–10. számjegyek felhasználásával, matematikai módszerekkel képzett ellenőrző szám.
-
-## 3. Az azonosító szám 11. számjegyét úgy kell képezni, hogy a 2. a)–b) pontok szerint képzett 10 számjegy mindegyikét szorozni kell azzal a sorszámmal, ahányadik helyet foglalja el az azonosító számon belül. (Első számjegy szorozva eggyel, második számjegy szorozva kettővel és így tovább.)
-
-## Az így kapott szorzatok összegét el kell osztani 11-gyel, és az osztás maradéka a 11. számjeggyel lesz egyenlő.
-
-## A 2. b) pont szerinti sorszám nem adható ki, ha a 11-gyel való osztás maradéka egyenlő tízzel.
-
-10. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^132]
+10. számú melléklet a 79/2006. (IV. 5.) Korm. rendelethez[^66]
 
 A kötelezően használt okiratok formaszövegei
 
@@ -774,4 +754,4 @@ Ezt az igazolást [VISELT NÉV] számára állítottuk ki, aki [SZÜLETÉSI ÉV]
 
 keltezés, bélyegzőlenyomat, aláírások, záradék
 
-[^132]: A 10. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (6) bekezdésével megállapított, valamint a 198/2008. (VIII. 4.) Korm. rendelet 16. § (6)–(8) bekezdése, a 98/2009. (IV. 24.) Korm. rendelet 15. §-a, a 39/2011. (III. 22.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^66]: A 10. számú melléklet a 372/2007. (XII. 23.) Korm. rendelet 19. § (6) bekezdésével megállapított, valamint a 198/2008. (VIII. 4.) Korm. rendelet 16. § (6)–(8) bekezdése, a 98/2009. (IV. 24.) Korm. rendelet 15. §-a, a 39/2011. (III. 22.) Korm. rendelet 21. §-a szerint módosított szöveg.

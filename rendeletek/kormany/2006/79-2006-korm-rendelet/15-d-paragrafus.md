@@ -1,4 +1,4 @@
-15/D. §[^49] (1) A felsőoktatási intézmény által alkalmazott leckekönyv lehet
+15/D. §[^23] (1) A felsőoktatási intézmény által alkalmazott leckekönyv lehet
 
 a) nyomdai úton előállított, lapjaiban sorszámozott, szétválaszthatatlanul összefűzött formanyomtatvány;
 
@@ -60,7 +60,7 @@ b) a hallgató a tárgyfelvételről az intézmény szervezeti és működési s
 
 c) az intézmény szervezeti és működési szabályzatában szabályozott annak módja, hogy a hallgató a tanulmányi időszak lezárulta után legalább 14 napon belül kifogással élhet a nyilvántartásban szereplő értékelésre vonatkozó adattal szemben;
 
-d)[^50] az intézmény szervezeti és működési szabályzatában szabályozott annak módja, hogy a hallgató a tárgyfelvételi időszak lezárulta után legalább 5 napon belül kifogással élhet a nyilvántartásban szereplő tárgyfelvételre vonatkozó adattal szemben;
+d)[^24] az intézmény szervezeti és működési szabályzatában szabályozott annak módja, hogy a hallgató a tárgyfelvételi időszak lezárulta után legalább 5 napon belül kifogással élhet a nyilvántartásban szereplő tárgyfelvételre vonatkozó adattal szemben;
 
 e) a c)–d) pont szerinti kifogás kivizsgálásának és esetleges javításának módja a szervezeti és működési szabályzatban rendezett.
 
@@ -92,5 +92,5 @@ c) a képzési időszaknak megfelelő bontásban a tanulmányok során felvett t
 
 d) a hallgató tanulmányait befolyásoló határozat hivatkozási számát.
 
-[^49]: A 15/D. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
-[^50]: A 15/D. § (4) bekezdés d) pontja a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés e) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^23]: A 15/D. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
+[^24]: A 15/D. § (4) bekezdés d) pontja a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés e) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.

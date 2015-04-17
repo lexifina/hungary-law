@@ -1,4 +1,4 @@
-15/B. §[^47] (1) A törzslap a hallgató személyes és tanulmányi adatainak nyilvántartására szolgál.
+15/B. §[^21] (1) A törzslap a hallgató személyes és tanulmányi adatainak nyilvántartására szolgál.
 
 (2) A törzslapon fel kell tüntetni a felsőoktatási intézmény nevét, intézményi azonosítóját, címét, a hallgató nevét és hallgatói azonosítóját.
 
@@ -66,4 +66,4 @@ f) fogyatékossággal kapcsolatos adatok, feltüntetve a szakvéleményt kiáll�
 
 g) a hallgatói jogok és kötelezettségek alapján hozott határozatok.
 
-[^47]: A 15/B. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
+[^21]: A 15/B. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.

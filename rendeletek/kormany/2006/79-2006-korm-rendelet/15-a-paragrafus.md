@@ -1,6 +1,6 @@
-## Kötelezően használt nyomtatványok[^44]
+## Kötelezően használt nyomtatványok[^18]
 
-15/A. §[^45] (1) A felsőoktatási intézmények által kötelezően használt nyomtatványok:
+15/A. §[^19] (1) A felsőoktatási intézmények által kötelezően használt nyomtatványok:
 
 a) törzslap;
 
@@ -46,12 +46,12 @@ s) kreditigazolás;
 
 t) a hallgatói adatkezelési nyilatkozat;
 
-u)[^46] tanítói műveltségterületi igazolás
+u)[^20] tanítói műveltségterületi igazolás
 
 (2) Az (1) bekezdés d) és f) pontjában, valamint az m) pont alpontjaiban meghatározott formanyomtatványok összevonhatók.
 
 (3) Az (1) bekezdés g), n)–t) pont szerinti formanyomtatványok magyar nyelvű szövegét a 10. számú melléklet tartalmazza.
 
-[^44]: A 15/A. §-t megelőző alcímet a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
-[^45]: A 15/A. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
-[^46]: A 15/A. § (1) bekezdés u) pontját a 39/2011. (III. 22.) Korm. rendelet 18. §-a iktatta be.
+[^18]: A 15/A. §-t megelőző alcímet a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^19]: A 15/A. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
+[^20]: A 15/A. § (1) bekezdés u) pontját a 39/2011. (III. 22.) Korm. rendelet 18. §-a iktatta be.

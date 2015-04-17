@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-79-20-2
 | 2013-11-13 | 2006-79-20-22.19 | 393/2013. (XI. 12.) Korm. rendelet |
 | 2014-09-05 | 2006-79-20-22.20 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2006-79-20-22.21 | 95/2012. (V. 15.) Korm. rendelet |
+| 2015-04-17 | 2006-79-20-22.22 | 87/2015. (IV. 9.) Korm. rendelet |

@@ -1,4 +1,4 @@
-15/I. §[^55] (1) A záróvizsga jegyzőkönyv – hallgatónként – a záróvizsga jegyzőkönyvezését szolgáló nyomtatvány. A záróvizsga jegyzőkönyv tartalmazza a hallgató nevét, hallgatói azonosítóját, a záróvizsga időpontját, részeinek megnevezését, értékelését, a záróvizsga bizottság tagjainak nevét, aláírását, a szakdolgozat vagy diplomamunka címét, a szakdolgozat vagy diplomamunka megvédésének időpontját, a szakdolgozat vagy diplomamunka témavezetőjének és külső bírálójának nevét. A záróvizsga jegyzőkönyvet a hallgató törzslapjához kell csatolni.
+15/I. §[^29] (1) A záróvizsga jegyzőkönyv – hallgatónként – a záróvizsga jegyzőkönyvezését szolgáló nyomtatvány. A záróvizsga jegyzőkönyv tartalmazza a hallgató nevét, hallgatói azonosítóját, a záróvizsga időpontját, részeinek megnevezését, értékelését, a záróvizsga bizottság tagjainak nevét, aláírását, a szakdolgozat vagy diplomamunka címét, a szakdolgozat vagy diplomamunka megvédésének időpontját, a szakdolgozat vagy diplomamunka témavezetőjének és külső bírálójának nevét. A záróvizsga jegyzőkönyvet a hallgató törzslapjához kell csatolni.
 
 (2) A doktori szigorlati jegyzőkönyv tartalmazza a felsőoktatási intézmény nevét, intézményi azonosítóját, a doktorjelölt nevét, hallgatói azonosítóját, egyetemi végzettségét, a témavezető nevét, oktatói azonosítóját, a megszerzendő fokozat tudományágát, a szigorlaton elhangzott kérdéseket és a válaszok minősítését, a szigorlat minősítését, a szigorlati bizottság elnökének és tagjainak nevét, oktatói azonosítóját és aláírását.
 
@@ -6,4 +6,4 @@
 
 (4) A vizsgalap tartalmazza a tantárgy (tantervi egység) megnevezését, a vizsga időpontját, a vizsgáztató oktató nevét, oktatói azonosítóját és aláírását, a vizsgán részt vevő hallgató nevét, hallgatói azonosítóját, a vizsga értékelését. Nem vizsga keretében szerzett érdemjegyekről is vizsgalap állítandó ki.
 
-[^55]: A 15/I. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
+[^29]: A 15/I. §-t a 372/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be. E módosító rendelet 24. § (4) bekezdése alapján a rendelkezést a 2008. február 1. napját követően hallgatói jogviszonyt létesített személyek esetében kötelező alkalmazni.
