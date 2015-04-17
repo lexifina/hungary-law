@@ -6,13 +6,13 @@ a) kidolgozza és közzéteszi az Akkreditációs Kézikönyvben az akkreditáci
 
 b) felülvizsgálja a Kézikönyvet évente egyszer, szükség esetén módosítja azt,
 
-c)[^12] elbírálja a vizsgaközpont, a vizsgahelyek, a vizsgarendszer létesítésére és a vizsgarendszer új nyelvvel, új szinttel történő bővítésére irányuló akkreditációs kérelmet, valamint a vizsgaközpont akkreditációjának megújítására vonatkozó kérelmet és
+c)[^13] elbírálja a vizsgaközpont, a vizsgahelyek, a vizsgarendszer létesítésére és a vizsgarendszer új nyelvvel, új szinttel történő bővítésére irányuló akkreditációs kérelmet, valamint a vizsgaközpont akkreditációjának megújítására vonatkozó kérelmet és
 
-d)[^13] ellenőrzi a vizsgaközpontok működését.
+d)[^14] ellenőrzi a vizsgaközpontok működését.
 
-(2)[^14] A Hivatal dönt első fokon az akkreditációs kérelmekről, végzi a külföldön szerzett nyelvvizsga-bizonyítványok honosítását, vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását, amely a (2a) bekezdés b) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2)[^15] A Hivatal dönt első fokon az akkreditációs kérelmekről, végzi a külföldön szerzett nyelvvizsga-bizonyítványok honosítását, vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását, amely a (2a) bekezdés b) és c) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(2a)[^15] A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása tartalmazza:
+(2a)[^16] A nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartása tartalmazza:
 
 a) a vizsgázó személy természetes személyazonosító adatait;
 
@@ -50,13 +50,13 @@ cb) a bizonyítvány státusza: beterjesztés, jóváhagyás, a nyomdába és a 
 
 (6) A Hivatal hivatalos megkeresésre állást foglal a nyelvvizsgával összefüggő ügyekben.
 
-(7)[^16] A Hivatal szakmai egyeztetés céljából rendszeresen, de évente legalább kétszer összehívja az akkreditált vizsgaközpontok képviselőit.
+(7)[^17] A Hivatal szakmai egyeztetés céljából rendszeresen, de évente legalább kétszer összehívja az akkreditált vizsgaközpontok képviselőit.
 
-(8)[^17] A Hivatal részt vesz a nyelvvizsgáztatás minőségének fenntartásában, fejlesztésében.
+(8)[^18] A Hivatal részt vesz a nyelvvizsgáztatás minőségének fenntartásában, fejlesztésében.
 
-[^12]: Az 5. § (1) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^13]: Az 5. § (1) bekezdés d) pontját a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^14]: Az 5. § (2) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^15]: Az 5. § (2a) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^16]: Az 5. § (7) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (8) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^13]: Az 5. § (1) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (1) bekezdés d) pontját a 33/2014. (II. 18.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^15]: Az 5. § (2) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: Az 5. § (2a) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^17]: Az 5. § (7) bekezdése a 33/2014. (II. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (8) bekezdését a 33/2014. (II. 18.) Korm. rendelet 3. § (3) bekezdése iktatta be.

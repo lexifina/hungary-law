@@ -1,8 +1,8 @@
-## 7. §[^20]
+## 7. §[^21]
 
 ## A vizsgaközpontok és vizsgarendszerek akkreditálása
 
-8. § (1)[^21] Az a vizsgaközpont akkreditálható, amely
+8. § (1)[^22] Az a vizsgaközpont akkreditálható, amely
 
 a) rendelkezik papír alapú vagy számítógépes nyelvvizsgák lefolytatásához szükséges tárgyi feltételekkel,
 
@@ -14,9 +14,9 @@ c) angol, francia, német, olasz, orosz, spanyol nyelv vizsgáztatása esetén n
 
 a) minden akkreditált nyelvéből, minden szinten, évente legalább egyszer hirdet vizsgát;
 
-b)[^22] egy-egy készség mérésére irányuló feladat, változatlan formában, évente legfeljebb egy vizsgaalkalommal használható fel a beszédkészség mérésére irányuló feladat kivételével;
+b)[^23] egy-egy készség mérésére irányuló feladat, változatlan formában, évente legfeljebb egy vizsgaalkalommal használható fel a beszédkészség mérésére irányuló feladat kivételével;
 
-c)[^23] a vizsgák követelményrendszeréről, lebonyolításáról nyomtatott formában és elektronikus felületen folyamatosan tájékoztatja a vizsgázókat, honlapján nyelvenként és szintenként legalább egy minta-feladatsort közzétesz;
+c)[^24] a vizsgák követelményrendszeréről, lebonyolításáról nyomtatott formában és elektronikus felületen folyamatosan tájékoztatja a vizsgázókat, honlapján nyelvenként és szintenként legalább egy minta-feladatsort közzétesz;
 
 d) vizsgarendszereit folyamatosan fejleszti;
 
@@ -28,10 +28,10 @@ g) képzi, és évente legalább egyszer továbbképzi a vizsgáztató személye
 
 h) vizsgaszabályzatában meghatározza a vizsga szabályainak megsértéséhez fűződő következményeket.
 
-(3)[^24] A vizsgaközpont a nyelvvizsgát a vizsgaközponton kívül is megszervezheti. Ebben az esetben a központtól eltérő vizsgahelyeket szintén akkreditációs eljárás alá kell vonni az 5. § (1) bekezdés c) pontja szerint. Számítógépes nyelvvizsga esetén az akkreditációs eljárás kiterjed a számítógépes környezet alkalmasságának a vizsgálatára is.
+(3)[^25] A vizsgaközpont a nyelvvizsgát a vizsgaközponton kívül is megszervezheti. Ebben az esetben a központtól eltérő vizsgahelyeket szintén akkreditációs eljárás alá kell vonni az 5. § (1) bekezdés c) pontja szerint. Számítógépes nyelvvizsga esetén az akkreditációs eljárás kiterjed a számítógépes környezet alkalmasságának a vizsgálatára is.
 
-[^20]: A 7. §-t és az azt megelőző alcím címét a 33/2014. (II. 18.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^21]: A 8. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^22]: A 8. § (2) bekezdés b) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^23]: A 8. § (2) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^24]: A 8. § (3) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^21]: A 7. §-t és az azt megelőző alcím címét a 33/2014. (II. 18.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^22]: A 8. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^23]: A 8. § (2) bekezdés b) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^24]: A 8. § (2) bekezdés c) pontja a 33/2014. (II. 18.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^25]: A 8. § (3) bekezdése a 33/2014. (II. 18.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

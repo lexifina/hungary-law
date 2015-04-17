@@ -1,4 +1,4 @@
-5/A. §[^18] (1) A Hivatal – valamint az általa kirendelt szakértő – a vizsgaközpontokat, vizsgarendszereket, vizsgahelyeket a munkaterve alapján ellenőrzi.
+5/A. §[^19] (1) A Hivatal – valamint az általa kirendelt szakértő – a vizsgaközpontokat, vizsgarendszereket, vizsgahelyeket a munkaterve alapján ellenőrzi.
 
 (2) Az ellenőrzést végző személy az ellenőrzés során
 
@@ -16,4 +16,4 @@ c) kérdéseket tehet fel a vizsgáztatóknak.
 
 (6) A felfüggesztésről, illetve a visszavonásról szóló határozatban a Hivatalnak rendelkeznie kell a visszavonás, illetve a felfüggesztés miatt szükséges pénzügyi, jogi és szervezési kérdések rendezésének módjáról. Az akkreditáció felfüggesztéséről, visszavonásáról szóló jogerős határozatot a Hivatal honlapján közzé kell tenni.
 
-[^18]: Az 5/A. §-t a 33/2014. (II. 18.) Korm. rendelet 4. §-a iktatta be.
+[^19]: Az 5/A. §-t a 33/2014. (II. 18.) Korm. rendelet 4. §-a iktatta be.
