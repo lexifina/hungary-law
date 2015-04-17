@@ -28,4 +28,6 @@ a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: K
 
 2. Felhívom a BM OKF főigazgatóját mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy az Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon jelen határozat Hivatalos Értesítőben történő közzétételéről.
 
-3. Ez a határozat 2015. február 1-jén lép hatályba, ezzel egyidejűleg a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság Tudományos Tanács tagjairól szóló 1/2012. (12. 28.) KKB elnöki határozat hatályát veszti.
+3.[^2] Ez a határozat 2015. február 1-jén lép hatályba.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
