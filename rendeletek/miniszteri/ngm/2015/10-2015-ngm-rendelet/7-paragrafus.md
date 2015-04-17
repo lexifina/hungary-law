@@ -1,0 +1,1 @@
+## 6. § A nyomozó hatóság tájékoztatást adó tagja köteles az újságírótól a nyilvános közlésre készített nyilatkozat bemutatását kérni, kivéve, ha a nyomozó hatóság sajtótájékoztató, írásos tájékoztató, illetve internet útján ad felvilágosítást.
