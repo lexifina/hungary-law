@@ -14,8 +14,10 @@
 
 a) a 10. § (2)–(4) bekezdésétől eltérően csak a Nemzeti Közszolgálati Egyetem fenntartói testületének támogató véleménye alapján kezdeményezhető a képzési és kimeneti követelmények meghatározása, a felsőoktatási szakképzés szakjegyzékbe történő felvétele;
 
-b) a 11. § (3) bekezdése szerinti eljárásban a felsőoktatási szakképzési program szakmai kamarai vélemény nélkül kezdeményezhető;
+b)[^11]
 
 c) a 11. § (4) bekezdését a szakmai gyakorlóhelyekre nem kell alkalmazni.
 
 (7) E rendelettől a közigazgatási, rendészeti és katonai képzési területhez tartozó képzések tekintetében jogszabály eltérhet.
+
+[^11]: A 20. § (6) bekezdés b) pontját a 87/2015. (IV. 9.) Korm. rendelet 76. § a) pontja hatályon kívül helyezte.
