@@ -1,0 +1,1 @@
+## „(4) Ha a pedagógus a munkaköréhez jogszabályban előírt újabb szakképzettséget szerez magasabb végzettségi szinten, a magasabb végzettségi szintnek megfelelő illetményalapra az oklevél bemutatását követő hónap első napjától jogosult.”

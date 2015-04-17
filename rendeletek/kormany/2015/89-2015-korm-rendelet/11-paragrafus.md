@@ -1,0 +1,7 @@
+## „(9a) Ha a pedagógus az adott év április 30-áig kezdeményezte az intézményvezetőnél a következő évi minősítési eljárásra történő jelentkezését, de az intézményvezető nem vagy hibásan rögzítette azt az OH által működtetett informatikai támogató rendszerben, akkor a pedagógus az OH részére benyújtott írásbeli kérelmével a jelentkezés éve május 31-éig kérheti a minisztertől a minősítési tervbe való felvételét. Azt a (8) bekezdésben meghatározott kérelmezőt, aki a minősítési tervbe történő felvétel feltételeinek megfelel, pótlólag fel kell venni a minősítési tervbe.”
+
+11. § (1) Az Ép. r. 11. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Ha a pedagógus neki fel nem róható okból nem tud részt venni a minősítő vizsga, minősítési eljárás – a pedagógus személyes részvételét igénylő – eseményén, az OH új időpontot jelöl ki a számára. E szabály alkalmazásában a pedagógusnak fel nem róható ok minden olyan a részvételt gátló esemény, körülmény, amelynek bekövetkezése nem vezethető vissza a pedagógus szándékos vagy gondatlan magatartására. A pedagógus az új időpont kijelölése iránti kérelmet az ok megjelölésével, az ok felmerülésével egyidejűleg, de legkésőbb az elmulasztott esemény napját követő nyolc napon belül nyújthatja be az OH részére. Ha a minősítő vizsga, minősítési eljárás a pedagógusnak felróható okból meghiúsul, a minősítő bizottság erre vonatkozó megállapítása alapján az OH kiállítja a minősítő vizsga, a minősítési eljárás sikertelenségéről a tanúsítványt.”
+
+(2) Az Ép. r. 11. § (8) bekezdése helyébe a következő rendelkezés lép:
