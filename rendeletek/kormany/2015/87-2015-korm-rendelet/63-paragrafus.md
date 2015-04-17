@@ -1,0 +1,5 @@
+63. § (1) A fogyatékossággal élő hallgató fogyatékosságának típusát és mértékét, annak végleges vagy időszakos voltát a (2) vagy a (3) bekezdésben meghatározott szakvéleménnyel igazolja.
+
+(2) Ha a hallgató (jelentkező) fogyatékossága, sajátos nevelési igénye már a középfokú tanulmányok ideje alatt is fennállt, és erre tekintettel a tanulmányai, illetve az érettségi vizsga során kedvezményben részesült, a fogyatékosság, sajátos nevelési igény a megyei (fővárosi) pedagógiai szakszolgálati intézmények, illetve azok megyei vagy országos szakértői bizottságként eljáró tagintézményei (valamint jogelődjeik közül a tanulási képességvizsgáló szakértői és rehabilitációs bizottságok, és az országos szakértői és rehabilitációs bizottságok) által kibocsátott szakértői véleménnyel igazolható.
+
+(3) Ha a hallgató (jelentkező) fogyatékossága, sajátos nevelési igénye a középfokú tanulmányok ideje alatt nem állt fenn, illetve fogyatékosságra, sajátos nevelési igényre tekintettel a tanulmányai és az érettségi vizsga során kedvezményben nem részesült, a fogyatékosság a rehabilitációs szakértői szerv, illetve annak jogelődei által kibocsátott szakértői véleménnyel igazolható.

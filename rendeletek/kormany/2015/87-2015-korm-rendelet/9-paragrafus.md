@@ -1,0 +1,3 @@
+9. § (1) A Magyar Felsőoktatási Akkreditációs Bizottság a 8. § (3) bekezdése szerinti szakértői véleményében a felsőoktatási minőségértékelés és -fejlesztés egyes kérdéseiről szóló 19/2012. (II. 22.) Korm. rendelet 26. §-a alapján készített korábbi értékelései alapján ad tájékoztatást a Hivatalnak. A szakértői vélemény kiterjed a felsőoktatási intézménynek a felsőoktatási minőségbiztosítás európai sztenderdjeinek (Standards and Guidelines in the European Higher Education Area, ESG) való megfelelésére.
+
+(2) A Hivatal olyan egyedi kérdésben is beszerezheti a Magyar Felsőoktatási Akkreditációs Bizottság 8. § (3) bekezdése szerinti szakértői véleményét, amelynek tárgyában az korábban nem hozott döntést.

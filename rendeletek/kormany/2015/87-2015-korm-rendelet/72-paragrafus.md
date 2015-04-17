@@ -1,0 +1,3 @@
+## 71. § A felsőoktatásban részt vevő hallgatók juttatásairól és az általuk fizetendő egyes térítésekről szóló 51/2007. (III. 26.) Korm. rendelet (a továbbiakban: R3.) 36. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) A 10. § (4) bekezdésében és a 17. §-ában meghatározott juttatás kivételével a hallgatókat megillető juttatásokra való jogosultság megállapítására, valamint a hallgatók által fizetendő térítések megfizetésére – a doktori képzés kivételével – az adott tanulmányi félévre (5 hónapra) vonatkozóan kerül sor. A doktori képzésre vonatkozó 12 hónapos juttatás az őszi félév vonatkozásában szeptember 1-től január 31-ig, a tavaszi tanulmányi félév vonatkozásában február 1-től augusztus 31-ig fizethető.”
