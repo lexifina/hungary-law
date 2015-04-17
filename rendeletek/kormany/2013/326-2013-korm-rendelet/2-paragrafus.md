@@ -6,13 +6,15 @@
 
 2. § (1) A köznevelési intézményben a munkakör betöltéséhez előírt végzettséggel és szakképzettséggel, valamint két évnél kevesebb szakmai gyakorlattal rendelkező pedagógus-munkakörben foglalkoztatottat (a továbbiakban: pedagógus) Gyakornok fokozatba (a továbbiakban: gyakornok) kell besorolni. A gyakornok számára a foglalkoztatási jogviszony létesítésekor gyakornoki idő kikötése kötelező.
 
-(2) Gyakornoki időként a foglalkoztatási jogviszony létesítésének időpontjától számított kétéves időszakot kell a kinevezésben, illetve a munkaszerződésben rögzíteni. A gyakornok
+(2)[^3] A gyakornoki idő két év. A gyakornoki idő kikötésekor a jogviszony létesítése előtt megszerzett szakmai gyakorlatot be kell számítani, azzal, hogy gyakornoki időként a két évből hátra levő időt kell a kinevezésben, a munkaszerződésben rögzíteni. Ha a határozott időre szóló közalkalmazotti jogviszony, munkaviszony időtartama rövidebb, mint a gyakornok számára megállapítandó gyakornoki idő, akkor a gyakornoki időt a határozott idő lejártáig kell kikötni.
+
+(2a)[^4] A gyakornok
 
 a) a gyakornoki idő lejártának hónapjában, vagy
 
 b) ha a gyakornoki idő nem a tanítási év közben jár le, a tanítási év utolsó hónapjában
 
-## tesz minősítő vizsgát.
+tesz minősítő vizsgát.
 
 (3) A minősítő vizsgán megfelelt minősítést kapott gyakornokot a Pedagógus I. fokozatba kell besorolni.
 
@@ -24,7 +26,7 @@ b) ha a gyakornoki idő nem a tanítási év közben jár le, a tanítási év u
 
 (7) A minősítő vizsga részei:
 
-a)[^2] a pedagógus legalább két foglalkozásának, tanórájának látogatása és elemzése, ha a munkakör részét képezi foglalkozás, tanóra megtartása – ide nem értve az óvodapszichológus, iskolapszichológus, pszichológus közvetlen pszichológiai foglalkozását –, valamint
+a)[^5] a gyakornok legalább két foglalkozásának, tanórájának látogatása és elemzése, ha a munkakör részét képezi foglalkozás, tanóra megtartása – ide nem értve az óvodapszichológus, iskolapszichológus, pszichológus közvetlen pszichológiai foglalkozását –, valamint
 
 b) a gyakornok portfóliójának áttekintése, értékelése (portfólióvédés).
 
@@ -32,25 +34,29 @@ b) a gyakornok portfóliójának áttekintése, értékelése (portfólióvédé
 
 a) portfólióvédés,
 
-b)[^3] amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a meglátogatott foglalkozás, tanóra értékelése,
+b)[^6] amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a meglátogatott foglalkozás, tanóra értékelése,
 
-c)[^4] az országos pedagógiai-szakmai ellenőrzés során a látogatott foglalkozások tapasztalatainak és az összegző értékelésnek a megismerése, valamint
+c)[^7] az országos pedagógiai-szakmai ellenőrzés során a látogatott foglalkozások tapasztalatainak és az összegző értékelésnek a megismerése, valamint
 
-d) az intézményi önértékelés pedagógusra vonatkozó megállapításainak értékelése.
+d)[^8] az intézményi önértékelés gyakornokra vonatkozó megállapításainak, valamint a szakmai vezető (a továbbiakban: mentor) gyakornokra vonatkozó értékelésének megismerése.
 
 (9) A portfólióvédés alkalmával az értékelt pedagógus bemutatja önértékelését, továbbá számot ad a munkaköréhez kapcsolódó pedagógiai, szakmai felkészültségéről, valamint a pedagógust foglalkoztató intézmény pedagógiai programjával összefüggő kérdésekről.
 
 (10) A minősítő vizsga során a három tagból álló minősítő bizottság (a továbbiakban: minősítő bizottság)
 
-a) a gyakornok által feltöltött portfólió alapján áttekinti és értékeli a pedagógus szakmai tevékenységét, eredményeit, valamint az intézményi önértékelés gyakornokra vonatkozó részeit, ennek során – az 1. mellékletben foglaltak szerint – kiemelten figyelembe veszi a 8. § (3) bekezdésében meghatározott pedagóguskompetenciákat és tevékenységeket,
+a)[^9] a gyakornok által feltöltött portfólió alapján áttekinti és értékeli a gyakornok szakmai tevékenységét, eredményeit, valamint az intézményi önértékelés gyakornokra vonatkozó részeit, ennek során – az 1. mellékletben foglaltak szerint – kiemelten figyelembe veszi a 8. § (3) bekezdésében meghatározott pedagóguskompetenciákat és tevékenységeket, továbbá a feltöltött portfólió alapján kérdéseket fogalmaz meg, amelyeket a portfólióvédés előtt legalább hét nappal eljuttat a gyakornok részére,
 
 b) értékeli a meglátogatott foglalkozást és a portfólióvédést, valamint
 
-c)[^5] elkészíti az összegző értékelést, amelyet feltölt az Oktatási Hivatal (a továbbiakban: OH) által működtetett informatikai támogató rendszerbe.
+c)[^10] elkészíti az összegző értékelést, amelyet feltölt az Oktatási Hivatal (a továbbiakban: OH) által működtetett informatikai támogató rendszerbe.
 
 (11) A Pedagógus I. fokozatba lépéshez a gyakornoknak az értékelés során legalább hatvan százalékot kell elérnie.
 
-[^2]: A 2. § (7) bekezdés a) pontja a 268/2014. (XI. 3.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^3]: A 2. § (8) bekezdés b) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^4]: A 2. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^5]: A 2. § (10) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 89/2015. (IV. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2a) bekezdését a 89/2015. (IV. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 2. § (7) bekezdés a) pontja a 268/2014. (XI. 3.) Korm. rendelet 5. §-ával megállapított, a 89/2015. (IV. 9.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (8) bekezdés b) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (8) bekezdés d) pontja a 89/2015. (IV. 9.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 2. § (10) bekezdés a) pontja a 89/2015. (IV. 9.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^10]: A 2. § (10) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.

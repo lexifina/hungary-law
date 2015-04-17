@@ -16,22 +16,23 @@ b) „Nem felelt meg”.
 
 (5) Ha a (3) bekezdés szerinti megismételt minősítési eljárást nem teljesítő pedagógus pedagógus-munkakörre újabb foglalkoztatási jogviszonyt létesít, a foglalkoztatási jogviszony létesítésétől számított két év elteltével újabb minősítési eljárásban kell részt vennie. Az újabb minősítési eljárás során a (4) bekezdést, illetve – a döntéstől függően – az Nkt. 64. § (8) bekezdését kell alkalmazni.
 
-(6)[^6]
+(6)[^11]
 
-(7)[^7] Ha a munkakör részét képezi foglalkozás, tanóra megtartása – ide nem értve az óvodapszichológus, iskolapszichológus, pszichológus közvetlen pszichológiai foglalkozását –, a minősítő bizottság a pedagógus legalább kettő foglalkozását meglátogatja, amelyet szakmai megbeszélés követ. A portfólióvédés alkalmával a pedagógus bemutatja saját önértékelését, és válaszol a minősítő bizottság tagjainak kérdéseire.
+(7)[^12] Ha a munkakör részét képezi foglalkozás, tanóra megtartása – ide nem értve az óvodapszichológus, iskolapszichológus, pszichológus közvetlen pszichológiai foglalkozását –, a minősítő bizottság a pedagógus legalább kettő foglalkozását meglátogatja, amelyet szakmai megbeszélés követ. A portfólióvédés alkalmával a pedagógus bemutatja saját önértékelését, és válaszol a minősítő bizottság tagjainak kérdéseire.
 
 (8) A minősítési eljárás során a minősítő bizottság
 
-a) áttekinti és értékeli a pedagógus által feltöltött portfóliót, az intézményi önértékelés pedagógusra vonatkozó részeit, valamint az országos pedagógiai-szakmai ellenőrzés során a látogatott foglalkozásokra vonatkozó megállapításokat és az országos pedagógiai-szakmai ellenőrzés összegző értékelését, ennek során az 1. mellékletben foglaltak szerint kiemelten figyelembe veszi a 8. § (3) bekezdésében meghatározott pedagóguskompetenciákat és tevékenységeket,
+a)[^13] áttekinti és értékeli a pedagógus által feltöltött portfóliót, az intézményi önértékelés pedagógusra vonatkozó részeit, valamint az országos pedagógiai-szakmai ellenőrzés során a látogatott foglalkozásokra vonatkozó megállapításokat és az országos pedagógiai-szakmai ellenőrzés összegző értékelését, ennek során – az 1. mellékletben foglaltak szerint – kiemelten figyelembe veszi a 8. § (3) bekezdésében meghatározott pedagóguskompetenciákat és tevékenységeket, továbbá a feltöltött portfólió alapján kérdéseket fogalmaz meg, amelyeket a portfólióvédés előtt legalább hét nappal eljuttat a pedagógus részére,
 
 b) értékeli a meglátogatott foglalkozást és a portfólióvédést, valamint
 
-c)[^8] elkészíti az összegző értékelést, amelyet feltölt az OH által működtetett informatikai támogató rendszerbe.
+c)[^14] elkészíti az összegző értékelést, amelyet feltölt az OH által működtetett informatikai támogató rendszerbe.
 
 (9) A minősítési eljárás eredményeként a pedagógus „Megfelelt” minősítést kap, ha az értékelés alapján legalább hetvenöt százalékot ért el.
 
 (10) A „Megfelelt” minősítés alapján a pedagógust a Pedagógus II. fokozatba be kell sorolni.
 
-[^6]: A 3. § (6) bekezdését a 99/2014. (III. 25.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
-[^7]: A 3. § (7) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^8]: A 3. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^11]: A 3. § (6) bekezdését a 99/2014. (III. 25.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^12]: A 3. § (7) bekezdése a 268/2014. (XI. 3.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^13]: A 3. § (8) bekezdés a) pontja a 89/2015. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 3. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.

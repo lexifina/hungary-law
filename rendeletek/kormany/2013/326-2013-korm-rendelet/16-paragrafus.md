@@ -16,7 +16,7 @@ b) az illetményalap harminc százalékának megfelelő pótlékra jogosult, ha 
 
 c) alsó határa alapján megállapított pótlékra jogosult, ha a tagintézmény, intézményegység gyermek-, tanulólétszáma legfeljebb kettőszázötven fő.
 
-(4a)[^49] A (4) bekezdés alkalmazásában az október 1-jei gyermek- és tanulólétszám az irányadó.
+(4a)[^79] A (4) bekezdés alkalmazásában az október 1-jei gyermek- és tanulólétszám az irányadó.
 
 (5) A tagintézményvezető-helyettes és az intézményegységvezető-helyettes az intézményvezető-helyettesi pótlék alsó határa alapján megállapított pótlékra jogosult.
 
@@ -28,4 +28,4 @@ c) alsó határa alapján megállapított pótlékra jogosult, ha a tagintézmé
 
 (9) A pedagógus számára jogszabályban meghatározottak szerint az (1)–(8) bekezdésben meghatározott pótlékokon felül további pótlék is megállapítható.
 
-[^49]: A 16. § (4a) bekezdését a 268/2014. (XI. 3.) Korm. rendelet 13. §-a iktatta be.
+[^79]: A 16. § (4a) bekezdését a 268/2014. (XI. 3.) Korm. rendelet 13. §-a iktatta be.

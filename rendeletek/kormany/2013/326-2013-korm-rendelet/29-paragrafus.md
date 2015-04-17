@@ -12,7 +12,7 @@ a) pedagógus-munkakörben eltöltött legalább öt év szakmai gyakorlattal re
 
 b) a pedagógiai intézet alaptevékenysége szerinti munkakörben legalább tíz év szakmai gyakorlattal rendelkezik, feltéve, hogy kinevezésével egyidejűleg magasabb vezetői megbízást kap.
 
-(3) Próbaidő kikötése szempontjából szakmai gyakorlatként
+(3)[^95] Intézményvezetői megbízás esetén szakmai gyakorlatként
 
 a) óvodában óvodapedagógus-munkakörben,
 
@@ -23,3 +23,5 @@ c) felsőfokú oktatási intézményben oktatói munkakörben
 ## eltöltött időt kell figyelembe venni.
 
 (4) A (3) bekezdés szerinti szakmai gyakorlat időtartamába nem számít be a 13. § (1) bekezdése szerint a szakmai gyakorlatba be nem számítható időtartam.
+
+[^95]: A 29. § (3) bekezdés nyitó szövegrésze a 89/2015. (IV. 9.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
