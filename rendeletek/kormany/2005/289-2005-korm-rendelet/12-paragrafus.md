@@ -1,8 +1,10 @@
+## 11. §[^18]
+
 ## A tanári szakképzettséget adó mesterképzési szak
 
-12. § (1) Tanári szakképzettség ciklusokra bontott, osztott képzésben mesterfokozatot nyújtó tanári mesterszakon szerezhető meg.
+12. § (1)[^19] Tanári szakképzettség ciklusokra bontott, osztott képzésben mesterfokozatot nyújtó tanári mesterképzési szakon szerezhető meg.
 
-(2) Tanári szakképzettség mesterfokozat és nem tanári szakképzettség birtokában vagy a mesterfokozat megszerzésére irányuló tanulmányokkal párhuzamosan második, további mesterszakon is szerezhető.
+(2)[^20] Tanári szakképzettség mesterfokozat és nem tanári szakképzettség birtokában vagy a mesterfokozat megszerzésére irányuló tanulmányokkal párhuzamosan második, további mesterképzési szakon is szerezhető.
 
 (3) A ciklusokra bontott, osztott képzésben a tanári szakon – a (4) bekezdésben foglaltakat kivéve – az iskolai nevelés-oktatás 5–12., illetve 13. évfolyamain, valamint az Országos Képzési Jegyzékben meghatározott szakképzési évfolyamokon a tantárgyak, tantárgyi modulok oktatására és a speciális pedagógiai jellegű feladatok ellátására felkészítő két szakképzettség szerezhető.
 
@@ -17,3 +19,7 @@ b) az alapképzési szakon – a tanári szak képzési és kimeneti követelmé
 (6) Az alapfokozat vagy mesterfokozat megszerzését követő – a tanári szakképzettség megszerzésére irányuló – képzés első két félévében is teljesíthetők az (5) bekezdés b) pontjában foglalt követelmények.
 
 (7) Azokat az alapképzési szakokat, illetve egyes alapképzési szakok esetében az oklevélben megjelölt önálló szakképzettséget eredményező azon szakirányokat, amelyre tanári szak épülhet, a tanári szak képzési és kimeneti követelményei határozzák meg.
+
+[^18]: A 11. §-t és az azt megelőző alcímet a 87/2015. (IV. 9.) Korm. rendelet 76. § b) pontja hatályon kívül helyezte.
+[^19]: A 12. § (1) bekezdése a 87/2015. (IV. 9.) Korm. rendelet 69. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^20]: A 12. § (2) bekezdése a 87/2015. (IV. 9.) Korm. rendelet 69. § (2) bekezdés b) pontja szerint módosított szöveg.

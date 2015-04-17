@@ -18,7 +18,7 @@ cd) a szakdolgozathoz vagy diplomamunkához rendelhető kreditértéket,
 
 ce) az elméleti és gyakorlati ismeretek vonatkozásában a gyakorlati ismeretek minimális kreditértékét,
 
-cf)[^13] a köznevelési intézményben, felnőttképző intézményben szervezett, összefüggő szakmai gyakorlat kreditértékét;
+cf)[^16] a köznevelési intézményben, felnőttképző intézményben szervezett, összefüggő szakmai gyakorlat kreditértékét;
 
 d) a tanári képesítés kompetenciáit:
 
@@ -60,4 +60,4 @@ j) továbbá a ciklusokra bontott, osztott képzésben tanári szakképzettsége
 
 – a második, illetve a kizárólag második tanári szakképzettség
 
-[^13]: A 9. § c) pont cf) alpontja a 221/2014. (IX. 4.) Korm. rendelet 306. § d) pontja szerint módosított szöveg.
+[^16]: A 9. § c) pont cf) alpontja a 221/2014. (IX. 4.) Korm. rendelet 306. § d) pontja szerint módosított szöveg.

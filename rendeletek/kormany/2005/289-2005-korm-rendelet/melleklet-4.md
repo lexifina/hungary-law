@@ -160,4 +160,4 @@
 
 4. számú melléklet a 289/2005. (XII. 22.) Korm. rendelethez[^35]
 
-[^35]: A 4. számú melléklet a 33/2007. (III. 7.) Korm. rendelet 12. § (3) bekezdésének k) pontja szerint módosított szöveg.
+[^35]: A 4. számú melléklet a 33/2007. (III. 7.) Korm. rendelet 12. § (3) bekezdésének k) pontja, a 87/2015. (IV. 9.) Korm. rendelet 69. § (2) bekezdés f) pontja szerint módosított szöveg.

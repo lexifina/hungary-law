@@ -1,3 +1,5 @@
+## 6. §[^13]
+
 ## 7. § Az alapképzési szakok képzési és kimeneti követelményei szakonként tartalmazzák:
 
 a) az alapképzési szak megnevezését;
@@ -30,8 +32,11 @@ ec) a szakképzettség konkrét környezetben, tevékenységrendszerben történ
 
 ## leírását;
 
-f) a képzési ágon belüli közös képzési szakasznak az alapszak szempontjából fontos általános kompetenciáit;
+f)[^14] a képzési ágon belüli közös képzési szakasznak az alapképzési szak szempontjából fontos általános kompetenciáit;
 
 g) a törzsanyag – szakképzettség szempontjából meghatározó – ismeretköreinek bemutatását;
 
 h) az idegennyelv-ismeretre vonatkozó követelményeket.
+
+[^13]: A 6. §-t a 87/2015. (IV. 9.) Korm. rendelet 76. § b) pontja hatályon kívül helyezte.
+[^14]: A 7. § f) pontja a 87/2015. (IV. 9.) Korm. rendelet 69. § (2) bekezdés c) pontja szerint módosított szöveg.

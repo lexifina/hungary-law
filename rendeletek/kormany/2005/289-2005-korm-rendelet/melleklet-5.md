@@ -6,7 +6,7 @@
 
 ## engedély alapján indított egyetemi és főiskolai szakok megfeleltetése
 
-| Képzési terület | Képzési ág | Alapszakok | Képesítési követelmények szerinti szakok f: főiskolai, e: egyetemi | Képesítési követelmények szerinti szakokon szakindítási engedélyt kapott felsőoktatási intézmények |
+| Képzési terület | Képzési ág | Alapképzési szakok | Képesítési követelmények szerinti szakok f: főiskolai, e: egyetemi | Képesítési követelmények szerinti szakokon szakindítási engedélyt kapott felsőoktatási intézmények |
 
 | agrár* | agrár műszaki | földmérő és földrendező mérnöki | f: földmérő mérnöki, földrendező mérnöki, ingatlan-nyilvántartási szervező, meliorációs mérnöki | Nyugat-Magyarországi Egyetem Tessedik Sámuel Főiskola |
 

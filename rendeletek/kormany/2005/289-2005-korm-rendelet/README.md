@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-289-20-
 | 2013-10-15 | 2005-289-20-22.16 | 39/2011. (III. 22.) Korm. rendelet |
 | 2014-04-19 | 2005-289-20-22.17 | 132/2014. (IV. 18.) Korm. rendelet |
 | 2014-09-05 | 2005-289-20-22.18 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-04-17 | 2005-289-20-22.19 | 87/2015. (IV. 9.) Korm. rendelet |
