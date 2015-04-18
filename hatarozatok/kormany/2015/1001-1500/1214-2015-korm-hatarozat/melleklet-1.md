@@ -28,10 +28,10 @@
 
 ## Határidő: 2015. április 30.
 
-## 2. Az egyes önkormányzatok működőképességének megőrzése céljából egyedi támogatás biztosítása érdekében történő előirányzat-átcsoportosításáról szóló 1090/2015. (III. 4.) Korm. határozat (a továbbiakban: Határozat) 2. pontjában a „visszatérítendő” szövegrész helyébe „vissza nem térítendő” szöveg lép.
-
-## 3. A Kormány a Határozat 2. pontjában a „ ,továbbá 2015. július 30-áig történő visszafizetési kötelezettség előírása” szövegrészt visszavonja.
+## 2–3.[^1]
 
 ## 4. A Kormány felhatalmazza a belügyminisztert, hogy a Határozatban szereplő önkormányzatok részére kiadott támogatói okiratot a 2. pont szerint módosítsa.
 
 1. melléklet az 1214/2015. (IV. 17.) Korm. határozathoz
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
