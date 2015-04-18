@@ -1,0 +1,1 @@
+Az Országgyűlés a QUAESTOR FINANCIAL HRURIRA Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság által kibocsátott kötvényeknek a QUAESTOR Értékpapírkereskedelmi és Befektetési Zártkörűen Működő Részvénytársaság általi értékesítési tevékenysége következtében megkárosított befektetők kárrendezése céljából a következő törvényt alkotja.
