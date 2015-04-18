@@ -2,7 +2,7 @@
 
 A kötelezően használt okiratok formaszövegei
 
-1–4.[^7]
+1–4.[^9]
 
 5. Oklevél
 
@@ -40,22 +40,22 @@ Ezen oklevél tanúsítja, hogy ... (név) született ... (születési hely és 
 
 keltezés, bélyegzők, aláírások, záradék”
 
-5.3.–5.7.[^8]
+5.3.–5.7.[^10]
 
 6. Az oklevelekben használható záradékok
 
-6.1.–6.5.[^9]
+6.1.–6.5.[^11]
 
 6.6. Duális képzésben szerzett szakképzettség feltüntetése:
 
 „Az oklevél tulajdonosa tanulmányait duális képzésben teljesítette.”
 
-6.7.–6.11.[^10]
+6.7.–6.11.[^12]
 
-7.–10.[^11] Oklevélmelléklet
+7.–10.[^13] Oklevélmelléklet
 
-[^7]: A 9. melléklet 1–4. pontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
-[^8]: A 9. melléklet 5. pont 5.3.–5.7. alpontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
-[^9]: A 9. melléklet 6. pont 6.1.–6.5. alpontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
-[^10]: A 9. melléklet 6. pont 6.7.–6.11. alpontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
-[^11]: A 9. melléklet 7.–10. pontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
+[^9]: A 9. melléklet 1–4. pontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
+[^10]: A 9. melléklet 5. pont 5.3.–5.7. alpontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
+[^11]: A 9. melléklet 6. pont 6.1.–6.5. alpontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
+[^12]: A 9. melléklet 6. pont 6.7.–6.11. alpontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
+[^13]: A 9. melléklet 7.–10. pontja a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
