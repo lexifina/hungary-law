@@ -12,7 +12,9 @@ d) megtekintheti a kamara és szervei bármely iratát,
 
 e) beléphet a kamara és szervei által használt bármely helyiségbe,
 
-f) elrendelheti a kamara gazdálkodásának és informatikai rendszereinek vizsgálatát.
+f) elrendelheti a kamara gazdálkodásának és informatikai rendszereinek vizsgálatát,
+
+g) rendkívüli közgyűlést hívhat össze.
 
 (3) A miniszteri biztos a kinevezésében foglaltaktól függően
 
