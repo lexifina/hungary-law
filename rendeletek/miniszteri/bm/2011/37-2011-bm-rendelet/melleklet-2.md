@@ -1,4 +1,4 @@
-## A) A rendőrségnél, a BÁHBÁ-nál, a BM NOK-nál, a BM OKTF-nél, a hivatásos katasztrófavédelmi szerveknél a közalkalmazottak által ellátható egyes vezetői beosztások, munkakörök megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke, pályázat alóli mentessége
+## A) A rendőrségnél, a BÁHBÁ-nál, a BM NOK-nál, a KSZF-nél, a hivatásos katasztrófavédelmi szerveknél a közalkalmazottak által ellátható egyes vezetői beosztások, munkakörök megnevezése, fizetési osztálya, valamint a vezetői pótlék mértéke, pályázat alóli mentessége
 
 |  | A magasabb vezetői, vezetői beosztások, munkakörök megnevezése | Fizetési osztályok | Vezetői pótlék |
 
@@ -144,7 +144,7 @@
 
 | 70. | Ügyviteli munkakörök |
 
-| 71. | A rendőrségnél, a BM NOK-nál, a BM OKTF-nél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél az ügyviteli munkakörök nem kötelezettek pályáztatásra. |
+| 71. | A rendőrségnél, a BM NOK-nál, a KSZF-nél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél az ügyviteli munkakörök nem kötelezettek pályáztatásra. |
 
 | 72. | Adatrögzítő | * | * | * |  |  |  |  |  |  |  |  |
 
@@ -188,7 +188,7 @@
 
 | 92. | Fizikai munkakörök |  |  |  |  |  |  |  |  |  |  |  |
 
-| 93. | A rendőrségnél, a BM NOK-nál, a BM OKTF-nél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél a fizikai munkakörök nem kötelezettek pályáztatásra. |
+| 93. | A rendőrségnél, a BM NOK-nál, a KSZF-nél, a BÁHBÁ-nál, a hivatásos katasztrófavédelmi szerveknél a fizikai munkakörök nem kötelezettek pályáztatásra. |
 
 | 94. | Autófényező |  | * | * | * |  |  |  |  |  |  |  |
 

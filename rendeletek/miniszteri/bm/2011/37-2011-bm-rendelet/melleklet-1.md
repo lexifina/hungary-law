@@ -3,4 +3,4 @@
 1. melléklet a 37/2011. (X. 28.) BM rendelethez[^12]
 
 [^11]: A hatálybalépés időpontja 2012. szeptember 21.
-[^12]: Az 1. melléklet a 46/2012. (IX. 20.) BM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^12]: Az 1. melléklet a 46/2012. (IX. 20.) BM rendelet 6. § (1) bekezdése, a 16/2015. (IV. 17.) BM rendelet 2. § b) pontja szerint módosított szöveg.
