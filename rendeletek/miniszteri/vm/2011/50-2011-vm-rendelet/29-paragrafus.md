@@ -1,6 +1,6 @@
 ## 20. Támogatható tevékenységek
 
-## 29. §[^90] Az akvakultúrába történő termelő beruházásokra vonatkozó intézkedésen belül az alábbi értékhatárig vehető igénybe termelő beruházási támogatás:
+## 29. §[^91] Az akvakultúrába történő termelő beruházásokra vonatkozó intézkedésen belül az alábbi értékhatárig vehető igénybe termelő beruházási támogatás:
 
 a) már meglévő, haltermelési létesítményt vagy létesítményeket tartalmazó telephelyen új haltermelési létesítmény vagy létesítmények létrehozása a hozzá tartozó termelői, telepi infrastruktúrával együtt, legfeljebb 100 millió forint támogatási igényig,
 
@@ -20,4 +20,4 @@ h) termelői halértékesítési vagy halfeldolgozási lehetőség kialakítás�
 
 i) a tóépítési és tófelújítási munkák esetében az irtás, föld- és sziklamunka esetén a normagyűjtemény díj, anyag- és gépköltség árainak legfeljebb 50%-a fogadható el a támogatás számításának alapját képező elszámolható költségként.
 
-[^90]: A 29. § a 4/2014. (X. 1.) MvM rendelet 1. §-ával megállapított szöveg.
+[^91]: A 29. § a 4/2014. (X. 1.) MvM rendelet 1. §-ával megállapított szöveg.
