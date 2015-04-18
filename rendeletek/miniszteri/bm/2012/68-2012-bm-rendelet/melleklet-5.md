@@ -1,4 +1,4 @@
-5. melléklet a 68/2012. (XII. 14.) BM rendelethez[^4]
+5. melléklet a 68/2012. (XII. 14.) BM rendelethez[^18]
 
 Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény szerinti képzés és vizsga helyett elfogadható szakirányú képesítések és képzettségek a következők:
 
@@ -24,4 +24,4 @@ Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 Az 5., valamint a 8. pontban meghatározott képesítésekkel, szakképesítésekkel, szakképzettségekkel egyenértékűnek kell tekinteni az 5., illetve a 8. pontban említett intézmények jogelődjeinél szerzett képesítéseket, szakképesítéseket és a Rendőrtiszti Főiskolán szerzett olyan oklevelet, amelyben szak megnevezése még nem szerepel.
 
-[^4]: Az 5. melléklet a 20/2013. (V. 28.) BM rendelet 3. §-ával megállapított szöveg.
+[^18]: Az 5. melléklet a 20/2013. (V. 28.) BM rendelet 3. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
 ## 3. A képzés
 
-3. § (1) A képzésre az 1. melléklet szerinti jelentkezési lapot kell kitölteni, amely elektronikus úton is megküldhető a BM OKTF-nek.
+3. § (1)[^7] A képzésre az 1. melléklet szerinti jelentkezési lapot kell kitölteni, amely elektronikus úton is megküldhető a KSZF-nek.
 
-(2) A jelentkezési lapot a BM OKTF nyilvántartásba veszi és a jelentkezőt a képzés időpontjáról és helyéről azt megelőzően legalább 15 nappal, írásban vagy elektronikus úton tájékoztatja.
+(2)[^8] A jelentkezési lapot a KSZF nyilvántartásba veszi és a jelentkezőt a képzés időpontjáról és helyéről azt megelőzően legalább 15 nappal, írásban vagy elektronikus úton tájékoztatja.
 
 (3) A képzés megkezdésének feltétele, hogy
 
@@ -16,4 +16,8 @@ c) a befizetést igazoló bizonylat másolatát vagy a befizetés igazolását m
 
 (5) A képzésről történő megengedett hiányzás az összóraszám 10%-a. Ennél magasabb hiányzás esetén – újabb képzési díj fizetése nélkül – a képzést meg kell ismételni.
 
-(6) A BM OKTF – ha a képzést nem a BM OKTF szervezi – jogosult a képzést ellenőrizni.
+(6)[^9] A KSZF – ha a képzést nem a KSZF szervezi – jogosult a képzést ellenőrizni.
+
+[^7]: A 3. § (1) bekezdése a 16/2015. (IV. 17.) BM rendelet 8. § d) pontja szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdése a 16/2015. (IV. 17.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (6) bekezdése a 16/2015. (IV. 17.) BM rendelet 8. § e) pontja szerint módosított szöveg.

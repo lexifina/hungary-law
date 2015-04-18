@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-68-20-0
 | 2013-05-30 | 2012-68-20-0A.2 | 20/2013. (V. 28.) BM rendelet |
 | 2014-01-01 | 2012-68-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-01-02 | 2012-68-20-0A.4 | 2010: CXXX. törvény |
+| 2015-04-18 | 2012-68-20-0A.5 | 16/2015. (IV. 17.) BM rendelet |
