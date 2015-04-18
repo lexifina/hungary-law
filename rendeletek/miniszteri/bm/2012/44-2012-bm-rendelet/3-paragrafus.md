@@ -6,7 +6,7 @@ b) helyi lakásügyi szerv:
 
 ba) a Belügyminisztérium Pénzügyi Erőforrás-gazdálkodási Főosztály: a BM hivatali egységeiben dolgozó állomány vonatkozásában,
 
-bb) a Központi Gazdasági Ellátó Igazgatóság: a saját, valamint az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendészeti szakközépiskolák, a BM Oktatási, Képzési és Tudományszervezési Főigazgatóság, az ORFK Dunakeszi Kiképző Központ, az ORFK Rendészeti Szervek Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Nemzeti Nyomozó Iroda, a Szervezett Bűnözés Elleni Koordinációs Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Központ, a Nemzetközi Oktatási Központ, a Bűnügyi Szakértői és Kutatóintézet állománya vonatkozásában,
+bb)[^2] a Központi Gazdasági Ellátó Igazgatóság: a saját, valamint az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendészeti szakközépiskolák, a Közszolgálati Személyzetfejlesztési Főigazgatóság, az ORFK Dunakeszi Kiképző Központ, az ORFK Rendészeti Szervek Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Nemzeti Nyomozó Iroda, a Szervezett Bűnözés Elleni Koordinációs Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Központ, a Nemzetközi Oktatási Központ, a Bűnügyi Szakértői és Kutatóintézet állománya vonatkozásában,
 
 bc) a Budapesti Rendőr-főkapitányság: az állománya vonatkozásában,
 
@@ -28,6 +28,7 @@ bk) az Országos Vízügyi Főigazgatóság: a saját állománya vonatkozásáb
 
 bl) a vízügyi igazgatóságok a saját állományuk vonatkozásában,
 
-bm)[^2] a belügyi szervekhez kirendelt és vezényelt dolgozók, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar állománya vonatkozásában a munkáltatói jogkör gyakorlója szerinti, a ba)–bl) alpontokban felsorolt szervek.
+bm)[^3] a belügyi szervekhez kirendelt és vezényelt dolgozók, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar állománya vonatkozásában a munkáltatói jogkör gyakorlója szerinti, a ba)–bl) alpontokban felsorolt szervek.
 
-[^2]: A 3. § b) pont bm) alpontja a 81/2012. (XII. 28.) BM rendelet 33. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § b) pont bb) alpontja a 16/2015. (IV. 17.) BM rendelet 6. §-a szerint módosított szöveg.
+[^3]: A 3. § b) pont bm) alpontja a 81/2012. (XII. 28.) BM rendelet 33. § a) pontja szerint módosított szöveg.
