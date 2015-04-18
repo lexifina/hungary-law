@@ -6,7 +6,7 @@ b) helyi lakásügyi szerv:
 
 ba) a Belügyminisztérium Pénzügyi Erőforrás-gazdálkodási Főosztály: a Belügyminisztérium hivatali egységeiben dolgozó állomány vonatkozásában,
 
-bb) a Központi Gazdasági Ellátó Igazgatóság: a saját, valamint az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendészeti szakközépiskolák, a Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóság, a Repülőtéri Rendőr Igazgatóság, a Szervezett Bűnözés Elleni Koordinációs Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Központ, a Nemzetközi Oktatási Központ, a Bűnügyi Szakértői és Kutatóintézet állománya vonatkozásában,
+bb)[^1] a Központi Gazdasági Ellátó Igazgatóság: a saját, valamint az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendészeti szakközépiskolák, a Közszolgálati Személyzetfejlesztési Főigazgatóság, a Repülőtéri Rendőr Igazgatóság, a Szervezett Bűnözés Elleni Koordinációs Központ, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Központ, a Nemzetközi Oktatási Központ, a Bűnügyi Szakértői és Kutatóintézet állománya vonatkozásában,
 
 bc) a Budapesti Rendőr-főkapitányság: az állománya vonatkozásában,
 
@@ -31,3 +31,5 @@ bl) az Országos Vízügyi Főigazgatóság: az állománya vonatkozásában,
 bm) a vízügyi igazgatóságok az állományuk vonatkozásában,
 
 bn) a belügyi szervekhez kirendelt és vezényelt dolgozók, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar állománya vonatkozásában a munkáltatói jogkör gyakorlója szerinti, a ba)–bm) alpontban felsorolt szervek.
+
+[^1]: A 2. § b) pont bb) alpontja a 16/2015. (IV. 17.) BM rendelet 15. §-a szerint módosított szöveg.
