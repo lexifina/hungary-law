@@ -16,6 +16,6 @@ b) ha az eljárás alá vont beosztásban hagyása a cselekmény jellegére vagy
 
 (7) A Hszt. 132. §-ának (8) bekezdése szerinti panasz elutasítása ellen további külön jogorvoslatnak nincs helye. Az érdemi határozat elleni jogorvoslat során azonban a beosztásból felfüggesztés elrendelésének vagy a felfüggesztés fenntartásának jogszerűségét az eljárás alá vont vitathatja. Nincs helye panasznak, ha felfüggesztésére vagy annak fenntartására a Hszt. 132. §-ának (5) bekezdése alapján került sor.
 
-(8)[^16]
+(8)[^17]
 
-[^16]: A 17. § (8) bekezdését az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^17]: A 17. § (8) bekezdését az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés c) pontja hatályon kívül helyezte.

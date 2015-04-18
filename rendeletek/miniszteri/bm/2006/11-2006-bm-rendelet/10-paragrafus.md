@@ -8,6 +8,6 @@
 
 (4) Nincs helye a fegyelmi eljárás kiterjesztésének vagy egyesítésének, ha a még el nem bírált ügy szabálysértés vagy a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 485/A. §-a szerint fegyelmi elbírálásra utalt katonai vétség.
 
-(5)[^13] Az ügyeket el lehet különíteni, ha a különböző tényállást megvalósító fegyelemsértések önállóan elbírálhatók és együttes elbírálásuk a felelősségrevonást jelentősen késleltetné.
+(5)[^14] Az ügyeket el lehet különíteni, ha a különböző tényállást megvalósító fegyelemsértések önállóan elbírálhatók és együttes elbírálásuk a felelősségrevonást jelentősen késleltetné.
 
-[^13]: A 10. § (5) bekezdését az 54/2012. (X. 29.) BM rendelet 5. §-a iktatta be.
+[^14]: A 10. § (5) bekezdését az 54/2012. (X. 29.) BM rendelet 5. §-a iktatta be.

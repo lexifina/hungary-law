@@ -22,7 +22,7 @@ cc) a rendvédelmi oktatási intézmény igazgatója,
 
 cd) a Bevándorlási és Állampolgársági Hivatalnál a főigazgató,
 
-ce) a Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóságon a főigazgató,
+ce)[^7] a Közszolgálati Személyzetfejlesztési Főigazgatóságon a főigazgató,
 
 cf) a Szervezett Bűnözés Elleni Koordinációs Központnál a főigazgató,
 
@@ -30,12 +30,13 @@ cg) a Belügyminisztérium Nemzetközi Oktatási Központban a főigazgató.
 
 (4) A (3) bekezdés alá nem tartozó más szervnél vagy katonai oktatási intézménynél szolgálatot teljesítő hivatásos állományúval szemben a fegyelmi jogkört az országos parancsnok gyakorolja.
 
-(5)[^7] A (3) bekezdés b) és c) pontjában felsorolt vezetők szolgálati viszonyt, továbbá tisztek, főtisztek esetében – a (3) bekezdés c) pont ca) és cc) alpontjában meghatározott fegyelmi jogkört gyakorló vezető kivételével – rendfokozatot érintő fenyítést nem szabhatnak ki. A fegyelmi jogkör gyakorlója e fenyítési nemek indokoltsága esetén fenyítés kiszabására vagy a miniszterhez történő előterjesztésre megkeresi az országos parancsnokot.
+(5)[^8] A (3) bekezdés b) és c) pontjában felsorolt vezetők szolgálati viszonyt, továbbá tisztek, főtisztek esetében – a (3) bekezdés c) pont ca) és cc) alpontjában meghatározott fegyelmi jogkört gyakorló vezető kivételével – rendfokozatot érintő fenyítést nem szabhatnak ki. A fegyelmi jogkör gyakorlója e fenyítési nemek indokoltsága esetén fenyítés kiszabására vagy a miniszterhez történő előterjesztésre megkeresi az országos parancsnokot.
 
-(6)[^8] A miniszter a Hszt. 49/D. § (1) bekezdés a) pontja alapján vezényelttel szemben a fegyelmi eljárás lefolytatását magához vonhatja, és bármely fenyítést kiszabhat.
+(6)[^9] A miniszter a Hszt. 49/D. § (1) bekezdés a) pontja alapján vezényelttel szemben a fegyelmi eljárás lefolytatását magához vonhatja, és bármely fenyítést kiszabhat.
 
 [^4]: A 4. § (1) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: A 4. § (2) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése, a 16/2010. (XII. 31.) BM rendelet 3. §-a szerint módosított szöveg.
 [^6]: A 4. § (3) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 17. § b) pontja szerint módosított szöveg.
-[^7]: A 4. § (5) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése, a 16/2010. (XII. 31.) BM rendelet 3. §-a szerint módosított szöveg.
-[^8]: A 4. § (6) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése, a 81/2012. (XII. 28.) BM rendelet 16. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (3) bekezdés c) pont ce) alpontja a 16/2015. (IV. 17.) BM rendelet 1. §-a szerint módosított szöveg.
+[^8]: A 4. § (5) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése, a 16/2010. (XII. 31.) BM rendelet 3. §-a szerint módosított szöveg.
+[^9]: A 4. § (6) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése, a 81/2012. (XII. 28.) BM rendelet 16. § a) pontja szerint módosított szöveg.

@@ -6,9 +6,9 @@
 
 (4) Az összeférhetetlenség elbírálásáig, illetve az új vizsgáló személyének kijelöléséig a vizsgáló eljárási cselekményt halaszthatatlan esetben és csak a fegyelmi jogkör gyakorlójának előzetes jóváhagyásával végezhet.
 
-(5)[^14]
+(5)[^15]
 
-(6)[^15] A büntetés-végrehajtási szervezetnél az (1) bekezdésben meghatározott egyéb kizáró okok hiányában, az eljárás alá vont szolgálati elöljárója is lehet vizsgáló, amennyiben csatolt munkakörben, országos parancsnoki megbízás alapján folyamatosan lát el fegyelmi-, nyomozótiszti feladatokat.
+(6)[^16] A büntetés-végrehajtási szervezetnél az (1) bekezdésben meghatározott egyéb kizáró okok hiányában, az eljárás alá vont szolgálati elöljárója is lehet vizsgáló, amennyiben csatolt munkakörben, országos parancsnoki megbízás alapján folyamatosan lát el fegyelmi-, nyomozótiszti feladatokat.
 
-[^14]: A 14. § (5) bekezdését az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^15]: A 14. § (6) bekezdését az 54/2012. (X. 29.) BM rendelet 6. §-a iktatta be.
+[^15]: A 14. § (5) bekezdését az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^16]: A 14. § (6) bekezdését az 54/2012. (X. 29.) BM rendelet 6. §-a iktatta be.
