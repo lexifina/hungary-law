@@ -34,12 +34,12 @@ e) ha a bemutató üzemi programon az ügyfél meghatalmazottja vesz részt, az 
 
 (6) A Bemutató Üzem köteles a támogatási kérelmében meghatározott bemutató üzemi programoknak legalább a 40%-át végrehajtani.
 
-(7)[^20] A 2014. évi első projektterv teljesítési időszakhoz kapcsolódó kifizetési kérelmek benyújtásának határideje 2014. május 31., valamint 2014. augusztus 1 – 2015. március 31.
+(7)[^21] A 2014. évi első projektterv teljesítési időszakhoz kapcsolódó kifizetési kérelmek benyújtásának határideje 2014. május 31., valamint 2014. augusztus 1 – 2015. május 31.
 
-(8)[^21] A 2014. évi második projektterv teljesítési időszakhoz kapcsolódó kifizetési kérelmek benyújtásának határideje 2014. augusztus 1 – 2015. március 31.
+(8)[^22] A 2014. évi második projektterv teljesítési időszakhoz kapcsolódó kifizetési kérelmek benyújtásának határideje 2014. augusztus 1 – 2015. május 31.
 
-(9)[^22] Ha a Bemutató Üzem azért nem tudta a (7) vagy a (8) bekezdésben szereplő határidőben benyújtani a kifizetési kérelmét, mert jogorvoslati eljárása volt folyamatban, vagy még nem rendelkezik elsőfokú helyt adó vagy részben helyt adó támogatási határozattal, akkor az eljárás eredményétől függően 2015. február 1. és május 31. között benyújthatja a kifizetési kérelmét.
+(9)[^23] Ha a Bemutató Üzem azért nem tudta a (7) vagy a (8) bekezdésben szereplő határidőben benyújtani a kifizetési kérelmét, mert jogorvoslati eljárása volt folyamatban, vagy még nem rendelkezik elsőfokú helyt adó vagy részben helyt adó támogatási határozattal, akkor az eljárás eredményétől függően 2015. február 1. és június 30. között benyújthatja a kifizetési kérelmét.
 
-[^20]: A 9. § (7) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (8) bekezdése iktatta be, szövege a 12/2014. (XII. 30.) MvM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^21]: A 9. § (8) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (8) bekezdése iktatta be, szövege a 12/2014. (XII. 30.) MvM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^22]: A 9. § (9) bekezdését a 12/2014. (XII. 30.) MvM rendelet 17. § (2) bekezdése iktatta be.
+[^21]: A 9. § (7) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (8) bekezdése iktatta be, szövege a 12/2014. (XII. 30.) MvM rendelet 17. § (2) bekezdésével megállapított, a 21/2015. (IV. 17.) MvM rendelet 21. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 9. § (8) bekezdését az 53/2014. (IV. 29.) VM rendelet 17. § (8) bekezdése iktatta be, szövege a 12/2014. (XII. 30.) MvM rendelet 17. § (2) bekezdésével megállapított, a 21/2015. (IV. 17.) MvM rendelet 21. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 9. § (9) bekezdését a 12/2014. (XII. 30.) MvM rendelet 17. § (2) bekezdése iktatta be, szövege a 21/2015. (IV. 17.) MvM rendelet 21. § (3) bekezdés c) pontja szerint módosított szöveg.

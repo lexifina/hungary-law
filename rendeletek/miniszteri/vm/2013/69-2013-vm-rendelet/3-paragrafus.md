@@ -8,7 +8,7 @@
 
 (3) Bemutató Üzem címre jogosult
 
-a) e rendelet hatálybalépését megelőző gazdasági évben legalább 4 Európai Méretegység nagyságú gazdasággal rendelkező őstermelő, családi gazdaság, egyéni vállalkozó, egyéni cég, szövetkezet, társas vállalkozás, termelői csoport, termelői és értékesítési szövetkezet, beszerzési és értékesítési szövetkezet, szociális szövetkezet,
+a)[^5] e rendelet hatálybalépését megelőző gazdasági évben legalább 3 Európai Méretegység nagyságú gazdasággal rendelkező őstermelő, családi gazdaság, egyéni vállalkozó, egyéni cég, szövetkezet, társas vállalkozás, termelői csoport, termelői és értékesítési szövetkezet, beszerzési és értékesítési szövetkezet, szociális szövetkezet,
 
 b) legalább 20 hektár üzemi területtel rendelkező erdőgazdaság, vagy
 
@@ -74,7 +74,7 @@ c) a bemutató üzemi program lebonyolításához olyan szaktanácsadó közrem�
 
 a) aki, vagy amely mezőgazdasági vagy erdészeti tevékenységgel összefüggően használatos termékeket gyárt, forgalmaz, vagy az ilyen termékekkel ügynöki tevékenységet folytat;
 
-b)[^5] akit, vagy amelyet 2013. augusztus 26. napjáig jogerős határozatban az EMVA társfinanszírozásával nyújtott támogatásnak az intézkedésben való jogosulatlan részvétel szabályai szerinti visszafizetésére köteleztek, és a támogatási kérelem benyújtásáig e fennálló tartozása teljes mértékben nem került rendezésre;
+b)[^6] akit, vagy amelyet 2013. augusztus 26. napjáig jogerős határozatban az EMVA társfinanszírozásával nyújtott támogatásnak az intézkedésben való jogosulatlan részvétel szabályai szerinti visszafizetésére köteleztek, és a támogatási kérelem benyújtásáig e fennálló tartozása teljes mértékben nem került rendezésre;
 
 c) akinek, vagy amelynek az (1) bekezdés szerinti pályázat benyújtását megelőző
 
@@ -94,4 +94,5 @@ b) ha a Bemutató Üzemmel szemben a Mezőgazdasági és Vidékfejlesztési Hiva
 
 c) a (6) bekezdésben meghatározott körülmény fennállása esetén.
 
-[^5]: A 3. § (6) bekezdés b) pontja az 1/2014. (IX. 15.) MvM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdés a) pontja a 21/2015. (IV. 17.) MvM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (6) bekezdés b) pontja az 1/2014. (IX. 15.) MvM rendelet 32. § (1) bekezdésével megállapított szöveg.
