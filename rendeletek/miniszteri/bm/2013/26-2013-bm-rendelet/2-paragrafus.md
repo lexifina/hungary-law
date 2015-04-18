@@ -2,7 +2,7 @@
 
 1. ágazati célkitűzések: a belügyminiszter által a fegyveres szerv részére a tárgyévre vonatkozóan megállapított lényeges szakmai és szervezeti célok és elvárások;
 
-2. belügyi szerv: a Belügyminisztérium, a Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóság, a Belügyminisztérium Nemzetközi Oktatási Központ, a Szervezett Bűnözés Elleni Koordinációs Központ, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a 6. pontban felsorolt fegyveres szervek;
+2.[^1] belügyi szerv: a Belügyminisztérium, a Közszolgálati Személyzetfejlesztési Főigazgatóság, a Belügyminisztérium Nemzetközi Oktatási Központ, a Szervezett Bűnözés Elleni Koordinációs Központ, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a 6. pontban felsorolt fegyveres szervek;
 
 3. értékelés: a teljesítmény megállapítására irányuló tevékenység, amikor – mérhető mutatók hiányában – az értékelő vezető megítélésén alapul a teljesítmény megállapítása;
 
@@ -49,3 +49,5 @@
 24. területi szerv: a megyei, fővárosi rendőr-főkapitányság, a büntetés-végrehajtási intézet, a fővárosi, megyei katasztrófavédelmi igazgatóság, az egyes feladatok létrehozására törvény vagy kormányrendelet által létrehozott más rendőri szerv, a büntetés-végrehajtási intézmény, az Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ, a Katasztrófavédelmi Oktatási Központ, a Nemzeti Védelmi Szolgálat igazgatósága, valamint a Terrorelhárítási Központ igazgatósága;
 
 25. vezető besorolású értékelt személy: osztályvezető, vagy annál magasabb besorolású vezető.
+
+[^1]: A 2. § 2. pontja a 16/2015. (IV. 17.) BM rendelet 13. §-a szerint módosított szöveg.
