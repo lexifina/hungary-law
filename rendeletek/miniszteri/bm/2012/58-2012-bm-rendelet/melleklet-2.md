@@ -6,7 +6,7 @@
 
 | 2. | Adyligeti Rendészeti Szakközépiskola | ARSZKI | 2094 Nagykovácsi, Nagykovácsi út 3. Postacím: 1286 Budapest, Pf.: 9 |
 
-| 3. | BM Oktatási, Képzési és Tudományszervezési Főigazgatóság | BM OKTF | 2094 Nagykovácsi, Nagykovácsi út 3. |
+| 3. | Közszolgálati Személyzetfejlesztési | KSZF | 2094 Nagykovácsi, Nagykovácsi út 3. |
 
 | 4. | Büntetés-végrehajtási Szervezet Oktatási Központja | BvOK | 1108 Budapest, Újhegyi út 9-11. Postacím: 1479 Budapest, Pf.: 121. |
 
@@ -26,7 +26,7 @@
 
 | 12. | Szegedi Rendészeti Szakközépiskola | SZRSZKI | 6728 Szeged, Bajai út 14. |
 
-2. melléklet az 58/2012. (XI. 27.) BM rendelethez[^3]
+2. melléklet az 58/2012. (XI. 27.) BM rendelethez[^4]
 
 Vizsgaszervezési kijelölések
 
@@ -34,7 +34,7 @@ Vizsgaszervezési kijelölések
 
 | 1. | Sor- szám | A szakképesítésnek a 150/2012. (VII. 6.) Korm. rendeletben szereplő adatai | Komplex szakmai vizsga szervezésére kijelölt intézmények |
 
-| 2. |  | azonosító szám | megnevezés | ARSZKI | KRSZKI | MRSZKI | SZRSZKI | ORFK DOK | ORFK RSZKK | NKE | KOK | BvOK | ÉMI | BM OKTF |
+| 2. |  | azonosító szám | megnevezés | ARSZKI | KRSZKI | MRSZKI | SZRSZKI | ORFK DOK | ORFK RSZKK | NKE | KOK | BvOK | ÉMI | KSZF |
 
 | 3. | 1. | 52 861 01 | Biztonságszervező | X | X | X | X |  | X | X | X |  |  | X |
 
@@ -146,4 +146,4 @@ Vizsgaszervezési kijelölések
 
 | 57. |  | 53 861 09 | Szakképesítés-ráépülés: Tűzvédelmi főelőadó |  |  |  |  |  |  |  | X |  |  | X |
 
-[^3]: A 2. melléklet a 23/2014. (III. 14.) BM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 23/2014. (III. 14.) BM rendelet 1. §-a, a 16/2015. (IV. 17.) BM rendelet 7. § c) pontja szerint módosított szöveg.
