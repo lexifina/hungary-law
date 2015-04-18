@@ -24,6 +24,8 @@ j) a Bevándorlási és Állampolgársági Hivatal központi és területi szerv
 
 k) a Belügyminisztérium Nemzetközi Oktatási Központ,
 
-l) a Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóság, valamint
+l)[^2] a Közszolgálati Személyzetfejlesztési Főigazgatóság, valamint
 
 m) a rendészeti szakközépiskolák.
+
+[^2]: Az 1. § l) pontja a 16/2015. (IV. 17.) BM rendelet 14. §-a szerint módosított szöveg.

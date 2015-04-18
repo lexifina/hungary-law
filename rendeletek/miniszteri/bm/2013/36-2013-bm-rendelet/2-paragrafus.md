@@ -4,7 +4,7 @@
 
 (2) A belügyi szerv vezetője a belügyi szerv zárt célú elektronikus információs rendszerei védelmének biztosítása érdekében helyi felügyelet létrehozásáról gondoskodik a (3) bekezdésben meghatározott kivétellel.
 
-(3) Az országos rendőrfőkapitány látja el a zárt célú elektronikus információs rendszerek védelmének biztosítása érdekében a helyi felügyeleti feladatokat a Belügyminisztérium Nemzetközi Oktatási Központ, a Belügyminisztérium Oktatási, Képzési és Tudományszervezési Főigazgatóság, valamint a rendészeti szakközépiskolák vonatkozásában.
+(3)[^3] Az országos rendőrfőkapitány látja el a zárt célú elektronikus információs rendszerek védelmének biztosítása érdekében a helyi felügyeleti feladatokat a Belügyminisztérium Nemzetközi Oktatási Központ, a Közszolgálati Személyzetfejlesztési Főigazgatóság, valamint a rendészeti szakközépiskolák vonatkozásában.
 
 (4) A helyi felügyelet feladata:
 
@@ -29,3 +29,5 @@ h) együttműködés a központi felügyelettel, javaslattétel az annak hatásk
 a) a belügyi szerv zárt célú elektronikus információs rendszerei megnevezését, a zárt célú elektronikus információs rendszerek biztonsági osztályának és a belügyi szerv biztonsági szintjének besorolását, a zárt célú elektronikus információs rendszerek műszaki adatait,
 
 b) a belügyi szerv informatikai biztonsági szabályzatát.
+
+[^3]: A 2. § (3) bekezdése a 16/2015. (IV. 17.) BM rendelet 14. §-a szerint módosított szöveg.
