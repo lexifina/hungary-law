@@ -1,3 +1,5 @@
 ## 8. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-9. § Hatályát veszti a Vám- és Pénzügyőrség által folytatott büntetőeljárás nyomozási szakaszában a sajtónak adandó tájékoztatásról szóló 30/2004. (VI. 9.) PM–IM együttes rendelet.
+9. §[^1]
+
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
