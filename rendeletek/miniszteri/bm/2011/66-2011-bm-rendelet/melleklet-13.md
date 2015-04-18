@@ -42,13 +42,13 @@
 
 ## 1.20. katonai vétségek nyomozását végző fegyelmi kiemelt főreferens,
 
-## 1.21.[^51] kiemelt főreferens (ORFK Bűnügyi Főigazgatóság, KR Nemzeti Nyomozó Iroda, Repülőtéri Rendőr Igazgatóság Bűnügyi Igazgatóság),
+## 1.21.[^53] kiemelt főreferens (ORFK Bűnügyi Főigazgatóság, KR Nemzeti Nyomozó Iroda, Repülőtéri Rendőr Igazgatóság Bűnügyi Igazgatóság),
 
 ## 1.22. alosztályvezető (Repülőtéri Rendőr Igazgatóság Bűnügyi Igazgatóság),
 
 ## 1.23. az 1.1.–1.22. alpontban felsoroltak szolgálati elöljárói osztályvezetői szintig, amennyiben bűnügyi megelőző, felderítő és vizsgálati feladatot ténylegesen ellátnak.
 
-## 2.[^52] A Készenléti Rendőrség Különleges Szolgálatok Igazgatóság Tanúvédelmi Szolgálat Bevetést Támogató Osztályán rendszeresített beosztások közül:
+## 2.[^54] A Készenléti Rendőrség Különleges Szolgálatok Igazgatóság Tanúvédelmi Szolgálat Bevetést Támogató Osztályán rendszeresített beosztások közül:
 
 ## 2.1. osztályvezető-helyettes,
 
@@ -70,7 +70,7 @@
 
 ## 2.10. technikus (bűnügyi).
 
-13. melléklet a 66/2011. (XII. 30.) BM rendelethez[^53]
+13. melléklet a 66/2011. (XII. 30.) BM rendelethez[^55]
 
 A Készenléti Rendőrség köztársasági elnök, valamint a vele közös háztartásban élő házas- vagy élettársa és gyermekei személyvédelmét ellátó szervezeti egységnél munkaköri pótlékra jogosító szolgálati beosztások
 
@@ -90,6 +90,6 @@ A Készenléti Rendőrség köztársasági elnök, valamint a vele közös házt
 
 8. helyszínbiztosító.
 
-[^51]: A 12. melléklet 1. pont 1.21. alpontja a 60/2013. (X. 24.) BM rendelet 1. § e) pontjával megállapított szöveg.
-[^52]: A 12. melléklet 2. pontját a 60/2013. (X. 24.) BM rendelet 1. § e) pontja iktatta be.
-[^53]: A 13. mellékletet a 12/2015. (III. 31.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^53]: A 12. melléklet 1. pont 1.21. alpontja a 60/2013. (X. 24.) BM rendelet 1. § e) pontjával megállapított szöveg.
+[^54]: A 12. melléklet 2. pontját a 60/2013. (X. 24.) BM rendelet 1. § e) pontja iktatta be.
+[^55]: A 13. mellékletet a 12/2015. (III. 31.) BM rendelet 2. § (2) bekezdése iktatta be.
