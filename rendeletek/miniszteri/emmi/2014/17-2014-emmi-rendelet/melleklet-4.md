@@ -62,7 +62,7 @@
 
 ## III. Vizsgálati szempontok az 1. évfolyamon alkalmazott olvasókönyvek jóváhagyásához (ábécés könyvek)
 
-## Az első évfolyamon alkalmazni kívánt olvasókönyvek (ábécés könyvek) tankönyvvé nyilvánítási eljárásában az I. Pedagógiai pont szempontjai helyett az alábbi szempontokat kell vizsgálni.
+## Az első évfolyamon alkalmazni kívánt olvasókönyvek (ábécés könyvek) tankönyvvé nyilvánítási eljárásában a tantárgy tanításával összefüggő módszertani szempontok helyett az alábbi szempontokat kell vizsgálni.
 
 ## a) A magyar nyelv helyesírási és alaktani sajátosságainak megfelel
 

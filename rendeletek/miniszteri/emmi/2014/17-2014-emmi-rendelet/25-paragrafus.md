@@ -6,9 +6,9 @@
 
 ## 12. Az iskolai tankönyv-támogatási és -megrendelési igények felmérésének folyamata
 
-25. § (1) Az iskola igazgatója minden év június 10-éig köteles felmérni, hány tanulónak kell vagy lehet biztosítani a tankönyvellátást az iskolai könyvtárból, könyvtárszobából történő tankönyvkölcsönzés útján, hányan kívánnak használt tankönyvet igénybe venni vagy új tankönyvet vásárolni.
+25. § (1)[^12] Az iskola igazgatója minden év június 10-éig köteles felmérni, hány tanulónak kell vagy lehet biztosítani a tankönyvellátást az iskolai könyvtárból, könyvtárszobából történő tankönyvkölcsönzés útján.
 
-(2) Az (1) bekezdés szerinti felmérés során tájékoztatni kell a szülőket arról, hogy várhatóan mely tanulók lesznek jogosultak
+(2)[^13] Az (1) bekezdés szerinti felmérés során tájékoztatni kell a szülőket arról, hogy mely tanulók lesznek jogosultak
 
 a) az Ntt. 4. § (1) bekezdése alapján ingyenes tankönyvellátásra,
 
@@ -28,4 +28,8 @@ c) esetében kell biztosítani a miniszter által megállapított tanulói tér�
 
 d) igényel és milyen típusú tankönyvtámogatást az a)–b) pontokban foglaltakon túl.
 
-(5) A (4) bekezdés a), illetve b) pontja szerinti igényeket az 5. mellékletben meghatározott igénylőlapon lehet benyújtani. Az igénylőlap benyújtásával egyidejűleg be kell mutatni a normatív kedvezményre való jogosultságot igazoló iratokat vagy az 5. melléklet szerinti igénylőlapon nyilatkozni kell a normatív kedvezményre való jogosultság későbbi időpontban történő igazolásáról. Az iratok bemutatásának tényét az iskola igazgatója rávezeti az igénylőlapra.
+(5)[^14] A (4) bekezdés b) pontja szerinti igényeket az 5. mellékletben meghatározott igénylőlapon lehet benyújtani. Az igénylőlap benyújtásával egyidejűleg be kell mutatni a normatív kedvezményre való jogosultságot igazoló iratokat vagy az 5. melléklet szerinti igénylőlapon nyilatkozni kell a normatív kedvezményre való jogosultság későbbi időpontban történő igazolásáról. Az iratok bemutatásának tényét az iskola igazgatója rávezeti az igénylőlapra.
+
+[^12]: A 25. § (1) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 13. § a) pontja szerint módosított szöveg.
+[^13]: A 25. § (2) bekezdés nyitó szövegrésze a 21/2015. (IV. 17.) EMMI rendelet 13. § b) pontja szerint módosított szöveg.
+[^14]: A 25. § (5) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 12. § e) pontja szerint módosított szöveg.

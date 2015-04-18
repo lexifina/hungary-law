@@ -16,6 +16,6 @@
 
 ## h) Oktatási Hivatal 10032000-00282637-00000000 pénzforgalmi jelzőszámú bankszámla
 
-## i) Nemzeti Munkaügyi Hivatal 10032000-01732630-00000000 pénzforgalmi jelzőszámú bankszámla
+## i) Nemzeti Szakképzési és Felnőttképzési Hivatal 10032000-00334789-00000000 pénzforgalmi jelzőszámú bankszámla
 
 8. melléklet a 17/2014. (III. 12.) EMMI rendelethez

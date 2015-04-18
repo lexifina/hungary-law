@@ -18,7 +18,7 @@ f) technológiai kivitelezése alkalmas-e a tankönyvvé, pedagógus-kézikönyv
 
 a) a tankönyv előállításának alapjául szolgáló, a kerettantervek kiadásának és jóváhagyásának rendjéről szóló 51/2012. (XII. 21.) EMMI rendelet (a továbbiakban: kerettantervi rendelet) alapján kiadott vagy jóváhagyott kerettantervek tananyagtartalmának a kerettantervben meghatározott időkeretben történő elsajátítására abban az esetben, ha kiadásra vagy jóváhagyásra került kerettanterv az adott könyv által lefedett pedagógiai szakaszra, továbbá pedagógus-kézikönyv esetén támogatja-e szakmai iránymutatással az időkeretek megtartását,
 
-b) a tantárgyi, műveltségi területi követelmények elsajátítására az adott iskolatípusban és évfolyamon, továbbá pedagógus-kézikönyv esetén a követelményekre vonatkozó előírásoknak a tanulói fejlesztés céljából történő a támogatására,
+b)[^3] a tantárgyi, műveltségi területi követelmények elsajátítására az adott iskolatípusban és évfolyamon, továbbá pedagógus-kézikönyv esetén a követelményekre vonatkozó előírásoknak a tanulói fejlesztés céljából történő támogatására,
 
 ba) a nemzetiségi nevelést-oktatás esetén a nemzetiség óvodai nevelésének irányelve és a nemzetiség iskolai oktatásának irányelve kiadásáról szóló rendeletben foglaltak megvalósítására,
 
@@ -55,3 +55,5 @@ c) mentes-e a politikai állásfoglalástól, továbbá
 d) ütközik-e az iskolai reklámcélú tevékenység korlátozására vonatkozó jogszabályi előírásokba.
 
 (5) Nem nyilvánítható tankönyvvé, pedagógus-kézikönyvvé az a könyv, amelyik nem felel meg az (1)–(4) bekezdésben foglaltaknak.
+
+[^3]: A 7. § (2) bekezdés b) pont nyitó szövegrésze a 21/2015. (IV. 17.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.

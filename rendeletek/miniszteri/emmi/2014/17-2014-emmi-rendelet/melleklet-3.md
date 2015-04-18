@@ -60,10 +60,12 @@
 
 | 7. | A tankönyv, pedagógus-kézikönyv felhasználási jogainak átengedése esetén | 15 000 Ft |
 
-| 8. | Hibajavítás bejelentése esetén | 7 500 Ft |
+| 8. | Hibajavítás, valamint tartós tankönyv jelölés bejelentése esetén | 7 500 Ft |
 
 | 9. | A tankönyvvé nyilvánítás, pedagógus-kézikönyvvé nyilvánítás megszüntetése esetén | 25 000 Ft |
 
 | 10. | Tankönyvjegyzékre történő felvételi kérelem benyújtása címenként | 5 500 Ft |
 
-3. melléklet a 17/2014. (III. 12.) EMMI rendelethez
+3. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^22]
+
+[^22]: A 3. melléklet a 21/2015. (IV. 17.) EMMI rendelet 12. § i) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@ b) nem vállalja a 18. § (3) bekezdésében meghatározott kötelezettséget,
 
 c) adott könyvét, amellyel a miniszter által kiírt nyilvános pályázati eljárásban részt vett, a miniszter nem választotta ki, vagy
 
-d) kérelmét június 15-ét követően nyújtotta be.
+d)[^10] kérelmét június 30-át követően nyújtotta be.
 
 (2) A tankönyvet törölni kell a tankönyvjegyzékről, ha utóbb bebizonyosodik, hogy
 
@@ -21,3 +21,5 @@ d) a könyvkiadást folytató jogi személy a 18. § (3) bekezdésében vállalt
 (3) A tankönyvjegyzékre történő felvételről, illetve a tankönyvjegyzékről történő törlésről – az Ntt. 3. § (7) bekezdésében, illetve e rendelet 11. § (1) és (2) bekezdésében meghatározott kivétellel – a hivatal dönt.
 
 (4) Az Nkt. 7. § (1) bekezdés d)–e) pontja szerinti szakképző iskola szakképzési tankönyve tankönyvjegyzékre történő felvételéről a szakképesítésért felelős miniszter a Szakképzési Tankönyv és Taneszköz Tanács véleménye alapján dönt. A szakképesítésért felelős miniszter az általa jóváhagyott és a jegyzékről törölt tankönyvek jegyzékét megküldi a hivatalnak, amely gondoskodik a tankönyvek jegyzékre vételéről, törléséről.
+
+[^10]: A 20. § (1) bekezdés d) pontja a 21/2015. (IV. 17.) EMMI rendelet 12. § d) pontja szerint módosított szöveg.

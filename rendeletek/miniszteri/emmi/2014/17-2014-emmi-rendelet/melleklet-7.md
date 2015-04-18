@@ -38,4 +38,6 @@
 
 ## 19. Pedagógus-kézikönyv esetén annak a tantárgynak, műveltségi területnek a megnevezése, amelyhez módszertanilag javasolt a használata.
 
-7. melléklet a 17/2014. (III. 12.) EMMI rendelethez
+7. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^24]
+
+[^24]: A 7. melléklet a 21/2015. (IV. 17.) EMMI rendelet 12. § j) pontja szerint módosított szöveg.

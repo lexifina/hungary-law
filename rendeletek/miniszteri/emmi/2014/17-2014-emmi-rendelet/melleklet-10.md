@@ -6,11 +6,11 @@
 
 ## 3. A kiadó köteles a megrendelt tankönyveket a Könyvtárellátó által megjelölt országos gyűjtőraktárakba saját költségén eljuttatni.
 
-## 4. A Könyvtárellátó a terjesztésre átvett tankönyvek ellenértékével folyó év október 31-ig, a pótrendelések és a később igazolt kedvezmények tekintetében következő év január 31-ig számol el a tankönyvkiadók felé.
+## 4. A Könyvtárellátó a terjesztésre átvett tankönyvek ellenértékével folyó év december 15-ig, a pótrendelések és a később igazolt kedvezmények tekintetében következő év január 31-ig számol el a tankönyvkiadók felé.
 
-## 5. A kiadó a tankönyv megrendelésével a tárgyév december 31-éig köteles a visszáru átvételére.
+## 5. A kiadó a tankönyv megrendelésével a tárgyév december 15-éig köteles a visszáru átvételére.
 
-10. melléklet a 17/2014. (III. 12.) EMMI rendelethez
+10. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^26]
 
 A tankönyvellátási szerződés kötelező kereskedelmi feltételei
 
@@ -18,6 +18,6 @@ A tankönyvellátási szerződés kötelező kereskedelmi feltételei
 
 2. A központ, az iskola az iskolai tankönyvrendeléssel érintett tankönyvek vonatkozásában köteles mennyiségi vagy minőségi kifogásait haladéktalanul jelezni a Könyvtárellátó részére, melyet a Könyvtárellátó a központ által fenntartott iskola esetében a központtal, a nem a központ által fenntartott iskola esetében az iskolával közösen megállapodott feltételekkel orvosol.
 
-3. A Könyvtárellátó a tanulók részére megrendelt tankönyvek vonatkozásában fennálló számlaadási kötelezettségét legkésőbb a tankönyveknek a tanulók részére történő átadását követő tizenöt napon belül köteles teljesíteni.
+3. A központ vagy az iskola a visszárut szeptember 8-ig köteles (a felek eltérő megállapodása hiányában) saját helyiségében visszaszállításra előkészíteni és ezt követően a Könyvtárellátó rendelkezésére bocsátani.
 
-4. A központ vagy az iskola a visszárut szeptember 15-ig köteles (a felek eltérő megállapodása hiányában) saját helyiségében a Könyvtárellátó rendelkezésére bocsátani.
+[^26]: A 10. melléklet a 21/2015. (IV. 17.) EMMI rendelet 11. §-ával megállapított szöveg.
