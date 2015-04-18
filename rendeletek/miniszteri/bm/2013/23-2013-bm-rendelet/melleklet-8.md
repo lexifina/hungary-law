@@ -296,7 +296,7 @@
 
 |  | D17 | A munkavégzéssel vagy a munkakörnyezettel kapcsolatos egyéb betegségek |
 
-8. melléklet a 23/2013. (VI. 11.) BM rendelethez
+8. melléklet a 23/2013. (VI. 11.) BM rendelethez[^6]
 
 ## Bejelentés foglalkozási megbetegedésről (mérgezésről), fokozott expozícióról
 
@@ -310,7 +310,7 @@
 
 | 2 – Foglalkozás-egészségügyi szakellátó hely orvosa |
 
-| 3 – Nemzeti Munkaügyi Hivatal Munkavédelmi és Munkaügyi Igazgatóság |
+| 3 – Országos Tisztifőorvosi Hivatal |
 
 | Bejelentő orvos neve: ........................................................................ |
 
@@ -431,3 +431,5 @@ a 8–10. számjegy a bejelentő orvos által adott sorszám
 5. FEOR kód: Foglalkozások Egységes Osztályozási Rendszere (Korszerűsített jegyzék)
 
 (KSH, FEOR-08)
+
+[^6]: A 8. melléklet a 16/2015. (IV. 17.) BM rendelet 12. §-a szerint módosított szöveg.
