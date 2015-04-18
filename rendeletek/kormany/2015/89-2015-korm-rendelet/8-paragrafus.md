@@ -1,1 +1,0 @@
-## „bc) Gyvt. hatálya alá tartozó intézményben foglalkoztatott pedagógus esetében az intézmény vezetője vagy az általa megbízott, a minősítési eljárásban résztvevőnél magasabb fokozatba besorolt, azonos munkakörben foglalkoztatott alkalmazott, az intézményvezető minősítési eljárása esetében a fenntartó képviselője,”
