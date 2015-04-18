@@ -52,7 +52,7 @@
 
 | 24. | Bv. gazdasági társasághoz vezényelt főtiszt, tiszt, zászlós és tiszthelyettes pénz- és tárgyjutalomban részesítése | * | * |  |
 
-3. melléklet a 61/2011. (XII. 29.) BM rendelethez[^3]
+3. melléklet a 61/2011. (XII. 29.) BM rendelethez[^4]
 
 A hivatásos katasztrófavédelmi szervek hivatásos állományú tagjaira vonatkozó egyes munkáltatói jogkörök, valamint az ezek gyakorlására feljogosított elöljárók
 
@@ -92,4 +92,4 @@ A hivatásos katasztrófavédelmi szervek hivatásos állományú tagjaira vonat
 
 | 17. | Jutalmazás | Pénz- és tárgyjutalom főtiszt, tiszt, zászlós, tiszthelyettes esetében | * | * |  |
 
-[^3]: A 3. melléklet a 11/2012. (III. 30.) BM rendelet 3. §-ával megállapított szöveg.
+[^4]: A 3. melléklet a 11/2012. (III. 30.) BM rendelet 3. §-ával megállapított szöveg.
