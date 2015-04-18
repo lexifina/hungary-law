@@ -1,0 +1,3 @@
+## 4. § A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjaira vonatkozó munkáltatói jogkörökről és azok gyakorlására feljogosított elöljárókról szóló 61/2011. (XII. 29.) BM rendelet 1. mellékletében szereplő táblázat F:2 mezőjében a „Repülőtéri Rendőr Igazgatóság igazgatója” szövegrész helyébe a „Repülőtéri Rendőr Igazgatóság igazgatója, a Bűnügyi Szakértői és Kutatóintézet igazgatója” szöveg lép.
+
+## 5. A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 66/2011. (XII. 30.) BM rendelet módosítása

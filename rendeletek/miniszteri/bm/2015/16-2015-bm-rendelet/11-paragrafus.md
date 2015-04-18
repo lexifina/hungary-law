@@ -1,0 +1,3 @@
+## 10. § A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjainak, közalkalmazottainak és a hivatásos állományból nyugállományba helyezettek fogászati ellátással, valamint szemüvegkészítéssel kapcsolatos költségeinek megtérítéséről, illetve támogatásban részesítéséről szóló 11/2013. (IV. 23.) BM rendelet 1. § a) pontjában a „Belügyminisztérium Oktatási, Képzési és Tudományszervezési” szövegrész helyébe a „Közszolgálati Személyzetfejlesztési” szöveg lép.
+
+## 11. Az Országgyűlési Őrség munkavédelmi feladatai és foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 23/2013. (VI. 11.) BM rendelet módosítása

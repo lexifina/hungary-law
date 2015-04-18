@@ -1,0 +1,1 @@
+## 11. § Az Országgyűlési Őrség munkavédelmi feladatai és foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 23/2013. (VI. 11.) BM rendelet 4. § (3) bekezdésében az „a Nemzeti Munkaügyi Hivatal” szövegrész helyébe az „a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium” szöveg lép.
