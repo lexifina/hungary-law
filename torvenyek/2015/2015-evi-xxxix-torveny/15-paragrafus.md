@@ -5,11 +5,3 @@
 „j) a Quaestor Károsultak Kárrendezési Alapja”
 
 (részére forintban és külföldi pénznemben bankszámlát vezetni.)
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
