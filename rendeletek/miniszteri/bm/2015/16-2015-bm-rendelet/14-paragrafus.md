@@ -1,3 +1,0 @@
-## 13. § A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai teljesítményértékelésének ajánlott elemeiről, az ajánlott elemek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.) BM rendelet 2. § 2. pontjában a „Belügyminisztérium Oktatási, Képzési és Tudományszervezési” szövegrész helyébe a „Közszolgálati Személyzetfejlesztési” szöveg lép.
-
-## 13. A zárt célú elektronikus információs rendszerek biztonságának felügyeletével és ellenőrzésével kapcsolatos ágazati szabályokról szóló 36/2013. (VII. 17.) BM rendelet módosítása
