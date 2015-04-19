@@ -1,1 +1,3 @@
-## 9. § A miniszteri rendelet 5. melléklete helyébe az 1. melléklet lép.
+## 1–9. §[^1]
+
+[^1]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

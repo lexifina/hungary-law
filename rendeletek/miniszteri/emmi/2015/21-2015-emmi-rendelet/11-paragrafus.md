@@ -1,3 +1,3 @@
-## 10. §[^1]
+## 10. §[^2]
 
-[^1]: A 10. § a 14. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^2]: A 10. § a 14. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.

@@ -1,5 +1,0 @@
-## 7. § A miniszteri rendelet 32. § (5) bekezdése helyébe a következő rendelkezés lép, és a § a következő (5a) bekezdéssel egészül ki:
-
-## „(5) Az iskola igazgatója gondoskodik arról, hogy az Nkt. 46. § (5) bekezdése alapján az állam által térítésmentesen biztosított tankönyveket – a munkafüzetek kivételével –, továbbá a pedagógus-kézikönyveket az iskola könyvtári állomány-nyilvántartásába vegyék, az iskolai könyvtári állományban elkülönítetten kezeljék, továbbá az iskolával jogviszonyban álló tanuló, illetve a pedagógus részére a tanév feladataihoz az iskola házirendjében meghatározottak szerint bocsássák rendelkezésre. Az iskolai házirend által megállapított tankönyvellátási szabályok nem vonatkoznak a munkafüzetekre. Az állam által térítésmentesen biztosított tankönyveket a pedagógus, a tanuló köteles az utolsó tanítási napon visszaszolgáltatni az intézmény könyvtárának.
-
-## (5a) Ha a tanuló vagy a pedagógus az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, vele szemben a Polgári Törvénykönyv kártérítésre vonatkozó rendelkezéseit kell alkalmazni.”
