@@ -1,0 +1,3 @@
+## 6. § A Bkr. 31. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) Minisztérium esetében az éves ellenőrzési terv módosításának, illetve a soron kívüli ellenőrzés elrendeléséről szóló intézkedés – indokolással ellátott – tervezetét előzetes véleményezés céljából meg kell küldeni a Hivatal elnöke számára. A Hivatal elnöke az éves ellenőrzési terv módosítása esetén a tájékoztatás kézhezvételétől számított 8 napon belül, soron kívüli ellenőrzés elrendelése esetén pedig soron kívül értesíti a minisztériumot az álláspontjáról. A Hivatal elnökének eljárására a 15. § (8) bekezdésében foglaltakat megfelelően alkalmazni kell.”
