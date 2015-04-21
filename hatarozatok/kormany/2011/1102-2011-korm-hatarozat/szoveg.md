@@ -14,86 +14,100 @@ d) részt vesz a cigányság társadalmi helyzetének javításával, valamint t
 
 e) közreműködik a felzárkózást elősegítő szakmai hálózatok kialakításában, fejlesztésében.
 
-4. A Tanács 27 tagú testület, amelynek tagjai:
+4.[^1] A Tanács 29 tagú testület, amelynek tagjai:
 
-a)[^1] az emberi erőforrások minisztere mint a Tanács elnöke;
+a) az emberi erőforrások minisztere, mint a Tanács elnöke;
 
-b)[^2] az Emberi Erőforrások Minisztériuma (a továbbiakban: EMMI) társadalmi felzárkózásért felelős államtitkára mint a Tanács alelnöke;
+b) az Emberi Erőforrások Minisztériuma (a továbbiakban: EMMI) szociális ügyekért és társadalmi felzárkózásért felelős államtitkára, mint a Tanács alelnöke;
 
-c)[^3] az EMMI egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára mint a Tanács alelnöke;
+c) az EMMI egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára, mint a Tanács alelnöke;
 
-d)[^4] az Alapvető Jogok Biztosának Nemzetiségi Jogokért Felelős Helyettes Biztosa;
+d) az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettese;
 
-e)[^5] az Országos Roma Önkormányzat képviseletében 2 fő, egyikük mint a Tanács társelnöke;
+e) az Országos Roma Önkormányzat képviseletében 1 fő, mint a Tanács társelnöke;
 
-f)[^6] a Cigány Területi Nemzetiségi Önkormányzatok képviseletében 5 fő;
+f) a roma/cigány nemzetiség területi nemzetiségi önkormányzatai képviseletében 5 fő;
 
-g) a roma közösségek képviseletében 6 fő;
+g) a roma közösségek képviseletében 7 fő;
 
 h) a Települési Önkormányzatok Országos Szövetségének képviseletében 1 fő;
 
-i) a Magyar Katolikus Egyház képviseletében 2 fő, akik közül az egyik személyt a Hajdúdorogi Görög Katolikus Egyházmegye javaslatára delegálja a Magyar Katolikus Egyház;
+i) a Magyar Katolikus Egyház képviseletében 2 fő, akik közül az egyik személyt a Hajdúdorogi Egyházmegye javaslatára delegálja a Magyar Katolikus Egyház;
 
-j) a Magyarországi Református Egyház, a Magyarországi Evangélikus Egyház, a Magyarországi Zsidó Hitközségek Szövetsége, valamint az Evangéliumi Szabadegyházak Szövetsége képviseletében 1-1 fő;
+j) a Magyarországi Református Egyház képviseletében 1 fő;
 
-k)[^7] a Nemzeti Gazdasági és Társadalmi Tanácsról szóló törvény szerinti országos munkáltatói és munkavállalói érdekképviseletek, illetve érdekképviseleti szövetségek 1-1 képviselője;
+k) a Magyarországi Evangélikus Egyház képviseletében 1 fő;
 
-l) a Magyar Tudományos Akadémia képviseletében 1 fő.
+l) a Magyarországi Zsidó Hitközségek Szövetsége képviseletében 1 fő;
 
-5. A Tanács ülésein
+m) az Evangéliumi Szabadegyházak Szövetsége képviseletében 1 fő;
+
+n) a Nemzeti Gazdasági és Társadalmi Tanács munkaadói és munkavállalói oldalainak képviseletében 1-1 fő;
+
+o) a Magyar Tudományos Akadémia képviseletében 1 fő;
+
+p) az Országgyűlés Magyarországi nemzetiségek bizottsága roma/cigány nemzetiségi szószólója;
+
+q) Keresztény Roma Szakkollégiumi Hálózat elnöke.
+
+5.[^2] A Tanács ülésein
 
 a) állandó meghívottként tanácskozási joggal vesznek részt:
 
-aa) az Egyenlő Bánásmód Hatóság elnöke;
+aa) a miniszterelnök által kijelölt személy;
 
-ab) a Központi Statisztikai Hivatal elnöke;
+ab) az Egyenlő Bánásmód Hatóság elnöke;
 
-ac) Országgyűlés emberi jogi, kisebbségi, civil- és vallásügyi bizottsága és a Foglalkoztatási és munkaügyi bizottsága képviseletében 1-1 fő;
+ac) a Központi Statisztikai Hivatal elnöke;
+
+ad) az Országgyűlés Kulturális bizottsága képviseletében 1 fő;
+
+ae) az Országgyűlés Népjóléti bizottsága képviseletében 1 fő;
+
+af) a „Legyen jobb a gyermekeknek!” Nemzeti Stratégia Értékelő Bizottságának civil társelnöke;
+
+ag) a 4/2014 (XII. 5.) ME utasítás alapján kinevezett miniszterelnöki biztos;
 
 b) eseti meghívottként, a Tanács elnökének felkérésére, tanácskozási joggal vesznek részt:
 
-ba) a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság tagjai, illetve a kormányzat más képviselői;
+ba) a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság tagjai,
 
 bb) további meghívott személyek.
 
-6.[^8] A Tanács elnöke az emberi erőforrások minisztere. A Tanács alelnöke az EMMI társadalmi felzárkózásért felelős államtitkára és az EMMI egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára, társelnöke az Országos Roma Önkormányzat elnöke.
+6.[^3] A Tanács elnöke az emberi erőforrások minisztere. A Tanács alelnöke az EMMI szociális ügyekért és társadalmi felzárkózásért felelős államtitkára és az EMMI egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkára, társelnöke az Országos Roma Önkormányzat elnöke.
 
-7. A Tanács szükség szerint, de legalább félévente egyszer ülésezik. A Tanács ülését a Tanács elnöke – a Tanács Titkársága útján – hívja össze. A Tanács rendkívüli ülésének összehívását bármely tag az indok és napirend egyidejű megjelölésével kezdeményezheti a Tanács elnökénél.
+7.[^4] A Tanács szükség szerint, de legalább évente kétszer ülésezik. A Tanács ülését a Tanács elnöke – a Tanács Titkársága útján – hívja össze. A Tanács rendkívüli ülésének összehívását bármely tag az indok és napirend egyidejű megjelölésével kezdeményezheti a Tanács elnökénél.
 
 8. A Tanács ülésének napirendjét – a tagok javaslatainak figyelembevételével és a Tanács elnökének jóváhagyásával – a Tanács Titkársága készíti elő.
 
-9.[^9] A Tanács titkársági feladatainak ellátásáról az EMMI társadalmi felzárkózásért felelős államtitkára gondoskodik.
+9.[^5] A Tanács titkársági feladatainak ellátásáról az EMMI szociális ügyekért és társadalmi felzárkózásért felelős államtitkára gondoskodik.
 
 10. A Tanács Titkársága gondoskodik a Tanács ülése napirendjének, valamint a napirendi pontokhoz kapcsolódó dokumentumoknak a Tanács tagjai részére történő megküldéséről, legkésőbb a tervezett ülés előtt öt munkanappal.
 
-11. A Tanács üléseiről a Tanács Titkársága emlékeztetőt készít. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségi véleményt. Az emlékeztető elkészítéséről és a tagok részére történő megküldéséről – az ülést követő 5 munkanapon belül – a Tanács Titkársága gondoskodik.
+11.[^6] A Tanács üléseiről a Tanács Titkársága emlékeztetőt készít. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségi véleményt. Az emlékeztető elkészítéséről és a tagok részére történő megküldéséről – az ülést követő 15 munkanapon belül – a Tanács Titkársága gondoskodik.
 
 12. A Tanács és a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság közötti kapcsolattartás azok Titkárságain keresztül történik. A Tanács működésének részletes szabályait ügyrendjében állapítja meg.
 
-13. A Kormány felkéri
+13.[^7] A Kormány felkéri
 
-a)[^10] annak az 5 területi cigány nemzetiségi önkormányzatnak a vezetőit, amelyek területén a kedvezményezett térségek besorolásáról szóló 311/2007.(XI.17.) Korm. rendeletben meghatározott hátrányos helyzetű térségek és területükön található szegregátumok száma a legmagasabb, hogy állandó tagként vegyenek részt a Tanács munkájában,
+a) annak az 5 megyének a területén működő roma/cigány területi nemzetiségi önkormányzatnak a vezetőjét, amely megyék területén a kedvezményezett járások besorolásáról szóló 290/2014. (XI. 26.) Korm. rendeletben meghatározott, komplex programmal fejlesztendő járások jelentős számban találhatók, illetve amelyekben a Központi Statisztikai Hivatal 2011. évi népszámlálási adatai alapján a roma nemzetiségűek aránya szempontjából leginkább érintettek, hogy állandó tagként vegyenek részt a Tanács munkájában,
 
-b) a 4. pont d–l) bekezdésben szereplő szervezetek képviselőit a Tanácsban tagként való részvételre,
+b) a 4. pont d–q) alpontjaiban szereplő szervezetek képviselőit a Tanácsban tagként való részvételre,
 
-c)[^11] a 6. pontban szereplő Országos Roma Önkormányzat elnökét a Tanács társelnöki feladatainak ellátására.
+c) a 4. pont e) alpontjában szereplő Országos Roma Önkormányzat elnökét a Tanács társelnöki feladatainak ellátására.
 
-14.[^12] A Kormány felkéri az emberi erőforrások miniszterét, hogy a roma közösségeket képviselő olyan civil szervezetek kiválasztására írjon ki pályázatot, amelyek országos hatáskörrel bírnak (azaz létesítő okiratuk szerinti tevékenységüket legalább hét megyére és három régióra kiterjedő hatáskörrel végzik), valós (szociális, oktatási, egészségügyi kulturális, foglalkoztatási vagy más a közösség érdekében végzett szakmai) tevékenységet fejtenek ki, és közhasznú, vagy kiemelten közhasznú szervezetek.
+14.[^8] A Kormány felhívja az emberi erőforrások miniszterét, hogy 2015. június 30-ig írjon ki pályázatot olyan roma közösségeket képviselő civil szervezeteknek a Roma Koordinációs Tanácsban való részvétele érdekében, amelyek szociális oktatási, egészségügyi, kulturális, foglalkoztatási vagy más a közösség érdekében végzett szakmai tevékenységet fejtenek ki, hátrányos helyzetű társadalmi csoportokkal vagy nemzetiségekkel, kiemelten romákkal kapcsolatos tevékenységet végeznek.
 
 15. A Kormány felhívja a minisztereket és az egyéb központi államigazgatási szervek vezetőit, hogy a Kormány jogalkotási tervében szereplő, a romák társadalmi felzárkózását érintő jogszabályok esetén a Tanács tagjai számára biztosítsa a közigazgatási egyeztetés keretein belül a véleménynyilvánítás lehetőségét.
 
-16.[^13] Ez a határozat a közzétételét követő napon lép hatályba,
+16.[^9] Ez a határozat a közzétételét követő napon lép hatályba,
 
-[^1]: A 4. pont a) alpontja az 1683/2012. (XII. 29.) Korm. határozat 8. pontjával megállapított szöveg.
-[^2]: A 4. pont b) alpontja az 1683/2012. (XII. 29.) Korm. határozat 8. pontjával megállapított szöveg.
-[^3]: A 4. pont c) alpontja az 1683/2012. (XII. 29.) Korm. határozat 8. pontjával megállapított szöveg.
-[^4]: A 4. pont d) alpontja az 1683/2012. (XII. 29.) Korm. határozat 8. pontjával megállapított szöveg.
-[^5]: A 4. pont e) alpontja az 1683/2012. (XII. 29.) Korm. határozat 8. pontjával megállapított szöveg.
-[^6]: A 4. pont f) alpontja az 1683/2012. (XII. 29.) Korm. határozat 8. pontjával megállapított szöveg.
-[^7]: A 4. pont k) alpontja az 1239/2011. (VII. 14.) Korm. határozat 2. pontjával megállapított szöveg.
-[^8]: A 6. pont az 1683/2012. (XII. 29.) Korm. határozat 9. pontjával megállapított szöveg.
-[^9]: A 9. pont az 1683/2012. (XII. 29.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
-[^10]: A 13. pont a) alpontja az 1683/2012. (XII. 29.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
-[^11]: A 13. pont c) alpontja az 1683/2012. (XII. 29.) Korm. határozat 10. pont c) alpontja szerint módosított szöveg.
-[^12]: A 14. pont az 1683/2012. (XII. 29.) Korm. határozat 10. pont d) alpontja szerint módosított szöveg.
-[^13]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^1]: A 4. pont az 1223/2015. (IV. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1223/2015. (IV. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1683/2012. (XII. 29.) Korm. határozat 9. pontjával megállapított, az 1223/2015. (IV. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 7. pont az 1223/2015. (IV. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^5]: A 9. pont az 1683/2012. (XII. 29.) Korm. határozat 10. pont a) alpontja, az 1223/2015. (IV. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^6]: A 11. pont az 1223/2015. (IV. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^7]: A 13. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
+[^8]: A 14. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
+[^9]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
