@@ -30,7 +30,9 @@ cb) Hallgatói Önkormányzatok Országos Konferenciája,
 
 cc) Nagycsaládosok Országos Egyesülete,
 
-cd) Magyar Cserkészszövetség;
+cd) Magyar Cserkészszövetség,
+
+ce)[^1] Magyar Diáksport Szövetség;
 
 d) azon egyházak, illetőleg felekezetek által közösen jelölt két személy, amely egyházak, illetőleg felekezetek a Magyarország területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben hitéleti, illetőleg nem hitéleti célú oktatást, nevelést és képzést biztosító köz- és akkreditált belföldi felsőoktatási intézményekkel rendelkeznek.
 
@@ -67,3 +69,5 @@ b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátn
 13. A Tanács ülései nyilvánosak. A Tanács ügyrendjét, éves munkatervét, titkársága elérhetőségét, valamint az ülésein elhangzottak alapján készített összefoglalókat a minisztérium honlapján közzé kell tenni.
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 5. pont c) pont ce) alpontját az 1222/2015. (IV. 20.) Korm. határozat 1. pontja iktatta be.
