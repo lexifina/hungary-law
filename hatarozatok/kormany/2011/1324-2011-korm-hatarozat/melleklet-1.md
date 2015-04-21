@@ -92,8 +92,11 @@ b) gondoskodik a beérkezett jelentések és tájékoztatók iratkezelési szab�
 
 20. A Szabályzat alkalmazásában rendkívüli esemény:
 
-a) mindaz az előre nem látott veszély vagy bekövetkezett esemény, amely a Magyar Köztársaságot érintő potenciális vagy tényleges hatásában alkalmas az élet, a testi épség, az egészség, a vagyoni javak, a pénzügyi és a gazdasági ellátó rendszerek, a közigazgatási infrastruktúra, a természeti vagy az épített környezet olyan mérvű károsítására, továbbá a köznyugalom és a társadalom működésének olyan súlyos megzavarására, amely nagyságrendjénél fogva kormányzati fellépést igényel vagy igényelhet, függetlenül attól, hogy a konkrét helyzet eléri-e az Alkotmány 19. § (3) bekezdésének h), i), n) pontjában, 19/E. §-ában vagy 35. § (1) bekezdésének i) pontjában foglalt minősített időszak szintjét, vagy azt az ország határain belül vagy kívül keletkezett ok váltja ki;
+a)[^1] mindaz az előre nem látott veszély vagy bekövetkezett esemény, amely a Magyarországot érintő potenciális vagy tényleges hatásában alkalmas az élet, a testi épség, az egészség, a vagyoni javak, a pénzügyi és a gazdasági ellátó rendszerek, a közigazgatási infrastruktúra, a természeti vagy az épített környezet olyan mérvű károsítására, továbbá a köznyugalom és a társadalom működésének olyan súlyos megzavarására, amely nagyságrendjénél fogva kormányzati fellépést igényel vagy igényelhet, függetlenül attól, hogy a konkrét helyzet alapján az Alaptörvény szerinti különleges jogrend kihirdetésének a feltételei fennállnak-e, vagy azt az ország határain belül vagy kívül keletkezett ok váltja ki;
 
-b) a Magyar Köztársaság diplomáciai és konzuli képviseletein bekövetkező, valamint más külföldön tartózkodó magyar állampolgárok biztonságát súlyosan veszélyeztető helyzet;
+b)[^2] a Magyarország diplomáciai és konzuli képviseletein bekövetkező, valamint más külföldön tartózkodó magyar állampolgárok biztonságát súlyosan veszélyeztető helyzet;
 
 c) a miniszter vezetése, irányítása és felügyelete alatt álló szervekre vonatkozó, rendkívüli eseményeket tartalmazó jegyzékben foglaltak.
+
+[^1]: Az 1. melléklet 20. pont a) alpontja az 1224/2015. (IV. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet 20. pont b) alpontja az 1224/2015. (IV. 20.) Korm. határozat 1. pontja szerint módosított szöveg.
