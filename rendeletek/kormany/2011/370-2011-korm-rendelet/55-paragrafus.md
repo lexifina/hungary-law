@@ -1,4 +1,4 @@
-## 54/A. §[^36] A kormányzati szektorba sorolt egyéb szervezetek vonatkozásában az 1–10. § rendelkezéseit kell alkalmazni azzal, hogy a költségvetési szerv vezetőjén a kormányzati szektorba sorolt egyéb szervezet 2. § u) pontja szerinti vezetőjét kell érteni.
+## 54/A. §[^46] A kormányzati szektorba sorolt egyéb szervezetek vonatkozásában az 1–10. § rendelkezéseit kell alkalmazni azzal, hogy a költségvetési szerv vezetőjén a kormányzati szektorba sorolt egyéb szervezet 2. § u) pontja szerinti vezetőjét kell érteni.
 
 ## 27. Az országos nemzetiségi önkormányzatok költségvetési szerveire vonatkozó különös szabályok
 
@@ -14,4 +14,4 @@
 
 (6) Az országos nemzetiségi önkormányzati hivatal vezetője köteles a tárgyévre vonatkozó éves ellenőrzési jelentést, valamint a felügyelete alá tartozó országos nemzetiségi önkormányzati költségvetési szervek éves ellenőrzési jelentései alapján készített összefoglaló éves ellenőrzési jelentést megküldeni az országos nemzetiségi önkormányzat elnökének a tárgyévet követő év március 15-ig.
 
-[^36]: Az 54/A. §-t a 497/2013. (XII. 29.) Korm. rendelet 68. §-a iktatta be.
+[^46]: Az 54/A. §-t a 497/2013. (XII. 29.) Korm. rendelet 68. §-a iktatta be.

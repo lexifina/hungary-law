@@ -6,10 +6,10 @@
 
 (3) A polgári nemzetbiztonsági szolgálatokat irányító miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter feladatainak ellátását segítő szervezet által végzett ellenőrzések lefolytatására az e rendeletben foglaltakat a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló kormányrendeletben foglalt eltérésekkel kell alkalmazni.
 
-(4)[^33] Az Országgyűlés Hivatalának belső ellenőrzési egysége a pártok parlamenti képviselőcsoportjai számára jogszabály alapján biztosított források felhasználására vonatkozóan szabályszerűségi és pénzügyi ellenőrzést végez.
+(4)[^43] Az Országgyűlés Hivatalának belső ellenőrzési egysége a pártok parlamenti képviselőcsoportjai számára jogszabály alapján biztosított források felhasználására vonatkozóan szabályszerűségi és pénzügyi ellenőrzést végez.
 
 (5) Ahol e rendelet fejezetet irányító szervet említ, ott az 1. § (2) bekezdés d) pontjában meghatározott vagyonkezelő szervezetek esetében az alapító szervet kell érteni.
 
 (6) A 29. § (1) bekezdésében és a 48. §-ban megjelölt módszertani útmutatót az államháztartásért felelős miniszter minden év szeptember 15-ig közzéteszi.
 
-[^33]: Az 52. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 628. §-ával megállapított szöveg.
+[^43]: Az 52. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 628. §-ával megállapított szöveg.
