@@ -32,149 +32,153 @@
 
 | 15 | Chile | EUR | 1072 |
 
-| 16 | Kanada | EUR | 1219 |
+| 16 | Ecuador | EUR | 1072 |
 
-| 17 | Kuba | EUR | 1194 |
+| 17 | Kanada | EUR | 1219 |
 
-| 18 | Mexikó | EUR | 1117 |
+| 18 | Kuba | EUR | 1194 |
 
-| 19 | AUSZTRÁLIA ÉS ÓCEÁNIA |
+| 19 | Mexikó | EUR | 1117 |
 
-| 20 | Ausztrália | EUR | 1293 |
+| 20 | AUSZTRÁLIA ÉS ÓCEÁNIA |
 
-| 21 | ÁZSIA |
+| 21 | Ausztrália | EUR | 1293 |
 
-| 22 | Afganisztán | EUR | 1400 |
+| 22 | ÁZSIA |
 
-| 23 | Azerbajdzsán | EUR | 1341 |
+| 23 | Afganisztán | EUR | 1400 |
 
-| 24 | Egyesült Arab Emirátusok | EUR | 1284 |
+| 24 | Azerbajdzsán | EUR | 1341 |
 
-| 25 | Grúzia | EUR | 1293 |
+| 25 | Egyesült Arab Emirátusok | EUR | 1284 |
 
-| 26 | India | EUR | 1091 |
+| 26 | Grúzia | EUR | 1293 |
 
-| 27 | Indonézia | EUR | 1277 |
+| 27 | India | EUR | 1091 |
 
-| 28 | Irak | EUR | 1400 |
+| 28 | Indonézia | EUR | 1277 |
 
-| 29 | Irán | EUR | 1258 |
+| 29 | Irak | EUR | 1400 |
 
-| 30 | Izrael | EUR | 1181 |
+| 30 | Irán | EUR | 1258 |
 
-| 31 | Japán | EUR | 1528 |
+| 31 | Izrael | EUR | 1181 |
 
-| 32 | Jordánia | EUR | 1132 |
+| 32 | Japán | EUR | 1528 |
 
-| 33 | Katar | EUR | 1280 |
+| 33 | Jordánia | EUR | 1132 |
 
-| 34 | Kazahsztán | EUR | 1293 |
+| 34 | Katar | EUR | 1280 |
 
-| 35 | Kína | EUR | 1230 |
+| 35 | Kazahsztán | EUR | 1293 |
 
-| 36 | Koreai Köztársaság | EUR | 1230 |
+| 36 | Kína | EUR | 1230 |
 
-| 37 | Kuvait | EUR | 1161 |
+| 37 | Koreai Köztársaság | EUR | 1230 |
 
-| 38 | Libanon | EUR | 1271 |
+| 38 | Kuvait | EUR | 1161 |
 
-| 39 | Malajzia | EUR | 1063 |
+| 39 | Libanon | EUR | 1271 |
 
-| 40 | Pakisztán | EUR | 1126 |
+| 40 | Malajzia | EUR | 1102 |
 
-| 41 | Palesztina | EUR | 1358 |
+| 41 | Mongólia | EUR | 1230 |
 
-| 42 | Szaúd-Arábia | EUR | 1130 |
+| 42 | Pakisztán | EUR | 1126 |
 
-| 43 | Szingapúr | EUR | 1102 |
+| 43 | Palesztina | EUR | 1358 |
 
-| 44 | Szíria | EUR | 1144 |
+| 44 | Szaúd-Arábia | EUR | 1130 |
 
-| 45 | Tajvan | EUR | 1132 |
+| 45 | Szingapúr | EUR | 1102 |
 
-| 46 | Thaiföld | EUR | 1091 |
+| 46 | Szíria | EUR | 1144 |
 
-| 47 | Törökország | EUR | 1222 |
+| 47 | Tajvan | EUR | 1132 |
 
-| 48 | Vietnam | EUR | 1072 |
+| 48 | Thaiföld | EUR | 1091 |
 
-| 49 | EURÓPA |
+| 49 | Törökország | EUR | 1222 |
 
-| 50 | Albánia | EUR | 1282 |
+| 50 | Vietnam | EUR | 1072 |
 
-| 51 | Ausztria | EUR | 1391 |
+| 51 | EURÓPA |
 
-| 52 | Belgium | EUR | 1353 |
+| 52 | Albánia | EUR | 1282 |
 
-| 53 | Bosznia-Hercegovina | EUR | 1102 |
+| 53 | Ausztria | EUR | 1391 |
 
-| 54 | Bulgária | EUR | 1255 |
+| 54 | Belgium | EUR | 1353 |
 
-| 55 | Ciprus | EUR | 1219 |
+| 55 | Bosznia-Hercegovina | EUR | 1102 |
 
-| 56 | Csehország | EUR | 1181 |
+| 56 | Bulgária | EUR | 1255 |
 
-| 57 | Dánia | EUR | 1515 |
+| 57 | Ciprus | EUR | 1219 |
 
-| 58 | Észtország | EUR | 1161 |
+| 58 | Csehország | EUR | 1181 |
 
-| 59 | Fehéroroszország | EUR | 1176 |
+| 59 | Dánia | EUR | 1515 |
 
-| 60 | Finnország | EUR | 1363 |
+| 60 | Észtország | EUR | 1161 |
 
-| 61 | Franciaország | EUR | 1364 |
+| 61 | Fehéroroszország | EUR | 1176 |
 
-| 62 | Görögország | EUR | 1206 |
+| 62 | Finnország | EUR | 1363 |
 
-| 63 | Hollandia | EUR | 1312 |
+| 63 | Franciaország | EUR | 1364 |
 
-| 64 | Horvátország | EUR | 1343 |
+| 64 | Görögország | EUR | 1206 |
 
-| 65 | Írország | EUR | 1353 |
+| 65 | Hollandia | EUR | 1312 |
 
-| 66 | Koszovó | EUR | 1117 |
+| 66 | Horvátország | EUR | 1343 |
 
-| 67 | Lengyelország | EUR | 1115 |
+| 67 | Írország | EUR | 1353 |
 
-| 68 | Lettország | EUR | 1161 |
+| 68 | Koszovó | EUR | 1117 |
 
-| 69 | Litvánia | EUR | 1075 |
+| 69 | Lengyelország | EUR | 1115 |
 
-| 70 | Macedónia | EUR | 1100 |
+| 70 | Lettország | EUR | 1161 |
 
-| 71 | Moldova | EUR | 1144 |
+| 71 | Litvánia | EUR | 1075 |
 
-| 72 | Montenegro | EUR | 1284 |
+| 72 | Macedónia | EUR | 1100 |
 
-| 73 | Nagy-Britannia | EUR | 1445 |
+| 73 | Moldova | EUR | 1144 |
 
-| 74 | Németország | EUR | 1353 |
+| 74 | Montenegró | EUR | 1284 |
 
-| 75 | Norvégia | EUR | 1581 |
+| 75 | Nagy-Britannia | EUR | 1445 |
 
-| 76 | Olaszország | EUR | 1338 |
+| 76 | Németország | EUR | 1353 |
 
-| 77 | Oroszország | EUR | 1271 |
+| 77 | Norvégia | EUR | 1581 |
 
-| 78 | Portugália | EUR | 1243 |
+| 78 | Olaszország | EUR | 1338 |
 
-| 79 | Románia | EUR | 1275 |
+| 79 | Oroszország | EUR | 1271 |
 
-| 80 | Spanyolország | EUR | 1256 |
+| 80 | Portugália | EUR | 1243 |
 
-| 81 | Svájc | EUR | 1497 |
+| 81 | Románia | EUR | 1275 |
 
-| 82 | Svédország | EUR | 1391 |
+| 82 | Spanyolország | EUR | 1256 |
 
-| 83 | Szerbia | EUR | 1117 |
+| 83 | Svájc | EUR | 1497 |
 
-| 84 | Szlovákia | EUR | 1230 |
+| 84 | Svédország | EUR | 1391 |
 
-| 85 | Szlovénia | EUR | 1130 |
+| 85 | Szerbia | EUR | 1117 |
 
-| 86 | Ukrajna | EUR | 1169 |
+| 86 | Szlovákia | EUR | 1230 |
 
-| 87 | Vatikán | EUR | 1338 |
+| 87 | Szlovénia | EUR | 1130 |
+
+| 88 | Ukrajna | EUR | 1169 |
+
+| 89 | Vatikán | EUR | 1338 |
 
 2. melléklet a 3/2012. (IX. 4.) KüM rendelethez[^4]
 
