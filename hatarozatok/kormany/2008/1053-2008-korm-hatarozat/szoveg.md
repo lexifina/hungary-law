@@ -16,39 +16,39 @@ e)[^4]
 
 4.[^5] A Bizottság feladatainak végrehajtásáról évente, május 31. napjáig, írásban tájékoztatja a feladatkörrel rendelkező minisztert, valamint a nyilvánosságot.
 
-5.[^6] A Bizottság 24 tagból áll. A Bizottság elnöke a társadalmi felzárkózásért felelős államtitkár, társelnöke a 6. pontban felsorolt szervezetek képviselői közül az általuk választott személy.
+5.[^6] A Bizottság 26 tagból áll. A Bizottság elnöke az Emberi Erőforrások Minisztériumának (a továbbiakban: EMMI) szociális ügyekért és társadalmi felzárkózásért felelős államtitkára, társelnöke a 6. pontban meghatározott szervezetek képviselői közül az általuk kijelölt személy.
 
 A Kormány a Bizottság további tagjaként a kormányzati oldal képviseletére felhívja
 
-a) az oktatásért felelős államtitkárt,
+a) a Miniszterelnökséget vezető minisztert két tag,
 
-b) a szociális, család- és ifjúságügyért felelős államtitkárt,
+b) az EMMI köznevelésért felelős államtitkárát egy tag,
 
-c) az egészségügyért felelős államtitkárt,
+c) az EMMI család- és ifjúságügyért felelős államtitkárát egy tag,
 
-d) a sportért felelős államtitkárt,
+d) az EMMI egészségügyért felelős államtitkárát egy tag,
 
-e) az egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkárt,
+e) az EMMI sportért felelős államtitkárát egy tag,
 
-f)[^7] a fejlesztési programokért felelős helyettes államtitkárt,
+f) az EMMI egyházi, nemzetiségi és civil társadalmi kapcsolatokért felelős államtitkárát egy tag,
 
-g) az államháztartásért felelős államtitkárt,
+g) az EMMI európai uniós fejlesztéspolitikáért felelős államtitkárát egy tag,
 
-h) a foglalkoztatáspolitikáért felelős államtitkárt,
+h) a Nemzetgazdasági Minisztérium (a továbbiakban: NGM) államháztartásért felelős államtitkárát egy tag,
 
-i) a vidékfejlesztésért felelős államtitkárt,
+i) az NGM munkaerőpiacért és képzésért felelős államtitkárát egy tag,
 
-j) a Miniszterelnökséget vezető államtitkárt és
+j) a Központi Statisztikai Hivatal elnökét egy tag és
 
-k) a Központi Statisztikai Hivatal elnökét
+k) a Földművelésügyi Minisztérium környezetügyért, agrárfejlesztésért és hungarikumokért felelős államtitkárát egy tag
 
-egy-egy tag jelölésére.
+jelölésére.
 
-6.[^8] A Kormány a Bizottság további tagjaként a szakmai és civil oldal képviseleteként
+6.[^7] A Kormány a Bizottság további tagjaként a szakmai és civil oldal képviseleteként
 
 a) felkéri
 
-aa)[^9] a Magyar Tudományos Akadémia Társadalomtudományi Kutatóközpontot,
+aa) a Magyar Tudományos Akadémia Társadalomtudományi Kutatóközpont Gyerekesély-kutató Csoportot,
 
 ab) a Magyar Máltai Szeretetszolgálatot,
 
@@ -62,21 +62,21 @@ af) az Egyedülálló Szülők Klubja Alapítványt,
 
 ag) a Roma Koordinációs Tanácsot,
 
-ah)[^10] a Nemzeti Gazdasági és Társadalmi Tanácsot és
+ah) a Nemzeti Gazdasági és Társadalmi Tanácsot és
 
 ai) a Települési Önkormányzatok Országos Szövetségét
 
 egy-egy tag jelölésére, továbbá
 
-b)[^11] felkéri azon egyházakat, amelyek a Magyarország területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben oktatást, nevelést és képzést biztosító közoktatási és felsőoktatási intézményeket tartanak fenn, hogy egyházanként legfeljebb egy-egy tagot, összesen három főt jelöljenek.
+b) felkéri azon bevett egyházakat, amelyek a Magyarország területén mind az általános és középiskolai nevelésben és oktatásban, mind a felsőoktatási alap- és mesterképzésben és a doktori képzésben oktatást, nevelést és képzést biztosító köznevelési és felsőoktatási intézményeket tartanak fenn, hogy összesen négy főt jelöljenek.
 
-6/A.[^12] A Bizottság ülésén tanácskozási joggal, állandó meghívottként részt vesz:
+6/A.[^8] A Bizottság ülésén tanácskozási joggal, állandó meghívottként részt vesz:
 
-a)[^13] az Alapvető Jogok Biztosa,
+a)[^9] az Alapvető Jogok Biztosa,
 
-b)[^14]
+b)[^10]
 
-c)[^15] a Magyar Tudományos Akadémia Közgazdaság- és Regionális Tudományi Kutatóközpont Közgazdaság-tudományi Intézete,
+c)[^11] a Magyar Tudományos Akadémia Közgazdaság- és Regionális Tudományi Kutatóközpont Közgazdaság-tudományi Intézete,
 
 d) a Központi Statisztikai Hivatal Népességtudományi Kutatóintézete,
 
@@ -88,7 +88,7 @@ g) a Népesedési Kerekasztal
 
 által kijelölt egy-egy személy.
 
-7.[^16] A Bizottság tagjait a 6. pontban felsorolt szervezetek képviseletét ellátó testület vagy személy jelöli a feladatkörrel rendelkező miniszter felkérése alapján. A Bizottság tagjait feladataik ellátására a feladatkörrel rendelkező miniszter négy évre, írásban kéri fel. A Bizottság valamely tagjának halála vagy lemondása esetén a tagot jelölő szervezet jogosult újabb jelölésre, a felkérés idejére.
+7.[^12] A Bizottság tagjait a 6. pontban felsorolt szervezetek képviseletét ellátó testület vagy személy jelöli a feladatkörrel rendelkező miniszter felkérése alapján. A Bizottság tagjait feladataik ellátására a feladatkörrel rendelkező miniszter négy évre, írásban kéri fel. A Bizottság valamely tagjának halála vagy lemondása esetén a tagot jelölő szervezet jogosult újabb jelölésre, a felkérés idejére.
 
 8. A tagok visszahívására a jelölő szervezetek jogosultak, egyidejűleg új tag jelölésével az eredetileg felkért tag megbízatásának idejére. Ennek alapján a felkérés visszavonásáról, és az új tag felkéréséről a feladatkörrel rendelkező miniszter gondoskodik.
 
@@ -96,7 +96,7 @@ g) a Népesedési Kerekasztal
 
 10. A Bizottság feladataival és működésével kapcsolatos szervezési, adminisztratív és titkársági teendőket a feladatkörrel rendelkező miniszter által vezetett központi államigazgatási szerv látja el.
 
-11.[^17] A Bizottság a „Legyen jobb a gyermekeknek!” Nemzeti Stratégia, valamint az ezzel szorosan összefüggő Nemzeti Társadalmi Felzárkózási Stratégia nyomonkövetési és indikátor rendszerének kialakítására, fejlesztésére, valamint a társadalmi környezet változásainak nyomonkövetésére szolgáló adatgyűjtések, kutatások koordinációja érdekében szakértői szintű Indikátor Munkacsoportot működtet. Az Indikátor Munkacsoport működésének részletes szabályait a Bizottság ügyrendje határozza meg.
+11.[^13] A Bizottság a „Legyen jobb a gyermekeknek!” Nemzeti Stratégia, valamint az ezzel szorosan összefüggő Nemzeti Társadalmi Felzárkózási Stratégia nyomonkövetési és indikátor rendszerének kialakítására, fejlesztésére, valamint a társadalmi környezet változásainak nyomonkövetésére szolgáló adatgyűjtések, kutatások koordinációja érdekében szakértői szintű Indikátor Munkacsoportot működtet. Az Indikátor Munkacsoport működésének részletes szabályait a Bizottság ügyrendje határozza meg.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -105,15 +105,11 @@ g) a Népesedési Kerekasztal
 [^3]: A 3. pont d) alpontja az 1177/2011. (V. 31.) Korm. határozat 3. pontjával megállapított szöveg.
 [^4]: A 3. pont e) alpontját az 1177/2011. (V. 31.) Korm. határozat 9. pontja hatályon kívül helyezte.
 [^5]: A 4. pont az 1683/2012. (XII. 29.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^6]: Az 5. pont az 1177/2011. (V. 31.) Korm. határozat 4. pontjával megállapított szöveg.
-[^7]: Az 5. pont f) alpontja az 1683/2012. (XII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
-[^8]: A 6. pont az 1177/2011. (V. 31.) Korm. határozat 5. pontjával megállapított szöveg.
-[^9]: A 6. pont a) pont aa) alpontja az 1683/2012. (XII. 29.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
-[^10]: A 6. pont a) pont ah) alpontja az 1683/2012. (XII. 29.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
-[^11]: A 6. pont b) pontja az 1683/2012. (XII. 29.) Korm. határozat 3. pont e) alpontja szerint módosított szöveg.
-[^12]: A 6/A. pontot az 1177/2011. (V. 31.) Korm. határozat 6. pontja iktatta be.
-[^13]: A 6/A. pont a) alpontja az 1683/2012. (XII. 29.) Korm. határozat 3. pont f) alpontja szerint módosított szöveg.
-[^14]: A 6/A. pont b) alpontját az 1683/2012. (XII. 29.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^15]: A 6/A. pont c) alpontja az 1683/2012. (XII. 29.) Korm. határozat 3. pont g) alpontja szerint módosított szöveg.
-[^16]: A 7. pont az 1177/2011. (V. 31.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
-[^17]: A 11. pontot az 1177/2011. (V. 31.) Korm. határozat 9. pontja hatályon kívül helyezte, újonnan az 1683/2012. (XII. 29.) Korm. határozat 2. pontja iktatta be.
+[^6]: Az 5. pont az 1223/2015. (IV. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: A 6. pont az 1223/2015. (IV. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: A 6/A. pontot az 1177/2011. (V. 31.) Korm. határozat 6. pontja iktatta be.
+[^9]: A 6/A. pont a) alpontja az 1683/2012. (XII. 29.) Korm. határozat 3. pont f) alpontja szerint módosított szöveg.
+[^10]: A 6/A. pont b) alpontját az 1683/2012. (XII. 29.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^11]: A 6/A. pont c) alpontja az 1683/2012. (XII. 29.) Korm. határozat 3. pont g) alpontja szerint módosított szöveg.
+[^12]: A 7. pont az 1177/2011. (V. 31.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^13]: A 11. pontot az 1177/2011. (V. 31.) Korm. határozat 9. pontja hatályon kívül helyezte, újonnan az 1683/2012. (XII. 29.) Korm. határozat 2. pontja iktatta be.
