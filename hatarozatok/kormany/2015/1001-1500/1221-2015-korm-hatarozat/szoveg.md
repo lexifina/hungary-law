@@ -58,4 +58,6 @@ c) a miniszter által felkért legfeljebb három személy.
 
 13. Ez a határozat a közzétételét követő napon lép hatályba.
 
-14. Hatályát veszti az Országos Építésügyi és Településrendezési Tanács létrehozásáról szóló 1218/2012. (VI. 26.) Korm. határozat.
+14.[^1]
+
+[^1]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
