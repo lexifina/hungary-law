@@ -1,0 +1,5 @@
+## 6. § Az R. 75. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a) bekezdéssel egészül ki:
+
+## „(1) Ha a tanuló – a szülő kérelme alapján – a tankötelezettségének magántanulóként kíván eleget tenni, az erre irányuló kérelem benyújtásától számított öt napon belül az iskola igazgatója megkeresi a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyámhatóságot és a gyermekjóléti szolgálatot. A gyámhatóság és a gyermekjóléti szolgálat az igazgató megkeresésétől számított tizenöt napon belül köteles megküldeni a véleményét.
+
+## (1a) Gyermekvédelmi gondoskodásban nevelkedő tanuló esetén az iskola igazgatója a tanuló nevelésbe vétele ügyében eljárni illetékes gyámhatóság véleményének beszerzése iránt intézkedik. Ha a tankötelezettség magántanulóként való teljesítésének engedélyezését nem a gyermekvédelmi gyám kérte, az iskola igazgatója a kérelem benyújtásától számított öt napon belül kikéri a tanuló gyermekvédelmi gyámjának véleményét. A gyermekvédelmi gyám véleményét tizenöt napon belül köteles megküldeni.”

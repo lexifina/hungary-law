@@ -1,0 +1,13 @@
+## 14. § Az R. 149. §-a helyébe a következő rendelkezés lép:
+
+## „149. § (1) Intézményvezető ellenőrzése esetén az érintett intézményvezető legkésőbb az ellenőrzési terv elkészítése évének november 30-áig feltölti a hivatal által működtetett informatikai támogató rendszerbe a vezetői tevékenységet bemutató alábbi dokumentumokat:
+
+## a) a vezetői pályázatát, vagy annak hiányában vezetői programját,
+
+## b) az intézmény pedagógiai programját,
+
+## c) az ellenőrzést megelőző két tanév munkatervét és éves beszámolóját, valamint
+
+## d) az intézmény szervezeti és működési szabályzatát.
+
+## (2) Az intézményvezetőt egyidejűleg két szakértő látogatja meg.”
