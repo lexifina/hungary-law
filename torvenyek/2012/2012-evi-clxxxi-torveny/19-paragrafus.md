@@ -20,6 +20,8 @@ db) a 750 kg-ot meghaladó saját tömegű pótkocsi, illetve lakókocsi,
 
 dc) a gépjármű forgalmi engedélye, valamint
 
-dd) a gépjármű hatósági jelzése.
+dd) a gépjármű hatósági jelzése,
+
+e) a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából a személyekre vonatkozó figyelmeztető jelzéseket érintően.
 
 (2) Az (1) bekezdésben meghatározott hatóságok a SIS II rendszerben tárolt adatokat kizárólag a jogszabályban meghatározott feladataik ellátása érdekében használhatják fel, a SIS II Rendelet, valamint a 1986/2006/EK európai parlamenti és tanácsi rendelet szabályaival összhangban.
