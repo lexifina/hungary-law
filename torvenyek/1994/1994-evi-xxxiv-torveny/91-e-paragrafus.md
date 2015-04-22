@@ -27,3 +27,5 @@ a) a kérelmező az igényelt adat kezelésére bűnüldözéssel, bűnmegelőz�
 b) az a) pontban foglaltaktól eltérő célra is, ha a továbbítás a közbiztonságot súlyosan vagy közvetlenül fenyegető veszély elhárításához szükséges, továbbá,
 
 c) ha az adattovábbításra minden kétséget kizáróan az érintett érdekében kerül sor, és ahhoz hozzájárult.
+
+(5) A bűnüldözési adatállományból a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából – a cél megjelölésével és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a rendőrségtől adatszolgáltatást kérhet.
