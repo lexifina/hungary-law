@@ -1,0 +1,9 @@
+12. § (1) A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4. § p) pont pb) alpontjában a „176–177. §, 182. §, 184. §” szövegrész helyébe a „176–177. §, 182. §, 184–184/A. §” szöveg lép.
+
+(2) A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4. § s) pontjának se) alpontjában az „egyedi azonosító jellel visszaélés [Btk. 347. § (2) bekezdés]” szövegrész helyébe „egyedi azonosító jellel visszaélés [Btk. 347. § (2) bekezdés], embercsempészés [Btk. 353. §]” szöveg lép.
+
+(3) A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4/A. § (4) bekezdésében az „országos parancsnokai által erre kijelölt központi szerveivel” szövegrész helyébe az „országos parancsnokai, illetve vezetői által erre kijelölt szerveivel” szöveg lép.
+
+(4) A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4/I. § (3) bekezdés b) pontjában a „szervezett bűnözéssel összefüggő bűncselekményekre, illetve a nemzetbiztonságot veszélyeztető törekvésekre és tevékenységekre” szövegrész helyébe az „az (1a) bekezdésben meghatározott bűncselekményekre, tevékenységekre, illetve törekvésekre” szöveg lép.
+
+(5) A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény 4/I. § (4) bekezdésében a „más állami szervektől” szövegrész helyébe a „más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából” szöveg lép.
