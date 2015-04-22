@@ -48,7 +48,7 @@ bj) a csoportbontások és az egyéb foglalkozások szervezésének elveit,
 
 bk) a nemzetiséghez nem tartozó tanulók részére a településen élő nemzetiség kultúrájának megismerését szolgáló tananyagot,
 
-bl) az alapfokú művészeti iskola kivételével a tanulók fizikai állapotának méréséhez szükséges módszereket,
+bl)[^10]
 
 bm) az alapfokú művészeti iskola kivételével az egészségnevelési és környezeti nevelési elveket,
 
@@ -58,7 +58,7 @@ bo) a tanuló jutalmazásával összefüggő, a tanuló magatartásának, szorga
 
 bp) a nevelőtestület által szükségesnek tartott további elveket,
 
-bq)[^10] középiskola esetében a 11–12. évfolyamon az emelt szintű érettségire történő felkészítéshez az emelt szintű oktatásban alkalmazott fejlesztési feladatokat és követelményeket a Nat és az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet alapján,
+bq)[^11] középiskola esetében a 11–12. évfolyamon az emelt szintű érettségire történő felkészítéshez az emelt szintű oktatásban alkalmazott fejlesztési feladatokat és követelményeket a Nat és az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet alapján,
 
 c) szakképző iskola esetén a szakmai programot,
 
@@ -76,17 +76,18 @@ a) az iskolai írásbeli, szóbeli, gyakorlati beszámoltatások, az ismeretek s
 
 b) az otthoni, napközis, tanulószobai felkészüléshez előírt írásbeli és szóbeli feladatok meghatározásának elveit és korlátait,
 
-c)[^11] a tanuló magasabb évfolyamra lépésének feltételeit.
+c)[^12] a tanuló magasabb évfolyamra lépésének feltételeit.
 
 (6) Ha az általános iskolában a Nat Művészetek műveltségi területen vagy az annak megfelelő tantárgy keretei között emelt szintű oktatás folyik, továbbá ha a szakiskola vagy a szakközépiskola művészeti szakmai vizsgára készít fel, az iskola, valamint az alapfokú művészeti iskola pedagógiai programja előírhatja, hogy a tanuló a kötelező tanórai foglalkozások keretében tanítási napokon nyolc és tizenhat óra között köteles részt venni művészeti próbákon és előadásokon. Az alapfokú művészeti iskola e feladatkörében a tanulók közismereti iskolai feladatait figyelembe véve határozhatja meg a kötelező részvételt a művészeti próbákon és előadásokon.
 
-(7)[^12] Az iskolában folyó szakképzés szakmai programjának elkészítésére a szakképzésre vonatkozó jogszabályok rendelkezéseit kell alkalmazni.
+(7)[^13] Az iskolában folyó szakképzés szakmai programjának elkészítésére a szakképzésre vonatkozó jogszabályok rendelkezéseit kell alkalmazni.
 
 (8) Az iskola a szakmai előkészítő ismereteket a központi program, kerettanterv vagy a Nat, továbbá az érettségi vizsga vizsgatárgyainak követelményei alapján építi be a helyi tantervébe.
 
-(9)[^13] A két tanítási nyelvű iskola a két tanítási nyelvű iskolai oktatás irányelvének kiadásáról szóló jogszabály, a nemzetiségi nevelést-oktatást végző iskola a nemzetiség óvodai nevelésének irányelve és a nemzetiség iskolai oktatásának irányelve kiadásáról szóló jogszabály alapján készíti el helyi tantervét.
+(9)[^14] A két tanítási nyelvű iskola a két tanítási nyelvű iskolai oktatás irányelvének kiadásáról szóló jogszabály, a nemzetiségi nevelést-oktatást végző iskola a nemzetiség óvodai nevelésének irányelve és a nemzetiség iskolai oktatásának irányelve kiadásáról szóló jogszabály alapján készíti el helyi tantervét.
 
-[^10]: A 7. § (1) bekezdés b) pont bq) alpontját a 22/2013. (III. 22.) EMMI rendelet 3. § (1) bekezdése iktatta be.
-[^11]: A 7. § (5) bekezdés c) pontját a 22/2013. (III. 22.) EMMI rendelet 3. § (2) bekezdése iktatta be.
-[^12]: A 7. § (7) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § a) pontja szerint módosított szöveg.
-[^13]: A 7. § (9) bekezdését a 45/2014. (X. 27.) EMMI rendelet 3. §-a iktatta be.
+[^10]: A 7. § (1) bekezdés b) pont bl) alpontját a 22/2015. (IV. 21.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
+[^11]: A 7. § (1) bekezdés b) pont bq) alpontját a 22/2013. (III. 22.) EMMI rendelet 3. § (1) bekezdése iktatta be.
+[^12]: A 7. § (5) bekezdés c) pontját a 22/2013. (III. 22.) EMMI rendelet 3. § (2) bekezdése iktatta be.
+[^13]: A 7. § (7) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § a) pontja szerint módosított szöveg.
+[^14]: A 7. § (9) bekezdését a 45/2014. (X. 27.) EMMI rendelet 3. §-a iktatta be.

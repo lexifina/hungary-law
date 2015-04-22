@@ -4,7 +4,7 @@
 
 a) a működési engedély iránti kérelem tárgyát,
 
-b)[^182] a nevelési-oktatási intézményt nyilvántartásba vevő szerv nevét, címét, a nyilvántartásba vételről szóló határozat számát, keltét, költségvetési szerv esetén a bejegyzés napját,
+b)[^201] a nevelési-oktatási intézményt nyilvántartásba vevő szerv nevét, címét, a nyilvántartásba vételről szóló határozat számát, keltét, költségvetési szerv esetén a bejegyzés napját,
 
 c) az alapító nevét, működési formáját, nyilvántartásba vételének formáját és azonosítóját, székhelyét, értesítési címét,
 
@@ -46,7 +46,7 @@ g) a nevelési-oktatási intézmény feladatával, működésével kapcsolatos e
 
 (2) A működési engedély iránti kérelemhez eredetiben vagy másolatban – másolat esetén az eljárás során a kormányhivatal kérheti az eredeti dokumentum bemutatását – csatolni kell
 
-a)[^183] a nevelési-oktatási intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló jogerős határozatot, költségvetési szerv esetén a törzskönyvi igazolást,
+a)[^202] a nevelési-oktatási intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló jogerős határozatot, költségvetési szerv esetén a törzskönyvi igazolást,
 
 b) a pedagógiai programot,
 
@@ -62,12 +62,12 @@ g) a székhelyre és valamennyi telephelyre vonatkozóan külön-külön az óvo
 
 h) a pénzügyi feltételek teljesítésének igazolásához
 
-ha)[^184] a nevelési-oktatási intézmény egészére vonatkozóan a székhelyre és valamennyi telephelyre vonatkozóan együttesen részletes kimutatást arról, hogy az intézmény tevékenységét milyen forrásokból finanszírozzák, a források között feltüntetve a feladatellátáshoz rendelkezésre álló készpénzt, a befektetett eszközök és forgóeszközök értékét, a tervezett bevételi forrásokat, a költségvetési hozzájárulást, és az egyéb támogatást, az előírt tandíjat, az alapítványi támogatást, a bankhitelt, minden egyéb bevételt, bármilyen, a működéshez felhasználható tárgyi vagy pénzbeli juttatást, a tevékenységben való ingyenes közreműködést,
+ha)[^203] a nevelési-oktatási intézmény egészére vonatkozóan a székhelyre és valamennyi telephelyre vonatkozóan együttesen részletes kimutatást arról, hogy az intézmény tevékenységét milyen forrásokból finanszírozzák, a források között feltüntetve a feladatellátáshoz rendelkezésre álló készpénzt, a befektetett eszközök és forgóeszközök értékét, a tervezett bevételi forrásokat, a költségvetési hozzájárulást, és az egyéb támogatást, az előírt tandíjat, az alapítványi támogatást, a bankhitelt, minden egyéb bevételt, bármilyen, a működéshez felhasználható tárgyi vagy pénzbeli juttatást, a tevékenységben való ingyenes közreműködést,
 
 hb) a fenntartó által jóváhagyott egy évre szóló költségvetést, amely tartalmazza a működéshez szükséges befektetett eszközök és forgóeszközök beszerzési értékét, a dologi és személyi kiadások összegét, utóbbiba beleértve az alkalmazottak bérét, annak közterheit és a tanulói juttatások költségeit, valamint
 
 hc) a fenntartó nyilatkozatát arról, hogy a feladatok ellátásához szükséges fedezetet biztosítja.
 
-[^182]: A 159. § (1) bekezdés b) pontja a 45/2014. (X. 27.) EMMI rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^183]: A 159. § (2) bekezdés a) pontja a 45/2014. (X. 27.) EMMI rendelet 40. § (2) bekezdésével megállapított szöveg.
-[^184]: A 159. § (2) bekezdés h) pont ha) alpontja a 45/2014. (X. 27.) EMMI rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^201]: A 159. § (1) bekezdés b) pontja a 45/2014. (X. 27.) EMMI rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^202]: A 159. § (2) bekezdés a) pontja a 45/2014. (X. 27.) EMMI rendelet 40. § (2) bekezdésével megállapított szöveg.
+[^203]: A 159. § (2) bekezdés h) pont ha) alpontja a 45/2014. (X. 27.) EMMI rendelet 40. § (3) bekezdésével megállapított szöveg.

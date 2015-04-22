@@ -1,7 +1,7 @@
-154. § (1) A pedagógus ellenőrzését az ellenőrzési szakértői névjegyzékben az ellenőrzött pedagógus-munkakörének megfelelő szakirányra bejegyzett szakértő végezheti.
+154. §[^187] (1) A pedagógus ellenőrzésében az érintett pedagógussal azonos munkakörben és intézménytípusban szerzett legalább ötéves szakmai gyakorlattal rendelkező pedagógus vehet részt.
 
-(2) Az intézményvezető ellenőrzését jogszabályban meghatározott, a megjelölt szakirányra bejegyzett szakértő végezheti.
+(2) Az intézményvezető ellenőrzésében az érintett intézményvezetővel azonos intézménytípusban szerzett legalább ötéves szakmai gyakorlattal rendelkező pedagógus vehet részt. Az intézményvezető vezetői ellenőrzésében részt vevő szakértők közül legalább az egyiknek szintén intézményvezetőnek vagy korábban intézményvezetői feladatot ellátó személynek kell lennie.
 
-(3) Az intézményellenőrzést az intézményben nevelt-oktatott gyermekek, tanulók és az intézmény által ellátott feladatok számától függően három–öt szakértő végzi, akik közül a 149. § (3) bekezdésében foglalt esetben legalább egynek az intézményvezetői ellenőrzésre jogosult, jogszabályban meghatározott szakértőnek kell lennie.
+(3) Az intézményellenőrzést az adott intézménytípusban szerzett legalább ötéves szakmai gyakorlattal rendelkező szakértő végzi. Ha az intézményvezető ellenőrzésére a 146. § (9) bekezdése alapján kerül sor, a szakértők közül legalább egynek intézményvezetőnek vagy korábban intézményvezetői feladatot ellátó személynek kell lennie.
 
-(4) A (3) bekezdéstől eltérően, többcélú intézmény esetén az intézmény minden feladatának megfelelő szakirányra bejegyzett szakértő részt vesz.
+[^187]: A 154. § a 22/2015. (IV. 21.) EMMI rendelet 19. §-ával megállapított szöveg.

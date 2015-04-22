@@ -1,19 +1,8 @@
-## 58. Az országos pedagógiai-szakmai ellenőrzés lefolytatásának szabályai
+## 58. [^180] A pedagógus, a köznevelési intézmény vezetője és a köznevelési intézmény ellenőrzésének sajátos szabályai
 
-148. § (1) Az országos pedagógiai-szakmai ellenőrzés fajtái:
+148. §[^181] (1) Pedagógus ellenőrzése esetén az ellenőrzésben érintett pedagógus az ellenőrzési terv elkészítése évének november 30-áig feltölti a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 8. § (1) bekezdésében meghatározott portfólióját a hivatal által működtetett informatikai támogató rendszerbe. Ha az ellenőrzés kijelölt időpontja a következő tanévre esik, a pedagógus az adott tanítási év végéig módosíthatja portfólióját.
 
-a) a pedagógus ellenőrzése,
+(2) A pedagógust egyidejűleg két szakértő látogatja meg. Ha a pedagógus munkakörének részét képezi tanítási óra, foglalkozás megtartása, a szakértők egy nap alatt a pedagógus két tanítási óráját, foglalkozását látogatják meg.
 
-b) az intézményvezető ellenőrzése,
-
-c) az intézményellenőrzés.
-
-(2) A pedagógus ellenőrzése általános pedagógiai szempontok szerint történik, célja az ellenőrzött pedagógus pedagógiai készségeinek fejlesztése, módszere a foglalkozások, tanítási órák egységes szempontok szerinti megfigyelése, a pedagógus mindennapi nevelő-oktató munkáját megalapozó pedagógiai tervezés dokumentumainak vizsgálata, valamint interjú felvétele.
-
-(3) Egy szakértő egy nap alatt négy pedagógus egy-egy tanítási óráját, foglalkozását látogatja meg. Minden pedagógust egyidejűleg két szakértő látogat meg, akik még a látogatás napján megbeszélik a pedagógussal a látogatás során tapasztaltakat.
-
-(4) A pedagógust látogató két szakértő a látogatás után a pedagógusról értékelőlapot készít, amelynek tartalmáról a pedagógust látogató két szakértő egyeztetést folytat, majd azt aláírja. Az értékelőlapot, amely egyben az ellenőrzés jegyzőkönyve, a szakértő legkésőbb öt munkanapon belül
-
-a) elektronikus formában, továbbá
-
-b) két eredeti, aláírt példányban postai úton is
+[^180]: Az 58. alcím címe a 22/2015. (IV. 21.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^181]: A 148. § a 22/2015. (IV. 21.) EMMI rendelet 12. §-ával megállapított szöveg.

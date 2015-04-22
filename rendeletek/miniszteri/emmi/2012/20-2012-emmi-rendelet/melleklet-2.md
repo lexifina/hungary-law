@@ -246,7 +246,7 @@
 
 |  | Kollégiumi törzskönyv | Kt. |
 
-2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^239]
+2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^269]
 
 JEGYZÉK
 
@@ -292,28 +292,4 @@ Ha az óvoda nemzetiséghez tartozók óvodai nevelésében, vagy az iskola (ide
 
 Ahol a melléklet a mennyiségi mutatónál a ,,óvodánkénti” megjelölést alkalmazza, azon az óvodát kell érteni, függetlenül attól, hogy a székhelyen kívül rendelkezik-e telephellyel, és hogy hány épülete van. Ebben az esetben a helyiség a székhelyen vagy/és a telephelyen (azaz minden feladat ellátási helyen) is kialakítható.
 
-Amennyiben a melléklet a mennyiségi mutatónál az „óvodánként (székhelyen és telephelyen)” megjelölést alkalmazza úgy valamennyi feladat ellátási helyen kialakítandó a helyiség, biztosítandó a megnevezett eszköz, felszerelés.
-
-A „gyermekcsoportonként” megjelölésen a kialakított óvodai gyermekcsoportokat kell érteni.
-
-A „gyermeklétszám” megjelölésen az óvoda alapító okiratában (feladatellátási helyenkénti bontásban is) rögzített felvehető maximális gyermeklétszám értendő.
-
-Ahol a melléklet a mennyiségi mutatónál az ,,iskolánkénti” megjelölést alkalmazza, azon az iskolát kell érteni, függetlenül attól, hogy a székhelyen kívül rendelkezik-e telephellyel, és hogy hány épülete van. Ebben az esetben a helyiség a székhelyen vagy/és a telephelyen (azaz minden feladat ellátási helyen) is kialakítható.
-
-Amennyiben a melléklet a mennyiségi mutatónál az „iskolánként (székhelyen és telephelyen)” megjelölést alkalmazza, úgy valamennyi feladat ellátási helyen kialakítandó a helyiség, biztosítandó a megnevezett eszköz, felszerelés.
-
-Az ,,osztály” fogalmán a ténylegesen kialakított, a tanórai foglalkozáson együtt résztvevők csoportját, az iskolai osztályközösséget kell érteni.
-
-Ahol a melléklet a mennyiségi mutatónál a ,,kollégiumonkénti” megjelölést alkalmazza, azon a kollégiumot kell érteni, függetlenül attól, hogy a székhelyen kívül rendelkezik-e telephellyel, és hogy hány épülete van. Ebben az esetben a helyiség a székhelyen vagy/és a telephelyen (azaz minden feladat ellátási helyen) is kialakítható.
-
-1. Ó V O D A
-
-(a gyógypedagógiai, konduktív pedagógiai óvodára vonatkozó eltérő követelmények a megjegyzésben külön feltüntetve)
-
-I. HELYISÉGEK
-
-Az egyes helyiségek és az udvar jellemző adatait (alapterület, belmagasság, légköbméter, belső burkolat,
-
-megvilágítás) a hatályos építészeti, egészségügyi, munkavédelmi és tűzvédelmi jogszabályok tartalmazzák.
-
-[^239]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a, a 45/2014. (X. 27.) EMMI rendelet 54. § 32. pontja szerint módosított szöveg.
+[^269]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a, a 45/2014. (X. 27.) EMMI rendelet 54. § 32. pontja szerint módosított szöveg.

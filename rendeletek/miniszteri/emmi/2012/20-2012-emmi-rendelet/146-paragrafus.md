@@ -1,7 +1,65 @@
-## 145. § Az országos pedagógiai-szakmai ellenőrzés általános célja, hogy a nevelési-oktatási intézmények szakmai tevékenységét a pedagógusok munkájának általános pedagógiai szempontok alapján történő értékelésére, az intézményvezetők általános pedagógiai és vezetéselméleti szempontok szerint történő értékelésére és az intézmények saját céljainak megvalósulására alapozva értékelje, és ezzel az intézmény szakmai fejlődéséhez támogatást adjon.
+146. § (1) Az országos pedagógiai-szakmai ellenőrzés fajtái:
 
-146. § (1) A nevelési-oktatási intézmény vezetője minden év augusztus 15-éig megküldi a megyei kormányhivatalnak a nevelési-oktatási intézményben alkalmazott pedagógusok névsorát és oktatási azonosító számát.
+a) a pedagógus ellenőrzése,
 
-(2) A kormányhivatal minden év május 31-éig a következő tanévre szóló megyei ellenőrzési tervet készít a hivatal által megadott szempontok alapján, amelyhez előzetesen kikéri a fenntartók véleményét. A megyei ellenőrzési tervet a nevelési-oktatási intézmények által beküldött adatoknak megfelelően felülvizsgálja, és szükség szerint augusztus 31-éig korrigálja. A tervet úgy állítja össze, hogy az legalább ötévente egyszer a megye minden intézményének minden pedagógusára kiterjedjen.
+b) az intézményvezető ellenőrzése,
 
-(3) A kormányhivatal az ellenőrzés tervezett időpontja előtt tizenöt nappal elektronikus formában bekéri az ellenőrzéssel érintett intézmény vezetőjétől az intézményben alkalmazott pedagógusok órarendjét, ez alapján megtervezi az ellenőrzés menetét, és erről az ellenőrzést végző szakértőt értesíti.
+c) az intézményellenőrzés.
+
+(2) A pedagógus ellenőrzése általános pedagógiai szempontok szerint történik, célja az ellenőrzött pedagógus pedagógiai kompetenciáinak fejlesztése, módszere – ha a pedagógus munkakörének részét képezi – a foglalkozások, tanítási órák egységes szempontok szerinti megfigyelése, a pedagógus mindennapi nevelő-oktató munkáját megalapozó pedagógiai tervezés dokumentumainak vizsgálata, interjú felvétele, valamint az intézményi önértékelés pedagógusra vonatkozó eredményeinek elemzése.
+
+(3) A pedagógus ellenőrzése a pedagógus munkájának alábbi területeit vizsgálja:
+
+a) pedagógiai módszertani felkészültség,
+
+b) pedagógiai folyamatok, tevékenységek tervezése és a megvalósításukhoz kapcsolódó önreflexiók,
+
+c) a tanulás támogatása,
+
+d) a tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesülése, a hátrányos helyzetű, sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló többi gyermekkel, tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges megfelelő módszertani felkészültség,
+
+e) a tanulói csoportok, közösségek alakulásának segítése, fejlesztése, esélyteremtés, nyitottság a különböző társadalmi-kulturális sokféleségre, integrációs tevékenység, osztályfőnöki tevékenység,
+
+f) pedagógiai folyamatok és a tanulók személyiségfejlődésének folyamatos értékelése, elemzése,
+
+g) kommunikáció és szakmai együttműködés, problémamegoldás, valamint
+
+h) elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért.
+
+(4) A pedagógiai szakszolgálati intézményben a szakértői bizottság és korai fejlesztés területen foglalkoztatottak vonatkozásában az értékelési elemek, kompetenciák a (3) bekezdés e) pontja kivételével kerülnek figyelembe vételre.
+
+(5) Az intézményvezető ellenőrzése a köznevelési intézmény és annak tagintézménye vezetőjére, valamint a többcélú intézmény szervezeti és szakmai tekintetben önálló, köznevelési intézmény feladatát ellátó intézményegységének vezetőjére (a továbbiakban együtt: intézményvezető) terjed ki. Az ellenőrzés célja az intézményvezető pedagógiai és vezetői készségeinek fejlesztése az intézményvezető munkájának általános pedagógiai és vezetéselméleti szempontok, valamint az intézményvezető saját céljaihoz képest elért eredményei alapján. Módszere az interjúkészítés és a dokumentumelemzés, valamint az Nkt. 69. § (4) bekezdése által előírt és egyéb, az intézmény feladatellátásával összefüggő kérdőíves felmérések és az intézményi önértékelés intézményvezetőre vonatkozó dokumentumainak elemzése.
+
+(6) Az intézményvezető ellenőrzésére legkorábban az intézményvezetői megbízás második, legkésőbb negyedik évében kerülhet sor.
+
+(7) Az intézményvezető ellenőrzése az alábbi területekre terjed ki:
+
+a) az intézményi pedagógiai folyamatok – nevelési, tanulási, tanítási, fejlesztési, diagnosztikai – stratégiai vezetése és irányítása,
+
+b) az intézmény szervezetének és működésének stratégiai vezetése és operatív irányítása,
+
+c) az intézményi változások stratégiai vezetése és operatív irányítása,
+
+d) az intézményben foglalkoztatottak stratégiai vezetése és operatív irányítása,
+
+e) a vezetői kompetenciák fejlesztése.
+
+(8) Az intézményellenőrzés célja, hogy iránymutatást adjon az intézmény pedagógiai-szakmai munkájának fejlesztéséhez annak feltárása által, hogy a köznevelési intézmény hogyan valósította meg a pedagógiai programjában és a munkatervében, valamint a 150. § (3) bekezdése szerinti intézkedési tervben foglaltakat. Módszere az interjúkészítés és dokumentumelemzés, a pedagógiai munkához szükséges infrastruktúra megfigyeléssel történő vizsgálata, valamint az intézmény feladatellátásával kapcsolatos kérdőíves felmérések és az intézményi önértékelés eredményeinek elemzése.
+
+(9) Intézményellenőrzésre abban az esetben kerülhet sor, ha az intézmény vezetőjét értékelték az országos pedagógiai-szakmai ellenőrzés keretében vagy az intézményellenőrzés során kerül sor az intézményvezető ellenőrzésére is.
+
+(10) Az intézményellenőrzés az alábbi területekre terjed ki:
+
+a) pedagógiai folyamatok,
+
+b) személyiség- és közösségfejlesztés,
+
+c) az intézményben folyó pedagógiai munkával összefüggő eredmények,
+
+d) belső kapcsolatok, együttműködés, kommunikáció,
+
+e) az intézmény külső kapcsolatai,
+
+f) a pedagógiai működés feltételei, valamint
+
+g) az intézménytípusra vonatkozó nevelési, nevelési-oktatási irányelvet megállapító jogszabályban meghatározott országos szakmai elvárásoknak és az intézményi céloknak való megfelelés.

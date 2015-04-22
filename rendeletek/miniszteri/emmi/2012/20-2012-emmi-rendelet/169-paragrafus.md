@@ -24,10 +24,10 @@ e) a beszélőképesség elvesztését vagy feltűnő eltorzulását, a tanuló 
 
 (7) A nem állami intézményfenntartó a részére megküldött papír alapú jegyzőkönyvet nyolc napon belül megküldi a nevelési-oktatási intézmény működéséhez szükséges engedélyt kiállító kormányhivatal részére.
 
-(8)[^195] A kormányhivatal a nem állami, nem települési önkormányzati intézményfenntartótól, a Központ a nevelési-oktatási intézménytől érkezett, nem elektronikus úton kitöltött baleseti jegyzőkönyvet a naptári félévet követő hónap utolsó napjáig megküldi az oktatásért felelős minisztérium részére.
+(8)[^214] A kormányhivatal a nem állami, nem települési önkormányzati intézményfenntartótól, a Központ a nevelési-oktatási intézménytől érkezett, nem elektronikus úton kitöltött baleseti jegyzőkönyvet a naptári félévet követő hónap utolsó napjáig megküldi az oktatásért felelős minisztérium részére.
 
 (9) A nevelési-oktatási intézménynek lehetővé kell tenni az óvodaszék, az iskolaszék, a kollégiumi szék, ezek hiányában a szülői szervezet, közösség és az iskolai diákönkormányzat képviselője részvételét a tanuló- és gyermekbaleset kivizsgálásában.
 
 (10) Minden tanuló- és gyermekbalesetet követően meg kell tenni a szükséges intézkedést a hasonló esetek megelőzésére.
 
-[^195]: A 169. § (8) bekezdése a 45/2014. (X. 27.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^214]: A 169. § (8) bekezdése a 45/2014. (X. 27.) EMMI rendelet 42. §-ával megállapított szöveg.

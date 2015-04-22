@@ -4,7 +4,7 @@
 
 ## 39. A köznevelési intézmény hivatalos neve
 
-123. § (1)[^122] A köznevelési intézmény a működése során kizárólag olyan nevet használhat, amely megfelel az e rendeletben meghatározottaknak és – a (2) bekezdés e) pontját kivéve –szerepel a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában.
+123. § (1)[^136] A köznevelési intézmény a működése során kizárólag olyan nevet használhat, amely megfelel az e rendeletben meghatározottaknak és – a (2) bekezdés e) pontját kivéve –szerepel a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában.
 
 (2) A köznevelési intézmény
 
@@ -14,7 +14,7 @@ b) többcélú intézmény esetében a hivatalos névből képzett rövid nevet,
 
 c) tagintézmény esetében a hivatalos név vagy a rövid név feltüntetésével képzett tagintézményi nevet,
 
-d)[^123] az a)–c) pont szerinti nevet nemzetiségi vagy idegen nyelven,
+d)[^137] az a)–c) pont szerinti nevet nemzetiségi vagy idegen nyelven,
 
 e) rövidített nevet
 
@@ -24,7 +24,7 @@ e) rövidített nevet
 
 (4) A köznevelési intézmény jogszabály szerinti megnevezése
 
-a)[^124] óvoda, egységes óvoda-bölcsőde,
+a)[^138] óvoda, egységes óvoda-bölcsőde,
 
 b) általános iskola,
 
@@ -58,15 +58,15 @@ p) egységes konduktív pedagógiai módszertani intézmény
 
 ## lehet.
 
-(5)[^125] A honvédelemért felelős miniszter által fenntartott, szakképzési feladatot ellátó katonai köznevelési intézmények, továbbá más, a magyar oktatástörténetben jelentős hagyományokkal rendelkező köznevelési intézmények esetében – az oktatásért felelős miniszter egyetértésével – a (4) bekezdésétől eltérő megnevezés is alkalmazható.
+(5)[^139] A honvédelemért felelős miniszter által fenntartott, szakképzési feladatot ellátó katonai köznevelési intézmények, továbbá más, a magyar oktatástörténetben jelentős hagyományokkal rendelkező köznevelési intézmények esetében – az oktatásért felelős miniszter egyetértésével – a (4) bekezdésétől eltérő megnevezés is alkalmazható.
 
-(6)[^126] Ha az országos nemzetiségi önkormányzat önálló iskola létesítésével megszervezte az anyanyelv és népismeret követelményeinek oktatását, az iskola hivatalos nevében a kiegészítő nemzetiségi oktatás jogszabály szerinti megnevezése a nyelvoktató nemzetiségi iskola. A megnevezés tartalmazza az adott nemzetiségi nyelv megjelölését.
+(6)[^140] Ha az országos nemzetiségi önkormányzat önálló iskola létesítésével megszervezte az anyanyelv és népismeret követelményeinek oktatását, az iskola hivatalos nevében a kiegészítő nemzetiségi oktatás jogszabály szerinti megnevezése a nyelvoktató nemzetiségi iskola. A megnevezés tartalmazza az adott nemzetiségi nyelv megjelölését.
 
-(7)[^127] A gyógypedagógiai nevelési-oktatási intézmény, az egységes iskola és az összetett iskola, valamint e feladatokra létrehozott intézményegységek esetében a (4) bekezdés szerinti megnevezéssel kell a hivatalos nevet megállapítani.
+(7)[^141] A gyógypedagógiai nevelési-oktatási intézmény, az egységes iskola és az összetett iskola, valamint e feladatokra létrehozott intézményegységek esetében a (4) bekezdés szerinti megnevezéssel kell a hivatalos nevet megállapítani.
 
-[^122]: A 123. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 4. pontja szerint módosított szöveg.
-[^123]: A 123. § (2) bekezdés d) pontja a 45/2014. (X. 27.) EMMI rendelet 54. § 25. pontja szerint módosított szöveg.
-[^124]: A 123. § (4) bekezdés a) pontja a 45/2014. (X. 27.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^125]: A 123. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § i) pontja szerint módosított szöveg.
-[^126]: A 123. § (6) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.
-[^127]: A 123. § (7) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.
+[^136]: A 123. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 4. pontja szerint módosított szöveg.
+[^137]: A 123. § (2) bekezdés d) pontja a 45/2014. (X. 27.) EMMI rendelet 54. § 25. pontja szerint módosított szöveg.
+[^138]: A 123. § (4) bekezdés a) pontja a 45/2014. (X. 27.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^139]: A 123. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § i) pontja szerint módosított szöveg.
+[^140]: A 123. § (6) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.
+[^141]: A 123. § (7) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.
