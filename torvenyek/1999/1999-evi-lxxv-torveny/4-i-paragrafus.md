@@ -1,6 +1,12 @@
 ## Utasadattal összefüggő adatkezelés
 
-4/I. § (1) A szervezett bűnözés elleni koordinációs központ a 4/A. § (1) bekezdés h) pontjában meghatározott feladatkörében az utasadat szolgáltatójától átveszi és kezeli az utasadatokat. Az utasadatok átvételének és kezelésének a célja a szervezett bűnözéssel összefüggő bűncselekmények felderítésének és nyomozásának, illetve a nemzetbiztonságot veszélyeztető törekvések és tevékenységek elhárításának az elősegítése.
+4/I. § (1) A szervezett bűnözés elleni koordinációs központ a 4/A. § (1) bekezdés h) pontjában meghatározott feladatkörében az utasadat szolgáltatójától átveszi és kezeli az utasadatokat.
+
+(1a) Az utasadatok átvételének és kezelésének a célja
+
+a) a terrorizmussal, a szervezett bűnözéssel összefüggő bűncselekmények, valamint az illegális migráció területén megjelenő szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmények felderítésének és nyomozásának, illetve az illegális migráció megelőzésével, megakadályozásával kapcsolatos feladatok elősegítése, továbbá
+
+b) a nemzetbiztonságot veszélyeztető törekvések és tevékenységek elhárításának az elősegítése.
 
 (2) Az utasadat szolgáltatója a szervezett bűnözés elleni koordinációs központ által meghatározott elektronikus formátumban és módon adja át az utas-adatot.
 
@@ -8,13 +14,15 @@
 
 a) az utasadat szolgáltatója által szolgáltatott utasadatokat összeveti a 4/B. § (1) bekezdése, valamint a 4/C. § (1) bekezdése alapján általa kezelt adatokkal,
 
-b) az utasadatok tekintetében szervezett bűnözéssel összefüggő bűncselekményekre, illetve a nemzetbiztonságot veszélyeztető törekvésekre és tevékenységekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
+b) az utasadatok tekintetében az (1a) bekezdésben meghatározott bűncselekményekre, tevékenységekre, illetve törekvésekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
 
 c) az átvett utasadatokról nyilvántartást vezet.
 
-(4) A szervezett bűnözés elleni koordinációs központ a (3) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől személyes adatokat vehet át.
+(4) A szervezett bűnözés elleni koordinációs központ a (3) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
 
-(5) Ha a szervezett bűnözés elleni koordinációs központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a szervezett bűnözéssel összefüggő bűncselekmény elkövetésének lehetséges gyanúját vagy a nemzetbiztonságot veszélyeztető lehetséges kockázatot állapít meg, a szervezett bűnözéssel összefüggő bűncselekmény felderítésére, nyomozására vagy a nemzetbiztonságot veszélyeztető törekvés, tevékenység elhárítására hatáskörrel rendelkező szervet az utasadat átadásával egyidejűleg értesíti.
+(5) Ha a szervezett bűnözés elleni koordinációs központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekmény elkövetésének lehetséges gyanúját vagy a nemzetbiztonságot veszélyeztető lehetséges kockázatot állapít meg, a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekmény felderítésére, nyomozására vagy a nemzetbiztonságot veszélyeztető törekvés, tevékenység elhárítására hatáskörrel rendelkező szervet az utasadat átadásával egyidejűleg értesíti.
+
+(5a) Ha a szervezett bűnözés elleni koordinációs központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében az illegális migráció területén megjelenő szervezett bűnözői csoportok és bűnszervezetek által elkövetett bűncselekmény elkövetésének lehetséges gyanúját vagy az illegális migrációra utaló lehetséges kockázatot állapít meg, az e bűncselekmény felderítésére, nyomozására vagy az illegális migrációval összefüggésben feladat- és hatáskörrel rendelkező szerveket az utasadat átadásával egyidejűleg értesíti.
 
 (6) A szervezett bűnözés elleni koordinációs központ az átvett utasadatot a szervezett bűnözés elleni koordinációs központhoz érkezést követő öt évig kezeli.
 

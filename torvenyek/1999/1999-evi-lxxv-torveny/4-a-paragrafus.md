@@ -48,4 +48,4 @@ i)
 
 szolgáltat adatokat, és jogosult onnan adatok igénylésére.
 
-(4) A szervezett bűnözés elleni koordinációs központ feladatainak ellátása során az együttműködő szervek országos parancsnokai által erre kijelölt központi szerveivel működik együtt.
+(4) A szervezett bűnözés elleni koordinációs központ feladatainak ellátása során az együttműködő szervek országos parancsnokai, illetve vezetői által erre kijelölt szerveivel működik együtt.
