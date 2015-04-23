@@ -8,6 +8,6 @@ b) a nem sürgősségi ellátás céljából történő szállításról a menek
 
 (3) A fekvőbeteg-intézeti ellátás esetén az elismerését kérő őrzését a Rendőrség a menekültügyi hatóság felkérése esetén biztosítja.
 
-(4) A menekültügyi őrzött befogadó központ egészségügyi szakasszisztens jelenlétét folyamatosan biztosítani köteles.
+(4)–(5)[^3]
 
-(5) Az őrizet végrehajtása során az orvosi rendelésen közreműködő tolmácsot – az orvos kérelme alapján – a menekültügyi őrzött befogadó központ biztosítja.
+[^3]: A 26. § (4)–(5) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés b) pontja hatályon kívül helyezte.
