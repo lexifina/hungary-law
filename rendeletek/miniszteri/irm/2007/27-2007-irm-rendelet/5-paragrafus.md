@@ -1,4 +1,4 @@
-5. §[^5] (1) Az őrzött szállás rendjének fenntartása érdekében az őrzött szállás vezetője – az országos rendőrfőkapitány és a Bevándorlási és Állampolgársági Hivatal főigazgatója jóváhagyásával – meghatározza a napirendet. Ettől eltérni csak rendkívüli esemény bekövetkezése esetén az őrzött szállás vezetőjének engedélyével lehet.
+5. §[^8] (1) Az őrzött szállás rendjének fenntartása érdekében az őrzött szállás vezetője – az országos rendőrfőkapitány és a Bevándorlási és Állampolgársági Hivatal főigazgatója jóváhagyásával – meghatározza a napirendet. Ettől eltérni csak rendkívüli esemény bekövetkezése esetén az őrzött szállás vezetőjének engedélyével lehet.
 
 (2) A napirendben meg kell határozni az őrzött szállás sajátosságaira figyelemmel a jogok gyakorlása és a kötelezettségek teljesítésének rendjét, így különösen
 
@@ -18,4 +18,4 @@ g) a dohányzással kapcsolatos rendelkezéseket, valamint
 
 h) a balesetvédelmi és tűzvédelmi előírásokat.
 
-[^5]: Az 5. § 76/2012. (XII. 19.) BM rendelet 3. §-ával megállapított szöveg.
+[^8]: Az 5. § 76/2012. (XII. 19.) BM rendelet 3. §-ával megállapított szöveg.

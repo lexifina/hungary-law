@@ -4,6 +4,6 @@
 
 (3) A befogadást meg kell tagadni az (1) bekezdésben meghatározott határozat hiánya esetén.
 
-(4)[^3] Az őrzött szállásra történő befogadásra annak hivatali idején kívül is sor kerülhet. A hivatali időt az országos rendőrfőkapitány határozza meg. Erről, valamint a végrehajtással kapcsolatos intézkedésekről a Határőrség országos parancsnoka a Bevándorlási és Állampolgársági Hivatal főigazgatóját tájékoztatja.
+(4)[^3]
 
-[^3]: A 2. § (4) bekezdésének második mondata az 51/2007. (XII. 11.) IRM rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés a) pontja hatályon kívül helyezte.
