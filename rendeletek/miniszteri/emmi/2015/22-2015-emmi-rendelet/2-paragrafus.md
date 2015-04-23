@@ -1,3 +1,3 @@
-## „(6a) A nem települési önkormányzati fenntartású óvoda a gyermek felvételétől számított nyolc napon belül megküldi a felvett gyermek nevét, születési helyét és idejét, lakcímét, anyja nevét a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes jegyzőnek. E rendelkezést kell alkalmazni akkor is, ha a nem települési önkormányzati fenntartású óvoda fenntartója arról döntött, hogy felmenti a gyermeket a kötelező óvodai nevelésben való részvételi kötelezettsége alól.
+## 1. §[^1]
 
-## (6b) A jegyző a gyermek kötelező óvodai nevelésben való részvételi kötelezettsége alóli felmentés tárgyában hozott határozatáról, annak jogerőre emelkedésétől számított nyolc napon belül értesíti a gyermek lakóhelye, ennek hiányában tartózkodási helye szerinti kötelező felvételt biztosító óvoda vezetőjét.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

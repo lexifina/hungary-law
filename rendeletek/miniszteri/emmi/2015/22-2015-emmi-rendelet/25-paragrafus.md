@@ -1,11 +1,14 @@
-## szöveg lép.
+## 14–24. §[^7]
 
 ## 25. § Hatályát veszti az R.
 
-a) 7. § (1) bekezdés b) pont bl) pontja,
+a)[^8]
 
-b)[^4]
+b)[^9]
 
-c) 156. §-a.
+c)[^10]
 
-[^4]: A 25. § b) pontja a 26. § (3) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
+[^7]: A 14–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 25. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 25. § b) pontja a 26. § (3) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
+[^10]: A 25. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
