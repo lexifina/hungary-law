@@ -1,1 +1,0 @@
-A Kormány a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény (a továbbiakban: Tftv.) 27. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján, a Tftv. 2. §-ának b) és c) pontjában meghatározott célok elérése érdekében a következőket rendeli el:
