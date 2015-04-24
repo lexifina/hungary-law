@@ -36,6 +36,8 @@
 
 ## II.1.) MEGHATÁROZÁS
 
+## 3K63306_2
+
 | II.1.1.) A szerződéshez rendelt elnevezés: _________________________________________________________________________________________ |
 
 | II.1.2.) A szerződés típusa és a teljesítés helye [Csak azt a kategóriát válassza – építési beruházás, árubeszerzés vagy szolgáltatás megrendelés –, amelyik a leginkább megfelel a szerződés vagy közbeszerzés(ek) tárgyának] |
@@ -83,6 +85,8 @@
 ## III. SZAKASZ: ELJÁRÁS
 
 ## III.1.) AZ ELJÁRÁS FAJTÁJA
+
+## 3K63306_6
 
 | III.1.1.) Az eljárás fajtája |
 

@@ -26,6 +26,8 @@
 
 ## I.2.) AZ AJÁNLATKÉRŐ TÍPUSA
 
+## 1M41475_2
+
 | Központi szintű | □ | Közszolgáltató | □ |
 
 | Regionális/helyi szintű | □ | Támogatott szervezet [Kbt. 6. § (1) bekezdés g) pont] | □ |
@@ -57,6 +59,8 @@
 ## II. SZAKASZ: A SZERZŐDÉS TÁRGYA
 
 ## II.1) MEGHATÁROZÁS
+
+## 1M41475_6
 
 | II.1.1) A szerzodéshez rendelt elnevezés: __________________________________________________________________________________ |
 
@@ -202,6 +206,6 @@
 
 ## --------------------(Ez a melléklet szükség szerint több példányban is használható)------------------
 
-3. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^12]
+3. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^14]
 
-[^12]: A 3. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § b) pontjával megállapított szöveg.
+[^14]: A 3. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § b) pontjával megállapított szöveg.

@@ -246,6 +246,8 @@
 
 13. melléklet a 92/2011. (XII. 30.) NFM rendelethez
 
+1M41559_0
+
 |  | EURÓPAI UNIÓ Az Európai Unió Hivatalos Lapjának Kiegészítő Kiadványa 2, rue Mercier, L-2985 Luxembourg Fax: (352) 29 29 42 670 E-mail: ojs@publications.europa.eu On-line ajánlattétel: http://simap.europa.eu |
 
 TOVÁBBI INFORMÁCIÓT TARTALMAZÓ HIRDETMÉNY,

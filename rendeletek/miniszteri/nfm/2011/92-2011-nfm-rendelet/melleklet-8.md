@@ -36,6 +36,8 @@
 
 ## I.3.) AZ AJÁNLATKÉRŐ TÍPUSA
 
+## 3K63298_3
+
 | Központi szintű | □ | Közszolgáltató | □ |
 
 | Regionális/helyi szintű | □ | Támogatott szervezet [Kbt. 6. § (1) bekezdés g) pont] | □ |
@@ -65,6 +67,8 @@
 ## II. SZAKASZ: A SZERZŐDÉS TÁRGYA
 
 ## II.1.) MEGHATÁROZÁS
+
+## 3K63298_6
 
 | II.1.1.) A szerződéshez rendelt elnevezés: _________________________________________________________________________________________ _________________________________________________________________________________________ |
 
@@ -105,6 +109,8 @@
 ## III. SZAKASZ: ELJÁRÁS
 
 ## III.1.) AZ ELJÁRÁS FAJTÁJA
+
+## 3K63298_9
 
 | III.1.1.) Az eljárás fajtája |
 
@@ -162,6 +168,6 @@
 
 | V.3.) E HIRDETMÉNY FELADÁSÁNAK IDŐPONTJA: □□□□/□□/□□ (év/hó/nap) |
 
-8. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^15]
+8. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^17]
 
-[^15]: A 8. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § e) pontjával megállapított szöveg.
+[^17]: A 8. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § e) pontjával megállapított szöveg.

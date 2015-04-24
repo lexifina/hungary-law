@@ -44,6 +44,8 @@
 
 ## I.2.) AZ AJÁNLATKÉRŐ TÍPUSA
 
+## 4K03970M_2
+
 | Központi szintű | □ | Közszolgáltató | □ |
 
 | Regionális/helyi szintű | □ | Támogatott szervezet [Kbt. 6. § (1) bekezdés g) pont] | □ |
@@ -75,6 +77,8 @@
 ## II. SZAKASZ: A SZERZŐDÉS TÁRGYA
 
 ## II.1.) MEGHATÁROZÁS
+
+## 4K03970M_6
 
 | II.1.1.) A szerződéshez rendelt elnevezés, a szerződés tárgya, meghatározása: _________________________________________________________________________________________ _________________________________________________________________________________________ |
 
@@ -171,6 +175,8 @@
 | IV.1.5.) Az ajánlati biztosítékra vonatkozó előírások: □ igen □ nem igen válasz esetén: ______________________________________________________________________________________ ______________________________________________________________________________________ |
 
 ## IV.2.) ADMINISZTRATÍV INFORMÁCIÓK
+
+## 4K03970M_13
 
 | IV.2.1.1.) A dokumentáció és a kiegészítő iratok vagy ismertetők beszerzésének feltételei (adott esetben) |
 

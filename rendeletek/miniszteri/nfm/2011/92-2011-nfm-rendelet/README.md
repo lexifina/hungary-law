@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-92-20-2
 | 2012-01-02 | 2011-92-20-2W.2 | 2010: CXXX. törvény |
 | 2013-07-01 | 2011-92-20-2W.3 | 36/2013. (VI. 30.) NFM rendelet |
 | 2014-03-15 | 2011-92-20-2W.4 | 12/2014. (III. 14.) NFM rendelet |
+| 2015-04-24 | 2011-92-20-2W.5 | 44/2015. (XI. 2.) MvM rendelet |

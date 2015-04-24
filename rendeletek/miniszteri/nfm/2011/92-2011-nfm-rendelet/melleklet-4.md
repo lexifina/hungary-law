@@ -44,6 +44,8 @@
 
 ## I.2.) AZ AJÁNLATKÉRŐ TÍPUSA
 
+## 3K63271_2
+
 | Központi szintű | □ | Közszolgáltató | □ |
 
 | Regionális/helyi szintű | □ | Támogatott szervezet [Kbt. 6. § (1) bekezdés g) pont] | □ |
@@ -75,6 +77,8 @@
 ## II. SZAKASZ: A SZERZŐDÉS TÁRGYA
 
 ## II.1.) MEGHATÁROZÁS
+
+## 3K63271_6
 
 | II.1.1.) A szerződéshez rendelt elnevezés: _________________________________________________________________________________________ |
 
@@ -170,6 +174,8 @@
 
 ## IV.1.) AZ ELJÁRÁS FAJTÁJA
 
+## 3K63271_12
+
 | IV.1.1.) Az eljárás fajtája |
 
 | Klasszikus ajánlatkérők |  | Közszolgáltató ajánlatkérők |  |
@@ -217,6 +223,8 @@
 | IV.3.8.) Az ajánlatok vagy részvételi felhívás esetén a részvételi jelentkezések felbontásának feltételei Dátum: □□□□/□□/□□ (év/hó/nap) Időpont: ____________ Hely: _________________________________________________________________________ Az ajánlatok/részvételi jelentkezések felbontásán jelenlétre jogosult személyek □ igen □ nem (igen válasz esetén) További információk a jogosultakról és a bontási eljárásról: ______________________________________________________________________________________ ______________________________________________________________________________________ |
 
 ## V. SZAKASZ: KIEGÉSZÍTŐ INFORMÁCIÓK
+
+## 3K63271_17
 
 | V.1.) A KÖZBESZERZÉS ISMÉTLŐDŐ JELLEGÉRE VONATKOZÓ INFORMÁCIÓK (adott esetben) A közbeszerzés ismétlődő jellegű □ igen □ nem (igen válasz esetén) A további hirdetmények közzétételének tervezett ideje: ______________________________________________________________________________________ |
 
@@ -310,6 +318,6 @@
 
 ## ----------------------(E mellékletből a részek számának megfelelően több példány használható) ----------------------
 
-4. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^13]
+4. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^15]
 
-[^13]: A 4. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § c) pontjával megállapított, a 12/2014. (III. 14.) NFM rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 4. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § c) pontjával megállapított, a 12/2014. (III. 14.) NFM rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.

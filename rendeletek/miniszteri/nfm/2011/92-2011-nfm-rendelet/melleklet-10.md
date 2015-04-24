@@ -24,6 +24,8 @@
 
 ## b)** Az a) pont szerinti ajánlatok értékelése a következő táblázatba foglalva (részajánlat-tételi lehetőség esetén részenként):
 
+## 1M41532_1
+
 |  |  | Az ajánlattevő neve: | Az ajánlattevő neve: | Az ajánlattevő neve: |
 
 | Az elbírálás | A részszempontok |

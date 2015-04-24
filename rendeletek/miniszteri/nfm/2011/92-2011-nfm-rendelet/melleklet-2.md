@@ -22,6 +22,8 @@
 
 ## I.2.) AZ AJÁNLATKÉRŐ TÍPUSA
 
+## 3K63261_2
+
 | Központi szintű | □ | Közszolgáltató | □ |
 
 | Regionális/helyi szintű | □ | Támogatott szervezet [Kbt. 6. § (1) bekezdés g) pont] | □ |
@@ -54,6 +56,8 @@
 
 ## II.1.) MEGHATÁROZÁS
 
+## 3K63261_6
+
 | II.1.1.) A szerződéshez rendelt elnevezés: ____________________________________________________________________________________________________________________________________________________________________________________ |
 
 | II.1.2.) A szerződés típusa és a teljesítés helye [Csak azt a kategóriát válassza – építési beruházás, árubeszerzés vagy szolgáltatás megrendelés –, amelyik a leginkább megfelel a szerződés vagy közbeszerzés(ek) tárgyának] |
@@ -82,6 +86,8 @@
 
 ## II.2.) A SZERZŐDÉS(EK) VÉGLEGES ÖSSZÉRTÉKE
 
+## 3K63261_7
+
 | II.2.1.) A szerződés(ek) végleges összértéke [Csak a végleges összértéket kérjük megadni számokkal, az összes szerződést, részt, meghosszabbítást és opciót beleértve; az egyes szerződésekre vonatkozó információkkal kapcsolatban a IV. szakaszt (Az eljárás eredménye) kérjük kitölteni] | Áfa nélkül | Áfával | Áfa (%) |
 
 | Érték: __________________ Pénznem: _____ | □ | □ | □□,□ |
@@ -91,6 +97,8 @@
 ## III. SZAKASZ: ELJÁRÁS
 
 ## III.1.) AZ ELJÁRÁS FAJTÁJA
+
+## 3K63261_8
 
 | III.1.1.) Az eljárás fajtája |
 
@@ -131,6 +139,8 @@
 ## A SZERZŐDÉS SZÁMA: □□□ RÉSZ SZÁMA: □□□ ELNEVEZÉS: _____________________________________
 
 ## ______________________________________________
+
+## 3K63261_11
 
 | IV.1.) Az eljárás (részajánlat-tételi lehetőség esetén az adott rész vonatkozásában) eredményes volt: □igen □ nem |
 

@@ -30,6 +30,8 @@
 
 ## II. SZAKASZ: AZ AJÁNLATKÉRŐ KÖZBESZERZÉSEIRE VONATKOZÓ ÁLTALÁNOS ADATOK
 
+## 3K63313_2
+
 | II.1.) Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzések (a Kbt. XII-XIII. fejezete) (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számmal kell kifejezni) Száma: □□□ Érték: ______________________________ |
 
 | II.2.) A nemzeti értékhatárokat elérő vagy meghaladó értékű közbeszerzések (a Kbt. Harmadik része) (valamennyi mezőbe csak szám érték írható, a szerződések értékét Ft-ban, arab számmal kell kifejezni) Száma: □□□ Értéke: ______________________________ |
@@ -278,6 +280,6 @@
 
 | IV.10.) AZ ÖSSZEGZÉS FELADÁSÁNAK IDŐPONTJA: □□□□/□□/□□ (év/hó/nap ) |
 
-12. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^17]
+12. melléklet a 92/2011. (XII. 30.) NFM rendelethez[^19]
 
-[^17]: A 12. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § g) pontjával megállapított szöveg.
+[^19]: A 12. melléklet a 36/2013. (VI. 30.) NFM rendelet 6. § g) pontjával megállapított szöveg.

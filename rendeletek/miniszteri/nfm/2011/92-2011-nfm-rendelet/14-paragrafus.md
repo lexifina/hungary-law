@@ -20,4 +20,6 @@ d) az a)–c) pont alá nem tartozó hirdetmények esetében: 50 000 forint.
 
 (6) Az ellenőrzési díj megfizetése alól mentesség illeti meg az ezer fő lakosnál kevesebb lélekszámú települések esetében a Kbt. 6. § (1) bekezdés b) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
 
-(7) A díjból ötven százalék kedvezmény illeti meg a külön jogszabály szerinti kedvezményezett kistérségekben található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 6. § (1) bekezdés b) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
+(7)[^3] A díjból ötven százalék kedvezmény illeti meg a külön jogszabály szerinti kedvezményezett járásokban található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 6. § (1) bekezdés b) pontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint ilyen települések által létrehozott társulás ajánlatkérőket.
+
+[^3]: A 14. § (7) bekezdése a 23/2015. (IV. 23.) MvM rendelet 1. §-a szerint módosított szöveg.
