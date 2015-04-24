@@ -36,10 +36,6 @@ a b) és c) alpont tekintetében a 2016. évi központi költségvetés tervezé
 
 4. A Kormány jóváhagyja, hogy az NSK által a 3. pont szerint biztosított előirányzatok terhére lefolytatásra kerülő beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-5. A fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem beruházási program megvalósításáról és a szükséges pénzügyi fedezet biztosításáról szóló 1616/2014. (XI. 4.) Korm. határozat 1. pont d) alpontja helyébe a következő rendelkezés lép:
+5.[^1]
 
-[A Kormány
-
-1. egyetért a fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem építése beruházási program (a továbbiakban: Beruházás) koncepciójával, amely szerint a Beruházás]
-
-„d) a 2015. és 2016. években 968,4 millió forint keretösszegű forrásból valósul meg,”.
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
