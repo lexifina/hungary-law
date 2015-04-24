@@ -1,0 +1,1 @@
+## 6. § A súlyos természeti vagy civilizációs katasztrófával sújtott térségek meghatározásának szempontjait az 5. melléklet tartalmazza. A súlyos természeti vagy civilizációs katasztrófával sújtott kedvezményezett térségek jegyzékét a 6. melléklet tartalmazza.

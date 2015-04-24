@@ -2,238 +2,254 @@
 
 |  | A | B | C | D | E | F |
 
-| 1. | Régió | Megye | Járás | Kedvezményezett járás | Fejlesztendő járás | Komplex programmal fejlesztendő járás |
+| 1. |  |  |  | Kedvezményezett járás |
 
-| 2. | Dél-Alföld | Bács-Kiskun | Bácsalmási | 0 | 0 | 1 |
+| 2. | Régió | Megye | Járás |  | Fejlesztendő járás |
 
-| 3. |  |  | Bajai | 1 | 0 | 0 |
+| 3. |  |  |  |  | Komplex programmal fejlesztendő járás |
 
-| 4. |  |  | Jánoshalmai | 0 | 0 | 1 |
+| 4. | Dél-Alföld | Bács-Kiskun | Bácsalmási | 0 | 0 | 1 |
 
-| 5. |  |  | Kalocsai | 1 | 0 | 0 |
+| 5. |  |  | Bajai | 1 | 0 | 0 |
 
-| 6. |  |  | Kiskőrösi | 1 | 0 | 0 |
+| 6. |  |  | Jánoshalmi | 0 | 0 | 1 |
 
-| 7. |  |  | Kiskunfélegyházi | 1 | 0 | 0 |
+| 7. |  |  | Kalocsai | 1 | 0 | 0 |
 
-| 8. |  |  | Kiskunhalasi | 1 | 0 | 0 |
+| 8. |  |  | Kiskőrösi | 1 | 0 | 0 |
 
-| 9. |  |  | Kiskunmajsai | 0 | 1 | 0 |
+| 9. |  |  | Kiskunfélegyházi | 1 | 0 | 0 |
 
-| 10. |  |  | Kunszentmiklósi | 0 | 1 | 0 |
+| 10. |  |  | Kiskunhalasi | 1 | 0 | 0 |
 
-| 11. |  |  | Tiszakécskei | 1 | 0 | 0 |
+| 11. |  |  | Kiskunmajsai | 0 | 1 | 0 |
 
-| 12. |  | Békés | Békési | 1 | 0 | 0 |
+| 12. |  |  | Kunszentmiklósi | 0 | 1 | 0 |
 
-| 13. |  |  | Gyomaendrődi | 1 | 0 | 0 |
+| 13. |  |  | Tiszakécskei | 1 | 0 | 0 |
 
-| 14. |  |  | Mezőkovácsházai | 0 | 0 | 1 |
+| 14. |  | Békés | Békési | 1 | 0 | 0 |
 
-| 15. |  |  | Orosházi | 1 | 0 | 0 |
+| 15. |  |  | Gyomaendrődi | 1 | 0 | 0 |
 
-| 16. |  |  | Sarkadi | 0 | 0 | 1 |
+| 16. |  |  | Mezőkovácsházai | 0 | 0 | 1 |
 
-| 17. |  |  | Szarvasi | 1 | 0 | 0 |
+| 17. |  |  | Orosházi | 1 | 0 | 0 |
 
-| 18. |  |  | Szeghalmi | 1 | 0 | 0 |
+| 18. |  |  | Sarkadi | 0 | 0 | 1 |
 
-| 19. |  | Csongrád | Csongrádi | 1 | 0 | 0 |
+| 19. |  |  | Szarvasi | 1 | 0 | 0 |
 
-| 20. |  |  | Kisteleki | 0 | 0 | 1 |
+| 20. |  |  | Szeghalmi | 0 | 1 | 0 |
 
-| 21. |  |  | Makói | 0 | 1 | 0 |
+| 21. |  | Csongrád | Csongrádi | 1 | 0 | 0 |
 
-| 22. |  |  | Mórahalmi | 1 | 0 | 0 |
+| 22. |  |  | Hódmezővásárhelyi | 1 | 0 | 0 |
 
-| 23. |  |  | Szentesi | 1 | 0 | 0 |
+| 23. |  |  | Kisteleki | 0 | 1 | 0 |
 
-| 24. | Dél-Alföld összesen |  |  | 14 | 3 | 5 |
+| 24. |  |  | Makói | 1 | 0 | 0 |
 
-| 25. | Dél-Dunántúl | Baranya | Bólyi | 1 | 0 | 0 |
+| 25. |  |  | Mórahalmi | 1 | 0 | 0 |
 
-| 26. |  |  | Hegyháti | 0 | 0 | 1 |
+| 26. |  |  | Szentesi | 1 | 0 | 0 |
 
-| 27. |  |  | Mohácsi | 1 | 0 | 0 |
+| 27. | Dél-Alföld összesen |  |  | 15 | 4 | 4 |
 
-| 28. |  |  | Pécsváradi | 1 | 0 | 0 |
+| 28. | Dél-Dunántúl | Baranya | Bólyi | 1 | 0 | 0 |
 
-| 29. |  |  | Sellyei | 0 | 0 | 1 |
+| 29. |  |  | Hegyháti | 0 | 0 | 1 |
 
-| 30. |  |  | Siklósi | 1 | 0 | 0 |
+| 30. |  |  | Mohácsi | 1 | 0 | 0 |
 
-| 31. |  |  | Szentlőrinci | 1 | 0 | 0 |
+| 31. |  |  | Pécsváradi | 1 | 0 | 0 |
 
-| 32. |  |  | Szigetvári | 0 | 1 | 0 |
+| 32. |  |  | Sellyei | 0 | 0 | 1 |
 
-| 33. |  | Somogy | Barcsi | 0 | 0 | 1 |
+| 33. |  |  | Siklósi | 1 | 0 | 0 |
 
-| 34. |  |  | Csurgói | 0 | 0 | 1 |
+| 34. |  |  | Szentlőrinci | 1 | 0 | 0 |
 
-| 35. |  |  | Kaposvári | 1 | 0 | 0 |
+| 35. |  |  | Szigetvári | 0 | 1 | 0 |
 
-| 36. |  |  | Marcali | 1 | 0 | 0 |
+| 36. |  | Somogy | Barcsi | 0 | 0 | 1 |
 
-| 37. |  |  | Nagyatádi | 0 | 1 | 0 |
+| 37. |  |  | Csurgói | 0 | 0 | 1 |
 
-| 38. |  |  | Tabi | 0 | 1 | 0 |
+| 38. |  |  | Fonyódi | 1 | 0 | 0 |
 
-| 39. |  | Tolna | Dombóvári | 1 | 0 | 0 |
+| 39. |  |  | Kaposvári | 1 | 0 | 0 |
 
-| 40. |  |  | Tamási | 0 | 1 | 0 |
+| 40. |  |  | Marcali | 1 | 0 | 0 |
 
-| 41. | Dél-Dunántúl összesen |  |  | 8 | 4 | 4 |
+| 41. |  |  | Nagyatádi | 0 | 1 | 0 |
 
-| 42. | Észak-Alföld | Hajdú-Bihar | Balmazújvárosi | 1 | 0 | 0 |
+| 42. |  |  | Tabi | 0 | 1 | 0 |
 
-| 43. |  |  | Berettyóújfalui | 0 | 0 | 1 |
+| 43. |  | Tolna | Dombóvári | 1 | 0 | 0 |
 
-| 44. |  |  | Derecskei | 0 | 0 | 1 |
+| 44. |  |  | Tamási | 0 | 0 | 1 |
 
-| 45. |  |  | Hajdúböszörményi | 1 | 0 | 0 |
+| 45. | Dél-Dunántúl összesen |  |  | 9 | 3 | 5 |
 
-| 46. |  |  | Hajdúhadházi | 1 | 0 | 0 |
+| 46. | Észak-Alföld | Hajdú-Bihar | Balmazújvárosi | 1 | 0 | 0 |
 
-| 47. |  |  | Hajdúnánási | 1 | 0 | 0 |
+| 47. |  |  | Berettyóújfalui | 0 | 0 | 1 |
 
-| 48. |  |  | Hajdúszoboszlói | 1 | 0 | 0 |
+| 48. |  |  | Derecskei | 0 | 0 | 1 |
 
-| 49. |  |  | Nyíradonyi | 0 | 0 | 1 |
+| 49. |  |  | Hajdúböszörményi | 1 | 0 | 0 |
 
-| 50. |  |  | Püspökladányi | 0 | 0 | 1 |
+| 50. |  |  | Hajdúhadházi | 1 | 0 | 0 |
 
-| 51. |  | Jász-Nagykun- Szolnok | Jászapáti | 0 | 1 | 0 |
+| 51. |  |  | Hajdúnánási | 1 | 0 | 0 |
 
-| 52. |  |  | Jászberényi | 1 | 0 | 0 |
+| 52. |  |  | Hajdúszoboszlói | 1 | 0 | 0 |
 
-| 53. |  |  | Karcagi | 0 | 1 | 0 |
+| 53. |  |  | Nyíradonyi | 0 | 0 | 1 |
 
-| 54. |  |  | Kunhegyesi | 0 | 0 | 1 |
+| 54. |  |  | Püspökladányi | 0 | 0 | 1 |
 
-| 55. |  |  | Kunszentmártoni | 0 | 1 | 0 |
+| 55. |  | Jász-Nagykun-Szolnok | Jászapáti | 0 | 0 | 1 |
 
-| 56. |  |  | Mezőtúri | 1 | 0 | 0 |
+| 56. |  |  | Jászberényi | 1 | 0 | 0 |
 
-| 57. |  |  | Tiszafüredi | 1 | 0 | 0 |
+| 57. |  |  | Karcagi | 0 | 1 | 0 |
 
-| 58. |  |  | Törökszentmiklósi | 1 | 0 | 0 |
+| 58. |  |  | Kunhegyesi | 0 | 0 | 1 |
 
-| 59. |  | Szabolcs-Szatmár- Bereg | Baktalórántházai | 0 | 0 | 1 |
+| 59. |  |  | Kunszentmártoni | 0 | 1 | 0 |
 
-| 60. |  |  | Csengeri | 0 | 1 | 0 |
+| 60. |  |  | Mezőtúri | 1 | 0 | 0 |
 
-| 61. |  |  | Fehérgyarmati | 0 | 0 | 1 |
+| 61. |  |  | Tiszafüredi | 1 | 0 | 0 |
 
-| 62. |  |  | Ibrányi | 0 | 0 | 1 |
+| 62. |  |  | Törökszentmiklósi | 0 | 1 | 0 |
 
-| 63. |  |  | Kemecsei | 0 | 1 | 0 |
+| 63. |  | Szabolcs-Szatmár-Bereg | Baktalórántházai | 0 | 0 | 1 |
 
-| 64. |  |  | Kisvárdai | 1 | 0 | 0 |
+| 64. |  |  | Csengeri | 0 | 0 | 1 |
 
-| 65. |  |  | Mátészalkai | 0 | 0 | 1 |
+| 65. |  |  | Fehérgyarmati | 0 | 0 | 1 |
 
-| 66. |  |  | Nagykállói | 0 | 1 | 0 |
+| 66. |  |  | Ibrányi | 0 | 0 | 1 |
 
-| 67. |  |  | Nyírbátori | 0 | 0 | 1 |
+| 67. |  |  | Kemecsei | 0 | 0 | 1 |
 
-| 68. |  |  | Tiszavasvári | 0 | 1 | 0 |
+| 68. |  |  | Kisvárdai | 1 | 0 | 0 |
 
-| 69. |  |  | Vásárosnaményi | 0 | 0 | 1 |
+| 69. |  |  | Mátészalkai | 0 | 0 | 1 |
 
-| 70. |  |  | Záhonyi | 0 | 0 | 1 |
+| 70. |  |  | Nagykállói | 0 | 1 | 0 |
 
-| 71. | Észak-Alföld összesen |  |  | 10 | 7 | 12 |
+| 71. |  |  | Nyírbátori | 0 | 0 | 1 |
 
-| 72. | Észak- Magyarország | Borsod-Abaúj- Zemplén | Cigándi | 0 | 0 | 1 |
+| 72. |  |  | Tiszavasvári | 0 | 1 | 0 |
 
-| 73. |  |  | Edelényi | 0 | 0 | 1 |
+| 73. |  |  | Vásárosnaményi | 0 | 0 | 1 |
 
-| 74. |  |  | Encsi | 0 | 0 | 1 |
+| 74. |  |  | Záhonyi | 0 | 0 | 1 |
 
-| 75. |  |  | Gönci | 0 | 0 | 1 |
+| 75. | Észak-Alföld összesen |  |  | 9 | 5 | 15 |
 
-| 76. |  |  | Kazincbarcikai | 1 | 0 | 0 |
+| 76. | Észak-Magyarország | Borsod-Abaúj-Zemplén | Cigándi | 0 | 0 | 1 |
 
-| 77. |  |  | Mezőcsáti | 0 | 0 | 1 |
+| 77. |  |  | Edelényi | 0 | 0 | 1 |
 
-| 78. |  |  | Mezőkövesdi | 1 | 0 | 0 |
+| 78. |  |  | Encsi | 0 | 0 | 1 |
 
-| 79. |  |  | Ózdi | 0 | 0 | 1 |
+| 79. |  |  | Gönci | 0 | 0 | 1 |
 
-| 80. |  |  | Putnoki | 0 | 0 | 1 |
+| 80. |  |  | Kazincbarcikai | 1 | 0 | 0 |
 
-| 81. |  |  | Sárospataki | 1 | 0 | 0 |
+| 81. |  |  | Mezőcsáti | 0 | 0 | 1 |
 
-| 82. |  |  | Sátoraljaújhelyi | 1 | 0 | 0 |
+| 82. |  |  | Mezőkövesdi | 1 | 0 | 0 |
 
-| 83. |  |  | Szerencsi | 0 | 0 | 1 |
+| 83. |  |  | Ózdi | 0 | 0 | 1 |
 
-| 84. |  |  | Szikszói | 0 | 0 | 1 |
+| 84. |  |  | Putnoki | 0 | 0 | 1 |
 
-| 85. |  |  | Tokaji | 0 | 1 | 0 |
+| 85. |  |  | Sárospataki | 1 | 0 | 0 |
 
-| 86. |  | Heves | Bélapátfalvai | 1 | 0 | 0 |
+| 86. |  |  | Sátoraljaújhelyi | 1 | 0 | 0 |
 
-| 87. |  |  | Füzesabonyi | 0 | 1 | 0 |
+| 87. |  |  | Szerencsi | 0 | 1 | 0 |
 
-| 88. |  |  | Hevesi | 0 | 0 | 1 |
+| 88. |  |  | Szikszói | 0 | 0 | 1 |
 
-| 89. |  |  | Pétervásárai | 0 | 0 | 1 |
+| 89. |  |  | Tokaji | 0 | 1 | 0 |
 
-| 90. |  | Nógrád | Balassagyarmati | 1 | 0 | 0 |
+| 90. |  | Heves | Bélapátfalvai | 1 | 0 | 0 |
 
-| 91. |  |  | Bátonyterenyei | 1 | 0 | 0 |
+| 91. |  |  | Füzesabonyi | 0 | 1 | 0 |
 
-| 92. |  |  | Pásztói | 0 | 1 | 0 |
+| 92. |  |  | Hevesi | 0 | 0 | 1 |
 
-| 93. |  |  | Rétsági | 1 | 0 | 0 |
+| 93. |  |  | Pétervásárai | 0 | 1 | 0 |
 
-| 94. |  |  | Salgótarjáni | 1 | 0 | 0 |
+| 94. |  | Nógrád | Balassagyarmati | 1 | 0 | 0 |
 
-| 95. |  |  | Szécsényi | 0 | 0 | 1 |
+| 95. |  |  | Bátonyterenyei | 1 | 0 | 0 |
 
-| 96. | Észak- Magyarország összesen |  |  | 9 | 3 | 12 |
+| 96. |  |  | Pásztói | 1 | 0 | 0 |
 
-| 97. | Közép-Dunántúl | Fejér | Enyingi | 0 | 1 | 0 |
+| 97. |  |  | Rétsági | 1 | 0 | 0 |
 
-| 98. |  |  |  |  |  |  |
+| 98. |  |  | Salgótarjáni | 1 | 0 | 0 |
 
-| 99. |  |  | Sárbogárdi | 0 | 0 | 1 |
+| 99. |  |  | Szécsényi | 0 | 0 | 1 |
 
-| 100. |  | Komárom-Esztergom | Kisbéri | 1 | 0 | 0 |
+| 100. | Észak-Magyarország összesen |  |  | 10 | 4 | 10 |
 
-| 101. |  | Veszprém | Devecseri | 0 | 0 | 1 |
+| 101. | Közép-Dunántúl | Fejér | Enyingi | 0 | 1 | 0 |
 
-| 102. |  |  | Pápai | 1 | 0 | 0 |
+| 102. |  |  | Sárbogárdi | 0 | 0 | 1 |
 
-| 103. |  |  | Sümegi | 1 | 0 | 0 |
+| 103. |  | Komárom-Esztergom | Kisbéri | 1 | 0 | 0 |
 
-| 104. | Közép-Dunántúl összesen |  |  | 4 | 1 | 2 |
+| 104. |  | Veszprém | Devecseri | 0 | 0 | 1 |
 
-| 105. | Közép- Magyarország | Pest | Ceglédi | 1 | 0 | 0 |
+| 105. |  |  | Pápai | 1 | 0 | 0 |
 
-| 106. |  |  | Nagykátai | 1 | 0 | 0 |
+| 106. |  |  | Sümegi | 1 | 0 | 0 |
 
-| 107. |  |  | Nagykőrösi | 1 | 0 | 0 |
+| 107. | Közép-Dunántúl összesen |  |  | 3 | 1 | 2 |
 
-| 108. |  |  | Szobi | 1 | 0 | 0 |
+| 108. | Közép-Magyarország | Pest | Ceglédi | 1 | 0 | 0 |
 
-| 109. | Közép- Magyarország összesen |  |  | 4 | 0 | 0 |
+| 109. |  |  | Nagykátai | 1 | 0 | 0 |
 
-| 110. | Nyugat-Dunántúl | Győr-Moson- Sopron | Téti | 1 | 0 | 0 |
+| 110. |  |  | Nagykőrösi | 1 | 0 | 0 |
 
-| 111. |  | Vas | Celldömölki | 1 | 0 | 0 |
+| 111. |  |  | Szobi | 1 | 0 | 0 |
 
-| 112. |  |  | Vasvári | 0 | 0 | 1 |
+| 112. | Közép-Magyarország összesen |  |  | 4 | 0 | 0 |
 
-| 113. |  | Zala | Lenti | 1 | 0 | 0 |
+| 113. | Nyugat-Dunántúl | Győr-Moson-Sopron | Téti | 1 | 0 | 0 |
 
-| 114. |  |  | Letenyei | 0 | 1 | 0 |
+| 114. |  | Vas | Celldömölki | 1 | 0 | 0 |
 
-| 115. |  |  | Zalaszentgróti | 1 | 0 | 0 |
+| 115. |  |  | Vasvári | 0 | 1 | 0 |
 
-| 116. | Nyugat-Dunántúl összesen |  |  | 4 | 1 | 1 |
+| 116. |  | Zala | Lenti | 1 | 0 | 0 |
 
-| 117. | Ország összesen |  |  | 53 | 19 | 36 |
+| 117. |  |  | Letenyei | 1 | 0 | 0 |
 
-4. melléklet a 290/2014. (XI. 26.) Korm. rendelethez
+| 118. |  |  | Zalaszentgróti | 1 | 0 | 0 |
+
+| 119. | Nyugat-Dunántúl összesen |  |  | 5 | 1 | 0 |
+
+| 120. | Komplex programmal fejlesztendő járások részösszesen |  |  | 36 |
+
+| 121. | Fejlesztendő járás részösszesen |  | 18 |  |
+
+| 122. | Fejlesztendő járás összesen |  | 54 |  |
+
+| 123. | Kedvezményezett járás részösszesen | 55 |  |  |
+
+| 124. | Kedvezményezett járás összesen |  | 109 |  |
+
+4. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^11]
+
+[^11]: A 4. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
