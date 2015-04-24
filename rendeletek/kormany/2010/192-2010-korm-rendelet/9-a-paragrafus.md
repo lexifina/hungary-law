@@ -1,4 +1,4 @@
-9/A. §[^11] (1) A 9. § (2) bekezdése szerinti személyes gépkocsihasználat engedélyezése során a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – az igényjogosult felett munkáltatói jogkört gyakorló személy javaslata alapján – határozza meg a havi térítésmentes futásteljesítményt.
+9/A. §[^14] (1) A 9. § (2) bekezdése szerinti személyes gépkocsihasználat engedélyezése során a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter – az igényjogosult felett munkáltatói jogkört gyakorló személy javaslata alapján – határozza meg a havi térítésmentes futásteljesítményt.
 
 (2) A 9. § (2) bekezdésében megjelölt igényjogosult a gépkocsi kilométer-számlálójának állását minden naptári hónap utolsó napján köteles az erre szolgáló nyomtatványon rögzíteni. A nyilvántartás szerinti havi futásteljesítmény azon része után, amely az (1) bekezdésben foglaltak szerint meghatározott mértéket meghaladja, az igényjogosult köteles a gépkocsit üzemben tartó szerv részére az üzemanyag-költséget a fizetési kötelezettség tudomására jutásától számított 30 napon belül megtéríteni.
 
@@ -20,4 +20,4 @@ e) 16 fő feletti jogosulti létszám esetében legfeljebb 5 fő gépkocsivezet�
 
 (6) Amennyiben a személyes gépkocsihasználatra jogosult érvényes vezetői engedéllyel nem rendelkezik, vagy egészségi állapota folytán vagy más okból (például járművezetési képesség vagy gyakorlat hiánya) járművezetésre nem képes, számára állandó jelleggel gépkocsivezetőt kell biztosítani.
 
-[^11]: A 9/A. §-t a 316/2011. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^14]: A 9/A. §-t a 316/2011. (XII. 27.) Korm. rendelet 6. §-a iktatta be.

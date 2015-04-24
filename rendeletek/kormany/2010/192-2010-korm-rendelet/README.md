@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-192-20-
 | 2011-12-28 | 2010-192-20-22.5 | 316/2011. (XII. 27.) Korm. rendelet |
 | 2012-06-27 | 2010-192-20-22.6 | 316/2011. (XII. 27.) Korm. rendelet |
 | 2014-09-05 | 2010-192-20-22.7 | 316/2011. (XII. 27.) Korm. rendelet |
+| 2015-04-24 | 2010-192-20-22.8 | 103/2015. (IV. 23.) Korm. rendelet |

@@ -1,4 +1,3 @@
-15/A. §[^21] A 9. § (1) bekezdése, a 9. § (6) bekezdése, valamint a 13. § alapján személyes gépkocsihasználatra jogosultakon kívüli személyek részére az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló 192/2010. (VI. 10.) Korm. rendelet módosításáról szóló 316/2011. (XII. 27.) Korm. rendelet hatálybalépése[^22] előtt engedélyezett gépkocsihasználatot a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter 2011. december 31-ig felülvizsgálja és a további gépkocsihasználat indokoltsága esetén gondoskodik a 9. § (2) bekezdése szerinti engedély kiadásáról, valamint a 9/A. § (1) bekezdése szerinti térítésmentes futásteljesítmény meghatározásáról.
+15/A. §[^26]
 
-[^21]: A 15/A. §-t a 316/2011. (XII. 27.) Korm. rendelet 9. §-a iktatta be.
-[^22]: A hatálybalépés napja: 2011. december 28.
+[^26]: A 15/A. §-t a 316/2011. (XII. 27.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 103/2015. (IV. 23.) Korm. rendelet 5. § b) pontja.

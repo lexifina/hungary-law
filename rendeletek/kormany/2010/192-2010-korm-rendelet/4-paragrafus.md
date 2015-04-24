@@ -1,8 +1,14 @@
 ## Hivatali lakás használata, lakásfenntartási térítés
 
-4. §[^5] (1) A miniszter és az államtitkár (a továbbiakban együtt: igényjogosult állami vezető) részére hivatali lakás használatát lehet biztosítani, ha – a vele közös háztartásban élő házastársa (élettársa) lakásviszonyait is figyelembe véve – Budapesten vagy közvetlen vonzáskörzetében lakástulajdonnal nem rendelkezik.
+4. §[^6] (1)[^7] A miniszter és az államtitkár (a továbbiakban együtt: igényjogosult állami vezető) részére egy hivatali lakás használatát lehet biztosítani, ha – a vele közös háztartásban élő házastársa (élettársa) lakásviszonyait is figyelembe véve –
 
-(2) Hivatali lakásként egy személy beköltözése esetén kettő, egyéb esetben az együttlakó személyek számának megfelelő, de legkevesebb három lakószobával rendelkező, a műszaki, fenntartási, üzemeltetési és a biztonsági követelmények szempontjából állami vezetői lakásnak, illetőleg az igényjogosult állami vezető feladatkörének ellátására alkalmas budapesti vagy Budapest közvetlen vonzáskörzetében lévő lakást kell biztosítani.
+a) miniszter esetében az általa vezetett minisztérium székhelye szerinti,
+
+b) államtitkár esetében a munkáltatói jogkör gyakorlója által kijelölt
+
+településen [a továbbiakban a) és b) együtt: munkavégzés helye szerinti település] vagy annak közvetlen vonzáskörzetében lakástulajdonnal nem rendelkezik.
+
+(2)[^8] Hivatali lakásként egy személy beköltözése esetén kettő, egyéb esetben az együttlakó személyek számának megfelelő, de legkevesebb három lakószobával rendelkező, a műszaki, fenntartási, üzemeltetési és a biztonsági követelmények szempontjából állami vezetői lakásnak, illetőleg az igényjogosult állami vezető feladatkörének ellátására alkalmas, a munkavégzés helye szerinti településen vagy annak közvetlen vonzáskörzetében lévő lakást kell biztosítani.
 
 (3) Az igényjogosult állami vezetőt terhelik a lakáshasználattal összefüggésben felmerülő karbantartási és kisebb javítási költségek, az energiaszolgáltatási és közüzemi díjak, valamint a távbeszélő szolgáltatások díjai. A lakbért és a jogosultat a bérlettel kapcsolatban terhelő külön szolgáltatások díját a munkáltató biztosítja.
 
@@ -12,4 +18,6 @@
 
 (6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter részére a hivatali lakás használatát a miniszterelnök engedélyezi.
 
-[^5]: A 4. § a 124/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 4. § a 124/2011. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 4. § (1) bekezdése a 103/2015. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 4. § (2) bekezdése a 103/2015. (IV. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
