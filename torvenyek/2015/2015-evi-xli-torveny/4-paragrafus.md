@@ -1,0 +1,1 @@
+4. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Beruházási Bank megalapításáról szóló Egyezmény és a Bank Alapszabálya módosításáról szóló Jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.

@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Nemzetközi Beruházási Bank megalapítása tárgyában, Moszkvában, 1970. július 10-én aláírt és 1990. december 20. napján módosított Egyezmény (a továbbiakban: Egyezmény) és az Egyezményhez csatolt Alapszabály (a továbbiakban: Alapszabály) kötelező hatályának elismerésére.
