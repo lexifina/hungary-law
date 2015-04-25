@@ -1,1 +1,0 @@
-## 4. § A kezdeményező a 3. § (2) bekezdésében meghatározott küldeményt felbontás nélkül, haladéktalanul továbbítja a nemzetbiztonsági ellenőrzést folytató nemzetbiztonsági szolgálat (a továbbiakban: nemzetbiztonsági szolgálat) számára.
