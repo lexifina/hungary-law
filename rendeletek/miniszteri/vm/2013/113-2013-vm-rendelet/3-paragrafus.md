@@ -1,3 +1,0 @@
-3. § (1) Az óvoda-, és iskolatej program lebonyolításával kapcsolatos feladatokat a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) látja el.
-
-(2) A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet szerinti köznevelési információs rendszer működtetője minden év november 30-áig – a november 15-ei állapot szerint – megküldi az óvodai, általános és középfokú iskolai feladatot ellátó intézmények, tagintézmények és fenntartóik közérdekű adatait (az intézmény neve, OM azonosítója, feladatellátási hely azonosítója, a fenntartó neve, az intézmény székhelye, székhelyének címe, telephelyének neve és címe) az MVH, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium részére.
