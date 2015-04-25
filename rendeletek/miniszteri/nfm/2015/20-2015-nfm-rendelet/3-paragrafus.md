@@ -1,3 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-3. § Hatályát veszti a Millenáris Kulturális Tudományos Nonprofit Kft. és a Millenáris Széllkapu Beruházó, Fejlesztő és Üzemeltető Nonprofit Kft. felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló szervezet kijelöléséről szóló 49/2014. (XII. 11.) NFM rendelet.
+3. §[^2]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
