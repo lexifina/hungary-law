@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-41-00-00
 | --- | --- | --- |
 | 2015-04-25 | 2015. évi XLI. törvény | 2015-41-00-00.0 (közlönyállapot) |
 | 2015-04-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-41-00-00.1 |
+| 2015-04-26 | 2010. évi CXXX. törvény | 2015-41-00-00.2 |
