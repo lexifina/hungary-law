@@ -14,7 +14,7 @@ c) gyógyszer-nagykereskedelmi engedéllyel.
 
 (2)[^22] Az emberi felhasználásra kerülő gyógyszerek EGT tagállamokon kívülről történő behozatala esetén – a saját felhasználás céljából történő behozatal, illetve az egészségügyért felelős miniszter rendeletében meghatározott esetek kivételével – a szabad forgalomba bocsátáskor a vámhatóság meggyőződik arról, hogy az importőr rendelkezik az egészségügyért felelős miniszter rendeletében meghatározott gyógyszergyártási engedéllyel.
 
-(3)[^23] Igény esetén – az esetleges ellenőrzések miatti késedelem elkerülése érdekében – a GYEMSZI az EGT tagállamba irányuló és onnan származó gyógyszerek gyártási tételei kivitelekor és behozatalakor is kiadja a (2) bekezdés szerinti hatósági bizonyítványokat.
+(3)[^23] Igény esetén – az esetleges ellenőrzések miatti késedelem elkerülése érdekében – az OGYÉI az EGT tagállamba irányuló és onnan származó gyógyszerek gyártási tételei kivitelekor és behozatalakor is kiadja a (2) bekezdés szerinti hatósági bizonyítványokat.
 
 (3a)[^24] Az emberi felhasználásra kerülő gyógyszerek EGT tagállamokon kívüli országba irányuló kivitele esetén – a saját felhasználás céljából történő kivitel, illetve az egészségügyért felelős miniszter rendeletében meghatározott esetek kivételével – a kiviteli ellenőrzéskor a vámhatóság meggyőződik arról, hogy az exportőr rendelkezik az egészségügyért felelős miniszter rendeletében meghatározott gyógyszer-nagykereskedelmi vagy gyógyszergyártási engedéllyel.
 
@@ -30,7 +30,7 @@ c) gyógyszer-nagykereskedelmi engedéllyel.
 [^20]: A 3. § bekezdését az 53/2012. (XII. 28.) EMMI rendelet 1. §-a iktatta be.
 [^21]: A 3. § (1b) bekezdését a 70/2013. (XI. 19.) EMMI rendelet 1. §-a iktatta be.
 [^22]: A 3. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^23]: A 3. § (3) bekezdése a 38/2009. (XI. 6.) EüM rendelet 5. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 16. § (1) bekezdés b) és c) pontja szerint módosított szöveg.
+[^23]: A 3. § (3) bekezdése a 38/2009. (XI. 6.) EüM rendelet 5. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
 [^24]: A 3. § (3a) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (2) bekezdése iktatta be.
 [^25]: A 3. § (4) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^26]: A 3. § (5) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 5. § (3) bekezdése iktatta be.

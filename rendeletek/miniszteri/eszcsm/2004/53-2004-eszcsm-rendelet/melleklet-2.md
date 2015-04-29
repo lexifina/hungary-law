@@ -2,29 +2,29 @@
 
 A gyógyszerekkel folytatott nagykereskedelmi tevékenység szakmai feltételei
 
-1.[^93] A nagykereskedő szék-, illetve telephelye személyi és technikai ellátottságának alkalmasnak kell lenni arra, hogy az általa végzett nagykereskedelmi tevékenység szabályszerű végzését biztosítani tudja.
+1.[^102] A nagykereskedő szék-, illetve telephelye személyi és technikai ellátottságának alkalmasnak kell lenni arra, hogy az általa végzett nagykereskedelmi tevékenység szabályszerű végzését biztosítani tudja.
 
 2. Az átvevő előtereknek – a kirakodás során – meg kell védeniük a gyógyszerszállítmányokat az időjárás hatásaitól. Az átvételi területnek függetlennek kell lennie a tárolóterülettől. A szállítmányokat az átvételkor mennyiségi szempontból meg kell vizsgálni, ellenőrizni kell, hogy a külső csomagolások nem sérültek-e meg.
 
-3.[^94] Azokat a termékeket, amelyeket a szokásoktól eltérő körülmények között kell tárolni (pl. kábítószerek, pszichotrop anyagok, radioaktív gyógyszerek, különleges tárolási hőmérsékletet igénylő termékek stb.), haladéktalanul azonosítani kell, és a rájuk vonatkozó jogszabályi rendelkezések szerinti tároló térbe kell helyezni.
+3.[^103] Azokat a termékeket, amelyeket a szokásoktól eltérő körülmények között kell tárolni (pl. kábítószerek, pszichotrop anyagok, radioaktív gyógyszerek, különleges tárolási hőmérsékletet igénylő termékek stb.), haladéktalanul azonosítani kell, és a rájuk vonatkozó jogszabályi rendelkezések szerinti tároló térbe kell helyezni.
 
-4.[^95] A gyógyszereket a hatályos Magyar Gyógyszerkönyvben megadott, illetve a gyógyszer forgalomba hozatali engedélyben rögzített körülményeknek megfelelően kell tárolni azért, hogy elkerülhető legyen a fény, a páratartalom vagy a hőmérséklet által előidézett minőségkárosodásuk. a hőmérsékletet naponta legalább kétszer kell ellenőrizni és dokumentálni. a hőmérsékleti adatok dokumentumait rendszeresen felül kell vizsgálni, a mérőeszközöket hitelesíteni kell.
+4.[^104] A gyógyszereket a hatályos Magyar Gyógyszerkönyvben megadott, illetve a gyógyszer forgalomba hozatali engedélyben rögzített körülményeknek megfelelően kell tárolni azért, hogy elkerülhető legyen a fény, a páratartalom vagy a hőmérséklet által előidézett minőségkárosodásuk. a hőmérsékletet naponta legalább kétszer kell ellenőrizni és dokumentálni. a hőmérsékleti adatok dokumentumait rendszeresen felül kell vizsgálni, a mérőeszközöket hitelesíteni kell.
 
 4.1. Abban az esetben, ha a gyógyszer tárolására különleges tárolási hőmérsékleti feltételek vannak előírva, a tárolási területeken hőmérséklet-regisztráló vagy egyéb olyan berendezéseket kell felszerelni, amelyek jelzik, ha a különleges hőmérsékleti tartományt nem tartották fenn. Megfelelő ellenőrzési eljárásokat kell alkalmazni annak biztosítására, hogy az adott tárolóterület minden része a meghatározott hőmérsékleti tartományon belül legyen.
 
-5.[^96] A tárolóterületeknek tisztáknak és hulladéktól, portól, rovaroktól és rágcsálóktól menteseknek kell lenniük. Megfelelő elővigyázatossági intézkedéseket kell tenni a gyógyszer kiömlése, a tárolóedények törése, a mechanikai szennyezés elkerülése, valamint a mikroorganizmusok és keresztszennyeződések ellen.
+5.[^105] A tárolóterületeknek tisztáknak és hulladéktól, portól, rovaroktól és rágcsálóktól menteseknek kell lenniük. Megfelelő elővigyázatossági intézkedéseket kell tenni a gyógyszer kiömlése, a tárolóedények törése, a mechanikai szennyezés elkerülése, valamint a mikroorganizmusok és keresztszennyeződések ellen.
 
 6. A lejárati időn túli termékeket el kell különíteni a felhasználható készletből, és azokat sem értékesíteni, sem továbbadni nem szabad. Olyan készletfogyási rendszert kell biztosítani, hogy a legkorábban lejáró gyógyszer kerüljön ki először a raktárból.
 
 7. A sérült csomagolású gyógyszereket vagy azokat, amelyeknél szennyeződés gyanúja áll fenn, el kell távolítani az értékesíthető készletből, és ha megsemmisítésükre nem kerül azonnal sor, akkor világosan elkülönített területen kell őket tárolni úgy, hogy tévedésből se lehessen őket értékesíteni, vagy hogy ne szennyezzenek be más árukat.
 
-8.[^97] A minőségi hibás és a forgalomból kivont, felfüggesztett forgalmazású termékeket „nem megfelelő” jelzéssel kell ellátni és tárolásukra elkülönített helyet kell biztosítani.
+8.[^106] A minőségi hibás és a forgalomból kivont, felfüggesztett forgalmazású termékeket „nem megfelelő” jelzéssel kell ellátni és tárolásukra elkülönített helyet kell biztosítani.
 
-9.[^98] A meg nem vizsgált és nem minősített termékeket karanténban kell tárolni mindaddig, amíg minősítésük meg nem történt. A felszabadítást és minősítést követően a karantén tárolás megszüntethető.
+9.[^107] A meg nem vizsgált és nem minősített termékeket karanténban kell tárolni mindaddig, amíg minősítésük meg nem történt. A felszabadítást és minősítést követően a karantén tárolás megszüntethető.
 
 10. Az átvevő, mintavételező, vizsgáló, csomagoló, árukiadó tevékenységekhez – a tevékenység jellegének megfelelő – a raktárterülettől elkülönített helyiségeket kell biztosítani.
 
-10.1.[^99] A forgalmazott termékekről olyan elektronikus nyilvántartást kell vezetni, amelynek alapján a forgalmazás bármely fázisában azonosítható a termék. A nyilvántartásnak legalább a következő adatokat kell tartalmaznia:
+10.1.[^108] A forgalmazott termékekről olyan elektronikus nyilvántartást kell vezetni, amelynek alapján a forgalmazás bármely fázisában azonosítható a termék. A nyilvántartásnak legalább a következő adatokat kell tartalmaznia:
 
 a) a termék neve, gyógyszeranyag esetén minősége;
 
@@ -58,7 +58,7 @@ o) a termék raktári helykódja;
 
 p) a visszáruként visszavett termékek a vevő megnevezésével együtt.
 
-Ezen nyilvántartást és az annak alapját képező papír alapú dokumentációt annak keletkezését követő 5 éven keresztül – az engedély visszavonása után is – a hatáskörrel és illetékességgel rendelkező hatóságok számára ellenőrzési célból hozzáférhető módon meg kell őrizni. Jogutód nélküli megszűnés esetén a nyilvántartást ellenőrzési célból hozzáférhető módon a GYEMSZI részére kell átadni.
+Ezen nyilvántartást és az annak alapját képező papír alapú dokumentációt annak keletkezését követő 5 éven keresztül – az engedély visszavonása után is – a hatáskörrel és illetékességgel rendelkező hatóságok számára ellenőrzési célból hozzáférhető módon meg kell őrizni. Jogutód nélküli megszűnés esetén a nyilvántartást ellenőrzési célból hozzáférhető módon az OGYÉI részére kell átadni.
 
 11. Ha a gyógyszert szétmérik, akkor a gyógyszergyártásra vonatkozó hatályos jogszabályban előírtakat kell figyelembe venni. Minden egyes tárolóedényen, csomagolóanyagon fel kell tüntetni legalább
 
@@ -94,26 +94,26 @@ g) a szétmérés vagy szétcsomagolás tényét tartalmazó nyilvántartás ada
 
 h) lejárati idejét.
 
-11.2.[^100] Ömlesztett termékek tárolása a gyógyszergyártási engedéllyel rendelkező átcsomagoló-hely raktárában a csomagolóanyagokkal együtt történik.
+11.2.[^109] Ömlesztett termékek tárolása a gyógyszergyártási engedéllyel rendelkező átcsomagoló-hely raktárában a csomagolóanyagokkal együtt történik.
 
-12.[^101] A gyógyszeranyagok esetében a hatályos Magyar Gyógyszerkönyv Tájékoztató vizsgálatát, a gyógyszertári gyógyszerkészítéshez felhasználható gyógyszeranyagokról szóló GYEMSZI közlemény szerinti tájékoztató vizsgálatot vagy ezek hiányában a GYEMSZI által meghatározott külföldi gyógyszerkönyv szerint minősített gyógyszeranyagok esetében a külföldi gyógyszerkönyv által előírt azonossági vizsgálatot minden esetben el kell végezni.
+12.[^110] A gyógyszeranyagok esetében a hatályos Magyar Gyógyszerkönyv Tájékoztató vizsgálatát, a gyógyszertári gyógyszerkészítéshez felhasználható gyógyszeranyagokról szóló OGYÉI közlemény szerinti tájékoztató vizsgálatot vagy ezek hiányában az OGYÉI által meghatározott külföldi gyógyszerkönyv szerint minősített gyógyszeranyagok esetében a külföldi gyógyszerkönyv által előírt azonossági vizsgálatot minden esetben el kell végezni.
 
-13.[^102] A forgalomba hozatalra engedélyezett gyógyszerek esetében, a szükségessé váló minőség-ellenőrző vizsgálatok során a gyógyszer forgalomba hozatali engedélyét kiadó hatóság által jóváhagyott előiratot és minőségi követelményeket kell alkalmazni. E célból – a nagykereskedő kezdeményezésére – a forgalomba hozatali engedély jogosultja köteles a kért minőségi előiratot rendelkezésre bocsátani.
+13.[^111] A forgalomba hozatalra engedélyezett gyógyszerek esetében, a szükségessé váló minőség-ellenőrző vizsgálatok során a gyógyszer forgalomba hozatali engedélyét kiadó hatóság által jóváhagyott előiratot és minőségi követelményeket kell alkalmazni. E célból – a nagykereskedő kezdeményezésére – a forgalomba hozatali engedély jogosultja köteles a kért minőségi előiratot rendelkezésre bocsátani.
 
 14. A nagykereskedőnek olyan mintavételi vizsgálati tervvel kell rendelkeznie, amely bemutatja, hogy milyen elvek alapján (szúrópróbaszerűen, korábbi minőségi hibák alapján, gyanú esetén stb.) végzik a mintavételt.
 
-15.[^103] A nagykereskedő a felelős személy felügyelete mellett, az ő felelősségével köteles a gyógyszerek minden tételének organoleptikus vizsgálatát elvégezni. Minőségi hiba gyanúja esetén a GyT 17. §-a szerint kell eljárni.
+15.[^112] A nagykereskedő a felelős személy felügyelete mellett, az ő felelősségével köteles a gyógyszerek minden tételének organoleptikus vizsgálatát elvégezni. Minőségi hiba gyanúja esetén a GyT 17. §-a szerint kell eljárni.
 
 16. A 14. pont szerint vett mintákat alakiság (címke és betegtájékoztató szövege, külső csomagolás, és amennyiben ezt a csomagolás nem akadályozza, a gyógyszer külsejének a vizsgálata) szempontjából ellenőrizni kell.
 
-[^93]: A 2. számú melléklet 1. pontja az 52/2012. (XII. 27.) EMMI rendelet 19. §-ával megállapított szöveg.
-[^94]: A 2. számú melléklet 3. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a szerint módosított szöveg.
-[^95]: A 2. számú melléklet 4. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-ával megállapított szöveg.
-[^96]: A 2. számú melléklet 5. pontja a 10/2009. (IV. 10.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^97]: A 2. számú melléklet 8. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a szerint módosított szöveg.
-[^98]: A 2. számú melléklet 9. pontja a 10/2009. (IV. 10.) EüM rendelet 11. § (6) bekezdése szerint módosított szöveg.
-[^99]: A 2. számú melléklet 10. pont 10.1. alpontja a 3/2014. (I. 16.) EMMI rendelet 14. §-ával megállapított szöveg.
-[^100]: A 2. számú melléklet 11.2. alpontját a 10/2009. (IV. 10.) EüM rendelet 10. § (3) bekezdése iktatta be.
-[^101]: A 2. számú melléklet 12. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-ával megállapított szöveg.
-[^102]: A 2. számú melléklet 13. pontja a 10/2009. (IV. 10.) EüM rendelet 11. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a szerint módosított szöveg.
-[^103]: A 2. számú melléklet 15. pontja a 10/2009. (IV. 10.) EüM rendelet 10. § (5) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a, a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^102]: A 2. számú melléklet 1. pontja az 52/2012. (XII. 27.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^103]: A 2. számú melléklet 3. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a szerint módosított szöveg.
+[^104]: A 2. számú melléklet 4. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-ával megállapított szöveg.
+[^105]: A 2. számú melléklet 5. pontja a 10/2009. (IV. 10.) EüM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^106]: A 2. számú melléklet 8. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a szerint módosított szöveg.
+[^107]: A 2. számú melléklet 9. pontja a 10/2009. (IV. 10.) EüM rendelet 11. § (6) bekezdése szerint módosított szöveg.
+[^108]: A 2. számú melléklet 10. pont 10.1. alpontja a 3/2014. (I. 16.) EMMI rendelet 14. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) pontja szerint módosított szöveg.
+[^109]: A 2. számú melléklet 11.2. alpontját a 10/2009. (IV. 10.) EüM rendelet 10. § (3) bekezdése iktatta be.
+[^110]: A 2. számú melléklet 12. pontja a 41/2011. (VII. 5.) NEFMI rendelet 15. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 64. § b) és h) pontja szerint módosított szöveg.
+[^111]: A 2. számú melléklet 13. pontja a 10/2009. (IV. 10.) EüM rendelet 11. § (2) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a szerint módosított szöveg.
+[^112]: A 2. számú melléklet 15. pontja a 10/2009. (IV. 10.) EüM rendelet 10. § (5) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 15. §-a, a 10/2012. (VII. 19.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
