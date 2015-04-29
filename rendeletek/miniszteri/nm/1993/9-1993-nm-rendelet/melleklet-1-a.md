@@ -252,6 +252,6 @@
 
 | 0162 | Gottsegen György Országos Kardiológiai Intézet, Budapest |
 
-1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^84]
+1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^87]
 
-[^84]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2013. (I. 31.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 24/2013. (III. 29.) EMMI rendelet 1. § (2) bekezdése és 2. §-a, a 76/2013. (XII. 10.) EMMI rendelet 1. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg. [Ez utóbbi módosító rendelet 2. § (2) bekezdésével elrendelt módosítás, amely szerin t a 8/e2.1., 8/e2.2., 8/e3.1. és 8/e3.2. pontjában az „inoperálibis KRAS” szövegrész helyébe az „inoperálibilis – miután a véleményező team megbizonyosodott a daganat KRAS és NRAS státusáról –” szöveg lép, nem vezethető át.]
+[^87]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 9/2013. (I. 31.) EMMI rendelet 2. § (1) bekezdésével megállapított, a 24/2013. (III. 29.) EMMI rendelet 1. § (2) bekezdése és 2. §-a, a 76/2013. (XII. 10.) EMMI rendelet 1. §-a, a 4/2014. (I. 20.) EMMI rendelet 1. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 3. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg. [Ez utóbbi módosító rendelet 2. § (2) bekezdésével elrendelt módosítás, amely szerin t a 8/e2.1., 8/e2.2., 8/e3.1. és 8/e3.2. pontjában az „inoperálibis KRAS” szövegrész helyébe az „inoperálibilis – miután a véleményező team megbizonyosodott a daganat KRAS és NRAS státusáról –” szöveg lép, nem vezethető át.]

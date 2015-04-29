@@ -1,4 +1,4 @@
-9/F. §[^73] (1) Minden NEPCs-en belül meg kell különböztetni a normál, a rövid, és a hosszú ellátási eseteket az alábbiak szerint:
+9/F. §[^76] (1) Minden NEPCs-en belül meg kell különböztetni a normál, a rövid, és a hosszú ellátási eseteket az alábbiak szerint:
 
 a) normál ellátási esetnek minősül az ellátás, ha a rehabilitáció időtartama az adott NEPCs-re a 18. számú mellékletben megállapított alsó és felső határnap között van, és ezen belül a kezelési napok száma nem haladta meg az ellátásra meghatározott maximális kezelési napok számát;
 
@@ -28,4 +28,4 @@ c) a (3) bekezdés szerint engedélyezett, felső határnapot meghaladóan telje
 
 (6) Az egészségbiztosításért felelős miniszter rendeletében előírt ismétlési számot meghaladóan végzett rehabilitációs programra finanszírozás nem fizethető.
 
-[^73]: A 9/F. §-t a 4/2012. (I. 12.) NEFMI rendelet 2. §-a iktatta be.
+[^76]: A 9/F. §-t a 4/2012. (I. 12.) NEFMI rendelet 2. §-a iktatta be.
