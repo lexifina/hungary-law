@@ -1,18 +1,18 @@
-24. § (1)[^84] Kölcsönös elismerési eljárás esetében, amennyiben a GYEMSZI a referencia hatóság, a 23. § (2) bekezdés szerinti eljárást követően 30 napon belül a korábban kiadott forgalomba-hozatali engedélyt szükség esetén módosítja.
+24. § (1)[^85] Kölcsönös elismerési eljárás esetében, amennyiben az OGYÉI a referencia hatóság, a 23. § (2) bekezdés szerinti eljárást követően 30 napon belül a korábban kiadott forgalomba-hozatali engedélyt szükség esetén módosítja.
 
-(2)[^85] Kölcsönös elismerési eljárás esetében, amennyiben nem a GYEMSZI a referencia hatóság, a 23. § (2) bekezdés szerinti eljárás lezárása után, az értékelő jelentésnek megfelelő magyar nyelvű dokumentumok benyújtását követő 30 napon belül,
+(2)[^86] Kölcsönös elismerési eljárás esetében, amennyiben nem az OGYÉI a referencia hatóság, a 23. § (2) bekezdés szerinti eljárás lezárása után, az értékelő jelentésnek megfelelő magyar nyelvű dokumentumok benyújtását követő 30 napon belül,
 
-a)[^86] amennyiben a gyógyszer a Magyarországon nem rendelkezett forgalomba hozatali engedéllyel, azt kiadja;
+a)[^87] amennyiben a gyógyszer a Magyarországon nem rendelkezett forgalomba hozatali engedéllyel, azt kiadja;
 
-b)[^87] amennyiben a gyógyszer a Magyarországon korábban már rendelkezett forgalomba hozatali engedéllyel, azt módosítja.
+b)[^88] amennyiben a gyógyszer a Magyarországon korábban már rendelkezett forgalomba hozatali engedéllyel, azt módosítja.
 
-(3)[^88] Decentralizált eljárás esetében, amennyiben a GYEMSZI a referencia hatóság, a 23. § (2) bekezdés szerinti eljárást lezárja, az értékelő jelentésnek megfelelő magyar nyelvű dokumentumok benyújtását követő 30 napon belül a GYEMSZI kiadja a forgalomba hozatali engedélyt.
+(3)[^89] Decentralizált eljárás esetében, amennyiben az OGYÉI a referencia hatóság, a 23. § (2) bekezdés szerinti eljárást lezárja, az értékelő jelentésnek megfelelő magyar nyelvű dokumentumok benyújtását követő 30 napon belül az OGYÉI kiadja a forgalomba hozatali engedélyt.
 
-(4)[^89] Decentralizált eljárás esetében, amennyiben nem a GYEMSZI a referencia hatóság, a 23. § (2) bekezdés szerinti eljárás lezárása után, az értékelő jelentésnek megfelelő magyar nyelvű dokumentumok benyújtását követő 30 napon belül a GYEMSZI kiadja a forgalomba hozatali engedélyt.
+(4)[^90] Decentralizált eljárás esetében, amennyiben nem az OGYÉI a referencia hatóság, a 23. § (2) bekezdés szerinti eljárás lezárása után, az értékelő jelentésnek megfelelő magyar nyelvű dokumentumok benyújtását követő 30 napon belül az OGYÉI kiadja a forgalomba hozatali engedélyt.
 
-[^84]: A 24. § (1) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^85]: A 24. § (2) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^86]: A 24. § (2) bekezdés a) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § b) pontja szerint módosított szöveg.
-[^87]: A 24. § (2) bekezdés b) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § b) pontja szerint módosított szöveg.
-[^88]: A 24. § (3) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (2) bekezdése szerint módosított szöveg.
-[^89]: A 24. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^85]: A 24. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
+[^86]: A 24. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
+[^87]: A 24. § (2) bekezdés a) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § b) pontja szerint módosított szöveg.
+[^88]: A 24. § (2) bekezdés b) pontja a 2/2012. (I. 3.) NEFMI rendelet 25. § b) pontja szerint módosított szöveg.
+[^89]: A 24. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja szerint módosított szöveg.
+[^90]: A 24. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja szerint módosított szöveg.

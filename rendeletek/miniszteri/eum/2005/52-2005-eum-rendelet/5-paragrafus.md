@@ -66,7 +66,7 @@ u)[^21] a más országban hozott elutasító döntés részleteit és az elutas�
 
 (3) A k) pont szerinti gyógyszerészeti, preklinikai és klinikai vizsgálatok eredményeivel kapcsolatos dokumentumokhoz és információkhoz az 1. számú melléklettel összhangban részletes szakértői összefoglalót kell csatolni. A szakértői összefoglalókat megfelelő szakmai képzettséggel rendelkező szakértőnek kell összeállítani. Az összefoglalóhoz csatolni kell a szakértő rövid szakmai önéletrajzát is. A szakértőnek meg kell indokolnia a tudományos irodalom felhasználását az 1. számú melléklettel összhangban.
 
-(4)[^22] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli a GYEMSZI-vel.
+(4)[^22] A (2)–(3) bekezdésben foglaltak változását a kérelmező a tudomására jutást követő harminc napon belül közli az OGYÉI-vel.
 
 (5) A (2) bekezdés b) pontja szerinti gyógyszernév nem lehet azonos más, már forgalomba hozatalra engedélyezett készítmény nevével, és nem hasonlíthat más, már forgalomba hozatalra engedélyezett készítmény nevéhez oly mértékben, hogy azzal összetéveszthető legyen.
 
@@ -76,4 +76,4 @@ u)[^21] a más országban hozott elutasító döntés részleteit és az elutas�
 [^19]: Az 5. § (2) bekezdés s) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (2) bekezdésével megállapított szöveg.
 [^20]: Az 5. § (2) bekezdés t) pontja a 15/2012. (VIII. 22.) EMMI rendelet 34. § (2) bekezdésével megállapított szöveg.
 [^21]: Az 5. § (2) bekezdés u) pontját a 15/2012. (VIII. 22.) EMMI rendelet 34. § (3) bekezdése iktatta be.
-[^22]: Az 5. § (4) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^22]: Az 5. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 76. § c) pontja szerint módosított szöveg.
