@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-42-20-5
 | --- | --- | --- |
 | 2014-09-01 | 2014-42-20-5H.1 | 42/2014. (VIII. 19.) EMMI rendelet |
 | 2014-09-02 | 2014-42-20-5H.2 | 2010: CXXX. törvény |
+| 2015-04-29 | 2014-42-20-5H.3 | 23/2015. (IV. 28.) EMMI rendelet |

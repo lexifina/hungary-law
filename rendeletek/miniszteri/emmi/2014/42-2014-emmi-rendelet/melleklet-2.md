@@ -1,4 +1,4 @@
-2. melléklet a 42/2014. (VIII. 19.) EMMI rendelethez
+2. melléklet a 42/2014. (VIII. 19.) EMMI rendelethez[^35]
 
 A GLP ellenőrzéséről és felülvizsgálatáról
 
@@ -8,7 +8,7 @@ A GLP megfelelőség rendszeres ellenőrzésére vonatkozó útmutató
 
 I. Szervezési intézkedések
 
-A GYEMSZI:
+Az OGYÉI:
 
 1. közvetlenül felelős a szükséges műszaki/tudományos szakértelemmel rendelkező GLP felügyelők csoportjáért,
 
@@ -20,7 +20,7 @@ A GYEMSZI:
 
 II. Személyzet és képzés
 
-1. A GYEMSZI köteles biztosítani, hogy
+1. AZ OGYÉI köteles biztosítani, hogy
 
 1. 1. megfelelő számú GLP felügyelő álljon rendelkezésre.
 
@@ -38,9 +38,9 @@ II. Személyzet és képzés
 
 1.2.1. a GLP felügyelőknek a vegyi anyagok vizsgálatára vonatkozó tudományos tantárgyakban szerzett képzettséggel és gyakorlati tapasztalatokkal kell rendelkezniük;
 
-1.2.2. a GYEMSZI biztosítja a GLP ellenőrök egyéni képzettségének és gyakorlatának megfelelő oktatását;
+1.2.2. az OGYÉI biztosítja a GLP ellenőrök egyéni képzettségének és gyakorlatának megfelelő oktatását;
 
-1.2.3. a GYEMSZI a nemzetközi harmonizáció érdekében elősegíti, hogy a GLP-elvek értelmezése és alkalmazása, valamint ezen elvek betartásának folyamatos ellenőrzése terén kerüljön sor megbeszélésekre a többi OECD tagország GLP ellenőrző hatóságainak munkatársaival, beleértve szükség esetén a közös képzési tevékenységeket is.
+1.2.3. az OGYÉI a nemzetközi harmonizáció érdekében elősegíti, hogy a GLP-elvek értelmezése és alkalmazása, valamint ezen elvek betartásának folyamatos ellenőrzése terén kerüljön sor megbeszélésekre a többi OECD tagország GLP ellenőrző hatóságainak munkatársaival, beleértve szükség esetén a közös képzési tevékenységeket is.
 
 1.3. az ellenőrzést végző munkatársaknak – beleértve a szerződéses szakértőket is – ne fűződjön anyagi vagy egyéb érdekük az ellenőrzés alatt álló vizsgáló intézményhez, a felülvizsgált vizsgálatokhoz vagy az ilyen vizsgálatokat támogató szervezetekhez.
 
@@ -48,7 +48,7 @@ II. Személyzet és képzés
 
 III. A GLP Program
 
-1. A GLP elvek betartása folyamatos ellenőrzésének a célja annak megállapítása, hogy a vizsgáló intézmények megvalósították-e a GLP elveit a vizsgálatok végzése során, valamint képesek-e biztosítani az eredményül kapott adatok minőségét. A fentiek alapján a GYEMSZI közzéteszi a GLP Program alábbi részleteit:
+1. A GLP elvek betartása folyamatos ellenőrzésének a célja annak megállapítása, hogy a vizsgáló intézmények megvalósították-e a GLP elveit a vizsgálatok végzése során, valamint képesek-e biztosítani az eredményül kapott adatok minőségét. A fentiek alapján az OGYÉI közzéteszi a GLP Program alábbi részleteit:
 
 1.1. a GLP Program hatálya és kiterjedése;
 
@@ -56,7 +56,7 @@ A GLP Program vonatkozhat a vegyi anyagok egy korlátozott körére, vagy kiterj
 
 1.2. a vizsgáló intézmény GLP Programba kerülésének módja;
 
-Fel kell sorolni azokat a jogszabályokat, amelyek alapján a GLP elveit kötelező alkalmazni az engedélyezés céljából történő egészségügyi és környezetbiztonsági adatgyűjtésekre. A GYEMSZI útmutatót is közzétesz a GLP megfelelőség GYEMSZI általi ellenőrzésének kérelmezéséhez,
+Fel kell sorolni azokat a jogszabályokat, amelyek alapján a GLP elveit kötelező alkalmazni az engedélyezés céljából történő egészségügyi és környezetbiztonsági adatgyűjtésekre. Az OGYÉI útmutatót is közzétesz a GLP megfelelőség OGYÉI általi ellenőrzésének kérelmezéséhez,
 
 1.3. a vizsgáló intézmények ellenőrzésének és a vizsgálatok ellenőrzésének típusaira vonatkozó adatok.
 
@@ -449,3 +449,5 @@ XVI. A GLP ellenőrzés vagy a vizsgálatok felülvizsgálatának lezárása
 1. Amikor a vizsgáló intézmény GLP ellenőrzése, vagy a vizsgálatok felülvizsgálata befejeződött, a GLP felügyelőnek fel kell készülnie arra, hogy megállapításait záró értekezleten tárgyalja meg a vizsgáló intézmény képviselőivel, valamint arra, hogy inspekciós jelentést készítsen.
 
 2. Amennyiben másként nem lehetséges a GLP felügyelő egy bizonyos idő után a vizsgáló intézmény ismételt meglátogatása során ellenőrzi a szükséges intézkedések végrehajtását.
+
+[^35]: A 2. melléklet a 23/2015. (IV. 28.) EMMI rendelet 164. § b), d) és j) pontja szerint módosított szöveg.

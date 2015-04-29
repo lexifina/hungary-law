@@ -14,7 +14,7 @@
 
 6. GLP alapelvek: helyes laboratóriumi gyakorlat, a nem-klinikai vizsgálatok szervezésére és lefolytatására vonatkozó, e rendeletben rögzített követelmények;
 
-7. GLP megfelelőség: a GYEMSZI arra vonatkozó megállapítása, hogy a vizsgáló intézmény teljesíti-e a GLP követelményeit;
+7.[^2] GLP megfelelőség: az OGYÉI arra vonatkozó megállapítása, hogy a vizsgáló intézmény teljesíti-e a GLP követelményeit;
 
 8. GLP megfelelőség rendszeres ellenőrzése: a vizsgáló intézmény időszakos felülvizsgálata és a vizsgálatok felülvizsgálata a GLP elvek betartásának megállapítása céljából;
 
@@ -77,3 +77,5 @@
 37. vizsgáló intézmény ellenőrzése: a vizsgáló intézménynél lefolytatott eljárások és alkalmazott módszerek helyszíni átfogó felülvizsgálata a GLP megfelelőség felmérése céljából;
 
 38. vizsgáló intézmény vezetősége: azon személy vagy személyek, akiknek hatáskörébe és hivatalos felelőssége alá tartozik a vizsgáló intézményeknek a GLP említett alapelveinek megfelelően történő szervezése és működtetése.
+
+[^2]: A 2. § 7. pontja a 23/2015. (IV. 28.) EMMI rendelet 164. § b) pontja szerint módosított szöveg.
