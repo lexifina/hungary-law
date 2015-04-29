@@ -30,9 +30,9 @@
 
 6.4. Ha a tétel elfogadásra került, a kijelölt szervezet minden egyes terméken feltünteti vagy feltüntetteti azonosítási számát, és írásbeli megfelelőségi tanúsítványt állít ki az elvégzett vizsgálatokra vonatkozóan. A tételben szereplő összes termék forgalomba hozható, kivéve a mintában nem megfelelőnek bizonyult termékeket. Ha a tétel visszautasításra került, a kijelölt szervezetnek kellő intézkedéseket kell tennie annak megakadályozására, hogy a tétel forgalomba kerüljön. Gyakori visszautasítások esetén a kijelölt szervezet felfüggesztheti a statisztikai ellenőrzést. A gyártó – a kijelölt szervezet felelősségére – a gyártás során felhelyezheti a kijelölt szervezet azonosítási számát.
 
-7. Adminisztratív előírások
+7.[^51] Adminisztratív előírások
 
-A gyártó vagy meghatalmazott képviselője az utolsó termék gyártását követően legalább 5 évig – kérésre – a Hivatal rendelkezésére bocsátja a következőket:
+A gyártó vagy meghatalmazott képviselője az utolsó termék gyártását követően legalább 5 évig – kérésre – az ENKK rendelkezésére bocsátja a következőket:
 
 a) a megfelelőségi nyilatkozatot;
 
@@ -41,3 +41,5 @@ b) a 2. pontban hivatkozott dokumentációt;
 c) az 5.2. és 6.4. alpontokban hivatkozott tanúsítványokat;
 
 d) ahol az indokolt, az 5. számú mellékletben hivatkozott típusvizsgálati tanúsítványt.
+
+[^51]: A 6. számú melléklet 7. pontja a 23/2015. (IV. 28.) EMMI rendelet 42. § b) pontja szerint módosított szöveg.

@@ -60,9 +60,9 @@ c) a minőségügyi rendszer gyártásra vonatkozó részében számításba vet
 
 5.2. A gyártó a terméket forgalomba hozhatja, hacsak a kijelölt szervezet a megegyezés szerinti határidőn – de legfeljebb a minták kézhezvételét követő 30 napon – belül nem közöl a gyártóval ettől eltérő értékelést, különös tekintettel a kiadott tanúsítvány érvényességére vonatkozóan.
 
-6. Adminisztratív előírások
+6.[^52] Adminisztratív előírások
 
-A gyártó az utolsó termék gyártását követően legalább 5 évig – kérésre – a Hivatal rendelkezésére bocsátja a következőket:
+A gyártó az utolsó termék gyártását követően legalább 5 évig – kérésre – az ENKK rendelkezésére bocsátja a következőket:
 
 a) a megfelelőségi nyilatkozatot;
 
@@ -75,3 +75,5 @@ d) a 3.1. b) alpontban hivatkozott dokumentációt;
 e) a kijelölt szervezetnek a 4.3. és 4.4. alpontokban hivatkozott döntéseit és jelentéseit;
 
 f) ahol az indokolt, az 5. számú mellékletben hivatkozott típusvizsgálati tanúsítványt.
+
+[^52]: A 7. számú melléklet 6. pontja a 23/2015. (IV. 28.) EMMI rendelet 42. § b) pontja szerint módosított szöveg.
