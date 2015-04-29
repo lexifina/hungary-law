@@ -1,7 +1,5 @@
 ## GYÓGYSZERIGÉNYLŐ LAP
 
-## GYÓGYSZERIGÉNYLŐ LAP
-
 ## Magyarországon forgalomba hozatali engedéllyel nem rendelkező külföldi gyógyszerkészítmény járóbeteg-ellátásban történő alkalmazásának meghosszabbítására.
 
 ## I. Adatok:
@@ -20,13 +18,13 @@
 
 ## 7. Napi adagja: a gyógyszeres kezelés várható időtartama: ..... /hét/hónap (maximum 12 hónap)
 
-## II. Kérem az a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet nyilatkozatát, hogy a nevezett készítmény az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban
+## II. Kérem az az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyilatkozatát, hogy a nevezett készítmény az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban
 
 ## forgalomba hozatali engedéllyel rendelkezik ........................................................................................ tagállamban ................................................................................................ indikációban*
 
 ## forgalomba hozatali engedéllyel nem rendelkezik, ez esetben kérem a megrendelés engedélyezését*
 
-## III. Kérem a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
+## III. Kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
 
 ## engedélyezze*/véleményezze.*
 
@@ -40,7 +38,7 @@
 
 ## Kiskorú esetén törvényes képviselő neve:
 
-## Az előző GYEMSZI engedély száma:
+## Az előző OGYÉI engedély száma:
 
 ## A beteg diagnózisa (kórkép), terápiája és az igényelt gyógyszer szükségességének indoklása, a forgalomban lévő gyógyszerekkel való kezeléssel szembeni előnyei, valamint az eddig használt gyógyszerekkel való kezelés eredménytelenségének indokolása (a 6 hónapnál nem régebbi részletes kórrajzot is mellékelem):
 
@@ -68,6 +66,6 @@
 
 ## * A nem kívánt rész törlendő.
 
-6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^140]
+6. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^145]
 
-[^140]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés c)–d) és j) pontja, a 16/2014. (III. 12.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^145]: A 6. számú mellékletet a 39/2008. (X. 18.) EüM rendelet 6. §-a iktatta be, szövege a 46/2008. (XII. 3.) EüM rendelet 6. § (5) bekezdése, a 28/2009. (VIII. 7.) EüM rendelet 3. § (2) bekezdés c) pontja és (3) bekezdése, a 16/2014. (III. 12.) EMMI rendelet 8. §-a, a 23/2015. (IV. 28.) EMMI rendelet 60. § c)–d) és h)–j) pontja szerint módosított szöveg.

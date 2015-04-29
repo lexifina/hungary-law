@@ -1,7 +1,5 @@
 ## JÁRÓBETEG GYÓGYSZERIGÉNYLŐ LAP
 
-## JÁRÓBETEG GYÓGYSZERIGÉNYLŐ LAP
-
 ## Magyarországon forgalomba hozatali engedéllyel nem rendelkező külföldi gyógyszerkészítményre, járóbeteg-ellátásban történő alkalmazásra.
 
 ## I. Adatok:
@@ -20,13 +18,13 @@
 
 ## 7. Napi adagja: a gyógyszeres kezelés várható időtartama: ..... /hét/hónap (maximum 12 hónap).
 
-## II. Kérem a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet nyilatkozatát, hogy a nevezett készítmény az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban
+## II. Kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyilatkozatát, hogy a nevezett készítmény az Európai Gazdasági Térség (a továbbiakban: EGT) tagállamában, illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban
 
 ## forgalomba hozatali engedéllyel rendelkezik ........................................................................................ tagállamban ................................................................................................ indikációban*
 
 ## forgalomba hozatali engedéllyel nem rendelkezik, ez esetben kérem a megrendelés engedélyezését*
 
-## III. Kérem a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
+## III. Kérem az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetet, hogy az igényelt gyógyszer alkalmazását a különös méltánylást érdemlő betegellátási érdek szempontjából
 
 ## engedélyezze*/véleményezze.*
 
@@ -68,6 +66,6 @@
 
 ## * A nem kívánt rész törlendő.
 
-5. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^139]
+5. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^144]
 
-[^139]: Az 5. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 2. § (1) bekezdés g)–i) pontja szerint módosított szöveg.
+[^144]: Az 5. számú melléklet a 62/2004. (VII. 21.) ESZCSM rendelet 14. §-ának (3) bekezdésének c) pontjával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 60. § g)–i) pontja szerint módosított szöveg.
