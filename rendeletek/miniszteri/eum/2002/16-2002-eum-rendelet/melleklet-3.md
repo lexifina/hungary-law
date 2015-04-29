@@ -17,4 +17,4 @@
 3. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^11]
 
 [^10]: A 2. számú melléklet 4. pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 58. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^11]: A 3. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 17. § b)–c) pontja szerint módosított szöveg.
+[^11]: A 3. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 17. § b)–c) pontja, a 23/2015. (IV. 28.) EMMI rendelet 37. § d) és e) pontja szerint módosított szöveg.

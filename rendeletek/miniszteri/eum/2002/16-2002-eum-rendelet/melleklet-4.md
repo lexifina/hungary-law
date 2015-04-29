@@ -1,10 +1,10 @@
-| A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének nyilvántartása a települési hulladék kezelő, elhelyező és lerakó létesítményekről |
+| A járási hivatal nyilvántartása a települési hulladék kezelő, elhelyező és lerakó létesítményekről |
 
 | Táblázat száma: |
 
 | Megye kódja: |  |  |  | neve: ..................................................................................................................................................... |
 
-| Járási (fővárosi kerületi) népegészségügyi intézet neve: .................................................................................................... |
+| Járási hivatal neve: .................................................................................................... |
 
 | A nyilvántartás vonatkozási ideje (év): ...................................................................................................................................... |
 
@@ -112,4 +112,4 @@
 
 4. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^12]
 
-[^12]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
+[^12]: A 4. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 17. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 37. § f) és g) pontja szerint módosított szöveg.

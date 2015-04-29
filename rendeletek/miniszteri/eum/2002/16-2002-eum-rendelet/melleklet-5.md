@@ -1,6 +1,6 @@
-| A járási (fővárosi kerületi) népegészségügyi intézet jelentése a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve részére |
+| A járási hivatal jelentése a megyei kormányhivatal részére |
 
-| A járási (fővárosi kerületi) népegészségügyi intézet neve: .............................................................................................. |
+| Járási hivatal neve: .............................................................................................. |
 
 | A jelentés vonatkozási éve: ...................................................................................................................................................... |
 
@@ -78,7 +78,7 @@
 
 5. számú melléklet a 16/2002. (IV. 10.) EüM rendelethez[^13]
 
-| A fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének jelentése az Országos Tisztifőorvosi Hivatal részére |
+| A megyei kormányhivatal jelentése az Országos Tisztifőorvosi Hivatal részére |
 
 | A megye kódja: .............................................. neve: ................................................................................................................ |
 
@@ -156,4 +156,4 @@
 
 | 4.2. intézkedések száma | …………… |
 
-[^13]: Az 5. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^13]: Az 5. számú melléklet a 10/2011. (III. 30.) NEFMI rendelet 24. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 37. § h) pontja szerint módosított szöveg.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-16-20-0
 | 2009-03-01 | 2002-16-20-0B.3 | 16/2002. (IV. 10.) EüM rendelet |
 | 2011-03-31 | 2002-16-20-0B.4 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2013-02-08 | 2002-16-20-0B.5 | 10/2011. (III. 30.) NEFMI rendelet |
+| 2015-04-29 | 2002-16-20-0B.6 | 23/2015. (IV. 28.) EMMI rendelet |
