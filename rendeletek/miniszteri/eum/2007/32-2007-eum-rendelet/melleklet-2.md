@@ -12,7 +12,7 @@
 
 2. melléklet a 32/2007. (VI. 27.) EüM rendelethez[^3]
 
-## ……………MEGYEI /FŐVÁROSI KORMÁNYHIVATAL NÉPEGÉSZSÉGÜGYI SZAKIGAZGATÁSI SZERVE
+## …………… FŐVÁROSI/MEGYEI KORMÁNYHIVATAL
 
 ........../......... SZÁM
 
@@ -54,7 +54,7 @@ A tartózkodásra jogosító hatósági engedély kelte száma:
 
 ................................................................
 
-megyei tisztifőorvos
+a kormányhivatal nevében és képviseletében eljárva
 
 ––––––––––––
 
@@ -62,4 +62,4 @@ megyei tisztifőorvos
 
 ** Amennyiben ismert.
 
-[^3]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 59. § (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. melléklet a 10/2011. (III. 30.) NEFMI rendelet 59. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 90. §-a szerint módosított szöveg.
