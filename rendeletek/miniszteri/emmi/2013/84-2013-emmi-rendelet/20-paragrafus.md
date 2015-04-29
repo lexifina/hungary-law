@@ -10,6 +10,6 @@
 
 (5) A miniszter az egyedi támogatási igényről az igény kézhezvételétől számított huszonegy napon belül dönt és döntését írásban közli az igénylővel. Az elbírálás határidejét annak lejárta előtt, a miniszter indokolt esetben legfeljebb huszonegy nappal meghosszabbíthatja, és erről az igénylőt írásban értesíti.
 
-(6)–(7)[^12]
+(6)–(7)[^13]
 
-[^12]: A 20. § (6)–(7) bekezdését az 53/2014. (XII. 23.) EMMI rendelet 6. §-a hatályon kívül helyezte.
+[^13]: A 20. § (6)–(7) bekezdését az 53/2014. (XII. 23.) EMMI rendelet 6. §-a hatályon kívül helyezte.

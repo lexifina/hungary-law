@@ -1,4 +1,4 @@
-3/A. §[^2] (1) Az előirányzatok terhére az alkotóművészeti, az előadó-művészeti, a múzeumi, a könyvtári, a levéltári, a közművelődési és az örökségvédelmi-műemlékvédelmi tevékenységek tekintetében az Európai Bizottság SA.34770 (2012/N-2). számú határozata szerinti kulturális célú támogatás nyújtható a következő célokra:
+3/A. §[^3] (1) Az előirányzatok terhére az alkotóművészeti, az előadó-művészeti, a múzeumi, a könyvtári, a levéltári, a közművelődési és az örökségvédelmi-műemlékvédelmi tevékenységek tekintetében az Európai Bizottság SA.34770 (2012/N-2). számú határozata szerinti kulturális célú támogatás nyújtható a következő célokra:
 
 a) a kulturális ágazat területén a nemzeti és az egyetemes értékek létrehozására, megőrzésére, digitalizálására, valamint hazai és határon túli terjesztésére, hozzáférhetővé tételére;
 
@@ -32,4 +32,4 @@ d) a támogatandó cél másképp nem érhető el vagy az időmúlás következt
 
 (4) A pályázaton kívüli támogatás iránti kérelmet megfelelő dokumentumokkal és adatokkal alá kell támasztani és meg kell jelölni a támogatási igény nagyságát.
 
-[^2]: A 3/A. §-t az 53/2014. (XII. 23.) EMMI rendelet 1. §-a iktatta be.
+[^3]: A 3/A. §-t az 53/2014. (XII. 23.) EMMI rendelet 1. §-a iktatta be.

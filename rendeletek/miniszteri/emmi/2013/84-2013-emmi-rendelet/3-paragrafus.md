@@ -10,6 +10,6 @@
 
 (2) Visszatérítési kötelezettség előírása mellett vállalható kötelezettség – az előirányzatok céljának megfelelően – az európai uniós tagsághoz kapcsolódó támogatással, vagy egyéb nemzetközi szerződés alapján megvalósuló pályázatos vagy kiemelt projekteknek az európai uniós forrás lehívásáig felmerülő kiadásai megelőlegezése céljából. A visszafizetési kötelezettséget az európai uniós, vagy egyéb nemzetközi szerződés alapján biztosított forrás beérkezésének üteme szerint kell teljesíteni. A kedvezményezett az igénybe vett költségvetési támogatást akkor is köteles visszatéríteni, ha azt az európai uniós forrásból, vagy az egyéb nemzetközi szerződés alapján részére nem folyósítják.
 
-(3)[^1] Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdésének hatálya alá tartozó, korábban megítélt támogatások esetében a támogatás az e rendelet alapján nyújtható támogatással együttesen sem haladhatja meg a vonatkozó uniós állami támogatási szabályokban meghatározott legmagasabb támogatási intenzitást, vagy legmagasabb támogatási összeget.
+(3)[^2] Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdésének hatálya alá tartozó, korábban megítélt támogatások esetében a támogatás az e rendelet alapján nyújtható támogatással együttesen sem haladhatja meg a vonatkozó uniós állami támogatási szabályokban meghatározott legmagasabb támogatási intenzitást, vagy legmagasabb támogatási összeget.
 
-[^1]: A 3. § (3) bekezdése a 13/2014. (II. 28.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (3) bekezdése a 13/2014. (II. 28.) EMMI rendelet 1. §-ával megállapított szöveg.

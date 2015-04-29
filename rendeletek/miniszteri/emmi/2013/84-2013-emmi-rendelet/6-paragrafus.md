@@ -10,7 +10,7 @@ c) a gazdálkodó szervezet képviselőjének közjegyző által hitelesített a
 
 d) a létesítő okiratban meghatározott képviselőtől eltérő képviselet, valamint a (2) bekezdés b) pont ba) alpontjában meghatározott szervezet és a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) 16. § (2) bekezdése szerinti nyilvántartásban nem szereplő belső egyházi jogi személy esetén a szervezet képviselőjének aláírási jogosultságát igazoló – közokiratnak vagy teljes bizonyító erejű magánokiratnak minősülő – okiratot;
 
-e)[^7] ha jogszabály, a pályázati kiírás vagy a támogató azt a költségvetési támogatás biztosítása feltételeként előírta, a saját forrás rendelkezésre állásáról szóló, az Ávr. 72. § (3) bekezdés a) pontjában meghatározott igazolást vagy nyilatkozatot, valamint az annak a kedvezményezett által történő felhasználása ütemezését is tartalmazó részletes költségtervet;
+e)[^8] ha jogszabály, a pályázati kiírás vagy a támogató azt a költségvetési támogatás biztosítása feltételeként előírta, a saját forrás rendelkezésre állásáról szóló, az Ávr. 72. § (3) bekezdés a) pontjában meghatározott igazolást vagy nyilatkozatot, valamint az annak a kedvezményezett által történő felhasználása ütemezését is tartalmazó részletes költségtervet;
 
 f) a kedvezményezett nyilatkozatát az elszámolás alapjául szolgáló dokumentumok fellelhetőségéről, illetve – a fellelhetőség megváltozása esetére – a változás-bejelentési kötelezettség elfogadásáról;
 
@@ -18,7 +18,7 @@ g) ha a kedvezményezett olyan gazdasági társaság, amely vonatkozásában a m
 
 h) határon túli magyar kedvezményezett esetén – ha azzal rendelkezik – magyarországi fizetési számlával rendelkező szervezet befogadó nyilatkozatát és a b) pontban meghatározott okirat magyar nyelvű fordítását;
 
-i)[^8] ingatlanhoz kapcsolódó felhalmozási célú támogatások esetében elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolatot;
+i)[^9] ingatlanhoz kapcsolódó felhalmozási célú támogatások esetében elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolatot;
 
 j) csekély összegű (de minimis) támogatás, valamint csekély összegű közszolgáltatási támogatás esetén a kedvezményezett nyilatkozatát a 4. § (3) bekezdésében és az 5. § (3) bekezdésében meghatározott, a megelőző két pénzügyi évben és a folyamatban lévő pénzügyi évben kapott valamennyi csekély összegű (de minimis) támogatásról.
 
@@ -60,5 +60,5 @@ b) a támogató az (1) bekezdés b) pontjában meghatározott dokumentum helyett
 
 (5) Nem magyarországi székhelyű kedvezményezett esetén a támogató az (1) bekezdés c) pontjában meghatározott dokumentum helyett – ha a kedvezményezett nyilatkozik arról, hogy rajta kívül álló okból nem képes azt csatolni – elfogadhat a kedvezményezett képviselőjének aláírásképét megfelelően igazoló más, az erre hatáskörrel rendelkező hatóság által kiállított dokumentumot is.
 
-[^7]: A 6. § (1) bekezdés e) pontja az 53/2014. (XII. 23.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^8]: A 6. § (1) bekezdés i) pontja az 53/2014. (XII. 23.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^8]: A 6. § (1) bekezdés e) pontja az 53/2014. (XII. 23.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^9]: A 6. § (1) bekezdés i) pontja az 53/2014. (XII. 23.) EMMI rendelet 3. §-ával megállapított szöveg.

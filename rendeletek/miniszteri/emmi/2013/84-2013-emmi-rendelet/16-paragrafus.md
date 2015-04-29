@@ -1,4 +1,4 @@
-## 15. §[^11] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 3.2.6.1. pontja alapján a közcélú juttatások körében adómentes kifizetéseket az Emberi Erőforrás Támogatáskezelő teljesíti.
+## 15. §[^12] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 3.2.6.1. pontja alapján a közcélú juttatások körében adómentes kifizetéseket az Emberi Erőforrás Támogatáskezelő teljesíti.
 
 ## III. Fejezet
 
@@ -12,4 +12,4 @@
 
 (3) A pályázó a 6. §-ban, valamint az Ávr. 72. § (2) és (3) bekezdésében meghatározott dokumentumokat a pályázat benyújtásával egyidejűleg nyújtja be.
 
-[^11]: A 15. § az 53/2014. (XII. 23.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.
+[^12]: A 15. § az 53/2014. (XII. 23.) EMMI rendelet 5. § b) pontja szerint módosított szöveg.
