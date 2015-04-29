@@ -1,9 +1,9 @@
-6. §[^14] (1)[^15] A tartalékból készlet kiadását a miniszternek vagy a miniszter által kijelölt egészségügyért felelős állami vezetőnek, akadályoztatásuk esetén halaszthatatlan esetben a miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározott szervezeti egysége vezetőjének írásbeli vagy sürgős esetben szóbeli utasítására az EKI vezetője rendeli el.
+6. §[^15] (1)[^16] A tartalékból készlet kiadását a miniszternek vagy a miniszter által kijelölt egészségügyért felelős állami vezetőnek, akadályoztatásuk esetén halaszthatatlan esetben a miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározott szervezeti egysége vezetőjének írásbeli vagy sürgős esetben szóbeli utasítására az EKI vezetője rendeli el.
 
-(2)[^16]
+(2)[^17]
 
 (3) A szóbeli utasítást a kiadását követő első munkanapon írásban meg kell erősíteni.
 
-[^14]: A 6. § a 43/2011. (VII. 7.) NEFMI rendelet 3. §-ával megállapított szöveg.
-[^15]: A 6. § (1) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^16]: A 6. § (2) bekezdését a 16/2015. (III. 30.) EMMI rendelet 16. §-a hatályon kívül helyezte.
+[^15]: A 6. § a 43/2011. (VII. 7.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^16]: A 6. § (1) bekezdése a 27/2012. (IX. 18.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^17]: A 6. § (2) bekezdését a 16/2015. (III. 30.) EMMI rendelet 16. §-a hatályon kívül helyezte.
