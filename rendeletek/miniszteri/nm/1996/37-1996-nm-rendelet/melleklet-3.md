@@ -26,7 +26,7 @@
 
 ## 4.[^25] Amennyiben a közfürdő létesítője a 2., 3. alpontban foglalt hatályos nemzeti szabványtól el kíván térni, akkor a közegészségügyi követelményeknek való megfelelőség megállapítását az Országos Tisztifőorvosi Hivataltól kell kérnie. Abban az esetben, amennyiben a kérelmező hitelt érdemlő módon bizonyítja, hogy a közegészségügyi követelményeknek a jogszabályokban foglaltaknak megfelelően eleget tesz, az OTH az eltérést határozattal engedélyezi.
 
-## 5.[^26] A visszaforgató rendszerű medence pótvizére hagyományos technológia esetén az ME–10–204 számú műszaki előírások, a hagyományostól eltérő technológi esetén az 1–2. alpontokban foglalt előírások vonatkoznak. Vitás esetben a megyei népegészségügyi szakigazgatási szerv állásfoglalása irányadó.
+## 5.[^26] A visszaforgató rendszerű medence pótvizére hagyományos technológia esetén az ME–10–204 számú műszaki előírások, a hagyományostól eltérő technológi esetén az 1–2. alpontokban foglalt előírások vonatkoznak. Vitás esetben a megyei kormányhivatal állásfoglalása irányadó.
 
 ## 6. Ha a mesterséges közfürdő táplálására bányavíz vagy ipari hulladékvíz szolgál, a víz minőségére a 3–5. alpontokban foglalt előírások vonatkoznak, azzal, hogy a vizet szükség szerint tisztítani és fertőtleníteni kell. Ha ipari hulladék- vagy kútvíz szolgál a táplálásra, a víz előzetes fertőtlenítése mellőzhető, amennyiben a vizet szolgáltató kút védőterülete a III. pontban előírtaknak és a víz minősége az 1–2. és 4–5. alpontokban foglaltaknak kezelés nélkül megfelel, továbbá a víz a kútból vagy vízvezetéki csatlakozástól a fürdőig zárt rendszerben halad.
 
@@ -162,7 +162,7 @@
 
 ## – gyógymedence esetén a medence töltésére használt elismert ásványvíz, gyógyvíz gyógyászati szempontból értékes, biológiailag aktív alkotórészeit a fertőtlenítés nem károsítja, továbbá
 
-## – a fertőtlenítéshez a megyei népegészségügyi szakigazgatási szerv hozzájárult.
+## – a fertőtlenítéshez a megyei kormányhivatal hozzájárult.
 
 ## A víz összetételét meg nem változtató, fertőtlenítés célját szolgáló beavatkozás (pl. UV-besugárzás) megengedett.
 
@@ -196,7 +196,7 @@
 
 ## V. A közfürdő terhelése
 
-## 1.[^41] A közfürdő üzemeltetőjének ki kell számolnia, írásban rögzítenie, az illetékes vízügyi hatósággal és a járási népegészségügyi intézettel jóváhagyatni a megengedett egyidejű legnagyobb terhelést és a megengedhető napi terhelést.
+## 1.[^41] A közfürdő üzemeltetőjének ki kell számolnia, írásban rögzítenie, az illetékes vízügyi hatósággal és a járási hivatallal jóváhagyatni a megengedett egyidejű legnagyobb terhelést és a megengedhető napi terhelést.
 
 ## 2. A közfürdő egyidejű legnagyobb terhelése egyenlő a közfürdő területén fürdés céljából egyidejűleg tartózkodó személyek legnagyobb számával. A közfürdő napi terhelése egyenlő a közfürdő területére egy nap alatt – nyitástól zárásig – fürdés céljából belépő személyek számával.
 
@@ -300,7 +300,7 @@
 [^23]: Az 1. számú melléklet II. pontjának 2. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^24]: Az 1. számú melléklet II. pontjának 3. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^25]: Az 1. számú melléklet II. pontjának 4. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^26]: Az 1. számú melléklet II. pont 5. alpontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^26]: Az 1. számú melléklet II. rész 5. pontja a 23/2015. (IV. 28.) EMMI rendelet 7. § g) pontja szerint módosított szöveg.
 [^27]: Az 1. számú melléklet III. pontját a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bh) pontja hatályon kívül helyezte.
 [^28]: Az 1. számú melléklet IV. pontjának 1. alpontja a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^29]: Az 1. számú melléklet IV. pontjának új 2. alpontját a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése iktatta a szövegbe, egyidejűleg az eredeti 2. alpont számozását 4. alpontra változtatva.
@@ -308,12 +308,12 @@
 [^31]: Az 1. számú melléklet IV. pontjának eredeti 3. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 4. alpontra változtatta.
 [^32]: Az 1. számú melléklet IV. pontjának eredeti 3. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 5. alpontra változtatta.
 [^33]: Az 1. számú melléklet IV. pontjának eredeti 4. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 6. alpontra változtatta.
-[^34]: Az 1. számú melléklet IV. pontjának eredeti 5. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 7. alpontra változtatta. A 7. pont a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^34]: Az 1. számú melléklet IV. pontjának eredeti 5. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 7. alpontra változtatta. A 7. pont a 23/2015. (IV. 28.) EMMI rendelet 7. § g) pontja szerint módosított szöveg.
 [^35]: Az 1. számú melléklet IV. pontjának eredeti 6. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 8. alpontra változtatta.
 [^36]: Az 1. számú melléklet IV. pontjának eredeti 7. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 9. alpontra változtatta.
 [^37]: Az 1. számú melléklet IV. pontjának eredeti 8. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 10. alpontra változtatta.
 [^38]: Az 1. számú melléklet IV. pontjának eredeti 9. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 11. alpontra változtatta.
 [^39]: Az 1. számú melléklet IV. pontjának eredeti 10. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 12. alpontra változtatta.
 [^40]: Az 1. számú melléklet IV. pontjának eredeti 11. alpontjának számozását a 17/2002. (IV. 12.) EüM rendelet 3. § (2) bekezdése 13. alpontra változtatta.
-[^41]: Az 1. számú melléklet V. pont 1. alpontja a 10/2011. (III. 30.) NEFMI rendelet 2. § (2) bekezdése, a 3/2012. (I. 3.) NEFMI rendelet 8. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^41]: Az 1. számú melléklet V. pont 1. alpontja a 3/2012. (I. 3.) NEFMI rendelet 8. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 7. § h) pontja szerint módosított szöveg.
 [^42]: Az 1. számú melléklet VI. pontjának 1. alpontja a 273/2001. (XII. 21.) Korm. rendelet 11. § (6) bekezdésének bi) pontja szerint módosított szöveg.
