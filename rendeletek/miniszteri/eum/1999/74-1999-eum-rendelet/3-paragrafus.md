@@ -12,7 +12,7 @@ d) az 1. számú melléklet szerinti törzsadatlap kitöltésével a terület eg
 
 (3) A gyógyhellyé nyilvánítás iránti kérelemhez két példányban csatolni kell
 
-a)[^5] a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének (a továbbiakban: megyei népegészségügyi szakigazgatási szerv) a gyógyhely, illetve védőterület határai kijelölésére, illetve a mérési pontok megfelelőségére vonatkozó közegészségügyi szakvéleményét,
+a)[^5] a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) a gyógyhely, illetve védőterület határai kijelölésére, illetve a mérési pontok megfelelőségére vonatkozó közegészségügyi szakvéleményét,
 
 b)[^6] akkreditált laboratórium által végzett 4 évszakos levegőterheltségiszint-mérési eredményeket az 5. számú melléklet szerint,
 
@@ -26,10 +26,10 @@ f) a gyógyhely és védőterületének határvonalát tartalmazó terület-, il
 
 g)[^8] a települési önkormányzat képviselő-testületének a gyógyhellyé nyilvánítással kapcsolatos döntéséről készült irat másolatát,
 
-h)[^9] az Országos Környezetegészségügyi Intézet (a továbbiakban: OKI) szakvéleményét.
+h)[^9] az Országos Közegészségügyi Központ (a továbbiakban: OKK) szakvéleményét.
 
-[^5]: A 3. § (3) bekezdés a) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 14. § (1) bekezdése iktatta be.
+[^5]: A 3. § (3) bekezdés a) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 14. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (3) bekezdés b) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 14. § (1) bekezdése iktatta be.
 [^7]: A 3. § (3) bekezdés c) pontját a 37/2009. (XI. 5.) EüM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan a 11/2014. (II. 24.) EMMI rendelet 14. § (1) bekezdése iktatta be.
 [^8]: A 3. § (3) bekezdés g) pontja a 11/2014. (II. 24.) EMMI rendelet 23. § a) pontja szerint módosított szöveg.
-[^9]: A 3. § (3) bekezdés h) pontját a 11/2014. (II. 24.) EMMI rendelet 14. § (2) bekezdése iktatta be.
+[^9]: A 3. § (3) bekezdés h) pontját a 11/2014. (II. 24.) EMMI rendelet 14. § (2) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
