@@ -34,7 +34,7 @@ o) mentességi szint: külön jogszabály[^5] szerint megállapított aktivitás
 
 p) műszeres ellenőrzés (monitoring): az üzemeltető által végzendő, az engedélyező hatóság által jóváhagyott programban meghatározott tevékenység; dózis vagy dózisteljesítmény, aktivitás vagy aktivitás-koncentráció mérése a sugárzás vagy a szennyezettség meghatározása, illetve ellenőrzése érdekében, továbbá a mérések eredményeinek elemzése, értékelése;
 
-q)[^6] Sugáregészségügyi Decentrum (a továbbiakban: SD): az Állami Népegészségügyi és Tisztiorvosi Szolgálatról, a népegészségügyi szakigazgatási feladatok ellátásáról, valamint a gyógyszerészeti államigazgatási szerv kijelöléséről szóló kormányrendeletben meghatározott Sugár-egészségügyi Decentrum;
+q)[^6]
 
 r) tervezési alap: egy rendszer egészére vagy annak egyedi komponensére vonatkozó, a rendszer vagy komponens megkívánt működését, annak környezeti körülményeit és feltételeit is rögzítő olyan adatsor (információ), amely a feladat teljesítéséhez szükséges jellemzők felsorolását, értékét vagy tartományát is tartalmazza
 
@@ -52,5 +52,5 @@ t)[^7] üzemeltető: üzemeltetési engedéllyel rendelkező engedélyes.
 [^3]: A 2. § (1) bekezdés g) pontja a 65/2013. (IX. 19.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés l) pontját a 65/2013. (IX. 19.) EMMI rendelet 7. §-a hatályon kívül helyezte.
 [^5]: 124/1997. (VII. 18.) Korm. rendelet; 23/1997. (VII. 18.) NM rendelet.
-[^6]: A 2. § (1) bekezdés q) pontja a 10/2011. (III. 30.) NEFMI rendelet 34. §-a szerint módostott szöveg.
+[^6]: A 2. § (1) bekezdés q) pontját a 23/2015. (IV. 28.) EMMI rendelet 49. §-a hatályon kívül helyezte.
 [^7]: A 2. § (1) bekezdés t) pontját a 65/2013. (IX. 19.) EMMI rendelet 1. §-a iktatta be.

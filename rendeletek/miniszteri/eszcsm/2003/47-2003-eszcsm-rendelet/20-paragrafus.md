@@ -6,9 +6,9 @@
 
 (3) Ez a rendelet a 17–19. §-ainak tekintetében a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, az azt kihirdető 1994. évi I. törvény 3. §-ával összhangban, összeegyeztethető szabályozást tartalmaz az Európai Unió Tanácsának a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról szóló 96/29/EURATOM irányelve 40. cikkének (1) bekezdésével, (2) bekezdésének a), b) és c) pontjaival és 41. cikkével az ipari tevékenységek során a természetben előforduló radioaktív anyagok bedúsításával kapcsolatban.
 
-(4)[^23] Ez a rendelet a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelv 7. cikk (4) bekezdésének való megfelelést szolgálja.
+(4)[^33] Ez a rendelet a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelv 7. cikk (4) bekezdésének való megfelelést szolgálja.
 
-(5)–(8)[^24]
+(5)–(8)[^34]
 
-[^23]: A 20. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 75. pontja hatályon kívül helyezte, újonnan a 65/2013. (IX. 19.) EMMI rendelet 5. §-a iktatta be.
-[^24]: A 20. § (5)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 75. pontja hatályon kívül helyezte.
+[^33]: A 20. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 75. pontja hatályon kívül helyezte, újonnan a 65/2013. (IX. 19.) EMMI rendelet 5. §-a iktatta be.
+[^34]: A 20. § (5)–(8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 75. pontja hatályon kívül helyezte.

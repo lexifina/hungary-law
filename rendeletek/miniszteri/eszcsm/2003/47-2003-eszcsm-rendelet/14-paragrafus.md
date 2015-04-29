@@ -20,6 +20,8 @@
 
 (11) A passzív intézményes ellenőrzésre vonatkozó engedélyben elő kell írni az ellenőrzési időszak hosszát és a szükséges követelményeket.
 
-(12) A passzív intézményes ellenőrzés eszközeinek alkalmazását az SD az intézményes ellenőrzésre vonatkozó engedélyében köti ki, s meghatározza ezen ellenőrzés fenntartásának időtartamát.
+(12)[^23] A passzív intézményes ellenőrzés eszközeinek alkalmazását a megyei kormányhivatal az intézményes ellenőrzésre vonatkozó engedélyében köti ki, s meghatározza ezen ellenőrzés fenntartásának időtartamát.
 
 (13) A tároló tervei (beleértve a telephely földrajzi koordinátáit) és készleteinek nyilvántartása nem selejtezhetőek.
+
+[^23]: A 14. § (12) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 48. § b) pontja szerint módosított szöveg.
