@@ -1,6 +1,6 @@
 ## 8. Új és megváltozott kockázatokra utaló jelzések (szignálok) észlelése
 
-11. § (1) A GYEMSZI szükség szerint az Ügynökséggel együttműködve
+11. § (1)[^26] Az OGYÉI szükség szerint az Ügynökséggel együttműködve
 
 a) figyelemmel kíséri a kockázatkezelési tervekben a kockázat minimalizálására irányuló intézkedések vagy a forgalomba hozatali engedélyben foglalt feltételek vagy kötelezettségek teljesítését,
 
@@ -10,6 +10,10 @@ c) figyelemmel kíséri az EudraVigilance adatbázisban található adatokat ann
 
 (2) Új vagy megváltozott kockázatra, vagy az előny/kockázat arányt érintő változásra utaló jelzésről
 
-a) a forgalomba hozatali engedély jogosultja a jelzés súlyosságát figyelembe véve haladéktalanul, de legkésőbb 15 napon belül tájékoztatja a GYEMSZI-t és az Ügynökséget,
+a)[^27] a forgalomba hozatali engedély jogosultja a jelzés súlyosságát figyelembe véve haladéktalanul, de legkésőbb 15 napon belül tájékoztatja az OGYÉI-t és az Ügynökséget,
 
-b) a GYEMSZI 15 napon belül tájékoztatja az Ügynökséget.
+b)[^28] az OGYÉI 15 napon belül tájékoztatja az Ügynökséget.
+
+[^26]: A 11. § (1) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 136. § d) pontja szerint módosított szöveg.
+[^27]: A 11. § (2) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 136. § f) pontja szerint módosított szöveg.
+[^28]: A 11. § (2) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 136. § b) pontja szerint módosított szöveg.

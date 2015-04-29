@@ -14,6 +14,9 @@ c) a gyógyszer értékesített mennyiségével, továbbá az orvosi rendelvény
 
 a) amennyiben az időszakos gyógyszerbiztonsági jelentés benyújtását a forgalomba hozatali engedély feltételeként előírták, vagy
 
-b) amennyiben a farmakovigilancia adatokkal kapcsolatos aggályok miatt, vagy a forgalomba hozatali engedély megadása után egy adott hatóanyagra vonatkozó időszakos gyógyszerbiztonsági jelentés hiánya miatt a GYEMSZI az időszakos gyógyszerbiztonsági jelentés benyújtását elrendeli.
+b)[^18] amennyiben a farmakovigilancia adatokkal kapcsolatos aggályok miatt, vagy a forgalomba hozatali engedély megadása után egy adott hatóanyagra vonatkozó időszakos gyógyszerbiztonsági jelentés hiánya miatt az OGYÉI az időszakos gyógyszerbiztonsági jelentés benyújtását elrendeli.
 
-(4) Az Ügynökség arra vonatkozó bejelentésének napját követő egy évig, hogy biztosítani képes az időszakos gyógyszerbiztonsági jelentéseket tartalmazó, a 726/2004/EK rendelet 25a. cikke szerinti adattárház működését, a forgalomba hozatali engedély jogosultja az időszakos gyógyszerbiztonsági jelentéseket a GYEMSZI és minden olyan EGT állam gyógyszerhatósága részére benyújtja, ahol a gyógyszer forgalomba hozatalát engedélyezték.
+(4)[^19] Az Ügynökség arra vonatkozó bejelentésének napját követő egy évig, hogy biztosítani képes az időszakos gyógyszerbiztonsági jelentéseket tartalmazó, a 726/2004/EK rendelet 25a. cikke szerinti adattárház működését, a forgalomba hozatali engedély jogosultja az időszakos gyógyszerbiztonsági jelentéseket az OGYÉI és minden olyan EGT állam gyógyszerhatósága részére benyújtja, ahol a gyógyszer forgalomba hozatalát engedélyezték.
+
+[^18]: A 8. § (3) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 136. § b) pontja szerint módosított szöveg.
+[^19]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 136. § b) pontja szerint módosított szöveg.

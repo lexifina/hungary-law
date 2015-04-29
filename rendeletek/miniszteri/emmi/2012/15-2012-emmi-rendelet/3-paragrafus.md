@@ -10,7 +10,7 @@ a) az Európai Gazdasági Térségben (a továbbiakban: EGT) székhellyel, lakó
 
 b) a farmakovigilanciával foglalkozó nemzeti szintű kapcsolattartót jelöl ki, amennyiben a farmakovigilanciáért felelős személy lakóhelye nem Magyarország területén található, aki a farmakovigilanciáért felelős személynek tesz jelentést,
 
-c) kezeli és kérésre rendelkezésre bocsátja a farmakovigilancia-rendszer törzsdokumentációját, valamint annak másolatát a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) kérésére 7 napon benyújtja,
+c)[^1] kezeli és kérésre rendelkezésre bocsátja a farmakovigilancia-rendszer törzsdokumentációját, valamint annak másolatát az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) kérésére 7 napon benyújtja,
 
 d) minden egyes gyógyszer vonatkozásában kockázatkezelési rendszert működtet,
 
@@ -38,4 +38,7 @@ b) a forgalomba hozatali engedély jogosultja által nyújtott vagy az általa e
 
 (6) Amennyiben a (4) bekezdés szerinti farmakovigilanciáért felelős személy nem általános orvos végzettségű, a forgalomba hozatali engedély jogosultjának biztosítania kell általános orvos rendelkezésre állását, akinek nevét, elérhetőségét a farmakovigilancia-rendszer törzsdokumentációban is dokumentálni kell.
 
-(7) A forgalomba hozatali engedély jogosultjának a (3) bekezdés a) és b) pontja szerinti személy nevét és elérhetőségeit legkésőbb tevékenysége megkezdése napjáig be kell jelentenie a GYEMSZI részére.
+(7)[^2] A forgalomba hozatali engedély jogosultjának a (3) bekezdés a) és b) pontja szerinti személy nevét és elérhetőségeit legkésőbb tevékenysége megkezdése napjáig be kell jelentenie az OGYÉI részére.
+
+[^1]: A 3. § (3) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 136. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (7) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 136. § b) pontja szerint módosított szöveg.
