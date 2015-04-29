@@ -50,6 +50,7 @@ b) az (5) bekezdés szerinti bejelentést követően az OTH
 
 (19) Az érvényes beutalási rend szerint ellátásra kötelezett egészségügyi szolgáltató kapacitásai kihasználtságának függvényében, illetve egészségügyi válsághelyzet esetén az OMSZ ügyeleti ellátást irányító szervezeti egységének főorvosa az érvényes beutalási rendtől eltérő betegelhelyezést is kezdeményezhet, azzal, hogy erről ezzel egyidejűleg tájékoztatja az egészségügyért felelős minisztert és az országos tisztifőorvost.
 
-(20) Az OMSZ havi rendszerességgel tájékoztatja a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézetet (a továbbiakban: GYEMSZI) és az Országos Egészségbiztosítási Pénztárt (a továbbiakban: OEP) a sürgősségi ügyeleti renddel kapcsolatos változásokról és akadályoztatás miatti eltérésekről.
+(20)[^24] Az OMSZ havi rendszerességgel tájékoztatja az Országos Egészségbiztosítási Pénztárt (a továbbiakban: OEP) és az érintett egészségügyi szolgáltató fenntartóját a sürgősségi ügyeleti renddel kapcsolatos változásokról és akadályoztatás miatti eltérésekről.
 
 [^23]: A 18. § a 41/2014. (VI. 30.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^24]: A 18. § (20) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 62. §-ával megállapított szöveg.

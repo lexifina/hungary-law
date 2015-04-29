@@ -1,4 +1,4 @@
-19. §[^24] (1) A sürgősségi osztályon történik
+19. §[^25] (1) A sürgősségi osztályon történik
 
 a) a sürgősségi ellátásra jelentkező betegek fogadása, vizsgálata;
 
@@ -34,4 +34,4 @@ f) neurológia stroke ellátással együtt a progresszivitás második és harma
 
 g) infektológia a progresszivitás harmadik szintjén.
 
-[^24]: A 19. § a 41/2014. (VI. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^25]: A 19. § a 41/2014. (VI. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
