@@ -1,4 +1,4 @@
-1. számú melléklet a 24/2003. (V. 9.) ESZCSM rendelethez[^13]
+1. számú melléklet a 24/2003. (V. 9.) ESZCSM rendelethez[^14]
 
 ## A speciális gyógyászati célra szánt tápszerek (diétás élelmiszerek) vitamin és ásványi anyag tartalma
 
@@ -10,7 +10,7 @@ Az összetételi anyagok a használati utasítás szerint elkészített, fogyasz
 
 3. A 2. § (2) bekezdés c) pontjában meghatározott célnak megfelelő, kifejezetten csecsemők részére készített speciális tápszerben a vitaminok és ásványi anyagok mennyisége nem haladhatja meg az I. számú táblázatban megadott legmagasabb értékeket, kivéve, ha az elérendő táplálási cél ezt szükségessé teszi.
 
-4.[^14] A csecsemők részére készített speciális tápszerek összetételének egyebekben ki kell elégítenie az anyatejet helyettesítő és az anyatejet kiegészítő (elválasztási) tápszerre meghatározott feltételeket, kivéve, ha az ellentétes az elérendő speciális táplálási céllal.
+4.[^15] A csecsemők részére készített speciális tápszerek összetételének egyebekben ki kell elégítenie az anyatejet helyettesítő és az anyatejet kiegészítő (elválasztási) tápszerre meghatározott feltételeket, kivéve, ha az ellentétes az elérendő speciális táplálási céllal.
 
 5. A 2. § (2) bekezdés a) pontjában meghatározott célnak megfelelő, nem csecsemők részére készített speciális tápszerben a vitaminok és ásványi anyagok mennyisége a II. számú táblázatban megadott értékek között kell legyen.
 
@@ -18,7 +18,7 @@ Az összetételi anyagok a használati utasítás szerint elkészített, fogyasz
 
 7. A 2. § (2) bekezdés c) pontjában meghatározott célnak megfelelő, nem csecsemők részére készített speciális tápszerben a vitaminok és ásványi anyagok mennyisége nem haladhatja meg a II. számú táblázatban megadott értékeket, kivéve, ha az elérendő táplálási cél ezt szükségessé teszi.
 
-I. számú táblázat[^15]
+I. számú táblázat[^16]
 
 A vitaminok, ásványi anyagok és nyomelemek mennyisége a csecsemőknek szánt, tápanyagérték szempontjából teljes értékű speciális tápszerekben
 
@@ -92,6 +92,6 @@ II. számú táblázat
 
 A vitaminok, ásványi anyagok és nyomelemek mennyisége a nem kifejezetten csecsemőknek szánt, tápanyagérték szempontjából teljes értékű speciális tápszerekben
 
-[^13]: Az eredeti melléklet jelölését 1. számú mellékletre változtatta a 37/2004. (IV. 26.) ESZCSM rendelet 15. §-ának (3) bekezdése.
-[^14]: A 20/2008. (V. 14.) EüM rendelet 18. §-a alapján az 1. számú melléklet 4. pontjában meghatározott, a kifejezetten csecsemők számára készült speciális gyógyászati célokra szánt tápszer 2012. január 1-jétől nem hozható forgalomba; 19. § (2) bekezdése alapján e tápszerek összetételére vonatkozóan a 10. mellékletben foglalt előírásokat 2011. december 31-éig lehet alkalmazni. Lásd még a 20/2008. (V. 14.) EüM rendelet 19. § (3) bekezdését.
-[^15]: Az 1. számú melléklet I. számú táblázata a 78/2004. (VIII. 27.) ESZCSM rendelet 4. § (2) bekezdése, a 20/2008. (V. 14.) EüM rendelet 19. § (6) bekezdése szerint módosított szöveg.
+[^14]: Az eredeti melléklet jelölését 1. számú mellékletre változtatta a 37/2004. (IV. 26.) ESZCSM rendelet 15. §-ának (3) bekezdése.
+[^15]: A 20/2008. (V. 14.) EüM rendelet 18. §-a alapján az 1. számú melléklet 4. pontjában meghatározott, a kifejezetten csecsemők számára készült speciális gyógyászati célokra szánt tápszer 2012. január 1-jétől nem hozható forgalomba; 19. § (2) bekezdése alapján e tápszerek összetételére vonatkozóan a 10. mellékletben foglalt előírásokat 2011. december 31-éig lehet alkalmazni. Lásd még a 20/2008. (V. 14.) EüM rendelet 19. § (3) bekezdését.
+[^16]: Az 1. számú melléklet I. számú táblázata a 78/2004. (VIII. 27.) ESZCSM rendelet 4. § (2) bekezdése, a 20/2008. (V. 14.) EüM rendelet 19. § (6) bekezdése szerint módosított szöveg.

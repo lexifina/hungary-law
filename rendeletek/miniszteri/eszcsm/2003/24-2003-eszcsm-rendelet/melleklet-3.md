@@ -1,4 +1,4 @@
-3. számú melléklet a 24/2003. (V. 9.) ESZCSM rendelethez[^17]
+3. számú melléklet a 24/2003. (V. 9.) ESZCSM rendelethez[^18]
 
 Kizárólag fekvőbeteg-gyógyintézetben – esetenként külön rendelkezés alapján gondozóintézeten, illetve egészségügyi intézményen kívül – felhasználható tápszerek
 
@@ -40,4 +40,4 @@ ________
 
 SZ = Az az orvos rendelheti, akinek a készítmény törzskönyvbe bejegyzett indikációja szerinti klinikai szakágban szakorvosi képesítése van.
 
-[^17]: A 3. számú mellékletet a 37/2004. (IV. 26.) ESZCSM rendelet 15. §-ának (3) bekezdése iktatta a szövegbe.
+[^18]: A 3. számú mellékletet a 37/2004. (IV. 26.) ESZCSM rendelet 15. §-ának (3) bekezdése iktatta a szövegbe.
