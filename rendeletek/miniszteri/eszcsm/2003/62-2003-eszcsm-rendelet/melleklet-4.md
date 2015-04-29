@@ -28,7 +28,7 @@
 
 ## telefon: ............................... fax:
 
-## A beküldő intézmény helye szerint illetékes járási népegészségügyi intézet neve, címe:
+## A beküldő intézmény helye szerint illetékes járási hivatal neve, címe:
 
 ## Egyéb közlendő:
 

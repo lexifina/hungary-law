@@ -1,4 +1,4 @@
-## 9. §[^20] Az élelmiszer eredetű megbetegedésekről a járási népegészségügyi intézet a 6. számú melléklet szerinti adatokat tartalmazó nyilvántartást vezet, amelyhez a vizsgálat lezárása után minden dokumentumot csatolni kell. A nyilvántartólapot a vizsgálat lezárása után a járási népegészségügyi intézet három példányban állítja ki, melyből két példányt a tárgyhónapot követő hónap 10-éig megküld a megyei népegészségügyi szakigazgatási szervnek. A megyei népegészségügyi szakigazgatási szerv havonta, a tárgyhónapot követő hónap 20-áig az összegyűjtött nyilvántartólapok 1-1 példányát továbbítja az OÉTI részére.
+## 9. §[^20] Az élelmiszer eredetű megbetegedésekről a járási hivatal a 6. számú melléklet szerinti adatokat tartalmazó nyilvántartást vezet, amelyhez a vizsgálat lezárása után minden dokumentumot csatolni kell. A nyilvántartólapot a vizsgálat lezárása után a járási hivatal három példányban állítja ki, melyből két példányt a tárgyhónapot követő hónap 10-éig megküld a kormányhivatalnak. A kormányhivatal havonta, a tárgyhónapot követő hónap 20-áig az összegyűjtött nyilvántartólapok 1-1 példányát továbbítja az OEK részére.
 
 10. § (1) Az élelmiszer eredetű megbetegedés oki összefüggése a fogyasztott élelmiszerrel laboratóriumi vagy epidemiológiai alapon bizonyítható.
 
@@ -18,4 +18,4 @@ az epidemiológiai összefüggés kimondása érdekében el kell végezni a vizs
 
 (5) Közös eredetű, ismeretlen okú a megbetegedés, ha a tünetek hasonlósága és a megbetegedés időpontja közös eredetre utal, de pontosabb meghatározás és a megbetegedések kialakulásában szerepet játszó közös kóroki tényező felderítése nem lehetséges.
 
-[^20]: A 9. § a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés f) pontja, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
+[^20]: A 9. § a 23/2015. (IV. 28.) EMMI rendelet 54. § c), e) és h)–i) pontja szerint módosított szöveg.

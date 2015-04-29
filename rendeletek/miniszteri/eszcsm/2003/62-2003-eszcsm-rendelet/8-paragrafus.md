@@ -1,4 +1,4 @@
-8. § (1)[^13] Az élelmiszer eredetű megbetegedést vagy annak gyanúját a járási népegészségügyi intézet – telefonon, elektronikus úton vagy faxon – a gyors vészjelző rendszer keretében haladéktalanul jelenteni köteles a megyei népegészségügyi szakigazgatási szervnek, ha
+8. § (1)[^13] Az élelmiszer eredetű megbetegedést vagy annak gyanúját a járási hivatal – telefonon, elektronikus úton vagy faxon – a gyors vészjelző rendszer keretében haladéktalanul jelenteni köteles a kormányhivatalnak, ha
 
 a) harminc vagy több személy megbetegedéséről,
 
@@ -30,22 +30,22 @@ c) a gyanús élelmiszereket és
 
 d) a megtett intézkedéseket.
 
-(3)[^14] A megyei népegészségügyi szakigazgatási szerv a kapott tájékoztatóról jelentést tesz az OTH-nak és az OÉTI-nek.
+(3)[^14] A kormányhivatal a kapott tájékoztatóról jelentést tesz az OTH-nak és az OEK-nek.
 
-(4)[^15] A jelentett esetek vizsgálatának lényeges eredményeiről a megyei népegészségügyi szakigazgatási szerv folyamatosan tájékoztatja az OTH-t és az OÉTI-t.
+(4)[^15] A jelentett esetek vizsgálatának lényeges eredményeiről a kormányhivatal folyamatosan tájékoztatja az OTH-t és az OEK-et.
 
 (5)[^16] Az OTH az (1) bekezdés a)–c) pontja szerinti esetekről haladéktalanul tájékoztatja az az egészségügyért felelős miniszter által vezetett minisztériumot.
 
-(6)[^17] A súlyos vagy tömeges élelmiszer eredetű megbetegedés veszélyével fenyegető [(1) bekezdés] vagy külföldi vonatkozással bíró élelmiszer-szennyezettség észleléséről és egyéb veszélyhelyzetekről a megyei népegészségügyi szakigazgatási szerv haladéktalanul értesíti az OTH-t és az OÉTI-t.
+(6)[^17] A súlyos vagy tömeges élelmiszer eredetű megbetegedés veszélyével fenyegető [(1) bekezdés] vagy külföldi vonatkozással bíró élelmiszer-szennyezettség észleléséről és egyéb veszélyhelyzetekről a kormányhivatal haladéktalanul értesíti az OTH-t és az OEK-et.
 
-(7)[^18] A (6) bekezdés szerinti esetekről az OÉTI a gyors vészjelző rendszer keretében értesíti a Magyar Élelmiszer-biztonsági Hivatalt.
+(7)[^18] A (6) bekezdés szerinti esetekről az OEK a gyors vészjelző rendszer keretében értesíti a Magyar Élelmiszer-biztonsági Hivatalt.
 
-(8)[^19] Az (1) bekezdés szerinti esemény vizsgálat lezárásakor a megyei népegészségügyi szakigazgatási szerv tesz összefoglaló jelentést az OTH és az OÉTI részére.
+(8)[^19] Az (1) bekezdés szerinti esemény vizsgálat lezárásakor a kormányhivatal tesz összefoglaló jelentést az OTH és az OEK részére.
 
-[^13]: A 8. § (1) bekezdés nyitó szövegrésze a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont ea) alpontja, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
-[^14]: A 8. § (3) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont eb) alpontja szerint módosított szöveg.
-[^15]: A 8. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont eb) alpontja szerint módosított szöveg.
+[^13]: A 8. § (1) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 54. § a) és e) pontja szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és f) pontja szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és g) pontja szerint módosított szöveg.
 [^16]: A 8. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont ec) alpontja szerint módosított szöveg.
-[^17]: A 8. § (6) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont eb) alpontja szerint módosított szöveg.
-[^18]: E rendelet 12. §-ának (3) bekezdése alapján a 8. § (7) bekezdése Magyarországnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
-[^19]: A 8. § (8) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont eb) alpontja szerint módosított szöveg.
+[^17]: A 8. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és g) pontja szerint módosított szöveg.
+[^18]: A 8. § (7) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § h) pontja szerint módosított szöveg.
+[^19]: A 8. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és h) pontja szerint módosított szöveg.
