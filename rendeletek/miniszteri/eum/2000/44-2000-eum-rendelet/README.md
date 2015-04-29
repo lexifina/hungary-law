@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-44-20-0
 | 2012-04-15 | 2000-44-20-0B.18 | 21/2012. (IV. 4.) NEFMI rendelet |
 | 2013-02-08 | 2000-44-20-0B.19 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2013-02-16 | 2000-44-20-0B.20 | 21/2012. (IV. 4.) NEFMI rendelet |
+| 2015-04-29 | 2000-44-20-0B.21 | 23/2015. (IV. 28.) EMMI rendelet |

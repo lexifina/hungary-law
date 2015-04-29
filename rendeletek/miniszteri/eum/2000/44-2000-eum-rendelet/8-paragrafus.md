@@ -2,7 +2,7 @@
 
 ## (A Kbtv. 23. §-ához)
 
-8. § (1)[^38] Az OKBI-ban működő Egészségügyi Toxikológiai Tájékoztató Szolgálat (a továbbiakban: ETTSZ) feladata a veszélyes anyagok és veszélyes keverékek adatainak gyűjtése és feldolgozása, információadás céljából történő rendszerezése. Az ETTSZ látja el az 1272/2008/EK európai parlamenti és tanácsi rendelet 45. cikkében meghatározott, a keverékeket forgalomba hozó importőröktől és továbbfelhasználóktól beérkező információk fogadásával, kezelésével és felhasználásával kapcsolatos feladatokat.
+8. § (1)[^38] Az OKK-ban működő Egészségügyi Toxikológiai Tájékoztató Szolgálat (a továbbiakban: ETTSZ) feladata a veszélyes anyagok és veszélyes keverékek adatainak gyűjtése és feldolgozása, információadás céljából történő rendszerezése. Az ETTSZ látja el az 1272/2008/EK európai parlamenti és tanácsi rendelet 45. cikkében meghatározott, a keverékeket forgalomba hozó importőröktől és továbbfelhasználóktól beérkező információk fogadásával, kezelésével és felhasználásával kapcsolatos feladatokat.
 
 (2)[^39] Az ETTSZ a veszélyes anyagokról országos nyilvántartást, a veszélyes keverékekről terméknyilvántartást vezet.
 
@@ -10,7 +10,7 @@
 
 a) a mérgezettek orvosi elsősegélynyújtását és egészségügyi ellátását végzők részére a betegellátáshoz szükséges mértékben;
 
-b)[^41] az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala vagy országos intézete, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve és járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete részére;
+b)[^41] az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala vagy országos intézete, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal és járási (fővárosi kerületi) hivatala részére;
 
 c)[^42] a munkavédelmi hatóság részére munkabalesetek, fokozott expozíciós esetek, foglalkozási megbetegedések megelőzéséhez;
 
@@ -40,15 +40,15 @@ i)[^43] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 
 (9) A mérgezési esetekről az ETTSZ az Egészségügyi Minisztérium beszámolási rendjének megfelelő összesítő jelentést készít.
 
-(10)[^50] A mérgezési esetbejelentések teljesítésének ellenőrzése a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének a feladata.
+(10)[^50] A mérgezési esetbejelentések teljesítésének ellenőrzése a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak a feladata.
 
 (11) A heveny mérgezési esetek magas szintű, egységes és szakszerű ellátásának biztosítására az egészségügyi miniszter által kijelölt egészségügyi szolgáltatóknál diagnosztikai és terápiás információs egységet kell szervezni. A kijelölt egészségügyi szolgáltató és az ETTSZ között biztosítani kell a folyamatos, azonnali információ-adás lehetőségét.
 
 [^37]: A 7. § a 26/2007. (VI. 7.) EüM rendelet 1. §-ával megállapított, valamint a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének d) pontja, a 25/2010. (V. 12.) EüM rendelet 2. § b) pontja szerint módosított szöveg.
-[^38]: A 8. § (1) bekezdése a 25/2010. (V. 12.) EüM rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^38]: A 8. § (1) bekezdése a 25/2010. (V. 12.) EüM rendelet 1. § (7) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 29. § e) pontja szerint módosított szöveg.
 [^39]: A 8. § (2) bekezdése a 25/2010. (V. 12.) EüM rendelet 2. § m) pontja szerint módosított szöveg.
 [^40]: A 8. § (3) bekezdés nyitó szövegrésze a 25/2010. (V. 12.) EüM rendelet 2. § n) pontja szerint módosított szöveg.
-[^41]: A 8. § (3) bekezdés b) pontja a 10/2011. (III. 30.) NEFMI rendelet 18. § (1) bekezdés a) pontja, a 11/2013. (II. 7.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
+[^41]: A 8. § (3) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § f) pontja szerint módosított szöveg.
 [^42]: A 8. § (3) bekezdésének c) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^43]: A 8. § (3) bekezdésének i) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^44]: A 8. § (4) bekezdése a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének f) pontja, az 1/2009. (I. 30.) EüM rendelet 3. § (4) bekezdése szerint módosított szöveg.
@@ -57,4 +57,4 @@ i)[^43] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^47]: A 8. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 39. § (1) bekezdésével megállapított szöveg.
 [^48]: A 8. § (8) bekezdését a 14/2013. (II. 15.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
 [^49]: A 8. § (8a) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 39. § (2) bekezdése iktatta be.
-[^50]: A 8. § (10) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 18. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^50]: A 8. § (10) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 29. § g) pontja szerint módosított szöveg.
