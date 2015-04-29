@@ -20,7 +20,7 @@ b) a rendelt – adagolási egységben (például: tabletta, ampulla, tapasz) ki
 
 (7)[^25] A fokozottan ellenőrzött szernek minősülő, forgalomba hozatalra engedélyezett gyógyszerek esetében az adagolás tekintetében a jóváhagyott alkalmazási előírás az irányadó. Az abban foglalt adagolási utasítástól eltérni – így különösen az adagolás gyakorisága, valamint az egyszeri bevitt adag mennyisége vonatkozásában – abban az esetben lehet, ha az orvos a vényen felkiáltójellel, aláírásával és bélyegzőjének olvasható lenyomatával külön megerősíti ezen szándékát.
 
-(8)[^26] Ha az orvos magisztrális készítmény felírásakor a fokozottan ellenőrzött szert a mindenkor hatályos Gyógyszerkönyvben, illetve a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) közleményében meghatározott, illetve forgalomba hozatalra engedélyezett gyógyszer felírásakor az alkalmazási előírásban megjelölt legnagyobb egyszeri, illetőleg napi adagnál nagyobb mennyiségben rendeli, a fokozottan ellenőrzött szer adagolására vonatkozó adatokat a vényen felkiáltójellel megjelöli aláírásával és bélyegzőjének jól olvasható lenyomatával külön megerősíti.
+(8)[^26] Ha az orvos magisztrális készítmény felírásakor a fokozottan ellenőrzött szert a mindenkor hatályos Gyógyszerkönyvben, illetve az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) közleményében meghatározott, illetve forgalomba hozatalra engedélyezett gyógyszer felírásakor az alkalmazási előírásban megjelölt legnagyobb egyszeri, illetőleg napi adagnál nagyobb mennyiségben rendeli, a fokozottan ellenőrzött szer adagolására vonatkozó adatokat a vényen felkiáltójellel megjelöli aláírásával és bélyegzőjének jól olvasható lenyomatával külön megerősíti.
 
 (9)[^27] Kizárólag intézeti gyógyszertárban alkalmazható megrendelőlappal rendelhetnek fokozottan ellenőrzött szert a járó- és fekvőbeteg szakellátást nyújtó egészségügyi szolgáltatók, valamint az orvosi ügyeletek.
 
@@ -34,6 +34,6 @@ b) a rendelt – adagolási egységben (például: tabletta, ampulla, tapasz) ki
 [^23]: A 3. § (5) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 24. § e) pontja szerint módosított szöveg.
 [^24]: A 3. § (6) bekezdése az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
 [^25]: A 3. § (7) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 22. § b) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § g) pontja szerint módosított szöveg.
-[^26]: A 3. § (8) bekezdése a 41/2011. (VII. 5.) NEFMI rendelet 24. § c) pontja, az 52/2012. (XII. 27.) EMMI rendelet 22. § b) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § f) pontja szerint módosított szöveg.
+[^26]: A 3. § (8) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 22. § b) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § f) pontja, a 23/2015. (IV. 28.) EMMI rendelet 74. § b) pontja szerint módosított szöveg.
 [^27]: A 3. § (9) bekezdése a 44/2008. (XI. 28.) EüM rendelet 3. §-ával megállapított, az 52/2012. (XII. 27.) EMMI rendelet 22. § c) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
 [^28]: A 3. § (10) bekezdését a 41/2011. (VII. 5.) NEFMI rendelet 19. § (2) bekezdése iktatta be.
