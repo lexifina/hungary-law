@@ -12,9 +12,7 @@
 
 ## A várószobának közforgalmú helyről megközelíthetőnek kell lennie. A rendelőhelyiségben biztosítani kell a megfelelő fűtést, világítást, valamint a hideg-meleg folyóvizes kézmosási lehetőséget.
 
-## A rendelő felszereltségéről egyedileg, a konkrét tevékenység ismeretében a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézete dönt.
-
-4. számú melléklet a 11/1997. (V. 28.) NM rendelethez
+4. számú melléklet a 11/1997. (V. 28.) NM rendelethez[^24]
 
 Természetgyógyászati tevékenységek szakmai
 
@@ -1472,11 +1470,11 @@ A szóbeli vizsga során a fenti témakörökben kérdéseket kell megválaszoln
 
 – kínai masszázs alapjai és használata.
 
-A konkrét szakmai tételeket az ETI adja ki.
+A konkrét szakmai tételeket az ENKK adja ki.
 
 4. A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 ALTERNATÍV
 
@@ -1804,7 +1802,7 @@ A szóbeli vizsga során az alábbi témakörökben kell kérdéseket megválasz
 
 4. A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 ÉLETMÓD-TANÁCSADÓ ÉS TERÁPEUTA
 
@@ -2060,7 +2058,7 @@ IV. A szakképesítés vizsgáztatási követelményei
 
 1. A szakmai vizsgára jelentkezés feltételei
 
-1.1.[^21] Iskolai végzettség:
+1.1.[^25] Iskolai végzettség:
 
 – felsőoktatási intézményben megszerzett oklevél az alábbi szakterületen: egészségügyi, pedagógiai, pszichológiai, szociális, népművelői, teológiai, agrártudományi.
 
@@ -2094,7 +2092,7 @@ A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek
 
 4.1. Szakmai gyakorlati vizsga
 
-A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az ETI jelöli ki.
+A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az ENKK jelöli ki.
 
 A gyakorlati vizsga az alábbi vizsgafeladatokból tevődik össze:
 
@@ -2242,7 +2240,7 @@ Egészségnevelés és klasszikus természetgyógyászat:
 
 5. A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 REFLEXOLÓGUS
 
@@ -2404,7 +2402,7 @@ A III. 2. pontban rögzített szakmai követelmények alapján a jelzett szintek
 
 3.1. Szakmai gyakorlati vizsga
 
-A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az ETI jelöli ki.
+A gyakorlati vizsga helye független a vizsgázó saját munkahelyétől, a vizsga helyét az ENKK jelöli ki.
 
 A gyakorlati vizsga feladatai:
 
@@ -2544,11 +2542,11 @@ A szóbeli vizsga során a fenti témakörökben kérdéseket kell megválaszoln
 
 – az egyes kórképek reflexzónákra gyakorolt hatásai.
 
-A konkrét szakmai tételeket az ETI adja ki.
+A konkrét szakmai tételeket az ENKK adja ki.
 
 4. A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 ALTERNATÍV
 
@@ -2758,11 +2756,11 @@ Masszázs élettani szerepe.
 
 Frissítő masszázs.
 
-A konkrét szakmai tételeket az ETI adja ki.
+A konkrét szakmai tételeket az ENKK adja ki.
 
 A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 BIOENERGETIKUS TOVÁBBKÉPZÉS
 
@@ -2894,11 +2892,11 @@ Mesterséges tárgyak: csövek, vízvezeték, padlófűtés stb. mint negatív f
 
 – A különböző tradicionális bioenergetikai iskolák tanításának összevetése.
 
-A konkrét szakmai tételeket az ETI adja ki.
+A konkrét szakmai tételeket az ENKK adja ki.
 
 A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 FITOTERÁPIA TOVÁBBKÉPZÉS
 
@@ -3030,11 +3028,11 @@ Elméleti szóbeli vizsga témakörei:
 
 – Apiterápia.
 
-A konkrét szakmai tételeket az ETI adja ki.
+A konkrét szakmai tételeket az ENKK adja ki.
 
 A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 FÜLAKUPUNKTÚRÁS ADDIKTOLÓGIAI TOVÁBBKÉPZÉS
 
@@ -3156,11 +3154,11 @@ III. Kínai pulzusdiagnózis alapjai
 
 A kezelési program megtervezése
 
-A konkrét szakmai tételeket az ETI adja ki.
+A konkrét szakmai tételeket az ENKK adja ki.
 
 A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 KINEZIOLÓGIAI TOVÁBBKÉPZÉS
 
@@ -3242,11 +3240,11 @@ Szakmai elméleti vizsga témakörei
 
 – Képességfejlesztés.
 
-A konkrét szakmai tételeket az ETI adja ki.
+A konkrét szakmai tételeket az ENKK adja ki.
 
 A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
 SZEMTRÉNING TOVÁBBKÉPZÉS
 
@@ -3354,10 +3352,11 @@ Elméleti-szóbeli vizsga témakörei
 
 – Életmód tanácsadás.
 
-A konkrét szakmai tételeket az ETI adja ki.
+A konkrét szakmai tételeket az ENKK adja ki.
 
 A vizsgázók teljesítményének értékelése
 
-A vizsgázók teljesítményének értékelését az ETI által kiadott vizsgaszabályzat melléklete tartalmazza.
+A vizsgázók teljesítményének értékelését az ENKK által kiadott vizsgaszabályzat melléklete tartalmazza.
 
-[^21]: A 24/1998. (VI. 17.) NM rendelet 4. §-a kiegészítette.
+[^24]: A 4. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
+[^25]: A 24/1998. (VI. 17.) NM rendelet 4. §-a kiegészítette.

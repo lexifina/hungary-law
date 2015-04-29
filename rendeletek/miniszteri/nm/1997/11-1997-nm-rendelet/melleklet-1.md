@@ -1,6 +1,6 @@
-1. számú melléklet a 11/1997. (V. 28.) NM rendelethez[^17]
+1. számú melléklet a 11/1997. (V. 28.) NM rendelethez[^20]
 
-## Nem-konvencionális tevékenységek[^18]
+## Nem-konvencionális tevékenységek[^21]
 
 1. Csak orvos által végezhető tevékenységek
 
@@ -12,7 +12,7 @@
 
 – Minden egyéb olyan nem-konvencionális eljárás vagy módszer – a 3. pontban felsoroltak kivételével –, amelyek képzésére orvostudományi egyetem tanfolyamot és vizsgát szervez vagy, ilyen tanfolyamot és vizsgát akkreditál.
 
-2.[^19] Gyógytornász felsőfokú egészségügyi szakképesítéssel rendelkező személy az 1. pont szerinti tevékenységek közül a *-gal jelöltet végezheti a gerincmanipulációs műfogások kivételével.
+2.[^22] Gyógytornász felsőfokú egészségügyi szakképesítéssel rendelkező személy az 1. pont szerinti tevékenységek közül a *-gal jelöltet végezheti a gerincmanipulációs műfogások kivételével.
 
 3. Orvosi és egyéb felsőszintű egészségügyi szakképesítés nélkül végezhető tevékenységek
 
@@ -40,6 +40,6 @@ b) Vizsgával záruló továbbképzéssel megszerezhető képesítés után vég
 
 – Szemtréning eljárások
 
-[^17]: A rendelet 1. pontja a 75/1999. (XII. 28.) EüM rendelet 2. §-ával megállapított szöveg.
-[^18]: Az 1. számú melléklet címe a 24/1998. (VI. 17.) NM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^19]: Az 1. számú melléklet 2. pontja a 24/1998. (VI. 17.) NM rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
+[^20]: A rendelet 1. pontja a 75/1999. (XII. 28.) EüM rendelet 2. §-ával megállapított szöveg.
+[^21]: Az 1. számú melléklet címe a 24/1998. (VI. 17.) NM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
+[^22]: Az 1. számú melléklet 2. pontja a 24/1998. (VI. 17.) NM rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
