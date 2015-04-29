@@ -8,6 +8,7 @@
 
 (5) A jelentkező, illetve átjelentkező személy egészségügyi törzskarton kivonatát az érintett személy beleegyezése nélkül más háziorvosnak átadni nem lehet. Az érintett személy hozzájárulását kell vélelmezni, ha a választott háziorvos feladatait annak körzetében (rendelőjében) időlegesen vagy véglegesen más orvos látja el.
 
-(6) A 3/A. § (3) bekezdésében, valamint az (1) bekezdésben foglaltakkal kapcsolatos vitás kérdésekben a jelentkező személy tartózkodási helye szerint illetékes járási (fővárosi kerületi) tisztifőorvos dönt.
+(6)[^9] A 3/A. § (3) bekezdésében, valamint az (1) bekezdésben foglaltakkal kapcsolatos vitás kérdésekben a jelentkező személy tartózkodási helye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala dönt.
 
 [^8]: A 3/B. §-t a 16/2015. (III. 30.) EMMI rendelet 15. §-a iktatta be.
+[^9]: A 3/B. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 25. § a) pontja szerint módosított szöveg.
