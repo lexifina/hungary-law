@@ -154,11 +154,11 @@ b) A testnevelési csoportbeosztás elkészítése, gyógytestneveléssel, testn
 
 a) Az iskolai életkorhoz kötött és kampányoltások elvégzése és dokumentálása.
 
-b)[^19] A járványügyi előírások betartásának ellenőrzése, fertőző megbetegedések esetén járványügyi intézkedések elrendelése, a megtett intézkedésekről a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének értesítése.
+b)[^19] A járványügyi előírások betartásának ellenőrzése, fertőző megbetegedések esetén járványügyi intézkedések elrendelése, a megtett intézkedésekről a járási hivatal értesítése.
 
 c) A nevelési-oktatási intézményben folyó étkeztetés ellenőrzése.
 
-d)[^20] Közegészségügyi-járványügyi hiányosságok észlelésekor javaslattétel a hibák megszüntetésére, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala járási (fővárosi kerületi) népegészségügyi intézetének értesítése.
+d)[^20] Közegészségügyi-járványügyi hiányosságok észlelésekor javaslattétel a hibák megszüntetésére, valamint a járási hivatal értesítése.
 
 4. Elsősegélynyújtás
 
@@ -183,6 +183,6 @@ b) A tanulók gyakorlati oktatásával kapcsolatos munkahelyi körülmények fig
 [^16]: A 2. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^17]: A 2. számú melléklet 1. pont a) alpontja a 19/2010. (IV. 22.) EüM rendelet 1. § (2) bekezdés a) pont aa) és ab) alpontja szerint módosított szöveg.
 [^18]: A 2. melléklet 1. pont d) alpontját a 19/2012. (III. 28.) NEFMI rendelet 6. §-a hatályon kívül helyezte.
-[^19]: A 2. számú melléklet 3. pont b) alpontja a 10/2011. (III. 30.) NEFMI rendelet 4. § (2) bekezdése, a 33/2014. (IV. 18.) EMMI rendelet 1. §-a szerint módosított szöveg.
-[^20]: A 2. számú melléklet 3. pont d) alpontja a 10/2011. (III. 30.) NEFMI rendelet 4. § (2) bekezdése, a 33/2014. (IV. 18.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^19]: A 2. számú melléklet 3. pont b) alpontja a 23/2015. (IV. 28.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
+[^20]: A 2. számú melléklet 3. pont d) alpontja a 23/2015. (IV. 28.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
 [^21]: 2009. szeptember 1-je előtt született gyermekek esetében a Gyermek-egészségügyi kiskönyvben.
