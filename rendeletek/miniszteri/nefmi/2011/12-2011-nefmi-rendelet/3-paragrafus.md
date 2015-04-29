@@ -18,7 +18,7 @@ meghatározása.
 
 (3) A tanácsok munkatervüket az azonos nevű tagozatokkal együttműködve dolgozzák ki.
 
-(4)[^6] Az e § szerinti ügyrendeket és munkaterveket a szakmai kollégium honlapján a szakmai kollégium, a tagozatok és a tanácsok tagjai, valamint a miniszter és a GYEMSZI részére hozzáférhetővé kell tenni.
+(4)[^6] Az e § szerinti ügyrendeket és munkaterveket a szakmai kollégium honlapján a szakmai kollégium, a tagozatok és a tanácsok tagjai, valamint a miniszter és az ÁEEK részére hozzáférhetővé kell tenni.
 
 [^5]: A 3. § (1a) bekezdését a 44/2014. (X. 27.) EMMI rendelet 2. § (1) bekezdése iktatta be.
-[^6]: A 3. § (4) bekezdését a 44/2014. (X. 27.) EMMI rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 3. § (4) bekezdését a 44/2014. (X. 27.) EMMI rendelet 2. § (2) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 123. § c) pontja szerint módosított szöveg.

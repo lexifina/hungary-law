@@ -4,8 +4,8 @@
 
 (2) A tagozatok és a tanácsok elnevezését, létszámukat az 1. melléklet tartalmazza.
 
-(3)[^1] A szakmai kollégium működtetési költségeit a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) költségvetésében biztosítja. A működtetési költségek a szakmai kollégium tevékenységének ellátásához szükséges személyi és tárgyi feltételeket foglalják magukban. A szakmai kollégium tisztségviselőivel a GYEMSZI évente megbízási szerződést köt. A tagozatok vezetőivel és a tanácsok elnökeivel a GYEMSZI évente támogatási szerződést köt, amelynek keretében szabályozzák a szakmai kollégium tevékenységének ellátása során felmerülő költségek és díjazás elszámolásának feltételeit.
+(3)[^1] A szakmai kollégium működtetési költségeit a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) az Állami Egészségügyi Ellátási Központ (a továbbiakban: ÁEEK) költségvetésében biztosítja. A működtetési költségek a szakmai kollégium tevékenységének ellátásához szükséges személyi és tárgyi feltételeket foglalják magukban. A szakmai kollégium tisztségviselőivel az ÁEEK évente megbízási szerződést köt. A tagozatok vezetőivel és a tanácsok elnökeivel az ÁEEK évente támogatási szerződést köt, amelynek keretében szabályozzák a szakmai kollégium tevékenységének ellátása során felmerülő költségek és díjazás elszámolásának feltételeit.
 
 (4) A szakmai kollégium, valamint a tanácsok tisztségviselőinek és tagjainak névsorát a miniszter a minisztérium honlapján közzéteszi.
 
-[^1]: Az 1. § (3) bekezdése a 3/2012. (I. 3.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^1]: Az 1. § (3) bekezdése a 3/2012. (I. 3.) NEFMI rendelet 7. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 123. § a)–b) pontja szerint módosított szöveg.
