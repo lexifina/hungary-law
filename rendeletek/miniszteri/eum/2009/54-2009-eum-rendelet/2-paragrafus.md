@@ -1,3 +1,5 @@
+## a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. §-a hatálya alá tartozó hatósági ellenőrzésére.
+
 ## 2. §[^2] Ha a hatósági ellenőrzés során megállapítást nyer, hogy a következő jogszabályhelyeket olyan módon sértették meg, hogy a jogsértés az életet, a testi épséget, közteherviselési kötelezettség teljesítését vagy harmadik személy alapvető jogát közvetlenül veszélyezteti, és a veszélyeztető állapot más alkalmas eszközzel nem hárítható el, a Ket. 94. § (2) bekezdés b) pontja alapján kell eljárni a következő jogkövetkezmények alkalmazásakor:
 
 a) a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 19. § (2) bekezdés b) pontja szerinti jogkövetkezmény,
