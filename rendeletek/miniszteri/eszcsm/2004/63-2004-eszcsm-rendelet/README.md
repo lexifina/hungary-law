@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-63-20-0
 | --- | --- | --- |
 | 2008-05-16 | 2004-63-20-0M.2 | 63/2004. (VII. 26.) ESZCSM rendelet |
 | 2011-03-31 | 2004-63-20-0M.3 | 10/2011. (III. 30.) NEFMI rendelet |
+| 2015-04-29 | 2004-63-20-0M.4 | 23/2015. (IV. 28.) EMMI rendelet |
