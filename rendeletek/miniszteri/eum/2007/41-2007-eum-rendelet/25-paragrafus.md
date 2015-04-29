@@ -12,16 +12,16 @@ ba) együttesen minimum 18 m2 laboratóriumot és/vagy vényezőt,
 
 bb) mosogatót;
 
-c)[^104] a 23. § (2) bekezdés b) pont bf) alpontja szerinti alapfeladatot ellátó gyógyszertárnak az a)–b) pontban meghatározottakon túl rendelkeznie kell a közvetlen lakossági gyógyszerellátás betegforgalmának lebonyolítására, a gyógyszerek kiszolgáltatására és elkülönített tárolására alkalmas minimum 25 m2 össz-alapterületű helyiségcsoporttal.
+c)[^108] a 23. § (2) bekezdés b) pont bf) alpontja szerinti alapfeladatot ellátó gyógyszertárnak az a)–b) pontban meghatározottakon túl rendelkeznie kell a közvetlen lakossági gyógyszerellátás betegforgalmának lebonyolítására, a gyógyszerek kiszolgáltatására és elkülönített tárolására alkalmas minimum 25 m2 össz-alapterületű helyiségcsoporttal.
 
 (2) Az intézeti gyógyszertár közvetlen lakossági ellátó helyisége a kórház kiszolgáló részlegei – így különösen mosoda, konyha, műhelyek –, a fertőző osztály és a proszektúra mellett, illetve az alagsorban – raktárak kivételével – nem működtethető.
 
 (3) Az intézeti gyógyszertár gazdasági bejáratát a betegforgalmi bejárattól elkülönítetten, árufogadásra alkalmas módon kell kialakítani.
 
-(4)[^105] A 22. § (3) bekezdése szerinti szerződés esetén intézeti gyógyszertárral nem rendelkező fekvőbeteg ellátást végző intézménynek gyógyszerkiadó helyiséget kell biztosítania, melynek alapterülete minimum 10 m2.
+(4)[^109] A 22. § (3) bekezdése szerinti szerződés esetén intézeti gyógyszertárral nem rendelkező fekvőbeteg ellátást végző intézménynek gyógyszerkiadó helyiséget kell biztosítania, melynek alapterülete minimum 10 m2.
 
-(5)[^106] A betegségspecifikus gyógyszerészi gondozást végző közvetlen lakossági gyógyszerellátást végző intézeti gyógyszertárban a tanácsadásra kijelölt helyiség vagy helyiségrészlet kialakítása oly módon történhet, hogy azt a beteg a gyógyszertár betegforgalomtól elzárt területének érintése, és így a gyógyszertárban folyó munka megzavarása nélkül közelíthesse meg.
+(5)[^110] A betegségspecifikus gyógyszerészi gondozást végző közvetlen lakossági gyógyszerellátást végző intézeti gyógyszertárban a tanácsadásra kijelölt helyiség vagy helyiségrészlet kialakítása oly módon történhet, hogy azt a beteg a gyógyszertár betegforgalomtól elzárt területének érintése, és így a gyógyszertárban folyó munka megzavarása nélkül közelíthesse meg.
 
-[^104]: A 25. § (1) bekezdés c) pontja az 52/2012. (XII. 27.) EMMI rendelet 30. § a) pontja szerint módosított szöveg.
-[^105]: A 25. § (4) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § f) pontja szerint módosított szöveg.
-[^106]: A 25. § (5) bekezdését a 3/2015. (I. 14.) EMMI rendelet 19. §-a iktatta be.
+[^108]: A 25. § (1) bekezdés c) pontja az 52/2012. (XII. 27.) EMMI rendelet 30. § a) pontja szerint módosított szöveg.
+[^109]: A 25. § (4) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § f) pontja szerint módosított szöveg.
+[^110]: A 25. § (5) bekezdését a 3/2015. (I. 14.) EMMI rendelet 19. §-a iktatta be.

@@ -48,9 +48,9 @@ h) az osztály(ok)ra kiadott gyógyszerek, gyógyászati segédeszközök megnev
 
 i) a forgalomból kivont és a lejárt felhasználhatósági idejű gyógyszerek, gyógyászati segédeszközök megnevezését és mennyiségét.
 
-(2a)[^116] Amennyiben a beteg tételes elszámolásba sorolt hatóanyagot tartalmazó gyógyszert otthoni alkalmazásra kap meg, úgy a gyógyszer átadásáról az intézeti gyógyszertár nyilvántartást vezet.
+(2a)[^120] Amennyiben a beteg tételes elszámolásba sorolt hatóanyagot tartalmazó gyógyszert otthoni alkalmazásra kap meg, úgy a gyógyszer átadásáról az intézeti gyógyszertár nyilvántartást vezet.
 
-(2b)[^117] A (2a) bekezdés szerinti nyilvántartásnak legalább az alábbi adatokat kell tartalmaznia:
+(2b)[^121] A (2a) bekezdés szerinti nyilvántartásnak legalább az alábbi adatokat kell tartalmaznia:
 
 a) az átadott gyógyszer pontos megnevezését, hatáserősségét, kiszerelését;
 
@@ -62,5 +62,5 @@ d) a beteg nevét és aláírását.
 
 (3) A közvetlen lakossági ellátást biztosító készlettől a (2) bekezdés szerinti nyilvántartást jól elkülönítetten kell vezetni.
 
-[^116]: A 32. § (2a) bekezdését az 52/2012. (XII. 27.) EMMI rendelet 29. §-a iktatta be.
-[^117]: A 32. § (2b) bekezdését az 52/2012. (XII. 27.) EMMI rendelet 29. §-a iktatta be.
+[^120]: A 32. § (2a) bekezdését az 52/2012. (XII. 27.) EMMI rendelet 29. §-a iktatta be.
+[^121]: A 32. § (2b) bekezdését az 52/2012. (XII. 27.) EMMI rendelet 29. §-a iktatta be.

@@ -24,12 +24,12 @@ g) szakmai segítséget nyújt a gyógyszerekkel kapcsolatos betegtájékoztatá
 
 (3) A (2) bekezdés a), b), e) és g) pontjai esetében a főgyógyszerész, a (2) bekezdés c) pontja esetében az egészségügyi szolgáltató szakmai vezetője adhat meghatalmazást e feladatok ellátására gyógyszerésznek.
 
-(4)[^110] A főgyógyszerész e rendeletben nem szabályozott ellenőrzési és szervezési feladatait a fekvőbeteg ellátást végző intézmény – a gazdálkodási formájára irányadó jogszabályok szerinti – működési szabályzata (a továbbiakban: működési szabályzat) tartalmazza.
+(4)[^114] A főgyógyszerész e rendeletben nem szabályozott ellenőrzési és szervezési feladatait a fekvőbeteg ellátást végző intézmény – a gazdálkodási formájára irányadó jogszabályok szerinti – működési szabályzata (a továbbiakban: működési szabályzat) tartalmazza.
 
-(5)[^111] A főgyógyszerész, illetve az általa meghatalmazott gyógyszerész a (2) és (4) bekezdésekben meghatározott ellenőrzéseiről jegyzőkönyvet készít, és az ellenőrzések tapasztalatairól a kórház szakmai vezetését rendszeresen tájékoztatja. Amennyiben a feladata ellátása során a fekvőbeteg ellátást végző intézményben – gyógyszerellátásra vonatkozó – jogszabály vagy szakmai szabály megsértése jut a főgyógyszerész tudomására, haladéktalanul intézkedést kezdeményez.
+(5)[^115] A főgyógyszerész, illetve az általa meghatalmazott gyógyszerész a (2) és (4) bekezdésekben meghatározott ellenőrzéseiről jegyzőkönyvet készít, és az ellenőrzések tapasztalatairól a kórház szakmai vezetését rendszeresen tájékoztatja. Amennyiben a feladata ellátása során a fekvőbeteg ellátást végző intézményben – gyógyszerellátásra vonatkozó – jogszabály vagy szakmai szabály megsértése jut a főgyógyszerész tudomására, haladéktalanul intézkedést kezdeményez.
 
-(6)[^112] Amennyiben a fekvőbeteg ellátást végző intézmény a 22. § (1) bekezdésében meghatározott feladat ellátására más, intézeti gyógyszertárat működtető fekvőbeteg ellátást végző intézménnyel szerződést köt, a főgyógyszerész a (2) és (5) bekezdés szerinti feladatait a 24. § (2) bekezdése szerinti gyógyszerész látja el.
+(6)[^116] Amennyiben a fekvőbeteg ellátást végző intézmény a 22. § (1) bekezdésében meghatározott feladat ellátására más, intézeti gyógyszertárat működtető fekvőbeteg ellátást végző intézménnyel szerződést köt, a főgyógyszerész a (2) és (5) bekezdés szerinti feladatait a 24. § (2) bekezdése szerinti gyógyszerész látja el.
 
-[^110]: A 30. § (4) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § d) pontja szerint módosított szöveg.
-[^111]: A 30. § (5) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § c) pontja szerint módosított szöveg.
-[^112]: A 30. § (6) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § d) és e) pontja szerint módosított szöveg.
+[^114]: A 30. § (4) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § d) pontja szerint módosított szöveg.
+[^115]: A 30. § (5) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § c) pontja szerint módosított szöveg.
+[^116]: A 30. § (6) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 30. § d) és e) pontja szerint módosított szöveg.
