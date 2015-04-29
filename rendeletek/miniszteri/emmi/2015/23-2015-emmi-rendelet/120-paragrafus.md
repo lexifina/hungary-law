@@ -1,0 +1,3 @@
+## 119. § Az egészségügyért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésének, valamint a kijelölt szervezetek tevékenységének különös szabályairól szóló 18/2010. (IV. 20.) EüM rendelet 1. § (1) bekezdésében az „Egészségügyi Engedélyezési és Közigazgatási Hivatalhoz” szövegrész helyébe az „Egészségügyi Nyilvántartási és Képzési Központhoz” szöveg lép.
+
+## 74. Az élelmiszerekkel kapcsolatos tápanyag-összetételre és egészségre vonatkozó állításokkal kapcsolatos egyes szabályokról szóló 33/2010. (V. 13.) EüM–FVM együttes rendelet módosítása

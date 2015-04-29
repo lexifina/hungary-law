@@ -1,0 +1,3 @@
+## 103. § Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet (a továbbiakban: 4/2009. EüM rendelet) 28. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A gyártó, a forgalmazó vagy a meghatalmazott képviselő a tárgyévet megelőző naptári évben forgalomba hozott, a II.a osztályba tartozó, kifejezetten eszközök fertőtlenítésére szánt – biocidnak minősülő hatóanyagot tartalmazó – eszközről tárgyév március hónap első napjáig a 14. melléklet szerinti adatlap megküldésével köteles tájékoztatni az OKK-t. Az OKK a bejelentések alapján elkészített jegyzéket továbbítja az Országos Tisztifőorvosi Hivatalnak.”
