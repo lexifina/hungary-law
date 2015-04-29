@@ -6,19 +6,19 @@ a) ellenőrzött terület: az a munkaterület, amely megfelel az atomenergiáró
 
 b) engedélyes: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely az ellenőrzött területre az R. szerinti sugáregészségügyi hatósági engedéllyel rendelkezik;
 
-c)[^1] külső munkáltató: az az engedélyesnek nem minősülő természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely az ellenőrzött területen az R. 13. §-a és 14. § (1) és (2) bekezdése szerinti engedély alapján az atomenergia alkalmazási körébe tartozó tevékenységet végez, illetve végeztet;
+c)[^2] külső munkáltató: az az engedélyesnek nem minősülő természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely az ellenőrzött területen az R. 13. §-a és 14. § (1) és (2) bekezdése szerinti engedély alapján az atomenergia alkalmazási körébe tartozó tevékenységet végez, illetve végeztet;
 
 d) külső munkavállaló: az R. 2. számú melléklete IV. fejezet 1.2. bekezdésében foglalt ,,A'' besorolású munkavállaló (ideértve a gyakornokot és a tanulót is), aki külső munkáltató alkalmazásában az ellenőrzött területen az atomenergia alkalmazási körébe tartozó, bármilyen rövid ideig tartó tevékenységet végez;
 
 e) egyéni dozimetriai ellenőrzési igazolás: olyan személyi dózisnyilvántartó lap, amelyen a Magyarországon munkát vállaló külföldi külső munkavállaló, valamint a külföldön munkát vállaló magyar külső munkavállaló személyi dozimetriai eredményei követhetőek;
 
-f)[^2] sugáregészségügyi hatóság: az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala (a továbbiakban: OTH), illetőleg a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének Sugáregészségügyi Decentruma;
+f)[^3] sugáregészségügyi hatóság: az Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala (a továbbiakban: OTH), illetve a sugár-egészségügyi feladatokra illetékességgel rendelkező fővárosi és megyei kormányhivatal;
 
-g)[^3] radiológiai monitoring rendszer: az üzemeltetés során az expozíciónak kitett munkavállalók védelmét biztosító rendszer, amely kiterjed különösen a munkahelyek területi besorolására, a munkavállalók kategóriákba sorolására, valamint az említett területek, illetve munkavállalói kategóriák ellenőrzésére és figyelemmel kísérésére irányuló intézkedésekre;
+g)[^4] radiológiai monitoring rendszer: az üzemeltetés során az expozíciónak kitett munkavállalók védelmét biztosító rendszer, amely kiterjed különösen a munkahelyek területi besorolására, a munkavállalók kategóriákba sorolására, valamint az említett területek, illetve munkavállalói kategóriák ellenőrzésére és figyelemmel kísérésére irányuló intézkedésekre;
 
-h)[^4] a munkavállaló által végzett tevékenység: az ellenőrzött területen a külső munkavállaló által végzett bármilyen munka, amelyért az engedélyes felelős.
+h)[^5] a munkavállaló által végzett tevékenység: az ellenőrzött területen a külső munkavállaló által végzett bármilyen munka, amelyért az engedélyes felelős.
 
-[^1]: A 2. § c) pontja a 18/2002. (IV. 12.) EüM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § f) pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (6) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 13. §-a szerint módosított szöveg.
-[^3]: A 2. § g) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 1. §-a ikatta a szövegbe.
-[^4]: A 2. § h) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 1. §-a ikatta a szövegbe.
+[^2]: A 2. § c) pontja a 18/2002. (IV. 12.) EüM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § f) pontja a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (6) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 31. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § g) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 1. §-a ikatta a szövegbe.
+[^5]: A 2. § h) pontját a 28/2004. (IV. 24.) ESZCSM rendelet 1. §-a ikatta a szövegbe.

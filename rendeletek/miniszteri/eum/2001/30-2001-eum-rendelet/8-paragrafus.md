@@ -1,6 +1,6 @@
 ## 7. § Külső munkavállaló egyéni sugárterhelésének ellenőrzését, a dozimetriai mennyiségek feljegyzését és nyilvántartását belföldön az R. 2. számú mellékletében, illetve az R. 2. számú függelékében foglaltak alapján kell végezni.
 
-8. § (1) A dozimetriai igazolást a ,,Fodor József'' Országos Közegészségügyi Központ ,,Frédéric Joliot-Curie'' Sugárbiológiai és Sugáregészségügyi Kutató Intézete (a továbbiakban: dozimetriai szolgálat) bocsátja ki.
+8. § (1)[^8] A dozimetriai igazolást az Országos Közegészségügyi Központ (a továbbiakban: dozimetriai szolgálat) bocsátja ki.
 
 (2) A magyar és angol nyelven kibocsátott dozimetriai igazolás a következő adatokat tartalmazza:
 
@@ -35,3 +35,5 @@ e) a radionuklid inkorporációra vonatkozó becsült adatok (nuklid, aktivitás
 (5) A külső munkavállaló köteles a dozimetriai igazolását megőrizni, továbbá az egyes ellenőrzési időszakok végén a dozimetriai eredményeket az engedélyessel bejegyeztetni és a dozimetriai szolgálattal közölni.
 
 (6) Külföldi állampolgár külső munkavállaló a dozimetriai igazolását a saját országának illetékes hatóságától szerzi be. Azokra a külföldi állampolgár külső munkavállalókra, akik olyan országból érkeztek, ahol a dozimetriai igazolást még nem vezették be, az (1)–(6) bekezdésben foglaltakat kell megfelelően alkalmazni.
+
+[^8]: A 8. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 31. § b) pontja szerint módosított szöveg.
