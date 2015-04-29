@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-38-20-0
 | 2014-02-01 | 2003-38-20-0M.33 | 21/2008. (V. 22.) EüM–FVM–KvVM együttes rendelet |
 | 2014-04-21 | 2003-38-20-0M.34 | 32/2014. (IV. 18.) EMMI rendelet |
 | 2015-03-31 | 2003-38-20-0M.35 | 16/2015. (III. 30.) EMMI rendelet |
+| 2015-04-29 | 2003-38-20-0M.36 | 23/2015. (IV. 28.) EMMI rendelet |
