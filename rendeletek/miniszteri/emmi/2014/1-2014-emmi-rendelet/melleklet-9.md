@@ -1,44 +1,42 @@
 ## Járványügyi értesítés fertőző betegről
 
-## A beteg TAJ-a:
+| A beteg TAJ-a: |
 
-## A beteg neve:
+| A beteg neve: |
 
-## A beteg születési dátuma: ........................ év ......................................... hó ....................... nap
+| A beteg születési dátuma: ........................ év ......................................... hó ....................... nap |
 
-## A beteg tartózkodási helye a diagnózis megállapításakor:
+| A beteg tartózkodási helye a diagnózis megállapításakor: |
 
-## A megbetegedés helye: megye
+| A megbetegedés helye: | megye |
 
-## község, város
+|  | község, város |
 
-## ........................................................................................................ utca .................................... házszám ........................ em., ajtó
+| ........................................................................................................ utca .................................... házszám ........................ em., ajtó |
 
-## A betegség neve:
+| A betegség neve: |
 
-## A beteg lakóhelye:
+| A beteg lakóhelye: |
 
-## A beteg munkahelye, kollektívája:
+| A beteg munkahelye, kollektívája: |
 
-## Járványügyi intézkedések:
+| Járványügyi intézkedések: |
 
-## Az elvégzett mikrobiológiai vizsgálatok dátuma és eredménye:
+| Az elvégzett mikrobiológiai vizsgálatok dátuma és eredménye: |
 
-## a mintavétel dátuma: a kórokozó típusa, szerológiai eredmény:
+| a mintavétel dátuma: | a kórokozó típusa, szerológiai eredmény: |
 
-## Megjegyzés:
+| Megjegyzés: |
 
-## Kelt: ............................ év ................................... hó ...................... nap
+| Kelt: ............................ év ................................... hó ...................... nap |
 
-## P. H.
+| P. H. |
 
-## ..........................................................................................
-
-## megyei, járási/fővárosi kerületi tiszti(fő)orvos
+| .......................................................................................... népegészségügyi feladatkörében eljáró fővárosi, megyei kormányhivatal, járási hivatal |
 
 ## KITÖLTÉSI ÚTMUTATÓ
 
-## Ha a fertőző beteg megbetegedésének helye nem azonos a tartózkodási helyével, vagy a megbetegedési helyeként regisztrált tartózkodási helye nem azonos a lakóhelyével, és járványügyi intézkedést igényel a megbetegedés, akkor erről a „Járványügyi értesítés fertőző betegről” elnevezésű űrlapon haladéktalanul értesíteni kell a tartózkodási hely, illetve a lakóhely szerint illetékes megyei (fővárosi kerületi) kormányhivatal járási (fővárosi kerületi) hivatalának járási (fővárosi kerületi) népegészségügyi intézetét. Az értesítést faxon kell továbbítani, de ha a beteggel vagy környezetével kapcsolatban késedelmet nem tűrő intézkedések megtételére van szükség, az értesítést telefonon is meg kell tenni.
+## Ha a fertőző beteg megbetegedésének helye nem azonos a tartózkodási helyével, vagy a megbetegedési helyeként regisztrált tartózkodási helye nem azonos a lakóhelyével, és járványügyi intézkedést igényel a megbetegedés, akkor erről a „Járványügyi értesítés fertőző betegről” elnevezésű űrlapon haladéktalanul értesíteni kell a tartózkodási hely, illetve a lakóhely szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát. Az értesítést faxon kell továbbítani, de ha a beteggel vagy környezetével kapcsolatban késedelmet nem tűrő intézkedések megtételére van szükség, az értesítést telefonon is meg kell tenni.
 
 ## Ha a bejelentés alapját állatról emberre terjedő fertőző betegség (anthrax, brucellosis, lyssa, illetve lyssa-fertőzésre gyanús sérülés, madárinfluenza, malleus, nyugat-nílusi láz, trichinellosis, tuberkulozis, tularemia) képezte, a járványügyi értesítés megküldésével – sürgős esetben ezenkívül közvetlenül (szóban, telefonon, faxon) is – értesíteni kell az érintett lakóhelye (tartózkodási helye) szerint illetékes élelmiszerlánc-felügyeleti szervet.
 

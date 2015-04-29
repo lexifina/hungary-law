@@ -1,4 +1,4 @@
-## 18. §[^2]
+## 18. §[^18]
 
 1. melléklet az 1/2014. (I. 16.) EMMI rendelethez
 
@@ -42,4 +42,4 @@ a halál oka: a megnevezett fertőző betegség vagy más, éspedig: .………�
 
 Az orvos megjegyzései:
 
-[^2]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
