@@ -1,4 +1,4 @@
-## 13–14. §[^1]
+## 13–14. §[^13]
 
 1. melléklet a 18/2013. (III. 5.) EMMI rendelethez
 
@@ -74,4 +74,4 @@ XI. MELLÉKLET
 
 3. Alkalmazást segítő dokumentumok
 
-[^1]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
