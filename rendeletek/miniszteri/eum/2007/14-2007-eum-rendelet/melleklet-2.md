@@ -170,6 +170,6 @@
 
 ## 11.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-2. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^173]
+2. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^175]
 
-[^173]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^175]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja szerint módosított szöveg.

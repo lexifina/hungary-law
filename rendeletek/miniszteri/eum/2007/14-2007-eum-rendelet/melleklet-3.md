@@ -100,7 +100,7 @@
 
 ## 8. Az eszköz megfelelőségi igazolása
 
-## 8.1. Az EEKH nyilvántartásba vételi igazolásának száma
+## 8.1. Az ENKK nyilvántartásba vételi igazolásának száma
 
 ## 8.1.1. Az igazolás kiadásának dátuma
 
@@ -156,6 +156,6 @@
 
 ## 11.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^174]
+3. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^176]
 
-[^174]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^176]: A 3. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (3) bekezdésével megállapított szöveg.

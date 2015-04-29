@@ -182,6 +182,6 @@
 
 ## 11.12. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^176]
+5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^178]
 
-[^176]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^178]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja szerint módosított szöveg.

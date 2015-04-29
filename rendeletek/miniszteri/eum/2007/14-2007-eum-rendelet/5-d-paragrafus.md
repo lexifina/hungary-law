@@ -1,4 +1,4 @@
-5/D. §[^59] (1) Az OEP bármely funkcionális csoportra vonatkozóan követelményjegyzéket állíthat össze.
+5/D. §[^60] (1) Az OEP bármely funkcionális csoportra vonatkozóan követelményjegyzéket állíthat össze.
 
 (2) A követelményjegyzék az adott funkcionális csoportban ártámogatásban részesíthető gyógyászati segédeszközök
 
@@ -22,4 +22,4 @@ vonatkozó egészségbiztosítói követelményeket tartalmazza.
 
 (6) Kérelemre indult eljárásban nem fogadható be olyan gyógyászati segédeszköz, amely nem felel meg az adott gyógyászati segédeszközre vonatkozó követelményjegyzékben foglaltaknak.
 
-[^59]: Az 5/D. §-t a 34/2010. (V. 14.) EüM rendelet 4. §-a iktatta be.
+[^60]: Az 5/D. §-t a 34/2010. (V. 14.) EüM rendelet 4. §-a iktatta be.
