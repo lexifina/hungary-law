@@ -28,7 +28,7 @@ i) vizsgálati alany (subject): a klinikai vizsgálatban részt vevő olyan szem
 
 j)[^2] beleegyező nyilatkozat (informed consent): a vizsgálatban való részvételre felkért cselekvőképes személynek az Eütv. 159. §-a (1) bekezdésének e) pontja szerinti nyilatkozata, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott vagy cselekvőképtelen személy esetén az Eütv. 159. §-a (4) bekezdésének d) pontja szerinti nyilatkozat;
 
-k)[^3] toborzás (recruitment): a klinikai vizsgálatot végző egészségügyi szolgáltatónak a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) által engedélyezett nyilvános felhívása abból a célból, hogy az általa ellátott betegeken kívül más önkéntes személyeket is vizsgálati alanyként bevonjon egy konkrét klinikai vizsgálatba;
+k)[^3] toborzás (recruitment): a klinikai vizsgálatot végző egészségügyi szolgáltatónak az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) által engedélyezett nyilvános felhívása abból a célból, hogy az általa ellátott betegeken kívül más önkéntes személyeket is vizsgálati alanyként bevonjon egy konkrét klinikai vizsgálatba;
 
 l) nemkívánatos esemény (adverse event): a vizsgálati készítménnyel kezelt beteg vagy a vizsgálati alany egészségi állapotában bekövetkező kedvezőtlen változás, amely nem áll szükségszerűen oki összefüggésben az alkalmazott kezeléssel;
 
@@ -58,7 +58,7 @@ v)[^9] IV. fázisú vizsgálat: a forgalomba hozatali engedéllyel rendelkező v
 
 [^1]: A 2. § (1) bekezdés d) pontja a 16/2014. (III. 12.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés j) pontja a 16/2014. (III. 12.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés k) pontja a 3/2014. (I. 16.) EMMI rendelet 17. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés k) pontja a 23/2015. (IV. 28.) EMMI rendelet 72. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés q) pontját a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^5]: A 2. § (1) bekezdés r) pontját a 32/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^6]: A 2. § (1) bekezdés s) pontját a 32/2009. (X. 20.) EüM rendelet 1. § (1) bekezdése iktatta be. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.

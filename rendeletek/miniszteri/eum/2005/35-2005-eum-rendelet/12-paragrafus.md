@@ -8,8 +8,8 @@
 
 (6) Az egészségügyi szolgáltató és a megbízó közötti, a vizsgálati készítmény klinikai vizsgálatára irányuló szerződés az engedélyezési eljárás előtt is megköthető, azonban érvényességének feltétele a klinikai vizsgálat hatósági engedélyezése.
 
-(7)[^34] I. fázisú klinikai vizsgálatokat csak a GYEMSZI által minősített klinikai farmakológiai vizsgálóhelyen lehet végezni. A minősítési eljárást a szolgáltató vezetőjének kérelmére kell lefolytatni. A GYEMSZI a minősítési eljárás során helyszíni szemlét tart. A minősítési eljárást három- évenként ismételten el kell elvégezni.
+(7)[^34] I. fázisú klinikai vizsgálatokat csak az OGYÉI által minősített klinikai farmakológiai vizsgálóhelyen lehet végezni. A minősítési eljárást a szolgáltató vezetőjének kérelmére kell lefolytatni. Az OGYÉI a minősítési eljárás során helyszíni szemlét tart. A minősítési eljárást három- évenként ismételten el kell elvégezni.
 
 [^32]: A 12. § (1) bekezdése a 16/2014. (III. 12.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
 [^33]: A 12. § (2)–(5) bekezdését a 32/2009. (X. 20.) EüM rendelet 12. § (4) bekezdés a) pontja hatályon kívül helyezte. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
-[^34]: A 12. § (7) bekezdése a 3/2014. (I. 16.) EMMI rendelet 17. § c)–d) pontja szerint módosított szöveg.
+[^34]: A 12. § (7) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 72. § c)–d) pontja szerint módosított szöveg.

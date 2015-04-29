@@ -1,6 +1,6 @@
 ## 4. § A vizsgálati alany jogai, biztonsága és jólléte elsőbbséget élveznek a tudomány és a társadalom érdekeivel szemben, ezért a kutatás alanyát érintő kockázatot a lehető legkisebb mértékűre kell korlátozni.
 
-5. § (1)[^15] Klinikai vizsgálatot végezni, vizsgálati készítményt emberen alkalmazni csak a GYEMSZI engedélyének birtokában lehet. Klinikai vizsgálat csak a GYEMSZI engedélyező határozatában meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai szerint folytatható. A klinikai vizsgálatot engedélyező határozatban meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai, továbbá a klinikai vizsgálat megkezdésének és ellenőrzésének előírásai foglalkozási szabálynak minősülnek.
+5. § (1)[^15] Klinikai vizsgálatot végezni, vizsgálati készítményt emberen alkalmazni csak az OGYÉI engedélyének birtokában lehet. Klinikai vizsgálat csak az OGYÉI engedélyező határozatában meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai szerint folytatható. A klinikai vizsgálatot engedélyező határozatban meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai, továbbá a klinikai vizsgálat megkezdésének és ellenőrzésének előírásai foglalkozási szabálynak minősülnek.
 
 (2) Klinikai vizsgálatba cselekvőképes személyt akkor lehet bevonni, ha biztosítottak az Eütv. 159. §-ának (1)–(3) bekezdéseiben meghatározott feltételek, illetve az e rendeletben előírt követelmények teljesítése.
 
@@ -24,7 +24,7 @@
 
 (12) A vizsgálati készítményeket és az esetlegesen az azok beadásra használt eszközöket a megbízónak térítésmentesen kell rendelkezésre bocsátania.
 
-[^15]: Az 5. § (1) bekezdése a 3/2014. (I. 16.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
+[^15]: Az 5. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 72. § b) pontja szerint módosított szöveg.
 [^16]: Az 5. § (4) bekezdése a 32/2009. (X. 20.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a 2009. október 21. napját megelőzően benyújtott, de el nem bírált vizsgálati kérelmek esetén a 32/2009. (X. 20.) EüM rendeletben foglaltakat kell alkalmazni.
 [^17]: Az 5. § (8) bekezdése a 16/2014. (III. 12.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.
 [^18]: Az 5. § (10) bekezdése a 9/2015. (II. 10.) EMMI rendelet 5. §-ával megállapított szöveg.
