@@ -2,4 +2,6 @@
 
 (2) A koordinátor megbízatása a megválasztásától számított két évig tart, tisztsége lejártát követően újraválasztható.
 
-(3) Az egészségügyért felelős miniszter (a továbbiakban: miniszter) a Választmányon, illetve a koordinátoron keresztül tart kapcsolatot az NBF-fel.
+(3)[^1] Az egészségügyért felelős miniszter (a továbbiakban: miniszter) a Választmányon, illetve a koordinátoron keresztül, az Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ (a továbbiakban: OBDK) közreműködésével tart kapcsolatot az NBF-fel.
+
+[^1]: A 4. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 142. §-ával megállapított szöveg.
