@@ -8,7 +8,7 @@
 
 (4)[^37] A külföldi ország járványügyi helyzete és a kiutazó személy veszélyeztetettségének figyelembevétele alapján egyéb oltások is végezhetők (pl. diftéria, tetanus kolera, hastífusz, gyermekbénulás, kanyaró, rubeola, mumpsz, hepatitis A és B, járványos agyhártyagyulladás elleni védőoltás, gamma-globulin).
 
-(5)[^38] A külföldre utazó személyek (2) és (4) bekezdésben említett védőoltásait a megyei népegészségügyi szakigazgatási szervek által működtetett oltóhelyek, az OEK nemzetközi oltóhelye és egyéb, az országos tisztifőorvos által a nemzetközi utazásokkal kapcsolatos védőoltások végzésére feljogosított oltóhelyek végzik.
+(5)[^38] A külföldre utazó személyek (2) és (4) bekezdésben említett védőoltásait a kormányhivatalok által működtetett oltóhelyek, az OEK nemzetközi oltóhelye és egyéb, az országos tisztifőorvos által a nemzetközi utazásokkal kapcsolatos védőoltások végzésére feljogosított oltóhelyek végzik.
 
 (6) Nemzetközi érvényű oltási bizonyítványt csak az (5) bekezdésben foglalt nemzetközi oltóhelyek állíthatnak ki.
 
@@ -19,6 +19,6 @@
 [^35]: A 8. §-t megelőző alcím a 21/2012. (IV. 4.) NEFMI rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^36]: A 8. § (3) bekezdését a 13/2008. (IV. 8.) EüM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
 [^37]: A 8. § (4) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § e) pontja szerint módosított szöveg.
-[^38]: A 8. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^38]: A 8. § (5) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 5. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § d) pontja szerint módosított szöveg.
 [^39]: A 8. § (7) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 25. § f) pontja szerint módosított szöveg.
 [^40]: A 8. § (8) bekezdése a 30/2009. (X. 14.) EüM rendelet 11. § (3) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 11. § (4) bekezdése alapján a háziorvosi szolgálat a betegforgalmi tevékenység külön jogszabály szerinti jelentése alapján, új influenzavírus elleni védőoltással történő immunizálásért oltásonként 200 forintra jogosult, melyet az Egészségügyi Minisztérium és az Országos Egészségbiztosítási Pénztár között létrejött megállapodásban foglaltaknak megfelelően az Országos Egészségbiztosítási Pénztár utal.

@@ -4,9 +4,9 @@
 
 a) a lakosság egészét vagy több megye lakosságát érinti, az országos tisztifőorvos,
 
-b)[^25] a megye lakosságának egészét vagy a megyén belül több település lakosságát érinti, akkor az országos tisztifőorvos által szakmailag jóváhagyott kockázatértékelés alapján a megyei tisztifőorvos,
+b)[^25] a megye lakosságának egészét vagy a megyén belül több település lakosságát érinti, akkor az országos tisztifőorvos által szakmailag jóváhagyott kockázatértékelés alapján a kormányhivatal,
 
-c)[^26] egy település lakosságát érinti, akkor az országos tisztifőorvos által szakmailag jóváhagyott kockázatértékelés alapján a járási tisztifőorvos
+c)[^26] egy település lakosságát érinti, akkor az országos tisztifőorvos által szakmailag jóváhagyott kockázatértékelés alapján a járási hivatal
 
 ## rendeli el.
 
@@ -60,8 +60,8 @@ b) védőoltást végző egészségügyi dolgozó számára a kézmosási, illet
 
 c) veszélyes hulladék kezeléséhez szükséges tárgyi feltétel.
 
-[^25]: A 6. § (1) bekezdés b) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^26]: A 6. § (1) bekezdés c) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 11/2013. (II. 7.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
+[^25]: A 6. § (1) bekezdés b) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § b) pontja szerint módosított szöveg.
+[^26]: A 6. § (1) bekezdés c) pontja a 21/2012. (IV. 4.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 17. § c) pontja szerint módosított szöveg.
 [^27]: A 6. § (2) bekezdés nyitó szövegrésze a 21/2012. (IV. 4.) NEFMI rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^28]: A 6. § (2) bekezdés k) pontját az 5/2009. (III. 20.) EüM rendelet 2. § (1) bekezdése iktatta be.
 [^29]: A 6. § (4) bekezdés a) pontja a 23/2014. (III. 27.) EMMI rendelet 2. §-ával megállapított szöveg.
