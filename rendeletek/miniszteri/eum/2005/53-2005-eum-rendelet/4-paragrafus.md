@@ -2,6 +2,6 @@
 
 4. § (1) E rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^2]
+(2)[^4]
 
-[^2]: A 4. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 87. pontja hatályon kívül helyezte.
+[^4]: A 4. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 87. pontja hatályon kívül helyezte.
