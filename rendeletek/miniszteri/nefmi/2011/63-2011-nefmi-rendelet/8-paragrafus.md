@@ -1,6 +1,6 @@
-8. § (1) A 6. § (1) bekezdés b) pontja szerinti továbbképzési forma esetén a továbbképzést szervező, a 6. § (1) bekezdés c)–d) pontja szerinti továbbképzési forma esetén az egészségügyi szakdolgozó juttatja el a minősítéshez szükséges adatokat a GYEMSZI-hez.
+8. § (1)[^26] A 6. § (1) bekezdés b) pontja szerinti továbbképzési forma esetén a továbbképzést szervező, a 6. § (1) bekezdés c)–d) pontja szerinti továbbképzési forma esetén az egészségügyi szakdolgozó juttatja el a minősítéshez szükséges adatokat az ENKK-hoz.
 
-(2)[^23]
+(2)[^27]
 
 (3) A 6. § (1) bekezdés b) és c) pontja szerinti továbbképzés pontértékének elismerése akkor lehetséges
 
@@ -16,7 +16,8 @@ ba) a továbbképzés a szakmai képzés biztosításához szükséges személyi
 
 bb) a továbbképzésről kiállított írásos igazolás annak tematikáját is tartalmazza.
 
-(4)[^24] A 6. § (1) bekezdés c)–d) pontja szerinti továbbképzések vonatkozásában a GYEMSZI az egészségügyi szakdolgozó részére a 2. mellékletben foglaltak figyelembevételével megállapítható továbbképzési pontokra vonatkozó javaslatát elektronikus úton megküldi az EEKH részére. Az egészségügyi dolgozó által adott továbbképzés teljesítésével megszerzett pontértékről a GYEMSZI javaslata alapján az EEKH elnöke dönt és arról az egészségügyi szakdolgozót a döntést követő 5 napon belül tájékoztatja.
+(4)[^28] A 6. § (1) bekezdés c) és d) pontja szerinti továbbképzések vonatkozásában az egészségügyi dolgozó által adott továbbképzés teljesítésével megszerzett pontértékről az ENKK elnöke dönt és arról az egészségügyi szakdolgozót a döntést követő 5 napon belül tájékoztatja.
 
-[^23]: A 8. § (2) bekezdését a 14/2014. (III. 10.) EMMI rendelet 20. § b) pontja hatályon kívül helyezte.
-[^24]: A 8. § (4) bekezdése a 14/2014. (III. 10.) EMMI rendelet 16. §-ával megállapított, a 4/2015. (I. 20.) EMMI rendelet 12. § d) pontja szerint módosított szöveg.
+[^26]: A 8. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 131. § f) pontja szerint módosított szöveg.
+[^27]: A 8. § (2) bekezdését a 14/2014. (III. 10.) EMMI rendelet 20. § b) pontja hatályon kívül helyezte.
+[^28]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 129. §-ával megállapított szöveg.

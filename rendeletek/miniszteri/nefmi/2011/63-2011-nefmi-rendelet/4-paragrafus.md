@@ -4,7 +4,7 @@
 
 a) a felsőoktatási intézmények orvos- vagy egészségtudományi karai,
 
-b) a GYEMSZI, és
+b)[^4] az ENKK, és
 
 c) a szakmacsoportos továbbképzések lefolytatására a (4) bekezdésben meghatározott akkreditáció útján jogosultságot szerzett
 
@@ -14,9 +14,9 @@ cb) iskolarendszerű egészségügyi szakképzést folytató intézmények – a
 
 ## végzik.
 
-(3)[^3] A továbbképzés szervezési jog megszerzésére irányuló kérelmet elektronikus úton az Egészségügyi Engedélyezési és Közigazgatási Hivatal (a továbbiakban: EEKH) részére évente egy alkalommal, minden év október 30-ig lehet benyújtani.
+(3)[^5] A továbbképzés szervezési jog megszerzésére irányuló kérelmet elektronikus úton az ENKK részére évente egy alkalommal, minden év október 30-ig lehet benyújtani.
 
-(4)[^4] A kötelező szakmacsoportos továbbképzés szervezésére való jogosultság (a továbbiakban: továbbképzés szervezési jog) odaítéléséről az EEKH elnöke a GYEMSZI és a Szakmai Kollégium véleményének kikérését követően minden év december 31-éig dönt.
+(4)[^6] A kötelező szakmacsoportos továbbképzés szervezésére való jogosultság (a továbbiakban: továbbképzés szervezési jog) odaítéléséről az ENKK elnöke a MESZK és a Szakmai Kollégium véleményének kikérését követően minden év december 31-éig dönt.
 
 (5) A továbbképzés szervezési jog megszerzésére irányuló kérelemnek tartalmaznia kell:
 
@@ -46,11 +46,12 @@ cc) a felsőfokú egészségügyi szakképzettséget, és
 
 d) a kérelmező egységes szerkezetbe foglalt hatályos létesítő okiratát a felsőoktatásról szóló törvény 1. számú mellékletében nevesített felsőoktatási intézmény kivételével.
 
-(7)[^5] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmények névsorát az EEKH és a GYEMSZI a honlapján közzéteszi.
+(7)[^7] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmények névsorát az ENKK a honlapján közzéteszi.
 
-(8)[^6] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmény köteles a jogosultság megszerzéséhez szükséges feltételeiben bekövetkezett bármely változást annak bekövetkeztétől számított 15 napon belül az EEKH részére elektronikus úton bejelenteni.
+(8)[^8] A kötelező szakmacsoportos továbbképzés szervezésére jogosult intézmény köteles a jogosultság megszerzéséhez szükséges feltételeiben bekövetkezett bármely változást annak bekövetkeztétől számított 15 napon belül az ENKK részére elektronikus úton bejelenteni.
 
-[^3]: A 4. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 23. §-ával megállapított, a 14/2014. (III. 10.) EMMI rendelet 19. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.
-[^4]: A 4. § (4) bekezdése a 14/2014. (III. 10.) EMMI rendelet 13. §-ával megállapított szöveg.
-[^5]: A 4. § (7) bekezdése a 14/2014. (III. 10.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
-[^6]: A 4. § (8) bekezdését a 4/2015. (I. 20.) EMMI rendelet 5. §-a iktatta be.
+[^4]: A 4. § (2) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 131. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (3) bekezdése a 2/2013. (I. 2.) EMMI rendelet 23. §-ával megállapított, a 4/2015. (I. 20.) EMMI rendelet 12. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 131. § c) pontja szerint módosított szöveg.
+[^6]: A 4. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 127. §-ával megállapított szöveg.
+[^7]: A 4. § (7) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 131. § d) pontja szerint módosított szöveg.
+[^8]: A 4. § (8) bekezdését a 4/2015. (I. 20.) EMMI rendelet 5. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 131. § e) pontja szerint módosított szöveg.
