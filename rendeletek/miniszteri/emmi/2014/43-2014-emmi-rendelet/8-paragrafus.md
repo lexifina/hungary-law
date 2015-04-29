@@ -1,3 +1,3 @@
-## 7. §[^3]
+## 7. §[^10]
 
-[^3]: A 7. §-t a 14. § hatályon kívül helyezte.
+[^10]: A 7. §-t a 14. § hatályon kívül helyezte.
