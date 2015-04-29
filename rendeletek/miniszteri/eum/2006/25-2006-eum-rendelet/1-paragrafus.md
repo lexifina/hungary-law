@@ -1,4 +1,4 @@
-1. § (1) E rendelet rendelkezéseit az Szt. 50/A. §-a (6) bekezdése szerinti szakhatósági eljárás során kell alkalmazni.
+1. § (1)[^1]
 
 (2) E rendelet alkalmazása szempontjából:
 
@@ -20,7 +20,7 @@ dd) vegyi eredetű, így különösen elemek, természetes körülmények közö
 
 e) gyógyszerforma: a gyógyszer meghatározott alkalmazási módjának, az adagolási egységnek megfelelő kialakítása;
 
-f)[^1] támogatott gyógyszer: az a forgalomba hozatali engedéllyel rendelkező gyógyszer, amelyet az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) a társadalombiztosítási támogatással forgalmazható gyógyszerek körébe befogadott;
+f)[^2] támogatott gyógyszer: az a forgalomba hozatali engedéllyel rendelkező gyógyszer, amelyet az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) a társadalombiztosítási támogatással forgalmazható gyógyszerek körébe befogadott;
 
 g) forgalomba hozatali engedély: az emberi alkalmazásra kerülő gyógyszerekről és egyéb a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 5. §-ának (1) bekezdése szerinti hatósági határozat;
 
@@ -46,4 +46,5 @@ kbd) ritka anyagcsere-betegségek gyógyítására szolgáló tápszer esetén: 
 
 l) ATC (Anatomic, Therapeutic, Chemical Classification): a gyógyszerek anatómiai, terápiás, illetve kémiai hatás szerinti osztályozása.
 
-[^1]: Az 1. § (2) bekezdés f) pontja a 10/2011. (III. 30.) NEFMI rendelet 57. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdését a 23/2015. (IV. 28.) EMMI rendelet 81. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (2) bekezdés f) pontja a 10/2011. (III. 30.) NEFMI rendelet 57. § a) pontja szerint módosított szöveg.

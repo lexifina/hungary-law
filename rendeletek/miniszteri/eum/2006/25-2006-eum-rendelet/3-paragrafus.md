@@ -6,6 +6,6 @@ b) amelynek forgalomba hozatali engedély jogosultja – a Gytv. 16. §-a (1) be
 
 c) amely árához megállapított támogatás megszüntetéséről az OEP – a törzskönyvezett gyógyszerek és a különleges táplálkozási igényt kielégítő tápszerek társadalombiztosítási támogatásba való befogadásának szempontjairól és a befogadás vagy a támogatás megváltoztatásáról szóló 32/2004. (IV. 26.) ESZCSM rendelet (a továbbiakban: Tr.) alapján – jogerős döntést hozott és a gyógyszer támogatással már nem rendelhető,
 
-d)[^3] amely a jogosult számára a Tr. 4. §-a (2) bekezdésére tekintettel egészségügyi jogcím alapján 100%-os támogatással rendelhető.
+d)[^5] amely a jogosult számára a Tr. 4. §-a (2) bekezdésére tekintettel egészségügyi jogcím alapján 100%-os támogatással rendelhető.
 
-[^3]: A 3. § d) pontja a 6/2007. (I. 31.) EüM rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^5]: A 3. § d) pontja a 6/2007. (I. 31.) EüM rendelet 6. § (4) bekezdése szerint módosított szöveg.
