@@ -18,9 +18,9 @@ g) az előírásoknak való megfelelés ellenőrzéséhez szükséges mintavéte
 
 (3)–(5)[^3]
 
-(6)[^4] Az új élelmiszerekre és élelmiszer-alapanyagokra vonatkozó rendelkezések figyelembevételével a különleges élelmiszer előállításához olyan anyagok is felhasználhatók, amelyek nem szerepelnek a 953/2009/EK bizottsági rendeletben. Az Országos Élelmezés- és Táplálkozástudományi Intézet (a továbbiakban: OÉTI) a gyártótól, import esetén az importálótól kérheti azokat a tudományos dokumentumokat, amelyek bizonyítják, hogy az adott anyag használható az elérni kívánt táplálkozási cél érdekében. Abban az esetben, ha a bizonyítékok könnyen hozzáférhető közleményben találhatók, elegendő a közleményre történő hivatkozás.
+(6)[^4] Az új élelmiszerekre és élelmiszer-alapanyagokra vonatkozó rendelkezések figyelembevételével a különleges élelmiszer előállításához olyan anyagok is felhasználhatók, amelyek nem szerepelnek a 953/2009/EK bizottsági rendeletben. Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) a gyártótól, import esetén az importálótól kérheti azokat a tudományos dokumentumokat, amelyek bizonyítják, hogy az adott anyag használható az elérni kívánt táplálkozási cél érdekében. Abban az esetben, ha a bizonyítékok könnyen hozzáférhető közleményben találhatók, elegendő a közleményre történő hivatkozás.
 
 [^1]: A 4. § (1) bekezdés bevezető szövegrésze a 23/2008. (V. 30.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: A 4. § (2) bekezdése az 53/2009. (XII. 30.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 4. § (3)–(5) bekezdését az 53/2009. (XII. 30.) EüM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^4]: A 4. § (6) bekezdése az 53/2009. (XII. 30.) EüM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § (6) bekezdése az 53/2009. (XII. 30.) EüM rendelet 1. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 56. § a) pontja szerint módosított szöveg.
