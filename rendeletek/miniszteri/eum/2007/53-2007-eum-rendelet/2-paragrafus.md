@@ -16,9 +16,9 @@ g) DOT (Days of Treatment): a terápiás napok száma;
 
 h) integrált informatikai rendszer: olyan számítógépes program, amely az egészségügyi szolgáltató tevékenységének több logikailag elhatárolható részét kiszolgálja, beleértve a gyógyszerrendelést támogató modult;
 
-i)[^5] nyilvántartási szám: a Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI) vagy az Európai Unió Bizottsága által a gyógyszer forgalomba hozatalra engedélyezése során adott azonosító szám.
+i)[^5] nyilvántartási szám: az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) vagy az Európai Unió Bizottsága által a gyógyszer forgalomba hozatalra engedélyezése során adott azonosító szám.
 
 [^2]: A 2. § a) pontja a 41/2014. (VI. 30.) EMMI rendelet 19. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § b) pontja a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^4]: A 2. § d) pontja a 47/2011. (VII. 27.) NEFMI rendelet 9. §-ával megállapított szöveg.
-[^5]: A 2. § i) pontja a 41/2014. (VI. 30.) EMMI rendelet 19. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § i) pontja a 23/2015. (IV. 28.) EMMI rendelet 93. § a) pontja szerint módosított szöveg.

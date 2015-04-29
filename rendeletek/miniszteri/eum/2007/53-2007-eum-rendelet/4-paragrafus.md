@@ -74,7 +74,7 @@ ag)[^28] közfinanszírozás alapjául elfogadott árához nyújtott társadalom
 
 ah) a gyógyszerek osztályozására vonatkozó külön jogszabály szerinti speciális jelzést,
 
-ai)[^29] a GYEMSZI által megállapított egyenértékűség e rendelet 2. számú melléklete szerinti kódját,
+ai)[^29] az OGYÉI által megállapított egyenértékűség e rendelet 2. számú melléklete szerinti kódját,
 
 aj)[^30] költséghatékonysági kategória e rendelet 2. számú melléklete szerinti kódját;
 
@@ -128,7 +128,7 @@ gc) amennyiben az szakorvosi javaslatra rendelhető, úgy ennek tényét, valami
 [^26]: A 4. § (4) bekezdés b) pontja a 67/2011. (XII. 13.) NEFMI rendelet 7. §-ával megállapított szöveg.
 [^27]: A 4. § (4) bekezdés f) pontját a 3/2014. 8I. 16.) EMMI rendelet 30. §-a iktatta be.
 [^28]: A 4. § (5) bekezdés a) pont ag) alpontja a 46/2008. (XII. 3.) EüM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^29]: A 4. § (5) bekezdés a) pont ai) alpontja a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése, a 41/2014. (VI. 30.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
+[^29]: A 4. § (5) bekezdés a) pont ai) alpontja a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 93. § b) pontja szerint módosított szöveg.
 [^30]: A 4. § (5) bekezdés a) pont aj) alpontja a 46/2008. (XII. 3.) EüM rendelet 6. § (3) bekezdése szerint módosított szöveg.
 [^31]: A 4. § (5) bekezdés e) pontját a 46/2008. (XII. 3.) EüM rendelet 2. § (2) bekezdése iktatta be.
 [^32]: A 4. § (5) bekezdés f) pontját a 46/2008. (XII. 3.) EüM rendelet 2. § (2) bekezdése iktatta be.
