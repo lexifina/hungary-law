@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-51-20-3
 | 2011-04-01 | 1997-51-20-3D.12 | 19/2009. (VI. 18.) EüM rendelet |
 | 2011-07-01 | 1997-51-20-3D.13 | 19/2010. (IV. 22.) EüM rendelet |
 | 2013-02-08 | 1997-51-20-3D.14 | 10/2011. (III. 30.) NEFMI rendelet |
+| 2015-04-29 | 1997-51-20-3D.15 | 23/2015. (IV. 28.) EMMI rendelet |
