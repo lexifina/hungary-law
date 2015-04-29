@@ -30,6 +30,6 @@ tekintetében.
 
 (8) A Türr István Képző és Kutató Intézet jogosult az R2.-ben meghatározott az oktatásért, a kultúráért, a szociál- és nyugdíjpolitikáért, a gyermekek és az ifjúság védelméért, a társadalmi esélyegyenlőség előmozdításáért, valamint a gyermek- és ifjúságpolitikáért felelős miniszter hatáskörébe tartozó szakképesítések tekintetében szakmai vizsga szervezésére.
 
-(9)[^1] A Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet az R1.-ben és az R2.-ben meghatározott, az egészségügyért felelős miniszter hatáskörébe tartozó valamennyi szakképesítés tekintetében jogosult szakmai vizsga szervezésére.
+(9)[^1] Az Egészségügyi Nyilvántartási és Képzési Központ az R1.-ben és az R2.-ben meghatározott, az egészségügyért felelős miniszter hatáskörébe tartozó valamennyi szakképesítés tekintetében jogosult szakmai vizsga szervezésére.
 
-[^1]: Az 1. § (9) bekezdését a 14/2014. (III. 10.) EMMI rendelet 31. §-a iktatta be.
+[^1]: Az 1. § (9) bekezdését a 14/2014. (III. 10.) EMMI rendelet 31. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 144. §-a szerint módosított szöveg.
