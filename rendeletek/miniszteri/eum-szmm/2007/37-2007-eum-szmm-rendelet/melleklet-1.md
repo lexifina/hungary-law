@@ -18,7 +18,7 @@ I. Szálláshelyek üzemeltetésének közös egészségügyi szabályai
 
 A tájékoztatásnak ki kell terjednie a nem szokványos viselkedésű vadonélő állatok simogatásával, érintésével kapcsolatos veszélyekre is.
 
-Amennyiben állatharapás, marás vagy tömeges darázscsípés történik – az orvosi ellátás biztosításán túl –, a harapás, a marás vagy a csípés tényét azonnal jelenteni kell a tábor helye szerint illetékes népegészségügyi szakigazgatási szervnek.
+Amennyiben állatharapás, marás vagy tömeges darázscsípés történik – az orvosi ellátás biztosításán túl –, a harapás, a marás vagy a csípés tényét azonnal jelenteni kell a tábor helye szerint illetékes kormányhivatalnak.
 
 II. Üdülő, gyermeküdülő, gyermek- és ifjúsági tábor, telepített sátortábor üzemeltetésének különös egészségügyi szabályai
 
@@ -57,4 +57,4 @@ Hidrogeológiailag érzékeny területeken a helyi szikkasztást, emésztő- és
 6. A nomád táborozás befejezése után a táborhelyet legalább olyan tisztasági állapotban kell elhagyni, mint amilyenben az a táborozás megkezdésekor volt.
 
 [^7]: Az 1. számú melléklet e rendelet 6. § (2) bekezdése alapján 2007. szeptember 1-jén lép hatályba.
-[^8]: Az 1. számú melléklet I. fejezet 6. pontja a 10/2011. (III. 30.) NEFMI rendelet 60. § (2) bekezdése szerint módosított szöveg.
+[^8]: Az 1. számú melléklet I. pont 6. alpontja a 10/2011. (III. 30.) NEFMI rendelet 60. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 91. § c) pontja szerint módosított szöveg.
