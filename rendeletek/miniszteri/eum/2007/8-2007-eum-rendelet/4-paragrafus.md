@@ -1,4 +1,4 @@
-4. § (1) Az EKH részére a 2. számú melléklet szerinti formanyomtatványon benyújtott, a szakmai gyakorlaton alapuló elismerés iránti kérelemhez az alábbi dokumentumokat kell csatolni:
+4. § (1)[^3] Az ENKK részére a 2. számú melléklet szerinti formanyomtatványon benyújtott, a szakmai gyakorlaton alapuló elismerés iránti kérelemhez az alábbi dokumentumokat kell csatolni:
 
 a) a kérelmező személyazonosságát igazoló okirat – 3 hónapnál nem régebbi – hiteles másolatát;
 
@@ -10,6 +10,7 @@ Az a)–c) pontban foglaltakon túlmenően a kérelmező mindazon iratokat csato
 
 (2) Az (1) bekezdés b) pontja szerinti tevékenységvégzési igazolás másolatát az azt kiállító hatóság, illetve szerv is hitelesítheti.
 
-(3) Amennyiben a szakmai gyakorlat alapján elismertetni kívánt tevékenység külön jogszabály[^1] szerinti, nagyon mérgező termékek felhasználását is igényli, az (1) bekezdés b) pontja szerinti igazolásnak tartalmaznia kell a kérelmező által a más tagállamban korábban végzett szakmai tevékenységek megnevezését, és az azok során jogszerűen felhasznált mérgező termékek körét.
+(3) Amennyiben a szakmai gyakorlat alapján elismertetni kívánt tevékenység külön jogszabály[^4] szerinti, nagyon mérgező termékek felhasználását is igényli, az (1) bekezdés b) pontja szerinti igazolásnak tartalmaznia kell a kérelmező által a más tagállamban korábban végzett szakmai tevékenységek megnevezését, és az azok során jogszerűen felhasznált mérgező termékek körét.
 
-[^1]: A mérgező termékek felhasználását igénylő szakmai tevékenységek szakmai gyakorlaton alapuló elismerése szempontjából nagyon mérgezőnek minősülő termékekről, illetve irtószerekről szóló EüM–FVM–KvVM együttes rendelet.
+[^3]: A 4. § (1) bekezedés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 83. § b) pontja szerint módosított szöveg.
+[^4]: A mérgező termékek felhasználását igénylő szakmai tevékenységek szakmai gyakorlaton alapuló elismerése szempontjából nagyon mérgezőnek minősülő termékekről, illetve irtószerekről szóló EüM–FVM–KvVM együttes rendelet.
