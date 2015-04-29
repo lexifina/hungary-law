@@ -16,7 +16,7 @@ a) kialakítja a szükséggyógyintézet szervezeti és működési szabályzat�
 
 b) meghatározza a szükséggyógyintézet telepítéséhez és működtetéséhez minimálisan szükséges infrastruktúra biztosítására vonatkozó igényeket, valamint
 
-c) az (1) bekezdés b) pontja szerinti igényeket a megyei népegészségügyi szakigazgatási szerv vezetője útján megküldi a megyei, fővárosi védelmi bizottság részére.
+c)[^12] az (1) bekezdés b) pontja szerinti igényeket a megyei kormányhivatal vezetője útján megküldi a megyei, fővárosi védelmi bizottság részére.
 
 (3) A szükséggyógyintézet telepítésére kijelölt egészségügyi szolgáltató vezetője a honvédelmi vonatkozású különleges jogrendi időszakra történő felkészülés érdekében
 
@@ -25,3 +25,5 @@ a) a megyei, fővárosi védelmi bizottsággal együttműködve gondoskodik a sz
 b) felügyeli a szükséggyógyintézet szakmai tevékenységét és működtetését, valamint
 
 c) meghatározza az egészségügyi szolgáltató és a szükséggyógyintézet közötti kapcsolattartás és információcsere rendjét.
+
+[^12]: A 10. § (2) bekezdés c) pontja a 23/2015. (IV. 28.) EMMI rendelet 153. § c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 9. § (1) A kórház vezetője a miniszter által
 
-a) meghatározott, a kapacitásra és működésre – különösen az ágyszámra, műtéti kapacitásra, a honvédelmi vonatkozású különleges jogrendi időszakban felmerülő többletigényekre – vonatkozó adatokat szolgáltat a megyei népegészségügyi szakigazgatási szerv vezetője részére, valamint
+a)[^10] meghatározott, a kapacitásra és működésre – különösen az ágyszámra, műtéti kapacitásra, a honvédelmi vonatkozású különleges jogrendi időszakban felmerülő többletigényekre – vonatkozó adatokat szolgáltat a megyei kormányhivatal vezetője részére, valamint
 
 b) megadott szempontok szerint tervezi a honvédelmi vonatkozású különleges jogrendi időszakban történő működés többletigényeit és költségeit.
 
@@ -12,7 +12,7 @@ b) a polgári védelmi vonatkozású elsötétítési terv elkészítéséért, 
 
 c) a kórház területén lévő óvóhely rendeltetésű építmény használható állapotban tartásáért.
 
-(3) A kórház vezetője évente értékeli a honvédelmi feladatok végrehajtását és arról a tárgyévet követő év január 31-ig írásban beszámol a megyei népegészségügyi szakigazgatási szerv vezetőjének.
+(3)[^11] A kórház vezetője évente értékeli a honvédelmi feladatok végrehajtását és arról a tárgyévet követő év január 31-ig írásban beszámol a megyei kormányhivatal vezetőjének.
 
 (4) A kórház vezetője honvédelmi vonatkozású különleges jogrendi időszakban
 
@@ -23,3 +23,6 @@ b) gondoskodik
 ba) a kórház épületeinek földről és levegőből is jól látható vöröskereszttel való jelöléséről, valamint
 
 bb) az óvóhely célú építmény rendeltetésszerű használhatóságának fenntartásáról.
+
+[^10]: A 9. § (1) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 153. § c) pontja szerint módosított szöveg.
+[^11]: A 9. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 153. § c) pontja szerint módosított szöveg.
