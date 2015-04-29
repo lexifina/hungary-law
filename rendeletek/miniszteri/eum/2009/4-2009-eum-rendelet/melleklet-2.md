@@ -44,7 +44,7 @@
 
 ## 7.3. Az eszközt úgy kell kialakítani és gyártani, hogy biztonságosan lehessen alkalmazni azokkal az anyagokkal, közegekkel és gázokkal, amelyekkel a rendes használat, illetve a rutinszerű eljárások során érintkezésbe kerül. Ha az eszköz gyógyszerek beadására készült, akkor úgy kell kialakítani és gyártani, hogy az adott gyógyszerekkel kompatibilis legyen, figyelemmel a gyógyszerre vonatkozó rendelkezésekre és korlátozásokra, valamint az alkalmazási cél szerinti teljesítőképességére is.
 
-## 7.4.[^65] Ha az eszköz szerves részét képezi olyan anyag, amely önmagában használva – a Gytv. meghatározása értelmében – gyógyszernek tekinthető, és alkalmas arra, hogy az eszköz hatásához képest kiegészítő jelleggel hasson az emberi szervezetre, az anyag minőségét, biztonságos voltát és hasznosságát az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet 1. számú mellékletében meghatározott módszerek alapján kell tanúsítani.
+## 7.4.[^99] Ha az eszköz szerves részét képezi olyan anyag, amely önmagában használva – a Gytv. meghatározása értelmében – gyógyszernek tekinthető, és alkalmas arra, hogy az eszköz hatásához képest kiegészítő jelleggel hasson az emberi szervezetre, az anyag minőségét, biztonságos voltát és hasznosságát az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet 1. számú mellékletében meghatározott módszerek alapján kell tanúsítani.
 
 ## Az első bekezdésben említett anyagok vonatkozásában a kijelölt szervezet miután meggyőződött az anyagnak, mint eszköz részének hasznosságáról – figyelembe véve az eszköz rendeltetését – tudományos véleményt kér a tagállamok által kijelölt illetékes hatóságok egyikétől vagy az – elsősorban a 726/2004/EK rendelet szerint – Európai Gyógyszerügynökségtől (a továbbiakban: EMA) az anyag minőségét és biztonságos voltát – beleértve az anyag eszközbe történő beépítésének klinikai előny/kockázat arányát – illetően. Véleményezéskor az illetékes hatóság vagy az EMA a gyártási folyamatot, és az anyagnak az eszközbe történt beépítésének hasznosságára vonatkozó, a kijelölt szervezet által megállapított adatokat veszi figyelembe.
 
@@ -312,7 +312,7 @@
 
 ## A szoftvert tartalmazó eszköz vagy az önmagában orvosi szoftvernek minősülő eszköz vonatkozásában a szoftvert a technika jelenlegi állásának megfelelő módszerekkel kell validáltatni, figyelembe véve a fejlesztés élettartamára, a kockázatkezelésre, a validálásra és ellenőrzésre vonatkozó alapelveket.
 
-## 10.[^66] Ha az eszköz szerves részét alkotja olyan anyag, amely, ha önmagában használják – a Gytv. meghatározása szerint – gyógyszernek tekinthető, és amely anyag alkalmas arra, hogy az eszköz hatásához képest kiegészítő jelleggel hasson az emberi szervezetre, az anyag minőségét, biztonságos voltát és hasznosságát az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet 1. számú mellékletében meghatározott módszerek alapján kell tanúsítani.
+## 10.[^100] Ha az eszköz szerves részét alkotja olyan anyag, amely, ha önmagában használják – a Gytv. meghatározása szerint – gyógyszernek tekinthető, és amely anyag alkalmas arra, hogy az eszköz hatásához képest kiegészítő jelleggel hasson az emberi szervezetre, az anyag minőségét, biztonságos voltát és hasznosságát az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló 52/2005. (XI. 18.) EüM rendelet 1. számú mellékletében meghatározott módszerek alapján kell tanúsítani.
 
 ## Az első bekezdésben említett anyagok tekintetében, a kijelölt szervezet, miután meggyőződött az anyagnak, mint eszköz részének hasznosságáról, figyelembe véve az eszköz rendeltetését, tudományos véleményt kér a tagállam által kijelölt illetékes hatóságok egyikétől, vagy a 726/2004/EK rendelettel összhangban az EMA-tól az anyag minőségét és biztonságos voltát illetően, ideértve az anyagnak az eszközbe történő beépítésekor jelentkező klinikai előny/kockázat arányt. Véleményezéskor az illetékes hatóság vagy az EMA a gyártási folyamatot és az anyagnak az eszközbe történt beépítésének hasznosságára vonatkozó, a kijelölt szervezet által meghatározott adatokat veszi figyelembe.
 
@@ -412,5 +412,5 @@
 
 2. melléklet a 4/2009. (III. 17.) EüM rendelethez
 
-[^65]: Az 1. melléklet „A.” II. rész 7. pont 7.4. alpontja a 10/2012. (VII. 19.) EMMI rendelet 26. § f) pontja, az 56/2013. (VII. 31.) EMMI rendelet 42. § a)–d) pontja szerint módosított szöveg.
-[^66]: Az 1. melléklet „B.” II. rész 10. pontja a 10/2012. (VII. 19.) EMMI rendelet 26. § f) pontja, az 56/2013. (VII. 31.) EMMI rendelet 42. § e)–h) pontja szerint módosított szöveg.
+[^99]: Az 1. melléklet „A.” II. rész 7. pont 7.4. alpontja a 10/2012. (VII. 19.) EMMI rendelet 26. § f) pontja, az 56/2013. (VII. 31.) EMMI rendelet 42. § a)–d) pontja szerint módosított szöveg.
+[^100]: Az 1. melléklet „B.” II. rész 10. pontja a 10/2012. (VII. 19.) EMMI rendelet 26. § f) pontja, az 56/2013. (VII. 31.) EMMI rendelet 42. § e)–h) pontja szerint módosított szöveg.

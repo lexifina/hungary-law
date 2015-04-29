@@ -1,4 +1,4 @@
-## 26/A. §[^55] A Hivatal a kijelölt szervezet által a 14. § (7) bekezdése alapján megküldött adatokat, a 17. § (1)–(2) bekezdése szerint nyilvántartásba vett adatokat, a 21/A. § (4) bekezdése szerinti bejelentéseket és a vizsgálatok eredményét, valamint a 22. § (5) bekezdése szerint közzétett adatokat továbbítja az Európai Adatbankba.
+## 26/A. §[^88] Az ENKK a kijelölt szervezet által a 14. § (7) bekezdése alapján megküldött adatokat, a 17. § (1)–(2) bekezdése szerint nyilvántartásba vett adatokat, a 21/A. § (4) bekezdése szerinti bejelentéseket és a vizsgálatok eredményét, valamint a 22. § (5) bekezdése szerint közzétett adatokat továbbítja az Európai Adatbankba.
 
 ## Időszakos felülvizsgálat
 
@@ -6,6 +6,7 @@
 
 (2) A felülvizsgálat gyakoriságát és a felülvizsgálattal kapcsolatos egyéb előírásokat a 13. melléklet határozza meg.
 
-(3) A felülvizsgálatot a Hivatal által erre feljogosított szerv a Hivatal által meghatározott és közzétett követelményrendszer alapján végezheti el.
+(3)[^89] A felülvizsgálatot az ENKK által erre feljogosított szerv az ENKK által meghatározott és közzétett követelményrendszer alapján végezheti el.
 
-[^55]: A 26/A. §-t a 29/2011. (VI. 7.) NEFMI rendelet 20. §-a iktatta be.
+[^88]: A 26/A. §-t a 29/2011. (VI. 7.) NEFMI rendelet 20. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 105. § d) pontja szerint módosított szöveg.
+[^89]: A 27. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.

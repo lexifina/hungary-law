@@ -30,9 +30,9 @@
 
 ## A gyártó – a kijelölt szervezet felelősségére – a gyártás során feltüntetheti a kijelölt szervezet azonosítási számát.
 
-## 7. Adminisztratív előírások
+## 7.[^107] Adminisztratív előírások
 
-## A gyártónak vagy meghatalmazott képviselőjének az utolsó termék gyártásától számított legalább öt évig, beültethető eszközök esetén legalább tizenöt évig a Hivatal rendelkezésére kell tudni bocsátania:
+## A gyártónak vagy meghatalmazott képviselőjének az utolsó termék gyártásától számított legalább öt évig, beültethető eszközök esetén legalább tizenöt évig az ENKK rendelkezésére kell tudni bocsátania:
 
 ## a) az EK megfelelőségi nyilatkozatot;
 
@@ -85,3 +85,5 @@
 ## 7. Amikor a 2. § (1) bekezdés e) pontjában említett eszközökből elkészül egy sorozat, a gyártó tájékoztatja a kijelölt szervezetet a sorozat elkészültéről, és elküldi a kijelölt szervezetnek a hivatalos tanúsítványt az elkészült eszközsorozatban használt emberi vérkészítményről, amelyet állami laboratórium vagy tagállam által, a 2001/83/EK irányelv 114. cikk (2) bekezdésének megfelelően erre a célra kijelölt laboratórium ad ki.
 
 5. melléklet a 4/2009. (III. 17.) EüM rendelethez
+
+[^107]: A 4. melléklet A. pont 7. alpontja a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.

@@ -22,7 +22,7 @@
 
 ## 1.4. A klinikai értékelést és annak dokumentációját folyamatosan naprakésszé kell tenni az eszközről a forgalomba hozatal után szerzett adatokkal. Amennyiben a gyártó úgy ítéli meg, hogy nincs szükség a forgalomba hozatalt követő klinikai utánkövetésre a piacfelügyeleti terv részeként, ezt megfelelően indokolni és dokumentálni kell.
 
-## 1.5. Amennyiben a Hivatal úgy ítéli meg, hogy az alapvető követelményeknek való megfelelés klinikai adatokon alapuló bizonyítása nem megfelelő, a szankciót megfelelően indokolni kell, különösképpen a kockázatkezelés eredményének, továbbá az eszköz-test kölcsönhatás sajátosságainak, a szándékolt klinikai teljesítőképességének és a gyártó állításának figyelembevételével. Amennyiben az alapvető követelményeknek való megfelelés bizonyítása kizárólag a teljesítőképesség-értékelés, a terméksorozat vizsgálata és az orvosi alkalmazás előtti értékelés alapján történik, azt kellően meg kell indokolni.
+## 1.5.[^118] Amennyiben az ENKK úgy ítéli meg, hogy az alapvető követelményeknek való megfelelés klinikai adatokon alapuló bizonyítása nem megfelelő, a szankciót megfelelően indokolni kell, különösképpen a kockázatkezelés eredményének, továbbá az eszköz-test kölcsönhatás sajátosságainak, a szándékolt klinikai teljesítőképességének és a gyártó állításának figyelembevételével. Amennyiben az alapvető követelményeknek való megfelelés bizonyítása kizárólag a teljesítőképesség-értékelés, a terméksorozat vizsgálata és az orvosi alkalmazás előtti értékelés alapján történik, azt kellően meg kell indokolni.
 
 ## B. Az aktív beültethető eszközök esetében
 
@@ -46,8 +46,12 @@
 
 ## 1.4. A klinikai értékelést és annak dokumentációját folyamatosan naprakésszé kell tenni az eszközről a forgalomba hozatal után szerzett adatokkal. Amennyiben a gyártó úgy ítéli meg, hogy nincs szükség a forgalomba hozatalt követő klinikai utánkövetésre a piacfelügyeleti terv részeként, ezt megfelelően indokolni és dokumentálni kell.
 
-## 1.5. Amennyiben a Hivatal úgy ítéli meg, hogy az alapvető követelményeknek való megfelelés klinikai adatokon alapuló bizonyítása nem megfelelő, a szankciót megfelelően indokolni kell, különösképpen a kockázatkezelés eredményének, továbbá az eszköz-test kölcsönhatás sajátosságainak, a szándékolt klinikai teljesítőképességének és a gyártó állításának figyelembevételével. Amennyiben az alapvető követelményeknek való megfelelés bizonyítása kizárólag a teljesítőképesség-értékelés, a terméksorozat vizsgálata és az orvosi alkalmazás előtti értékelés alapján történik, azt kellően meg kell indokolni.
+## 1.5.[^119] Amennyiben az ENKK úgy ítéli meg, hogy az alapvető követelményeknek való megfelelés klinikai adatokon alapuló bizonyítása nem megfelelő, a szankciót megfelelően indokolni kell, különösképpen a kockázatkezelés eredményének, továbbá az eszköz-test kölcsönhatás sajátosságainak, a szándékolt klinikai teljesítőképességének és a gyártó állításának figyelembevételével. Amennyiben az alapvető követelményeknek való megfelelés bizonyítása kizárólag a teljesítőképesség-értékelés, a terméksorozat vizsgálata és az orvosi alkalmazás előtti értékelés alapján történik, azt kellően meg kell indokolni.
 
-## 1.6. A klinikai értékelés során az adatokat a Hivatal az adatvédelmi előírások betartásával kezeli.
+## 1.6.[^120] A klinikai értékelés során az adatokat az ENKK az adatvédelmi előírások betartásával kezeli.
 
 11. melléklet a 4/2009. (III. 17.) EüM rendelethez
+
+[^118]: A 10. melléklet A. pont 1.5. alpontja a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.
+[^119]: A 10. melléklet B. pont 1.5. alpontja a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.
+[^120]: A 10. melléklet B. pont 1.6. alpontja a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja szerint módosított szöveg.

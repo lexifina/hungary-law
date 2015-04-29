@@ -1,4 +1,4 @@
-31. §[^63] (1) Ez a rendelet
+31. §[^97] (1) Ez a rendelet
 
 a) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 1990. június 20-i 90/385/EGK tanácsi irányelvnek,
 
@@ -24,9 +24,9 @@ a) a fejlett terápiás gyógyszerkészítmények engedélyezéséről, valamint
 
 b) az orvostechnikai eszközök európai adatbankjáról (EUDAMED) szóló 2010. április 19-i 2010/227/EU bizottsági határozat
 
-c)[^64] a 90/385/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított aktív beültethető orvostechnikai eszközök vonatkozásában és a 93/42/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított orvostechnikai eszközök vonatkozásában előírt követelmények tekintetében meghatározott különleges követelményekről szóló 2012. augusztus 8-i 722/2012/EU bizottsági rendelet
+c)[^98] a 90/385/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított aktív beültethető orvostechnikai eszközök vonatkozásában és a 93/42/EGK tanácsi irányelv tekintetében az állati szövetek felhasználásával előállított orvostechnikai eszközök vonatkozásában előírt követelmények tekintetében meghatározott különleges követelményekről szóló 2012. augusztus 8-i 722/2012/EU bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^63]: A 31. §-t a 29/2011. (VI. 7.) NEFMI rendelet 22. §-a iktatta be.
-[^64]: A 31. § (2) bekezdés c) pontját az 56/2013. (VII. 31.) EMMI rendelet 40. §-a iktatta be.
+[^97]: A 31. §-t a 29/2011. (VI. 7.) NEFMI rendelet 22. §-a iktatta be.
+[^98]: A 31. § (2) bekezdés c) pontját az 56/2013. (VII. 31.) EMMI rendelet 40. §-a iktatta be.
