@@ -68,6 +68,6 @@
 
 ## A *-gal megjelölt adatok megadása nem kötelező.
 
-3. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^35]
+3. melléklet a 30/2008. (VII. 25.) EüM rendelethez[^48]
 
-[^35]: A 3. mellékletet az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés e) pontja hatályon kívül helyezte.
+[^48]: A 3. mellékletet az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés e) pontja hatályon kívül helyezte.

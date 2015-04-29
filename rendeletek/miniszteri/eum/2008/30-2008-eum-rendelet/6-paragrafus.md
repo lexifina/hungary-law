@@ -1,8 +1,8 @@
-6. § (1)[^10]
+6. § (1)[^12]
 
-(2)[^11] Az EEKH az elismerési eljárás során szakértőként
+(2)[^13] Az ENKK az elismerési eljárás során szakértőként
 
-a)[^12] az Egészségügyi Szakképzési és Továbbképzési Tanácsot,
+a)[^14] az Egészségügyi Szakképzési és Továbbképzési Tanácsot,
 
 b) az elismertetni kívánt oklevél által tanúsított képzésre jogosult oktatási intézményt, vagy
 
@@ -10,16 +10,17 @@ c) az adott szakterületen legalább tízéves egészségügyi oktatási vagy gy
 
 ## rendelheti ki.
 
-(3) A szakértő az EEKH felkérésében foglaltak szerint az elismeréssel összefüggésben a kérelmező szakmai gyakorlata, az igazolt tanulmányi idő, tanulmányi követelmények, valamint a központi, illetve a képzési program megfelelőségét vizsgálja.
+(3)[^15] A szakértő az ENKK felkérésében foglaltak szerint az elismeréssel összefüggésben a kérelmező szakmai gyakorlata, az igazolt tanulmányi idő, tanulmányi követelmények, valamint a központi, illetve a képzési program megfelelőségét vizsgálja.
 
-(4)[^13]
+(4)[^16]
 
-(5)[^14] A szakértőt a szakvélemény elkészítéséért a kirendelésekor irányadó köztisztviselői illetményalap 15%-ának megfelelő összegű szakértői díj illeti meg.
+(5)[^17] A szakértőt a szakvélemény elkészítéséért a kirendelésekor irányadó köztisztviselői illetményalap 15%-ának megfelelő összegű szakértői díj illeti meg.
 
 (6) A (2) bekezdés c) pontja szerinti gyakorlati időként a kérelmező által elismertetni kívánt oklevél szerint érintett szakterületen egészségügyi tevékenység végzésére irányuló jogviszony időtartama vehető figyelembe azzal, hogy 2004. május 1-jét követő időszak vonatkozásában egészségügyi tevékenység végzésére irányuló jogviszonyként kizárólag az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 7. § (2) bekezdése szerinti jogviszonyban töltött időtartamot lehet figyelembe venni.
 
-[^10]: A 6. § (1) bekezdését az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^11]: A 6. § (2) bekezdés bevezető szövegrésze az 50/2009. (XII. 30.) EüM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^12]: A 6. § (2) bekezdés a) pontja a 2/2013. (I. 2.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^13]: A 6. § (4) bekezdését az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés b) pontja hatályon kívül helyezte.
-[^14]: A 6. § (5) bekezdés második mondatát az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés c) pontja hatályon kívül helyezte.
+[^12]: A 6. § (1) bekezdését az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^13]: A 6. § (2) bekezdés nyitó szövegrésze az 50/2009. (XII. 30.) EüM rendelet 2. § (3) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 98. § b) pontja szerint módosított szöveg.
+[^14]: A 6. § (2) bekezdés a) pontja a 2/2013. (I. 2.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^15]: A 6. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 98. § b) pontja szerint módosított szöveg.
+[^16]: A 6. § (4) bekezdését az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^17]: A 6. § (5) bekezdés második mondatát az 50/2009. (XII. 30.) EüM rendelet 6. § (3) bekezdés c) pontja hatályon kívül helyezte.
