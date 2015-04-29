@@ -4,49 +4,43 @@
 
 | 1. | Adatkör | Adatszolgáltató | Gyakoriság |
 
-| 2. | Az Eütv. 114. § (2) bekezdés a) pontja szerinti adatok | EEKH | folyamatos, a változást követően haladéktalanul |
+| 2. | Az Eütv. 114. § (2) bekezdés a) pontja szerinti adatok | ENKK | folyamatos, a változást követően haladéktalanul |
 
-| 3. | Az Eütv. 114. § (2) bekezdés b) pontja szerinti adatok közül az egészségügyi szakdolgozókra vonatkozó adatok | Gyógyszerészeti és Egészségügyi Minőség- és Szervezet-fejlesztési Intézet (a továbbiakban: GYEMSZI) | havonta |
+| 3. | Az Eütv. 114. § (2) bekezdés b) pontja szerinti adatok | ENKK | havonta |
 
-| 4. | Az Eütv. 114. § (2) bekezdés b) pontja szerinti adatok közül az orvosokra, fogorvosokra, gyógyszerészekre, valamint egyéb egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezőkre vonatkozó adatok | orvos- és egészségtudományi képzést folytató egyetemek (a továbbiakban: egyetem) | havonta |
+| 4. | Az Eütv. 114. § (2) bekezdés c) pontja szerinti adatok | ENKK | havonta |
 
-| 5. | A szakképzésről szóló törvény alapján egészségügyi szakképesítést szerzettek, valamint a képzésben részt vevők számára és szakképesítés szerinti megoszlására vonatkozó adatok | GYEMSZI | havonta |
+| 5. | Az Eütv. 114. § (2) bekezdés d) pontja szerinti adatok | Oktatási Hivatal | félévente |
 
-| 6. | A nem konvencionális eljárások körébe tartozó szakképesítést szerzettek, valamint a képzésben részt vevők számára és szakképesítés szerinti megoszlására vonatkozó adatok | GYEMSZI | havonta |
+| 6. | Az Eütv. 114. § (2) bekezdés e) pontja szerinti adatok | ENKK | havonta |
 
-| 7. | Az Eütv. 114. § (2) bekezdés d) pontja szerinti adatok | Oktatási Hivatal | félévente |
+| 7. | Az Eütv. 114. § (2) bekezdés f) pontja szerinti adatok | egyetemek | félévente |
 
-| 8. | Az államilag támogatott egészségügyi felsőfokú szakirányú szakképzésben résztvevőkre – ideértve a szakképzésüket 2010. január 1-jét megelőzően megkezdőket is – vonatkozó, az Eütv. 116/A. § (5) bekezdése szerinti adatok | EEKH | havonta |
+| 8. | Az Eütv. 114. § (2) bekezdés g) pontja szerinti adatok | egyetemek | félévente |
 
-| 9. | A szakvizsgát tett személyekre vonatkozó, az Eütv. 117. § (6) bekezdés a) és d) pontja szerinti adatok | GYEMSZI | folyamatos, a változást követően haladéktalanul |
+| 9. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az egészségügyi szakdolgozók továbbképzéseire vonatkozó adatok | ENKK | havonta |
 
-| 10. | Az Eütv. 114. § (2) bekezdés f) pontja szerinti adatok | egyetemek | félévente |
+| 10. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az orvosok, fogorvosok és gyógyszerészek továbbképzéseire vonatkozó adatok | egyetemek | havonta |
 
-| 11. | Az Eütv. 114. § (2) bekezdés g) pontja szerinti adatok | egyetemek | félévente |
+| 11. | Az Eütv. 114. § (2) bekezdés i) pontja szerinti adatok | ENKK | negyedévente |
 
-| 12. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az egészségügyi szakdolgozók továbbképzéseire vonatkozó adatok | GYEMSZI | havonta |
+| 12. | Az Eütv. 114. § (2) bekezdés j) pontja szerinti adatok | Nemzeti Foglalkoztatási Szolgálat | havonta |
 
-| 13. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az orvosok, fogorvosok és gyógyszerészek továbbképzéseire vonatkozó adatok | egyetemek | havonta |
+| 13. |  | Közigazgatási és Igazságügyi Hivatal | havonta |
 
-| 14. | Az Eütv. 114. § (2) bekezdés i) pontja szerinti adatok | EEKH | negyedévente |
+| 14. | Az Eütv. 114. § (2) bekezdés k) pontja szerinti adatok | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | negyedévente |
 
-| 15. | Az Eütv. 114. § (2) bekezdés j) pontja szerinti adatok | Nemzeti Foglalkoztatási Szolgálat | havonta |
+| 15. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatok | ENKK | évente |
 
-| 16. | Közigazgatási és Igazságügyi Hivatal | havonta |
+| 16. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó egészségügyi állás- és létszámkimutatásra vonatkozó adatok | Központi Statisztikai Hivatal | évente |
 
-| 17. | Az Eütv. 114. § (2) bekezdés k) pontja szerinti adatok | GYEMSZI | negyedévente |
+| 17. | Az Eütv. 114. § (2) bekezdés m) pontja szerinti adatok | Országos Tisztifőorvosi Hivatal | havonta |
 
-| 18. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatok | GYEMSZI | évente |
+| 18. | Az Eütv. 114. § (2) bekezdés n) pontja szerinti adatok | Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) | félévente |
 
-| 19. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó egészségügyi állás- és létszámkimutatásra vonatkozó adatok | Központi Statisztikai Hivatal | évente |
+| 19. | Az Eütv. 114. § (2) bekezdés o) pontja szerinti adatok | OEP | havonta |
 
-| 20. | Az Eütv. 114. § (2) bekezdés m) pontja szerinti adatok | Országos Tisztifőorvosi Hivatal | havonta |
-
-| 21. | Az Eütv. 114. § (2) bekezdés n) pontja szerinti adatok | Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) | félévente |
-
-| 22. | Az Eütv. 114. § (2) bekezdés o) pontja szerinti adatok | OEP | havonta |
-
-| 23. | Az Eütv. 114. § (2) bekezdés p) pontja szerinti adatok | GYEMSZI | havonta |
+| 20. | Az Eütv. 114. § (2) bekezdés p) pontja szerinti adatok | OEP | havonta |
 
 2. melléklet a 2/2014. (I. 16.) EMMI rendelethez
 
