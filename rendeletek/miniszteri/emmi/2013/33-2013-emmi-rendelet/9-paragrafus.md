@@ -12,4 +12,6 @@ ca) a megelőzés, a kórismézés, a gyógyítás, az ápolás, a gondozás, a 
 
 cb) a szakmai irányelvek, protokollok és módszertani levelek előírásainak végrehajtását, teljesülését.
 
-(2) A szakfelügyelő szakfelügyeleti tevékenysége során véleményt nyilvánít a 8. § szerinti megbízási szerződésben rögzített, a vizsgált szakterületet érintő azon kérdésben, amelynek véleményezésére az országos tisztifőorvos vagy helyettesei, a megyei (fővárosi) tisztifőorvos, illetve a járási (fővárosi kerületi) tisztifőorvos megbízta.
+(2)[^10] A szakfelügyelő szakfelügyeleti tevékenysége során véleményt nyilvánít a 8. § szerinti megbízási szerződésben rögzített, a vizsgált szakterületet érintő azon kérdésben, amelynek véleményezésére az országos tisztifőorvos vagy helyettesei, a népegészségügyi feladatkörében eljáró fővárosi, megyei kormányhivatal, illetve járási hivatal megbízta.
+
+[^10]: A 9. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 148. § f) pontja szerint módosított szöveg.
