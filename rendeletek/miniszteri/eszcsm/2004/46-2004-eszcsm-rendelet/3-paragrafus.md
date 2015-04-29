@@ -1,3 +1,3 @@
-## 2. §[^5]
+## 2. §[^6]
 
-[^5]: A 2. §-t a 15/2008. (IV. 17.) EüM rendelet 5. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^6]: A 2. §-t a 15/2008. (IV. 17.) EüM rendelet 5. § (3) bekezdésének a) pontja hatályon kívül helyezte.
