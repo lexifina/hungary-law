@@ -2,15 +2,11 @@
 
 ## TEAOR: 851 humán egészségügyi ellátás, illetve kísérlet/kutatás
 
-## Hulladékkezelési nyilvántaró lap az egészségügyi intézmények részére
-
-## TEAOR: 851 humán egészségügyi ellátás, illetve kísérlet/kutatás
-
 | 1. | Általános adatok |
 
 | 1.1. | Az egészségügyi intézmény neve, címe, telephelye: |
 
-| 1.2. | Illetékes járási népegészségügyi intézet: |
+| 1.2. | Illetékes járási hivatal: |
 
 | 1.3. | Az intézmény tulajdonosa | állami=1, önkormányzat=2, vállalkozás=3, egyéb=4 |  |
 
@@ -124,7 +120,7 @@
 
 ## az 1. számú melléklethez
 
-## A hulladékkezelési nyilvántartó lapot évente kell kitölteni, és a tárgyévet követő január 10-éig az illetékes járási népegészségügyi intézetnek kell megküldeni. A nyilvántartó lapot minden egyes telephelyről, rendelőről külön kell kitölteni.
+## A hulladékkezelési nyilvántartó lapot évente kell kitölteni, és a tárgyévet követő január 10-éig az illetékes járási hivatalnak kell megküldeni. A nyilvántartó lapot minden egyes telephelyről, rendelőről külön kell kitölteni.
 
 ## 1. Általános adatok
 

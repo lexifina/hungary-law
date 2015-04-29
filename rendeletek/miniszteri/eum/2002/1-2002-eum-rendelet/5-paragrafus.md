@@ -12,11 +12,11 @@ c) meghibásodást követő műszaki javítás után,
 
 d) minden olyan esetben, amikor a hulladék fertőtlenítésének hatékonyságával kapcsolatban az ellenőrző hatóság részéről kifogás merül fel.
 
-(4)[^10] Az ellenőrző vizsgálatokat a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve végzi.
+(4)[^10] Az ellenőrző vizsgálatokat a népegészségügyi feladatkörében a fővárosi és megyei kormányhivatal végzi.
 
 (5) A hulladékfertőtlenítő berendezés vizsgálati dokumentációját a 3. számú melléklet 4. pontja tartalmazza.
 
 [^7]: Az 5. § (1) bekezdése a 85/2004. (X. 1.) ESZCSM rendelet 2. §-ával megállapított szöveg.
 [^8]: Az 5. § (2) bekezdése a 85/2004. (X. 1.) ESZCSM rendelet 4. §-ának (2) bekezdése szerint módosított szöveg.
 [^9]: Az 5. § (3) bekezdése a 85/2004. (X. 1.) ESZCSM rendelet 4. §-ának (2) bekezdése szerint módosított szöveg.
-[^10]: Az 5. § (4) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 22. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^10]: Az 5. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 33. § b) pontja szerint módosított szöveg.
