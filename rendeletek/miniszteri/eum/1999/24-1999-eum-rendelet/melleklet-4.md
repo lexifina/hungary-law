@@ -72,6 +72,6 @@
 
 ## 5 = elhalálozott
 
-4. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^15]
+4. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^16]
 
-[^15]: A 4. mellékletet a 11/2014. (II. 24.) EMMI rendelet 12. § (2) bekezdése iktatta be.
+[^16]: A 4. mellékletet a 11/2014. (II. 24.) EMMI rendelet 12. § (2) bekezdése iktatta be.

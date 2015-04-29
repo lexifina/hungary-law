@@ -48,6 +48,6 @@
 
 ## A 4., az 5., a 8. és a 9. pont alatti adatok kódolását lásd az Útmutatóban.
 
-3. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^14]
+3. melléklet a 24/1999. (VII. 6.) EüM rendelethez[^15]
 
-[^14]: A 3. melléklet a 11/2014. (II. 24.) EMMI rendelet 12. § (1) bekezdés c) pontjával megállapított szöveg.
+[^15]: A 3. melléklet a 11/2014. (II. 24.) EMMI rendelet 12. § (1) bekezdés c) pontjával megállapított szöveg.
