@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-10-20-0
 | 2013-11-16 | 2005-10-20-0B.4 | 68/2013. (XI. 15.) EMMI rendelet |
 | 2013-12-16 | 2005-10-20-0B.5 | 68/2013. (XI. 15.) EMMI rendelet |
 | 2014-04-19 | 2005-10-20-0B.6 | 33/2014. (IV. 18.) EMMI rendelet |
+| 2015-04-29 | 2005-10-20-0B.7 | 23/2015. (IV. 28.) EMMI rendelet |
