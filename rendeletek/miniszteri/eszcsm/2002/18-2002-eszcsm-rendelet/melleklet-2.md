@@ -66,7 +66,7 @@ a) az OEK Virológiai Főosztály laboratóriuma,
 
 b) az OEK HIV nemzeti referencia-laboratóriuma,
 
-c)[^23] a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve laboratóriumai,
+c)[^23] a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal laboratóriumai,
 
 d) a HM Állami Egészségügyi Központ Transzfuziológiai Diagnosztikai Osztálya,
 
@@ -109,4 +109,4 @@ a) az OEK HIV nemzeti referencia-laboratóriuma,
 b) az Országos Vérellátó Szolgálat Központi Laboratóriuma kizárólag a I. pontban felsorolt laboratóriumok által végzett szűrővizsgálatok tekintetében.
 
 [^22]: Az eredeti melléklet számozását 2. mellékletre változtatta és szövegét megállapította a 46/2009. (XII. 22.) EüM rendelet 6. §-a.
-[^23]: A 2. melléklet II. pont c) alpontja a 11/2013. (II. 7.) EMMI rendelet 19. § d) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet II. pont c) alpontja a 23/2015. (IV. 28.) EMMI rendelet 38. §-a szerint módosított szöveg.
