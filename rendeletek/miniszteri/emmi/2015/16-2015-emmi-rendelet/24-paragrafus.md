@@ -1,9 +1,8 @@
-## 23. §[^12]
+## 23. §[^11]
 
-24. § (1)[^13]
+24. § (1)[^12]
 
-(2)[^14]
+(2) Az Mtr. 11. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
 
-[^12]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 24. § (2) bekezdése a 32. § (2) bekezdése alapján 2015. április 29-én lép hatályba.
+[^11]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 24. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
