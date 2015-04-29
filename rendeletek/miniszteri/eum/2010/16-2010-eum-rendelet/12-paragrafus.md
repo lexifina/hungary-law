@@ -1,8 +1,8 @@
 12. § (1) A jelölt a képzési program egyes részeinek befejezésekor – jogszabály vagy a felsőoktatási intézmény döntése alapján – részvizsgát tesz.
 
-(2)[^35] A felsőoktatási intézmény a képzési program teljesítéséről igazolást állít ki.
+(2)[^36] A felsőoktatási intézmény a képzési program teljesítéséről igazolást állít ki.
 
-(3)[^36] A (2) bekezdés szerinti igazolás tartalmazza:
+(3)[^37] A (2) bekezdés szerinti igazolás tartalmazza:
 
 a) a szakorvos jelölt természetes személyazonosító adatait,
 
@@ -14,5 +14,5 @@ d) a jogszabály alapján beszámított, korábban teljesített gyakorlati elem 
 
 e) a felsőoktatási intézmény szakvizsgára bocsátási javaslatát.
 
-[^35]: A 12. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^36]: A 12. § (3) bekezdését a 2/2013. (I. 2.) EMMI rendelet 13. § (2) bekezdése iktatta be.
+[^36]: A 12. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^37]: A 12. § (3) bekezdését a 2/2013. (I. 2.) EMMI rendelet 13. § (2) bekezdése iktatta be.
