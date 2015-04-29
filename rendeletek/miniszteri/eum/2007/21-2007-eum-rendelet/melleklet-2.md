@@ -12,6 +12,10 @@
 
 2. számú melléklet a 21/2007. (V. 8.) EüM rendelethez[^7]
 
-| Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet | 10032000-01490576-00000000 Magyar Államkincstár |
+|  | A | B |
 
-[^7]: A 2. számú melléklet a 10/2012. (VII. 19.) EMMI rendelet 23. §-ával megállapított szöveg.
+| 1 | Intézmény | Számlaszám |
+
+| 2 | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050-00000000 Magyar Államkincstár |
+
+[^7]: A 2. számú melléklet a 23/2015. (IV. 28.) EMMI rendelet 87. §-ával megállapított szöveg.
