@@ -1,8 +1,8 @@
 3. § (1) Kizárólag gyógyszertárban forgalmazhatók – a (2)–(5) bekezdésben foglaltak figyelembevételével –
 
-a)[^3] a – 4. § 1. pontjában meghatározott gyógyszerek kivételével – Gyógyszerészeti és Egészségügyi Minőség- és Szervezetfejlesztési Intézet (a továbbiakban: GYEMSZI), illetve az Európai Bizottság által forgalomba hozatalra engedélyezett emberi felhasználásra szánt gyógyszerek;
+a)[^3] – a 4. § 1. pontjában meghatározott gyógyszerek kivételével – az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI), illetve az Európai Bizottság által forgalomba hozatalra engedélyezett emberi felhasználásra szánt gyógyszerek;
 
-b)[^4] a GYEMSZI által kizárólag gyógyszertári forgalmazásra engedélyezett, gyógyszernek nem minősülő gyógyhatású anyagok és késztmények;
+b)[^4] az OGYÉI által kizárólag gyógyszertári forgalmazásra engedélyezett, gyógyszernek nem minősülő gyógyhatású anyagok és késztmények;
 
 c) az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendelet (a továbbiakban: R.) 3. §-ának (5) bekezdése alapján bejelentett, illetve 4. §-ában meghatározott engedély alapján behozatalra engedélyezett gyógyszerek;
 
@@ -22,8 +22,8 @@ g)[^8] a speciális gyógyászati célra szánt tápszerekről szóló 24/2003. 
 
 (5) A HIV, valamint a hepatitisz B, C és D diagnosztizálására szolgáló in vitro diagnosztikumok (gyorstesztek) csak intézeti gyógyszertárban tarthatóak fekvőbeteg-gyógyintézeti felhasználásra.
 
-[^3]: A 3. § (1) bekezdés a) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (1) bekezdés b) pontja a 41/2011. (VII. 5.) NEFMI rendelet 33. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés a) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 95. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 95. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés d) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (2) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés e) pontja a 3/2015. (I. 14.) EMMI rendelet 22. §-ával megállapított szöveg.
 [^7]: A 3. § (1) bekezdés f) pontja a 41/2011. (VII. 5.) NEFMI rendelet 31. § (3) bekezdésével megállapított szöveg.

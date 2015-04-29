@@ -1,6 +1,6 @@
 ## 4. §[^12] Gyógyszertárban – a 3. §-ban foglaltakon túl – a következő termékek is forgalmazhatóak:
 
-1. a GYEMSZI által forgalomba hozatalra és gyógyszertáron kívül is forgalmazásra engedélyezett gyógyszerek,
+1.[^13] az OGYÉI által forgalomba hozatalra és gyógyszertáron kívül is forgalmazásra engedélyezett gyógyszerek,
 
 2. az orvostechnikai eszközökről szóló rendelet szerinti követelményeknek megfelelő orvostechnikai eszközök, valamint az in vitro diagnosztikai eszközökről szóló rendelet szerinti követelményeknek megfelelő in vitro diagnosztikai eszközök a 3. § (5) bekezdésében meghatározott diagnosztikumok kivételével,
 
@@ -53,3 +53,4 @@
 26. láb-, kéz- és körömápolási eszközök.
 
 [^12]: A 4. § a 3/2015. (I. 14.) EMMI rendelet 23. §-ával megállapított szöveg.
+[^13]: A 4. § 1. pontja a 23/2015. (IV. 28.) EMMI rendelet 95. § b) pontja szerint módosított szöveg.
