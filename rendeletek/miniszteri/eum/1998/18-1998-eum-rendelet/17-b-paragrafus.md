@@ -1,6 +1,6 @@
 ## Súlyos káros események és súlyos szövődmények bejelentése[^62]
 
-17/B. §[^63] (1)[^64] Az egészségügyi szolgáltató haladéktalanul értesíti az OTH-t a szövetek vizsgálatához, feldolgozásához, tárolásához és elosztásához kapcsolódó valamennyi lényeges információról és bármely súlyos káros eseményről, ide értve azokat, amelyek befolyásolhatják az emberi felhasználásra szánt szövetek minőségét és biztonságát. Az OTH ezekről értesíti a 14. §-ban meghatározott egészségügyi szolgáltatókat és a GYEMSZI-t.
+17/B. §[^63] (1)[^64] Az egészségügyi szolgáltató haladéktalanul értesíti az OTH-t a szövetek vizsgálatához, feldolgozásához, tárolásához és elosztásához kapcsolódó valamennyi lényeges információról és bármely súlyos káros eseményről, ide értve azokat, amelyek befolyásolhatják az emberi felhasználásra szánt szövetek minőségét és biztonságát. Az OTH ezekről értesíti a 14. §-ban meghatározott egészségügyi szolgáltatókat és az OBDK-t.
 
 (2) A 14. § szerinti egészségügyi szolgáltató haladéktalanul értesíti az OTH-t bármely olyan súlyos szövődményről, amelyet a szövet beültetése, vagy kivétele során vagy azt követően észleltek, és amely az emberi felhasználásra szánt szövetek nem megfelelő minőségére vezethető vissza.
 
@@ -14,5 +14,5 @@
 
 [^62]: A 17/B. §-t megelőző alcímet a 12/2012. (VIII. 6.) EMMI rendelet 7. §-a iktatta be.
 [^63]: A 17/B. §-t a 12/2012. (VIII. 6.) EMMI rendelet 7. §-a iktatta be.
-[^64]: A 17/B. § (1) bekezdése a 7/2015. (II. 2.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^64]: A 17/B. § (1) bekezdése a 7/2015. (II. 2.) EMMI rendelet 12. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 21. § a) pontja szerint módosított szöveg.
 [^65]: A 17/B. § (3a) bekezdését a 6/2013. (I. 18.) EMMI rendelet 10. §-a iktatta be.

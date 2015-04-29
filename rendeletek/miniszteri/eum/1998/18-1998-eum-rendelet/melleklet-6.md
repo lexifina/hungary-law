@@ -12,7 +12,7 @@
 
 ## 1.6. Gottsegen György Országos Kardiológiai Intézet Budapest (gyermekszív, valamint veleszületett szívbetegségben – GUCH Disease; Grown-Up Congenital Heart Disease – szenvedő 18 év feletti betegek esetén szív).
 
-## 1.7.[^84] Semmelweis Egyetem Általános Orvostudományi Kar Mellkassebészeti Klinika (tüdő)
+## 1.7.[^85] Semmelweis Egyetem Általános Orvostudományi Kar Mellkassebészeti Klinika (tüdő)
 
 ## 2. Az adott szerv tekintetében halott személyből történő szervkivételre jogosított egészségügyi szolgáltatók
 
@@ -30,10 +30,10 @@
 
 ## 2.7. Gottsegen György Országos Kardiológiai Intézet Budapest (gyermekszív és szív).
 
-## 2.8.[^85] Semmelweis Egyetem Általános Orvostudományi Kar Mellkassebészeti Klinika (tüdő)
+## 2.8.[^86] Semmelweis Egyetem Általános Orvostudományi Kar Mellkassebészeti Klinika (tüdő)
 
-6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^86]
+6. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^87]
 
-[^84]: Az 5. számú melléklet 1. pont 1.7. alpontját a 7/2015. (II. 2.) EMMI rendelet 13. § (1) bekezdése iktatta be.
-[^85]: Az 5. számú melléklet 2. pont 2.8. alpontját a 7/2015. (II. 2.) EMMI rendelet 13. § (1) bekezdése iktatta be.
-[^86]: A 6. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^85]: Az 5. számú melléklet 1. pont 1.7. alpontját a 7/2015. (II. 2.) EMMI rendelet 13. § (1) bekezdése iktatta be.
+[^86]: Az 5. számú melléklet 2. pont 2.8. alpontját a 7/2015. (II. 2.) EMMI rendelet 13. § (1) bekezdése iktatta be.
+[^87]: A 6. számú melléklet a 76/2013. (XII. 10.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.

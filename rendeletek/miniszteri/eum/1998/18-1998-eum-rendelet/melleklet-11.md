@@ -40,6 +40,6 @@
 
 | A megtett korrekciós intézkedések (részletek) |
 
-11. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^113]
+11. számú melléklet a 18/1998. (XII. 27.) EüM rendelethez[^114]
 
-[^113]: A 11. számú mellékletet az 55/2007. (XII. 19.) EüM rendelet 5. § (4) bekezdése iktatta be.
+[^114]: A 11. számú mellékletet az 55/2007. (XII. 19.) EüM rendelet 5. § (4) bekezdése iktatta be.
