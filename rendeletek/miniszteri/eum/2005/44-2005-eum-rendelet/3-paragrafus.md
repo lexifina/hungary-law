@@ -1,4 +1,4 @@
-3. §[^13] (1) A gyógyszergyártási engedély jogosultja a Gytv. 4. § (8) bekezdésében foglaltakon túl
+3. §[^14] (1) A gyógyszergyártási engedély jogosultja a Gytv. 4. § (8) bekezdésében foglaltakon túl
 
 a) betartja a gyógyszerekre, hatóanyagokra és segédanyagokra vonatkozó helyes gyártási gyakorlat elveit és iránymutatásait;
 
@@ -8,9 +8,9 @@ c) biztosítja a gyártáshoz és minőség-ellenőrzéshez szükséges személy
 
 d) garantálja, hogy a forgalomba hozatalra engedélyezett gyógyszereket a hatályos jogszabályokban foglaltaknak megfelelően értékesíti;
 
-e) a gyógyszer gyártásával összefüggő minőségi kifogásokról negyedévente minőségi jelentést küld a GYEMSZI-nek;
+e)[^15] a gyógyszer gyártásával összefüggő minőségi kifogásokról negyedévente minőségi jelentést küld az OGYÉI-nek;
 
-f)[^14] azonnal tájékoztatja a GYEMSZI-t, a rendőrséget és a forgalombahozatali engedély jogosultját, amennyiben tudomására jut, hogy a gyártási engedélyének hatálya alá tartozó gyógyszereket hamisítják vagy feltehetően hamisítják, függetlenül a gyógyszer forgalmazásának formájától;
+f)[^16] azonnal tájékoztatja az OGYÉI-t, a rendőrséget és a forgalombahozatali engedély jogosultját, amennyiben tudomására jut, hogy a gyártási engedélyének hatálya alá tartozó gyógyszereket hamisítják vagy feltehetően hamisítják, függetlenül a gyógyszer forgalmazásának formájától;
 
 g) ellenőrzi, hogy azokat a gyártókat, importőröket vagy forgalmazókat, akiktől a hatóanyagokat beszerzi, a letelepedésük szerinti tagállam hatáskörrel rendelkező hatóságánál bejegyezték-e;
 
@@ -20,5 +20,6 @@ h) ellenőrzi a hatóanyagok és segédanyagok eredetiségét és minőségét.
 
 (3) Az (1) bekezdés a) pontja alkalmazása során a gyógyszergyártási engedély jogosultjának a helyes gyártási gyakorlat megfelelő szabályainak betartása által biztosítania kell, hogy a segédanyagok alkalmasak legyenek a gyógyszerekben való felhasználásra. A segédanyagok tekintetében a helyes gyártási gyakorlat szabályait az Európai Bizottság iránymutatásaival összhangban végzett kockázatelemzés alapján kell megállapítani. A kockázatelemzés során figyelembe kell venni a megfelelő minőségbiztosítási rendszerek követelményeit, a segédanyagok forrását és tervezett felhasználását, valamint a minőségi hiányosságok korábbi eseteit. A gyógyszergyártási engedély jogosultjának biztosítania kell, hogy az ily módon megállapított megfelelő helyes gyártási gyakorlatot alkalmazzák. A gyártási engedély jogosultjának a meghozott intézkedéseket dokumentálnia kell.
 
-[^13]: A 3. § az 53/2012. (XII. 28.) EMMI rendelet 13. §-ával megállapított szöveg.
-[^14]: A 3. § (1) bekezdés f) pontja az 53/2012. (XII. 28.) EMMI rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 3. § az 53/2012. (XII. 28.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^15]: A 3. § (1) bekezdés e) pontja a 23/2015. (IV. 28.) EMMI rendelet 75. § e) pontja szerint módosított szöveg.
+[^16]: A 3. § (1) bekezdés f) pontja az 53/2012. (XII. 28.) EMMI rendelet 18. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 75. § f) pontja szerint módosított szöveg.
