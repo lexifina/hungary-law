@@ -4,15 +4,15 @@
 
 (2) E § (7) bekezdése 2010. március 21-én lép hatályba.
 
-(3)–(4)[^18]
+(3)–(4)[^19]
 
-(5)–(6)[^19]
+(5)–(6)[^20]
 
-(7)[^20]
+(7)[^21]
 
-(8)[^21]
+(8)[^22]
 
-[^18]: A 26. § (3)–(4) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^19]: A 26. § (5)–(6) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^20]: A 26. § (7) bekezdését a 29/2011. (VI. 7.) NEFMI rendelet 31. § i) pontja hatályon kívül helyezte.
-[^21]: A 26. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^19]: A 26. § (3)–(4) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^20]: A 26. § (5)–(6) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^21]: A 26. § (7) bekezdését a 29/2011. (VI. 7.) NEFMI rendelet 31. § i) pontja hatályon kívül helyezte.
+[^22]: A 26. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
