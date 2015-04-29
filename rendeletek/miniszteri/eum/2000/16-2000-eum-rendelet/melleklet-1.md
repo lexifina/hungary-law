@@ -10,7 +10,7 @@ I. ALAPVETŐ SUGÁRVÉDELMI KÖVETELMÉNYEK
 
 3. A mesterséges forrásokból származó együttes sugárterhelés – kivéve az orvosi alkalmazásokból eredő sugárterhelést – nem haladhatja meg a rendeletben meghatározott dóziskorlátokat.
 
-II.[^55] MEGHATÁROZÁSOK
+II.[^66] MEGHATÁROZÁSOK
 
 Aktivitás (A)
 
@@ -400,4 +400,4 @@ Végleges | > 1 Sv/élettartam | –
 
 -------------------
 
-[^55]: Az 1. számú melléklet II. pontja a 64/2005. (XII. 22.) EüM rendelet 4. §-a szerint módosított szöveg.
+[^66]: Az 1. számú melléklet II. pontja a 64/2005. (XII. 22.) EüM rendelet 4. §-a szerint módosított szöveg.

@@ -6,11 +6,11 @@
 
 (4)[^11] A sugárvédelmi megbízottat és helyettesét a munkáltató írásban bízza meg.
 
-(5)[^12] A sugárvédelmi szolgálat szervezetének és működésének felügyeletét a Sugáregészségügyi Decentrum, illetve az OTH látja el.
+(5)[^12] A sugárvédelmi szolgálat szervezetének és működésének felügyeletét a megyei kormányhivatal, illetve az OTH látja el.
 
 (6) Nukleáris létesítményben az OTH által meghatározott esetben a sugárvédelmi szolgálat feladatait sugárvédelmi osztály látja el. A sugárvédelmi osztály vezetőinek megbízását az engedélyes az OTH-nak jelenti be.
 
 [^9]: A 11. § (1) bekezdése a 44/2009. (XII. 18.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
 [^10]: A 11. § (2) bekezdése a 21/2012. (IV. 4.) NEFMI rendelet 30. §-ával megállapított szöveg.
 [^11]: A 11. § (4) bekezdése a 44/2009. (XII. 18.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
-[^12]: A 11. § (5) bekezdése a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdésének e) pontjával megállapított szöveg.
+[^12]: A 11. § (5) bekezdése a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (5) bekezdés e) pontjával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 27. § c) pontja szerint módosított szöveg.

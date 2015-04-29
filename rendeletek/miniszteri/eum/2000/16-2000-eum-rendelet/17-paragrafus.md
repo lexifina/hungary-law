@@ -1,4 +1,4 @@
-17. § (1) Az OSSKI szakvéleményezi
+17. § (1)[^27] Az OKK szakvéleményezi
 
 a) a 7. számú melléklet függeléke szerinti kiemelt létesítmények létesítéséhez,
 
@@ -10,9 +10,10 @@ d) a nyitott radioaktív készítmények laboratóriumon kívüli használatána
 
 ## kapcsolódó sugárvédelmi és sugárbiztonsági terveket.
 
-(2)[^27] Az OSSKI által szakvéleményezett tervek alapján elkészült létesítmények üzemelési engedélyét a Sugáregészségügyi Decentrum – az OSSKI-val közösen tartott helyszíni szemle alapján – az OSSKI szakvéleménye birtokában adja ki.
+(2)[^28] Az OKK által szakvéleményezett tervek alapján elkészült létesítmények üzemelési engedélyét a megyei kormányhivatal – az OKK-val közösen tartott helyszíni szemle alapján – az OKK szakvéleménye birtokában adja ki.
 
-(3)[^28] Az (1) bekezdésben fel nem sorolt nem nukleáris létesítmények sugárvédelmi és sugárbiztonsági terveinek elbírálását, a létesítmények létesítésének, valamint üzembe helyezésének engedélyezését a Sugáregészségügyi Decentrumok végzik.
+(3)[^29] Az (1) bekezdésben fel nem sorolt nem nukleáris létesítmények sugárvédelmi és sugárbiztonsági terveinek elbírálását, a létesítmények létesítésének, valamint üzembe helyezésének engedélyezését a megyei kormányhivatalok végzik.
 
-[^27]: A 17. § (2) bekezdését a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (4) bekezdése b) pontjának bc) alpontja hatályon kívül helyezte, újonnan a 44/2009. (XII. 18.) EüM rendelet 6. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
-[^28]: A 17. § (3) bekezdése a 44/2009. (XII. 18.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 17. § (1) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 27. § d) pontja szerint módosított szöveg.
+[^28]: A 17. § (2) bekezdését a 47/2003. (VIII. 8.) ESZCSM rendelet 20. § (4) bekezdés b) pontj bc) alpontja hatályon kívül helyezte, újonnan a 44/2009. (XII. 18.) EüM rendelet 6. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 27. § c)–d) és f) pontja szerint módosított szöveg.
+[^29]: A 17. § (3) bekezdése a 44/2009. (XII. 18.) EüM rendelet 6. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 27. § g) pontja szerint módosított szöveg.
