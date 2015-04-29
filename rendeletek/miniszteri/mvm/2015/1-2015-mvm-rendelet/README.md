@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1-20-6N
 | --- | --- | --- |
 | 2015-01-29 | 2015-1-20-6N.1 | 1/2015. (I. 14.) MvM rendelet |
 | 2015-01-30 | 2015-1-20-6N.2 | 2010: CXXX. törvény |
+| 2015-04-29 | 2015-1-20-6N.3 | 22/2015. (IV. 21.) MvM rendelet |

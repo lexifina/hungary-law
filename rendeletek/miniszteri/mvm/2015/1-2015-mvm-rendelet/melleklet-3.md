@@ -2094,37 +2094,39 @@
 
 ## Az alapfokozat megszerzéséhez két idegen nyelvből - melyből legalább az egyik a NATO hivatalos nyelve - államilag elismert középfokú (B2) komplex típusú nyelvvizsga-bizonyítvány vagy egy államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány egy olyan nyelvből, melyen a szakmának tudományos szakirodalma van, vagy ezekkel egyenértékű érettségi bizonyítvány vagy okirat szükséges.
 
-3. melléklet az 1/2015. (I. 14.) MvM rendelethez
+3. melléklet az 1/2015. (I. 14.) MvM rendelethez[^6]
 
 A MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 
 |  | A Képzési terület | B Mesterképzési szak | C Osztatlan szak | D A szakhoz rendelt kreditek száma |
 
-| 1. | közigazgatási, rendészeti és katonai | közigazgatási |  | 120 |
+| 1 | közigazgatási, rendészeti | közigazgatási |  | 120 |
 
-| 2. | európai és nemzetközi igazgatás |
+| 2 | és katonai | európai és nemzetközi igazgatás |  |  |
 
-| 3. |  | nemzetközi közszolgálati kapcsolatok (nemzetközi közigazgatási, biztonsági tanulmányok, rendészeti, Európa-tanulmányok szakirányok) |  |  |
+| 3 |  | nemzetközi közszolgálati kapcsolatok (nemzetközi közigazgatási, biztonsági tanulmányok, rendészeti, Európa-tanulmányok szakirányok) |  |  |
 
-| 4. | védelmi igazgatási |
+| 4 |  | védelmi igazgatási |  |  |
 
-| 5. | nemzetközi biztonság- és védelempolitikai |
+| 5 |  | nemzetközi biztonság- és védelempolitikai |  |  |
 
-| 6. | nemzetbiztonsági |
+| 6 |  | nemzetbiztonsági |  |  |
 
-| 7. | katonai vezetői |  | 60 |
+| 7 |  | rendészeti vezető |  |  |
 
-| 8. | katonai üzemeltetés |
+| 8 |  | biztonsági szervező |  |  |
 
-| 9. | katonai műveleti logisztika |
+| 9 |  | kriminalisztika |  |  |
 
-| 10. | rendészeti vezető |
+| 10 |  | katasztrófavédelem |  |  |
 
-| 11. | biztonsági szervező |
+| 11 |  | katonai vezetői |  | 60 |
 
-| 12. |  | kriminalisztika |  |  |
+| 12 |  | katonai üzemeltetés |  |  |
 
-| 13. |  | international public service relations |  | 90 |
+| 13 |  | katonai műveleti logisztika |  |  |
+
+| 14 |  | international public service relations |  | 90 |
 
 A MESTERKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
@@ -4739,3 +4741,5 @@ A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek - felső
 - szakmai ismeretek (18 kredit): békefenntartói alapismeretek, logisztikai alapismeretek, logisztikai támogatás, katonai szervezetek vezetése, katonai gazdálkodási alapismeretek, katonai közlekedési alapismeretek, műszaki alapismeretek, logisztikai szaktechnikai eszközök, katonai pénzügyek, haditechnikai ismeretek.
 
 A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 24 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított egy féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
+
+[^6]: A 3. melléklet „A MESTERKÉPZÉSI SZAKOK JEGYZÉKE” alcímet követő táblázat a 22/2015. (IV. 21.) MvM rendelet 1. §-ával megállapított szöveg.
