@@ -1,4 +1,4 @@
-## 31. §[^16]
+## 31. §[^19]
 
 ## 14. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 8. § 2015. szeptember 1-jén lép hatályba.
 
-[^16]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
