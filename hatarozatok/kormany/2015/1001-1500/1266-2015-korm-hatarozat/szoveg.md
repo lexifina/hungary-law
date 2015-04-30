@@ -1,0 +1,1 @@
+A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó ingatlan-együtteshez kapcsolódó állami feladatok ellátásához szükséges költségvetési támogatás nyújtásáról szóló 1167/2015. (III. 24.) Korm. határozat 1. pontjában a „300,0 millió” szövegrész helyébe a „415,0 millió” szöveg lép.
