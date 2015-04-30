@@ -1,5 +1,0 @@
-## 52. § A 62/2003. ESZCSM rendelet 6. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(3) Ha az élelmiszer eredetű megbetegedés a gyanús élelmiszer készítésének, forgalmazásának, fogyasztásának, valamint az esemény észlelésének helye, a megbetegedettek lakóhelye, tartózkodási helye, az orvosi, kórházi kezelés, illetve a diagnosztizálás helye alapján több járási hivatalt érint, mindegyik érintett hivatal köteles kivizsgálni az eseményt, és a vizsgálatot jegyzőkönyvvel lezárni. A vizsgálat közben az érintett hivatalok haladéktalanul és kölcsönösen tájékoztatják egymást a szükséges információkról.
-
-## (4) Ha a megbetegedés előidézésében külföldről származó élelmiszer a gyanús, a járási hivatal a kormányhivatal egyidejű tájékoztatása mellett értesíti az Országos Tisztifőorvosi Hivatalt (a továbbiakban: OTH) és az Országos Epidemiológiai Központot (a továbbiakban: OEK), valamint a belföldi forgalmazó székhelye szerint illetékes kormányhivatalt. Az esemény kivizsgálását, az összefoglaló jelentés és a nyilvántartó lap elkészítését a forgalmazás helye szerint illetékes kormányhivatal szakmai irányításával kell végezni.”
