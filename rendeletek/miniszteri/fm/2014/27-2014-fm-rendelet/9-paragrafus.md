@@ -4,7 +4,7 @@
 
 (2) Az agrárkár-enyhítési szerv a hozamérték-csökkenés 10. § (1) bekezdés szerinti határozatban történő megállapítása céljából – az Mkk. tv. 13. § (3) bekezdése szerint érdemi vizsgálat nélkül elutasított kérelmek kivételével – a kérelmeket továbbítja az agrárkár-megállapító szerv részére. A kérelembenyújtó felületen megadott adatok és az ahhoz feltöltött dokumentumok – ideértve a (4) és (5) bekezdésben meghatározott igazolásokat is – együttesen alkotják a kárenyhítő juttatás iránti kérelmet.
 
-(3) Kárenyhítő juttatásra vonatkozó jogosultság csak abban az esetben állapítható meg, ha az adott kárenyhítési évben a mezőgazdasági termelő elemi káreseményt és a 7. § (1) bekezdés szerint számított, üzemi szinten 30%-ot meghaladó mértékű hozamérték-csökkenést szenved el, és ezekről az agrárkár-megállapító szerv által a 10. § (1) bekezdés szerint kiállított határozattal rendelkezik.
+(3)[^3] Kárenyhítő juttatásra vonatkozó jogosultság csak abban az esetben állapítható meg, ha az adott kárenyhítési évben a mezőgazdasági termelő elemi káreseményt és a 7. § (1) bekezdés szerint számított, üzemi szinten 15%-ot meghaladó mértékű hozamérték-csökkenést szenved el, és ezekről az agrárkár-megállapító szerv által a 10. § (1) bekezdés szerint kiállított határozattal rendelkezik.
 
 (4) Ha a mezőgazdasági termelő rendelkezik az Mkk. tv. 11. § (5) bekezdése szerinti vagy egyéb, a kárenyhítő juttatás iránti kérelemben szereplő káreseményre megkötött mezőgazdasági biztosítási szerződéssel, akkor azt a 2. melléklet I. pontja szerinti adatok megadásával és a biztosítóval kötött szerződés ajánlati nyomtatványai és kötvénye elektronikus példányának kérelembenyújtó felületre történő feltöltésével igazolja. A biztosító által már kifizetett kártérítés összegét az Mkk. tv. 12. § (1) bekezdésében foglaltakkal összhangban figyelembe kell venni a kárenyhítő juttatás összegének kiszámításánál.
 
@@ -17,3 +17,5 @@
 (8) Ha a mezőgazdasági termelő a kárenyhítő juttatás iránti kérelmét nem az (1), valamint a (4) és (5) bekezdésekben meghatározottak szerint nyújtja be, akkor a kérelmet az agrárkár-enyhítési szerv elutasítja.
 
 (9) Adott kárenyhítési évhez kapcsolódóan kárenyhítő juttatásra vonatkozó jogosultság akkor sem állapítható meg, ha a mezőgazdasági termelővel szemben valamely korábbi támogatás visszafizetésére kötelező olyan európai uniós jogszabály van érvényben, amely a támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította.
+
+[^3]: A 9. § (3) bekezdése a 20/2015. (IV. 27.) FM rendelet 10. §-a szerint módosított szöveg.
