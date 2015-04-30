@@ -1,1 +1,0 @@
-## 1. § A közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás alap- és mesterképzési szakjainak meghatározásáról, e szakok képzési és kimeneti követelményeiről, valamint az alapképzés képzési ágairól szóló 1/2015. (I. 14.) MvM rendelet (a továbbiakban: R.) 3. melléklete az 1. melléklet szerint módosul.
