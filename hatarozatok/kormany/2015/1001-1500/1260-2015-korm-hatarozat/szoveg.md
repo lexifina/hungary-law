@@ -1,0 +1,27 @@
+A Kormány a megélhetési bevándorlás és a terrorizmus kérdésében folytatandó nemzeti konzultáció sikeres lebonyolítása érdekében – figyelemmel a kormányzati lakossági tájékoztató levelek küldésével kapcsolatos feladatokról szóló 1848/2014. (XII. 30.) Korm. határozatban foglaltakra – felhívja:
+
+1. a Miniszterelnökséget vezető minisztert, hogy a 4. pont szerinti feladatok ellátásához szükséges adatfeldolgozási tevékenységek ellátására adatfeldolgozási szerződést kössön a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával (a továbbiakban: KEK KH) és a Magyar Posta Zártkörűen Működő Részvénytársasággal;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+belügyminiszter
+
+Határidő: azonnal
+
+2. a Miniszterelnökséget vezető minisztert, hogy a 3. és 4. pont szerinti feladatok ellátásához szükséges forrásokat az érintett minisztériumoknál biztosítsa;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
+
+3. az igazságügyi minisztert a kormányzati lakossági tájékoztató levelek küldésével kapcsolatos feladatokról szóló 1848/2014. (XII. 30.) Korm. határozat (a továbbiakban: Korm. határozat) 2. pontjában meghatározott feladatnak, ideértve a konzultációs kérdőívek előállításával kapcsolatos feladatokat is, a vonatkozó jogszabályi rendelkezések figyelembe vételével – a Magyar Közlöny Lap- és Könyvkiadó Korlátolt Felelősségű Társaság (1085 Budapest, Somogyi Béla u. 6.) bevonásával – történő ellátására;
+
+Felelős: igazságügyi miniszter
+
+Határidő: azonnal
+
+4. a belügyminisztert, hogy gondoskodjon a Korm. határozat 3. pontjában meghatározott feladatoknak, ideértve a visszaérkezett konzultációs kérdőívek feldolgozásával kapcsolatos feladatokat is, a KEK KH útján történő ellátásáról.
+
+Felelős: belügyminiszter
+
+Határidő: azonnal
