@@ -4,19 +4,19 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1502/2014. (IX. 5.) Korm. határozathoz[^1]
+1. melléklet az 1502/2014. (IX. 5.) Korm. határozathoz[^2]
 
 |  | A | B | C | D |
 
 | 1. | Intézmény neve | Cím | Tervezett műszaki tartalom | Becsült költség (Ft) |
 
-| 2. | Csányi Idősek Otthona | 3015 Csány, Csillag utca 27. | homlokzati és tetőtéri hőszigetelés, nyílászáró csere | 56 234 868 |
+| 2. | Csányi Idősek Otthona | 3015 Csány, Csillag utca 27. | homlokzati és tetőtéri hőszigetelés, nyílászáró csere | 62 646 628 |
 
-| 3. | Füzesabonyi Pszichiátriai és Szenvedélybetegek Otthona | 3390 Füzesabony, Tábor út 52. | homlokzati és tetőtéri hőszigetelés, nyílászáró csere, hőszigetelő álmennyezet készítése | 191 194 456 |
+| 3. | Füzesabonyi Pszichiátriai és Szenvedélybetegek Otthona | 3390 Füzesabony, Tábor út 52. | homlokzati és tetőtéri hőszigetelés, nyílászáró csere, hőszigetelő álmennyezet készítése | 173 294 777 |
 
-| 4. | Andornaktályai Fogyatékosok Otthona és Rehabilitációs Intézete | 3399 Andornaktálya, Rákóczi Ferenc utca 289. | homlokzati és tetőtéri hőszigetelés, nyílászáró csere | 65 965 934 |
+| 4. | Andornaktályai Fogyatékosok Otthona és Rehabilitációs Intézete | 3399 Andornaktálya, Rákóczi Ferenc utca 289. | homlokzati és tetőtéri hőszigetelés, nyílászáró csere | 51 377 488 |
 
-| 5. | Egri Idősek Otthona | 3300 Eger, Petőfi Sándor utca 26/b. | homlokzati és tetőtéri hőszigetelés, nyílászáró csere | 79 474 609 |
+| 5. | Egri Idősek Otthona | 3300 Eger, Petőfi Sándor utca 26/b. | homlokzati és tetőtéri hőszigetelés, nyílászáró csere | 81 658 125 |
 
 | 6. | Szociális és Gyermekvédelmi Főigazgatóság (Somogy Megyei Gondviselés Szociális Otthon Magas Cédrus Szociális otthoni telephelye) | 7535 Kőkút-Gyöngyöspuszta, Gyöngyöspuszta 1., (kőkúti 0125/21 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 96 526 838 |
 
@@ -40,6 +40,6 @@
 
 | 16. | Szociális és Gyermekvédelmi Főigazgatóság (Békés Megyei Szociális és Gyermekvédelmi Központ) | 5600 Békéscsaba, Degré utca 59. (békéscsabai 1512/2 hrsz.) | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 153 319 082 |
 
-| 17. | Szociális és Gyermekvédelmi Főigazgatóság (Vámosgyörki Idősek Otthona) | 3291 Vámosgyörk, István király utca 1. | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 52 230 400 |
+| 17. | Szociális és Gyermekvédelmi Főigazgatóság (Vámosgyörki Idősek Otthona) | 3291 Vámosgyörk, István király utca 1. | energiahatékonysági fejlesztés (homlokzati és tetőtéri hőszigetelés, nyílászáró csere) | 76 123 249 |
 
-[^1]: Az 1. melléklet az 1634/2014. (XI. 7.) Korm. határozat, az 1174/2015. (III. 24.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1634/2014. (XI. 7.) Korm. határozat, az 1174/2015. (III. 24.) Korm. határozat 2. pontja, az 1273/2015. (IV. 30.) Korm. határozat szerint módosított szöveg.
