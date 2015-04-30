@@ -8,7 +8,7 @@ a) jégesőkár,
 
 b) aszálykár,
 
-c) elemi káresemény okozta mezőgazdasági árvízkár,
+c)[^15] mezőgazdasági árvízkár,
 
 d) téli fagykár,
 
@@ -21,3 +21,5 @@ g) viharkár,
 h) tűzkár.
 
 (3) A biztosító a mezőgazdasági biztosítási szerződésben rögzített biztosítási események bekövetkeztét és valamely érintett, az (1) bekezdés szerinti növénykultúra károsodását a káraktával igazolja.
+
+[^15]: A 4. § (2) bekezdés c) pontja a 20/2015. (IV. 27.) FM rendelet 7. § a) pontjával megállapított szöveg.

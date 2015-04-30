@@ -1,156 +1,156 @@
 ## A „B” típusú mezőgazdasági biztosítási szerződéssel lefedett növénykultúrák
 
-## 1. kukorica (GAB06),
+## 1. kukorica,
 
-## 2. zab (GAB05),
+## 2. zab,
 
-## 3. szójabab (IPA01),
+## 3. szójabab,
 
-## 4. lencse (HUV06),
+## 4. lencse,
 
-## 5. száraz borsó (HUV01),
+## 5. száraz borsó,
 
-## 6. csicseriborsó (HUV08),
+## 6. csicseriborsó,
 
-## 7. zöldborsó (ZOL37),
+## 7. zöldborsó,
 
-## 8. cukorborsó (ZOL38),
+## 8. cukorborsó,
 
-## 9. takarmányborsó (TAK18),
+## 9. takarmányborsó,
 
-## 10. mezei borsó (TAK19),
+## 10. mezei borsó,
 
-## 11. lóbab (HUV02),
+## 11. lóbab,
 
-## 12. csemegekukorica (ZOL43),
+## 12. csemegekukorica,
 
-## 13. cukorrépa (CUK01),
+## 13. cukorrépa,
 
-## 14. zöldbab (ZOL41),
+## 14. zöldbab,
 
-## 15. uborka (ZOL23),
+## 15. uborka,
 
-## 16. dinnye (GYU01),
+## 16. dinnye,
 
-## 17. tökre oltott dinnye (GYU03),
+## 17. tökre oltott dinnye,
 
-## 18. paprika (ZOL27),
+## 18. paprika,
 
-## 19. fűszerpaprika (AGF01),
+## 19. fűszerpaprika,
 
-## 20. paradicsom (ZOL22),
+## 20. paradicsom,
 
-## 21. fejeskáposzta (ZOL04),
+## 21. fejeskáposzta,
 
-## 22. kelkáposzta (ZOL05),
+## 22. kelkáposzta,
 
-## 23. karfiol (ZOL01),
+## 23. karfiol,
 
-## 24. brokkoli (ZOL02),
+## 24. brokkoli,
 
-## 25. sárgarépa (ZOL28),
+## 25. sárgarépa,
 
-## 26. tök (ZOL25),
+## 26. tök,
 
-## 27. spárga (ZOL14),
+## 27. spárga,
 
-## 28. mák (IPA10),
+## 28. mák,
 
-## 29. szárazbab (ZOL40),
+## 29. szárazbab,
 
-## 30. burgonya (BUR01),
+## 30. burgonya,
 
-## 31. vöröshagyma (ZOL30),
+## 31. vöröshagyma,
 
-## 32. napraforgómag (IPA17),
+## 32. napraforgómag,
 
-## 33. hibridnapraforgó (VET34),
+## 33. hibridnapraforgó,
 
-## 34. hibridkukorica (VET33),
+## 34. hibridkukorica,
 
-## 35. termesztett bodza (GYU08),
+## 35. termesztett bodza,
 
-## 36. meggy (ULT16),
+## 36. meggy,
 
-## 37. hagyományos gyümölcsös meggy (HAG16),
+## 37. hagyományos gyümölcsös meggy,
 
-## 38. cseresznye (ULT17),
+## 38. cseresznye,
 
-## 39. hagyományos gyümölcsös cseresznye (HAG17),
+## 39. hagyományos gyümölcsös cseresznye,
 
-## 40. málna (GYU04),
+## 40. málna,
 
-## 41. piros ribiszke (GYU09),
+## 41. piros ribiszke,
 
-## 42. egyéb ribiszke (GYU10),
+## 42. egyéb ribiszke,
 
-## 43. piszke (GYU05),
+## 43. piszke,
 
-## 44. földieper (GYU02),
+## 44. földieper,
 
-## 45. dió (ULT08),
+## 45. dió,
 
-## 46. hagyományos gyümölcsös dió (HAG08),
+## 46. hagyományos gyümölcsös dió,
 
-## 47. cukkini (ZOL26),
+## 47. cukkini,
 
-## 48. mustármag (IPA08),
+## 48. mustármag,
 
-## 49. olajretekmag (IPA11),
+## 49. olajretekmag,
 
-## 50. olajtökmag (IPA12),
+## 50. olajtökmag,
 
-## 51. durumbúza (GAB02),
+## 51. durumbúza,
 
-## 52. naspolya (ULT07),
+## 52. naspolya,
 
-## 53. hagyományos gyümölcsös naspolya (HAG07),
+## 53. hagyományos gyümölcsös naspolya,
 
-## 54. mogyoró (ULT09),
+## 54. mogyoró,
 
-## 55. hagyományos gyümölcsös mogyoró (HAG09),
+## 55. hagyományos gyümölcsös mogyoró,
 
-## 56. földimogyoró (IPA06),
+## 56. földimogyoró,
 
-## 57. mandula (ULT10),
+## 57. mandula,
 
-## 58. hagyományos gyümölcsös mandula (HAG10),
+## 58. hagyományos gyümölcsös mandula,
 
-## 59. cékla (ZOL32),
+## 59. cékla,
 
-## 60. retek (étkezési célra) (ZOL35),
+## 60. retek (étkezési célra),
 
-## 61. torma (ZOL36),
+## 61. torma,
 
-## 62. pasztinák (ZOL45),
+## 62. pasztinák,
 
-## 63. spenót (ZOL13),
+## 63. spenót,
 
-## 64. petrezselyem (ZOL16),
+## 64. petrezselyem,
 
-## 65. zeller (ZOL08),
+## 65. zeller,
 
-## 66. sóska (ZOL12),
+## 66. sóska,
 
-## 67. rizs (RIZ03),
+## 67. rizs,
 
-## 68. búza, kétszeres, és egyéb búza (GAB01),
+## 68. búza, kétszeres, és egyéb búza,
 
-## 69. sárgabarack (ULT04),
+## 69. sárgabarack,
 
-## 70. hagyományos gyümölcsös sárgabarack (HAG04),
+## 70. hagyományos gyümölcsös sárgabarack,
 
-## 71. szilva (ULT06),
+## 71. szilva,
 
-## 72. hagyományos gyümölcsös szilva (HAG06),
+## 72. hagyományos gyümölcsös szilva,
 
-## 73. őszibarack (ULT03),
+## 73. őszibarack,
 
-## 74. hagyományos gyümölcsös őszibarack (HAG03),
+## 74. hagyományos gyümölcsös őszibarack,
 
-## 75. birs (ULT18),
+## 75. birs,
 
-## 76. hagyományos gyümölcsös birs (HAG18).
+## 76. hagyományos gyümölcsös birs
 
 4. melléklet a 19/2014. (X. 29.) FM rendelethez
 

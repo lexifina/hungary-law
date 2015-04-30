@@ -32,7 +32,7 @@ c) amelyben az „A”, „B” és „C” típusú mezőgazdasági biztosítá
 
 d) amelyben a biztosítási szerződéssel lefedett terület vonatkozásában a kárküszöb
 
-da)[^8] minden biztosítás típus esetében meghaladja a károsodással érintett területre eső biztosítási összeg 30%-át,
+da)[^9] minden biztosítás típus esetében meghaladja a károsodással érintett területre eső biztosítási összeg 30%-át,
 
 db) az Mkk. tv. 2. § 10. pontja szerinti felhőszakadáskár és az Mkk. tv. 2. § 19. pontja szerinti mezőgazdasági árvízkár kockázatoknál a károsodott növénytábla biztosítási összegének 40%-a,
 
@@ -54,7 +54,7 @@ fe) a kárt vagy károkat okozó biztosítási eseményt vagy biztosítási esem
 
 ff) a hozamcsökkenés becsült mértékét és forintosított értékét,
 
-fg) a biztosítási esemény Mezőgazdasági Parcella Azonosító Rendszer szerinti azonosító helyét [blokkazonosító, valamint a (11) bekezdés szerinti elektronikus felületen történő adatfeltöltés esetén táblasorszám],
+fg)[^10] a biztosítási esemény Mezőgazdasági Parcella Azonosító Rendszer szerinti azonosító helyét,
 
 fh) a károsodott terület nagyságát, és
 
@@ -72,16 +72,23 @@ i) amely tartalmazza a mezőgazdasági termelő hozzájárulását, amely alapj�
 
 j) amely alapján a biztosító a tényleges veszteséget meghaladó kártérítést nem fizet.
 
-(2) Egyazon területen ugyanarra a növénykultúrára, ugyanarra a biztosítási eseményre és kockázatviselési időszakra kizárólag egy mezőgazdasági biztosítási szerződés díjához nyújtható támogatás. Amennyiben a mezőgazdasági termelő egyazon területen ugyanarra a növénykultúrára több díjtámogatott mezőgazdasági biztosítási szerződés alapján igényel támogatást, úgy támogatás kizárólag a legkorábban megkötött biztosítási szerződés szerinti díj után nyújtható.
+(2)[^11] Egyazon területen ugyanarra a növénykultúrára, ugyanarra a biztosítási eseményre és kockázatviselési időszakra kizárólag egy mezőgazdasági biztosítási szerződés díjához nyújtható támogatás, függetlenül a biztosítás típusától. Ha a mezőgazdasági termelő egyazon területen ugyanarra a növénykultúrára, ugyanarra a biztosítási eseményre és kockázatviselési időszakra több díjtámogatott mezőgazdasági biztosítási szerződés alapján igényel támogatást, akkor támogatás kizárólag a legkorábban megkötött biztosítási szerződés szerinti díj után nyújtható, függetlenül a biztosítás típusától.
 
 (3) Az (1) bekezdés szerinti mezőgazdasági biztosítási szerződés díjához csak abban a naptári évben igényelhető támogatás, amely naptári év termelésére a szerződés vonatkozik.
 
 (4) Amennyiben a mezőgazdasági termelő nem rendelkezik az (1) bekezdés a) pont aj) alpontjában meghatározott adatokkal, úgy a megelőző ötéves időszak legmagasabb és legalacsonyabb értékeinek kizárásával képzett hároméves, a biztosítási szerződéssel lefedett terület szerint illetékes megyei kormányhivatal földművelésügyi igazgatóságánál elérhető, az adott növénykultúrára és az adott évekre vonatkozó megyei vagy országos átlagtermés-adatokat kell figyelembe venni.
 
-(5) Támogatás csak a biztosított mezőgazdasági termelőre vonatkozó, a 4–6. §-ban meghatározott biztosítási szerződés szerinti díjelőírás teljes összegének megfizetése esetén nyújtható.
+(5)[^12] Támogatás csak a biztosított mezőgazdasági termelőre vonatkozó, a 4–6. §-ban meghatározott biztosítási módozat szerinti díjelőírás teljes összegének megfizetése esetén nyújtható.
 
 (6) A mezőgazdasági termelő a mezőgazdasági biztosítási szerződéshez az 1. melléklet szerinti terület- és hozamadatokat az erre a célra létrehozott elektronikus felületen is jogosult megadni, amely önmagában nem minősül ajánlatkérésnek. A mezőgazdasági termelő által megadott adatok az Mkk. tv. 18. § (1) bekezdése szerinti adatbázisban tárolásra kerülnek.
 
-(7) Az 1. melléklet szerinti adatok elektronikus úton történő megadására meghatalmazott vagy technikai közreműködő igénybevétele esetén a meghatalmazott és a technikai közreműködő eljárására, a vélelmezett örökös eljárására, valamint az elektronikus kapcsolattartásra az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló tárgyévi rendelet rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+(7)[^13] Az 1. melléklet szerinti adatok elektronikus úton történő megadására, meghatalmazott vagy kamarai meghatalmazott igénybevétele esetén a meghatalmazott és a kamarai meghatalmazott eljárására, vélelmezett örökös eljárása esetén a vélelmezett örökös eljárására, valamint az elektronikus kapcsolattartásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló tárgyévi rendelet rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
-[^8]: A 3. § (1) bekezdés d) pont da) alpontja a 27/2014. (XI. 25.) FM rendelet 20. § (2) bekezdésével megállapított szöveg.
+(8)[^14] Ha egy biztosítási szerződés egy módozatában akár egyetlen növénykultúra az adott módozatban nem támogatható, akkor támogatás az adott módozat díja után nem nyújtható.
+
+[^9]: A 3. § (1) bekezdés d) pont da) alpontja a 27/2014. (XI. 25.) FM rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdés f) pont fg) alpontja a 20/2015. (IV. 27.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (2) bekezdése a 20/2015. (IV. 27.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § (5) bekezdése a 20/2015. (IV. 27.) FM rendelet 7. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (7) bekezdése a 20/2015. (IV. 27.) FM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^14]: A 3. § (8) bekezdését a 20/2015. (IV. 27.) FM rendelet 2. § (4) bekezdése iktatta be.

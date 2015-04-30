@@ -1,31 +1,33 @@
 ## Az „A” típusú mezőgazdasági biztosítási szerződéssel lefedett növénykultúrák
 
-## 1. búza, kétszeres és egyéb búza (GAB01),
+## 1. búza, kétszeres és egyéb búza,
 
-## 2. árpa (GAB04),
+## 2. árpa,
 
-## 3. káposztarepce (IPA02),
+## 3. káposztarepce,
 
-## 4. tritikále (GAB08),
+## 4. tritikále,
 
-## 5. rozs (GAB03),
+## 5. rozs,
 
-## 6. napraforgómag (IPA17),
+## 6. napraforgómag,
 
-## 7. kukorica (GAB06),
+## 7. kukorica,
 
-## 8. borszőlő ültetvény (ULT19),
+## 8. borszőlő ültetvény,
 
-## 9. alma (ULT01),
+## 9. alma,
 
-## 10. hagyományos gyümölcsös alma (HAG01),
+## 10. hagyományos gyümölcsös alma,
 
-## 11. egyéb szőlőültetvény (ULT20),
+## 11. egyéb szőlőültetvény,
 
-## 12. körte (ULT15),
+## 12. körte,
 
-## 13. hagyományos gyümölcsös körte (HAG15),
+## 13. hagyományos gyümölcsös körte,
 
-## 14. tavaszi búza (GAB18)
+## 14. tavaszi búza
 
-3. melléklet a 19/2014. (X. 29.) FM rendelethez
+3. melléklet a 19/2014. (X. 29.) FM rendelethez[^29]
+
+[^29]: A 3. melléklet a 20/2015. (IV. 27.) FM rendelet 6. § b) pontjával megállapított szöveg.

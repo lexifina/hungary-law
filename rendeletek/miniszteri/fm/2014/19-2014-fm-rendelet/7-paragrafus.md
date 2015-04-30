@@ -2,7 +2,7 @@
 
 7. § (1) A biztosító a megkötött mezőgazdasági biztosítási szerződés adatai közül a biztosított mezőgazdasági termelőnkénti bontásban a szerződéskötés dátumára, a kötvényszámra, a biztosítási eseményre, a módozatra, a biztosított növénykultúrára, a hozamra, a területre, a blokkazonosítókra, és „A”, „B”, „C” típusonként a díjelőírásra vonatkozó adatokat legkésőbb a tárgyév szeptember 30-ig elektronikus úton benyújtja az MVH részére.
 
-(2) Amennyiben a 3. § szerinti mezőgazdasági biztosítási szerződésben a szerződő fél nem a mezőgazdasági termelő, úgy a 2. § (2) bekezdésében meghatározott támogatási kérelmet a szerződő fél nyújtja be az MVH-hoz azzal, hogy az egyes biztosítottak vonatkozásában kitöltött 4. melléklet szerinti kérelemhez egy biztosítási ajánlatot, valamint a (3) bekezdés a) pontja szerinti meghatalmazás másolati példányát mellékeli.
+(2)[^19] Ha a 3. § szerinti mezőgazdasági biztosítási szerződésben a szerződő fél nem a mezőgazdasági termelő, akkor a 2. § (2) bekezdésben meghatározott támogatási kérelmet a szerződő fél nyújtja be az MVH-hoz azzal, hogy az egyes biztosítottak vonatkozásában kitöltött, 4. melléklet szerinti kérelemhez a biztosítási ajánlat másolatát, valamint a (3) bekezdés a) pontja szerinti meghatalmazás másolati példányát mellékeli.
 
 (3) A (2) bekezdés szerinti esetben a mezőgazdasági biztosítási szerződés után e rendelet szerinti támogatás csak abban az esetben vehető igénybe, ha
 
@@ -12,7 +12,7 @@ b) a biztosított mezőgazdasági termelő a biztosítási díjat a szerződő f
 
 (4) A mezőgazdasági biztosítás 3. § (1) bekezdés a) pont af) alpontja szerinti díjához nyújtott támogatás iránti kérelmet az (1)–(3) bekezdésben meghatározott, a biztosító által elektronikus úton szolgáltatott adatok és a beküldött dokumentumok alapján – figyelemmel az Mkk. tv. 16. § (4) bekezdésére – az MVH bírálja el.
 
-(5)[^11] A mezőgazdasági biztosítás díjához nyújtott támogatásról az MVH legkésőbb tárgyév december 10-ig hoz döntést.
+(5)[^20] A mezőgazdasági biztosítás díjához nyújtott támogatásról az MVH legkésőbb tárgyév december 10-ig hoz döntést, és a forrás rendelkezésre állását követően gondoskodik a kifizetések teljesítéséről.
 
 (6) A támogatási összeg a tárgyév szeptember 30-ig megküldött díjelőírási adatok alapján, a biztosító 3. § (1) bekezdés a) pont ai) alpontja, illetve a szerződő fél (3) bekezdés b) pontja szerinti díjigazolásában foglaltak figyelembevételével kerül megállapításra.
 
@@ -26,4 +26,15 @@ b) akivel szemben valamely támogatás visszafizetésére kötelező olyan euró
 
 (9) Az üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést a biztosító saját helyszíni ellenőrzése és nyilvántartása alapján, biztosítói termésadatok hiányában a mezőgazdasági termelő által átadott adatok, tények felhasználásával vagy más, a mezőgazdasági biztosítási szerződésben rögzített módon kell megállapítani.
 
-[^11]: A 7. § (5) bekezdése a 27/2014. (XI. 25.) FM rendelet 20. § (5) bekezdésével megállapított szöveg.
+(10)[^21] Az azonosítható elszámolható költségekhez kapcsolódó, e rendelet szerinti támogatások a következő támogatásokkal halmozhatók:
+
+a) bármely egyéb állami támogatás, amennyiben az adott intézkedések különböző, azonosítható elszámolható költségekre vonatkoznak;
+
+b) ugyanazon, egymást részben vagy egészben átfedő elszámolható költségekhez kapcsolódó bármilyen más állami támogatás abban az esetben, ha az ilyen halmozódás nem eredményezi az adott támogatásra a mezőgazdasági csoportmentességi rendelet értelmében alkalmazandó legmagasabb támogatási intenzitás vagy támogatási összeg túllépését.
+
+(11)[^22] Az e rendelet szerinti támogatások ugyanazon elszámolható költségek tekintetében nem halmozhatók csekély összegű támogatással, ha az ilyen halmozódás eredményeként a támogatási intenzitás meghaladná a 9. § (1) bekezdésében megállapított mértéket.
+
+[^19]: A 7. § (2) bekezdése a 20/2015. (IV. 27.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^20]: A 7. § (5) bekezdése a 20/2015. (IV. 27.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^21]: A 7. § (10) bekezdését a 20/2015. (IV. 27.) FM rendelet 3. § (3) bekezdése iktatta be.
+[^22]: A 7. § (11) bekezdését a 20/2015. (IV. 27.) FM rendelet 3. § (3) bekezdése iktatta be.
