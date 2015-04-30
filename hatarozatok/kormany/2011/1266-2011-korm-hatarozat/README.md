@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1266-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2011-08-04 | 2011-1266-30-22.1 | 1266/2011. (VIII. 4.) Korm. határozat |
+| 2015-04-30 | 2011-1266-30-22.2 | 1265/2015. (IV. 30.) Korm. határozat |
