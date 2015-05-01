@@ -4,12 +4,11 @@
 
 (3)[^12]
 
-(4)[^13]
+(4) Hatályát veszti a Kr2. 7. § (3) bekezdés i) pontjában a „tengeri” szövegrész.
 
-(5)[^14]
+(5)[^13]
 
 [^10]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^11]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^12]: A 10. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: a 10. § (4) bekezdése a 6. § (3) bekezdése alapján 2015. május 1-jén lép hatályba.
-[^14]: A 10. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
