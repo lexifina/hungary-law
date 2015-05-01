@@ -1,0 +1,1 @@
+## „(4) Az (1)–(3) bekezdésen túl a helyettes államtitkárok gyakorolják a jogszabályokban, a közjogi szervezetszabályozó eszközökben és a belső rendelkezésekben hatáskörükbe utalt feladatköröket, továbbá ellátják mindazokat a feladatokat, amelyekkel őket a miniszter és a közigazgatási államtitkár eseti jelleggel megbízza.”
