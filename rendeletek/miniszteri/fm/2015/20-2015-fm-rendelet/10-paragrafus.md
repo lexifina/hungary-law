@@ -1,3 +1,0 @@
-## 9. § A 27/2014. (XI. 25.) FM rendelet 11. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A kárbejelentés és a kárenyhítő juttatás iránti kérelem elektronikus úton történő benyújtásának módjára, meghatalmazott vagy kamarai meghatalmazott igénybevétele esetén a meghatalmazott és a kamarai meghatalmazott eljárására, vélelmezett örökös eljárása esetén a vélelmezett örökös eljárására, valamint az elektronikus kapcsolattartásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló tárgyévi rendelet rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.”
