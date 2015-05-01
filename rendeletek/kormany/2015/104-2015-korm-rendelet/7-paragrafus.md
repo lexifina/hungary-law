@@ -1,0 +1,3 @@
+7. § (1) Az OFI-tól 2015. május 1-jén a Támogatáskezelőhöz kerülő, e rendelet 4. §-a szerinti feladatok, továbbá az átvett feladatokhoz kötődő foglalkoztatotti állomány, tárgyi eszköz és egyéb más, vagyoni értékű jogok tekintetében 2015. május 1-jétől a Támogatáskezelő az OFI jogutódja.
+
+(2) Az OFI-tól 2015. május 1-jén a miniszterhez kerülő, az éves pályázati terv összeállításával, valamint a pályázati kiírások előkészítésében való együttműködéssel kapcsolatos feladatok, továbbá az átvett feladatokhoz kötődő foglalkoztatotti állomány, tárgyi eszköz és egyéb más, vagyoni értékű jogok tekintetében 2015. május 1-jétől az oktatásért felelős minisztérium az OFI jogutódja.
