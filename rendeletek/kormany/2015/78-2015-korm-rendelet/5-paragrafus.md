@@ -1,0 +1,1 @@
+## 4. § Ha a környezetvédelmi vagy természetvédelmi szakkérdést a környezetvédelmi és természetvédelmi hatóság, illetve az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség más hatóság eljárásában – jogszabály alapján – szakértőként vizsgálja, az 1. melléklet szerinti szakértői díjat állapítja meg.
