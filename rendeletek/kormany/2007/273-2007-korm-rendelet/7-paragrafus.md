@@ -12,7 +12,7 @@
 
 (6)[^31] Amennyiben a termelői engedélyes, a felhasználó, illetve a megállapodással rendelkező villamosenergia-kereskedő az ajánlati felhívásban meghatározott feltételeknek megfelel, akkor köteles az átviteli rendszerirányító részére ajánlatot tenni.
 
-(6a)[^32] Kizárólag olyan villamosenergia-kereskedő ajánlata fogadható be, aki legalább három éve jogerős villamosenergia-kereskedelemre vonatkozó működési engedéllyel rendelkezik.
+(6a)[^32]
 
 (7)[^33] Amennyiben az ajánlattételre kötelezettek a (6) bekezdés szerinti kötelezettségüknek nem tesznek eleget, az átviteli rendszerirányító a Hivatalnak bejelentést tesz. A Hivatal a jogszabályi kötelezettség megszegésének megállapítása esetén a VET 96. §-ának (1) bekezdésében meghatározott jogkövetkezményeket alkalmazza.
 
@@ -23,6 +23,6 @@
 [^29]: A Vhr. 7. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 24. § (1) bekezdése szerint módosított szöveg.
 [^30]: A Vhr. 7. § (5) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^31]: A Vhr. 7. § (6) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése, a 9/2014. (I. 20.) Korm. rendelet 2–3. §-a szerint módosított szöveg.
-[^32]: A Vhr. 7. § (6a) bekezdését a 9/2014. (I. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^32]: A Vhr. 7. § (6a) bekezdését a 9/2014. (I. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 112/2015. (IV. 30.) Korm. rendelet 2. §-a.
 [^33]: A Vhr. 7. § (7) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
 [^34]: A Vhr. 7. § (8) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
