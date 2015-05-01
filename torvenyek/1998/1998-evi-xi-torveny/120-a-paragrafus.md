@@ -1,6 +1,6 @@
 ## XVI. Fejezet
 
-## A PÉNZMOSÁS ÉS A TERRORIZMUS FINANSZÍROZÁSA MEGELŐZÉSÉNEK ÉS MEGAKADÁLYOZÁSÁNAK ELLENŐRZÉSE
+## A PÉNZMOSÁS ÉS A TERRORIZMUS FINANSZÍROZÁSA MEGELŐZÉSÉNEK ÉS MEGAKADÁLYOZÁSÁNAK, AZ ÜGYVÉDI LETÉTEK KEZELÉSÉNEK ELLENŐRZÉSE
 
 120/A. § (1) A területi ügyvédi kamara (e §-ban a továbbiakban: kamara) e § szerint ellenőrzi az ügyvédnek
 

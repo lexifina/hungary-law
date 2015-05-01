@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-11-00-00
 | 2014-05-16 | 2014. évi XVIII. törvény | 1998-11-00-00.34 |
 | 2014-09-30 | 2014. évi XXXIX. törvény | 1998-11-00-00.35 |
 | 2015-01-01 | 2014. évi LXXII. törvény | 1998-11-00-00.36 |
+| 2015-05-01 | 2013. évi CCLII. törvény | 1998-11-00-00.37 |

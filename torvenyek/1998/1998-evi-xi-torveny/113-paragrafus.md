@@ -34,6 +34,8 @@ n) meghatározza a kamarai választások időszakát,
 
 o) másodfokon határoz a pénzmosás és terrorizmus finanszírozása megelőzésének és megakadályozásának ellenőrzését szolgáló vizsgálat befejezéséről,
 
-p) elvégzi a teljes ülés és az Alapszabály által meghatározott egyéb feladatokat.
+p) másodfokon határoz az ügyvéd letét kezelésére vonatkozó szabályok megtartása ellenőrzésének eredményéről,
+
+q) elvégzi a teljes ülés és az Alapszabály által meghatározott egyéb feladatokat.
 
 (3) Az elnökség határozata elleni jogorvoslatra a 104. § (4) bekezdését kell alkalmazni azzal, hogy a keresetet a területi kamara nyújthatja be. Ez a jog nem érinti az egyes ügyekre e törvényben külön meghatározott jogorvoslati lehetőséget.

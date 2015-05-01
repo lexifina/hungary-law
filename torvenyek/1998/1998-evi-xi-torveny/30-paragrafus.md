@@ -10,6 +10,6 @@ c) a megbízáshoz kapcsolódóan megőrzésre
 
 fogadhat el.
 
-(2) Készpénz és értéktárgy letétként való átvételét az ügyvéd írásban, letéti szerződésben köteles rögzíteni.
+(2) A vagyontárgy és pénz letétként való átvételére vonatkozó jogügyletet az ügyvéd írásban, a Magyar Ügyvédi Kamara szabályzatában meghatározott tartalmi elemeket is magában foglaló letéti szerződésben köteles rögzíteni.
 
-(3) Az ügyvéd az átvett készpénzt és értéktárgyat kizárólag letétként kezelheti, azt nem hasznosíthatja, és nem fogadhat el olyan megbízást, amely a letét felhasználására hatalmazza fel.
+(3) Az ügyvéd az átvett pénzt és vagyontárgyat kizárólag letétként kezelheti, azt nem hasznosíthatja, és nem fogadhat el olyan megbízást, amely a letét felhasználására hatalmazza fel.

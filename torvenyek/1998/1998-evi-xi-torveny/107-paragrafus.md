@@ -16,6 +16,8 @@ f) fegyelmi büntetésnek nem minősülő figyelmeztetést alkalmazhat,
 
 g) irányítja a területi kamara ügyintézői szervezetének működését, az alkalmazottak felett munkáltatói jogot gyakorol,
 
-h) elvégzi a közgyűlés és az alapszabály által meghatározott egyéb feladatokat.
+h) elrendeli az ügyvédi letét kezelésére vonatkozó szabályok megtartásának ellenőrzését és első fokon határoz az ellenőrzés eredményéről,
+
+i) elvégzi a közgyűlés és az alapszabály által meghatározott egyéb feladatokat.
 
 (2) A területi kamara elnökének határozata ellen a közlésétől számított tizenöt napon belül a területi elnökséghez fellebbezhet a területi kamarának az a tagja, akit a határozat érint.
