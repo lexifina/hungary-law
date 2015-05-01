@@ -6,6 +6,9 @@
 
 (4)[^63] Ha az érkeztető rendszerhez a 2. mellékletben felsorolt küldemény érkezik, azt az érkeztető rendszer működtetője az átvétel tényének és időpontjának megjelölésével, illetve amennyiben a küldeményt felbontotta, a felbontás tényének és időpontjának dokumentálásával a címzetthez a postai papíralapú küldeményeken feltüntetett címen történő közvetlen kézbesítés érdekében – a közvetlen kézbesítés szükségességének küldeményen való feltüntetése mellett – a postai szolgáltatónak haladéktalanul visszaadja vagy az Állami Futárszolgálatnak haladéktalanul átadja.
 
+(5)[^64] A (4) bekezdés szerinti küldeményeket az 1. melléklet szerinti szerv köteles átvenni, illetve ha a küldemények között tévesen továbbított küldemény található, azt haladéktalanul továbbítja a helyes címzett részére.
+
 [^61]: A 38/B. §-t a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be.
 [^62]: A 38/B. § (1) bekezdése a 34/2015. (II. 27.) Korm. rendelet 33. §-ával megállapított szöveg.
 [^63]: A 38/B. § (4) bekezdése a 34/2015. (II. 27.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^64]: A 38/B. § (5) bekezdését a 113/2015. (IV. 30.) Korm. rendelet 1. §-a iktatta be.

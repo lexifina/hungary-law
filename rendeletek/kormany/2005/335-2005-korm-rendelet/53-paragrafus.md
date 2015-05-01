@@ -1,8 +1,8 @@
-53. §[^95] (1) Jogszabály eltérő rendelkezése hiányában a papír alapú irat akkor hiteles kiadmány, ha
+53. §[^99] (1) Jogszabály eltérő rendelkezése hiányában a papír alapú irat akkor hiteles kiadmány, ha
 
-a)[^96] azt a szervezeti és működési szabályzatban, ügyrendben, iratkezelési szabályzatban vagy a kiadmányozás rendjéről szóló szabályzatban meghatározott kiadmányozási joggal rendelkező személy saját kezűleg aláírja, és aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel, vagy
+a)[^100] azt a szervezeti és működési szabályzatban, ügyrendben, iratkezelési szabályzatban vagy a kiadmányozás rendjéről szóló szabályzatban meghatározott kiadmányozási joggal rendelkező személy saját kezűleg aláírja, és aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel, vagy
 
-b)[^97] a kiadmányozási joggal rendelkező személy neve mellett az „s. k.” jelzés szerepel, a szervezeti és működési szabályzatban, ügyrendben, iratkezelési szabályzatban vagy a kiadmányozás rendjéről szóló szabályzatban meghatározott hitelesítésre felhatalmazott személy azt saját kezűleg aláírja, továbbá a felhatalmazott személy aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel.
+b)[^101] a kiadmányozási joggal rendelkező személy neve mellett az „s. k.” jelzés szerepel, a szervezeti és működési szabályzatban, ügyrendben, iratkezelési szabályzatban vagy a kiadmányozás rendjéről szóló szabályzatban meghatározott hitelesítésre felhatalmazott személy azt saját kezűleg aláírja, továbbá a felhatalmazott személy aláírása mellett a szerv hivatalos bélyegzőlenyomata szerepel.
 
 (2) Nyomdai sokszorosítás esetén elegendő
 
@@ -28,7 +28,7 @@ b) hiteles elektronikus
 
 ## másolatot is kiadni.
 
-(6)[^98] Ha jogszabály a kiadmányozó aláírását, illetve bélyegzőlenyomatát követeli meg, úgy az elektronikus iratról készült hiteles papír alapú iraton ez úgy teljesíthető, hogy az irat utolsó lapján, vagy külön lapon – a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló Korm. rendeletben előírt záradékon felül – az 1. mellékletben felsorolt szervek által elhelyezett záradékként szerepelnie kell
+(6)[^102] Ha jogszabály a kiadmányozó aláírását, illetve bélyegzőlenyomatát követeli meg, úgy az elektronikus iratról készült hiteles papír alapú iraton ez úgy teljesíthető, hogy az irat utolsó lapján, vagy külön lapon – a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló Korm. rendeletben előírt záradékon felül – az 1. mellékletben felsorolt szervek által elhelyezett záradékként szerepelnie kell
 
 a) a kiadmányozó külön jogszabályban meghatározott követelményeknek megfelelő elektronikus aláírásának és az aláírás időpontja képi lenyomatának,
 
@@ -36,7 +36,7 @@ b) a kiadmányozó neve melletti „s.k.” jelzésnek, valamint a szervezet nev
 
 c) az iratérvényességi nyilvántartásban történő nyilvántartás ténye feltüntetésének és a kiadmányozó neve mellett az „s.k.” jelzésnek.
 
-[^95]: Az 53. § a 196/2013. (VI. 13.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^96]: Az 53. § (1) bekezdés a) pontja a 62/2015. (III. 24.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^97]: Az 53. § (1) bekezdés b) pontja a 62/2015. (III. 24.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^98]: Az 53. § (6) bekezdése a 62/2015. (III. 24.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^99]: Az 53. § a 196/2013. (VI. 13.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^100]: Az 53. § (1) bekezdés a) pontja a 62/2015. (III. 24.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^101]: Az 53. § (1) bekezdés b) pontja a 62/2015. (III. 24.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^102]: Az 53. § (6) bekezdése a 62/2015. (III. 24.) Korm. rendelet 11. § (3) bekezdése iktatta be.

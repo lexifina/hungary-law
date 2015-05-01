@@ -1,4 +1,4 @@
-2. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^156]
+2. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^164]
 
 Az egységes kormányzati ügyiratkezelő rendszerben nem érkeztethető és nem kézbesíthető küldemények
 
@@ -40,7 +40,7 @@ d) diplomáciai és konzuli küldemények, valamint a Magyarországon akkreditá
 
 e) különleges digitalizálási eljárást igénylő küldemények;
 
-f)[^157] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok;
+f)[^165] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok;
 
 g) kegyelmi ügyek;
 
@@ -52,14 +52,17 @@ j) az 1. mellékletben meghatározott szervek iratkezelési szabályzatában meg
 
 k) az 1. mellékletben felsorolt szervek iratkezelési szabályzatában meghatározott azon küldemények, amelyek kezelésére a szerv iratkezelési szabályzata speciális rendelkezéseket tartalmaz és digitalizálásukról a szerv gondoskodik.
 
-l)[^158] sikertelen kézbesítés miatt a feladónak visszaküldött küldemények;
+l)[^166] sikertelen kézbesítés miatt a feladónak visszaküldött küldemények;
 
-m)[^159] feladóhoz visszaérkezett tértivevények;
+m)[^167] feladóhoz visszaérkezett tértivevények;
 
-n)[^160] a fővárosi és megyei kormányhivatal családtámogatási és lakáscélú állami támogatási feladataival kapcsolatos küldemények.
+n)[^168] a fővárosi és megyei kormányhivatal családtámogatási és lakáscélú állami támogatási feladataival kapcsolatos küldemények;
 
-[^156]: A 2. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
-[^157]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^158]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^159]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^160]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+o)[^169] a földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet I. Fejezete szerint meghatározott földügyi igazgatási feladatok körébe tartozó küldemények.
+
+[^164]: A 2. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
+[^165]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^166]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
+[^167]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
+[^168]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^169]: A 2. melléklet II. pont o) alpontját a 113/2015. (IV. 30.) Korm. rendelet 5. §-a iktatta be.
