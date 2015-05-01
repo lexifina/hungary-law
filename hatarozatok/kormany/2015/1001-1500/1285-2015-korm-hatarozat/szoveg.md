@@ -34,4 +34,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-8. visszavonja a székesfehérvári stadionrekonstrukciós program megvalósításához szükséges intézkedésekről szóló 1922/2013. (XII. 11.) Korm. határozatot.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
