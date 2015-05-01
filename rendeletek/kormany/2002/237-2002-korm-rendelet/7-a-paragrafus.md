@@ -1,8 +1,8 @@
-## 7. § A hajózási hatóság hatáskörébe tartozó hatósági eljárásokban külön jogszabályban[^22] meghatározott mértékű hatósági eljárási díjat kell fizetni.
+## 7. § A hajózási hatóság hatáskörébe tartozó hatósági eljárásokban külön jogszabályban[^15] meghatározott mértékű hatósági eljárási díjat kell fizetni.
 
-## Elektronikus ügyintézés[^23]
+## Elektronikus ügyintézés[^16]
 
-7/A. §[^24] (1) Valamennyi elektronikus úton kezdeményezett hajózási ügyben a kérelem következő mellékleteit – ha az adott mellékletet hiteles elektronikus másolatban nem nyújtják be – papír alapon kell benyújtani:
+7/A. §[^17] (1) Valamennyi elektronikus úton kezdeményezett hajózási ügyben a kérelem következő mellékleteit – ha az adott mellékletet hiteles elektronikus másolatban nem nyújtják be – papír alapon kell benyújtani:
 
 a) területhasználati jogosultságot igazoló,
 
@@ -32,6 +32,6 @@ l) a kérelmezőt fényképen ábrázoló
 
 (2) A tervlapot vagy térképet, valamint az eredetiben A/4-nél nagyobb méretű dokumentumot az elektronikus úton kezdeményezett hajózási ügyben is papír alapon kell benyújtani.
 
-[^22]: A hajózási hatósági eljárások díjairól szóló 29/2001. (IX. 1.) KöViM rendelet.
-[^23]: A 7/A. § előtti címet a 227/2005. (X. 13.) Korm. rendelet 23. §-a iktatta be.
-[^24]: A 7/A. §-t a 227/2005. (X. 13.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 29. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
+[^15]: A hajózási hatósági eljárások díjairól szóló 29/2001. (IX. 1.) KöViM rendelet.
+[^16]: A 7/A. § előtti címet a 227/2005. (X. 13.) Korm. rendelet 23. §-a iktatta be.
+[^17]: A 7/A. §-t a 227/2005. (X. 13.) Korm. rendelet 23. §-a iktatta be. E módosító rendelet 29. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
