@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-472-20-
 | 2014-02-04 | 2013-472-20-22.2 | 22/2014. (II. 3.) Korm. rendelet |
 | 2014-09-13 | 2013-472-20-22.3 | 22/2014. (II. 3.) Korm. rendelet |
 | 2015-04-01 | 2013-472-20-22.4 | 72/2015. (III. 30.) Korm. rendelet |
+| 2015-05-01 | 2013-472-20-22.5 | 115/2015. (IV. 30.) Korm. rendelet |
