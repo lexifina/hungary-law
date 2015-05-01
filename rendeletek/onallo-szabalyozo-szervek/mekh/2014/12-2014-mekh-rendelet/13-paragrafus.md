@@ -1,3 +1,3 @@
-## 12. §[^9]
+## 12. §[^10]
 
-[^9]: A 12. § a 23. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^10]: A 12. § a 2/2015. (IV. 14.) MEKH rendelet 24. §-a alapján nem lép hatályba.

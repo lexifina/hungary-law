@@ -1,3 +1,3 @@
-## 7–9. §[^6]
+## 9. §[^7]
 
-[^6]: A 7–9. § a 23. § (3) bekezdése alapján 2015. október 1-jén lép hatályba.
+[^7]: A 9. § a 2/2015. (IV. 14.) MEKH rendelet 24. §-a alapján nem lép hatályba.

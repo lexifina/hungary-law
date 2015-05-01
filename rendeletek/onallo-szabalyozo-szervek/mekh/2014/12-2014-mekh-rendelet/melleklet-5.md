@@ -72,6 +72,6 @@
 
 ## ”
 
-5. melléklet a 12/2014. (XII. 13.) MEKH rendelethez[^25]
+5. melléklet a 12/2014. (XII. 13.) MEKH rendelethez[^28]
 
-[^25]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

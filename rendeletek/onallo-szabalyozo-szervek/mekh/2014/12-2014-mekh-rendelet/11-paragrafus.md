@@ -1,3 +1,3 @@
-## 10. §[^7]
+## 10. §[^8]
 
-[^7]: A 10. § a 23. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^8]: A 10. § a 2/2015. (IV. 14.) MEKH rendelet 24. §-a alapján nem lép hatályba.
