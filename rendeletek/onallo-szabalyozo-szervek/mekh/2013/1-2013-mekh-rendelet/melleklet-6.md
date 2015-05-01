@@ -78,6 +78,6 @@
 
 | 38 | Zalaegerszeg | Nagylengyel 1-1, Nagylengyel 1-2, Nagylengyel KTD ZRG, Pókaszepetk 1-1, Pókaszepetk 1-2, Zalaegerszeg 1+2, Zalaegerszeg 1, Zalaegerszeg 2, Nagylengyel KTD NLT, Nagylengyel KTD NLT-3 |
 
-6. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^167]
+6. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^213]
 
-[^167]: A 6. melléklet a 6/2013. (XII. 16.) MEKH rendelet 26. § g) pontja szerint módosított szöveg.
+[^213]: A 6. melléklet a 6/2013. (XII. 16.) MEKH rendelet 26. § g) pontja szerint módosított szöveg.

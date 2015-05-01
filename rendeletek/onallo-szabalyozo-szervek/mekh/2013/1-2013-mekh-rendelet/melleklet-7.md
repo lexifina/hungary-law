@@ -24,6 +24,6 @@
 
 | EKe: | szakértő által, adott földgázelosztóra meghatározott elszámolási különbözet mértékével számított költség-igény. |
 
-7. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^168]
+7. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^214]
 
-[^168]: A 7. melléklet a 6/2013. (XII. 16.) MEKH rendelet 26. § h) pontja szerint módosított szöveg.
+[^214]: A 7. melléklet a 6/2013. (XII. 16.) MEKH rendelet 26. § h) pontja szerint módosított szöveg.

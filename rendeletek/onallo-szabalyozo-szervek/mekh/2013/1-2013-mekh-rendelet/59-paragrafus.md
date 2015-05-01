@@ -1,7 +1,11 @@
-59. § (1) A 984/2013/EU bizottsági rendelet 9. cikk (2) bekezdése szerinti gázévtől a szállítási kapacitásdíj fizetésének szabályai az átadás-átvételi pontokon történő napon belüli szállítási kapacitás-lekötés esetén az e szakaszban foglalt szabályok szerint alakulnak.
+59. § (1)[^186] A 2015. október 1-jétől kezdődő gázévtől a szállítási kapacitásdíj fizetésének szabályai az átadás-átvételi pontokon történő napon belüli szállítási kapacitás-lekötés esetén az e szakaszban foglalt szabályok szerint alakulnak.
 
 (2) Az átadás-átvételi pontonként lekötött legnagyobb órai kapacitások bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
 
-(3) Azon átadási-átvételi pont után, amelyen a téli fogyasztási időszakban földgázt vételeznek, a lekötés időtartamának minden napjára a 2. melléklet II. pontjában meghatározott éves szállítási kapacitásdíj 1,2%-át köteles megfizetni a rendszerhasználó.
+(3)[^187] Azon átadási-átvételi pont után, amelyen a téli fogyasztási időszakban földgázt vételeznek, a szerződési időszakra a 2. melléklet II. pontjában meghatározott éves szállítási kapacitásdíj 1,5%-át köteles megfizetni a rendszerhasználó.
 
-(4) Azon átadási-átvételi pont után, amelyen nem a téli fogyasztási időszakban vételeznek földgázt, a lekötés időtartamának minden napjára a 2. melléklet II. pontjában meghatározott éves szállítási kapacitásdíj 0,12%-át köteles megfizetni a rendszerhasználó.
+(4)[^188] Azon átadási-átvételi pont után, amelyen a nem téli fogyasztási időszakban vételeznek földgázt, a szerződési időszakra a 2. melléklet II. pontjában meghatározott éves szállítási kapacitásdíj 0,2%-át köteles megfizetni a rendszerhasználó.
+
+[^186]: Az 59. § (1) bekezdése a 2/2015. (IV. 14.) MEKH rendelet 19. § k) pontja szerint módosított szöveg.
+[^187]: Az 59. § (3) bekezdése a 2/2015. (IV. 14.) MEKH rendelet 19. § l) és q) pontja szerint módosított szöveg. [E módosító rendelet 19. § q) pontjával elrendelt módosítás, amely szerint a „0,12” szövegrész helyébe a „0,2” szöveg lép, nem vezethető át.]
+[^188]: Az 59. § (4) bekezdése a 2/2015. (IV. 14.) MEKH rendelet 19. § l)–m) és q) pontja szerint módosított szöveg. [E módosító rendelet 19. § q) pontjával elrendelt módosítás, amely szerint az „1,2” szövegrész helyébe a „1,5” szöveg lép, nem vezethető át.]
