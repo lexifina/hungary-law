@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-26-00-00
 | --- | --- | --- |
 | 2015-03-27 | 2015. évi XXVI. törvény | 2015-26-00-00.0 (közlönyállapot) |
 | 2015-03-27 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-26-00-00.1 |
+| 2015-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-26-00-00.2 |
