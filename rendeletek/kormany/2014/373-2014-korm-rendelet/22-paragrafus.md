@@ -1,6 +1,6 @@
-## 21. §[^46]
+## 21. §[^47]
 
-## 22. §[^47] A helyi adóhatóság megkeresésére a járási hivatal az illetékességi területén fekvő település vonatkozásában a helyi adókötelezettség megállapításához szükséges ingatlan-nyilvántartási adatok leválogatásával adatszolgáltatást végez, amely elektronikusan feldolgozható formában a tulajdoni lapon szereplő következő adatokat tartalmazza:
+## 22. §[^48] A helyi adóhatóság megkeresésére a járási hivatal az illetékességi területén fekvő település vonatkozásában a helyi adókötelezettség megállapításához szükséges ingatlan-nyilvántartási adatok leválogatásával adatszolgáltatást végez, amely elektronikusan feldolgozható formában a tulajdoni lapon szereplő következő adatokat tartalmazza:
 
 a) az ingatlan adatai;
 
@@ -10,5 +10,5 @@ ba) természetes személyazonosító adatai,
 
 bb) tulajdoni hányada.
 
-[^46]: A 21. § a 44. § (3) bekezdése alapján 2015. június 1-jén lép hatályba.
-[^47]: A 22. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
+[^47]: A 21. § a 44. § (3) bekezdése alapján 2015. június 1-jén lép hatályba.
+[^48]: A 22. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
