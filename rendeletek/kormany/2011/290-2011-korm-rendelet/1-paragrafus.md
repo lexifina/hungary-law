@@ -30,7 +30,8 @@ l) szolgáltatásra kötelezett: az a természetes személy, jogi személy vagy 
 
 m) üzemi szolgáltatás: közszükségletet kielégítő alapvető szolgáltatásokat folyamatosan biztosító közüzem szolgáltatása,
 
-n) védelmi igazgatás: a közigazgatás részét képező feladat- és szervezeti rendszer, amely az állam védelmi feladatainak megvalósítására létrehozott, valamint e feladatra kijelölt közigazgatási szervek által végzett végrehajtó, rendelkező tevékenység; magában foglalja a különleges jogrendre történő felkészülést, továbbá az említett időszakok és helyzetek honvédelmi, polgári védelmi, katasztrófavédelmi, védelemgazdasági, lakosság-ellátási feladatainak tervezésére, szervezésére, a feladatok végrehajtására irányuló állami tevékenységek összességét.
+n)[^3] védelmi igazgatás: a közigazgatás részét képező feladat- és szervezeti rendszer, amely az állam védelmi feladatainak megvalósítására létrehozott, valamint e feladatra kijelölt közigazgatási szervek által végzett végrehajtó, rendelkező tevékenység; magában foglalja a különleges jogrendre történő felkészülést, továbbá az említett időszakok és helyzetek honvédelmi, polgári védelmi, rendvédelmi, védelemgazdasági, lakosság-ellátási feladatainak tervezésére, szervezésére, a feladatok végrehajtására irányuló állami tevékenységek összességét.
 
 [^1]: Az 1. § e) pontja a 169/2013. (V. 29.) Korm. rendelet 36. §-a szerint módosított szöveg.
 [^2]: Az 1. § j) pontja a 267/2013. (VII. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § n) pontja a 111/2015. (IV. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.

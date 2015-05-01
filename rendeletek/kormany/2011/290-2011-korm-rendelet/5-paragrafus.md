@@ -1,4 +1,4 @@
-## 4. §[^7]
+## 4. §[^8]
 
 ## 3. A közigazgatási államtitkár feladat- és hatásköre
 
@@ -10,4 +10,4 @@
 
 (4) Jogszabály eltérő rendelkezése hiányában valamennyi döntési javaslatot és előterjesztést a közigazgatási államtitkár útján kell a miniszter elé terjeszteni.
 
-[^7]: A 4. §-t a 154/2014. (VI. 18.) Korm. rendelet 2. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^8]: A 4. §-t a 154/2014. (VI. 18.) Korm. rendelet 2. § (2) bekezdés b) pontja hatályon kívül helyezte.

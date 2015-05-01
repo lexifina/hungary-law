@@ -50,4 +50,30 @@
 
 ## – mellékhelyiségek (WC, piszoár).
 
+## G)[^72] Légijármű karbantatás,
+
+## H)[^73] Légijármű földi kiszolgálás,
+
+## I)[^74] Légijármű üzemeltetés,
+
+## J)[^75] Légiközlekedési szakszemélyzet oktatás,
+
+## hajózó személyzet képzés,
+
+## légiforgalmi irányító képzés,
+
+## légijármű karbantartó képzés.
+
+## K)[^76] Légiforgalmi szolgáltatás
+
+## repüléstájékoztatás,
+
+## légiforgalmi irányítás (körzeti irányítás, közelkörzeti irányítás, repülőtéri irányítás).
+
 6. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
+
+[^72]: Az 5. melléklet II. rész H) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^73]: Az 5. melléklet II. rész H) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^74]: Az 5. melléklet II. rész I) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^75]: Az 5. melléklet II. rész J) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^76]: Az 5. melléklet II. rész K) pontját a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.

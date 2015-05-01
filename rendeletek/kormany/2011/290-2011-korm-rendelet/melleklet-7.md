@@ -242,14 +242,48 @@
 
 ## – úszódaru.
 
-## G) Légijárművek:
+## G)[^77] Légijárművek:
 
-## H) Légijármű előkészítő és kiszolgáló eszközök
+## – pilóta által vezetett repülőgép és helikopter,
 
-## I) Repülésgyakorló berendezések.
+## – olyan pilóta nélküli légijármű, amelynek
+
+## 1. felszálló tömege nagyobb, mint 5 kg,
+
+## 2. képes 1 kg feletti hasznos teher szállítására,
+
+## 3. hatótávolsága: nagyobb, mint 2 km, és
+
+## 4. repülési magassága: 100 ft (33 m) AGL fölött van.
+
+## – ejtőernyő.
+
+## H)[^78] Légijármű előkészítő és kiszolgáló eszközök, berendezések:
+
+## – jégtelenítő berendezés/gépjármű,
+
+## – légijármű vontató gépjármű,
+
+## – légijármű indító berendezés/gépjármű,
+
+## – oxigén töltő berendezés/gépjármű,
+
+## – levegő töltő berendezés/gépjármű,
+
+## – hidraulika ellenőrző berendezés/gépjármű,
+
+## – levegő melegítő berendezés/gépjármű,
+
+## – önjáró/vontatható utaslépcső.
+
+## I)[^79] Légiközlekedési hatósági engedélyhez kötött repülésgyakorló berendezések, szimulátorok.
 
 7. melléklet a 290/2011. (XII. 22.) Korm. rendelethez
 
 ## A honvédelmi célra átadásra kerülő technikai eszközökre vonatkozó követelmények
 
 A) A gépjárművekre vonatkozóan:
+
+[^77]: A 6. melléklet G) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^78]: A 6. melléklet H) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^79]: A 6. melléklet I) pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

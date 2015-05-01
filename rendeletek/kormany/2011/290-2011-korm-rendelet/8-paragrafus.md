@@ -1,15 +1,15 @@
-8. § (1)[^8] A társadalmi kapcsolatokért felelős helyettes államtitkár
+8. § (1)[^19] A társadalmi kapcsolatokért felelős helyettes államtitkár felelősségi körébe tartozik
 
-a) ellátja a társadalmi kapcsolattartással, így különösen a Honvédség érdekképviseleti szerveivel történő együttműködéssel, a magyarországi vallási felekezetekkel történő kapcsolattartással, a katonai hagyományőrzéssel, továbbá a kulturális és egyes meghatározott oktatási tevékenységekkel kapcsolatos feladatok összehangolását,
+a) a 6. § (1) bekezdés 33–34., 36. pontjában meghatározott szakterület szakmai irányítása,
 
-b) felügyeli a HM Tábori Lelkészi szolgálat tevékenységét, egyetértési jogot gyakorol az egyes szolgálati ágak szervezeti és működési szabályzataival kapcsolatban,
-
-c) szakmailag irányítja a nemzeti rendezvények koncepciójának kidolgozásával és végrehajtásával kapcsolatos feladatokat.
+b) a Tábori Lelkészi Szolgálat hivatali működésének felügyelete.
 
 (2) A védelempolitikáért és a védelmi tervezésért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 18–21. pontjában meghatározott szakterületek szakmai irányítása.
 
-(3) A védelemgazdaságért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 22–32. pontjában meghatározott szakterületek szakmai irányítása.
+(3)[^20] A védelemgazdaságért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 6., 22–27., 29., 31. és 32. pontjában meghatározott szakterület szakmai irányítása.
 
-(4) Az (1)–(3) bekezdésen túl a helyettes államtitkárok gyakorolják a jogszabályokban, a közjogi szervezetszabályozó eszközökben és a belső rendelkezésekben hatáskörükbe utalt jogköröket, továbbá ellátják mindazokat a feladatokat, amelyekkel őket a miniszter, a parlamenti államtitkár, a közigazgatási államtitkár és a Honvéd Vezérkar főnöke eseti jelleggel megbízza.
+(4)[^21] Az (1)–(3) bekezdésen túl a helyettes államtitkárok gyakorolják a jogszabályokban, a közjogi szervezetszabályozó eszközökben és a belső rendelkezésekben hatáskörükbe utalt feladatköröket, továbbá ellátják mindazokat a feladatokat, amelyekkel őket a miniszter és a közigazgatási államtitkár eseti jelleggel megbízza.
 
-[^8]: A 8. § (1) bekezdése a 154/2014. (VI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: A 8. § (1) bekezdése a 111/2015. (IV. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^20]: A 8. § (3) bekezdése a 111/2015. (IV. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^21]: A 8. § (4) bekezdése a 111/2015. (IV. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

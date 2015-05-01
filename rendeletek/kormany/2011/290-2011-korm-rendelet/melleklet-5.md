@@ -38,7 +38,7 @@
 
 ## Jegyzék a bejelentésre kötelezett ingatlanok és szolgáltatások köréről
 
-I. Ingatlanok
+## I.[^71] Ingatlanok
 
 ## – közoktatási, felsőoktatási intézmény,
 
@@ -80,6 +80,14 @@ I. Ingatlanok
 
 ## – kikötő,
 
-## – vasúti rakodó.
+## – vasúti rakodó,
+
+## – repülőtér,
+
+## – leszállóhely,
+
+## – fedett technikai eszköz tároló (hangár).
 
 II. Szolgáltatások
+
+[^71]: Az 5. melléklet I. része a 111/2015. (IV. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

@@ -1,10 +1,10 @@
-## II. Fejezet[^3]
+## II. Fejezet[^4]
 
 ## A HONVÉDELEM ÁGAZATI IRÁNYÍTÁSA, A HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
 
 ## 1. A honvédelemért felelős miniszter feladat- és hatásköre
 
-2. § (1)[^4]
+2. § (1)[^5]
 
 (2) A honvédelemért felelős miniszter (a továbbiakban: miniszter) a Kormánynak az ország honvédelmi, és a válságkezelés katonai feladatai végrehajtásáért viselt felelősségi körében
 
@@ -102,5 +102,5 @@ jogszabályokat és – jogszabályi rendezést nem igénylő kérdésekben – 
 
 (6) A miniszter a honvédelmi érdek érvényesítése érdekében közreműködik a katasztrófavédelemre, a polgári védelemre, a légi közlekedésre, az állami és a nemzeti vagyonra vonatkozó, a Honvédség járműveit, a kormánytisztviselőket, a közalkalmazottakat, a bírákat és az ügyészeket, a nemzetbiztonsági szolgálatokat, a felsőoktatást és a Nemzeti Közszolgálati Egyetemet, a nemzeti köznevelést és a szakképzést, valamint a nemzetgazdaság védelmi felkészítését és mozgósítását érintő jogszabályok előkészítésében.
 
-[^3]: A II. Fejezet (2–15. §) a 267/2013. (VII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdését a 152/2014. (VI. 6.) Korm. rendelet 136. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A II. Fejezet (2–15. §) a 267/2013. (VII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdését a 152/2014. (VI. 6.) Korm. rendelet 136. § (2) bekezdése hatályon kívül helyezte.

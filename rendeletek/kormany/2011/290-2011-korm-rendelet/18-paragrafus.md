@@ -1,4 +1,4 @@
-## 17. §[^9] A HM Védelmi Hivatal (a továbbiakban: HM VH) előkészíti a Hvt. 21. § (1) bekezdés e)–h) pontjai, a 2. § (2) bekezdés 1–6. és 8. pontjai, valamint a 39. § (1), (2) és (4) bekezdése szerinti döntéseket és koordinálja azok végrehajtását.
+## 17. §[^22] A HM Védelmi Hivatal (a továbbiakban: HM VH) előkészíti a Hvt. 21. § (1) bekezdés e)–h) pontjai, a 2. § (2) bekezdés 1–6. és 8. pontjai, valamint a 39. § (1), (2) és (4) bekezdése szerinti döntéseket és koordinálja azok végrehajtását.
 
 ## 10. Egyes központi államigazgatási szervek vezetőinek honvédelmi igazgatási feladatai
 
@@ -30,4 +30,4 @@ l) végzi a jogszabályban vagy kormányhatározatban részére megállapított 
 
 (2) A központi államigazgatási szerv – kivéve az autonóm államigazgatási szerv és az önálló szabályozó szerv – vezetője a honvédelmi feladatok végrehajtása körében elrendelheti intézkedési tervek elkészítését, végrehajtását, gondoskodik a feladat- és hatáskörébe tartozó honvédelmi feladatok végrehajtásáról.
 
-[^9]: A 17. § a 267/2013. (VII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: A 17. § a 267/2013. (VII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.

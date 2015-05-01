@@ -60,17 +60,17 @@
 
 ## D) Légijárművekre vonatkozóan:
 
-## 1. A légijármű az érvényes üzemeltetési okmányokba előírtaknak megfelelően legyen üzemképes állapotban. Az előző repülés után feltárt meghibásodások legyenek kijavítva.
+## 1.[^80] A légijármű az érvényes üzemeltetési okmányokban előírtaknak megfelelően legyen üzemképes állapotban.
 
-## 2. Az átadás időpontjáig esedékes időszakos, repülési eszközökhöz, évszakokhoz kötött ápolások, műszaki munkák legyenek végrehajtva.
+## 2.[^81] Az átadás időpontjáig esedékes időszakos, repülési eszközökhöz, évszakokhoz kötött karbantartási, műszaki munkák legyenek végrehajtva.
 
-## 3. A légijárművekkel együtt át kell adni
+## 3.[^82] A légijárművekkel együtt át kell adni
 
-## a) az ápoláshoz, egyszerű javításokhoz szükséges rendszeresített szerszámkészletet;
+## a) az üzemeltetéshez és karbantartáshoz, egyszerű javításokhoz szükséges rendszeresített szerszámkészletet és egyéb tartozékokat;
 
 ## b) az állóhelyen történő rögzítéshez, takaráshoz szükséges eszközöket;
 
-## c) a rendszeresített ejtőernyőket és nyitó műszereket;
+## c) a rendszeresített ejtőernyőket, a hozzá tartozó készleteket, és nyitó automatákat;
 
 ## d) a légijármű teljes műszaki és üzemeltetési okmányait.
 
@@ -149,3 +149,7 @@ DUNA-TISZA KÖZE! TISZÁNTÚL!
 LÉGIRIADÓ ELMÚLT!
 
 LÉGIRIADÓ ELMÚLT!”
+
+[^80]: A 7. melléklet D) rész 1. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^81]: A 7. melléklet D) rész 2. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^82]: A 7. melléklet D) rész 3. pontja a 111/2015. (IV. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
