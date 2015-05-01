@@ -1,0 +1,1 @@
+## szöveggel lép hatályba.
