@@ -98,7 +98,7 @@ g) a hajós és tengerész szolgálati könyv kiállításával, vezetésével, 
 
 h) a tengeri kedvtelési célú kishajók jachtnaplójának és személyzeti jegyzékének kiadásával és hitelesítésével,
 
-i)[^149] a tengeri hajózási szolgálatot teljesítő személy egészségi alkalmasságát vizsgáló orvos nyilvántartásba vételével és az egészségi alkalmasság másodfokú vizsgálatában az orvosszakértő kijelölésével,
+i)[^149] a hajózási szolgálatot teljesítő személy egészségi alkalmasságát vizsgáló orvos nyilvántartásba vételével és az egészségi alkalmasság másodfokú vizsgálatában az orvosszakértő kijelölésével,
 
 j) elemi csapás vagy egyéb veszély esetén az úszólétesítmények ideiglenes igénybevételével,
 
@@ -140,7 +140,7 @@ d)[^153] tengerész munkaközvetítői tevékenység.
 [^146]: A 7. § (2) bekezdés 30. pontját a 122/2012. (VI. 26.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^147]: A 7. § (2) bekezdés 31. pontját a 383/2014. (XII. 31.) Korm. rendelet 10. § (1) bekezdése iktatta be.
 [^148]: A 7. § (2a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be.
-[^149]: A 7. § (3) bekezdés i) pontja a 383/2014. (XII. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^149]: A 7. § (3) bekezdés i) pontja a 383/2014. (XII. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított, ugyanezen módosító rendelet 10. § (4) bekezdése szerint módosított szöveg.
 [^150]: A 7. § (3) bekezdés k) pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^151]: A 7. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^152]: A 7. § (5) bekezdés b) pontja a 383/2014. (XII. 31.) Korm. rendelet 10. § (5) bekezdése szerint módosított szöveg.

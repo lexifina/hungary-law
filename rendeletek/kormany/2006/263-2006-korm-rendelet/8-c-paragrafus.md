@@ -50,7 +50,7 @@ b) a repülőtér kényszerhelyzeti tervében foglaltak megfelelnek-e a katasztr
 
 a) – a tiltott tárgyak bevitele és biztonságos őrzése, tárolása feltételeinek való megfelelés, valamint annak elbírálása kérdésében, hogy a tiltott tárgy, annak beviteli céljára figyelemmel, kockázatot jelent-e a légiközlekedés biztonságára vagy a közbiztonságra – a repülőtér fekvése szerint illetékes rendőr-főkapitányságot, Budapesten és Pest megyében a Repülőtéri Rendőr Igazgatóságot,
 
-b) – a bevitel és a szigorított védelmi területen történő munkavégzés során kialakuló biztonsági kockázat szintjének vizsgálata kérdésében – az Alkotmányvédelmi Hivatal területileg illetékes kirendeltségét
+b) – a bevitel és a szigorított védelmi területen történő munkavégzés során kialakuló biztonsági kockázat szintjének vizsgálata kérdésében – az Alkotmányvédelmi Hivatal területileg illetékes kirendeltségét,
 
 c)[^212] a tiltott tárgyak bevitele és biztonságos őrzése, tárolása, felhasználása kérdésében, valamint terrorveszély kérdésében a Terrorelhárítási Központot
 

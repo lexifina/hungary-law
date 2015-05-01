@@ -55,3 +55,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-263-20-
 | 2015-02-15 | 2006-263-20-22.60 | 383/2014. (XII. 31.) Korm. rendelet |
 | 2015-03-12 | 2006-263-20-22.61 | 326/2010. (XII. 27.) Korm. rendelet |
 | 2015-04-01 | 2006-263-20-22.62 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-05-01 | 2006-263-20-22.63 | 383/2014. (XII. 31.) Korm. rendelet |
