@@ -1,0 +1,5 @@
+## 2. § Hatályát veszti a VET Vhr. 7. § (6a) bekezdése.
+
+## 2. A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló
+
+## 19/2009. (I. 30.) Korm. rendelet módosítása
