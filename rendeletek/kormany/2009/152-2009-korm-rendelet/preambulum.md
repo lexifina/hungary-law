@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. §-a (1) bekezdésének f) pontjában foglalt feladatkörében eljárva, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2003. évi LXXXVI. törvény 28. §-ának (6) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
