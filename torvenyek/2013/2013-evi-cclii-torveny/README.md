@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-252-00-00
 | 2015-01-02 | 2010. évi CXXX. törvény | 2013-252-00-00.16 |
 | 2015-01-03 | 2010. évi CXXX. törvény | 2013-252-00-00.17 |
 | 2015-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-252-00-00.18 |
+| 2015-05-02 | 2010. évi CXXX. törvény | 2013-252-00-00.19 |
