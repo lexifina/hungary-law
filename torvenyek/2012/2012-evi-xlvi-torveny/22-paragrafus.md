@@ -6,4 +6,4 @@
 
 (3) Az (1) bekezdésben foglalt digitális adatállományok mindenkori kezelhetőségét (adattárolás, olvashatóság, megjeleníthetőség, adatbiztonság) a technikai fejlődésnek megfelelően, folyamatosan biztosítani kell.
 
-(4) Az (1) bekezdésben meghatározott adatbázisban a 3. § (1) bekezdés a)–f), és h) pontjában nevesített forgalomból kivont adatbázisokat és az előállításuk során keletkezett munkarészeket kell tárolni, valamint a húsz évnél régebbi távérzékelési adatokat.
+(4) Az (1) bekezdésben meghatározott adatbázisban a 3. § (1) bekezdés a)–f) és h) pontjában nevesített, forgalomból kivont adatbázisokat vagy adatokat és az előállításuk során keletkezett munkarészeket, a tíz évnél régebbi távérzékelési adatokat, valamint a nem Egységes Országos Vetület (EOV) rendszerben készült nagyméretarányú topográfiai térképeket kell tárolni.

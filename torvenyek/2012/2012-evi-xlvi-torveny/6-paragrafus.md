@@ -1,4 +1,6 @@
-6. § (1) Az ingatlanügyi hatóság, valamint a honvédelem térképészeti támogatásáért felelős szerv a vállalkozási tevékenységnek nem minősülő alaptevékenységük ellátásához az állami alapadatok adatbázisaiból egymásnak díj-, költség- és térítésmentesen szolgáltatnak adatot.
+6. § (1) Az ingatlanügyi hatóság, valamint a honvédelem térképészeti támogatásáért felelős szerv a vállalkozási tevékenységnek nem minősülő, e törvény hatálya alá tartozó állami alapfeladataik és alapmunkáik ellátásához az állami alapadatok adatbázisaiból egymásnak díj-, költség- és térítésmentesen szolgáltatnak adatot.
+
+(1a) Az (1) bekezdésben meghatározott adatátadás kiterjed a 32. § (6) bekezdés szerinti adatokra.
 
 (2) A 4. § (2) és (3) bekezdésében meghatározott szervek az általuk kezelt állami alapadatok adatbázisaiból az adatszolgáltatást hálózati szolgáltatón keresztül is végezhetik.
 
@@ -18,7 +20,11 @@ f) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági viz
 
 g) az alaphálózati pontok pótlásának vagy áthelyezésének állami átvételéért,
 
-h) a geodéziai tervezői, valamint a geodéziai szakértői minősítési eljárásért.
+h) a geodéziai tervezői, valamint a geodéziai szakértői minősítési eljárásért,
+
+i) a c) és h) pontban foglalt minősítések meghosszabbításáért,
+
+j) a 25/A. § szerinti nyilvántartásba történő felvétel iránti eljárásért.
 
 (4) A (3) bekezdés f) pontjában meghatározott soron kívüli eljárásért
 
@@ -32,7 +38,7 @@ c) 16, vagy több ingatlan esetén 100 000 Ft, valamit a tizenhatodik ingatlant�
 
 (5) Az (4) bekezdés szerinti eljárási díj a fővárosi és megyei kormányhivatalok bevételét képezi, a megfizetés és felhasználás módjára az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/A. § (10) bekezdés rendelkezéseit kell alkalmazni.
 
-(6) Szakirányú iskolarendszerű oktatási vagy tudományos kutatási célra a miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó földmérési és térképészeti adatok vonatkozásában igazgatási szolgáltatási díjmentességet engedélyezhet, amennyiben az adatszolgáltatás mértéke nem haladja meg
+(6) Szakirányú iskolarendszerű oktatási vagy tudományos kutatási célra a miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó földmérési és térképészeti adatok vonatkozásában díjmentességet engedélyezhet, amennyiben az adatszolgáltatás mértéke nem haladja meg
 
 a) a 3. § (1) bekezdés a) és b) pontjai esetében az 50 darabot;
 
@@ -64,7 +70,7 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (11) Az adatszolgáltató díjmentesen szolgáltatja a 2. § (2) bekezdésében meghatározott állami alapmunkák végzéséhez szükséges adatokat. Az adatszolgáltatás hálózati szolgáltatón keresztüli adathozzáféréssel is biztosítható.
 
-(12) A 18. § (7) és (8) bekezdése, valamint a 19. § (8) bekezdése alapján átadott adatokért a minőség ellenőrzési vizsgálatot követően az adatállománnyal rendelkezni jogosult a 3. § (1) bekezdés a), b), e), f), valamint h) és i) pontjában meghatározott állami alapadatok adatbázisaiból külön megállapodás alapján díjmentes kompenzációs adatigénylésre jogosult.
+(12) A 18. § (7) és (8) bekezdése, valamint a 19. § (8) bekezdése alapján átadott adatokért az állami átvételi alkalmasság megállapítását követően az adatállománnyal rendelkezni jogosult a 3. § (1) bekezdés a), b), e), f), h) és i) pontjában meghatározott állami alapadatok adatbázisaiból, valamint a miniszter felelősségi körébe tartozó állami topográfiai térképi adatbázis felhasználásával készült digitális domborzatmodellből külön megállapodás alapján díjmentes kompenzációs adatigénylésre jogosult.
 
 (13) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a Magyar Honvédség szervezetei és a Katonai Nemzetbiztonsági Szolgálat feladataik ellátásához, valamint szakirányú fejlesztéséhez a honvédelem térképészeti támogatásáért felelős szervtől a szakmai ellátási normák alapján díjmentesen igényelhetnek adatot.
 
@@ -74,6 +80,8 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (16) A (13)–(15) bekezdésben meghatározott szervek részére az adatszolgáltatás rendjét a honvédelemért felelős miniszter rendeletben szabályozza.
 
-(17) Az ingatlanügyi hatóságok a hatósági feladataik ellátásához nem fizetnek adatszolgáltatási, illetve vizsgálati és záradékolási díjat.
+(17) Az ingatlanügyi hatóságok a hatósági feladataik ellátásához nem fizetnek vizsgálati és záradékolási díjat.
 
-(18)
+(18) Az erdészeti hatóság évente egy alkalommal díj-, költség- és térítésmentesen jogosult a 3. § (1) bekezdés d) pontjában foglalt adatbázisból az Országos Erdőállomány Adattár nyilvántartásához szükséges adatok igénylésére.
+
+(19) A földmérési és térinformatikai államigazgatási szerv a kezelésében lévő és a 3. § (1) bekezdés i) pontjába tartozó adatbázis távérzékelési adatait, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltatja.

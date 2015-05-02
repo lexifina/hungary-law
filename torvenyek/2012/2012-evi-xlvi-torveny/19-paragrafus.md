@@ -32,6 +32,8 @@ d) kormányzati és közigazgatási célú feladatok támogatására.
 
 (8) Minden, az adatállománnyal rendelkezni jogosult köteles átadni (a megrendelőnek történő átadását követő tizenöt napon belül) a földmérési és térinformatikai államigazgatási szervnek a részben vagy egészében közpénzből előállított, az állami távérzékelési adatbázis adattartalmát érintő adatnak egy, az eredetivel megegyező példányát. Ez alól kizárólag a honvédelmi célokra készült távérzékelési adatok jelentenek kivételt.
 
+(8a) A (8) bekezdés szerint átadott adatokat a földmérési és térinformatikai államigazgatási szerv az állami átvételig az állami távérzékelési adatbázisban, de attól elkülönítve tárolja, kezeli és szolgáltatja.
+
 (9) Légi távérzékelési adatbázisnak kell tekinteni azon légi távérzékelési eljárással készült adatok összességét, amelyekkel állami alapadatok állíthatók elő.
 
 (10) A (8) bekezdésben szabályozott adatszolgáltatási kötelezettség elmulasztása esetén a mulasztó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.

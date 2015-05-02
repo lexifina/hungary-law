@@ -2,6 +2,8 @@
 
 31. § (1) Az alapponthálózatok létesítésekor keletkezett munkarészek, az állami földmérési alaptérképek szelvényei és munkarészei, az ingatlan-nyilvántartási térképszelvények és az állami topográfiai térképek eredeti térképszelvényei nem selejtezhetők.
 
+(1a) Az ingatlan-nyilvántartási térképi adatbázis változását eredményező eredeti munkarészek akkor sem selejtezhetők, ha a forgalomból történő kivonásuk megtörtént. Nem selejtezhetők az ingatlanügyi hatóságokhoz leadott változási vázrajzok, vázlatok és azok munkarészei sem.
+
 (2) Az államhatár felmérésekor keletkezett munkarészek, a hatályon kívül helyezett határokmányok, továbbá ezek számítógépes adathordozói nem selejtezhetők.
 
 (3) Légifelvételek és távérzékeléssel nyert adatok eredeti példányai nem selejtezhetők, azok a 3. § (1) bekezdés i) pontjában meghatározott adatbázisban tárolandók.

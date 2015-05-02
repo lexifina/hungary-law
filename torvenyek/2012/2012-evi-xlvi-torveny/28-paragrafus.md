@@ -6,7 +6,15 @@
 
 (2) A földmérési és térképészeti munkákat a vonatkozó jogszabályok szerint előírt minőségben kell elkészíteni. Állami alapadatok előállítása során a készítő, illetve jogutódja a – mintavételes eljárással elvégzett vizsgálat során fel nem tárt – rejtett hibákért az állami átvételt követő tíz évig kijavítási kötelezettséggel tartozik.
 
-(2a) Amennyiben a földrészlet tulajdoni lapján az ingatlan területével, határvonalával vagy tulajdonjogával kapcsolatos perfeljegyzés szerepel, akkor földmérési munka az ingatlannal kapcsolatban a perben kirendelt igazságügyi szakértő kivételével nem végezhető.
+(2a) Amennyiben a földrészlet tulajdoni lapján az ingatlan területével, határvonalával vagy tulajdonjogával kapcsolatos perfeljegyzés vagy jogorvoslati kérelem szerepel, akkor földmérési munka az ingatlannal kapcsolatban nem végezhető, kivéve, ha azt
+
+a) a 17. § szerinti eljárásban az ingatlanügyi hatóság,
+
+b) a perben kirendelt igazságügyi szakértő, vagy
+
+c) a per során bírósági elrendelés alapján eljáró, ingatlanrendező földmérő minősítéssel rendelkező földmérő
+
+végzi.
 
 (3) Az állami ingatlan-nyilvántartási térképi adatbázisban változást eredményező földmérési és térképészeti munka minőségét ingatlanrendező földmérő minősítéssel rendelkező földmérő tanúsítja.
 
@@ -16,7 +24,7 @@ a) az állami földmérési térképi adatbázis készítésének, az állami á
 
 b) a 12. §-ban szabályozott elhatárolási munkák végzése,
 
-c) a változási vázrajz – ideértve az egyéb önálló ingatlanok alaprajzait – hatósági vizsgálata és záradékolása,
+c) a változási vázrajz hatósági vizsgálata és záradékolása,
 
 d) a földrészlet-határvonalak kitűzési munkáinak végzése,
 

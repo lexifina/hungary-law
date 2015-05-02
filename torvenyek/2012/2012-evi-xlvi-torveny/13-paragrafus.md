@@ -2,6 +2,8 @@
 
 13. § (1) Az újfelméréssel készített vagy felújított állami földmérési alaptérképi adatbázis az ingatlan-nyilvántartás átalakítását követően válik állami ingatlan-nyilvántartási térképi adatbázissá.
 
+(1a) Az állami ingatlan-nyilvántartási térképi adatbázis a 11. § (1) bekezdésben meghatározottakon túl tartalmazza a 10. § (3) bekezdésének a)–f) és h) pontjában meghatározott alaphálózati pontokat, valamint a központi címregiszterről és címkezelésről szóló kormányrendeletben meghatározott ingatlanokhoz rendelt címkoordinátát is.
+
 (2)
 
 (3) A Nemzeti Kataszteri Program keretében készült, digitálisan átalakított térképeket az ingatlan-nyilvántartás átalakításáig állami ingatlan-nyilvántartási térképi adatbázisnak kell tekinteni.
