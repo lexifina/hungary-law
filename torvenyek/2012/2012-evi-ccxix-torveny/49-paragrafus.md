@@ -20,8 +20,8 @@ kell fedezni.
 
 (5) A nem borvidéki településen működő szőlészeti, illetve borászati termelőnek az általa művelt szőlőültetvény területe alapján, valamint a feldolgozott bormennyiség alapján a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a működése helye szerint illetékes hegyközség részére.
 
-(6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál. A fizetendő hegyközségi járulék összegéből le kell vonni a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara részére tagdíj jogcímen az adott évre vonatkozóan fizetendő összeget.
+(6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál.
 
-(7) Az Európai Gazdasági Térség valamely szerződő államából továbbfeldolgozási célból behozott bormennyiség után a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a feldolgozás helye szerint illetékes hegyközség részére.
+(7) Az Európai Gazdasági Térség valamely szerződő államából továbbfeldolgozási célból behozott borászati termék mennyisége után a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a feldolgozás helye szerint illetékes hegyközség részére.
 
 (8) A (7) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál. A fizetendő hegyközségi járulék összegéből le kell vonni azt az összeget, amelyet az Európai Gazdasági Térség valamely szerződő államában ilyen jogcímen a behozatalt megelőzően kötelező jelleggel megfizettek, feltéve, hogy azt nem igényelték vissza.

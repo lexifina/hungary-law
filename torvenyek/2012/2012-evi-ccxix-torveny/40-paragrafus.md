@@ -30,7 +30,7 @@ j) a szőlőtermelőnek a szőlőterületére, szőlőfajtáira, a tárgyévi te
 
 (3) Ha a hegybíró a működési területén belüli hegyközségi tagnál irányítási jogviszonyban, munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll, ezen tag ügyeiben, valamint saját és közvetlen hozzátartozói ügyeiben nem járhat el. Az ezen ügyekkel kapcsolatos közigazgatási feladatok ellátására a Hegyközségek Nemzeti Tanácsának főtitkára jelöli ki az illetékes hegybírót.
 
-(4) A (2) bekezdés d) pontjában meghatározott feladatok ellátásához a hegybírónak az ingatlan-nyilvántartáshoz való hozzáférést térítésmentesen, valamint az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését díjmentesen kell biztosítani.
+(4) A (2) bekezdés d) pontjában meghatározott feladatok ellátásához a hegybírónak az ingatlan-nyilvántartáshoz, valamint a földhasználati nyilvántartáshoz való hozzáférést térítésmentesen, valamint az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését díjmentesen kell biztosítani.
 
 (5) A közgyűlés, illetve a választmány döntése alapján az elnök a 7. § (1) bekezdésének cb) és d) pontja, valamint a 22. § (1) bekezdése szerinti elnöki feladatok ellátásával külön megállapodással megbízhatja a hegybírót.
 

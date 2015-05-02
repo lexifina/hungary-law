@@ -15,3 +15,7 @@
 (5) Amennyiben a (4) bekezdésben a beolvadás napjaként meghatározott időpontot megelőző harmincadik napig nem történik meg a beolvadásról és az átvételről szóló döntés, az (1) bekezdés szerinti feltételeknek nem megfelelő hegyközség a területileg szomszédos, azonos borvidéken fekvő legnagyobb hegyközségbe olvad be a (4) bekezdésben a beolvadás napjaként meghatározott időponttal.
 
 (6) A beolvadással kapcsolatos bírósági nyilvántartásba történő bejegyzést az átvevő hegyközségnek kell kezdeményeznie.
+
+(7) Az ingatlan tulajdoni lapján jogi jellegként a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleget fel kell tüntetni. A jogi jelleg feljegyzése érdekében a termőhelyi katasztert vezető szerv jogerős határozattal megkeresi az ingatlanügyi hatóságot.
+
+(8) A termőhelyi katasztert vezető szerv dönt a borszőlő termőhelyi kataszterbe történő sorolás megszüntetéséről, ha annak feltételei már nem állnak fenn. A termőhelyi katasztert vezető szerv a jogerős határozatot megküldi az ingatlanügyi hatóságnak a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg ingatlan-nyilvántartásból történő törlése céljából.
