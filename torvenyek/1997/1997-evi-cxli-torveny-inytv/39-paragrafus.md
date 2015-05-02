@@ -40,10 +40,10 @@ c) az az ingatlan, jog tény, amelyre a bejegyzést kérték az ingatlan-nyilvá
 
 d) a bejegyzési kérelmet arra nem jogosult nyújtotta be,
 
-e) a kérelemhez a bejegyzés alapjául szolgáló okiratot nem csatolták,
+e) a kérelemhez a bejegyzés alapjául szolgáló okiratot, vagy föld tulajdonjogának felszámolási, illetve önkormányzati adósságrendezési eljárás során történő megszerzése esetén az árverési jegyzőkönyvet nem csatolták,
 
 f) a bejegyzés alapjául szolgáló okirathoz az ingatlan-nyilvántartási eljárás megindításához szükséges nyomtatvány kérelmet nem csatolták,
 
-g) a föld tulajdonjogának megszerzésére irányuló szerződésen a mezőgazdasági igazgatási szerv törvényben előírt jóváhagyásáról szóló záradék nem szerepel.
+g) a föld tulajdonjogának megszerzésére irányuló szerződésen, vagy a föld tulajdonjogának felszámolási, illetve önkormányzati adósságrendezési eljárás során történő szerzése esetén az árverési jegyzőkönyvön a mezőgazdasági igazgatási szerv törvényben előírt jóváhagyásáról szóló záradék nem szerepel.
 
 (5) Az igazgatási szolgáltatási díj meg nem fizetése esetén – a (3) és (4) bekezdéstől eltérően – az ingatlanügyi hatóság a díj megfizetésére irányuló hiánypótlási felhívást bocsát ki a (3) és (4) bekezdés szerinti döntés meghozatalát megelőzően, de legkésőbb a kérelem benyújtását követő tizenöt napon belül.

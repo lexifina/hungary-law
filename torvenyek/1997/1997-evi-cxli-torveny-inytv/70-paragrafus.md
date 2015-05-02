@@ -10,7 +10,7 @@ b) az ügyészség a közérdekvédelmi feladatai ellátásához,
 
 c) a jegyző a hagyatéki leltár elkészítéséhez, a közjegyző a hagyatéki eljárás lefolytatásához,
 
-d) a mezőgazdasági igazgatási szerv az Fftv. szerinti hatósági eljárásaihoz,
+d) a mezőgazdasági igazgatási szerv, valamint az ingatlanügyi hatóság az Fftv. szerinti hatósági eljárásaihoz,
 
 e) a bejegyzett tulajdonos valamennyi ingatlanának az ingatlan-nyilvántartásból történő megállapításához,
 

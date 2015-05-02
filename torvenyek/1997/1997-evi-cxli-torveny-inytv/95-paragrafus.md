@@ -6,4 +6,4 @@
 
 (4) Az ingatlan címadatát érintő, 2015. január 1. napján folyamatban lévő, valamint a megismételt eljárásokat e törvénynek a KCR tv.-vel megállapított rendelkezései szerint kell lefolytatni.
 
-(5) Az ingatlan-nyilvántartásba címadatátvétel útján bekerült címadatnak az állami ingatlan-nyilvántartási térképi adatbázisban történő átvezetéséről 2015. január 1. és 2015. május 31. között az ingatlanügyi hatóság hivatalból gondoskodik.
+(5) Az ingatlan-nyilvántartásba címadatátvétel útján bekerült címadatnak az állami ingatlan-nyilvántartási térképi adatbázisban történő átvezetéséről az ingatlanügyi hatóság hivatalból gondoskodik.

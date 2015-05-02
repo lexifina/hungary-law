@@ -14,7 +14,7 @@ ab) a közjegyzőkről szóló 1991. évi XLI. törvény 136. § (1) bekezdés i
 
 ac) – külföldi jogi személy, az ingatlan-nyilvántartásba bejegyezhető jogra ügyleti képességgel bíró jogi személyiséggel nem rendelkező külföldi szervezet esetében – a rá irányadó jog szerinti okiratot, és
 
-b) – cég esetében – aláírási címpéldányt
+b) – cég esetében – közjegyzői aláírás-hitelesítéssel ellátott címpéldányt vagy a cégbejegyzési (változásbejegyzési) eljárásban készített és a közreműködő ügyvéd által ellenjegyzett aláírás-mintát
 
 kell csatolnia.
 

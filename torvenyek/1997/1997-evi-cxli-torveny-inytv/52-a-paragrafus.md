@@ -4,4 +4,4 @@
 
 (3) Az ingatlan-nyilvántartási iratok kézbesítésére egyébként a hivatalos iratok kézbesítésének egyszerűsítéséről, illetőleg a postai tevékenységről szóló jogszabály az irányadó.
 
-(4)
+(4) A határozatot a természet védelméről szóló törvényben meghatározott természetvédelmi tartalmú jogi jellegek feljegyzése, törlése vagy módosítása iránti eljárásban a megkereső hatóság részére a (3) bekezdésben foglaltak szerint, az 52. § (1) és (2) bekezdés szerinti jogosultak részére hirdetményi úton kell kézbesíteni.

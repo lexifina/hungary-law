@@ -10,7 +10,7 @@
 
 (3) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a számítógépes adatbázisból lekérdezés útján szolgáltatható ingatlan-nyilvántartási adatok szolgáltatására, az adatszolgáltatás igazgatási szolgáltatási díjának mértékére és kezelésére, megfizetésének módjára, valamint az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatlakozásra és a számítógépes hálózaton keresztül történő adatszolgáltatásra vonatkozó részletes szabályokat.
 
-(3a) Felhatalmazást kap a miniszter, hogy a részadat-szolgáltatás igénybevételére jogosultak körére, díjának mértékére, valamint annak az ingatlanügyi hatóságok és a földmérési és térinformatikai államigazgatási szerv közötti megosztására, a díjfizetés és a díj visszatérítésének módjára vonatkozó szabályokat a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(3a)
 
 (3b)
 
@@ -28,4 +28,6 @@ d) az ingatlan-nyilvántartási eljárás részletes szabályait,
 
 e) az ingatlanügyi hatóság vagy hatóságok illetékességi területét,
 
-f) az ingatlan-nyilvántartási adatbázisból adatműveleti, adatfeldolgozási tevékenységet igénylő megkeresések esetén az elektronikus dokumentumként szolgáltatható tulajdonilap-másolat adattartalmán belül az egyes adatköröket, a szolgáltatást nyújtó szervek, a szolgáltatás igénybevételére jogosult szervek és személyek körét, valamint annak módját és részletes feltételeit.
+f)
+
+g) a részadat-szolgáltatás során átadott adatok törvényben vagy kormányrendeletben meghatározott célra történő felhasználását, valamint harmadik személy részére történő továbbítását tiltó rendelkezések betartását ellenőrző hatóság kijelölését.

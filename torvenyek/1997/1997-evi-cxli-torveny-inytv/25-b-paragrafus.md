@@ -1,31 +1,15 @@
-25/B. § (1) Az ingatlanügyi hatóság az alábbi változások átvezetéséről rendelkező, a címkoordinátákat és az ingatlan-nyilvántartási azonosító kódot is tartalmazó határozatának a megküldésével tájékoztatja a címképző szervet:
+25/B. § (1) Az ingatlanügyi hatóság a központi címregiszterről és címkezelésről szóló kormányrendeletben meghatározott ingatlanokra vonatkozóan az alábbi változások átvezetéséről rendelkező – szövetkezeti házi vagy társasházi ingatlan esetén az alapszabályban, illetve az alapító okiratban megjelölt, emeletet és ajtószámot tartalmazó – határozat, a címkoordinátákat és az ingatlan-nyilvántartási azonosító kódot is tartalmazó adatlap, valamint a záradékolt változási vázrajz megküldésével tájékoztatja a címképző szervet:
 
-a) a telekalakítás (ideértve a kisajátítási eljárásban történt változást is),
+a) telekalakítás (ideértve a kisajátítási eljárásban történt változást is),
 
-b) az épület feltüntetése és törlése,
+b) épületek feltüntetése és törlése,
 
-c) az épület önálló ingatlanná alakítása,
+c) épület egyéb önálló ingatlanná alakítása,
 
-d) a társas- és szövetkezeti házalapítás, ezzel kapcsolatos módosítás és megszüntetés.
+d) társas- és szövetkezeti ház alapítása, ezzel kapcsolatos módosítás és megszüntetés.
 
-(2) Az ingatlan-nyilvántartásban létrejövő új földrészletek és egyéb önálló ingatlanok megnyitásra kerülő tulajdoni lapján, ha rendelkezésre áll
+(2) A címképző szerv (1) bekezdés szerinti tájékoztatásával egyidejűleg az ingatlannyilvántartásban létrejövő, a központi címregiszterről és címkezelésről szóló kormányrendelet hatálya alá tartozó új földrészletekre és egyéb önálló ingatlanokra megnyitott tulajdoni lapon az ingatlan címadata helyén a „címképzés alatt” megjegyzést kell feltüntetni.
 
-a) telekmegosztás esetén a telekalakítás előtti címadatot,
+(3) A „címképzés alatt” megjegyzés a címképzési eljárást követő címadatátvétellel egyidejűleg automatikusan törlődik az érintett ingatlan tulajdoni lapjáról.
 
-b) telekösszevonás esetén a telekalakítással érintett földrészletek címadatának közös elemeit,
-
-c) a 19. § (3) bekezdése szerinti esetben a törzslap címadatát
-
-„címképzés alatt” megjegyzéssel kell feltüntetni.
-
-(3) A tulajdoni lapot a címképző szerv (1) bekezdés szerinti tájékoztatásával egyidejűleg – függetlenül attól, hogy a címképzésre sor kerül-e – a (2) bekezdés szerinti megjegyzéssel kell ellátni abban az esetben is, ha a meglévő címadat hiányában annak feltüntetésére nincs lehetőség.
-
-(4) A „címképzés alatt” megjegyzés
-
-a) a címképzési eljárást követő címadatátvétellel egyidejűleg, vagy
-
-b) címképzési eljárás hiányában a címképző szerv által a címadatátvétellel azonos módon elküldött adatok alapján
-
-automatikusan kerül törlésre az érintett ingatlan tulajdoni lapjáról.
-
-(5) Az ingatlanügyi hatóság a címképző szerv részére az (1) bekezdés szerinti tájékoztatását elektronikus formában is teljesítheti.
+(4) Az ingatlanügyi hatóság a címképző szerv részére az (1) bekezdés szerinti tájékoztatását elektronikus formában is teljesítheti.
