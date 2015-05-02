@@ -14,7 +14,7 @@ b) a gyümölcs termőhely ökológiai minősítését és a gyümölcsfajokat, 
 
 (4) A gyümölcs termőhelyi kataszterbe sorolás, a kataszteri osztály módosítása, valamint a kataszterből való törlés (a továbbiakban együttesen: gyümölcs termőhelyi kataszteri eljárás) iránti kérelmet a gyümölcs termőhelyi katasztert vezető szervhez kell benyújtani.
 
-(5) A gyümölcs termőhelyi katasztert vezető szervnek az új kataszteri besorolásról, a meglévő kataszteri besorolás módosításáról vagy törléséről hozott döntését – a kérelmező ügyfél személyes adatainak kivételével – a földügyért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni. A gyümölcs termőhelyi katasztert vezető szerv a gyümölcs termőhelyi kataszteri eljárásban hozott döntésének megfelelően módosítja a gyümölcs termőhelyi katasztert.
+(5) A gyümölcs termőhelyi katasztert vezető szerv a gyümölcs termőhelyi kataszteri eljárásban hozott döntésének megfelelően módosítja a gyümölcs termőhelyi katasztert.
 
 (6) A települési önkormányzat – a tulajdonos hozzájárulásával – kezdeményezheti a gyümölcs termőhelyi katasztert vezető szervnél a gyümölcs termőhelyi kataszter módosítását vagy a kataszterből történő törlést, amennyiben
 

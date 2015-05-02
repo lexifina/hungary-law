@@ -8,6 +8,8 @@ c) a más célú hasznosítás pontos célját, és tervezett időtartamát, ha 
 
 d)
 
+(1a) Ha a más célú hasznosításra kisajátítás alapjául szolgáló közérdekű cél megvalósítása érdekében kerülne sor, a kérelemben az (1) bekezdés c) pontja helyett a kisajátítás alapjául szolgáló, törvényben meghatározott közérdekű célt kell megjelölni.
+
 (2) A kérelemhez csatolni kell:
 
 a) az ingatlan-nyilvántartási térképnek a más célú hasznosításra tervezett területet feltüntető másolatát és az ehhez tartozó területkimutatást, kivéve, ha a kérelem kizárólag az érintett földrészlet vagy földrészletek teljes területére vonatkozik;

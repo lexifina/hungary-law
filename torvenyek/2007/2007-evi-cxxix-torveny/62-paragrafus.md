@@ -1,1 +1,1 @@
-62. § A gyümölcsültetvény-katasztert a mezőgazdasági igazgatási szerv vezeti.
+62. § A gyümölcsültetvény-katasztert a telepítési hatóság vezeti.

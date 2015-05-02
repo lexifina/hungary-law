@@ -38,7 +38,15 @@ eb) a határozatban megállapított határidő eltelte után teszi termelésre a
 
 f) a termőföldet engedély nélkül hasznosítja más célra.
 
-(2) Engedély nélküli más célú hasznosítás esetén a bírság megállapításáról az eredeti állapot helyreállítását elfogadó határozatban, illetőleg a más célú hasznosítás folytatásához hozzájáruló határozatban kell rendelkezni.
+(2) Engedély nélküli más célú hasznosítás esetén a bírság megállapításáról
+
+a) az eredeti állapot helyreállításának elfogadásáról,
+
+b) az utólagos engedélyezésről vagy
+
+c) a 17. § (1b) bekezdésében és a 17/B. § (2) bekezdésében meghatározott döntésről
+
+szóló határozatban kell rendelkezni.
 
 (3) A bírság – a termőföld ingatlan-nyilvántartás szerinti művelési ága eredeti állapotának helyreállítási kötelezettsége alóli felmentés és az engedély nélkül más célra hasznosított termőföld továbbhasznosításához történő hozzájárulás esetét kivéve – ismételten is kiszabható.
 
