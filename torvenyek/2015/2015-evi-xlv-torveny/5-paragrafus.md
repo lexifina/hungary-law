@@ -1,0 +1,3 @@
+5. § A Tfvt. 16. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az igénybevevőt az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállítására kell kötelezni, kivéve, ha az ingatlanügyi hatóság az (5) bekezdésben, vagy a 17. § (1d) bekezdésben meghatározott kérelemre a végleges más célú hasznosítás folytatásához hozzájárul (a továbbiakban: utólagos engedély). A termőföld végleges más célú hasznosításának utólagos engedélyezésére akkor kerülhet sor, ha a más célú hasznosítás előzetes engedélyezésének a 11. §-ban és a 15/B. § (3) bekezdésében meghatározott feltételei egyébként fennállnak, kivéve a 16/A. § (4) bekezdésében meghatározott esetet.”
