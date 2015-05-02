@@ -46,6 +46,32 @@ o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a pa
 
 p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése,
 
-q) az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: 2014. évi LXXVII. törvény) 13. § (3) bekezdése szerinti új fogyasztói kölcsönszerződést biztosító jelzálogjog ingatlan-nyilvántartási bejegyzése, illetve a 2014. évi LXXVII. törvény 13. § (1) bekezdése alapján felmondott fogyasztói jelzálogkölcsön szerződést biztosító jelzálogjog törlése.
+q) az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: 2014. évi LXXVII. törvény) 13. § (3) bekezdése szerinti új fogyasztói kölcsönszerződést biztosító jelzálogjog ingatlan-nyilvántartási bejegyzése, illetve a 2014. évi LXXVII. törvény 13. § (1) bekezdése alapján felmondott fogyasztói jelzálogkölcsön szerződést biztosító jelzálogjog törlése,
+
+r) a természetvédelmi jogi jellegek:
+
+ra) a helyi jelentőségű védett természeti terület,
+
+rb) az országos jelentőségű védett természeti terület,
+
+rc) a törvény erejénél fogva védett forrás, láp, barlang, víznyelő, szikes tó, kunhalom, földvár,
+
+rd) a természeti terület,
+
+re) a Natura 2000 terület,
+
+rf) az ökológiai folyosó, valamint
+
+rg) a barlang felszíni védőövezete
+
+tényének ingatlan-nyilvántartási feljegyzése iránti eljárás,
+
+s) az állandó legelő vagy állandó gyep jogi jelleg feljegyzése,
+
+t) a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg feljegyzése,
+
+u) az Inytv. 89/A. §-a szerinti zártkerti ingatlan művelés alóli kivonására irányuló eljárás.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
+
+(3) Az (1) bekezdés szerinti díjmentességek tekintetében a jogok bejegyzése, tények feljegyzése alatt azok törlését, illetve módosítását is érteni kell.

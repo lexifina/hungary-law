@@ -43,3 +43,5 @@ kéri.
 (5) Az elektronikus dokumentumként díjmentesen szolgáltatott nem hiteles és hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
 
 (6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
+
+(7) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a részadat-szolgáltatás során átadott adatok felhasználására jogszerűtlenül, nem a törvényben vagy kormányrendeletben meghatározott céllal került sor, vagy azok harmadik személy részére továbbításra kerültek, az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi. A döntés ellen közigazgatási eljárás keretében nincs helye fellebbezésnek.
