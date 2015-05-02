@@ -40,9 +40,11 @@ r) a hivatásos állomány legalább százados vagy legalább főtörzsőrmester
 
 s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 
-t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány).
+t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány),
 
-(2) Az (1) bekezdés j) pontja szerinti rendelkezési állományba helyezett személyt az ok megszűnését követően megfelelő szolgálati beosztásban kell továbbfoglalkoztatni.
+u) a 43. § (2a) bekezdése szerinti esetben az állomány ezredes, tábornok rendfokozattal rendszeresített beosztást betöltő tagja megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig.
+
+(2) Meg kell szüntetni az (1) bekezdés f)–i), k)–m), p) és u) pontja szerinti rendelkezési állományt, ha az állomány tagjának megfelelő szolgálati beosztásba helyezésére nincs lehetőség.
 
 (3) Az állomány (1) bekezdés q) pontja alá tartozó tagjának szolgálati feladatait a Honvédség egészségügyi szervezetének vezetője határozza meg.
 

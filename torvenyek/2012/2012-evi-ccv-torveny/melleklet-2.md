@@ -32,6 +32,10 @@ B. A munkáltatói jogkör megnevezése
 
 |
 
+1.5. Tábornok esetén a 60. § (3) bekezdése szerinti megegyezés és a 69. § (1) bekezdése szerinti megállapodás megkötése.
+
+|
+
 2. Rendfokozatra vonatkozó döntések
 
 |
@@ -116,7 +120,7 @@ B. A munkáltatói jogkör megnevezése
 
 |
 
-5.6. Tábornok rendelkezési állományba helyezése
+5.6. Tábornok rendelkezési állományba helyezése, valamint a 43. § (2a) bekezdése szerinti rendelkezési állományba helyezés
 
 |
 

@@ -18,7 +18,7 @@ b) az (1) bekezdés a) pontja alá tartozó felsőfokú végzettséggel nem rend
 
 c) az (1) bekezdés b) és c) pontja alá tartozó felsőfokú végzettséggel nem rendelkezők esetén a beosztási illetmény 10%-a.
 
-(3) Az állomány 46. § (1) bekezdés g)–i), k), m), p), r), és s) pontja alá tartozó tagjának illetménykiegészítését a rendelkezési állományba helyezését megelőző mérték szerint kell megállapítani.
+(3) Az állomány 46. § (1) bekezdés g)–i), k), m), p), r), és s) és u) pontja alá tartozó tagjának illetménykiegészítését a rendelkezési állományba helyezését megelőző mérték szerint kell megállapítani.
 
 (4) Országos illetékességgel rendelkező vagy működési körű honvédségi szervezetnél szolgálatot teljesítő állomány illetménykiegészítését a miniszter rendeletben az (1) bekezdés b) és c) pontja szerinti vezetési szinttől eltérően, eggyel magasabb besorolásnak megfelelően állapíthatja meg. Az illetménykiegészítés mértékére a miniszter által meghatározott vezetési szintnek megfelelően a (2) bekezdést kell alkalmazni.
 

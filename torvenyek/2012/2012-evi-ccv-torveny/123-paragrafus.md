@@ -12,7 +12,7 @@ d) a közkatonát a II. besorolási osztály I. besorolási kategória szerint k
 
 e) az állomány 46. § (1) bekezdés a) vagy c) pontja alá tartozó tagja beosztási illetményét a Honvédségnél létrehozott állománytáblában vagy munkaköri jegyzékben részére meghatározott beosztás alapján kell megállapítani,
 
-f) az állomány 46. § (1) bekezdés f)–i), k)–m), p)–s) pontja alá tartozó tagja beosztási illetményét a (6) bekezdés szerinti beosztási szint figyelembevételével kell megállapítani.
+f) az állomány 46. § (1) bekezdés f)–i), k)–m), p)–s) és u) pontja alá tartozó tagja beosztási illetményét a (6) bekezdés szerinti beosztási szint figyelembevételével kell megállapítani.
 
 (3) Az (1) bekezdéstől eltérően, miniszteri rendeletben meghatározottak szerint a honvédségi szervezetek részére megállapított személyi juttatások előirányzatán belül a munkáltatói jogkört gyakorló – a szolgálati beosztással járó feladatok kiemelkedő teljesítése elismeréseként – az állomány tagját a 122. § (4) bekezdése szerinti beosztási illetmény összegénél 30%-ig terjedően magasabb összegben is besorolhatja. Az eltérítés a tárgyév december 31-éig terjedő időszakra állapítható meg.
 
