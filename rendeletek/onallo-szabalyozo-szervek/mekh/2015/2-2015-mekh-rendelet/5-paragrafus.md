@@ -1,3 +1,3 @@
-## 4. §[^3]
+## 4. §[^5]
 
-[^3]: A 4. § a 25. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+[^5]: A 4. § a 25. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.

@@ -1,9 +1,6 @@
-10. § (1) Az R. 32. § (4) és (5) bekezdése helyébe a következő rendelkezés lép:
+10. § (1)[^11]
 
-## „(4) Azon átadási-átvételi pont után, amelyen a téli fogyasztási időszakban földgázt vételeznek, a lekötés időtartamának minden napjára a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 2%-át köteles megfizetni a rendszerhasználó.
+(2)[^12]
 
-## (5) Azon átadási-átvételi pont után, amelyen a nem téli fogyasztási időszakban vételeznek földgázt a lekötés időtartamának minden napjára, a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 0,5%-át köteles megfizetni a rendszerhasználó.”
-
-(2)[^7]
-
-[^7]: A 10. § (2) bekezdése a 25. § (3) bekezdése alapján 2015. október 1-jén lép hatályba.
+[^11]: A 10. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 10. § (2) bekezdése a 25. § (3) bekezdése alapján 2015. október 1-jén lép hatályba.

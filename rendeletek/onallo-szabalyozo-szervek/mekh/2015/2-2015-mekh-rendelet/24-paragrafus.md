@@ -1,1 +1,3 @@
-## 23. § Hatályát veszti az R2. 23. § (2) és (3) bekezdése.
+## 23. §[^25]
+
+[^25]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
