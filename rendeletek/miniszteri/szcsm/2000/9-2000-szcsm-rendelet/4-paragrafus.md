@@ -4,7 +4,7 @@
 
 (2)[^22] A továbbképzési programok minősítését, a továbbképzési pontértékek meghatározását a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) végzi. A minősítés a 3. § (5) bekezdésének a)–b) pontja szerinti program esetén három évre, c)–e) pontja szerinti program esetében egyszeri alkalomra érvényes.
 
-(3)[^23] Az Intézet a 3. § (5) bekezdésének a)–b) pontjában meghatározott és minősített továbbképzések jegyzékét megküldi a Nemzeti Munkaügyi Hivatal Felnőttképzési Akkreditáló Testületének, amely – a jegyzékben megjelölt továbbképzés szervezőjének kérésére, az Fktv. 19. §-ának (3) bekezdése szerint – kiadja a programakkreditációt igazoló tanúsítványt.
+(3)[^23] Az Intézet a 3. § (5) bekezdés a)–b) pontjában meghatározott és minősített továbbképzések jegyzékét megküldi az állami szakképzési és felnőttképzési szervnek, amely – a jegyzékben megjelölt továbbképzés szervezőjének kérésére – kiadja a programakkreditációt igazoló tanúsítványt.
 
 (4)[^24] A továbbképzési program minősítése a program benyújtásával egyidejűleg kérhető. A minősítési kérelmet három példányban, az Intézet honlapján közzétett adatlapon kell az Intézet részére benyújtani. A minősítési kérelemhez csatolni kell a minősítési díj befizetését igazoló dokumentum másolatát.
 
@@ -35,7 +35,7 @@ beszámol, illetve bejelentést tesz az Intézet részére.
 [^20]: A 4. § (1) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^21]: A 4. § (1a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be.
 [^22]: A 4. § (2) bekezdésének utolsó mondatát a 8/2001. (XII. 20.) SZCSM rendelet 3. §-ának (1) bekezdése iktatta be, szövege a 16/2003. (IV. 9.) ESZCSM rendelet 20. § (4) bekezdésének a) pontja szerint módosított szöveg. A 4. § (2) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^23]: A 4. § új (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti (3)–(8) bekezdés számozását (4)–(9) bekezdésre változtatva. A 4. § (3) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés b) pontja, a 41/2012. (XI. 28.) EMMI rendelet 13. § f) pontja szerint módosított szöveg.
+[^23]: A 4. § új (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti (3)–(8) bekezdés számozását (4)–(9) bekezdésre változtatva. A 4. § (3) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
 [^24]: A 4. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 12/2006. (XII. 27.) SZMM rendelet 4. § (1) bekezdése, szövege a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^25]: A 4. § (5) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^26]: A 4. § (6) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 4. § (3) bekezdésével megállapított, a 19/2014. (III. 13.) EMMI rendelet 45. § (2) bekezdés a) pontja szerint módosított szöveg.
