@@ -2,9 +2,9 @@
 
 a) az elsőfokú ítéletet hozó bíróságot,
 
-b) a fiatalkorú lakóhelye szerint illetékes járási (fővárosi kerületi) gyámhivatalt,
+b)[^2] a fiatalkorú lakóhelye szerint illetékes gyámhivatalt,
 
-c) a nevelésbe vett, illetve az ideiglenes hatállyal elhelyezett fiatalkorú nevelésbe vételét vagy ideiglenes hatályú elhelyezését elrendelő járási (fővárosi kerületi) gyámhivatalt,
+c)[^3] a nevelésbe vett, illetve az ideiglenes hatállyal elhelyezett fiatalkorú nevelésbe vételét vagy ideiglenes hatályú elhelyezését elrendelő gyámhivatalt,
 
 d) a fiatalkorú törvényes képviselőjét,
 
@@ -20,8 +20,13 @@ h) a bűnügyi nyilvántartást vezető Közigazgatási és Elektronikus Közszo
 
 (3) Ha a bíróság nem küldte meg a szükséges iratokat, a javítóintézet a befogadásról szóló értesítéssel egyidejűleg kéri a bíróságtól azok haladéktalan megküldését.
 
-(4) A befogadásról szóló értesítéssel egyidejűleg a javítóintézet megkeresi az illetékes települési önkormányzat jegyzőjét, illetve a járási (fővárosi kerületi) gyámhivatalt egy naprakész környezettanulmány elkészítése és annak a javítóintézet részére történő megküldése érdekében.
+(4)[^4] A befogadásról szóló értesítéssel egyidejűleg a javítóintézet megkeresi az illetékes települési önkormányzat jegyzőjét, illetve a gyámhivatalt egy naprakész környezettanulmány elkészítése és annak a javítóintézet részére történő megküldése érdekében.
 
-(5) A nevelésbe vett fiatalkorúról készített pedagógiai és pszichológiai vélemény, valamint az egészségi állapotára vonatkozó adatok beszerzése érdekében a javítóintézet megkeresi a nevelésbe vételt elrendelő járási (fővárosi kerületi) gyámhivatalt, ezzel egyidejűleg tájékoztatást kér a fiatalkorú eddigi életútjáról és családi kapcsolatairól.
+(5)[^5] A nevelésbe vett fiatalkorúról készített pedagógiai és pszichológiai vélemény, valamint az egészségi állapotára vonatkozó adatok beszerzése érdekében a javítóintézet megkeresi a nevelésbe vételt elrendelő gyámhivatalt, ezzel egyidejűleg tájékoztatást kér a fiatalkorú eddigi életútjáról és családi kapcsolatairól.
 
 (6) A korábban kirendelt pártfogó felügyelőtől, illetve megelőző pártfogótól tájékoztatást kell kérni a fiatalkorúnak a pártfogás, megelőző pártfogás alatt tanúsított magatartásáról.
+
+[^2]: A 17. § (1) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^3]: A 17. § (1) bekezdés c) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^4]: A 17. § (4) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^5]: A 17. § (5) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.

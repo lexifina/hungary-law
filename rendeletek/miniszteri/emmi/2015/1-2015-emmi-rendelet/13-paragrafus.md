@@ -14,4 +14,6 @@
 
 (5) Ha a fiatalkorún a befogadáskor külsérelmi nyomot észlelnek, vagy a rendőrségi fogdából, büntetés-végrehajtási intézetből vagy másik javítóintézetből átkísért fiatalkorú azt állítja, hogy bántalmazták, haladéktalanul orvosi vizsgálatot kell végezni és orvosi látleletet kell felvenni. Az orvosi vizsgálaton felvett jegyzőkönyv és a látlelet egy példányát az átkísérést végrehajtó szervnek, illetve a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyésznek meg kell küldeni.
 
-(6) Ha a befogadáskor a javítóintézet igazgatója tudomást szerez arról, hogy a fiatalkorú gyermeke felügyelet nélkül maradt, erről haladéktalanul értesíti a kiskorú lakóhelye szerint illetékes járási (fővárosi kerületi) gyámhivatalt vagy – hivatali időn kívül – az általános rendőrségi feladatokat ellátó rendőri szervet (a továbbiakban: rendőri szerv).
+(6)[^1] Ha a befogadáskor a javítóintézet igazgatója tudomást szerez arról, hogy a fiatalkorú gyermeke felügyelet nélkül maradt, erről haladéktalanul értesíti a kiskorú lakóhelye szerint illetékes fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhivatal) vagy – hivatali időn kívül – az általános rendőrségi feladatokat ellátó rendőri szervet (a továbbiakban: rendőri szerv).
+
+[^1]: A 13. § (6) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 17. § a) pontja szerint módosított szöveg.

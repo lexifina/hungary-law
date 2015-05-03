@@ -2,6 +2,9 @@
 
 (2) Az ideiglenes hatállyal elhelyezett vagy nevelésbe vett fiatalkorú esetén az eltávozás vagy a szabadság engedélyezése előtt a javítóintézet igazgatója – az (1) bekezdésben meghatározottakon kívül – kikéri a fiatalkorú gyermekvédelmi gyámjának a véleményét.
 
-(3) Ha az ideiglenes hatállyal elhelyezett vagy nevelésbe vett fiatalkorút az eltávozás vagy a szabadság alatt a vele kapcsolattartásra jogosult szülő, vagy más hozzátartozó fogadja, ehhez a fiatalkorú nevelésbe vétele ügyében eljáró járási (fővárosi kerületi) gyámhivatal hozzájárulását is be kell szerezni.
+(3)[^9] Ha az ideiglenes hatállyal elhelyezett vagy nevelésbe vett fiatalkorút az eltávozás vagy a szabadság alatt a vele kapcsolattartásra jogosult szülő, vagy más hozzátartozó fogadja, ehhez a fiatalkorú nevelésbe vétele ügyében eljáró gyámhivatal hozzájárulását is be kell szerezni.
 
-(4) Az eltávozás és a szabadság engedélyezéséről és időtartamáról előzetesen írásban vagy elektronikus úton tájékoztatni kell a fiatalkorú lakóhelye szerinti járási (fővárosi kerületi) gyámhivatalt és a fiatalkorú gyermekvédelmi gyámját.
+(4)[^10] Az eltávozás és a szabadság engedélyezéséről és időtartamáról előzetesen írásban vagy elektronikus úton tájékoztatni kell a fiatalkorú lakóhelye szerinti gyámhivatalt és a fiatalkorú gyermekvédelmi gyámját.
+
+[^9]: A 38. § (3) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^10]: A 38. § (4) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
