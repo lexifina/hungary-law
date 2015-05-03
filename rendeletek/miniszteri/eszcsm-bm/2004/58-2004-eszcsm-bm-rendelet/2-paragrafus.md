@@ -1,4 +1,4 @@
-## 1. §[^1] A nemzeti erőforrás miniszter és a belügyminiszter (a továbbiakban együtt: miniszterek) az idős emberek gondozásában, életvitelük megkönnyítésében, nyugdíjas éveik tartalommal való megtöltésében, a részükre történő kulturális és szabadidős programok szervezésében kiemelkedő szerepet vállaló helyi önkormányzatok munkájának, tevékenységének elismerésére Idősbarát Önkormányzat Díjat (a továbbiakban: Díj) alapítanak.
+## 1. §[^1] Az emberi erőforrások minisztere és a belügyminiszter (a továbbiakban együtt: miniszterek) az idős emberek gondozásában, életvitelük megkönnyítésében, nyugdíjas éveik tartalommal való megtöltésében, a részükre történő kulturális és szabadidős programok szervezésében kiemelkedő szerepet vállaló helyi önkormányzatok munkájának, tevékenységének elismerésére Idősbarát Önkormányzat Díjat (a továbbiakban: Díj) alapítanak.
 
 2. § (1) A Díjat pályázat útján azok a helyi önkormányzatok nyerhetik el, amelyek a szociális gondoskodás körébe tartozó kötelező alapfeladataikon túl
 
@@ -12,4 +12,4 @@ d) az a)–c) pontokban meghatározottak megvalósításával kialakították a 
 
 (2) A helyi önkormányzatok a Díjra évenként pályázhatnak. A díjazott helyi önkormányzat akkor nyújthat be ismételten pályázatot, ha igazolja a Díj odaítélésének alapjául szolgáló teljesítményének folyamatosságát és a korábbi pályázatban értékeltekhez képest az idősügy területén újabb eredményt mutat fel.
 
-[^1]: Az 1. § a 4/2005. (V. 13.) ICSSZEM–BM együttes rendelet 1. §-ával megállapított, a 16/2010. (XII. 11.) NEFMI–BM együttes rendelet 4. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 4/2005. (V. 13.) ICSSZEM–BM együttes rendelet 1. §-ával megállapított, a 24/2015. (IV. 30.) EMMI rendelet 14. § a) pontja szerint módosított szöveg.
