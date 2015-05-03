@@ -1,1 +1,0 @@
-35. § Hatályát veszti a Hktv. 49. § (6) bekezdésében az „A fizetendő hegyközségi járulék összegéből le kell vonni a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara részére tagdíj jogcímen az adott évre vonatkozóan fizetendő összeget.” szövegrész.
