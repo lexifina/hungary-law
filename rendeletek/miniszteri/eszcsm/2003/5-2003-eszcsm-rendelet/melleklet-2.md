@@ -548,6 +548,6 @@
 
 | Q82.2 | Mastocytosis (Diffúz súlyos eset) |
 
-2. melléklet az 5/2003. (II. 19.) ESZCSM rendelethez[^20]
+2. melléklet az 5/2003. (II. 19.) ESZCSM rendelethez[^17]
 
-[^20]: A 2. számú melléklet megjelölését 2. mellékletre változtatta és szövegét megállapította a 3/2013. (I. 7.) EMMI rendelet 6. § b) pontja. A 2. melléklet a 68/2013. (XI. 15.) EMMI rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. számú melléklet megjelölését 2. mellékletre változtatta és szövegét megállapította a 3/2013. (I. 7.) EMMI rendelet 6. § b) pontja. A 2. melléklet a 68/2013. (XI. 15.) EMMI rendelet 11. § (2) bekezdésével megállapított szöveg.
