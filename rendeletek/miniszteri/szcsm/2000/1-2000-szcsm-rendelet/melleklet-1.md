@@ -1,4 +1,4 @@
-## 116. §[^276] A komplex szükségletfelmérés időpontjában lakóotthoni ellátásban részesülő személyek esetében a komplex szükségletfelmérés eredménye a fennálló intézményi jogviszonyt nem érinti, határozott idejű megállapodás esetén a jogviszony a határozott idő lejártáig fennmarad.
+## 117. §[^277] 2015. január hónapjára vonatkozóan a házi segítségnyújtás gondozási naplóját mind az 5. számú melléklet, mind a személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet 2014. december 31-éig hatályos 1. számú melléklete szerinti formában el kell fogadni az azokban feltüntetett adatok igazolása céljából.
 
 1. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez
 
@@ -28,4 +28,4 @@ III. Műszaki ellátási szabályzatok
 
 3. gépjármű használati szabályzat
 
-[^276]: A 116. §-t az 55/2013. (VII. 29.) EMMI rendelet 11. §-a iktatta be.
+[^277]: A 117. §-t a 24/2015. (IV. 30.) EMMI rendelet 7. §-a iktatta be.

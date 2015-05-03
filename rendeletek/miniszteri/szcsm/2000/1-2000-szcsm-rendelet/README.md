@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-1-20-85
 | 2014-03-15 | 2000-1-20-85.24 | 19/2014. (III. 13.) EMMI rendelet |
 | 2015-01-17 | 2000-1-20-85.25 | 2/2015. (I. 14.) EMMI rendelet |
 | 2015-03-01 | 2000-1-20-85.26 | 12/2015. (II. 27.) EMMI rendelet |
+| 2015-05-03 | 2000-1-20-85.27 | 24/2015. (IV. 30.) EMMI rendelet |
