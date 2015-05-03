@@ -2,19 +2,19 @@
 
 ## GYERMEKEK ÁTMENETI GONDOZÁSA
 
-52. § (1)[^244] Az alapellátás keretében a családban nevelkedő, rászoruló gyermeket ideiglenes jelleggel a Gyvt.-ben meghatározott ideig tartó átmeneti gondozásban kell részesíteni.
+52. § (1)[^245] Az alapellátás keretében a családban nevelkedő, rászoruló gyermeket ideiglenes jelleggel a Gyvt.-ben meghatározott ideig tartó átmeneti gondozásban kell részesíteni.
 
-(2)[^245] Az átmeneti gondozás során a gyermek számára a 76–82. §-ban részletezett ellátást kell nyújtani, amiről az ellátást nyújtó megállapodást köt a szülővel.
+(2)[^246] Az átmeneti gondozás során a gyermek számára a 76–82. §-ban részletezett ellátást kell nyújtani, amiről az ellátást nyújtó megállapodást köt a szülővel.
 
 (3) Az átmeneti gondozásban részesített gyermek gondozásának, nevelésének célja, hogy
 
-a)[^246] ideiglenesen helyettesítse a gyermek gondozásában akadályoztatott szülő gondoskodását,
+a)[^247] ideiglenesen helyettesítse a gyermek gondozásában akadályoztatott szülő gondoskodását,
 
 b) együttes elhelyezést és ellátást biztosítson az otthontalanná vált szülő és gyermeke számára.
 
-(4)[^247] A (3) bekezdés a) pontjában meghatározott esetben a szülőhöz történő mielőbbi visszakerülés érdekében a gyermek gondozását végző, valamint a szülőt segítő személyek, illetve intézmények kötelesek együttműködni egymással.
+(4)[^248] A (3) bekezdés a) pontjában meghatározott esetben a szülőhöz történő mielőbbi visszakerülés érdekében a gyermek gondozását végző, valamint a szülőt segítő személyek, illetve intézmények kötelesek együttműködni egymással.
 
-[^244]: Az 52. § (1) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 13. §-ával megállapított szöveg.
-[^245]: Az 52. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 37. §-ával megállapított szöveg.
-[^246]: Az 52. § (3) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 8. pontja szerint módosított szöveg.
-[^247]: Az 52. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 9. pontja szerint módosított szöveg.
+[^245]: Az 52. § (1) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 13. §-ával megállapított szöveg.
+[^246]: Az 52. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 37. §-ával megállapított szöveg.
+[^247]: Az 52. § (3) bekezdésének a) pontja a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 8. pontja szerint módosított szöveg.
+[^248]: Az 52. § (4) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 99. § (2) bekezdésének 9. pontja szerint módosított szöveg.

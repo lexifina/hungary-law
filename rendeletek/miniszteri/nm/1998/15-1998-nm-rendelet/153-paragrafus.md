@@ -1,8 +1,8 @@
-## 152/A. §[^543] A gyermekvédelmi gyám – a kirendelése esetén – munkakörében ellátja az eseti gyámi, vagyonkezelő eseti gyámi feladatokat. A gyermekvédelmi gyám egyidejűleg együttesen legfeljebb harmincöt gyermek tekintetében láthat el gyermekvédelmi gyámi, eseti gyámi, vagyonkezelő eseti gyámi feladatokat, azzal, hogy egyidejűleg legfeljebb harminc gyermeknek lehet a gyermekvédelmi gyámja.
+## 152/A. §[^546] A gyermekvédelmi gyám – a kirendelése esetén – munkakörében ellátja az eseti gyámi, vagyonkezelő eseti gyámi feladatokat. A gyermekvédelmi gyám egyidejűleg együttesen legfeljebb harmincöt gyermek tekintetében láthat el gyermekvédelmi gyámi, eseti gyámi, vagyonkezelő eseti gyámi feladatokat, azzal, hogy egyidejűleg legfeljebb harminc gyermeknek lehet a gyermekvédelmi gyámja.
 
-## Kapcsolattartás, családgondozás[^544]
+## Kapcsolattartás, családgondozás[^547]
 
-153. §[^545] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
+153. §[^548] (1) A nevelőszülőnél, a gyermekotthonban és a bentlakásos szociális intézményben elhelyezett gyermek kapcsolattartásának elősegítése, támogatása érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően –
 
 a) a gyermekvédelmi gyám segíti
 
@@ -26,7 +26,7 @@ c) segíti a gyermeket önálló életvitelének kialakításában.
 
 (3) A (2) bekezdés szerinti feladatok teljesítése során a gyermekvédelmi gyám és a gyermekjóléti szolgálat együttműködnek.
 
-(4)[^546] A gyermekvédelmi gyám és a megelőző pártfogó felügyelő a megelőző pártfogás alatt álló gyermek bűnismétlésének megelőzése érdekében történő együttműködés keretében
+(4)[^549] A gyermekvédelmi gyám és a megelőző pártfogó felügyelő a megelőző pártfogás alatt álló gyermek bűnismétlésének megelőzése érdekében történő együttműködés keretében
 
 a) közvetlenül tartanak kapcsolatot egymással,
 
@@ -36,7 +36,7 @@ c) a gyermekkel és a családdal kapcsolatos tapasztalataikat megosztják egymá
 
 d) a gyermekkel közös megbeszélést tarthatnak.
 
-[^543]: A 152/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 13. §-a iktatta be, szövege a 83/2013. (XII. 29.) EMMI rendelet 18. § (2) bekezdése szerint módosított szöveg.
-[^544]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
-[^545]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
-[^546]: A 153. § (4) bekezdését a 6/2015. (I. 28.) EMMI rendelet 17. §-a iktatta be.
+[^546]: A 152/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 13. §-a iktatta be, szövege a 83/2013. (XII. 29.) EMMI rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^547]: A 153. §-t megelőző alcím a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^548]: A 153. § a 26/2013. (III. 29.) EMMI rendelet 33. §-ával megállapított szöveg.
+[^549]: A 153. § (4) bekezdését a 6/2015. (I. 28.) EMMI rendelet 17. §-a iktatta be.

@@ -12,8 +12,8 @@
 
 (5) E rendelet alkalmazásában ellátást nyújtó: a gyermek gondozását, nevelését, felügyeletét közvetlenül végző személy, illetve intézmény.
 
-(6)[^3] E rendelet alkalmazásában gyámhivatal: a járási (fővárosi kerületi) gyámhivatal.
+(6)[^3] E rendelet alkalmazásában gyámhivatal: a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala.
 
 [^1]: Az 1. § (1) bekezdése a 31/2009. (XII. 22.) SZMM rendelet 21. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 83/2013. (XII. 29.) EMMI rendelet 18. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (6) bekezdését a 11/2013. (II. 7.) EMMI rendelet 42. §-a iktatta be.
+[^3]: Az 1. § (6) bekezdését a 11/2013. (II. 7.) EMMI rendelet 42. §-a iktatta be, szövege a 24/2015. (IV. 30.) EMMI rendelet 1. §-ával megállapított szöveg.

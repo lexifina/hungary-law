@@ -44,7 +44,7 @@ f) a településen működő gyermekvédelmi szakellátást nyújtó szolgáltat
 
 g)[^87] a fiatalkorúak pártfogó felügyelőjét, megelőző pártfogó felügyelőjét,
 
-h)[^88] a szociális és gyámhivatalban működő gyermek- és ifjúságvédelmi koordinátort.
+h)[^88] a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatalban működő gyermek- és ifjúságvédelmi koordinátort.
 
 [^78]: A 15. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (1) bekezdésével megállapított, a 31/2009. (XII. 22.) SZMM rendelet 3. §-a szerint módosított szöveg.
 [^79]: A 15. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3)–(6) bekezdés jelölését (4)–(7) bekezdésre változtatva.
@@ -56,4 +56,4 @@ h)[^88] a szociális és gyámhivatalban működő gyermek- és ifjúságvédelm
 [^85]: A 15. § (8) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 13. § (4) bekezdése iktatta be.
 [^86]: A 15. § (8) bekezdés e) pontja a 11/2013. (II. 7.) EMMI rendelet 44. § c) pontja szerint módosított szöveg.
 [^87]: A 15. § (8) bekezdés g) pontja a 6/2015. (I. 28.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^88]: A 15. § (8) bekezdés h) pontja a 49/2013. (VII. 10.) EMMI rendelet 23. § a) pontja szerint módosított szöveg.
+[^88]: A 15. § (8) bekezdés h) pontja a 24/2015. (IV. 30.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
