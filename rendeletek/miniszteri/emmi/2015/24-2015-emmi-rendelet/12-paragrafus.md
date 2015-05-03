@@ -1,0 +1,3 @@
+## 11. § A magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet (a továbbiakban: R1.) 4/A. §-a helyébe a következő rendelkezés lép:
+
+## „4/A. § A Cst. 7. § (2) bekezdése szerint saját jogán nevelési ellátásra jogosult tizennyolcadik életévét betöltött tartósan beteg, illetve súlyosan fogyatékos személy magasabb összegű családi pótlékra való jogosultságának megállapítása iránt indult eljárásban a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 9. § (1b) és (1c) bekezdésében meghatározottakat kell alkalmazni.”
