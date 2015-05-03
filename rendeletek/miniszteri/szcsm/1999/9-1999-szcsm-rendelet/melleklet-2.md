@@ -4,13 +4,13 @@
 
 ## (a háziorvos, kezelőorvos tölti ki)
 
-## Név (születési név):
+| Név (születési név): |
 
-## Születési hely, idő:
+| Születési hely, idő: |
 
-## Lakóhely:
+| Lakóhely: |
 
-## Társadalombiztosítási Azonosító Jel:
+| Társadalombiztosítási Azonosító Jel: |
 
 | 1. Házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás, támogató szolgáltatás és nappali ellátás (idős, fogyatékos, demens személyek részére) igénybevétele esetén (házi segítségnyújtás, jelzőrendszeres házi segítségnyújtás esetében az 1.1. pontot nem kell kitölteni): |
 
@@ -102,7 +102,7 @@
 
 | Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások |  |
 
-| Önkormányzat és munkaügyi szervek által folyósított ellátások |  |
+| Önkormányzat és állami foglalkoztatási szervek által folyósított ellátások |  |
 
 | Egyéb jövedelem |  |
 
@@ -112,7 +112,7 @@
 
 ## (kizárólag kiskorú kérelmező esetén szükséges kitölteni)
 
-| A család létszáma: ................ fő | Munkaviszonyból és más foglalkoztatási jogviszonyból származó | Társas és egyéni vállalkozásból, őstermelői, szellemi és más önálló tevékenységből származó | Táppénz, gyermek- gondozási támogatások | Önkormányzat és munkaügyi szervek által folyósított ellátások | Nyugellátás és egyéb nyugdíj- szerű rendszeres szociális ellátások | Egyéb jöve- delem |
+| A család létszáma: ................ fő | Munkaviszonyból és más foglalkoztatási jogviszonyból származó | Társas és egyéni vállalkozásból, őstermelői, szellemi és más önálló tevékenységből származó | Táppénz, gyermek- gondozási támogatások | Önkormányzat és állami foglalkoztatási szervek által folyósított ellátások | Nyugellátás és egyéb nyugdíj- szerű rendszeres szociális ellátások | Egyéb jöve- delem |
 
 | Az ellátást igénybe vevő kiskorú |  |  |  |  |  |  |
 
@@ -272,9 +272,9 @@
 
 ## 3. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetve állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-## 4. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani az önkormányzati segélyt, a rendkívüli települési támogatást, a rendkívüli települési támogatást, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és az a melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
+## 4. Nem minősül jövedelemnek, így a jövedelembe sem kell beszámítani a temetési segélyt, az alkalmanként adott átmeneti segélyt, az önkormányzati segélyt, a rendkívüli települési támogatást, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendkívüli gyermekvédelmi támogatást, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 20/A. §-a szerinti támogatást, a Gyvt. 20/B. § (4)–(5) bekezdése szerinti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a szépkorúak jubileumi juttatását, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást és a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevételt. Nem minősül jövedelemnek az alkalmi munkavállalói könyvvel történő foglalkoztatás, az egyszerűsített foglalkoztatásról szóló törvény alapján történő munkavégzés révén szerzett bevétel, továbbá a természetes személyek között az adórendszeren kívüli keresettel járó foglalkoztatásra vonatkozó rendelkezések alapján háztartási munkára létesített munkavégzésre irányuló jogviszony keretében történő munkavégzésnek (háztartási munka) a havi ellenértéke.
 
-## 5. Az önkormányzati segéllyel egy tekintet alá esik a 2013. december 31-ig hatályos szabályok szerinti temetési segély, az alkalmanként adott átmeneti segély és a rendkívüli gyermekvédelmi támogatás.
+## 5.
 
 ## 6. A családtagok jövedelmét kizárólag kiskorú igénybe vevő esetén kell feltüntetni, külön-külön. A családi pótlékot, az árvaellátást és a tartásdíj címén kapott összeget annak a személynek a jövedelmeként kell figyelembe venni, akire tekintettel azt folyósítják.
 
@@ -296,7 +296,7 @@
 
 ## 4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, rokkantsági, baleseti rokkantsági nyugdíj, özvegyi és szülői nyugdíj, árvaellátás és baleseti hozzátartozói nyugellátások; rendszeres szociális járadék, átmeneti járadék, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék.
 
-## 5. Önkormányzat és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, az aktív korúak ellátása, az ápolási díj, az adósságcsökkentési támogatás; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+## 5. Önkormányzat és az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal által folyósított ellátások: különösen az időskorúak járadéka, az aktív korúak ellátása, az ápolási díj, a települési támogatás, az álláskeresési járadék, a nyugdíj előtti álláskeresési segély, a képzési támogatásként folyósított keresetpótló juttatás.
 
 ## 6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
 
@@ -306,7 +306,7 @@
 
 ## A vagyonnyilatkozatban feltüntetett pénzvagyonról a kérelemhez mellékelni kell a bankszámlakivonat, a betétkönyv, illetve a takarékbetét-szerződés másolatát.
 
-2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^67]
+2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^68]
 
 ## ELŐGONDOZÁSI ADATLAP
 
@@ -446,4 +446,4 @@ Az előgondozást végző személy neve, aláírása
 
 |  | * nem kötelező kitölteni” |  |
 
-[^67]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 41. § b) pontja szerint módosított szöveg.
+[^68]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 41. § b) pontja szerint módosított szöveg.
