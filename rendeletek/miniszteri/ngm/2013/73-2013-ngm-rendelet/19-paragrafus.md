@@ -2,16 +2,19 @@
 
 19. § (1) A fizikai alkalmassági követelményeket, valamint a 17. § (2) bekezdés a)–d) pontjában meghatározott csoportok vonatkozásában a pontértékeket a 4. melléklet tartalmazza. A végrehajtott gyakorlatot abban az esetben lehet teljesítettnek tekinteni, ha a vizsgált személy a bemutatott teljesítményével legalább egy pontot elér.
 
-(2) A fizikai alkalmassági vizsgálat – a választott öt kondicionális gyakorlat végrehajtásának értékelése – alapján a vizsgált személy minősítése az I–III. korcsoport esetében:
+(2)[^14] A négy kondicionális gyakorlat végrehajtásának értékelése alapján a vizsgált személy minősítése – a (3) bekezdésben meghatározott feladatot ellátó pénzügyőr kivételével – az I–IV. korcsoport esetében
 
-a) 0–59 pont esetén „Fizikailag alkalmatlan”,
+a) 40 pontig „Fizikailag alkalmatlan”,
 
-b) 60–125 pont esetén „Fizikailag alkalmas”.
+b) 41 ponttól „Fizikailag alkalmas”.
 
-(3) A fizikai alkalmassági vizsgálat – a választott öt kondicionális gyakorlat végrehajtásának értékelése – alapján a vizsgált személy minősítése a IV. csoport esetében:
+(3)[^15] A négy kondicionális gyakorlat végrehajtásának értékelése alapján a vizsgált személy minősítése a 2. melléklet I. kategória b)–c) és h)–i) pontjaiban meghatározott feltételek együttes fennállása esetében
 
-a) 0–15 pont esetén „Fizikailag alkalmatlan”,
+a) 60 pontig „Fizikailag alkalmatlan”,
 
-b) 16 pont felett „Fizikailag alkalmas”.
+b) 61 ponttól „Fizikailag alkalmas”.
 
 (4) A NAV speciális bevetési egysége tagja, valamint az egységhez jelentkező személy akkor kaphat „Fizikailag alkalmas” minősítést, ha valamennyi kondicionális gyakorlat végrehajtása során teljesítette a 4. melléklet V. pontjában részére meghatározott minimum követelményt.
+
+[^14]: A 19. § (2) bekezdése a 14/2015. (V. 4.) NGM rendelet 8. §-ával megállapított szöveg.
+[^15]: A 19. § (3) bekezdése a 14/2015. (V. 4.) NGM rendelet 8. §-ával megállapított szöveg.

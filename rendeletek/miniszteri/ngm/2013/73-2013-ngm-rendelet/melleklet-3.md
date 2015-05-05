@@ -1,22 +1,22 @@
-## Pénzügyőrök, valamint pénzügyi nyomozók alkalmassági kategóriái
+## Pénzügyőrök, valamint civil pénzügyi nyomozók alkalmassági kategóriái
 
 ## I. kategória
 
-## Az I. alkalmassági kategóriába tartoznak azok a pénzügyőrök, pénzügyi nyomozók,
+## Az I. alkalmassági kategóriába tartoznak azok a pénzügyőrök, civil pénzügyi nyomozók,
 
-## a) akik fokozott balesetveszélynek vannak kitéve,
+## a) akik fokozott balesetveszélynek vannak kitéve, vagy
 
-## b) akik éjszakai műszakban, váltószolgálatban, határszolgálatban, járőrszolgálatban teljesítenek szolgálatot,
+## b) akik éjszakai műszakban, váltószolgálatban, határszolgálatban, járőrszolgálatban teljesítenek szolgálatot, vagy
 
-## c) akik fegyvert viselnek,
+## c) akik fegyvert viselnek, vagy
 
-## d) akik megkülönböztetett jelzésű járművet vezetnek,
+## d) akik megkülönböztetett jelzésű járművet vezetnek, vagy
 
-## e) akiknél megosztott figyelem, fokozott koncentráció szükséges,
+## e) akiknél megosztott figyelem, fokozott koncentráció szükséges, vagy
 
-## f) akiknek jó érzékszervi funkciókkal kell rendelkezniük,
+## f) akiknek jó érzékszervi funkciókkal kell rendelkezniük, vagy
 
-## g) akik ionizáló sugárexpozíció veszélynek vannak kitéve,
+## g) akik ionizáló sugárexpozíció veszélynek vannak kitéve, vagy
 
 ## h) akik kényszerítő eszközt alkalmazhatnak, vagy
 
@@ -26,7 +26,7 @@
 
 ## II. kategória
 
-## A II. alkalmassági kategóriába tartoznak azok a pénzügyőrök, pénzügyi nyomozók, akiknél feladatuk ellátása során a következő feltételek bármelyike fennáll:
+## A II. alkalmassági kategóriába tartoznak azok a pénzügyőrök, civil pénzügyi nyomozók, akiknél feladatuk ellátása során a következő feltételek bármelyike fennáll:
 
 ## a) vegyi anyag expozíció,
 
@@ -66,6 +66,6 @@
 
 ## III. kategória
 
-## A III. alkalmassági kategóriába tartoznak az I-II. kategóriába nem sorolható pénzügyőrök, pénzügyi nyomozók.
+## A III. alkalmassági kategóriába tartoznak az I–II. kategóriába nem sorolható pénzügyőrök, civil pénzügyi nyomozók.
 
 3. melléklet a 73/2013. (XII. 30.) NGM rendelethez

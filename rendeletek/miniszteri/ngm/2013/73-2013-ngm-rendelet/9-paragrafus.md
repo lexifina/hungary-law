@@ -2,7 +2,7 @@
 
 9. § (1) Soron kívüli alkalmassági vizsgálatot kell végezni:
 
-a) a pénzügyőrnél az alkalmassági kategória megváltoztatása előtt;
+a)[^7] a pénzügyőrnél, civil pénzügyi nyomozónál az alkalmassági kategória megváltoztatása előtt;
 
 b) a munkakörülmények lényeges változása esetén, ha a megváltozott kockázati tényezők alapján – az érintettet foglalkoztató szervezeti egység vezetőjének (a továbbiakban: közvetlen vezető) a javaslatára – a munkáltatói jogkör gyakorlója kezdeményezi;
 
@@ -37,3 +37,5 @@ c) a foglalkoztatott.
 (4) A NAV elnöke elrendelheti az egyes munkakörökben foglalkoztatottak soron kívüli alkalmassági vizsgálatát vagy egyes alkalmassági vizsgálatoknak a foglalkoztatottak egészére vagy meghatározott részére történő elvégzését.
 
 (5) A soron kívüli alkalmassági vizsgálat esetén az egészségi, pszichikai és fizikai vizsgálatok közül a soron kívüli alkalmassági vizsgálatot megalapozó körülmények által indokolt vizsgálatokat kell elvégezni.
+
+[^7]: A 9. § (1) bekezdés a) pontja a 14/2015. (V. 4.) NGM rendelet 5. §-ával megállapított szöveg.
