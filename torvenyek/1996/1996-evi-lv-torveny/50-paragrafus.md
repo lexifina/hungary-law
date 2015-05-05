@@ -6,6 +6,6 @@
 
 (3) A vadászati hatóság az (2) bekezdésben foglaltak alól – így különösen, ha a vadászterület természeti adottságai ezt indokolják – felmentést adhat.
 
-(4) A vadászati hatóság, amennyiben a vad és élőhelyének szakszerű védelme ezt különösen indokolttá teszi, felsőfokú végzettségű hivatásos vadász igénybevételét is előírhatja, míg tízezer hektárt meghaladó vagy különleges rendeltetésű vadászterület esetén felsőfokú végzettségű hivatásos vadász igénybevétele kötelező.
+(4) A vadászati hatóság, amennyiben a vad és élőhelyének szakszerű védelme ezt különösen indokolttá teszi, felsőfokú végzettségű hivatásos vadász igénybevételét is előírhatja.
 
 (5) Hivatásos vadász igénybevételének minősül, ha a jogosult megfelelő képesítéssel rendelkezik, és a kamaránál hivatásos vadászként nyilvántartásba vették.
