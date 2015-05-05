@@ -1,0 +1,9 @@
+5. § Ez a törvény a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról szóló, 2012. november 21-i 2012/35/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Lezsák Sándor s. k.,
+
+az Országgyűlés alelnöke
