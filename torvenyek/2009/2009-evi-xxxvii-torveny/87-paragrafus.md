@@ -1,6 +1,6 @@
 ## IX. Fejezet
 
-## AZ ERDŐ SZÁLLÍTÁS CÉLJÁRA TÖRTÉNŐ IGÉNYBEVÉTELE, ILLETVE AZ ERDŐ LÁTOGATÁSA
+## AZ ERDŐ SZÁLLÍTÁS CÉLJÁRA TÖRTÉNŐ IGÉNYBEVÉTELE, A FAANYAG KERESKEDELMI LÁNC, AZ ERDŐ LÁTOGATÁSA
 
 ## Az erdészeti termékek szállítása
 

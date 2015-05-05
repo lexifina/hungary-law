@@ -19,3 +19,17 @@ e) elektronikus ügyintézés, kapcsolattartás esetén az elektronikus levélc�
 (4) A (3) bekezdés szerinti személyes adatok legfeljebb 10 évig kezelhetőek.
 
 (5) Az erdészeti hatóság a (3) bekezdésben meghatározott jogosultak (3) bekezdés a) és b) pontja szerinti, a tulajdoni lapon szereplő személyes adatait – az ingatlan-nyilvántartásról szóló jogszabályokban meghatározott formában és módon – jogosult az ingatlanügyi hatóságtól átvenni.
+
+(6) Az erdészeti hatóság jogosult
+
+a) a személyiadat- és lakcímnyilvántartásból a nyilvántartott természetes személy erdőgazdálkodó természetes személyazonosító adataira, lakcímére, külföldön történő letelepedésére, elhalálozására;
+
+b) az állami adóhatóságtól az adózó adóazonosító jelére, illetve adószámára;
+
+c) a közlekedési igazgatási hatóságtól – az engedély nélküli fakitermeléssel összefüggő feladatai ellátásához szükséges mértékben – a közúti közlekedési nyilvántartásban szereplő jármű
+
+ca) tulajdonosának (üzemben tartójának) természetes személyazonosító adataira, lakcímére, állampolgárságára (hontalanságára), egyéni vállalkozó esetében – kérelmére – székhelyére, telephelyére, jogi személy vagy jogi személyiséggel nem rendelkező szervezet megnevezésére, székhelye (telephelye) címére, cégjegyzék-, vagy nyilvántartási számára,
+
+cb) tulajdonjog-átruházásának időpontjára, a tulajdonosváltozás bejelentésének tényére és időpontjára
+
+vonatkozó adat igénylésére.

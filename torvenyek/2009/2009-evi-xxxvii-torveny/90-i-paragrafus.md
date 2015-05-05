@@ -1,0 +1,5 @@
+90/I. § (1) Az erdészeti hatóság – a faanyag kereskedelmi lánccal kapcsolatos eljárása során – jogosult megismerni és kezelni az ügyfél és az eljárás más résztvevőjének személyes adatait, illetve az ilyen adatot tartalmazó nyilvántartás vagy adatbázis is lefoglalható. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
+
+(2) A faanyag kereskedelmi lánccal kapcsolatos ellenőrzésekhez az erdészeti hatóság a rendőrség, az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság közreműködését igényelheti.
+
+(3) A fatermékek forgalmazásának hatékony ellenőrzése érdekében az erdészeti hatóság és a rendőrség, az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság köteles egymással együttműködni.

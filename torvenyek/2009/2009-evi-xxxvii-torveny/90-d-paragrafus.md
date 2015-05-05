@@ -1,0 +1,1 @@
+90/D. § Az állam az éves költségvetési törvényben meghatározott módon a központi költségvetésben biztosítja a faanyag kereskedelmi lánc nemzeti és nemzetközi követelményeknek megfelelő szintű működésének fedezetét.

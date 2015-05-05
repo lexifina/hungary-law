@@ -1,0 +1,1 @@
+90/B. § Az ellenőrző szervezet haladéktalanul köteles az erdészeti hatóságot értesíteni, ha a faanyag kereskedelmi lánc szereplőjénél végzett tevékenysége vagy ellenőrzése során az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusoknak vagy a jogszabályokban foglalt előírásoknak a megsértését észleli.

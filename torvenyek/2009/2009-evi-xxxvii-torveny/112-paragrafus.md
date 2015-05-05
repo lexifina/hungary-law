@@ -8,7 +8,9 @@
 
 a) jelölje ki az erdészeti hatóságot vagy hatóságokat;
 
-b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét és kiszámításának módját.
+b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét és kiszámításának módját;
+
+c) határozza meg az erdészeti hatóság faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos feladat- és hatáskörét.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
@@ -86,6 +88,6 @@ b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét 
 
 (8) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az erdészeti hatósági eljárásban fizetendő igazgatási-szolgáltatási díj mértékét, megfizetésének részletes szabályait, a díjfizetés alóli mentesség eseteit.
 
-(9) Felhatalmazást kap a miniszter, hogy a kereskedelemért felelős miniszterrel egyetértésben rendeletben állapítsa meg a faanyag származási igazolásának rendjét.
+(9) Felhatalmazást kap a miniszter, hogy a kereskedelemért felelős miniszterrel egyetértésben rendeletben határozza meg a faanyag kereskedelmi lánc felügyeletével kapcsolatos bejelentés, nyilvántartás és ellenőrzés részletes szabályait.
 
 (10) Felhatalmazást kap a miniszter, hogy a turizmusért felelős miniszter, a természetvédelemért felelős miniszter, valamint a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a turista útjelzések és tájékoztató táblák elkészítésének és elhelyezésének, valamint a jelzett turista útvonalak nyilvántartásának részletes szabályait.

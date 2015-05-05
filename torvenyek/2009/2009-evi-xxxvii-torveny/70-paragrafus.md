@@ -4,4 +4,4 @@
 
 (2) A fásításból, a szabad rendelkezésű erdőből történő fakitermelést az e törvény végrehajtására kiadott jogszabályban előírtak szerint kell előzetesen az erdészeti hatóságnak bejelenteni.
 
-(3) A fakitermelési munka végrehajtója köteles a munka elvégzésére jogosító, az erdőgazdálkodó által kiállított okiratot és a jogosult erdészeti szakszemélyzet által kiadott erdőgazdálkodási műveleti lapot vagy annak másolati példányát a munkavégzés során magánál tartani, és azt az arra jogosult személynek felszólítására bemutatni.
+(3) A fakitermelési munka végrehajtója köteles a munka elvégzésére jogosító, az erdőgazdálkodó jogosult erdészeti szakszemélyzete által kiadott erdőgazdálkodási műveleti lapot vagy annak másolati példányát a munkavégzés során magánál tartani, és azt az arra jogosult személynek felszólítására bemutatni.
