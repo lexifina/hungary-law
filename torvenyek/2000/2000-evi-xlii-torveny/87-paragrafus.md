@@ -78,11 +78,15 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 33. révkalauz: a hajó vezetőjét a hajó vezetésében segítő, kellő helyismerettel és képesítéssel rendelkező személy;
 
+33a. STCW Egyezmény: a 2012. évi XIX. törvénnyel kihirdetett, a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény 2010. évi manilai módosításaival egységes szerkezetbe foglalt szövege;
+
 34. személyhajó: a hajózási hatóság által 12 főnél több utas rendeltetésszerű szállítására alkalmasnak nyilvánított hajó;
 
 35. szükségkikötő: az úszólétesítményeknek a víziút használata során bekövetkezett szükséghelyzet (pl. rendkívüli vízállás, jégzajlás) miatti átmeneti tartózkodására kijelölt víz-, illetőleg partterület;
 
 36. tartályhajó: a hajótestben kialakított vagy a hajón rögzített tartályokban folyékony rakomány továbbítására alkalmassá nyilvánított hajó;
+
+36a. Tengerészeti Munkaügyi Egyezmény: a 2013. évi IV. törvénnyel kihirdetett a Nemzetközi Munkaügyi Szervezet Általános Konferenciája 94. ülésszakán elfogadott 2006. évi Tengerészeti Munkaügyi Egyezmény;
 
 37. úszómunkagép: a vízimunka végzésére alkalmas úszólétesítmény, amely rendeltetésénél fogva nem végez árufuvarozást, illetőleg személyszállítást;
 

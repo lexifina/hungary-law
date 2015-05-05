@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2000-42-00-00.32 |
 | 2014-06-06 | 2014. évi XXI. törvény | 2000-42-00-00.33 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2000-42-00-00.34 |
+| 2015-05-05 | 2015. évi XLVII. törvény | 2000-42-00-00.35 |
