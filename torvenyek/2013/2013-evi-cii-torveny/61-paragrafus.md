@@ -2,9 +2,9 @@
 
 (2) A halgazdálkodási hatóság hatósági feladatainak ellátása során
 
-a) külön térítés fizetése nélkül a halgazdálkodási vízterületre és az azzal érintett ingatlanra bejárhat;
+a) külön térítés fizetése nélkül bármely ingatlanra beléphet;
 
-b) a kerítéssel elzárt magánterületre is beléphet, az ingatlanon, illetve a vízparton szemlét, vizsgálatot tarthat;
+b) az ingatlanon, illetve a vízparton szemlét, vizsgálatot tarthat;
 
 c) a halgazdálkodásra jogosulttól, a halásztól, a horgásztól a halgazdálkodási tevékenységgel összefüggésben felvilágosítást, adatot, igazolást kérhet;
 
@@ -12,7 +12,7 @@ d) a halgazdálkodásra jogosultnak a halgazdálkodási joggal kapcsolatos irata
 
 – az adatvédelemre, valamint a titoktartásra vonatkozó jogszabályok figyelembevételével – megismerheti és azokról másolatot, illetve kivonatot készíthet, valamint a nyilvántartásaiba betekinthet;
 
-e) a halgazdálkodási vízterületen a halászat állapotáról megfigyelést végez;
+e) a halgazdálkodás állapotáról megfigyelést végez;
 
 f) a halállományt veszélyeztető tevékenység abbahagyását, illetve a tevékenységtől való tartózkodást rendelhet el;
 

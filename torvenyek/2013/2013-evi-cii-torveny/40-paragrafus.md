@@ -1,6 +1,6 @@
-40. § (1) Állami horgászjegyet a halgazdálkodási hatóság, valamint az általa írásban forgalmazásra feljogosított szervezet adhat ki. Az állami horgászjegy horgászatra jogosít, amelynek országos rendjét az e törvény végrehajtására kiadott rendelet határozza meg.
+40. § (1) Állami horgászjegyet és fogási naplót a halgazdálkodási hatóság, valamint az általa írásban forgalmazásra feljogosított szervezet adhat ki. Az állami horgászjegy horgászatra jogosít, amelynek országos rendjét az e törvény végrehajtására kiadott rendelet határozza meg.
 
-(2) Állami horgászjegyet az a személy kaphat, aki rendelkezik horgászvizsgával vagy korábbi érvényes állami horgászjegyét bemutatja, horgászszervezeti tagságát igazolja és fogási naplóját leadta. Az állami horgászvizsgát a halgazdálkodási hatóság által kiadott vizsgabizonyítvánnyal, más országban tett vizsgát pedig az erről kiállított okirattal vagy horgászati okmánnyal lehet igazolni.
+(2) Állami horgászjegyet és fogási naplót az a személy kaphat, aki rendelkezik állami horgászvizsgával vagy korábbi érvényes állami horgászjegyét bemutatja, horgászszervezeti tagságát igazolja. A horgász a magyar állami horgászvizsgát a halgazdálkodási hatóság által kiadott vizsgabizonyítvánnyal, a más országban tett vizsgát az erről kiállított okirattal vagy horgászati okmánnyal igazolja.
 
 (3) Hároméves kortól az adott év december 31. napjáig a 15. életévét be nem töltött személy részére állami horgászjegy kiadása esetén a (2) bekezdésben foglaltakat nem kell alkalmazni.
 

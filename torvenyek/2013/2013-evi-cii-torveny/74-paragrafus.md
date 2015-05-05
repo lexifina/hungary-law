@@ -10,6 +10,10 @@
 
 (5) Azon halgazdálkodási vízterület, amelyet e törvény hatálybalépése előtt – a halászatról és a horgászatról szóló 1997. évi XLI. törvény szerint – a halászati hatóság halászati vízterületté nyilvánított, nyilvántartott halgazdálkodási vízterületnek minősül.
 
-(6) Az e törvény hatálybalépése előtt megváltott – a halászatról és a horgászatról szóló 1997. évi XLI. törvény szerinti – állami halászjegy, állami horgászjegy, halász területi engedély, fogási napló, továbbá kiadott éves kutatási engedély legkésőbb 2014. január 31-ig érvényes.
+(6) Nem kell alkalmazni e törvény 6. § (1) bekezdését és 74. § (4) bekezdését a halászatról és a horgászatról szóló 1997. évi XLI. törvény hatálybalépését megelőzően magántulajdonba került olyan lefolyástalanként nyilvántartott halgazdálkodási vízterületek esetében, ahol 2013. augusztus 31-én a halászati jog nem az államot illette meg.
 
-(7) A halászati engedélyes részére a fogási tanúsítvány nyomtatványtömböt a 2013. évben a halgazdálkodási hatóság 2013. december 31. napjáig adja ki.
+(7) Az e törvény hatálybalépését megelőzően létrejött olyan társult halászati jog esetén, amelynél a halászati jog gyakorlásának alapját képező ingatlan, illetve ingatlanok tekintetében az állami tulajdonjog hányada nem haladja meg az 50%-ot, a halgazdálkodási jog gyakorlása körében az államot a halgazdálkodási hatóság országos illetékességű szerve képviseli.
+
+(8) Kereskedelmi célú halászati engedély a 2016-os naptári évre, valamint az azt követő naptári évekre nem adható ki.
+
+(9) A miniszter az állam nevében eljárva jogosult az új haszonbérleti vagy vagyonkezelési szerződés hatályba lépéséig, de legfeljebb egy évig terjedő időre meghosszabbítani az állammal nyilvántartott halgazdálkodási vízterületre létrejött haszonbérleti szerződés hatályát.

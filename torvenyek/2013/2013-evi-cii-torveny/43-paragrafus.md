@@ -1,6 +1,6 @@
 43. § (1) Halászati engedély, állami halászjegy, állami horgászjegy nem adható annak a személynek – a bírság jogerős kiszabásától számított három hónaptól három évig terjedő időtartamra – akivel szemben halvédelmi bírságot szabtak ki.
 
-(2) A halászati engedélyt, az állami horgászjegyet, az állami halászjegyet a halgazdálkodási hatóság visszavonja attól a személytől
+(2) A halászati engedélyt, az állami horgászjegyet, turista állami horgászjegyet, az állami halászjegyet a halgazdálkodási hatóság visszavonja attól a személytől
 
 a) aki ezen okmányát a helyszíni ellenőrzéskor nem tudja felmutatni és mulasztását a halgazdálkodási hatóságnál 10 napon belül nem pótolja,
 

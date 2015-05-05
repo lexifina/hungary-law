@@ -2,4 +2,4 @@
 
 (2) A folyóvizek árterületének nem mentett oldalán elhelyezkedő, egyedileg nem nyilvántartott állandó vagy időszakos vízterületek a halgazdálkodásra való jogosultság szempontjából a főmeder – mint halgazdálkodási vízterület – részének minősülnek. Ezen hullámtéri vízterületeken halgazdálkodási tevékenységet a vízgazdálkodási és vízkár-elhárítási szempontok elsődlegességének szem előtt tartásával végezhet a halgazdálkodásra jogosult.
 
-(3) Mentett oldali és áradással nem érintett, nem nyilvántartott halgazdálkodási vízterületeken tilos az őshonos halak kifogása.
+(3) Mentett oldali és áradással nem érintett, nem nyilvántartott halgazdálkodási vízterületeken tilos az őshonos halak kifogása, kivéve az érvényes kutatási célú halfogási engedély birtokában végzett tudományos célt szolgáló vizsgálati anyag begyűjtését, valamint a halállománymentés azon esetét, ha a mentett őshonos halakat csak más halgazdálkodási vízterületre lehet kihelyezni.

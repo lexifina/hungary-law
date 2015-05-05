@@ -16,7 +16,7 @@
 
 6. hal kifogása: a halnak és más hasznos víziállatnak a halászat vagy a horgászat során történő megfogása és a vízbe vissza nem engedése;
 
-7. halastó: olyan haltermelési létesítmény, amely vízfeltöltést és lecsapolást biztosító műtárgyakkal rendelkezik, ideértve a teleltető és ivadéknevelő tavakat, valamint a táp- és lecsapoló csatornákat;
+7. halastó: olyan – elsődlegesen haltermelési célokat szolgáló, az e törvény végrehajtására kiadott rendeletben meghatározott feltételek esetén horgászatnak is helyt adó – haltermelési létesítmény, amely vízfeltöltést és lecsapolást biztosító műtárgyakkal rendelkezik, ideértve a teleltető, raktár- és ivadéknevelő tavakat, valamint a táp- és lecsapoló csatornákat;
 
 8. halállomány: a halak és a más hasznos víziállatok összessége;
 
@@ -36,11 +36,11 @@
 
 15. holtág: a folyóvíz azon mederrésze, amelyet a folyóvíz természetes úton, irányának megváltoztatásával elhagyott, vagy amelyet szabályozási célból leválasztottak róla;
 
-16. horgászat: rekreációs célból a halgazdálkodási vízterületen a halnak megengedett módon és horgászkészséggel vagy a csalihalnak 1 négyzetméternél nem nagyobb emelőhálóval való fogása;
+16. horgászat: rekreációs célból a halnak halgazdálkodási vízterületen és haltermelési létesítményben az e törvényben és a végrehajtására kiadott rendeletben megengedett módon és horgászkészséggel vagy a csalihalnak 1 négyzetméternél nem nagyobb emelőhálóval való fogása;
 
 17. horgászkészség: horgászati célú, halfogásra alkalmas eszköz, amely legalább horgászbotból, horgászzsinórból áll, és legfeljebb három horoggal van felszerelve;
 
-18. ívóhely: az ivarérett halak csoportosan vagy párosan felkeresett szaporodási helye, ahol az ívási felület és az ívási feltételek rendelkezésre állnak az eredményes szaporodáshoz;
+18. ívóhely: az ivarérett halak csoportosan vagy párosan felkeresett szaporodási helye, ahol az ívási felület és az ívási feltételek rendelkezésre állnak a szaporodáshoz;
 
 19. más hasznos víziállat: a rák, a béka, a kagyló, a pióca, a csővájó féreg, az árvaszúnyog, egyéb haltáplálék-szervezet, valamint ezek egyedfejlődési alakjai;
 

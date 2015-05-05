@@ -29,3 +29,5 @@ j) a halgazdálkodási kíméleti területek kijelölését.
 (4) A (3) bekezdés szerinti nyilvántartás az ott meghatározott adatok vonatkozásában – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (5) A (2) bekezdés szerinti nyilvántartásban szereplő személyes adatok a jogosultság megszűnésétől számított tíz évig kezelhetők.
+
+(6) A halgazdálkodási vízterületek nyilvántartásában szereplő adatokat a halgazdálkodási hatóság a tulajdonviszonyok és a szakmai szempontok figyelembevételével hivatalból eljárva vagy a halgazdálkodásra jogosult kérelmére módosíthatja.

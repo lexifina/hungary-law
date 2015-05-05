@@ -4,7 +4,11 @@
 
 a) a halgazdálkodási vízterület megnevezését,
 
-b) a halgazdálkodásra jogosult nevét (cégnevét), lakcímét (székhelyét), adószámát,
+b) a halgazdálkodásra jogosult
+
+ba) nevét, lakcímét, születési helyét, születési idejét és anyja leánykori családi és utónevét, vagy
+
+bb) cégnevét, székhelyét és adószámát,
 
 c) a halgazdálkodási jog haszonbérlet vagy alhaszonbérlet útján történő hasznosítása esetén a haszonbérlet időtartamát,
 

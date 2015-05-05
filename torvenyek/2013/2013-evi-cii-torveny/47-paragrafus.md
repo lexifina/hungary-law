@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti felmentés, illetve a 46. § (5) bekezdés szerinti engedély – közösségi jelentőségi halfajok esetében a 16. § előírásainak figyelembevételével – a következő okokból adható meg:
 
-a) kutatási célból,
+a) kutatási vagy oktatási célból,
 
 b) keltetőházi szaporításhoz szükséges anyahalak begyűjtése,
 
@@ -12,6 +12,8 @@ d) rendkívüli kár elhárítása miatt szükséges lehalászás,
 
 e) tudományos célt szolgáló vizsgálati anyag begyűjtése, vagy
 
-f) természetvédelmi célú beavatkozás szükségessége.
+f) természetvédelmi célú beavatkozás szükségessége,
 
-(3) A 46. § (4) bekezdés h) pontja szerinti eszköz nem minősül tiltott halfogási eszköznek és módnak, amennyiben a 10. § (3) bekezdése szerinti célok megvalósításához, vagy tudományos kutatás, valamint a halállományok felmérése és megőrzése céljából alkalmazzák.
+g) állatkerti, édesvízi akváriumi, illetve kiállítási élőállat-bemutató céljából.
+
+(3) A 46. § (4) bekezdés h) pontja szerinti eszköz nem minősül tiltott halfogási eszköznek és módnak, amennyiben a 10. § (3) bekezdése szerinti célok megvalósításához, vagy tudományos kutatás, valamint a halállományok felmérése céljából alkalmazzák.

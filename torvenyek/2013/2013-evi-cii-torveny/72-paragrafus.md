@@ -50,7 +50,7 @@
 
 25. a veszélyeztetett halállományok mentésének részletes szabályait, az állománymentést végző szervezet kijelölését, és a felmerült költségek viselésére vonatkozó rendelkezéseket;
 
-26. a halfogásra jogosító okmányokkal rendelkező értelmi fogyatékos személy horgászatára vonatkozó szabályokat;
+26. a halfogásra jogosító okmányokkal rendelkező értelmi fogyatékos, vak vagy gyengénlátó személy horgászatára vonatkozó szabályokat;
 
 27. a többéves halgazdálkodási kezelési tervek tartalmi elemeit;
 
@@ -62,12 +62,18 @@
 
 31. a halgazdálkodási hatóság által elvégeztetett halállománymentésre vonatkozó szabályokat;
 
-32. a halgazdálkodási vízterület különleges rendeltetésűvé nyilvánításának szempontjait; és
+32. a halgazdálkodási vízterület különleges rendeltetésűvé nyilvánításának szempontjait és kijelölésére irányuló eljárás részletes szakmai és eljárási szabályait;
 
-33. az egyes víztípusok halgazdálkodási értéke alapján a halgazdálkodási jog haszonbérletéért fizetendő haszonbérleti díj mértékét, valamint a haszonbérleti díj megfizetése alóli felmentés és a haszonbérleti díjkedvezmény szabályait.
+33. az egyes víztípusok halgazdálkodási értéke alapján a halgazdálkodási jog haszonbérletéért fizetendő haszonbérleti díj, a vagyonkezelésbe adható halgazdálkodási jog esetében a vagyonkezelési díj mértékét, valamint e díjak megfizetése alóli felmentés és az e díjakra vonatkozó díjkedvezmény szabályait;
+
+34. a halgazdálkodási kíméleti terület kijelölésére irányuló eljárás részletes szakmai és eljárási szabályait;
+
+35. az országhatárral metszett halgazdálkodási vízterületre a horgászat és a halászat rendjét; és
+
+36. a Balaton vízgyűjtőjén lévő és a Balatonnal lefolyási viszonyban álló haltermelési létesítményeket, valamint ezeken a haltermelési létesítményeken az idegenhonos halfajok telepítésére és felhasználására vonatkozó különös szabályokat.
 
 (2) Felhatalmazást kap a miniszter arra, hogy
 
-1. a határrendészetért felelős miniszter egyetértésével kiadott rendeletben határozza meg az országhatár mentén lévő halgazdálkodási vízterületre a horgászat, a halászat rendjét;
+1.
 
 2. az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a halgazdálkodási hatósági eljárásokért, valamint az Adattárból történő adatszolgáltatásért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének módját.

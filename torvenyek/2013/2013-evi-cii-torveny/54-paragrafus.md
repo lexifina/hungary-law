@@ -14,7 +14,9 @@ d) a halgazdálkodási terv szerint, valamint az azon felül felett telepített 
 
 e) a kiadott halászati engedélyek és engedélyesek adatai, a kiadott fogási tanúsítvány tömbök adatai,
 
-f) a halászati engedély, állami halászjegy, illetve állami horgászjegy alapján végzett halfogások adatai.
+f) a halászati engedély, állami halászjegy, illetve állami horgászjegy alapján végzett halfogások adatai,
+
+g) a 42. § (1) bekezdésében meghatározott nyilvántartás adatai.
 
 (4) Az Adattár működtetése céljából:
 

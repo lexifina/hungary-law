@@ -4,19 +4,19 @@
 
 a) a nyilvántartott halgazdálkodási vízterületen folytatott
 
-aa) kereskedelmi célú halászat esetén a halászati engedélyt, a fogási tanúsítvány nyomtatványtömböt és a halász fogási naplót,
+aa) kereskedelmi, ökológiai, valamint szelektív célú halászat esetén a halászati engedélyt, a fogási tanúsítvány nyomtatványtömböt és a halász fogási naplót,
 
 ab) rekreációs célú halászat esetén az állami halászjegyet, a területi jegyet és a halász fogási naplót,
 
 ac) horgászat esetén az állami horgászjegyet, a területi jegyet és a horgász fogási naplót;
 
-b) a nem nyilvántartott halgazdálkodási vízterületen az állami horgászjegyet,
+b) a nem nyilvántartott halgazdálkodási vízterületen az állami horgászjegyet és a fogási naplót,
 
 – a továbbiakban együtt: halfogásra jogosító okmányok –, és azokat a halgazdálkodási hatóság, a halgazdálkodásra jogosult, a halászati őr, a mezőőr, a természetvédelmi őr, a társadalmi halőr és a rendvédelmi hatóság ellenőrzésre felhatalmazott képviselőjének felhívására bemutatni és átadni.
 
 (2) A halfogásra jogosító okmányokat a halfogásra irányuló tevékenység végzése közben a jogosult köteles magánál tartani, amelyek csak a személyazonosság igazolására szolgáló arcképes igazolvány birtokában jogosítják az okmányok birtokosát a halfogásra.
 
-(3) Halgazdálkodási vízterületen az érvényes halászati engedély, állami halászjegy, vagy állami horgászjegy birtoklása nélkül történő halfogás, az arra irányuló vagy arra alkalmas tevékenység jogosulatlan halászatnak vagy jogosulatlan horgászatnak minősül.
+(3) Halgazdálkodási vízterületen állami horgászjegy és fogási napló, nyilvántartott halgazdálkodási vízterületen turista állami horgászjegy, állami horgászjegy, halászati engedély vagy állami halászjegy, valamint fogási napló vezetése nélkül történő halfogás, az arra irányuló vagy arra alkalmas tevékenység jogosulatlan horgászatnak vagy jogosulatlan halászatnak minősül.
 
 (4) Nyilvántartott halgazdálkodási vízterületen a halgazdálkodásra jogosult által kiadott érvényes horgászatra vagy halászatra jogosító területi jegy birtoklása nélkül történő halfogás, vagy az arra irányuló tevékenység jogosulatlan horgászatnak, illetve halászatnak minősül.
 

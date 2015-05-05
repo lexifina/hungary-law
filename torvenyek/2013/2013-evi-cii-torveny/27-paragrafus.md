@@ -3,3 +3,5 @@
 (2) A halgazdálkodási jog haszonbérletéért az e törvény végrehajtására kiadott rendeletben az egyes víztípusok halgazdálkodási értéke alapján meghatározott haszonbérleti díjat kell megfizetni.
 
 (3) Ha a halgazdálkodási hatóság eljárására visszavezethetően a halgazdálkodásra jogosult tartósan nem tudja gyakorolni a halgazdálkodási jogát, a haszonbérleti díj fizetése alól a miniszter meghatározott időtartamra felmentést adhat vagy díjkedvezményt állapíthat meg.
+
+(4) A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítása nem érinti a halgazdálkodási jog haszonbérletére vonatkozó szerződés alapján gyakorolható jogokat, azonban a haszonbérleti szerződés megszűnésével a halgazdálkodási jog átengedésére – a 24. § a) pontjára figyelemmel – új haszonbérleti szerződés nem köthető.

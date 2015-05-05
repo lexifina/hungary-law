@@ -4,7 +4,7 @@
 
 (2) A halászati őr a működési helye szerinti halgazdálkodási hatóságnál – a halászattal és a horgászattal kapcsolatos ismeretekből, a halgazdálkodás és a halvédelem, a halászati őrzés, a mezei őrszolgálattal, valamint a vagyonőrökkel kapcsolatos jogszabályok ismeretéből – halászati őri vizsgát köteles tenni. A halászati őr az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott vizsgát a rendészeti feladatokat ellátó személyek, a segédfelügyelők, valamint a személy- és vagyonőrök képzéséről és vizsgáztatásáról szóló rendeletben kijelölt szerv előtt köteles letenni. A halászati őr a működési helye szerinti halgazdálkodási hatóságnál az e törvény végrehajtására kiadott rendeletben meghatározott szövegű esküt tesz.
 
-(3) A halászati őrnek az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott szolgálati igazolvánnyal, szolgálati jelvénnyel és egyen- vagy formaruhával kell rendelkeznie, valamint az alkalmazási feltételeknek meg kell felelnie.
+(3) A halászati őrnek az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott szolgálati igazolvánnyal, szolgálati jelvénnyel és egyenruhával kell rendelkeznie, valamint az alkalmazási feltételeknek meg kell felelnie.
 
 (4) A halászati őrzés módját, továbbá a halászati őr foglalkoztatását vagy annak megszűnését a halgazdálkodásra jogosult köteles a halgazdálkodási hatóságnál nyilvántartásba vétel céljából haladéktalanul bejelenteni.
 
@@ -16,7 +16,7 @@
 
 a) azt a személyt, aki a halgazdálkodási vízterületen, annak partján halászik, horgászik, hal kifogására irányuló tevékenységet végez vagy ahhoz előkészül, a halfogásra jogosító okmányok bemutatására felszólítani,
 
-b) a halászó, horgászó személyt a birtokában lévő hal kifogására való jogosultságának igazolására felszólítani, a kifogott halat a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében visszatartani,
+b) a halászó, horgászó személyt a birtokában lévő hal kifogására való jogosultságának igazolására felszólítani, a jogosultság hiányában kifogott halat a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében visszatartani,
 
 c) a kifogható mérettartományon kívüli, a területi jegyen meghatározott mennyiségen felüli, a tilalmi időben kifogott, valamint a védett halat és más hasznos víziállatot a vízbe kíméletesen visszahelyeztetni, az élettelen halat elismervény ellenében az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerint ideiglenesen elvenni,
 
@@ -24,7 +24,7 @@ d) a horgászati vagy halászati jogsértő cselekményt elkövető, helyi horg�
 
 e) a horgászati vagy halászati jogsértő cselekmények alábbi minősített eseteiben az állami horgászjegyet, turista állami horgászjegyet, állami halászjegyet elvenni attól a személytől, aki
 
-ea) tiltott eszközzel vagy tiltott módon horgászik vagy halászik,
+ea) tiltott eszközzel vagy tiltott módon horgászik vagy halászik, ideértve a megengedettnél több horgászkészség vagy halászeszköz használatát,
 
 eb) nyilvántartott halgazdálkodási vízterületen területi jegy nélkül horgászik vagy halászik,
 
@@ -36,7 +36,9 @@ ee) védett hal egyedét kifogja,
 
 ef) általános tilalmi időben horgászik vagy halászik, vagy
 
-eg) a méret-, illetve mennyiségi korlátozásokat megszegi.
+eg) a méret-, illetve mennyiségi korlátozásokat megszegi,
+
+eh) a fogási naplóba rögzítendő fogás bejegyzését elmulasztja.
 
 (8) A halászati őrök felügyeletét a halgazdálkodási hatóság – a rendőrséggel együtt – látja el.
 
