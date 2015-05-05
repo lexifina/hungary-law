@@ -30,7 +30,7 @@ E törvény alkalmazásában:
 
 12. élelmiszer-higiénia: a 852/2004/EK rendelet 2. cikkének a) pontja szerinti fogalom;
 
-13. élelmiszer-jelölés: az élelmiszeren, annak csomagolásán vagy az élelmiszerhez egyéb módon rögzített eszközön vagy azt kísérő dokumentumban megjelenő bármilyen, az élelmiszerre vonatkozó információ;
+13. élelmiszer-jelölés: az 1169/2011/EU rendelet 2. cikk (2) bekezdés j) pontja szerinti fogalom;
 
 14. élelmiszer-csomagolóanyag: olyan anyag, amelyet az élelmiszerek burkolására, megóvására, kezelésére, szállítására használnak az élelmiszerlánc bármely szakaszában;
 
@@ -199,6 +199,8 @@ a) az Európai Unió tagállamaiban (a továbbiakban: tagállamok) előforduló 
 b) fennáll a veszélye annak, hogy kedvező ökológiai feltételek esetén egyes károsító szervezetek bizonyos termékekben megtelepednek, annak ellenére, hogy ezek a károsítók nem honosak vagy még nem telepedtek meg az Európai Unió területén;
 
 70. végső fogyasztó: a 178/2002/EK európai parlamenti és tanácsi rendelet 3. cikkének 18. pontjában meghatározott fogalom;
+
+70/A. vendéglátó-ipari létesítmény: olyan, a kereskedelemről szóló törvény szerinti üzlet, amelyben a kereskedelemről szóló törvény szerinti vendéglátás keretében vendéglátó-ipari termék forgalmazása zajlik;
 
 71. vendéglátó-ipari termék: olyan étel, ital (az ivóvíz kivételével), cukrászati, hidegkonyhai készítmény, amelyet az előállítás helyén, ideiglenes árusítóhelyen, tálalókonyhán vagy házhoz szállítva értékesítenek a végső fogyasztó vagy egyéb jogszabályban megadott korlátok szerint kiskereskedelmi létesítmény számára;
 

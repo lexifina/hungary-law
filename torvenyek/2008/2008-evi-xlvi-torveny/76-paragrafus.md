@@ -18,13 +18,15 @@ g) állapítsa meg a parlagfű elleni közérdekű védekezés végrehajtásána
 
 h) állapítsa meg a lófélék azonosításának, jelölésének, nyilvántartásának, az azonosító okmányának kiállításának, valamint az azonosító okmány használatának és hatósági ellenőrzésének szabályait;
 
-i) állapítsa meg az ÉBC által ellátandó hatósági feladatok körét.
+i) állapítsa meg az ÉBC által ellátandó hatósági feladatok körét;
+
+j) állapítsa meg az e törvény hatálya alá tartozó élelmiszerlánc szereplők, létesítmények, tevékenységek élelmiszerlánc-felügyeleti információs rendszerben történő nyilvántartásba vételének és engedélyezésének részletes szabályait;
+
+k) állapítsa meg az egészségtudatos táplálkozást támogató élelmiszerekkel kapcsolatos szabályokat.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
-1. a növény-egészségügyi, az állat-egészségügyi, az élelmiszer-biztonsági, valamint a takarmányozási hatósági felügyelet alá tartozó létesítmények körét, működésük részletes szabályait, továbbá nyilvántartásba vételük és engedélyezésük feltételeit és rendjét;
-
-2. az élelmiszerlánc-felügyeleti információs rendszer kialakításának és működtetésének részletes szabályait
+1–2.
 
 3. az élelmiszerlánc területén alkalmazható intézkedések részletes szabályait;
 
@@ -116,7 +118,13 @@ i) állapítsa meg az ÉBC által ellátandó hatósági feladatok körét.
 
 47. az e törvény hatálya alá tartozó termékekkel kapcsolatos tanúsítványokra vonatkozó hatósági felügyelet szabályait;
 
-48. az élelmiszerlánc-felügyeleti szerv által lefolytatott eljárás eljárási költségének mértékét és kiszámításának részletes szabályait.
+48. az élelmiszerlánc-felügyeleti szerv által lefolytatott eljárás eljárási költségének mértékét és kiszámításának részletes szabályait;
+
+49. a géntechnológiával módosított szervezettől mentes élelmiszer és takarmány előállításának, jelölésének, forgalomba hozatalának és ellenőrzésének szabályait;
+
+50. az ízesített borászati termékek meghatározásának, megnevezésének és kiszerelésének szabályait;
+
+51. a vendéglátó-ipari létesítmények minősítési rendszerének, a higiéniai, élelmiszer-biztonsági és élelmiszer-minőségi szempontok szerinti vizsgálatának, értékelésének és a hatósági bizonyítvány kiállításának részletes szabályait.
 
 (3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 

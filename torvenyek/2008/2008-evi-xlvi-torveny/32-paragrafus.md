@@ -40,6 +40,10 @@ r) koordinálja az érintett hatóságok között az ellenőrzési tervek, illet
 
 s) ellátja az e törvény hatálya alá tartozó termékekkel kapcsolatos tanúsítványok ellenőrzési és felügyeleti feladatait;
 
+t) központi kockázatkezelési rendszert működtet a járványos állatbetegségek, zárlati károsítók, illetve élelmiszerlánc-események megelőzése, felszámolása, utókezelése, valamint a hatósági intézkedések koordinációja érdekében;
+
+u) a 24. § (1) bekezdés c) pontja szerinti állami laboratóriumokra alapozva létrehozza és működteti a nemzeti élelmiszerlánc-minősítési és eredetvizsgálati rendszert.
+
 (2) Az élelmiszerlánc-felügyeleti szerv állat-egészségügyi feladatkörében
 
 a) a korábban ismeretlen betegség közvetlen veszélye, előfordulása esetén megteszi az annak megelőzéséhez, felderítéséhez, felszámolásához szükséges intézkedéseket;

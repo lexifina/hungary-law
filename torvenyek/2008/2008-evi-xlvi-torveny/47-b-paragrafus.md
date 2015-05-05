@@ -26,15 +26,9 @@ j) e törvény végrehajtására kiadott jogszabály szerint nyilvántartott vag
 
 k) az állatok jelölésére szolgáló eszközt forgalomba hoz.
 
-(3) A felügyeleti díj mértéke – a (3a)–(6) bekezdésben foglalt eltéréssel – a felügyeleti díj fizetésére kötelezett (2) bekezdés szerinti tevékenységből származó, jövedéki adó, illetve népegészségügyi termékadó nélkül számított
+(3) A felügyeleti díj mértéke – a (3a)–(6) bekezdésben foglalt eltéréssel – a felügyeleti díj fizetésére kötelezett (2) bekezdés szerinti tevékenységből származó, jövedéki adó, illetve népegészségügyi termékadó nélkül számított előző évi értékesítési nettó árbevételének 0,1%-a.
 
-a) előző évi értékesítési nettó árbevételének, vagy
-
-b) – személyi jövedelemadó bevallásra köteles természetes személy – előző évi jövedelmének
-
-0,1%-a.
-
-(3a) A felügyeleti díj mértéke a felügyeleti díj fizetésére kötelezett, a kereskedelmi törvény szerinti napi fogyasztási cikket értékesítő üzlet esetében az e tevékenységből származó, jövedéki adó és népegészségügyi termékadó nélkül számított előző évi nettó árbevételének
+(3a) A felügyeleti díj mértéke a kereskedelmi törvény szerinti napi fogyasztási cikket értékesítő üzlet esetében a felügyeleti díj fizetésére kötelezett (2) bekezdés szerinti tevékenységből származó jövedéki adó és népegészségügyi termékadó nélkül számított előző évi nettó árbevételének
 
 – 500 millió forintot meg nem haladó része után 0%,
 
@@ -64,7 +58,7 @@ b) kisvállalkozás esetén évi hétszázezer forint.
 
 (7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 19. pontja szerinti mezőgazdasági kistermelő kizárólag az őstermelői tevékenysége vonatkozásában.
 
-(8) A fizetésre kötelezettnek évente egyszer kell bevallania a díjfizetés alapjául szolgáló nettó árbevételét, illetve jövedelmét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
+(8) A fizetésre kötelezettnek évente egyszer kell bevallania a díjfizetés alapjául szolgáló nettó árbevételét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
 
 (9) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig, illetve január 31. napjáig. A határidőig meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) előírásai irányadók. A meg nem fizetett felügyeleti díj és a késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
 

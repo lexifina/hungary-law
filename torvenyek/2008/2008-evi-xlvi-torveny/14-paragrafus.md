@@ -8,11 +8,11 @@
 
 (3) Az (1)–(2a) bekezdés nem alkalmazható, ha a hibát az előállító által javasolt tárolási és raktározási feltételek be nem tartásával más okozta.
 
-(4) Az élelmiszer-, illetve a takarmány-vállalkozás felelős a takarmány, illetve az élelmiszer biztonságosságáért és minőségéért, amennyiben a forgalomba hozatalt kizáró hibát ő okozta, vagy az általa is felismerhető lett volna. A hibáért a magyarországi első forgalomba hozó akkor is felelős, ha azt nem ő okozta, amennyiben a forgalomba hozatalt kizáró hiba a magyarországi első forgalomba hozatalt megelőzően keletkezett.
+(4) Az élelmiszer-, illetve a takarmány-vállalkozás felelős a takarmány, illetve az élelmiszer biztonságosságáért és minőségéért, valamint jelöléséért, amennyiben a forgalomba hozatalt kizáró vagy jelölési hibát ő okozta, vagy az általa is felismerhető lett volna. A hibáért a magyarországi első forgalomba hozó akkor is felelős, ha azt nem ő okozta, amennyiben a forgalomba hozatalt kizáró vagy jelölési hiba a magyarországi első forgalomba hozatalt megelőzően keletkezett.
 
 (5) Az élelmiszer, illetve a takarmány e törvényben, az e törvény végrehajtására kiadott jogszabályban, vagy az Európai Unió közvetlenül alkalmazandó vonatkozó jogi aktusában előírt, az élelmiszerbiztonsági, élelmiszerminőségi, takarmánybiztonsági, illetve takarmányminőségi előírásoknak való megfelelését igazoló okiratok hiánya esetén vélelmezni kell, hogy a forgalmazó a forgalomba hozatalt kizáró hibát felismerhette.
 
-(6) A 10. § (1) bekezdése szerinti jelölésért az élelmiszer előállítója, illetve valamennyi forgalmazója felelős.
+(6)
 
 (7) A 11. § rendelkezéseinek betartásáért felelős a takarmány előállító vagy az a takarmány-vállalkozás, amelynek neve a jelölésen kötelezően feltüntetendő adatok között szerepel, illetve a takarmány valamennyi forgalmazója.
 

@@ -2,7 +2,7 @@
 
 22. § (1) Az élelmiszer-vállalkozás működése során
 
-a) a külső és a belső környezetnek, az elhelyezésnek, az elrendezésnek, a méreteknek, a berendezéseknek, az eszközöknek, a technológiáknak, a termelési és tárolási kapacitásnak, a felhasznált élelmiszer, illetve élelmiszer-összetevők biztonságosságának, minőségének, az alkalmazott csomagolóanyagok és fertőtlenítőszerek megfelelőségének, illetve biztonságos alkalmazásának, az alkalmazott személyek egészségének, szakképesítésének, illetve szaktudásának alkalmasnak kell lennie az élelmiszer-biztonsági és élelmiszer-minőségi előírások betartásának folyamatos garantálására;
+a) a külső és a belső környezetnek, az elhelyezésnek, az elrendezésnek, a méreteknek, a berendezéseknek, az eszközöknek, a technológiáknak, a termelési és tárolási kapacitásnak, a felhasznált élelmiszer, illetve élelmiszer-összetevők biztonságosságának, minőségének, az alkalmazott csomagolóanyagok és fertőtlenítőszerek megfelelőségének, illetve biztonságos alkalmazásának, a rovarok és rágcsálók elleni védekezésnek, az alkalmazott személyek egészségének, szakképesítésének, illetve szaktudásának alkalmasnak kell lennie az élelmiszer-biztonsági és élelmiszer-minőségi előírások betartásának folyamatos garantálására;
 
 b) olyan önellenőrzési, minőségbiztosítási, nyomonkövetési, termék-visszahívási rendszereket vagy ilyen rendszerek olyan elemeit kell működtetni, amelyekkel biztosítható az élelmiszer biztonságossága, megfelelő minősége, azonosíthatósága és nyomon követhetősége;
 

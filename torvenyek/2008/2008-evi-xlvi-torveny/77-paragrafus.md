@@ -2,7 +2,7 @@
 
 77. § (1) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-a) a Tanács 2092/91/EGK rendelete (1991. június 24.) a mezőgazdasági termékek ökológiai termeléséről, valamint a mezőgazdasági termékeken és élelmiszereken erre utaló jelölésekről;
+a)
 
 b) a Bizottság 98/139/EK határozata (1998. február 4.) a Bizottság szakértői részéről az állat-egészségügy területén végrehajtott helyszíni ellenőrzésekre vonatkozó szabályok megállapításáról;
 
@@ -58,7 +58,7 @@ g) a Bizottság 92/90/EGK irányelve (1992. november 3.) a növények, növényi
 
 h) a Tanács 97/78/EK irányelve (1997. december 18.) a harmadik országokból a Közösségbe behozott termékek állat-egészségügyi ellenőrzésének megszervezésére irányadó elvek megállapításáról;
 
-i) az Európai Parlament és a Tanács 2000/13/EK irányelve (2000. március 20.) az élelmiszerek címkézésére, kiszerelésére és reklámozására vonatkozó tagállami jogszabályok közelítéséről;
+i)
 
 j) a Tanács 2000/29/EK irányelve (2000. május 8.) a növényeket vagy növényi termékeket károsító szervezeteknek a Közösségbe történő behurcolása és a Közösségen belüli elterjedése elleni védekezési intézkedésekről, valamint az azt módosító, a Tanács 2002/89/EK irányelve (2002. november 28.);
 

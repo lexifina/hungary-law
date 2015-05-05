@@ -2,29 +2,37 @@
 
 38/A. § (1) Az élelmiszerlánc-felügyelet megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében az élelmiszerlánc-felügyeleti szerv létrehozza és működteti az élelmiszerlánc-felügyeleti információs rendszert (a továbbiakban: FELIR).
 
-(1a) A FELIR a természetes személy ügyfél személyes adatai kivételével a (2) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+(1a) A FELIR a természetes személy ügyfél személyes adatai, jogi személy és szervezet esetén a cégjegyzékbe bejegyzett adatai kivételével a (2) bekezdés szerinti adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A FELIR tartalmazza
 
 a) az e törvény hatálya alá tartozó
 
-aa) ügyfélre vonatkozóan az egységes ügyfélnyilvántartási rendszerben nyilvántartott adatokat;
+aa) ügyfélre vonatkozóan az egységes ügyfél-nyilvántartási rendszerben nyilvántartott adatokat;
 
 ab) ügyfél által végzett tevékenységre vonatkozó adatokat;
 
-ac) ügyfél által végzett tevékenység helyére vonatkozó adatokat;
+ac) ügyfél által végzett tevékenység helyére vonatkozó adatokat (beleértve a térinformatikai leíró adatokat);
 
 b) az állatok elektronikus nyilvántartási rendszereit;
 
 c) az élelmiszerlánc-felügyelet keretében elvégzett valamennyi ellenőrzés és vizsgálat eredményét elektronikusan olyan módon, hogy az ügyfélhez köthető legyen;
 
-d) az élelmiszerlánc-felügyeleti szerv által vezetett nyilvántartások adatait.
+d) az élelmiszerlánc-felügyeleti szerv által vezetett nyilvántartások adatait;
+
+e) az ökológiai gazdálkodás tanúsításával, ellenőrzésével kapcsolatos adatokat;
+
+f) az élelmiszerlánc-szereplők által bejelentett élelmiszerlánc-biztonsági problémák adatait;
+
+g) a 47/A. § (5) bekezdés szerinti intelligens élelmiszerlánc-elemzési rendszert.
 
 (3) A FELIR kialakításához és működtetéséhez az élelmiszerlánc-felügyeleti szerv kezeli
 
 a) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, elérhetőségét, adóazonosító jelét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát;
 
 b) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet esetén a (cég)nevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosítóját, bankszámlaszámát.
+
+(3a) Az erdészeti hatóság az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 18. § (6) bekezdés a) pont aa)–af) és ah) alpontjában, valamint a b) pont ba)–bf) alpontjában levő adatokat a FELIR segítségével kezeli.
 
 (4) Az e törvény végrehajtására kiadott jogszabály szerint az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása érdekében megkeresésre adatokat kell átadni:
 

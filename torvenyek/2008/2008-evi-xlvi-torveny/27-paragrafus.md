@@ -18,4 +18,6 @@ e) az országos főállatorvos.
 
 (5) A 10/A. § szerinti tanúsítványt és az integrált gazdálkodási tanúsítványt az élelmiszerlánc-felügyeleti szerv által – az e törvény végrehajtására kiadott jogszabály szerint – elismert tanúsító szervezet (a továbbiakban: tanúsító szervezet), vagy tanúsító szervezet hiányában az élelmiszerlánc-felügyeleti szerv adja ki.
 
+(5a) Akinek a tanúsító szervezet döntése jogát vagy jogos érdekét sérti, a tanúsító szervezet döntésével szemben a döntésről való tudomásszerzést követő tizenöt napon belül, de legkésőbb az intézkedéstől számított három hónapon belül az élelmiszerlánc-felügyeleti szervhez kifogást terjeszthet elő. A kifogást az élelmiszerlánc-felügyeleti szerv tizenöt napon belül bírálja el. Az élelmiszerlánc-felügyeleti szerv kifogásról hozott döntésével szemben jogorvoslatnak van helye.
+
 (6) Az e törvényben szabályozott tanúsítványra és tanúsító szervezetre, valamint annak elismerésére nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.

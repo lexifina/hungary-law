@@ -6,7 +6,9 @@ b) állami védekezést;
 
 c) közérdekű védekezést;
 
-d) járványügyi intézkedést
+d) járványügyi intézkedést;
+
+e) az emberi egészséget veszélyeztető élelmiszerlánc-esemény elhárítása érdekében hozott intézkedést
 
 elrendelő határozata fellebbezésre való tekintet nélkül végrehajtható.
 
