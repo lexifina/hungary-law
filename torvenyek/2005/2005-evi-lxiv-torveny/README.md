@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-64-00-00
 | 2013-01-01 | 2012. évi CLVII. törvény | 2005-64-00-00.6 |
 | 2014-12-26 | 2014. évi XCVIII. törvény | 2005-64-00-00.7 |
 | 2015-04-01 | 2015. évi VIII. törvény | 2005-64-00-00.8 |
+| 2015-05-05 | 2015. évi LI. törvény | 2005-64-00-00.9 |
