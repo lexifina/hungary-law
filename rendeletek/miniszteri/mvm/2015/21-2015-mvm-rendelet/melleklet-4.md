@@ -128,7 +128,7 @@
 
 ## 1.2.28. Indításgátló
 
-## 2. Egyterű személygépjárművek (mikrobusz, M1 gépjármű-kategória) részletes műszaki követelményei
+## 2. Egyterű személygépjárművek (mikrobusz I., M1 gépjármű-kategória) részletes műszaki követelményei
 
 ## 2.1. Főbb műszaki jellemzők, követelmények:
 
@@ -146,7 +146,7 @@
 
 ## 2.1.7. Ajtók száma: 4 vagy 5
 
-## 2.1.8. Teljesítmény: nagyobb, mint 100 kW
+## 2.1.8. Teljesítmény: nagyobb, vagy egyenlő mint 60 kW
 
 ## 2.1.9. Környezetvédelmi besorolás: Euro 5 vagy annál korszerűbb motor
 
@@ -164,13 +164,13 @@
 
 ## 2.2.2. Gyárilag beépített ködlámpa hátsó (ködzárfény)
 
-## 2.2.3. Gyárilag beépített LED nappali menetfény
+## 2.2.3. Gyárilag vagy forgalmazó által beépített LED nappali menetfény
 
 ## 2.2.4. Állítható magasságú fényszóró
 
 ## 2.2.5. Vezető és utas oldali első légzsák
 
-## 2.2.6. Oldallégzsákok legalább az első üléssorhoz
+## 2.2.6. Oldallégzsák elöl, legalább a vezető oldalán
 
 ## 2.2.7. Függöny(fej)légzsákok legalább az első üléssorhoz
 
@@ -216,9 +216,9 @@
 
 ## 2.2.28. Teljes értékű pótkerék
 
-## 2.2.29. Kerekesszék rögzítési lehetőség
+## 2.2.29. Kerekesszék rögzítési lehetőség (opcionálisan megadható)
 
-## 2.2.30. Oldalsó fellépő
+## 2.2.30. Oldalsó fellépő (opcionálisan megadható)
 
 ## Jótállás: minimálisan 4 évre, vagy 200 ezer km-re (amelyik előbb teljesül) érvényes teljes körű, a hajtáslánc elemeire is vonatkozó jótállás.
 
@@ -230,7 +230,7 @@
 
 ## 3.1.2. Ajtók száma: 4 vagy 5
 
-## 3.1.3. Teljesítmény: nagyobb, mint 100 kW
+## 3.1.3. Teljesítmény: nagyobb, vagy egyenlő mint 100 kW
 
 ## 3.1.4. Környezetvédelmi besorolás: Euro 5 vagy annál korszerűbb motor
 
@@ -288,7 +288,111 @@
 
 ## Jótállás: minimálisan 4 évre, vagy 200 ezer km-re (amelyik előbb teljesül) érvényes teljes körű, a hajtáslánc elemeire is vonatkozó jótállás.
 
-4. melléklet a 21/2015. (IV. 17.) MvM rendelethez
+## 4. Egyterű személygépjárművek (mikrobusz II, M1 gépjármű-kategória) részletes műszaki követelményei
+
+## 4.1. Főbb műszaki jellemzők, követelmények:
+
+## 4.1.1. B kategóriás jogosítvánnyal vezethető
+
+## 4.1.2. Hosszúság: nagyobb, mint 4600 mm
+
+## 4.1.3. Magasság: nagyobb vagy egyenlő, mint 1800 mm
+
+## 4.1.4. Tengelytáv: nagyobb, mint 2900 mm
+
+## 4.1.5. Szállítható személyek száma: 8-9 fő
+
+## 4.1.6. Ülések száma: a gépkocsi rendelhető 8 üléssel és 9 üléssel is (kizárólag 8 üléssel rendelhető gépkocsi nem megfelelő), a 8 és 9 üléssel rendelkező gépjárműveket és azok ajánlati árát egyaránt fel kell tüntetni a katalógusban
+
+## 4.1.7. Hajtás: kétkerék (2WD). A megajánlott típus rendelhető összkerék (4WD) meghajtással is. Mindkét (2WD) és (4WD) meghajtással rendelkező gépjárművet és azok ajánlati árát fel kell tüntetni az árajánlaton
+
+## 4.1.8. Ajtók száma: 4 vagy 5
+
+## 4.1.9. Teljesítmény: nagyobb, vagy egyenlő mint 60 kW
+
+## 4.1.10. Környezetvédelmi besorolás: Euro 5 vagy annál korszerűbb motor
+
+## 4.1.11. Üzemanyag fogyasztás: vegyes fogyasztás kisebb vagy egyenlő, mint 9 l/100 km
+
+## 4.1.12. Széndioxid-emisszió: vegyes CO2 kibocsátás kisebb vagy egyenlő, mint 230 g/km
+
+## 4.1.13. Csomagtér mérete: a hátsó ülések alaphelyzetében (hátratolt állapotban) az üléstámla magasságáig mért csomagterének térfogata rövid tengelytáv esetén nagyobb, mint 0,8 m3, hosszú tengelytáv esetén nagyobb, mint 1,3 m3
+
+## 4.2. Felszereltségi elemekre vonatkozó elvárások, alapkövetelmények:
+
+## 4.2.1. Gyárilag beépített ködlámpa első (ködfényszóró)
+
+## 4.2.2. Gyárilag beépített ködlámpa hátsó (ködzárfény)
+
+## 4.2.3. Fűthető hátsó szélvédő (páramentesítő)
+
+## 4.2.4. Blokkolásgátló
+
+## 4.2.5. Menetstabilizáló rendszer
+
+## 4.2.6. Kipörgésgátló
+
+## 4.2.7. Vezető és utas oldali első légzsák
+
+## 4.2.8. Oldallégzsák elöl, legalább a vezető oldalán
+
+## 4.2.9. Függöny(fej)légzsákok legalább az első üléssorhoz
+
+## 4.2.10. Gumiabroncs légnyomás ellenőrzés
+
+## 4.2.11. Hárompontos automatikus biztonsági öv valamennyi üléshez, első két szélső üléshez magasság állítással
+
+## 4.2.12. Állítható fejtámla valamennyi üléshez
+
+## 4.2.13. Audio berendezés
+
+## 4.2.14. Központi zár
+
+## 4.2.15. Pollenszűrő
+
+## 4.2.16. Belső levegőkeringtetés
+
+## 4.2.17. Légkondicionáló berendezés hővédő üvegezéssel, elől-hátul klíma, levegő befúvóval minden üléssorhoz
+
+## 4.2.18. Elektromos ablakemelő elöl
+
+## 4.2.19. Szervokormány
+
+## 4.2.20. Visszagurulásgátló
+
+## 4.2.21. Állítható magasságú fényszóró
+
+## 4.2.22. Fűthető, motoros állítású külső visszapillantó tükrök
+
+## 4.2.23. Állítható magasságú vezetőülés gerinctámasszal
+
+## 4.2.24. Állítható magasságú és mélységű kormányoszlop
+
+## 4.2.25. Zárható üzemanyagtöltő nyílás
+
+## 4.2.26. Indításgátló
+
+## 4.2.27. Legalább 2 darab Isofix gyerekülés rögzítési pont
+
+## 4.2.28. 3 darab biztonsági gyerekülés vagy ülésmagasító
+
+## 4.2.29. Kerekesszék rögzítési lehetőség (opcionálisan megadható)
+
+## 4.2.30. Oldalsó fellépő (elektromos mozgatású, műszerfalon visszajelzéssel)
+
+## 4.2.31. Vonóhorog
+
+## 4.2.32. 4 darab téli gumiabroncs, hólánc
+
+## 4.2.33. Porral oltó
+
+## 4.2.34. Telefon kihangosító Bluetooth, rádió
+
+## Jótállás: minimálisan 4 évre, vagy 200 ezer km-re (amelyik előbb teljesül) érvényes teljes körű, a hajtáslánc elemeire is vonatkozó jótállás.
+
+4. melléklet a 21/2015. (IV. 17.) MvM rendelethez[^11]
+
+5K05800N_0
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető maximális pontszám |
 
@@ -364,7 +468,7 @@
 
 | HORIZONTÁLIS SZEMPONTOK |  |  |
 
-| 1. A fejlesztés megvalósításának helye a kedvezményezett járások besorolásáról szóló 290/2014 (XI. 26.) Korm. rendelet 2. számú melléklete alapján | 290/2014. (XI. 26.) Korm. rendelet alapján | max. 7 pont |
+| 1. A fejlesztés megvalósításának helye a kedvezményezett járások besorolásáról szóló 290/2014. (XI. 26.) Korm. rendelet alapján | 290/2014. (XI. 26.) Korm. rendelet alapján | ma x. 7 pont |
 
 | Komplex programmal fejlesztendő járások |  | 7 pont |
 
@@ -395,3 +499,5 @@
 |  |  | Horizontális: 15 pont |
 
 |  |  | Összesen: 50 pont |
+
+[^11]: A 4. melléklet a 26/2015. (V. 6.) MvM rendelet 14. § (4) bekezdése szerint módosított szöveg.

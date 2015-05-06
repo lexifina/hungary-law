@@ -24,7 +24,7 @@ b) az 1. melléklet szerinti településen székhellyel, vagy – ha a nonprofit
 
 c) az 1. vagy a 2. melléklet szerinti településen működő egyházi jogi személy,
 
-## amely falu és tanyagondnoki vagy egyéb szolgáltatást valósít meg.
+amely falu és tanyagondnoki vagy egyéb szolgáltatást valósít meg.
 
 (2) E rendeletben nem szabályozott fogalmakat a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltaknak megfelelően kell értelmezni.
 

@@ -234,4 +234,6 @@
 
 ## Zalalövő
 
-3. melléklet a 21/2015. (IV. 17.) MvM rendelethez
+3. melléklet a 21/2015. (IV. 17.) MvM rendelethez[^10]
+
+[^10]: A 3. melléklet a 26/2015. (V. 6.) MvM rendelet 14. § (4) bekezdése szerint módosított szöveg.
