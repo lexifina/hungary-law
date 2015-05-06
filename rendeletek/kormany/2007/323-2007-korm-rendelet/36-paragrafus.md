@@ -14,10 +14,13 @@
 
 a) a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelően a kiotói jegyzőkönyvben meghatározott projekttevékenységek esetében a kibocsátási egységek Közösségen belüli kereskedelmi rendszere szerint történő üvegházhatást okozó gázkibocsátás-csökkentések kétszeres elszámolásának elkerüléséről szóló, 2006. november 13-i 2006/780/EK bizottsági határozat 1., 2. és 5. cikkei,
 
-b)[^90] a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet
+b)[^90] a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/EK és a 406/2009/EK európai parlamenti és tanácsi határozat szerinti uniós kibocsátásiegység-forgalmi jegyzék létrehozásáról, továbbá a 920/2010/EU és az 1193/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. május 2-i 389/2013/EU bizottsági rendelet,
+
+c)[^91] a 2003/87/EK irányelvnek az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének a légi közlekedésre történő kiterjesztése céljából történő módosításáról szóló, 2008. november 19-i 2008/101/EK európai parlament és tanácsi irányelv
 
 [^86]: A 36. § (2) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
 [^87]: A 36. § (4) bekezdése a 410/2012. (XII. 28.) Korm. rendelet 31. § bekezdésével megállapított szöveg.
 [^88]: A 36. § (4a) bekezdését a 295/2012. (X. 16.) Korm. rendelet 14. §-a iktatta be, szövege a 410/2012. (XII. 28.) Korm. rendelet 31. § bekezdésével megállapított szöveg.
 [^89]: A 36. § (5) bekezdése a 410/2012. (XII. 28.) Korm. rendelet 31. § bekezdésével megállapított szöveg.
 [^90]: A 36. § (5) bekezdés b) pontja az 528/2013. (XII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^91]: A 36. § (5) bekezdés c) pontját a 101/2015. (IV. 20.) Korm. rendelet 2. §-a iktatta be.

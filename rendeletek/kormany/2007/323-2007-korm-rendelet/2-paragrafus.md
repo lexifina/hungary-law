@@ -20,9 +20,9 @@
 
 8. környezetvédelmi támogatások nyújtása esetén tárgyi eszközök: a 800/2008/EK rendelet 17. cikk 12. pontjában meghatározott fogalom;
 
-9.[^6] közvetlen kettős elszámolású kibocsátás-csökkentés: a Magyarországon megvalósított együttes végrehajtási projekt közvetlen kettős elszámolási hatással rendelkezik, ha a projekt az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény hatálya alá tartozó egy vagy több egyedileg azonosítható létesítmény kibocsátási alapszintjéhez képest a létesítményre meghatározott üvegházhatású gázok kibocsátásának csökkentését vagy korlátozását eredményezi;
+9.[^6] közvetlen kettős elszámolású kibocsátás-csökkentés: a Magyarországon megvalósított együttes végrehajtási projekt közvetlen kettős elszámolási hatással rendelkezik, ha a projekt az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény hatálya alá tartozó tevékenységek üvegházhatású gázok kibocsátásának csökkentését vagy korlátozását eredményezi;
 
-10.[^7] közvetett kettős elszámolású kibocsátás-csökkentés: a Magyarországon megvalósított együttes végrehajtási projekt közvetett kettős elszámolási hatással rendelkezik, ha a projekt az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény hatálya alá tartozó létesítmények egy egyedileg nem azonosítható létesítményekből álló csoportjára nézve az üvegházhatású gáz kibocsátás-csökkentését vagy korlátozását eredményezi;
+10.[^7] közvetett kettős elszámolású kibocsátás-csökkentés: a Magyarországon megvalósított együttes végrehajtási projekt közvetett kettős elszámolási hatással rendelkezik, ha a projekt az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló törvény hatálya alá tartozó tevékenységekre nézve az üvegházhatású gáz kibocsátás-csökkentését vagy korlátozását eredményezi;
 
 11. megújuló energiaforrások: a 800/2008/EK rendelet 17. cikk 4. pontjában meghatározott fogalom;
 
@@ -49,8 +49,8 @@
 [^3]: A 2. § a 121/2009. (VI. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § 1. pontja a 37/2011. (III. 22.) Korm. rendelet 39. § (13) bekezdésével megállapított szöveg.
 [^5]: A 2. § 3. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 2. § 9. pontja a 410/2012. (XII. 28.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § 10. pontja a 410/2012. (XII. 28.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § 9. pontja a 101/2015. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § 10. pontja a 101/2015. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^8]: A 2. § 14. pontja a 37/2011. (III. 22.) Korm. rendelet 40. § (8) bekezdés b) pontja szerint módosított szöveg.
 [^9]: A 2. § 17. pontja a 410/2012. (XII. 28.) Korm. rendelet 25. § (2) bekezdésével megállapított, az 528/2013. (XII. 30.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 2. § 19. pontjában a 37/2011. (III. 22.) Korm. rendelet 40. § (8) bekezdés c) pontja alapján az „a Korm. rendelet 1. § 26. pontjában” szövegrész helyébe az „az Atr. 2. § 16. pontjában” szöveg lép, ez azonban nem átvezethető.
