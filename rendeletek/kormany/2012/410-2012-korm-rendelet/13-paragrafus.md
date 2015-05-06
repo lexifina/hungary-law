@@ -1,4 +1,4 @@
-13. §[^29] (1) A létesítmény működését részlegesen szüneteltetettnek kell tekinteni, ha egy olyan létesítményrész, amely legalább 30%-kal hozzájárul a létesítménynek ingyenesen kiosztott kibocsátási egységek végleges éves mennyiségéhez vagy több mint 50 000 kibocsátási egységnek a létesítmény részére történő kiosztásához (a továbbiakban: mérvadó létesítményrész), a tevékenységi szintjét egy adott naptári évben a létesítményrésznek kiosztott mennyiség kiszámításához használt kezdeti tevékenységi szinthez képest legalább 50%-kal csökkenti.
+13. §[^24] (1) A létesítmény működését részlegesen szüneteltetettnek kell tekinteni, ha egy olyan létesítményrész, amely legalább 30%-kal hozzájárul a létesítménynek ingyenesen kiosztott kibocsátási egységek végleges éves mennyiségéhez vagy több mint 50 000 kibocsátási egységnek a létesítmény részére történő kiosztásához (a továbbiakban: mérvadó létesítményrész), a tevékenységi szintjét egy adott naptári évben a létesítményrésznek kiosztott mennyiség kiszámításához használt kezdeti tevékenységi szinthez képest legalább 50%-kal csökkenti.
 
 (2) A működését részlegesen szüneteltető létesítmény számára történő kibocsátási egység kiosztást a működés részleges beszüntetésének évét követő évben, illetve ha a részleges beszüntetésre 2013. január 1-je előtt került sor, 2013-tól úgy kell kiigazítani, hogy ha a mérvadó létesítményrész tevékenységi szintje a kezdeti tevékenységi szinthez képest
 
@@ -16,4 +16,4 @@ c) legalább 90%-kal csökken, az érintett létesítményrész számára nem os
 
 (6) A miniszter a (2)–(4) bekezdéssel összhangban elkészíti a nemzeti kiosztási tábla módosítására vonatkozó javaslatát és benyújtja az Európai Bizottság részére.
 
-[^29]: A 13. § a 329/2013. (IX. 3.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^24]: A 13. § a 329/2013. (IX. 3.) Korm. rendelet 14. §-ával megállapított szöveg.

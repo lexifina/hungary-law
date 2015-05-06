@@ -1,0 +1,5 @@
+9. § (1) A CO2 kibocsátás-áthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok listájának (a továbbiakban: szénszivárgási lista) módosulása esetén a miniszter az érintett létesítményeket illetően korrigálja a Nemzeti Végrehajtási Intézkedéseket, ez alapján elkészíti a nemzeti kiosztási tábla módosítására vonatkozó javaslatát, majd jóváhagyásra megküldi azt az Európai Bizottság részére.
+
+(2) Az Európai Bizottság jóváhagyása esetén a miniszter a kereskedési időszak egyes éveire vonatkozóan határozatban megállapítja az egyes létesítmények számára a szénszivárgási lista alapján megállapított új, térítésmentesen kiosztható kibocsátási egységek mennyiségét, és a jegyzékkezelő útján gondoskodik a kibocsátási egységek üzemeltető számláján történő jóváírásáról.
+
+(3) Az Európai Bizottság írásbeli jóváhagyásának megérkezéséig sem a korábban, az adott kereskedési időszak egyes éveire kiszámított és jóváhagyott mennyiség, sem a szénszivárgási lista alapján az adott évre a miniszter által kiszámított új egységmennyiségek nem oszthatóak ki az üzemeltetők részére.
