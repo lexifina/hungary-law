@@ -1,13 +1,3 @@
-## Új konstrukció
-
-|  | A | B | C | D | E | F | G | H | I |
-
-| 1. | Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (Mrd, Ft) | Konstrukció célja | Konstrukció szakmai tartalmáért felelős miniszter | Konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2. | 2011 | 2012 | 2013 | 2014 |
-
-| 3. | TIOP-1.1.4 | Dankó Pista Program: IKT és taneszköz fejlesztés |  |  |  | 0,4 | Az Országos Roma Önkormányzat fenntartásában álló köznevelési intézmények informatikai fejlesztése és korszerű taneszközök beszerzése. | emberi erőforrások minisztere | – |
-
 3. melléklet az 1451/2014. (VII. 31.) Korm. határozathoz
 
 |  | A | B | C | D | E | F | G |
