@@ -1,3 +1,5 @@
+## 4K11994_0
+
 | Konstrukció kódja/projekt azonosítószáma | Projekt megnevezése | Projektgazda | Jogutód projektgazda |
 
 | ÁROP-1.1.8 | Stratégiai irányítás megújítása a központi közigazgatásban | Közigazgatási és Igazságügyi Minisztérium | Miniszterelnökség |
@@ -58,6 +60,6 @@
 
 | EKOP-2.1.11 | Elektronikus ügysegédi rendszer kialakítása | Közigazgatási és Igazságügyi Minisztérium | Belügyminisztérium |
 
-2. melléklet az 1452/2014. (VIII. 1.) Korm. határozathoz[^4]
+2. melléklet az 1452/2014. (VIII. 1.) Korm. határozathoz[^7]
 
-[^4]: A 2. melléklet 1. prioritásra vonatkozó részét a Kormány az 1498/2014. (IX. 4.) Korm. határozat 8. pont b) alpontjával visszavonta.
+[^7]: A 2–3. mellékletet az 1289/2015. (V. 5.) Korm. határozat 3. pont a) pontja visszavonta.

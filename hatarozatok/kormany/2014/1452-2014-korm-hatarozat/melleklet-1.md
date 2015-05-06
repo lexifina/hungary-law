@@ -22,15 +22,13 @@
 
 ## 2. megállapítja
 
-## a) az Államreform Operatív Program 2011–2013. évekre szóló akciótervét a 2. melléklet szerint,
+## a)[^2]
 
-## b)[^1]
+## b)[^3]
 
-## 3. jóváhagyja a 3. mellékletben foglalt táblázat 7., 8., 26., 29. és 32. sorában meghatározott, egymilliárd forintot meghaladó támogatási igényű projekteket;
+## 3–4.[^4]
 
-## 4. elfogadja a 3. mellékletben meghatározott projektek kiemelt projektként történő nevesítését;
-
-## 5–6.[^2]
+## 5–6.[^5]
 
 ## 7. felhívja a Miniszterelnökséget vezető minisztert az e határozattal érintett támogatási szerződések módosítására;
 
@@ -38,10 +36,12 @@
 
 ## Határidő: az érintett miniszterek által benyújtott dokumentáció kézhezvételét követően azonnal
 
-## 8.[^3]
+## 8.[^6]
 
 1. melléklet az 1452/2014. (VIII. 1.) Korm. határozathoz
 
-[^1]: A 2. pont b) alpontját az 1859/2014. (XII. 30.) Korm. határozat 4. pontja visszavonta.
-[^2]: Az 5–6. pontot az 1859/2014. (XII. 30.) Korm. határozat 4. pontja visszavonta.
-[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a) alpontját az 1289/2015. (V. 5.) Korm. határozat 3. pont a) pontja visszavonta.
+[^3]: A 2. pont b) alpontját az 1859/2014. (XII. 30.) Korm. határozat 4. pontja visszavonta.
+[^4]: A 3–4. pontot az 1289/2015. (V. 5.) Korm. határozat 3. pont a) pontja visszavonta.
+[^5]: Az 5–6. pontot az 1859/2014. (XII. 30.) Korm. határozat 4. pontja visszavonta.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
