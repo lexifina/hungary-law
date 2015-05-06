@@ -112,7 +112,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 136,75 | 1,26 | 19,35 | 157,36 |
+| 3. | 137,07 | 1,26 | 19,35 | 157,68 |
 
 | 4. | Többletkötelezettség-vállalás: 14,57 Mrd Ft |
 
@@ -126,7 +126,7 @@
 
 | 2. | 2007–2015. | 2015. hátralévő | Összesen |
 
-| 3. | 411,11 | 25,73 | 436,84 |
+| 3. | 409,22 | 27,63 | 436,84 |
 
 2.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -138,13 +138,13 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 2.1.1 | Állami tulajdonú árvízvédelmi fejlesztések | 65,45 | 0,00 | 0,00 | – árvízi tározók létesítése – Tisza-völgyi (Vásárhelyi Terv Továbbfejlesztése) fejlesztések esetében alkalmazható, – közép- és nagyvízi meder lefolyási viszonyait, vízszállító-képességének a megőrzését és javítását célzó intézkedések és műszaki beavatkozások, – árvízvédelmi töltések építése, fejlesztése, rekonstrukciója, – az altalaj-állékonyság növelésére irányuló beavatkozások, a nem kellő biztonságú szakaszok megerősítése, – hullámvédő erdősáv létesítése és rekonstrukciója, – meglévő árvízi tározók rekonstrukciója, – támfalak rekonstrukciója, – töltéskorona burkolat építése, – keresztező műtárgyak építése, átépítése, – árvízvédelmi fővédvonalak infrastrukturális fejlesztése, – üzemelési és fenntartási eszköz- és műszer-beszerzés | belügyminiszter | – |
+| 3. | 2.1.1 | Állami tulajdonú árvízvédelmi fejlesztések | 65,46 | 0,00 | 0,00 | – árvízi tározók létesítése – Tisza-völgyi (Vásárhelyi Terv Továbbfejlesztése) fejlesztések esetében alkalmazható, – közép- és nagyvízi meder lefolyási viszonyait, vízszállító-képességének a megőrzését és javítását célzó intézkedések és műszaki beavatkozások, – árvízvédelmi töltések építése, fejlesztése, rekonstrukciója, – az altalaj-állékonyság növelésére irányuló beavatkozások, a nem kellő biztonságú szakaszok megerősítése, – hullámvédő erdősáv létesítése és rekonstrukciója, – meglévő árvízi tározók rekonstrukciója, – támfalak rekonstrukciója, – töltéskorona burkolat építése, – keresztező műtárgyak építése, átépítése, – árvízvédelmi fővédvonalak infrastrukturális fejlesztése, – üzemelési és fenntartási eszköz- és műszer-beszerzés | belügyminiszter | – |
 
 | 4. | 2.1.1/B | Állami tulajdonú árvízvédelmi fejlesztések - A vizek kártételeinek elhárítását szolgáló létesítmények fenntartását és az azokon történő védekezések végrehajtására szolgáló eszköz, gép és műszer beszerzés | – projekt-előkészítés, – projekt-megvalósítás: a vízkárelhárítási (árvíz, belvíz és vízminőségi kárelhárítás) és fenntartó gép, valamint szakfelszerelés, továbbá védekezési anyagok beszerzése: - vízkárelhárítási művek fenntartó gépei; - vízkárelhárítást elősegítő vízrajzi mérőműszerek beszerzése, - a védvonalak és árvízi helyszínek jobb megközelítését biztosító géppark fejlesztése, - védekezést biztosító eszközök- és gépek beszerzése (így különösen szivattyúk, szádfalazás és cölöpözés gépei, áramfejlesztők) | belügyminiszter | – |
 
-| 5. | 2.1.2 | Önkormányzati árvízvédelmi fejlesztések | 8,06 | 0,00 | 0,00 | – árvízvédelmi töltések építése, fejlesztése, rekonstrukciója, áthelyezése, – árvízvédelmi rendszer kiépítése mobilgát kialakításával, – az altalaj-állékonyság növelésére irányuló beavatkozások, a nem kellő biztonságú szakaszok megerősítése, – nagyvízi levezető képesség javítása a hullámtér rehabilitációjával, – meglévő árvízi tározók rekonstrukciója, – támfalak rekonstrukciója, – töltéskorona burkolat építése, – keresztező műtárgyak építése, átépítése, – árvízvédelmi fővédvonalak infrastrukturális fejlesztése, – üzemelési és fenntartási eszköz- és műszerbeszerzés | belügyminiszter | – |
+| 5. | 2.1.2 | Önkormányzati árvízvédelmi fejlesztések | 8,11 | 0,00 | 0,00 | – árvízvédelmi töltések építése, fejlesztése, rekonstrukciója, áthelyezése, – árvízvédelmi rendszer kiépítése mobilgát kialakításával, – az altalaj-állékonyság növelésére irányuló beavatkozások, a nem kellő biztonságú szakaszok megerősítése, – nagyvízi levezető képesség javítása a hullámtér rehabilitációjával, – meglévő árvízi tározók rekonstrukciója, – támfalak rekonstrukciója, – töltéskorona burkolat építése, – keresztező műtárgyak építése, átépítése, – árvízvédelmi fővédvonalak infrastrukturális fejlesztése, – üzemelési és fenntartási eszköz- és műszerbeszerzés | belügyminiszter | – |
 
-| 6. | 2.1.3 | Tájgazdálkodást megalapozó vízi infrastruktúra kiépítése (VTT) | 4,79 | 0,00 | 0,00 | – ártéri tájgazdálkodást szolgáló vízrendszer kiépítése, – vízbeeresztő műtárgy építése, – állandó vízfelületek kialakítása kotrással, partrendezéssel, – tájrendezés és a kialakított műtárgyak, anyagnyerőhelyek tájba illesztése, – tájgazdálkodást szolgáló vízrendszer üzemeltetéséhez, fenntartásához szükséges eszközök, – tájgazdálkodás működési szervezeti infrastruktúrájának fejlesztése, – monitoring rendszerek kiépítése, illeszkedve a meglévő és folyamatban lévő integrált monitoringhoz, informatikai rendszer létrehozása | belügyminiszter | – |
+| 6. | 2.1.3 | Tájgazdálkodást megalapozó vízi infrastruktúra kiépítése (VTT) | 4,22 | 0,00 | 0,00 | – ártéri tájgazdálkodást szolgáló vízrendszer kiépítése, – vízbeeresztő műtárgy építése, – állandó vízfelületek kialakítása kotrással, partrendezéssel, – tájrendezés és a kialakított műtárgyak, anyagnyerőhelyek tájba illesztése, – tájgazdálkodást szolgáló vízrendszer üzemeltetéséhez, fenntartásához szükséges eszközök, – tájgazdálkodás működési szervezeti infrastruktúrájának fejlesztése, – monitoring rendszerek kiépítése, illeszkedve a meglévő és folyamatban lévő integrált monitoringhoz, informatikai rendszer létrehozása | belügyminiszter | – |
 
 | 7. | 2.2.1 | Komplex vízvédelmi beruházások | 0,00 | 0,00 | 0,76 | – vízszint-szabályozás és vízpótlást biztosító létesítmények kialakítása és rekonstrukciója, – holtág-, meder-, mellékág-rehabilitáció, – jó áramlási viszonyok biztosítása: csatornarendszerek és keresztirányú műtárgyak kialakítása, felújítása, – szűrőmezők, hordalékfogók, torkolati művek, völgyzárógátak kialakítása, felújítása, – kotrás, zagyterek kialakítása, iszapelhelyezés, – vízinövények ökológiai szabályozása, nádgazdálkodás, – táj-rehabilitáció, – szennyvízelvezetés és tisztítás, – a projekt-célok megvalósulásának monitorozása, mérőhelyek kialakítása, – a jó állapot eléréséhez és fenntartásához szükséges eszközök beszerzése, – a projekt keretében kialakított műtárgyak megközelítéséhez nélkülözhetetlen kezelőutak kialakítása, – a vizes élőhely megőrzését, kialakulását segítő műtárgyak, infrastruktúra, – vízkivétel, vízátvezetés, vízleadó útvonal és műtárgyak, – vízvisszatartás, tározók, – beeresztő, leeresztő műtárgyak és zsilipek építése és rekonstrukciója, – csatornarendszerek és keresztirányú műtárgyak, – a vízpótlást és vízszint-szabályozást biztosító létesítmények alternatív energiaellátása, – monitoring, – kezelőutak | belügyminiszter | – |
 
@@ -152,15 +152,15 @@
 
 | 9. | 2.2.2/B | VKI informatika | 1,00 | 0,00 | 0,00 | Infokommunikációs rendszerfejlesztés (szoftverbeszerzés, szoftverfejlesztés, adatbázis-fejlesztés, szaktanácsadás, eszközbeszerzés, építés). | belügyminiszter | nemzeti fejlesztési miniszter |
 
-| 10. | 2.2.3/A | Ivóvízbázis-védelem | 2,27 | 0,00 | 0,00 | – állapotfelmérés, archív információk begyűjtése, – szennyező források feltárása fúrásokkal, – monitoring-rendszer kialakítása furással vagy szondával, – talajminta és vízkémiai mintavételek, laborelemzések, – tartós szivattyúzás mérésekkel, vizsgálatokkal, – geofizikai felmérés, mederszelvényezés, – a meglévő észlelő kutak és észlelésre alkalmas kutak felújítása, megvásárlása, – vízszintészleléshez, vízminőség-vizsgálatokhoz kapcsolódó műszertelepítés, – modellezés, védőterület meghatározása, – biztonságba helyezési terv készítése, a védőterületi határozathoz szüks éges dokumentáció összeállítása, – térinformatikai feldolgozások készítése | belügyminiszter | – |
+| 10. | 2.2.3/A | Ivóvízbázis-védelem | 2,84 | 0,00 | 0,00 | – állapotfelmérés, archív információk begyűjtése, – szennyező források feltárása fúrásokkal, – monitoring-rendszer kialakítása furással vagy szondával, – talajminta és vízkémiai mintavételek, laborelemzések, – tartós szivattyúzás mérésekkel, vizsgálatokkal, – geofizikai felmérés, mederszelvényezés, – a meglévő észlelő kutak és észlelésre alkalmas kutak felújítása, megvásárlása, – vízszintészleléshez, vízminőség-vizsgálatokhoz kapcsolódó műszertelepítés, – modellezés, védőterület meghatározása, – biztonságba helyezési terv készítése, a védőterületi határozathoz szüks éges dokumentáció összeállítása, – térinformatikai feldolgozások készítése | belügyminiszter | – |
 
 | 11. | 2.2.3/B | Ivóvízbázis-védelem | 0,00 | 0,00 | – körülkerítés, riasztórendszer, sorompók, – üzemi célt nem szolgáló létesítmények megszüntetése, – pangó víz levezetését szolgáló árkok építése, övárok létesítése, burkolása, – védőterületen kettősfalú szennyvízcsatorna kiépítése, – felhagyott kutak eltömedékelése, – a vízminőségre veszélyt jelentő felszín alatti létesítmények felszámolása, – közüzemi ivóvízellátási céllal működtetett egyedi kialakítású karsztvízmű átalakítása, – medernyelő szakaszok lezárása, mederszakaszok burkolása, – a külső védőterületen áthaladó út, közút, vasút meglévő csapadékvíz-elvezető árkának szigetelése, – a vízbázis teljes vízminőségi, vízszint és vízhozam észlelőhálózatának kialakítása, – vízrajzi mérőműtárgyak, jeladós PTC szondák, mederszonda, – hordalékfogó, iszapfogó, olajfogó, szigetelés | belügyminiszter | – |
 
-| 12. | 2.3.0 | A települési szilárd hulladéklerakókat érintő térségi szintű rekultivációs programok elvégzése | 21,34 | 0,00 | 0,00 | A helyszín biztosítása, rekultivációs munkálatok végzése, rekultivációs utógondozáshoz szükséges beruházási tevékenységek. | földművelésügyi miniszter | – |
+| 12. | 2.3.0. | A település szilárd hulladéklerakókat érintő rekultivációs programok elvégzése | 28,44 | 0,00 | 0,00 | A helyszín biztosítása, rekultivációs munkálatok végzése, rekultivációs utógondozáshoz szükséges beruházási tevékenységek. | földművelésügyi miniszter | – |
 
-| 13. | 2.3.0/B | A települési szilárd hulladéklerakókat érintő rekultivációs programok elvégzése | 6,86 | 0,00 | 0,00 | A helyszín biztosítása, rekultivációs munkálatok végzése, rekultivációs utógondozáshoz szükséges beruházási tevékenységek. | földművelésügyi miniszter | – |
+| 13. | 2.3.0/B | A település szilárd hulladéklerakókat érintő rekultivációs programok elvégzése | 0,00 | 0,00 | A helyszín biztosítása, rekultivációs munkálatok végzése, rekultivációs utógondozáshoz szükséges beruházási tevékenységek. | földművelésügyi miniszter | – |
 
-| 14. | 2.4.0 | Szennyezett területek kármentesítése | 21,01 | 0,00 | 0,00 | Környezeti kármentesítési műszaki beavatkozások és projekt-előkészítés: – bontás, – építés jellegű munkák, – kármentesítés műszaki beavatkozásának technológiai működtetése, – kármentesítés műszaki beavatkozási munkáinak előrehaladását ellenőrző vizsgálatok, – kármentesítést követő helyreállítási tevékenységek. | földművelésügyi miniszter | – |
+| 14. | 2.4.0 | Szennyezett területek kármentesítése | 21,03 | 0,00 | 0,00 | Környezeti kármentesítési műszaki beavatkozások és projekt-előkészítés: – bontás, – építés jellegű munkák, – kármentesítés műszaki beavatkozásának technológiai működtetése, – kármentesítés műszaki beavatkozási munkáinak előrehaladását ellenőrző vizsgálatok, – kármentesítést követő helyreállítási tevékenységek. | földművelésügyi miniszter | – |
 
 | 15. | 2.4.0/B | Hulladéklerakók kármentesítése | 5,97 | 0,00 | 0,00 | – bontás, – létesítmények, műtárgyak kialakítása, passzív hidraulikus védelmi rendszer kiépítése, hulladék áthalmozása, felszedése, – tereprendezés, a záró rétegrend kialakítása, bioremediáció előkészítése, növénytelepítés, – kármentesítés beavatkozásának technológiai működtetése, – monitoring, – helyreállítás | földművelésügyi miniszter | – |
 
@@ -298,21 +298,21 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 20,74 | 62,14 | 28,09 | 110,97 |
+| 3. | 20,74 | 62,14 | 37,09 | 119,97 |
 
-| 4. | Többletkötelezettség-vállalás: 17,24 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 26,24 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 0% |
 
 5.2.2. A kötelezettségvállalás
 
-|  | A | B | C | D |
+|  | A | B | C |
 
 | 1. | Indikatív forrásallokáció (Mrd Ft, folyó áron, 296,9 forint/euró árfolyamon) |
 
-| 2. | 2007–2014. | 2014. | 2015. | Összesen |
+| 2. | 2007–2015. | 2015. hátralevő | Összesen |
 
-| 3. | 157,42 | 15,17 | 0,00 | 172,59 |
+| 3. | 170,53 | 11,06 | 181,59 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -330,11 +330,13 @@
 
 | 5. | 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 27,09 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
 
-| 6. |  | Tartaléksor | 0,00 | 0,00 | 0,50 |  |  |  |
+| 6. | 5.7.0 | Középületek kiemelt jelentőségű épületenergetikai fejlesztése | 0,00 | 0,00 | 9,00 | Középületek hőtechnikai adottságainak javítása. | nemzeti fejlesztési miniszter | – |
+
+| 7. | – | Tartaléksor | 0,00 | 0,00 | 0,50 | – | – | – |
 
 5.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében az 5.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-5.3.3. Az 5.3.1. pontban foglalt táblázat 3. és 4. sora szerinti 5.4.0 és 5.5.0 konstrukció 17,24 Mrd Ft többletkötelezettség-vállalást tartalmaz.
+5.3.3. Az 5.3.1. pontban foglalt táblázat 3., 4. és 6. sora szerinti 5.4.0, 5.5.0 és 5.7.0 konstrukció 26,24 Mrd Ft többletkötelezettség-vállalást tartalmaz.
 
 6. A 6. prioritás: Fenntartható életmód és fogyasztás
 
@@ -505,4 +507,4 @@
 [^1]: Az 1. pont d) alpontját az 1181/2015. (III. 25.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 1. pont e) alpontját az 1181/2015. (III. 25.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja szerint módosított szöveg.
