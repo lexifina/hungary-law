@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1004-30
 | --- | --- | --- |
 | 2015-01-15 | 2015-1004-30-22.1 | 1004/2015. (I. 15.) Korm. határozat |
 | 2015-01-16 | 2015-1004-30-22.2 | 2010: CXXX. törvény |
+| 2015-05-06 | 2015-1004-30-22.3 | 1291/2015. (V. 5.) Korm. határozat |
