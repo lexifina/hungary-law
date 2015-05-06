@@ -2,9 +2,9 @@
 
 ## 2. megállapítja
 
-## a)[^1]
+## a)[^2]
 
-## b) az Államreform Operatív Program (a továbbiakban: ÁROP) 2011–2013. évekre szóló akciótervének 1. prioritását a 2. melléklet szerint,
+## b)[^3]
 
 ## 3. felhívja a nemzeti fejlesztési minisztert, hogy az 1. pontban meghatározott szempontok érvényre juttatását szolgáló kiemelt projektek tervezési útmutatóinak előkészítéséhez szükséges szakmai tartalmat készítse elő, és küldje meg az 5. pont szerinti miniszter részére,
 
@@ -28,22 +28,21 @@
 
 ## a) a 3. melléklet szerint a KEOP-6.4.0 azonosító számú, „A fenntartható életmód a fogyasztóvédelem eszközrendszerén keresztül” című, és
 
-## b) a 4. melléklet szerint az ÁROP-1.2.24. azonosító számú, „A fogyasztóvédelmi intézményrendszer szervezeti működésének fejlesztése” című
+## b)[^4]
 
-## projektek kiemelt projektként történő nevesítését,
-
-## 7. hozzájárul a 6. pont szerinti projektek támogatási szerződéseinek megkötéséhez,
+## 7.[^5] hozzájárul a 6. pont szerinti projektek támogatási szerződéseinek megkötéséhez,
 
 ## Felelős: a 6. pont a) alpontja tekintetében a nemzeti fejlesztési miniszter
 
-## a 6. pont b) alpontja tekintetében a Miniszterelnökséget vezető miniszter
-
 ## Határidő: a kiemelt projektjavaslatok beérkezését követő harmincadik nap
 
-## 8.[^2]
+## 8.[^6]
 
-1. melléklet az 1498/2014. (IX. 4.) Korm. határozathoz[^3]
+1. melléklet az 1498/2014. (IX. 4.) Korm. határozathoz[^7]
 
-[^1]: A 2. pont a) alpontját az 1648/2014. (XI. 14.) Korm. határozat 5. pontja visszavonta.
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. mellékletet az 1648/2014. (XI. 14.) Korm. határozat 5. pontja visszavonta.
+[^2]: A 2. pont a) alpontját az 1648/2014. (XI. 14.) Korm. határozat 5. pontja visszavonta.
+[^3]: A 2. pont b) alpontját az 1289/2015. (V. 5.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^4]: A 6. pont b) alpontját az 1289/2015. (V. 5.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^5]: A 7. pont az 1289/2015. (V. 5.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^6]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. mellékletet az 1648/2014. (XI. 14.) Korm. határozat 5. pontja visszavonta.
