@@ -10,7 +10,7 @@
 
 | 5. | KEOP-5.6.0/12-2013-0017 | Szépművészeti Múzeum | 223 600 000 |
 
-| 6. | KEOP-5.6.0/12-2013-0030 | Semmelweis Egyetem | 1 200 000 000 |
+| 6. | KEOP-5.6.0/12-2013-0030 | Semmelweis Egyetem | 1 670 000 000 |
 
 | 7. | KEOP-5.6.0/12-2013-0033 | Klebelsberg Intézményfenntartó Központ | 988 460 468 |
 
@@ -28,7 +28,7 @@
 
 | 14. | KEOP-5.6.0/12-2013-0044 | Emberi Erőforrás Támogatáskezelő és konzorciumi partnerként a Nemzeti Fejlesztési Minisztérium irányítása alatt álló Közbeszerzési és Ellátási Főigazgatóság | 260 000 000 |
 
-| 15. | KEOP-5.6.0/12-2013-0052 | Türr István Képző és Kutató Intézet | 225 209 529 |
+| 15. | KEOP-5.6.0/12-2013-0052 | Türr István Képző és Kutató Intézet | 498 209 529 |
 
 | 16. | KEOP-5.6.0/12-2013-0004 | Csongrád Megyei Kormányhivatal | 1 997 700 000 |
 
