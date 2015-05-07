@@ -8,11 +8,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Kormány visszavonja
-
-## a) az Államreform Operatív Program és az Elektronikus Közigazgatás Operatív Program keretében végrehajtásra kerülő projektek jogutódlásáról, az Államreform Operatív Program 2011–2013. évekre szóló akciótervének módosításáról, valamint az Elektronikus Közigazgatás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1452/2014. (VIII. 1.) Korm. határozat 2. pont a) alpontját, 3. és 4. pontját, valamint 2. és 3. mellékletét, és
-
-## b) a Környezet és Energia Operatív Program 2011–2013. évi akcióterve 6. prioritásának, valamint az Államreform Operatív Program 2011–2013. évi akcióterve 1. prioritásának módosításáról, azok keretében kiemelt projektek nevesítéséről és felhívások közzétételéről szóló 1498/2014. (IX. 4.) Korm. határozat 2. pont b) alpontját, 6. pont b) alpontját, 7. pontjában az „a 6. pont b) alpontja tekintetében a Miniszterelnökséget vezető miniszter” szövegrészt, valamint 2. és 4. mellékletét.
+## 3.[^1]
 
 1. melléklet az 1289/2015. (V. 5.) Korm. határozathoz
 
@@ -249,3 +245,5 @@
 | 7. | 3. prioritás összesen | 0,000 | 0,000 | 2,570 | 0,000 | 0,000 |  |  |  |
 
 3.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 3.3.1. pontban foglalt táblázat C–G oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
