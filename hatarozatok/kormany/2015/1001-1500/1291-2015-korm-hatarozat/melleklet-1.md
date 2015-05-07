@@ -6,27 +6,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Kormány visszavonja
-
-## a) a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótervének jóváhagyásáról szóló 1014/2011. (I. 19.) Korm. határozatot,
-
-## b) a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótervének a megállapításáról szóló 1429/2012. (X. 8.) Korm. határozatot,
-
-## c) a multifunkcionális nemzetiségi-roma módszertani, oktatási és kulturális központ infrastrukturális feltételeinek kialakításával kapcsolatos feladatokról, valamint a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1345/2013. (VI. 17.) Korm. határozatot,
-
-## d) a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról szóló 1627/2013. (IX. 5.) Korm. határozatot,
-
-## e) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 3–6. prioritásának és Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 1. és 3. prioritásának módosításáról szóló 1736/2013. (X. 11.) Korm. határozatot,
-
-## f) a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 3. prioritásának módosításáról szóló 1333/2014. (VI. 5.) Korm. határozatot,
-
-## g) a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 3. prioritásának módosításáról, valamint a TIOP-3.3.1/A-12/2 kódszámú („A közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés” című) konstrukció keretének megemeléséről szóló 1357/2014. (VI. 26.) Korm. határozatot,
-
-## h) a Társadalmi Megújulás Operatív Program 2011–2013. évekre szóló akcióterve 3–6. prioritásának és a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról, valamint a TÁMOP 4.1.3-11/1-2011-0001 azonosító számú, „Felsőoktatási szolgáltatások rendszerszintű fejlesztése, 2. ütem” című projekt támogatásának növeléséről szóló 1451/2014. (VII. 31.) Korm. határozat 1. pont b) alpontját és 2. mellékletét,
-
-## i) a Társadalmi Megújulás Operatív Program és a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve módosításáról szóló 1865/2014. (XII. 30.) Korm. határozatot, valamint
-
-## j) a Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akcióterve 2. prioritásának módosításáról, valamint az egyes egészségügyi intézmények infrastrukturális fejlesztését célzó projektek megvalósítása érdekében szükséges források finanszírozásáról szóló 1647/2014. (XI. 14.) Korm. határozat módosításáról szóló 1004/2015. (I. 15.) Korm. határozat 1. pont a)–c) és e) alpontját, valamint 1. és 2. mellékletét.
+## 3.[^1]
 
 1. melléklet az 1291/2015. (V. 5.) Korm. határozathoz
 
@@ -283,3 +263,5 @@ A prioritás célja a TIOP eredményes és hatékony megvalósítása. A technik
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. |
 
 | 3. | 4.2.1. | Az OP lebonyolításával kapcsolatos egyéb feladatok | 0,06 | 0,37 | 0,31 | 0,00 | 3,55 | A konstrukció célja a TIOP lebonyolításával kapcsolatos feladatok megvalósítása: 1. monitoring bizottság üléseinek megrendezése, 2. éves megvalósítási jelentések készítése, 3. tanulmányok, elemzések készítése, 4. szakértői tanácsadás, 5. szakmai rendezvények megvalósítása, 6. szakmai anyagok fordítása, tolmácsolás, 7. humánkapacitás-fejlesztés, valamint 8. államháztartási rendszeren belüli non-profit szervezetek operatív program tervezését és sikeres végrehajtását szolgáló specifikus tevékenységeinek és feladatainak ellátása. | emberi erőforrások minisztere | – |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
