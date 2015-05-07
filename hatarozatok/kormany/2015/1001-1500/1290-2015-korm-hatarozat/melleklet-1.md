@@ -20,6 +20,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete a 2. melléklet szerint módosul.
+## 3.[^1]
 
 1. melléklet az 1290/2015. (V. 5.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

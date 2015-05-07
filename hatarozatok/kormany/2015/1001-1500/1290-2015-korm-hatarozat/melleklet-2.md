@@ -122,60 +122,6 @@
 
 | 61. | KEOP | 5.7.0. | Középületek kiemelt jelentőségű épületenergetikai fejlesztése | A Vaskúti Német Nemzetiségi Általános Iskola főépületének energetikai korszerűsítése és napelemes rendszer kiépítése | Vaskút Községi Önkormányzat | 0,15 | A projekt célja a projektben érintett épület energetikai jellemzőinek és besorolásának javítása az épülethatároló szerkezeteinek hőszigetelésével, illetve nyílászárók cseréjével. | A támogatást igénylő tudomásul veszi, hogy az irányító hatóság egyoldalúan eláll a támogatási szerződéstől, ha a) a projekt megvalósításához szükséges vállalkozói szerződések 2015. július 15-ig nem lépnek hatályba, vagy b) a projekt záró elszámolási csomagjának benyújtása nem történik meg 2015. október 31-ig. |
 
-2. melléklet az 1290/2015. (V. 5.) Korm. határozathoz
+2. melléklet az 1290/2015. (V. 5.) Korm. határozathoz[^2]
 
-1. A Határozat 1. melléklet 5.2. pontja helyébe a következő rendelkezés lép:
-
-## „5.2. A prioritás ütemezése
-
-## 5.2.1. A kiírások kerete
-
-|  | A | B | C | D |
-
-| 1. | Indikatív forrásallokáció (Mrd Ft, folyó áron, 296,9 forint/euró árfolyamon) |
-
-| 2. | 2011. | 2012. | 2013. | Összesen |
-
-| 3. | 20,74 | 62,14 | 37,09 | 119,97 |
-
-| 4. | Többletkötelezettség-vállalás: 26,24 Mrd Ft |
-
-| 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 0% |
-
-## 5.2.2. A kötelezettségvállalás
-
-|  | A | B | C |
-
-| 1. | Indikatív forrásallokáció (Mrd Ft, folyó áron, 296,9 forint/euró árfolyamon) |
-
-| 2. | 2007–2015. | 2015. hátralevő | Összesen |
-
-| 3. | 170,53 | 11,06 | 181,59 |
-
-## „
-
-2. A Határozat 1. melléklet 5.3.1. pontja helyébe a következő rendelkezés lép:
-
-## „5.3.1. A konstrukciók
-
-|  | A | B | C | D | E | F | G | H |
-
-| 1. | Konstrukció kódja | Konstrukció neve | Pályázatok, kiemelt projektek meghirdethető kerete (Mrd Ft) | A konstrukció célja | A konstrukció szakmai tartalmáért felelős miniszter | A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter |
-
-| 2. | 2011. | 2012. | 2013. |
-
-| 3. | 5.4.0 | Távhő-szektor energetikai korszerűsítése | 20,74 | 0,00 | 0,00 | Távhőellátás energiahatékonysági korszerűsítése. | nemzeti fejlesztési miniszter | – |
-
-| 4. | 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 62,14 | 0,50 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
-
-| 5. | 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 27,09 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
-
-| 6. | 5.7.0 | Középületek kiemelt jelentőségű épületenergetikai fejlesztése | 0,00 | 0,00 | 9,00 | Középületek hőtechnikai adottságainak javítása. | nemzeti fejlesztési miniszter | – |
-
-| 7. | – | Tartaléksor | 0,00 | 0,00 | 0,50 | – | – | – |
-
-| ” |
-
-3. A Határozat 1. melléklet 5.3.3. pontja helyébe a következő rendelkezés lép:
-
-„5.3.3. Az 5.3.1. pontban foglalt táblázat 3., 4. és 6. sora szerinti 5.4.0, 5.5.0 és 5.7.0 konstrukció 26,24 Mrd Ft többletkötelezettség-vállalást tartalmaz.”
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
