@@ -1,14 +1,14 @@
 ## – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-28. § (1)[^74] A Kormány a jogszabályban meghatározott vadászati idény védett természeti területen történő meghosszabbítására, rövidebb időszakban történő megállapítására, egy vagy több vadfaj vadászatának a vadászati idényen belüli megtiltására vagy korlátozására irányuló másodfokú eljárásban – annak elbírálása kérdésében, hogy a természet védelmére vonatkozó nemzeti és közösségi jogi követelmények a kérelemben foglaltak szerint megfelelően érvényesülnek-e – az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+28. § (1)[^72] A Kormány a jogszabályban meghatározott vadászati idény védett természeti területen történő meghosszabbítására, rövidebb időszakban történő megállapítására, egy vagy több vadfaj vadászatának a vadászati idényen belüli megtiltására vagy korlátozására irányuló másodfokú eljárásban – annak elbírálása kérdésében, hogy a természet védelmére vonatkozó nemzeti és közösségi jogi követelmények a kérelemben foglaltak szerint megfelelően érvényesülnek-e – az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(2)[^75] A Kormány a vadászati tilalmi időben apróvad fajra vonatkozó vadászat védett természeti területen való engedélyezésére és elrendelésére irányuló másodfokú eljárásban – annak elbírálása kérdésében, hogy a vadászat engedélyezése a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a megkeresésben foglaltak szerint megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+(2)[^73] A Kormány a vadászati tilalmi időben apróvad fajra vonatkozó vadászat védett természeti területen való engedélyezésére és elrendelésére irányuló másodfokú eljárásban – annak elbírálása kérdésében, hogy a vadászat engedélyezése a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a megkeresésben foglaltak szerint megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(3)[^76] A Kormány a védett természeti területre vonatkozó vadgazdálkodási üzemterv jóváhagyására irányuló másodfokú eljárásban – annak elbírálása kérdésében, hogy a vadgazdálkodási üzemterv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+(3)[^74] A Kormány a védett természeti területre vonatkozó vadgazdálkodási üzemterv jóváhagyására irányuló másodfokú eljárásban – annak elbírálása kérdésében, hogy a vadgazdálkodási üzemterv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(4)[^77] A Kormány a vadászterület határának megállapítására irányuló másodfokú eljárásban, ha a vadászterület védett természeti területet osztana meg – annak elbírálása kérdésében, hogy a vadászterület megállapítása a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a megkeresésben foglaltak szerint megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+(4)[^75] A Kormány a vadászterület határának megállapítására irányuló másodfokú eljárásban, ha a vadászterület védett természeti területet osztana meg – annak elbírálása kérdésében, hogy a vadászterület megállapítása a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a megkeresésben foglaltak szerint megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(5)[^78] A Kormány
+(5)[^76] A Kormány
 
 a) a vadászati jog kényszerhasznosításának elrendelésére irányuló másodfokú eljárásban, ha a kényszerhasznosított vadászterület határa védett természeti területet oszt meg,
 
@@ -16,8 +16,8 @@ b) a madarak fészkének és fészkelésének vadászati célra engedélyezett v
 
 – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-[^74]: A 28. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^75]: A 28. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^76]: A 28. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^77]: A 28. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^78]: A 28. § (5) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^72]: A 28. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^73]: A 28. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^74]: A 28. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^75]: A 28. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^76]: A 28. § (5) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.

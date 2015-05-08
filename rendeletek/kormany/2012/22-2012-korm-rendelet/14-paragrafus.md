@@ -2,51 +2,25 @@
 
 (2)[^39] A NÉBIH igazgatási feladatai körében
 
-a)[^40] koordinálja, irányítja és ellenőrzi az erdészeti hatósági hatáskörében eljáró megyei kormányhivatal feladatai végrehajtását,
+a) koordinálja, irányítja és ellenőrzi a megyei kormányhivatal erdészeti hatósági feladatai végrehajtását,
 
-b)[^41] a jogszabályban előírt egyeztetési és tájékoztatási feladatok ellátása mellett összeállítja a körzeti erdőterv rendeletekre vonatkozó javaslatokat,
+b) szolgáltatja a miniszter által kért, a kormányzati munka ellátásához szükséges, a megyei kormányhivatalok erdészeti hatósági és a saját tevékenysége során keletkezett adatokat,
 
-c)[^42] a jogszabályban előírt egyeztetési és tájékoztatási feladatok ellátása mellett elkészíti a körzeti erdőterveket,
+c) elemzi és értékeli a feladat- és hatáskörét érintő jogszabályok végrehajtását,
 
-d) szolgáltatja a miniszter által kért, a kormányzati munka ellátásához szükséges, a megyei kormányhivatalok erdészeti igazgatóságai és a saját tevékenysége során keletkezett adatokat,
+d) véleményezi a feladat- és hatáskörét érintő jogszabálytervezeteket,
 
-e) elemzi és értékeli a feladat- és hatáskörét érintő jogszabályok végrehajtását,
+e) kialakítja és működteti az erdészeti hatóság tevékenységéhez kapcsolódó informatikai rendszereket,
 
-f) véleményezi a feladat- és hatáskörét érintő jogszabálytervezeteket,
+f) a miniszter felkérése alapján közreműködik a nemzetközi feladatok végrehajtásában,
 
-g) kialakítja és működteti az erdészeti hatóság tevékenységéhez kapcsolódó informatikai rendszereket,
+g) ellátja a NATURA 2000 erdők körzeti erdőtervezésével, felülvizsgálatával kapcsolatos koordinációs és ellenőrzési feladatokat,
 
-h) a miniszter felkérése alapján közreműködik a nemzetközi feladatok végrehajtásában,
+h) ellátja az erdészeti hatóság feladatköréhez kapcsolódó nyilvántartásokból származó külön jogszabályban nem nevesített adatszolgáltatási feladatokat,
 
-i) a jogszabályban foglalt tartalommal üzemelteti, felügyeli és vezeti
+i) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe utal.
 
-ia) az Országos Erdőállomány Adattárat,
-
-ib) az erdőgazdálkodói nyilvántartást,
-
-ic) az erdészeti és jogosult erdészeti szakszemélyzet-nyilvántartást,
-
-id) az erdei közjóléti létesítmény nyilvántartást,
-
-ie) az erdei lovaglásra és járműközlekedésre kijelölt utak nyilvántartását,
-
-if) az erdőfelújítási biztosítékok előírásáról, teljesítéséről és felszabadításáról szóló nyilvántartást,
-
-ig) az erdészeti hatóság által határozattal kiszabott erdőgazdálkodási és erdővédelmi bírságokról szóló nyilvántartást,
-
-ih) a nemzeti hatáskörben támogatott erdőfelújításhoz, erdőtelepítéshez pénzügyi tételt keletkeztető műveletekről szóló nyilvántartást,
-
-ii) a földalatti gomba gyűjtésére vonatkozó jogszabályban meghatározott feltételeknek megfelelő személyekről, valamint a részükre kiadott tanúsítványról és gyűjtési naplóról szóló nyilvántartást,
-
-ij) az Országos Erdőkár Nyilvántartást,
-
-j) ellátja a NATURA 2000 erdők körzeti erdőtervezésével, felülvizsgálatával kapcsolatos koordinációs és ellenőrzési feladatokat,
-
-k) ellátja az erdészeti hatóság feladatköréhez kapcsolódó nyilvántartásokból származó külön jogszabályban nem nevesített adatszolgáltatási feladatokat,
-
-l) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe utal.
-
-(3)[^43] A NÉBIH a 14. § (2) bekezdés a) pontja szerinti ellenőrzés eredményéről tájékoztatja az erdészeti hatósági hatáskörében eljáró megyei kormányhivatalt.
+(3)[^40] A NÉBIH a 14. § (2) bekezdés a) pontja szerinti ellenőrzés eredményéről tájékoztatja az erdészeti hatósági hatáskörében eljáró megyei kormányhivatalt.
 
 (4) A NÉBIH erdészeti ügyekkel foglalkozó szervezeti egységének vezetője kizárólag felsőfokú erdészeti végzettséggel rendelkező személy lehet.
 
@@ -56,8 +30,8 @@ l) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe ut
 
 (7) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (7) bekezdésében foglaltak tekintetében a Kormány erdészeti hatóságként a NÉBIH-et jelöli ki.
 
-[^39]: A 14. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (2) bekezdésével megállapított szöveg.
-[^40]: A 14. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés h) pontja szerint módosított szöveg.
-[^41]: [A 14. § (2) bekezdés b) pontjának a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés i) pontjával elrendelt módosítása, amely szerint az „a megyei kormányhivatal erdészeti igazgatósága” szövegrész helyébe az „az erdészeti hatósági hatáskörében eljáró megyei kormányhivatal” szöveg lép, nem vezethető át.]
-[^42]: [A 14. § (2) bekezdés c) pontjának a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés j) pontjával elrendelt módosítása, amely szerint az „a megyei kormányhivatalok erdészeti igazgatóságai” szövegrész helyébe az „az erdészeti hatósági hatáskörében eljáró megyei kormányhivatalok” szöveg lép, nem vezethető át.]
-[^43]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (3) bekezdésével megállapított szöveg.
+(8)[^41] A faanyag kereskedelmi lánc hatósági felügyeletére erdészeti hatóságként a Kormány a NÉBIH-et jelöli ki.
+
+[^39]: A 14. § (2) bekezdése a 116/2015. (V. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^40]: A 14. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (3) bekezdésével megállapított szöveg.
+[^41]: A 14. § (8) bekezdését a 116/2015. (V. 7.) Korm. rendelet 1. § (3) bekezdése iktatta be.
