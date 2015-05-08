@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-55-20-8
 | 2012-02-11 | 2004-55-20-82.2 | 5/2012. (II. 10.) VM rendelet |
 | 2013-08-01 | 2004-55-20-82.3 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-15 | 2004-55-20-82.4 | 22/2014. (III. 14.) VM rendelet |
+| 2015-05-08 | 2004-55-20-82.5 | 21/2015. (IV. 30.) FM rendelet |

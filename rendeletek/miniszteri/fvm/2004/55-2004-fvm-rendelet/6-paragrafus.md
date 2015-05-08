@@ -10,7 +10,7 @@ d) olyan hatósági állatorvos felügyelete alatt kell állnia, aki ténylegese
 
 (2) Csak olyan létesítmény engedélyezhető állategészségügyi határállomásként, amely megfelel az 1. számú mellékletben szereplő követelményeknek.
 
-(3)[^5] A Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium) összeállítja Magyarország területén lévő állategészségügyi határállomások listáját, amelyet megküld az Európai Bizottságnak. A listának minden állategészségügyi határállomás esetében tartalmaznia kell az alábbi adatokat:
+(3)[^5] A Földművelésügyi Minisztérium (a továbbiakban: minisztérium) összeállítja Magyarország területén lévő állategészségügyi határállomások listáját, amelyet megküld az Európai Bizottságnak. A listának minden állategészségügyi határállomás esetében tartalmaznia kell az alábbi adatokat:
 
 a) típus:
 
@@ -58,5 +58,5 @@ j) a kereskedelem mértéke (az adott állategészségügyi határállomáson á
 
 (5)[^6] Magyarország területén jóváhagyott állategészségügyi határállomások listáját külön jogszabály állapítja meg.
 
-[^5]: A 6. § (3) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 14. § a) pontja, a 70/2013. (VII. 31.) VM rendelet 36. § d) pontja szerint módosított szöveg.
+[^5]: A 6. § (3) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 14. § a) pontja, a 21/2015. (IV. 30.) FM rendelet 16. § (3) bekezdése szerint módosított szöveg.
 [^6]: A 6. § (5) bekezdése az 5/2012. (II. 10.) VM rendelet 14. § b) pontja szerint módosított szöveg.

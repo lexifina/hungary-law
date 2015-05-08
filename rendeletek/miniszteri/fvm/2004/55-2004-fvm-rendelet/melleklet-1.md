@@ -1,4 +1,4 @@
-## 23. § E rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban – a rendelet tárgykörében megjelent más jogszabályokkal együtt – a Közösségbe harmadik országokból érkező állatok állatorvosi vizsgálatának megszervezésére vonatkozó alapelvek megállapításáról szóló, a Tanács 91/496/EGK irányelvével, valamint a Tanács azt módosító, 91/628/EGK irányelvével, 92/438/EGK határozatával és 96/43/EK irányelvével összeegyeztethető szabályozást tartalmaz.
+## meghatározott mintáknak megfelelő, 2014. december 28-ig kiállított állategészségügyi bizonyítvánnyal hozhatók be Magyarországra.
 
 1. számú melléklet az 55/2004. (IV. 24.) FVM rendelethez
 
