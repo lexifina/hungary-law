@@ -44,12 +44,8 @@
 
 ## Határidő: a JASPERS-programban részt vevő szakértők minőségbiztosítási jelentésének kibocsátását követően azonnal
 
-## 5. Az 1237/2014. (IV. 10.) Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
-
-## 6. A Kormány visszavonja
-
-## a) az 1237/2014. (IV. 10.) Korm. határozat 4–9. pontját, valamint
-
-## b) a KÖZOP-2.5.0-09-11-2013-0001 azonosító számú („Budapest Kelenföld–Székesfehérvár vasútvonal rekonstrukciója 1/3. ütem: Székesfehérvár vasúti csomópont átépítése és a Szent István utcai közúti felüljáró építése Érden” című) és a KÖZOP-2.5.0-09-11-2014-0003 azonosító számú („Lepsény–Balatonszentgyörgy közötti vasúti vonalszakasz rekonstrukciója 1. szakasz, Lepsény–Szántód–Kőröshegy vonalszakaszának rekonstrukciója” című) nagyprojekt-javaslatok jóváhagyásáról szóló 1093/2015. (III. 5.) Korm. határozatot.
+## 5–6.[^1]
 
 1. melléklet az 1296/2015. (V. 7.) Korm. határozathoz
+
+[^1]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
