@@ -1,4 +1,4 @@
-2. melléklet az 1179/2015. (III. 25.) Korm. határozathoz
+2. melléklet az 1179/2015. (III. 25.) Korm. határozathoz[^3]
 
 ## A DÉL-DUNÁNTÚLI OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -120,7 +120,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 32,0900 | 0,5000 | 5,9800 | 4,1400 | 4,9271 | 47,6371 |
+| 3. | 32,0900 | 0,5000 | 5,9800 | 4,1400 | 5,2597 | 47,9697 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -156,7 +156,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 0,0000 | 0,1129 | 1,5960 | 1,7089 |
+| 3. | 0,0000 | 0,1129 | 1,6203 | 1,7332 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -168,7 +168,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 52,8965 | 0,0000 | 0,0000 | 1,5870 | 0,0223 | 54,5058 |
+| 3. | 52,8965 | 0,0000 | 0,0000 | 1,5870 | 0,3071 | 54,7906 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -180,13 +180,13 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 4.1.1. | Városfejlesztési akciók támogatása | 0,0000 | 0,1129 | 0,0000 | A konstrukció célja funkcióbővítő típusú integrált város-rehabilitációs projektek megvalósítása. | Miniszterelnökséget vezető miniszter | emberi erőforrások minisztere |
+| 3. | 4.1.1. | Városfejlesztési akciók támogatása | 0,0000 | 0,1129 | 0,0243 | A konstrukció célja funkcióbővítő típusú integrált város-rehabilitációs projektek megvalósítása. | Miniszterelnökséget vezető miniszter | emberi erőforrások minisztere |
 
 | 4. | 4.1.2. | Leromlott városi területek közösségi célú integrált rehabilitációja | 0,0000 | 0,0000 | 1,5960 | A konstrukció célja szociális célú város-rehabilitációs projektek megvalósítása. | Miniszterelnökséget vezető miniszter | emberi erőforrások minisztere |
 
 | 5. | 4.1.3. | Pécs 2010 Európa Kulturális Fővárosa program kiemelt projektjeinek megvalósítása | 0,0000 | 0,0000 | 0,0000 | A konstrukció célja a leértékelődő városi területek fenntartható társadalmi, környezeti megújulásának elősegítése közösségi és szociális funkciók megjelenésének támogatásával. | Miniszterelnökséget vezető miniszter | emberi erőforrások minisztere |
 
-| 6. | 4. prioritás összesen | 0,0000 | 0,1129 | 1,5960 |  |  |  |
+| 6. | 4. prioritás összesen | 0,0000 | 0,1129 | 1,6203 |  |  |  |
 
 5. Az 5. prioritás: Az elérhetőség javítása és környezetfejlesztés
 
@@ -202,7 +202,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 21,4871 | 6,8362 | 1,0441 | 29,3674 |
+| 3. | 21,4871 | 7,1563 | 1,0441 | 29,6875 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -214,7 +214,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 37,2579 | 3,9800 | 10,6386 | 14,0904 | 1,3582 | 67,3251 |
+| 3. | 37,2579 | 3,9800 | 10,6386 | 14,0904 | 1,8664 | 67,8333 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -234,6 +234,8 @@
 
 | 6. | 5.1.4. | A kistelepülések szennyvízkezelésének fejlesztése | 0,0000 | 0,0000 | 0,0000 | A konstrukció célja a kistelepülések szennyvízkezelésének fejlesztése, a települések környezetbiztonságának növelése. | Miniszterelnökséget vezető miniszter |  |
 
-| 7. | 5.1.5. | Környezeti veszélyelhárítás | 1,5900 | 5,9166 | 0,0000 | A konstrukció célja a helyi és térségi jelentőségű vízvédelmi rendszerek fejlesztése. | belügyminiszter | 5.1.5/B konstrukció esetén a Miniszterelnökséget vezető miniszter |
+| 7. | 5.1.5. | Környezeti veszélyelhárítás | 1,5900 | 6,2367 | 0,0000 | A konstrukció célja a helyi és térségi jelentőségű vízvédelmi rendszerek fejlesztése. | belügyminiszter | 5.1.5/B konstrukció esetén a Miniszterelnökséget vezető miniszter |
 
-| 8. | 5. prioritás összesen | 21,4871 | 6,8362 | 1,0441 |  |  |  |
+| 8. | 5. prioritás összesen | 21,4871 | 7,1563 | 1,0441 |  |  |  |
+
+[^3]: A 2. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.17–13.30. alpontja szerint módosított szöveg.

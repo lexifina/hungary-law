@@ -1,4 +1,4 @@
-3. melléklet az 1179/2015. (III. 25.) Korm. határozathoz
+3. melléklet az 1179/2015. (III. 25.) Korm. határozathoz[^4]
 
 ## AZ ÉSZAK-ALFÖLDI OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -110,7 +110,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 27,8533 | 4,7736 | 0,6467 | 33,2736 |
+| 3. | 27,8533 | 4,8394 | 0,6467 | 33,3394 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -122,7 +122,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 28,3247 | 0,3600 | 19,4400 | 11,8763 | 1,8022 | 61,8032 |
+| 3. | 28,3247 | 0,3600 | 19,4400 | 11,8763 | 2,1793 | 62,1803 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -134,7 +134,7 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 3.1.1. | 4 és 5 számjegyű közutak fejlesztése | 19,8170 | 2,3033 | 0,0000 | A konstrukció célja a négy és öt számjegyű, településeket összekötő, országos mellékúthálózat minősége fejlesztésén keresztül a kistelepüléseken élők és a hátrányos helyzetű társadalmi csoportok közszolgáltatásokhoz való hozzáférésének javítása, valamint a közlekedés okozta környezeti károk csökkentése. | nemzeti fejlesztési miniszter |  |
+| 3. | 3.1.1. | 4 és 5 számjegyű közutak fejlesztése | 19,8170 | 2,3691 | 0,0000 | A konstrukció célja a négy és öt számjegyű, településeket összekötő, országos mellékúthálózat minősége fejlesztésén keresztül a kistelepüléseken élők és a hátrányos helyzetű társadalmi csoportok közszolgáltatásokhoz való hozzáférésének javítása, valamint a közlekedés okozta környezeti károk csökkentése. | nemzeti fejlesztési miniszter |  |
 
 | 4. | 3.1.2. | Önkormányzati utak fejlesztése | 5,2733 | 0,0000 | 0,1559 | A konstrukció célja az önkormányzati tulajdonú és kezelésű belterületi útszakaszok, belső tehermentesítő utak építése, fejlesztése, közlekedésbiztonsági célú átépítése, meglévő kiszolgáló utak gyűjtőúttá fejlesztése a közszolgáltatások könnyebb és gyorsabb elérése, valamint a központi lakott területek tehermentesítése érdekében. További cél a nehezen elérhető településrészek és a városközpontok kapcsolatának, és a településrészek megközelíthetőségének javítása. | nemzeti fejlesztési miniszter |  |
 
@@ -142,7 +142,7 @@
 
 | 6. | 3.1.4. | Közösségi közlekedés infrastrukturális fejlesztése | 0,0000 | 1,5703 | 0,0000 | A konstrukció célja térségi alapú infrastrukturális fejlesztések megvalósítása a közösségi közlekedés alapfeltétel-rendszerének biztosítása, fejlesztése, ezáltal az országos, regionális, elővárosi, helyi és városi közlekedés gyorsabbá, biztonságosabbá és színvonalasabbá tétele érdekében. A közlekedésbiztonsági, forgalomtechnikai, irányítási, utas-tájékoztatási, valamint a szolgáltatási színvonal emelését szolgáló ellenőrzési rendszerek fejlesztése támogatásával a konstrukció kiemelt célja a jelenleg közösségi közlekedést választó utasok számának megtartása (esetenként csökkenésének fékezése), a negatív tendencia megfordítása, és a távlati utasszám-növekedés elősegítése. | nemzeti fejlesztési miniszter |  |
 
-| 7. | 3. prioritás összesen | 27,8533 | 4,7736 | 0,6467 |  |  |  |
+| 7. | 3. prioritás összesen | 27,8533 | 4,8394 | 0,6467 |  |  |  |
 
 4. A 4. prioritás: Humán infrastruktúra fejlesztések
 
@@ -170,7 +170,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 47,8021 | 0,0000 | 11,6250 | 7,9749 | 0,9039 | 68,3059 |
+| 3. | 47,8021 | 0,0000 | 11,6250 | 7,9749 | 1,2813 | 68,6833 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -210,7 +210,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 7,8275 | 26,6030 | 1,2116 | 35,6421 |
+| 3. | 7,8275 | 26,6030 | 1,3353 | 35,7658 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -222,7 +222,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 53,9856 | 0,0000 | 12,5180 | 22,4002 | 1,8188 | 90,7226 |
+| 3. | 53,9856 | 0,0000 | 12,5180 | 22,4002 | 2,2503 | 91,1541 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -234,10 +234,12 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 5.1.1. | Város- és településfejlesztési akciók | 0,0000 | 13,9761 | 1,2116 | A konstrukció célja a lakóterületek által érintett akcióterületek fizikai megújítása és a társadalmi kohézió együttes erősítése. További cél a leértékelődő városi területek fenntartható társadalmi, környezeti megújulásának elősegítése közösségi és szociális funkciók megjelenésének támogatásával. | Miniszterelnökséget vezető miniszter | emberi erőforrások minisztere |
+| 3. | 5.1.1. | Város- és településfejlesztési akciók | 0,0000 | 13,9761 | 1,3353 | A konstrukció célja a lakóterületek által érintett akcióterületek fizikai megújítása és a társadalmi kohézió együttes erősítése. További cél a leértékelődő városi területek fenntartható társadalmi, környezeti megújulásának elősegítése közösségi és szociális funkciók megjelenésének támogatásával. | Miniszterelnökséget vezető miniszter | emberi erőforrások minisztere |
 
 | 4. | 5.1.2. | Környezeti értékek védelme, környezetbiztonság | 7,0000 | 12,6269 | 0,0000 | A konstrukció célja: 1. 2000 LE alatti települések szennyvízkezelése, 2. települések korszerűtlen hulladéklerakóinak rekultivációja, 3. belvízvédelemhez kapcsolódó térségi vízrendezés, 4. belterületi bel- és csapadékvíz-védelmi fejlesztések, 5. belterületi bel- és csapadékvíz-védelmi fejlesztések a Vásárhelyi Terv Továbbfejlesztése által érintett településeken. | belügyminiszter |  |
 
 | 5. | 5.1.3. | A régiós civil szervezetek infrastrukturális feltételeinek fejlesztése | 0,8275 | 0,0000 | 0,0000 | A konstrukció célja, hogy a régió fejlődése szempontjából kiemelkedő fontosságú tevékenységet ellátó non-profit szervezetek – tevékenységük megfelelő színvonalú ellátásához szükséges – infrastrukturális fejlesztéseit támogassa. | emberi erőforrások minisztere |  |
 
-| 6. | 5. prioritás összesen | 7,8275 | 26,6030 | 1,2116 |  |  |  |
+| 6. | 5. prioritás összesen | 7,8275 | 26,6030 | 1,3353 |  |  |  |
+
+[^4]: A 3. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.31–13.44. alpontja szerint módosított szöveg.

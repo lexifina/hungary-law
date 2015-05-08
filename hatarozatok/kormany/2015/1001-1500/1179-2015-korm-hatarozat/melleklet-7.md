@@ -1,4 +1,4 @@
-7. melléklet az 1179/2015. (III. 25.) Korm. határozathoz
+7. melléklet az 1179/2015. (III. 25.) Korm. határozathoz[^7]
 
 ## A NYUGAT-DUNÁNTÚLI OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -62,7 +62,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 5,5227 | 10,5165 | 4,3573 | 20,3965 |
+| 3. | 5,5227 | 10,5165 | 4,4323 | 20,4715 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -74,7 +74,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 21,0400 | 3,4770 | 6,4878 | 9,0600 | 1,2686 | 41,3334 |
+| 3. | 21,0400 | 3,4770 | 6,4878 | 9,0600 | 1,3234 | 41,3882 |
 
 2.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -86,13 +86,13 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 2.1.1. | A régió történelmi és kulturális örökségének fenntartható hasznosítása, valamint a természeti értékeken alapuló aktív turisztikai programok fejlesztése | 4,7587 | 10,2995 | 4,3573 | A konstrukció célja a turisztikai vonzerők, illetve attrakciók létrehozása, meglévők fejlesztése, valamint turisztikai szolgáltatások kialakítása és fejlesztése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
+| 3. | 2.1.1. | A régió történelmi és kulturális örökségének fenntartható hasznosítása, valamint a természeti értékeken alapuló aktív turisztikai programok fejlesztése | 4,7587 | 10,2995 | 4,4323 | A konstrukció célja a turisztikai vonzerők, illetve attrakciók létrehozása, meglévők fejlesztése, valamint turisztikai szolgáltatások kialakítása és fejlesztése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
 
 | 4. | 2.2.1. | Szálláshelyek bővítése és szolgáltatásainak minőségi fejlesztése | A konstrukció a 2011–2013. években nem indul. | nemzetgazdasági miniszter |  |
 
 | 5. | 2.3.1. | Helyi, térségi desztináció menedzsment szervezetek létrehozása, fejlesztése | 0,7640 | 0,2170 | 0,0000 | A konstrukció célja helyi és térségi turisztikai desztináció menedzsment szervezetek fejlesztése, továbbá balatoni helyi és térségi turisztikai desztináció menedzsment szervezetek fejlesztése. | nemzetgazdasági miniszter |  |
 
-| 6. | 2. prioritás összesen | 5,5227 | 10,5165 | 4,3573 |  |  |  |
+| 6. | 2. prioritás összesen | 5,5227 | 10,5165 | 4,4323 |  |  |  |
 
 3. A 3. prioritás: Városfejlesztés
 
@@ -210,7 +210,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 20,9200 | 3,4120 | 1,8900 | 3,5647 | 0,0000 | 29,7867 |
+| 3. | 20,9200 | 3,4120 | 1,8900 | 3,5870 | 0,0000 | 29,8090 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -231,3 +231,5 @@
 | 6. | 5.4.1. | A regionális információs társadalom kiteljesítése | 0,0000 | 0,0000 | 0,0000 | A konstrukció célja a térségi közigazgatási és közszolgáltatási rendszerek informatikai fejlesztése. | emberi erőforrások minisztere | Miniszterelnökséget vezető miniszter |
 
 | 7. | 5. prioritás összesen | 2,1490 | 4,4002 | 1,0930 |  |  |  |
+
+[^7]: A 7. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.77–13.84. alpontja szerint módosított szöveg.

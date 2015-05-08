@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1179-30
 | --- | --- | --- |
 | 2015-03-26 | 2015-1179-30-22.1 | 1179/2015. (III. 25.) Korm. határozat |
 | 2015-03-27 | 2015-1179-30-22.2 | 2010: CXXX. törvény |
+| 2015-05-08 | 2015-1179-30-22.3 | 1297/2015. (V. 7.) Korm. határozat |

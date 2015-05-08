@@ -1,4 +1,4 @@
-4. melléklet az 1179/2015. (III. 25.) Korm. határozathoz
+4. melléklet az 1179/2015. (III. 25.) Korm. határozathoz[^5]
 
 ## AZ ÉSZAK-MAGYARORSZÁGI OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -64,7 +64,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 3,9820 | 29,9421 | 2,3081 | 36,2322 |
+| 3. | 3,9820 | 29,9421 | 2,3855 | 36,3096 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -76,7 +76,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 32,1300 | 0,9700 | 21,4060 | 12,9387 | 1,7164 | 69,1611 |
+| 3. | 32,1300 | 0,9700 | 21,4060 | 12,9387 | 1,8494 | 69,2941 |
 
 2.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -88,13 +88,13 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 2.1.1. | Versenyképes turisztikai termék- és attrakciófejlesztés | 3,7600 | 25,4860 | 2,3081 | A konstrukció célja a turisztikai vonzerők, illetve attrakciók létrehozásán, meglévők fejlesztésén, valamint turisztikai szolgáltatások kialakításán és fejlesztésén keresztül a hazai turizmusszektor versenyképességének erősítése, a turizmusból származó jövedelmek növelése és munkahelyek teremtése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
+| 3. | 2.1.1. | Versenyképes turisztikai termék- és attrakciófejlesztés | 3,7600 | 25,4860 | 2,3855 | A konstrukció célja a turisztikai vonzerők, illetve attrakciók létrehozásán, meglévők fejlesztésén, valamint turisztikai szolgáltatások kialakításán és fejlesztésén keresztül a hazai turizmusszektor versenyképességének erősítése, a turizmusból származó jövedelmek növelése és munkahelyek teremtése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
 
 | 4. | 2.2.1. | Szálláshelyek és szolgáltatások minőségi fejlesztése | 0,0000 | 4,2253 | 0,0000 | A konstrukció célja az üzleti célú szálláshelyek fejlesztésén keresztül a szálláshelyek szolgáltatási színvonalának emelése, kapacitáskihasználtságuk javítása, a szálláshely működéséből származó árbevételek növelése, ezáltal a jövedelemtermelő képesség növelése. | nemzetgazdasági miniszter |  |
 
 | 5. | 2.3.1. | Turisztikai Desztináció Menedzsment fejlesztése | 0,2220 | 0,2308 | 0,0000 | A konstrukció célja a helyi és térségi turisztikai desztináció menedzsment szervezetek fejlesztése, ezen keresztül a turizmus versenyképességének növelése. | nemzetgazdasági miniszter |  |
 
-| 6. | 2. prioritás összesen | 3,9820 | 29,9421 | 2,3081 |  |  |  |
+| 6. | 2. prioritás összesen | 3,9820 | 29,9421 | 2,3855 |  |  |  |
 
 3. A 3. prioritás: Településfejlesztés, környezetfejlesztés
 
@@ -110,7 +110,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 8,3407 | 7,6895 | 0,3010 | 16,3312 |
+| 3. | 8,3407 | 7,7076 | 0,3010 | 16,3493 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -122,7 +122,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 71,0505 | 0,0000 | 11,5140 | 4,8158 | 0,7173 | 88,0976 |
+| 3. | 71,0505 | 0,0000 | 11,5140 | 4,8158 | 1,0847 | 88,4650 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -140,11 +140,11 @@
 
 | 5. | 3.1.3. | Kisléptékű településfejlesztés vidékfejlesztési program kiegészítésére | 1,9600 | 2,7498 | 0,0000 | A konstrukció célja elsősorban önkormányzati tulajdonú belterületi földutak szilárd burkolatú úttá való fejlesztése, belterületi utak korszerűsítése, közösségi terek, Európai Szociális Alap típusú tevékenységek megvalósítása. | belügyminiszter | emberi erőforrások minisztere |
 
-| 6. | 3.2.1. | Környezeti értékeink védelme, környezetbiztonság | 5,8000 | 1,0629 | 0,0000 | A konstrukció célja a csapadék-, illetve belvíz okozta károk mérséklése a helyi és térségi jelentőségű vízvédelmi rendszerek fejlesztésével, továbbá a települési környezetbiztonság növelése. | 3.2.1/A és 3.2.1/B konstrukció esetén a Miniszterelnökséget vezető miniszter, 3.2.1/C–3.2.1/F konstrukció esetén a belügyminiszter |  |
+| 6. | 3.2.1. | Környezeti értékeink védelme, környezetbiztonság | 5,8000 | 1,0810 | 0,0000 | A konstrukció célja a csapadék-, illetve belvíz okozta károk mérséklése a helyi és térségi jelentőségű vízvédelmi rendszerek fejlesztésével, továbbá a települési környezetbiztonság növelése. | 3.2.1/A és 3.2.1/B konstrukció esetén a Miniszterelnökséget vezető miniszter, 3.2.1/C–3.2.1/F konstrukció esetén a belügyminiszter |  |
 
 | 7. | 3.3.1. | Civilszervezetek fejlesztése | 0,5807 | 0,0000 | 0,0000 | A konstrukció célja, hogy a régió fejlődése szempontjából kiemelkedő fontosságú tevékenységet ellátó non-profit szervezetek – tevékenységük megfelelő színvonalú ellátásához szükséges – infrastrukturális fejlesztéseit támogassa. | Miniszterelnökséget vezető miniszter |  |
 
-| 8. | 3. prioritás összesen | 8,3407 | 7,6895 | 0,3010 |  |  |  |
+| 8. | 3. prioritás összesen | 8,3407 | 7,7076 | 0,3010 |  |  |  |
 
 4. A 4. prioritás: Humán közösségi infrastruktúra fejlesztése
 
@@ -160,7 +160,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 9,0260 | 16,6697 | 1,5006 | 27,1963 |
+| 3. | 9,0260 | 16,6697 | 1,5096 | 27,2053 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -172,7 +172,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 42,7700 | 0,0000 | 16,9190 | 8,2689 | 1,3651 | 69,3230 |
+| 3. | 42,7700 | 0,0000 | 16,9190 | 8,2689 | 1,3959 | 69,3538 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -184,7 +184,7 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 4.1.1. | Egészségügyi alapellátás és járóbeteg szakellátás fejlesztése | 0,0000 | 6,3150 | 1,0006 | A konstrukció célja az orvosi rendelők és egészségházak, valamint járóbeteg szakellátás fejlesztése. | emberi erőforrások minisztere |  |
+| 3. | 4.1.1. | Egészségügyi alapellátás és járóbeteg szakellátás fejlesztése | 0,0000 | 6,3150 | 1,0096 | A konstrukció célja az orvosi rendelők és egészségházak, valamint járóbeteg szakellátás fejlesztése. | emberi erőforrások minisztere |  |
 
 | 4. | 4.1.2. | Rehabilitációs ellátás fejlesztése | 4,5260 | 0,2742 | 0,0000 | A konstrukció célja a rehabilitációs szakellátási helyek fejlesztése a lakossági hozzáférés növelése és a földrajzi-regionális és szakmai-tartalmi egyenlőtlenségeinek csökkentése érdekében. | emberi erőforrások minisztere |  |
 
@@ -196,7 +196,7 @@
 
 | 8. | 4.3.2. | Térségi közigazgatási és közszolgálati rendszerek informatikai fejlesztése | 0,0000 | 0,0000 | 0,5000 | A konstrukció célja a térségi közigazgatási és közszolgálati rendszerek informatikai fejlesztése. | nemzeti fejlesztési miniszter | Miniszterelnökséget vezető miniszter |
 
-| 9. | 4. prioritás összesen | 9,0260 | 16,6697 | 1,5006 |  |  |  |
+| 9. | 4. prioritás összesen | 9,0260 | 16,6697 | 1,5096 |  |  |  |
 
 5. Az 5. prioritás: Térségi közlekedés fejlesztése
 
@@ -224,7 +224,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 18,1108 | 1,2100 | 10,0940 | 1,4520 | 0,4613 | 31,3281 |
+| 3. | 18,1108 | 1,2100 | 10,0940 | 1,4520 | 0,8244 | 31,6912 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -243,3 +243,5 @@
 | 5. | 5.1.3. | Kerékpár-forgalmi hálózat fejlesztése | 0,6998 | 0,0000 | 0,0000 | A konstrukció célja olyan komplex projektek támogatása, amelyek eredményeként egy teljes település vagy egy szerves, funkcionális egységnek tekinthető településrész, illetve kettő vagy több település közötti távolság válik biztonságosan, kényelmesen, közvetlenül elérhetővé és kerékpározhatóvá. | nemzeti fejlesztési miniszter |  |
 
 | 6. | 5. prioritás összesen | 13,4460 | 0,0000 | 0,0000 |  |  |  |
+
+[^5]: A 4. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.45–13.64. alpontja szerint módosított szöveg.

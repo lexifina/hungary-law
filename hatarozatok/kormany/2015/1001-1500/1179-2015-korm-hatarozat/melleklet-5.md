@@ -1,4 +1,4 @@
-5. melléklet az 1179/2015. (III. 25.) Korm. határozathoz
+5. melléklet az 1179/2015. (III. 25.) Korm. határozathoz[^6]
 
 ## A KÖZÉP-DUNÁNTÚLI OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -64,7 +64,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 1,7900 | 13,1565 | 3,4089 | 18,3554 |
+| 3. | 1,7900 | 13,1565 | 3,6137 | 18,5602 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -76,7 +76,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 25,1900 | 0,9219 | 2,2000 | 13,9100 | 2,1660 | 44,3879 |
+| 3. | 25,1900 | 0,9219 | 2,2000 | 13,9100 | 2,7381 | 44,9600 |
 
 2.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -88,13 +88,13 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 2.1.1. | Kiemelt és integrált vonzerő-, termék- és infrastruktúra- fejlesztések támogatása | 1,4000 | 12,8930 | 1,8089 | A konstrukció célja a turisztikai vonzerők, illetve attrakciók létrehozásán, meglévők fejlesztésén, valamint turisztikai szolgáltatások kialakításán és fejlesztésén keresztül a hazai turizmusszektor versenyképességének erősítése, a turizmusból származó jövedelmek növelése és munkahelyek teremtése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
+| 3. | 2.1.1. | Kiemelt és integrált vonzerő-, termék- és infrastruktúra- fejlesztések támogatása | 1,4000 | 12,8930 | 2,0137 | A konstrukció célja a turisztikai vonzerők, illetve attrakciók létrehozásán, meglévők fejlesztésén, valamint turisztikai szolgáltatások kialakításán és fejlesztésén keresztül a hazai turizmusszektor versenyképességének erősítése, a turizmusból származó jövedelmek növelése és munkahelyek teremtése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
 
 | 4. | 2.1.2. | Szálláshelyek és a turisztikai termékkínálat értékét növelő egyéb szolgáltatások infrastrukturális és minőségi fejlesztése | 0,0000 | 0,0000 | 1,6000 | A konstrukció célja a régió vendégfogadó-kapacitásának fejlesztése, illetve a szálláshelyekhez kapcsolódó szolgáltatások fejlesztése a piacbővítési célú termékfejlesztéssel összhangban, a látogatók tartózkodási idejének növelése és turisztikai kiadásainak ösztönzése érdekében. | nemzetgazdasági miniszter |  |
 
 | 5. | 2.2.1. | Térségi és helyi turisztikai együttműködési rendszerek fejlesztése | 0,3900 | 0,2635 | 0,0000 | A konstrukció célja a helyi és térségi turisztikai desztináció menedzsment szervezetek fejlesztése, ezen keresztül a turizmus versenyképességének növelése. | nemzetgazdasági miniszter |  |
 
-| 6. | 2. prioritás összesen | 1,7900 | 13,1565 | 3,4089 |  |  |  |
+| 6. | 2. prioritás összesen | 1,7900 | 13,1565 | 3,6137 |  |  |  |
 
 3. A 3. prioritás: Fenntartható településfejlesztés
 
@@ -122,7 +122,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 16,3300 | 0,0000 | 0,6800 | 7,2700 | 2,5713 | 26,8513 |
+| 3. | 16,3300 | 0,0000 | 0,6800 | 7,2700 | 2,9086 | 27,1886 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -166,7 +166,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 23,8681 | 4,5693 | 10,7404 | 14,4050 | 1,2650 | 54,8478 |
+| 3. | 23,8681 | 4,5693 | 10,7404 | 14,4050 | 1,6302 | 55,2130 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -214,7 +214,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 20,9791 | 0,0000 | 1,3969 | 0,1400 | 0,0000 | 22,5160 |
+| 3. | 20,9791 | 0,0000 | 1,3969 | 0,5299 | 0,0000 | 22,9059 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -237,3 +237,5 @@
 | 7. | 5.3.2. | Utólagos akadálymentesítés | A konstrukció a 2011–2013. években nem indul. | emberi erőforrások minisztere |  |
 
 | 8. | 5. prioritás összesen | 2,0700 | 0,3114 | 0,0000 |  |  |  |
+
+[^6]: Az 5. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.65–13.76. alpontja szerint módosított szöveg.
