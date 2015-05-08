@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1294-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-05-07 | 2015-1294-30-22.1 | 1294/2015. (V. 6.) Korm. határozat |
+| 2015-05-08 | 2015-1294-30-22.2 | 2010: CXXX. törvény |
