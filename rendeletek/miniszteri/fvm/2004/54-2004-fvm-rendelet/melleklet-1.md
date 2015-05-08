@@ -1,3 +1,3 @@
-## 19. § E rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban – a rendelet tárgykörében megjelent más jogszabályokkal együtt – a belső piac megvalósításának céljával meghatározott élő állatok és állati termékek Közösségen belüli kereskedelmében alkalmazható állategészségügyi és tenyésztéstechnikai ellenőrzésekről szóló, a Tanács 90/425/EGK irányelvével, valamint az azt módosító, a Tanács 90/539/EGK, 90/667/EGK, 90/675/EGK, 91/68/EGK, 91/174/EGK, 91/496/EGK, 91/628/EGK, 92/60/EGK, 92/65/EGK, 92/118/EGK, 2002/33/EK irányelvével összeegyeztethető szabályozást tartalmaz.
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. számú melléklet az 54/2004. (IV. 24.) FVM rendelethez
