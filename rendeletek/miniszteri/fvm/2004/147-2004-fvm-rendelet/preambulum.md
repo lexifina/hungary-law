@@ -1,1 +1,0 @@
-Az állategészségügyről szóló 1995. évi XCI. törvény 45. §-ának 7. és 11. pontjában kapott felhatalmazás alapján – a Magyar Állatorvosi Kamaráról, valamint a magán-állatorvosi tevékenység gyakorlásáról szóló 1995. évi XCIV. törvény 3. §-a (1) bekezdésének k) pontjában foglaltakra figyelemmel – a következőket rendelem el:
