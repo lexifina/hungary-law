@@ -20,7 +20,7 @@ c) a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelölés
 
 a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalt kötelezettségek tekintetében.
 
-(3)[^132]
+(3)[^132] A kötelezettségvállalásra a (2) bekezdés a) pontjában meghatározott személy a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, illetve a járási (fővárosi kerületi) hivatalban a járási hivatalvezető jóváhagyásával jogosult.
 
 (4)[^133] (4) A kötelezettséget vállaló szerv vezetője kötelezettségvállalási joggal ruházhatja fel
 
@@ -52,7 +52,7 @@ alkalmazásában álló személyt jelölhet ki a nemzetiségi önkormányzat kia
 
 [^130]: Az Ávr. 52. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (3) bekezdésével megállapított szöveg.
 [^131]: Az Ávr. 52. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (3) bekezdésével megállapított szöveg.
-[^132]: Az Ávr. 52. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 188. § (8) bekezdése hatályon kívül helyezte.
+[^132]: Az Ávr. 52. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 188. § (8) bekezdése hatályon kívül helyezte, újonnan a 117/2015. (V. 7.) Korm. rendelet 1. §-a iktatta be.
 [^133]: Az Ávr. 52. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^134]: Az Ávr. 52. § (5) bekezdése a 20/2015. (II. 17.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
 [^135]: Az Ávr. 52. § (6a) bekezdését a 14/2013. (I. 25.) Korm. rendelet 1. §-a iktatta be, szövege a 74/2013. (III. 11.) Korm. rendelet 27. §-ával megállapított szöveg.
