@@ -42,7 +42,7 @@ d) az államháztartásért felelős miniszterrel egyetértésben meghatározza 
 
 e) állapíthatja meg az 57. § (3) bekezdése szerinti távhőszolgáltatási csatlakozási díj megállapítása érdekében kötelezően benyújtandó adatok körét;
 
-f) állapíthatja meg az engedélyes, az értékesítő, az egyedi szerződés alapján termelő, valamint a külön kezelt intézmény által a Hivatal részére teljesítendő adatszolgáltatásra vonatkozó szabályokat;
+f)
 
 g) állapítja meg a távhőszolgáltatási támogatás mértékét és az előkészítése módszertanára vonatkozó szabályokat, továbbá a távhőszolgáltatási támogatásra való jogosultság feltételeire, a távhőszolgáltatási támogatással kapcsolatos adatszolgáltatásra, adatkezelésre, a távhőszolgáltatási támogatás kezelésére, nyilvántartására, kifizetésére, elszámolására, felülvizsgálatára és ellenőrzésének rendjére, valamint az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat,
 
@@ -53,3 +53,5 @@ i) állapítja meg a Hivatal miniszter részére történő adatszolgáltatási 
 (3) Az önkormányzat képviselő-testülete rendeletben szabályozza a 6. § (2)–(4) bekezdésében, a 45. § (6) bekezdésében és az 52. § (2) bekezdésében meghatározott, hatáskörébe utalt feladatokat.
 
 (4) A központi költségvetési szervek vagyonkezelésében lévő létesítményből történő távhőtermelés és távhőszolgáltatás egyes kérdéseit, beleértve a berendezések fenntartását és üzemeltetését, valamint a felhasználók biztonságos ellátását – e törvény előírásainak figyelembevételével – az irányítást ellátó miniszter szabályozhatja.
+
+(5) A Hivatal elnöke rendeletben állapítja meg az engedélyes és az értékesítő által rendszeres és rendkívüli adatszolgáltatás keretében szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét.
