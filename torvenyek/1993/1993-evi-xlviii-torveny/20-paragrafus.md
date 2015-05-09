@@ -22,15 +22,15 @@ a) a termelési műszaki üzemi terv alapján 2008. január 1. előtt üzemszer�
 
 b) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkön kitermelt földgáz esetében
 
-ba) J %-a, ahol
+ba) J%-a, ahol
 
-## J: a bányajáradék százalékos mértéke,
+## J: a bányajáradék százalékos mértéke;
 
-## P: hatósági áron értékesített földgáz esetén az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló külön jogszabályban megállapított hatósági ár, szabadáras értékesítés esetén az 1996. novemberben kötött hosszú távú import szerződés alapján a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi nagykereskedő, illetve jogutódja által vásárolt földgáz számlával igazolt, tárgyévet megelőző éves átlagára,
+## P: az egyetemes szolgáltatásra jogosult felhasználók ellátása érdekében értékesített földgáz esetén az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló jogszabályban megállapított hatósági ár; szabadáras értékesítés esetén a földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló miniszteri rendeletben elismert földgáz aktuális ár tárgyévet megelőző, éves, USA-dollárban kifejezett átlagának és az MNB hivatalos napi árfolyamainak átlagának szorzata;
 
-## A: a hazai kitermelésű földgáz elismert értéke 2003-ban,
+## A: a hazai kitermelésű földgáz elismert értéke 2003-ban;
 
-## k: korrekciós tényező, melynek értéke 2003-ban 1, és az ezt követő években évenként 0,24-gyel növekszik
+## k: korrekciós tényező, melynek értéke 2003-ban 1, és az ezt követő években évenként 0,24-gyel növekszik;
 
 bb) 12%-a, amennyiben a bányajáradék ba) pont szerint számított mértéke a 12%-ot nem éri el;
 
@@ -42,7 +42,7 @@ cb) 20%-a, ha a szénhidrogén mezőből éves szinten a kitermelt földgáz men
 
 cc) 30%-a, ha a szénhidrogén mezőből éves szinten a kitermelt földgáz mennyisége 500 millió m3-t meghalad, kőolaj esetében 200 kt-t meghalad;
 
-d) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz, a nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén, valamint a szén-dioxid gáz esetében 12%-a;
+d) a 2007. július 1-jét megelőzően működésbe állított föld alatti gáztárolás kényszerű párnagáz lecseréléséből származó földgáz, valamint a szén-dioxid gáz esetében 12%-a;
 
 e) a magas inertgáz tartalmú földgáz esetében 8%-a;
 
@@ -50,7 +50,9 @@ f) az energiahordozók kivételével a külfejtéssel termelt nemfémes ásvány
 
 g) kőszenek mélyműveléses bányászata esetén 0%-a;
 
-h) egyéb szilárd ásványi nyersanyagok esetében 2%-a.
+h) egyéb szilárd ásványi nyersanyagok esetében 2%-a;
+
+i) a nem hagyományos eredetű és különleges eljárással kitermelhető szénhidrogén esetében 2%-a.
 
 (3a) A bányajáradék mértéke
 

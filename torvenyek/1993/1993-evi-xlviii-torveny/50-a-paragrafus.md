@@ -28,7 +28,7 @@
 
 14. a vízgazdálkodásról szóló törvény rendelkezéseinek figyelembevételével a bányászat befejezését követően fennmaradó vagy keletkező, a felszín alatti vízkészletet érintő tóval kapcsolatos jogokra és kötelezettségekre,
 
-15. az állami földtani feladatokat ellátó szerv vagy szervek és a bányafelügyelet vagy bányafelügyeletek kijelölésére,
+15. az állami földtani feladatokat ellátó szerv vagy szervek és a bányafelügyelet vagy bányafelügyeletek kijelölésére, valamint a felügyeleti díj megosztására,
 
 16. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
 
@@ -104,7 +104,7 @@ f) a polgári robbantási tevékenység műszaki-biztonsági követelményeit ta
 
 g) a bányászok erkölcsi és anyagi megbecsülésére, így különösen a szakmai utánpótlásra, a hagyományőrzésre és az egyéb sajátos juttatásokra vonatkozó rendelkezéseknek, a juttatások körének, jogosultjainak és mértékének, valamint
 
-h) a bányászati és gázipari biztonsági szabályzatoknak, ezzel összefüggésben a súlyos üzemzavar körének,
+h) a bányászati és gázipari biztonsági szabályzatoknak, ezzel összefüggésben a súlyos üzemzavar körének és az arról szóló jelentéstételi kötelezettségnek,
 
 i) az Európai Unió irányelveiben előírt, az ásványi nyersanyagkutatásról, feltárásról és termelésről szóló, valamint az ásványvagyon-gazdálkodással, továbbá a bányászati tevékenység során keletkező hulladékkal kapcsolatos jelentés elkészítésének, az Európai Bizottsághoz történő továbbítás és a közzététel rendjének,
 
@@ -126,7 +126,7 @@ rendeletben történő megállapítására.
 
 (3) Felhatalmazást kap
 
-a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének, megosztásának és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak alá nem tartozó eljárási költségek körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
+a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak és a jogszabályban meghatározható egyéb eljárási költségek körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
 
 b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
