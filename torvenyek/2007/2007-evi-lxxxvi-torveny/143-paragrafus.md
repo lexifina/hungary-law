@@ -10,4 +10,4 @@
 
 (5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 
-(6)
+(6) A villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben nyújtott kedvezményes árú villamosenergia-ellátás szabályozásában bekövetkező változást az ellátási körülmények megváltozásának kell tekinteni.

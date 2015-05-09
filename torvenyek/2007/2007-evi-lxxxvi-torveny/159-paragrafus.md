@@ -76,7 +76,9 @@
 
 2. dönt az engedélyesekkel szemben felmerülő panaszok – ideértve a szerződés nélküli vételezéssel, a szabálytalan vételezéssel, valamint ezek jogkövetkezményeivel kapcsolatos panaszok – ügyében, kivéve az 57. § (1) bekezdése szerinti lakossági fogyasztói panaszokat, és
 
-3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról.
+3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról,
+
+4. elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
 
 (6) A Hivatal az adatszolgáltatással és adatvédelemmel kapcsolatos feladatai körében:
 

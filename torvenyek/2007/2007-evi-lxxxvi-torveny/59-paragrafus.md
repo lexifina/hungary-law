@@ -36,4 +36,4 @@ meghatározott szerződésszegés esetén.
 
 (7) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 3 hónapon belül általuk tervezett változtatásokat is.
 
-(8)
+(8) A hálózathasználati szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékével és alkalmazásukkal kapcsolatos rendelkezéseket a Hivatal elnöke rendeletben határozza meg.

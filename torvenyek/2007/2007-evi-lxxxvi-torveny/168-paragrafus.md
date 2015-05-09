@@ -76,4 +76,6 @@ f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az es
 
 (16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
 
-(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el azzal az eltéréssel, hogy az elbírálási határidő három hónap.
+(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében – a (18) bekezdés szerinti eltéréssel – a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el azzal az eltéréssel, hogy az elbírálási határidő három hónap.
+
+(18) A Hivatal az 57. § (4a) és (5) bekezdése szerinti panaszokról a Ket. szerinti hatósági eljárásban hoz döntést.
