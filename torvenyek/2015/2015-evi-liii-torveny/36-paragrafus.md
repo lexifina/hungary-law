@@ -1,0 +1,3 @@
+36. § A GET a következő 77/A. §-sal egészül ki:
+
+„77/A. § Ha a felhasználási helyen a távhőszolgáltatásról szóló törvény szerinti engedélyes működési engedélyét a Hivatal visszavonja, és a távhőszolgáltatásról szóló törvény szerinti új engedélyest jelöl ki, a rendszerüzemeltető – a felhasználási hely korábbi rendszerhasználati és földgáz-kereskedelmi szerződésében szabályozott jogviszonyból eredő kötelezettségek teljesülésétől függetlenül – a kijelölés napjától köteles biztosítani a hozzáférést a távhőszolgáltatásról szóló törvény szerinti kijelölt engedélyes vagy az őt ellátó földgázkereskedő részére.”
