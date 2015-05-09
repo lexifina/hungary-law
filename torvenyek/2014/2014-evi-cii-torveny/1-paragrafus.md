@@ -30,8 +30,8 @@
 
 13. a vendéglátásra;
 
-14. a világörökségi területen található üzletekre, valamint
+14. a kulturális tevékenységet és a fürdő szolgáltatást kiszolgáló kereskedelmi tevékenységre, valamint
 
-15. a kulturális tevékenységet és a fürdő szolgáltatást kiszolgáló kereskedelmi tevékenységre.
+15. az automatából történő értékesítésre.
 
 (3) Az e törvényben vagy a felhatalmazása alapján kiadott kormányrendeletben nem szabályozott kérdésekben a kereskedelemről szóló 2005. évi CLXIV. törvény (a továbbiakban: Kertv.) 6. §-át kell alkalmazni.
