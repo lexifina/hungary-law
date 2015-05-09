@@ -14,8 +14,4 @@ f) 118/A. § (2) bekezdésében a „tartályban vagy palackban történő forga
 
 g) 141. § (1) bekezdésében a „Get. szerinti közüzemi nagykereskedő forrásaival rendelkező” szövegrész.
 
-(2) Hatályát veszti a GET
-
-a) 107/B. § (4) bekezdésében a „ , valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók és a 141/C. § alapján felajánlott földgázt vételező felhasználók ellátásához szükséges hazai termelésű földgázmennyiséget” szövegrész,
-
-b) 107/B. § (5) bekezdése.
+(2)

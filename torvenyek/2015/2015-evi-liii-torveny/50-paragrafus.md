@@ -24,7 +24,7 @@ k) 103. § (3) bekezdésében a „141/C. § (5) bekezdése szerinti árat és m
 
 l) 106. § a) és b) pontjában az „az engedélyes” szövegrész helyébe az „a rendszerhasználó” szöveg,
 
-m) 110. § (3) bekezdésében az „október” szövegrész helyébe a „május” szöveg,
+m)
 
 n) 115. § (2) bekezdésében a „Jogszabályváltozás esetén” szövegrész helyébe a „Jogszabályváltozás vagy jogszabálysértő állapot fennállása esetén” szöveg,
 
