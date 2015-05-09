@@ -1,6 +1,6 @@
 115. § (1) Az engedélyben foglaltakat – a körülmények jelentős megváltozása esetén – az engedélyes kérelmére módosítani lehet.
 
-(2) Jogszabályváltozás esetén – a jogszabállyal való összhang megteremtése érdekében – a Hivatal az engedélyt hivatalból módosíthatja.
+(2) Jogszabályváltozás vagy jogszabálysértő állapot fennállása esetén – a jogszabállyal való összhang megteremtése érdekében – a Hivatal az engedélyt hivatalból módosíthatja.
 
 (3) Az engedély módosítása nem befolyásolhatja hátrányosan a felhasználók ellátásának biztonságát, minőségét és árát.
 

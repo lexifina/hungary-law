@@ -1,6 +1,6 @@
 133/A. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
-1. a rendszerhasználati díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, valamint a rendszerhasználati díjak alkalmazásának feltételeit,
+1. a rendszerhasználati díjakat, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakat, a megszakítható kapacitások felajánlhatóságának, valamint a rendszerhasználati díjak alkalmazásának feltételeit,
 
 2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait,
 
@@ -10,4 +10,8 @@
 
 5. a rendszeregyensúlyozásra vonatkozó módszertant, részletszabályokat, különös tekintettel a rendszerüzemeltetői adatszolgáltatásokra, kiegyensúlyozási szolgáltatásokra, operatív egyensúlytartásra, napon belüli kötelezettségekre, vezetékkészletből nyújtott rugalmassági szolgáltatásra vonatkozóan,
 
-6. a rendszer-összekötési pontokra vonatkozó szabályok alkalmazhatóságát a harmadik országok felől való betáplálási pontokra és a harmadik országok felé való kiadási pontokra.
+6. a rendszer-összekötési pontokra vonatkozó szabályok alkalmazhatóságát a harmadik országok felől való betáplálási pontokra és a harmadik országok felé való kiadási pontokra,
+
+7. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, az adatszolgáltatási kötelezettség határidejét, valamint a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket;
+
+8. az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;

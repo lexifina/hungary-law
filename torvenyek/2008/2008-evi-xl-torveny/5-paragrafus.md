@@ -8,7 +8,7 @@ c) a rendszerüzemeltetők és a rendszerhasználók megfelelő információval 
 
 d) a jóváhagyott 10 éves fejlesztési tervben meghatározott határkeresztező kapacitás kiépítése az európai szállítási infrastruktúrához való kapcsolódáshoz,
 
-e) megkülönböztetés-mentes hozzáférés biztosítása a rendszerhasználók vagy a rendszerhasználók csoportjai számára,
+e) a szállítóvezetékhez való megkülönböztetésmentes hozzáférés biztosítása a rendszerhasználók vagy a rendszerhasználók csoportjai számára,
 
 f) kapcsolattartás harmadik felekkel, a Hivatallal és az Európai Unió más tagállamainak energiapiaci szabályozó hatóságaival,
 

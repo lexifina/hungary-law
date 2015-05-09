@@ -7,3 +7,5 @@
 (4) A földgáztároló, a telephelyi szolgáltató, illetve a szervezett földgázpiaci engedélyes más e törvényben szabályozott működési engedéllyel nem rendelkezhet.
 
 (5) Az egyablakos kapacitásértékesítési működési engedély megadásának nem feltétele, hogy az engedélyes az egyablakos nemzetközi szállítóvezeték Magyarország államhatárán belüli szakaszának tulajdonosa, üzemeltetője vagy karbantartója legyen.
+
+(6) Az egyablakos kiszolgálású nemzetközi szállítóvezeték üzemeltetője a szállítóvezeték Magyarország államhatárán belüli szakaszát szállítási rendszerüzemeltetői engedély alapján működtetheti.

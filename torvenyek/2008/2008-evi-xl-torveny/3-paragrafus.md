@@ -12,13 +12,13 @@
 
 3. Csatlakozási szerződés: a szállítási rendszerüzemeltető vagy a földgázelosztó és a leendő felhasználó vagy a földgáztermelő között létrejött szerződés, amely biztosítja a felhasználó vagy a földgáztermelő szállító- vagy elosztóvezetékre történő csatlakozási jogát, az érintett csatlakozási ponton vásárolt kapacitás mértékét, valamint rögzíti a csatlakozás műszaki-gazdasági feltételeit.
 
-4. Csatlakozóvezeték: a felhasználási hely telekhatárától a fogyasztói főcsapig terjedő vezeték.
+4. Csatlakozóvezeték: a felhasználási helyet magába foglaló ingatlan telekhatárától, mint elosztói kiadási ponttól a fogyasztói főcsapig terjedő vezeték.
 
 5. Egyablakos kapacitásértékesítő: az a földgázipari vállalkozás, amely a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott engedély és az üzemeltetővel kötött jóváhagyott megállapodás alapján az egyablakos kiszolgálású nemzetközi földgázszállító-vezetéken két vagy több szállítási rendszerüzemeltető kapacitását értékesíti.
 
 6. Egyablakos kiszolgálású nemzetközi földgázszállító- vezeték: Magyarország és rajta kívül egy vagy több ország területét érintő – a hazai együttműködő földgázrendszernek részét nem képező – földgázszállító-vezeték, amelynek egy vagy több országot érintő szakaszára vonatkozóan egyetlen ügylettel lehet kapacitást lekötni.
 
-7. Egybefüggő telephely: a gázfelhasználó(k) tulajdonában, kezelésében vagy használatában lévő egybefüggő ingatlan, vagy bérlemény, ahol a gázfelhasználók felhasználói berendezése(i), és a gázfogyasztást szolgáló nyomásszabályozó(k), a gázmérőhely(ek) vagy a fogyasztói főcsap van. Egy telephely több felhasználási helyet is tartalmazhat.
+7. Egybefüggő telephely: telephelyi szolgáltatás esetén a gázfelhasználó tulajdonában, kezelésében vagy használatában lévő egybefüggő ingatlan, ahol a csatlakozóvezeték, a felhasználói berendezés, a gázfogyasztást szolgáló nyomásszabályozó, a gázmérőhely vagy a fogyasztói főcsap van. Egy telephely több felhasználási helyet is tartalmazhat.
 
 8. Egyetemes szolgáltatás: a jogosult felhasználók földgázellátására vonatkozó, e törvényben és külön jogszabályban meghatározott szolgáltatások értékesítése.
 
@@ -122,7 +122,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 46. Korlátozás: földgázellátási zavar esetén az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly fenntartható vagy helyreállítható legyen.
 
-47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
+47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a lakóépületet, mint felhasználót a közös fogyasztás vonatkozásában úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 
 48. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás.
 
@@ -170,7 +170,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 57. Telephelyi szolgáltatás: a telephelyi vezeték üzemeltetése és a vezetékhez kapcsolódó telephelyi felhasználók ellátásának biztosítása.
 
-58. Telephelyi vezeték: az egybefüggő telephelyen belül lévő telephelyi felhasználók földgázellátását szolgáló vezeték.
+58. Telephelyi vezeték: az egybefüggő telephelyen belül lévő földgázt vételező fogyasztók vagy telephelyi felhasználók földgázellátását szolgáló vezeték.
 
 59. Település: a Magyarország Helységnévtárában (a továbbiakban: helységnévtár) meghatározott központi belterületi egység az adott településnél nevesített egyéb belterület, és a nevesített külterület kivételével.
 

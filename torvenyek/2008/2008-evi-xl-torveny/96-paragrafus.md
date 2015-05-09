@@ -1,5 +1,7 @@
 96. § (1) Földgázellátási zavarnak minősül minden olyan, a 97. §-ban meghatározott földgázellátási válsághelyzetet el nem érő mértékű, jellemzően területi (regionális) zavar, amely az elosztó- és szállító hálózat, valamint a földgáztároló üzembiztonságát, szabályozhatóságát vagy együttműködő képességét súlyosan veszélyezteti, és amely következtében az együttműködő földgázrendszer egyensúlya csak egyes felhasználók földgázvételezésének korlátozásával biztosítható.
 
+(1a) A szállítóvezetéken bekövetkező földgázellátási zavar eredményeképpen az elosztóvezetéken keletező üzemzavar a földgázelosztó működési körén kívül eső földgázellátási zavarnak minősül. Ezen földgázellátási zavar megszüntetése érdekében a szállítási rendszerüzemeltető és a földgázelosztó köteles együttműködni.
+
 (2) A földgázellátási zavarra vonatkozó rendelkezések szerint kell eljárni a földgázellátási válsághelyzet kihirdetéséig minden olyan esemény esetén, amely legalább az (1) bekezdés szerinti feltételeknek megfelel.
 
 (3) Földgázellátási zavar esetén a rendszerhasználók az általuk megkötött szerződésekben foglalt jogoktól és kötelezettségektől függetlenül kötelesek a szállítási rendszerüzemeltető, valamint a földgázelosztó utasításait végrehajtani, és az ezáltal keletkező kárt – a (7) bekezdés szerinti kivétellel – viselni.

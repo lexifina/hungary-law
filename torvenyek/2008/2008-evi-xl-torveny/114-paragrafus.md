@@ -28,7 +28,7 @@ j) a szállítóvezeték-létesítő által történő szállítóvezeték-léte
 
 (3) Az e törvény szerinti engedélyköteles tevékenység csak működési engedély alapján végezhető.
 
-(4) A telephelyi szolgáltató jogosult telephelyi szolgáltatói engedélyt kérni. A telephelyi szolgáltatói engedély – a telephelyi felhasználók vonatkozásában – kiterjed a földgáz értékesítésre is, e jogosultság azonban nem kizárólagos jog.
+(4) A telephelyi vezetéken földgázt értékesítő gazdálkodó szervezet jogosult telephelyi szolgáltatói engedélyt kérni. A telephelyi szolgáltatói engedély – a telephelyi felhasználók vonatkozásában – kiterjed a telephelyi vezeték üzemeltetésére és a földgáz értékesítésre is, e jogosultság azonban nem kizárólagos jog.
 
 (5) Az engedély kérelmezőjének rendelkeznie kell a külön jogszabályban meghatározott pénzügyi és gazdasági feltételekkel.
 

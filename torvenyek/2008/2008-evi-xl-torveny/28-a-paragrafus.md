@@ -4,6 +4,10 @@
 
 (3) Ha az egyetemes szolgáltatásra jogosult nem lakossági fogyasztó fizetési kötelezettségének teljesítésével 30 napot meghaladó késedelembe esett, a földgázkereskedő kezdeményezheti a földgázelosztónál a felhasználási hely kikapcsolását. A kikapcsolásra és az azzal járó szolgáltatás-szüneteltetésre vonatkozó értesítést tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon kell az egyetemes szolgáltatásra jogosult nem lakossági fogyasztóval közölni.
 
+(3a) Az egyetemes szolgáltatásra nem jogosult felhasználó kikapcsolásának és visszakapcsolásának kezdeményezésére vonatkozó szabályokat a földgázkereskedő üzletszabályzata tartalmazza.
+
+(3b) A kikapcsolás felhasználónak felróható elmaradásából vagy késedelméből eredő földgáz-fogyasztás, valamint rendszerhasználat ellenértékét a kikapcsolásig a felhasználó köteles megfizetni.
+
 (4) A földgázkereskedő köteles a felhasználó elosztóhálózat-használati és földgáz-kereskedelmi szerződéseinek megbízottként történő összevont kezelésére, ha a felhasználó ezt kéri.
 
 (5) A földgázkereskedő és a földgázelosztó a (4) bekezdés szerinti kötelezettség teljesítése érdekében az üzletszabályzatukban meghatározott feltételek szerint megállapodást kötnek.

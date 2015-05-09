@@ -4,11 +4,11 @@
 
 ## Földgázszállítás
 
-4. § (1) A földgázszállítási tevékenység gyakorlásához a szállítási rendszerüzemeltetőnek rendelkeznie kell az általa üzemeltetett szállítóvezeték többségi tulajdonával. A többségi tulajdon meghatározásánál a szállítási rendszerüzemeltető által üzemeltetett teljes eszközvagyon könyv szerinti értékét kell figyelembe venni.
+4. § (1) A földgázszállítási tevékenység gyakorlásához a szállítási rendszerüzemeltetőnek – a 121/I. § szerinti eset kivételével – rendelkeznie kell az általa üzemeltetett szállítóvezeték tulajdonjogával.
 
 (2) A szállítási rendszerüzemeltetőnek rendelkeznie kell a földgázszállítási tevékenység gyakorlásához, valamint az e törvény szerinti kötelezettségei teljesítéséhez szükséges eszközökkel és műszaki, tárgyi, személyi, valamint pénzügyi erőforrásokkal, így különösen:
 
-a) mérő- és adatátviteli eszközökkel,
+a) a működési területéhez tartozó mérő- és adatátviteli eszközökkel,
 
 b) saját szervezetén belül a mérő- és adatátviteli eszközök folyamatos üzemeltetését, felügyeletét ellátó, valamint a szállítóvezeték karbantartását és az üzemzavar elhárítását irányító szervezeti egységekkel,
 
