@@ -12,9 +12,9 @@
 
 (7)
 
-(8) Az (1) bekezdés szerinti nyilatkozatot a tag a Szövetséghez elektronikus úton nyújtja be.
+(8) Az (1) bekezdés szerinti nyilatkozatot a tag a Szövetséghez elektronikus úton, illetve üzemszünet esetén az alapszabályban rögzített eljárásrendnek megfelelően nyújtja be.
 
-(9) A Szövetség a (8) bekezdés szerinti nyilatkozatot az adatok helytállóságának ellenőrzése érdekében elektronikusan megküldi a Nemzeti Adó- és Vámhivatalnak (a továbbiakban: NAV), amely az adatok helytállósága esetén a nyilatkozatot záradékolja és megküldi a Szövetség, valamint a Szövetségen keresztül a tag részére.
+(9) A Szövetség a (1) bekezdés szerinti nyilatkozatot az adatok helytállóságának ellenőrzése érdekében elektronikusan megküldi az illetékes adóhatóságnak, amely a nyilatkozatot záradékolja és megküldi a Szövetség, valamint a Szövetségen keresztül a tag részére. Üzemszünet esetén az illetékes adóhatóság elektronikus záradékolására az üzemszünet lezárását követően kerül sor.
 
 (9a) A NAV a záradékolt nyilatkozatokról – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 

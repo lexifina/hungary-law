@@ -1,1 +1,1 @@
-49/A. § Felhatalmazást kap a miniszter, hogy a kőolajtermékek ellenőrzéséhez és jelöléséhez szükséges rendszer működésének részletszabályait, valamint az ellenőrző jelölő anyag jellemzőit rendeletben állapítsa meg.
+49/A. §

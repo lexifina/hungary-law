@@ -6,16 +6,12 @@
 
 a) a biztonsági kőolaj- és földgázkészletezés,
 
-b) a 12. § (2) és (3) bekezdésében meghatározott feladat ellátásának, valamint
+b)
 
 c) a működésének várható ráfordításait.
 
 (4) A Szövetség a tagi hozzájárulásból eredő bevételét oly módon tervezi meg, hogy az – figyelembe véve a Szövetség egyéb jogcímen (nem a tagi hozzájárulásból származó) tervezett bevételeit – fedezze a (3) bekezdésben meghatározott, várható ráfordításokat.
 
-(5) A Szövetség az éves költségvetés alapján meghatározza a termékcsoportonkénti egységnyi tagi hozzájárulás mértékét, amelynek számítása a következők figyelembevételével történik:
-
-a) a tagi hozzájárulás termékcsoportonkénti egységnyi mértékének a 12. § (2) és (3) bekezdésében meghatározott feladat ellátásához szükséges része nem lehet kevesebb, mint a NAV által, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 82. § (2) bekezdésében foglaltak szerint közzétett, a költségvetés közgyűlés általi elfogadása évének első hat hónapjára alkalmazható havi üzemanyagár átlagának 1%-a;
-
-b) amennyiben a tagi hozzájárulás termékcsoportonkénti egységnyi mértékének az a) pont alapján számított részéből, tervezett bevétel több mint amennyi a 12. § (2) és (3) bekezdésében meghatározott feladatának ellátásához szükséges, a többlet figyelembe veendő a tagi hozzájárulás termékcsoportonkénti egységnyi mértékének végleges meghatározásánál.
+(5) A Szövetség az éves költségvetés alapján meghatározza a termékcsoportonkénti egységnyi tagi hozzájárulás mértékét.
 
 (6) A termékcsoportonkénti tagi hozzájárulás mértékét a miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.

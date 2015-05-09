@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-23-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2013-23-00-00.7 |
 | 2014-07-01 | 2013. évi CIII. törvény | 2013-23-00-00.8 |
 | 2014-07-04 | 2014. évi XXV. törvény | 2013-23-00-00.9 |
+| 2015-05-09 | 2015. évi LIII. törvény | 2013-23-00-00.10 |

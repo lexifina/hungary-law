@@ -112,6 +112,6 @@ c) amely kiskereskedők és végfelhasználók által fenntartott készleteket a
 
 d) amely katonai szervezet tulajdonában van, valamint katonai szervezet részére fenntartott;
 
-e) amelynek a kőolajtermék-gyártás vagy kőolaj esetén a készletre vétel dátumától számított életkora meghaladja a hat évet;
+e) amelynek a kőolajtermék-gyártás dátumától számított életkora meghaladja a hat évet;
 
 f) amelyet lefoglaltak, vagy végrehajtás alá vontak.

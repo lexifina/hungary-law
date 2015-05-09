@@ -24,7 +24,7 @@ hb) a készletállomány összetételére vonatkozó termékszerkezet-összetét
 
 hc) a készlet vagy annak része tulajdonjoga megállapíthatóságának és bírósági végrehajtás alóli mentességének biztosítása érdekében alkalmazandó jelölés módját,
 
-i) a kőolaj- és kőolajtermék készletek minőségének megőrzése céljából történő kőolaj és kőolajtermék cserélésének gyakoriságát, módját és rendszerét, a normatív veszteségre és annak pótlására vonatkozó előírásokat, továbbá a földgázkészletezés minőségellenőrzésére vonatkozó eljárását,
+i) a kőolaj- és kőolajtermék-készletek minőségének megőrzése céljából történő kőolaj és kőolajtermék cserélésének gyakoriságát, módját és rendszerét, a normatív veszteségre vonatkozó előírásokat,
 
 j) a tag és a Szövetség közötti elektronikus kapcsolattartás szabályait, valamint az üzemszüneti rendelkezéseket,
 
