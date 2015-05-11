@@ -1,135 +1,137 @@
 ## ALRENDSZEREK EK-HITELESÍTÉSI ELJÁRÁSA
 
-## 1. ÁLTALÁNOS ELVEK
+## 1. ÁLTALÁNOS ALAPELVEK
 
-## Egy alrendszer hitelesítési eljárása annak ellenőrzését és tanúsítását jelenti, hogy az alrendszer:
+## Az EK-hitelesítés egy, a 11. § értelmében vett kérelmező által végrehajtott eljárás, amely azt hivatott kimutatni, hogy egy alrendszer megfelel a vonatkozó uniós jogszabályokban foglalt követelményeknek, ezen belül a vonatkozó nemzeti szabályoknak, és az alrendszer üzembe helyezése engedélyezhető-e.
 
-## 1.1. tervezése, kivitelezése és beszerelése olyan módon történik, amely biztosítja a rá vonatkozó alapvető követelményeknek való megfelelést, valamint
-
-## 1.2. üzembe helyezését engedélyezték.
-
-## 2. EK-HITELESÍTÉSI ELJÁRÁS
+## 2. BEJELENTETT SZERVEZETEK ÁLTAL KIÁLLÍTOTT HITELESÍTÉSI TANÚSÍTVÁNY
 
 ## 2.1. Bevezetés
 
-## Az EK-hitelesítési eljárás során a bejelentett szervezet ellenőrzi és tanúsítja, hogy az alrendszer:
+## Ezen rendelet alkalmazásában az ÁME-kre való hivatkozás alapján történő hitelesítés az az eljárás, amelynek során egy bejelentett szervezet ellenőrzi és tanúsítja, hogy az alrendszer megfelel a vonatkozó átjárhatósági műszaki előírásoknak (ÁME).
 
-## 2.1.1. teljesít minden vonatkozó ÁME-t,
+## Ez nem érinti az ajánlatkérő vagy a gyártó (vagyis a 11. § értelmében vett kérelmező) azon kötelezettségét, hogy megfeleljen az Európai Unió működéséről szóló szerződésből eredő más vonatkozó jogszabályoknak, beleértve a más jogszabályok által előírt értékelő szervezet által végzett ellenőrzéseket.
 
-## 2.1.2. megfelel a Szerződésből eredő egyéb rendeleteknek.
+## 2.2. Közbenső hitelesítési nyilatkozat (ISV)
 
-## 2.2. Az alrendszer részei és szakaszok
+## 2.2.1. Alapelvek
 
-## 2.2.1. Közbenső hitelesítési nyilatkozat (ISV)
+## Az ajánlatkérő vagy gyártó (vagyis a 11. § értelmében vett kérelmező) kérésére a hitelesítés elkészíthető egy alrendszer részeire, vagy korlátozható a hitelesítési eljárás bizonyos szakaszaira. Ezen esetekben a hitelesítés eredményeit egy, az ajánlatkérő vagy gyártó (vagyis a 11. § értelmében vett kérelmező) által kiválasztott bejelentett szervezet által kiállított közbenső hitelesítési nyilatkozatban (a továbbiakban: ISV) lehet összefoglalni.
 
-## Amennyiben az ÁME-ben így van meghatározva, vagy adott esetben a kérelmező kérésére az alrendszert bizonyos részekre lehet felosztani, vagy az ellenőrzést a hitelesítési eljárás bizonyos szakaszaiban lehet végrehajtani.
-
-## A közbenső hitelesítési nyilatkozat (ISV) kiadására irányuló eljárása során a bejelentett szervezet ellenőrzi és tanúsítja az alrendszer bizonyos részeit vagy a hitelesítési eljárás bizonyos szakaszait.
-
-## Minden ISV egy közbenső EK-hitelesítési tanúsítványnak a kérelmező általi választott bejelentett szervezet általi kiadásához vezet, és a kérelmező adott esetben közbenső EK-nyilatkozatot is készíthet. Az ISV-tanúsítványnak és az ISV-nyilatkozatnak hivatkozniuk kell arra az ÁME-re, amely alapján a megfelelőséget értékelték.
+## A közbenső hitelesítési nyilatkozatban hivatkozásnak kell szerepelnie azokra az ÁME-kre, amelyek alapján a megfelelőséget értékelték.
 
 ## 2.2.2. Az alrendszer részei
 
-## A kérelmező minden részre vonatkozóan kérhet ISV-t. Az egyes részeket az egyes szakaszok során kell ellenőrizni a 2.2.3. szakaszban leírtak szerint.
+## A 11. § értelmében vett kérelmező az alrendszer bármely, általa meghatározott különálló részére kérhet ISV-t. Minden részt minden szakasz során ellenőrizni kell, a 2.2.3. pontban leírtak szerint.
 
 ## 2.2.3. A hitelesítési eljárás szakaszai
 
 ## Az alrendszeren vagy az alrendszer bizonyos részein a következő szakaszok mindegyikében ellenőrzést kell végrehajtani:
 
-## 2.2.3.1. általános tervezés,
+## a) általános tervezés;
 
-## 2.2.3.2. előállítás: az alrendszer kiépítése, ezen belül különösen az építőmérnöki tevékenységek, a gyártás, a rendszerelemek összeszerelése és az általános beállítások,
+## b) előállítás: az alrendszer kiépítése, ezen belül különösen az építőmérnöki tevékenységek, a gyártás, a rendszerelemek összeszerelése és az általános beállítások;
 
-## 2.2.3.3. végső ellenőrzés.
+## c) végső ellenőrzés.
 
-## A tervezési szakaszban (a típusvizsgálatokat is ideértve) és az előállítási szakaszban a kérelmező ISV-t kérhet.
+## A (11. § értelmében vett) kérelmező a tervezési szakaszban (a típusvizsgálatokat is ideértve) és az előállítási szakaszban kérhet ISV-t az egész alrendszerre, vagy bármely, általa meghatározott különálló részre (lásd 2.2.2. bekezdés).
 
-## 2.3. Ellenőrzési tanúsítvány
+## 2.3. Hitelesítési tanúsítvány
 
-## 2.3.1. Az EK-hitelesítésért felelős bejelentett szervezet értékeli az alrendszer konstrukcióját, előállítását és végső ellenőrzését, valamint kiállítja a kérelmező számára az EK-ellenőrzési tanúsítványt, majd a kérelmező állítja ki az EK-hitelesítési nyilatkozatot. Az EK-ellenőrzési tanúsítványnak hivatkoznia kell arra az ÁME-re, amely alapján a megfelelőséget értékelték.
+## 2.3.1. A hitelesítésért felelős bejelentett szervezetek értékelik az alrendszer konstrukcióját, előállítását és végső ellenőrzését, valamint kiállítják az ajánlatkérő vagy a gyártó (vagyis a 11. § értelmében vett kérelmező) számára a hitelesítési tanúsítványt, aki kiállítja az EK-hitelesítési nyilatkozatot. A hitelesítési tanúsítványban hivatkozásnak kell szerepelnie azokra az ÁME-kre, amelyek alapján a megfelelőséget értékelték.
 
-## Amennyiben nem vizsgálták egy alrendszer minden vonatkozó ÁME-nek való megfelelését (pl. eltérés, ÁME-k korszerűsítés vagy felújítás céljából történő részletes alkalmazása, ÁME-ban meghatározott különleges eset vagy átmeneti időszak esetében), az EK-tanúsítványnak pontos hivatkozást kell tartalmaznia azon ÁME-kre vagy részeikre, amelyekkel szemben a megfelelést a bejelentett szervezet nem vizsgálta az EK-hitelesítési eljárás során.
+## Amennyiben nem vizsgálták egy alrendszer minden vonatkozó ÁME-nek való megfelelését (pl. eltérés, ÁME-k korszerűsítés vagy felújítás céljából történő részletes alkalmazása, ÁME-ben meghatározott különleges eset vagy átmeneti időszak esetén), a hitelesítési tanúsítványnak pontos hivatkozást kell tartalmaznia azon ÁME-kre vagy részeikre, amelyek tekintetében a bejelentett szervezet a hitelesítési eljárás során nem vizsgálta a megfelelést.
 
-## 2.3.2. Amennyiben közbenső EK-hitelesítési tanúsítványt állítottak ki, az alrendszer EK-hitelesítéséért felelős bejelentett szervezet figyelembe veszi ezeket a közbenső EK-hitelesítési tanúsítványokat, és az EK-ellenőrzési tanúsítvány kiadása előtt:
+## 2.3.2. Amennyiben ISV-t állítottak ki, az alrendszer hitelesítéséért felelős bejelentett szervezet figyelembe veszi ezeket az ISV-ket, és a hitelesítési tanúsítványának kiadása előtt:
 
-## 2.3.2.1. ellenőrzi, hogy a közbenső EK-hitelesítési tanúsítványok pontosan kiterjednek-e az ÁME-követelményekre,
+## a) ellenőrzi, hogy az ISV-k pontosan kiterjednek-e a vonatkozó ÁME-követelményekre;
 
-## 2.3.2.2. ellenőrzi a közbenső EK-hitelesítési tanúsítványok által nem lefedett területeket, valamint
+## b) ellenőrzi az ISV-k által nem lefedett területeket; valamint
 
-## 2.3.2.3. ellenőrzi a teljes alrendszer végső ellenőrzését.
+## c) ellenőrzi a teljes alrendszer végső ellenőrzését.
 
-## 2.4. Műszaki dokumentáció
+## 2.3.3. Egy hitelesítési tanúsítvánnyal már rendelkező alrendszer módosítása esetén a bejelentett szervezet csak a releváns és szükséges vizsgálatokat és teszteket végzi el, vagyis az értékelés csak az alrendszer módosított részeire, illetve azoknak az alrendszer nem módosított részeihez való interfészeire terjed ki.
 
-## Az EK-hitelesítési nyilatkozatot kísérő műszaki dokumentációnak a következőket kell tartalmaznia:
+## 2.3.4. Minden, egy alrendszer hitelesítésében részt vevő bejelentett szervezet műszaki dokumentációt készít tevékenységeinek köréről.
 
-## 2.4.1. a tervezéshez kapcsolódó műszaki jellemzők, beleértve az érintett alrendszerre vonatkozó, a kivitelezéssel megegyező általános és részletes tervrajzok, elektromos kapcsolási rajzok és a hidraulikus rendszer rajzai, vezérlőáramköri ábrák, adatfeldolgozó és automatikus rendszerek leírása, üzemeltetési és karbantartási dokumentáció stb.,
+## 2.4. Az EK-hitelesítési nyilatkozatot kísérő műszaki dokumentáció
 
-## 2.4.2. az alrendszerbe beépített kölcsönös átjárhatóságot lehetővé tevő rendszerelemek listája,
+## Az EK-hitelesítési nyilatkozatot kísérő műszaki dokumentációt a (11. § értelmében vett) kérelmezőnek kell összeállítania, és annak tartalmaznia kell a következőket:
 
-## 2.4.3. az EK-megfelelőségi vagy alkalmazhatósági nyilatkozatok példánya, amelyekkel a fent említett rendszerelemeket e rendelet 7. §-a értelmében el kell látni, mellékelve hozzá, adott esetben, a vonatkozó számítási feljegyzéseket és a közös műszaki előírások alapján a bejelentett szervezetek által elvégzett próbákról és vizsgálatokról felvett jegyzőkönyveket,
+## a) a tervezéshez kapcsolódó műszaki jellemzők, ezen belül az érintett alrendszerre vonatkozó általános és részletes kivitelezési tervrajzok, elektromos kapcsolási rajzok és a hidraulikus rendszer rajzai, vezérlőáramköri ábrák, az adatfeldolgozó és automatikus rendszerek leírása olyan részletességgel, ami elegendő a végrehajtott megfelelőség-ellenőrzés dokumentálására, üzemeltetési és karbantartási dokumentáció stb.;
 
-## 2.4.4. ha rendelkezésre áll, a közbenső EK-tanúsítványok és – adott esetben – az EK-ellenőrzési tanúsítványt kísérő alrendszer megfelelőségére vonatkozó közbenső EK-nyilatkozat(ok), ideértve az érvényességüket illetően a bejelentett szervezet által végzett ellenőrzés eredményét is,
+## b) az alrendszerbe beépített, a kölcsönös átjárhatóságot lehetővé tevő rendszerelemek listája, c) az alrendszer hitelesítésében részt vevő minden bejelentett szervezet által összeállított műszaki dokumentációk, amelynek a következőket kell tartalmaznia:
 
-## 2.4.5. az EK-hitelesítésért felelős bejelentett szervezet által ellenjegyzett, a megfelelő számítási feljegyzésekkel kísért EK-ellenőrzési tanúsítvány, amely igazolja, hogy az alrendszer megfelel a vonatkozó ÁME-k előírásainak, és tartalmazza az esetleges, a tevékenységek végrehajtása során észrevételezett és vissza nem vont fenntartásokat; az EK-ellenőrzési tanúsítványhoz mellékelni kell az ugyanezen szervezet által a 2.5.3. és 2.5.4. szakaszban meghatározottak szerint a szervezet saját feladatkörében elkészített ellenőrzési, illetve vizsgálati jelentést,
+## – az EK-megfelelőségi nyilatkozatok, valamint adott esetben a kölcsönös átjárhatóságot lehetővé tevő rendszerelemekhez kiállított EK-alkalmazhatósági nyilatkozat példányai, csatolva hozzá, adott esetben, a vonatkozó számítási feljegyzéseket és a közös műszaki előírások alapján a bejelentett szervezetek által elvégzett próbákról és vizsgálatokról felvett jegyzőkönyvek,
 
-## 2.4.6. a Szerződésből eredő egyéb jogszabályokkal összhangban kiadott EK-tanúsítványok,
+## – ha rendelkezésre áll, a hitelesítési tanúsítványt kísérő ISV, ideértve az ISV érvényességét illetően a bejelentett szervezet által végzett ellenőrzés eredményét is,
 
-## 2.4.7. amennyiben a 352/2009/EK bizottsági határozat szerinti biztonságos integrációt írnak elő, a kérelmezőnek a műszaki dokumentációban mellékelnie kell a kockázatértékelésre vonatkozó közös biztonsági módszerekről szóló vizsgálati jelentést.
+## – a hitelesítésért felelős bejelentett szervezet által ellenjegyzett, a megfelelő számítási feljegyzésekkel kísért hitelesítési tanúsítvány, amely igazolja, hogy az alrendszer megfelel a vonatkozó ÁME-k előírásainak, és tartalmazza az esetleges, a tevékenységek végrehajtása során észrevételezett és vissza nem vont fenntartásokat; a hitelesítési tanúsítványhoz csatolni kell az ugyanezen szervezet által a 2.5.2. és 2.5.3. pontokban meghatározottak szerint saját feladatkörben elkészített ellenőrzési, illetve vizsgálati jelentéseket;
 
-## 2.5. Ellenőrzés
+## d) az Európai Unió működéséről szóló szerződésből eredő egyéb jogszabályokkal összhangban kiadott ellenőrzési tanúsítványok;
 
-## 2.5.1. Az EK-ellenőrzés célja annak biztosítása, hogy az alrendszer előállítása során a műszaki dokumentációból származó kötelezettségeket betartsák.
+## e) amennyiben ellenőrizni kell a biztonságos integrációt, a vonatkozó műszaki dokumentációhoz csatolni kell a kockázatértékelésre vonatkozó közös biztonsági módszerekről szóló vizsgálati jelentést.
 
-## 2.5.2. A gyártás ellenőrzéséért felelős bejelentett szervezetnek állandó hozzáférést kell biztosítani minden építési területhez, gyártóüzemhez, raktárterülethez, az esetleges előgyártási műhelyekhez, kísérleti berendezésekhez, illetve általánosságban minden olyan helyiséghez, amely esetében ezt szükségesnek ítéli meg feladatának végrehajtásához. A kérelmező köteles benyújtani a bejelentett szervezetnek az összes, ezt a célt szolgáló dokumentumot, elsősorban az alrendszerre vonatkozó műszaki dokumentációt és kivitelezési terveket.
+## 2.5. Bejelentett szervezetek általi felügyelet
 
-## 2.5.3. A vonatkozó ÁME-knek való megfelelés érdekében a megvalósítás ellenőrzéséért felelős bejelentett szervezet időszaki felülvizsgálatot köteles végezni. Köteles felülvizsgálati beszámolót benyújtani a kivitelezésért felelős személyek felé. A szervezetnek az építési műveletek bizonyos szakaszainál jelen kell lennie.
+## 2.5.1. A gyártás ellenőrzéséért felelős bejelentett szervezetnek állandó hozzáférést kell biztosítani minden építési területhez, gyártóüzemhez, raktárterülethez, az esetleges előgyártási műhelyekhez vagy kísérleti berendezésekhez, illetve általánosságban minden olyan helyiséghez, amely esetében ezt szükségesnek ítéli meg feladatának végrehajtásához. Az ajánlatkérő vagy a gyártó (vagyis a 11. § értelmében vett kérelmező) a bejelentett szervezetnek köteles benyújtani az összes, ezt a célt szolgáló dokumentumot, elsősorban az alrendszerre vonatkozó kivitelezési terveket és műszaki dokumentációt.
 
-## 2.5.4. Ezen kívül a bejelentett szervezet előzetes bejelentés nélkül is felkeresheti a munkaterületet vagy a gyártóüzemeket. Az ilyen látogatások idején a bejelentett szervezet teljes vagy részleges felülvizsgálatot végezhet. A kivitelezés felelősei felé vizsgálati jelentést, illetve az esettől függően felülvizsgálati beszámolót kell benyújtania.
+## 2.5.2. A vonatkozó ÁME-knek való megfelelés érdekében a megvalósítás ellenőrzéséért felelős bejelentett szervezet rendszeresen vizsgálatot köteles végezni. Erről vizsgálati jelentést kell benyújtania a kivitelezésért felelős személyek részére. A szervezetnek az építési műveletek bizonyos szakaszainál jelen kell lennie.
 
-## 2.5.5. A 3. melléklet 2. szakaszában említett felhasználásra vonatkozó EK-alkalmazhatósági nyilatkozat kiadása érdekében a bejelentett szervezetnek nyomon kell tudnia követni azokat az alrendszereket, amelyekre kölcsönös átjárhatóságot lehetővé tevő rendszerelemet szereltek fel az alrendszernek a tervezett vasúti környezetben történő használatra való alkalmasságának a megvizsgálására, ha a megfelelő ÁME így rendelkezik.
+## 2.5.3. Ezenkívül a bejelentett szervezet előzetes bejelentés nélkül is felkeresheti a munkaterületet vagy a gyártóüzemeket. Az ilyen látogatások idején a bejelentett szervezet teljes vagy részleges vizsgálatot végezhet. A kivitelezés felelősei felé ellenőrzési, illetve az esettől függően vizsgálati jelentést kell benyújtania.
 
-## 2.6. Adatok beküldése
+## 2.5.4. A bejelentett szervezetnek nyomon kell tudnia követni azokat az alrendszereket, amelyekre kölcsönös átjárhatóságot lehetővé tevő rendszerelemet szereltek fel, annak vizsgálata céljából – amennyiben a vonatkozó ÁME így rendelkezik –, hogy az alrendszer alkalmas-e a tervezett vasúti környezetben történő használatra.
 
-## Az illetékes bejelentett szervezet által kiadott közbenső EK-tanúsítványok – amennyiben léteznek ilyenek – alátámasztása, vagy az alrendszer EK-hitelesítéséért felelős bejelentett szervezet által kiadott ellenőrzési tanúsítvány alátámasztása céljából, a kérelmezőnek a 2.4. szakaszban említett teljes dokumentációt be kell nyújtania. A dokumentációt mellékelni kell az EK-hitelesítési nyilatkozathoz, amelyet a kérelmező ahhoz az illetékes hatósághoz nyújt be, amelyhez a forgalomba helyezés engedélyezésére vonatkozó kérelmet is benyújtja.
+## 2.6. A dokumentáció átadása
 
-## A dokumentációból egy példányt a kérelmező köteles megtartani az alrendszer teljes élettartama alatt. Kérésre bármely más tagállamnak el kell küldeni a dokumentációt.
+## Az EK-hitelesítési nyilatkozatot kísérő műszaki dokumentáció egy példányát a gyártó vagy az ajánlatkérő (vagyis a 11. § értelmében vett kérelmező) az alrendszer teljes élettartama alatt köteles megőrizni. A dokumentációt kérésre bármely tagállam részére el kell juttatni.
+
+## Az üzembehelyezési engedély iránti kérelemben benyújtott dokumentációt azon tagállam nemzeti biztonsági hatóságához kell benyújtani, ahol az engedélyezést kérik. A nemzeti biztonsági hatóság kérheti, hogy az engedéllyel együtt benyújtott dokumentumok egyes részeit lefordítsák a saját nyelvére.
 
 ## 2.7. Közzététel
 
 ## Minden bejelentett szervezet köteles rendszeresen közzétenni a vonatkozó információkat a következőkről:
 
-## 2.7.1. beérkezett EK-hitelesítés és ISV iránti kérelmek,
+## a) a hitelesítés és ISV iránti beérkezett kérelmek;
 
-## 2.7.2. a kölcsönös átjárhatóságot lehetővé tevő rendszerelemekre vonatkozó megfelelőségi vagy használatra való alkalmassági értékelés iránti kérelmek,
+## b) a kölcsönös átjárhatóságot lehetővé tevő rendszerelemekre vonatkozó megfelelőségi vagy használatra való alkalmassági értékelés iránti kérelmek;
 
-## 2.7.3. kiadott vagy elutasított közbenső EK-hitelesítési tanúsítványok,
+## c) a kiadott vagy elutasított ISV;
 
-## 2.7.4. kiadott vagy elutasított megfelelőségi vagy használatra való alkalmassági EK-tanúsítványok,
+## d) a kiadott vagy elutasított megfelelőségi nyilatkozatok és a használatra való alkalmasságra vonatkozó EK-tanúsítványok;
 
-## 2.7.5. kiadott vagy elutasított EK-hitelesítési tanúsítványok.
+## e) a kiállított vagy elutasított hitelesítési tanúsítványok.
 
 ## 2.8. Nyelv
 
-## Az EK-hitelesítési eljárásokkal kapcsolatos dokumentációkat és a levelezést annak a tagállamnak a hivatalos, az Európai Unió hivatalos nyelvei között szereplő nyelvén kell elkészíteni, illetve folytatni, amelyben a kérelmező letelepedett, vagy az Európai Uniónak a kérelmező elfogadott valamelyik hivatalos nyelvén.
+## Az EK-hitelesítési eljárással kapcsolatos dokumentációkat és levelezést annak a tagállamnak a hivatalos, az EU hivatalos nyelvei között szereplő nyelvén kell elkészíteni, illetve folytatni, ahol az ajánlatkérő vagy a gyártó (vagyis a 11. § értelmében vett kérelmező) letelepedett, vagy pedig az Uniónak az ajánlatkérő vagy a gyártó (vagyis a 11. § értelmében vett kérelmező) által elfogadott valamelyik hivatalos nyelvén.
 
-## 3. HITELESÍTÉSI ELJÁRÁS A NEMZETI SZABÁLYOK ESETÉBEN
+## 3. KIJELÖLT SZERVEZET ÁLTAL KIÁLLÍTOTT HITELESÍTÉSI TANÚSÍTVÁNY
 
 ## 3.1. Bevezetés
 
-## A nemzeti szabályok esetében alkalmazott hitelesítési eljárás során a bejelentett szervezet ellenőrzi és tanúsítja, hogy az alrendszer megfelel e rendelet 10. §-a szerint bejelentett, a hatóság által jegyzékbe foglalt műszaki előírásoknak (a továbbiakban: műszaki előírások).
+## Abban az esetben, ha nemzeti szabályok alkalmazandók, a hitelesítés része egy olyan eljárás, amelynek során a kijelölt szervezet (a kijelölt szervezet) ellenőrzi és tanúsítja, hogy az alrendszer megfelel e rendelet 10. §-a szerint bejelentett, a hatóság által jegyzékbe foglalt műszaki előírásoknak (a továbbiakban: műszaki előírások).
 
-## 3.2. Ellenőrzési tanúsítvány
+## 3.2. Hitelesítési tanúsítvány
 
-## A műszaki előírások alkalmazása esetén követendő hitelesítési eljárás lefolytatásért felelős kijelölt szervezet állítja ki a kérelmező számára az EK-ellenőrzési tanúsítványt.
+## A kijelölt szervezet elkészíti az ajánlatkérőnek vagy a gyártónak (vagyis a 11. § értelmében vett kérelmezőnek) szánt hitelesítési tanúsítványt.
 
-## A tanúsítvány pontos hivatkozást tartalmaz azon műszaki előírásokra, amelyek megfelelését a bejelentett szervezet az EK-hitelesítési eljárás során vizsgálta, beleértve azokat is, amelyek eltérés, ÁME alóli mentesség, illetve korszerűsítés vagy felújítás hatálya alatt álló részekre vonatkoznak.
+## A tanúsítvány pontos hivatkozást tartalmaz azon műszaki előírásokra, amelyek megfelelését a kijelölt szervezet a hitelesítési eljárás során megvizsgálta.
 
-## Amennyiben a műszaki előírások egy járművet alkotó alrendszerekre vonatkoznak, a kijelölt szervezet két részre osztja fel a tanúsítványt: az egyik rész a jármű és a kapcsolódó hálózat közötti műszaki összeegyeztethetőséghez szigorúan kapcsolódó műszaki előírásokra való hivatkozásokat tartalmazza, a másik pedig az összes többi műszaki előírást.
+## Amennyiben a nemzeti szabályok egy járművet alkotó alrendszerekre vonatkoznak, a kijelölt szervezet két részre osztja fel a tanúsítványt: az egyik rész a jármű és a kapcsolódó hálózat közötti műszaki összeegyeztethetőséghez szigorúan kapcsolódó műszaki előírásokra való hivatkozásokat tartalmazza, a másik pedig az összes többi műszaki előírást.
 
 ## 3.3. Műszaki dokumentáció
 
-## A műszaki előírások alkalmazása esetén követendő hitelesítési eljárás tanúsítványát kísérő műszaki dokumentációnak a 2.4. szakaszban említett műszaki dokumentáció részét kell képeznie, és tartalmaznia kell az alrendszer műszaki előírásoknak való megfelelésének értékelésére vonatkozó műszaki adatokat.
+## A műszaki előírások alkalmazása esetén követendő hitelesítési eljárás tanúsítványát kísérő, a kijelölt szervezet által elkészített műszaki dokumentációnak a 2.4. pontban említett, az EK-hitelesítési nyilatkozatot kísérő műszaki dokumentáció részét kell képeznie, és tartalmaznia kell az alrendszer műszaki előírásoknak való megfelelésének értékelésére vonatkozó műszaki adatokat.
 
-5. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^20]
+## 3.4. Nyelv
 
-[^20]: Az 5. melléklet a 8/2012. (II. 15.) NFM rendelet 4. § (3) bekezdésével megállapított szöveg.
+## Az EK-hitelesítési eljárással kapcsolatos dokumentációkat és levelezést annak a tagállamnak a hivatalos, az EU hivatalos nyelvei között szereplő nyelvén kell elkészíteni, illetve folytatni, ahol az ajánlatkérő vagy a gyártó (vagyis a 11. § értelmében vett kérelmező) letelepedett, vagy pedig az Uniónak az ajánlatkérő vagy a gyártó (vagyis a 11. § értelmében vett kérelmező) által elfogadott valamelyik hivatalos nyelvén.
+
+## 4. ALRENDSZEREK RÉSZEINEK HITELESÍTÉSE
+
+## Ha egy alrendszer bizonyos részeire vonatkozó hitelesítési tanúsítvány kerül kiállításra, ezen melléklet rendelkezései értelemszerűen alkalmazandók ezen részekre.
+
+5. melléklet a 30/2010. (XII. 23.) NFM rendelethez[^19]
+
+[^19]: Az 5. melléklet a 22/2015. (V. 6.) NFM rendelet 6. § b) pontjával megállapított szöveg.
