@@ -1,23 +1,23 @@
 ## 15. A képzésben részt vevő alapvizsgára bocsátásának feltételei
 
-18. § (1)[^37] A képzésben részt vevő akkor bocsátható alapvizsgára, ha a képzőszervezet őt a vizsgaközpontnak vizsgára bejelentette és a vizsga díját megfizette..
+18. §[^50] (1) A képzésben résztvevő akkor bocsátható alapvizsgára, ha a képzőszervezet őt a vizsgaközpontnak vizsgára bejelentette és a vizsga díját megfizette.
 
-(2) A képzőszervezet akkor jelenti be a képzésben részt vevőt vizsgára, ha a képzésben részt vevő:
+(2) Az alapképzést követő első alapvizsga esetében a képzőszervezet a vizsga tervezett időpontja előtt legkésőbb a 10. munkanapig a vizsgázók névsoráról és adatairól szóló (a vizsgabejelentő adattartalmával megegyező) tájékoztatót küld a vizsgaközpontnak. Ezt követően a képzőszervezet a vizsgabejelentéseket a vizsga tervezett időpontja előtt legkésőbb a 2. munkanapig megküldi a vizsgaközpontnak. Tájékoztató hiányában a vizsgabejelentésnek a vizsga tervezett időpontja előtt legkésőbb a 10. munkanapig kell beérkeznie a vizsgaközpontba, a vizsgabejelentés beérkezését követő 9 munkanapon belül vizsgaidőpont nem jelölhető ki. A vizsgabejelentéssel kapcsolatos módosítások a vizsga tervezett időpontját megelőző 5. munkanapig kérhetők, amelyeket a vizsgaközpont új bejelentésként kezel. A vizsga törlése a vizsga tervezett időpontját megelőző 5. munkanapig kérhető.
 
-a) hiányzása nem haladta meg a 12. § (6) bekezdésben előírt mértéket és
+(3) A képzőszervezet akkor jelenti be a képzésben résztvevőt vizsgára, ha a képzésben résztvevő:
 
-b) a képzési programban előírt beszámolási kötelezettségét teljesítette.
+a) hiányzása nem haladta meg a 12. § (6) bekezdésben előírt mértéket,
 
-(3) A képzésben részt vevőt az alapvizsgán abból a tantárgyból felmentés illeti meg, amelyből
+b) a képzési programban előírt beszámolási kötelezettségét teljesítette,
 
-a) az alapvizsgát megelőző egy éven belül sikeres vizsgát tett, vagy
+c) megfelelt a 12. §-ban meghatározott képzésben részvétel feltételeinek, és
 
-b) egy évnél régebben sikeres vizsgát tett, és az időszakos oktatásokon igazoltan részt vett, valamint érvényes időszakos vizsgával rendelkezik.
+d) az előírt számonkérések és gyakorlatok követelményeit teljesítette.
 
-(4) Az alapvizsga egyes tárgyai alóli felmentésre való jogosultságot a vizsgaközpont állapítja meg.
+(4) Az alapvizsga egyes részei alóli felmentésre való jogosultságot a vizsgaközpont állapítja meg.
 
 (5) Az alapvizsga alól mentesítés nem adható.
 
-(6) A képzésben részt vevő indokolt esetben az alapvizsga halasztását kérheti. A halasztás iránti kérelmet a vizsgaközpont akkor fogadja el, ha a képzésben részt vevő rajta kívülálló okból kéri a halasztást. Az engedélyezett halasztás időtartama az egy évet nem haladhatja meg.
+(6) A képzésben résztvevő indokolt esetben az alapvizsga halasztását kérheti. A halasztás iránti kérelmet a vizsgaközpont akkor fogadja el, ha a képzésben résztvevő rajta kívülálló okból kéri a halasztást. Az engedélyezett halasztás időtartama az egy évet nem haladhatja meg.
 
-[^37]: A 18. § (1) bekezdése az 5/2013. (II. 12.) NFM rendelet 22. § f) pontja szerint módosított szöveg.
+[^50]: A 18. § a 22/2015. (V. 6.) NFM rendelet 18. §-ával megállapított szöveg.

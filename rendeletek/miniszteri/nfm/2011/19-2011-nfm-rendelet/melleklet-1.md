@@ -1,4 +1,4 @@
-1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^79]
+1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^114]
 
 ## A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
 
@@ -232,7 +232,7 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 105. | Fordítókorong-kezelő | A fordítókorong üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
 
-| 106. | Vasúti járműves darukezelő | Vasúti járművek rendkívüli esetben történő mozgatása daruval, vagy hidraulikus emelő berendezés kezelésével. |
+| 106. |  |  |
 
 | Vasúti járművezető munkakörök, feladatkörök (normál- és széles nyomtávú járművek esetében) |
 
@@ -438,6 +438,8 @@ II. Elővárosi és helyi vasúti pályahálózat
 
 | 14. | Elektrikus | Pályán keletkezett – forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a pályán telepített villamos berendezések hibáinak közvetlen feltárása, ideiglenes, vagy végleges javítása, szakfelügyelet adása. |
 
+| 14/A. | Felsővezeték szerelő | Felső vezetékek felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
+
 | 15. | Blokkmester (beosztott blokkmester) | A vasúti biztosítóberendezés (tabulátor) műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A biztosítóberendezések felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
 
 | 16. | Biztosítóberendezési művezető |
@@ -465,6 +467,8 @@ II. Elővárosi és helyi vasúti pályahálózat
 | 26. | Vonalgondozó |
 
 | 27. | Előmunkás |
+
+| 27/A. | Pályamunkás | A vasúti pályaszakaszon történő munkavégzés során a pálya és tartozékain (sín, kapcsolószer, kitérők, vágánykapcsolatok, hegesztések, aljak, ágyazat) végzett tevékenységek megfelelő műszaki színvonalon történő elvégeztetése, illetve a hiányosságok feltárása, helyreállítása a zavartalan vasúti forgalom biztosítása érdekében. |
 
 | 28. | Művezető | A forgalom és feszültség alattinak tekintendő pályán keletkezett, forgalmat akadályozó üzemzavarok feltárása, megszüntetése. Az ismételt forgalomba helyezés műszaki feltételeinek helyszíni biztosítása, a munkálatok szakterületi irányítása. |
 
@@ -856,4 +860,4 @@ III. Egysínű függővasúti pálya
 
 IV. Valamennyi pályahálózat
 
-[^79]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^114]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés a) pontja és 40. § d) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ bb) a képzés helyszínét,
 
 bc) a képzés megkezdésének és befejezésének időpontját, a képzési napok megjelölésével
 
-bd)[^21] a képzésen részt vevőknek a szálláshely biztosítására vonatkozó igények teljesítésére vonatkozó tájékoztatást,
+bd)[^31] a képzésen részt vevőknek a szálláshely biztosítására vonatkozó igények teljesítésére vonatkozó tájékoztatást,
 
 legkésőbb az alapképzés megkezdését megelőző hetedik napig a vizsgaközpontnak bejelentette.
 
@@ -20,4 +20,4 @@ legkésőbb az alapképzés megkezdését megelőző hetedik napig a vizsgaközp
 
 (3) A vizsgaközpont az általa engedélyezett képzési program végrehajtását ellenőrizheti.
 
-[^21]: A 11. § (1) bekezdés b) pont bd) alpontját az 5/2013. (II. 12.) NFM rendelet 6. §-a iktatta be.
+[^31]: A 11. § (1) bekezdés b) pont bd) alpontját az 5/2013. (II. 12.) NFM rendelet 6. §-a iktatta be.

@@ -16,18 +16,28 @@
 
 7. vizsgabizottság: a vasúti vizsgaközpont által kijelölt vizsgabiztosokból álló testület;
 
-8. vizsgabiztos: a közlekedési hatóság által névjegyzékbe vett, a vasúti vizsgaközpont által kijelölt vizsgáztató, aki az alap- és időszakos vizsgáztatást végzi;
+8.[^2] vizsgabiztos: a vasúti közlekedési hatóság (a továbbiakban: hatóság) által névjegyzékbe vett, a vasúti vizsgaközpont által kijelölt vizsgáztató, aki az alap- és időszakos vizsgáztatást végzi;
 
-9.[^2] felügyelet alatti munkavégzés: a kiképzett vagy kiképzés alatt álló munkavállalónak az önálló munkavégzésre történő beosztása előtt az erre kijelölt, gyakorlati oktatást végző vasútszakmai oktató felügyeletében történő foglalkoztatása, amelynek célja a képzés során szerzett ismeretek, valamint a helyi ismeretek készségszintű elsajátítása;
+9.[^3] felügyelet alatti munkavégzés: a kiképzett vagy kiképzés alatt álló munkavállalónak az önálló munkavégzésre történő beosztása előtt az erre kijelölt, gyakorlati oktatást végző vasútszakmai oktató felügyeletében történő foglalkoztatása, amelynek célja a képzés során szerzett ismeretek, valamint a helyi ismeretek készségszintű elsajátítása;
 
-10.[^3] gyakorlati képzés: az elméleti képzés mellett vagy azt követő képzés, amely az elméleti ismeretek gyakorlati bemutatását, megértését és alkalmazását segíti elő üzemi vagy kísérleti szimulációs körülmények között.
+10.[^4] gyakorlati képzés: az elméleti képzés mellett vagy azt követő képzés, amely az elméleti ismeretek gyakorlati bemutatását, megértését és alkalmazását segíti elő üzemi vagy kísérleti szimulációs körülmények között.
 
-11.[^4] országos vasúti pályahálózaton vonatokat közlekedtető vasúti járművezető: az a vasúti járművezető, aki normál vagy széles nyomtávú országos, térségi vasúti pályahálózaton közlekedik;
+11.[^5] országos vasúti pályahálózaton vonatokat közlekedtető vasúti járművezető: az a vasúti járművezető, aki normál vagy széles nyomtávú országos, térségi vasúti pályahálózaton közlekedik;
 
-12.[^5] pályahálózat lényeges jellemzői: a nyomvonal, a jelző- és biztosítóberendezések, az energiaellátás, a vasúti távközlő berendezések, szolgálati helyek, valamint a vágánykapcsolatok.
+12.[^6] pályahálózat lényeges jellemzői: a nyomvonal, a jelző- és biztosítóberendezések, az energiaellátás, a vasúti távközlő berendezések, szolgálati helyek, valamint a vágánykapcsolatok;
+
+13.[^7] eltérés alapvizsga: a megváltozott biztonsági szabályokra vonatkozó alapképzést követő vizsga;
+
+14.[^8] gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
+
+15.[^9] képzési központ: az alapképzés végzésére jogosult olyan szervezet, amelynek a hatóság tanfolyamok szervezését engedélyezte.
 
 [^1]: A 2. § 3. pontja a 10/2012. (II. 15.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 9. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
-[^3]: A 2. § 10. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
-[^4]: A 2. § 11. pontját az 5/2013. (II. 12.) NFM rendelet 1. §-a iktatta be.
-[^5]: A 2. § 12. pontját az 5/2013. (II. 12.) NFM rendelet 1. §-a iktatta be.
+[^2]: A 2. § 8. pontja a 22/2015. (V. 6.) NFM rendelet 39. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 9. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § 10. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 2. § 11. pontját az 5/2013. (II. 12.) NFM rendelet 1. §-a iktatta be.
+[^6]: A 2. § 12. pontját az 5/2013. (II. 12.) NFM rendelet 1. §-a iktatta be.
+[^7]: A 2. § 13. pontját a 22/2015. (V. 6.) NFM rendelet 8. §-a iktatta be.
+[^8]: A 2. § 14. pontját a 22/2015. (V. 6.) NFM rendelet 8. §-a iktatta be.
+[^9]: A 2. § 15. pontját a 22/2015. (V. 6.) NFM rendelet 8. §-a iktatta be.

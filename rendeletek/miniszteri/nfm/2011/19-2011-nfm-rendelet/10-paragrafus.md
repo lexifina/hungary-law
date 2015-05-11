@@ -1,7 +1,7 @@
 ## 8. Az alapképzés tárgyi feltételei
 
-10. § (1) Az alapképzéshez a képzőszervezet biztosítja a felnőttképzést folytató intézmények intézmény-akkreditációjára vonatkozó, külön jogszabályban meghatározott tárgyi feltételeket.
+10. §[^30] (1) Az alapképzéshez a 8. mellékletben meghatározott tárgyi feltételeket a képzőszervezet biztosítja.
 
-(2) A képzési program alapján a gyakorlati képzéshez biztosítani kell a képzés szakterületének megfelelő eszközöket, berendezéseket, alkalmas járműveket, vasúti járművek javítását végző helyet, tanműhelyt, vasúti pályát és szolgálati helyiséget vagy azok használati lehetőségét.
+(2) Az 8. mellékletben meghatározott tárgyi feltételeknek a képzési engedély kiadásakor és az adott alapképzés tartama alatt rendelkezésre kell állniuk.
 
-(3) Az (1)–(2) bekezdésben meghatározott feltételeknek a képzési engedély kiadásakor és az adott alapképzés tartama alatt rendelkezésre kell állniuk.
+[^30]: A 10. § a 22/2015. (V. 6.) NFM rendelet 13. §-ával megállapított szöveg.

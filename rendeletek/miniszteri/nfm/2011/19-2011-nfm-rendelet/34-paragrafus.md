@@ -1,4 +1,6 @@
-34. § (1)[^59] A sikeres alapvizsga eredményéről a vizsgaközpont a vizsgázó részére vizsgaigazolást ad, amely alapján a hatóság – ha a vasúti járművezetői engedélyről és vasúti járművezetői tanúsítványról szóló miniszteri rendelet szerint szükséges – hatósági igazolványt állít ki. Az időszakos vizsga eredményéről a vizsgaközpont a vizsgázó részére vizsgajegyzőkönyvet állít ki. A kiállított alapvizsga igazolásról és az időszakos vizsga eredményéről a vizsgaközpont írásban tájékoztatja a képző-, vagy regisztrált szervezetet. Az alap- és időszakos vizsgáról szóló igazolásokat a munkavállaló köteles magánál tartani és a hatóság felszólítására felmutatni.
+34. § (1)[^80] A sikeres alapvizsga eredményéről a vizsgaközpont a vizsgázó részére vizsgaigazolást ad, amely alapján a hatóság – ha a vasúti járművezetői engedélyről és vasúti járművezetői tanúsítványról szóló rendelet szerint szükséges – hatósági igazolványt állít ki. Az időszakos vizsga eredményéről a vizsgaközpont a vizsgázó részére vizsgajegyzőkönyvet állít ki. Az alapvizsgáról és az utolsó időszakos vizsgáról szóló igazolásokat a munkavállaló köteles magánál tartani és a hatóság felszólítására felmutatni.
+
+(1a)[^81] A vizsgaközpont kérelemre a névváltozás folytán, valamint az elveszett, a megrongálódott, vagy egyéb okból használhatatlanná vált vizsgaigazolásról, illetve vizsgajegyzőkönyvről másodlatot állít ki.
 
 (2) A hatóság kérelemre
 
@@ -6,9 +8,10 @@ a) a betelt, az elveszett, a megrongálódott, a névváltozás folytán vagy eg
 
 b) közúti vasútijármű vezetői okmány pótlása esetén vizsgaigazolást ad.
 
-(3)[^60] Amennyiben a bíróság jogerős ítéletével a munkavállalót 2 évet nem meghaladó időtartamú letöltendő szabadságvesztésre ítélte, vagy 2 évet nem meghaladó időtartamra foglalkozásától, vagy járművezetéstől eltiltotta, a hatóság az igazolás vagy a vizsgajegyzőkönyv hatályát felfüggeszti, az igazolást, vagy a vizsgajegyzőkönyvet a bíróság jogerős ítéletében meghatározott időtartamra bevonja, az időtartam lejártát követően a munkavállaló kérelmére az igazolást, vagy a vizsgajegyzőkönyvet a munkavállalónak visszaadja, a felfüggesztést megszünteti.
+(3)[^82] Amennyiben a bíróság jogerős ítéletével a munkavállalót 2 évet nem meghaladó időtartamú letöltendő szabadságvesztésre ítélte, vagy 2 évet nem meghaladó időtartamra foglalkozásától, vagy járművezetéstől eltiltotta, a hatóság az igazolás vagy a vizsgajegyzőkönyv hatályát felfüggeszti, az igazolást, vagy a vizsgajegyzőkönyvet a bíróság jogerős ítéletében meghatározott időtartamra bevonja, az időtartam lejártát követően a munkavállaló kérelmére az igazolást, vagy a vizsgajegyzőkönyvet a munkavállalónak visszaadja, a felfüggesztést megszünteti.
 
 (4) Ha a bíróság a munkavállalót 2 évet meghaladó időtartamra, letöltendő szabadságvesztésre ítélte, vagy foglalkozástól, illetve járművezetéstől 2 évet meghaladó időtartamra eltiltotta, a munkavállalónak új alapvizsgát kell tennie. Új hatósági igazolás csak a sikeres vizsgát követően állítható ki.
 
-[^59]: A 34. § (1) bekezdése az 5/2013. (II. 12.) NFM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^60]: A 34. § (3) bekezdése az 5/2013. (II. 12.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^80]: A 34. § (1) bekezdése a 22/2015. (V. 6.) NFM rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^81]: A 34. § (1a) bekezdését a 22/2015. (V. 6.) NFM rendelet 29. § (2) bekezdése iktatta be.
+[^82]: A 34. § (3) bekezdése az 5/2013. (II. 12.) NFM rendelet 18. § (2) bekezdésével megállapított szöveg.

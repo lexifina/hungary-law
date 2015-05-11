@@ -1,4 +1,4 @@
-5. melléklet a 19/2011. (V. 10.) NFM rendelethez[^82]
+5. melléklet a 19/2011. (V. 10.) NFM rendelethez[^118]
 
 ## Okmányok
 
@@ -8,9 +8,9 @@ I. Az alapképzéshez tartozó okmányok
 
 Tartalmazza:
 
-– a képzésben részt vevő személyes adatait,
+– a képzésben résztvevő személyes adatait,
 
-– a beiskolázó vasúti társaság, szervezet adatait,
+– a képzésben résztvevővel szerződő vasúti társaság, szervezet adatait,
 
 – érvényes vasúti alap- és időszakos vizsgáit,
 
@@ -24,7 +24,7 @@ Tartalmazza:
 
 – a megtartott elméleti és gyakorlati órák számát a tantárgy és a témák megnevezésével, az oktató aláírását;
 
-– a képzésben részt vevők névsorát (a felmentett, illetve mentesített képzésben részt vevők neveit is), a feleletek, beszámolók, dolgozatok érdemjegyeit képzésben részt vevőnként és tárgyanként, végül azok átlagát;
+– a képzésben résztvevők névsorát (a felmentett, illetve mentesített képzésben résztvevők neveit is), a feleletek, beszámolók, dolgozatok érdemjegyeit képzésben résztvevőnként és tárgyanként, végül azok átlagát;
 
 – a hiányzásokat és azok pótlásának nyilvántartását.
 
@@ -32,39 +32,39 @@ Tartalmazza:
 
 Tartalmazza:
 
-– A képzésben részt vevő nevét, a képzés adatait.
+– A képzésben résztvevő nevét, a képzés adatait.
 
 – A gyakorlati foglalkozások időpontját, idejét, helyét, útvonalát, a gyakorlati foglalkozás témáját, az oktató nevét és aláírását, az oktató megjegyzését.
 
-– A gyakorlati foglalkozások idejének összesítését, valamint az oktatók összegzett véleményét a képzésben részt vevő vizsgára bocsáthatóságáról.
+– A gyakorlati foglalkozások idejének összesítését, valamint az oktatók összegzett véleményét a képzésben résztvevő vizsgára bocsáthatóságáról.
 
 II. Az alapvizsgához tartozó okmányok
 
-1. Vizsgalap
+1. Alapvizsga bejelentő
 
-Tartalmazza a vizsgázó személyi adatait, egészségügyi, valamint pályaalkalmasságának csoportba sorolását és érvényességi idejét, a gyakorlatok igazolását, a vizsgatevékenységek felsorolását és az alapvizsga eredményét.
+A munkavállaló alapvizsgára történő bejelentése. Tartalmazza a vizsgázó személyi adatait, a bejelentett vizsgák felsorolását és a költségviselő megnevezését.
 
 2. Vizsgajegyzőkönyv
 
-A vizsgajegyzőkönyv tartalmazza a vizsgázó nevét, a vizsgától függően a tételszámot, a vizsgaérdemjegyet betűvel és számmal, illetve a „megfelelt” vagy „nem felelt meg” minősítést.
+A vizsgajegyzőkönyv tartalmazza a vizsgázó adatait, a vizsga megnevezését, illetve a „megfelelt”, „nem felelt meg” vagy „nem jelent meg” minősítést.
 
 3. Anyakönyv
 
-A vizsgajegyzőkönyvek adatait, a kiadott vizsgaigazolások sorszámát, a vizsgák és az egészségügyi, valamint a pályaalkalmassági vizsgálat érvényességi idejét, a foglalkozástól történő eltiltás és a soron kívüli vizsgára kötelezés tényét az anyakönyvben kell rögzíteni.
+A vizsgajegyzőkönyvek adatait, a kiadott vizsgaigazolások sorszámát, a foglalkozástól történő eltiltás és a soron kívüli vizsgára kötelezés tényét az anyakönyvben kell rögzíteni.
 
 4. Vizsgaigazolás
 
-A vizsgaeredményről a vizsgaközpont vizsgaigazolást állít ki a vizsgázó és a vizsgára bejelentő szervezet részére.
+A vizsgaeredményről a vizsgaközpont vizsgaigazolást állít ki a vizsgázó részére.
 
 III. Az időszakos oktatáshoz tartozó okmányok
 
 1. Oktatási napló
 
-Az oktatott anyagot szakterületenként részletesen, valamint a részt vevők névsorát az oktatás megkezdése előtt be kell írni. A munkavállalók – az oktatás befejezése után – aláírásukkal igazolják az oktatáson való részvételüket. Az utolsó aláírást követő sorban az oktató aláírásával záradékolja az oktatási naplót, és feltünteti a megjelentek létszámát.
+Az oktatott anyagot szakterületenként részletesen, valamint a képzésben résztvevők (a továbbiakban: munkavállalók) névsorát az oktatás megkezdése előtt be kell írni. A munkavállalók – az oktatás befejezése után – aláírásukkal igazolják az oktatáson való részvételüket. Az utolsó aláírást követő sorban az oktató aláírásával záradékolja az oktatási naplót, és feltünteti a megjelentek létszámát. Az oktatási naplót a vasúti társaság 6 évig köteles megőrizni.
 
 2. Az időszakos oktatások személyi adatlapja
 
-Tartalmazza a munkáltató megnevezését, a munkavállaló nevét, munkakörét (feladatkörét), és az időszakos oktatásokon való megjelenés időpontjait.
+Tartalmazza a munkáltató megnevezését, a munkavállaló nevét, munkakörét (feladatkörét), és az időszakos oktatásokon való megjelenés időpontjait. A személyi adatlapot a vasúti társaság köteles vezetni és 6 évig megőrizni.
 
 IV. Az időszakos vizsgához tartozó okmányok
 
@@ -72,8 +72,8 @@ IV. Az időszakos vizsgához tartozó okmányok
 
 A munkavállaló időszakos vizsgára történő bejelentése.
 
-2. Jegyzőkönyv az időszakos vizsgáról
+2. Vizsgajegyzőkönyv az időszakos vizsgáról
 
-A vizsgajegyzőkönyv tartalmazza a vizsga tárgyát, a vizsgázó nevét, valamint a vizsgán elért minősítést.
+A vizsgajegyzőkönyv tartalmazza a vizsga megnevezését, a vizsgázó adatait, valamint a vizsgán elért minősítést.
 
-[^82]: Az 5. melléklet az 5/2013. (II. 12.) NFM rendelet 23. § (4) bekezdése szerint módosított szöveg.
+[^118]: Az 5. melléklet a 22/2015. (V. 6.) NFM rendelet 38. § (1) bekezdés d) pontjával megállapított szöveg.
