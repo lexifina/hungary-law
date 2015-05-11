@@ -1,0 +1,3 @@
+## 19. § Az R3. 19. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) Összetett vizsga esetében a szóbeli vizsgatevékenység csak sikeres írásbeli vizsga után kezdhető meg. A vizsgabiztosnak az írásbeli vizsga eredményét a szóbeli vizsgát megelőzően haladéktalanul a képzőszervezet képviselőjével írásban kell közölnie. A képzőszervezet a vizsgázót az írásbeli vizsga eredményéről a tudomásszerzést követően haladéktalanul értesíti. A vizsgabiztos (a vizsgabizottság elnöke) az írásbeli vizsga eredményét a vizsgázóval a szóbeli vizsga előtt szóban közli. A vizsgázó kérésére lehetőséget kell biztosítani a kijavított írásbeli vizsga megtekintésére.”

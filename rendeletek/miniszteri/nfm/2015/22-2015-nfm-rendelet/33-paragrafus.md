@@ -1,0 +1,1 @@
+## „(10) Az elővizsgát követő alapvizsga csak a vizsgához kapcsolódó képzési program vizsgaközpont általi jóváhagyását követően szervezhető. Az elővizsgával rendelkező munkavállaló mentesül a vonalismereti képzésen történő részvételi kötelezettség alól és e nélkül bejelenthető alapvizsgára.”

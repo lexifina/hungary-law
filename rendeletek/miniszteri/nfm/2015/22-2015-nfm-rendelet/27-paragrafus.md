@@ -1,0 +1,17 @@
+## 26. § Az R3. 31. §-a helyébe a következő rendelkezés lép:
+
+## „31. § (1) Az időszakos vizsga megkezdése előtt a vizsgázónak a személyazonosságának igazolása érdekében a személyazonosság igazolására alkalmas hatósági igazolványt kell bemutatnia, valamint nyilatkoznia kell arról, hogy nem áll jogerős bírósági ítélettel kiszabott, letöltendő szabadságvesztés, foglalkozástól eltiltás, vagy járművezetéstől eltiltás büntetés hatálya alatt.
+
+## (2) Az időszakos vizsgán résztvevő felfüggesztésére és eltiltására az időszakos vizsgától a 20. § (1) és (2) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+
+## (3) Az időszakos vizsga a vizsgaközpont előírásai alapján lehet írásbeli, szóbeli, tesztrendszerű (interaktív vagy papíralapú), vagy gyakorlati (szimulációs berendezésen), vagy ezek kombinációi. A vizsgázó eredményét „megfelelt” vagy „nem felelt meg” minősítéssel kell értékelni. A vasúti vizsgaközpont az üzemeltetési szabályok alkalmazásának és a vészhelyzetekben nyújtott teljesítmények vizsgájához szimulációs berendezés (szimulátor) használatát is előírhatja.
+
+## (4) Az időszakos vizsga az alapvizsga érvényességét meghosszabbítja.
+
+## (5) A munkavállaló sikertelen időszakos vizsga esetében a vizsgához kötött tevékenységet nem végezheti, a vizsga igazolatlan elmulasztása esetén a vizsgához kötött munkakörben nem foglalkoztatható. A munkavállaló a sikertelen, vagy az igazolatlanul elmulasztott vizsga napjától számított 5. munkanap után, de – az alapvizsga 22. § (1) bekezdésben meghatározott érvényességét meg nem haladó időben – legfeljebb hat hónapon belül pótolhatja az igazolatlanul elmulasztott vizsgát, vagy 2 alkalommal tehet javítóvizsgát.
+
+## (6) A munkavállalónak soron kívüli időszakos vizsgát kell tennie, ha a (5) bekezdésben előírt időben sikertelen javítóvizsgát tett, vagy az elmulasztott vizsgát nem pótolta. A munkavállaló a sikertelen, vagy az elmulasztott soron kívüli vizsga napjától számított 10. munkanap után, legfeljebb három hónapon belül pótolhatja az elmulasztott vizsgát, vagy 2 alkalommal tehet javítóvizsgát.
+
+## (7) Amennyiben a munkavállaló a (6) bekezdésben előírt időben sikertelen javítóvizsgát tett, vagy az elmulasztott vizsgát nem pótolta, a munkakört ismételten csak akkor töltheti be, ha sikeres alapvizsgát tett. Alapvizsgára a munkavállaló csak akkor bocsátható, ha az alapképzésben részt vett. Ebben az esetben az alapképzés alól mentesség nem adható.
+
+## (8) Nem minősül sikertelennek az a vizsga, amelyről a vizsgázó távol maradt és a távolmaradásának okát a munkáltatója három munkanapon belül a vizsgaközpont felé igazolja.”

@@ -1,0 +1,1 @@
+## „(4) Ha a kérelemben vagy az ahhoz csatolt dokumentumokban szereplő adatokban változás áll be, az alapképzés végzésére jogosult szervezet (a továbbiakban: képzőszervezet) tizenöt napon belül köteles a változásról a hatóságot tájékoztatni.”
