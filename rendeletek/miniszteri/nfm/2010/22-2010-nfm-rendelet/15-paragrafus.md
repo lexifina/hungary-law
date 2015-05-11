@@ -1,4 +1,4 @@
-## 14. § A vasúti társaság haladéktalanul megújítja a tanúsítványt, ha a tanúsítvány jogosultja további járműre vagy vasúti pályára vagy pályahálózatra vonatkozó szakismereti és alkalmassági vizsgát szerez.
+## 14. §[^11] A vasúti társaság vagy a vasúti vizsgaközpont haladéktalanul megújítja a tanúsítványt, ha a tanúsítvány jogosultja további járműre vagy vasúti pályára vagy pályahálózatra vonatkozó szakismereti és alkalmassági vizsgát szerez.
 
 15. § (1) A vasúti társaság a tanúsítványt legfeljebb 6 hónapos időtartamra felfüggeszti,
 
@@ -9,3 +9,5 @@ b) ha a munkavállaló a KR.-ben meghatározott időszakos hatósági vizsgát v
 (2) A vasúti társaság a tanúsítvány felfüggesztésének hatályát megszünteti, ha a munkavállaló az (1) bekezdés szerinti határidőn belül az elmulasztott vagy sikertelen vizsgát pótolja, vagy a soron kívüli időszakos hatósági vizsgát leteszi.
 
 (3) A vasúti társaság a tanúsítványt visszavonja, ha a felfüggesztés megszüntetésének feltétele 6 hónapon belül nem teljesül.
+
+[^11]: A 14. § a 22/2015. (V. 6.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
