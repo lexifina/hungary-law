@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-60-00-00
 | 2014-07-16 | 2014. évi XXXV. törvény | 2007-60-00-00.10 |
 | 2014-12-31 | 2014. évi LXXXIX. törvény | 2007-60-00-00.11 |
 | 2015-01-15 | 2014. évi LXXXIX. törvény | 2007-60-00-00.12 |
+| 2015-05-11 | 2015. évi LV. törvény | 2007-60-00-00.13 |

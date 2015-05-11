@@ -67,3 +67,5 @@ ck) minden egyéb olyan adat, amelynek jelentésére és nyilvántartására az 
 (3) A (2) bekezdés szerinti adatok statisztikai célra felhasználhatók és statisztikai célra – személyazonosításra alkalmatlan módon – átadhatók.
 
 (4) A klímavédelemért felelős hatóság az F-Gáz ügyfélazonosítóval rendelkező ügyfelek számára biztosítja az elektronikus kapcsolattartást és ügyintézést, amelynek részletes szabályait miniszteri rendelet állapítja meg.
+
+(5) Az adatbázisban tárolt, F-Gáz ügyfélazonosítóhoz tartozó személyes adatokat a tevékenység megszűnését vagy megszüntetését követő 5 év elteltével törölni kell.

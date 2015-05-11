@@ -50,16 +50,16 @@ b) a Magyarország területén megvalósuló együttes végrehajtási projekttev
 
 c) a klímavédelemért felelős hatósággal való elektronikus kapcsolattartás szabályait;
 
-d) az elektronikus ügyintézésre, így különösen a díjakra, befizetésekre és elszámolásokra vonatkozó részletes szabályokat;
+d) a klímavédelmi felügyeleti díj megfizetésének részletes szabályait;
 
 e) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis részét képező, 10/G. § szerinti nyilvántartás részére történő adatközlés formájának és módjának, tartalmának, kezelésének, üzemeltetésének és fenntartásának, felügyeletének, valamint az adatközlés és adatszolgáltatás rendjének részletes szabályait;
 
-f) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és használatának, az abban való regisztrációnak és nyilvántartásba vételnek a részletes szabályait.
+f) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügyfélazonosítóval rendelkező ügyfelek általi igénybevételének és használatának, az abban való regisztrációnak és nyilvántartásba vételnek a részletes szabályait;
 
-(7) Felhatalmazást kap a miniszter, hogy
+g) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására, a vonatkozó tananyagra, szakmai és vizsgakövetelményekre, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére, a vállalkozások képesítési rendszerére, a képesítések nyilvántartására, az igazolás kiadására, az ahhoz fűződő formai és tartalmi követelmények meghatározásának rendjére vonatkozó részletes szabályokat;
 
-a) az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét az adópolitikáért felelős miniszterrel egyetértésével kiadott rendeletben állapítsa meg,
+h) a 10/B. § (2) bekezdése szerinti képzési, képesítési és vizsgáztatási díj mértékét és megfizetésének részletes szabályait.
 
-b) az a) pontban meghatározott igazgatási szolgáltatási díj megfizetésének részletes szabályait rendeletben állapítsa meg.
+(7) Felhatalmazást kap a miniszter, hogy az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
-(8) Felhatalmazást kap a miniszter, hogy az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására vonatkozó tananyagra, szakmai és vizsgakövetelményekre, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére, rendszerére, a vállalkozások képesítési rendszerére, valamint a képesítések nyilvántartására vonatkozó részletes szabályokat az oktatásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(8)
