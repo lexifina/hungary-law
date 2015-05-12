@@ -1,5 +1,0 @@
-## 15. § Az R3. 13. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-## „(5) A vasúti vizsgaközpont az alap- és időszakos vizsgára is kiterjedően Vizsgaszabályzatot és Eljárási Rendet (a továbbiakban: vizsgaszabályzat) készít, amelyet a hatálybalépése előtt legkésőbb 15 nappal korábban a honlapján közzétesz. A vizsgaszabályzatot a közlekedésért felelős miniszter hagyja jóvá.
-
-## (6) A rendelet 3. mellékletében meghatározott alapképzések vizsgáztatásához a vizsgatételek, vizsgakérdések, vizsgafeladatok összeállításához a szükséges utasításokat, kiegészítő utasításokat, végrehajtási utasításokat, segédkönyveket, illetve a kapcsolódó szabályozásokat, rendelkezéseket, kezelési szabályzatokat (távközlő-, biztosítóberendezés) és azok módosításait az utasítás kezelője, felelőse köteles a vizsgaközpont részére legkésőbb 30 nappal a jóváhagyást követően megküldeni. A vasúti járművek üzemeltetési leírásait és azok módosításait a jármű üzemeltetője a járművet érintő típusismereti képzéseket megelőző legkésőbb 30. napig magyar nyelven elkészíti és a vizsgaközpontnak megküldi.”

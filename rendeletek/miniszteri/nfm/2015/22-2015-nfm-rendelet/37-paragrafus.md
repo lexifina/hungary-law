@@ -1,3 +1,0 @@
-## „(8) A rendelet 3. mellékletében meghatározott alapképzések vizsgáztatásához a vizsgatételek, vizsgakérdések, vizsgafeladatok összeállításához a szükséges utasításokat, kiegészítő utasításokat, végrehajtási utasításokat, segédkönyveket, illetve a kapcsolódó szabályozásokat, rendelkezéseket, kezelési szabályzatokat (távközlő-, biztosítóberendezés) és azok módosításait az utasítás kezelője, felelőse, a vasúti járművek magyar nyelvű üzemeltetési leírásait és azok módosításait a jármű üzemben tartója a Módr1. hatálybalépését követő 3 hónapon belül elkészítteti és átadja a vizsgaközpontnak.
-
-## (9) A Módr1. hatálybalépésekor érvényes egyszerűsített képzési engedélyek érvényességi ideje a képzési engedély kiadásának napjától számított 5 évre módosul.”

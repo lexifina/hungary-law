@@ -1,1 +1,0 @@
-## „(3) A képzőszervezet vagy a vasúti társaság a regisztráció iránti kérelemben nyilatkozik a hatóság részére, hogy az időszakos oktatáshoz a 8. mellékletben meghatározott feltételeket biztosítani tudja.”

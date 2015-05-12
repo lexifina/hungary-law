@@ -1,1 +1,0 @@
-## „(7) Az alapképzésen való részvétel alól az Országos Képzési Jegyzékben szereplő, a 9. számú mellékletben felsorolt OKJ bizonyítvánnyal rendelkező képzésben résztvevő és a képzést megrendelő vasúti társaság együttes kérelmére a vizsgaközpont mentesítést ad.”

@@ -1,1 +1,0 @@
-## „(1a) A vizsgaközpont kérelemre a névváltozás folytán, valamint az elveszett, a megrongálódott, vagy egyéb okból használhatatlanná vált vizsgaigazolásról, illetve vizsgajegyzőkönyvről másodlatot állít ki.”
