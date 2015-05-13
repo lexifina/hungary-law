@@ -10,7 +10,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2016. június 30.[^1]
 
 1. melléklet az 1590/2014. (X. 21.) Korm. határozathoz
 
@@ -73,3 +73,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1298/2015. (V. 13.) Korm. határozat 11. pontja szerint módosított szöveg.
