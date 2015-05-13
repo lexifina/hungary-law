@@ -28,13 +28,7 @@
 
 ## Határidő: folyamatos, az éves központi költségvetési tervezés időszakában
 
-## 4. egyetért azzal, hogy a Magyar Testgyakorlók Köre által használt sportlétesítmények fejlesztésére a 2013. és 2020. évek között összesen legfeljebb 4911,8 millió forint keretösszegben kerüljön sor, és felhívja az emberi erőforrások miniszterét, valamint a nemzetgazdasági minisztert, hogy gondoskodjon a 2014–2020. évi, összesen legfeljebb 4850,0 millió forint költségvetési forrás ütemezett rendelkezésre állásáról az egyes költségvetési években;
-
-## Felelős: emberi erőforrások minisztere
-
-## nemzetgazdasági miniszter
-
-## Határidő: folyamatos, az éves központi költségvetési tervezés időszakában
+## 4.[^2]
 
 ## 5. felhívja az emberi erőforrások miniszterét, hogy tegye meg a szükséges intézkedéseket – a Magyar Testgyakorlók Köre kivételével – a kiemelt sportegyesületek 2013–2020. közötti sportszakmai többletfeladatai támogatási igényeinek felmérése, továbbá az általuk felhalmozott tartozásállomány elemzése érdekében, és készítsen előterjesztést az adósságkonszolidációról, valamint a támogatási igényekről;
 
@@ -155,3 +149,4 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: A 2. pont az 1547/2014. (IX. 29.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 4. pontot az 1299/2015. (V. 13.) Korm. határozat 3. pontja hatályon kívül helyezte.
