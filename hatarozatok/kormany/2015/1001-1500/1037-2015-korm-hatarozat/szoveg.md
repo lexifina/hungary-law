@@ -22,22 +22,23 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-6. egyetért azzal, hogy a Program és a 3. pont szerinti beruházás megvalósítására összesen 8000 millió forint összegben kerüljön sor és felhívja a nemzeti fejlesztési minisztert, az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy az 1. pont a) és b) alpontja, illetve a 3. pont szerinti beruházások megvalósításának ütemezéséhez igazodva gondoskodjon
+6.[^1] egyetért azzal, hogy a Program és a 3. pont szerinti beruházás megvalósítására összesen 8000 millió forint összegben kerüljön sor és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy az 1. pont a) és b) alpontja, illetve a 3. pont szerinti beruházások megvalósításának ütemezéséhez igazodva gondoskodjon
 
-a) a 2015. évben – a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvényben biztosított 2750 millió forinton felül – további 800 millió forint,
+a) a 2016. évben 2700,0 millió forint,
 
-b) a 2016. évben 2700 millió forint
+b) a 2017. évben 800,0 millió forint
 
 forrás ütemezett rendelkezésre állásáról az egyes költségvetési években;
 
 Felelős: nemzeti fejlesztési miniszter
 
-emberi erőforrások minisztere
-
 nemzetgazdasági miniszter
 
-Határidő: az a) pont tekintetében azonnal, a b) pont tekintetében a 2016. évi központi költségvetés tervezésével összhangban
+Határidő: az a) alpont tekintetében a 2016. évi központi költségvetés tervezésével összhangban,
 
-7.[^1]
+a b) alpont tekintetében a 2017. évi központi költségvetés tervezésével összhangban
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+7.[^2]
+
+[^1]: A 6. pont az 1298/2015. (V. 13.) Korm. határozat 15. pontjával megállapított szöveg.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
