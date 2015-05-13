@@ -12,7 +12,7 @@
 
 ## c) a célfeladat eredményes teljesítéséhez kapcsolódó céljuttatás (a továbbiakban: céljuttatás) mértéke legfeljebb 8 hónapi, e Korm. határozat közzétételekor a célfeladatot teljesítő számára megállapított illetménynek megfelelő összeg;
 
-## d) a célfeladat teljesítésének mérése 2015-ben két alkalommal – május 31. és november 30. – történik a terv–tény arány teljesítése alapján;
+## d)[^1] a célfeladat teljesítésének mérése 2015-ben két alkalommal – május 31. és december 15. – történik a terv–tény arány teljesítése alapján;
 
 ## e) a célfeladat értékelését a d) pont szerinti mérést követően az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszterek – az ab) alpont esetében a belügyminiszter – végzik el;
 
@@ -57,3 +57,5 @@
 | 90 alatt | 0 | 95 alatt | 0 | 90 alatt | 0 |
 
 *A célfeladatot teljesítő számára megállapított illetmény alapján számított céljuttatás 30%-ához kapcsolódóan egyéni célkitűzést kell megállapítani.
+
+[^1]: Az 1. § d) pontja az 1298/2015. (V. 13.) Korm. határozat 16. pontja szerint módosított szöveg.
