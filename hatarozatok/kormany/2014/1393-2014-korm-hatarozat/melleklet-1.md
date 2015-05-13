@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Lakitelek Népfőiskola épületei rekonstrukciója és fejlesztése
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Lakitelek Népfőiskola épületei rekonstrukciója és fejlesztése
 
 ## a) első ütemének támogatása érdekében 79,2 millió forint,
 
@@ -16,9 +16,9 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. december 31.
 
-## 2. felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy a Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése második ütemének megvalósításához 2015. évben szükséges források Emberi Erőforrások Minisztériuma fejezetben történő biztosításáról a központi költségvetés tervezése során gondoskodjanak.
+## 2.[^2] felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy a Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése megvalósításához 2015. évben szükséges források Emberi Erőforrások Minisztériuma fejezetben történő biztosításáról a központi költségvetés tervezése során gondoskodjanak.
 
 ## Felelős: emberi erőforrások minisztere
 
@@ -89,3 +89,6 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1298/2015. (V. 13.) Korm. határozat 7. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont az 1298/2015. (V. 13.) Korm. határozat 7. pont b) alpontja szerint módosított szöveg.
