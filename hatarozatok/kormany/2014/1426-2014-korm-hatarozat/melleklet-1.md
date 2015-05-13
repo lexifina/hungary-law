@@ -16,7 +16,7 @@
 
 ## Felelős: Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, nemzetgazdasági miniszter a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30., a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ részére átcsoportosított 580,0 millió forint tekintetében 2015. december 31.[^2]
+## Határidő: 2015. június 30., a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ részére átcsoportosított 580,0 millió forint tekintetében 2015. december 31., a Római Katolikus Egyház Kaposvári Egyház Megye által építendő egyházi idősek otthona építéséhez az Egyházi épített örökség védelme és egyéb beruházások jogcímcsoportra átcsoportosított 1468,3 millió forint tekintetében 2016. június 30.
 
 ## 3. A Kormány az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva engedélyezi
 
@@ -26,7 +26,7 @@
 
 ## 2014. június 30. utáni változatlan célú további felhasználását.
 
-## 4–9.[^3]
+## 4–9.[^2]
 
 1. melléklet az 1426/2014. (VII. 28.) Korm. határozathoz
 
@@ -180,6 +180,5 @@ Költségvetési év: 2014.
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1457/2014. (VIII. 14.) Korm. határozat 11. pontja, az 1721/2014. (XII. 5.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^2]: A 2. pont határideje az 1168/2015. (III. 24.) Korm. hatráozat 5. pontja szerint módosított szöveg.
-[^3]: A 4–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1298/2015. (V. 13.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 4–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
