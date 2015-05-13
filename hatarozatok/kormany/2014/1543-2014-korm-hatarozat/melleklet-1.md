@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes, Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. június 30., a Bethlen Gábor Alapba átcsoportosított 416,0 millió forint tekintetében 2015. szeptember 30.[^1]
 
 1. melléklet az 1543/2014. (IX. 24.) Korm. határozathoz
 
@@ -115,3 +115,5 @@
 | Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 686,0 |  |  |  |  |  |  |  |  |  |  | 686,0 |  |
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1298/2015. (V. 13.) Korm. határozat 10. pontja szerint módosított szöveg.
