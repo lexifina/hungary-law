@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva az erbili magyar főkonzulátus létrehozása és működése 2014. évi finanszírozása érdekében 283,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XVIII. Külügyminisztérium fejezet, 1. Külügyminisztérium központi igazgatása cím, valamint a 2. Külképviseletek igazgatása cím javára az 1. melléklet szerint.
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva az erbili magyar főkonzulátus létrehozása és működése 2014. évi finanszírozása érdekében 283,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XVIII. Külügyminisztérium fejezet, 1. Külügyminisztérium központi igazgatása cím, valamint a 2. Külképviseletek igazgatása cím javára az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: külügyminiszter
 
-## Határidő: 2015. február 15.
+## Határidő: 2015. december 31.
 
 ## 2. felhívja a nemzetgazdasági minisztert és a külügyminisztert, hogy a 2015. évtől a központi költségvetések előkészítése során gondoskodjanak az Erbili Főkonzulátus működésével kapcsolatos kiadásoknak a Külügyminisztérium fejezetben történő biztosításáról.
 
@@ -87,3 +87,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont az 1298/2015. (V. 13.) Korm. határozat 6. pontja szerint módosított szöveg.
