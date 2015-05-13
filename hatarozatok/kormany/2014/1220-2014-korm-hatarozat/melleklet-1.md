@@ -16,7 +16,7 @@
 
 ## Határidő: 2014. május 31.
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Programhoz kapcsolódó 2014. első félévben szükséges 150,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára az 1. melléklet szerint;
+## 4.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Programhoz kapcsolódó 2014. első félévben szükséges 150,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -28,7 +28,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2014. december 20.
+## Határidő: 2015. december 31.
 
 ## 5. felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy a kiemelt sportlétesítmény-fejlesztésekkel, sportberuházásokkal összefüggő kormányzati feladatok ellátásáért felelős kormánybiztos bevonásával gondoskodjanak a Program ütemezett megvalósításához 2014 második félévében és a 2015. évben szükséges 1850,0 millió forint rendelkezésre állásáról.
 
@@ -99,3 +99,5 @@
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^2]: A 4. pont az 1298/2015. (V. 13.) Korm. határozat 4. pontja szerint módosított szöveg.
