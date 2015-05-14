@@ -34,4 +34,6 @@ Határidő: a 2015. évi források tekintetében: 2015. július 31.
 
 a 2016. évi források tekintetében: a 2016. évi központi költségvetés tervezése keretében
 
-3. visszavonja az egyes kiemelt sportegyesületek 2013. évi sportfejlesztési elképzeléseinek támogatásáról, a 2014–2020. közötti évekre vonatkozó sportfejlesztési feladataikkal összefüggő kormányzati intézkedésekről szóló 1835/2013. (XI. 15.) Korm. határozat 4. pontját.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
