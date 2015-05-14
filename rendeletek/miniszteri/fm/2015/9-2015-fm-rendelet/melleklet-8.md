@@ -16,27 +16,27 @@
 
 | 7 | Tarkavirágú lucerna* | 15 | - | - | - |
 
-| 8 | Takarmánylucerna (vetőmag célra) | 15 | - | - | - |
+| 8 | Takarmánylucerna*(vetőmag célra) | 15 | - | - | - |
 
 | 9 | Bíborhere* | 30 | - | - | - |
 
-| 10 | Bíborhere (vetőmag célra) | 30 | - | - | - |
+| 10 | Bíborhere* (vetőmag célra) | 30 | - | - | - |
 
 | 11 | Fehérhere* | 6 | - | - | - |
 
-| 12 | Fehérhere(vetőmag célra) | 6 | - | - | - |
+| 12 | Fehérhere*(vetőmag célra) | 6 | - | - | - |
 
 | 13 | Korcshere* | 6 | -- | -- | - |
 
-| 14 | Korcshere (vetőmag célra) | 6 | - | - | - |
+| 14 | Korcshere* (vetőmag célra) | 6 | - | - | - |
 
 | 15 | Vöröshere* | 20 | - | - | - |
 
-| 16 | Vöröshere (vetőmag célra) | 20 | - | - | - |
+| 16 | Vöröshere* (vetőmag célra) | 20 | - | - | - |
 
 | 17 | Alexandriai here* | 15 | - | - | - |
 
-| 18 | Alexandriai here (vetőmag célra) | 15 | - | - | - |
+| 18 | Alexandriai here* (vetőmag célra) | 15 | - | - | - |
 
 | 19 | Legány féle keverék | búza vagy rozs: 60, szöszös bükköny vagy pannonbükköny: 80 és bíborhere 20 | - | - | - |
 
@@ -48,15 +48,15 @@
 
 | 23 | Baltacím, takarmánybaltacím* | hámozott vetőmagból 95 kg hámozatlanból 145 kg. | - | - | - |
 
-| 24 | Baltacím, takarmánybaltacím (vetőmag célra) | hámozott vetőmagból: 95 hámozatlan vetőmagból: 145 | - | - | - |
+| 24 | Baltacím, takarmánybaltacím* (vetőmag célra) | hámozott vetőmagból: 95 hámozatlan vetőmagból: 145 | - | - | - |
 
-| 25 | Takarmány- (tavaszi) bükköny | 30 | - | - | - |
+| 25 | Takarmány- (tavaszi) bükköny* | 30 | - | - | - |
 
 | 26 | Szöszösbükköny* | 30 | - | - | - |
 
 | 27 | Pannonbükköny* | 30 | - | - | - |
 
-| 28 | Szöszös bükköny (vetőmag célra) | 30 | - | - | - |
+| 28 | Szöszös bükköny* (vetőmag célra) | 30 | - | - | - |
 
 | 29 | Rozsos szöszösbükköny | - | rozs: 200 szöszös bükköny: 300 | - | - |
 

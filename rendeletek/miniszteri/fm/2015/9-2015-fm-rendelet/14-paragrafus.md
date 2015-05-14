@@ -34,27 +34,37 @@ d) az (1) bekezdés a), b) és e) pontja szerinti támogatási jogcímeket kivé
 
 (4) Az (1) bekezdésben felsorolt támogatási jogcímek esetében a támogatási kérelmet ügyfélkapun keresztül, elektronikus úton, az egységes kérelem rendeletben foglaltaknak megfelelően, az egységes kérelem részeként lehet benyújtani.
 
-(5) A mezőgazdasági termelő minősített szaporítóanyag beszerzése esetén annak beszerzését
+(5)[^13] A mezőgazdasági termelő minősített szaporítóanyag felhasználását
 
-a) saját nevére szóló érvényes számlával, a minősített szaporítóanyag címkéjének vagy a minősítését igazoló bizonyítványnak a másolatával, illetve
+a) saját beszerzés esetén
 
-b) termeltető vagy termelői csoport nevére kiállított számla esetén
+aa) saját névre szóló érvényes, fajra, fajtára, mennyiségre és a fémzárszámra vonatkozó adatokat tartalmazó számlával, vagy
 
-ba) a vásárolt minősített szaporítóanyagról a termeltető vagy termelői csoport nevére kiállított számla másolatával,
+ab) ha a saját névre szóló érvényes számla nem tartalmazza az aa) pontban meghatározott adatokat, akkor a saját nevére szóló érvényes számlával, és a minősített szaporítóanyag címkéjével vagy a vetőmagtétel azonosító adatait tartalmazó csomagolással, vagy a vetőmagtétel azonosító adatait tartalmazó szállítólevéllel vagy a vetőmagtétel azonosító adatait tartalmazó minőségi bizonyítvánnyal,
 
-bb) a minősített szaporítóanyag címkéjének vagy a minősítését igazoló bizonyítványnak a másolatával,
+b) saját előállítás esetén a minősített szaporítóanyag minősítését igazoló bizonyítvánnyal,
 
-bc) a termeltetővel vagy termelői csoporttal kötött szerződéssel, és
+c) termeltető vagy termelői csoport által történő beszerzés esetén
 
-bd) a termeltető vagy termelői csoport által a mezőgazdasági termelő részére átadott minősített szaporítóanyag mennyiségét, valamint a származás megjelölését tartalmazó, a termeltető vagy a termelői csoport által kiállított dokumentummal
+ca) a termeltetővel vagy termelői csoporttal kötött szerződéssel,
+
+cb) a termeltető vagy termelői csoport által a mezőgazdasági termelő részére átadott minősített szaporítóanyag mennyiségét, valamint a származás megjelölését tartalmazó, a termeltető vagy a termelői csoport által kiállított dokumentummal, és
+
+cc) a termeltető vagy termelői csoport nevére szóló érvényes, a fajra, fajtára, mennyiségre és a fémzárszámra vonatkozó adatokat tartalmazó számla másolatával (melyen feltüntetett vételár kitakarható), vagy
+
+cd) a termeltető vagy termelői csoport nevére szóló érvényes számla másolatával (melyen feltüntetett vételár kitakarható), és a minősített szaporítóanyag címkéjének, vagy a vetőmagtétel azonosító adatait tartalmazó csomagolással vagy a vetőmagtétel azonosító adatait tartalmazó szállítólevéllel vagy vetőmagtétel azonosító adatait tartalmazó minőségi bizonyítvánnyal,
+
+d) termeltető vagy termelői csoport előállítása esetén
+
+da) a minősített szaporítóanyag minősítését igazoló bizonyítvány másolatával,
+
+db) a termeltetővel vagy termelői csoporttal kötött szerződéssel, és
+
+dc) a termeltető vagy termelői csoport által a mezőgazdasági termelő részére átadott minősített szaporítóanyag mennyiségét, valamint a származás megjelölését tartalmazó, a termeltető vagy a termelői csoport által kiállított dokumentummal
 
 ## igazolja.
 
-(6) Az (1) bekezdés c) d), f) és g) pontja szerinti támogatási jogcímek esetén a támogatási kérelemhez csatolni kell
-
-a) a minősített szaporítóanyag használatát igazoló számla és vetőmagcímke másolatát, valamint
-
-b) az (5) bekezdés b) pont bd) alpontjában meghatározott, a termeltető vagy a termelői csoport által kiállított dokumentum másolatát, vagy, ha a mezőgazdasági termelő saját előállítású, minősített szaporítóanyagot használ, a szaporítóanyag minősítő bizonyítvány másolatát.
+(6)[^14] Az (1) bekezdés c), d), f) és g) pontja szerinti támogatási jogcímek esetén a támogatási kérelemhez csatolni kell az (5) bekezdésben felsorolt dokumentumok másolatát.
 
 (7) Az (1) bekezdés c) és d) pontja szerinti támogatási jogcímek vonatkozásában, ha a (6) bekezdés alapján csatolt számla, vetőmagcímke, a termeltető vagy a termelői csoport által kiállított dokumentum, vagy minősítő bizonyítvány másolatában csak a felhasznált vetőmag tömege szerepel, a felhasznált vetőmagszám megállapításához a 3. és a 4. melléklet „C” oszlopában található átváltási tényezőt kell alkalmazni.
 
@@ -67,3 +77,6 @@ b) az (5) bekezdés b) pont bd) alpontjában meghatározott, a termeltető vagy 
 (11) Ha a (2) bekezdés d) pontjában meghatározott gazdálkodási napló adatai nem támasztják alá az adott támogatás igénybevételére vonatkozó feltételek teljesülését, úgy az adott terület vonatkozásában a mezőgazdasági termelő támogatási jogosultsága nem állapítható meg.
 
 (12) Ha a mezőgazdasági termelő az adott támogatás igénybevételéhez szükséges minimális minősített szaporítóanyagnál kisebb mennyiség felhasználását a 14. § (5)–(6) bekezdése, torma- és spárga dugvány termesztése esetén a 17. § (1) bekezdés c) pontja, mezei borsó termesztése esetén a 20. § (1) bekezdés d) pontja szerint igazolja, úgy az egyéb feltételek teljesülése esetén, az adott támogatási jogcím vonatkozásában igényelt terület azon részére állapítható meg támogatás, amelyen az előírt mennyiségű minősített szaporítóanyag felhasználása igazolt.
+
+[^13]: A 14. § (5) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^14]: A 14. § (6) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.

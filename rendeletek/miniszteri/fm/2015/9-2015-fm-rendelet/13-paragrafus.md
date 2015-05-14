@@ -8,9 +8,11 @@ b) gondoskodik a tenyészetében lévő állatállományának a Szarvasmarha ENA
 
 c) a tenyészet vonatkozásban igazolja, hogy az a támogatási kérelem benyújtásának időpontjában gümőkor-, brucellózis- és leukózismentes.
 
+(1a)[^9] A holt ellés az (1) bekezdés a) pontja szerinti ellésnek minősül abban az esetben, ha a holt ellés tényét állatorvos az MVH által rendszeresített formanyomtatványon igazolja.
+
 (2) Az (1) bekezdés c) pontja szerinti mentességnek már a támogatási kérelem benyújtásakor fenn kell állnia, amelyet a hatósági állatorvos vagy a járási főállatorvos igazol.
 
-(3)[^8] Támogatás azon (1) bekezdés a) pontjában foglaltaknak megfelelő tejhasznú tehenek után igényelhető, amelyek a tárgyév március 31-én a mezőgazdasági termelő tenyészetében találhatóak, de nem tárgyév március 31-én kerültek a mezőgazdasági termelő tenyészetébe, és
+(3)[^10] Támogatás azon (1) bekezdés a) pontjában foglaltaknak megfelelő tejhasznú tehenek után igényelhető, amelyek a tárgyév március 31-én a mezőgazdasági termelő tenyészetében találhatóak, de nem tárgyév március 31-én kerültek a mezőgazdasági termelő tenyészetébe, és
 
 a) hivatalos tejtermelés-ellenőrzés alatt állnak, vagy
 
@@ -18,11 +20,13 @@ b) az ENAR-nyilvántartásban bejelentett tejhasznú fajtakódon szereplő tejha
 
 c) amelyek tartója megfelel a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló miniszteri rendeletben foglaltaknak.
 
-(4) A támogatási kérelem tárgyévente az egységes kérelem benyújtásának kezdő napjától május 15-éig nyújtható be.
+(4)[^11] A támogatási kérelem tárgyévente az egységes kérelem benyújtásának kezdő napjától május 22-éig nyújtható be.
 
-(5)[^9] A támogatási kérelemhez mellékelni kell a hatósági állatorvos vagy a járási főállatorvos által kiállított, (2) bekezdés szerinti igazolás másolatát, és ha a mezőgazdasági termelő a (3) bekezdés c) pontja szerint kistermelőként kívánja igénybe venni a támogatást, akkor a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló 52/2010. (IV. 30.) FVM rendelet 2. melléklete szerinti igazolás másolatát.
+(5)[^12] A támogatási kérelemhez mellékelni kell a hatósági állatorvos vagy a járási főállatorvos által kiállított, (2) bekezdés szerinti igazolás másolatát, és ha a mezőgazdasági termelő a (3) bekezdés c) pontja szerint kistermelőként kívánja igénybe venni a támogatást, akkor a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló 52/2010. (IV. 30.) FVM rendelet 2. melléklete szerinti igazolás másolatát.
 
 (6) A tejhasznú tehéntartás támogatására jogosult állategyedek létszámát a mezőgazdasági termelő tenyészetében tárgyév március 31-én megtalálható, tejhasznú tehéntartás támogatására jogosult állatok létszáma alapján kell meghatározni.
 
-[^8]: A 13. § (3) bekezdése a 17/2015. (IV. 9.) FM rendelet 15. §-ával megállapított szöveg.
-[^9]: A 13. § (5) bekezdése a 12/2015. (III. 30.) FM rendelet 31. §-ával megállapított szöveg.
+[^9]: A 13. § (1a) bekezdését a 23/2015. (V. 13.) FM rendelet 9. § (1) bekezdése iktatta be.
+[^10]: A 13. § (3) bekezdése a 17/2015. (IV. 9.) FM rendelet 15. §-ával megállapított szöveg.
+[^11]: A 13. § (4) bekezdése a 22/2015. (V. 13.) FM rendelet 4. § a) pontja szerint módosított szöveg.
+[^12]: A 13. § (5) bekezdése a 12/2015. (III. 30.) FM rendelet 31. §-ával megállapított szöveg.

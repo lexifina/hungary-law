@@ -1,4 +1,4 @@
-## 22. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+## 22/A. § E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított 13. § (1a) bekezdését, 14. § (5) és (6) bekezdését, 17. § (1) bekezdés b) pontját és 7. mellékletét a 23/2015. (V. 13.) FM rendelet hatálybalépésekor[^18] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 20. Az Európai Unió jogának való megfelelés
 
@@ -15,3 +15,5 @@ d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált ig
 e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-ei 809/2014/EU rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^18]: A hatálybalépés időpontja 2015. május 14.
