@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1298-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-05-13 | 2015-1298-30-22.1 | 1298/2015. (V. 13.) Korm. határozat |
+| 2015-05-14 | 2015-1298-30-22.2 | 2010: CXXX. törvény |
