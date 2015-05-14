@@ -1,4 +1,4 @@
-2. melléklet az 5/2015. (II. 19.) FM rendelethez[^9]
+2. melléklet az 5/2015. (II. 19.) FM rendelethez[^11]
 
 Az anyatehéntartás termeléshez kötött támogatásához kapcsolódó tejértékesítés során jelentett értékesített tej, illetve tejtermékek mennyisége számítása során alkalmazandó átváltási képletek
 
@@ -16,4 +16,4 @@ Az anyatehéntartás termeléshez kötött támogatásához kapcsolódó tejért
 
 7. 1 kg sajt= 10 kg tej
 
-[^9]: A 2. mellékletet a 17/2015. (IV. 9.) FM rendelet 10. §-a iktatta be.
+[^11]: A 2. mellékletet a 17/2015. (IV. 9.) FM rendelet 10. §-a iktatta be.
