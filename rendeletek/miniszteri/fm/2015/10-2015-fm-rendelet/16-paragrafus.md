@@ -10,4 +10,6 @@
 
 (6) Az 5. melléklet szerinti, lineáris típusú ökológiai jelentőségű területnek – a fasor kivételével – legalább tíz méteres hosszúságban kell érintkeznie az egységes kérelemben bejelentett szántóterülettel.
 
-(7) Egybeművelt tábla szomszédságában elhelyezkedő földterület ökológiai jelentőségű területként nem vehető figyelembe.
+(7)[^7] Az egybeművelt tábla szomszédságában elhelyezkedő tájelem ökológiai jelentőségű területként az egybeművelt tábla vonatkozásában nem vehető figyelembe.
+
+[^7]: A 16. § (7) bekezdése a 23/2015. (V. 13.) FM rendelet 10. § (3) bekezdésével megállapított szöveg.

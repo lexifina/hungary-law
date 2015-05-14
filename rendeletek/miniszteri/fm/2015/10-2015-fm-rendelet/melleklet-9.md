@@ -1,12 +1,10 @@
-9. melléklet a 10/2015. (III. 13.) FM rendelethez[^10]
+9. melléklet a 10/2015. (III. 13.) FM rendelethez[^13]
 
-A gazdálkodási napló formai és tartalmi követelményei
+Gazdálkodási napló formai és tartalmi követelményei
 
 |  | GAZDÁLKODÁSI NAPLÓ |
 
 | _________________________ gazdálkodási év |
-
-| A termeléshez kötött közvetlen támogatást igénylők számára. |
 
 | Főlap a GAZDÁLKODÓ ADATAI |
 
@@ -26,15 +24,17 @@ A gazdálkodási napló formai és tartalmi követelményei
 
 | Telefonszám: | E-mail cím: |
 
-Dátum: Aláírás
+Dátum:
 
-| GN-0901 | Ökológiai jelentőségű másodvetés ökológiai jelentőségű területként való elszámolása – ALAPADATOK | Lap sorszáma: |
+Aláírás
+
+| GN-09 | Ökológiai jelentőségű másodvetés ökológiai jelentőségű területként való elszámolása - ALAPADATOK | Lap sorszáma: |
 
 |  | Kötelezettségvállalással érintett egybefüggő terület azonosítási alapadatai |
 
 | Település | Helyrajzi szám | MePAR blokkazonosítók | Terület (ha) |
 
-| Gazdálkodási év | Táblasorszám (adott évi egységes kérelem szerint) | Terület (ha) | Hasznosítási kód | A 3. melléklet ökológiai jelentőségű másodvetés magkeverékének növényfajai | Vetés ideje (hónap, nap) | Felhasznált szaporítóanyag típusa | (vetőmag/ palánta/ hagyma/ hagymagerezd/ dugvány) | Felhasznált szaporító- anyag mennyisége | Felhasznált szaporító- anyag mértékegysége (db) | A talajba- forgatás várható ideje (hónap, nap) | Vis maior |
+| Gazdál- kodási év | Tábla- sorszám (adott évi egységes kérelem szerint) | Terü- let (ha) | Haszno- sítási kód | A 3. melléklet ökológiai jelentőségű másodvetés magkeveré- kének növényfajai | Vetés ideje (hónap, nap) | Felhasznált szaporító- anyag típusa (vetőmag/ palánta/ hagyma/ hagyma- gerezd/ dugvány) | Felhasznált szaporító- anyag mennyisége | Felhasznált szaporító- anyag mérték- egysége (db) | A talajba- forgatás várható ideje (hónap, nap) | Vis maior | Megjegyzés |
 
 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -58,6 +58,8 @@ Dátum: Aláírás
 
 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Dátum: Aláírás
+Dátum:
 
-[^10]: A 9. melléklet a 12/2015. (III. 30.) FM rendelet 32. § (2) bekezdésével megállapított szöveg.
+Aláírás
+
+[^13]: A 9. melléklet a 23/2015. (V. 13.) FM rendelet 10. § (5) bekezdésével megállapított szöveg.
