@@ -1,4 +1,4 @@
-## 17. §[^71] A miniszter a minősítés feladatainak keretében:
+## 17. §[^72] A miniszter a minősítés feladatainak keretében:
 
 a) elismeri, illetve elismerteti az alkalmazható minősítési módszereket és közzéteszi azokat;
 
@@ -8,6 +8,7 @@ c) a minősítési ügyekben az ellenőrzési, illetve a szankcionálási felada
 
 d) jóváhagyja az oktatás és a továbbképzés szakmai és vizsga követelményrendszerét;
 
-e) kijelöli a minősítők oktatására, továbbképzésére, vizsgáztatására jogosult intézményeket.
+e)[^73]
 
-[^71]: A 17. § a 148/2011. (XII. 29.) VM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^72]: A 17. § a 148/2011. (XII. 29.) VM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 11. § (2) bekezdése alapján a 2012. február 1-jét követően megindult eljárásokban kell alkalmazni.
+[^73]: A 17. § e) pontját a 23/2015. (V. 13.) FM rendelet 2. § (6) bekezdése hatályon kívül helyezte.
