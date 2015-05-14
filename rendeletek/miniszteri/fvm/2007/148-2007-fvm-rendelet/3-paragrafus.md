@@ -14,5 +14,11 @@ A támogatható állatfajok, betegségek és szolgáltatások körét az 1. szá
 
 (3) A támogatás összege a szolgáltatásról kiállított számla nettó (ÁFA-t nem tartalmazó) értékének 100 százalékáig, de legfeljebb az 1. számú melléklet szerinti fajlagos összegig terjedhet.
 
+(4)[^5] A támogatás nem kapcsolódhat olyan intézkedésekhez, amelyek költségeit az uniós jogszabályok értelmében a kedvezményezettnek kell viselnie, kivéve, ha a szóban forgó intézkedések költségeit teljes egészében kiegyenlítik a kedvezményezettekre háruló kötelező terhek.
+
+(5)[^6] Nem nyújtható egyedi támogatás, ha megállapítást nyer, hogy az állatbetegséget vagy a növénykárosítóval való fertőzöttséget a kedvezményezett idézte elő szándékosan vagy gondatlanságból.
+
 [^3]: A 3. § (1) bekezdése a 24/2014. (XI. 6.) FM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdése a 77/2012. (VII. 27.) VM rendelet 1. §-ával megállapított, a 24/2014. (XI. 6.) FM rendelet 10. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (4) bekezdését a 23/2015. (V. 13.) FM rendelet 5. § (1) bekezdése iktatta be.
+[^6]: A 3. § (5) bekezdését a 23/2015. (V. 13.) FM rendelet 5. § (1) bekezdése iktatta be.

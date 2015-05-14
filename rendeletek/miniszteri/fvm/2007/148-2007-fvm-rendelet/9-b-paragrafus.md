@@ -1,3 +1,3 @@
-## 9/A. §[^48]
+## 9/A. §[^51]
 
-[^48]: A 9/A. §-t a 77/2012. (VII. 27.) VM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § f) pontja.
+[^51]: A 9/A. §-t a 77/2012. (VII. 27.) VM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § f) pontja.

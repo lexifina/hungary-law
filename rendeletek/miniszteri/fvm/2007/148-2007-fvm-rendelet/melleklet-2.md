@@ -42,7 +42,7 @@
 
 | 21. | A010 | Sertés brucellózis | sertés | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
-| 22. | A011 | PRRS | sertés | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa: 1820 Ft |
+| 22. | A011 | PRRS | sertés | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa: 1820 Ft, PCR: 5500 Ft |
 
 | 23. | C001 | Kapcsolódó állat-egészségügyi szolgáltatás, gyógykezelés, immunizálás | baromfi és szarvasmarha sertés (tenyészkoca) | Szolgáltatási díj és anyagköltség: legfeljebb 4200 Ft/vágóhídra szállított állategység (ÁE)** Legalább egyszer fialt koca után havonta 2100 Ft/egyed |
 
@@ -82,7 +82,7 @@
 
 ## Mintavételi eljárások esetében, amennyiben az állatokat többféle betegség kapcsán szeretnék bevizsgálni, azt csak egyszeri vérvétellel lehet megtenni (többszörös vérvétel nem számolható el).
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^55]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^60]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -144,4 +144,4 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^55]: A 2. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés b) pontjával megállapított szöveg.
+[^60]: A 2. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés b) pontjával megállapított szöveg.
