@@ -2,6 +2,6 @@
 
 ## 6. Módosító rendelkezések
 
-6–8. §[^1]
+6–8. §[^5]
 
-[^1]: A 6–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

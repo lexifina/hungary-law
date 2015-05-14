@@ -14,4 +14,6 @@ c) a támogatási időszak minden évében a 2015. évben az egységes területa
 
 (3) Ha a 2015. évet követő években a mezőgazdasági termelő ki kíván lépni a kistermelői támogatási rendszerből, akkor ezt a szándékát az adott évben beadásra kerülő egységes kérelmében kell jeleznie.
 
-(4) Az 1307/2013/EU rendelet 62. cikk (3) bekezdésében foglaltak teljesítése érdekében az MVH, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, és az Agrárgazdasági Kutató Intézet által működtetett – az agrárpolitikáért felelős miniszter által jóváhagyott, és 2015. július 1-je előtt utoljára frissített, fajlagos támogatási adatok alapján szerkesztett – támogatási kalkulátornak az MVH honlapján biztosított elérhetősége útján teszi lehetővé a mezőgazdasági termelők számára a kistermelői támogatási rendszer keretében elérhető támogatás becsült összegének megismerhetőségét.
+(4)[^1] Az 1307/2013/EU rendelet 62. cikk (3) bekezdésében foglaltak teljesítése érdekében az MVH, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, és az Agrárgazdasági Kutató Intézet által működtetett – az agrárpolitikáért felelős miniszter által jóváhagyott, és 2015. július 8-a előtt utoljára frissített, fajlagos támogatási adatok alapján szerkesztett – támogatási kalkulátornak az MVH honlapján biztosított elérhetősége útján teszi lehetővé a mezőgazdasági termelők számára a kistermelői támogatási rendszer keretében elérhető támogatás becsült összegének megismerhetőségét.
+
+[^1]: A 2. § (4) bekezdése a 22/2015. (V. 13.) FM rendelet 6. §-a szerint módosított szöveg.
