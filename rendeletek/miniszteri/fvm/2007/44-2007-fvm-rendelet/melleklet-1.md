@@ -1,6 +1,7 @@
-## 7. §[^17] E rendeletnek a módosító rendelet 5–6. §-sal megállapított rendelkezéseit a 2010. augusztus 1-jét követően bekövetkezett vis maior eseményekre vonatkozóan kell alkalmazni.
+## 8. §[^23] E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított 3. § (2) bekezdését, 3. § (2b) és (2c) bekezdését, valamint a 4. § (3) bekezdés a) pontját a 23/2015. (V. 13.) FM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell azzal, hogy a 2015. évben már benyújtott vis maior bejelentések vonatkozásában az e rendeletnek a 23/2015. (V. 13.) FM rendelettel megállapított 3. § (2c) bekezdésében meghatározott határidő a 23/2015. (V. 13.) FM rendelet hatálybalépése[^24] napján kezdődik.
 
-1–2. számú melléklet a 44/2007. (VI. 8.) FVM rendelethez[^18]
+1–2. számú melléklet a 44/2007. (VI. 8.) FVM rendelethez[^25]
 
-[^17]: A 7. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 34. pontja hatályon kívül helyezte, újonnan a 8/2010. (VII. 30.) VM rendelet 9. §-a iktatta be.
-[^18]: Az 1–2. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 26. § (2) bekezdése hatályon kívül helyezte.
+[^23]: Az újabb 8. §-t a 23/2015. (V. 13.) FM rendelet 3. § (4) bekezdése iktatta be.
+[^24]: A hatálybalépés időpontja 2015. május 14.
+[^25]: Az 1–2. számú mellékletet a 23/2010. (III. 16.) FVM rendelet 26. § (2) bekezdése hatályon kívül helyezte.
