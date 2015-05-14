@@ -1,4 +1,4 @@
-## 28. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## 28/A. § E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított 5. § (2) bekezdés a) pontját és 19. § (2) bekezdését a 23/2015. (V. 13.) FM rendelet hatálybalépésekor[^12] folyamatban levő ügyekben is alkalmazni kell.
 
 ## 15. Az Európai Unió jogának való megfelelés
 
@@ -13,3 +13,5 @@ c) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU felhatalmazáson alapuló bizottsági rendeletnek,
 
 e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU felhatalmazáson alapuló bizottsági rendeletnek
+
+[^12]: A hatálybalépés időpontja 2015. május 14.

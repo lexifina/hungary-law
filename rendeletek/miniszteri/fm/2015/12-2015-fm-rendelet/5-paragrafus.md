@@ -2,7 +2,11 @@
 
 (2) A 9/2015. (III. 13.) FM rendelet 16. §-a szerinti cukorrépa termesztés támogatását igénylő,
 
-a) azon cukorrépa-termelőnek, aki közvetlenül termel cukorrépát, a 9/2015. (III. 13.) FM rendelet 16. § (1) bekezdés a) pontja szerinti szállítási szerződés másolatát;
+a)[^1] azon cukorrépa-termelőnek, aki közvetlenül termel cukorrépát,
+
+aa) a 9/2015. (III. 13.) FM rendelet 16. § (1) bekezdés a) pontja szerinti szállítási szerződés másolatát és
+
+ab) a 9/2015. (III. 13.) FM rendelet 16. § (1) bekezdés b) pontja szerinti szállítási jog igazolását szolgáló dokumentum másolatát;
 
 b) azon cukorrépa-termelőnek, aki cukorrépa integrátoron keresztül termel cukorrépát,
 
@@ -17,3 +21,5 @@ bb) amennyiben az igénylő nem rendelkezik önálló szállítási joggal, a cu
 (4) A 9/2015. (III. 13.) FM rendelet 21. §-a szerinti, többéves szálas fehérjetakarmány-növények támogatását igénylő ügyfélnek az egységes kérelemben kell megjelölnie az első vetés évét és az első vetéssel érintett terület nagyságát, továbbá az esetleges felülvetés évét és a felülvetéssel érintett terület nagyságát a 9/2015. (III. 13.) FM rendelet 21. § (3) bekezdésében foglaltakra figyelemmel.
 
 (5) Az ügyfél az egységes kérelemben köteles megjelölni, hogy az adott táblán termesztett növénykultúra – vagy az egymás után termesztett növénykultúrák esetében mely növénykultúra – vonatkozásában igényli a 9/2015. (III. 13.) FM rendelet szerinti támogatást.
+
+[^1]: Az 5. § (2) bekezdés a) pontja a 23/2015. (V. 13.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
