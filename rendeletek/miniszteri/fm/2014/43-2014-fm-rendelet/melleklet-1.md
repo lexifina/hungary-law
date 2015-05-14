@@ -1,4 +1,4 @@
-## 73. §[^2]
+## 73. §[^3]
 
 1. melléklet a 43/2014. (XII. 29.) FM rendelethez
 
@@ -156,4 +156,4 @@
 
 | 1. | Teljesítményvizsgálat végzése | Végtermék és fajtatesztek | Vizsgálati költségek 70%-a |
 
-[^2]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 73. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
