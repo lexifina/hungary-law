@@ -1,0 +1,233 @@
+# A Kormány 1306/2015. (V. 14.) Korm. határozata
+
+Magyar Közlöny 2015. évi 67. szám, 2015. május 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/59a578fee296db77e816975301a1c64f44768589/dokumentumok/a1b7d2c17f975b17b61000a7821cb9d65098b20c/letoltes)
+
+---
+
+A Kormány 1306/2015. (V. 14.) Korm. határozata
+a Végrehajtás Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról
+1. A Kormány
+a) megállapítja a Végrehajtás Operatív Program 2011–2013. évekre szóló akciótervét az 1. melléklet szerint,
+b) felhívja a Miniszterelnökséget vezető minisztert, hogy ha a Végrehajtás Operatív Program keretében
+megvalósított projektekre ténylegesen kifizetett támogatás meghaladná a Végrehajtás Operatív Program
+teljes forráskeretét, akkor gondoskodjon a különbözetnek a Közigazgatás- és Közszolgáltatás-fejlesztés
+Operatív Program technikai segítségnyújtásra vonatkozó prioritása terhére történő elszámolásáról.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: a Végrehajtás Operatív Program zárását követően azonnal
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. A Kormány visszavonja a Végrehajtás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló
+1353/2014. (VI. 26.) Korm. határozatot.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1306/2015. (V. 14.) Korm. határozathoz
+A Végrehajtás Operatív Program 2011–2013. évekre szóló akcióterve
+1. Az 1. prioritás: A támogatások felhasználásáért felelős központi és horizontális intézmények működtetése és
+fejlesztése
+1.1. A prioritás tartalma: A prioritás biztosítja a támogatások felhasználásáért felelős központi és horizontális
+intézmények feladatainak ellátását, az intézményrendszer egészének felkészülését segítő képzési, valamint
+humánerőforrás-fejlesztési programok kidolgozását és végrehajtását.
+1.2. A prioritás ütemezése
+1.2.1. A kiírások kerete
+A B
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2015 Összesen
+3. 67,70 67,70
+4. Többletkötelezettség-vállalás: 6,26 Mrd Ft
+5. A Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: -
+6.
+A Végrehajtás Operatív Program támogatási intenzitása: 91,85%, a keret 8,15%-a hazai (EU felé nem
+elszámolható, de finanszírozható) forrásként kerül feltüntetésre.
+Az akciótervi keret tartalmazza a teljes támogatási keretet (azaz a 91,85%-ot és a 8,15%-ot is).
+1.2.2. A kötelezettségvállalás
+A B
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2015 Összesen
+3. 67,70 67,70
+
+1.3. A támogatási konstrukciók összefoglaló adatai (2007–2015)
+1.3.1. A konstrukciók
+A B C D E F
+1. Konstrukció kódja Konstrukció neve
+Pályázatok, kiemelt
+projektek 2007–2015
+között meghirdethető
+összes kerete
+(Mrd Ft)
+A konstrukció célja
+A konstrukció
+szakmai
+tartalmáért felelős
+miniszter
+A konstrukció szakmai
+tartalma tekintetében
+feladatkörrel rendelkező
+további miniszter
+2. 1.1.1.
+Intézmények kapacitásának
+biztosítása
+67,65
+A konstrukció célja:
+1. humán erőforrás alkalmazása,
+2. a humán erőforrás ismereteinek és készségeinek
+fejlesztése,
+3. humán erőforrás infrastrukturális hátterének
+biztosítása,
+4. tapasztalatcsere, legjobb gyakorlat terjesztése,
+5. külső szakértői állomány megbízása,
+6. tanulmányok, útmutatók kidolgozása.
+Miniszter-
+elnökséget
+vezető
+miniszter
+–
+3. 1.1.2.
+Képzési, humán erőforrás
+menedzsment programok
+0,05
+A konstrukció célja:
+1. szakmai képzések,
+2. készség- és kompetencia alapú képzések, és
+3. képzésekhez kapcsolódó kiegészítő tevékenységek
+(e-learning rendszer bevezetése) szervezése.
+Miniszter-
+elnökséget
+vezető
+miniszter
+–
+4. Összesen 67,70
+1.3.2. Az 1.3.1. pontban foglalt táblázat 2. sora szerinti 1.1.1. konstrukció 6,26 milliárd forint többletkötelezettség-vállalást tartalmaz.
+
+2. A 2. prioritás: A támogatások minőségi felhasználásához szükséges eszközrendszer
+2.1. A prioritás tartalma: A prioritás az intézményrendszer szereplői által ellátandó, az alapok felhasználásának
+jogszabályi követelményeiből adódó feladatok hatékony ellátásához járul hozzá. Fő céljai a támogatások
+lebonyolításához szükséges hatékony monitoring és értékelő rendszerek rendelkezésre állásának biztosítása,
+másrészt a tájékoztatással és nyilvánossággal kapcsolatos követelmények teljesítése, továbbá a tanácsadói
+szolgáltatások helyi elérhetőségének biztosítása a (lehetséges) kedvezményezettek számára.
+2.2. A prioritás ütemezése
+2.2.1. A kiírások kerete
+A B
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2015 Összesen
+3. 58,44 58,44
+4. Többletkötelezettség-vállalás: 1,86 Mrd Ft
+5. A Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: -
+6.
+A Végrehajtás Operatív Program támogatási intenzitása: 91,85%, a keret 8,15%-a hazai (EU felé nem
+elszámolható, de finanszírozható) forrásként kerül feltüntetésre.
+Az akciótervi keret tartalmazza a teljes támogatási keretet (azaz a 91,85%-ot és a 8,15%-ot is).
+2.2.2. A kötelezettségvállalás
+A B
+1.
+Indikatív forrásallokáció
+(Mrd Ft, folyó áron, 280 forint/euró árfolyamon)
+2. 2007–2015 Összesen
+3. 58,44 58,44
+
+2.3. A támogatási konstrukciók összefoglaló adatai (2007–2015)
+2.3.1. A konstrukciók
+A B C D E F
+1.
+Konstrukció
+kódja
+Konstrukció neve
+Pályázatok, kiemelt
+projektek 2007–2015
+között meghirdethető
+összes kerete
+(Mrd Ft)
+A konstrukció célja
+A konstrukció
+szakmai
+tartalmáért
+felelős miniszter
+A konstrukció
+szakmai tartalma
+tekintetében
+feladatkörrel
+rendelkező további
+miniszter
+2. 2.1.1.
+Az Európai Unió előírásainak
+megfelelő, egyben
+az intézményrendszerben dolgozók
+munkáját aktívan támogató
+információs technológiai (IT)
+rendszer fejlesztése
+28,54
+A konstrukció célja:
+1. az Egységes Monitoring Információs Rendszer (EMIR)
+fejlesztése,
+2. az EMIR üzemeltetése,
+3. infrastruktúra beszerzése.
+Miniszter-
+elnökséget
+vezető
+miniszter
+–
+3. 2.1.2.
+Fejlesztési programok értékelése,
+a folyamatos értékelés rendszerének
+működtetése
+2,51
+A konstrukció célja:
+1. átfogó stratégiai és operatív értékelések lefolytatása,
+2. adatgyűjtések, elemzések, előrejelzések készítése,
+3. makroszintű hatások előrejelzése,
+4. fejlesztéspolitikai módszertani és értékelő tudásbázis
+kialakítása.
+Miniszter-
+elnökséget
+vezető
+miniszter
+–
+4. 2.1.3.
+A (lehetséges) kedvezményezettek
+számára folyamatos és átfogó
+információs tevékenység nyújtása,
+tájékoztatási tevékenységek
+folytatása
+17,01
+A konstrukció célja:
+1. támogatási lehetőségek megismertetése a szélesebb
+közvéleménnyel, a pályázók hatékony mozgósítása,
+2. a fejlesztési programok eredményeinek bemutatása,
+3. a partnerség elvével kapcsolatos feladatok ellátása,
+4. ügyfélszolgálati feladatok ellátása.
+Miniszter-
+elnökséget
+vezető
+miniszter
+–
+5. 2.1.4.
+A (lehetséges) kedvezményezetteket
+támogató, helyi elérhetőségű
+tanácsadói hálózat működtetése
+a minőségi projektek előkészítése és
+megvalósítása érdekében
+10,38
+A konstrukció célja:
+1. támogatási lehetőségek megismertetése,
+2. projektjavaslatok kidolgozásának segítése,
+3. projektek megvalósításának segítése.
+Miniszter-
+elnökséget
+vezető
+miniszter
+–
+6. Összesen 58,44
+2.3.2. A 2.3.1. pontban foglalt táblázat 2. sora szerinti 2.1.1. konstrukció 0,25 milliárd forint; 4. sora szerinti 2.1.3. konstrukció 1,61 milliárd forint többletkötelezettség-
+vállalást tartalmaz.
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: Budapest V., Kossuth tér 4.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
+A Magyar Közlöny oldalhű másolatát papíron kiadja a Magyar Közlöny Lap- és Könyvkiadó.
+Felelős kiadó: Köves Béla ügyvezető.
