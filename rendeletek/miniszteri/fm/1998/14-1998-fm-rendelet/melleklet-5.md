@@ -1,4 +1,4 @@
-5. számú melléklet a 14/1998. (IV. 3.) FM rendelethez[^43]
+5. számú melléklet a 14/1998. (IV. 3.) FM rendelethez[^46]
 
 A vágóhidakról készítendő összesítő jelentések tartalmi követelményei
 
@@ -32,4 +32,4 @@ A vágóhidakról készítendő összesítő jelentések tartalmi követelménye
 
 6. A nem minősített vágómarhák darabszám és százalékos megoszlása, kor és ivar megjelölése, a nem minősítés oka.
 
-[^43]: Az 5. számú mellékletet a 76/2003. (VII. 4.) FVM rendelet 11. §-ának (4) bekezdése iktatta be, szövege a 135/2011. (XII. 22.) VM rendelet 4. §-ával megállapított szöveg.
+[^46]: Az 5. számú mellékletet a 76/2003. (VII. 4.) FVM rendelet 11. §-ának (4) bekezdése iktatta be, szövege a 135/2011. (XII. 22.) VM rendelet 4. §-ával megállapított szöveg.
