@@ -14,7 +14,7 @@
 
 ## 7. Csatolandó mellékletek
 
-6. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^82]
+6. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^84]
 
 A baromfiállományban a mellsérülés megelőzéséhez szükséges feltételek
 
@@ -142,4 +142,4 @@ ec) Istálló és kifutó felület biztosítása
 
 | 4. | 17 hetes korig | 0,65 | 0,4 | 20 | 4 |
 
-[^82]: A 6. számú mellékletet a 111/2012. (X. 29.) VM rendelet 4. §-a iktatta be, szövege a 33/2014. (IV. 4.) VM rendelet 9. § b) pontjával megállapított szöveg.
+[^84]: A 6. számú mellékletet a 111/2012. (X. 29.) VM rendelet 4. §-a iktatta be, szövege a 33/2014. (IV. 4.) VM rendelet 9. § b) pontjával megállapított szöveg.

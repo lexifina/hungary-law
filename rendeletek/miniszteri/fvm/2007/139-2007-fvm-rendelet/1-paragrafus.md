@@ -114,9 +114,9 @@ e) levágott összes baromfifélére,
 
 (6b)[^11] A 2014. IV. negyedévre rendelkezésre álló támogatási keret 2655 millió forint.
 
-(6c)[^12] A (6) bekezdéstől eltérően amennyiben egy vagy több baromfi megnevezés-csoport esetében a jóváhagyott támogatás kevesebb, mint a naptári negyedévben odaítélhető összeg, az így fel nem használt forrással az adott negyedévben meg kell növelni azon baromfi megnevezés-csoport(ok) támogatási összegét, ahol a jóváhagyott támogatási igény meghaladja a rendelkezésre álló forrást.
+(6c)[^12] A (6) bekezdéstől eltérően amennyiben egy vagy több baromfi megnevezés-csoport esetében a jóváhagyott támogatás kevesebb, mint a tárgynegyedévben odaítélhető összeg, az így fel nem használt forrással az adott tárgynegyedévben meg kell növelni azon baromfi megnevezés-csoport(ok) támogatási keretét, ahol a jóváhagyott támogatási igény meghaladja a rendelkezésre álló forrást.
 
-(6d)[^13] Amennyiben a (6c) bekezdés alapján több baromfi megnevezés-csoport támogatási keretét kell megnövelni, úgy az adott csoport a felosztásra kerülő többletforrásból ugyanolyan mértékben részesül, mint a tárgynegyedévben a felosztás előtt a forráshiány miatt ki nem elégíthető összes igényből.
+(6d)[^13] Amennyiben a (6c) bekezdés alapján adott tárgynegyedévben több baromfi megnevezés-csoport támogatási keretét kell megnövelni, úgy a 4. számú mellékletben meghatározott, adott tárgynegyedévi keretek arányában kell a fel nem használt keretet felosztani.
 
 (7)[^14] A támogatást a 4. számú mellékletben rögzített támogatási keretek alapján az adott tárgynegyedévben bekövetkezett gazdasági események után lehet igényelni. A növendék csirke (vágócsirke), a szabadtartásos csirke, a gyöngyös, a vágási célra előállított pecsenyeliba, a növendék liba, a fiatal liba, a pecsenyekacsa és a vágásra nevelt növendék kacsa esetében az összes támogatási jogcím után igényelhető támogatás.
 
@@ -155,8 +155,8 @@ eb) a 4–5. § szerinti támogatás a vágást követően igényelhető.
 [^9]: Az 1. § (6) bekezdése a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdésével megállapított, záró szövegrésze a 2. §-a szerint módosított szöveg.
 [^10]: Az 1. § (6a) bekezdését újonnan a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be.
 [^11]: Az 1. § (6b) bekezdését újonnan a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be.
-[^12]: Az 1. § (6c) bekezdését a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be.
-[^13]: Az 1. § (6d) bekezdését a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be.
+[^12]: Az 1. § (6c) bekezdését a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be, a 23/2015. (V. 13.) FM rendelet 4. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^13]: Az 1. § (6d) bekezdését a 33/2014. (XII. 10.) FM rendelet 1. § (1) bekezdése iktatta be, szövege a 23/2015. (V. 13.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^14]: Az 1. § (7) bekezdése a 33/2014. (IV. 4.) VM rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^15]: Az 1. § (7a) bekezdését a 75/2013. (IX. 6.) VM rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 33/2014. (IV. 4.) VM rendelet 10. §-a.
 [^16]: Az 1. § (8) bekezdését az 57/2009. (IV. 29.) FVM rendelet 1. § (2) bekezdése iktatta be, szövege a 68/2011. (VII. 14.) VM rendelet 5. §-ával megállapított szöveg.

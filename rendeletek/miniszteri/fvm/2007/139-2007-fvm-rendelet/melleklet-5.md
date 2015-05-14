@@ -20,13 +20,13 @@
 
 | 1. | Baromfi megnevezése | Támogatási keret (millió Ft) |
 
-| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | 1000 |
+| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | 1150 |
 
-| 3. | házi tyúk | 95 |
+| 3. | házi tyúk | 130 |
 
-| 4. | pecsenyeliba növendék liba fiatal liba hízott liba pecsenyekacsa növendék kacsa hízott kacsa | 1050 |
+| 4. | pecsenyeliba növendék liba fiatal liba hízott liba pecsenyekacsa növendék kacsa hízott kacsa | 805 |
 
-| 5. | növendék pulyka | 510 |
+| 5. | növendék pulyka | 570 |
 
 | 6. | Összesen: | 2655 |
 
@@ -70,6 +70,6 @@
 
 | 6. | Összesen: |  | 11 000 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^81]
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^83]
 
-[^81]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^83]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.

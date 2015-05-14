@@ -10,6 +10,6 @@
 
 ## b) ha a telepen az állatok vízellátása vezetékes vízhálózatról történik, a vízszolgáltató írásos nyilatkozatával arról, hogy az általa szolgáltatott víz ivóvíz minőségű.
 
-4. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^80]
+4. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^82]
 
-[^80]: A 4. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 33/2014. (XII. 10.) FM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^82]: A 4. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 33/2014. (XII. 10.) FM rendelet 1. § (4) bekezdésével megállapított, a 23/2015. (V. 13.) FM rendelet 4. § (3) bekezdése szerint módosított szöveg.
