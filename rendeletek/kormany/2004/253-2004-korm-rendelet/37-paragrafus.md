@@ -12,13 +12,13 @@
 
 (6)[^95] A sportegyesület a lőfegyverét és a lőszerét
 
-a) a sportegyesület igazolt sportlövőjének
+a) átengedheti
 
-aa) a lőfegyver és a lőszer tárolásának helye és a sporttevékenység (edzés, verseny) végzésének helyszíne közötti közvetlen szállítás és
+aa) a tizennegyedik életévét betöltött, versenyengedéllyel vagy rajtengedéllyel rendelkező sportolójának – a tizennyolcadik életév betöltéséig az ab) alpontban vagy a b) pontban meghatározott személyek valamelyikének folyamatos felügyelete mellett – a sporttevékenység (edzés, verseny) végzésének időtartamára, továbbá
 
-ab) a sporttevékenység (edzés, verseny) végzésének időtartamára átadhatja, továbbá
+ab) a tizennyolcadik életévét betöltött tagjának az edzés időtartamára, valamint
 
-b) a sportegyesület tagjának az edzés időtartamára átengedheti.
+b) átadhatja a tizennyolcadik életévét betöltött, versenyengedéllyel vagy rajtengedéllyel rendelkező sportolójának a lőfegyver és a lőszer tárolásának helye és a sporttevékenység (edzés, verseny) végzésének helyszíne közötti közvetlen szállítás időtartamára.
 
 (7)[^96] A 28. § (2) bekezdésében meghatározott szervezet lőfegyverét, lőszerét a 35. § (1) bekezdése szerinti engedélyben feltüntetett, a vele írásban foglalt szerződés alapján munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban lévő, a lőfegyver tartásához szükséges – e rendeletben meghatározott – feltételekkel rendelkező személynek, a szerződésben meghatározott feladat tényleges ellátásának időtartamára átadhatja.
 
@@ -31,7 +31,7 @@ b) a sportegyesület tagjának az edzés időtartamára átengedheti.
 [^92]: A 37. § (1) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés g) pontja szerint módosított szöveg.
 [^93]: A 37. § (2) bekezdése a 39/2012. (III. 12.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^94]: A 37. § (5) bekezdése a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^95]: A 37. § (6) bekezdése a 67/2010. (III. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^95]: A 37. § (6) bekezdése az 54/2015. (III. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^96]: A 37. § (7) bekezdése a 21/2010. (II. 9.) Korm. rendelet 2. § (3) bekezdése, a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 11. pontja szerint módosított szöveg.
 [^97]: A 37. § (8) bekezdését a 39/2012. (III. 12.) Korm. rendelet 17. § (2) bekezdése iktatta be.
 [^98]: A 37. § (9) bekezdését a 39/2012. (III. 12.) Korm. rendelet 17. § (2) bekezdése iktatta be.

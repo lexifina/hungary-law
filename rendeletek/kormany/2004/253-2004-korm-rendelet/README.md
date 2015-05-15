@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-253-20-
 | 2013-12-13 | 2004-253-20-22.23 | 447/2013. (XI. 28.) Korm. rendelet |
 | 2014-01-25 | 2004-253-20-22.24 | 12/2014. (I. 24.) Korm. rendelet |
 | 2014-09-05 | 2004-253-20-22.25 | 21/2010. (II. 9.) Korm. rendelet |
+| 2015-05-15 | 2004-253-20-22.26 | 54/2015. (III. 17.) Korm. rendelet |

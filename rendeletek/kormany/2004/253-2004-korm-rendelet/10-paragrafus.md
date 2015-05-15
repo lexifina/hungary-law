@@ -1,30 +1,36 @@
 ## 9. § A fegyver és lőszer gyártását, az elkészített alkatrészek összeszerelését végző személynek és a személyt közvetlenül irányító, felügyelő vagy ellenőrző személynek gyártásra jogosító szakképzettséggel kell rendelkeznie. Ennek igazolása az engedély kiadásának feltétele.
 
-10. § (1)[^25] A fegyver gyártását, forgalmazását vagy javítását végző személy szakképzettségeként, szakképesítéseként előírt képesítésnek kell tekinteni
+10. § (1)[^25] A fegyver
 
-a) a puskaművesi képesítést,
+a) forgalmazását vagy javítását végző személy szakképzettségeként, szakképesítéseként előírt képesítésnek kell tekinteni
 
-b) a fémipari technikusi képesítést,
+aa) a puskaművesi képesítést,
 
-c) a fegyvermesteri szakvizsgát,
+ab) a fémipari technikusi képesítést,
 
-d) a gépészmérnöki szakképzettséget,
+ac) a fegyvermesteri szakvizsgát,
 
-e) a gépész-üzemmérnöki szakképzettséget,
+ad) az okleveles gépészmérnök szakképzettséget,
 
-f) a katonai közép- vagy felsőfokú oktatási intézményben szakirányú – fegyverzeti – szakon megszerzett szakképesítést, illetve szakképzettséget,
+ae) a gépészmérnök szakképzettséget,
 
-g) a 09 2 7490 03 9 0 05, a 34 5237 01, a 31 863 01 0001 33 01 vagy az 55 863 02 OKJ számú Vadászpuskaműves szakképesítést,
+af) a katonai középfokú oktatási intézményben vagy a katonai felsőoktatási intézményben szakirányú – fegyverzeti – szakon megszerzett szakképesítést, illetve szakképzettséget,
 
-h) a 93 4 0210 02 2 4 06, az 51 8917 01, a 31 863 01 0000 00 00 vagy az 54 863 01 OKJ számú Fegyverműszerész szakképesítést,
+ag) a 09 2 7490 03 9 0 05, a 34 5237 01, a 31 863 01 0001 33 01 vagy az 55 863 02 OKJ számú Vadászpuskaműves szakképesítést,
 
-i) a 93 5 0210 16 9 0 02 vagy az 52 8917 01 OKJ számú fegyvertechnikusi szakképesítést, valamint
+ah) a 93 4 0210 02 2 4 06, az 51 8917 01, a 31 863 01 0000 00 00 vagy az 54 863 01 OKJ számú Fegyverműszerész szakképesítést,
 
-j) forgalmazási tevékenység esetén a megyei (fővárosi) rendőr-főkapitányságon letett fegyverforgalmazási vizsgát.
+ai) a 93 5 0210 16 9 0 02 vagy az 52 8917 01 OKJ számú Fegyvertechnikus szakképesítést,
+
+aj) a vadászpuskaműves mester végzettséget, valamint
+
+ak) forgalmazási tevékenység esetén a megyei (fővárosi) rendőr-főkapitányságon letett fegyverforgalmazási vizsgát, továbbá
+
+b) gyártását végző személy szakképesítéseként, végzettségeként előírt képesítésnek kell tekinteni az a) pont af), ag) és aj) alpontjában meghatározott képesítést, valamint a gépgyártás-technológia szakon végzett okleveles gépészmérnök, illetve gépészmérnök szakképzettséget.
 
 (2)[^26] A fegyverforgalmazási vizsga eredményéről a megyei (fővárosi) rendőr-főkapitányság bizonyítványt ad ki. A vizsgakérdéseket és szabályait a 10. számú melléklet, a vizsgabizonyítvány formáját és tartalmát a 11. számú melléklet tartalmazza.
 
-(3)[^27] A vizsgabizottság tagjait a megyei (fővárosi) rendőrfőkapitány jelöli ki, egy tagjának az (1) bekezdés a), c), f), g), h) vagy i) pontjában meghatározott képesítéssel vagy igazságügyi fegyverszakértői képesítéssel kell rendelkeznie.
+(3)[^27] A vizsgabizottság tagjait a megyei (fővárosi) rendőrfőkapitány jelöli ki, egy tagjának az (1) bekezdés a) pont aa) alpontjában, ac) alpontjában, af) alpontjában, ag) alpontjában, ah) vagy ai) alpontjában meghatározott képesítéssel vagy igazságügyi fegyverszakértői képesítéssel kell rendelkeznie.
 
 (4)[^28] A fegyverforgalmazási vizsga letételére kell kötelezni azt a személyt, akinek az engedélyét az 5. § (1) bekezdés b) pontja alapján vonták vissza.
 
@@ -32,7 +38,7 @@ j) forgalmazási tevékenység esetén a megyei (fővárosi) rendőr-főkapitán
 
 (6) A fegyverforgalmazási vizsgáért díjat kell fizetni.
 
-[^25]: A 10. § (1) bekezdése a 12/2014. (I. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: A 10. § (1) bekezdése az 54/2015. (III. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^26]: A 10. § (2) bekezdésének első mondata a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának m) pontja szerint módosított szöveg.
-[^27]: A 10. § (3) bekezdése a 12/2014. (I. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^27]: A 10. § (3) bekezdése az 54/2015. (III. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^28]: A 10. § (4) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
