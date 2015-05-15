@@ -1,1 +1,0 @@
-## 6. A sertéságazati stratégiai intézkedések keretében a törzstenyészetek fejlesztését szolgáló mezőgazdasági csekély összegű (de minimis) támogatásról szóló 78/2013. (IX. 10.) VM rendelet módosítása
