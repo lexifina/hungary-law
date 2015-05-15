@@ -30,7 +30,13 @@
 
 ## Határidő: 2015. december 22.
 
-## d)[^3] a belügyminisztert és a nemzeti fejlesztési minisztert, hogy – a földművelésügyi miniszter és a nemzetgazdasági miniszter bevonásával – készítsenek közös előterjesztést a c) alpontban foglalt jogszabályok módosítására a Kormány részére;
+## d)[^3] a belügyminisztert és a nemzeti fejlesztési minisztert, hogy – a földművelésügyi miniszter és a nemzetgazdasági miniszter bevonásával – készítsenek közös előterjesztést a c) alpontban foglalt jogszabályok módosítására a Kormány részére. A hatékony, ösztönző jellegű víz-ár politika kialakításának, valamint a környezeti és erőforrás költségek megtérülésének érdekében a jogszabály módosításoknak ki kell terjednie:
+
+## – az öntözővíz szolgáltatás térítés-mentességének megszüntetésére és felhasznált vízmennyiséggel arányos díjak bevezetésére;
+
+## – az öntözés, halgazdaság és rizstermelés vonatkozásában a vízkészletjárulék fizetése alóli kivétel megszüntetésére, az ösztönző vízkészletjárulék bevezetésére;
+
+## – a mennyiségi mérésen alapuló vízhasználatra, különösen az öntözési vízhasználatok esetében;
 
 ## Felelős: belügyminiszter
 
@@ -120,7 +126,7 @@ Ahol szükséges a kiegészítő monitoring mérések és a kibocsátási leltá
 
 [^1]: Az 1. pont a) alpontja az 1394/2014. (VII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. pont c) alpontja az 1394/2014. (VII. 18.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: Az 1. pont d) alpontja az 1394/2014. (VII. 18.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: Az 1. pont d) alpontja az 1308/2015. (V. 15.) Korm. határozattal megállapított szöveg.
 [^4]: Az 1. pont e) alpontját az 1394/2014. (VII. 18.) Korm. határozat 4. pontja iktatta be.
 [^5]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^6]: Az 1. mellékletet az 1394/2014. (VII. 18.) Korm. határozat 5. pontja iktatta be.

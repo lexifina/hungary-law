@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1121-30
 | 2014-03-06 | 2014-1121-30-22.1 | 1121/2014. (III. 6.) Korm. határozat |
 | 2014-03-07 | 2014-1121-30-22.2 | 2010: CXXX. törvény |
 | 2014-07-18 | 2014-1121-30-22.3 | 1394/2014. (VII. 18.) Korm. határozat |
+| 2015-05-15 | 2014-1121-30-22.4 | 1308/2015. (V. 15.) Korm. határozat |
