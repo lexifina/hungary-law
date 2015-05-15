@@ -1,0 +1,1 @@
+## „(3) A vizsgabizottság tagjait a megyei (fővárosi) rendőrfőkapitány jelöli ki, egy tagjának az (1) bekezdés a) pont aa) alpontjában, ac) alpontjában, af) alpontjában, ag) alpontjában, ah) vagy ai) alpontjában meghatározott képesítéssel vagy igazságügyi fegyverszakértői képesítéssel kell rendelkeznie.”
