@@ -32,11 +32,13 @@ e) úszómunkagép-vezető vizsgánál a gyakorlati időbe be kell számítani a
 
 (5)[^30] Az 1994. június 1-jét követően szerzett belvízi vagy tengeri hajózási gyakorlatot a hajós szolgálati könyvvel, tengerész szolgálati könyvvel vagy azok kivonataival kell igazolni. A hajós szolgálati könyvben és a tengerész szolgálati könyvben a hivatásos és a szolgálati célú gyakorlatra vonatkozó bejegyzés akkor tekinthető igazoltnak, ha azt a hajós és tengerész szolgálati könyvről szóló miniszteri rendeletben meghatározott hajózási hatóság hitelesítette.
 
-(6)[^31] A belvízi kedvtelési célú kishajó-vezetői elméleti vizsgára bocsátás feltétele a betöltött 17. életév.
+(5a)[^31] A tengerész képesítések megszerzéséhez és a tengerész képesítő okmányok meghosszabbításához előírt gyakorlatot az STCW Egyezmény szerinti tengeri hajón kell teljesíteni.
 
-(7)[^32] A vizsgát a vizsgára való jelentkezés benyújtásától számított 12 hónapon belül meg kell kezdeni.
+(6)[^32] A belvízi kedvtelési célú kishajó-vezetői elméleti vizsgára bocsátás feltétele a betöltött 17. életév.
 
-(8)[^33] Az iskolarendszerű hajózási szakképzés tanulója a hajózási hatóságtól előrehozott hatósági részvizsgára bocsátását kérheti.
+(7)[^33] A vizsgát a vizsgára való jelentkezés benyújtásától számított 12 hónapon belül meg kell kezdeni.
+
+(8)[^34] Az iskolarendszerű hajózási szakképzés tanulója a hajózási hatóságtól előrehozott hatósági részvizsgára bocsátását kérheti.
 
 [^25]: Az 5. § (1) bekezdésének bevezető szövegrésze a 9/2009. (III. 6.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^26]: Az 5. § (1) bekezdésének a) pontja a 3/2008. (VI. 3.) KHEM rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -44,6 +46,7 @@ e) úszómunkagép-vezető vizsgánál a gyakorlati időbe be kell számítani a
 [^28]: Az 5. § (1) bekezdésének f) pontja a 9/2009. (III. 6.) KHEM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^29]: Az 5. § (4) bekezdése a 42/2013. (VII. 19.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^30]: Az 5. § (5) bekezdését a 3/2008. (VI. 3.) KHEM rendelet 4. § (2) bekezdése iktatta be, szövege a 42/2013. (VII. 19.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^31]: Az 5. § (6) bekezdését a 42/2013. (VII. 19.) NFM rendelet 1. § (3) bekezdése iktatta be.
-[^32]: Az 5. § (7) bekezdését a 29/2014. (V. 5.) NFM rendelet 15. §-a iktatta be.
-[^33]: Az 5. § (8) bekezdését a 29/2014. (V. 5.) NFM rendelet 15. §-a iktatta be.
+[^31]: Az 5. § (5a) bekezdését a 23/2015. (V. 8.) NFM rendelet 2. §-a iktatta be.
+[^32]: Az 5. § (6) bekezdését a 42/2013. (VII. 19.) NFM rendelet 1. § (3) bekezdése iktatta be.
+[^33]: Az 5. § (7) bekezdését a 29/2014. (V. 5.) NFM rendelet 15. §-a iktatta be.
+[^34]: Az 5. § (8) bekezdését a 29/2014. (V. 5.) NFM rendelet 15. §-a iktatta be.

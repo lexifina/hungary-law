@@ -30,9 +30,9 @@ m) úszólétesítmény vezetése: az úszólétesítmény irányítása, berend
 
 n)[^7] szolgálati hajó: az a hajó, amely vízirendészeti, határőrizeti, vám- és pénzügyőri, katasztrófavédelmi, környezetvédelmi, természetvédelmi, hajózási, vízügyi, tűzoltási, vízi- és műszaki mentési, honvédelmi szolgálati céllal közlekedik. A szolgálati hajó nagyhajó és kishajó lehet;
 
-o) STCW Egyezmény: a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló – 1995-ben módosított – 1978. évi nemzetközi egyezmény;[^8]
+o)[^8] STCW Egyezmény: a 2012. évi XIX. törvénnyel kihirdetett, a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény 2010. évi manilai módosításaival egységes szerkezetbe foglalt szövege;
 
-p)[^9] STCW Szabályzat: az STCW Egyezmény végrehajtására vonatkozó szabályzat,
+p)[^9] STCW-Szabályzat: a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló módosított (STCW) szabályzat, amelyet a szerződő felek az 1995. évi konferencia 2. határozatával fogadtak el;
 
 r)[^10] harmadik állam: olyan állam, amely nem részese az Európai Gazdasági Térségről szóló megállapodásnak;
 
@@ -62,8 +62,8 @@ zb) A1–A4 körzet: az A1 körzeten túli területek a pólusokig.
 [^5]: A Nemzetközi Távközlési Egyezményt az 1985. évi 18. törvényerejű rendelet hirdette ki.
 [^6]: A 2. § l) pontja a 9/2009. (III. 6.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § n) pontja a 3/2008. (VI. 3.) KHEM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: A tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978/1995. évi nemzetközi egyezményt a 119/1997. (VII. 15.) Korm. rendelet hirdette ki.
-[^9]: A 2. § p) pontját a 74/2005. (IX. 28.) GKM rendelet 1. §-a iktatta be.
+[^8]: A 2. § o) pontja a 23/2015. (V. 8.) NFM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § p) pontját a 74/2005. (IX. 28.) GKM rendelet 1. §-a iktatta be, szövege a 23/2015. (V. 8.) NFM rendelet 1. §-ával megállapított szöveg.
 [^10]: A 2. § r) pontját a 74/2005. (IX. 28.) GKM rendelet 1. §-a iktatta be.
 [^11]: A 2. § s) pontját a 16/2006. (IV. 6.) GKM rendelet 1. § (2) bekezdése iktatta be.
 [^12]: A 2. § t) pontját a 93/2006. (XII. 27.) GKM rendelet 1. §-a iktatta be.

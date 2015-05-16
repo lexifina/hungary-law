@@ -12,7 +12,7 @@
 
 ## c) személyi biztonságtechnikai, a hajó személyzetéért viselt felelősségi és környezetvédelmi, valamint
 
-## d)[^192] alapfokú egészségügyi elsősegélynyújtási ismeretekből a hajózási hatóság által erre felhatalmazott szerv előtt vizsgát kell tennie. A sikeres vizsga alapján kiállított bizonyítványok érvényessége 5 év.
+## d)[^203] alapfokú egészségügyi elsősegélynyújtási ismeretekből a hajózási hatóság által erre felhatalmazott szerv előtt vizsgát kell tennie. A sikeres vizsga alapján kiállított bizonyítványok érvényessége 5 év.
 
 ## e) Vizsga nélkül ki kell adni a személyi túlélés-technikai ismeretek, alapfokú tűzvédelmi ismeretek, személyi biztonságtechnikai, tengeri környezetvédelmi és a hajó személyzetéért viselt felelősségi ismeretek elsajátításáról a bizonyítványt annak, aki 1997. február 1. napja előtt szerzett képesítést, illetve ezt megelőzően tengeri hajón legalább 3 évig teljesített szolgálatot.
 
@@ -42,15 +42,15 @@
 
 ## Az elvégzett oktatás körülményeit és eredményét külön oktatási naplóban kell rögzíteni, és azt a kikötő és a lobogó szerinti állam hatóságainak felszólítására be kell mutatni.
 
-## 5.[^193] A tengerész fedélzeti- és géptiszti képesítéssel rendelkező személynek 5 évente a képesítő okmányát érvényesíttetnie kell. A hajózási hatóság az okmány érvényességét további 5 évre meghosszabbítja, ha a jelölt az okmány lejártát megelőző 5 éven belül tengerész szolgálati könyvvel igazolja, hogy a képesítésnek megfelelő beosztásban legalább 12 hónapot hajózott és érvényes orvosi alkalmassági igazolással rendelkezik.
+## 5.[^204] A tengerész fedélzeti- és géptiszti képesítéssel rendelkező személynek 5 évente a képesítő okmányát érvényesíttetnie kell. A hajózási hatóság az okmány érvényességét további 5 évre meghosszabbítja, ha a jelölt az okmány lejártát megelőző 5 éven belül tengerész szolgálati könyvvel igazolja, hogy a képesítésnek megfelelő beosztásban legalább 12 hónapot hajózott és érvényes orvosi alkalmassági igazolással rendelkezik.
 
-## 6.[^194]
+## 6.[^205]
 
 ## 7. A képesítés megszerzéséhez a melléklet A., illetve B. részének III. fejezetében előírt gyakorlati idő a hajózási hatóság által elismert szakirányú egyetemi és főiskolai képzésben szerzett oklevél esetén 12 hónappal, hajózási szakképzésben szerzett képesítő bizonyítvány esetén 6 hónappal csökken, és a jelöltek az olyan elméleti tantárgyak vizsgái alól mentesülnek, amelyekből tanulmányaik során vizsgát tettek.
 
-## 8.[^195] A melléklet A. és B. részében előírt „Gyakorlatok vizsgakönyve 3000 BT feletti hajóra előírt kapitányi vizsgához”, „Gyakorlatok vizsgakönyve a 3000 BT feletti hajóra előírt első tiszti vizsgához” és a „Gyakorlatok vizsgakönyve”-t a hajózási hatóság adja ki és hitelesíti.
+## 8.[^206] A melléklet A. és B. részében előírt „Gyakorlatok vizsgakönyve 3000 BT feletti hajóra előírt kapitányi vizsgához”, „Gyakorlatok vizsgakönyve a 3000 BT feletti hajóra előírt első tiszti vizsgához” és a „Gyakorlatok vizsgakönyve”-t a hajózási hatóság adja ki és hitelesíti.
 
-## 9.[^196] A melléklet A. és B. részében felsorolt fedélzeti és géptiszti képesítéseknél előírt rádiókezelői, emelt szintű tűzvédelmi, egészségügyi elsősegély-nyújtási és egészségügyi ellátási képzés alapján kiállított bizonyítvány érvényessége 5 év. Az érvényesítéshez ismeretfelújító képzésen kell részt venni és annak eredményes elvégzését a képzés szervezője által kiállított okirattal igazolni. Az igazolás alapján a rádiókezelői és az emeltszintű tűzvédelmi ismeretek bizonyítvány érvényességét a hajózási hatóság újabb 5 évre meghosszabbítja. Az elsősegélynyújtási és egészségügyi ellátási bizonyítvány érvényességét a kijelölt egészségügyi szerv vezetője hosszabbítja meg.
+## 9.[^207] A melléklet A. és B. részében felsorolt fedélzeti és géptiszti képesítéseknél előírt rádiókezelői, alapfokú tűzvédelmi, emelt szintű tűzvédelmi, személyi túlélés technikai, túlélési járműkezelői, egészségügyi elsősegély-nyújtási és egészségügyi ellátási képzés alapján kiállított bizonyítvány érvényessége 5 év. A bizonyítványok újraérvényesítéséhez ismeretfelújító képzésen kell részt venni és annak eredményes elvégzését a képzés szervezője által kiállított okirattal igazolni. Az igazolás alapján a bizonyítvány érvényességét a hajózási hatóság újabb 5 évre meghosszabbítja.
 
 ## II. AZ EGYES TENGERÉSZ KÉPESÍTÉSEKRE VONATKOZÓ KÖVETELMÉNYEK
 
@@ -68,7 +68,7 @@
 
 ## 3. navigációs őrszolgálatért felelős tiszt,
 
-## 4.[^197] Rádiókezelő
+## 4.[^208] Rádiókezelő
 
 ## a) általános rádiókezelő,
 
@@ -92,11 +92,11 @@
 
 ## 5. A túlélési járműkezelői bizonyítvány túlélési jármű vezetésére és kezelésére jogosít.
 
-## 6.[^198] Rádiókezelő bizonyítvány
+## 6.[^209] Rádiókezelő bizonyítvány
 
-## a) Az általános rádiókezelő bizonyítvány (GOC[^199]) tengeri mozgószolgálatban bármely hajó rádióberendezésének kezelésére és azon történő forgalmazásra jogosít. A bizonyítvány 5 évig érvényes.
+## a) Az általános rádiókezelő bizonyítvány (GOC[^210]) tengeri mozgószolgálatban bármely hajó rádióberendezésének kezelésére és azon történő forgalmazásra jogosít. A bizonyítvány 5 évig érvényes.
 
-## b) A korlátozott rádiókezelő bizonyítvány (ROC[^200]) tengeri mozgószolgálatban bármely hajó rádióberendezésének kezelésére és azon történő forgalmazásra jogosít, feltéve, hogy a berendezés kezeléséhez egyszerű külső kapcsolók használatára van szükség, és a berendezés maga biztosítja a frekvenciastabilitást a Nemzetközi Rádiószabályzat 2. függelékében rögzített tűréshatárok között, továbbá amely a GMDSS szerinti A1 körzetben szükséges. A bizonyítvány 5 évig érvényes.
+## b) A korlátozott rádiókezelő bizonyítvány (ROC[^211]) tengeri mozgószolgálatban bármely hajó rádióberendezésének kezelésére és azon történő forgalmazásra jogosít, feltéve, hogy a berendezés kezeléséhez egyszerű külső kapcsolók használatára van szükség, és a berendezés maga biztosítja a frekvenciastabilitást a Nemzetközi Rádiószabályzat 2. függelékében rögzített tűréshatárok között, továbbá amely a GMDSS szerinti A1 körzetben szükséges. A bizonyítvány 5 évig érvényes.
 
 ## 7. A radarkezelői bizonyítvány a hajó radarberendezésének kezelésére jogosít.
 
@@ -116,7 +116,7 @@
 
 ## d) ,,Gyakorlatok vizsgakönyve – 3000 BT vagy annál nagyobb hajón – kapitányi vizsgához''.
 
-## e)–f)[^201]
+## e)–f)[^212]
 
 ## 2. A 3000 BT vagy annál nagyobb hajón az első tiszti képesítéshez előírt feltételek:
 
@@ -128,7 +128,7 @@
 
 ## d) ,,Gyakorlatok vizsgakönyve – 3000 BT vagy annál nagyobb hajón – első tiszti vizsgához''.
 
-## e)–f)[^202]
+## e)–f)[^213]
 
 ## 3. Az 500 BT és 3000 BT közötti hajón a tengerészkapitányi képesítéshez előírt feltételek:
 
@@ -136,7 +136,7 @@
 
 ## b) angol nyelvből államilag elismert általános középfokú nyelvvizsga, vagy a hajózási hatóság által kijelölt vizsgabizottság előtt tett szakmai nyelvvizsga igazolása.
 
-## c)[^203]
+## c)[^214]
 
 ## 4. Az 500 BT és 3000 BT közötti hajón az első tiszti képesítéshez előírt feltételek:
 
@@ -146,7 +146,7 @@
 
 ## c) egészségügyi ellátási és emelt szintű tűzvédelmi vizsga.
 
-## d)–e)[^204]
+## d)–e)[^215]
 
 ## 5. Az 500 BT vagy annál nagyobb hajón a navigációs őrszolgálatért felelős tiszt képesítéshez előírt feltételek:
 
@@ -164,7 +164,7 @@
 
 ## g) egészségügyi elsősegély-nyújtási és emelt szintű tűzvédelmi vizsga.
 
-## h)[^205]
+## h)[^216]
 
 ## 6. A navigációs őrszolgálat tagja képesítéshez előírt feltételek:
 
@@ -172,7 +172,7 @@
 
 ## b) alapfokú tűzvédelmi, túlélés-technikai, személyi biztonságtechnikai, a hajó személyzetéért viselt felelősségi és környezetvédelmi, valamint elsősegély-nyújtási ismeretekből tett vizsga, továbbá
 
-## c)[^206]
+## c)[^217]
 
 ## 7. Túlélési járműkezelő:
 
@@ -180,17 +180,17 @@
 
 ## b) 12 havi igazolt tengeri gyakorlat.
 
-## c)[^207]
+## c)[^218]
 
-## 8.[^208] Rádiókezelő:
+## 8.[^219] Rádiókezelő:
 
 ## a) jóváhagyott elméleti és gyakorlati képzés,
 
 ## b) a hajózási hatóság előtt tett elméleti és gyakorlati vizsga.
 
-## c)–d)[^209]
+## c)–d)[^220]
 
-## e)[^210]
+## e)[^221]
 
 ## 9. Radarkezelő:
 
@@ -198,7 +198,7 @@
 
 ## b) igazolt tengeri radarkezelői gyakorlat és szimulátoron vagy élő radaron letett vizsga.
 
-## 10.[^211] Az ARPA-kezelő képesítés megszerzésének feltételei:
+## 10.[^222] Az ARPA-kezelő képesítés megszerzésének feltételei:
 
 ## a) radarkezelői bizonyítvány,
 
@@ -214,7 +214,7 @@
 
 ## ac) navigációs őrszolgálat képesített tagja bizonyítvány.
 
-## ad)[^212]
+## ad)[^223]
 
 ## b) Kormányosmatróz:
 
@@ -222,7 +222,7 @@
 
 ## bb) navigációs őrszolgálat képesített tagja képesítés.
 
-## bc)[^213]
+## bc)[^224]
 
 ## c) Matróz:
 
@@ -230,13 +230,13 @@
 
 ## cb) navigációs őrszolgálat képesített tagja képesítés.
 
-## cc)[^214]
+## cc)[^225]
 
 ## IV. Fejezet
 
 ## A képesítővizsgák tantárgyai
 
-## 1.[^215] Az 500 BT vagy annál nagyobb hajóra a tengerészkapitányi és első tiszti képesítéshez a vizsga előírt tantárgyai:
+## 1.[^226] Az 500 BT vagy annál nagyobb hajóra a tengerészkapitányi és első tiszti képesítéshez a vizsga előírt tantárgyai:
 
 ## a) navigáció vezetői szinten:
 
@@ -282,9 +282,9 @@
 
 ## A 3000 BT feletti és alatti hajóra a parancsnoki és első tiszti vizsga az azonos vizsgatárgyak mellett az STCW Szabályzat II. fejezetében megkövetelt ismeretek szintjében tér el.
 
-## 2.[^216]
+## 2.[^227]
 
-## 3.[^217] Az 500 BT vagy annál nagyobb hajóra a navigációs őrszolgálatért felelős tiszti képesítéshez a vizsga előírt tantárgyai:
+## 3.[^228] Az 500 BT vagy annál nagyobb hajóra a navigációs őrszolgálatért felelős tiszti képesítéshez a vizsga előírt tantárgyai:
 
 ## a) navigáció szolgálatvezetői szinten:
 
@@ -390,9 +390,9 @@
 
 ## be) a túlélési jármű motorjának indítása, üzemeltetése, a hozzá tartozó tűzoltó készülék használata.
 
-## 6.[^218] Rádiókezelő vizsga:
+## 6.[^229] Rádiókezelő vizsga:
 
-## a)[^219] az elméleti vizsgatárgy témakörei:
+## a)[^230] az elméleti vizsgatárgy témakörei:
 
 ## aa) a tengeri mozgószolgálat alapelveinek ismerete,
 
@@ -546,21 +546,21 @@
 
 ## 1. Gépüzemvezető és második géptiszt 3000 kW vagy annál nagyobb főgépteljesítményre:
 
-## a)[^220] az STCW A–III/2. és az STCW szabályzat B. részében előírt követelményi szint szerinti jóváhagyott képzés elvégzéséről szóló igazolás,
+## a)[^231] az STCW A–III/2. és az STCW szabályzat B. részében előírt követelményi szint szerinti jóváhagyott képzés elvégzéséről szóló igazolás,
 
 ## b) angol nyelvből államilag elismert általános középfokú nyelvvizsga, vagy a hajózási hatóság által kijelölt vizsgabizottság előtt tett szakmai nyelvvizsga igazolása,
 
-## c)[^221] egészségügyi ellátási és emelt szintű tengeri tűzvédelmi bizonyítvány,
+## c)[^232] egészségügyi ellátási és emelt szintű tengeri tűzvédelmi bizonyítvány,
 
 ## d) 3000 kW vagy annál nagyobb főgépteljesítményű tengeri hajón II. géptiszti szolgálat ellátásához, legalább 12 havi jóváhagyott tengeri szolgálat megszerzése géptéri őrszolgálatért felelős géptiszti szolgálatban,
 
 ## e) 3000 kW vagy annál nagyobb főgépteljesítményű tengeri hajón gépüzemvezetői szolgálat ellátásához, legalább 36 havi jóváhagyott tengeri szolgálat megszerzése, amelyből nem kevesebb, mint 12 hónapot II. géptiszti szolgálatban kell eltölteni.
 
-## f)–g)[^222]
+## f)–g)[^233]
 
 ## 2. Gépüzemvezető és második géptiszt 750 kW és 3000 kW közötti főgépteljesítményre:
 
-## a)[^223] az STCW A–III/3. és az STCW szabályzat B. részében előírt követelményi szint szerinti jóváhagyott képzés elvégzéséről szóló igazolás,
+## a)[^234] az STCW A–III/3. és az STCW szabályzat B. részében előírt követelményi szint szerinti jóváhagyott képzés elvégzéséről szóló igazolás,
 
 ## b) 750 kW és 3000 kW közötti főgépteljesítményű tengeri hajón II. géptiszti szolgálat ellátásához, legalább 12 havi jóváhagyott tengeri szolgálat megszerzése géptéri őrszolgálatért felelős géptiszti szolgálatban,
 
@@ -568,15 +568,15 @@
 
 ## d) angol nyelvből államilag elismert általános középfokú nyelvvizsga, vagy a hajózási hatóság által kijelölt vizsgabizottság előtt tett szakmai nyelvvizsga igazolása,
 
-## e)[^224] egészségügyi ellátási és emelt szintű tengeri tűzvédelmi bizonyítvány.
+## e)[^235] egészségügyi ellátási és emelt szintű tengeri tűzvédelmi bizonyítvány.
 
-## f)[^225]
+## f)[^236]
 
 ## 3. Géptéri őrszolgálatért felelős géptiszt 750 kW vagy annál nagyobb főgépteljesítményre:
 
 ## a) betöltött 21. életév,
 
-## b)[^226] középfokú gépészeti vagy hajózási szakképzésben szerzett érettségi vagy képesítő bizonyítvány és jóváhagyott géptiszti képzés elvégzéséről szóló igazolás,
+## b)[^237] középfokú gépészeti vagy hajózási szakképzésben szerzett érettségi vagy képesítő bizonyítvány és jóváhagyott géptiszti képzés elvégzéséről szóló igazolás,
 
 ## c) 18 hónap igazolt gépüzemi szolgálat,
 
@@ -584,19 +584,19 @@
 
 ## e) angol nyelvből államilag elismert általános alapszintű nyelvvizsga, vagy a hajózási hatóság által kijelölt vizsgabizottság előtt tett szakmai nyelvvizsga igazolása,
 
-## f)[^227]
+## f)[^238]
 
-## g)[^228] orvosi szükséghelyzet és elsősegélynyújtás, valamint emelt szintű tengeri tűzvédelmi bizonyítvány.
+## g)[^239] orvosi szükséghelyzet és elsősegélynyújtás, valamint emelt szintű tengeri tűzvédelmi bizonyítvány.
 
-## h)[^229]
+## h)[^240]
 
 ## 4. Géptéri őrszolgálat tagja:
 
-## a)[^230] tengeri hajón géptiszt felügyelete alatt a géptéri őrszolgálati feladatokkal kapcsolatos jóváhagyott, 6 havi igazolt szolgálat,
+## a)[^241] tengeri hajón géptiszt felügyelete alatt a géptéri őrszolgálati feladatokkal kapcsolatos jóváhagyott, 6 havi igazolt szolgálat,
 
-## b)[^231] alapfokú egészségügyi és tűzvédelmi bizonyítvány.
+## b)[^242] alapfokú egészségügyi és tűzvédelmi bizonyítvány.
 
-## c)[^232]
+## c)[^243]
 
 ## 5. I. osztályú elektrikus – nem STCW képesítés:
 
@@ -606,7 +606,7 @@
 
 ## c) legalább 24 havi igazolt villamos géptiszt szolgálat, továbbá
 
-## d)[^233]
+## d)[^244]
 
 ## 6. II. osztályú elektrikus – nem STCW képesítés:
 
@@ -618,11 +618,11 @@
 
 ## d) gépüzemi szolgálatban eltöltött 12 havi igazolt gyakorlat, amelyből 6 hónapot géptéri őrszolgálat tagjaként kell teljesíteni,
 
-## e)[^234] középfokú egészségügyi és emelt szintű tűzvédelmi bizonyítvány.
+## e)[^245] középfokú egészségügyi és emelt szintű tűzvédelmi bizonyítvány.
 
-## f)[^235]
+## f)[^246]
 
-## 7.[^236] Belvízi géptiszti képesítés beszámítása:
+## 7.[^247] Belvízi géptiszti képesítés beszámítása:
 
 ## A belvízi géptiszti képesítéssel rendelkező személy tengeri hajón teljesített 12 havi gépüzemi szolgálat igazolását követően, az elvégzett gyakorlatoknak a „Gyakorlatok vizsgakönyvében” való igazolásával, e melléklet II. szakasz B. Rész IV. fejezet 7. pontjában foglalt különbözeti vizsgák letételével, továbbá
 
@@ -638,7 +638,7 @@
 
 ## A képesítővizsgák tantárgyai
 
-## 1.[^237] Gépüzem-vezetői és második géptiszti 750 kW-nál nagyobb főgépteljesítményre előírt vizsga tantárgyai:
+## 1.[^248] Gépüzem-vezetői és második géptiszti 750 kW-nál nagyobb főgépteljesítményre előírt vizsga tantárgyai:
 
 ## a) gépüzem-vezetői szinten:
 
@@ -692,9 +692,9 @@
 
 ## A gépüzemvezetői és második géptiszti vizsga 3000 kW feletti, illetve alatti hajóra az azonos vizsgatárgyak mellett az STCW Szabályzat III. fejezetében megkövetelt ismeretek szintjében tér el.
 
-## 2.[^238]
+## 2.[^249]
 
-## 3.[^239] A 750 kW vagy annál nagyobb főgépteljesítményre géptéri őrszolgálatért felelős géptiszti képesítéshez előírt vizsga tantárgyai:
+## 3.[^250] A 750 kW vagy annál nagyobb főgépteljesítményre géptéri őrszolgálatért felelős géptiszti képesítéshez előírt vizsga tantárgyai:
 
 ## a) gépüzem szolgálatvezetői szinten:
 
@@ -800,103 +800,7 @@
 
 ## f) tengerjogi ismeretek, beleértve a tengerhajózást érintő nemzetközi egyezményeket.
 
-## C. Rész
-
-## A képesítések érvényesítése
-
-## 1.[^240] A képesítési bizonyítványokat a 119/1997. (VII. 15.) Korm. rendelettel kihirdetett, a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló nemzetközi egyezmény VI. Cikkének megfelelően érvényesíteni kell. Az érvényesítést a hajózási hatóság végzi, és tanúsítja.
-
-## 2.[^241] Az érvényesítést az okmányon magyar és angol nyelven kell tanúsítani.
-
-## 3.[^242]
-
-## 4. Az ebben a mellékletben foglalt képesítések az Egyezmény szerint és az alábbi táblázatban szereplő szolgálatok ellátására jogosítanak:
-
-## Tengerészkapitány
-
-## 3000 BT vagy annál nagyobb hajó parancsnoka
-
-## Master on ships of 3,000 gross tonnage or more
-
-## Első tiszt
-
-## 3000 BT vagy annál nagyobb hajó első tisztje
-
-## Chief mate on ships of 3,000 gross tonnage or more
-
-## Tengerészkapitány
-
-## 500 BT és 3000 BT közötti hajó parancsnoka
-
-## Master on ships of between 500 and 3,000 gross tonnage
-
-## Első tiszt
-
-## 500 BT és 3000 BT közötti hajó első tisztje
-
-## Chief mate on ships of between 500 and 3,000 gross tonnage
-
-## Navigációs őrszolgálatért felelős fedélzeti tiszt
-
-## 500 BT vagy annál nagyobb hajó navigációs őrszolgálatot ellátó tisztje
-
-## Officer in charge of a navigational watch on ships of 500 gross tonnage or more
-
-## Navigációs őrszolgálat tagja
-
-## Navigációs őrszolgálat tagja
-
-## Rating forming part of a navigational watch
-
-## Gépüzemvezető
-
-## 3000 kW vagy annál nagyobb főgépteljesítményű hajó gépüzemvezetője
-
-## Chief engineer officer on ships powered by main propulsion machinery of 3,000 kW propulsion power or more
-
-## Második géptiszt
-
-## 3000 kW vagy annál nagyobb főgép-teljesítményű hajó második géptisztje
-
-## Second engineer officer on ships powered by main propulsion machinery of 3,000 kW propulsion power or more
-
-## Gépüzemvezető
-
-## 750 kW és 3000 kW közötti főgép-teljesítményű hajó gépüzemvezetője
-
-## Chief engineer officer on ships powered by main propulsion machinery of between 750 kW and 3000 kW propulsion power
-
-## Második géptiszt
-
-## 3000 kW-nál kisebb főgépteljesítményű hajó második géptisztje
-
-## Second engineer officer on ships powered by main propulsion machinery of between 750 kW and 3000 kW propulsion power
-
-## Géptéri őrszolgálatért felelős géptiszt
-
-## A 750 kW vagy annál nagyobb főgép-teljesítményű hajó géptéri őrszolgálatért felelős géptisztje
-
-## Officer in charge of an engineering watch on ships powered by main propulsion machinery of 750 kW propulsion power or more
-
-## Géptéri őrszolgálat tagja (a szolgálati könyvben bejegyzésként szereplő megjegyzés, nem képesítés!)
-
-## Géptéri őrszolgálat tagja
-
-## Rating of an engineering watch
-
-## I. osztályú elektrikus – nem STCW képesítés
-
-## Korlátozás nélküli összteljesítménnyel üzemelő hajón elektrikusi szolgálat ellátásáért felelős személy
-
-## Electrician on ships with unlimited electrical power – non STCW approved certificate
-
-## II. osztályú elektrikus – nem STCW képesítés
-
-## 750 kW-nál kisebb villamos összteljesítménnyel üzemelő hajón az elektrikusi szolgálat ellátásáért felelős személy
-
-## Electrician on ships of less than 750 kW electrical power – non STCW approved certificate
-
-## 5. A korábban megszerzett tengerész képesítések az e rendelet 13. §-ban foglaltak szerint jogosítanak a 3. számú melléklet C. részének 4. pontjában foglalt szolgálatok ellátására.
+## C. Rész[^251]
 
 4. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez
 
@@ -926,11 +830,11 @@ d) IV. osztályú képesítés – 3 tmf távolságig.
 
 A távolságot a parttól kell számítani.
 
-6.[^243] A kedvtelési célú radarkezelői képesítés (Radar Observer for Pleasure Craft), a kedvtelési céllal közlekedő, a képesítésben megjelölt belvízi vagy tengeri hajókra felszerelt radarberendezés kezelésére jogosít.
+6.[^252] A kedvtelési célú radarkezelői képesítés (Radar Observer for Pleasure Craft), a kedvtelési céllal közlekedő, a képesítésben megjelölt belvízi vagy tengeri hajókra felszerelt radarberendezés kezelésére jogosít.
 
-7.[^244] A kedvtelési célú korlátozott GMDSS kezelői képesítés (SRC), a GMDSS-rendszer A1-es – partmenti – körzetében a kedvtelési célú tengeri kishajókon felszerelt GMDSS-rendszer szerinti rádió berendezések kezelésére jogosít.
+7.[^253] A kedvtelési célú korlátozott GMDSS kezelői képesítés (SRC), a GMDSS-rendszer A1-es – partmenti – körzetében a kedvtelési célú tengeri kishajókon felszerelt GMDSS-rendszer szerinti rádió berendezések kezelésére jogosít.
 
-8.[^245] A kedvtelési célú GMDSS kezelői képesítés, (LRC) a GMDSS-rendszer A1–A4 körzetében, a kedvtelési célú tengeri kishajókon felszerelt GMDSS-rendszer szerinti rádió és Inmarsat berendezések kezelésére jogosít.
+8.[^254] A kedvtelési célú GMDSS kezelői képesítés, (LRC) a GMDSS-rendszer A1–A4 körzetében, a kedvtelési célú tengeri kishajókon felszerelt GMDSS-rendszer szerinti rádió és Inmarsat berendezések kezelésére jogosít.
 
 II. Fejezet
 
@@ -956,7 +860,7 @@ b) az alapfokú elsősegély-nyújtási ismeretek elsajátításáról szóló i
 
 c) a III. fejezet 3. pontjában meghatározott elméleti tantárgyakból tett vizsga,
 
-d)[^246] a képző szerv által kiadott képzési igazolás kiállítását követően, a c) alpontban foglaltak teljesítését megelőzően, a hajózási hatóság által hitelesített fedélzeti oktatási napló vagy szolgálati könyv bemutatása, amely a vitorlás kishajó-vezetői képesítés megszerzéséhez szükséges legalább 150 tengeri mérföldnyi – ebből legalább 30 tengeri mérföldnyi éjszakai – út megtételét, illetve kisgéphajó-vezetői képesítés megszerzéséhez legalább 30 órányi – ebből legalább 5 óra éjszakai – út megtételét igazolja.
+d)[^255] a képző szerv által kiadott képzési igazolás kiállítását követően, a c) alpontban foglaltak teljesítését megelőzően, a hajózási hatóság által hitelesített fedélzeti oktatási napló vagy szolgálati könyv bemutatása, amely a vitorlás kishajó-vezetői képesítés megszerzéséhez szükséges legalább 150 tengeri mérföldnyi – ebből legalább 30 tengeri mérföldnyi éjszakai – út megtételét, illetve kisgéphajó-vezetői képesítés megszerzéséhez legalább 30 órányi – ebből legalább 5 óra éjszakai – út megtételét igazolja.
 
 4. Kedvtelési célú III. osztályú tengeri kisgéphajó-, illetve vitorlás kishajó-vezetői képesítés:
 
@@ -966,21 +870,21 @@ aa) az alapfokú elsősegély-nyújtási ismeretek elsajátításáról szóló 
 
 ab) a III. fejezet 4. pontjában meghatározott elméleti tantárgyakból tett vizsga,
 
-ac)[^247] a képző szerv által kiadott képzési igazolás kiállítását követően, az a) pont ab) alpontban foglaltak teljesítését megelőzően, a hajózási hatóság által hitelesített fedélzeti oktatási napló vagy szolgálati könyv bemutatása, amely a vitorlás kishajó-vezetői képesítés megszerzéséhez szükséges legalább 500 tengeri mérföldnyi – ebből legalább 60 tengeri mérföldnyi éjszakai – út megtételét, illetve kisgéphajó-vezetői képesítés megszerzéséhez legalább 50 órányi – ebből legalább 10 óra éjszakai – út megtételét igazolja,
+ac)[^256] a képző szerv által kiadott képzési igazolás kiállítását követően, az a) pont ab) alpontban foglaltak teljesítését megelőzően, a hajózási hatóság által hitelesített fedélzeti oktatási napló vagy szolgálati könyv bemutatása, amely a vitorlás kishajó-vezetői képesítés megszerzéséhez szükséges legalább 500 tengeri mérföldnyi – ebből legalább 60 tengeri mérföldnyi éjszakai – út megtételét, illetve kisgéphajó-vezetői képesítés megszerzéséhez legalább 50 órányi – ebből legalább 10 óra éjszakai – út megtételét igazolja,
 
-ad)[^248] kedvtelési célú korlátozott GMDSS kezelői (SRC), kedvtelési célú GMDSS kezelői (LRC) vagy korlátozott (ROC) vagy korlátlan (GOC) tengeri rádiókezelői bizonyítvány;
+ad)[^257] kedvtelési célú korlátozott GMDSS kezelői (SRC), kedvtelési célú GMDSS kezelői (LRC) vagy korlátozott (ROC) vagy korlátlan (GOC) tengeri rádiókezelői bizonyítvány;
 
 b) a megszerezni kívánt képesítésnek megfelelő kisgéphajó, illetve vitorlás kishajó vezetésére jogosító IV. osztályú tengeri kishajó-vezetői képesítés esetén:
 
-ba)[^249] a III. fejezet 4. bekezdésében – az a), c) és d) pontok kivételével – meghatározott elméleti tantárgyakból tett vizsga,
+ba)[^258] a III. fejezet 4. bekezdésében – az a), c) és d) pontok kivételével – meghatározott elméleti tantárgyakból tett vizsga,
 
-bb)[^250] a képző szerv által kiadott képzési igazolás kiállítását követően, a b) pont ba) alpontban foglaltak teljesítését megelőzően, a hajózási hatóság által hitelesített fedélzeti oktatási napló vagy szolgálati könyv bemutatása, amely a vitorlás kishajó-vezetői képesítés megszerzéséhez szükséges legalább 450 tengeri mérföldnyi – ebből legalább 60 tengeri mérföldnyi éjszakai – út megtételét, illetve kisgéphajó-vezetői képesítés megszerzéséhez legalább 20 órányi – ebből legalább 5 óra éjszakai – út megtételét igazolja.
+bb)[^259] a képző szerv által kiadott képzési igazolás kiállítását követően, a b) pont ba) alpontban foglaltak teljesítését megelőzően, a hajózási hatóság által hitelesített fedélzeti oktatási napló vagy szolgálati könyv bemutatása, amely a vitorlás kishajó-vezetői képesítés megszerzéséhez szükséges legalább 450 tengeri mérföldnyi – ebből legalább 60 tengeri mérföldnyi éjszakai – út megtételét, illetve kisgéphajó-vezetői képesítés megszerzéséhez legalább 20 órányi – ebből legalább 5 óra éjszakai – út megtételét igazolja.
 
-bc)[^251]
+bc)[^260]
 
-c)[^252] korlátozott (ROC) vagy korlátlan (GOC) tengeri rádiókezelői bizonyítvány.
+c)[^261] korlátozott (ROC) vagy korlátlan (GOC) tengeri rádiókezelői bizonyítvány.
 
-5.[^253] Kedvtelési célú II. osztályú tengeri kishajó-vezetői képesítés:
+5.[^262] Kedvtelési célú II. osztályú tengeri kishajó-vezetői képesítés:
 
 a) a megszerezni kívánt képesítésnek megfelelő kedvtelési célú III. osztályú tengeri kisgéphajóra, illetve vitorlás kishajóra szóló kishajó-vezetői képesítés,
 
@@ -994,7 +898,7 @@ e) legalább 35 óra menetben hajóvezetőként,
 
 f) a c) pontban meghatározott gyakorlati idő alatt elvégzett 10 csillagászati helymeghatározás szerkesztéssel,
 
-g)[^254] kedvtelési célú GMDSS kezelői (LRC) vagy korlátlan tengeri rádiókezelői (GOC) bizonyítvány.
+g)[^263] kedvtelési célú GMDSS kezelői (LRC) vagy korlátlan tengeri rádiókezelői (GOC) bizonyítvány.
 
 6. Kedvtelési célú I. osztályú tengeri kishajó-vezetői képesítés:
 
@@ -1002,21 +906,21 @@ a) betöltött 21. életév,
 
 b) a megszerezni kívánt képesítésnek megfelelő kedvtelési célú II. osztályú tengeri kishajóvezető (kisgéphajó vagy vitorlás kishajó) képesítés megléte,
 
-c)[^255] a területileg illetékes hajózási hatóság által hitelesített fedélzeti oktatási napló vagy szolgálati könyv bemutatása, amely igazolja, hogy kedvtelési célú II. osztályú tengeri kishajó-vezetői képesítés megszerzését követően a jelölt az I. osztályú vitorlás kishajó-vezetői képesítés megszerzéséhez szükséges legalább 1500 tengeri mérföldnyi – ebből legalább 300 tengeri mérföldnyi éjszakai – utat, illetve kisgéphajó-vezetői képesítés megszerzéséhez legalább 200 órányi – ebből legalább 60 óra éjszakai – utat tett meg, vagy
+c)[^264] a területileg illetékes hajózási hatóság által hitelesített fedélzeti oktatási napló vagy szolgálati könyv bemutatása, amely igazolja, hogy kedvtelési célú II. osztályú tengeri kishajó-vezetői képesítés megszerzését követően a jelölt az I. osztályú vitorlás kishajó-vezetői képesítés megszerzéséhez szükséges legalább 1500 tengeri mérföldnyi – ebből legalább 300 tengeri mérföldnyi éjszakai – utat, illetve kisgéphajó-vezetői képesítés megszerzéséhez legalább 200 órányi – ebből legalább 60 óra éjszakai – utat tett meg, vagy
 
-d)[^256] legalább 1000 tengeri mérföld megtétele hajóvezetőként óceánon, illetve
+d)[^265] legalább 1000 tengeri mérföld megtétele hajóvezetőként óceánon, illetve
 
-e)[^257] legalább 80 óra menetben hajóvezetőként óceánon.
+e)[^266] legalább 80 óra menetben hajóvezetőként óceánon.
 
 7. A 3. pont d) pontjában, a 4. pont d) pontjában, az 5. pont c) pontjában és a 6. pont c) pontjában előírt gyakorlatot a megszerezni kívánt képesítésnek megfelelő kishajón kell teljesíteni.
 
 8. A külföldi lobogójú hajón gyakorlatot szerzett személy kérelmére a hajózási hatóság a 4., 5. és 6. pontban előírt hajózási gyakorlat igazolása céljából az igazolásra alkalmas hajónaplót és személyzeti jegyzéket, illetve ezek közjegyző által hitelesített másolatát fogadja el igazolásként.
 
-9.[^258] Az I. fejezet 3. vagy 4. bekezdésében megnevezett képesítéssel rendelkező személy – ha a másik hajókategóriára érvényes belvízi képesítése van – a II. fejezet 4. bekezdés a) pont ac) alpontjában és b) pont bb) alpontjában, az 5. bekezdés c) pontjában és a 6. bekezdés c) pontjában meghatározott mérföld/menetidő teljesítése nélkül, kérelemre, a másik hajókategóriára szóló képesítést kaphat.
+9.[^267] Az I. fejezet 3. vagy 4. bekezdésében megnevezett képesítéssel rendelkező személy – ha a másik hajókategóriára érvényes belvízi képesítése van – a II. fejezet 4. bekezdés a) pont ac) alpontjában és b) pont bb) alpontjában, az 5. bekezdés c) pontjában és a 6. bekezdés c) pontjában meghatározott mérföld/menetidő teljesítése nélkül, kérelemre, a másik hajókategóriára szóló képesítést kaphat.
 
-10.[^259] A II. fejezet 3. bekezdés d) pontjában, 4. bekezdés a) pont ac) alpontjában és b) pont bb) alpontjában, az 5. bekezdés c) pontjában és a 6. bekezdés c) pontjában előírt gyakorlatot az elméleti képzést lezáró képzési igazolás megszerzése után lehet teljesíteni, és a teljesítését csak a hajózási hatóság által hitelesített jachtnapló és személyzeti jegyzék vagy azok másolatával, illetve a képző szerv által rendszeresített és a hajózási hatóság által jóváhagyott fedélzeti oktatási naplóval lehet igazolni.
+10.[^268] A II. fejezet 3. bekezdés d) pontjában, 4. bekezdés a) pont ac) alpontjában és b) pont bb) alpontjában, az 5. bekezdés c) pontjában és a 6. bekezdés c) pontjában előírt gyakorlatot az elméleti képzést lezáró képzési igazolás megszerzése után lehet teljesíteni, és a teljesítését csak a hajózási hatóság által hitelesített jachtnapló és személyzeti jegyzék vagy azok másolatával, illetve a képző szerv által rendszeresített és a hajózási hatóság által jóváhagyott fedélzeti oktatási naplóval lehet igazolni.
 
-11.[^260] A fedélzeti oktatási napló a következő feladatok elvégzését igazolja:
+11.[^269] A fedélzeti oktatási napló a következő feladatok elvégzését igazolja:
 
 a) a tengeri kishajó szerkezetének, felszereléseinek megismerése,
 
@@ -1052,25 +956,25 @@ p) deviáció meghatározása csillagászati módszerekkel.
 
 Az a)–j) pontban foglalt feladatokat a IV. osztályú, az a)–m) pontban foglalt feladatokat a III. osztályú, az a)–p) pontban foglalt feladatokat a II. osztályú vizsgához kell teljesíteni.
 
-12.[^261] A kedvtelési célú radarkezelői (kiegészítő) képesítés (Radar Observer for Pleasure Craft):
+12.[^270] A kedvtelési célú radarkezelői (kiegészítő) képesítés (Radar Observer for Pleasure Craft):
 
 a) jóváhagyott elméleti és gyakorlati képzést is magában foglaló tanfolyam sikeres elvégzése,
 
 b) a III. Fejezet 6. pontja szerinti sikeres elméleti és gyakorlati vizsga, amely gyakorlati vizsga a hajózási hatóság által jóváhagyott szimulátoron is teljesíthető.
 
-13.[^262] Kedvtelési célú korlátozott GMDSS kezelői képesítés (SRC):
+13.[^271] Kedvtelési célú korlátozott GMDSS kezelői képesítés (SRC):
 
 a) jóváhagyott tanfolyam sikeres elvégzése,
 
 b) a III. fejezet 7. pontja szerinti ismeretekből tett írásbeli és gyakorlati vizsga, amely gyakorlati vizsga a hajózási hatóság által jóváhagyott szimulátoron is teljesíthető.
 
-14.[^263] Kedvtelési célú GMDSS kezelői képesítés (LRC):
+14.[^272] Kedvtelési célú GMDSS kezelői képesítés (LRC):
 
 a) jóváhagyott tanfolyam sikeres elvégzése,
 
 b) a III. fejezet 8. pontja szerinti ismeretekből tett írásbeli és gyakorlati vizsga, amely gyakorlati vizsga a hajózási hatóság által jóváhagyott szimulátoron is teljesíthető.
 
-III. Fejezet[^264]
+III. Fejezet[^273]
 
 A képesítővizsgák tantárgyai
 
@@ -1186,76 +1090,74 @@ e) kikötés a part mellé, horgonyzással vagy horgonybójára állással,
 
 f) leszerelés.
 
-[^192]: A 3. számú melléklet I. címe 1. pontjának d) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^193]: A 3. számú melléklet I. rész 5. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított, a 42/2013. (VII. 19.) NFM rendelet 3. § c) pontja szerint módosított szöveg.
-[^194]: A 3. számú melléklet I. címének 6. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének c) pontja hatályon kívül helyezte.
-[^195]: A 3. számú melléklet I. címének 8. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^196]: A 3. számú melléklet I. címének 9. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^197]: A 3. számú melléklet II. A. Része I. Fejezetének 4. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
-[^198]: A 3. számú melléklet II. A. Része II. Fejezetének 6. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
-[^199]: General Operator's Certificate.
-[^200]: Restricted Operator's Certificate.
-[^201]: A 3. számú melléklet II. cím A. rész III. fejezete 1. pontjának e)–f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének d) pontja hatályon kívül helyezte.
-[^202]: A 3. számú melléklet II. cím A. rész III. fejezete 2. pontjának e)–f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének e) pontja hatályon kívül helyezte.
-[^203]: A 3. számú melléklet II. cím A. rész III. fejezete 3. pontjának c) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének f) pontja hatályon kívül helyezte.
-[^204]: A 3. számú melléklet II. cím A. rész III. fejezete 4. pontjának d)–e) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének g) pontja hatályon kívül helyezte.
-[^205]: A 3. számú melléklet II. cím A. rész III. fejezete 5. pontjának h) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének h) pontja hatályon kívül helyezte.
-[^206]: A 3. számú melléklet II. cím A. rész III. fejezete 6. pontjának c) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének i) pontja hatályon kívül helyezte.
-[^207]: A 3. számú melléklet II. cím A. rész III. fejezete 7. pontjának c) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének j) pontja hatályon kívül helyezte.
-[^208]: A 3. számú melléklet II. A. Része III. Fejezetének 8. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
-[^209]: A 3. számú melléklet II. cím A. rész III. fejezete 8. pontjának c)–d) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének k) pontja hatályon kívül helyezte.
-[^210]: A 3. számú melléklet II. cím A. része III. fejezetének 8. pontjának e) alpontját a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdése hatályon kívül helyezte.
-[^211]: A 3. számú melléklet II. cím A. része III. fejezetének 10. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^212]: A 3. számú melléklet II. cím A. rész III. fejezete 11. pontjának ad) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének l) pontja hatályon kívül helyezte.
-[^213]: A 3. számú melléklet II. cím A. rész III. fejezete 11. pontjának bc) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének l) pontja hatályon kívül helyezte.
-[^214]: A 3. számú melléklet II. cím A. rész III. fejezete 11. pontjának cc) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének l) pontja hatályon kívül helyezte.
-[^215]: A 3. számú melléklet II. cím A. része IV. fejezetének 1. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^216]: A 3. számú melléklet II. cím A. rész IV. fejezetének 2. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének m) pontja hatályon kívül helyezte.
-[^217]: A 3. számú melléklet II. cím A. része IV. fejezetének 3. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^218]: A 3. számú melléklet II. A. Része IV. Fejezetének 6. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
-[^219]: A 3. számú melléklet II. A. Rész IV. Fejezet 6. pont a) alpont nyitó szövegrésze a 42/2013. (VII. 19.) NFM rendelet 3. § b) pontjával megállapított szöveg.
-[^220]: A 3. számú melléklet II. cím B. rész III. fejezete 1. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^221]: A 3. számú melléklet II. cím B. rész III. fejezete 1. pontjának c) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^222]: A 3. számú melléklet II. cím B. rész III. fejezete 1. pontjának f)–g) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének n) pontja hatályon kívül helyezte.
-[^223]: A 3. számú melléklet II. cím B. rész III. fejezete 2. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^224]: A 3. számú melléklet II. cím B. rész III. fejezete 2. pontjának e) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^225]: A 3. számú melléklet II. cím B. rész III. fejezete 2. pontjának f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének o) pontja hatályon kívül helyezte.
-[^226]: A 3. számú melléklet II. cím B. rész III. fejezete 3. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^227]: A 3. számú melléklet II. cím B. rész III. fejezete 3. pontjának f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének p) pontja hatályon kívül helyezte.
-[^228]: A 3. számú melléklet II. cím B. rész III. fejezete 3. pontjának g) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^229]: A 3. számú melléklet II. cím B. rész III. fejezete 3. pontjának h) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének p) pontja hatályon kívül helyezte.
-[^230]: A 3. számú melléklet II. cím B. rész III. fejezete 4. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^231]: A 3. számú melléklet II. cím B. rész III. fejezete 4. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^232]: A 3. számú melléklet II. cím B. rész III. fejezete 4. pontjának c) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének q) pontja hatályon kívül helyezte.
-[^233]: A 3. számú melléklet II. cím B. rész III. fejezete 5. pontjának d) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének r) pontja hatályon kívül helyezte.
-[^234]: A 3. számú melléklet II. cím B. rész III. fejezete 6. pontjának e) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^235]: A 3. számú melléklet II. cím B. rész III. fejezete 6. pontjának f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének s) pontja hatályon kívül helyezte.
-[^236]: A 3. számú melléklet II. cím B. rész III. fejezetének 7. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^237]: A 3. számú melléklet II. cím B. rész IV. fejezetének 1. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^238]: A 3. számú melléklet II. cím B. rész IV. fejezetének 2. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének t) pontja hatályon kívül helyezte.
-[^239]: A 3. számú melléklet II. cím B. rész IV. fejezetének 3. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^240]: A 3. számú melléklet II. cím C. részének 1. pontja a 3/2008. (VI. 3.) KHEM rendelet 13. § (6) bekezdésének a) pontja szerint módosított szöveg.
-[^241]: A 3. számú melléklet II. cím C. részének 2. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^242]: A 3. számú melléklet II. cím C. részének 3. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének u) pontja hatályon kívül helyezte.
-[^243]: A 4. számú melléklet I. Fejezet 6. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
-[^244]: A 4. számú melléklet I. Fejezet 7. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
-[^245]: A 4. számú melléklet I. Fejezet 8. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
-[^246]: A 4. számú melléklet II. fejezete 3. pontjának d) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^247]: A 4. számú melléklet II. fejezete 4. pontjának ac) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^248]: A 4. számú melléklet II. Fejezet 4. pont ad) alpontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be, szövege a 29/2014. (V. 5.) NFM rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^249]: A 4. számú melléklet II. fejezete 4. pontjának ba) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^250]: A 4. számú melléklet II. fejezete 4. pontjának bb) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^251]: A 4. számú melléklet II. fejezete 4. pontjának bc) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének v) pontja hatályon kívül helyezte.
-[^252]: A 4. számú melléklet II. fejezete 4. pontjának c) alpontját a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdése iktatta be, szövege a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^253]: A 4. számú melléklet II. fejezetének 5. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^254]: A 4. számú melléklet II. Fejezet 5. pont g) alpontja a 29/2014. (V. 5.) NFM rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^255]: A 4. számú melléklet II. fejezete 6. pontjának c) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^256]: A 4. számú melléklet II. fejezete 6. pontjának d) alpontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
-[^257]: A 4. számú melléklet II. fejezete 6. pontjának e) alpontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
-[^258]: A 4. számú melléklet II. fejezetének 9. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
-[^259]: A 4. számú melléklet II. fejezetének 10. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
-[^260]: A 4. számú melléklet II. fejezetének 11. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
-[^261]: A 4. számú melléklet II. Fejezet 12. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
-[^262]: A 4. számú melléklet II. Fejezet 13. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
-[^263]: A 4. számú melléklet II. Fejezet 14. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
-[^264]: A 4. számú melléklet III. Fejezete a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.
+[^203]: A 3. számú melléklet I. címe 1. pontjának d) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^204]: A 3. számú melléklet I. rész 5. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított, a 42/2013. (VII. 19.) NFM rendelet 3. § c) pontja szerint módosított szöveg.
+[^205]: A 3. számú melléklet I. címének 6. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^206]: A 3. számú melléklet I. címének 8. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^207]: A 3. számú melléklet I. címének 9. pontja a 23/2015. (V. 8.) NFM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^208]: A 3. számú melléklet II. A. Része I. Fejezetének 4. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
+[^209]: A 3. számú melléklet II. A. Része II. Fejezetének 6. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
+[^210]: General Operator's Certificate.
+[^211]: Restricted Operator's Certificate.
+[^212]: A 3. számú melléklet II. cím A. rész III. fejezete 1. pontjának e)–f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének d) pontja hatályon kívül helyezte.
+[^213]: A 3. számú melléklet II. cím A. rész III. fejezete 2. pontjának e)–f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének e) pontja hatályon kívül helyezte.
+[^214]: A 3. számú melléklet II. cím A. rész III. fejezete 3. pontjának c) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének f) pontja hatályon kívül helyezte.
+[^215]: A 3. számú melléklet II. cím A. rész III. fejezete 4. pontjának d)–e) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének g) pontja hatályon kívül helyezte.
+[^216]: A 3. számú melléklet II. cím A. rész III. fejezete 5. pontjának h) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének h) pontja hatályon kívül helyezte.
+[^217]: A 3. számú melléklet II. cím A. rész III. fejezete 6. pontjának c) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének i) pontja hatályon kívül helyezte.
+[^218]: A 3. számú melléklet II. cím A. rész III. fejezete 7. pontjának c) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének j) pontja hatályon kívül helyezte.
+[^219]: A 3. számú melléklet II. A. Része III. Fejezetének 8. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
+[^220]: A 3. számú melléklet II. cím A. rész III. fejezete 8. pontjának c)–d) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének k) pontja hatályon kívül helyezte.
+[^221]: A 3. számú melléklet II. cím A. része III. fejezetének 8. pontjának e) alpontját a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdése hatályon kívül helyezte.
+[^222]: A 3. számú melléklet II. cím A. része III. fejezetének 10. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^223]: A 3. számú melléklet II. cím A. rész III. fejezete 11. pontjának ad) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének l) pontja hatályon kívül helyezte.
+[^224]: A 3. számú melléklet II. cím A. rész III. fejezete 11. pontjának bc) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének l) pontja hatályon kívül helyezte.
+[^225]: A 3. számú melléklet II. cím A. rész III. fejezete 11. pontjának cc) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének l) pontja hatályon kívül helyezte.
+[^226]: A 3. számú melléklet II. cím A. része IV. fejezetének 1. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^227]: A 3. számú melléklet II. cím A. rész IV. fejezetének 2. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének m) pontja hatályon kívül helyezte.
+[^228]: A 3. számú melléklet II. cím A. része IV. fejezetének 3. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^229]: A 3. számú melléklet II. A. Része IV. Fejezetének 6. pontja a 76/2003. (XI. 24.) GKM rendelet 6. §-ával megállapított szöveg.
+[^230]: A 3. számú melléklet II. A. Rész IV. Fejezet 6. pont a) alpont nyitó szövegrésze a 42/2013. (VII. 19.) NFM rendelet 3. § b) pontjával megállapított szöveg.
+[^231]: A 3. számú melléklet II. cím B. rész III. fejezete 1. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^232]: A 3. számú melléklet II. cím B. rész III. fejezete 1. pontjának c) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^233]: A 3. számú melléklet II. cím B. rész III. fejezete 1. pontjának f)–g) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének n) pontja hatályon kívül helyezte.
+[^234]: A 3. számú melléklet II. cím B. rész III. fejezete 2. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^235]: A 3. számú melléklet II. cím B. rész III. fejezete 2. pontjának e) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^236]: A 3. számú melléklet II. cím B. rész III. fejezete 2. pontjának f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének o) pontja hatályon kívül helyezte.
+[^237]: A 3. számú melléklet II. cím B. rész III. fejezete 3. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^238]: A 3. számú melléklet II. cím B. rész III. fejezete 3. pontjának f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének p) pontja hatályon kívül helyezte.
+[^239]: A 3. számú melléklet II. cím B. rész III. fejezete 3. pontjának g) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^240]: A 3. számú melléklet II. cím B. rész III. fejezete 3. pontjának h) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének p) pontja hatályon kívül helyezte.
+[^241]: A 3. számú melléklet II. cím B. rész III. fejezete 4. pontjának a) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^242]: A 3. számú melléklet II. cím B. rész III. fejezete 4. pontjának b) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^243]: A 3. számú melléklet II. cím B. rész III. fejezete 4. pontjának c) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének q) pontja hatályon kívül helyezte.
+[^244]: A 3. számú melléklet II. cím B. rész III. fejezete 5. pontjának d) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének r) pontja hatályon kívül helyezte.
+[^245]: A 3. számú melléklet II. cím B. rész III. fejezete 6. pontjának e) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^246]: A 3. számú melléklet II. cím B. rész III. fejezete 6. pontjának f) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének s) pontja hatályon kívül helyezte.
+[^247]: A 3. számú melléklet II. cím B. rész III. fejezetének 7. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^248]: A 3. számú melléklet II. cím B. rész IV. fejezetének 1. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^249]: A 3. számú melléklet II. cím B. rész IV. fejezetének 2. pontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének t) pontja hatályon kívül helyezte.
+[^250]: A 3. számú melléklet II. cím B. rész IV. fejezetének 3. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^251]: A 3. számú melléklet II. C. Részét a 23/2015. (V. 8.) NFM rendelet 7. § c) pontja hatályon kívül helyezte.
+[^252]: A 4. számú melléklet I. Fejezet 6. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
+[^253]: A 4. számú melléklet I. Fejezet 7. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
+[^254]: A 4. számú melléklet I. Fejezet 8. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
+[^255]: A 4. számú melléklet II. fejezete 3. pontjának d) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^256]: A 4. számú melléklet II. fejezete 4. pontjának ac) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^257]: A 4. számú melléklet II. Fejezet 4. pont ad) alpontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be, szövege a 29/2014. (V. 5.) NFM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^258]: A 4. számú melléklet II. fejezete 4. pontjának ba) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^259]: A 4. számú melléklet II. fejezete 4. pontjának bb) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^260]: A 4. számú melléklet II. fejezete 4. pontjának bc) alpontját a 3/2008. (VI. 3.) KHEM rendelet 13. § (4) bekezdésének v) pontja hatályon kívül helyezte.
+[^261]: A 4. számú melléklet II. fejezete 4. pontjának c) alpontját a 16/2006. (IV. 6.) GKM rendelet 1. § (9) bekezdése iktatta be, szövege a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^262]: A 4. számú melléklet II. fejezetének 5. pontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^263]: A 4. számú melléklet II. Fejezet 5. pont g) alpontja a 29/2014. (V. 5.) NFM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^264]: A 4. számú melléklet II. fejezete 6. pontjának c) alpontja a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^265]: A 4. számú melléklet II. fejezete 6. pontjának d) alpontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
+[^266]: A 4. számú melléklet II. fejezete 6. pontjának e) alpontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
+[^267]: A 4. számú melléklet II. fejezetének 9. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
+[^268]: A 4. számú melléklet II. fejezetének 10. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
+[^269]: A 4. számú melléklet II. fejezetének 11. pontját a 3/2008. (VI. 3.) KHEM rendelet 10. § (4) bekezdése iktatta be.
+[^270]: A 4. számú melléklet II. Fejezet 12. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
+[^271]: A 4. számú melléklet II. Fejezet 13. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
+[^272]: A 4. számú melléklet II. Fejezet 14. pontját a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontja iktatta be.
+[^273]: A 4. számú melléklet III. Fejezete a 42/2013. (VII. 19.) NFM rendelet 2. § a) pontjával megállapított szöveg.

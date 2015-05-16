@@ -2,7 +2,7 @@
 
 ## fedélzeti szolgálatban
 
-## A.[^265]
+## A.[^274]
 
 ## Belvízi hajózás
 
@@ -62,7 +62,7 @@
 
 ## szolgálatok elláthatók, valamint a 3. pont 3.1–3.5 alpontban meghatározott sorszámú képesítésekkel ellátható szolgálatok közül az alacsonyabb sorszámú képesítésekkel a magasabb sorszámú szolgálatok elláthatók.
 
-## 4.[^266] A gépkezelő és géptiszt képesítésekkel a 3. pont 3.3-3.5 alpontjában meghatározott sorszámú szolgálatok (egészségi alkalmasság igazolása esetén) elláthatók.
+## 4.[^275] A gépkezelő és géptiszt képesítésekkel a 3. pont 3.3-3.5 alpontjában meghatározott sorszámú szolgálatok (egészségi alkalmasság igazolása esetén) elláthatók.
 
 ## 5. Belvízi vitorlás képesítések:
 
@@ -98,8 +98,8 @@
 
 ## 5. 500 BT vagy annál nagyobb hajóra képesített navigációs őrszolgálatért felelős fedélzeti tiszt
 
-6. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^267]
+6. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^276]
 
-[^265]: Az 5. számú melléklet A. része a 9/2009. (III. 6.) KHEM rendelet 6. §-ával megállapított szöveg.
-[^266]: Az 5. számú melléklet A. Belvízi hajózás alcím 4. pontja a 29/2014. (V. 5.) NFM rendelet 18. § (4) bekezdésével megállapított szöveg.
-[^267]: A 6. számú melléklet a 3/2008. (VI. 3.) KHEM rendelet 10. § (5) bekezdésével megállapított, a 9/2009. (III. 6.) KHEM rendelet 7. §-a, a 42/2013. (VII. 19.) NFM rendelet 2. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 18. § (5) bekezdése és 20. § e) pontja szerint módosított szöveg.
+[^274]: Az 5. számú melléklet A. része a 9/2009. (III. 6.) KHEM rendelet 6. §-ával megállapított szöveg.
+[^275]: Az 5. számú melléklet A. Belvízi hajózás alcím 4. pontja a 29/2014. (V. 5.) NFM rendelet 18. § (4) bekezdésével megállapított szöveg.
+[^276]: A 6. számú melléklet a 3/2008. (VI. 3.) KHEM rendelet 10. § (5) bekezdésével megállapított, a 9/2009. (III. 6.) KHEM rendelet 7. §-a, a 42/2013. (VII. 19.) NFM rendelet 2. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 18. § (5) bekezdése és 20. § e) pontja szerint módosított szöveg.
