@@ -16,7 +16,9 @@ g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagja
 
 h) meghatározni a sportág utánpótlás-fejlesztési koncepcióját és gondoskodni annak végrehajtásáról,
 
-i) a 23. § (1) bekezdés d) pontja szerinti szabályzatában meghatározottak alapján ellenőrizni az adott sportág versenyrendszerében szervezett, vagy versenynaptárában egyébként szereplő sportrendezvények biztonságos lebonyolítását.
+i) a 23. § (1) bekezdés d) pontja szerinti szabályzatában meghatározottak alapján ellenőrizni az adott sportág versenyrendszerében szervezett, vagy versenynaptárában egyébként szereplő sportrendezvények biztonságos lebonyolítását,
+
+j) nyertes pályázat esetén a kiemelt nemzetközi sportrendezvények magyarországi megrendezésével összefüggő állami feladatok ellátásában való közreműködés.
 
 (2) A szakszövetség ellátja az alapszabályában, a sportága nemzetközi szövetségének szabályzataiban, illetve a jogszabályokban meghatározott feladatokat. Ennek keretében különösen:
 
