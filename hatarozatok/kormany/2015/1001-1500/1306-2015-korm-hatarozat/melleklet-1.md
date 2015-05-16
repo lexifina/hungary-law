@@ -10,7 +10,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Kormány visszavonja a Végrehajtás Operatív Program 2011–2013. évekre szóló akciótervének módosításáról szóló 1353/2014. (VI. 26.) Korm. határozatot.
+## 3.[^1]
 
 1. melléklet az 1306/2015. (V. 14.) Korm. határozathoz
 
@@ -115,3 +115,5 @@
 | 6. | Összesen |  | 58,44 |  |  |  |
 
 2.3.2. A 2.3.1. pontban foglalt táblázat 2. sora szerinti 2.1.1. konstrukció 0,25 milliárd forint; 4. sora szerinti 2.1.3. konstrukció 1,61 milliárd forint többletkötelezettség-vállalást tartalmaz.
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
