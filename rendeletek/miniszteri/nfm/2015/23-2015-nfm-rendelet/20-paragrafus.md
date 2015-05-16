@@ -1,0 +1,1 @@
+## „c) STCW Egyezmény: a 2012. évi XIX. törvénnyel kihirdetett, a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény 2010. évi manilai módosításaival egységes szerkezetbe foglalt szövege,”
