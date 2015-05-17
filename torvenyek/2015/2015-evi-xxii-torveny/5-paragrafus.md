@@ -1,1 +1,1 @@
-5. § Hatályát veszti a Magyar Köztársaság Kormánya és a Koreai Köztársaság Kormánya között a közúti járművek vezetői engedélyeinek kölcsönös elismerése tárgyában levélváltás útján létrejött Megállapodás kihirdetéséről szóló 74/2005. (IV. 22.) Korm. rendelet.
+5. §
