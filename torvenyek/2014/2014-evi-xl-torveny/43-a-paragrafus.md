@@ -1,0 +1,1 @@
+43/A. § A jelzálogjoggal biztosított fogyasztói kölcsönszerződésből eredő követelésen alapuló, a 2014. évi XXXVIII. törvény 18. §-ában szabályozott eljárások tekintetében, ha a 43. §-ban foglalt feltételek 2015. szeptember 15. napján vagy azt megelőzően következnek be, akkor a 43. §-ban meghatározott határidők kezdő időpontja 2015. szeptember 16. napja.

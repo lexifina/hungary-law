@@ -1,0 +1,1 @@
+46/A. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy az e törvényben szabályozott polgári nemperes eljárásban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, az űrlapokhoz csatolható mellékleteket, valamint az űrlapok közzétételének módját rendeletben határozza meg.

@@ -1,0 +1,1 @@
+42/A. § A jelzálogjoggal biztosított fogyasztói kölcsönszerződésből eredő követelésen alapuló végrehajtási eljárások tekintetében, ha a 41. §-ban és a 42. §-ban foglalt feltételek 2015. szeptember 15. napján vagy azt megelőzően következnek be, akkor a 41. §-ban és 42. §-ban meghatározott határidők kezdő időpontja 2015. szeptember 16. napja.

@@ -19,3 +19,7 @@
 (8) Ha a pénzügyi intézmény a fogyasztói kölcsönszerződésre tekintettel felajánlott zálogtárgyon önálló zálogjogot alapított, a fogyasztói kölcsönszerződésből eredő követelés jogosultja a követelés megszűnése esetén köteles erről haladéktalanul írásban értesíteni az önálló zálogjog jogosultját, aki – ugyancsak haladéktalanul – köteles az önálló zálogjog nyilvántartásból való törlése iránt eljárni.
 
 (9) Ha a végelszámolás vagy a felszámolási eljárás alatt álló pénzügyi intézmény esetében az elszámoláshoz szükséges információk nem állnak teljes körűen rendelkezésre, az elszámolás során az MNB rendeletben meghatározott becslési módszertant kell alkalmazni.
+
+(10) Ha az elszámolásra köteles, végelszámolás vagy felszámolási eljárás alatt nem álló pénzügyi intézménynek az elszámoláshoz szükséges információk nem állnak teljeskörűen rendelkezésére, és ezt igazolni tudja a Felügyelet felé, akkor az érintett fogyasztói kölcsönszerződés vonatkozásában jogosult a Felügyelet által jóváhagyott becslési módszertan szerint eljárni.
+
+(11) A Magyar Nemzeti Bank fogyasztóvédelmi eljárás keretében ellenőrzi, hogy a végelszámolás vagy a felszámolási eljárás alatt nem álló pénzügyi intézmény a (10) bekezdésben foglalt feltételek fennállása esetén megfelelően alkalmazza-e a becslési módszertant.
