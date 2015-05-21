@@ -1,0 +1,1 @@
+A Kormány egyetért azzal, hogy a közadatok további felhasználás céljából történő hozzáférhetővé tétele, innovatív szolgáltatásokat és termékeket eredményező újrahasznosítása jelentős társadalmi-gazdasági előnyökkel, új munkahelyek teremtésével, a gazdaság fellendítésével jár, és ennek érdekében
