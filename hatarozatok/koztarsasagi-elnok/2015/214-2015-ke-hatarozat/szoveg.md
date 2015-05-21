@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Király András Lászlót kinevezem rendkívüli és meghatalmazott nagykövetté, és megbízom Magyarország pretoriai nagykövetségének a vezetésével, valamint Magyarországnak a Szváziföldi Királyságban, a Mozambiki Köztársaságban, a Namíbiai Köztársaságban, a Zimbabwei Köztársaságban, a Leshotoi Királyságban, a Botswanai Köztársaságban, a Zambiai Köztársaságban, az Angolai Köztársaságban, a Mauritiusi Köztársaságban és a Madagaszkári Köztársaságban való képviseletével.
+
+KEH ügyszám: IV-5/05912-1/2014.
