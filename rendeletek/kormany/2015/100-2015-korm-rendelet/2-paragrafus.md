@@ -1,0 +1,1 @@
+## „33. visszahívás: a piacfelügyeleti hatóság, a gyártó, az importőr vagy a forgalmazó olyan intézkedése, ami arra irányul, hogy a forgalomba hozott pirotechnikai terméket a végső felhasználótól visszavegye.”
