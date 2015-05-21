@@ -2,9 +2,9 @@
 
 ## 22. A levegőtisztaság-védelmi ügyekben eljáró hatóságok
 
-36. § (1)[^39] A levegőtisztaság-védelmi ügyben az elsőfokú hatósági jogkört – a (2)–(4) bekezdésben foglalt kivétellel – a környezetvédelmi hatáskörében eljáró megyei kormányhivatal gyakorolja.
+36. § (1)[^40] A levegőtisztaság-védelmi ügyben az elsőfokú hatósági jogkört – a (2)–(4) bekezdésben foglalt kivétellel – a környezetvédelmi hatáskörében eljáró megyei kormányhivatal gyakorolja.
 
-(2)[^40] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
+(2)[^41] A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
 
 a) a legfeljebb 500 kWth névleges bemenő hőteljesítményű, háztartási és közintézmény tüzelőberendezés forrásával,
 
@@ -20,8 +20,8 @@ e) a nem gazdasági tevékenység keretében működő diffúz légszennyező fo
 
 (3) A polgármester, fővárosban a főpolgármester a füstköd-riadó terv végrehajtásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben jár el első fokon.
 
-(4)[^41] A (2) és (3) bekezdés szerinti levegőtisztaság-védelmi hatósági ügyekben a másodfokú hatósági jogkört a környezetvédelmi hatáskörében eljáró megyei kormányhivatal gyakorolja.
+(4)[^42] A (2) és (3) bekezdés szerinti levegőtisztaság-védelmi hatósági ügyekben a másodfokú hatósági jogkört a környezetvédelmi hatáskörében eljáró megyei kormányhivatal gyakorolja.
 
-[^39]: A 36. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 159. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^40]: A 36. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 76. §-ával megállapított szöveg.
-[^41]: A 36. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 159. § (1) bekezdése iktatta be.
+[^40]: A 36. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 159. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 36. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^42]: A 36. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 159. § (1) bekezdése iktatta be.
