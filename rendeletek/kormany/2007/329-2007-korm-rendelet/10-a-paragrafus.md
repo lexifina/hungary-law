@@ -1,6 +1,6 @@
 ## ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában meghatározott hatósági feladatokat.
 
-10/A. §[^68] (1)[^69] A Bűnügyi Szakértői és Kutatóintézet az ORFK – közvetlenül az országos rendőrfőkapitány útján ellátott – irányítása alatt országos illetékességgel, önálló szervként ellátja a büntetőeljárásról szóló törvényre tekintettel, a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló kormányrendelet alapján a szakértői, és ezen kívül a bűnügyi technikai feladatokat, ennek keretében
+10/A. §[^69] (1)[^70] A Bűnügyi Szakértői és Kutatóintézet az ORFK – közvetlenül az országos rendőrfőkapitány útján ellátott – irányítása alatt országos illetékességgel, önálló szervként ellátja a büntetőeljárásról szóló törvényre tekintettel, a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló kormányrendelet alapján a szakértői, és ezen kívül a bűnügyi technikai feladatokat, ennek keretében
 
 a) teljesíti azon hatósági kirendeléseket, amely ügyekben jogszabály lehetővé vagy kötelezővé teszi a bizonyítási eljárás hivatalból való lefolytatását,
 
@@ -10,7 +10,7 @@ c) a Kormány által kijelölt szakértői nyilvántartó szervként ellátja a 
 
 d) ellátja a szakértői működéssel kapcsolatos külön jogszabályban megjelölt egyes igazgatási, gazdálkodási, munkaügyi és nyilvántartási feladatokat, a költségvetés keretei között biztosítja az igazságügyi szakértői szakágak megfelelő szakértői működtetéséhez szükséges feltételeket,
 
-e)[^70] ellátja a megyei (fővárosi) rendőr-főkapitányságok, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a rendőrkapitányságok és a határrendészeti kirendeltségek bűnügyi technikai, és a szakértői tevékenység szakmai irányítását, továbbá bűnügyi pszichológia és poligráfos hazugságvizsgálat, illetve a bűnügyi orvosi tevékenység szakmai irányítását,
+e)[^71] ellátja a megyei (fővárosi) rendőr-főkapitányságok, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a rendőrkapitányságok és a határrendészeti kirendeltségek bűnügyi technikai, és a szakértői tevékenység szakmai irányítását, továbbá bűnügyi pszichológia és poligráfos hazugságvizsgálat, illetve a bűnügyi orvosi tevékenység szakmai irányítását,
 
 f) végzi a meghatározott bűnügyi helyszínek esetében a gyakorlati tevékenységet,
 
@@ -24,6 +24,6 @@ j) részt vesz a szakértői tevékenységgel, valamint a szakértői nyilvánta
 
 (2) A rendészetért felelős miniszter kinevezi a Bűnügyi Szakértői és Kutatóintézet igazgatóját és igazgatóhelyettesét, dönt a vezetői megbízatásuk visszavonásáról és jogviszonyuk fegyelmi vagy egyéb eljárás keretében történő megszüntetéséről, valamint jóváhagyja a Bűnügyi Szakértői és Kutatóintézet ellenőrzéséről készült jelentést.
 
-[^68]: A 10/A. §-t a 276/2010. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^69]: A 10/A. § (1) bekezdés nyitó szövegrésze a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^70]: A 10/A. § (1) bekezdés e) pontja a 227/2012. (VIII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^69]: A 10/A. §-t a 276/2010. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^70]: A 10/A. § (1) bekezdés nyitó szövegrésze a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^71]: A 10/A. § (1) bekezdés e) pontja a 227/2012. (VIII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
