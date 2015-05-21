@@ -1,8 +1,8 @@
-1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^18]
+1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^86]
 
 1. A telepítési távolság meghatározása
 
-1.1. A pirotechnikai raktárépület telepítésénél a létesítmény és a környezetében levő más, védendő létesítmények között, azok irányaiban, legalább olyan védőtávolságokat kell tartani – ha külön előírás eltérően nem rendelkezik –, hogy a pirotechnikai raktárépület legközelebbi, legnagyobb védőtávolságot igénylő „RV-besorolású” építményeiben, az esetleg bekövetkező robbanás lökési hullámának nyomásmaximuma a védendő létesítmények kerítésének, építési telekhatárának vagy nyomvonalának legközelebbi pontjánál ne lépje túl az 1.4. pont 1.4.1.–1.4.5. alpontjában megengedett értéket. A védendő létesítmények irányaiban megtartandó biztonsági távolságokat az 1.4. pontban meghatározott képletek alapján kell kiszámítani, és a feltételezhető robbanás centrumától kell mérni.
+1.1. A pirotechnikai raktárépület telepítésénél a létesítmény és a környezetében levő más, védendő létesítmények között, azok irányaiban, legalább olyan védőtávolságokat kell tartani – ha külön előírás eltérően nem rendelkezik –, hogy a pirotechnikai raktárépület legközelebbi, legnagyobb védőtávolságot igénylő „RV-besorolású” építményeiben, az esetleg bekövetkező robbanás lökési hullámának nyomásmaximuma a védendő létesítmények kerítésének, építési telekhatárának vagy nyomvonalának legközelebbi pontjánál ne lépje túl az 1.4. pont 1.4.1.–1.4.5. alpontjában megengedett értéket. A védendő létesítmények irányaiban megtartandó védőtávolságokat az 1.4. pontban meghatározott képletek alapján kell kiszámítani, és a feltételezhető robbanás centrumától kell mérni.
 
 1.2. Az 1.1. pont szerinti védőtávolságot 50%-kal meg kell növelni, ha a pirotechnikai raktárépületet belterület mellé, külterületi lakott terület, vagy országos közút (autópálya, autóút, egyéb főközlekedési út), közforgalmú vasút, honvédelmi létesítmény és repülőtér, illetőleg különleges védelmet igénylő más létesítmény (különösen torony, távközlési létesítmény, függőhíd, gyárkémény, villamosmű, vízmű-telep és közcsőhálózat, kőolaj-, kőolajtermék- vagy gázvezeték külszíni létesítménye) közelébe tervezik telepíteni.
 
@@ -84,9 +84,9 @@ ahol:
 
 3.2. A tárolási norma kiszámításához az „R” helyébe a pirotechnikai raktárépület robbanási centruma és a védendő építmények közötti tényleges távolságokat kell behelyettesíteni (méterben). A képlet más tényezői megegyeznek az 1.3. pontban meghatározott képletben szereplő tényezőkkel.
 
-4. Robbanóképes pirotechnikai anyagok TNT-egyenértéke
+4. Pirotechnikai termékekben használatos robbanóképes anyagok TNT-egyenértéke
 
-4.1. A robbanóképes pirotechnikai anyagok TNT-egyenértékét („E”) az alábbi módon kell kiszámítani:
+4.1. A pirotechnikai termékekben használatos robbanóképes anyagok TNT-egyenértékét („E”) az alábbi módon kell kiszámítani:
 
 ahol:
 
@@ -96,7 +96,7 @@ ahol:
 
 4.2. A pirotechnikai anyagok TNT-egyenértékének számításánál a fajlagos robbanáshő helyett a fajlagos égéshőt kell figyelembe venni.
 
-4.3. Az ismeretlen TNT-egyenértékű robbanóanyagok, valamint robbanóképes pirotechnikai keverékek TNT-egyenértékét – méréssel megállapított vagy szakirodalomból vett robbanáshő vagy égéshő adatai alapján – a 4.1. pontban foglalt számítással kell meghatározni.
+4.3. Az ismeretlen TNT-egyenértékű robbanóanyagok, valamint robbanóképes pirotechnikai elegyek TNT-egyenértékét – méréssel megállapított vagy szakirodalomból vett robbanáshő vagy égéshő adatai alapján – a 4.1. pontban foglalt számítással kell meghatározni.
 
 4.4. A tűzijáték terméknél alkalmazott robbanóképes pirotechnikai anyagok TNT-egyenértéke szakirodalmi adatok szerint:
 
@@ -112,7 +112,7 @@ ahol:
 
 |  | 5 | Perklorátos – fémporos villanó elegy | 2,2 |
 
-4.5. A 4.4. pontban szereplő táblázatban felsorolt pirotechnikai alkotórészeken kívül, a tűzijáték termékben előforduló egyéb pirotechnikai keverékekkel nem kell számolni.
+4.5. A 4.4. pontban szereplő táblázatban felsorolt pirotechnikai alkotórészeken kívül, a tűzijáték termékben előforduló egyéb pirotechnikai elegyekkel nem kell számolni.
 
 5. A robbanási ütőhullám megengedett legnagyobb értékei a védendő építményeknél, létesítményeknél
 
@@ -220,4 +220,4 @@ ahol:
 
 |  | 20 | 1 | a kifúvófal és kifúvó födém esetében. |
 
-[^18]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^86]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 36. § A bejelentett szervezet az EK-típusvizsgálati eljárás során megvizsgáltatja és tanúsítja, hogy a bemutatott mintának megfelelő termék az e rendelet által megállapított alapvető biztonsági követelményeknek megfelel.
+## 36. §[^35] A bejelentett szervezet az EU-típusvizsgálati eljárás során megvizsgáltatja és tanúsítja, hogy a bemutatott mintának megfelelő termék az e rendelet által megállapított alapvető biztonsági követelményeknek megfelel.
 
-37. § (1) Az EK-típusvizsgálat iránti kérelmet a gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője (e cím vonatkozásában a továbbiakban együtt: kérelmező) nyújthatja be az általa választott bejelentett szervezetnél, vagy a megfelelőségértékelő szervezetek tevékenységéről szóló törvény szerinti bejelentett szervezetnél.
+37. § (1)[^36] Az EU-típusvizsgálat iránti kérelmet a gyártó vagy az Európai Gazdasági Térségben letelepedett meghatalmazott képviselője (e cím vonatkozásában a továbbiakban együtt: kérelmező) nyújthatja be az általa választott bejelentett szervezetnél, vagy a megfelelőségértékelő szervezetek tevékenységéről szóló törvény szerinti bejelentett szervezetnél.
 
 (2) A kérelem tartalmazza:
 
@@ -25,3 +25,6 @@ d) a hivatkozott, egészében vagy részben alkalmazott honosított harmonizált
 e) a számítások, az elvégzett vizsgálatok eredményeit, és
 
 f) a vizsgálati jelentést.
+
+[^35]: A 36. § a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^36]: A 37. § (1) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 8. pontja szerint módosított szöveg.

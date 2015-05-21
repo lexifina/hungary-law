@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti címke tartalmazza:
 
-a) a gyártó – és ha a gyártó az Európai Unióban vagy valamely EGT-államban nem letelepedett, akkor a gyártó mellett az importőr – nevét, címét,
+a)[^27] a gyártó – és ha a gyártó az Európai Unióban vagy valamely EGT-államban nem letelepedett, akkor a gyártó mellett az importőr – nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét,
 
 b) a pirotechnikai termék nevét, típusát, pirotechnikai osztályát, gyártmánya kódját,
 
@@ -11,3 +11,5 @@ c) a termékkel kapcsolatos biztonsági előírásokat,
 d) a közérthető, baleset- és egészségvédelmi figyelmeztetést.
 
 (3) A járművekhez használt pirotechnikai termék forgalmazása esetén az e terméket foglalkozásszerűen felhasználó személyek rendelkezésére kell bocsátani az 1907/2006/EK európai parlamenti és tanácsi rendelet 31. cikkében foglaltaknak megfelelően összeállított, a foglalkozásszerű felhasználó által megjelölt nyelvű biztonsági adatlapot (a továbbiakban: biztonsági adatlap). A biztonsági adatlapot nyomtatott vagy elektronikus formában is át lehet adni, amennyiben a címzett rendelkezik a hozzáféréshez szükséges eszközökkel.
+
+[^27]: A 15. § (2) bekezdés a) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 4. pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (3) A robbanóanyag tárolóhely, a pirotechnikai raktárépület, a pirotechnikai raktárhelyiség, valamint a kézi tárolóhely bejáratánál legalább két-két darab, ideiglenes és átmeneti tárolóhelynél – a konténer kivételével – egy-egy darab 55A és 233B jelű vizsgálati egységtűz oltására alkalmas tűzoltó készüléket kell készenlétben tartani, amely helyettesíthető két darab legalább 34A és 233B jelű vizsgálati egységtűz oltására alkalmas tűzoltó készülékkel.
 
-(4)[^6] A pirotechnikai termék tárolására szolgáló helyen a pirotechnikai terméken és annak csomagolásán kívül egyéb, az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó anyag vagy más, együvé rakási tilalom alá eső veszélyes áru nem tárolható.
+(4)[^31] A pirotechnikai termék tárolására szolgáló helyen a pirotechnikai terméken és annak csomagolásán kívül egyéb, az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó anyag vagy más, együvé rakási tilalom alá eső veszélyes áru nem tárolható.
 
 (5) A pirotechnikai termék tárolására szolgáló helyen, pirotechnikai termék tárolása idején tilos
 
@@ -14,6 +14,7 @@ b) nyílt láng használatával járó munkát végezni,
 
 c) dohányozni és
 
-d) tűzfegyverrel ott tartózkodni,
+d)[^32] tűzfegyverrel lövést leadni,
 
-[^6]: A 32. § (4) bekezdése a 300/2014. (XII. 5.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^31]: A 32. § (4) bekezdése a 300/2014. (XII. 5.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^32]: A 32. § (5) bekezdés d) pontja a 100/2015. (IV. 20.) Korm. rendelet 9. §-ával megállapított szöveg.

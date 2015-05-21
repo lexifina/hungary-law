@@ -26,13 +26,13 @@ i) egy lakóegységen belül csak egy magánszemély tárolhat pirotechnikai ter
 
 (4) A (3) bekezdés szerinti címke tartalmazza:
 
-a) a gyártó nevét és címét, ha a gyártó az Európai Unióban vagy valamely EGT-államban nem letelepedett, akkor a gyártó neve mellett az importőr nevét és címét,
+a)[^25] a gyártó nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét, ha a gyártó az Európai Unióban vagy valamely EGT-államban nem letelepedett, akkor a gyártó neve mellett az importőr nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és a postai címét,
 
 b) a pirotechnikai termék nevét, típusát, pirotechnikai osztályát és a tanúsítási regisztrációs számát,
 
 c) a nettó hatóanyag-tartalmát,
 
-d) a 3. és 4. pirotechnikai osztályba tartozó tűzijáték termékek esetében a gyártás évét,
+d)[^26] a felhasználhatósági időt, valamint a 3. és 4. pirotechnikai osztályba tartozó tűzijáték termékek esetében a gyártás évét,
 
 e) a pirotechnikai termék felhasználásához szükséges – e rendelet szerinti – alsó korhatárt,
 
@@ -53,3 +53,6 @@ k) a 3. pirotechnikai osztályba tartozó tűzijáték termék esetében a term�
 (6) A nem belföldi forgalmazásra szánt pirotechnikai terméknek vagy – bontatlan gyűjtőcsomagolás esetében – a gyűjtőcsomagolásnak a (4) bekezdés a)–f) pontjában meghatározott adatokat, illetve a pirotechnikai termék fajtájától függően a kalibert (átmérőt) tartalmazó felirattal kell rendelkeznie.
 
 (7) A gyártó köteles a pirotechnikai terméket jól látható és olvasható kitörölhetetlen címkével ellátni az értékesítés helye szerinti ország hivatalos nyelvén, amelyben a terméket a fogyasztó számára értékesítik.
+
+[^25]: A 14. § (4) bekezdés a) pontja a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^26]: A 14. § (4) bekezdés d) pontja a 100/2015. (IV. 20.) Korm. rendelet 7. §-ával megállapított szöveg.
