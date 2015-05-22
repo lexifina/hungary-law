@@ -2,14 +2,6 @@ A Kormány
 
 1. jóváhagyja a KEOP-1.1.1/2F/09-11-2011-0002 azonosító számú („Duna-Vértes Köze Regionális Hulladékgazdálkodási Rendszer” című) projekt (a továbbiakban: projekt) nagyprojektként történő jóváhagyására irányuló kérelem visszavonását,
 
-2. felhívja a nemzeti fejlesztési minisztert, hogy a projekt műszaki tartalma átalakításának lehetőségét és az átalakítás lehetséges hatásait vizsgálja meg,
+2–3.[^2]
 
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2015. március 31.
-
-3. felhívja a nemzeti fejlesztési minisztert, hogy az 2. pontban meghatározott vizsgálat eredményeként készítsen javaslatot a projekt finanszírozhatóságáról és annak módjáról, valamint mindezek költségvetési és abszorpciós hatásairól a Nemzeti Fejlesztési Kormánybizottság részére.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2015. április 15.
+[^2]: A 2–3. pontot az 1327/2015. (V. 22.) Korm. határozat 8. pontja visszavonta.
