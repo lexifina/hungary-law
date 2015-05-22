@@ -1,1 +1,0 @@
-## „(4a) A P1. osztályba tartozó, járművekhez használt pirotechnikai termékeket – ideértve a légzsák és a biztonsági övek előfeszítésére szolgáló rendszereket – szaktudással nem rendelkező személyek részére csak a járműbe vagy levehető járműrészbe beépített formában lehet forgalmazni.”

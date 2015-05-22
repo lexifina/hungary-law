@@ -1,3 +1,3 @@
-## 4. §[^2]
+## 4. §[^4]
 
-[^2]: A 4. § a 32. § (2) bekezdése alapján 2016. október 17-én lép hatályba.
+[^4]: A 4. § a 32. § (2) bekezdése alapján 2016. október 17-én lép hatályba.

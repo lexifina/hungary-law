@@ -1,1 +1,0 @@
-## „(2a) A CE-jelölést a bejelentett szervezet azonosító száma követi, amelyet a gyártó helyez el. A CE-jelölést bármilyen egyéb jelölés követheti, ha az különleges kockázatokra vagy a termék felhasználására vonatkozik.”

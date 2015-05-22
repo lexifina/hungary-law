@@ -1,7 +1,3 @@
-## 9. § A Korm. rendelet 32. § (5) bekezdés d) pontja helyébe a következő rendelkezés lép:
+## 5–9. §[^5]
 
-## (A pirotechnikai termék tárolására szolgáló helyen, pirotechnikai termék tárolása idején tilos)
-
-## „d) tűzfegyverrel lövést leadni,”
-
-## (amely tilalmakat a bejáratnál fel kell tüntetni.)
+[^5]: Az 5–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
