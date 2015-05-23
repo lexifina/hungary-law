@@ -1,3 +1,5 @@
-## 31. § A közoktatásról szóló 1993. évi LXXIX. törvény szerint, az e rendelet hatálybalépése előtt létrehozott pedagógiai-szakmai szolgáltató intézmény 2012. december 31-ig változatlan feltételekkel látja el a pedagógiai-szakmai szolgáltatás feladatait.
+## 31. §[^59]
 
 ## 10. Jogharmonizációs záradék
+
+[^59]: A 31. §-t a 26/2015. (V. 22.) EMMI rendelet 17. § p) pontja hatályon kívül helyezte.

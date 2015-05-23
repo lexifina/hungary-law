@@ -1,75 +1,50 @@
-## 33. §[^16]
+## 33. §[^60]
 
-1. melléklet a 48/2012. (XII. 12.) EMMI rendelethez
+1. melléklet a 48/2012. (XII. 12.) EMMI rendelethez[^61]
 
 ## A pedagógiai intézetben kötelezően foglalkoztatott alkalmazottak létszáma
 
-A)
+I. Vezetők
 
-I.
+|  | A | B |
 
-Vezetők
+| 1 | Munkakör | Létszám (fő) |
 
-| Igazgató minden önálló intézményben | 1 fő |
+| 2 | Igazgató minden önálló intézményben | 1 |
 
-II.
+II. Alkalmazottak az alapfeladat ellátásához
 
-Alkalmazottak az alapfeladat ellátásához
+|  | A | B |
 
-| Pedagógiai értékeléshez pedagógiai szakértő, pedagógiai előadó munkakörben | 1 fő |
+| 1 | Munkakör | Létszám (fő) |
 
-| Szaktanácsadás szervezéséhez, tantárgygondozáshoz pedagógiai szakértő, pedagógiai előadó munkakörben | 7 fő |
+| 2 | Pedagógiai értékeléshez pedagógiai szakértő, pedagógiai előadó munkakörben | 1 |
 
-| Pedagógiai tájékoztatással kapcsolatos feladatokhoz pedagógiai szakértő, pedagógiai előadó, oktatástechnikus munkakörben | 1 fő |
+| 3 | Szaktanácsadás szervezéséhez, tantárgygondozáshoz pedagógiai szakértő, pedagógiai előadó munkakörben | 7 |
 
-| Tanügy-igazgatási, pedagógiai szolgáltatásokhoz pedagógiai szakértő, pedagógiai előadó munkakörben | 1 fő |
+| 4 | Pedagógiai tájékoztatással kapcsolatos feladatokhoz pedagógiai szakértő, pedagógiai előadó, oktatástechnikus munkakörben | 1 |
 
-| Pedagógusok képzésének, továbbképzésének és önképzésének segítéséhez, szervezéséhez pedagógiai szakértő, pedagógiai előadó munkakörben | 2 fő |
+| 5 | Tanügy-igazgatási, pedagógiai szolgáltatásokhoz pedagógiai szakértő, pedagógiai előadó munkakörben | 1 |
 
-| Tanulmányi sport- tehetséggondozó versenyek szervezéséhez, összehangolásához pedagógiai szakértő, pedagógiai előadó munkakörben | 1 fő |
+| 6 | Pedagógusok képzésének, továbbképzésének és önképzésének segítéséhez, szervezéséhez pedagógiai szakértő, pedagógiai előadó munkakörben | 2 |
 
-| Tanulótájékoztató tanácsadó szolgálathoz pedagógiai szakértő, pedagógiai előadó, munkakörben | 1 fő |
+| 7 | Tanulmányi sport- és tehetséggondozó versenyek szervezéséhez, összehangolásához pedagógiai szakértő, pedagógiai előadó munkakörben | 1 |
 
-III.
+| 8 | Tanulótájékoztató tanácsadó szolgálathoz pedagógiai szakértő, pedagógiai előadó munkakörben | 1 |
 
-Alkalmazottak más feladatok ellátásához
+III. Alkalmazottak más feladatok ellátásához
 
-| Ügyviteli alkalmazott az intézményben | 1 fő |
+|  | A | B |
 
-| Gazdasági dolgozó nem a Központ által fenntartott intézményben | 1 fő |
+| 1 | Munkakör | Létszám (fő) |
 
-B)
+| 2 | Ügyviteli alkalmazott az intézményben | 1 |
 
-A pedagógiai kabinetben kötelezően foglalkoztatott alkalmazottak létszáma
+| 3 | Gazdasági dolgozó | 1 |
 
-I.
+1. A II. pontban foglalt táblázatban meghatározott létszám az egyes feladatok között átcsoportosítható.
 
-Vezető
+2. Az I–III. pontban foglalt táblázatban meghatározottaktól, a 22. § (1) bekezdésében foglaltak szerint, az intézmény javára el lehet térni.
 
-| Kabinet vezető | 1 fő |
-
-II.
-
-Alkalmazottak az alapfeladat ellátásához
-
-| Pedagógiai értékeléshez pedagógiai szakértő, pedagógiai előadó munkakörben | 1 fő |
-
-| Szaktanácsadás szervezéséhez, tantárgygondozáshoz pedagógiai szakértő, pedagógiai előadó munkakörben | 2 fő |
-
-| Pedagógiai tájékoztatással kapcsolatos feladatokhozpedagógiai szakértő, pedagógiai előadó, oktatástechnikus munkakörben | 1 fő |
-
-| Tanügy-igazgatási, pedagógiai szolgáltatásokhoz pedagógiai szakértő, pedagógiai előadó munkakörben | 1 fő |
-
-| Pedagógusok képzésének, továbbképzésének és önképzésének segítéséhez, szervezéséhez pedagógiai szakértő, pedagógiai előadó munkakörben | 1 fő |
-
-| Tanulmányi sport- tehetséggondozó versenyek szervezéséhez, összehangolásához pedagógiai szakértő, pedagógiai előadó munkakörben | 1 fő |
-
-| Tanulótájékoztató tanácsadó szolgálathoz pedagógiai szakértő, pedagógiai előadó, munkakörben | 1 fő |
-
-III.
-
-1. A II. részben meghatározott létszám az egyes feladatok között átcsoportosítható.
-
-2. A mellékletben foglaltaktól az intézmény javára el lehet térni.
-
-[^16]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: Az 1. melléklet a 26/2015. (V. 22.) EMMI rendelet 14. §-ával megállapított szöveg.

@@ -4,6 +4,9 @@ a) pedagógiai tárgyú tanácskozások, pedagógiai szakmai napok szervezése,
 
 b) bekapcsolódás az országos pedagógus-továbbképzés rendszerébe,
 
-c) az Oktatáskutató és Fejlesztő Intézet irányítása mellett országos szakmai pályázatok kiírása, megbízásra pedagógiai tárgyú kísérletek, pedagógiai tárgyú kutatások indítása vagy azokban való részvétel.
+c)[^16]
 
-(2) A Központ együttműködési megállapodás keretében bevonhatja az állami feladatellátás keretei között ellátott pedagógiai-szakmai szolgáltatásokba a pedagógusképző felsőoktatási intézmény által fenntartott pedagógiai intézetet, a pedagógiai tárgyú továbbképzések, pedagógiai kísérletek köznevelés-fejlesztéssel összefüggő megszervezésébe.
+(2)[^17] A Hivatal együttműködési megállapodás keretében bevonhatja az állami feladatellátás keretei között ellátott pedagógiai-szakmai szolgáltatásokba a pedagógusképző felsőoktatási intézmény által fenntartott pedagógiai intézetet, a pedagógiai tárgyú továbbképzések, pedagógiai kísérletek köznevelés-fejlesztéssel összefüggő megszervezésébe.
+
+[^16]: A 7. § (1) bekezdés c) pontját a 26/2015. (V. 22.) EMMI rendelet 17. § f) pontja hatályon kívül helyezte.
+[^17]: A 7. § (2) bekezdése a 26/2015. (V. 22.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.

@@ -4,4 +4,6 @@ a) a nevelési és a tanítási-tanulási folyamatot támogató, oktatástechnik
 
 b) a nevelési és tantárgyi, műveltségterületi szakmódszertani tájékoztatók, segédletek és kiadványok elkészítése.
 
-(2) A Központ által fenntartott pedagógiai intézet a könyvtárpedagógiai munka fejlesztése érdekében az illetékességi területén együttműködik az óvodai, iskolai és a kollégiumi könyvtárakkal.
+(2)[^14] A Hivatal a könyvtárpedagógiai munka fejlesztése érdekében együttműködik az óvodai, iskolai és a kollégiumi könyvtárakkal.
+
+[^14]: Az 5. § (2) bekezdése a 26/2015. (V. 22.) EMMI rendelet 7. §-ával megállapított szöveg.

@@ -72,246 +72,116 @@
 
 ## 19. Éves költségvetés, költségvetési beszámolók, költségvetési bizonylatok | 5
 
-3. melléklet a 48/2012. (XII. 12.) EMMI rendelethez
+3. melléklet a 48/2012. (XII. 12.) EMMI rendelethez[^62]
 
-Jegyzék
+Jegyzék a pedagógiai intézet kötelező (minimális) eszközeiről és felszereléseiről
 
-a pedagógiai intézet kötelező (minimális) eszközeiről és felszereléseiről
-
-I.
-
-Helyiségek
+I. Helyiségek
 
 1. Közös és vezetői helyiségekhez
 
-| vezetői szoba | 1 |
+|  | A | B |
 
-| adminisztrációs-titkársági szoba | 1 |
+| 1 | A helyiség típusa | Mennyiség (db) |
 
-| gazdasági-ügyintézői szoba | 1 önálló intézményben |
+| 2 | vezetői szoba | 1 |
 
-| előadóterem | 1 |
+| 3 | adminisztrációs-titkársági szoba | 1 |
 
-| váróterem | 1 |
+| 4 | gazdasági-ügyintézői szoba | 1 önálló intézményben |
 
-| mosdó, WC helyiség nemenként | 1 |
+| 5 | váróterem | 1 |
 
-| fogyóeszköz-, takarítóeszköz-tároló | 1 |
+| 6 | mosdó, WC helyiség nemenként | 1 |
 
-2. Pedagógiai értékeléshez
+| 7 | fogyóeszköz-, takarítóeszköz-tároló | 1 |
 
-| munkaszoba | 1 |
+2. Pedagógiai-szakmai szolgáltatási feladatok ellátásához
 
-| tárgyaló | 1 |
+|  | A | B |
 
-| eszköztároló | 1 |
+| 1 | A helyiség típusa | Mennyiség (db) |
 
-3. Szaktanácsadás megszervezéséhez
+| 2 | munkaszoba | legalább 3 alkalmazottanként 1 |
 
-| munkaszoba | 1 |
+| 3 | tárgyaló | 1 |
 
-| tárgyaló | 1 |
+| 4 | eszköztároló | 1 |
 
-4. Pedagógiai tájékoztatáshoz
-
-| olvasóterem | 1 |
-
-| számítógépterem | 1 |
-
-5. Igazgatási pedagógiai szolgáltatáshoz
-
-| munkaszoba | 1 |
-
-| tárgyaló | 1 |
-
-6. Pedagógusok továbbképzéséhez
-
-| munkaszoba | 1 |
-
-| előadóterem | 1 |
-
-7. Tanulmányi versenyek szervezéséhez
-
-| munkaszoba | 1 |
-
-| tárgyaló | 1 |
-
-8. Tanuló tájékoztató stb. szolgálathoz
-
-| munkaszoba | 1 |
-
-| tárgyaló | 1 |
+| 5 | előadóterem | 1 |
 
 Megjegyzés:
 
 1. A helyiségek rendelkezésre bocsátásával a szolgáltatás zavartalan megszervezését, ellátását kell biztosítani.
 
-2. Közös munkaszobák is kialakíthatók, ha a helyiség alapterülete azt megengedi, s egy alkalmazottra legalább 6 m2 terület jut.
+2. Közös munkaszobák is kialakíthatók, ha a helyiség alapterülete azt megengedi, és egy alkalmazottra legalább 6 m2 alapterület jut.
 
-3. Nincs szükség külön tárgyalóra, ha a munkaszobában az alkalmazott egyedül dolgozik, s a munkaszoba alapterülete legalább 8 m2, vagy ha többen dolgoznak egy munkaszobában, de egy alkalmazottra legalább 10 m2 alapterület jut.
+3. Nem kell a 2. pontban foglalt táblázat A:3 mezőjében meghatározott tárgyalót biztosítani, ha a munkaszobában az alkalmazott egyedül dolgozik, és a munkaszoba alapterülete legalább 8 m2, vagy ha többen dolgoznak egy munkaszobában, és egy alkalmazottra legalább 10 m2 alapterület jut.
 
-4. A mellékletben foglaltaktól az intézmény javára el lehet térni.
-
-II.
-
-Eszközök és felszerelések
+II. Eszközök és felszerelések
 
 1. Vezetői tevékenységhez
 
-| munkaasztal | alkalmazottanként 1 |
+|  | A | B |
 
-| előadói asztal | 1 |
+| 1 | Berendezési, felszerelési tárgy | Mennyiség (db) |
 
-| szék | alkalmazottanként 1 és megfelelő számban az előadóterembe, illetve váróterembe |
+| 2 | munkaasztal | alkalmazottanként 1 |
 
-| távbeszélő | vezetőnek és szolgáltatásonként 1 |
+| 3 | előadói asztal | 1 |
 
-| szekrény | 1 helyiségenként |
+| 4 | szék | alkalmazottanként 1 és megfelelő számban az előadóterembe, illetve a váróterembe |
 
-| számítógép | 1 |
+| 5 | telefon | vezetőnek és szolgáltatásonként 1 |
 
-| számítógépasztal | 1 |
+| 6 | szekrény | helyiségenként 1 |
 
-| nyomtató | 1 |
-
-| szkenner | 1 |
+| 7 | számítógép | 1 |
 
 2. Ügyviteli tevékenységhez
 
-| munkaasztal | alkalmazottanként 1 |
+|  | A | B |
 
-| szék | alkalmazottanként 1 |
+| 1 | Berendezési, felszerelési tárgy | Mennyiség (db) |
 
-| szekrény | alkalmazottanként 1 |
+| 2 | munkaasztal | alkalmazottanként 1 |
 
-| számítógép | alkalmazottanként 1 |
+| 3 | szék | alkalmazottanként 1 |
 
-| számítógépasztal | 1 |
+| 4 | szekrény | alkalmazottanként 1 |
 
-| nyomtató | 1 |
+| 5 | számítógép | alkalmazottanként 1 |
 
-| fénymásoló | 1 |
+| 6 | nyomtató | ügyviteli és pedagógiai feladatokhoz 1-1 |
 
-3. Pedagógiai értékeléshez
+| 7 | fénymásoló | ügyviteli és pedagógiai feladatokhoz 1-1 |
 
-| munkaasztal | alkalmazottanként 1 |
+| 8 | szkenner | 1 |
 
-| tárgyalóasztal | 1 |
+3. Pedagógiai-szakmai szolgáltatási feladatok ellátásához
 
-| szék | alkalmazottanként 1 |
+|  | A | B |
 
-| tárgyalószék | 4 tárgyalóasztalonként |
+| 1 | Berendezési, felszerelési tárgy | Mennyiség (db) |
 
-| szekrény | helyiségenként 1 |
+| 2 | munkaasztal | alkalmazottanként 1 |
 
-| számítógép | 1 |
+| 3 | tárgyalóasztal | tárgyalónként 1 |
 
-| számítógépasztal | 1 |
+| 4 | szék | alkalmazottanként 1 |
 
-4. Szaktanácsadás megszervezéséhez
+| 5 | tárgyalószék | tárgyalóasztalonként 4 |
 
-| munkaasztal | alkalmazottanként 1 |
+| 6 | szekrény | helyiségenként 1 |
 
-| tárgyalóasztal | 1 |
+| 7 | számítógép | 1 |
 
-| szék alkalmazottanként | 1 |
+| 8 | laptop | 1 |
 
-| tárgyalószék tárgyalóasztalonként | 4 |
-
-| szekrény helyiségenként | 1 |
-
-5. Pedagógiai tájékoztatáshoz
-
-| munkaasztal | 1 |
-
-| szék | 1 |
-
-| olvasóasztal | 3 |
-
-| szék | 3 |
-
-| könyvállvány | szükség szerint |
-
-| szekrény | helyiségenként 1 |
-
-| számítógép | 3 |
-
-| laptop | 1 |
-
-| számítógépasztal | 3 |
-
-| fénymásoló | 1 |
-
-| televízió | 1 |
-
-| projektor | 3 |
-
-| írásvetítő | 1 |
-
-6. Igazgatási, pedagógiai szolgáltatáshoz
-
-| munkaasztal | alkalmazottanként 1 |
-
-| tárgyalóasztal | alkalmazottanként 1 |
-
-| szék | alkalmazottanként 1 |
-
-| tárgyalószék | 4 tárgyalóasztalonként |
-
-| szekrény | helyiségenként 1 |
-
-| számítógép | 1 |
-
-| számítógépasztal | 1 |
-
-7. Pedagógusok továbbképzéséhez
-
-| munkaasztal | alkalmazottanként 1 |
-
-| tárgyalóasztal | 1 |
-
-| szék | alkalmazottanként 1 |
-
-| tárgyalószék | tárgyalóasztalonként 4 |
-
-| szekrény | helyiségenként 1 |
-
-| számítógép | 1 |
-
-| számítógépasztal | 1 |
-
-| számítógépszék | 1 |
-
-8. Tanulmányi versenyek szervezéséhez
-
-| munkaasztal | alkalmazottanként 1 |
-
-| tárgyalóasztal | 1 |
-
-| szék | alkalmazottanként 1 |
-
-| tárgyalószék | tárgyalóasztalonként 4 |
-
-| szekrény | helyiségenként 1 |
-
-9. Tanuló tájékoztató és egyéb tevékenységhez
-
-| munkaasztal | alkalmazottanként1 |
-
-| tárgyalóasztal | 1 |
-
-| szék | alkalmazottanként 1 |
-
-| tárgyalószék | tárgyalóasztalonként 4 |
-
-| szekrény | helyiségenként 1 |
-
-| számítógép | 1 |
-
-| számítógépasztal | 1 |
+| 9 | projektor | 1 |
 
 Megjegyzés:
 
-1. Az eszköz- és felszerelés biztosítási kötelezettség igazodik a helyiségek kialakításához. A helyiségek rendeltetésszerű használatához szükséges felszereléseket biztosítani kell.
+Az eszköz- és felszerelés biztosítási kötelezettség igazodik a helyiségek kialakításához. A helyiségek rendeltetésszerű használatához szükséges felszereléseket biztosítani kell.
 
-2. A mellékletben foglaltaktól az intézmény javára el lehet térni.
+[^62]: A 3. melléklet a 26/2015. (V. 22.) EMMI rendelet 15. §-ával megállapított szöveg.

@@ -1,14 +1,14 @@
-15/A. §[^6] (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni a tantárgygondozó szaktanácsadást.
+15/A. §[^29] (1)[^30]
 
-(2) Szaktanácsadó az lehet, aki
+(2)[^31] Tantárgygondozó szaktanácsadás pedagógiai-szakmai szolgáltatás esetén szaktanácsadó az lehet, aki
 
 a) az Nkt. 3. mellékletében meghatározott feltételeknek megfelel,
 
-b) pedagógus–szakvizsgával rendelkezik,
+b) pedagógus-szakvizsgával rendelkezik,
 
 c) köznevelési intézményben pedagógus-munkakörben legalább tízéves szakmai gyakorlatot szerzett, és
 
-d) a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben résztvevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet alapján akkreditált pedagógus-továbbképzés keretében elvégezte az Oktatáskutató és Fejlesztő Intézet által alapított, a szaktanácsadásban résztvevő személy szakterületéhez illeszkedő tantárgygondozói továbbképzést.
+d) a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló kormányrendelet alapján akkreditált pedagógus-továbbképzés keretében elvégezte az Oktatáskutató és Fejlesztő Intézet által alapított, a szaktanácsadásban résztvevő személy szakterületéhez illeszkedő tantárgygondozói továbbképzést.
 
 (3) A (2) bekezdésben előírt feltételeket az is teljesíti, aki
 
@@ -18,6 +18,9 @@ b) az adott szakterület nemzetközileg vagy országosan elismert képviselője.
 
 (4) A (3) bekezdés b) pontjában meghatározott feltételnek való megfelelést szakmai önéletrajzzal és legalább két szakmai ajánlással, továbbá publikációs jegyzékkel kell igazolni.
 
-(5) Az országos tantárgygondozó szaktanácsadás szakmai irányítását az Oktatáskutató és Fejlesztő Intézet látja el.
+(5)[^32]
 
-[^6]: A 15/A. §-t a 6/2014. (I. 29.) EMMI rendelet 3. §-a iktatta be.
+[^29]: A 15/A. §-t a 6/2014. (I. 29.) EMMI rendelet 3. §-a iktatta be.
+[^30]: A 15/A. § (1) bekezdését a 26/2015. (V. 22.) EMMI rendelet 17. § j) pontja hatályon kívül helyezte.
+[^31]: A 15/A. § (2) bekezdése a 26/2015. (V. 22.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^32]: A 15/A. § (5) bekezdését a 26/2015. (V. 22.) EMMI rendelet 17. § j) pontja hatályon kívül helyezte.

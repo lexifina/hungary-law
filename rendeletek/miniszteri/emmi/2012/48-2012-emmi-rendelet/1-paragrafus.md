@@ -6,22 +6,25 @@ a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban
 
 b) a köznevelési rendszerben folyó változások elemzésére, kutatására, a köznevelés rendszerében folyó fejlesztések szakmai támogatására, az oktatásért felelős miniszter (a továbbiakban: miniszter) által alapított kutató, fejlesztő intézetre (a továbbiakban: Oktatáskutató és Fejlesztő Intézet),
 
-c) az Oktatási Hivatalra (a továbbiakban: OH),
+c)[^1] az Oktatási Hivatalra (a továbbiakban: Hivatal),
 
 d) az állami szakképzési és felnőttképzési szervre,
 
-e) az állami intézményfenntartó központra (a továbbiakban: Központ),
+e)[^2] a köznevelési intézmények fenntartóira,
 
-f) a nem a Központ által fenntartott köznevelési intézmény fenntartójára,
+f)[^3]
 
 g) a fővárosi és megyei kormányhivatalokra.
 
-(2)[^1] A pedagógiai-szakmai szolgáltatást az állami köznevelési közfeladat-ellátás keretében a Központ által fenntartott, szakmai szolgáltatást nyújtó pedagógiai intézet látja el. Pedagógiai-szakmai szolgáltatást az állami felsőoktatási intézmény, az egyházi jogi személy által fenntartott (a továbbiakban: egyházi fenntartású) vagy más nem állami, nem önkormányzati nevelési-oktatási intézményfenntartók által fenntartott pedagógiai intézet is elláthat.
+(2)–(3)[^4]
 
-(3) Az állami köznevelési közfeladat ellátása keretében a Központ hozza létre megyénként és a fővárosban a pedagógiai szakmai szolgáltatást nyújtó pedagógiai intézeteket, továbbá a fővárosi kerületekben az 1. melléklet B) pontjában meghatározott létszámmal pedagógiai-szakmai szolgáltatást nyújtó intézményegységeket (a továbbiakban: pedagógiai kabinet).
+(4)[^5] Az egyházi, a magán nevelési-oktatási intézmény, pedagógiai szakszolgálati intézmény a Hivatal által nyújtott pedagógiai-szakmai szolgáltatásokat térítési díj ellenében veheti igénybe, vagy fenntartója az egyházi, továbbá magán pedagógiai intézettel szolgáltatás nyújtására megállapodást köthet.
 
-(4) Az egyházi vagy más nem állami, nem önkormányzati fenntartású nevelési-oktatási intézmények, pedagógiai szakszolgálati intézmények az állam által fenntartott pedagógiai-szakmai szolgáltatást nyújtó pedagógiai intézet szolgáltatásait szolgáltatási díj ellenében vehetik igénybe, vagy fenntartóik az egyházi, továbbá más nem állami, nem önkormányzati fenntartású pedagógiai intézettel szolgáltatás nyújtására megállapodást köthetnek.
+(5)[^6] A (4) bekezdés szerinti intézmények a pedagógiai-szakmai szolgáltatást nyújtó intézmény kiválasztásához beszerzik a fenntartójuk egyetértését.
 
-(5) A (4) bekezdés szerinti intézmények a pedagógiai-szakmai szolgáltatást nyújtó intézmény kiválasztásához beszerzik a fenntartójuk egyetértését. A megállapodás alapján a pedagógiai-szakmai szolgáltatást nyújtó pedagógiai intézet térítésmentesen biztosítja a szolgáltatást a megállapodásban meghatározott nevelési-oktatási intézmény részére, a nevelési-oktatási intézmény fenntartójával kötött megállapodásban meghatározott költségvetés erejéig.
-
-[^1]: Az 1. § (2) bekezdése a 34/2014. (IV. 29.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés c) pontja a 26/2015. (V. 22.) EMMI rendelet 16. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés e) pontja a 26/2015. (V. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés f) pontját a 26/2015. (V. 22.) EMMI rendelet 17. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (2)–(3) bekezdését a 26/2015. (V. 22.) EMMI rendelet 17. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdése a 26/2015. (V. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 1. § (5) bekezdése a 26/2015. (V. 22.) EMMI rendelet 17. § c) pontja szerint módosított szöveg.

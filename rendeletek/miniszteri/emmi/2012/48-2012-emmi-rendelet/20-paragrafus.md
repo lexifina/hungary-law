@@ -6,4 +6,6 @@
 
 (3) Ahol e rendelet szakvizsgáról, pedagógus szakvizsgáról rendelkezik, azon a szakvizsgával – jogszabály alapján – egyenértékű vizsgát, tudományos fokozatot is érteni kell.
 
-(4) A pedagógiai intézetben vagy a pedagógiai kabinetben foglalkoztatottak kötelező létszámát az 1. melléklet határozza meg.
+(4)[^36] A pedagógiai intézetben foglalkoztatottak kötelező létszámát az 1. melléklet határozza meg.
+
+[^36]: A 20. § (4) bekezdése a 26/2015. (V. 22.) EMMI rendelet 17. § k) pontja szerint módosított szöveg.

@@ -1,9 +1,11 @@
-23. § (1) A pedagógiai intézet az éves feladatainak ellátásához éves munkatervet készít, a tárgyév januárjának utolsó munkanapjáig, és megküldi az Oktatáskutató és Fejlesztő Intézet részére a tárgyév február 15-ig.
+23. § (1)[^38] A pedagógiai intézet az éves feladatainak ellátásához éves munkatervet készít, a tárgyév januárjának utolsó munkanapjáig, és megküldi a Hivatal részére a tárgyév február 15-ig.
 
 (2) A pedagógiai intézet a fenntartó által jóváhagyott munkaterv szerint látja el tevékenységét.
 
-(3) Az állami fenntartású pedagógiai intézet a munkatervét az ellátási területén működő nevelési-oktatási intézmények, pedagógiai szakszolgálati intézmények igényei alapján állítja össze.
+(3)–(4)[^39]
 
-(4) Az állami fenntartású pedagógiai intézet éves munkatervének elfogadását megelőzően a Központ beszerzi az Oktatáskutató és Fejlesztő Intézet egyetértését.
+(5)[^40] A Hivatal az állami felsőoktatási intézmény által fenntartott, valamint az egyházi vagy magán pedagógiai intézet tekintetében az éves munkatervről kialakított véleményét tárgyév március 15-ig megküldi a pedagógiai intézet fenntartójának.
 
-(5) Az Oktatáskutató és Fejlesztő Intézet az állami felsőoktatási intézmény, az egyházi vagy más nem állami, nem önkormányzati fenntartású pedagógiai intézet tekintetében az éves munkatervről kialakított véleményét tárgyév március 15-ig megküldi a pedagógiai intézet fenntartójának.
+[^38]: A 23. § (1) bekezdése a 26/2015. (V. 22.) EMMI rendelet 16. § h) pontja szerint módosított szöveg.
+[^39]: A 23. § (3)–(4) bekezdését a 26/2015. (V. 22.) EMMI rendelet 17. § l) pontja hatályon kívül helyezte.
+[^40]: A 23. § (5) bekezdése a 26/2015. (V. 22.) EMMI rendelet 11. §-ával megállapított szöveg.
