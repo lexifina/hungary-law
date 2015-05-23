@@ -1,0 +1,3 @@
+## 6. § Az R. 2. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A Hivatal, az állami felsőoktatási intézmény által fenntartott, valamint a miniszterrel kötött köznevelési szerződés keretében pedagógiai-szakmai szolgáltatási feladatot ellátó egyházi vagy magán pedagógiai intézet a pedagógiai-szakmai szolgáltatási feladatok megvalósításába, – ha az állam által fenntartott pedagógiai-szakmai szolgáltató intézmények keretei között erre nincs lehetőség – bevonhatja az Oktatáskutató és Fejlesztő Intézetet, az állami intézményfenntartó központot, valamint bevonhat köznevelési intézményt, felsőoktatási intézményt abban az esetben is, ha az nem felel meg a 19. §-ban foglaltaknak.”
