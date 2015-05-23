@@ -4,13 +4,21 @@
 
 ## b) jóváhagyja a 2. mellékletben foglalt táblázat 3., 11., 27. és 30. sorában meghatározott, egymilliárd forintot meghaladó támogatási igényű projekteket,
 
-## c) elfogadja a 2. mellékletben meghatározott projektek kiemelt projektként történő nevesítését.
+## c) elfogadja a 2. mellékletben meghatározott projektek kiemelt projektként történő nevesítését,
+
+## d)[^1] hozzájárul az ÁROP-1.A.3 azonosító számú, „Területi együttműködést segítő programok kialakítása az önkormányzatoknál a konvergencia régiókban” című pályázati konstrukció tartaléklistája (a továbbiakban: tartaléklista) megszüntetéséhez a 2007–2013 közötti programozási időszak operatív programjai eredményes zárásával összefüggő 2015. évi feladatokra vonatkozó cselekvési tervről és a Nemzeti Stratégiai Referencia Keret 2014. évi munkatervéről szóló 1051/2014. (II. 7.) Korm. határozat módosításáról szóló 1014/2015. (I. 22.) Korm. határozat I.10. pontja alapján,
+
+## e)[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a tartaléklista megszüntetéséről.
+
+## Felelős: Miniszterelnökséget vezető miniszter
+
+## Határidő: 2015. május 31.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^3]
 
-1. melléklet az 1289/2015. (V. 5.) Korm. határozathoz
+1. melléklet az 1289/2015. (V. 5.) Korm. határozathoz[^4]
 
 ## AZ ÁLLAMREFORM OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -34,9 +42,9 @@
 
 | 2. | 2011–2013. | 2014. | 2015. | Összesen |
 
-| 3. | 23,440 | 2,568 | 0,020 | 26,028 |
+| 3. | 23,440 | 2,568 | 0,240 | 26,248 |
 
-| 4. | Többletkötelezettség-vállalás: 0,790 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 1,010 Mrd Ft |
 
 | 5. | Az Európai Regionális Fejlesztési Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 10% |
 
@@ -48,7 +56,7 @@
 
 | 2. | 2011–2013. | 2014. | 2015. | Összesen |
 
-| 3. | 22,286 | 0,632 | 2,194 | 25,112 |
+| 3. | 22,286 | 0,632 | 2,414 | 25,332 |
 
 1.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -116,7 +124,7 @@
 
 | 30. | 1.2.24. | A fogyasztóvédelmi intézményrendszer szervezeti működésének fejlesztése | 0,000 | 0,000 | 0,000 | 0,350 | 0,000 | 2011. január 1-től új struktúrában működik a fogyasztóvédelmi feladatokat ellátó hatóság. Az új működési struktúrában részben fennmaradtak azok a problémák, amelyek a hivatali működés belső fejlesztését igénylik. A problémák kezelését célozza egy olyan fejlesztési koncepció, amely 1. új stratégiát és célrendszert fogalmaz meg a fogyasztóvédelem összkormányzati kezelése érdekében, 2. új partnerségi struktúrát alakít ki a fogyasztóvédelmi jogkörrel rendelkező hivatalok együttműködése és egységes ügykezelése érdekében, 3. felkészíti a Nemzeti Fogyasztóvédelmi Hatóság és a területi felügyelőségek vezetőit és munkatársait az új típusú, korszerű fogyasztóvédelmi megközelítés stratégiai és operatív szintű alkalmazására, 4. modern HR eszköztárat alapoz az új fogyasztóvédelmi stratégia alkalmazását kiszolgáló humánerőforrás átfogó szakmai és kompetenciafejlesztésére. | nemzeti fejlesztési miniszter | Miniszterelnökséget vezető miniszter |
 
-| 31. | 1.A.3. | Területi együttműködést segítő programok kialakítása az önkormányzatoknál a konvergencia régiókban | 0,000 | 0,000 | 0,000 | 1,850 | 0,000 | A konstrukció segítségével 1. javul az önkormányzatok által ellátott közszolgáltatások megszervezésének hatékonysága, 2. javul a közszolgáltatások minősége, 3. erősödik a kistérségi társulás kereteiben megvalósuló együttműködés, 4. javul a kistérségi társulások eredményessége a hátrányos helyzetűeket (különösen a romákat) érintő foglalkoztatási programokban, 5. hatékonyabban történik az önkormányzati források felhasználása a helyi közigazgatási feladatok ésszerűbb és olcsóbb ellátásával. A konstrukció tartalmazza a területi együttműködés esélyegyenlőség-elvű fejlesztését és a közpolitikai eszközök fejlesztését szolgáló beavatkozásokat. A konstrukció keretében a támogatott projektek egyfordulós projekt-kiválasztási eljárás során kerülnek kiválasztásra. | emberi erőforrások minisztere |  |
+| 31. | 1.A.3. | Területi együttműködést segítő programok kialakítása az önkormányzatoknál a konvergencia régiókban | 0,000 | 0,000 | 0,000 | 1,850 | 0,220 | A konstrukció segítségével 1. javul az önkormányzatok által ellátott közszolgáltatások megszervezésének hatékonysága, 2. javul a közszolgáltatások minősége, 3. erősödik a kistérségi társulás kereteiben megvalósuló együttműködés, 4. javul a kistérségi társulások eredményessége a hátrányos helyzetűeket (különösen a romákat) érintő foglalkoztatási programokban, 5. hatékonyabban történik az önkormányzati források felhasználása a helyi közigazgatási feladatok ésszerűbb és olcsóbb ellátásával. A konstrukció tartalmazza a területi együttműködés esélyegyenlőség-elvű fejlesztését és a közpolitikai eszközök fejlesztését szolgáló beavatkozásokat. A konstrukció keretében a támogatott projektek egyfordulós projekt-kiválasztási eljárás során kerülnek kiválasztásra. | emberi erőforrások minisztere |  |
 
 | 32. | 1.A.4. | Nyilvántartások adattisztítási és migrációs feladatainak ellátása | 0,000 | 1,270 | 0,000 | 0,000 | 0,000 | A konstrukció keretében megvalósul a különböző állami nyilvántartások és adatbázisok adatállományának tisztítása, aktualizálása, valamint a nyilvántartások migrációs feladatai. A konstrukció keretében a támogatott projektek egyfordulós projekt-kiválasztási eljárás során kerülnek kiválasztásra. | Miniszterelnökséget vezető miniszter | belügyminiszter |
 
@@ -126,7 +134,7 @@
 
 | 35. | 1.A.7. | Szervezetfejlesztés a konvergencia régiókban lévő megyei kormányhivatalok számára | 0,000 | 0,000 | 0,900 | 0,000 | 0,000 | A konstrukció célja a kormányhivatalok szervezetfejlesztése, különös tekintettel a hivatalok létrehozásával egyidejűleg lezajlott szervezeti integráció megvalósításával és a hivatalokhoz telepített állami feladatok ellátásával kapcsolatos működési helyzetkép felállítására, a hatékony működést akadályozó problémák felmérésére és a problémák megoldására irányuló akciók kidolgozására. A konstrukció része a hivatalok megalakulása óta a hivatalok személyi állományába felvett munkatársak beillesztésének vizsgálata, továbbá a megfelelő szervezeti működéshez szükséges ismeretek és a szervezeti kultúra fejlesztése. A konstrukció keretében a támogatott projektek könnyített elbírálású projekt-kiválasztási eljárás során kerülnek kiválasztásra. | Miniszterelnökséget vezető miniszter |  |
 
-| 36. | 1. prioritás összesen | 2,100 | 13,690 | 7,650 | 2,568 | 0,020 |  |  |  |
+| 36. | 1. prioritás összesen | 2,100 | 13,690 | 7,650 | 2,568 | 0,240 |  |  |  |
 
 1.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében az 1.3.1. pontban foglalt táblázat C–G oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
@@ -246,4 +254,7 @@
 
 3.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 3.3.1. pontban foglalt táblázat C–G oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) pontját az 1326/2015. (V. 22.) Korm. határozat 1. pontja iktatta be.
+[^2]: Az 1. pont e) pontját az 1326/2015. (V. 22.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1326/2015. (V. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
