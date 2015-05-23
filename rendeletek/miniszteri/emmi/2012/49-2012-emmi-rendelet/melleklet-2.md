@@ -72,6 +72,20 @@
 
 ## 5.5. A díjazott az adományozást igazoló oklevelet kap.
 
+## 5a.[^6] Védőnői Szolgálatért díj
+
+## 5a.1. A díj annak adományozható, aki a területi védőnői munkában és védőnők oktatásában egyaránt kivételesen magas színvonalú, példaértékű eredményt ért el, és tevékenységével jelentősen hozzájárult ilyen eredmény eléréséhez.
+
+## 5a.2. A díj természetes személyeknek adományozható.
+
+## 5a.3. A díj átadására ötévente az anyák és csecsemők védelmére 1915. évben létrejött Országos Stefánia Szövetség megalakulásának évfordulója (június 13.) alkalmából kerül sor.
+
+## 5a.4. A díjból ötévente legfeljebb egy adományozható.
+
+## 5a.5. A díjazott az adományozást igazoló oklevelet kap.
+
+## 5a.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom összege az illetményalap tizenkétszeresének megfelelő összeg.
+
 ## II. FEJEZET
 
 ## KULTURÁLIS ÁGAZAT
@@ -480,7 +494,7 @@
 
 ## 32.3. A címet a miniszter az előadó-művészeti szervezetek támogatásáról szóló törvényben meghatározott zeneművészeti véleményező bizottság javaslata alapján adományozza.
 
-## 32.4. A cím viselésének ideje alatt a zenekar működését a kultúráért felelős minisztérium külön szerződés szerint támogatja.
+## 32.4.[^7] A cím viselésének ideje alatt a zenekar működését a minisztérium külön szerződés szerint támogatja.
 
 ## 33. Pro Cultura Hungarica emlékplakett
 
@@ -670,7 +684,7 @@
 
 ## 48. Pro Caritate-díj
 
-## 48.1. A díj a szociális ellátás fejlesztéséhez való hozzájárulásért, a gyermekvédelem, a fogyatékos és megváltozott munkaképességű emberek rehabilitációja érdekében, illetve az ezzel foglalkozó intézményekben kifejtett, továbbá az emberi erőforrások minisztere feladatkörébe tartozóan az esélyegyenlőség előmozdítása területén végzett kiemelkedő szakmai, közszolgálati, karitatív tevékenység, valamint a nyugdíjbiztosítás terén a nyugdíjasokért végzett munkáért adományozható.
+## 48.1.[^8] A díj a szociális ellátás fejlesztéséhez való hozzájárulásért, a gyermekvédelem, a fogyatékos és megváltozott munkaképességű emberek rehabilitációja érdekében, illetve az ezzel foglalkozó intézményekben kifejtett, továbbá a miniszter feladatkörébe tartozóan az esélyegyenlőség előmozdítása területén végzett kiemelkedő szakmai, közszolgálati, karitatív tevékenység, valamint a nyugdíjbiztosítás terén a nyugdíjasokért végzett munkáért adományozható.
 
 ## 48.2. A díj átadására a Szociális Munka Napja (november 12.), a Fogyatékos Emberek Világnapja (december 3.), vagy az Esélyegyenlőség Napja (május 5.) alkalmából, valamint és egyéb kiemelkedő szakmai esemény alkalmából kerül sor.
 
@@ -818,4 +832,25 @@
 
 ## 59.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
 
+## VII. FEJEZET[^9]
+
+## A MINISZTÉRIUMBAN VÉGZETT KIEMELKEDŐ KÖZSZOLGÁLATI TEVÉKENYSÉG ELISMERÉSE
+
+## 60. Közösség Szolgálatáért díj
+
+## 60.1. A díj annak adományozható, aki a minisztérium kormánytisztviselőjeként, kormányzati ügykezelőjeként tartósan kiemelkedő színvonalú jogszabály-előkészítési, ágazati szakmai, funkcionális, vagy a minisztérium alapfeladatához kötődő egyéb érdemi tevékenységet végez, és munkája, közszolgálati pályafutása mások számára példaértékű.
+
+## 60.2. A díj évente 3 személy részére adományozható.
+
+## 60.3. A díj átadására a Közszolgálati Tisztviselők Napja (július 1.) alkalmából kerül sor.
+
+## 60.4. A díjazott az adományozást igazoló oklevelet kap.
+
+## 60.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
+
 2. melléklet a 49/2012. (XII. 15.) EMMI rendelethez
+
+[^6]: Az 1. melléklet 5a. pontját a 25/2015. (V. 22.) EMMI rendelet 3. §-a iktatta be.
+[^7]: Az 1. melléklet 32.4. pontja a 25/2015. (V. 22.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 48.1. pontja a 25/2015. (V. 22.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet VII. fejezetét (60. pont) a 25/2015. (V. 22.) EMMI rendelet 3. §-a iktatta be.
