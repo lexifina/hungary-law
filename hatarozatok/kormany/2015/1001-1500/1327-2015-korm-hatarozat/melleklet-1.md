@@ -58,7 +58,7 @@
 
 ## Határidő: 2015. szeptember 15.
 
-## 8. visszavonja a KEOP-1.1.1/2F/09-11-2011-0002 azonosító számú („Duna–Vértes Köze Regionális Hulladékgazdálkodási Rendszer” című) nagyprojekttel összefüggő egyes intézkedésekről szóló 1793/2014. (XII. 19.) Korm. határozat 2. és 3. pontját.
+## 8.[^2]
 
 1. melléklet az 1327/2015. (V. 22.) Korm. határozathoz
 
@@ -77,3 +77,5 @@
 | 1. | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (Ft) | Projekt támogatási intenzitása | Projekt rövid bemutatása |
 
 | 2. | Vértesalja Hulladékgazdálkodási Projekt | Duna–Vértes Köze Regionális Hulladékgazdálkodási Társulás | 5 253 677 695 | 91,735144% | A projekt célja a bicskei előkezelő központ, a tarjáni, a szentendrei, a komáromi hulladékudvarok és a szerves hulladék kezelését szolgáló létesítmények megvalósítása. A projekt keretében a rendszer működtetéséhez szükséges létesítmények építésére és eszközök beszerzésére kerül sor. |
+
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
