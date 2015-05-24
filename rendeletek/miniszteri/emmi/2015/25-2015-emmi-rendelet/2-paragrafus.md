@@ -1,1 +1,0 @@
-## „(10) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a miniszter által vezetett minisztériumban (a továbbiakban: minisztérium) végzett közszolgálati tevékenységért: Közösség Szolgálatáért díj.”
