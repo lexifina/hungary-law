@@ -376,7 +376,7 @@ Elnök: Volner János (Jobbik)
 
 Alelnök:
 
-Kara Ákos (Fidesz)[^52]
+Bányai Gábor (Fidesz)[^52]
 
 Szatmáry Kristóf (Fidesz)[^53]
 
@@ -386,13 +386,11 @@ Tagok:
 
 Becsó Zsolt (Fidesz)
 
-Bányai Gábor (Fidesz)[^54]
-
 dr. Tiba István (Fidesz)
 
-Gelencsér Attila (Fidesz)[^55]
+Gelencsér Attila (Fidesz)[^54]
 
-Törő Gábor (Fidesz)[^56]
+Törő Gábor (Fidesz)[^55]
 
 Gúr Nándor (MSZP)
 
@@ -406,11 +404,11 @@ Elnök: dr. Gulyás Gergely (Fidesz)
 
 Alelnök:
 
-Horváth László (Fidesz)[^57]
+Horváth László (Fidesz)[^56]
 
-Tuzson Bence (Fidesz)[^58]
+Tuzson Bence (Fidesz)[^57]
 
-Balla György (Fidesz)[^59]
+Balla György (Fidesz)[^58]
 
 dr. Bárándy Gergely (MSZP)
 
@@ -420,19 +418,19 @@ Tagok:
 
 Ágh Péter (Fidesz)
 
-Vécsey László (Fidesz)[^60]
+Vécsey László (Fidesz)[^59]
 
 B. Nagy László (Fidesz)
 
-Bóna Zoltán (Fidesz)[^61]
+Bóna Zoltán (Fidesz)[^60]
 
-Dr. Galambos Dénes (Fidesz)[^62]
+Dr. Galambos Dénes (Fidesz)[^61]
 
 Hadházy Sándor (Fidesz)
 
-Jakab István (Fidesz)[^63]
+Jakab István (Fidesz)[^62]
 
-Dr. Tapolczai Gergely (Fidesz)[^64]
+Dr. Tapolczai Gergely (Fidesz)[^63]
 
 Kucsák László (Fidesz)
 
@@ -450,11 +448,11 @@ dr. Selmeczi Gabriella (Fidesz)
 
 dr. Szűcs Lajos (Fidesz)
 
-Dunai Mónika (Fidesz)[^65]
+Dunai Mónika (Fidesz)[^64]
 
 dr. Vas Imre (Fidesz)
 
-Révész Máriusz (Fidesz)[^66]
+Révész Máriusz (Fidesz)[^65]
 
 dr. Rubovszky György (KDNP)
 
@@ -466,25 +464,25 @@ dr. Legény Zsolt (MSZP)
 
 Lukács Zoltán (MSZP)
 
-dr. Harangozó Tamás Attila (MSZP)[^67]
+dr. Harangozó Tamás Attila (MSZP)[^66]
 
 dr. Tóth Bertalan (MSZP)
 
 Tukacs István (MSZP)
 
-dr. Lukács László György (Jobbik)[^68]
+dr. Lukács László György (Jobbik)[^67]
 
 dr. Staudt Gábor (Jobbik)
 
 Szilágyi György (Jobbik)
 
-Apáti István (Jobbik)[^69]
+Apáti István (Jobbik)[^68]
 
 dr. Schiffer András (LMP)
 
-Fodor Gábor (független)[^70]
+Fodor Gábor (független)[^69]
 
-2a.[^71] Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő képviselőket választja:
+2a.[^70] Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő képviselőket választja:
 
 Magyarországi nemzetiségek bizottsága (13 fő)
 
@@ -496,7 +494,7 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 4. Ez a határozat az elfogadásakor lép hatályba.
 
-5.[^72]
+5.[^71]
 
 [^2]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
@@ -548,24 +546,23 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 [^49]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^50]: A 22/2015. (V. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^51]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^52]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^52]: A 25/2015. (V. 29.) OGY határozat 1. pontjával megállapított szöveg.
 [^53]: A 23/2014. (VI. 3.) OGY határozat 2. pontjával megállapított szöveg.
 [^54]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^55]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^56]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^55]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^56]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
 [^57]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
 [^58]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
 [^59]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
-[^60]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
-[^61]: A 29/2014. (VI. 26.) OGY határozat 4. pontjával megállapított szöveg.
-[^62]: Az 1/2015. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
-[^63]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
-[^64]: Az 1/2015. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
-[^65]: A 33/2014. (VII. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^60]: A 29/2014. (VI. 26.) OGY határozat 4. pontjával megállapított szöveg.
+[^61]: Az 1/2015. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
+[^62]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
+[^63]: Az 1/2015. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
+[^64]: A 33/2014. (VII. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^65]: A 35/2014. (IX. 16.) OGY határozat 2. pontjával megállapított szöveg.
 [^66]: A 35/2014. (IX. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^67]: A 35/2014. (IX. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^68]: A 30/2014. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^69]: A 22/2015. (V. 14.) OGY határozat 2. pontjával megállapított szöveg.
-[^70]: A 15/2014. (V. 27.) OGY határozat 2. pontjával megállapított szöveg.
-[^71]: A 2a. pontot a 15/2014. (V. 27.) OGY határozat 3. pontja iktatta be. E módosító határozat 4. pontja alapján a Magyarországi nemzetiségek bizottságának megbízatása 2014. május 26. napjával kezdődik.
-[^72]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 30/2014. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^68]: A 22/2015. (V. 14.) OGY határozat 2. pontjával megállapított szöveg.
+[^69]: A 15/2014. (V. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^70]: A 2a. pontot a 15/2014. (V. 27.) OGY határozat 3. pontja iktatta be. E módosító határozat 4. pontja alapján a Magyarországi nemzetiségek bizottságának megbízatása 2014. május 26. napjával kezdődik.
+[^71]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
