@@ -1,0 +1,148 @@
+# A Kormány 124/2015. (V. 26.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 71. szám, 2015. május 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ae9377af88929a752595fc7306c2d42b34241a56/dokumentumok/7d9711a1ed142ea29c24b62a1987b5131a31bb35/letoltes)
+
+---
+
+A Kormány 124/2015. (V. 26.) Korm. rendelete
+az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól
+szóló 43/1999. (III. 3.) Korm. rendelet módosításáról
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott
+felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló
+43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 27. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az aktív fekvőbeteg-szakellátás esetében az egyes egészségügyi szolgáltatók vonatkozásában meg kell
+határozni azt a maximális teljesítmény mennyiséget, melyet a szolgáltatók a 2013. november 1. és 2014. október
+31. közötti időszakban elszámolt teljesítményükből az egynapos sebészeti és a kúraszerűen végezhető ellátások
+szakmai feltételeiről szóló 16/2002. (XII. 12.) ESZCSM rendelet szerinti teljesítményként számolhattak volna el. Ezen
+teljesítménymennyiség 43 százaléka képezi az aktív fekvőbeteg-szakellátást végző egyes egészségügyi szolgáltatók
+esetében az egynapos sebészeti ellátásra vonatkozó, tárgyévi, 12 havi TVK-t.”
+(2) A Kr. 27. §-a a következő (3b) bekezdéssel egészül ki:
+„(3b) Az aktív fekvőbeteg-szakellátás esetében a (2a) bekezdés szerinti TVK mennyiségét az egyes egészségügyi
+szolgáltatók vonatkozásában a (3a) bekezdés szerinti TVK tartalmazza.”
+
+2. § (1) A Kr. 28. § (1b) bekezdése helyébe a következő rendelkezés lép:
+„(1b) Ha a szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátási teljesítménye – ide nem
+értve a 27. § (2a) bekezdése szerint meghatározott TVK mennyiség tárgyhónapra vonatkozó mértékét meghaladó
+egynapos sebészeti ellátásként elszámolt, valamint a 27. § (7) bekezdése szerinti teljesítményt – meghaladja
+az (1) bekezdés szerint elszámolt teljesítményt, az OEP legfeljebb 4 százalék többletteljesítményt az alapdíj
+25 százalékával számol el.”
+(2) A Kr. 28. §-a a következő (1c) és (1d) bekezdéssel egészül ki:
+„(1c) A szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátás keretében egynapos
+sebészeti ellátásként jelentett és elszámolt teljesítményének a 27. § (2a) bekezdése szerint meghatározott
+TVK mennyiség tárgyhónapra vonatkozó mértékét meg nem haladó mennyiségét az OEP az alapdíj és
+az (1b) bekezdés alapján meghatározható, szolgáltatói átlagos egy súlyszámra jutó súlyszám-díj különbségével
+számolja el.
+(1d) A szolgáltató tárgyhónapra jelentett és elszámolható aktív fekvőbeteg-szakellátás keretében egynapos
+sebészeti ellátásként jelentett és elszámolt teljesítményének az (1c) bekezdés szerint elszámolt teljesítmény feletti
+részét az OEP az alapdíj 100 százalékával számolja el.”
+3. §
+A Kr. a„Járóbeteg-szakellátás finanszírozása”alcímet megelőzően a következő 28/C. §-sal egészül ki:
+„28/C. § (1) Az 5. számú mellékletben„várólista csökkentés és egyéb szakmapolitikai célok fedezete” soron szereplő
+előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál a fekvőbeteg-szakellátásra vonatkozó
+adatszolgáltatási és elszámolási szabályokat a (2)–(8) bekezdésben foglaltak figyelembevételével kell alkalmazni.
+(2) A várólista csökkentési programba bevont szolgáltatók részére az előirányzat terhére az aktív fekvőbeteg-
+szakellátást végző szervezeti egységen végzett – a 14. számú mellékletben szereplő Térítési kategória mezőben
+megkülönböztető X térítési kategória jelzéssel jelentett – ellátásokra az alapdíj 110%-ának és az elszámolható
+súlyszám szorzatának megfelelő finanszírozási díj számolható el, és az ellátás teljesítményét nem kell figyelembe
+venni a 28. § (1) bekezdése szerinti tárgyhavi teljesítmény számításában.
+(3) A (2) bekezdésben foglaltakat a 2015. április 1-jén már a szolgáltató várólistáján nyilvántartott beteg részére
+végzett ellátás esetén az OEP által megállapított keretösszeg mértékéig lehet alkalmazni, figyelembe véve a 29/B. §
+(3) bekezdése szerint megállapított elkülönített többletkereteket.
+(4) A (2) bekezdésben foglaltakat a 2015. április 1-jén még más szolgáltató várólistáján nyilvántartott, a várólista
+csökkentési programba bevont, átirányítással más szolgáltató várólistájára áthelyezett és az átirányítás szerinti
+szolgáltató által ellátott beteg részére végzett ellátás esetén az előirányzaton belül erre a célra országos szinten
+meghatározott keretösszeg mértékéig lehet alkalmazni, figyelembe véve az átadó szolgáltatónként a várólista
+csökkentési cél eléréséhez szükséges többlet ellátási igényt.
+(5) Az intézményen belül az aktív osztályról a krónikus osztályra áthelyezett esetnél az aktív ellátást követően
+a normatív ápolási idő leteltétől kezdődően számolható el a finanszírozási napi díj.
+(6) A 40. § (12) bekezdésében foglaltak alkalmazásában a teljesített ápolási nap számítása során a (2) bekezdés
+szerinti ellátások ápolási napját nem kell beszámítani.
+(7) A (2)–(6) bekezdésben foglaltak akkor alkalmazhatóak, ha a szolgáltató a 2013. november 1. és 2014.
+október 31. közötti időszakban a várólista csökkentéssel érintett várólistáihoz tartozó ellátásainak 1-es térítési
+kategóriával jelentett és elszámolt súlyszámösszegét a 2014. november 1. és 2015. október 31. közötti időszakban is
+teljesítette.
+(8) Ha a (7) bekezdés szerinti feltétel nem teljesül, a (2) bekezdés szerinti finanszírozási kedvezmények összegét
+a finanszírozási év lezárását követően a következő finanszírozási évben elszámolható finanszírozási összegből
+az OEP utólagosan visszavonja.”
+4. §
+A Kr. a következő 29/B. §-sal egészül ki:
+„29/B. § (1) Az 5. számú mellékletben „várólista csökkentés és egyéb szakmapolitikai célok fedezete” soron szereplő
+előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál a járóbeteg-szakellátásra vonatkozó
+adatszolgáltatási és elszámolási szabályokat a (2)–(8) bekezdésben foglaltak figyelembevételével kell alkalmazni.
+(2) A várólista csökkentési programba bevont szolgáltatók részére a 28/C. § (3) és (4) bekezdése szerinti esetekre,
+az előirányzat terhére, a kapcsolódó járóbeteg-szakellátásban a beavatkozást megelőzően kivizsgálási céllal végzett
+ellátásokra – ide nem értve az 5. számú mellékletben meghatározott „Laboratóriumi ellátás” előirányzat terhére
+elszámolható beavatkozásokat – elkülönített többletkeretet kell biztosítani, melyet a 6/A. és a 14. számú melléklet
+szerinti jelentésben a Térítési kategória mezőben megkülönböztető X térítési kategória jelzéssel kell jelenteni.
+
+(3) Az elkülönített többletkeret mértéke a várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006.
+(XII. 23.) Korm. rendelet 5. számú mellékletében felsorolt
+a)„001”,„009”,„011”és„012”azonosítójú várólisták esetén tervezett ellátásoknál 3000 pont/eset,
+b)„006”,„020”,„021”,„022”,„023”és„025”azonosítójú várólisták esetén tervezett ellátásoknál 10 000 pont/eset.
+(4) Az elkülönített többletkeret attól az időponttól kezdődően áll a szolgáltató rendelkezésére, ahogy a beteg
+az érintett szolgáltatónál a várólista típusának megfelelő szakmai kompetenciával rendelkező szakrendelésen első
+alkalommal kivizsgálásra megjelent.
+(5) Az esetenként járó többlet a szolgáltató szintjén a várólista csökkentési program végéig összegezhető és
+halmozható.
+(6) Az elkülönített többletkeret kizárólag a tervezett ellátás szolgáltatója részére biztosítható, kivéve a (7) bekezdés
+szerinti beavatkozásokat.
+(7) A 32. § szerinti CT, MRI vizsgálatokat akkor lehet az elkülönített többletkeret terhére finanszírozni, ha az ellátásra
+a beutalót a (4) bekezdés szerinti szakrendelés állította ki úgy, hogy annak értéke levonásra kerül a beutaló intézet
+tárgyidőszaki összegzett és halmozott többletkeretéből, valamint az így végzett teljesítményt nem kell figyelembe
+venni a CT, MRI szolgáltató 27. § (2) bekezdése szerint meghatározott tárgyidőszaki TVK elszámolásában.
+(8) Az adott elszámolási hónapban a (3)–(7) bekezdés szerinti számítással rendelkezésre álló elkülönített
+többletkeretet meghaladó beavatkozások teljesítményét figyelembe kell venni a 27. § (2) bekezdése szerint
+meghatározott tárgyidőszaki TVK elszámolásában úgy, hogy a (7) bekezdés szerinti vizsgálat teljesítményét kell
+elsőként az elkülönített többletkeret terhére elszámolni.”
+5. §
+A Kr. a következő 32/A. §-sal egészül ki:
+„32/A. § (1) A rosszindulatú daganatos kórkép klinikai gyanúja esetén a CT, MRI egészségügyi ellátást nyújtó
+szolgáltató a beutaló kiállításának napjától számított 14 napon belül a szükséges képalkotó diagnosztikai
+vizsgálatokat köteles elvégezni.
+(2) Az OEP folyamatosan ellenőrzi az (1) bekezdésben foglaltak teljesülését, melynek eredményéről és a szükséges
+intézkedésekről a beutaló kiállítóját tájékoztatja.
+(3) Az (1) bekezdésben foglaltak teljesülése esetén, ha a vizsgálat alapján a rosszindulatú daganatos megbetegedés
+igazolódik, akkor az egészségügyi szolgáltató a vizsgálatnak az R.-ben meghatározott vizsgálati kódja mellett
+a 99930 kiegészítő kódot is jelentheti, mely TVK-mentesen kerül elszámolásra.
+(4) Ha az egészségügyi szolgáltató az (1) bekezdésben foglaltaknak nem tesz eleget és helyette más, az
+OEP által meghatározott, nem a biztosított ellátására területileg kötelezett szolgáltató végzi el a vizsgálatot, akkor
+a vizsgálatot elvégző szolgáltatóval az OEP a (3) bekezdés szerint számol el az ellátásra kötelezett szolgáltató
+TVK-jának terhére.
+(5) A (4) bekezdésben foglaltak akkor alkalmazhatóak, ha a biztosított vonatkozásában a területileg ellátásra
+kötelezett szolgáltató egyértelműen megállapítható.”
+6. §
+A Kr. 40. § (12) bekezdése helyébe a következő rendelkezés lép:
+„(12) A szolgáltató a 14. számú melléklet szerinti adatlap 1–20. pontjának kitöltésével köteles a 37. § (7) bekezdése
+szerint jelentést küldeni az osztályra felvett betegek közül azokról, akiknek az ellátása a tárgyhónap végéig nem
+fejeződött be.”
+7. §
+A Kr. a következő 43/B. §-sal egészül ki:
+„43/B. § (1) Az 5. számú mellékletben a„várólista csökkentés és egyéb szakmapolitikai célok fedezete”soron szereplő
+előirányzat (e § alkalmazásában a továbbiakban: előirányzat) felhasználásánál az R. 1. számú mellékletében szereplő
+– tételes elszámolás alá eső – egyszer használatos eszközök és implantátumok adatszolgáltatási és elszámolási
+szabályait a (2) bekezdésben foglaltak figyelembevételével kell alkalmazni.
+(2) A várólista csökkentési programba bevont szolgáltatók részére a 28/C. § (3) és (4) bekezdése szerinti esetek
+ellátásához alkalmazott, az előirányzat terhére elszámolható, kapcsolódó speciális finanszírozású eszközöket
+nem kell figyelembe venni a 43. § (3) bekezdése szerinti keretösszeg felhasználásában. Az előirányzat terhére
+elszámolható speciális finanszírozású eszközöket az elszámoláshoz a 17. számú melléklet szerinti jelentés Térítési
+kategória mezőjében megkülönböztető X térítési kategória jelzéssel kell jelenteni.”
+
+8. §
+A Kr.
+a) 6/A. számú melléklet„Kitöltési útmutató” rész 10. Térítési kategória pontja a„0 = élsportoló speciális ellátása”
+sort követően az „X = várólista csökkentési többlet forrás terhére történő ellátás, utólagos elszámolással”
+sorral,
+b) 14. számú melléklet„Kitöltési útmutató” rész 4. Térítési kategória pontja a„0. élsportoló speciális ellátása” sort
+követően az„X. várólista csökkentési többlet forrás terhére történő ellátás, utólagos elszámolással”sorral
+egészül ki.
+9. §
+Hatályát veszti a Kr. 40. § (5) bekezdése.
+10. §
+Ez a rendelet 2015. június 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IV. A Magyar Nemzeti Bank elnökének rendeletei,
+valamint az önálló szabályozó szerv vezetőjének
+rendeletei
