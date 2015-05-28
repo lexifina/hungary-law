@@ -1,0 +1,9 @@
+# 132/2015. (V. 27.) Korm. rendelet
+
+a Budapest XII. kerületi Városmajori Gimnázium és Kós Károly Általános Iskolához csatlakozó tornaterem építésére irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-132-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-05-28 | 2015-132-20-22.1 | 132/2015. (V. 27.) Korm. rendelet |
