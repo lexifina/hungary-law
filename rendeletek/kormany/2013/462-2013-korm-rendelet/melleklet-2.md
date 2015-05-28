@@ -1,10 +1,10 @@
-## Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
+## Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
 
 |  | A | B | C | D | E |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | A szombathelyi sportcélú beruházások megvalósítására irányuló beruházási program keretében a) UEFA IV. kategóriájú labdarúgó stadion, b) multifunkcionális sportcsarnok és a kapcsolódó infrastruktúra kialakítására irányuló beruházások. | Szombathely közigazgatási területén fekvő, az ingatlan- nyilvántartás szerinti 3643/1 helyrajzi számon nyilvántartott földrészlet. | általános építésügyi és építésfelügyeleti hatósági engedélyezési eljárások | Szombathelyi Járási Hivatal | Vas Megyei Kormányhivatal |
+| 2. | A szombathelyi sportcélú beruházások megvalósítására irányuló beruházási program keretében a) UEFA IV. kategóriájú labdarúgó stadion b) multifunkcionális sportcsarnok, valamint a kapcsolódó infrastruktúra kialakítására irányuló beruházások. | Szombathely közigazgatási területén fekvő, 3643/1, 3645, 3606, 3518/2, 3643/2 helyrajzi számon nyilvántartott földrészletek | általános építésügyi és építésfelügyeleti hatósági engedélyezési eljárások | Szombathelyi Járási Hivatal | Vas Megyei Kormányhivatal |
 
 | 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Szombathelyi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
@@ -14,7 +14,7 @@
 
 | 6. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Győr-Moson-Sopron Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-| 7. | vízjogi hatósági eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | vízügyi és vízvédelmi hatósági eljárások | Vas Megyei Katasztrófavédelmi Igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
@@ -28,7 +28,9 @@
 
 | 13. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 462/2013. (XII. 4.) Korm. rendelethez[^6]
+| 14. | azok a 2–13. sorban nem szereplő hatósági engedélyezési eljárások, melyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek. | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
+
+2. melléklet a 462/2013. (XII. 4.) Korm. rendelethez[^9]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -64,4 +66,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 15. | régészet és örökségvédelem | Szombathelyi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 63. § (1) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 63. § (1) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.

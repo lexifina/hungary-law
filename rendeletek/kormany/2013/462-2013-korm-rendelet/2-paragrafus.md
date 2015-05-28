@@ -2,6 +2,6 @@
 
 (2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben hozott döntés fellebbezésre tekintet nélkül végrehajtható.
 
-(3)[^1]
+(3)[^2]
 
-[^1]: A 2. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 63. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 114. §-át.
+[^2]: A 2. § (3) bekezdését a 72/2015. (III. 30.) Korm. rendelet 63. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 114. §-át.
