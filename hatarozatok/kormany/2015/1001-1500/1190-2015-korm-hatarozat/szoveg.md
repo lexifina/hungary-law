@@ -32,13 +32,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-e) felhívja a nemzetgazdasági minisztert, hogy a 2015. évi iraki magyar szerepvállalással kapcsolatos feladatok előkészítése érdekében egyszeri jelleggel 5470,0 millió forintot a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. mellékletében a XIII. Honvédelmi Minisztérium fejezet részére jóváhagyott támogatási főösszegen felül biztosítson;
-
-Felelős: nemzetgazdasági miniszter
-
-honvédelmi miniszter
-
-Határidő: a felmerülés ütemében
+e)[^1]
 
 f) felhívja a nemzetgazdasági minisztert, hogy a 2015. évi iraki magyar szerepvállalással kapcsolatos feladatok végrehajtásához szükséges további forrás fedezetének a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. mellékletében a XIII. Honvédelmi Minisztérium fejezet részére jóváhagyott támogatási főösszegen felül történő biztosítása érdekében készítsen kormány-előterjesztést.
 
@@ -49,3 +43,5 @@ honvédelmi miniszter
 Határidő: 2015. május 31.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: Az 1. pont e) alpontját az 1339/2015. (V. 27.) Korm. határozat 2. pontja hatályon kívül helyezte.
