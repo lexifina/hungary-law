@@ -1,0 +1,9 @@
+# 264/2015. (V. 28.) KE határozat
+
+egyetemi tanári kinevezésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-264-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-05-28 | 2015-264-30-76.1 | 264/2015. (V. 28.) KE határozat |
