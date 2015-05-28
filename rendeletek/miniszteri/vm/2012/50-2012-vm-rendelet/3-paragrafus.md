@@ -6,7 +6,7 @@
 
 a) az előzetes jóváhagyás iránti kérelem benyújtásának napján zöldség-gyümölcs termelői csoportként, termelői szervezetként vagy társulásként való elismeréssel rendelkezzen,
 
-b)[^14] egységes területalapú támogatás iránti kérelem alapján az előzetes jóváhagyás iránti kérelem benyújtását megelőző két évben legalább egy, az 1. mellékletben szereplő gyümölcs vagy szántóföldi zöldség termesztésére támogatást kapott,
+b)[^14] az előzetes jóváhagyás iránti kérelem benyújtásának évét megelőző második és harmadik évben benyújtott egységes területalapú támogatás iránti kérelem alapján legalább egy, az 1. mellékletben szereplő gyümölcs vagy szántóföldi zöldség termesztésére támogatást kapott,
 
 c) hatályos cégkivonata alapján tulajdonosai kizárólag az a) és b) pontban felsoroltak legyenek.
 
@@ -22,7 +22,7 @@ c) hatályos cégkivonata alapján tulajdonosai kizárólag az a) és b) pontban
 
 [^12]: A 3. § (1) bekezdése a 31/2013. (V. 2.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^13]: A 3. § (2) bekezdése a 31/2013. (V. 2.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^14]: A 3. § (2) bekezdés b) pontja a 31/2014. (XII. 9.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^14]: A 3. § (2) bekezdés b) pontja a 26/2015. (V. 27.) FM rendelet 1. §-ával megállapított szöveg.
 [^15]: A 3. § (5) bekezdése a 31/2013. (V. 2.) VM rendelet 8. § (2) bekezdésével megállapított, az 55/2014. (IV. 29.) VM rendelet 13. § a) pontja, a 31/2014. (XII. 9.) FM rendelet 24. § b) pontja szerint módosított szöveg.
 [^16]: A 3. § (6) bekezdése a 31/2014. (XII. 9.) FM rendelet 24. § c) pontja szerint módosított szöveg.
 [^17]: A 3. § (7) bekezdése a 31/2014. (XII. 9.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.

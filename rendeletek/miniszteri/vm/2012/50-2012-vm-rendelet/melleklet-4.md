@@ -1,6 +1,6 @@
 ## A kóstoltatásra mint az iskolagyümölcs-program során alkalmazható kísérő intézkedésre vonatkozó követelmények
 
-## 1. Kóstoltatást, alkalmanként legalább négy gyümölcs-, illetve zöldségféle biztosítása mellett tanulónként, gyümölcs- és zöldségféleségenként az alábbi mennyiségben kell végezni:
+## 1. Kóstoltatást, alkalmanként legalább összesen négy friss gyümölcs-, illetve zöldségféle biztosítása mellett tanulónként, gyümölcs- és zöldségféleségenként az alábbi mennyiségben kell végezni:
 
 ## 1. táblázat
 
@@ -84,6 +84,6 @@
 
 ## 5. A kóstoltatás keretében tanulók zöldség-, gyümölcsfogyasztásának és egészséges életmódjának ösztönzése érdekében verseny, pályázat, jutalom szervezhető.
 
-4. melléklet az 50/2012. (V. 25.) VM rendelethez[^79]
+4. melléklet az 50/2012. (V. 25.) VM rendelethez[^84]
 
-[^79]: A 4. melléklet az 55/2014. (IV. 29.) VM rendeet 12. § (2) bekezdésével megállapított, a 31/2014. (XII. 9.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^84]: A 4. melléklet az 55/2014. (IV. 29.) VM rendeet 12. § (2) bekezdésével megállapított, a 31/2014. (XII. 9.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
