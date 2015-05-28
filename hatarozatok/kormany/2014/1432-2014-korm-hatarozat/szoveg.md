@@ -100,7 +100,7 @@ d) a földművelésügyi miniszter
 
 13. A Kormány felhívja
 
-a) a minisztert, hogy gondoskodjon arról, hogy a nemzeti rendezvények szervezését, valamint a műszaki, művészeti, logisztikai, feladatainak előkészítését és lebonyolítását, illetve a biztosítás koordinációját, valamint a 2. pont c) alpontjában meghatározott feladatok lebonyolítását olyan gazdasági társaság lássa el, melynek társasági részesedése 100 százalékban állami tulajdonban áll,
+a)[^1] a minisztert, hogy gondoskodjon a nemzeti rendezvények szervezéséről, valamint a műszaki, művészeti, logisztikai feladatainak előkészítéséről és lebonyolításáról, illetve a rendezvény biztosítás koordinációjáról, továbbá a 2. pont c) alpontjában meghatározott feladatok lebonyolításáról.
 
 b) a minisztert, hogy – a c) pontban foglalt előirányzatok kivételével – biztosítsa a nemzeti rendezvények előkészítéséhez és lebonyolításához szükséges költségvetési forrásokat a Honvédelmi Minisztérium fejezetben,
 
@@ -108,6 +108,7 @@ c) az 5. pontban megjelölt minisztereket, hogy az 5. pontban meghatározott fel
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
-15.[^1]
+15.[^2]
 
-[^1]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 13. pont a) alpontja az 1344/2015. (V. 27.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
