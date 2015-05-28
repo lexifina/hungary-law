@@ -1,0 +1,9 @@
+# 134/2015. (V. 27.) Korm. rendelet
+
+az ALUMETAL GROUP HUNGARY Kft. Komáromban megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-134-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-05-28 | 2015-134-20-22.1 | 134/2015. (V. 27.) Korm. rendelet |
