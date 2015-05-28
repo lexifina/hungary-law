@@ -1,0 +1,1 @@
+A Kormány elrendeli a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet átfogó korszerűsítésére irányuló munkálatok megkezdését. A felülvizsgálat célja egy korszerű, a nemzetközi magánjog uniós és nemzetközi szintű szabályozásával összhangban álló új nemzetközi magánjogi szabályozás megalkotása.
