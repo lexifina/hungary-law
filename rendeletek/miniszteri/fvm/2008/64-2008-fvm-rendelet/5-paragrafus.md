@@ -1,6 +1,6 @@
 ## A támogatás igénylése és kifizetése
 
-5. § (1)[^14] A támogatás e rendelet melléklete szerinti kérelemnek a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához postai úton, egy példányban, évente egy alkalommal, tárgyév október 20. és november 20. közötti időszakban történő benyújtásával igényelhető.
+5. § (1)[^14] A támogatás e rendelet melléklete szerinti kérelemnek a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) Piaci Támogatások és Külkereskedelmi Intézkedések Igazgatóságához postai úton, egy példányban, évente egy alkalommal, tárgyév június 15. és július 15. közötti időszakban történő benyújtásával igényelhető.
 
 (1a)[^15]
 
@@ -26,7 +26,7 @@ e)[^19] az európai uniós versenyjogi értelemben vett állami támogatásokkal
 
 (7) A támogatás odaítéléséről szóló határozatot az MVH és az ügyfél köteles tíz évig megőrizni.
 
-[^14]: Az 5. § (1) bekezdése a 18/2014. (X. 29.) FM rendelet 10. § d) pontja szerint módosított szöveg.
+[^14]: Az 5. § (1) bekezdése a 25/2015. (V. 27.) FM rendelet 31. § b) pontja szerint módosított szöveg.
 [^15]: Az 5. § (1a) bekezdését a 44/2014. (IV. 14.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 18/2014. (X. 29.) FM rendelet 11. § c) pontja.
 [^16]: Az 5. § (2) bekezdés a) pontja a 18/2014. (X. 29.) FM rendelet 10. § e) pontja szerint módosított szöveg.
 [^17]: Az 5. § (2) bekezdés b) pontja a 18/2014. (X. 29.) FM rendelet 10. § e) pontja szerint módosított szöveg.
