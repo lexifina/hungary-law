@@ -168,8 +168,8 @@
 
 ## 6. A szakközépiskolákban a szakmai vizsgák írásbeli vizsgarésze, valamint írásbeli, interaktív vizsgatevékenysége 2015. május 28-án is megszervezhető (pótnap) abban az esetben, ha a vizsgázó szakmai vizsgát, valamint érettségi vizsgát is tesz, és az írásbeli vizsgák, továbbá az írásbeli vagy interaktív vizsgatevékenységek azonos napra eső időpontjai nem teszik lehetővé a mindkét vizsgán való részvételt. A vizsgaidőpontok egybeeséséről, a pótnap igénybevételének szükségességéről a szakközépiskola a vizsgabejelentés és tételigénylés megküldésével egyidejűleg értesíti a szakképesítésért felelős minisztert és a szakmai vizsga írásbeli tételét biztosító intézményt.
 
-## 7. A HÍD II. programok keretében megszerezhető részszakképesítések írásbeli vizsgatevékenységeinek időpontja 2015. június 17., a további vizsgatevékenységeket 2015. június 30-ig kell megszervezni.
+## 7. A két évfolyamos részszakképesítéseket folytató speciális szakiskolákban és a HÍD II. programok keretében megszerezhető részszakképesítések írásbeli vizsgatevékenységeinek időpontja 2015. június 17., a további vizsgatevékenységeket 2015. június 30-ig kell megszervezni.
 
-2. melléklet a 35/2014. (IV. 30.) EMMI rendelethez[^5]
+2. melléklet a 35/2014. (IV. 30.) EMMI rendelethez[^8]
 
-[^5]: A 2. melléklet a 13/2015. (III. 6.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 13/2015. (III. 6.) EMMI rendelet 3. §-a szerint módosított szöveg.
