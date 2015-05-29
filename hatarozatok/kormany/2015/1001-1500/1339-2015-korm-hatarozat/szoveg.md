@@ -10,6 +10,8 @@ Határidő: 3620,9 millió forint vonatkozásában 2015. július 15.
 
 1930,0 millió forint vonatkozásában 2015. október 1.
 
-2. Hatályát veszti az Iszlám Állam elnevezésű terrorszervezet elleni nemzetközi fellépéshez történő magyar hozzájárulás előkészítéséről szóló 1190/2015. (III. 30.) Korm. határozat 1. pont e) alpontja.
+2.[^1]
 
 3. Ez a határozat közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
