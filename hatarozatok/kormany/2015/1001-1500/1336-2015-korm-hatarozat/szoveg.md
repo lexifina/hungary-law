@@ -268,4 +268,6 @@ Határidő: folyamatos
 
 24. Ez a határozat a közzétételét követő napon lép hatályba.
 
-25. A Kormány a korrupció elleni kormányzati intézkedésekről és a Közigazgatás Korrupció-megelőzési Programjának elfogadásáról szóló 1104/2012. (IV. 6.) Korm. határozatot visszavonja.
+25.[^2]
+
+[^2]: A 25. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
