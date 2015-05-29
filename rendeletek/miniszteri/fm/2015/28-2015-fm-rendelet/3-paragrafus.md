@@ -1,0 +1,1 @@
+## „12. a Tanács 2001/112/EK irányelve (2001. december 20.) a gyümölcslevekről és egyes hasonló, emberi fogyasztásra szánt termékekről, és az ezt módosító 2009/106/EK bizottsági irányelv, 2012/12/EU európai parlamenti és tanácsi irányelv, valamint 1040/2014/EU felhatalmazáson alapuló bizottsági rendelet;”
