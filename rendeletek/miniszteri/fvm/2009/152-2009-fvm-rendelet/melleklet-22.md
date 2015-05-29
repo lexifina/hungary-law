@@ -1,4 +1,4 @@
-22. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^56]
+22. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^58]
 
 ## A Magyar Élelmiszerkönyv 1-3-2001/114 számú előírása a részben vagy teljesen dehidratált, emberi fogyasztásra szánt, tartós tejtermékekről (Sűrített tej és tejpor)
 
@@ -166,4 +166,4 @@ w) A cseh „suÓené smetana” a B rész 2. pont a) alpontjában meghatározot
 
 x) A cseh „suÓené polotu…né mléko” a B rész 2. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 14 és 16% (m/m) között van.
 
-[^56]: A 22. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^58]: A 22. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.

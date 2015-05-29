@@ -68,7 +68,7 @@
 
 ## A szilárd vagy a sűrítmény formájú cikória-kivonat legfeljebb 1 tömegszázalék nem cikóriából származó szárazanyagot tartalmazhat. A folyékony cikória-kivonat pörkölt vagy pörköletlen cukorféléket legfeljebb 35 tömegszázalékban tartalmazhat.
 
-19. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^53]
+19. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^55]
 
 ## A Magyar Élelmiszerkönyv 1-3-2000/36 számú előírása az emberi fogyasztásra szánt kakaó- és csokoládétermékekről
 
@@ -274,6 +274,6 @@ A fenti kritériumoknak megfelelően, az alábbi növényi zsírok használható
 
 A jégkrém és a hasonló, fagyasztott termékek gyártásához készülő csokoládéban a kókuszolaj használata is engedélyezett.
 
-[^53]: A 19. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^55]: A 19. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
 [^1’]: Az Európai Unió néhány tagállamában gyártott hagyományos termék.
 [^1.]: P (palmitinsav), O (olajsav), St (sztearinsav).

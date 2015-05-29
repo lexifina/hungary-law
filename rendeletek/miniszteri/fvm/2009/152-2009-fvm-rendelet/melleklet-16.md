@@ -1,4 +1,4 @@
-16. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^50]
+16. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^52]
 
 ## A Magyar Élelmiszerkönyv 1-3-89/108 számú előírása a gyorsfagyasztott élelmiszerekről
 
@@ -70,4 +70,4 @@ d) az előállító vagy csomagoló vagy forgalmazó cég neve (címe).
 
 15. A gyorsfagyasztott élelmiszerek, valamint a szállítási és raktározási, tárolási hőmérsékletük ellenőrzését az emberi fogyasztásra szánt gyorsfagyasztott élelmiszerek hőmérsékletének a szállítóeszközökben, raktárakban és tárolókban történő ellenőrzéséről szóló, 2005. január 12-i 37/2005/EK bizottság rendelet és a Magyar Élelmiszerkönyv 1-3-92/2 számú előírása szerint kell végezni.
 
-[^50]: A 16. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^52]: A 16. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.

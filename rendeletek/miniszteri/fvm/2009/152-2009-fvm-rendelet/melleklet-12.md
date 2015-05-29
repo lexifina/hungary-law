@@ -8,7 +8,7 @@
 
 ## 2. Egyféle gyümölcsből készült termék esetében a felhasznált gyümölcs megnevezését kell feltüntetni a „gyümölcs” szó helyett.
 
-## 3. A két vagy több gyümölcsből készült termékek esetében – kivéve az ízesítéshez a B rész II. fejezet 2. pont c) alpontjában leírt feltételek szerint felhasznált citromlevet, illetve zöldcitrom (lime) levét – a termékek nevét a felhasznált gyümölcsfélék felsorolásával kell kialakítani, a felhasznált gyümölcslevek vagy gyümölcspürék mennyiségének az összetevők felsorolásában is megadott csökkenő sorrendjében. Azoknak a termékeknek az esetében, amelyek három vagy annál több gyümölcsféle felhasználásával készültek, a gyümölcsfélék nevét a „többféle gyümölcs”, „vegyes gyümölcs” vagy hasonló megfogalmazás, illetve a felhasznált gyümölcsfélék száma és a „gyümölcs” szó is helyettesítheti.
+## 3. A két vagy több gyümölcsből készült termékek esetében – kivéve az ízesítéshez a B rész II. fejezet 2.2. pontjában leírt feltételek szerint felhasznált citromlevet, illetve zöldcitrom (lime) levét – a termékek nevét a felhasznált gyümölcsfélék felsorolásával kell kialakítani, a felhasznált gyümölcslevek vagy gyümölcspürék mennyiségének az összetevők felsorolásában is megadott csökkenő sorrendjében. Azoknak a termékeknek az esetében, amelyek három vagy annál több gyümölcsféle felhasználásával készültek, a gyümölcsfélék nevét a „többféle gyümölcs”, „vegyes gyümölcs” vagy hasonló megfogalmazás, illetve a felhasznált gyümölcsfélék száma és a „gyümölcs” szó is helyettesítheti.
 
 ## 4. Nem kell feltüntetni a B rész I. fejezetében meghatározott termékek eredeti állapotra való visszaállításához (visszahígításához) a kizárólag ehhez a művelethez feltétlenül szükséges anyagokat, alkotóelemeket. A gyümölcsléhez hozzáadott további, a C részben meghatározott gyümölcsvelőt vagy rostokat a jelölésen fel kell tüntetni.
 
@@ -90,25 +90,27 @@
 
 ## 2. Engedélyezett összetevők
 
-## A B részben felsorolt termékekhez kizárólag a következő összetevők adhatók hozzá:
+## 2.1. Az I. fejezetben felsorolt termékekhez kizárólag a következő összetevők adhatók hozzá:
 
-## a) A vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadásáról szóló, 2006. december 20-i 1925/2006/EK európai parlamenti és tanácsi rendeletben engedélyezett vitaminok és ásványi anyagok.
+## 2.1.1. A vitaminok, ásványi anyagok és bizonyos egyéb anyagok élelmiszerekhez történő hozzáadásáról szóló, 2006. december 20-i 1925/2006/EK európai parlamenti és tanácsi rendeletben engedélyezett vitaminok és ásványi anyagok.
 
-## b) Az 1333/2008/EK rendeletben engedélyezett élelmiszer-adalékanyagok.
+## 2.1.2. Az 1333/2008/EK rendeletben engedélyezett élelmiszer-adalékanyagok.
 
-## c) A gyümölcslevek, sűrítményből készült gyümölcslevek és sűrített gyümölcslevek esetében engedélyezett összetevők: visszaadagolt aroma, gyümölcspép és rostok.
+## 2.2. A 2.1. pontban felsoroltakon felül egyes termékekhez a következő összetevők adhatók hozzá:
 
-## d) Kizárólag a szőlőlé esetében: visszaadagolt borkősav.
+## 2.2.1. A gyümölcslevek, sűrítményből készült gyümölcslevek és sűrített gyümölcslevek esetében engedélyezett összetevők: visszaadagolt aroma, gyümölcspép és rostok.
 
-## e) Gyümölcsnektárok esetében: visszaadagolt aroma, gyümölcspép és rostok, cukor, illetve méz a végtermék teljes tömegének 20%-áig, illetve édesítőszerek.
+## 2.2.2. Kizárólag a szőlőlé esetében: visszaadagolt borkősav.
+
+## 2.2.3. Gyümölcsnektárok esetében: visszaadagolt aroma, gyümölcspép és rostok, cukor, illetve méz a végtermék teljes tömegének 20%-áig, illetve édesítőszerek.
 
 ## Azon állítás, mely szerint a gyümölcsnektár nem tartalmaz hozzáadott cukrot, valamint a fogyasztó számára vélhetően ugyanezzel a jelentéssel bíró bármely állítás kizárólag akkor tüntethető fel, ha a termék nem tartalmaz hozzáadott mono- vagy diszacharidokat vagy egyéb, az édesítő hatása miatt használt élelmiszert, ideértve az 1333/2006/EK rendeletben meghatározott édesítőszereket is. Amennyiben a gyümölcsnektár természetes módon tartalmaz cukrokat, a címkén a következő állításnak is szerepelnie kell: „természetes módon előforduló cukrokat tartalmaz”.
 
-## f) A D rész 1. pontjában, 2. pontjának 2.1. alpontjában, 3. pontjában, 5. pontjának 5.2. alpontjában és 8. pontjában említett termékek esetében: cukor, illetve méz.
+## 2.2.4. A D rész 1. pontjában, 2. pontjának 2.1. alpontjában, 3. pontjában, 5. pontjának 5.2. alpontjában és 8. pontjában említett termékek esetében: cukor, illetve méz.
 
-## g) Az I. fejezet 1–5. pontjában meghatározott termékek esetében a savas íz szabályozása érdekében literenként 3 gramm, vízmentes citromsavban kifejezett citromlé, zöldcitromlé, sűrített citromlé, illetve sűrített zöldcitromlé.
+## 2.2.5. Az I. fejezet 1–5. pontjában meghatározott termékek esetében a savas íz szabályozása érdekében literenként 3 gramm, vízmentes citromsavban kifejezett citromlé, zöldcitromlé, sűrített citromlé, illetve sűrített zöldcitromlé.
 
-## h) Paradicsomlé és a sűrítményből készült paradicsomlé esetében: só, fűszerek és aromás fűszernövények.
+## 2.2.6. Paradicsomlé és a sűrítményből készült paradicsomlé esetében: só, fűszerek és aromás fűszernövények.
 
 ## 3. Engedélyezett eljárások és anyagok:
 
@@ -137,6 +139,8 @@
 ## k) kémiailag inaktív szűrési segédanyagok (többek között perlit, mosott kovaföld, cellulóz, oldhatatlan poliamid, polivinil-polipirolidon, polisztirol), amelyek megfelelnek az élelmiszerekkel érintkezésbe kerülő anyagokról és tárgyakról szóló 2004. október 27-i 1935/2004/EK európai parlamenti és tanácsi rendelet előírásainak;
 
 ## l) kémiailag inaktív adszorpciós segédanyagok, amelyek megfelelnek az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagokról és tárgyakról, valamint a 80/590/EGK és a 89/109/EGK irányelv hatályon kívül helyezéséről szóló, 2004. október 27-i 1935/2004/EK rendeletnek, és amelyeket a citrusfélék levében limonoid- és naringintartalom csökkentésére használnak anélkül, hogy jelentősen befolyásolnák a limonoid glükozid-, sav- és cukor- (beleértve az oligoszaharidokat) vagy ásványianyag-tartalmat.
+
+## m) búzából, borsóból, burgonyából származó, a gyümölcslé derítésére alkalmas növényi eredetű fehérjék.
 
 ## C rész
 
