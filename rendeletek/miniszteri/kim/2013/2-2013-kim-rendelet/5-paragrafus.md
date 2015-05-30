@@ -1,1 +1,0 @@
-## 4. § Az előirányzatok tartalmazzák a felhasználásukkal kapcsolatosan felmerülő költségek, így különösen a kincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámított díj, a postaköltség, a fordítási, tolmácsolási, szakértői költség fedezetét is. Ha valamely előirányzat az ilyen költségre nem nyújt fedezetet, azt a 22. § szerinti előirányzat terhére kell elszámolni.
