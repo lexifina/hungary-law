@@ -1,3 +1,0 @@
-## 32. § Ha a pályázati felhívás vagy a támogatási szerződés eltérően nem rendelkezik, a támogatás visszafizetésére és annak kamata, illetve késedelmi kamata megfizetésére irányuló követelését a Támogató felhatalmazó levél alapján beszedési megbízás alkalmazásával érvényesíti. A beszedési megbízás benyújtására vonatkozó, kizárólag a Támogató hozzájárulásával visszavonható – az Ávr. 77. § (2) bekezdése szerinti – kedvezményezetti nyilatkozatot mint biztosítékot legkésőbb a támogatási szerződés megkötéséig a Támogató rendelkezésére kell bocsátani. Biztosíték hiányában támogatási összeg nem folyósítható a kedvezményezett részére.
-
-## 21. A támogatások folyósítása
