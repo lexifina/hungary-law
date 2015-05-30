@@ -1,7 +1,0 @@
-## 45. [^64] Nemzeti Bűnmegelőzési Stratégia feladatrendszerének támogatása (20/19)
-
-48/C. § (1) Az előirányzat célja a Nemzeti Bűnmegelőzési Stratégiában rögzített feladatrendszer megvalósítási folyamatának beindítása és támogatása, valamint a Nemzeti Bűnmegelőzési Tanács személyi és tárgyi feltételeinek biztosítása. Az előirányzat a bűnmegelőzési, büntetőpolitikai hatékonyságvizsgálatok készíttetésével, a bűnmegelőzés hazai és nemzetközi gyakorlatainak megismerésével és terjesztésével – így különösen hazai és nemzetközi rendezvények, képzések, továbbképzések szervezése belföldön és külföldön, publikációk, kiadványok elkészíttetése, honlap üzemeltetése –, lakossági felmérések, lakossági fórumok, pályázatok, kutatások, tanulmányok, képzési és oktatási anyagok megrendelésével, pilotprojektek kifejlesztésével, megvalósíttatásával, már bevált bűnmegelőzési gyakorlatok utánkövetésével, továbbfejlesztésével, terjesztésével kapcsolatos kiadásokra kerül felhasználásra.
-
-(2) Az előirányzat terhére költségvetési támogatás nyújtható. A költségvetési támogatás támogatási előlegként is folyósítható. A pályázat a Nemzeti Bűnmegelőzési Stratégia végrehajtásának ütemezése alapján kerül kiírásra. Az előirányzat terhére a Belügyminisztérium igazgatása cím és a feladat-megvalósításban közreműködő központi költségvetési szerv javára átcsoportosításra kerülhet sor.
-
-[^64]: A 45. alcímet (48/C. §) a 3/2014. (I. 31.) BM rendelet 36. §-a iktatta be.

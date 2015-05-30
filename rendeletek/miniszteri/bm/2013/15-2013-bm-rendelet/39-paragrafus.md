@@ -1,5 +1,0 @@
-## 33. Visszatérési Alap (20/9/3)
-
-39. § (1) A „Szolidaritás és a migrációs áramlások igazgatása” általános program keretében a 2008–2013-as időszakra az Európai Visszatérési Alap létrehozásáról szóló 2007. május 23-i 2007/575/EK európai parlamenti és tanácsi határozattal 2008. január 1. és 2013. december 31. közötti időbeli hatállyal létrehozott Visszatérési Alap felhasználási célja, hogy támogassa a tagállamoknak a visszatérés igazgatásának javítására tett erőfeszítéseit azok minden dimenziójában, az integrált igazgatás elvének alkalmazásával és a tagállamok által végrehajtandó közös intézkedések vagy a szolidaritás elve alapján a közösségi céloknak megfelelő nemzeti intézkedések előírásával, figyelembe véve az e területet érintő közösségi jogszabályokat, és teljes összhangban az alapvető jogokkal.
-
-(2) Az előirányzat felhasználása pályázati formában, a 2007–2013. közötti programozási időszakban a szolidaritási programokból származó támogatások felhasználásának alapvető szabályairól, intézményrendszeréről, a pénzügyi irányítási és ellenőrzési rendszerekről szóló miniszteri rendeletben szabályozott eljárásrend alapján történik.

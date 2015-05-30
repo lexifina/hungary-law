@@ -1,3 +1,0 @@
-11. § (1) A támogatott tevékenység lezárása – a támogatott tevékenység támogatási szerződés, támogatói okirat szerinti megvalósulását követően – a megvalósításáról szóló beszámoló támogató általi elfogadásával történik.
-
-(2) A támogató a 10. § (6) bekezdése szerinti értesítésben – a beszámoló elfogadása esetén – nyilatkozik a kedvezményezett felé, hogy az Ávr. 77. § (2) bekezdése szerinti beszedési megbízás benyújtására vonatkozó felhatalmazó levél a kedvezményezett bankszámláját vezető hitelintézetnél visszavonásra kerülhet. Ha a támogató beszedési megbízást nyújtott be a kedvezményezett bankszámláját vezető hitelintézethez, és a beszedési megbízás teljesült, a támogató külön dokumentumban nyilatkozik a felhatalmazó levél visszavonhatóságáról.
