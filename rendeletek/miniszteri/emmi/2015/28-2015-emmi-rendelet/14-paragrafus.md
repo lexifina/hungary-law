@@ -1,1 +1,0 @@
-## „(6) A 2014–2015. évi átmeneti időszak téli közfoglalkoztatásával összefüggő képzési programban felnőttoktatás keretében részt vevő tanulók a 2014/2015. tanévre a 2015/2016. tanév rendjéről szóló 28/2015. (V. 28.) EMMI rendelet hatálybalépését követő három napon belül iratkozhatnak be.”
