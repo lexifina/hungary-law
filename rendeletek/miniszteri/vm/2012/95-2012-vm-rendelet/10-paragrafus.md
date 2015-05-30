@@ -1,4 +1,4 @@
-## 9. §[^12] Jelen rendelet szerinti támogatás, mint az általános de minimis rendelet hatálya alá tartozó mezőgazdasági és agrár-vidékfejlesztési támogatás vonatkozásában az általános de minimis rendelet 6. cikk 4. pontja szerinti nyilvántartást az MVH vezeti.
+## 9/A. §[^19] A támogatáshoz kapcsolódó iratokat az odaítélést követő 10 évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatás kedvezményezettje köteles azokat bemutatni. A csekély összegű támogatási jogcímen nyújtott támogatásokról az Európai Bizottság kérésére 20 munkanapon belül információt kell szolgáltatni.
 
 10. § (1) E rendelet szerinti intézkedésekkel összefüggő ellenőrzések lefolytatásáról a miniszter gondoskodik.
 
@@ -8,7 +8,7 @@ a) a nyertes pályázó neve, születési neve,
 
 b) a nyertes pályázó lakóhelye vagy székhelye,
 
-c)[^13] a nyertes pályázó ügyfél-azonosítója,
+c)[^20] a nyertes pályázó ügyfél-azonosítója,
 
 d) nyertes pályázó adószáma vagy adóazonosító jele,
 
@@ -20,5 +20,5 @@ g) a nyertes pályázótól támogatási célonként visszakövetelendő támoga
 
 h) a Tv. 69. § (5) bekezdésének megfelelően számított kamat forintban meghatározott összege.
 
-[^12]: A 9. § a 36/2014. (IV. 4.) VM rendelet 75. § d) pontja szerint módosított szöveg.
-[^13]: A 10. § (2) bekezdés c) pontja a 36/2014. (IV. 4.) VM rendelet 75. § e) pontja szerint módosított szöveg.
+[^19]: A 9/A. §-t a 27/2015. (V. 27.) FM rendelet 5. §-a iktatta be.
+[^20]: A 10. § (2) bekezdés c) pontja a 36/2014. (IV. 4.) VM rendelet 75. § e) pontja szerint módosított szöveg.

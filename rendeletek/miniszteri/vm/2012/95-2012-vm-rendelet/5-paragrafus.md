@@ -1,6 +1,6 @@
 ## 5. A pályázat elbírálása
 
-5. § (1) A miniszter a pályázatokra vonatkozó döntés előkészítése érdekében véleményező szervként szakértőkből álló Bíráló Bizottságot állít fel. A Bíráló Bizottság tagjait a miniszter kéri fel, és működési rendjét a miniszter állapítja meg.
+5. § (1)[^13] A miniszter a pályázatokra vonatkozó döntés előkészítése érdekében véleményező szervként szakértőkből álló Bíráló Bizottságot állít fel. A Bíráló Bizottság tagjait a miniszter kéri fel.
 
 (2) A Bíráló Bizottság támogatási javaslatot tesz a miniszter részére.
 
@@ -16,10 +16,11 @@ b) nyertes pályázó lakóhelye vagy székhelye,
 
 c) nyertes pályázó adószáma, vagy adóazonosító jele,
 
-d)[^8] nyertes pályázó ügyfél-azonosítója,
+d)[^14] nyertes pályázó ügyfél-azonosítója,
 
 e) a támogatási cél megnevezése,
 
 f) a nyertes pályázó részére megítélt támogatás forintban és euróban meghatározott összege.
 
-[^8]: Az 5. § (5) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 75. § a) pontja szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdése a 27/2015. (V. 27.) FM rendelet 4. §-ával megállapított szöveg.
+[^14]: Az 5. § (5) bekezdés d) pontja a 36/2014. (IV. 4.) VM rendelet 75. § a) pontja szerint módosított szöveg.
