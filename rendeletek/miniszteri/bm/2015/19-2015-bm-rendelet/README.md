@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-19-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-05-30 | 2015-19-20-0A.1 | 19/2015. (V. 29.) BM rendelet |
+| 2015-05-31 | 2015-19-20-0A.2 | 2010: CXXX. törvény |
