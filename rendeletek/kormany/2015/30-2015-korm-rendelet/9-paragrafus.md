@@ -1,5 +1,5 @@
-## 8. §[^5]
+## 8. §[^6]
 
 ## 6. Az atomenergia alkalmazási körébe tartozó egyes anyagok, berendezések és létesítmények tulajdonjoga megszerzésének speciális feltételeiről, valamint birtoklásuk, üzemben tartásuk bejelentésének rendjéről szóló 72/2000. (V. 19.) Korm. rendelet módosítása
 
-[^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,7 @@
-## 7. §[^4]
+## 7. §[^5]
 
 ## 5. A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló
 
 ## 134/1999. (VIII. 31.) Korm. rendelet módosítása
 
-[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
