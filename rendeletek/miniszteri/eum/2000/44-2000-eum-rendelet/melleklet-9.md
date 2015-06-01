@@ -1,3 +1,3 @@
-9. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^147]
+9–10. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^43]
 
-[^147]: A 9. számú mellékletet a 25/2010. (V. 12) EüM rendelet 3. § (2) bekezdés d) pontja hatályon kívül helyezte. [E módosító rendelet 7. § (3) bekezdése alapján 2015. június 1-jén lép hatályba.]
+[^43]: A 9–10. számú mellékletet a 25/2010. (V. 12) EüM rendelet 3. § (2) bekezdés d) pontja hatályon kívül helyezte.
