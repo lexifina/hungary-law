@@ -1,31 +1,19 @@
-6. melléklet a 26/2014. (III. 25.) VM rendelethez
+6. melléklet a 26/2014. (III. 25.) VM rendelethez[^5]
 
-## Veszélyes anyagok kockázataira utaló R-mondatok, figyelmeztető mondatok és azok jelentése
+## Figyelmeztető mondatok és azok jelentése
 
-1. R40 = a rákkeltő hatás korlátozott mértékben bizonyított,
+1. H340 = genetikai károsodást okozhat,
 
-2. R45 = rákot okozhat (karcinogén hatású lehet),
+2. H341 = feltehetően genetikai károsodást okoz,
 
-3. R46 = öröklődő genetikai károsodást okozhat (mutagén hatású lehet),
+3. H350 = rákot okozhat,
 
-4. R49 = belélegezve rákot okozhat (karcinogén hatású lehet),
+4. H350i = belélegzéssel rákot okozhat,
 
-5. R60 = a fertilitást (fogamzóképességet vagy nemzőképességet) károsíthatja,
+5. H351 = feltehetően rákot okozhat,
 
-6. R61 = a születendő gyermekre ártalmas lehet,
+6. H360D = károsíthatja a születendő gyermeket,
 
-7. R68 = maradandó egészségkárosodást okozhat,
+7. H360F = károsíthatja a termékenységet.
 
-8. H340 = genetikai károsodást okozhat,
-
-9. H341 = feltehetően genetikai károsodást okoz,
-
-10. H350 = rákot okozhat,
-
-11. H350i= belélegzéssel rákot okozhat,
-
-12. H351= feltehetően rákot okozhat,
-
-13. H360D= károsíthatja a születendő gyermeket,
-
-14. H360F= károsíthatja a termékenységet.
+[^5]: A 6. melléklet a 18. § (2) bekezdésével megállapított szöveg.

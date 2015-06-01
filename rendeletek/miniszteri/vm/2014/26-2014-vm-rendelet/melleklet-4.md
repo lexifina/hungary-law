@@ -38,14 +38,16 @@
 
 ## 1.7. A teljes VOC kibocsátási határértékek az összes bevonatfelviteli műveletre vonatkoznak, amelyet ugyanabban a létesítményben végeznek elektroforetikus vagy bármely más festési eljárással egészen a végső fényezett réteg és a felső polírozott festékréteg elkészítéséig. A teljes VOC kibocsátási határértékek arra az oldószermennyiségre is vonatkoznak, amelyet a folyamatban használt berendezések (beleértve a szórófülkéket és egyéb helyhez kötött berendezéseket) tisztítására használnak a gyártási folyamat ideje alatt vagy azt követően.
 
-4. melléklet a 26/2014. (III. 25.) VM rendelethez
+4. melléklet a 26/2014. (III. 25.) VM rendelethez[^4]
 
 ## A rákkeltő, mutagén vagy reprodukciós toxicitású anyagokra vonatkozó véggáz kibocsátási határértékek
 
-1. Azokra a VOC véggáz kibocsátásokra, amelyekben az R45, R46, R49, R60, R61 R-mondatot és a H340, H350, H350i, H360D, H360F figyelmeztető mondatot viselő VOC vegyületek tömegáramának összege eléri vagy meghaladja a 10 g/h-t, a VOC véggáz kibocsátási határérték 2 mg/m3. A kibocsátási határérték az e pontban felsorolt R-mondatot vagy figyelmeztető mondatot viselő VOC összes tömegére vonatkozik.
+1. Azokra a VOC véggáz kibocsátásokra, amelyekben a H340, H350, H350i, H360D, H360F figyelmeztető mondatot viselő VOC tömegáramának összege eléri vagy meghaladja a 10 g/h-t, a VOC véggáz kibocsátási határérték 2 mg/m3. A kibocsátási határérték az e pontban felsorolt figyelmeztető mondatot viselő VOC vegyületek összes tömegére vonatkozik.
 
-2. Az olyan halogénezett VOC-ot tartalmazó véggáz kibocsátásokra, ahol a H341, H351 figyelmeztető mondatot és az R40, R68 R-mondatot viselő VOC tömegáramának összege eléri vagy meghaladja a 100 g/h-t, a VOC véggáz kibocsátási határérték 20 mg/m3. A kibocsátási határérték az e pontban felsorolt R-mondatot vagy figyelmeztető mondatot viselő VOC vegyületek összes tömegére vonatkozik.
+2. Az olyan halogénezett VOC-ot tartalmazó véggáz kibocsátásokra, amelyeknél a H341 és a H351 figyelmeztető mondatot viselő VOC tömegáramának összege eléri vagy meghaladja a 100 g/h-t, a VOC véggáz kibocsátási határérték 20 mg/m3. A kibocsátási határérték az e pontban felsorolt figyelmeztető mondatot viselő VOC összes tömegére vonatkozik.
 
 3. Az 1. és a 2. pont szerinti határértékek 273,15 K hőmérsékletű és 101,3 kPa nyomású véggázra vonatkoznak.
 
-4. Ha a VOC véggáz kibocsátás tömegárama nem éri el az 1. vagy a 2. pont szerinti tömegáramot, a tevékenység jellegétől és az oldószer-felhasználás mennyiségétől függően a 2. vagy 3. melléklet szerinti kibocsátási határértékeket és követelményeket kell betartani.
+4. Ha a VOC véggáz kibocsátás tömegárama nem éri el az 1. vagy a 2. pont szerinti tömegáramot, a tevékenység jellegétől és az oldószer-felhasználás mennyiségétől függően a 2. vagy a 3. melléklet szerinti kibocsátási határértékeket és követelményeket kell betartani.
+
+[^4]: A 4. melléklet a 18. § (1) bekezdésével megállapított szöveg.

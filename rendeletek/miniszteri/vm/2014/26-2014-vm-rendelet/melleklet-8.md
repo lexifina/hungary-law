@@ -1,3 +1,1 @@
-8–9. melléklet a 26/2014. (III. 25.) VM rendelethez[^3]
-
-[^3]: A 8–9. melléklet a 13. § (3) bekezdése alapján 2015. június 1-jén lép hatályba.
+8. melléklet a 26/2014. (III. 25.) VM rendelethez
