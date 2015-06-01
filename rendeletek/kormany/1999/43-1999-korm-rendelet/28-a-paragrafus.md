@@ -1,4 +1,4 @@
-28/A. §[^305] (1) Az aktív fekvőbeteg-szakellátás területén a külön jogszabályban meghatározott sürgősségi ellátási szinteknek megfelelő szolgáltatást nyújtó, vagy a traumatológiai ellátás területén 24 órás, folyamatos betegfelvételt biztosító szolgáltató abban az esetben jogosult az R.-ben meghatározott havi fix összegű díjra, ha
+28/A. §[^308] (1) Az aktív fekvőbeteg-szakellátás területén a külön jogszabályban meghatározott sürgősségi ellátási szinteknek megfelelő szolgáltatást nyújtó, vagy a traumatológiai ellátás területén 24 órás, folyamatos betegfelvételt biztosító szolgáltató abban az esetben jogosult az R.-ben meghatározott havi fix összegű díjra, ha
 
 a) a gyógyintézetben intenzív osztály és legalább 3 további szakmában szervezett aktív fekvőbeteg osztály működik, ideértve a mátrix szervezetben működő gyógyintézeteket is,
 
@@ -10,11 +10,11 @@ A díjazás fedezetére az 5. számú melléklet szerinti összevont szakellát�
 
 (2) Az (1) bekezdésben foglalt feltételeket – a b) és c) pontban foglaltak kivételével – nem kell alkalmazni a speciális sürgősségi centrumok esetében.
 
-(3)[^306] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult az R. 16. számú melléklete szerinti díjazásra, ha a telephely esetében az (1)–(2) bekezdésben meghatározott feltételek fennállnak, és a díjazásra a telephely
+(3)[^309] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult az R. 16. számú melléklete szerinti díjazásra, ha a telephely esetében az (1)–(2) bekezdésben meghatározott feltételek fennállnak, és a díjazásra a telephely
 
 a) az integrációt megelőzően jogosult volt, vagy
 
 b) az egészségügyi ellátórendszer fejlesztéséről szóló törvény végrehajtásáról szóló kormányrendelet szerinti előzetes vagy egyszerűsített többletkapacitás-befogadási eljárás keretében válik jogosulttá.
 
-[^305]: A 28/A. §-t a 318/2006. (XII. 23.) Korm. rendelet 12. §-a iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 18. § (3)–(5) bekezdését.
-[^306]: A 28/A. § (3) bekezdését a 125/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.
+[^308]: A 28/A. §-t a 318/2006. (XII. 23.) Korm. rendelet 12. §-a iktatta be, szövege az 58/2009. (III. 18.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 18. § (3)–(5) bekezdését.
+[^309]: A 28/A. § (3) bekezdését a 125/2013. (IV. 26.) Korm. rendelet 2. §-a iktatta be.

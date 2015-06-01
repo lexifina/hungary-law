@@ -1,7 +1,7 @@
-## 50/E. §[^491]
+## 50/E. §[^497]
 
 ## V.
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-[^491]: Az 50/E. §-t a 15/2005. (I. 26.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése.
+[^497]: Az 50/E. §-t a 15/2005. (I. 26.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése.

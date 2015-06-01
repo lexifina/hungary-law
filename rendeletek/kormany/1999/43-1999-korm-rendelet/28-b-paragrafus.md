@@ -1,4 +1,4 @@
-28/B. §[^307] (1) Az aktív fekvőbeteg-szakellátás területén arc-, állcsont-szájsebészet szakmában ellátást nyújtó szolgáltató
+28/B. §[^310] (1) Az aktív fekvőbeteg-szakellátás területén arc-, állcsont-szájsebészet szakmában ellátást nyújtó szolgáltató
 
 a) III. progresszivitási szintű arc-, állcsont-szájsebészeti osztálya 1 000 000 Ft,
 
@@ -18,9 +18,9 @@ d) az 1900 tüdőgyógyászat szakma III. progresszivitási szintjén
 
 szakmaspecifikus őrzőt működtető egészségügyi szolgáltató 300 000 Ft havi fix összegű díjra jogosult szakmánként azzal, hogy a díjazás nem növelhető több, azonos szakmához tartozó őrző működtetése esetén.
 
-(2a)[^308] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult az (1) és a (2) bekezdés szerinti díjazásra, ha arra a telephely az integrációt megelőzően jogosult volt.
+(2a)[^311] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult az (1) és a (2) bekezdés szerinti díjazásra, ha arra a telephely az integrációt megelőzően jogosult volt.
 
 (3) Az (1) és (2) bekezdés szerinti díjazás fedezetére az 5. számú melléklet szerinti összevont szakellátás előirányzata szolgál.
 
-[^307]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^308]: A 28/B. § (2a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 23. §-a iktatta be.
+[^310]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^311]: A 28/B. § (2a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 23. §-a iktatta be.
