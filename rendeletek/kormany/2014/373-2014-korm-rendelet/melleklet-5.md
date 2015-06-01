@@ -34,6 +34,6 @@
 
 | 7. | A víziutak medrét és a kikötők, átkelők, vízpartok és vízterületek telkét érintő telekalakítás esetén. | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, illetve hajózási létesítmények működését. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-5. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^243]
+5. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^242]
 
-[^243]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 260. § (23) bekezdése iktatta be.
+[^242]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 260. § (23) bekezdése iktatta be.

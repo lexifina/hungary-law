@@ -40,6 +40,6 @@
 
 | 19. | Budapest Főváros Kormányhivatala | Nógrád |
 
-6. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^244]
+6. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^243]
 
-[^244]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^243]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
