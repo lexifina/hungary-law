@@ -10,13 +10,30 @@ b) azt is, ha az (1) bekezdés szerinti termékegység fuvarozása a feladási c
 
 (3) Egy termékegység több vámtarifaszámmal azonosított termékfajtát, valamint több terméktételt tartalmazhat.
 
-(4)–(6)[^2]
+(4) Egy EKAER számot kell megállapítani akkor is, ha egy gépjárművel
+
+a) egy feladó több felrakodási címéről,
+
+b) egy címzett több kirakodási (átvételi) címére
+
+## történik a közúti fuvarozás.
+
+(5) A (4) bekezdés a) pontja szerinti esetben
+
+a) az Európai Unió más tagállamából belföldi kirakodási (átvételi) címre történő közúti fuvarozás esetén kizárólag a sorban utolsó felrakodási címet kell bejelenteni,
+
+b) belföldi feladási címről belföldi vagy az Európai Unió más tagállamában található kirakodási (átvételi) címre történő közúti fuvarozás esetén valamennyi felrakodási címet be kell jelenteni.
+
+(6) A (4) bekezdés b) pontja szerinti esetben
+
+a) belföldről az Európai Unió más tagállamában található kirakodási (átvételi) címre történő közúti fuvarozás esetén kizárólag a sorban első kirakodási (átvételi) címet kell bejelenteni,
+
+b) az Európai Unió más tagállamából vagy belföldi feladási címről belföldi kirakodási (átvételi) címre történő közúti fuvarozás esetén valamennyi kirakodási (átvételi) címet be kell jelenteni.
 
 (7) Az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja vagy az általa kijelölt személyek által teljesített bejelentés alapján az állami adó- és vámhatóság az EKAER számot az EKAER elektronikus felületen megállapítja és az adómegállapításhoz való jog elévülési idején belül tárolja.
 
 (8) Az EKAER számot – a 15 napos érvényességi ideje alatt az érvénytelenítés indokának megadásával – érvénytelenítheti az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja, valamint az általa erre a 14. § (2) bekezdése szerint kijelölt személy.
 
-(9)[^3]
+(9)[^2]
 
-[^2]: A 15. § (4)–(6) bekezdése a 20. § (4) bekezdése alapján 2015. június 1-jén lép hatályba.
-[^3]: A 15. § (9) bekezdését a 22. § b) pontja hatályon kívül helyezte.
+[^2]: A 15. § (9) bekezdését a 22. § b) pontja hatályon kívül helyezte.
