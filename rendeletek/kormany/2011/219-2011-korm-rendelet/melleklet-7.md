@@ -1,56 +1,4 @@
-## Felmentési szabályok
-
-## 1. A felmentési szabály alkalmazása az üzemeltetőt nem menti fel a biztonsági jelentés, vagy a biztonsági elemzés elkészítése és a jogszabályban meghatározott rend szerinti benyújtása alól.
-
-## 2. jelen lévő veszélyes anyagnak a biztonsági jelentésben, vagy a biztonsági elemzésben való figyelembevétele alól felmentés csak akkor adható, ha a veszélyes anyag megfelel az alábbi kritériumok közül legalább egynek.
-
-## A felmentés során figyelembe vehető kritériumok
-
-|  |  | A kritérium megnevezése | A kritérium leírása | Magyarázat |
-
-|  | 1. | Az anyag halmazállapota | Szilárd halmazállapotú anyag, amely normál üzemi feltételek vagy anyag- és energiakibocsátással járó üzemzavar körülményei között nem képes súlyos balesetet okozni. | Ilyenek lehetnek például az anyaglistán szereplő nikkel származékok, amelyek por alakban belélegezve toxikusak, szilárd alakban azonban nem képesek súlyos balesetet okozni. |
-
-|  | 2. | Tárolóeszköz és mennyiség | Olyan tárolóeszközben lévő, és olyan mennyiségű anyag, amely bármely módon kiszabadulva nem képes súlyos balesetet okozni. | Ha a tárolóeszközben csak olyan mennyiségben lehet jelen veszélyes anyag, hogy abból bármi módon kiszabadulva nem képes veszélyes anyagokkal kapcsolatos súlyos balesetet okozni. Ha a tárolóeszköz olyan méretű és felépítésű, hogy sérülése vagy más tárolóeszközökkel való kölcsönhatása miatt kiszabaduló anyag nem vezethet súlyos balesethez. |
-
-|  | 3. | Elhelyezkedés és mennyiség | Ha az anyag olyan tömegben, és más veszélyes anyagoktól olyan távolságban van vagy lehet jelen egy létesítményben, amely miatt önmagában vagy más anyaggal kölcsönhatásba lépve nem képes súlyos balesetet okozni. | Ezt a szabályt akkor kell alkalmazni, ha a veszélyes anyagokkal foglalkozó üzem létesítményeiben a veszélyes anyagok kis és izolált mennyiségben, vagy más súlyos baleseti veszélyt jelentő más anyagoktól vagy más veszélyes anyagokkal foglalkozó létesítménytől megfelelő biztonsági távolságban vannak jelen. Ez a kritérium csak az üzemben tartósan jelen lévő anyagokra, és azok közvetlen és közvetett hatásaira vonatkozik. A veszélyes anyagok üzemen belüli szállítására nem vonatkozik. |
-
-|  | 4. | Osztályozás | Anyag, amely tulajdonságai miatt az 1. melléklet 2. táblázat valamely veszélyességi osztályába tartozik, de nem okozhat súlyos balesetet. Nem emiatt került sor ugyanis az adott veszélyességi osztályba való sorolására. | Az anyagok osztályozása a veszélyt okozó tulajdonságukon alapszik, de előfordul, hogy az anyag nem okozhat veszélyes anyagokkal kapcsolatos súlyos balesetet. A kritérium például olyan anyag esetében alkalmazható, amely bár toxikus, de hatását közvetlenül a szervezetbe kerülve képes kifejteni, veszélyes anyagokkal kapcsolatos súlyos baleset esetében kizárható a keletkezése és a környezetbe kerülése. |
-
-## A felmentési szabályok alkalmazása
-
-## 1. Az üzemeltető a felmentési kérelemben az alábbiakról tájékoztatja a hatóságot:
-
-## a) a veszélyes anyagokkal foglalkozó üzem székhelyének, tulajdonosának és üzemeltetőjének megnevezése, címe és elérhetőségi adatai;
-
-## b) a veszélyes anyagokkal foglalkozó üzem neve, címe és elérhetőségi adatai;
-
-## c) az üzemeltetésért felelős személy neve, beosztása;
-
-## d) a tevékenység általános leírása és a felmentés kérését indokoló kiegészítő információk;
-
-## e) a veszélyes anyagokkal foglalkozó üzem közvetlen környezetének a felmentési kérelem által érintett részének leírása;
-
-## f) azon veszélyes anyagok leírása, amelyekre vonatkozóan a felmentést kérik;
-
-## g) a veszélyes anyagok leltára, belefoglalva:
-
-## ga) a veszélyes anyagok megnevezése: kémiai elnevezés, IUPAC nómenklatúra szerinti megnevezés és CAS-szám,
-
-## gb) a veszélyes anyagok jelen lévő legnagyobb mennyisége,
-
-## gc) fizikai, kémiai, toxikológiai és ökotoxikológiai jellemzők,
-
-## gd) fizikai és kémiai tulajdonságok normál üzemi feltételek fennállásakor, vagy reálisan elképzelhető balesetek körülményei között;
-
-## h) a felsorolt anyagokra vonatkozó felmentési kritérium vagy kritériumok;
-
-## i) a kritériumok megfelelő alkalmazhatóságának bizonyítása;
-
-## j) a biztonsági jelentés, vagy a biztonsági elemzés olyan módosított tervezete, amelyben a felmentést figyelembe vették.
-
-## 2. Az üzemeltető a felmentés iránti kérelmet úgy küldi meg a hatóságnak, hogy annak vizsgálatára és elbírálására, esetleges kiegészítésére elegendő idő álljon a hatóság, valamint a kérelmező rendelkezésére. Ha a hatóság a kérelmet elfogadja, akkor az üzemeltető a biztonsági jelentést, vagy a biztonsági elemzést a felmentésre vonatkozó korlátozott tartalommal nyújthatja be. A kérelem elutasítása esetén az üzemeltetőnek teljes tartalmú biztonsági jelentést, vagy a biztonsági elemzést kell előírt határidőig benyújtania.
-
-7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^103]
+7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^151]
 
 A hatósági engedélyezési és felügyeleti tevékenység során alkalmazott követelmények,
 
@@ -132,6 +80,16 @@ d) az üzemeltető az érintett ipari park üzemeltetőjével kötött megállap
 
 1.6.4. Az 1.6.2. pontban meghatározott feltételek teljesítésének ellenőrizhetőségét a hatóság részére biztosítani kell. Amennyiben e feltételek nem teljesülnek, e munkavállalókat a társadalmi kockázati görbe számításakor figyelembe kell venni.
 
+1.7. A környezetterheléssel járó súlyos balesetből származó veszélyeztetés elfogadhatóságának feltétele:
+
+a) a technológia műszaki kialakítása garantálja a környezetre veszélyes anyagok környezetbe jutó mennyiségének korlátozását, és az erre vonatkozó technológiai szabályzók rendelkezésre állnak,
+
+b) a kikerült környezetre veszélyes anyag összegyűjtését, mentesítését vagy más módon történő ártalmatlanítását tartalmazó technológiai szabályzók rendelkezésre állnak,
+
+c) a környezeti kárelhárítási eljárások anyagi-technikai és személyi feltétele biztosított, és
+
+d) az üzem kárelhárító szervezete felkészült a környezeti kárelhárítási feladatok végzésére, és e feladatokat terv szerint rendszeresen gyakorolja.
+
 2. A veszélyességi övezetben történő fejlesztésre vonatkozó állásfoglaláshoz kapcsolódó általános követelmények
 
 2.1. A 29. § (1) bekezdésében megjelölt bizottság állásfoglalásához a kiinduló adatokat a hatóság által felülvizsgált biztonsági jelentés vagy a biztonsági elemzés szolgáltatja. Az üzemeltető a biztonsági jelentésben, vagy a biztonsági elemzésben a veszélyeztetett terület minden pontjára meghatározhatja a sérülések egyéni kockázatát. Az így kialakított veszélyességi övezetet belső, középső és külső zónára oszthatja.
@@ -142,7 +100,7 @@ b) Középső zóna: a sérülés egyéni kockázata 10–5 és 10–6 esemény/
 
 c) Külső zóna: a sérülés egyéni kockázata nem éri el a 10–6 esemény/év értéket, de nagyobb mint 3x10–7.
 
-2.2. A zónákban történő fejlesztésekről kialakított állásfoglalások során az alábbiakat szükséges figyelembe venni:
+2.2. A zónákban történő fejlesztésekről kialakított állásfoglalások meghozatala során a katasztrófavédelmi hatóság az alábbiakat veszi figyelembe:
 
 a)
 
@@ -170,7 +128,7 @@ b) Az állásfoglalás kialakítása során figyelembe kell venni, hogy az a) po
 
 |  | C. | Kiskereskedelmi üzlet, kis befogadóképességű közösségi létesítmény, szabadidős létesítmény | 1. A 250 m2-nél kisebb kisipari célú, 100 m2-nél kisebb közösségi épületek és szabadidőközpontok a B. kategóriába tartoznak. 2. Az 5000 m2-nél nagyobb épületek a D. kategóriába tartoznak. 3. A nyitott terű létesítmények, ahol alkalmanként 1000-nél több ember lehet jelen (piac, stadion stb.), a D. kategóriába tartoznak. |
 
-2.4. Ha a tervezett fejlesztés jellege nem szerepel a táblázatban, akkor a hatóság, szükség esetén az általa összehívott bizottság dönt arról, hogy az jellegében, érzékenységében mely kategóriához áll a legközelebb.
+2.4. Ha a tervezett fejlesztés jellege nem szerepel a táblázatban, akkor a hatóság által összehívott bizottság dönt arról, hogy az jellegében, érzékenységében mely kategóriához áll a legközelebb.
 
 3. A belső védelmi terv minősítése
 
@@ -238,6 +196,8 @@ bb) 1%-ot elérő vagy meghaladó probit alapú elhalálozási valószínűség;
 
 c) túlnyomás tekintetében 10 kPa értéket elérő vagy meghaladó léglökési hullám.
 
+5.3.4. A környezetterheléssel járó súlyos balesetből származó veszélyeztetést az 1.7. pontban bemutatottak szerint kell értékelni.
+
 5.4. A hatóság kötelezi az üzemeltetőt, hogy hozzon olyan biztonsági intézkedéseket, amelyek a veszélyeztetés szintjét csökkentik, ha a lakóterület, közösségi létesítmény, tömegtartózkodásra szolgáló építmény olyan övezetben fekszik, ahol veszélyes anyagokkal kapcsolatos súlyos baleset következtében halálos hatás (tűzhatás, mérgezési hatás, túlnyomás) kialakulhat. Ha a veszélyeztetés szintje nem csökkenthető, a hatóság kötelezi az üzemeltetőt a veszélyes tevékenység korlátozására vagy megszüntetésére.
 
 5.5. A védelmi intézkedések értékelése és minősítése
@@ -252,9 +212,9 @@ c) túlnyomás tekintetében 10 kPa értéket elérő vagy meghaladó léglöké
 
 5.5.5. A súlyos káresemény elhárítási terv gyakorlat elfogadhatónak tekinthető, ha a küszöbérték alatti üzem üzemeltetője a gyakorlat során a súlyos káresemény elhárítási tervben meghatározott súlyos baleseti eseménysorok legalább egyikét a tervben meghatározottak szerint gyakoroltatja az arra kioktatottakkal és a gyakorlat során a gyakorlatban részt vevők a tervben meghatározottak szerint cselekednek, továbbá nem tapasztalható semmilyen körülmény, ami egy feltételezett baleset során annak kimenetelét negatív irányba terelhetné. A tervben megjelölt szervezetek egészét gyakoroltató háromévente esedékes gyakorlat elfogadhatóságához szükséges továbbá, hogy a tervben megjelölt szervezetek egésze részt vegyen a gyakorlaton.
 
-6. A veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését, hatásainak csökkentését biztosító irányítási rendszer, vagy a biztonsági irányítási rendszer működtetéséhez kapcsolódó követelmények
+6. A veszélyes anyagokkal foglalkozó és a küszöbérték alatti üzemek engedélyezéséhez és működtetéséhez kapcsolódó egyéb követelmények.
 
-6.1. A biztonsági jelentés, biztonsági elemzés, belső védelmi terv és a súlyos káresemény elhárítási terv elkészítésével megbízott gazdálkodó szervezet köteles
+6.1. A biztonsági jelentés, biztonsági elemzés és a súlyos káresemény elhárítási terv elkészítésével megbízott gazdálkodó szervezet köteles
 
 a) legalább egy fő
 
@@ -264,7 +224,7 @@ ab) felsőfokú katasztrófavédelmi, polgári védelmi vagy tűzvédelmi szakma
 
 ac) az a) pont aa) és ab) alpont szerinti szakterületen legalább ötéves szakmai gyakorlattal rendelkező szakembert foglalkoztatni,
 
-b) a veszélyes anyagokkal kapcsolatos súlyos baleset által való veszélyeztetés, és a lehetséges súlyos baleset következményeinek értékeléséhez az általánosan elismert nemzetközi gyakorlatban alkalmazott és a hatóság által elfogadott szoftvert alkalmazni.
+b) a veszélyes anyagokkal kapcsolatos súlyos baleset által való veszélyeztetés értékeléséhez az általánosan elismert nemzetközi gyakorlatban alkalmazott és a hatóság által elfogadott szoftvert alkalmazni.
 
 6.2. A veszélyes anyagokkal foglalkozó üzem üzemeltetője veszélyes ipari védelmi ügyintézőt köteles alkalmazni vagy megbízni, aki legalább középfokú műszaki végzettséggel, és
 
@@ -286,4 +246,8 @@ e) a belső védelmi terv pontosításáról, felülvizsgálatáról és gyakoro
 
 f) részt vesz a hatósági ellenőrzéseken és a helyszíni szemléken.
 
-[^103]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
+6.4. A belső védelmi terv elkészítésével megbízott gazdálkodó szervezet köteles legalább egy, a 6.1. a) pont szerinti szakembert alkalmazni.
+
+6.5. A veszélyes ipari védelmi ügyintéző alkalmazását vagy megbízását követően a veszélyes anyagokkal foglalkozó üzem üzemeltetője 8 napon belül a hatóság felé bejelenti a veszélyes ipari védelmi ügyintéző nevét, telefonszámát.
+
+[^151]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése, a 34/2015. (II. 27.) Korm. renedelet 30. § (4) bekezdése szerint módosított szöveg.

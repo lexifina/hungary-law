@@ -1,11 +1,16 @@
-## 13. A hatóságot érintő jelentési rendszer
+## 31/A. §[^83] Ha valamely üzemeltető úgy ítéli meg, hogy a veszélyes anyagok vagy keverékek valamelyike a besorolása ellenére nem hordozza magában a súlyos baleset veszélyét, annak egészségi, fizikai és környezeti veszéllyel kapcsolatos tulajdonságainak értékeléséhez a 13. melléklet szerinti információkat megküldi a hatóság részére.
 
-32. § (1)[^60] A hatóság a veszélyes anyagokkal foglalkozó üzemekről és a küszöbérték alatti üzemekről, a 30–31. §-ban foglaltak szerint kapott információkról, valamint a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos előírások végrehajtásáról nyilvántartást vezet. A veszélyes anyagokkal foglalkozó üzemek esetében a nyilvántartásban foglaltakról az Európai Unió illetékes szervével történő együttműködés és információszolgáltatás céljából nemzeti jelentést készít, amelyet a hatóság központi szervének vezetője továbbít az Európai Unió illetékes szervének.
+## 13.[^84] A hatóság nemzetközi feladatai
 
-(2)[^61] A hatóság központi szervének vezetője a 30. § (1) bekezdése alapján kapott információkról (beleértve olyan testületek nevét és címét is, amelyek más európai uniós tagállam illetékes hatóságai számára tudnak lényeges tájékoztatást adni a veszélyes anyagokkal kapcsolatos súlyos balesetről) haladéktalanul tájékoztatja az Európai Unió illetékes szervét. Amennyiben a tájékoztatás tartalmát érintően hatósági eljárás folyik, a tájékoztatást az eljárás jogerős befejezését követően kell megküldeni.
+32. § (1) A hatóság a veszélyes anyagokkal foglalkozó üzemekről és a küszöbérték alatti üzemekről és a 30–31. §-ban foglaltak szerint kapott információkról nyilvántartást vezet. A hatóság központi szerve a nyilvántartásban szereplő adatokról az Európai Bizottság vonatkozó előírásainak figyelembevételével tájékoztatja az Európai Unió illetékes szervét.
 
-(3)[^62] A hatóság központi szerve által készített hároméves nemzeti jelentést az Európai Unió döntéshozatali tevékenységében történő magyar részvétel szabályainak megfelelően kell megküldeni az Európai Bizottság részére.
+(2) A hatóság központi szervének vezetője az olyan veszélyes anyagokkal kapcsolatos súlyos balesetekről és üzemzavarokról, amelyek a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzése és következményeik csökkentése szempontjából műszakilag különösen fontosak – függetlenül a 11. mellékletben meghatározott feltételek teljesülésétől, valamint a 31. § (1) bekezdése alapján kapott információkról (beleértve olyan testületek nevét és címét is, amelyek más európai uniós tagállam illetékes hatóságai számára tudnak lényeges tájékoztatást adni a veszélyes anyagokkal kapcsolatos súlyos balesetről) –, haladéktalanul, de legkésőbb a baleset időpontját követő egy éven belül tájékoztatja az Európai Unió illetékes szervét. Amennyiben a tájékoztatás tartalmát érintően hatósági eljárás folyik, a tájékoztatást az eljárás jogerős befejezését követően kell megküldeni.
 
-[^60]: A 32. § (1) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés m) pontja szerint módosított szöveg.
-[^61]: A 32. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés m) pontja szerint módosított szöveg.
-[^62]: A 32. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés n) pontja szerint módosított szöveg.
+(3) A veszélyes anyagokkal foglalkozó üzemek esetében a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos előírások végrehajtásáról az Európai Unió illetékes szervével történő együttműködés és információszolgáltatás céljából először 2019. szeptember 30-ig majd azt követően négyévente a hatóság központi szerve nemzeti jelentést készít, amelyet az Európai Unió döntéshozatali tevékenységében történő magyar részvétel szabályainak megfelelően továbbít az Európai Unió illetékes szervének.
+
+(4) A hatóság központi szerve, nemzeti illetékes hatóságként együttműködik az Európai Bizottsággal a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos nemzeti feladatok hatékony ellátása érdekében, amelybe bevonja az érintett feleket is.
+
+(5) A hatóság központi szerve az Európai Unió döntéshozatali tevékenységében történő magyar részvétel szabályainak megfelelően a 31/A. § szerint az üzemeltető által megküldött információkat, azok megalapozottsága esetén továbbítja az Európai Bizottság részére.
+
+[^83]: A 31/A. §-t a 34/2015. (II. 27.) Korm. rendelet 22. §-a iktatta be.
+[^84]: A 13. alcím (32. §) a 34/2015. (II. 27.) Korm. rendelet 23. §-ával megállapított szöveg.

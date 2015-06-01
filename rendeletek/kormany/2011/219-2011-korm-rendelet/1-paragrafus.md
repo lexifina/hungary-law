@@ -6,11 +6,15 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1.[^1] Alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol az 1. melléklet alapján meghatározható alsó küszöbértéket elérő vagy meghaladó, de a felső küszöbértéket el nem érő mennyiségben veszélyes anyagok vannak jelen, vagy az alkalmazott berendezésekre és eljárásokra figyelemmel, valamint a technológia irányíthatatlanná válása miatt jelen lehetnek (a továbbiakban együtt: jelen lévő veszélyes anyag).
+1.[^1] Alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol az 1. melléklet alapján meghatározható alsó küszöbértéket elérő vagy meghaladó, de a felső küszöbértéket el nem érő mennyiségben veszélyes anyagok vannak jelen.
 
-2.[^2] Felső küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol a jelen lévő veszélyes anyagok mennyisége az 1. melléklet alapján meghatározható felső küszöbértéket eléri vagy meghaladja.
+1a.[^2] Érintett nyilvánosság: a veszélyes anyagokkal foglalkozó üzem által veszélyeztetett településen élő lakosság, valamint azon természetes személyek, jogi személyek vagy jogi személyiséggel nem rendelkező szervezetek, akik az adott eljárásban érintettek vagy abban érdekeltek. E fogalom-meghatározás alkalmazásában érdekeltnek tekintendők a környezetvédelem ügyének előmozdítása érdekében a vonatkozó jogszabályban meghatározott követelményeknek megfelelően működő szervezetek is.
 
-2a.[^3] Hatóság: a hivatásos katasztrófavédelmi szerv.
+2.[^3] Felső küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol a jelen lévő veszélyes anyagok mennyisége az 1. melléklet alapján meghatározható felső küszöbértéket eléri vagy meghaladja.
+
+2a.[^4] Hatóság: a hivatásos katasztrófavédelmi szerv.
+
+2b.[^5] Keverék: két vagy több anyagból álló keverék vagy oldat.
 
 3. Kiemelten kezelendő létesítmények:
 
@@ -20,7 +24,7 @@ b) az 1. melléklet 2. táblázatában szereplő veszélyes tulajdonságok valam
 
 c) azon üzemek, amelyek területén klór vagy ammónia legalább 1000 kg mennyiségben van jelen, amennyiben nem tartoznak a veszélyes anyagokkal foglalkozó üzemek körébe.
 
-4. Tárolás: a veszélyes anyag átmeneti vagy tartós jelenléte raktározás, készletezés vagy biztonságos felügyelet melletti elhelyezés céljából.
+4.[^6] Tárolás: a veszélyes anyag ideiglenes vagy tartós jelenléte raktározás, készletezés vagy biztonságos felügyelet melletti elhelyezés céljából, kivéve a szállítókonténerek közúti, vasúti vagy belvízi kombinált fuvarozásra történő átrakását.
 
 5. Társhatóság: veszélyes anyagokkal foglalkozó üzemek, küszöbérték alatti üzemek tekintetében hatósági feladatkört ellátó személyek és szervezetek.
 
@@ -28,6 +32,9 @@ c) azon üzemek, amelyek területén klór vagy ammónia legalább 1000 kg menny
 
 7. Veszélyeztetett terület: ahol a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem tevékenysége során bekövetkező veszélyes anyagokkal kapcsolatos súlyos balesetek, üzemzavarok által okozott mérgező, hősugárzási, ökotoxikus vagy túlnyomási hatások az emberi egészséget, a környezetet vagy a természeti értékeket károsíthatják.
 
-[^1]: Az 1. § 1. pontja a 476/2013. (XII. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § 2. pontja a 476/2013. (XII. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 2a. pontját a 74/2012. (IV. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^1]: Az 1. § 1. pontja a 34/2015. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 1a. pontját a 34/2015. (II. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § 2. pontja a 476/2013. (XII. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 2a. pontját a 74/2012. (IV. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^5]: Az 1. § 2b. pontját a 34/2015. (II. 27.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^6]: Az 1. § 4. pontja a 34/2015. (II. 27.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

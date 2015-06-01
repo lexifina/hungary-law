@@ -1,9 +1,8 @@
-## 8. Felmentési szabályok
+## 16/A. §[^41] A hatóság központi szerve a hatósági ellenőrzésekre vonatkozóan éves ellenőrzési tervet készít, melyben szerepelteti a terv területi hatályát, a releváns biztonsági kérdések általános értékelését, a hatósági ellenőrzés hatálya alá vont veszélyes anyagokkal foglakozó üzemek és a dominóhatásban érintettek körét, a veszélyes anyagokkal kapcsolatos súlyos balesetek és üzemzavarok kivizsgálása érdekében lefolytatott, a társhatóságokkal közösen végzett, valamint az időszakos hatósági ellenőrzések elveit és módszereit.
 
-17. § (1) Ha a veszélyes anyagokkal foglalkozó üzem üzemeltetője a biztonsági jelentés vagy biztonsági elemzés készítése vagy felülvizsgálata során a veszélyes anyagok teljes körét, mennyiségét és a jelenlétük feltételeit figyelembe véve bizonyítani tudja, hogy a 6. mellékletben szereplő valamely felmentési feltétel közül legalább egy fennáll, akkor kérheti, hogy a hatóság a biztonsági jelentésben vagy biztonsági elemzésben megkövetelt tájékoztatást azokra a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyekre korlátozza, amelyek a felmentési kérelemben nem szerepelnek.
+## 8.[^42]
 
-(2) Amennyiben a hatóság a felmentésre vonatkozó kérelmet elfogadja, akkor az üzemeltető a biztonsági jelentést vagy biztonsági elemzést a felmentésben szereplő korlátozott tartalommal nyújthatja be.
+17. §
 
-(3) A hatóság a felmentési kérelem elbírálásához az üzemeltetőtől kiegészítő információkat kérhet.
-
-(4) A hatóság által – a felmentési kérelemre – kiadott határozat tartalmazza, hogy a felmentés milyen anyagra és a veszélyes anyagokkal foglalkozó üzem melyik létesítményére vonatkozik. Az előbbieken kívül tartalmazza továbbá, hogy a felmentés alkalmazása esetén mely részeiben korlátozható a biztonsági jelentés vagy biztonsági elemzés tartalma.
+[^41]: A 16/A. §-t a 34/2015. (II. 27.) Korm. rendelet 11. §-a iktatta be.
+[^42]: A 8. alcímet (17–18. §) a 34/2015. (II. 27.) Korm. rendelet 32. § a) pontja hatályon kívül helyezte.

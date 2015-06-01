@@ -14,7 +14,7 @@ a) a veszélyes anyagokkal kapcsolatos súlyos baleset következtében kialakul�
 
 b) a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésbe bevonható települési infrastruktúra, berendezések és anyagok;
 
-c) a lakosság és az anyagi javaik védelme érdekében hozott intézkedések:
+c)[^155] a lakosság, az anyagi javaik és a környezet védelme érdekében hozott intézkedések:
 
 ca) vezetési és együttműködési feladatok,
 
@@ -71,3 +71,5 @@ b) a hatóság tájékoztatásának tartalma és eszközei.
 2.1. A benyújtott térképnek (vázlatnak) a jó eligazodást biztosító méretarányúnak kell lennie. Ábrázolnia kell a veszélyes anyagokkal foglalkozó üzemet, vagy a küszöbérték alatti üzemet és a lehetséges baleseti hatások által érintett környező területeket. A méretarányt fel kell tüntetni. Nagy terjedési távolságok esetében különböző méretarányú térképeket is fel lehet használni.
 
 2.2. A térképeken (vázlaton) ki kell emelni a veszélyes anyagokkal foglalkozó üzem, vagy a küszöbérték alatti üzem megközelítési útvonalait, valamint a kimenekítési és egyéb, a veszélyes anyagokkal kapcsolatos súlyos baleset hatásai elleni védekezéssel kapcsolatos tevékenységek során igénybe vehető útvonalakat.
+
+[^155]: A 9. melléklet 1.2.1. pont c) alpont nyitó szövegrésze a 34/2015. (II. 27.) Korm. rendelet 30. § (5) bekezdésével megállapított szöveg.
