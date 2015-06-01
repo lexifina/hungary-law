@@ -2,7 +2,7 @@
 
 2. § (1) A REACH és a CLP e törvénnyel együttesen alkalmazandó.
 
-(2) E törvény hatálya az embert és a környezetet veszélyeztető veszélyes anyagokra és keverékekre, illetőleg az ezekkel folytatott tevékenységekre terjed ki azzal, hogy az 5. § (1) bekezdése, illetve a CLP szerinti osztályozásig – az osztályba sorolhatóságtól függetlenül – e törvényt valamennyi anyagra alkalmazni kell. A veszélyes anyagok és veszélyes keverékek csomagolására és feliratozására (címkézésére) vonatkozó rendelkezéseket – ha azt külön jogszabály elrendeli – azon keverékekre is alkalmazni kell, amelyek nem minősülnek veszélyesnek, de – különösen mennyiségükre, felhasználásuk módjára vagy céljára tekintettel – különleges kockázatot jelenthetnek az emberi egészségre vagy a környezetre.
+(2) E törvény hatálya az embert és a környezetet veszélyeztető veszélyes anyagokra és keverékekre, illetőleg az ezekkel folytatott tevékenységekre terjed ki azzal, hogy a CLP szerinti osztályozásig – az osztályba sorolhatóságtól függetlenül – e törvényt valamennyi anyagra alkalmazni kell. A veszélyes anyagok és veszélyes keverékek csomagolására és feliratozására (címkézésére) vonatkozó rendelkezéseket – ha azt külön jogszabály elrendeli – azon keverékekre is alkalmazni kell, amelyek nem minősülnek veszélyesnek, de – különösen mennyiségükre, felhasználásuk módjára vagy céljára tekintettel – különleges kockázatot jelenthetnek az emberi egészségre vagy a környezetre.
 
 (3) E törvény hatálya a 23. § (6) bekezdésében meghatározott, valamint a c) pont tekintetében a 20. § (6) bekezdésében meghatározott kivétellel nem terjed ki
 

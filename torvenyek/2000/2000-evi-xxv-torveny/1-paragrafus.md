@@ -12,7 +12,7 @@ a) kémiai biztonság: a kemizációból, a vegyi anyagok életciklusából szá
 
 b) vegyi anyag életciklusa: a vegyi anyag országon belüli előállításától vagy behozatalától az országból való kiviteléig, újrahasznosításának vagy ártalmatlanításának befejezéséig terjedő, a vegyi anyaggal végzett tevékenységek által szakaszolt időszakok összessége,
 
-c) veszélyes anyag: valamennyi, a 3–5. § alapján veszélyesként osztályozott anyag,
+c) veszélyes anyag: valamennyi, a 3. § alapján veszélyesként osztályozott anyag,
 
 d) veszélyes keverék: egy vagy több veszélyes anyagot tartalmazó keverék vagy oldat, amely az osztályozás során veszélyes besorolást kap,
 
