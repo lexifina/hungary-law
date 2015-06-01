@@ -1,0 +1,1 @@
+## „(2a) Az üzemeltető haladéktalanul tájékoztatja a hatóságot a veszélyes anyagokkal foglalkozó üzem üzemeltetője nevének, székhelyének, a veszélyes anyagokkal foglalkozó üzem címének, az üzemeltetésért felelős személy – amennyiben különbözik az üzemeltetőtől – nevének vagy beosztásának megváltozásáról.”

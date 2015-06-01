@@ -1,0 +1,3 @@
+## 5. § Az R. 8. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A veszélyes anyagokkal foglakozó üzem üzemeltetője – a lakossági tájékoztató kiadványhoz szükséges, legalább a 10. melléklet 1.1. és 1.2. pontja szerinti adattartalommal – elkészíti a biztonsági jelentés, biztonsági elemzés kivonatát, vagy a nyilvánosságra hozható biztonsági jelentésben, biztonsági elemzésben nyilatkozik annak teljeskörű felhasználhatóságáról. A kivonat a nyilvánosságra hozható biztonsági jelentés, biztonsági elemzés részét képezi, amely – ha arra lehetőség van – a szakmai kifejezések helyett azok köznapi megfelelőjét tartalmazza.”
