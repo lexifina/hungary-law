@@ -1,5 +1,3 @@
-## való megfelelést szolgálja.
-
 ## Mellékletek jegyzéke
 
 ## 1. számú melléklet
