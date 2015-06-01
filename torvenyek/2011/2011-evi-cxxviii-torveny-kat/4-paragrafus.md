@@ -10,10 +10,12 @@ a) az atomenergiáról szóló 1996. évi CXVI. törvény 1. § (1) bekezdéséb
 
 b) a veszélyes anyagoknak a veszélyes anyagokkal foglalkozó üzemen és küszöbérték alatti üzemen kívüli közúti, vasúti, légi vagy vízi szállítására,
 
-c) ásványi nyersanyagok feltárásával, kitermelésével és feldolgozásával kapcsolatos föld alatti, külszíni vagy fúrólyukas bányászati tevékenységekre, kivéve az ásványi nyersanyagok vegyi vagy termikus feldolgozását, tárolását, ha annak során a külön jogszabályban meghatározott küszöbértéket elérő mennyiségű veszélyes anyag jelen van,
+c) az ásványi anyagok bányákban és kőbányákban – többek között fúrólyukakon át – történő kinyerésére, azaz feltárására, kitermelésére és feldolgozására,
 
-d) a hulladéklerakókra, kivéve az ásványi nyersanyagok kitermeléséből származó hulladékok, meddők feldolgozására szolgáló létesítményeket (beleértve a derítő- és ülepítőmedencét is), ahol a külön jogszabályban meghatározott küszöbértéket elérő mennyiségű veszélyes anyag van jelen, különösen abban az esetben, ha a tevékenység a hulladékok vegyi és termikus feldolgozásával jár együtt,
+d) a hulladéklerakó telepre, ideértve a föld alatti hulladéktárolást is,
 
 e) a katonai létesítményekre, berendezésekre vagy tárolókra.
+
+(3a) A Kat. IV. fejezetének hatálya kiterjed a szárazföldi föld alatti, természetes rétegekben, víztartó rétegekben, sóüregekben és használaton kívüli bányákban végzett gáztárolásra, a vegyi és termikus feldolgozási műveletekre és a veszélyes anyagokkal végzett ilyen műveletekkel kapcsolatos tárolásra, valamint a működő meddő ártalmatlanítására szolgáló létesítményekre, a veszélyes anyagokat tartalmazó derítő-, illetve ülepítőmedencét is beleértve.
 
 (4) Ez a törvény nem érinti a Magyar Honvédség vezetési-irányítási rendszerére, valamint a katonai függelmi viszonyokra vonatkozó jogszabályi rendelkezéseket.

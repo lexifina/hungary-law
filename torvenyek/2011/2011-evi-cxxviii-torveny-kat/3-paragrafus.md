@@ -56,17 +56,17 @@ d) speciális végpont: minden olyan eszköz, berendezés, amely az a)–c) pont
 
 22. Súlyos káresemény elhárítási terv: küszöbérték alatti üzem üzemeltetői okmánya, amely tartalmazza az üzem veszélyeztető hatásainak elemzését, valamint a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését, elhárítását és hatásainak csökkentését szolgáló intézkedések végrehajtásának rendjét, feltételeit.
 
-23. Üzemeltető: bármely természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely veszélyes anyagokkal foglalkozó üzemet, veszélyes anyagokkal foglalkozó létesítményt vagy küszöbérték alatti üzemet működtet, vagy alapszabály, alapító okirat, illetve szerződés alapján döntő befolyást gyakorol a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működésére.
+23. Üzemeltető: bármely természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely veszélyes anyagokkal foglalkozó üzemet, létesítményt vagy küszöbérték alatti üzemet működtet, irányít, vagy alapszabály, alapító okirat, illetve szerződés alapján meghatározó gazdasági vagy döntéshozatali befolyással rendelkezik a veszélyes anyagokkal foglalkozó üzem, létesítmény, küszöbérték alatti üzem műszaki üzemeltetése felett.
 
 24. Veszély: valamely veszélyes anyag természetes tulajdonsága vagy olyan körülmény, amely káros hatással lehet az emberi egészségre vagy a környezetre.
 
 25. Veszélyelhárítási terv: katasztrófaveszély, valamint katasztrófa időszakában végrehajtandó katasztrófavédelmi feladatokat tartalmazó, központi, területi (fővárosi), települési (a fővárosban kerületi) és munkahelyi okmányrendszer.
 
-26. Veszélyes anyag: e törvény végrehajtását szolgáló kormányrendeletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, amely mint nyersanyag, termék, melléktermék, maradék, köztes termék vagy hulladék van jelen, beleértve azokat az anyagokat is, amelyekről feltételezhető, hogy egy baleset bekövetkezésekor létrejöhetnek.
+26. Veszélyes anyag: e törvény végrehajtását szolgáló kormányrendeletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, akár nyersanyag, termék, melléktermék, maradék, köztes termék, vagy hulladék formájában.
 
-27. Veszélyes anyagokkal foglalkozó létesítmény: olyan, a veszélyes anyagokkal foglalkozó üzem területén lévő technológiai vagy termelésszervezési okokból elkülönülő területrész, ahol egy vagy több berendezésben (technológiai rendszerben) veszélyes anyagok előállítása, felhasználása, szállítása vagy tárolása történik. Magában foglal minden olyan felszerelést, szerkezetet, csővezetéket, gépi berendezést, eszközt, iparvágányt, kikötőt, a létesítményt szolgáló rakpartot, kikötőgátat, raktárt vagy hasonló – úszó vagy egyéb – felépítményt, amely a létesítmény működéséhez szükséges.
+27. Veszélyes anyagokkal foglalkozó létesítmény: olyan, a veszélyes anyagokkal foglalkozó üzem területén lévő – föld alatti vagy föld feletti – technológiai vagy termelésszervezési okokból elkülönülő műszaki egység, ahol egy vagy több berendezésben (technológiai rendszerben) veszélyes anyagok előállítása, felhasználása, szállítása vagy tárolása történik, magában foglal minden olyan felszerelést, szerkezetet, csővezetéket, gépi berendezést, eszközt, iparvágányt, kikötőt, a létesítményt szolgáló rakpartot, kikötőgátat, raktárt vagy hasonló – úszó vagy egyéb – felépítményt, amely a létesítmény működéséhez szükséges.
 
-28. Veszélyes anyagokkal foglalkozó üzem: egy adott üzemeltető irányítása alatt álló azon terület egésze, ahol egy vagy több veszélyes anyagokkal foglalkozó létesítményben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a törvény végrehajtására kiadott jogszabályban meghatározott küszöbértéket elérő mennyiségben (tekintet nélkül az üzem tevékenységének ipari, mezőgazdasági vagy egyéb besorolására).
+28. Veszélyes anyagokkal foglalkozó üzem: egy adott üzemeltető irányítása alatt álló azon terület egésze, ahol egy vagy több veszélyes anyagokkal foglalkozó létesítményben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a törvény végrehajtására kiadott jogszabályban meghatározott küszöbértéket elérő mennyiségben, és ennek alapján alsó vagy felső küszöbértékűnek minősül.
 
 29. Veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélyes anyag kibocsátásával, tűzzel vagy robbanással járó, veszélyes anyagokkal kapcsolatos üzemzavar, amely a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működése során befolyásolhatatlan folyamatként megy végbe, és amely az üzemen belül vagy azon kívül közvetlenül vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetve a környezetet.
 
@@ -85,6 +85,8 @@ e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-
 f) veszélyes anyagokkal foglalkozó létesítmény leállítása.
 
 31. Veszélyes tevékenység: olyan, veszélyes anyagok jelenlétében végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
+
+31a. Veszélyes anyagok jelenléte: veszélyes anyagok tényleges vagy várható jelenléte a veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben, valamint azoknak az anyagoknak a jelenléte, amelyekről reálisan feltételezhető, hogy akkor keletkezhetnek, amikor a folyamatok – beleértve a tároló tevékenységet is – az üzemen belül bármely létesítményből kikerülnek az ellenőrzés alól, amennyiben e veszélyes anyagok mennyisége eléri vagy meghaladja az e törvény végrehajtását szolgáló kormányrendeletben meghatározott alsó küszöbérték negyedét.
 
 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 
