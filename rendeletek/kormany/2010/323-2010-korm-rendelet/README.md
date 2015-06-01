@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-323-20-
 | 2015-01-01 | 2010-323-20-22.32 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2015-03-01 | 2010-323-20-22.33 | 30/2015. (II. 25.) Korm. rendelet |
 | 2015-04-01 | 2010-323-20-22.34 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-06-01 | 2010-323-20-22.35 | 30/2015. (II. 25.) Korm. rendelet |
