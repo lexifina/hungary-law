@@ -1,1 +1,0 @@
-## „(7) A polgármester biztosítja, hogy az üzemeltető által készített, a biztonsági jelentés védendő adatokat nem tartalmazó változata és amennyiben készült, a biztonsági jelentés 8. § (5) bekezdése szerinti kivonata kérésre dokumentált formában a nyilvánosság számára megismerhető legyen.”

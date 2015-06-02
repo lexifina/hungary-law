@@ -1,1 +1,0 @@
-## „4. Tárolás: a veszélyes anyag ideiglenes vagy tartós jelenléte raktározás, készletezés vagy biztonságos felügyelet melletti elhelyezés céljából, kivéve a szállítókonténerek közúti, vasúti vagy belvízi kombinált fuvarozásra történő átrakását.”

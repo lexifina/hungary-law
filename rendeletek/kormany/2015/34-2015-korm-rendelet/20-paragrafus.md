@@ -1,1 +1,0 @@
-## „(5) A polgármester biztosítja, hogy a fejlesztéssel kapcsolatos döntés meghozatalakor a bizottsági állásfoglalást és az érintett nyilvánosság észrevételeit a tervezett fejlesztés kialakításakor kellő mértékben figyelembe vegyék. A polgármester a fejlesztéssel kapcsolatos döntésről tájékoztatja a hatóságot.”

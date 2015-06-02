@@ -1,1 +1,0 @@
-## „(6) A (4)–(5) bekezdések nem alkalmazandók, ha az üzemeltető a Módr. rendelkezéseinek megfelelő biztonsági elemzést, biztonsági jelentést vagy súlyos káresemény elhárítási tervet nyújtott be a hatósághoz a Módr. hatálybalépését megelőzően.”

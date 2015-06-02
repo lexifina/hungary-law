@@ -1,3 +1,0 @@
-## 26. § Az R. 40. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) Az 1. § 3. pont a) alpont szerinti létesítmények üzemeltetője az üzemeltetése alatt álló 1. § 3. pont a) alpont szerinti létesítményei esetében évente folytat le olyan egységes, összevont gyakorlatot, ahol a tervekben megjelölt szervezetek egészét gyakoroltatja, vagy az 1. § 3. pont a) alpont szerinti létesítményei esetében külön-külön évente folytat le olyan gyakorlatot, ahol a tervekben megjelölt szervezetek valamely részét, valamint háromévente olyan gyakorlatot, ahol a tervekben megjelölt szervezetek egészét gyakoroltatja.”
