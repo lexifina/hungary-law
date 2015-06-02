@@ -1,62 +1,46 @@
 ## 1. jóváhagyja az 1. melléklet szerint az ott felsorolt projektek
 
-## a)[^1] a Társadalmi Infrastruktúra Operatív Program (a továbbiakban: TIOP) 2011–2013. évekre szóló akcióterve 2. prioritása keretében, az árfolyam-kompenzációból és lemorzsolódásból fakadó szabad forrásai terhére elszámolható költségeinek legfeljebb 3 830 877 702 forint támogatással, és az ehhez kapcsolódó, legfeljebb 353 745 353 forint önerővel történő növelését a Magyarország központi költségvetése Uniós fejlesztések fejezet, Állami költségvetési kedvezményezettek sajáterő támogatása előirányzatából, valamint
+## a)[^2] a Társadalmi Infrastruktúra Operatív Program (a továbbiakban: TIOP) 2011–2013. évekre szóló akcióterve 2. prioritása keretében, az árfolyam-kompenzációból és lemorzsolódásból fakadó szabad forrásai terhére elszámolható költségeinek legfeljebb 3 830 877 702 forint támogatással, és az ehhez kapcsolódó, legfeljebb 353 745 353 forint önerővel történő növelését a Magyarország központi költségvetése Uniós fejlesztések fejezet, Állami költségvetési kedvezményezettek sajáterő támogatása előirányzatából, valamint
 
-## b) el nem számolható költségnövekményének Magyarország központi költségvetése Uniós fejlesztések fejezet, Állami költségvetési kedvezményezettek sajáterő támogatása előirányzata terhére történő finanszírozását legfeljebb 1 801 800 000 forint erejéig,
+## b)[^3]
 
-## 2. egyetért azzal, hogy az 1. pont b) alpontjában meghatározott összeg csökkentse az egészségügyi infrastrukturális beruházások többlet-támogatásáról szóló 1325/2013. (VI. 12.) Korm. határozat 2. pontjában meghatározott kiegészítő forrás összegét,
+## 2–3.[^4]
 
-## 3. hozzájárul, hogy a Miniszterelnökséget vezető miniszter megállapodást kössön az emberi erőforrások miniszterével az 1. melléklet 1. pontjában foglalt táblázat D oszlopában és 2. pontjában foglalt táblázat B oszlopában meghatározott források éves ütemezésben történő átadásáról,
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## 3/A.[^2] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. melléklet szerinti projektekkel összefüggésben benyújtott szerződésmódosítási kérelmek elszámolhatósági vizsgálatának lefolytatásáról és a támogatói döntés meghozataláról,
+## 3/A.[^5] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. melléklet szerinti projektekkel összefüggésben benyújtott szerződésmódosítási kérelmek elszámolhatósági vizsgálatának lefolytatásáról és a támogatói döntés meghozataláról,
 
 ## Felelős: emberi erőforrások minisztere
 
 ## Határidő: azonnal
 
-## 4. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. melléklet
-
-## a) 1. pontjában foglalt táblázat 3–7., 13. és 14. sora, valamint a 2. pontjában foglalt táblázat szerinti projektekre, továbbá
-
-## b) 1. pontjában foglalt táblázat 8–12. és 15. sora szerinti projektekre
-
-## vonatkozó, az 1. pont szerinti források kihelyezéséhez szükséges szerződések megkötéséről, illetve módosításáról,
+## 4.[^6] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. melléklet szerinti projektekre vonatkozó, az 1. pont szerinti források kihelyezéséhez szükséges szerződések megkötéséről, illetve módosításáról,
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő:[^3] az a) alpont tekintetében: a 3. és a 3/A. pontban foglaltak végrehajtását követően azonnal
+## Határidő: a 3/A. pontban foglaltak végrehajtását követően azonnal
 
-## a b) alpont tekintetében: a 3/A. pontban foglaltak végrehajtását követően azonnal
+## 5.[^7]
 
-## 5.[^4]
+## 6.[^8]
 
-## 6.[^5]
-
-1. melléklet az 1647/2014. (XI. 14.) Korm. határozathoz[^6]
+1. melléklet az 1647/2014. (XI. 14.) Korm. határozathoz[^9]
 
 1. A TIOP terhére jóváhagyott többletforrás:
 
 |  | A | B | C | D | E | F |
 
-| 1. | Projekt azonosító száma | Kedvezményezett neve | Többletforrás | Többletforrás összesen (Ft) | Projekt rövid bemutatása |
+| 1. | Projekt azonosító száma | Kedvezményezett neve | Költségnövekmény | Többletforrás összesen (Ft) | Projekt rövid bemutatása |
 
-| 2. | TIOP terhére elszámolható (Ft) | Az 1. pont a) alpontja szerinti kapcsolódó forrás (Ft) |
+| 2. | támogatást érintő része (Ft) | önerőt érintő része (Ft) |
 
 | 3. | TIOP-2.2.4-09/1-2010-0006 | Sátoraljaújhelyi Erzsébet Kórház | 45 000 000 | 5 000 000 | 50 000 000 | A tervezett fejlesztés megvalósulásával a kórház jelenlegi kedvezőtlen adottságú, rendkívül tagolt infrastruktúrája (öt különálló épület, osztályok, műtők szétosztottsága stb.) megszűnik. Az új technológiai tömb létrehozása révén elérhető a kórházi működés centralizációja, amellyel, valamint az alapvetően előnyös és optimális funkciós kapcsolatokkal, hatékonyabb működést, takarékosabb anyagi és humánerőforrás-igénybevételt eredményez. Az új technológiai tömb létrehozásával: – sebészeti mátrix (a sebészeti részlegen 36 ágy), – központi betegirányítás, – központi sterilizáló, – központi radiológia, – központi műtők létesül, illetve létesülnek, továbbá a központi intenzív osztály egy tömbben való elhelyezésével és a két aktív betegellátó egységet tartalmazó épülettel (1–2. épület, és 37. számú épület) közvetlen, rövid ellenőrzött betegutak biztosíthatók. A tervezett központi technológia tömb nettó területe: 3818 m2. A beruházás eredményeként lerövidülnek a betegutak, a kórház költségeinek és bevételeinek a struktúrája átrendeződik, csökkenek az üzemeltetési kiadások. |
 
 | 4. | TIOP-2.2.4-09/1-2010-0010 | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet | 277 101 847 | 30 789 094 | 307 890 941 | A projekt vonatkozásában az elvégzendő kivitelezési és ezzel összefüggő bontási, felújítási munkák a következők: 1. Bontandó épületek: Vérellátó állomás épület, Infektológia épület, Gazdasági Hivatal épület, Villamos szerelő műhely épület, Igazgatósági épület, Pszichiátria épület, Régi Kazánház épület (Nettó alapterület: 6696 m2). 2. Új épületek: B1a épület 1-2. emelet (686,19 m2), C épület (12077,86 m2), OVSZ épületrész (471,00 m2), B1a épület földszint (499,16 m2). |
 
-| 5. | TIOP-2.2.4-09/1-2010-0022 | Dr. Réthy Pál Kórház-Rendelőintézet | 194 572 997 | 21 619 222 | 216 192 219 | A projekt a következő fejlesztéseket foglalja magában: 1. Központi technológiai tömb fejlesztése keretében megvalósul a) a központi aneszteziológiai és intenzív terápiás osztály fejlesztése, b) a központi diagnosztika fejlesztése (beleértve a pathológiát is), c) a központi műtő fejlesztése, d) a központi betegirányító egység kialakítása, e) a központi steril eszközfejlesztése. 2. A központi technológiai tömbhöz kapcsolódó egyéb fejlesztések keretében megvalósul a) az egynapos sebészet fekvőrészlegének kialakítása, és b) informatikai és infokommunikációs fejlesztés. |
+| 5. | TIOP-2.2.4-09/1-2010-0022 | Dr. Réthy Pál Kórház-Rendelőintézet | 194 572 997 | 21 619 222 | 216 192 219 | A projekt a következő fejlesztéseket foglalja magában: 1. Központi technológiai tömb fejlesztése keretében megvalósul a) a központi aneszteziológiai és intenzív terápiás osztály fejlesztése, b) a központi diagnosztika fejlesztése (beleértve a patológiát is), c) a központi műtő fejlesztése, d) a központi betegirányító egység kialakítása, e) a központi steril eszközfejlesztése. 2. A központi technológiai tömbhöz kapcsolódó egyéb fejlesztések keretében megvalósul a) az egynapos sebészet fekvőrészlegének kialakítása, és b) informatikai és infokommunikációs fejlesztés. |
 
 | 6. | TIOP-2.2.4-09/1-2010-0024 | Szent Pantaleon Kórház- Rendelőintézet Dunaújváros | 175 851 197 | 19 539 022 | 195 390 219 | A projekt keretében a Szent Pantaleon Kórház központi telephelyén a fekvőbeteg-szakellátás tömbkórházi épületéhez csatlakozóan új, a legmagasabb technológiai színvonalat igénylő, magas kockázatú, illetve nagy hozzáadott értéket képviselő ellátásoknak és szolgáltatásoknak helyet adó központi technológiai tömb kerül megépítésre. A projekt célja a rendelkezésre álló erőforrások koncentrálásával, jobb kihasználásával a klinikai eredményesség (hatásosság), a betegbiztonság és a költséghatékonyság egyidejű növelése érdekében a magas kockázatú ellátásokat nyújtó, vagy azokat támogató egységek egységes fejlesztése, kapcsolódási pontjaik optimális kialakítása, korszerű eszközökkel történő felszerelése. A projekt keretében így a fekvőbeteg-szakellátás fenntarthatóságát, színvonalának emelését, a gyógyító tevékenység feltételrendszerének korszerűsítését támogató fejlesztések valósulnak meg, amelyet a megalapozott szakmai és menedzsmenti döntéshozatalt segítő informatikai fejlesztések egészítenek ki. |
 
-| 7. | TIOP-2.2.5-09/1-2010-0006 | Csolnoky Ferenc Kórház | 330 208 003 | 187 558 228 | 517 766 231 | A projekt a Veszprém megyei Csolnoky Ferenc Kórház és a farkasgyepűi Veszprém Megyei Tüdőgyógyintézet fejlesztésére irányul. A Csolnoky Ferenc kórházban egy 4271 m2 alapterületű komplex onkológiai ellátást biztosító központ épül. A központ pincéjében a sugárterápiás kezeléseknek, a földszinten a járóbeteg-ellátásnak, illetve egy 12 ágyas speciális kezelő- és megfigyelő egységnek, az emeleten 62 ágyas onkológiai és onkoradiológiai fekvőbetegeket ellátó osztálynak ad helyet. Az épület tetőszintjén mentőhelikopter-leszállóhelyet alakítanak ki. A projekt része az ellátást segítő két korszerű lineáris gyorsító, brachyterápia, lokalizációs komputertomográf-készülék és a citosztatikus labor telepítése is. A farkasgyepűi tüdőgyógyintézetben a meglévő épületekhez kapcsolódva az onko-pulmanológiai ellátást segítő 490 m2-es diagnosztikai szárny épül fel, új berendezéssel, műszerezettséggel. |
+| 7. | TIOP-2.2.5-09/1-2010-0006 | Csolnoky Ferenc Kórház | 330 208 003 | 187 558 228 | 517 766 231 | A projekt a Veszprém megyei Csolnoky Ferenc Kórház és a farkasgyepűi Veszprém Megyei Tüdőgyógyintézet fejlesztésére irányul. A Csolnoky Ferenc kórházban egy 4271 m2 alapterületű komplex onkológiai ellátást biztosító központ épül. A központ pincéjében a sugárterápiás kezeléseknek, a földszinten a járóbeteg-ellátásnak, illetve egy 12 ágyas speciális kezelő- és megfigyelő egységnek, az emeleten 62 ágyas onkológiai és onkoradiológiai fekvőbetegeket ellátó osztálynak ad helyet. Az épület tetőszintjén mentőhelikopter-leszállóhelyet alakítanak ki. A projekt része az ellátást segítő két korszerű lineáris gyorsító, brachyterápia, lokalizációs komputertomográf-készülék és a citosztatikus labor telepítése is. A farkasgyepűi tüdőgyógyintézetben a meglévő épületekhez kapcsolódva az onko-pulmonológiai ellátást segítő 490 m2-es diagnosztikai szárny épül fel, új berendezéssel, műszerezettséggel. |
 
 | 8. | TIOP-2.2.6-12/1B-2013-0005 | Albert Schweitzer Kórház-Rendelőintézet | 500 000 000 | – | 500 000 000 | A projekt keretében létrejön az új központi műtőblokk és a központi sterilizáló egy új, 1512 m2-es épülettömbben, valamint sor kerül a radiológia összevonására és további felújításokra a főépület 2023 m2-es részét érintve. A projektben megtörténik a kórház elavult eszközparkjának részleges cseréje is. Ezek eredményeként magas minőségű szolgáltatásokhoz és modern orvos-technológiához jutnak hozzá a régió hátrányos helyzetű lakosai, míg a kórház üzemeltetése gazdaságosabbá válik. |
 
@@ -74,25 +58,15 @@
 
 | 15. | TIOP-2.2.6-12/1B-2013-0026 | Árpád-házi Szent Erzsébet Szakkórház és Rendelőintézet | 123 132 000 | – | 123 132 000 | A projekt célja az intézményben a járóbeteg-szakellátás és a diagnosztika fejlesztése. Funkcióváltás történik, a korábbi struktúra megváltoztatásával megmaradó ellátási formák fejlesztését végzik el. A járóbeteg ellátás átkerül a kórházzal egybeépített, korszerűen kialakított új szakrendelőbe. A projektben elvégzik a szükséges eszközállomány korszerűsítését és ehhez kapcsolódóan a meglévő épület átalakítását, röntgenhelyiség kialakítását. A projektmegvalósítás tervezett időtartama 18 hónap. |
 
-| 16. | Összesen: | 4 100 153 112 | 383 664 843 | 4 483 817 955 |  |
+| 16. | Összesen: | 3 830 877 702 | 353 745 353 | 4 184 623 055 |  |
 
-2. A Közép-magyarországi régió területén hazai költségvetés terhére finanszírozott projektek:
+2.
 
-|  | A | B | C |
-
-| 1. | Kedvezményezett neve | Támogatás (Ft) | Projekt rövid bemutatása |
-
-| 2. | Semmelweis Egyetem | 806 450 000 | A projekt célja a Semmelweis Egyetem Városmajori Szív- és Érgyógyászati Klinika gyógyító tevékenységének szakmai kiteljesedése érdekében egy olyan, a régióban is innovatívnak számító operációs helyiség (úgynevezett „hibrid műtő”) kialakítása, ahol egyazon időben, a beteg mozgatása nélkül, műtői körülmények között, katéteres és műtéti módszerek kombinációjával lehet elérni az optimális eredményt. |
-
-| 3. | Országos Onkológiai Intézet | 895 350 000 | A projekt célja a tüdőtranszplantáció tárgyi feltételeinek magyarországi kialakítása. |
-
-| 4. | Egyesített Szent István és Szent László Kórház-Rendelőintézet | 100 000 000 | A projekt célja a kórház onkológiai ellátásának korszerűsítése. Ennek keretében korszerűsítik a kórház épületét az onkológiai fekvő- és járóbeteg ellátás feltételeinek javítása érdekében. A beruházás eredményeként az intézmény teljes onkológiai ellátórendszere korszerű, az ellátás biztonságát és a betegek komfortját növelő kubatúrába kerül áthelyezésre. A beruházás magában foglalja az épület jelenlegi funkciójának kiváltását is. |
-
-| 5. | Összesen: | 1 801 800 000 |  |
-
-[^1]: Az 1. pont a) alpontja az 1004/2015. (I. 15.) Korm. határozat 2. pontjával megállapított szöveg.
-[^2]: A 3/A. pontot az 1004/2015. (I. 15.) Korm. határozat 3. pontja iktatta be.
-[^3]: A 4. pont az 1004/2015. (I. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^4]: Az 5. pontot az 1004/2015. (I. 15.) Korm. határozat 6. pontja visszavonta.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet az 1004/2015. (I. 15.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: Az 1. pont a) alpontja az 1004/2015. (I. 15.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: Az 1. pont b) alpontját az 1359/2015. (VI. 2.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
+[^4]: A 2–3. pontot az 1359/2015. (VI. 2.) Korm. határozat 4. pont b) alpontja hatályon kívül helyezte.
+[^5]: A 3/A. pontot az 1004/2015. (I. 15.) Korm. határozat 3. pontja iktatta be.
+[^6]: A 4. pont az 1359/2015. (VI. 2.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: Az 5. pontot az 1004/2015. (I. 15.) Korm. határozat 6. pontja visszavonta.
+[^8]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet az 1004/2015. (I. 15.) Korm. határozat 5. pontja, az 1359/2015. (VI. 2.) Korm. határozat 3. pontja és 4. pont c) alpontja szerint módosított szöveg.
