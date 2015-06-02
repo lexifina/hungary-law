@@ -10,7 +10,7 @@
 
 ## Felelős: honvédelemért felelős miniszter
 
-## Határidő: 2015. május 31.
+## Határidő: 2015. december 31.
 
 ## 2. felhívja a honvédelemért felelős minisztert, valamint a nemzetgazdaságért felelős minisztert, hogy a Magyar Honvédség közvetlen légi támogatási képességének biztosításához 2015. évben szükséges, legfeljebb 1700,0 millió forint összegű forrásnak a központi költségvetés tervezése során a Honvédelmi Minisztérium fejezetben történő biztosításáról gondoskodjanak;
 
@@ -80,4 +80,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1676/2014. (XI. 20.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1354/2015. (VI. 2.) Korm. határozat 5. pontja szerint módosított szöveg.
