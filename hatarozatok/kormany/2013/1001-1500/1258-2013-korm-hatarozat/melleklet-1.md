@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2015. október 20.[^1]
+## Határidő: 2016. június 30.[^2]
 
 1. melléklet az 1258/2013. (V. 10.) Korm. határozathoz
 
@@ -98,4 +98,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A határozat az 1025/2014. (I. 30.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A határozat az 1354/2015. (VI. 2.) Korm. határozat 2. pontja szerint módosított szöveg.
