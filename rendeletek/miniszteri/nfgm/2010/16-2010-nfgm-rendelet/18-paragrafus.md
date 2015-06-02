@@ -1,1 +1,0 @@
-## 10. Az ipari és mezőgazdasági gázfogyasztó készülékek megfelelőségének tanúsítási, illetve jóváhagyási rendjére és forgalomba hozatalára vonatkozó szabályokról szóló 13/2004. (II. 13.) GKM rendelet módosítása
