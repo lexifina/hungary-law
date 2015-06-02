@@ -20,7 +20,7 @@
 
 ## Határidő: 2015. január 1.
 
-## 8. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva az egyszerűsített honosítási eljáráshoz kapcsolódó többletfeladatokhoz szükséges források biztosítása érdekében 389,6 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
+## 8.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva az egyszerűsített honosítási eljáráshoz kapcsolódó többletfeladatokhoz szükséges források biztosítása érdekében 389,6 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -38,7 +38,7 @@
 
 ## külgazdasági és külügyminiszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. június 30., a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
 
 ## 9. jóváhagyja, hogy az egyszerűsített honosítási eljáráshoz kapcsolódó többletfeladatok ellátása érdekében az informatikai és egyéb tárgyi eszközök amortizációja miatt szükségessé vált beszerzések tekintetében a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
@@ -139,3 +139,5 @@
 | Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 389,6 |  |  |  |  |  |  |  |  |  |  |  | 389,6 |
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 8. pont az 1354/2015. (VI. 2.) Korm. határozat 9. pontja szerint módosított szöveg.
