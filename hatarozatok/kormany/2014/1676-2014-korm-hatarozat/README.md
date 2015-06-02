@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1676-30
 | --- | --- | --- |
 | 2014-11-20 | 2014-1676-30-22.1 | 1676/2014. (XI. 20.) Korm. határozat |
 | 2014-11-21 | 2014-1676-30-22.2 | 2010: CXXX. törvény |
+| 2015-06-02 | 2014-1676-30-22.3 | 1354/2015. (VI. 2.) Korm. határozat |
