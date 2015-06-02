@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1426-30
 | 2014-12-05 | 2014-1426-30-22.4 | 1457/2014. (VIII. 14.) Korm. határozat |
 | 2015-03-24 | 2014-1426-30-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-05-13 | 2014-1426-30-22.6 | 1298/2015. (V. 13.) Korm. határozat |
+| 2015-06-02 | 2014-1426-30-22.7 | 1298/2015. (V. 13.) Korm. határozat |
