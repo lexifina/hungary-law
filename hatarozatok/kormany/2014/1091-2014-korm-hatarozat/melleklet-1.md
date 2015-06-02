@@ -28,7 +28,7 @@
 
 ## erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. január 30.; a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Kiemelt célú beruházások támogatása alcím, 2. Egyedi kormánydöntésen alapuló közlekedési beruházások jogcímcsoport javára átcsoportosított 350,0 millió forint, a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 100,0 millió forint és a XI. Miniszterelnökség fejezet, 10. Magyar Nyelvstratégiai Intézet cím részére átcsoportosított 100,0 millió forint tekintetében 2015. június 30., a XVIII. Külügyminisztérium cím, 1. Külügyminisztérium központi igazgatása alcím részére átcsoportosított 10,0 millió forint és a XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím részére átcsoportosított 50,0 millió forint tekintetében 2015. december 31.
+## Határidő: 2015. január 30.; a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére átcsoportosított 100,0 millió forint és a XI. Miniszterelnökség fejezet, 10. Magyar Nyelvstratégiai Intézet cím részére átcsoportosított 100,0 millió forint tekintetében 2015. június 30., a XVIII. Külügyminisztérium cím, 1. Külügyminisztérium központi igazgatása alcím részére átcsoportosított 10,0 millió forint és a XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím részére átcsoportosított 50,0 millió forint tekintetében 2015. december 31., a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 31. Kiemelt célú beruházások támogatása alcím, 2. Egyedi kormánydöntésen alapuló közlekedési beruházások jogcímcsoport javára átcsoportosított 350,0 millió forint tekintetében 2016. június 30.
 
 ## 3. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva az Eszterháza Kulturális, Kutató- és Fesztiválközpont létrehozása érdekében
 
@@ -96,4 +96,4 @@ XX. Emberi Erőforrások Minisztériuma
 
 XXXIII. Magyar Tudományos Akadémia
 
-[^1]: A 2. pont az 1298/2015. (V. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1354/2015. (VI. 2.) Korm. határozat 3. pontja szerint módosított szöveg.
