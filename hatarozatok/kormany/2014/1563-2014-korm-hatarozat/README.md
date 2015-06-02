@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1563-30
 | --- | --- | --- |
 | 2014-10-02 | 2014-1563-30-22.1 | 1563/2014. (X. 2.) Korm. határozat |
 | 2014-10-03 | 2014-1563-30-22.2 | 2010: CXXX. törvény |
+| 2015-06-02 | 2014-1563-30-22.3 | 1354/2015. (VI. 2.) Korm. határozat |
