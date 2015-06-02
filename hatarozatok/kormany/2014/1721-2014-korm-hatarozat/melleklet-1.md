@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 4157,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
+## 2.[^1] A Kormány az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 4157,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,7 +18,7 @@
 
 ## Felelős: igazságügyi miniszter, Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. június 30., a XI. Miniszterelnökség fejezet, 22. Nemzeti Kommunikációs Hivatal címet érintő átcsoportosítás tekintetében 2015. december 31.
 
 ## 3. A Kormány az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a kormányzati infokommunikációs szolgáltatások finanszírozásához és az ebr42 önkormányzati információs rendszer működtetéséhez
 
@@ -46,15 +46,16 @@
 
 ## Határidő: azonnal
 
-## 4–5.[^1]
+## 4–5.[^2]
 
 ## 6. A Kormány egyetért azzal, hogy az állami tankönyvfejlesztés és kiadás feltételeinek megteremtése érdekében a rendkívüli kormányzati intézkedésre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1158/2014. (III. 20.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 6. Egyéb oktatási intézmények cím, 2. Oktatáskutató és Fejlesztő Intézet alcím javára átcsoportosított összesen 1 306 369 ezer forintból 450 115 ezer forint a K1. Személyi juttatások kiemelt előirányzat, 123 839 ezer forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat, 338 775 ezer forint a K3. Dologi kiadások kiemelt előirányzat, 393 640 ezer forint a K6. Beruházások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
 ## 7. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1052/2014. (II. 11.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 6. Nemzeti Sírkerthez és Emlékhelyekhez kapcsolódó kiadások jogcímcsoport javára átcsoportosított 250,0 millió forintból 1,9 millió forint a K3. Dologi kiadások, 1,3 millió forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 8–9.[^2]
+## 8–9.[^3]
 
 1. melléklet az 1721/2014. (XII. 5.) Korm. határozathoz
 
-[^1]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1354/2015. (VI. 2.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8–9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
