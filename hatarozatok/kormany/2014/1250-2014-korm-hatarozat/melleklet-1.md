@@ -10,7 +10,7 @@
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2015. június 30.[^1]
+## Határidő: 2016. június 30.[^1]
 
 1. melléklet az 1250/2014. (IV. 18.) Korm. határozathoz
 
@@ -82,4 +82,4 @@ Költségvetési év: 2014.
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A határozat az 1676/2014. (XI. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: A határozat az 1354/2015. (VI. 2.) Korm. határozat 4. pontja szerint módosított szöveg.
