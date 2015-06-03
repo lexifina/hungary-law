@@ -242,21 +242,21 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 45,79 | 0,00 | 89,76 | 135,55 |
+| 3. | 45,95 | 0,00 | 93,26 | 139,21 |
 
-| 4. | Többletkötelezettség-vállalás: 8,06 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 11,56 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 0% |
 
 4.2.2. A kötelezettségvállalás
 
-|  | A | B | C | D |
+|  | A | B | C |
 
 | 1. | Indikatív forrásallokáció (Mrd Ft, folyó áron, 296,9 forint/euró árfolyamon) |
 
 | 2. | 2007–2014. | 2014–2015. | Összesen |
 
-| 3. | 145,60 | 32,09 | 177,69 |
+| 3. | 172,09 | 9,10 | 181,19 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -272,7 +272,7 @@
 
 | 4. | 4.3.0 | Megújuló energia alapú térségfejlesztés | 1,58 | 0,00 | 0,00 | Megújuló energiaforrás-felhasználás térségfejlesztő hatással, mintaprojekt jelleggel. | nemzeti fejlesztési miniszter | – |
 
-| 5. | 4.4.0 | Megújuló energia alapú villamosenergia-, kapcsolt hő és villamosenergia-, valamint biometán termelés | 14,73 | 0,00 | 0,00 | Villamosenergia-előállítás napenergia, biomassza segítségével, vízenergia hasznosítása, biogáztermelés és felhasználás, geotermális energia hasznosítása, szélenergia hasznosítása, megújuló energiaforrások kombinálása. | nemzeti fejlesztési miniszter | – |
+| 5. | 4.4.0 | Megújuló energia alapú villamosenergia-, kapcsolt hő és villamosenergia-, valamint biometán termelés | 14,89 | 0,00 | 0,00 | Villamosenergia-előállítás napenergia, biomassza segítségével, vízenergia hasznosítása, biogáztermelés és felhasználás, geotermális energia hasznosítása, szélenergia hasznosítása, megújuló energiaforrások kombinálása. | nemzeti fejlesztési miniszter | – |
 
 | 6. | 4.7.0 | Geotermikus alapú hő-, illetve villamosenergia-termelő projektek előkészítési és projektfejlesztési tevékenységeinek támogatása | 0,62 | 0,00 | 0,00 | Geotermális projektek előkészítése. | nemzeti fejlesztési miniszter | – |
 
@@ -280,9 +280,11 @@
 
 | 8. | 4.10.0 | Megújuló energiaforrás alapú hő- és villamosenergia-termelés | 0,00 | 0,00 | 89,76 | Napenergia (használati melegvíz, fűtési igény), biomassza (használati melegvíz, fűtési igény), biogáz-, depóniagáz-előállítás, geotermikus energia használata, hőszivattyús rendszerek kialakítása, hűtés megújuló energiaforrással, megújuló energiaforrások kombinálása, megújuló energiaforrások közösségi távfűtő rendszerben történő hasznosítása, villamos energia előállítása megújuló energiaforrásból (kivéve az értékesítési célú napelem-beruházások, vállalkozások részére). | nemzeti fejlesztési miniszter | belügyminiszter |
 
+| 9. | 4.11.0 | Napelemes rendszer fejlesztése költségvetési és állami szervek villamos-energia költségének csökkentése érdekében | 0,00 | 0,00 | 3,50 | A konstrukció célja napelemes rendszer fejlesztése költségvetési és állami szervek villamos-energia költségének csökkentése érdekében. | nemzeti fejlesztési miniszter | – |
+
 4.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 4.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-4.3.3. A 4.3.1. pontban foglalt táblázat 5. és 8. sora szerinti 4.4.0 és 4.10.0 konstrukció 8,06 Mrd Ft többletkötelezettség-vállalást tartalmaz.
+4.3.3. A 4.3.1. pontban foglalt táblázat 5., 8. és 9. sora szerinti 4.4.0, 4.10.0 és 4.11.0 konstrukció 11,56 Mrd Ft többletkötelezettség-vállalást tartalmaz.
 
 5. Az 5. prioritás: Hatékony energia-felhasználás
 
@@ -298,9 +300,9 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 26,74 | 63,14 | 46,09 | 135,97 |
+| 3. | 26,51 | 64,75 | 63,58 | 154,84 |
 
-| 4. | Többletkötelezettség-vállalás: 42,24 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 61,12 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 0% |
 
@@ -312,7 +314,7 @@
 
 | 2. | 2007–2015. | 2015. hátralevő | Összesen |
 
-| 3. | 170,52 | 27,07 | 197,59 |
+| 3. | 170,41 | 46,06 | 216,47 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -324,19 +326,17 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 5.4.0 | Távhő-szektor energetikai korszerűsítése | 26,74 | 0,00 | 0,00 | Távhőellátás energiahatékonysági korszerűsítése. | nemzeti fejlesztési miniszter | – |
+| 3. | 5.4.0 | Távhő-szektor energetikai korszerűsítése | 26,51 | 0,00 | 0,00 | Távhőellátás energiahatékonysági korszerűsítése. | nemzeti fejlesztési miniszter | – |
 
-| 4. | 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 63,14 | 0,50 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
+| 4. | 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 64,75 | 0,50 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
 
-| 5. | 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 36,09 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
+| 5. | 5.6.0 | Központi költségvetési szervek energiahatékonysági beruházásai | 0,00 | 0,00 | 46,00 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
 
-| 6. | 5.7.0 | Középületek kiemelt jelentőségű épületenergetikai fejlesztése | 0,00 | 0,00 | 9,00 | Középületek hőtechnikai adottságainak javítása. | nemzeti fejlesztési miniszter | – |
-
-| 7. | – | Tartaléksor | 0,00 | 0,00 | 0,50 | – | – | – |
+| 6. | 5.7.0 | Középületek kiemelt jelentőségű épületenergetikai fejlesztése | 0,00 | 0,00 | 17,08 | Középületek hőtechnikai adottságainak javítása. | nemzeti fejlesztési miniszter | – |
 
 5.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében az 5.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-5.3.3. Az 5.3.1. pontban foglalt táblázat 3–6. sora szerinti 5.4.0, 5.5.0, 5.6.0 és 5.7.0 konstrukció 42,24 Mrd Ft többletkötelezettség-vállalást tartalmaz.
+5.3.3. Az 5.3.1. pontban foglalt táblázat 3–6. sora szerinti 5.4.0, 5.5.0, 5.6.0 és 5.7.0 konstrukció 61,12 Mrd Ft többletkötelezettség-vállalást tartalmaz.
 
 6. A 6. prioritás: Fenntartható életmód és fogyasztás
 
@@ -414,7 +414,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 4,52 | 17,45 | 16,41 | 38,38 |
+| 3. | 4,17 | 17,45 | 16,83 | 38,45 |
 
 | 4. | Többletkötelezettség-vállalás: 2,27 Mrd Ft |
 
@@ -428,7 +428,7 @@
 
 | 2. | 2007–2015. | 2015. hátralévő | Összesen |
 
-| 3. | 59,14 | 9,55 | 68,69 |
+| 3. | 58,25 | 10,44 | 68,69 |
 
 7.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -440,17 +440,19 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 7.0.0 | Projekt előkészítés kétfordulós pályázatokban | 2,02 | 0,00 | 0,00 | Megvalósítási projektek előkészítése. | nemzeti fejlesztési miniszter | belügyminiszter, földművelésügyi miniszter |
+| 3. | 7.0.0 | Projekt előkészítés kétfordulós pályázatokban | 1,67 | 0,00 | 0,00 | Megvalósítási projektek előkészítése. | nemzeti fejlesztési miniszter | belügyminiszter, földművelésügyi miniszter |
 
-| 4. | 7.1.0 | Derogációs vízi közmű projektek előkészítése | 2,50 | 0,00 | 2,54 | – részletes megvalósíthatósági tanulmány és költség-haszon elemzés (CBA) készítése, – elvi, illetve műszaki engedélyes tervek készítése, – környezeti hatásvizsgálat, illetve előzetes vizsgálat, Natura2000 hatásbecslés engedélyeztetése, – tenderdokumentáció készítése, – kapcsolódó menedzsmentköltség, – lakosság tájékoztatása | nemzeti fejlesztési miniszter | belügyminiszter |
+| 4. | 7.1.0 | Derogációs vízi közmű projektek előkészítése | 2,50 | 0,00 | 1,80 | – részletes megvalósíthatósági tanulmány és költség-haszon elemzés (CBA) készítése, – elvi, illetve műszaki engedélyes tervek készítése, – környezeti hatásvizsgálat, illetve előzetes vizsgálat, Natura2000 hatásbecslés engedélyeztetése, – tenderdokumentáció készítése, – kapcsolódó menedzsmentköltség, – lakosság tájékoztatása | nemzeti fejlesztési miniszter | belügyminiszter |
 
-| 5. | 7.9.0 | Stratégiai tervezés | 0,00 | 17,45 | 5,87 | Megalapozó szakmapolitikai és támogatási stratégia készítése, nagyprojekt előkészítés a környezetvédelem és az energetika területén. | nemzeti fejlesztési miniszter | belügyminiszter, földművelésügyi miniszter |
+| 5. | 7.9.0 | Stratégiai tervezés | 0,00 | 17,45 | 4,13 | Megalapozó szakmapolitikai és támogatási stratégia készítése, nagyprojekt előkészítés a környezetvédelem és az energetika területén. | nemzeti fejlesztési miniszter | belügyminiszter, földművelésügyi miniszter |
 
 | 6. | 7.11.0 | Projekt előkészítés a 20142020. tervezési időszakra | 0,00 | 0,00 | 2,00 | A beruházási projektek előkészítése a 2014–2020 programozási időszakra. | nemzeti fejlesztési miniszter | belügyminiszter |
 
 | 7. | 7.12.0 | Az ivóvízminőség-javító projektek műszaki-gazdasági előkészítéséhez szükséges szakmai háttér-dokumentáció és adatállomány elkészítése | 0,00 | 0,00 | 4,00 | Az ivóvízminőség-javító projektek műszaki-gazdasági előkészítéséhez szükséges szakmai háttér-dokumentáció és adatállomány elkészítése. | nemzeti fejlesztési miniszter | – |
 
 | 8. | 7.13.0 | Egyházi épületek 2014–2020 időszakban megvalósuló energiahatékonysági fejlesztéseinek előkészítése | 0,00 | 0,00 | 2,00 | Egyházi épületek energetikai fejlesztésére irányuló beruházási projektek előkészítése a 20142020 programozási időszakra. | nemzeti fejlesztési miniszter | – |
+
+| 9. | 7.14.0 | Kormányhivatalok és Minisztériumok 2014–2020 időszakban megvalósuló energiahatékonysági fejlesztéseinek előkészítése | 0,00 | 0,00 | 2,90 | A konstrukció célja a kormányhivatalok és minisztériumok épületeinek energetikai fejlesztésére irányuló beruházási projektek előkészítése a 2014–2020 programozási időszakra. | nemzeti fejlesztési miniszter | – |
 
 7.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 7.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
@@ -507,4 +509,4 @@
 [^1]: Az 1. pont d) alpontját az 1181/2015. (III. 25.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 1. pont e) alpontját az 1181/2015. (III. 25.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja szerint módosított szöveg.
