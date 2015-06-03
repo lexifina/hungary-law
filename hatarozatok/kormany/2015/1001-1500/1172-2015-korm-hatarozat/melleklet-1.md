@@ -22,7 +22,7 @@
 
 ## 4.[^1]
 
-1. melléklet az 1172/2015. (III. 24.) Korm. határozathoz
+1. melléklet az 1172/2015. (III. 24.) Korm. határozathoz[^2]
 
 ## A TÁRSADALMI MEGÚJULÁS OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -200,9 +200,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 11,53 | 119,72 | 26,76 | 23,83 | 1,39 | 183,23 |
+| 3. | 11,53 | 119,72 | 26,76 | 23,83 | 5,06 | 186,90 |
 
-| 4. | Többletkötelezettség-vállalás: 18,69 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 22,36 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85 % |
 
@@ -214,7 +214,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 222,79 | 14,88 | 20,45 | 258,12 |
+| 3. | 222,79 | 14,88 | 24,12 | 261,79 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -250,7 +250,7 @@
 
 | 14. | 3.1.9-11/1 | Diagnosztikus mérések fejlesztése | 0,71 | 0,00 | 0,00 | 0,19 | 0,00 | A konstrukció célja, hogy az oktatásirányítás, a nevelési-oktatási intézmények és a pedagógusok számára teljes körben hozzáférhető, szabadon használható mérőeszközök, módszertani útmutatók és továbbképzések jöjjenek létre. | emberi erőforrások minisztere |  |
 
-| 15. | 3.1.10 | Helyi oktatásirányítás fejlesztése | 0,00 | 5,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja a helyi oktatásirányítás fejlesztése, az oktatási rendszer hatékonyságának javítását célzó fejlesztések támogatása. | emberi erőforrások minisztere |  |
+| 15. | 3.1.10 | Helyi oktatásirányítás fejlesztése | 0,00 | 5,00 | 0,00 | 0,00 | 1,11 | A konstrukció célja a helyi oktatásirányítás fejlesztése, az oktatási rendszer hatékonyságának javítását célzó fejlesztések támogatása. | emberi erőforrások minisztere |  |
 
 | 16. | 3.1.11 | Óvodafejlesztés | 0,00 | 5,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja a nemzeti köznevelésről szóló törvénnyel összhangban a magyar óvodapedagógia strukturális feltételrendszerének továbbfejlesztése olyan támogatórendszerek segítségével, amelyek illeszthetőek a jelenlegi óvodai hálózat intézményrendszeréhez, ugyanakkor a társadalmi folyamatok szükségszerűségeire is reagálnak. | emberi erőforrások minisztere |  |
 
@@ -267,6 +267,8 @@
 | 22. | 3.1.17 | Az egyházak köznevelési feladatainak támogatása | 0,00 | 0,00 | 0,00 | 2,00 | 0,00 | A konstrukció célja, hogy a bevett egyházak fenntartásában lévő köznevelési intézmények egyenlő esélyeket biztosító, hatékony és minőségi köznevelési szolgáltatásokat biztosítsanak. Ennek érdekében a konstrukció keretében a bevett egyházak – mint intézményfenntartók – hatékonyabb szervezetrendszerének kialakítására és irányítási, módszertani, minőségbiztosítási kompetenciáinak fejlesztésére kerül sor. | emberi erőforrások minisztere |  |
 
 | 23. | 3.1.19 | Tartalmi- módszertani fejlesztés, valamint pedagógus- továbbképzés a mindennapos testnevelés terén | 0,00 | 0,00 | 0,00 | 1,40 | 0,00 | A konstrukció célja a mindennapos testneveléshez kapcsolódóan az egészséges életmódra nevelés elősegítése az erőnléti és állóképesség-javító programok fejlesztésével. A konstrukció keretében kerülnek kialakításra és kipróbálásra az on-line szakmódszertani segítségnyújtás és mentorálás rendszerei és kísérleti jelleggel a csapatsport utánpótlás-neveléshez kapcsolódó pedagógus-továbbképzési tananyagok és képzések a mindennapos testnevelést végző szaktanárok részére, különösen a kiemelt csapatsportágak tekintetében (pl. kézilabda, vízilabda, kosárlabda). A konstrukció kiemelt figyelmet fordít a többségében roma fiatalok számára sportolási lehetőséget, programokat szervező intézményekre, szaktanárokra. | emberi erőforrások minisztere |  |
+
+| 23a. | 3.1.20 | Iosephinum köznevelési szolgáltatásainak fejlesztése | 0,00 | 0,00 | 0,00 | 0,00 | 0,60 | A konstrukció célja a rekreációhoz kapcsolódó tudományos kutatások, képzések, továbbképzések szervezése, lebonyolítása. | emberi erőforrások minisztere | – |
 
 | 24. | 3.2.1.A | Közoktatási intézmények szerepbővítése, újszerű intézményi együttműködések kialakítása (tanulást segítő támogató formák bevezetése) | 0,00 | 1,30 | 0,00 | 0,00 | 0,00 | A konstrukció célja a közoktatási intézmények támogatása új tanulási formák adaptálására, informális, non-formális tanulási lehetőségek kialakítására, új típusú intézményi együttműködések támogatása. További cél a hagyományos, formális intézményi keretek között nem, illetve nem könnyen oktatható tanulók számára olyan – az egyéni igényekre, szükségletekre szabott – tanulási formák kialakítása, amely elvezeti a tanulót a sikeres iskolai végzettség, szakmai tudás megszerzéséhez. | emberi erőforrások minisztere |  |
 
@@ -289,6 +291,8 @@
 | 33. | 3.2.14 | Egységes Nemzeti Oktatási és Kulturális Térinformációs Rendszer létrehozása | 0,00 | 0,50 | 0,00 | 0,00 | 0,09 | A konstrukció célja a közoktatást támogató oktatási és kulturális térinformációs rendszer létrehozása, amely a formális és non-formális, valamint az informális tanuláshoz egységes, nemzeti kulturális értékeket és digitális tartalmakat biztosító rendszert hoz létre, kapcsolódva a nemzeti alaptantervhez, kiegészítve és hatékonyabbá téve a formális oktatást, továbbá a szolgáltatáshoz kapcsolódó módszertani megalapozással, a képzések kidolgozásával, lebonyolításával segíti a széles körű hasznosulást. | emberi erőforrások minisztere |  |
 
 | 34. | 3.2.15 | Hagyományőrzés az országosan kiemelt térségekben | 0,00 | 0,00 | 0,00 | 0,00 | 1,00 | A konstrukció célja egy olyan módszertani intézményhálózat kialakítása, amely a kulturális intézmények bázisán elősegíti a területfejlesztési szempontból kiemelt térségekben a hagyományos gazdasági, társadalmi és kulturális örökség megőrzését, illetve újraéledését. A konstrukció keretében a köznevelési feladatokhoz kapcsolódóan tartalomfejlesztési, továbbképzési, módszertani és adatgyűjtési feladatok is megvalósulnak. | emberi erőforrások minisztere |  |
+
+| 34a. | 3.2.16. | Könyvtári digitális tartalmak online elérhetőségének javítása | 0,00 | 0,00 | 0,00 | 0,00 | 0,07 | A konstrukció célja az Országos Széchenyi Könyvtár digitalizált könyvtári állományából a Nemzeti alaptantervhez illeszkedő tartalmak online elérhetőségének javítása a köznevelési intézmények számára. | emberi erőforrások minisztere | – |
 
 | 35. | 3.3.8.A | Közoktatási intézmények esélyegyenlőségi alapú fejlesztéseinek támogatása | 0,00 | 2,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja a halmozottan hátrányos helyzetű gyerekek, tanulók eredményes nevelését, oktatását szolgáló feltételek javítása, a közoktatási rendszer esélyteremtő és felzárkóztató szerepének növelése. További cél a halmozottan hátrányos helyzetű tanulók iskolai felzárkózását segítő modellértékű programok elterjesztése, továbbfejlesztése. | emberi erőforrások minisztere |  |
 
@@ -316,7 +320,9 @@
 
 | 47. | 3.3.16 | Szimfónia | 0,00 | 0,00 | 0,30 | 0,00 | 0,00 | A konstrukció célja a zenére, a hangszerek ismeretének elsajátítására, a muzikalitás javítására, az együtt zenélésre építve az általános iskolában tanuló, hátrányos helyzetű gyermekek és fiatalok társadalmi beilleszkedésének elősegítése, a társas kompetenciák és koncentrációs képességek fejlesztése. | emberi erőforrások minisztere |  |
 
-| 48. | 3.3.17 | Iskola a természetben | 0,00 | 0,00 | 0,00 | 0,60 | 0,00 | A konstrukció célja a hátrányos helyzetű településeken a tanulók – iskolai keretek közti – megismertetése a helyi természeti adottságban rejlő lehetőségekkel, különös tekintettel a mezőgazdasági ismeretekre. A konstrukció keretében nemzetközi referenciával bíró program hazai adaptációjára és ahhoz kapcsolódó módszertani fejlesztésre kerül sor. | emberi erőforrások minisztere |  |
+| 47a. | 3.3.16.B | Digitális Nemzeti Fejlesztési Program pilot jellegű megvalósítása | 0,00 | 0,00 | 0,00 | 0,00 | 1,00 | A konstrukció célja a hátrányos helyzetű tanulók oktatását és nevelését célzó programok pilot jellegű kipróbálása. | emberi erőforrások minisztere | – |
+
+| 48. | 3.3.17 | Iskola a természetben | 0,00 | 0,00 | 0,00 | 0,60 | 0,89 | A konstrukció célja a hátrányos helyzetű településeken a tanulók – iskolai keretek közti – megismertetése a helyi természeti adottságban rejlő lehetőségekkel, különös tekintettel a mezőgazdasági ismeretekre. A konstrukció keretében nemzetközi referenciával bíró program hazai adaptációjára és ahhoz kapcsolódó módszertani fejlesztésre kerül sor. | emberi erőforrások minisztere |  |
 
 | 49. | 3.4.1.A | Nemzetiségi tanulók nevelésének és oktatásának támogatása | 0,00 | 1,43 | 0,00 | 0,00 | 0,00 | A konstrukció célja, hogy a nemzetiségi oktatás számára a minőség javítását szolgáló oktatási programok álljanak rendelkezésre, amelyek hozzájárulnak a pedagógusok módszertani kultúrájának bővítéséhez a kompetenciaalapú oktatás módszertanával és eszközeivel, továbbá biztosítják a tanulók eltérő nyelvi adottságaira épülve a képességek és kulcskompetenciák egyénre szabott fejlesztését és megerősítését. | emberi erőforrások minisztere |  |
 
@@ -332,7 +338,7 @@
 
 | 55. | 3.4.5-12 | Tehetséghidak Program | 0,00 | 1,98 | 0,00 | 1,20 | 0,00 | A konstrukció célja az iskolai és iskolán kívüli tehetségsegítés és tehetséggondozás feltételrendszerének javítása révén a tehetséges gyerekekkel, fiatalokkal való kiemelt foglalkozás, továbbá az esélynövelést szolgáló tehetséggondozás hosszú távú, ágazatközi együttműködésen alapuló feltételeinek megteremtése. | emberi erőforrások minisztere |  |
 
-| 56. | Összesen | 11,53 | 119,72 | 26,76 | 23,83 | 1,39 |  |  |  |
+| 56. | Összesen | 11,53 | 119,72 | 26,76 | 23,83 | 5,06 |  |  |  |
 
 4. A 4. prioritás: A felsőoktatás tartalmi és szervezeti fejlesztése, a tudásalapú gazdaság kiépítése érdekében
 
@@ -352,9 +358,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 44,11 | 41,21 | 5,91 | 12,54 | 3,81 | 107,58 |
+| 3. | 44,11 | 41,21 | 5,91 | 12,54 | 11,26 | 115,03 |
 
-| 4. | Többletkötelezettség-vállalás: 15,72 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 23,17 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85 % |
 
@@ -366,7 +372,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 167,33 | 6,43 | 14,68 | 188,44 |
+| 3. | 167,33 | 6,43 | 22,13 | 195,89 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -386,7 +392,7 @@
 
 | 6. | 4.1.1.F | A felsőoktatási szakképzés területi társadalmi és gazdasági szerepének fejlesztése | 0,00 | 0,00 | 2,36 | 0,00 | 0,00 | A konstrukció általános célja a felsőoktatási intézmények gazdasági fejlődésben vállalt szerepének erősítése: 1. helyi szinten, a kormányzati, szak- és felnőttképzési, valamint a gazdasági szereplőkkel való együttműködés, 2 a munkaerőpiac-orientált, vállalkozói kompetenciák fejlesztésére irányuló képzési elemek bevezetése, 3. a képzés duális rendszerűvé alakítása, 4. a hallgatók számára a felsőoktatási képzések mellett, illetve a lemorzsolódó hallgatók számára a helyett szakmai és felnőttképzési programok biztosítása. | emberi erőforrások minisztere |  |
 
-| 7. | 4.1.1.F-14 | A felsőoktatás területi társadalmi és gazdasági szerepének fejlesztése | 0,00 | 0,00 | 0,00 | 0,00 | 2,20 | A konstrukció célja a felsőoktatási képzés eredményességének növelése a gyakorlatorientáltság növelésével, továbbá a gazdasági, szakképzési és felsőoktatási szereplőkkel való együttműködés megerősítésén keresztül. További cél a vertikális együttműködések kialakítása és fejlesztése. | emberi erőforrások minisztere |  |
+| 7. | 4.1.1.F-14 | A felsőoktatás területi társadalmi és gazdasági szerepének fejlesztése | 0,00 | 0,00 | 0,00 | 0,00 | 3,21 | A konstrukció célja a felsőoktatási képzés eredményességének növelése a gyakorlatorientáltság növelésével, továbbá a gazdasági, szakképzési és felsőoktatási szereplőkkel való együttműködés megerősítésén keresztül. További cél a vertikális együttműködések kialakítása és fejlesztése. | emberi erőforrások minisztere |  |
 
 | 8. | 4.1.2.B2 | Pedagógusképzést segítő szolgáltató és kutatóhálózatok továbbfejlesztése, országos komponens | 0,00 | 6,41 | 0,00 | 0,00 | 0,00 | A konstrukció célja a felsőoktatási pedagógus- és tanárképzés, továbbképzés minőségének fejlesztése, a pedagógus- és tanárképzés felsőoktatási hálózatának országos továbbfejlesztése. | emberi erőforrások minisztere |  |
 
@@ -400,9 +406,9 @@
 
 | 13. | 4.1.3-11/1 | Felsőoktatási szolgáltatások rendszerszintű fejlesztése, 2. ütem | 1,48 | 0,00 | 0,00 | 0,09 | 0,00 | A konstrukció célja az ágazati informatikai, képzési és hallgatói szolgáltatásfejlesztés. | emberi erőforrások minisztere |  |
 
-| 14. | 4.2.1.C | Tudás-Park A növekedési zónák tudástranszfer tevékenységének támogatása a felsőoktatási intézmények bevonásával | 0,00 | 0,00 | 0,00 | 5,00 | 0,00 | A konstrukció célja az innováció területén az állami-önkormányzati intézmények, a felsőoktatási-kutatási intézmények és a vállalatok együttműködésén alapuló hármas egység (triple helix) modell elterjesztése, illetve annak kiterjesztése a civil szereplők bevonásával a négyes egység (quadruple helix) modellre. A konstrukció további célja az adott térségben jelen lévő felsőoktatási és helyi önkormányzati kapacitásokra épülő együttműködések, non-profit tudás- és technológia-transzfert elősegítő szervezetek kialakítása, átalakítása és fejlesztése, amelyek multiplikátor hatást gyakorolhatnak a régió gazdasági versenyképességének erősítésében és K+F+I tevékenységének hasznosításában. | emberi erőforrások minisztere |  |
+| 14. | 4.2.1.C | Tudás-Park A növekedési zónák tudástranszfer tevékenységének támogatása a felsőoktatási intézmények bevonásával | 0,00 | 0,00 | 0,00 | 5,00 | 1,56 | A konstrukció célja az innováció területén az állami-önkormányzati intézmények, a felsőoktatási-kutatási intézmények és a vállalatok együttműködésén alapuló hármas egység (triple helix) modell elterjesztése, illetve annak kiterjesztése a civil szereplők bevonásával a négyes egység (quadruple helix) modellre. A konstrukció további célja az adott térségben jelen lévő felsőoktatási és helyi önkormányzati kapacitásokra épülő együttműködések, non-profit tudás- és technológia-transzfert elősegítő szervezetek kialakítása, átalakítása és fejlesztése, amelyek multiplikátor hatást gyakorolhatnak a régió gazdasági versenyképességének erősítésében és K+F+I tevékenységének hasznosításában. | emberi erőforrások minisztere |  |
 
-| 15. | 4.2.1.D | A társadalmi innováció, valamint a társadalom- és gazdaságtudományi kutatási hálózatok együttműködésének erősítése | 0,00 | 0,00 | 0,00 | 0,85 | 0,00 | A konstrukció célja a kutatási potenciál megerősítése a felsőoktatás harmadik missziójához kapcsolódó fejlesztésekhez kapcsolódóan, továbbá a felsőoktatási jelenlét biztosítása új, innovatív megoldásokkal az oktatás és a kutatás olyan területein, ahol a felsőoktatási szolgáltatások megjelenése hiánypótló. A konstrukció célja: 1. Hálózatfejlesztés a határ menti kreatív városi fejlesztésekhez és közép-európai nemzetközi kutatási kapcsolatok erősítéséhez kapcsolódóan. 2. Új típusú képzési kapacitások és (szakember-megtartó) formációk létrehozása a társadalmi-gazdasági válságfolyamatok megelőzése és kezelése érdekében, különösen a jelentős elvándorlással és társadalmi-gazdasági problémákkal terhelt területeken. | emberi erőforrások minisztere |  |
+| 15. | 4.2.1.D | A társadalmi innováció, valamint a társadalom- és gazdaságtudományi kutatási hálózatok együttműködésének erősítése | 0,00 | 0,00 | 0,00 | 0,85 | 2,01 | A konstrukció célja a kutatási potenciál megerősítése a felsőoktatás harmadik missziójához kapcsolódó fejlesztésekhez kapcsolódóan, továbbá a felsőoktatási jelenlét biztosítása új, innovatív megoldásokkal az oktatás és a kutatás olyan területein, ahol a felsőoktatási szolgáltatások megjelenése hiánypótló. A konstrukció célja: 1. Hálózatfejlesztés a határ menti kreatív városi fejlesztésekhez és közép-európai nemzetközi kutatási kapcsolatok erősítéséhez kapcsolódóan. 2. Új típusú képzési kapacitások és (szakember-megtartó) formációk létrehozása a társadalmi-gazdasági válságfolyamatok megelőzése és kezelése érdekében, különösen a jelentős elvándorlással és társadalmi-gazdasági problémákkal terhelt területeken. | emberi erőforrások minisztere |  |
 
 | 16. | 4.2.2.A | Nemzetközi közreműködéssel megvalósuló alap- és célzott alapkutatási projektek támogatása | 27,00 | 0,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja az innovatív alapkutatások és alapkutatási hálózatokba, projektekbe való bekapcsolódás támogatása. | emberi erőforrások minisztere |  |
 
@@ -410,7 +416,7 @@
 
 | 18. | 4.2.2.C | Előremutató Info- Kommunikációs Technológiák kutatásának támogatása, valamint a kapcsolódó IT szakember utánpótlás biztosítása | 9,08 | 0,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja az EU 7. és 8. Kutatási, Technológiafejlesztési és demonstrációs keretprogram (FP7, FP8), valamint az EU Digital Agenda célkitűzéseinek és zászlóshajó kezdeményezéseinek kiemelt infokommunikációs területeihez kapcsolódó kutatások és kutatási projektekbe való bekapcsolódás támogatása. | emberi erőforrások minisztere |  |
 
-| 19. | 4.2.2.D | Interdiszciplináris kutatói teamek felkészítése a nemzetközi programokban való részvételre az alapkutatás és a célzott alapkutatás területén | 0,00 | 0,00 | 0,00 | 3,00 | 0,00 | A konstrukció célja a felsőoktatáshoz kötődő alapkutatási potenciál és a felsőoktatás tudományos, fejlesztői eredményeinek növelése a tiszta alapkutatás és a célzott alapkutatás területén, kiemelten az interdiszciplináris kutatásokban való részvétel elősegítésével. További cél a nemzetközi programokban (pl. Horizont 2020) történő sikeres részvétel elősegítése a hálózatosodás és kapcsolatépítés ösztönzésével, kutatói teamek felkészítésével intézményenként egy meghatározott kutatás-fejlesztési, innovációs és oktatási irányba. | emberi erőforrások minisztere |  |
+| 19. | 4.2.2.D | Interdiszciplináris kutatói teamek felkészítése a nemzetközi programokban való részvételre az alapkutatás és a célzott alapkutatás területén | 0,00 | 0,00 | 0,00 | 3,00 | 2,87 | A konstrukció célja a felsőoktatáshoz kötődő alapkutatási potenciál és a felsőoktatás tudományos, fejlesztői eredményeinek növelése a tiszta alapkutatás és a célzott alapkutatás területén, kiemelten az interdiszciplináris kutatásokban való részvétel elősegítésével. További cél a nemzetközi programokban (pl. Horizont 2020) történő sikeres részvétel elősegítése a hálózatosodás és kapcsolatépítés ösztönzésével, kutatói teamek felkészítésével intézményenként egy meghatározott kutatás-fejlesztési, innovációs és oktatási irányba. | emberi erőforrások minisztere |  |
 
 | 20. | 4.2.3 | Tudományos eredmények elismerése és disszeminációja | 0,00 | 2,60 | 0,00 | 0,00 | 0,00 | A konstrukció célja a magyar tudomány és a műszaki, informatikai természettudományos fejlesztés hazai és nemzetközi elismertségének javítása, a tudományos eredmények és ismeretek hatékony átadása. | emberi erőforrások minisztere |  |
 
@@ -428,7 +434,7 @@
 
 | 27. | 4.2.6 | Egészség- tudományi, egészségipari innovációs környezet fejlesztése, szakmai hálózatosodás elősegítése | 0,00 | 0,00 | 0,00 | 1,00 | 0,00 | A konstrukció célja az egészségtudományi, egészségipari fejlesztések terén az egészségügyi, felsőoktatási, akadémiai, non-profit gazdasági és civil szervezetek egészségügyi, illetve egészségiparhoz kötődő kutatás-fejlesztési és innovációs tevékenységének támogatása, egészségügyi K+F+I projektek előkészítése, a szakmai hálózatosodás, valamint tudásmenedzsment és tudás-transzfer tevékenységek támogatása. Kiemelt cél az egészségügyi szolgáltatók K+F+I hálózatokban való működésének kiterjesztése, multicentrikus klinikai vizsgálatokban való részvételének elősegítése, az ehhez szükséges szervezeti- és kapacitásfejlesztések támogatása, új K+F+I irányítási és tudásmenedzsment formák kialakítása, illetve a meglévő szervezeti és intézményi megoldások továbbfejlesztése, amelyekben a „tudásháromszög” szereplői mind jelen vannak (felsőoktatás, akadémiai szféra–kutatási szervezetek, vállalatok). | emberi erőforrások minisztere |  |
 
-| 28. | Összesen | 44,11 | 41,21 | 5,91 | 12,54 | 3,81 |  |  |  |
+| 28. | Összesen | 44,11 | 41,21 | 5,91 | 12,54 | 11,26 |  |  |  |
 
 5. Az 5. prioritás: A társadalmi befogadás, részvétel erősítése
 
@@ -456,9 +462,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 37,44 | 43,28 | 5,39 | 3,73 | 0,30 | 90,14 |
+| 3. | 37,44 | 43,28 | 5,39 | 3,73 | 1,96 | 91,80 |
 
-| 4. | Többletkötelezettség-vállalás: 11,64 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 13,30 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85 % |
 
@@ -470,7 +476,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 127,63 | 8,70 | 7,90 | 144,23 |
+| 3. | 127,63 | 8,70 | 9,56 | 145,89 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -484,7 +490,7 @@
 
 | 3. | 5.1.1 | LHH kistérségek projektjei | 1,99 | 0,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja a leghátrányosabb helyzetű kistérségekben a társadalmi kohézió erősítése, a helyi közösségek fejlesztése, a társadalomból való kiszorulás megelőzése, a hátrányok továbbörökítésének elkerülése. | emberi erőforrások minisztere |  |
 
-| 4. | 5.2.1 | Gyerekesély program országos kiterjesztésének szakmai-módszertani megalapozása és a program kísérése | 0,00 | 1,86 | 0,00 | 0,00 | 0,00 | A konstrukció célja a Biztos Kezdet Gyerekházak és az integrált térségi gyerekprogramok (5.2.2, 5.2.3 és 5.2.3.A konstrukciók) szakmai és módszertani megalapozása, folyamat-támogatása. | emberi erőforrások minisztere |  |
+| 4. | 5.2.1 | Gyerekesély program országos kiterjesztésének szakmai-módszertani megalapozása és a program kísérése | 0,00 | 1,86 | 0,00 | 0,00 | 0,33 | A konstrukció célja a Biztos Kezdet Gyerekházak és az integrált térségi gyerekprogramok (5.2.2, 5.2.3 és 5.2.3.A konstrukciók) szakmai és módszertani megalapozása, folyamat-támogatása. | emberi erőforrások minisztere |  |
 
 | 5. | 5.2.3.A | Integrált térségi programok a gyerekek és családjaik felzárkózási esélyeinek növelésére | 3,40 | 7,21 | 0,00 | 0,00 | 0,00 | A konstrukció célja a szegénység, gyermekszegénység csökkentése helyi szükségletekre épülő gyermek- és ifjúsági politika kialakításával és megvalósításával a leghátrányosabb helyzetű kistérségekben. | emberi erőforrások minisztere |  |
 
@@ -494,9 +500,11 @@
 
 | 8. | 5.2.9 | Legyen más a szenvedélyed | 0,00 | 0,00 | 0,25 | 0,00 | 0,00 | A konstrukció célja a veszélyeztetett korosztály tagjainak káros szenvedélyektől való távol tartása prevenciós programok elterjesztését szolgáló akcióprogramok által és a re-integráció, re-szocializáció elősegítése. | emberi erőforrások minisztere |  |
 
+| 8a. | 5.2.9.B | Legyen más a szenvedélyed! 2. – Módszertani fejlesztések a drogprevenció területén | 0,00 | 0,00 | 0,00 | 0,00 | 1,00 | A konstrukció célja a drogprevenciós tevékenységek hatékonyságának javítását szolgáló fejlesztések megvalósítása, beleértve a szakmai személyzet felkészítését, képzését és kutatások lebonyolítását. | emberi erőforrások minisztere | – |
+
 | 9. | 5.2.10 | Kora-gyermekkori program a megfélemlítés megelőzésére | 0,00 | 0,00 | 0,00 | 0,45 | 0,00 | A kísérleti jellegű kezdeményezés egy olyan preventív módszertan kidolgozására és kipróbálására irányul, amelynek célja, hogy mind fiatalabb korban felkészítse a gyermekeket, szüleiket, továbbá a pedagógusokat, az érintett civil szervezetek munkatársait a zaklatás megelőzésére, kezelésére. | emberi erőforrások minisztere |  |
 
-| 10. | 5.3.1.B-1 | Roma emberek képzésbe ágyazott foglalkoztatása a szociális és gyermekjóléti ellátórendszerben | 1,33 | 0,00 | 0,19 | 0,00 | 0,00 | A konstrukció célja a társadalmi előítélettel és munkaerő-piaci diszkriminációval küzdő, munkanélküli roma emberek, elsősorban roma nők társadalmi befogadásának és foglalkoztatásának javítása, szociális és gyermekjóléti szakmákra való képzésük és ezen intézményekben történő foglalkoztatásuk előkészítése. | emberi erőforrások minisztere |  |
+| 10. | 5.3.1.B-1 | Roma emberek képzésbe ágyazott foglalkoztatása a szociális és gyermekjóléti ellátórendszerben | 1,33 | 0,00 | 0,19 | 0,00 | 0,23 | A konstrukció célja a társadalmi előítélettel és munkaerő-piaci diszkriminációval küzdő, munkanélküli roma emberek, elsősorban roma nők társadalmi befogadásának és foglalkoztatásának javítása, szociális és gyermekjóléti szakmákra való képzésük és ezen intézményekben történő foglalkoztatásuk előkészítése. | emberi erőforrások minisztere |  |
 
 | 11. | 5.3.1.B-2 | Roma emberek képzésbe ágyazott foglalkoztatása a szociális és gyermekjóléti ellátórendszerben | 0,00 | 1,40 | 0,00 | 0,00 | 0,00 | A konstrukció célja a társadalmi előítélettel és munkaerő-piaci diszkriminációval küzdő, munkanélküli roma emberek, elsősorban roma nők társadalmi befogadásának és foglalkoztatásának javítása, szociális és gyermekjóléti intézményekben történő foglalkoztatásuk támogatása. | emberi erőforrások minisztere |  |
 
@@ -528,7 +536,7 @@
 
 | 25. | 5.4.6.A | A fizikai és info-kommunikációs akadálymentesítés szakmai tudásának elterjesztése és hozzáférhető szolgáltatások fejlesztése | 0,50 | 0,10 | 0,00 | 0,00 | 0,00 | A konstrukció célja a fizikai és info-kommunikációs akadálymentesítés szakmai tudásának elterjesztése és hozzáférhető szolgáltatások fejlesztése. | emberi erőforrások minisztere |  |
 
-| 26. | 5.4.6.B | A fizikai és info-kommunikációs akadálymentesítés szakmai tudásának elterjesztése és hozzáférhető szolgáltatások fejlesztése | 0,00 | 0,33 | 0,00 | 0,00 | 0,00 | A konstrukció célja a magyar jelnyelvről és a magyar jelnyelv használatáról szóló törvény alapján indítandó felsőfokú szakember-képzési programhoz (jelnyelv szak, illetve bilingvális oktatás) szükséges tananyag-fejlesztés és a képzési programok indítása. | emberi erőforrások minisztere |  |
+| 26. | 5.4.6.B | A fizikai és info-kommunikációs akadálymentesítés szakmai tudásának elterjesztése és hozzáférhető szolgáltatások fejlesztése | 0,00 | 0,33 | 0,00 | 0,00 | 0,10 | A konstrukció célja a magyar jelnyelvről és a magyar jelnyelv használatáról szóló törvény alapján indítandó felsőfokú szakember-képzési programhoz (jelnyelv szak, illetve bilingvális oktatás) szükséges tananyag-fejlesztés és a képzési programok indítása. | emberi erőforrások minisztere |  |
 
 | 27. | 5.4.7 | Látássérült emberek elemi rehabilitációs szolgáltatásainak továbbfejlesztése | 0,00 | 1,20 | 0,00 | 0,00 | 0,00 | A konstrukció célja a látássérült emberek elemi rehabilitációs szolgáltatásainak továbbfejlesztése, minőségének javítása, a szolgáltatásokhoz való egyenlő esélyű hozzáférés fejlesztése. További cél az Országos Módszertani Központ létrehozása, valamint a vidéki elemi rehabilitációs hálózat bővítése, továbbfejlesztése. | emberi erőforrások minisztere |  |
 
@@ -552,7 +560,7 @@
 
 | 37. | 5.6.3 | Az elítéltek többszakaszos, társadalmi és munkaerő-piaci reintegrációja és az intenzív utógondozás modellje | 0,00 | 2,69 | 0,00 | 0,00 | 0,30 | A konstrukció célja egy olyan országos hatókörű re-integrációs program kialakítása és megvalósítása, amely a fogvatartottak szükségleteire építve, differenciáltan kínál egyéni megoldásokat a társadalmi és munkaerő-piaci visszailleszkedésre. | belügyminiszter | nemzetgazdasági miniszter |
 
-| 38. | Összesen | 37,44 | 43,28 | 5,39 | 3,73 | 0,30 |  |  |  |
+| 38. | Összesen | 37,44 | 43,28 | 5,39 | 3,73 | 1,96 |  |  |  |
 
 6. A 6. prioritás: Egészségmegőrzés és egészségügyi humánerőforrás-fejlesztés
 
@@ -572,9 +580,9 @@
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 0,00 | 26,71 | 34,56 | 6,95 | 0,25 | 68,47 |
+| 3. | 0,00 | 26,71 | 34,56 | 6,95 | 2,07 | 70,29 |
 
-| 4. | Többletkötelezettség-vállalás: 9,48 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 11,30 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: konvergencia régiók esetén 24,19 %, közép-magyarországi régió esetén 85 % |
 
@@ -586,7 +594,7 @@
 
 | 2. | 2007-2013. | 2014. | 2015. | Összesen |
 
-| 3. | 52,42 | 18,65 | 8,25 | 79,32 |
+| 3. | 52,42 | 18,65 | 10,07 | 81,14 |
 
 6.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -612,7 +620,7 @@
 
 | 9. | 6.1.4 | Koragyermekkori (0-7 év) program | 0,00 | 2,50 | 0,00 | 1,50 | 0,00 | A konstrukció célja azoknak a problémáknak az enyhítése, megszüntetése, amelyek a jelenlegi intézményrendszer hiányosságaiból, működési jellegzetességeiből fakadnak. A konstrukció olyan újszerű, kísérleti jellegű fejlesztéseket tartalmaz, amelyek javítják a jelenlegi szolgáltatások minőségét. A konstrukció középpontjában – mint közvetlen célcsoport – az egészségügyi alapellátás (védőnői szolgálat, a házi gyermekorvos, a gyermekeket is ellátó háziorvos) és a gyermekek szülei állnak. A konstrukció a 0-7 éves korosztály optimális fejlődésének komplex támogatását célozza meg. Magába foglalja a gyermekek fejlődését befolyásoló rizikó- és védőfaktorok felmérését, a gyermekek fejlődésének nyomon követését, az eltérő fejlődést mutató gyermekek kiszűrését, ezen kívül a szülők számára támogatást nyújt a gyermekük fejlődésének kibontakoztatásához és a felmerülő nevelési problémák megoldásához. A konstrukció „B” komponense keretében a konvergencia régiók vonatkozásában az elavult infrastruktúra és az alkalmazott módszertanok korszerűsítése révén további alapvető cél a gyermek-egészségügyi alapellátás különböző szegmensei szolgáltatás-minőségének javítása, beleértve az informatikai fejlesztéseket is. A konstrukció további célja a 0-7 év közötti gyermekek rendszeres és korszerű szűrővizsgálatban részesítése, a fejlődési rendellenességek korai felismerése. | emberi erőforrások minisztere |  |
 
-| 10. | 6.1.5 | Területi emberi erőforrás fejlesztési komplex programok támogatása | 0,00 | 0,00 | 2,87 | 4,00 | 0,00 | A konstrukció célja a területi komplex felzárkóztató program keretében – a szakképzési, szociális gazdasági fejlesztésekhez kapcsolódóan – az egészséges életmód, egészségszemlélet elterjesztése, az egészséges élettel kapcsolatos ismeretek beépítése a képzési és gazdasági tevékenységek körébe. | emberi erőforrások minisztere |  |
+| 10. | 6.1.5 | Területi emberi erőforrás fejlesztési komplex programok támogatása | 0,00 | 0,00 | 2,87 | 4,00 | 1,82 | A konstrukció célja a területi komplex felzárkóztató program keretében – a szakképzési, szociális gazdasági fejlesztésekhez kapcsolódóan – az egészséges életmód, egészségszemlélet elterjesztése, az egészséges élettel kapcsolatos ismeretek beépítése a képzési és gazdasági tevékenységek körébe. | emberi erőforrások minisztere |  |
 
 | 11. | 6.1.6 | Az egészségre nevelő és szemléletformáló életmódprogramok közvetítése a fogyasztóvédelmi intézkedések megfelelő racionalizálásával | 0,00 | 0,00 | 0,00 | 0,50 | 0,00 | A konstrukció célja az egészségre nevelő és szemléletformáló életmódprogramok közvetítése a fogyasztóvédelmi intézkedések racionalizálásával, a legjelentősebb egészségkockázati tényezők befolyásolása célzott megelőzési programokkal egyéni, közösségi és társadalmi szinten. A konstrukció további célja az egészséges életmódhoz szükséges ismeretek és készségek megszerzésének terjesztése és készségfejlesztő eszközök fejlesztése. | emberi erőforrások minisztere | nemzeti fejlesztési miniszter |
 
@@ -636,7 +644,7 @@
 
 | 21. | 6.2.8 | Sürgősségi Akadémia | 0,00 | 0,00 | 0,25 | 0,00 | 0,00 | A konstrukció célja a sürgősségi ellátórendszer különböző ellátási szintjeinek, szereplőinek módszertani és képzési támogatása, az egységes és magas színvonalú, ugyanakkor folytonosságában is harmonikus sürgősségi ellátás érdekében. | emberi erőforrások minisztere |  |
 
-| 22. | Összesen | 0,00 | 26,71 | 34,56 | 6,95 | 0,25 |  |  |  |
+| 22. | Összesen | 0,00 | 26,71 | 34,56 | 6,95 | 2,07 |  |  |  |
 
 7. A 7. prioritás: Technikai segítségnyújtás
 
@@ -681,3 +689,4 @@
 | 3. | 7.2.1 | Az OP lebonyolításával kapcsolatos egyéb feladatok | 4,85 | 4,85 | 4,85 | 0,00 | 0,00 | A konstrukció célja, hogy biztosítsa a Társadalmi Megújulás Operatív Program lebonyolításával kapcsolatos specifikus feladatok költséghatékony és eredményes ellátását (pl. monitoring bizottság működtetése, beleértve annak titkársági feladatai ellátását is, az éves megvalósítási jelentések, a Társadalmi Megújulás Operatív Program végrehajtását érintő tanulmányok, elemzések, a Nemzeti Stratégiai Referencia Keret-szintű értékelési tervben nem szereplő, valamint a monitoring bizottság kezdeményezésére indított értékelések). | emberi erőforrások minisztere |  |
 
 [^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 4–5. pontja szerint módosított szöveg.
