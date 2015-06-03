@@ -1,3 +1,3 @@
-## 17. §[^26]
+## 17. §[^27] E rendeletnek a felszámolási eljárás és a végelszámolás környezet- és természetvédelmi követelményeiről szóló 106/1995. (IX. 8.) Korm. rendelet módosításáról szóló 136/2015. (VI. 2.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 8. § (7) bekezdését a Módr. hatálybalépésének időpontjában folyamatban lévő felszámolási eljárásokban is alkalmazni kell minden olyan első alkalommal történő vagy megismételt értékesítés esetén, ahol az értékesítési hirdetmény közzétételére a Módr. hatálybalépésekor még nem került sor.
 
-[^26]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1406. pontja hatályon kívül helyezte.
+[^27]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1406. pontja hatályon kívül helyezte, újonnan a 136/2015. (VI. 2.) Korm. rendelet 2. §-a iktatta be.

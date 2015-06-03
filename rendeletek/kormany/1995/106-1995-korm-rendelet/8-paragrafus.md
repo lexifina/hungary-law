@@ -20,8 +20,11 @@ c) vagyontárgyakhoz fűződő környezeti teher esetén — szerződéses form�
 
 (6)[^15] A szerződést annak hatálybalépése előtt a felszámoló véleményezésre megküldi a környezetvédelmi hatóságnak, valamint – ha a környezeti károsodások, terhek rendezésére kötelezés a felszíni vizeket, a felszín alatti vizeket érinti – a területi vízügyi hatóságnak is. A véleményezés határideje 30 nap. Amennyiben a környezetvédelmi hatóság, illetve a területi vízügyi hatóság a kézhezvételtől számított 30 napon belül nem közli véleményét, úgy kell tekinteni, hogy nem kíván véleményt nyilvánítani.
 
+(7)[^16] A környezeti kárral vagy környezeti teherrel érintett vagyontárgy értékesítésekor a felszámoló az értékesítési hirdetmény közzétételét megelőzően az értékesítési feltételeket tartalmazó dokumentumok, így különösen a pályázati felhívás, valamint az árverési hirdetmény tervezetének megküldésével köteles beszerezni az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulását, és az értékesítési hirdetményben a környezeti teherre történő utalás mellett a hozzájárulás megadására vonatkozó tájékoztatást is közzé kell tenni. Az állami vagyon felügyeletéért felelős miniszter az előzetes hozzájárulásról szóló döntése előtt beszerzi a környezetvédelemért felelős miniszter szakmai állásfoglalását.
+
 [^11]: A 7. § a 221/2014. (IX. 4.) Korm. rendelet 159. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
 [^12]: A 8. § (1) bekezdése a 219/2004. (VII. 21.) Korm. rendelet 43. §-ának (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 16. § d) és e) pontja szerint módosított szöveg.
 [^13]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről.
 [^14]: A 8. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
 [^15]: A 8. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 162. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 16. § d) és e) pontja szerint módosított szöveg.
+[^16]: A 8. § (7) bekezdését a 136/2015. (VI. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
