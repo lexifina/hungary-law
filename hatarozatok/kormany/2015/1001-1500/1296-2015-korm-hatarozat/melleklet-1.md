@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) jóváhagyja a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 31. § (3) és (5) bekezdése, valamint az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 32. § (1) bekezdése alapján a Kvtv. 1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 2. Nemzeti Stratégiai Referenciakeret alcím, 2. Közlekedés Operatív Program 2. prioritása keretének 17 842 556 260 forinttal történő átmeneti növelését a 2. pont a) alpontja és a 3. pont szerinti projekt megvalósítása érdekében,
+## a)[^1] jóváhagyja a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 31. § (3) és (5) bekezdése, valamint az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 32. § (1) bekezdése alapján a Kvtv. 1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 2. Nemzeti Stratégiai Referenciakeret alcím, 2. Közlekedés Operatív Program 2. prioritása keretének 7 344 715 855 forinttal történő átmeneti növelését a 2. pont a) alpontja és a 3. pont szerinti projekt megvalósítása érdekében,
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -44,8 +44,9 @@
 
 ## Határidő: a JASPERS-programban részt vevő szakértők minőségbiztosítási jelentésének kibocsátását követően azonnal
 
-## 5–6.[^1]
+## 5–6.[^2]
 
 1. melléklet az 1296/2015. (V. 7.) Korm. határozathoz
 
-[^1]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1369/2015. (VI. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
