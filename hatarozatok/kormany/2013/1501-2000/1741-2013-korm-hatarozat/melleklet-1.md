@@ -6,8 +6,12 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1741/2013. (X. 14.) Korm. határozathoz
+1. melléklet az 1741/2013. (X. 14.) Korm. határozathoz[^2]
 
-| Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatási összege (Ft) | Projekt rövid bemutatása |
+|  | A | B | C | D | E |
 
-| TÁMOP-2.4.3.D- 3-13/1- 2013-0001 | Foglalkoztatási szövetkezet – híd a munka világába | Országos Roma Önkormányzat, (konzorciumvezető), Nemzeti Munkaügyi Hivatal, Türr István Képző és Kutató Intézet | 4 995 000 000 | A pályázat keretében benyújtott projektet 3 tagú konzorcium valósítja meg: az Országos Roma Önkormányzat (ORÖ, konzorcium vezető), a Nemzeti Munkaügyi Hivatal (NMH) és a Türr István Képző és Kutató Intézet (TKKI). A projekt keretében létrehozandó – a foglalkoztatási szövetkezet megalapítását előkészítő – szervezet hosszú távú célja, hogy a 2006. évi X. törvény és a 2012. évi XXXVII. törvény 3. § (Hatályos: 2012. IV. 27-től.) által beiktatott módosítása alapján megvalósítsa egy országos foglalkoztatási szövetkezet létrehozását. |
+| 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (Ft) | Projekt rövid bemutatása |
+
+| 2. | TÁMOP- 2.4.3.D-3- 13/1-2013- 0001 | Foglalkoztatási szövetkezet – híd a munka világába | Országos Roma Önkormányzat (konzorciumvezető) Nemzetgazdasági Minisztérium, Türr István Képző és Kutató Intézet, „Híd a munka világába” Munkaerő-szervező Országos Foglalkoztatási Szövetkezet | 4 995 000 000 | A projekt keretében létrehozandó – a foglalkoztatási szövetkezet megalapítását előkészítő – szervezet hosszú távú célja, hogy a szövetkezetekről szóló 2006. évi X. törvény 8/A. §-a alapján megvalósítsa egy országos foglalkoztatási szövetkezet létrehozását. |
+
+[^2]: Az 1. melléklet az 1360/2015. (VI. 2.) Korm. határozat 3. pontjával megállapított szöveg.
