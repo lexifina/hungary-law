@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) hozzájárul a KEOP-2015-5.7.0 azonosító számú, „Középületek kiemelt jelentőségű épületenergetikai fejlesztése” című, 9,00 milliárd forint keretösszegű kiemelt projekt felhívás (a továbbiakban: felhívás) meghirdetéséhez a 2007–2013 közötti programozási időszak operatív programjai eredményes zárásával összefüggő 2015. évi feladatokra vonatkozó cselekvési tervről és a Nemzeti Stratégiai Referencia Keret 2014. évi munkatervéről szóló 1051/2014. (II. 7.) Korm. határozat módosításáról szóló 1014/2015. (I. 22.) Korm. határozat I.7. pontja alapján,
+## a)[^1] hozzájárul a KEOP-2015-5.7.0 azonosító számú, „Középületek kiemelt jelentőségű épületenergetikai fejlesztése” című, 17,08 milliárd forint keretösszegű kiemelt projekt felhívás (a továbbiakban: felhívás) meghirdetéséhez a 2007–2013 közötti programozási időszak operatív programjai eredményes zárásával összefüggő 2015. évi feladatokra vonatkozó cselekvési tervről és a Nemzeti Stratégiai Referencia Keret 2014. évi munkatervéről szóló 1051/2014. (II. 7.) Korm. határozat módosításáról szóló 1014/2015. (I. 22.) Korm. határozat [a továbbiakban: 1014/2015. (I. 22.) Korm. határozat] I.7. pontja alapján,
 
 ## b) felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a felhívás meghirdetéséről,
 
@@ -18,10 +18,19 @@
 
 ## mint maximális fajlagos költségek figyelembevételével.
 
+## 1/A.[^2] A Kormány hozzájárul az 1. melléklet szerinti projektek vonatkozásában a kötelezettségvállaláshoz az 1014/2015. (I. 22.) Korm. határozat I.8. pontja alapján.
+
+## Felelős: nemzet fejlesztési miniszter
+
+## Határidő: azonnal
+
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^3]
 
-1. melléklet az 1290/2015. (V. 5.) Korm. határozathoz
+1. melléklet az 1290/2015. (V. 5.) Korm. határozathoz[^4]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja az 1357/2015. (VI. 2.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^2]: Az 1/A. pontot az 1357/2015. (VI. 2.) Korm. határozat 8. pontja iktatta be, szövege az 1366/2015. (VI. 3.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1357/2015. (VI. 2.) Korm. határozat 9. pontja, az 1366/2015. (VI. 3.) Korm. határozat 4. pont b)–r) alpontja és 5. pontja szerint módosított szöveg.

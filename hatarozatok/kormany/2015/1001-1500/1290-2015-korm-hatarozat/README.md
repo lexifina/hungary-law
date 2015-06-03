@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1290-30
 | --- | --- | --- |
 | 2015-05-06 | 2015-1290-30-22.1 | 1290/2015. (V. 5.) Korm. határozat |
 | 2015-05-07 | 2015-1290-30-22.2 | 2010: CXXX. törvény |
+| 2015-06-03 | 2015-1290-30-22.3 | 1357/2015. (VI. 2.) Korm. határozat |
