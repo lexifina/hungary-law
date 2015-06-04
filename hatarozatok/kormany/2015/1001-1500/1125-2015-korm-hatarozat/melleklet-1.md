@@ -28,17 +28,25 @@
 
 ## Határidő: a Környezet és Energia Operatív Program soron következő módosítási javaslatának benyújtásával egyidejűleg
 
-## e)[^2] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Környezet és Energia Operatív Program prioritásai közötti forrás-átcsoportosításához szükséges módosításának előkészítéséről, ha az 5. prioritás esetében a forrásfelhasználás várható mértéke a 110%-os korlátot meghaladja.
+## e)[^2] felhívja a nemzeti fejlesztési minisztert, hogy ha a Környezet és Energia Operatív Program 5. prioritása esetén a forrásfelhasználás várható mértéke a 110%-os korlátot meghaladja, gondoskodjon a Környezet és Energia Operatív Program prioritásai közötti forrás-átcsoportosításhoz szükséges módosítás előkészítéséről, a Környezet és Energia Operatív Program 1. és 2. prioritása terhére megkötött támogatási szerződések keretében fel nem használt forrásként rendelkezésre álló kötelezettségvállalások felszabadításával,
 
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## Határidő: 2015. június 30.
 
+## f)[^3] jóváhagyja a Környezet és Energia Operatív Program 5. prioritása keretének 1,75 milliárd forint összegű többletkötelezettség-vállalással történő növelését azzal, hogy ezt az összeget a projekt támogatási szerződésének megkötése érdekében kell felhasználni.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^3]
+## 3.[^4]
 
-1. melléklet az 1125/2015. (III. 6.) Korm. határozathoz[^4]
+1. melléklet az 1125/2015. (III. 6.) Korm. határozathoz[^5]
 
 ## A KÖRNYEZET ÉS ENERGIA OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -300,9 +308,9 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 26,51 | 64,75 | 63,58 | 154,84 |
+| 3. | 28,26 | 64,75 | 63,58 | 156,59 |
 
-| 4. | Többletkötelezettség-vállalás: 61,12 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 62,86 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 0% |
 
@@ -314,7 +322,7 @@
 
 | 2. | 2007–2015. | 2015. hátralevő | Összesen |
 
-| 3. | 170,41 | 46,06 | 216,47 |
+| 3. | 170,41 | 47,81 | 218,22 |
 
 5.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -326,7 +334,7 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 5.4.0 | Távhő-szektor energetikai korszerűsítése | 26,51 | 0,00 | 0,00 | Távhőellátás energiahatékonysági korszerűsítése. | nemzeti fejlesztési miniszter | – |
+| 3. | 5.4.0 | Távhő-szektor energetikai fejlesztése | 28,26 | 0,00 | 0,00 | Távhőellátás energiahatékonysági korszerűsítése. | nemzeti fejlesztési miniszter | – |
 
 | 4. | 5.5.0 | Épületenergetikai fejlesztések | 0,00 | 64,75 | 0,50 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési, használati melegvíz rendszerek korszerűsítése, világítási rendszerek korszerűsítése (e tevékenységek kiegészíthetők megújuló energiaforrások alkalmazásával). | nemzeti fejlesztési miniszter | belügyminiszter |
 
@@ -336,7 +344,7 @@
 
 5.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében az 5.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-5.3.3. Az 5.3.1. pontban foglalt táblázat 3–6. sora szerinti 5.4.0, 5.5.0, 5.6.0 és 5.7.0 konstrukció 61,12 Mrd Ft többletkötelezettség-vállalást tartalmaz.
+5.3.3. Az 5.3.1. pontban foglalt táblázat 3–6. sora szerinti 5.4.0, 5.5.0, 5.6.0 és 5.7.0 konstrukció 62,86 Mrd Ft többletkötelezettség-vállalást tartalmaz.
 
 6. A 6. prioritás: Fenntartható életmód és fogyasztás
 
@@ -507,6 +515,7 @@
 8.3.3. A prioritás nem tartalmaz többletkötelezettség-vállalást.
 
 [^1]: Az 1. pont d) alpontját az 1181/2015. (III. 25.) Korm. határozat 1. pontja iktatta be.
-[^2]: Az 1. pont e) alpontját az 1181/2015. (III. 25.) Korm. határozat 1. pontja iktatta be.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja szerint módosított szöveg.
+[^2]: Az 1. pont e) alpontját az 1181/2015. (III. 25.) Korm. határozat 1. pontja iktatta be, szövege az 1367/2015. (VI. 3.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: Az 1. pont f) alpontját az 1367/2015. (VI. 3.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja szerint módosított szöveg.
