@@ -1,6 +1,6 @@
 ## A támogatás mértéke
 
-18. §[^13] (1) A KKV-k iparjogvédelmi támogatással kapcsolatban felmerülő költségeihez nyújtott támogatás esetén a támogatási intenzitás nem haladhatja meg a (2)–(5) bekezdésekben meghatározott mértéket, azzal, hogy ahhoz azt a támogatási intenzitást kell figyelembe venni, amely az érintett szabadalom vagy iparjogvédelmi oltalom tárgyához elsőként vezető kutatási tevékenységhez tartozik.
+18. §[^14] (1) A KKV-k iparjogvédelmi támogatással kapcsolatban felmerülő költségeihez nyújtott támogatás esetén a támogatási intenzitás nem haladhatja meg a (2)–(5) bekezdésekben meghatározott mértéket, azzal, hogy ahhoz azt a támogatási intenzitást kell figyelembe venni, amely az érintett szabadalom vagy iparjogvédelmi oltalom tárgyához elsőként vezető kutatási tevékenységhez tartozik.
 
 (2) A maximális támogatási intenzitás
 
@@ -46,4 +46,4 @@ d) Budapesten és Pest megyében 15 százalék.
 
 (11) Megfelelően indokolt esetben és a bejelentő tagállam által rendelkezésére bocsátott meggyőző bizonyítékok alapján a klaszterek élénkítésének céljából működési támogatás hosszabb – 10 évet meg nem haladó – időtartamra is nyújtható.
 
-[^13]: A 18. § e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
+[^14]: A 18. § e rendelet 25. § (2) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követően a miniszter külön rendeletében meghatározott időpontban lép hatályba.
