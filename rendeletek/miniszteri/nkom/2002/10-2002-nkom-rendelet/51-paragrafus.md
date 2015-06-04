@@ -1,1 +1,0 @@
-## Hitelesített másolat továbbítása külföldre
