@@ -58,4 +58,6 @@
 
 | 29. | KEOP-5.5.0/A/12- 2013-0249 | Bács-Kiskun Megyei Agrárkamara épületének komplex energetikai fejlesztése | Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara | 21 003 353 |
 
-3. melléklet az 1357/2015. (VI. 2.) Korm. határozathoz
+3–4. melléklet az 1357/2015. (VI. 2.) Korm. határozathoz[^3]
+
+[^3]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
