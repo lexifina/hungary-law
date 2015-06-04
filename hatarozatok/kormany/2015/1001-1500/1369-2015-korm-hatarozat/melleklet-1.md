@@ -28,7 +28,7 @@
 
 ## Határidő: folyamatos
 
-## 2. A Közlekedés Operatív Program 2. prioritása keretének átmeneti növeléséről és egyes vasútfejlesztési nagyprojektek finanszírozásának megváltoztatásáról szóló 1296/2015. (V. 7.) Korm. határozat 1. pont a) alpontjában a „17 842 556 260” szövegrész helyébe a „7 344 715 855” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1369/2015. (VI. 3.) Korm. határozathoz
 
@@ -41,3 +41,5 @@
 | 3. | KÖZOP- 2.5.0-09-11-2013-0003 | Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program 25 helyszínen (kormányablakok) | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 9 833 922 000 | 4 077 556 421 | 6 700 097 430 | A projekt 25 állomás fő utasforgalmi (felvételi) épületének és létesítményeinek megújítását, átépítését tartalmazza. A projekt célja az állomási szolgáltatások részeként a kormányablakok hálózatának kialakítása, melyek azonos szakmai standardok és arculati elemek mentén működnek. A projekt az állomási rekonstrukciós program és az integrált ügyfélszolgálat program részeként a közösségi közlekedés résztvevői számára lehetővé teszi az egyablakos közigazgatási ügyintézés elterjedését. |
 
 | 4. | KÖZOP-2.5.0-09-11-2011- 0006 | MÁV Zrt. közlekedésbiztonsági projektjei | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 12 404 790 000 | 7 242 955 546 | 3 797 742 975 | A projekt célja 1. a vasúti átjárók biztonságának növelése [szintbeni közút–vasút kereszteződések biztonságának növelése (Sorompó I–II. program), vonatérzékelés korszerűsítési projekt, vasúti átjáróban videómegfigyelő rendszer telepítése (V-tanú)], 2. diagnosztikai és monitoring rendszerek [járműdiagnosztikai rendszer (hőnfutásjelző, tengelyterhelés mérő, űrszelvény vizsgáló berendezés), valamint Videós Pályafelügyeleti Rendszer (VPR)] telepítése. |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
