@@ -1,3 +1,5 @@
+## 5K06833_0
+
 |  | A | B | C | D | E | F | G |
 
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (Ft) | Többlettámogatás (Ft) | Projekt megnövelt támogatása (Ft) | Projekt rövid bemutatása |
@@ -33,6 +35,8 @@
 | 2. | KEOP- 5.4.0/12-2015- 0024 | Távhőtermelő berendezések energiahatékony korszerűsítése a Szombathelyi Távhőszolgáltatónál | Szombathelyi Távhőszolgáltató Korlátolt Felelősségű Társaság | 53 109 508 | Távhőtermelő berendezések (kazánok) energia-hatékony korszerűsítése. A beruházások célja elsődlegesen a termelési hatásfok javítása és az üzembiztonság növelése. |
 
 3. Kormányhivatalok és Minisztériumok 2014–2020 közötti programozási időszakban megvalósuló energiahatékonysági fejlesztéseinek előkészítése:
+
+5K06835_2
 
 |  | A | B | C | D |
 

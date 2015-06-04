@@ -26,50 +26,8 @@
 
 ## Határidő: 2015. június 30.
 
-## 4. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 5. prioritásának keretében kiemelt projekt felhívás meghirdetéséhez történő hozzájárulásról, kiemelt projektek előzetes nevesítéséről, valamint a Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat módosításáról szóló 1290/2015. (V. 5.) Korm. határozat [a továbbiakban: 1290/2015. (V. 5.) Korm. határozat]
-
-## a) 1/A. pontjában az „1. mellékletben foglalt táblázat 62–115. sora” szövegrész helyébe az „1. melléklet” szöveg,
-
-## b) 1. mellékletében foglalt táblázat D:4 mezőjében a „Lellei óvoda” szövegrész helyébe a „Balatonlellei Napközi Otthonos Óvoda épületének” szöveg,
-
-## c) 1. mellékletében foglalt táblázat D:8 mezőjében az „Iskola energetikai” szövegrész helyébe az „Iskola épületeinek energetikai” szöveg,
-
-## d) 1. mellékletében foglalt táblázat D:14 mezőjében az „Az általános iskola és a háziorvosi rendelő” szövegrész helyébe a „Richter Gedeon Általános Iskola és az ecsédi orvosi rendelő épületeinek” szöveg,
-
-## e) 1. mellékletében foglalt táblázat D:15 mezőjében az „A Batthyány” szövegrész helyébe az „A Herceg Batthyány” szöveg,
-
-## f) 1. mellékletében foglalt táblázat D:16 mezőjében a „Hivatal” szövegrész helyébe a „Kormányhivatal épületének” szöveg,
-
-## g) 1. mellékletében foglalt táblázat D:17 mezőjében az „Iskolaenergetikai” szövegrész helyébe az „Iskola, Napközi Otthonos Óvoda, Egységes Pedagógiai Szolgálat épületének energetikai” szöveg,
-
-## h) 1. mellékletében foglalt táblázat D:24 mezőjében a „Körzeti Általános Iskola” szövegrész helyébe a „Hevesi József Általános Iskola és Alapfokú Művészeti Iskola Körzeti Tagiskolája” szöveg,
-
-## i) 1. mellékletében foglalt táblázat D:27 mezőjében az „A Márki” szövegrész helyébe az „A Kétegyházi Márki” szöveg,
-
-## j) 1. mellékletében foglalt táblázat D:28 mezőjében a „Ház energia racionalizálása” szövegrész helyébe a „Ház és Könyvtár épületének energiaracionalizálása” szöveg,
-
-## k) 1. mellékletében foglalt táblázat D:29 mezőjében a „Vízügyi Hatóság” szövegrész helyébe a „Közép-Tisza-vidéki Vízügyi Igazgatóság Kiskörei Szakaszmérnökség épületének” szöveg,
-
-## l) 1. mellékletében foglalt táblázat D:36 mezőjében a „móri” szövegrész helyébe a „Móri” szöveg,
-
-## m) 1. mellékletében foglalt táblázat D:40 mezőjében az „Információs Ház” szövegrész helyébe a „Városi Könyvtár” szöveg,
-
-## n) 1. mellékletében foglalt táblázat D:41 mezőjében a „Nyírbogát Vánkus István Általános Iskola” szövegrész helyébe a „Vántus István Általános Iskola épületének” szöveg,
-
-## o) 1. mellékletében foglalt táblázat D:44 mezőjében az „A pákozdi” szövegrész helyébe a „Pákozdi” szöveg,
-
-## p) 1. mellékletében foglalt táblázat D:48 mezőjében az „Az általános iskola épületenergetikai” szövegrész helyébe az „A Móra Ferenc Általános Iskola épületének energetikai” szöveg,
-
-## q) 1. mellékletében foglalt táblázat D:58 mezőjében az „Az Üllés Nagyközségi Önkormányzat általános iskolájának” szövegrész helyébe az „A Csólyospálos Községi Általános Iskola és Alapfokú Művészeti Iskola Fontos Sándor Tagintézménye épületének” szöveg,
-
-## r) 1. mellékletében foglalt táblázat D:60 mezőjében az „A polgármesteri hivatala” szövegrész helyébe a „Vámospércs Városi Önkormányzat Polgármesteri Hivatala” szöveg
-
-## lép.
-
-## 5. A Kormány visszavonja az 1290/2015. (V. 5.) Korm. határozat 1. mellékletében foglalt táblázat
-
-## a) D:34 mezőjében „és Bölcsőde,” szövegrészt,
-
-## b) D:51 mezőjében az „A” szövegrészt.
+## 4–5.[^2]
 
 1. melléklet az 1366/2015. (VI. 3.) Korm. határozathoz
+
+[^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
