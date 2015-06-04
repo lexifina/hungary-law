@@ -4,8 +4,10 @@
 
 (3) A túlsúlydíjat – a közútkezelői hozzájárulásban előírt módon és időpontig – a közútkezelői hozzájárulás kiadására jogosult útkezelő számlájára kell befizetni. A beszedett túlsúlydíj a közforgalom elől el nem zárt magánút esetén annak tulajdonosát, helyi közút esetén annak kezelőjét, a koncessziós szerződés alapján működtetett közút tekintetében a koncessziós társaságot az adott úton megtett távolság arányában illeti meg, melynek szétosztásáról a közútkezelői hozzájárulást kiadó útkezelő gondoskodik.
 
-(4) A Magyar Közút Nonprofit Zrt. az általa a tárgynegyedévben beszedett, a fentiek szerint szétosztásra nem került túlsúlydíjból származó tényleges bevételeket negyedévente a tárgynegyedévet követő hónap 20. napjáig az „Útpénztár fejezeti kezelésű előirányzat” elnevezésű számla javára a Közlekedésfejlesztési Koordinációs Központ által kiállított számla ellenében az azon feltüntetett számú számlára köteles átutalni. Ezen összeg átutalásáról, illetve további felhasználásáról külön jogszabály rendelkezik
+(4)[^4] A Magyar Közút Nonprofit Zrt. az általa a tárgynegyedévben beszedett, a fentiek szerint szétosztásra nem került túlsúlydíjból származó tényleges bevételeket negyedévente a tárgynegyedévet követő hónap 20. napjáig a „Közúthálózat fenntartása és működtetés” fejezeti kezelésű előirányzat javára köteles átutalni.
 
 (5) Jelzőtáblával elrendelt össztömeg-korlátozás esetén a díjat a közútkezelői hozzájárulásban meghatározott érvényességi idő és a jármű össztömegének alapul vételével kell meghatározni, növelve a mindenkor hatályos általános forgalmi adó mértékével. Jelzőtáblával elrendelt össztömeg-korlátozás esetén a díj közvetlenül illeti meg a hozzájárulás kiadóját.
 
 (6) A jármű üzemben tartója jogosult a megengedett össztömeget vagy a megengedett legnagyobb tengelyterhelést meghaladó jármű közlekedéséért járó díjat évente egy összegben megfizetni vagy a díjjal kapcsolatban utólagosan a közútkezelői hozzájárulás kiadására jogosult útkezelővel elszámolni a hozzájárulásban meghatározott időpontban és feltételek szerint.
+
+[^4]: A 6. § (4) bekezdése a 28/2015. (VI. 3.) NFM rendelet 46. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 44. § (2) bekezdését.

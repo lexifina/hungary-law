@@ -96,7 +96,7 @@
 
 ## 5. E rendelet 3. § (6) bekezdésében meghatározott mezőgazdasági erőgépek és vontatmányok közlekedése esetén az 5. melléklet B) pontjában előírt járműkíséret tárgyi feltételei csak a 4.1., 4.4., 4.5. és 4.6. pontokra terjed ki.
 
-5. melléklet a 13/2010. (X. 5.) NFM rendelethez[^8]
+5. melléklet a 13/2010. (X. 5.) NFM rendelethez[^10]
 
 A megengedett szélességi méretet meghaladó mezőgazdasági rendeltetésű erőgépek és vontatmányaik felsorolása, valamint közúti közlekedési feltételeik
 
@@ -200,4 +200,4 @@ B) Mezőgazdasági rendeltetésű erőgépek és vontatmányaik közúti közlek
 
 6. Kizárólag egyéb járműkísérettel lehet közlekedni a 4,5 m jármű/járműszerelvény szélességet meghaladó méret esetében, továbbá minden lakott területen kívüli emelt sebességű útszakaszon.
 
-[^8]: Az 5. mellékletet a 37/2011. (VII. 19.) NFM rendelet 3. §-a iktatta be. E módosító rendelet 4. §-a alapján a folyamatban lévő engedélyezési eljárásokban is alkalmazni kell.
+[^10]: Az 5. mellékletet a 37/2011. (VII. 19.) NFM rendelet 3. §-a iktatta be. E módosító rendelet 4. §-a alapján a folyamatban lévő engedélyezési eljárásokban is alkalmazni kell.
