@@ -28,6 +28,6 @@ m) az országos közutak vagyonkezelőjeként – a koncessziós szerződés ker
 
 n) a koncessziós szerződésben, valamint a miniszter által kiállított megbízólevélben foglaltak szerint a koncessziós szerződés alapján épített hálózati elemeken az építési munkákhoz kapcsolódó szakértői feladatokat, valamint a koncesszor által végzett üzemeltetési, valamint karbantartási és felújítási feladatok ellenőrzését.
 
-o)[^9] a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság bevonásával a közlekedési infrastruktúrával összefüggő állami feladatokhoz kapcsolódóan az elektronikus építési napló bevezetéséhez, üzemeltetéséhez és fenntartásához szükséges feladatokat.
+o)[^13] a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság bevonásával a közlekedési infrastruktúrával összefüggő állami feladatokhoz kapcsolódóan az elektronikus építési napló bevezetéséhez, üzemeltetéséhez és fenntartásához szükséges feladatokat.
 
-[^9]: A 11. § o) pontját az 50/2014. (XII. 11.) NFM rendelet 3. §-a iktatta be.
+[^13]: A 11. § o) pontját az 50/2014. (XII. 11.) NFM rendelet 3. §-a iktatta be.

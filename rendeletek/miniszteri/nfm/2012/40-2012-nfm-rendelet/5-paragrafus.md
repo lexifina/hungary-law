@@ -12,10 +12,6 @@ b) a használati díj és pótdíj beszedésével, a használati díj megfizeté
 
 (5) A használati díj és pótdíj beszedésére megkötött szerződés alapján az ÁAK Zrt.-t megillető összegről, valamint a megbízott viszonteladók jutalékairól az ÁAK Zrt. számlát bocsát ki.
 
-(6) A túlsúlydíj beszedését a Magyar Közút Zrt. a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló jogszabály, valamint a KKK-val kötött írásbeli megállapodás alapján látja el.
+(6)–(9)[^3]
 
-(7) A KKK saját nevében számlát bocsát ki a Magyar Közút Zrt. részére a túlsúlydíjból származó, szétosztásra nem kerülő bevételekről.
-
-(8) A Magyar Közút Zrt. a (6) bekezdésben meghatározott bevételeket – a (9) bekezdésben meghatározott számla összegével csökkentve – a tárgyhónapot követő második hónap utolsó napjáig a KKK által kiállított számla alapján a KKK „Közlekedési feladatok és programok” MÁK 10032000-00315005-00000000 számú számlájára fizeti meg.
-
-(9) A túlsúlydíj beszedésére megkötött megállapodás alapján a Magyar Közút Zrt. az őt megillető összegről számlát bocsát ki.
+[^3]: Az 5. § (6)–(9) bekezdését a 28/2015. (VI. 3.) NFM rendelet 46. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 44. § (2) bekezdését.

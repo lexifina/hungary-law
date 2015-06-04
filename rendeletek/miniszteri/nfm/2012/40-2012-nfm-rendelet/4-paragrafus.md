@@ -6,7 +6,7 @@
 
 a) a Kkt. 33/A. § (1) bekezdésében megjelölt használati díjból és pótdíjból (a továbbiakban: használati díj és pótdíj) származó, valamint egyéb, a használati díjjal és a pótdíjjal összefüggő adminisztratív bevétel;
 
-b) a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének díjából (a továbbiakban: túlsúlydíj) származó, szétosztásra nem kerülő bevétel;
+b)[^2]
 
 c) ha törvény vagy kormányrendelet másként nem rendelkezik, a KKK vagyonkezelésében lévő, állami tulajdonú területek – ideértve az országos közutak végleges határain belüli területeket, az országos közutak építése és korszerűsítése céljából állami tulajdonba vett földterületek azon területrészeit, amelyek az országos közutak végleges határain kívül esnek, az építés és korszerűsítés időtartama alatt használt felvonulási területeket, a földművek építéséhez, az útépítési anyagok, keverékek előállításához használt területeket és anyagnyerő helyeket, a nyomvonal-módosítással együtt járó közútépítések és korszerűsítések nyomán az országos közút végleges határain kívülre kerülő területrészeket és felhagyott közútszakaszokat, valamint a kizárólagos állami tulajdonú komplex pihenőket, figyelemmel a nemzeti és az állami vagyonról szóló törvényekben foglaltakra – hasznosításából származó bevétel;
 
@@ -15,3 +15,5 @@ d) a KKK alapfeladatainak ellátásához felhasználásra átvett pénzeszköz, 
 e) a közlekedési hálózatok fejlesztése, az országos közúthálózat üzemeltetése, fenntartása céljaira teljesített egyéb hozzájárulás és támogatás;
 
 f) a közlekedési hálózat fejlesztési céljaira a helyi önkormányzatok, ezek társulásai, gazdálkodó szervezetek, magánszemélyek által – a velük kötött szerződés alapján – átadott hozzájárulás és támogatás.
+
+[^2]: A 4. § b) pontját a 28/2015. (VI. 3.) NFM rendelet 46. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 44. § (2) bekezdését.

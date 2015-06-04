@@ -1,6 +1,6 @@
 ## 3. A közlekedési infrastruktúrával összefüggő egyes állami feladatok és a végrehajtásukhoz szükséges források felhasználásnak szabályai
 
-## 6. §[^1] A 4. § szerinti bevételek a működési kiadások körében felhasználhatók:
+## 6. §[^4] A 4. § szerinti bevételek a működési kiadások körében felhasználhatók:
 
 a) a koncessziós szerződés keretében üzemeltetett közutak kivételével az országos közúthálózattal kapcsolatos
 
@@ -34,7 +34,7 @@ e) a használati díj és pótdíj beszedésének és a használati jogosultság
 
 f) a NIF Zrt. működési kiadásainak fedezetére;
 
-g)[^2] a közlekedési infrastruktúrával összefüggő állami feladatokhoz kapcsolódóan az elektronikus építési napló bevezetéséhez, üzemeltetéséhez és fenntartásához szükséges feladatok fedezetére.
+g)[^5] a közlekedési infrastruktúrával összefüggő állami feladatokhoz kapcsolódóan az elektronikus építési napló bevezetéséhez, üzemeltetéséhez és fenntartásához szükséges feladatok fedezetére.
 
-[^1]: A 6. § a 65/2013. (X. 31.) NFM rendelet 2. §-ával megállapított szöveg.
-[^2]: A 6. § g) pontját az 50/2014. (XII. 11.) NFM rendelet 2. §-a iktatta be.
+[^4]: A 6. § a 65/2013. (X. 31.) NFM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 6. § g) pontját az 50/2014. (XII. 11.) NFM rendelet 2. §-a iktatta be.
