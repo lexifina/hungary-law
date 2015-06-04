@@ -1,0 +1,1 @@
+A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 36. §-ában foglalt felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 9. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
