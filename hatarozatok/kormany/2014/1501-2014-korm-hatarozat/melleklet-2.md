@@ -38,7 +38,7 @@
 
 | 19. |  |  |  |
 
-| 20. | KEOP-5.6.0/12-2013-0008 | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 447 000 000 |
+| 20. | KEOP-5.6.0/12-2013-0008 | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 688 768 711 |
 
 | 21. | KEOP-5.6.0/12-2013-0009 | Fejér Megyei Kormányhivatal | 155 685 750 |
 
@@ -100,23 +100,23 @@
 
 | 50. | KEOP-5.6.0/12-2014-0002 | Győr-Moson-Sopron Megyei Rendőr-főkapitányság | 338 000 000 |
 
-| 51. | KEOP-5.6.0/12-2014-0003 | Pest Megyei Rendőr-főkapitányság | 438 000 000 |
+| 51. | KEOP-5.6.0/12-2014-0003 | Pest Megyei Rendőr-főkapitányság | 458 190 954 |
 
 | 52. | KEOP-5.6.0/12-2014-0004 | Veszprém Megyei Rendőr-főkapitányság | 263 000 000 |
 
 | 53. | KEOP-5.6.0/12-2014-0005 | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 383 000 000 |
 
-| 54. | KEOP-5.6.0/12-2014-0006 | Pest Megyei Rendőr-főkapitányság | 101 000 000 |
+| 54. | KEOP-5.6.0/12-2014-0006 | Pest Megyei Rendőr-főkapitányság | 127 737 617 |
 
 | 55. | KEOP-5.6.0/12-2014-0007 | Baranya Megyei Rendőr-főkapitányság | 355 000 000 |
 
-| 56. | KEOP-5.6.0/12-2014-0008 | Pest Megyei Rendőr-főkapitányság | 130 000 000 |
+| 56. | KEOP-5.6.0/12-2014-0008 | Pest Megyei Rendőr-főkapitányság | 144 594 304 |
 
 | 57. | KEOP-5.6.0/12-2014-0009 | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 157 385 933 |
 
 | 58. | KEOP-5.6.0/12-2014-0010 | Bács-Kiskun Megyei Rendőr-főkapitányság | 157 490 638 |
 
-| 59. | KEOP-5.6.0/12-2014-0011 | Pest Megyei Rendőr-főkapitányság | 135 000 000 |
+| 59. | KEOP-5.6.0/12-2014-0011 | Pest Megyei Rendőr-főkapitányság | 161 378 173 |
 
 | 60. | KEOP-5.6.0/12-2014-0012 | Budapesti Rendőr-főkapitányság | 330 000 000 |
 
@@ -126,7 +126,7 @@
 
 | 63. | KEOP-5.6.0/12-2014-0015 | Hajdú-Bihar Megyei Rendőr-főkapitányság | 408 000 000 |
 
-| 64. | KEOP-5.6.0/12-2014-0016 | Pest Megyei Rendőr-főkapitányság | 258 000 000 |
+| 64. | KEOP-5.6.0/12-2014-0016 | Pest Megyei Rendőr-főkapitányság | 258 416 820 |
 
 | 65. | KEOP-5.6.0/12-2014-0017 | Veszprém Megyei Rendőr-főkapitányság | 245 000 000 |
 
