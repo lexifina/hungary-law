@@ -6,52 +6,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat [a továbbiakban: 1125/2015. (III. 6.) Korm. határozat] 1. melléklete az 1. melléklet szerint módosul.
+## 3–4.[^2]
 
-## 4. Az 1125/2015. (III. 6.) Korm. határozat 1. melléklet
+1. melléklet az 1358/2015. (VI. 2.) Korm. határozathoz[^3]
 
-## a) 4.2.1. pontjában foglalt táblázat A:3 mezőjében a „45,79” szövegrész helyébe a „45,95” szöveg,
-
-## b) 4.2.1. pontjában foglalt táblázat C:3 mezőjében a „89,76” szövegrész helyébe a „93,26” szöveg,
-
-## c) 4.2.1. pontjában foglalt táblázat D:3 mezőjében a „135,55” szövegrész helyébe a „139,21” szöveg,
-
-## d) 4.2.1. pontjában foglalt táblázat A:4–D:4 mezőjében a „8,06” szövegrész helyébe a „11,56” szöveg, és
-
-## e) 4.3.1. pontjában foglalt táblázat C:5 mezőjében a „14,73” szövegrész helyébe a „14,89” szöveg
-
-## lép.
-
-1. melléklet az 1358/2015. (VI. 2.) Korm. határozathoz
-
-1. Az 1125/2015. (III. 6.) Korm. határozat 1. melléklet 4.2.2. pontja helyébe a következő rendelkezés lép:
-
-„4.2.2. A kötelezettségvállalás
-
-|  | A | B | C |
-
-| 1. | Indikatív forrásallokáció (Mrd Ft, folyó áron, 296,9 forint/euró árfolyamon) |
-
-| 2. | 2007–2014. | 2014–2015. | Összesen |
-
-| 3. | 172,09 | 9,10 | 181,19 |
-
-”
-
-2. Az 1125/2015. (III. 6.) Korm. határozat 1. melléklet 4.3.1. pontjában foglalt táblázat a következő 9. sorral egészül ki:
-
-|  | (A) | (B) | (C) | (D) | (E) | (F) | (G) | (H) |
-
-| (1.) | (Konstrukció kódja) | (Konstrukció neve) | [Pályázatok, kiemelt projektek meghirdethető kerete (Mrd Ft)] | (A konstrukció célja) | (A konstrukció szakmai tartalmáért felelős miniszter) | (A konstrukció szakmai tartalma tekintetében feladatkörrel rendelkező további miniszter) |
-
-| (2.) | (2011.) | (2012.) | (2013.) |
-
-„
-
-| 9. | 4.11.0 | Napelemes rendszer fejlesztése költségvetési és állami szervek villamos-energia költségének csökkentése érdekében | 0,00 | 0,00 | 3,50 | A konstrukció célja napelemes rendszer fejlesztése költségvetési és állami szervek villamos-energia költségének csökkentése érdekében. | nemzeti fejlesztési miniszter | – |
-
-”
-
-3. Az 1125/2015. (III. 6.) Korm. határozat 1. melléklet 4.3.3. pontja helyébe a következő rendelkezés lép:
-
-„4.3.3. A 4.3.1. pontban foglalt táblázat 5., 8. és 9. sora szerinti 4.4.0, 4.10.0 és 4.11.0 konstrukció 11,56 Mrd Ft többletkötelezettség-vállalást tartalmaz.”
+[^2]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
