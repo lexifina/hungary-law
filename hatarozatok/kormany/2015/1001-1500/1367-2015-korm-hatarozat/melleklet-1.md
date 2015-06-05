@@ -14,49 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat (a továbbiakban: Határozat) 1. pont e) alpontja helyébe a következő rendelkezés lép és a pont a következő f) alponttal egészül ki:
-
-## (A Kormány)
-
-## „e) felhívja a nemzeti fejlesztési minisztert, hogy ha a Környezet és Energia Operatív Program 5. prioritása esetén a forrásfelhasználás várható mértéke a 110%-os korlátot meghaladja, gondoskodjon a Környezet és Energia Operatív Program prioritásai közötti forrás-átcsoportosításhoz szükséges módosítás előkészítéséről, a Környezet és Energia Operatív Program 1. és 2. prioritása terhére megkötött támogatási szerződések keretében fel nem használt forrásként rendelkezésre álló kötelezettségvállalások felszabadításával,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: 2015. június 30.
-
-## f) jóváhagyja a Környezet és Energia Operatív Program 5. prioritása keretének 1,75 milliárd forint összegű többletkötelezettség-vállalással történő növelését azzal, hogy ezt az összeget a projekt támogatási szerződésének megkötése érdekében kell felhasználni.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: azonnal”
-
-## 4. A Határozat 1. melléklet
-
-## a) 5.2.1. pontjában foglalt táblázat
-
-## aa) A:3 mezőjében a „26,51” szövegrész helyébe a „28,26” szöveg,
-
-## ab) D:3 mezőjében a „154,84” szövegrész helyébe a „156,59” szöveg,
-
-## ac) A:4–D:4 mezőjében a „61,12” szövegrész helyébe a „62,86” szöveg,
-
-## b) 5.2.2. pontjában foglalt táblázat
-
-## ba) B:3 mezőjében a „46,06” szövegrész helyébe a „47,81” szöveg,
-
-## bb) C:3 mezőjében a „216,47” szövegrész helyébe a „218,22” szöveg,
-
-## c) 5.3.1. pontjában foglalt táblázat
-
-## ca) B:3 mezőjében a „korszerűsítése” szövegrész helyébe a „fejlesztése” szöveg,
-
-## cb) C:3 mezőjében a „26,51” szövegrész helyébe a „28,26” szöveg,
-
-## d) 5.3.3. pontjában a „61,12” szövegrész helyébe a „62,86” szöveg
-
-## lép.
+## 3–4.[^2]
 
 1. melléklet az 1367/2015. (VI. 3.) Korm. határozathoz
 
@@ -79,3 +37,5 @@
 | 8. | KEOP-5.4.0/12- 2015-0031 | Az érdi távhőrendszer energetikai korszerűsítése | Érdhő Távhő Termelő és Szolgáltató Korlátolt Felelősségű Társaság | 78 946 455 | A projekt célja a primer hőtávvezetékek cseréje, a föld feletti távhő vezetékek hőszigetelése, föld alá helyezése, a szolgáltatói hőközpontok szétválasztása, a felhasználói hőközpontok korszerűsítése és a távhőtermelő berendezések (kazánok) energiahatékony korszerűsítése. |
 
 | 9. | KEOP-5.4.0/12- 2015-0032 | Tatabányai távhőrendszer korszerűsítése | T-Szol Tatabányai Szolgáltató Zártkörűen Működő Részvénytársaság | 166 611 817 | A projekt célja a primer hőtávvezetékek cseréje, a föld feletti távhő vezetékek hőszigetelése, föld alá helyezése, a szolgáltatói hőközpontok szétválasztása és a felhasználói hőközpontok korszerűsítése. |
+
+[^2]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
