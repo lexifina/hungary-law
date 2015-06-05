@@ -1,4 +1,4 @@
-66/A. §[^408] (1)[^409] A rendszeres kedvezményre való jogosultságot megállapító határozatban tájékoztatni kell a szülőt, családbafogadó gyámot az óvodáztatási támogatás igénylésének lehetőségéről, feltételeiről és módjáról, ha a kedvezményt olyan gyermek részére állapították meg, aki két évesnél idősebb, de a tárgyévben az ötödik életévét nem tölti be.
+66/A. §[^408] (1)[^409]
 
 (2) A rendszeres kedvezmény első alkalommal történő megállapításakor – erre irányuló kérelem esetén – a határozat egy példányát meg kell küldeni a kérelemben megjelölt, a gyermek étkeztetését biztosító intézmény számára.
 
@@ -13,5 +13,5 @@
 (6) Lakcímváltozás esetén a szülőnek vagy más törvényes képviselőnek, illetve a nagykorú jogosultnak a kérésére vagy az új lakcím szerint illetékes jegyző megkeresésére az ügyben keletkezett iratokat a korábbi lakcím szerint illetékes jegyző haladéktalanul, de legkésőbb nyolc napon belül megküldi a jogosult új lakcíme szerint illetékes jegyzőnek. A rendszeres kedvezményhez kapcsolódó, a Gyvt. 19. § (1a) bekezdése szerinti pénzbeli ellátást és a Gyvt. 20/A. §-a szerinti természetbeni támogatást – a feltételek fennállása esetén – az új lakcím szerint illetékes jegyző nyújtja. Az új lakcím szerint illetékes jegyző a pénzbeli ellátást a lakcímváltozást követő hónap első napjától folyósítja.
 
 [^408]: A 66/A. §-t az 57/2006. (III. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 98/2013. (III. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^409]: A 66/A. § (1) bekezdése a 257/2013. (VII. 5.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^409]: A 66/A. § (1) bekezdését a 24/2015. (II. 20.) Korm. rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^410]: A 66/A. § (2a) bekezdését a 392/2013. (XI. 12.) Korm. rendelet 16. §-a iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 52. pontja, a 24/2015. (II. 20.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
