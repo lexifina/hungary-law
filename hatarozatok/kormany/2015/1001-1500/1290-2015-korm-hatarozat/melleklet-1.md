@@ -33,4 +33,4 @@
 [^1]: Az 1. pont a) alpontja az 1357/2015. (VI. 2.) Korm. határozat 10. pontja szerint módosított szöveg.
 [^2]: Az 1/A. pontot az 1357/2015. (VI. 2.) Korm. határozat 8. pontja iktatta be, szövege az 1366/2015. (VI. 3.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
 [^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1357/2015. (VI. 2.) Korm. határozat 9. pontja, az 1366/2015. (VI. 3.) Korm. határozat 4. pont b)–r) alpontja és 5. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet az 1357/2015. (VI. 2.) Korm. határozat 9. pontja, az 1366/2015. (VI. 3.) Korm. határozat 4. pont b)–r) alpontja és 5. pontja, az 1371/2015. (VI. 4.) Korm. határozat 3. pontja szerint módosított szöveg.
