@@ -1,3 +1,5 @@
+## 46. §[^1]
+
 1. melléklet a 28/2015. (VI. 3.) NFM rendelethez
 
 | A XVII. Nemzeti Fejlesztési Minisztérium fejezet 2015. évi költségvetési kiadási előirányzatainak feladatterve |  |  |  |  |  |  |  |  |  |
@@ -335,3 +337,5 @@
 | 107 | 345006 |  | Tatabánya labdarúgó sportlétesítmény-fejlesztése | Az előirányzat támogatást nyújt a Nemzeti Stadionfejlesztési Programmal összhangban a Grosics Gyula Stadion fejlesztésével összefüggő feladatok ellátásához. | Tatabánya Megyei Jogú Város Önkormányzata | Egyedi döntéssel, a kijelölt kedvezményezettel kötött támogatási szeződés útján. | előleg folyósítható | egyösszegű kifizetéssel vagy részletekben történő kifizetéssel - időarányosan vagy teljesítésarányosan | - | beszedési megbízás | - | - | - |
 
 | 108 | 345017 |  | Szigetszentmiklós labdarúgó sportlétesítmény-fejlesztése | Az előirányzat támogatást nyújt a Nemzeti Stadionfejlesztési Programmal összhangban az Erima Utánpótlás Centrum fejlesztésével összefüggő feladatok ellátásához. | Szigetszentmiklós Város Önkormányzata | Egyedi döntéssel, a kijelölt kedvezményezettel kötött támogatási szeződés útján. | előleg folyósítható | egyösszegű kifizetéssel vagy részletekben történő kifizetéssel - időarányosan vagy teljesítésarányosan | - | beszedési megbízás | - | - | - |
+
+[^1]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
