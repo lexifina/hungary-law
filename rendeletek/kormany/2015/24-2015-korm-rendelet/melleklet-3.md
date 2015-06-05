@@ -1,3 +1,3 @@
-3–8. melléklet a 24/2015. (II. 20.) Korm. rendelethez[^23]
+3–8. melléklet a 24/2015. (II. 20.) Korm. rendelethez[^21]
 
-[^23]: A 3–8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 3–8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

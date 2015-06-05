@@ -1,3 +1,3 @@
-1–2. melléklet a 24/2015. (II. 20.) Korm. rendelethez[^22]
+1–2. melléklet a 24/2015. (II. 20.) Korm. rendelethez[^20]
 
-[^22]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 1–2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
