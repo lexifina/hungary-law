@@ -1,4 +1,4 @@
-## 5. §[^4]
+## 5. §[^5]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 5. § 2015. szeptember 1-jén lép hatályba.
 
-[^4]: Az 5. § a 6. § (3) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
+[^5]: Az 5. § a 6. § (3) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
