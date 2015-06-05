@@ -7,11 +7,3 @@
 (4) E törvény végrehajtásához szükséges intézkedésekről az energiapolitikáért felelős miniszter gondoskodik.
 
 (5) A 2007. évi IV. törvénnyel kihirdetett, az ENSZ Éghajlatváltozási Keretegyezményben Részes Felek Konferenciájának 1997. évi harmadik ülésszakán elfogadott Kiotói Jegyzőkönyvnek a Dohai Módosítással egységes szerkezetbe foglalt szövegének és annak hivatalos magyar nyelvű fordításának a közzétételéről az energiapolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – a Dohai Módosítás hatálybalépését követően haladéktalanul gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
