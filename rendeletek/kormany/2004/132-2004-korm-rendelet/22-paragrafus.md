@@ -1,8 +1,8 @@
-## 21. §[^38] A 19. § (1) és (2) bekezdései, valamint a 20. § (1) bekezdése szerinti jelentéseket a szakterület szerint hatáskörrel rendelkező géntechnológiai hatóság készíti el.
+## 21/A. §[^45] A géntechnológiai hatóság a Tv. 37. §-a szerinti eljárása során a 13/A. és 13/C. §-ban foglaltak megfelelő alkalmazásával jár el.
 
 ## Záró rendelkezések
 
-22. §[^39] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+22. §[^46] (1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 98/81/EK irányelve (1998. október 26.) a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról szóló 90/219/EGK irányelv módosításáról, a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 34. §-a (3)–(4), (8) és (10) bekezdéseiben adott felhatalmazások alapján megalkotott miniszteri rendeletekkel együtt,
 
@@ -11,6 +11,8 @@ b) az Európai Parlament és a Tanács 2001/18/EK irányelve (2001. március 12.
 ba) az Európai Parlament és a Tanács 1829/2003/EK rendelete, 43. cikk (1) bekezdése,
 
 bb) az Európai Parlament és a Tanács 1830/2003/EK rendelete, 7. cikk,
+
+bc)[^47] az Európai Parlament és a Tanács 2015/412/EU irányelve,
 
 ## a géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 34. §-a (1) bekezdésének e) pontjában, valamint (3)–(4), (8) és (10) bekezdéseiben adott felhatalmazások alapján megalkotott kormányrendelettel és miniszteri rendeletekkel együtt,
 
@@ -28,5 +30,6 @@ a) az Európai Parlament és a Tanács 1829/2003/EK rendelete (2003. szeptember 
 
 b) a Bizottság 65/2004/EK rendelete (2004. január 14.) a géntechnológiával módosított szervezetek egyedi azonosítóinak kialakítására és hozzárendelésére szolgáló rendszer létrehozásáról, 3. cikk a) és b) pontja.
 
-[^38]: A 21. § a 141/2007. (VI. 20.) Korm. rendelet 3. §-ával megállapított szöveg, a §-t megelőző címet e módosító rendelet 8. § (4) bekezdésének a) pontja hatályon kívül helyezte.
-[^39]: A 22. § a 15/2006. (I. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^45]: A 21/A. §-t a 138/2015. (VI. 4.) Korm. rendelet 2. §-a iktatta be.
+[^46]: A 22. § a 15/2006. (I. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^47]: A 22. § (1) bekezdés b) pont bc) alpontját a 138/2015. (VI. 4.) Korm. rendelet 3. §-a iktatta be.
