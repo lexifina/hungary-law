@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az ENSZ Éghajlatváltozási Keretegyezményéhez fűzött Kiotói Jegyzőkönyv 2012. december 8-án Dohában, az ENSZ Éghajlatváltozási Keretegyezmény Részes Felek 18. Konferenciáján elfogadásra került „dohai módosítása” (a továbbiakban: Dohai Módosítás) kötelező hatályának elismerésére.
