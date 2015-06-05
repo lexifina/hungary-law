@@ -16,6 +16,6 @@
 
 |  | g) | kamarakórus esetében | 5 000 fő |  |
 
-6. melléklet a 14/2012. (III. 6.) NEFMI rendelethez[^36]
+6. melléklet a 14/2012. (III. 6.) NEFMI rendelethez[^41]
 
-[^36]: A 6. melléklet a 35/2013. (V. 22.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^41]: A 6. melléklet a 35/2013. (V. 22.) EMMI rendelet 7. §-ával megállapított szöveg.

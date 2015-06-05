@@ -1,3 +1,3 @@
-## 23. §[^34]
+## 23. §[^39]
 
-[^34]: A 23. §-t a 27/2014. (IV. 8.) EMMI rendelet 4. §-a hatályon kívül helyezte.
+[^39]: A 23. §-t a 27/2014. (IV. 8.) EMMI rendelet 4. §-a hatályon kívül helyezte.

@@ -18,23 +18,9 @@ c) a kiegészítő támogatás kedvezményezettje által kiállított teljesít�
 
 d) az arról szóló nyilatkozatot, hogy előzetes vélelem alapján a kérelmező (az adózó) a Tao. szerinti, kizárólag az alacsonyabb vagy a magasabb adókulccsal is adózó csoportba tartozik, az alapján milyen mértékű kiegészítő támogatás megfizetésére kötelezett.
 
-(4) Az előadó-művészeti szervezet a tárgyév január 31-éig adatot szolgáltat a kijelölt szerv részére
+(4)[^31] A minisztériumnak fizetett kiegészítő támogatást a miniszter által vezetett minisztérium kincstárnál vezetett, 10032000-01220328-50000885 számú, Fejezeti kezelésű EFK alszámla – NKAI (művészeti és működési előirányzatok) elnevezésű számlájára átutalással vagy e fizetési számlára történő készpénzátutalási megbízással kell megfizetni. A kiegészítő támogatás megfizetése során az átutalás közlemény rovatában vagy a fizetési számlára történő készpénzátutalási megbízás befizető azonosító rovatában az „előadó-művészeti szervezet támogatásához kapcsolódóan fizetett kiegészítő támogatás” megjelölést, továbbá a kérelmező, valamint a támogatott szervezet nevét is fel kell tüntetni.
 
-a) a „TESZOR 90.01 Előadó-művészet” alá tartozó tevékenységek és
-
-b) a „TESZOR 93.2. Egyéb szórakoztatás, szabadidős tevékenység” közül a bábszínházi előadás általános forgalmi adóval csökkentett, megelőző évi tényleges jegy- és bérletbevételéről.
-
-(5) Az előadó-művészeti szervezet külföldi előadásai, hangversenyei közül kizárólag az EGT-tagállamokban tartott, szerződő fél által kiállított igazolásban szereplő jegybevételről kell adatot szolgáltatni.
-
-(6) A (4) és (5) bekezdés szerinti adatszolgáltatáshoz csatolni kell:
-
-a) a jegybevétel könyvviteli nyilvántartásokban történő rögzítését bizonyító főkönyvi kivonatot, valamint a jegybevétel elemeit tartalmazó főkönyvi kartonok tételes forgalmát,
-
-b) a jegyet értékesítő szervezettel kötött szerződést és a jegyet értékesítő szervezet által hitelesített, az előadó-művészeti szervezet nevét, székhelyét, az előadás címét, szerzőjét, helyszínét és időpontját, a fizető nézőszámot, a teljes, valamint az átengedett jegybevétel összegét tartalmazó jegybevétel-igazolás másolatát előadásonként,
-
-c) gazdasági társaság esetén a tárgyévi előadások, hangversenyek jegybevételének előadás, hangverseny időpontja szerinti analitikáját, valamint
-
-d) alapítvány és egyesület esetén a számviteli rendjüknek megfelelő, az előadások, hangversenyek jegybevételének az előadás, hangverseny időpontja szerinti analitikáját.
+(5)–(6)[^32]
 
 (7) A kijelölt szerv által kiállított támogatási igazolás tartalmazza:
 
@@ -52,8 +38,9 @@ f) a kiegészítő támogatás megfizetésének időpontját, valamint
 
 g) a kiegészítő támogatás összegét.
 
-(8) A kijelölt szerv a támogatási igazolással összefüggésben birtokába került okiratokat és egyéb dokumentumokat a támogatási igazolás kiállításának évét követő 10 évig őrzi meg.
-
-(9) A minisztériumnak fizetett kiegészítő támogatást az Emberi Erőforrások Minisztériuma Magyar Államkincstárnál vezetett, 10032000-01220328-50000005 számú, Fejezeti kezelésű előirányzat-felhasználási keretszámlájára átutalással vagy e fizetési számlára történő készpénzátutalási megbízással kell megfizetni. A kiegészítő támogatás megfizetése során az átutalás közlemény rovatában vagy a fizetési számlára történő készpénzátutalási megbízás befizető azonosító rovatában az „előadó-művészeti szervezet támogatásához kapcsolódóan fizetett kiegészítő támogatás” megjelölést, továbbá a kérelmező, valamint a támogatott szervezet nevét is fel kell tüntetni.
+(8)–(9)[^33]
 
 [^30]: A 16. § a 27/2014. (IV. 8.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^31]: A 16. § (4) bekezdése a 29/2015. (V. 28.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^32]: A 16. § (5)–(6) bekezdését a 29/2015. (V. 28.) EMMI rendelet 8. §-a hatályon kívül helyezte.
+[^33]: A 16. § (8)–(9) bekezdését a 29/2015. (V. 28.) EMMI rendelet 8. §-a hatályon kívül helyezte.
