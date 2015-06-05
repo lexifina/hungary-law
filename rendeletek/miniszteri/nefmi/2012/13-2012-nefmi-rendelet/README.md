@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-13-20-2
 | 2012-03-14 | 2012-13-20-2V.1 | 13/2012. (III. 6.) NEFMI rendelet |
 | 2012-03-31 | 2012-13-20-2V.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-12-01 | 2012-13-20-2V.3 | 44/2012. (XI. 30.) EMMI rendelet |
+| 2015-06-05 | 2012-13-20-2V.4 | 29/2015. (V. 28.) EMMI rendelet |

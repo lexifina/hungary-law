@@ -2,4 +2,6 @@
 
 3. § (1) A támogatások igénybevételére vonatkozó jogosultság igazolásáért a kérelmezőnek az elsőfokú eljárásban 10 000 forint, a másodfokú eljárásban 16 000 forint összegű igazgatási szolgáltatási díjat kell fizetnie.
 
-(2) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 38. pontja szerinti támogatási igazolás kiállításáért a kérelmezőnek az elsőfokú eljárásban 20 000 forint, a másodfokú eljárásban 16 000 forint összegű igazgatási szolgáltatási díjat kell fizetnie.
+(2)[^1] A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao.) 22. § (4) bekezdése szerinti támogatási igazolás kiállításáért a kérelmezőnek az elsőfokú eljárásban 20 000 forint, a másodfokú eljárásban 16 000 forint összegű igazgatási szolgáltatási díjat kell fizetnie.
+
+[^1]: A 3. § (2) bekezdése a 29/2015. (V. 28.) EMMI rendelet 2. §-a szerint módosított szöveg.
