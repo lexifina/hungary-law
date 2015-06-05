@@ -188,4 +188,6 @@
 
 ## Egyéb, központi költségvetési támogatásból a tárgyévben megvalósult szakmai program bemutatása (opcionális): max. 4000 karakter
 
-2. melléklet a 34/2013. (V. 14.) EMMI rendelethez
+2. melléklet a 34/2013. (V. 14.) EMMI rendelethez[^8]
+
+[^8]: A 2. melléklet a 29/2015. (V. 28.) EMMI rendelet 12. § (1) bekezdésével megállapított szöveg.

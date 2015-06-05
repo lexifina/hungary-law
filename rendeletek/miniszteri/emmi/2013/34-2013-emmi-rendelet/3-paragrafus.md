@@ -28,4 +28,6 @@ k) föld-, telek-, ingatlanvásárlás költségei,
 
 l) természetbeni hozzájárulások (ideértve a reprezentáció költségeit is).
 
-(4) A Tao. támogatás esetén a (3) bekezdés szerinti költségeken túl nem számolható el a közvetítő szervezet szolgáltatásának ellenértéke.
+(4)[^2]
+
+[^2]: A 3. § (4) bekezdését a 29/2015. (V. 28.) EMMI rendelet 13. § a) pontja hatályon kívül helyezte.

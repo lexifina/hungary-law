@@ -1,5 +1,6 @@
-4. § (1) A jogosulatlanul igénybe vett támogatás összege után a Támogatott az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 106. § (1) bekezdése szerinti kamatot fizet a jogosulatlan igénybevétel napjától a visszafizetés napjáig.
+4. § (1)–(2)[^3]
 
-(2) A tárgyévet követő év június 30-ig fel nem használt támogatást a Támogatott köteles haladéktalanul visszafizetni a központi költségvetésbe.
+(3)[^4] A támogatott előadó-művészeti szervezet köteles a támogatás, felhasználásáról elkülönített, naprakész nyilvántartást vezetni és azt a felhasználást követő tíz évig megőrizni.
 
-(3) A támogatott előadó-művészeti szervezet köteles a támogatás, valamint a Tao. támogatás felhasználásáról elkülönített, naprakész nyilvántartást vezetni és azt a felhasználást követő tíz évig megőrizni.
+[^3]: A 4. § (1)–(2) bekezdését a 29/2015. (V. 28.) EMMI rendelet 13. § b) pontja hatályon kívül helyezte.
+[^4]: A 4. § (3) bekezdése a 29/2015. (V. 28.) EMMI rendelet 13. § b) pontja szerint módosított szöveg.

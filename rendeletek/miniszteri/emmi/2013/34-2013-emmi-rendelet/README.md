@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-34-20-5
 | 2014-01-01 | 2013-34-20-5H.4 | 2010: CXXX. törvény |
 | 2014-04-09 | 2013-34-20-5H.5 | 27/2014. (IV. 8.) EMMI rendelet |
 | 2015-01-01 | 2013-34-20-5H.6 | 27/2014. (IV. 8.) EMMI rendelet |
+| 2015-06-05 | 2013-34-20-5H.7 | 29/2015. (V. 28.) EMMI rendelet |
