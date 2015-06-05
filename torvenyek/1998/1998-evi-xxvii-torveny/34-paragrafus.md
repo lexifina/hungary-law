@@ -61,3 +61,5 @@ d) az egymás melletti termesztésre vonatkozó képzésre és vizsgáztatásra 
 (9) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben megállapítsa a védzáradéki eljárás alá vont termékként vagy termékekben megjelenő géntechnológiával módosított szervezetek listáját és meghatározza a védzáradéki eljárás időtartamára szükséges biztonsági intézkedéseket.
 
 (10) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az oktatásért felelős miniszter és az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a Géntechnológiai Bizottság szervezeti felépítésének és működésének részletes szabályait.
+
+(11) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg a termesztési tilalommal érintett géntechnológiával módosított szervezetek, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának körét és a termesztési tilalom elrendelése alapján szükséges tárolási, szállítási, forgalmazási vagy egyéb biztonsági intézkedésekre vonatkozó előírásokat.

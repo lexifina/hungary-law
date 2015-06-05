@@ -24,6 +24,8 @@ a) a termesztési engedély iránti kérelem beérkezését írásban visszaigaz
 
 b)–c)
 
+(5a) Amennyiben a termesztési engedély iránti kérelmet a 11/A. § (7) bekezdése szerinti várakozási idő alatt nyújtja be a kérelmező, a termesztési hatóság az engedélyezési eljárást a várakozási idő tartamára felfüggeszti.
+
 (6) A termesztési hatóság a kérelem megérkezését követő 40 napon belül előzetes állásfoglalást bocsát ki a géntechnológiával módosított növények termesztése során biztosítandó pufferzóna méretéről és a termesztés egyéb feltételeiről. Az előzetes állásfoglalás nem jogosít a termesztés megkezdésére.
 
 (7) A géntechnológiával módosított növények és a hagyományos módon, valamint az ökológiai gazdálkodással termesztett növények közötti pufferzóna e törvény felhatalmazása alapján kiadott jogszabályban meghatározott minimális méreténél a termesztési hatóság speciális esetben nagyobb távolságot is megállapíthat, a helyi természeti, földrajzi és egyéb, a termesztést befolyásoló adottságok alapján. A termesztési hatóság a pufferzóna e törvény felhatalmazása alapján kiadott jogszabályban meghatározott minimális méreténél nagyobb távolságot megállapíthat továbbá akkor is, ha a védett, fokozottan védett és érzékeny természeti területek, a NATURA 2000 területek, valamint a génbanki területek és a géntechnológiával módosított növények termőterületének határvonala között a távolság kisebb, mint a pufferzóna minimális méretének kétszerese. A termesztési hatóság által meghatározott pufferzóna mérete nem haladhatja meg a minimális méret kétszeresét.

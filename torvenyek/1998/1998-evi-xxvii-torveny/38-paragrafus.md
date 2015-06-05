@@ -6,7 +6,9 @@ a) a géntechnológiával módosított szervezetek környezetbe történő szán
 
 b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
 
-c) a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról szóló, 2009. május 6-i 2009/41/EK európai parlamenti és tanácsi irányelvnek
+c) a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő felhasználásáról szóló, 2009. május 6-i 2009/41/EK európai parlamenti és tanácsi irányelvnek,
+
+d) a 2001/18/EK irányelvnek a tagállamok számára a géntechnológiával módosított szervezetek (GMO-k) területükön történő termesztésének korlátozására, illetve megtiltására biztosított lehetőség tekintetében történő módosításáról szóló, 2015. március 11-i 2015/412/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

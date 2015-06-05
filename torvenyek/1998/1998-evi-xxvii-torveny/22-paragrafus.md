@@ -12,11 +12,11 @@ c) az engedélyezett tevékenység kockázatának növekedésére vonatkozóan b
 
 (2) Az ellenőrzésre jogosult hatóság az (1) bekezdésben foglaltakon túlmenően az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő intézkedéseket hozhatja:
 
-a) az engedéllyel nem rendelkező, védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét megtilthatja;
+a) az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét megtilthatja;
 
-b) elrendelheti az engedéllyel nem rendelkező, védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék forgalomból való kivonását, megsemmisítését;
+b) elrendelheti az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezet, illetve az abból előállított termék forgalomból való kivonását, megsemmisítését;
 
-c) az engedéllyel nem rendelkező, védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezetből álló vagy ezt tartalmazó növényfajta vonatkozásában termelési, betakarítási tilalmat rendelhet el,
+c) az engedéllyel nem rendelkező, termesztési tilalom vagy védzáradéki eljárás alá vont vagy az előírásoknak meg nem felelő géntechnológiával módosított szervezetből álló vagy ezt tartalmazó növényfajta vonatkozásában termelési, betakarítási tilalmat rendelhet el,
 
 d) elrendelheti az engedéllyel nem rendelkező géntechnológiával módosított állat vizsgálatát, elkülönítését vagy leölését;
 
@@ -26,7 +26,7 @@ e) a határállomásokon végzett ellenőrzése során elrendelheti az e törvé
 
 a) az (1) bekezdés a) és b) pontjában foglaltak,
 
-b) a 11/B. § (3) bekezdése szerinti rendeletben meghatározott tilalom, korlátozás megszegése, vagy
+b) a 11/A. § (7) bekezdése vagy 11/B. § (3) bekezdése szerinti rendeletben meghatározott tilalom, korlátozás megszegése, vagy
 
 c) a III. Fejezetben foglalt előírások megsértése
 

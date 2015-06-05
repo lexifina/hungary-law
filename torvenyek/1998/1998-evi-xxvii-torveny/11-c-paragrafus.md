@@ -8,4 +8,12 @@
 
 (4) A géntechnológiával módosított állatfajták fajtaelismerési eljárásának feltétele, hogy a fajtaelismerést kérő a forgalomba hozatali engedélyt az állatfajták fajtaelismerését végző hatósághoz benyújtotta.
 
-(5) Ha a géntechnológiával módosított szervezet forgalomba hozatalát a 11/B. § (2) bekezdése alapján korlátozták vagy megtiltották, az állami elismerésről, illetve a fajtaelismerésről szóló határozat nem adható ki.
+(5) Az állami elismerésről, illetve a fajtaelismerésről szóló határozat nem adható ki, ha
+
+a) a géntechnológiával módosított szervezet, illetve növényfaj vagy jelleg alapján meghatározott géntechnológiával módosított szervezetek csoportjának
+
+aa) magyarországi termesztésére a géntechnológiával módosított termék forgalomba hozatali engedélyének hatálya nem terjed ki,
+
+ab) magyarországi termesztését a 11/A. § (7) bekezdése alapján az agrárpolitikáért felelős miniszter megtiltotta, vagy
+
+b) a géntechnológiával módosított szervezet forgalomba hozatalát a 11/B. § (2) bekezdése alapján korlátozták vagy megtiltották.
