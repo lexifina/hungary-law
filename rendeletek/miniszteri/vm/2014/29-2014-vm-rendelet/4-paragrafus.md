@@ -24,8 +24,10 @@ j) Az állami átvétel során vizsgálni kell az adatok teljességét, lefedi-e
 
 k) az állami átvételi eljáráshoz biztosítani kell a készíttető által előre meghatározott műszaki paramétereket, vizsgálni kell a műszaki paramétereknek való megfelelőségét;
 
-l) az állami átvétel során a légifelvételek műszaki paramétereinek és a leadandó munkarészeknek meg kell felelnie a térképészetért felelős miniszter (a továbbiakban: miniszter) által a földhivatali tájékoztatás céljából üzemeltetett elektronikus honlapon, valamint a FÖMI honlapján közzétett szabályzatban rögzítetteknek;
+l)[^1] az állami átvétel során a légifelvételek műszaki paramétereinek és a leadandó munkarészeknek meg kell felelnie a földügyi szakigazgatás hivatalos honlapján, valamint a FÖMI honlapján közzétett szabályzatban rögzítetteknek;
 
 m) az állami átvételt legalább 5 éves szakmai gyakorlattal, szakirányú felsőfokú végzettséggel rendelkező, a földmérési és térinformatikai államigazgatási szerv, a kizárólag honvédelmi célból készített távérzékelési anyagok vonatkozásában a honvédelem térképészeti támogatásáért felelős szerv állományába tartozó szakember végezheti;
 
 n) az állami átvételi eljárásról jegyzőkönyvet kell készíteni, amely tartalmazza a „megfelelt” vagy „nem megfelelt” minősítést.
+
+[^1]: A 4. § l) pontja a 29/2015. (VI. 5.) FM rendelet 10. § a) pontja szerint módosított szöveg.
