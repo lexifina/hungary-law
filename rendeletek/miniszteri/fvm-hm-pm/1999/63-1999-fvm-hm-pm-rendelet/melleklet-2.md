@@ -1,8 +1,8 @@
-2. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^30]
+2. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^39]
 
 ## Sajátos célú földmérési és térképészeti munkák hatósági vizsgálatának igazgatási szolgáltatási díjai
 
-## A záradékolást megelőző földhivatali vizsgálat díja:
+## A záradékolást megelőző ingatlanügyi hatósági vizsgálat díja:
 
 1. Földrészlet határvonalának változása esetén összesen:
 
@@ -48,4 +48,4 @@ a) egy földrészlet után 500 Ft/földrészlet
 
 b) minden további földrészlet után 150 Ft/földrészlet
 
-[^30]: A 2. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
+[^39]: A 2. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés l) pontja szerint módosított szöveg.

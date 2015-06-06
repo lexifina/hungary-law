@@ -1,4 +1,4 @@
-1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^29]
+1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^38]
 
 ## Igazgatási szolgáltatási díjak
 
@@ -240,7 +240,7 @@ b) Analóg és digitális közműnyilvántartás esetében a díjat a települé
 
 c) A közműnyilvántartási térkép munkarészeinek szolgáltatási díját a szolgáltatást végző szervezet a közművek üzemeltetőivel közösen állapítja meg. A díj tartalmazza a szolgáltatáshoz szükséges költségeket és az e táblázat alapján évente fizetendő adatfelhasználási díjat is, melyet e rendelet 15. § (2) bekezdése szerint az adatszolgáltatónak kell megfizetnie.
 
-d) A nyilvántartási és térinformatikai rendszerek aktualizálása érdekében a földhivatal által időközben átvezetett jogerős változásokért a 3. számú táblázat, digitális adatok esetében a 7., illetve a 8. számú táblázat szerinti díjat kell megfizetni.
+d) A nyilvántartási és térinformatikai rendszerek aktualizálása érdekében a járási hivatal által időközben átvezetett jogerős változásokért a 3. számú táblázat, digitális adatok esetében a 7., illetve a 8. számú táblázat szerinti díjat kell megfizetni.
 
 7. Adatszolgáltatás digitális adatállományból
 
@@ -378,4 +378,4 @@ f) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 
 g) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
-[^29]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja szerint módosított szöveg.
+[^38]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja szerint módosított szöveg.

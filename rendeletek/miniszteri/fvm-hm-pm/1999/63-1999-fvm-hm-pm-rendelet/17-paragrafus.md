@@ -1,8 +1,8 @@
-## 16. §[^26] Az Fttv. 12. § (5) bekezdésében foglalt ismételt mulasztás esetén a földhivatal által elrendelt bemérésért a tulajdonos a ,,Mérnöki Szolgáltatások Ajánlott Díjszabása'' (MÉDI) szerinti munkadíj 130%-át köteles megfizetni, mely teljes egészében a földhivatalt illeti. Az így számított összegen felül az adatszolgáltatás és a földhivatali vizsgálat díját is meg kell téríttetni.
+## 16. §[^34] A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 14. § (4) bekezdésében foglalt ismételt mulasztás esetén az illetékes járási hivatal által elrendelt bemérésért a tulajdonos a „Mérnöki Szolgáltatások Ajánlott Díjszabása” (MÉDI) szerinti munkadíj 130%-át köteles megfizetni, mely teljes egészében az illetékes kormányhivatalt illeti. Az így számított összegen felül az adatszolgáltatás és a változási vázrajz vizsgálatának díját is meg kell téríteni.
 
-17. § (1)[^27] Az ingatlanrendező földmérői minősítés elbírálásának díja 5000 Ft. Az elveszett, megrongálódott, megsemmisült oklevélről kiállított másolat díja 1500 Ft.
+17. § (1)[^35] Az ingatlanrendező földmérői minősítés elbírálásának díja 5000 Ft. Az elveszett, megrongálódott, megsemmisült oklevélről kiállított másolat díja 1500 Ft.
 
 (2) A földmérő igazolvány kiadásának, kicserélésének és pótlásának díja 4000 Ft.
 
-[^26]: A 16. § a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 8. §-a szerint módosított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
-[^27]: A 17. § (1) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 9. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
+[^34]: A 16. § a 29/2015. (VI. 5.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^35]: A 17. § (1) bekezdése a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 9. §-ával megállapított szöveg, e módosító rendelet 11. §-a alapján rendelkezéseit a 2004. november 23. napját követően kezdeményezett ügyekben kell alkalmazni.
