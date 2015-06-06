@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-24-20-2
 | 2015-04-01 | 2015-24-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-04-02 | 2015-24-20-22.4 | 2010: CXXX. törvény |
 | 2015-06-05 | 2015-24-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2015-06-06 | 2015-24-20-22.6 | 2010: CXXX. törvény |

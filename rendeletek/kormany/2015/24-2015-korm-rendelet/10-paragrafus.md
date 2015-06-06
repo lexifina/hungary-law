@@ -1,7 +1,7 @@
-## 9. §[^6]
+## 9. §[^7]
 
 ## 3. Az egyes pénzbeli szociális ellátások elszámolásának szabályairól szóló
 
 ## 62/2006. (III. 27.) Korm. rendelet módosítása
 
-[^6]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
