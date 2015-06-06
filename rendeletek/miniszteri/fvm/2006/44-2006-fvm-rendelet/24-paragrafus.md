@@ -10,6 +10,6 @@ c) a tört helyrajzi számok nagy száma
 
 (2) Átszámozást a helyrajziszámozás általános előírásai szerint kell végezni.
 
-(3)[^2] Az átszámozáshoz az illetékes megyei földhivatalnak a Vidékfejlesztési Minisztérium előzetes engedélyét meg kell kérnie.
+(3)[^6] Az átszámozáshoz az illetékes kormányhivatalnak az ingatlan-nyilvántartásért felelős miniszter előzetes engedélyét meg kell kérnie.
 
-[^2]: A 24. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 55. § b) pontja szerint módosított szöveg.
+[^6]: A 24. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 5. § c) pontja szerint módosított szöveg.
