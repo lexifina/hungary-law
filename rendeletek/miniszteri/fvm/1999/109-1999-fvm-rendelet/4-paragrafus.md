@@ -138,7 +138,7 @@ g) törölt bejegyzésre való utalás,
 
 h) kiegészítő szöveges bejegyzés.
 
-(3a)[^14] Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő földhivatal 4/A. § (6) bekezdése szerinti rövidített nevének megjelölését.
+(3a)[^14] Az illetékességi terület-változásból eredő átcsatolás esetén a tulajdoni lap III. része – ideértve az egyidejűleg megszüntetett tulajdoni lapot is – önálló sorszám alatt tartalmazza a változásra történő utalást, annak dátumát, valamint az átadó, illetve az átvevő ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), valamint az ingatlanügyi hatóságként eljáró járási hivatal, a fővárosban a Fővárosi XI. és XIV. Kerületi Hivatal (a továbbiakban: járási hivatal) megjelölését.
 
 (4) A tulajdoni lap természetes személy jogosult esetén tartalmazza a személyi azonosítót, a statisztikai számjelről szóló jogszabály hatálya alá tartozó szervezet esetén annak statisztikai számjelét.
 
@@ -150,4 +150,4 @@ h) kiegészítő szöveges bejegyzés.
 [^11]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
 [^12]: A 4. § (2) bekezdése a 13/2014. (IX. 25.) FM rendelet 1. §-ával megállapított szöveg.
 [^13]: A 4. § (2) bekezdés 5. pontja a 39/2014. (XII. 18.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^14]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^14]: A 4. § (3a) bekezdését a 148/2012. (XII. 28.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 1. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 1.[^310] Az ingatlan-nyilvántartási kérelem első része az alábbi adatokat tartalmazza:
+## 1.[^329] Az ingatlan-nyilvántartási kérelem első része az alábbi adatokat tartalmazza:
 
 ## 1.1. a kérelmező értesítési címe, ügyintézőjének neve;
 
@@ -6,7 +6,7 @@
 
 ## 1.3. a kérelmező állampolgársága, vagy cégjegyzékszáma;
 
-## 1.4. a kérelemhez kapcsolódó földhivatali iktatószám (ha ismert);
+## 1.4.[^330] a kérelemhez kapcsolódó földhivatali iktatószám (ha ismert);
 
 ## 1.5. a változással érintett ingatlanok darabszáma;
 
@@ -30,9 +30,9 @@
 
 ## 1.15. a kérelmező, vagy képviselő aláírása;
 
-## 1.16. készpénzbefizetés vagy bankkártyával történő fizetés esetén a földhivatali pénztáros nyilatkozata;
+## 1.16.[^331] készpénzbefizetés vagy bankkártyával történő fizetés esetén a díj megfizetését igazoló nyilatkozat;
 
-## 1.17. az ingatlan-nyilvántartási kérelem vizsgálatával kapcsolatos földhivatali megállapítások.
+## 1.17.[^332] az ingatlan-nyilvántartási kérelem vizsgálatával kapcsolatos földhivatali megállapítások.
 
 ## 2. Az ingatlan-nyilvántartási kérelem második része a változással érintett ingatlan (ingatlanok) tekintetében az alábbi adatokat tartalmazza:
 
@@ -50,7 +50,10 @@
 
 ## 2.7. a kérelmező, vagy képviselő aláírása.
 
-2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^311]
+2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^333]
 
-[^310]: Az 1. számú melléklet 1. pontja a 21/2014. (III. 14.) VM rendelet 27. §-ával megállapított szöveg.
-[^311]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.
+[^329]: Az 1. számú melléklet 1. pontja a 21/2014. (III. 14.) VM rendelet 27. §-ával megállapított szöveg.
+[^330]: [A 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 23. pontjával elrendelt módosítás, amely szerint az „a földhivatali” szövegrész helyébe az „az ingatlan-nyilvántartási” szöveg lép, nem vezethető át.
+[^331]: Az 1. számú melléklet 1.16. pontja a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 24. pontja szerint módosított szöveg.
+[^332]: [A 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 23. pontjával elrendelt módosítás, amely szerint az „a földhivatali” szövegrész helyébe az „az ingatlan-nyilvántartási” szöveg lép, nem vezethető át.
+[^333]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.

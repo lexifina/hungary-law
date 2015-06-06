@@ -1,6 +1,6 @@
 74. § (1) Szövetkezeti ház bejegyzéséhez lakásszövetkezeti alapszabály és alaprajz szükséges.
 
-(2) A lakásszövetkezeti alapszabály ingatlan-nyilvántartási bejegyzés alapjául a földhivatali eljárásban akkor fogadható el, ha tartalmazza:
+(2)[^205] A lakásszövetkezeti alapszabály ingatlan-nyilvántartási bejegyzés alapjául az ingatlan-nyilvántartási eljárásban akkor fogadható el, ha tartalmazza:
 
 a) a szövetkezet megalakulásának a tényét, nevét és székhelyét,
 
@@ -8,7 +8,7 @@ b) a szövetkezeti lakások tulajdonosainak megjelölését,
 
 c) a földrészlet helyrajzi számát,
 
-d)[^198] a szövetkezeti tulajdonba kerülő épületrészek és helyiségek felsorolását római egytől kezdődő számozással,
+d)[^206] a szövetkezeti tulajdonba kerülő épületrészek és helyiségek felsorolását római egytől kezdődő számozással,
 
 e) az egyes tulajdonosok tulajdonába kerülő lakások, illetőleg nem lakás céljára szolgáló más helyiségek meghatározását az alaprajz szerinti arab számozás és az alapterület feltüntetésével.
 
@@ -16,7 +16,8 @@ e) az egyes tulajdonosok tulajdonába kerülő lakások, illetőleg nem lakás c
 
 (4) Szövetkezeti lakás megosztásához az építésügyi hatóság által jóváhagyott vázrajzon kívül a lakásszövetkezeti alapszabály módosítása is szükséges.
 
-(5)[^199] Szövetkezeti házban építés (emeletráépítés, hozzáépítés stb.) útján keletkezett szövetkezeti lakás bejegyzésére irányuló kérelemhez a lakásszövetkezeti alapszabály módosítására vonatkozó okiratot és kiegészítő alaprajzot is csatolni kell. Ezt a rendelkezést kell alkalmazni akkor is, ha a szövetkezeti ház tulajdoni törzslapján nyilvántartott épületrészekből keletkezett új szövetkezeti lakás nyilvántartásba vételét kérik.
+(5)[^207] Szövetkezeti házban építés (emeletráépítés, hozzáépítés stb.) útján keletkezett szövetkezeti lakás bejegyzésére irányuló kérelemhez a lakásszövetkezeti alapszabály módosítására vonatkozó okiratot és kiegészítő alaprajzot is csatolni kell. Ezt a rendelkezést kell alkalmazni akkor is, ha a szövetkezeti ház tulajdoni törzslapján nyilvántartott épületrészekből keletkezett új szövetkezeti lakás nyilvántartásba vételét kérik.
 
-[^198]: A 74. § (2) bekezdésének d) pontja a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^199]: A 74. § (5) bekezdésének második mondatát a 117/2005. (XII. 19.) FVM rendelet 32. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^205]: A 74. § (2) bekezdés nyitó szövegrésze a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 11. pontja szerint módosított szöveg.
+[^206]: A 74. § (2) bekezdésének d) pontja a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^207]: A 74. § (5) bekezdésének második mondatát a 117/2005. (XII. 19.) FVM rendelet 32. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.

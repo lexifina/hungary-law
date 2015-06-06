@@ -8,7 +8,7 @@
 
 (3) A földhasználati jogot az épület mindenkori tulajdonosa javára kell bejegyezni akkor is, ha a megállapodáson alapuló földhasználati jog jogosultja, e jogának bejegyzését követően, az általa létesített épület önálló ingatlanként való bejegyzését kéri.
 
-(4)[^32] Az épület mindenkori tulajdonosát megillető földhasználati jogot a járási földhivatal, a fővárosban a Budapesti 1. és 2. számú Földhivatal (a továbbiakban: járási földhivatal) az épület önálló ingatlanként való bejegyzése iránt megindított eljárásban akkor is bejegyezheti, ha az épületre vonatkozó tulajdonszerzés igazolásaként benyújtott okiratban a felek, vagy határozatában a bíróság a földhasználati jogról nem rendelkezett.
+(4)[^32] Az épület mindenkori tulajdonosát megillető földhasználati jogot a járási hivatal az épület önálló ingatlanként való bejegyzése iránt megindított eljárásban akkor is bejegyezheti, ha az épületre vonatkozó tulajdonszerzés igazolásaként benyújtott okiratban a felek, vagy határozatában a bíróság a földhasználati jogról nem rendelkezett.
 
 [^31]: Az 5. alcím a 48/2010. (IV. 27.) FVM rendelet 11. §-ával megállapított szöveg.
-[^32]: A 9. § (4) bekezdése a 148/2012. (XII. 28.) VM rendelet 24. § e) pontja szerint módosított szöveg.
+[^32]: A 9. § (4) bekezdése a 148/2012. (XII. 28.) VM rendelet 24. § e) pontja, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 3. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 63.[^245] Perfeljegyzés
+## 63.[^262] Perfeljegyzés
 
-[^245]: A 63. alcím a 48/2010. (IV. 27.) FVM rendelet 81. §-ával megállapított szöveg.
+[^262]: A 63. alcím a 48/2010. (IV. 27.) FVM rendelet 81. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## megnevezést kell használni.
-
 ## 1/A. [^18] Bejegyzés, feljegyzés és az adatváltozás átvezetése a tulajdoni lapon
 
 5. § (1) A bejegyzéseket, feljegyzéseket és az adatváltozásra vonatkozó átvezetéseket (a továbbiakban együtt: bejegyzés) a tulajdoni lap mindhárom részén sorszámozni kell. Ha a bejegyzésben több jogosult szerepel, minden jogosult neve előtt külön sorszámot kell feltüntetni.

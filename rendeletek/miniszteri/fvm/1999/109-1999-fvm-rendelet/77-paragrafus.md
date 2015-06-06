@@ -1,26 +1,30 @@
-## 56.[^202] Több járási földhivatalt érintő beadvány benyújtása
+## 56.[^212] Több járási hivatalt érintő beadvány benyújtása
 
-77. §[^203] (1) Ha a földhivatalokról, a Földmérési és Távérzékelési Intézetről, a Földrajzinév Bizottságról és az ingatlan-nyilvántartási eljárás részletes szabályairól szóló 338/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 7. § (4) és (5) bekezdése szerinti kérelmet eredeti okiratokkal együtt ugyanazon a napon több járási földhivatalhoz is benyújtották, a döntés meghozatalára, valamint az ezzel kapcsolatos intézkedések megtételére az a járási földhivatal jogosult, amelynek illetékességi területén
+77. §[^213] (1)[^214]
 
-a) az eljárás több ingatlant érint, ennek hiányában
+(2)[^215] A földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet (a továbbiakban: R.) 9. § (2) és (3) bekezdése szerinti kérelem, megkeresés széljegyzését, a döntés foganatosítását, továbbá – a döntés meghozatalára jogosult járási földhivatal megkeresése alapján – a fellebbezés, bírósági jogorvoslati kérelem, felülvizsgálati kérelem, eljárás felfüggesztése, valamint az ügyészi felhívás és az azon alapuló ügyészi fellépés tényének feljegyzését és törlését az ingatlan fekvése szerint illetékes járási földhivatal végzi.
 
-b) a bejegyzés alapjául szolgáló okiratban első helyen megjelölt ingatlan fekszik.
+(3)[^216] A (2) bekezdésben részletezett intézkedést a járási hivatal – jogszabály eltérő rendelkezése hiányában – 5 napon belül foganatosítja, és annak megtörténtéről a döntés meghozatalára jogosult járási hivatalt egyidejűleg elektronikus úton is értesíti.
 
-(2) A R. 7. § (4) és (5) bekezdése szerinti kérelem, megkeresés széljegyzését, a döntés foganatosítását, továbbá – a döntés meghozatalára jogosult járási földhivatal megkeresése alapján – a fellebbezés, bírósági jogorvoslati kérelem, felülvizsgálati kérelem, eljárás felfüggesztése, valamint az ügyészi felhívás és az azon alapuló ügyészi fellépés tényének feljegyzését és törlését az ingatlan fekvése szerint illetékes járási földhivatal végzi.
+(4)[^217] A döntés kézbesítéséről – a foganatosításról történt tudomásszerzést követően – a döntés meghozatalára jogosult járási hivatal haladéktalanul gondoskodik.
 
-(3) A (2) bekezdésben részletezett intézkedést a járási földhivatal – jogszabály eltérő rendelkezése hiányában – 5 napon belül foganatosítja, és annak megtörténtéről a döntés meghozatalára jogosult járási földhivatalt egyidejűleg elektronikus úton is értesíti.
+(5)[^218] A döntés meghozatalára jogosult járási hivatal a fellebbezés, a bírósági jogorvoslati kérelem, felülvizsgálati kérelem, valamint az ügyészi felhívásra és az azon alapuló ügyészi fellépésre irányuló megkeresés másolatának megküldésével haladéktalanul megkeresi az eljárással érintett többi járási hivatalt a fellebbezés, a bírósági jogorvoslati kérelem, a felülvizsgálati kérelem, valamint az ügyészi felhívás és az azon alapuló ügyészi fellépés tényének az érintett ingatlan tulajdoni lapjára történő feljegyzése végett.
 
-(4) A döntés kézbesítéséről – a foganatosításról történt tudomásszerzést követően – a döntés meghozatalára jogosult járási földhivatal haladéktalanul gondoskodik.
+(6)[^219] A bejegyzésben fel kell tüntetni a döntést hozó járási hivatal nevét és döntésének számát.
 
-(5) A döntés meghozatalára jogosult járási földhivatal a fellebbezés, a bírósági jogorvoslati kérelem, felülvizsgálati kérelem, valamint az ügyészi felhívásra és az azon alapuló ügyészi fellépésre irányuló megkeresés másolatának megküldésével haladéktalanul megkeresi az eljárással érintett többi járási földhivatalt a fellebbezés, a bírósági jogorvoslati kérelem, a felülvizsgálati kérelem, valamint az ügyészi felhívás és az azon alapuló ügyészi fellépés tényének az érintett ingatlan tulajdoni lapjára történő feljegyzése végett.
+(7)[^220] Az eljárás lefolytatása szempontjából lényeges intézkedésekről (például az eljárás akadályát képező megelőző széljegy elintézése) az eljárással érintett járási hivatalok haladéktalanul elektronikus úton is értesítik egymást.
 
-(6) A bejegyzésben fel kell tüntetni a döntést hozó járási földhivatal nevét és döntésének számát.
-
-(7) Az eljárás lefolytatása szempontjából lényeges intézkedésekről (például az eljárás akadályát képező megelőző széljegy elintézése) az eljárással érintett járási földhivatalok haladéktalanul elektronikus úton is értesítik egymást.
-
-(8) A döntés meghozatalára jogosult járási földhivatal döntése ellen – ideértve a (2) bekezdés szerinti intézkedéseket is – benyújtott fellebbezést elbíráló megyei földhivatal döntését, jogorvoslat esetén a bírósági jogerős döntését, továbbá a felülvizsgálati eljárásban született döntést valamennyi az ügyben érintett földhivatallal közvetlenül közli.
+(8)[^221] A döntés meghozatalára jogosult járási hivatal döntése ellen – ideértve a (2) bekezdés szerinti intézkedéseket is – benyújtott fellebbezést elbíráló kormányhivatal döntését, jogorvoslat esetén a bírósági jogerős döntését, továbbá a felülvizsgálati eljárásban született döntést valamennyi az ügyben érintett járási hivatallal közvetlenül közli.
 
 (9) A (8) bekezdésben meghatározott döntésekkel kapcsolatos foganatosító intézkedésekre a (2) és (3) bekezdésben, azok közlésére pedig a (4) bekezdésben foglaltak megfelelően irányadók.
 
-[^202]: Az 56. alcím a 48/2010. (IV. 27.) FVM rendelet 69. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a szerint módosított szöveg.
-[^203]: A 77. § a 148/2012. (XII. 28.) VM rendelet 12. §-ával megállapított szöveg.
+[^212]: Az 56. alcím a 48/2010. (IV. 27.) FVM rendelet 69. §-ával megállapított, a 148/2012. (XII. 28.) VM rendelet 22. §-a, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 13. pontja szerint módosított szöveg.
+[^213]: A 77. § a 148/2012. (XII. 28.) VM rendelet 12. §-ával megállapított szöveg.
+[^214]: A 77. § (1) bekezdését a 29/2015. (VI. 5.) FM rendelet 4. § (10) bekezdés b) pontja hatályon kívül helyezte.
+[^215]: A 77. § (2) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 12. pontja szerint módosított szöveg.
+[^216]: A 77. § (3) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. és 13. pontja szerint módosított szöveg.
+[^217]: A 77. § (4) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja szerint módosított szöveg.
+[^218]: A 77. § (5) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. és 13. pontja szerint módosított szöveg.
+[^219]: A 77. § (6) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. pontja szerint módosított szöveg.
+[^220]: A 77. § (7) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 14. pontja szerint módosított szöveg.
+[^221]: A 77. § (8) bekezdése a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 6. és 15–16. pontja szerint módosított szöveg.

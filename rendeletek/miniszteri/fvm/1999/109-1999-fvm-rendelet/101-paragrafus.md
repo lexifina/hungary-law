@@ -1,5 +1,5 @@
 ## 100. § Nincs szükség a jogszerző hozzájáruló nyilatkozatára, ha a bejegyzés kijavítása alapjául a földrészlet területének (határvonalának) felmérési, térképezési vagy területszámítási hibával összefüggő – természetbeni állapotot nem érintő – kijavítása szolgált.
 
-## 62.[^234] Jogorvoslat
+## 62.[^250] Jogorvoslat
 
-[^234]: A 62. alcím a 48/2010. (IV. 27.) FVM rendelet 77. §-ával megállapított szöveg.
+[^250]: A 62. alcím a 48/2010. (IV. 27.) FVM rendelet 77. §-ával megállapított szöveg.

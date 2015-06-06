@@ -1,6 +1,6 @@
-## 30.[^99] Jelzálogjog ranghelyének előzetes biztosítása
+## 30.[^103] Jelzálogjog ranghelyének előzetes biztosítása
 
-35. §[^100] (1) A jelzálogjog ranghelyét előzetesen biztosító feljegyzésben meg kell jelölni a terhelés és járulékai legnagyobb összegét.
+35. §[^104] (1) A jelzálogjog ranghelyét előzetesen biztosító feljegyzésben meg kell jelölni a terhelés és járulékai legnagyobb összegét.
 
 (2) A jelzálogjogot az (1) bekezdés szerinti feljegyzés ranghelyén kell bejegyezni, tekintet nélkül az időközben történt végrehajtási intézkedésre, végelszámolási vagy felszámolási eljárásra.
 
@@ -10,5 +10,5 @@
 
 (5) A jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogát a későbbi rangsorban bejegyzett elidegenítési és terhelési tilalom, elidegenítési tilalom csak abban az esetben szünteti meg, ha a zálogkötelezett a tilalom bejegyzésével kapcsolatosan az előzetesen biztosított jelzálogjogi ranghely tekintetében a ranghellyel rendelkezés jogáról a tilalom jogosultja javára külön lemondott.
 
-[^99]: A 30. alcím a 48/2010. (IV. 27.) FVM rendelet 37. §-ával megállapított szöveg.
-[^100]: A 35. § a 21/2014. (III. 14.) VM rendelet 18. §-ával megállapított szöveg.
+[^103]: A 30. alcím a 48/2010. (IV. 27.) FVM rendelet 37. §-ával megállapított szöveg.
+[^104]: A 35. § a 21/2014. (III. 14.) VM rendelet 18. §-ával megállapított szöveg.

@@ -1,16 +1,17 @@
-## 63. § A földek minőségi osztályát (kataszteri tiszta jövedelmét) nem művelési ágváltozásból eredő földminőség változás esetén a földhivatal megváltoztathatja, ha az ingatlan-nyilvántartás adatai és a valóságos állapot között legalább két minőségi osztály különbözet, vagy hektáronként 8 aranykorona eltérés állapítható meg.
+## 63. §[^174] A földek minőségi osztályát (kataszteri tiszta jövedelmét) nem művelési ágváltozásból eredő földminőség változás esetén a járási hivatal megváltoztathatja, ha az ingatlan-nyilvántartás adatai és a valóságos állapot között legalább két minőségi osztály különbözet, vagy hektáronként 8 aranykorona eltérés állapítható meg.
 
-## 53.[^170] Az adatváltozás átvezetése alapjául szolgáló okiratok
+## 53.[^175] Az adatváltozás átvezetése alapjául szolgáló okiratok
 
-64. § (1)[^171] Az ingatlan művelési ágában végrehajtott változást – függetlenül attól, hogy azt bejelentették, vagy arról a földhivatal hivatalból szerez tudomást – helyszíni ellenőrzést követően a természetbeni állapottal egyezően – figyelemmel a (2) bekezdésben foglaltakra – kell átvezetni az ingatlan-nyilvántartásban.
+64. § (1)[^176] Az ingatlan művelési ágában végrehajtott változást – függetlenül attól, hogy azt bejelentették, vagy arról a járási hivatal hivatalból szerez tudomást – helyszíni ellenőrzést követően a természetbeni állapottal egyezően – figyelemmel a (2) bekezdésben foglaltakra – kell átvezetni az ingatlan-nyilvántartásban.
 
 (2) Ha a hatósági engedélyhez (jóváhagyáshoz) kötött művelési ág változást engedély (jóváhagyás) nélkül, vagy az engedélytől eltérően hajtották végre, a változás átvezetése után értesíteni kell azt az államigazgatási szervet, amelynek hatáskörébe tartozik az előírt engedély (jóváhagyás) megadása.
 
-(3)[^172] Erdő és a 48. § (1) bekezdés d) pont szerinti fásított terület művelési ág, valamint az Evt. szerint fás legelő és vadföld megállapítására vagy megváltoztatására irányuló eljárás esetén, a változás ingatlan-nyilvántartási átvezetéséhez az erdészeti hatóság jogerős határozata, illetve az általa kiállított hatósági bizonyítvány, halastó művelési ág megállapítására vagy megváltoztatására irányuló eljárás esetén pedig a vízügyi hatóság jogerős üzemeltetési engedélye szükséges.
+(3)[^177] Erdő és a 48. § (1) bekezdés d) pont szerinti fásított terület művelési ág, valamint az Evt. szerint fás legelő és vadföld megállapítására vagy megváltoztatására irányuló eljárás esetén, a változás ingatlan-nyilvántartási átvezetéséhez az erdészeti hatóság jogerős határozata, illetve az általa kiállított hatósági bizonyítvány, halastó művelési ág megállapítására vagy megváltoztatására irányuló eljárás esetén pedig a vízügyi hatóság jogerős üzemeltetési engedélye szükséges.
 
-(4)[^173]
+(4)[^178]
 
-[^170]: Az 53. alcím a 48/2010. (IV. 27.) FVM rendelet 63. § (1) bekezdésével megállapított szöveg.
-[^171]: A 64. § (1) bekezdése a 117/2005. (XII. 19.) FVM rendelet 26. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^172]: A 64. § (3) bekezdése a 48/2010. (IV. 27.) FVM rendelet 63. § (2) bekezdésével megállapított szöveg.
-[^173]: A 64. § (4) bekezdését a 117/2005. (XII. 19.) FVM rendelet 26. § (2) bekezdése iktatta be, a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.
+[^174]: A 63. § a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 2. pontja szerint módosított szöveg.
+[^175]: Az 53. alcím a 48/2010. (IV. 27.) FVM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^176]: A 64. § (1) bekezdése a 117/2005. (XII. 19.) FVM rendelet 26. § (1) bekezdésével megállapított, a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 2. pontja szerint módosított szöveg.
+[^177]: A 64. § (3) bekezdése a 48/2010. (IV. 27.) FVM rendelet 63. § (2) bekezdésével megállapított szöveg.
+[^178]: A 64. § (4) bekezdését a 117/2005. (XII. 19.) FVM rendelet 26. § (2) bekezdése iktatta be, a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.

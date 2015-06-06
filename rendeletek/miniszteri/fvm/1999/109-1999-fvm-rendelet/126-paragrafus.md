@@ -1,3 +1,3 @@
-## 125. §[^296] Ahol e rendelet csak bejegyzést említ, azalatt a tények feljegyzését is érteni kell.
+## 125/A. §[^313] Ahol e rendelet járási hivatalt említ, azon az R. 1. mellékletében megjelölt járási hivatalt kell érteni.
 
-[^296]: A 125. §-t a 117/2005. (XII. 19.) FVM rendelet 48. §-a iktatta be, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^313]: A 125/A. §-t a 29/2015. (VI. 5.) FM rendelet 4. § (7) bekezdése iktatta be.
