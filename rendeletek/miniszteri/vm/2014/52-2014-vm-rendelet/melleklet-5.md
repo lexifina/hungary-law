@@ -54,7 +54,7 @@
 
 ## A kérelmező közreműködésével vagy általa eddig végzett földmérési referencia munkák felsorolása
 
-|  | A település neve | A munkajellege | A készítő megnevezése | Az átvevő földhivatal | FH záradék száma/éve |
+|  | A település neve | A munkajellege | A készítő megnevezése | Az átvevő ingatlanügyi hatóság | FH záradék száma/éve |
 
 | 1) |  |  |  |  |  |
 
@@ -124,4 +124,6 @@
 
 ## a kérelmező aláírása
 
-5. melléklet az 52/2014. (IV. 29.) VM rendelethez
+5. melléklet az 52/2014. (IV. 29.) VM rendelethez[^14]
+
+[^14]: Az 5. melléklet a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés j) pontja szerint módosított szöveg.

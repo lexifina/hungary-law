@@ -2,7 +2,7 @@
 
 17. § (1) A földmérési és térképészeti tevékenység összhangját és a szakmai követelmények érvényesülését az ingatlanügyi hatóság a földmérési szakfelügyelet útján látja el.
 
-(2) A földmérési szakfelügyeleti feladatokat első fokon a megyei földmérési szakfelügyelő révén megyei földhivatalok látják el. A szakfelügyeleti tevékenységgel kapcsolatban másodfokon a FÖMI országos hatáskörrel jár el.
+(2)[^8] A földmérési szakfelügyeleti feladatokat első fokon a megyei földmérési szakfelügyelő révén kormányhivatalok látják el. A szakfelügyeleti tevékenységgel kapcsolatban másodfokon a FÖMI országos hatáskörrel jár el.
 
 (3) A szakfelügyeleti feladatok körébe tartozik különösen:
 
@@ -29,3 +29,5 @@ j) az ingatlanrendező földmérő minősítés felfüggesztésének, vagy vissz
 (4) Több megye területén földmérési tevékenységet végző gazdálkodó szervezet (a továbbiakban: földmérő szervezet) szakfelügyeleti ellenőrzése a vállalkozás székhelye szerint illetékes megyei földmérési szakfelügyelő hatáskörébe tartozik.
 
 (5) Amennyiben a földmérő szervezet székhelyén kívül végez a szakfelügyeleti ellenőrzés hatálya alá tartozó munkát, az ellenőrzésbe a munkavégzés helye szerint illetékes megyei szakfelügyelőt – megkeresés útján – be kell vonni.
+
+[^8]: A 17. § (2) bekezdése a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés h) pontja szerint módosított szöveg.

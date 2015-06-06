@@ -10,7 +10,7 @@
 
 ## (név, végzettség)
 
-## aki …………… év …………………………… hó …… napján …………………………………………………………………………… városban született, anyja neve ……………………………………………………………………, ingatlanrendező földmérőnek minősítem, és ezzel egyidejűleg a minősítettek nyilvántartásába bejegyeztem.
+## aki …………… év …………………………… hó …… napján …………………………………………………………………………… városban született, anyja neve ……………………………………………………………………, ingatlanrendező földmérőnek minősítem, és ezzel egyidejűleg a minősítettek nyilvántartásába bejegyzem.
 
 ## Nevezett jogszabályban meghatározott ingatlanrendező földmérő minősítéshez kötött földmérési és térképészeti tevékenység végzésére jogosult.
 
@@ -28,7 +28,7 @@
 
 ## Az ingatlanrendező földmérő minősítő vizsga írásbeli és szóbeli vizsgakövetelményei
 
-1. A földügyi igazgatás felépítésének és a földhivatalok hatósági feladatainak ismerete.
+1.[^15] A földügyi igazgatás felépítésének és az ingatlanügyi hatósági feladatok ismerete.
 
 2. A földmérési és térképészeti tevékenységet szabályozó jogszabályok ismerete.
 
@@ -41,3 +41,5 @@
 6. Az ingatlan-nyilvántartási térképi adatbázis változását eredményező földmérési munkákat szabályozó jogszabályok ismerete.
 
 7. A helyrajziszámozásról szóló jogszabályok ismerete.
+
+[^15]: A 6. melléklet 1. pontja a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés k) pontja szerint módosított szöveg.
