@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-155-20-
 | 2013-01-01 | 2009-155-20-82.3 | 151/2012. (XII. 29.) VM rendelet |
 | 2013-08-01 | 2009-155-20-82.4 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-02-03 | 2009-155-20-82.5 | 1/2014. (I. 3.) VM rendelet |
+| 2015-06-06 | 2009-155-20-82.6 | 29/2015. (VI. 5.) FM rendelet |
