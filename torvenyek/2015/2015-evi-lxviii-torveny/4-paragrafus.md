@@ -5,11 +5,3 @@
 (3) A Megállapodás és a 2. § és a 3. § hatálybalépésének naptári napját a külgazdasági és külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
 (4) Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági és külügyminiszter a nemzeti fejlesztési miniszterrel szakmailag együttműködve gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
