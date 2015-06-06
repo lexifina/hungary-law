@@ -6,4 +6,6 @@
 
 (3) Ameddig a veszélyesség ténye fennáll, az alapponthálózati pont adatszolgáltatás tárgyát nem képezheti.
 
-(4) Amennyiben a veszélyesség megszűnik, a nyilvántartásba való visszavétel céljából a FÖMI-t a megyei földhivatal értesíti.
+(4)[^21] Amennyiben a veszélyesség megszűnik, a nyilvántartásba való visszavétel céljából a FÖMI-t a kormányhivatal értesíti.
+
+[^21]: A 34. § (4) bekezdése a 29/2015. (VI. 5.) FM rendelet 11. § b) pontja szerint módosított szöveg.

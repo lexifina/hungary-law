@@ -2,7 +2,7 @@
 
 ## 4. Alapponthálózati pontok áthelyezése, pótlása és megszüntetése
 
-5. § (1) Alapponthálózati pont megszüntetése esetén a megyei földhivatal intézkedik az alapponthálózati pont által érintett ingatlanra bejegyzett, az államot megillető közérdekű használati jog törléséről.
+5. § (1)[^2] Alapponthálózati pont megszüntetése esetén a kormányhivatal intézkedik az alapponthálózati pont által érintett ingatlanra bejegyzett, az államot megillető közérdekű használati jog törléséről.
 
 (2) A magassági alapponthálózati pont megszüntetését az Fttv. 25. § (4) bekezdése alapján a FÖMI engedélyezi, amennyiben:
 
@@ -11,3 +11,5 @@ a) a térképészetért felelős miniszter felelősségi körébe tartozó álla
 b) a megszüntetendő Bendefy-féle hálózati pont az EOMA-ba nem lett bevonva és 500 méteren belül EOMA pont található, vagy
 
 c) az érintett pont pótlása vagy áthelyezése az R. műszaki előírásai alapján nem megoldható.
+
+[^2]: Az 5. § (1) bekezdése a 29/2015. (VI. 5.) FM rendelet 11. § b) pontja szerint módosított szöveg.

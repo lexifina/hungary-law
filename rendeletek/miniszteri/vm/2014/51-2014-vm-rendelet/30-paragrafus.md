@@ -6,7 +6,7 @@
 
 a) országos hatáskörrel előállítja és vezeti az alapponthálózati pontok adatbázisát,
 
-b) az alapponthálózati pontok adatbázisából átadja a megyei földhivataloknak az illetékességi területükre vonatkozó adatbázis tartalmat,
+b)[^17] az alapponthálózati pontok adatbázisából átadja a kormányhivataloknak az illetékességi területükre vonatkozó adatbázis tartalmat,
 
 c) vezeti és nyilvántartja a bekövetkezett változásokat,
 
@@ -16,7 +16,7 @@ e) ellenőrzi és nyilvántartja az alapponthálózati pontok pótlási és áth
 
 f) az alapponthálózati pontok pótlásának vagy áthelyezésének állami átvétele.
 
-(3) A megyei földhivatal feladata:
+(3)[^18] A kormányhivatal feladata:
 
 a) illetékességi területén a FÖMI alapponthálózati adatbázisa alapján szolgáltatja az alapponthálózati pontok adatait,
 
@@ -27,3 +27,6 @@ c) intézkedik az alapponthálózati pontok rongálásával kapcsolatos eljárá
 d) intézkedik az elpusztult alapponthálózati pont pótlásával kapcsolatos eljárás hivatalból történő megindításáról,
 
 e) új alapponthálózati pont elhelyezése esetén intézkedik az Fttv. 26. § (7) bekezdésben foglalt kártalanítás megállapításáról.
+
+[^17]: A 30. § (2) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 11. § h) pontja szerint módosított szöveg.
+[^18]: A 30. § (3) bekezdés nyitó szövegrésze a 29/2015. (VI. 5.) FM rendelet 11. § b) pontja szerint módosított szöveg.
