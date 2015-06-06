@@ -1,47 +1,49 @@
 5. § E rendelet a kihirdetését követő 45. napon lép hatályba, és a hatálybalépését követően megindult közigazgatási ügyekben, valamint a megismételt eljárásokban kell alkalmazni.
 
-Melléklet a 166/2009. (XII. 9.) FVM rendelethez
+Melléklet a 166/2009. (XII. 9.) FVM rendelethez[^9]
 
-A megyei földhivatalok előirányzat-felhasználási keretszámlájának számlaszámai
+|  | A | B |
 
-| Név | Számlaszám |
+|  | Név | Számlaszám |
 
-| Baranya Megyei Földhivatal | 10024003-01409330-00000000 |
+| 1. | Baranya Megyei Kormányhivatal | 10024003-00300960-00000000 |
 
-| Bács-Kiskun Megyei Földhivatal | 10025004-01409347-00000000 |
+| 2. | Bács-Kiskun Megyei Kormányhivatal | 10025004-00301071-00000000 |
 
-| Békés Megyei Földhivatal | 10026005-01409354-00000000 |
+| 3. | Békés Megyei Kormányhivatal | 10026005-00321127-00000000 |
 
-| Borsod-Abaúj-Zemplén Megyei Földhivatal | 10027006-01409361-00000000 |
+| 4. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00302814-00000000 |
 
-| Csongrád Megyei Földhivatal | 10028007-01409378-00000000 |
+| 5. | Csongrád Megyei Kormányhivatal | 10028007-00302515-00000000 |
 
-| Fejér Megyei Földhivatal | 10029008-01409385-00000000 |
+| 6. | Fejér Megyei Kormányhivatal | 10029008-00302649-00000000 |
 
-| Győr-Moson-Sopron Megyei Földhivatal | 10033001-01409392-00000000 |
+| 7. | Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00301617-00000000 |
 
-| Hajdú-Bihar Megyei Földhivatal | 10034002-01409402-00000000 |
+| 8. | Hajdú-Bihar Megyei Kormányhivatal | 10034002-00301813-00000000 |
 
-| Heves Megyei Földhivatal | 10035003-01409419-00000000 |
+| 9. | Heves Megyei Kormányhivatal | 10035003-00302089-00000000 |
 
-| Jász-Nagykun-Szolnok Megyei Földhivatal | 10045002-01409464-00000000 |
+| 10. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00301820-00000000 |
 
-| Komárom-Esztergom Megyei Földhivatal | 10036004-01409426-00000000 |
+| 11. | Komárom-Esztergom Megyei Kormányhivatal | 10036004-00301428-00000000 |
 
-| Nógrád Megyei Földhivatal | 10037005-01409433-00000000 |
+| 12. | Nógrád Megyei Kormányhivatal | 10037005-00302106-00000000 |
 
-| Pest Megyei Földhivatal | 10032000-01409323-00000000 |
+| 13. | Pest Megyei Kormányhivatal | 10023002-00302247-00000000 |
 
-| Somogy Megyei Földhivatal | 10039007-01409440-00000000 |
+| 14. | Somogy Megyei Kormányhivatal | 10039007-00301112-00000000 |
 
-| Szabolcs-Szatmár-Bereg Megyei Földhivatal | 10044001-01409457-00000000 |
+| 15. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00302261-00000000 |
 
-| Tolna Megyei Földhivatal | 10046003-01409471-00000000 |
+| 16. | Tolna Megyei Kormányhivatal | 10046003-00302436-00000000 |
 
-| Vas Megyei Földhivatal | 10047004-01409488-00000000 |
+| 17. | Vas Megyei Kormányhivatal | 10047004-00301507-00000000 |
 
-| Veszprém Megyei Földhivatal | 10048005-01409495-00000000 |
+| 18. | Veszprém Megyei Kormányhivatal | 10048005-00301569-00000000 |
 
-| Zala Megyei Földhivatal | 10049006-01409505-00000000 |
+| 19. | Zala Megyei Kormányhivatal | 10049006-00303004-00000000 |
 
-| Fővárosi Földhivatal | 10032000-01409316-00000000 |
+| 20. | Budapest Főváros Kormányhivatala | 10023002-00301208-00000000 |
+
+[^9]: A melléklet a 29/2015. (VI. 5.) FM rendelet 7. § (3) bekezdésével megállapított szöveg.
