@@ -4,6 +4,8 @@
 
 5. § (1) A számítógépes ingatlan-nyilvántartási rendszert és a szolgáltatásainak elérését biztosító infrastruktúrát a FÖMI fejleszti, üzemelteti és tartja karban.
 
-(2) Az elektronikus szolgáltatásokat nyújtó országos földhivatali rendszerhez (TAKARNET) történő csatlakozás abban az esetben lehetséges, ha az ehhez szükséges technikai feltételekkel rendelkező felhasználó – a hozzáférési jogosultság megadásáról szóló, az ingatlan-nyilvántartásról szóló törvény szerinti csatlakozási engedélyben foglaltaknak megfelelően – az igénybevétel feltételeit rögzítő szolgáltatási szerződést köt a FÖMI-vel.
+(2)[^14] Az elektronikus szolgáltatásokat nyújtó számítógépes ingatlan-nyilvántartási rendszerhez (TAKARNET) történő csatlakozás abban az esetben lehetséges, ha az ehhez szükséges technikai feltételekkel rendelkező felhasználó – a hozzáférési jogosultság megadásáról szóló, az ingatlan-nyilvántartásról szóló törvény szerinti csatlakozási engedélyben foglaltaknak megfelelően – az igénybevétel feltételeit rögzítő szolgáltatási szerződést köt a FÖMI-vel.
 
 (3) A TAKARNET rendszeren keresztül történő adatszolgáltatás igénybevétele – a szerződésben foglaltak szerint kiállított és a hozzáférési jogosultságot tartalmazó – névre szóló digitális belépési igazolvány birtokában lehetséges.
+
+[^14]: Az 5. § (2) bekezdése a 29/2015. (VI. 5.) FM rendelet 8. § (4) bekezdés j) pontja szerint módosított szöveg.

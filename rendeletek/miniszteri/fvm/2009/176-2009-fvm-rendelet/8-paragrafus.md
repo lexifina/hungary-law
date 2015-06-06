@@ -1,1 +1,1 @@
-## megyei földhivatal előirányzat-felhasználási keretszámlájára átutalja.
+## kormányhivatal – e rendelet mellékletében meghatározott – számlaszámára átutalja.
