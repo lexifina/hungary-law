@@ -10,6 +10,6 @@
 
 (4) A földbizottság tagja a saját vagy hozzátartozója ügyével összefüggő eljárásban nem vehet részt.
 
-(5) A helyi földbizottság állásfoglalása ellen kifogás terjeszthető elő a települési önkormányzat képviselő-testületénél. A képviselő-testület döntése ellen további jogorvoslatnak, panasznak, felszólalásnak nincs helye.
+(5) A helyi földbizottság állásfoglalása ellen kifogás terjeszthető elő a települési önkormányzat képviselő-testületénél.
 
 (6) A helyi földbizottság tagjainak megválasztása érdekében – az e törvény végrehajtására kiadott rendeletben meghatározottak szerint – a települési önkormányzat jegyzője összehívja a helyi gazdálkodói közösség közgyűlését.

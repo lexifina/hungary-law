@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-122-00-00
 | 2014-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-122-00-00.5 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2013-122-00-00.6 |
 | 2015-04-01 | 2015. évi VI. törvény | 2013-122-00-00.7 |
+| 2015-06-06 | 17/2015. (VI. 5.) AB határozat | 2013-122-00-00.8 |

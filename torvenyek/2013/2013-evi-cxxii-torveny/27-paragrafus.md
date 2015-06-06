@@ -4,7 +4,7 @@ a) ha a helyi földbizottság
 
 aa) állásfoglalása alapján egyik elővásárlásra jogosulttal és az adás-vételi szerződés szerinti vevővel sem támogatja az adás-vételi szerződés jóváhagyását,
 
-ab) a 26. §-ban foglalt felhívás ellenére nem adja ki az állásfoglalását;
+ab)
 
 b) a (2) bekezdésben meghatározott esetekben.
 
