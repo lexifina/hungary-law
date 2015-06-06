@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-21-20-1
 | 2014-04-08 | 1997-21-20-11.8 | 29/2014. (III. 31.) VM rendelet |
 | 2014-05-07 | 1997-21-20-11.9 | 52/2014. (IV. 29.) VM rendelet |
 | 2015-01-01 | 1997-21-20-11.10 | 39/2014. (XII. 18.) FM rendelet |
+| 2015-06-06 | 1997-21-20-11.11 | 29/2015. (VI. 5.) FM rendelet |
