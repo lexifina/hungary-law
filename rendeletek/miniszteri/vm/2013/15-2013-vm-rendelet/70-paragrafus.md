@@ -18,4 +18,6 @@ c) adott pontként felhasználhatók az e rendelet szerint meghatározott felmé
 
 a) a FÖMI, vagy
 
-b) a megyei földhivatalok által hitelesített állami alapadatok használhatók fel.
+b)[^18] a kormányhivatalok által hitelesített állami alapadatok használhatók fel.
+
+[^18]: A 70. § (5) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 9. § b) pontja szerint módosított szöveg.

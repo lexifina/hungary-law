@@ -12,4 +12,6 @@ b) a jobb vízszintes értelmű helyi illeszkedés érdekében a közös pontok 
 
 c) a közös pontok teljes lefedést adva egyenletesen helyezkedjenek el a munkaterületen.
 
-(4) A megyei földhivatali vizsgálat során az eljárás megfelelőségét az EHT2 alkalmazással, legalább két pont újbóli átszámításával ellenőrizni kell. A transzformációt akkor lehet elfogadni, ha a lineáris eltérések (térbeli távolság) nagysága ± 3 cm-nél kisebb.
+(4)[^10] A kormányhivatali vizsgálat során az eljárás megfelelőségét az EHT2 alkalmazással, legalább két pont újbóli átszámításával ellenőrizni kell. A transzformációt akkor lehet elfogadni, ha a lineáris eltérések (térbeli távolság) nagysága ± 3 cm-nél kisebb.
+
+[^10]: Az 52. § (4) bekezdése a 29/2015. (VI. 5.) FM rendelet 9. § g) pontja szerint módosított szöveg.

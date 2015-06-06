@@ -8,7 +8,7 @@
 
 (5) Az alappontok kiegyenlítés után számított koordináta középhibáinak (ponthibáinak) és a mérési eredmények javításainak minden egyes esetben kisebbnek kell lenniük a vonatkozó hibahatárnál.
 
-(6) Amennyiben a javítások túllépik a hibahatárt és felmerül a gyanú, hogy valamelyik országos adott pont koordinátái hibásak (kerethiba), akkor az adott pontot új pontnak tekintve a hálózatot újra ki kell egyenlíteni. Ha az új számítás igazolja a feltevést, akkor a mérési és számítási dokumentációt a megyei földhivatalon keresztül a FÖMI-nek is meg kell küldeni.
+(6)[^19] Amennyiben a javítások túllépik a hibahatárt és felmerül a gyanú, hogy valamelyik országos adott pont koordinátái hibásak (kerethiba), akkor az adott pontot új pontnak tekintve a hálózatot újra ki kell egyenlíteni. Ha az új számítás igazolja a feltevést, akkor a mérési és számítási dokumentációt a kormányhivatalon keresztül a FÖMI-nek is meg kell küldeni.
 
 (7) A hibák felderítéséhez a következő ellenőrzési lehetőségek alkalmazandók:
 
@@ -21,3 +21,5 @@ c) zárt idomok (sokszögek) vonalas záróhibáinak számítása;
 d) adott pontokon végzett tájékozást követően az irányeltérések kimutatása;
 
 e) adott pontok közötti sokszögvonalak záróhibáinak kimutatása.
+
+[^19]: A 77. § (6) bekezdése a 29/2015. (VI. 5.) FM rendelet 9. § i) pontja szerint módosított szöveg.

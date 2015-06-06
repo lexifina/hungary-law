@@ -4,7 +4,7 @@
 
 (3) Az alappontok meghatározásához szükséges adatok:
 
-a) a megyei földhivataltól, vagy országos szinten a FÖMI-től;
+a)[^9] a kormányhivataltól, vagy országos szinten a FÖMI-től;
 
 b) a GNSSnet.hu hálózatra támaszkodó pontmeghatározás esetén a GSZK által nyújtott szolgáltatás keretében szerezhetők be.
 
@@ -19,3 +19,5 @@ b) külső permanens állomásra támaszkodva a 47. § (2) bekezdésének betart
 (6) Korábban meghatározott, ismert koordinátájú pontok esetében azon a pontjelen kell a mérést végezni, amelyen az eredeti meghatározás történt. A vasbetonlapos védőberendezéssel ellátott pontokon a felső követ el kell távolítani és az anyaponton kell a mérést végezni. A mérés befejeztével a felső követ szabatosan vissza kell állítani.
 
 (7) Az OP jelzésű iránypontok eredeti koordinátái a vasbetonlapokkal körülvett felső kőre vonatkoznak, ezért ezeknek a pontoknak a védőberendezését megbontani tilos.
+
+[^9]: A 48. § (3) bekezdés a) pontja a 29/2015. (VI. 5.) FM rendelet 9. § f) pontja szerint módosított szöveg.

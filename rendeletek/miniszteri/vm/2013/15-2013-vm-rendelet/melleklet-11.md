@@ -226,7 +226,7 @@
 
 ## d) Pontátadási jegyzőkönyv tartalmát az 5. melléklet tartalmazza,
 
-## e) Földhivatali átvételi jegyzőkönyv a pontátadási jegyzőkönyvek átvételéről.
+## e) A járási hivatali átvételi jegyzőkönyv a pontátadási jegyzőkönyvek átvételéről.
 
 ## 4.3.1 A K pontok állandósításánál az alábbi szempontokat kell figyelembe venni. (3. ábra)
 
@@ -862,7 +862,7 @@
 
 ## 12.3.1 A IV. rendű szintezés bejelentésre kötelezett munka, amelyet minden erre jogosult geodéta végezhet.
 
-## 12.3.2 A IV. rendű szintezési pontok pontszámát a területileg illetékes megyei földhivatal a munkabejelentéssel adott véleményezésével egyidejűleg adja meg.
+## 12.3.2 A IV. rendű szintezési pontok pontszámát a területileg illetékes kormányhivatal a munkabejelentéssel adott véleményezésével egyidejűleg adja meg.
 
 ## 12.4 A IV. rendű szintezési pontokat a felsőrendű csaptól (5. ábra) jól megkülönböztethető (MJ felirat nélküli) csappal, vagy szintezési gombbal (6. ábra) illetve gömbfejű szegeccsel kell állandósítani.
 
@@ -916,7 +916,7 @@
 
 ## 12.7 A IV. rendű szintezési vonalak záróhibáját az egyes szakaszokra a szintezési szakaszok hosszának arányában kell szétosztani.
 
-## 12.8.1 A szintezési munka befejezésével a megyei földhivatalnak az alábbi munkarészeket kell átadni:
+## 12.8.1 A szintezési munka befejezésével a kormányhivatalnak az alábbi munkarészeket kell átadni:
 
 ## a) Szemlélési és állandósítási jegyzőkönyv,
 
@@ -938,11 +938,11 @@
 
 ## 12.9 EOMA IV. rendű magasságmérés GNSS technológiával is történhet, a 7.1 és 9.1 pontban megadottak szerint.
 
-## 12.10 A IV. rendű pontokat a földhivatalnak IV. rendű pontszámmal kell ellátni.
+## 12.10 A IV. rendű pontokat a kormányhivatalnak IV. rendű pontszámmal kell ellátni.
 
-## 12.11 IV. rendű magassági pontokat, a felsőrendű hálózatból leminősített pontokat illetve a felsőrendű városi hálózat pontjait az illetékes megyei földhivatalnak 10 évente saját ütemezése szerint helyszínelnie kell.
+## 12.11 IV. rendű magassági pontokat, a felsőrendű hálózatból leminősített pontokat illetve a felsőrendű városi hálózat pontjait az illetékes kormányhivatalnak 10 évente saját ütemezése szerint helyszínelnie kell.
 
-## 12.12. IV. rendű magassági pontokat, a felsőrendű hálózatból leminősített pontokat illetve a felsőrendű városi hálózat pontjait a megyei földhivatalok tartják nyilván.
+## 12.12. IV. rendű magassági pontokat, a felsőrendű hálózatból leminősített pontokat illetve a felsőrendű városi hálózat pontjait a kormányhivatalok tartják nyilván.
 
 ## 13. AZ EOMA PONTJAINAK ÁLLAMI ÁTVÉTELE
 
@@ -1214,7 +1214,7 @@
 
 ## nc) Más (korábbi) alaphálózati rendszerben a pont száma, állandósítás jellege.
 
-## 13.2.1 IV. rendű EOMA alappont létesítésének és pótlásának munkarészeit az illetékes megyei földhivatalnak kell leadni. A leadott munkarészeket az állami átvétel során a földhivatal köteles leellenőrizni, hogy a munka minden része megfelel-e a jelen rendeletben előírásainak, valamint a munka végrehajtója minden szükséges munkarészt leadott-e.
+## 13.2.1 IV. rendű EOMA alappont létesítésének és pótlásának munkarészeit az illetékes kormányhivatalnak kell leadni. A leadott munkarészeket az állami átvétel során a kormányhivatal köteles leellenőrizni, hogy a munka minden része megfelel-e a jelen rendeletben előírásainak, valamint a munka végrehajtója minden szükséges munkarészt leadott-e.
 
 ## 13.2.2 Nem megfelelőség vagy hiány esetén a munkarészeket hiánypótlásra visszaadhatja a munka végrehajtójának.
 
