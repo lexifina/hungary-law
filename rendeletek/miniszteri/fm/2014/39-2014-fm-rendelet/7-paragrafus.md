@@ -26,4 +26,6 @@ d) a biztonsági mentési állományok elhelyezését
 
 a) a FÖMI vonatkozásában a FÖMI főigazgatója,
 
-b) a megyei földhivatalok, valamint azok illetékességi területéhez tartozó járási földhivatalok vonatkozásában a megyei földhivatal vezetője
+b)[^9] a kormányhivatalok, valamint azok illetékességi területéhez tartozó járási hivatalok vonatkozásában a kormányhivatal vezetője
+
+[^9]: A 7. § (4) bekezdés b) pontja a 29/2015. (VI. 5.) FM rendelet 13. § (2) bekezdésével megállapított szöveg.

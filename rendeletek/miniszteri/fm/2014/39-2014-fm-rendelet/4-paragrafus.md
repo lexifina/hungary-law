@@ -1,6 +1,6 @@
-4. § (1) A megyei-, a járási földhivatal, valamint a FÖMI iratanyagát a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 9. § (1) bekezdés f) pontjában és a 12. §-ban előírtak betartásával évenként felül kell vizsgálni, hogy az irattári terv alapján mely évfolyamok, mely irattári tételei váltak selejtezhetővé, vagy az FTL számára átadhatóvá.
+4. § (1)[^6] A kormányhivatal, a járási hivatal, valamint a FÖMI iratanyagát a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 9. § (1) bekezdés f) pontjában és a 12. §-ban előírtak betartásával évenként felül kell vizsgálni, hogy az irattári terv alapján mely évfolyamok, mely irattári tételei váltak selejtezhetővé, vagy az FTL számára átadhatóvá.
 
-(2) Az iratselejtezés végrehajtását a megyei-, a járási földhivatal, valamint a FÖMI vezetője által kijelölt, legalább három kormánytisztviselőből álló selejtezési bizottság végzi el.
+(2)[^7] Az iratselejtezés végrehajtását a kormányhivatal, a járási hivatal, valamint a FÖMI vezetője által kijelölt, legalább három kormánytisztviselőből álló selejtezési bizottság végzi el.
 
 (3) A selejtezésre megjelölt iratokat – a megsemmisítés levéltári engedélyezéséig – az elhelyezésük rendjében kell megőrizni.
 
@@ -23,3 +23,6 @@ f) a selejtezésre kiválogatott iratok irattári tételszámát, az irattári t
 g) a szervezeti egység vezetője ellenőrzési feladatainak megtörténtét,
 
 h) a szervezeti egység körbélyegzőjének lenyomatát.
+
+[^6]: A 4. § (1) bekezdése a 29/2015. (VI. 5.) FM rendelet 13. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 29/2015. (VI. 5.) FM rendelet 13. § (3) bekezdés d) pontja szerint módosított szöveg.
