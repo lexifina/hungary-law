@@ -20,7 +20,7 @@ b) az erőműegység névleges teljesítőképessége 20 MW-nál nagyobb, de nem
 
 (4) A megújuló energiaforrásból nyert energiával termelt villamos energia kötelező átvételi árai – az (1) bekezdés szerinti eltéréssel – az e rendelet 1. számú mellékletének 4. pontjában meghatározott bázisárakon alapulnak, ha a villamos energia termelése 50 MW-nál nagyobb névleges teljesítőképességű erőműegységben, vagy 5 MW-nál nagyobb névleges teljesítőképességű vízerőműben történik).
 
-(5) A hulladékból nyert energiával termelt villamos energia kötelező átvételi árai az e rendelet 1. számú mellékletének 5. pontjában meghatározott bázisárakon alapulnak, ha a hulladékhasznosító erőműegység nem rendelkezik a környezetvédelmi termékdíjról, továbbá egyes termékek környezetvédelmi termékdíjáról szóló 1995. évi LVI. törvény 7. §-a szerinti hulladékhasznosítási szolgáltatásra vonatkozó megrendeléssel, és
+(5)[^30] A hulladékból nyert energiával termelt villamos energia kötelező átvételi árai az e rendelet 1. számú mellékletének 5. pontjában meghatározott bázisárakon alapulnak, ha a hulladékhasznosító erőműegység nem rendelkezik a környezetvédelmi termékdíjról szóló törvény szerinti hulladékhasznosítási szolgáltatásra vonatkozó megrendeléssel, és
 
 a) a Hivatalnak a kötelező átvétel mennyiségére és időtartamára vonatkozó határozata e rendelet hatálybalépését megelőzően került kiadásra, továbbá a belföldön keletkezett és begyűjtött, veszélyesnek nem minősülő hulladék
 
@@ -34,20 +34,31 @@ ba) megfelel a külön jogszabályban meghatározott hulladékgyűjtési és hul
 
 bb) nem tartozik az Európai Hulladék Katalógus (EWC) 05–15 főcsoportjainak valamelyikébe, továbbá
 
-bc)[^27] a hulladékhasznosító erőműegység rendelkezik a környezetvédelmi hatóság által kiállított nyilatkozattal arról, hogy a hulladék tüzelőanyagként történő felhasználástól eltérő egyéb módon tovább már nem hasznosítható.
+bc)[^31] a hulladékhasznosító erőműegység rendelkezik a környezetvédelmi hatóság által kiállított nyilatkozattal arról, hogy a hulladék tüzelőanyagként történő felhasználástól eltérő egyéb módon tovább már nem hasznosítható.
 
-(6) A használt berendezést is magában foglaló erőműegységben termelt villamos energia kötelező átvételi árai – az (1) bekezdés szerinti eltéréssel – ez e rendelet 1. számú mellékletének 4. pontjában meghatározott bázisárakon alapulnak, ha a berendezésre vonatkozó engedély e rendelet hatálybalépése után került kiadásra.
+(6)[^32] A használt berendezést is magában foglaló erőműegységben termelt villamos energia kötelező átvételi árait – az (1), valamint a (6a) és (6b) bekezdés szerinti eltéréssel – az 1. számú melléklet 4. pontjában meghatározott bázisáraknak megfelelően kell megállapítani a kötelező átvételi jogosultságnak a kérelmező részére első alkalommal történő meghatározásakor, ha az erőműegységre vonatkozó engedély e rendelet hatálybalépése után került kiadásra.
 
-(7)[^28] Vegyes tüzelés esetén a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrásra számított villamosenergia-mennyiség is a kötelező átvétel alá tartozik – az 1. számú melléklet 4. pontja szerinti áron – az adott hónapban, ha a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrás felhasználási aránya sem az adott hónapban, sem az adott évben nem haladja meg a 10%-ot.
+(6a)[^33] Ha a kötelező átvételi jogosultsággal rendelkező termelő a (6) bekezdés hatálya alá nem tartozó erőműegységét értékesíti, az erőműegység új tulajdonosa esetében az értékesített erőműegységben termelt villamos energia kötelező átvételi árai a (2)–(5) bekezdésekben meghatározott bázisárakon alapulnak.
 
-(8)[^29] Vegyes tüzelés esetén, ha a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrás részaránya az 50%-ot meghaladja, akkor a kötelező átvétel alá eső villamos energia mennyiségére a (2)–(6) bekezdésben meghatározott átvételi árnál 10%-kal alacsonyabb átvételi árat kell alkalmazni.
+(6b)[^34] E rendelet alkalmazásában nem minősül használt berendezést magában foglalónak az az erőműegység, amely esetében az engedélyben szereplő valamennyi főberendezés gyártási éve a 6. § (1) bekezdés szerinti kérelem benyújtásának időpontjában 10 évnél nem régebbi, továbbá a főberendezések elsőként Magyarországon kerültek üzembe helyezésre és igazolhatóan nem üzemeltek többet 1600 napnál.
 
-(9)[^30] Ha az erőműegység villamosenergia-termelése ugyanazon technológiai (primer-energiaátalakítási) folyamatban részben megújuló energiaforrással vagy részben hulladékból nyert energiával történik, akkor a kötelező átvétel e § szerinti egyes eseteinek megfelelően figyelembe veendő villamosenergia-mennyiséget arányosan, az adott hónapban felhasznált tüzelőhő energiaforrások szerinti összetétele alapján megbontva, hőtermelés esetén a hőtermelésre is azonos energiaforrás-struktúrát figyelembe véve kell kiszámítani. Az adott hónapra kiszámított energiaforrás-arányokat minden zónaidőre azonosan kell alkalmazni. A számítást havonta az Értékesítőnek kell elvégeznie, és azt hitelt érdemlő dokumentumokkal kell alátámasztania. A számítást bemutató iratot a Befogadó részére a tárgyhónapot követő hónap 2. munkanapjáig meg kell küldeni.
+(7)[^35] Vegyes tüzelés esetén a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrásra számított villamosenergia-mennyiség is a kötelező átvétel alá tartozik – az 1. számú melléklet 4. pontja szerinti áron – az adott hónapban, ha a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrás felhasználási aránya sem az adott hónapban, sem az adott évben nem haladja meg a 10%-ot.
 
-(10)[^31] Számszakilag nyilvánvalóan helytelen számítás esetén a Befogadó a tudomásra jutástól számított 5 munkanapon belül felhívja az Értékesítőt a számítás helyesbítésére. A Befogadó a helyesbítésre biztosított határidő eredménytelen elteltét követő 5 munkanapon belül bejelentést tesz a Hivatalnak.
+(8)[^36] Vegyes tüzelés esetén, ha a megújuló energiaforrástól vagy hulladéktól eltérő energiaforrás részaránya az 50%-ot meghaladja, akkor a kötelező átvétel alá eső villamos energia mennyiségére a (2)–(6) bekezdésben meghatározott átvételi árnál 10%-kal alacsonyabb átvételi árat kell alkalmazni.
 
-[^27]: A 4. § (5) bekezdés b) pont bc) alpontja a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^28]: A 4. § (7) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^29]: A 4. § (8) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^30]: A 4. § (9) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
-[^31]: A 4. § (10) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+(9)[^37] Ha az erőműegység villamosenergia-termelése ugyanazon technológiai (primer-energiaátalakítási) folyamatban részben megújuló energiaforrással vagy részben hulladékból nyert energiával történik, akkor a kötelező átvétel e § szerinti egyes eseteinek megfelelően figyelembe veendő villamosenergia-mennyiséget arányosan, az adott hónapban felhasznált tüzelőhő energiaforrások szerinti összetétele alapján megbontva, hőtermelés esetén a hőtermelésre is azonos energiaforrás-struktúrát figyelembe véve kell kiszámítani. Az adott hónapra kiszámított energiaforrás-arányokat minden zónaidőre azonosan kell alkalmazni. A számítást havonta az Értékesítőnek kell elvégeznie, és azt hitelt érdemlő dokumentumokkal kell alátámasztania. A számítást bemutató iratot a Befogadó részére a tárgyhónapot követő hónap 2. munkanapjáig meg kell küldeni.
+
+(10)[^38] Számszakilag nyilvánvalóan helytelen számítás esetén a Befogadó a tudomásra jutástól számított 5 munkanapon belül felhívja az Értékesítőt a számítás helyesbítésére. A Befogadó a helyesbítésre biztosított határidő eredménytelen elteltét követő 5 munkanapon belül bejelentést tesz a Hivatalnak.
+
+(11)[^39] Az erőműegység értékesítése esetén a Hivatal – ha a jogszabályi feltételek fennállnak – az erőműegységre korábban meghatározott kötelező átvételi időtartamból és kötelező átvétel alá eső villamosenergia-mennyiségből fennmaradó részt állapítja meg az új tulajdonos számára. A Hivatal az új tulajdonosnak kiállított határozatában a 6. § (14) bekezdése alapján módosíthatja a kötelező átvétel időtartamát és a kötelező átvétel alá eső villamos energia mennyiségét.
+
+[^30]: A 4. § (5) bekezdés nyitó szövegrésze a 123/2015. (V. 26.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^31]: A 4. § (5) bekezdés b) pont bc) alpontja a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 4. § (6) bekezdése a 123/2015. (V. 26.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^33]: A 4. § (6a) bekezdését a 123/2015. (V. 26.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^34]: A 4. § (6b) bekezdését a 123/2015. (V. 26.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^35]: A 4. § (7) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^36]: A 4. § (8) bekezdése a 287/2008. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^37]: A 4. § (9) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^38]: A 4. § (10) bekezdését a 287/2008. (XI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A 4. § (11) bekezdését a 123/2015. (V. 26.) Korm. rendelet 21. § (2) bekezdése iktatta be.

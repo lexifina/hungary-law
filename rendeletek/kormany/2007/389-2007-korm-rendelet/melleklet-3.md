@@ -1,4 +1,4 @@
-3. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^100]
+3. számú melléklet a 389/2007. (XII. 23.) Korm. rendelethez[^101]
 
 ## A kötelező átvétel esetében figyelembe veendő napszakok (zónaidők) időtartam
 
@@ -14,11 +14,11 @@
 
 | 4 | 3. | ELMŰ Hálózati Elosztó Kft., E.ON Tiszántúli Áramhálózati Zrt. |
 
-2. Az 1. és 2. számú melléklet szerinti árak alkalmazása szempontjából az egyes napszakok (zónaidők) időtartamát munkanapokon
+2. Az 1. számú melléklet szerinti árak alkalmazása szempontjából az egyes napszakok (zónaidők) időtartamát munkanapokon
 
-– a mindenkor érvényes (közép-európai) időszámítás (a továbbiakban: téli időszámítás), valamint
+– a mindenkor érvényes (közép-európai) időszámítás (a továbbiakban: téli időszámítás), valamint
 
-– a külön jogszabály szerint elrendelt nyári időszámítás tartama alatt
+– a külön jogszabály szerint elrendelt nyári időszámítás tartama alatt
 
 a következőképpen kell figyelembe venni:
 
@@ -78,4 +78,4 @@ c)
 
 | Mélyvölgyidőszak | 02:30–07:00 | 03:30–08:00 |
 
-[^100]: A 3. számú melléklet a 60/2008. (III. 26.) Korm. rendelet 1. §-a, a 166/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^101]: A 3. számú melléklet a 60/2008. (III. 26.) Korm. rendelet 1. §-a, a 166/2011. (VIII. 24.) Korm. rendelet 1. § (4) bekezdése, a 123/2015. (V. 26.) Korm. rendelet 28. § (3) bekezdése szerint módosított szöveg.
