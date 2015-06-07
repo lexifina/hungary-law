@@ -1,4 +1,4 @@
-10/A. §[^2] (1) Az építési engedélyezési eljárásokban az eljáró építésügyi hatóság a 3/A. mellékletben meghatározott feltételek esetén vizsgálja az ott megjelölt szakkérdést.
+10/A. §[^7] (1) Az építési engedélyezési eljárásokban az eljáró építésügyi hatóság a 3/A. mellékletben meghatározott feltételek esetén vizsgálja az ott megjelölt szakkérdést.
 
 (2) Ha a 3/A. mellékletben meghatározott valamely szakkérdés vizsgálatának van helye az eljárásban, a 6. § (2) bekezdése megfelelően alkalmazandó a kérelemhez csatolandó műszaki dokumentáció adott szakkérdés tekintetében irányadó tartalma vonatkozásában.
 
@@ -10,4 +10,4 @@
 
 (6) Az (1) bekezdés szerinti másodfokú eljárásban, ha a fellebbezés érinti az első fokú eljárásban vizsgált szakkérdést, a másodfokú hatóság a szakkérdés vizsgálatára a 3/A. mellékletben meghatározott szervet szakértőként rendelheti ki.
 
-[^2]: A 10/A. §-t a 70/2015. (III. 30.) Korm. rendelet 243. § (1) bekezdése iktatta be.
+[^7]: A 10/A. §-t a 70/2015. (III. 30.) Korm. rendelet 243. § (1) bekezdése iktatta be.
