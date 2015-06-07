@@ -1,31 +1,25 @@
-## A nagy hatásfokú kapcsolt hő- és villamosenergia-termelés energia-megtakarítási feltétele
+## A nagy hatásfokú kapcsolt hő- és villamosenergia-termelés primerenergia-megtakarítási feltétele
 
-## A megtermelt villamos energia akkor tekinthető nagy hatásfokú kapcsolt hő- és villamosenergia-termelő erőműegységből származónak, ha
+## 1. A nagy hatásfokú kapcsolt energiatermelésnek a következő követelményeknek kell megfelelnie:
 
-## a) a kapcsolt hő- és villamosenergia-termelő erőműegységgel elért elsődleges energiaforrás-megtakarítás (PEM) 10%, vagy annál nagyobb,
+## a) a kapcsolt energiatermelő egységekből származó kapcsolt energiatermelésnek a 2. pont szerint számítva legalább 10 %-os primerenergia-megtakarítást kell elérnie a 3. és 4. számú melléklet szerinti, külön hőtermelésre, illetve külön villamosenergia-termelésre vonatkozó referenciaértékekhez képest,
 
-## b) kis és mikro kapcsolt energiatermelő erűműegység esetén nagyobb, mint nulla.
+## b) a primerenergia-megtakarítást biztosító, kapcsolt energiatermelő kis- és mikroegységek termelése nagy hatásfokú kapcsolt energiatermelésnek minősíthető.
 
-## A kapcsolt energiatermelésből származó elsődleges energiaforrás-megtakarítás számítása (PEM):
+## 2. A kapcsolt energiatermelésből származó primerenergia-megtakarítás kiszámítását a következő képlet alapján kell elvégezni:
 
-## ahol:
+## 3. A 2. pontban szereplő képlet alkalmazásában:
 
-## PEM a elsődleges energiaforrás-megtakarítás, %,
+## 3.1. PES: a primerenergia-megtakarítás,
 
-## PE felhasznált primer energia (kapcsolt energiatermelésből származó hasznos hő és villamos energia előállítására felhasznált tüzelőanyag mennyisége), MWh,
+## 3.2. CHP Hη: a kapcsolt energiatermelés hőtermelési hatásfoka, amelyet az éves hasznos hőtermelésnek a kapcsolt energiatermelésből származó hasznos hő és villamos energia előállítására felhasznált tüzelőanyag mennyiségével történő elosztásával lehet meghatározni,
 
-## ηHkog a kapcsolt energiatermelés hőtermelési hatásfoka, %,
+## 3.3. Ref Hη: a külön hőtermelés hatásfokának referenciaértéke,
 
-## Ref ηH a külön hőtermelés hatásfokának a 4. számú melléklet szerint meghatározott referenciaértéke, %,
+## 3.4. CHP Eη: a kapcsolt energiatermelésből származó villamosenergia-termelés hatásfoka, amelyet a kapcsolt energiatermelésből származó éves villamos energiának a kapcsolt energiatermelésből származó hasznos hő és villamos energia előállítására felhasznált tüzelőanyag mennyiségével történő elosztásával lehet meghatározni. Ha a kapcsolt energiatermelő egység mozgási energiát is előállít, a kapcsolt energiatermelésből származó éves villamos energia mennyiségét meg kell növelni egy olyan kiegészítő értékkel, amely a mozgási energia mennyiségével egyenértékű villamos energiának felel meg, ha a mozgási energia felhasználása hiteles mérésekkel bizonyított. Ez a kiegészítő elem azonban nem jogosít fel arra, hogy a származási garanciáról szóló kormányrendeletnek megfelelően származási garanciát állítsanak ki.
 
-## ηEkog a kapcsolt energiatermelésből származó villamosenergia-termelési hatásfoka, %,
+## 3.5. Ref Eη: a külön villamosenergia-termelés hatásfokának referenciaértéke.
 
-## RefηE a külön villamosenergia-termelés hatásfokának a 3. számú melléklet szerint referenciaértéke, %,
+3. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^40]
 
-## Hkog a nagy hatásfokú kapcsolt energiatermelésből származó hasznos hőenergia mennyisége (itt nem vehető figyelembe például a külön kazánokban termelt hőmennyiség vagy a gőzturbina előtt történő frissgőzelvétel hőmennyisége), MWh,
-
-## Ekog a kapcsolt energiatermelésből származó nagy hatásfokú villamos energia éves mennyisége, MWh.
-
-3. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^20]
-
-[^20]: Az 3. számú melléklet a 2/2012. (I. 31.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^40]: Az 3. számú melléklet a 2/2012. (I. 31.) NFM rendelet 2. §-a szerint módosított szöveg.

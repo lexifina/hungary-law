@@ -1,64 +1,56 @@
-## 1. A kapcsolt energiatermelésből származó villamos energia éves mennyiségének meghatározása (Ekog)
+## 1.[^38] A kapcsolt energiatermelésből származó villamos energia kiszámításának szabályai
 
-## a) Ha az összhatásfok (η) értéke
+## 1.1. A kapcsolt energiatermelésből származó villamos energia kiszámításához felhasznált értékek meghatározása az adott egység várható vagy tényleges rendeltetésszerű használata során tapasztaltak alapján történik. A mikroegységek esetében a számítást hiteles értékekre lehet alapozni.
 
-## aa) ellennyomású gőzturbina, gázturbina (hőhasznosítással), belső égésű motor, mikroturbina, stirling-motor, tüzelőanyag-cella esetében legalább 75%,
+## 1.2. A kapcsolt energiatermelésből származó villamos energia mennyiségét a következő esetekben az adott egységnek a főgenerátorok generátorkapcsán mért teljes évi villamosenergia-termelésével azonosnak kell tekinteni:
 
-## ab) kombinált ciklusú gáz- és gőzturbina, kondenzációs megcsapolásos/elvételes gőzturbina esetében legalább 80%,
+## 1.2.1. az 1. § (2) bekezdés b), és d)-h) pontja szerinti típusú, kapcsolt energiatermelő egységek esetében, amelyeknek a megállapított éves összhatásfoka legalább 75 %; és
 
-## akkor
+## 1.2.2. az 1. § (2) bekezdés a) és c) pont szerinti típusú kapcsolt energiatermelő egységek esetében, amelyeknek a megállapított éves összhatásfoka legalább 80 %.
 
-## Ekog = E
+## 1.3. Az 1.2. pontban megállapított éves összhatásfokot el nem érő energiatermelő egységek
 
-## ahol:
+## 1.3.1. Azok a kapcsolt energiatermelő egységek esetében, amelyek nem érik el az 1.2. pontban megállapított éves összhatásfokot, a kapcsolt energiatermelést a következő képlet szerint kell kiszámítani:
 
-## Ekog a kapcsolt energiatermelésből származó villamos energia éves mennyisége, MWh,
+## ECHP =HCHP * C
 
-## E generátorok kapcsán mért teljes éves megtermelt villamos energia mennyisége, MWh.
+## 1.3.2. Az 1.3.1. pontban szereplő képlet alkalmazásában:
 
-## b) Ha az összhatásfok tényleges értéke nem éri el az a) pontban meghatározott értékeket, akkor a kapcsolt energiatermelésből származó villamos energia éves mennyiségét a következők szerint kell meghatározni, feltéve, hogy a berendezés névleges üzemállapotban teljesíti az a) pontban közölt összhatásfok-értékeket:
+## 1.3.2.1. ECHP: a kapcsolt energiatermelésből származó villamos energia mennyisége;
 
-## Ekog = Qkog x σ
+## 1.3.2.2. C: a villamos energia/hő arány;
 
-## Feltéve, hogy Ekog kisebb mint E
+## 1.3.2.3. HCHP: a kapcsolt energiatermelésből származó hasznos hő mennyisége: a teljes hőtermelésből ki kell vonni a külön kazánokban termelt hőmennyiséget vagy azt a frissgőzelvételt, amelyet a gőztermelés során vesznek le a turbina előtt.
 
-## ahol:
+## 1.4. A villamos energia/hő arány (C) értéknek méréssel történő meghatározása
 
-## Qkog a kapcsolt energiatermelésből származó hasznos hőenergia mennyisége (itt nem vehető figyelembe például a külön kazánokban termelt hőmennyiség vagy a gőzturbina előtt történő frissgőz-elvétel hőmennyisége), MWh,
+## 1.4.1. A villamos energia/hő arány (C) értéknek méréssel történő meghatározására a következő képletet kell alkalmazni:
 
-## σ fajlagos kapcsolt villamosenergia-termelési mutató.
+## 1.4.2. Az 1.4.1. pontban szereplő képlet alkalmazásában:
 
-## A fajlagos villamosenergia-termelési mutató értékét a c) pontban foglaltak szerint kell meghatározni.
+## 1.4.2.1. E0: a kapcsolt energiatermelő erőműegységnek a teljes kapcsolt üzemmódban mért villamosenergia-termelése (MWh);
 
-## c) A fajlagos villamosenergia-termelési mutató (σ) értékének méréssel történő meghatározása
+## 1.4.2.2. Q0: a kapcsolt energiatermelő erőműegységnek a teljes kapcsolt üzemmódban mért hasznoshő-termelése (MWh).
 
-## A fajlagos kapcsolt villamosenergia-termelési mutató:
+## 1.5. A kapcsolt energiatermelésből származó villamos energia kiszámításához a tényleges villamos energia/hő arányt kell felhasználni. Amennyiben valamely, kapcsolt energiatermelő egység tényleges villamos energia/hő aránya nem ismert, az e pontban meghatározott alapértékekkel kell számolni, különösen statisztikai számítások céljából, az 1. § (2) bekezdés a)-e) pont szerinti, kapcsolt energiatermelő egységek esetében, feltéve, hogy a számított kapcsolt energiatermelésből származó villamos energia értéke kisebb az egység tényleges összvillamosenergia termelésénél, vagy megegyezik azzal:
 
-## ahol:
+|  | A | B |
 
-## Eo a kapcsolt energiatermelő erőműegységnek abban az időszakban mért villamosenergia-termelése, amikor az erőműegység teljes kapcsolt üzemmódban működik, MWh,
+| 1. | Egység típusa | Alapértelmezett villamos energia/hő arány (C) |
 
-## Qo a kapcsolt energiatermelő erőműegység teljes kapcsolt üzemmódban mért hőtermelése, MWh.
+| 2. | Gáz- és gőzturbinával kombinált ciklusú körfolyamatban | 0,95 |
 
-## Ha az 1. § (2) bekezdés a)–e) pontjában rögzített kapcsolt energiatermelő erőműegységek esetében a ténylegesen termelt villamos energiának a hőenergiához viszonyított aránya nem ismert, akkor az alábbi táblázatban szereplő értékekkel kell számolni, azonban a számított kapcsolt energiatermelésből származó villamos energia mennyisége nem lehet több, mint az erőműegység tényleges villamosenergia-termelése.
+| 3. | Ellennyomású gőzturbina | 0,45 |
 
-| A termelő erőműegység típusa | A fajlagos villamosenergia-termelési mutató alapértéke, σ megállapított |
+| 4. | Kondenzációs megcsapolás (elvezetés) gőzturbina | 0,45 |
 
-| Kombinált ciklusú gáz- és gőzturbina | 0,95 |
+| 5. | Gázturbinás erőmű | 0,55 |
 
-| Ellennyomású gőzturbina | 0,45 |
+| 6. | Belső égésű motor | 0,75 |
 
-| Kondenzációs megcsapolásos/elvételes gőzturbina | 0,45 |
+## 1.6. Amennyiben a kapcsolt energiatermeléshez felhasznált tüzelőanyag energiatartalmának egy részét vegyi anyagok formájában visszanyerik és azokat újra felhasználják, ezt a részt le kell vonni a felhasznált tüzelőanyag mennyiségéből, mielőtt a 1.2-1.4. pontban említett összhatásfok kiszámítását elvégeznék.
 
-| Gázturbina (hőhasznosítással) | 0,55 |
-
-| Belső égésű motor | 0,75 |
-
-## d) Ha a kapcsolt energiatermeléshez felhasznált tüzelőanyag energiatartalmának egy részét vegyi anyagok formájában visszanyerik, és azokat az energiatermeléshez újra felhasználják, ezen anyagokat a felhasznált tüzelőanyag mennyiségéből az a)–c) pont szerinti számítások elvégzése előtt le kell vonni.
-
-## 1. ábra
-
-## Kapcsolt rész, nem kapcsolt rész és kizárólag hőtermelésre szolgáló kazánok ugyanazon erőművön belül
+## 1. ábra: Kapcsolt rész, nem kapcsolt rész és kizárólag hőtermelésre szolgáló kazánok ugyanazon erőművön belül
 
 ## 2. A kapcsolt energiatermelési rendszer határai:
 
@@ -112,4 +104,7 @@
 
 ## 2.7. Ha az első erőgép nem termel villamos vagy mechanikus energiát, akkor a kapcsolt energiatermelő erőműegység határai a második erőgép körül húzódnak. A második erőgép üzemanyagát az első erőgép által megtermelt hő adja.
 
-2. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez
+2. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^39]
+
+[^38]: Az 1. számú melléklet 1. pontja a 24/2015. (V. 26.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^39]: A 2. számú melléklet a 24/2015. (V. 26.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.

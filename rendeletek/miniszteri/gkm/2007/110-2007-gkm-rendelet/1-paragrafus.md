@@ -1,6 +1,10 @@
 ## A rendelet alkalmazási köre
 
-1. § (1) A rendelet alkalmazási köre kiterjed a kapcsoltan termelt villamos energiának a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 9. §-a szerinti kötelező átvételi rendszerben történő értékesítéséhez szükséges – a VET 12. §-ában, továbbá a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendeletben (a továbbiakban: R.) meghatározott – eredetigazolás kiadását megalapozó, a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjára.
+1. § (1)[^1] E rendeletet kell alkalmazni
+
+a) a megújuló energiaforrásból és a nagy hatásfokú kapcsolt energiatermelésből nyert villamos energia származásának igazolásáról szóló 309/2013. (VIII. 16.) Korm. rendelet (a továbbiakban: Szgr.) szerinti erőműegység minősítés megadását és a származási garancia kiállítását megalapozó nagy hatásfokú kapcsolt energiatermelés megvalósulásának megállapítására, és
+
+b) az energiahatékonyságról szóló törvény végrehajtásáról szóló kormányrendelet szerinti, a kapcsolt energiatermeléssel kapcsolatos statisztikai jelentések, adatszolgáltatások, értékelések elkészítésére.
 
 (2) Az e rendelet szerinti számítási módot a következő villamosenergia-termelési eljárásokra kell alkalmazni:
 
@@ -25,3 +29,5 @@ i) gőzgéppel,
 j) organikus „Rankine” körfolyamatban, vagy
 
 k) bármely egyéb technológiával vagy ezek kombinációjával történő hasznos hőenergiával kapcsolt villamosenergia-termelésre.
+
+[^1]: Az 1. § (1) bekezdése a 24/2015. (V. 26.) NFM rendelet 1. §-ával megállapított szöveg.
