@@ -1,9 +1,7 @@
-## 7. § Az építésügyi hatósági engedélyhez nem kötött villamosenergia-ipari építmény, építési tevékenység építőipari kivitelezési tevékenysége akkor folytatható, ha
+## 7. §[^15] Az építésügyi hatósági engedélyhez nem kötött villamosenergia-ipari építmény, építési tevékenység építőipari kivitelezési tevékenysége akkor folytatható, ha megfelel a következőknek:
 
 a) az építésügyi jogszabályok, ideértve a helyi építési szabályzatot és a szabályozási tervet is,
 
-b) az országos településrendezési és építési követelmények, és
+b) az országos településrendezési és építési követelmények.
 
-c)[^10]
-
-[^10]: A 7. § c) pontját a 245/2012. (VIII. 31.) Korm. rendelet 13. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^15]: A 7. § a 122/2015. (V. 26.) Korm. rendelet 33. §-ával megállapított szöveg.

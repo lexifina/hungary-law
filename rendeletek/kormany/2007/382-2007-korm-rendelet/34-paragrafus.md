@@ -2,7 +2,7 @@
 
 ## MEGSZÜNTETÉSI ELJÁRÁSOK
 
-34. §[^48] (1) Ha a villamosművet, termelői vezetéket, magánvezetéket, közvetlen vezetéket és azok tartószerkezeten elhelyezett, külső, illetve belső kezelőterű átalakító vagy kapcsoló berendezéseit az engedélyes nem kívánja fenntartani, vagy az rendeltetésszerű használatra alkalmatlan állapotban van, illetve az a környezetre, a hálózatra kapcsolt további vételezőkre és felhasználókra veszélyt jelent, az engedélyes köteles a Hatóságtól megszüntetési (bontási) engedélyt kérni.
+34. §[^60] (1) Ha a villamosművet, termelői vezetéket, magánvezetéket, közvetlen vezetéket és azok tartószerkezeten elhelyezett, külső, illetve belső kezelőterű átalakító vagy kapcsoló berendezéseit az engedélyes nem kívánja fenntartani, vagy az rendeltetésszerű használatra alkalmatlan állapotban van, illetve az a környezetre, a hálózatra kapcsolt további vételezőkre és felhasználókra veszélyt jelent, az engedélyes köteles a Hatóságtól megszüntetési (bontási) engedélyt kérni.
 
 (2) Az olyan vezetékek, tartószerkezeten elhelyezett külső, illetve belső kezelőterű átalakító vagy kapcsoló berendezések esetében, amelyeknél a csatlakozási pont hálózati engedélyese a hálózat állapotának megvizsgálása alapján megállapította, hogy az a hálózati elem környezetére és a hálózatára kapcsolt további vételezőkre, felhasználókra veszélyt jelent, és tulajdonosa vagy üzemeltetője nincs vagy nem ismert, és amelyre bejelentett felhasználó nem csatlakozik, a csatlakozási pont hálózati engedélyese kérheti a megszüntetési (bontási) engedélyt.
 
@@ -22,4 +22,4 @@ c) a nem építési engedélyköteles építmény megépítése a jogszabályi e
 
 (7) Az engedélyes a megszüntetést követően köteles haladéktalanul kérni az ingatlan-nyilvántartásba bejegyzett jogainak törlését. Hivatalból indult eljárás esetében a Hatóság keresi meg a jogerős határozattal az ingatlanügyi hatóságot a bejegyzett jogok törlése iránt.
 
-[^48]: A 34. § a 245/2012. (VIII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^60]: A 34. § a 245/2012. (VIII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.

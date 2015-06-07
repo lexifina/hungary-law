@@ -1,4 +1,4 @@
-6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^68]
+6. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^82]
 
 ## Az üzemeltetési engedély iránti kérelem adattartalma
 
@@ -26,4 +26,4 @@ d) kivitelezés befejezési időpontja.
 
 7. Üzembe helyezési eljárás ideje.
 
-[^68]: A 6. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § e) pontjával megállapított szöveg.
+[^82]: A 6. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § e) pontjával megállapított szöveg.
