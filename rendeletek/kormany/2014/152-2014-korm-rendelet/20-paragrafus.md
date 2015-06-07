@@ -1,4 +1,4 @@
-## 19/A. §[^18] A miniszter a postaügyért való felelőssége keretében előkészíti a postai tevékenységre és a postai szolgáltatások ellátására vonatkozó jogszabályokat.
+## 19/A. §[^19] A miniszter a postaügyért való felelőssége keretében előkészíti a postai tevékenységre és a postai szolgáltatások ellátására vonatkozó jogszabályokat.
 
 ## III. Fejezet
 
@@ -32,4 +32,4 @@ j) gondoskodik – a statisztikáról szóló törvényben meghatározottak szer
 
 (3) A szakpolitikai feladatot ellátó miniszter a feladat- és hatásköre gyakorlása során együttműködik a kormányzati tevékenység összehangolásáért felelős miniszterrel.
 
-[^18]: A 19/A. §-t a 167/2014. (VII. 17.) Korm. rendelet 12. §-a iktatta be.
+[^19]: A 19/A. §-t a 167/2014. (VII. 17.) Korm. rendelet 12. §-a iktatta be.

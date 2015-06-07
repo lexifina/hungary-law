@@ -4,7 +4,7 @@
 
 ## 85. § A külgazdasági és külügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
-1.[^48]
+1.[^49]
 
 2. külgazdasági ügyekért,
 
@@ -12,4 +12,4 @@
 
 felelős tagja.
 
-[^48]: A 85. § 1. pontját a 303/2014. (XII. 5.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^49]: A 85. § 1. pontját a 303/2014. (XII. 5.) Korm. rendelet 12. §-a hatályon kívül helyezte.

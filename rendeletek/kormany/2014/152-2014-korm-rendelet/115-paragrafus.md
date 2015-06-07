@@ -16,4 +16,6 @@ f) a klímapolitikára
 
 vonatkozó jogszabályokat.
 
-(2) A miniszter az energiapolitikáért való felelőssége keretében gondoskodik a fenntartható gazdasági fejlődés és energiagazdálkodás stratégiai feltételeinek megteremtéséről, így különösen az energiapolitikai, épületenergetikai és épület-energiatakarékossági programok kidolgozásáról és végrehajtásáról.
+(2)[^69] A miniszter az energiapolitikáért való felelőssége keretében gondoskodik a fenntartható gazdasági fejlődés, az energiahatékonyság és energiagazdálkodás stratégiai feltételeinek megteremtéséről – így különösen az energiapolitikai, energiahatékonysági, épületenergetikai és épület-energiatakarékossági programok kidolgozásáról és végrehajtásáról –, valamint vezeti a felújítandó központi kormányzati épületek nyilvántartását.
+
+[^69]: A 115. § (2) bekezdése a 122/2015. (V. 26.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.

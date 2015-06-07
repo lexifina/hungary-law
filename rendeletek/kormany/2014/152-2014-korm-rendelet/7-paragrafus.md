@@ -1,3 +1,3 @@
-7. §[^7]
+7. §[^8]
 
-[^7]: A 7. §-t a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 7. §-t a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
