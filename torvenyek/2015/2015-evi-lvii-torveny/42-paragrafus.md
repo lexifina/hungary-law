@@ -1,0 +1,1 @@
+42. § Az adatkezelők által kezelt személyes adatokat az adatkezelő és az adatfeldolgozó korlátozás nélkül, egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával ismerhetik meg.

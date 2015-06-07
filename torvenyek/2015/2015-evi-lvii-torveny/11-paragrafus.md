@@ -1,0 +1,1 @@
+11. § Ha közintézmény az energiahatékonysági célú beszerzése során energiahatékonyság-alapú szerződést kíván kötni, e szerződésnek legalább az e törvény végrehajtására kiadott kormányrendeletben meghatározott tartalmi elemeket kell tartalmaznia. A szerződést írásban kell megkötni.

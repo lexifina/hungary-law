@@ -1,0 +1,1 @@
+9. § A felújítási kötelezettség alá eső kormányzati épületekről nyilvántartást kell vezetni, amely tartalmazza az épületek négyzetméterben kifejezett alapterületét, valamint energiahatékonysági adatait. A nyilvántartást közzé kell tenni.

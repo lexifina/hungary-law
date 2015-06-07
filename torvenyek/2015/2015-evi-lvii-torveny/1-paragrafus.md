@@ -1,0 +1,71 @@
+## I. Fejezet
+
+## ÁLTALÁNOS RENDELKEZÉSEK
+
+## 1. Értelmező rendelkezések
+
+1. § E törvény alkalmazásában:
+
+1. bázisévekben értékesített energiamennyiség: az összes kiskereskedelmi energiaértékesítő által a végső felhasználónak a villamosenergia-, a földgáz- és a távhőszektorban 2010-től 2012-ig évente értékesített energiamennyiség számtani átlaga;
+
+2. egyéni fellépés: olyan fellépés, amely ellenőrizhető, és mérhető vagy megbecsülhető energiahatékonysági javulást eredményez és arra egy szakpolitikai intézkedés nyomán került sor;
+
+3. energia: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti energiatermékek minden formája, éghető üzemanyagok, hő, megújuló energiák, villamos energia vagy az energia bármely más formája;
+
+4. energiagazdálkodási rendszer: az energiahatékonysági célkitűzést, valamint az annak elérését célzó stratégiát meghatározó terv egymással összefüggő vagy kölcsönhatásban lévő elemeinek összessége;
+
+5. energiahatékony beszerzéssel kapcsolatos dokumentáció: az energiahatékony beszerzések lefolytatására köteles szervezet ezen beszerzései során keletkezett olyan irat, amely rögzíti a beszerzés energiahatékonysági jellemzőit, valamint azt a tényt, hogy régi termék, épület cseréje vagy új beszerzés történt, továbbá a beszerzéssel elérhető éves energiamegtakarítás mértékét;
+
+6. energiahatékonyság: a teljesítményben, a szolgáltatásban, a termékben vagy az energiában kifejezett eredmény és a befektetett energia hányadosa;
+
+7. energiahatékonyság-alapú szerződés: az energiafogyasztó és az energiahatékonysági szolgáltató között létrejött olyan szerződés, amelyet teljes időtartama alatt ellenőriznek és nyomon követnek, és amelynek keretében nyújtott energiahatékonysági szolgáltatások ellentételezése a szerződésben megállapodott szintű energiahatékonyság-javulás vagy más energiahatékonysági kritérium teljesítésével összefüggésben történik;
+
+8. energiahatékonysági szolgáltatás: olyan fizikai előny, haszon vagy javak szerződés alapján történő biztosítása – beleértve a szolgáltatás nyújtásához szükséges üzemeltetést, karbantartást és ellenőrzést is, ha ilyen szolgáltatást e szerződés tartalmaz –, amelyek az energia és az energiahatékony technológia vagy cselekvés kombinációjából származnak és rendes körülmények között bizonyítottan az energiahatékonyság igazolható, mérhető vagy felbecsülhető javulásához vagy primerenergia-megtakarításhoz vezetnek;
+
+9. energiahatékonysági szolgáltató: az a gazdálkodó szervezet, aki energiahatékonysági szolgáltatást nyújt vagy egyéb energiahatékonyság-javító intézkedést hajt végre a végső felhasználó létesítményében vagy helyiségében;
+
+10. energiahatékonyság-javulás: az energiahatékonyság növekedése a technológiai, magatartásbeli vagy gazdasági változások vagy ezek kombinációjának eredményeképpen;
+
+11. energiamegtakarítás: az az energiamennyiség, amellyel csökkent valamely energiahatékonyság-javító intézkedés végrehajtása után a mért vagy becsült fogyasztás az intézkedést megelőzőhöz képest, biztosítva az energiafogyasztást befolyásoló külső feltételeknek megfelelő normalizálást;
+
+12. energetikai audit: az energetikai auditálás eredményeit tartalmazó, jogszabályban meghatározott tartalmi és formai követelményeknek megfelelő irat;
+
+13. energetikai auditálás: olyan, meghatározott módszerrel végzett eljárás, amelynek célja megfelelő ismeretek gyűjtése valamely épület vagy épületcsoport, ipari vagy kereskedelmi művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energiamegtakarítási lehetőségeket és beszámol az eredményekről;
+
+14. energetikai auditáló szervezet: energetikai auditálást végző gazdálkodó szervezet;
+
+15. energetikai auditor: energetikai auditálást végző természetes személy;
+
+16. gazdálkodó szervezet: a polgári perrendtartásról szóló 1952. évi III. törvény 396. §-ában meghatározott szervezet;
+
+17. hatékony távfűtés: olyan távfűtési rendszer, amely legalább 50%-ban megújuló energia, 50%-ban hulladékhő, 75%-ban kapcsolt energiatermelésből származó hő vagy 50%-ban ilyen energiák és hők kombinációjának felhasználásával működik;
+
+18. hatékony távhűtés: olyan távhűtési rendszer, amely legalább 50%-ban megújuló energia, 50%-ban hulladékhő, 75%-ban kapcsolt energiatermelésből származó hő vagy 50%-ban ilyen energiák és hők kombinációjának felhasználásával működik;
+
+19. jelentős korszerűsítés: olyan korszerűsítés, amelynek költsége meghaladja egy hasonló új egység beruházási költségének 50%-át azzal, hogy nem tekinthető jelentős korszerűsítésnek, ha a tüzelőberendezést az általa kibocsátott szén-dioxid leválasztására alkalmas berendezéssel szerelik fel azzal a céllal, hogy gondoskodjanak a szén-dioxidnak a geológiai tárolásáról;
+
+20. kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben meghatározottak alapján mikro-, kis- és középvállalkozásnak minősülő vállalkozás;
+
+21. kiskereskedelmi energiaértékesítő vállalat: az a gazdálkodó szervezet, amely villamos energiát, földgázt értékesít, valamint távhőt szolgáltat a végső felhasználó számára;
+
+22. komplex korszerűsítés: az épülethatároló szerkezetek és az épületgépészeti rendszerek többségét érintő korszerűsítés, amely a korszerűsítés előtti szinthez képest jelentős energiahatékonyság-javulást eredményez;
+
+23. közintézmény: a közbeszerzésekről szóló törvényben meghatározott ajánlatkérő szervezet;
+
+24. központi kormányzat: a minisztérium, a kormányhivatal országos hatáskörrel rendelkező szervezeti egységei, a központi hivatal – a fővárosi és megyei kormányhivatalok kivételével – országos hatáskörrel rendelkező szervezeti egységei, a Közbeszerzési és Ellátási Főigazgatóság, valamint a Katonai Nemzetbiztonsági Szolgálat országos hatáskörrel rendelkező szervezeti egységei, az országos hatáskörrel rendelkező rendvédelmi szervek és honvédségi szervezetek; továbbá ha e szervezetek körében egy adott hatáskör vonatkozásában nem létezik országos hatáskörű szervezeti egység, akkor azok a szervezeti egységek vagy szervezetek, amelyek illetékessége együttesen terjed ki az ország területére;
+
+25. nagy hatásfokú kapcsolt energiatermelés: a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendelet szerint nagy hatásfokúnak minősülő kapcsolt energiatermelés;
+
+26. nagyvállalat: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény alapján mikro-, kis- és középvállalkozásnak nem minősülő vállalkozás;
+
+27. névleges bemenő hőteljesítmény: az adott energiaátalakító berendezésre vonatkozó hatósági határozatban vagy a berendezés gépkönyvében vagy gyártói nyilatkozatában rögzített névleges teljesítményen történő üzemeltetéséhez szükséges, az energiaátalakító berendezésbe bevitt hőteljesítmény megawattban (MWth) kifejezve;
+
+28. primerenergia-fogyasztás: a nem energiacélú felhasználással csökkentett bruttó belföldi energiafogyasztás;
+
+29. teljes bemenő hőteljesítmény: az összes olyan műszaki egység névleges bemenő hőteljesítményének összege, amely a létesítmény részét képezi;
+
+30. végrehajtási időszak: az energiahatékonysági célkitűzés végrehajtására rendelkezésre álló, 2014. január 1-jétől 2020. december 31-ig terjedő időszak;
+
+31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát;
+
+32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével.

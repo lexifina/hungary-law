@@ -1,0 +1,3 @@
+27. § (1) A Hivatal a nem kötelező energetikai auditálás során készített energetikai audit jogszabályi feltételeknek való megfelelőségét a megbízó vagy az egyéb érdekelt kezdeményezésére, díjfizetés ellenében ellenőrzi.
+
+(2) A nem kötelező energetikai auditálás során készített energetikai audit ellenőrzésére a 25. §, a 26. § (1) bekezdése, valamint a 26. § (7) bekezdésében az energetikai audit érvénytelennek minősülését követően fennálló, új energetikai auditra vonatkozó beszerzési kötelezettség kivételével a kötelező energetikai audit jogszabályi feltételeknek való megfelelőségének ellenőrzésére vonatkozó szabályok alkalmazandóak.
