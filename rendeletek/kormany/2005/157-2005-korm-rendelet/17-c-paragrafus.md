@@ -1,4 +1,4 @@
-17/C. §[^35] (1) A fűtési díjmegosztási arányok meghatározásához fűtési költségmegosztók akkor alkalmazhatók, ha
+17/C. §[^38] (1) A fűtési díjmegosztási arányok meghatározásához fűtési költségmegosztók akkor alkalmazhatók, ha
 
 a) a felhasználási hely külön tulajdonban vagy külön használatban álló épületrészeiben felszerelt valamennyi hőleadó készülék hőleadása azonos gyártmányú, egységes értékelési rendszerű fűtési költségmegosztóval kerül meghatározásra, vagy a felhasználási hely külön tulajdonban vagy külön használatban álló épületrészeiben a fűtési hőfelhasználás költségmegosztó funkciót ellátó hőfogyasztás-mérővel önállóan mérhető,
 
@@ -12,8 +12,15 @@ e) a fűtési költségmegosztókat a felszerelésüket követően beavatkozás,
 
 f) a fűtési költségmegosztók leolvasása, működőképességük és a plomba sértetlenségének ellenőrzése az elszámolási időszak végén a tulajdonosi közösség által meghatározott időpontig megtörténik.
 
+(1a)[^39] A felhasználó köteles gondoskodni – a közös használatú épületrészek kivételével – az épületrészekben az elfogyasztott távhő, valamint meleg víz elszámolása érdekében hiteles hőmennyiségmérő vagy költségmegosztó felszereléséről
+
+a) új csatlakozás esetén, ha az új épületben kerül kialakításra, vagy
+
+b) ha az épületen az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti jelentős felújítást valósítanak meg.
+
 (2) A fűtési költségmegosztó, továbbá a költségmegosztóra felszerelt plomba sérüléséről a díjfizető köteles haladéktalanul a tulajdonosi közösség képviselőjét írásban tájékoztatni. A megsérült fűtési költségmegosztó, továbbá a költségmegosztóra felszerelt plomba pótlásának költségeit a díjfizető viseli.
 
 (3) Párologtatós fűtési költségmegosztó – a 23/A. § (3) bekezdésében foglaltak kivételével – fűtési költségmegosztóként nem alkalmazható.
 
-[^35]: A Vhr. 17/C. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^38]: A Vhr. 17/C. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^39]: A Vhr. 17/C. § (1a) bekezdését a 123/2015. (V. 26.) Korm. rendelet 3. §-a iktatta be.

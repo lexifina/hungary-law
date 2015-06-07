@@ -1,6 +1,6 @@
-## A közüzemi szerződés felmondása alóli mentességre vonatkozó részletes szabályok[^43]
+## A közüzemi szerződés felmondása alóli mentességre vonatkozó részletes szabályok[^49]
 
-17/J. §[^44] A Tszt. és e rendelet alkalmazásában közintézményi felhasználó
+17/J. §[^50] A Tszt. és e rendelet alkalmazásában közintézményi felhasználó
 
 a) a közoktatásról szóló törvény szerinti óvoda, általános iskola, gyógypedagógiai, konduktív pedagógiai óvoda vagy iskola, és az ezekhez tartozó kollégium, ha
 
@@ -26,5 +26,5 @@ da) állami vagy önkormányzati fenntartású, vagy
 
 db) egészségügyi közszolgáltatás biztosítására vonatkozó hatályos szerződéssel rendelkezik.
 
-[^43]: A Vhr. 17/J. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.
-[^44]: A Vhr. 17/J. §-át a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.
+[^49]: A Vhr. 17/J. §-át megelőző alcímet a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.
+[^50]: A Vhr. 17/J. §-át a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.
