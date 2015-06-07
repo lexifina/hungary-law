@@ -12,6 +12,6 @@ d) keltezést hely és dátum megjelölésével, valamint a fogyasztó – több
 
 (3) A forintra történő átváltás és a kamatmódosítás mellőzésének a 2014. évi LXXVII. törvény 12. § (1) bekezdése szerinti kezdeményezésére szolgáló – az MNB által e rendelkezés hatálybalépését követő 15 munkanapon belül a honlapján közzétett – ajánlott mintakérelmet a pénzügyi intézmény az MNB általi közzétételt követő 5 munkanapon belül „Elszámolási és forintosítási információk” cím alatt a honlapján, továbbá az ügyfélszolgálatain elérhetővé teszi, illetve a fogyasztó kérésére elektronikus vagy postai úton az igény beérkezésétől számított 5 munkanapon belül megküldi.
 
-(4)[^3] A (3) bekezdésben előírt kötelezettség nem terheli a pénzügyi intézményt, amennyiben a 2014. évi LXXVII. törvény 10. és 11. §-ában meghatározott kötelezettség a pénzügyi intézményt nem terheli.
+(4)[^5] A (3) bekezdésben előírt kötelezettség nem terheli a pénzügyi intézményt, amennyiben a 2014. évi LXXVII. törvény 10. és 11. §-ában meghatározott kötelezettség a pénzügyi intézményt nem terheli.
 
-[^3]: A 9. § (4) bekezdését a 3/2015. (II. 20.) MNB rendelet 2. §-a iktatta be.
+[^5]: A 9. § (4) bekezdését a 3/2015. (II. 20.) MNB rendelet 2. §-a iktatta be.

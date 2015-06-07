@@ -1,4 +1,4 @@
-1. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^4]
+1. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^6]
 
 A 2. § (1) bekezdés és a 9. § (1) bekezdés szerinti, pénzügyi intézmény által megküldendő tájékoztató levél formai követelményei, kötelezően feltüntetendő tartalmi elemei, valamint a pénzügyi intézmény által kialakítandó tartalmi elemei
 
@@ -224,4 +224,4 @@ A forintra történő átváltással és kamatmódosítással kapcsolatos egyéb
 
 III. Felülvizsgálatra, jogorvoslatra vonatkozó információk
 
-[^4]: Az 1. melléklet a 3/2015. (II. 20.) MNB rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet a 3/2015. (II. 20.) MNB rendelet 3. §-ával megállapított szöveg.
