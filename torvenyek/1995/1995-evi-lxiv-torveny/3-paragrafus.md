@@ -2,6 +2,6 @@
 
 (2)
 
-(3) Az Alapprogramból kiírt pályázatok elbírálásáról, a támogatás odaítéléséről az erre a célra létrehozott testület javaslatára a miniszter dönt.
+(3) Az Alapprogram éves felhasználásának irányairól és arányairól, a pályázatok elbírálásáról, valamint az egyedi támogatási igény alapján a támogatás odaítéléséről az erre a célra létrehozott testület javaslatára a miniszter dönt.
 
 (4)

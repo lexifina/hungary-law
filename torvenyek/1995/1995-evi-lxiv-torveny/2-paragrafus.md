@@ -12,6 +12,6 @@ e) a Központi Ifjúsági Alapprogram pénzmaradványai, ezek korábbi tőkekihe
 
 f) egyéb bevételi források.
 
-(2) Az (1) bekezdés b) pontjában meghatározott követelés adók módjára behajtandó köztartozásnak minősül.
+(2)
 
 (3) Az Alapprogram bevétele és év végi pénzmaradványa nem vonható el.
