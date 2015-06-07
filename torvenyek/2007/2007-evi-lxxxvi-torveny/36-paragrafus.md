@@ -1,4 +1,4 @@
-36. § (1) Az átviteli rendszerirányító az átviteli és az átviteli hálózat üzemét befolyásoló elosztó hálózathoz való hozzáférést objektív, átlátható módon, az egyenlő bánásmód követelményének sérelme nélkül, a külön jogszabályban meghatározott feltételek szerint tagadhatja meg, illetve a már lekötött szállításokat korlátozhatja, csökkentheti, szüneteltetheti. A korlátozásra, csökkentésre vagy szüneteltetésre előzetesen, illetve a villamosenergia-rendszer üzeme közben is sor kerülhet az alábbi esetekben:
+36. § (1) Az átviteli rendszerirányító az átviteli és az elosztó hálózathoz való hozzáférést objektív, átlátható módon, az egyenlő bánásmód követelményének sérelme nélkül, a külön jogszabályban meghatározott feltételek szerint tagadhatja meg, illetve a már lekötött szállításokat korlátozhatja, csökkentheti, szüneteltetheti. A korlátozásra, csökkentésre vagy szüneteltetésre előzetesen, illetve a villamosenergia-rendszer üzeme közben is sor kerülhet az alábbi esetekben:
 
 a) rendkívüli hálózati állapotok,
 
@@ -12,7 +12,7 @@ e) a rendszerszintű szolgáltatások biztosításának vagy a rendszer szabály
 
 f) a határon keresztül szállított villamos energia beszállításra olyan létesítményekből kerül sor, amelyek üzemeltetése a Magyarország területén tartózkodó személyekre, vagyontárgyaikra, a természetre vagy a környezetre közvetett vagy közvetlen veszéllyel jár, illetve járhat,
 
-g) a villamos energia beszállítása a megújuló energiaforrások, a hulladékból nyert energia, illetve a kapcsolt villamos energia termelését vagy felhasználását hátrányosan érinti,
+g) a villamos energia beszállítása a megújuló energiaforrások, a hulladékból nyert energia, illetve a nagy hatásfokú kapcsolt villamos energia termelését vagy felhasználását hátrányosan érinti,
 
 h) más módon el nem végezhető karbantartási és felújítási munkák, valamint kapcsolások érdekében.
 

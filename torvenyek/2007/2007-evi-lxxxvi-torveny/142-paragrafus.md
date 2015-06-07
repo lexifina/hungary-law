@@ -19,3 +19,5 @@ d) közvilágítási elosztási díjat
 (5) A rendszerhasználati díjaknak meg kell felelniük az átláthatóság, a nyilvánosság és az arányosság elvének és azokat objektív módon megkülönböztetés nélkül kell alkalmazni.
 
 (6) A rendszerhasználati díjakat a hatékonyan működő engedélyes vállalkozás indokolt működési és tőkeköltsége, illetve összehasonlító elemzések alapján a legkisebb költség elvének érvényre juttatásával a (2) bekezdés szerinti miniszteri rendelettel összhangban úgy kell meghatározni, hogy az érintett engedélyeseket rövid és hosszú távon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére ösztönözze.
+
+(7) A rendszerhasználati díjaknak tükrözniük kell a hálózatokon a fogyasztásbefolyásolás és a kereslet oldali válaszintézkedések, valamint az elosztott termelés és egyéb energiahatékonysági intézkedések útján elért költségmegtakarítást, beleértve a hálózati beruházások költségének csökkentésén és a hálózat optimálisabb működésén keresztül elért megtakarításokat is.
