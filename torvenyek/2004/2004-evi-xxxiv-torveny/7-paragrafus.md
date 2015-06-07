@@ -40,4 +40,6 @@ r) a környezetvédelmi hatású fejlesztések elősegítése,
 
 s) a szellemi tulajdon védelmének elősegítése, a szellemi tulajdon védelme tudatosságának fejlesztése,
 
-t) a piaci információkhoz való hozzájutás esélyegyenlőségének biztosítása.
+t) a piaci információkhoz való hozzájutás esélyegyenlőségének biztosítása,
+
+u) energiahatékonysági hatású fejlesztések elősegítése.

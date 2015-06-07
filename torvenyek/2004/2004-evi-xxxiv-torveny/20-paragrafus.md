@@ -15,3 +15,5 @@
 – a Bizottság 96/280/EK ajánlása a mikro-, kis- és középvállalkozások meghatározásáról,
 
 – a Bizottság 2003/361/EK ajánlása a mikro-, kis- és középvállalkozások meghatározásáról.
+
+(8) A 7. § (2) bekezdés u) pontja az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 8. cikk (2) bekezdésének való megfelelést szolgálja.
