@@ -1,0 +1,3 @@
+17. § (1) Az energetikai auditor és az energetikai auditáló szervezet az általa közvetlenül végzett tevékenység tekintetében energetikai auditálást nem végezhet.
+
+(2) Az energetikai auditor annál a szervezetnél, amelynek alkalmazottja, csak abban az esetben végezhet energetikai auditálást, ha az energetikai auditálásra vonatkozó szakmai tevékenysége tekintetében közvetlenül a szervezet vezetésének van alárendelve. A szervezet vezetője ebben az esetben sem adhat az energetikai auditor számára az auditálás eredményét befolyásoló utasítást, és az auditálás eredménye miatt az energetikai auditort hátrány nem érheti.

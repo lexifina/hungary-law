@@ -1,0 +1,1 @@
+## 6. § A felújítási kötelezettség teljesítése során a legalacsonyabb energiahatékonysági jellemzőkkel bíró épületek – amennyiben ez költséghatékonyan és technikailag kivitelezhető – elsőbbséget élveznek.

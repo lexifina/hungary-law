@@ -1,0 +1,7 @@
+## 8. Az Európai Bizottság felé teljesítendő tájékoztatási kötelezettség esetkörei és teljesítésük részletszabályai
+
+11. § (1) Az Európai Bizottság felé teljesítendő tájékoztatási kötelezettség stratégiaalkotási, jelentéstételi vagy adatszolgáltatási kötelezettséghez (a továbbiakban együtt: tájékoztatási kötelezettség) kapcsolódik.
+
+(2) Az Európai Bizottság felé teljesítendő tájékoztatási kötelezettség alapjául szolgáló esetköröket, a kötelezettség teljesítéséért felelős szervezetet, valamint a kötelezettség teljesítésének módját (a továbbiakban: a kötelezettség teljesítésére szolgáló dokumentum) és határidejét a 9. melléklet tartalmazza.
+
+(3) Ha a 9. mellékletben meghatározott kötelezettség teljesítéséért a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) felelős, a Hivatal a kötelezettség teljesítésére szolgáló dokumentumot köteles az Európai Bizottság mellett az energiapolitikáért felelős miniszternek is megküldeni és honlapján közzétenni. Ha a kötelezettség teljesítésére szolgáló dokumentum a Hivatal határozata, azt a Hivatal honlapján nem kell közzétenni.
