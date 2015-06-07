@@ -42,15 +42,17 @@ o)[^9] az elektronikus hírközlésért felelős miniszter, illetve az informati
 
 p) az ügyvédi és ügyvédjelölti képesítések esetében első fokon a Budapesti Ügyvédi Kamarát, másodfokon a Magyar Ügyvédi Kamarát,
 
-q)[^10] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Vízügyi Hatóságot, másodfokon a vízgazdálkodásért felelős minisztert
+q)[^10] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Vízügyi Hatóságot, másodfokon a vízgazdálkodásért felelős minisztert,
+
+r)[^11] energetikai auditor képesítések esetén a Magyar Energetikai és Közmű-szabályozási Hivatalt
 
 ## jelöli ki.
 
 (3) A Kormány az Etv. IV. fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák tekintetében, amelyek esetében a szakmai és vizsgakövetelmények meghatározása
 
-a)[^11] az egészségügyért felelős miniszter hatáskörébe tartozik, első fokon az Egészségügyi Nyilvántartási és Képzési Központot, másodfokon az Országos Tisztifőorvosi Hivatalt,
+a)[^12] az egészségügyért felelős miniszter hatáskörébe tartozik, első fokon az Egészségügyi Nyilvántartási és Képzési Központot, másodfokon az Országos Tisztifőorvosi Hivatalt,
 
-b)[^12] a szakképzésért és felnőttképzésért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Hivatalt, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
+b)[^13] a szakképzésért és felnőttképzésért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Hivatalt, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
 
 c) a közlekedésért felelős miniszter hatáskörébe tartozik
 
@@ -64,9 +66,9 @@ másodfokon a Nemzeti Közlekedési Hatóság Központját,
 
 d) a postaügyért felelős miniszter hatáskörébe tartozik első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét,
 
-e)[^13] a kereskedelemért felelős miniszter és az iparügyekért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Intézetet, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
+e)[^14] a kereskedelemért felelős miniszter és az iparügyekért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Szakképzési és Felnőttképzési Intézetet, másodfokon a szakképzésért és felnőttképzésért felelős minisztert,
 
-f)[^14] az elektronikus hírközlésért felelős miniszter, illetve az informatikáért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét
+f)[^15] az elektronikus hírközlésért felelős miniszter, illetve az informatikáért felelős miniszter hatáskörébe tartozik, első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság Elnökét
 
 jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként.
 
@@ -74,7 +76,7 @@ jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős
 
 (5) A Kormány eljáró hatóságként
 
-a)[^15] az Etv. 60/A–60/C. §-a szerinti eljárásokban a (2) bekezdés a) pontja, valamint a (3) bekezdés a) pontja alapján elismerendő szakmák tekintetében első fokon az Egészségügyi Nyilvántartási és Képzési Központot, másodfokon az Országos Tisztifőorvosi Hivatalt,
+a)[^16] az Etv. 60/A–60/C. §-a szerinti eljárásokban a (2) bekezdés a) pontja, valamint a (3) bekezdés a) pontja alapján elismerendő szakmák tekintetében első fokon az Egészségügyi Nyilvántartási és Képzési Központot, másodfokon az Országos Tisztifőorvosi Hivatalt,
 
 b) az Etv. 60/B. §-a szerinti eljárásokban okleveles építészmérnök és okleveles építész tervező művész szakképzettség esetén első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
@@ -92,8 +94,9 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 [^8]: Az 1. § (2) bekezdés l) pontja az 527/2013. (XII. 30.) Korm. rendelet 59. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 420. § e) pontja szerint módosított szöveg.
 [^9]: Az 1. § (2) bekezdés o) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
 [^10]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be.
-[^11]: Az 1. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
-[^12]: Az 1. § (3) bekezdés b) pontja a 318/2014. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
-[^13]: Az 1. § (3) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § b) pontja szerint módosított szöveg.
-[^14]: Az 1. § (3) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
-[^15]: Az 1. § (5) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^11]: Az 1. § (2) bekezdés r) pontját a 122/2015. (V. 26.) Korm. rendelet 37. §-a iktatta be.
+[^12]: Az 1. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. § (3) bekezdés b) pontja a 318/2014. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^14]: Az 1. § (3) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. § (3) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
+[^16]: Az 1. § (5) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
