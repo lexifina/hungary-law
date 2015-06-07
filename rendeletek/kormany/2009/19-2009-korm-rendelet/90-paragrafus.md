@@ -1,4 +1,4 @@
-90. §[^278] (1) A megszakítható kapacitás betáplálási-kiadási pontonként történő meghatározására, értékesítésére és felhasználására a rendszerüzemeltetők között harmonizált eljárásrendet kell kialakítani az ÜKSZ-ben, különös tekintettel
+90. §[^279] (1) A megszakítható kapacitás betáplálási-kiadási pontonként történő meghatározására, értékesítésére és felhasználására a rendszerüzemeltetők között harmonizált eljárásrendet kell kialakítani az ÜKSZ-ben, különös tekintettel
 
 a) a rendszerek csatlakozási pontján leköthető megszakítható kapacitások meghatározására,
 
@@ -12,4 +12,4 @@ b) a megszakítható kapacitás kiszolgálásának megszüntetése esetén alkal
 
 (5) A GET 73. § (2) bekezdése szerint értékesített megszakítható kapacitás díja a rendszerüzemeltetőt illeti. Megszakítható kapacitást a gáznapra az a rendszerhasználó köthet le, aki rendelkezik hatályos rendszerhasználati szerződéssel a rendszerüzemeltetővel és biztosította a szerződéses biztosítékot és feltételeket.
 
-[^278]: A Vhr. 90. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^279]: A Vhr. 90. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

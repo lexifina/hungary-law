@@ -1,3 +1,3 @@
-148. §[^454] Az engedélyesek, a nem engedélyköteles földgázipari tevékenységet végzők, az integrált földgázipari vállalkozások, valamint a kiszervezett tevékenységet végzők kötelesek a Hivatal részére megadni e rendeletben meghatározott és a feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal határozza meg.
+148. §[^462] Az engedélyesek, a nem engedélyköteles földgázipari tevékenységet végzők, az integrált földgázipari vállalkozások, valamint a kiszervezett tevékenységet végzők kötelesek a Hivatal részére megadni e rendeletben meghatározott és a feladatai ellátásához szükséges információkat. Az adatszolgáltatás tartalmát és formáját a Hivatal határozza meg.
 
-[^454]: A Vhr. 148. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^462]: A Vhr. 148. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

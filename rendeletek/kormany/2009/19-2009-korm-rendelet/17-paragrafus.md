@@ -2,7 +2,7 @@
 
 ## Földgáztárolás
 
-17. §[^81] (1) A földgáztárolási működési engedélyt kérelmező az általa üzemeltetni kívánt földgáztárolók összességére köteles benyújtani az engedély kérelmet, beleértve a saját tulajdonú és az üzemeltetési szerződés alapján működtetett földgáztároló részeket is.
+17. §[^82] (1) A földgáztárolási működési engedélyt kérelmező az általa üzemeltetni kívánt földgáztárolók összességére köteles benyújtani az engedély kérelmet, beleértve a saját tulajdonú és az üzemeltetési szerződés alapján működtetett földgáztároló részeket is.
 
 (2) A kérelmező jegyzett tőkéje nem lehet kevesebb 500 millió forintnál.
 
@@ -18,7 +18,7 @@ d) saját szervezetén belül az engedélyes tevékenysége végzéséhez szüks
 
 e) olyan szervezeti egységgel és ahhoz tartozó szakszemélyzettel, amely képes meghozni a tevékenység végzéséhez szükséges, valamint a működési engedélyek alapján, a Hivatal jóváhagyásával kiszervezett tevékenységekre vonatkozó önálló döntéseket,
 
-f)[^82] a saját szervezetén belül a földgáztároló üzemvitelét folyamatosan felügyelő, a rendszeregyensúlyozásban való közreműködés és a szállítási rendszerüzemeltetővel való operatív együttműködés irányítását végző, folyamatosan működő műszaki irányító (diszpécser) szolgálattal,
+f)[^83] a saját szervezetén belül a földgáztároló üzemvitelét folyamatosan felügyelő, a rendszeregyensúlyozásban való közreműködés és a szállítási rendszerüzemeltetővel való operatív együttműködés irányítását végző, folyamatosan működő műszaki irányító (diszpécser) szolgálattal,
 
 g) a saját szervezetén belül fejlesztési igények megfogalmazására és a teljes fejlesztési folyamat ellenőrzésére alkalmas szakemberállománnyal,
 
@@ -42,5 +42,5 @@ d) a földgázipari vállalkozások és a felhasználók egyenlő bánásmódban
 
 (6) A földgáztároló az (5) bekezdés szerinti megkülönböztetés-mentes bánásmód keretében köteles biztosítani különösen az információhoz egyenlő feltételekkel történő hozzáférést, tekintet nélkül arra, hogy a felhasználók és vállalkozások az integrált vállalkozás részei, az integrált vállalkozás vállalati körébe tartozó termelői engedéllyel, földgáz kereskedelemre vonatkozó vagy egyetemes szolgáltatói engedéllyel rendelkező gazdasági társasággal jogviszonyban álló felhasználók, vagy más, önálló vállalkozások, illetve felhasználók.
 
-[^81]: A Vhr. 17. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^82]: A Vhr. 17. § (3) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (2) bekezdése szerint módosított szöveg.
+[^82]: A Vhr. 17. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^83]: A Vhr. 17. § (3) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (2) bekezdése szerint módosított szöveg.

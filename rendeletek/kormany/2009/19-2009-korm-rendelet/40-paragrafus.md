@@ -2,7 +2,7 @@
 
 ## Egyablakos kapacitásértékesítés
 
-40. §[^149] (1) Az egyablakos kapacitásértékesítésre vonatkozó működési engedélyt kérelmezőnek rendelkeznie kell:
+40. §[^150] (1) Az egyablakos kapacitásértékesítésre vonatkozó működési engedélyt kérelmezőnek rendelkeznie kell:
 
 a) 3 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgáz kapacitásértékesítő tevékenységet a hozzá kapcsolódó költségeket, pénzforgalmat,
 
@@ -12,15 +12,15 @@ c) a rendszer leírásával, amely tartalmazza az egyablakos kapacitásértékes
 
 d) az egyablakos kapacitásértékesítésbe bevont rendszerüzemeltetőkkel kötött kapacitásértékesítési megállapodásokkal,
 
-e)[^150] a Hivatal által jóváhagyott tarifa képzési elvvel és képlettel,
+e)[^151] a Hivatal által jóváhagyott tarifa képzési elvvel és képlettel,
 
-f)[^151] a kapacitásértékesítésre vonatkozó felmentésekkel,
+f)[^152] a kapacitásértékesítésre vonatkozó felmentésekkel,
 
-g)[^152] a kapacitások átlátható értékesítésére vonatkozó szabályzattal,
+g)[^153] a kapacitások átlátható értékesítésére vonatkozó szabályzattal,
 
-h)[^153] az érintett szállítási rendszerüzemeltetővel kötött együttműködési megállapodással,
+h)[^154] az érintett szállítási rendszerüzemeltetővel kötött együttműködési megállapodással,
 
-i)[^154]
+i)[^155]
 
 (2) Az egyablakos kapacitásértékesítésre vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének IX. fejezetében meghatározott iratokat kell benyújtani.
 
@@ -32,9 +32,9 @@ b) a rendszerhasználók hozzáférhessenek a saját adataikhoz, valamint a köz
 
 c) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön előnyben.
 
-[^149]: A Vhr. 40. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^150]: A Vhr. 40. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
-[^151]: A Vhr. 40. § (1) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
-[^152]: A Vhr. 40. § (1) bekezdés g) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be.
-[^153]: A Vhr. 40. § (1) bekezdés h) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be.
-[^154]: A Vhr. 40. § (1) bekezdés i) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be, hatályon kívül helyezte a 91/2015. (IV. 9.) Korm. rendelet 23. § b) pontja.
+[^150]: A Vhr. 40. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^151]: A Vhr. 40. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^152]: A Vhr. 40. § (1) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^153]: A Vhr. 40. § (1) bekezdés g) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be.
+[^154]: A Vhr. 40. § (1) bekezdés h) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be.
+[^155]: A Vhr. 40. § (1) bekezdés i) pontját a 378/2011. (XII. 31.) Korm. rendelet 44. §-a iktatta be, hatályon kívül helyezte a 91/2015. (IV. 9.) Korm. rendelet 23. § b) pontja.

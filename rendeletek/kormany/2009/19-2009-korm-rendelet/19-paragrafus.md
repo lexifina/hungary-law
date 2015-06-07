@@ -1,4 +1,4 @@
-19. §[^85] (1) A biztonsági földgáztárolást végző engedélyes köteles:
+19. §[^86] (1) A biztonsági földgáztárolást végző engedélyes köteles:
 
 a) a biztonsági földgázkészletet az egyéb készleteitől nyilvántartásaiban és számviteli rendszerében elkülönítetten kezelni,
 
@@ -10,7 +10,7 @@ c) az üzletszabályzata részeként a biztonsági földgázkészlet tárolásá
 
 (3) A biztonsági földgázkészlet kitárolásához a földgáztároló köteles olyan elszámolási rendet kialakítani, amely biztosítja, hogy a kitárolt készletből csak a külön jogszabály alapján igénybevételre jogosultak, az ott meghatározott mértékben jussanak a földgázhoz.
 
-(4)[^86] A biztonsági földgázkészletre a hozzáférés általános szabályai nem alkalmazhatók, nem esik az árszabályozás alá.
+(4)[^87] A biztonsági földgázkészletre a hozzáférés általános szabályai nem alkalmazhatók, nem esik az árszabályozás alá.
 
-[^85]: A Vhr. 19. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^86]: A Vhr. 19. § (4) bekezdése az 53/2012. (III. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
+[^86]: A Vhr. 19. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^87]: A Vhr. 19. § (4) bekezdése az 53/2012. (III. 28.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.

@@ -54,9 +54,9 @@
 
 22.[^21] Üzemeltetési egyensúlyozási számla: a szállítási rendszerüzemeltető és az erre vonatkozó együttműködési megállapodást aláíró közötti dokumentum, amely a napi mért és a rendszerhasználókkal elszámolt energiamennyiség-különbséget a vonatkozó rendszerhasználati szabályoknak megfelelő fizikai mértékegységben naponta és göngyölítve tartalmazza,
 
-23.[^22] energetikai szolgáltatás: olyan szerződés alapján nyújtott tevékenység vagy eljárás, amely egy épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás tekintetében az energiahatékonyság igazolható, mérhető vagy felbecsülhető javulásához vagy elsődleges energia-megtakarításokhoz vezet, beleértve a szolgáltatás nyújtásához szükséges üzemeltetést, karbantartást és ellenőrzést,
+23.[^22]
 
-24.[^23] energiaaudit: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit,
+24.[^23] az energetikai auditálás: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit,
 
 25.[^24] energiahatékonyság: az energia kihozatal és a bevitt energia hányadosa,
 
@@ -89,8 +89,8 @@
 [^19]: A Vhr. 1. § (1) bekezdés 20. pontja a 378/2011. (XII. 31.) Korm. rendelet 34. § (3) bekezdésével megállapított szöveg.
 [^20]: A Vhr. 1. § (1) bekezdés 21. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (1) bekezdése szerint módosított szöveg.
 [^21]: A Vhr. 1. § (1) bekezdés 22. pontját a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte, újonnan a 212/2014. (VIII. 27.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^22]: A Vhr. 1. § (1) bekezdés 23. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^23]: A Vhr. 1. § (1) bekezdés 24. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^22]: A Vhr. 1. § (1) bekezdés 23. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 123/2015. (V. 26.) Korm. rendelet 36. § (1) bekezdés a) pontja.
+[^23]: A Vhr. 1. § (1) bekezdés 24. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 34. §-a szerint módosított szöveg.
 [^24]: A Vhr. 1. § (1) bekezdés 25. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^25]: A Vhr. 1. § (1) bekezdés 26. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^26]: A Vhr. 1. § (1) bekezdés 27. pontját a 64/2009. (III. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.

@@ -1,3 +1,3 @@
-80. §[^268] A földgázelosztói rendszerhasználati és a földgáz-kereskedelmi szerződésnek rendelkeznie kell a korlátozás során alkalmazandó eljárásrendről.
+80. §[^269] A földgázelosztói rendszerhasználati és a földgáz-kereskedelmi szerződésnek rendelkeznie kell a korlátozás során alkalmazandó eljárásrendről.
 
-[^268]: A Vhr. 80. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^269]: A Vhr. 80. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

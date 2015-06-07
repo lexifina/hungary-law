@@ -1,4 +1,4 @@
-86. §[^274] (1) A rendszerüzemeltetői szolgáltatás nyújtása szerződéses biztosítékkal összefüggő okból akkor tagadható meg vagy akkor függeszthető fel, ha
+86. §[^275] (1) A rendszerüzemeltetői szolgáltatás nyújtása szerződéses biztosítékkal összefüggő okból akkor tagadható meg vagy akkor függeszthető fel, ha
 
 a) a szerződéses biztosíték a szerződéses szolgáltatás megkezdését 15 munkanappal megelőzően nem áll rendelkezésre,
 
@@ -32,4 +32,4 @@ részére, valamint a lekötés alapján számított forgalmi díj összegére a
 
 (9) A földgázkereskedő a földgáz-kereskedelmi szerződésbe foglalt ügyleteinek biztosítása érdekében jogosult a földgáz-kereskedelmi szerződéses partnereitől pénzügyi biztosítékot kérni. Egyetemes szolgáltatásra jogosult felhasználótól pénzügyi biztosíték nem kérhető, kivéve a GET 31/C. § (4)–(5) bekezdésében meghatározott esetet. A pénzügyi biztosítékra vonatkozó részletes rendelkezéseket, ha azokat a földgázkereskedő alkalmazni kívánja, az üzletszabályzatában előre közzéteszi.
 
-[^274]: A Vhr. 86. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^275]: A Vhr. 86. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

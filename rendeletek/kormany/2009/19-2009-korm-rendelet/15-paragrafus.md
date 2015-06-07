@@ -1,4 +1,4 @@
-15. §[^79] (1) A telephelyi szolgáltató köteles a telephelyi felhasználóval, illetve képviseletében eljáró földgázkereskedővel a telephelyi vezetékre csatlakozási és vezetékes szolgáltatási szerződést kötni.
+15. §[^80] (1) A telephelyi szolgáltató köteles a telephelyi felhasználóval, illetve képviseletében eljáró földgázkereskedővel a telephelyi vezetékre csatlakozási és vezetékes szolgáltatási szerződést kötni.
 
 (2) A telephelyi felhasználóval kötött csatlakozási és vezetékes szolgáltatási szerződésnek legalább a következőket tartalmaznia kell:
 
@@ -40,4 +40,4 @@ n) a szerződésszegés eseteit és jogkövetkezményeit, különösen a szabál
 
 (7) Ha a felek bármelyike a földgáz értékesítési szerződést felmondja, a telephelyi szolgáltató – függetlenül a földgáz értékesítési szerződés megszűnésének időpontjától – mindaddig köteles a vezetékes szolgáltatást biztosítani, amíg a telephelyi felhasználó az ellátását más módon nem biztosítja.
 
-[^79]: A Vhr. 15. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^80]: A Vhr. 15. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

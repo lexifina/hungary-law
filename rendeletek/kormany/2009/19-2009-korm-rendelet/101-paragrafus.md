@@ -1,6 +1,6 @@
 ## Rendszerüzemeltetők együttműködése
 
-101. §[^319] Az együttműködő földgázrendszer minden, a tevékenységükkel érintett betáplálási-kiadási pontjára, valamint összekapcsolási pontjára vonatkozóan
+101. §[^320] Az együttműködő földgázrendszer minden, a tevékenységükkel érintett betáplálási-kiadási pontjára, valamint összekapcsolási pontjára vonatkozóan
 
 a) a szállítási rendszerüzemeltetőnek a földgázelosztóval,
 
@@ -18,4 +18,4 @@ g) a telephelyi engedélyesnek a szállítási rendszerüzemeltetővel vagy a f�
 
 megkötött együttműködési megállapodással kell rendelkeznie az ÜKSZ-ben meghatározott tevékenységekre, így különösen az érintett pont közös használatára, kapcsolódási pontok technikai- és szabad kapacitásainak meghatározására, a kötelezettségek és felelősségek rögzítésére, adatszolgáltatásra, az elszámolások és a vitás kérdések rendezésére.
 
-[^319]: A Vhr. 101. §-a a 91/2015. (IV. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^320]: A Vhr. 101. §-a a 91/2015. (IV. 9.) Korm. rendelet 15. §-ával megállapított szöveg.

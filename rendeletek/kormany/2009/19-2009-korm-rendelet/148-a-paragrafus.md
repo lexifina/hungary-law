@@ -1,6 +1,6 @@
-## (A GET 126–127. §-ához)[^455]
+## (A GET 126–127. §-ához)[^463]
 
-148/A. §[^456] A Kormány a GET hatálya alá tartozó szolgáltatási tevékenységek tekintetében – ide nem értve a gázszerelői, gázkészülék-javítói, illetve a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazási, valamint turista használatú palackba történő PB-gáz átfejtési tevékenységet – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a Hivatalt jelöli ki.
+148/A. §[^464] A Kormány a GET hatálya alá tartozó szolgáltatási tevékenységek tekintetében – ide nem értve a gázszerelői, gázkészülék-javítói, illetve a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazási, valamint turista használatú palackba történő PB-gáz átfejtési tevékenységet – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a Hivatalt jelöli ki.
 
-[^455]: A Vhr. 148/A. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 667. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^456]: A Vhr. 148/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 667. § (7) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^463]: A Vhr. 148/A. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 667. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^464]: A Vhr. 148/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 667. § (7) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

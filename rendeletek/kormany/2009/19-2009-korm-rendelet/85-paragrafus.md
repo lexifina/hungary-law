@@ -1,4 +1,4 @@
-85. §[^273] (1) A rendszerüzemeltető rendszerhasználati szerződésekben foglalt ügyletek biztosítása érdekében jogosult a rendszerhasználóktól előzetesen szerződéses biztosítékot kérni. A szerződéses biztosítékra vonatkozó részletes rendelkezéseket – különösen a különböző biztosítékok közötti választás szabályait, a biztosíték igénybevételeinek eseteit, feltételeit, elszámolását – a rendszerüzemeltető az üzletszabályzatában köteles kidolgozni, és köteles azokat előre nyilvánossá tenni. Szerződéses biztosítékként a földgáztároló a betárolt mobil földgázkészletet is elfogadhatja.
+85. §[^274] (1) A rendszerüzemeltető rendszerhasználati szerződésekben foglalt ügyletek biztosítása érdekében jogosult a rendszerhasználóktól előzetesen szerződéses biztosítékot kérni. A szerződéses biztosítékra vonatkozó részletes rendelkezéseket – különösen a különböző biztosítékok közötti választás szabályait, a biztosíték igénybevételeinek eseteit, feltételeit, elszámolását – a rendszerüzemeltető az üzletszabályzatában köteles kidolgozni, és köteles azokat előre nyilvánossá tenni. Szerződéses biztosítékként a földgáztároló a betárolt mobil földgázkészletet is elfogadhatja.
 
 (2) A rendszerüzemeltető szerződéses biztosítékként az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban letelepedett pénzintézet által nyújtott, az (1) bekezdés szerinti biztosítékot köteles elfogadni.
 
@@ -8,4 +8,4 @@
 
 (5) Ha a rendszerüzemeltető az (1) bekezdés szerint az üzletszabályzatában vevőminősítési rendszert alkalmaz, annak alapján a rendszerhasználó a biztosítéknyújtási kötelezettség alól mentesülhet.
 
-[^273]: A Vhr. 85. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^274]: A Vhr. 85. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
