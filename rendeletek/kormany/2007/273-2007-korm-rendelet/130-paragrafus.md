@@ -1,18 +1,20 @@
-## Az Európai Unió jogának való megfelelés[^368]
+## Az Európai Unió jogának való megfelelés[^372]
 
-130. §[^369] (1) E rendelet
+130. §[^373] (1) E rendelet
 
 a) a villamos energia belső piacára vonatkozó közös szabályokról és a 2003/54/EK irányelv hatályon kívül helyezéséről szóló, 2009. július 13-i 2009/72/EK európai parlamenti és tanácsi irányelvnek,
 
 b) a villamosenergia-ellátás biztonságát és az infrastrukturális beruházások védelmét célzó intézkedésekről szóló, 2006. január 18-i 2005/89/EK európai parlamenti és a tanácsi irányelvnek,
 
-c) 1. § 17–21. pontja, 14/A. §-a, 21/A. §-a és 23/A. §-a az energia-végfelhasználás hatékonyságáról és az energetikai szolgáltatásokról, valamint a 93/76/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2006. április 5-i 2006/32/EK európai parlamenti és tanácsi irányelv 3. cikk b), e), g), h) és l) pontjának, 6. cikk (2)–(3) bekezdésének, valamint 13. cikk (1)–(3) bekezdésének,
+c)[^374] 14. § (5) és (9) bekezdése, 21/A. § (1)–(4) és (7) bekezdése, 23/A. § (6) és (7) bekezdése, 27/B. §-a, 28. § (5) bekezdése az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint
+
+a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9-11. cikkének, valamint VII. mellékletének,
 
 d) 24. számú melléklet VI. alcíme az ipari végfelhasználók által fizetendő gáz- és villamosenergia-árak átláthatóságának javítását célzó közösségi eljárásról szóló, 2008. október 22-i 2008/92/EK európai parlamenti és tanácsi irányelv 1–3. cikkének, I. és II. mellékletének,
 
 e) 24. számú melléklet III. alcíme a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 4. cikk (2)–(4) bekezdésének, 5. cikk (2) bekezdésének, 6–8. cikkének, 9. cikk (4) bekezdésének, 10. cikk (1)–(2) bekezdésének, 11. cikk (1) bekezdésének, 19. cikk (2) bekezdésének, 22. cikkének és 27. cikk (2) bekezdésének,
 
-f)[^370]
+f)[^375]
 
 g) 24. számú melléklet VII. alcíme a Tanács 77/706/EGK határozatának végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 1979. június 15-i 79/639/EGK európai bizottsági határozat 10. cikk (1)–(2) bekezdésének és 11. cikkének,
 
@@ -38,9 +40,10 @@ c) 24. számú melléklet X. alcíme a kőolaj importja és szállítása közö
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(3)[^371] Ez a rendelet a tagállamok és harmadik országok között kötött kormányközi energiaügyi megállapodásokra vonatkozó információcsere-mechanizmus létrehozásáról szóló, 2012. október 25-i 994/2012/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
+(3)[^376] Ez a rendelet a tagállamok és harmadik országok között kötött kormányközi energiaügyi megállapodásokra vonatkozó információcsere-mechanizmus létrehozásáról szóló, 2012. október 25-i 994/2012/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^368]: A Vhr. 130. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^369]: A Vhr. 130. §-a a 100/2011. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^370]: A Vhr. 130. § (1) bekezdés f) pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
-[^371]: A Vhr. 130. § (3) bekezdését a 344/2013. (IX. 27.) Korm. rendelet 4. §-a iktatta be.
+[^372]: A Vhr. 130. §-át megelőző alcím a 100/2011. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^373]: A Vhr. 130. §-a a 100/2011. (VI. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^374]: A Vhr. 130. § (1) bekezdés c) pontja a 123/2015. (V. 26.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^375]: A Vhr. 130. § (1) bekezdés f) pontját a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
+[^376]: A Vhr. 130. § (3) bekezdését a 344/2013. (IX. 27.) Korm. rendelet 4. §-a iktatta be.

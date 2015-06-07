@@ -38,9 +38,9 @@
 
 16a.[^14] végszámla: a felhasználó részére a hálózathasználati vagy a villamosenergia-vásárlási szerződés megszűnését követően kiállított, az adott időszak alatti mérőállás szerinti fogyasztáson és a zónaidőkhöz rendelt tarifák szorzatán alapuló számla;
 
-17.[^15] energetikai szolgáltatás: olyan szerződés alapján nyújtott tevékenység vagy eljárás, amely egy épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás tekintetében az energiahatékonyság igazolható, mérhető vagy felbecsülhető javulásához vagy elsődleges energia-megtakarításokhoz vezet, beleértve a szolgáltatás nyújtásához szükséges üzemeltetést, karbantartást és ellenőrzést;
+17.[^15]
 
-18.[^16] energiaaudit: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit;
+18.[^16] energetikai auditálás: olyan eljárás, amelynek révén megfelelő ismereteket gyűjtenek valamely épület vagy épületcsoport, ipari művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energia-megtakarítási lehetőségeket, és rögzíti azok eredményeit;
 
 19.[^17] energiahatékonyság: az energia kihozatal és a bevitt energia hányadosa;
 
@@ -64,8 +64,8 @@
 [^12]: A Vhr. 1. § (1) bekezdés 14. pontja a 100/2011. (VI. 29.) Korm. rendelet 24. § (1) bekezdése szerint módosított szöveg.
 [^13]: A Vhr. 1. § (1) bekezdés 14a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
 [^14]: A Vhr. 1. § (1) bekezdés 16a. pontját a 100/2011. (VI. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^15]: A Vhr. 1. § (1) bekezdés 17. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^16]: A Vhr. 1. § (1) bekezdés 18. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^15]: A Vhr. 1. § (1) bekezdés 17. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 123/2015. (V. 26.) Korm. rendelet 18. § (1) bekezdése.
+[^16]: A Vhr. 1. § (1) bekezdés 18. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 123/2015. (V. 26.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^17]: A Vhr. 1. § (1) bekezdés 19. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^18]: A Vhr. 1. § (1) bekezdés 20. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^19]: A Vhr. 1. § (1) bekezdés 21. pontját a 64/2009. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.

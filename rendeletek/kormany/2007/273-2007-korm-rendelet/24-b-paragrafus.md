@@ -1,3 +1,3 @@
-24/B. §[^106] A VET 47. § (7b) bekezdése esetén a VET 47. § (7) bekezdés c) pontja szerinti értesítésnek tartalmaznia kell a polgári peres vagy fizetési meghagyásos eljárás megindításának lehetőségéről szóló tájékoztatást.
+24/B. §[^108] A VET 47. § (7b) bekezdése esetén a VET 47. § (7) bekezdés c) pontja szerinti értesítésnek tartalmaznia kell a polgári peres vagy fizetési meghagyásos eljárás megindításának lehetőségéről szóló tájékoztatást.
 
-[^106]: A Vhr. 24/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 4. §-a iktatta be.
+[^108]: A Vhr. 24/B. §-át a 119/2013. (IV. 23.) Korm. rendelet 4. §-a iktatta be.

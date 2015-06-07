@@ -1,10 +1,10 @@
 ## (A VET 85. §-ához)
 
-## Magánvezeték engedélyezése[^245]
+## Magánvezeték engedélyezése[^248]
 
-74. §[^246] (1) A VET 74. § (1) bekezdés h) pontja szerinti engedély iránti kérelmet a felhasználó nyújthatja be.
+74. §[^249] (1) A VET 74. § (1) bekezdés h) pontja szerinti engedély iránti kérelmet a felhasználó nyújthatja be.
 
 (2) Az engedély iránti kérelemhez mellékelni kell a 13. számú mellékletben előírtakat.
 
-[^245]: A Vhr. 74. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^246]: A Vhr. 74. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^248]: A Vhr. 74. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^249]: A Vhr. 74. §-a a 378/2011. (XII. 31.) Korm. rendelet 21. §-ával megállapított szöveg.

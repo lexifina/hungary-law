@@ -18,7 +18,10 @@
 
 (8) A távlehívható fogyasztásmérő távleolvasását lehetővé tevő adatátviteli kapcsolat felhasználási helyen belül történő kiépítésének költsége és az adatátviteli kapcsolat folyamatos biztosításának kötelezettsége és azok költségei, beleértve az előfizetési díjat is, a felhasználót terhelik.
 
+(9)[^60] A hálózati engedélyes – ha az épületen az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti jelentős felújítást végeznek, és a felhasználó nem rendelkezik fogyasztásmérő-berendezéssel – a felújítást követően köteles gondoskodni fogyasztásmérő-berendezés felszereléséről.
+
 [^56]: A Vhr. 14. § (1) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
 [^57]: A Vhr. 14. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^58]: A Vhr. 14. § (3) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
 [^59]: A Vhr. 14. § (4) bekezdése a 378/2011. (XII. 31) Korm. rendelet 32. § (1) bekezdése szerint módosított szöveg.
+[^60]: A Vhr. 14. § (9) bekezdését a 123/2015. (V. 26.) Korm. rendelet 9. §-a iktatta be.

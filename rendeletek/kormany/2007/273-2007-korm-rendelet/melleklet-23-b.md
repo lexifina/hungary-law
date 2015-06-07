@@ -188,7 +188,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^446]
+23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^452]
 
 Kérelem fogyatékkal élő személyként a védendő fogyasztók nyilvántartásába történő
 
@@ -228,78 +228,4 @@ c) anyja neve:
 
 d) születési helye és ideje:
 
-e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
-
-f) tartózkodási helye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
-
-Az alábbi igazolások alapján kérem az elosztó
-
-a) nyilvántartásába fogyatékkal élő (védendő) fogyasztóként történő felvételem,
-
-b) nyilvántartásában fogyatékkal élő (védendő) fogyasztóként történő nyilvántartásom meghosszabbítását.
-
-Nyilatkozom, hogy a fogyasztóként megjelölt személy háztartásában
-
-a) van,
-
-b) nincs
-
-olyan személy, aki nem minősül fogyatékkal élőnek.
-
-Kelt:
-
-......................................................................
-
-fogyasztó / eltartó aláírása
-
-B) AZ IGAZGATÁSI SZERV TÖLTI KI
-
-Eljáró igazgatási szerv megnevezése:
-
-Székhelye:
-
-A(z) ........... számú határozat alapján igazolom, hogy
-
-a) (név):
-
-(születési név):
-
-(anyja neve):
-
-(születési helye és ideje):
-
-(lakóhelye):
-
-(tartózkodási helye):
-
-fogyasztó
-
-b) a fenti fogyasztóval egy háztartásban lakó
-
-(név):
-
-(születési név):
-
-(anyja neve):
-
-(születési helye és ideje):
-
-(lakóhelye):
-
-(tartózkodási helye):
-
-személy
-
-(i) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesül,
-
-(ii) a vakok személyi járadékában részesül.
-
-Ugyanazon fogyasztónak egyidejűleg csak egy felhasználási hely tekintetében adható ki igazolás!
-
-Kelt:
-
-P. H.
-
-............................................................
-
-[^446]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. §-a, a 24/2015. (II. 20.) Korm. rendelet 32. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 107. § (2) bekezdése szerint módosított szöveg.
+[^452]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. §-a, a 24/2015. (II. 20.) Korm. rendelet 32. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 107. § (2) bekezdése szerint módosított szöveg.

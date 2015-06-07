@@ -52,15 +52,15 @@ A kiserőművi összevont engedély iránti kérelemhez benyújtandó dokumentum
 
 4. Az erőmű élettartamának időtartamára szóló független szaktanácsadó által ellenőrzött üzleti terv,
 
-5.[^384] A létesítés kezdetének várható időpontja és a kivitelezés tervezett határideje.
+5.[^390] A létesítés kezdetének várható időpontja és a kivitelezés tervezett határideje.
 
 6. Az üzembe helyezés várható időpontja,
 
 7. Kereskedelmi üzem kezdetének tervezett időpontja,
 
-8.[^385] A tevékenység gyakorlásához szükséges, a kérelmező nevére szóló jogerős környezetvédelmi és építési engedély másolata vagy a környezetvédelmi hatóság nyilatkozata arról, hogy környezetvédelmi engedély nem szükséges.
+8.[^391] A tevékenység gyakorlásához szükséges, a kérelmező nevére szóló jogerős környezetvédelmi és építési engedély másolata vagy a környezetvédelmi hatóság nyilatkozata arról, hogy környezetvédelmi engedély nem szükséges.
 
-9.[^386] Műszaki adatok:
+9.[^392] Műszaki adatok:
 
 9.1. Egyvonalas villamos kapcsolási rajz,
 
@@ -78,6 +78,6 @@ A kiserőművi összevont engedély iránti kérelemhez benyújtandó dokumentum
 
 9.8. a légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3).
 
-[^384]: A Vhr. 4. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^385]: A Vhr. 4. számú melléklet 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^386]: A Vhr. 4. számú melléklet 9. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^390]: A Vhr. 4. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^391]: A Vhr. 4. számú melléklet 8. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^392]: A Vhr. 4. számú melléklet 9. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.

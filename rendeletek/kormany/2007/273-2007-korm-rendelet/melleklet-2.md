@@ -42,7 +42,7 @@
 
 ## 4.1. A villamos energia árváltozása esetén, amennyiben az árváltozás időpontjára a fogyasztásmérő-berendezés leolvasása vagy adatrögzítés nem történik, az egyetemes szolgáltatásért fizetendő árat az egyetemes szolgáltató kezdeményezésére történt felhasználói adatközlés, vagy ennek hiányában a felhasználás időarányos megosztásával kell megállapítani és számlázni.
 
-## 4.2. Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani.
+## 4.2.[^378] Ha az elszámolási időszak időtartama az egy hónapot meghaladja – a felek eltérő megállapodásának hiányában – az egyetemes szolgáltató az elszámolási időszak hónapjainak számánál eggyel kevesebb számú részszámlát jogosult kibocsátani azzal, hogy egyes részszámlák a Hivatal előzetes jóváhagyásával megállapított összeghatárig összevonhatók.
 
 ## 4.3. Az egyetemes szolgáltató az elszámolási időszak utolsó napjára köteles elszámoló számlát, a villamosenergia-vásárlási szerződés – és amennyiben a hálózathasználati szerződést megbízottként kezeli, a hálózathasználati szerződés – megszűnése esetén a szerződés megszűnésének napjára végszámlát kibocsátani, és a felhasználóval az elszámolási időszakra vonatkozóan teljes körűen elszámolni, amely magában foglalja a tételes pénzügyi elszámolást is.
 
@@ -57,8 +57,6 @@
 ## 4.6. Ha az egyetemes szolgáltató és a felhasználó a villamosenergia-vásárlási szerződésben fizetési határidőben nem állapodtak meg, a felhasználó köteles a számlában feltüntetett összeget a számlán feltüntetett fizetési határidő napjáig kifizetni.
 
 ## 4.7. Az egyetemes szolgáltató köteles a számla felhasználó részére történő eljuttatásáról oly módon gondoskodni, hogy a számla kiegyenlítésére a felhasználónak vagy a fizetőnek a kézhezvételtől legalább 8 nap rendelkezésére álljon.
-
-## 4.8. Az egyetemes szolgáltató a felhasználó kérésére a részszámlát, valamint az elszámoló számlát elektronikus úton bocsátja ki.
 
 ## 5. Kifogás a számla ellen
 
@@ -96,6 +94,7 @@
 
 ## b) az egyetemes szolgáltató üzletszabályzatában vagy a villamosenergia-vásárlási szerződésben foglalt kötelezettségeit egyéb módon megszegi.
 
-2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^373]
+2. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^379]
 
-[^373]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^378]: A Vhr. 1. számú melléklet 4.2. pontja a 123/2015. (V. 26.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^379]: A Vhr. 2. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.

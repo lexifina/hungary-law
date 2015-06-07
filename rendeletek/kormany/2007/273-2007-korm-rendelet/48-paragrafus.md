@@ -6,8 +6,8 @@
 
 (3) A villamosenergia-ellátási szabályzatok módosításának, felülvizsgálatának rendjét, valamint a szabályzati bizottságok működésének és összetételének részletes szabályait e rendelet keretei között a vonatkozó villamosenergia-ellátási szabályzat tartalmazza.
 
-(4)[^199] Az átviteli rendszerirányító, illetve az elosztók kötelesek az eredményes egyeztetési eljáráshoz szükséges minden információt és dokumentumot megfelelő, az érdemi állásfoglalás kialakítását lehetővé tevő időben a szabályzati bizottságok tagjainak rendelkezésére bocsátani, a szabályzati bizottságokkal együttműködni, tagjaikkal igény szerint konzultálni.
+(4)[^202] Az átviteli rendszerirányító, illetve az elosztók kötelesek az eredményes egyeztetési eljáráshoz szükséges minden információt és dokumentumot megfelelő, az érdemi állásfoglalás kialakítását lehetővé tevő időben a szabályzati bizottságok tagjainak rendelkezésére bocsátani, a szabályzati bizottságokkal együttműködni, tagjaikkal igény szerint konzultálni.
 
 (5) Az engedélyesek és rendszerhasználók közötti – a villamosenergia-rendszer zavartalan üzemeltetéséhez szükséges – külön jogszabályban meghatározott adatszolgáltatások részletes tartalma a villamosenergia-ellátási szabályzatokban kerül meghatározásra.
 
-[^199]: A Vhr. 48. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 32. § (3) bekezdése szerint módosított szöveg.
+[^202]: A Vhr. 48. § (4) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 32. § (3) bekezdése szerint módosított szöveg.
