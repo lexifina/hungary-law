@@ -1,0 +1,1 @@
+## 4. § Az üzemben tartó köteles a lakások, nem lakás céljára szolgáló helyiségek rendeltetésszerű használatához – nem közüzemi szolgáltatásként – a fogyasztók részére a fűtést és/vagy melegvíz-szolgáltatást biztosítani.

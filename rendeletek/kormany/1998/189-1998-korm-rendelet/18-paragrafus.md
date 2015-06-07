@@ -8,6 +8,6 @@
 
 (5) A kizárólag fűtési célt szolgáló központi hőellátó rendszer útján nyújtott szolgáltatás esetén az egységnyi fűtési díj alapja a tényleges üzemeltetési költség és az összes fűtött légtérfogat köbméterének vagy az összes fűtőfelület négyzetméterének hányadosa. Az egy lakásra jutó fűtési díj mértéke az egységnyi fűtési díj és a lakás fűtött légtérfogatának vagy fűtőfelületének szorzata.
 
-(6)[^2] Az állam tulajdonában és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő épületek lakásainak és nem lakás céljára szolgáló helyiségeinek fűtési díját a légköbméterben kifejezhető fűthető légtérfogat alapján kell kiszámítani.
+(6)[^3] Az állam tulajdonában és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő épületek lakásainak és nem lakás céljára szolgáló helyiségeinek fűtési díját a légköbméterben kifejezhető fűthető légtérfogat alapján kell kiszámítani.
 
-[^2]: A 18. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 188. § b) és c) pontja szerint módosított szöveg.
+[^3]: A 18. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 188. § b) és c) pontja szerint módosított szöveg.
