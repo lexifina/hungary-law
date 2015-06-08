@@ -58,7 +58,7 @@ f) a fluortartalmú üvegházhatású gázokra vonatkozó adatbázis F-Gáz ügy
 
 g) az üvegházhatású gázokkal kapcsolatos tevékenységeket végző természetes személyek képzésére, képesítésére és vizsgáztatására, a vonatkozó tananyagra, szakmai és vizsgakövetelményekre, a szerzett tudás elismerésére, a vizsgáztatás és képesítés rendjére, a vállalkozások képesítési rendszerére, a képesítések nyilvántartására, az igazolás kiadására, az ahhoz fűződő formai és tartalmi követelmények meghatározásának rendjére vonatkozó részletes szabályokat;
 
-h) a 10/B. § (2) bekezdése szerinti képzési, képesítési és vizsgáztatási díj mértékét és megfizetésének részletes szabályait.
+h) a 10/B. § (3) bekezdése szerinti képzési, képesítési és vizsgáztatási díj mértékét és megfizetésének részletes szabályait.
 
 (7) Felhatalmazást kap a miniszter, hogy az együttes végrehajtási hitelesítői névjegyzékbe és a külföldi együttes végrehajtási hitelesítői névjegyzékbe történő bejegyzésért, továbbá a hitelesítői jogosultság felfüggesztésének megszüntetéséért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
