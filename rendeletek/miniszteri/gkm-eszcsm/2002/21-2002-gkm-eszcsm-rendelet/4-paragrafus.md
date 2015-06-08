@@ -8,7 +8,7 @@ c) a hajózási szolgálat ellátására vonatkozó első munkaviszony – vagy 
 
 d) hajózási oktatási intézménybe való felvétel előtt.
 
-(2)[^2] A kedvtelési célú vízijármű-vezetők egészségi alkalmasságát:
+(2)[^5] A kedvtelési célú vízijármű-vezetők egészségi alkalmasságát:
 
 a) a vízijármű vezetésére jogosító képesítő okmány (a továbbiakban: képesítés) kiadása előtt,
 
@@ -52,7 +52,7 @@ b) hatvanadik életévének betöltése után évenként
 
 (9) A hajózási hatóság, a hajózási szolgálatot teljesítő, illetve a kedvtelési célú vízijárművet vezető személyt a hajózás biztonságát veszélyeztető egészségi állapot észlelésének esetében határidő tűzésével soron kívüli vizsgálatra hívhatja fel, és az alkalmasság újbóli megállapításáig a hajózási szolgálat ellátásától, illetve a kedvtelési célú vízijármű vezetésétől – a szolgálati könyvbe való bejegyzéssel, illetve a kedvtelési célú vízijárművezetői bizonyítvány bevonásával – ideiglenesen eltilthatja.
 
-(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^3] előírt orvosi vizsgálat alól.
+(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^6] előírt orvosi vizsgálat alól.
 
-[^2]: A 4. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 11. §-ával megállapított szöveg.
-[^3]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.
+[^5]: A 4. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 11. §-ával megállapított szöveg.
+[^6]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.

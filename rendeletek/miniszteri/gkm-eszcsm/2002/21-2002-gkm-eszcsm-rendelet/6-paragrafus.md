@@ -2,21 +2,27 @@
 
 6. § (1) A vizsgálatot
 
-a) a belvízi hajózási szolgálatot teljesítő személy és a szakképzésről szóló 1993. évi LXXVI. törvény 2. §-a (1) bekezdésének a), b) és c) pontjában meghatározott intézmények kivételével a hajózási oktatási intézmény hallgatója tekintetében a foglalkozás-egészségügyi alapszolgáltatás nyújtására jogosult orvos,
+a)[^7] a belvízi hajózási szolgálatot teljesítő személy és a szakképzésről szóló 2011. évi CLXXXVII. törvény 4. § (1) bekezdés a) és b) pontjában meghatározott intézmények, valamint a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény hallgatója tekintetében a hajózási hatóság által nyilvántartásba vett hajós-orvosi vizsgálatokra jogosult orvos (a továbbiakban: hajós-orvosi vizsgálatokra jogosult orvos),
 
-b) a szakképzésről szóló 1993. évi LXXVI. törvény 2. §-a (1) bekezdésének a), b) és c) pontjában meghatározott oktatási intézmény hallgatója tekintetében a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló jogszabályban meghatározott orvos[^4],
+b)[^8]
 
 c) a belvízi kedvtelési célú vízijármű vezetője tekintetében a gépjármű-vezetői egészségi alkalmasság vizsgálatára jogosult orvos,
 
-d) a tengeri hajózási szolgálatot teljesítő személy és az I. és II. osztályú tengeri kedvtelési célú vízijármű-vezetők tekintetében – az 5. § (3) bekezdésében említett vizsgálatot kivéve – az Országos Közegészségügyi Központ (a továbbiakban: OKK) keretében működő Repülési, Hajózási és Tengerészeti Egészségügyi Központ (a továbbiakban: Központ) orvosa,
+d)[^9] a tengeri hajózási szolgálatot teljesítő személy, valamint az I. és II. osztályú tengeri kedvtelési célú vízijármű-vezetők tekintetében – a hajózási hatóság által nyilvántartásba vett tengerész-orvosi vizsgálatokra jogosult orvos (a továbbiakban: tengerész-orvosi vizsgálatokra jogosult orvos),
 
-e) a III. és IV. osztályú tengeri kedvtelési célú vízijármű-vezetők tekintetében az első vizsgálatot a Központ orvosa, az időszakos vizsgálatokat a Központ vagy a gépjármű-vezetői egészségi alkalmasság vizsgálatára jogosult orvos
+e)[^10] a III. és IV. osztályú tengeri kedvtelési célú vízijármű-vezetők tekintetében első alkalommal a tengerész-orvosi vizsgálatokra jogosult orvos, az időszakos vizsgálatokat a tengerész-orvosi vizsgálatokra jogosult orvos vagy a gépjármű-vezetői egészségi alkalmasság vizsgálatára jogosult orvos
 
 ## végzi.
 
 (2) Külföldön a tengeri hajózási szolgálatot teljesítő személy, illetve a tengeri kedvtelési célú kishajó vezetőjének időszakos vizsgálatát – rendkívül indokolt esetben – az adott országban ilyen vizsgálat végzésére jogosult egészségügyi intézmény orvosa is elvégezheti. A belvízi hajózási szolgálatot ellátó személy alkalmasságának vizsgálatát külföldön – rendkívül indokolt esetben – az adott víziútszakaszon illetékes hatóság által a hajózási egészségi alkalmasság vizsgálatára feljogosított orvos is elvégezheti.
 
-(3)[^5] A foglalkozás-egészségügyi alapszolgáltatás nyújtására jogosult orvosok névjegyzékét és elérhetőségét – az Országos Közegészségügyi Központ adatai alapján – a hajózási hatóság a honlapján teszi közzé.
+(3)[^11]
 
-[^4]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 11. §-ának (2) bekezdését.
-[^5]: A 6. § (3) bekezdése a 94/2011. (XII. 30.) NFM rendelet 12. §-ával megállapított szöveg.
+(4)[^12] Tengeri hajózási szolgálatot teljesítő személy egészségi alkalmasságának vizsgálatát csak az a tengerész-orvosi vizsgálatokra jogosult orvos végezheti, aki nem áll munkaviszonyban vagy foglalkoztatásra irányuló egyéb jogviszonyban a vizsgált személyt foglalkoztató úszólétesítmény-tulajdonossal vagy üzembentartóval.
+
+[^7]: A 6. § (1) bekezdés a) pontja a 23/2015. (V. 8.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (1) bekezdés b) pontját a 23/2015. (V. 8.) NFM rendelet 18. § b) pontja hatályon kívül helyezte.
+[^9]: A 6. § (1) bekezdés d) pontja a 23/2015. (V. 8.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. § (1) bekezdés e) pontja a 23/2015. (V. 8.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^11]: A 6. § (3) bekezdését a 23/2015. (V. 8.) NFM rendelet 18. § c) pontja hatályon kívül helyezte.
+[^12]: A 6. § (4) bekezdését a 23/2015. (V. 8.) NFM rendelet 11. § (3) bekezdése iktatta be.

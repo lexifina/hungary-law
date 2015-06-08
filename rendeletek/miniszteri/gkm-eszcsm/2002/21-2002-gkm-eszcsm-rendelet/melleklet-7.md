@@ -2,39 +2,47 @@
 
 ## 1. Személyi adatok
 
-## Név:
+## Név: ...........................................................................................................................................
 
-| Születési idő (év/hó/nap): | Nem: |  | férfi |  | nő |
+## Születési idő (év/hó/nap): ................................................................... Neme: _ férfi _nő
 
-## Születési hely:
+## Születési hely: ..............................................................................................................................
 
-## Anyja neve:
+## Anyja neve: .................................................................................................................................
 
-## Beosztás/foglalkozás: Állampolgárság: ...........................................................................
+## Beosztás/foglalkozás: .................................................. Állampolgárság: .......................................
 
-## Lakcím:
+## Lakcím: .......................................................................................................................................
 
-## Szolgálati könyv száma:
+## Szolgálati könyv száma: ................................................................................................................
 
 ## A hajó típusa: személyszállító, teherszállító
 
-## 2. A munkaköri alkalmasság vizsgálata:[^*]
+## 2. A munkaköri alkalmasság vizsgálata:[^33]
 
-|  | előzetes |  | időszakos |  | soron kívüli |  | záró |
+## _ előzetes _ időszakos _ soron kívüli _ záró
 
 ## A látás vizsgálata
 
-| Látásélesség |  |  | Látótér |  |
+## Látásélesség
 
-|  | Látásjavító eszköz nélkül | Látásjavító eszközzel |  |  | Teljes | Beszűkült |
+|  | Látásjavító eszköz nélkül | Látásjavító eszközzel |
 
-|  | Jobb szem | Bal szem | Mindkét szem | Jobb szem | Bal szem | Mindkét szem |  |  |
+|  | Jobb szem | Bal szem | Mindkét szem | Jobb szem | Bal szem | Mindkét szem |
 
-| Távol |  |  |  |  |  |  |  | Jobb szem |  |  |
+| Távol |  |  |  |  |  |  |
 
-| Közel |  |  |  |  |  |  |  | Bal szem |  |  |
+| Közel |  |  |  |  |  |  |
 
-| Színlátás |  | normális |  | téveszt |
+## Látótér
+
+|  | Teljes | Beszűkült |
+
+| Jobb szem |  |  |
+
+| Bal szem |  |  |
+
+| Színlátás | _ normális | _ téveszt |
 
 ## A hallás vizsgálata
 
@@ -48,105 +56,101 @@
 
 ## Részletes vizsgálat
 
-| Magasság: ................................ (cm) | Testsúly: ............................ (kg) |  |
+| Magasság: .................................. (cm) | Testsúly: ....................................... (kg) |  |
 
-| Pulzusszám: .......... /min | Szívritmus: ................................. |  |
+| Pulzusszám: .............................../min | Szívritmus: ........................................... |  |
 
-| Vérnyomás: ...................................... | Szisztolés: ...................... Hgmm | Diasztolés: ................ Hgmm |
+| Vérnyomás: ....................................... | Szisztolés: ................................ Hgmm | Diasztolés: ................................. Hgmm |
 
-## Laboratóriumi vizsgálat
+| Laboratóriumi vizsgálat |  |  |
 
-| Vizeletben | Cukor: .............................. | Protein ........... ................... |
+| Vizeletben | Cukor: .................................................. | Protein ................................................... |
 
 |  | Normális | Rendellenes |  | Normális | Rendellenes |
 
-| Fej |  |  |  |  |  |  | Visszerek |  |  |  |  |  |  |
+| Fej | _ | _ | Visszerek | _ | _ |
 
-| Arcüregek, orr, gége |  |  |  |  |  |  | Erek |  |  |  |  |  |  |
+| Arcüregek, orr, gége | _ | _ | Erek | _ | _ |
 
-| Száj, íny |  |  |  |  |  |  | Hasüreg és zsigerek |  |  |  |  |  |  |
+| Száj, íny | _ | _ | Hasüreg és zsigerek | _ | _ |
 
-| Fülek (ált.) |  |  |  |  |  |  | Sérv |  |  |  |  |  |  |
+| Fülek (ált.) | _ | _ | Sérv | _ | _ |
 
-| Dobhártya |  |  |  |  |  |  | Végbélnyílás |  |  |  |  |  |  |
+| Dobhártya | _ | _ | Végbélnyílás | _ | _ |
 
-| Szemek |  |  |  |  |  |  | Húgy- és ivarszervi rendszer |  |  |  |  |  |  |
+| Szemek | _ | _ | Húgy- és ivarszervi rendszer | _ | _ |
 
-| Szemfenéki kép |  |  |  |  |  |  | Alsó és felső végtagok |  |  |  |  |  |  |
+| Szemfenéki kép | _ | _ | Alsó és felső végtagok | _ | _ |
 
-| Pupilla |  |  |  |  |  |  | Gerincoszlop |  |  |  |  |  |  |
+| Pupilla | _ | _ | Gerincoszlop | _ | _ |
 
-| Szemmozgások |  |  |  |  |  |  | Idegvizsgálat |  |  |  |  |  |  |
+| Szemmozgások | _ | _ | Idegvizsgálat | _ | _ |
 
-| Tüdők és mellkas |  |  |  |  |  |  | Pszichiátriai vizsgálat |  |  |  |  |  |  |
+| Tüdők és mellkas | _ | _ | Pszichiátriai vizsgálat | _ | _ |
 
-| Mellvizsgálat |  |  |  |  |  |  | Külső megjelenés |  |  |  |  |  |  |
+| Mellvizsgálat | _ | _ | Külső megjelenés | _ | _ |
 
-| Szív |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Szív | _ | _ |  |  |  |
 
-| Bőr |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Bőr | _ | _ |  |  |  |
 
-## Mellkasröntgen vizsgálat időpontja (év/hó/nap) -án
+## Mellkasröntgen vizsgálat időpontja (év/hó/nap) ..........................................................................-án
 
-## Eredménye:
+## Eredménye: ...................................................................................................................................
 
 ## Egyéb diagnosztikai vizsgálat(ok) és eredménye(i):
 
-## ............................................................. vizsgálat eredménye:
+## .............................................. vizsgálat eredménye: .......................................................................
 
-## ............................................................. vizsgálat eredménye:
+## .............................................. vizsgálat eredménye: .......................................................................
 
-## ............................................................. vizsgálat eredménye:
+## .............................................. vizsgálat eredménye: .......................................................................
 
-## ............................................................. vizsgálat eredménye:
+## .............................................. vizsgálat eredménye: .......................................................................
 
-| A vizsgáló orvos megjegyzései |
+| A vizsgáló orvos megjegyzései: |
 
-| Oltási állapot feljegyezve: |  | igen |  | nem |
+| Oltási állapot feljegyezve: | _ igen | _ nem |
 
 ## 3. A munkaköri alkalmasság minősítése
 
-## A ........................................................................................ nevű vizsgált személy nyilatkozata, klinikai vizsgálataim és a fenti diagnosztikai vizsgálati eredmények alapján nevezett munkavállaló
+## A ................................................................................. nevű vizsgált személy nyilatkozata, klinikai vizsgálataim és a fenti diagnosztikai vizsgálati eredmények alapján nevezett munkavállaló
 
 |  | Fedélzeti szolgálatra | Gépszolgálatra | Segédszolgálatra |
 
-| Alkalmas |  |  |  |  |  |  |  |  |  |
+| Alkalmas | _ | _ | _ |
 
-| Alkalmatlan |  |  |  |  |  |  |  |  |  |
+| Alkalmatlan | _ | _ | _ |
 
-| Ideiglenesen alkalmatlan |  |  |  |  |  |  |  |  |  |
+| Ideiglenesen alkalmatlan | _ | _ | _ |
 
-| Látásjavító eszköz szükséges: |  | igen |  | nem |
+## Látásjavító eszköz szükséges: _ igen _ nem
 
 ## 4. A vizsgáló orvos intézkedése
 
-## 1. Beutalás további vizsgálatokra, szakorvosi rendelésre:
+## Beutalás további vizsgálatokra, szakorvosi rendelésre: ...............................................................
 
-## 2. Beutalás az OKK keretében működő Repülési, Hajózási és Tengerészeti Egészségügyi Központba.
+## A munkaköri alkalmassági vizsgálat helye: .....................................................................................
 
-## A munkaköri alkalmassági vizsgálat helye:
+## A munkaköri alkalmassági vizsgálat időpontja: ..............................................................................
 
-## A munkaköri alkalmassági vizsgálat időpontja:
+## Az egészségügyi bizonyítvány lejártának időpontja: .......................................................................
 
-## Az egészségügyi bizonyítvány lejártának időpontja:
+## P. H.
 
-| P. H. | ........................................................................ |
+## .........................................................................
 
-|  | (A vizsgáló orvos neve nyomtatott betűvel.) |
+## (A vizsgáló orvos neve nyomtatott betűvel.)
 
-## A vizsgáló orvos aláírása:
+## A vizsgáló orvos aláírása: ............................................................................................................
 
-## A vizsgálatok és az alkalmasság értékelése a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendeletben kapott felhatalmazás alapján történt.
+## A vizsgálatok és az alkalmasság értékelése a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM-ESZCSM együttes rendeletben kapott felhatalmazás alapján történt.
 
 ## Elismerem, hogy az egészségügyi törzslap tartalmával megismertettek.
 
-## A vizsgált személy aláírása:
+## A vizsgált személy aláírása: ........................................................................................
 
 ## (A vizsgáló orvos jelenlétében kell aláírni.)
-
-## _________
-
-## * Alkalmassági vizsgálatonként (előzetes, időszakos, soron kívüli) külön lap töltendő ki.
 
 7. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
 
@@ -264,4 +268,4 @@ Tanú neve: ................................................................. Ta
 
 (A név gépírással vagy nyomtatott betűvel.)
 
-[^*]: Alkalmassági vizsgálatonként (előzetes, időszakos, soron kívüli) külön lap töltendő ki.
+[^33]: Alkalmassági vizsgálatonként (előzetes, időszakos, soron kívüli) külön lap töltendő ki.
