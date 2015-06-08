@@ -1,1 +1,0 @@
-## „12. villamos energia/hő arány: a kapcsolt energiatermelésből származó villamos energia és a hasznos hő aránya teljes kapcsolt energiatermelési üzemmódban, az adott egység üzemeltetési adatainak felhasználásával számítva.”
