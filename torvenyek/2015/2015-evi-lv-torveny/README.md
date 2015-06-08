@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-55-00-00
 | 2015-05-11 | 2015. évi LV. törvény | 2015-55-00-00.0 (közlönyállapot) |
 | 2015-05-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-55-00-00.1 |
 | 2015-05-12 | 2010. évi CXXX. törvény | 2015-55-00-00.2 |
+| 2015-06-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-55-00-00.3 |
