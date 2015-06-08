@@ -22,7 +22,7 @@ Firtl Mátyás (KDNP)
 
 dr. Józsa István (MSZP)
 
-dr. Tóth Bertalan (MSZP)
+dr. Legény Zsolt (MSZP)[^2]
 
 b) Fenntartható fejlődés bizottsága (10 fő)
 
@@ -30,21 +30,21 @@ Elnök: Sallai R. Benedek (LMP)
 
 Alelnök:
 
-Bencsik János (Fidesz)[^2]
+Bencsik János (Fidesz)[^3]
 
 dr. Turi-Kovács Béla (Fidesz)
 
 Tagok:
 
-Manninger Jenő (Fidesz)[^3]
+Manninger Jenő (Fidesz)[^4]
 
-Dankó Béla (Fidesz)[^4]
+Dankó Béla (Fidesz)[^5]
 
 Simonka György (Fidesz)
 
 Varga Gábor (Fidesz)
 
-Bartos Mónika (Fidesz)[^5]
+Bartos Mónika (Fidesz)[^6]
 
 Heringes Anita (MSZP)
 
@@ -56,21 +56,21 @@ Elnök: Rogán Antal (Fidesz)
 
 Alelnök:
 
-Bánki Erik (Fidesz)[^6]
+Bánki Erik (Fidesz)[^7]
 
-dr. Völner Pál (Fidesz)[^7]
+dr. Völner Pál (Fidesz)[^8]
 
 Tóth Csaba (MSZP)
 
 Z. Kárpát Dániel (Jobbik)
 
-dr. Mengyi Roland (Fidesz)[^8]
+dr. Mengyi Roland (Fidesz)[^9]
 
 Tagok:
 
 Bencsik János (Fidesz)
 
-dr. Galambos Dénes (Fidesz)[^9]
+dr. Galambos Dénes (Fidesz)[^10]
 
 Cseresnyés Péter (Fidesz)
 
@@ -82,9 +82,9 @@ Velez Árpád (MSZP)
 
 Volner János (Jobbik)
 
-Varju László (független)[^10]
+Varju László (független)[^11]
 
-Manninger Jenő (Fidesz)[^11]
+Manninger Jenő (Fidesz)[^12]
 
 d) Honvédelmi és rendészeti bizottság (9 fő)
 
@@ -96,7 +96,7 @@ dr. Simon Miklós (Fidesz)
 
 dr. Harangozó Tamás Attila (MSZP)
 
-Firtl Mátyás (KDNP)[^12]
+Firtl Mátyás (KDNP)[^13]
 
 Tagok:
 
@@ -108,7 +108,7 @@ dr. Vas Imre (Fidesz)
 
 Mirkóczki Ádám (Jobbik)
 
-dr. Vadai Ágnes (független)[^13]
+dr. Vadai Ágnes (független)[^14]
 
 e) Igazságügyi bizottság (13 fő)
 
@@ -116,31 +116,31 @@ Elnök: dr. Rubovszky György (KDNP)
 
 Alelnök:
 
-dr. Vitányi István (Fidesz)[^14]
+dr. Vitányi István (Fidesz)[^15]
 
-Budai Gyula (Fidesz)[^15]
+Budai Gyula (Fidesz)[^16]
 
 dr. Papcsák Ferenc (Fidesz)
 
 Tagok:
 
-dr. Vas Imre (Fidesz)[^16]
+dr. Vas Imre (Fidesz)[^17]
 
-Demeter Zoltán (Fidesz)[^17]
+Demeter Zoltán (Fidesz)[^18]
 
 Varga József (Fidesz)
 
 Vigh László (Fidesz)
 
-dr. Bárándy Gergely (MSZP)[^18]
+dr. Bárándy Gergely (MSZP)[^19]
 
 Teleki László (MSZP)
 
 Apáti István (Jobbik)
 
-dr. Staudt Gábor (Jobbik)[^19]
+dr. Staudt Gábor (Jobbik)[^20]
 
-Kész Zoltán (független)[^20]
+Kész Zoltán (független)[^21]
 
 f) Költségvetési bizottság (15 fő)
 
@@ -148,7 +148,7 @@ Elnök: Burány Sándor (MSZP)
 
 Alelnök:
 
-dr. Szűcs Lajos (Fidesz)[^21]
+dr. Szűcs Lajos (Fidesz)[^22]
 
 dr. Tilki Attila (Fidesz)
 
@@ -162,13 +162,13 @@ Bodó Sándor (Fidesz)
 
 Boldog István (Fidesz)
 
-dr. Kerényi János (Fidesz)[^22]
+dr. Kerényi János (Fidesz)[^23]
 
-Vantara Gyula (Fidesz)[^23]
+Vantara Gyula (Fidesz)[^24]
 
-László Tamás (Fidesz)[^24]
+László Tamás (Fidesz)[^25]
 
-Szabolcs Attila (Fidesz)[^25]
+Szabolcs Attila (Fidesz)[^26]
 
 Witzmann Mihály (Fidesz)
 
@@ -176,7 +176,7 @@ dr. Szakács László (MSZP)
 
 Hegedűs Lorántné (Jobbik)
 
-Szelényi Zsuzsanna (független)[^26]
+Szelényi Zsuzsanna (független)[^27]
 
 g) Kulturális bizottság (15 fő)
 
@@ -186,9 +186,9 @@ Alelnök:
 
 dr. Pósán László (Fidesz)
 
-Kucsák László (Fidesz)[^27]
+Kucsák László (Fidesz)[^28]
 
-dr. Hoffmann Rózsa (KDNP)[^28]
+dr. Hoffmann Rózsa (KDNP)[^29]
 
 Kunhalmi Ágnes (MSZP)
 
@@ -200,9 +200,9 @@ Demeter Zoltán (Fidesz)
 
 Dunai Mónika (Fidesz)
 
-Halász János (Fidesz)[^29]
+Halász János (Fidesz)[^30]
 
-Törő Gábor (Fidesz)[^30]
+Törő Gábor (Fidesz)[^31]
 
 Simon Róbert Balázs (Fidesz)
 
@@ -216,13 +216,13 @@ dr. Szabó Szabolcs (független)
 
 h) Külügyi bizottság (12 fő)
 
-Elnök: Németh Zsolt (Fidesz)[^31]
+Elnök: Németh Zsolt (Fidesz)[^32]
 
 Alelnök:
 
 Csenger-Zalán Zsolt (Fidesz)
 
-Balla Mihály (Fidesz)[^32]
+Balla Mihály (Fidesz)[^33]
 
 Gyöngyösi Márton (Jobbik)
 
@@ -232,9 +232,9 @@ Csöbör Katalin (Fidesz)
 
 Bartos Mónika (Fidesz)
 
-dr. Tilki Attila (Fidesz)[^33]
+dr. Tilki Attila (Fidesz)[^34]
 
-dr. Hoffmann Rózsa (KDNP)[^34]
+dr. Hoffmann Rózsa (KDNP)[^35]
 
 Demeter Márta (MSZP)
 
@@ -250,7 +250,7 @@ Elnök: dr. Vejkey Imre (KDNP)
 
 Alelnök:
 
-Szabó Sándor (MSZP)[^35]
+Szabó Sándor (MSZP)[^36]
 
 Tagok:
 
@@ -264,13 +264,13 @@ Egyed Zsolt (Jobbik)
 
 j) Mezőgazdasági bizottság (11 fő)
 
-Elnök: Font Sándor (Fidesz)[^36]
+Elnök: Font Sándor (Fidesz)[^37]
 
 Alelnök:
 
 Horváth István (Fidesz)
 
-Farkas Sándor (Fidesz)[^37]
+Farkas Sándor (Fidesz)[^38]
 
 Harangozó Gábor István (MSZP)
 
@@ -278,9 +278,9 @@ Magyar Zoltán (Jobbik)
 
 Tagok:
 
-Dankó Béla (Fidesz)[^38]
+Dankó Béla (Fidesz)[^39]
 
-Győrffy Balázs (Fidesz)[^39]
+Győrffy Balázs (Fidesz)[^40]
 
 Pócs János (Fidesz)
 
@@ -288,7 +288,7 @@ Földi László (KDNP)
 
 dr. Legény Zsolt (MSZP)
 
-Kónya Péter (független)[^40]
+Kónya Péter (független)[^41]
 
 k) Nemzetbiztonsági bizottság (7 fő)
 
@@ -300,7 +300,7 @@ Németh Szilárd István (Fidesz)
 
 Tagok:
 
-Csizi Péter (Fidesz)[^41]
+Csizi Péter (Fidesz)[^42]
 
 Lezsák Sándor (Fidesz)
 
@@ -312,21 +312,21 @@ dr. Szél Bernadett (LMP)
 
 l) Nemzeti összetartozás bizottsága (9 fő)
 
-Elnök: Pánczél Károly (Fidesz)[^42]
+Elnök: Pánczél Károly (Fidesz)[^43]
 
 Alelnök:
 
-Szászfalvi László (Fidesz)[^43]
+Szászfalvi László (Fidesz)[^44]
 
 Szabolcs Attila (Fidesz)
 
 Tagok:
 
-Dunai Mónika (Fidesz)[^44]
+Dunai Mónika (Fidesz)[^45]
 
 Petneházy Attila (Fidesz)
 
-Bóna Zoltán (Fidesz)[^45]
+Bóna Zoltán (Fidesz)[^46]
 
 Kiss László (MSZP)
 
@@ -336,21 +336,21 @@ Szávay István (Jobbik)
 
 m) Népjóléti bizottság (15 fő)
 
-Elnök: dr. Selmeczi Gabriella (Fidesz)[^46]
+Elnök: dr. Selmeczi Gabriella (Fidesz)[^47]
 
 Alelnök:
 
 dr. Kovács József (Fidesz)
 
-dr. Bene Ildikó (Fidesz)[^47]
+dr. Bene Ildikó (Fidesz)[^48]
 
 Korózs Lajos (MSZP)
 
-Vágó Sebestyén (Jobbik)[^48]
+Vágó Sebestyén (Jobbik)[^49]
 
 Tagok:
 
-Révész Máriusz (Fidesz)[^49]
+Révész Máriusz (Fidesz)[^50]
 
 Hirt Ferenc (Fidesz)
 
@@ -364,9 +364,9 @@ Harrach Péter (KDNP)
 
 Bangóné Borbély Ildikó (MSZP)
 
-Rig Lajos (Jobbik)[^50]
+Rig Lajos (Jobbik)[^51]
 
-Novák Előd (Jobbik)[^51]
+Novák Előd (Jobbik)[^52]
 
 Szabó Timea (független)
 
@@ -376,9 +376,9 @@ Elnök: Volner János (Jobbik)
 
 Alelnök:
 
-Bányai Gábor (Fidesz)[^52]
+Bányai Gábor (Fidesz)[^53]
 
-Szatmáry Kristóf (Fidesz)[^53]
+Szatmáry Kristóf (Fidesz)[^54]
 
 dr. Varga László (MSZP)
 
@@ -388,13 +388,13 @@ Becsó Zsolt (Fidesz)
 
 dr. Tiba István (Fidesz)
 
-Gelencsér Attila (Fidesz)[^54]
+Gelencsér Attila (Fidesz)[^55]
 
-Törő Gábor (Fidesz)[^55]
+Törő Gábor (Fidesz)[^56]
 
 Gúr Nándor (MSZP)
 
-Kiss László (MSZP)
+Horváth Imre (MSZP)[^57]
 
 2. Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja és 21/A. § (2) bekezdése alapján Törvényalkotási bizottságot alakít, és annak tisztségviselőivé, valamint tagjaivá a következő képviselőket választja:
 
@@ -404,11 +404,11 @@ Elnök: dr. Gulyás Gergely (Fidesz)
 
 Alelnök:
 
-Horváth László (Fidesz)[^56]
+Horváth László (Fidesz)[^58]
 
-Tuzson Bence (Fidesz)[^57]
+Tuzson Bence (Fidesz)[^59]
 
-Balla György (Fidesz)[^58]
+Balla György (Fidesz)[^60]
 
 dr. Bárándy Gergely (MSZP)
 
@@ -418,19 +418,19 @@ Tagok:
 
 Ágh Péter (Fidesz)
 
-Vécsey László (Fidesz)[^59]
+Vécsey László (Fidesz)[^61]
 
 B. Nagy László (Fidesz)
 
-Bóna Zoltán (Fidesz)[^60]
+Bóna Zoltán (Fidesz)[^62]
 
-Dr. Galambos Dénes (Fidesz)[^61]
+Dr. Galambos Dénes (Fidesz)[^63]
 
 Hadházy Sándor (Fidesz)
 
-Jakab István (Fidesz)[^62]
+Jakab István (Fidesz)[^64]
 
-Dr. Tapolczai Gergely (Fidesz)[^63]
+Dr. Tapolczai Gergely (Fidesz)[^65]
 
 Kucsák László (Fidesz)
 
@@ -448,11 +448,11 @@ dr. Selmeczi Gabriella (Fidesz)
 
 dr. Szűcs Lajos (Fidesz)
 
-Dunai Mónika (Fidesz)[^64]
+Dunai Mónika (Fidesz)[^66]
 
 dr. Vas Imre (Fidesz)
 
-Révész Máriusz (Fidesz)[^65]
+Révész Máriusz (Fidesz)[^67]
 
 dr. Rubovszky György (KDNP)
 
@@ -460,29 +460,29 @@ dr. Vejkey Imre (KDNP)
 
 Hiszékeny Dezső (MSZP)
 
-dr. Legény Zsolt (MSZP)
+Gőgös Zoltán (MSZP)[^68]
 
-Lukács Zoltán (MSZP)
+Kiss László (MSZP)[^69]
 
-dr. Harangozó Tamás Attila (MSZP)[^66]
+dr. Harangozó Tamás Attila (MSZP)[^70]
 
 dr. Tóth Bertalan (MSZP)
 
 Tukacs István (MSZP)
 
-dr. Lukács László György (Jobbik)[^67]
+dr. Lukács László György (Jobbik)[^71]
 
 dr. Staudt Gábor (Jobbik)
 
 Szilágyi György (Jobbik)
 
-Apáti István (Jobbik)[^68]
+Apáti István (Jobbik)[^72]
 
 dr. Schiffer András (LMP)
 
-Fodor Gábor (független)[^69]
+Fodor Gábor (független)[^73]
 
-2a.[^70] Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő képviselőket választja:
+2a.[^74] Az Országgyűlés az Ogytv. 14. § (1) bekezdés a) pontja alapján nemzetiségeket képviselő bizottságot alakít, annak elnevezését az alábbiak szerint határozza meg, valamint tisztségviselőivé a következő képviselőket választja:
 
 Magyarországi nemzetiségek bizottsága (13 fő)
 
@@ -494,75 +494,79 @@ Alelnök: Farkas Félix (nemzetiségi szószóló)
 
 4. Ez a határozat az elfogadásakor lép hatályba.
 
-5.[^71]
+5.[^75]
 
-[^2]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^2]: A 26/2015. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^5]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^6]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^7]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^8]: Dr. Mengyi Rolandot az Országgyűlés a 23/2014. (VI. 3.) OGY határozat 1. pontjával a bizottság tagjává, a 29/2014. (VI. 26.) OGY határozat 1. pontjával a bizottság alelnökévé megválasztotta.
-[^9]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^10]: A 34/2014. (VII. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^11]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^12]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^13]: A 15/2014. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
-[^14]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^7]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^8]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^9]: Dr. Mengyi Rolandot az Országgyűlés a 23/2014. (VI. 3.) OGY határozat 1. pontjával a bizottság tagjává, a 29/2014. (VI. 26.) OGY határozat 1. pontjával a bizottság alelnökévé megválasztotta.
+[^10]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^11]: A 34/2014. (VII. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^12]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^13]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^14]: A 15/2014. (V. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^15]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^16]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^17]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^18]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^19]: A 14/2015. (IV. 7.) OGY határozat 1. pontjával megállapított szöveg.
-[^20]: A 3/2015. (III. 20.) OGY határozat 1. pontjával megállapított szöveg.
-[^21]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^22]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^23]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^24]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^25]: A 29/2014. (VI. 26.) OGY határozat 3. pontjával megállapított szöveg.
-[^26]: A 26/2014. (VI. 24.) OGY határozat 1. pontjával megállapított szöveg.
-[^27]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^28]: A 25/2014. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
-[^29]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^30]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^31]: A 23/2014. (VI. 3.) OGY határozat 2. pontjával megállapított szöveg.
+[^17]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^18]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^19]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^20]: A 14/2015. (IV. 7.) OGY határozat 1. pontjával megállapított szöveg.
+[^21]: A 3/2015. (III. 20.) OGY határozat 1. pontjával megállapított szöveg.
+[^22]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^23]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^24]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^25]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^26]: A 29/2014. (VI. 26.) OGY határozat 3. pontjával megállapított szöveg.
+[^27]: A 26/2014. (VI. 24.) OGY határozat 1. pontjával megállapított szöveg.
+[^28]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^29]: A 25/2014. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^30]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^31]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^32]: A 23/2014. (VI. 3.) OGY határozat 2. pontjával megállapított szöveg.
-[^33]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^34]: A 25/2014. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
-[^35]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^36]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^37]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^38]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
-[^39]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^33]: A 23/2014. (VI. 3.) OGY határozat 2. pontjával megállapított szöveg.
+[^34]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^35]: A 25/2014. (VI. 11.) OGY határozat 1. pontjával megállapított szöveg.
+[^36]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
+[^37]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^38]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^39]: A 35/2014. (IX. 16.) OGY határozat 1. pontjával megállapított szöveg.
 [^40]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^41]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^42]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^41]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^42]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^43]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^44]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^45]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^46]: A 29/2014. (VI. 26.) OGY határozat 2. pontjával megállapított szöveg.
+[^46]: A 29/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
 [^47]: A 29/2014. (VI. 26.) OGY határozat 2. pontjával megállapított szöveg.
-[^48]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^48]: A 29/2014. (VI. 26.) OGY határozat 2. pontjával megállapított szöveg.
 [^49]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^50]: A 22/2015. (V. 14.) OGY határozat 1. pontjával megállapított szöveg.
-[^51]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^52]: A 25/2015. (V. 29.) OGY határozat 1. pontjával megállapított szöveg.
-[^53]: A 23/2014. (VI. 3.) OGY határozat 2. pontjával megállapított szöveg.
-[^54]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^55]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^56]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
-[^57]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
+[^50]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^51]: A 22/2015. (V. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^52]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^53]: A 25/2015. (V. 29.) OGY határozat 1. pontjával megállapított szöveg.
+[^54]: A 23/2014. (VI. 3.) OGY határozat 2. pontjával megállapított szöveg.
+[^55]: A 23/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^56]: Az 1/2015. (II. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^57]: A 26/2015. (VI. 12.) OGY határozat 1. pontjával megállapított szöveg.
 [^58]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
 [^59]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
-[^60]: A 29/2014. (VI. 26.) OGY határozat 4. pontjával megállapított szöveg.
-[^61]: Az 1/2015. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
-[^62]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
+[^60]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
+[^61]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
+[^62]: A 29/2014. (VI. 26.) OGY határozat 4. pontjával megállapított szöveg.
 [^63]: Az 1/2015. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
-[^64]: A 33/2014. (VII. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^65]: A 35/2014. (IX. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^66]: A 35/2014. (IX. 16.) OGY határozat 2. pontjával megállapított szöveg.
-[^67]: A 30/2014. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
-[^68]: A 22/2015. (V. 14.) OGY határozat 2. pontjával megállapított szöveg.
-[^69]: A 15/2014. (V. 27.) OGY határozat 2. pontjával megállapított szöveg.
-[^70]: A 2a. pontot a 15/2014. (V. 27.) OGY határozat 3. pontja iktatta be. E módosító határozat 4. pontja alapján a Magyarországi nemzetiségek bizottságának megbízatása 2014. május 26. napjával kezdődik.
-[^71]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 23/2014. (VI. 3.) OGY határozat 3. pontjával megállapított szöveg.
+[^65]: Az 1/2015. (II. 19.) OGY határozat 2. pontjával megállapított szöveg.
+[^66]: A 33/2014. (VII. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^67]: A 35/2014. (IX. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^68]: A 26/2015. (VI. 12.) OGY határozat 2. pontjával megállapított szöveg.
+[^69]: A 26/2015. (VI. 12.) OGY határozat 2. pontjával megállapított szöveg.
+[^70]: A 35/2014. (IX. 16.) OGY határozat 2. pontjával megállapított szöveg.
+[^71]: A 30/2014. (VII. 3.) OGY határozat 1. pontjával megállapított szöveg.
+[^72]: A 22/2015. (V. 14.) OGY határozat 2. pontjával megállapított szöveg.
+[^73]: A 15/2014. (V. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^74]: A 2a. pontot a 15/2014. (V. 27.) OGY határozat 3. pontja iktatta be. E módosító határozat 4. pontja alapján a Magyarországi nemzetiségek bizottságának megbízatása 2014. május 26. napjával kezdődik.
+[^75]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
