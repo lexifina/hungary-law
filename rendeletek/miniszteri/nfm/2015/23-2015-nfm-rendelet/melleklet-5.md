@@ -1,3 +1,1 @@
-5–9. melléklet a 23/2015. (V. 8.) NFM rendelethez[^16]
-
-[^16]: Az 5–9. melléklet a 25. § (2) bekezdése alapján 2015. június 8-án lép hatályba.
+5. melléklet a 23/2015. (V. 8.) NFM rendelethez
