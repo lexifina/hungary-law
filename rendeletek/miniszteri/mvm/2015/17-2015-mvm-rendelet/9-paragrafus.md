@@ -9,5 +9,3 @@ b) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vi
 c) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló 2014. március 11-i 640/2014/EU felhatalmazáson alapuló bizottsági rendeletnek,
 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló 2014. július 17-i 809/2014/EU felhatalmazáson alapuló bizottsági rendeletnek
-
-a végrehajtásához szükséges rendelkezéseket állapít meg.
