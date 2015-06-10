@@ -2,11 +2,11 @@
 
 ## 7. A kifizetési kérelem benyújtása
 
-11. § (1)[^24] Az utolsó kifizetési kérelmet a Vhr. 16/B. § (1) bekezdésétől eltérően január 1. és június 30., valamint augusztus 1. és december 31. között, 2015. évben február 1. és június 30., valamint augusztus 1. és 31. között elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani. A kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
+11. § (1)[^26] A kifizetési kérelmet elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani a Vhr. 16/B. § (1) bekezdésében megjelölt időszakban a Vhr. 16/B. § (2) és (2a) bekezdésével összhangban. A kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
 
-(2) A kifizetési kérelem benyújtására és módosítására a Vhr. 16/B. § (2)–(3) bekezdését kell alkalmazni.
+(2)[^27]
 
-(3)[^25] E rendelet szerinti intézkedés vonatkozásában a Vhr. 17. § (2) bekezdése és 24. § (1) bekezdése nem alkalmazandó.
+(3)[^28] E rendelet szerinti intézkedés vonatkozásában a Vhr. 17. § (2) bekezdése nem alkalmazandó.
 
 (4) Természetes személy ügyfél esetén az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolatát.
 
@@ -14,8 +14,9 @@
 
 (6) Az utolsó kifizetési kérelemhez mellékelni kell a koordináló szervezet szakmai beszámolóját.
 
-(7)[^26] Az ügyfélnek az utolsó kifizetési kérelmet legkésőbb 2015. augusztus 31. napjáig kell benyújtania.
+(7)[^29] Az ügyfélnek az utolsó kifizetési kérelmet legkésőbb 2015. augusztus 31. napjáig kell benyújtania.
 
-[^24]: A 11. § (1) bekezdése a 8/2014. (XI. 19.) MvM rendelet 15. § (5) bekezdésével megállapított szöveg.
-[^25]: A 11. § (3) bekezdése a 93/2013. (X. 10.) VM rendelet 12. §-ával megállapított szöveg.
-[^26]: A 11. § (7) bekezdését az 1/2014. (IX. 15.) MvM rendelet 27. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 70. § (2) bekezdésével megállapított szöveg.
+[^26]: A 11. § (1) bekezdése a 28/2015. (VI. 9.) MvM rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^27]: A 11. § (2) bekezdését a 28/2015. (VI. 9.) MvM rendelet 74. § b) pontja hatályon kívül helyezte.
+[^28]: A 11. § (3) bekezdése a 93/2013. (X. 10.) VM rendelet 12. §-ával megállapított, a 28/2015. (VI. 9.) MvM rendelet 74. § c) pontja szerint módosított szöveg.
+[^29]: A 11. § (7) bekezdését az 1/2014. (IX. 15.) MvM rendelet 27. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 70. § (2) bekezdésével megállapított szöveg.

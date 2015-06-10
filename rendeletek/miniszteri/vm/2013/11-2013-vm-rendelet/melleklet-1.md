@@ -1,6 +1,6 @@
-## 21. §[^41] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 2. § (6), (6a) és (6b) bekezdést, 2. § (14) bekezdést, 7. § (7) és (10) bekezdést, valamint 11. § (1) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^42] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 22. §[^46] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 8. § (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor[^47] folyamatban lévő ügyekben, 4. § (1) bekezdését, 6. § (13) bekezdését és 11. § (1) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban és jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 11/2013. (III. 5.) VM rendelethez
 
-[^41]: A 21. §-t a 8/2014. (XI. 19.) MvM rendelet 15. § (6) bekezdése iktatta be.
-[^42]: A hatálybalépés időpontja 2014. november 20.
+[^46]: A 22. §-t a 28/2015. (VI. 9.) MvM rendelet 72. § (3) bekezdése iktatta be.
+[^47]: A hatálybalépés időpontja 2015. június 10.

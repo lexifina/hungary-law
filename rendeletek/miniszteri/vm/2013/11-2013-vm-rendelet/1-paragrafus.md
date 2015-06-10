@@ -48,7 +48,7 @@ f) székhellyel vagy telephellyel rendelkező egyházi jogi személy,
 
 g) lakóhellyel vagy tartózkodási hellyel rendelkező természetes személy,
 
-amely fejlesztést valósít meg vagy bonyolít le.
+## amely fejlesztést valósít meg vagy bonyolít le.
 
 (2) Az e rendeletben nem szabályozott kérdések vonatkozásában a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) szereplő szabályokat kell alkalmazni.
 

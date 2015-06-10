@@ -2,11 +2,11 @@
 
 6. § (1) E rendelet keretében, egy együttműködési projekt kapcsán a 2013. évben megítélhető maximális támogatási összeg az együttműködési projekt egészére vonatkozóan nem haladhatja meg az 50 millió forintot. Egy ügyfél párhuzamosan több együttműködési projekt megvalósításában is részt vehet.
 
-(2)[^14] A támogatás forrása az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA). Az ÚMVP alapján a támogatás és az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli területekkel való nemzetközi együttműködés végrehajtásához 2012-től nyújtandó támogatások részletes feltételeiről szóló 99/2012. (IX. 25.) VM rendelet szerinti támogatás nyújtására fordítható együttes keretösszeg 7 milliárd forint.
+(2)[^15] A támogatás forrása az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA). Az ÚMVP alapján a támogatás és az Európai Mezőgazdasági Vidékfejlesztési Alapból a LEADER Európai Unión belüli és harmadik országbeli területekkel való nemzetközi együttműködés végrehajtásához 2012-től nyújtandó támogatások részletes feltételeiről szóló 99/2012. (IX. 25.) VM rendelet szerinti támogatás nyújtására fordítható együttes keretösszeg 7 milliárd forint.
 
 (3) Kizárólag azon költségek számolhatóak el, amelyek az ügyfélnek az együttműködési projektben való részvételéhez kapcsolódnak.
 
-(4)[^15] Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, valamint a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra, kivéve
+(4)[^16] Támogatás vehető igénybe a 3. § (1) bekezdése szerinti tevékenységek megvalósulásához kapcsolódó költségekhez, valamint a Vhr. 31. §-a szerinti egyéb elszámolható kiadásokra, kivéve
 
 a) a motorral hajtott szárazföldi, légi, vízi közlekedési jármű vagy motorral hajtott sporteszköz beszerzésére, és ezen eszközök forgalmazását érintő beruházásokhoz,
 
@@ -72,12 +72,15 @@ ab) egyéb területen valósítja meg, akkor az összes elszámolható kiadás 6
 
 b) települési önkormányzat, települési nemzetiségi önkormányzat, önálló jogi személyiséggel rendelkező önkormányzati társulás, akkor az összes elszámolható kiadás 100%-a;
 
-c)[^16] egyházi jogi személy, nonprofit szervezet, akkor az összes elszámolható kiadás 100%-a.
+c)[^17] egyházi jogi személy, nonprofit szervezet, akkor az összes elszámolható kiadás 100%-a.
 
 (11) Az egyéb elszámolható kiadások esetén – ha a támogatási kérelem egyes ügyfelekre vonatkozó részkérelmének tekintetében eltérő támogatási intenzitások kerülnek megállapításra – ügyfelenként a legalacsonyabb intenzitást kell figyelembe venni.
 
 (12) Költségvetési szervek esetében az 1698/2005/EK tanácsi rendelet 71. cikk (3) bekezdés a) pontja alapján a támogatás számításának alapja az összes nettó elszámolható kiadás.
 
-[^14]: A 6. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 10. §-ával megállapított szöveg.
-[^15]: A 6. § (4) bekezdése az 55/2013. (VI. 27.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^16]: A 6. § (10) bekezdés c) pontja a 93/2013. (X. 10.) VM rendelet 13. §-a szerint módosított szöveg.
+(13)[^18] A koordináló szervezet a projektmenedzsment tevékenységhez kapcsolódó kiadásokat nem számolhatja el teljes mértékben az utolsó együttműködő partner utolsó kifizetési kérelmének benyújtását megelőzően. Amennyiben a koordináló szervezet projektmenedzsment elszámolást érintő kifizetési kérelme nem felel meg ezen feltételnek, úgy a kérelem alapján indult eljárás felfüggesztésre kerül az utolsó együttműködő partner végső elszámolását tartalmazó kifizetési kérelem benyújtásáig.
+
+[^15]: A 6. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 10. §-ával megállapított szöveg.
+[^16]: A 6. § (4) bekezdése az 55/2013. (VI. 27.) VM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^17]: A 6. § (10) bekezdés c) pontja a 93/2013. (X. 10.) VM rendelet 13. §-a szerint módosított szöveg.
+[^18]: A 6. § (13) bekezdését a 28/2015. (VI. 9.) MvM rendelet 72. § (1) bekezdése iktatta be.
