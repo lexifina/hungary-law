@@ -58,6 +58,6 @@
 
 ## ** A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról szóló 326/2001. (XII. 30.) Korm. Rendelet 4. § (3) bekezdés szerinti határozat másolata
 
-4. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^206]
+4. számú melléklet a 61/2009. (V. 14.) FVM rendelethez[^209]
 
-[^206]: A 4. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^209]: A 4. számú melléklet a 77/2009. (VI. 30.) FVM rendelet 18. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

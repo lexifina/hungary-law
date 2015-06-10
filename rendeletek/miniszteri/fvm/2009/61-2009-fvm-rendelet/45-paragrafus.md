@@ -1,12 +1,12 @@
 ## Ellenőrzés
 
-45. § (1)[^95] Az évente történő ellenőrzéseket
+45. § (1)[^96] Az évente történő ellenőrzéseket
 
 a) a jogosultsági feltételek és az agrár-környezetgazdálkodási kötelezettségvállalások teljesítésének vonatkozásában az MVH végzi, amelybe külön megállapodás alapján állami szerveket bevon;
 
 b) a 11. § (4) bekezdésben foglalt követelmények teljesítésének vonatkozásában az arra hatáskörrel rendelkező hatóság végzi;
 
-c)[^96] az 5. § (6) bekezdés b) pont ba) alpont szerinti feltétel vonatkozásában az MVH végzi, amely során a NÉBIH, illetve a gazdálkodás helye szerint illetékes kormányhivatal földművelésügyi igazgatósága által szolgáltatott adatok alapján jár el.
+c)[^97] az 5. § (6) bekezdés b) pont ba) alpont szerinti feltétel vonatkozásában az MVH végzi, amely során a NÉBIH, illetve a gazdálkodás helye szerint illetékes kormányhivatal földművelésügyi igazgatósága által szolgáltatott adatok alapján jár el.
 
 (2) Az (1) bekezdés szerinti ellenőrzés a támogatási, illetve a kifizetési kérelemre vonatkozóan a külön jogszabályokban meghatározottak szerint:
 
@@ -26,11 +26,11 @@ c) helyszíni ellenőrzést
 
 (6) A 3. § (1) bekezdés a) pont ac) alpontjában, b) pont bb) alpontjában, valamint c) pont cb) alpontjában meghatározott célprogramok esetében az MVH a (2) bekezdés szerinti ellenőrzések elvégzése érdekében az illetékes ökológiai ellenőrző szervezettől tájékoztatást kérhet.
 
-(7)[^97] Az illetékes ökológiai ellenőrző szervezet évente, az adott gazdálkodási év május 15-ig az MVH részére tájékoztatást nyújt arról, hogy a 3. § (1) bekezdés a) pont ac) alpontjában, a 3. § (1) bekezdés b) pont bb) alpontjában és a 3. § (1) bekezdés c) pont cb) alpontjában meghatározott célprogramokban támogatott ügyfelek kötelezettségvállalással érintett egybefüggő területei az ökológiai ellenőrző szervezet nyilvántartásában szerepelnek vagy azok ökológiai státusza a gazdálkodási év folyamán megszüntetésre vagy visszaminősítésre került.
+(7)[^98] Az illetékes ökológiai ellenőrző szervezet évente, az adott gazdálkodási év május 15-ig az MVH részére tájékoztatást nyújt arról, hogy a 3. § (1) bekezdés a) pont ac) alpontjában, a 3. § (1) bekezdés b) pont bb) alpontjában és a 3. § (1) bekezdés c) pont cb) alpontjában meghatározott célprogramokban támogatott ügyfelek kötelezettségvállalással érintett egybefüggő területei az ökológiai ellenőrző szervezet nyilvántartásában szerepelnek vagy azok ökológiai státusza a gazdálkodási év folyamán megszüntetésre vagy visszaminősítésre került.
 
-(8)–(9)[^98]
+(8)–(9)[^99]
 
-[^95]: A 45. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 18. §-ával megállapított szöveg.
-[^96]: A 45. § (1) bekezdés c) pontját a 68/2013. (VII. 29.) VM rendelet 6. § (2) bekezdése iktatta be.
-[^97]: A 45. § (7) bekezdése a 44/2012. (V. 3.) VM rendelet 8. §-ával megállapított szöveg.
-[^98]: A 45. § (8)–(9) bekezdését a 12/2014. (XII. 30.) MvM rendelet 11. §-a hatályon kívül helyezte.
+[^96]: A 45. § (1) bekezdése a 31/2010. (III. 30.) FVM rendelet 18. §-ával megállapított szöveg.
+[^97]: A 45. § (1) bekezdés c) pontját a 68/2013. (VII. 29.) VM rendelet 6. § (2) bekezdése iktatta be.
+[^98]: A 45. § (7) bekezdése a 44/2012. (V. 3.) VM rendelet 8. §-ával megállapított szöveg.
+[^99]: A 45. § (8)–(9) bekezdését a 12/2014. (XII. 30.) MvM rendelet 11. §-a hatályon kívül helyezte.

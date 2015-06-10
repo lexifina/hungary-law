@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-61-20-8
 | 2013-08-01 | 2009-61-20-82.16 | 139/2012. (XII. 22.) VM rendelet |
 | 2014-02-18 | 2009-61-20-82.17 | 11/2014. (II. 17.) VM rendelet |
 | 2014-12-31 | 2009-61-20-82.18 | 68/2013. (VII. 29.) VM rendelet |
+| 2015-06-10 | 2009-61-20-82.19 | 68/2013. (VII. 29.) VM rendelet |
