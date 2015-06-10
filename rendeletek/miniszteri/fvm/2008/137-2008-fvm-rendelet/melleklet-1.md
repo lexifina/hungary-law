@@ -1,12 +1,10 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 55. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-1. számú melléklet a 137/2008. (X. 18.) FVM rendelethez[^35]
+1. számú melléklet a 137/2008. (X. 18.) FVM rendelethez[^38]
 
 Értékelési szempontok
 
 1.1. Dél-Zempléni Nektár LEADER Vidékfejlesztési Nonprofit Kft területén alkalmazandó pontszámok
-
-9M27904_0
 
 | Szakmai szempontok |
 
@@ -298,8 +296,6 @@
 
 1.2. Abaúj LEADER Egyesület területén alkalmazandó pontozás
 
-9M27904_1
-
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
 
 | 1. A fejlesztés helyi, térségi hagyományos (a térségben történelmi vagy kulturális múlttal rendelkező) mesterségek és/vagy természeti és/vagy kulturális értékek bemutatására irányul: | Kérelem alapján |  |
@@ -587,8 +583,6 @@
 * Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy működtetési és fenntarthatósági terv készítése, a kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
 
 1.3. Alsó-Tisza Vidék Fejlesztéséért Egyesület területén alkalmazandó pontozás
-
-9M27904_2
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
 
@@ -878,8 +872,6 @@
 
 1.4. “Bakonyalja-Kisalföld Kapuja” Vidékfejlesztési Egyesület területén alkalmazandó pontozás
 
-9M27904_3
-
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
 
 | 1. A fejlesztés helyi, térségi hagyományos (a térségben történelmi vagy kulturális múlttal rendelkező) mesterségek és/vagy természeti és/vagy kulturális értékek bemutatására irányul: | Kérelem alapján |  |
@@ -1167,8 +1159,6 @@
 Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy működtetési és fenntarthatósági terv készítése, a kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
 
 1.5. Börzsöny-Duna-Ipoly Vidékfejlesztési Egyesület területén alkalmazandó pontozás:
-
-9M27904_4
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
 
@@ -1458,8 +1448,6 @@ Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy 
 
 1.6. Dél-balatoni LEADER Nonprofit Vidékfejlesztési Zrt területén alkalmazandó pontozás
 
-9M27904_5
-
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
 
 | 1. A fejlesztés helyi, térségi hagyományos (a térségben történelmi vagy kulturális múlttal rendelkező) mesterségek és/vagy természeti és/vagy kulturális értékek bemutatására irányul: | Kérelem alapján |  |
@@ -1747,8 +1735,6 @@ Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy 
 * Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy működtetési és fenntarthatósági terv készítése, a kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
 
 1.7. Dél-Baranya Határmenti Települések Egyesülete területén alkalmazandó pontozás
-
-9M27904_6
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
 
@@ -2038,8 +2024,6 @@ Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy 
 
 1.8. DIPO Duna-Ipoly Határmenti Együttműködése Helyi Közössége Közhasznú Egyesület területén alkalmazandó pontozás:
 
-9M27904_7
-
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
 
 | 1. A fejlesztés helyi, térségi hagyományos (a térségben történelmi vagy kulturális múlttal rendelkező) mesterségek és/vagy természeti és/vagy kulturális értékek bemutatására irányul: | Kérelem alapján |  |
@@ -2327,8 +2311,6 @@ Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy 
 * Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy működtetési és fenntarthatósági terv készítése, a kérelem elbírálása során az értékeléssel adott pontokat arányosan kell figyelembe venni.
 
 1.9. Duna Összeköt Egyesület területén alkalmazandó pontozás
-
-9M27904_8
 
 | Értékelési szempont megnevezése | Értékelés módja | Értékeléshez rendelhető pontszám |
 
@@ -2618,4 +2600,4 @@ Amennyiben a támogatási kérelem benyújtásának nem feltétele üzleti vagy 
 
 1.10. Dunamellék LEADER Egyesület területén alkalmazandó pontozás
 
-[^35]: A 1. számú melléklet a 92/2009. (VII. 28.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 4. §-a alapján rendelkezéseit a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.
+[^38]: A 1. számú melléklet a 92/2009. (VII. 28.) FVM rendelet 3. §-ával megállapított szöveg. E módosító rendelet 4. §-a alapján rendelkezéseit a 2008. október 19. és 2009. január 10. között benyújtott támogatási kérelmekre is alkalmazni kell.

@@ -1,6 +1,6 @@
-## 10/C. §[^33] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 9. §-t a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^34] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 10/D. §[^36] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 8. § (4) bekezdését és 8/A. § (4) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor[^37] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^33]: A 10/C. §-t a 7/2015. (II. 17.) MvM rendelet 21. § (2) bekezdése iktatta be.
-[^34]: A hatálybalépés időpontja 2015. február 17.
+[^36]: A 10/D. §-t a 28/2015. (VI. 9.) MvM rendelet 14. § (2) bekezdése iktatta be.
+[^37]: A hatálybalépés időpontja 2015. június 10.
