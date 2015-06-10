@@ -22,7 +22,7 @@ g) az árajánlat kiállításának dátumát.
 
 (5) Az árajánlat nem származhat az ügyfél saját tulajdonában lévő vagy kapcsolt vállalkozásától, illetve olyan vállalkozástól, amelyben az ügyfél többségi tulajdoni hányaddal rendelkezik.
 
-(6)[^5] Az ajánlattevő olyan tevékenysége tekintetében adhat árajánlatot, amelyet az adóhatósághoz legkésőbb az ügyfélnek az MVH előtt folyamatban lévő eljárása vagy a jogorvoslati eljárás során bejelentett. A nem bejelentett tevékenység tekintetében adott árajánlat vonatkozásában adategyeztetésnek, illetve nyilatkozattételnek van helye.
+(6)[^6] Az ajánlattevő olyan tevékenysége tekintetében adhat árajánlatot, amelyet az adóhatósághoz legkésőbb az ügyfélnek az MVH előtt folyamatban lévő eljárása vagy a jogorvoslati eljárás során bejelentett. A nem bejelentett tevékenység tekintetében adott árajánlat vonatkozásában adategyeztetésnek, illetve nyilatkozattételnek van helye.
 
 (7) Ha az ügyfél a művelet megvalósítását követő időszakra a támogatott tevékenységének hatékonyabb működtetésével összefüggésben együttműködő partnereket von be, csak olyan együttműködési megállapodás támogatási kérelemhez történő, eredeti példányban történő benyújtása esetén jogosult pontszámra, amely tartalmazza
 
@@ -42,4 +42,4 @@ g) tartalma alapján nem minősül beszállítói, vagy értékesítési szerző
 
 (8) Amennyiben az árajánlat az (1)–(2) és (4)–(5) bekezdésben meghatározott formai és tartalmai követelményeknek nem felel meg, abban az esetben az elszámolni kívánt árajánlatos tételek vonatkozásában az ügyfél támogatásra nem jogosult.
 
-[^5]: A 7. § (6) bekezdése a 8/2014. (XI. 19.) MvM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^6]: A 7. § (6) bekezdése a 8/2014. (XI. 19.) MvM rendelet 11. § (2) bekezdésével megállapított szöveg.

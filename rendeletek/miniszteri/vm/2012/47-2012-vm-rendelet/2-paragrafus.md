@@ -2,9 +2,9 @@
 
 2. § (1) Támogatás vehető igénybe a mikrovállalkozások fejlesztéseinek támogatására, a mikrovállalkozások megkezdett vagy tervezett gazdasági tevékenységéhez közvetlenül kapcsolódó, a (4) bekezdésben meghatározott, gazdaságon kívül végzett tevékenységre.
 
-(2)[^1] Tervezett tevékenység esetén legkésőbb az első kifizetési kérelem benyújtásakor szerepelnie kell a tevékenységnek a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az egyéni vállalkozó felvett tevékenységei között. E kötelezettség az első kifizetési kérelemhez kapcsolódó hiánypótlás keretében, a hiánypótlási felhívásban meghatározott határidőn belül pótolható.
+(2)[^2] Tervezett tevékenység esetén legkésőbb az első kifizetési kérelem benyújtásakor szerepelnie kell a tevékenységnek a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az egyéni vállalkozó felvett tevékenységei között. E kötelezettség az első kifizetési kérelemhez kapcsolódó hiánypótlás keretében, a hiánypótlási felhívásban meghatározott határidőn belül pótolható.
 
-(3)[^2] Ha a tevékenység működési engedélyhez kötött új tevékenység, a (2) bekezdéstől eltérően a tevékenységnek legkésőbb az utolsó kifizetési kérelem benyújtásakor szerepelnie kell a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az egyéni vállalkozó felvett tevékenységei között. E kötelezettség az utolsó kifizetési kérelemhez kapcsolódó hiánypótlás keretében, a hiánypótlási felhívásban meghatározott határidőn belül pótolható.
+(3)[^3] Ha a tevékenység működési engedélyhez kötött új tevékenység, a (2) bekezdéstől eltérően a tevékenységnek legkésőbb az utolsó kifizetési kérelem benyújtásakor szerepelnie kell a mikrovállalkozás bejelentett tevékenységei között, vagy természetes személy ügyfél esetén az egyéni vállalkozó felvett tevékenységei között. E kötelezettség az utolsó kifizetési kérelemhez kapcsolódó hiánypótlás keretében, a hiánypótlási felhívásban meghatározott határidőn belül pótolható.
 
 (4) Az e rendelet alapján támogatható tevékenységnek és elszámolható kiadásnak minősül
 
@@ -80,5 +80,5 @@ p) NACE REV. 2. 01 ágazat szerinti minden növénytermesztés, állattenyészt�
 
 (11) Az ügyfél egy támogatási kérelmében legfeljebb három tevékenységet jelölhet meg a támogatható tevékenységei közül. Amennyiben a fejleszteni kívánt megjelölt tevékenységek közül bármelyik e rendelet szerint nem támogatható tevékenységnek minősül, akkor a támogatási kérelem elutasításra kerül.
 
-[^1]: A 2. § (2) bekezdése a 8/2014. (XI. 19.) MvM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (3) bekezdése a 7/2015. (II. 17.) MvM rendelet 54. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) bekezdése a 8/2014. (XI. 19.) MvM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdése a 7/2015. (II. 17.) MvM rendelet 54. § (1) bekezdésével megállapított szöveg.
