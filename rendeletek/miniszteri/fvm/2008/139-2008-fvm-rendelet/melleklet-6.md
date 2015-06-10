@@ -28,6 +28,6 @@
 
 ## – az elszámolni kívánt nettó kiadás és az áfa kulcs.
 
-6. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^94]
+6. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^96]
 
-[^94]: A 6. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (4) bekezdése iktatta be, szövege az 53/2014. (IV. 29.) VM rendelet 6. §-a szerint módosított szöveg.
+[^96]: A 6. számú mellékletet a 4/2013. (II. 4.) VM rendelet 12. § (4) bekezdése iktatta be, szövege az 53/2014. (IV. 29.) VM rendelet 6. §-a szerint módosított szöveg.
