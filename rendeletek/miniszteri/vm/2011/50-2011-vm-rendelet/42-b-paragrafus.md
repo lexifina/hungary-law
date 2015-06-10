@@ -1,9 +1,9 @@
-## 42/B. §[^118] Az egyes halászati tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (IV. 14.) VM rendelettel [a továbbiakban: 44/2014. (IV. 14.) VM rendelet] megállapított
+## 42/B. §[^123] Az egyes halászati tárgyú miniszteri rendeletek módosításáról szóló 44/2014. (IV. 14.) VM rendelettel [a továbbiakban: 44/2014. (IV. 14.) VM rendelet] megállapított
 
-a) 2. § (1) bekezdés 9. pontját, 15. § (5) és (6) bekezdését, 19. § (1) bekezdés b) és c) pontját, 19. § (2) bekezdését, 20. §-át, valamint 26. § (2) és (3) bekezdését a 44/2014. (IV. 14.) VM rendelet hatálybalépésekor[^119] folyamatban lévő eljárásokban,
+a) 2. § (1) bekezdés 9. pontját, 15. § (5) és (6) bekezdését, 19. § (1) bekezdés b) és c) pontját, 19. § (2) bekezdését, 20. §-át, valamint 26. § (2) és (3) bekezdését a 44/2014. (IV. 14.) VM rendelet hatálybalépésekor[^124] folyamatban lévő eljárásokban,
 
-b) 34. § (8) bekezdését a 44/2014. (IV. 14.) VM rendelet hatálybalépésekor[^120] folyamatban lévő ügyekben
+b) 34. § (8) bekezdését a 44/2014. (IV. 14.) VM rendelet hatálybalépésekor[^125] folyamatban lévő ügyekben
 
-[^118]: A 42/B. §-t a 44/2014. (IV. 14.) VM rendelet 10. §-a iktatta be.
-[^119]: A hatálybalépés időpontja 2014. április 17.
-[^120]: A hatálybalépés időpontja 2014. április 17.
+[^123]: A 42/B. §-t a 44/2014. (IV. 14.) VM rendelet 10. §-a iktatta be.
+[^124]: A hatálybalépés időpontja 2014. április 17.
+[^125]: A hatálybalépés időpontja 2014. április 17.

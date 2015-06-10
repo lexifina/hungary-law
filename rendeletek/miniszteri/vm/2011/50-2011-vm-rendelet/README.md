@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-50-20-2
 | 2014-10-01 | 2011-50-20-2Y.12 | 4/2014. (X. 1.) MvM rendelet |
 | 2015-02-17 | 2011-50-20-2Y.13 | 7/2015. (II. 17.) MvM rendelet |
 | 2015-04-18 | 2011-50-20-2Y.14 | 2/2014. (IX. 15.) MvM rendelet |
+| 2015-06-10 | 2011-50-20-2Y.15 | 28/2015. (VI. 9.) MvM rendelet |

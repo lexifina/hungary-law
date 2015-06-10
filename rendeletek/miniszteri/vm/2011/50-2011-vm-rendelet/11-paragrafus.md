@@ -10,7 +10,7 @@
 
 (5) Egy bizonylat csak egy kifizetési kérelemhez számolható el.
 
-(6)[^37] A bizonylatra a kedvezményezettnek legkésőbb a kifizetési kérelem benyújtásának napján el nem távolítható módon rá kell írnia
+(6)[^38] A bizonylatra a kedvezményezettnek legkésőbb a kifizetési kérelem benyújtásának napján el nem távolítható módon rá kell írnia
 
 a) a támogatási határozat azonosító számát, és
 
@@ -52,4 +52,4 @@ d) az EHA rendelet 55. cikk (5) bekezdése szerinti kiadások.
 
 (11) Az EHA rendelet 80. cikkének megfelelően a kedvezményezettek az elszámolás során jóváhagyott támogatás teljes összegét megkapják. Nem alkalmazható olyan levonás, visszatartás (beleértve a köztartozást és az alapok közötti kompenzációt is) vagy bármilyen további külön díj vagy azzal megegyező hatású egyéb díj, amely csökkentené ezeket a kedvezményezettek számára kifizetendő összegeket.
 
-[^37]: A 11. § (6) bekezdése a 2/2014. (IX. 15.) MvM rendelet 8. §-ával megállapított szöveg.
+[^38]: A 11. § (6) bekezdése a 2/2014. (IX. 15.) MvM rendelet 8. §-ával megállapított szöveg.

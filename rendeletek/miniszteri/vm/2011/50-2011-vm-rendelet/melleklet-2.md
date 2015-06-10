@@ -88,6 +88,6 @@
 
 | 3.2. | Egyéb dokumentumok: árajánlatok |
 
-2. melléklet az 50/2011. (VI. 6.) VM rendelethez[^126]
+2. melléklet az 50/2011. (VI. 6.) VM rendelethez[^131]
 
-[^126]: A 2. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^131]: A 2. melléklet a 97/2012. (IX. 13.) VM rendelet 16. § (1) bekezdésével megállapított szöveg.

@@ -36,11 +36,13 @@ bb)[^33] április 1. és június 15.
 
 bc)[^34] július 15. és július 31.
 
+bd)[^35] szeptember 15. és szeptember 30.
+
 ## között lehet benyújtani.
 
-(7)[^35] Kifizetési kérelem 2015. július 31-ét követően nem nyújtható be.
+(7)[^36] Kifizetési kérelem 2015. szeptember 30-át követően nem nyújtható be.
 
-(8)[^36] A művelet elszámolásához benyújtott bizonylatok – a 11. § (4) bekezdésben foglaltak kivételével – nem lehetnek korábbiak a támogatási kérelem benyújtásának dátumánál.
+(8)[^37] A művelet elszámolásához benyújtott bizonylatok – a 11. § (4) bekezdésben foglaltak kivételével – nem lehetnek korábbiak a támogatási kérelem benyújtásának dátumánál.
 
 (9) A támogatási kérelem benyújtásának dátuma és a támogatási határozat jogerőre emelkedésének dátuma közötti teljesítésű bizonylatokkal az első kifizetési kérelemben el kell számolni.
 
@@ -51,5 +53,6 @@ bc)[^34] július 15. és július 31.
 [^32]: A 10. § (6) bekezdés b) pontja a 85/2013. (IX. 25.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^33]: A 10. § (6) bekezdés b) pont bb) alpontja a 2/2014. (IX. 15.) MvM rendelet 18. § a) pontja szerint módosított szöveg.
 [^34]: A 10. § (6) bekezdés b) pont bc) alpontját a 21/2015. (IV. 17.) MvM rendelet 20. § (1) bekezdése iktatta be.
-[^35]: A 10. § (7) bekezdése a 2/2014. (IX. 15.) MvM rendelet 7. §-ával megállapított, a 21/2015. (IV. 17.) MvM rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^36]: A 10. § (8) bekezdése a 86/2011. (IX. 1.) VM rendelet 1. §-ával megállapított szöveg.
+[^35]: A 10. § (6) bekezdés b) pont bd) alpontját a 28/2015. (VI. 9.) MvM rendelet 37. § (1) bekezdése iktatta be.
+[^36]: A 10. § (7) bekezdése a 2/2014. (IX. 15.) MvM rendelet 7. §-ával megállapított, a 28/2015. (VI. 9.) MvM rendelet 38. § a) pontja szerint módosított szöveg.
+[^37]: A 10. § (8) bekezdése a 86/2011. (IX. 1.) VM rendelet 1. §-ával megállapított szöveg.
