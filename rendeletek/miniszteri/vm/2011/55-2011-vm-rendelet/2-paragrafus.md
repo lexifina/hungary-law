@@ -2,7 +2,7 @@
 
 2. § (1) Vissza nem térítendő támogatás vehető igénybe
 
-a)[^4] intenzív ültetvény telepítéséhez és a korszerűsítés megvalósításának időtartamáig történő ápolásához (a továbbiakban: 1. célterület);
+a)[^5] intenzív ültetvény telepítéséhez és a korszerűsítés megvalósításának időtartamáig történő ápolásához (a továbbiakban: 1. célterület);
 
 b) az 1. mellékletben meghatározott követelményeknek való megfelelés érdekében a termőre fordulástól számítva a 12 évnél nem öregebb ültetvény
 
@@ -16,7 +16,7 @@ bd) támrendszerének kialakításához vagy átalakításához;
 
 be) korona szerkezetének átalakításához;
 
-bf)[^5] védelmének érdekében jégháló kiépítéséhez vagy bővítéséhez, illetve jégkárelhárító berendezés beszerzéséhez;
+bf)[^6] védelmének érdekében jégháló kiépítéséhez vagy bővítéséhez, illetve jégkárelhárító berendezés beszerzéséhez;
 
 bg) fagyvédelmét szolgáló berendezések beszerzéséhez;
 
@@ -32,7 +32,7 @@ cb) tápanyag-utánpótlási rendszerének kialakításához (a továbbiakban: 3
 
 (2) Az (1) bekezdés b) pont ba) alpontjában meghatározott tevékenység akkor támogatható, ha a régi és az új ültetvény együttesen elhelyezkedő ültetvényt alkot ugyanazon megyén belül vagy közvetlenül szomszédos megyébe (vagy hármas megyehatár esetén megyékbe) is átnyúlóan.
 
-(3)[^6] Ültetvény telepítése akkor támogatható, ha
+(3)[^7] Ültetvény telepítése akkor támogatható, ha
 
 a) a telepítés certifikált kategóriájú szaporítóanyaggal;
 
@@ -40,7 +40,7 @@ b) a 2. mellékletben szereplő csemegeszőlő fajták esetében a telepítés s
 
 c) a 6. mellékletben meghatározott fajták esetében a telepítés jó minőségű, ellenőrzött hazai vagy ennek hiányában külföldi CAC, vagy standard kategóriájú szaporítóanyaggal (spárgatelepítés esetén minősített vetőmagból előállított palántával)
 
-történik.
+## történik.
 
 (4) Támogatás vehető igénybe
 
@@ -60,6 +60,6 @@ b) a 3. célterület vonatkozásában olyan helyrajzi szám szerint meghatározo
 
 (7) Az ügyfél nem nyújthat be támogatási kérelmet akkor, ha az Európai Mezőgazdasági Vidékfejlesztési Alapból kertészeti ültetvények korszerűsítéséhez, korszerű ültetvények létesítéséhez nyújtandó támogatások részletes feltételeiről szóló 35/2010. (IV. 9.) FVM rendelet alapján korábban támogatási kérelmet nyújtott be, de szabálytalanságot állapítottak meg nála és emiatt a támogatási összeg több mint 30%-át visszavonták. Ez nem vonatkozik az önkéntes visszavonásra.
 
-[^4]: A 2. § (1) bekezdés a) pontja a 20/2012. (III. 7.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdés b) pont bf) alpontja a 20/2012. (III. 7.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § (3) bekezdése a 20/2012. (III. 7.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés a) pontja a 20/2012. (III. 7.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés b) pont bf) alpontja a 20/2012. (III. 7.) VM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (3) bekezdése a 20/2012. (III. 7.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.

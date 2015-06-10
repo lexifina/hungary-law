@@ -22,7 +22,7 @@ aa) jogerős telepítési engedélyt;
 
 ab) határozat másolatát, ha az ültetvénykivágás közigazgatási eljárás keretében történt;
 
-b)[^9] csemegeszőlő ültetvény esetén az a) pont aa) alpontjában előírt engedély helyett a Nemzeti Élelmiszerlánc-biztonsági Hivatal által kiadott jogerős telepítési engedélyt;
+b)[^10] csemegeszőlő ültetvény esetén az a) pont aa) alpontjában előírt engedély helyett a Nemzeti Élelmiszerlánc-biztonsági Hivatal által kiadott jogerős telepítési engedélyt;
 
 c) a támogatási kérelemben feltüntetett táblák határvonalait ábrázoló, a Mezőgazdasági Parcella Azonosító Rendszerről szóló 115/2003. (XI. 13.) FVM rendelet szerinti egyedi rajzzal ellátott az ügyfél regisztrációs számát tartalmazó blokktérképet;
 
@@ -88,4 +88,4 @@ c) a 6. § (4) bekezdés j) pont ja) alpontjában meghatározott dokumentum.
 
 (9) Az ügyfél nem nyújthat be támogatási kérelmet akkor, ha az Európai Mezőgazdasági Vidékfejlesztési Alapból kertészeti ültetvények korszerűsítéséhez, korszerű ültetvények létesítéséhez nyújtandó támogatások részletes feltételeiről szóló 35/2010. (IV. 9.) FVM rendelet alapján korábban támogatási kérelmet nyújtott be, de szabálytalanságot állapítottak meg nála és emiatt a támogatási összeg több mint 30%-át visszavonták. Ez nem vonatkozik az önkéntes visszavonásra.
 
-[^9]: A 6. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 133. §-a szerint módosított szöveg.
+[^10]: A 6. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 133. §-a szerint módosított szöveg.

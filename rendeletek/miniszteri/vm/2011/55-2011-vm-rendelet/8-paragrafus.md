@@ -2,9 +2,9 @@
 
 ## 7. Kifizetési kérelem
 
-8. § (1) A kifizetési kérelmet 2012-től évente az egységes kérelem keretében, valamint november 15.–december 15. között a megvalósított és május 15-ig az egységes kérelemben bejelentett ültetvényekre vonatkozóan lehet benyújtani az MVH-hoz.
+8. § (1)[^11] A kifizetési kérelmet 2012-től évente az egységes kérelem keretében, valamint november 15.–december 15. között a megvalósított és az egységes kérelemben bejelentett ültetvényekre vonatkozóan lehet benyújtani az MVH-hoz.
 
-(1a)[^10] Az utolsó kifizetési kérelmet 2015-ben az egységes kérelem részeként lehet benyújtani az MVH-hoz.
+(1a)[^12] Az utolsó kifizetési kérelmet 2015-ben az egységes kérelem részeként lehet benyújtani az MVH-hoz.
 
 (2) A kifizetési kérelemhez mellékelni kell a kérelemmel érintett ültetvények határvonalainak vázrajzát, külső töréspontjainak Egységes Országos Vetületi Rendszerben legalább 0,5 méter pontossággal megadott koordinátáinak feltüntetésével, valamint a mérésről szóló jegyzőkönyvnek a másolatát.
 
@@ -12,4 +12,5 @@
 
 (4) A kifizetési kérelemhez mellékelni kell az elszámolni kívánt számlák ügyfél által hitelesített másolatát.
 
-[^10]: A 8. § (1a) bekezdését az 1/2014. (IX. 15.) MvM rendelet 6. § (1) bekezdése iktatta be.
+[^11]: A 8. § (1) bekezdése a 28/2015. (VI. 9.) MvM rendelet 41. §-a szerint módosított szöveg.
+[^12]: A 8. § (1a) bekezdését az 1/2014. (IX. 15.) MvM rendelet 6. § (1) bekezdése iktatta be.
