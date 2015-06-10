@@ -2,6 +2,7 @@
 
 19. § (1)–(2)[^20]
 
-(3) Amennyiben az ügyfél a műveletet a 3. § (7) bekezdésében foglalt határidőig nem valósítja meg, úgy a Vhr. 35. § (9) bekezdése alkalmazásának van helye.
+(3)[^21]
 
 [^20]: A 19. § (1)–(2) bekezdését a 8/2014. (XI. 19.) MvM rendelet 17. § c) pontja hatályon kívül helyezte.
+[^21]: A 19. § (3) bekezdését a 28/2015. (VI. 9.) MvM rendelet 77. § b) pontja hatályon kívül helyezte.

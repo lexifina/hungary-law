@@ -10,7 +10,7 @@ ca) az adott pénzügyi évben, valamint
 
 cb) az előző két pénzügyi évben
 
-megítélt de minimis támogatásról szóló nyilatkozatot;
+## megítélt de minimis támogatásról szóló nyilatkozatot;
 
 d) természetes személy ügyfél esetében a lakcímet igazoló hatósági igazolvány egyszerű másolatát;
 
