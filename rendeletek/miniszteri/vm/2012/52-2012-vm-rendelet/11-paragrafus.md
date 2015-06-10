@@ -6,11 +6,11 @@ b) – ha a települési önkormányzat képviseletében a képviselőtestület 
 
 c) nonprofit szervezet ügyfél esetén a nyilvántartásba vételét igazoló, a támogatási kérelem benyújtási időpontjánál 30 napnál nem régebbi bírósági kivonatot;
 
-d)[^9] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
+d)[^10] bevett egyház és annak nyilvántartásba vett belső egyházi jogi személye esetén a nyilvántartásba vételéről szóló igazolást, nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolást;
 
 e) a Vhr. 27. § (1) bekezdés h) pontjában foglaltaknak megfelelő pénzügyi tervet, ha a kérelmezett támogatás összege az 5 000 000 forintot nem haladja meg;
 
-f)[^10] a Vhr. 27. § (1) bekezdés i) pontjában foglaltaknak megfelelően, ha a kérelmezett támogatás összege az 5 000 000 forintot meghaladja, a természetes személy, mikro-, kis- vagy középvállalkozás ügyfélnek pénzügyi és a 2. melléklet szerinti értékelési szempontokat tartalmazó üzleti tervet, a települési önkormányzat, települési nemzetiségi önkormányzat, önkormányzati társulás, egyházi jogi személy vagy nonprofit szervezet ügyfélnek pénzügyi és működtetési és fenntarthatósági tervet;
+f)[^11] a Vhr. 27. § (1) bekezdés i) pontjában foglaltaknak megfelelően, ha a kérelmezett támogatás összege az 5 000 000 forintot meghaladja, a természetes személy, mikro-, kis- vagy középvállalkozás ügyfélnek pénzügyi és a 2. melléklet szerinti értékelési szempontokat tartalmazó üzleti tervet, a települési önkormányzat, települési nemzetiségi önkormányzat, önkormányzati társulás, egyházi jogi személy vagy nonprofit szervezet ügyfélnek pénzügyi és működtetési és fenntarthatósági tervet;
 
 g) vadászatra jogosult ügyfél esetén a megyei kormányhivatal földművelésügyi igazgatósága által kiadott, az ügyfélnek az üzemeltetési kötelezettség időtartama alatt fennálló jogosultságáról szóló határozat másolatát;
 
@@ -56,5 +56,5 @@ bb) az ügyfél nevére szóló, a tervezői névjegyzékben szereplő tervező 
 
 (4) Ha az ügyfél az (1) és (3) bekezdésben meghatározott bármely dokumentumot a kérelem benyújtására nyitva álló határidőn belül nem nyújtja be vagy hiányosan nyújtja be, hiánypótlásnak nincs helye, és amennyiben annak a Törvényben foglalt feltételei fennállnak, a kérelem érdemi vizsgálat nélkül végzéssel elutasításra kerül.
 
-[^9]: A 11. § (1) bekezdés d) pontja a 121/2013. (XII. 16.) VM rendelet 24. § (2) bekezdésével megállapított szöveg.
-[^10]: A 11. § (1) bekezdés f) pontja a 121/2013. (XII. 16.) VM rendelet 24. § (5) bekezdése szerint módosított szöveg.
+[^10]: A 11. § (1) bekezdés d) pontja a 121/2013. (XII. 16.) VM rendelet 24. § (2) bekezdésével megállapított szöveg.
+[^11]: A 11. § (1) bekezdés f) pontja a 121/2013. (XII. 16.) VM rendelet 24. § (5) bekezdése szerint módosított szöveg.

@@ -50,9 +50,9 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 (13)[^6] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfélnek a műveletet 2015. május 31-ig kell megvalósítania.
 
-(14) A Vhr. 24. § (1) bekezdésében foglaltaktól eltérően az ügyfél a helyt adó vagy részben helyt adó támogatási határozat közlésétől számított hat hónapon belül köteles kifizetési kérelmet benyújtani, amellyel legalább 10%-os mértékben az ügyfél olyan kiadást is el kíván számolni, amely nem minősül egyéb elszámolható kiadásnak.
+(14)[^7]
 
-(15)[^7]
+(15)[^8]
 
 (16) Jelen rendelet alkalmazása során nem kell vizsgálni a Vhr. 7. § (2) bekezdésében meghatározottak szerinti rendezett munkaügyi kapcsolatok feltételeinek fennállását.
 
@@ -60,4 +60,5 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 [^5]: A 9. § (10) bekezdése a 126/2012. (XII. 12.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
 [^6]: A 9. § (13) bekezdése a 7/2015. (II. 17.) MvM rendelet 57. § (1) bekezdésével megállapított szöveg.
-[^7]: A 9. § (15) bekezdését az 1/2014. (IX. 15.) MvM rendelet 18. §-a hatályon kívül helyezte.
+[^7]: A 9. § (14) bekezdését a 28/2015. (VI. 9.) MvM rendelet 56. § a) pontja hatályon kívül helyezte.
+[^8]: A 9. § (15) bekezdését az 1/2014. (IX. 15.) MvM rendelet 18. §-a hatályon kívül helyezte.
