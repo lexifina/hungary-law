@@ -1,7 +1,5 @@
 ## Értékelés
 
-## 2K06017M_0
-
 |  | A | B | C | D |
 
 | 1. | Értékelési szempont megnevezése | Értékelés/Ellenőrzés módja | Pontszám |

@@ -1,4 +1,4 @@
-## 8/B. §[^5] Az utolsó kifizetési kérelmet legkésőbb 2015. május 31-ig be kell nyújtani.
+## 8/B. §[^8] Az utolsó kifizetési kérelmet legkésőbb 2015. május 31-ig be kell nyújtani.
 
 ## 8. Jogkövetkezmények
 
@@ -6,9 +6,9 @@
 
 (2) Ha a nyilatkozattal alátámasztott pontozási szempontok ellenőrzése során kiderül, hogy az ügyfél nem valós adatot szolgáltatott, akkor az az intézkedésben való jogosulatlan részvételnek minősül.
 
-(3)[^6] Amennyiben az ügyfél a támogatási kérelemben vállalt, a pontozási szempontok közt feltüntetett munkavállalói létszámnál kevesebbet foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor köteles a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-át, de legfeljebb 300 000 forintot intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
+(3)[^9] Amennyiben az ügyfél a támogatási kérelemben vállalt, a pontozási szempontok közt feltüntetett munkavállalói létszámnál kevesebbet foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor köteles a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-át, de legfeljebb 300 000 forintot intézkedésben való jogosulatlan részvétel jogcímén visszafizetni.
 
-(4)[^7]
+(4)[^10]
 
 (5) Ha az ügyfél a 3. § (4) bekezdésében meghatározott képzési kötelezettségének nem tesz eleget, vagy a képzésben való részvételt nem igazolja legkésőbb az utolsó kifizetési kérelem benyújtásáig, a támogatási határozattal jóváhagyott összeget 20%-kal csökkenteni kell, kivéve, ha a támogatási határozat közlését követő 30. nap és az utolsó kifizetési kérelem benyújtási időszak első napját megelőző 30. nap közötti időszakban nem volt képzés.
 
@@ -24,8 +24,9 @@
 
 (11) Nem kell alkalmazni a Vhr. 33. § (4) bekezdésében foglaltakat.
 
-(12) A 3. § (6) bekezdésében foglalt rendelkezés megsértése esetén az MVH – amennyiben kifizetési kérelem alapján eljárás van folyamatban, úgy a kérelmet határozattal elutasítja – külön határozatban a támogatási határozatát visszavonja, ezzel egyidejűleg megállapítja, hogy az ügyfél támogatáshoz való jogosultsága megszűnik, továbbá az ügyfél által igénybevett támogatás jogosulatlanul igénybe vett támogatásnak minősül. Az MVH a támogatási határozatot visszavonó és támogatáshoz való jogosultság megszűnését megállapító határozatában rendelkezik továbbá arról, hogy az ügyfél a határozat jogerőre emelkedését követő három évig a 2007–2013-as időszakban az EMVA társfinanszírozásában nem terület- és állatlétszám alapú támogatásokra nem nyújthat be támogatási kérelmet, illetve pályázatot, továbbá a már benyújtott, de jogerős döntéssel még el nem bírált pályázata, illetve támogatási kérelme elutasításra kerül.
+(12)[^11]
 
-[^5]: A 8/B. §-t az 1/2014. (IX. 15.) MvM rendelet 7. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 42. § (1) bekezdésével megállapított szöveg.
-[^6]: A 9. § (3) bekezdése a 7/2015. (II. 17.) MvM rendelet 42. § (2) bekezdésével megállapított szöveg.
-[^7]: A 9. § (4) bekezdését a 7/2015. (II. 17.) MvM rendelet 44. §-a hatályon kívül helyezte.
+[^8]: A 8/B. §-t az 1/2014. (IX. 15.) MvM rendelet 7. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^9]: A 9. § (3) bekezdése a 7/2015. (II. 17.) MvM rendelet 42. § (2) bekezdésével megállapított szöveg.
+[^10]: A 9. § (4) bekezdését a 7/2015. (II. 17.) MvM rendelet 44. §-a hatályon kívül helyezte.
+[^11]: A 9. § (12) bekezdését a 28/2015. (VI. 9.) MvM rendelet 46. § b) pontja hatályon kívül helyezte.
