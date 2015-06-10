@@ -12,12 +12,12 @@ c) a gyepek túllegeltetése.
 
 (3) Gyeptelepítés esetében legeltetni csak a második évtől kezdődően lehet.
 
-(4)[^19] A legeltethető állatfajok a következők: szarvasmarhafélék (szarvasmarha, bölény, bivaly), juh, ló, szamár és öszvér.
+(4)[^20] A legeltethető állatfajok a következők: szarvasmarhafélék (szarvasmarha, bölény, bivaly), juh, ló, szamár és öszvér.
 
-(5)[^20] A területen található összes idős, méretes fát meg kell hagyni, kivéve, ha az az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény végrehajtásáról szóló miniszteri rendeletben meghatározott idegenhonos, vagy intenzíven terjedő fafajnak minősül.
+(5)[^21] A területen található összes idős, méretes fát meg kell hagyni, kivéve, ha az az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény végrehajtásáról szóló miniszteri rendeletben meghatározott idegenhonos, vagy intenzíven terjedő fafajnak minősül.
 
-(6)[^21]
+(6)[^22]
 
-[^19]: A 7. § (4) bekezdése a 21/2010. (III. 16.) FVM rendelet 5. §-ával megállapított szöveg.
-[^20]: A 7. § (5) bekezdése a 46/2010. (XII. 31.) VM rendelet 3. §-ával megállapított szöveg.
-[^21]: A 7. § (6) bekezdését a 21/2010. (III. 16.) FVM rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^20]: A 7. § (4) bekezdése a 21/2010. (III. 16.) FVM rendelet 5. §-ával megállapított szöveg.
+[^21]: A 7. § (5) bekezdése a 46/2010. (XII. 31.) VM rendelet 3. §-ával megállapított szöveg.
+[^22]: A 7. § (6) bekezdését a 21/2010. (III. 16.) FVM rendelet 13. § (1) bekezdése hatályon kívül helyezte.

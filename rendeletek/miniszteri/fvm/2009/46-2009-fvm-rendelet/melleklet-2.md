@@ -18,7 +18,7 @@
 
 | A származási igazolások eredeti példányai nem kerültek megőrzésre. |  |  | X |
 
-| 7. | 6. § (1) bekezdése | A támogatásra jogosult köteles a gyep, illetve a fák telepítését legkésőbb a támogatási határozat jogerőre emelkedését követő második év május 15-éig megvalósítani. | A telepítések határidőre nem történtek meg. |  |  | X |
+| 7. | 6. § (1) bekezdése | A támogatásra jogosult köteles a gyep, illetve a fák telepítését legkésőbb a támogatási határozat jogerőre emelkedését követő második évben, az egységes kérelem benyújtásának határidejéig megvalósítani. | A telepítések határidőre nem történtek meg. |  |  | X |
 
 | 8. | 6. § (2) bekezdés a) pontja | Kizárólag a 3. és a 4. számú mellékletében felsorolt fafajok telepíthetők. | Tiltott fafaj, illetve fa is telepítésre kerültek a területen, de azok együttes elegyaránya nem haladta meg az 5%-ot. |  | X |  |
 
@@ -76,6 +76,6 @@
 
 | 24. | 10. § (2) bekezdése | A telepítésnél felhasznált erdészeti fafajok és a tájjellegű gyümölcsfa fajták származását tanúsító igazolások másolati példányait a kifizetési kérelem benyújtásával egyidejűleg meg kell küldeni az érintett földterület elhelyezkedése szerint illetékes erdészeti hatósághoz. | A származást tanúsító igazolások nem, vagy nem teljes körűen kerültek megküldésre az erdészeti hatóság részére. |  |  | X |
 
-2. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez[^42]
+2. számú melléklet a 46/2009. (IV. 16.) FVM rendelethez[^45]
 
-[^42]: A 2. számú melléklet a 21/2010. (III. 16.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^45]: A 2. számú melléklet a 21/2010. (III. 16.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg.
