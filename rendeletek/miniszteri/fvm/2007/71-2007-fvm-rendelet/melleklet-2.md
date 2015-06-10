@@ -16,7 +16,7 @@
 
 ## VT – vegetatív úton történő terjeszkedés, I – igen, N – nem.
 
-2. számú melléklet a 71/2007. (VII. 27.) FVM rendelethez[^42]
+2. számú melléklet a 71/2007. (VII. 27.) FVM rendelethez[^45]
 
 Értékelés
 
@@ -154,4 +154,4 @@ An – az értékelési szempontnak megfelelő adott terület hektárban kifej
 
 7. Ha a telepítéssel érintett terület szerinti településen, illetve az ügyfél lakhelyén, székhelyén nincs cigány kisebbségi önkormányzat, akkor az országos, vagy a településhez legközelebbi cigány önkormányzat nyilatkozata alapján értékelhető a szempont.
 
-[^42]: A 2. számú melléklet a 133/2007. (XI. 13.) FVM rendelet 6. § (2) bekezdése, a 49/2009. (IV. 16.) FVM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. április 19-ét követően benyújtott kérelmek esetében lehet alkalmazni.
+[^45]: A 2. számú melléklet a 133/2007. (XI. 13.) FVM rendelet 6. § (2) bekezdése, a 49/2009. (IV. 16.) FVM rendelet 8. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a 2009. április 19-ét követően benyújtott kérelmek esetében lehet alkalmazni.
