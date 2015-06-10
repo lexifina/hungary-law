@@ -12,7 +12,7 @@ d) a nonprofit szervezet, és
 
 e) az egyházi jogi személy
 
-[az a)–e) pont a továbbiakban együtt: ügyfél].
+## [az a)–e) pont a továbbiakban együtt: ügyfél].
 
 (2) Az ügyfél abban az esetben jogosult támogatási kérelem benyújtására, amennyiben a mezőgazdasági tevékenységéből származó árbevétele az 50%-ot nem érte el a 2011. és 2012. évben.
 
@@ -26,6 +26,7 @@ e) az egyházi jogi személy
 
 (7) A 2. § (1) bekezdés d) pont dc) alpontjában meghatározott célterületre irányuló fejlesztés esetén a támogatás igénybevételére az az ügyfél jogosult, aki a fejlesztéssel érintett területen vadászatra jogosult.
 
-(8) E rendelet vonatkozásában nem alkalmazandóak a Vhr. 7. § (2) bekezdésében, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 15. § (1) bekezdés b) pontjában, 17. § (2) bekezdésében, 24. §-ában, 25. § (2) bekezdésében, 27. § (1) bekezdés e)–f) pontjaiban, 33. § (4) bekezdésében, valamint 35. § (5) bekezdésében foglalt rendelkezések.
+(8)[^2] E rendelet vonatkozásában nem alkalmazandóak a Vhr. 7. § (2) bekezdésében, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 15. § (1) bekezdés b) pontjában, 17. § (2) bekezdésében, 25. § (2) bekezdésében, 27. § (1) bekezdés e)–f) pontjaiban, 33. § (4) bekezdésében, valamint 35. § (5) bekezdésében foglalt rendelkezések.
 
 [^1]: Az 5. § (4) bekezdése a 121/2013. (XII. 16.) VM rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 5. § (8) bekezdése a 28/2015. (VI. 9.) MvM rendelet 90. § a) pontja szerint módosított szöveg.

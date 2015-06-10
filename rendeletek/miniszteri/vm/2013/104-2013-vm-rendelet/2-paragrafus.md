@@ -24,7 +24,7 @@ df) vízi turizmushoz,
 
 dg) borturizmushoz
 
-kapcsolódó épület, építmény kialakításához, bővítéséhez, átalakításához és eszközrendszer fejlesztéséhez (4. célterület).
+## kapcsolódó épület, építmény kialakításához, bővítéséhez, átalakításához és eszközrendszer fejlesztéséhez (4. célterület).
 
 (2) E rendelet alapján nem igényelhető támogatás
 
