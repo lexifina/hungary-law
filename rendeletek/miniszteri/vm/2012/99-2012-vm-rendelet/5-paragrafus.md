@@ -42,6 +42,6 @@ b) a képzés témáját, időpontját, időtartamát, és
 
 c) a képzési órák számát.
 
-(9)[^13] E rendelet szerinti intézkedés vonatkozásában a Vhr. 15. § (1) bekezdés b) pontja nem alkalmazandó.
+(9)[^14] E rendelet szerinti intézkedés vonatkozásában a Vhr. 15. § (1) bekezdés b) pontja nem alkalmazandó.
 
-[^13]: Az 5. § (9) bekezdését a 130/2013. (XII. 21.) VM rendelet 39. §-a iktatta be.
+[^14]: Az 5. § (9) bekezdését a 130/2013. (XII. 21.) VM rendelet 39. §-a iktatta be.

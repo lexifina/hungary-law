@@ -2,15 +2,15 @@
 
 ## 7. A kifizetési kérelem benyújtása
 
-11. § (1)[^32] A kifizetési kérelmet elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani. A kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
+11. § (1)[^33] A kifizetési kérelmet elektronikus űrlapkitöltő szolgáltatás segítségével előállított elektronikus űrlapon, ügyfélkapun keresztül kell benyújtani a Vhr. 16/B. § (1) bekezdésében megjelölt időszakban a Vhr. 16/B. § (2) és (2a) bekezdésével összhangban. A kérelemhez csatolandó dokumentumokat szkennelés útján előállított formában kell csatolni a kérelemhez.
 
-(2)[^33] E rendelet szerinti intézkedés vonatkozásában a Vhr. 17. § (2) bekezdése és 24. § (1) bekezdése nem alkalmazandó.
+(2)[^34] E rendelet szerinti intézkedés vonatkozásában a Vhr. 17. § (2) bekezdése nem alkalmazandó.
 
-(3)[^34] Természetes személy ügyfél esetén az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolatát.
+(3)[^35] Természetes személy ügyfél esetén az első kifizetési kérelemhez csatolni kell az adóbejelentkezési lap másolatát.
 
-(4)[^35] Az ügyfélnek az utolsó kifizetési kérelmet legkésőbb 2015. augusztus 31. napjáig kell benyújtania.
+(4)[^36] Az ügyfélnek az utolsó kifizetési kérelmet legkésőbb 2015. augusztus 31. napjáig kell benyújtania.
 
-[^32]: A 11. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 15. §-ával megállapított szöveg.
-[^33]: A 11. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 6. §-ával megállapított szöveg.
-[^34]: A 11. § (3) bekezdését a 93/2013. (X. 10.) VM rendelet 6. §-a iktatta be.
-[^35]: A 11. § (4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 20. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 63. § (2) bekezdésével megállapított szöveg.
+[^33]: A 11. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 15. §-ával megállapított, a 28/2015. (VI. 9.) MvM rendelet 61. § b) pontja szerint módosított szöveg.
+[^34]: A 11. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 6. §-ával megállapított, a 28/2015. (VI. 9.) MvM rendelet 62. § b) pontja szerint módosított szöveg.
+[^35]: A 11. § (3) bekezdését a 93/2013. (X. 10.) VM rendelet 6. §-a iktatta be.
+[^36]: A 11. § (4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 20. § (2) bekezdése iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 63. § (2) bekezdésével megállapított szöveg.
