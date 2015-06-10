@@ -16,8 +16,8 @@ f) elismert piaci szereplő: az 1782/2003/EK tanácsi rendelet IV. és IVa. cím
 
 g) kedvezőtlen adottságú terület: az Európai Mezőgazdasági Orientációs és Garancia Alapból nyújtandó vidékfejlesztési támogatásokról, valamint egyes rendeletek módosításáról, illetve hatályon kívül helyezéséről szóló 1257/1999/EK tanácsi rendelet 19. cikke, valamint 20. cikke alapján az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások esetében a kedvezőtlen adottságú területek és az azokhoz kapcsolódó települések megállapításáról szóló 24/2007. (IV. 17.) FVM rendelet alapján meghatározott kedvezőtlen adottságú terület;
 
-h)[^1] tábla: az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló 36/2009. (IV. 3) FVM rendelet (a továbbiakban: egységes kérelem rendelet) 1. §-ának 3. pontjában meghatározottak szerint.
+h)[^2] tábla: az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló 36/2009. (IV. 3) FVM rendelet (a továbbiakban: egységes kérelem rendelet) 1. §-ának 3. pontjában meghatározottak szerint.
 
 (2) Az e rendeletben nem meghatározott fogalmakra az Európai Mezőgazdasági és Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet (a továbbiakban: Vhr.) 3. §-a az irányadó, valamint az engedélyezési R.-ben foglaltakat megfelelően kell alkalmazni.
 
-[^1]: A 2. § (1) bekezdés h) pontját a 48/2009. (IV. 16.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^2]: A 2. § (1) bekezdés h) pontját a 48/2009. (IV. 16.) FVM rendelet 1. §-a iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. április 19. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.

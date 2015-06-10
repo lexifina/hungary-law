@@ -1,0 +1,3 @@
+## 11. §[^34] E rendeletnek az egyes vidékfejlesztési támogatásokkal kapcsolatos miniszteri rendeleteknek a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosításáról szóló 2008. évi CXI. törvény hatálybalépésével, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv átültetésével összefüggő módosításáról szóló 23/2010. (III. 16.) FVM rendelet 10. §-ával megállapított rendelkezéseit a 2010. március 1-jét követően benyújtott támogatási kérelem alapján indult eljárásban is alkalmazni kell.
+
+[^34]: A 11. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 15. pontja hatályon kívül helyezte, újonnan a 23/2010. (III. 16.) FVM rendelet 10. § (5) bekezdése iktatta be.
