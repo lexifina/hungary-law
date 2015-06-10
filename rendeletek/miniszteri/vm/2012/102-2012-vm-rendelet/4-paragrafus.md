@@ -1,6 +1,6 @@
 ## 4. Támogatás igénybevételének feltételei
 
-4. § (1)[^9] Támogatásra jogosult az 1. § 27. pontjában meghatározott ügyfél.
+4. § (1)[^10] Támogatásra jogosult az 1. § 27. pontjában meghatározott ügyfél.
 
 (2) Az 6. melléklet szerinti településen működő, valamint székhellyel vagy telephellyel rendelkező ügyfél esetén csak a település külterületén megvalósuló fejlesztés támogatható.
 
@@ -52,16 +52,17 @@ e) az együttműködő partnerek vállalt kötelezettségeit, és
 
 f) az együttműködő partnerek cégszerű aláírását.
 
-(12)[^10] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfél köteles a támogatási határozattal jóváhagyott műveletet 2015. május 31. napjáig megvalósítani.
+(12)[^11] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfél köteles a támogatási határozattal jóváhagyott műveletet 2015. június 30. napjáig megvalósítani.
 
-(13) A Vhr. 24. § (1) bekezdésében foglaltaktól eltérően az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles az első kifizetési kérelmet benyújtani és a támogatási határozatban jóváhagyott – és a támogatási határozattal jóváhagyott egyéb elszámolható kiadások összegével csökkentett – támogatási összeg legalább 10%-ával elszámolni.
+(13)[^12]
 
-(14)[^11]
+(14)[^13]
 
 (15) Jelen rendelet alkalmazása során nem kell vizsgálni a Vhr. 7. § (2) bekezdésében meghatározottak szerinti rendezett munkaügyi kapcsolatok feltételeinek fennállását.
 
 (16) Az e rendelet alapján nyújtott támogatások tekintetében a Vhr. 33. § (4) bekezdésében foglaltak nem alkalmazandóak.
 
-[^9]: A 4. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^10]: A 4. § (12) bekezdése az 1/2014. (IX. 15.) MvM rendelet 21. § (1) bekezdésével megállapított, a 7/2015. (II. 17.) MvM rendelet 65. §-a szerint módosított szöveg.
-[^11]: A 4. § (14) bekezdését az 1/2014. (IX. 15.) MvM rendelet 22. §-a hatályon kívül helyezte.
+[^10]: A 4. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 4. § (12) bekezdése az 1/2014. (IX. 15.) MvM rendelet 21. § (1) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 64. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § (13) bekezdését a 28/2015. (VI. 9.) MvM rendelet 65. §-a hatályon kívül helyezte.
+[^13]: A 4. § (14) bekezdését az 1/2014. (IX. 15.) MvM rendelet 22. §-a hatályon kívül helyezte.

@@ -48,17 +48,18 @@
 
 23.[^3] nonprofit szervezet: az egyesületként, az alapítványként, a közalapítványként, a nonprofit gazdasági társaságként és a közhasznú tevékenységet ellátó szociális szövetkezetként működő szervezet, kivéve a biztosító egyesületet, a politikai pártot és a munkáltatói és munkavállalói érdekképviseleti szervezetet;
 
-24. országos védelem alatt álló építmény: a kulturális örökség védelméről szóló törvény szerint meghatározott műemlék, továbbá műemléki jelentőségű területen, műemléki környezetben, történeti táj területén álló építmény;
+24.[^4] országos védelem alatt álló építmény: a kulturális örökség védelméről szóló törvény szerint meghatározott kulturális örökség;
 
 25. önkormányzati bérlakás: helyi önkormányzat tulajdonában lévő lakás, szükséglakás, szolgálati lakás;
 
 26. zöldterület: az OTÉK 1. számú melléklet 113. pontja szerint telek zöldfelületeként meghatározott fogalom;
 
-27.[^4] ügyfél: az 5. vagy 6. melléklet szerinti településen működő települési önkormányzat, települési nemzetiségi önkormányzat, önkormányzati társulás, amelynek a fejlesztéssel érintett település a tagja, továbbá székhellyel vagy telephellyel rendelkező nonprofit szervezet, valamint egyházi jogi személy, aki beruházást valósít meg az 5. melléklet szerinti településen, vagy a 6. melléklet szerinti település külterületén;
+27.[^5] ügyfél: az 5. vagy 6. melléklet szerinti településen működő települési önkormányzat, települési nemzetiségi önkormányzat, önkormányzati társulás, amelynek a fejlesztéssel érintett település a tagja, továbbá székhellyel vagy telephellyel rendelkező nonprofit szervezet, valamint egyházi jogi személy, aki beruházást valósít meg az 5. melléklet szerinti településen, vagy a 6. melléklet szerinti település külterületén;
 
 28. szilárd burkolatú út: a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 1. számú melléklet 1. cím t) pontja alapján olyan út, amelynek úttestje szabályosan lerakott kő vagy műkő, vagy beton, vagy aszfalt burkolattal rendelkezik.
 
 [^1]: Az 1. § 7. pontját a 121/2013. (XII. 16.) VM rendelet 27. § (5) bekezdése hatályon kívül helyezte.
 [^2]: Az 1. § 8. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § 23. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^4]: Az 1. § 27. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés c) pontja, a 121/2013. (XII. 16.) VM rendelet 27. § (4) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § 24. pontja a 28/2015. (VI. 9.) MvM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 27. pontja a 113/2012. (XI. 9.) VM rendelet 2. § (7) bekezdés c) pontja, a 121/2013. (XII. 16.) VM rendelet 27. § (4) bekezdése szerint módosított szöveg.

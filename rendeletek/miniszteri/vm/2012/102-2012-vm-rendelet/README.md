@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-102-20-
 | 2013-12-17 | 2012-102-20-2Y.7 | 121/2013. (XII. 16.) VM rendelet |
 | 2014-09-16 | 2012-102-20-2Y.8 | 1/2014. (IX. 15.) MvM rendelet |
 | 2015-02-17 | 2012-102-20-2Y.9 | 7/2015. (II. 17.) MvM rendelet |
+| 2015-06-10 | 2012-102-20-2Y.10 | 28/2015. (VI. 9.) MvM rendelet |

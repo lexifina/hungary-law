@@ -1,6 +1,6 @@
 ## 11. § Ez a rendelet az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 52. cikk b) pontja ii. alpontjának végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 102/2012. (X. 1.) VM rendelethez[^27]
+1. melléklet a 102/2012. (X. 1.) VM rendelethez[^32]
 
 Értékelési szempontok
 
@@ -51,8 +51,6 @@
 | 21. | Vasi Őrtorony Közhasznú Egyesület |
 
 | 22. | Zselici Lámpások Vidékfejlesztési Egyesület |
-
-2K25071M_1
 
 |  | A | B | C |
 
@@ -500,8 +498,6 @@
 
 1.23. A ˝BAKONYÉRT˝ Vidékfejlesztési Akciócsoport Egyesület
 
-2K25071M_3
-
 |  | A | B | C |
 
 | 1 | 1. célterület |
@@ -868,8 +864,6 @@
 
 | 182 | Nem foglalkoztat a fenti kritériumoknak megfelelő munkavállalót vagy csökken a foglalkoztatotti létszám |  | 3 pont |
 
-2K25071M_4
-
 | 183 | 4. Legalább 2, közösségformáló, kulturális vagy társadalmi befogadást erősítő program megvalósítása roma származású fiatalok számára a projekt helyszínén | Együttműködési megállapodás nonprofit szervezettel, amelynek célja a roma fiatalok bevonása a közösségi életbe vagy a roma nemzetiségi önkormányzattal |  |
 
 | 184 | Igen |  | 5 pont |
@@ -949,8 +943,6 @@
 | Az ügyfél által elérhető maximális pontszám: |  | 145 pont |
 
 1.24. A Vásárhelyi Vidék Jövőjéért Egyesület
-
-2K25071M_6
 
 |  | A | B | C |
 
@@ -1398,8 +1390,6 @@
 
 1.25. Alpokalja-Ikvamente Leader Egyesület
 
-2K25071M_8
-
 |  | A | B | C |
 
 | 1 | 1. célterület |
@@ -1845,8 +1835,6 @@
 | Az ügyfél által elérhető maximális pontszám: |  | 145 pont |
 
 1.26. Alsó-Tisza Vidék Fejlesztéséért Egyesület
-
-2K25071M_10
 
 |  | A | B | C |
 
@@ -2294,8 +2282,6 @@
 
 1.27. Bakonyalja-Kisalföld kapuja Vidékfejlesztési Egyesület
 
-2K25071M_12
-
 |  | A | B | C |
 
 | 1 | 1. célterület |
@@ -2741,8 +2727,6 @@
 | Az ügyfél által elérhető maximális pontszám: |  | 145 pont |
 
 1.28. Balatongyöngye Vidékfejlesztési Egyesület
-
-2K25071M_14
 
 |  | A | B | C |
 
@@ -3190,8 +3174,6 @@
 
 1.29. Bihar-Sárrét Vidékfejlesztési Egyesület
 
-2K25071M_16
-
 |  | A | B | C |
 
 | 1 | 1. célterület |
@@ -3637,8 +3619,6 @@
 | Az ügyfél által elérhető maximális pontszám: |  | 145 pont |
 
 1.30. Börzsöny-Duna-Ipoly Vidékfejlesztési Egyesület
-
-2K25071M_18
 
 |  | A | B | C |
 
@@ -4090,4 +4070,4 @@
 
 1.31. Bükk-Térségi LEADER Egyesület
 
-[^27]: Az 1. melléklet a 113/2012. (XI. 9.) VM rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^32]: Az 1. melléklet a 113/2012. (XI. 9.) VM rendelet 2. § (3) bekezdése szerint módosított szöveg.
