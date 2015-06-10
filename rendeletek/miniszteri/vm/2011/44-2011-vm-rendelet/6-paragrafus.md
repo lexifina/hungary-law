@@ -12,7 +12,7 @@ d) a nonprofit szervezet, és
 
 e) a Magyar Köztársaság 2011. évi költségvetéséről szóló 2010. évi CLXIX. törvény 42. § (2) bekezdése alapján kiegészítő támogatásra jogosult egyházi jogi személy.
 
-[az a)–e) pont a továbbiakban együtt: ügyfél].
+## [az a)–e) pont a továbbiakban együtt: ügyfél].
 
 (2) A 2. § (1) bekezdés d) pont dc) alpontjában meghatározott célterületre irányuló fejlesztés esetén a támogatás igénybevételére az az ügyfél jogosult, aki a fejlesztéssel érintett területen vadászatra jogosult.
 

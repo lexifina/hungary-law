@@ -27,5 +27,3 @@ a) legalább „B” kategóriájú gyermek- és ifjúsági tábor,
 b) legalább „B” kategóriájú gyermek- és ifjúsági táborban telepített sátortábor vagy
 
 c) „A” kategóriájú turistaház
-
-fejlesztése, kialakítása támogatható.

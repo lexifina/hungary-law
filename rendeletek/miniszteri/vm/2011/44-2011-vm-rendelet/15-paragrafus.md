@@ -20,7 +20,7 @@ g) a megvalósult fejlesztésre vonatkozó információkat,
 
 h) az ügyfél nyilatkozatát a vonatkozó feltételek megismeréséről és tudomásulvételéről
 
-tartalmazza.
+## tartalmazza.
 
 (3) Az utolsó kifizetési kérelemhez mellékelni kell
 
@@ -32,7 +32,10 @@ c) a 2. § (1) bekezdés d) pont db) alpontjában meghatározott fejlesztések e
 
 d) a turisztikai szakmai szervezeti tagság igazolását.
 
-(4)[^6] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmet.
+(4)[^6] A Vhr. 17. § (2) bekezdésétől eltérően ugyanazon támogatási határozathoz kapcsolódóan az ügyfél az első kifizetési kérelem benyújtását követően – az utolsó kifizetési kérelmet kivéve – háromhavonta nyújthat be kifizetési kérelmet.
+
+(5)[^7] Amennyiben az ügyfél a (3) bekezdésben meghatározott valamely okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást ennek benyújtásáig, de legkésőbb 2015. szeptember 30-ig felfüggeszti. 2015. szeptember 30. napját követően a (3) bekezdésben meghatározott bármely okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
 
 [^5]: A 15. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte.
-[^6]: A 15. § (4) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 18. § (2) bekezdése iktatta be.
+[^6]: A 15. § (4) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés j) pontja hatályon kívül helyezte, újonnan a 121/2013. (XII. 16.) VM rendelet 18. § (2) bekezdése iktatta be, szövege a 28/2015. (VI. 9.) MvM rendelet 36. §-a szerint módosított szöveg.
+[^7]: A 15. § (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet 35. § (1) bekezdése iktatta be.

@@ -22,7 +22,7 @@ df) vízi turizmushoz,
 
 dg) borturizmushoz
 
-kapcsolódó infrastruktúra és eszközrendszer fejlesztéséhez (4. célterület).
+## kapcsolódó infrastruktúra és eszközrendszer fejlesztéséhez (4. célterület).
 
 (2) E rendelet alapján nem igényelhető támogatás
 
