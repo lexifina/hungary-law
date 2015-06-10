@@ -1,6 +1,6 @@
 ## 10. Jogkövetkezmények
 
-10. § (1)[^24] Ha a Bemutató Üzem
+10. § (1)[^28] Ha a Bemutató Üzem
 
 a) az 5. § (2) bekezdés c) pontja szerinti feltételeket nem teljesíti, akkor az adott résztvevőre vonatkozóan nem jogosult támogatásra,
 
@@ -18,4 +18,7 @@ c) 100%-ot meghaladó mértékben teljesíti, akkor a támogatási összeg 100%-
 
 (4) Amennyiben a Bemutató Üzem a 9. § (6) bekezdésében foglalt előírást megsérti, az adott támogatási kérelemre vonatkozóan támogatási jogosultsága megszűnik.
 
-[^24]: A 10. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 17. § (3) bekezdésével megállapított szöveg.
+(5)[^29] Ha a Bemutató Üzem a 3. § (5) bekezdés c) pontja szerinti feltételt nem teljesíti, az adott tétel vonatkozásában nem jogosult támogatásra.
+
+[^28]: A 10. § (1) bekezdése a 12/2014. (XII. 30.) MvM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^29]: A 10. § (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet 82. § (2) bekezdése iktatta be.

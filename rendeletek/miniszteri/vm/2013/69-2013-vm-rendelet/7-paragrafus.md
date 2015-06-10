@@ -2,7 +2,7 @@
 
 7. § (1) A támogatási kérelmet az MVH által rendszeresített és honlapján közzétett formanyomtatványon, postai úton az ügyfél székhelye szerint illetékes MVH kirendeltséghez kell benyújtani.
 
-(2)[^16] A támogatási kérelmek benyújtása folyamatosan történik
+(2)[^19] A támogatási kérelmek benyújtása folyamatosan történik
 
 a) az első projektterv teljesítési időszakára vonatkozóan 2013. szeptember 1-jétől 2014. május 15-ig, és
 
@@ -18,19 +18,19 @@ ba) projekttervben meghatározott kódszámai és
 
 bb) költsége.
 
-(4)[^17]
+(4)[^20]
 
 (5) Egy jóváhagyott projekttervre vonatkozóan az ügyfél csak egy támogatási kérelmet nyújthat be.
 
 (6) A támogatási kérelemhez csatolni kell a NAKVI által jóváhagyott projektterv másolatát.
 
-(7)[^18]
+(7)[^21]
 
-(8)[^19] A bemutató üzemi programot a projektterv teljesítési időszakának utolsó napjáig kell megvalósítani.
+(8)[^22] A bemutató üzemi programot a projektterv teljesítési időszakának utolsó napjáig kell megvalósítani.
 
 (9) Nem ítélhető meg több támogatás a NAKVI által az adott programra jóváhagyott költségtervben meghatározott összegnél.
 
-[^16]: A 7. § (2) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (6) bekezdésével megállapított szöveg.
-[^17]: A 7. § (4) bekezdését a 36/2014. (IV. 4.) VM rendelet 87. §-a hatályon kívül helyezte.
-[^18]: A 7. § (7) bekezdését az 1/2014. (IX. 15.) MvM rendelet 34. §-a hatályon kívül helyezte.
-[^19]: A 7. § (8) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (7) bekezdésével megállapított szöveg.
+[^19]: A 7. § (2) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (6) bekezdésével megállapított szöveg.
+[^20]: A 7. § (4) bekezdését a 36/2014. (IV. 4.) VM rendelet 87. §-a hatályon kívül helyezte.
+[^21]: A 7. § (7) bekezdését az 1/2014. (IX. 15.) MvM rendelet 34. §-a hatályon kívül helyezte.
+[^22]: A 7. § (8) bekezdése az 53/2014. (IV. 29.) VM rendelet 17. § (7) bekezdésével megállapított szöveg.
