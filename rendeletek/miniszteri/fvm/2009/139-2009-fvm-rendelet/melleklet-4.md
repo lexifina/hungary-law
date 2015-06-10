@@ -1,4 +1,4 @@
-4. melléklet a 139/2009. (X. 22.) FVM rendelethez[^24]
+4. melléklet a 139/2009. (X. 22.) FVM rendelethez[^28]
 
 Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
@@ -50,4 +50,4 @@ Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súl
 
 | 6. | E-Kizár: | Az adott támogatási egység támogatási jogosultsága megszűnik. Az adott évben jogosulatlanul felvett támogatást a jogosulatlanul igénybevett támogatásokra vonatkozó szabályok szerint vissza kell fizetni. |
 
-[^24]: A 4. melléklet a 44/2012. (V. 3.) VM rendelet 35. §-ával megállapított szöveg.
+[^28]: A 4. melléklet a 44/2012. (V. 3.) VM rendelet 35. §-ával megállapított szöveg.

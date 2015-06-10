@@ -1,10 +1,10 @@
 ## A támogatás igénybevételének feltételei
 
-5. § (1)[^4] A támogatásra az ügyfél akkor jogosult, ha a támogatási kérelem benyújtásakor a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: erdészeti hatóság) által az erdőtörvény alapján nyilvántartásba vett erdőgazdálkodó.
+5. § (1)[^5] A támogatásra az ügyfél akkor jogosult, ha a támogatási kérelem benyújtásakor a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: erdészeti hatóság) által az erdőtörvény alapján nyilvántartásba vett erdőgazdálkodó.
 
 (2) A támogatási kérelem jóváhagyásának feltételei:
 
-a)[^5] a támogatható terület
+a)[^6] a támogatható terület
 
 aa) a 3. § a) és c) pontok esetében legalább 1 hektár (a továbbiakban: ha) területű teljes erdőrészlet,
 
@@ -24,7 +24,7 @@ b) az a KEOP-2008-3.1.2 Élőhelyvédelem, és -helyreállítás, vonalas létes
 
 a) vágásérett faállomány található;
 
-b)[^6] az átalakítandó faállomány vonatkozásában az erdőrészletben található, az átalakítást követően megvalósuló célállományba tartozó tájhonos főfajok újulata – az erdőterv határozat szerint kialakítandó fafajösszetételben szereplő lehetséges elegyarányaik felső határáig figyelembe véve – együttesen nem éri el a 20%-ot, és
+b)[^7] az átalakítandó faállomány vonatkozásában az erdőrészletben található, az átalakítást követően megvalósuló célállományba tartozó tájhonos főfajok újulata – az erdőterv határozat szerint kialakítandó fafajösszetételben szereplő lehetséges elegyarányaik felső határáig figyelembe véve – együttesen nem éri el a 20%-ot, és
 
 ba) az erdőtársulás főfafajai közül a bükk és a tölgy fafajok mag eredetű egyedeinek elegyaránya a felső lombkoronaszintben nem éri el a 30%-ot,
 
@@ -34,7 +34,7 @@ bc) az idegenhonos fafajok elegyaránya a felső lombkoronaszintben meghaladja a
 
 bd) az idegenhonos fafajok elegyaránya a teljes állományban meghaladja az 50%-ot.
 
-(5)[^7] A 3. § b) pontja szerinti tevékenység esetén, az ügyfél azon erdőrészlet vagy az erdősítés részterülete vonatkozásában jogosult támogatásra, amelynél a tarvágások 2011. január 1. után kerültek, vagy kerülnek elvégzésre.
+(5)[^8] A 3. § b) pontja szerinti tevékenység esetén, az ügyfél azon erdőrészlet vagy az erdősítés részterülete vonatkozásában jogosult támogatásra, amelynél a tarvágások 2011. január 1. után kerültek, vagy kerülnek elvégzésre.
 
 (6) A 3. § c) pontja szerinti szerkezetátalakítás esetén az ügyfél azon erdőrészlet vonatkozásában jogosult támogatásra, amelyben az Adattár adatai alapján a jelenlegi állomány
 
@@ -48,7 +48,7 @@ b) fafajainak vonatkozásában
 
 ba) jelen vannak a tájhonos fafajok, és
 
-bb)[^8] az elegyfafajok elegyaránya legalább 10%-kal kevesebb, mint a tájhonos állománytípusnak az EKV rendelet 2. mellékletében meghatározott elegyaránya, és
+bb)[^9] az elegyfafajok elegyaránya legalább 10%-kal kevesebb, mint a tájhonos állománytípusnak az EKV rendelet 2. mellékletében meghatározott elegyaránya, és
 
 bc) az idegenhonos fafajok elegyaránya nem haladja meg a 10%-ot;
 
@@ -56,8 +56,8 @@ c) kora meghaladja a 20 évet, de a véghasználatig még legalább 30 év van h
 
 (7) Ha a támogatási jogosultság megállapítása során az Adattárban szereplő adatok szolgálnak alapul, az Adattárnak a támogatási kérelem benyújtási időszakának utolsó napja szerint aktuális adatait kell figyelembe venni.
 
-[^4]: Az 5. § (1) bekezdése a 44/2012. (V. 3.) VM rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (2) bekezdés a) pontja a 19/2010. (IX. 30.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (4) bekezdés b) pontja a 19/2010. (IX. 30.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 5. § (5) bekezdése a 18/2013. (III. 21.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^8]: Az 5. § (6) bekezdés b) pont bb) alpontja a 44/2012. (V. 3.) VM rendelet 32. § (3) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (1) bekezdése a 44/2012. (V. 3.) VM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (2) bekezdés a) pontja a 19/2010. (IX. 30.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (4) bekezdés b) pontja a 19/2010. (IX. 30.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (5) bekezdése a 18/2013. (III. 21.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (6) bekezdés b) pont bb) alpontja a 44/2012. (V. 3.) VM rendelet 32. § (3) bekezdésével megállapított szöveg.
