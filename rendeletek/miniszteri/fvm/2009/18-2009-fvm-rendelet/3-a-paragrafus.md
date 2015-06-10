@@ -1,4 +1,4 @@
-3/A. §[^22] (1) Az adatszolgáltatás technikai közreműködő igénybevételével is teljesíthető. A technikai közreműködés igénybevételét az erre a célra rendszeresített elektronikus nyomtatványon az MVH-hoz évente be kell jelenteni. A technikai közreműködésre vonatkozó kérelmet a technikai közreműködő köteles az adatszolgáltatás benyújtását megelőzően saját ügyfélkapuján keresztül beadni, majd a beadott kérelmet az ügyfélkapus beadást követő nyolc napon belül, megfelelő módon hitelesítve, postai úton vagy személyesen is el kell juttatni az MVH-hoz. A papír alapú benyújtás hiányában a technikai közreműködő által teljesített adatszolgáltatás érvénytelen. A technikai közreműködésre szóló megbízást papír alapon, aláírt formában meg kell őrizni.
+3/A. §[^23] (1) Az adatszolgáltatás technikai közreműködő igénybevételével is teljesíthető. A technikai közreműködés igénybevételét az erre a célra rendszeresített elektronikus nyomtatványon az MVH-hoz évente be kell jelenteni. A technikai közreműködésre vonatkozó kérelmet a technikai közreműködő köteles az adatszolgáltatás benyújtását megelőzően saját ügyfélkapuján keresztül beadni, majd a beadott kérelmet az ügyfélkapus beadást követő nyolc napon belül, megfelelő módon hitelesítve, postai úton vagy személyesen is el kell juttatni az MVH-hoz. A papír alapú benyújtás hiányában a technikai közreműködő által teljesített adatszolgáltatás érvénytelen. A technikai közreműködésre szóló megbízást papír alapon, aláírt formában meg kell őrizni.
 
 (2) A technikai közreműködő igénybevételével továbbított adatok valóságnak való megfeleléséért az ügyfél felel.
 
@@ -20,4 +20,4 @@ c) monitoring adatszolgáltatás és ügyfél-nyilvántartási ügyek intézése
 
 (8) Az adatszolgáltatási kötelezettség technikai közreműködő igénybevételével történő teljesítéséhez a (6) bekezdés szerinti technikai közreműködés módosítása vagy új technikai közreműködés benyújtása szükséges.
 
-[^22]: A 3/A. §-t a 3/2012. (I. 31.) VM rendelet 4. §-a iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^23]: A 3/A. §-t a 3/2012. (I. 31.) VM rendelet 4. §-a iktatta be, szövege a 7/2015. (II. 17.) MvM rendelet 25. § (3) bekezdésével megállapított szöveg.

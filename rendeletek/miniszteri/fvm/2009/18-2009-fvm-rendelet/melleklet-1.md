@@ -1,4 +1,4 @@
-1. melléklet a 18/2009. (III. 6.) FVM rendelethez[^33]
+1. melléklet a 18/2009. (III. 6.) FVM rendelethez[^36]
 
 Az egyes jogcímek esetén a támogatási és a kifizetési kérelem, valamint az ügyfél által kitöltött elektronikus űrlap keretében szolgáltatott indikátor adatkörökről
 
@@ -1142,4 +1142,4 @@ c) szolgáltatást igénybevevők száma (fő),
 
 d) a támogatás révén internetet elérő népesség (fő).
 
-[^33]: Az eredeti melléklet megjelölését 1. mellékletre változtatta a 2/2013. (II. 1.) VM rendelet 4. §-a, szövege a 7/2015. (II. 17.) MvM rendelet 25. § (5) bekezdésével megállapított szöveg.
+[^36]: Az eredeti melléklet megjelölését 1. mellékletre változtatta a 2/2013. (II. 1.) VM rendelet 4. §-a, szövege a 7/2015. (II. 17.) MvM rendelet 25. § (5) bekezdésével megállapított szöveg.
