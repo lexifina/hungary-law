@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-124-20-
 | 2013-07-30 | 2009-124-20-82.10 | 68/2013. (VII. 29.) VM rendelet |
 | 2013-10-29 | 2009-124-20-82.11 | 99/2013. (X. 28.) VM rendelet |
 | 2014-04-30 | 2009-124-20-82.12 | 53/2014. (IV. 29.) VM rendelet |
+| 2015-06-10 | 2009-124-20-82.13 | 28/2015. (VI. 9.) MvM rendelet |

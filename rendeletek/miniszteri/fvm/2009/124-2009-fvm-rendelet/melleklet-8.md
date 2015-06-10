@@ -40,6 +40,6 @@
 
 ## Rögzített, testmozgást szolgáló különféle felületkezelt fa sporteszköz.
 
-8. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^74]
+8. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^77]
 
-[^74]: A 8. melléklet az 53/2014. (IV. 29.) VM rendelet 7. § (8) bekezdésével megállapított szöveg.
+[^77]: A 8. melléklet az 53/2014. (IV. 29.) VM rendelet 7. § (8) bekezdésével megállapított szöveg.

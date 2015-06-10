@@ -112,6 +112,6 @@
 
 | tulajdonos | gazdálkodó | erdészeti hatóság |
 
-5. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^73]
+5. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^76]
 
-[^73]: Az 5. melléklet az 53/2014. (IV. 29.) VM rendelet 7. § (7) bekezdésével megállapított szöveg.
+[^76]: Az 5. melléklet az 53/2014. (IV. 29.) VM rendelet 7. § (7) bekezdésével megállapított szöveg.
