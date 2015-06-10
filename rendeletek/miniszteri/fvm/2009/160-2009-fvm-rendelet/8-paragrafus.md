@@ -36,5 +36,8 @@ d) turisztikai szakmai szervezeti tagság igazolását.
 
 (4)[^10] Az utolsó kifizetési kérelemhez az 5. § (10) bekezdése szerint megvalósuló fejlesztés esetében a közhasznú szervezetnek csatolnia kell a közhasznúságról szóló igazolást.
 
+(5)[^11] Amennyiben az ügyfél a (3) bekezdésben meghatározott valamely okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást ennek benyújtásáig, de legkésőbb 2015. szeptember 30-ig felfüggeszti. 2015. szeptember 30. napját követően a (3) bekezdésben meghatározott bármely okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
+
 [^9]: A 8. § (1) bekezdését a 137/2012. (XII. 22.) VM rendelet 15. § (2) bekezdés h) pontja hatályon kívül helyezte.
 [^10]: A 8. § (4) bekezdése a 106/2013. (XI. 26.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: A 8. § (5) bekezdését a 28/2015. (VI. 9.) MvM rendelet 33. § (1) bekezdése iktatta be.

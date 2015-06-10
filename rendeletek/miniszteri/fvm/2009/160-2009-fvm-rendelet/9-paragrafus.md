@@ -1,6 +1,6 @@
 ## A támogatásra vonatkozó speciális jogkövetkezmények
 
-9. §[^13] (1) Ha az ügyfél által realizált – szállásadásból vagy szolgáltatásból származó – árbevétel az üzemeltetési kötelezettség negyedik naptári évében 50%-nál nagyobb mértékben marad el a negyedik évre vállalt árbevételtől, akkor köteles a támogatási összegből valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
+9. §[^14] (1) Ha az ügyfél által realizált – szállásadásból vagy szolgáltatásból származó – árbevétel az üzemeltetési kötelezettség negyedik naptári évében 50%-nál nagyobb mértékben marad el a negyedik évre vállalt árbevételtől, akkor köteles a támogatási összegből valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
 
 (2) Ha az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor köteles a támogatási összegből – hiányzó foglalkoztatottanként egyszer – valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
 
@@ -12,4 +12,4 @@
 
 (6) Amennyiben az ügyfélnek a 3. § (1) bekezdés c) pont cd) alpontjára irányuló fejlesztéshez kapcsolódó vadászati jogosultsága az üzemeltetési kötelezettség alatt megszűnik, akkor az ügyfél köteles az új vadászati jogosultság igényléséről nyilatkozni az MVH részére, valamint a megszerzett új vadászati jogosultságról szóló határozat hiteles másolatát benyújtani az MVH részére 2017. december 31-ig. Amennyiben az ügyfél nem szerzi meg az új vadászati jogosultságot 2017. december 31-ig, akkor köteles a támogatási összegből valamennyi kifizetési kérelem alapján jóváhagyott összeg 5%-ának megfelelő összeget, de legfeljebb 500 000 forintot visszafizetni intézkedésben való jogosulatlan részvétel jogcímén.
 
-[^13]: A 9. § a 7/2015. (II. 17.) MvM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^14]: A 9. § a 7/2015. (II. 17.) MvM rendelet 32. § (1) bekezdésével megállapított szöveg.
