@@ -32,8 +32,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2015. december 31.
 
-6. visszavonja
+6.[^1]
 
-a) a Téry Ödön Nemzeti Turistaház-fejlesztési Programmal kapcsolatos intézkedésekről szóló 1904/2013. (XII. 5.) Korm. határozatot,
-
-b) a Téry Ödön Nemzeti Turistaház-fejlesztési Program keretében megvalósuló infrastruktúra-fejlesztésekről, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1220/2014. (IV. 8.) Korm. határozatot.
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
