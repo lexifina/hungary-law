@@ -8,6 +8,6 @@
 
 (5) A támogatás keretében beszerzésre kerülő eszközök vonatkozásában a Vhr. 23. § (1) bekezdés b) pontjától eltérően, az üzemeltetési kötelezettség a kifizetési kérelemről szóló támogatási határozat jogerőre emelkedésétől számított öt évig tart.
 
-(6)[^9] A Vhr. 23. § (1) bekezdés c) pontjától eltérően a támogatás keretében beszerzésre kerülő eszköz az üzemeltetési kötelezettség időtartama alatt nem idegeníthető el és nem adható bérbe. A jótállás alapján történő csere, lopás, működésképtelenné, használhatatlanná válás esetén az IH előzetes jóváhagyásával, a kifizetési kérelemben történt igazolás mellett a támogatás terhére elszámolható, kivéve a 7. § (7) bekezdése alapján a LEADER HACS vezető tisztségviselői részére beszerzésre került eszközöket.
+(6)[^12] A Vhr. 23. § (1) bekezdés c) pontjától eltérően a támogatás keretében beszerzésre kerülő eszköz az üzemeltetési kötelezettség időtartama alatt nem idegeníthető el és nem adható bérbe. A jótállás alapján történő csere, lopás, működésképtelenné, használhatatlanná válás esetén az IH előzetes jóváhagyásával, a kifizetési kérelemben történt igazolás mellett a támogatás terhére elszámolható, kivéve a 7. § (7) bekezdése alapján a LEADER HACS vezető tisztségviselői részére beszerzésre került eszközöket.
 
-[^9]: A 6. § (6) bekezdése a 106/2013. (XI. 26.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 6. § (6) bekezdése a 106/2013. (XI. 26.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.

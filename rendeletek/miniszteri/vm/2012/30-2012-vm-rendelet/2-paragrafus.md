@@ -34,9 +34,9 @@ n) a LEADER HACS-hoz a LEADER HACS illetékességi területéről – az adott j
 
 (3) Az (1) bekezdés b) pontjában meghatározott feladat akkor minősül teljesítettnek, ha a LEADER HACS önálló feladatellátás útján alapkövetelményként az alábbiakat teljesíti
 
-a) az illetékességi területén az (1) bekezdés b) pontja szerinti, külön bejárattal rendelkező, legalább 20 m2 összes alapterületű önálló, telefonnal, faxszal, valamint szélessávú internet kapcsolattal ellátott központi irodát üzemeltet, amely legalább heti 40 órában, a LEADER HACS honlapján meghirdetett nyitva tartási időben az ügyfelek rendelkezésére áll;
+a)[^2] az illetékességi területén az (1) bekezdés b) pontja szerinti, külön bejárattal rendelkező, legalább 20 m2 összes alapterületű önálló, szélessávú internetes kapcsolattal ellátott központi irodát üzemeltet, amely legalább heti egy munkanapon 10 órában, a többi munkanapon legalább 4 órában a LEADER HACS honlapján meghirdetett nyitva tartási időben az ügyfelek rendelkezésére áll;
 
-b) az általa fenntartott központi iroda a IV. tengely vagy a III. tengely nem horizontális intézkedéseire vonatkozó pályázat, támogatási kérelem vagy kifizetési kérelem benyújtása érdekében, a jogcímrendelet megjelenésétől a benyújtási időszak végéig hetente egy, a LEADER HACS honlapján előre meghirdetett napon két órával meghosszabbított nyitva tartással az ügyfelek rendelkezésére áll;
+b)[^3]
 
 c) amennyiben az illetékességi területén alirodát működtet, az rendelkezik telefonos elérhetőséggel és internet kapcsolattal, valamint legalább heti 20 órában az ügyfelek rendelkezésére áll;
 
@@ -66,6 +66,8 @@ d) a 2009. október 1-je után felvett alkalmazottak a 8. mellékletben szerepl�
 
 (7) A IV. tengely vonatkozásában nem jogosult településen a (3) bekezdés a)–c) pontja szerinti iroda, aliroda üzemeltetése az IH előzetes jóváhagyása alapján kezdhető meg.
 
-(8)[^2] A LEADER HACS szervezetében, az általa fenntartott vagy működtetett iroda helyét illetően vagy személyi körülményekben bekövetkezett változásról a LEADER HACS köteles a változás bekövetkezésétől számított 10 napon belül az elektronikus beszámolói felületen megtalálható formanyomtatvány beküldésével az IH vezetőjét elektronikus úton tájékoztatni. Amennyiben a HACS az IH vezetője felé nem tesz maradéktalanul eleget a tájékoztatási kötelezettségének, akkor tevékenysége szankcionálásra kerül az aktuális elszámolási időszak terhére, a munkaterv szerinti egyéb feladatokra elszámolható kiadások 1%-os csökkentésével.
+(8)[^4] A LEADER HACS szervezetében, az általa fenntartott vagy működtetett iroda helyét illetően vagy személyi körülményekben bekövetkezett változásról a LEADER HACS köteles a változás bekövetkezésétől számított 10 napon belül az elektronikus beszámolói felületen megtalálható formanyomtatvány beküldésével az IH vezetőjét elektronikus úton tájékoztatni. Amennyiben a HACS az IH vezetője felé nem tesz maradéktalanul eleget a tájékoztatási kötelezettségének, akkor tevékenysége szankcionálásra kerül az aktuális elszámolási időszak terhére, a munkaterv szerinti egyéb feladatokra elszámolható kiadások 1%-os csökkentésével.
 
-[^2]: A 2. § (8) bekezdése a 126/2012. (XII. 12.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (3) bekezdés a) pontja a 28/2015. (VI. 9.) MvM rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdés b) pontját a 28/2015. (VI. 9.) MvM rendelet 49. §-a hatályon kívül helyezte.
+[^4]: A 2. § (8) bekezdése a 126/2012. (XII. 12.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.

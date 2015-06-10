@@ -1,4 +1,4 @@
-## A bruttó 500 000 Ft/db összegű vagy a feletti nagy értékű tárgyi eszközök beszerzése érdekében szükséges IH általi jóváhagyáshoz szükséges adatok
+## A bruttó 100 000 Ft/db összegű vagy a feletti nagy értékű tárgyi eszközök beszerzése érdekében szükséges IH általi jóváhagyáshoz szükséges adatok[^45]
 
 ## 1. LEADER HACS adatai:
 
@@ -25,3 +25,5 @@
 ## 5. Képviseletre jogosult cégszerű aláírása
 
 6. melléklet a 30/2012. (III. 24.) VM rendelethez
+
+[^45]: Az 5. melléklet címe a 28/2015. (VI. 9.) MvM rendelet 48. § b) pontja szerint módosított szöveg.

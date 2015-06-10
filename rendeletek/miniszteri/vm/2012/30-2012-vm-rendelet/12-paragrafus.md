@@ -12,6 +12,6 @@ d) 4. évben a 40%-át,
 
 e) 5. évben a 20%-át,
 
-köteles visszafizetni.
+## köteles visszafizetni.
 
 (2) Amennyiben a címvisszavonással érintett LEADER HACS az üzemeltetési kötelezettséggel érintett eszközeit ingyenesen használatba adja a korábbi illetékességi területén létrejövő új LEADER HACS-nak, akkor az (1) bekezdésben szereplő szankció alól mentesül.

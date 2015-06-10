@@ -352,4 +352,6 @@
 
 | 175. |  |  | 60.20.30 | Televíziós reklámidő |
 
+| 176. | 63.21.22 | közút üzemeltetése | 52.21.22 | közút üzemeltetése |
+
 2. melléklet a 30/2012. (III. 24.) VM rendelethez
