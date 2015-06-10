@@ -32,6 +32,6 @@
 
 (3) E rendelet 3. § (1) bekezdés a) pontjában, 3. § (3) bekezdés e) pontjában, 9. § (2) bekezdésében foglaltakat nem megvalósítási helyenként, hanem a támogatási határozatban jóváhagyott összes megvalósítási hely vonatkozásában kell alkalmazni.
 
-(4)[^1] A Vhr. 12. § (4) bekezdése és a 24. § (2) bekezdése e rendelet vonatkozásában nem alkalmazandó.
+(4)[^2] A Vhr. 12. § (4) bekezdése e rendelet vonatkozásában nem alkalmazandó.
 
-[^1]: Az 1. § (4) bekezdése az 59/2013. (VII. 15.) VM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdése az 59/2013. (VII. 15.) VM rendelet 6. § (1) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 59. § a) pontja szerint módosított szöveg.
