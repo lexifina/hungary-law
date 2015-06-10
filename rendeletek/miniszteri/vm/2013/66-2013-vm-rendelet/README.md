@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-66-20-2
 | 2013-10-29 | 2013-66-20-2Y.2 | 99/2013. (X. 28.) VM rendelet |
 | 2013-11-28 | 2013-66-20-2Y.3 | 107/2013. (XI. 27.) VM rendelet |
 | 2014-11-20 | 2013-66-20-2Y.4 | 8/2014. (XI. 19.) MvM rendelet |
+| 2015-06-10 | 2013-66-20-2Y.5 | 28/2015. (VI. 9.) MvM rendelet |

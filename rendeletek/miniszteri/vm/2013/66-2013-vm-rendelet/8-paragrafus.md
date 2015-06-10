@@ -18,7 +18,8 @@ c) – ha a használatbavételi engedélyt az ügyfél még nem kapta kézhez �
 
 (5) A kifizetési kérelem tekintetében – a (3) és (4) bekezdésben meghatározott dokumentumok kivételével – hiánypótlásnak nincs helye.
 
-(6) A kifizetési kérelmek vizsgálata az Adattárnak a kérelem benyújtása szerinti év június 9-i állapota szerint történik.
+(6)[^6] A kifizetési kérelmek vizsgálata az Adattárnak az adott évi kérelembenyújtási időszak – jogvesztő hatállyal bíró – utolsó napja szerinti állapot alapján történik.
 
 [^4]: A 8. § (4) bekezdése a 8/2014. (XI. 19.) MvM rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^5]: A 8. § (4a) bekezdését a 8/2014. (XI. 19.) MvM rendelet 21. § (1) bekezdése iktatta be.
+[^6]: A 8. § (6) bekezdése a 28/2015. (VI. 9.) MvM rendelet 81. § a) pontja szerint módosított szöveg.

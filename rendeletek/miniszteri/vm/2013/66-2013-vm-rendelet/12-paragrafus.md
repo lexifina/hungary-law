@@ -12,6 +12,6 @@
 
 (6) Az 5. § (3) bekezdése szerinti, ugyanazon tervezési egységen történő együttes kivitelezése esetén, ha az ügyfél nem látta el az Evt. Vhr. 3/C. § f) pontja szerinti térképen a 6. § (3) bekezdésének megfelelő egyedi jelzéssel az ugyanazon létesítményhez tartozó közjóléti berendezéseket és a jelölés hiánya kihat a támogatási jogosultság megítélhetőségére, a két érintett létesítmény közül az alacsonyabb támogatási mértékű közjóléti létesítményre támogatási összeg nem fizethető ki, támogatási jogosultsága megszűnik. Az adott létesítményre korábban felvett támogatást a jogosulatlan részvételre vonatkozó szabályok szerint vissza kell fizetni.
 
-(7)[^6] Amennyiben az ügyfél az építési engedélyköteles beruházások esetében legkésőbb 2015. szeptember 30-ig nem igazolja, hogy rendelkezik az építési hatóság által kiadott jogerős használatbavételi engedéllyel, abban az esetben az építési engedélyköteles létesítmény vonatkozásában támogatásra nem jogosult.
+(7)[^8] Amennyiben az ügyfél az építési engedélyköteles beruházások esetében legkésőbb 2015. szeptember 30-ig nem igazolja, hogy rendelkezik az építési hatóság által kiadott jogerős használatbavételi engedéllyel, abban az esetben az építési engedélyköteles létesítmény vonatkozásában támogatásra nem jogosult.
 
-[^6]: A 12. § (7) bekezdését a 8/2014. (XI. 19.) MvM rendelet 21. § (2) bekezdése iktatta be.
+[^8]: A 12. § (7) bekezdését a 8/2014. (XI. 19.) MvM rendelet 21. § (2) bekezdése iktatta be.
