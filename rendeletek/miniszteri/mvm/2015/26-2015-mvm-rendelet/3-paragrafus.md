@@ -10,7 +10,7 @@ b) akinek a 2. mellékletben feltüntetett kertészeti tevékenységet meghatár
 
 a) akinek a nyilatkozata alapján az 1. mellékletben szereplő SFH kódok alapján számított 2014. évi 4 EUME kertészeti üzemméretét a 2014. évben benyújtott egységes területalapú támogatási kérelmében (a továbbiakban: TERA kérelem) megjelölt hasznosítási kódok (a továbbiakban: TERA kód) és területnagyság alátámasztják,
 
-b) aki a 2014. évben benyújtott TERA kérelemmel rendelkezik, de kizárólag a 2014. évben benyújtott TERA kérelem alapján nem tudja a nyilatkozata szerinti 2014. évi 4 EUME kertészeti üzemméretét alátámasztani, az a 2014. évben benyújtott TERA kérelmében kötelezően fel nem tüntethető kertészeti tevékenységek vonatkozásában a 2014. évi 4 EUME kertészeti üzemméretét a támogatási kérelemhez elektronikusan, szkennelt formában, a gép tárolási helye szerint illetékes megyei kormányhivatal által földművelésügyi igazgatási jogkörében kiállított, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített formanyomtatványon (a továbbiakban: kormányhivatali igazolás) hitelt érdemlően igazolja,
+b)[^2] aki a 2014. évben benyújtott TERA kérelemmel rendelkezik, de kizárólag a 2014. évben benyújtott TERA kérelem alapján nem tudja a nyilatkozata szerinti 2014. évi 4 EUME kertészeti üzemméretét alátámasztani, az a 2014. évben benyújtott TERA kérelmében kötelezően fel nem tüntethető kertészeti tevékenységek vonatkozásában a 2014. évi 4 EUME kertészeti üzemméretét a támogatási kérelemhez elektronikusan, szkennelt formában, a gép tárolási helye szerint illetékes megyei kormányhivatal által földművelésügyi igazgatási jogkörében kiállított, a MVH által rendszeresített formanyomtatványon (a továbbiakban: kormányhivatali igazolás) hitelt érdemlően igazolja,
 
 c) akinek a nyilatkozatát a 2014. évi 4 EUME kertészeti üzemméretről a 2014. évben benyújtott TERA kérelem hiányában a kormányhivatali igazolás alátámasztja,
 
@@ -35,3 +35,5 @@ a) a 7. mellékletben szereplő gépcsoportok melyikébe sorolható be, valamint
 b) kertészeti tevékenység végzésére alkalmas és e célból került értékesítésre.
 
 (9) Amennyiben a kötelezően benyújtandó kettő árajánlat nem szerezhető be, úgy a forgalmazó nyilatkozatának ki kell terjedni arra, hogy az igényelt gép egyedi gyártású, az más forgalmazótól nem szerezhető be.
+
+[^2]: A 3. § (2) bekezdés b) pontja a 28/2015. (VI. 9.) MvM rendelet 100. § (1) bekezdése szerint módosított szöveg.

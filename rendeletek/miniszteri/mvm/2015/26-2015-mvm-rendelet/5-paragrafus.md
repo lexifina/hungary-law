@@ -22,4 +22,8 @@ d) nagyértékű gépbeszerzés esetén a 4. és 5. melléklet szerinti végzett
 
 e) a 3. § (2) bekezdés a)–e) pontok szerinti nyilatkozatok valamelyikét és amennyiben szükséges, kormányhivatali igazolást.
 
+(6a)[^3] Ha az a benyújtáskor nem állt az ügyfél rendelkezésére, a kormányhivatali igazolást az illetékes kormányhivatal legkésőbb 2015. június 15. napjáig közvetlenül küldi meg az MVH-nak.
+
 (7) A támogatási kérelemben meg kell jelölni a gép tárolásának helyét.
+
+[^3]: Az 5. § (6a) bekezdését a 28/2015. (VI. 9.) MvM rendelet 99. § (2) bekezdése iktatta be.

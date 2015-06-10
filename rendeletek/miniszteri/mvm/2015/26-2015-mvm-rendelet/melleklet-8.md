@@ -164,7 +164,7 @@
 
 | 80. | 3993 | Ködképző gépek |
 
-| 81. | 3999 | Növénytermesztés egyéb stabil- és kézi gépei, berendezései közül támrendszer és jégvédő háló; gombatermesztéshez szükséges gépek |
+| 81. | 3999 | Növénytermesztés egyéb stabil- és kézi gépei, berendezései |
 
 | 82. | 5111 | Vízszivattyúk, vízellátó rendszerek (hidrofor stb.) |
 
@@ -176,6 +176,10 @@
 
 | 86. | 5139 | Egyéb lég-szabályozó berendezések |
 
-8. melléklet a 26/2015. (V. 6.) MvM rendelethez[^2]
+| 87. | 2141 | Tárcsás boronák |
 
-[^2]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| 88. | 2151 | Szántóföldi kultivátorok |
+
+8. melléklet a 26/2015. (V. 6.) MvM rendelethez[^10]
+
+[^10]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

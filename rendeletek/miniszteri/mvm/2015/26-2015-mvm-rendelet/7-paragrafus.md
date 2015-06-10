@@ -12,7 +12,7 @@ c) amennyiben a nagyértékű beruházásokra benyújtott kérelmek alapján a t
 
 a) 35%-a,
 
-b) 45%-a, ha az ügyfél lakóhelye vagy székhelye hátrányos helyzetű településen van,
+b)[^4] 45%-a, de legfeljebb az elszámolt költségek 40%-a, amennyiben az ügyfél lakóhelye vagy székhelye hátrányos helyzetű településen van,
 
 c) 45%-a, ha az ügyfél fiatal mezőgazdasági termelő.
 
@@ -21,3 +21,5 @@ c) 45%-a, ha az ügyfél fiatal mezőgazdasági termelő.
 (4) A benyújtott árajánlatok közül az alacsonyabb árat az e rendelet szerinti támogatáshoz kapcsolódó beszerzés elszámolható kiadásai nem haladhatják meg.
 
 (5) Építési tevékenység és a Vhr. 31. §-ában meghatározottak szerinti egyéb elszámolható kiadások nem támogathatóak.
+
+[^4]: A 7. § (2) bekezdés b) pontja a 28/2015. (VI. 9.) MvM rendelet 99. § (3) bekezdésével megállapított szöveg.
