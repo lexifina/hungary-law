@@ -1,0 +1,3 @@
+## 8. § A 27/2007. (IV. 17.) FVM rendelet 9/C. §-ában a „2015. március 31. napjáig köteles megvalósítani, valamint az utolsó kifizetési kérelmet 2015. május 31. napjáig köteles benyújtani” szövegrész helyébe a „2015. június 30. napjáig köteles megvalósítani, valamint az utolsó kifizetési kérelmet 2015. július 31. napjáig köteles benyújtani azzal, hogy a kapcsolódó jogerős engedélyre a Vhr. 30/B. §-a alkalmazandó” szöveg lép.
+
+## 4. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az évelő, lágy szárú energiaültetvények telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 71/2007. (VII. 27.) FVM rendelet módosítása

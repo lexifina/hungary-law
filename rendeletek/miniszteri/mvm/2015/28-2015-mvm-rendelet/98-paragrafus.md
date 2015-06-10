@@ -1,0 +1,3 @@
+## 97. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2015. évben igényelhető támogatások részletes feltételeiről szóló 24/2015. (IV. 28.) MvM rendelet [a továbbiakban: 24/2015. (IV. 28.) MvM rendelet] a következő 12/A. §-sal egészül ki:
+
+## „12/A. § A Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 3. mellékletet a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”

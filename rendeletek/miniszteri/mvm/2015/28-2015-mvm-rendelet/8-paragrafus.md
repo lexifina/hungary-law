@@ -1,0 +1,3 @@
+## 7. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból az állattartó telepek korszerűsítéséhez nyújtandó támogatások részletes feltételeiről szóló 27/2007. (IV. 17.) FVM rendelet [a továbbiakban: 27/2007. (IV. 17.) FVM rendelet] a következő 22. §-sal egészül ki:
+
+## „22. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 9/C. §-t a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”

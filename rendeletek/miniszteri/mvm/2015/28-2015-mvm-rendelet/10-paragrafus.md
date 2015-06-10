@@ -1,0 +1,3 @@
+## 9. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból az évelő, lágy szárú energiaültetvények telepítéséhez nyújtandó támogatások részletes feltételeiről szóló 71/2007. (VII. 27.) FVM rendelet [a továbbiakban: 71/2007. (VII. 27.) FVM rendelet] „Záró rendelkezés” alcíme a következő 10/A. §-sal egészül ki:
+
+## „10/A. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 8. § (3) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”

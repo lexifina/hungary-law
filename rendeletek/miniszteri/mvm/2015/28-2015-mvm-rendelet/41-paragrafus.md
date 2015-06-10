@@ -1,0 +1,3 @@
+## 40. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból gyümölcs és kertészeti ültetvények korszerűsítéséhez, létesítéséhez 2011. évtől nyújtandó támogatások igénybevételének részletes feltételeiről szóló 55/2011. (VI. 10.) VM rendelet [a továbbiakban: 55/2011. (VI. 10.) VM rendelet] a következő 15. §-sal egészül ki:
+
+## „15. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 8. § (1) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
