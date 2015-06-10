@@ -12,7 +12,7 @@ c) mezőgazdasági üzem: adott mezőgazdasági termelő által vezetett, és ug
 
 d)[^3] termelői szervezet: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló 67/2009. (VI. 9.) FVM rendelet szerinti társaság;
 
-e)[^4] termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján működő, a Vidékfejlesztési Minisztérium (a továbbiakban: minisztérium), illetve 2005. november 1-jét megelőzően a vidékfejlesztési miniszter által termelői csoportként elismert szövetkezet vagy korlátolt felelősségű társaság;
+e)[^4] termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet alapján működő, az agrárpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium), illetve 2005. november 1-jét megelőzően az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által termelői csoportként elismert szövetkezet vagy korlátolt felelősségű társaság;
 
 f) köztartozás: az adózás rendjéről szóló 2003. évi XCII. törvényben (a továbbiakban: Art.) meghatározott fogalom;
 
@@ -47,6 +47,6 @@ t) támogatás intenzitás: a támogatástartalom és a támogatás szempontjáb
 [^1]: Az 1. § a) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § b) pontja az 5/2012. (II. 10.) VM rendelet 39. §-a, a 22/2014. (III. 14.) VM rendelet 64. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § d) pontja a 171/2009. (XII. 22.) FVM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § e) pontja a 70/2013. (VII. 31.) VM rendelet 98. § a) és b) pontja szerint módosított szöveg.
+[^4]: Az 1. § e) pontja a 31/2015. (VI. 9.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § m) pontja a 36/2014. (IV. 4.) VM rendelet 40. §-ával megállapított szöveg.
 [^6]: Az 1. § n) pontja a 36/2014. (IV. 4.) VM rendelet 40. §-ával megállapított szöveg.

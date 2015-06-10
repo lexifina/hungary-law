@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-114-20-
 | 2014-03-13 | 2008-114-20-82.7 | 70/2013. (VII. 31.) VM rendelet |
 | 2014-03-15 | 2008-114-20-82.8 | 5/2012. (II. 10.) VM rendelet |
 | 2014-04-05 | 2008-114-20-82.9 | 36/2014. (IV. 4.) VM rendelet |
+| 2015-06-10 | 2008-114-20-82.10 | 31/2015. (VI. 9.) FM rendelet |
