@@ -1,7 +1,7 @@
-9/A. §[^67] (1) A 2008. március 28. napján kezdődő és 2008. május 2. napjáig tartó támogatási kérelem benyújtására nyitva álló időszakban benyújtott támogatási kérelmek esetén, amennyiben az ügyfél 2012. január 2-ig nyújtott már be kifizetési kérelmet és a támogatási határozatban jóváhagyott műveletet 2012. december 17. napjáig megvalósítja, akkor a Vhr. 25. § (2) bekezdése szerinti határidőt megtartottnak kell tekinteni és a művelet megvalósulási idejének a Vhr. 25. § (2) bekezdése szerinti határidő utolsó napja tekintendő.
+9/A. §[^68] (1) A 2008. március 28. napján kezdődő és 2008. május 2. napjáig tartó támogatási kérelem benyújtására nyitva álló időszakban benyújtott támogatási kérelmek esetén, amennyiben az ügyfél 2012. január 2-ig nyújtott már be kifizetési kérelmet és a támogatási határozatban jóváhagyott műveletet 2012. december 17. napjáig megvalósítja, akkor a Vhr. 25. § (2) bekezdése szerinti határidőt megtartottnak kell tekinteni és a művelet megvalósulási idejének a Vhr. 25. § (2) bekezdése szerinti határidő utolsó napja tekintendő.
 
 (2) Az az ügyfél, aki az (1) bekezdés alapján 2012. december 17. napjáig köteles a műveletet megvalósítani, az utolsó kifizetési kérelmet a Vhr. 17. § (3) bekezdésétől eltérően 2012. december 31. napjáig köteles benyújtani, amennyiben az utolsó kifizetési kérelem benyújtására nyitva álló – a művelet vélelmezett megvalósulását követő egy éves – határidő 2012. december 17. napján, vagy azt megelőzően jár le.
 
 (3) Nem alkalmazható a Vhr. 25. § (8) bekezdése azon ügyfelek vonatkozásában, akik a (2) bekezdés alapján 2012. december 31. napjáig kötelesek az utolsó kifizetési kérelmüket benyújtani.
 
-[^67]: A 9/A. §-t az 56/2012. (VI. 21.) VM rendelet 5. §-a iktatta be.
+[^68]: A 9/A. §-t az 56/2012. (VI. 21.) VM rendelet 5. §-a iktatta be.

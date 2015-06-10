@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-34-20-8
 | 2014-09-16 | 2008-34-20-82.23 | 1/2014. (IX. 15.) MvM rendelet |
 | 2014-12-31 | 2008-34-20-82.24 | 12/2014. (XII. 30.) MvM rendelet |
 | 2015-02-17 | 2008-34-20-82.25 | 7/2015. (II. 17.) MvM rendelet |
+| 2015-06-10 | 2008-34-20-82.26 | 28/2015. (VI. 9.) MvM rendelet |

@@ -1,3 +1,3 @@
-2. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^90]
+2. számú melléklet a 34/2008. (III. 27.) FVM rendelethez[^93]
 
-[^90]: A 2. számú melléklet az 59/2011. (VI. 29.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^93]: A 2. számú melléklet az 59/2011. (VI. 29.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
