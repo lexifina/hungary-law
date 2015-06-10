@@ -26,7 +26,7 @@ d)[^11] a 2. célterület vonatkozásában az a jogi személy, jogi személyisé
 
 (3a)[^12] A (3) bekezdés a) pontjától eltérően a jogi személy támogatás igénybevételére abban az esetben is jogosult, ha Gt. 15. § (1) bekezdése alapján legkésőbb 2013. szeptember 1-ig előtársaságként megkezdte működését.
 
-(4)[^13] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfél köteles a támogatott műveletet legkésőbb 2015. május 31. napjáig megvalósítani.
+(4)[^13] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfél köteles a támogatott műveletet legkésőbb 2015. augusztus 31. napjáig megvalósítani.
 
 (5)[^14]
 
@@ -38,7 +38,7 @@ b) a 2. célterület mezőgazdasági termelő esetében a 2. mellékletben,
 
 c) a 2. célterület nem mezőgazdasági termelő esetében a 3. mellékletben
 
-meghatározott szempontok alapján legalább a 15 pontot, induló vállalkozás esetén a 10 pontot eléri.
+## meghatározott szempontok alapján legalább a 15 pontot, induló vállalkozás esetén a 10 pontot eléri.
 
 (7) Központi költségvetési szerv, önkormányzat és társulásai nem vehetnek igénybe támogatást védett vagy Natura 2000 területen megvalósuló beruházáshoz.
 
@@ -86,7 +86,7 @@ b) a módosítás következtében a beruházás saját tulajdonú ingatlanon val
 [^10]: A 4. § (3) bekezdés c) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^11]: A 4. § (3) bekezdés d) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^12]: A 4. § (3a) bekezdését az 1/2014. (IX. 15.) MvM rendelet 38. § (3) bekezdése iktatta be.
-[^13]: A 4. § (4) bekezdése a 7/2015. (II. 17.) MvM rendelet 76. § (2) bekezdésével megállapított szöveg.
+[^13]: A 4. § (4) bekezdése a 7/2015. (II. 17.) MvM rendelet 76. § (2) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 92. § a) pontja szerint módosított szöveg.
 [^14]: A 4. § (5) bekezdését az 1/2014. (IX. 15.) MvM rendelet 40. §-a hatályon kívül helyezte.
 [^15]: A 4. § (14) bekezdését az 1/2014. (IX. 15.) MvM rendelet 38. § (5) bekezdése iktatta be.
 [^16]: A 4. § (15) bekezdését az 1/2014. (IX. 15.) MvM rendelet 38. § (5) bekezdése iktatta be.

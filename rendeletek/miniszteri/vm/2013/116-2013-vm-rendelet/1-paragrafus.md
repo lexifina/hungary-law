@@ -70,11 +70,11 @@ b) a 2. célterület esetében a támogatási kérelemre jóváhagyott támogat�
 
 24. támogatási összeg: a jogerős támogatási határozattal a nettó kiadás, valamint az ahhoz kapcsolódó általános forgalmi adó tekintetében jóváhagyott kötelezettségvállalás együttes összege.
 
-(2)[^4] E rendelet vonatkozásában a Vhr. 7. § (1) bekezdés b) pontjában, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 15. § (1) bekezdés b) pontjában, 15. § (2) bekezdésében, 16/B. § (2) bekezdésében, 17. § (2) és (4) bekezdéseiben, 23. § (1) bekezdés b) pontjában, 24. §-ában, 25. § (1) és (6)–(8) bekezdéseiben, 25/A. §-ában, 27. § (1) bekezdés b) pontjában és e)–g) pontjaiban, 30. § (1) bekezdés c)–d) pontjaiban, (12) bekezdésében, 30/A. §-ában, 31. § (3) bekezdésében, 33. § (4) bekezdésében, valamint 35. § (5), (9) és (13) bekezdéseiben foglalt rendelkezések nem alkalmazandóak.
+(2)[^4] E rendelet vonatkozásában a Vhr. 7. § (1) bekezdés b) pontjában, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 15. § (1) bekezdés b) pontjában, 15. § (2) bekezdésében, 16/B. § (2) bekezdésében, 17. § (2) és (4) bekezdéseiben, 23. § (1) bekezdés b) pontjában, 25. § (1) és (6)–(8) bekezdéseiben, 25/A. §-ában, 27. § (1) bekezdés b) pontjában és e)–g) pontjaiban, 30. § (1) bekezdés c)–d) pontjaiban, (12) bekezdésében, 30/A. §-ában, 31. § (3) bekezdésében, 33. § (4) bekezdésében, valamint 35. § (5), (9) és (13) bekezdéseiben foglalt rendelkezések nem alkalmazandóak.
 
 (3) E rendelet vonatkozásában a fiatal mezőgazdasági termelői jogosultság a Vhr.-től eltérően 2014. december 31. napjáig, de legkésőbb az ügyfél 40. életévének betöltéséig érvényes.
 
 [^1]: Az 1. § (1) bekezdés 12. pont a) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 12. pont b) pontja a 22/2014. (III. 14.) VM rendelet 96. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés 12. pont c) alpontját az 1/2014. (IX. 15.) MvM rendelet 38. § (1) bekezdése iktatta be.
-[^4]: Az 1. § (2) bekezdése az 1/2014. (IX. 15.) MvM rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdése az 1/2014. (IX. 15.) MvM rendelet 38. § (2) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 93. § a) pontja szerint módosított szöveg.
