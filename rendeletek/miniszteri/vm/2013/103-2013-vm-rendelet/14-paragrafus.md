@@ -4,17 +4,13 @@
 
 (2) Egy ügyfél ugyanazon jóváhagyó támogatási határozat alapján az első kifizetési kérelem benyújtását követően három havonta nyújthat be kifizetési kérelmeket a kifizetési kérelmek benyújtására nyitva álló időszakon belül.
 
-(3) Az ügyfél a támogatási határozat jogerőre emelkedésétől számított 6 hónapon belül köteles
+(3)[^5]
 
-a) az első kifizetési kérelmet benyújtani, és
+(3a)[^6]
 
-b) a támogatási határozatban a támogatási határozattal jóváhagyott egyéb kiadások összegével csökkentett beruházási kiadások legalább 10 százalékával elszámolni.
+(4)[^7]
 
-(3a)[^4] Az 1-2. célterület esetében az ügyfél mentesül a (3) bekezdésben meghatározott kötelezettségek alól, és a 3. § (2) bekezdésében meghatározott határidőn belül nyújthat be kifizetési kérelmet.
-
-(4)[^5] Amennyiben a közbeszerzési eljárás megindítását az ügyfél igazolta, mentesül a (3) bekezdésben meghatározott kötelezettségek teljesítése alól, és a 3. § (2) bekezdésében meghatározott határidőn belül nyújthat be kifizetési kérelmet.
-
-(5)[^6] Az utolsó kifizetési kérelmet a művelet megvalósulását követő 6 hónapon belül, vagy ha az ügyfél a műveletet a támogatási határozat jogerőre emelkedése előtt megkezdte, akkor a támogatási határozat jogerőre emelkedését követő 6 hónapon belül, de legkésőbb 2015. május 31-ig be kell nyújtani.
+(5)[^8] Az utolsó kifizetési kérelmet valamennyi célterület esetén legkésőbb 2015. augusztus 31-ig kell benyújtani.
 
 (6) A 3. célterület vonatkozásában, amennyiben a támogatási kérelemhez az ügyfél szándéknyilatkozatot csatolt, könyvtári szolgáltató hely működtetése esetén a 3. § (7) bekezdés szerinti kistelepülési megállapodást legkésőbb az első kifizetési kérelemhez szükséges csatolni.
 
@@ -34,9 +30,10 @@ d) a gépjárműre vonatkozó 7. § (1) bekezdés a) pontjában meghatározott C
 
 (10) A 3. és 4. célterület keretében, engedélyköteles építési tevékenység esetén az utolsó kifizetési kérelemhez mellékelni kell az ügyfél nevére szóló jogerős használatbavételi engedélyt vagy a használatbavétel tudomásulvételét igazoló építésügyi hatósági bizonyítványt.
 
-(11)[^7] Amennyiben az ügyfél a (10) bekezdésben meghatározott okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást a jogerős engedély egy példányának vagy hiteles másolatának benyújtásáig, de legkésőbb 2015. szeptember 30-ig felfüggeszti. 2015. szeptember 30. napját követően a (10) bekezdésben meghatározott okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
+(11)[^9] Amennyiben az ügyfél a (10) bekezdésben meghatározott okiratot az utolsó kifizetési kérelemmel nem nyújtja be és hiánypótlás keretében sem tudja pótolni, mert azzal még nem rendelkezik, vagy az engedély még nem emelkedett jogerőre, az MVH a kifizetési eljárást a jogerős engedély egy példányának vagy hiteles másolatának benyújtásáig, de legkésőbb 2015. szeptember 30-ig felfüggeszti. 2015. szeptember 30. napját követően a (10) bekezdésben meghatározott okirat hiánya esetén a kifizetési kérelem elutasításra kerül.
 
-[^4]: A 14. § (3a) bekezdését az 53/2014. (IV. 29.) VM rendelet 19. § (2) bekezdése iktatta be.
-[^5]: A 14. § (4) bekezdése a 32/2014. (IV. 3.) VM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^6]: A 14. § (5) bekezdése a 8/2014. (XI. 19.) MvM rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^7]: A 14. § (11) bekezdését a 7/2015. (II. 17.) MvM rendelet 73. § (1) bekezdése iktatta be.
+[^5]: A 14. § (3) bekezdését a 28/2015. (VI. 9.) MvM rendelet 87. § b) pontja hatályon kívül helyezte.
+[^6]: A 14. § (3a) bekezdését az 53/2014. (IV. 29.) VM rendelet 19. § (2) bekezdése iktatta be, hatályon kívül helyezte a 28/2015. (VI. 9.) MvM rendelet 87. § b) pontja.
+[^7]: A 14. § (4) bekezdését a 28/2015. (VI. 9.) MvM rendelet 87. § b) pontja hatályon kívül helyezte.
+[^8]: A 14. § (5) bekezdése a 28/2015. (VI. 9.) MvM rendelet 85. § (2) bekezdésével megállapított szöveg.
+[^9]: A 14. § (11) bekezdését a 7/2015. (II. 17.) MvM rendelet 73. § (1) bekezdése iktatta be.
