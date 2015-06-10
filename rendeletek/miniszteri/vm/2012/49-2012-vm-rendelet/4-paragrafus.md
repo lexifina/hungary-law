@@ -8,12 +8,12 @@ b) akinek (amelynek) a Római Szerződés I. mellékletében, a halászati term�
 
 (3) Az Élelmiszeripari gépek és technológiai berendezések katalógusával kapcsolatos eljárásokra a Vhr. 29. § (1) és (2), (7)–(9) és (11)–(14) bekezdését kell alkalmazni.
 
-(4)[^3] A Vhr. 24. §-ában foglaltaktól eltérően, az ügyfél a támogatási határozat közlésétől számított hat hónapon belül köteles a támogatási határozatban jóváhagyott támogatási összeg legalább 10%-ával elszámolni.
+(4)[^4]
 
-(5)[^4] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfélnek a műveletet 2015. május 31. napjáig kell megvalósítania.
+(5)[^5] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően, az ügyfélnek a műveletet 2015. május 31. napjáig kell megvalósítania.
 
-(6)[^5]
+(6)[^6]
 
-[^3]: A 4. § (4) bekezdése a 28/2013. (IV. 30.) VM rendelet 11. §-ával megállapított szöveg.
-[^4]: A 4. § (5) bekezdése a 7/2015. (II. 17.) MvM rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 16. §-a hatályon kívül helyezte.
+[^4]: A 4. § (4) bekezdését a 28/2015. (VI. 9.) MvM rendelet 53. §-a hatályon kívül helyezte.
+[^5]: A 4. § (5) bekezdése a 7/2015. (II. 17.) MvM rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (6) bekezdését az 1/2014. (IX. 15.) MvM rendelet 16. §-a hatályon kívül helyezte.
