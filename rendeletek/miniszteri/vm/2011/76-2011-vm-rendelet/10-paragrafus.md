@@ -8,7 +8,7 @@ b) nonprofit szervezet;
 
 c) egyházi jogi személy;
 
-amennyiben a fejlesztés a közhasznú tevékenység ellátását segíti elő és a célterület katalógus is tartalmazza az adott támogatható tevékenységet.
+## amennyiben a fejlesztés a közhasznú tevékenység ellátását segíti elő és a célterület katalógus is tartalmazza az adott támogatható tevékenységet.
 
 (2) Az e jogcím keretében elszámolható kiadásokat a 4. melléklet határozza meg.
 
@@ -28,7 +28,7 @@ b)[^11] a Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési 
 
 c) a Vhr. 23. § (1) bekezdés c) pontjától eltérően az üzemeltetési kötelezettség időtartama alatt a beruházás vagy fejlesztés tárgya – a fenntarthatóságának biztosítása érdekében – az üzemeltetési kötelezettség fenntartása mellett bérbe adható;
 
-d) a Vhr. 20. § (4) bekezdésében foglaltakat – ha az ügyfél működési támogatást is igénybe vesz – az ügyfél külön köteles teljesíteni a beruházási és a működési kiadások vonatkozásában.
+d)[^12] a támogatható működési kiadások vonatkozásában a Vhr. 20. § (4) bekezdését nem kell alkalmazni.
 
 (8) A támogatás mértéke az összes elszámolható kiadás 100%-a.
 
@@ -36,3 +36,4 @@ d) a Vhr. 20. § (4) bekezdésében foglaltakat – ha az ügyfél működési t
 
 [^10]: A 10. § (4) bekezdése a 8/2014. (XI. 19.) MvM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^11]: A 10. § (7) bekezdés b) pontja a 35/2012. (IV. 13.) VM rendelet 9. §-ával megállapított szöveg.
+[^12]: A 10. § (7) bekezdés d) pontja a 28/2015. (VI. 9.) MvM rendelet 42. § (1) bekezdésével megállapított szöveg.

@@ -34,7 +34,7 @@ a) egy LEADER HACS illetékességi területén megvalósuló projektre, valamint
 
 b) egy célterületre
 
-irányulhat.
+## irányulhat.
 
 (5) A pályázat benyújtására nyitva álló időszakban egy ügyfél egy célterületre kizárólag egy pályázatot nyújthat be.
 
