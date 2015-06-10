@@ -1,8 +1,8 @@
-## 4/B. §[^37] A technológiai támogatási egységhez tartozó tervezett költség a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 7-i 1975/2006/EK bizottsági rendelet 26. cikk (2) bekezdése alapján ellenőrzésre kerül. Ha a szakmai szempontok figyelembevételével elvégzett vizsgálat alapján a fajlagos költség indokolatlanul meghaladja a referencia költséget, az elszámolható kiadás csökkentésre kerül. A referencia költség alapját a benyújtott támogatási kérelmekben szereplő költségadatok képezik.
+## 4/B. §[^38] A technológiai támogatási egységhez tartozó tervezett költség a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 7-i 1975/2006/EK bizottsági rendelet 26. cikk (2) bekezdése alapján ellenőrzésre kerül. Ha a szakmai szempontok figyelembevételével elvégzett vizsgálat alapján a fajlagos költség indokolatlanul meghaladja a referencia költséget, az elszámolható kiadás csökkentésre kerül. A referencia költség alapját a benyújtott támogatási kérelmekben szereplő költségadatok képezik.
 
 ## A támogatás igénybevételének feltételei
 
-5. § (1)[^38] A mezőgazdasági termelő támogatási kérelem benyújtására akkor jogosult, ha:
+5. § (1)[^39] A mezőgazdasági termelő támogatási kérelem benyújtására akkor jogosult, ha:
 
 a) a mezőgazdasági üzemének mérete meghaladja a 4 európai méretegységet (a továbbiakban: EUME), és
 
@@ -26,51 +26,51 @@ g) a biogáz előállítással kapcsolatos – a „Trágyafeldolgozás anaerob 
 
 (2) Nem vonatkozik:
 
-a)[^39] az (1) bekezdés a)–d) pontjában előírt feltétel a termelői csoportra;
+a)[^40] az (1) bekezdés a)–d) pontjában előírt feltétel a termelői csoportra;
 
 b) az (1) bekezdés a) pontjában előírt feltétel az induló vállalkozásra;
 
-c)[^40] az (1) bekezdés c) pontjában előírt feltétel a 3. § (1) bekezdés a) pontja szerinti célterületen belül a „Hígtrágya-elvezetés, trágyaszállítás”, „Trágyatárolás”, „Trágyakezelés”, „Trágya-hasznosítás”, „Trágyafeldolgozás anaerob fermentációval” és a „Monitoring rendszer kialakítása”, csoportcím alatti támogatási egységek megvalósítására; valamint a „Csapadék trágyarendszertől elkülönített elvezetése” csoportcímen belül a „Nyitott felszíni csapadék-elvezető, illetve szikkasztó árok kialakítása” és a „Felszín alatti csapadék-elvezető betoncsatornák, illetve műanyag csőrendszerek kialakítása” támogatási egységekre.
+c)[^41] az (1) bekezdés c) pontjában előírt feltétel a 3. § (1) bekezdés a) pontja szerinti célterületen belül a „Hígtrágya-elvezetés, trágyaszállítás”, „Trágyatárolás”, „Trágyakezelés”, „Trágya-hasznosítás”, „Trágyafeldolgozás anaerob fermentációval” és a „Monitoring rendszer kialakítása”, csoportcím alatti támogatási egységek megvalósítására; valamint a „Csapadék trágyarendszertől elkülönített elvezetése” csoportcímen belül a „Nyitott felszíni csapadék-elvezető, illetve szikkasztó árok kialakítása” és a „Felszín alatti csapadék-elvezető betoncsatornák, illetve műanyag csőrendszerek kialakítása” támogatási egységekre.
 
 d) az (1) bekezdés c) pontjában előírt feltétel olyan ügyfélre, akinek hatósági kötelezés alapján el kell, vagy a támogatási kérelem benyújtását megelőző egy évben el kellett hagynia állattartó telepét és új állattartó telepet létesít;
 
-e)[^41] az (1) bekezdés c) pontjában előírt feltétel a 3. § (1) bekezdés b) pontja szerinti célterületen belül az „A tojásválogató, keltető épület és mézház építése”, valamint az „A méhészet technológiájának kialakítása és fejlesztése”, továbbá a 3. § (1) bekezdés e) pontja szerinti célterületen belül az „Az állati hulla és hulladéktárolók, valamint megsemmisítők kialakítása” csoportcímek alatti támogatási egységek megvalósítására.
+e)[^42] az (1) bekezdés c) pontjában előírt feltétel a 3. § (1) bekezdés b) pontja szerinti célterületen belül az „A tojásválogató, keltető épület és mézház építése”, valamint az „A méhészet technológiájának kialakítása és fejlesztése”, továbbá a 3. § (1) bekezdés e) pontja szerinti célterületen belül az „Az állati hulla és hulladéktárolók, valamint megsemmisítők kialakítása” csoportcímek alatti támogatási egységek megvalósítására.
 
 (3) Az ügyfél köteles:
 
 a) az utolsó kifizetési kérelem benyújtása előtt az Új Magyarország Vidékfejlesztési Program keretében szervezett kötelező képzésen részt venni;
 
-b)[^42] – ha az ügyfél tejtermelési célú szarvasmarhatartással és tehéntej-termeléssel foglalkozik – az üzemeltetési kötelezettség megszűnéséig megfelelni a tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló 43/2008. (IV. 4.) FVM rendeletben foglalt előírásoknak;
+b)[^43] – ha az ügyfél tejtermelési célú szarvasmarhatartással és tehéntej-termeléssel foglalkozik – az üzemeltetési kötelezettség megszűnéséig megfelelni a tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló 43/2008. (IV. 4.) FVM rendeletben foglalt előírásoknak;
 
-c)[^43]
+c)[^44]
 
-d)[^44] a művelet megvalósításától az üzemeltetési kötelezettség megszűnéséig szinten tartani – éves átlagos állatlétszámként – a támogatási döntés alapját képező állatlétszámot, az 1. számú melléklet szerinti állategység számításának megfelelően;
+d)[^45] a művelet megvalósításától az üzemeltetési kötelezettség megszűnéséig szinten tartani – éves átlagos állatlétszámként – a támogatási döntés alapját képező állatlétszámot, az 1. számú melléklet szerinti állategység számításának megfelelően;
 
 e) a szarvasmarha, juh, kecske, sertés és ló fajok tartása esetén az egyes állatfajok egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 29/2000. (VI. 9.) FVM rendelet, a szarvasmarha-fajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendelet, a juh- és kecskefajok egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 47/2005. (V. 23.) FVM rendelet, a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendelet (a továbbiakban együttesen: ENAR) előírásainak megfelelni;
 
-f)[^45] az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 18. § (1) bekezdés b) pontja szerinti állomány-nyilvántartást, illetve a 4/2004. (I. 13.) FVM rendelet 5. számú melléklete szerinti legeltetési és állatállomány-változási nyilvántartást vezetni.
+f)[^46] az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 18. § (1) bekezdés b) pontja szerinti állomány-nyilvántartást, illetve a 4/2004. (I. 13.) FVM rendelet 5. számú melléklete szerinti legeltetési és állatállomány-változási nyilvántartást vezetni.
 
-(4)[^46] Ha az ügyfél bértartó, illetve termelői csoport, akkor a (3) bekezdés d) pontjában előírt szinten tartási kötelezettség teljesítésének vizsgálatakor figyelembe veendő a beruházással érintett állattartó telepen bértartott állat, illetve a termelő csoport tagja által tartott állat is.
+(4)[^47] Ha az ügyfél bértartó, illetve termelői csoport, akkor a (3) bekezdés d) pontjában előírt szinten tartási kötelezettség teljesítésének vizsgálatakor figyelembe veendő a beruházással érintett állattartó telepen bértartott állat, illetve a termelő csoport tagja által tartott állat is.
 
-(5)[^47] Jelen intézkedés keretében támogatásra nem jogosult a védett vagy Natura 2000 területen gazdálkodó központi költségvetési szerv, önkormányzat és társulásai.
+(5)[^48] Jelen intézkedés keretében támogatásra nem jogosult a védett vagy Natura 2000 területen gazdálkodó központi költségvetési szerv, önkormányzat és társulásai.
 
-(5)[^48]
+(5)[^49]
 
-(6)[^49] Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalja, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben meg fog felelni az (1) bekezdés a) pontjában meghatározott feltételnek.
+(6)[^50] Ha az ügyfél induló vállalkozás, akkor a támogatási kérelem benyújtásával egyidejűleg nyilatkozatban vállalja, hogy legkésőbb a beruházás befejezését követő első teljes naptári évben meg fog felelni az (1) bekezdés a) pontjában meghatározott feltételnek.
 
-(8)–(9)[^50]
+(8)–(9)[^51]
 
-[^37]: A 4/B. §-t a 143/2009. (XI. 5.) FVM rendelet 3. § (4) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^38]: Az 5. § (1) bekezdése a 23/2010. (X. 20.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^39]: Az 5. § (2) bekezdés a) pontja a 23/2010. (X. 20.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^40]: Az 5. § (2) bekezdésének c) pontja a 44/2007. (VI. 8.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre alkalmazni kell.
-[^41]: Az 5. § (2) bekezdésének e) pontját a 82/2007. (VIII. 3.) FVM rendelet 4. § (1) bekezdése iktatta be, szövege a 143/2009. (XI. 5.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^42]: Az 5. § (3) bekezdés b) pontja a 143/2009. (XI. 5.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^43]: Az 5. § (3) bekezdés c) pontját a 47/2009. (IV. 16.) FVM rendelet 3. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 3. § (1) bekezdése alapján a 2007. április 23-tól benyújtott támogatási kérelmek esetében is alkalmazni kell.
-[^44]: Az 5. § (3) bekezdésének d) pontja a 38/2007. (V. 15.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^45]: Az 5. § (3) bekezdés f) pontja a 143/2009. (XI. 5.) FVM rendelet 4. § (4) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^46]: Az 5. § (4) bekezdése a 143/2009. (XI. 5.) FVM rendelet 4. § (5) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^47]: Az 5. § (5) bekezdését a 38/2007. (V. 15.) FVM rendelet 3. § (2) bekezdése iktatta be.
-[^48]: Az 5. § újabb (5) bekezdését a 82/2007. (VIII. 3.) FVM rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 143/2009. (XI. 5.) FVM rendelet 9. § (4) bekezdése. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
-[^49]: Az 5. § (6) bekezdését a 38/2007. (V. 15.) FVM rendelet 3. § (2) bekezdése iktatta be.
-[^50]: Az 5. § (8)–(9) bekezdését a 143/2009. (XI. 5.) FVM rendelet 4. § (6) bekezdése iktatta be, hatályon kívül helyezte a 41/2010. (XII. 20.) VM rendelet 7. §-a.
+[^38]: A 4/B. §-t a 143/2009. (XI. 5.) FVM rendelet 3. § (4) bekezdése iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^39]: Az 5. § (1) bekezdése a 23/2010. (X. 20.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^40]: Az 5. § (2) bekezdés a) pontja a 23/2010. (X. 20.) VM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^41]: Az 5. § (2) bekezdésének c) pontja a 44/2007. (VI. 8.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre alkalmazni kell.
+[^42]: Az 5. § (2) bekezdésének e) pontját a 82/2007. (VIII. 3.) FVM rendelet 4. § (1) bekezdése iktatta be, szövege a 143/2009. (XI. 5.) FVM rendelet 4. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^43]: Az 5. § (3) bekezdés b) pontja a 143/2009. (XI. 5.) FVM rendelet 4. § (3) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^44]: Az 5. § (3) bekezdés c) pontját a 47/2009. (IV. 16.) FVM rendelet 3. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 3. § (1) bekezdése alapján a 2007. április 23-tól benyújtott támogatási kérelmek esetében is alkalmazni kell.
+[^45]: Az 5. § (3) bekezdésének d) pontja a 38/2007. (V. 15.) FVM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 8. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^46]: Az 5. § (3) bekezdés f) pontja a 143/2009. (XI. 5.) FVM rendelet 4. § (4) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^47]: Az 5. § (4) bekezdése a 143/2009. (XI. 5.) FVM rendelet 4. § (5) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^48]: Az 5. § (5) bekezdését a 38/2007. (V. 15.) FVM rendelet 3. § (2) bekezdése iktatta be.
+[^49]: Az 5. § újabb (5) bekezdését a 82/2007. (VIII. 3.) FVM rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 143/2009. (XI. 5.) FVM rendelet 9. § (4) bekezdése. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^50]: Az 5. § (6) bekezdését a 38/2007. (V. 15.) FVM rendelet 3. § (2) bekezdése iktatta be.
+[^51]: Az 5. § (8)–(9) bekezdését a 143/2009. (XI. 5.) FVM rendelet 4. § (6) bekezdése iktatta be, hatályon kívül helyezte a 41/2010. (XII. 20.) VM rendelet 7. §-a.

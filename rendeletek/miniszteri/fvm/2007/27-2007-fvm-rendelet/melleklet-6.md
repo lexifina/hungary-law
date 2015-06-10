@@ -106,6 +106,6 @@
 
 | 3 | 3 | 1 | 3 | 4 | Vízminőséget javító, szűrők és más a káros anyagoktól mentesítő berendezések beépítése | ezer Ft |
 
-6. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^112]
+6. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^115]
 
-[^112]: A 6. számú melléklet a 82/2007. (VIII. 3.) FVM rendelet 9. §-ával megállapított szöveg.
+[^115]: A 6. számú melléklet a 82/2007. (VIII. 3.) FVM rendelet 9. §-ával megállapított szöveg.

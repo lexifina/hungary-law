@@ -1,7 +1,5 @@
 ## Támogatási egységek állategységre vetített elszámolható kiadása a telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javító, az állatbetegségek kialakulását és terjedését megelőző beruházás megvalósítására szolgáló beruházásokra vonatkozóan
 
-## 7M07891_0
-
 | Cél- terü- leti kód | Te- vé- keny- ség- típus | Fő- cso- port | Cso- port | Támo- gatási egység kódja | Megnevezés | Maximum elszámolható kiadás | Kiadás mérték- egység |
 
 | 5 | A telepi állategészségügyi helyzetet, illetve a nyomon követhetőséget javító, állatbetegségek kialakulását és terjedését megelőző beruházások célterülete |  |
@@ -62,6 +60,6 @@
 
 | 5 | 1 | 2 | 3 | 1 | Állati hullaégető kazánok telepítése | 12 000 | Ft/ÁE |
 
-8. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^114]
+8. számú melléklet a 27/2007. (IV. 17.) FVM rendelethez[^117]
 
-[^114]: A 8. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
+[^117]: A 8. számú melléklet a 143/2009. (XI. 5.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. november 6. napját követően benyújtott támogatási kérelmek esetében kell alkalmazni.
