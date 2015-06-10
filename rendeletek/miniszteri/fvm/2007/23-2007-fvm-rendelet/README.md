@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-23-20-8
 | 2014-11-20 | 2007-23-20-82.37 | 8/2014. (XI. 19.) MvM rendelet |
 | 2014-12-31 | 2007-23-20-82.38 | 124/2011. (XII. 21.) VM rendelet |
 | 2015-02-17 | 2007-23-20-82.39 | 7/2015. (II. 17.) MvM rendelet |
+| 2015-06-10 | 2007-23-20-82.40 | 28/2015. (VI. 9.) MvM rendelet |

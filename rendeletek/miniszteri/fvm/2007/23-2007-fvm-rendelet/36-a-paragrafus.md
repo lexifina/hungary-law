@@ -1,11 +1,11 @@
-## 36/A. §[^243] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet módosításáról szóló 41/2010. (XII. 20.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított
+## 36/A. §[^247] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet módosításáról szóló 41/2010. (XII. 20.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított
 
-a) 24. §-át és a 35. § (9) bekezdését a módosító rendelet hatálybalépésekor[^244] a jogerős támogatási határozattal le nem zárt eljárásokban,
+a) 24. §-át és a 35. § (9) bekezdését a módosító rendelet hatálybalépésekor[^248] a jogerős támogatási határozattal le nem zárt eljárásokban,
 
 b) a 35. § (1) bekezdését a folyamatban lévő ügyekben,
 
-c) a 25. § (6)–(7) bekezdéseit a módosító rendelet hatálybalépéséig[^245] jogerős támogatási határozattal lezárt ügyekben
+c) a 25. § (6)–(7) bekezdéseit a módosító rendelet hatálybalépéséig[^249] jogerős támogatási határozattal lezárt ügyekben
 
-[^243]: A 36/A. §-t a 41/2010. (XII. 20.) VM rendelet 6. §-a iktatta be.
-[^244]: A hatálybalépés napja: 2010. december 23.
-[^245]: A hatálybalépés napja: 2010. december 23.
+[^247]: A 36/A. §-t a 41/2010. (XII. 20.) VM rendelet 6. §-a iktatta be.
+[^248]: A hatálybalépés napja: 2010. december 23.
+[^249]: A hatálybalépés napja: 2010. december 23.

@@ -1,14 +1,14 @@
-## 36/I. §[^262] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 3. § 30. pont b) pont bd) alpontot, 13. § (8) és (9) bekezdést, 15. § (1) bekezdés a) pontot, 16. § (1) bekezdést, 17. § (3) bekezdést, 24. § (2a) bekezdést, 30/B. §-t, 33. § (1), (5), (6) és (8) bekezdést, valamint 35. § (4) és (12) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^263] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 36/I. §[^266] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 3. § 30. pont b) pont bd) alpontot, 13. § (8) és (9) bekezdést, 15. § (1) bekezdés a) pontot, 16. § (1) bekezdést, 17. § (3) bekezdést, 24. § (2a) bekezdést, 30/B. §-t, 33. § (1), (5), (6) és (8) bekezdést, valamint 35. § (4) és (12) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^267] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
-36/J. §[^264] (1) Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] megállapított 13. § (8) és (9) bekezdést, 15. § (1) bekezdés a) pontot, 16. § (1) bekezdést, és 35. § (12) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^265] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+36/J. §[^268] (1) Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási tárgyú rendeletek módosításáról szóló 12/2014. (XII. 30.) MvM rendelettel [a továbbiakban: 12/2014. (XII. 30.) MvM rendelet] megállapított 13. § (8) és (9) bekezdést, 15. § (1) bekezdés a) pontot, 16. § (1) bekezdést, és 35. § (12) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^269] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
-(2) A 12/2014. (XII. 30.) MvM rendelettel megállapított 16/B. § (1a) bekezdést és 25. § (2a) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^266] folyamatban lévő ügyekben és jogorvoslati eljárásokban is alkalmazni kell.
+(2) A 12/2014. (XII. 30.) MvM rendelettel megállapított 16/B. § (1a) bekezdést és 25. § (2a) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépésekor[^270] folyamatban lévő ügyekben és jogorvoslati eljárásokban is alkalmazni kell.
 
-(3) A 12/2014. (XII. 30.) MvM rendelettel megállapított 35. § (10) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépését[^267] követő 10. napot követően hozott kifizetési döntések esetében kell alkalmazni.
+(3) A 12/2014. (XII. 30.) MvM rendelettel megállapított 35. § (10) bekezdést a 12/2014. (XII. 30.) MvM rendelet hatálybalépését[^271] követő 10. napot követően hozott kifizetési döntések esetében kell alkalmazni.
 
-[^262]: A 36/I. §-t a 8/2014. (XI. 19.) MvM rendelet 1. § (10) bekezdése iktatta be.
-[^263]: A hatálybalépés időpontja 2014. november 20.
-[^264]: A 36/J. §-t a 12/2014. (XII. 30.) MvM rendelet 1. § (5) bekezdése iktatta be.
-[^265]: A hatálybalépés időpontja 2014. december 31.
-[^266]: A hatálybalépés időpontja 2014. december 31.
-[^267]: A hatálybalépés időpontja 2014. december 31.
+[^266]: A 36/I. §-t a 8/2014. (XI. 19.) MvM rendelet 1. § (10) bekezdése iktatta be.
+[^267]: A hatálybalépés időpontja 2014. november 20.
+[^268]: A 36/J. §-t a 12/2014. (XII. 30.) MvM rendelet 1. § (5) bekezdése iktatta be.
+[^269]: A hatálybalépés időpontja 2014. december 31.
+[^270]: A hatálybalépés időpontja 2014. december 31.
+[^271]: A hatálybalépés időpontja 2014. december 31.

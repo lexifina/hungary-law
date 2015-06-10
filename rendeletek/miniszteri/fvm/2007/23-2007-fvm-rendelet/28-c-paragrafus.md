@@ -1,4 +1,4 @@
-## 28/C. §[^184] A támogatás összeg megállapításának alapjául szolgáló elszámolható kiadások az alábbi adatok figyelembevételével kerülnek meghatározásra:
+## 28/C. §[^188] A támogatás összeg megállapításának alapjául szolgáló elszámolható kiadások az alábbi adatok figyelembevételével kerülnek meghatározásra:
 
 a) gépberuházás esetén a támogatási kérelemhez rendszeresített MVH formanyomtatványokon megadott gépkatalógus kód, gép darabszám és az egy gépre vetített tervezett beszerzési ár, de legfeljebb a gépkatalógusban szereplő referenciaár;
 
@@ -8,4 +8,4 @@ c) Építési Normagyűjteménybe, gépkatalógusba be nem sorolható tétel, va
 
 d) a 31. § szerinti kiadások esetén a kiadások megvalósítási helyenként, vagy összesítetten tervezett összege.
 
-[^184]: A 28/C. §-t a 124/2011. (XII. 21.) VM rendelet 22. §-a iktatta be.
+[^188]: A 28/C. §-t a 124/2011. (XII. 21.) VM rendelet 22. §-a iktatta be.

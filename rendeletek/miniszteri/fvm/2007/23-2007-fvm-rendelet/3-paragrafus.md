@@ -102,7 +102,9 @@ alapján támogatási határozattal, vagy kizárólag forráshiányra való hiva
 
 43.[^45] elkülönített nyilvántartás: azon támogatott művelet megvalósítását eredményező eseményekről szóló külön nyilvántartás, illetve külön analitikus nyilvántartás eredeti bizonylatai, melyek a támogatási határozattal jóváhagyott művelethez kapcsolódóan az ügyfél vagyoni és jövedelmi helyzetére hatást gyakorolnak, azzal hogy könyvvezetési kötelezettség esetén az ügyfél kiadásait, valamint – ha a támogatás részletes feltételeit megállapító jogszabály ahhoz joghatást fűz – a bevételeit is tartalmazza, szabályzatban meghatározott helyen, bármikor ellenőrizhetően tárolt, őrzött módon, az üzemeltetési kötelezettség lejáratáig, de legalább a vonatkozó jogszabályokban előírt iratmegőrzési határidőig;
 
-44.[^46] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+44.[^46] gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
+45.[^47] kamarai meghatalmazott: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara munkavállalója, aki az agrár-vidékfejlesztési támogatások igénybevételével összefüggő elektronikus ügyintézésben technikai közreműködőként jár el;
 
 [^11]: A 3. § 4. pontja a 97/2008. (VII. 25.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § 5. pontja a 124/2011. (XII. 21.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -140,3 +142,4 @@ alapján támogatási határozattal, vagy kizárólag forráshiányra való hiva
 [^44]: A 3. § 42. pontját a 124/2011. (XII. 21.) VM rendelet 3. § (10) bekezdése iktatta be.
 [^45]: A 3. § 43. pontját a 137/2012. (XII. 22.) VM rendelet 1. § (2) bekezdése iktatta be.
 [^46]: A 3. § 44. pontját a 22/2014. (III. 14.) VM rendelet 39. § (3) bekezdése iktatta be.
+[^47]: A 3. § 45. pontját a 28/2015. (VI. 9.) MvM rendelet 1. § (1) bekezdése iktatta be.
