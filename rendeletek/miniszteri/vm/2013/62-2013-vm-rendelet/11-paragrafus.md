@@ -1,8 +1,8 @@
 ## 9. Jogkövetkezmények
 
-11. § (1) Amennyiben az ügyfél a műveletet a 3. § (7) bekezdésében foglalt megvalósítási határidőig nem valósítja meg, vagy a 4. § (1) bekezdés b) pontjában foglalt feltételt nem teljesíti, abban az esetben az MVH – amennyiben kifizetési kérelem alapján eljárás van folyamatban, úgy a kérelmet határozattal elutasítja – külön határozatban a támogatási határozatát visszavonja, ezzel egyidejűleg megállapítja, hogy az ügyfél támogatáshoz való jogosultsága az intézkedésben való jogosulatlan részvétel miatt megszűnik, továbbá az ügyfél által igénybevett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
+11. § (1)[^10] Amennyiben az ügyfél a műveletet a 3. § (7) bekezdésében foglalt megvalósítási határidőig nem valósítja meg, abban az esetben az MVH – amennyiben kifizetési kérelem alapján eljárás van folyamatban, úgy a kérelmet határozattal elutasítja – külön határozatban a támogatási határozatát visszavonja, ezzel egyidejűleg megállapítja, hogy az ügyfél támogatáshoz való jogosultsága az intézkedésben való jogosulatlan részvétel miatt megszűnik, továbbá az ügyfél által igénybevett támogatás jogosulatlanul igénybe vett támogatásnak minősül.
 
-(2) A 4. § (1) bekezdés a) pontjában foglalt feltétel megsértése esetén az MVH – amennyiben kifizetési kérelem alapján eljárás van folyamatban, úgy a kérelmet határozattal elutasítja – külön határozatban a támogatási határozatát visszavonja, ezzel egyidejűleg megállapítja, hogy az ügyfél támogatáshoz való jogosultsága intézkedésben való jogosulatlan részvétel miatt megszűnik, továbbá az MVH a támogatási határozatot visszavonó és támogatáshoz való jogosultság megszűnését megállapító határozatában rendelkezik arról, hogy az ügyfél a határozat jogerőre emelkedésének naptári évére és az azt követő naptári évre a 2007–2013-as időszakban az EMVA adott intézkedésére nem nyújthat be támogatási kérelmet, továbbá a már benyújtott, de jogerős döntéssel még el nem bírált támogatási kérelme elutasításra kerül.
+(2)[^11]
 
 (3) Amennyiben a 3. §-ban foglalt szempontok ellenőrzése során kiderül, hogy az ügyfél nem valós adatot szolgáltatott, úgy a kifizetett támogatás egészét jogosulatlanul igénybe vett támogatásként az intézkedésben való jogosulatlan részvételre vonatkozó szabályok szerint kell visszafizetni.
 
@@ -16,9 +16,11 @@
 
 (8) Amennyiben az ügyfél a 4. § (8) bekezdésében foglaltakat megszegi, és a támogatási kérelem alapján indult eljárás során kerül megállapításra, hogy a művelet e rendelet hatálybalépését megelőzően megkezdődött, akkor az a támogatási kérelem érintett tételeinek elutasítását vonja maga után. Amennyiben ez a kifizetési kérelem alapján indult eljárás során kerül megállapításra, úgy az érintett tétel elutasításra kerül, a korábbi kifizetési határozatban elszámolt, érintett tételek vonatkozásában az intézkedésben való jogosulatlan részvétel szabályait kell alkalmazni.
 
-(9)[^8] Amennyiben az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor – hiányzó foglalkoztatottanként egyszer – a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot intézkedésben való jogosulatlan részvétel jogcímén köteles visszafizetni.
+(9)[^12] Amennyiben az ügyfél a támogatási kérelemben vállalt átlagos foglalkoztatotti létszámnál kevesebb főt foglalkoztat az üzemeltetési kötelezettség harmadik évétől kezdődően, akkor – hiányzó foglalkoztatottanként egyszer – a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 2%-ának megfelelő összeget, de legfeljebb 300 000 forintot intézkedésben való jogosulatlan részvétel jogcímén köteles visszafizetni.
 
-(10)[^9] Amennyiben az ügyfél nyilatkozatban vállalja, hogy a támogatott gépet illóolaj-, gyógy- és fűszernövény ágazatban fogja használni és ezen kötelezettségének nem tesz eleget, de a gépet kertészeti tevékenységén belül használja, a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 50%-át a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint kell visszafizetni.
+(10)[^13] Amennyiben az ügyfél nyilatkozatban vállalja, hogy a támogatott gépet illóolaj-, gyógy- és fűszernövény ágazatban fogja használni és ezen kötelezettségének nem tesz eleget, de a gépet kertészeti tevékenységén belül használja, a valamennyi kifizetési kérelem alapján jóváhagyott támogatási összeg 50%-át a jogosulatlanul igénybe vett támogatásra vonatkozó szabályok szerint kell visszafizetni.
 
-[^8]: A 11. § (9) bekezdése a 7/2015. (II. 17.) MvM rendelet 72. § (2) bekezdésével megállapított szöveg.
-[^9]: A 11. § (10) bekezdése a 7/2015. (II. 17.) MvM rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^10]: A 11. § (1) bekezdése a 28/2015. (VI. 9.) MvM rendelet 79. § d) pontja szerint módosított szöveg.
+[^11]: A 11. § (2) bekezdését a 28/2015. (VI. 9.) MvM rendelet 79. § e) pontja hatályon kívül helyezte.
+[^12]: A 11. § (9) bekezdése a 7/2015. (II. 17.) MvM rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^13]: A 11. § (10) bekezdése a 7/2015. (II. 17.) MvM rendelet 72. § (2) bekezdésével megállapított szöveg.
