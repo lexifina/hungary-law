@@ -1,6 +1,6 @@
-## 13/C. §[^70] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 5. § (12) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^71] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 13/D. §[^72] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 5. § (12) bekezdését és 11. § (1a) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor[^73] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## Az Európai Unió jogának való megfelelés
 
-[^70]: A 13/C. §-t a 8/2014. (XI. 19.) MvM rendelet 7. § (2) bekezdése iktatta be.
-[^71]: A hatálybalépés időpontja 2014. november 20.
+[^72]: A 13/D. §-t a 28/2015. (VI. 9.) MvM rendelet 24. §-a iktatta be.
+[^73]: A hatálybalépés időpontja 2015. június 10.

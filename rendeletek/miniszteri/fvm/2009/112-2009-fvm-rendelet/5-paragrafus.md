@@ -26,11 +26,11 @@ b) meglévő épület bővítésére vonatkozóan a nettó 235 000 forint/négyz
 
 (11) A 3. § (1) bekezdés c) pontjához kapcsolódó elszámolható kiadás nem haladhatja meg a nettó 10 000 000 forint összeget.
 
-(12)[^14] A 3. § (1) bekezdés d) pontja alapján az üzemeltetési kötelezettség teljes ideje alatt az IKSZT működtetésére legfeljebb 6 500 000 forint elszámolható kiadás használható fel, azonban az ügyfél a Vhr. 17. § (3) bekezdésében meghatározottaktól eltérően erre irányuló kifizetési kérelmet 2015. április 30. napjáig nyújthat be.
+(12)[^14] A 3. § (1) bekezdés d) pontja alapján az üzemeltetési kötelezettség teljes ideje alatt az IKSZT működtetésére legfeljebb 6 500 000 forint elszámolható kiadás használható fel, azonban az ügyfél a Vhr. 17. § (3) bekezdésében meghatározottaktól eltérően erre irányuló kifizetési kérelmet 2015. július 31. napjáig nyújthat be.
 
 (13) A 3. § (1) bekezdés d) pontja alapján az IKSZT működtetésére elszámolt kiadás nem haladhatja meg a 3. § (1) bekezdés a)–c) pontjában elszámolt kiadás 25%-át.
 
 (14)[^15] A Vhr. 23. § (1) bekezdés b) pontjától eltérően az üzemeltetési kötelezettség a 3. § (1) bekezdés a)–c) pontjában foglalt tevékenységek kiadásaira irányuló utolsó kifizetési kérelem benyújtásának napjától számított öt évig tart abban az esetben is, ha az ügyfél a 3. § (1) bekezdés d) pontja szerinti támogatásra nem jogosult.
 
-[^14]: Az 5. § (12) bekezdése a 8/2014. (XI. 19.) MvM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (12) bekezdése a 8/2014. (XI. 19.) MvM rendelet 7. § (1) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 25. § a) pontja szerint módosított szöveg.
 [^15]: Az 5. § (14) bekezdése a 84/2012. (VIII. 2.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.

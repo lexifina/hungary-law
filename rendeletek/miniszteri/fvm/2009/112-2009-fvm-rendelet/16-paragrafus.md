@@ -1,4 +1,4 @@
-## 15. §[^72] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások körében az integrált közösségi és szolgáltató tér kialakítására és működtetésére igénybe vehető támogatások részletes feltételeiről szóló 112/2009. (VIII. 29.) FVM rendelet módosításáról szóló 84/2012. (VIII. 2.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított rendelkezéseit a módosító rendelet hatálybalépésekor[^73] folyamatban lévő ügyekben is alkalmazni kell.
+## 15. §[^74] E rendeletnek az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó, a vidéki gazdaság és lakosság számára nyújtott alapszolgáltatások körében az integrált közösségi és szolgáltató tér kialakítására és működtetésére igénybe vehető támogatások részletes feltételeiről szóló 112/2009. (VIII. 29.) FVM rendelet módosításáról szóló 84/2012. (VIII. 2.) VM rendelettel (a továbbiakban: módosító rendelet) megállapított rendelkezéseit a módosító rendelet hatálybalépésekor[^75] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^72]: A 15. §-t a 84/2012. (VIII. 2.) VM rendelet 11. §-a iktatta be.
-[^73]: A hatálybalépés időpontja 2012. augusztus 5.
+[^74]: A 15. §-t a 84/2012. (VIII. 2.) VM rendelet 11. §-a iktatta be.
+[^75]: A hatálybalépés időpontja 2012. augusztus 5.
