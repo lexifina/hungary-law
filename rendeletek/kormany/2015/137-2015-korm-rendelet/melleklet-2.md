@@ -1,7 +1,3 @@
-## A GET Vhr. 1. számú melléklet 11. pontja a következő 11.13. alponttal egészül ki:
-
-## „11.13. Ha a földgázelosztó a 11.9. pontban meghatározott feltételek fennállását észleli, köteles a felhasználó figyelmét felhívni a fogyasztásmérő berendezés cseréjének lehetőségére. A fogyasztásmérő berendezés 11.9. pont szerinti cseréje, a fogyasztásmérő berendezés cseréjével kapcsolatos kiviteli terv elkészítése és a mérőhely kialakítása egyetemes szolgáltatásra jogosult felhasználó esetén a földgázelosztó kötelessége, saját költségén.”
-
 2. melléklet a 137/2015. (VI. 2.) Korm. rendelethez
 
 A GET Vhr. 1. számú melléklet 11. pontja a következő 11.14–11.18. alpontokkal egészül ki:
