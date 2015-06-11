@@ -1,3 +1,0 @@
-## 1. § Az üvegházhatású gázok kibocsátásával kapcsolatos egyes tevékenységek igazgatási szolgáltatási díjáról és felügyeleti díjáról szóló 80/2012. (XII. 28.) NFM rendelet (a továbbiakban: R.) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény (a továbbiakban: Éhvt.) 13. §-a szerinti felügyeleti díjat átutalási megbízással, egy összegben kell teljesíteni az energiapolitikáért felelős miniszter által vezetett minisztérium Magyar Államkincstárnál vezetett NFM igazgatás 10032000-00290713-00000000 számú fizetési számlájára.”
