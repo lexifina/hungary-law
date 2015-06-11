@@ -1,3 +1,0 @@
-## 4. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a kedvezőtlen adottságú területeken történő gazdálkodáshoz nyújtandó kompenzációs támogatások részletes szabályairól szóló 25/2007. (IV. 17.) FVM rendelet [a továbbiakban: 25/2007. (IV. 17.) FVM rendelet] „Záró rendelkezések” alcíme a következő 11/E. §-sal egészül ki:
-
-## „11/E. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 9. § (3) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”

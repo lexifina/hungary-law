@@ -1,1 +1,0 @@
-## 5. § A 25/2007. (IV. 17.) FVM rendelet 9. § (3) bekezdésében a „május 15-éig a lakhelye” szövegrész helyébe a „május 15-éig, 2015. évben az egységes kérelem benyújtásának határidejéig a lakhelye” szöveg lép.

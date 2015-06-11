@@ -1,3 +1,0 @@
-## 11. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a rövid vágásfordulójú fás szárú energiaültetvények telepítéséhez nyújtott támogatás igénybevételének részletes feltételeiről szóló 72/2007. (VII. 27.) FVM rendelet [a továbbiakban: 72/2007. (VII. 27.) FVM rendelet] „Záró rendelkezések” alcíme a következő 11/A. §-sal egészül ki:
-
-## „11/A. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 8. § (3) bekezdését a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”

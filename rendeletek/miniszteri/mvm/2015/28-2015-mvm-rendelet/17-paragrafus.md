@@ -1,3 +1,0 @@
-## 16. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból az Új Magyarország Vidékfejlesztési Program I. és II. intézkedéscsoportjához kapcsolódó képzések tárgyában nyújtandó támogatások részletes feltételeiről szóló 139/2008. (X. 22.) FVM rendelet [a továbbiakban: 139/2008. (X. 22.) FVM rendelet] „Záró rendelkezés” alcíme a következő 10/I. §-sal egészül ki:
-
-## „10/I. § Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] hatályon kívül helyezett rendelkezést a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor folyamatban lévő ügyekben sem kell alkalmazni.”

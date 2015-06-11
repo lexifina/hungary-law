@@ -1,1 +1,0 @@
-## 34. Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdei közjóléti létesítmények megvalósításához nyújtandó támogatások részletes feltételeiről szóló 66/2013. (VII. 29.) VM rendelet módosítása

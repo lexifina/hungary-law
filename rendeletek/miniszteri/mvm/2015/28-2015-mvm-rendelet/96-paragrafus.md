@@ -1,1 +1,0 @@
-## 95. § A 17/2015. (III. 30.) MvM rendelet 4. § b) pontjában az „elektronikus úton is fel kell töltenie az egységes kérelem felületen, valamint” szövegrész helyébe az „elektronikus úton fel kell töltenie az egységes kérelem felületen vagy” szöveg lép.
