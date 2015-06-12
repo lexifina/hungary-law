@@ -1,4 +1,4 @@
-1. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^93]
+1. melléklet a 323/2007. (XII. 11.) Korm. rendelethez[^79]
 
 ## A forgalmi jegyzékhez kapcsolódó számlavezetési díj megállapítása
 
@@ -22,4 +22,4 @@
 
 A díjfizetés alapja a tárgyévet megelőző év során a számlára beérkező kibocsátás-csökkentési egységek és igazolt kibocsátás-csökkentési egységek együttes mennyisége.
 
-[^93]: Az 1. melléklet az 528/2013. (XII. 30.) Korm. rendelet 15. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^79]: Az 1. melléklet az 528/2013. (XII. 30.) Korm. rendelet 15. § (4) bekezdés a) pontja szerint módosított szöveg.
