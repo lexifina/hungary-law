@@ -1,0 +1,5 @@
+## 20. § A villamosenergia-termelők részére az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény alapján történő derogációs kiosztás végrehajtási szabályairól szóló 341/2013. (IX. 25.) Korm. rendelet (a továbbiakban: 341/2013. Korm. rendelet) 1. § 5. pontja helyébe a következő lép:
+
+## (E rendelet alkalmazásában:)
+
+## „5. elszámolható költség: mindazon tárgyi eszközök és immateriális javak (ideértve a beruházás előzetes megvalósíthatóságának vizsgálatával közvetlenül összefüggő költségeket is, például előzetes megvalósíthatósági dokumentációk és egyéb, a Nemzeti Tervben vállalt beruházások megvalósításával összefüggésben keletkezett járulékos költségek) teljes költségei, amelyek a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikkével összhangban benyújtott és az Európai Bizottság által jóváhagyott Nemzeti Tervben vállalt beruházások megvalósításával összefüggésben keletkeztek a Nemzeti Tervben jóváhagyott gazdasági jogalanyok vagy azoknak a Nemzeti Tervben rögzítettek szerinti 100%-os tulajdonában lévő gazdasági jogalanyok oldalán,”

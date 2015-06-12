@@ -1,0 +1,3 @@
+## 7. § A 410/2012. Korm. rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A jegyzékkezelő az adott évben az üzemeltetők és a légi jármű üzembentartók részére ingyenesen kiosztásra került ÜHG-egységek pontos mennyiségéről a kiosztásban részesült üzemeltetők és a légi jármű üzembentartók megjelölésével a kiosztás megtörténtét követő 15 napon belül tájékoztatást nyújt a miniszter és az energiapolitikáért felelős miniszter részére. A tájékoztatás kézhezvételét követően a miniszter minden év június 30. napjáig tájékoztatja az MNV Zrt.-t az üzemeltetők és a légi jármű üzembentartók részére ingyenesen kiosztásra került ÜHG-egységek mennyiségéről a kiosztásban részesült üzemeltetők és a légi jármű üzembentartók megjelölésével.”

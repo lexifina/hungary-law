@@ -1,0 +1,1 @@
+## „(4) A létesítmény részére a tárgyévre történő térítésmentes kibocsátási egységkiosztást követő 20 napon belül a hatóság a jóváhagyott kibocsátási egységmennyiségeket alapul véve a 4. mellékletben foglaltak szerint a számlavezetési díjat meghatározza és végszámlát állít ki.”
