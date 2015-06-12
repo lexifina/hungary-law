@@ -18,6 +18,6 @@ b) a gyakorlati képzést nem szervező hozzájárulásra kötelezett a hozzáj�
 
 (4)
 
-(5) A szakképzésért és felnőttképzésért felelős miniszter a 12. § szerinti keretösszegeket a (2)–(4) bekezdésre, valamint a 32. § (1) bekezdésében foglaltakra figyelemmel tervezi.
+(5)
 
 (6) A hozzájárulási kötelezettséget a 2012. évre vonatkozóan 2013. február 25-ig benyújtandó bevallásban kell teljesíteni, a többletbefizetést ettől az időponttól lehet visszaigényelni.

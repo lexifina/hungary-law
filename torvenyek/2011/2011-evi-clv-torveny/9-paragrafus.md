@@ -6,7 +6,7 @@ b) a 8. § (1) bekezdése szerinti csökkentő tétel és az 5. § e) pontja sze
 
 c) az éves bruttó kötelezettség és a b) pont szerinti összeg különbözeteként megállapított éves nettó kötelezettségét
 
-maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyévet követő év január 12. napjáig az állami adóhatóságnak.
+maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyévet követő év január 12. napjáig az állami adóhatóságnak, vagy igényli vissza a 8. § (2) bekezdése szerint figyelembe vehető összeget.
 
 (2) A hozzájárulásra kötelezett az év 1–11. hónapjára vonatkozóan havonta szakképzési hozzájárulási előleget fizet.
 
@@ -16,7 +16,7 @@ maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyévet 
 
 (5) A befizetett előleg és az éves nettó kötelezettség különbözetét a tárgyévet követő év január 12. napjáig kell befizetni vagy a többletbefizetést ettől az időponttól lehet visszaigényelni.
 
-(6) A kettős könyvvitelt vezető, eltérő üzleti éves egészségügyi szolgáltató vagy a közhasznú nonprofit társaság a fizetendő szakképzési hozzájárulás alapjának a 2. § (5) bekezdés b) pontja, valamint e) pontja szerinti meghatározásához szükséges, az üzleti évet követő év ötödik hónap utolsó napjáig az árbevétele összetételének alakulásában bekövetkezett – az (1) bekezdés szerinti éves bevallásában figyelembe nem vett – változása esetén a szakképzési hozzájárulás különbözetét az üzleti évet követő év ötödik hónap utolsó napjáig a társasági adóról készítendő bevallásában vallja be, fizeti meg vagy igényli vissza.
+(6) A kettős könyvvitelt vezető, egészségügyi szolgáltató vagy a közhasznú nonprofit társaság a fizetendő szakképzési hozzájárulás alapjának a 2. § (5) bekezdés b) pontja, valamint e) pontja szerinti meghatározásához szükséges, az üzleti évet követő év ötödik hónap utolsó napjáig az árbevétele összetételének alakulásában bekövetkezett – az (1) bekezdés szerinti éves bevallásában figyelembe nem vett – változása esetén a szakképzési hozzájárulás különbözetét az üzleti évet követő év ötödik hónap utolsó napjáig a társasági adóról készítendő bevallásában vallja be, fizeti meg vagy igényli vissza.
 
 (7) A hozzájárulásra kötelezett a visszajáró összeg kiutalását vagy átvezetését legkorábban a bevallás esedékességének napjától kezdeményezheti.
 

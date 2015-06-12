@@ -1,10 +1,10 @@
 13. § (1) Az alaprész feletti rendelkezési jogot a szakképzésért és felnőttképzésért felelős miniszter gyakorolja.
 
-(2) A szakképzésért és felnőttképzésért felelős miniszter – a 12. § a) pontjában szereplő támogatási döntések figyelembevételével – meghatározza a 12. § szerinti keretösszegek mértékét.
+(2) A 12. § szerinti keretösszegek mértékét a szakképzésért és felnőttképzésért felelős miniszter határozza meg.
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter – a (2) bekezdésben foglaltakon túl –
 
-a) dönt – a 18. § (1) bekezdés c) pontjában foglaltak figyelembevételével – az alaprész központi keretének elosztásáról, szakképzési és – miniszteri rendeletben meghatározott – felnőttképzési célú felhasználásáról, a decentralizált keret megyénkénti felosztásáról, a decentralizált keret terhére kiírandó pályázati célok prioritásairól, a központi és decentralizált keret terhére nyújtandó támogatásokról,
+a) dönt a decentralizált keret megyénkénti felosztásáról, a decentralizált keret terhére kiírandó pályázati célok prioritásairól, valamint a 12. § a), d), g) és h) pontjában meghatározott keret terhére nyújtandó támogatásokról,
 
 b) felelős az alaprész
 
@@ -14,7 +14,7 @@ bb) bevételei beszedésének elrendeléséért,
 
 bc) követeléseinek behajtásáért, a pénzügyi garanciák érvényesítéséért,
 
-c) határoz az alaprész felhasználására vonatkozó döntések nyilvánosságra hozatalának módjáról,
+c)
 
 d) kezdeményezi az alaprész pénzeszközeinek felhasználásával kapcsolatos szakértői vizsgálatokat,
 

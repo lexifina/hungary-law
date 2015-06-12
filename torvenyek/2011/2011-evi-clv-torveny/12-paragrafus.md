@@ -2,20 +2,24 @@
 
 ## A KÉPZÉS, VALAMINT A KÉPZÉSI RENDSZER FEJLESZTÉSÉNEK TÁMOGATÁSA
 
-12. § A Nemzeti Foglalkoztatási Alap képzési alaprészének (a továbbiakban: alaprész) éves költségvetési törvényben meghatározott „Szakképzési és felnőttképzési támogatások” elnevezésű eredeti kiadási előirányzata tartalmazza:
+12. § A Nemzeti Foglalkoztatási Alap képzési alaprészének (a továbbiakban: alaprész) a központi költségvetésről szóló törvényben a szakképzési és felnőttképzési támogatásokhoz kapcsolódóan meghatározott előirányzata tartalmazza
 
-a) a szakképzésért és felnőttképzésért felelős miniszter döntésén alapuló,
+a) a szakképzésért és felnőttképzésért felelős miniszter döntésén alapuló, a 14. § szerinti támogatásra szolgáló keretösszeget,
 
-aa) a 14. § szerinti támogatásra,
+b) a költségvetési törvény által előírt európai uniós társfinanszírozási kötelezettség keretében a szakképzési és felnőttképzési intézkedésekre biztosított keretösszeget,
 
-ab) a szakképzéssel, illetve a felnőttképzéssel összefüggő, központi program teljesítésére szolgáló keretösszeget,
+c) a 16. § szerinti ösztöndíj és az ezzel összefüggésben felmerült költségek támogatására a költségvetési évre megállapított keretösszeget,
 
-b) a hozzájárulásra nem kötelezett, a szakképzésről szóló törvény szerint tanulószerződés kötésére jogosult egyéb szerv, szervezet normatív támogatását szolgáló keretösszeget,
+d) a decentralizált keretösszeget,
 
-c) a szakiskola szakképzési évfolyamán, az első szakképesítésre felkészítő, nappali rendszerű iskolai oktatásban részt vevő, tanulói jogviszonyban lévő, hiány-szakképesítést tanulókat megillető – a szakiskolai tanulmányi ösztöndíjról szóló kormányrendeletben meghatározott – szakiskolai tanulmányi ösztöndíj és az ezzel összefüggésben felmerült költségek támogatására a költségvetési évre megállapított keretösszeget,
+e) a szakképzésért és felnőttképzésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
 
-d) a költségvetési törvény által előírt európai uniós társfinanszírozási kötelezettség keretében a szakképzési és felnőttképzési intézkedésekre biztosított keretösszeget,
+f) a szakképesítésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
 
-e) a decentralizált keretösszeget, amely az a)–d) pont levonását követően fennmaradó összeg 75%-a,
+g) az állami fenntartású szakképző iskolák felnőttoktatási tevékenységének támogatására szolgáló keretösszeget,
 
-f) a központi keretösszeget, amely az a)–e) pont levonását követően fennmaradó összeg.
+h) a központi keretösszeget,
+
+i) a 19/A. § (2) bekezdés b) pontja és (3) bekezdése szerinti feladatokra elkülönített keretösszeget,
+
+j) a hozzájárulásra nem kötelezett, a szakképzésről szóló törvény szerint tanulószerződés kötésére jogosult egyéb szerv, szervezet normatív támogatását szolgáló keretösszeget.

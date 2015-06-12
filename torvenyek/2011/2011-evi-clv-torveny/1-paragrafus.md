@@ -6,7 +6,7 @@
 
 1. § A szakképzés költségeihez való hozzájárulást (a továbbiakban: szakképzési hozzájárulás) e törvény szerint kell teljesíteni. A szakképzési hozzájárulás célja
 
-a) a szakképzésről szóló törvény hatálya alá tartozó azon iskolai rendszerű képzések támogatása, amelyek állami fenntartású szakképző intézményben vagy szakképzési megállapodás alapján kerülnek megszervezésre,
+a) a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) hatálya alá tartozó azon iskolai rendszerű képzések támogatása, amelyek állami fenntartású szakképző intézményben vagy szakképzési megállapodás alapján kerülnek megszervezésre,
 
 b)
 

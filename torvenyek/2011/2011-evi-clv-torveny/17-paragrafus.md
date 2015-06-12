@@ -1,7 +1,11 @@
-17. § A 12. § e) pontja szerinti decentralizált keret
+17. § A 12. § d) pontja szerinti decentralizált keretből beruházási célú támogatás nyújtható
 
-a)
+a) az iskolai rendszerű képzéssel összefüggésben
 
-b) 50%-a a 19. § (1)–(3) bekezdése szerinti célokra,
+aa) a szakképzésről szóló törvényben meghatározott szakképzési megállapodással rendelkező szakképzést folytató intézményben, vagy
 
-c) 50%-a a 19. § (2) bekezdése a)–c) pontja szerint beruházási célú támogatásra jogosultnál az iskolai tanműhelyben folyó gyakorlati képzés működtetési költségeire, valamint a szakképzés korszerűsítéséhez szükséges tananyag- és taneszköz-fejlesztés, továbbá az elméleti, gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzésének támogatására használható fel.
+ab) a felsőoktatási intézményben a gyakorlatigényes alapképzési szak keretében
+
+folytatott, szakképesítést vagy szakképzettséget és végzettséget nyújtó képzés tárgyi feltételeinek a fejlesztésére,
+
+b) az a) pontban meghatározott iskolai rendszerű képzéssel összefüggésben vagyoni értékű jogok közé sorolható szoftverfelhasználási jog megszerzésére, illetve szellemi termékek közé sorolható szellemi jogvédelemben részesülő szoftvertermék beszerzésére.

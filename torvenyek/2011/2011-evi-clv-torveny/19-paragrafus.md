@@ -1,31 +1,37 @@
-19. § (1) Az alaprész központi keretéből az iskolai rendszerű képzéssel összefüggésben támogatható a hozzájárulásra kötelezettnél az 5. § a) pont ab) alpontjában foglaltak szerint folyó gyakorlati képzés azon tanulók esetében, akiknek a (2) bekezdés a)–c) pontja szerinti intézményben folyik az elméleti képzése.
+19. § (1)–(3)
 
-(2) Az alaprész központi keretéből az iskolai rendszerű képzéssel összefüggésben – az (1) bekezdésben foglaltakon túl – támogatható
+(4) A (10) és (17) bekezdés, valamint a 17. § szerinti támogatás odaítélése nyilvános pályázat alapján történik.
 
-a) az állami fenntartású szakképző intézményben,
-
-b) a szakképzésről szóló törvényben meghatározott szakképzési megállapodással rendelkező szakképzést folytató intézményben,
-
-c) az állami fenntartású speciális szakiskolában és készségfejlesztő speciális szakiskolában,
-
-d) a szakképző iskola fenntartójával kötött megállapodás alapján az iskolai rendszerű gyakorlati képzésben részt vevő állami felnőttképzési intézménynél,
-
-e) a felsőoktatási intézményben a gyakorlatigényes alapképzési szak keretében
-
-folytatott, szakképesítést, vagy szakképzettséget és végzettséget nyújtó képzés tárgyi feltételeinek a fejlesztésére irányuló beruházás.
-
-(3) Az alaprész központi keretéből az iskolai rendszerű képzéssel összefüggésben támogatás nyújtható vagyoni értékű jogok közé sorolható szoftver felhasználási jog megszerzésére, illetve szellemi termékek közé sorolható szellemi jogvédelemben részesülő szoftvertermék beszerzésére is [az (1)–(3) bekezdésben foglaltak a továbbiakban együtt: beruházási célú támogatás].
-
-(4) Az (1)–(3) és a (10) bekezdés, valamint a 17. § szerinti támogatás odaítélése nyilvános pályázat alapján történik.
-
-(5) Az alaprész központi keretéből támogatás nyújtható a szakképesítésért felelős miniszter által a szakképzésről szóló törvény alapján működtetett kutató és fejlesztő-szolgáltató intézetnek a szakképzés korszerűsítéséhez szükséges tananyag- és taneszköz-fejlesztéshez és központi programok kidolgozásához, valamint az általa szervezett szakmai elméleti és gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzéséhez, az országos szakmai tanulmányi versenyek szervezéséhez. Az intézet a szakképzés fejlesztése érdekében nyilvános pályázatot írhat ki.
+(5) Az alaprész központi keretéből támogatás nyújtható az állami szakképzési és felnőttképzési szervnek és a szakképesítésért felelős miniszter által a szakképzésről szóló törvény alapján működtetett fejlesztő-szolgáltató intézetnek a szakképzés korszerűsítéséhez szükséges tananyag- és taneszközfejlesztéshez és központi programok kidolgozásához, valamint az általa szervezett szakmai elméleti és gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzéséhez, az országos szakmai tanulmányi versenyek szervezéséhez.
 
 (6) Az alaprész központi keretéből beruházási célú támogatás nyújtható az állami szakképzési és felnőttképzési szervnek.
 
 (7) Az alaprész központi keretéből támogatás nyújtható a gazdasági kamaráknak – a gazdasági kamaráknak nyújtott támogatási kereten belül, a gazdasági kamarák szakképzési feladatellátásában megállapodás alapján együttműködő országos gazdasági érdek-képviseleti szervezeteknek – a gazdasági kamarákról szóló törvényekben, valamint a szakképzésről szóló törvényben meghatározott feladataik, továbbá a szakképesítésért felelős miniszterrel kötött megállapodásban foglalt szakképzési feladatok ellátására.
 
-(8) Az (5)–(7) bekezdés alapján kapott támogatásokat egyéb bevételként kell elszámolni.
+(8) Az (5)–(7) és a (9)–(17) bekezdés alapján kapott támogatásokat egyéb bevételként kell elszámolni.
 
-(9) Az alaprész központi keretéből – kérelemre – támogatás nyújtható az országos gazdasági érdekképviseletek, a szakképzés fejlesztésében közreműködő közalapítványok és szakmai szervezetek részére a szakképzésfejlesztéssel összefüggő feladataik ellátásához, valamint – nyilvános pályázat útján – országos szakmai tanulmányi versenyek szervezéséhez.
+(9) Az alaprész központi keretéből – kérelemre – támogatás nyújtható az állami szakképzési és felnőttképzési szerv, az országos gazdasági érdekképviseletek, a szakképzés és felnőttképzés fejlesztésében közreműködő közalapítványok és szakmai szervezetek részére a szakképzés és felnőttképzés fejlesztéssel összefüggő feladataik ellátásához, valamint – pályázat útján – országos szakmai tanulmányi versenyek szervezéséhez.
 
-(10) Az alaprész központi keretéből támogatható az (1)–(3) bekezdés szerint beruházási célú támogatásra jogosultnál a szakképzés korszerűsítéséhez szükséges tananyag- és taneszköz-fejlesztés, továbbá az elméleti, gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzése.
+(10) Az alaprész központi keretéből támogatható a 17. § szerinti beruházási célú támogatásra jogosultnál a szakképzés korszerűsítéséhez szükséges tananyag- és taneszköz-fejlesztés, továbbá az elméleti, gyakorlati tantárgyakat oktató tanárok, szakoktatók, gyakorlati oktatók továbbképzése.
+
+(11) Az alaprész központi keretéből támogatás nyújtható az állami szakképzési és felnőttképzési szerv, a szakképzés fejlesztésében közreműködő közalapítványok és szakmai szervezetek részére a szakképző intézményben tanulók lemorzsolódásának csökkentését, illetve a lemorzsolódott tanulók képzésbe történő visszavezetését célzó programok megvalósításához.
+
+(12) Az alaprész központi keretéből támogatás nyújtható szakképzési és felnőttképzési kutatási, fejlesztési célú tevékenységre az állami szakképzési és felnőttképzési szerv részére.
+
+(13) Az alaprész központi keretéből támogatás nyújtható szakképzési, illetve felnőttképzési célú uniós finanszírozású program előfinanszírozására az állami szakképzési és felnőttképzési szerv részére.
+
+(14) Az alaprész központi keretéből támogatás nyújtható a Kormány döntésén alapuló szakképzéssel, illetve felnőttképzéssel összefüggő központi program megvalósításához.
+
+(15) Az alaprész központi keretéből támogatható
+
+a) a pályaorientáció, a szakképző iskolai általános műveltséget megalapozó oktatás kerettanterveinek kialakítása és fejlesztése,
+
+b) a szakképző iskolai beiskolázás központi írásbeli felvételi vizsgájának előkészítéséhez, szervezéséhez kapcsolódó, valamint a szakképző iskolákat érintő hatósági ellenőrzéssel kapcsolatos fejlesztési feladatok ellátása,
+
+c) a szakképző iskolai tanulói létszámarány alapján az alapkészségek teljes körű mérése,
+
+d) a szakképző iskolákra vonatkozó adatfeldolgozás tekintetében az információs rendszer fejlesztése.
+
+(16) Az oktatásért felelős miniszternek a (15) bekezdésben meghatározott feladatai ellátásához szükséges forrás biztosítására az oktatásért felelős miniszter és a szakképzésért felelős miniszter évente külön megállapodást köthet.
+
+(17) Az alaprész központi keretéből támogatás nyújtható a szomszédos államokban élő magyarokról szóló törvény szerinti szomszédos államban működő, magyar nyelvű szakképző iskolában folytatott képzésnek az állami szakképzési és felnőttképzési szerv koordinációjával megvalósuló fejlesztésére.

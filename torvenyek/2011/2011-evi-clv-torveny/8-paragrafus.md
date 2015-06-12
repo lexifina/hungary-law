@@ -48,7 +48,7 @@ af) kamarai nyilvántartási számát,
 
 b) a hozzájárulásra kötelezettnél azon gyakorlati képzésben részesülő tanulószerződéses tanulók szakképesítésenkénti, évfolyamonkénti létszámát, akiket másik gyakorlati képzést szervezőhöz, teljesítési megbízotthoz átirányítanak,
 
-c) a szakképző iskola szakmai programjában szereplő gyakorlati képzés időtartamát, a hozzájárulásra kötelezettnél a tanulószerződés keretében végzett gyakorlati képzés időtartamát, valamint az átirányítás időtartamát, annak arányát tanévenként,
+c) az adott szakképesítésre kiadott szakképzési kerettantervben szereplő gyakorlati képzés időtartamát, a hozzájárulásra kötelezettnél a tanulószerződés keretében végzett gyakorlati képzés időtartamát, valamint az átirányítás időtartamát, annak arányát tanévenként,
 
 d) a gyakorlati képzés tárgyi feltételrendszerének leírását, e feltételek biztosítását az együttműködési megállapodást kötő felek részéről,
 
