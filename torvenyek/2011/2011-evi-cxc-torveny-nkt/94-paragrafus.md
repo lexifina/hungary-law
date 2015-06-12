@@ -64,7 +64,7 @@ b) az egészségügyért felelős miniszter, hogy az oktatásért felelős minis
 
 rendeletben állapítsa meg.
 
-(4) Felhatalmazás kap a Kormány, hogy
+(4) Felhatalmazást kap a Kormány, hogy
 
 a) az Óvodai nevelés országos alapprogramjának bevezetését és kiadását,
 

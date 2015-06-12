@@ -18,7 +18,7 @@ d) az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő s
 
 (2) Az óvodai nevelés alapelveit az Óvodai nevelés országos alapprogramja határozza meg. Az óvodák az Óvodai nevelés országos alapprogramja alapján készítik el helyi pedagógiai programjukat.
 
-(3) Az egyes iskolai évfolyamok tananyaga és követelményei egymásra épülnek. A szakiskolában és a szakközépiskolában a középfokú nevelés-oktatás és az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza párhuzamosan folyhat.
+(3) Az egyes iskolai évfolyamok tananyaga és követelményei egymásra épülnek. A szakképző iskolában a középfokú nevelés-oktatás és az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza párhuzamosan folyik.
 
 (4) Az iskolai nevelés-oktatás tartalmi egységét, az iskolák közötti átjárhatóságot a Nemzeti alaptanterv (a továbbiakban: Nat) biztosítja, amely meghatározza az elsajátítandó műveltségtartalmat, valamint kötelező rendelkezéseket állapít meg az oktatásszervezés körében, így különösen a tanulók heti és napi terhelésének korlátozására. A szakiskolai közismereti nevelés-oktatás tartalmi követelményeire vonatkozó részletes szabályokat külön jogszabály állapítja meg a Nat-ban foglaltak figyelembevételével.
 

@@ -120,7 +120,7 @@ pf) az alkalmazottat érintő pedagógiai-szakmai ellenőrzés időpontját, meg
 
 (8) Óraadó esetében a munkakörként az oktatott tantárgy, foglalkozás megnevezését kell megadni.
 
-(9) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, továbbá az adatok pontosságának, teljességének, időszerűségének biztosítása, valamint a pedagógusigazolvány igénylésével kapcsolatos eljárás keretében azonosítás céljából a személyiadat- és lakcímnyilvántartó szerv részére, valamint az országos pedagógiai-szakmai ellenőrzések, illetve a pedagógusok minősítő vizsgájának, minősítő eljárásának lefolytatása céljából a kormányhivatal részére.
+(9) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, továbbá az adatok pontosságának, teljességének, időszerűségének biztosítása, valamint a pedagógusigazolvány igénylésével kapcsolatos eljárás keretében azonosítás céljából a személyiadat- és lakcímnyilvántartó szerv részére, valamint az országos pedagógiai-szakmai ellenőrzések, illetve a pedagógusok minősítő vizsgájának, minősítő eljárásának lefolytatása céljából a hivatal részére.
 
 (10) A KIR-ben adatot az érintett foglalkoztatásának megszűnésére vonatkozó bejelentéstől számított tíz évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 

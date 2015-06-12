@@ -18,14 +18,14 @@ a) a 3000 főt meghaladó lakosságszámú települési önkormányzat a 74. § 
 
 b) a 3000 főt meg nem haladó lakosságszámú települési önkormányzat esetében a működtetői feladatok ellátásáról az állami intézményfenntartó központ gondoskodik.
 
-(5) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény feladatainak ellátását szolgáló, települési önkormányzati tulajdonú ingatlan és ingó vagyonra vonatkozóan az állami intézményfenntartó központot
+(5) Az állami intézményfenntartó központ által fenntartott köznevelési intézmény és a szakképzési centrum feladatainak ellátását szolgáló, települési önkormányzati tulajdonú ingatlan és ingó vagyonra vonatkozóan az állami intézményfenntartó központot, a szakképzési centrum fenntartóját
 
 a) ingyenes vagyonkezelői jog illeti meg, ha a köznevelési intézményt települési önkormányzat nem működteti,
 
 b) ingyenes használati jog illeti meg, ha a köznevelési intézményt települési önkormányzat működteti,
 
-mindaddig, amíg a köznevelési közfeladat állami intézményfenntartó központ részéről történő ellátása az adott ingatlanban meg nem szűnik.
+mindaddig, amíg a köznevelési közfeladat állami intézményfenntartó központ vagy a szakképzési centrum részéről történő ellátása az adott ingatlanban meg nem szűnik.
 
-(6) Az állami intézményfenntartó központ ingyenes vagyonkezelői vagy ingyenes használati jogának fennállása alatt a köznevelési intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont a települési önkormányzat nem idegenítheti el, nem terhelheti meg, bérbe csak abban az esetben adhatja, ha a köznevelési intézményt működteti és a bérbeadás a köznevelési feladat ellátását nem veszélyezteti. A bérbeadás az érintett köznevelési intézményben folyó köznevelési feladatellátást akkor nem veszélyezteti, ha nem gátolja a pedagógiai programban, az SZMSZ-ben vagy a házirendben meghatározott feladatok végrehajtását.
+(6) Az állami intézményfenntartó központ, valamint a szakképzési centrum fenntartója ingyenes vagyonkezelői vagy ingyenes használati jogának fennállása alatt a köznevelési intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont a települési önkormányzat nem idegenítheti el, nem terhelheti meg, bérbe csak abban az esetben adhatja, ha a köznevelési intézményt működteti, és a bérbeadás a köznevelési feladat ellátását nem veszélyezteti. A bérbeadás az érintett köznevelési intézményben folyó köznevelési feladatellátást akkor nem veszélyezteti, ha nem gátolja a pedagógiai programban, az SZMSZ-ben vagy a házirendben meghatározott feladatok végrehajtását.
 
 (7) A lakóhely, ennek hiányában a tartózkodási hely szerint illetékes települési önkormányzat megtéríti a kötelező felvételt biztosító óvodába való utazás költségeit, továbbá szükség esetén gondoskodik kísérő személyről a gyermek részére, ha az óvoda a településen kívül található, és az óvodába való utaztatást az önkormányzat nem biztosítja. A kötelező felvételt biztosító iskolába való utaztatásról a fenntartó gondoskodik.

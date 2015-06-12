@@ -4,15 +4,17 @@
 
 a) egységes óvoda-bölcsőde,
 
-b) egységes iskola vagy összetett iskola,
+b) óvoda-bölcsőde,
 
-c) közös igazgatású köznevelési intézmény,
+c) egységes iskola vagy összetett iskola,
 
-d) általános művelődési központ,
+d) közös igazgatású köznevelési intézmény,
 
-e) egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény (a továbbiakban: EGYMI),
+e) általános művelődési központ,
 
-f) óvoda-bölcsőde.
+f) egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény (a továbbiakban: EGYMI),
+
+g) a szakképzési törvény szerinti szakképzési centrum.
 
 (2) Többcélú intézmény akkor létesíthető, ha a létesítés és a működés anyagi, tárgyi, technikai és személyi feltételei valamennyi feladat ellátásához biztosítva vannak.
 

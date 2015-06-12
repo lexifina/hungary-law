@@ -30,7 +30,7 @@ dönt.
 
 (3) A nevelőtestület véleményt nyilváníthat vagy javaslatot tehet a nevelési-oktatási intézmény működésével kapcsolatos valamennyi kérdésben. Ki kell kérni a nevelőtestület véleményét a külön jogszabályban meghatározott ügyekben.
 
-(4) A közös igazgatású köznevelési intézményben és az általános művelődési központban azokban az ügyekben, amelyek
+(4) A közös igazgatású köznevelési intézményben, az általános művelődési központban és a szakképzési centrumban azokban az ügyekben, amelyek
 
 a) csak egy – nevelési-oktatási intézmény feladatát ellátó – intézményegységet érintenek, az intézményegységben,
 
