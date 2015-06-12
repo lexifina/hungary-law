@@ -18,7 +18,7 @@ b) az 1. § b) pontjában meghatározott források a 2. mellékletben
 
 a) a 2012. évi CCXVII. törvény hatálya alá tartozó létesítmények tevékenységéből származó üvegházhatású gáz kibocsátásoknak az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség) rendelkezésére álló adatbázishoz,
 
-b) a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti, a fluortartalmú üvegházhatású gázokról szóló európai parlamenti és tanácsi rendeletben meghatározott fluortartalmú üvegházhatású gázok adatbázisához,
+b)[^1] a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet szerinti fluortartalmú üvegházhatású gázok adatbázisához,
 
 c) az ózonréteget lebontó anyagokkal kapcsolatos tevékenységekről szóló kormányrendelet szerinti adatbázishoz,
 
@@ -29,3 +29,5 @@ e) a Magyar Energetikai és Közmű-szabályozási Hivatal rendelkezésére áll
 f) a Magyar Tudományos Akadémia Talajtani és Agrokémiai Kutatóintézete talajinformációs rendszerének adataihoz,
 
 g) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 49. §-a szerinti Országos Környezetvédelmi Információs Rendszer általános lekérdező és térinformatikai rendszeréhez.
+
+[^1]: A 4. § (5) bekezdés b) pontja a 131/2015. (V. 27.) Korm. rendelet 24. §-ával megállapított szöveg.
