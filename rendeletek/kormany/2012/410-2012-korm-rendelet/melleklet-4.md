@@ -1,6 +1,6 @@
 ## A kibocsátási engedély tartalmi követelményei
 
-## A kibocsátási engedély az alábbiakat tartalmazza:[^46]
+## A kibocsátási engedély az alábbiakat tartalmazza:[^62]
 
 ## a) ÜHG engedélyazonosító;
 
@@ -8,11 +8,11 @@
 
 ## c) a létesítmény azonosító adatai;
 
-## d)[^47] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
+## d)[^63] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
 
 ## e) a villamosenergia- és hőtermelés során használt technológia;
 
-## f)[^48] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
+## f)[^64] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
 
 ## g) a környezethasználat feltételeit megállapító, alapul szolgáló engedély megnevezése;
 
@@ -42,41 +42,39 @@
 
 ## l) az üzemeltető azon kötelezettségének megállapítása, mely szerint minden év április 30-ig köteles a nyomon követett előző évi kibocsátásainak megfelelő mennyiségű kibocsátási egységet visszaadni.
 
-4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^49]
+4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^65]
 
 1. A számlavezetési díj mértéke és alapja üzemeltetői számla esetében
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | 1. | Sorszám (fő)/alszám | A forgalmi jegyzékhez kapcsolódó számlák (kibocsátási egységmennyiség/év) | A számlavezetési díj mértéke (forint/év) |
+| 1. | Sorszám (fő)/ alszám | A forgalmi jegyzékhez kapcsolódó számlák (kibocsátási egységmennyiség/év) | A számlavezetési díj mértéke (forint/év) |
 
-|  | 2. | 1. |  | Üzemeltetői számla |  |
+| 2. | 1. |  | Üzemeltetői számla |  |
 
-|  | 3. |  | 1.1 | –10 000 | 27 000 |
+| 3. |  | 1.1 | 1–10 000 | 27 000 |
 
-|  | 4. |  | 1.2 | 10 001–100 000 | 82 000 |
+| 4. |  | 1.2 | 10 001–100 000 | 82 000 |
 
-|  | 5. |  | 1.3 | 100 001–1 000 000 | 191 000 |
+| 5. |  | 1.3 | 100 001–1 000 000 | 191 000 |
 
-|  | 6. |  | 1.4 | 1 000 001–3 000 000 | 384 000 |
+| 6. |  | 1.4 | 1 000 001 kibocsátástól | 384 000 |
 
-|  | 7. |  | 1.5 | 3 000 001 kibocsátástól | 820 000 |
+| 7. | 2. |  | Légijármű-üzemeltetői számla | 100 000 |
 
-|  | 8. | 2. |  | Légijármű-üzemeltetői számla | 100 000 |
+| 8. | 3. |  | Közönséges ügyfél számla | 80 000 |
 
-|  | 9. | 3. |  | Közönséges ügyfél számla | 80 000 |
+| 9. | 4. |  | Kereskedési számla | 150 000 |
 
-|  | 10. | 4. |  | Kereskedési számla | 150 000 |
+| 10. | 5. |  | Külső kereskedési platform számla | 250 000 |
 
-|  | 11. | 5. |  | Külső kereskedési platform számla | 250 000 |
-
-|  | 12. | 6. |  | Árverési kézbesítőszámla | 100 000 |
+| 11. | 6. |  | Árverési kézbesítőszámla | 100 000 |
 
 2. A számlavezetési díj alapja üzemeltetői számla esetében
 
 Az üzemeltetői számla esetében a díjfizetés alapja a tárgyévre a létesítmény részére térítésmentesen kiosztott kibocsátási egység mennyisége [kibocsátási egységmennyiség (db)/év] létesítményenként, a nemzeti kiosztási táblával összhangban.
 
-[^46]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
-[^47]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^48]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^49]: A 4. melléklet a 329/2013. (IX. 3.) Korm. rendelet 23. § (3) bekezdése szerint módosított szöveg.
+[^62]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^63]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^64]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^65]: A 4. melléklet a 329/2013. (IX. 3.) Korm. rendelet 23. § (3) bekezdése, a 131/2015. (V. 27.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.

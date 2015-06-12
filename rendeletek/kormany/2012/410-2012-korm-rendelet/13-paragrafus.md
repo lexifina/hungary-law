@@ -1,6 +1,4 @@
-13. §[^24] (1) A létesítmény működését részlegesen szüneteltetettnek kell tekinteni, ha egy olyan létesítményrész, amely legalább 30%-kal hozzájárul a létesítménynek ingyenesen kiosztott kibocsátási egységek végleges éves mennyiségéhez vagy több mint 50 000 kibocsátási egységnek a létesítmény részére történő kiosztásához (a továbbiakban: mérvadó létesítményrész), a tevékenységi szintjét egy adott naptári évben a létesítményrésznek kiosztott mennyiség kiszámításához használt kezdeti tevékenységi szinthez képest legalább 50%-kal csökkenti.
-
-(2) A működését részlegesen szüneteltető létesítmény számára történő kibocsátási egység kiosztást a működés részleges beszüntetésének évét követő évben, illetve ha a részleges beszüntetésre 2013. január 1-je előtt került sor, 2013-tól úgy kell kiigazítani, hogy ha a mérvadó létesítményrész tevékenységi szintje a kezdeti tevékenységi szinthez képest
+13. §[^24] (1) A működését részlegesen beszüntetett létesítmény számára történő kibocsátási egység kiosztást a működés részleges beszüntetésének évét követő évben, illetve ha a részleges beszüntetésre 2013. január 1-je előtt került sor, 2013-tól úgy kell kiigazítani, hogy ha a mérvadó létesítményrész tevékenységi szintje a Nemzeti Végrehajtási Intézkedések szerinti, vagy a jóváhagyott új belépő kérelem szerinti, vagy a kapacitásváltozás figyelembe vételével meghatározott kezdeti tevékenységi szinthez képest
 
 a) 50–75%-kal csökken, a létesítményrész az eredetileg megállapított kibocsátási egységek mennyiségének 50%-át kapja,
 
@@ -8,12 +6,18 @@ b) 75–90%-kal csökken, a létesítményrész az eredetileg megállapított ki
 
 c) legalább 90%-kal csökken, az érintett létesítményrész számára nem osztható ki ingyenesen kibocsátási egység.
 
-(3) Ha a mérvadó létesítményrész tevékenységi szintje meghaladja a kezdeti tevékenységi szint 50%-át, a működését részlegesen szüneteltető létesítményrész a tevékenységi szint 50%-os küszöbe meghaladásának naptári évét követő évben a számára eredetileg kiosztott kibocsátási egységeket kapja meg.
+(2) A részleges működés-beszüntetést követő újraindítás esetén:
 
-(4) Ha a mérvadó létesítményrész tevékenységi szintje meghaladja a kezdeti tevékenységi szint 25%-át, a működését részlegesen szüneteltető létesítményrész a tevékenységi szint 25%-os küszöbe meghaladásának naptári évét követő évben a számára eredetileg kiosztott kibocsátási egységek felét kapja meg.
+a) ha a mérvadó létesítményrész tevékenységi szintje meghaladja a kezdeti tevékenységi szint 50%-át, a működését részlegesen beszüntető létesítményrész a tevékenységi szint 50%-os küszöbe meghaladásának naptári évét követő évben a számára eredetileg kiosztott kibocsátási egységeket kapja meg,
 
-(5) A létesítmény üzemeltetője a részleges szüneteltetés napjától számított 30 napon belül köteles a létesítmény részleges szüneteltetését és annak mértékét jelenteni a hatóságnak. A bejelentés tartalmazza a részleges szüneteltetés kezdőnapjának megjelölését és az annak igazolására alkalmas dokumentumot. A részleges szüneteltetés kezdőnapja az azt megalapozó esemény bekövetkezésének a napja. A részleges szüneteltetést a miniszter részére a 3. § (1) bekezdésében meghatározott határidőben és módon kell jelenteni.
+b) ha a mérvadó létesítményrész tevékenységi szintje meghaladja a kezdeti tevékenységi szint 25%-át, a működését részlegesen beszüntető létesítményrész a tevékenységi szint 25%-os küszöbe meghaladásának naptári évét követő évben a számára eredetileg kiosztott kibocsátási egységek felét kapja meg,
 
-(6) A miniszter a (2)–(4) bekezdéssel összhangban elkészíti a nemzeti kiosztási tábla módosítására vonatkozó javaslatát és benyújtja az Európai Bizottság részére.
+c) az a) és b) pontok szerinti esetek valamelyikének fennállása esetén a térítésmentesen kiosztható kibocsátási egységek mennyisége visszamenőlegesen nem korrigálható.
 
-[^24]: A 13. § a 329/2013. (IX. 3.) Korm. rendelet 14. §-ával megállapított szöveg.
+(3) A létesítmény üzemeltetője a részleges működésbeszüntetést és a részleges működésbeszüntetést követő újraindítást a miniszter részére a 3. § (1) bekezdésében meghatározott határidőben és módon jelenti be.
+
+(4) A miniszter az (1) és (2) bekezdéssel összhangban elkészíti a nemzeti kiosztási tábla módosítására vonatkozó javaslatát és jóváhagyásra benyújtja az Európai Bizottság részére.
+
+(5) Az Európai Bizottság jóváhagyását követően a miniszter határozatban megállapítja a létesítményeknek térítésmentesen kiosztható kibocsátási egységek módosított mennyiségét és a jegyzékkezelő útján gondoskodik a módosított és jóváhagyott kibocsátási egységek üzemeltető számláján történő jóváírásáról.
+
+[^24]: A 13. § a 131/2015. (V. 27.) Korm. rendelet 10. §-ával megállapított szöveg.

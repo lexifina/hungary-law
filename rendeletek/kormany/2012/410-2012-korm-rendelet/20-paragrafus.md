@@ -1,4 +1,4 @@
-20. §[^34] (1) Ha a 2. mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenységet az üzemeltető kibocsátási engedély, vagy a légi jármű üzembentartó nyomon követési terv nélkül folytatja, a hatóság – az Ügkr. tv. 32. § és 33. §-ában rögzítetteket figyelembe véve – az üzemeltetőt a kibocsátási engedély megszerzése iránti, a légi jármű üzembentartót a nyomon követési terv jóváhagyása iránti kérelem beadásáig terjedő időszakra napi 20 000-től 100 000 forintig terjedő bírság megfizetésére kötelezi.
+20. §[^42] (1) Ha a 2. mellékletben meghatározott üvegházhatású gázkibocsátással járó tevékenységet az üzemeltető kibocsátási engedély, vagy a légi jármű üzembentartó nyomon követési terv nélkül folytatja, a hatóság – az Ügkr. tv. 32. § és 33. §-ában rögzítetteket figyelembe véve – az üzemeltetőt a kibocsátási engedély megszerzése iránti, a légi jármű üzembentartót a nyomon követési terv jóváhagyása iránti kérelem beadásáig terjedő időszakra napi 20 000-től 100 000 forintig terjedő bírság megfizetésére kötelezi.
 
 (2) Az (1) bekezdés szerinti jogkövetkezményt kell alkalmazni akkor is, ha az üzemeltető a 2. § (4) és (5) bekezdésében foglalt bejelentési kötelezettségét elmulasztva, a tevékenységet módosított kibocsátási engedély nélkül folytatja tovább.
 
@@ -10,4 +10,4 @@
 
 (6) Ha az üzemeltető vagy a légi jármű üzembentartó a kibocsátási egységmennyiség (5) bekezdés szerinti visszautalására irányuló kötelezettségének határidőre nem tesz eleget, a hatóság az üzemeltetőt vagy a légi jármű üzembentartót minden egyes jóváírt kibocsátási egységmennyiség után 100 eurónak megfelelő forintösszegű bírság egyszeri megfizetésére kötelezi. A bírság mindenkori összege az Eurostat által meghatározott európai fogyasztói árindexszel összhangban növekszik.
 
-[^34]: A 20. § a 101/2015. (IV. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^42]: A 20. § a 101/2015. (IV. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

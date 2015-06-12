@@ -1,5 +1,5 @@
-## 34. §[^42]
+## 34. §[^56]
 
 1. melléklet a 410/2012. (XII. 28.) Korm. rendelethez
 
-[^42]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

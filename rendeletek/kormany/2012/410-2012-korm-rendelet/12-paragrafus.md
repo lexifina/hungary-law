@@ -1,20 +1,24 @@
 ## 5. A létesítmény működésében bekövetkező változások
 
-12. § (1) A létesítmény bezárásának minősül:
+12. §[^22] (1) A létesítmény bezárásának minősül:
 
-a) a kibocsátási engedély és – a kibocsátási engedély kiadásának alapjául szolgáló – bármely más olyan engedély jogerős felfüggesztése, valamint visszavonása, amelynek következtében a létesítmény jogszerűen nem működhet tovább,
+a) ha a létesítmény kibocsátási engedélyét jogerősen visszavonták;
 
-b) a létesítményben folytatott üvegházhatású gáz-kibocsátási engedélyhez kötött tevékenység végleges megszüntetése,
+b) ha a kibocsátási engedély alapjául szolgáló, a környezethasználat feltételeit megállapító hatósági engedélyt vagy határozatot jogerősen visszavonták;
 
-c) a létesítmény kapacitásának az Ügkr. tv. 1. mellékletében meghatározott küszöbérték alá csökkentése végleges jelleggel,
+c) ha a kibocsátási engedély alapjául szolgáló, a környezethasználat feltételeit megállapító hatósági engedélyt vagy határozatot jogerősen felfüggesztették;
 
-d) ha a létesítmény üzemeltetése vagy az üzemeltetés újraindítása műszakilag nem lehetséges, vagy
+d) a létesítményben folytatott üvegházhatású gáz kibocsátására feljogosító kibocsátási engedélyhez kötött tevékenység végleges megszüntetése;
 
-e)[^18] ha a létesítmény nem üzemel, de korábban üzemelt és az üzemeltető nem tudja hitelt érdemlően – okirattal – meggyőzően valószínűsíteni, hogy a létesítmény legkésőbb 6 hónappal a működés beszüntetését követően újra üzemelni fog.
+e) a létesítmény kapacitásának az Ügkr. tv. 1. mellékletében meghatározott küszöbérték alá csökkentése végleges jelleggel;
 
-(2)[^19] A miniszter az üzemeltető kérelmére az (1) bekezdés e) pontjában meghatározott időszakot legfeljebb 18 hónappal meghosszabbíthatja, ha az üzemeltető igazolni tudja, hogy a 6 hónapos határidőt elháríthatatlan külső ok miatt nem tudja betartani. A bezárás felfüggesztésére vonatkozó kérelmet a miniszternek kell benyújtani. A kérelem tartalmazza a felfüggesztés kezdő időpontját és a bezárás felfüggesztésének okát, amelyhez mellékelni kell a rendelkezésre álló, a bezárás felfüggesztésének okát alátámasztó dokumentumok másolatát.
+f) ha a létesítmény üzemeltetése vagy az üzemeltetés újraindítása műszakilag nem lehetséges; vagy
 
-(3) Nem minősül a létesítmény bezárásának a tartalék- vagy készenléti üzemmód, és a szezonális rendszerben történő üzemeltetés, ha:
+g) ha a létesítmény nem üzemel, de korábban üzemelt és az üzemeltető nem tudja hitelt érdemlően – okirattal – meggyőzően valószínűsíteni, hogy a létesítmény legkésőbb 6 hónappal a működés beszüntetését követően újra üzemelni fog.
+
+(2) A miniszter az üzemeltető kérelmére az (1) bekezdés g) pontjában meghatározott időszakot legfeljebb 18 hónappal meghosszabbíthatja, ha az üzemeltető igazolni tudja, hogy a létesítmény 6 hónapon belül olyan kivételes és előre nem látott körülmények miatt nem tudta folytatni működését, amelyeket a legteljesebb gondosság mellett sem lehetett volna elkerülni, és amelyek kívül esnek az érintett létesítmény üzemeltetőjének hatáskörén. Ilyen körülménynek minősülnek különösen természeti katasztrófák, háború, háborús fenyegetés, terrorcselekmények, forradalom, lázadás, szabotázs, vandalizmus. A bezárttá-minősítés felfüggesztésére vonatkozó kérelmet a miniszterhez kell benyújtani. A kérelem tartalmazza a bezárttá-minősítés felfüggesztésének kezdő időpontját és a bezárttá-minősítés felfüggesztésének okát, amelyhez mellékelni kell a rendelkezésre álló, a bezárttá-minősítés felfüggesztésének okát alátámasztó dokumentumok másolatát. Kizárólag gazdasági okok nem indokolhatják a bezárttá minősítés felfüggesztését.
+
+(3) Az (1) bekezdés g) pontja és a (2) bekezdés nem alkalmazandó a tartalék- vagy készenléti üzemmódban tartott, és a szezonális rendszerben üzemeltetett létesítményekre, ha:
 
 a) az üzemeltető rendelkezik az üvegházhatású gázok kibocsátására vonatkozó engedéllyel és valamennyi más vonatkozó engedéllyel,
 
@@ -22,21 +26,16 @@ b) az üzemeltetés megindítása a létesítményen végzett fizikai változtat
 
 c) rendszeresen végeznek karbantartást.
 
-(4) Az (1) bekezdés e) pontja szerinti esetben a miniszter a térítésmentes kiosztás végrehajtását az újraindítás igazolásáig felfüggesztheti.
+(4) Az (1) bekezdés g) pontja szerinti esetben a miniszter a térítésmentes kiosztás végrehajtását a létesítmény újraindításának igazolásáig végzéssel felfüggesztheti.
 
-(5)[^20] A létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a létesítmény bezárását bejelenteni a hatóság honlapján közzétett módon a hatóságnak, valamint a Minisztérium honlapján közzétett formanyomtatvány kitöltése és hitelesítése útján a miniszternek. A hatóság felé történő bejelentés tartalmazza a bezárás napjának megjelölését és az annak igazolására alkalmas, cégszerű aláírással ellátott dokumentumot. A bezárás napja a bezárást megalapozó esemény bekövetkezésének a napja.
+(5) A létesítmény üzemeltetője a bezárás napjától számított 30 napon belül köteles a létesítmény bezárttá-minősítésének tényét bejelenteni a hatóság honlapján közzétett módon a hatóságnak, valamint a Minisztérium honlapján közzétett nyomtatvány kitöltése útján a miniszternek. A hatóság felé történő bejelentés tartalmazza a bezárás napjának megjelölését és az annak igazolására alkalmas, cégszerű aláírással ellátott dokumentumot. A bezárás napja az (1) bekezdés a)–c) pontjában rögzített engedély vagy határozat jogerőre emelkedésének napja, az (1) bekezdés d)–g) pontjában meghatározott esemény bekövetkezésének a napja.
 
-(6)[^21] A bezáró létesítmény üzemeltetője a bezárás napjától számított 45 napon belül köteles a tárgyévi tevékenység folytatásának idejére vonatkozóan hitelesített jelentést tenni. Ha a létesítmény bezárására január 1-je és március 1-je között kerül sor, akkor a bezárás évére vonatkozó jelentéstétel és a bezárás évét megelőző évre vonatkozó jelentéstétel együttesen teljesítendő.
+(6) A bezáró létesítmény üzemeltetője az (5) bekezdésben meghatározott bezárás napjától vagy – ha a hatóság a bezárás napját hivatalból észleli – a kibocsátási engedélyt visszavonó határozat jogerőre emelkedésétől számított 60 napon belül köteles a bezárás évére vonatkozó, az akkreditált hitelesítő szervezet által hitelesített jelentést tenni.
 
-(7)[^22] Az (1) bekezdés b)–e) pontjában meghatározott esetekben a hatóság a kibocsátási engedélyt az (5) bekezdés szerinti bejelentés alapján visszavonja. A bezárásra tekintet nélkül a bezárás napjáig fennálló nyomon követési, jelentéstételi kötelezettségét az üzemeltetőnek a vonatkozó jogszabályok szerint teljesítenie kell. A bezárás napjáig fennálló kibocsátási egységek visszaadására vonatkozó kötelezettségét az üzemeltetőnek legkésőbb a bezárás napjától számított 45 napon belül teljesítenie kell.
+(7) Az (1) bekezdés b)–g) pontjában meghatározott esetekben a hatóság a kibocsátási engedélyt az (5) bekezdés szerinti bejelentés alapján visszavonja. A bezárásra tekintet nélkül az (5) bekezdésben meghatározott bezárás napjáig fennálló nyomonkövetési, jelentéstételi kötelezettségét az üzemeltetőnek a vonatkozó jogszabályok szerint teljesítenie kell. A bezárás napjáig fennálló kibocsátási egységek visszaadására vonatkozó kötelezettségét az üzemeltetőnek legkésőbb a bezárás napjától vagy – ha a hatóság a bezárás napját hivatalból észleli – a kibocsátási engedélyt visszavonó határozat jogerőre emelkedésétől számított 60 napon belül teljesítenie kell. Ha a bezárás évére vonatkozó hitelesített kibocsátási jelentéstétel időpontjáig a tárgyévi térítésmentes kibocsátási egységek kiosztására nem kerül sor, a bezárás évére vonatkozó egységvisszaadás határideje a létesítmény részére történő kiosztás megtörténtét követő 30 nap.
 
-(7a)[^23] Amennyiben a bezárás következtében a jegyzékkezelő az érintett üzemeltető forgalmi jegyzékben vezetett számláját lezárja, és az adott számlán a kibocsátási egységek pozitív egyenleget mutatnak, akkor a jegyzékkezelő a bezárás bejelentésétől számított 30 napon belül felszólítja a számlatulajdonost egy olyan másik számla megnevezésére, amelyre ezeket a kibocsátási egységeket át kívánja vezettetni. Ha a számlatulajdonos 40 munkanapon belül nem válaszol a jegyzékkezelő felszólítására, akkor a jegyzékkezelő a kibocsátási egységeket a saját nemzeti folyószámlájára átvezeti.
+(8) Ha a bezárás következtében a jegyzékkezelő az érintett üzemeltető forgalmi jegyzékben vezetett számláját lezárja, és az adott számlán a kibocsátási egységek pozitív egyenleget mutatnak, akkor a jegyzékkezelő az (5) bekezdésben rögzített bezárttá-minősítés tényének bejelentésétől vagy – ha a hatóság a bezárás napját hivatalból észleli – a kibocsátási engedélyt visszavonó határozat jogerőre emelkedésétől számított 30 napon belül felszólítja a számlatulajdonost egy olyan másik számla megnevezésére, amelyre ezeket a kibocsátási egységeket át kívánja vezettetni. Ha a számlatulajdonos 30 napon belül nem válaszol a jegyzékkezelő felszólítására, akkor a jegyzékkezelő a kibocsátási egységeket a saját nemzeti folyószámlájára átvezeti, amelyről tájékoztatja a minisztert az átvezetést követő 15 napon belül.
 
-(8) A miniszter a (7) bekezdésben foglalt visszaadási kötelezettség miatti nemzeti kiosztási tábla-módosítási javaslatát megküldi az Európai Bizottság részére.
+(9) A miniszter a kiosztás évét megelőző évben bezáró létesítmények listáját megküldi az Európai Bizottság részére, és nemzeti kiosztási táblában – annak esetleges újbóli kereskedelmi rendszer hatálya alá való kerülését követő új belépő kérelméig – többet nem szerepelteti a létesítményt.
 
-[^18]: A 12. § (1) bekezdés e) pontja a 329/2013. (IX. 3.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^19]: A 12. § (2) bekezdése a 329/2013. (IX. 3.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^20]: A 12. § (5) bekezdése a 329/2013. (IX. 3.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^21]: A 12. § (6) bekezdése a 329/2013. (IX. 3.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^22]: A 12. § (7) bekezdése a 329/2013. (IX. 3.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
-[^23]: A 12. § (7a) bekezdését a 329/2013. (IX. 3.) Korm. rendelet 13. § (4) bekezdése iktatta be.
+[^22]: A 12. § a 131/2015. (V. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
