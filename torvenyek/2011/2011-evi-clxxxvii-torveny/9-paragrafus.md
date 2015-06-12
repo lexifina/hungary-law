@@ -25,3 +25,5 @@
 (8) A komplex szakmai vizsgán csak olyan bizonyítvány és nyomtatvány használható, amelyet a szakképzésért és felnőttképzésért felelős miniszter hagy jóvá. A bizonyítvány és a nyomtatvány előállításához és forgalmazásához a szakképzésért és felnőttképzésért felelős miniszter engedélye szükséges.
 
 (9) A komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartásáról a szakképzésért és felnőttképzésért felelős miniszter gondoskodik.
+
+(10) Komplex szakmai vizsgát kiskorú személy kizárólag iskolai rendszerű szakképzés keretében tehet, kivéve, ha az adott szakképesítés kizárólag iskolarendszeren kívüli szakképzésben szerezhető meg.

@@ -14,8 +14,12 @@ ac) ab) alpontban meghatározottak fenntartásában működő intézmény, tová
 
 b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő,
 
-c) az 5. § (14) bekezdése szerinti miniszter az általa fenntartott szakképző iskola tanulója tekintetében, amennyiben a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében – az 5. § (14) bekezdése szerinti szakképesítésre történő felkészítés keretében – vesz részt gyakorlati képzésen.
+c) a 4/A. § (2) bekezdése szerinti miniszter által fenntartott szakképző iskola az agrárpolitikáért, az erdőgazdálkodásért, az élelmiszeriparért, a halgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítésre történő felkészítés keretében részt vevő tanulója tekintetében, ha a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében vesz részt gyakorlati képzésben.
 
-(3) A nyilvántartást a tanuló gyakorlati képzését vállaló kérelmező telephelye szerinti területileg illetékes gazdasági kamara vezeti (a továbbiakban: nyilvántartást vezető szerv).
+(3) A nyilvántartást a tanuló gyakorlati képzését vállaló gyakorlati képzést szervező szervezet székhelye vagy a gyakorlati képzési célt szolgáló telephelye szerinti illetékes gazdasági kamara vezeti (a továbbiakban: nyilvántartást vezető szerv).
 
-(4) A nyilvántartásba kérelmére az a gyakorlati képzést szervező gazdálkodó szervezet vagy – a (2) bekezdésben meghatározott – egyéb olyan szerv, szervezet vehető fel, amely rendelkezik az e törvényben, továbbá a szakképzés megkezdésének és folytatásának feltételeiről szóló kormányrendeletben a gyakorlati képzés folytatására meghatározott személyi és tárgyi feltételekkel és vállalja, hogy kötelezően alkalmazza az adott szakképesítésre kiadott szakképzési kerettantervet.
+(4) A nyilvántartásba kérelmére az a gazdálkodó szervezet vagy – a (2) bekezdésben meghatározott – egyéb szervezet vehető fel, amely rendelkezik a gyakorlati képzés folytatására jogszabályban meghatározott személyi és tárgyi feltételekkel és vállalja, hogy kötelezően alkalmazza az adott szakképesítésre kiadott szakképzési kerettantervet.
+
+(5) A nyilvántartást vezető szerv annak figyelembevételével állapítja meg, hogy a gyakorlati képzést szervező gazdálkodó szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelye a 2. § 50. pontja alapján iskolán kívüli gyakorlati képzőhelynek tekinthető-e, hogy a tanműhely jogi, szervezeti, tanügy-igazgatási szempontból, valamint eszközei és felszerelései tekintetében a szakképző iskolától ténylegesen elkülönül-e.
+
+(6) A (2) bekezdés c) pontja szerinti tanulószerződések száma nem haladhatja meg a 4/A. § (2) bekezdése szerinti miniszter által fenntartott valamennyi szakképző iskola tanulói összlétszámának tizenöt százalékát.

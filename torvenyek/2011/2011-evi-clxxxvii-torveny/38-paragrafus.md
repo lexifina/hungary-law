@@ -2,7 +2,7 @@
 
 38. § (1) A gyakorlati képzést folytató szervezetnél a tanuló gyakorlati képzésére nem kerülhet sor
 
-a) az elméleti képzési napokon,
+a) az elméleti képzési napokon, ha az elméleti képzési órák száma az adott napon a négy tanórát meghaladja,
 
 b) a szakképző iskola által szervezett olyan rendezvény napján, amelyen minden tanuló részvétele kötelező,
 

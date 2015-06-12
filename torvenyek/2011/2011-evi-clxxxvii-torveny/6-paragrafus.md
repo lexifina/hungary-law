@@ -30,9 +30,9 @@ c) a szakképesítések szakmacsoportját és szakközépiskolai ágazat szerint
 
 d) annak a megjelölését, hogy a szakképesítés az esti, a levelező, a távoktatás vagy egyéb sajátos munkarend szerinti képzésben oktatható,
 
-e) a szakképesítés szakmai és vizsgakövetelményei meghatározására a Kormány által rendeletben kijelölt miniszter megnevezését (a továbbiakban: szakképesítésért felelős miniszter). Szakképesítésért felelős miniszternek szakképesítésenként egy miniszter nevezhető meg.
+e) a szakképesítésért felelős miniszter megnevezését.
 
-(4) A szakképesítésért felelősként a Központi Statisztikai Hivatal elnöke és a Közbeszerzési Hatóság elnöke is megjelölhető, amennyiben a szakképesítés szakmai és vizsgakövetelményének kidolgozása az ő feladatkörébe tartozik.
+(4) Szakképesítésért felelős miniszternek szakképesítésenként egy miniszter nevezhető meg. A szakképesítésért felelősként a Központi Statisztikai Hivatal elnöke és a Közbeszerzési Hatóság elnöke is megjelölhető, amennyiben a szakképesítés szakmai és vizsgakövetelményének kidolgozása az ő feladatkörébe tartozik.
 
 (5) A Központi Statisztikai Hivatal elnöke hatáskörébe tartozó szakképesítésekre vonatkozó, e törvényben meghatározott rendeletalkotási és egyetértési jogokat a Központi Statisztikai Hivatal elnöke véleményének kikérésével a Központi Statisztikai Hivatal felügyeletét ellátó miniszter gyakorolja.
 

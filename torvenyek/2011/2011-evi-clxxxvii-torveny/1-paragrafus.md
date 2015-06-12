@@ -6,7 +6,7 @@
 
 ## ALAPELVEK
 
-1. § (1) Magyarországon az első, állam által elismert szakképesítés megszerzését az állam az iskolai rendszerű szakképzés keretein belül – az e törvényben és a nemzeti köznevelésről szóló törvényben meghatározott feltételekkel – ingyenesen biztosítja a szakképző iskolai tanulók számára.
+1. § (1) Magyarországon az első és második, az állam által elismert szakképesítés megszerzését az állam az iskolai rendszerű szakképzés keretein belül – az e törvényben meghatározott feltételekkel – ingyenesen biztosítja a szakképző iskolai tanulók számára.
 
 (2) A szakképzés teljes folyamatában érvényesítendő az egyenlő bánásmód követelménye. Az egyenlő bánásmód követelményét megszegő, e törvény hatálya alá tartozó szervezet – a 61. § (3) bekezdésében foglaltak szerint – eltiltható a szakképzésben való részvételtől.
 

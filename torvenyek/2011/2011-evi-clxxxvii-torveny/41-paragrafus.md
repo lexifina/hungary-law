@@ -1,6 +1,6 @@
 41. § (1) A gyakorlati képzést folytató szervezet a tanuló gyakorlati képzéséről köteles foglalkozási naplót vezetni.
 
-(2) A foglalkozási naplónak tartalmaznia kell a szakmai tevékenységeket tantárgyanként, az ezekre fordított időt és a tanuló értékelését.
+(2) A foglalkozási naplónak tartalmaznia kell a szakmai tevékenységeket tantárgyanként, az ezekre fordított időt, a tanuló értékelését és a tanuló részvételét és mulasztását a gyakorlati képzés során.
 
 (3) A foglalkozási naplót a tanuló tanulói jogviszonya szerinti szakképző iskola felkérése alapján betekintésre rendelkezésre kell bocsátani. Amennyiben a gyakorlati képzést folytató szervezet a foglalkozási naplót nem tudja bemutatni, a szakképző iskola értesíti a gazdasági kamarát, amely az értesítés alapján – a 60. §-ban meghatározottak szerint – soron kívül ellenőrzi a gyakorlati képzést folytató szervezetnél a foglalkozási napló vezetésére vonatkozó előírások betartását.
 

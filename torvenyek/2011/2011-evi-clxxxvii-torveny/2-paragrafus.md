@@ -14,7 +14,7 @@
 
 5. előírt gyakorlat: a szakképesítés megszerzéséhez szükséges, meghatározott munkaterületen, munkakörben korábban megszerzett gyakorlat, amelynek időtartamát a szakképesítés szakmai és vizsgakövetelménye (a továbbiakban: szakmai és vizsgakövetelmény) tartalmazza;
 
-6. első szakképesítés: az iskolai rendszerű szakképzésben elsőként megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít;
+6. első és második szakképesítés: az OKJ-ban szereplő, az iskolai rendszerű szakképzésben megszerzett első és második államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít;
 
 7. eszköz- és felszerelési jegyzék: a szakmai és vizsgakövetelményben szakképesítésenként meghatározott, a képzési feladatok teljesítéséhez szükséges eszközök, gépek, szerszámok, alapanyagok, helyiségek és felszerelések minimuma;
 
@@ -22,7 +22,7 @@
 
 9. foglalkoztatási, munkába állási tanácsadás: a munkavállalással, munkahely-megtartással kapcsolatos problémák feltárása, a problémák megoldásának, a sikeres elhelyezkedés megvalósítási tervének kidolgozása az életpálya-tanácsadási szolgáltatás keretében;
 
-10. gazdálkodó szervezet: gyakorlati képzést folytató, szakképzési hozzájárulásra kötelezett jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég, egyéni vállalkozó;
+10. gazdálkodó szervezet: jogszabályban meghatározott szakképzési hozzájárulásra kötelezett;
 
 11. gyakorlati képzés: a szakmai képzésnek az iskolai tanműhelyben, az állami felnőttképzési intézmény tanműhelyében vagy a gyakorlati képzés folytatására jogosult gazdálkodó szervezetnél, egyéb szervnél vagy szervezetnél folyó azon része, amelynek célja a szakképesítéshez kapcsolódó munkatevékenységek gyakorlatban történő elsajátítása és a tanulónak a komplex szakmai vizsga gyakorlati részére való felkészítése, amelyet iskolai rendszerű szakképzés esetén a szakképzési kerettanterv határoz meg;
 
@@ -34,7 +34,7 @@
 
 15. iskolai előképzettség: a szakképzés megkezdéséhez szükséges iskolai végzettség;
 
-16. iskolai rendszerű szakképzés: a köznevelés keretében a nemzeti köznevelésről szóló törvényben és az e törvényben meghatározott, szakképző iskolában folyó szakképzés, résztvevői a szakképző iskolával tanulói jogviszonyban állnak;
+16. iskolai rendszerű szakképzés: a köznevelés keretében a nemzeti köznevelésről szóló 2011. évi CXC. törvényben (a továbbiakban: nemzeti köznevelésről szóló törvény) és az e törvényben meghatározott, szakképző iskolában folyó szakképzés, résztvevői a szakképző iskolával tanulói jogviszonyban állnak;
 
 17. iskolai tanműhely: olyan szakképző iskolai feladatellátási helyen lévő gyakorlati képzőhely, amely a szakképesítés jellegétől függően lehet műhely, tangazdaság, tanbolt, tankórterem, tankert, tanudvar, tankonyha, laboratórium, taniroda, demonstrációs terem, gyakorló- és szaktanterem stb;
 
@@ -50,11 +50,11 @@
 
 23. költségvetési támogatás: a szakképző iskolai feladatok ellátására a központi költségvetés terhére nyújtott és önkormányzati forrásból nyújtható – a költségvetési hozzájárulást is tartalmazó – támogatások összessége;
 
-24. második és további szakképesítés: az iskolai rendszerű szakképzésben megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít, és már meglévő, államilag elismert szakképesítés birtokában szerzik meg. Második és további szakképesítés költségvetési támogatása szempontjából figyelmen kívül kell hagyni azt az OKJ-ban szereplő, államilag elismert szakképesítést, amelyet iskolarendszeren kívüli szakképzésben szereztek. Nem számít második szakképesítésnek a meglévő szakképesítéssel betölthető munkakör magasabb színvonalon való ellátását biztosító képzésben – szakmai és vizsgakövetelményben meghatározott körben – szerezhető szakképesítés;
+24. harmadik és további szakképesítés: az iskolai rendszerű szakképzésben megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít, és már kettő meglévő, államilag elismert szakképesítés birtokában szerzik meg;
 
 25. mesterképzés: olyan képzési forma, amelynek során meghatározott szakképesítéssel és szakmai gyakorlattal rendelkező szakembereket mestervizsgára készítenek fel a szakmai tevékenység mester szintű gyakorlásához szükséges szakmai elméleti és gyakorlati, a vállalkozás vezetéséhez szükséges gazdasági, jogi és munkaügyi, továbbá a tanulók képzéséhez szükséges alapvető pedagógiai ismeretek elsajátításával;
 
-26. mestervizsga követelményei: a szakképesítésért felelős miniszter által – a pedagógiai tartalom tekintetében az oktatásért felelős miniszter egyetértésével – rendeletben kiadott dokumentum, amely a mestervizsgának az országos gazdasági kamara (a továbbiakban: gazdasági kamara) által – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározott követelményeit, valamint a vizsgáztatással kapcsolatos követelményeket tartalmazza;
+26. mestervizsga követelményei: a szakképesítés szakmai és vizsgakövetelményei meghatározására a Kormány által rendeletben kijelölt miniszter (a továbbiakban: szakképesítésért felelős miniszter) által – a pedagógiai tartalom tekintetében az oktatásért felelős miniszter egyetértésével – rendeletben kiadott dokumentum, amely a mestervizsgának az országos gazdasági kamara (a továbbiakban: gazdasági kamara) által – az országos gazdasági érdekképviseleti szervezetekkel együttműködve – meghatározott követelményeit, valamint a vizsgáztatással kapcsolatos követelményeket tartalmazza;
 
 27. modultérkép: az egyes szakképesítések – szakmai és vizsgakövetelményeiben meghatározott – szakmai modulját vagy moduljait, valamint azok egymáshoz történő kapcsolódásait tartalmazó dokumentum;
 
@@ -102,4 +102,4 @@
 
 49. WorldSkills és EuroSkills: nemzetközi szakképzési versenyek, amelyeket 1954 óta szervez a WorldSkills International nemzetközi nonprofit szervezet, tagjai az adott ország szakképzésért felelős szervezetei. Mindkét verseny megrendezésére felváltva, páros és páratlan években kétévente kerül sor a tagországok legjobb ifjú szakmunkásai részvételével.
 
-50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől teljesen elkülönített, a nyilvántartást vezető szerv által kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhelyvezetői felügyelettel működő, legalább nyolc tanuló képzésre alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben.
+50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől térben vagy időben teljesen elkülönített, a nyilvántartást vezető szerv által a gyakorlati képzés időtartama alatt kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhely-vezetői felügyelettel működő, legalább nyolc tanuló képzésére alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben.

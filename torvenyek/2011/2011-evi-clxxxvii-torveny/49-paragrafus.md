@@ -2,7 +2,7 @@
 
 49. § (1) A tanulószerződés megszűnik
 
-a) ha a tanuló sikeres komplex szakmai vizsgát tett, a szakmai bizonyítvány kiállításának napján,
+a) ha a tanuló a befejező szakképző évfolyamot sikeresen teljesíti, az első, második szakképesítés esetén a második komplex szakmai vizsga utolsó napján,
 
 b) a szakképző iskolából való kizárással, vagy a tanulói jogviszonynak a nemzeti köznevelésről szóló törvényben szabályozott esetekben történő megszűnésének napján, amennyiben a tanuló az iskolai tanulmányait harminc napon belül más szakképző iskolában nem folytatja,
 

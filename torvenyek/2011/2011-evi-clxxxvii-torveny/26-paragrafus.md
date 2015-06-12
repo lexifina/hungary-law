@@ -2,7 +2,7 @@
 
 (2) Az iskolai rendszerű szakképzésben a gyakorlati képzés a szorgalmi időszakban teljesítendő gyakorlati képzésből és a szorgalmi időszakon kívüli összefüggő szakmai gyakorlati képzésből áll.
 
-(3) Az iskolai rendszerű szakképzésben a gyakorlati képzés – az összefüggő szakmai gyakorlat és az összefüggő szakmai gyakorlaton keletkezett mulasztás pótlása kivételével – csak a tanév szorgalmi időszakában szervezhető meg. Az őszi, a téli és a tavaszi szünet ideje alatt gyakorlati képzés nem szervezhető.
+(3) Az iskolai rendszerű szakképzésben a gyakorlati képzés – az összefüggő szakmai gyakorlat és az összefüggő szakmai gyakorlaton keletkezett mulasztás pótlása kivételével – csak a tanév szorgalmi időszakában szervezhető meg. Az őszi, a téli és a tavaszi szünet ideje alatt – a szakmai gyakorlat igazolatlan mulasztásának pótlása kivételével – gyakorlati képzés nem szervezhető.
 
 (4) A gyakorlati képzést lehetőleg a szakmai elméleti képzéssel egy héten belüli váltakozással kell megszervezni. Ettől a gyakorlati képzést folytató szervezet és a szakképző iskola közötti megállapodással lehet eltérni.
 

@@ -4,7 +4,7 @@
 
 (2) A kormányhivatal pedagógiai-szakmai ellenőrzési feladatai ellátása során a szakképző iskolákat ellenőrző háromtagú szakértői csoport legalább két tagja a szakértői névjegyzékben szereplő szakértő.
 
-(3) Az iskolai rendszerű szakképzésben a szakmai elméleti képzésben és a szakképző iskola által szervezett gyakorlati képzésben a szakképzési kerettanterv teljesülésének szakmai-pedagógiai ellenőrzését a szakképzésért és felnőttképzésért felelős miniszter – a szakképesítésért felelős miniszter javaslatára vagy egyetértésével – közvetlenül is elrendelheti a szakértői névjegyzéken szereplő szakértők bevonásával. Az ellenőrzés költségeit a szakképzésért és felnőttképzésért felelős miniszter által vezetett minisztérium költségvetésébe kell betervezni.
+(3) Az iskolai rendszerű szakképzésben a szakmai elméleti képzésben és a szakképző iskola által szervezett gyakorlati képzésben a szakképzési kerettanterv teljesülésének szakmai-pedagógiai ellenőrzését a szakképzésért és felnőttképzésért felelős miniszter – a szakképesítésért felelős miniszter javaslatára vagy egyetértésével – közvetlenül is elrendelheti a szakértői névjegyzékben szereplő szakértők bevonásával. Az ellenőrzés költségeit a szakképzésért és felnőttképzésért felelős miniszter által vezetett minisztérium költségvetésébe kell betervezni.
 
 (4) A (2) bekezdés szerinti szakmai ellenőrzés tapasztalatairól a kormányhivatal évente országos és megyei szintű összegzést készít, amelyet az oktatásért felelős miniszter megküld a szakképzésért és felnőttképzésért felelős miniszternek és az ágazatába tartozó szakképesítés tekintetében a szakképesítésért felelős miniszternek.
 

@@ -1,3 +1,3 @@
-## 57. Módosító rendelkezések
+## 57.
 
 94. §

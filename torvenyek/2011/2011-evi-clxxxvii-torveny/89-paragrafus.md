@@ -14,4 +14,6 @@ f) a szakközépiskolában ágazatonként a kilencedik-tizenkettedik évfolyamra
 
 g) a szakközépiskolában szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
 
-h) az e)–g) pont alapján kiadott szakképzési kerettanterv bevezetésének és alkalmazásának szabályait.
+h) az e)–g) pont alapján kiadott szakképzési kerettanterv bevezetésének és alkalmazásának szabályait,
+
+i) a 31. § (3) bekezdés b) pontja szerinti vendéglátóipari egységeket.

@@ -8,7 +8,7 @@
 
 (4) A szakképzés irányaira és a beiskolázási arányokra vonatkozó javaslatot a bizottság a felnőttoktatást is magába foglaló iskolai rendszerű szakképzésben az állam által elismert szakképesítésekre, és a szakközépiskolák ágazati képzéseire vonatkozóan a szakképzésért és felnőttképzésért felelős miniszter által meghatározott formai követelményeknek megfelelően teszi meg.
 
-(5) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát a javaslattal érintett tanévet megelőző évben március utolsó munkanapjáig teszi meg elsősorban a munkaerő-piaci kereslet, a hiány-szakképesítések és a 82. § a) pontjában meghatározott szakképzés-fejlesztési koncepciója alapján, a fenntartók által részére megküldött javaslatok figyelembevételével.
+(5) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát a javaslattal érintett tanévet megelőző évben március utolsó munkanapjáig teszi meg elsősorban a munkaerő-piaci kereslet, a hiány-szakképesítések és a 82. § a) pontjában meghatározott szakképzés-fejlesztési koncepciója alapján.
 
 (6) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát az állami szakképzési és felnőttképzési szerv készíti elő a Kormány 84. §-ban meghatározott döntésének meghozatala céljából.
 

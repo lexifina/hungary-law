@@ -4,18 +4,14 @@
 
 ## 1. A szakképzés intézményei
 
-4. § (1) A szakképzés intézményei:
+4. § (1) Iskolai rendszerű szakképzés a nemzeti köznevelésről szóló törvény szerinti szakképző iskolában vagy szakképző iskolai feladatot ellátó többcélú intézményben folytatható.
 
-a) a szakközépiskola,
+(2) A szakképzés szakképző iskolán kívül megszervezhető
 
-b) a szakiskola, beleértve a speciális szakiskolát és a készségfejlesztő speciális szakiskolát is [a továbbiakban az a) és b) pont alattiak együtt: szakképző iskola],
+a) az állami felnőttképzési intézményben, és
 
-c) az állami felnőttképzési intézmény, valamint
+b) a felnőttképzésről szóló törvényben meghatározott, iskolarendszeren kívüli szakmai képzést folytató intézményben is.
 
-d) a felnőttképzésről szóló törvényben meghatározott, iskolarendszeren kívüli szakmai képzést folytató intézmény.
+(3) A szakképző iskola a szakképzési feladata hatékonyabb ellátása érdekében – az e törvényben meghatározott esetekben – térségi integrált szakképző központ keretében működik.
 
-(2) A szakképző iskola a szakképzési feladata hatékonyabb ellátása érdekében – az e törvényben meghatározott esetekben – térségi integrált szakképző központ keretében működik.
-
-(3) A szakképző iskola létesítésére, fenntartására és működésére – e törvény rendelkezéseinek figyelembevételével – a nemzeti köznevelésről szóló törvény, a térségi integrált szakképző központ létesítésére, fenntartására és működésére e törvény rendelkezéseit kell alkalmazni.
-
-(4) Jogszabályban meghatározott feltételekkel rendelkező egyéni vállalkozó, jogi személyek és ezek jogi személyiséggel nem rendelkező gazdasági társaságai szakképző iskola fenntartása nélkül, más szervezeti keretben is folytathatnak iskolai rendszerű szakképzésben gyakorlati képzést.
+(4) Jogszabályban meghatározott feltételekkel rendelkező egyéni vállalkozó vagy gazdasági társaság szakképző iskola fenntartása nélkül, más szervezeti keretben is folytathatnak iskolai rendszerű szakképzésben gyakorlati képzést.

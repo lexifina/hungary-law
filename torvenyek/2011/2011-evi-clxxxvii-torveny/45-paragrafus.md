@@ -11,3 +11,9 @@
 (5) A nyilvántartást vezető szerv döntésével szemben fellebbezésnek a közigazgatási hatósági eljárás általános szabályai szerint van helye. A nyilvántartásba vétel során a nyilvántartást vezető szerv által hozott döntéssel szemben benyújtott fellebbezést az állami szakképzési és felnőttképzési szerv bírálja el. A fellebbezést az állami szakképzési és felnőttképzési szervnek kell címezni, de az első fokú határozatot meghozó, területileg illetékes gazdasági kamaránál kell benyújtani. A nyilvántartást vezető szerv a fellebbezést az eljárás összes irataival, valamint a fellebbezéshez fűzött szakmai véleményével együtt tíz napon belül továbbítja az állami szakképzési és felnőttképzési szervnek.
 
 (6) A gyakorlati képzés folytatására jogosult szervezetek nyilvántartása tartalmának és a nyilvántartásba vételi eljárás részletes szabályait kormányrendelet állapítja meg.
+
+(7) A nyilvántartásban szereplő adatokban bekövetkezett változást a (8) bekezdésben foglaltak kivételével, a gyakorlati képzést szervező szervezet köteles a változás bekövetkezésétől számított tizenöt napon belül a nyilvántartást vezető szervnek bejelenteni.
+
+(8) A nyilvántartásban szereplő adatok kiegészítésére, bővítésére irányuló kérelem esetén az (1)–(5) bekezdést alkalmazni kell.
+
+(9) A nyilvántartásba-vételi eljárás illetékmentes.

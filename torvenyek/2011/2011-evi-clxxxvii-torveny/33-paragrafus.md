@@ -4,7 +4,7 @@
 
 33. § (1) Az iskolai rendszerű szakképzés a jelen alcímben foglalt eltérésekkel felnőttoktatás keretében is folyhat. A felnőttoktatás keretében folyó szakképzés a részt vevő tanuló sajátos elfoglaltságához, egyedi életkörülményeihez igazodó képzési forma, amely képzési-szervezési formától függően a nappali, az esti, a levelező oktatás munkarendjében és az oktatás egyéb sajátos munkarendjében folyhat.
 
-(2) Az iskolai rendszerű szakképzés feladatainak ellátására kötelezett fenntartó ellátja a felnőttoktatás keretében folyó szakképzés feladatait.
+(2) Az állami fenntartó által fenntartott szakképző intézmény – a 34/A. § (1) bekezdésében meghatározott korlátozással – ellátja a felnőttoktatás keretében folyó szakképzés feladatait.
 
 (3) Az OKJ meghatározza azokat a szakképesítéseket, amelyek felnőttoktatás keretében az esti, a levelező oktatás munkarendjében és az oktatás egyéb sajátos munkarendjében oktathatóak.
 
