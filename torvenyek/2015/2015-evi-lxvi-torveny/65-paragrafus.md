@@ -8,9 +8,7 @@
 
 „(5) Felhatalmazást kap a Kormány, hogy megyénként és a fővárosra tekintettel rendeletben határozza meg azon szakképesítések és szakközépiskolai ágazatok körét és keretszámait, amelyekre vonatkozóan a szakképző iskola fenntartója a 84. § (5) bekezdése szerint költségvetési hozzájárulásra jogosult, valamint azon szakképesítéseket, amelyekre a bizottság a 82. § b) pontja alapján tesz javaslatot.”
 
-(3) Az Szt. 88. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Szakképzési Hídprogramban résztvevő tanuló ösztöndíjának mértékére, feltételeire, folyósítására, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésére, az elszámolásra és az ellenőrzésre, valamint a Szakképzési Hídprogramban résztvevő pedagógusok pótlékára vonatkozó szabályokat.”
+(3)
 
 (4) Az Szt. 88. §-a a következő (8) bekezdéssel egészül ki:
 

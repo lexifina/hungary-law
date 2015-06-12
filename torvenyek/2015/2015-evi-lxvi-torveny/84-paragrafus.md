@@ -1,5 +1,1 @@
-84. § Az Fktv. 23. §-a a következő (6) és (7) bekezdéssel egészül ki:
-
-„(6) Az európai uniós források kivételével a központi költségvetésből nyújtott támogatásokat érintő pályázati kiírások kizárólag a hatóság véleményének kikérésével jelentethetők meg. A hatóság az eljárás során azt vizsgálja, hogy a pályázati kiírás tervezete az e törvényben és végrehajtási rendeleteiben foglaltaknak megfelel-e. A pályázati kiírás érvénytelen, ha a pályázat kiírója a pályázati kiírás tervezetének (7) bekezdés szerinti határidőben történő megküldését elmulasztja.
-
-(7) A pályázat kiírója a pályázati kiírás tervezetét – a megjelenés várható időpontját legalább tizenöt nappal megelőzően – a (6) bekezdés szerinti véleményezés érdekében elektronikus úton megküldi a hatóság részére. A hatóság a pályázati kiírás tervezetét a beérkezést követő tíz napon belül véleményezi, véleményét elektronikus úton közli a pályázat kiírójával. A pályázat megjelentethető, ha a hatóság a határidő lejártáig nem közli a véleményét.”
+84. §

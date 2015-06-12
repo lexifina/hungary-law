@@ -1,23 +1,3 @@
-83. § (1) Az Fktv. 20. § (4) bekezdése helyébe a következő rendelkezés lép:
+83. § (1)–(2)
 
-„(4) A hatóság a felnőttképzési tevékenység folytatására vonatkozó jogszabályi előírások megtartását – szakértői bizottság bevonásával – ellenőrzi, és eljár ezek megsértése esetén. A hatóság az ellenőrzést szükség szerint, de kétévenként legalább egy alkalommal, az engedély megszerzését megelőzően képzési tevékenységet nem folytató intézmények esetén az engedély első két évében évente legalább egy alkalommal köteles lefolytatni. A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást (a továbbiakban: OSAP) nem teljesítettek.”
-
-(2) Az Fktv. 20. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A (4) bekezdés szerinti szakértői bizottság tagjait a hatóság által vezetett felnőttképzési szakértői és a kamara által vezetett felnőttképzési programszakértői nyilvántartásban szereplő szakértők közül rendeli ki a hatóság, azzal, hogy az 1. § (2) bekezdés a) és b) pontja szerinti képzések ellenőrzése során felnőttképzési programszakértő, az 1. § (2) bekezdés c) pontjában meghatározott képzések ellenőrzése során felnőttképzési szakértő rendelhető ki. Ha a kamara által vezetett felnőttképzési programszakértői nyilvántartásban nincs olyan szakértő, aki a felnőttképzési szakterülete szerint az engedélyezési eljárás során kirendelhető, vagy a kirendelhető szakértők tekintetében miniszteri rendeletben meghatározott összeférhetetlenség áll fenn, a hatóság a szakértői bizottság tagjait kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértők közül rendeli ki.”
-
-(3) Az Fktv. 20. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany
-
-a) a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér egyhavi összegétől annak tízszereséig terjedő összegű bírságot szab ki, azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekben a bírság mértéke nem lehet kevesebb a kötelező legkisebb munkabér havi összegének nyolcszorosánál,
-
-b) engedély nélkül végez képzést, vele szemben a hatóság
-
-ba) az 1. § (2) bekezdés a) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki,
-
-bb) az 1. § (2) bekezdés b)–d) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki, azzal, hogy ha az engedély nélkül folytatott képzés időtartama meghaladja a három hónapot, vagy a képzésben részt vevők száma a száz főt, a bírság mértéke a kötelező legkisebb munkabér havi összegének tízszerese.”
-
-(4) Az Fktv. 20. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) Ha az 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény a 17/B. §-ban meghatározott rendelkezéseket megsérti, a hatóság vele szemben a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki.”
+(3)–(4)
