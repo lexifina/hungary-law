@@ -16,7 +16,7 @@ d) a felnőttképzési normatív támogatás részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben – az f) pontban foglaltak vonatkozásában a társadalmi felzárkózásért felelős miniszter, valamint a közfoglalkoztatásért felelős miniszter egyetértésével – határozza meg
 
-a) a 3. § (4) bekezdése szerinti igazgatási szolgáltatási díjak körét, mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint az engedéllyel rendelkező intézmények ellenőrzése során kiszabott bírság befizetésének rendjét,
+a) a 3. § (4) bekezdése szerinti igazgatási szolgáltatási díjak mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint az engedéllyel rendelkező intézmények ellenőrzése során kiszabott bírság befizetésének rendjét,
 
 b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló kérelem adattartalmát, a kérelemre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket, valamint a Felnőttképzési Szakértői Bizottság feladataira és működésére, tagjainak megbízására, felmentésére és díjazására vonatkozó részletes szabályokat,
 

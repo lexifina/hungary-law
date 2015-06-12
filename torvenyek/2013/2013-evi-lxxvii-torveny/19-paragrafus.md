@@ -2,7 +2,7 @@
 
 (2) A felnőttképzési nyelvi programkövetelmények elektronikus nyilvántartását a hatóság vezeti. A hatóság nyilvántartásba vételre irányuló eljárása a felnőttképzési nyelvi programkövetelmények (3) bekezdésben meghatározott tartalmi elemeinek vizsgálatára irányul.
 
-(3) Felnőttképzési nyelvi programkövetelmények nyilvántartásba vételére vonatkozó javaslatot bármely jogi személy, jogi személyiség nélküli gazdasági társaság, egyéni cég, egyéni vállalkozó benyújthat – kizárólag elektronikus formában – a nyilvántartást vezető szervhez. A javaslatnak tartalmaznia kell
+(3) Felnőttképzési nyelvi programkövetelmények nyilvántartásba vételére vonatkozó javaslatot bármely jogi személy, egyéni cég, egyéni vállalkozó benyújthat – kizárólag elektronikus formában – a nyilvántartást vezető szervhez. A javaslatnak tartalmaznia kell
 
 a) a nyelv, valamint a nyelvi programkövetelménynek a megszerezhető nyelvi képzés szintjének, fajtájának, típusának megfelelő megnevezését,
 

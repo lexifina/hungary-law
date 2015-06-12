@@ -4,6 +4,6 @@
 
 (3) Az FSZB megállapítja, hogy a hozzá benyújtott minőségbiztosítási rendszerek – a képzést folytató intézmény által kidolgozott vagy működtetett minőségbiztosítási rendszer kivételével – a miniszter rendeletében meghatározott minőségbiztosítási keretrendszernek megfeleltethetők-e, és javaslatot tesz a miniszternek arra, hogy a megfelelőnek ítélt minőségbiztosítási rendszerek közül mely minőségbiztosítási rendszer alkalmazható a felnőttképzési tevékenységet folytató intézményeknél. Az FSZB javaslatáról a miniszter dönt.
 
-(4) Az FSZB elnökét és tagjait a miniszter nevezi ki és menti fel. A kinevezés négyéves időtartamra szól. A miniszter az FSZB elnökét a felnőttképzési szakértők közül nevezi ki.
+(4) Az FSZB elnökét és tagjait a miniszter nevezi ki és menti fel. A kinevezés visszavonásig, de legfeljebb négyéves időtartamra érvényes. A miniszter az FSZB elnökét a felnőttképzési szakértők közül nevezi ki.
 
 (5) Az FSZB feladataira és működésére, tagjainak megbízására, felmentésére és díjazására vonatkozó részletes szabályokat miniszteri rendelet határozza meg.

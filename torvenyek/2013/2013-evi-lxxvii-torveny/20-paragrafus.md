@@ -2,7 +2,7 @@
 
 ## AZ ENGEDÉLLYEL RENDELKEZŐ KÉPZŐ INTÉZMÉNYEK ELLENŐRZÉSE, JOGKÖVETKEZMÉNYEK
 
-20. § (1) A hatóság ellenőrzi, hogy a felnőttképzést folytató intézmény
+20. § (1) A hatóság ellenőrzi, hogy az 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
 a) felnőttképzési tevékenységét engedély birtokában folytatja-e, valamint a valóságnak megfelelnek-e az engedéllyel rendelkező képző intézmények nyilvántartásában szereplő adatai,
 
@@ -20,9 +20,9 @@ b) felnőttképzési tevékenysége – a (2) bekezdésben foglalt eltéréssel 
 
 (7) Az engedély részbeni visszavonása esetén az intézmény az engedély visszavonását tartalmazó határozatban megjelölt képzéseit nem folytathatja, az engedély teljes visszavonása esetén az engedély visszavonását elrendelő határozatban megjelölt időtartamig felnőttképzési tevékenységet nem folytathat.
 
-(8) Ha a felnőttképzést folytató intézmény a képzését engedély nélkül jogellenesen, az (5) bekezdésben foglaltak alapján kiszabott bírság ellenére tovább folytatja, a hatóság két évre megtiltja a felnőttképzési tevékenység folytatását, amelynek időtartama alatt az intézmény nem kaphat engedélyt, ezzel egyidejűleg vele szemben a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki. Ha a felnőttképzést folytató intézmény felnőttképzési tevékenységét a megtiltást elrendelő határozat ellenére tovább folytatja, a hatóság öt évre megtiltja a felnőttképzési tevékenység folytatását, amelynek időtartama alatt az intézmény nem kaphat engedélyt, ezzel egyidejűleg vele szemben a kötelező legkisebb munkabér havi összege tízszeresének megfelelő összegű bírságot szab ki.
+(8) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany a képzését engedély nélkül jogellenesen, az (5) bekezdésben foglaltak alapján kiszabott bírság ellenére tovább folytatja, a hatóság két évre megtiltja a felnőttképzési tevékenység folytatását, amelynek időtartama alatt az intézmény nem kaphat engedélyt, ezzel egyidejűleg vele szemben a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki. Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany felnőttképzési tevékenységét a megtiltást elrendelő határozat ellenére tovább folytatja, a hatóság öt évre megtiltja a felnőttképzési tevékenység folytatását, amelynek időtartama alatt az intézmény nem kaphat engedélyt, ezzel egyidejűleg vele szemben a kötelező legkisebb munkabér havi összege tízszeresének megfelelő összegű bírságot szab ki.
 
-(9) Ha a felnőttképzést folytató intézmény a tevékenységét engedély nélkül folytatja, a hatóság bírságot megállapító vagy tevékenységet megtiltó határozata jogerőre emelkedését követő harminc napon belül az intézmény köteles a jogellenes tevékenység időszaka alatt beszedett képzési díj, valamint a képzés kapcsán felmerült igazolt költség mindenkori jegybanki alapkamat szerinti kamat másfélszeresével növelt összegének a díjat és költséget megfizető részére történő visszafizetésére.
+(9) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany a tevékenységét engedély nélkül folytatja, a hatóság bírságot megállapító vagy tevékenységet megtiltó határozata jogerőre emelkedését követő harminc napon belül az intézmény köteles a jogellenes tevékenység időszaka alatt beszedett képzési díj, valamint a képzés kapcsán felmerült igazolt költség mindenkori jegybanki alapkamat szerinti kamat másfélszeresével növelt összegének a díjat és költséget megfizető részére történő visszafizetésére.
 
 (10) A hatóság a (6) és (8) bekezdés szerinti, engedély visszavonását és a felnőttképzési tevékenység megtiltását elrendelő határozatait honlapján közzéteszi.
 

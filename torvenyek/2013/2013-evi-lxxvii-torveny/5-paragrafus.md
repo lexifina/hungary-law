@@ -4,7 +4,7 @@ a) a felnőttképzést folytató intézmény
 
 aa) megnevezését, cégjegyzékét vagy nyilvántartását vezető bíróság, hatóság vagy szerv megnevezését, cégjegyzékszámát vagy nyilvántartásba-vételi számát, egyéni vállalkozó esetén a vállalkozó nyilvántartását vezető hatóság megnevezését és a nyilvántartásba vétel számát,
 
-ab) székhelyét, a felnőttképzési tevékenység végzésének telephelyét, levelezési címét, telefon és faxszámát, elektronikus levelezési címét, képviselőjének, valamint a gazdasági társaságokról szóló törvény hatálya alá tartozó jogalanyok esetén vezető tisztségviselőjének nevét, anyja nevét, születési helyét és idejét, állampolgárságát, képviselői, vezető tisztségviselői jogviszonya kezdetének időpontját,
+ab) székhelyét, a felnőttképzési tevékenység végzésének telephelyét, levelezési címét, telefon és faxszámát, elektronikus levelezési címét, képviselőjének, vagy a Ptk. szerinti jogi személyek esetén vezető tisztségviselőjének nevét, anyja nevét, születési helyét és idejét, állampolgárságát, képviselői, vezető tisztségviselői jogviszonya kezdetének időpontját,
 
 ac) adószámát vagy a nemzeti köznevelésről szóló törvény szerinti állami intézményfenntartó központ által fenntartott köznevelési intézmény OM-azonosítóját,
 
@@ -14,7 +14,7 @@ ae) nyilvántartásba-vételi számát és időpontját,
 
 af) alapítójának vagy köznevelési intézmény érintettsége esetén a köznevelési törvény szerinti fenntartójának megnevezését és annak – 3. § (8) bekezdése szerinti – képviselőjét, alapítója vagy fenntartója képviseleti jogviszonya kezdetének időpontját, nevét, anyja nevét, születési helyét és idejét, állampolgárságát,
 
-b) az engedéllyel rendelkező képző intézmény nyilvántartásba-vételi számából képzett, a képzésekhez tartozó nyilvántartásba vételi számot és az engedély képzési programok szerinti megszerzésének időpontját,
+b) az engedéllyel rendelkező képző intézmény nyilvántartásba-vételi számából képzett, a képzésekhez tartozó nyilvántartásba vételi számot és az engedély képzések szerinti megszerzésének időpontját,
 
 c) a felnőttképzési tevékenység 1. § (2) bekezdése szerinti besorolását, a képzés pontos megnevezését
 

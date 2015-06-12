@@ -4,7 +4,7 @@
 
 1. általános nyelvi képzés: az Európa Tanács Közös Európai Referenciakeretben ajánlott hatfokozatú rendszer szintjeiben megfogalmazott követelmények teljesítésére irányuló, további kimeneti szintekre osztott nyelvi képzés;
 
-2. belső képzés: a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, nem üzletszerűen szervezett, a 23. § (1) bekezdés c) pontjában foglalt forrás terhére megvalósuló képzés, amely nem lehet az 1. § (2) bekezdés a) pontjában, valamint a 2. § 1. pontjában meghatározott képzés. A belső képzés szempontjából munkavállaló a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés b) pontjában munkavállalóként meghatározott személy;
+2. belső képzés: a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, nem üzletszerűen szervezett, a 23. § (1) bekezdésében foglalt forrás terhére megvalósuló képzés, amely nem lehet az 1. § (2) bekezdés a) pontjában, valamint a 2. § 1. pontjában meghatározott képzés. A belső képzés szempontjából munkavállaló a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés b) pontjában munkavállalóként meghatározott személy;
 
 3. bemeneti kompetencia: a képzés megkezdéséhez szükséges kompetencia;
 
@@ -44,7 +44,7 @@
 
 21. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő felnőtt(ek) és az oktató, tutor közötti megbeszélés, amely elektronikus úton is megvalósulhat;
 
-22. modul: a képzési program olyan képzési tananyagegysége, amely egy logikailag összetartozó ismeretanyagnak önállóan kezelhető, meghatározott személyi és tárgyi feltételekkel rendelkező, mérhető kimenetű, önállóan is tanítható része. A modul ismeretanyagának elsajátítását követően a képzésben részt vevő személy képes lesz az ismereteket, készségeket, képességeket, tulajdonságokat meghatározott szinten alkalmazni, illetve további tanulmányai során felhasználni;
+22. modul: a képzési program olyan képzési tananyagegysége, amely egy logikailag összetartozó ismeretanyagnak önállóan kezelhető, meghatározott személyi és tárgyi feltételekkel rendelkező, mérhető kimenetű, önállóan is tanítható része, amely további tananyagegységekre bontható, és a modul ismeretanyagának elsajátítását követően a képzésben részt vevő személy képes lesz az ismereteket, készségeket, képességeket, tulajdonságokat meghatározott szinten alkalmazni, illetve további tanulmányai során felhasználni;
 
 23. moduláris rendszer: meghatározott, összekapcsolható egységekből, modulokból álló képzési program, tananyag, amely lehetővé teszi a képzés kimeneti követelményének teljesítéséhez szükséges ismeretek részenkénti elsajátítását, biztosítja a szakmák, képzési szintek közötti átjárhatóságot, az eltérő tudásszintekhez, munkatapasztalatokhoz való alkalmazkodást, a képzések különböző irányú specializálását. A modulok egymáshoz illesztésével, cseréjével különböző moduláris képzési programok, tananyagok állíthatók össze;
 

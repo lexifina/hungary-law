@@ -8,7 +8,7 @@
 
 a) a központi költségvetés,
 
-b) európai uniós források,
+b)
 
 c) a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény szerinti szakképzési hozzájárulásnak a szakképzési hozzájárulásra kötelezett által a saját dolgozói képzésére elszámolható része.
 
