@@ -10,7 +10,7 @@
 
 4. derogációs közlemény: az Európai Bizottságnak a 2003/87/EK irányelv 10c. cikkének opcionális alkalmazásával kapcsolatos iránymutatásáról szóló, 2011/C 99/03 számú Közleménye,
 
-5. elszámolható költség: a beruházás (tárgyi eszközök és immateriális javak) költségei, ide nem értve a működési költségeket és a beruházások előnyeit,
+5.[^1] elszámolható költség: mindazon tárgyi eszközök és immateriális javak (ideértve a beruházás előzetes megvalósíthatóságának vizsgálatával közvetlenül összefüggő költségeket is, például előzetes megvalósíthatósági dokumentációk és egyéb, a Nemzeti Tervben vállalt beruházások megvalósításával összefüggésben keletkezett járulékos költségek) teljes költségei, amelyek a 2003/87/EK európai parlamenti és tanácsi irányelv 10c. cikkével összhangban benyújtott és az Európai Bizottság által jóváhagyott Nemzeti Tervben vállalt beruházások megvalósításával összefüggésben keletkeztek a Nemzeti Tervben jóváhagyott gazdasági jogalanyok vagy azoknak a Nemzeti Tervben rögzítettek szerinti 100%-os tulajdonában lévő gazdasági jogalanyok oldalán,
 
 6. független könyvvizsgáló: a hatóság által a támogatások szabályszerű felhasználásának ellenőrzésével az e rendelet szerint megbízott könyvvizsgáló,
 
@@ -25,3 +25,5 @@
 11. támogatás: a derogációs kérelemben az Európai Bizottság által a beruházások EUMSZ 107. cikk (1) bekezdése szerinti állami támogatására jóváhagyott támogatás,
 
 12. utófinanszírozás: a beruházó által kifizetett számlák támogatási összegének utólagos, hatóság általi megtérítése közvetlenül a beruházó pénzforgalmi számlájára.
+
+[^1]: Az 1. § 5. pontja a 131/2015. (V. 27.) Korm. rendelet 20. §-ával megállapított szöveg.
