@@ -288,6 +288,10 @@ Az alábbi listából egy megjelenés során egy beteg részére legfeljebb hár
 
 | 77. | 94610 | Gyakorlatok ellenállással szemben |
 
+| 77a. | 94616 | Csecsemők és kisgyermekek Dévény-módszerrel történő kezelése |
+
+| 77b. | 94618 | Szopási problémás csecsemők és beszédproblémás kisgyermekek Dévény-módszerrel történő nyak-, koponya-, arc-, szájkezelése |
+
 | 78. | 94630 | Ízületi mozgások gyakorlása |
 
 | 79. | 94631 | Izokinetikus gyakorlás készülékkel |
@@ -555,4 +559,4 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
 [^8]: A 16. §-t a 7/2015. (II. 2.) EMMI rendelet 4. §-a iktatta be.
-[^9]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^9]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
