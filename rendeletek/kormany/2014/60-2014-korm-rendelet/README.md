@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-60-20-2
 | 2014-07-02 | 2014-60-20-22.4 | 2010: CXXX. törvény |
 | 2014-09-05 | 2014-60-20-22.5 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2014-60-20-22.6 | 341/2014. (XII. 19.) Korm. rendelet |
+| 2015-06-13 | 2014-60-20-22.7 | 144/2015. (VI. 12.) Korm. rendelet |

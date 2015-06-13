@@ -8,6 +8,8 @@ b) az egyéb nyilvántartási rendszer jogosultságkezelési rendszere biztosít
 
 c) az egyéb nyilvántartási rendszer funkcionalitását tekintve nem áll átfedésben a FAIR KR rendszerrel, és
 
-d) a 2. melléklet szerinti adattartalom elérhető az egyéb nyilvántartási rendszerben.
+d)[^8] a 2. melléklet, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről az Európai Parlament és a Tanács 2013. december 17-i 1303/2013/EU rendelete (a továbbiakban: 1303/2013/EU európai parlamenti és tanácsi rendelet) 2. cikk 11. pontja szerinti pénzügyi eszközök (a továbbiakban: pénzügyi eszközök) esetén a 3. melléklet szerinti adattartalom elérhető az egyéb nyilvántartási rendszerben.
 
 (2) Ha az (1) bekezdésben meghatározott feltételek teljesítéséhez az egyéb nyilvántartási rendszer fejlesztése szükséges, arról annak alkalmazásgazdája köteles gondoskodni.
+
+[^8]: A 22. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
