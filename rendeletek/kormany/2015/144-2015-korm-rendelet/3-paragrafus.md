@@ -1,0 +1,7 @@
+## 2. § A támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet [a továbbiakban: 60/2014. (III. 6.) Korm. rendelet] a 6. melléklet szerinti 3. melléklettel egészül ki.
+
+## 3. § A 60/2014. (III. 6.) Korm. rendelet
+
+a) 22. § (1) bekezdés d) pontjában az „a 2. melléklet szerinti adattartalom” szövegrész helyébe az „a 2. melléklet, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről az Európai Parlament és a Tanács 2013. december 17-i 1303/2013/EU rendelete (a továbbiakban: 1303/2013/EU európai parlamenti és tanácsi rendelet) 2. cikk 11. pontja szerinti pénzügyi eszközök (a továbbiakban: pénzügyi eszközök) esetén a 3. melléklet szerinti adattartalom” szöveg,
+
+b) 27. § (2) bekezdésében az „a 2. mellékletben meghatározott” szövegrész helyébe az „a 2. mellékletben – az 1303/2013/EU európai parlamenti és tanácsi rendelet szerinti pénzügyi eszközök esetén a 3. mellékletben – meghatározott” szöveg

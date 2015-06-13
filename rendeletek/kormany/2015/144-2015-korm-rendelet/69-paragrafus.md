@@ -1,0 +1,3 @@
+## „(7a) A támogatási előleggel való teljes elszámolást követően az előleg a még el nem számolt támogatásnak a 116. § (2) és (3) bekezdése szerinti mértékéig, illetve összegéig újra igényelhető, ha erre a felhívás, illetve a támogatási szerződés lehetőséget biztosít.
+
+## (8) A támogatási előleggel legkésőbb a záró kifizetési igénylésben el kell számolni oly módon, hogy a támogatási előleg teljes összege erejéig rendelkezésre álljon a kedvezményezett által kifizetési igénylés keretében benyújtott, alátámasztó dokumentumokkal igazolt és az irányító hatóság vagy a kifizető ügynökség által elfogadott költség.”

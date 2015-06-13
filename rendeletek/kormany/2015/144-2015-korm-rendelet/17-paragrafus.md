@@ -1,0 +1,5 @@
+## 16. § A 272/2014. (XI. 5.) Korm. rendelet 28. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(1) Az EMVA keretében végrehajtott intézkedések esetében a kifizető ügynökség a hatáskörébe tartozó feladatokat – a kifizetés kivételével – az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, a biztosítékok és az euro használata tekintetében történő kiegészítéséről szóló, 2014. március 11-i 907/2014/EU bizottság rendelet (a továbbiakban: 907/2014/EU bizottság rendelet) 1. mellékletének 1. C. pontja szerint is elláthatja, illetve a hatáskörébe tartozó feladatok ellátásába szakértőként, illetve egyes technikai jellegű feladatok ellátására más szervezetet (a továbbiakban együtt: együttműködő szervezet) is bevonhat.
+
+## (2) Az együttműködő szervezet kizárólag az irányító hatóság vagy a kifizető ügynökség előzetes jóváhagyása alapján vonhat be más szervezetet, szakértőt, illetve közreműködőt feladata ellátásába. Az együttműködő szervezet által elvégzett feladatért harmadik személy felé a kifizető ügynökség felel.”

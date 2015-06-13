@@ -1,0 +1,1 @@
+## „175/A. § Ha a kedvezményezett visszafizetési kötelezettségének feltételei bekövetkeznek, EMVA esetén a kifizető ügynökség a kedvezményezett tartozását meghatározott agrártámogatások jövőbeni kifizetéseiből visszatartja.”

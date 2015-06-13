@@ -1,0 +1,3 @@
+## 60. § A 272/2014. (XI. 5.) Korm. rendelet 110. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) A projektmenedzsment tevékenységéhez kapcsolódó költség csak a projekt szakmai előrehaladásának arányában számolható el. A projektek pénzügyi lebonyolítása során a kifizetett és az összes projektmenedzsmentre jutó támogatás aránya legfeljebb 10 százalékponttal haladhatja meg a teljes projekt vonatkozásában kifizetett és megítélt támogatás arányát. A 87. § (1) bekezdés c) pont szerinti esetben a projektmenedzsment tevékenységhez kapcsolódó költségre támogatás nem folyósítható az e bekezdésben rögzített arány helyreállításáig.”
