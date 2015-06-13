@@ -1,6 +1,4 @@
-126. § (1) A kifizetési igényléshez annyi összesítőt kell mellékelni, ahány típusú költség felmerül, és elszámolásra benyújtásra kerül.
-
-(2) Az összesítőkhöz a mögöttes bizonylatok hitelesített másolatát nem kell benyújtani, kizárólag az említett összesítők – illetve, ha releváns, a 4. melléklet szerinti alátámasztó dokumentumok – szolgálnak alátámasztásul a költségek elszámolására.
+126. § (1)–(2)[^364]
 
 (3) Ha a projekt keretében elszámolható költségről szóló bizonylat eredeti példánya elveszett vagy megsemmisült, és a bizonylat kibocsátója az általa kiállított vagy őrzött bizonylatról másolatként új bizonylatot állít ki, akkor az abban az esetben fogadható el, ha a bizonylat kibocsátója a bizonylat azonosságát szabályszerűen igazolta.
 
@@ -10,4 +8,7 @@
 
 (6) Az új bizonylat eredeti példányát záradékolni kell és elkülönítetten kell nyilvántartani, illetve megőrizni.
 
-(7) Kifizetési igénylés benyújtása esetén a záradékolt új bizonylatokról kell hitelesített másolatot készíteni és a kifizetési igényléshez mellékelni.
+(7)[^365] Kifizetési igénylés benyújtása esetén a záradékolt új bizonylatot kell a kifizetési igényléshez mellékelni.
+
+[^364]: A 126. § (1)–(2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 30. pontja hatályon kívül helyezte.
+[^365]: A 126. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 154. pontja szerint módosított szöveg.

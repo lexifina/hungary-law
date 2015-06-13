@@ -1,19 +1,25 @@
-## VII. Fejezet
+## VII. Fejezet[^133]
 
 ## VÉGREHAJTÁS-TERVEZÉS
 
 ## 17. Többéves nemzeti keret
 
-40. § (1) A programok eredményes megvalósításának elősegítése céljából többéves nemzeti keretet kell készíteni. A többéves nemzeti keret beruházási prioritásonként tartalmazza a programok éves indikatív pénzügyi kereteit, valamint prioritási tengelyenként az eredményességi keretbe foglalt indikátorokra vonatkozóan a célértékek éves bontását.
+40. § (1) A többéves nemzeti keret tervezési dokumentum, amely egy program fejlesztéspolitikai intézményrendszer általi végrehajtásának módját, és ennek keretében
 
-(2) A többéves nemzeti keretet a 2019. december 31-ig szóló időszakra, valamint a 2023. december 31-ig szóló időszakra kell készíteni.
+a) fejlesztési intézkedésekhez rendelt módon a program indikatív pénzügyi kereteit, valamint
 
-(3) A többéves nemzeti keret elkészítését az európai uniós források felhasználásáért felelős miniszter koordinálja. A többéves nemzeti keret elkészítésében az irányító hatóságok, a szakpolitikai felelősök és a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet alapján érintett további kormányzati szereplők együttműködnek.
+b) a fejlesztési intézkedésekhez tartozó indikátorokra vonatkozó célértékeket
 
-(4) A 2019. december 31-ig szóló többéves nemzeti keretet az érintett programról szóló, az Európai Bizottság által kiadott elfogadó határozat megjelenésétől számított 30 napon belül kell elkészíteni.
+határozza meg.
 
-(5) A 2023. december 31-ig szóló többéves nemzeti keretet az 1303/2013/EU európai parlamenti és tanácsi rendelet 21. cikke szerinti eredményességi felülvizsgálat lefolytatása után, a 22. cikk (2) pontban említett határozat közzétételétől számított 30 napon belül kell elkészíteni.
+(2) A többéves nemzeti keretet normatív kormányhatározat állapítja meg.
 
-(6) A többéves nemzeti keretet, valamint annak módosítását az európai uniós források felhasználásáért felelős miniszter előterjesztésére a Kormány fogadja el.
+(3) A programot időrend szerint elkülönülő két többéves nemzeti keret szerint kell végrehajtani, amely szerint
 
-(7) A többéves nemzeti keret módosítását az irányító hatóság az európai uniós források felhasználásáért felelős miniszternél kezdeményezheti.
+a) az első többéves nemzeti keretet a program elfogadásától 2019. december 31-ig tartó időszakra,
+
+b) a második többéves nemzeti keretet 2020. január 1-jétől 2023. december 31-ig tartó időszakra
+
+vonatkozóan kell megalkotni.
+
+[^133]: A VII. Fejezet (40–44/B. §) a 144/2015. (VI. 12.) Korm. rendelet 23. §-ával megállapított szöveg.

@@ -2,9 +2,23 @@
 
 ## SZABÁLYTALANSÁGKEZELÉS
 
-156. § (1) Szabálytalansági eljárás megindítására, szabálytalanság megállapítására kizárólag a támogatási szerződés megkötését, pénzügyi eszközök esetén a finanszírozási megállapodás megkötését követően kerülhet sor.
+156. § (1)[^422] Szabálytalansági eljárás megindítására, szabálytalanság megállapítására kizárólag a támogatási szerződés megkötését, pénzügyi eszközök esetén a finanszírozási megállapodás, a pénzügyi közvetítővel kötött finanszírozási megállapodás vagy a végső kedvezményezettel kötött szerződés megkötését, kezességvállalás esetén a kezességvállalási nyilatkozat kiadását követően kerülhet sor.
 
 (2) A szabálytalansági eljárást az irányító hatóság folytatja le, abban az esetben is, ha közreműködő szervezet kerül kijelölésre.
+
+(2a)[^423] Pénzügyi eszköz esetén ahol e Fejezet és – az 57. alcím kivételével – a XXII. Fejezet
+
+a) kedvezményezettet említ, azon végső kedvezményezettet vagy pénzügyi közvetítőt is,
+
+b) támogatási szerződést vagy támogatási jogviszonyt említ, azon végső kedvezményezett tevékenysége körében felmerült szabálytalanság esetén végső kedvezményezettel kötött szerződést, az alapok alapját végrehajtó szervezet vagy a pénzügyi közvetítő tevékenysége körében felmerült szabálytalanság esetén finanszírozási megállapodást, illetve pénzügyi közvetítővel kötött finanszírozási megállapodást,
+
+c) irányító hatóságot említ, azon a pénzügyi közvetítő és a végső kedvezményezett tevékenysége körében felmerült szabálytalanság esetén az alapok alapját végrehajtó szervezetet,
+
+d) irányító hatóság vezetőjét említ, azon a pénzügyi közvetítő és a végső kedvezményezett tevékenysége körében felmerült szabálytalanság esetén az alapok alapját végrehajtó szervezet szabálytalansági döntéshozó testületét
+
+kell érteni.
+
+(2b)[^424] Vidékfejlesztési program esetén, ha a szabálytalansági eljárás megindítására okot adó körülmény a támogatási szerződés megkötését megelőzően következett be, de a támogatási szerződés megkötését követően jut a kifizető ügynökség tudomására, a szabálytalansági eljárást az irányító hatóság folytatja le.
 
 (3) A szabálytalansági ügy elintézésében nem vehet részt
 
@@ -14,11 +28,11 @@ b) az a) pont alá tartozó személy vagy szervezet képviselője, vagy olyan vo
 
 c) az a) vagy a b) pont alá tartozó személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa,
 
-d) aki az érintett projekt-kiválasztási eljárásában, illetve a támogatói döntés előkészítésében részt vett,
+d)[^425] aki az érintett projekt-kiválasztási eljárásában, illetve a támogatási döntés előkészítésében részt vett,
 
 e) a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa.
 
-(4) A jogorvoslati eljárásban nem járhat el, aki a szabálytalansági ügy elintézésében részt vett.
+(4)[^426] A jogorvoslati eljárásban nem járhat el, aki a szabálytalansági ügy elintézésében részt vett. Ez nem vonatkozik a 169. § (2) bekezdés és 170. § szerinti eljárásra.
 
 (5) Az irányító hatóság az eljárásában köteles törekedni arra, hogy a szabálytalansággal érintett projekt célja megvalósuljon, és lehetőség szerint a cél indokolatlanul ne sérüljön.
 
@@ -31,3 +45,9 @@ e) a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontj
 (9) A szabálytalansági eljárás kezdete az a nap, amelyen az irányító hatóság vezetője az eljárás megindításáról döntött, jogorvoslati eljárás esetén a jogorvoslati kérelemnek a jogorvoslati eljárás lefolytatására jogosult szervhez történő megérkezését követő nap.
 
 (10) A szabálytalansági eljárás az irányító hatóság, a jogorvoslati eljárás a jogorvoslati eljárást lefolytató szervezet vezetőjének döntésével zárul.
+
+[^422]: A 156. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
+[^423]: A 156. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be.
+[^424]: A 156. § (2b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 86. § (2) bekezdése iktatta be.
+[^425]: A 156. § (3) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 181. pontja szerint módosított szöveg.
+[^426]: A 156. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 86. § (3) bekezdésével megállapított szöveg.

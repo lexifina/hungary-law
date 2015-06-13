@@ -9,3 +9,7 @@ Visszaköveteléssel érintett támogatási arány = 75–(teljesített indikát
 (4) Ha az indikátor teljesülése adott tevékenységhez köthető, az arányosítást a tevékenységre jutó támogatás arányában kell elvégezni. Ha a projekt célja több indikátor teljesítése, és több indikátor nem érte el a támogatási szerződésben, vagy ezek módosításában meghatározott érték 75%-át, az arányosítást a legalacsonyabb arányban teljesült indikátort figyelembe véve kell elvégezni.
 
 (5) Az (1)–(4) bekezdés nem alkalmazható a szakpolitikai mutatók vonatkozásában.
+
+(6)[^247] Ha az indikátor egyben a műszaki-szakmai tartalom részét képezi, a támogatási szerződésben szereplő tervérték csökkenése esetén a műszaki-szakmai tartalom csökkenésére vonatkozó, az 1. melléklet 65.4. pont c) alpontját szükséges alkalmazni.
+
+[^247]: A 88. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 53. §-a iktatta be.

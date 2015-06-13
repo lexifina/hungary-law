@@ -6,14 +6,16 @@
 
 3. egységes eljárásrendi megoldások alkalmazásának biztosítása,
 
-4. a támogatási felhívások közötti szinergia és a lehatárolás biztosítása,
-
-5. az abszorpciós célok teljesülésének nyomon követése,
+4–5.[^52]
 
 6. az eredményességi, teljesítmény-kerettel összefüggő szempontok nyomon követése,
 
-7. költségvetési kockázatok jelzése,
+7.[^53]
 
 8. állami támogatásokkal kapcsolatos szabályozás érvényesítése,
 
-9. a kormányprogrammal, illetve egyéb kormányzati programokkal való összhang.
+9.[^54]
+
+[^52]: A 14. § 4–5. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.
+[^53]: A 14. § 7. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.
+[^54]: A 14. § 9. pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 2. pontja hatályon kívül helyezte.

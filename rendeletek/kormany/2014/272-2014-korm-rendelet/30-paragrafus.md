@@ -1,4 +1,8 @@
-30. § (1) Az ESB-alapokból finanszírozott programok közötti összhangot és koordinációt a Partnerségi Megállapodás monitoring bizottsága biztosítja.
+30. § (1)[^108] A Partnerségi Megállapodás monitoring bizottság
+
+a) biztosítja az ESB-alapokból finanszírozott programok közötti összhangot és koordinációt, valamint
+
+b) nyomon követi a 1303/2013/EK rendelet 9. cikkel összhangban a Partnerségi Megállapodásban meghatározott célkitűzések, valamint a horizontális elvek és politikák teljesülését a végrehajtás során.
 
 (2) A Partnerségi Megállapodás monitoring bizottság elnökét a miniszterelnök nevezi ki.
 
@@ -22,7 +26,9 @@ h) a gazdasági és a releváns szakmai érdekképviseletek;
 
 i) a szociális partnerek;
 
-j) a civil és nem-kormányzati szervezetek (különösen a környezetvédelem, a nemek közti egyenlőség, az esélyegyenlőség, az egyenlő bánásmód, valamint a diszkrimináció-mentesség területéről).
+j)[^109] a civil és nem-kormányzati szervezetek (különösen a környezetvédelem, klíma, energia, fenntartható fejlődés, a nemek közti egyenlőség, az esélyegyenlőség, az egyenlő bánásmód, valamint a diszkrimináció-mentesség területéről);
+
+k)[^110] a Magyar Tudományos Akadémia.
 
 (4) A Partnerségi Megállapodás monitoring bizottságba tanácskozási joggal rendelkező tagot delegálhat:
 
@@ -36,10 +42,16 @@ d) a kifizető ügynökség;
 
 e) a tanúsító szerv;
 
-f) a nem az európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter.
+f)[^111] a (3) bekezdésben fel nem sorolt miniszter.
 
 (5) A Partnerségi Megállapodás monitoring bizottsága titkársági feladatait az európai uniós források felhasználásáért felelős miniszter látja el.
 
 (6) A Partnerségi Megállapodás monitoring bizottsága tagjainak listája nyilvános és a monitoring bizottság működése során a bevont partnerek megismerik az adatvédelemmel, a bizalmas kezeléssel és az összeférhetetlenséggel kapcsolatos kötelezettségeiket.
 
-(7) A Partnerségi Megállapodás monitoring bizottsága évente legalább egyszer ülésezik. Működésének részletes szabályait az európai uniós források felhasználásáért felelős miniszter által az uniós és a hazai intézményi, jogi és pénzügyi keretekkel összhangban meghatározott elvek alapján megalkotott és saját maga által elfogadott ügyrendjében állapítja meg.
+(7)[^112] A Partnerségi Megállapodás monitoring bizottsága évente legalább kétszer ülésezik. Működésének részletes szabályait az európai uniós források felhasználásáért felelős miniszter által az uniós és a hazai intézményi, jogi és pénzügyi keretekkel összhangban meghatározott elvek alapján megalkotott és saját maga által elfogadott ügyrendjében állapítja meg.
+
+[^108]: A 30. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^109]: A 30. § (3) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 49. pontja szerint módosított szöveg.
+[^110]: A 30. § (3) bekezdés k) pontját a 144/2015. (VI. 12.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^111]: A 30. § (4) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^112]: A 30. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 50. pontja szerint módosított szöveg.

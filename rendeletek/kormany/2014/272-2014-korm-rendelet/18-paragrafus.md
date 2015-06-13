@@ -2,24 +2,35 @@
 
 18. § (1) A szakpolitikai felelős a programok tervezése és végrehajtása során a szakpolitikai szempontok érvényesítése érdekében ellátja a következő feladatokat:
 
-a) a kiemelt projektek megvalósítására irányuló felhívások tekintetében kidolgozza a számszerűsíthető szakmai szempontrendszeren alapuló forráselosztás elveit és meghatározza a projekt szintű indikatív forrásallokációt,
+a)[^60] az éves fejlesztési keret készítése során a 41. § (2) bekezdésben szereplő információk megadásával elkészíti a felhívások szakmai koncepcióját az érintett irányító hatósággal és – szükség esetén – más szakpolitikai felelőssel egyeztetve, figyelembe véve az összefüggő fejlesztéseket,
 
-b) a kiemelt projektek tekintetében értékeli a projekt szinten rögzített szakmai elvárások teljesülését,
+b)[^61] a kiemelt projektek tekintetében nyomon követi a projekt szinten rögzített szakmai elvárások teljesülését,
 
-c) nem kiemelt projektek esetében meghatározza a szakpolitikai elvárásokat a megvalósuló fejlesztések tekintetében,
+c)[^62]
 
-d) együttműködik programok megvalósításában érintett minisztériumi felelősökkel a forráselosztási elvek, valamint a szakpolitikai elvárások meghatározása során,
+d)[^63] együttműködik a programok megvalósításában érintett minisztériumi felelősökkel a forráselosztási elvek, a szakpolitikai elvárások és horizontális követelmények meghatározása során,
 
-e) adatot szolgáltat az irányító hatóságnak az éves fejlesztési keret előkészítéséhez és módosításához,
+e)[^64]
 
-f) az irányító hatósággal és az európai uniós források felhasználásáért felelős miniszterrel és a Kormány tagjainak feladat-és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet alapján érintett további kormányzati szereplőkkel együttműködve részt vesz a többéves nemzeti keret előkészítésében,
+f)[^65] az irányító hatósággal és az európai uniós források felhasználásáért felelős miniszterrel és a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet (a továbbiakban: Ktfr.) alapján érintettekkel együttműködve részt vesz a többéves nemzeti keret előkészítésében, amelynek keretében szakmai információt nyújt a 40. §-ban foglaltak elkészítéséhez az irányító hatóság részére,
 
-g) a területi kiválasztási rendszer esetén megvizsgálja a felhívás ágazati stratégiáknak való megfelelését,
+g)[^66]
 
-h) meghatározza a felelősségébe tartozó, elindításra kerülő felhívások szakmai tartalmát, melynek keretében biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,
+h)[^67] elkészíti az irányító hatóságnak megküldendő, felelősségi körébe tartozó éves fejlesztési keret alapját jelentő szakmai koncepciót, és a meghirdetendő felhívások szakmai tartalmának meghatározása során biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,
 
 i) a szakpolitikai elvárások és szakmai tartalmak kialakítása során a területfejlesztés stratégiai tervezéséért felelős miniszterrel együttműködve biztosítja a területi kohézió horizontális szempontjainak érvényesítését.
 
-(2) Ahol e rendelet bármely dokumentum, javaslat, előterjesztés tervezet tekintetében benyújtási kötelezettséget ír elő az irányító hatóságnak az e rendeletben meghatározott más szerv részére, az abban foglalt javaslat a szakpolitikai felelőssel közös álláspontnak tekintendő, ha a szakpolitikai felelőst e rendelet 2. melléklete a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet szerint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban jelölte ki.
+(2)[^68] Ahol e rendelet bármely dokumentum, javaslat, előterjesztés tervezet tekintetében benyújtási kötelezettséget ír elő az irányító hatóságnak az e rendeletben meghatározott más szerv részére, az abban foglalt javaslat a szakpolitikai felelőssel közös álláspontnak tekintendő, ha a szakpolitikai felelőst a 2. melléklet a Ktfr. szerint az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban jelölte ki.
 
-(3) A területi programok esetében a szakpolitikai felelős mellett az irányító hatóság a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet szerint feladatkörrel rendelkező minisztert a szakpolitikai felelőshöz hasonlóan bevonja.
+(3)[^69]
+
+[^60]: A 18. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^61]: A 18. § (1) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 31. pontja szerint módosított szöveg.
+[^62]: A 18. § (1) bekezdés c) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^63]: A 18. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 32. pontja szerint módosított szöveg.
+[^64]: A 18. § (1) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^65]: A 18. § (1) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^66]: A 18. § (1) bekezdés g) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 3. pontja hatályon kívül helyezte.
+[^67]: A 18. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^68]: A 18. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 33. pontja szerint módosított szöveg.
+[^69]: A 18. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 4. pontja hatályon kívül helyezte.

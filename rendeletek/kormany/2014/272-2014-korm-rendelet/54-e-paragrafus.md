@@ -1,0 +1,1 @@
+## 54/D. § Területi kiválasztási eljárásrendben kell dönteni a főváros, a megye és a megyei jogú város ITP-je keretében támogatandó projektek támogatási kérelmeiről a területi programok esetén, ahol a program a területi kiválasztási eljárásrend alkalmazását írja elő.

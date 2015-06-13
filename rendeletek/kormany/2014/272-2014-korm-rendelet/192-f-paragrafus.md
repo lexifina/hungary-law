@@ -1,1 +1,0 @@
-## 192/E. § A derogációs projektet megvalósító konzorcium köteles kezdeményezni a 4. § g) pontja szerinti miniszternél a projekttel összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánítását.

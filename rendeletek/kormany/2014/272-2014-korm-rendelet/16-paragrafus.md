@@ -1,8 +1,8 @@
 ## 8. Az audit hatóság feladatai
 
-## 16. § Az audit hatóság az Európai Bizottság és az államháztartásért felelős miniszter iránymutatásai, valamint a nemzetközileg elfogadott standardok alapján
+## 16. §[^55] Az Alapok audit hatósága az Európai Bizottság és az államháztartásért felelős miniszter iránymutatásai, valamint a nemzetközileg elfogadott standardok alapján
 
-a) az 1303/2013/EU európai parlamenti és tanácsi rendelet 124. cikk (2) bekezdésének és a 223/2014/EU rendelet 35. cikk (2) bekezdésének megfelelően lefolytatja a kijelölési kritériumok teljesülésének értékelését, elkészíti az értékelésről szóló jelentést és véleményt,
+a)[^56] az 1303/2013/EU európai parlamenti és tanácsi rendelet 124. cikk (2) bekezdésének és a 223/2014/EU európai parlamenti és tanácsi rendelet 35. cikk (2) bekezdésének megfelelően lefolytatja a kijelölési kritériumok teljesülésének értékelését, elkészíti az értékelésről szóló jelentést és véleményt,
 
 b) elkészíti az audit stratégiát,
 
@@ -25,3 +25,6 @@ j) részt vesz az 1303/2013/EU európai parlamenti és tanácsi rendelet 128. ci
 k) véleményezi az Európai Bizottság ellenőrzéseiben felvetett kérdésekre adandó tagállami választervezeteket, részt vesz a szükséges tárgyalások lefolytatásában,
 
 l) gondoskodik az Európai Bizottság által az audit hatósági tevékenység hatékonyságát vizsgáló ellenőrzések által felvetett kérdésekre adandó tagállami válaszok kialakításáról, a szükséges tárgyalások lefolytatásáról.
+
+[^55]: A 16. § nyitó bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 26. pontja szerint módosított szöveg.
+[^56]: A 16. § (1) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 27. pontja szerint módosított szöveg.

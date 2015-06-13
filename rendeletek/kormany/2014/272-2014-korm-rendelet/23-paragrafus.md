@@ -1,7 +1,17 @@
 ## 22. § Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározza annak rendjét, hogy az ágazati feladatok ellátása tekintetében a 20. § szerinti feladatkörrel rendelkező szervezeti egységek miként tartanak kapcsolatot az irányító hatósággal.
 
-23. § (1) Közreműködő szervezet kijelölése esetén az e rendeletben az irányító hatóság feladataként meghatározott tevékenységek közül a közreműködő szervezettel történt megállapodás szerint meghatározott tevékenységeket a közreműködő szervezet látja el.
+23. §[^83] (1) A közreműködő szervezet és az alapok alapját végrehajtó szervezet közreműködik
 
-(2) Az (1) bekezdésben meghatározottakon túl a közreműködő szervezet feladata ellenőrzési nyomvonal készítése és folyamatos aktualizálása, valamint beszámolók készítése és megküldése az irányító hatóságnak a többéves nemzeti keret, az éves fejlesztési keret és az éves munkaterv megvalósításában történt előrehaladásról, az egyes felhívások előrehaladásáról és a szükséges intézkedésekre vonatkozó javaslatokról.
+a) az ellenőrzési nyomvonal elkészítésében és folyamatos aktualizálásában,
 
-(3) A közreműködő szervezet feladatainak ellátásához alvállalkozót kizárólag átmeneti jelleggel vagy speciális szakterületen és az irányító hatóság által meghatározott érték felett, az irányító hatóság előzetes egyetértésével vonhat be. Az alvállalkozók teljesítéséért a közreműködő szervezet felelős.
+b) a csalás ellenes stratégia kialakításában és végrehajtásában, valamint
+
+c) beszámolót készít az irányító hatóság részére a többéves nemzeti keret, az éves fejlesztési keret, az éves munkaterv megvalósításában történt előrehaladásról, az egyes felhívások előrehaladásáról és a szükséges intézkedésekre vonatkozó javaslatokról.
+
+(2) A közreműködő szervezet az e rendelet által az irányító hatóság feladatkörébe utalt feladatok közül az erre vonatkozóan megkötött megállapodásban meghatározottakat látja el.
+
+(3) Az alapok alapját végrehajtó szervezet az e rendelet által az irányító hatóság feladatkörébe utalt feladatok közül a finanszírozási megállapodásban meghatározottakat látja el.
+
+(4) A közreműködő szervezet, valamint az alapok alapját végrehajtó szervezet feladatainak ellátásához alvállalkozót kizárólag átmeneti jelleggel vagy speciális szakterületen és az irányító hatóság által meghatározott érték felett, az irányító hatóság előzetes egyetértésével vonhat be. Az alvállalkozók teljesítéséért a közreműködő szervezet, illetve az alapok alapját végrehajtó szervezet felelős.
+
+[^83]: A 23. § a 144/2015. (VI. 12.) Korm. rendelet 12. §-ával megállapított szöveg.

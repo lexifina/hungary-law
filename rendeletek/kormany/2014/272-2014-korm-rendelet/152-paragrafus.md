@@ -2,22 +2,35 @@
 
 ## KIFOGÁS
 
-152. § (1)[^22] A támogatást igénylő vagy a kedvezményezett a támogatási kérelem benyújtásának időpontjától a támogatási jogviszony időtartama alatt elektronikus úton
+152. § (1)[^403] A támogatást igénylő vagy a kedvezményezett a támogatási kérelem benyújtásának időpontjától a támogatási jogviszony időtartama alatt elektronikus úton
 
 a) – közreműködő szervezet kijelölése esetén – a közreműködő szervezet döntése ellen, a kifizető ügynökség döntése ellen és az irányító hatóság döntése ellen az európai uniós források felhasználásáért felelős miniszternek címzett,
 
-b) a helyi akciócsoport döntése ellen TOP esetén a közreműködő szervezetnek, Vidékfejlesztési Program esetén a kifizető ügynökségnek címzett
+b)[^404]
 
 ## kifogást nyújthat be, ha a projekt kiválasztási eljárásra, a támogatási döntés meghozatalára, a támogatói okirat kiadására vagy a támogatási szerződés megkötésére, a támogatás folyósítására, visszakövetelésére vonatkozó eljárás jogszabálysértő vagy a felhívásba, támogatási szerződésbe ütközik.
 
-(2) A kifogást a kifogásolt döntésről való tudomásszerzéstől számított 10 napon belül egy alkalommal, az indokok megjelölésével lehet benyújtani.
+(1a)[^405] Az (1) bekezdés alkalmazása során az alapok alapját végrehajtó szervezet nem minősül kedvezményezettnek.
 
-(3) Nincs helye kifogás benyújtásának a szabálytalanságot megállapító döntés (a továbbiakban: szabálytalansági döntés), a XXII. fejezetben meghatározott jogorvoslati eljárást lezáró döntés, valamint az e rendelet hatálya alá tartozó valamely szerv által kiadott minőségbiztosítói jelentés, tanúsítvány, konzultáció keretében adott észrevétel, javaslat ellen.
+(1b)[^406] A pénzügyi eszközök esetében a pénzügyi közvetítő nyújthat be kifogást az alapok alapját végrehajtó szervezetnél az alapok alapját végrehajtó szervezet pénzügyi közvetítők kiválasztásával kapcsolatos eljárásával és az alapok alapját végrehajtó szervezet pénzügyi közvetítőkkel kötött finanszírozási megállapodásban foglaltak betartásával kapcsolatos eljárása során hozott döntésével szemben.
+
+(1c)[^407] A kifogást annak benyújtója az elektronikus alkalmazáson keresztül mindaddig visszavonhatja, amíg a kifogást elbíráló szerv azt érdemben el nem bírálta. A visszavont kifogást újból előterjeszteni nem lehet.
+
+(2)[^408] A kifogást a kifogásolt döntés kézbesítésétől számított tíz napon belül egy alkalommal, az indokok megjelölésével lehet benyújtani.
+
+(3)[^409] Nincs helye kifogás benyújtásának a szabálytalanságot megállapító döntés (a továbbiakban: szabálytalansági döntés), a XXII. fejezetben meghatározott jogorvoslati eljárást lezáró döntés, valamint az e rendelet hatálya alá tartozó valamely szerv által kiadott minőségellenőrzési jelentés, tanúsítvány, utóellenőrzési jelentés, konzultáció keretében adott észrevétel, javaslat ellen.
 
 (4) A kifogás elbírálásáig a kifogásban foglaltakkal összefüggő eljárási határidők nyugszanak.
 
 (5) A kifogást elbíráló szerv kizárólag a kifogással érintett döntést vizsgálhatja, valamint az azt megalapozó eljárás azon elemeit, megállapításait, melyeket a kifogás vitat.
 
-(6) A kifogás kivizsgálásában, illetve elbírálásában nem vehet részt ügyintézőként, illetve döntéshozóként az, aki a kifogás által érintett projekt kiválasztási eljárásában, illetve a támogatói döntés előkészítésében részt vett.
+(6)[^410] A kifogás kivizsgálásában, illetve elbírálásában nem vehet részt ügyintézőként, illetve döntéshozóként az, aki a kifogás által érintett projekt kiválasztási eljárásában, illetve a támogatási döntés előkészítésében – pénzügyi eszközök esetében az, aki a pénzügyi közvetítők kiválasztásával, illetve a pénzügyi közvetítőkkel kötött finanszírozási megállapodásban foglaltak betartásával kapcsolatos eljárásban – részt vett.
 
-[^22]: A 152. § (1) bekezdése a 366/2014. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^403]: A 152. § (1) bekezdése a 366/2014. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^404]: A 152. § (1) bekezdés b) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 31. pontja hatályon kívül helyezte.
+[^405]: A 152. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be.
+[^406]: A 152. § (1b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be.
+[^407]: A 152. § (1c) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 84. § (1) bekezdése iktatta be.
+[^408]: A 152. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 177. pontja szerint módosított szöveg.
+[^409]: A 152. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 178. pontja szerint módosított szöveg.
+[^410]: A 152. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 84. § (2) bekezdésével megállapított szöveg.

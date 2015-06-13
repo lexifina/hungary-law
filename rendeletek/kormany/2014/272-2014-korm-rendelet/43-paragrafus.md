@@ -1,5 +1,3 @@
-43. § (1) Az éves fejlesztési keretről szóló FKB jóváhagyást követően az irányító hatóság monitoring bizottság elé terjeszti az éves fejlesztési keretet. A monitoring bizottság megtárgyalja a felhívásokat és jóváhagyja az egyes felhívások kiválasztási szempontrendszerét.
+43. § (1) Az irányító hatóság gondoskodik az éves fejlesztési keret elfogadására irányuló javaslatnak az NFK elé történő terjesztéséről akként, hogy az legkésőbb minden év november 30-ig az NFK ülésének napirendjére történő felvételére és az ülésen való megtárgyalására alkalmas formában benyújtásra kerüljön. Az éves fejlesztési keret elfogadására irányuló javaslat akkor terjeszthető az NFK elé, ha az FKB annak az NFK általi megtárgyalását javasolja.
 
-(2) A monitoring bizottság ülését követően az irányító hatóság véglegesíti az éves fejlesztési keretet az NFK elé terjeszti minden év október 31-ig. Az előterjesztés tartalmazza az európai uniós források felhasználásáért felelős miniszter által készített értékelést.
-
-(3) Az éves fejlesztési keretet az NFK általi jóváhagyást követő 5 napon belül a www.szechenyi2020.hu honlapon közzé kell tenni.
+(2) Az (1) bekezdés szerinti előterjesztéshez mellékelni kell a 42. § (5) bekezdésében felsorolt dokumentumokat.

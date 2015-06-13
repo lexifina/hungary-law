@@ -1,25 +1,19 @@
-## 20. Éves fejlesztési keret módosítása
+## változtathatja meg.
 
-44. § (1) Az adott évre szóló éves fejlesztési keret módosítását az irányító hatóság indokolt esetben kezdeményezheti az európai uniós források felhasználásáért felelős miniszternél.
+44. § (1) Az éves fejlesztési keret módosítása során a 41/A–43. §-ban foglaltakat az e §-ban meghatározott eltérésekkel kell alkalmazni. Az éves fejlesztési keret módosítására irányuló eljárásban a 41/A–43. §-ban meghatározott határidőket nem kell alkalmazni.
 
-(2) A módosítást az európai uniós források felhasználásáért felelős miniszter megvizsgálja, egyetértése esetén az FKB elé terjeszti. A módosítást az FKB javaslatára az NFK fogadja el.
+(2) A folyó évre szóló éves fejlesztési keret módosítását az irányító hatóság az európai uniós források felhasználásáért felelős miniszternél kezdeményezi, annak indokoltsága bemutatásával.
 
 (3) Az adott évre szóló éves fejlesztési keretet évente egy alkalommal – a tárgyév június 30-ig – lehet módosítani.
 
-(4) Az éves fejlesztési keret módosításának minősül, ha az abban felsorolt bármely felhívás meghirdetésének időpontja a tervezetthez képest 30 napot meghaladóan késik, illetve, ha 20%-ot meghaladó mértékben változik
+(4) Az irányító hatóság minden évben
 
-a) a felhívás keretösszege,
+a) az előreláthatóan szükséges és általa érvényesíteni kívánt – 43/A. § (2) bekezdése szerinti – eltérés jóváhagyása, valamint
 
-b) a kötelezettségvállalási ütemterv,
+b) a 43/A. § (2) bekezdés által meg nem engedett eltérés engedélyezése
 
-c) a szerződéskötési ütemterv,
+## céljából az éves fejlesztési keret módosítását kezdeményezi olyan időben, hogy az a (3) bekezdésben meghatározott határidőben elfogadható legyen.
 
-d) a kifizetési ütemterv,
+(5) Ha az irányító hatóság által érvényesített eltérés előreláthatóan nem haladja meg a 43/A. § (2) bekezdésében meghatározott kereteket, az éves fejlesztési keretet nem szükséges módosítani.
 
-e) a tervezett indikátorok célértéke.
-
-(5) Ha az irányító hatóság egynél több alkalommal, vagy a (3) bekezdés szerinti határidőt követően kezdeményezi az éves fejlesztési keret módosítását, a módosítással érintett összeggel az adott beruházási prioritás többéves nemzeti keretben szereplő, a tárgyévet követő évre vonatkozó összegét csökkenteni kell.
-
-(6) Az (5) bekezdés szerint felszabaduló összeg többéves nemzeti kereten belüli átcsoportosítására az európai uniós források felhasználásáért felelős miniszter tesz javaslatot, figyelembe véve az eredményességi keretbe foglalt mérföldköveket és az éves kötelezettségvállalási táblákat.
-
-(7) A (6) bekezdésben említett módosítás következtében a többéves nemzeti keretet módosítani kell.
+(6) Ha az NFK az éves fejlesztési keretet az erre irányuló szabályszerű javaslat nyomán módosítja, akkor a felhívás módosított meghirdetési időpontjára és módosított keretére kell alkalmazni a 43/A. § rendelkezéseit.

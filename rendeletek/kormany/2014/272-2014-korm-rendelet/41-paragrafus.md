@@ -1,99 +1,37 @@
-## 18. Éves fejlesztési keret
+## 40/C. § A többéves nemzeti keret módosítására a megalkotására vonatkozó szabályokat kell alkalmazni.
 
-41. § (1) A többéves nemzeti keret alapján a programok hatékony végrehajtása érdekében programonként meghatározott, a következő évre szóló éves fejlesztési keretet kell készíteni. Az éves fejlesztési keretet úgy kell elkészíteni, hogy az megfeleljen a többéves nemzeti keretben foglalt pénzügyi és indikátor szerinti célértékeknek.
+## 19. Éves fejlesztési keret
 
-(2) Az éves fejlesztési keretnek tartalmaznia kell:
+41. § (1) Az éves fejlesztési keret tervezési dokumentum, amely meghatározza egy program és annak többéves nemzeti kerete egy naptári év alatt történő, fejlesztéspolitikai intézményrendszer általi végrehajtásának módját.
 
-a) a tárgyévet követő évben meghirdetésre kerülő felhívásokra vonatkozóan:
+(2) Az éves fejlesztési keret meghatározza
 
-1. a felhívás nevét, célját és beavatkozási logikáját,
+a) a felhívás
 
-2. helyzetelemzést,
+aa) azonosító jelét,
 
-3. a támogatási jogosultság feltételeinek, a támogatható tevékenységek és a tervezett elszámolható költségek felsorolását, a projekt-kiválasztási szempontokat,
+ab) megnevezését,
 
-4. a felhívás – legalább 1 milliárd forintos – keretösszegét,
+ac) támogatási keretösszegét,
 
-5. a meghirdetés tervezett időpontját,
+ad) meghirdetésének módját,
 
-6. a kedvezményezetti kört,
+ae) meghirdetésének tervezett idejét,
 
-7. a támogatás összegét, mértékét,
+és
 
-8. a kötelezettségvállalási ütemtervet,
+b) az adott programból finanszírozni és a tárgyévben megkezdeni tervezett kiemelt projekt
 
-9. a szerződéskötési ütemtervet,
+ba) felhívásának azonosító jelét,
 
-10. a kifizetési ütemtervet, ezen belül a szükséges közösségi hozzájárulás, a nemzeti társfinanszírozás és az önerő-támogatás mértékét ütemezve,
+bb) megnevezését,
 
-11. a tervezett indikátorok felsorolását és célértékét,
+bc) támogatást igénylőjének (lehetséges kedvezményezettjének) nevét,
 
-b) kiemelt projektek támogatására irányuló felhívások esetén:
+bd) támogatásának lehetséges legnagyobb összegét,
 
-1. a felhívás nevét, célját és beavatkozási logikáját,
+be) szakmai elvárásait.
 
-2. helyzetelemzést,
+(3) Területi kiválasztási rendszer eljárásrend esetén az éves fejlesztési keretről szóló kormányhatározat meghatározza – a (2) bekezdésben foglaltaktól eltérően – az egyes tématerületeket és az azok keretében megjelenő felhívások meghirdetésre kerülő támogatási keretösszegét.
 
-3. – a technikai segítségnyújtás kivételével – a projektszintű forrásallokáció szakmai szempontrendszerét, a szakmai szempontrendszer alapján meghatározott projektet vagy projekteket,
-
-4. a felhívás – legalább 1 milliárd forintos – keretösszegét,
-
-5. – a technikai segítségnyújtás kivételével – az adott közfeladatban érintett fejlesztés számára projektszinten rendelkezésre álló indikatív támogatási keretet,
-
-6. a támogatási jogosultság feltételeinek, a támogatható tevékenységek és a tervezett elszámolható költségek felsorolását,
-
-7. a kötelezettségvállalási ütemtervet,
-
-8. a szerződéskötési ütemtervet,
-
-9. a kifizetési ütemtervet, ezen belül a szükséges közösségi hozzájárulás, a nemzeti társfinanszírozás és az önerő-támogatás mértékét ütemezve,
-
-10. a tervezett indikátorok felsorolását és célértékét,
-
-c) közösségvezérelt helyi fejlesztés esetén a helyi fejlesztési stratégia elkészítésére vonatkozó felhívás keretében:
-
-1. a felhívás nevét, célját és beavatkozási logikáját,
-
-2. a támogatási jogosultság feltételeinek, a támogatható tevékenységek és a tervezett elszámolható költségek felsorolását,
-
-3. a helyi fejlesztési stratégiák kiválasztási szempontjait,
-
-4. a felhívás keretösszegét,
-
-5. a meghirdetés tervezett időpontját,
-
-6. a kedvezményezetti kört,
-
-7. a kötelezettségvállalási ütemtervet,
-
-8. a helyi akciócsoportokkal történő szerződéskötési ütemtervet,
-
-9. a kifizetési ütemtervet, ezen belül a szükséges közösségi hozzájárulás, nemzeti társfinanszírozás az önerő-támogatás mértékét ütemezve,
-
-10. a tervezett indikátorok felsorolását és célértékét,
-
-d) területi kiválasztási rendszerben végrehajtandó támogatás esetén:
-
-1. az integrált területi program megnevezését,
-
-2. az integrált területi program megvalósítása céljából benyújtandó projektek szakmai kritériumrendszerének ismertetését,
-
-3. az integrált területi program keretében nyújtandó támogatás keretösszegét,
-
-4. az integrált területi program keretében benyújtandó projektekre vonatkozó kötelezettségvállalási ütemtervet,
-
-5. a szerződéskötési ütemtervet,
-
-6. a kifizetési ütemtervet, ezen belül a szükséges közösségi hozzájárulás, nemzeti társfinanszírozás és az önerő-támogatás mértékét ütemezve,
-
-7. a tervezett indikátorok felsorolását és célértékét,
-
-e) pénzügyi eszközök esetén: az alapok alapját végrehajtó szervezet számára rendelkezésre bocsátott éves keretösszeget.
-
-(3) A szakpolitikai felelős – az ágazati stratégiák, illetve az Európai Bizottság által elfogadott programok figyelembe vételével – elkészíti a felhívások szakmai koncepcióját az érintett irányító hatósággal és – szükség esetén – más szakpolitikai felelőssel egyeztetve, figyelembe véve az összefüggő fejlesztéseket.
-
-(4) Ha az adott felhívásban meghatározott fejlesztési cél a szakpolitikai felelősön túl más minisztérium felelősségébe is tartozik vagy, ha a szakpolitikai felelős nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban került kijelölésre, a szakpolitikai felelős köteles felhívás előkészítő munkacsoportot létrehozni és a munkacsoport munkáját dokumentálni.
-
-(5) A szakpolitikai felelős a felhívások szakmai koncepcióját minden év április 30-ig benyújtja az irányító hatóságnak.
-
-(6) A felhívások szakmai koncepcióját az irányító hatóság kiegészíti a (2) bekezdés szerinti információkkal és minden év május 31-ig megküldi azt az európai uniós források felhasználásáért felelős miniszter számára.
+(4) Az éves fejlesztési keretet normatív kormányhatározat állapítja meg.

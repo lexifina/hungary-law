@@ -14,4 +14,6 @@ e) ugyanazon kedvezményezettel szemben más szabálytalansági eljárás van fo
 
 f) a kifizetést követően az eredeti pénzügyi állapot nem állítható helyre.
 
-(3) A kifizetés felfüggesztését meg kell szüntetni, illetve mellőzni kell, ha a kifizetés elmaradása súlyosabb pénzügyi következménnyel jár, mint amilyet a kifizetés eredményezne.
+(3)[^440]
+
+[^440]: A 162. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 36. pontja hatályon kívül helyezte.

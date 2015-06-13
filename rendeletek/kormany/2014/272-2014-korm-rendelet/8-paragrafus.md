@@ -1,8 +1,12 @@
 ## 6. Az európai uniós források felhasználásáért felelős miniszter feladatai
 
-8. § (1) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium az 1303/2013/EU európai parlamenti és tanácsi rendelet 123. cikk (8) bekezdése szerinti koordináló szervezet.
+8. § (1)[^41] Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium
 
-(2) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium koordináló szervezeti teendői körében ellátja az uniós forrásfelhasználás tervezésének és a programok végrehajtásának koordinációs feladatait, biztosítja a fejlesztéspolitikai jogszabályok egységes alkalmazását, az irányító hatóságok végrehajtási tevékenységének egységességét, a programok összehangolt, a szinergiákat kihasználó, a Partnerségi Megállapodásnak megfelelő végrehajtását.
+a) az 1303/2013/EU európai parlamenti és tanácsi rendelet 123. cikk (8) bekezdése szerinti koordináló szervezet, valamint
+
+b) koordinálja a Vidékfejlesztési Program végrehajtását.
+
+(2)[^42] Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium koordináló szervezeti teendői körében ellátja az uniós forrásfelhasználás tervezésének és a programok végrehajtásának koordinációs feladatait, biztosítja a fejlesztéspolitikai jogszabályok egységes alkalmazását, az irányító hatóságok végrehajtási tevékenységének egységességét, a horizontális elvek és politikák érvényesítését, a programok összehangolt, a szinergiákat kihasználó, a Partnerségi Megállapodásnak megfelelő végrehajtását.
 
 (3) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium koordinációs feladatai keretében:
 
@@ -24,8 +28,15 @@
 
 9. ellátja a Partnerségi Megállapodás monitoring bizottságának titkársági feladatait;
 
-10. az irányító hatósággal együttműködve ellátja az európai uniós források felhasználásához kötődő partnerségi egyeztetési folyamatok, valamint a kommunikációs és tájékoztatási feladatok koordinációját.
+10. az irányító hatósággal együttműködve ellátja az európai uniós források felhasználásához kötődő partnerségi egyeztetési folyamatok, valamint a kommunikációs és tájékoztatási feladatok koordinációját;
+
+11.[^43] meghatározza a 6., a 8., a 9. és a 12. alcím szerinti szervek vonatkozásában a munkatársakra vonatkozó képzési stratégiát, jóváhagyja a képzésekért felelős szervezeti egység által kialakított képzési szabályzatot és koordinálja a központilag biztosított képzéseket.
 
 (4) Az európai uniós források felhasználásáért felelős miniszter megteszi a szükséges intézkedéseket a hatáskörébe tartozó rendszerszintű szabálytalanságok megelőzése, illetve kezelése tekintetében, beleértve az ismétlődés kockázatának csökkentésére irányuló intézkedéseket is.
 
-(5) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium a koordinációs feladataihoz kapcsolódóan intézményrendszerrel összefüggő, ellenőrzési, monitoring, értékelési, pénzügyi, jogorvoslati, kommunikációs feladatokat lát el.
+(5)[^44] Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium a koordinációs feladataihoz kapcsolódóan intézményrendszerrel összefüggő, ellenőrzési, monitoring, értékelési, pénzügyi, jogorvoslati, kommunikációs és képzéssel összefüggő feladatokat lát el.
+
+[^41]: A 8. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^42]: A 8. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 18. pontja szerint módosított szöveg.
+[^43]: A 8. § (3) bekezdés 11. pontját a 144/2015. (VI. 12.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^44]: A 8. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 19. pontja szerint módosított szöveg.

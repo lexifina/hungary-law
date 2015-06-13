@@ -1,3 +1,5 @@
-69. § (1) Szakaszolt projekt esetén a IX–XII. fejezet rendelkezéseit nem kell alkalmazni.
+69. §[^183] (1) Szakaszolt projekt második szakaszára a IX–XII. Fejezet rendelkezéseit kell alkalmazni.
 
-(2) A szakaszolt projekt második szakaszára az e rendelet szerinti támogatási szerződés köthető.
+(2) Szakaszolt projekt második szakaszára akkor köthető támogatási szerződés, vagy a támogatási szerződés akkor léphet hatályba, ha a szakaszolt projekt kedvezményezettje a részére nyújtott, az első szakasz megvalósítására kötött támogatási szerződés alapján nyújtott előleggel elszámolt és vele szemben nincs fennálló követelés.
+
+[^183]: A 69. § a 144/2015. (VI. 12.) Korm. rendelet 35. §-ával megállapított szöveg.

@@ -1,0 +1,13 @@
+57/H. § (1) EMVA és ETHA forrásból megvalósuló támogatások esetében, ha a támogatási jogviszony létrejöttét megelőzően a támogatást igénylő meghal, a felhívás eltérő rendelkezése hiányában az örökössel nem köthető támogatási szerződés, az örökös részére nem adható ki támogatói okirat.
+
+(2) A kedvezményezett halála esetén a kifizető ügynökség a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározott támogatási összeget az örökös részére utalja. Ha a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a támogatás összegéről, az ügyfél örököse jogosult – több örökös esetében örökrészük arányában örökösei jogosultak – a támogatás igénybevételére.
+
+(3) Ha a hagyatékátadó végzés vagy öröklési bizonyítvány nem rendelkezik a támogatás jellegű jogosultságról, az ügyfélnek azon örököse (több örökös esetében azon örökösei örökrészük arányában) válik jogosulttá, aki a támogatás jellegű jogosultsághoz kötődő vagyontárgyat – így különösen: földterület, állatállomány – örökölte. Ha a támogatás jellegű jogosultsághoz kötődő vagyontárgyra vonatkozóan a hagyatékátadó végzés vagy öröklési bizonyítvány haszonélvezeti jogot állapít meg, a haszonélvezeti jog jogosultja válik a támogatásra jogosulttá.
+
+(4) A támogatás átutalásának feltétele, hogy az örököst vagy a haszonélvezeti jog jogosultját annak kérelmére az ügyfél-nyilvántartási rendszerben előzetesen nyilvántartásba vegyék.
+
+(5) Az örökös vagy a haszonélvezeti jog jogosultja a kifizető ügynökséggel szemben fennálló követeléséről a jogutódlást igazoló döntés jogerőre emelkedését követő egy éven belül az intézkedés jellegének megfelelő tartalmú okirattal igazolhatja, hogy jogosult a támogatás összegére, a nem támogatás jellegű jogosultság igénybevételére. Ha az örökös vagy a haszonélvezeti jog jogosultja a jogutódlást igazoló döntés jogerőre emelkedését követő egy éven belül a jogosultságát igazoló okiratot nem nyújt be a kifizető ügynökséghez, úgy a jogutódlást igazoló döntés jogerőre emelkedését követő egy év elteltével, de legkésőbb az örökhagyó elhunytától számított három év elteltével megszűnik a támogatás folyósítására, a nem támogatás jellegű jogosultság igénybevételére vonatkozó jogosultsága.
+
+(6) Az EMVA-ból és az ETHA-ból finanszírozott, beruházási jellegű intézkedések esetén, felhívás eltérő rendelkezése hiányában, ha a kedvezményezett jogai és kötelezettségei nem oszthatóak, az örökhagyó helyére egy örökös, a jogelőd helyére egy jogutód léphet.
+
+(7) Az EMVA-ból és az ETHA-ból finanszírozott intézkedések esetén felhívás eltérő rendelkezése hiányában, a jogutód ügyfél az azonos intézkedésre, azonos támogatási kérelem benyújtási időszakban benyújtott támogatási kérelmekkel összefüggő kifizetési kérelmeit együttesen köteles benyújtani.

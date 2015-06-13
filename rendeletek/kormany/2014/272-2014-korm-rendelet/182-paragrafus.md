@@ -6,7 +6,7 @@ b) a korábbi ellenőrzések adatait, megállapításait és a megtett intézked
 
 c) a számviteli év alatt és annak végéig halmozottan is a program végrehajtásával kapcsolatos információkat (a kiválasztott projektek száma, értéke, támogatás és elszámolható költsége, a kifizetések típusa, száma és értéke, a hitelesítési eljárás keretében végzett ellenőrzések száma, az érintett projektek száma és értéke, a megállapítások jellemzői, fontosabb típusai, a megállapított szabálytalanságok száma, értéke, a visszakövetelt támogatás értéke, a befolyt követelések értéke, a behajthatatlan követelések értéke).
 
-(2) Az irányító hatóság az éves összefoglaló alapján elkészíti az uniós mintának megfelelő nyilatkozatot, amely tartalmazza az irányító hatóság vezetőjének nyilatkozatát arról, hogy
+(2)[^486] Az irányító hatóság az éves összefoglaló alapján elkészíti az uniós mintának megfelelő vezetői nyilatkozatot, amely tartalmazza az irányító hatóság vezetőjének nyilatkozatát arról, hogy
 
 a) az éves összefoglalóban szereplő információ megfelelő módon feltüntetett, teljes körű és pontos,
 
@@ -25,3 +25,5 @@ b) azon kiadások, amelyek megtérítését kérték a Bizottságtól, jogszerű
 c) a kontrollrendszerek megfelelően működnek-e,
 
 d) az ellenőrzési tevékenység megkérdőjelezi-e az irányító hatóság vezetője által készített és aláírt vezetői nyilatkozatban szereplő megállapításokat.
+
+[^486]: A 182. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 219. pontja szerint módosított szöveg.

@@ -1,11 +1,17 @@
 ## 11. A területi szereplő feladatai
 
-## 19. § A területi szereplő
+## 19. §[^70] A területi szereplő
 
-a) összeállítja az integrált területi programot és kezdeményezheti annak módosítását,
+a) kidolgozza az ITP szintű kiválasztási kritériumokat, figyelembe véve az operatív programban és az e rendeletben meghatározott horizontális követelményeket,
 
-b) véleményezi az irányító hatóság által megküldött felhívást,
+b) a kiválasztási kritériumok alapján összeállítja az ITP-t és kezdeményezheti annak módosítását,
 
-c) adatot szolgáltat az irányító hatóság részére a többéves nemzeti keret és az éves fejlesztési keret összeállításához,
+c) véleményezi az irányító hatóság által megküldött felhívást és megadja a területi szempontú értékelési szempontokat,
 
-d) végrehajtja az integrált területi programot.
+d) e rendeletben meghatározott esetben szavazati joggal részt vesz a döntés-előkészítő bizottság ülésén, vagy e rendeletben meghatározott esetben a területi szempontú értékelési szempontokat értékeli és az irányító hatóság elé terjeszti,
+
+e) adatot szolgáltat az irányító hatóság részére a többéves nemzeti keret és az éves fejlesztési keret összeállításához,
+
+f) végrehajtja az ITP-t, amelynek keretében a kedvezményezettektől és az irányító hatóságtól a támogatott projektekről adatszolgáltatást kérhet, részt vehet a projektfejlesztésben és a kedvezményezett kérelmére a projektmenedzsment tevékenységek ellátásában.
+
+[^70]: A 19. § a 144/2015. (VI. 12.) Korm. rendelet 10. §-ával megállapított szöveg.

@@ -12,9 +12,9 @@ b) az Európai Szociális Alapból (a továbbiakban: ESZA),
 
 c) a Kohéziós Alapból (a továbbiakban: KA),
 
-d) az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA),
+d)[^1] az Európai Tengerügyi és Halászati Alapból (a továbbiakban: ETHA) [az a)–d) pontban foglaltak a továbbiakban együtt: Alapok],
 
-e) az Európai Tengerügyi és Halászati Alapból (a továbbiakban: ETHA), [az a)–e) pontban foglaltak a továbbiakban együtt: ESB-alapok],
+e)[^2] az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA) [az a)–e) pontban foglaltak a továbbiakban együtt: ESB-alapok],
 
 f) az Európai Hálózatfinanszírozási Eszközből,
 
@@ -26,4 +26,8 @@ h) a leginkább rászoruló személyeket támogató európai segítségnyújtás
 
 (2) E rendeletet nem kell alkalmazni az ERFA-ból származó, az Európai Területi Együttműködés programjaiból nyújtandó támogatásokra.
 
-(3) A pénzügyi eszköz vonatkozásában a 39. §, 45–72. §, 75–91. §, 95–147. §, 152–155. §, 175–177. §, 175–180. §, 192–199. § rendelkezéseit nem kell alkalmazni.
+(3)[^3] A pénzügyi eszköz vonatkozásában a 45–72. §-t, a 79. § (3) bekezdést, a 80–85. §-t, a 90–91. §-t, a 110–110/B. §-t, a 115–147. §-t, a 178–180. §-t, a 192–199. §-t, valamint az 1. melléklet 7.1–97.2., 100.1–198.5., 241.1–247.6., 278.1–306.3. és 328.1–338. pontját nem kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés e) pontja a 144/2015. (VI. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

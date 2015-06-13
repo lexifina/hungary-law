@@ -1,0 +1,3 @@
+57/D. § (1) Ha a támogatási kérelmekről hozott döntést megelőzően a KAP rendelet 74. cikke szerinti ellenőrzést kell lefolytatni, akkor a kérelmek hiánytalan beérkezését követően, a KAP rendelet 74. cikke alapján végzett ellenőrzések lezárását követő harminc napon belül kell dönteni.
+
+(2) Ha közvetlenül alkalmazandó európai uniós jogi aktus vagy felhívás alapján kérelmeket együttesen kell benyújtani vagy a benyújtott kérelmek bírálata egymással tartalmilag összefügg, az irányító hatóság a kérelemről a kérelmekre vonatkozó, valamennyi közös ellenőrzés lezárását követően, a közvetlenül alkalmazandó európai uniós rendelkezés szerinti határidőn belül dönt.

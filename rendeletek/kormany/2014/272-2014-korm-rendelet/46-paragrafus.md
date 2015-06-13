@@ -1,4 +1,4 @@
-46. § (1) A felhívásnak tartalmaznia kell különösen
+46. § (1)[^136] A felhívás tartalmazza legalább
 
 a) a felhívás nevét, keretösszegét,
 
@@ -6,27 +6,31 @@ b) a támogatást igénylők körét,
 
 c) a megítélhető támogatás összegét, mértékét,
 
-d) a fejlesztések indokoltságát, célját és a megvalósítandó számszerűsített eredményeket,
+d) a fejlesztések indokoltságát, célját és a megvalósítandó számszerűsíthető eredményeket,
 
-e) a támogatható tevékenységeket és a fejlesztésekkel kapcsolatos követelményeket,
+e) az Európai Szociális Alap társfinanszírozásával megvalósuló felhívás esetén a kedvezményezettnek az 1304/2013/EU európai parlamenti és tanácsi rendelet I. és II. melléklete szerinti indikátorokhoz kapcsolódó adatgyűjtési és adatszolgáltatási kötelezettségét,
 
-f) a projektkiválasztási szempontokat,
+f) a támogatható tevékenységeket és a támogatás igénybevételével kapcsolatos követelményeket,
 
-g) az elszámolható költségeket,
+g) a projekt-kiválasztási szempontokat,
 
-h) a támogatási kérelem benyújtásának módját, helyét és határidejét,
+h) a horizontális követelményeket,
 
-i) standard és egyszerűsített kiválasztási eljárás esetén azt, hogy a támogatási kérelem a felhívás közzétételét követő 30. nap előtt nem nyújtható be,
+i) az elszámolható költségeket,
 
-j) a támogatási szerződés vagy támogatói okirat tervezetét,
+j) a támogatási kérelem benyújtásának módját, helyét és határidejét,
 
-k) a támogatási kérelemhez csatolandó mellékletek listáját,
+k) standard és egyszerűsített kiválasztási eljárás esetén azt, hogy a támogatási kérelem a felhívás közzétételét követő harmincadik nap előtt nem nyújtható be,
 
-l) a projektmegvalósítással kapcsolatos eljárásrendet,
+l) a támogatási szerződés vagy támogatói okirat tervezetét,
 
-m) a támogatási intézkedésre vonatkozó támogatási kategóriát és az arra vonatkozó szabályokat, és
+m) a támogatási kérelemhez csatolandó mellékletek listáját,
 
-n) a további részletes információk elérhetőségét.
+n) a támogatási intézkedésre vonatkozó támogatási kategóriát és az arra vonatkozó szabályokat, és
+
+o) a projektkiválasztásra vonatkozó eljárásrendet és további részletes információkat tartalmazó dokumentumok elérhetőségét.
+
+(1a)[^137] A terület-, illetve állatlétszám alapú támogatásokra vonatkozó felhívásokban nem kell szerepeltetni az (1) bekezdés h) és n) pontjában meghatározott tartalmi elemeket, az (1) bekezdés d) és i) pontjában meghatározottakat a terület-, illetve állatlétszám alapú intézkedés céljától függően kell alkalmazni.
 
 (2) Kiemelt projekt megvalósítására irányuló felhívásnak az (1) bekezdésben foglaltakon túl – a technikai segítségnyújtás kivételével – tartalmaznia kell
 
@@ -34,10 +38,10 @@ a) a fejlesztések felsorolását,
 
 b) a fejlesztésekhez rendelt indikatív kereteket,
 
-c) az európai uniós források felhasználásáért felelős miniszter által rendelkezésre bocsátott sablon-dokumentumok alapján elkészített projektfejlesztési adatlapot,
-
-d) a projektfejlesztési adatlap elkészítéséhez összeállított útmutatókat,
-
-e) a projektfejlesztéssel kapcsolatos eljárásrendet.
+c)–e)[^138]
 
 (3) Az irányító hatóságnak a felhívást a program céljai alapján, az egységes dokumentum-sablonok, elszámolhatósági szabályok, eljárásrendi megoldások alkalmazásával, az adminisztratív terhek, szabályozási kötöttségek minimalizálásával, a támogatási konstrukciók közötti szinergia és az elhatárolás biztosításával, az abszorpciós célokra, az eredményességi, teljesítmény-kerettel összefüggő szempontokra tekintettel kell kidolgoznia.
+
+[^136]: A 46. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^137]: A 46. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 25. §-a iktatta be.
+[^138]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.

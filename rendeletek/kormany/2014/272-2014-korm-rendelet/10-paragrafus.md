@@ -6,11 +6,11 @@
 
 3. egységes szempontrendszert határoz meg az irányító hatóságok részére az irányítási és kontrollrendszerre vonatkozó leírások elkészítéséhez és aktualizálásához, az elkészült dokumentumokat e szempontrendszer alapján ellenőrzi,
 
-4. ellenőrzést végez a támogatások lebonyolításában részt vevő szervezeteknél és kedvezményezetteknél arra vonatkozóan, hogy az európai uniós fejlesztési forrásokat a fejlesztéspolitikai jogszabályoknak megfelelően, szabályszerűen használják-e fel,
+4.[^45] ellenőrzést végez a támogatások lebonyolításában részt vevő szervezeteknél és kedvezményezetteknél arra vonatkozóan, hogy az európai uniós fejlesztési forrásokat a fejlesztéspolitikai jogszabályoknak megfelelően, szabályszerűen és célszerűen használják-e fel,
 
 5. ellátja a programok végrehajtására vonatkozó ellenőrzések, auditok ellenőrzötti koordinációs feladatait, gondoskodik az ellenőrzések által előírt intézkedések egységes végrehajtásáról, előkészíti az intézkedések végrehajtásához szükséges jogszabály-módosításokat, koordinálja az intézményrendszerben belső ellenőrzési feladatot ellátó szervezeti egységek stratégiai és éves tervezését,
 
-6. ellátja a programok keretében biztosított támogatások felhasználása során lefolytatott közbeszerzési eljárások szabályosságának ellenőrzését, működteti és fejleszti a programok végrehajtását támogató egységes monitoring és információs rendszert (a továbbiakban: monitoring és információs rendszer),
+6.[^46] ellátja a 36. alcím alatti rendelkezések alapján a programok keretében biztosított támogatások felhasználása során lefolytatott közbeszerzési eljárások szabályosságának ellenőrzését, működteti és fejleszti a programok végrehajtását támogató monitoring és információs rendszert,
 
 7. e rendelet hatálya alá tartozó támogatások tekintetében elkövetett csalások ellen intézkedéseket alkalmaz, figyelembe véve az azonosított kockázatokat,
 
@@ -20,7 +20,7 @@
 
 10. elkészíti a negyedéves jelentést,
 
-11. az irányító hatósággal együttműködve nyomon követi a programok szakmai előrehaladását, különös tekintettel az indikátorok teljesülésére, módszertani támogatást nyújt az indikátorok előállításához szükséges adatok beszerzéséhez, előállításához, vizsgálja az indikátorok előrehaladását, és minderről rendszeres jelentést készít az NFK részére a forrásvesztés elkerülése érdekében,
+11.[^47] az irányító hatósággal együttműködve nyomon követi a programok szakmai előrehaladását, különös tekintettel az indikátorok teljesülésére, módszertani támogatást nyújt az indikátorok előállításához szükséges adatok beszerzéséhez, előállításához, vizsgálja az indikátorok előrehaladását, és minderről az adott irányító hatóság által szakmai szempontból véleményezett rendszeres jelentést készít az NFK részére a forrásvesztés elkerülése érdekében,
 
 12. koordinálja az éves végrehajtási jelentéssel, az éves hirdetési menetrenddel, a pénzügyi adatok Európai Bizottság részére történő továbbításával kapcsolatos feladatokat; ütemtervet, közös sablont, módszertant és adatbázist biztosít az irányító hatóságok számára,
 
@@ -30,7 +30,7 @@
 
 15. az irányító hatósággal együttműködve elkészíti az 1303/2013/EU európai parlamenti és tanácsi rendelet 56. cikk (1) bekezdésben említett értékelési tervet a Partnerségi Megállapodás minden programjára vonatkozóan, végrehajtja és – indokolt esetben – aktualizálja az értékelési tervet, lefolytatja az értékelési terven belüli programértékeléseket, valamint módszertani támogatást nyújt az értékelési terven kívüli egyéb értékelések végrehajtásához, koordinálja a tagállami jelentéstételi kötelezettségeket.
 
-(2) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium az (1) bekezdés 8. pontja keretében
+(2)[^48] Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium az (1) bekezdés 7. pontja keretében
 
 1. az irányító hatóságok bevonásával meghatározza a csalás elleni politikát, különösen a csalás megelőzése, annak azonosítása, jelentése, valamint a jogosulatlanul kifizetett összegek és az esetleges késedelmi kamatok visszafizettetése, szankcionálása tekintetében,
 
@@ -47,3 +47,8 @@
 7. gondoskodik a csalás elleni tudatosság növeléséről,
 
 8. együttműködik a csalások hatékony és eredményes megelőzése, felderítése, szankcionálása, valamint a csalástól való elrettentés érdekében az érintett intézményekkel.
+
+[^45]: A 10. § (1) bekezdés 4. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 20. pontja szerint módosított szöveg.
+[^46]: A 10. § (1) bekezdés 6. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 21. pontja szerint módosított szöveg.
+[^47]: A 10. § (1) bekezdés 11. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 22. pontja szerint módosított szöveg.
+[^48]: A 10. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 23. pontja szerint módosított szöveg.

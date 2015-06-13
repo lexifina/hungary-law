@@ -10,11 +10,11 @@ b) jóváhagyja azoknak a programoknak a tartalmát és azok elfogadására irá
 
 c) jóváhagyja az Európai Bizottság számára benyújtandó, az Európai Hálózatfinanszírozási Eszközből finanszírozandó projektjavaslatokat és a nagyprojekt-javaslatokat,
 
-d) jóváhagyja az egymilliárd forintot meghaladó támogatási igényű projektjavaslatokat vagy projekteket, a technikai segítségnyújtás projektjei kivételével,
+d)[^35] a 65. § (2a) bekezdésében meghatározott kivétellel előzetesen jóváhagyja azt a projektjavaslatot, amely támogatását az irányító hatóság egymilliárd forintot meghaladó összegben javasolja megállapítani,
 
-e) elfogadja az Integrált Területi Programokat,
+e)[^36] elfogadja az ITP-ket,
 
-f) jóváhagyja a projektek többlettámogatását a 87. § (1) bekezdés c) pontja szerint,
+f)[^37] előzetesen jóváhagyja a projektek többlettámogatását a 87. § (1) bekezdés c) pontja szerint,
 
 g) kijelöli a közreműködő szervezetet és próbaidőt írhat elő a 35. § szerint,
 
@@ -29,3 +29,7 @@ k) dönt az irányító hatóság, a szakpolitikai felelős, a szakmai támogat�
 l) a feladatai ellátásához szükséges mértékben tájékoztatást, felvilágosítást, adatszolgáltatást kérhet e rendelet hatálya alá tartozó szervezetektől.
 
 (3) A 4. §-ban meghatározott döntések meghozatalára irányuló javaslathoz és a Kormány részére benyújtott fejlesztéspolitikai tárgyú jelentéshez mellékelni kell az NFK állásfoglalását. Ennek az állásfoglalásnak a hiányában a javaslatot vagy a jelentést csak akkor lehet a Kormány elé terjeszteni, ha ahhoz a miniszterelnök vagy az európai uniós források felhasználásáért felelős miniszter hozzájárul.
+
+[^35]: Az 5. § (2) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^36]: Az 5. § (2) bekezdés e) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 13. pontja szerint módosított szöveg.
+[^37]: Az 5. § (2) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 14. pontja szerint módosított szöveg.

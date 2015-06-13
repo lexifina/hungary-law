@@ -12,22 +12,33 @@ e) azt kifogás tárgyában hozott döntés ellen nyújtották be,
 
 f) a kifogást olyan döntés, nyilatkozat, tanúsítvány, jelentés ellen nyújtották be, amely ellen e rendelet szerint kifogás benyújtásának nincs helye,
 
-g) a kifogás kizárólag olyan jogsértés ellen irányul, amely a sérelmezett eljárás megismétlésével nem orvosolható.
+g)[^411] a kifogás kizárólag a döntés olyan elemére irányul, amely által előidézett jogsértés a sérelmezett eljárás megismétlésével nem orvosolható,
 
-(2) Ha érdemi vizsgálat nélküli elutasításnak nincs helye, a kifogást a beérkezésétől számított 30 napon belül kell elbírálni. Az elbírálás határideje egy alkalommal, legfeljebb 30 nappal meghosszabbítható, erről a határidő lejárta előtt a monitoring és információs rendszeren keresztül tájékoztatni kell a kifogás benyújtóját.
+h)[^412] a kifogást tartaléklista megszüntetéséről hozott döntés ellen terjesztették elő, vagy
 
-(3) Az irányító hatóság vagy a közreműködő szervezet a döntése ellen benyújtott kifogás esetén
+i)[^413] a kifogást nem az elektronikus alkalmazáson keresztül terjesztették elő.
 
-a) a kifogás beérkezésétől számított 15 napon belül a kifogásban foglaltaknak részben, vagy egészben helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról, és erről haladéktalanul értesíti a támogatást igénylőt vagy a kedvezményezettet, valamint az irányító hatóság, ha kijelölésre került, a közreműködő szervezetet, vagy
+(2)[^414] Ha érdemi vizsgálat nélküli elutasításnak nincs helye, a kifogást a beérkezésétől számított harminc napon belül kell elbírálni. Az elbírálás határideje egy alkalommal, legfeljebb harminc nappal meghosszabbítható, erről a határidő lejárta előtt a monitoring és információs rendszeren keresztül tájékoztatni kell a kifogás benyújtóját.
 
-b) a kifogást és az abban foglaltakkal kapcsolatos írásbeli szakmai álláspontját az annak alátámasztására szolgáló dokumentációval együtt a kifogás beérkezésétől számított 15 napon belül megküldi az európai uniós források felhasználásáért felelős miniszternek elbírálásra, közreműködő szervezet kijelölése esetén az irányító hatóság útján.
+(3)[^415] Az irányító hatóság, a közreműködő szervezet, a kifizető ügynökség vagy az alapok alapját végrehajtó szervezet a döntése ellen benyújtott kifogást, az abban foglaltakkal kapcsolatos írásbeli szakmai álláspontját és az ügyben keletkezett dokumentációt a kifogás beérkezésétől számított tizenöt napon belül – a közreműködő szervezet és az alapok alapját végrehajtó szervezet az irányító hatóság útján – megküldi az európai uniós források felhasználásáért felelős miniszternek elbírálásra.
 
-(4) Az európai uniós források felhasználásáért felelős miniszter, a közreműködő szervezet vagy a kifizető ügynökség a részére elbírálásra megküldött kifogással kapcsolatban a következő döntéseket hozhatja:
+(3a)[^416] Ha az irányító hatóság, a közreműködő szervezet, a kifizető ügynökség vagy az alapok alapját végrehajtó szervezet a (3) bekezdésben meghatározott határidőn belül megállapítja, hogy a kifogással támadott döntés jogszabálysértő, a döntést saját hatáskörben felülvizsgálja. Ennek során a kifogásban foglaltaknak részben vagy egészben helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról. Az e bekezdés alapján hozott döntésről haladéktalanul értesíteni kell a támogatást igénylőt, a pénzügyi közvetítőt vagy a kedvezményezettet, és ha a döntést az irányító hatóság hozta, a közreműködő szervezetet is. Az e bekezdés alapján hozott döntés ellen ugyanolyan jogorvoslatnak van helye, mint az ellen, amely ellen a kifogást benyújtották.
+
+(4)[^417] Az európai uniós források felhasználásáért felelős miniszter a részére elbírálásra megküldött kifogással kapcsolatban a következő döntéseket hozhatja:
 
 a) a kifogásban foglaltaknak helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról,
 
 b) a kifogást indokolt döntésével elutasítja.
 
-(5) Az európai uniós források felhasználásáért felelős miniszter, a közreműködő szervezet vagy a kifizető ügynökség a kifogás tárgyában hozott döntésről az indokok megjelölésével értesíti a támogatást igénylőt vagy a kedvezményezettet, helyi akciócsoportot, a közreműködő szervezetet, illetve az irányító hatóságot.
+(5)[^418] Az európai uniós források felhasználásáért felelős miniszter a kifogás tárgyában hozott döntésről az indokok megjelölésével értesíti a kifogás benyújtóját, valamint azt a szervet, akinek a döntése ellen a kifogást benyújtották.
 
 (6) A kifogás tárgyában hozott döntés ellen további kifogás előterjesztésének nincs helye.
+
+[^411]: A 153. § (1) bekezdés g) pontja a 144/2015. (VI. 12.) Korm. rendelet 85. § (1) bekezdésével megállapított szöveg.
+[^412]: A 153. § (1) bekezdés h) pontját a 144/2015. (VI. 12.) Korm. rendelet 85. § (1) bekezdése iktatta be.
+[^413]: A 153. § (1) bekezdés i) pontját a 144/2015. (VI. 12.) Korm. rendelet 85. § (1) bekezdése iktatta be.
+[^414]: A 153. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 179. pontja szerint módosított szöveg.
+[^415]: A 153. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 85. § (2) bekezdésével megállapított szöveg.
+[^416]: A 153. § (3a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 85. § (2) bekezdése iktatta be.
+[^417]: A 153. § (4) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 101. § 32. pontja szerint módosított szöveg.
+[^418]: A 153. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 85. § (3) bekezdésével megállapított szöveg.

@@ -1,3 +1,5 @@
+## 157. §[^427]
+
 ## 158. § A szabálytalanság-felelős gondoskodik
 
 a) a szabálytalanságok nyilvántartásáról,
@@ -13,3 +15,5 @@ e) az igazoló hatósággal történő együttműködésről,
 f) Miniszterelnökséggel történő együttműködésről és
 
 g) döntési javaslatot terjeszt a szervezet vezetője elé a szabálytalansági eljárás megindításával és lezárásával kapcsolatban.
+
+[^427]: A 157. §-t a 144/2015. (VI. 12.) Korm. rendelet 101. § 35. pontja hatályon kívül helyezte.

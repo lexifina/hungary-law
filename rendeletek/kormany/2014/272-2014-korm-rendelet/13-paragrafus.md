@@ -4,9 +4,9 @@ a) a Vidékfejlesztési Program tekintetében az irányító hatósággal együt
 
 b) az operatív programok esetében az irányító hatósággal együttműködve gondoskodik az operatív programok megvalósítására vonatkozó egységes kommunikációs stratégia kidolgozásáról, módosításáról, az 1303/2013/EU európai parlamenti és tanácsi rendelet 115–117. cikke szerinti tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítéséről,
 
-c) ellátja a 223/2014/EU rendelet 19. cikkében foglaltakat,
+c)[^50] ellátja a 223/2014/EU európai parlamenti és tanácsi rendelet 19. cikkében foglaltakat,
 
-d) az irányító hatósággal, EMVA, ETHA esetén a kifizető ügynökséggel együttműködve egységes, minden programot lefedő általános ügyfélszolgálatot alakít ki és működtet.
+d)[^51] az irányító hatósággal, EMVA esetén a kifizető ügynökséggel együttműködve egységes, minden programot lefedő általános ügyfélszolgálatot alakít ki és működtet.
 
 (2) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium az (1) bekezdés b) pontja keretében:
 
@@ -29,3 +29,6 @@ d) az irányító hatósággal, EMVA, ETHA esetén a kifizető ügynökséggel e
 9. a nemzeti jogszabályokkal és gyakorlattal összhangban, adott esetben bevonja a tájékoztatási és kommunikációs intézkedések végrehajtásába az 1303/2013/EU európai parlamenti és tanácsi rendelet 5. cikkben említett partnereket, az európai tájékoztatási központokat, valamint a Bizottságnak a tagállamban működő képviseleti irodáit és az Európai Parlamentnek a tagállamban működő tájékoztatási irodáit, oktatási és kutatási intézményeket.
 
 (3) Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium (2) bekezdés 6. pontjában meghatározott feladata keretében összehangolja a tájékoztatási és kommunikációs tevékenységeket. A tájékoztatási és kommunikációs tisztviselő felelős az alap kommunikátorai nemzeti hálózatának koordinálásáért, és a tagállami szinten hozott kommunikációs intézkedések áttekintéséért.
+
+[^50]: A 13. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 24. pontja szerint módosított szöveg.
+[^51]: A 13. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 25. pontja szerint módosított szöveg.

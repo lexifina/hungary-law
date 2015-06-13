@@ -1,9 +1,3 @@
-## XVI. Fejezet
-
-## AZ EURÓPAI UNIÓS TÁMOGATÁSBÓL FINANSZÍROZOTT KÖZBESZERZÉSI ELJÁRÁSOK ELLENŐRZÉSE
-
-## 34. Általános szabályok
-
 95. § (1) Az ebben az alcímben meghatározott kötelezettségeket a támogatást igénylő, illetve a kedvezményezett teljesíti, és azok teljesítését biztosítja akkor is, ha a Kbt. 21. § (2)–(3) bekezdése alapján nem ő minősül ajánlatkérőnek.
 
 (2) Az ebben az alcímben meghatározott kötelezettségeket a támogatást igénylő, illetve a kedvezményezett akkor is teljesíti, ha a támogatásból megvalósuló közbeszerzést olyan szervezet folytatja le, amellyel a támogatást igénylő, illetve a kedvezményezett a Kbt. 9. § (1) bekezdés k) pontja alapján kötött szerződést.

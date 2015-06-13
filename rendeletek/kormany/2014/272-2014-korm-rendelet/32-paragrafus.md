@@ -1,9 +1,15 @@
-32. § (1) A horizontális célok és követelmények teljesülésének nyomonkövetése és érvényesítése érdekében a Partnerségi Megállapodás monitoring bizottsága mellett horizontális monitoring bizottság működik.
+32. § (1)[^114] A Partnerségi Megállapodás monitoring bizottsága a horizontális célok és követelmények teljesülésének nyomon követése és érvényesítése érdekében évente legalább egyszer külön ülés keretében tárgyalja a horizontális elvek és politikák programszintű végrehajtásának eredményességét.
 
-(2) A horizontális monitoring bizottság tagsága megegyezik a Partnerségi Megállapodás monitoring bizottsága tagságával.
+(2)[^115]
 
-(3) A horizontális monitoring bizottság feladata az anti-diszkrimináció, a nemek közötti egyenlőség, a fogyatékkal élők, továbbá a fenntartható fejlődés és a területi kohézió szempontjainak nyomon követése és érvényesítése a végrehajtás során.
+(3)[^116] A Partnerségi Megállapodás monitoring bizottság feladata a horizontális elvek és politikák tekintetében az egyenlő bánásmód, a nemek közötti egyenlőség, a fogyatékkal élők, továbbá a környezetvédelem, klíma, energia, fenntartható fejlődés és a területi kohézió szempontjainak nyomon követése és érvényesítése a végrehajtás során. A Partnerségi Megállapodás monitoring bizottság hagyja jóvá a végrehajtás során érvényesítendő horizontális követelmények részletes szabályait.
 
-(4) A horizontális monitoring bizottság évente legalább egyszer ülésezik. Működésének részletes szabályait az európai uniós források felhasználásáért felelős miniszter által az uniós és a hazai intézményi, jogi és pénzügyi keretekkel összhangban meghatározott elvek alapján megalkotott és saját maga által elfogadott ügyrendjében állapítja meg.
+(4)[^117] A Partnerségi Megállapodás monitoring bizottsága feladatának teljesítése érdekében beszámoló benyújtását kérheti az irányító hatóságoktól és a szakpolitikai felelősöktől.
 
-(5) Az horizontális szempontok programszintű nyomonkövetésére és érvényesítésére az operatív program monitoring bizottsága horizontális albizottságot hoz létre e rendelet 31. §-ával összhangban.
+(5)[^118] A horizontális elvek és politikák érvényesítéséhez kapcsolódó feladatok ellátásában a Partnerségi Megállapodás monitoring bizottságát horizontális munkacsoport támogatja, amelynek munkáját az európai uniós források felhasználásáért felelős miniszter által felügyelt szervezeti egység irányítja. A munkacsoport tagjait a szakpolitikai felelősök és az irányító hatóságok delegálják, tevékenységében meghívott szakértők és nem kormányzati szervezetek képviselői tanácskozási joggal vesznek részt.
+
+[^114]: A 32. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^115]: A 32. § (2) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 7. pontja hatályon kívül helyezte.
+[^116]: A 32. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^117]: A 32. § (4) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^118]: A 32. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
