@@ -18,8 +18,8 @@ d) uniós jogi aktusban meghatározott egyéb jogkövetkezmény.
 
 (4) A jogkövetkezményt úgy kell megállapítani, hogy az igazodjék a szabálytalanság súlyához.
 
-(5)[^436] A pénzügyi korrekcióval járó jogkövetkezményt minden esetben egyedileg, az egyes ügyiratok alapján kell megállapítani, és a korrekció összegének meg kell egyezni a nemzeti költségvetésre, illetve az alapokra tévesen terhelt költségek összegével, figyelemmel az Áht. 53. § (2) bekezdésében meghatározottakra is. A pénzügyi korrekció célja egy olyan helyzet visszaállítása, ahol az alapok általi társfinanszírozásra benyújtott költségek 100%-a összhangban van a vonatkozó európai uniós és nemzeti szabályokkal.
+(5)[^437] A pénzügyi korrekcióval járó jogkövetkezményt minden esetben egyedileg, az egyes ügyiratok alapján kell megállapítani, és a korrekció összegének meg kell egyezni a nemzeti költségvetésre, illetve az alapokra tévesen terhelt költségek összegével, figyelemmel az Áht. 53. § (2) bekezdésében meghatározottakra is. A pénzügyi korrekció célja egy olyan helyzet visszaállítása, ahol az alapok általi társfinanszírozásra benyújtott költségek 100%-a összhangban van a vonatkozó európai uniós és nemzeti szabályokkal.
 
 (6) Ha nem lehetséges egyedi módon számszerűsíteni a pénzügyi korrekció mértékét, vagy adott esetben aránytalan lenne a kérdéses kiadás egészének visszavonása, vagy az félrevezető eredményt ad, átalányon alapuló korrekciót kell alkalmazni. Az átalányon alapuló korrekció mértékét az egyedi szabálysértés súlyosságának és a szabálytalanság pénzügyi következményeinek függvényében kell meghatározni.
 
-[^436]: A 90. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 38. pontja szerint módosított szöveg.
+[^437]: A 90. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 38. pontja szerint módosított szöveg.
