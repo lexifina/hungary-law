@@ -160,7 +160,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 5,8670 | 1,8268 | 3,9933 | 11,6871 |
+| 3. | 5,8670 | 1,8268 | 6,1433 | 13,8371 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -172,7 +172,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 44,1263 | 1,7869 | 2,9600 | 3,4586 | 3,4188 | 55,7506 |
+| 3. | 44,1263 | 1,7869 | 2,9600 | 3,4586 | 5,5688 | 57,9006 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -184,13 +184,13 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 3.1.1. | Közúti elérhetőség javítása | 3,9740 | 1,4700 | 3,0697 | A konstrukció célja a négy és öt számjegyű, településeket összekötő, országos mellékúthálózat minősége fejlesztésén keresztül a kistelepüléseken élők és a hátrányos helyzetű társadalmi csoportok közszolgáltatásokhoz való hozzáférésének javítása, valamint a közlekedés okozta környezeti károk csökkentése. | nemzeti fejlesztési miniszter |  |
+| 3. | 3.1.1. | Közúti elérhetőség javítása | 3,9740 | 1,4700 | 5,2197 | A konstrukció célja a négy és öt számjegyű, településeket összekötő, országos mellékúthálózat minősége fejlesztésén keresztül a kistelepüléseken élők és a hátrányos helyzetű társadalmi csoportok közszolgáltatásokhoz való hozzáférésének javítása, valamint a közlekedés okozta környezeti károk csökkentése. | nemzeti fejlesztési miniszter |  |
 
 | 4. | 3.1.2. | Kerékpárforgalmi hálózat fejlesztése | 1,8930 | 0,3568 | 0,9236 | A konstrukció célja olyan komplex projektek támogatása, amelyek eredményeként egy teljes település vagy egy szerves, funkcionális egységnek tekinthető településrész, illetve kettő vagy több település közötti távolság válik biztonságosan, kényelmesen, közvetlenül elérhetővé és kerékpározhatóvá. | nemzeti fejlesztési miniszter |  |
 
 | 5. | 3.2.1. | Közösségi közlekedés fejlesztése | 0,0000 | 0,0000 | 0,0000 | A konstrukció célja térségi alapú infrastrukturális fejlesztések megvalósítása a közösségi közlekedés alapfeltétel-rendszerének biztosítása, fejlesztése, ezáltal az országos, regionális, elővárosi, helyi és városi közlekedés gyorsabbá, biztonságosabbá és színvonalasabbá tétele érdekében. A közlekedésbiztonsági, forgalomtechnikai, irányítási, utas-tájékoztatási, valamint a szolgáltatási színvonal emelését szolgáló ellenőrzési rendszerek fejlesztése támogatásával a konstrukció kiemelt célja a jelenleg közösségi közlekedést választó utasok számának megtartása (esetenként csökkenésének fékezése), a negatív tendencia megfordítása, és a távlati utasszám-növekedés elősegítése. | nemzeti fejlesztési miniszter |  |
 
-| 6. | 3. prioritás összesen | 5,8670 | 1,8268 | 3,9933 |  |  |  |
+| 6. | 3. prioritás összesen | 5,8670 | 1,8268 | 6,1433 |  |  |  |
 
 4. A 4. prioritás: Humáninfrastruktúra fejlesztés
 
@@ -293,4 +293,4 @@
 | 7. | 5. prioritás összesen | 4,4060 | 3,4546 | 3,1041 |  |  |  |
 
 [^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.1–13.16. alpontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.1–13.16. alpontja, az 1393/2015. (VI. 12.) Korm. határozat 9. pont 9.1–9.6. alpontja szerint módosított szöveg.

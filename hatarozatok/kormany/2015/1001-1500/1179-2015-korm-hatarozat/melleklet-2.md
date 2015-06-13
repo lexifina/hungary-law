@@ -62,7 +62,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 1,3600 | 21,7904 | 7,9537 | 31,1041 |
+| 3. | 1,3600 | 21,7904 | 8,3601 | 31,5105 |
 
 | 4. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: legfeljebb 10 % |
 
@@ -74,7 +74,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 20,7800 | 0,4000 | 8,9842 | 21,9400 | 0,8725 | 52,9767 |
+| 3. | 20,7800 | 0,4000 | 8,9842 | 21,9400 | 1,2789 | 53,3831 |
 
 2.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -86,13 +86,13 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 2.1.1. | Komplex turisztikai termékcsomagok kialakítása | 1,0000 | 17,0400 | 7,3453 | A konstrukció célja a turisztikai vonzerők, illetve attrakciók létrehozásán, meglévők fejlesztésén, valamint turisztikai szolgáltatások kialakításán és fejlesztésén keresztül a hazai turizmusszektor versenyképességének erősítése, a turizmusból származó jövedelmek növelése és munkahelyek teremtése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
+| 3. | 2.1.1. | Komplex turisztikai termékcsomagok kialakítása | 1,0000 | 17,0400 | 7,7517 | A konstrukció célja a turisztikai vonzerők, illetve attrakciók létrehozásán, meglévők fejlesztésén, valamint turisztikai szolgáltatások kialakításán és fejlesztésén keresztül a hazai turizmusszektor versenyképességének erősítése, a turizmusból származó jövedelmek növelése és munkahelyek teremtése. | nemzetgazdasági miniszter | emberi erőforrások minisztere |
 
 | 4. | 2.1.2. | Szálláshelyek és turisztikai szolgáltatások fejlesztése | 0,0000 | 4,0822 | 0,6084 | A konstrukció célja az üzleti célú szálláshelyek fejlesztésén keresztül a szálláshelyek szolgáltatási színvonalának emelése, kapacitáskihasználtságuk javítása, a szálláshely működéséből származó árbevételek növelése, ezáltal a jövedelemtermelő képesség növelése. | nemzetgazdasági miniszter |  |
 
 | 5. | 2.1.3. | Turizmusban érintett szereplők együttműködésének ösztönzése | 0,3600 | 0,6682 | 0,0000 | A konstrukció célja a helyi és térségi turisztikai desztináció menedzsment szervezetek fejlesztése, ezen keresztül a turizmus versenyképességének növelése. | nemzetgazdasági miniszter |  |
 
-| 6. | 2. prioritás összesen | 1,3600 | 21,7904 | 7,9537 |  |  |  |
+| 6. | 2. prioritás összesen | 1,3600 | 21,7904 | 8,3601 |  |  |  |
 
 3. A 3. prioritás: Humán közszolgáltatások fejlesztése
 
@@ -120,7 +120,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 32,0900 | 0,5000 | 5,9800 | 4,1400 | 5,2597 | 47,9697 |
+| 3. | 32,0900 | 0,5000 | 5,9800 | 4,1400 | 5,0565 | 47,7665 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -168,7 +168,7 @@
 
 | 2. | 2007-2010. | 2011. | 2012. | 2013. | 2014-2015. | Összesen |
 
-| 3. | 52,8965 | 0,0000 | 0,0000 | 1,5870 | 0,3071 | 54,7906 |
+| 3. | 52,8965 | 0,0000 | 0,0000 | 1,5870 | 0,1039 | 54,5874 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -238,4 +238,4 @@
 
 | 8. | 5. prioritás összesen | 21,4871 | 7,1563 | 1,0441 |  |  |  |
 
-[^3]: A 2. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.17–13.30. alpontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1297/2015. (V. 7.) Korm. határozat 13. pont 13.17–13.30. alpontja, az 1393/2015. (VI. 12.) Korm. határozat 9. pont 9.7–9.16. alpontja szerint módosított szöveg.
