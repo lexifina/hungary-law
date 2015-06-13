@@ -40,7 +40,7 @@ kell érteni.
 
 (6) Költségvetési szerv, helyi önkormányzat, nemzetiségi önkormányzat, egyházi jogi személy, közalapítvány, illetve az állam 100%-os tulajdonában álló gazdálkodó szervezet támogatási igénye esetén – ideértve azt az esetet is, ha a támogató a gazdálkodó szervezet felett alapítói, tulajdonosi (tagsági, részvényesi) jogokat gyakorol – nem kell csatolni a (2) és (3) bekezdés szerinti olyan nyilatkozatokat, dokumentumokat, illetve nem kell a támogatási szerződésben megtenni azokat a nyilatkozatokat, amelyek olyan tények fennállását tanúsítják, amelyekről a támogatónak egyébként hivatalos tudomása van.
 
-(6a)[^186] Ha valamely hatósági engedély a támogatott tevékenység egyes elemeinek megvalósítását követően szerezhető be, a (2) bekezdés h) pontja alapján csak a támogatott tevékenység megkezdéséhez szükséges hatósági engedélyek meglétéről kell nyilatkozni, a további hatósági engedélyek meglétét a támogató a támogatott tevékenység megvalósítására vonatkozó beszámoló keretében ellenőrzi.
+(6a)[^187] Ha valamely hatósági engedély a támogatott tevékenység egyes elemeinek megvalósítását követően szerezhető be, a (2) bekezdés h) pontja alapján csak a támogatott tevékenység megkezdéséhez szükséges hatósági engedélyek meglétéről kell nyilatkozni, a további hatósági engedélyek meglétét a támogató a támogatott tevékenység megvalósítására vonatkozó beszámoló keretében ellenőrzi.
 
 (7) Külföldi kedvezményezett esetén – ha jogszabály másként nem rendelkezik – a (2) bekezdés d) és h) pontja a magyarországi munkaügyi kapcsolatok és forgalmi adó tekintetében alkalmazandóak, a (2) bekezdés b) pontjában meghatározott megszüntetésre irányuló eljárás a kedvezményezett személyes jogának szabályai alapján értelmezendő.
 
@@ -48,4 +48,4 @@ kell érteni.
 
 (9) A támogató nem írhatja elő tulajdoni lap másolatának a támogatási igényhez történő csatolását. Szükség esetén a támogatási igény elbírálásához elektronikus tulajdoni lap másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a támogatási igény benyújtójának kell viselnie.
 
-[^186]: Az Ávr. 75. § (6a) bekezdését a 82/2015. (III. 31.) Korm. rendelet 2. §-a iktatta be.
+[^187]: Az Ávr. 75. § (6a) bekezdését a 82/2015. (III. 31.) Korm. rendelet 2. §-a iktatta be.

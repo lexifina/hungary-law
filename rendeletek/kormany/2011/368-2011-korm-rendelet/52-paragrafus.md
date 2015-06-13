@@ -12,7 +12,7 @@ c) a helyi önkormányzat, nemzetiségi önkormányzat, társulás, illetve tér
 
 (2)[^131] Az (1) bekezdés alkalmazásában
 
-a) – ha a fővárosi és megyei kormányhivatal vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala törvény alapján elkülönített állami pénzalap vagy társadalombiztosítás pénzügyi alapja előirányzatai meghatározott része felett rendelkezési joggal bír – a fővárosi és megyei kormányhivatal vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szervezeti és működési szabályzata alapján e feladatért felelős szervezeti egységének vezetőjét,
+a)[^132] – ha a fővárosi és megyei kormányhivatal vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala törvény alapján elkülönített állami pénzalap vagy társadalombiztosítás pénzügyi alapja előirányzatai meghatározott része felett rendelkezési joggal bír – a fővárosi és megyei kormányhivatal vezetőjét vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának vezetőjét,
 
 b) az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdés b) és c) pontjában és 10. §-ában meghatározott szervek vezetőjét, és
 
@@ -20,9 +20,9 @@ c) a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelölés
 
 a kötelezettséget vállaló szerv vezetőjének kell tekinteni a számukra biztosított előirányzatok terhére vállalt kötelezettségek tekintetében.
 
-(3)[^132] A kötelezettségvállalásra a (2) bekezdés a) pontjában meghatározott személy a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, illetve a járási (fővárosi kerületi) hivatalban a járási hivatalvezető jóváhagyásával jogosult.
+(3)[^133]
 
-(4)[^133] (4) A kötelezettséget vállaló szerv vezetője kötelezettségvállalási joggal ruházhatja fel
+(4)[^134] (4) A kötelezettséget vállaló szerv vezetője kötelezettségvállalási joggal ruházhatja fel
 
 a) a miniszterelnöki biztost,
 
@@ -32,15 +32,15 @@ c) – a kormányzati tevékenység összehangolásáért felelős miniszter el�
 
 d) – ha a testületet létrehozó normatív kormányhatározat ekként rendelkezik – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján létrehozott testület vezetőjét.
 
-(5)[^134] Az Országgyűlés által megválasztott személyek a tisztségük ellátásával összefüggő feladatok tekintetében, a független országgyűlési képviselők az Országgyűlésről szóló törvény alapján számukra megállapított keret tekintetében jogosultak kötelezettségvállalásra. Törvény alapján az országgyűlési képviselőcsoportok részére megállapított keret tekintetében az országgyűlési képviselőcsoportok vezetőit a kötelezettséget vállaló szerv vezetőjének kell tekinteni.
+(5)[^135] Az Országgyűlés által megválasztott személyek a tisztségük ellátásával összefüggő feladatok tekintetében, a független országgyűlési képviselők az Országgyűlésről szóló törvény alapján számukra megállapított keret tekintetében jogosultak kötelezettségvállalásra. Törvény alapján az országgyűlési képviselőcsoportok részére megállapított keret tekintetében az országgyűlési képviselőcsoportok vezetőit a kötelezettséget vállaló szerv vezetőjének kell tekinteni.
 
 (6) A helyi önkormányzat kiadási előirányzatai terhére a polgármester vagy az általa írásban felhatalmazott személy vállalhat kötelezettséget.
 
-(6a)[^135] Ha a helyi önkormányzatnál nincs a (6) bekezdés alapján kötelezettségvállalásra jogosult személy vagy a kötelezettségvállalásra jogosult személy feladata ellátásában akadályoztatva van, a képviselő-testület egyedi határozatában az önkormányzati hivatal alkalmazásában álló személyt jelölhet ki a helyi önkormányzat kiadási előirányzatai terhére vonatkozó kötelezettségvállalás gyakorlására. A képviselő-testület általi kijelölés megszűnik, ha a kötelezettségvállalásra más személy válik jogosulttá vagy az arra jogosult személy akadályoztatása megszűnik.
+(6a)[^136] Ha a helyi önkormányzatnál nincs a (6) bekezdés alapján kötelezettségvállalásra jogosult személy vagy a kötelezettségvállalásra jogosult személy feladata ellátásában akadályoztatva van, a képviselő-testület egyedi határozatában az önkormányzati hivatal alkalmazásában álló személyt jelölhet ki a helyi önkormányzat kiadási előirányzatai terhére vonatkozó kötelezettségvállalás gyakorlására. A képviselő-testület általi kijelölés megszűnik, ha a kötelezettségvállalásra más személy válik jogosulttá vagy az arra jogosult személy akadályoztatása megszűnik.
 
 (7) A nemzetiségi önkormányzat kiadási előirányzatai terhére a nemzetiségi önkormányzat elnöke vagy az általa írásban felhatalmazott nemzetiségi önkormányzati képviselő jogosult kötelezettségvállalásra.
 
-(7a)[^136] Ha a nemzetiségi önkormányzatnál nincs a (7) bekezdés alapján kötelezettségvállalásra jogosult személy vagy a kötelezettségvállalásra jogosult személy feladata ellátásában akadályoztatva van,
+(7a)[^137] Ha a nemzetiségi önkormányzatnál nincs a (7) bekezdés alapján kötelezettségvállalásra jogosult személy vagy a kötelezettségvállalásra jogosult személy feladata ellátásában akadályoztatva van,
 
 a) települési, területi nemzetiségi önkormányzat esetében a képviselő-testület egyedi határozatában, az Áht. 6/C. § (2) bekezdés b) pontja szerinti önkormányzati hivatal,
 
@@ -48,13 +48,14 @@ b) országos nemzetiségi önkormányzat esetében a közgyűlés egyedi határo
 
 alkalmazásában álló személyt jelölhet ki a nemzetiségi önkormányzat kiadási előirányzatai terhére vonatkozó kötelezettségvállalás gyakorlására. A képviselő-testület vagy a közgyűlés általi kijelölés megszűnik, ha a kötelezettségvállalásra más személy válik jogosulttá vagy az arra jogosult személy akadályoztatása megszűnik.
 
-(8)[^137] A társulás, térségi fejlesztési tanács kiadási előirányzatai terhére a társulási tanács, térségi fejlesztési tanács elnöke vagy a társulási tanács, térségi fejlesztési tanács általa írásban, vagy az elnöki tisztség betöltésének hiánya esetén a társulási tanács, térségi fejlesztési tanács által határozatban felhatalmazott valamely tagja vállalhat kötelezettséget.
+(8)[^138] A társulás, térségi fejlesztési tanács kiadási előirányzatai terhére a társulási tanács, térségi fejlesztési tanács elnöke vagy a társulási tanács, térségi fejlesztési tanács általa írásban, vagy az elnöki tisztség betöltésének hiánya esetén a társulási tanács, térségi fejlesztési tanács által határozatban felhatalmazott valamely tagja vállalhat kötelezettséget.
 
 [^130]: Az Ávr. 52. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (3) bekezdésével megállapított szöveg.
 [^131]: Az Ávr. 52. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (3) bekezdésével megállapított szöveg.
-[^132]: Az Ávr. 52. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 188. § (8) bekezdése hatályon kívül helyezte, újonnan a 117/2015. (V. 7.) Korm. rendelet 1. §-a iktatta be.
-[^133]: Az Ávr. 52. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^134]: Az Ávr. 52. § (5) bekezdése a 20/2015. (II. 17.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^135]: Az Ávr. 52. § (6a) bekezdését a 14/2013. (I. 25.) Korm. rendelet 1. §-a iktatta be, szövege a 74/2013. (III. 11.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^136]: Az Ávr. 52. § (7a) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^137]: Az Ávr. 52. § (8) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^132]: Az Ávr. 52. § (2) bekezdés a) pontja a 145/2015. (VI. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^133]: Az Ávr. 52. § (3) bekezdését a 145/2015. (VI. 12.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^134]: Az Ávr. 52. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^135]: Az Ávr. 52. § (5) bekezdése a 20/2015. (II. 17.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^136]: Az Ávr. 52. § (6a) bekezdését a 14/2013. (I. 25.) Korm. rendelet 1. §-a iktatta be, szövege a 74/2013. (III. 11.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^137]: Az Ávr. 52. § (7a) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^138]: Az Ávr. 52. § (8) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.

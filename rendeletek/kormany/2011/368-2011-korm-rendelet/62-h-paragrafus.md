@@ -1,4 +1,4 @@
-62/H. §[^180] (1) A foglalkoztató az éves adóelszámoláshoz szükséges foglalkoztatotti nyilatkozatokat, igazolásokat papír alapon, eredeti példányban küldi meg a Kincstárnak.
+62/H. §[^181] (1) A foglalkoztató az éves adóelszámoláshoz szükséges foglalkoztatotti nyilatkozatokat, igazolásokat papír alapon, eredeti példányban küldi meg a Kincstárnak.
 
 (2) A Kincstár a személyi jövedelemadó megállapításával és elszámolásával kapcsolatos feladatok ellátása keretében
 
@@ -10,4 +10,4 @@ c) gondoskodik az adókülönbözet levonásáról, visszatérítéséről.
 
 (3) A Kincstár által elkészített jövedelemigazolást, járulékigazolást és az (1) bekezdés szerinti nyilatkozat alapján elkészített elszámolást a foglalkoztató átadja a foglalkoztatottnak. A jövedelemigazolást, járulékigazolást a helyi önkormányzat és a társulás esetében a Kincstár írja alá.
 
-[^180]: Az Ávr. 62/H. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^181]: Az Ávr. 62/H. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.

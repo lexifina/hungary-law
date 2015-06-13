@@ -1,4 +1,4 @@
-115/F. §[^201] (1) A Kincstár a kincstári ellenőrzésről jelentést (a továbbiakban: ellenőrzési jelentés) készít.
+115/F. §[^202] (1) A Kincstár a kincstári ellenőrzésről jelentést (a továbbiakban: ellenőrzési jelentés) készít.
 
 (2) Az ellenőrzési jelentés tartalmazza
 
@@ -24,4 +24,4 @@ f) az ellenőrzési jelentés elkészítésének dátumát és a Kincstár elnö
 
 (7) A Kincstár a lezárt ellenőrzési jelentést a kincstári ellenőrzés befejezésétől számított három munkanapon belül megküldi az ellenőrzött szerv vezetőjének, az államháztartásért felelős miniszternek és az Állami Számvevőszéknek.
 
-[^201]: Az Ávr. 115/F. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
+[^202]: Az Ávr. 115/F. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.

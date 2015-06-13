@@ -1,6 +1,6 @@
 ## [Az Áht. 39. §-ához]
 
-61. § (1)[^166] Költségvetési főfelügyelői, felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett gazdasági szakképzettséggel és a kijelölés évét megelőző tíz évben legalább három éves költségvetési gyakorlattal rendelkezik, továbbá írásban nyilatkozik arról, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot.
+61. § (1)[^167] Költségvetési főfelügyelői, felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett gazdasági szakképzettséggel és a kijelölés évét megelőző tíz évben legalább három éves költségvetési gyakorlattal rendelkezik, továbbá írásban nyilatkozik arról, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot.
 
 (2) Nem jelölhető ki költségvetési főfelügyelőnek, felügyelőnek az a természetes személy, aki
 
@@ -26,11 +26,11 @@ a) jogosult a kijelölt szerv tekintetében érvényes titoktartási követelmé
 
 b) véleményezi a tervezéssel, gazdálkodással, ellenőrzéssel, beszámolással kapcsolatos belső szabályzatokat,
 
-c)[^167] a kötelezettségvállalásra irányuló eljárásokat előzetesen véleményezi azzal, hogy a nagy összegű kötelezettségvállalások tekintetében kifogással élhet, különösen a költségvetés-politikai céloknak való megfelelőségre, a szükségszerűségre, időszerűségre, forrásszükségletre, a fedezet meglétére, és a kifizetés ütemezésére tekintettel,
+c)[^168] a kötelezettségvállalásra irányuló eljárásokat előzetesen véleményezi azzal, hogy a nagy összegű kötelezettségvállalások tekintetében kifogással élhet, különösen a költségvetés-politikai céloknak való megfelelőségre, a szükségszerűségre, időszerűségre, forrásszükségletre, a fedezet meglétére, és a kifizetés ütemezésére tekintettel,
 
-d)[^168] a tervezéssel, gazdálkodással, beszámolással összefüggő intézkedéseket előzetesen véleményezi, és
+d)[^169] a tervezéssel, gazdálkodással, beszámolással összefüggő intézkedéseket előzetesen véleményezi, és
 
-e)[^169] szükség esetén javaslatot tesz, ajánlást fogalmaz meg a belső információáramlások, gazdálkodási folyamatok, érdekeltségi rendszerek átalakítására, továbbá a szakmai szabályozással összefüggésben, amelyre a költségvetési szerv vezetője a javaslat, ajánlás kézhezvételétől számított harminc napon belül írásban véleményt nyilvánít.
+e)[^170] szükség esetén javaslatot tesz, ajánlást fogalmaz meg a belső információáramlások, gazdálkodási folyamatok, érdekeltségi rendszerek átalakítására, továbbá a szakmai szabályozással összefüggésben, amelyre a költségvetési szerv vezetője a javaslat, ajánlás kézhezvételétől számított harminc napon belül írásban véleményt nyilvánít.
 
 (5) A (4) bekezdés b) pontja szerinti szabályzatoknak a 13. § (2) és (3) bekezdésében nevesített szabályzatok minősülnek.
 
@@ -64,12 +64,12 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 
 (13) A költségvetési főfelügyelőt, felügyelőt akadályoztatása esetén az államháztartásért felelős miniszter által kijelölt költségvetési főfelügyelő, felügyelő teljes jogkörrel helyettesíti.
 
-(14)[^170]
+(14)[^171]
 
 (15) A költségvetési főfelügyelő, felügyelő működésével összefüggő kiadásokat az államháztartásért felelős miniszter irányítása alatt álló fejezetben kell biztosítani.
 
-[^166]: Az Ávr. 61. § (1) bekezdése a 159/2014. (VI. 30.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
-[^167]: Az Ávr. 61. § (4) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^168]: Az Ávr. 61. § (4) bekezdés d) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 36. pontja szerint módosított szöveg.
-[^169]: Az Ávr. 61. § (4) bekezdés e) pontját a 397/2014. (XII. 31.) Korm. rendelet 23. §-a iktatta be.
-[^170]: Az Ávr. 61. § (14) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^167]: Az Ávr. 61. § (1) bekezdése a 159/2014. (VI. 30.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
+[^168]: Az Ávr. 61. § (4) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^169]: Az Ávr. 61. § (4) bekezdés d) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 36. pontja szerint módosított szöveg.
+[^170]: Az Ávr. 61. § (4) bekezdés e) pontját a 397/2014. (XII. 31.) Korm. rendelet 23. §-a iktatta be.
+[^171]: Az Ávr. 61. § (14) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte.

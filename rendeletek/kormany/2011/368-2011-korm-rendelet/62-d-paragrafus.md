@@ -1,4 +1,4 @@
-62/D. §[^176] (1) A Kincstár a személyi juttatások kifizetése teljesítéséhez
+62/D. §[^177] (1) A Kincstár a személyi juttatások kifizetése teljesítéséhez
 
 a) az államháztartási számviteli kormányrendelet szerinti elszámoláshoz szükséges adattartalmú rovatonként legyűjtött fizetési jegyzék összesítőt és levonási összesítőt,
 
@@ -26,4 +26,4 @@ d) a fizetési jegyzék egy példányát átadja a foglalkoztatottnak, kivéve, 
 
 (6) A Kincstár a havi és az egyidejűleg megküldött önrevízióra vonatkozó adóbevallásokból az illetményszámfejtő programmal előállított adatszolgáltatások alapján a személyi juttatásokat terhelő és az azokkal összefüggésben felmerült közterhek befizetését az államháztartás központi alrendszerébe tartozó foglalkoztató fizetési számlájának megterhelésével, a helyi önkormányzat és a társulás a nettó finanszírozás keretében teljesíti.
 
-[^176]: Az Ávr. 62/D. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
+[^177]: Az Ávr. 62/D. §-t a 397/2014. (XII. 31.) Korm. rendelet 24. §-a iktatta be.
