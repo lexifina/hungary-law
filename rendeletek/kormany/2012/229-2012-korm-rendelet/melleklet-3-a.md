@@ -1,37 +1,27 @@
-|  | Ebr azonosító |  |  |  |  |  |
+| Ebr azonosító |  |
 
-|  | Önkormányzat |  |  |  |  |  |
+| Önkormányzat |  |
 
-|  | A települési önkormányzat adósságállományából eredő fizetési kötelezettsége a 2012-2013. években |  |
+## JEGYZŐKÖNYVI KIVONAT
 
-|  |  |  |  |  | ezer Ft |  |
+## .............. Képviselő-testület (Közgyűlés)
 
-|  | No. | Megnevezés | Adósságállomány törlesztő részlete 2012. évben | Adósságállomány törlesztő részlete 2013. évben | Összesen (1.+2.) |  |
+## …. év .. hó ….....-i ülésének jegyzőkönyvéből
 
-|  | 1. | 2. | 3 |  |
+## ....../...... (….) sz. határozata
 
-|  | 1. | Hosszú lejáratra forintban és devizában kapott kölcsönök | 44. űrlap 1.+2. sorok: 3. oszlop | 44. űrlap 1.+2. sorok: 4. oszlop |  |  |
+## A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 74. § (6) bekezdése alapján meghozott döntésről
 
-|  | 2. | Tartozások fejlesztési célú kötvénykibocsátásból | 44. űrlap 6.+7. sorok: 3. oszlop | 44. űrlap 6.+7. sorok: 4. oszlop |  |  |
+## .... Város/Község Képviselő-testülete/Közgyűlése az Nkt. 74. § (6) bekezdésében foglaltak alapján az önkormányzat rendelkezésére álló saját és átengedett bevételek terhére a saját tulajdonában álló – az állami intézményfenntartó központ által fenntartott köznevelési intézmény feladatainak ellátását szolgáló – ingó és ingatlan vagyon állami intézményfenntartó központ általi működtetéséhez megállapított hozzájárulás megfizetését vállalja.
 
-|  | 3. | Tartozások működési célú kötvénykibocsátásból | 44. űrlap 11.+12. sorok: 3. oszlop | 44. űrlap 11.+12. sorok: 4. oszlop |  |  |
+## Kelt:
 
-|  | 4. | Beruházási és fejlesztési hitelek | 44. űrlap 16.+17. sorok: 3. oszlop | 45. űrlap 16.+17. sorok: 4. oszlop |  |  |
+## P. H.
 
-|  | 5. | Működési célú hosszú lejáratú hitelek | 44. űrlap 21.+22. sorok: 3. oszlop | 44. űrlap 21.+22. sorok: 4. oszlop |  |  |
+| ........................................ | ........................................ |
 
-|  | 6. | Rövid lejáratú hitelek | 1. űrlap 104. sor: 4. oszlop |  |  |  |
+| (fő)jegyző | polgármester |
 
-|  | 7. | Váltótartozások | 1. űrlap 110. sor: 4. oszlop |  |  |  |
+3/a–3/c. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^146]
 
-|  | 8. | Egyéb hosszú lejáratú, firntban és devizában fennálló kötelezettségek | 44. űrlap 26.+27. sorok: 3. oszlop | 44. űrlap 26.+27. sorok: 4. oszlop |  |  |
-
-|  | 9. | Adósságtörlesztés összesen (1.+…+6.) |  |  |  |  |
-
-| ………………………………. | P.H | …………………………………… |  |
-
-| (fő)jegyző |  | polgármester |  |
-
-3/a. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^141]
-
-[^141]: A 3/a. melléklet a 315/2012. (XI. 13.) Korm. rendelet 7. § j)–k) pontja szerint módosított szöveg.
+[^146]: A 3/a–3/c. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
