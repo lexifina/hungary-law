@@ -70,40 +70,8 @@
 
 ## 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 9. A regionális operatív programok 2011–2013. évekre szóló akcióterveinek megállapításáról, egyes prioritásai kerete növeléséről, továbbá egyes, a regionális operatív programokból támogatott projektek támogatása növeléséről szóló 1179/2015. (III. 25.) Korm. határozat
-
-## 9.1. 1. melléklet 3.2.1. pontjában foglalt táblázat C:3 mezőjében a „3,9933” szövegrész helyébe a „6,1433” szöveg,
-
-## 9.2. 1. melléklet 3.2.1. pontjában foglalt táblázat D:3 mezőjében a „11,6871” szövegrész helyébe a „13,8371” szöveg,
-
-## 9.3. 1. melléklet 3.2.2. pontjában foglalt táblázat E:3 mezőjében a „3,4188” szövegrész helyébe az „5,5688” szöveg,
-
-## 9.4. 1. melléklet 3.2.2. pontjában foglalt táblázat F:3 mezőjében az „55,7506” szövegrész helyébe az „57,9006” szöveg,
-
-## 9.5. 1. melléklet 3.3.1. pontjában foglalt táblázat E:3 mezőjében a „3,0697” szövegrész helyébe az „5,2197” szöveg,
-
-## 9.6. 1. melléklet 3.3.1. pontjában foglalt táblázat E:6 mezőjében a „3,9933” szövegrész helyébe a „6,1433” szöveg,
-
-## 9.7. 2. melléklet 2.2.1. pontjában foglalt táblázat C:3 mezőjében a „7,9537” szövegrész helyébe a „8,3601” szöveg,
-
-## 9.8. 2. melléklet 2.2.1. pontjában foglalt táblázat D:3 mezőjében a „31,1041” szövegrész helyébe a „31,5105” szöveg,
-
-## 9.9. 2. melléklet 2.2.2. pontjában foglalt táblázat E:3 mezőjében a „0,8725” szövegrész helyébe az „1,2789” szöveg,
-
-## 9.10. 2. melléklet 2.2.2. pontjában foglalt táblázat F:3 mezőjében az „52,9767” szövegrész helyébe az „53,3831” szöveg,
-
-## 9.11. 2. melléklet 2.3.1. pontjában foglalt táblázat E:3 mezőjében a „7,3453” szövegrész helyébe a „7,7517” szöveg,
-
-## 9.12. 2. melléklet 2.3.1. pontjában foglalt táblázat E:6 mezőjében a „7,9537” szövegrész helyébe a „8,3601” szöveg,
-
-## 9.13. 2. melléklet 3.2.2. pontjában foglalt táblázat E:3 mezőjében az „5,2597” szövegrész helyébe az „5,0565” szöveg,
-
-## 9.14. 2. melléklet 3.2.2. pontjában foglalt táblázat F:3 mezőjében a „47,9697” szövegrész helyébe a „47,7665” szöveg,
-
-## 9.15. 2. melléklet 4.2.2. pontjában foglalt táblázat E:3 mezőjében a „0,3071” szövegrész helyébe a „0,1039” szöveg,
-
-## 9.16. 2. melléklet 4.2.2. pontjában foglalt táblázat F:3 mezőjében az „54,7906” szövegrész helyébe az „54,5874” szöveg
-
-## lép.
+## 9.[^2]
 
 1. melléklet az 1393/2015. (VI. 12.) Korm. határozathoz
+
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
