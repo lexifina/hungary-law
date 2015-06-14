@@ -30,7 +30,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Nemzeti Tehetség Program végrehajtásának 2009–2010. évi cselekvési programjáról szóló 1120/2009. (VII. 23.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1390/2015. (VI. 12.) Korm. határozathoz
 
@@ -347,3 +347,5 @@ Határidő: 2016. december 31.
 Indikátor: legalább 1 angol nyelvű kiadvány a hazai tehetséggondozási rendszerről
 
 legalább 2 nemzetközi konferencia
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
