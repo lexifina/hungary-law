@@ -1,1 +1,0 @@
-## „(4) Az ITP módosítását évente egy alkalommal, április 30-ig kezdeményezheti a területi szereplő. A területi szereplő nem kezdeményezheti az ITP-ben az adott tárgyévre vonatkozóan meghatározott fejlesztési igények módosítását.”

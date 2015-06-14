@@ -1,1 +1,0 @@
-## „h) elkészíti az irányító hatóságnak megküldendő, felelősségi körébe tartozó éves fejlesztési keret alapját jelentő szakmai koncepciót, és a meghirdetendő felhívások szakmai tartalmának meghatározása során biztosítja, hogy a szakmai tartalom illeszkedjen a Kormány ágazati stratégiai céljaihoz,”

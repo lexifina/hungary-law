@@ -1,1 +1,0 @@
-## „11. meghatározza a 6., a 8., a 9. és a 12. alcím szerinti szervek vonatkozásában a munkatársakra vonatkozó képzési stratégiát, jóváhagyja a képzésekért felelős szervezeti egység által kialakított képzési szabályzatot és koordinálja a központilag biztosított képzéseket.”
