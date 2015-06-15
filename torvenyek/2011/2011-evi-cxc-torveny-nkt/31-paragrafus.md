@@ -20,18 +20,4 @@ f) nem kell alkalmazni a 73. § (4) bekezdését.
 
 (4) A köznevelési szerződés keretei között a nevelés és oktatás a gyermekek, tanulók számára térítésmentessé válik, továbbá a gyermekek, tanulók felvételére alkalmazni kell azokat a szabályokat, amelyek az állami, települési önkormányzati nevelési-oktatási intézményekre vonatkoznak, és nem lehet alkalmazni a (2) bekezdés c) pontjában foglaltakat.
 
-(5) A köznevelési szerződés az alábbiakat tartalmazza:
-
-a) a köznevelési alapfeladatokat,
-
-b) a felvehető, ellátandó gyermekek, tanulók számát,
-
-c) az óvodai nevelési feladatokban, a tankötelezettség teljesítésével és az iskolai neveléssel-oktatással, a pedagógiai szakszolgálatok ellátásával összefüggő feladatokban való részvételt,
-
-d) a fenntartó által a feladatellátáshoz igénybe vehető forrásokat, azokat a szolgáltatásokat, amelyek a megállapodás alapján a gyermekek, tanulók, szülők részére térítésmentessé válnak, továbbá amelyeket térítési díjért vehetnek igénybe.
-
-e) pedagógiai-szakmai szolgáltatás esetén az állami közfeladat-ellátásban történő részvétel keretében ingyenesen nyújtott szolgáltatásokat és az ellátási körzetet.
-
-(6) A köznevelési szerződés érvényességi ideje legalább egy, legfeljebb öt év. A köznevelési szerződésre egyebekben a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megbízásra vonatkozó rendelkezéseit kell alkalmazni.
-
-(7) Az egyházi köznevelési intézmények és a magán köznevelési intézmények fenntartóival kötött köznevelési szerződés megkötéséhez ki kell kérni az intézmény székhelye, telephelye szerint illetékes kormányhivatal, települési önkormányzat, nemzetiségi nevelés, nevelés-oktatás esetében az érintett országos nemzetiségi önkormányzat véleményét.
+(5)–(7)

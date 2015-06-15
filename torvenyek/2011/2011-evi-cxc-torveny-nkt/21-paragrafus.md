@@ -60,7 +60,7 @@ e) a megszűnésről szóló alapítói, fenntartói határozatot, a megszüntet
 
 (5a) A hivatal és a kormányhivatal által vezetett (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pont aa)–ac) alpontja, valamint b)–e) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(6) Ha a köznevelési intézmény székhelye megváltozik, a (2) bekezdésben foglaltak szerint újra nyilvántartásba kell venni, feltéve hogy a kormányhivatal illetékessége is megváltozik. Az ismételt nyilvántartásba vétel a köznevelési intézmény létrejöttének időpontját nem érinti.
+(6)
 
 (7) A nyilvántartásba vételről szóló jogerős határozat alapján az önálló költségvetéssel rendelkező köznevelési intézmény képviselője köteles nyolc napon belül megkérni az intézmény adószámát és pénzforgalmi számlát nyitni. Az adószámot és a pénzforgalmi számlaszámot, annak kézhezvételétől számított nyolc napon belül be kell jelenteni a (2) bekezdés szerint.
 
@@ -98,4 +98,4 @@ f) a köznevelési intézmény a feladatainak ellátásához szükséges feltét
 
 (11) Szakmai jogszabálysértés, ha az intézmény működése – az intézmény által ellátott feladatoktól függően – az Óvodai nevelés országos alapprogramja a Nat, az adott intézményre érvényes kerettanterv, vagy e törvény felhatalmazása alapján készített és jóváhagyott más nevelési, oktatási program, az érettségi vizsgaszabályzat, az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály, a Kollégiumi nevelés országos alapprogramja, a nemzetiség óvodai nevelésének irányelve, a nemzetiség iskolai oktatásának irányelve, a Két tanítási nyelvű iskolai oktatás irányelve, a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve, a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve, az Alapfokú művészetoktatás követelményei és tantervi programja rendelkezéseit sérti.
 
-(12) A kormányhivatal a köznevelési intézmény törléséről értesíti a költségvetési hozzájárulást folyósító szervet.
+(12)

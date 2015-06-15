@@ -6,8 +6,8 @@
 
 (3) A települési önkormányzat közzéteszi az óvoda felvételi körzetét, valamint az óvoda nyitva tartásának rendjét. Az óvoda köteles felvenni, átvenni azt a gyermeket, aki életvitelszerűen az óvoda körzetében lakik (a továbbiakban: kötelező felvételt biztosító óvoda).
 
-(3a) A (3) bekezdés alkalmazásában életvitelszerű ott lakásnak minősül, ha a gyermek a kötelező felvételt biztosító óvoda körzetében található ingatlant otthonául használja és az ilyen ingatlan a polgárok személyi adatainak és lakcímének nyilvántartásában a gyermek lakóhelyeként vagy tartózkodási helyeként az óvodai beiratkozás első határnapját megelőző három hónapnál régebb óta szerepel. Amennyiben ez nem teljesül, vagy azok ellenére bármely körülmény alapján arra lehet következtetni, hogy a gyermek a nyilvántartásban szereplő lakhelyén vagy tartózkodási helyén nem életvitelszerűen lakik, úgy az óvodavezető, illetve a (2) bekezdés szerinti esetben az óvodavezető vagy a fenntartó által szervezett bizottság jogosult felszólítani az óvodába jelentkező gyermek szülőjét, hogy az életvitelszerű körzetben lakás tényét akként igazolja, hogy a felszólítás kézhez vételétől számított 15 napon belül bemutatja a területileg illetékes védőnőtől származó, a védőnői ellátás igénybevételét igazoló nyilatkozatot.
+(3a)
 
-(3b) Amennyiben az óvodavezető, illetve az általa vagy a fenntartó által szervezett bizottság felszólítás ellenére a szülő a védőnői nyilatkozatot nem mutatja be, úgy az óvodavezető, illetve az általa vagy a fenntartó által szervezett bizottság jogosult az életvitelszerűen körzetben lakást családlátogatás kezdeményezésével ellenőrizni. Amennyiben az óvodavezető, az általa, illetve a fenntartó által szervezett bizottság által javasolt legalább három időpont közül a gyermek szülője vagy törvényes képviselője egy alkalommal sem teszi lehetővé a családlátogatást, úgy vélelmezni kell, hogy a gyermek nem életvitelszerűen lakik a kötelező felvételt biztosító óvoda körzetében, és ennek alapján az óvodai felvétel megtagadható.
+(3b)
 
 (4) Az óvodába felvett gyermekek csoportba való beosztásáról a szülők és az óvodapedagógusok véleményének kikérése mellett az óvodavezető dönt.

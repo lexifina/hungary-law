@@ -8,7 +8,7 @@
 
 (5) A nevelési-oktatási intézménynek gondoskodnia kell a rábízott gyermekek, tanulók felügyeletéről, a nevelés és oktatás egészséges és biztonságos feltételeinek megteremtéséről, a gyermekek, tanulók rendszeres egészségügyi vizsgálatának megszervezéséről, ennek keretében különösen, hogy az óvodába járó gyermek, valamint a tankötelezettség végéig az általános iskolába, középfokú iskolába járó tanuló évenként legalább egyszer fogászati, szemészeti és általános szűrővizsgálaton vegyen részt.
 
-(6) A nevelési-oktatási intézmény, a pedagógiai szakszolgálati intézmény – a jogszabályban meghatározottak szerint – kivizsgálja és nyilvántartja a tanuló- és gyermekbaleseteket, teljesíti az előírt bejelentési kötelezettséget.
+(6)
 
 (7) Az óvodai csoportok, iskolai osztályok, kollégiumi csoportok minimális, maximális és átlaglétszámát a 4. melléklet határozza meg. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszám a nevelési év, illetőleg a tanítási év indításánál a fenntartó engedélyével legfeljebb húsz százalékkal átléphető, továbbá függetlenül az indított osztályok, csoportok számától, akkor is, ha a nevelési év, tanítási év során az új gyermek, tanuló átvétele, felvétele miatt indokolt. A minimális létszámtól csak akkor lehet eltérni, ha azt az óvodai, tanulói jogviszony nevelési, tanítási év közben történő megszűnése indokolja, továbbá szakképző iskolában akkor is, ha a képzés során tanulói jogviszony korábbi tanítási évben történő megszűnése miatt az érintett osztály, csoport létszáma a minimális létszám alá csökkent, és átszervezéssel – a tanulóra háruló aránytalan teher nélkül – nem alakítható ki a minimális létszámot elérő létszámú osztály, csoport.
 

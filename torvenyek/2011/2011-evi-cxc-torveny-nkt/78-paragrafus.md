@@ -28,13 +28,7 @@ k) évenként országos és térségi mérési, értékelési feladatok elrendel
 
 (3) Az oktatásért felelős miniszter, az egészségügyért felelős miniszter programok kiadásával, pályázatok kiírásával, továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó egészségfejlesztési feladatok végrehajtását.
 
-(4) Az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segítheti a mindennapos testnevelés feladatainak végrehajtását, a sportiskolák megalakulását és működését.
-
-(5) Az oktatásért felelős miniszter, a környezetvédelemért felelős miniszter közös programok kiadásával, pályázatok kiírásával segíti a környezeti nevelés, oktatás feladatainak végrehajtását és az Erdei Iskola Program, Erdei Óvoda Program, Zöld Óvoda Program, Ökoiskola Program megvalósulását.
-
-(6) Az oktatásért felelős miniszter, a kultúráért felelős miniszter közös programok kiadásával, pályázatok kiírásával segíti a közgyűjtemények nevelési-oktatási feladatainak végrehajtását.
-
-(7) Az oktatásért felelős miniszter, a honvédelemért felelős miniszter közös programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó honvédelmi nevelési feladatok végrehajtását.
+(4)–(7)
 
 (8) Az oktatásért felelős miniszter háromévenként összehívja a diákparlamentet. A diákparlament a diákok közneveléssel kapcsolatos országos tájékoztató fóruma, amely az előterjesztésében áttekinti a tanulói jogok érvényesülését, és ajánlást fogadhat el, amelyben megfogalmazza véleményét, javaslatát.
 

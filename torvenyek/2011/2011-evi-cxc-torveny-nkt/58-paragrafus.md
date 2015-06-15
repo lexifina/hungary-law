@@ -38,16 +38,12 @@ e) kizárás
 
 fegyelmi büntetés szabható ki.
 
-(8) Nem indítható fegyelmi eljárás, ha a kötelezettségszegés óta három hónap már eltelt. Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult, és az nem végződött felmentéssel (az indítvány elutasításával), a határidőt a jogerős határozat közlésétől kell számítani.
-
-(9) A fegyelmi büntetés megállapításánál a tanuló életkorát, értelmi fejlettségét, az elkövetett cselekmény súlyát figyelembe kell venni. A fegyelmi büntetést a nevelőtestület hozza. Az iskolai, kollégiumi diákönkormányzat véleményét a fegyelmi eljárás során be kell szerezni.
-
-(10) A fegyelmi eljárás megindításáról – az indok megjelölésével – a tanulót és a kiskorú tanuló szülőjét értesíteni kell. A fegyelmi eljárás során a tanulót meg kell hallgatni, és biztosítani kell, hogy álláspontját, védekezését előadja. Ha a meghallgatáskor a tanuló vitatja a terhére rótt kötelességszegést, vagy a tényállás tisztázása egyébként indokolja, tárgyalást kell tartani. A tárgyalásra a tanulót és a kiskorú tanuló szülőjét meg kell hívni. Kiskorú tanuló esetén a fegyelmi eljárásba a szülőt minden esetben be kell vonni. A fegyelmi eljárásban a tanulót és a szülőt meghatalmazott is képviselheti.
+(8)–(10)
 
 (11) A tanulóval szemben ugyanazért a kötelességszegésért csak egy fegyelmi büntetés állapítható meg. Ha a kötelességszegés miatt az iskolában és a kollégiumban is helye lenne fegyelmi büntetés megállapításának, a nevelési-oktatási intézmények eltérő megállapodásának hiányában a fegyelmi büntetést abban a nevelési-oktatási intézményben lehet megállapítani, amelyikben az eljárás előbb indult.
 
-(12) A gyakorlati képzés keretében elkövetett kötelességszegésért a fegyelmi eljárást az iskolában kell lefolytatni.
+(12)
 
 (13) Végrehajtani csak jogerős fegyelmi határozatot lehet. Ha a végrehajtás elmaradása a többi tanuló jogait súlyosan sértené vagy más elháríthatatlan kárral, veszéllyel járna, az elsőfokú határozat a fellebbezésre tekintet nélkül végrehajtható.
 
-(14) A fegyelmi eljárás lefolytatásának alapvető szabályait jogszabály állapítja meg.
+(14)

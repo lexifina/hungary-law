@@ -4,7 +4,7 @@
 
 (3) Az országos pedagógiai-szakmai ellenőrzés célja a pedagógusok munkájának külső, egységes kritériumok szerinti ellenőrzése és értékelése a minőség javítása érdekében. Az ellenőrzés kiterjed fenntartótól függetlenül minden köznevelési intézményre.
 
-(4) Az országos pedagógiai-szakmai ellenőrzés különösen az óra- és foglalkozáslátogatás, a megfigyelés, az interjú és a pedagógiai dokumentumok vizsgálata módszereit alkalmazza. Az intézmény ellenőrzését legalább három, a jogszabályi feltételek szerint kijelölt köznevelési szakértőből álló csoport végzi. A szakértői csoport intézkedésre nem jogosult, megállapításait, javaslatát jegyzőkönyvben rögzíti.
+(4)
 
 (5) Az országos pedagógiai-szakmai ellenőrzésben az a köznevelési szakértő vehet részt, aki a külön jogszabályban előírt továbbképzés követelményeit teljesítette. Az intézmény ellenőrzésében részt vevő szakértő kijelöléséhez a fenntartó egyetértése szükséges.
 

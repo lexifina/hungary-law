@@ -4,11 +4,11 @@
 
 (2) A Kar tagja az a pedagógus, aki az (1) bekezdésben meghatározott köznevelési intézményben pedagógus-munkakörben történő foglalkoztatásra szóló kinevezést kapott.
 
-(3) A Kar stratégiai partneri megállapodást köthet más fenntartó intézményeiben dolgozó pedagógusok hasonló feladatokat ellátó szervezeteivel.
+(3)
 
 (4) Az állami intézményfenntartó központ köteles a Kar területi szervei működéséhez a megyeközponti és fővárosi tankerület székhelyén működő köznevelési intézményben a működéshez szükséges megfelelő hely biztosításáról gondoskodni.
 
-(5) A Kar az e törvényben és a Kar alapszabályában (a továbbiakban: Alapszabály) meghatározott módon és feltételek szerint tagozatokat alakíthat, amelyek ellátják az Alapszabályban meghatározott vagy az Országos Küldöttgyűlés által átruházott feladatokat.
+(5)
 
 (6) A Kar az Országos Küldöttgyűlés által elfogadott Alapszabályát köteles az elfogadástól számított 30 napon belül az oktatásért felelős miniszternek tájékoztatásul megküldeni.
 

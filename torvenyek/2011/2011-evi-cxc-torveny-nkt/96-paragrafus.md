@@ -14,13 +14,7 @@
 
 (7) Ahol jogszabály az óvodai nevelésben részt vevő, a tanulói jogviszonyban, kollégiumi tagsági viszonyban álló fogyatékos gyermek részére kedvezményt, juttatást, jogosultságot, kötelezettséget állapít meg, a fogyatékos gyermek, tanuló fogalom alatt a sajátos nevelési igényű gyermeket, tanulót kell érteni.
 
-(8) Ha a nevelési-oktatási intézmény alapító okiratában, működési engedélyében, nyilvántartásba vételi határozatában az intézmény alaptevékenységei között
-
-a) a megismerő funkciók vagy a viselkedés fejlődésének organikus okra visszavezethető, vagy vissza nem vezethető tartós és súlyos rendellenességével küzdő gyermekek, tanulók ellátása,
-
-b) a megismerő funkciók vagy a viselkedés fejlődésének tartós és súlyos, vagy súlyos rendellenességével küzdő gyermekek, tanulók ellátása
-
-szerepel, azon 2013. január 1-ig az egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzdő gyermekek, tanulók ellátását is érteni kell.
+(8)
 
 (9) Ha a sajátos nevelési igényű gyermek, tanuló szakértői véleményében a sajátos nevelési igényt
 
