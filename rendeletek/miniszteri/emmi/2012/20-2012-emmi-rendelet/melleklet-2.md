@@ -246,7 +246,7 @@
 
 |  | Kollégiumi törzskönyv | Kt. |
 
-2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^269]
+2. melléklet a 20/2012. (VIII. 31.) EMMI rendelethez[^270]
 
 JEGYZÉK
 
@@ -290,6 +290,4 @@ Ha az óvoda, az iskola, a művészetoktatási intézmény, kollégium sajátos 
 
 Ha az óvoda nemzetiséghez tartozók óvodai nevelésében, vagy az iskola (ide értve a művészetoktatási intézményeket is) a nemzetiséghez tartozók iskolai oktatásában, illetve a kollégium nemzetiséghez tartozók kollégiumi nevelésében vesz részt, az eszközök és felszerelések megvásárlásánál a nemzeti, etnikai sajátosságokat figyelembe kell venni.
 
-Ahol a melléklet a mennyiségi mutatónál a ,,óvodánkénti” megjelölést alkalmazza, azon az óvodát kell érteni, függetlenül attól, hogy a székhelyen kívül rendelkezik-e telephellyel, és hogy hány épülete van. Ebben az esetben a helyiség a székhelyen vagy/és a telephelyen (azaz minden feladat ellátási helyen) is kialakítható.
-
-[^269]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a, a 45/2014. (X. 27.) EMMI rendelet 54. § 32. pontja szerint módosított szöveg.
+[^270]: A 2. melléklet a 22/2013. (III. 22.) EMMI rendelet 38. §-a, a 45/2014. (X. 27.) EMMI rendelet 54. § 32. pontja szerint módosított szöveg.

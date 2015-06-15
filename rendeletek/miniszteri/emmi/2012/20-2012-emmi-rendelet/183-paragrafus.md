@@ -10,7 +10,7 @@ a) az oktatásért felelős miniszter által meghirdetett és finanszírozott
 
 aa) Országos Középiskolai Tanulmányi Verseny (a továbbiakban: OKTV),
 
-ab)[^244]
+ab)[^245]
 
 b) az oktatásért felelős miniszter által meghirdetett és anyagilag támogatott
 
@@ -20,7 +20,7 @@ bb) országos szervezésű diáksportverseny, diákolimpia,
 
 bc) sajátos nevelési igényű tanulók részére szervezett országos tanulmányi verseny,
 
-bd)[^245] országos szervezésű művészeti tanulmányi verseny,
+bd)[^246] országos szervezésű művészeti tanulmányi verseny,
 
 c) az oktatásért felelős miniszter által szakmailag támogatott verseny,
 
@@ -38,10 +38,10 @@ d) a köznevelésben a tanulók érdekében, sporttevékenységük szervezésér
 
 e) a köznevelésben a tanulók tehetséggondozása érdekében a művészeti tevékenység szervezésére és támogatására létrehozott országos művészetoktatási szervezet,
 
-f)[^246] az alapító okirata, szakmai alapdokumentuma szerint nevelési-oktatási tevékenység végzésre jogosult, továbbá nevelési-oktatási intézményt fenntartó, Magyarországon bejegyzett belföldi székhelyű jogi személy
+f)[^247] az alapító okirata, szakmai alapdokumentuma szerint nevelési-oktatási tevékenység végzésre jogosult, továbbá nevelési-oktatási intézményt fenntartó, Magyarországon bejegyzett belföldi székhelyű jogi személy
 
 hirdethet meg.
 
-[^244]: A 183. § (1) bekezdés a) pont ab) alpontját a 22/2013. (III. 22.) EMMI rendelet 40. § q) pontja hatályon kívül helyezte.
-[^245]: A 183. § (1) bekezdés b) pont bd) alpontját a 22/2013. (III. 22.) EMMI rendelet 35. §-a iktatta be.
-[^246]: A 183. § (2) bekezdés f) pontja a 45/2014. (X. 27.) EMMI rendelet 54. § 29. pontja szerint módosított szöveg.
+[^245]: A 183. § (1) bekezdés a) pont ab) alpontját a 22/2013. (III. 22.) EMMI rendelet 40. § q) pontja hatályon kívül helyezte.
+[^246]: A 183. § (1) bekezdés b) pont bd) alpontját a 22/2013. (III. 22.) EMMI rendelet 35. §-a iktatta be.
+[^247]: A 183. § (2) bekezdés f) pontja a 45/2014. (X. 27.) EMMI rendelet 54. § 29. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-155. §[^188] (1) Az országos pedagógiai-szakmai ellenőrzésben részt vevő szakértőt a hivatal jelöli ki. Nem jelölhető ki a szakértő az ellenőrzésre abba az intézménybe, ahol őt vagy a Polgári Törvénykönyv szerinti közeli hozzátartozóját pedagógusként alkalmazzák, továbbá olyan intézménybe, ahol az ellenőrzést megelőző két évben őt vagy a Polgári Törvénykönyv szerinti közeli hozzátartozóját pedagógusként alkalmazták.
+155. §[^189] (1) Az országos pedagógiai-szakmai ellenőrzésben részt vevő szakértőt a hivatal jelöli ki. Nem jelölhető ki a szakértő az ellenőrzésre abba az intézménybe, ahol őt vagy a Polgári Törvénykönyv szerinti közeli hozzátartozóját pedagógusként alkalmazzák, továbbá olyan intézménybe, ahol az ellenőrzést megelőző két évben őt vagy a Polgári Törvénykönyv szerinti közeli hozzátartozóját pedagógusként alkalmazták.
 
 (2) Az alternatív nevelés-oktatást folytató intézmény intézményellenőrzésébe be kell vonni az adott alternatív nevelési-oktatási módszer területén legalább ötéves szakmai gyakorlattal rendelkező szakértőt.
 
@@ -10,4 +10,4 @@
 
 (6) Ha a (2) bekezdés szerinti feltételeknek megfelelő szakértő nem áll rendelkezésre, a hivatal más a nevelési módszer területén jártas szakértőt, ilyen személy hiányában a nevelési módszer nemzetközileg vagy országosan elismert képviselőjét is felkérheti.
 
-[^188]: A 155. § a 22/2015. (IV. 21.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^189]: A 155. § a 22/2015. (IV. 21.) EMMI rendelet 20. §-ával megállapított szöveg.

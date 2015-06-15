@@ -1,6 +1,6 @@
 ## 74. A Köznevelési Hídprogramok
 
-180. § (1)[^236] A Központ a Köznevelési Hídprogramokat a következő tanévtől megvalósító középfokú intézményt vagy intézményeket az érintett tanévet megelőző március 31-éig jelöli ki, és erről tájékoztatja az általános iskolákat.
+180. § (1)[^237] A Központ a Köznevelési Hídprogramokat a következő tanévtől megvalósító középfokú intézményt vagy intézményeket az érintett tanévet megelőző március 31-éig jelöli ki, és erről tájékoztatja az általános iskolákat.
 
 (2) A Központ az alábbi szempontok figyelembevételével jelöli ki az intézményeket:
 
@@ -10,7 +10,7 @@ b) Híd I. program esetén érettségi vizsgára felkészítő nevelés-oktatás
 
 c) Híd II. program esetén van szakképesítés megszerzéséhez szükséges szakképzési évfolyama, vagy felnőttoktatást szervez.
 
-(3)[^237] Ha a tanköteles tanulót nem vették fel középfokú iskolába, az általános iskola tájékoztatást ad a Híd I. és Híd II. programokról a szülőnek, és értesítést küld a tanulóról a tanuló állandó lakhelye, ennek hiányában tartózkodási helye szerint illetékes járási hivatalnak annak érdekében, hogy a tankötelezettség teljesítését figyelemmel tudja kísérni. Az általános iskola a Híd I. programba bekapcsolódni kívánó tanulóról értesítést küld a Központnak. Amennyiben a Híd I. programot a tanköteles tanuló nem kezdi meg, arról a Központ értesíti az általános szabálysértési hatóságot.
+(3)[^238] Ha a tanköteles tanulót nem vették fel középfokú iskolába, az általános iskola tájékoztatást ad a Híd I. és Híd II. programokról a szülőnek, és értesítést küld a tanulóról a tanuló állandó lakhelye, ennek hiányában tartózkodási helye szerint illetékes járási hivatalnak annak érdekében, hogy a tankötelezettség teljesítését figyelemmel tudja kísérni. Az általános iskola a Híd I. programba bekapcsolódni kívánó tanulóról értesítést küld a Központnak. Amennyiben a Híd I. programot a tanköteles tanuló nem kezdi meg, arról a Központ értesíti az általános szabálysértési hatóságot.
 
-[^236]: A 180. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 49. §-ával megállapított szöveg.
-[^237]: A 180. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 30. pontja szerint módosított szöveg.
+[^237]: A 180. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 49. §-ával megállapított szöveg.
+[^238]: A 180. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 30. pontja szerint módosított szöveg.
