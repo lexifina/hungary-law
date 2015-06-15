@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-143-20-
 | --- | --- | --- |
 | 2015-06-13 | 2015-143-20-22.1 | 143/2015. (VI. 12.) Korm. rendelet |
 | 2015-06-14 | 2015-143-20-22.2 | 2010: CXXX. törvény |
+| 2015-06-15 | 2015-143-20-22.3 | 2010: CXXX. törvény |
