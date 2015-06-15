@@ -1,6 +1,6 @@
-## 57. §[^143]
+## 57. §[^144]
 
-1. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^144]
+1. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^145]
 
 1. NYILATKOZAT
 
@@ -46,5 +46,5 @@ P. H.
 
 | jegyző | polgármester |
 
-[^143]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^144]: Az 1. melléklet a 143/2015. (VI. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^144]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^145]: Az 1. melléklet a 143/2015. (VI. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.

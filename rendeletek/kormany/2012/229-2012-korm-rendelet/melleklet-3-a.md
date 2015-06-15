@@ -22,6 +22,6 @@
 
 | (fő)jegyző | polgármester |
 
-3/a–3/c. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^146]
+3/a–3/c. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^147]
 
-[^146]: A 3/a–3/c. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^147]: A 3/a–3/c. mellékletet a 143/2015. (VI. 12.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
