@@ -1,3 +1,3 @@
-## 10. §[^4]
+## 10. § Az R. 147. §-a a következő (7a) bekezdéssel egészül ki:
 
-[^4]: A 10. § a 26. § (2) bekezdése alapján 2015. június 15-én lép hatályba.
+## „(7a) Az ellenőrzést vezető szakértő az ellenőrzés időpontja előtt legalább tizenöt nappal felveszi a kapcsolatot az érintett intézmény vezetőjével és egyeztetik az ellenőrzés ütemezésével és tartalmával kapcsolatos részleteket.”
