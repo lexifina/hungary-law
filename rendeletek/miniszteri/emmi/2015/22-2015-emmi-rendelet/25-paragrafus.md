@@ -1,14 +1,14 @@
-## 14–24. §[^6]
+## 14–24. §[^7]
 
 ## 25. § Hatályát veszti az R.
 
-a)[^7]
+a)[^8]
 
-b)[^8]
+b)[^9]
 
-c)[^9]
+c)[^10]
 
-[^6]: A 14–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 25. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 25. § b) pontja a 26. § (3) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
-[^9]: A 25. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 14–24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 25. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 25. § b) pontja a 26. § (3) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
+[^10]: A 25. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

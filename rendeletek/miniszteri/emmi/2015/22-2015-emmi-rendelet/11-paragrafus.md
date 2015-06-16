@@ -1,3 +1,3 @@
-## 10. § Az R. 147. §-a a következő (7a) bekezdéssel egészül ki:
+## 10. §[^4]
 
-## „(7a) Az ellenőrzést vezető szakértő az ellenőrzés időpontja előtt legalább tizenöt nappal felveszi a kapcsolatot az érintett intézmény vezetőjével és egyeztetik az ellenőrzés ütemezésével és tartalmával kapcsolatos részleteket.”
+[^4]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
