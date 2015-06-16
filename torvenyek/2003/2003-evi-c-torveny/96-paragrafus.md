@@ -4,4 +4,4 @@
 
 (3) Az elektronikus hírközlési építményt az érintett ingatlanon úgy kell elhelyezni, hogy az a szomszédos ingatlanok tulajdonosait a jogaik gyakorlásában a környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeken belül – a körülmények által lehetővé tett – legkisebb mértékben zavarja, ez a létesítmény elhelyezése és működtetése során bekövetkező zavarás nem minősül a Ptk.-ban meghatározott szükségtelen zavarásnak.
 
-(4) A mobil rádiótelefon szolgáltatás nyújtásához szükséges antennák, antennatartószerkezetek és az azokhoz tartozó műtárgyak elhelyezése és működtetése során bekövetkező zavarás a környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékek betartása esetén nem minősül a Ptk.-ban meghatározott szükségtelen zavarásnak.
+(4)
