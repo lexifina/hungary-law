@@ -10,4 +10,17 @@
 
 (6) A rendelet mellékletének 3. KISKERESKEDELEM (VENDÉGLÁTÁS) fejezetében meghatározott előírások nem terjednek ki a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.) meghatározott automatából történő értékesítésre, és csomagküldő kereskedelmet folytató személyekre, valamint a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló rendeletben[^1] meghatározott kistermelőre.
 
+(7)[^2] Ha a kiskereskedelmi szektorban történő vasárnapi munkavégzés tilalmáról szóló 2014. évi CII. törvény (a továbbiakban: Kszvmtv.) 6. §-a szerint meghatározott üzlet az általános zárvatartási időszakban nyitva tart, ezen időszak alatt e rendelet mellékletének 3. KISKERESKEDELEM (VENDÉGLÁTÁS) fejezetében foglalt táblázat 1., 4., 6., 11., 12. és 14. pontjában foglalt követelmények nem terjednek ki
+
+a) az üzletben kereskedelmi tevékenységet folytató
+
+aa) egyéni vállalkozóra,
+
+ab) egyéni cég tagjára,
+
+ac) gazdasági társaság legalább 1/5 tulajdoni résszel bíró természetes személy tagjára, valamint
+
+b) a Kszvmtv. szerinti segítő családtagokra.
+
 [^1]: 14/2006. (II. 16.) FVM–EüM–ICsSzEM együttes rendelet
+[^2]: Az 1. § (7) bekezdését a 17/2015. (VI. 9.) NGM rendelet 2. § (1) bekezdése iktatta be.

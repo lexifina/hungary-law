@@ -2,498 +2,789 @@
 
 3. § (1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-(2)–(3)[^2]
+(2)–(3)[^3]
 
 (4) Az e rendelet mellékletében meghatározott olyan tevékenység esetében, amelyet e rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet melléklete nem tartalmazott, a tevékenységet folytató személynek 2011. december 31. napjáig kell eleget tenniük az e rendelet mellékletében meghatározott követelményeknek.
 
 (5) E rendelet mellékletének 3. KISKERESKEDELEM (VENDÉGLÁTÁS) fejezetében meghatározott tevékenységek esetében a Kertv.-ben meghatározott kereskedelmi ügynöki tevékenységet, közterületi értékesítést, vásári és piaci értékesítést, valamint üzleten kívüli kereskedést folytató személyeknek 2011. december 31. napjáig kell eleget tenniük az e rendelet mellékletében meghatározott követelményeknek.
 
-Melléklet a 21/2010. (V. 14.) NFGM rendelethez
+Melléklet a 21/2010. (V. 14.) NFGM rendelethez[^4]
 
-1. ELEKTRONIKA, MŰSZERIPAR
+| 1. ELEKTRONIKA, MŰSZERIPAR |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
-| 1. | Vagyonvédelmi rendszerek telepítése, üzemeltetése, felügyelete* | Biztonságtechnikai szerelő, kezelő | Elektronikus és mechanikus vagyonvédelmi rendszerszerelő |
+| 1. | Vagyonvédelmi rendszerek telepítése, üzemeltetése, felügyelete* | Elektronikus vagyonvédelmi rendszerszerelő, Mechanikus vagyonvédelmi szerelő | Biztonságtechnikai szerelő, kezelő Elektronikus és mechanikus vagyonvédelmi rendszerszerelő |
 
 | 2. | Elektronikus vagyonvédelmi rendszerek telepítése, üzemeltetése* | Elektronikus vagyonvédelmi rendszerszerelő | Elektronikus és mechanikus vagyonvédelmi rendszerszerelő |
 
-| 3. | Mechanikus vagyonvédelmi rendszerek telepítése, üzemeltetése* | Mechanikus vagyonvédelmi rendszerszerelő | Elektronikus és mechanikus vagyonvédelmi rendszerszerelő |
+| 3. | Mechanikus vagyonvédelmi rendszerek telepítése, üzemeltetése* | Mechanikus vagyonvédelmi szerelő | Elektronikus és mechanikus vagyonvédelmi rendszerszerelő |
 
-| 4. | Vagyonvédelmi rendszerek üzemeltetése* | Biztonságtechnikai-kezelő | Elektronikus és mechanikus vagyonvédelmi rendszerszerelő |
+| 4. | Vagyonvédelmi rendszerek üzemeltetése* | Elektronikus vagyonvédelmi rendszerszerelő Mechanikus vagyonvédelmi szerelő | Biztonságtechnikai-kezelő Elektronikus és mechanikus vagyonvédelmi rendszerszerelő |
 
-| 5. | Háztartási berendezések, üzembe helyezése, karbantartása, javítása* | Háztartási gépszerelő | Háztartás-elektronikai műszerész |
+| 5. | Háztartási berendezések üzembe helyezése, karbantartása, javítása* | Kereskedelmi, háztartási és vendéglátóipari gépszerelő | Háztartási gépszerelő Háztartás-elektronikai műszerész |
 
-| 6. | Kötőipari gépek, varró- és szabászgépek karbantartása, javítása | Kötő- és varrógép-műszerész | Kötő- és varrógép-műszerész |
+| 6. | Kötőipari gépek, varró- és szabászgépek karbantartása, javítása | Finommechanikai műszerész | Kötő- és varrógép műszerész |
 
-| 7. | Műholdvevő rendszerek, antennarendszerek telepítése, műszeres beállítása, karbantartása, javítása* | Távközlési és informatikai hálózatszerelő Távközlési kábelszerelő Távközlési műszerész Antenna szerelő Elektronikus műsorközlő és tartalomátviteli rendszertechnikus | Műholdas és kábeltelevíziós vételtechnikai műszerész |
+| 7. | Műholdvevő rendszerek, antennarendszerek telepítése, műszeres beállítása, karbantartása, javítása* | Távközlési technikus | Távközlési és informatikai hálózatszerelő |
+
+| Távközlési üzemeltető | Távközlési kábelszerelő |
+
+| Távközlési és informatikai hálózatszerelő | Távközlési műszerész |
+
+| Elektronikus műsorközlő és tartalomátviteli rendszerüzemeltető technikus | Antenna szerelő |
+
+|  | Elektronikus műsorközlő és tartalomátviteli rendszertechnikus Műholdas és kábeltelevíziós vételtechnikai műszerész |
 
 | 8. | Műszerek, műszerjellegű gépek mechanikus egységeinek szét- és összeszerelése, a berendezések karbantartása, javítása, finommechanikai alkatrészek megmunkálása* | Finommechanikai műszerész Elektromechanikai műszerész | Mechanikai műszerész |
 
-| 9. | Gyógyászatban alkalmazott elektronikus berendezések gyártása, üzembe helyezése, karbantartása, javítása* | Orvostechnikai elektroműszerész Orvosi elektronikai technikus | Orvoselektronikai műszerész |
+| 9. | Gyógyászatban alkalmazott elektronikus berendezések gyártása, üzembe helyezése, karbantartása, javítása* | Orvosi elektronikai technikus | Orvostechnikai elektroműszerész |
 
-| 10. | Mechanikai orvosi műszerek gyártása, karbantartása, javítása* | Orvosi műszerész Finommechanikai műszerész | Orvosi műszerész |
+|  | Orvosi elektronikai technikus Orvoselektronikai műszerész |
 
-| 11. | Rádió adó- és vevőberendezések, hangtechnikai eszközök (erősítő, mikrofon, hangszóró stb.) karbantartása, javítása* | Szórakoztató elektronikai műszerész Elektronikai műszerész Szórakoztatótechnikai műszerész | Rádió- és hangtechnikai műszerész |
+| 10. | Mechanikai orvosi műszerek gyártása, karbantartása, javítása* | Finommechanikai műszerész | Orvosi műszerész |
 
-| 12. | Számítógépek, perifériáik összeszerelése, karbantartása, javítása* | Informatikai műszerész Informatikai hálózattelepítő és- üzemeltető IT biztonság technikus IT kereskedő Számítógéprendszer-karbantartó Webmester Számítógép szerelő, karbantartó | Számítástechnikai műszerész |
+|  | Finommechanikai műszerész |
 
-| 13. | Szórakoztató elektronikai berendezések szerelése, üzembe helyezése, karbantartása, javítása* | Szórakoztatóelektronikai műszerész Elektronikai műszerész Szórakoztatótechnikai műszerész | Szórakoztató elektronikai készülék szerelő |
+| 11. | Rádióadó- és -vevőberendezések, hangtechnikai eszközök (erősítő, mikrofon, hangszóró stb.) karbantartása, javítása* | Elektronikai műszerész | Szórakoztató elektronikai műszerész |
 
-| 14. | Televízió- és videó készülékek szerelése, hangolása, beállítása, karbantartása, javítása* | Szórakoztató elektronikai műszerész Elektronikai műszerész Szórakoztatótechnikai műszerész | Televízió- és videotechnikai műszerész |
+|  | Elektronikai műszerész Szórakoztatótechnikai műszerész Rádió- és hangtechnikai műszerész |
 
-2. ENERGETIKAI BERENDEZÉS KEZELÉS, SZERELÉS, ÜZEMELTETÉS
+| 12. | Számítógépek, perifériáik összeszerelése, karbantartása, javítása* | Informatikai rendszergazda | Informatikai műszerész |
 
-|  | A) Tevékenység | B) Választható szakképesítése az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| Számítógép-szerelő, karbantartó | Informatikai hálózattelepítő és- üzemeltető |
+
+|  | IT biztonság technikus |
+
+|  | IT kereskedő |
+
+|  | Számítógéprendszer-karbantartó |
+
+|  | Webmester Számítógép szerelő, karbantartó Számítástechnikai műszerész |
+
+| 13. | Szórakoztató elektronikai berendezések szerelése, üzembe helyezése, karbantartása, javítása* | Elektronikai műszerész | Szórakoztató elektronikai műszerész |
+
+|  | Elektronikai műszerész Szórakoztatótechnikai műszerész Szórakoztató elektronikai készülék szerelő |
+
+| 14. | Televízió- és videókészülékek szerelése, hangolása, beállítása, karbantartása, javítása* | Elektronikai műszerész | Szórakoztató elektronikai műszerész |
+
+| Távközlési technikus | Elektronikai műszerész Televízió- és videotechnikai műszerész |
+
+|  | 2. ENERGETIKAI BERENDEZÉS KEZELÉSE, SZERELÉSE, ÜZEMELTETÉSE |  |
+
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
 | 1. | 290 kW és az ezt meghaladó teljesítményű gáz- és olajtüzelő-berendezések kezelése* | Ipari olaj- és gáztüzelő-berendezés kezelő | Ipari gáz- és olajtüzelő-berendezés kezelő |
 
-| 2. | Ipari gáz- és olajtüzelő-berendezések, illetve azok szerelvényeinek szerelése, karbantartása, javítása | Gáz- és tüzeléstechnikai műszerész Ipari olaj- és gáztüzelő berendezés szerelője, üzembehelyezője | Ipari gáz- és olajtüzelő-berendezés szerelő, javító, karbantartó |
+| 2. | Ipari gáz- és olajtüzelő-berendezések, illetve azok szerelvényeinek szerelése, karbantartása, javítása | Gáz- és hőtermelőberendezés szerelő | Gáz- és tüzeléstechnikai műszerész Ipari gáz- és olajtüzelő-berendezés szerelő, javító, karbantartó |
 
-| 3. | Max. 1 400 kW teljesítményű, illetve 2 t/h tömegáramú kazán (töltettől, tüzelési módtól, nyomástól függetlenül) kezelése* | Kis teljesítményű kazán fűtője (max 2tonna) | Kis teljesítményű kazánfűtő |
+|  | Ipari olaj- és gáztüzelő berendezés szerelője, üzembe helyezője |
 
-| 4. | Max. 7200 kW teljesítményű, illetve 12 t/h tömegáramú kazán (töltettől, tüzelési módtól, nyomástól függetlenül) kezelése* | Kazánkezelő (2–12 tonna között) | Kazánfűtő |
+| 3. | Max. 1400 kW teljesítményű, illetve 2 t/h tömegáramú kazán (töltettől, tüzelési módtól, nyomástól függetlenül) kezelése* | Kisteljesítményű kazán fűtő (max. 2 t/h) | Kis teljesítményű kazánfűtő |
+
+| 4. | Max. 7200 kW teljesítményű, illetve 12 t/h tömegáramú kazán (töltettől, tüzelési módtól, nyomástól függetlenül) kezelése* | Kazánkezelő (2-12 tonna között) | Kazánfűtő |
 
 | 5. | Max. 21 MW teljesítményű, illetve 30 t/h tömegáramú kazán (töltettől, tüzelési módtól, nyomástól függetlenül) és segédberendezéseinek kezelése* | Kazángépész (12 tonna felett) | Kazánkezelő |
 
-| 6. | 21 MW-nál, illetve 30 t/h tömegáramúnál nagyobb kazán (töltettől, tüzelési módtól, nyomástól függetlenül) és segédberendezéseinek kezelése | Kazángépész (12 tonna felett) Erőművi kazángépész | Kazángépész |
+| 6. | 21 MW-nál, illetve 30 t/h tömegáramúnál nagyobb kazán (töltettől, tüzelési módtól, nyomástól függetlenül) és segédberendezéseinek kezelése | Kazángépész (12 tonna felett) | Kazángépész (12 tonna felett) |
 
-| 7. | A legfeljebb II. kategóriába sorolt nyomástartó edények és az egyszerű nyomástartó edények kezelése (töltettől, nyomástól függetlenül)*** | Nyomástartóberendezés-kezelő szaktanfolyami képzettség | Nyomástartóberendezés-kezelő |
+| Erőművi kazángépész | Erőművi kazángépész Kazángépész |
 
-| 8. | A III. és IV. kategóriába sorolt nyomástartó edények, edénycsoportok üzemben tartása, kezelése (mérettől, töltettől, nyomástól függetlenül) | Kőolaji vegyipari rendszer üzemeltetője Nyomástartó edény-gépész | Nyomástartóedény-gépész |
+| 7. | A legfeljebb II. kategóriába sorolt nyomástartó edények és az egyszerű nyomástartó edények kezelése (töltettől, nyomástól függetlenül)***, szakirányú végzettség esetén* | Nyomástartóberendezés-kezelő szaktanfolyami képzettség | Nyomástartóberendezés-kezelő szaktanfolyami képzettség |
 
-| 9. | Nyomástartó berendezés és egyszerű nyomástartó edény vizsgálata*** | Nyomástartó berendezés vizsgáló szaktanfolyami képzettség | – |
+| Kőolaji vegyipari rendszer üzemeltetője szaktanfolyami képzettség Pébégáz töltetű nyomástartó berendezés kezelője szaktanfolyami végzettség | Nyomástartóberendezés-kezelő |
 
-| 10. | Veszélyes folyadékok és olvadékok tartályainak javítása és karbantartása*** | Veszélyes folyadékok és olvadékok tartályait javító és karbantartó szaktanfolyami képzettség | – |
+| Nyomástartó edény-gépész Vegyipari technikus |  |
 
-| 11. | Veszélyes folyadékok és olvadékok tartályainak vizsgálata*** | Veszélyes folyadékok és olvadékok tartályvizsgáló szaktanfolyami képzettség | – |
+| 8. | A III. és IV. kategóriába sorolt nyomástartó edények, edénycsoportok üzemben tartása, kezelése (mérettől, töltettől, nyomástól függetlenül)* | Nyomástartóedény-gépész | Kőolaji vegyipari rendszer üzemeltetője |
 
-| 12. | Tankállomás kezelése*** | Tankállomás- és kútkezelő szaktanfolyami képzettség | – |
+| Vegyipari technikus | Nyomástartóedény-gépész |
 
-| 13. | Veszélyes termékek szállításával kapcsolatos ADR előírásokból eredő feladatok végrehajtása, kötelezettségek ellenőrzése | Veszélyesáru-ügyintéző |  |
+| 9. | Nyomástartó berendezés és egyszerű nyomástartó edény vizsgálata*** | Nyomástartóberendezés vizsgáló szaktanfolyami képzettség | - |
 
-|  | ADR ügyintéző |  |  |
+| 10. | Veszélyes folyadékok és olvadékok tartályainak javítása és karbantartása*** | Veszélyes folyadékok és olvadékok tartályait javító és karbantartó szaktanfolyami képzettség | - |
 
-| 14. | Hőerőművek vízelőkészítőjének üzemeltetése | Hőközpont és -hálózatkezelő Erőművi kazángépész Kazángépész (12 tonna felett) | Villamosművi vízelőkészítő-gépész |
+| 11. | Veszélyes folyadékok és olvadékok tartályainak vizsgálata*** | Veszélyes folyadékok és olvadékok tartályvizsgáló szaktanfolyami képzettség | - |
 
-| 15. | Pótvíz előállítása és biztosítása erőmű hőberendezéseinek számára | Hőközpont és -hálózatkezelő Erőművi kazángépész Kazángépész (12 tonna felett) | Villamosművi vízelőkészítőberendezés-kezelő |
+| 12. | Tankállomás kezelése*** | Tankállomás- és kútkezelő szaktanfolyami képzettség |  |
 
-3. KISKERESKEDELEM
+| 13. | Veszélyes termékek szállításával kapcsolatos ADR előírásokból eredő feladatok végrehajtása, kötelezettségek ellenőrzése | Logisztikai ügyintéző | Veszélyesáru-ügyintéző |
 
-(VENDÉGLÁTÁS)
+|  | ADR ügyintéző |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| 14. | Hőerőművek vízelőkészítőjének üzemeltetése | Létesítményi energetikus | Hőközpont és -hálózatkezelő |
 
-| 1. | Élelmiszer értékesítés a zöldség és gyümölcs kivételével* | Kereskedő Élelmiszer és vegyi áru eladó Élelmiszer és vegyi áru kereskedő | Élelmiszer és vegyi áru kereskedő |
+| Erőművi kazángépész | Erőművi kazángépész |
 
-| 2. | Hús-és hentesáru, hal értékesítés* | Kereskedő Élelmiszer és vegyi áru eladó Élelmiszer és vegyi áru kereskedő Baromfifeldolgozó Halfeldolgozó Bolti hentes Húsipari termékgyártó | Élelmiszer és vegyi áru kereskedő |
+| Kazángépész (12 tonna felett) | Villamosművi vízelőkészítő-gépész |
 
-| 3. | Étrend kiegészítők, gyógynövények értékesítése* | Kereskedő Élelmiszer és vegyi áru eladó Élelmiszer és vegyi áru kereskedő Gyógynövénykereskedő | Drogériakereskedő |
+| 15. | Pótvíz előállítása és biztosítása erőmű hőberendezései számára | Létesítményi energetikus | Hőközpont és -hálózatkezelő |
 
-| 4. | Kozmetikai termék, háztartási-vegyi cikk értékesítés* | Kereskedő Élelmiszer és vegyi áru eladó Élelmiszer és vegyi áru kereskedő | Élelmiszer és vegyi áru kereskedő |
+| Erőművi kazángépész |
 
-| 5. | Elektromos háztartási cikk, háztartási kisgépek értékesítése* | Műszakicikk eladó Műszakicikk-kereskedő | Vas-műszaki kereskedő |
+| Kazángépész (12 tonna felett) | Erőművi kazángépész |
 
-| 6. | Jármű, járműalkatrész értékesítés* | Autó- és motorkerékpár-kereskedő Autó- és motorkerékpár-eladó, kölcsönző Járműalkatrész-kereskedő Járműalkatrész-eladó | Vas-műszaki kereskedő |
+|  | Kazángépész (12 tonna felett) |
 
-| 7. | Kertészeti cikk, növényvédőszer értékesítés* | Agrokémiai és növényvédelmi kereskedő | Kertészeti gazdabolti eladó |
+| 3. KISKERESKEDELEM (VENDÉGLÁTÁS) |  |  |
 
-| 8. | Gépek, gépi berendezések, épületgépészeti berendezések, villamossági cikkek, audió- és videoberendezések, TV, hang- és képanyagok és ezek alkatrészei* | Műszaki cikk kereskedő Épületgépészeti anyag-és alkatrészeladó Gépészeti anyag- és alkatrészeladó Villamossági anyag- és alkatrészeladó Épületgépészeti anyag- és alkatrész-kereskedő Villamossági anyag- és alkatrész-kereskedő Kazetta-és lemezeleladó, kölcsönző | Vas-műszaki kereskedő |
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
-| 9. | Számítógép, szoftver, számítógép alkatrészek értékesítése* | Műszakicikk eladó Műszakicikk-kereskedő IT kereskedő | Vas-műszaki kereskedő |
+| 1. | Élelmiszerértékesítés zöldség és gyümölcs kivételével* | Élelmiszer, vegyiáru és gyógynövény eladó | Kereskedő |
 
-| 10. | Telekommunikációs cikkek értékesítése* | Műszakicikk eladó Műszakicikk-kereskedő | Vas-műszaki kereskedő |
+| Boltvezető | Élelmiszer és vegyi áru eladó |
 
-| 11. | Fegyver-és lőszer, pirotechnika értékesítése* | Műszakicikk eladó Műszakicikk-kereskedő | – |
+| Kereskedő | Élelmiszer és vegyi áru kereskedő |
 
-| 12. | Építőanyagok értékesítése* | Telepi építőanyag-eladó Építőanyag-kereskedő | Tüzelő- és építőanyag kereskedő |
+| Eladó |  |
 
-| 13. | Üzemanyag, gázpalack értékesítése* | Töltőállomás kezelő Gázcseretelep-kezelő | Töltőállomás kezelő és eladó PB-cseretelep-kezelő |
+| 2. | Hús- és hentesáru, hal értékesítése* | Kereskedő | Kereskedő |
 
-| 14. | Sportszer, játék értékesítése* | Kultúrcikk-kereskedő Sportszer- és játékkereskedő | Kultúrcikk kereskedő |
+| Élelmiszer-, vegyi áru és gyógynövény eladó | Élelmiszer- és vegyi áru eladó |
 
-| 15. | Óra, ékszer értékesítése* | Kultúrcikk-kereskedő Óra-ékszer és díszműáru eladó Drágakő-meghatározó Ékszerbecsüs | Kultúrcikk kereskedő Becsüs Becsüs (ékszer szakirány) |
+| Bolti hentes | Élelmiszer- és vegyi áru kereskedő |
 
-| 16. | Fotó cikk értékesítése * | Fényképész és fotótermék kereskedő | Látszerész és fotócikk kereskedő |
+|  | Baromfifeldolgozó |
 
-| 17. | Optikai cikkek értékesítése, szemüveg készítése és javítása* | Látszerész és fotócikk kereskedő | Látszerész és fotócikk kereskedő |
+|  | Halfeldolgozó |
 
-| 18. | Kedvtelésből tartott állatok, és állateledel értékesítése* | Hobbiállat-tenyésztő és forgalmazó | Kereskedő-boltvezető |
+|  | Bolti hentes |
 
-| 19. | Zálogházi, aukciós tevékenység, régiségek, műtárgyak értékesítése* | Drágakő-meghatározó Bútor- és szőnyeg becsüs Ékszerbecsüs Festménybecsüs Műtárgybecsüs Régiségkereskedő | Becsüs (műtárgy szakirány) |
+|  | Húsipari termékgyártó |
 
-| 20. | Hulladék kereskedelem* | Hulladék felvásárló | Hulladékgyűjtő |
+| 3. | Étrendkiegészítők, gyógynövények értékesítése* | Kereskedő | Kereskedő Drogériakereskedő |
 
-| 21. | Meleg és hideg ételek, italok készítése (kivétel: palacsinta, lángos, hamburger, hot-dog, melegszendvics, hurka, kolbász, pecsenye sütése, illetve készítése, valamint gyorséttermi és ételeladás keretében való ételkészítés)* | Szakács Diétás szakács Vendéglős Étkezdés Mixer Cukrász | Szakács, pincér |
+| Eladó Élelmiszer-, vegyi áru és gyógynövény eladó Boltvezető Kereskedő Gyógy- és fűszernövény-termesztő | Élelmiszer- és vegyi áru eladó |
 
-| 22. | Meleg és hideg ételek, cukrászati készítmények, italok kiszolgálása (kivétel: palacsinta, lángos, hamburger, hot-dog, melegszendvics, hurka, kolbász, pecsenye sütése, illetve készítése, valamint gyorséttermi- és ételeladás keretében való ételkészítés)* | Vendéglős Étkezdés Vendéglátó-eladó Gyorséttermi és ételeladó Pincér Mixer | Szakács, pincér |
+|  | Élelmiszer és vegyi áru kereskedő Gyógynövény-kereskedő |
 
-| 23. | Cukrászati készítmények, sütemények, fagylalt készítése* | Cukrász Édesipari termékgyártó Cukorkagyártó Csokoládétermék-gyártó Kávé- és pótkávégyártó Keksz- és ostyagyártó Pék-cukrász Mézeskalács-készítő | Cukrász |
+| 4. | Kozmetikai termék, háztartási-vegyi cikk értékesítése* | Eladó Élelmiszer-, vegyi áru és gyógynövény eladó | Kereskedő |
 
-| 24. | Gyorséttermi, büfé szolgáltatás* | Vendéglős Vendéglátó eladó Étkezdés Gyorséttermi eladó Pincér | Gyorséttermi –és ételeladó |
+| Boltvezető | Élelmiszer- és vegyi áru eladó |
 
-| 25. | Munkahelyi, intézményi főzőkonyhás, konyhai szolgáltatás* | Élelmezésvezető Szakács Diétás szakács Pincér | Szakács, pincér |
+| Kereskedő | Élelmiszer- és vegyi áru kereskedő |
 
-| 26. | Munkahelyi, intézményi büfé* | Vendéglős Vendéglátó eladó Étkezdés Gyorséttermi és ételeladó Szakács Kereskedő Élelmiszer és vegyi áru eladó Élelmiszer és vegyi áru kereskedő | Szakács |
+| 5. | Jármű, járműalkatrész értékesítése* | Kereskedő | Autó- és motorkerékpár-kereskedő |
 
-4. KÖNNYŰIPAR
+| Eladó | Autó- és motorkerékpár-eladó, kölcsönző |
 
-4.1. BŐRIPAR
+| Műszakicikk-eladó | Járműalkatrész-kereskedő |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+|  | Járműalkatrész-eladó |
 
-| 1. | Bőr- és cipőipari termékek alkatrészeinek szabása* | Cipész, cipőkészítő, cipőjavító | Bőripari szabász |
+| 6. | Kertészeti cikk értékesítése* | Eladó Élelmiszer-, vegyi áru és gyógynövény eladó Műszakicikk-eladó Boltvezető Kereskedő | Agrokémiai és növényvédelmi kereskedő Kertészeti gazdabolti eladó |
 
-| 2. | Bőrdíszmű és cipőfelsőrész alkatrészek varrása* | Bőrdíszműves Cipőfelsőrész készítő | Bőripari varrómunkás (tűző) |
+| Virágbolti eladó |
 
-| 3. | Cipő alsó alkatrészek gépi megmunkálása* | Cipőösszeállító | Cipőipari gépkezelő |
+| Virágkötő és virágkereskedő |
 
-| 4. | Meghibásodott lábbelik javítása* | Cipész, cipőkészítő, cipőjavító Cipőösszeállító Bőrfeldolgozó-ipari technikus | Cipőjavító |
+| Kertész |
 
-| 5. | Szíjak, idomító felszerelések készítése, javítása* | Szíjgyártó és nyerges Szíjgyártó | Szíjgyártó |
+| 7. | Gépek, gépi berendezések, épületgépészeti berendezések, villamossági cikkek értékesítése* | Eladó Műszakicikk-eladó Boltvezető Kereskedő | Műszaki cikk kereskedő |
 
-| 6. | Szíjgyártó és nyerges termékek készítése* | Szíjgyártó és nyerges Szíjgyártó | Szíjgyártó, nyerges |
+|  | Épületgépészeti anyag-és alkatrészeladó |
 
-| 7. | Tartósított szőrmés bőrök kikészítése, készítése | Tímár, bőrkikészítő Szőrmeipari megmunkáló, szőrmefestő | Szőrmekikészítő |
+|  | Gépészeti anyag- és alkatrészeladó |
 
-| 8. | Lábbelik készítése gépi műveletekkel* | Cipész, cipőkészítő, cipőjavító Cipőfelsőrész készítő Cipőösszeállító | Cipőgyártó |
+|  | Villamossági anyag- és alkatrészeladó |
 
-| 9. | Felsőruházat és kiegészítőinek készítése szőrmés bőrből* | Szűcs, szőrme és bőrkonfekcionáló | Szűcs |
+| Épületgépészeti anyag- és alkatrész-kereskedő |
 
-| 10. | Táskák, apróáruk, bőröndök készítése* | Bőrdíszműves | Bőrdíszműves |
+|  | Villamossági anyag- és alkatrész-kereskedő |
 
-| 11. | Lábbelik készítése kézi műveletekkel* | Cipész, cipőkészítő, cipőjavító Cipőfelsőrész készítő Cipőösszeállító | Cipész |
+|  | Kazetta- és lemezeladó, kölcsönző |
 
-| 12. | Utcai, sport- és védőkesztyűk készítése, bőr felhasználásával* | Kesztyűs | Kesztyűs |
+| 8. | Építőanyagok értékesítése* | Műszakicikk-eladó | Telepi építőanyag-eladó Tüzelő- és építőanyag kereskedő |
 
-| 13. | Tartósított bőrök cserzése, kikészítése | Tímár, bőrkikészítő Szőrmeipari megmunkáló, szőrmefestő | Tímár |
+| Boltvezető, kereskedő |
 
-| 14. | Cipőfelsőrész alkatrészek szabása, előkészítése és összeszerelése* | Cipőfelsőrész-készítő Cipész, cipőkészítő, cipőjavító | Cipőfelsőrész-készítő |
+|  | Építőanyag-kereskedő |
 
-| 15. | Bőrdíszműipari tárgyak tervezése, szabásmintáinak készítése* | Bőrdíszműves Bőrfeldolgozó-ipari technikus | Bőrdíszműipari mintakészítő |
+| 9. | Üzemanyag, gázpalack értékesítése* | Töltőállomáskezelő | Töltőállomáskezelő és eladó |
 
-| 16. | Cipőipari termékek tervezése, minták elkészítése* | Cipész, cipőkészítő, cipőjavító Bőrfeldolgozó-ipari technikus | Cipőipari mintakészítő |
+|  | PB-cseretelep-kezelő Gázcseretelep-kezelő |
 
-| 17. | Kesztyűipar területén szükséges alapvető minták elkészítése** | Kesztyűs | Kesztyűipari mintakészítő |
+| 10. | Sportszer, játék értékesítése* | Eladó | Kultúrcikk-kereskedő |
 
-| 18. | Felsőruházat készítése bőrből* | Bőrruha-készítő, -javító | Bőrruhakészítő |
+| Boltvezető Kereskedő |
 
-4.2. FAIPAR
+|  | Sportszer- és játékkereskedő, Kultúrcikk kereskedő |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| 11. | Óra, ékszer értékesítése* | Boltvezető Kereskedő | Kultúrcikk-kereskedő |
 
-| 1. | Fényezési, pácolási eljárások végzése, lakkszóró-, lakköntőgépek kezelése* | Bútorasztalos Fa- és bútoripari gépkezelő Műbútorasztalos | Asztalosipari felületkezelő |
+| Becsüs | Óra-ékszer és díszműáru eladó |
 
-| 2. | Mobil és beépített bútorok, mozgó alkatrészek, falburkolatok, válaszfalak, nyílászáró szerkezetek szerelése, javítása, cseréje* | Bútorasztalos Asztalosipari szerelő | Asztalosipari szerelő |
+| Ékszerbecsüs | Drágakő-meghatározó |
 
-| 3. | Famegmunkáló gépeken faipari termékek előállítása* | Bútorasztalos Fa- és bútoripari gépkezelő Faesztergályos Fatermékgyártó | Faipari gépmunkás |
+|  | Ékszerbecsüs Becsüs (ékszer szakirány) Becsüs |
 
-| 4. | Fajátékok készítése* | Bútorasztalos Faesztergályos Fatermékgyártó | Fajátékkészítő |
+| 12. | Fotócikk értékesítése * | Fotógráfus és fotótermék-kereskedő Látszerész és fotócikk-kereskedő | Fényképész és fotótermék kereskedő Látszerész és fotócikk kereskedő |
 
-| 5. | Dísz- és használati tárgyak készítése népi hagyományok alapján* | Bútorasztalos Faesztergályos Fatermékgyártó Faműves | Faműves |
+| 13. | Optikai cikkek értékesítése, szemüveg készítése és javítása* | Látszerész és fotócikk kereskedő | - |
 
-| 6. | Faaljzatok, alapépítmények készítése* | Épületasztalos Famegmunkáló | Fapadlózó és burkoló |
+| 14. | Kedvtelésből tartott állatok, és állateledel értékesítése* | Hobbiállat-tenyésztő és -forgalmazó | Kereskedő-boltvezető |
 
-| 7. | Faipari tömegcikkek készítése* | Bútorasztalos Faesztergályos Fatermékgyártó | Fatömegcikk- és -eszközgyártó |
+| 15. | Zálogházi, aukciós tevékenység, régiségek, műtárgyak értékesítése* | Ékszerbecsüs | Drágakő-meghatározó |
 
-| 8. | Bútorok, nyílászárók, burkolatok, belsőépítészeti munkák készítése* | Bútorasztalos | Asztalos |
+| Bútor- és szőnyegbecsüs | Bútor- és szőnyegbecsüs |
 
-| 9. | Tetőszerkezetek és mindenféle állványozási munkák készítése kötő-, zsaluzó-, vegyes és ácsmunkák, állványozó és dúcoló munkák végzése* | Ács, állványozó | Ács-állványozó |
+| Ékszerbecsüs | Ékszerbecsüs |
 
-| 10. | Fából készült szerszámok, szerszámnyelvek és különböző faeszközök készítése, javítása | Bognár | Bognár |
+| Festménybecsüs | Festménybecsüs |
 
-| 11. | Fából és műanyagból különféle hajótestek, felszerelések, berendezések készítése, karbantartása, javítása | Kishajóépítő, -karbantartó | Csónaképítő |
+| Műtárgybecsüs | Műtárgybecsüs |
 
-| 12. | Fából, ipari, lakberendezési, iparművészeti, háztartási cikkek, dísztárgyak és egyéb esztergályozással előállítható cikkek készítése* | Bútorasztalos Faesztergályos | Faesztergályos |
+|  | Régiségkereskedő |
 
-| 13. | Fából készült hordók, edények, eszközök előállítása, javítása kézi munkával | Kádár | Kádár |
+| 16. | Hulladékkereskedelem* | Hulladékfelvásároló és hulladéktelep-kezelő | Hulladékfelvásárló Hulladékgyűjtő |
 
-| 14. | Bútorok javítása, újrakárpitozása, járművek ülőbútorainak készítése, épületek belső terének kárpitozása* | Kárpitos Bútorkárpitos Járműkárpitos | Kárpitos |
+| 17. | Meleg és hideg ételek, italok készítése (kivétel: külön jogszabályban meghatározott Büfétermékek elkészítése)* - az üzemelés teljes időtartama alatt jelen kell lennie egy szakképesítéssel rendelkező, azonnali intézkedésre feljogosított, felelős személynek * | Szakács | Szakács |
 
-| 15. | Műbútornak minősülő berendezések készítése, helyreállítása | Műbútorasztalos | Műbútorasztalos és restaurátor |
+| Vendéglátás-szervező, vendéglős Cukrász | Diétás szakács |
 
-4.3. NYOMDAIPAR
+|  | Vendéglős |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+|  | Cukrász |
 
-| 1. | Szitanyomtatással és filmnyomással kapcsolatos teendők ellátása** | Szita, tampon és filmnyomó | Szitanyomó, filmnyomó |
+|  | Étkezdés |
 
-| 2. | Kisofszetnyomógépek kezelése* | Nyomdai gépkezelő | Kisofszetgép-kezelő |
+|  | Mixer |
 
-| 3. | Kivágógépek kezelése, karbantartása* | Könyvkötő Nyomtatványfeldolgozó | Kivágógép-kezelő |
+| 18. | Meleg és hideg ételek, cukrászati készítmények, sütemények, fagylalt, italok kiszolgálása (kivétel: külön jogszabályban meghatározott Büfétermékek forgalmazása)* - az üzemelés teljes időtartama alatt jelen kell lennie egy szakképesítéssel rendelkező, azonnali intézkedésre feljogosított, felelős személynek | Vendéglátás-szervező, vendéglős | Vendéglős |
 
-| 4. | Mélynyomógépek üzemeltetésében való közreműködés* | Nyomdai gépkezelő | Mélynyomó segédgépmester |
+| Vendéglátó eladó | Vendéglátó-eladó |
 
-| 5. | Ofszet-, flexo-, magasnyomógépek segédgépmesteri teendőinek ellátása* | Gyorsnyomdai gépkezelő Nyomdai kezelő | Segédgépmester |
+| Pincér | Pincér |
 
-| 6. | Nyomdai gépek nyomóhordozóval való kiszolgálása* | Gyorsnyomdai gépkezelő Nyomdai kezelő | Nyomdai berakó |
+|  | Étkezdés |
 
-| 7. | Fényszedő gépek kezelése, szövegbevitel a tipográfiai előírásoknak megfelelően* | Kiadványszerkesztő | Nyomdai szövegrögzítő |
+|  | Gyorséttermi és ételeladó |
 
-| 8. | Nyomdai fénymásoló* | Gyorsnyomdai gépkezelő Nyomdai kezelő | Nyomdai fénymásoló |
+|  | Mixer |
 
-| 9. | Könyvkötészeti termékek előállítása kézi, gépi műveletekkel* | Könyvkötő | Kézi könyvkötő |
+| 19. | Cukrászati készítmények, sütemények, fagylalt készítése* - az üzemelés teljes időtartama alatt jelen kell lennie egy szakképesítéssel rendelkező, azonnali intézkedésre feljogosított, felelős személynek | Cukrász | Cukrász |
 
-| 10. | Nyomtatványoldalak kialakítása szedési, tördelési, tipográfiai szabályok figyelembevételével* | Kiadványszerkesztő | Szövegfeldolgozó |
+| Édesipari termékgyártó | Édesipari termékgyártó |
 
-| 11. | Tekercsnyomógépek üzemeltetése* | Nyomdai gépmester | Tekercsnyomó gépmester |
+| Pék | Cukorkagyártó |
 
-| 12. | Nyomóforma készítése | Nyomdaipari technikus Nyomóforma készítő | Nyomóforma-készítő |
+| Mézeskalács-készítő | Csokoládétermék-gyártó |
 
-| 13. | Könyvkötészeti termékek, nyomtatványok gépi feldolgozása* | Nyomtatványfeldolgozó Könyvkötő | Nagyüzemi könyvgyártó |
+|  | Kávé- és pótkávégyártó |
 
-| 14. | Nyomdai eredetik feldolgozása* | Kiadványszerkesztő Nyomdaipari technikus | Képfeldolgozó |
+|  | Keksz- és ostyagyártó |
 
-| 15. | Ívnyomógépek üzemeltetése* | Nyomdai gépmester | Ívnyomó gépmester |
+|  | Pék-cukrász |
 
-4.4. RUHAIPAR
+|  | Mézeskalács-készítő |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| 4.1. BŐRIPAR |  |  |
 
-| 1. | Férfiruha-készítés** | Férfiszabó | Férfiruha-készítő |
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
-| 2. | Fehérnemű-készítés** | Fehérnemű készítő | Kötőipari konfekciós, fehérnemű-készítő |
+| 1. | Bőr- és cipőipari termékek alkatrészeinek szabása* | Bőrfeldolgozóipari technikus Bőrdíszműves Cipőkészítő Cipőfelsőrész készítő Cipőgyártó Ortopédiai cipész | Cipész, cipőkészítő, cipőjavító Bőripari szabász |
 
-| 3. | Nőiruha-készítés** | Női szabó | Nőiruha-készítő |
+| 2. | Bőrdíszmű- és cipőfelsőrész- alkatrészek varrása* | Bőrdíszműves | Cipőfelsőrész készítő |
 
-| 4. | Gyermekruha-készítés** | Csecsemő- és gyermekruha-készítő | Gyermekruha-készítő |
+| Cipőkészítő Cipőfelsőrész készítő Cipőgyártó Ortopédiai cipész | Bőripari varrómunkás (tűző) |
 
-| 5. | Kalap- és sapkakészítés** | Kalapos, sapkakészítő | Kalapos és sapkakészítő |
+| 3. | Cipő alsó alkatrészek gépi megmunkálása* | Cipőkészítő Cipőgyártó Ortopédiai cipész | Cipőösszeállító Cipőipari gépkezelő |
 
-| 6. | Szériázás* | Ruhaipari technikus Csecsemő- és gyermekruha-készítő Férfiszabó Női szabó | Szériázó |
+| 4. | Meghibásodott lábbelik javítása* | Cipőkészítő Cipőgyártó | Cipész, Cipőkészítő, Cipőjavító |
 
-| 7. | Ruhadarabok kiszabása** | Szabász Csecsemő- és gyermekruha-készítő Férfiszabó Női szabó Ruhaipari technikus | Konfekcióipari szabász |
+| Ortopédiai cipész | Cipőösszeállító |
 
-| 8. | Lakástextil konfekcionálás** | Lakástextil készítő Csecsemő- és gyermekruha-készítő Férfiszabó Női szabó Ruhaipari technikus | Lakástextil varró és javító |
+| Bőrfeldolgozó-ipari technikus | Bőrfeldolgozó-ipari technikus |
 
-| 9. | Textiljáték-készítés* | Textiltermék összeállító Csecsemő- és gyermekruha-készítő Férfiszabó Női szabó Ruhaipari technikus | Textiljáték-készítő |
+| 5. | Szíjgyártó és nyerges termékek, szíjak, idomító felszerelések készítése, javítása* | Szíjgyártó és nyerges | Szíjgyártó és nyerges Szíjgyártó |
 
-| 10. | Jelmez- és alkalmiruha-készítés* | Csecsemő- és gyermekruha-készítő Férfiszabó Női szabó Ruhaipari technikus | Jelmez- és alkalmiruha-készítő |
+| 6. | Tartósított szőrmés bőrök kikészítése, készítése* |  | Tímár, bőrkikészítő |
 
-4.5. TEXTILIPAR
+| Bőrfeldolgozó-ipari technikus | Szőrmeipari megmunkáló, Szőrmefestő Szőrmekikészítő |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| 7. | Lábbelik készítése gépi műveletekkel* | Cipőkészítő | Cipész, cipőkészítő, Cipőjavító |
 
-| 1. | Fonás** | Fonó | Fonó |
+| Ortopédiai cipész |
 
-| 2. | Különböző hímzésfajták készítése kézzel és géppel | Kézi és gépi hímző | Kézi és gépi hímző |
+| Cipőfelsőrész készítő | Cipőfelsőrész készítő |
 
-| 3. | Kötés** | Kötő | Kötő |
+| Cipőgyártó |
 
-| 4. | Kötöttáru-készítés* | Kötő | Kötöttáru-készítő |
+|  | Cipőösszeállító Cipőgyártó |
 
-| 5. | Nemszőttkelme-készítés | Nemszőtt-termék gyártó | Nemszőttkelme-gyártó |
+| 8. | Kiegészítők készítése szőrmés bőrből* | Bőrdíszműves Bőrtárgy készítő Bőrfeldolgozó-ipari technikus | Szűcs, szőrme és bőrkonfekcionáló |
 
-| 6. | Gyapjúból, rongyból szőnyegek, tarisznyák, futók, gyapjútakarók, viseleti kiegészítők készítése, javítása** | Szőnyegszövő | Szőnyegszövő |
+| 9. | Táskák, apróáruk, bőröndök készítése* | Bőrdíszműves | Bőrdíszműves |
 
-| 7. | Szőnyegek, kárpitok kézi csomózása, szövése, javítása* | Szőnyegszövő | Szőnyegcsomózó |
+| 10. | Lábbelik készítése kézi műveletekkel* | Cipőkészítő Ortopédiai cipész | Cipész, Cipőkészítő, Cipőjavító |
 
-| 8. | Pamut, len és kender szőttesek szövése hagyományos takács szövőszéken* | Takács | Takács |
+| Cipőfelsőrész készítő | Cipőfelsőrész készítő |
 
-| 9. | Szövés** | Szövő | Szövő |
+| Cipőgyártó | Cipőösszeállító |
 
-| 10. | Zsinórkészítés | Fonó | Zsinórfonatoló |
+| 11. | Utcai, sport- és védőkesztyűk készítése, bőr felhasználásával* | Bőrdíszműves Kesztyűs | Kesztyűs |
 
-| 11. | Műstoppolás* | Szövő | Kelmejavító (műstoppoló) |
+| 12. | Tartósított bőrök cserzése, kikészítése* | Bőrfeldolgozó-ipari technikus | Tímár, bőrkikészítő |
 
-| 12. | Gombkötés, paszománykészítés* | Kötő | Paszományos és gombkötő |
+|  | Szőrmeipari megmunkáló, szőrmefestő |
 
-5. MŰSZAKI BIZTONSÁG
+| 13. | Cipőfelsőrész alkatrészek szabása, előkészítése és összeszerelése* | Cipőkészítő Ortopédiai cipész | Cipőfelsőrész-készítő |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| Cipőfelsőrész készítő | Cipész, Cipőkészítő, |
 
-| 1. | PB lefejtő és töltőberendezések kezelése, palackok töltése és lefejtése*** | Propán-bután-gáz-lefejtő és töltőberendezés kezelő szaktanfolyami képzettség | Propánbután-gázlefejtő és töltőberendezés kezelő |
+|  | Cipőjavító |
 
-| 2. | PB cseretelep kezelése* | Töltőállomás-kezelő Gázcseretelep-kezelő | PB-cseretelep-kezelő |
+| 14. | Bőrdíszműipari tárgyak tervezése, szabásmintáinak készítése* | Bőrdíszműves Bőrfeldolgozó-ipari technikus | Bőrdíszműipari mintakészítő |
 
-| 3. | Ipari robbanóanyagraktár kezelése*** | Robbanóanyagraktár kezelő szaktanfolyami képzettség | – |
+| 15. | Cipőipari termékek tervezése, minták elkészítése* | Cipőkészítő Cipőfelsőrész készítő Cipőgyártó Ortopédiai cipész | Cipész, cipőkészítő, cipőjavító |
 
-| 4. | Ipari robbantási tevékenység tervezése, kivitelezése, irányítása, ellenőrzése | Épületrobbantó mester Épületrobbantó mester Bányászati robbantómester | Robbantásvezető |
+| Bőrfeldolgozóipari technikus | Bőrfeldolgozó-ipari technikus Cipőipari mintakészítő |
 
-| 5. | Sújtólég- és robbanásbiztos villamos berendezések kezelése | Robbanásbiztos berendezés kezelője | Sújtólég- és robbanásbiztos villamos berendezés kezelő |
+| 16. | Kesztyűipar területén szükséges alapvető minták elkészítése** | Bőrdíszműves Kesztyűs | Kesztyűs Kesztyűipari mintakészítő |
 
-| 6. | Sújtólég- és robbanásbiztos villamos berendezések tervezése, kivitelezése, üzemeltetése*** | Robbanásbiztonság-technikai tanfolyami képzés szaktanfolyami képzettség | – |
+| 17. | Felsőruházat készítése bőrből* | Női szabó | Bőrruha-készítő, -javító |
 
-| 7. | Sújtólég- és robbanásbiztos villamos berendezések kezelőinek és javítóinak műszaki vezetője*** | Robbanásbiztos műszaki vezetői szaktanfolyami képzettség | – |
+| Férfiszabó |
 
-| 8. | Építési anyagelőkészítő gépek kezelése | Építési anyagelőkészítő gép kezelője | Építőgép-kezelő és -karbantartó, Könnyűgépkezelő, Nehézgépkezelő |
+| 4.2. FAIPAR |  |  |
 
-| 9. | Emelőgép kezelése | Emelőgépkezelő | Könnyűgépkezelő, Nehézgépkezelő |
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
-| 10. | Energiaátalakító-berendezés kezelése | Energiaátalakító-berendezés kezelője | Könnyűgépkezelő |
+| 1. | Fényezési, pácolási eljárások végzése, lakkszóró-, lakköntőgépek kezelése* | Asztalos | Bútorasztalos |
 
-| 11. | Földmunkagép kezelése | Földmunkagép-kezelő | Nehézgépkezelő |
+| Műbútorasztalos | Fa- és bútoripari gépkezelő |
 
-| 12. | Targoncavezetés | Targoncavezető | Könnyűgépkezelő |
+|  | Műbútorasztalos Asztalosipari felületkezelő |
 
-| 13. | Útépítőgép-kezelő | Útépítőgép-kezelő | Nehézgépkezelő |
+| 2. | Mobil és beépített bútorok, mozgó alkatrészek, falburkolatok, válaszfalak, nyílászáró szerkezetek szerelése, javítása, cseréje* | Asztalos | Bútorasztalos |
 
-| 14. | Emelőgép-ügyintézői tevékenység végzése | Emelőgép-ügyintéző | Emelőgép-ügyintéző |
+| Asztalosipari szerelő | Asztalosipari szerelő |
 
-| 15. | Csatlakozó vezeték és felhasználói berendezés, fogyasztói vezeték és gázfogyasztó készülék létesítése, karbantartása, javítása | Gázfogyasztó berendezés csőhálózat- szerelő Gáz- és tüzeléstechnikai műszerész | Gázvezeték- és -készülék szerelő |
+| 3. | Famegmunkáló gépeken faipari termékek előállítása* | Asztalos | Bútorasztalos |
 
-| 16. | Gázüzemű emelőtargonca, rakodógép, mezőgazdasági és erdészeti traktor, közúti járműnek nem minősülő kerekes jármű gáz-üzemanyag-ellátó berendezésének beszerelése, beszabályozása, hibás berendezés javítása | Autószerelő Gázautószerelő | Gázautószerelő |
+| Faipari gépkezelő | Fa- és bútoripari gépkezelő |
 
-| 17. | Fémhegesztő munkák végzése meghatározott eljárással (gáz, ív, fogyóelektródás ív stb.)* | Hegesztő Bevontelektródás hegesztő Egyéb eljárás szerinti hegesztő Fogyóelektródás hegesztő Gázhegesztő Hegesztő-vágó gép kezelője Volframelektródás hegesztő | Eljárás szerinti hegesztő (az eljárás megjelölésével) |
+| Famegmunkáló | Faipari gépmunkás |
 
-| 18. | Műanyaghegesztő munkák végzése meghatározott eljárással (tompa, tokos, elektrofúziós stb.)* | Műanyag hegesztő, hőformázó | Műanyaghegesztő (az eljárás feltüntetésével |
+|  | Faesztergályos |
 
-| 19. | Polgári pirotechnikai termékek gyártásának irányítása, működtetése* | Pirotechnikus (terméküzemeltető szakirány) | Pirotechnikus |
+|  | Fatermékgyártó |
 
-6. NEHÉZIPAR
+| 4. | Faaljzatok, alapépítmények készítése* | Asztalos | Épületasztalos |
 
-6.1. FÉMMEGMUNKÁLÁS, KOHÁSZAT
+| Famegmunkáló | Famegmunkáló Fapadlózó és -burkoló |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| 5. | Faipari tömegcikkek készítése* | Asztalos | Bútorasztalos |
 
-| 1. | Fémmegmunkálás* | Esztergályos Gépi forgácsoló Fogazó CNC-forgácsoló Szerszámkészítő Szikraforgácsoló Fémnyomó Fémipari megmunkálógépsor és berendezés üzemeltető Köszörűs Fűrészipari szerszámélező Marós | Esztergályos Fémforgácsoló Gyalus-vésős NC-, CNC-gépkezelő Szerszámkészítő Fémnyomó Köszörűs Szerszámélező Marós |
+| Faipari gépkezelő | Faesztergályos |
 
-| 2. | Ipari gép, berendezés javítása * | Géplakatos Építő-és szállítógép-szerelő Finommechanikai műszerész Finommechanikai gépkarbantartó, gépbeállító | Géplakatos |
+| Famegmunkáló | Fatermékgyártó Fatömegcikk- és -eszközgyártó |
 
-| 3. | Fémszerkezet gyártása* | Szerkezetlakatos | Szerkezetlakatos |
+| 6. | Bútorok, nyílászárók, burkolatok, belsőépítészeti munkák készítése* | Asztalos | Bútorasztalos Asztalos |
 
-| 4. | Szerszámgyártás* | Szerszámkészítő | Szerszámkészítő |
+| 7. | Fából készült szerszámok, szerszámnyelvek és különböző faeszközök készítése, javítása | Kádár, bognár | Bognár |
 
-| 5. | Fémöntés, formázó anyagok, öntőszerszámok, gépi berendezések használata* | Öntő Öntőtechnikus | Öntő |
+| 8. | Fából és műanyagból különféle hajótestek, felszerelések, berendezések készítése, karbantartása, javítása | Kishajóépítő, -karbantartó | Csónaképítő |
 
-6.2. GÉPSZERELÉS, -KEZELÉS
+| 9. | Fából, ipari, lakberendezési, iparművészeti, háztartási cikkek, dísztárgyak és egyéb esztergályozással előállítható cikkek készítése* | Asztalos | Bútorasztalos |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| Faipari gépkezelő | Faesztergályos |
 
-| 1. | Vízvezeték- és vízkészülék szerelés* | Vízvezeték- és vízkészülék szerelő | Vízvezeték- és központifűtés-szerelő |
+| 10. | Fából készült hordók, edények, eszközök előállítása, javítása kézi munkával | Kádár, bognár | Kádár |
 
-| 2. | Központifűtés- és csőhálózat-szerelés* | Központifűtés- és csőhálózat-szerelő | Vízvezeték- és központifűtés-szerelő |
+| 11. | Bútorok javítása, újrakárpitozása, járművek ülőbútorainak készítése, épületek belső terének kárpitozása* | Kárpitos | Kárpitos |
 
-| 3. | Hűtő- és klímaberendezés-szerelés, karbantartás* | Hűtő- és klímaberendezés-szerelő, karbantartó | Szellőző- és klímaberendezés szerelő Ipari és kereskedelmi hűtőgép szerelő Hűtőgépkezelő |
+|  | Bútorkárpitos |
+
+|  | Járműkárpitos |
+
+| 12. | Műbútornak minősülő berendezések készítése, helyreállítása | Műbútorasztalos | Műbútorasztalos Műbútorasztalos és restaurátor |
+
+| 4.3. NYOMDAIPAR |  |  |
+
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
+
+| 1. | Szitanyomtatással és filmnyomással kapcsolatos teendők ellátása** | Nyomdaipari gépmester | Szita-, tampon- és filmnyomó Szitanyomó, filmnyomó |
+
+| 2. | Kisofszetnyomógépek kezelése* | Nyomdaipari gépmester | Nyomdai gépkezelő Kisofszetgép-kezelő |
+
+| 3. | Kivágógépek kezelése, karbantartása* | Könyvkötő és nyomtatvány-feldolgozó | Könyvkötő |
+
+| Nyomdaipari gépmester | Nyomtatványfeldolgozó |
+
+|  | Kivágógép-kezelő |
+
+| 4. | Mélynyomógépek üzemeltetésében való közreműködés* | Nyomdaipari gépmester | Nyomdai gépkezelő Mélynyomó segédgépmester |
+
+| 5. | Ofszet-, flexo-, magasnyomógépek segédgépmesteri teendőinek ellátása* | Nyomdaipari gépmester | Gyorsnyomdai gépkezelő |
+
+|  | Nyomdai kezelő Segédgépmester |
+
+| 6. | Digitális nyomógépek kezelése | Nyomdaipari gépmester Nyomdaipari technikus |  |
+
+| 7. | Gyártáselőkészítő, kalkulátor | Kiadványszerkesztő Nyomdaipari technikus | - |
+
+| 8. | Korrektor, revizor | Korrektor | - |
+
+| 9. | Könyvkötészeti termékek előállítása kézi, gépi műveletekkel* | Könyvkötő és nyomtatványfeldolgozó Kézi könyvkötő | Könyvkötő |
+
+| 10. | Nyomtatványoldalak kialakítása szedési, tördelési, tipográfiai szabályok figyelembevételével* | Kiadványszerkesztő | Kiadványszerkesztő Szövegfeldolgozó |
+
+| 11. | Tekercsnyomógépek üzemeltetése* | Nyomdaipari gépmester | Nyomdai gépmester Tekercsnyomó gépmester |
+
+| 12. | Nyomóforma készítése | Nyomdaipari technikus Kiadványszerkesztő Nyomdaipari gépmester | Nyomdaipari technikus Nyomóforma készítő |
+
+| 13. | Könyvkötészeti termékek, nyomtatványok gépi feldolgozása* | Könyvkötő és nyomtatványfeldolgozó | Nyomtatványfeldolgozó Nagyüzemi könyvgyártó |
+
+|  | Könyvkötő |
+
+| 14. | Nyomdai eredetik feldolgozása* | Kiadványszerkesztő | Kiadványszerkesztő Képfeldolgozó |
+
+| Nyomdaipari technikus | Nyomdaipari technikus |
+
+| 15. | Ívnyomógépek üzemeltetése* | Nyomdaipari gépmester | Nyomdai gépmester Ívnyomó gépmester |
+
+| 4.4. RUHAIPAR |  |  |
+
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
+
+| 1. | Férfiruha-készítés** | Férfiszabó | Férfiszabó Férfiruha-készítő |
+
+| Ruhaipari technikus |
+
+| 2. | Fehérnemű-készítés** | Fehérnemű-készítő és kötöttáru összeállító | Fehérnemű készítő Kötőipari konfekciós |
+
+| 3. | Nőiruha-készítés** | Női szabó | Női szabó Nőiruha-készítő |
+
+| Ruhaipari technikus |
+
+| 4. | Gyermekruha-készítés** | Női szabó | Csecsemő- és gyermekruha-készítő |
+
+| Férfiszabó | Gyermekruha-készítő |
+
+| Ruhaipari technikus |  |
+
+| 5. | Szériázás* | Ruhaipari technikus | Ruhaipari technikus |
+
+| Férfiszabó | Csecsemő- és gyermekruha-készítő |
+
+| Női szabó | Férfiszabó Szériázó |
+
+|  | Női szabó |
+
+| 6. | Ruhadarabok kiszabása** | Női szabó | Szabász |
+
+| Férfiszabó | Konfekcióipari szabász |
+
+| Ruhaipari technikus | Csecsemő- és gyermekruha-készítő |
+
+|  | Férfiszabó |
+
+|  | Női szabó |
+
+|  | Ruhaipari technikus |
+
+| 4.5. TEXTILIPAR |  |  |
+
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
+
+| 1. | Fonás, zsinórfonás* | Fonó | Zsinórfonatoló |
+
+| 2. | Kötés* | Textilanyaggyártó Kötő | Kötő |
+
+| 3. | Kötöttáru-készítés* | Textilanyag gyártó Kötő Fehérnemű készítő és kötöttáru összeállító | Kötő Kötöttáru-készítő |
+
+| 4. | Nemszőtt-kelme készítése | Nemszőtt-termék gyártó | Nemszőtt-termék gyártó |
+
+| 5. | Szövés* | Textilanyaggyártó Szövő | Szövő |
+
+| 5. MŰSZAKI BIZTONSÁG |  |  |
+
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
+
+| 1. | PB lefejtő és töltőberendezések kezelése, palackok töltése és lefejtése*** | Töltőállomás-kezelő Nyomástartóedény-gépész | Propán-bután-gáz-lefejtő és töltőberendezés kezelő szaktanfolyami képzettség |
+
+| 2. | Robbanásbiztos berendezések kezelése* | Robbanásbiztos berendezés kezelője |  |
+
+| 3. | Robbanásbiztos berendezések karbantartása javítása, szerelése és üzembehelyezése*** | Robbanásbiztos berendezés karbantartói és üzembehelyezői szaktanfolyami képzettség | Robbanásbiztonság-technikai tanfolyami képzés szaktanfolyami képzettség |
+
+| 4. | Robbanásbiztos berendezések tervezése,karbantartóinak és javítóinak műszaki vezetője*** | Robbanásbiztos műszaki vezetői szaktanfolyami végzettség | Robbanásbiztos műszaki vezetői szaktanfolyami képzettség |
+
+| 5. | Építési anyagelőkészítő gépek kezelése | Építő- és anyagmozgató gép kezelője (a szakmairány megjelölésével) | Építési anyagelőkészítő gép kezelője Építőgép-kezelő és -karbantartó, Könnyűgépkezelő, Nehézgépkezelő |
+
+| 6. | Emelőgépek kezelése (kivéve targoncák) | Építő- és anyagmozgató gép kezelője (a szakmairány megjelölésével) | Emelőgépkezelő Könnyűgépkezelő, Nehézgépkezelő |
+
+| 7. | Energiaátalakító-berendezések kezelése | Építő- és anyagmozgató gép kezelője (a szakmairány megjelölésével) | Energiaátalakító-berendezés kezelője Könnyűgépkezelő |
+
+| 8. | Földmunka-, rakodó- és szállítógépek kezelése | Építő- és anyagmozgató gép kezelője (a szakmairány megjelölésével) | Földmunkagép-kezelő Nehézgépkezelő |
+
+| 9. | Targoncavezetés | Építő- és anyagmozgató gép kezelője (a szakmairány megjelölésével) | Targoncavezető Könnyűgépkezelő |
+
+| 10. | Útépítőgépek kezelése | Építő- és anyagmozgató gép kezelője (a szakmairány megjelölésével) | Útépítőgép-kezelő Nehézgépkezelő |
+
+| 11. | Alapozás, közmű- és fenntartási gépek kezelése | Építő- és anyagmozgató gép kezelője (a szakmairány megjelölésével) | - |
+
+| 12. | Emelőgép-ügyintézői tevékenység végzése | Emelőgép-ügyintéző | Emelőgép-ügyintéző |
+
+| 13. | Gázüzemű emelőtargonca, rakodógép, mezőgazdasági és erdészeti traktor, közúti járműnek nem minősülő kerekes jármű gáz-üzemanyag-ellátó berendezésének beszerelése, beszabályozása, hibás berendezés javítása | Gázautószerelő | Autószerelő |
+
+| Gázautószerelő |
+
+| 14. | Fémhegesztő munkák végzése meghatározott eljárással (gáz, ív, fogyóelektródás ív stb.)* | Hegesztő | Hegesztő |
+
+| Bevontelektródás kézi ívhegesztő | Bevontelektródás hegesztő |
+
+| Fogyóelektródás védőgázas ívhegesztő | Egyéb eljárás szerinti hegesztő |
+
+| Gázhegesztő | Fogyóelektródás hegesztő |
+
+|  | Gázhegesztő |
+
+|  | Hegesztő-vágó gép kezelője |
+
+|  | Volframelektródás hegesztő |
+
+| 15. | Műanyaghegesztő munkák végzése meghatározott eljárással (tompa, tokos, elektrofúziós stb.)* | Műanyaghegesztő | Műanyag hegesztő, hőformázó |
+
+| 16. | Polgári pirotechnikai termékek gyártásának irányítása, működtetése* | Pirotechnikus | Pirotechnikus (terméküzemeltető szakirány) |
+
+| 6.1. FÉMMEGMUNKÁLÁS, KOHÁSZAT |  |  |
+
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
+
+| 1. | Fémmegmunkálás* | Gépi forgácsoló | Esztergályos |
+
+| CNC gépkezelő | Gépi forgácsoló Fémforgácsoló |
+
+| Szerszámkészítő | Fogazó Gyalus-vésős |
+
+|  | CNC-forgácsoló NC-, CNC-gépkezelő |
+
+|  | Szerszámkészítő Szerszámélező |
+
+|  | Szikraforgácsoló |
+
+|  | Fémnyomó |
+
+|  | Fémipari megmunkálógépsor és berendezés üzemeltető |
+
+|  | Köszörűs |
+
+|  | Fűrészipari szerszámélező |
+
+|  | Marós |
+
+| 2. | Ipari gép, berendezés javítása * |  | Géplakatos |
+
+| Ipari gépész | Építő- és szállítógép-szerelő |
+
+| Finommechanikai műszerész | Finommechanikai műszerész |
+
+|  | Finommechanikai gépkarbantartó, gépbeállító |
+
+| 3. | Fémszerkezet gyártása* | Épület- és szerkezetlakatos | Szerkezetlakatos |
+
+| 4. | Szerszámgyártás* | Szerszámkészítő | - |
+
+| 5. | Fémöntés, formázó anyagok, öntőszerszámok, gépi berendezések használata* | Olvasztár és öntő | Öntő |
+
+| Kohászati technikus | Öntőtechnikus |
+
+| 6.2. GÉPSZERELÉS, -KEZELÉS |  |  |
+
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
+
+| 1. | Vízvezeték- és vízkészülék szerelés* | Víz-, csatorna- és közmű- rendszerszerelő | Vízvezeték- és vízkészülék szerelő Vízvezeték- és központifűtés-szerelő |
+
+| 2. | Központifűtés- és csőhálózat-szerelés* | Központi fűtés- és gázhálózat rendszerszerelő | Központifűtés- és csőhálózat-szerelő |
+
+| Csőhálózat-szerelő | Vízvezeték- és központifűtés-szerelő |
+
+| 3. | Hűtő- és klímaberendezés-szerelés, karbantartás* | Hűtő- és légtechnikai rendszerszerelő | Hűtő- és klímaberendezés-szerelő, karbantartó |
+
+| Hűtő-, klíma- és hőszivattyú berendezés-szerelő | Szellőző- és klímaberendezés szerelő |
+
+|  | Ipari és kereskedelmi hűtőgép szerelő |
+
+|  | Hűtőgépkezelő |
 
 | 4. | Felvonószerelés | Felvonószerelő | Felvonószerelő |
 
-| 5. | Kerékpár, mozgássérültkocsi gyártása* | Kerékpárszerelő | Kerékpárszerelő |
+| 5. | Kerékpár, mozgássérültkocsi szerelése* | Kerékpárszerelő | Kerékpárszerelő |
 
-| 6. | Kompresszorok, légtartályok, szivattyúk üzemeltetése, kivéve a fluidumbányászati és szállítóvezetékek berendezéseit | Kompresszorkezelő | Kompresszor-, légtartály- és szivattyúkezelő |
+| 6. | Kompresszorok, légtartályok, szivattyúk üzemeltetése, kivéve a fluidumbányászati és szállítóvezetékek berendezéseit | Hűtéstechnikai berendezés üzemeltető | Kompresszorkezelő Kompresszor-, légtartály- és szivattyúkezelő |
 
-| 7. | Motorkerékpár, -alkatrész javítása* | Motorkerékpárszerelő | Motorkerékpár-szerelő |
+| 7. | Motorkerékpár, -alkatrész javítása* | Motorkerékpár-szerelő | Motorkerékpárszerelő |
 
-7. NEM FIZIKAI FOGLALKOZÁS
+| 7. NEM FIZIKAI FOGLALKOZÁS |  |  |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
 | 1. | Gépipari minőség-ellenőrzés (rögzített minőségi kritériumok ellenőrzése, eltérések dokumentálása, javító intézkedések kezdeményezése) | Gépipari minőségellenőr | Minőségellenőr |
 
-| 2. | Építőanyagipari minőségellenőrzés (rögzített minőségi kritériumok ellenőrzése, eltérések dokumentálása, javító intézkedések kezdeményezése) | Építőanyagipari minőségellenőr | Minőségellenőr |
+| 2. | Építőanyag-ipari minőségellenőrzés (rögzített minőségi kritériumok ellenőrzése, eltérések dokumentálása, javító intézkedések kezdeményezése) | Építőanyag-ipari minőségellenőr | Minőségellenőr |
 
 | 3. | Közraktár vezetője | Közgazdasági, állam- és jogtudományi, agrártudományi egyetemi vagy főiskolai végzettség | Közgazdasági, állam- és jogtudományi, agrártudományi egyetemi vagy főiskolai végzettség |
 
-8. SZOLGÁLTATÓIPAR
+| 8. SZOLGÁLTATÓIPAR |  |  |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
 | 1. | Aktuális divatirányzatnak, alkalomnak megfelelő frizura és hajszín készítése | Fodrász | Fodrász |
 
 | 2. | Az egészséges test és bőr kozmetikai célú kezelése, ápolása, masszírozása, szépséghibáinak megszüntetése. Elektromos kezelések, szőrtelenítés, tartós make-up (tetoválás) | Kozmetikus | Kozmetikus |
 
-| 3. | Kéz- és lábápolás, műkörömépítés | Kéz- és lábápoló, műkörömépítő | Kéz- lábápoló, műkörömépítő |
+| 3. | Kézápolás és műkörömépítés | Kézápoló és műkörömépítő | Kéz- és lábápoló, műkörömépítő |
 
-| 4. | Fénykép- és videofelvételek készítése kidolgozása, és fotótermékek értékesítése* | Fényképész és fotótermék kereskedő | Fényképész |
+| 4. | Lábápolás | Lábápoló | Kéz- és lábápoló, műkörömépítő |
 
-| 5. | Időmérő eszközök javítása, új órák értékesítése | Órás | Órás |
+| 5. | Lábon kialakult elváltozások speciális pedikűrös kezelése, a láb állapotának rehabilitálása | Speciális lábápoló | - |
 
-| 6. | Üveg, valamint műanyag alapanyagokból szemüveglencsék készítése* | Optikai üvegcsiszoló | Optikai üvegcsiszoló |
+| 6. | Fénykép- és videófelvételek készítése kidolgozása és fotótermékek értékesítése* | Fotográfus és fotótermék-kereskedő | Fényképész és fotótermék- kereskedő Fényképész |
 
-| 7. | Dísz- és használati tárgyak készítése népi hagyományok alapján* | Népi kézműves | – |
+| 7. | Időmérő eszközök javítása, új órák értékesítése* | Órás | Órás |
 
-| 8. | Hagyományos „cserép” tárgyak készítése, értékesítése | Fazekas | Fazekas |
+| 8. | Üveg, valamint műanyag alapanyagokból szemüveglencsék készítése* | Optikai üvegcsiszoló | Optikai üvegcsiszoló |
 
-| 9. | Nemesfémből készült ékszerek, használati tárgyak készítése, díszítése, javítása* | Ötvös Aranyműves Cizellőr Drágakőfoglaló Ezüstműves Fémműves Lánckészítő | Ötvös |
+| 9. | Nemesfémből készült ékszerek, használati tárgyak készítése, díszítése, javítása* |  | Ötvös |
 
-| 10. | Kések, ollók és egyéb szerszámok élező köszörülése, nagyoló, tisztító, daraboló köszörülés palástköszörülési, furatköszörülési, síkköszörülési móddal* | Késes, köszörűs, kulcsmásoló | Késes és köszörűs |
+|  | Aranyműves |
 
-| 11. | Kefe-, ecset- és seprűkészítés, értékesítés | Seprű- és kefegyártó | Seprű- és kefegyártó |
+|  | Cizellőr |
 
-| 12. | Vesszőből, szálasanyagból dísz- és használati tárgyak készítése, hagyományos magyar népművészeti kincs és technika alapján | Kosárfonó és fonottbútor-készítő | Kosárfonó és fonottbútor-készítő |
+| Ötvös, fémműves | Drágakőfoglaló |
 
-| 13. | Hangszer-, ékszer-, műszertokok és díszdobozok készítése* | Bőrdíszműves Fatermékgyártó | Bőrdíszműves Fatermékgyártó |
+|  | Ezüstműves |
 
-| 14. | Vegytisztítás, textiltisztítás** | Vegytisztító, kelmefestő, mosodás | Vegytisztító, kelmefestő, mosodás |
+|  | Fémműves |
 
-9. VEGYIPAR
+|  | Lánckészítő |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| 10. | Vegytisztítás, textiltisztítás* | Textiltisztító és textilszínező | Vegytisztító, kelmefestő, mosodás |
+
+| 9. VEGYIPAR |  |  |
+
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
 | 1. | Galvanizálás* | Galvanizáló | Galvanizáló |
 
-| 2. | Gumigyártás, gumifeldolgozás* | Abroncsgyártó Formacikk-gyártó Ipari gumitermék előállító | Gumigyártó és -feldolgozó |
+| 2. | Gumigyártás, gumifeldolgozás* | Abroncsgyártó |  |
 
-| 3. | Műanyagfeldolgozás* | Műanyag-feldolgozó Egyéb műanyagtermék gyártó Fröccsöntőgép-kezelő Hőre keményedő műanyagok feldolgozója Műanyag hegesztő, hőformázó Műanyagextruder-kezelő | Műanyag-feldolgozó |
+| Formacikk-gyártó Gumiipari technikus | Gumigyártó és -feldolgozó |
 
-| 4. | Kőolaj-feldolgozás* | Kőolaj- és vegyipari géprendszer üzemeltetője | Kőolaj-feldolgozó |
+| Ipari gumitermék előállító |  |
+
+| 3. | Műanyagfeldolgozás* | Műanyagfeldolgozó | Műanyag-feldolgozó |
+
+| Fröccsöntő | Egyéb műanyagtermék gyártó |
+
+| Műanyag hegesztő | Fröccsöntőgép-kezelő |
+
+| Műanyagfeldolgozó technikus | Hőre keményedő műanyagok feldolgozója |
+
+|  | Műanyag hegesztő, hőformázó |
+
+|  | Műanyagextruder-kezelő |
+
+| 4. | Kőolaj-feldolgozás* | Fluidumkitermelő Fluidumkitermelő technikus | Kőolaj- és vegyipari géprendszer üzemeltetője Kőolaj-feldolgozó |
 
 | 5. | Fotóanyaggyártás* | Vegyipari technikus | Fotóanyaggyártó |
 
 | 6. | Lakk- és festékgyártás* | Vegyipari technikus | Lakk- és festékgyártó |
 
-| 7. | Szénsavtermelés és -feldolgozás | Szikvíz- és szénsav üdítőital-készítő Szikvízgyártó Üdítőital- és ásványvízgyyártó | Szénsavtermelő és -feldolgozó |
+| 7. | Szénsavtermelés és -feldolgozás |  | Szikvíz- és szénsav üdítőital-készítő |
+
+| Üdítőital-ipari termékgyártó | Szikvízgyártó Szénsavtermelő és - feldolgozó |
+
+|  | Üdítőital- és ásványvízgyyártó |
 
 | 8. | Biolaboráns tevékenység* | Biotechnológus technikus | Biolaboráns |
 
-| 9. | Gyógyszerhatóanyag-gyártás* | Gyógyszer-készítménygyártó Gyógyszeripari laboratóriumi technikus Farmakológus Farmakológus szakaszisztens | Gyógyszerhatóanyag-gyártó |
+| 9. | Gyógyszerhatóanyag-gyártás* | Gyógyszerkészítmény gyártó | Gyógyszer-készítménygyártó Gyógyszerhatóanyag-gyártó |
 
-| 10. | Gyógyszer- és tápszerkészítés* | Gyógyszeripari laboratóriumi technikus Farmakológus Farmakológus szakaszisztens | Gyógyszer- és tápszerkészítő |
+| Gyógyszeripari laboratóriumi technikus | Gyógyszeripari laboratóriumi technikus |
+
+|  | Farmakológus |
+
+|  | Farmakológus szakasszisztens |
+
+| 10. | Gyógyszer- és tápszerkészítés* |  | Gyógyszeripari laboratóriumi technikus |
+
+| Gyógyszerkészítmény gyártó | Gyógyszer- és tápszerkészítő |
+
+| Gyógyszeripari laboratóriumi technikus | Farmakológus |
+
+|  | Farmakológus szakasszisztens |
 
 | 11. | Vegyianyaggyártó* | Vegyianyaggyártó | Vegyianyaggyártó |
 
 | 12. | Növényvédőszer-gyártás* | Vegyipari technikus | Növényvédőszer-gyártó |
 
-| 13. | Robbanóanyag-gyártás* | Épületrobbantó-mester Bányászati robbantómester | Robbanóanyag-gyártó |
+| 13. | Drogok és toxikus anyagok előállítása, vizsgálata* | Drog- és toxikológiai technikus | Drog- és toxikológiai technikus |
 
-| 14. | Drogok és toxikus anyagok előállítása, vizsgálata* | Drog- és toxikológiai technikus Drog- és toxikológiai laboratóriumi technikus | Drog- és toxikológiai technikus |
+|  | Drog- és toxikológiai laboratóriumi technikus |
 
-| 15. | Vegyipari termékek minőségbiztosítása* | Vegyipari minőségbiztosítási technikus | Vegyipari minőségbiztosítási technikus |
+| 14. | Laboratóriumi műveletek végzése* | Általános laboráns | Vegyészlaboráns |
 
-| 16. | Laboratóriumi műveletek végzése* | Általános laboráns | Vegyészlaboráns |
+| 15. | Textilfestés és -kikészítés* | Textiltisztító és textilszínező | Textilszínező és -kikészítő Textilfestő és -kikészítő |
 
-| 17. | Textilfestés és -kikészítés* | Textilszínező és -kikészítő | Textilfestő és -kikészítő |
+| 16. | Kozmetikumok előállítása* | Vegyipari technikus | Kozmetikai termékgyártó |
 
-| 18. | Kékfestés* | Vegyipari technikus | Kékfestő |
+| 17. | Robbanóanyagok szállítása | Pirotechnikus | Robbanóanyag-szállítmány kísérő |
 
-| 19. | Kozmetikumok előállítása* | Vegyipari technikus | Kozmetikai termékgyártó |
+| Pirotechnikus-raktárkezelő szakirány |  |
 
-| 20. | Robbanónyagok szállítása | Pirotechnikus (raktárkezelő szakirány) | Robbanóanyag-szállítmány kísérő |
+| 18. | Biológiai termékek előállítása* | Biotechnikus technológus | Ipari biológiai termékgyártó |
 
-| 21. | Biológiai termékek előállítása* | Biotechnikus technológus | Ipari biológiai termékgyártó |
+| 19. | Gyógynövényipari termékek előállítása* | Drog- és toxikológiai technikus | Gyógynövényipari technikus |
 
-| 22. | Gyógynövényipari termékek előállítása* | Drog- és toxikológiai technikus | Gyógynövényipari technikus |
+| 10. VILLAMOSENERGIA IPAR |  |  |
 
-10. VILLAMOSENERGIA IPAR
+|  | A) Tevékenység | B) Választható szakképesítések (a 150/2012. (VII. 6.) Korm. rendelet szerinti Országos Képzési Jegyzék alapján) | C) Korábbi jogszabályban előírt szakképesítés |
 
-|  | A) Tevékenység | B) Választható szakképesítések az Országos Képzési Jegyzék szerint | C) E rendelet hatálybalépését megelőzően az egyes ipari, kereskedelmi és idegenforgalmi tevékenységek gyakorlásához szükséges képesítésekről szóló 5/1997. (III. 5.) IKIM rendelet mellékletében előírt szakképesítés |
+| 1. | Villamos gépek és készülékek karbantartása, üzemeltetése, telepítése |  | Elektrolakatos és villamossági szerelő |
 
-| 1. | Villamos gépek és készülékek karbantartása, üzemeltetése, telepítése | Elektrolakatos és villamossági szerelő Elektromos gép és készülék szerelő Villamosgép és készülék üzemeltető Háztartási gépgyártó | Villamosgép- és -készülék szerelő |
+| Elektromos gép- és készülékszerelő | Elektromos gép és készülék szerelő |
 
-| 2. | Épületek erősáramú és gyengeáramú áramköreinek kivitelezése, javítása, karbantartása | Villanyszerelő Elektrotechnikai technikus Erősáramú elektrotechnikus | Villanyszerelő, vagy villamosgép és berendezés technikus, vagy elektrotechnikai technikus |
+| Villamosgép és -készülék üzemeltető | Villamosgép és készülék üzemeltető |
 
-| 3. | Kis- és nagyfeszültségű villamos hálózatok* tartószerkezeteinek szerelése, kábelfektetés, kábelek szerelésre való előkészítése | Villamoshálózat -szerelő, -üzemeltető Villamos távvezeték építő és karbantartó Villamos hálózat és alállomás üzemeltető | Áramszolgáltatói hálózatszerelő |
+|  | Háztartási gépgyártó |
 
-| 4. | Fogyasztásmérők javítása, szabályozása, hitelesítése | Villamoshálózat-szerelő, -üzemeltető | Villamosművi fogyasztásmérő-javító, -szabályozó |
+| 2. | Épületek erősáramú és gyengeáramú áramköreinek kivitelezése, javítása, karbantartása | Villanyszerelő | Villanyszerelő |
 
-| 5. | Lakó- és kommunális épületek, ipari létesítmények érintésvédelmi vizsgálata | Érintésvédelmi, erősáramú berendezés szabványossági felülvizsgáló | Villámvédelem felülvizsgálója |
+| Elektronikai technikus | Elektrotechnikai technikus |
 
-| 6. | Erősáramú berendezések felülvizsgálása, minősítő nyilatkozat megtétele | Erősáramú berendezések időszakos felülvizsgálója | Erősáramú berendezések időszakos felülvizsgálója |
+| Erősáramú elektrotechnikus | Erősáramú elektrotechnikus |
 
-| 7. | Lakó, kommunális és ipari létesítmények villámvédelmi berendezésének felülvizsgálata | Villámvédelmi felülvizsgáló | Villámvédelem felülvizsgálója |
+| 3. | Kis- és nagyfeszültségű villamos hálózatok* tartószerkezeteinek szerelése, kábelfektetés, kábelek szerelésre való előkészítése | Villamoselosztóhálózat -szerelő, -üzemeltető | Villamoshálózat -szerelő, -üzemeltető Áramszolgáltatói hálózatszerelő |
 
-| 8. | Nagy-, közép- és kisfeszültségű villamos berendezéseken feszültség alatti munkavégzés | FAM-szerelő (feszültség megjelölésével) | FAM-szerelő |
+| Villamos távvezeték építő, üzemeltető | Villamos távvezeték építő és karbantartó |
 
-| 9. | Közép- és kisfeszültségű kábelhálózatok szerelése, javítása | Kábelszerelő (a feszültségszint megjelölésével) | Kábelszerelő |
+|  | Villamos hálózat és alállomás üzemeltető |
+
+| 4. | Fogyasztásmérők javítása, szabályozása, hitelesítése | Villanyszerelő | Villamoshálózat-szerelő, -üzemeltető Villamosművi fogyasztásmérő-javító, -szabályozó |
+
+| 5. | Lakó- és kommunális épületek, ipari létesítmények érintésvédelmi vizsgálata | Érintésvédelmi szabványossági felülvizsgáló | Érintésvédelmi, erősáramú berendezés szabványossági felülvizsgáló Villámvédelem felülvizsgálója |
+
+| 6. | Erősáramú berendezések felülvizsgálása, minősítő nyilatkozat megtétele | Erősáramú berendezések felülvizsgálója | Erősáramú berendezések időszakos felülvizsgálója |
+
+| 7. | Lakó-, kommunális és ipari létesítmények villámvédelmi berendezésének felülvizsgálata | Villámvédelmi felülvizsgáló | Villámvédelmi felülvizsgáló |
+
+| 8. | Nagy-, közép- és kisfeszültségű villamos berendezéseken feszültség alatti munkavégzés | Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő Középfeszültségű FAM szerelő Kisfeszültségű FAM kábelszerelő Kisfeszültségű szabadvezeték hálózati FAM szerelő | FAM-szerelő (feszültség megjelölésével) |
+
+| 9. | Közép- és kisfeszültségű kábelhálózatok szerelése, javítása | Középfeszültségű kábelszerelő Kisfeszültségű kábelszerelő | Kábelszerelő (a feszültségszint megjelölésével) Kábelszerelő |
 
 | 10. | Üzemi mérő-vezérlő és szabályozó berendezéseken feszültség alatti munkavégzés | Szakszolgálati FAM szerelő | Szakszolgálati szerelő |
 
 | 11. | Villamos gépek és kisfeszültségű berendezések kezelése villamosműben | Villamos gép és -készülék üzemeltető | Villamosgép- és -berendezéskezelő |
 
-| 12. | Nagy-, közép- és kisfeszültségű távvezetékek szerelése | Villamoshálózat-szerelő, -üzemeltető Villamos-távvezeték építő, szerelő, karbantartó | Villamoshálózat-szerelő |
+| 12. | Nagy-, közép- és kisfeszültségű távvezetékek szerelése | Villamos elosztóhálózat szerelő, üzemeltető | Villamoshálózat-szerelő, -üzemeltető |
 
-| 13. | Villamosművek villamos berendezésének kezelése | Villamos hálózat és alállomás üzemeltető | Villamosmű kezelő |
+| Villamos távvezeték építő, üzemeltető | Villamos-távvezeték építő, szerelő, karbantartó |
 
-| 14. | Villamosművi berendezések, állomások szerelése | Villamoshálózat-szerelő, -üzemeltető Villamoshálózatszerelő | Villamosművikészülék-szerelő |
+| 13. | Villamosművek villamos berendezésének kezelése | Villamos hálózat kezelő Villamos alállomás kezelő | Villamos hálózat és alállomás üzemeltető Villamosmű kezelő |
 
-[^2]: A 3. § (2)–(3) bekezdését a (3) bekezdés hatályon kívül helyezte.
+| 14. | Villamosművi berendezések, állomások szerelése | Villamos elosztóhálózat szerelő, üzemeltető Villamos elosztóhálózat szerelő, üzemeltető | Villamoshálózat-szerelő, -üzemeltető Villamosművikészülék-szerelő Villamoshálózatszerelő |
+
+[^3]: A 3. § (2)–(3) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^4]: A melléklet a 17/2015. (VI. 9.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
