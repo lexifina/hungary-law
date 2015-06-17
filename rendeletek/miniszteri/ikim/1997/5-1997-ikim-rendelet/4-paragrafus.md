@@ -6,22 +6,6 @@ Melléklet az 5/1997. (III. 5.) IKIM rendelethez[^4]
 
 | Tevékenység | Szakképesítés megnevezése |
 
-| IDEGENFORGALOM |
-
-| Szállodai üzemben portai és szobafőnöki tevékenység* | Szállodai portás |
-
-| Idegenvezetés | Idegenvezető és hostess |
-
-| Utazásszervezés és -közvetítés* | Idegenforgalmi ügyintéző |
-
-| Rendezvényszervezés* | Idegenforgalmi ügyintéző |
-
-| Utazási irodai ügyintézés (valutaváltás, szálláshely- és program közvetítés, menetjegyek, valamint egyéni és társasutak értékesítése)* | Idegenforgalmi ügyintéző |
-
-| Ügyfélszolgálat, információ* | Idegenforgalmi ügyintéző |
-
-| Szabadidő-szervezés* | Idegenforgalmi ügyintéző |
-
 | ÉPÍTŐANYAG-IPAR |
 
 | Szárító- és égetőkemencék kezelése, a technológia ellenőrzése | Kerámiaégető |
@@ -105,4 +89,4 @@ Megjegyzés
 2. A *-gal ellátott tevékenységeknél szakképesítésként elfogadható a szakiránynak megfelelő egyéb szakképesítés vagy magasabb szintű szakirányú szakmai végzettség is.
 
 [^3]: A 4. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 16. §-ának 13. pontja hatályon kívül helyezte.
-[^4]: A melléklet az 50/1999. (IX. 10.) GM rendelet 1. §-ával megállapított, az 1/2008. (II. 8.) GKM rendelet 1. §-a, a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének b) pontja, a 21/2010. (V. 14.) NFGM rendelet 3. § (2) bekezdés b)–c) pontja, az 55/2012. (IX. 17.) NFM rendelet 11. § (5) bekezdése szerint módosított szöveg.
+[^4]: A melléklet az 50/1999. (IX. 10.) GM rendelet 1. §-ával megállapított, az 1/2008. (II. 8.) GKM rendelet 1. §-a, a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének b) pontja, a 21/2010. (V. 14.) NFGM rendelet 3. § (2) bekezdés b)–c) pontja, az 55/2012. (IX. 17.) NFM rendelet 11. § (5) bekezdése, a 17/2015. (VI. 9.) NGM rendelet 1. §-a szerint módosított szöveg.
