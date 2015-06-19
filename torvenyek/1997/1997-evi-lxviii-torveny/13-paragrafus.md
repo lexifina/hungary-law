@@ -6,7 +6,7 @@
 
 (4) Szakértőjelöltnek a szakterületnek megfelelő egyetemi (főiskolai) végzettséggel rendelkező személy nevezhető ki.
 
-(5) Az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
+(5) A bírósági fogalmazó, a bírósági titkár, az igazságügyi szakértő, a szakértőjelölt, a tisztviselő és az írnok a kinevezéstől számított két éven belül az igazságszolgáltatási ismeretekről is számot adó ügyviteli vizsgát tesz. A (7) bekezdés szerinti jogszabály meghatározott iskolai végzettségű tisztviselő részére a vizsga alól részben vagy egészben felmentést adhat.
 
 (6) A munkáltató a munkakörre előírt szakvizsga megszerzésének feltétele alól kivételesen indokolt esetben – legfeljebb 3 évre – halasztást engedélyezhet.
 

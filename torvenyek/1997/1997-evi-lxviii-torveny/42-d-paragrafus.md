@@ -1,0 +1,1 @@
+42/D. § Az OBH elnöke több bíróságot érintő központi igazgatási feladat összehangolt végrehajtása érdekében az igazságügyi alkalmazott hozzájárulásával és az igazságügyi alkalmazott felett munkáltatói jogkört gyakorló bírósági elnök egyetértésével külön feladattal bízhatja meg az igazságügyi alkalmazottat.

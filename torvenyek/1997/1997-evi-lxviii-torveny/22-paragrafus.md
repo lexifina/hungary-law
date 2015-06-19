@@ -1,6 +1,6 @@
 22. § (1) Az igazságügyi alkalmazott szolgálati viszonya felmentéssel akkor szüntethető meg, ha
 
-a) nyugdíjasnak minősül vagy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételekkel legkésőbb a felmentési idő utolsó napján rendelkező igazságügyi alkalmazott ezt kéri,
+a) nyugdíjasnak minősül,
 
 b) munkakörének az ellátására alkalmatlan,
 
@@ -23,3 +23,5 @@ f) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba
 (3) Ha az alkalmatlanság egészségügyi ok következménye, a szolgálati viszony csak akkor szüntethető meg, ha részére az egészségi állapotának és a 18. § (2) bekezdésében foglaltaknak megfelelő más munkakört nem ajánlottak fel, vagy a megfelelő új munkakört nem fogadta el.
 
 (4) Ha az egészségügyi alkalmatlanságra okot adó körülmény felmerülése esetén az igazságügyi alkalmazott a munkáltató által elrendelt orvosi vizsgálaton nem vesz részt, ezt úgy kell tekinteni, hogy alkalmatlanságát nem vitatja.
+
+(5) Az igazságügyi alkalmazott szolgálati viszonyát felmentéssel meg kell szüntetni, ha azt a nyugdíjasnak minősülő, vagy a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő igazságügyi alkalmazott kéri.
