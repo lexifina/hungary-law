@@ -1,8 +1,8 @@
-## 2. Az adósságcsökkentés
+4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás adósságának a költségvetési év utolsó napjára tervezett értékét.
 
-4. § (1) A központi költségvetésről szóló törvényben összegszerűen meg kell határozni az államháztartás adósságának a költségvetési év utolsó napjára – az Alaptörvény 36. cikk (4) és (5) bekezdésének megfelelően – tervezett értékét.
+(2) Ha a költségvetési évre előrejelzett infláció és a bruttó hazai termék reál növekedési üteme egyaránt meghaladja a 3%-ot, a központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy annak alapján az államadósság megelőző évhez (a továbbiakban: viszonyítási év) viszonyított növekedési üteme ne haladja meg a központi költségvetésről szóló törvényben meghatározott, a költségvetési évre várható infláció és bruttó hazai termék reál növekedési üteme felének a különbségét.
 
-(2) A központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy annak alapján az államadósság megelőző évhez (a továbbiakban: viszonyítási év) viszonyított növekedési üteme ne haladja meg a központi költségvetésről szóló törvényben meghatározott, a költségvetési évre várható infláció és bruttó hazai termék reál növekedési üteme felének a különbségét.
+(2a) Ha a költségvetési évre előrejelzett infláció és a bruttó hazai termék reál növekedési üteme közül legalább az egyik nem haladja meg a 3%-ot, a központi költségvetésről szóló törvényben az (1) bekezdésben foglalt értéket oly módon kell meghatározni, hogy az államadósság-mutatónak a viszonyítási évhez viszonyított csökkenése legalább 0,1 százalékpontot érjen el.
 
 (3) A központi költségvetésről szóló törvény előkészítése során a viszonyítási év államadósság-mutatóját a viszonyítási év utolsó napján várható államadósság és a viszonyítási év várható bruttó hazai terméke, a költségvetési év államadósság-mutatóját a költségvetési év utolsó napján várható államadóság és a költségvetési év várható bruttó hazai terméke alapján kell számításba venni.
 

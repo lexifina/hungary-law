@@ -6,4 +6,4 @@ b) az államháztartási, makrogazdasági folyamatok alapján a költségvetési
 
 olyan irányban tér el a központi költségvetésről szóló törvényben meghatározott adatoktól, amely az államadósság-mutató növekedését eredményezné.
 
-(2) Ha a nemzetgazdaság az Alaptörvény 36. cikk (6) bekezdése szerinti tartós és jelentős visszaesése a költségvetési év során következik be, a központi költségvetésről szóló törvény módosítása a 4. § (1) bekezdése alapján a központi költségvetésről szóló törvényben meghatározott érték teljesítési kötelezettségének felfüggesztésére irányul.
+(2)

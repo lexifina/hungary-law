@@ -8,4 +8,4 @@
 
 (4) A 4. § (2) bekezdése 2015. január 1-jén lép hatályba.
 
-(5) A 38. § 2016. január 1-jén lép hatályba.
+(5) A 38. § 2020. január 1-jén lép hatályba.

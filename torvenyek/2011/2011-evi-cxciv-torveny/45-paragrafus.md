@@ -12,7 +12,9 @@ b) a kormányzati szektorba sorolt egyéb szervezet adósságot keletkeztető ü
 
 c) az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételei ÁKK Zrt. általi véleményezésének szempontjait, valamint az ÁKK Zrt. e feladatáért járó díj megállapításának feltételeit,
 
-d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás, valamint az erről benyújtandó önkormányzati kérelem részletszabályait.
+d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás, valamint az erről benyújtandó önkormányzati kérelem részletszabályait,
+
+e) a 3/A. § szerinti feladatok végrehajtásának, valamint a makrogazdasági és költségvetési előrejelzések részletes szabályait és azok közzétételének módját.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a jogalanyok szélesebb körét érintő rendkívüli esemény, elemi csapás esetén indokolt esetben – rendeletben a fizetési kötelezettség megállapítására és teljesítésére vonatkozó kötelezettség mellőzését és az ehhez kapcsolódó eljárási szabályokat meghatározhassa.
 

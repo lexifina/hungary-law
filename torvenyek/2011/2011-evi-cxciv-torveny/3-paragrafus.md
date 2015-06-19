@@ -14,4 +14,4 @@ f) a szerződésben kapott, legalább háromszázhatvanöt nap időtartamú hala
 
 g) hitelintézetek által, származékos műveletek különbözeteként az Államadósság Kezelő Központ Zrt.-nél (a továbbiakban: ÁKK Zrt.) elhelyezett fedezeti betétek, és azok összege.
 
-(2) Az (1) bekezdés szerinti adósságot keletkeztető ügyletként nem kell figyelembe venni a költségvetési év első hat hónapjában lejáró adósság előző költségvetési évben történő előfinanszírozását, amelynek összege nem haladja meg a költségvetési év első hat hónapja során várható törlesztések összegét.
+(2)
