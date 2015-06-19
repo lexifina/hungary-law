@@ -10,7 +10,7 @@ c) jogi tanácsot ad,
 
 d) szerződést, beadványt, más iratot készít,
 
-e) az a)–d) pontban felsoroltakkal összefüggésben pénz és értéktárgy letéti kezelését végzi.
+e) az a)–d) pontban felsoroltakkal összefüggésben pénz és vagyontárgy letéti kezelését végzi.
 
 (2) Az (1) bekezdésben felsoroltak ellenérték fejében történő rendszeres ellátására – ha törvény másképpen nem rendelkezik – kizárólag ügyvéd jogosult.
 
