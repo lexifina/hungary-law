@@ -20,7 +20,7 @@ a) a szakmai értékelés tekintetében
 
 aa) a bírósági fogalmazói és bírósági titkári joggyakorlati idő, illetve a bírói szolgálati idő szakmai értékelésének eredménye,
 
-ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírósági titkári joggyakorlati idő OBH elnöke általi értékelése,
+ab) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az OBH-ban eltöltött bírói, bírósági titkári joggyakorlati idő, valamint a központi igazgatási feladatokban történő közreműködés OBH elnöke általi értékelése, továbbá a jogszabályok előkészítésére vonatkozó átfogó ismeretek megszerzése érdekében az igazságügyért felelős miniszter által vezetett minisztériumban eltöltött bírói, bírósági titkári joggyakorlati idő miniszter általi értékelése,
 
 ac) a bíróságok központi igazgatásáról szóló átfogó ismeretek megszerzése érdekében az Országos Bírói Tanács (a továbbiakban: OBT) tagja mellett eltöltött bírósági titkári joggyakorlati idő OBT tag általi értékelése,
 

@@ -16,4 +16,4 @@ bd) a pályázat kiírását követően bekövetkezett munkaszervezést, munkate
 
 be) a pályázat kiírását követően olyan körülmény merült fel, amelynek eredményeként az álláshelyet a törvény alapján pályázat kiírása nélkül (8. §) szükséges betölteni.
 
-(2) Ha a pályázat eredménytelen, új pályázatot kell kiírni.
+(2) Az (1) bekezdés a) pontjában és b) pont ba)–bc) alpontjában megjelölt érvénytelenségi okok esetén új pályázatot kell kiírni.
