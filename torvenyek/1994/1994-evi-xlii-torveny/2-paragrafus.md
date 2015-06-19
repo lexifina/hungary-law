@@ -24,13 +24,17 @@ h) követelésvásárlás.
 
 a) vissza nem térítendő támogatás, illetve kedvezményes hitel nyújtásával nemzetközi fejlesztési együttműködési célú segélyügyletek finanszírozása,
 
-b) nemzetközi pénzügyi-fejlesztési intézmény által működtetett nemzetközi fejlesztési együttműködési célú alap alapításához, vagy ahhoz történő csatlakozás a 6. § (4a) bekezdésben meghatározott források felhasználásával.
+b) nemzetközi pénzügyi-fejlesztési intézmény által működtetett nemzetközi fejlesztési együttműködési célú alap alapításához, vagy ahhoz történő csatlakozás a 6. § (4a) bekezdésben meghatározott források felhasználásával, és
+
+c) kockázati- és magántőkealap alapítása vagy ahhoz történő csatlakozás tőkebefektetésen keresztül.
 
 (1b) Az Eximbank a nemzetközi fejlesztési együttműködési célú alap alapításához, illetve ahhoz történő csatlakozáshoz kapcsolódó megállapodások vonatkozásában az államháztartásért és a nemzetközi fejlesztési együttműködésért felelős minszterek egyetértése esetén az állam képviseletében jár el, és e felhatalmazásra történő hivatkozás mellett jogosult a vonatkozó szerződések megkötésére, módosítására vagy megszüntetésére.
 
 (1c) Az Eximbank felelős az (1b) bekezdés szerint megkötött szerződések magyar kormányzati fejlesztési politika szerinti végrehajtásáért és a szerződésből eredő kötelezettségek teljesítéséért. Az Eximbank a megkötött szerződések végrehajtásáról és azok nemzetközi fejlesztési együttműködési szempontú eredményességéről az államháztartásért és a nemzetközi fejlesztési együttműködésért felelős miniszterek részére évente jelentést készít.
 
 (2) Az Eximbank a hitel és pénzkölcsön nyújtás keretében az export finanszírozása érdekében külön rendeletben foglalt feltételek mellett kötött segélyhitelt nyújthat a magyar árukat, szolgáltatásokat megvásároló, igénybe vevő devizakülföldieknek, és kedvező kamatozású hiteleket nyújthat a külön rendeletben foglalt feltételek mellett. Devizabelföldi és devizakülföldi alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. §-ában foglaltakat kell érteni.
+
+(2a) Az ügyfél az Eximbank által folyósított kölcsönt más pénzügyi intézmény által folyósított kölcsön kiváltására is fordíthatja, ha a kiváltandó kölcsön megfelel az (1) bekezdésben meghatározott hitelcéloknak.
 
 (3) Az (1) bekezdés f) pontjában meghatározott tevékenységet az Eximbank kizárólag az adott ügylettel kapcsolatban végezhet, olyan gazdasági társaságok, egyéni cégek és egyéni vállalkozók (a továbbiakban: ügyfelek) részére, amelyeknek hitelt nyújtott, vagy amelyekért garanciát vállalt, a hitel-, illetve a garanciajogviszony fennállásáig.
 
