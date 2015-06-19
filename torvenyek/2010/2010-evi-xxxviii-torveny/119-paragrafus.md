@@ -8,7 +8,7 @@
 
 a) hagyatéki ügyben az azonos illetékességi területen működő közjegyzők közötti ügyelosztási rendet,
 
-b) a hagyatéki leltár nyomtatványának adattartalmát és a nyomtatvány közzétételének módját,
+b) a hagyatéki leltár nyomtatványának, valamint a hagyatéki eljárási igazolás adattartalmát és a nyomtatvány közzétételének módját,
 
 c) a hagyatéki eljárás során közjegyzői letétbe vehető vagyontárgyakat és a letétkezelés szabályait,
 
