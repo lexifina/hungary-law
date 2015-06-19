@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-27-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-06-18 | 2015-27-30-41.1 | 27/2015. (VI. 17.) OGY határozat |
+| 2015-06-19 | 2015-27-30-41.2 | 62/2022. (XII. 9.) OGY határozat |
