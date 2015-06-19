@@ -32,9 +32,9 @@ k) 2. melléklet Kiegészítő szabályok 3. pont f) alpontjában a „FÖMI hat
 
 l) 2. melléklet Kiegészítő szabályok 4. pont c) alpontjában a „„Gyermekétkeztetés” kormányzati funkciókon” szövegrész helyébe a „„Gyermekétkeztetés köznevelési intézményben” kormányzati funkciókon” szöveg,
 
-m) 2. melléklet Kiegészítő szabályok 5. pont i) alpont ia) pontjában a „III.3. b) d) és f) k) pontjai” szövegrész helyébe a „III. pont 3. alpont c), d) és f) k) pontja” szöveg,
+m) 2. melléklet Kiegészítő szabályok 5. pont i) alpont ia) pontjában a „III.3. b)–d) és f)–k) pontjai” szövegrész helyébe a „III. pont 3. alpont c), d) és f)–k) pontja” szöveg,
 
-n) 2. melléklet Kiegészítő szabályok 5. pont i) alpont if) pontjában az „ig) alpontban foglalt kivételekkel” szövegrész helyébe az „ig) alpontban és az io) is) alpontban meghatározott kivételekkel” szöveg,
+n) 2. melléklet Kiegészítő szabályok 5. pont i) alpont if) pontjában az „ig) alpontban foglalt kivételekkel” szövegrész helyébe az „ig) alpontban és az io)–is) alpontban meghatározott kivételekkel” szöveg,
 
 o) 2. melléklet Kiegészítő szabályok 5. pont o) alpont od) pontjában a „szakmai dolgozóinak béreire, valamint a III.4.b) alpont szerinti útmutatóban szereplő működési és felújítási kiadásokra” szövegrész helyébe a „működési és felhalmozási kiadásaira” szöveg,
 
@@ -58,7 +58,7 @@ x) 3. melléklet Kiegészítő szabályok 1. pont b) alpontjában az „I.2. és
 
 y) 8. melléklet I. pont 3. alpont c) pontjában az „a) és b) alpontban” szövegrész helyébe az „a) b) és d) alpontban” szöveg,
 
-z) 8. melléklet V. pont 16. alpont baa) pontjában az „Áht. 6. § (3) bekezdés b) és c) pontja szerinti, továbbá a közszolgáltatás ellátása során nyújtott ellenérték, az általános forgalmi adóból származó” szövegrész helyébe az „Áht. 6. § (3) bekezdés b) d) pontja szerinti” szöveg,
+z) 10. § z) pontja helyesen: „z) 8. melléklet V. pont 16. alpont baa) pontjában az „Áht. 6. § (3) bekezdés b) és c) pontja szerinti, továbbá a közszolgáltatás ellátása során nyújtott ellenérték, az általános forgalmi adóból származó” szövegrész helyébe az „Áht. 6. § (3) bekezdés b)–d) pontja szerinti” szöveg,
 
 zs) 8. melléklet V. pont 17. alpontjában az „egységes-óvoda” szövegrész helyébe az „egységes óvoda-bölcsőde” szöveg
 
