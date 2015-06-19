@@ -1,0 +1,1 @@
+39. § A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény 4. § (1) bekezdésében a „szolgálatfüggő nyugellátást” szövegrész helyébe a „nők korhatár alatti nyugellátását” szöveg lép.

@@ -1,0 +1,1 @@
+62. § Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény 191. § (1) bekezdésében a „2016.” szövegrész helyébe a „2017.” szöveg lép.
