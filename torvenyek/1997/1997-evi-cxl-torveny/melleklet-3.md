@@ -8,7 +8,7 @@ b) az Országos Egészségtudományi Szakkönyvtár,
 
 c) a Magyar Tudományos Akadémia Könyvtára,
 
-d) az Országos Mezőgazdasági Könyvtár és Dokumentációs Központ,
+d) a Magyar Mezőgazdasági Múzeum és Könyvtár,
 
 e) az Országgyűlési Könyvtár,
 
