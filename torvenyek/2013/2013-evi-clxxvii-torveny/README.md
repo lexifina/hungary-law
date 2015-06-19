@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-177-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2013-177-00-00.1 |
 | 2014-03-16 | 2010. évi CXXX. törvény | 2013-177-00-00.2 |
 | 2015-02-28 | 2015. évi II. törvény | 2013-177-00-00.3 |
+| 2015-06-19 | 2015. évi LXXI. törvény | 2013-177-00-00.4 |
