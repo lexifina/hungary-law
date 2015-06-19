@@ -1,4 +1,4 @@
-3. § (1) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra, illetve ügyészre, ha törvény másként nem rendelkezik, a kormánytisztviselőkre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+3. § (1) Az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíróra, bírósági titkárra, illetve ügyészre, ha törvény másként nem rendelkezik, a kormánytisztviselőkre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 (2) A 45. § hatálya kiterjed azon magyar állampolgárokra is, akik pályázati eljárásban vesznek részt, illetve felvételüket kérik a toborzási adatbázisba.
 

@@ -10,7 +10,7 @@ b) a kormánytisztviselő halálával,
 
 c) e törvény erejénél fogva az e törvényben meghatározott esetekben,
 
-d) az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíró, illetve ügyész minisztériumi beosztásának megszűnésével,
+d) az igazságügyért felelős miniszter által vezetett minisztériumba beosztott bíró, bírósági titkár, illetve ügyész minisztériumi beosztásának megszűnésével,
 
 e) a 70. életév betöltésével,
 

@@ -87,13 +87,3 @@ A toborzási adatbázis adatköre
 ## 3. betöltött feladatkör/munkakör
 
 ## 4. időtartam
-
-## III.
-
-## 1. iskolai végzettség
-
-## 2. képző intézmény megnevezése (kar, szak megjelölésével)
-
-## 3. képzés időtartama, végzés időpontja
-
-## 4. idegennyelv-ismerete (szintje, típusa)
