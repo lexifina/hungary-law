@@ -1,20 +1,16 @@
 ## 7. A költségvetési szerv irányítása, felügyelete
 
-9. § Ha törvény eltérően nem rendelkezik, a költségvetési szerv irányítása a következő hatáskörök gyakorlásának jogát jelenti:
+9. § Ha törvény eltérően nem rendelkezik, a költségvetési szerv irányítása a következő hatáskörök gyakorlását jelenti:
 
-a) a költségvetési szerv alapítása, átalakítása és megszüntetése,
+a) a költségvetési szerv alapítása, átalakítása és megszüntetése, ideértve az alapító okirat és annak módosítása, valamint a megszüntető okirat kiadására vonatkozó hatáskör gyakorlását,
 
-b) a költségvetési szerv alapító okiratának kiadása, szervezeti és működési szabályzatának jóváhagyása,
+b) a költségvetési szerv szervezeti és működési szabályzatának jóváhagyása,
 
 c) a költségvetési szerv vezetésére kinevezés vagy megbízás adása, a költségvetési szerv vezetőjének felmentése vagy a vezetői megbízás visszavonása, és – ha törvény vagy kormányrendelet másként nem rendelkezik – a költségvetési szerv vezetőjével kapcsolatos egyéb munkáltatói jogok gyakorlása,
 
 d) a költségvetési szerv gazdasági vezetőjének kinevezése vagy megbízása, felmentése vagy megbízásának visszavonása,
 
-e) a költségvetési szerv tevékenységének törvényességi, szakszerűségi és hatékonysági ellenőrzése, ennek keretében
-
-ea) a bevételi előirányzatokkal és a kiadási előirányzatokkal való gazdálkodás rendszeres figyelemmel kísérése, a végrehajtás, illetve a költségvetési szerv által ellátandó közfeladatok meg nem valósításának veszélye esetén a jogszabályban meghatározott szükséges intézkedések megtétele,
-
-eb) a költségvetési szerv által ellátandó közfeladatok ellátására vonatkozó, és az erőforrásokkal való szabályszerű és hatékony gazdálkodáshoz szükséges ágazati szakmai és a gazdálkodási tevékenységre vonatkozó követelmények érvényesítése, betartásának számonkérése, ellenőrzése,
+e) a költségvetési szerv tevékenységének törvényességi, szakszerűségi és hatékonysági ellenőrzése,
 
 f) a költségvetési szerv döntésének megsemmisítése, szükség szerint új eljárás lefolytatására való utasítás,
 

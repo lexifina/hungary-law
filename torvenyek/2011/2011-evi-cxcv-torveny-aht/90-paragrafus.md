@@ -16,7 +16,7 @@ d) az állami kezességek, állami garanciák és állami viszontgaranciák áll
 
 e) az állam tulajdonában álló gazdálkodó szervezetek működéséből származó kötelezettségeket, a részesedések alakulását,
 
-f) a 13. § szerinti tervezés során figyelembe vett makrogazdasági és költségvetési előrejelzés értékelését,
+f) a középtávú tervezés során figyelembe vett makrogazdasági és költségvetési előrejelzés értékelését,
 
 g) a zárszámadásról szóló törvényjavaslat adóbevételeiben érvényesülő közvetett támogatásokat, így különösen az adóelengedéseket, adókedvezményeket tartalmazó kimutatást adónemenként,
 
@@ -28,7 +28,7 @@ j) az államháztartás központi alrendszerében és önkormányzati alrendszer
 
 k) a központi költségvetés címrendjének évközi változásait.
 
-(3a) Ha a (3) bekezdés f) pontja szerinti értékelés alapján a tényleges makrogazdasági és költségvetési folyamatok a 13/B. § szerinti előrejelzéstől négy egymást követő évben lényegesen eltérnek, a makrogazdasági és költségvetési előrejelzést alátámasztó módszereket, felvetéseket és vonatkozó paramétereket felül kell vizsgálni, és azt közzé kell tenni.
+(3a)
 
 (4) A 21. § (6) bekezdésében, 29. § (1) bekezdésében és 33. § (1) bekezdésében meghatározott egyedi határozatot a Kormány a Magyar Közlönyben közzéteszi.
 

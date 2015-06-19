@@ -16,9 +16,9 @@ f) az állami kezesség vállalása és beváltása jogosságának ellenőrzés�
 
 g)
 
-h) az a)–f) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek,
+h) az a)–f) pontban foglaltakkal összefüggésben létrejött jogviszonyokra, valamint azon szerződő felekre is, amelyek a jogviszony teljesítésében közvetlen vagy közvetett módon közreműködnek, és
 
-i) az Összefogás az Államadósság Ellen Alap gazdálkodása jogszerűségének ellenőrzésére, és
+i)
 
 j) működési célú költségvetési támogatás nyújtása esetén a kedvezményezett működésének és gazdálkodásának ellenőrzésére.
 

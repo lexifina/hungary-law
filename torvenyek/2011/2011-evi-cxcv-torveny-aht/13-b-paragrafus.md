@@ -1,1 +1,1 @@
-13/B. § A Kormány évente legalább két alkalommal, az aktuális és a következő három évre vonatkozóan makrogazdasági és költségvetési előrejelzést készít, és azt, valamint annak módszertanát nyilvánosságra hozza. A 13. §-ban és a 29. §-ban meghatározott költségvetési tervezésnek az így készült legfrissebb előrejelzésen kell alapulnia. Az előrejelzések részletszabályait és a közzététel módját a Kormány rendeletben határozza meg.
+### 13/B. §

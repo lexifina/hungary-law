@@ -14,10 +14,10 @@ a) az irányító szerv, az államháztartás önkormányzati alrendszerében az
 
 b) az irányító szerv döntése alapján az irányító szerv irányítása alá tartozó, gazdasági szervezettel rendelkező más költségvetési szerv
 
-látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatározott eltéréssel – az irányító szervre, az önkormányzati hivatalra, az országos nemzetiségi önkormányzat hivatalára, a nemzetiségi önkormányzati költségvetési szervre, az alaptevékenységként költségvetési szerv gazdálkodási feladatainak ellátására létrehozott költségvetési szervre és az olyan költségvetési szervre, amely törvény, kormányrendelet alapján vagy az állam nemzetközi kötelezettségére tekintettel gazdasági szervezettel rendelkezik.
+látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatározott eltéréssel – az irányító szervre, az önkormányzati hivatalra, az országos nemzetiségi önkormányzat hivatalára, a nemzetiségi önkormányzati költségvetési szervre, az alaptevékenységként költségvetési szerv gazdálkodási feladatainak ellátására létrehozott költségvetési szervre és az olyan költségvetési szervre, amely az alapításáról rendelkező törvény, kormányrendelet alapján vagy az állam nemzetközi kötelezettségére tekintettel gazdasági szervezettel rendelkezik.
 
 (4b) Az irányító szerv döntése alapján a (4a) bekezdést a 100 fő éves átlagos statisztikai állományi létszámot elérő költségvetési szervre is alkalmazni kell.
 
-(5) A költségvetési szerv feladatai ellátásának részletes belső rendjét és módját szervezeti és működési szabályzat állapítja meg. A szervezeti egységekre vonatkozó szabályokat a költségvetési szerv szervezeti és működési szabályzatában vagy a szervezeti egységek ügyrendjében, a gazdálkodás részletes rendjét belső szabályzatban kell meghatározni.
+(5) A költségvetési szerv szervezetét, feladatai ellátásának részletes belső rendjét és módját szervezeti és működési szabályzat állapítja meg. A szervezeti egységekre vonatkozó szabályokat a költségvetési szerv szervezeti és működési szabályzatában vagy a szervezeti egységek ügyrendjében, a gazdálkodás részletes rendjét belső szabályzatban kell meghatározni.
 
 (6) A költségvetési szerv képviseletét a költségvetési szerv vezetője látja el, amely jogkör gyakorlása jogszabályban vagy a költségvetési szerv szervezeti és működési szabályzatában foglaltak szerint – esetenként vagy az ügyek meghatározott csoportjára nézve – a költségvetési szerv vezetőjének helyettesére vagy más dolgozójára ruházható át.

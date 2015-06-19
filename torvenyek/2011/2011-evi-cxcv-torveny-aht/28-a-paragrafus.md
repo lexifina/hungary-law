@@ -4,4 +4,4 @@
 
 (3) A kincstári költségvetésnek és az elemi költségvetésnek, illetve a költségvetési rendeletnek, határozatnak és az elemi költségvetésnek kiemelt előirányzati és finanszírozási bevételi előirányzati, finanszírozási kiadási előirányzati szinten meg kell egyeznie.
 
-(4) A helyi önkormányzat, a nemzetiségi önkormányzat, a társulás, a térségi fejlesztési tanács és az általuk irányított költségvetési szerv elemi költségvetését a polgármester, a nemzetiségi önkormányzat elnöke, a társulási tanács elnöke vagy a térségi fejlesztési tanács elnöke hagyja jóvá. E bekezdés alkalmazásában a közös önkormányzati hivatal esetén polgármester alatt a közös önkormányzati hivatal irányító szervének vezetőjét kell érteni.
+(4)

@@ -28,7 +28,7 @@ b) fejezetek közötti előirányzat-átcsoportosításra az érintett fejezetet
 
 kerülhet sor.
 
-(5) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításhoz, ha az fejezetek között történik és a (3) bekezdés b) pont ba) és bb) alpontja szerinti előirányzat-átcsoportosításhoz. Nem kell az államháztartásért felelős miniszter hozzájárulása, ha az előirányzat-átcsoportosítás a Kormány irányítása alá tartozó fejezetet nem érint.
+(5) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításhoz, ha az a Kormány irányítása alá tartozó fejezetek között történik, és a (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli és az ilyen fejezetek közötti előirányzat-átcsoportosításhoz.
 
 (6) A kincstár a központi költségvetésről szóló törvény szerinti szerkezetben és bontásban havonta közzéteszi a honlapján az államháztartás központi alrendszerébe tartozó költségvetési szervek, továbbá a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai eredeti előirányzatait, módosított előirányzatait, valamint teljesítési adatait.
 

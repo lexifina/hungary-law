@@ -12,4 +12,6 @@ e) az állami kezességekkel, állami garanciákkal, állami viszontgaranciákka
 
 f) devizában teljesítendő költségvetési kiadás, az árfolyamváltozás hatásának mértékéig, és
 
-g) adósságszolgálattal kapcsolatos kiadás.
+g) adósságszolgálattal kapcsolatos kiadás,
+
+h) a jegybanki alapkamat előző évi átlagától függő költségvetési kiadás.

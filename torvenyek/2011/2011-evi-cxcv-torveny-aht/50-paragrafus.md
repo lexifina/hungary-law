@@ -1,12 +1,12 @@
 ## 35. A költségvetési támogatás biztosításának és rendelkezésre bocsátásának módja
 
-50. § (1) Költségvetési támogatás abban az esetben biztosítható, ha a támogatási igény benyújtója
+50. § (1) Költségvetési támogatás annak nyújtható, aki
 
 a) megfelel a rendezett munkaügyi kapcsolatok követelményeinek,
 
 b) a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló törvényben foglalt közzétételi kötelezettségének eleget tett, és
 
-c) jogi személy vagy jogi személyiséggel nem rendelkező más szervezet esetén átlátható szervezetnek minősül.
+c) átlátható szervezetnek minősül.
 
 (2) Ha a költségvetési támogatás magyarországi beruházások ösztönzéséhez kapcsolódóan közvetlenül nyújtott fejlesztési célú költségvetési támogatásként kerül biztosításra, az (1) bekezdés c) pontjában meghatározott feltételről a Kormány egyedi határozatban dönt.
 

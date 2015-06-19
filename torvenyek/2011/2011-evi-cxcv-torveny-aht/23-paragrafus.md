@@ -1,6 +1,6 @@
 ## 14. A helyi önkormányzat költségvetési rendelete
 
-23. § (1) A helyi önkormányzat a költségvetését költségvetési rendeletben állapítja meg.
+23. § (1)
 
 (2) A helyi önkormányzat költségvetése tartalmazza
 

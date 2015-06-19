@@ -22,4 +22,4 @@ b) a különváló költségvetési szervből a különváló szervezeti egység
 
 (6) A jogutód nélkül megszüntetett költségvetési szerv nem magánjogi jogai és kötelezettségei a jövőre nézve megszűnnek azzal, hogy a megszűnés napján fennálló kötelezettségek teljesítéséért és követelések beszedéséért az (5) bekezdés szerinti szerv felel.
 
-(7) A költségvetési szerv megszüntetéséről jogszabállyal alapított költségvetési szerv esetén jogszabályban, a nem jogszabállyal alapított költségvetési szerv esetén megszüntető okiratban kell rendelkezni. A jogszabály és a megszüntető okirat kiadására, a megszüntető okirat közzétételére, valamint az államháztartásért felelős miniszter előzetes egyetértésére a 8/A. §-t kell alkalmazni.
+(7) A költségvetési szerv megszüntetéséről jogszabállyal alapított költségvetési szerv esetén jogszabályban, a nem jogszabállyal alapított költségvetési szerv esetén megszüntető okiratban kell rendelkezni. A jogszabály és a megszüntető okirat kiadására, valamint az államháztartásért felelős miniszter előzetes egyetértésére a 8/A. §-t kell alkalmazni.

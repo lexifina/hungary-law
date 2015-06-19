@@ -4,7 +4,7 @@
 
 (2) A jegyző, főjegyző (a továbbiakban együtt: jegyző) a költségvetési rendelet-tervezetet a 29/A. § szerinti tervszámoknak megfelelően készíti elő. A tervszámoktól csak a külső gazdasági feltételeknek a tervszámok elfogadását követően bekövetkezett lényeges változása esetén térhet el, az eltérést és annak indokát a költségvetési rendelet-tervezet indokolásában ismertetni kell.
 
-(3) A jegyző által a (2) bekezdés szerint előkészített költségvetési rendelet-tervezetet a polgármester a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek.
+(3) A jegyző által a (2) bekezdés szerint előkészített költségvetési rendelet-tervezetet a polgármester február 15-éig, ha a központi költségvetésről szóló törvényt az Országgyűlés a naptári év kezdetéig nem fogadta el, a központi költségvetésről szóló törvény hatálybalépését követő negyvenötödik napig nyújtja be a képviselő-testületnek.
 
 (4) A költségvetés előterjesztésekor a képviselő-testület részére tájékoztatásul a következő mérlegeket és kimutatásokat kell – szöveges indokolással együtt – bemutatni:
 

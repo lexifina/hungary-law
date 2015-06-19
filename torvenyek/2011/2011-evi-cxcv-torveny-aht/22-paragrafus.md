@@ -12,7 +12,7 @@ b) a 29. § (1) bekezdése szerinti tervszámokkal összhangban, indokolással e
 
 c) mellékeli a Nyugdíjbiztosítási Alap bevételeire és kiadásaira vonatkozó demográfiai folyamatokat és az azok hatásait figyelembevevő ötven évre szóló előrejelzését,
 
-d) ismerteti a kormányzati szektor egyenlegére és a strukturális egyenlegre vonatkozó tervezett mértékeket és azok indokait.
+d) ismerteti a kormányzati szektor Gst. 1. § c) pontja szerinti egyenlegére és a Gst. 1. § e) pontja szerinti strukturális egyenlegre vonatkozó tervezett mértékeket és azok indokait.
 
 (4) Az Országgyűlés részére a központi költségvetésről szóló törvényjavaslat benyújtásakor tájékoztatásul be kell mutatni
 

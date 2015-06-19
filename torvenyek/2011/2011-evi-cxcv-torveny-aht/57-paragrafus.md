@@ -8,7 +8,7 @@
 
 (2) A kincstár a rendelkezésére álló adatok alapján, illetve helyszíni ellenőrzés során ellenőrzi a támogatások igénylésének és módosításának megalapozottságát.
 
-(3) Ha a kincstár az igénylésben meghatározott mutatószámot megalapozatlannak tartja, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (1) bekezdés b) pontja alapján hivatalból megindított eljárás keretében legkésőbb a költségvetési év október 15-éig kötelezi a helyi önkormányzatot, hogy a mutatószámon a kincstár által meghatározott változtatásokat a soron következő mutatószám módosításkor vezesse át. Nem kell határozatot hozni, ha a helyi önkormányzat a kincstár álláspontját alátámasztó bizonyítékok ismertetése során az eltérés jogszerűségét igazolja.
+(3) Ha a kincstár az igénylésben meghatározott mutatószámot megalapozatlannak tartja, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (1) bekezdés b) pontja alapján hivatalból megindított eljárás keretében kötelezi a helyi önkormányzatot, hogy a mutatószámon a kincstár által meghatározott változtatásokat a soron következő mutatószám módosításkor vezesse át. Nem kell határozatot hozni, ha a helyi önkormányzat a kincstár álláspontját alátámasztó bizonyítékok ismertetése során az eltérés jogszerűségét igazolja.
 
 (4) Ha a helyi önkormányzat a határozatban foglaltaknak nem tesz eleget, a kincstár jogosult az általa meghatározott mutatószámok átvezetésére.
 

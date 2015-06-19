@@ -4,4 +4,4 @@
 
 (2) A költségvetési szerv a Kormány rendeletében meghatározott korlátokkal folytathat vállalkozási tevékenységet.
 
-(3) A költségvetési szerv a vállalkozási tevékenységéből származó vállalkozási maradványnak a társasági adó általános mértékével megegyező hányadát köteles a központi költségvetésbe – az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv esetén az irányító szerv költségvetésébe – befizetni.
+(3) A költségvetési szerv a vállalkozási tevékenységéből származó vállalkozási maradványnak a társasági adó mértékével megegyező hányadát köteles a központi költségvetésbe – az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv esetén az irányító szerv költségvetésébe – befizetni.
