@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján a Tabán Trafik Dohánytermék-forgalmazó, Kereskedelmi és Szolgáltató zártkörűen működő részvénytársaság (cégjegyzékszám: 06-10-000306, székhely: 6800 Hódmezővásárhely, Erzsébeti út 5/b.) és a BAT Pécsi Dohánygyár Korlátolt Felelősségű Társaság (cégjegyzékszám: 01-09-180925, székhely: 1124 Budapest, Csörsz utca 49–51. 3. em.) összefonódását – tekintettel új munkahelyek teremtésére, valamint a koncessziós dohánykiskereskedelem-ellátási tevékenység megkezdésére és az ellátás biztonságára – közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
