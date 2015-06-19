@@ -36,8 +36,10 @@ Dr. Lévay Miklós alkotmánybíró.
 
 2. E határozat 2015. június 18-án lép hatályba.
 
-3. E határozat hatálybalépésével egyidejűleg az Alkotmánybíróság öttagú tanácsai tanácsvezetőinek személyéről szóló 1002/2014. (VI. 17.) AB Tü. határozat, az Alkotmánybíróság öttagú tanácsainak összetételéről szóló 1003/2014. (X. 9.) AB Tü. határozat és az Alkotmánybíróság 2. öttagú tanácsának összetételéről szóló 1004/2014. (XII. 5.) AB Tü. határozat hatályát veszti.
+3.[^2]
 
 4. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 Alkotmánybírósági ügyszám: XVIII/1626/2015.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
