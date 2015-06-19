@@ -1,8 +1,8 @@
 ## Fogalmak
 
-3. § E törvény alkalmazásában
+3. § (1) E törvény alkalmazásában
 
-a) foglalkoztatási jogviszony: a munkaviszony, a közszolgálati jogviszony, a közalkalmazotti jogviszony, a bírósági szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, az ügyészségi szolgálati jogviszony, a hivatásos és szerződéses szolgálati jogviszony, a nevelőszülői foglalkoztatási jogviszony,
+a) foglalkoztatási jogviszony: a munkaviszony, a közszolgálati jogviszony, a közalkalmazotti jogviszony, a bírósági szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, az ügyészségi szolgálati jogviszony, a hivatásos és szerződéses szolgálati jogviszony, a nevelőszülői foglalkoztatási jogviszony, a kölcsönbeadó és a kölcsönzött munkavállaló között a munka törvénykönyvéről szóló törvény szerinti munkaerő-kölcsönzés alapján fennálló jogviszony,
 
 b) munkavégzésre irányuló egyéb jogviszony: a bedolgozói munkaviszony, a munkavégzésre irányuló vállalkozási és megbízási szerződés alapján létrejött jogviszony, a szakcsoporti tagsági viszony, valamint a szövetkezeti tagsági viszonynak, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei,
 
@@ -14,8 +14,10 @@ e) civil és érdek-képviseleti szervezet: az egyesülési jogról, a közhaszn
 
 f) hozzátartozó: a házastárs, a bejegyzett élettárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, illetve az egyeneságbeli rokon házastársa, bejegyzett élettársa, a házastárs, illetve a bejegyzett élettárs egyeneságbeli rokona és testvére, valamint a testvér házastársa, illetve bejegyzett élettársa,
 
-g) kérelmező: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely a 15. § (1) bekezdés a) pontja vagy 20. § (1) bekezdés b) pontja alapján az egyenlő bánásmód követelménye megsértésének magállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül;
+g) kérelmező: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely a 15. § (1) bekezdés a) pontja vagy 20. § (1) bekezdés b) pontja alapján az egyenlő bánásmód követelménye megsértésének magállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül,
 
-h) eljárás alá vont személy: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárást folytatják;
+h) eljárás alá vont személy: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárást folytatják,
 
 i) jogsértő: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárás eredményeként a hatóság jogerősen megállapította a jogsértést.
+
+(2) E törvény alkalmazásában munkaerő-kölcsönzés esetén munkáltatón a kölcsönvevőt is érteni kell.

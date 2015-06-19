@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-125-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2003-125-00-00.29 |
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2003-125-00-00.30 |
 | 2015-01-01 | 2014. évi CI. törvény | 2003-125-00-00.31 |
+| 2015-06-19 | 2015. évi LXXIV. törvény | 2003-125-00-00.32 |
