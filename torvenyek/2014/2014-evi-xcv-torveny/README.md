@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-95-00-00
 | 2014-12-25 | 2010. évi CXXX. törvény | 2014-95-00-00.2 |
 | 2015-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-95-00-00.3 |
 | 2015-04-02 | 2010. évi CXXX. törvény | 2014-95-00-00.4 |
+| 2015-06-19 | 2015. évi LXXII. törvény | 2014-95-00-00.5 |
