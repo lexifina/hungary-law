@@ -11,3 +11,5 @@
 (5) Az (1)–(3) bekezdés szerint iratbetekintésre jogosult a hivatalból indult eljárás irataiba csak a vizsgálat befejezését követően, az eljáró versenytanács előzetes álláspontjának, illetve – ha arra korábban sor kerül – a vizsgálatot lezáró jelentésnek a 73. § szerint az ügyfelek részére való megküldését követően tekinthet be azzal, hogy az (1) és (2) bekezdés szerint iratbetekintésre jogosult ezen időpontot megelőzően is betekinthet abba az iratba, amelynek megismerése az eljárás során hozott külön jogorvoslattal megtámadható végzéssel szembeni jogorvoslati joga gyakorlásához feltétlenül szükséges.
 
 (6) Az ügyfél kérelme alapján az eljáró versenytanács az (5) bekezdésben megjelölttől eltérő okból is engedélyezheti a vizsgálatot lezáró jelentés, illetve az előzetes álláspont ügyfeleknek való megküldése előtt meghatározott iratokba a betekintést, ha az nem veszélyezteti az eljárás eredményességét.
+
+(7) Az iratbetekintési jog – a személyes és védett adatok megismerhetetlenné tételével kivonatolt iratról való másolat készítéséért – kormányrendeletben meghatározott költségtérítés ellenében gyakorolható.

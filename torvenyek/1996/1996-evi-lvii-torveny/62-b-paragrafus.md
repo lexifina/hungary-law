@@ -2,4 +2,6 @@
 
 (2) A hivatalból indított eljárásban felmerült egyéb eljárási költséget jogsértő magatartás megállapítása esetén a jogsértést megvalósító ügyfél viseli. Ha több vállalkozás együttesen valósította meg a jogsértést, az eljárási költség megfizetéséért egyetemlegesen felelnek.
 
+(2a) A 75. § szerinti kötelezettségvállalással zárult eljárásban felmerült eljárási költségeket a kötelezettségvállalást tett ügyfél viseli. Ha több vállalkozás tett kötelezettségvállalást, az eljárási költség megfizetéséért egyetemlegesen felelnek.
+
 (3) Az eljárási költség megfizetése alól mentesség nem adható.

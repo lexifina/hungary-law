@@ -10,7 +10,7 @@ b) egyéb esetben négymillió forint.
 
 (3) Ha az eljáró versenytanács a 72. § (3) bekezdése alapján az összefonódás teljes körű vizsgálatának szükségességéről dönt, végzésében – nyolcnapos határidő megjelölésével és a jogkövetkezményekre való figyelmeztetés mellett – felszólítja a kérelmezőt az (1) bekezdés a) pontja szerinti igazgatási szolgáltatási díj a (2) bekezdés szerint megfizetett összegen túli részének megfizetésére. Ha a kérelmező a kitűzött határidőn belül a fizetési kötelezettségének nem tesz eleget, az eljárást meg kell szüntetni; az igazgatási szolgáltatási díjnak a (2) bekezdés szerint megfizetett része visszatérítésének ebben az esetben nincs helye.
 
-(4) Az eljárásnak a hiánypótlási felhívás nemteljesítése miatt történő megszüntetése esetén az eljárás díjmentes, a már megfizetett igazgatási szolgáltatási díjat vissza kell téríteni.
+(4) Ha az eljárás megszüntetésére azért kerül sor, mert a kérelmező nem tesz eleget a 68. § (4) bekezdése szerinti hiánypótlási felhívásban foglaltaknak, a már megfizetett igazgatási szolgáltatási díjat vissza kell téríteni.
 
 (5) Az eljárásnak a kérelem visszavonása miatt történő megszüntetése esetén a már megfizetett igazgatási szolgáltatási díj felét vissza kell téríteni.
 

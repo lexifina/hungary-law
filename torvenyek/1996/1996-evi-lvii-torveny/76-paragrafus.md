@@ -20,8 +20,10 @@ h) jogsértés megállapítása esetén kötelezettséget írhat elő, így kül
 
 i) elrendelheti a jogsértő tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét,
 
-j) megállapíthatja, hogy a magatartás nem jogsértő, illetve
+j) megállapíthatja, hogy a magatartás nem jogsértő,
 
-k) bírságot szabhat ki.
+k) bírságot szabhat ki, illetve
+
+l) a 78. § (8) bekezdése szerinti figyelmeztetést alkalmazhatja arra vonatkozó kötelezettség előírása mellett, hogy az ügyfél alakítson ki a versenyjogi előírásoknak megfelelést és jogsértés megelőzését biztosító belső eljárásrendet.
 
 (2) Az összefonódást megtiltó határozatban az eljáró versenytanács – ha alkalmazandó – egyidejűleg dönt a 31. § szerinti intézkedés alkalmazásáról is.
