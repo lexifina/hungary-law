@@ -1,6 +1,6 @@
-71. § (1) A kormányhivatal szervezetét a kormányhivatal szervezeti és működési szabályzata határozza meg, amelyet a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
+71. § (1) A kormányhivatal szervezeti és működési szabályzatát a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
 
-(2) A szervezeti és működési szabályzatot a kormányhivatal honlapján a módosításokkal egységes szerkezetben közzé kell tenni.
+(2)
 
 (3) A kormányhivatal területi szervekkel akkor rendelkezik, ha erre a kormányhivatalt létrehozó törvény kifejezetten lehetőséget ad.
 

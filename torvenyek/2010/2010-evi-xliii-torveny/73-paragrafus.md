@@ -1,6 +1,6 @@
-73. § (1) A központi hivatal szervezetét a központi hivatal szervezeti és működési szabályzata határozza meg, amelyet a központi hivatalt irányító miniszter normatív utasításban ad ki.
+73. § (1) A központi hivatal szervezeti és működési szabályzatát a központi hivatalt irányító miniszter normatív utasításban ad ki.
 
-(2) A szervezeti és működési szabályzatot a központi hivatal vagy az azt irányító miniszter által vezetett minisztérium honlapján a módosításokkal egységes szerkezetben közzé kell tenni.
+(2)
 
 (3) A központi hivatal területi szervekkel akkor rendelkezik, ha erre a központi hivatalt létrehozó kormányrendelet kifejezetten lehetőséget ad.
 

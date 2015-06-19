@@ -14,6 +14,6 @@ b) képviseli a kormányhivatalt a Kormány és az Országgyűlés előtt.
 
 (3) A kormányhivatal törvényben meghatározott feladatkörében nem utasítható.
 
-(4) A kormányhivatal – ha törvény eltérően nem rendelkezik – fejezeti jogosítványokkal felhatalmazott költségvetési szerv, amelynek költségvetése a felügyeletét ellátó miniszter által vezetett minisztérium költségvetési fejezetén belül önálló címet képez.
+(4)
 
 (5) A kormányhivatal tevékenységéről – a (2) bekezdés b) pontjában meghatározottak szerint – beszámol a Kormánynak, valamint tájékoztatja az Országgyűlés feladatkörében érintett bizottságát. A tájékoztatást a kormányhivatal honlapján közzé kell tenni.
