@@ -234,7 +234,7 @@ Magyarország európai uniós derogációs kötelezettségének határidőben t�
 
 A támogatásról a helyi önkormányzatokért felelős miniszter dönt. A döntés a fejlesztés teljes időszakára - előre ütemezetten - történik.
 
-A nagy költségigényű ivóvíz- és szennyvízberuházásokra előleg nyújtható, melynek felhasználási határideje a tárgyévet követő év december 31-e.
+Az ivóvízminőség-javításra, szennyvízelvezetésre és hulladékgazdálkodásra irányuló beruházásokra előleg nyújtható, melynek felhasználási határideje a tárgyévet követő év december 31-e.
 
 A vissza nem térítendő támogatás folyósítására a pályázóval kötött támogatási szerződésben foglaltak szerint teljesítésarányosan kerül sor.
 
@@ -484,6 +484,48 @@ A támogatással létrehozott ingatlanvagyon a beruházás megvalósításától
 
 A támogatásról tárcaközi bizottság javaslata alapján az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
 
+10. Adósságkonszolidációban nem részesült települési önkormányzatok fejlesztéseinek támogatása
+
+|
+
+Előirányzat:
+
+|
+
+|
+
+|
+
+9700,0 millió forint
+
+Az előirányzatból a 2012. évi költségvetési törvény 76/C. §-a szerinti, a 2013. évi költségvetési törvény 72–74/A. §-a és a 2014. évi költségvetési törvény 67-68. §-a szerinti önkormányzati adósságátvállalásban részt nem vett vagy törlesztési célú támogatásban nem részesült települési önkormányzat pályázati úton támogatást igényelhet a tulajdonában lévő
+
+a) a település belterületén út, híd vagy járda építésére, felújítására, karbantartására,
+
+b) vízrendezési és csapadékelvezetési rendszer kiépítésére, felújítására,
+
+c) köztemető felújítására, ravatalozó építésére, illetve felújítására, temetőközlekedési utak építésére, felújítására,
+
+d) olyan épület felújítására, fejlesztésére, energetikai korszerűsítésére, amely
+
+da) igazgatási tevékenységet,
+
+db) óvodai nevelést,
+
+dc) kulturális tevékenységet vagy
+
+dd) szociális vagy egészségügyi feladatellátást
+
+szolgál,
+
+e) településrendezési tervek készítésére, valamint
+
+f) munkahelyteremtési programok megvalósítására.
+
+A támogatással létrehozott ingatlanvagyon a beruházás megvalósításától számított tíz évig nem idegeníthető el.
+
+A támogatásról tárcaközi bizottság javaslata alapján a helyi önkormányzatokért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
+
 III. Önkormányzati fejezeti tartalék
 
 |
@@ -492,7 +534,7 @@ Előirányzat:
 
 |
 
-38 173,7 millió forint
+32 173,7 millió forint
 
 1. Az önkormányzati fejezeti tartalék előirányzatot növeli
 
@@ -500,7 +542,7 @@ a) az intézményátadásból felszabaduló olyan összeg, amely nem illeti meg 
 
 b) a költségvetési évet megelőző évi elszámolás alapján a helyi önkormányzatok által költségvetési évben visszafizetett támogatások összege,
 
-c) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok által jogtalanul igénybe vett támogatások költségvetési évben visszafizetett összege,
+c) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatok, helyi nemzetiségi önkormányzatok által jogtalanul igénybe vett támogatások költségvetési évben visszafizetett összege,
 
 d) a helyi önkormányzatok által költségvetési évben megfizetett igénybevételi, kiegészítő és késedelmi kamat összege,
 
@@ -514,7 +556,7 @@ f) a helyi önkormányzatok által az államháztartásról szóló törvény 83
 
 a) a támogatások költségvetési évet megelőző évi elszámolása alapján a helyi önkormányzatok részéről a költségvetési évben keletkező pótigény összege,
 
-b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat pótlólagosan megillető támogatások költségvetési évben kifizetett összege,
+b) a kincstári felülvizsgálat, illetve az Állami Számvevőszék ellenőrzése alapján a helyi önkormányzatokat, helyi nemzetiségi önkormányzatokat pótlólagosan megillető támogatások költségvetési évben kifizetett összege,
 
 c) az államháztartásról szóló jogszabályok alapján költségvetési évben a helyi önkormányzatokat megillető igénybevételi, késedelmi és kiegészítő kamat összege,
 
@@ -556,7 +598,7 @@ A támogatások felhasználásának részletes szabályairól az érintett önko
 
 - az a) pont szerinti támogatás esetében a nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért felelős miniszter a helyi önkormányzatokért felelős miniszterrel egyetértésben,
 
-- a b)-e) pontok szerinti támogatások esetében a helyi önkormányzatokért felelős miniszter,
+- a b–e) pontok szerinti támogatások esetében a helyi önkormányzatokért felelős miniszter,
 
 - az f) pont szerinti támogatás esetében a turizmusért felelős miniszter a helyi önkormányzatokért felelős miniszterrel egyetértésben,
 
@@ -568,9 +610,9 @@ A támogatások felhasználásának részletes szabályairól az érintett önko
 
 köt támogatási szerződést.
 
-A támogatás 50%-ának (a továbbiakban: előleg) folyósítása – a g)-i) pontok kivételével – a szerződéskötést követő 30 napon belül történik. A további részletek 2015. évi folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleggel legkésőbb 2015. november 30-áig elszámol. A további részletek folyósítására ez esetben a szerződésben rögzítettek szerint, de legkésőbb 2015. december 31-éig kerülhet sor. A támogatások felhasználási határideje – ideértve az előleget is – 2016. december 31.
+A támogatás 50%-ának (a továbbiakban: előleg) folyósítása – a g–i) pontok kivételével – a szerződéskötést követő 30 napon belül történik. A további részletek 2015. évi folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb 2015. november 30-áig elszámol. A további részletek folyósítására ez esetben a szerződésben rögzítettek szerint, de legkésőbb 2015. december 31-éig kerülhet sor. A támogatás felhasználási határideje – ideértve a 2015. november 30-áig el nem számolt előleget is – 2016. december 31.
 
-A g)-i) pontok szerinti támogatások teljes összegének folyósítása a szerződéskötést követő 30 napon belül történik, felhasználási határideje 2015. december 31.
+A g)–i) pontok szerinti támogatások teljes összegének folyósítása a szerződéskötést követő 30 napon belül történik, felhasználási határideje 2015. december 31.
 
 6. A tartalék előirányzat szolgál a tartósan fizetésképtelen helyzetbe került helyi önkormányzatok adósságrendezésére irányuló hitelfelvétel visszterhes kamattámogatására, és a pénzügyi gondnok díjára.
 
@@ -600,7 +642,7 @@ Kiegészítő szabályok:
 
 a) az I.1. pont szerinti jogcím esetében a vízgazdálkodásért felelős miniszter az államháztartásért felelős miniszter és a szociálpolitikáért felelős miniszter egyetértésével,
 
-b) az I.2. és I.9. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter egyetértésével,
+b) az I. 2., I. 9. és II. 10. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter egyetértésével,
 
 c) az I.3. pont szerinti jogcím esetében a gyermekek és az ifjúság védelméért felelős miniszter a helyi önkormányzatokért felelős miniszter és az államháztartásért felelős miniszter egyetértésével,
 

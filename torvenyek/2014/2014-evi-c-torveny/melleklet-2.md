@@ -1,4 +1,4 @@
-## 4K25605.pdf
+## 5K08015M.pdf
 
 2. melléklet a 2014. évi C. törvényhez
 
@@ -64,7 +64,7 @@ FAJLAGOS ÖSSZEG: 22 300 forint/hektár
 
 A támogatás a települési önkormányzatokat a zöldterületek, és az azokhoz kapcsolódó építmények kialakításához és fenntartásához kapcsolódóan a belterület nagysága alapján illeti meg. Budapest Főváros Önkormányzata e jogcímen 550 millió forint támogatásra jogosult.
 
-A belterületre vonatkozóan a Földmérési és Távérzékelési Intézet által a Magyar Közigazgatási Határadatbázisban (a továbbiakban: FÖMI határadatbázis) nyilvántartott 2013. december 31-ei állapotnak megfelelő adatokat kell figyelembe venni.
+A belterületre vonatkozóan a Földmérési és Távérzékelési Intézet által az ingatlan-nyilvántartási adatbázisból (a továbbiakban: FÖMI adatbázis) rendelkezésre bocsátott, 2014. augusztus 31-én hatályos területi összesítőben szereplő adatokat kell figyelembe venni.
 
 bb) Közvilágítás fenntartásának támogatása
 
@@ -594,7 +594,7 @@ Vk1; Vk2 = vezetői órakedvezmény miatti pedagógus többletlétszám a 2014/2
 
 Op1; Op2 = a Nkt. 61. § (3) bekezdése alapján az intézmény alapító okirata szerint 500 fő férőhelyet elérő vagy azt meghaladó intézményeknél kötelezően alkalmazandó óvodapszichológusok létszáma a 2014/2015., illetve a 2015/2016. nevelési évben (egy tizedesre kerekítve).
 
-A támogatás igénylése szempontjából az óvodapedagógusok nevelő munkáját közvetlenül segítők száma a Nkt. 2. melléklete, valamint a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető – a Kjt. alapján foglalkoztatott – létszám, de legfeljebb
+A támogatás igénylése szempontjából az óvodapedagógusok nevelő munkáját közvetlenül segítők száma – beleértve a pedagógus szakképzettséggel rendelkező óvodapedagógusok nevelő munkáját segítőket is – az Nkt. 2. melléklete, valamint a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerint elismerhető – a Kjt. alapján foglalkoztatott – létszám, de legfeljebb
 
 - 2015. év első 8 hónapjában a ténylegesen foglalkoztatott segítők átlagos száma,
 
@@ -622,15 +622,17 @@ Ts1 = S1 * ÁBs * 8/12
 
 Tp2 = Psz2 * ÁBp * 4/12
 
-Ts2 = S2 * ÁBs * 4/12
+Ts2 = S2*ÁBs*4/12+S3*ÁBp*4/12
 
 ahol:
 
-Tp1;Tp2 = 2014/2015., illetve 2015/2016. nevelési évben az óvodapedagógusok átlagbér alapú támogatása,
+Tp1; Tp2 = 2014/2015., illetve 2015/2016. nevelési évben az óvodapedagógusok átlagbér alapú támogatása,
 
 Ts1, Ts2 = 2014/2015., illetve 2015/2016. nevelési évben az óvodapedagógusok nevelő munkáját közvetlenül segítők átlagbér alapú támogatása,
 
 S1; S2 = 2014/2015., illetve 2015/2016. nevelési évben az óvodapedagógusok nevelő munkáját közvetlenül segítők b) alpont szerinti száma,
+
+S3= a 2015/2016. nevelési évben a pedagógus szakképzettséggel rendelkező, az óvodapedagógusok nevelő munkáját közvetlenül segítők száma.
 
 ÁBp = óvodapedagógus átlagbér elismert összege,
 
@@ -706,6 +708,10 @@ ELŐIRÁNYZAT:
 
 |
 
+|
+
+|
+
 ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK
 
 |
@@ -725,6 +731,10 @@ ALAPFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK
 |
 
 1 286 000 forint/fő/11 hónap
+
+|
+
+|
 
 |
 
@@ -748,7 +758,7 @@ MESTERFOKOZATÚ VÉGZETTSÉGŰ ÓVODAPEDAGÓGUSOK
 
 1 415 000 forint/fő/11 hónap
 
-A központi költségvetés kiegészítő támogatást biztosít a Nkt. 64.§-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során a Pedagógus II. vagy Mesterpedagógus fokozatot elért óvodapedagógusok béréhez. A támogatás az önkormányzatot az általa fenntartott intézményben 2015. január 1-jén foglalkoztatott, 2014. december 31-éig minősítést elnyert pedagógusok száma alapján illeti meg. A minősítést elnyert pedagógusok fenntartónkénti adatait a Köznevelési Információs Rendszer adatszolgáltatása alapozza meg. Ha a támogatást megalapozó adatok az önkormányzat által fenntartott intézményben ténylegesen foglalkoztatott, minősítést elnyert pedagógusok számával nem egyeznek meg, azok önkormányzat általi módosítására az Ávr. szerinti értesítőben meghatározott módon és határnapig kerülhet sor.
+A központi költségvetés kiegészítő támogatást biztosít az Nkt. 64.§-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során a Pedagógus II. vagy Mesterpedagógus fokozatot elért óvodapedagógusok béréhez. A támogatás az önkormányzatot az általa fenntartott intézményben 2014. december 31-éig minősítést szerzett, 2015. január 1-je és 2015. december 31-e között ténylegesen foglalkoztatott pedagógusok időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg. A minősítést szerzett pedagógusok fenntartónkénti adatait a Köznevelési Információs Rendszer adatszolgáltatása alapozza meg. Ha a támogatást megalapozó adatok az önkormányzat által fenntartott intézményben ténylegesen foglalkoztatott, minősítést elnyert pedagógusok számával nem egyeznek meg, azok önkormányzat általi módosítására az Ávr. szerinti értesítőben meghatározott módon és határnapig kerülhet sor.
 
 A támogatás folyósítása január hónaptól havonta egyenlő részletekben, az Ávr.-ben meghatározott időpontokban történik.
 
@@ -1252,7 +1262,7 @@ ELŐIRÁNYZAT:
 
 |
 
-58 000,0 millió forint
+61 080,0 millió forint
 
 A települési önkormányzatokat kötött felhasználású támogatás illeti meg az általuk a bölcsődében, a fogyatékos személyek nappali intézményében elhelyezett gyermekek számára biztosított, továbbá az óvodai, iskolai, kollégiumi és externátusi gyermekétkeztetés egyes kiadásaihoz.
 
@@ -1344,7 +1354,7 @@ A gyermekétkeztetés üzemeltetési támogatásának összege nem haladhatja me
 
 A gyermekétkeztetés üzemeltetési támogatásának megállapításához szükséges adatszolgáltatás rendjét a Kiegészítő szabályok 2.a) alpontja, tartalmát az államháztartásért felelős miniszter által kiadott útmutató rögzíti, amelyet az elszámolás során is figyelembe kell venni.
 
-A gyermekétkeztetés üzemeltetési támogatásának önkormányzatonkénti meghatározásáról és annak összegéről – az önkormányzati adatszolgáltatás alapján, a települések típusát és az egy lakosra jutó adóerő-képességét is figyelembe véve – a miniszterek 2015. január 5-éig döntenek. A Kiegészítő szabályok 2.b) alpontja szerinti májusi adatszolgáltatás alapján a miniszterek döntésüket módosíthatják.
+A gyermekétkeztetés üzemeltetési támogatásának önkormányzatonkénti meghatározásáról és annak összegéről – az önkormányzati adatszolgáltatás alapján, a települések típusát és az egy lakosra jutó adóerő-képességét is figyelembe véve – a miniszterek 2015. január 5-éig döntenek. A Kiegészítő szabályok 2.b) alpontja szerinti májusi és októberi adatszolgáltatás alapján a miniszterek döntésüket módosíthatják.
 
 6. Szociális ágazati pótlék
 
@@ -3628,7 +3638,7 @@ felső határ
 
 Amennyiben a település közös hivatal székhelye, a rá irányadó %-os támogatáscsökkentés a 3-12. kategóriákban 10 százalékponttal kisebb.
 
-A számított bevétel számítása során az iparűzési adóalap a fővárosi és a kerületi önkormányzatok között a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló 2006. évi CXXXIII. törvény 3. §-a, illetve a törvény melléklete szerint kerül megosztásra. Az adóerő-képesség figyelembe vételére vonatkozó szabályokat a Kiegészítő szabályok 1.c) alpontja tartalmazza. Budapest Főváros lakosságszámaként az egy főre jutó adóerő-képesség számításakor a fővárosi kerületek együttes lakosságszámát kell figyelembe venni.
+A számított bevétel számítása során az iparűzési adóalap a fővárosi és a kerületi önkormányzatok között a fővárosi önkormányzat és a kerületi önkormányzatok közötti forrásmegosztásról szóló 2006. évi CXXXIII. törvény 2014. december 31-én hatályos 3. §-a, illetve a törvény melléklete szerint kerül megosztásra. Az adóerő-képesség figyelembe vételére vonatkozó szabályokat a Kiegészítő szabályok 1.c) alpontja tartalmazza. Budapest Főváros lakosságszámaként az egy főre jutó adóerő-képesség számításakor a fővárosi kerületek együttes lakosságszámát kell figyelembe venni.
 
 Kiegészítő szabályok:
 
@@ -3872,9 +3882,7 @@ kezdő hónapja
 
 I.2., II.1., II.2.,
 
-II.3.,
-
-III.3., III.4., III.5.
+II.3., II.5., III.3., III.4., III.5.
 
 |
 
@@ -3886,7 +3894,7 @@ a III.4. és III.5. jogcímnél a becsült éves ellátotti adatok, és az üzem
 
 I.2. esetében 2015. szeptember;
 
-II.1., II.2., II.3., III.3., III.4.a) és III.5.a) esetében 2015. július; III.4.b) és III.5.b) esetében 2015. augusztus
+II.1., II.2., II.3., II. 5., III.3., III.4.a) és III.5.a) esetében 2015. július; III.4.b) és III.5.b) esetében 2015. augusztus
 
 |
 
@@ -3900,13 +3908,13 @@ II.1., II.2., II.3., III.3., III.4.a) és III.5.a) esetében 2015. július; III.
 
 I.2., II.1., II.2.,
 
-II.3., III.3.,
+II.3., II.5., III.3.,
 
-III.4.a), III.5.a)
+III.4.a), III.5.
 
 |
 
-a nem közművel összegyűjtött háztartási szennyvíz becsült évi mennyisége (m3) módosítható; az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint szociális és gyermekétkeztetési jogcímek esetében a becsült éves ellátotti adatok módosíthatók
+a nem közművel összegyűjtött háztartási szennyvíz becsült évi mennyisége (m3) módosítható; az óvodások száma, a vezetői órakedvezmény miatti pedagógus többletlétszám, illetve a segítők létszáma, valamint szociális és gyermekétkeztetési jogcímek esetében a becsült éves ellátotti adatok, és az üzemeltetési támogatás megállapításához a 2015. évi feladatellátás becsült adatai módosíthatók
 
 |
 
@@ -4508,7 +4516,7 @@ d) Az I.1. pont szerinti támogatás, valamint a 2014. évi költségvetési tö
 
 e) Amennyiben az OSAP I.1.bb)-bd) alpont szerinti támogatást megalapozó adatok magasabbak, mint az ezen időpont szerinti tényleges adatok, úgy az OSAP adatszolgáltatás – 2015. június 30-áig történő – javítása alapján az I.1. bb)-bd) alpontokhoz kapcsolódó támogatásokban történő változások finanszírozása augusztus hónaptól történik.
 
-f) Az I.1.b) alpont szerinti támogatások megállapításakor a kiválással érintett önkormányzatnak a FÖMI határadatbázis I.1.ba) alpont szerinti és az OSAP I.1.bb)-bd) alpont szerinti adatait lakosságarányosan meg kell osztani a 2014. évben megalakult önkormányzattal.
+f) Az I.1.b) alpont szerinti támogatások megállapításakor a kiválással érintett önkormányzatnak a FÖMI adatbázis I.1.ba) alpont szerinti és az OSAP I.1.bb)-bd) alpont szerinti adatait lakosságarányosan meg kell osztani a 2014. évben megalakult önkormányzattal.
 
 g) Az I.1.e) alpont szerinti támogatás megállapításakor a kiválással érintett önkormányzat 2013. évi idegenforgalmi adóbevételének tényadatát lakosságarányosan meg kell osztani a 2014. évben megalakult önkormányzattal.
 
@@ -4644,7 +4652,7 @@ b) A Nkt. szerint létrehozott óvoda-bölcsőde többcélú intézmény esetéb
 
 c) A II. pont szerinti támogatásokra vonatkozó felhasználási szabályok
 
-A II.1.-II.3. és II.5. pontok szerinti támogatások kizárólag a támogatással érintett óvodaintézmények működési és felhalmozási kiadásaira, valamint az óvodai nevelésben részt vevő gyermekek étkeztetési kiadásaira használhatók fel. A támogatás szempontjából kizárólag a „Óvodai nevelés, ellátás szakmai feladatai”, a „Sajátos nevelési igényű gyermekek óvodai nevelésének, ellátásának szakmai feladatai”, a „Nemzetiségi óvodai nevelés, ellátás szakmai feladatai”, az „Óvodai nevelés, ellátás működtetési feladatai”, valamint a „Gyermekétkeztetés” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
+A II.1.-II.3. és II.5. pontok szerinti támogatások kizárólag a támogatással érintett óvodaintézmények működési és felhalmozási kiadásaira, valamint az óvodai nevelésben részt vevő gyermekek étkeztetési kiadásaira használhatók fel. A támogatás szempontjából kizárólag a „Óvodai nevelés, ellátás szakmai feladatai”, a „Sajátos nevelési igényű gyermekek óvodai nevelésének, ellátásának szakmai feladatai”, a „Nemzetiségi óvodai nevelés, ellátás szakmai feladatai”, az „Óvodai nevelés, ellátás működtetési feladatai”, valamint a „Gyermekétkeztetés köznevelési intézményben” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 5. A III. pont szerinti támogatásra vonatkozó speciális kiegészítő szabályok
 
@@ -4690,7 +4698,7 @@ Amennyiben a III.3. és III.4. pontok szerinti szolgáltatás, intézmény nem e
 
 i) A szociális, gyermekjóléti és gyermekvédelmi szolgáltatások egyidejű igénybevételére vonatkozó szabályok:
 
-ia) Ha az ellátott ugyanazon a napon több szolgáltatótól, intézménytől, hálózattól, illetve székhelytől, telephelytől (a továbbiakban együtt: engedélyes) is ugyanabban – a III.3. b)-d) és f)-k) pontjai szerint támogatott és a Szoctv. 20/C. § (2) bekezdésének és a Gyvt. 139. § (3) bekezdésének hatálya alá nem tartozó (e melléklet alkalmazása során a továbbiakban: adatszolgáltatási kötelezettséggel járó és támogatott) – a szociális vagy gyermekjóléti szolgáltatásban részesül, a támogatás szempontjából az adott napon ellátottként csak annál az engedélyesnél vehető figyelembe, amelyik az ellátottról előbb teljesítette a g) alpont szerinti időszakos jelentést.
+ia) Ha az ellátott ugyanazon a napon több szolgáltatótól, intézménytől, hálózattól, illetve székhelytől, telephelytől (a továbbiakban együtt: engedélyes) is ugyanabban – a III. pont 3. alpont c), d) és f)–k) pontja szerint támogatott és a Szoctv. 20/C. § (2) bekezdésének és a Gyvt. 139. § (3) bekezdésének hatálya alá nem tartozó (e melléklet alkalmazása során a továbbiakban: adatszolgáltatási kötelezettséggel járó és támogatott) – a szociális vagy gyermekjóléti szolgáltatásban részesül, a támogatás szempontjából az adott napon ellátottként csak annál az engedélyesnél vehető figyelembe, amelyik az ellátottról előbb teljesítette a g) alpont szerinti időszakos jelentést.
 
 ib) Az ia) alpont szerinti rendelkezést kell alkalmazni akkor is, ha az ellátott ugyanazon a napon több, adatszolgáltatási kötelezettséggel járó és támogatott gyermekek átmeneti gondozásába tartozó ellátásban részesül.
 
@@ -4712,7 +4720,7 @@ is részesül.
 
 ie) Házi segítségnyújtás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen nappali ellátásban is részesül.
 
-if) Adatszolgáltatási kötelezettséggel járó és támogatott szociális alapszolgáltatás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen adatszolgáltatási kötelezettséggel járó és támogatott gyermekjóléti alapellátásban, gyermekvédelmi szakellátásban vagy szociális szakosított ellátásban is részesül, az ig) alpontban foglalt kivételekkel.
+if) Adatszolgáltatási kötelezettséggel járó és támogatott szociális alapszolgáltatás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen adatszolgáltatási kötelezettséggel járó és támogatott gyermekjóléti alapellátásban, gyermekvédelmi szakellátásban vagy szociális szakosított ellátásban is részesül, az ig) alpontban és az io)–is) alpontban meghatározott kivételekkel.
 
 ig) Hajléktalan személyek nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon éjjeli menedékhelyen vagy hajléktalan személyek átmeneti szállásán bentlakásos szociális intézményi ellátásban is részesül.
 
@@ -4729,6 +4737,16 @@ il) Adatszolgáltatási kötelezettséggel járó és támogatott gyermekjólét
 im) Bölcsődei ellátás és családi napközi ellátás esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon otthont nyújtó ellátásban is részesül.
 
 in) Ugyanarra a napra ugyanazon ellátott a támogatás szempontjából nem vehető figyelembe több, adatszolgáltatási kötelezettséggel járó és támogatott szociális szakosított ellátás esetén.
+
+io) Szociális étkeztetés esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon éjjeli menedékhelyen vagy hajléktalan személyek átmeneti szállásán bentlakásos szociális intézményi ellátásban vagy családok átmeneti otthonában átmeneti gondozásban is részesül.
+
+ip) Időskorúak nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon éjjeli menedékhelyen bentlakásos szociális intézményi ellátásban is részesül.
+
+iq) Fogyatékos személyek nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon fogyatékos személyek rehabilitációs célú lakóotthonában vagy éjjeli menedékhelyen bentlakásos szociális intézményi ellátásban is részesül.
+
+ir) Pszichiátriai betegek nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon pszichiátriai betegek rehabilitációs célú lakóotthonában vagy éjjeli menedékhelyen bentlakásos szociális intézményi ellátásban is részesül.
+
+is) Szenvedélybetegek nappali ellátása esetén a támogatás szempontjából figyelembe kell venni az ellátottat, ha ugyanazon a napon szenvedélybetegek rehabilitációs célú lakóotthonában vagy éjjeli menedékhelyen bentlakásos szociális intézményi ellátásban is részesül.
 
 j) A III.3.ja) alpont esetében
 
@@ -4798,9 +4816,9 @@ ob) a III.2. pont szerinti támogatás a III.1. pontban szereplő ellátások ö
 
 oc) a III.3.a)-k) alpontok között átcsoportosítás hajtható végre. A támogatás szempontjából kizárólag a „Családsegítés”, a „Gyermekjóléti szolgáltatások”, a „Szociális étkeztetés”, a „Házi segítségnyújtás”, a „Falugondnoki, tanyagondnoki szolgáltatás”, az „Idősek, demens betegek nappali ellátása”, a „Fogyatékossággal élők nappali ellátása”, a „Pszichiátriai betegek nappali ellátása”, a „Szenvedélybetegek nappali ellátása”, a „Hajléktalanok nappali ellátása”, a „Gyermekek napközbeni ellátása”, a „Hajléktalanok átmeneti ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
-od) a III.4. pont szerinti támogatás a támogatással érintett intézmények szakmai dolgozóinak béreire, valamint a III.4.b) alpont szerinti útmutatóban szereplő működési és felújítási kiadásokra fordítható, azzal, hogy a III.4.a) és III.4.b) alpontok között átcsoportosítás hajtható végre. E támogatást az önkormányzat a családok átmeneti otthonából év közben kikerülők otthontalanságának megszüntetéséhez is felhasználhatja. A támogatás szempontjából kizárólag a „Gyermekek átmeneti ellátása”, az „Időskorúak, demens betegek tartós bentlakásos ellátása”, „Hajléktalanok tartós bentlakásos ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
+od) a III.4. pont szerinti támogatás a támogatással érintett intézmények működési és felhalmozási kiadásaira fordítható, azzal, hogy a III.4.a) és III.4.b) alpontok között átcsoportosítás hajtható végre. E támogatást az önkormányzat a családok átmeneti otthonából év közben kikerülők otthontalanságának megszüntetéséhez is felhasználhatja. A támogatás szempontjából kizárólag a „Gyermekek átmeneti ellátása”, az „Időskorúak, demens betegek átmeneti ellátása”, az „Időskorúak, demens betegek tartós bentlakásos ellátása”, „Hajléktalanok tartós bentlakásos ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
-oe) a III.5. pont szerinti támogatás kizárólag az étkeztetés teljes önköltségére (annak megszervezésével összefüggő valamennyi költségre, ideértve a felhalmozási jellegű kiadásokat is) számolható el, azzal, hogy a III.5.a) és III.5.b) alpontok szerinti támogatások egymás között átcsoportosíthatók. A támogatás szempontjából kizárólag a „Gyermekétkeztetés” kormányzati funkción elszámolt kiadások vehetők figyelembe.
+oe) a III.5. pont szerinti támogatás kizárólag az étkeztetés teljes önköltségére (annak megszervezésével összefüggő valamennyi költségre, ideértve a felhalmozási jellegű kiadásokat is) számolható el, azzal, hogy a III.5.a) és III.5.b) alpontok szerinti támogatások egymás között átcsoportosíthatók. A támogatás szempontjából kizárólag a „Gyermekétkeztetés köznevelési intézményben” és a „Gyermekétkeztetés bölcsődében, fogyatékosok nappali intézményében” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 of) a III.6. pont szerinti támogatást a települési önkormányzat kizárólag a 2015. évi január-december hónapokban kifizetendő ágazati pótlékra és annak közterheire használhatja fel.
 

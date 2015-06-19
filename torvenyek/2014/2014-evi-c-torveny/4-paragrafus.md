@@ -16,7 +16,9 @@ c) a központi költségvetési szerveknél a feladatok változásával, a szerv
 
 d) az Alkotmánybíróság új tagjának megválasztásánál jelentkező többlet személyi juttatások és az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére,
 
-e) a fegyveres és rendvédelmi életpálya rendszerek bevezetéséhez kapcsolódó többlet személyi juttatások, valamint az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére.
+e) a fegyveres és rendvédelmi életpálya rendszerek bevezetéséhez kapcsolódó többlet személyi juttatások, valamint az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére,
+
+f) a Bíróságok és az Ügyészség esetében jogszabály-módosítás következtében jelentkező többlet személyi juttatások és az azokhoz kapcsolódó, munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetésére.
 
 (3) A Kormány a XI. Miniszterelnökség fejezet, 34. cím, 2. Különféle kifizetések alcím előirányzatából a IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok kiegészítő támogatásai címre, – a 3. mellékletben szereplő I. pont 2. alpont szerinti Helyi szervezési intézkedésekhez kapcsolódó többletkiadások támogatása jogcímen – átcsoportosíthat, ha a helyi önkormányzati létszámleépítések miatt e jogcímen rendelkezésre álló előirányzat már felhasználásra került.
 

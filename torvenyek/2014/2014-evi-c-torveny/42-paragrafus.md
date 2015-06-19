@@ -6,7 +6,7 @@
 
 42. § (1) Az Országgyűlés a köznevelési közfeladat ellátására
 
-a) átlagbéralapú támogatást állapít meg a nevelési-oktatási, valamint pedagógiai szakszolgálati intézményt fenntartó nemzetiségi önkormányzat, az egyházi és magán köznevelési intézmény fenntartója részére az általuk fenntartott nevelési-oktatási intézményben, továbbá pedagógiai szakszolgálati intézményben pedagógus és – a b) pont kivételével – nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után a 8. melléklet I. pontja, az óvoda, egységes óvoda-bölcsőde esetében a 2. melléklet II. pont 1. alpontja szerint,
+a) átlagbéralapú támogatást állapít meg a nevelési-oktatási, valamint pedagógiai szakszolgálati intézményt fenntartó nemzetiségi önkormányzat, az egyházi és magán köznevelési intézmény fenntartója részére az általuk fenntartott nevelési-oktatási intézményben, továbbá pedagógiai szakszolgálati intézményben pedagógus és – a b) pont kivételével – nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak után a 8. melléklet I. pontja, az óvoda, egységes óvoda-bölcsőde esetében a 2. melléklet II. pont 1. és 5. alpontja szerint,
 
 b) átlagbér alapú támogatást állapít meg a pedagógus-munkakörben foglalkoztatottak után a Magyarország területén külföldi állam vagy nemzetközi szervezet oktatási programja szerint az oktatásért felelős miniszter engedélye alapján működő nevelési-oktatási intézmény Magyarországon nyilvántartásba vett fenntartója számára a 8. melléklet I. pontja szerint, az óvoda esetében a 2. melléklet II. pont 1. alpontja szerint,
 
@@ -22,6 +22,6 @@ eb) átlagbéralapú támogatást
 
 állapít meg a bevett egyház által az állami iskolában szervezett oktatáshoz a 8. melléklet IV. pontja szerint,
 
-f) a gyermek-, tanulói étkeztetéshez az óvodai, egységes óvoda-bölcsődei, általános iskolai, középfokú iskolai, kollégiumi étkeztetés támogatására a köznevelési intézményt fenntartó nemzetiségi önkormányzat, továbbá az egyházi és magán köznevelési intézmény fenntartója részére az általa biztosított gyermek-, tanulóétkeztetéshez a 2. melléklet III. pont 5. alpont a) alpontjában meghatározott támogatással azonos összegű és azonos feltételek mellett nyújtott támogatást állapít meg.
+f) a gyermek-, tanulói étkeztetéshez az óvodai, egységes óvoda-bölcsődei, általános iskolai, középfokú iskolai, kollégiumi étkeztetés támogatására a köznevelési intézményt fenntartó nemzetiségi önkormányzat, továbbá az egyházi és magán köznevelési intézmény fenntartója részére az általa biztosított gyermek-, tanulóétkeztetéshez a 2. melléklet III. pont 5. alpont a) alpontjában meghatározott támogatással azonos összegű és azonos feltételek mellett nyújtott támogatást, továbbá a 8. melléklet IV/A. pontja szerinti kiegészítő támogatást állapít meg.
 
 (2) Az oktatásért felelős miniszter a kislétszámú csoportokban szervezhető hit- és erkölcstan oktatáshoz az általa vezetett minisztérium költségvetési fejezetébe tartozó előirányzat terhére további támogatást nyújthat.

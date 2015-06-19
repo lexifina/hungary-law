@@ -1384,6 +1384,20 @@ Fővárosi és megyei kormányhivatalok peres ügyei (30. cím, 5. alcím)
 
 |
 
+100a
+
+|
+
+|
+
+|
+
+|
+
+Az Erste Bank Hungary Zrt. tulajdonosi részesedésének megszerzése (35. cím, 2. alcím, 1. jogcímcsoport, 4. jogcím)
+
+|
+
 101
 
 |

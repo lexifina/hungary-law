@@ -84,9 +84,9 @@ am) köznevelési intézményben működő utazó gyógypedagógusi hálózatra 
 
 pótlólagosan elismert összeg a 2015/2016. tanítási évre 40 800 forint/számított létszám/3 hónap.
 
-b) A nevelő-oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege 2 190 700 forint/számított létszám/év.
+b) A nevelő-oktató munkát közvetlenül segítők átlagbérének és közterheinek elismert összege 2 190 700 forint/számított létszám/év. 2015. szeptember 1-jétől a pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottakat az a) pont szerint kell figyelembe venni.
 
-c) Az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók köznevelési feladatot ellátó intézményeiben foglalkoztatott pedagógusok, valamint a nevelő-oktató munkát közvetlenül segítők átlagbére és közterhei elismert összege a 2015/2016. tanítási évre – 2015. szeptember 1-jétől – az a) és b) alpontban meghatározottak 30%-a a köznevelést alapfeladatként végző, a társasági adóról és osztalékadóról szóló 1996. évi LXXXI. törvény hatálya alá tartozó gazdasági társaság – ide nem értve a nonprofit gazdasági társaságot –, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó vállalkozó esetén.
+c) Az Nkt. 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartók köznevelési feladatot ellátó intézményeiben foglalkoztatott pedagógusok, valamint a nevelő-oktató munkát közvetlenül segítők átlagbére és közterhei elismert összege a 2015/2016. tanítási évre – 2015. szeptember 1-jétől – az a) b) és d) alpontban meghatározottak 30%-a a köznevelést alapfeladatként végző, a társasági adóról és osztalékadóról szóló 1996. évi LXXXI. törvény hatálya alá tartozó gazdasági társaság – ide nem értve a nonprofit gazdasági társaságot –, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény hatálya alá tartozó vállalkozó esetén.
 
 d) A minősítő vizsga és a minősítési eljárás keretében elnyert minősítés alapján a tárgyév első napján az Nkt. 64. § (4) bekezdés c) vagy d) pontja szerinti fokozatba besorolt, 2015. január 1-jén – 2015/2016-os tanévben 2015. október 1-jén – pedagógus-munkakörben foglalkoztatott pedagógusoknak az elnyert minősítéssel járó bérnövekmény és az ahhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó elismert összege
 
@@ -464,6 +464,12 @@ b) október-december hónapokra 344 000 forint/hónap,
 
 amely a főiskolai végzettségű Pedagógus I. kategóriába sorolt pedagógus bruttó átlagbérének és járulékának megfelelő összeg.
 
+IV/A. KIEGÉSZÍTŐ TÁMOGATÁS AZ ÓVODAI ELLÁTÁSBAN RÉSZESÜLŐ GYERMEKEK INGYENES ÉTKEZTETÉSÉHEZ
+
+A 42. § (1) bekezdés f) pontjában meghatározott fenntartót 2015. szeptember 1-jétől kiegészítő támogatás illeti meg az általa étkeztetett, óvodai ellátásban részesülő, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 151. § (5) bekezdés a) pontja szerint a gyermekétkeztetést ingyenesen igénybe vevő gyermekek után.
+
+A kiegészítő támogatás fajlagos összege 9 400 forint/fő/4 hónap, ami havonta egyenlő részletekben kerül folyósításra.
+
 V. KIEGÉSZÍTŐ SZABÁLYOK
 
 1. Az átlagbér alapú támogatás a személyi juttatások és az azokhoz kapcsolódó 27%-os mértékkel számított munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez, a dologi kiadások, az ellátottak pénzbeli juttatásai és egyéb működési célú kiadások, valamint felújítási kiadások finanszírozására használható fel a felújítási hitel felvétele és törlesztése kivételével. Az átlagbér alapú támogatás megbízási jogviszonyban óraadóként foglalkoztatottak megbízási díjára az Nkt. 22. § (2) bekezdésében, szakiskolák, szakközépiskolák esetében a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: szakképzésről szóló törvény) 30. § (5) bekezdésében meghatározott alkalmazotti arány mértékéig használható fel.
@@ -524,16 +530,20 @@ b) Az átlagbér alapú támogatás, a működési támogatás és az e törvén
 
 ba) az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézményekben és pedagógiai szakszolgálati intézményekben kimutatott – a gyermek- és tanulóétkeztetést is figyelembe vevő – éves összesített működési és felújítási kiadást, valamint a fenntartók működtetéssel és intézményfenntartással kapcsolatos kiadásait csökkenteni kell
 
-baa) az Áht. 6. § (3) bekezdés b) és c) pontja szerinti, továbbá a közszolgáltatás ellátása során nyújtott ellenérték, az általános forgalmi adóból származó állami és települési önkormányzati, a köznevelési ágazatban realizált bevételekkel és
+baa) az Áht. 6. § (3) bekezdés b)–d) pontja szerinti állami és települési önkormányzati, a köznevelési ágazatban realizált bevételekkel és
 
 bab) az olyan költségvetési támogatás összegével, amelyhez a nemzetiségi önkormányzat és az egyházi jogi személy az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézménnyel, pedagógiai szakszolgálati intézménnyel azonos feltételek mellett hozzájuthat és
 
 bb) a ba) alpontban meghatározott számítás eredményének – az állam, illetve a települési önkormányzat által fenntartott nevelési-oktatási intézménybe vagy pedagógiai szakszolgálati intézménybe járó – egy gyermekre, tanulóra jutó összegéből az a) alpont szerinti elszámolást is figyelembe véve le kell vonni a kifizetett támogatások egy gyermekre, tanulóra jutó együttes összegét.
 
-17. Óvoda, egységes-óvoda esetén alkalmazni kell az I. pont 3. alpont c) alpontjában, valamint a Kiegészítő szabályok 2-3., 6-7., 12., 15-16. alpontban foglaltakat.
+17. Óvoda, egységes óvoda-bölcsőde esetén alkalmazni kell az I. pont 3. alpont c) alpontjában, valamint a Kiegészítő szabályok 2-3., 6-7., 12., 15-16. alpontban foglaltakat.
 
 18. A gyógypedagógiai nevelési-oktatási intézmény óvodája esetén az óvodás gyermekek létszámának meghatározásakor alkalmazni kell a 2. melléklet II. pont 1. alpont a) alpontjában leírtakat.
 
 19. Az I. pont 3. alpont d) alpont szerinti támogatás megállapításához az alkalmazottak és az óraadók személyes adatait tartalmazó köznevelés információs rendszere (KIR) személyi nyilvántartásának 2014. december 31-ei állapota szerint a KIR működtetéséért és adatkezeléséért felelős szerv 2015. január 6-ig megküldi a Magyar Államkincstár részére fenntartó székhelye szerinti megyei bontásban a minősítési eljárásban eredményesen végzett pedagógus oktatási azonosítóját, a minősítési eljárás eredménye szerinti fokozatát, végzettségét, köznevelési intézménye nevét, címét, OM azonosítóját, az intézményfenntartó nevét, típusát, székhelyének címét.
 
 A Magyar Államkincstár fenntartó székhelye szerinti illetékes igazgatósága a 42. § (1) bekezdés a) vagy b) pontja szerint támogatásban részesülő fenntartók számára havi ütemezésben – jogszabályban meghatározott fenntartói változásjelentéssel érintett utalásig e törvény alapján – folyósítja a támogatást, első alkalommal február 7-ig.
+
+20. Az I. pont 3. alpont d) pontja szerinti támogatás megállapításánál – a pedagógusok minősítési eljárása eredményeképpen – a magasabb fizetési fokozatba besorolt pedagógus létszámot közalkalmazotti jogviszonyban vagy munkaviszonyban foglalkoztatottak teljes munkaidőre átszámított létszáma szerint kell figyelembe venni.
+
+21. 2015. augusztus 31-ig az I. pont 3. alpont b) pontjában szereplő számított létszámon a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 4. mellékletében meghatározott finanszírozott létszámot kell érteni. A 2015. szeptember 1-jétől a pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak számított létszámán azok teljes munkaidőre átszámított létszámát kell érteni, továbbá az I. pont 3. alpont a) és b) pontja szerinti támogatásban elismert létszámának együttes összege egyezik meg a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 4. mellékletében meghatározott finanszírozott létszámmal. Ha a pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő foglalkoztatottnak a munkaköre több köznevelési alapfeladat ellátásához is kapcsolódik, az I. pont 3. alpont a) pontjának alpontjai közül azon a jogcímen kell figyelembe venni, ahol a legmagasabb az intézményben nevelt, oktatott gyermekek, tanulók létszáma.
