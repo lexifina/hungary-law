@@ -90,4 +90,6 @@
 
 ## A *-gal jelölt tétel csak az erdővédelmi szolgálat tagjára vonatkozik.
 
-4. melléklet a 70/2012. (XII. 14.) BM rendelethez
+4. melléklet a 70/2012. (XII. 14.) BM rendelethez[^5]
+
+[^5]: A 4. melléklet a 20/2015. (VI. 12.) BM rendelet 2. §-ával megállapított szöveg.

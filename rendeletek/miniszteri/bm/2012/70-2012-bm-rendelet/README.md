@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-70-20-0
 | 2013-01-01 | 2012-70-20-0A.1 | 70/2012. (XII. 14.) BM rendelet |
 | 2014-01-01 | 2012-70-20-0A.2 | 74/2013. (XII. 18.) BM rendelet |
 | 2014-04-01 | 2012-70-20-0A.3 | 27/2014. (III. 31.) BM rendelet |
+| 2015-06-20 | 2012-70-20-0A.4 | 20/2015. (VI. 12.) BM rendelet |

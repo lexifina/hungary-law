@@ -84,7 +84,7 @@
 
 ## A *-gal jelölt tétel csak a mezőőrre vonatkozik.
 
-6. melléklet a 70/2012. (XII. 14.) BM rendelethez[^3]
+6. melléklet a 70/2012. (XII. 14.) BM rendelethez[^6]
 
 Közterület felügyelők egyenruhája
 
@@ -182,4 +182,4 @@ Közterület felügyelők egyenruhája
 
 | A *-gal jelölt tételek nem kötelezőek, vagy a kerékpáros és motoros öltözet részei. |
 
-[^3]: A 6. melléklet a 27/2014. (III. 31.) BM rendelet 7. § b) pontjával megállapított szöveg.
+[^6]: A 6. melléklet a 27/2014. (III. 31.) BM rendelet 7. § b) pontjával megállapított szöveg.
