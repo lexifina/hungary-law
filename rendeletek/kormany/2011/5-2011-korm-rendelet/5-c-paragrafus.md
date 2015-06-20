@@ -1,0 +1,11 @@
+5/C. §[^10] (1) A csatlakozó felhasználó a szolgáltatási igényét, vagy a felhasználó a szolgáltatással kapcsolatos változási igényét bejelenti az Intézetnek. A bejelentés tartalmazza különösen a szolgáltatás megnevezését, legfontosabb jellemzőit, a szolgáltatásnyújtás kívánt kezdő időpontját. A bejelentésnek a szolgáltatásnyújtás kívánt kezdő időpontját – az Intézet és a felhasználó eltérő megállapodása hiányában – legalább 90 nappal meg kell előznie. Az Intézet a bejelentés kézhezvételétől számított 30 munkanapon belül nyilatkozik annak megvalósíthatóságáról.
+
+(2) Ha az Intézet úgy nyilatkozik, hogy a kívánt szolgáltatást nem tudja nyújtani, vagy az Intézet az (1) bekezdésben foglalt válaszadási határidőn belül nem nyilatkozik a szolgáltatás nyújtásának képességéről, a felhasználó jogosult a bejelentése szerinti szolgáltatásra vonatkozó igényét – figyelemmel a (3) bekezdésben foglaltakra – más szolgáltató útján kielégíteni.
+
+(3) Ha a (2) bekezdés szerinti szolgáltatást az Intézet a későbbiekben elérhetővé teszi, és erről a felhasználót értesíti, a felhasználó köteles gondoskodni a szolgáltatás igénybevételére vonatkozó hatályos szerződés megszüntetéséről az értesítés kézhezvételétől számított 90 napon belül, az Intézet pedig köteles a szolgáltatás nyújtására.
+
+(4) A (3) bekezdésben foglaltakat csak akkor kell alkalmazni az ott meghatározott szerződéses jogviszonyra, ha a szerződésben részes felhasználó a szerződés hatályának lejárta vagy meghosszabbítása előtt külön díj, kártérítés vagy kártalanítás fizetése nélkül is jogosult a szerződést az e rendeletben foglaltak szerint megszüntetni, vagy ehhez a felhasználóval szerződő fél díj, kártérítés vagy kártalanítás fizetése nélkül hozzájárult.
+
+(5) Azon felhasználók esetében, amelyeknél a csatlakozási igények, valamint változtatási igények ellenértékének fedezete a központi költségvetésről szóló törvényben a miniszter által vezetett minisztérium fejezetén belül nem áll rendelkezésre, az Intézettel a felhasználó, a felhasználó működtetője, fenntartója, a felhasználóra vonatkozó költségvetési fejezetet irányító szerv egyedi szerződést köt a szolgáltatás ellenértékének biztosítása érdekében. Az Intézet a megállapodás főbb tartalmi elemeiről annak megkötése előtt a minisztert tájékoztatja.
+
+[^10]: Az 5/C. §-t a 148/2015. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
