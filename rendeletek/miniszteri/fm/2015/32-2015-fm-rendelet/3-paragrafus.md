@@ -1,0 +1,1 @@
+## 2. § Az e rendelet hatálya alá tartozó központi kezelésű előirányzatok vonatkozásában e rendelet hatálybalépését megelőzően tett kötelezettségvállalások az adott előirányzat tekintetében az 1. melléklet M oszlopában kijelölt kezelő szerv által tett kötelezettségvállalásnak minősülnek.
