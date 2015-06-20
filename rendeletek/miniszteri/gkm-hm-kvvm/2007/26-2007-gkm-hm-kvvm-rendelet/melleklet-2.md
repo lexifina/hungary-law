@@ -978,6 +978,20 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 34 | Tököl Drop Zone 3,15 km (1,7 NM) sugarú kör a 472037N 0185909E középpont körül | FL145 (4450 m STD) / 3500’ | (ICAO „G”) Közzétett üzemidő szerint. |
 
+| 35 | Nyíregyháza Drop Zone10 km sugarú kör a 475856N 0214100E középpont körül | FL155 (4700 m)/4000’ (1200 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint |
+
+| 36 | LHKV Drop Zone | FL165 (5050 m)/GND | (ICAO „G”) Közzétett üzemidő szerint |
+
+|  | 463100N | 0173400E |
+
+|  | 463100N | 0174700E |
+
+|  | 461800N | 0174700E |
+
+|  | 461800N | 0173400E |
+
+|  | 463100N | 0173400E |
+
 III. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
-[^52]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § a) pontja szerint módosított szöveg.
+[^52]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § a) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (1) bekezdése szerint módosított szöveg.

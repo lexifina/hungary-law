@@ -8,11 +8,13 @@
 
 | LHP2 | Csillebérc 0,5 km sugarú kör a 472923N 0185708E középpont körül | 3500’ (1050 m) AMSL / GND | Kutató atomreaktor. |
 
-| Korlátozott légterek |
+|  | A | B | C | D | E |
 
-| Légtér azonosítója | Neve/oldalhatárai | Felső/alsó határa | Korlátozás |
+| 1 | Korlátozott légterek |
 
-| LHR1 | Budapest | 3500’ (1050 m) AMSL / GND | A légiközlekedési hatóság engedélyével vehető igénybe. |
+| 2 | Légtér azonosítója | Légtér neve/oldalhatárai | Felső/alsó határa | Korlátozás |
+
+| 3 | LHR1 | Budapest | 3500’ (1050 m) AMSL/GND | A légiközlekedési hatóság engedélyével vehető igénybe. |
 
 | 473059N | 0185828E |
 
@@ -38,7 +40,7 @@
 
 | 473059N | 0185828E |
 
-| LHR1A | Budapest | 3500’ (1050 m) AMSL / GND | A légiközlekedési hatóság engedélyével vehető igénybe. |
+| 4 | LHR1A | Budapest | 3500’ (1050 m) AMSL/GND | A légiközlekedési hatóság engedélyével vehető igénybe. |
 
 | 473154N | 0185620E |
 
@@ -50,79 +52,43 @@
 
 | 473154N | 0185620E |
 
-| LHR3 | Balatonfüzfő | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 5 | LHR3 | Balatonfűzfő 2 km sugarú kör a 470503N 0180254E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 2 km sugarú kör a 470503N 0180254E középpont körül |
+| 6 | LHR4 | Zalaegerszeg 1 km sugarú kör a 464816N 0163720E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| LHR4 | Zalaegerszeg | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 7 | LHR5 | Répcelak 2 km sugarú kör a 472508N 0170055E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 1 km sugarú kör a 464816N 0163720E középpont körül |
+| 8 | LHR6 | Százhalombatta 2 km sugarú kör a 471702N 0185358E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| LHR5 | Répcelak | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 9 | LHR8 | Kazincbarcika 2,5 km sugarú kör a 481429N 0203956E középpont körül | 3500’ (1050 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 2 km sugarú kör a 472508N 0170055E középpont körül |
+| 10 | LHR9 | Tiszaújváros 3 km sugarú kör a 475413N 0210134E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| LHR6 | Százhalombatta | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 11 | LHR10 | Hajdúszoboszló 5 km sugarú kör a 473154N 0212253E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 2 km sugarú kör a 471702N 0185358E középpont körül |
+| 12 | LHR11 | Tiszavasvári 1,5 km sugarú kör a 475703N 0212153E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| LHR8 | Kazincbarcika | 3500’ (1050 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 13 | LHR12 | Sajóbábony 1,5 km sugarú kör a 481003N 0204253E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 2,5 km sugarú kör a 481429N 0203956E középpont körül |
+| 14 | LHR14 | Algyő 3 km sugarú kör a 461904N 0201246E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| LHR9 | Tiszaújváros | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára |
+| 15 | LHR15 | Dunaújváros 2 km sugarú kör a 465703N 0185554E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 3 km sugarú kör a 475413N 0210134E középpont körül |
+| 16 | LHR16 | Szolnok–Tószeg 2 km sugarú kör a 470804N 0200753E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| LHR10 | Hajdúszoboszló | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 17 | LHR22 | Pét 2 km sugarú kör 471003N 0180824E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| 5 km sugarú kör a 473154N 0212253E középpont körül |
+| 18 | LHR29 | Nyírtelek 2,5 km sugarú kör a 480150N 0213827E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
 
-| LHR11 | Tiszavasvári | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 19 | LHR30 | Hajdúsámson 2 km sugarú kör a 473846N 0214451E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
 
-| 1,5 km sugarú kör a 475703N 0212153E középpont körül |
+| 20 | LHR31 | Heves–Alatka 2 km sugarú kör a 474000N 0201629E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
 
-| LHR12 | Sajóbábony | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+| 21 | LHR32 | Vác–Derecskedűlő 2 km sugarú kör a 474444N 0190831E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
 
-| 1,5 km sugarú kör a 481003N 0204253E középpont körül |
+| 22 | LHR33 | Hetényegyháza 2 km sugarú kör a 465554N 0193555E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
 
-| LHR14 | Algyő | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
-
-| 3 km sugarú kör a 461904N 0201246E középpont körül |
-
-| LHR15 | Dunaújváros | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
-
-| 2 km sugarú kör a 465703N 0185554E középpont körül |
-
-| LHR16 | Szolnok-Tószeg | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
-
-| 2 km sugarú kör a 470804N 0200753E középpont körül |
-
-| LHR22 | Pét | 7500’ (2300 m) AMSL / GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
-
-| 2 km sugarú kör a 471003N 0180824E középpont körül |
-
-| LHR29 | Nyírtelek | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 2,5 km sugarú kör a 480150N 0213827E középpont körül |
-
-| LHR30 | Hajdúsámson | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 2 km sugarú kör a 473846N 0214451E középpont körül |
-
-| LHR31 | Heves-Alatka | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 2 km sugarú kör a 474000N 0201629E középpont körül |
-
-| LHR32 | Vác-Derecskedűlő | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 2 km sugarú kör a 474444N 0190831E középpont körül |
-
-| LHR33 | Hetényegyháza | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
-
-| 2 km sugarú kör a 465554N 0193555E középpont körül |
-
-| LHR34 | Táborfalva | 3000’ (900 m) AMSL / GND | Polgári légijárművek számára. |
+| 23 | LHR34 | Táborfalva | 3000’ (900 m) AMSL/GND | Polgári légijárművek számára. |
 
 | 470627N | 0192534E |
 
@@ -134,11 +100,13 @@
 
 | 470627N | 0192534E |
 
-| LHR35 | Pusztavacs | 2500’ (750 m) AMSL / GND | Polgári légijárművek számára. |
+| 24 | LHR35 | Pusztavacs 2,5 km sugarú kör a 470957N 0192806E középpont körül | 2500’ (750 m) AMSL/GND | Polgári légijárművek számára. |
 
-| 2,5 km sugarú kör a 470957N 0192806E középpont körül |
+| 25 | LHR36 | Pusztaederics 2,5 km sugarú kör a 463925N 0164740E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
-| Határsáv |  |  |  |
+| 26 | LHR37 | Zsana 2,5 km sugarú kör a 462525N 0194200E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
+
+| 27 | LHR38 | Kardoskút 4,5 km sugarú kör a 462854N 0204423E középpont körül | 7500’ (2300 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára. |
 
 |  | A | B | C | D | E |
 
