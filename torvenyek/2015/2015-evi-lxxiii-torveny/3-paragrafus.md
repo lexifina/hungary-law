@@ -1,3 +1,0 @@
-3. § A Kvtv. 5. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Az Állami Egészségügyi Ellátó Központ tulajdonosi joggyakorlása alá tartozó ingatlanok (8) bekezdés szerinti értékesítése esetén a befolyó bevételeket, továbbá a tulajdonosi joggyakorlása alá tartozó vagyonnal kapcsolatos egyéb bevételeket a XX. Emberi Erőforrások Minisztériuma fejezet, 28. cím, 1. alcím, 1. Az Állami Egészségügyi Ellátó Központ tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoport előirányzaton belül kell elszámolni. E bevételek államháztartásért felelős miniszter által jóváhagyott összege a 2015. évben a XX. Emberi Erőforrások Minisztériuma fejezetből finanszírozható felhalmozási kiadások teljesítésére használható fel a (8) bekezdésben meghatározott módon.”
