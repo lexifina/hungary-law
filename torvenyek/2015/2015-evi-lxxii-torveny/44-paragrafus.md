@@ -1,3 +1,0 @@
-44. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 6. § (4a) bekezdése helyébe a következő rendelkezés lép:
-
-„(4a) A 2. § (1b) bekezdésének hatálya alá tartozó, nemzetközi fejlesztési együttműködési célú tevékenységhez szükséges forrásokat 2014. évben az állam a központi költségvetés terhére, a kamatkiegyenlítési rendszeren keresztül közvetlenül biztosítja az Eximbank részére. 2014. évet követően a központi költségvetésről szóló törvény külön előirányzata tartalmazza az Eximbank 2. § (1b) bekezdésben meghatározott tevékenységéhez szükséges forrásokat.”

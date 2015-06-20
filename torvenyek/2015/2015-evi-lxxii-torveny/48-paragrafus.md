@@ -2,6 +2,6 @@
 
 a)
 
-b) 3. számú melléklet d) pontjában az „az Országos Mezőgazdasági Könyvtár és Dokumentációs Központ” szövegrész helyébe az „a Magyar Mezőgazdasági Múzeum és Könyvtár” szöveg
+b)
 
 lép.

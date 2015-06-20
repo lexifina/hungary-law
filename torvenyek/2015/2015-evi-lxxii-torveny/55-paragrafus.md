@@ -1,1 +1,0 @@
-55. § Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 24. § (2) bekezdés a) és b) pontjában a „nyilvántartott” szövegrész helyébe a „minősített” szöveg lép.
