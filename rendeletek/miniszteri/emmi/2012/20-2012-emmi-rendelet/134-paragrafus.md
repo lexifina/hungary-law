@@ -4,7 +4,7 @@
 
 ## 46. A gimnáziumi nevelés-oktatás hat vagy nyolc – nyelvi előkészítő évfolyam esetében hét vagy kilenc – évfolyamos formában történő megszervezésére vonatkozó külön szabályok
 
-134. §[^163] (1) Hat vagy nyolc – nyelvi előkészítő évfolyam esetében hét vagy kilenc – évfolyamos gimnáziumi nevelés-oktatás abban a nevelési-oktatási intézményben, többcélú intézmény esetén a hat vagy nyolc évfolyamos gimnáziumi nevelést-oktatást folytató intézményegységben hirdethető meg, amelyik esetében az alábbi feltételek együttesen teljesülnek:
+134. §[^176] (1) Hat vagy nyolc – nyelvi előkészítő évfolyam esetében hét vagy kilenc – évfolyamos gimnáziumi nevelés-oktatás abban a nevelési-oktatási intézményben, többcélú intézmény esetén a hat vagy nyolc évfolyamos gimnáziumi nevelést-oktatást folytató intézményegységben hirdethető meg, amelyik esetében az alábbi feltételek együttesen teljesülnek:
 
 a) a nevelés-oktatás az oktatásért felelős miniszter által az ilyen típusú intézményekre 2012. szeptember 1-je után kiadott vagy jóváhagyott kerettanterv alapján kerül megszervezésre,
 
@@ -20,4 +20,4 @@ f) az ötödik-nyolcadik évfolyamon tanító pedagógusoknak is legalább a fel
 
 (2) Fenntartóváltás esetén az (1) bekezdés b) pontjában foglalt feltételt csak a fenntartóváltást követő évtől felmenő rendszerben kell alkalmazni.
 
-[^163]: A 134. § a 22/2015. (IV. 21.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^176]: A 134. § a 22/2015. (IV. 21.) EMMI rendelet 7. §-ával megállapított szöveg.

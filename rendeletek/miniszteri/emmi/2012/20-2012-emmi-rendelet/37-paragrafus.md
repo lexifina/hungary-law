@@ -1,10 +1,10 @@
 37. § (1) Az általános iskola tanulója esetében a felvételi lapok kitöltését az általános iskola szervezi meg. A felvételi lapokat – ha e rendelet másképp nem rendelkezik – az általános iskola a kitöltéséhez szükséges adatok ellenőrzése és rögzítése után a KIFIR rendszerben állítja elő, és megküldi a felvételt hirdető középfokú iskolába, valamint a Felvételi Központba.
 
-(2)[^70] Ha a kiskorú tanköteles tanuló a kilencedik évfolyamnál alacsonyabb évfolyamra jelentkezik, a felvételi lapjait a szülő is kitöltheti és a jelentkezési lapot közvetlenül megküldheti a felvételt hirdető középiskolába, a tanulói adatlapot pedig a Felvételi Központba. A szülő kérése alapján az általános iskola is megszervezheti a felvételi lapok kitöltését és továbbítását.
+(2)[^72] Ha a kiskorú tanköteles tanuló a kilencedik évfolyamnál alacsonyabb évfolyamra jelentkezik, a felvételi lapjait a szülő is kitöltheti és a jelentkezési lapot közvetlenül megküldheti a felvételt hirdető középiskolába, a tanulói adatlapot pedig a Felvételi Központba. A szülő kérése alapján az általános iskola is megszervezheti a felvételi lapok kitöltését és továbbítását.
 
 (3) Ha a jelentkező nincs tanulói jogviszonyban, vagy tanulmányait külföldön végzi, a felvételi lapokat a jelentkező, kiskorú jelentkező esetén a szülő tölti ki és a jelentkezési lapot a felvételt hirdető középfokú iskolába, a tanulói adatlapot pedig a Felvételi Központba küldi meg.
 
-(4)[^71] A felvételi kérelmet a 27. § (1) bekezdése szerint kell benyújtani. A felvételi lapok többszörözhetők. Ha a felvételi kérelmet nem az e rendeletben foglaltak szerint nyújtották be, a kérelemben érintett középfokú iskola szükség esetén a hiányok nyolc napon belüli pótlására szólítja fel a kérelem benyújtóját. E határidő elmulasztása jogvesztő.
+(4)[^73] A felvételi kérelmet a 27. § (1) bekezdése szerint kell benyújtani. A felvételi lapok többszörözhetők. Ha a felvételi kérelmet nem az e rendeletben foglaltak szerint nyújtották be, a kérelemben érintett középfokú iskola szükség esetén a hiányok nyolc napon belüli pótlására szólítja fel a kérelem benyújtóját. E határidő elmulasztása jogvesztő.
 
 (5) A kiskorú felvételi lapjait mind a két szülő, ha a kiskorú gyámság alatt áll, a gyám, továbbá – ha a jelentkező a tizennegyedik életévét betöltötte és nem cselekvőképtelen – a jelentkező írja alá. A felvételi lapokat az (1) bekezdésben meghatározott esetben az általános iskolának akkor is továbbítania kell, ha azt a jelentkező nem írja alá. Nem szükséges a szülő aláírása, ha a szülői felügyeletet a bíróság megszüntette, korlátozta, vagy ha a szülői felügyelet azért szünetel, mert a szülő cselekvőképtelen vagy korlátozottan cselekvőképes, továbbá akkor sem, ha a szülő ismeretlen helyen tartózkodik, vagy jogai gyakorlásában ténylegesen akadályozott. A szülői felügyeletet gyakorló szülőnek kell igazolnia, hogy a másik szülő aláírására nincs szükség. A nagykorú, cselekvőképes személy felvételi lapjait a jelentkező írja alá.
 
@@ -12,5 +12,5 @@
 
 (7) A felvételi lapok aláírása hozzájárulást jelent ahhoz, hogy a jelentkező személyes adatait a középfokú iskola, a hivatal, a Felvételi Központ és a kormányhivatal a felvételi eljárás törvényes lefolytatása érdekében kezelje. Ha a jelentkező a 40. § (1) bekezdése szerinti felvételi jegyzékben egyéni adat, jelige alkalmazását kéri, az erre vonatkozó nyilatkozatát és az egyéni adatát, jeligéjét a jelentkezési lapra rá kell írnia.
 
-[^70]: A 37. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 17. §-ával megállapított szöveg.
-[^71]: A 37. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 13. pontja szerint módosított szöveg.
+[^72]: A 37. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^73]: A 37. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 13. pontja szerint módosított szöveg.

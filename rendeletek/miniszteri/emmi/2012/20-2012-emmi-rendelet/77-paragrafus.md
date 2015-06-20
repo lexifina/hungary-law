@@ -4,8 +4,6 @@
 
 (2) Ha a tanuló a következő tanév kezdetéig azért nem tett eleget a tanulmányi követelményeknek, mert az előírt vizsga letételére a nevelőtestülettől halasztást kapott, az engedélyezett határidő lejártáig tanulmányait felsőbb évfolyamon folytathatja.
 
-(3) Az évfolyam megismétlése – kivéve, ha a tanuló betöltötte a tizenhatodik életévét és nem végezte el az általános iskola hatodik osztályát – nem tagadható meg abban az iskolában, amellyel a tanuló tanulói jogviszonyban áll. A tanuló kérésére az iskola igazgatója köteles segítséget nyújtani ahhoz, hogy a tanuló a megkezdett tanulmányait másik iskolában vagy a Köznevelési Hídprogram keretében folytathassa.
+(3)–(4)[^113]
 
-(4)[^106] Ha a tanuló részére engedélyezték, hogy a sikeresen befejezett évfolyamot megismételje, a magasabb iskolai évfolyamra vagy a szakképzési évfolyamra lépésről, továbbá az érettségi vizsgára bocsátásról a megismételt iskolai évfolyamon elért év közbeni érdemjegyek, félévi és tanítási év végi osztályzatok alapján kell dönteni.
-
-[^106]: A 77. § (4) bekezdése a 22/2013. (III. 22.) EMMI rendelet 40. § j) pontja szerint módosított szöveg.
+[^113]: A 77. § (3)–(4) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 18. §-a hatályon kívül helyezte.

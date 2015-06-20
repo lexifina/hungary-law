@@ -12,9 +12,9 @@ b) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási neh
 
 c) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő vizsgázó írásbeli vizsga helyett szóbeli vizsgát tehet,
 
-d)[^99]
+d)[^106]
 
-(5)[^100]
+(5)[^107]
 
-[^99]: A 68. § (4) bekezdés d) pontját a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.
-[^100]: A 68. § (5) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.
+[^106]: A 68. § (4) bekezdés d) pontját a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.
+[^107]: A 68. § (5) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.

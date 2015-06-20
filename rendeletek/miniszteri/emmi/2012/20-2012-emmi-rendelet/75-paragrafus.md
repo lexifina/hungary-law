@@ -1,6 +1,6 @@
-75. § (1)[^104] Ha a tanuló – a szülő kérelme alapján – a tankötelezettségének magántanulóként kíván eleget tenni, az erre irányuló kérelem benyújtásától számított öt napon belül az iskola igazgatója megkeresi a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyámhatóságot és a gyermekjóléti szolgálatot. A gyámhatóság és a gyermekjóléti szolgálat az igazgató megkeresésétől számított tizenöt napon belül köteles megküldeni a véleményét.
+75. § (1)[^111] Ha a tanuló – a szülő kérelme alapján – a tankötelezettségének magántanulóként kíván eleget tenni, az erre irányuló kérelem benyújtásától számított öt napon belül az iskola igazgatója megkeresi a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyámhatóságot és a gyermekjóléti szolgálatot. A gyámhatóság és a gyermekjóléti szolgálat az igazgató megkeresésétől számított tizenöt napon belül köteles megküldeni a véleményét.
 
-(1a)[^105] Gyermekvédelmi gondoskodásban nevelkedő tanuló esetén az iskola igazgatója a tanuló nevelésbe vétele ügyében eljárni illetékes gyámhatóság véleményének beszerzése iránt intézkedik. Ha a tankötelezettség magántanulóként való teljesítésének engedélyezését nem a gyermekvédelmi gyám kérte, az iskola igazgatója a kérelem benyújtásától számított öt napon belül kikéri a tanuló gyermekvédelmi gyámjának véleményét. A gyermekvédelmi gyám véleményét tizenöt napon belül köteles megküldeni.
+(1a)[^112] Gyermekvédelmi gondoskodásban nevelkedő tanuló esetén az iskola igazgatója a tanuló nevelésbe vétele ügyében eljárni illetékes gyámhatóság véleményének beszerzése iránt intézkedik. Ha a tankötelezettség magántanulóként való teljesítésének engedélyezését nem a gyermekvédelmi gyám kérte, az iskola igazgatója a kérelem benyújtásától számított öt napon belül kikéri a tanuló gyermekvédelmi gyámjának véleményét. A gyermekvédelmi gyám véleményét tizenöt napon belül köteles megküldeni.
 
 (2) Ha a tanuló tanulmányi kötelezettségének a szülő kérelme alapján magántanulóként tesz eleget, felkészítéséről a szülő gondoskodik, a tanuló egyénileg készül fel. A magántanuló magatartását és szorgalmát nem kell minősíteni. Az iskola igazgatója köteles tájékoztatni a tanulót és a szülőt a magántanuló kötelességeiről és jogairól. A magántanuló az igazgató előzetes engedélyével vehet részt a tanórai vagy egyéb foglalkozásokon. A magántanuló kérelemre felvehető a napközibe és a tanulószobai foglalkozásra.
 
@@ -14,5 +14,5 @@ b) sajátos nevelési igényű tanuló esetén a fővárosi, megyei utazó gyóg
 
 (4) Az iskola köteles gondoskodni a tanuló felkészítéséről, érdemjegyeinek és osztályzatának megállapításáról akkor is, ha szakorvosi vélemény alapján otthoni ellátás keretében részesül tartós gyógykezelésben, és emiatt magántanulóként folytatja tanulmányait.
 
-[^104]: A 75. § (1) bekezdése a 22/2015. (IV. 21.) EMMI rendelet 6. §-ával megállapított szöveg.
-[^105]: A 75. § (1a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 6. §-a iktatta be.
+[^111]: A 75. § (1) bekezdése a 22/2015. (IV. 21.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^112]: A 75. § (1a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 6. §-a iktatta be.

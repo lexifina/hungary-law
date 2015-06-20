@@ -1,4 +1,4 @@
-## 71. [^229] Az Arany János Tehetséggondozó Program
+## 71. [^252] Az Arany János Tehetséggondozó Program
 
 176. § (1) Az Arany János Tehetséggondozó Programban azok a középiskolák és kollégiumok vehetnek részt, amelyek közösen vállalják a program célkitűzéseinek a megvalósítását, valamint céljuk esélyt teremteni a felsőoktatásba történő bejutásra azoknak a hátrányos helyzetű tanulóknak, akik az Arany János Tehetséggondozó Programban való részvétel nélkül nem vagy csak aránytalan nehézséggel kezdhetnék meg tanulmányaikat a felsőoktatásban.
 
@@ -34,4 +34,4 @@ c) jogutód nélkül megszűnik.
 
 (8) Az Arany János Tehetséggondozó Program, az Arany János Kollégiumi Program és az Arany János Kollégiumi-Szakiskolai Program támogatásának szabályairól szóló rendeletben, a kerettantervek kiadásának és jóváhagyásának rendjéről szóló rendeletben és a Kollégiumi nevelés országos alapprogramjának kiadásáról szóló rendeletben foglalt követelmények megvalósítását végző pedagógusok számára a fenntartó illetménypótlékot állapít meg a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 16. § (9) bekezdésében foglaltak alapján.
 
-[^229]: A 71. alcím (176. §) a 45/2014. (X. 27.) EMMI rendelet 47. §-ával megállapított szöveg.
+[^252]: A 71. alcím (176. §) a 45/2014. (X. 27.) EMMI rendelet 47. §-ával megállapított szöveg.

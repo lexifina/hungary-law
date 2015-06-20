@@ -12,7 +12,7 @@ b) a tanuló nevét, állampolgárságát, nem magyar állampolgár esetén a ta
 
 c) a tanuló osztálynaplóban szereplő sorszámát,
 
-d)[^120] a tanévet és a tanuló által elvégzett évfolyamot,
+d)[^127] a tanévet és a tanuló által elvégzett évfolyamot,
 
 e) a tanuló magatartásának és szorgalmának értékelését,
 
@@ -46,4 +46,4 @@ d) a törzslap külívének lezárásakor hatályos osztálynévsort (a tanuló 
 
 (8) A megsemmisült vagy elveszett törzslap helyett – a rendelkezésre álló iratok, adatok alapján – póttörzslapot kell kiállítani.
 
-[^120]: A 99. § (3) bekezdés d) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § f) pontja szerint módosított szöveg.
+[^127]: A 99. § (3) bekezdés d) pontja a 22/2013. (III. 22.) EMMI rendelet 39. § f) pontja szerint módosított szöveg.

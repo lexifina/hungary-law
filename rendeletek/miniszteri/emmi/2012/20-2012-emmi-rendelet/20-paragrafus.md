@@ -70,6 +70,10 @@ b) a kérelem elutasítására vonatkozó döntését határozati formában
 
 (8) Az óvodába felvett gyermeket az óvoda nyilvántartja. Ha a gyermek óvodát változtat, további nyilvántartása az átadó óvoda értesítése alapján az átvevő óvoda feladata. Az óvoda törli az óvodába felvettek nyilvántartásából azt a gyermeket, akinek óvodai jogviszonya a (2) bekezdés szerint megszűnt.
 
+(9)[^39] Az Nkt. 49. § (3) bekezdése alkalmazásában életvitelszerű ott lakásnak minősül, ha a gyermek a kötelező felvételt biztosító óvoda körzetében található ingatlant otthonául használja és az ilyen ingatlan a polgárok személyi adatainak és lakcímének nyilvántartásában a gyermek lakóhelyeként vagy tartózkodási helyeként az óvodai beiratkozás első határnapját megelőző három hónapnál régebb óta szerepel. Ha ez nem teljesül, vagy ha bármely körülmény alapján arra lehet következtetni, hogy a gyermek a nyilvántartásban szereplő lakhelyén vagy tartózkodási helyén nem életvitelszerűen lakik, úgy az óvodavezető, illetve az Nkt. 49. § (2) bekezdés szerinti esetben az óvodavezető vagy a fenntartó által szervezett bizottság jogosult felszólítani az óvodába jelentkező gyermek szülőjét, hogy az életvitelszerű körzetben lakás tényét akként igazolja, hogy a felszólítás kézhez vételétől számított 15 napon belül bemutatja a területileg illetékes védőnőtől származó, a védőnői ellátás igénybevételét igazoló nyilatkozatot.
+
+(10)[^40] Ha az óvodavezető, illetve az általa vagy a fenntartó által szervezett bizottság felszólítása ellenére a szülő a védőnői nyilatkozatot nem mutatja be, úgy az óvodavezető, illetve az általa vagy a fenntartó által szervezett bizottság jogosult az életvitelszerűen körzetben lakást családlátogatás kezdeményezésével ellenőrizni. Ha az óvodavezető, az általa, illetve a fenntartó által szervezett bizottság által javasolt legalább három időpont közül a gyermek szülője vagy törvényes képviselője egy alkalommal sem teszi lehetővé a családlátogatást, úgy vélelmezni kell, hogy a gyermek nem életvitelszerűen lakik a kötelező felvételt biztosító óvoda körzetében, és ennek alapján az óvodai felvétel megtagadható.
+
 [^26]: A 20. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^27]: A 20. § (1a) bekezdését a 22/2013. (III. 22.) EMMI rendelet 5. § (2) bekezdése iktatta be.
 [^28]: A 20. § (1b) bekezdését a 22/2013. (III. 22.) EMMI rendelet 5. § (2) bekezdése iktatta be, szövege a 22/2015. (IV. 21.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -83,3 +87,5 @@ b) a kérelem elutasítására vonatkozó döntését határozati formában
 [^36]: A 20. § (4) bekezdése a 22/2013. (III. 22.) EMMI rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^37]: A 20. § (6a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 1. § (3) bekezdése iktatta be.
 [^38]: A 20. § (6b) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 1. § (3) bekezdése iktatta be.
+[^39]: A 20. § (9) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 1. §-a iktatta be.
+[^40]: A 20. § (10) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 1. §-a iktatta be.

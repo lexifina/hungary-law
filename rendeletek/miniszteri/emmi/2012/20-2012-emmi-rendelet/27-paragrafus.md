@@ -14,6 +14,6 @@ c) középiskola esetén a tanulmányi eredmények, a központi írásbeli vizsg
 
 (4) Ha a középfokú iskola nemzetiségi nevelés-oktatást folytat, a hozzá jelentkező tanulók szövegértési kompetenciáinak a vizsgálatához a központi írásbeli vizsga magyar nyelvi feladatlapjai helyett helyben készített nemzetiségi nyelvű szövegértési feladatsort használhat.
 
-(5)[^55] Ha a középfokú iskola a művészeti vagy testnevelés tanulmányi területen hirdet felvételt, a (2) bekezdésben meghatározottak mellett további képességek, készségek meglétét is vizsgálhatja.
+(5)[^57] Ha a középfokú iskola a művészeti vagy testnevelés tanulmányi területen hirdet felvételt, a (2) bekezdésben meghatározottak mellett további képességek, készségek meglétét is vizsgálhatja.
 
-[^55]: A 27. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 5. pontja szerint módosított szöveg.
+[^57]: A 27. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 5. pontja szerint módosított szöveg.

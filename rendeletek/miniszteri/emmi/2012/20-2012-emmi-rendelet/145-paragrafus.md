@@ -2,9 +2,11 @@
 
 ## A NEVELÉSI-OKTATÁSI INTÉZMÉNYBEN LEFOLYTATHATÓ SZAKMAI ELLENŐRZÉSEK SZABÁLYAI, AZ ORSZÁGOS PEDAGÓGIAI-SZAKMAI ELLENŐRZÉSBEN RÉSZT VEVŐ SZAKÉRTŐ TEVÉKENYSÉGE FOLYTATÁSÁNAK SZAKMAI FELTÉTELEI
 
-## 57. [^179] Az országos pedagógiai-szakmai ellenőrzés célja, módszerei, területei és lefolytatásának általános szabályai
+## 57. [^192] Az országos pedagógiai-szakmai ellenőrzés célja, módszerei, területei és lefolytatásának általános szabályai
 
 145. § (1) Az országos pedagógiai-szakmai ellenőrzés a nevelési-oktatási intézmények szakmai tevékenységét a pedagógusok munkájának általános pedagógiai szempontok alapján történő értékelésére, az intézményvezetők általános pedagógiai és vezetéselméleti szempontok szerint történő értékelésére, az intézmények saját céljainak megvalósulására, továbbá az intézményi önértékelés eredményeire alapozva értékeli, és ezzel az intézmény szakmai fejlődéséhez támogatást ad.
+
+(1a)[^193] Az országos pedagógiai-szakmai ellenőrzés különösen az óra- és foglalkozáslátogatás, a megfigyelés, az interjú és a pedagógiai dokumentumok vizsgálata módszereit alkalmazza. Az intézmény ellenőrzését legalább három – a jogszabályi feltételek szerint kijelölt – köznevelési szakértőből álló csoport végzi. A szakértői csoport intézkedésre nem jogosult, megállapításait, javaslatait jegyzőkönyvben rögzíti.
 
 (2) Az országos pedagógiai-szakmai ellenőrzés részét képező intézményi önértékelés területeit, szempontjait, módszereit és eszközrendszerét a hivatal dolgozza ki és az oktatásért felelős miniszter hagyja jóvá. Az intézményi önértékelés keretében az intézmény ötévente teljes körűen értékeli saját pedagógiai munkáját. Az intézményi önértékelés részeként kétévente sor kerül az intézmény pedagógusai, valamint az intézményvezetői megbízás második és negyedik évében az intézményvezető intézményen belüli értékelésére.
 
@@ -12,4 +14,5 @@
 
 (4) Az intézmény az önértékelését úgy tervezi, hogy a pedagógiai-szakmai ellenőrzésben érintettek értékelésének eredménye a pedagógiai-szakmai ellenőrzés kijelölt időpontja előtt tizenöt nappal elérhető legyen a hivatal által működtetett informatikai támogató rendszerben.
 
-[^179]: Az 57. alcím (145–147. §) a 22/2015. (IV. 21.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^192]: Az 57. alcím (145–147. §) a 22/2015. (IV. 21.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^193]: A 145. § (1a) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 9. §-a iktatta be.
