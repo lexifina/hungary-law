@@ -1,5 +1,7 @@
-## „(4) Az Intézetnek a felsőoktatási és köznevelési intézmények, kutató-fejlesztő helyek, közgyűjtemények és más oktatási, tudományos, és kulturális szervezetek számára biztosított közszolgáltatásai ellátásához, az 5/A. § (1) bekezdése szerinti felhasználó részére az 5/C. § (4) bekezdése alapján megkötött szerződésben meghatározott szolgáltatások nyújtásához, valamint az 5/E. §-ban és a 6/A. §-ban foglalt közszolgáltatások ellátásához nyújtott állami támogatás az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat, illetve az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet hatálya alá tartozik.”
+## 3–4. §[^3]
 
 5. § (1) Ez a rendelet – a (2) bekezdés kivételével – a kihirdetését követő nyolcadik napon lép hatályba.
 
 (2) A 2. § 2015. szeptember 1-jén lép hatályba.
+
+[^3]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
