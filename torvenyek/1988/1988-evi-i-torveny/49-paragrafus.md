@@ -18,4 +18,4 @@ d) az Európai Parlament és a Tanács 2006/38/EK irányelve (2006. május 17.) 
 
 e) az Európai Parlament és a Tanács 2008/96/EK irányelv (2008. november 19.) a közúti infrastruktúra közlekedésbiztonsági kezeléséről, 3. cikk (1) bekezdés, 4. cikk (1) bekezdés, 9. cikk (4) bekezdés;
 
-f) a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelv 2. cikk a)–d) és g) pontja, 4. és 5. cikke és II. Melléklete.
+f) a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelv 2. cikk a)–d) és g) pontja, 4–5. cikke és II. Melléklete.
