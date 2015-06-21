@@ -8,20 +8,14 @@ b) a Ptv. 20. § (1) bekezdés szerinti feladatok ellátásával kapcsolatban fe
 
 ## kiadások finanszírozásához kérhet.
 
-(2) A céltámogatásra vonatkozó kérelmét a polgárőr egyesületnek:
+(2)[^9] A céltámogatásra vonatkozó kérelmet a polgárőr egyesületnek az OPSZ-hez kell írásban benyújtania.
 
-a) amennyiben területi polgárőr szövetség tagja, a területi polgárőr szövetséghez
+(3)[^10] A céltámogatásra vonatkozó kérelem elbírálására jogosult szerv az OPSZ.
 
-b) amennyiben területi polgárőr szövetségnek nem tagja, az OPSZ-hez
-
-## kell írásban benyújtania.
-
-(3) A céltámogatásra vonatkozó kérelem elbírálására jogosult szerv:
-
-a) a (2) bekezdés a) pontja alapján benyújtott kérelem esetében a területi polgárőr szövetség,
-
-b) a (2) bekezdés b) pontja alapján benyújtott kérelem esetében az OPSZ.
-
-(4) A (3) bekezdésben meghatározott szerv a kérelem beérkezésétől számítva legkésőbb 60 napon belül dönt.
+(4)[^11] A (3) bekezdésben meghatározott szerv a kérelem beérkezésétől számítva legkésőbb 30 napon belül dönt.
 
 (5) A céltámogatás összegének arányban kell állnia a meghatározott célokkal.
+
+[^9]: A 4. § (2) bekezdése a 39/2015. (VI. 19.) BM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 4. § (3) bekezdése a 39/2015. (VI. 19.) BM rendelet 3. §-ával megállapított szöveg.
+[^11]: A 4. § (4) bekezdése a 39/2015. (VI. 19.) BM rendelet 5. § c) pontja szerint módosított szöveg.
