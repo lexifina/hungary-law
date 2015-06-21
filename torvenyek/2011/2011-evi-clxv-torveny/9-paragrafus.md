@@ -2,7 +2,7 @@
 
 a)
 
-b) nyilvántartást vezet a kiadott polgárőr igazolványokról, a kiadásuk alapjául szolgáló, a 10. § (3) bekezdésében meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, a polgárőr szolgálat ellátására jogosultakról, az igazolvány visszavonásáról, bevonásáról,
+b) nyilvántartást vezet a kiadott polgárőr igazolványokról és ifjú polgárőr igazolványokról, a kiadásuk alapjául szolgáló, a 10. § (3) bekezdésében és a 9/A. § (1) bekezdésében meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, a polgárőr szolgálat ellátására jogosultakról, a polgárőr igazolvány és az ifjú polgárőr igazolvány visszavonásáról, bevonásáról,
 
 c) dönt a szolgálati és etikai szabályokat megszegő polgárőrökkel szemben benyújtott panaszról,
 
@@ -26,7 +26,7 @@ g) az információs önrendelkezési jogról és az információszabadságról s
 
 h) kapcsolatot tart a polgárőri tevékenységet ellátó külföldi szervezetekkel,
 
-i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja.
+i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja, az ifjú polgárőröket a 9/A. § (2) bekezdésében meghatározott feladatok ellátására jogosító ifjú polgárőr igazolvánnyal ellátja.
 
 (3) Az Országos Polgárőr Szövetség működési, elhelyezési feltételeit az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével kötött együttműködési megállapodásban meghatározott módon az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve vagy a megyei (fővárosi) rendőr-főkapitányság biztosíthatja.
 

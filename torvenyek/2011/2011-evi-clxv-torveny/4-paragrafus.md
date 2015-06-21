@@ -2,7 +2,7 @@
 
 a) a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal írásbeli együttműködési megállapodást kötött, valamint
 
-b) az Országos Polgárőr Szövetség tagja.
+b) az Országos Polgárőr Szövetség és a területi polgárőr szövetség tagja.
 
 (2) A polgárőr egyesület a 3. § (2) bekezdés a) pontjában meghatározott, a katasztrófák elleni védekezéssel összefüggő kiegészítő feladat ellátását akkor kezdheti meg, valamint végezheti, ha rendelkezik a hivatásos katasztrófavédelmi szerv illetékes területi szervének előzetes írásbeli egyetértésével.
 

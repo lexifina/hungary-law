@@ -14,6 +14,6 @@ d) a polgárőr igazolvány formátumát,
 
 e) a formaruha és a fényvisszaverő mellény jellemzőit,
 
-f)
+f) az ifjú polgárőr igazolvány formátumát,
 
 g) – az államháztartásért felelős miniszterrel egyetértésben – az éves költségvetési törvényben meghatározott összegű támogatás elosztásának a részletes szabályait.

@@ -2,9 +2,11 @@
 
 a) írásbeli figyelmeztetés,
 
-b) a 3. § (1) bekezdésben meghatározott alapfeladat ellátásától való – legfeljebb 6 hónapig terjedő – eltiltás, vagy
+b) a 3. § (1) bekezdésében meghatározott alapfeladat ellátásától való – legfeljebb 1 évig terjedő – eltiltás,
 
-c) a polgárőri szolgálat ellátásától való – legfeljebb 6 hónapig terjedő – eltiltás.
+c) a polgárőri szolgálat ellátásától való – legfeljebb 1 évig terjedő – eltiltás, vagy
+
+d) a polgárőr egyesületben való tagság megszüntetésére vonatkozó javaslattétel a polgárőr egyesület részére.
 
 (2) Az Országos Polgárőr Szövetség
 

@@ -1,10 +1,10 @@
-13. § (1) Az Országos Polgárőr Szövetség a polgárőr igazolványok kibocsátásával és visszavonásával kapcsolatos feladatok ellátása céljából nyilvántartást vezet, amely
+13. § (1) Az Országos Polgárőr Szövetség a polgárőr igazolványok, illetve az ifjú polgárőr igazolványok kibocsátásával és visszavonásával kapcsolatos feladatok ellátása céljából nyilvántartást vezet, amely
 
-a) a polgárőr természetes személyazonosító adatait és lakcímét, a 10. § (3) bekezdés b) és c) pontjában meghatározott feltételek igazolásához szükséges iratokat,
+a) a polgárőr vagy az ifjú polgárőr természetes személyazonosító adatait és lakcímét, a 10. § (3) bekezdés b) és c) pontjában vagy a 9/A. § (1) bekezdés b) pontjában meghatározott feltételek igazolásához szükséges iratokat,
 
-b) a kiadott polgárőr igazolványok egyedi azonosítóját, továbbá
+b) a kiadott polgárőr igazolványok vagy ifjú polgárőr igazolványok egyedi azonosítóját, továbbá
 
-c) a visszavont polgárőr igazolványokra, valamint a visszavonás jogalapjára és időtartamára vonatkozó adatokat
+c) a visszavont polgárőr igazolványokra vagy ifjú polgárőr igazolványokra, valamint a visszavonás jogalapjára és időtartamára vonatkozó adatokat
 
 tartalmazza.
 
@@ -12,7 +12,7 @@ tartalmazza.
 
 (2) Az Országos Polgárőr Szövetség a 26. §-ban meghatározott rendelkezések végrehajtásának elősegítése érdekében nyilvántartást vezet, amely a 26. § szerinti támogatás felhasználásával kapcsolatos adatokat tartalmazza.
 
-(3) A polgárőr egyesületi tagságának megszűnése vagy a polgárőr igazolvány visszavonása esetén az (1) bekezdésben meghatározott adatokat 2 év elteltével kell törölni.
+(3) A polgárőr, illetve az ifjú polgárőr egyesületi tagságának megszűnése vagy a polgárőr igazolvány, illetve az ifjú polgárőr igazolvány visszavonása esetén az (1) bekezdésben meghatározott adatokat 2 év elteltével kell törölni.
 
 (4) Az (1) és (2) bekezdés szerinti adat – az (5) bekezdésben meghatározott kivétellel – kizárólag statisztikai célú gyűjtésre továbbítható.
 

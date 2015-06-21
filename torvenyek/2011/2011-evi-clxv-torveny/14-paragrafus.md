@@ -8,7 +8,7 @@ a) a területileg illetékes polgárőr egyesülettel közösen látja el tevék
 
 b) arra a polgárőr egyesület a 6. § (1) bekezdésben meghatározott szervekkel együttműködési megállapodást kötött,
 
-c) a polgárőr egyesületet, vagy a területi szövetséget a megyei (fővárosi) rendőr-főkapitányság felkéri a megye (főváros) közigazgatási területén való tevékenységellátásra,
+c) a polgárőr egyesületet, vagy a területi polgárőr szövetséget a megyei (fővárosi) rendőr-főkapitányság felkéri a megye (főváros) közigazgatási területén való tevékenységellátásra,
 
 d) a polgárőr egyesület az érintett önkormányzattal írásban erre irányuló együttműködési megállapodást kötött, vagy
 
