@@ -10,7 +10,7 @@ bb) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni k
 
 bc) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló, 2009. szeptember 21-i, 2009/1023/IB tanácsi határozatnak, továbbá
 
-c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2011. október 25-i, 2011/82/EU európai parlamenti és tanácsi irányelv 4. és 7. Cikkének, valamint I. Mellékletének,
+c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2015. március 11-i, 2015/413/EU európai parlamenti és tanácsi irányelv 4. és 7. cikkének, valamint I. Mellékletének
 
 d) 27/D. §-a a vezetői engedélyekről szóló, 2006. december 20-ai 2006/126/EK európai parlamenti és tanácsi irányelv 7. cikk (5) bekezdésének
 
