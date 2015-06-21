@@ -1,1 +1,1 @@
-2. § Az Országgyűlés a Végrehajtási Megállapodást e törvénnyel kihirdeti.
+2–3. §

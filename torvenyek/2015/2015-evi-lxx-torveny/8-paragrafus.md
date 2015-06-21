@@ -11,11 +11,3 @@
 (5) E törvény 4–6. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálják.
 
 (6) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
