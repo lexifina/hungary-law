@@ -1,1 +1,0 @@
-## „(5) A polgárőr köteles a formaruha és a fényvisszaverő mellény megőrzésére, rendeltetésszerű használatára. Az ifjú polgárőr köteles a fényvisszaverő mellény megőrzésére, rendeltetésszerű használatára.”
