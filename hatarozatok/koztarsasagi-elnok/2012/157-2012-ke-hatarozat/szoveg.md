@@ -28,7 +28,7 @@ dr. Bognár-Hanti Margit Kingát,
 
 dr. Kasnyik Adrienn Flórát,
 
-dr. Kóder Esztert,
+dr. Kóder Esztert,[^1]
 
 dr. Mantz-Kelemen Kata Rékát,
 
@@ -43,3 +43,5 @@ dr. Zumbok Gabriellát
 bíróvá kinevezem.
 
 KEH ügyszám: IV-4/03183/2012.
+
+[^1]: A 292/2015. (VI. 23.) KE határozat alapján a Köztársasági Elnök dr. Kóder Eszter bírói kinevezését a 2015. július 1. napjától 2018. június 30. napjáig terjedő időtartamra meghosszabbította.
