@@ -1,6 +1,11 @@
-2. § (1)[^3]
+## „(11) A MódR2.-vel megállapított 10. melléklet A rész II. fejezet 4. pontnak meg nem felelő, 2015. június 24-ét megelőzően forgalomba hozott élelmiszerek minőségmegőrzési idejük lejártáig tarthatók forgalomban.”
 
-(2)[^4]
+2. § (1) Az R. 3. § 11. pontja helyébe a következő rendelkezés lép:
 
-[^3]: A 2. § (1) bekezdése a 7. § (2) bekezdése alapján 2015. június 24-én lép hatályba.
-[^4]: A 2. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+## „11. a Tanács 2001/110/EK irányelve (2001. december 20.) a mézről, és az ezt módosító 2014/63/EU európai parlamenti és tanácsi irányelv;”
+
+(2)[^3]
+
+[^3]: A 2. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
