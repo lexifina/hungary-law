@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-18-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2009-01-01 | 1998-18-20-6B.7 | 18/1998. (VII. 3.) KHVM rendelet |
+| 2015-06-24 | 1998-18-20-6B.8 | 32/2015. (VI. 19.) NFM rendelet |

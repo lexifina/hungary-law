@@ -3594,7 +3594,7 @@ A jármű konstrukciós kialakítása olyan legyen, hogy az esetlegesen bekövet
 
 3. Járműszerkezeti részek
 
-3.1. Futó- és hordmű
+3.1.[^11] Futó- és hordmű
 
 A metró járműveknél alkalmazható kerékpárok
 
@@ -3622,11 +3622,11 @@ A metró járművek áram-visszavezetését úgy kell kialakítani, hogy a csap�
 
 A jármű rugózásának biztosítania kell a menetközben fellépő dinamikus erők felvételét maradandó alakváltozás nélkül. A rugózásnak olyan kialakításúnak kell lennie, amely biztonságos és megfelelő utazási komfortot biztosít. A rugózás megfelelő csillapítása külső lengéscsillapító alkalmazásával is megoldható.
 
-A futó- és a hordmű kialakítása összességében olyan legyen, hogy a megengedett legnagyobb pályahibák mellett is megfelelő futásjóságot biztosítson.
+A futó- és a hordmű kialakításának a megengedett legnagyobb pályahibák mellett is megfelelő futásjóságot kell biztosítania.
 
 A futásjósági mérőszám akkor megfelelő, ha annak Sperling szerinti értéke legfeljebb wzegs= 2,5.
 
-A rugórendszernek terheléstől függetlenül biztosítania kell a jármű állandó padlómagasságát.
+A rugórendszernek terheléstől függetlenül biztosítania kell a jármű állandó padlómagasságát, kivéve az OVSZ II. hatálybalépésekor érvényes engedéllyel rendelkező, meglévő járművek átépítése vagy korszerűsítése esetén.
 
 A futóműnek, rendkívüli kocsi emelések alkalmával, kocsiszekrénnyel együtt kell emelhetőnek lennie.
 
@@ -4298,7 +4298,7 @@ A fékberendezések ellenőrzése során igazolni kell, hogy
 
 3.1.11. a próbapálya sebességmérő és fékútmérő szakaszaiba kitérő nem telepíthető;
 
-3.1.12.[^11] a próbapálya hosszát – a fékútmérő szakasz kivételével – olyan gépi berendezések alkalmazásával lehet csökkenteni, amelyek kimagasló biztonságtechnikai színvonalat képviselnek és azok alkalmazásához a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) Közép-magyarországi Regionális Igazgatósága – az NKH Közép-magyarországi Regionális Igazgatósága bevonásával – hozzájárult.
+3.1.12.[^12] a próbapálya hosszát – a fékútmérő szakasz kivételével – olyan gépi berendezések alkalmazásával lehet csökkenteni, amelyek kimagasló biztonságtechnikai színvonalat képviselnek és azok alkalmazásához a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) Közép-magyarországi Regionális Igazgatósága – az NKH Közép-magyarországi Regionális Igazgatósága bevonásával – hozzájárult.
 
 3.2. A fékútmérés során a kerék és sín közti tapadást homokolással vagy más módszerrel javítani nem szabad.
 
@@ -5320,7 +5320,7 @@ A jármű rádió zavartatás vizsgálata
 
 Menetdiagram felvétel
 
-VII. FÜGGELÉK[^12]
+VII. FÜGGELÉK[^13]
 
 Járművizsga Jegyzőkönyv
 
@@ -5435,5 +5435,6 @@ ___________
 [^8]: A melléklet 9.2.12. pontjának 9. és 17. mondata a 12/2001. (III. 31.) KöViM rendelet 1. §-ával megállapított szöveg.
 [^9]: Az 1. melléklet 10. fejezetének 10.8. pontja a 95/2006. (XII. 27.) GKM rendelet 20. § a) pontja szerint módosított szöveg.
 [^10]: A 2. mellékletet a 44/2005. (VI. 17.) GKM rendelet 2. §-a iktatta be, egyidejűleg az eredeti melléklet jelölését 1. mellékletre változtatva. E módosító rendelet 3. §-ának (1) bekezdése alapján a hatósági engedélyköteles tevékenységek tekintetében a már folyamatban lévő eljárást a korábbi rendelkezések szerint kell befejezni. További alkalmazási rendelkezések tekintetében lásd e módosító rendelet 3. §-ának (2) bekezdését és 4. §-át.
-[^11]: A 2. melléklet I. függelékének 3.1.12. pontja a 95/2006. (XII. 27.) GKM rendelet 20. § b)–c) pontja szerint módosított szöveg.
-[^12]: A 2. melléklet VII. függeléke a 95/2006. (XII. 27.) GKM rendelet 20. § d)–e) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet 3.1. pontja a 32/2015. (VI. 19.) NFM rendelet 1. §-ával megállapított szöveg.
+[^12]: A 2. melléklet I. függelékének 3.1.12. pontja a 95/2006. (XII. 27.) GKM rendelet 20. § b)–c) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet VII. függeléke a 95/2006. (XII. 27.) GKM rendelet 20. § d)–e) pontja szerint módosított szöveg.
