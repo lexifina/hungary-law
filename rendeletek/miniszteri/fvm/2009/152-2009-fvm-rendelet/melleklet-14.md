@@ -802,7 +802,7 @@
 
 ## Fel kell tüntetni a termék 7.3. pont szerinti zsírfokozatát és állományát, továbbá a szárazanyagra vonatkoztatott zsírtartalmát 5%-ban, vagy annak egészszámú többszöröseként (ez az érték mindig az az 5%, illetve többszöröse legyen, amely közvetlenül a valós érték alatt van, azaz: valós érték: 47%, feltüntetendő érték: 45%), és/vagy tényleges zsírtartalmát tömegszázalékban. A 7.1.2., valamint a 7.1.3. pont szerint többféle sajtból előállított ömlesztett sajtok esetén utalni lehet a termék jellegzetes ízét adó sajttípus nevére. A 100 °C feletti hőmérsékleten végzett ömlesztést a termék csomagolásán csak akkor kell feltüntetni, ha a hőkezelés steril terméket eredményez.
 
-14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^50]
+14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^53]
 
 ## A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
@@ -900,4 +900,4 @@ II. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket hatá
 
 III. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket határoztak meg
 
-[^50]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^53]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése szerint módosított szöveg.

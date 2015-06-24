@@ -26,13 +26,15 @@
 
 ## 3. Sütő-főző méz felhasználásával készült élelmiszerek megnevezésében a „méz” kifejezés alkalmazása megengedett, de az összetevők felsorolásakor a „sütő-főző méz” kifejezést kell használni.
 
-## 4. A címkén minden esetben fel kell tüntetni a méz eredetét, a származási ország(ok) nevének megjelölésével. Különböző országokból származó mézek keveréskor a felsorolás a következőkkel helyettesíthető:
+## 4. A címkén fel kell tüntetni a méz eredetét, a származási ország(ok) nevének megjelölésével. Különböző országokból származó mézek keverésekor a felsorolás a következőkkel helyettesíthető:
 
-## – EU-országok mézkeveréke,
+## 4.1. EU-országokból származó mézkeverék,
 
-## – nem EU-országok mézkeveréke,
+## 4.2. EU-n kívüli országokból származó mézkeverék,
 
-## – EU- és nem EU-országok mézkeveréke.
+## 4.3. EU-országokból és EU-n kívüli országokból származó mézkeverék.
+
+## 5. A virágpor, mint a méz természetes alkotóeleme, az ezen előírás B részében meghatározott termékek esetében nem tekinthető a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés f) pontja szerinti összetevőnek.
 
 ## III. A filtrált méz és a sütő-főző méz esetében a csomagolási egységeken és az árukísérő kereskedelmi dokumentumokon egyértelműen fel kell tüntetni a termékek teljes nevét a B rész 2. (b) (viii) és 3. pontja alapján.
 
@@ -84,7 +86,7 @@
 
 ## A mézhez – a fogyasztói forgalomba kerülő mézhez vagy az emberi fogyasztás céljára készült termékekben való felhasználás során – más élelmiszer-összetevő (beleértve az élelmiszer-adalékokat is), valamint a mézen kívüli egyéb anyag nem adható hozzá. A méznek – amennyire csak lehetséges – az összetételétől idegen szerves vagy szervetlen anyagoktól mentesnek kell lennie. A B rész 3. pontjában meghatározott méz kivételével a méznek nem lehet idegen íze vagy zamata, erjedése nem kezdődhetett meg, nem lehet mesterségesen megváltoztatott savtartalmú, továbbá nem melegíthető olyan módon, hogy a természetes enzimek elpusztuljanak vagy jelentős mértékben inaktiválódjanak benne.
 
-## A B rész 2. (b) (viii) pontjában foglaltak kivételével sem pollen, sem pedig egyéb természetes alkotóeleme nem távolítható el a mézből, kivéve, ha ez az idegen eredetű szerves és szervetlen anyagok eltávolításának elkerülhetetlen következménye.
+## A B rész 2. b) viii. pontjában foglalt kivétellel sem a virágport, sem a méz egyéb alkotóelemét nem lehet kivonni a mézből, kivéve, ha ez az idegen szerves vagy szervetlen anyag eltávolításakor elkerülhetetlen.
 
 ## Amikor a méz fogyasztói forgalomba kerül vagy amikor emberi fogyasztás céljára készült termékekben kerül felhasználásra, a méznek az alábbi minőségi követelményeknek meg kell felelnie:
 
@@ -148,6 +150,6 @@
 
 | igazoltan trópusi eredetű mézek és trópusi mézet tartalmazó keverékek esetén, a keverés arányában | legfeljebb 80 mg/kg |
 
-11. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^48]
+11. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^51]
 
-[^48]: A 11. melléklet az 50/2013. (VI. 17.) VM rendelet 2. §-ával megállapított, a 28/2015. (V. 28.) FM rendelet 4. §-a szerint módosított szöveg.
+[^51]: A 11. melléklet az 50/2013. (VI. 17.) VM rendelet 2. §-ával megállapított, a 28/2015. (V. 28.) FM rendelet 4. §-a szerint módosított szöveg.

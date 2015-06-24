@@ -22,6 +22,8 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 
 (10)[^22] A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet, valamint a mezőgazdasági biztosítás díjához nyújtott támogatásról szóló 19/2014. (X. 29.) FM rendelet módosításáról szóló 28/2015. (V. 28.) FM rendelettel (a továbbiakban: MódR2.) megállapított 38. melléklet rendelkezéseinek meg nem felelő csomagolóeszközök és címkék a MódR2. hatálybalépését[^23] követő negyedik hónap első napjáig használhatóak fel és az ilyen jelöléssel ellátott termékek minőségmegőrzési vagy fogyaszthatósági idejük lejártáig hozhatók forgalomba.
 
+(11)[^24] A MódR2.-vel megállapított 10. melléklet A rész II. fejezet 4. pontnak meg nem felelő, 2015. június 24-ét megelőzően forgalomba hozott élelmiszerek minőségmegőrzési idejük lejártáig tarthatók forgalomban.
+
 [^16]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^17]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2011. (IV. 7.) VM rendelet 2. §-a iktatta be.
 [^18]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
@@ -30,3 +32,4 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 [^21]: A 2. § (9) bekezdése ugyanezen bekezdés e) pontja alapján hatályát vesztette, újonnan a 10/2014. (IX. 18.) FM rendelet 2. §-a iktatta be.
 [^22]: A 2. § (10) bekezdését a 28/2015. (V. 28.) FM rendelet 1. § (1) bekezdése iktatta be.
 [^23]: A hatálybalépés időpontja 2015. május 29.
+[^24]: A 2. § (11) bekezdését a 28/2015. (V. 28.) FM rendelet 1. § (2) bekezdése iktatta be.

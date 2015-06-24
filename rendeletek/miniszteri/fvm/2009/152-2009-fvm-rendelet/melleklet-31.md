@@ -1,4 +1,4 @@
-31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^67]
+31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^70]
 
 A Magyar Élelmiszerkönyv 3-1-79/796 számú előírása a cukortermékek vizsgálati módszereiről
 
@@ -326,4 +326,4 @@ Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények közö
 
 Törésmutató-cukortartalom táblázat 20 °C-on
 
-[^67]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^70]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.

@@ -138,6 +138,6 @@
 
 ## Az írásbeli nyilatkozatnak lehetővé kell tennie azoknak a tárgyaknak a könnyű azonosítását, amelyekre kiállították, és meg kell újítani a nyilatkozatot, amennyiben a gyártásban történt alapvető változások az ólom és kadmium kioldódást is megváltoztatják.
 
-25. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^61]
+25. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^64]
 
-[^61]: A 25. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be.
+[^64]: A 25. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be.
