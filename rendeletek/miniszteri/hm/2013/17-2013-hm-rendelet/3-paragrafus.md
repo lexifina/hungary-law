@@ -1,4 +1,4 @@
-## 2. §[^2] A honvédségi szervezetnél foglalkoztatott kormányzati szolgálati jogviszonyban álló személy (a továbbiakban: kormánytisztviselő) részére e rendelet alapján kizárólag EMC utalvány adható.
+## 2. §[^3] A honvédségi szervezetnél foglalkoztatott kormányzati szolgálati jogviszonyban álló személy (a továbbiakban: kormánytisztviselő) részére e rendelet alapján kizárólag EMC utalvány adható.
 
 3. § (1) A hivatásos és szerződéses állomány (a továbbiakban együtt: állomány) azon tagja, a honvédelmi szervezetnél foglalkoztatott azon közalkalmazott (a továbbiakban: közalkalmazott) és az a kormánytisztviselő, aki nem tartozik a (2) bekezdés hatálya alá, havonta étkezési utalványra jogosult.
 
@@ -18,7 +18,7 @@ f) a külföldi szolgálatteljesítés, továbbá a külföldi képzés időtart
 
 g) az élelmezési ellátásról szóló miniszteri rendelet szerinti II. és III. számú élelmezési normára való jogosultság miatti ellátás időtartamára,
 
-h)[^3] arra az időtartamra, amelyre a szerződéses legénységi állomány tagja az élelmezési ellátásról szóló miniszteri rendelet alapján napi egyszeri természetben, térítésmentesen biztosított ebéd ellátásban részesül, és
+h)[^4] arra az időtartamra, amelyre a szerződéses legénységi állomány tagja az élelmezési ellátásról szóló miniszteri rendelet alapján napi egyszeri természetben, térítésmentesen biztosított ebéd ellátásban részesül, és
 
 i) a Hjt. 46. § (1) bekezdés t) pontja szerinti rendelkezési állományba tartozás idejére, ha ez alatt a hivatásos katona nem teljesít szolgálatot.
 
@@ -30,5 +30,5 @@ b) akinek a jogviszonya hónap közben keletkezik vagy szűnik meg.
 
 (4) Az egy naptári napra eső utalvány értékét úgy kell megállapítani, hogy az étkezési utalvány teljes hónapra járó összegét el kell osztani az adott hónap naptári napjainak számával. Papíralapú utalvány esetén a tényleges jogosultsági időre járó összeget fel kell kerekíteni az összeget meghaladó legkisebb címletű utalvány összegéig.
 
-[^2]: A 2. § a 6/2014. (IV. 14.) HM rendelet 26. § a) pontja szerint módosított szöveg.
-[^3]: A 3. § (2) bekezdés h) pontja a 11/2014. (VIII. 1.) HM rendelet 9. §-a szerint módosított szöveg.
+[^3]: A 2. § a 6/2014. (IV. 14.) HM rendelet 26. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdés h) pontja a 11/2014. (VIII. 1.) HM rendelet 9. §-a szerint módosított szöveg.
