@@ -1,0 +1,3 @@
+6. § Az Szja tv. 84/G. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Ha a kamatjövedelem juttatását megalapozó időszak 2016. január 1-je előtt kezdődött, de a jövedelem megszerzésének időpontja a 2016. január 1-jével kezdődő időszakra esik, úgy az e törvénynek az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel megállapított 8. §-át a 2016. január 1-jétől megszolgált kamatjövedelemre lehet alkalmazni. A 2016. január 1-jétől megszolgált kamatjövedelmet – ha a kamat juttatójának nyilvántartásából más nem állapítható meg – a kamatjövedelem juttatását megalapozó időszak 2016. január 1-jét követő részének és az időszak teljes időtartamának napokban számolt aránya alapján kell megállapítani.”
