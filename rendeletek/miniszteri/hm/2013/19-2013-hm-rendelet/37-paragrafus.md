@@ -1,3 +1,4 @@
-## 36/A. §[^20] E rendeletnek az egyes költségtérítésekről szóló 19/2013. (IX. 6.) HM rendelet módosításáról szóló 4/2014. (III. 20.) HM rendelet 4. §-ával megállapított VI. Fejezetét 2014. január 1-jétől kell alkalmazni.
+## 36/B. §[^23] E rendeletnek az egyes honvédelmi tárgyú miniszteri rendeletek módosításáról szóló 5/2015. (VI. 22.) HM rendelet (a továbbiakban: R3.) 8. §-ával megállapított 21. § (4) bekezdés b) pontját az R3. hatálybalépését[^24] követően benyújtott kérelmek esetében kell alkalmazni.
 
-[^20]: A 36/A. §-t a 4/2014. (III. 20.) HM rendelet 6. §-a iktatta be.
+[^23]: A 36/B. §-t az 5/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2015. június 25.

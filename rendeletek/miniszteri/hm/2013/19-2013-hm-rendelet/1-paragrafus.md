@@ -12,7 +12,7 @@
 
 4. helyközi utazás: a közigazgatási határon kívülről a lakóhely vagy a tartózkodási hely, valamint a szolgálatteljesítés vagy a munkavégzés (a továbbiakban együtt: szolgálatteljesítés) helye között szolgálatteljesítési célból történő utazás, ideértve az átutazás céljából helyi közösségi közlekedéssel megvalósuló utazást;
 
-5. honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet és a Katonai Nemzetbiztonsági Szolgálat ;
+5.[^3] honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet, a Katonai Nemzetbiztonsági Szolgálat és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény;
 
 6. honvédségi szálláshely: a Lakásrendeletben meghatározott helyőrségi szállón lévő szállóférőhely, valamint a laktanyai tiszti vagy altiszti szálláson lévő férőhely;
 
@@ -32,11 +32,12 @@ b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli 
 
 (2) Ahol e rendelet állományilletékes parancsnokot említ, azon közalkalmazott esetén a munkáltatói jogkört gyakorló vezetőt kell érteni.
 
-(3)[^3] E rendelet alkalmazásában családnak minősül a családtagok olyan közössége, melyben családtag a házastárs, az élettárs, továbbá az olyan, a Hjt. 2. § 20. pontja szerinti egyéb közeli hozzátartozó, akit a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint az állomány tagja köteles eltartani, és akit a szolgálat érdekében történt áthelyezés, vezénylés időpontjában saját háztartásában ténylegesen eltartott.
+(3)[^4] E rendelet alkalmazásában családnak minősül a családtagok olyan közössége, melyben családtag a házastárs, az élettárs, továbbá az olyan, a Hjt. 2. § 20. pontja szerinti egyéb közeli hozzátartozó, akit a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint az állomány tagja köteles eltartani, és akit a szolgálat érdekében történt áthelyezés, vezénylés időpontjában saját háztartásában ténylegesen eltartott.
 
-(4)[^4] Az élettárs után e rendelet alapján megállapítható költségtérítések igénybevételéhez az élettársi kapcsolat fennállásának tényét a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint kell igazolni.
+(4)[^5] Az élettárs után e rendelet alapján megállapítható költségtérítések igénybevételéhez az élettársi kapcsolat fennállásának tényét a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint kell igazolni.
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 4/2014. (III. 20.) HM rendelet 7. § a)–b) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 3. pontja a 4/2014. (III. 20.) HM rendelet 7. § c) pontja szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdése a 37. § szerint módosított szöveg.
-[^4]: Az 1. § (4) bekezdését a 4/2014. (III. 20.) HM rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (1) bekezdés 5. pontja az 5/2015. (VI. 22.) HM rendelet 5. §-ával megállapított szöveg.
+[^4]: Az 1. § (3) bekezdése a 37. § szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdését a 4/2014. (III. 20.) HM rendelet 1. §-a iktatta be.
