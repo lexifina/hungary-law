@@ -1,6 +1,6 @@
 2. § (1) E rendelet alkalmazásában
 
-1. honvédelmi szervezet: a Hjt. 2. § 13. pontja szerinti honvédségi szervezet és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ);
+1.[^2] honvédelmi szervezet: a Hjt. 2. § 13. pontja szerinti honvédségi szervezet, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény;
 
 2. minimálbér: a juttatás folyósításának napján hatályos kötelező legkisebb munkabér havi összege;
 
@@ -19,3 +19,5 @@ a) a Honvédelmi Minisztérium védelemgazdaságért felelős helyettes államti
 b) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) a Honvéd Vezérkar és a Magyar Honvédség (a továbbiakban: MH) katonai szervezetei állománya, az 1 évnél hosszabb időtartamú külszolgálatot teljesítők, valamint a rendelkezési állományban lévők tekintetében,
 
 c) a KNBSZ főigazgatója a KNBSZ állománya tekintetében.
+
+[^2]: A 2. § (1) bekezdés 1. pontja az 5/2015. (VI. 22.) HM rendelet 2. §-ával megállapított szöveg.

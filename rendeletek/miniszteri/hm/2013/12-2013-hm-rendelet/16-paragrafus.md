@@ -2,11 +2,11 @@
 
 16. § (1) Pályázat alapján a munkaerő-piacra történő beilleszkedés és visszailleszkedés elősegítése érdekében pénzügyi hozzájárulás nyújtható
 
-a)[^5] a hivatásos állományú katonának, ha szolgálati viszonya létszámcsökkentés, szervezeti átalakítás, katonai szolgálatra való egészségügyi alkalmatlanság vagy az előmeneteli renddel összefüggő ok miatt megszüntetésre kerül, és munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik,
+a)[^6] a hivatásos állományú katonának, ha szolgálati viszonya létszámcsökkentés, szervezeti átalakítás, katonai szolgálatra való egészségügyi alkalmatlanság vagy az előmeneteli renddel összefüggő ok miatt megszüntetésre kerül, és munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik,
 
-b)[^6] a szerződéses állományú katonának, aki legalább 4 év szolgálati viszonnyal rendelkezik, és a szolgálati viszonya a szerződésben meghatározott időtartam leteltével szűnik meg, feltéve, hogy a szerződése lejártát megelőző hónapban a munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik, és
+b)[^7] a szerződéses állományú katonának, aki legalább 4 év szolgálati viszonnyal rendelkezik, és a szolgálati viszonya a szerződésben meghatározott időtartam leteltével szűnik meg, feltéve, hogy a szerződése lejártát megelőző hónapban a munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik, és
 
-c)[^7] a közalkalmazottnak, ha jogviszonya létszámcsökkentés, szervezeti átalakítás, egészségügyi alkalmatlanság miatt megszűntetése kerül, és munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik.
+c)[^8] a közalkalmazottnak, ha jogviszonya létszámcsökkentés, szervezeti átalakítás, egészségügyi alkalmatlanság miatt megszűntetése kerül, és munkaerő-piaci helyzete javítása érdekében az állami foglalkoztatási szerv által felajánlott vagy elfogadott, vagy az Országos Képzési Jegyzékben szereplő, vagy hatósági – egy évet meg nem haladó – iskolarendszeren kívüli tanfolyami képzésre jelentkezik.
 
 (2) Pályázat alapján a további foglalkoztatást elősegítő képzés költségéhez pénzügyi hozzájárulás nyújtható az állomány tagjának, illetve a közalkalmazottnak, ha
 
@@ -20,6 +20,6 @@ d) a szerződéses állományú katonának a jelentkezés időpontjában érvén
 
 (3) Az (1) és a (2) bekezdés szerinti pályázati felhívást az MH Szociálpolitikai Közalapítvány (a továbbiakban: Közalapítvány) teszi közzé. Az (1) és a (2) bekezdés szerinti támogatás összege nem haladhatja meg az illetményalap 250%-át, folyósítását pályázati kiírásában foglaltak szerint a Közalapítvány végzi.
 
-[^5]: A 16. § (1) bekezdés a) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
-[^6]: A 16. § (1) bekezdés b) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
-[^7]: A 16. § (1) bekezdés c) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
+[^6]: A 16. § (1) bekezdés a) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
+[^7]: A 16. § (1) bekezdés b) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
+[^8]: A 16. § (1) bekezdés c) pontja a 6/2014. (IV. 14.) HM rendelet 16. § d) pontja szerint módosított szöveg.
