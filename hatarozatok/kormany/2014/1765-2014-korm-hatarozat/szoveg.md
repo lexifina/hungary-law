@@ -2,7 +2,7 @@
 
 a) hitelszerződésekhez 10 millió forint hitelösszegig legfeljebb 365 napra 1 százalékpont kamattámogatást biztosít,
 
-b) maximum 25 millió forintos hitelekhez a Garantiqa Hitelgarancia Zrt. által vállalt készfizető kezességvállalás éves díjának 50%-áig terjedő támogatást biztosít azzal, hogy a támogatás nem haladhatja meg a kezességi díj vetítési alapjának 0,75%-át.
+b)[^2] a legfeljebb 50 millió forintos hitelekhez, 25 millió forint hitelösszegig a Garantiqa Hitelgarancia Zrt. által vállalt készfizető kezességvállalás éves díjának 50%-áig terjedő támogatást biztosít azzal, hogy a támogatás nem haladhatja meg a kezességi díj vetítési alapjának 0,75%-át.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -31,3 +31,5 @@ nemzeti fejlesztési miniszter
 Határidő: a források 75%-ának lekötését követő 30 napon belül
 
 5. Ez a határozat 2015. január 1-jén lép hatályba.
+
+[^2]: Az 1. pont b) alpontja az 1415/2015. (VI. 24.) Korm. határozat 1. pontja szerint módosított szöveg.
