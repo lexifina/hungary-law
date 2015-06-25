@@ -70,7 +70,7 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 426,57 | 0,00 | 12,52 | 439,09 |
+| 3. | 425,56 | 0,00 | 12,71 | 438,27 |
 
 | 4. | Többletkötelezettség-vállalás: 39,62 Mrd Ft |
 
@@ -84,7 +84,7 @@
 
 | 2. | 2007–2014. | 2014. | 2015. | Összesen |
 
-| 3. | 782,00 | 21,07 | 803,07 |
+| 3. | 784,11 | 18,96 | 803,07 |
 
 1.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -96,15 +96,15 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 1.1.1. | Települési szilárd hulladékgazdálkodási rendszerek | 111,12 | 0,00 | 0,00 | Megelőzés, szelektív gyűjtés, szerveshulladék-lerakótól történő eltérítése, lerakással történő ártalmatlanítás, szelektív hulladék begyűjtő kapacitás fejlesztése, begyűjtött hulladék előkezelése, lerakó kapacitás kihasználtságának növelése. | földművelésügyi miniszter | – |
+| 3. | 1.1.1. | Települési szilárd hulladékgazdálkodási rendszerek | 111,34 | 0,00 | 0,00 | Megelőzés, szelektív gyűjtés, szerveshulladék-lerakótól történő eltérítése, lerakással történő ártalmatlanítás, szelektív hulladék begyűjtő kapacitás fejlesztése, begyűjtött hulladék előkezelése, lerakó kapacitás kihasználtságának növelése. | földművelésügyi miniszter | – |
 
-| 4. | 1.2.0. | Szennyvízelvezetés és tisztítás | 184,03 | 0,00 | 0,00 | – szennyvíztisztító telep létesítése, bővítése, korszerűsítése, – csatornahálózat építése, bővítése, rekonstrukciója, – szennyvíziszap-kezelő létesítmények, – egyedi szennyvízkezelés, – települési folyékony hulladék (szippantott szennyvíz) szállítási feltételeinek korszerűsítése | belügyminiszter | nemzeti fejlesztési miniszter |
+| 4. | 1.2.0. | Szennyvízelvezetés és tisztítás | 182,56 | 0,00 | 0,00 | – szennyvíztisztító telep létesítése, bővítése, korszerűsítése, – csatornahálózat építése, bővítése, rekonstrukciója, – szennyvíziszap-kezelő létesítmények, – egyedi szennyvízkezelés, – települési folyékony hulladék (szippantott szennyvíz) szállítási feltételeinek korszerűsítése | belügyminiszter | nemzeti fejlesztési miniszter |
 
-| 5. | 1.3.0. | Ivóvíz-minőség javítása | 131,42 | 0,00 | 0,00 | – térségi rendszer létesítése, csatlakozás másik vízellátó rendszerhez, más vízbázisra áttérés, vízkezelés, – ivóvízhálózat rekonstrukciója, – eddig el nem látott területek bekapcsolása a vízellátásba, – hálózattisztítás, tartalékkutak, vízműtelepi létesítmények állapotának javítása, – vízbiztonsági terv készítése, hálózatrekonstrukciós intézkedési terv | belügyminiszter | nemzeti fejlesztési miniszter |
+| 5. | 1.3.0. | Ivóvíz-minőség javítása | 131,67 | 0,00 | 0,00 | – térségi rendszer létesítése, csatlakozás másik vízellátó rendszerhez, más vízbázisra áttérés, vízkezelés, – ivóvízhálózat rekonstrukciója, – eddig el nem látott területek bekapcsolása a vízellátásba, – hálózattisztítás, tartalékkutak, vízműtelepi létesítmények állapotának javítása, – vízbiztonsági terv készítése, hálózatrekonstrukciós intézkedési terv | belügyminiszter | nemzeti fejlesztési miniszter |
 
 | 6. | 1.4.0. | Országos közhiteles víziközmű kataszter elkészítése | 0,00 | 0,00 | 10,00 | Egységes közművagyon-adatbázis felállítása. | nemzeti fejlesztési miniszter | – |
 
-| 7. | 1.5.0. | Az egészséges ivóvíz biztosításához szükséges laboratóriumi fejlesztésről a népegészségügyben | 0,00 | 0,00 | 1,52 | A tervezett konstrukció a szolgáltatott víz minőségének a kor követelményeinek megfelelő mérőpotenciállal rendelkező hatósági felügyelet lehetővé tételére vonatkozik, eszközbeszerzéssel. | belügyminiszter | – |
+| 7. | 1.5.0. | Az egészséges ivóvíz biztosításához szükséges laboratóriumi fejlesztésről a népegészségügyben | 0,00 | 0,00 | 1,71 | A tervezett konstrukció a szolgáltatott víz minőségének a kor követelményeinek megfelelő mérőpotenciállal rendelkező hatósági felügyelet lehetővé tételére vonatkozik, eszközbeszerzéssel. | belügyminiszter | – |
 
 | 8. | - | tartaléksor | 0,00 | 0,00 | 1,00 |  |  |  |
 
@@ -524,4 +524,4 @@
 [^2]: Az 1. pont e) alpontját az 1181/2015. (III. 25.) Korm. határozat 1. pontja iktatta be, szövege az 1367/2015. (VI. 3.) Korm. határozat 3. pontjával megállapított szöveg.
 [^3]: Az 1. pont f) alpontját az 1367/2015. (VI. 3.) Korm. határozat 3. pontja iktatta be.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1371/2015. (VI. 4.) Korm. határozat 1. pontja iktatta be.
-[^5]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja szerint módosított szöveg. [Ez utóbbi módosító határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át.]
+[^5]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1371/2015. (VI. 4.) Korm. határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át.]
