@@ -1,6 +1,6 @@
 ## 3. Az adókötelezettség keletkezése, megszűnése, változása
 
-3. § (1) Az adókötelezettség közművezeték létesítése esetén a közművezeték tényleges használatbavételét követő év első napján keletkezik.
+3. § (1) Az adókötelezettség közművezeték létesítése esetén a közművezeték tényleges használatbavételét követő hatodik év első napján keletkezik.
 
 (2) Az adókötelezettséget érintő változást (így különösen a közművezeték nyomvonalhosszának változását) a változást követő év első napjától kell figyelembe venni.
 
