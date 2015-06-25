@@ -18,11 +18,11 @@ h) a kiküldött szolgálati célú telefonbeszélgetéseinek részletes száml�
 
 i) a katonadiplomáciai tevékenységet végző kiküldöttek esetén a vezetékes telefon bekötésének díját, továbbá a telefonállomás- és az internethasználat alapdíját, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
 
-j)[^18] a HM rendelet1 1. § 10. pont g) alpontja szerinti külföldi szolgálat esetén az attasé beosztást betöltő kiküldött részére a közüzemi szolgáltatások díjának azt a részét, amelynek havi együttes összege meghaladja a kiküldött havi nettó külszolgálati ellátmányának 7%-át,
+j)[^21] a HM rendelet1 1. § 10. pont g) alpontja szerinti külföldi szolgálat esetén az attasé beosztást betöltő kiküldött részére a közüzemi szolgáltatások díjának azt a részét, amelynek havi együttes összege meghaladja a kiküldött havi nettó külszolgálati ellátmányának 7%-át,
 
-k)[^19] az ideiglenes elhelyezés költségeit, ideértve a szállásköltség részét képező, a számlán elkülönítve fel nem tüntetett kötelező reggeli árát, azonban ide nem értve a mosatás, valamint egyéb kiegészítő szolgáltatások – különösen a minibár – igénybevételéből eredő költségeket, és
+k)[^22] az ideiglenes elhelyezés költségeit, ideértve a szállásköltség részét képező, a számlán elkülönítve fel nem tüntetett kötelező reggeli árát, azonban ide nem értve a mosatás, valamint egyéb kiegészítő szolgáltatások – különösen a minibár – igénybevételéből eredő költségeket, és
 
-l)[^20] az MH KKH katonai képviselője, az MH NKK katonai képviselője, az MH NÖK képviseletvezetője, a Magyarország Állandó NATO Képviselet, Védelempolitikai Részleg képviseletvezetője, valamint a Magyarország Állandó EBESZ Képviselet, Katonai Képviselet képviseletvezetője esetén a közüzemi szolgáltatások éves díjának a kiküldött tárgyévi nettó külszolgálati ellátmánya 7%-át meghaladó részének 50%-át.
+l)[^23] az MH KKH katonai képviselője, az MH NKK katonai képviselője, az MH NÖK képviseletvezetője, a Magyarország Állandó NATO Képviselet, Védelempolitikai Részleg képviseletvezetője, valamint a Magyarország Állandó EBESZ Képviselet, Katonai Képviselet képviseletvezetője esetén a közüzemi szolgáltatások éves díjának a kiküldött tárgyévi nettó külszolgálati ellátmánya 7%-át meghaladó részének 50%-át.
 
 (2) A kiküldött
 
@@ -44,6 +44,6 @@ b) külön szolgáltatótól kerülnek bérlésre, és a bérlés díja a biztos
 
 (4) A 2. § (2) bekezdés f) pontja szerinti kiküldöttek tekintetében a 20. és a 21. §-ban foglalt eljárásrendet a KNBSZ főigazgatója intézkedésben határozza meg.
 
-[^18]: A 22. § (1) bekezdés j) pontja a 17/2014. (XII. 17.) HM rendelet 9. § f) pontja szerint módosított szöveg.
-[^19]: A 22. § (1) bekezdés k) pontja a 17/2014. (XII. 17.) HM rendelet 9. § g) pontja szerint módosított szöveg.
-[^20]: A 22. § (1) bekezdés l) pontját a 17/2014. (XII. 17.) HM rendelet 3. §-a iktatta be.
+[^21]: A 22. § (1) bekezdés j) pontja a 17/2014. (XII. 17.) HM rendelet 9. § f) pontja szerint módosított szöveg.
+[^22]: A 22. § (1) bekezdés k) pontja a 17/2014. (XII. 17.) HM rendelet 9. § g) pontja szerint módosított szöveg.
+[^23]: A 22. § (1) bekezdés l) pontját a 17/2014. (XII. 17.) HM rendelet 3. §-a iktatta be.

@@ -6,7 +6,7 @@
 
 2. családi ellátmánypótlék: a 3. pont szerinti hozzátartozók külföldi tartózkodásával összefüggésben felmerülő többletkiadásokhoz való hozzájárulás céljából külföldi pénznemben folyósított juttatás,
 
-3.[^2] családi ellátmánypótlékra jogosító hozzátartozó: a HM rendelet1 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő, valamint a 18 hónapot meghaladó időtartamban a HM rendelet1 1. § 10. pont i) alpontja szerint külföldi szolgálatot teljesítő kiküldöttel a külföldi szolgálat ideje alatt közös háztartásban élő, vele életvitelszerűen együtt lakó házastársa, élettársa (a továbbiakban együtt: házastárs) és gyermeke addig, amíg a nemzeti köznevelésről szóló törvény szerinti tankötelezettsége fennáll, továbbá annak a tanévnek a végéig, amelynek időtartama alatt a gyermek a 20. életévét, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékos tanuló esetén a 23. életévét betölti, feltéve, hogy a tankötelezettség megszűnését követően köznevelési intézményben tanul,
+3.[^3] családi ellátmánypótlékra jogosító hozzátartozó: a HM rendelet1 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő, valamint a 18 hónapot meghaladó időtartamban a HM rendelet1 1. § 10. pont i) alpontja szerint külföldi szolgálatot teljesítő kiküldöttel a külföldi szolgálat ideje alatt közös háztartásban élő, vele életvitelszerűen együtt lakó házastársa, élettársa (a továbbiakban együtt: házastárs) és gyermeke addig, amíg a nemzeti köznevelésről szóló törvény szerinti tankötelezettsége fennáll, továbbá annak a tanévnek a végéig, amelynek időtartama alatt a gyermek a 20. életévét, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékos tanuló esetén a 23. életévét betölti, feltéve, hogy a tankötelezettség megszűnését követően köznevelési intézményben tanul,
 
 4. engedélyező elöljáró: a juttatások kifizetésének és elszámolásának engedélyezésére jogosult, a (2) bekezdésben meghatározott vezető,
 
@@ -16,7 +16,7 @@
 
 7. harmadik ország: a Magyarországtól és az állomáshely szerinti országtól eltérő ország vagy földrajzilag körülhatárolt terület,
 
-8. honvédelmi szervezet: a Hjt. 2. § 13. pontja szerinti honvédségi szervezet és a KNBSZ,
+8.[^4] honvédelmi szervezet: a Hjt. 2. § 13. pontja szerinti honvédségi szervezet, a KNBSZ és a miniszter fenntartói irányítása alá tartozó köznevelési intézmény,
 
 9. ideiglenes külföldi képzés: honvéd esetén a HM rendelet1 1. § 10. pont i) alpontja szerinti olyan külföldi szolgálat, közalkalmazott esetén olyan külföldi tanintézetben vagy külföldi szervezetnél folytatott tanulmány, képzésen, át- vagy továbbképzésen, tanfolyamon való részvétel, amelynek időtartama tervezetten nem haladja meg a 90 napot,
 
@@ -30,11 +30,11 @@
 
 14. kiküldetés: a HM rendelet1 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő kiküldött, vagy a HM rendelet1 1. § 10. pont d) alpontja szerint külföldi szolgálatot teljesítő kiküldött által, az állomáshely szerinti vagy harmadik országban, valamint Magyarország területén menetparancs vagy azt helyettesítő hivatalos dokumentum alapján teljesített ideiglenes külföldi szolgálat, továbbá a HM rendelet1 1. § 10. pont b), c), g), h), j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő kiküldött által az állomáshely szerinti vagy harmadik országban menetparancs vagy azt helyettesítő hivatalos dokumentum alapján teljesített, legfeljebb 6 hónap időtartamú külföldi szolgálat,
 
-15.[^3] kiküldő: a külföldi szolgálatra történő vezénylést, kihelyezést (a továbbiakban együtt: vezénylés) elrendelő személy,
+15.[^5] kiküldő: a külföldi szolgálatra történő vezénylést, kihelyezést (a továbbiakban együtt: vezénylés) elrendelő személy,
 
 16. közüzemi szolgáltatások díja: az elektromos energia-, a gáz-, a víz- és a csatornadíj, a fűtés, a hűtés, a szemétszállítás díja, valamint a társasház közös költsége,
 
-17.[^4] külföldi napidíj: az ideiglenes külföldi szolgálatot teljesítő, az ideiglenes külföldi képzésben részt vevő, továbbá e rendelet eltérő rendelkezése hiányában a HM rendelet1 1. § 10. pont f) alpontja szerint külföldi szolgálatot teljesítő kiküldött részére a Honvédség által külföldi pénznemben folyósított juttatás, melynek célja a külföldi tartózkodással összefüggésben felmerült többletkiadásokhoz és költségekhez való hozzájárulás,
+17.[^6] külföldi napidíj: az ideiglenes külföldi szolgálatot teljesítő, az ideiglenes külföldi képzésben részt vevő, továbbá e rendelet eltérő rendelkezése hiányában a HM rendelet1 1. § 10. pont f) alpontja szerint külföldi szolgálatot teljesítő kiküldött részére a Honvédség által külföldi pénznemben folyósított juttatás, melynek célja a külföldi tartózkodással összefüggésben felmerült többletkiadásokhoz és költségekhez való hozzájárulás,
 
 18. külszolgálati ellátmány: a HM rendelet1 1. § 10. pont b), c), g)–j) és m) alpontja szerint tartós külföldi szolgálatot teljesítő kiküldött, továbbá e rendelet eltérő rendelkezése hiányában a HM rendelet1 1. § 10. pont d) alpontja szerint külföldi szolgálatot teljesítő kiküldött részére a Honvédség által külföldi pénznemben folyósított juttatás, melynek célja a külföldi tartózkodással összefüggésben felmerült többletkiadásokhoz és költségekhez való hozzájárulás,
 
@@ -54,11 +54,11 @@
 
 (2) Engedélyező elöljáró
 
-a)[^5] az MH Katonai Képviselő Hivatala (a továbbiakban: MH KKH) katonai képviselője az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), valamint az Európai Unió (a továbbiakban: EU) hivatalainál, ügynökségeinél, parancsnokságain és törzseiben a Magyarország részére biztosított beosztást betöltő kiküldöttek esetén a b) és a c) pont kivételével,
+a)[^7] az MH Katonai Képviselő Hivatala (a továbbiakban: MH KKH) katonai képviselője az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), valamint az Európai Unió (a továbbiakban: EU) hivatalainál, ügynökségeinél, parancsnokságain és törzseiben a Magyarország részére biztosított beosztást betöltő kiküldöttek esetén a b) és a c) pont kivételével,
 
-b)[^6] az MH Nemzeti Katonai Képviselet (a továbbiakban: MH NKK) katonai képviselője a Szövetséges Fegyveres Erők Európai Legfelsőbb Parancsnokságán (a továbbiakban: SHAPE), a NATO parancsnoki és haderőstruktúra szerinti alárendeltségében lévő parancsnokságokon – kivéve az állomány Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó tagját –, valamint a SHAPE-en, mint bázison beosztást betöltő kiküldöttek esetén,
+b)[^8] az MH Nemzeti Katonai Képviselet (a továbbiakban: MH NKK) katonai képviselője a Szövetséges Fegyveres Erők Európai Legfelsőbb Parancsnokságán (a továbbiakban: SHAPE), a NATO parancsnoki és haderőstruktúra szerinti alárendeltségében lévő parancsnokságokon – kivéve az állomány Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó tagját –, valamint a SHAPE-en, mint bázison beosztást betöltő kiküldöttek esetén,
 
-c)[^7] az MH Nemzeti Összekötő Képviselet (a továbbiakban: MH NÖK) képviseletvezetője a Szövetséges Transzformációs Parancsnokság (a továbbiakban: ACT) alárendeltségében – ideértve az ACT Európai Törzselemét is –, az Amerikai Egyesült Államok Fegyveres Erői parancsnokságain, valamint a NATO által akkreditált Kiválósági Központoknál a Magyarország részére biztosított beosztást betöltő kiküldöttek esetén,
+c)[^9] az MH Nemzeti Összekötő Képviselet (a továbbiakban: MH NÖK) képviseletvezetője a Szövetséges Transzformációs Parancsnokság (a továbbiakban: ACT) alárendeltségében – ideértve az ACT Európai Törzselemét is –, az Amerikai Egyesült Államok Fegyveres Erői parancsnokságain, valamint a NATO által akkreditált Kiválósági Központoknál a Magyarország részére biztosított beosztást betöltő kiküldöttek esetén,
 
 d) a Honvédség központi személyügyi szervének vezetője az egyéb, nem műveleti területen elhelyezkedő nemzetközi katonai parancsnokságokon és nemzetközi katonai alakulatoknál, más nemzet minisztériumában, katonai parancsnokságán, alakulatánál, valamint nemzetközi szervezetek hivatalainál, ügynökségeinél, egyéb szervezeti egységénél fegyvertelen külföldi szolgálatot teljesítő kiküldöttek esetén,
 
@@ -90,9 +90,10 @@ d) a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezet�
 
 e) a Honvédség pénzügyi feladatokat ellátó központi szervezete a (2) bekezdés i) pontja szerinti kiküldöttek esetén.
 
-[^2]: A 2. § (1) bekezdés 3. pontja a 9/2014. (IV. 30.) HM rendelet 8. § c) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés 15. pontja a 9/2014. (IV. 30.) HM rendelet 8. § d) pontja szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdés 17. pontja a 17/2014. (XII. 17.) HM rendelet 9. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdés a) pontja a 17/2014. (XII. 17.) HM rendelet 9. § b) pontja szerint módosított szöveg.
-[^6]: A 2. § (2) bekezdés b) pontja a 17/2014. (XII. 17.) HM rendelet 9. § c) pontja szerint módosított szöveg.
-[^7]: A 2. § (2) bekezdés c) pontja a 17/2014. (XII. 17.) HM rendelet 9. § d) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés 3. pontja a 9/2014. (IV. 30.) HM rendelet 8. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 8. pontja a 3/2015. (VI. 17.) HM rendelet 5. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés 15. pontja a 9/2014. (IV. 30.) HM rendelet 8. § d) pontja szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 17. pontja a 17/2014. (XII. 17.) HM rendelet 9. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdés a) pontja a 17/2014. (XII. 17.) HM rendelet 9. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdés b) pontja a 17/2014. (XII. 17.) HM rendelet 9. § c) pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdés c) pontja a 17/2014. (XII. 17.) HM rendelet 9. § d) pontja szerint módosított szöveg.

@@ -1,18 +1,18 @@
 ## A külföldi napidíj-kiegészítés nettó összege
 
-|  |  | A | B | C |
+|  | A | B | C | D |
 
-|  | 1. | Besorolási osztály/beosztási kategória | UNIFIL (Libanon) | MINURSO (Nyugat-Szahara) |
+| 1. | Besorolási osztály/beosztási kategória | UNIFIL (Libanon) | MINURSO (Nyugat-Szahara) | MINUSCA (Közép-afrikai Köztársaság) |
 
-|  | 2. | I/V. fölötti | 41,5 USD | 72,0 USD |
+| 2. | I/V. fölötti | 41,5 USD | 72,0 USD | 59,0 USD |
 
-|  | 3. | I/IV–V. | 29,5 USD | 60,0 USD |
+| 3. | I/IV–V. | 29,5 USD | 60,0 USD | 48,0 USD |
 
-|  | 4. | I/I–III. | 19,0 USD | 49,5 USD |
+| 4. | I/I–III. | 19,0 USD | 49,5 USD | 41,0 USD |
 
-|  | 5. | II/I–X. | 10,0 USD | 39,0 USD |
+| 5. | II/I–X. | 10,0 USD | 39,0 USD | 30,0 USD |
 
-7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^55]
+7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^63]
 
 A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak mértéke
 
@@ -60,4 +60,4 @@ A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak m�
 
 | 21. | – | – | – I. évfolyamos tisztjelölt – altiszt-jelölt | – | 1,00 |
 
-[^55]: A 7. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (6) bekezdése, a 17/2014. (XII. 17.) HM rendelet 8. §-a szerint módosított szöveg.
+[^63]: A 7. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (6) bekezdése, a 17/2014. (XII. 17.) HM rendelet 8. §-a szerint módosított szöveg.

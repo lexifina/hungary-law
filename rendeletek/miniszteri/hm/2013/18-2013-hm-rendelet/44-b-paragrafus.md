@@ -1,3 +1,3 @@
-## 23/A. [^31] Lakhatással összefüggő költségek
+## 23/A. [^36] Lakhatással összefüggő költségek
 
-[^31]: A 23/A. alcímet (44/B. §) a 9/2014. (IV. 30.) HM rendelet 6. §-a iktatta be.
+[^36]: A 23/A. alcímet (44/B. §) a 9/2014. (IV. 30.) HM rendelet 6. §-a iktatta be.

@@ -24,7 +24,7 @@
 
 | 11. | AMERIKA |  |  |
 
-| 12. | Amerikai Egyesült Államok | EUR | 804 |
+| 12. | Amerikai Egyesült Államok | USD | 1055 |
 
 | 13. | Argentína | EUR | 660 |
 
@@ -186,6 +186,6 @@
 
 | 92. | Vatikán | EUR | 836 |
 
-3. melléklet a 18/2013. (IX. 5.) HM rendelethez[^52]
+3. melléklet a 18/2013. (IX. 5.) HM rendelethez[^60]
 
-[^52]: A 3. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^60]: A 3. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (3) bekezdésével megállapított szöveg.
