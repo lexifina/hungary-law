@@ -58,7 +58,7 @@ p) a forintról devizára, devizáról forintra, vagy devizáról más devizára
 
 q) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
 
-r) a bírságnak, továbbá az adózás rendjéről és a társadalombiztosításról szóló törvényekben előírt jogkövetkezménynek az elengedése miatt az adóévben bevételként elszámolt, az adóévben vagy az előző adóévekben az adózás előtti eredményt növelő tételként figyelembe vett összeg,
+r) a bírságnak, továbbá az adózás rendjéről és a társadalombiztosításról szóló törvényekben előírt jogkövetkezménynek az elengedése, a visszatérítése miatt az adóévben bevételként elszámolt, az adóévben vagy az előző adóévekben az adózás előtti eredményt növelő tételként figyelembe vett összeg,
 
 s) a kapott jogdíj alapján az adóévi adózás előtti eredmény javára elszámolt bevétel 50 százaléka, figyelemmel a (14) bekezdésben foglaltakra,
 

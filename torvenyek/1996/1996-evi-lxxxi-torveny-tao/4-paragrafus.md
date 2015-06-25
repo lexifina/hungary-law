@@ -6,7 +6,7 @@
 
 1/a. adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve hogy az nem jelent az e törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
 
-2. adózó: a 2. § (2)–(4) bekezdésében megnevezett belföldi és külföldi személy, a 2. § (5) bekezdésében meghatározottak kivételével;
+2. adózó: a 2. § (2)–(4), valamint (6) bekezdésében megnevezett belföldi és külföldi személy, a 2. § (5) bekezdésében meghatározottak kivételével;
 
 3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör;
 
@@ -42,7 +42,13 @@ e)
 
 10/a. bizalmi vagyonkezelő: a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján átvett vagyon kezelésére kötelezettséget vállaló belföldi személy, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező vállalkozás magyarországi fióktelepét is;
 
-10/b. elismert tőzsde: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
+10/b. elismert tőzsde: a hatáskörrel rendelkező felügyeleti hatóság által elismert tőzsde, amely
+
+a) rendszeresen működik,
+
+b) működését, a kereskedési rendszerhez való hozzáférést, a tőzsdei bevezetést és a szerződéskötés feltételeit a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatósága által meghatározott vagy elfogadott előírások szabályozzák,
+
+c) olyan elszámolási rendszerrel rendelkezik, amely szerint a határidős ügyletekre napi letét-elhelyezési követelmény vonatkozik és ez a székhely szerinti állam hatáskörrel rendelkező felügyeleti hatóságának értékelése szerint megfelelő biztonságot nyújt;
 
 11. ellenőrzött külföldi társaság: az a külföldi személy, illetve az üzletvezetés helye alapján külföldi illetőségű (a továbbiakban együtt: külföldi társaság), amelyben a külföldi társaság adóéve napjainak többségében a személyi jövedelemadóról szóló törvény szerint belföldi illetőségű tényleges tulajdonos (a továbbiakban: részesedéssel rendelkező) van, valamint az a külföldi társaság, amelynek az adóévben elért bevételei többségében magyarországi forrásból származnak, bármely esetben akkor, ha a külföldi társaság által az adóévre fizetett (fizetendő), adóvisszatérítéssel csökkentett társasági adónak megfelelő adó és az adóalap [csoportos adóalanyiság esetén a csoportszinten fizetett (fizetendő) adóvisszatérítéssel csökkentett adó és az adóalap] százalékban kifejezett hányadosa nem éri el a 10 százalékot vagy a külföldi társaság nulla vagy negatív adóalap miatt nem fizet társasági adónak megfelelő adót, bár eredménye pozitív; nem kell e rendelkezést alkalmazni, ha a külföldi társaság székhelye, illetősége az Európai Unió tagállamában, az OECD tagállamában vagy olyan államban van, amellyel Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére és amely államban valódi gazdasági jelenléttel bír, azzal, hogy
 
