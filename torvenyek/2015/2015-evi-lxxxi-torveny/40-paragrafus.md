@@ -11,11 +11,3 @@
 (3) A 30. §–35. § 2015. szeptember 1-jén lép hatályba.
 
 (4) Az 1. §–9. §, a 16. §–20. §, a 22. §–23. §, a 36. §–39. § és az 1–3. melléklet 2016. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Jakab István s. k.,
-
-az Országgyűlés alelnöke
