@@ -1,0 +1,1 @@
+## 1. § A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján a Szegedi Hőszolgáltató Korlátolt Felelősségű Társaságot (székhelye: 6724 Szeged, Vág u. 4.; cégjegyzékszáma: 06-09-006571) stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősíti.
