@@ -1,5 +1,3 @@
-## 5. § Az egyes költségtérítésekről szóló 19/2013. (IX. 6.) HM rendelet (a továbbiakban: R2.) 1. § (1) bekezdés 5. pontja helyébe a következő rendelkezés lép:
+## 5. §[^4]
 
-## (E rendelet alkalmazásában)
-
-## „5. honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet, a Katonai Nemzetbiztonsági Szolgálat és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény;”
+[^4]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
