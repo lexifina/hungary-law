@@ -1,0 +1,1 @@
+## 16. § Az Országos Műemléki Felügyelőség 5261/108/1990. számú határozatával védetté nyilvánított, Balatonberény (Somogy megye) 2284 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (présház) megsemmisülésére tekintettel – megszüntetem.

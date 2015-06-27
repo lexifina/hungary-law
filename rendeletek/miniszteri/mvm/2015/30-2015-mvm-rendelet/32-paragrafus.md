@@ -1,0 +1,1 @@
+## 31. § Az Országos Műemléki Felügyelőség 12716/1973. számú határozatával védetté nyilvánított, Felsőszentmárton (Baranya megye) 277 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (lakóház és gazdasági épületek) megsemmisülésére tekintettel – megszüntetem.

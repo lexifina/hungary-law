@@ -1,0 +1,1 @@
+## 21. § Az Országos Műemléki Felügyelőség 5261/112/1990. számú határozatával védetté nyilvánított Balatonkeresztúr (Somogy megye), a telekalakítást követően a 1402/5 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (présház) helyreállíthatatlanul elvesztette – megszüntetem.

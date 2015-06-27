@@ -1,0 +1,1 @@
+## 59. § Az Országos Műemléki Felügyelőség 10093/1970. számú határozatával védetté nyilvánított, Táp (Győr-Moson-Sopron megye) 216 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a földrészleten műemléki érték (Varga Katalin népi lakóháza) nem található, mivel azt szabadtéri néprajzi múzeumba szállították – megszüntetem.

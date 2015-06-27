@@ -1,0 +1,1 @@
+## 66. § Az Országos Műemléki Felügyelőség 776/1975. számú határozatával védetté nyilvánított Velem (Vas megye), a telekalakítást követően a 1107/1 és a 1107/2 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (présház) helyreállíthatatlanul elvesztette – megszüntetem.

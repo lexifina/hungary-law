@@ -1,0 +1,1 @@
+## 65. § Az Országos Műemléki Felügyelőség 5166/1980. számú határozatával védetté nyilvánított, Vászoly (Veszprém megye) 1021 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (présház-pince) helyreállíthatatlanul elvesztette – megszüntetem.

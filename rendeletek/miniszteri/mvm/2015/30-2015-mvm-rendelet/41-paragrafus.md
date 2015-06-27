@@ -1,0 +1,1 @@
+## 40. § Az Országos Műemléki Felügyelőség 12716/1973. számú határozatával védetté nyilvánított, Magyarsarlós (Baranya megye) 172 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (népi lakóház) megsemmisülésére tekintettel – megszüntetem.

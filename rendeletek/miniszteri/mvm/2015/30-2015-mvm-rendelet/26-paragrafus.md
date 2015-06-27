@@ -1,0 +1,1 @@
+## 25. § Az Országos Műemléki Felügyelőség 5261/74/1990. számú határozatával védetté nyilvánított, Balatonkeresztúr (Somogy megye) 1443/3 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (présház) megsemmisülésére tekintettel – megszüntetem.

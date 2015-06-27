@@ -1,0 +1,1 @@
+## 61. § Az Országos Műemléki Felügyelőség 776/1975. számú határozatával védetté nyilvánított, Táp (Győr-Moson-Sopron megye) 343 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (népi lakóház) megsemmisülésére tekintettel – megszüntetem.

@@ -1,0 +1,1 @@
+## 41. § Az Országos Műemléki Felügyelőség 17003/1981. számú határozatával védetté nyilvánított, Mezőhegyes (Békés megye), a telekalakítást követően a 056/25 és 056/26 helyrajzi számon nyilvántartott, a 28-as majorból áthelyezett fa harangláb műemléki védettségét – tekintettel arra, hogy a műemlék elpusztult – megszüntetem.

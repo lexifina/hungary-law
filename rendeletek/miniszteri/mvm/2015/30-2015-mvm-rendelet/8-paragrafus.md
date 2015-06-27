@@ -1,0 +1,1 @@
+## 7. § Az Országos Műemléki Felügyelőség 10155/1975. számú határozatával védetté nyilvánított, Abasár (Heves megye) 756 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.

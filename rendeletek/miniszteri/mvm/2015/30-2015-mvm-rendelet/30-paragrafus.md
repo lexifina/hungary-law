@@ -1,0 +1,1 @@
+## 29. § Az Országos Műemléki Felügyelőség 12313/1977. számú határozatával védetté nyilvánított, Emőd (Borsod-Abaúj-Zemplén megye), a telekalakításokat követően az 567/2, 567/3 és az 567/5 helyrajzi számon nyilvántartott ingatlanok műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (lakóház) helyreállíthatatlanul elvesztette – megszüntetem.

@@ -1,0 +1,1 @@
+## 58. § Az Országos Műemléki Felügyelőség 7255/1979. számú határozatával védetté nyilvánított, Szeghalom (Békés megye) 511 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (népi lakóház) megsemmisülésére tekintettel – megszüntetem.

@@ -1,0 +1,1 @@
+## 55. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Sümeg (Veszprém megye) 7121 helyrajzi számon nyilvántartott ingatlan (Bajomy-pince) műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit helyreállíthatatlanul elvesztette – megszüntetem.

@@ -1,0 +1,1 @@
+## 26. § Az Országos Műemléki Felügyelőség 561/1987. számú határozatával védetté nyilvánított, Békéscsaba (Békés megye) 4291 helyrajzi számú ingatlan (népi lakóház) műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.

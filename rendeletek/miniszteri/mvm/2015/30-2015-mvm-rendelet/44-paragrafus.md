@@ -1,0 +1,1 @@
+## 43. § Az Országos Műemléki Felügyelőség 12716/1973. számú határozatával védetté nyilvánított, Mindszentgodisa (Baranya megye) 248/2 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (kovácsműhely) megsemmisülésére tekintettel – megszüntetem.

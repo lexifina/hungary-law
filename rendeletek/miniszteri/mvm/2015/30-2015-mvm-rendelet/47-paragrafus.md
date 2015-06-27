@@ -1,0 +1,1 @@
+## 46. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Nézsa (Nógrád megye) 94/1 helyrajzi számon nyilvántartott gótikus mérművek műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.

@@ -1,0 +1,1 @@
+## 34. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Karancskeszi (Nógrád megye) 203 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (Haan Júlia sírköve) megsemmisülésére tekintettel – megszüntetem.

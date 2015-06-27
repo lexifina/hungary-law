@@ -1,0 +1,1 @@
+## 19. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Balatongyörök (Zala megye) 086/3 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (Rhédey-féle népi présház) helyreállíthatatlanul elvesztette – megszüntetem.

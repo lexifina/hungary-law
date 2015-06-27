@@ -1,0 +1,1 @@
+## 13. § Az Országos Műemléki Felügyelőség 5261/10/1990. számú határozatával védetté nyilvánított Balatonberény (Somogy megye), a telekalakítást követően a 2392/2, 2392/3, 2392/4 és 2392/5 helyrajzi számokon nyilvántartott ingatlanok műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (présház) helyreállíthatatlanul elvesztette – megszüntetem.

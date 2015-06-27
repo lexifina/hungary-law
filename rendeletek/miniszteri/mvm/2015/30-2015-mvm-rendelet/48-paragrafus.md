@@ -1,0 +1,1 @@
+## 47. § Az Országos Műemléki Felügyelőség 11223/1989. számú határozatával védetté nyilvánított, Pamlény (Borsod-Abaúj-Zemplén megye) 19 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (népi lakóház) megsemmisülésére tekintettel – megszüntetem.

@@ -1,0 +1,1 @@
+## 56. § Az Országos Műemléki Felügyelőség 11223/1989. számú határozatával védetté nyilvánított, Szászfa (Borsod-Abaúj-Zemplén megye) 19 helyrajzi számú ingatlan (népi lakóház) műemléki védettségét – tekintettel arra, hogy a műemlék szakmai ismérveinek nem felel meg – megszüntetem.
