@@ -16,7 +16,7 @@
 
 11–12.[^16]
 
-13.[^17] a Bizottság 2008/38/EK irányelve (2008. március 5.) a különleges táplálkozási célokra szánt takarmányok tervezett alkalmazási listájának létrehozásáról, valamint az azt módosító, a Bizottság 2008/82/EK irányelve, 1070/2010/EU és 5/2014/EU rendelete,
+13.[^17] a Bizottság 2008/38/EK irányelve (2008. március 5.) a különleges táplálási célokra szánt takarmányok tervezett alkalmazási listájának létrehozásáról, valamint az azt módosító, a Bizottság 2008/82/EK irányelve, 1070/2010/EU, 5/2014/EU és 1123/2014/EU rendelete,
 
 14. a Tanács 95/69/EK irányelve (1995. december 22.) a takarmányozási ágazatban működő egyes létesítmények és közvetítők engedélyezésére és nyilvántartására vonatkozó feltételek és szabályok megállapításáról, valamint a 70/524/EGK, a 74/63/EGK, a 79/373/EGK és a 82/471/EGK irányelvek módosításáról, valamint az ezt módosító, a Tanács 1999/20/EK irányelve,
 
@@ -26,7 +26,7 @@
 
 17. a Bizottság 98/68/EK irányelve (1998. szeptember 10.) a 95/53/EK tanácsi irányelv 9. cikkének (1) bekezdésében említett szabványdokumentum és a harmadik országokból származó takarmányoknak a Közösség területén történő bevezetése során alkalmazott ellenőrzések egyes szabályainak megállapításáról,
 
-18.[^19] az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve és 574/2011/EU, 277/2012/EU, 744/2012/EU, 107/2013/EU, 1275/2013/EU rendelete,
+18.[^19] az Európai Parlament és a Tanács 2002/32/EK irányelve (2002. május 7.) a takarmányban előforduló nemkívánatos anyagokról, valamint az azt módosító, a Bizottság 2005/8/EK, 2005/86/EK, 2005/87/EK, 2006/13/EK, 2008/76/EK, 2009/8/EK, 2009/141/EK, 2010/6/EU irányelve és 574/2011/EU, 277/2012/EU, 744/2012/EU, 107/2013/EU, 1275/2013/EU, 186/2015/EU rendelete,
 
 19. a Bizottság 2004/116/EK irányelve (2004. december 23.) a 82/471/EGK tanácsi irányelvnek a Candida guilliermondii felvétele tekintetében történő módosításáról,
 
@@ -111,9 +111,9 @@
 [^14]: A 2. § (1) bekezdés 7. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^15]: A 2. § (1) bekezdés 9. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^16]: A 2. § (1) bekezdés 11–12. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^17]: A 2. § (1) bekezdés 13. pontja a 14/2014. (X. 9.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^17]: A 2. § (1) bekezdés 13. pontja a 34/2015. (VI. 25.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^18]: A 2. § (1) bekezdés 15. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
-[^19]: A 2. § (1) bekezdés 18. pontja a 14/2014. (X. 9.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. § (1) bekezdés 18. pontja a 34/2015. (VI. 25.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^20]: A 2. § (1) bekezdés 23. pontját a 2/2010. (VI. 30.) VM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
 [^21]: A 2. § (2) bekezdés 32. pontja a 2/2010. (VI. 30.) VM rendelet 5. § (2) bekezdése alapján 2010. szeptember 1-jén lépett hatályba.
 [^22]: A 2. § (2) bekezdés 33. pontja az 51/2013. (VI .17.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
