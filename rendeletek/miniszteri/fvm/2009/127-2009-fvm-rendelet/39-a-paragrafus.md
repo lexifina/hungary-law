@@ -1,6 +1,6 @@
-## Forgalomba hozatali engedéllyel rendelkező bortétel további feldolgozása[^105]
+## Forgalomba hozatali engedéllyel rendelkező bortétel további feldolgozása[^106]
 
-39/A. §[^106] (1) Egy forgalomba hozatali engedéllyel rendelkező bortétel további feldolgozás céljából történő több bortételre bontása esetén a további feldolgozás megkezdése előtt 3 munkanappal a borászati üzem köteles a forgalomba hozatali engedélyről szóló határozat módosítását kérni a NÉBIH-től a bortétel alábbi adatainak közlésével:
+39/A. §[^107] (1) Egy forgalomba hozatali engedéllyel rendelkező bortétel további feldolgozás céljából történő több bortételre bontása esetén a további feldolgozás megkezdése előtt 3 munkanappal a borászati üzem köteles a forgalomba hozatali engedélyről szóló határozat módosítását kérni a NÉBIH-től a bortétel alábbi adatainak közlésével:
 
 a) forgalomba hozatali engedély száma,
 
@@ -16,5 +16,5 @@ c) a bortétel tárolásának pontos helye.
 
 (5) OEM-borászati termék további feldolgozás céljából történő értékesítése esetén az eladónak az értékesítés tényét a tranzakciót követő 48 órán belül be kell jelentenie az eladó borászati üzeme szerint illetékes hegybíró részére.
 
-[^105]: A 39/A. §-t megelőző alcímet a 29/2013. (IV. 30.) VM rendelet 1. § (1) bekezdése iktatta be.
-[^106]: A 39/A. §-t a 29/2013. (IV. 30.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^106]: A 39/A. §-t megelőző alcímet a 29/2013. (IV. 30.) VM rendelet 1. § (1) bekezdése iktatta be.
+[^107]: A 39/A. §-t a 29/2013. (IV. 30.) VM rendelet 1. § (1) bekezdése iktatta be.

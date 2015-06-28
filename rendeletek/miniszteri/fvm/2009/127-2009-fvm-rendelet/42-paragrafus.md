@@ -1,4 +1,4 @@
-## 41/A. §[^115] A HNT a HEGYIR-hez 2016. december 31-ig online hozzáférést biztosít a NÉBIH részére a Btv. 44. § (1) bekezdés j) pontjában előírt, a bor származási bizonyítványok valóságtartalmának ellenőrzéséhez szükséges adatokhoz.
+## 41/A. §[^116] A HNT a HEGYIR-hez 2016. december 31-ig online hozzáférést biztosít a NÉBIH részére a Btv. 44. § (1) bekezdés j) pontjában előírt, a bor származási bizonyítványok valóságtartalmának ellenőrzéséhez szükséges adatokhoz.
 
 ## III. Fejezet
 
@@ -10,4 +10,4 @@
 
 (2) Az ellenőrzött termékhalmazt úgy kell megválasztani, hogy azonos termelői helyen gyártott termékből álljon. A tárolás és a szállítás során a tartályban lévő termék minden egysége termékhalmaznak minősül.
 
-[^115]: A 41/A. §-t a 20/2014. (X. 31.) FM rendelet 27. §-a iktatta be.
+[^116]: A 41/A. §-t a 20/2014. (X. 31.) FM rendelet 27. §-a iktatta be.

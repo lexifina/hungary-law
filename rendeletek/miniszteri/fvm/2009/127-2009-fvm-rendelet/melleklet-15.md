@@ -40,6 +40,6 @@
 
 ## (az OBB elnökének aláírása)
 
-15. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^176]
+15. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^177]
 
-[^176]: A 15. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § f) pontjával megállapított szöveg.
+[^177]: A 15. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § f) pontjával megállapított szöveg.

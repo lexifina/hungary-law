@@ -16,7 +16,9 @@ b) másik GA számmal rendelkező hegyközségi tag borászati üzemébe törté
 
 c) forgalomba hozatali engedély igénylése.
 
-(5)[^47] A hegybíró a szüretet követő év február 20-ig rögzíti a HEGYIR-ben a (2) bekezdés szerint benyújtott kérelemben szereplő adatokat. A tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékekre benyújtott kérelmekben szereplő adatokat a hegybíró április 20-ig rögzíti a HEGYIR-ben.
+(4a)[^47] A (4) bekezdés c) pontja szerinti származási bizonyítványt kell kiadni minden olyan esetben, amikor a borászati terméket nem borászati termék előállítására kívánják felhasználni. A bor származási bizonyítványon jelölni kell a felhasználás célját.
+
+(5)[^48] A hegybíró a szüretet követő év február 20-ig rögzíti a HEGYIR-ben a (2) bekezdés szerint benyújtott kérelemben szereplő adatokat. A tokaji borkülönlegességek és a november 30-át követően szüretelt szőlőből készült borászati termékekre benyújtott kérelmekben szereplő adatokat a hegybíró április 20-ig rögzíti a HEGYIR-ben.
 
 (6) Adómentes bor előállítása esetén bor származási bizonyítvány nem adható ki. Ebben az esetben a szőlő származási bizonyítványra a hegybíró rávezeti: „Adómentes bor előállítására felhasznált szőlő”. Ezt a tényt a hegybíró rögzíti a HEGYIR-ben.
 
@@ -32,4 +34,5 @@ c) forgalomba hozatali engedély igénylése.
 [^44]: A 14. § (1) bekezdése a 20/2014. (X. 31.) FM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^45]: A 14. § (3) bekezdése a 20/2014. (X. 31.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^46]: A 14. § (4) bekezdése a 20/2014. (X. 31.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^47]: A 14. § (5) bekezdése a 20/2014. (X. 31.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^47]: A 14. § (4a) bekezdését a 34/2015. (VI. 25.) FM rendelet 6. § (1) bekezdése iktatta be.
+[^48]: A 14. § (5) bekezdése a 20/2014. (X. 31.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.

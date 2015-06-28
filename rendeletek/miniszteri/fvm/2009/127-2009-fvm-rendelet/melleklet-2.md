@@ -42,6 +42,6 @@
 
 ## 22. Tolnai borvidék: a Tolna OEM termékleírásban a körülhatárolt termőterület fejezetben felsorolt települések összessége.
 
-2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^163]
+2. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^164]
 
-[^163]: A 2. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § b) pontjával megállapított szöveg.
+[^164]: A 2. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § b) pontjával megállapított szöveg.

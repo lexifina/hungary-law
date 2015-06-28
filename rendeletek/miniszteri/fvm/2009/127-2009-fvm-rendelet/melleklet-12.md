@@ -238,6 +238,8 @@
 
 | 28. |  |  |  |
 
+| 29. | Egyéb felhasz- nálás jelölése | a 4. § (4a) bekezdése alapján jelölt felhasználási cél |  |  |
+
 ## Megjegyzés:
 
 ## A fenti tételekre a ...................................................... sorszámú bor származási bizonyítványt a forgalomba hozatali engedély igénylésének céljából kiadtam és nyilvántartásba vettem.
@@ -252,6 +254,6 @@
 
 ## Hegybíró aláírása
 
-12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^173]
+12. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^174]
 
-[^173]: A 12. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § e) pontjával megállapított szöveg.
+[^174]: A 12. számú melléklet a 20/2014. (X. 31.) FM rendelet 31. § e) pontjával megállapított szöveg.

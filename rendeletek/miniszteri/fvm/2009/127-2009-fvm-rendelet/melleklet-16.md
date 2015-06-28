@@ -54,7 +54,7 @@
 
 | 26. | siller | bor (OEM és OFJ) | igen | A rövid héjon erjesztés következtében élénk, halvány színű vörösbor. |
 
-16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^177]
+16. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^178]
 
 „A” rész
 
@@ -422,4 +422,4 @@ Magyar mustfok átszámítása alkoholtartalomra
 
 A tömegszázalékban mért cukortartalom átszámítása alkoholfokra
 
-[^177]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^178]: A 16. számú melléklet a 64/2010. (V. 12.) FVM rendelet 25. § (10) bekezdésével megállapított szöveg.

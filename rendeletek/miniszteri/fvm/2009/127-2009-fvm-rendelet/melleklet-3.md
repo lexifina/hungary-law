@@ -278,6 +278,6 @@
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^164]
+3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^165]
 
-[^164]: A 3. számú mellékletet a 20/2014. (X. 31.) FM rendelet 33. § f) pontja hatályon kívül helyezte.
+[^165]: A 3. számú mellékletet a 20/2014. (X. 31.) FM rendelet 33. § f) pontja hatályon kívül helyezte.
