@@ -14,7 +14,7 @@
 
 ## b) az erdészeti tevékenység biztonságos végzésének munkahelyi paramétereit (elsősorban a megengedett lejtfokot, terepegyenetlenséget, különböző lejtésű terepen a traktor tengelye és az esésvonal közötti legnagyobb szögeltérést);
 
-## c)[^8] a viperaveszélyes, valamint a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve, illetve annak megyei intézete által a kullancs terjesztette agyhártyagyulladás vírusgócként nyilvántartott körzeteket;
+## c)[^8] a viperaveszélyes, valamint a népegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal által a kullancs terjesztette agyhártyagyulladás vírusgócként nyilvántartott körzeteket;
 
 ## d) az erdészeti tevékenység keretében végzett szaporítóanyag-gyűjtéshez, valamint a lakott területi fakitermeléshez használható felszerelést, ezek műszaki paramétereit, a technológiát, valamint a védőruházatot, továbbá a szaporítóanyag-gyűjtéshez előírt felszerelések ellenőrzéséért felelős személyt, az ellenőrzés módját, gyakoriságát eszközönkénti bontásban;
 
@@ -855,7 +855,7 @@ TARTALOMJEGYZÉK
 5.5 Készletezés, rakodás, szállítás
 
 [^7]: A melléklet a 17/1991. (VII. 22.) FM rendelet melléklete szerint módosított szöveg.
-[^8]: A Melléklet 1.2. pont c) alpontja a 70/2013. (VII. 31.) VM rendelet 1. § a) pontja szerint módosított szöveg.
+[^8]: A Melléklet 1.2. pont c) alpontja a 34/2015. (VI. 25.) FM rendelet 1. § b) pontja szerint módosított szöveg.
 [^9]: A Melléklet 1.7. pontja a 70/2013. (VII. 31.) VM rendelet 1. § b) pontja szerint módosított szöveg.
 [^10]: A növényvédelemről szóló 1988. évi 2. tvr. és a végrehajtására kiadott 5/1988. (IV. 26.) MÉM rendelet.
 [^11]: MSZ 14 399–80
