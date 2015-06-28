@@ -1654,7 +1654,7 @@ a)[^8] Mezőgazdasági gépek
 
 | 2. | Lánctalpas traktor | 8701.30.90 01 | Mezőgazdasági gépkezelő (Traktor) | 31 6280 10 | Okleveles mezőgazdasági gépészmérnök, Mezőgazdasági gépészmérnök, Mezőgazdasági gépésztechnikus, Mezőgazdasági gépszerelő, gépüzemeltető, Mezőgazdasági gépjavító és karbantartó, Mezőgazdasági gépjavító szaktechnikus, Mezőgazdasági gépüzemeltető szaktechnikus, Mezőgazdasági gépész, Növénytermesztő gépész, Állattartó-telepi gépész, Kertészeti gépész, Gazda I, Gazda II. |
 
-| 3. | Önjáró mezőgazdasági betakarítógép | 8433.11 8433.19 8433.20 8433.30 8433.40 8433.51 8433.52 8433.53 8433.59 | Mezőgazdasági gépkezelő (Önjáró betakarítógép) | 31 6280 10 | Okleveles mezőgazdasági gépészmérnök, Mezőgazdasági gépészmérnök, Mezőgazdasági gépésztechnikus, Mezőgazdasági gépész, Növénytermesztő gépész, Kertészeti gépész, Mezőgazdasági gépszerelő, gépüzemeltető, Mezőgazdasági gépjavító és karbantartó, Mezőgazdasági gépjavító szaktechnikus, Mezőgazdasági, gépüzemeltető szaktechnikus, Gazda I, Gazda II. |
+| 3. | 2 méter feletti vágóasztal szélességű önjáró mezőgazdasági betakarítógép | 8433.11 8433.19 8433.20 8433.30 8433.40 8433.51 8433.52 8433.53 8433.59 | Mezőgazdasági gépkezelő (Önjáró betakarítógép) | 31 6280 10 | Okleveles mezőgazdasági gépészmérnök, Mezőgazdasági gépészmérnök, Mezőgazdasági gépésztechnikus, Mezőgazdasági gépész, Növénytermesztő gépész, Kertészeti gépész, Mezőgazdasági gépszerelő, gépüzemeltető, Mezőgazdasági gépjavító és karbantartó, Mezőgazdasági gépjavító szaktechnikus, Mezőgazdasági, gépüzemeltető szaktechnikus, Gazda I, Gazda II. |
 
 | 4. | Meliorációs és földmunkagép | 8432.10 8432.21 8432.29 8432.30 8432.40 8432.80 | Mezőgazdasági gépkezelő (Meliorációs és parképítő földmunkagép) | 31 6280 10 | Okleveles mezőgazdasági gépészmérnök, Mezőgazdasági gépészmérnök, Mezőgazdasági gépésztechnikus, Parképítő és fenntartó technikus, Tájépítő szaktechnikus, Meliorációs és parképítő gépkezelő, Mezőgazdasági gépész. |
 
@@ -1674,5 +1674,5 @@ a)[^8] Mezőgazdasági gépek
 [^4]: A Magyar Közlöny 2001. évi 102. számában megjelent helyesbítésnek megfelelő szöveg.
 [^5]: A Magyar Közlöny 2001. évi 102. számában megjelent helyesbítésnek megfelelő szöveg.
 [^6]: A Magyar Közlöny 2001. évi 102. számában megjelent helyesbítésnek megfelelő szöveg.
-[^7]: A melléklet 8. függelékének 8.4. pontja a 83/2003. (VII. 16.) FVM rendelet 9. §-ának (3) bekezdésével megállapított szöveg.
-[^8]: A melléklet 8. függelékek 8.4. pont a) alpontja a 106/2012. (X. 11.) VM rendelet 2. §-a szerint módosított szöveg.
+[^7]: A melléklet 8. függelékének 8.4. pontja a 83/2003. (VII. 16.) FVM rendelet 9. § (3) bekezdésével megállapított.
+[^8]: A melléklet 8. függelékek 8.4. pont a) alpontja a 106/2012. (X. 11.) VM rendelet 2. §-a, a 34/2015. (VI. 25.) FM rendelet 3. §-a szerint módosított szöveg.
