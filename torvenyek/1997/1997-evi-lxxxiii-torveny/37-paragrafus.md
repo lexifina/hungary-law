@@ -4,7 +4,7 @@
 
 a) vagy a beutalásra jogosult orvosa nem a hatályos jogszabályoknak vagy szakmai előírásoknak megfelelően járt el az egészségügyi szolgáltatások rendelésénél,
 
-b) a miniszteri rendeletben kihirdetett finanszírozási eljárásrendeknek, ennek hiányában az érvényes szakmai protokolloknak vagy mindezek hiányában az Eütv. 119. § (3) bekezdésében foglalt szakmai előírásoknak (a továbbiakban együtt: orvosszakmai előírások) nem megfelelően nyújtott ellátást számolt el, vagy
+b) a miniszteri rendeletben kihirdetett finanszírozási eljárásrendeknek, rehabilitációs ellátási programoknak, ennek hiányában az érvényes vizsgálati és terápiás eljárási rendeknek vagy mindezek hiányában az Eütv. 119. § (3) bekezdésében foglalt szakmai előírásoknak (a továbbiakban együtt: orvosszakmai előírások) nem megfelelően nyújtott ellátást számolt el, vagy
 
 c) más forrásból megtérülő ellátást számolt el.
 

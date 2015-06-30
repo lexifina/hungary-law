@@ -11,3 +11,5 @@ c) amennyiben az orvosi rehabilitációra fekvőbeteg-gyógyintézetben kerül s
 d) szenvedélybetegsége esetén a külön jogszabályban meghatározott rehabilitációs ellátásra.
 
 (2) A biztosított – külön jogszabályban foglaltak szerint – jogosult egészségügyi beavatkozást követő rekonstrukcióra, továbbá funkciózavart okozó veleszületett vagy szerzett testi rendellenességek korrekciójára a 13–14. §-ban foglaltak szerint.
+
+(3) A biztosított a rehabilitációs medicina körébe tartozó ellátásokra a rehabilitációs ellátási programok szerint jogosult.
