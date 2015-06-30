@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-20-00-00
 | 2014-12-06 | 2014. évi LXXIX. törvény | 2001-20-00-00.42 |
 | 2014-12-20 | 2014. évi LXXV. törvény | 2001-20-00-00.43 |
 | 2014-12-24 | 2014. évi XCI. törvény | 2001-20-00-00.44 |
+| 2015-06-30 | 2015. évi LXXXVIII. törvény | 2001-20-00-00.45 |
