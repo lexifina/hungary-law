@@ -978,7 +978,7 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 34 | Tököl Drop Zone 3,15 km (1,7 NM) sugarú kör a 472037N 0185909E középpont körül | FL145 (4450 m STD) / 3500’ | (ICAO „G”) Közzétett üzemidő szerint. |
 
-| 35 | Nyíregyháza Drop Zone10 km sugarú kör a 475856N 0214100E középpont körül | FL155 (4700 m)/4000’ (1200 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint |
+| 35 | Nyíregyháza Drop Zone 10 km sugarú kör a 475856N 0214100E középpont körül | FL155 (4700 m)/4000’ (1200 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint |
 
 | 36 | LHKV Drop Zone | FL165 (5050 m)/GND | (ICAO „G”) Közzétett üzemidő szerint |
 
@@ -992,6 +992,32 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 |  | 463100N | 0173400E |
 
+| 38 | LHKH Drop Zone | FL135 (4100 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint |
+
+| 464600N | 0194546E |
+
+| 464800N | 0195100E |
+
+| 464558N | 0195533E |
+
+| 464200N | 0195600E |
+
+| 464600N | 0194546E |
+
+| 39 | LHBD Drop Zone | FL155 (4700 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint |
+
+| 471037N | 0182857E |
+
+| 470619N | 0182317E |
+
+| 470145N | 0182636E |
+
+| 470237N | 0183147E |
+
+| 470840N | 0183425E |
+
+| LHB24 Velencei tó, Dinnyés környezetvédelmi szempontból korlátozott légtér átfedő részének kizárásával |
+
 III. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
-[^52]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § a) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^52]: A 2. melléklet a 37/2010. (V. 4.) KHEM rendelet 3. §-a, az 56/2011. (XI. 8.) NFM rendelet 10. § (1) bekezdés c)–e) pontja, a 15/2014. (IV. 3.) NFM rendelet 16. § (1)–(3) bekezdése, a 4/2015. (II. 3.) NFM rendelet 4. § a) pontja, a 31/2015. (VI. 19.) NFM rendelet 1. § (1) bekezdése, a 35/2015. (VI. 29.) NFM rendelet 1. §-a szerint módosított szöveg.
