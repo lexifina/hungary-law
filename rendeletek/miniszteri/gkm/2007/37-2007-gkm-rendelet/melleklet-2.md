@@ -60,7 +60,7 @@
 
 | 8 | Fejér | M1 | 26+400 | 27 | Herceghalmi csomópont | 55+975 | 56 | Tatabánya-Óvárosi csomópont |
 
-| 9 | Fejér | M6 | 24+000 | 25 | Százhalombatta-észak csomópont | 97+300 | 98 | Dunaföldvár-dél csomópont |
+| 9 | Fejér | M6 | 24+000 | 25 | Százhalombatta-észak csomópont | 97+300 | 98 | Paks-észak csomópont |
 
 | 10 | Fejér | M7 | 23+000 | 23 | Pusztazámori csomópont | 90+000 | 90 | Balatonvilágosi csomópont |
 
@@ -112,4 +112,4 @@
 
 | 34 | Zala | M70 | 0+200 | 232 (M7) 1 (M70) | M7-M70 elválási csomópont | 21+264 | – | Tornyiszentmiklós országhatár |
 
-[^6]: A 2. mellékletet a 3/2015. (I. 29.) NFM rendelet 6. § (2) bekezdése iktatta be.
+[^6]: A 2. mellékletet a 3/2015. (I. 29.) NFM rendelet 6. § (2) bekezdése iktatta be, szövege a 34/2015. (VI. 29.) NFM rendelet 6. § (1) bekezdése szerint módosított szöveg.
