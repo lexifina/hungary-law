@@ -1,10 +1,10 @@
 7/A. §[^33] (1)[^34] Ha a gépjármű az ellenőrzéskor nem rendelkezik érvényes jogosultsággal, jogosulatlan úthasználat miatt a gépjármű kategóriájának megfelelő pótdíjat kell fizetni.
 
-(2)[^35] Ha a gépjármű az ellenőrzéskor a gépjárműre egyébként irányadó díjkategóriához képest alacsonyabb díjkategóriába tartozó, érvényes jogosultsággal rendelkezik, akkor az alacsonyabb és az egyébként irányadó díjkategóriához rendelt pótdíjak különbözetét, de legalább a legalacsonyabb pótdíjat kell megfizetni és a (9) bekezdés szerinti maximalizált pótdíj nem állapítható meg. Ha a járműre a 6. § (6) bekezdése szerinti jogosultságot vásárolták, de a jármű a forgalmi engedélye alapján nem motorkerékpár, akkor a jármű kategóriájának megfelelő teljes pótdíjat kell megfizetni.
+(2)[^35] Ha a gépjármű az ellenőrzéskor a gépjárműre egyébként irányadó díjkategóriához képest alacsonyabb díjkategóriába tartozó, érvényes jogosultsággal rendelkezik, akkor az alacsonyabb és az egyébként irányadó díjkategóriához rendelt pótdíjak különbözetét, de legalább a legalacsonyabb pótdíjat kell megfizetni. Ha a járműre a 6. § (7) bekezdése szerinti jogosultságot vásároltak, de a jármű a forgalmi engedélye alapján nem motorkerékpár, akkor a jármű kategóriájának megfelelő teljes pótdíjat kell megfizetni.
 
-(2a)[^36] Az ellenőrzés eredményeként a pótdíjfizetési kötelezettség megállapítása céljából a kötelezett adatait a díjfizetés ellenőrzésére jogosult szervezet a személy-, és a jármű azonosítására alkalmas okmányai alapján vagy a járműnyilvántartás adatai alapján állapítja meg.
+(2a)[^36] Az ellenőrzés eredményeként a pótdíjfizetési kötelezettség megállapítása céljából a kötelezett adatait a díjfizetés ellenőrzésére jogosult szervezet a személy-, és a jármű azonosításra alkalmas okmányai, a járműnyilvántartás adatai alapján, vagy külföldi rendszámmal rendelkező járművek esetében – amennyiben arra másként nincs mód – közreműködő szervezet útján állapítja meg.
 
-(2b)[^37] A pótdíj utólagos megfizetésére a gépjármű – a közúti közlekedési nyilvántartási szervezet nyilvántartása szerint a jogosulatlan úthasználat napján nyilvántartott – üzemben tartója, üzemben tartó hiányában a gépjármű tulajdonosa köteles.
+(2b)[^37] A pótdíj utólagos megfizetésére a jármű – magyar rendszámmal rendelkező jármű esetében a közúti közlekedési nyilvántartási szervezet nyilvántartása szerint a jogosulatlan úthasználat napján nyilvántartott – üzemben tartója, üzemben tartó hiányában a gépjármű tulajdonosa köteles.
 
 (2c)[^38] A pótdíjat a NÚSZ Zrt. szedi be. Megállítás útján történő ellenőrzés esetén a pótdíjat a díjfizetés ellenőrzésére jogosult további szervezetek is beszedhetik.
 
@@ -30,9 +30,9 @@
 
 [^33]: A 7/A. §-t a 108/2007. (XII. 23.) GKM rendelet 7. §-a iktatta be.
 [^34]: A 7/A. § (1) bekezdése a 47/2008. (XII. 31.) KHEM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^35]: A 7/A. § (2) bekezdése a 25/2013. (V. 31.) NFM rendelet 10. §-ával megállapított, az 57/2014. (XII. 30.) NFM rendelet 5. § b) pontja szerint módosított szöveg.
-[^36]: A 7/A. § (2a) bekezdését a 95/2011. (XII. 30.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^37]: A 7/A. § (2b) bekezdését a 95/2011. (XII. 30.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^35]: A 7/A. § (2) bekezdése a 34/2015. (VI. 29.) NFM rendelet 1. §-ával megállapított szöveg.
+[^36]: A 7/A. § (2a) bekezdését a 95/2011. (XII. 30.) NFM rendelet 7. § (1) bekezdése iktatta be, szövege a 34/2015. (VI. 29.) NFM rendelet 1. §-ával megállapított szöveg.
+[^37]: A 7/A. § (2b) bekezdését a 95/2011. (XII. 30.) NFM rendelet 7. § (1) bekezdése iktatta be, szövege a 34/2015. (VI. 29.) NFM rendelet 1. §-ával megállapított szöveg.
 [^38]: A 7/A. § (2c) bekezdését a 95/2011. (XII. 30.) NFM rendelet 7. § (1) bekezdése iktatta be, szövege az 57/2014. (XII. 30.) NFM rendelet 5. § c) pontja szerint módosított szöveg.
 [^39]: A 7/A. § (3) bekezdése a 79/2012. (XII. 27.) NFM rendelet 8. § (4) bekezdésével megállapított, az 57/2014. (XII. 30.) NFM rendelet 5. § d) pontja szerint módosított szöveg.
 [^40]: A 7/A. § (4) bekezdése a 95/2011. (XII. 30.) NFM rendelet 7. § (2) bekezdésével megállapított szöveg.

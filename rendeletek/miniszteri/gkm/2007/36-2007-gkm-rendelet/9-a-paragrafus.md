@@ -24,6 +24,21 @@ b) egyéb, az adott gépjármű vonatkozásában megváltott megyei jogosultság
 
 (9) Amennyiben a visszaváltás feltételei nem állnak fenn, a pótdíj megfizetésére kötelezettel szemben a 7/A. § szerinti pótdíj kiszabásának van helye.
 
-(10) Nincs helye pótdíj kiszabásának, amennyiben egy gépjármű tekintetében nem a díjkategóriájának megfelelő, de a díjkategóriájával azonos árú jogosultság került megváltásra.
+(10)[^60] Nincs helye a pótdíj kiszabásának abban az esetben, ha nem a jármű jogszabályban meghatározott díjkategóriájának megfelelő, de
+
+a) a D2 díjkategóriába tartozó járműre egy D1 díjkategóriájú országosan érvényes éves, vagy
+
+b) a D2 díjkategóriába tartozó járműre egyidejűleg legalább két D1 díjkategóriájú, azonos érvényességi időszakra érvényes, azonos lejárati idejű és területi hatályú
+
+## jogosultság került megváltásra.
+
+(11)[^61] A 2015. január 1. és az utak használatáért fizetendő díjjal kapcsolatos egyes miniszteri rendeletek módosításáról szóló 34/2015. (VI. 29.) NFM rendelet (a továbbiakban: Módr.) hatálybalépése[^62] közötti időszakban, díjkategória tévesztés miatt, ugyanazon üzemben tartó ugyanazon járműve vonatkozásában legfeljebb két pótdíj szabható ki.
+
+(12)[^63] Ha a jármű üzemben tartója 2015. január 1. és a Módr. hatálybalépése[^64] közötti időszakban nem változott, és ezen időszakban a pótdíjbefizetések összege elérte a 29 750 forintot, az e feletti összeget az üzemben tartó részére vissza kell fizetni. Ha a jármű üzemben tartója 2015. január 1. és a Módr. hatálybalépése közötti időszak alatt változott, azon üzemben tartók részére, akik által teljesített pótbefizetések összege abban az időszakban, amíg a nyilvántartásban a jármű bejegyzett üzembentartójaként szerepeltek, elérte a 29 750 forintot, az e feletti összeget vissza kell fizetni. A visszafizetéseket a Módr. hatálybalépésétől számított 45 napon belül kell teljesíteni.
 
 [^59]: A 9/A. §-t az 57/2014. (XII. 30.) NFM rendelet 4. §-a iktatta be, szövege a 3/2015. (I. 29.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^60]: A 9/A. § (10) bekezdése a 34/2015. (VI. 29.) NFM rendelet 3. §-ával megállapított szöveg.
+[^61]: A 9/A. § (11) bekezdését a 34/2015. (VI. 29.) NFM rendelet 4. §-a iktatta be.
+[^62]: A hatálybalépés időpontja 2015. június 30.
+[^63]: A 9/A. § (12) bekezdését a 34/2015. (VI. 29.) NFM rendelet 4. §-a iktatta be.
+[^64]: A hatálybalépés időpontja 2015. június 30.
