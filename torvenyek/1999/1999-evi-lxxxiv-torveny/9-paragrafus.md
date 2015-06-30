@@ -40,12 +40,12 @@ g) kilométerszámláló műszere által jelzett értéket (kilométeróra-áll�
 
 (5) A 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsiból, vontatóból, pótkocsiból és autóbuszból
 
-a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) és f) pontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal általa vezetett egyéni vállalkozók nyilvántartása tartalmaz,
+a) 10-nél többet üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja szerinti székhely, telephely címként olyan települési cím bejegyzését kérheti, amelyet a cégjegyzék vagy a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatal általa vezetett egyéni vállalkozók nyilvántartása tartalmaz,
 
-b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) és f) pontja szerinti székhely, telephely címként olyan települési cím bejegyzését is kérheti, amelyet a külön jogszabály szerint tárolási helyül a közlekedési hatóságnak bejelentett, és a bejelentés megtörténtét a közlekedési hatóság igazolása tanúsítja,
+b) legfeljebb 10-et üzemeltető üzemben tartó az (1) bekezdés b) pontja és d) pont db) alpontja székhely, telephely címként olyan települési cím bejegyzését is kérheti, amelyet a külön jogszabály szerint tárolási helyül a közlekedési hatóságnak bejelentett, és a bejelentés megtörténtét a közlekedési hatóság igazolása tanúsítja,
 
 feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolgál. Azt a tényt, hogy a települési cím szerinti ingatlan alkalmas a járművek tárolására, a települési önkormányzat jegyzője igazolja.
 
-(6) Az (1) bekezdés b) és f) pontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
+(6) Az (1) bekezdés b) pontja és d) pont db) alpontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
 
 (7) A járműnyilvántartás az (1)–(5) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
