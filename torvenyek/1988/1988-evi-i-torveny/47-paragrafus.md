@@ -60,9 +60,9 @@ Magyarország területén van.
 
 22.1.4. személygépkocsis személyszállító vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
 
-22.2. az autóbusszal végzett belföldi és nemzetközi személyszállítás szakmai feltételeiről és engedélyezési eljárásáról szóló külön jogszabályban meghatározott, autóbuszos személyszállító vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
+22.2. a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott, autóbuszos személyszállító vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
 
-22.3. a belföldi és a nemzetközi közúti árufuvarozás szakmai feltételeiről és engedélyezési eljárásáról szóló külön jogszabályban meghatározott, árufuvarozó vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
+22.3. a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott, árufuvarozó vállalkozói képesítéshez kötött tevékenységet folytató szakmai vezető,
 
 22.4. a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló külön jogszabályban meghatározott, szakmai alap- és továbbképzési képesítéshez kötött tevékenységet folytató gépjárművezető,
 

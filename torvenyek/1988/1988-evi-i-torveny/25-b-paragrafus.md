@@ -20,7 +20,9 @@ a) szokásos tartózkodási helye nem Magyarország területén van,
 
 b) a járművet – hat hónapon belül összességében – 30 nap időtartamot meg nem haladóan használja Magyarország területén és a használathoz az üzemben tartó a jármű birtokba adása időpontjának, továbbá a használati jogosultság időtartamának megjelölését is tartalmazó okiratba foglalt nyilatkozatával hozzájárult, vagy
 
-c) a belföldön használt járművet a külföldi üzemben tartójától rendszeres munkavégzéséhez kapta használatra.
+c) a belföldön használt járművet a külföldi üzemben tartójától rendszeres munkavégzéséhez kapta használatra,
+
+d) a regisztrációs adóról szóló törvényben meghatározott gépjárműflotta-üzemeltető külföldi rendszámú gépjárművét vezeti, amennyiben a regisztrációs adóról szóló törvény alapján a gépjárműre a regisztrációs adót megfizették.
 
 (4a) Az (1) bekezdésben foglaltakat nem kell alkalmazni a következő feltételek fennállásának ideje alatt és az azt követő 30 napig, ha a járművezető vagy az üzemben tartó
 

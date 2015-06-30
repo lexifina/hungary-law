@@ -130,7 +130,7 @@ b) a miniszter, hogy
 
 25. az alagutak tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,
 
-26. a 33. § (4) bekezdése szerinti eszközre vonatkozó követelményeket,
+26. a 21. § (3) bekezdése szerinti eszközre vonatkozó követelményeket,
 
 27. a meghatározott össztömeget, tengelyterhelést és méretet, továbbá össztömeg-korlátozást meghaladó járművek közúti közlekedéséről, a közútkezelői és a hatósági eljárás, a díjfizetés, valamint a szakkíséret és kíséret személyi és tárgyi feltételeiről szóló szabályokat,
 

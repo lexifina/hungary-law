@@ -14,7 +14,7 @@ c) a magánutak tekintetében annak a területnek a tulajdonosa, amelyen a magá
 
 (3) A (2) bekezdésben meghatározott szervek a felvételek készítéséhez és továbbításához közreműködőt vehetnek igénybe.
 
-(4) A (2) bekezdés szerinti, a 21. § (5) bekezdése szerinti kormányrendeletben meghatározott szabályszegések elkövetését bizonyító felvételt kizárólag a külön jogszabályban meghatározott feltételeknek megfelelő eszközzel lehet készíteni.
+(4)
 
 (5) Az országos közutak kezelőinek tevékenységét a miniszter által alapított költségvetési szerv hangolja össze, az útkezelői szolgáltatást finanszírozza és – az üzemeltetésre vonatkozó szerződésben meghatározott – szolgáltatási színvonal biztosítását ellenőrzi.
 

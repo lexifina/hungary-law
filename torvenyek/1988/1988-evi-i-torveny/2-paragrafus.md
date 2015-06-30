@@ -26,4 +26,4 @@ c) magánútjaira
 
 jogszabály eltérő rendelkezéseket állapíthat meg.
 
-(5) A törvénynek az utakra vonatkozó rendelkezéseit az út műtárgyaira és tartozékaira, a közutakra vonatkozó rendelkezéseit – a 8. § (1) bekezdésének h) pontja, a 11. § (2) bekezdése, a 30. § és a 43. § kivételével – a közforgalom elől el nem zárt magánutakra is alkalmazni kell.
+(5) A törvénynek az utakra vonatkozó rendelkezéseit az út műtárgyaira és tartozékaira, a közutakra vonatkozó rendelkezéseit – a 11. § (2) bekezdése, a 30. § és a 43. § kivételével – a közforgalom elől el nem zárt magánutakra is alkalmazni kell.

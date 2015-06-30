@@ -14,7 +14,7 @@ e törvénnyel és a 48. § (3) bekezdés a) pont 5. alpontja alapján kiadott k
 
 (2)–(3)
 
-(4) A közlekedési hatóságnál a közúti közlekedési szolgáltatásokról és a közúti járművek üzemben tartásáról szóló külön jogszabályban meghatározott árufuvarozásra és személygépkocsival, autóbusszal végzett személyszállításra vonatkozó engedélyek kiadásával, módosításával és visszavonásával kapcsolatos ügyekben a kérelem elektronikus úton nem terjeszthető elő.
+(4) A közlekedési hatóságnál a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott árufuvarozásra és személygépkocsival, autóbusszal végzett személyszállításra vonatkozó engedélyek kiadásával, módosításával és visszavonásával kapcsolatos ügyekben a kérelem elektronikus úton nem terjeszthető elő.
 
 (5) A közúti áruszállítást végző jármű megrakásához alkalmazott, a járműre szerelt vagy önjáró emelő- és rakodógépet csak a külön jogszabályban meghatározott képesítéssel rendelkező, 18. életévét betöltött, egészségügyi szempontból alkalmas személy kezelheti.
 
