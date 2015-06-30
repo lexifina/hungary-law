@@ -68,7 +68,7 @@ bb) a sportrendezvények biztonságáról szóló kormányrendeletben meghatáro
 
 bc) építészeti, műszaki akadálymentesítésére
 
-## irányul.
+irányul.
 
 (10)[^34] A jóváhagyást végző szervezet a (8)–(9) bekezdés szerinti jóváhagyás során nem támogathat olyan sportcélú ingatlan-fejlesztési célra irányuló tárgyi eszköz beruházást, felújítást magában foglaló sportfejlesztési programot, amelynek megvalósulása az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) már meglévő, méretében és funkciójában azonos, sportcélú ingatlanok piaci versenyhelyzetét hátrányosan befolyásolná. Nem kell alkalmazni ezt a rendelkezést, ha a támogatás igénybevételére jogosult szervezet igazolja, hogy az érintett településen (járásban, vagy a beruházás, felújítás eredményeként annak társadalmi-gazdasági hatásait illetően nagyobb területi szintű szerveződésben) meglévő sportcélú ingatlan kapacitások a fejlesztési program sikeres megvalósításához minőségben vagy mennyiségben nem elegendők.
 

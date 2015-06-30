@@ -6,7 +6,7 @@ aa) a támogatás tekintetében a támogatási igazolásban meghatározott jogc�
 
 ab)[^38] a kiegészítő sportfejlesztési támogatás esetén – a támogató döntése szerint – a támogatási igazolás szerint támogatásban részesített látvány-csapatsport országos sportági szakszövetsége, az e látvány-csapatsport keretében vagy érdekében a Tao. tv. 22/C. § (1) bekezdés b)–d) pontjában meghatározottak szerint működő sportszervezet (sportiskola), közhasznú alapítvány, vagy a Tao. tv. 22/C. § (1) bekezdés e) pontjában meghatározott sportköztestület támogatása esetén a sportköztestület önálló fizetési számlájára történő átutalással
 
-## bocsátja a támogatás igénybevételére jogosult szervezet részére;
+bocsátja a támogatás igénybevételére jogosult szervezet részére;
 
 b)[^39] utófinanszírozással megvalósuló támogatás esetén a támogatási igazolás kézhezvételét követően
 
@@ -24,7 +24,7 @@ a)[^42] a Tao. tv. 22/C. § (1) bekezdés a) és e) pontjában meghatározott t�
 
 b) a Tao. tv. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a látvány-csapatsport országos sportági szakszövetsége
 
-## az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi számláról bocsátja a támogatást vagy annak az elszámolásban, részelszámolásban elfogadott részét a támogatás igénybevételére jogosult szervezet rendelkezésére.
+az (1) bekezdés b) pontjában meghatározott elkülönített pénzforgalmi számláról bocsátja a támogatást vagy annak az elszámolásban, részelszámolásban elfogadott részét a támogatás igénybevételére jogosult szervezet rendelkezésére.
 
 (2b)[^43] Ha az (1) bekezdés b) pontja szerinti támogatás esetén az (1) bekezdés b) pontjában meghatározott elkülönített fizetési számlán a 11–13. §-ban meghatározottak szerinti elszámolás lezárását követően fel nem használt támogatás áll rendelkezésre, és a támogatott szervezet nem kérelmezte a 14. § (4) bekezdésében meghatározottak szerint a sportfejlesztési program meghosszabbítását, a fel nem használt támogatást a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani.
 

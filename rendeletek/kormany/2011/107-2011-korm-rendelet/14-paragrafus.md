@@ -14,36 +14,39 @@ b) a támogatott szervezetre, ha a részben lehívott támogatás teljes összeg
 
 (4a)[^73] Az (1a) bekezdés a) vagy b) pontjában meghatározott támogatás igénybevételére jogosult szervezet vagy támogatott szervezet a (4) bekezdésben meghatározott igazolás benyújtása nélkül is kérelmezheti a jóváhagyást végző szervezetnél a sportfejlesztési program további meghosszabbítását.
 
+(4b)[^74] A támogatott szervezet – a 15. §-ban foglaltak kivételével, a (4a) bekezdésben foglaltakra is tekintettel – a sportcélú ingatlan-fejlesztést érintő tárgyi eszköz beruházás, felújítás esetén a jóváhagyást végző szervezetnél az adott támogatási időszak vonatkozásában a tárgyévet követő év május 1. napjától kérelmezheti a sportfejlesztési program összesen legfeljebb 2 támogatási időszakkal történő meghosszabbítását.
+
 (5) Ha a jóváhagyást végző szervezet a szakszövetség, a támogatott szervezet a (4) bekezdés szerinti kérelem 1 példányát az ellenőrző szervezet részére is megküldi.
 
-(6)[^74] A támogatott szervezet részéről a (4) bekezdés vagy a (4a) bekezdés szerinti kérelem benyújtása esetén a jóváhagyást végző szervezet 30 napon belül dönt a sportfejlesztési program alapján megvalósuló fejlesztés meghosszabbításáról vagy a kérelem elutasításáról. Ha a jóváhagyást végző szervezet a szakszövetség, döntéséről az ellenőrző szervezetet is egyidejűleg tájékoztatja.
+(6)[^75] A támogatott szervezet részéről a (4) bekezdés vagy a (4a) bekezdés szerinti kérelem benyújtása esetén a jóváhagyást végző szervezet 30 napon belül dönt a sportfejlesztési program alapján megvalósuló fejlesztés meghosszabbításáról vagy a kérelem elutasításáról. Ha a jóváhagyást végző szervezet a szakszövetség, döntéséről az ellenőrző szervezetet is egyidejűleg tájékoztatja.
 
-(6a)[^75] A jóváhagyást végző szervezet döntésében megjelöli a sportfejlesztési program megvalósításának módosított véghatáridejét, ha engedélyezi a sportfejlesztési program meghosszabbítását. A támogatott szervezet köteles a döntésben meghatározott véghatáridőre a meghosszabbított sportfejlesztési programot lezárni és a 11. § (1) bekezdésének megfelelő elszámolást az ellenőrző szervezet részére benyújtani.
+(6a)[^76] A jóváhagyást végző szervezet döntésében megjelöli a sportfejlesztési program megvalósításának módosított véghatáridejét, ha engedélyezi a sportfejlesztési program meghosszabbítását. A támogatott szervezet köteles a döntésben meghatározott véghatáridőre a meghosszabbított sportfejlesztési programot lezárni és a 11. § (1) bekezdésének megfelelő elszámolást az ellenőrző szervezet részére benyújtani.
 
-(7)[^76] A fel nem használt támogatást a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani. Fel nem használt támogatás rendelkezésre állása esetén a támogatott szervezet a (3) bekezdésben meghatározott igazolás és a (4) bekezdés szerinti kérelem előterjesztése helyett a fel nem használt támogatást bármikor befizetheti a a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára.
+(7)[^77] A fel nem használt támogatást a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára kell befizetni, és azt az utánpótlás-nevelés központi költségvetési támogatására kell fordítani. Fel nem használt támogatás rendelkezésre állása esetén a támogatott szervezet a (3) bekezdésben meghatározott igazolás és a (4) bekezdés szerinti kérelem előterjesztése helyett a fel nem használt támogatást bármikor befizetheti a a sportpolitikáért felelős miniszter által vezetett minisztérium fizetési számlájára.
 
-(8)[^77] Amennyiben a fel nem használt támogatás összege a jóváhagyott sportfejlesztési program megvalósítását biztosító támogatási időszak során támogatási jogcímenként a pénzügyileg teljesített támogatási igazolások összértékének 20%-át meghaladja, úgy a 20%-os mértéken felül fel nem használt támogatást – a (9)–(10) bekezdésben meghatározott kivétellel – a támogatott szervezet a jegybanki alapkamattal növelt összegben köteles befizetni az állam részére a (7) bekezdésben meghatározottak szerint.
+(8)[^78] Amennyiben a fel nem használt támogatás összege a jóváhagyott sportfejlesztési program megvalósítását biztosító támogatási időszak során támogatási jogcímenként a pénzügyileg teljesített támogatási igazolások összértékének 20%-át meghaladja, úgy a 20%-os mértéken felül fel nem használt támogatást – a (9)–(10) bekezdésben meghatározott kivétellel – a támogatott szervezet a jegybanki alapkamattal növelt összegben köteles befizetni az állam részére a (7) bekezdésben meghatározottak szerint.
 
-(9)[^78] Ha a támogatott szervezet meghosszabbított sportfejlesztési program megvalósítására válik jogosulttá, a meghosszabbított sportfejlesztési program megvalósítása esetén az adott támogatási időszakban fel nem használt támogatás összegét, továbbá a meghosszabbításra vonatkozó jóváhagyó döntés alapján lehívott támogatást a meghosszabbított sportfejlesztési program célját biztosító feladatokra felhasználhatja.
+(9)[^79] Ha a támogatott szervezet meghosszabbított sportfejlesztési program megvalósítására válik jogosulttá, a meghosszabbított sportfejlesztési program megvalósítása esetén az adott támogatási időszakban fel nem használt támogatás összegét, továbbá a meghosszabbításra vonatkozó jóváhagyó döntés alapján lehívott támogatást a meghosszabbított sportfejlesztési program célját biztosító feladatokra felhasználhatja.
 
-(9a)[^79] A (4) bekezdés szerint meghosszabbított sportfejlesztési program megvalósítása során a 10. § (2) vagy (3a) bekezdése szerinti támogatási jogcímek közötti vagy támogatási jogcímen belüli módosítási kérelem nem terjeszthető elő, kivéve a jelenértékén legalább 10 millió forint értékű, sportcélú ingatlan-fejlesztésre irányuló tárgyi eszköz beruházás, felújítás esetén, legfeljebb 1 alkalommal. A módosítási kérelemről való döntésre a 10. § (2)–(3) bekezdésében foglaltakat kell alkalmazni.
+(9a)[^80] A (4) bekezdés szerint meghosszabbított sportfejlesztési program megvalósítása során a 10. § (2) vagy (3a) bekezdése szerinti támogatási jogcímek közötti vagy támogatási jogcímen belüli módosítási kérelem nem terjeszthető elő, kivéve a jelenértékén legalább 10 millió forint értékű, sportcélú ingatlan-fejlesztésre irányuló tárgyi eszköz beruházás, felújítás esetén, legfeljebb 1 alkalommal. A módosítási kérelemről való döntésre a 10. § (2)–(3) bekezdésében foglaltakat kell alkalmazni.
 
-(10)[^80] Ha a támogatott szervezet több támogatási időszakra szóló sportfejlesztési program megvalósítását végzi, az adott támogatási időszakban fel nem használt támogatás összegét a sportfejlesztési program időszakából a még hátralévő támogatási időszakra vonatkozó, a program célját biztosító feladatokra felhasználhatja.
+(10)[^81] Ha a támogatott szervezet több támogatási időszakra szóló sportfejlesztési program megvalósítását végzi, az adott támogatási időszakban fel nem használt támogatás összegét a sportfejlesztési program időszakából a még hátralévő támogatási időszakra vonatkozó, a program célját biztosító feladatokra felhasználhatja.
 
 (11) A (8) bekezdés szerinti kamat számításakor a támogatás pénzügyi teljesítésének napjától a visszafizetés vagy befizetés napjáig terjedő időszakot kell figyelembe venni.
 
-(12)[^81] Ha a támogatott szervezet országos sportági szakszövetség, akkor a tárgyidőszakra vonatkozó sportfejlesztési program megvalósítása során – több támogatási időszakra szóló sportfejlesztési program megvalósítása esetén annak a támogatási időszakra vonatkozó részének – az adott támogatási időszakban fel nem használt támogatás összegét, de legfeljebb a támogatási időszakra eső támogatás értékének 20%-át kamatozó tartalékként a sportfejlesztési program megvalósulásának időszakát követően is felhasználhatja az e rendeletben meghatározottakkal azonos célra.
+(12)[^82] Ha a támogatott szervezet országos sportági szakszövetség, akkor a tárgyidőszakra vonatkozó sportfejlesztési program megvalósítása során – több támogatási időszakra szóló sportfejlesztési program megvalósítása esetén annak a támogatási időszakra vonatkozó részének – az adott támogatási időszakban fel nem használt támogatás összegét, de legfeljebb a támogatási időszakra eső támogatás értékének 20%-át kamatozó tartalékként a sportfejlesztési program megvalósulásának időszakát követően is felhasználhatja az e rendeletben meghatározottakkal azonos célra.
 
 [^69]: A 14. § (1) bekezdése a 134/2013. (V. 9.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^70]: A 14. § (1a) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (9) bekezdése iktatta be.
 [^71]: A 14. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 567. § c) pontja szerint módosított szöveg.
 [^72]: A 14. § (4) bekezdése a 134/2013. (V. 9.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^73]: A 14. § (4a) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
-[^74]: A 14. § (6) bekezdése az 503/2013. (XII. 29.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
-[^75]: A 14. § (6a) bekezdését a 134/2013. (V. 9.) Korm. rendelet 9. § (4) bekezdése iktatta be.
-[^76]: A 14. § (7) bekezdése az 503/2013. (XII. 29.) Korm. rendelet 2. § (12) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 567. § d) pontja szerint módosított szöveg.
-[^77]: A 14. § (8) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 567. § b) pontja szerint módosított szöveg.
-[^78]: A 14. § (9) bekezdése az 503/2013. (XII. 29.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
-[^79]: A 14. § (9a) bekezdését a 134/2013. (V. 9.) Korm. rendelet 9. § (7) bekezdése iktatta be.
-[^80]: A 14. § (10) bekezdése a 134/2013. (V. 9.) Korm. rendelet 9. § (8) bekezdésével megállapított szöveg.
-[^81]: A 14. § (12) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 8. § l) pontja szerint módosított szöveg.
+[^74]: A 14. § (4b) bekezdését a 170/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^75]: A 14. § (6) bekezdése az 503/2013. (XII. 29.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
+[^76]: A 14. § (6a) bekezdését a 134/2013. (V. 9.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^77]: A 14. § (7) bekezdése az 503/2013. (XII. 29.) Korm. rendelet 2. § (12) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 567. § d) pontja szerint módosított szöveg.
+[^78]: A 14. § (8) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 567. § b) pontja szerint módosított szöveg.
+[^79]: A 14. § (9) bekezdése az 503/2013. (XII. 29.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
+[^80]: A 14. § (9a) bekezdését a 134/2013. (V. 9.) Korm. rendelet 9. § (7) bekezdése iktatta be.
+[^81]: A 14. § (10) bekezdése a 134/2013. (V. 9.) Korm. rendelet 9. § (8) bekezdésével megállapított szöveg.
+[^82]: A 14. § (12) bekezdése a 268/2011. (XII. 16.) Korm. rendelet 8. § l) pontja szerint módosított szöveg.
