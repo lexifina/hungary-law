@@ -14,7 +14,7 @@
 
 | 6 | A felhasználók tűzvédelmi szakvizsgájának ellenőrzése |
 
-5. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^136]
+5. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^139]
 
 A külön jogszabály szerinti fegyveres biztonsági őrség engedélyezésére irányuló eljárásban közreműködő szakhatóság
 
@@ -24,4 +24,4 @@ A külön jogszabály szerinti fegyveres biztonsági őrség engedélyezésére 
 
 | 2. | Nukleáris létesítmények, nukleáris és más radioaktív anyagok, illetve radioaktív hulladékok őrzésének elrendelése | Annak elbírálása, hogy biztosított-e a nukleáris létesítmény, illetve nukleáris és más radioaktív anyag, valamint a radioaktív hulladék átmeneti és végleges tárolója fizikai védelmi rendszerének engedélyezése során megállapított követelményekkel való összhang | Országos Atomenergia Hivatal | – |
 
-[^136]: Az 5. mellékletet a 190/2011. (IX. 19.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^139]: Az 5. mellékletet a 190/2011. (IX. 19.) Korm. rendelet 45. § (2) bekezdése iktatta be.
