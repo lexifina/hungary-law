@@ -18,8 +18,4 @@ g) a (3) bekezdés szerinti, az illetménnyel kapcsolatos megállapításokat, v
 
 h) az e törvény végrehajtására kiadott rendeletben meghatározott további elemeket.
 
-(3) A besoroláskor meg kell állapítani azt az illetményt az illetményelemek szerinti bontásban, amelyre a hivatásos állomány tagja – amennyiben szolgálati beosztása e törvény hatálybalépését követően nem változik –
-
-a) 2015. július 1-je és 2015. december 31-e között jogosult, valamint
-
-b) 2016. január 1-jétől kezdődően jogosult.
+(3) A besoroláskor meg kell állapítani azt az illetményt az illetményelemek szerinti bontásban, amelyre a hivatásos állomány tagja – amennyiben szolgálati beosztása e törvény hatálybalépését követően nem változik – 2015. július 1-je és 2015. december 31-e között jogosult.

@@ -19,13 +19,3 @@
 9. melléklet a 2015. évi XLII. törvényhez
 
 Vezetői besorolási osztályba tartozó szolgálati beosztások besorolása
-
-I. Kiemelt vezetői szolgálati beosztások
-
-## | | A | B | C | 1. | besorolási kategória | a beosztási illetményt meghatározó szorzószám | rendfokozat | 2. | központi szerv vezetője | 26-28 | tábornok | 3. | központi szerv vezetőjének helyettese | 24-26 | tábornok | 4. | területi szerv vezetője | 20-22 | tábornok vagy ezredes
-
-II. Középvezetői szolgálati beosztások
-
-## 5K05342_1 | | A | B | C | D | E | 1. | fizetési fokozat | besorolási kategóriák, valamint a besorolási kategóriák fizetési fokozataihoz rendelt rendfokozatok és a beosztási illetményt meghatározó szorzószámok | 2. | főosztályvezető 2 | főosztályvezető 1 | szakirányító 2 | szakirányító 1 | 3. | 1. | 15 | 16 | 18 | 19 | 4. | alezredes | alezredes | ezredes | ezredes | 5. | 2. | 15,75 | 16,75 | 18,75 | 19,75 | 6. | ezredes | ezredes | ezredes | ezredes | 7. | 3. | 16,5 | 17,5 | 19,5 | 20,5 | 8. | ezredes | ezredes | ezredes | tábornok
-
-III. Beosztott vezetői szolgálati beosztások

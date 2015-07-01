@@ -38,7 +38,7 @@
 
 18. országos főigazgató: a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv főigazgatója;
 
-19. országos parancsnok: az országos rendőr-főkapitányság, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, valamint a polgári nemzetbiztonsági szolgálatok főigazgatói;
+19. országos parancsnok: az országos rendőr-főkapitány, a hivatásos katasztrófavédelmi szerv központi szervének vezetője, a büntetés-végrehajtás országos parancsnoka, a polgári nemzetbiztonsági szolgálatok főigazgatói, valamint az Országgyűlési Őrség parancsnoka;
 
 20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít;
 
