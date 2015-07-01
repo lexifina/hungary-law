@@ -22,7 +22,7 @@
 
 ## 11. Készített példányszám meghatározása
 
-11/A. melléklet a 70/2011. (XII. 30.) BM rendelethez[^59]
+11/A. melléklet a 70/2011. (XII. 30.) BM rendelethez[^64]
 
 ## Felhívás kötelező adattartalma balesettel/betegséggel összefüggő kárigény bejelentésére
 
@@ -48,4 +48,4 @@
 
 11. Készített példányszám meghatározása
 
-[^59]: A 11/A. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés b) pontja iktatta be.
+[^64]: A 11/A. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés b) pontja iktatta be.

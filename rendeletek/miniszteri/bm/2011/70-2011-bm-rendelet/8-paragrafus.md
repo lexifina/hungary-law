@@ -14,7 +14,7 @@ d) tartós címkézéssel.
 
 (2) A kiképzés és szolgálatellátás folyamán alkalmazott védőeszköz a megfelelőségi vizsgálata alapján, a megfelelőséget tanúsító minősítő dokumentum, így különösen tanúsítvány, vizsgálati jegyzőkönyv és gyártói megfelelőségi nyilatkozat megléte esetén, sikeresen lefolytatott rendszeresítési eljárás után vehető használatba.
 
-(3)[^11] A típusvizsgálatot európai uniós irányelv, valamint az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló jogszabályban meghatározott honosított harmonizált szabvány hiányában a védőeszközre vonatkozó tagállami nemzeti szabványban vagy más műszaki jellegű normatív dokumentumban, így különösen műszaki előírásban, irányelvben vagy szabályzatban meghatározott követelményeknek megfelelően kell végrehajtani. A műszaki követelményeket az állományilletékes parancsnok munkakörönként vagy tevékenységenként, az egészséget és a biztonságot fenyegető kockázatok elemzése alapján határozza meg.
+(3)[^12] A típusvizsgálatot európai uniós irányelv, valamint az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló jogszabályban meghatározott honosított harmonizált szabvány hiányában a védőeszközre vonatkozó tagállami nemzeti szabványban vagy más műszaki jellegű normatív dokumentumban, így különösen műszaki előírásban, irányelvben vagy szabályzatban meghatározott követelményeknek megfelelően kell végrehajtani. A műszaki követelményeket az állományilletékes parancsnok munkakörönként vagy tevékenységenként, az egészséget és a biztonságot fenyegető kockázatok elemzése alapján határozza meg.
 
 (4) A felhasználói tájékoztató tartalmazza azokat az adatokat és előírásokat, amelyek az alapvető követelményeknek való megfelelés érdekében előállított védőeszközt jellemzik, valamint a védőeszközről informálja a használóját, viselőjét, ide értve a rendeltetésszerű használatra, a tárolásra, a szállításra, a kezelésre, a raktározásra, a karbantartásra, a tisztításra és fertőtlenítésre, a használatba vételt megelőző és azt követő időszakos felülvizsgálatra vonatkozó mindenkori követelményeket.
 
@@ -38,4 +38,4 @@ h) a védőeszköz rövid kezelési utasítását vagy használati útmutatójá
 
 i) a védőképességre vonatkozó figyelmeztetést.
 
-[^11]: A 8. § (3) bekezdése a 71/2013. (XII. 16.) BM rendelet 10. § e) pontja szerint módosított szöveg.
+[^12]: A 8. § (3) bekezdése a 71/2013. (XII. 16.) BM rendelet 10. § e) pontja szerint módosított szöveg.

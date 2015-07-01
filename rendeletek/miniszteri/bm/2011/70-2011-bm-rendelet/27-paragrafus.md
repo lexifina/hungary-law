@@ -1,4 +1,4 @@
-27. §[^32] (1) Az alapellátó orvos az általa észlelt vagy tudomására jutott foglalkozási megbetegedést, szolgálati kötelmekkel összefüggő betegséget, foglalkozási eredetű heveny vagy idült mérgezést, valamint a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló 27/1996. (VIII. 28.) NM rendeletben [a továbbiakban: 27/1996. (VIII. 28.) NM rendelet] meghatározott fokozott expozíciós esetet a munkavédelmi hatósághoz a 12. melléklet szerinti bejelentő lapon bejelenti.
+27. §[^37] (1) Az alapellátó orvos az általa észlelt vagy tudomására jutott foglalkozási megbetegedést, szolgálati kötelmekkel összefüggő betegséget, foglalkozási eredetű heveny vagy idült mérgezést, valamint a foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló 27/1996. (VIII. 28.) NM rendeletben [a továbbiakban: 27/1996. (VIII. 28.) NM rendelet] meghatározott fokozott expozíciós esetet a munkavédelmi hatósághoz a 12. melléklet szerinti bejelentő lapon bejelenti.
 
 (2) A munkavédelmi hatóság a bejelentést nyilvántartásba veszi és erről a bejelentőt 3 napon belül értesíti. A bejelentés alá eső foglalkozási megbetegedések jegyzékét a 27/1996. (VIII. 28.) NM rendelet 2. számú melléklete tartalmazza.
 
@@ -30,4 +30,4 @@ f) fokozott expozíció, valamint
 
 g) kiváltó ok, munkakörülmény, rendelkezésre álló higiénés adat.
 
-[^32]: A 27. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
+[^37]: A 27. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.

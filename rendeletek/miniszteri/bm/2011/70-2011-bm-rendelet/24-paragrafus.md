@@ -1,7 +1,9 @@
-24. §[^29] (1) A rendvédelmi szervek személyi állománya tagjának balesetének szolgálati kötelmekkel, valamint munkavégzéssel összefüggő jellegének kivizsgálására irányuló, hivatalból lefolytatott eljárás eredményeként meghozott minősítő határozat elleni, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 180. § (5) bekezdése szerinti fellebbezést a rendvédelmi szervet irányító miniszternek címezve, – a (2) bekezdésben meghatározottak kivételével – az állományilletékes parancsnokhoz kell benyújtani.
+24. §[^31] (1) A rendvédelmi szervek személyi állománya tagjának balesetének szolgálati kötelmekkel, valamint munkavégzéssel összefüggő jellegének kivizsgálására irányuló eljárás eredményeként meghozott minősítő határozat elleni, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 257. § (4) bekezdése szerinti fellebbezést (a továbbiakban: fellebbezés) a belügyminiszter vagy a Belügyminisztérium szervezeti és működési szabályzata szerint az e feladat- és hatáskörben kiadmányozásra jogosult állami vezető (a továbbiakban együtt: elbíráló személy) bírálja el.
 
-(2) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat esetében az (1) bekezdésben meghatározott, miniszterhez címzett fellebbezést a főigazgatóhoz kell benyújtani.
+(2) A fellebbezést az elbíráló személynek címezve, – a (3) bekezdésben meghatározottak kivételével – az állományilletékes parancsnokhoz kell benyújtani.
 
-(3) A minősítő határozat ellen felterjesztett fellebbezést 30 napon belül kell elbírálni és gondoskodni kell a döntés közléséről. Az ügyintézési idő az ügy összes iratának a rendvédelmi szervet irányító miniszterhez történő érkezését követő napon kezdődik.
+(3) Az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat esetében az elbíráló személynek címzett fellebbezést a főigazgatóhoz kell benyújtani.
 
-[^29]: A 24. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
+(4) A fellebbezés elbírálására nyitva álló ügyintézési idő az ügy összes iratának az elbíráló személyhez érkezését követő napon kezdődik.
+
+[^31]: A 24. § a 37/2015. (VI. 16.) BM rendelet 50. §-ával megállapított szöveg.
