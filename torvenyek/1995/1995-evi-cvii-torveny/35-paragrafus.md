@@ -8,7 +8,7 @@ b) azon szerveket, amelyekre a 9/A. § (2) bekezdése alapján fennálló ellát
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
-a) a bv. intézetek alapítását (kijelölését) és megszüntetését;
+a)
 
 b) a bv. szervezet szolgálati szabályzatát;
 
