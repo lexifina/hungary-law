@@ -4,7 +4,7 @@
 
 (2) A bíróság a tárgyalást akkor is felfüggesztheti, ha a per eldöntése olyan előzetes kérdés elbírálásától függ, amelynek tárgyában más polgári per vagy a bíróság hatáskörébe tartozó más polgári eljárás már folyamatban van.
 
-(3) Ha a bíróság kötelező közvetítői eljárás igénybevételére kötelezi a feleket, ezzel egyidejűleg a per tárgyalását felfüggeszti. A bíróság a közvetítői eljárásra kötelező és tárgyalást felfüggesztő határozatában felhívja a feleket arra, hogy a közvetítői eljárás igénybevételére kötelező végzés másolatát csatolják a közvetítőhöz intézendő felkéréshez. A bíróság a határozat közlésével egyidejűleg a jogi képviselő nélkül eljáró felet tájékoztatja a kötelező közvetítői eljárás kezdeményezésének külön törvényben meghatározott szabályairól.
+(3) Ha a bíróság kötelező közvetítői eljárás igénybevételére kötelezi a feleket, ezzel egyidejűleg a per tárgyalását felfüggeszti. A bíróság a közvetítői eljárásra kötelező és tárgyalást felfüggesztő határozatában felhívja a feleket arra, hogy a bírósági közvetítés lefolytatása iránti közös kérelmüket nyolc napon belül terjesszék elő a bíróságon vagy a közvetítői eljárás igénybevételére kötelező végzés másolatát csatolják a közvetítőhöz intézendő felkéréshez. A bíróság a határozat közlésével egyidejűleg a jogi képviselő nélkül eljáró felet tájékoztatja a kötelező közvetítői eljárás kezdeményezésének törvényben meghatározott szabályairól.
 
 (4) A kötelező közvetítői eljárás megindítása érdekében felfüggesztett tárgyalást folytatni kell, ha
 

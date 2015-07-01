@@ -1,8 +1,8 @@
-102. § (1) A hirdetményt tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróságok központi internetes honlapján.
+102. § (1) A hirdetményt tizenöt napra ki kell függeszteni a bíróság hirdetőtáblájára és a fél – illetőleg ismeretlen örökösök részére való kézbesítés esetében az örökhagyó – utolsó ismert lakóhelyén a polgármesteri hivatal hirdetőtáblájára, továbbá közzé kell tenni a bíróságok központi internetes honlapján (a továbbiakban: honlap).
 
 (1a) A hirdetmény tartalmazza
 
-a) a kifüggesztés, a bíróságok központi internetes honlapján történő közzététel esetén pedig a közzététel napját,
+a) a kifüggesztés, a honlapon történő közzététel esetén pedig a közzététel napját,
 
 b) az eljáró bíróság megnevezését,
 
