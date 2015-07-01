@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-25-00-00
 | 2013-07-06 | 2013. évi CXXVII. törvény | 1998-25-00-00.19 |
 | 2014-01-01 | 2013. évi CCXLIV. törvény | 1998-25-00-00.20 |
 | 2015-01-01 | 2014. évi CXI. törvény | 1998-25-00-00.21 |
+| 2015-07-01 | 2015. évi LXXVII. törvény | 1998-25-00-00.22 |
