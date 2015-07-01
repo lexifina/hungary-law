@@ -6,7 +6,7 @@ aa) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a
 
 ab) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti,
 
-ac) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) szerinti,
+ac)[^2] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti,
 
 ad) a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) szerinti hivatásos és szerződéses katonai,
 
@@ -25,3 +25,5 @@ b) a köznevelési, felsőoktatási, egészségügyi, karitatív, szociális, cs
 ba) az Mt. szerinti munkaviszonyban állókra, valamint
 
 bb) a 2013. december 31-én a Gyvt. 66/G. § (1) bekezdése szerinti hivatásos nevelőszülői jogviszonyban állókra
+
+[^2]: Az 1. § a) pont ac) alpontja a 157/2015. (VI. 25.) Korm. rendelet 47. §-ával megállapított szöveg.
