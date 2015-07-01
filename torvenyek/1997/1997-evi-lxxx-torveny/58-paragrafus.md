@@ -14,7 +14,7 @@ e) a 23. § szerinti elszámolás feltételeit, valamint a 18. § (3) bekezdés�
 
 f) a 46. § (1) bekezdése szerinti nyilvántartás részletes szabályait;
 
-g) a fegyveres szervek tagjainak a táppénz, gyermekápolási táppénz, baleseti táppénz helyett az egészségügyi szabadság idejére kifizetett illetmény elszámolásának részletes szabályait,
+g) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állománya tagjainak, valamint a Magyar Honvédség és a katonai nemzetbiztonsági szolgálat hivatásos és szerződéses állományú tagjainak a táppénz, gyermekápolási táppénz, baleseti táppénz helyett az egészségügyi szabadság idejére kifizetett illetmény elszámolásának részletes szabályait,
 
 h)
 
