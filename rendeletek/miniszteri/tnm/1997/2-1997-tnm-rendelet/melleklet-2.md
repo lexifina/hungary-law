@@ -30,7 +30,7 @@
 
 ## állományilletékes parancsnok
 
-2. számú melléklet a 2/1997. (II. 26.) TNM rendelethez[^10]
+2. számú melléklet a 2/1997. (II. 26.) TNM rendelethez[^12]
 
 .............................................................
 
@@ -78,4 +78,4 @@ Budapest, ............ év ........................ hó ............ nap
 
 név, rendfokozat
 
-[^10]: A 2. számú melléklet a 18/2007. (VII. 2.) MeHVM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 2. számú melléklet a 18/2007. (VII. 2.) MeHVM rendelet 4. §-ával megállapított szöveg.

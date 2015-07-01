@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-2-20-6F
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2007-07-10 | 1997-2-20-6F.3 | 2/1997. (II. 26.) TNM rendelet |
+| 2015-07-01 | 1997-2-20-6F.4 | 31/2017. (XI. 28.) MvM rendelet |
