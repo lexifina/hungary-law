@@ -6,17 +6,17 @@ a) személyi irat: bármilyen anyagon, alakban és bármilyen eszköz felhaszná
 
 b) munkavállaló személyi anyaga: a munkavállaló öt évnél nem régebbi fényképe, önéletrajza, a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány, a munkavállaló titoktartási nyilatkozata, munkaszerződése és annak módosítása, munkaköri leírása, teljesítményértékelése, a munkaviszonyt megszüntető irat, és a munkáltatói igazolás másolata,
 
-c)[^5] tartalékállományba helyezett:
+c)[^7] tartalékállományba helyezett:
 
 ca) az a közszolgálati tisztviselő, akinek tartalékállományba helyezéséről az őt foglalkoztató közigazgatási szerv intézkedett;
 
-cb) az a hivatásos állományú, akinek tartalékállományba helyezéséről az őt foglalkoztató fegyveres szerv országos parancsnoksága intézkedett;
+cb)[^8] az a hivatásos állományú, akinek tartalékállományba helyezéséről az őt foglalkoztató rendvédelmi szerv országos parancsnoksága intézkedett;
 
 cc) az a hivatásos állományú, akinek tartalékállományba helyezéséről a személyügyi központ a hivatásos állományú hozzá intézett kérelmére intézkedett;
 
-cd)[^6] az a rendelkezési állományú katona, akinek adatait az MH központi személyügyi szervének vezetője a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény (a továbbiakban: Hatv.) 11. § (3) bekezdés a) pontja alapján megküldte,
+cd)[^9] az a rendelkezési állományú katona, akinek adatait az MH központi személyügyi szervének vezetője a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény (a továbbiakban: Hatv.) 11. § (3) bekezdés a) pontja alapján megküldte,
 
-d)[^7] országos parancsnok: a Hszt. 2. § e) pontja szerinti személyek,
+d)[^10] országos parancsnok: a Hszt. 2. § 18. és 19. pontja szerinti személyek, a Nemzeti Adó- és Vámhivatal elnöke, valamint az Országgyűlési Őrség parancsnoka,
 
 e) országos parancsnokság: az országos parancsnok által vezetett szerv,
 
@@ -26,6 +26,7 @@ g) irányító szerv: a kormányhivatal, a központi hivatal, valamint a megyei,
 
 h) irányított szerv: az irányító szerv irányítása alatt álló területi, illetve helyi államigazgatási szerv.
 
-[^5]: A 2. § c) pontja a 237/2012. (VIII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^6]: A 2. § c) pont cd) alpontja a 298/2013. (VII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 654. § c) pontja szerint módosított szöveg.
-[^7]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § c) pontja a 237/2012. (VIII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 2. § c) pont cb) alpontja a 157/2015. (VI. 25.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § c) pont cd) alpontja a 298/2013. (VII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 654. § c) pontja szerint módosított szöveg.
+[^10]: A 2. § d) pontja a 237/2012. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 157/2015. (VI. 25.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.

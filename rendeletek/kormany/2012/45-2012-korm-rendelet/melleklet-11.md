@@ -2,11 +2,11 @@
 
 ## a személyügyi központ részére
 
-## a Hszt. 66/C. § (1) bekezdése szerinti hivatásos állományú TARTINFO nyilvántartásába vételéhez
+## a Hszt. 93. § (1) bekezdése szerinti hivatásos állományú TARTINFO nyilvántartásába vételéhez
 
 ## Alulírott .............................................................................................. azzal a kéréssel fordulok a tartalékállományt kezelő szervhez, hogy a TARTINFO-rendszerbe nyilvántartásba vegyenek, és részemre álláskeresési tevékenységet végezzenek a nyilvántartásba vételtől számított legfeljebb egy évig.
 
-## Tudomásul veszem, hogy a nyilvántartásba vételről a tartalékállományt kezelő szerv tájékoztatja a foglalkoztató fegyveres szerv országos parancsnokát, továbbá, hogy a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja csak a főigazgató hozzájárulásával vehető nyilvántartásba.
+## Tudomásul veszem, hogy a nyilvántartásba vételről a tartalékállományt kezelő szerv tájékoztatja a foglalkoztató rendvédelmi feladatokat ellátó szerv országos parancsnokát, továbbá, hogy a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja csak a főigazgató hozzájárulásával vehető nyilvántartásba.
 
 ## 1. Kérelmező adatai
 
@@ -22,7 +22,7 @@
 
 ## E-mail cím:
 
-## Jelenleg alkalmazó fegyveres szerv neve, címe:*
+## Jelenleg alkalmazó rendvédelmi feladatokat ellátó szerv neve, címe:*
 
 ## Hivatásos szolgálati jogviszony kezdete:
 
@@ -62,6 +62,6 @@
 
 ## A *-gal jelölt adatok kitöltése a nemzetbiztonsági szolgálatok hivatásos állományú tagjának nem kötelező.
 
-11. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^44]
+11. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^54]
 
-[^44]: A 11. melléklet a 237/2012. (VIII. 30.) Korm. rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^54]: A 11. melléklet a 237/2012. (VIII. 30.) Korm. rendelet 7. § (6) bekezdésével megállapított, a 157/2015. (VI. 25.) Korm. rendelet 30. § l) pontja szerint módosított szöveg.

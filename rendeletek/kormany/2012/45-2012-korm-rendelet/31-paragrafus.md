@@ -40,6 +40,6 @@ b) köztisztviselői jogviszonyon közszolgálati jogviszonyt kell érteni,
 
 c) közigazgatási szerven – a 8. § (3) bekezdésének a kivételével – államigazgatási szervet kell érteni.
 
-(5)–(6)[^41]
+(5)–(6)[^51]
 
-[^41]: A 31. § (5)–(6) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 655. §-a hatályon kívül helyezte.
+[^51]: A 31. § (5)–(6) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 655. §-a hatályon kívül helyezte.

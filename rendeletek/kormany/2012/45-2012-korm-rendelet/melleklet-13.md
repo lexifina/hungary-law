@@ -2,11 +2,11 @@
 
 ## a személyügyi központ részére
 
-## a Hszt. 66/C. § (1) és (2) bekezdései szerinti hivatásos állományú TARTINFO nyilvántartásából történő törléséhez
+## a Hszt. 93. § (1) és (2) bekezdése szerinti hivatásos állományú TARTINFO nyilvántartásából történő törléséhez
 
 ## Alulírott ………………………………………. azzal a kéréssel fordulok a tartalékállományt kezelő szervhez, hogy a TARTINFO rendszerből ……………………………..napjával adataimat törölni szíveskedjenek.
 
-## Tudomásul veszem, hogy a törlésről a tartalékállományt kezelő szerv tájékoztatja a foglalkoztató fegyveres szerv országos parancsnokát/a polgári nemzetbiztonsági szolgálatok főigazgatóját.
+## Tudomásul veszem, hogy a törlésről a tartalékállományt kezelő szerv tájékoztatja a foglalkoztató rendvédelmi feladatokat ellátó szerv országos parancsnokát/a polgári nemzetbiztonsági szolgálatok főigazgatóját.
 
 ## Kérelmező adatai:
 
@@ -18,11 +18,11 @@
 
 | Hivatásos szolgálati jogviszonyban áll: | Igen | Nem |
 
-## Jelenleg vagy a hivatásos szolgálati jogviszonya megszűnését megelőzően a kérelmezőt alkalmazó fegyveres szerv neve:
+## Jelenleg vagy a hivatásos szolgálati jogviszonya megszűnését megelőzően a kérelmezőt alkalmazó rendvédelmi feladatokat ellátó szerv neve:
 
 ## Dátum:
 
-13. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^45]
+13. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^56]
 
 REGISZTRÁCIÓS BEJELENTŐ LAP
 
@@ -90,4 +90,4 @@ A TARTINFO rendszerhez történő hozzáféréshez
 
 | A vezető aláírása: |  |  |  |  |  |
 
-[^45]: A 13. mellékletet a 237/2012. (VIII. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 654. § j) pontja szerint módosított szöveg.
+[^56]: A 13. mellékletet a 237/2012. (VIII. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 654. § j) pontja szerint módosított szöveg.

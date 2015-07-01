@@ -40,23 +40,25 @@ g) közszolgálati ügykezelőre
 
 ## nem terjed ki.
 
-(6) A 2. § c) pont, a 17–18. §-ok, valamint a 20–22. §-ok hatálya
+(6)[^2] A 2. § c) pontja, a 17–18. §, valamint a 20–22. § hatálya
 
-a) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében meghatározott fegyveres szervekre (a továbbiakban: fegyveres szervek), és
+a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében meghatározott rendvédelmi feladatokat ellátó szervekre (a továbbiakban együtt: rendvédelmi szervek), és
 
-b) a fegyveres szerveknél foglalkoztatott szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony) álló vagy a Hszt. 66/C. § (2) bekezdése alapján hivatásos szolgálati jogviszonyban állt hivatásos állomány tagjára (a továbbiakban együtt: hivatásos állományúra)
+b) a rendvédelmi szerveknél foglalkoztatott szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony) álló vagy a Hszt. 93. § (2) bekezdése alapján hivatásos szolgálati jogviszonyban állt hivatásos állomány tagjára (a továbbiakban együtt: hivatásos állományúra)
 
 ## is kiterjed.
 
-(7) A 2. § d)–e) pontjai, a 24–26. §-ok, és a 9–12. mellékletek hatálya a fegyveres szervekre és a hivatásos állományúakra terjed ki.
+(7)[^3] A 2. § d)–e) pontjai, a 24–26. §-ok, és a 9–12. mellékletek hatálya a rendvédelmi szervekre és a hivatásos állományúakra terjed ki.
 
-(8)[^2] A 2. § c) pont, a 17–18. §, a 20. §, a 21. § (1)–(3) és (6) bekezdés, valamint a 22. § hatálya a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés r) és s) pontja alapján a Magyar Honvédség (a továbbiakban: MH) rendelkezési állományába helyezett katonára (a továbbiakban együtt: rendelkezési állományú katona) is kiterjed.
+(8)[^4] A 2. § c) pont, a 17–18. §, a 20. §, a 21. § (1)–(3) és (6) bekezdés, valamint a 22. § hatálya a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés r) és s) pontja alapján a Magyar Honvédség (a továbbiakban: MH) rendelkezési állományába helyezett katonára (a továbbiakban együtt: rendelkezési állományú katona) is kiterjed.
 
-(9)[^3] A 26/A–26/C. §, valamint a 13. melléklet hatálya az MH-ra és a rendelkezési állományú katonára terjed ki.
+(9)[^5] A 26/A–26/C. §, valamint a 13. melléklet hatálya az MH-ra és a rendelkezési állományú katonára terjed ki.
 
-(10)[^4] A 26/D. § hatálya a Kttv. 41/A. § (1) bekezdésében meghatározott rendelkezési állományú katonára terjed ki.
+(10)[^6] A 26/D. § hatálya a Kttv. 41/A. § (1) bekezdésében meghatározott rendelkezési állományú katonára terjed ki.
 
 [^1]: Az 1. § (1) bekezdése a 237/2012. (VIII. 30.) Korm. rendelet 1. § (1) bekezdésvel megállapított szöveg.
-[^2]: Az 1. § (8) bekezdését a 237/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 298/2013. (VII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 654. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (9) bekezdését a 237/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 654. § b) pontja szerint módosított szöveg.
-[^4]: Az 1. § (10) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 649. §-a iktatta be.
+[^2]: Az 1. § (6) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^3]: Az 1. § (7) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (8) bekezdését a 237/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 298/2013. (VII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 654. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (9) bekezdését a 237/2012. (VIII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 654. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. § (10) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 649. §-a iktatta be.
