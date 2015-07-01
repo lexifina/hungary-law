@@ -2,13 +2,13 @@
 
 11. § (1) A minősítés – a teljesítményértékelés eredményére figyelemmel – az alábbi elemekre kiterjedő szöveges értékelést tartalmazza:
 
-a) a minősített képességeinek és szolgálatteljesítéssel összefüggő személyes tulajdonságainak értékelését a teljesítményértékelés ajánlott elemeként meghatározott kompetenciák értékelésének (a továbbiakban: kompetencia-megfelelés) és a kompetencia alapú munkamagatartás értékelési tényezők eredményeire figyelemmel;
+a)[^21] a minősített képességeinek és a szolgálatteljesítéssel összefüggő személyes tulajdonságainak értékelését a teljesítményértékelés ajánlott elemeként meghatározott kompetenciák értékelésének (a továbbiakban: kompetencia-megfelelés) és a kompetencia alapú munkamagatartás értékelési tényezők eredményeire figyelemmel;
 
 b) a minősített beosztás ellátására való alkalmasságának értékelését a kompetencia-megfelelés és a kompetencia alapú munkamagatartás értékelési tényezők, továbbá a munkaköri egyéni teljesítménykövetelmények és a stratégiai egyéni teljesítménykövetelmények eredményeire figyelemmel;
 
-c) a minősített fejleszthetőségre és előmenetelére vonatkozó következtetéseket, elsősorban a fejlesztési célok eredményére, továbbá a teljesítményértékelés összeredményére tekintettel.
+c)[^22] a minősített fejleszthetőségére és előmenetelére vonatkozó következtetéseket, elsősorban a fejlesztési célok eredményére, továbbá a teljesítményértékelés összeredményére tekintettel.
 
-(2) A megállapítások alapján az értékelő vezető a Hszt. 82. § (5) bekezdésében foglaltak kezdeményezésén túl az állományilletékes parancsnok felé az alábbi javaslatokat teheti:
+(2)[^23] A megállapítások alapján az értékelő vezető a Hszt. 112. § (3) bekezdésében foglaltak kezdeményezésén túl az állományilletékes parancsnok felé az alábbi javaslatokat teheti:
 
 a) a minősített jelenlegi beosztására alkalmas javaslat;
 
@@ -19,3 +19,7 @@ c) a minősített képzésére vonatkozó javaslat;
 d) a teljesítményértékelés alapján a minősített illetményének eltérítésére vonatkozó javaslat.
 
 (3) A minősítő lapot két példányban kell elkészíteni, amelynek egy példányát a minősítettnek át kell adni.
+
+[^21]: A 11. § (1) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^22]: A 11. § (1) bekezdés c) pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^23]: A 11. § (2) bekezdés nyitó szövegrésze a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 13. pontja szerint módosított szöveg.

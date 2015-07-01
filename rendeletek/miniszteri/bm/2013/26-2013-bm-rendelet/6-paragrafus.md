@@ -6,4 +6,6 @@
 
 (4) Zászlósi és tiszthelyettesi rendfokozati állománycsoportba tartozó értékelt személyt a hivatásos állománynak legalább a II. besorolási osztály IV. beosztási kategóriájába tartozó, az értékelt személy munkáját közvetlenül irányító tagja értékelheti.
 
-(5) Ha az értékelt személy munkáját nem a fegyveres szerv hivatásos állományának tagja irányítja, az értékelést az értékelt személy munkáját közvetlenül irányító személy végezheti.
+(5)[^17] Ha az értékelt személy munkáját nem a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja irányítja, az értékelést az értékelt személy munkáját közvetlenül irányító személy végezheti.
+
+[^17]: A 6. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.

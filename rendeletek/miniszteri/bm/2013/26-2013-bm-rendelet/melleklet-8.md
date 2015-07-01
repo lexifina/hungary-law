@@ -1,26 +1,26 @@
-8. melléklet a 26/2013. (VI. 26.) BM rendelethez
+8. melléklet a 26/2013. (VI. 26.) BM rendelethez[^39]
 
 ## Szervezeti működés teljesítménymutatói
 
-I. A fegyveres szervek vezetői tevékenységét értékelő teljesítménymutatók
+I. A rendvédelmi feladatokat ellátó szervek vezetői tevékenységét értékelő teljesítménymutatók
 
 1. a vezetői munka szervezettsége, szervezeti irányítási rendszer (törzsmunka) működésének színvonala
 
 2. a vezetői ellenőrzés szervezettsége és színvonala
 
-3. a vezetői értékelő, elemző és feladat meghatározó munka színvonala
+3. a vezetői értékelő, elemző és feladat-meghatározó munka színvonala
 
 4. a fegyelmi helyzet általános értékelése
 
 5. az irányított szerv és a társszervek, együttműködő szervek, szervezetek, települési önkormányzatok kapcsolatának színvonala, eredményessége
 
-II. A fegyveres szervek funkcionális területeit értékelő teljesítménymutatók
+II. rendvédelmi feladatokat ellátó szervek funkcionális területeit értékelő teljesítménymutatók
 
 1. humánerőforrás-gazdálkodás
 
 1.1. a szervezet fluktuációs helyzetének általános értékelése
 
-1.2. az állomány képesítési követelményeknek megfelelése
+1.2. az állomány képesítési követelményeknek való megfelelése
 
 1.3. a képzési terv végrehajtásának szintje
 
@@ -38,7 +38,7 @@ II. A fegyveres szervek funkcionális területeit értékelő teljesítménymuta
 
 2.4. információbiztonság állapota
 
-2.5. kommunikációs tevékenység színvonala eredményessége
+2.5. kommunikációs tevékenység színvonala, eredményessége
 
 2.6. ügyeleti szolgálat szervezettsége, működés szakszerűsége, eredményessége
 
@@ -58,7 +58,7 @@ II. A fegyveres szervek funkcionális területeit értékelő teljesítménymuta
 
 3.6. informatikai szolgáltatás biztonsága és színvonala
 
-III. Az általános rendőrségi feladatók ellátására létrehozott szerv szakmai tevékenységét értékelő teljesítménymutatók
+III. Az általános rendőrségi feladatok ellátására létrehozott szerv szakmai tevékenységét értékelő teljesítménymutatók
 
 1. közrendvédelmi terület
 
@@ -66,7 +66,7 @@ III. Az általános rendőrségi feladatók ellátására létrehozott szerv sza
 
 1.2. intézkedések jogszerűsége és szakszerűsége
 
-1.3. járőr szolgálat hatékonysága, reagáló képessége
+1.3. járőrszolgálat hatékonysága, reagáló képessége
 
 1.4. szolgálatszervezés színvonala
 
@@ -184,7 +184,7 @@ IV. A Terrorelhárítási Központ szakmai tevékenységét értékelő teljesí
 
 5. ügyeleti és objektumvédelmi terület
 
-5.1. a szolgálati helyen végrehajtott személy és gépjármű beléptetések szakszerűsége, biztonsági szintje
+5.1. a szolgálati helyen végrehajtott személy- és gépjármű-beléptetések szakszerűsége, biztonsági szintje
 
 5.2. a Terrorelhárítási Központ műveleti egységeinek az ügyelet által történő riasztása hatékonysága, szakszerűsége
 
@@ -204,7 +204,7 @@ V. A Nemzeti Védelmi Szolgálat szakmai tevékenységét értékelő teljesítm
 
 7. a titkos információgyűjtések szakszerűsége és szinvonala
 
-VI. A büntetés-végrehajtás szervezet szakmai tevékenységét értékelő teljesítménymutatók
+VI. A büntetés-végrehajtási szervezet szakmai tevékenységét értékelő teljesítménymutatók
 
 1. biztonság, fogvatartás
 
@@ -246,7 +246,7 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 1.1. a tűzoltás, műszaki mentés elméleti felkészültségének szintje
 
-1.2. a szerelési készség, tűzoltó technika kezelői tevékenység gyakorlati végrehajtásának szintje
+1.2. a szerelési készség, tűzoltótechnika-kezelői tevékenység gyakorlati végrehajtásának szintje
 
 1.3. ellenőrző gyakorlatok értékelése
 
@@ -272,8 +272,10 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5. hatósági terület
 
-5.1. hatósági engedélyezési eljárások, szakhatósági állásfoglalásokat jogszerűsége, szakszerűsége
+5.1. hatósági engedélyezési eljárások, szakhatósági állásfoglalások jogszerűsége, szakszerűsége
 
 5.2. tervezett és végrehajtott ellenőrzések szervezettsége, színvonala
 
 5.3. ideiglenes intézkedések, felhívások, kötelezések, bírságok szakszerűsége, jogszerűsége
+
+[^39]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja szerint módosított szöveg.

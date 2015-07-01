@@ -2,14 +2,14 @@
 
 ## A SZERVEZETI TELJESÍTMÉNYÉRTÉKELÉS RENDJE
 
-12. § (1) A szervezeti teljesítményértékelés a fegyveres szerv által működtetett értékelő rendszer, amely elősegíti a fegyveres szerv professzionális, jogszerű és szakszerű működését, javítja tevékenysége hatékonyságát és eredményességét, támogatja a vezetői döntés-előkészítést és döntéshozatalt.
+12. §[^24] (1) A szervezeti teljesítményértékelés a rendvédelmi feladatokat ellátó szerv által működtetett értékelő rendszer, amely elősegíti a rendvédelmi feladatokat ellátó szerv professzionális, jogszerű és szakszerű működését, javítja tevékenysége hatékonyságát és eredményességét, támogatja a vezetői döntés-előkészítést és döntéshozatalt.
 
-(2) A fegyveres szerv és annak területi, valamint helyi szerve éves teljesítményét
+(2) A rendvédelmi feladatokat ellátó szerv és annak területi, valamint helyi szerve éves teljesítményét
 
 a) a szervezeti teljesítménycélok megvalósulásának értékelése,
 
 b) a szervezeti működés teljesítménymutatóinak értékelése, továbbá
 
-c) a szakmai teljesítménykövetelmény-minimumok teljesülésének mérése [a továbbiakban az a)–c) pont együtt: értékelési elemek]
+c) a szakmai teljesítménykövetelmény-minimumok teljesülésének mérése [az a)–c) pontban meghatározottak a továbbiakban együtt: értékelési elemek]
 
-alapján kell megállapítani.
+[^24]: A 12. § a 37/2015. (VI. 16.) BM rendelet 74. §-ával megállapított szöveg.
