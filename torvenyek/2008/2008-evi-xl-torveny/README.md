@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2015-04-16 | 2015. évi V. törvény | 2008-40-00-00.50 |
 | 2015-05-09 | 2015. évi LIII. törvény | 2008-40-00-00.51 |
 | 2015-06-07 | 2015. évi LVII. törvény | 2008-40-00-00.52 |
+| 2015-07-01 | 2015. évi LIII. törvény | 2008-40-00-00.53 |

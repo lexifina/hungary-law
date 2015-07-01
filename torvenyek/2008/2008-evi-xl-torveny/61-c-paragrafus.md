@@ -1,4 +1,4 @@
-61/C. § (1) A Hivatal a 61/F. § szerinti ellenőrzési eljárás és a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5., 9. és 15. cikke szerinti kötelezettség teljesítését.
+61/C. § (1) A Hivatal a 61/F. § szerinti ellenőrzési eljárás és a 61/G–61/I. § szerinti nagykereskedelmi piacfelügyeleti eljárás keretében ellenőrzi az 1227/2011/EU európai parlamenti és tanácsi rendelet 3–5., 8–9. és 15. cikke szerinti kötelezettség teljesítését.
 
 (2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
