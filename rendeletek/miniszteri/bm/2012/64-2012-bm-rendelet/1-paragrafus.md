@@ -4,7 +4,7 @@
 
 ## 1. § E rendelet alkalmazásában
 
-a) állományilletékes parancsnok: a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) szerinti állományilletékes parancsnok, a más szervhez vezényeltek esetében a munkáltatói jogkört gyakorló vezető;
+a)[^1] állományilletékes parancsnok: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti állományilletékes parancsnok, a más szervhez vezényeltek esetében a munkáltatói jogkört gyakorló vezető;
 
 b) igényjogosult: az Országgyűlési Őrség hivatásos állományának egyenruha-ellátásra jogosult tagja;
 
@@ -18,7 +18,7 @@ db) a munka- és védőruházat, valamint a védőeszközök, védőfelszerelés
 
 dc) a ruházati egységfelszerelési anyagok,
 
-dd)[^1] a szolgálati azonosító jelvény, a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a kitüntetések és tartozékai, valamint
+dd)[^2] a szolgálati azonosító jelvény, a hivatásos állománykategóriát kifejező jelvény, a karjelvény, a testületi jelvény, a kitüntetések és tartozékai, valamint
 
 de) a javító és karbantartó anyagok;
 
@@ -30,4 +30,5 @@ eb) vegyes ruhás alapellátási norma, amely egyenruházati termékeket és fel
 
 ec) polgári ruhás alapellátási norma, amely a hivatásos állomány esetében szolgálati ruházatot tartalmaz, az e normába besoroltak alapvetően polgári ruházatban teljesítenek szolgálatot.
 
-[^1]: Az 1. § d) pont dd) alpontja a 49/2013. (VIII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
+[^1]: Az 1. § a) pontja a 36/2015. (VI. 16.) BM rendelet 12. §-ával megállapított szöveg.
+[^2]: Az 1. § d) pont dd) alpontja a 49/2013. (VIII. 27.) BM rendelet 2. §-a szerint módosított szöveg.

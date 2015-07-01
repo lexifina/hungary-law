@@ -4,7 +4,7 @@
 
 a) a szolgálati viszonya megszűnésekor,
 
-b) más fegyveres szervhez történő áthelyezésekor, vagy 3 hónapot meghaladó vezénylésekor,
+b)[^13] más rendvédelmi feladatokat ellátó szervhez történő áthelyezésekor, vagy 3 hónapot meghaladó vezénylésekor,
 
 c) 3 hónapnál hosszabb ideig tartó illetmény nélküli szabadság megkezdésekor, valamint
 
@@ -17,3 +17,5 @@ d) olyan munkakörbe kerülésekor, amelyben az ellátás már nem illeti meg,
 (3) A hivatásos állományból nyugállományba helyezett személy a használatban lévő, le nem járt viselési idejű munkaruházatot térítésmentesen megtarthatja.
 
 (4) Az elhalálozott használatában volt egyéni védőfelszerelést be kell vonni. Hiánya esetén jegyzőkönyvet kell felvenni, amely kimondja az Országgyűlési Őrség kárviselését. Az elhalálozott munkaruházatát térítésmentesen a közeli hozzátartozó tulajdonába kell adni, ha közeli hozzátartozó nincs, akkor a munkaruházatot be kell vonni.
+
+[^13]: A 37. § (1) bekezdés b) pontja a 36/2015. (VI. 16.) BM rendelet 18. § b) pontja szerint módosított szöveg.

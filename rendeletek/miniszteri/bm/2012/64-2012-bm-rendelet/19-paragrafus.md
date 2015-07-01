@@ -12,4 +12,6 @@
 
 (6) Az alapfelszerelés kiadásának terhelési időpontja az igényjogosultság kezdeti hónapjának első napja.
 
-(7) Teljes alapfelszerelésre a hivatásos állomány szolgálati viszonyt újonnan létesítő tagja, valamint a más fegyveres szervtől áthelyezett tagja jogosult.
+(7)[^6] Teljes alapfelszerelésre a hivatásos állomány szolgálati viszonyt újonnan létesítő tagja, valamint a más rendvédelmi feladatokat ellátó szervtől áthelyezett tagja jogosult.
+
+[^6]: A 19. § (7) bekezdése a 36/2015. (VI. 16.) BM rendelet 18. § b) pontja szerint módosított szöveg.
