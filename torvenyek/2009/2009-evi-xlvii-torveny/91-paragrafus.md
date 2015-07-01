@@ -4,7 +4,7 @@ a) az adatkezelés jogszerűségének ellenőrzése céljából a bűnügyi nyil
 
 b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából a legfőbb ügyész,
 
-c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
+c) a NAIH,
 
 d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
 

@@ -1,5 +1,3 @@
-## Az adatigénylés alapján, valamint a közvetlen hozzáférés útján történő adattovábbítás biztosításának általános követelményei
-
 70. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerből
 
 a) az ott meghatározott adatok kezelésére feljogosított adatkezelő részére adatigénylésre az adatokat – törvény rendelkezése alapján – akkor továbbíthatja, ha az adatigénylő pontosan megjelöli az adatátvétel célját, továbbá azt az adatkört és azt a törvényi rendelkezést, amely tekintetében és amely rendelkezés szerint az igényelt adatok kezelésére törvény feljogosította, valamint

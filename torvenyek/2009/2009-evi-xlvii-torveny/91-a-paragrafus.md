@@ -14,6 +14,6 @@ f) az automatikus találati adathozzáféréssel érintett adatokat,
 
 g) az automatikus találati adathozzáférés eredményét.
 
-(2) Az (1) bekezdésben meghatározott adatokat a szakértői nyilvántartó szerv a keletkezésüktől számított két évig kezeli, és azokat a Nemzeti Adatvédelmi és Információszabadság Hatósággal – kérésére – haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított négy héten belül közli.
+(2) Az (1) bekezdésben meghatározott adatokat a szakértői nyilvántartó szerv a keletkezésüktől számított két évig kezeli, és azokat a NAIH-hal – kérésére – haladéktalanul, de legkésőbb a kérelem kézhezvételétől számított négy héten belül közli.
 
-(3) A Nemzeti Adatvédelmi és Információszabadság Hatóság az (1) bekezdésben meghatározott nyilvántartással összefüggő ellenőrzése eredményét 18 hónapig megőrzi, ezen időtartam lejártát követően haladéktalanul törli.
+(3) A NAIH az (1) bekezdésben meghatározott nyilvántartással összefüggő ellenőrzése eredményét 18 hónapig megőrzi, ezen időtartam lejártát követően haladéktalanul törli.

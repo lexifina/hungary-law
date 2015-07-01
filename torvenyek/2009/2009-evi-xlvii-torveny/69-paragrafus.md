@@ -1,4 +1,4 @@
-## Az adatigénylés alapján történő adattovábbítás követelményei
+## Az adatigénylés alapján, valamint a közvetlen hozzáféréssel történő adattovábbítás általános követelményei
 
 69. § (1) A bűnügyi nyilvántartó szerv adatigénylés alapján kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot a bűnügyi nyilvántartási rendszerből, amely adatigénylő tekintetében törvény
 
@@ -25,3 +25,11 @@ ae) az állampolgárságát,
 af) a lakcímét, továbbá annak megváltozása esetén előző lakcímét, valamint
 
 b) az adatigénylő pontos megnevezését és címét.
+
+(3) Az adatigénylők kérelmüket elektronikus úton, egyedi informatikai alkalmazás igénybevételével (a továbbiakban: elektronikus úton előterjesztett adatigénylés) is előterjeszthetik.
+
+(4) Elektronikus úton előterjesztett adatigénylés alapján csak az a személy vehet át adatokat, akinek az adatigénylő erre felhatalmazást adott.
+
+(5) A (4) bekezdésben meghatározott felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról az adatigénylő – a felhatalmazás kiadását, változását követően haladéktalanul – értesíti a bűnügyi nyilvántartó szervet.
+
+(6) Az elektronikus úton előterjesztett adatigénylésre az adatokat a bűnügyi nyilvántartó szerv elektronikus úton továbbítja.
