@@ -36,7 +36,7 @@
 
 17. Szarvasmarha Extenzifikációs Többletjogosultság: az olyan ügyfél referencia anyatehén és hízottbika állománya után megállapított vagyoni értékű jog, akinek vagy amelynek a 2010. évi egységes kérelem alapján jóváhagyott egységes területalapú támogatás (SAPS) alapjául szolgáló területére vetített, a referencia anyatehén, hízottbika és anyajuh állomány alapján számított állatsűrűsége hektáronként nem haladja meg az 1,4 – az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló rendelet 2. § b) pontja szerinti – állategységet (a továbbiakban: ÁE);
 
-18.[^4] Szakmai továbbképzés: a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (NAKVI) által indított, a 3. mellékletben meghatározott és tartalmilag részletezett, a Magyar Juh- és Kecsketenyésztő Szövetség által koordinált, a 4. mellékletben tartalmilag részletezett juhász gazdálkodóképzés, valamint egyéb, az 1. mellékletben szereplő akkreditált képzés;
+18.[^4] Szakmai továbbképzés: a Herman Ottó Intézet által indított, a 3. mellékletben meghatározott és tartalmilag részletezett, a Magyar Juh- és Kecsketenyésztő Szövetség által koordinált, a 4. mellékletben tartalmilag részletezett juhász gazdálkodóképzés, valamint egyéb, az 1. mellékletben szereplő akkreditált képzés;
 
 19. Szerkezetátalakítási program: a 73/2009/EK tanácsi rendelet 68. cikk (1) bekezdés c) pontja szerinti különleges támogatás mellé rendelt program, amelynek célja, hogy: a húsmarha és juh ágazatokban tevékenykedő gazdálkodók és alkalmazottaik ne szoruljanak ki a helyi gazdasági hálózatokból és az érintett területeken ne csökkenjen a gazdasági aktivitás szintje; az érintett gazdálkodók szabad piaci döntésén alapuló mezőgazdasági vagy vidékfejlesztési tevékenység keretében a korábbi állattartáshoz hasonló értéket képviselő gazdasági tevékenység folytatódjon, ezen térségek foglalkoztatási helyzete tovább ne romoljon; valamint a húsmarha- és juhtenyésztő területeket ne vonják ki a hasznosításból és jó ökológiai állapotban maradjanak;
 
@@ -51,7 +51,7 @@
 [^1]: Az 1. § 5. pontja a 18/2014. (X. 29.) FM rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 6. pontja a 18/2014. (X. 29.) FM rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 16. pontja a 48/2012. (V. 16.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § 18. pontja a 18/2014. (X. 29.) FM rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 18. pontja a 18/2014. (X. 29.) FM rendelet 27. § (2) bekezdésével megállapított, a 36/2015. (VI. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § 20. pontja a 130/2013. (XII. 21.) VM rendelet 31. §-ával megállapított szöveg.
 [^6]: Az 1. § 22. pontját a 8/2013. (II. 18.) VM rendelet 7. § (2) bekezdése iktatta be.
 [^7]: Az 1. § 23. pontját a 8/2013. (II. 18.) VM rendelet 7. § (2) bekezdése iktatta be.
