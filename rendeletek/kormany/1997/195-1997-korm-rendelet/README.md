@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-195-20-
 | 2014-01-01 | 1997-195-20-22.46 | 539/2013. (XII. 30.) Korm. rendelet |
 | 2015-01-01 | 1997-195-20-22.47 | 355/2014. (XII. 29.) Korm. rendelet |
 | 2015-04-01 | 1997-195-20-22.48 | 334/2010. (XII. 27.) Korm. rendelet |
+| 2015-07-01 | 1997-195-20-22.49 | 202/1999. (XII. 26.) Korm. rendelet |
