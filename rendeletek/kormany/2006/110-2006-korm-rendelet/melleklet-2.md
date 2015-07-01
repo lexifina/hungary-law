@@ -30,7 +30,7 @@
 
 ## 2 Az egyedi viszontgarancia-vállalás esetén nem kell kitölteni!
 
-2. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^137]
+2. számú melléklet a 110/2006. (V. 5.) Korm. rendelethez[^138]
 
 ...... számú Állami Kezességi Szerződés
 
@@ -94,4 +94,4 @@ Budapest, [dátum] ..............................................
 
 Jogosult cégszerű aláírása Kezes
 
-[^137]: A 2. számú melléklet a 68/2010. (III. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § h) pontja szerint módosított szöveg.
+[^138]: A 2. számú melléklet a 68/2010. (III. 19.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 322. § h) pontja szerint módosított szöveg.

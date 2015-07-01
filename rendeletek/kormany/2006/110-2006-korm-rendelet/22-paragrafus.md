@@ -1,4 +1,4 @@
-22. §[^133] (1) A 3. § a 68/2010. (III. 19.) Korm. rendelet 2. §-ával megállapított (2) bekezdését a 68/2010. (III. 19.) Korm. rendelet hatálybalépése után benyújtandó előterjesztések alapján hozott döntések esetében kell alkalmazni.
+22. §[^134] (1) A 3. § a 68/2010. (III. 19.) Korm. rendelet 2. §-ával megállapított (2) bekezdését a 68/2010. (III. 19.) Korm. rendelet hatálybalépése után benyújtandó előterjesztések alapján hozott döntések esetében kell alkalmazni.
 
 (2) A 8. § a 68/2010. (III. 19.) Korm. rendelet 5. §-ával megállapított (5) bekezdését a 68/2010. (III. 19.) Korm. rendelet hatálybalépése után esedékes tájékoztatásoknál kell alkalmazni.
 
@@ -8,8 +8,8 @@
 
 (5) A 68/2010. (III. 19.) Korm. rendelet 3. mellékletével megállapított 10. mellékletet a 68/2010. (III. 19.) Korm. rendelet hatálybalépése után a 2010. június 30-át követően benyújtott kérelmek esetében kell alkalmazni.
 
-(6)[^134] E rendeletnek az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló, 110/2006. (V. 5.) Korm. rendelet módosításáról szóló 339/2012. (XII. 4.) Korm. rendelettel (a továbbiakban: Ákr.2) megállapított 20/B. §-át az Ákr.2 hatálybalépéséig[^135] már megkötött gyűjtőszámlahitelkeret-szerződések vonatkozásában is alkalmazni kell azzal, hogy a pénzügyi intézmény a kezességvállalási díj első részletét az államháztartásért felelős miniszter felé történő igénybejelentéstől számított 8 munkanapon belül köteles megfizetni.
+(6)[^135] E rendeletnek az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló, 110/2006. (V. 5.) Korm. rendelet módosításáról szóló 339/2012. (XII. 4.) Korm. rendelettel (a továbbiakban: Ákr.2) megállapított 20/B. §-át az Ákr.2 hatálybalépéséig[^136] már megkötött gyűjtőszámlahitelkeret-szerződések vonatkozásában is alkalmazni kell azzal, hogy a pénzügyi intézmény a kezességvállalási díj első részletét az államháztartásért felelős miniszter felé történő igénybejelentéstől számított 8 munkanapon belül köteles megfizetni.
 
-[^133]: A 22. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 318. pontja hatályon kívül helyezte, újonnan a 68/2010. (III. 19.) Korm. rendelet 12. §-a iktatta be.
-[^134]: A 22. § (6) bekezdését a 339/2012. (XII. 4.) Korm. rendelet 2. §-a iktatta be.
-[^135]: A hatálybalépés időpontja 2013. január 3.
+[^134]: A 22. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 318. pontja hatályon kívül helyezte, újonnan a 68/2010. (III. 19.) Korm. rendelet 12. §-a iktatta be.
+[^135]: A 22. § (6) bekezdését a 339/2012. (XII. 4.) Korm. rendelet 2. §-a iktatta be.
+[^136]: A hatálybalépés időpontja 2013. január 3.
