@@ -1,19 +1,21 @@
-133. § (1) Az ügyfélkapu megszűnik
+133. §[^76] (1) Az ügyfélkapu megszűnik
 
-a) a felhasználó kérelmére,
+a) a felhasználó a regisztrációs szervnél személyesen vagy írásban előterjesztett kérelmére;
 
-b) amennyiben az ügyfélkapu tárhelye üres, a felhasználó haláláról vagy elérhetetlenné válásáról való tudomásszerzést követően haladéktalanul,
+b) a szolgáltató által biztosított elérési felületen a felhasználó által kezdeményezett megszüntetési eljárás alapján;
 
-c) amennyiben az ügyfélkapu tárhelye nem üres:
+c) az ügyfélkapu-regisztrációs adatbázis adatkezelőjéhez a felhasználó által postai úton benyújtott megszüntetési kérelemre, valamint
 
-ca) a felhasználó haláláról való tudomásszerzést követő 4 hónap elteltével, amennyiben örökösök nem jelentkeztek, vagy nem kérték a megszüntetés elhalasztását a hagyatéki eljárást érdemben befejező végzés jogerőre emelkedéséig,
+d) a felhasználó halála esetén a 135. § (1) és (2) bekezdése szerint.
 
-cb) ha a felhasználó a rendelkezésre álló adatok alapján személyét illetően nem azonosítható, illetve ismeretlen helyen tartózkodik, ezen tény nyilvántartásba vételét követő 1 év leteltével.
+(2) Az (1) bekezdés a) és b) pontja szerint kezdeményezett ügyfélkapu megszüntetést a regisztrációs szerv, illetve az ügyfél-regisztrációs adatbázis adatkezelője haladéktalanul végrehajtja.
 
-(2) A felhasználó az ügyfélkapu megszüntetését a szolgáltató által biztosított felületről elérhető elektronikus űrlap kitöltésével kezdeményezheti. Az űrlap az ÁBT szolgáltatás benyújtási felületén, illetve a regisztrációs szervnél személyesen vagy postán is benyújtható.
+(3) Az (1) bekezdés c) pont szerinti kérelem esetén annak beérkezését követően az ügyfél-regisztrációs adatbázis adatkezelője tájékoztatást kér a szolgáltatótól arra vonatkozóan, hogy az érintett személy ügyfélkapus elektronikus tárhelyén található-e adat, és
 
-(3) Amennyiben az elektronikus tárhely üres, a szolgáltató a (2) bekezdés szerint írásban kezdeményezett megszüntetést a kérelem beérkezésétől számított 3 munkanapon belül hajtja végre. A szolgáltató a megszüntetendő ügyfélkapun keresztül küldött elektronikus bejelentés esetén a megszüntetést haladéktalanul végrehajtja. A megszüntetés megtörténtéről a felhasználót – a kérelem benyújtásának módjától függően elektronikus levélben vagy írásban – haladéktalanul értesíti. A megszüntetésre vonatkozó kérelmet a szolgáltató 8 évig megőrzi.
+a) amennyiben az elektronikus tárhely üres, az ügyfél-regisztrációs adatbázis adatkezelője a válasz beérkezésétől számított 5 napon belül megszünteti az ügyfélkaput, és erről a felhasználót írásban tájékoztatja;
 
-(4) Amennyiben a tárhely nem üres, a szolgáltató haladéktalanul figyelmeztető üzenetet küld a felhasználó tárhelyére és elektronikus levelezési címére, melyben 22 munkanapos határidővel kéri a tárhely kiürítését. E határidő leteltével megszünteti az ügyfélkaput és helyreállíthatatlanul törli az ott tárolt adatokat tekintet nélkül arra, hogy a tárhely kiürítésre került-e.
+b) amennyiben a tárhely nem üres, az ügyfél-regisztrációs adatbázis adatkezelője haladéktalanul figyelmeztető üzenetet küld postai úton a felhasználó címére, melyben 21 napos határidővel kéri a tárhely kiürítését. E határidő leteltével megszünteti az ügyfélkaput.
 
-(5) A megszüntetett tárhelyen tárolt információt helyreállíthatatlan módon kell törölni.
+(4) A megszüntetésre kerülő ügyfélkapu tárhelyén tárolt adatokat a szolgáltató helyreállíthatatlan módon törli.
+
+[^76]: A 133. § a 169/2015. (VI. 30.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.

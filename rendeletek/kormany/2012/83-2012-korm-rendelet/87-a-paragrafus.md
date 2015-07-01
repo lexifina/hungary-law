@@ -1,4 +1,4 @@
-87/A. §[^35] (1) A másolat automatikusan is elkészíthető, ha
+87/A. §[^40] (1) A másolat automatikusan is elkészíthető, ha
 
 a) a másolatkészítés zárt rendszerben történik, amelynek külső beavatkozástól mentes, az eredeti és a másolat összerendelését tekintve garantáltan hibamentes működését auditálás igazolja,
 
@@ -8,4 +8,4 @@ b) a másolatkészítő rendszer megfelelő műszaki és szervezési megoldássa
 
 (3) Automatikus másolatkészítés esetén a 86. § (2) bekezdés c) pontja nem alkalmazandó, valamint a záradék tartalmazza az automatikus másolatkészítés tényét.
 
-[^35]: A 87/A. §-t az 515/2013. (XII. 30.) Korm. rendelet 30. § (7) bekezdése iktatta be.
+[^40]: A 87/A. §-t az 515/2013. (XII. 30.) Korm. rendelet 30. § (7) bekezdése iktatta be.

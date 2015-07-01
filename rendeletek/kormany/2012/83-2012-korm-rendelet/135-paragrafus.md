@@ -1,15 +1,14 @@
-## 134. § A szolgáltató az ügyfélkapuhoz tartozó elektronikus tárhely forgalmát –dokumentumok átvételének nyomon követése érdekében – folyamatosan naplózza. Ha a napló alapján a szolgáltató megállapítja, hogy a tárhelyen 1 éven át nem volt aktivitás, megkeresi a személyiadat- és lakcímnyilvántartást kezelő szervet, és tisztázza, hogy az ügyfélkapu tulajdonosa életben van-e. Ezt a tevékenységét évente megismétli.
+## 134. §[^77] Ha a regisztrációs adatbázis adatkezelője arról szerez tudomást, hogy a felhasználó elhalálozott, kezdeményezi a szolgáltatónál az elhunyt személy ügyfélkapujának tárhely vizsgálatát.
 
-135. § (1) Amennyiben a személyiadat- és lakcímnyilvántartást kezelő szerv közli, hogy az ügyfélkapu tulajdonosa elhunyt, és az ügyfélkapu tárhelye nem üres, a szolgáltató a nyilvántartott elektronikus levélcímre értesítést juttat el, hogy az ügyfélkapu megszüntetési eljárását megindítja, és felkéri az örökösként érdekelteket, hogy intézkedjenek az ügyfélkapu tárhelyének kiürítésére.
+135. §[^78] (1) Amennyiben a szolgáltató a tárhely vizsgálat eredményeképpen megállapítja, hogy az elhalálozott ügyfélkapu felhasználó elektronikus tárhelyén nem található dokumentum, erről haladéktalanul értesíti a regisztrációs adatbázis adatkezelőjét, aki haladéktalanul gondoskodik az ügyfélkapu megszüntetéséről.
 
-(2) Az örökösként érdekelt kérésére az ügyfélkapu működése, valamint a megszüntetési folyamat a hagyatéki eljárás befejezéséig felfüggeszthető. A felfüggesztés időszaka alatt a tárhely nem hozzáférhető.
+(2) Amennyiben a szolgáltató a tárhely vizsgálat eredményeképpen megállapítja, hogy az elhunyt tárhelyén található dokumentum, a dokumentumok haladéktalan letárolását követően értesíti a regisztrációs adatbázis adatkezelőjét, aki az értesítés beérkezését követően haladéktalanul gondoskodik az ügyfélkapu megszüntetéséről.
 
-(3) A hagyatéki eljárás során a közjegyzővel a szolgáltató közli a felhasználói azonosítót és egyszer használatos aktiváló kódot biztosít. A közjegyző kérheti a kapcsolatot biztosító elektronikus levelezési cím cseréjét is.
+(3) Az ügyfélkapu megszüntetésével egyidejűleg a regisztrációs adatbázis adatkezelője a dokumentumok átvételének módjáról és helyéről tájékoztatja a hagyatéki leltár felvételére hatáskörrel rendelkező illetékes hatóságot.
 
-(4) Az ügyfélkapu feletti rendelkezési joggal együtt a közjegyző hozzáfér az elhunyt titkosító kulcspárjának – amennyiben ilyen volt – a szolgáltató kulcstárában tárolt nyilvános részéhez. A magánkulccsal a szolgáltató nem rendelkezik.
+(4) Amennyiben az elhalálozás időpontjától számított 5 éven belül jelentkezik az örökös, a szolgáltató a személyazonosságának, valamint az öröklés tényének vagy öröklésre való jogosultságának ellenőrzését követően az örökössel egyeztetett módon, a költséghatékonyság figyelembevételével biztosítja az elhunyt ügyfélkapujának tárhelyén található dokumentumok átadását.
 
-(5) A közjegyző a hagyatéki eljárás lezárultakor az örökösök számára átadja az ügyfélkapu feletti rendelkezéshez szükséges azonosítókat. Az átvételétől számítva a kiürítésre, megszüntetésre rendelkezésre álló idő 22 munkanap. Ezt követően az ügyfélkapu a 133. § (4) bekezdésének megfelelően megszűnik.
+(5) Amennyiben az elhalálozás időpontjától számított 5 éven belül nem jelentkezik az örökös, a szolgáltató gondoskodik a korábban a tárhelyről letárolt dokumentumok helyreállíthatatlan módon való törléséről.
 
-(6) Amennyiben az örökösként érdekeltek az elhunyt nyilvántartott elektronikus levélcímére megküldött értesítés elküldésétől számított 25 munkanapon belül nem jelentkeznek, a szolgáltató a felhívást az utolsó nyilvántartott lakcímre postán megismétli, és hirdetményt tesz közzé az elhunyt nevének és utolsó ismert lakcímének közlésével.
-
-(7) Amennyiben a felhívás ebben az esetben is eredménytelen, úgy a hirdetmény közzétételétől számított 45 munkanap elteltével a regisztrációs adatbázis adatkezelője intézkedik az ügyfélkapu haladéktalan megszüntetéséről.
+[^77]: A 134. § a 169/2015. (VI. 30.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^78]: A 135. § a 169/2015. (VI. 30.) Korm. rendelet 1. § (10) bekezdésével megállapított szöveg.

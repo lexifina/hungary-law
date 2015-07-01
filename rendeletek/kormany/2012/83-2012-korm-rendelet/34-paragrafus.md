@@ -1,4 +1,4 @@
-34. §[^11] (1) A TASZ olyan azonosítási szolgáltatás, amelynek keretében a SZEÜSZ szolgáltató az azonosítást kérő hatóság vagy SZEÜSZ szolgáltató (a továbbiakban együtt: azonosítást kérő szervezet) részére megállapítja, hogy egy adott személy megegyezik-e egy korábban regisztrált személlyel, továbbá az azonosítást kérő szervezet ilyen igénye és az érintett hozzájárulása esetén a szervezet számára igazolja az adott személy személyazonosságát.
+34. §[^15] (1) A TASZ olyan azonosítási szolgáltatás, amelynek keretében a SZEÜSZ szolgáltató az azonosítást kérő hatóság vagy SZEÜSZ szolgáltató (a továbbiakban együtt: azonosítást kérő szervezet) részére megállapítja, hogy egy adott személy megegyezik-e egy korábban regisztrált személlyel, továbbá az azonosítást kérő szervezet ilyen igénye és az érintett hozzájárulása esetén a szervezet számára igazolja az adott személy személyazonosságát.
 
 (2) A TASZ keretében az azonosítást végző SZEÜSZ szolgáltató (a továbbiakban: azonosítási szolgáltató) az ügyfelet az azonosítást kérő szervezet számára azonosítja, ennek részeként az ügyfél hozzájárulása alapján az azonosítást kérő szervezet rendelkezésére bocsátja az ügyfél azonosításához feltétlenül szükséges adatot vagy nyilatkozatot, és az azonosítás céljából alkalmazott műszaki megoldásnak megfelelően az elektronikus nyilatkozatot tevő személy és az azonosított ügyfél közötti kapcsolatot hitelesíti.
 
@@ -18,4 +18,4 @@ d) a sikeres azonosítás esetén a jogosult által kért információ szolgált
 
 (6) A TASZ az azonosítást a különböző azonosítási technikák kombinálásával is biztosíthatja.
 
-[^11]: A 34. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.
+[^15]: A 34. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.

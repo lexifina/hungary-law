@@ -1,4 +1,4 @@
-38. §[^15] (1) Az ügyfél szervezetek regisztrációjára a természetes személy ügyfél regisztrációjára vonatkozó szabályokat a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+38. §[^19] (1) Az ügyfél szervezetek regisztrációjára a természetes személy ügyfél regisztrációjára vonatkozó szabályokat a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) Valamely szervezet képviseletére vonatkozó regisztráció esetén a regisztrációt végző szerv a regisztrációt kezdeményező természetes személy képviseleti jogosultságát
 
@@ -14,4 +14,4 @@ d) ha az a)–c) pont nem alkalmazható, a bejelentő egyoldalú nyilatkozata al
 
 (3) A regisztrációról a regisztrációt végző szerv a szervezetet annak a közhiteles nyilvántartásban szereplő, ennek hiányában a regisztrációs kérelemben bejelentett székhelyén vagy egyéb címén írásban értesíti.
 
-[^15]: A 38. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.
+[^19]: A 38. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.

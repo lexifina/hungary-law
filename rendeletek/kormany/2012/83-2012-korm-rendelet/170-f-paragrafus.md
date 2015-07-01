@@ -1,4 +1,4 @@
-## 47/E. [^78] Központi kézbesítési ügynök
+## 47/E. [^92] Központi kézbesítési ügynök
 
 170/F. § (1) A központi kézbesítési ügynök (a továbbiakban: KKÜ) jogszabályi előírás vagy a közfeladatot ellátó szervvel való megállapodás alapján és annak keretei között a közfeladatot ellátó szerv javára ellátja a közfeladatot ellátó szerv által kiküldendő elektronikus iratok kézbesítésének előkészítése, adathordozójának, fajtájának meghatározása, továbbá a kézbesítés módja tekintetében a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletben meghatározott, valamint a (4) és (5) bekezdés szerinti feladatokat.
 
@@ -26,4 +26,4 @@ g) a kézbesítés iránt történő intézkedés időpontjának és módjának 
 
 (6) A KKÜ a szolgáltatás nyújtása során az igénybe vevő adatfeldolgozójaként jár el.
 
-[^78]: A 47/E. alcímet (170/F–170/G. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (18) bekezdése iktatta be.
+[^92]: A 47/E. alcímet (170/F–170/G. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (18) bekezdése iktatta be.

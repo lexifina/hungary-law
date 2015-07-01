@@ -1,4 +1,4 @@
-37. §[^14] (1) Az AESZ olyan azonosítási szolgáltatás, amelynek keretében az azonosítási szolgáltató az azonosítást kérő szervezet számára – más TASZ, illetve EASZ szolgáltatásokat igénybe véve – elvégzi az azonosítást, beleértve
+37. §[^18] (1) Az AESZ olyan azonosítási szolgáltatás, amelynek keretében az azonosítási szolgáltató az azonosítást kérő szervezet számára – más TASZ, illetve EASZ szolgáltatásokat igénybe véve – elvégzi az azonosítást, beleértve
 
 a) az azonosítandó személlyel történő adategyeztetés lefolytatását,
 
@@ -22,4 +22,4 @@ a) TASZ igénybevétele esetén az azonosítás megfelelőségéért a TASZ szol
 
 b) EASZ igénybevétele során az azonosítás elfogadhatóságára, valamint az EASZ és az ügyfél felelősségére az EASZ-ra vonatkozó rendelkezések irányadók.
 
-[^14]: A 37. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.
+[^18]: A 37. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.

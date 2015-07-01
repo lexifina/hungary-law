@@ -1,3 +1,3 @@
-## 19.[^21]
+## 19.[^25]
 
-[^21]: A 19. alcímet (53–57. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (21) bekezdés a) pontja hatályon kívül helyezte.
+[^25]: A 19. alcímet (53–57. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (21) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 47/B. [^75] Személyre szabott ügyintézési felület
+## 47/B. [^89] Személyre szabott ügyintézési felület
 
 170/B. § (1) A személyre szabott ügyintézési felület szolgáltatás (a továbbiakban: SZÜF) keretében a szolgáltató az azonosított ügyfél számára az ügyfél által személyre szabható internetes felületet biztosít az ügyfél által igénybe vehető SZEÜSZ-ök, valamint az egyéb elektronikus ügyintézési szolgáltatások (ezen alcím alkalmazásában a továbbiakban: SZEÜSZ) igénybevételére, valamint SZEÜSZ-ök igénybevételére szolgáló más internetes felületek elérésére. A SZÜF szolgáltatás a Kormány által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatás.
 
@@ -12,4 +12,4 @@
 
 (6) A SZÜF szolgáltató az ügyintézési felületen köteles tájékoztatni az ügyfelet arról, ha az ügyintézési felületen keresztül igénybe vehető SZEÜSZ-t nem ő szolgáltatja, valamint ebben az esetben a SZEÜSZ szolgáltató nevéről és nyilvántartási számáról.
 
-[^75]: A 47/B. alcímet (170/B. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (18) bekezdése iktatta be.
+[^89]: A 47/B. alcímet (170/B. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (18) bekezdése iktatta be.

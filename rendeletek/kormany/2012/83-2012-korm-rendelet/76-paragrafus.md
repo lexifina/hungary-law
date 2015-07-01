@@ -10,8 +10,8 @@
 
 (5) Az (1) bekezdés szerinti lista közzétételére az elektronikus tájékoztatásra vonatkozó rendelkezések irányadók. Ettől eltérő egyéb felületen, honlapon a lista akkor tehető közzé, ha a hatóság
 
-a)[^28] a közzétételnek az elektronikus tájékoztatás szabályai szerint közzétett tájékoztatással való összhangját biztosítja, és
+a)[^32] a közzétételnek az elektronikus tájékoztatás szabályai szerint közzétett tájékoztatással való összhangját biztosítja, és
 
 b) a külön felületen tájékoztatást ad a hiteles ellenőrzési pont elérhetőségéről.
 
-[^28]: A 76. § (5) bekezdés a) pontja az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés f) pontja szerint módosított szöveg.
+[^32]: A 76. § (5) bekezdés a) pontja az 515/2013. (XII. 30.) Korm. rendelet 30. § (20) bekezdés f) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-42. §[^19] (1) A hatóság képviseletében eljáró természetes személyek közül
+42. §[^23] (1) A hatóság képviseletében eljáró természetes személyek közül
 
 a) fontos és bizalmas munkakörben foglalkoztatott személyek számára kizárólag jogszabályban kijelölt államigazgatási szerv vagy 100%-os állami tulajdonban álló gazdálkodó szervezet,
 
@@ -14,4 +14,4 @@ b) egyéb esetben csak jogszabályban kijelölt állami szerv vagy 100%-os álla
 
 nyújthat TASZ-t, függetlenül attól, hogy az azonosítás a szervezet nevében eljáró természetes személyre vagy a szervezet informatikai rendszerére vonatkozik.
 
-[^19]: A 42. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.
+[^23]: A 42. § az 515/2013. (XII. 30.) Korm. rendelet 30. § (4) bekezdésével megállapított szöveg.
