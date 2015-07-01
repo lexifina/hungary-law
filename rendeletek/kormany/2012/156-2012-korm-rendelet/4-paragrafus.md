@@ -1,3 +1,9 @@
-## 3. § A 220/2004. (VII. 21.) Korm. rendelet a következő 38/A. §-sal egészül ki:
+## 2–3. §[^3]
 
-## „38/A. § A mezőgazdasági termelés területén kizárólag energiahasznosítás céljából történő termálvíz kitermelése esetén a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben megállapított kibocsátási határértékeket meglévő és új létesítmény esetén is 2015. június 30-ig kell teljesíteni (átmeneti időszak). Az átmeneti időszakban a bírság mértéke az adott szennyezőanyagra a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben megállapított kibocsátási határérték fölötti kibocsátás után számított teljes bírság 3%-a.”
+## 4. § Hatályát veszti a 220/2004. (VII. 21.) Korm. rendelet
+
+a) 38. § (2) bekezdés d) pontjában az „– a 38/A. §-ban foglalt kivétellel –” szövegrész és
+
+b) 38/A. §-a.
+
+[^3]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
