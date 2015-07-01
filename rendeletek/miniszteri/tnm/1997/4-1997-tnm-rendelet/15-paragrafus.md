@@ -1,4 +1,4 @@
-## 14/A. §[^13] A Hivatalnál rendszeresített vezetői beosztásokat külön miniszteri utasítás tartalmazza. Az egyes vezetői beosztásokhoz kapcsolódó pótlék mértékét a Hszt. 100/B. §-a alapján kell meghatározni.
+## 14/A. §[^15] A Hivatalnál rendszeresített vezetői beosztásokat külön miniszteri utasítás tartalmazza. Az egyes vezetői beosztásokhoz kapcsolódó pótlék mértékét a Hszt. 100/B. §-a alapján kell meghatározni.
 
 ## A megbízási díj
 
@@ -14,4 +14,4 @@
 
 – az eredeti beosztása ellátása alól mentesítették.
 
-[^13]: A 14/A. §-t a 7/2001. (XI. 23.) TNM rendelet 1. §-a iktatta be, szövege a 3/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.
+[^15]: A 14/A. §-t a 7/2001. (XI. 23.) TNM rendelet 1. §-a iktatta be, szövege a 3/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.

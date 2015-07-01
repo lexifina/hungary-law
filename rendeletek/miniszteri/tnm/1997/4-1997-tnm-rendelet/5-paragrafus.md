@@ -1,3 +1,3 @@
-## 4. §[^2]
+## 4. §[^4]
 
-[^2]: A 4. §-t a 7/2001. (XI. 23.) TNM rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
+[^4]: A 4. §-t a 7/2001. (XI. 23.) TNM rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.

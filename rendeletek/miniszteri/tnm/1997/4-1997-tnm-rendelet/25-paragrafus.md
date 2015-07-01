@@ -2,7 +2,7 @@
 
 ## A kiküldetés költségtérítésének szabályozása
 
-25. § (1)[^33]
+25. § (1)[^35]
 
 (2) Szolgálati jellegű utazás a szolgálati jogviszonnyal egyébként összefüggő, de kiküldetésnek nem minősülő, a szolgálati hely közigazgatási határán túli utazás.
 
@@ -16,4 +16,4 @@
 
 (7) Nem menetrend szerinti közlekedési eszközzel történő utazás esetén a távollét időtartama az indulási helyről történő elindulás és az oda való visszaérkezés közötti idő. Ha a kiküldetés az indulási helyre való visszaérkezés előtt befejeződik, az időpont, amikor a kiküldetéssel összefüggő tevékenységet befejezték.
 
-[^33]: A 25. § (1) bekezdését a 3/2010. (IV. 28.) PTNM rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^35]: A 25. § (1) bekezdését a 3/2010. (IV. 28.) PTNM rendelet 9. § (1) bekezdése hatályon kívül helyezte.

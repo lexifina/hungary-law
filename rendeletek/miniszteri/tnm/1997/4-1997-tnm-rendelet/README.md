@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-4-20-6F
 | 2010-05-06 | 1997-4-20-6F.14 | 3/2010. (IV. 28.) PTNM rendelet |
 | 2010-09-30 | 1997-4-20-6F.15 | 3/2010. (IV. 28.) PTNM rendelet |
 | 2012-01-01 | 1997-4-20-6F.16 | 42/2012. (VIII. 23.) BM rendelet |
+| 2015-07-01 | 1997-4-20-6F.17 | 30/2017. (XI. 28.) MvM rendelet |

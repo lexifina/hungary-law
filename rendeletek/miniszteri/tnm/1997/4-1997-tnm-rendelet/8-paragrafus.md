@@ -2,8 +2,8 @@
 
 ## Az egyéb veszélyességi, az éjszakai és délutáni pótlék közös szabályai
 
-8. §[^4] (1) A pótlékra jogosító beosztásokat az állományilletékes parancsnok – a gazdasági szerv vezetőjével egyeztetett – javaslatára a főigazgató belső rendelkezésben határozza meg, a beosztás ellátásának konkrét körülményei alapján.
+8. §[^6] (1) A pótlékra jogosító beosztásokat az állományilletékes parancsnok – a gazdasági szerv vezetőjével egyeztetett – javaslatára a főigazgató belső rendelkezésben határozza meg, a beosztás ellátásának konkrét körülményei alapján.
 
 (2) A pótlékra való jogosultságot állományparancsban kell meghatározni.
 
-[^4]: A 8. §-át megelőző alcíme a 4/1999. (VI. 25.) TNM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 8. §-át megelőző alcíme a 4/1999. (VI. 25.) TNM rendelet 1. §-ával megállapított szöveg.

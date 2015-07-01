@@ -1,4 +1,4 @@
-## 53. §[^54]
+## 53. §[^56]
 
 ## A ruházati ellátás általános szabályai
 
@@ -6,4 +6,4 @@
 
 (2) A ht. állomány tábornoki rendfokozatú tagja kinevezésekor az egyenruha és polgári ruha megvásárlásához alapellátmányra, a továbbiakban pedig utánpótlási ellátmányra jogosult, amelynek mértékét külön utasítás határozza meg. Az egyenruha alapellátmány havi hányadokra nem osztható.(3) A ht. állomány tábornoki rendfokozaú tagja alapellátmányának és ruházati utánpótlási ellátmányának folyósítására a rendelet egyéb rendelkezéseit értelemszerűen alkalmazni kell.
 
-[^54]: Az 53. §-t megelőző alcímet és az 53. §-t a 3/2010. (IV. 28.) PTNM rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^56]: Az 53. §-t megelőző alcímet és az 53. §-t a 3/2010. (IV. 28.) PTNM rendelet 9. § (1) bekezdése hatályon kívül helyezte.

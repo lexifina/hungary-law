@@ -1,4 +1,4 @@
-## 5. §[^3]
+## 5. §[^5]
 
 ## Nemzetbiztonsági pótlék
 
@@ -6,4 +6,4 @@
 
 (2) A pótlékra jogosító beosztásokat és az azokhoz tartozó mértéket a főigazgató javaslatára a miniszter határozza meg.
 
-[^3]: Az 5. §-t és az előtte lévő alcímet az 5/2004. (XII. 25.) MeHVM rendelet 4. §-a hatályon kívül helyezte.
+[^5]: Az 5. §-t és az előtte lévő alcímet az 5/2004. (XII. 25.) MeHVM rendelet 4. §-a hatályon kívül helyezte.

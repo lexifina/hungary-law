@@ -1,4 +1,4 @@
-## 17. §[^15] Az elrendelt túlszolgálatra eső időarányos távolléti díjat a ht. állomány tagjára irányadó munkarendnek megfelelő havi munkaidőkeret szerinti osztószámmal kiszámított egy órára eső illetmény alapulvételével kell megállapítani.
+## 17. §[^17] Az elrendelt túlszolgálatra eső időarányos távolléti díjat a ht. állomány tagjára irányadó munkarendnek megfelelő havi munkaidőkeret szerinti osztószámmal kiszámított egy órára eső illetmény alapulvételével kell megállapítani.
 
 ## Az illetmény megállapításának
 
@@ -34,15 +34,15 @@ c) Az esetenként járó pótlékok a tárgyhónapot követő hónap illetmény�
 
 d) A ht. állomány beosztásból felfüggesztett, előzetes letartóztatásban vagy őrizetben lévő tagjának távolléti díj jár, mely legfeljebb 50%-kal csökkenthető. A felfüggesztés, illetve a letartóztatás és az őrizetbe vétel idejére visszatartott illetményrészt kamataival együtt utólag ki kell fizetni, ha a fegyelmi vagy büntetőeljárás felmentéssel zárul.
 
-e)[^16] Betegség esetén a távolléti díjnak a Hszt. 93. § (8) bekezdése alapján történő csökkentését, illetőleg megvonását az állományilletékes parancsnoknak – az egészségügyi szerv véleményét, illetve javaslatát figyelembe véve – állományparancsban kell elrendelni.
+e)[^18] Betegség esetén a távolléti díjnak a Hszt. 93. § (8) bekezdése alapján történő csökkentését, illetőleg megvonását az állományilletékes parancsnoknak – az egészségügyi szerv véleményét, illetve javaslatát figyelembe véve – állományparancsban kell elrendelni.
 
 f) A kihelyezett állomány illetményének megállapításának és folyósításának szabályait miniszteri utasítás tartalmazza.
 
-g)[^17] A ht. állomány Hszt. 44. § (1) bekezdés b), e), f), h) pontja alapján rendelkezési állományba helyezett tagja a rendelkezési állományba helyezését megelőző utolsó beosztása szerinti illetményre jogosult.
+g)[^19] A ht. állomány Hszt. 44. § (1) bekezdés b), e), f), h) pontja alapján rendelkezési állományba helyezett tagja a rendelkezési állományba helyezését megelőző utolsó beosztása szerinti illetményre jogosult.
 
-(5)[^18] A (4) bekezdés b) pontjában foglaltaktól eltérően szüneteltetni kell a pótlék folyósítását a 30 napot meghaladó tanfolyamra vezénylés idejére, amennyiben ez szolgálatteljesítés alóli mentesítéssel történik, valamint egészségügyi szabadság esetén a 61. naptól.
+(5)[^20] A (4) bekezdés b) pontjában foglaltaktól eltérően szüneteltetni kell a pótlék folyósítását a 30 napot meghaladó tanfolyamra vezénylés idejére, amennyiben ez szolgálatteljesítés alóli mentesítéssel történik, valamint egészségügyi szabadság esetén a 61. naptól.
 
-[^15]: A 17. § a 3/2010. (IV. 28.) PTNM rendelet 1. §-ával megállapított szöveg.
-[^16]: A 18. § (4) bekezdés e) pontja a 3/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.
-[^17]: A 18. § (4) bekezdés g) pontja a 3/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.
-[^18]: A 18. § (5) bekezdését az 1/2006. (III. 28.) MeHVM rendelet 3. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést 2006. január 1-jétől kell alkalmazni.
+[^17]: A 17. § a 3/2010. (IV. 28.) PTNM rendelet 1. §-ával megállapított szöveg.
+[^18]: A 18. § (4) bekezdés e) pontja a 3/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.
+[^19]: A 18. § (4) bekezdés g) pontja a 3/2010. (IV. 28.) PTNM rendelet 7. §-a szerint módosított szöveg.
+[^20]: A 18. § (5) bekezdését az 1/2006. (III. 28.) MeHVM rendelet 3. §-a iktatta be. E módosító rendelet 9. § (1) bekezdése alapján a rendelkezést 2006. január 1-jétől kell alkalmazni.

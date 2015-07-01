@@ -14,6 +14,6 @@ d) szállásköltség megtérítése,
 
 e) a tanulmányi szabadság és szabadidő idejére távolléti díj folyósítása.
 
-(4)[^43] A Hszt. 104. § (7) bekezdése vonatkozásában pénzügyi támogatásnak kell tekinteni a (3) bekezdés a)–d) pontjaiban felsorolt támogatásokat.
+(4)[^45] A Hszt. 104. § (7) bekezdése vonatkozásában pénzügyi támogatásnak kell tekinteni a (3) bekezdés a)–d) pontjaiban felsorolt támogatásokat.
 
-[^43]: A 47. § (4) bekezdését a 7/2001. (XI. 23.) TNM rendelet 4. §-a iktatta be, szövege a 9/2003. (IX. 22.) MeHVM rendelet 1. §-ával megállapított szöveg.
+[^45]: A 47. § (4) bekezdését a 7/2001. (XI. 23.) TNM rendelet 4. §-a iktatta be, szövege a 9/2003. (IX. 22.) MeHVM rendelet 1. §-ával megállapított szöveg.

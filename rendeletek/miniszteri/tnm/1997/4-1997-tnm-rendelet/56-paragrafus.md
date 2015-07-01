@@ -1,4 +1,4 @@
-56. §[^56] (1) A ruházati utánpótlási ellátmányra való jogosultság kezdő időpontja:
+56. §[^58] (1) A ruházati utánpótlási ellátmányra való jogosultság kezdő időpontja:
 
 a) új kinevezés esetén a kinevezés napja, vagy
 
@@ -12,4 +12,4 @@ a) a ht. állomány új felvétellel határozatlan időre kinevezett tagja, vala
 
 b) a nyugállományból ht. állományba visszavett tag, ha nyugállományba helyezése óta 12 hónap eltelt.
 
-[^56]: Az 56. § a 3/2010. (IV. 28.) PTNM rendelet 3. §-ával megállapított szöveg.
+[^58]: Az 56. § a 3/2010. (IV. 28.) PTNM rendelet 3. §-ával megállapított szöveg.

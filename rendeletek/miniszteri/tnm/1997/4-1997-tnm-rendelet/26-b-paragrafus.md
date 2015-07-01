@@ -1,4 +1,4 @@
-26/B. §[^36] (1) A külföldre utazás indulási és érkezési helyének az országhatárt, repülőgépen történő utazásnál a repülőteret kell tekinteni. A repülőgépen történő utazásnál a kiküldetés kezdő időpontjának a repülőgép menetrend szerinti indulási, befejező időpontjának az érkezési időpontját kell tekinteni. Ha a kiküldött ugyanazon a napon több országban járt, részére azon országra megállapított napidíj fizethető ki, amelyikben hosszabb ideig tartózkodott.
+26/B. §[^38] (1) A külföldre utazás indulási és érkezési helyének az országhatárt, repülőgépen történő utazásnál a repülőteret kell tekinteni. A repülőgépen történő utazásnál a kiküldetés kezdő időpontjának a repülőgép menetrend szerinti indulási, befejező időpontjának az érkezési időpontját kell tekinteni. Ha a kiküldött ugyanazon a napon több országban járt, részére azon országra megállapított napidíj fizethető ki, amelyikben hosszabb ideig tartózkodott.
 
 (2) A Hivatal a kiküldött részére a napidíjat az ideiglenes külföldi kiküldetést megelőző három munkanapon belül fizeti ki.
 
@@ -6,4 +6,4 @@
 
 (4) A napidíj arányos részének visszafizetése – a kiküldetés befejező időpontját követő öt munkanapon belül – abban a devizanemben történik, amelyben a kiküldött részére azt biztosították.
 
-[^36]: A 26/B. §-t a 3/2010. (IV. 28.) PTNM rendelet 2. §-a iktatta be.
+[^38]: A 26/B. §-t a 3/2010. (IV. 28.) PTNM rendelet 2. §-a iktatta be.
