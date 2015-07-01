@@ -1,0 +1,1 @@
+## 4. § A szolgálati jelvény kiadására, cseréjére, visszavonására a helyi személyügyi szerv személyi állományparancs, jegyzőkönyv, jelentés vagy szolgálati jegy alapján intézkedik a 3. §-ban meghatározott személyügyi szerv felé.
