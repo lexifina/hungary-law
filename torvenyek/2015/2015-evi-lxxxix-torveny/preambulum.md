@@ -1,0 +1,1 @@
+(A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Mellékletének módosításai 2015. január 1-jén hatályba léptek azzal, hogy az ADR „A” és „B” Melléklete 2014. december 31-éig hatályos előírásai 2015. június 30-áig alkalmazhatók.)
