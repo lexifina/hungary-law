@@ -1,11 +1,4 @@
-45. § (1) Amennyiben az állományilletékes parancsnok hozza létre a bizottságot és a feltételeknek megfelelő személy nincs a fegyveres szervnél, a bizottsági tagot – az állományilletékes parancsnok megkeresésére – az állományilletékes parancsnok szolgálati elöljárója jelöli ki az irányítása alatt álló állományból.
+45. §[^87] (1)[^88] Az elrendelésre jogosult vezető az iratok kézhezvételétől számított három munkanapon belül, a kézhezvételtől számított 15 napon belüli időpontra meghallgatást tűz ki, amelyen az eljárás alá vont személy és képviselője, valamint a vizsgáló lehet jelen.
 
-(2) Az elrendelésre jogosult vezető a vizsgáló jelentésének kézhezvételét követő öt munkanapon belüli időpontra összehívja a bizottság ülését.
-
-(3) A bizottság az ülésén a bizonyítékokat értékeli, további bizonyítást folytathat le, iratokat kérhet be, tanúkat hallgathat meg, szemlét tarthat.
-
-(4) A bizottság ülésén a tagoknak együttesen kell jelen lenniük. A bizottság eljárásáról és tanácskozásáról jegyzőkönyvet kell felvenni.
-
-(5) A bizottság eljárásához szükséges feltételek biztosításáról, a bizonyítékok beszerzéséről, a meghallgatni kívántak kiértesítéséről az elrendelésre jogosult vezető a vizsgáló útján gondoskodik.
-
-(6) A bizottság az ülésén a meghallgatást követően zárt tárgyaláson, szótöbbséggel dönt a méltatlanság fennállásáról vagy hiányáról. Döntését jegyzőkönyvbe foglalja, amely tartalmazza a méltatlanná válás kérdésében hozott döntést, az azt megalapozó tényállást és a döntés indokait. A bizottság a jegyzőkönyvet – a határozathozatal érdekében – haladéktalanul megküldi az elrendelésre jogosult vezetőnek.
+[^87]: A 45. § a 37/2015. (VI. 16.) BM rendelet 38. §-ával megállapított szöveg.
+[^88]: [A 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 5. pontjával elrendelt módosítás, amely szeint a „fegyveres” szövegrész helyébe a „rendvédelmi” szöveg lép, nem vezethető át.]

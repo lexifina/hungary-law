@@ -1,15 +1,13 @@
-## 39. §[^44]
+## 39. §[^80]
 
 ## II. RÉSZ
 
 ## ELJÁRÁS A SZOLGÁLATTAL NEM ÖSSZEFÜGGŐ BŰNCSELEKMÉNY ESETÉN
 
-40. § (1) Ha a hivatásos állományú magatartása a Hszt. 149. §-ának (1) bekezdése szerinti szolgálati viszonyból eredő kötelezettségével össze nem függő bűncselekménynek minősül és a nyomozást vele szemben elrendelték, illetve gyanúsítottként kihallgatták, beosztásából a büntetőeljárás jogerős befejezéséig az állományilletékes parancsnok felfüggesztheti, ha szolgálati helyétől való távoltartása indokolt.
+40. §[^81] (1) Ha a hivatásos állomány tagját szolgálattal össze nem függő bűncselekmény miatt indult eljárásra tekintettel, az eljárást folytató szerv kezdeményezésére függesztették fel szolgálati beosztásából és a felfüggesztésből két hónap letelt, az állományilletékes parancsnok a felfüggesztést kezdeményező szervet írásban a felfüggesztés indokoltságának felülvizsgálatára kéri fel. Ha a beosztásból felfüggesztés a hat hónapot meghaladja, a fenntartás indokoltságáról az állományilletékes parancsnok írásban kikéri az eljárást folytató szerv felettes szerve vezetőjének a véleményét.
 
-(2) A beosztásból történő felfüggesztésnek akkor van helye, ha az állományilletékes parancsok megítélése szerint a hivatásos állományú terhére rótt bűncselekmény jellege, illetve súlya miatt a beosztás további ellátásának meghagyása a fegyveres szerv tekintélyét, a működésébe vetett közbizalmat súlyosan veszélyezteti.
+(2)[^82] A szolgálattal össze nem függő bűncselekmény miatt indult eljárásra tekintettel történő felfüggesztéssel szemben a felfüggesztett a Tv. 201. § (1) bekezdése szerint élhet panasszal.
 
-(3) A hivatásos állományút a beosztásából az (1) bekezdésben meghatározott feltételek fennállása esetén a nyomozás tartamára fel lehet függeszteni, ha azt a nyomozó hatóság a büntetőeljárás érdekeire tekintettel írásban kezdeményezte az állományilletékes parancsnoknál. Az állományilletékes parancsnok, ha a felfüggesztésből két hónap letelt, a felfüggesztést kezdeményező nyomozó hatóságot írásban a felfüggesztés indokoltságának felülvizsgálatára kéri fel. Ha a beosztásból felfüggesztés a hat hónapot meghaladja, a fenntartás indokoltságáról az állományilletékes parancsnok írásban kikéri a nyomozó hatóság felettes szerve vezetőjének a véleményét.
-
-(4) A (2) bekezdésben meghatározott beosztásból felfüggesztéssel szemben a felfüggesztett a 17. § (7) bekezdése szerint élhet panasszal.
-
-[^44]: A 39. §-t az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^80]: A 39. §-t az 54/2012. (X. 29.) BM rendelet 8. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^81]: A 40. § a 37/2015. (VI. 16.) BM rendelet 37. §-ával megállapított szöveg.
+[^82]: [A 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 5. pontjával elrendelt módosítás, amely szerint a „fegyveres” szövegrész helyébe a „rendvédelmi” szöveg lép, nem vezethető át.]

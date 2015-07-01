@@ -1,9 +1,5 @@
-1. §[^1] (1)[^2] E rendeletet kell alkalmazni a rendőrségnél, a büntetés-végrehajtási szervezetnél, a hivatásos katasztrófavédelmi szervnél (a továbbiakban együtt: fegyveres szervek), valamint a Hszt. 42. § (2) bekezdésében felsorolt más szervnél szolgálatot teljesítő hivatásos állományúak, valamint a rendőrség különleges foglalkoztatási állományába tartozók (a továbbiakban együtt: hivatásos állományú) által elkövetett, a Hszt. 119. §-a szerinti fegyelemsértések, a fegyelmi eljárás keretében elbírálandó szabálysértések és katonai vétségek fegyelmi jogkörben történő elbírálására.
+1. §[^1] (1) E rendeletet kell alkalmazni a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Tv.) 1. § (1) bekezdés a)–e) pontjában, továbbá a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 1. § b) és d) pontjában meghatározott rendvédelmi feladatokat ellátó szervnél (a továbbiakban együtt: rendvédelmi szerv), valamint a Tv. 51. § (2)–(4) bekezdésében meghatározott szervnél szolgálatot teljesítő hivatásos állományúak, valamint a rendőrség különleges foglalkoztatási állományába tartozók (a továbbiakban együtt: hivatásos állományú) által elkövetett, a Tv. 181. § (1)–(3) bekezdése szerinti fegyelemsértések, a fegyelmi eljárás keretében elbírálandó szabálysértések és katonai vétségek fegyelmi jogkörben történő elbírálására.
 
-(2) E rendelet rendelkezéseit a szolgálati beosztást be nem töltő (rendelkezési állományban lévő), valamint a más szervnél szolgálatot teljesítő hivatásos állományra is megfelelően alkalmazni kell.
+(2) E rendelet rendelkezéseit a szolgálati beosztást be nem töltő (rendelkezési állományban lévő) hivatásos állományra is megfelelően alkalmazni kell.
 
-(3)[^3] A III. Rész rendelkezéseit a belügyminiszter irányítása alatt álló polgári nemzetbiztonsági szolgálatok hivatásos állományának tagjaira is alkalmazni kell.
-
-[^1]: Az 1. § az 54/2012. (X. 29.) BM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 17. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdését a 81/2012. (XII. 28.) BM rendelet 14. §-a iktatta be.
+[^1]: Az 1. § a 37/2015. (VI. 16.) BM rendelet 26. §-ával megállapított szöveg.
