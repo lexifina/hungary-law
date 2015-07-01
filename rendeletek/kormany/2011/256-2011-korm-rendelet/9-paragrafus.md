@@ -1,18 +1,21 @@
-## 7. A lakásépítési támogatás igénybevételének eljárási szabályai
+## 7. [^95] A családok otthonteremtési kedvezménye igénybevételének eljárási szabályai
 
-9. § (1) A lakásépítési támogatás a 17. § (4) bekezdése szerinti szerződéssel rendelkező hitelintézettől igényelhető.
+9. § (1)[^96] A családok otthonteremtési kedvezménye a 17. § (4) bekezdése szerinti szerződéssel rendelkező hitelintézettől igényelhető.
 
-(2)[^46] A lakásépítési támogatásra való jogosultság megállapítását és mértékének meghatározását – a 8. § (1) bekezdésében foglaltak kivételével – lakás vásárlása esetén a lakásra vonatkozó adásvételi szerződés megkötését követő 120 napos határidőn belül, építés esetén a használatbavételi engedély kiadása vagy a használatbavétel tudomásulvétele előtt kell kérni a hitelintézettől.
+(2)[^97] A családok otthonteremtési kedvezményére való jogosultság megállapítását és mértékének meghatározását – a 8. § (1) bekezdésében foglaltak kivételével – új vagy használt lakás vásárlása esetén az adásvételi szerződés megkötését követő 120 napon belül, építés esetén a használatbavételi engedély kiadását vagy a használatbavétel tudomásulvételét megelőzően, bővítés esetén a bővítési munkálatok megkezdése előtt kell kérni a hitelintézettől.
 
-(2a)[^47] Ha az igénylő a (2) bekezdés szerinti határidőn belül nem él a lakásépítési támogatás igénylésének lehetőségével, arra a határidő lejártát követően már nem tarthat igényt.
+(2a)[^98] Ha az igénylő a (2) bekezdés szerinti határidőn belül nem él a családok otthonteremtési kedvezménye igénylésének lehetőségével, arra a határidő lejártát követően már nem tarthat igényt.
 
-(3)[^48] Amennyiben a lakáscél lakásépítési támogatással is megvalósítható, a hitelintézet átadja az igénylőnek a lakásgazdálkodásért és lakáspolitikáért felelős miniszter (a továbbiakban: miniszter) elektronikus úton megküldött tájékoztatóját a lakásépítési támogatás igénybevételének feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
+(3)[^99] Amennyiben a lakáscél családok otthonteremtési kedvezményével is megvalósítható, a hitelintézet átadja az igénylőnek a miniszter elektronikus úton megküldött tájékoztatóját a családok otthonteremtési kedvezménye igénybevételének feltételeiről, valamint írásban tájékoztatást ad az igényléshez szükséges dokumentumokról.
 
-(4)[^49] A 2. § (3) bekezdés b) pontja szerinti esetben az igénylő kérelmére a kormányhivatal igazolást ad ki arról, hogy az egyéb lakáscélú állami támogatásokról szóló jogszabályok alapján az igénylő lakásépítési kedvezményt megelőlegező kölcsönszerződéssel nem rendelkezik. Az igénylő a kormányhivatal által kiállított igazolást a hitelintézet részére bemutatja.
+(4)[^100] A 2. § (3) bekezdés b) pontja szerinti esetben az igénylő kérelmére a kormányhivatal igazolást ad ki arról, hogy az egyéb lakáscélú állami támogatásokról szóló jogszabályok alapján az igénylő lakásépítési kedvezményt megelőlegező kölcsönszerződéssel nem rendelkezik. Az igénylő a kormányhivatal által kiállított igazolást a hitelintézet részére bemutatja.
 
-(5) A hitelintézet a támogatott személytől a lakásépítési támogatásra való jogosultság elbírálásért a támogatás összegének 1,5%-ának megfelelő, de legfeljebb 30 ezer forint, az értékbecslés és a helyszíni szemle díját nem tartalmazó bírálati díjat kérhet. Amennyiben a támogatott személy a hitelintézettől lakáscélú kölcsönt is igényelt, a lakásépítési támogatásra való jogosultság elbírálásért és folyósításáért a hitelintézet díjat vagy egyéb ellenszolgáltatást nem számíthat fel.
+(5)[^101] A hitelintézet a támogatott személytől a családok otthonteremtési kedvezményére való jogosultság elbírálásért a családok otthonteremtési kedvezménye összegének 1,5%-ának megfelelő, de legfeljebb 30 ezer forint, az értékbecslés és a helyszíni szemle díját nem tartalmazó bírálati díjat kérhet. Amennyiben a támogatott személy a hitelintézettől lakáscélú kölcsönt is igényelt, a családok otthonteremtési kedvezményére való jogosultság elbírálásért és folyósításáért a hitelintézet díjat vagy egyéb ellenszolgáltatást nem számíthat fel.
 
-[^46]: A 9. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 31. § a) pontja, a 128/2013. (IV. 30.) Korm. rendelet 14. § 11. pontja és 15. § d) pontja szerint módosított szöveg.
-[^47]: A 9. § (2a) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 12. §-a iktatta be.
-[^48]: A 9. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 586. §-a szerint módosított szöveg.
-[^49]: A 9. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 179. § (6) bekezdés 8. pontja szerint módosított szöveg.
+[^95]: A 7. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^96]: A 9. § (1) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^97]: A 9. § (2) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^98]: A 9. § (2a) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 12. §-a iktatta be, szövege a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^99]: A 9. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 586. §-a, a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés a) és f) pontja, a 79/2015. (III. 31.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^100]: A 9. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 179. § (6) bekezdés 8. pontja szerint módosított szöveg.
+[^101]: A 9. § (5) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés q) pontja és (2) bekezdés b) pontja szerint módosított szöveg.

@@ -1,39 +1,38 @@
 ## 8. Pénzügyi lebonyolítás
 
-13. § (1) A lakásépítési támogatás összegét
+13. § (1)[^133] A családok otthonteremtési kedvezménye összegének folyósítása az alábbiak szerint történik:
 
-a) új lakás építése esetében, a (2) bekezdésben foglalt kivételtől eltekintve
+a) új lakás építése vagy bővítés esetében, a (2) bekezdésben foglalt kivételtől eltekintve
 
 aa) készültségi fokkal arányosan,
 
 ab) utólagosan és
 
-ac)[^71] a lakásépítési támogatás utolsó részletét a használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány kiadását követően folyósítva, vagy
+ac) a családok otthonteremtési kedvezménye utolsó részletét a használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány, vagy nem építési engedélyköteles bővítés esetén a munkálatok befejezéséről szóló teljes bizonyító erejű magánokiratba foglalt nyilatkozat hitelintézet részére történő bemutatását követően, vagy
 
-b) új lakás vásárlása esetén egy összegben
+b) új vagy használt lakás vásárlása esetén az adásvételi szerződés megkötését követően, egy összegben.
 
-kell folyósítani.
+(2)[^134] Amennyiben az építtető igénylő vagy támogatott személy a családok otthonteremtési kedvezményével kapcsolatos ügyintézéssel mást hatalmaz meg, úgy a családok otthonteremtési kedvezménye folyósítása csak a használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatását követően, egy összegben történhet.
 
-(2)[^72] Amennyiben az építtető igénylő vagy támogatott személy a lakásépítési támogatással kapcsolatos ügyintézéssel mást hatalmaz meg, úgy a támogatás folyósítása csak a használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatását követően, egy összegben történhet.
+(3)[^135] A folyósítás akkor kezdhető meg, ha az építtető támogatott személy a családok otthonteremtési kedvezményén és a hitelintézeti kölcsönön kívül saját erejét az új lakás építésére vagy a bővítésre már felhasználta.
 
-(3) A folyósítás akkor kezdhető meg, ha az építtető támogatott személy a lakásépítési támogatáson és a hitelintézeti kölcsönön kívül saját erejét a lakás építésére már felhasználta.
+(4)[^136] A hitelintézet új lakás építése vagy bővítés esetén a családok otthonteremtési kedvezménye készültségi fokkal arányos folyósítását megelőzően a készültségi fok feltételeinek teljesítését a helyszínen, valamint a 3. § (1) bekezdés h) pont ha) alpontja szerinti számlabemutatással ellenőrzi.
 
-(4) A hitelintézet új lakás építése esetén a lakásépítési támogatás készültségi fokkal arányos folyósítását megelőzően a helyszínen ellenőrzi a készültségi fok feltételeinek teljesítését.
+(5)[^137] Ha
 
-(5)[^73] Ha
+a) a családok otthonteremtési kedvezménye igénybevételének alapját képező építési vagy bővítési munkák a szerződésben meghatározott határidőn, de legfeljebb öt éven belül vagy az ezt indokolt esetben – amennyiben építési engedélyhez kötött munkálatok esetén az építtető támogatott személy az építésügyi hatósági engedély hatálya meghosszabbítását a hitelintézet részére igazolja – legfeljebb egy évvel meghosszabbított határidőig nem készülnek el,
 
-a) a lakásépítési támogatás igénybevételének alapját képező építési munkák a szerződésben meghatározott határidőn, de legfeljebb öt éven belül vagy az ezt indokolt esetben – amennyiben az építtető támogatott személy az építésügyi hatósági engedély hatályossága meghosszabbítását a hitelintézet részére igazolja – legfeljebb egy évvel meghosszabbított határidőig nem készülnek el,
+b) az építtető támogatott személy az építési vagy bővítési szándékától eláll, vagy
 
-b) az építtető támogatott személy az építési szándékától eláll, vagy
+c) a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt, vagy építési engedélyhez nem kötött bővítés esetén a munkálatok befejezése előtt a szerződés teljesítése más, az építtető támogatott személynek felróható okból hiúsul meg,
 
-c)[^74] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt a szerződés teljesítése más, az építtető támogatott személynek felróható okból hiúsul meg,
+## a családok otthonteremtési kedvezménye igénybevételéről szóló szerződés alapján a kedvezményt a folyósító hitelintézet visszavonja, és az igénybevevő a már folyósított kedvezményt az igénybevétel napjától esedékes, a Ptk. szerint számított kamatokkal együtt köteles a hitelintézeten keresztül visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a kormányhivatalt és megküldi az ügy iratait.
 
-a lakásépítési támogatás nyújtásáról szóló szerződés alapján a lakásépítési támogatást a folyósító hitelintézet visszavonja, és az igénybevevő a már folyósított támogatást az igénybevétel napjától esedékes, a Ptk. szerint számított kamatokkal együtt köteles a hitelintézeten keresztül visszafizetni. Amennyiben a támogatott személy visszafizetési kötelezettségének nem tesz eleget, úgy a hitelintézet tájékoztatja erről a kormányhivatalt és megküldi az ügy iratait.
+(6)[^138] Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a kormányhivatal intézkedik.
 
-(6)[^75] Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a kormányhivatal intézkedik.
-
-[^71]: A 13. § (1) bekezdés a) pont ac) alpontja a 128/2013. (IV. 30.) Korm. rendelet 14. § 15. pontja szerint módosított szöveg.
-[^72]: A 13. § (2) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 14. § 16. pontja szerint módosított szöveg.
-[^73]: A 13. § (5) bekezdés záró szövegrésze a 80/2014. (III. 14.) Korm. rendelet 26. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 179. § (6) bekezdés 4. pontja szerint módosított szöveg.
-[^74]: A 13. § (5) bekezdés c) pontja a 128/2013. (IV. 30.) Korm. rendelet 14. § 17. pontja szerint módosított szöveg.
-[^75]: A 13. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 585. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 179. § (6) bekezdés 15. pontja szerint módosított szöveg.
+[^133]: A 13. § (1) bekezdése a 331/2014. (XII. 18.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^134]: A 13. § (2) bekezdése a 128/2013. (IV. 30.) Korm. rendelet 14. § 16. pontja, a 331/2014. (XII. 18.) Korm. rendelet 32. § (1) bekezdés f) pontja és (2) bekezdés b) pontja szerint módosított szöveg.
+[^135]: A 13. § (3) bekezdése a 79/2015. (III. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^136]: A 13. § (4) bekezdése a 79/2015. (III. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^137]: A 13. § (5) bekezdése a 79/2015. (III. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^138]: A 13. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 585. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 179. § (6) bekezdés 15. pontja szerint módosított szöveg.
