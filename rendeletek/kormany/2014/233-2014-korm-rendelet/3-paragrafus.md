@@ -4,7 +4,7 @@
 
 a) ellátja – a büntetés-végrehajtással összefüggő pártfogó felügyelői feladatok kivételével – a pártfogó felügyelői tevékenységgel, jogi segítségnyújtással, áldozatsegítéssel és kárpótlással kapcsolatos jogszabályokban meghatározott feladatokat,
 
-b)[^3] módszertani állásfoglalásaival, képzések és továbbképzések szervezésével segíti az áldozatsegítési, jogi segítségnyújtási és pártfogó felügyelői feladatokat ellátó fővárosi és megyei kormányhivatalok egységes jogalkalmazását,
+b)[^3] módszertani állásfoglalásaival, képzések és továbbképzések szervezésével segíti az áldozatsegítési, jogi segítségnyújtási és pártfogó felügyelői feladatokat ellátó fővárosi és megyei kormányhivatalok egységes jogalkalmazását, valamint képzéseket és továbbképzéseket szervez az önálló bírósági végrehajtók, igazságügyi szakértők, közvetítők, felszámolók részére,
 
 c)[^4] közreműködhet a miniszter és az áldozatsegítésért felelős miniszter 2/A. § szerinti szakmai irányítói jogköreinek gyakorlásában, valamint a fővárosi és megyei kormányhivatalok e rendelet szerinti közigazgatási hatósági ügyei tekintetében gyakorolja az Áht. 9. § f) pontja szerinti jogkört,
 
@@ -26,7 +26,7 @@ i)[^7] ellátja a bírósági végrehajtásról szóló 1994. évi LIII. törvé
 
 (4)[^10]
 
-[^3]: A 3. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 254. § (3) bekezdésével megállapított szöveg.
+[^3]: A 3. § (1) bekezdés b) pontja a 167/2015. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 254. § (3) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 254. § (4) bekezdésével megállapított szöveg.
 [^6]: A 3. § (1) bekezdés h) pontja a 25/2015. (II. 25.) Korm. rendelet 38. § (2) bekezdése szerint módosított szöveg.
