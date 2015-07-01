@@ -10,7 +10,7 @@
 
 5. 17/F. § (1) bekezdésében a „Hszt. 149/A–149/C. §” szövegrész helyébe a „Hszt. 222–224. §-a” szöveg,
 
-6. 17/F. § (1) bekezdésében a „szerinti esetben” szövegrész helyébe a „, továbbá a 17/M. § (3) bekezdése szerinti esetben” szöveg,
+6.
 
 7. 17/F. § (2) bekezdésében a „Hszt. 149/B. § (2) bekezdését” szövegrész helyébe a „Hszt. 223. § (2) bekezdését” szöveg,
 
