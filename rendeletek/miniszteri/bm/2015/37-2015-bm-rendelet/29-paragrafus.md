@@ -1,0 +1,3 @@
+## 28. § A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai Fegyelmi Szabályzatáról szóló 11/2006. (III. 14.) BM rendelet 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Fegyelmi vizsgálat lefolytatásával a fegyelmi jogkört gyakorló irányítása alatt álló fegyelmi ügyek intézésére létrehozott szervezeti egység (fegyelmi szerv) hivatásos állományú munkatársát vagy ilyen munkakörben foglalkoztatott hivatásos állományú személyt kell megbízni. Ilyen szervezeti egység vagy munkatárs hiányában a fegyelmi jogkör gyakorlója az alárendeltjei közül – a Tv. 196. § (1) bekezdése figyelembevételével – megfelelő jogi és szakmai ismeretekkel rendelkező, arra alkalmas hivatásos állományút bíz meg a vizsgálattal.”

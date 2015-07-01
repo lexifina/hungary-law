@@ -1,0 +1,3 @@
+## 22. § A belügyminiszter irányítása alá tartozó rendészeti szakközépiskolákra vonatkozó szabályokról szóló 32/2005. (VI. 30.) BM–OM együttes rendelet 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A tanuló részére a szakközépiskola tanulói szállásán való elhelyezés a szakközépiskola által elrendelt kötelező bentlakás időszakában térítésmentes, egyéb esetben térítésköteles. A szakközépiskola igazgatójának javaslatára az ORFK vezetője minden évben meghatározza a következő tanévre vonatkozó térítési díj mértékét, amelyet a szállást igénybe vevő tanulónak az igénybevételt követő hónap 15. napjáig kell megfizetnie.”

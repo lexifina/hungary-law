@@ -1,0 +1,3 @@
+## 88. § Hatályát veszti a belügyminiszter irányítása alá tartozó szervek, valamint az önkormányzati tűzoltóság szolgálati viszonyban álló tagjai szolgálati viszonyának egyes kérdéseiről és a személyügyi igazgatás rendjéről szóló 9/1997. (II. 12.) BM rendelet módosításáról szóló 50/1998. (XI. 4.) BM rendelet.
+
+## 32. A belügyminiszter irányítása alá tartozó szervek, valamint az önkormányzati tűzoltóság szolgálati viszonyban álló tagjai szolgálati viszonyának egyes kérdéseiről és a személyügyi igazgatás rendjéről szóló 9/1997. (II. 12.) BM rendelet módosításáról szóló 14/2001. (VI. 29.) BM rendelet hatályon kívül helyezése

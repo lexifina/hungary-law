@@ -1,0 +1,9 @@
+## 72. § A belügyminiszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről, valamint egyes, szakmai és vizsgakövetelmények kiadásáról szóló miniszteri rendeletek hatályon kívül helyezéséről szóló 20/2013. (V. 28.) BM rendelet 2. melléklet „A 22. sorszámú Rendészeti szervező (a szakmairány megjelölésével) megnevezésű szakképesítés szakmai és vizsgakövetelménye” alcím 3.1. pontjában foglalt táblázat B:3.1.2–B:3.1.17. pontjában a „fegyveres” szövegrész helyébe a „rendvédelmi feladatokat ellátó” szöveg lép.
+
+## 25. A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai teljesítményértékelésének ajánlott elemeiről, az ajánlott elemek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.) BM rendelet módosítása
+
+73. § (1) A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai teljesítményértékelésének ajánlott elemeiről, az ajánlott elemek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.) BM rendelet 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az (1) és a (2) bekezdés szerinti ajánlott elemek tárgyévi alkalmazásáról vagy mellőzéséről a rendvédelmi feladatokat ellátó szerv hivatásos állománya vonatkozásában az országos parancsok a tárgyévet megelőző év december 31-ig dönt.”
+
+(2) A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai teljesítményértékelésének ajánlott elemeiről, az ajánlott elemek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.) BM rendelet 3. § (5) bekezdése helyébe a következő rendelkezés lép:

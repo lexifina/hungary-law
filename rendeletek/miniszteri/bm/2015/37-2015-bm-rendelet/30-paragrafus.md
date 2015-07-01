@@ -1,0 +1,5 @@
+## 29. § A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai Fegyelmi Szabályzatáról szóló 11/2006. (III. 14.) BM rendelet 17. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(4) A szolgálati beosztásból felfüggesztésnek a Tv. 199. § (3) bekezdése alapján történő meghosszabbításáról a fegyelmi jogkör gyakorlója dönt.
+
+## (5) A beosztásból történt felfüggesztés indokoltságát az ügy vizsgálója folyamatosan figyelemmel kíséri, és ha az indokolttá vált, javaslatot tesz a megszüntetésre a fegyelmi jogkör gyakorlójának. A beosztásból történő felfüggesztésnek a Tv. 199. § (5) bekezdése szerinti megszüntetése esetén a felfüggesztés megszüntetésével egyidejűleg, az eljárás alá vont – eredeti besorolása és illetménye meghagyása mellett – vezényléssel az állományilletékes parancsnok irányítása alá tartozó szervnél, ennek hiányában a rendvédelmi szerv más szervezeti egységénél levő másik – a besorolási osztályának és besorolási kategóriájának megfelelő, ha erre nincs lehetőség, alacsonyabb – szolgálati beosztásban foglalkoztatható az eljárás befejezéséig.”
