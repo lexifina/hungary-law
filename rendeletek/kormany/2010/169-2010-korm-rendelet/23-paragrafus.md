@@ -1,6 +1,6 @@
-## 17. [^86] Belépés a repülőtér területére, továbbá a repülőtér légi-oldalára, valamint szigorított védelmi területére
+## 17. [^87] Belépés a repülőtér területére, továbbá a repülőtér légi-oldalára, valamint szigorított védelmi területére
 
-23. §[^87] (1) A légiközlekedésről szóló 1995. évi XCVII. törvény 67. § (12) bekezdésében megjelölt SRA-ra
+23. §[^88] (1) A légiközlekedésről szóló 1995. évi XCVII. törvény 67. § (12) bekezdésében megjelölt SRA-ra
 
 a) az üzemben tartó által – a hatáskörrel rendelkező hatóságok hozzájárulásával, korlátozás nélkül vagy korlátozással – kiállított
 
@@ -30,5 +30,5 @@ lehet belépni.
 
 (7) A védelmi háttérellenőrzés határideje 30 nap, amely egy alkalommal 30 nappal meghosszabbítható.
 
-[^86]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított, a 389/2014. (XII. 31.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
-[^87]: A 23. § a 389/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^87]: A 17. alcím címe a 240/2011. (XI. 18.) Korm. rendelet 18. §-ával megállapított, a 389/2014. (XII. 31.) Korm. rendelet 20. § d) pontja szerint módosított szöveg.
+[^88]: A 23. § a 389/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

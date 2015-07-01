@@ -1,4 +1,4 @@
-## 14/A. §[^38] A TEK
+## 14/A. §[^39] A TEK
 
 a) folyamatosan értékeli a polgári légiközlekedés terror-veszélyeztetettségi szintjét, valamint megállapítja a terror-fenyegetettséget,
 
@@ -12,4 +12,4 @@ e) részt vesz a légiközlekedésről szóló 1995. évi XCVII. törvény 67. �
 
 f) ellenőrzi a repülőtéri személyazonosító kártyák, szigorított védelmi területre jogosító behajtási engedélyek rendeltetésszerű használatát és a vonatkozó előírások betartását, kockázatelemzés alapján kezdeményezi azok visszavonását vagy korlátozását.
 
-[^38]: A 14/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 10. §-a iktatta be, szövege a 389/2014. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^39]: A 14/A. §-t a 240/2011. (XI. 18.) Korm. rendelet 10. §-a iktatta be, szövege a 389/2014. (XII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
