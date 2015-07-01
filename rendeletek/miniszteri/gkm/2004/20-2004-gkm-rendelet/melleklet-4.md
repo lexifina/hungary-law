@@ -46,6 +46,6 @@
 
 | 7 | Fűtőolaj – kéntartalom ≤1% | tonna |  |  |  |
 
-4. számú melléklet a 20/2004. (II. 27.) GKM rendelethez[^14]
+4. számú melléklet a 20/2004. (II. 27.) GKM rendelethez[^15]
 
-[^14]: A 4. számú melléklet a 10/2013. (III. 27.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 4. számú melléklet a 10/2013. (III. 27.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
