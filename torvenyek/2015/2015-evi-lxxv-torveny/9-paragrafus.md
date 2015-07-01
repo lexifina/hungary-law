@@ -1,13 +1,5 @@
 9. § Ez a törvény a kihirdetését követő hónap első napján lép hatályba.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
-
 ## Melléklet a 2015. évi LXXV. törvényhez
 
 Önkormányzati tulajdonba kerülő ingatlanok és az ingatlanok tulajdonjogát megszerző fenntartó önkormányzatok
