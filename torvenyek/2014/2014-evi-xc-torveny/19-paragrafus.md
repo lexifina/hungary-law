@@ -3,11 +3,3 @@
 (E törvény alkalmazásában:)
 
 „4. nemzetközi fejlesztési együttműködés: a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló törvényben meghatározott fogalom;”
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
