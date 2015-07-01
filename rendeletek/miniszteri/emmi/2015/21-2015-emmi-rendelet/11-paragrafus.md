@@ -1,3 +1,1 @@
-## 10. §[^2]
-
-[^2]: A 10. § a 14. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+## 10. § A miniszteri rendelet 5. melléklete helyébe a 2. melléklet lép.
