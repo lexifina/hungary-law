@@ -42,7 +42,7 @@
 
 ## személyügyi szerv vezetője
 
-2. melléklet a 17/2009. (VI. 4.) IRM rendelethez[^5]
+2. melléklet a 17/2009. (VI. 4.) IRM rendelethez[^6]
 
 Intézkedés
 
@@ -88,4 +88,4 @@ Tudomásul veszem, hogy amennyiben hivatásos szolgálati viszonyom saját kezde
 
 igénylő
 
-[^5]: A 2. számú melléklet a 72/2009. (XII. 22.) IRM rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 72/2009. (XII. 22.) IRM rendelet 2. §-a szerint módosított szöveg.

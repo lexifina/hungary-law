@@ -8,10 +8,11 @@ c) lemondással,
 
 d) közös megegyezéssel, vagy
 
-e) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 53. § f)–g), 56. § (1) bekezdésének c), 56. § (2) bekezdésének b), 56. § (5) bekezdésének b), 59. § (1) bekezdésének b), illetve d) pontjára való tekintettel
+e)[^3] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 80. § (1) bekezdés f)–g), 86. § (2) bekezdés b), 86. § (1) bekezdés b), 82. § (1) bekezdés a) és c) pontjára való tekintettel
 
 ## szűnik meg, az addig folyósított támogatást egyösszegben 60 napon belül vissza kell fizetni.
 
 (2) A támogatást az (1) bekezdésben foglaltak szerint kell visszafizetni akkor is, ha a hivatásos állomány tagja az átszervezés miatt szükségessé vált, legalább azonos szintű más beosztásba történő áthelyezésébe nem egyezett bele.
 
 [^2]: Az 5. § (1) bekezdés bevezető szövegrésze a 72/2009. (XII. 22.) IRM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdése e) pontja a 37/2015. (VI. 16.) BM rendelet 41. §-a szerint módosított szöveg.
