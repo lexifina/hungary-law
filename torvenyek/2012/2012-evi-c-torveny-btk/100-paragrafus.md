@@ -32,4 +32,4 @@ d) sportrendezvények látogatásától való eltiltás esetén az elítélt spo
 
 jogára.
 
-(3) Az (1) bekezdés d) pontja esetében a mentesítés nem áll be, illetve hatályát veszti, ha a szabadságvesztés végrehajtását elrendelik. Ilyenkor a mentesítésre a végrehajtandó szabadságvesztésre vonatkozó mentesítési szabályok az irányadók.
+(3) Az (1) bekezdés d) pontja esetében a mentesítés nem áll be, ha a szabadságvesztés végrehajtását elrendelik. Ilyenkor a mentesítésre a végrehajtandó szabadságvesztésre vonatkozó mentesítési szabályok az irányadók.

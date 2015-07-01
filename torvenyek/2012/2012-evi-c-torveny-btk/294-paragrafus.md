@@ -1,12 +1,12 @@
 ## Hivatali vesztegetés elfogadása
 
-294. § (1) Az a hivatalos személy, aki a működésével kapcsolatban előnyt kér, az előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+294. § (1) Az a hivatalos személy, aki a működésével kapcsolatban jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt vezető beosztású hivatalos személy követi el.
 
 (3) Az (1) bekezdésben meghatározott esetben két évtől nyolc évig, a (2) bekezdésben meghatározott esetben öt évtől tíz évig terjedő szabadságvesztéssel büntetendő, aki
 
-a) az előnyért
+a) a jogtalan előnyért
 
 aa) hivatali kötelességét megszegi,
 

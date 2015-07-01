@@ -1,6 +1,6 @@
 ## A bűnszervezetben történő elkövetésre vonatkozó rendelkezések
 
-91. § (1) Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de a huszonöt évet nem haladhatja meg. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (1)–(2) bekezdése szerinti büntetési tételt kell alapul venni.
+91. § (1) Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de a huszonöt évet nem haladhatja meg. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell alapul venni.
 
 (2) Azzal szemben, aki a bűncselekményt bűnszervezetben követte el, kitiltásnak is helye van.
 

@@ -28,7 +28,7 @@ követik el a bűncselekményt.
 
 (5) Aki az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(6) Ha bűncselekményt csekély mennyiségű kábítószerre követik el, a büntetés bűntett miatt
+(6) Ha a bűncselekményt csekély mennyiségű kábítószerre követik el, a büntetés bűntett miatt
 
 a) az (1) és (2) bekezdésben meghatározott esetben három évig,
 

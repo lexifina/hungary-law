@@ -21,11 +21,3 @@ d) a szerzői vagy szerzői joghoz kapcsolódó jogok megsértését százezer f
 da) üreshordozói díjra, illetve reprográfiai díjra nézve,
 
 db) vagyoni hátrányt okozva,
-
-e) az iparjogvédelmi jogok megsértését százezer forintot meg nem haladó vagyoni hátrányt okozva,
-
-f) a rossz minőségű termék forgalomba hozatalát vagy a versenytárs utánzását százezer forintot meg nem haladó értékre
-
-követik el.
-
-(3) Nem valósul meg bűncselekmény, illetve vámszabálysértés valósul meg, ha a költségvetési csalással okozott vagyoni hátrány a százezer forintot nem haladja meg.

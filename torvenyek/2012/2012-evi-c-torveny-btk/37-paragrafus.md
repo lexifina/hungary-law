@@ -20,7 +20,7 @@ ad) emberölés, kábítószer-kereskedelem, kábítószer birtoklása, emberrab
 
 miatt szabták ki, vagy
 
-b) a kétévi vagy ennél hosszabb tartamú, és
+b) a szabadságvesztés kétévi vagy ennél hosszabb tartamú, és
 
 ba) az elítélt többszörös visszaeső, vagy
 

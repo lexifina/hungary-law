@@ -42,4 +42,4 @@ g) a nemzetközi szerződés által tiltott fegyverrel visszaélés [326. § (1)
 
 h) a rablás [365. § (1)–(4) bekezdés] és a rongálás [371. § (1)–(6) bekezdés],
 
-i) az információs rendszer vagy adat megsértése [423. § (1)–(3) bekezdés].
+i) az információs rendszer vagy adat megsértése [423. § (1)–(4) bekezdés].

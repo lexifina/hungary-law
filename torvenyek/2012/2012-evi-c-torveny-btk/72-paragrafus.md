@@ -18,7 +18,7 @@ d) amelynek a birtoklása a közbiztonságot veszélyezteti, vagy jogszabályba 
 
 a) az elkövető gyermekkor, kóros elmeállapot vagy törvényben meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
 
-b) ha az elkövetőt megrovásban részesítették,
+b) az elkövetőt megrovásban részesítették,
 
 c) az a kölcsönzött kulturális javak különleges védelméről szóló törvényben meghatározott különleges védelem időtartama alatt nem hajtható végre.
 

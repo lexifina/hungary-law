@@ -1,5 +1,5 @@
 ## A lefokozás
 
-137. § (1) A lefokozással a katona elveszti a rendfokozatát.
+137. § (1) A lefokozással a katona elveszti a rendfokozatát és címzetes rendfokozatát.
 
 (2) Lefokozást akkor kell alkalmazni, ha az elkövető a rendfokozatra méltatlanná vált.

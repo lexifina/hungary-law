@@ -228,6 +228,8 @@ c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindh�
 
 (3) Ahol e törvény szövetséges fegyveres erőt, külföldi hadműveleti területen végzett humanitárius tevékenységet, békefenntartást vagy humanitárius műveletet említ, azon a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott fogalmakat kell érteni.
 
+(3a) Ahol e törvény rendfokozatot említ, azon a Magyar Honvédség tényleges állományú tagja esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
+
 (4) Ahol e törvény szigorúan titkos, titkos, bizalmas, illetve korlátozott terjesztésű minősítésű adatot említ, azon a minősített adat védelméről szóló törvényben meghatározott nemzeti vagy külföldi minősített adatot kell érteni.
 
 (5) E törvény alkalmazásában

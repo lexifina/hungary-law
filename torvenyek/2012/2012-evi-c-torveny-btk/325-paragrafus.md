@@ -30,6 +30,6 @@ e) az engedéllyel tartott kézilőfegyveréhez, vadászlőfegyveréhez vagy spo
 
 (4) Aki az engedéllyel tartott kézilőfegyverét, vadászlőfegyverét vagy sportlőfegyverét, illetve az ahhoz tartozó lőszert bejelentés nélkül az ország területére behozza, onnan kiviszi, vagy azon átszállítja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(5) Aki az (1)–(3) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.
+(5) Aki az (1)–(3) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (6) E § alkalmazásában csekély mennyiség a legfeljebb tíz darab lőszer.
