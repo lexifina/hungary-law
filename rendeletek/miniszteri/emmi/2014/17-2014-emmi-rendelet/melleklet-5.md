@@ -148,4 +148,4 @@
 
 5. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^23]
 
-[^23]: Az 5. melléklet a 21/2015. (IV. 17.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^23]: Az 5. melléklet a 21/2015. (IV. 17.) EMMI rendelet 10. §-ával megállapított szöveg.
