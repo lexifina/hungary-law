@@ -1,0 +1,3 @@
+## 14. § Az Országgyűlési Őrség egyenruha-ellátásra jogosult hivatásos állományának ruházati és öltözködési szabályzatáról szóló 64/2012. (XII. 12.) BM rendelet 21. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Ha a ruhaszemle eredményeképpen megállapítást nyer, hogy a hivatásos állományt nem kell természetbeni ellátmányban részesíteni, abban az esetben a következő évi utánpótlási ellátmányt pénzben kell kifizetni. Ha a ruhaszemle eredményeképpen a természetbeni ellátás szükségessé válik, akkor a Hszt. 175. § (3) bekezdésében meghatározott, a ruházati utánpótlási ellátmány kiadásának rendjére vonatkozó rendeletet úgy kell előkészíteni, hogy a rendészetért felelős miniszter azt a tárgyév április 15-éig kiadhassa.”
