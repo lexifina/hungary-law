@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-12-20-5
 | 2015-01-01 | 2014-12-20-5Z.1 | 12/2014. (XII. 13.) MEKH rendelet |
 | 2015-01-02 | 2014-12-20-5Z.2 | 2010: CXXX. törvény |
 | 2015-05-01 | 2014-12-20-5Z.3 | 2/2015. (IV. 14.) MEKH rendelet |
+| 2015-07-01 | 2014-12-20-5Z.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
