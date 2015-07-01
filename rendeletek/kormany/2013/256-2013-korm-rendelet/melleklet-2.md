@@ -1,3 +1,3 @@
-2. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^29]
+2. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^31]
 
-[^29]: A 2. melléklet a 394/2013. (XI. 14.) Korm. rendelet 3. § (2) bekezdése, a 40/2014. (II. 24.) Korm. rendelet 18. § (1) bekezdése, a 364/2014. (XII. 30.) Korm. rendelet 107. §-a, a 30/2015. (II. 25.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.
+[^31]: A 2. melléklet a 394/2013. (XI. 14.) Korm. rendelet 3. § (2) bekezdése, a 40/2014. (II. 24.) Korm. rendelet 18. § (1) bekezdése, a 364/2014. (XII. 30.) Korm. rendelet 107. §-a, a 30/2015. (II. 25.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.

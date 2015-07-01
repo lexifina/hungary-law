@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2014-03-01 | 2013-256-20-22.7 | 40/2014. (II. 24.) Korm. rendelet |
 | 2015-01-01 | 2013-256-20-22.8 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2015-03-01 | 2013-256-20-22.9 | 30/2015. (II. 25.) Korm. rendelet |
+| 2015-07-01 | 2013-256-20-22.10 | 162/2015. (VI. 30.) Korm. rendelet |
