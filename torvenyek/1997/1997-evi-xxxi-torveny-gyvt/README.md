@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2015-01-01 | 2014. évi CI. törvény | 1997-31-00-00.76 |
 | 2015-03-01 | 2014. évi XCIX. törvény | 1997-31-00-00.77 |
 | 2015-04-01 | 2015. évi VI. törvény | 1997-31-00-00.78 |
+| 2015-07-01 | 2015. évi LXIII. törvény | 1997-31-00-00.79 |

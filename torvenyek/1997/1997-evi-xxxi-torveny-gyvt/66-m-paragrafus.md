@@ -14,7 +14,7 @@ b) javítóintézetben ellátott fiatalkorú: az a) pont szerinti, valamint az e
 
 (3) A javítóintézetben a fiatalkorúak nevelését, ellátását legfeljebb tizenkettő fős csoportokban kell biztosítani. Az értelmi fogyatékossággal élő, szenvedélybeteg vagy súlyos beilleszkedési zavarokkal, személyiségzavarokkal küzdő fiatalkorúak számára létrehozott speciális csoportokban legfeljebb nyolc fő helyezhető el.
 
-(4) A javítóintézetben nevelt fiatalkorú gyógyulása érdekében a javítóintézet igazgatója a javítóintézet orvosának véleménye, valamint indokolt esetben a megkeresett szakorvos vagy az országos gyermekvédelmi szakértői bizottság javaslata alapján betegszabadságot engedélyezhet.
+(4)
 
 (5) A nevelésbe vett, javítóintézetben ellátott fiatalkorú családi pótlékának felhasználható részét a fiatalkorú teljes körű ellátására vagy teljes körű ellátásának kiegészítésére kell fordítani, így különösen ruházattal, szabadidő-eltöltéshez, kulturálódáshoz, játékhoz, sporthoz szükséges eszközökkel való ellátására, fejlesztésére, tehetségének gondozására, továbbá a fiatalkorú zsebpénzének biztosítására.
 

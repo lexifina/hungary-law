@@ -11,7 +11,3 @@ c) az örökbefogadás utánkövetésére vonatkozó, 135. § (5) bekezdés c) p
 (3) Az egységes örökbefogadási nyilvántartásnak a 141/E. § (2) bekezdése szerinti teljes adattartalommal 2014. július 1-jétől kell működnie.
 
 (4) A területi gyermekvédelmi szakszolgálat az (1) bekezdés szerinti adatokat 2014. január 1-jétől kizárólag az egységes örökbefogadási nyilvántartásba tölti fel, azokat a 141. § (1) bekezdés c) pontja szerinti saját nyilvántartásába nem veszi fel.
-
-(5) A területi gyermekvédelmi szakszolgálat és az örökbefogadást elősegítő közhasznú szervezet
-
-a) a (2) bekezdés szerinti adatokat és az azokban bekövetkezett változásokat 2014. március 14-éig a 141. § (1) bekezdés c) pontja, illetve a 141/B. § szerinti saját nyilvántartásában vezeti, és
