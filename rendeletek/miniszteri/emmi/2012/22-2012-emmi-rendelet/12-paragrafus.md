@@ -6,7 +6,7 @@
 
 (4) A katonai vagy polgári szolgálat szakgyakorlati időnek minősül, ha azt a jelölt a választott szakképesítésnek megfelelő, szakképző hellyé minősített képzőhelyen töltötte.
 
-(5) A szakgyakorlati időbe legfeljebb három hónap keresőképtelen állományban töltött idő számítható be.
+(5)[^13] A szakgyakorlati időbe legfeljebb hat hónap keresőképtelen állományban töltött idő számítható be.
 
 (6) A külföldön letöltött gyakorlati idő a szakképzésbe szakgyakorlati időként beszámítható. A gyakorlati idő beszámításáról az egyetemnek a képzés szerint illetékes dékánja dönt az alábbi szempontok figyelembevételével:
 
@@ -16,10 +16,21 @@ b) a képzés tartalma, tematikája, és az elsajátított és igazolt gyakorlat
 
 (7) Az egyetemnek a képzés szerint illetékes dékánja a külföldön töltött gyakorlati időnek a törzsképzési időbe történő beszámítását is engedélyezheti a (6) bekezdésben foglalt szempontok figyelembevételével, amennyiben a jelölt a szakgyakorlati időnél hosszabb külföldi, a szakképzésnek megfelelő gyakorlati időt igazol és kiemelkedő tudományos tevékenységet végez.
 
-(8) A nappali tagozaton végzett PhD tanulmányokból vagy a szakképesítés megkezdése előtt letöltött gyakorlati időből – az egyetem döntésétől függően – legfeljebb egy év a szakgyakorlati időbe beszámítható. Az egyetem a PhD tanulmányokból további, legfeljebb 6 hónap képzési idő beszámítását is engedélyezheti, amennyiben a jelölt a szakképesítésnek megfelelő kiemelkedő tudományos tevékenységet igazol.
+(8)[^14] Az államilag támogatott doktori képzés keretében folytatott tanulmányokból – az egyetem döntésétől függően – legfeljebb egy év a szakgyakorlati időbe beszámítható. Az egyetem a PhD tanulmányokból további, legfeljebb 6 hónap képzési idő beszámítását is engedélyezheti, ha a jelölt a szakképesítésnek megfelelő, kiemelkedő tudományos tevékenységet igazol.
 
-(9) Ráépített szakképzés megszerzéséhez szükséges szakgyakorlati időbe beszámítás nem lehetséges.
+(9)[^15] Ráépített szakképesítés megszerzéséhez szükséges képzési időbe a korábban teljesített gyakorlat – az egyetem döntése alapján – beszámítható, azzal, hogy
+
+a) a beszámított gyakorlat mértéke nem haladhatja meg az e rendeletben meghatározott képzési idő kétharmadát és
+
+b) más szakképzés teljesítéséhez szükséges gyakorlati idő a ráépített képzésbe egyidejűleg nem számítható be.
 
 (10) Az R.1. szerint ráépített, azonban e rendelet szerint alap szakképesítésként megszerezhető szakképesítések esetében a korábbi ismeretek beszámításával, az R.1.-ben meghatározott képzési idő alatt teljesíthető az alap szakképesítés, amennyiben a képzésre jelentkező az R.1.-ben bemeneti követelményként meghatározott, 5 évnél nem régebben megszerzett szakképesítéssel rendelkezik.
 
 (11) A (2) bekezdés és az (5)–(7) bekezdés szerinti döntés ellen a jelölt jogorvoslattal élhet. A jogorvoslati kérelmet az egyetem rektorához kell benyújtani a döntés kézhezvételétől számított 15 napon belül.
+
+(12)[^16] A szakképzés megkezdése előtt magyarországi egészségügyi szolgáltatónál teljesített gyakorlati idő a szakképzésbe beszámítható. A külföldön töltött gyakorlati idő beszámításánál a (6) és a (7) bekezdésben foglaltakat kell alkalmazni.
+
+[^13]: A 12. § (5) bekezdése a 34/2015. (VI 30.) EMMI rendelet 26. §-a szerint módosított szöveg.
+[^14]: A 12. § (8) bekezdése a 34/2015. (VI 30.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^15]: A 12. § (9) bekezdése a 34/2015. (VI 30.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^16]: A 12. § (12) bekezdését a 34/2015. (VI 30.) EMMI rendelet 22. § (2) bekezdése iktatta be.

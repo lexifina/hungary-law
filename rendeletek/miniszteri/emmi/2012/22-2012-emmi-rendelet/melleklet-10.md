@@ -1,4 +1,4 @@
-10. melléklet a 22/2012. (IX. 14.) EMMI rendelethez
+10. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^26]
 
 ## Egyéb egészségügyi felsőfokú szakirányú szakképzési programok
 
@@ -10,13 +10,15 @@
 
 Egyetemi vagy mesterképzési szakon
 
-a) a kémia tudomány,
+a) a kémia tudomány területén megszerzett,
 
-b) a biológia tudomány vagy
+b) a biológia tudomány területén megszerzett,
 
-c) a laboratóriumi diagnosztika
+c) a laboratóriumi diagnosztika területén megszerzett vagy
 
-területén megszerzett szakképzettség
+d) orvosi biotechnológia
+
+szakképzettség
 
 1.1.2. Képzési idő: 48 hó
 
@@ -179,3 +181,5 @@ e) 6 hó molekuláris genetikai tárgyú tudományos projekt
 2.1.4. Szakvizsgára bocsátás egyéb feltételei
 
 A kötelező gyakorlat egyetemi klinikai kémiai/biokémiai intézetben vagy az egyetem által a szakirányú szakképzésbe bevont diagnosztikai laboratóriumban végezhető el.
+
+[^26]: A 10. melléklet a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés e) pontja szerint módosított szöveg.

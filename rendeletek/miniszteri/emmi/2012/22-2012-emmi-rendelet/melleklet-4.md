@@ -768,15 +768,7 @@
 
 ## 19. KÉZSEBÉSZET
 
-## 1. Képzés belépési feltétele:
-
-## a) gyermeksebészet
-
-## b) ortopédia és traumatológia (ortopédia, traumatológia) vagy
-
-## c) sebészet
-
-## szakvizsga
+## 1. Képzés belépési feltétele: ortopédia és traumatológia (ortopédia, traumatológia) szakvizsga
 
 ## 2. Képzési idő: 96 hó: 72 hó alapképzés + 24 hó ráépített képzés
 
@@ -798,13 +790,13 @@
 
 ## 3. Képzési program:
 
-## a) 1 hó gyakorlat klinikai fázis I. gyógyszervizsgálatok végzésére kijelölt, klinikai farmakológiai ellátóhelyen
+## a) 2 hó gyakorlat klinikai fázis I. gyógyszervizsgálatok végzésére kijelölt, klinikai farmakológiai ellátóhelyen
 
-## b) 23 hó gyakorlat klinikán, kórházban működő vizsgálóhelyen (humán fázis II., III. és IV. vizsgálatok)
+## b) 22 hó gyakorlat klinikán, kórházban működő vizsgálóhelyen (humán fázis II., III. és IV. vizsgálatok)
 
 ## c) egyetemi akkreditált GCP tanfolyam elvégzése
 
-## d) 4x4 napos elméleti képzés a négy orvosegyetem által közösen rendezett, az egyetemek által akkreditált és az OFTEX honlapon közösen meghirdetett tanfolyamon (szemeszterenként egy 4 napos ciklus).
+## d) Minimálisan 4 napos szakvizsga felkészítő tanfolyam. A kontakt-oktatást egészítik ki az oktatók által kijelölt, az interneten elérhető EMA útmutatók, irányelvek, valamint a hazai vonatkozó jogi szabályozás személyes felkészülés keretében történő elsajátítása. Az oktató egyetemek ennél hosszabb tanfolyamok elvégzését saját hatáskörükben javasolhatják.
 
 ## 4.) Szakvizsgára bocsátás egyéb feltételei
 

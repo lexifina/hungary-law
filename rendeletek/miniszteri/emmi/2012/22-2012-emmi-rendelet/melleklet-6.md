@@ -1,4 +1,4 @@
-6. melléklet a 22/2012. (IX. 14.) EMMI rendelethez
+6. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^25]
 
 ## Szakgyógyszerészi ráépített képzési programok
 
@@ -22,7 +22,7 @@ b) részvétel az illetékes szakképzési grémium által meghirdetett speciál
 
 2. INFEKTOLÓGIAI GYÓGYSZERÉSZET
 
-2.1. Képzés belépési feltétele: kórházi-klinikai gyógyszerészi szakvizsga
+2.1. Képzés belépési feltétele: kórházi-klinikai szakgyógyszerészi szakvizsga, vagy az R.1. alapján megszerzett gyógyszerészi mikrobiológia szakvizsga
 
 2.2. Képzési idő: 24 hó
 
@@ -120,9 +120,13 @@ b) részvétel az illetékes szakképzési grémium által meghirdetett speciál
 
 6.1. Képzés belépési feltétele:
 
-a) Kórházi-klinikai gyógyszerészi szakvizsga
+a) kórházi-klinikai gyógyszerészet,
 
-b) Klinikai laboratóriumi gyógyszerészi szakvizsga
+b) farmakológia, farmakoterápia (gyógyszerhatástan) vagy
+
+c) nem klinikai és klinikai gyógyszerkutatás, farmakológia
+
+szakvizsga
 
 6.2. Képzési idő: 24 hó
 
@@ -151,3 +155,5 @@ b) részvétel az illetékes szakképzési grémium által meghirdetett speciál
 a) a szakmai gyakorlat teljesítése akkreditált képzőhelyen
 
 b) részvétel az illetékes szakképzési grémium által meghirdetett speciális szakvizsgára felkészítő tanfolyamokon (izotóp alaptanfolyam, átfogó sugárvédelmi tanfolyam)
+
+[^25]: A 6. melléklet a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés d) pontja szerint módosított szöveg.

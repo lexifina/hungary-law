@@ -1,6 +1,6 @@
-## 17. § Ez a rendelet a szakmai képesítések elismeréséről szóló 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 25. cikkének, 28. cikkének, 35. cikkének és V. melléklete 5.1.2., 5.1.3., 5.1.4. és 5.3.3. pontjának való megfelelést szolgálja.
+## való megfelelést szolgálja.
 
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^11]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^21]
 
 1. Szakorvosi alap szakképesítések
 
@@ -160,7 +160,7 @@
 
 | 29. | csecsemő- és gyermekgyógyászat, háziorvostan | (36-60) + 24 hó |
 
-| 30. | Kézsebészet | gyermeksebészet, ortopédia és traumatológia (ortopédia, traumatológia), sebészet | (72) + 24 hó |
+| 30. | Kézsebészet | ortopédia és traumatológia (ortopédia, traumatológia) | (72) + 24 hó |
 
 | 31. | Klinikai farmakológia | bármely alap szakképesítés | (36-72) + 25 hó |
 
@@ -276,7 +276,7 @@
 
 | 6. | 5. Parenterális gyógyszerelés | Kórházi-klinikai gyógyszerészet | (36 hó) +24 hó |
 
-| 7. | 6. Toxikológia | Kórházi-klinikai gyógyszerészet, Klinikai laboratóriumi gyógyszerészet | (36-58 hó) +24 hó |
+| 7. | 6. Toxikológia | Kórházi-klinikai gyógyszerészet, Klinikai laboratóriumi gyógyszerészet, Farmakológia, farmakoterápia, Nem klinikai és klinikai gyógyszerkutatás, farmakológia (Gyógyszerhatástan) | (36-58 hó) +24 hó |
 
 | 8. | 7. Klinikai radiogyógyszerészet | Kórházi-klinikai gyógyszerészet | (36 hó) +24 hó |
 
@@ -316,7 +316,7 @@
 
 | 2. | 1. Alap szakképesítések |
 
-| 3. | 1.1. Klinikai biokémia | Kémia, biológia, laboratóriumi diagnosztika (egyetemi végzettség vagy MSc) | 48 hó |
+| 3. | 1.1. Klinikai biokémia | Kémia, biológia, laboratóriumi diagnosztika, orvosi biotechnológia (egyetemi végzettség vagy MSc) | 48 hó |
 
 | 4. | 1.2. Klinikai mikrobiológia | Biológia (egyetemi végzettség vagy MSc) | 48 hó |
 
@@ -326,4 +326,4 @@
 
 | 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^11]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja szerint módosított szöveg.

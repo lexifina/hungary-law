@@ -608,7 +608,7 @@
 
 ## HÁZIORVOSTAN A KÜLÖN JOGSZABÁLY SZERINTI EGYÉNI KÉPZÉST TELJESÍTŐKNEK
 
-## A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet 11. § (5) bekezdése alapján megállapított egyéni feltételeknek megfelelően:
+## A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet 11. § (4)–(5) és (8a) bekezdése alapján megállapított egyéni feltételeknek megfelelően:
 
 ## 1. Képzési idő: 36 hónap
 
@@ -780,7 +780,9 @@
 
 ## 3. Szakvizsgára bocsátás egyéb feltételei
 
-## Meghatározott számú és típusú beavatkozás teljesítése.
+## 3.1. Meghatározott számú és típusú beavatkozás elvégzése
+
+## 3.2. A European Association of Neurosurgical Societies írásbeli vizsgájának sikeres teljesítése.
 
 ## 18. IGAZSÁGÜGYI ORVOSTAN
 
@@ -1344,13 +1346,13 @@
 
 ## b) 1 hó törzsképzési tanfolyamok
 
-## c) 5 hó molekuláris biopatológiai (haematológiai/immunológiai) gyakorlat
+## c) 5 hó hematológiai/immunológiai gyakorlat
 
 ## d) 12 hó klinikai biokémiai gyakorlat:
 
 ## da) 6 hó klinikai kémia gyakorlat
 
-## db) 6 hó mikrobiológiai gyakorlat
+## db) 6 hó molekuláris biopatológia gyakorlat
 
 ## 2.2. 36 hó szakgyakorlati képzés:
 
@@ -2186,6 +2188,6 @@
 
 ## Szakvizsga-felkészítő program sikeres teljesítése (évente 5x3 nap elméleti és gyakorlati képzés a teljes urológiai tananyagot felölelően, forgó rendszerben).
 
-3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^13]
+3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^23]
 
-[^13]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
+[^23]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés c) pontja szerint módosított szöveg.
