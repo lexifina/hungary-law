@@ -1,1 +1,3 @@
-## 33. § Az összekötő az ellátmánnyal kapcsolatos túlfizetésből eredő, valamint a külföldön felmerült egyéb tartozását abban a pénznemben köteles megfizetni, amelyben a tartozás fennáll.
+## 33. §[^31]
+
+[^31]: A 33. §-t a 37/2015. (VI. 16.) BM rendelet 15. § (2) bekezdés 17. pontja hatályon kívül helyezte.
