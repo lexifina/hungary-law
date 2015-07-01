@@ -1,6 +1,6 @@
 ## 13. § Ha a védett állomány tagjának állományviszonya a vizsgálat ideje alatt bármilyen okból megszűnik, a vizsgálatot határozattal be kell fejezni.
 
-## 5/A.[^13] Közreműködés a korrupcióellenes tevékenységgel összefüggő kormányzati feladatokban
+## 5/A.[^26] Közreműködés a korrupcióellenes tevékenységgel összefüggő kormányzati feladatokban
 
 ## 13/A. § Az NVSZ
 
@@ -18,4 +18,4 @@ f) előkészíti a korrupcióellenes kommunikációs szakmai anyagokat,
 
 g) részt vesz a nemzetközi együttműködésből, nemzetközi egyezményekből eredő jelentési és képviseleti kötelezettségek ellátásában.
 
-[^13]: Az 5/A. alcímet (13/A. §) a 221/2014. (IX. 4.) Korm. rendelet 497. §-a iktatta be.
+[^26]: Az 5/A. alcímet (13/A. §) a 221/2014. (IX. 4.) Korm. rendelet 497. §-a iktatta be.
