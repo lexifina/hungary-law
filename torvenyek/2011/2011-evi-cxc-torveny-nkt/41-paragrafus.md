@@ -96,6 +96,8 @@ g) az állami vizsgája alapján kiadott bizonyítványainak adatai a bizonyítv
 
 h) a Magyar Honvédség központi személyügyi szerve részére a honvédelemért felelős miniszter által fenntartott köznevelési intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a (4) bekezdés d) és e) pontja szerinti adat,
 
+i) a szakképzésről szóló törvény 46. § (1a) bekezdésében meghatározott igazolás kiállítása és a tanulószerződés megkötésének elősegítése céljából a szakképzésről szóló törvény 87. §-ában meghatározott adat a területileg illetékes gazdasági kamara részére
+
 továbbítható.
 
 (8) A gyermek, a tanuló

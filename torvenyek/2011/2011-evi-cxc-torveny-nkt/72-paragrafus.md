@@ -10,7 +10,7 @@ c) tiszteletben tartsa az óvoda, az iskola, kollégium vezetői, pedagógusai, 
 
 (2) A szülő gyermeke adottságainak, képességeinek, érdeklődésének megfelelően, saját vallási, világnézeti meggyőződésére, nemzetiségi hovatartozására tekintettel szabadon választhat óvodát, iskolát, kollégiumot. A gyermek – ha nem cselekvőképtelen – tizennegyedik életévének betöltésétől a szülő ezt a jogát gyermekével közösen gyakorolhatja.
 
-(3) A halmozottan hátrányos helyzetű gyermek szülőjét megilleti az a jog, hogy gyermeke óvodába járatásához – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározottak szerint – anyagi támogatást kapjon.
+(3)
 
 (4) A szülő joga, hogy gyermeke neveléséhez igénybe vegye a pedagógiai szakszolgálat intézményét. A szülő kötelessége, hogy gyermekével megjelenjen a nevelési tanácsadáson, továbbá biztosítsa gyermekének az iskolapszichológusi, óvodapszichológusi vizsgálaton és a fejlesztő foglalkozásokon való részvételét, ha a tanulóval foglalkozó pedagógusok kezdeményezésére a nevelőtestület erre javaslatot tesz. Ha az e bekezdésében foglalt kötelezettségének a szülő nem tesz eleget, a kormányhivatal kötelezi a szülőt kötelezettségének betartására.
 
