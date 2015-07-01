@@ -1,0 +1,1 @@
+## „(5) A (4) bekezdés szerinti kérelmet a (4) bekezdés a)–c) pontjában foglalt események bekövetkezésétől, a (4) bekezdés d) pontja esetén a 11. § (1) bekezdés q) pontja szerinti igazolás kiállításától számított 90. napig, de legfeljebb a családok otthonteremtési kedvezménye igénybevételéről szóló szerződésben vállalt határidő utolsó napjáig lehet benyújtani.”

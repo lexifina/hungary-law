@@ -1,5 +1,3 @@
-## 17–33. §[^3]
+## 33. § Hatályát veszti az R3. 7. § (4) bekezdésében a „támogatási” szövegrész.
 
 ## 4. Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet módosítása
-
-[^3]: A 17–33. § a 45. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.

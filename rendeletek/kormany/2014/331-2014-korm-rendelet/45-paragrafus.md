@@ -1,4 +1,4 @@
-## 34–44. §[^4]
+## 34–44. §[^13]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 17–33. § 2015. július 1-jén lép hatályba.
 
-[^4]: A 34–44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 34–44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
