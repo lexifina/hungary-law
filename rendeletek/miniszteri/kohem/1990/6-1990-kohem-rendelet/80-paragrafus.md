@@ -20,9 +20,9 @@ amennyiben a biztonsági öv rögzítésére szolgáló rögzítő elemeket gyá
 
 (6) Ki kell cserélni a biztonsági övet, ha védő tulajdonságait befolyásoló maradó alakváltozást szenvedett.
 
-(7)[^164] A gépkocsiba beszerelt gyermekülésnek és rögzítő szerkezeteinek (a továbbiakban: gyermekbiztonsági rendszer) érvényes jóváhagyási jellel ellátottnak kell lennie.
+(7)[^169] A gépkocsiba beszerelt gyermekülésnek és rögzítő szerkezeteinek (a továbbiakban: gyermekbiztonsági rendszer) érvényes jóváhagyási jellel ellátottnak kell lennie.
 
-(8)[^165] A gyermekbiztonsági rendszert a gyártója által megadott szerelési információk alkalmazásával kell beszerelni, amelyek meghatározzák azt is, hogy a rendszer hogyan és mely járműtípusokban használható biztonságos módon.
+(8)[^170] A gyermekbiztonsági rendszert a gyártója által megadott szerelési információk alkalmazásával kell beszerelni, amelyek meghatározzák azt is, hogy a rendszer hogyan és mely járműtípusokban használható biztonságos módon.
 
-[^164]: A 80. § (7) bekezdését a 31/2014. (VI. 27.) NFM rendelet 1. §-a iktatta be.
-[^165]: A 80. § (8) bekezdését a 31/2014. (VI. 27.) NFM rendelet 1. §-a iktatta be.
+[^169]: A 80. § (7) bekezdését a 31/2014. (VI. 27.) NFM rendelet 1. §-a iktatta be.
+[^170]: A 80. § (8) bekezdését a 31/2014. (VI. 27.) NFM rendelet 1. §-a iktatta be.

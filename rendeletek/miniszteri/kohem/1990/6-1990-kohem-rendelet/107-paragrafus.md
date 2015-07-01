@@ -1,6 +1,6 @@
 ## Tűzoltókészülékre vonatkozó üzemeltetési műszaki feltételek
 
-107. § (1)[^184] Tehergépkocsin, mezőgazdasági vontatón és lassú járművön a járműtűz eloltására
+107. § (1)[^189] Tehergépkocsin, mezőgazdasági vontatón és lassú járművön a járműtűz eloltására
 
 a) 3500 kg-ot meghaladó, de legfeljebb 12 000 kg megengedett legnagyobb össztömegű jármű esetében 1 db 6 kg-os,
 
@@ -30,7 +30,7 @@ vagy
 
 szabványos, porral oltó tűzoltókészüléket kell készenlétben tartani.
 
-(3)[^185] Az (1)–(2) bekezdésekben meghatározott tűzoltó készülékek a következő, szabvány[^186] szerinti oltási képességű egyéb oltóanyaggal működő tűzoltó készülékkel helyettesíthetőek:
+(3)[^190] Az (1)–(2) bekezdésekben meghatározott tűzoltó készülékek a következő, szabvány[^191] szerinti oltási képességű egyéb oltóanyaggal működő tűzoltó készülékkel helyettesíthetőek:
 
 a) a 3 kg-os porral oltó készülék 1 db 5A és 34B,
 
@@ -38,11 +38,11 @@ b) a 6 kg-os készülék 1 db 13A és 89B,
 
 c) a 12 kg-os készülék 1 db 34A és 144B.
 
-(4)[^187] A veszélyes anyagot szállító járművön a veszélyes áruk közúti szállítására vonatkozó jogszabályban előírtaknak megfelelő, de legalább az (1) bekezdés szerinti tűzoltó készüléket kell készenlétben tartani.
+(4)[^192] A veszélyes anyagot szállító járművön a veszélyes áruk közúti szállítására vonatkozó jogszabályban előírtaknak megfelelő, de legalább az (1) bekezdés szerinti tűzoltó készüléket kell készenlétben tartani.
 
 (5) A porral oltó tűzoltó készüléket függőlegesen vagy a függőlegestől legfeljebb 15 fokos szöggel eltérő helyzetben kell a járművön készenlétben tartani.
 
-[^184]: A 107. § (1) bekezdése a 106/2007. (XII. 23.) GKM rendelet 1. §-ával megállapított szöveg.
-[^185]: A 107. § (3)-4 bekezdését a 21/1998. (IX. 11.) KHVM rendelet 3. §-ának (5) bekezdése állapította meg, mely egyidejűleg (5) bekezdést is iktatott a szövegbe.
-[^186]: Lásd MSZ EN 3.
-[^187]: A 107. § (4) bekezdése a 90/2006. (XII. 26.) GKM rendelet 4. §-ával megállapított szöveg.
+[^189]: A 107. § (1) bekezdése a 106/2007. (XII. 23.) GKM rendelet 1. §-ával megállapított szöveg.
+[^190]: A 107. § (3)-4 bekezdését a 21/1998. (IX. 11.) KHVM rendelet 3. §-ának (5) bekezdése állapította meg, mely egyidejűleg (5) bekezdést is iktatott a szövegbe.
+[^191]: Lásd MSZ EN 3.
+[^192]: A 107. § (4) bekezdése a 90/2006. (XII. 26.) GKM rendelet 4. §-ával megállapított szöveg.

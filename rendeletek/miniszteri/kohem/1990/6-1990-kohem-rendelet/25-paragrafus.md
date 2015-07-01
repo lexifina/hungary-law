@@ -1,16 +1,16 @@
-## Alvázszámra és motorszámra és adattáblára vonatkozó üzemeltetési műszaki feltételek[^87]
+## Alvázszámra és motorszámra és adattáblára vonatkozó üzemeltetési műszaki feltételek[^91]
 
 25. § (1) A gépjármű, a mezőgazdasági vontató, a lassú jármű és a pótkocsi alvázán vagy az alváz szerepét betöltő szerkezeti részén (a továbbiakban együtt: alváz) egyedi azonosítási jelnek (a továbbiakban: alvázszám) kell lennie. Az alvázszámot nem szabad eltüntetni, megváltoztatni.
 
-(2)[^88] A gépjármű, a mezőgazdasági vontató és a lassú jármű hajtómotorja a gyártója által egyedi azonosítási jellel, illetőleg a hajtómotor egyedi azonosítására nem szolgáló típus azonosító jellel (a továbbiakban együtt: motorszám) látható el. Amennyiben a hajtómotort motorszámmal látták el, az a jármű azonosító jelének tekintendő és azt nyilvántartásba kell venni. A motorszámot nem szabad eltüntetni, megváltoztatni.
+(2)[^92] A gépjármű, a mezőgazdasági vontató és a lassú jármű hajtómotorja a gyártója által egyedi azonosítási jellel, illetőleg a hajtómotor egyedi azonosítására nem szolgáló típus azonosító jellel (a továbbiakban együtt: motorszám) látható el. Amennyiben a hajtómotort motorszámmal látták el, az a jármű azonosító jelének tekintendő és azt nyilvántartásba kell venni. A motorszámot nem szabad eltüntetni, megváltoztatni.
 
-(3)[^89] Az (1) bekezdésben említett alvázszámot csak a gyártó – ideértve a gyártó és a közlekedési hatóság által együttesen felhatalmazott hazai gyártói képviseletet is –, illetőleg a közlekedési hatóság tüntetheti fel a járművön. Az egyedi azonosításra alkalmatlanná vált alvázszám helyreállítására, illetőleg a járműnek a közlekedési hatóság által meghatározott és nyilvántartásba vett alvázszámmal (közlekedési hatósági alvázszám) történő ellátására vonatkozó további feltételeket külön jogszabály[^90] határozza meg.
+(3)[^93] Az (1) bekezdésben említett alvázszámot csak a gyártó – ideértve a gyártó és a közlekedési hatóság által együttesen felhatalmazott hazai gyártói képviseletet is –, illetőleg a közlekedési hatóság tüntetheti fel a járművön. Az egyedi azonosításra alkalmatlanná vált alvázszám helyreállítására, illetőleg a járműnek a közlekedési hatóság által meghatározott és nyilvántartásba vett alvázszámmal (közlekedési hatósági alvázszám) történő ellátására vonatkozó további feltételeket külön jogszabály[^94] határozza meg.
 
-(4)[^91] Ha a járművön gyárilag rögzített adattábla van, azt nem szabad eltüntetni vagy megváltoztatni.
+(4)[^95] Ha a járművön gyárilag rögzített adattábla van, azt nem szabad eltüntetni vagy megváltoztatni.
 
-(5)[^92] A nemzetközi forgalomban használt M2 és M3 kategóriájú gépkocsikat és ezek O kategóriába sorolt pótkocsijait, valamint az N2 és N3 kategóriába sorolt gépkocsikat és ezek O3 és O4 kategóriába sorolt pótkocsijait mérettáblával kell ellátni. A mérettáblát a gyári tábla mellé, vagy azzal összevontan kell kialakítani.
+(5)[^96] A nemzetközi forgalomban használt M2 és M3 kategóriájú gépkocsikat és ezek O kategóriába sorolt pótkocsijait, valamint az N2 és N3 kategóriába sorolt gépkocsikat és ezek O3 és O4 kategóriába sorolt pótkocsijait mérettáblával kell ellátni. A mérettáblát a gyári tábla mellé, vagy azzal összevontan kell kialakítani.
 
-(6)[^93] A mérettábla a következő adatokat tartalmazza:
+(6)[^97] A mérettábla a következő adatokat tartalmazza:
 
 1. a gyártó neve;
 
@@ -28,13 +28,13 @@ b) távolság a pótkocsi csatlakozó-berendezésének középpontja (vonószem)
 
 A járműszerelvény hosszának meghatározásakor az összekapcsolt vonójármű és pótkocsi hossztengelye egybe kell essen.
 
-(7)[^94] A (6) bekezdés 1. és 2. pontjában meghatározott adatokat nem kell megismételni, ha a járművön a gyári táblát és a mérettáblát összevontan alakították ki.
+(7)[^98] A (6) bekezdés 1. és 2. pontjában meghatározott adatokat nem kell megismételni, ha a járművön a gyári táblát és a mérettáblát összevontan alakították ki.
 
-[^87]: A 25. § címe a 12/2000. (V. 24.) KHVM rendelet 5.§-ának (1) bekezdésével megállapított szöveg.
-[^88]: A 25. § (2) bekezdése a 44/2001. (XII. 28.) KöViM rendelet 5. §-ával megállapított szöveg.
-[^89]: A 25. § (3) bekezdése a 44/2001. (XII. 28.) KöViM rendelet 5. §-ával megállapított, a 95/2006. (XII. 27.) GKM rendelet 13. § e) pontja, a 67/2009. (XI. 27.) KHEM rendelet 9. § (4) és (8) bekezdése szerint módosított szöveg.
-[^90]: Lásd a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendeletet.
-[^91]: A 25. § (4) bekezdését a 12/2000. (V. 24.) KHVM rendelet 5.§-ának (3) bekezdése iktatta be.
-[^92]: A 25. § (5) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 5. §-a iktatta be.
-[^93]: A 25. § (6) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 5. §-a iktatta be.
-[^94]: A 25. § (7) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 5. §-a iktatta be.
+[^91]: A 25. § címe a 12/2000. (V. 24.) KHVM rendelet 5.§-ának (1) bekezdésével megállapított szöveg.
+[^92]: A 25. § (2) bekezdése a 44/2001. (XII. 28.) KöViM rendelet 5. §-ával megállapított szöveg.
+[^93]: A 25. § (3) bekezdése a 44/2001. (XII. 28.) KöViM rendelet 5. §-ával megállapított, a 95/2006. (XII. 27.) GKM rendelet 13. § e) pontja, a 67/2009. (XI. 27.) KHEM rendelet 9. § (4) és (8) bekezdése szerint módosított szöveg.
+[^94]: Lásd a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendeletet.
+[^95]: A 25. § (4) bekezdését a 12/2000. (V. 24.) KHVM rendelet 5.§-ának (3) bekezdése iktatta be.
+[^96]: A 25. § (5) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 5. §-a iktatta be.
+[^97]: A 25. § (6) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 5. §-a iktatta be.
+[^98]: A 25. § (7) bekezdését a 19/2009. (IV. 16.) KHEM rendelet 5. §-a iktatta be.

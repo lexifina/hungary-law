@@ -210,7 +210,7 @@
 
 | 46D. | 661/2009 |  | 117 | 02 | Gördülési zaj és nedves tapadás, gördülési ellenállás | + | + | – |
 
-| 46E. | 661/2009 |  | 64 | 02 | Ideiglenes pótkerék és abroncsnyomás ellenőrző rendszer | + |  | + |
+| 46 E. | 661/2009 |  | 64 | 02 | Ideiglenes pótkerék és abroncsnyomás ellenőrző rendszer | + | – | – |
 
 | 47A. | 2007/46 661/2009 |  | 89 | 00 | Sebességkorlátozó készülék és beépítése |  | + | + |
 
@@ -260,6 +260,8 @@
 
 | 70. | 661/2009 |  | 110 | 00 | Nagy nyomású földgázzal (CNG) üzemelő rendszerek különleges alkatrészei és azok beszerelése a járműbe |  | + | C |
 
+| 71. | 661/2009 |  | 29 |  | Vezető- fülke szilárdsága |  | + | C |
+
 ## Megjegyzés
 
 ## (1) Az alkalmazási kört, az alkalmazási kötelezettség hatálybalépését és az arra vonatkozó átmeneti rendelkezéseket lásd az MR. megfelelő műszaki területét szabályozó táblázat szerinti rendeletben.
@@ -288,7 +290,7 @@
 
 ## jóváhagyási kötelezettségek
 
-## 4K14731M_1
+## 5K16681M_1
 
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
@@ -490,6 +492,6 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^232]
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^238]
 
-[^232]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+[^238]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.

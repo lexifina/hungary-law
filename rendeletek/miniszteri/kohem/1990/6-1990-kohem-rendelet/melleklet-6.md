@@ -74,13 +74,21 @@
 
 | 1 | – katalizátoros, nem szabályozott keverékképzésű, Otto-motoros; |
 
-| 2 |  |
+| 2 | – katalizátoros, szabályozott keverékképzésű, Otto-motoros [kivéve a 4. osztályba sorolt ENSZ-EGB 83.02/B. előírás (Euro-II.) szerinti jóváhagyási jellel ellátott gépjárművet]1; |
 
 | 3 | – az ENSZ-EGB 83.01/C, vagy 49.02/A előírás (EURO-I.) szerinti jóváhagyási jellel ellátott, Dízel-motoros; |
 
-| 4 |  |
+| 4 | – az ENSZ-EGB 83.02/B. előírás (Euro-II.) szerinti jóváhagyási jellel ellátott – katalizátoros, szabályozott keverékképzésű – Otto-motoros1, – az ENSZ-EGB 83.02/C, 83.03/C, 83.03/D, 83.04/C, 83.04/D, illetőleg a 49.02/B és 51.02 előírások (EURO-II.) szerinti jóváhagyási jellel ellátott Dízel-motoros; |
 
 | 5 | – tiszta gázüzemű- vagy elektromos meghajtású, illetőleg – hibrid (a gépjárművet meghajtó elektromos-, valamint Otto- vagy Dízel-motorral is ellátott) hajtású(9); |
+
+| 5E. | – tisztán elektromos gépkocsi; |
+
+| 5N. | – növelt hatótávolságú külső töltésű hibrid elektromos gépkocsi; |
+
+| 5P. | – külső töltésű hibrid elektromos gépkocsi (plug-in hibrid gépkocsi) |
+
+| 5Z. | – egyéb nulla emissziós gépkocsi; |
 
 | 6 | – katalizátoros, szabályozott keverékképzésű, az ENSZ-EGB 83.05 előírás B jóváhagyás A. szintje2 szerint jóváhagyott, OBD-rendszerrel ellátott Otto-motoros (EURO-III.); |
 
@@ -106,11 +114,11 @@
 
 ## 1 Az 1996. január 1. napját követően az Európai Gazdasági Térségről szóló megállapodásban részes államban újként forgalomba helyezett katalizátoros, szabályozott keverékképzésű, Otto-motoros gépkocsit az ENSZ-EGB 83.02/B. jelű jóváhagyási jellel ellátottnak kell tekinteni és a forgalomba helyezés engedélyezésekor, illetőleg a gépkocsi üzembentartójának kérelmére a 4. környezetvédelmi osztályba kell besorolni/átsorolni.
 
-## 2 Az MR. A. Függelék A/2. melléklet I. rész 5.3.1.4. pont táblázatának „A” jelzésű sorában, illetőleg az ENSZ-EGB 83.05 előírás 5.3.1. szakasz szerinti I típusú vizsgálat során az 5.3.1.4. pont táblázatának „A” jelzésű sorában meghatározott határértékek szerinti jóváhagyás (RI).
+## 2
 
 ## 3 Az MR. A. Függelék A/41. melléklet II. fejezet 6.2.1. pont táblázatának „A” jelzésű sorában, illetőleg az ENSZ-EGB 49.03 előírás 5. szakasz 5.2.1. pont táblázata(i) „A” jelzésű sorában meghatározott határértékek szerinti jóváhagyás (RI).
 
-## 4 Az MR. A. Függelék A/2. melléklet I. rész 5.3.1.4. pont táblázatának „B” jelzésű sorában, illetőleg az ENSZ-EGB 83.05 előírás 5.3.1. szakasz szerinti I típusú vizsgálat során az 5.3.1.4. pont táblázatának „B” jelzésű sorában meghatározott határértékek szerinti jóváhagyás (RII).
+## 4
 
 ## 5 Az MR. A. Függelék A/41. melléklet II. fejezet 6.2.1. pont táblázatának „B1” jelzésű sorában, illetőleg az ENSZ-EGB 49.03 előírás 5. szakasz 5.2.1. pont táblázata(i) „B1” jelzésű sorában meghatározott határértékek szerinti jóváhagyás (RII).
 
@@ -122,12 +130,18 @@
 
 ## (9) A hibrid hajtású gépjárművet az 5. környezetvédelmi osztálynál magasabb – a belsőégésű motorja által meghatározott – környezetvédelmi osztályba kell besorolni, amennyiben a meghajtó belsőégésű motor legalább Euro-III. jóváhagyású.
 
+## Amennyiben a gépkocsi megfelel az 5E, az 5N, vagy az 5P környezetvédelmi osztályba sorolás feltételeinek, akkor a jármű üzembentartójának kérelmére
+
+## – az 5. környezetvédelmi osztályba sorolt gépkocsi átsorolható 5E, 5N, vagy 5P környezetvédelmi osztályba, és
+
+## – ha a hibrid hajtású gépkocsi az 5. környezetvédelmi osztálynál magasabb osztályba lett besorolva, akkor átsorolható a megfelelő 5E, 5N, vagy 5P környezetvédelmi osztályba.
+
 ## (10) Az Euro 5. kibocsátási határértéket a 692/2008/EK bizottsági rendelet XVII. mellékletével (2008.07.28. HL 199. p130) és az 566/2011/EU bizottsági rendelettel (2011.06.08., HL 158. p1) módosított, a könnyű személy- gépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási és - karbantartási információk elérhetőségéről szóló 715/2007/EK európai parlamenti és tanácsi rendelet I. melléklet 1. táblázata határozza meg.
 
 ## (11) Az Euro 6. kibocsátási határértéket a 692/2008/EK bizottsági rendelet XVII. mellékletével (2008.07.28. HL 199 p130), az 566/2011/EU bizottsági rendelettel (2011.06.08., HL 158. p1) és a 459/2012/EU rendelettel (2012.6.1., HL 142. p16-24) módosított, a könnyű személy- gépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási- és karbantartási információk elérhetőségéről szóló, 2007. június 20-i 715/2007/EK európai parlamenti és tanácsi rendelet I. melléklet 2. táblázata határozza meg.
 
 ## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^239]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^245]
 
-[^239]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^245]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
