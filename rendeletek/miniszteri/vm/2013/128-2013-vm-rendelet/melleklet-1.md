@@ -1,4 +1,4 @@
-## 4. §[^1]
+## 4. §[^3]
 
 1. melléklet a 128/2013. (XII. 20.) VM rendelethez
 
@@ -12,4 +12,4 @@
 
 | 3 | VM Kelet-magyarországi Agrár-szakképző Központ, Mezőgazdasági Szakképző Iskola és Kollégium VM ASzK – Bartha János Kertészeti Szakképző Iskolája VM ASzK – Mátra Erdészeti, Mezőgazdasági és Vadgazdálkodási Szakképző Iskolája és Kollégiuma VM ASzK – Pétervásári Mezőgazdasági Szakképző Iskolája és Kollégiuma | 6440 Jánoshalma Béke tér 13. 6600 Szentes Kossuth u. 45. 3232 Mátrafüred Erdész u. 11. 3250 Pétervására Keglevich út 19. |
 
-[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
