@@ -16,11 +16,13 @@ b) a szakértői bizottság szakértői véleménye alapján mozgásszervi, érz
 
 c) három vagy több kiskorú, illetve eltartott gyermeket nevelő családban él,
 
-d) nagykorú és saját jogán iskoláztatási támogatásra jogosult, vagy
+d) nagykorú és saját jogán iskoláztatási támogatásra jogosult,
 
-e) rendszeres gyermekvédelmi kedvezményben részesül
+e) rendszeres gyermekvédelmi kedvezményben részesül, vagy
 
-a tankönyvek ingyenesen álljanak rendelkezésre (a továbbiakban: normatív kedvezmény). A gyermekvédelmi gondoskodásban részesülő – nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben nevelkedő – ideiglenes hatállyal elhelyezett, átmeneti vagy tartós nevelésbe vett tanuló után nem vehető igénybe a normatív kedvezmény.
+f) a gyermekvédelmi gondoskodás keretében nevelésbe vett vagy utógondozói ellátásban részesül
+
+a tankönyvek ingyenesen álljanak rendelkezésre (a továbbiakban: normatív kedvezmény). A nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben ideiglenes hatállyal elhelyezett tanuló után nem vehető igénybe a normatív kedvezmény.
 
 (3) Abban a kérdésben, hogy a normatív kedvezményre való jogosultság elbírálásánál kit kell
 
