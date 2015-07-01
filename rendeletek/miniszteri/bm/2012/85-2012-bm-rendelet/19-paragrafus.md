@@ -1,27 +1,19 @@
-## 6. Távolléti díj
+## 6. [^13] Ideiglenes külföldi kiküldetés és költségtérítés
 
-19. § (1) Távolléti díj számítása szempontjából rendszeres illetménypótléknak minősül:
+19. § (1) Ezen alcím rendelkezéseit kell alkalmazni a három hónapot nem meghaladó tartamú külföldi szolgálatteljesítés (a továbbiakban: ideiglenes külföldi kiküldetés) során felmerült és elszámolható költségek megtérítésére.
 
-a) a szolgálati időpótlék,
+(2) Nem tartozik a rendelet hatálya alá a Hszt. 69. § (1) bekezdés a)–c) pontjában meghatározott okból történő vagy a d) pontja alapján három hónapot meghaladó tartamú külföldi szolgálatteljesítés.
 
-b) az idegennyelv-tudási pótlék,
+(3) A kiküldetés elrendelésének rendjét és feltételeit a rendvédelmi szerv – vagy a vezényeltek esetében a fogadó szerv – vezetője belső szabályzatban állapítja meg.
 
-c) a nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek, valamint biológiai anyag feldolgozása közben fertőzés veszélyének kitett beosztásban szolgálatot teljesítők pótléka,
+(4) Az ideiglenes külföldi kiküldetést teljesítő (e fejezet alkalmazásában a továbbiakban: kiküldött) külföldi tartózkodása során elszámolásos költségtérítés illeti meg, amely magában foglalja:
 
-d) a közterületi pótlék,
+a) a napidíjat,
 
-e) a veszélyes tűzoltói beosztás pótléka,
+b) a szállásköltséget,
 
-f) a gépjárművezetői pótlék,
+c) az utazási költséget,
 
-g) a nyomozói pótlék,
+d) a kiküldetéshez kapcsolódó egyéb dologi költségeket.
 
-h) a tanácsosi címpótlék,
-
-i) a főtanácsosi címpótlék,
-
-j) a vezetői illetménypótlék,
-
-k) az Országgyűlési Őrség állományának pótléka.
-
-(2) A távolléti díj összegének megállapításakor az alapilletménynek, illetménykiegészítésnek és rendszeres illetménypótlékoknak az esedékesség időpontjában érvényes összegét kell figyelembe venni.
+[^13]: A 6. alcím (19–19/E. §) a 35/2015. (VI. 16.) BM rendelet 5. §-ával megállapított szöveg.

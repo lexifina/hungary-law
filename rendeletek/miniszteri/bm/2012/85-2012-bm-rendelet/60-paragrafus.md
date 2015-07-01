@@ -12,4 +12,8 @@ alkotja.
 
 (4) A szociális bizottság tagjai visszahívhatók. A megüresedett helyek betöltésére a szociális bizottság elnöke – az (1) bekezdésben foglaltak figyelembevételével – intézkedik.
 
+(4a)[^25] A szociális bizottság javaslatát szakmai előterjesztés alapján többségi szavazattal alakítja ki, szavazategyenlőség esetén az elnök szavazata dönt.
+
 (5) A szociális bizottság ügyrendjét a bizottság alakítja ki és az Országgyűlési Őrség parancsnoka hagyja jóvá.
+
+[^25]: A 60. § (4a) bekezdését a 36/2015. (VI. 16.) BM rendelet 27. §-a iktatta be.

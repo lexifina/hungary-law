@@ -1,11 +1,9 @@
-4. § (1) A Hszt. 62. §-ában foglalt, a tanulmányokhoz nyújtott támogatások megtérítésére a hivatásos állomány azon tagja kötelezhető, aki tanulmányi szerződés alapján iskolarendszerű vagy iskolarendszeren kívüli oktatásban, képzésben vesz részt.
+4. § (1) A hivatásos állománynak a Hszt. 51. § (2) bekezdésben meghatározott szervnél szolgálatot teljesítő, rendelkezési állományba helyezett tagjának illetményére az 6. § (2) és (3) bekezdését kell alkalmazni.
 
-(2) Nem kötelezhető a támogatás visszatérítésére az, aki az Országgyűlési Őrség által elrendelt szakmai továbbképzésen vagy átképzésen vesz részt.
+(2) A hivatásos állománynak a Hszt. 77. § (1) bekezdés b), c), d), e), k) pontja szerint rendelkezési állományba helyezett vagy külföldre vezénylés miatt rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés előtti besorolása szerinti illetményre jogosult, azzal, hogy – jogszabály eltérő rendelkezése hiányában – a hivatásos pótlék mértéke 50%.
 
-(3) A természetbeni élelmezés értékének visszatérítésénél figyelembe kell venni az élelmezés nyersanyagértékét, a nyersanyagnormát, valamint a természetbeni élelmezés pénzbeli megváltását.
+(3) A Hszt. 77. § (1) bekezdés i) pontjában meghatározott okból rendelkezési állományba helyezett illetményére a Hszt. 64. § (2) bekezdése szerint kell eljárni azzal, hogy a rendelkezési állomány tartamára a hivatásos pótlék mértéke 50%.
 
-(4) A (3) bekezdés szerinti juttatások közül az illetményjellegű juttatásoknál a személyi jövedelemadó, a nyugdíj-, az egészségbiztosítási és a munkaerő-piaci járulék levonása utáni nettó összeget, a természetbeni juttatásoknál pedig a felhasználáskor érvényes norma szerinti összeget kell figyelembe venni.
+(4) A Hszt. 77. § (1) bekezdés j) pontjában meghatározott okból rendelkezési állományba helyezett részére a legutolsó szolgálati beosztása alapján folyósított illetményt kell tovább folyósítani.
 
-(5) A tandíjtartozás összegét a tanintézet által a tandíjakról kiállított számlákra teljesített kifizetések alapján kell megállapítani.
-
-(6) A tanulmányi támogatás visszatérítésére az Országgyűlési Őrség parancsnoka írásban szólítja fel a hivatásos állomány tagját, aki a felszólítás ellen – a kézhezvételtől számított 15 napon belül – az elöljáró parancsnokhoz szolgálati panaszt nyújthat be.
+(5) A rendelkezési állományba helyezéskor a munkáltatói intézkedésben rendelkezni kell a folyósítandó illetményről vagy arról, hogy azt ki jogosult megállapítani külön intézkedésben.

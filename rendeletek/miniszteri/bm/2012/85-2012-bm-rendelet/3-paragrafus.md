@@ -1,5 +1,9 @@
-3. § (1) Ha a hivatásos állomány tagjának a Hszt. 50. § (1) bekezdése szerinti szolgálati feladatok, beosztások ellátásával vagy helyettesítéssel történő megbízása az eredeti beosztás ellátása mellett történik, a megbízás alapján járó díjazás mértékét az Országgyűlési Őrség parancsnoka a feladattal, valamint a feladat ellátására beosztottak számával arányosan állapítja meg.
+3. § (1) Ha a hivatásos állomány tagja a Hszt. 51. § (2) bekezdése szerinti szervnél vezényléssel lát el szolgálatot, a vezénylésről szóló munkáltatói intézkedésben rendelkezni kell arról, hogy – a Hszt. és más jogszabályok előírása szerint – az ellátott szolgálati beosztás, kormánytisztviselői munkakör vagy közalkalmazotti munkakör alapján megillető illetményt
 
-(2) Amennyiben a hivatásos állomány tagja köztisztviselőt vagy munkavállalót helyettesít, az (1) bekezdés szabályait megfelelően alkalmazni kell.
+a) teljes egészében a fogadó szerv költségvetését terheli, vagy
 
-(3) Ha a hivatásos állomány helyettesítést ellátó tagja a megbízás alapján díjazásban részesül, a helyettesítés során végzett tevékenysége nem minősül túlszolgálatnak, a tevékenységért csak a Hszt. 50. § (4) bekezdése szerinti többletszolgálatért járó díjazás jár.
+b) teljes egészében a rendvédelemi szervet terheli és ő folyósítja, vagy
+
+c) teljes egészében a rendvédelmi szervet terheli, de a fogadó szerv a vezénylés előtti illetmény és a vezénylés tartamára járó illetmény különbözetét a rendvédelemi szervnek megtéríti.
+
+(2) Az (1) bekezdés a) pontja szerint kell eljárni, ha a vezénylés a vezénylés helye szerinti szerv rendszeresített létszámába tartozó szolgálati beosztásba, vagy kormánytisztviselői, közalkalmazotti munkakörbe történik, vagy ha az illetmény fedezetét külső forrásból biztosítják.

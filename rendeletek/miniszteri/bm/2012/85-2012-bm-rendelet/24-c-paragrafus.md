@@ -1,4 +1,4 @@
-24/C. §[^4] (1) A hivatásos állomány tagja a képernyő előtti munkavégzéshez szükséges éleslátást biztosító szemüveggel történő ellátásba nem tartozó látásjavító szemüveg, kontaktlencse (a továbbiakban: látásjavító szemüveg vagy kontaktlencse) készítésével kapcsolatos költségtérítésre jogosult.
+24/C. §[^18] (1) A hivatásos állomány tagja a képernyő előtti munkavégzéshez szükséges éleslátást biztosító szemüveggel történő ellátásba nem tartozó látásjavító szemüveg, kontaktlencse (a továbbiakban: látásjavító szemüveg vagy kontaktlencse) készítésével kapcsolatos költségtérítésre jogosult.
 
 (2) A hivatásos állomány tagja akkor jogosult az (1) bekezdés szerinti költségtérítésre, ha legalább 6 hónap szolgálati viszonyban töltött idővel rendelkezik.
 
@@ -12,4 +12,4 @@
 
 (7) Az Országgyűlési Őrség parancsnoka a kérelem alapján, az alapellátó orvos igazolásának és a részletes számlának a benyújtását követő 30 napon belül intézkedik a kifizetésről.
 
-[^4]: A 24/C. §-t a 49/2013. (VIII. 27.) BM rendelet 3. §-a iktatta be.
+[^18]: A 24/C. §-t a 49/2013. (VIII. 27.) BM rendelet 3. §-a iktatta be.

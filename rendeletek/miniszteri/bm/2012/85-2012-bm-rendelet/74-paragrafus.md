@@ -8,10 +8,12 @@ c) lemondással,
 
 d) közös megegyezéssel, vagy
 
-e) a Hszt. 53. § f) vagy g) pontjára, 56. § (1) bekezdés c) pontjára, 56. § (2) bekezdés b) pontjára, 56. § (5) bekezdés b) pontjára, vagy 59. § (1) bekezdés b) vagy d) pontjára tekintettel
+e)[^31] a Hszt. 80. § (1) bekezdés f)–g), 86. § (2) bekezdés b), 86. § (1) bekezdés b), 82. § a) és c) pontjára tekintettel
 
 szűnik meg, az addig folyósított támogatást egyösszegben 60 napon belül vissza kell fizetni.
 
 (2) A támogatást az (1) bekezdésben foglaltak szerint kell visszafizetni akkor is, ha a hivatásos állomány tagja az átszervezés miatt szükségessé vált, legalább azonos szintű más beosztásba történő áthelyezésébe nem egyezett bele.
 
 (3) Az Országgyűlési Őrség parancsnoka kérelemre, különös méltánylást érdemlő – a támogatásban részesülőnek fel nem róható, előre nem látható – körülmény fennállása esetén a támogatás egyösszegű visszafizetése helyett részletfizetést engedélyezhet.
+
+[^31]: A 74. § (1) bekezdés e) pontja a 35/2015. (VI. 16.) BM rendelet 8. § e) pontja szerint módosított szöveg.
