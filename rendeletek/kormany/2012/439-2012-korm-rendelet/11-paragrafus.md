@@ -2,7 +2,7 @@
 
 ## 5. Nyilatkozat a korábbi hulladékgazdálkodási tevékenységről
 
-## 11. § A nyilvántartásba vétel, a hulladékgazdálkodási engedély, valamint a hulladékgazdálkodási közszolgáltatási engedély kérelmezője és a kérelmező gazdálkodó szervezet vagy közszolgáltató vezető tisztségviselője a korábbi hulladékgazdálkodási tevékenységével kapcsolatban az alábbiakról nyilatkozik:
+## 11. §[^41] A nyilvántartásba vétel, a hulladékgazdálkodási engedély, valamint a minősítési engedély kérelmezője és a kérelmező gazdálkodó szervezet vagy közszolgáltató vezető tisztségviselője a korábbi hulladékgazdálkodási tevékenységével kapcsolatban az alábbiakról nyilatkozik:
 
 a) büntetőjogi felelősségét a bíróság a Büntető Törvénykönyvről szóló törvényben meghatározott környezetkárosítás, természetkárosítás vagy hulladékgazdálkodás rendjének megsértése bűncselekmény elkövetése miatt jogerősen megállapította-e,
 
@@ -11,3 +11,5 @@ b) hulladékgazdálkodási tevékenység folytatását kizáró foglalkozástól
 c) a környezet védelmének általános szabályairól szóló törvény szerinti kármentesítési kötelezettségét jogerősen megállapították-e, és a teljesítésre megállapított határidő lejártáig kötelezettségét teljesítette-e;
 
 d) bármilyen, általa vagy olyan gazdasági társaság által folytatott korábbi tevékenysége, amelynek vezető tisztségviselője volt, eredményezte-e azt, hogy a felszámolást követően hátrahagyott hulladék kezeléséről költségvetési forrásból az államnak, a megyei vagy a települési önkormányzatnak kellett gondoskodnia.
+
+[^41]: A 11. § nyitó szövegrésze a 368/2014. (XII. 30.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
