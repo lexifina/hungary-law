@@ -2,7 +2,7 @@
 
 (2) A megyei hatókörű városi múzeum – a 37/A. §-ban és a 42. § (2) bekezdésében foglalt feladatokon túlmenően – állami feladatai keretében:
 
-a) vagyonkezelője a tevékenység ellátásához szükséges állami vagyonnak,
+a) vagyonkezelője az alapleltárában és jogszabály szerinti külön nyilvántartásában szereplő kulturális javaknak,
 
 b) gyűjtőterületére kiterjedően
 

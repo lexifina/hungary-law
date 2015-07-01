@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2014-09-01 | 2013. évi CCXLV. törvény | 1997-140-00-00.37 |
 | 2015-01-01 | 2014. évi CVI. törvény | 1997-140-00-00.38 |
 | 2015-06-19 | 2015. évi LXXII. törvény | 1997-140-00-00.39 |
+| 2015-07-01 | 2015. évi XXXVI. törvény | 1997-140-00-00.40 |
