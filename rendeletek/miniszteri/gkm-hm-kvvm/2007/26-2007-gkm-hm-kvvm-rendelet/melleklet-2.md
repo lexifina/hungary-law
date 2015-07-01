@@ -992,6 +992,8 @@ II. NEM ELLENŐRZÖTT LÉGTEREK
 
 |  | 463100N | 0173400E |
 
+| 37 | LHMP Drop Zone 5,556 km (3 NM) sugarú kör a 464758N 0194102E középpont körül Kecskemét MCTR légtér átfedő részének kizárásával | FL145 (4400 m)/GND | (ICAO „G”) Közzétett üzemidő szerint |
+
 | 38 | LHKH Drop Zone | FL135 (4100 m STD) / GND | (ICAO „G”) Közzétett üzemidő szerint |
 
 | 464600N | 0194546E |
