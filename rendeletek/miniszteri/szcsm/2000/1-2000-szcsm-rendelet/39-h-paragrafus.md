@@ -1,4 +1,4 @@
-39/H. § (1)[^133] A közösségi munkacsoportot az ellátottak szükségleteinek megfelelően kell összeállítani, bevonva a gondozási, személyi segítési feladatok hatékony ellátásához szükséges alábbi személyeket:
+39/H. § (1)[^134] A közösségi munkacsoportot az ellátottak szükségleteinek megfelelően kell összeállítani, bevonva a gondozási, személyi segítési feladatok hatékony ellátásához szükséges alábbi személyeket:
 
 a) gondnok, háziorvos, védőnő, pszichiáter, pszichiátriai gondozó, pszichológus, és
 
@@ -6,7 +6,7 @@ b) a szociális alap- és szakellátás, a családsegítő szolgálat, a gyermek
 
 (2) A közösségi munkacsoport tagjaival a közösségi koordinátor együttműködési megállapodást köt. A megállapodásban rögzítik a rendszeres megbeszélések gyakoriságát, egyéb körülményeit, valamint – arra az esetre, ha egyes ellátottak állapota ezt szükségessé teszi – az eseti megbeszélések összehívásának módját.
 
-(3)[^134] A közösségi pszichiátriai ellátásban részesülő személyre vonatkozóan egyéni gondozási tervet kell készíteni. A gondozási terv elkészítésébe, módosításába be kell vonni a 39/G. § (2) bekezdésének a) pontjában meghatározott személyeket, illetve a közösségi munkacsoport tagjait.
+(3)[^135] A közösségi pszichiátriai ellátásban részesülő személyre vonatkozóan egyéni gondozási tervet kell készíteni. A gondozási terv elkészítésébe, módosításába be kell vonni a 39/G. § (2) bekezdésének a) pontjában meghatározott személyeket, illetve a közösségi munkacsoport tagjait.
 
-[^133]: A 39/H. § (1) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 6. §-ával megállapított szöveg.
-[^134]: A 4/2004. (I. 28.) ESZCSM rendelet 28. §-ának (4) bekezdése alapján a közösségi pszichiátriai ellátásban, valamint a szenvedélybetegek közösségi ellátásában részesülő személyekre vonatkozóan a gondozási tervet 2004. február 5. napját követő három hónapon belül kell elkészíteni.
+[^134]: A 39/H. § (1) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^135]: A 4/2004. (I. 28.) ESZCSM rendelet 28. §-ának (4) bekezdése alapján a közösségi pszichiátriai ellátásban, valamint a szenvedélybetegek közösségi ellátásában részesülő személyekre vonatkozóan a gondozási tervet 2004. február 5. napját követő három hónapon belül kell elkészíteni.

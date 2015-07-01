@@ -1,6 +1,6 @@
-## 55. §[^180] A bentlakásos intézmény az ellátottak meglévő képességeinek szinten tartása és fejlesztése érdekében szocioterápiás foglalkozásokat szervez.
+## 55. §[^181] A bentlakásos intézmény az ellátottak meglévő képességeinek szinten tartása és fejlesztése érdekében szocioterápiás foglalkozásokat szervez.
 
-56. §[^181] (1) A szocioterápiás foglalkozások formáit az ellátást igénybe vevő életkorának és egészségi állapotának, képességeinek megfelelően kell megválasztani, az egyéni gondozási, fejlesztési tervben, illetve rehabilitációs programban megfogalmazott célkitűzésekkel összhangban. A szocioterápiás foglalkozások formái különösen
+56. §[^182] (1) A szocioterápiás foglalkozások formáit az ellátást igénybe vevő életkorának és egészségi állapotának, képességeinek megfelelően kell megválasztani, az egyéni gondozási, fejlesztési tervben, illetve rehabilitációs programban megfogalmazott célkitűzésekkel összhangban. A szocioterápiás foglalkozások formái különösen
 
 a) a munkaterápia,
 
@@ -18,5 +18,5 @@ c) a képzési célú foglalkozás.
 
 (6) A munkaterápiás jutalom gyakoriságáról, a jutalomban részesülő személyekről, valamint annak alkalmankénti összegéről a munkaterápiában való részvétel figyelembevételével az intézmény vezetője határoz.
 
-[^180]: Az 55. § a 2/2006. (IV. 14.) ICSSZEM rendelet 28. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^181]: Az 56. § a 2/2006. (IV. 14.) ICSSZEM rendelet 29. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^181]: Az 55. § a 2/2006. (IV. 14.) ICSSZEM rendelet 28. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
+[^182]: Az 56. § a 2/2006. (IV. 14.) ICSSZEM rendelet 29. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.

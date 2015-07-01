@@ -12,6 +12,6 @@ c) folyamatos tartós ápolást, felügyeletet nem igényel.
 
 (4) A lakóotthonban azonos és különböző típusú betegségben, fogyatékosságban szenvedő személyek egyaránt elhelyezhetők, figyelemmel kell azonban lenni az ellátást igénybe vevőkről készített szakorvosi véleményre.
 
-(5)[^215] A rehabilitációs célú lakóotthonban különböző ellátási csoportba tartozó személyek is elhelyezhetők, ha egyéni rehabilitációs programjuk, egyéni fejlesztési tervük az együttműködést lehetővé teszi.
+(5)[^216] A rehabilitációs célú lakóotthonban különböző ellátási csoportba tartozó személyek is elhelyezhetők, ha egyéni rehabilitációs programjuk, egyéni fejlesztési tervük az együttműködést lehetővé teszi.
 
-[^215]: A 89. § (5) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 19. §-a iktatta a szövegbe.
+[^216]: A 89. § (5) bekezdését a 4/2004. (I. 28.) ESZCSM rendelet 19. §-a iktatta a szövegbe.

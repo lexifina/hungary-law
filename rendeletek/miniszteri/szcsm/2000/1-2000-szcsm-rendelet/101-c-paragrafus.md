@@ -1,8 +1,8 @@
 ## csökkenthető.
 
-101/C. §[^230] (1) Részleg a bentlakásos intézmény szervezeti keretein belül valamely speciális szükségletű ellátotti csoportra tekintettel, vagy az intézmény profiljához szakmailag kapcsolódó szolgáltatási forma biztosítása érdekében alakítható ki.
+101/C. §[^231] (1) Részleg a bentlakásos intézmény szervezeti keretein belül valamely speciális szükségletű ellátotti csoportra tekintettel, vagy az intézmény profiljához szakmailag kapcsolódó szolgáltatási forma biztosítása érdekében alakítható ki.
 
-(2)[^231]
+(2)[^232]
 
 (3) A részleg esetében nem kell külön kialakítani
 
@@ -20,8 +20,8 @@ f) amennyiben megfelelő munkaszervezéssel a közös használat megoldható, a 
 
 ## szolgáló helyiségeket.
 
-(4)[^232]
+(4)[^233]
 
-[^230]: A 101/C. §-t a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta a szövegbe.
-[^231]: A 101/C. § (2) bekezdését a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bf) alpontja hatályon kívül helyezte.
-[^232]: A 101/C. § (4) bekezdését a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bf) alpontja hatályon kívül helyezte.
+[^231]: A 101/C. §-t a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta a szövegbe.
+[^232]: A 101/C. § (2) bekezdését a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bf) alpontja hatályon kívül helyezte.
+[^233]: A 101/C. § (4) bekezdését a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bf) alpontja hatályon kívül helyezte.

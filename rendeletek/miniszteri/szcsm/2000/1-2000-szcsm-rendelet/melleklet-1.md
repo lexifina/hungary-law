@@ -1,4 +1,4 @@
-## 117. §[^277] 2015. január hónapjára vonatkozóan a házi segítségnyújtás gondozási naplóját mind az 5. számú melléklet, mind a személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet 2014. december 31-éig hatályos 1. számú melléklete szerinti formában el kell fogadni az azokban feltüntetett adatok igazolása céljából.
+## 117. §[^278] 2015. január hónapjára vonatkozóan a házi segítségnyújtás gondozási naplóját mind az 5. számú melléklet, mind a személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet 2014. december 31-éig hatályos 1. számú melléklete szerinti formában el kell fogadni az azokban feltüntetett adatok igazolása céljából.
 
 1. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez
 
@@ -28,4 +28,4 @@ III. Műszaki ellátási szabályzatok
 
 3. gépjármű használati szabályzat
 
-[^277]: A 117. §-t a 24/2015. (IV. 30.) EMMI rendelet 7. §-a iktatta be.
+[^278]: A 117. §-t a 24/2015. (IV. 30.) EMMI rendelet 7. §-a iktatta be.

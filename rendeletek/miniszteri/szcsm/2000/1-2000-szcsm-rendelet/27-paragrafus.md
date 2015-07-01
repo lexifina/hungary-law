@@ -6,7 +6,10 @@
 
 (4)[^86] A házigondozó napi gondozási tevékenységéről az 5. számú melléklet szerinti gondozási naplót vezeti, ellátottanként, az 5. számú melléklet szerinti gondozási tevékenységeken belüli résztevékenységek megnevezéseinek feltüntetésével.
 
+(5)[^87] A társadalmi gondozó a 2. számú mellékletben meghatározott létszámnormák teljesítése szempontjából nem vehető figyelembe.
+
 [^83]: A 27. § (1) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 9. §-ával megállapított, az 55/2013. (VII. 29.) EMMI rendelet 14. § b) pontja szerint módosított szöveg.
 [^84]: A 27. § (2) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 9. §-ával megállapított szöveg.
 [^85]: A 27. § (3) bekezdése a 2/2015. (I. 14.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^86]: A 27. § (4) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 18. § (2) bekezdése iktatta be, szövege a 2/2015. (I. 14.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^87]: A 27. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 7. § (3) bekezdése iktatta be.
