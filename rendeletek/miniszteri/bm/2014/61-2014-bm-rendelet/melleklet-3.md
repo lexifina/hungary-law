@@ -16,6 +16,8 @@
 
 ## 17. Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala”
 
-3. melléklet a 61/2014. (XII. 12.) BM rendelethez[^3]
+3. melléklet a 61/2014. (XII. 12.) BM rendelethez
 
-[^3]: A 3. melléklet a 4. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+A BM rendelet 1. melléklet 27. pontja a következő l) ponttal egészül ki:
+
+„l) Egyszer használatos nem szőtt termékek: kabátok, műtős sapkák, zsilipruhák, lepedők, védőruhák, műtéti szettek.”
