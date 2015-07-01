@@ -10,8 +10,10 @@ c) Országos Meteorológiai Szolgálat,
 
 d) Földmérési és Távérzékelési Intézet,
 
-e) Nemzeti Környezetügyi Intézet,
+e)[^2] Herman Ottó Intézet,
 
 f) Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség,
 
 g) TIG Tartalékgazdálkodási Nonprofit Kft.
+
+[^2]: Az 1. melléklet e) pontja a 36/2015. (VI. 30.) FM rendelet 6. §-a szerint módosított szöveg.
