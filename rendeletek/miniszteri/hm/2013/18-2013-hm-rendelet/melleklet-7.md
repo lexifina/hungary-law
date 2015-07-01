@@ -12,7 +12,7 @@
 
 | 5. | II/I–X. | 10,0 USD | 39,0 USD | 30,0 USD |
 
-7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^63]
+7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^69]
 
 A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak mértéke
 
@@ -60,4 +60,4 @@ A tartós külföldi képzésben részt vevők ellátmánya szorzószámainak m�
 
 | 21. | – | – | – I. évfolyamos tisztjelölt – altiszt-jelölt | – | 1,00 |
 
-[^63]: A 7. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (6) bekezdése, a 17/2014. (XII. 17.) HM rendelet 8. §-a szerint módosított szöveg.
+[^69]: A 7. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (6) bekezdése, a 17/2014. (XII. 17.) HM rendelet 8. §-a szerint módosított szöveg.

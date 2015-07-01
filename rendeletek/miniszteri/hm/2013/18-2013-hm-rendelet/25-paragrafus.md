@@ -36,11 +36,11 @@ c) a családi ellátmánypótlékra jogosító gyermekek számának megállapít
 
 (6) A tandíjköltség tandíjköltség-hozzájáruláson felüli része (a továbbiakban: önerő) a kiküldöttet terheli.
 
-(7)[^25] Ha a kiküldött összes családi ellátmánypótlékra jogosító gyermeke után fizetendő önerő összege meghaladja a kiküldött (3) bekezdés szerinti kérelme benyújtásakor érvényes külszolgálati ellátmánya havi nettó összege 12-szeresének 30%-át, az önerő e feletti részével a Honvédség a 4. melléklet szerinti összeget kiegészíti.
+(7)[^27] Ha a kiküldött összes családi ellátmánypótlékra jogosító gyermeke után fizetendő önerő összege meghaladja a kiküldött (3) bekezdés szerinti kérelme benyújtásakor érvényes külszolgálati ellátmánya havi nettó összege 12-szeresének 30%-át, az önerő e feletti részével a Honvédség a 4. melléklet szerinti összeget kiegészíti.
 
-(8)[^26] Az ugyanazon állomáshelyen külföldi szolgálatot teljesítő házastársak külszolgálati ellátmányát együttesen kell figyelembe venni.
+(8)[^28] Az ugyanazon állomáshelyen külföldi szolgálatot teljesítő házastársak külszolgálati ellátmányát együttesen kell figyelembe venni.
 
 (9) A tandíjköltséghez történő hozzájárulás összegét családi ellátmánypótlékra jogosító gyermekenként EUR-ban kell megállapítani, és folyósítani. Az EUR-tól eltérő pénznemben felmerülő tandíjköltség esetén annak összegét a (3) bekezdés szerinti kérelem benyújtását megelőző hónap 15. napján érvényes MNB devizaárfolyamon kell átszámítani.
 
-[^25]: A 25. § (7) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § i) pontja szerint módosított szöveg.
-[^26]: A 25. § (8) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § j) pontja szerint módosított szöveg.
+[^27]: A 25. § (7) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § i) pontja szerint módosított szöveg.
+[^28]: A 25. § (8) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § j) pontja szerint módosított szöveg.

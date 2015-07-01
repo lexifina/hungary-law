@@ -6,6 +6,6 @@ a) a kiküldött és a családi ellátmánypótlékra jogosító hozzátartozój
 
 b) a szolgálati ügyek intézésével összefüggésben felmerült postaköltséget, és
 
-c)[^27] a kiküldött és a családi ellátmánypótlékra jogosító hozzátartozója kötelező egészségügyi szűrővizsgálatával összefüggésben Magyarországon felmerülő, a kiküldött lakóhelye és a szűrővizsgálat helye közötti utazási költségeket a belföldi szolgálati kiküldetésre vonatkozó szabályok szerint.
+c)[^29] a kiküldött és a családi ellátmánypótlékra jogosító hozzátartozója kötelező egészségügyi szűrővizsgálatával összefüggésben Magyarországon felmerülő, a kiküldött lakóhelye és a szűrővizsgálat helye közötti utazási költségeket a belföldi szolgálati kiküldetésre vonatkozó szabályok szerint.
 
-[^27]: A 26. § c) pontja a 9/2014. (IV. 30.) HM rendelet 8. § k) pontja szerint módosított szöveg.
+[^29]: A 26. § c) pontja a 9/2014. (IV. 30.) HM rendelet 8. § k) pontja szerint módosított szöveg.

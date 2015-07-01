@@ -1,6 +1,6 @@
 10. § (1) Nem jogosult családi ellátmánypótlékra a kiküldött
 
-a)[^18] arra az időtartamra, amelyre vonatkozóan az e rendelet szerinti igazolásokat nem nyújtja be, illetve a bejelentést megelőző időtartamra, ha bejelentési kötelezettségének az e rendeletben meghatározott határidőn belül nem tesz eleget,
+a)[^20] arra az időtartamra, amelyre vonatkozóan az e rendelet szerinti igazolásokat nem nyújtja be, illetve a bejelentést megelőző időtartamra, ha bejelentési kötelezettségének az e rendeletben meghatározott határidőn belül nem tesz eleget,
 
 b) akkor, ha a családi ellátmánypótlékra jogosító hozzátartozójának tárgyhavi foglalkoztatásból származó jövedelme, illetve jövedelempótló juttatása együttes nettó összege meghaladja az állomáshely szerinti országra meghatározott alapellátmány összegét,
 
@@ -12,4 +12,4 @@ d) a családi ellátmánypótlékra jogosító hozzátartozó évi 90 napot – 
 
 (3) A családi ellátmánypótlékra jogosító hozzátartozó többszöri távolléte esetén a részidőket évente össze kell számítani. Az (1) bekezdés d) pontja szerinti 90 napba nem számít bele a kiküldöttnek a családi ellátmánypótlékra jogosító hozzátartozóval belföldön eltöltött alap- és pótszabadsága, valamint a szülés miatti távollét legfeljebb évi 60 napig, a külföldi szolgálat megkezdésének és befejezésének évében ennek időarányos része.
 
-[^18]: A 10. § (1) bekezdés a) pontja a 17/2014. (XII. 17.) HM rendelet 1. §-ával megállapított szöveg.
+[^20]: A 10. § (1) bekezdés a) pontja a 17/2014. (XII. 17.) HM rendelet 1. §-ával megállapított szöveg.

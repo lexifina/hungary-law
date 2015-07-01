@@ -1,6 +1,6 @@
 ## A béketámogató művelet keretében külföldi szolgálatot teljesítők ellátmányának havi mértéke
 
-## (az illetményalap szorzatában meghatározva)
+## (a felszámítási alap szorzatában meghatározva)
 
 ## I. Az alapellátmány havi mértékének szorzószáma
 
@@ -76,6 +76,6 @@
 
 |  | 5. | 4. extrém | 2,42 |
 
-6. melléklet a 18/2013. (IX. 5.) HM rendelethez[^62]
+6. melléklet a 18/2013. (IX. 5.) HM rendelethez[^68]
 
-[^62]: A 6. melléklet a 3/2015. (VI. 17.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^68]: A 6. melléklet a 3/2015. (VI. 17.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
