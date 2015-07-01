@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-45-20-2
 | --- | --- | --- |
 | 2012-09-16 | 2012-45-20-2W.1 | 45/2012. (VIII. 2.) NFM rendelet |
 | 2012-09-17 | 2012-45-20-2W.2 | 2010: CXXX. törvény |
+| 2015-07-01 | 2012-45-20-2W.3 | 37/2015. (VI. 30.) NFM rendelet |

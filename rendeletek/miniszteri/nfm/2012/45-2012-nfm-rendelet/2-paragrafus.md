@@ -1,4 +1,4 @@
-## 1. § A Magyar Energia Hivatal (a továbbiakban: kijelölő hatóság) a villamos energiáról szóló 2007. évi LXXXVI. törvény 159. § (7) bekezdésében meghatározott feladatkörét az 1. melléklet szerinti megfelelőségértékelési területeken látja el.
+## 1. §[^1] A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: kijelölő hatóság) a villamos energiáról szóló 2007. évi LXXXVI. törvény 159. § (7) bekezdésében meghatározott feladatkörét az 1. melléklet szerinti megfelelőségértékelési területeken látja el.
 
 ## 2. A kérelmezővel szemben támasztott követelmények
 
@@ -13,3 +13,5 @@ b) a megfelelőségértékelési tevékenysége során kiadott dokumentumok – 
 c) a megfelelőségértékelési tevékenységével összefüggő eljárásának bemutatására, a gazdasági szereplők tájékoztatására szolgáló dokumentumok angol, német vagy francia nyelvű fordításával.
 
 (3) A kérelmezőnek rendelkeznie kell a 7. § szerinti jelentésnek a kérelmezett megfelelőségértékelési területhez igazított mintájával.
+
+[^1]: Az 1. § a 37/2015. (VI. 30.) NFM rendelet 24. §-a szerint módosított szöveg.
