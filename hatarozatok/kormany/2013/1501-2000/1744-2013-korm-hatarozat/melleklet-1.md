@@ -8,6 +8,8 @@
 
 ## 2a.[^1] A bűncselekmények megelőzéséért felelős miniszter a Nemzeti Bűnmegelőzési Stratégia (2013–2023) és az abban foglalt intézkedések végrehajtása során a Nemzeti Bűnmegelőzési Tanácsot bevonhatja.
 
+## 2b.[^2] A Kormány felkéri az 1. mellékletben szereplő, nem a Kormány vagy a Kormány tagja irányítása vagy felügyelete alá tartozó szerveket, hogy működjenek közre a Nemzeti Bűnmegelőzési Stratégia (2013–2023) és az abban foglalt intézkedések végrehajtásában.
+
 ## 3. A Kormány felhívja az államháztartásért felelős minisztert, hogy a központi költségvetésre vonatkozó előterjesztéseket akként készítse elő, hogy a Nemzeti Bűnmegelőzési Stratégia (2013–2023) céljainak megvalósításhoz biztosított forrás évenkénti összege megegyezzen a tárgyévet megelőző évben a központi költségvetésbe befizetett szabálysértési bírságok és az üzembentartó objektív felelősségén alapuló közigazgatási bírságolási eljárásban megfizetett bírságok összegének négy százalékával akként, hogy az nem lehet kevesebb 700 millió forintnál.
 
 ## Felelős: az államháztartásért felelős miniszter
@@ -16,7 +18,7 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1744/2013. (X. 17.) Korm. határozathoz
+1. melléklet az 1744/2013. (X. 17.) Korm. határozathoz[^3]
 
 Nemzeti Bűnmegelőzési Stratégia
 
@@ -284,19 +286,19 @@ Tekintettel arra, hogy a TBNS volt az ország első bűnmegelőzési stratégiá
 
 A bűnmegelőzés területén a nemzetközi szervezetek alapvető célja a tagállamok közötti tapasztalat-, illetve információcsere támogatása, részben a tagállami gyakorlatok, részben az intézményi és jogi háttér vonatkozásában. Az elmúlt években számos olyan kötelező erejű instrumentum, illetve ajánlás került kidolgozásra, amely a bűnmegelőzésre fókuszál vagy azzal összefüggésben állapít meg követelményeket.
 
-Az ENSZ Gazdasági és Szociális Bizottságának a hatékony bűnmegelőzés támogatásáról szóló határozata alapján[^2] a „bűnmegelőzés területe olyan stratégiákat és intézkedéseket foglal magában, melyek célja a bűnözés kialakulása kockázatának, valamint a társadalomra illetve, egyénekre vonatkozó káros hatásainak csökkentése, az által, hogy az összetett okokra kíván hatni”. A multidiszciplináris megközelítést követve a dokumentum kiemelten foglalkozik a gazdasági-társadalmi fejlesztés és felzárkóztatás kérdésével, különös tekintettel a gyermekekre, családokra és fiatalokra, magában foglalva az egészségügy, oktatás, lakhatás és foglalkoztatás kérdéseit. Fontosnak tartja az együttműködés erősítését a kormányzati és nem kormányzati szervek között, a programok fenntarthatóságát és elszámoltathatóságát, az emberi jogok és jogbiztonság illetve a különböző társadalmi csoportok eltérő igényeinek figyelembe vételét. A 2005-ben felülvizsgált határozat[^3] elsődleges célkitűzései között a bűnmegelőzés és büntető igazságszolgáltatás közötti összhang megteremtése kiemelt szerepet kapott.
+Az ENSZ Gazdasági és Szociális Bizottságának a hatékony bűnmegelőzés támogatásáról szóló határozata alapján[^4] a „bűnmegelőzés területe olyan stratégiákat és intézkedéseket foglal magában, melyek célja a bűnözés kialakulása kockázatának, valamint a társadalomra illetve, egyénekre vonatkozó káros hatásainak csökkentése, az által, hogy az összetett okokra kíván hatni”. A multidiszciplináris megközelítést követve a dokumentum kiemelten foglalkozik a gazdasági-társadalmi fejlesztés és felzárkóztatás kérdésével, különös tekintettel a gyermekekre, családokra és fiatalokra, magában foglalva az egészségügy, oktatás, lakhatás és foglalkoztatás kérdéseit. Fontosnak tartja az együttműködés erősítését a kormányzati és nem kormányzati szervek között, a programok fenntarthatóságát és elszámoltathatóságát, az emberi jogok és jogbiztonság illetve a különböző társadalmi csoportok eltérő igényeinek figyelembe vételét. A 2005-ben felülvizsgált határozat[^5] elsődleges célkitűzései között a bűnmegelőzés és büntető igazságszolgáltatás közötti összhang megteremtése kiemelt szerepet kapott.
 
-2009-ben jelent meg az ENSZ Standardok és normák gyűjteménye a bűnmegelőzésben és a büntető igazságszolgáltatásban[^4] című összefoglaló dokumentuma, amely külön fejezetben foglalkozik a bűnmegelőzés területével, magában foglalva az áldozatok kérdését is. Ide köthető továbbá az ENSZ Gazdasági és Szociális Bizottságának a városi bűnmegelőzés területére vonatkozó határozata[^5], amely továbbra is a releváns szervek és intézkedések közötti koordináció fontosságára hívja fel a figyelmet, ugyanakkor nem fogalmaz meg közvetlen ajánlásokat.
+2009-ben jelent meg az ENSZ Standardok és normák gyűjteménye a bűnmegelőzésben és a büntető igazságszolgáltatásban[^6] című összefoglaló dokumentuma, amely külön fejezetben foglalkozik a bűnmegelőzés területével, magában foglalva az áldozatok kérdését is. Ide köthető továbbá az ENSZ Gazdasági és Szociális Bizottságának a városi bűnmegelőzés területére vonatkozó határozata[^7], amely továbbra is a releváns szervek és intézkedések közötti koordináció fontosságára hívja fel a figyelmet, ugyanakkor nem fogalmaz meg közvetlen ajánlásokat.
 
-Az ENSZ keretein belül, a bűnmegelőzéssel és a kábítószer kérdésekkel foglalkozó hivatal (a továbbiakban: UNODC, United Nations Office on Drugs and Crime) végez bűnmegelőzéshez köthető tevékenységet. A Bűnmegelőzési és Büntető Igazságszolgáltatási Bizottság (CCPCJ, Commission on Crime Prevention and Criminal Justice) feladata a vonatkozó ENSZ-normák kialakítása és folyamatos felülvizsgálata, valamint a tagállamok közötti információ- és tapasztalatcsere biztosítása. Az ENSZ a bűnmegelőzés területét, mint a bűnözésből fakadó társadalmi és gazdasági költségek csökkentésének lehetőségét kezeli. Kiemelt prioritásként foglalkozik a városi bűnmegelőzéssel, a fegyveres erőszak, illetve a bűnismétlés megelőzésével. Alapvető célja a közösségek biztonságának biztosítása és ezáltal a tagállamok fenntartható fejlődésének támogatása[^6]. Tekintettel a szervezet átfogó jellegére, értelemszerűen a bűnmegelőzés vonatkozásában is holisztikus megközelítést követ, a bűnözés gyökereiként alapvetően az egyenlőtlenséget, szegénységet és diszkriminációt nevezi meg. Az ENSZ egyértelműen szorgalmazza a tagállami, regionális és helyi szintű bűnmegelőzési stratégiák kidolgozását, mely tevékenységhez kész szakmai támogatást adni.
+Az ENSZ keretein belül, a bűnmegelőzéssel és a kábítószer kérdésekkel foglalkozó hivatal (a továbbiakban: UNODC, United Nations Office on Drugs and Crime) végez bűnmegelőzéshez köthető tevékenységet. A Bűnmegelőzési és Büntető Igazságszolgáltatási Bizottság (CCPCJ, Commission on Crime Prevention and Criminal Justice) feladata a vonatkozó ENSZ-normák kialakítása és folyamatos felülvizsgálata, valamint a tagállamok közötti információ- és tapasztalatcsere biztosítása. Az ENSZ a bűnmegelőzés területét, mint a bűnözésből fakadó társadalmi és gazdasági költségek csökkentésének lehetőségét kezeli. Kiemelt prioritásként foglalkozik a városi bűnmegelőzéssel, a fegyveres erőszak, illetve a bűnismétlés megelőzésével. Alapvető célja a közösségek biztonságának biztosítása és ezáltal a tagállamok fenntartható fejlődésének támogatása[^8]. Tekintettel a szervezet átfogó jellegére, értelemszerűen a bűnmegelőzés vonatkozásában is holisztikus megközelítést követ, a bűnözés gyökereiként alapvetően az egyenlőtlenséget, szegénységet és diszkriminációt nevezi meg. Az ENSZ egyértelműen szorgalmazza a tagállami, regionális és helyi szintű bűnmegelőzési stratégiák kidolgozását, mely tevékenységhez kész szakmai támogatást adni.
 
 Az ENSZ, illetve az UNODC számtalan további, célzott kiadvánnyal rendelkezik a bűnmegelőzés területére vonatkozóan, így külön kézikönyve van a városi bűnözés megelőzése, a gyermekek és fiatalkorúak bűnmegelőzése, az áldozatsegítés és -védelem, továbbá a rendőrség, az ügyészség, a büntető igazságszolgáltatás és a helyreállító igazságszolgáltatás számára.
 
-Az Európai Biztonsági és Együttműködési Szervezet (a továbbiakban: EBESZ) céljainak megfelelően alapvetően nem nevesíti prioritásai között kifejezetten bűnmegelőzést, azt a szervezett bűnözés elleni küzdelem, illetve a konfliktuskezelés részeként tekinti. A konfliktus-megelőzés területén számos EBESZ ajánlás és kézikönyv létezik, amelyek kidolgozásában részben hazai szakértők is részt vesznek. Ide sorolható többek között a közösségi rendészet gyakorlati aspektusaira koncentráló kézikönyv[^7], a romák elleni konfliktuskezelés aspektusait összefoglaló kiadvány[^8], a gyűlölet-bűncselekmények megelőzésével foglalkozó kiadvány[^9]. Az EBESZ keretében az elmúlt években Magyarországon is sor került a rendészeti szakértők számára nyújtott képzésekre, azonban ezekre a lehetőségekre érdemes a jövőben nagyobb hangsúlyt fektetni.
+Az Európai Biztonsági és Együttműködési Szervezet (a továbbiakban: EBESZ) céljainak megfelelően alapvetően nem nevesíti prioritásai között kifejezetten bűnmegelőzést, azt a szervezett bűnözés elleni küzdelem, illetve a konfliktuskezelés részeként tekinti. A konfliktus-megelőzés területén számos EBESZ ajánlás és kézikönyv létezik, amelyek kidolgozásában részben hazai szakértők is részt vesznek. Ide sorolható többek között a közösségi rendészet gyakorlati aspektusaira koncentráló kézikönyv[^9], a romák elleni konfliktuskezelés aspektusait összefoglaló kiadvány[^10], a gyűlölet-bűncselekmények megelőzésével foglalkozó kiadvány[^11]. Az EBESZ keretében az elmúlt években Magyarországon is sor került a rendészeti szakértők számára nyújtott képzésekre, azonban ezekre a lehetőségekre érdemes a jövőben nagyobb hangsúlyt fektetni.
 
 Az Európa Tanács (a továbbiakban: ET) tevékenysége sokkal inkább egyfajta jogfejlesztő együttműködés. Az ET sem foglalkozik elkülönítetten a bűnmegelőzéssel, a bűnözés elleni küzdelmet egységesen kezeli, ide sorolva a szervezett bűnözés bizonyos aspektusait. Egyes kiemelt, átfogó témákkal (terrorizmus elleni küzdelem, kiberbűnözés, korrupció, kábítószer elleni küzdelem) természetesen elkülönítetten foglalkozik az ET, ugyanakkor minden esetben megpróbálja azokat összekötni a releváns, kapcsolódó területeket.
 
-Az elmúlt időszakban számos egyezmény és ajánlás került kidolgozásra, így a nők elleni és kapcsolati erőszak megelőzésére[^10] a gyermekek szexuális kizsákmányolása[^11], az emberkereskedelem[^12], a kiberbűnözés elleni[^13], valamint a terrorizmus megelőzésére vonatkozó[^14] egyezmény. Az Európa Tanács jelenlegi törekvése annak felmérése, hogy ezek az ajánlások és intézkedések milyen módon valósulnak meg a gyakorlatban, illetve hogyan lehetne hatékonyabban használni őket, milyen esetleges változtatásokra van szükség, akár a tagállamok részéről, akár az egyezmények vonatkozásában.
+Az elmúlt időszakban számos egyezmény és ajánlás került kidolgozásra, így a nők elleni és kapcsolati erőszak megelőzésére[^12] a gyermekek szexuális kizsákmányolása[^13], az emberkereskedelem[^14], a kiberbűnözés elleni[^15], valamint a terrorizmus megelőzésére vonatkozó[^16] egyezmény. Az Európa Tanács jelenlegi törekvése annak felmérése, hogy ezek az ajánlások és intézkedések milyen módon valósulnak meg a gyakorlatban, illetve hogyan lehetne hatékonyabban használni őket, milyen esetleges változtatásokra van szükség, akár a tagállamok részéről, akár az egyezmények vonatkozásában.
 
 Magyarország részéről az eddigieknek megfelelően folyamatos részvételt kell biztosítani az e területen működő szervezetek munkájában, ellátva a tagságunkból fakadó feladatokat. Ezek a tevékenységek a kapcsolatépítés, tapasztalatszerzés mellett lehetőséget biztosítanak a hazai érdekérvényesítés erősítésére a nemzetközi szakpolitikai lépések meghatározása és végrehajtása során.
 
@@ -306,9 +308,9 @@ Az Európai Unió Működéséről szóló Szerződés 84. cikke értelmében: �
 
 Ezen a területen az EU alapvetően a tagállamok közötti tapasztalatok és gyakorlatok megosztására koncentrál, részben a büntetőeljárások vonatkozásában, másrészt a bűnözés, illetve a visszaesés mennyiségi és minőségi csökkentése érdekében. Kiemelt figyelmet kapnak természetesen a bűnözés tekintetében sérülékeny társadalmi csoportok és személyek. Ennek megfelelően uniós szinten az elmúlt időszakban széles skálát lefedő, generális prevenciót célzó büntetőjogi javaslatok születtek, ide kapcsolva többek között a kábítószer-prevenciót, a számítástechnikai bűnözés, az emberkereskedelem, illetve a gyermekpornográfia elleni küzdelmet is.
 
-Az Unió 2014 végéig hatályos bel- és igazságügyi együttműködési keretprogramja, a Stockholmi Program[^15] is ennek megfelelően fogalmazza meg a hatékonyabb bűnmegelőzéshez köthető célkitűzéseit. Ennek értelmében a bűnözés szintje leginkább a bűnmegelőzést célzó – többek között a társadalmi beilleszkedést előmozdító – hatékony intézkedésekkel csökkenthető, olyan multidiszciplináris megközelítést követve, amely az adminisztratív intézkedések meghozatalát, valamint a hatóságok közötti együttműködés előmozdítását is magában foglalja.
+Az Unió 2014 végéig hatályos bel- és igazságügyi együttműködési keretprogramja, a Stockholmi Program[^17] is ennek megfelelően fogalmazza meg a hatékonyabb bűnmegelőzéshez köthető célkitűzéseit. Ennek értelmében a bűnözés szintje leginkább a bűnmegelőzést célzó – többek között a társadalmi beilleszkedést előmozdító – hatékony intézkedésekkel csökkenthető, olyan multidiszciplináris megközelítést követve, amely az adminisztratív intézkedések meghozatalát, valamint a hatóságok közötti együttműködés előmozdítását is magában foglalja.
 
-Kiemelendő ugyanakkor, hogy az Európai Unió bűnmegelőzés területén végzett tevékenysége nem kizárólag a bel- és igazságügyi együttműködést meghatározó Bel- és Igazságügyi Tanács keretein belül zajlik, e terület szorosan kötődik más tanácsi formációkhoz, így többek között a Foglalkoztatás, Szociálpolitika, Egészségügyi és Fogyasztóvédelmi ügyek Tanácsához illetve az Oktatás, Ifjúság, Kultúra és Sport Tanácshoz. Az elmúlt években több, releváns ajánlás is kidolgozásra került ezekben a keretekben, többek között a nőkkel szembeni erőszak elleni küzdelem és a családon belüli erőszak áldozatainak segítésével foglalkozó tanácsi következtetések[^16].
+Kiemelendő ugyanakkor, hogy az Európai Unió bűnmegelőzés területén végzett tevékenysége nem kizárólag a bel- és igazságügyi együttműködést meghatározó Bel- és Igazságügyi Tanács keretein belül zajlik, e terület szorosan kötődik más tanácsi formációkhoz, így többek között a Foglalkoztatás, Szociálpolitika, Egészségügyi és Fogyasztóvédelmi ügyek Tanácsához illetve az Oktatás, Ifjúság, Kultúra és Sport Tanácshoz. Az elmúlt években több, releváns ajánlás is kidolgozásra került ezekben a keretekben, többek között a nőkkel szembeni erőszak elleni küzdelem és a családon belüli erőszak áldozatainak segítésével foglalkozó tanácsi következtetések[^18].
 
 4.5. Európai Bűnmegelőzési Hálózat
 
@@ -334,7 +336,7 @@ A bűnügyi helyzetelmézés ismertetésekkor figyelemmel kell lenni arra a tén
 
 A bűnözési helyzet alakulását hagyományosan két típusú, számszerűsített adatokat tartalmazó forrás, a bűnügyi adatok gyűjtésén alapuló statisztikák és a lakossági megkérdezésen alapuló bűnügyi (áldozati vagy elkövetői) felmérések, kutatások alapján ítélik meg. Mivel Magyarországon nem készül rendszeres áldozattá válási felmérés, a helyzet elsősorban a bűnügyi statisztikák adatai alapján értékelhető. A kriminálstatisztikának természetesen megvannak a maga ismert korlátai és hiányosságai, azonban az adatok kellő kritika és hozzáértés nélküli felhasználásánál csak az adatok figyelmen kívül hagyása tekinthető nagyobb hibának.
 
-A bűnügyi statisztikákon alapuló kutatások túlsúlyát erősíti, hogy a lakossági megkérdezésen alapuló felmérések[^17], egy-egy kiemelt területre koncentrálnak. Alkalmasak egy-egy problémakör feltárására, aktuális társadalmi megítélésnek szondázására, de sem idősorosan, sem pedig – csekély számuk miatt – problématerületenként nem fedik le a bűnözési helyzetet, ezért használhatóságuk korlátozott.
+A bűnügyi statisztikákon alapuló kutatások túlsúlyát erősíti, hogy a lakossági megkérdezésen alapuló felmérések[^19], egy-egy kiemelt területre koncentrálnak. Alkalmasak egy-egy problémakör feltárására, aktuális társadalmi megítélésnek szondázására, de sem idősorosan, sem pedig – csekély számuk miatt – problématerületenként nem fedik le a bűnözési helyzetet, ezért használhatóságuk korlátozott.
 
 5.3. A hazai bűnügyi statisztika adatainak megállapításai
 
@@ -354,7 +356,7 @@ Ami a hazai helyzet nemzetközi összehasonlítását illeti, kutatási adatok a
 
 Előre kell bocsátani, hogy a bűncselekmények számának statisztikai növekedése nem jelenti egyben a bűnözés növekedését. A bűncselekmények ugyanis alapvetően két forrásból jutnak a nyomozó hatóságok tudomására: a büntetőeljárás alapja lehet feljelentés, valamint a nyomozó hatóság saját adatai alapján történő nyomozás elrendelése. A feljelentések növekedéséből és csökkenéséből sem kizárólag a bűnözés változására vonható le következtetés. Amennyiben a lakosság nem bízik a közbiztonságban, a rendvédelmi szervek hatékony munkájában, abban az esetben ha – elsősorban kisebb tárgyi súlyú – bűncselekmény sértettjévé válik, inkább nem tesz feljelentést, míg ez erős, szolgáltató jellegű nyomozó hatóságok és rendvédelmi szervek esetében az áldozatok bízva az eredményes felderítésben sokkal szívesebben fordulnak az igazságszolgáltatáshoz problémáikkal.
 
-Megállapítható, hogy jelenleg összességében a rendvédelmi szervek teljesítményét általában jóra, valamint a közbiztonság helyzetét is inkább jóra értékelik a megkérdezettek[^18]. Ugyanakkor a bűnügyi statisztikák a területi, illetve áldozattá vált személyek bontásában igen nagy eltéréseket mutatnak ki, amely koncentrált beavatkozást indokol a különösen veszélyeztetett területeken.
+Megállapítható, hogy jelenleg összességében a rendvédelmi szervek teljesítményét általában jóra, valamint a közbiztonság helyzetét is inkább jóra értékelik a megkérdezettek[^20]. Ugyanakkor a bűnügyi statisztikák a területi, illetve áldozattá vált személyek bontásában igen nagy eltéréseket mutatnak ki, amely koncentrált beavatkozást indokol a különösen veszélyeztetett területeken.
 
 5.4. A bűnügyi helyzet statisztikai értékelése (2003–2012)
 
@@ -366,13 +368,13 @@ A bűnözés növekedése már a nyolcvanas évek folyamán is nyilvánvaló vol
 
 A 2003–2012 közötti időszakot értékelve megállapítható, hogy a 1998–2002. közötti időszak folyamatos csökkenése (600.621-ről 420.782-re) után, az 2003–2005. évek mérsékelt emelkedését követően (400.147-ről 423.568-ra) 2009. évig tendenciózus, jelentősebb csökkenés jellemző (423.568-ról 375.382-re). 2009-2012. években viszont összességében 20%-kal (375.382-ről 451.512-re) emelkedett a rendőri eljárásban regisztrált bűncselekmények száma.
 
-Ez utóbbi időszak markáns emelkedése ugyanakkor a bűncselekményi főcsoportok szerinti kimutatás alapján jól láthatóan a közrend elleni bűncselekmények, azon belül pedig a járulékos bűncselekmények számának hasonló nagyságrendű növekedésével van összefüggésben[^19], amely a jogalkalmazási gyakorlat megváltozására vezethető vissza.
+Ez utóbbi időszak markáns emelkedése ugyanakkor a bűncselekményi főcsoportok szerinti kimutatás alapján jól láthatóan a közrend elleni bűncselekmények, azon belül pedig a járulékos bűncselekmények számának hasonló nagyságrendű növekedésével van összefüggésben[^21], amely a jogalkalmazási gyakorlat megváltozására vezethető vissza.
 
 Összegezve a 2003–2012. évek között – beleszámítva a járulékos bűncselekmények beszámítási kötelezettségével összefüggő torzító hatást is – a rendőri eljárásban regisztrált bűncselekmények száma a 400 ezret meghaladó nagyságrendben látszik stabilizálódni.
 
 Az egyes bűncselekményi kategóriák szerinti megoszlás
 
-Az egyes bűncselekményi főcsoportokat vizsgálva megállapítható, hogy a regisztrált bűncselekmények számán belül a vagyon elleni bűncselekmények száma a legmeghatározóbb a vizsgált időszakban, ugyanakkor közel 2/3-os vagy azt meghaladó aránya 2011–2012. évekre 58, illetve 55%-ra mérséklődött. E mérséklődés kétségkívül összefüggésbe hozható a szabálysértési értékhatár változásával[^20], valamint a járulékos bűncselekmények miatt kialakult statisztikai torzító hatással is.
+Az egyes bűncselekményi főcsoportokat vizsgálva megállapítható, hogy a regisztrált bűncselekmények számán belül a vagyon elleni bűncselekmények száma a legmeghatározóbb a vizsgált időszakban, ugyanakkor közel 2/3-os vagy azt meghaladó aránya 2011–2012. évekre 58, illetve 55%-ra mérséklődött. E mérséklődés kétségkívül összefüggésbe hozható a szabálysértési értékhatár változásával[^22], valamint a járulékos bűncselekmények miatt kialakult statisztikai torzító hatással is.
 
 Legjelentősebb a közrend elleni jogsértések arányának és számának változása 2010. évtől. Ennek hátterében a már említett járulékos bűncselekmények beszámítási kötelezettsége áll. A főcsoport regisztrált bűncselekményeken belüli, 2003–2009. években kiegyensúlyozott 17–19%-os aránya 2010. évben 21%-ra, 2011. évben 25%-ra, 2012. évben pedig 29%-ra emelkedett. A jogsértések száma pedig a 2003-2009. évek mértékadó átlagához (72.838) viszonyítva 2010-ben 25%-kal (91.030-ra), 2011-ben 45,5%-kal (105.948-ra), 2012-ben pedig 82,2%-kal (132.707-re), drasztikusan nőtt.
 
@@ -404,7 +406,7 @@ A felnőtt sértettek teszik ki az összes sértett 64,9–73,3%-át. Arányuk t
 
 5.4.3. Az erőszakos bűnözés
 
-Az erőszakos bűncselekmények[^21] számában a vizsgált időszakban meghatározható tendencia nem látható, számuk 2004–2005-ben és 2008-ban az előző évekhez képest emelkedett, a hat éves átlagtól való eltérésük pozitív irányú (rendre 5,8%, 3,8% és 4%). Számuk 2007-ben volt a legalacsonyabb 7,1%-kal az átlag alatt.
+Az erőszakos bűncselekmények[^23] számában a vizsgált időszakban meghatározható tendencia nem látható, számuk 2004–2005-ben és 2008-ban az előző évekhez képest emelkedett, a hat éves átlagtól való eltérésük pozitív irányú (rendre 5,8%, 3,8% és 4%). Számuk 2007-ben volt a legalacsonyabb 7,1%-kal az átlag alatt.
 
 2003-hoz, mint bázisévhez nézve 2012-ben 4,8%-kal regisztráltak több esetet. A személy elleni erőszakos bűncselekmények száma 2009-ben volt a legalacsonyabb, viszont a 2010-es jelentős emelkedés (35,8%-os) után stagnálás, nagyon enyhe mérséklődés következett. 2012-ben a négy éves átlagtól való eltérés 6% volt.
 
@@ -468,7 +470,7 @@ A gyermekkorú elkövetők száma a vizsgált időszakban 2004-ben volt a legmag
 
 5.4.6. A sértetté válás
 
-A gyermek- és fiatalkorú[^22] sértettek
+A gyermek- és fiatalkorú[^24] sértettek
 
 A bűncselekmények legvédtelenebb áldozatai a gyermekkorú sértettek. 2012. évben a gyermekkorúak sérelmére elkövetett bűncselekmények száma 7.727 volt, mely az összes korcsoporthoz tartozó sértettek 2,8%-a. 2012-ben az előző évhez mért csökkenés 12,6% volt (8.838-ról 7.227-re). 2008. évtől 2012. évre a bűncselekmények száma 31,7%-kal emelkedett (5.868-ról 7.727-re), így számuk 13,5%-kal az öt éves átlag (6.806) felett volt.
 
@@ -596,7 +598,7 @@ A családsegítő szolgálatok a szociális vagy mentálhigiénés problémák, 
 
 Az egészségügyi ellátórendszer tagjai: a védőnői szolgálat, a háziorvosok, a pszichológusok és pszichiáterek fontos szerepet töltenek be a veszélyeztetettség észlelésében, a jelzőrendszer működtetésében és áldozattá válás esetén a terápiás ellátásban.
 
-Az Igazságügyi Szolgálatok a kormányhivatalok részeként a Közigazgatási és Igazságügyi Hivatal szakmai irányítása alatt, a rendőrséggel szoros együttműködésben látják el a pártfogó felügyelői feladatokat, az áldozatok segítését, és a jogi segítségnyújtást. A Pártfogó Felügyelői Szolgálat a felnőtt- és fiatalkorú elkövetők pártfogó felügyeletét, a közérdekű munka büntetés végrehajtásának felügyeletét és ellenőrzését, a szabadulás előkészítése érdekében végzett börtönpártfogást, szabadulás után önkéntesen igénybe vehető utógondozást lát el, valamint mediációs tevékenységet végez büntetőügyekben. Szakmai feladatai szorosan kapcsolódnak a bűnmegelőzéshez. Ugyanez igaz az Áldozatsegítő Szolgálatra is, amely az áldozatot a szükségletének megfelelő módon és mértékben hozzásegíti alapvető jogai érvényesítéséhez, az egészségügyi, egészségbiztosítási ellátások és a szociális ellátások igénybevételéhez, illetőleg indokolt esetben azonnali pénzügyi segélyt nyújt, és állami kárenyhítésről dönt. Emellett, amennyiben szakjogászi segítségre van szükség, az Áldozatsegítő Szolgálat az ügyfelet a Jogi Segítségnyújtó Szolgálathoz irányítja, ahol biztosítják számára a megfelelő jogi képviseletet.
+Az Igazságügyi Szolgálatok a kormányhivatalok részeként az Igazságügyi Minisztérium szakmai irányítása alatt, a rendőrséggel szoros együttműködésben látják el a pártfogó felügyelői feladatokat, az áldozatok segítését, és a jogi segítségnyújtást. A Pártfogó Felügyelői Szolgálat a felnőtt- és fiatalkorú elkövetők pártfogó felügyeletét, a közérdekű munka büntetés végrehajtásának felügyeletét és ellenőrzését, a szabadulás előkészítése érdekében végzett börtönpártfogást, szabadulás után önkéntesen igénybe vehető utógondozást lát el, valamint mediációs tevékenységet végez büntetőügyekben. Szakmai feladatai szorosan kapcsolódnak a bűnmegelőzéshez. Ugyanez igaz az Áldozatsegítő Szolgálatra is, amely az áldozatot a szükségletének megfelelő módon és mértékben hozzásegíti alapvető jogai érvényesítéséhez, az egészségügyi, egészségbiztosítási ellátások és a szociális ellátások igénybevételéhez, illetőleg indokolt esetben azonnali pénzügyi segélyt nyújt, és állami kárenyhítésről dönt. Emellett, amennyiben szakjogászi segítségre van szükség, az Áldozatsegítő Szolgálat az ügyfelet a Jogi Segítségnyújtó Szolgálathoz irányítja, ahol biztosítják számára a megfelelő jogi képviseletet.
 
 A büntetés-végrehajtási szervezet elsődleges feladata az előzetes letartóztatás és a szabadságvesztés büntetések végrehajtása. Annak érdekében, hogy a fogvatartottak bűnismétlési kockázata alacsony legyen, szükséges, hogy a fogvatartott oktatása, képességfejlesztése már az intézetekben megkezdődjön.
 
@@ -870,7 +872,7 @@ A. A külterületeken, elnéptelenedő falvakban élők sérelmére elkövetett 
 
 | Felelős: | rendőrség |
 
-| Partner: | VM, EMMI, BM, NBT, önkormányzatok, polgárőrség |
+| Partner: | ME, EMMI, BM, NBT, önkormányzatok, polgárőrség |
 
 | Forrás: | első évben 20.000.000 forint, azt követően évente 10.000.000 forint, központi költségvetés |
 
@@ -1254,9 +1256,9 @@ D. A család védelmi funkciójának növelése
 
 | Intézkedés: | Ki kell alakítani a szülői felelősség hatékonyabb és konkrétabb számonkérhetőségének rendjét a családtámogatási rendszeren belül. Egy szakemberekből álló munkacsoport keretein belül meg kell vizsgálni azokat a szükséges jogszabály-módosításokat, amelyeken keresztül elérhető a család védelmi funkciójának növelése, a gyermekek veszélyeztetésének csökkentése. Meg kell vizsgálni továbbá, hogyan biztosítható helyi önkormányzati szinten a szülők képzésének, továbbképzésének intézményrendszere. |
 
-| Felelős: | EMMI, KIM, BM, SZGYF |
+| Felelős: | EMMI, IM, BM, SZGYF |
 
-| Partner: | rendőrség, NBT |
+| Partner: | rendőrség, NBT, NCSSZI, OBDK |
 
 | Forrás: | nem igényel többletköltséget |
 
@@ -1278,7 +1280,7 @@ A. Szórakozóhely-ellenőrzések fokozása
 
 | Intézkedés: | A kábítószer-fogyasztás és a 18 év alattiak alkoholfogyasztásának visszaszorítása érdekében szigorítani kell a szórakozóhelyekkel, vendéglátóipari egységekkel szembeni fellépést, fokozni kell a szórakozóhelyek és környékének ellenőrzését. |
 
-| Felelős: | EMMI, KIM, BM, NGM, NAV |
+| Felelős: | EMMI, IM, BM, NGM, NAV |
 
 | Partner: | rendőrség, polgárőrség |
 
@@ -1470,15 +1472,15 @@ A. A szekunder viktimizáció elkerülését szolgáló szakmai protokollok mega
 
 | Intézkedés: | Munkacsoport keretében fel kell térképezni mindazokat az állami szervezeteket, önkormányzati intézményeket, egyházi és civil szervezeteket, amelyek kapcsolatba kerülnek bűncselekmények áldozatává vált személyekkel. Az azonosított állami és önkormányzati szervezeteknél fel kell mérni a másodlagos áldozattá válás kockázatait, és ki kell dolgozni a kockázatokra reflektáló, a másodlagos áldozattá válás specialitásaira figyelemmel levő protokollokat. Ki kell dolgozni a protokollok működésének nyomon követését, monitoringját is. A protokollok kidolgozásakor kiemelt figyelmet kell fordítani a sérülékeny áldozatokra. Azoknál az intézményeknél, szervezeteknél, ahol már vannak ilyen protokollok, felül kell vizsgálni és szükség esetén módosítani kell azokat. A munkacsoportnak vizsgálnia kell azt is, hogy milyen feltételekkel írható elő kompetencia alapú alkalmassági vizsgálat és fejlesztés a sértettekkel/áldozatokkal kapcsolatba kerülő szakemberek részére. Az egyházi és civil szervezeteket ösztönözni kell a kockázatok felmérésére, protokollok kidolgozására, működtetésre és monitoringjára. Számukra keret-protokollt kell készíteni. |
 
-| Felelős: | KIM |
+| Felelős: | IH |
 
-| Partner: | BM, EMMI, OBH, LÜ, NAV, rendőrség, KIH, NBT |
+| Partner: | BM, EMMI, OBH, LÜ, NAV, rendőrség, IM, NBT |
 
 | Forrás: | 8.000.000 forint, központi költségvetés |
 
 | Eszköz: | adatbázis létrehozása, protokollok kidolgozása |
 
-| Határidő: | 2015. december 31. |
+| Határidő: | 2016. május 31. |
 
 | Indikátor: | éves felülvizsgálat lezajlik |
 
@@ -1486,9 +1488,9 @@ B. A szekunder viktimizáció elkerülését szolgáló módszerek alap- és tov
 
 | Intézkedés: | Ki kell dolgozni a másodlagos viktimizáció elkerüléséhez szükséges technikák képzési tananyagát és az oktatás módszertanát. A kidolgozott oktatási tananyagot és az oktatásmódszertant a közép és felsőfokú rendészeti oktatásban, valamint valamennyi, az áldozatokkal kapcsolatba kerülő szakma továbbképzési programjában oktatni, illetve használni kell. A képzési anyagokat szakterületektől függően, differenciált tartalommal kell kidolgozni. |
 
-| Felelős: | KIM |
+| Felelős: | IH |
 
-| Partner: | EMMI, BM, NKE, KIH, NBT, OBH, LÜ, NAV, rendőrség |
+| Partner: | EMMI, BM, NKE, IM, NBT, OBH, LÜ, NAV, rendőrség |
 
 | Forrás: | 8.000.000 forint, központi költségvetés |
 
@@ -1502,9 +1504,9 @@ C. Sértettek, tanúk számára információs pultok biztosítása
 
 | Intézkedés: | Az állampolgárok a nem ismert, ritkán tapasztalt eljárásokat nehezen értik meg, idegenkedve fogadják. Folyamatban lévő ügyükben ritkán kapnak érdemi tájékoztatást. A büntetőeljárásban történő megfelelő eligazodását egyes országokban (például Franciaország) információs pultok segítik, ahol a büntetőeljárásokban sértettként/tanúként érintetteknek a saját ügyükben érdemi felvilágosítással szolgálnak arról hogyan áll az adott ügy, mikorra várható a következő lépés, továbbá bárki számára általános jellegű tájékoztatást adnak a szervezet működéséről. Mindezt naprakész informatikai rendszer támogatja. Felismerték ugyanis, hogy az igazságszolgáltatás végső soron az állampolgárokért van. Az igazságszolgáltatás áttekinthetősége nem csak demokratikus követelmény, hanem csökkenti az azzal kapcsolatos fenntartásokat, a szekunder viktimizáció ártalmas hatásait, de fokozza a sértettek, tanúk hatóságokkal való együttműködését is. Az információs pultok Magyarországi bevezetésének vizsgálata érdekében modellprojekt indításához módszertant kell kidolgozni, majd az ország három különböző megyei jogú városában másfél év időtartalomban modellprojekt keretében tesztelni a nyomozóhatóságokon, az ügyészségeken és a bíróságokon. |
 
-| Felelős: | KIM, OBH, LÜ, rendőrség |
+| Felelős: | IM, OBH, LÜ, rendőrség |
 
-| Partner: | KIH, NAV |
+| Partner: | IH, NAV |
 
 | Forrás: | 30.000.000 forint, központi költségvetés |
 
@@ -1516,7 +1518,7 @@ C. Sértettek, tanúk számára információs pultok biztosítása
 
 8.3.3. Áldozatsegítő szolgáltatások szélesítése
 
-Az állami áldozatsegítést az Ást. szabályozza. A törvényben meghatározott feladatokat a fővárosi és megyei kormányhivatalok igazságügyi szolgálatai, valamint a Közigazgatási és Igazságügyi Hivatal látják el. A szolgálat működésének több mint hét éves tapasztalatai, az ezalatt megvalósított modellprogramok, valamint az áldozatok igényei alapján megfogalmazhatók azok a fejlesztési-, illetve hiányterületek, amelyek az állami áldozatsegítést úgy teszik teljesebbé, hogy szélesítik a nyújtott szolgáltatások körét, hatékonyabban mérséklik a bűnözés okozta pszichés károkat, megkönnyítik a nyújtott szolgáltatások elérését.
+Az állami áldozatsegítést az Ást. szabályozza. A törvényben meghatározott feladatokat a fővárosi és megyei kormányhivatalok igazságügyi szolgálatai, valamint az Igazságügyi Hivatal látják el. A szolgálat működésének több mint hét éves tapasztalatai, az ezalatt megvalósított modellprogramok, valamint az áldozatok igényei alapján megfogalmazhatók azok a fejlesztési-, illetve hiányterületek, amelyek az állami áldozatsegítést úgy teszik teljesebbé, hogy szélesítik a nyújtott szolgáltatások körét, hatékonyabban mérséklik a bűnözés okozta pszichés károkat, megkönnyítik a nyújtott szolgáltatások elérését.
 
 Intézkedések:
 
@@ -1524,15 +1526,15 @@ A. Hatékonyabb rendőrség által nyújtott tájékoztatás az áldozatsegítő
 
 | Intézkedés: | A magyar áldozatsegítő rendszer úgy került kiépítésre, hogy az áldozatoknak a rendőrségi tájékoztatást követően aktívan, kérelmezőként kell fellépniük annak érdekében, hogy segítséghez jussanak. A rendőrség és a határőrség áldozatsegítő feladatairól szóló 17/2007. (III. 13.) IRM rendelet szerint a rendőrség minden sértettnek – akkor, amikor az adott ügyben a rendőrséggel először kerül kapcsolatba – átadja a fővárosi és megyei kormányhivatalok igazságügyi szolgálata által a rendőrségre eljutatott tájékoztatót, egyúttal szóban felhívja figyelmüket az áldozatsegítés lehetőségére és arra, hogy az Ást. szerinti áldozatsegítő támogatások igénybevételéhez szükséges igazolást a rendőrség kérelmükre kiállítja. Az áldozatoknak nyújtott tájékoztatásnak nem kellően hatékony formája a feljelentési jegyzőkönyv egyik bekezdésének – több más figyelmeztetéssel, figyelemfelhívással együtt történő – aláíratása. Az áldozatsegítő szolgálat által biztosított támogatások lehetőségéről szóló tájékoztatás hatékony módjáról munkacsoport keretében protokollt kell kidolgozni az alábbi szempontokra figyelemmel: a rendőri munka sajátosságaira; a sértett bűncselekményt követő pszichés állapotára; a tájékoztatás formája, módja, mértéke és részletessége az áldozat sajátos szükségleteitől és személyes körülményeitől, valamint a bűncselekmény típusától vagy természetétől függően változhat; a tájékoztatást egyszerű és közérthető nyelven kell nyújtani; ki kell dolgozni a protokoll működésének nyomon követését, monitoringját is. |
 
-| Felelős: | KIH, rendőrség |
+| Felelős: | IH, rendőrség |
 
-| Partner: | KIM, BM, NBT, kormányhivatalok, egyetemek, LÜ |
+| Partner: | IM, BM, NBT, kormányhivatalok, egyetemek, LÜ |
 
 | Forrás: | 2 millió forint, NBT költségvetése |
 
 | Eszköz: | munkacsoport |
 
-| Határidő: | protokoll elkészítésére: 2014. december 31. a protokoll alkalmazására: 2015. április 1. |
+| Határidő: | protokoll elkészítésére: 2015. december 31. a protokoll alkalmazására: 2016. április 1. |
 
 | Indikátor: | protokoll elkészül |
 
@@ -1540,15 +1542,15 @@ B. Országossá kell tenni a civil önkéntes áldozatsegítői hálózatot, az 
 
 | Intézkedés: | A területi áldozatsegítő szolgálatok egy kivételével a megyeszékhelyen találhatóak, a területi áldozatsegítő szolgálatoknál jellemzően két fő dolgozik. Az áldozatsegítő szolgálat működésének kezdetétől komoly problémát jelentett az, hogy a nem megyeszékhelyen élő áldozatok milyen módon juthatnak hozzá a támogatásokhoz, a személyes segítségnyújtáshoz. A TÁMOP 5.6.2. „A társadalmi kohéziót erősítő bűnmegelőzési és reintegrációs programok módszertani megalapozása” című projekt keretében kipróbálására került az önkéntes rendszer, amely a segítségnyújtás térbeli és időbeli korlátozottságát orvosolni képes. Az önkéntesek érzelmi támogatást és az ügyintézéshez adminisztratív segítséget nyújtanak, ezzel a nem megyeszékhelyen élő áldozatok számára is elérhetővé teszik a szolgáltatást. A projekt kilenc megyében valósult meg, a kidolgozott módszertan és a meglévő tapasztalatok alapján az önkéntes áldozatsegítő hálózat országossá tehető. Az önkénteseket fel kell készíteni arra is, hogy a büntetőeljárás során a sértettet, tanút, ha kéri, az eljárási cselekményekre el tudják kísérni, mert egyes esetekben az elkövetővel való esetleges találkozás gondolata komoly pszichés nyomást jelent (ez a tanúkénti meghallgatás sikerét is rontja), ilyenkor a támogató fizikai jelenlét komoly segítség (hasonló megoldást alkalmaz például Hollandia). A területi áldozatsegítő szolgálatoknál önkéntes-szervezőként szociális munkást kell alkalmazni, aki emellett az érdekérvényesítés elősegítése áldozatsegítő szolgáltatást a jelenleginél hatékonyabban tudja ellátni. |
 
-| Felelős: | KIM, KIH, kormányhivatalok |
+| Felelős: | ME, IH, kormányhivatalok |
 
-| Partner: | polgárőrség, civil szervezetek, egyházak, önkéntesek |
+| Partner: | polgárőrség, civil szervezetek, egyházak, önkéntesek, IM |
 
-| Forrás: | tréning vonatkozásában KIH költségvetése évi 10.000.000 forint, létszámfejlesztés a kormányhivatalok költségvetése évi 80.000.000 forint, önkéntesek költségtérítése a kormányhivatalok költségvetése évi 30.000.000 forint. |
+| Forrás: | tréning vonatkozásában IH költségvetése évi 10.000.000 forint, létszámfejlesztés a kormányhivatalok költségvetése évi 80.000.000 forint, önkéntesek költségtérítése a kormányhivatalok költségvetése évi 30.000.000 forint. |
 
 | Eszköz: | kidolgozott módszertan, meglévő tapasztalatok |
 
-| Határidő: | 2015-től folyamatos |
+| Határidő: | 2016. május 31. |
 
 | Indikátor: | járásonként egy önkéntes, megyénként egy önkéntes szervező |
 
@@ -1556,9 +1558,9 @@ C. A pszichológiai segítségnyújtáshoz való hozzáférés lehetőségének 
 
 | Intézkedés: | A pszichés károsodásokat jelenleg az áldozatsegítő szolgálat csak eseti jelleggel tudja kezeltetni. Azoknak a személyeknek, akik különösen kiszolgáltatottak, vagy akik olyan helyzetbe kerülnek, amelynek következtében különösen nagymértékben ki vannak téve a sérelem kockázatának, pszichológiai szaksegítségben is kell részesülniük. A fentiekkel összhangban a 2012/29/EU irányelv 9. cikk (1) bekezdés c) pontja el is várja azt, hogy az áldozatok az áldozatsegítő szolgálatnál pszichológiai segítségnyújtásban is részesüljenek. Az áldozatsegítő szolgálatnál országosan nem megoldott a pszichológiai segítségnyújtás. Ezt az ellátási formát, az egyenlő esélyek biztosítása érdekében is fejleszteni szükséges és országossá kell tenni. |
 
-| Felelős: | KIM, kormányhivatalok |
+| Felelős: | ME, kormányhivatalok |
 
-| Partner: | KIH |
+| Partner: | IM, IH |
 
 | Forrás: | évi 80.000.000 forint, kormányhivatalok költségvetése |
 
@@ -1572,9 +1574,9 @@ D. Az állami kárenyhítés rendszerének felülvizsgálata
 
 | Intézkedés: | Az állami kárenyhítést az Ást. szabályozza. A törvény értelmében a bűncselekménnyel okozott kár mértékét iratokkal kell igazolni. A gyakorlati tapasztalat az, hogy a bűncselekményt követő három hónapos igényérvényesítési határidőn belül nagyszámú esetben nehézséget okoz a kár mértékét igazoló iratok (például a nem ritkán a három hónapon túlnyúló orvosi kezelések díja) beszerzése. Tekintettel arra is, hogy a kárenyhítés olyan szándékos, személy elleni erőszakos bűncselekmények esetén jár, amelyek következményeként a sértett testi épsége, egészsége súlyosan károsodott, vagy a sértett meghalt, ezért lehetőség szerint az áldozatok ügyintézésnek, igényérvényesítésének könnyítése indokolt. Mindezekre tekintettel felül kell vizsgálni a kár mértékét igazoló iratok csatolásának törvényi előírását. Meg kell vizsgálni azt is, hogy – az állami kárenyhítés egyéb feltételeinek fennállása esetén – indokolt lehet-e a kár mértékének igazolása helyett, vagy a mellett kárátalány bevezetése. A felülvizsgálatnak ki kell terjednie az igényérvényesítési határidő hosszának, valamint az állami kárenyhítést biztosító szervezeti keretek vizsgálatára is. |
 
-| Felelős: | KIM |
+| Felelős: | IM |
 
-| Partner: | KIH, kormányhivatalok |
+| Partner: | IH, kormányhivatalok |
 
 | Forrás: | nem igényel többletforrást |
 
@@ -1588,9 +1590,9 @@ E. 24 órás telefonos diszpécser szolgálat fenntartása és országossá tét
 
 | Intézkedés: | A TÁMOP 5.6.2. „A társadalmi kohéziót erősítő bűnmegelőzési és reintegrációs programok módszertani megalapozása” keretében kialakításra került és megkezdte működést a 24 órás telefonos diszpécserszolgálat, amelynek segítségével az áldozatsegítő szolgálat elérhetősége folyamatosan biztosítható. Munkaidőben és munkaidőn kívül (este és hétvégén) a bűncselekmények áldozatai ingyenesen hívható zöld számon kaphatnak a helyzetnek megfelelő tájékoztatást, tanácsadást, valamint az önkéntes hálózattal együttműködve közvetlen segítséget. A 24 órás telefonos diszpécser szolgálatot a fenntartási időszak lejártát követően is fenn kell tartani, egyúttal az országos ismertségét növelni kell. |
 
-| Felelős: | KIH |
+| Felelős: | IH |
 
-| Partner: | KIM |
+| Partner: | IM |
 
 | Forrás: | évi 60.000.000 forint, KIH költségvetése |
 
@@ -1604,9 +1606,9 @@ F. Krízisellátás bevezetésének vizsgálata
 
 | Intézkedés: | Súlyos, személy elleni erőszakos bűncselekmények elszenvedése esetén az azonnali krízisellátás nem biztosított. Meg kell vizsgálni az azonnali, helyszínen történő pszichológiai segítségnyújtás megszervezésének lehetőségét a súlyos, személy elleni erőszakos bűncselekmények áldozatai számára. |
 
-| Felelős: | KIM |
+| Felelős: | IM |
 
-| Partner: | EMMI, KIH, rendőrség, kormányhivatalok |
+| Partner: | EMMI, IH, rendőrség, kormányhivatalok |
 
 | Forrás: | nem igényel többletforrást |
 
@@ -1622,7 +1624,7 @@ G. Áldozatpolitikai célok megjelenítése a médiában
 
 | Felelős: | NMHH |
 
-| Partner: | NBT, ME, KIM, KIH, rendőrség, civil szervezetek, polgárőrség, egyházak |
+| Partner: | NBT, ME, IM, IH, rendőrség, civil szervezetek, polgárőrség, egyházak |
 
 | Forrás: | a médiában való megjelenési forrást nem igénylő módjának megtalálásához médiaszakemberek bevonása szükséges |
 
@@ -1692,7 +1694,7 @@ A. Többszakaszos fogvatartotti reintegrációs szolgáltatások megvalósítás
 
 | Felelős: | BM |
 
-| Partner: | BVOP, KIH, NMH, NGM |
+| Partner: | BVOP, IH, NMH, NGM |
 
 | Forrás: | 10.400.000.000 forint, Emberi Erőforrás Fejlesztési Operatív Program |
 
@@ -1706,9 +1708,9 @@ B. Jóvátételi programok megvalósítása az időskorúak javára
 
 | Intézkedés: | Fel kell mérni, hogy a most megvalósuló jóvátételi programok miként tudják kiemelten segíteni az időskorúakat. |
 
-| Felelős: | KIH, BM |
+| Felelős: | IH, BM |
 
-| Partner: | BVOP, NMH, KIM |
+| Partner: | BVOP, NMH, IM |
 
 | Forrás: | többletforrást nem igényel |
 
@@ -1738,9 +1740,9 @@ D. Hatósági erkölcsi bizonyítvány szabályozása a munkaerő-piaci reintegr
 
 | Intézkedés: | A szabadságvesztésre ítélt fogvatartottak munkaerő-piaci elhelyezkedésének egyik akadálya, hogy a szabadulást követően nem rendelkeznek hatósági erkölcsi bizonyítvánnyal. Ezért meg kell vizsgálni a jelenlegi szabályozást és gyakorlatot annak érdekében, hogy az arra érdemes elítéltek a szabadulást követően be/vissza tudjanak lépni a munkaerő-piacra. |
 
-| Felelős: | KIM |
+| Felelős: | IM |
 
-| Partner: | BM, BVOP, KIH, Kúria |
+| Partner: | BM, BVOP, IH, Kúria |
 
 | Forrás: | többletforrást nem igényel |
 
@@ -1772,7 +1774,7 @@ F. Resztoratív szemlélet erősítése a személyi állomány képzésében
 
 | Felelős: | BVOP |
 
-| Partner: | BM, NKE, KIH, kormányhivatalok |
+| Partner: | BM, NKE, IH, kormányhivatalok |
 
 | Forrás: | többletforrást nem igényel |
 
@@ -1830,9 +1832,9 @@ A. Közösségi foglalkoztatók kialakítása
 
 | Intézkedés: | A közösségi foglalkoztató a Pártfogó Felügyelői Szolgálat háttérintézményeként működő speciális intézmény, amelynek legfontosabb funkciója az alternatív szankciók, illetve helyreállító igazságszolgáltatási eszközök körének bővítése. Jelenleg csak Budapesten és Borsod-Abaúj-Zemplén megyében működik közösségi foglalkoztató. Növelni kell a magatartási szabályok végrehajtására alkalmas közösségi foglalkoztatók számát úgy, hogy legalább minden régióban legyen elérhető. |
 
-| Felelős: | KIH |
+| Felelős: | IH |
 
-| Partner: | KIM, BM, kormányhivatalok |
+| Partner: | IM, BM, kormányhivatalok |
 
 | Forrás: | 600.000.000,- forint, Emberi Erőforrás Fejlesztési Operatív Program |
 
@@ -1846,7 +1848,7 @@ B. Kockázatértékelés fejlesztése
 
 | Intézkedés: | A pártfogó felügyelet alatt állók bűnismétlésével összefüggő kockázatértékelés fejlesztése, amely meghatározza a pártfogó felügyelet tartalmát is. |
 
-| Felelős: | KIM, KIH |
+| Felelős: | IH |
 
 | Partner: | – |
 
@@ -1854,7 +1856,7 @@ B. Kockázatértékelés fejlesztése
 
 | Eszköz: | kutatás |
 
-| Határidő: | 2014. december 31. |
+| Határidő: | 2015. december 31. |
 
 | Indikátor: | bevont pártfogoltak |
 
@@ -1870,7 +1872,7 @@ A. Látenciakutatás
 
 | Felelős: | BM |
 
-| Partner: | NBT, KIM, OBH, LÜ, rendőrség, NAV |
+| Partner: | NBT, IM, OBH, LÜ, rendőrség, NAV |
 
 | Forrás: | 15.000.000 forint, központi költségvetés |
 
@@ -1934,7 +1936,7 @@ E. Részvétel az EBESZ keretein belül működő képzésekben, a lehetőségek
 
 | Felelős: | BM |
 
-| Partner: | KIM, BVOP, rendőrség |
+| Partner: | IM, BVOP, rendőrség |
 
 | Forrás: | résztvevő szervek költségvetése |
 
@@ -1946,41 +1948,51 @@ E. Részvétel az EBESZ keretein belül működő képzésekben, a lehetőségek
 
 8.6. Az intézkedési Terv 2013–2015 részben alkalmazott rövidítések
 
-Az intézkedési Terv 2013–2015 részben alkalmazott rövidítések és azok magyarázatai:
+Az intézkedési Terv 2013–2015 részben alkalmazott rövidítések és azok magyarázatai
 
-| BM: | Belügyminisztérium |
+|  | A | B |
 
-| BVOP: | Büntetés-végrehajtás Országos Parancsnoksága |
+| 1. | BM | Belügyminisztérium |
 
-| EMMI: | Emberi Erőforrások Minisztériuma |
+| 2. | BVOP | Büntetés-végrehajtás Országos Parancsnoksága |
 
-| KIH: | Közigazgatási és Igazságügyi Hivatal |
+| 3. | EMMI | Emberi Erőforrások Minisztériuma |
 
-| KIM: | Közigazgatási és Igazságügyi Minisztérium |
+| 4. | IH | Igazságügyi Hivatal |
 
-| KLIK: | Klebelsberg Intézményfenntartó Központ |
+| 5. | IM | Igazságügyi Minisztérium |
 
-| LÜ: | Legfőbb Ügyészség |
+| 6. | KLIK | Klebelsberg Intézményfenntartó Központ |
 
-| NAV: | Nemzeti Adó- és Vámhivatal |
+| 7. | LÜ | Legfőbb Ügyészség |
 
-| NBT: | Nemzeti Bűnmegelőzési Tanács |
+| 8. | MABISZ | Magyar Biztosítók Szövetsége |
 
-| NFM: | Nemzeti Fejlesztési Minisztérium |
+| 9. | ME | Miniszterelnökség |
 
-| NGM: | Nemzetgazdasági Minisztérium |
+| 10. | NAV | Nemzeti Adó- és Vámhivatal |
 
-| NKE: | Nemzeti Közszolgálati Egyetem |
+| 11. | NBT | Nemzeti Bűnmegelőzési Tanács |
 
-| NMH: | Nemzeti Munkaügyi Hivatal |
+| 12. | NCSSZI | Nemzeti Család- és Szociálpolitikai Intézet |
 
-| NMHH: | Nemzeti Média- és Hírközlési Hatóság |
+| 13. | NFM | Nemzeti Fejlesztési Minisztérium |
 
-| OBH: | Országos Bírósági Hivatal |
+| 14. | NGM | Nemzetgazdasági Minisztérium |
 
-| SZGYF: | Szociális és Gyermekvédelmi Főigazgatóság |
+| 15. | NKE | Nemzeti Közszolgálati Egyetem |
 
-| VM: | Vidékfejlesztési Minisztérium |
+| 16. | NMH | Nemzeti Munkaügyi Hivatal |
+
+| 17. | NMHH | Nemzeti Média- és Hírközlési Hatóság |
+
+| 18. | OBDK | Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ |
+
+| 19. | OBH | Országos Bírósági Hivatal |
+
+| 20. | SZGYF | Szociális és Gyermekvédelmi Főigazgatóság |
+
+| 21. | SZVMSZK | Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara |
 
 9. MONITORING
 
@@ -1997,24 +2009,26 @@ Az intézkedési tervek kétévente, kétéves időtávra kerülnek megalkotásr
 Jelen stratégia tartalmazza a 2013–2015-re vonatkozó intézkedési tervet.
 
 [^1]: A 2a. pontot az 1013/2015. (I. 22.) Korm. határozat 8. pontja iktatta be.
-[^2]: 1 ECOSOC Resolution 2002/13: Action to promote effective crime prevention
-[^3]: 2 ECOSOC Resolution 2005/22: Action to promote effective crime prevention
-[^4]: 3 Compendium of United Nations Standards and Norms in Crime Prevention and Criminal Justice, 1992
-[^5]: 4 ECOSOC 2008/24: Strengthening prevention of urban crime: an integrated approach
-[^6]: 5 Guidelines for the Prevention of Crime ECOSOC Resolution 2002/13, Annex
-[^7]: 6 Guidelines for police officers involved in community policing, 2012, közvetlenül Örményországra koncentráló, de általános, nemzetközi gyakorlatot is bemutató kiadvány
-[^8]: 7 Police and Roma and Sinti: Good Practices in Building Trust and Understand, 2010
-[^9]: 8 Preventing and responding to hate crimes: A resource guide for NGOs in the OSCE region, 2009
-[^10]: 9 Council of Europe Convention on preventing and combating violence against women and domestic violence (2011), CETS 210
-[^11]: 10 Council of Europe Convention on the Protection of Children against Sexual Exploitation and Sexual Abuse (2007), CETS 201
-[^12]: 11 Council of Europe Convention on Action against Trafficking in Human Beings (2005), CEST 197 (kihirdette: 2013. évi XVIII. törvény)
-[^13]: 12 Convention on Cybercrime (2001), CEST 185 (kihirdette: 2004. évi LXXIX. törvény)
-[^14]: 13 Council of Europe Convention on the Prevention of Terrorism (2005), CEST 196 (kihirdette: 2011. évi II. törvény)
-[^15]: 14 A Stockholmi Program – A polgárokat szolgáló és védő, nyitott és biztonságos Európa, Hivatalos Lap C 115 of 4.5.2010, 2010/C 115/01
-[^16]: 15 Dok. N° 17444/12
-[^17]: 16 Mint például a fiatalok védelmét szolgáló egyes intézkedésekkel kapcsolatos felmérés (2011) vagy az Önkormányzatok, az iskolák és a szülői szervezetek körében készített felmérés (2012).
-[^18]: 17 Önkormányzatok, az iskolák és a szülői szervezetek körében készített felmérés (2012) alapján.
-[^19]: 18 Az emelkedés hátterében áll, hogy 2009-ben a Legfelsőbb Bíróság 1/2009. Büntető jogegységi határozat iránymutatása szerint a lopás mellett megjelenő járulékos bűncselekmények minősítési gyakorlata megváltozott. A büntető jogegységi határozat következményeként rögzített visszaélés okirattal, valamint készpénz-helyettesítő fizetési eszközzel deliktumok mennyisége (összefoglalva járulékos bűncselekmények) is megemelkedett, ezzel párhuzamosan az összbűncselekmények száma is növekedésnek indult. Az ENyÜBS rendszer azonban a járulékos bűncselekmények esetén az elkövetés helyszínét nem regisztrálja, tehát e cselekmények nem jelentek meg a közterületi bűncselekményi statisztikában.
-[^20]: 19 A szabálysértési értékhatár változásai a Büntető Törvénykönyvről szóló 1978. évi IV. törvény hatálybalépésétől 1979. július 1-jétől 1000 Ft., 1983. szeptember 1-jétől 2000 Ft., 1993. május 15-től 5000 Ft., 2000. március 1-jétől 10 000 Ft., 2007. június 1-jétől 20 000 Ft., 2012. április 15-től 50 000 Ft.
-[^21]: 20 A statisztikai adatok rendőrségi adatgyűjtésen és feldolgozási módszereken alapulnak. Az erőszakos és garázda jellegű bűncselekmények vizsgálata a rendőrségi adatgyűjtés alapján csak 2008-ig lehetséges, mivel 2009. január elsejétől helyette - más bűncselekményi körrel - bevezetésre került a személy elleni erőszakos bűncselekményeket tartalmazó kategória.
-[^22]: 21 Büntetőjogi szempontból a gyermekkorú és a fiatalkorú sértett fogalma értelmezhetetlen, mindazonáltal a kriminálstatisztika gyermekkorú sértettnek tekinti azon sértettet, aki a 14 életévét nem töltötte be, míg fiatalkorúnak a 14-18 év közöttit. Ezen életkori határok a Btk. 2013. július 1-jei hatálybalépéséig megegyeztek a büntetőjogi felelősség szempontjából releváns életkori határokkal, ezután azonban meghatározott bűncselekmények esetén a fiatalkor 12 éves kornál kezdődik.
+[^2]: A 2b. pontot az 1429/2015. (VI. 30.) Korm. határozat 1. pontja iktatta be.
+[^3]: Az 1. melléklet az 1429/2015. (VI. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: 1 ECOSOC Resolution 2002/13: Action to promote effective crime prevention
+[^5]: 2 ECOSOC Resolution 2005/22: Action to promote effective crime prevention
+[^6]: 3 Compendium of United Nations Standards and Norms in Crime Prevention and Criminal Justice, 1992
+[^7]: 4 ECOSOC 2008/24: Strengthening prevention of urban crime: an integrated approach
+[^8]: 5 Guidelines for the Prevention of Crime ECOSOC Resolution 2002/13, Annex
+[^9]: 6 Guidelines for police officers involved in community policing, 2012, közvetlenül Örményországra koncentráló, de általános, nemzetközi gyakorlatot is bemutató kiadvány
+[^10]: 7 Police and Roma and Sinti: Good Practices in Building Trust and Understand, 2010
+[^11]: 8 Preventing and responding to hate crimes: A resource guide for NGOs in the OSCE region, 2009
+[^12]: 9 Council of Europe Convention on preventing and combating violence against women and domestic violence (2011), CETS 210
+[^13]: 10 Council of Europe Convention on the Protection of Children against Sexual Exploitation and Sexual Abuse (2007), CETS 201
+[^14]: 11 Council of Europe Convention on Action against Trafficking in Human Beings (2005), CEST 197 (kihirdette: 2013. évi XVIII. törvény)
+[^15]: 12 Convention on Cybercrime (2001), CEST 185 (kihirdette: 2004. évi LXXIX. törvény)
+[^16]: 13 Council of Europe Convention on the Prevention of Terrorism (2005), CEST 196 (kihirdette: 2011. évi II. törvény)
+[^17]: 14 A Stockholmi Program – A polgárokat szolgáló és védő, nyitott és biztonságos Európa, Hivatalos Lap C 115 of 4.5.2010, 2010/C 115/01
+[^18]: 15 Dok. N° 17444/12
+[^19]: 16 Mint például a fiatalok védelmét szolgáló egyes intézkedésekkel kapcsolatos felmérés (2011) vagy az Önkormányzatok, az iskolák és a szülői szervezetek körében készített felmérés (2012).
+[^20]: 17 Önkormányzatok, az iskolák és a szülői szervezetek körében készített felmérés (2012) alapján.
+[^21]: 18 Az emelkedés hátterében áll, hogy 2009-ben a Legfelsőbb Bíróság 1/2009. Büntető jogegységi határozat iránymutatása szerint a lopás mellett megjelenő járulékos bűncselekmények minősítési gyakorlata megváltozott. A büntető jogegységi határozat következményeként rögzített visszaélés okirattal, valamint készpénz-helyettesítő fizetési eszközzel deliktumok mennyisége (összefoglalva járulékos bűncselekmények) is megemelkedett, ezzel párhuzamosan az összbűncselekmények száma is növekedésnek indult. Az ENyÜBS rendszer azonban a járulékos bűncselekmények esetén az elkövetés helyszínét nem regisztrálja, tehát e cselekmények nem jelentek meg a közterületi bűncselekményi statisztikában.
+[^22]: 19 A szabálysértési értékhatár változásai a Büntető Törvénykönyvről szóló 1978. évi IV. törvény hatálybalépésétől 1979. július 1-jétől 1000 Ft., 1983. szeptember 1-jétől 2000 Ft., 1993. május 15-től 5000 Ft., 2000. március 1-jétől 10 000 Ft., 2007. június 1-jétől 20 000 Ft., 2012. április 15-től 50 000 Ft.
+[^23]: 20 A statisztikai adatok rendőrségi adatgyűjtésen és feldolgozási módszereken alapulnak. Az erőszakos és garázda jellegű bűncselekmények vizsgálata a rendőrségi adatgyűjtés alapján csak 2008-ig lehetséges, mivel 2009. január elsejétől helyette - más bűncselekményi körrel - bevezetésre került a személy elleni erőszakos bűncselekményeket tartalmazó kategória.
+[^24]: 21 Büntetőjogi szempontból a gyermekkorú és a fiatalkorú sértett fogalma értelmezhetetlen, mindazonáltal a kriminálstatisztika gyermekkorú sértettnek tekinti azon sértettet, aki a 14 életévét nem töltötte be, míg fiatalkorúnak a 14-18 év közöttit. Ezen életkori határok a Btk. 2013. július 1-jei hatálybalépéséig megegyeztek a büntetőjogi felelősség szempontjából releváns életkori határokkal, ezután azonban meghatározott bűncselekmények esetén a fiatalkor 12 éves kornál kezdődik.
