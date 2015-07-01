@@ -1,4 +1,4 @@
-## 23. §[^1]
+## 23. §[^33]
 
 1. melléklet a 6/2013. (III. 27.) BM rendelethez
 
@@ -22,18 +22,21 @@ II. A kegyeleti költségnormát nem terhelő kiadások
 
 1. Koszorú költségek:
 
-a) hősi halott, a szolgálat halottja, illetve a fegyveres szerv halottja temetésén legfeljebb 2 db koszorú;
+a)[^34] hősi halott, a szolgálat halottja, illetve a rendvédelmi feladatokat ellátó szerv halottja temetésén legfeljebb 2 db koszorú;
 
 b) szervezeti egység halottja és nem minősített elhunyt temetésén 1 db koszorú;
 
 c) síremlék avatáskor, megemlékezésekkor síremlékenként vagy emléktáblánként 1 db koszorú.
 
-2. Gyászközlemény költsége: a hősi halott, a szolgálat halottja, illetve a fegyveres szerv halottja temetése esetén, a sajtóban történő közzétételének számla szerinti összege.
+2.[^35] Gyászközlemény költsége: a hősi halott, a szolgálat halottja, illetve a rendvédelmi feladatokat ellátó szerv halottja temetése esetén, a sajtóban történő közzétételének számla szerinti összege.
 
-3. Testületi tiszteletadás költségei (ideértve a fegyveres szerv temetéssel összefüggő utazási költségeit).
+3.[^36] Testületi tiszteletadás költségei (ideértve a rendvédelmi feladatokat ellátó szerv temetéssel összefüggő utazási költségeit).
 
 4. Sírgondozás költsége: közeli hozzátartozó hiányában vagy akadályoztatása esetén a hősi halott, illetve a szolgálat halottja síremlékének gondozására, a szolgáltató által kiállított számlával igazolt összeg.
 
 5. Hősi halott sírhelyének újraváltása: közeli hozzátartozó hiányában vagy annak akadályoztatása, illetve rossz anyagi helyzete esetén a hősi halott sírhelyének újraváltása a szolgáltató által kiállított számlával igazolt összeg erejéig.
 
-[^1]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: Az 1. melléklet II. rész 1. pont a) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^35]: Az 1. melléklet II. rész 2. pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet II. rész 3. pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (2) A szociális segély egyszeri, bruttó összege a (3) bekezdésben meghatározott kivétellel nem haladhatja meg
 
-a) a Magyarország központi költségvetéséről szóló törvény által megállapított illetményalap (a továbbiakban: illetményalap) 150%-ának megfelelő összeget, ha a szociális támogatásról a területi jogállású szerv vezetője dönt,
+a)[^13] a Magyarország központi költségvetéséről szóló törvény által megállapított rendvédelmi illetményalap (a továbbiakban: illetményalap) 150%-ának megfelelő összeget, ha a szociális támogatásról a területi jogállású szerv vezetője dönt,
 
 b) az illetményalap 280%-ának megfelelő összeget, ha a szociális támogatásról az országos parancsnok vagy a központi szerv vezetője dönt, vagy
 
@@ -13,3 +13,5 @@ c) a belügyminiszter részére biztosított keret terhére adott segély eseté
 (3) Kivételesen méltányolható esetben a belügyminiszter az illetményalap legfeljebb 600%-ának megfelelő összegű szociális segélyt adhat.
 
 (4) Az ugyanazon személynek juttatott szociális segélyek éves bruttó összege nem haladhatja meg az illetményalap 600%-ának megfelelő összeget.
+
+[^13]: A 7. § (2) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 70. § d) pontja szerint módosított szöveg.

@@ -6,4 +6,6 @@
 
 (4) A szociális bizottság tagjai az őket jelölő szerv vagy személy által visszahívhatók. A megüresedett helyek betöltésére a (2) bekezdésben foglaltak szerint kell eljárni.
 
-(5) A szociális bizottság ügyrendjét a fegyveres szerv sajátosságainak megfelelően a bizottság alakítja ki és a központi vagy területi jogállású szerv vezetője hagyja jóvá.
+(5)[^12] A szociális bizottság ügyrendjét a rendvédelmi feladatokat ellátó szerv sajátosságainak megfelelően a bizottság alakítja ki és a központi vagy területi jogállású szerv vezetője hagyja jóvá.
+
+[^12]: A 4. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
