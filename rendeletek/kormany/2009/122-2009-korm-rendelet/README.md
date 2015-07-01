@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-122-20-
 | 2013-01-01 | 2009-122-20-22.8 | 447/2012. (XII. 29.) Korm. rendelet |
 | 2014-01-01 | 2009-122-20-22.9 | 520/2013. (XII. 30.) Korm. rendelet |
 | 2015-03-01 | 2009-122-20-22.10 | 72/2011. (IV. 29.) Korm. rendelet |
+| 2015-07-01 | 2009-122-20-22.11 | 162/2015. (VI. 30.) Korm. rendelet |

@@ -1,6 +1,6 @@
-## 22/A. §[^73] A 22. § szerinti szerv jogosult a szakképzés teljesítésének menetét ellenőrizni.
+## 22/A. §[^85] A 22. § szerinti szerv jogosult a szakképzés teljesítésének menetét ellenőrizni.
 
-23. §[^74] (1) A felsőoktatási intézmény a szakvizsgával már rendelkező, és költségtérítéses képzés keretében második, illetve további vagy ráépített szakképzésben részt vevő jelölttől havonta legfeljebb a Kjt. szerinti közalkalmazotti J fizetési osztály 1. fizetési fokozat garantált illetménye 15%-ának megfelelő mértékű szakképzési díjat szedhet. A szakképzési díj a (2)–(4) bekezdésben foglaltak figyelembe vételével havonta egy alkalommal, legfeljebb egy hónapra vonatkozó összegben, utólag kerülhet beszedésre.
+23. §[^86] (1) A felsőoktatási intézmény a szakvizsgával már rendelkező, és költségtérítéses képzés keretében második, illetve további vagy ráépített szakképzésben részt vevő jelölttől havonta legfeljebb a Kjt. szerinti közalkalmazotti J fizetési osztály 1. fizetési fokozat garantált illetménye 15%-ának megfelelő mértékű szakképzési díjat szedhet. A szakképzési díj a (2)–(4) bekezdésben foglaltak figyelembe vételével havonta egy alkalommal, legfeljebb egy hónapra vonatkozó összegben, utólag kerülhet beszedésre.
 
 (2) Az (1) bekezdés szerinti szakképzési díj
 
@@ -14,5 +14,5 @@ foglalja magába.
 
 (4) A (2) bekezdés b) pontja szerinti összeg az adott hónapban a szakképzés teljesítéséhez a felsőoktatási intézmény által ténylegesen nyújtott szolgáltatással arányosan határozható meg.
 
-[^73]: A 22/A. §-t a 72/2011. (IV. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
-[^74]: A 23. § a 72/2011. (IV. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^85]: A 22/A. §-t a 72/2011. (IV. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^86]: A 23. § a 72/2011. (IV. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
