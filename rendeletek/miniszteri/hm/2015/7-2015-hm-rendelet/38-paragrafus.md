@@ -1,0 +1,1 @@
+## 37. § Az állomány Nemzeti Közszolgálati Egyetemen (a továbbiakban: NKE) szolgálatot teljesítő, oktatói fokozattal rendelkező tagja az oktatói tevékenységért havonta a 3. melléklet szerinti mérték és a honvédelmi illetményalap szorzatának megfelelő összegű fokozott igénybevételi pótlékra jogosult.

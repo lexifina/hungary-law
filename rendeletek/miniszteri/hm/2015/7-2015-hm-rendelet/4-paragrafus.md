@@ -1,0 +1,3 @@
+4. § (1) E rendelet alkalmazásában eseti illetménypótléknak minősül minden II–III. Fejezet szerinti, a Hjt. 2. § 32. pontjának hatálya alá nem tartozó illetménypótlék.
+
+(2) Az állomány tagja részére a készenléti tevékenységért, az ügyeleti tevékenységért, a gyakorlaton végzett tevékenységért, az egészségügyi ügyelet ellátásáért járó fokozott igénybevételi pótlék és az ugyanezen tevékenységek időtartamát érintő túlszolgálatért járó ellentételezés – ideértve a túlszolgálat szabadidővel vagy túlszolgálati díjjal történő megváltását is – közül bármely két juttatás azonos időszakra együttesen nem állapítható meg.

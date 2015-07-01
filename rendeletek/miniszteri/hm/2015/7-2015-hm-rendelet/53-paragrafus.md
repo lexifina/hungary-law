@@ -1,0 +1,5 @@
+## 33. A belföldi vezénylés ideje alatti illetményjogosultság
+
+53. § (1) Az 55–57. §-ban meghatározott esetek kivételével az állomány azon tagja, akit – az eredeti beosztásában való meghagyása mellett, de a beosztással együttjáró feladatok ellátása alól mentesítve – a szolgálat érdekében feladat végrehajtása vagy képzésen történő részvétel céljából egy hónapot meghaladó időtartamra belföldre vezényeltek, illetményként a vezénylést megelőző illetményének a távolléti díjba tartozó illetményelemeire, valamint – a Hjt.-ben és miniszteri rendeletben szabályozott jogosultsági feltételeknek való megfelelés esetén – a feladatellátás vagy képzés helyén megállapítható eseti illetménypótlékra, továbbá a 49. § szerinti feltételekkel eseti kiegészítő illetményre jogosult.
+
+(2) Az állomány (1) bekezdés szerint vezényelt tagja illetményének a vezénylés ideje alatti felemelésére az eredeti beosztása szerinti honvédelmi szervezet, illetve a Hjt. 42. § (2) bekezdés d) pontja szerinti nem katonai oktatási intézmény munkáltatói jogkört gyakorló vezetője jogosult.
