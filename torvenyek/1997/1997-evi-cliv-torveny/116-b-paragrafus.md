@@ -5,3 +5,5 @@
 (3) A továbbképzési időszak alatt a továbbképzésre kötelezettnek a külön jogszabályban meghatározott elméleti és gyakorlati továbbképzési formákban kell részt vennie. Az elméleti és gyakorlati feltételek teljesítésének mérése pontozással történik.
 
 (4) Mentesül a továbbképzési kötelezettség alól a 75. életévét betöltött egészségügyi dolgozó.
+
+(5) Mentesül a továbbképzési kötelezettség teljesítése alól az az orvos, aki első szakorvosi szakképesítése megszerzésére irányuló képzésben vesz részt.

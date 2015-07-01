@@ -10,7 +10,9 @@
 
 (5) A bíróság a sürgősséggel felvett beteg esetében akkor rendeli el a kötelező gyógykezelést, ha a beteg veszélyeztető magatartást tanúsít és fennáll az intézeti gyógykezelés szükségessége.
 
-(6) A bíróság a határozathozatal előtt meghallgatja a beteget, az intézet vezetőjét vagy az általa kijelölt orvost, valamint beszerzi egy független – a beteg gyógykezelésében részt nem vevő – igazságügyi elmeorvos-szakértő véleményét.
+(6) A bíróság a határozathozatal előtt meghallgatja a beteget, az intézet vezetőjét vagy az általa kijelölt orvost.
+
+(6a) A bíróság az értesítés kézhezvételét követően haladéktalanul kirendel egy független, a beteg gyógykezelésében részt nem vevő igazságügyi elmeorvos szakértőt, aki szakvéleményét írásban vagy legkésőbb a (6) bekezdés szerinti meghallgatáson szóban terjeszti elő.
 
 (7) A bírósági eljárást a sürgősséggel felvett betegnél akkor is le kell folytatni, ha a beteg a határozat meghozataláig beleegyezését adta az intézeti gyógykezeléshez.
 

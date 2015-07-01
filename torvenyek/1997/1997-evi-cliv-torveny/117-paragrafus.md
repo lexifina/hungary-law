@@ -14,7 +14,7 @@ ac) orvosi, fogorvosi pecsétjének számát,
 
 ad) gyógyszerészi alap-nyilvántartási számát,
 
-b) annak az egészségügyi szolgáltatónak a megnevezését, címét, amelynél a képzés ideje alatt – a képzésbe kapcsolódás feltételeként – a képzésben részt vevő személy meghatározott munkakörben munkavégzésre irányuló jogviszonyban áll,
+b) annak az egészségügyi szolgáltatónak vagy szolgáltatóknak a megnevezését, címét, amelynél a képzésben részt vevő személy a képzését teljesítette,
 
 c) a képzésbe lépéshez szükséges szakképzettséget igazoló oklevél számát, kiállításának a helyét, idejét és az oklevelet kiállító intézmény megnevezését,
 

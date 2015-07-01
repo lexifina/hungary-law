@@ -16,7 +16,7 @@ b) a (2)–(3) bekezdés szerinti esetben hivatalból vizsgálja.
 
 (6) A pszichiátriai intézet vezetője az (5) bekezdés a) pontja szerinti kérelmet haladéktalanul továbbítja a bíróságnak, az (5) bekezdés b) pontja szerinti esetben pedig a felvételről haladéktalanul értesíti a bíróságot.
 
-(7) A bíróság az értesítés beérkezésétől számított 72 órán belül megvizsgálja, hogy az önkéntes gyógykezelés feltételei fennállnak-e. A bíróság a határozathozatal előtt meghallgatja a beteget, az intézet vezetőjét vagy az általa kijelölt orvost, valamint beszerzi független – a beteg gyógykezelésében részt nem vevő – igazságügyi elmeorvos szakértő véleményét.
+(7) A bíróság az értesítés beérkezésétől számított 72 órán belül megvizsgálja, hogy az önkéntes gyógykezelés feltételei fennállnak-e. A bíróság a határozathozatal előtt meghallgatja a beteget, az intézet vezetőjét vagy az általa kijelölt orvost, valamint beszerzi független, a beteg gyógykezelésében részt nem vevő igazságügyi elmeorvos szakértő véleményét, aki szakvéleményét írásban vagy legkésőbb a meghallgatáson szóban terjeszti elő.
 
 (8) A (6)–(7) bekezdésekben meghatározott eljárás során, amennyiben a gyógykezelés nem indokolt, a bíróság elrendeli a beteg elbocsátását. Ebben az esetben a beteget a bíróság jogerős határozatának közlésétől számított 24 órán belül el kell bocsátani az intézetből. Az önkéntes gyógykezelés alapjául szolgáló beleegyező nyilatkozat, illetve kérelem érvénytelensége esetén – amennyiben annak az e törvényben meghatározott feltételei fennállnak – a bíróság elrendeli a beteg kötelező intézeti gyógykezelését.
 

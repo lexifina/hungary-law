@@ -5,3 +5,5 @@
 (3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendelésére az egészségügyi államigazgatási szerv rendelkezése alapján az egészségügyi szolgáltató vezetője, ez utóbbi hiányában az egészségügyi államigazgatási szerv jogosult. Több megye érintettsége esetén a kirendeléseket az országos tisztifőorvos koordinálja.
 
 (4) Ha az egészségügyi válsághelyzet több megyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
+
+(5) A miniszter javaslatára a Kormány meghatározza az egészségügyi válsághelyzet felszámolása érdekében igénybe vehető erőket, eszközöket és szervezeteket.

@@ -34,6 +34,8 @@ e) időszakosan működő gyógyintézetek működtetésére,
 
 f) pótlólagos kapacitások és készletek bevonására,
 
-g) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére.
+g) gyógyintézet időszakos működtetésére, valamint a gyógyintézet működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére,
+
+h) az egészségügyi válsághelyzet felszámolásához szükséges intézkedések meghozatalára.
 
 (5) Az egészségügyi válsághelyzeti ellátásban részt vevő egészségügyi szolgáltatóknak az egészségbiztosítás által fedezett összegen felül felmerülő költségeit a központi költségvetés téríti meg.

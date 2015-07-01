@@ -28,7 +28,7 @@ c) az elméleti képzésért felelős egészségügyi felsőoktatási intézmén
 
 d) a szakképzés gyakorlati részének teljesítésére vonatkozó adatokat,
 
-e) a munkáltató nevét, címét, adószámát és bankszámla számát,
+e) a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a munkavégzés helyeként meghatározott egészségügyi szolgáltató nevét, címét, adószámát és bankszámlaszámát, vagy – ha nem a szakorvosképzésért felelős egészségügyi államigazgatási szerv a munkáltató – a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató nevét, címét, adószámát és bankszámlaszámát,
 
 f) a Rezidens Támogatási Programban történő részvétel tényét.
 
@@ -36,7 +36,7 @@ f) a Rezidens Támogatási Programban történő részvétel tényét.
 
 (5b) A (4) bekezdés szerinti nyilvántartás az (5) bekezdés a) pontjában foglalt, a szakképzésben részt vevő személyek természetes személyazonosító adatainak kivételével közhiteles hatósági nyilvántartásnak minősül.
 
-(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a munkáltató egészségügyi szolgáltatók és az egészségügyi felsőoktatási intézmények által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
+(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a munkavégzés helyeként meghatározott egészségügyi szolgáltató, vagy – ha nem szakorvosképzésért felelős egészségügyi államigazgatási szerv a munkáltató – a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató és az egészségügyi felsőoktatási intézmény által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
 
 (7) Az
 
@@ -44,7 +44,7 @@ a) (5) bekezdés a) pontjában foglalt adatok közül a természetes személyazo
 
 b) (5) bekezdés b) és c) pontjai szerinti adatokban bekövetkezett változást a felsőoktatási intézmény és
 
-c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a munkáltató
+c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a munkavégzés helyeként meghatározott egészségügyi szolgáltató, vagy – ha nem szakorvosképzésért felelős egészségügyi államigazgatási szerv a munkáltató – a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató
 
 a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.
 
