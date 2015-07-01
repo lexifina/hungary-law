@@ -26,7 +26,7 @@ k) kötelező orvosi vizsgálat időtartama,
 
 l) a véradáshoz szükséges időtartam, legalább négy óra,
 
-m) a szoptató anya részére biztosított következő időtartam: a szoptatás első 6 hónapjában naponta kétszer egy, ikergyermek esetén naponta kétszer két óra, a kilencedik hónap végéig naponta egy, ikergyermek esetén naponta két óra,
+m)
 
 n) a 32/Z. § (1) bekezdése szerinti továbbképzésben, valamint a 33. §-ban foglaltak szerint a képzésben való részvételhez szükséges idő,
 
@@ -39,3 +39,7 @@ q) a munkaszüneti nap miatt kiesett idő,
 r) a külön méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartama,
 
 s) az állásból való felfüggesztés időtartama, amennyiben a fegyelmi eljárást a 34/B. § (1) bekezdés b)–f) pontjában, a büntetőeljárást a 34/E. § (2) bekezdésben meghatározott okból szüntették meg, illetve felmentéssel zárult.
+
+(3) Az (1)–(2) bekezdésben foglaltakon túl szabadságra jogosító időnek minősül továbbá a szoptató anya részére biztosított következő időtartam: a szoptatás első 6 hónapjában naponta kétszer 1 óra, ezt követően a kilencedik hónap végéig naponta 1 óra, ikrek esetében pedig az óraszám – az előzőek figyelembevételével – az ikrek számához igazodik.
+
+(4) A (3) bekezdés pénzügyőr esetében nem alkalmazható arra az időszakra, amire a Hszt. 148. § (1) bekezdés a) pontja szerinti egészségügyi szabadságot vesz igénybe.

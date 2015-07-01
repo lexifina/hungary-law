@@ -1,6 +1,6 @@
-17/F. § (1) A méltatlansági eljárás során a Hszt. 149/A–149/C. § alkalmazásában állományilletékes parancsnokon a munkáltatói jogkör gyakorlóját kell érteni, azzal, hogy e törvény 33/J. § (4) bekezdését és (6) bekezdés a)–c) pontját megfelelően alkalmazni kell, a (6) bekezdés d) pontja szerinti esetben pedig az eljárni jogosult a NAV elnöke. A vezénylés tartama alatt a 17/D. § (4) bekezdése az irányadó.
+17/F. § (1) A méltatlansági eljárás során a Hszt. 222–224. §-a alkalmazásában állományilletékes parancsnokon a munkáltatói jogkör gyakorlóját kell érteni, azzal, hogy e törvény 33/J. § (4) bekezdését és (6) bekezdés a)–c) pontját megfelelően alkalmazni kell, a (6) bekezdés d) pontja szerinti esetben pedig az eljárni jogosult a NAV elnöke. A vezénylés tartama alatt a 17/D. § (4) bekezdése az irányadó.
 
-(2) A Hszt. 149/B. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a vizsgálatra e törvény
+(2) A Hszt. 223. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a vizsgálatra e törvény
 
 a) 33/N. § (1)–(2) bekezdésének,
 
@@ -20,6 +20,6 @@ h) 33/Y. § (2) bekezdésének
 
 rendelkezéseit kell megfelelően alkalmazni. A vizsgáló személyére vonatkozó, a 33/T. § megjelölt rendelkezései azzal alkalmazandók, hogy a vizsgáló csak pénzügyőr lehet.
 
-(3) A Hszt. 149/C. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a határozat meghozatala során e törvény 33/N. § (3) bekezdését is megfelelően alkalmazni kell.
+(3) A Hszt. 224. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a határozat meghozatala során e törvény 33/N. § (3) bekezdését is megfelelően alkalmazni kell.
 
-(4) A Hszt. 149/C. § (2) bekezdés szerinti döntéssel szemben önálló jogorvoslatnak nincs helye, a pénzügyőr az annak végrehajtásáról rendelkező határozatot a közléstől számított 30 napon belül bíróság előtt keresettel támadhatja meg.
+(4) A Hszt. 224. § (2) bekezdése szerinti döntéssel szemben önálló jogorvoslatnak nincs helye, a pénzügyőr az annak végrehajtásáról rendelkező határozatot a közléstől számított 30 napon belül bíróság előtt keresettel támadhatja meg.

@@ -1,13 +1,35 @@
 ## Eltérés a Hszt.-től
 
-17. § (1) E törvény alkalmazása során a Hszt. 2. § a)–b), e)–f), h), j), m) és v) pontja, 3. § (4)–(5) bekezdése, 4. § (4)–(5) bekezdése, 7–13. §-a, 36. § (2)–(3) bekezdése, 39. § (2) bekezdése, 40. §-a, 44. § (1) bekezdés i) pontja, 45–47/A. §-a, 48. §-a, 49. §-a, 50. §-a, 51/A. § (3) bekezdés, 56. § (1) bekezdés e) pontja, 56. § (2) bekezdés c) pontja, 56. § (5) bekezdése, 62. §-a, 65. §-a, 66. §-a, 71–72/A. §-a, 72/C. §-a, 73. §-a, 74. §-a, 75/B. §-a, 76–83. §-a, 87–92. §-a, 95–103. §-a, 104–106. §-a, a 107. §-a a beosztásból való felfüggesztés tekintetében, illetve a 107. § (1) bekezdés utolsó mondata, 110–111. §-a, 113–115/A. §-a, 116/A–116/C. §-a, 117/A. §-a, 118. § (1)–(3) bekezdése, (5) bekezdés a) pontja és (6) bekezdése, 119–149. §-a, 149/C. § (3)–(4) bekezdése, 150–178/A. §-a, 180. § (3)–(5) bekezdése, 194. § (2) bekezdés első mondata, 195–197. §-a, 203/A–203/C. §-a, 210–210/A. §-a, 245/H. §-a, 245/R. §-a, 342. § (1) bekezdés e) és p) pontja, (2) bekezdése és (7) bekezdése, és az 1., 2., 6., 6/A., 6/B. számú mellékletei nem alkalmazhatóak. A pénzügyőrt megillető pótszabadság tekintetében a Hszt. 326. § (1) bekezdése, valamint a 328. § (4) bekezdése nem alkalmazható.
+17. § (1) E törvény alkalmazása során a Hszt. 2. § 1–4., 6–8., 11–16., 18–21., 23–25., 28., 30–31. pontja, 4–12. §-a, 13. § (3)–(7) bekezdése, 15. §-a, 17. § (2) és (5) bekezdése, 31. § (2)–(3) bekezdése, 33. § (7) bekezdése, 38. § (8) bekezdése, 40. §-a, 45. § (1) bekezdése, 46. § (1)–(3) bekezdése, 47. §-a, 49. § (1) és (4) bekezdése, 50. §-a, 52–53. §-a, 55–61. §-a, 66. § (3)–(4) bekezdése, 71–72. §-a, 74. § (3) bekezdése, 77. § (1) bekezdés h) pontja és (7) bekezdése, 86. § (2) bekezdés e) pontja és (5)–(7) bekezdése, 100. §-a, 102. § (2) bekezdése, 108–129. §-a, 130. § (4) bekezdése, 131. § (2) bekezdése, 132–133. §-a, 134. § (4) bekezdése, 135. § (5) bekezdése, 137. § (3) bekezdése, 139–146. §-a, 149–164. §-a, 165. § (1) bekezdés a) és f) pontja, továbbá a szolgálati viszony megszüntetés fegyelmi fenyítésre vonatkozó rendelkezése, 166–167. §-a, 168. § (2) bekezdése, 169–174. §-a, 176–221. §-a, 224. § (3)–(4) bekezdése, 225–256. §-a, 257. § (3)–(6) bekezdése, 264. §-a, 267. § (2)–(3) bekezdése, 269–271. §-a, 277–279. §-a, 290. §-a, 340. § 1–2., 12. és 17. pontja, 341. § (1) és (4) bekezdése, 344. § (5) bekezdése, 346. §-a, 348. § (1)–(5) és (8)–(9) bekezdése, 349. § (2)–(3) bekezdése, 350–361. §-a, 362. § (1) bekezdése, továbbá a 9–10. melléklete nem alkalmazható.
 
-(2) A kijelölt miniszter rendeletben határozza meg azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be (hivatásos munkakör). A NAV-nál egyéb munkakörök ellátására pénzügyőr kizárólag egyedi elnöki engedély alapján, kivételesen indokolt esetben foglalkoztatható. A munkakör szolgálati jellegének megszűnése az abban a munkakörben foglalkoztatott pénzügyőr e munkakörben való további foglalkoztatását,, hivatásos szolgálati jogviszonyát és előmenetelét nem érinti.
+(2) A kijelölt miniszter rendeletben határozza meg azokat a munkaköröket, amelyeket az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőr tölthet be (hivatásos munkakör). A NAV-nál egyéb munkakörök ellátására pénzügyőr kizárólag egyedi elnöki engedély alapján, kivételesen indokolt esetben foglalkoztatható. A munkakör szolgálati jellegének megszűnése az abban a munkakörben foglalkoztatott pénzügyőr e munkakörben való további foglalkoztatását, hivatásos szolgálati jogviszonyát és előmenetelét nem érinti.
 
-(2a) A Hszt. 49/H. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőrt – tábornok kivételével – a NAV elnöke vezényli a külföldi szolgálati tevékenység időtartamára.
+(3) Nem minősül a szolgálati jogviszony jellegét meghatározó, a Hszt. 13. § (1)–(2) bekezdése szerinti sajátos szolgálati körülmények között végzett, az élet és a testi épség kockáztatásával járó szolgálati tevékenységnek különösen:
 
-(3) A Hszt. 93. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendelkezés azon pénzügyőr tekintetében alkalmazandó, akit az állásából felfüggesztettek.
+a) a szervezet működését szolgáló, így különösen a gazdálkodással, a humánszolgálati, személyügyi, munkaügyi és egészségügyi tevékenységgel összefüggő, továbbá jogi és igazgatási, illetve
 
-(4) A Hszt. 194. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy szolgálati panasznak azokban az esetekben sincs helye, amelyekben e törvény azt kizárja.
+b) a szervezet működéséhez kapcsolódó, így különösen tájékoztatási, szociális és közművelődési, ügyviteli, informatikai, üzemeltetési munkaköri feladat.
 
-(5) A Hszt. 336. §-át azzal az eltéréssel kell alkalmazni, hogy a Hszt. 44. § (1) bekezdés k) pontja szerinti esetben e törvény 17/E. § (2) bekezdését kell alkalmazni.
+(4) A (3) bekezdésben meghatározott munkaköri feladatok ellátására hivatásos szolgálati jogviszony nem létesíthető.
+
+(5) A pénzügyőr a szolgálati jogviszony létesítésekor vállalja, hogy az e törvényben, illetve a Hszt.-ben meghatározott feltételekkel, a szolgálati érdekeknek megfelelően a NAV bármely szervénél kötelezhető szolgálatteljesítésre, vagy – beleegyezésével – a Hszt.-ben meghatározott más szervezetnél történő szolgálatteljesítésre. A szolgálatteljesítési hely meghatározásakor a hivatásos állomány tagjának méltányolható érdekeit lehetőség szerint figyelembe kell venni.
+
+(6) A hivatásos állományba történő kinevezésről készült okmány egy példányát a pénzügyőrnek át kell adni. A kinevezési okmánynak tartalmaznia kell a szolgálati jogviszonyra vonatkozó minden lényeges adatot, így különösen
+
+a) a munkáltató megnevezését, székhelyét,
+
+b) a szolgálati jogviszony kezdetét,
+
+c) a pénzügyőr szolgálatteljesítési helyét,
+
+d) a pénzügyőr munkakörét,
+
+e) a pénzügyőr besorolását,
+
+f) a pénzügyőr rendfokozatát,
+
+g) a pénzügyőr illetményét,
+
+h) próbaidő kikötésénél a próbaidő tartamát, és
+
+i) ha szükséges, a képzettségek megszerzésére vonatkozó kötelezést.

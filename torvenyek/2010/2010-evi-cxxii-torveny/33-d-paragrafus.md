@@ -12,7 +12,7 @@ e) a tevékenység folytán a kormánytisztviselő, a pénzügyőr, az ügykezel
 
 f) a tevékenység a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő munkaköri kötelességéből fakadó feladata, szolgálati feladata,
 
-g) az engedélyezni kért tevékenység (jogviszony) folytatása a kormánytisztviselő, az ügykezelő beosztás szerinti munkaidejébe, illetve a pénzügyőr esetében a hivatásos szolgálati jogviszony keretében történő rendszeres munkavégzés idejébe esik, ide nem értve a 33/C. § (2a) bekezdés szerinti tevékenységek (jogviszonyok) engedélyezésének esetét, ha az az e törvény szerint engedélykötelesnek minősül, valamint ide nem értve a 33/C. § (5) bekezdése szerinti esetet,
+g) az engedélyezni kért tevékenység (jogviszony) folytatása a kormánytisztviselő, az ügykezelő beosztás szerinti munkaidejébe, illetve a pénzügyőr esetében a hivatásos szolgálati jogviszony keretében történő rendszeres munkavégzés idejébe esik, ide nem értve a 33/C. § (2a)–(3) bekezdés szerinti tevékenységek (jogviszonyok) engedélyezésének esetét, ha az az e törvény szerint engedélykötelesnek minősül, valamint ide nem értve a 33/C. § (5) bekezdése szerinti esetet,
 
 h) az a kormánytisztviselő, az ügykezelő kormányzati szolgálati jogviszonyából, illetve a pénzügyőr hivatásos szolgálati jogviszonyából fakadó és a munkakörével járó kötelezettségei, feladatai, szolgálati feladatai maradéktalan ellátását veszélyezteti.
 

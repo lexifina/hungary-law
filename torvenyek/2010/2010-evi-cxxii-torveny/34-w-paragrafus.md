@@ -62,9 +62,15 @@ b) a (4) bekezdés b) pontja szerinti esetet akkor,
 
 ba) ha az érintett munkavégzési helye, szolgálatteljesítési helye megszűnése miatt kerül sor a 18/B. § (2) bekezdés f) pont alkalmazására, illetve
 
-bb) ha a kinevezés, illetve a hivatásos szolgálati jogviszony egyoldalú módosítása a 18/B. § (3) bekezdésén vagy a 19/D. § (1) bekezdésén alapul,
+bb) ha a kinevezés, illetve a hivatásos szolgálati jogviszony egyoldalú módosítása a 18/B. § (2) bekezdés e) pontján, a 18/B. § (3) bekezdésén vagy a 19/D. § (1) bekezdésén alapul,
 
-c) a (4) bekezdés d) pontja szerinti esetben a megtámadott teljesítményértékelésen alapuló, 25. § szerinti eltérítést; ha a teljesítményértékelés megállapításainak felülvizsgálata iránti perben hozott jogerős ítélet alapján az állapítható meg, hogy az eltérítésre nem kerülhetett volna sor, a különbözetet az eltérítés időpontjától számítva, a Ptk. szerinti kamattal növelt összegben 15 napon belül ki kell fizetni.
+c) a (4) bekezdés d) pontja szerinti esetben a megtámadott teljesítményértékelésen alapuló, 25. § szerinti eltérítést; ha a teljesítményértékelés megállapításainak felülvizsgálata iránti perben hozott jogerős ítélet alapján az állapítható meg, hogy az eltérítésre nem kerülhetett volna sor, a különbözetet az eltérítés időpontjától számítva, a Ptk. szerinti kamattal növelt összegben 15 napon belül ki kell fizetni,
+
+d) a (4) bekezdés d) pontja alapján megtámadott minősítésen alapuló intézkedést, ide nem értve, ha az intézkedés a (4) bekezdés a) pontja szerinti esettel egyezik meg.
+
+(10a) Ha a minősítés megállapításainak felülvizsgálata iránti perben hozott jogerős ítélet alapján az állapítható meg, hogy – a (10) bekezdés d) pontja alapján a bíróság jogerős döntése előtt is végrehajtható – minősítésen alapuló intézkedésre nem kerülhetett volna sor, az eredeti állapotot – a (10b) bekezdés kivételével – 30 napon belül helyre kell állítani.
+
+(10b) Ha a végrehajtott intézkedés miatt az érintettet jövedelemkiesés is érte, a különbözetet az intézkedés végrehajtásának időpontjától számítva, a Ptk. szerinti kamattal növelt összegben, 15 napon belül ki kell fizetni.
 
 (11) A (7) bekezdés a) és c) pontjában foglalt esetben a sérelmezett határozat a bíróság jogerős döntéséig nem hajtható végre.
 

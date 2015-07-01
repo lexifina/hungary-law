@@ -1,0 +1,1 @@
+100. § A Hszt. 348. § (6) bekezdés a) pontját a pénzügyőrök tekintetében azzal az eltéréssel kell alkalmazni, hogy a vezénylés tartamára vonatkozó rendelkezéseket a Hszt. rendelkezéseinek – az e törvényben foglalt eltérésekkel való – megfelelés érdekében módosítani kell.

@@ -1,10 +1,24 @@
-17/C. § (1) Amennyiben a pénzügyőr egészségi, pszichikai vagy fizikai állapota alapján munkaköre ellátására alkalmatlanná vált, a munkáltató köteles a pénzügyőr részére az állapotának, végzettségének megfelelő másik, elsősorban hivatásos munkakört, betölthető hivatásos munkakör hiányában nem hivatásos munkakört felajánlani. Amennyiben a munkáltatónál nincs megfelelő betöltetlen munkakör, úgy számára – a szerv vezetőjének hozzájárulásával – a NAV más szervénél is felajánlható az állapotának, végzettségének megfelelő másik munkakör. A pénzügyőrt a Hszt. 56. § (2) bekezdés a) pontja alapján akkor lehet felmenteni egészségi, pszichikai vagy fizikai alkalmatlanság esetén, ha
+17/C. § (1) A Hszt. 86. § (2) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr hivatásos szolgálati jogviszonyát – az a) pont tekintetében az (1a) bekezdésben foglalt korlátozás figyelembevételével – felmentéssel meg kell szüntetni, ha
 
-a) az állapotának megfelelő betöltetlen munkakör a munkáltatónál, illetve a NAV más szervénél nincs, és rendelkezési állományba sem helyezhető,
+a) egészségi, pszichikai vagy fizikai állapota alapján
 
-b) a felajánlott másik, állapotának megfelelő munkakört a pénzügyőr nem fogadta el, vagy
+aa) a hivatásos szolgálatra alkalmatlanná vált, vagy
 
-c) megváltozott munkaképességű személyek ellátására jogosultságot szerzett.
+ab) a munkaköre ellátására alkalmatlanná vált,
+
+és részére megfelelő munkakör nem biztosítható;
+
+b) minősítése „nem felelt meg” fokozata alapján a munkaköre ellátására alkalmatlanná vált.
+
+(1a) Ha a pénzügyőr egészségi, pszichikai vagy fizikai állapota alapján – nem önhibájából – a hivatásos szolgálatra vagy munkaköre ellátására alkalmatlanná vált, a munkáltató köteles a pénzügyőr részére az állapotának, végzettségének megfelelő másik, elsősorban hivatásos munkakört, betölthető hivatásos munkakör hiányában nem hivatásos munkakört felajánlani. Ha a munkáltatónál nincs megfelelő betöltetlen munkakör, úgy számára – a szerv vezetőjének hozzájárulásával – a NAV más szervénél is felajánlható az állapotának, végzettségének megfelelő másik hivatásos, illetve nem hivatásos munkakör. A pénzügyőrt az (1) bekezdés a) pontja alapján akkor lehet felmenteni nem önhibából bekövetkezett egészségi, pszichikai vagy fizikai alkalmatlanság esetén, ha
+
+a) az állapotának megfelelő betöltetlen hivatásos, illetve nem hivatásos munkakör a munkáltatónál, illetve a NAV más szervénél nincs, és rendelkezési állományba sem helyezhető,
+
+b) a felajánlott másik, állapotának megfelelő hivatásos, illetve nem hivatásos munkakört a pénzügyőr méltányolható okból nem fogadta el, vagy
+
+c) a megváltozott munkaképességű személyek ellátására jogosultságot szerzett.
+
+(1b) A hivatásos szolgálati jogviszonyról történő lemondásnak kell tekinteni, ha a pénzügyőr az (1a) bekezdés szerint felajánlott hivatásos, illetve nem hivatásos munkakört nem méltányolható okból nem fogadja el.
 
 (2) A pénzügyőr a részére felajánlott munkakör elfogadásáról vagy elutasításáról a felajánlástól számított 5 munkanapon belül köteles írásban nyilatkozni. A nyilatkozat elmulasztását úgy kell tekintetni, mintha a felajánlott munkakört elutasította volna.
 

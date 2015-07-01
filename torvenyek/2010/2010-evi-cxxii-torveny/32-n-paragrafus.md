@@ -17,3 +17,5 @@ a) részére a (4) bekezdés szerint meghatározott szabadság kiadásának köz
 b) a már megkezdett szabadságát megszakíthatja.
 
 (7) A kormánytisztviselőnek, a pénzügyőrnek, az ügykezelőnek a kiadás időpontjának módosításával vagy a szabadság megszakításával összefüggésben felmerült kárát és költségeit a munkáltató köteles megtéríteni. A szabadság megszakítása esetén a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be.
+
+(8) Nem rendelhető vissza a kormánytisztviselő, a pénzügyőr, az ügykezelő, ha a visszarendelés az alapjául szolgáló okkal, körülménnyel arányban nem álló jog- vagy érdeksérelmet okozna.

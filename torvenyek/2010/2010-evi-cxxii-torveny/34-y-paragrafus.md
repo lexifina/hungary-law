@@ -18,7 +18,9 @@ g) a munkáltató szervezetszerű működési területe: az a földrajzilag kör
 
 h) munkáltató: a NAV-nak az a központi, középfokú, illetve alsófokú szerve, amelynek állományába a kormánytisztviselő, a pénzügyőr, az ügykezelő, munkavállaló tartozik;
 
-i) szervezeti egység: a szerv azon szervezeti eleme, amelyet osztályvezető (ideértve az osztályt vezető főosztályvezető-helyettest is), illetve főosztályvezető vezet, valamint a kirendeltség.
+i) szervezeti egység: a szerv azon szervezeti eleme, amelyet osztályvezető (ideértve az osztályt vezető főosztályvezető-helyettest is), illetve főosztályvezető vezet, valamint a kirendeltség;
+
+j) kormányzati szolgálati jogviszonyra, hivatásos szolgálati jogviszonyra (együtt: szolgálati jogviszonyra) vonatkozó szabály: az e törvényben, a Kttv.-ben, a Hszt.-ben, valamint az ezen törvények végrehajtására kiadott rendeletben, továbbá az e törvényben meghatározott tárgykörökben a foglalkoztatási szabályzatban meghatározott rendelkezés;
 
 (1a) E törvény, valamint a NAV személyi állományának jogviszonyát szabályozó más jogszabályok alkalmazásában pénzügyi nyomozó:
 
@@ -30,11 +32,13 @@ b) a NAV állományában lévő azon személy, aki az a) pont szerinti feladatok
 
 a) belső áthelyezés: a NAV szervei közötti áthelyezés; a belső áthelyezés nem eredményezi a kormányzati szolgálati jogviszony, illetve a hivatásos szolgálati jogviszony megszűnését;
 
-b) külső áthelyezés: a kormánytisztviselők, ügykezelők tekintetében a közigazgatási szervek közötti áthelyezés, a hivatásos állományúak tekintetében a NAV elnöke és az érintett miniszter megállapodása alapján a NAV és más fegyveres szerv között történő áthelyezés, továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés.
+b) külső áthelyezés: a kormánytisztviselők, ügykezelők tekintetében a közigazgatási szervek közötti áthelyezés, a hivatásos állományúak tekintetében a NAV elnöke és az érintett miniszter megállapodása alapján a NAV és a Hszt. szerinti valamely rendvédelmi szerv között történő áthelyezés, továbbá kormányzati szolgálati jogviszonyba, közszolgálati jogviszonyba, közalkalmazotti jogviszonyba, illetve azokból hivatásos szolgálati jogviszonyba helyezés.
 
 (3) A belső áthelyezés esetén követendő eljárás rendjét a foglalkoztatási szabályzat állapítja meg.
 
 (4) Az országos parancsnok részére biztosított jogköröket a NAV tekintetében a NAV elnöke gyakorolja.
+
+(4a) A Hszt.-ben és a Hszt. felhatalmazása alapján kiadott kormányrendeletben a miniszter részére biztosított jogköröket a NAV tekintetében a kijelölt miniszter gyakorolja.
 
 (5) Ahol a Hszt.
 
@@ -44,13 +48,23 @@ b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, 
 
 c) beosztási illetményt említ, azon a NAV tekintetében az e törvény szerinti alapilletményt;
 
-d) alapilletményt említ, azon a NAV tekintetében az e törvény szerinti alapilletmény és rendfokozati illetmény együttes összegét
+d) alapilletményt említ, azon a NAV tekintetében az e törvény szerinti alapilletmény és rendfokozati illetmény együttes összegét;
+
+e) szolgálati beosztást említ, azon a NAV tekintetében munkakört;
+
+f) rendvédelmi oktatási intézményt említ, azon a NAV tekintetében a Nemzeti Közszolgálati Egyetem Rendészettudományi Karát
 
 kell érteni.
 
+(5a) Ahol a Hszt. szolgálati helyet említ, azon a NAV tekintetében azt a NAV szervet kell érteni, amelynek állományába a pénzügyőr tartozik.
+
 (6) A 31. § (2)–(3) bekezdés alkalmazásában kormányzati szolgálati jogviszonyban töltött idő alatt a Kttv. 150. § (3) bekezdése alapján, illetve hivatásos szolgálati jogviszonyban töltött idő alatt a Hszt. szolgálati idő számítására vonatkozó rendelkezései alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.
 
+(6a) A 31. § (4) bekezdés alkalmazásában az ügykezelők, illetve a munkavállalók tekintetében a jubileumi jutalom meghatározása során figyelembe vehető jogviszonyban töltött idő alatt a Kttv. 150. § (3) bekezdése alapján megállapított jubileumi jutalomra jogosító jogviszonyban töltött időt kell érteni.
+
 (7) E törvény alkalmazásában közeli hozzátartozó alatt a Ptk. szerinti közeli hozzátartozót, hozzátartozó alatt a Ptk. szerinti közeli hozzátartozót és hozzátartozót kell érteni.
+
+(7a) Ahol a Kttv., illetve a Hszt. közeli hozzátartozóról vagy hozzátartozóról rendelkezik, azon a NAV kormánytisztviselőjének, kormányzati ügykezelőjének, illetve a pénzügyőrnek a (7) bekezdés szerinti közeli hozzátartozóját, illetve hozzátartozóját kell érteni.
 
 (8) Illetmény alatt az alapilletmény, az illetménykiegészítés, a pótlékok tekintetében a rendszeres pótlékok, valamint – pénzügyőr esetén – a rendfokozati illetmény együttes összegét kell érteni
 

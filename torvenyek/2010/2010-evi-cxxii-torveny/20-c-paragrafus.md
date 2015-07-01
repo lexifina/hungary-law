@@ -1,4 +1,4 @@
-20/C. § (1) A rendfokozatban való előmenetel a magasabb rendfokozatba történő előléptetéssel és kinevezéssel valósul meg. A pénzügyőr előléptethető
+20/C. § (1) A pénzügyőr a 7/A. sz. melléklet szerinti rendfokozati állománycsoportjába tartozó rendfokozattal rendelkezik. A rendfokozatban való előmenetel a magasabb rendfokozatba történő előléptetéssel és kinevezéssel valósul meg. A pénzügyőr előléptethető
 
 a) soron,
 

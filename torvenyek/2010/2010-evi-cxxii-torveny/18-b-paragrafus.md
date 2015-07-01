@@ -12,7 +12,7 @@ c) a kormánytisztviselő, ügykezelő munkavégzési helyének kizárólag a te
 
 d) más munkakörbe helyezéskor, kivéve, ha a nem hivatásos munkakörbe helyezés a pénzügyőr hivatásos szolgálati jogviszonyának kormányzati szolgálati jogviszonnyá alakulásával járna,
 
-e) az érintettnek a NAV más szervéhez történő belső áthelyezéséhez, valamint a kormánytisztviselő, ügykezelő szervezeti egység váltásához, kormánytisztviselő és ügykezelő tekintetében a munkavégzési hely kizárólag a település területén belüli megváltoztatása mellett, amennyiben az érintett a minősítése alapján a vele szemben – az általa betöltött munkakör alapján – támasztott követelményeknek nem felel meg,
+e) az érintettnek a NAV más szervéhez történő belső áthelyezéséhez vagy szervezeti egység váltásához, kormánytisztviselő tekintetében a munkavégzési hely kizárólag a település területén belüli megváltoztatása mellett, amennyiben az érintett minősítése – az általa betöltött munkakör alapján – „kevésbé felelt meg” fokozatú,
 
 f) a kinevezés, illetve a hivatásos szolgálati jogviszony módosításához a NAV-on belüli átszervezés, illetve létszámcsökkentés esetén a jogviszony jellegének változatlanul hagyása mellett, azzal, hogy a kormánytisztviselő, illetve az ügykezelő tekintetében a munkavégzési hely kizárólag a település területén belül változtatható meg,
 
@@ -26,7 +26,7 @@ h) törvényben meghatározott esetekben.
 
 (5) A (2) bekezdés d)–g) pontjában meghatározott okból a kinevezést, illetve a hivatásos szolgálati jogviszonyt abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az új munkakör megfelel az érintett iskolai végzettségének, szakképzettségének vagy szakképesítésének, szakmai tapasztalatának.
 
-(6) A (2) bekezdés c)–g) pontjában, valamint a (3) bekezdésben meghatározott okból a kinevezést, illetve a hivatásos szolgálati jogviszonyt abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az érintettre nézve – különösen besorolására, egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem jár.
+(6) A (2) bekezdés c)–g) pontjában, valamint a (3) bekezdésben meghatározott okból a kinevezést, illetve a hivatásos szolgálati jogviszonyt abban az esetben módosíthatja a munkáltató az érintett belegyezése nélkül, ha az érintettre nézve – különösen egészségi állapotára vagy családi körülményeire tekintettel – aránytalan sérelemmel nem jár.
 
 (7) A (2) bekezdés c)–g) pontjában és a (3) bekezdésben meghatározott okból történő kinevezés módosításról, illetve hivatásos szolgálati jogviszony módosításról szóló okirat közlésétől számított 5 munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – az érintett jogviszonyát felmentéssel meg kell szüntetni. Felmentés esetén a kinevezés, illetve a hivatásos szolgálati jogviszony módosítását megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
 

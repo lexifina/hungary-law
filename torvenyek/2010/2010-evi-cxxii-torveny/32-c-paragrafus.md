@@ -30,13 +30,13 @@ A fenti adatokban bekövetkezett változásokról az érintett haladéktalanul k
 
 (6) Amennyiben az érintett
 
-a) kormányzati szolgálati jogviszonya a Kttv. 39. § (4) bekezdése, 42. § (8) bekezdése, 60. § (1) bekezdés c), i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a)–b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján,
+a) kormányzati szolgálati jogviszonya a Kttv. 39. § (4a) bekezdése, 42. § (8) bekezdése, 60. § (1) bekezdés c), i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a)–b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján,
 
-b) hivatásos szolgálati jogviszonya a Hszt. 53. § b), f)–g) pontja, az 56. § (2) bekezdés a) pontja alapján – ez esetben az egészségi, pszichikai vagy fizikai állapota miatti megszűnés kivételével –, b), e) vagy g) pontja, illetve e törvény 17/A. § (1) bekezdése vagy 33/F. § (1) bekezdése alapján
+b) hivatásos szolgálati jogviszonya a Hszt. 80. § (1) bekezdés f)–g) pontja, (2) bekezdés b) vagy h) pontja, a 86. § (2) bekezdés a) pontja alapján – ez esetben az egészségi, pszichikai vagy fizikai állapota miatti megszűnés kivételével –, továbbá a 86. § (2) bekezdés b)–d) pontja, illetve e törvény 17/A. § (1) bekezdése vagy 33/F. § (1) bekezdése alapján
 
 szűnik meg, a még fennálló állami kezességvállalás után a központi költségvetés javára – a hitelintézet útján – egyszeri kezességvállalási díjat kell fizetnie. A kezességvállalási díj mértéke a kezességgel biztosított kötelezettség összegének 2%-a.
 
-(6a) Amennyiben a kormányzati szolgálati jogviszony a Kttv. 60. § (2) bekezdés a) pontja, a hivatásos szolgálati jogviszony a Hszt. 53. § a) pontja alapján szűnik meg, a (6) bekezdés szerinti kezességvállalási díjat nem kell megfizetni, ha a munkáltató és a kormánytisztviselő, a munkáltató és a pénzügyőr, vagy a munkáltató és az ügykezelő erről írásban megállapodnak.
+(6a) Amennyiben a kormányzati szolgálati jogviszony a Kttv. 60. § (2) bekezdés a) pontja, a hivatásos szolgálati jogviszony a Hszt. 80. § (2) bekezdés a) pontja alapján szűnik meg, a (6) bekezdés szerinti kezességvállalási díjat nem kell megfizetni, ha a munkáltató és a kormánytisztviselő, a munkáltató és a pénzügyőr, vagy a munkáltató és az ügykezelő erről írásban megállapodnak.
 
 (7) A munkáltató a kormánytisztviselő, a pénzügyőr, az ügykezelő jogviszonyának (6) bekezdés szerinti, illetve eltérő megállapodás hiányában a (6a) bekezdés szerinti megszűnése esetén erről 8 napon belül értesíti az érintett által az (5) bekezdés alapján bejelentett hitelintézetet.
 

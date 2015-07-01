@@ -4,17 +4,17 @@ a) legfeljebb a fegyelmi határozat kihirdetéséig, illetve ha az eljárás al�
 
 b) azokban az esetekben, amelyekben a törvény szerint nem a fegyelmi tanács hozza meg az érdemi döntést, legfeljebb a fegyelmi határozat közléséig
 
-az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását gátolná vagy a kötelezettségszegés súlya és jellege a munkahelytől való távoltartást indokolja. A hivatalvesztés, a hivatásos szolgálati jogviszony megszüntetése, a lefokozás fegyelmi büntetéssel – az erről szóló határozat kihirdetésétől, illetve ennek hiányában a közlésétől kezdve, annak végrehajtásáig – a felfüggesztés együtt jár; erről a fegyelmi határozatban rendelkezni kell.
+az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását gátolná vagy a kötelezettségszegés súlya és jellege a munkahelytől való távoltartást indokolja. A hivatalvesztés, illetve a hivatásos szolgálati jogviszony megszüntetése fegyelmi büntetéssel – az erről szóló határozat kihirdetésétől, illetve ennek hiányában a közlésétől kezdve, annak végrehajtásáig – a felfüggesztés együtt jár; erről a fegyelmi határozatban rendelkezni kell.
 
 (2) Haladéktalanul meg kell szüntetni a felfüggesztést, ha annak indoka már nem áll fenn.
 
 (3) Ha a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő tartósan nem tud munkavégzésre rendelkezésre állni, illetve munkavégzési kötelezettségét teljesíteni, az ok megszűnéséig nem lehet a kormánytisztviselőt, a pénzügyőrt, az ügykezelőt az állásából felfüggeszteni.
 
-(4) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani.
+(4) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani, kivéve, ha az így folyósítandó összeg nem érné el a mindenkori minimálbért. Ilyen esetben a visszatartást úgy kell alkalmazni, hogy a folyósított összeg nem lehet kevesebb a mindenkori minimálbér összegénél.
 
-(5) A visszatartott összeget a fegyelmi határozat jogerőre emelkedésétől számított 15 napon belül ki kell fizetni, kivéve a hivatalvesztést, a hivatásos szolgálati jogviszony megszüntetését, a lefokozást kimondó határozat esetét. A visszatartott összeget a visszatartás időpontjától számított, Ptk. szerinti kamatával növelten kell visszafizetni, ha az eljárást a 34/B. § (1) bekezdés b)–f) pontjában meghatározott okból szüntették meg.
+(5) A visszatartott összeget a fegyelmi határozat jogerőre emelkedésétől számított 15 napon belül ki kell fizetni, kivéve a hivatalvesztést, illetve a hivatásos szolgálati jogviszony megszüntetését kimondó határozat esetét. A visszatartott összeget a visszatartás időpontjától számított, Ptk. szerinti kamatával növelten kell visszafizetni, ha az eljárást a 34/B. § (1) bekezdés b)–f) pontjában meghatározott okból szüntették meg.
 
-(6) A teljes illetményt vissza kell tartani a hivatalvesztést, a hivatásos szolgálati jogviszony megszüntetését, a lefokozást kimondó fegyelmi határozat kihirdetésétől, illetve ennek hiányában a közlésétől kezdve, annak végrehajtásáig.
+(6) A teljes illetményt vissza kell tartani a hivatalvesztést, illetve a hivatásos szolgálati jogviszony megszüntetését kimondó fegyelmi határozat kihirdetésétől, illetve ennek hiányában a közlésétől kezdve, annak végrehajtásáig.
 
 (7) Aki az állásából felfüggesztés hatálya alatt áll, a felfüggesztés napjától hatósági jogkörét, vezetői, szolgálati elöljárói/felettesi jogait nem gyakorolhatja, szolgálati igazolványát, emellett a pénzügyőr a szolgálati jelvényét és fegyverét beszolgáltatni köteles, továbbá a munkavégzési helyére, szolgálatteljesítési helyére csak a munkáltatói jogkör gyakorlójának előzetes engedélyével léphet be.
 

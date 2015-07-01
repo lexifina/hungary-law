@@ -1,0 +1,1 @@
+103. § E törvénynek a NAV Mód. V. törvénnyel megállapított 15/E. § szerinti bejelentési kötelezettségre és adatkezelésre vonatkozó rendelkezése a NAV Mód. V. törvény hatálybalépése után közölt megalapozott gyanú esetében áll fenn, illetve alkalmazandó.

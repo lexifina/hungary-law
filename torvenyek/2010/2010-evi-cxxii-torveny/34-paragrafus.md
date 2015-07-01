@@ -6,6 +6,6 @@
 
 (4) Ha az eljárás alá vont vagy képviselője a tárgyaláson nem jelenik meg, tárgyalást tartani és az ügyet érdemben elbírálni csak akkor lehet, ha az eljárás alá vont személyt vagy képviselőjét szabályszerűen értesítették. Az eljárás akkor is lefolytatható, ha az eljárás alá vont vagy képviselője előzetesen bejelentette, hogy a tárgyaláson nem kíván részt venni.
 
-(5) A fegyelmi tanács a tényállás tisztázása céljából tanúkat hallgathat meg, iratokat szerezhet be, szakértőt vehet igénybe, szemlét tarthat, egyéb bizonyítást folytathat. Az eljárási cselekményekről készült iratokat az eljárás alá vont személlyel és képviselőjével közölni kell.
+(5) A fegyelmi tanács a tényállás tisztázása céljából tanúkat hallgathat meg, iratokat szerezhet be, szakértőt vehet igénybe, szemlét tarthat, egyéb bizonyítást folytathat. Az eljárási cselekményekről készült iratokat az eljárás alá vont személlyel és képviselőjével közölni kell. Amennyiben valamely irat minősített adatot tartalmaz, arra a 33/X. § (3a) bekezdése az irányadó.
 
 (6) Amennyiben az ügy a tárgyaláson nem volt tisztázható, újabb tárgyalást/tárgyalásokat kell tartani.

@@ -22,7 +22,7 @@ d) munkavállalókból
 
 a) kormánytisztviselőkre és ügykezelőkre a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.),
 
-b) pénzügyőrökre a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.),
+b) pénzügyőrökre a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.),
 
 c) munkavállalókra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.)
 

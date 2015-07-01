@@ -2,7 +2,7 @@
 
 ## A fegyelmi felelősség általános szabályai
 
-33/G. § (1) Fegyelmi vétséget követ el a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő, ha a kormányzati, illetve hivatásos szolgálati tevékenysége során a kormányzati szolgálati jogviszonyából, hivatásos szolgálati jogviszonyából eredő kötelezettségét vétkesen megszegi. A fegyelmi vétséget elkövető kormánytisztviselőt, pénzügyőrt, ügykezelőt – a 33/P. § (5)–(8) bekezdés szerinti eset kivételével – fegyelmi eljárás keretében felelősségre kell vonni.
+33/G. § (1) Fegyelmi vétséget követ el a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő, ha a kormányzati, illetve hivatásos szolgálati tevékenysége során a kormányzati szolgálati jogviszonyából, hivatásos szolgálati jogviszonyából eredő kötelezettségét vétkesen megszegi. A fegyelmi vétséget elkövető kormánytisztviselőt, pénzügyőrt, ügykezelőt – a 33/P. § (5)–(8c) bekezdés szerinti eset kivételével – fegyelmi eljárás keretében felelősségre kell vonni.
 
 (2) A fegyelmi vétséget elkövető kormánytisztviselővel, ügykezelővel szemben fegyelmi büntetés, pénzügyőrrel szemben fenyítés (a továbbiakban: fegyelmi büntetés) alkalmazható.
 
@@ -36,7 +36,7 @@ k) kizárólag kormánytisztviselő, illetve ügykezelő esetében hivatalveszt�
 
 l) kizárólag pénzügyőr esetében a hivatásos szolgálati jogviszony megszüntetése,
 
-m) kizárólag pénzügyőr esetében lefokozás.
+m)
 
 (4) Nem vezetői munkakört betöltő kormánytisztviselő, pénzügyőr esetén a (3) bekezdés g) pont szerinti fegyelmi büntetés mellett
 
@@ -44,11 +44,11 @@ a) ha a címtől való megfosztás a 31/B. § szerinti címet érinti, a d) pont
 
 b) személyi illetménnyel rendelkező esetében az e) pont szerinti fegyelmi büntetés
 
-is kiszabható, ha a körülmények alapján súlyosabb büntetés indokolt, de a k)–m) pont szerinti fegyelmi büntetés kiszabása nem indokolt.
+is kiszabható, ha a körülmények alapján súlyosabb büntetés indokolt, de a k)–l) pont szerinti fegyelmi büntetés kiszabása nem indokolt.
 
-(5) Vezető esetén a (3) bekezdés j) pont szerinti fegyelmi büntetés mellett a g) pont szerinti fegyelmi büntetés is kiszabható, ha a körülmények alapján súlyosabb büntetés indokolt, de a k)–m) pont szerinti fegyelmi büntetés kiszabása nem indokolt.
+(5) Vezető esetén a (3) bekezdés j) pont szerinti fegyelmi büntetés mellett a g) pont szerinti fegyelmi büntetés is kiszabható, ha a körülmények alapján súlyosabb büntetés indokolt, de a k)–l) pont szerinti fegyelmi büntetés kiszabása nem indokolt.
 
-(6) A lefokozás következménye a hivatásos szolgálati jogviszony megszüntetése is.
+(6) A hivatásos szolgálati jogviszony megszüntetése fegyelmi büntetés alkalmazásával a pénzügyőr elveszíti a rendfokozatát is.
 
 (7) A visszavetés egy fizetési fokozattal fegyelmi büntetéssel sújtottnak az új illetményét
 

@@ -1,0 +1,1 @@
+102. § A NAV Mód. V. törvény hatálybalépése előtt kiszabott, de a NAV Mód. V. törvény hatálybalépéséig még végre nem hajtott lefokozás fegyelmi büntetés tekintetében a 2015. június 30-án alkalmazandó rendelkezések az irányadók.

@@ -13,3 +13,5 @@ c) a munkáltatót ért vagyoni hátrányok kiküszöböléséhez szükséges k�
 a) a megrongált dolog kijavítására fordított kiadást – ideértve az üzemviteli költséget is – és a kijavítás ellenére még fennmaradó esetleges értékcsökkenés mértékét;
 
 b) ha a dolog megsemmisült vagy használhatatlanná vált, illetve, ha nincs meg, a károkozás időpontjában érvényes fogyasztói árat kell – az avulásra is tekintettel – figyelembe venni.
+
+(4) Nem kell megtéríteni a kárnak azt a részét, amely a megrongálódott dolog értékesítéséből, hasznosításából vagy biztosítási jogviszonyból eredően megtérült.

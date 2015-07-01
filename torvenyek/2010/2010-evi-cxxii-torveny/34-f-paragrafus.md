@@ -28,6 +28,6 @@ d) a kár olyan – jogszabályba ütköző – utasítás, parancs, teljesíté
 
 (7) Nem kell megtéríteni azt a kárt, amelynek bekövetkezése a károkozás idején a károkozó által nem volt előre látható vagy amelyet a munkáltató vétkes magatartása okozott, vagy amely abból származott, hogy a munkáltató kárenyhítési kötelezettségének nem tett eleget.
 
-(8) A munkáltató vétkes magatartásának kell különösen tekinteni, ha a kár olyan jogszabálysértő utasítás, parancs, rendelkezés kormánytisztviselő, pénzügyőr, illetve ügykezelő általi teljesítéséből keletkezett, amelynek következményeire az utasított az utasítást, parancsot, rendelkezést adó figyelmét – a Kttv. 78. § (4) bekezdésében, illetve a Hszt. 69. § (2) bekezdésében meghatározott módon – előzőleg felhívta. Ilyen esetben a bekövetkező kárért az utasítást, parancsot, rendelkezést kiadó felel.
+(8) A munkáltató vétkes magatartásának kell különösen tekinteni, ha a kár olyan jogszabálysértő utasítás, parancs, rendelkezés kormánytisztviselő, pénzügyőr, illetve ügykezelő általi teljesítéséből keletkezett, amelynek következményeire az utasított az utasítást, parancsot, rendelkezést adó figyelmét – a Kttv. 78. § (4) bekezdésében, illetve a Hszt. 103. § (2) bekezdésében meghatározott módon – előzőleg felhívta. Ilyen esetben a bekövetkező kárért az utasítást, parancsot, rendelkezést kiadó felel.
 
 (9) A munkáltató vétkes magatartásának kell különösen tekinteni, ha a kár munkaviszonyra vonatkozó szabályba ütköző utasítás munkavállaló általi teljesítéséből keletkezett.

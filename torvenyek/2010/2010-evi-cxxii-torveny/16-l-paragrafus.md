@@ -2,7 +2,7 @@
 
 16/L. § (1) A határidő számítására a (2)–(6) bekezdésben foglaltakat kell alkalmazni, ha jogszabály vagy a felek megállapodása valamely jognyilatkozat megtételére vagy egyéb magatartás tanúsítására határidőt ír elő.
 
-(2) Napon – ha a kormányzati szolgálati jogviszonyra, hivatásos szolgálati jogviszonyra vonatkozó szabály eltérően nem rendelkezik – naptári napot kell érteni.
+(2) Napon – ha szolgálati jogviszonyra vonatkozó szabály eltérően nem rendelkezik – naptári napot kell érteni.
 
 (3) A határidő számítása a határidő megkezdésére okot adó intézkedést (eseményt) követő napon kezdődik.
 

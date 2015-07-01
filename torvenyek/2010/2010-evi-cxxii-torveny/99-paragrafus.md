@@ -1,13 +1,7 @@
-## Az Európai Unió jogának való megfelelés
+99. § (1) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 118. § (2) bekezdése alapján a pénzügyőr részére 2012. január 1-jét megelőzően adományozott tanácsosi, főtanácsosi cím viselésére a pénzügyőr 2015. július 1-jét követően is jogosult.
 
-99. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(2) Az (1) bekezdés alapján tanácsosi cím viselésére jogosult pénzügyőr vezetői pótlék nélkül számított főosztályvezető-helyettesi, a főtanácsosi cím viselésére jogosult pénzügyőr vezetői pótlék nélkül számított főosztályvezetői illetményre jogosult. A tanácsosi, illetve a főtanácsosi címmel rendelkező vezetői munkakört betöltő pénzügyőr a vezetői illetményre jogosult, ha az magasabb, mint a címe alapján számított illetménye.
 
-a)
+(3) A pénzügyőrt az (1) bekezdés szerinti kitüntető cím viselésének joga nyugállományba vonulását követően is megilleti.
 
-b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36–37. cikkei [37/A–37/B. §],
-
-c) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i, 2008/633/IB tanácsi határozat 3–5. cikke [75. §],
-
-d) a büntető ügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i, 2008/977/IB tanácsi kerethatározat 3. cikke, 5. cikke, 9. cikke, 13. cikke [72. § (1)–(2) bekezdés, 74. § (2) bekezdés, 77. §, 78. § (1) bekezdés a)–c) pontok],
-
-e) az információs technológia vámügyi alkalmazásáról szóló, 2009. november 30-i 2009/917/IB Tanácsi határozat [80. §].
+(4) A tanácsosi és a főtanácsosi címet meg kell vonni, ha a pénzügyőrrel szemben a bíróság szabadságvesztést, pénzbüntetést, közérdekű munka büntetést szabott ki.

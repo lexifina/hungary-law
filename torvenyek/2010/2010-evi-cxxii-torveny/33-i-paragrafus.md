@@ -12,8 +12,8 @@ d) a 33/G. § (4) és (5) bekezdésben meghatározott büntetésnél 2 évig;
 
 e) a 33/G. § (3) bekezdés k) pontjában meghatározott büntetésnél 3 évig;
 
-f) a 33/G. § (3) bekezdés l)–m) pontjában meghatározott büntetésnél 5 évig.
+f) a 33/G. § (3) bekezdés l) pontjában meghatározott büntetésnél 5 évig.
 
 (3) Ha a kormányzati szolgálati jogviszony hivatalvesztés miatt szűnt meg, a volt kormánytisztviselő, ügykezelő államigazgatási szervnél három évig nem alkalmazható.
 
-(4) Ha a hivatásos szolgálati jogviszony lefokozás vagy hivatásos szolgálati jogviszony megszüntetése alapján szűnt meg, a volt pénzügyőrrel nem létesíthető hivatásos szolgálati jogviszony a Hszt.-ben meghatározott ideig, illetve a volt pénzügyőr államigazgatási szervnél három évig nem alkalmazható.
+(4) Ha a hivatásos szolgálati jogviszony hivatásos szolgálati jogviszony megszüntetése alapján szűnt meg, a volt pénzügyőrrel nem létesíthető hivatásos szolgálati jogviszony a Hszt.-ben meghatározott ideig, illetve a volt pénzügyőr államigazgatási szervnél három évig nem alkalmazható.

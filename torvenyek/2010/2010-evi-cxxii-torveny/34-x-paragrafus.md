@@ -1,10 +1,10 @@
 34/X. § (1) Ha a bíróság megállapítja, hogy a munkáltató a kormánytisztviselő, a pénzügyőr, az ügykezelő kormányzati szolgálati jogviszonyát, hivatásos szolgálati jogviszonyát jogellenesen szüntette meg, a kormánytisztviselő, a pénzügyőr, az ügykezelő abban az esetben kérheti az eredeti munkakörében történő továbbfoglalkoztatását, ha
 
-a) a megszüntetés a rendeltetésszerű joggyakorlás követelményébe [Kttv. 10. § (1) bekezdés, Hszt. 5. §], illetve felmentési védelembe (Kttv. 70–71. §, Hszt. 58. § és 58/A. §) ütközik, vagy a munkáltató megszegi a felmentési korlátozásokra vonatkozó egyéb rendelkezéseket [Kttv. 57. § (4) bekezdés és 63. § (4) bekezdés, illetve e törvény 17/C. § (1) bekezdés], vagy
+a) a megszüntetés a rendeltetésszerű joggyakorlás követelményébe [15/C. §], illetve felmentési védelembe (Kttv. 70–71. §, Hszt. 88–89. §) ütközik, vagy a munkáltató megszegi a felmentési korlátozásokra vonatkozó egyéb rendelkezéseket [Kttv. 57. § (4) bekezdés és 63. § (4) bekezdés, Hszt. 70. § (1) bekezdés, illetve e törvény 17/C. § (1) bekezdés], vagy
 
-b) a munkáltató a választott szakszervezeti tisztségviselő kormányzati szolgálati jogviszonyát, hivatásos szolgálati jogviszonyát a Kttv. 201. § (1) bekezdésébe, illetve a Hszt. 34/B. § (1) bekezdésébe ütköző módon szüntette meg, vagy
+b) a munkáltató a választott szakszervezeti tisztségviselő kormányzati szolgálati jogviszonyát, hivatásos szolgálati jogviszonyát a Kttv. 201. § (1) bekezdésébe, illetve a Hszt. 314. § (1) bekezdésébe ütköző módon szüntette meg, vagy
 
-c) a fegyelmi felelősség nem áll fenn, vagy annak megállapítása esetén a hivatalvesztés, hivatásos szolgálati jogviszony megszüntetése, lefokozás fegyelmi büntetés nem áll arányban az elkövetett fegyelmi vétség súlyával, vagy
+c) a fegyelmi felelősség nem áll fenn, vagy annak megállapítása esetén a hivatalvesztés, illetve hivatásos szolgálati jogviszony megszüntetése fegyelmi büntetés nem áll arányban az elkövetett fegyelmi vétség súlyával, vagy
 
 d) a jogviszony megszüntetése az egyenlő bánásmód követelményébe ütközött, vagy
 

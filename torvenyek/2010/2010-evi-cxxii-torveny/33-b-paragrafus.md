@@ -8,11 +8,13 @@ b) nem láthat el olyan feladatot, amelynek révén olyan gazdálkodó szervezet
 
 (2) A kormánytisztviselő, a pénzügyőr, az ügykezelő nem folytathat olyan tevékenységet, nem tanúsíthat olyan magatartást, amely hivatalához, illetve a hivatásos szolgálathoz méltatlan, vagy amely a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő pártatlan, befolyástól mentes tevékenységét, illetve a NAV tekintélyét veszélyeztetné.
 
-(3) A kormánytisztviselő, az ügykezelő pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési, az európai parlamenti, illetve a helyi önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhat, a pénzügyőr tekintetében a Hszt. 18. § (2) bekezdés az irányadó.
+(3) A kormánytisztviselő, a pénzügyőr, az ügykezelő pártban tisztséget nem viselhet, párt nevében vagy érdekében – az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán jelöltként való részvételt kivéve – közszereplést nem vállalhat, a munkáltatójánál vagy munkavégzés, szolgálati feladat teljesítése közben politikai tevékenységet nem folytathat.
+
+(3a) A (3) bekezdés alkalmazásában politikai tevékenységnek kell tekinteni minden olyan, a NAV-on belül szélesebb munkahelyi nyilvánosság előtt tett megnyilvánulást, illetve munkavégzés, szolgálati feladat teljesítése közben nem a NAV foglalkoztatottjai előtt tett megnyilvánulást, amely kifejezetten valamely párt- vagy politikai mozgalom céljának megvalósulása érdekében a párt- vagy politikai mozgalom segítésére vagy támogatására szólít fel.
 
 (4) A kormánytisztviselő, a pénzügyőr nem lehet
 
-a) helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja,
+a)
 
 b) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
 
@@ -20,8 +22,12 @@ c) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
 
 d) nemzetiségi önkormányzat képviselője.
 
-(5)–(6)
+(5) A kormánytisztviselő nem lehet helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja annál az önkormányzatnál, amely a NAV őt alkalmazó szerve szervezetszerű működési területén működik.
 
-(7) A pénzügyőr a Hszt. 59. § (1) bekezdés c) pontjában meghatározott tisztséget nem tölthet be.
+(6) Az informatikai intézet és a humánerőforrás-fejlesztési feladatokat ellátó intézet esetében a kormánytisztviselő annál az önkormányzatnál nem lehet helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja, amely a munkavégzési helye szerinti régió közigazgatási határain belül van.
+
+(6a) A pénzügyőr nem lehet helyi önkormányzati képviselő vagy a képviselő-testület bizottságának nem képviselő tagja.
+
+(7) A pénzügyőr a (4) és (6a) bekezdésben meghatározottakon túl nem tölthet be a Hszt. 82. § (1) bekezdés b) pontjában meghatározott egyéb tisztséget sem.
 
 (8) Nem keletkeztet összeférhetetlenséget a Magyar Kormánytisztviselői Karban, a Magyar Rendvédelmi Kar NAV Tagozatában, illetve a munkavállalói érdek-képviseleti szervben betöltött tisztség.
