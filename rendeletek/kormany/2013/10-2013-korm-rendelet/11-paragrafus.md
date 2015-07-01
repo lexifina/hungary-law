@@ -22,10 +22,10 @@
 
 | E szint | elfogadhatatlan teljesítmény | 40–0% |
 
-(5)[^7] Az igazságügyért felelős miniszter, a fegyveres szervet irányító miniszter, illetve a honvédelemért felelős miniszter rendelkezhet úgy, hogy a teljesítményértékelés kötelező, illetve ajánlott elemei teljesítményértékelésének az eredményeit – az általa meghatározottak szerint – súlyozott értékkel kell figyelembe venni.
+(5)[^12] Az igazságügyért felelős miniszter, a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve a honvédelemért felelős miniszter rendelkezhet úgy, hogy a teljesítményértékelés kötelező, illetve ajánlott elemei teljesítményértékelésének az eredményeit – az általa meghatározottak szerint – súlyozott értékkel kell figyelembe venni.
 
 (6) A teljesítményértékelésnek tartalmaznia kell az értékelt személy észrevételeit a teljesítményértékelésével kapcsolatban, valamint javaslatait, elképzeléseit életpályájával kapcsolatban.
 
 (7) A közszolgálati tisztviselő, illetve a hivatásos állomány tagjának kérésére a munkavállalói érdekképviseleti szerv, illetve a területi szinten működő Magyar Kormánytisztviselői Kar (a továbbiakban: MKK) vagy a Magyar Rendvédelmi Kar (a továbbiakban: MRK) a teljesítményértékelésre írásban észrevételt tehet, melyet a teljesítményértékelésen fel kell tüntetni.
 
-[^7]: A 11. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 713. § b) pontja szerint módosított szöveg.
+[^12]: A 11. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 713. § b) pontja, a 157/2015. (VI. 25.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
