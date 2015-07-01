@@ -1,0 +1,11 @@
+65. § (1) A Hszt. 74. §-a szerinti esetben az állami vezetői megbízás megszűnéséről a minisztérium személyügyi feladatokat ellátó szervezeti egysége értesíti a rendvédelmi szervnek a hivatásos állomány tagját foglalkoztató szervezeti egység szerinti állományilletékes parancsnokot.
+
+(2) A szolgálati viszony szüneteltetésének megszüntetése iránt az állományilletékes parancsnok intézkedik
+
+a) a Hszt. 73. §-a szerinti esetben a jelöltségtől való visszalépésről, a tisztségbe való megválasztásról vagy annak elmaradásáról szóló írásbeli bejelentést követő tizenöt napon belül, bejelentés hiányában a tudomásszerzést követő tizenöt napon belül,
+
+b) a Hszt. 74. §-a szerinti esetben a miniszter által vezetett minisztériumnak az állami vezetői megbízatás megszűnéséről szóló értesítését követő tizenöt napon belül,
+
+c) a Hszt. 75. §-a szerinti esetben a kifogástalan életvitel ellenőrzésének befejező napját követő tizenöt napon belül, ha az életvitel kifogásolható, akkor a felmentéssel egyidejűleg.
+
+(3) A Hszt. 73. § (3) bekezdése szerinti esetben a hivatásos állomány tagja részére a Hszt. szerinti illetményt és a 64. § (1) bekezdésében meghatározott juttatást és költségtérítést a szünetelés befejező napjától számítva kell folyósítani.

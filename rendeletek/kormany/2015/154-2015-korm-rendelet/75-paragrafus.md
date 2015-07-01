@@ -1,0 +1,1 @@
+## 74. § E rendelet 59. § (2) bekezdése a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
