@@ -1,5 +1,3 @@
-## 4. § Az R1. 9/A. §-a a következő (11) és (12) bekezdéssel egészül ki:
+## 3–4. §[^5]
 
-## „(11) A 2015. január 1. és az utak használatáért fizetendő díjjal kapcsolatos egyes miniszteri rendeletek módosításáról szóló 34/2015. (VI. 29.) NFM rendelet (a továbbiakban: Módr.) hatálybalépése közötti időszakban, díjkategória tévesztés miatt, ugyanazon üzemben tartó ugyanazon járműve vonatkozásában legfeljebb két pótdíj szabható ki.
-
-## (12) Ha a jármű üzemben tartója 2015. január 1. és a Módr. hatálybalépése közötti időszakban nem változott, és ezen időszakban a pótdíjbefizetések összege elérte a 29 750 forintot, az e feletti összeget az üzemben tartó részére vissza kell fizetni. Ha a jármű üzemben tartója 2015. január 1. és a Módr. hatálybalépése közötti időszak alatt változott, azon üzemben tartók részére, akik által teljesített pótbefizetések összege abban az időszakban, amíg a nyilvántartásban a jármű bejegyzett üzembentartójaként szerepeltek, elérte a 29 750 forintot, az e feletti összeget vissza kell fizetni. A visszafizetéseket a Módr. hatálybalépésétől számított 45 napon belül kell teljesíteni.”
+[^5]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
