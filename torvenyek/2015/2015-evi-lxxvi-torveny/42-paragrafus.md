@@ -1,0 +1,3 @@
+42. § A Bv. tv. 61/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az elítélt vagy a védő kérelmére a büntetés-végrehajtási bíró a reintegrációs őrizet elrendeléséről szóló határozatnak a lakás kijelölésére, valamint a kijelölt lakás és az ahhoz tartozó bekerített hely elhagyásának feltételeire vonatkozó részét megváltoztathatja vagy eseti jelleggel engedélyezheti az elítélt meghatározott célból történő eltávozását. A büntetés-végrehajtási bíró a kérelemről öt napon belül, sürgős szükség esetén soron kívül – az iratok alapján – határoz. Az eljárást a reintegrációs őrizet végrehajtására kijelölt lakás elhelyezkedése szerint illetékes büntetés-végrehajtási bíró folytatja le.”

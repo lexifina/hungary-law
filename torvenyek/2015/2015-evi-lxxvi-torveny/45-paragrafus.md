@@ -1,0 +1,5 @@
+45. § A Bv. tv. 76. § (2) bekezdése a következő s) ponttal egészül ki:
+
+[Az (1) bekezdés szerinti adatkezelés kiterjed]
+
+„s) a reintegrációs őrizet elrendelése feltételeinek megállapítása és a környezettanulmány elkészítése körében a reintegrációs őrizet végrehajtására kijelölendő lakás tekintetében az elítélt vagy a befogadó nyilatkozatot tevő lakáshasználati jogára és a lakás elektromos áramellátását igazoló előfizetői adatokra, a befogadó környezetre és a lakásban lakó más személyeknek az elítélt befogadására való készségére, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkavállalási, illetve tanulmányi lehetőségeire, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, továbbá a reintegrációs őrizet ellenőrzése során az elítélt munkahelyére, illetve tanulói jogviszonyára vonatkozó adataira, valamint fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére.”
