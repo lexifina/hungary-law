@@ -8,7 +8,7 @@
 
 2. bejelentés-köteles továbbképzési program alapján folyó továbbképzés: a nyilvántartásba vett bejelentés-köteles továbbképzési program alapján folyó továbbképzési tevékenység, amely magában foglalja a képzésszervezési feladatok ellátását, valamint az oktatáshoz szükséges személyi és tárgyi feltételek biztosítását;
 
-3.[^1] belügyi szerv: a Belügyminisztérium, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 1. §-ában meghatározott belügyminiszter irányítása alatt álló fegyveres szervek, a Közszolgálati Személyzetfejlesztési Főigazgatóság (a továbbiakban: KSZF), a Belügyminisztérium Nemzetközi Oktatási Központ és a Szervezett Bűnözés Elleni Koordinációs Központ;
+3.[^1] belügyi szerv: a Belügyminisztérium, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében meghatározott – a belügyminiszter irányítása alatt álló – rendvédelmi feladatokat ellátó szervek, a Közszolgálati Személyzetfejlesztési Főigazgatóság (a továbbiakban: KSZF), a Belügyminisztérium Nemzetközi Oktatási Központ és a Szervezett Bűnözés Elleni Koordinációs Központ;
 
 4. egyéni továbbképzési terv: a hivatásos állomány tagja részére a belügyi szerv által a tárgyévre előírt továbbképzési kötelezettségek és egyéni fejlesztési igények teljesítését biztosító képzési terv;
 
@@ -26,6 +26,7 @@
 
 11. Rendészeti Vezetőképzési és Tehetséggondozási Rendszer: egy olyan emberi erőforrás-gazdálkodási folyamat, amely a belügyi szerv hivatásos állományának arra alkalmas tagjai rendészeti vezetővé vagy rendészeti szakértővé válását segíti elő, valamint egyéb karriermenedzselési tevékenységeket tartalmaz;
 
-12. továbbképzési programminősítés: a felsőoktatási, az akkreditált felnőttképzési, továbbá a köznevelési intézmény (a továbbiakban: intézményi akkreditációval rendelkező képzőintézmények) által fejlesztett továbbképzési programok kérelemre történő, minőségi megfelelőségének tanúsítása.
+12.[^2] továbbképzési programminősítés: a felsőoktatási, az akkreditált felnőttképzési, továbbá a köznevelési intézmény (a továbbiakban együtt: intézményi akkreditációval rendelkező képzőintézmények) által fejlesztett továbbképzési programok kérelemre történő, minőségi megfelelőségének tanúsítása.
 
-[^1]: Az 1. § 3. pontja a 76/2014. (XII. 29.) BM rendelet 7. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 3. pontja a 37/2015. (VI. 16.) BM rendelet 65. §-ával megállapított szöveg.
+[^2]: Az 1. § 12. pontja a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 1. pontja szerint módosított szöveg.

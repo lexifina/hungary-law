@@ -1,9 +1,9 @@
 ## 31. § A kiválasztási eljárás eredményéről az érintett személy állományilletékes parancsnokát is tájékoztatni kell.
 
-## 31/A. §[^69] Az e rendelet hatálya alá tartozó fegyveres szerv a személyügyi nyilvántartás részeként a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 203/A. § (1) bekezdése szerinti utánpótlási és vezetői adatbankot, ennek részeként
+## 31/A. §[^79] Az e rendelet hatálya alá tartozó rendvédelmi feladatokat ellátó szerv a személyügyi nyilvántartás részeként a Hszt. 277. §-a szerinti utánpótlási és vezetői adatbankot, ennek részeként
 
 a) utánpótlási nyilvántartást, valamint
 
 b) vezetői nyilvántartást
 
-[^69]: A 31/A. §-t a 76/2014. (XII. 29.) BM rendelet 6. §-a iktatta be.
+[^79]: A 31/A. §-t a 76/2014. (XII. 29.) BM rendelet 6. §-a iktatta be, szövege a 37/2015. (VI. 16.) BM rendelet 66. §-ával megállapított szöveg.
