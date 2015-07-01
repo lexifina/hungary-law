@@ -110,7 +110,7 @@ C) Központi hivatalok
 
 4.2. a főosztályvezető,
 
-4.3. a bányakapitány,
+4.3.[^1]
 
 4.4. az informatikai és adatvédelmi feladatokat, az adattári és információs feladatokat, a humánpolitikai és igazgatási feladatokat ellátó szervezeti egység vezetője,
 
@@ -153,3 +153,5 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 3.2. a gazdasági vezető,
 
 3.3. a műszaki igazgató.
+
+[^1]: Az 1. melléklet C) rész 4. pont 4.3. alpontját a 38/2015. (VI. 30.) NFM rendelet 1. §-a hatályon kívül helyezte.
