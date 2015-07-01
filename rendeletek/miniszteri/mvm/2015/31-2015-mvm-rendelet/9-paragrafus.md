@@ -1,0 +1,1 @@
+## 8. § A hivatásos állomány tagját csak az állománytáblázatban rendszeresített beosztásokon lehet foglalkoztatni. A hivatásos állomány tagja nem tölthet be magasabb beosztást, mint amilyen státuszon foglalkoztatják.

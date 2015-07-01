@@ -1,0 +1,1 @@
+## 7. § A főigazgató a miniszter által jóváhagyott állománytáblázatban megállapított státuszoktól évente legfeljebb huszonöt státusz erejéig saját hatáskörben – a miniszter egyidejű tájékoztatása mellett – eltérhet, átsorolhat, illetve átcsoportosíthat, feltéve, hogy a rendszeres személyi juttatásokra az átsorolás nem gyakorol hatást.

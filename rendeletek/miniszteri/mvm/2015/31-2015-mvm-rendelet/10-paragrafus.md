@@ -1,0 +1,1 @@
+## 9. § Ha a Hivatal az állománytáblázatban rögzített hivatásos állományú státuszon közalkalmazottat, illetve közalkalmazotti státuszon a Hivatal hivatásos állományú tagját kívánja foglalkoztatni, a foglalkoztatáshoz egyedi miniszteri jóváhagyás szükséges.
