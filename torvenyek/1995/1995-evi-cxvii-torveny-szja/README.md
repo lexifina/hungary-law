@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2014-08-15 | 2014. évi XXXIV. törvény | 1995-117-00-00.129 |
 | 2014-11-01 | 2014. évi XL. törvény | 1995-117-00-00.130 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 1995-117-00-00.131 |
+| 2015-07-01 | 2015. évi XLII. törvény | 1995-117-00-00.132 |
