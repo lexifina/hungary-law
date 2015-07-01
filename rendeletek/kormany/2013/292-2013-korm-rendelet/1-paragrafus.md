@@ -8,13 +8,13 @@ b) 2. §-ában meghatározott szükségellátás megszervezésével és elvégz�
 
 a hivatásos katasztrófavédelmi szerv területi szervét (a továbbiakban: katasztrófavédelmi szerv) jelöli ki.
 
-(2) A hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a Tv. alapján kijelölhető szolgáltató a honlapján folyamatosan közzéteszi a következő adatokat:
+(2)[^2] A hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a Tv. alapján kijelölhető szolgáltató a honlapján folyamatosan közzéteszi a következő adatokat:
 
-a) a közszolgáltatási engedély lényeges tartalmi elemeit (különösen: név, székhely, cégjegyzékszám, KÜJ, KTJ, az engedély időbeli hatálya, a szolgáltatással érintett települések megnevezése, a hulladék fajtája, jellege, mennyisége),
+a) a minősítési engedélykérelem benyújtásának tényét,
 
-b)[^2] a környezetvédelmi hatóság általi minősítését,
+b) a minősítési engedély lényeges tartalmi elemeit (különösen: név, székhely, cégjegyzékszám, KÜJ, KTJ, az engedély időbeli hatálya, a szolgáltatással érintett települések megnevezése, a hulladék fajtája, jellege, mennyisége),
 
-c) a közszolgáltatási engedélykérelem benyújtásának tényét és
+c) a környezetvédelmi hatóság általi minősítését,
 
 d) a hulladékszállítására alkalmas eszközök számát és kapacitását.
 
@@ -22,16 +22,16 @@ d) a hulladékszállítására alkalmas eszközök számát és kapacitását.
 
 (4)[^3] Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: OKTF) a katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
 
-a) a hulladékgazdálkodási engedéllyel és a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező közszolgáltatókról,
+a) a hulladékgazdálkodási engedéllyel rendelkező közszolgáltatókról,
 
-b) a hulladékgazdálkodási engedély és a hulladékgazdálkodási közszolgáltatási engedély iránti kérelmet benyújtó szolgáltatókról,
+b) a hulladékgazdálkodási engedély iránti kérelmet benyújtó szolgáltatókról,
 
-c) azokról a településekről, amelyekre hulladékgazdálkodási közszolgáltatási engedélyezési kérelem nem lett előterjesztve közszolgáltatás tárgyában,
+c) azokról a településekről, amelyekre minősítés iránti kérelem nem lett előterjesztve közszolgáltatás tárgyában,
 
-d) a minősítéssel rendelkező közszolgáltatók listájáról, és
+d) a minősítési engedéllyel rendelkező közszolgáltatók listájáról, és
 
-e) a minősítés iránti kérelmet benyújtó közszolgáltatók listájáról.
+e) a minősítési engedély iránti kérelmet benyújtó közszolgáltatók listájáról.
 
 [^1]: Az 1. § az 505/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (2) bekezdés b) pontja a 368/2014. (XII. 30.) Korm. rendelet 6. § (4) bekezdése szerint módosított szöveg.
-[^3]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
