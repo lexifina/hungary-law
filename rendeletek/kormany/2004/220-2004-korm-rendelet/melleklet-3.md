@@ -166,10 +166,10 @@ c) szabadkiömlőből való közvetlen bevezetés esetében
 
 –[^209] a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége.
 
-[^199]: A 3. számú melléklet B) pont nyitó szövegrésze a 310/2014. (XII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^199]: A 3. számú melléklet B)pont nyitó szövegrésze a 310/2014. (XII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^200]: A használt és szennyvizek kibocsátásának méréséről, ellenőrzéséről, adatszolgáltatásáról, valamint a vízszennyezési bírság sajátos szabályairól szóló 7/2002. (III. 1.) KöM rendelet 3/I. számú mellékletének 1–22. pontja.
 [^201]: A 3. számú melléklet 1.4. pontjának b) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^202]: A 3. számú melléklet B) 1. pont 1.6. alpont b) alpontja a 310/2014. (XII. 11.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^202]: A 3. számú melléklet B) 1. pont 1.6. alpont b) alpontja a 310/2014. (XII. 11.) Korm. rendelet 4. § (6) pontjával megállapított szöveg.
 [^203]: A 3. számú melléklet 1.7. pontjának e) alpontja a 182/2009. (IX. 10.) Korm. rendelet 360. § (5) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
 [^204]: A 3. számú melléklet 2.8. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^205]: A 3. számú melléklet 2.9. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

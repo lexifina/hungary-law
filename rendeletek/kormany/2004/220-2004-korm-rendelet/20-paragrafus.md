@@ -2,4 +2,4 @@
 
 ## A kibocsátási határértékek (küszöbértékek) megállapítása közvetett bevezetés esetén
 
-[^57]: A 19/A. §-t a 208/2006. (X. 16.) Korm. rendelet 3. §-a iktatta be, szövege az 558/2013. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^57]: A 19/A. §-t a 208/2006. (X. 16.) Korm. rendelet 3. §-a iktatta be, szövege az 558/2013. (XII. 31. ) Korm. rendelet 1. §-ával megállapított szöveg.
