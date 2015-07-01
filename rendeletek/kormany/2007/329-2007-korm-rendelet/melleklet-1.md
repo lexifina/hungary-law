@@ -1,26 +1,24 @@
-## 17. §[^127] Ez a rendelet a pirotechnikai termékek nyomonkövetési rendszerének a 2007/23/EK európai parlamenti és tanácsi irányelv alapján történő létrehozásáról szóló, 2014. április 16-i 58/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 17. §[^133] Ez a rendelet a pirotechnikai termékek nyomonkövetési rendszerének a 2007/23/EK európai parlamenti és tanácsi irányelv alapján történő létrehozásáról szóló, 2014. április 16-i 58/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^128]
+1. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^134]
 
-## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^129]
+## Az általános rendőri szerv egyes szerveinek elnevezése és székhelye[^135]
 
-1.[^130] Az általános rendőri szerv központi szervének székhelye
+1.[^136] Az általános rendőri szerv központi szervének székhelye
 
 1.1. Országos Rendőr-főkapitányság, Budapest
 
-2.[^131] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
+2.[^137] Az általános rendőri szerv egyes feladatok ellátására létrehozott szerveinek székhelye
 
-2.1.[^132]
+2.1. a Készenléti Rendőrség, Budapest
 
-2.2.[^133]
+2.2. a Repülőtéri Rendőr Igazgatóság, Budapest
 
-2.3. Készenléti Rendőrség, Budapest
+2.3. a Bűnügyi Szakértői és Kutatóintézet, Budapest
 
-2.4. Repülőtéri Rendőr Igazgatóság, Budapest
+2.4. a Nemzetközi Bűnügyi Együttműködési Központ, Budapest
 
-2.5.[^134] Bűnügyi Szakértői és Kutatóintézet, Budapest
-
-2.6.[^135] Központi Gazdasági Ellátó Igazgatóság, Budapest
+2.5. a Rendőrségi Oktatási és Kiképző Központ, Budapest
 
 3. A rendőr-főkapitányságok elnevezése és székhelye
 
@@ -64,12 +62,8 @@
 
 3.20. Zala Megyei Rendőr-főkapitányság, Zalaegerszeg
 
-[^127]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be.
-[^128]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^129]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
-[^130]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^131]: Az 1. melléklet 2. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^132]: Az 1. melléklet 2. pont 2.1. alpontját a 102/2012. (V. 18.) Korm. rendelet 20. §-a hatályon kívül helyezte.
-[^133]: Az 1. melléklet 2. pont 2.2. alpontját a 227/2012. (VIII. 23.) Korm. rendelet 7. § d) pontja hatályon kívül helyezte.
-[^134]: Az 1. melléklet 2. pont 2.5. alpontját a 276/2010. (XII. 15.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^135]: Az 1. melléklet 2. pont 2.6. alpontját a 8/2012. (II. 1.) Korm. rendelet 4. §-a iktatta be.
+[^133]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be.
+[^134]: Az 1. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^135]: Az 1. melléklet címe a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával módosított szöveg.
+[^136]: Az 1. melléklet 1. pontja a 361/2010. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^137]: Az 1. melléklet 2. pontja a 157/2015. (VI. 25.) Korm. rendelet 16. §-ával megállapított szöveg.
