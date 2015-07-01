@@ -1,5 +1,8 @@
+## 20. §[^12]
+
 ## Záró rendelkezések
 
-21. §[^11] Ez a rendelet 2007. január 1-jén lép hatályba.
+21. §[^13] Ez a rendelet 2007. január 1-jén lép hatályba.
 
-[^11]: A 21. § a 118/2008. (V. 8.) Korm. rendelet 1. § 208. pontja szerint módosított szöveg.
+[^12]: A 20. §-t a 157/2015. (VI. 25.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^13]: A 21. § a 118/2008. (V. 8.) Korm. rendelet 1. § 208. pontja szerint módosított szöveg.
