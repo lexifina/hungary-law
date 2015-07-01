@@ -1,1 +1,0 @@
-## 30. § A hivatásos állomány tagjának áthelyezése esetén vele együtt költöző házastársa kereset-, valamint jövedelem kiesésének átmeneti pótlására szolgáló jövedelem-kiegészítés megállapításáról és folyósításáról külön jogszabály rendelkezik.
