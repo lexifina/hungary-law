@@ -1,4 +1,4 @@
-## 3. § A katasztrófavédelmi hivatásos állományúak a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvényben (a továbbiakban: Hszt.) meghatározott, szolgálati viszonyban álló tűzoltói és polgári védelmi állományviszonyú tábornokok, főtisztek, tisztek, zászlósok és tiszthelyettesek.
+## 3. §[^3] A katasztrófavédelmi hivatásos állományúak a Hszt.-ben meghatározott, szolgálati viszonyban álló tűzoltói és polgári védelmi állományviszonyú tábornokok, főtisztek, tisztek, zászlósok és tiszthelyettesek.
 
 ## 3. A katasztrófavédelmi hivatásos állományú kötelezettségére, szolgálatellátására, magatartására vonatkozó általános szabályok
 
@@ -23,3 +23,5 @@ h) a szolgálat ellátásához, az esküjében, fogadalmában vállalt köteleze
 i) a hivatásos katasztrófavédelmi szerv hivatásos állományára vonatkozó alaki szabályokat betartani,
 
 j) a szolgálati feladatainak ellátása során hivatali, ügyeleti, készültségi, készenléti és készenléti jellegű szolgálatot teljesíteni.
+
+[^3]: A 3. § a 37/2015. (VI. 16.) BM rendelet 49. § (1) bekezdés b) pontja szerint módosított szöveg.

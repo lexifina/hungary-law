@@ -1,9 +1,3 @@
-## 20. Kérelem, szolgálati panasz esetén való eljárás
+## 20.[^6]
 
-28. § (1) A Hszt. 193. §-ában meghatározott, szóban előterjesztett kérelmet, ha az ügy jellege megkívánja vagy további intézkedést igényel, jegyzőkönyvbe kell foglalni.
-
-(2) A kérelmet a közbeeső elöljáró köteles a döntésre hivatott elöljáróhoz írásos véleményével együtt haladéktalanul felterjeszteni.
-
-(3) A döntésről történő szóbeli értesítést jegyzőkönyvbe kell foglalni.
-
-(4) Az alaptalan panaszt indokolással kell elutasítani.
+[^6]: A 20. alcímet (28. §) a 37/2015. (VI. 16.) BM rendelet 49. § (2) bekezdése hatályon kívül helyezte.
