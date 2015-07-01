@@ -1,6 +1,6 @@
-## 7. §[^3] Az adatszolgáltató az L10 MNB azonosító kódú adatszolgáltatást e rendeletnek a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 48/2014. (XI. 27.) MNB rendelet módosításáról szóló 4/2015. (III. 6.) MNB rendelet 2. melléklet 2–4. pontjával megállapított rendelkezései szerint első alkalommal 2015. február és március hónapra mint tárgyidőszakra vonatkozóan egyidejűleg teljesíti.
+## 8. §[^4] Az adatszolgáltató a P47 MNB azonosító kódú adatszolgáltatást e rendeletnek az egyes adatszolgáltatási tárgyú MNB rendeletek módosításáról szóló 21/2015. (VI. 29.) MNB rendelet 1. mellékletével megállapított rendelkezése szerint első alkalommal 2015. harmadik negyedévre mint tárgyidőszakra vonatkozóan teljesíti.
 
-1. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^4]
+1. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^5]
 
-[^3]: A 7. §-t a 4/2015. (III. 6.) MNB rendelet 3. §-a iktatta be.
-[^4]: Az 1. melléklet a 4/2015. (III. 6.) MNB rendelet 4. §-a szerint módosított szöveg.
+[^4]: A 8. §-t a 21/2015. (VI. 29.) MNB rendelet 1. § (1) bekezdése iktatta be.
+[^5]: Az 1. melléklet a 4/2015. (III. 6.) MNB rendelet 4. §-a szerint módosított szöveg.

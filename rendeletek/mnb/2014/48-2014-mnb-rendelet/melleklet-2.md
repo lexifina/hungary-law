@@ -284,6 +284,6 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatási főosztály |
 
-2. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^5]
+2. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^6]
 
-[^5]: A 2. melléklet a 4/2015. (III. 6.) MNB rendelet 5. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 4/2015. (III. 6.) MNB rendelet 5. §-a, a 21/2015. (VI. 29.) MNB rendelet 1. § (2) bekezdése szerint módosított szöveg.
