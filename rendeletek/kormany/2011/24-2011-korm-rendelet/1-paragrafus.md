@@ -6,8 +6,9 @@
 
 (4) A Kjt. 6/A. § (4) bekezdés alkalmazása (a továbbiakban: országos reprezentativitás megállapítása) érdekében a közalkalmazottak országos létszámát a közalkalmazotti jogviszonyban állók összlétszámával azonosan kell megállapítani.
 
-(5) A Kjt. 6/B. §-ára tekintettel kizárólag az országos reprezentativitás megállapításánál – a Közalkalmazottak Országos Munkaügyi Tanácsában (a továbbiakban: KOMT) történő részvétel céljából – kell figyelembe venni a fegyveres és rendvédelmi szerveknél foglalkoztatott közalkalmazottak létszámát.
+(5)[^2] A Kjt. 6/B. §-ára tekintettel kizárólag az országos reprezentativitás megállapításánál – a Közalkalmazottak Országos Munkaügyi Tanácsában (a továbbiakban: KOMT) történő részvétel céljából – kell figyelembe venni a rendvédelmi feladatokat ellátó szerveknél foglalkoztatott közalkalmazottak létszámát.
 
 (6) Az (1)–(5) bekezdésben foglalt adatokat a 3. § (2) bekezdésében meghatározott igazolás hónapjának első napján közalkalmazotti jogviszonyban álló személyek létszáma alapján kell megállapítani.
 
 [^1]: Az 1. § a 89/2014. (III. 20.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (5) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 25. §-a szerint módosított szöveg.

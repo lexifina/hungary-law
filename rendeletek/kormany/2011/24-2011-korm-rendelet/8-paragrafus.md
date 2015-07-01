@@ -1,4 +1,4 @@
-8. §[^18] (1) A közalkalmazotti szakszervezet reprezentativitását területi (megyei) vagy települési szinten a fenntartók szerint létrehozott TRMB állapítja meg.
+8. §[^20] (1) A közalkalmazotti szakszervezet reprezentativitását területi (megyei) vagy települési szinten a fenntartók szerint létrehozott TRMB állapítja meg.
 
 (2) Önkormányzati fenntartónál létrehozott TRMB esetén:
 
@@ -16,4 +16,4 @@ e) A TRMB tevékenységét a jogszabályoknak megfelelően, saját maga által k
 
 (4) A (2)–(3) bekezdésben nem szereplő fenntartó esetében a területi (megyei) vagy települési szintű reprezentativitást a fenntartó az általa fenntartott munkáltatóknál működő szakszervezetekkel együtt kialakított eljárási rend szerint állapítja meg.
 
-[^18]: A 8. § a 89/2014. (III. 20.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^20]: A 8. § a 89/2014. (III. 20.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.

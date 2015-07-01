@@ -4,7 +4,7 @@ a) a Magyar Államkincstár Területi Igazgatósága a központi illetmény-szá
 
 b) ha a munkáltató nem kapcsolódik a KIR-hez, a munkáltató fenntartója.
 
-(2)[^2] Az (1) bekezdésben meghatározott adatszolgáltatás tartalmazza:
+(2)[^3] Az (1) bekezdésben meghatározott adatszolgáltatás tartalmazza:
 
 a) a munkáltató megnevezését, székhelyét, adószámát vagy Magyar Államkincstár Törzskönyvi nyilvántartási számát (a továbbiakban: törzskönyvi azonosító szám), a munkáltató fenntartója megnevezését, az államháztartás szakágazati rendje szerinti kódját, a Kjt. 7. §-a szerinti intézményfenntartó központ szervezeti egységeként működő köznevelési intézmények OM azonosítóját;
 
@@ -20,4 +20,4 @@ d) a kitöltő személy nevét, telefonszámát, e-mail címét;
 
 e) a kiállítás dátumát.
 
-[^2]: A 2. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
