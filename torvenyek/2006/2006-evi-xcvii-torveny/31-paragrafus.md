@@ -1,1 +1,1 @@
-31. §
+31. § A 11. § (1) bekezdése szerinti korlátozás szempontjából a 2011. április 1. előtt betöltött tisztséget nem kell tekintetbe venni, a korlátozást a 2011. április 1-jét követő első alkalommal történő megválasztástól kell számítani.
