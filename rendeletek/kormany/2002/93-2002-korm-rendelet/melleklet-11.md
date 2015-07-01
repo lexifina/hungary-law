@@ -1,4 +1,4 @@
-11. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^179]
+11. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^181]
 
 ## IGAZOLÁS
 
@@ -28,7 +28,7 @@ b) székhelye
 
 c) akkreditációs száma
 
-6.[^180] A továbbképzés
+6.[^182] A továbbképzés
 
 a) formája (előadás, e-learning, online)
 
@@ -44,7 +44,7 @@ f) időpontja (év, hónap, nap)
 
 g) kezdés és befejezés időpontja (óra, perc)
 
-7.[^181] A teljesített továbbképzési program
+7.[^183] A teljesített továbbképzési program
 
 a) címe
 
@@ -62,6 +62,6 @@ d) kreditpont-értéke a megjelölt szakterületen
 
 11. Cégszerű aláírás, bélyegző
 
-[^179]: A 11. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
-[^180]: A 11. számú melléklet 6. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
-[^181]: A 11. számú melléklet 7. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
+[^181]: A 11. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
+[^182]: A 11. számú melléklet 6. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
+[^183]: A 11. számú melléklet 7. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.

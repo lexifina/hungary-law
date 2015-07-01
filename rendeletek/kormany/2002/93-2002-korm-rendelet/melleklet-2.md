@@ -122,7 +122,7 @@
 
 ## 6. A kérelmező aláírása8
 
-2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^150]
+2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^152]
 
 [^1.]: Az adatlap letölthető az egységes Kormányzati Portálról.
 [^2.]: Nyilvántartásba történő felvétel kérelmezése esetén – a 3. pontban foglaltak kivétel – az adatlap valamennyi adatát kötelező megadni. A 3. pontban szereplő adatok önkéntes adatszolgáltatás alapján kerülnek a nyilvántartásba.
@@ -131,4 +131,4 @@
 [^5.]: Akkor kötelező megadni, amennyiben a kérelmező a nyilvántartásban már szerepel/szerepelt.
 [^6.]: Hozzájárulás esetén a megfelelő személyes adatok külön-külön egyértelműen megjelölendők.
 [^8.]: Akkor kötelező kitölteni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
-[^150]: A 2. számú mellékletet a 329/2008. (XII. 30.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 272. §-ával megállapított – 13. § (2) bekezdése hatályon kívül helyezte 2013. január 1. napjával, azzal, hogy a hatályon kívül helyezett rendelkezés alapján már engedéllyel rendelkező és nyilvántartásba vett személyek továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és a 93/2002. (V. 5.) Korm. rendeletben foglalt feltételeknek megfelelnek.
+[^152]: A 2. számú mellékletet a 329/2008. (XII. 30.) Korm. rendelet – 182/2009. (IX. 10.) Korm. rendelet 272. §-ával megállapított – 13. § (2) bekezdése hatályon kívül helyezte 2013. január 1. napjával, azzal, hogy a hatályon kívül helyezett rendelkezés alapján már engedéllyel rendelkező és nyilvántartásba vett személyek továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és a 93/2002. (V. 5.) Korm. rendeletben foglalt feltételeknek megfelelnek.
