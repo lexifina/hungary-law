@@ -52,7 +52,7 @@
 
 | Rendőr-főkapitányság megnevezése | Előirányzat-felhasználási számla száma |
 
-| Központi Gazdasági Ellátó Igazgatóság | 10023002-01451722-00000000 |
+| Készenléti Rendőrség | 10023002-01451825-00000000 |
 
 | Budapesti Rendőr-főkapitányság | 10023002-01451430-00000000 |
 
@@ -94,4 +94,4 @@
 
 | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-[^10]: A 2. számú melléklet a 13/2012. (III. 30.) BM rendelet 3. §-a szerint módosított szöveg.
+[^10]: A 2. számú melléklet a 13/2012. (III. 30.) BM rendelet 3. §-a, a 37/2015. (VI. 16.) BM rendelet 17. §-a szerint módosított szöveg.
