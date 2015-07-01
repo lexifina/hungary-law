@@ -1,1 +1,1 @@
-463/A. § A 461. §-ban és a 462/B–462/D. §-ban meghatározott kedvezményeket a költségvetési szerv kifizető nem érvényesítheti.
+463/A. § A 461. §-ban, a 462/B–462/D. §-ban és a 462/G. §-ban meghatározott kedvezményeket a költségvetési szerv kifizető nem érvényesítheti.

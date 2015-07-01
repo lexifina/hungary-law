@@ -12,7 +12,7 @@
 
 (5) Részmunkaidős foglalkoztatás esetén
 
-a) a 461. §-ban, 462/B. §-ban, 462/C. §-ban és a 462/E. §-ban meghatározott kedvezmény legfeljebb 100 ezer forintnak,
+a) a 461. §-ban, a 462/B. §-ban, a 462/C. §-ban, a 462/E. §-ban és a 462/G. §-ban meghatározott kedvezmény legfeljebb 100 ezer forintnak,
 
 b) a 462/F. § (2) bekezdés a) pontjában meghatározott kedvezmény legfeljebb 500 ezer forintnak,
 
