@@ -46,7 +46,7 @@ j) szabályozott elektronikus ügyintézési szolgáltatás: az alábbi elektron
 
 10. 10. hozzáférés az elektronikus iratkezelő rendszerhez,
 
-11. hozzáférés biztosítása elektronikus nyilvántartások adataihoz,
+11.
 
 12. hozzáférés biztosítása az informatikai rendszer működésével kapcsolatos adatokhoz,
 
