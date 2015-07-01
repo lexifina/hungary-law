@@ -58,15 +58,13 @@
 
 ## ** Nem tekinthető gépkezelőnek a kizárólagosan részfeladatot ellátó betanított-, vagy segédmunkát végző személy.
 
-2. számú melléklet a 83/2003. (VII. 16.) FVM rendelethez
+2. számú melléklet a 83/2003. (VII. 16.) FVM rendelethez[^14]
 
 Mezőgazdasági és erdészeti gépkezelői jogosítvány
 
 | a) A jogosítvány külső (cím) oldala |
 
-FÖLDMŰVELÉSÜGYI ÉS VIDÉKFEJLESZTÉSI
-
-MINISZTÉRIUM
+FÖLDMŰVELÉSÜGYI MINISZTÉRIUM
 
 | Mezőgazdasági és erdészeti gépkezelői jogosítvány |
 
@@ -145,3 +143,5 @@ Orvosi megjegyzések:
 e) A jogosítvány 11–12. oldala
 
 C) EGYÉB BEJEGYZÉSEK
+
+[^14]: A 2. számú melléklet a 36/2015. (VI. 30.) FM rendelet 3. § d) pontja szerint módosított szöveg.
