@@ -1,6 +1,6 @@
 ## 46. Együttműködés rendje
 
-80. § (1) Az országgyűlési őr a jogszabályok, együttműködési megállapodások által meghatározott esetekben feladatait a Magyar Honvédség, az állami, az egészségügyi, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó fegyveres szervek (a továbbiakban: társszervek) tagjaival együttműködve látja el.
+80. § (1)[^18] Az országgyűlési őr a jogszabályok, együttműködési megállapodások által meghatározott esetekben feladatait a Magyar Honvédség, az állami, az egészségügyi, a Hszt. hatálya alá tartozó rendvédelmi feladatokat ellátó szervek (a továbbiakban: társszervek) tagjaival együttműködve látja el.
 
 (2) Az országgyűlési őrnek – a társszervekkel való együttműködéskor a közös feladat végrehajtása során – a hatáskör és illetékesség szabályait betartva, a szolgálati elöljáró utasítása és irányítása figyelembevételével, önállóan kell a feladatát végrehajtania.
 
@@ -9,3 +9,5 @@
 (4) Az országgyűlési őr a társszervek tagjaival történő kapcsolattartás során a kölcsönös megbecsülés érvényre juttatásával tart fenn jó viszonyt.
 
 (5) Az országgyűlési őr a szakmai feladatainak körébe tartozó esetekben segítséget nyújt a hatáskörrel rendelkező szervek tevékenységéhez.
+
+[^18]: A 80. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 25. § f) pontja szerint módosított szöveg.

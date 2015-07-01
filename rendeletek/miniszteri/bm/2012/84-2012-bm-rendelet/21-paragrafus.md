@@ -6,4 +6,6 @@
 
 (2) A diplomáciai vagy nemzetközi jogon alapuló más mentességet élvező, nem magyar állampolgárságú személy, továbbá a közjogi tisztséget betöltő személy által elkövetett bűncselekmény vagy szabálysértés esetén – a tettenérés esetét kivéve – az országgyűlési őr nem végezhet olyan eljárási cselekményeket, amelyek a mentességet élvező személy ellen közvetlenül irányulnak. Az országgyűlési őr ilyen esetben foganatosítja a szükséges helyszíni intézkedést és feljelentést tesz.
 
-(3) A diplomáciai vagy nemzetközi jogon alapuló más mentességet élvező, nem magyar állampolgárságú személlyel szembeni, az (1) és (2) bekezdés szerinti intézkedésről soron kívül értesíteni kell a Külügyminisztérium ügyeletét.
+(3)[^8] A diplomáciai vagy nemzetközi jogon alapuló más mentességet élvező, nem magyar állampolgárságú személlyel szembeni, az (1) és (2) bekezdés szerinti intézkedésről soron kívül értesíteni kell a Külgazdasági és Külügyminisztérium ügyeletét.
+
+[^8]: A 21. § (3) bekezdése a 36/2015. (VI. 16.) BM rendelet 25. § a) pontja szerint módosított szöveg.

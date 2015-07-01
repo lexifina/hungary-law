@@ -20,10 +20,12 @@ h) megbetegedését, felgyógyulását.
 
 (2) Az alárendelt szolgálati elöljárójának írásban jelenti
 
-a) a személyi és családi körülményeiben beállott, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 7. számú mellékletében meghatározott adatokkal kapcsolatos változásokat, valamint
+a)[^17] a személyi és családi körülményeiben beállott, a Hszt. 1. mellékletében meghatározott adatokkal kapcsolatos változásokat, valamint
 
 b) ha bűncselekmény, szabálysértés vagy a helyszínen közigazgatási bírsággal sújtható szabályszegés miatt vele szemben intézkedés történt.
 
 (3) Ha más jogszabály jelentési kötelezettséget ír elő, a jelentést írásban kell megtenni.
 
 (4) Az alárendelt szolgálati időben a közvetlen szolgálati elöljárónak haladéktalanul, de legkésőbb szolgálatának letelte előtt, szolgálati időn kívül az eseményt követő szolgálati napon jelenti a jogszabály által előírt jelentési kötelezettség alá eső változásokat, továbbá – a változástól számított 8 munkanapon belül – írásban a személyügyi nyilvántartás adatkörébe tartozó adataiban bekövetkezett változásokat.
+
+[^17]: A 62. § (2) bekezdés a) pontja a 36/2015. (VI. 16.) BM rendelet 25. § e) pontja szerint módosított szöveg.

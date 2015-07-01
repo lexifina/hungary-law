@@ -8,6 +8,8 @@ c) viszonosság alapján védett személynek tekintendő külföldi.
 
 (2) Az Országgyűlés elnökének munkahelyét, valamint lakását vagy egyéb tartózkodási helyét az adott célnak megfelelő biztonságtechnikai berendezésekkel kell védeni. Ezek beszerzésével, fel- és leszerelésével, üzemeltetésével, karbantartásával, javításával, továbbá a személyvédelemmel kapcsolatban felmerült költségek az Országgyűlés Hivatalát terhelik.
 
-(3) Az Országgyűlési Őrség az Országgyűlés elnöke részére állandó híradástechnikai összeköttetést biztosít és gondoskodik lakása technikai védelméről.
+(3)[^12] Az Országgyűlési Őrség az Országgyűlés elnöke részére állandó híradástechnikai összeköttetést biztosít, technikai átvizsgálást végez és gondoskodik lakása technikai védelméről.
 
 (4) A (3) bekezdésben foglaltakkal kapcsolatban felmerült költségek az Országgyűlés Hivatalát terhelik.
+
+[^12]: A 41. § (3) bekezdése a 36/2015. (VI. 16.) BM rendelet 22. §-ával megállapított szöveg.
