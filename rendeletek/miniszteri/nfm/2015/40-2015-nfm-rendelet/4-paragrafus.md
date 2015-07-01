@@ -1,0 +1,1 @@
+## „(5) Személyszállításra szolgáló jármű esetében egy személy tömegét M1 kategóriájú gépjármű esetén 75 kilogrammal, egyéb kategória esetén 68 kilogrammal, a nem menetrend szerinti helyi forgalom lebonyolítására készült autóbuszok esetén 71 kilogrammal, az autóbusz vezetőjének tömegét 75 kilogrammal kell számításba venni.”

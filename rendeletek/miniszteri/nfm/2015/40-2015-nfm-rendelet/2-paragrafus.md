@@ -1,0 +1,3 @@
+## 1. § A közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: MR.) 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A vontatott mezőgazdasági és ipari munkagépre – ha a rendelet eltérően nem rendelkezik – a pótkocsira vonatkozó rendelkezéseket kell alkalmazni. A lassú járműnek nem minősülő, legfeljebb 40 km/óra tervezési sebességű önjáró munkagépre a mezőgazdasági vontatóra vonatkozó rendelkezéseket, valamint a 40 km/óra tervezési sebességet meghaladó önjáró munkagépre a gépjárműre vonatkozó rendelkezéseket kell alkalmazni.”
