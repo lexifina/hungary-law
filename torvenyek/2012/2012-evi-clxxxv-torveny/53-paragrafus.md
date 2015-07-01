@@ -4,7 +4,7 @@
 
 (2) A közszolgáltató az ügyfélszolgálat keretében az Fgytv.-ben meghatározottakon túlmenően
 
-a) a minősítő okiratot,
+a) a minősítési engedélyt,
 
 b) az alkalmazott hulladékgazdálkodási közszolgáltatási díjakat,
 

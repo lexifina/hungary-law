@@ -2,9 +2,9 @@
 
 (2) A települési önkormányzat hulladékgazdálkodási közszolgáltatás ellátására csak 1 hulladékgazdálkodási közszolgáltatási szerződést köthet.
 
-(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak hulladékgazdálkodási közszolgáltatási engedéllyel, valamint minősítő okirattal rendelkező gazdasági szereplővel köthet.
+(3) A települési önkormányzat hulladékgazdálkodási közszolgáltatási szerződést csak a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló törvényben meghatározott minősítési engedéllyel (a továbbiakban: minősítési engedély) rendelkező gazdasági szereplővel köthet.
 
-(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a hulladékgazdálkodási közszolgáltatási engedéllyel, valamint minősítő okirattal nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – a települési önkormányzatot és a magyar államot (a továbbiakban: állam) kivéve – valamennyien rendelkeznek hulladékgazdálkodási közszolgáltatási engedéllyel, valamint minősítő okirattal.
+(4) A települési önkormányzat a (3) bekezdésben meghatározottaktól eltérően azzal a minősítési engedéllyel nem rendelkező gazdasági szereplővel is köthet hulladékgazdálkodási közszolgáltatási szerződést, amelynek tagjai – az államot és a települési önkormányzatot kivéve – valamennyien rendelkeznek minősítési engedéllyel.
 
 (5) A hulladékgazdálkodási közszolgáltatási szerződésnek legalább az alábbiakat kell tartalmaznia:
 

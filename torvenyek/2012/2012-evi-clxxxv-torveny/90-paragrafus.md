@@ -10,9 +10,11 @@
 
 (6)–(7)
 
-(8) Az e törvény szerinti hulladékgazdálkodási közszolgáltatási szerződést a települési önkormányzat a hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal rendelkező gazdálkodó szervezettel legkésőbb 2014. július 1-ig megköti. Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal rendelkezik, valamint a települési önkormányzattal – az e törvény hatálybalépését követően és minősítő okirat birtokában – hulladékgazdálkodási közszolgáltatási szerződést kötött.
+(8) Hulladékgazdálkodási közszolgáltatást 2014. július 1-jétől csak az a nonprofit gazdasági társaság végezhet, amely hulladékgazdálkodási közszolgáltatási engedéllyel és minősítő okirattal, vagy – a 34. § (3) bekezdésben és a (9) bekezdésben foglaltakra tekintettel – 2015. június 30-át követően kiadott minősítési engedéllyel rendelkezik, valamint a települési önkormányzattal az e törvény hatálybalépését követően és minősítési okirat birtokában hulladékgazdálkodási közszolgáltatási szerződést kötött.
 
-(9)
+(9) Hulladékgazdálkodási közszolgáltatási engedély 2015. június 30-át követően nem adható ki. Az e törvény alapján kiadott hulladékgazdálkodási közszolgáltatási engedély az abban meghatározott ideig, de legkésőbb 2015. december 31-ig hatályos.
+
+(9a) Ha a környezetvédelmi hatóság 2015. június 30-át követően, de a (9) bekezdésben meghatározott hatályvesztést megelőzően minősítési engedélyt ad ki a hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező közszolgáltató részére, a hulladékgazdálkodási közszolgáltatási engedélyt a minősítési engedély kiadásával egyidejűleg visszavonja.
 
 (10) Az a gazdálkodó szervezet, amely hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységet végez, a 2013. évben az e tevékenység folytatása miatti éves felügyeleti díj 50%-át a környezetvédelmi hatóság részére legkésőbb 2013. augusztus 31-ig megfizeti.
 

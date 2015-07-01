@@ -10,13 +10,13 @@
 
 (3)
 
-(4) A környezetvédelmi hatóság a hulladékgazdálkodási engedélyt, a hulladékgazdálkodási közszolgáltatási engedélyt, valamint a nyilvántartásba vett adatokat módosíthatja vagy visszavonhatja.
+(4) A környezetvédelmi hatóság a hulladékgazdálkodási engedélyt, valamint a nyilvántartásba vett adatokat módosíthatja vagy visszavonhatja.
 
 (5) Hivatalból eljárva vagy kérelemre induló eljárás esetén a környezetvédelmi hatóság a hulladékgazdálkodási engedélyt korábbi módosításaival együtt egységes szerkezetbe foglalja. Kérelem esetén a kérelem előterjesztője igazgatási szolgáltatási díjat fizet.
 
 (6) A környezetvédelmi hatóság a hulladékgazdálkodási engedély iránti kérelmet elutasítja, illetve a nyilvántartásba vételt megtagadja, ha a hulladékgazdálkodási tevékenység során alkalmazni tervezett művelet nem felel meg a jogszabályokban foglaltaknak, vagy az nem áll összhangban a 6. § (1) bekezdésében foglaltakkal.
 
-(7) Nem adható hulladékgazdálkodási, illetve hulladékgazdálkodási közszolgáltatási engedély annak, továbbá nem vehető nyilvántartásba az, akinek vagy amelynek az önkormányzati vagy az állami adóhatósággal szemben köztartozása van.
+(7) Nem adható hulladékgazdálkodási engedély, illetve minősítési engedély annak, továbbá nem vehető nyilvántartásba az, akinek vagy amelynek az önkormányzati vagy az állami adóhatósággal szemben köztartozása van.
 
 (8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 60 nap, a nyilvántartásba vételi eljárásokban 30 nap.
 
