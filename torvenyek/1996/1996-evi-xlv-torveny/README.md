@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-45-00-00
 | 2012-01-01 | 2011. évi CXXXII. törvény | 1996-45-00-00.22 |
 | 2012-01-02 | 2011. évi CXCII. törvény | 1996-45-00-00.23 |
 | 2015-04-02 | 2015. évi XIII. törvény | 1996-45-00-00.24 |
+| 2015-07-01 | 2015. évi XLII. törvény | 1996-45-00-00.25 |

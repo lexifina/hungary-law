@@ -2,11 +2,11 @@
 
 2. § E törvény alkalmazásában
 
-a) fegyveres szerv: a rendvédelmi szervek (a rendőrség, a büntetés-végrehajtási szervezet, a katasztrófavédelem), a Nemzeti Adó- és Vámhivatal, és a nemzetbiztonsági szolgálat,
+a) fegyveres szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó rendvédelmi feladatokat ellátó szerv,
 
 b)
 
-c) kettős jogállású hallgató: a rendvédelmi felsőoktatási intézménybe felvett, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) szerinti hivatásos állomány tagja, aki államilag támogatott képzésben folytat tanulmányokat,
+c) kettős jogállású hallgató: a rendvédelmi felsőoktatási intézménybe felvett, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti hivatásos állomány tagja, aki államilag támogatott képzésben folytat tanulmányokat,
 
 d)
 
