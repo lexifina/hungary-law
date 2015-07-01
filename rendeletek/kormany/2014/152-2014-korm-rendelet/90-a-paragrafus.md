@@ -1,4 +1,4 @@
-## 90/A. §[^59] A Kormány
+## 90/A. §[^60] A Kormány
 
 a) a számvitelről szóló törvény szerinti könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezetként, valamint a könyvviteli szolgáltatást végzők tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóságként,
 
@@ -8,4 +8,4 @@ c) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről
 
 a minisztert jelöli ki.
 
-[^59]: A 90/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 829. §-a iktatta be.
+[^60]: A 90/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 829. §-a iktatta be.

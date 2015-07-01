@@ -1,6 +1,6 @@
-## 16.[^75]
+## 16.[^76]
 
-1. melléklet a 152/2014. (VI. 6.) Korm. rendelethez[^76]
+1. melléklet a 152/2014. (VI. 6.) Korm. rendelethez[^77]
 
-[^75]: A 16. alcím címét a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^76]: Az 1. melléklet a 167/2014. (VII. 17.) Korm. rendelet 19. §-a, a 221/2014. (IX. 4.) Korm. rendelet 834. §-a és 835. § e) pontja, a 233/2014. (IX. 18.) Korm. rendelet 10. §-a, a 303/2014. (XII. 5.) Korm. rendelet 7. §-a, a 318/2014. (XII. 13.) Korm. rendelet 26. §-a, a 326/2014. (XII. 15.) Korm. rendelet 10. § 4. pontja, a 381/2014. (XII. 31.) Korm. rendelet 28. §-a, a 30/2015. (II. 25.) Korm. rendelet 99. §-a szerint módosított szöveg.
+[^76]: A 16. alcím címét a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^77]: Az 1. melléklet a 167/2014. (VII. 17.) Korm. rendelet 19. §-a, a 221/2014. (IX. 4.) Korm. rendelet 834. §-a és 835. § e) pontja, a 233/2014. (IX. 18.) Korm. rendelet 10. §-a, a 303/2014. (XII. 5.) Korm. rendelet 7. §-a, a 318/2014. (XII. 13.) Korm. rendelet 26. §-a, a 326/2014. (XII. 15.) Korm. rendelet 10. § 4. pontja, a 381/2014. (XII. 31.) Korm. rendelet 28. §-a, a 30/2015. (II. 25.) Korm. rendelet 99. §-a szerint módosított szöveg.

@@ -4,12 +4,13 @@
 
 a) a rendőrségre,
 
-b) a fegyveres szervek hivatásos és szerződéses állományú tagjaira,
+b)[^26] a rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaira,
 
 c) a személy és vagyonvédelemre, a magánnyomozásra
 
 vonatkozó jogszabályokat.
 
-(2)[^26] A miniszter a rendészetért való felelőssége keretében összehangolja a korrupcióellenes tevékenységgel kapcsolatos kormányzati feladatokat és irányítja a korrupcióellenes kormányzati tevékenységben és összehangolásában közreműködő szervet.
+(2)[^27] A miniszter a rendészetért való felelőssége keretében összehangolja a korrupcióellenes tevékenységgel kapcsolatos kormányzati feladatokat és irányítja a korrupcióellenes kormányzati tevékenységben és összehangolásában közreműködő szervet.
 
-[^26]: A 39. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 822. §-ával megállapított szöveg.
+[^26]: A 39. § (1) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^27]: A 39. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 822. §-ával megállapított szöveg.
