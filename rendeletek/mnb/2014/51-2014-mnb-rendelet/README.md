@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-51-20-2
 | 2015-01-01 | 2014-51-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-03-13 | 2014-51-20-2C.4 | 5/2015. (III. 12.) MNB rendelet |
 | 2015-04-01 | 2014-51-20-2C.5 | 5/2015. (III. 12.) MNB rendelet |
+| 2015-07-01 | 2014-51-20-2C.6 | 5/2015. (III. 12.) MNB rendelet |
