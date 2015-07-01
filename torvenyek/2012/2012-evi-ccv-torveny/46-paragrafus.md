@@ -4,7 +4,7 @@
 
 a) az állomány azon tagja, aki Magyarországon települő katonai szervezetnél teljesít szolgálatot, a vezénylés időtartamára,
 
-b) az állomány azon tagja, aki más szervnél teljesít szolgálatot, a vezénylés időtartamára,
+b) az állomány azon tagja, aki más szervnél teljesít szolgálatot, az 51. § (3) bekezdésében foglalt kivétellel, a más szervnél történő szolgálatteljesítés időtartamára,
 
 c) az állomány azon tagja, aki nem katonai oktatási intézményben teljesít szolgálatot, a vezénylés időtartamára,
 
@@ -26,7 +26,7 @@ k) az állomány azon tagja, akinek a szolgálati beosztása a felmentési véde
 
 l) a hivatásos állomány azon tagja, akinek a honvédtiszti alapképzés vagy a katonai szakképzés eredményes befejezésekor megfelelő szolgálati beosztás nem biztosítható, de legfeljebb 1 évig,
 
-m) az állomány azon tagja, aki 1 évet meghaladóan külföldi képzés keretében, vagy hazai oktatási intézmény nappali képzésén tanulmányokat folytat, a képző intézmény által előírt képzési idő tartamára, de legfeljebb a tanulmányai befejezéséig, amennyiben a tanulmány befejezésekor részére szolgálati beosztás nem biztosítható legfeljebb 1 évig,
+m) az állomány azon tagja, aki 1 évet meghaladóan külföldi képzés keretében, vagy hazai oktatási intézmény nappali képzésén tanulmányokat folytat, a képző intézmény által előírt képzési idő tartamára, de legfeljebb a tanulmányai befejezéséig, amennyiben a tanulmány befejezésekor részére szolgálati beosztás nem biztosítható, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig,
 
 n) a tábornok, aki a szolgálati viszonya megszűnésére, megszüntetésére vonatkozó előterjesztési javaslattal szemben bírósághoz fordult, a kereset jogerős elbírálásáig,
 
@@ -36,7 +36,7 @@ p) az állomány azon tagja, akinek a szolgálati beosztása létszámcsökkent�
 
 q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára,
 
-r) a hivatásos állomány legalább százados vagy legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
+r) a hivatásos tiszti állomány legalább százados és a hivatásos altiszti állomány legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 
 s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 

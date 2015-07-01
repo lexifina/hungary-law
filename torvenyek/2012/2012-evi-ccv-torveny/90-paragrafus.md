@@ -4,7 +4,7 @@ a) az érinti a szolgálatteljesítési idejét, köteles azt a munkáltatói jo
 
 b) az nem érinti a szolgálatteljesítési időt, köteles azt a munkáltatói jogkört gyakorlónak előzetesen írásban bejelenteni.
 
-(2) Az (1) bekezdés a) pontja szerinti engedély alapján a tanulmányok folytatásához szükséges időre az állomány tagja mentesül a szolgálatteljesítési kötelezettség alól, és annak időtartamára távolléti díjra jogosult. Ha tanulmányi szerződés vagy miniszteri rendelet eltérően nem rendelkezik, köteles a tanulmányi célú mentesítés időtartamát ledolgozni.
+(2) Az (1) bekezdés a) pontja szerinti engedély alapján a tanulmányok folytatásához szükséges időre az állomány tagja mentesül a szolgálatteljesítési kötelezettség alól. Ha tanulmányi szerződés vagy miniszteri rendelet eltérően nem rendelkezik, köteles a tanulmányi célú mentesítés időtartamát ledolgozni.
 
 (3) A mentesítés mértékét a munkáltatói jogkört gyakorló az oktatási intézmény által kibocsátott, a kötelező tanulmányi foglalkozás és a szakmai gyakorlat időtartamáról szóló igazolásnak megfelelően állapítja meg.
 

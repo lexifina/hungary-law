@@ -1,6 +1,6 @@
 176. § (1) Az elévülés szempontjából önállónak kell tekinteni
 
-a) az illetmény és a betegség idejére járó távolléti díj,
+a) az illetmény és a betegség idejére járó illetmény,
 
 b) az illetmény és a sérelem folytán csökkent kereset, valamint
 
@@ -12,7 +12,7 @@ különbözetének megtérítése iránti igényt.
 
 (3) Az elévülési idő az (1) bekezdésben foglalt megkülönböztetéssel
 
-a) a betegség idejére járó távolléti díj első fizetésének napjától,
+a) a betegség idejére járó illetmény első fizetésének napjától,
 
 b) attól az időponttól, amikor a sérelem folytán bekövetkezett munkaképesség-csökkenés, egészségkárosodás első ízben vezetett jövedelem-kiesésben megmutatkozó károsodásra,
 

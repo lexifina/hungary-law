@@ -1,41 +1,33 @@
-74. § (1) A szerződéses állomány tagja leszerelési segélyre jogosult, ha szolgálati viszonya az 59. § (1) bekezdés d) pontja, a 62. § (1) bekezdés a), b), d) pontja, valamint a 62. § (2) bekezdés b) vagy f) pontja szerint szűnik meg, kivéve ha megszakítás nélkül hivatásos állományba veszik. Felmentés esetén a leszerelési segélyt a felmentési idő utolsó napján kell kifizetni.
+74. § (1) A legénységi állomány tagja visszailleszkedési támogatásra jogosult, ha szolgálati viszonya az 59. § (1) bekezdés d) pontja, a 62. § (1) bekezdés a), b), d) pontja, vagy a 62. § (2) bekezdés b) vagy f) pontja szerint szűnik meg, kivéve, ha megszakítás nélkül hivatásos állományba veszik. A visszailleszkedési támogatást a felmentési idő utolsó napján vagy a szerződés lejártakor kell kifizetni.
 
-(2) A leszerelési segély összege a szerződéses szolgálatban ténylegesen eltöltött
+(2) A visszailleszkedési támogatás összege, ha a legénységi állomány tagjának a tényleges szolgálati viszonyban töltött ideje legalább
 
-a) 1–3. évek után évenként 1,3 havi,
+a) öt év: egyhavi,
 
-b) 4. év után további 1,4 havi,
+b) nyolc év: kettőhavi,
 
-c) 5. év után további 1,6 havi,
+c) tizenhárom év: háromhavi,
 
-d) 6. év után további 1,8 havi,
+d) tizenhat év: négyhavi,
 
-e) 7. év után további 2,0 havi,
+e) tizenkilenc év: öthavi,
 
-f) 8. év után további 2,2 havi,
+f) huszonhárom év: hathavi,
 
-g) 9. év után további 2,4 havi,
+g) huszonhat év: nyolchavi,
 
-h) 10. év után további 2,4 havi,
+h) harmincegy év: kilenchavi, és
 
-i) 11. év után további 2,0 havi,
+i) harmincöt év: tízhavi
 
-j) 12. év után további 1,5 havi,
+távolléti díjnak megfelelő összeg.
 
-k) 13. év után további 1,0 havi,
+(3) A (2) bekezdés szerintinél kéthavi mértékkel magasabb összegű visszailleszkedési támogatásra jogosult a legénységi állomány tagja, ha szolgálati viszonya megszűnésekor legalább 3 év időtartamra önkéntes műveleti tartalékos szolgálati viszonyt létesít.
 
-l) 14. év után további 0,6 havi,
-
-m) 15–20. évek után évenként további 0,2 havi
-
-távolléti díjjal azonos. Tört időszak esetén a leszerelési segély mértékét időarányosan kell megállapítani.
-
-(3) A leszerelési segély mértékét csökkenteni kell az állomány tagjának korábban kifizetett toborzópénz és szerződés-hosszabbítási díj mértékével. Ismételten létesített szerződéses szolgálati viszony megszűnésekor, vagy a később létesített hivatásos szolgálati viszony felmentéssel történt megszüntetésekor a leszerelési segély – hivatásos szolgálati viszony esetében a végkielégítés – alapjául csak az újabb szolgálati viszonyban eltöltött időt lehet figyelembe venni.
-
-(4) Ha a szerződéses állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
+(4) Ha a legénységi állomány tagja a szolgálatteljesítési kötelezettség alóli mentesítés ideje alatt költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít,
 
 a) ezt a tényt a korábban munkáltatói jogkört gyakorlónak köteles haladéktalanul írásban bejelenteni,
 
-b) a felmentési időből hátralévő idő tekintetében távolléti díjra nem jogosult,
+b) a felmentési időből hátralévő idő tekintetében illetményre nem jogosult, és
 
-c) leszerelési segélyre nem jogosult, azonban új jogviszony létesítése esetén a végkielégítés vagy a leszerelési segély összegének megállapításánál a megszüntetett jogviszony alapján leszerelési segélyre jogosító idejét is számításba kell venni.
+c) visszailleszkedési támogatásra – a (3) bekezdés szerinti rész kivételével – nem jogosult, azonban az új jogviszony létesítése esetén a végkielégítés vagy a visszailleszkedési támogatás összegének megállapításánál a megszüntetett szolgálati viszony alapján visszailleszkedési támogatásra jogosító szolgálati idejét is számításba kell venni.

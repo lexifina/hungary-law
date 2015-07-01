@@ -1,6 +1,12 @@
-96. § (1) A napi szolgálatteljesítési idő 4 óránál rövidebb, és – a készenléti jellegű beosztások és a folyamatos ügyeleti szolgálat ellátására szervezett beosztások kivételével – 12 óránál hosszabb nem lehet.
+96. § (1) A napi szolgálatteljesítési idő – a készenléti jellegű beosztások és a folyamatos ügyeleti szolgálat ellátására szervezett beosztások kivételével – négy óránál rövidebb és tizenkét óránál hosszabb nem lehet.
 
-(2) Az állomány tagjának napi vagy heti szolgálatteljesítési ideje az (1) bekezdés szerinti időtartamot legfeljebb 1 órával haladhatja meg a téli időszámítás kezdetére figyelemmel.
+(1a) A készenléti jellegű beosztások és a folyamatos ügyeleti szolgálat ellátására szervezett beosztások esetén a napi szolgálatteljesítési idő
+
+a) négy óránál rövidebb is lehet, ha a szolgálatteljesítési idő alatt végzett tevékenység nem kapcsolódik közvetlenül a szolgálati beosztás során jellemzően előforduló feladatok ellátásához, és
+
+b) legfeljebb huszonnégy óra lehet, amely az eligazítás, a váltás, valamint a szolgálati felszerelések felvétele és leadása érdekében szükséges időtartammal meghosszabbítható.
+
+(2) Az állomány tagjának napi vagy heti szolgálatteljesítési ideje az (1) és (1a) bekezdés szerinti időtartamot legfeljebb 1 órával haladhatja meg a téli időszámítás kezdetére figyelemmel.
 
 (3) A munkáltatói jogkört gyakorló – az állomány tagjának beleegyezésével – osztott napi szolgálatteljesítési időt is alkalmazhat úgy, hogy a napi szolgálatteljesítési időt legfeljebb két részletben határozza meg. A napi szolgálatteljesítési idők között legalább 2 óra pihenőidőt kell biztosítani.
 

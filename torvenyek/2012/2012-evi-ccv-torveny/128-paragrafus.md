@@ -1,57 +1,29 @@
-128. § (1) Egyéb illetménypótlékok az illetményalap %-ában meghatározva:
+128. § (1) A veszélytől, fokozott igénybevételtől, illetve sajátos felkészültségtől, kockázatvállalástól függően az állomány tagja a miniszter által rendeletben meghatározott jogosultsági szabályok szerint veszélyességi, illetve fokozott igénybevételi illetménypótlékra jogosult.
 
-a) a repülési pótlék havi mértéke a repülőhajózó hadrafoghatóságától, beosztásától és a repült géptípustól függően 67–300%,
+(2) A veszélyességi illetménypótlék – a miniszter által rendeletben meghatározott jogcímenként – a honvédelmi illetményalap százalékában meghatározva
 
-b) a repülőgép berepülési pótlék gépenként 23–31%,
+a) havonta 4–400%,
 
-c) az ejtőernyős ugrási pótlék az ugrások számától és bonyolultságától függően ugrásonként 4,2–34%,
+b) naponként 2%,
 
-d) az ejtőernyő beugrási pótlék az ernyő típusától függően ernyőnként 23–31%,
+c) óránként 2–20% vagy
 
-e) a tűzszerész pótlék óránként 4,7–15%,
+d) berepült repülőgépenként, beugrott ejtőernyőnként 20–35%
 
-f) a búvárpótlék óránként 2,6–3,5%,
+szerinti mértékben kerül megállapításra.
 
-g) a készenléti pótlék óránként 0,05–0,26%,
+(3) A fokozott igénybevételi illetménypótlék – a miniszter által rendeletben meghatározott jogcímenként – a honvédelmi illetményalap százalékában meghatározva
 
-h) az ügyeleti pótlék óránként 0,16–0,31%,
+a) havonta 20–270%,
 
-i) a gyakorlati pótlék naponként 7,4%,
+b) naponként 5–10% vagy
 
-j) az orvosi ügyeleti pótlék óránként 0,45–4,5%,
+c) óránként 0,05–5%
 
-k) a terepfelmérői pótlék naponta 4,2–8,4%,
+szerinti mértékben kerül megállapításra.
 
-l) az egészségkárosító veszélynek kitett beosztásban szolgálatot teljesítők pótléka havonta 45%,
+(4) A (3) bekezdésben foglaltakon túl a 46. § (1) bekezdés a) pontja szerinti rendelkezési állomány tagja havonta az alapilletmény 30%-ának megfelelő összegű fokozott igénybevételi illetménypótlékra jogosult.
 
-m) az osztályba-sorolási pótlék havonta 6,3–12,6%,
+(5) Az állomány tagja miniszteri rendeletben meghatározottak szerint – ha a területi, illetve szerkezeti munkaerő-piaci hatás, továbbá a Honvédség szempontjából kiemelt jelentőségű felkészültség, magasabb szakmai követelmény vagy szakmai irányítói felelősség indokolja – munkaerő-piaci pótlékra jogosult. A munkáltatói jogkört gyakorló a munkaerő-piaci pótlékot miniszteri rendeletben meghatározottak szerint az állomány tagja részére határozott időre állapíthatja meg, havonta legfeljebb a honvédelmi illetményalap 650%-ának megfelelő mértékben.
 
-n) a repülőműszakiak mester-kiegészítő pótléka havonta 10–13,8%,
-
-o) a repülő és helikopter műszaki üzemben tartó pótlék havonta 20%,
-
-p) a különleges igénybevételi pótlék havonta 50–100%,
-
-q) az oktatói pótlék az oktatói fokozattól függően havonta 26–260%,
-
-r) a gépjárművezetői pótlék havonta 13%,
-
-s) a kórházban, krónikus egészségügyi és rehabilitációs intézetben három műszakban foglalkoztatott orvos, egészségügyi tiszt, altiszt, tisztes, közkatona délutáni, vagy éjszakai pótlékának óránkénti mértéke a délutáni műszakban 0,5–0,75%, az éjszakai műszakban pedig 1,0–1,5%,
-
-t) az egészségügyi tiszt, altiszt, tisztes és közkatona munkahelyi pótléka havonta 15–80%,
-
-u) a díszelgési pótlék havonta 50–150%,
-
-v) a zenekari pótlék havonta 50%,
-
-w) az atom-, biológiai-, vegyi katasztrófavédelmi pótlék óránként 1,2–2,5%.
-
-(2) Az (1) bekezdésben hónapokra megállapított illetménypótlékok alapjául szolgáló körülmények közötti alkalomszerű szolgálatteljesítés elismerésére irányuló eseti illetménypótlékok az illetményalap %-ában meghatározva a következők:
-
-a) az egészségkárosító veszélynek kitett beosztásban szolgálatot teljesítők eseti pótléka naponta 2,1%,
-
-b) az eseti díszelgési pótlék naponta 1,6%.
-
-(3) A 46. § (1) bekezdés a) pontja szerinti rendelkezési állomány tagja havonta a beosztási illetmény 50%-ának megfelelő szövetségesi együttműködési pótlékra jogosult.
-
-(4) A munkáltatói jogkört gyakorló a miniszter által meghatározott rendben munkaköri pótlékot állapíthat meg. Az állomány tagja részére legfeljebb a beosztási illetménye 30%-ának megfelelő összeg fizethető munkaköri pótlékként. Amennyiben az állomány tagja számára a 123. § (3) bekezdés szerinti eltérítést is megállapítottak, akkor a munkaköri pótlék és az eltérítés együttes összege nem haladhatja meg a beosztási illetmény 50%-ának megfelelő összeget.
+(6) Az állomány 6. melléklet szerinti felsővezetői szolgálati beosztást betöltő tagja a 127. §, illetve az (1)–(5) bekezdés szerinti illetménypótlékokra nem jogosult.

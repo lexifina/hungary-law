@@ -6,4 +6,4 @@
 
 (3) Fenyítésként határozatban a 147. § (1) bekezdés szerinti fenyítés vagy pénzbüntetés szabható ki. A pénzbüntetés legalacsonyabb összege ötezer forint, legmagasabb összege kétszázezer forint. A pénzbüntetés végrehajtása legfeljebb 1 év próbaidőre felfüggeszthető. A pénzbüntetés végrehajtásáig, és azt követő 1 év időtartamban az állomány tagja fenyítés hatálya alatt áll.
 
-(4) Nem alkalmazható a 146. § (2) és (3) bekezdése, a 148. § (2)–(5) bekezdése, a 149. §, továbbá a 153. § f) pontja.
+(4) Nem alkalmazható a 146. § (2) és (3) bekezdése, a 148. § (2)–(5) bekezdése, a 149. §, továbbá a 153. § (2) bekezdése.

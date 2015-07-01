@@ -1,25 +1,49 @@
-73. § (1) Ha a szerződéses állomány tagja a szerződését a 45. § (1) bekezdése szerint meghosszabbítja, kérelmére, a szerződés-hosszabbítást megelőző időszakra vállalt szolgálati idő lejártakor szerződés-hosszabbítási díjat kell folyósítani.
+73. § (1) Ha a legénységi állomány tagja a szerződését a 45. § (1) bekezdése szerint meghosszabbítja, a szerződés-hosszabbításban vállalt további szolgálati évek alapján a szerződés-hosszabbítást megelőző időszakra vállalt szolgálati idő lejártával szerződés-hosszabbítási díjra jogosult.
 
-(2) A szerződés-hosszabbítási díj összege
+(2) A szerződés-hosszabbítási díjat a szerződés-hosszabbítást megelőző időszakra vállalt szolgálati idő lejártát követő hónap 5. napjáig kell folyósítani.
 
-a) a 3. év letöltésekor 1 havi,
+(3) A szerződés-hosszabbítási díj összegét a 92. § (1) bekezdése szerint számított tényleges szolgálati viszonyban töltött évek alapulvételével, a szerződés-hosszabbításkor vállalt további évekhez tartozó (4) bekezdés szerinti értékek összeadásával kell megállapítani.
 
-b) a 4. év letöltésekor 1,5 havi,
+(4) A tényleges szolgálati viszonyban töltött időt követő, a szerződés-hosszabbítással vállalt évekhez tartozó érték évenként
 
-c) az 5. év letöltésekor 2 havi,
+a) a negyedik vállalt szolgálati év esetén 0,3 havi,
 
-d) a 6. év letöltésekor 3 havi,
+b) az ötödik vállalt szolgálati év esetén 0,4 havi,
 
-e) a 7. év letöltésekor 3,5 havi,
+c) a hatodik vállalt szolgálati év esetén 0,5 havi,
 
-f) a 8. év letöltésekor 4 havi,
+d) a hetedik vállalt szolgálati év esetén 0,6 havi,
 
-g) a 9. év letöltésekor 6 havi,
+e) a nyolcadik vállalt szolgálati év esetén 0,7 havi,
 
-h) a 10. év letöltésekor 7 havi,
+f) a kilencedik vállalt szolgálati év esetén 0,8 havi,
 
-i) a 11. év letöltésekor, vagy az ezt követő első szerződés-hosszabbításkor 8 havi
+g) a tizedik vállalt szolgálati év esetén 0,9 havi,
 
-távolléti díjjal azonos. A szerződés-hosszabbítási díj mértékét a korábban kifizetett szerződés-hosszabbítási díj havi mértékeivel csökkenteni kell.
+h) a tizenegyedik vállalt szolgálati év esetén 1,0 havi,
 
-(3) A szerződéses állomány tagja köteles visszafizetni az utolsó szerződés módosításkor kifizetett szerződés-hosszabbítási díj teljes összegét, ha szolgálati viszonya a vállalt szolgálati idő letöltése előtt az 59. § (1) bekezdés c) pontja, (2) bekezdés a) vagy e) pontja, a 62. § (1) bekezdés c) vagy e) pontja, (2) bekezdés a), c), g) pontja, vagy a 68. § (1) bekezdés b)–n) pontja szerint megszűnik. Az utolsó szerződés módosításkor kifizetett szerződés-hosszabbítási díj teljes összegét köteles visszafizetni az a korábbi szerződéses katona is, akit az 59. § (1) bekezdés e) pontja szerint hivatásos állományba vettek, azonban a hivatásos szolgálati viszonya az 59. § (1) bekezdés c) pontja, (2) bekezdés a) vagy e) pontja, a 62. § (1) bekezdés c) vagy e) pontja, (2) bekezdés a), c), g) pontja vagy a 68. § (1) bekezdés b)–n) pontja szerint szűnik meg úgy, hogy a hivatásos szolgálati viszonyának időtartama nem éri el az utolsó szerződés-hosszabbításakor vállalt szolgálati idő kétszeresét.
+i) a tizenkettedik vállalt szolgálati év esetén 1,1 havi,
+
+j) a tizenharmadik vállalt szolgálati év esetén 1,2 havi,
+
+k) a tizennegyedik vállalt szolgálati év esetén 1,4 havi,
+
+l) a tizenötödik vállalt szolgálati év esetén 1,6 havi,
+
+m) a tizenhatodik vállalt szolgálati év esetén 1,2 havi,
+
+n) a tizenhetedik vállalt szolgálati év esetén 1,0 havi,
+
+o) a tizennyolcadik vállalt szolgálati év esetén 0,8 havi,
+
+p) a tizenkilencedik-huszonharmadik vállalt szolgálati évek esetén évente 0,6 havi,
+
+q) a huszonnegyedik-huszonnyolcadik vállalt szolgálati évek esetén évente 0,3 havi és
+
+r) a huszonkilencedik-harmincharmadik vállalt szolgálati évek esetén évente 0,2 havi
+
+távolléti díjnak megfelelő összeg.
+
+(5) A legénységi állomány tagja köteles visszafizetni az utolsó szerződés-hosszabbításkor részére kifizetett szerződés-hosszabbítási díj összegét, ha szolgálati viszonya a vállalt szolgálati idő letöltése előtt az 59. § (1) bekezdés c) pontja, (2) bekezdés a), c), e) pontja, a 62. § (1) bekezdés c) vagy e) pontja, (2) bekezdés a), c), g) pontja, vagy a 68. § (1) bekezdés b)–n) pontja alapján szűnik meg.
+
+(6) Az utolsó szerződés-hosszabbításkor részére kifizetett szerződés-hosszabbítási díj összegét köteles visszafizetni az a korábbi legénységi állományú katona is, akit az 59. § (1) bekezdés e) pontja szerint hivatásos állományba vettek, azonban a hivatásos szolgálati viszonya az 59. § (1) bekezdés c) pontja, (2) bekezdés a), c), e) pontja, a 62. § (1) bekezdés c) vagy e) pontja, (2) bekezdés a), c), g) pontja vagy a 68. § (1) bekezdés b)–n) pontja alapján szűnik meg, úgy, hogy a hivatásos szolgálati viszonyának időtartama nem éri el az utolsó szerződés-hosszabbításakor vállalt szolgálati idő kétszeresét.

@@ -10,7 +10,7 @@ c) honvédségi szervezet területére csak a munkáltatói jogkört gyakorló e
 
 d) egyenruháját nem viselheti, ha a munkáltatói jogkör gyakorlója a felfüggesztés alapjául szolgáló fegyelemsértésre tekintettel annak viselését írásban megtiltotta,
 
-e) távolléti díjra a 131. § szerint jogosult, és
+e) illetményre a 131. § szerint jogosult, és
 
 f) egészségügyi szabadságra nem jogosult.
 

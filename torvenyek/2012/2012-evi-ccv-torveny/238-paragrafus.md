@@ -8,7 +8,7 @@
 
 a) az állami készfizető kezesség vállalására, továbbá a magántulajdonú lakás megszerzéséhez nyújtott kedvezményes kamatozású hitelintézeti kölcsön feltételeire és igénybevételére vonatkozó részletes szabályokat,
 
-b) a más szervhez történő vezénylésre vonatkozó megállapodás megkötésének kezdeményezésére, a vezénylésre kerülők kiválasztására, a vezénylésre vonatkozó megállapodás kötelező tartalmi elemeire, a más szervhez történő vezénylés időtartama alatt a más kereső tevékenység folytatásához kapcsolódó bejelentés és engedélyezés rendjére, a rendfokozati előmenetel feltételeire, a Honvédség és a más szerv közötti együttműködés feladataira, a költségek viselésére vonatkozó szabályokat,
+b)
 
 c) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének szabályait, valamint az egészségügyi ellátás rendjét,
 
@@ -40,13 +40,13 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 10. a más kereső tevékenység bejelentésével, engedélyezésével, az összeférhetetlenség megszüntetésével és tilalma megszegése következményeivel kapcsolatos eljárást,
 
-11. a beosztási kategóriákba történő részletes besorolás és a szolgálati beosztásokban rendszeresített, illetve elérhető rendfokozatokat, a speciális beosztásokat és az azokban elérhető legmagasabb rendfokozatokat,
+11. a besorolási osztályokba és besorolási kategóriákba történő részletes besorolás és a szolgálati beosztásokban rendszeresített, illetve elérhető rendfokozatokat, a speciális beosztásokat és az azokban elérhető legmagasabb rendfokozatokat,
 
 12. a Magyarországon települő katonai szervezetnél, más szervnél, nem katonai oktatási intézménynél szolgálatot teljesítő állomány beosztási kategóriába történő besorolását, az azokhoz tartozó besorolási kategóriákat és az azokban elérhető legmagasabb rendfokozatokat,
 
 13. az önkéntes tartalékos katonák, a honvéd tisztjelöltek és a honvéd altiszt-jelöltek által betölthető beosztásokat,
 
-14. a speciális, a fokozott igénybevétellel és veszéllyel járó, valamint az egészségkárosítás veszélyének kitett beosztások körét, az azokhoz kapcsolódó részletes szabályokat, a 109. § (4) bekezdése szerinti beosztásokban pótszabadságra jogosultak körét, a pótszabadság kiadásának módját, valamint a kondicionáló-kiképzésen való részvétel esetén a pótszabadság napjainak beszámítására vonatkozó szabályokat,
+14. a speciális, a fokozott igénybevétellel és veszéllyel járó, valamint az egészségkárosító kockázatoknak kitett beosztások körét, az azokhoz kapcsolódó részletes szabályokat, a 109. § (4) bekezdése szerinti beosztásokban pótszabadságra jogosultak körét, a pótszabadság kiadásának módját, valamint a kondicionáló-kiképzésen való részvétel esetén a pótszabadság napjainak beszámítására vonatkozó szabályokat,
 
 15. a katonai szolgálathoz, valamint a szolgálati beosztásokhoz kapcsolódó szakmai, egészségi, pszichikai, fizikai alkalmassági követelményeket, a szolgálati beosztások betöltéséhez szükséges iskolai végzettségi, szakképzettségi, szakképesítési, tanfolyami, és egyéb követelményeket, valamint az ezek alóli mentesítés szabályait,
 
@@ -54,19 +54,19 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 17. a megváltozott egészségi állapot felülvizsgálatának eljárási rendjét, a felülvizsgálatot végző szervek és a felülvizsgálatban közreműködők kijelölését,
 
-18. az illetmény, az ösztöndíj, a túlszolgálati díj, a végkielégítés, a leszerelési segély, szerződés-hosszabbítási díj, a szerződéskötési díj, a rendelkezésre állási díj, a jubileumi jutalom, a szabadságmegváltás megállapítására és folyósítására vonatkozó szabályokat,
+18. az illetmény, az ösztöndíj, a végkielégítés, a visszailleszkedési támogatás, a szerződés-hosszabbítási díj, a szerződéskötési díj, a rendelkezésre állási díj, a teljesítményjuttatás, a jubileumi jutalom, a szabadságmegváltás és a túlszolgálati díj megállapítására és folyósítására vonatkozó szabályokat,
 
-19. a pénzjutalom megállapításával és folyósításával kapcsolatos szabályokat,
+19. a fokozati vizsgára kötelezettek körét, a vizsgára jelentkezés és a vizsgáztatás rendjét, a vizsgáztatásért felelős szervezet kijelölését,
 
-20. az illetménypótlékok és a megbízási díj jogosultságával, megállapításával, kifizetésével kapcsolatos szabályokat,
+20. az illetménypótlékok – ide nem értve a területi pótlékot – jogosultságával, megállapításával, kifizetésével kapcsolatos szabályokat,
 
-21. a toborzópénz, a szerződés-hosszabbítási díj, a szerződéskötési díj visszafizetésével kapcsolatos szabályokat, továbbá az illetménygazdálkodás rendjét,
+21. a szerződés-hosszabbítási díj és a visszailleszkedési támogatás visszafizetésével kapcsolatos szabályokat, továbbá az illetménygazdálkodás rendjét,
 
 22. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársaiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
 
 23. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját, a miniszter által vezetett minisztérium vagyonkezelésében álló lakások bérleti és különszolgáltatási díját, a lakott forgalmi értéke és a szolgálatban töltött idő figyelembevételével kialakítandó tényleges elidegenítési vételár képzését tartalmazó szabályokat, a végleges letelepedés támogatásának szabályait, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének, továbbá a túlélő hozzátartozó lakhatási támogatásának részletes szabályait, a legénységi állományúakra, az állomány próbaidős tagjára, a nyugállományú katonára vonatkozó eltérő szabályokat,
 
-24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az ügyelet, a készenlét elrendelésére és az ezt követő pihenőidő kiadására, valamint az ellentételezésük nyilvántartására, a szabadság nyilvántartására és kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, melyekhez az éves szolgálatteljesítési időkeret kapcsolható,
+24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az ügyelet, a készenlét elrendelésére, nyilvántartására és az ezt követő pihenőidő kiadására, valamint az ellentételezésük nyilvántartására, a szabadság nyilvántartására és kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, melyekhez az éves szolgálatteljesítési időkeret kapcsolható,
 
 25. a baleseti járadékra való jogosultság vizsgálatának szabályait, a kiegészítő támogatások megállapításának és folyósításának szabályait, a térítéses szolgáltatásokat és az azokra jogosultak körét, a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást, valamint a szolgáltatások térítésének szabályait,
 
@@ -84,7 +84,7 @@ f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
 
 32. a méltatlansági eljárás elrendelésének és lefolytatásának szabályait, az eljárási cselekményekre nyitva álló határidőket, az elmulasztásuk jogkövetkezményeit, az értesítésre és a felhívásra irányadó szabályokat, a határozatok formai és tartalmi követelményeit, a vizsgáló, a bizottság kijelölésének és eljárásának, a kizárás és az elfogultság bejelentésének és elbírálásának rendjét, a képviseletre, a tényállás tisztázására, a méltatlanság megállapítására irányadó szabályokat,
 
-33. azokat a munkakörcsaládokhoz tartozó beosztásokat, amelyekben – a honvéd tisztjelöltek első beosztásba helyezése érdekében – a szolgálatot teljesítő főhadnagyok a kötelező várakozási idő letelte előtt két évvel magasabb beosztásba kinevezhetővé válnak,
+33.
 
 34. a kártérítési eljárás rendjére, a szakértő kijelölésére, az eljárási határidőkre, a tényállás tisztázására, a képviseletre vonatkozó szabályokat, a kártérítési igény elbírálására jogosult honvédségi szervezetet, a kártérítésre kötelezésre vagy annak mellőzésére, a kártérítés megállapítására, az eljárás felfüggesztésére és megszüntetésére, az utólagos mérsékelésre, az elengedésre, a végrehajtás elhalasztására, a részletfizetés engedélyezésére vonatkozó szabályokat, a határozatok formai és tartalmi követelményeit, a honvéd tisztjelöltre és a honvéd altiszt-jelöltre, valamint a külföldi szolgálatra irányadó szabályokat,
 

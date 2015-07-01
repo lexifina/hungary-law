@@ -4,7 +4,7 @@
 
 (2) A visszavétel esetén az állomány tagja rendfokozatát szolgálati beosztásának, iskolai végzettségének, szakképzettségének megfelelően kell megállapítani azzal, hogy a visszavételt követő kezdő rendfokozata nem haladhatja meg a korábbi hivatásos szolgálati viszonya megszűnésekor, megszüntetésekor viselt rendfokozatát.
 
-(3) A visszavételkor legfeljebb 6 hónapig terjedő próbaidő köthető ki.
+(3) A visszavételkor legfeljebb 6 hónapig terjedő próbaidő köthető ki, azzal, hogy ha a szolgálati viszony megszűnése és a hivatásos állományba visszavétel között több mint tíz év telt el, próbaidő kikötése kötelező.
 
 (4) A hivatásos állomány azon tagja, akinek rokkantságát, megváltozott munkaképességű személyek ellátását a szolgálattal összefüggő baleset, betegség miatt állapították meg, és rokkantsága megszűnt, vagy a megváltozott munkaképességű személyek ellátását megszüntették, a hivatásos állományba visszavehető, ha részére egészségi állapotának megfelelő szolgálati beosztás biztosítható.
 

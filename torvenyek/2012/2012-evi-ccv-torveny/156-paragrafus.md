@@ -18,7 +18,7 @@ a) feddés esetén 2 hónapig,
 
 b) megrovás esetén 4 hónapig,
 
-c) szigorú megrovás vagy beosztási illetmény csökkentése esetén 8 hónapig,
+c) szigorú megrovás vagy alapilletmény csökkentése esetén 8 hónapig,
 
 d) kötelező várakozási idő meghosszabbítása esetén 1 évig,
 

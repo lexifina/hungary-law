@@ -1,19 +1,9 @@
-104. § Az állomány tagjának évi 150 óráig terjedő túlszolgálatáért annak időtartamával azonos mértékű szabadidő jár. A szabadidőt a túlszolgálatot követően nyomban, de legkésőbb 30 napon belül kell kiadni.
+104. § (1) A túlszolgálatért az állomány tagját annak időtartamával azonos mértékű szabadidő illeti meg. A szabadidőt a túlszolgálatot követően harminc napon belül kell kiadni. Ha a szabadidő e határidőben való kiadása a honvédségi szervezet zavartalan működését veszélyezteti, azt legkésőbb a túlszolgálatot követő hat hónapon belül kell biztosítani.
 
-(2) Az állomány tagja a túlszolgálat időtartamával azonos mértékű távolléti díjra jogosult
+(2) Az (1) bekezdés szerinti ellentételezés kétszeresére jogosult az állomány tagja, ha a túlszolgálatot a heti pihenőnapon vagy munkaszüneti napon teljesítette.
 
-a) a munkáltatói jogkört gyakorló engedélyével, ha a túlszolgálat nem éri el az évi 150 órát, feltéve, hogy az (1) bekezdés alkalmazása a honvédségi szervezet zavartalan működését veszélyeztetné, vagy
+(3) Szolgálatteljesítési időkeret alkalmazása esetén az (1) bekezdés szerinti határidőtől eltérően a 103. § (5) bekezdése szerint megállapított túlszolgálat időtartamával – a 97. § (4) bekezdése megfelelő alkalmazásával – csökkenteni kell a következő időkeretben teljesítendő szolgálatteljesítési időt. Ettől eltérően, ha a szolgálatteljesítési időkeret lejártát követően az állomány tagjának foglalkoztatása a továbbiakban nem időkeretben történik, az (1) bekezdés alkalmazandó.
 
-b) az évi 150 órát elérő, vagy azt meghaladó túlszolgálatért,
+(4) Miniszteri rendeletben meghatározott vezetői beosztásokban akkor jár a túlszolgálatért szabadidő, ha ezt a miniszter rendeletben lehetővé teszi.
 
-melyet legkésőbb a tárgyhónapot követő havi illetménnyel egyidejűleg kell kifizetni.
-
-(3) A (2) bekezdés b) pontja esetén, annak alkalmazása helyett az állomány tagja kérheti az azonos mértékű szabadidő biztosítását.
-
-(4) Az (1) és a (2) bekezdés szerinti ellentételezés kétszeresére jogosult az állomány tagja, ha a túlszolgálatot a heti pihenőnapon vagy munkaszüneti napon teljesítette.
-
-(5) Az (1)–(4) bekezdéstől eltérően a szolgálatteljesítési időkeret alkalmazása esetén a 103. § (5) bekezdése szerint megállapított túlszolgálat időtartamával azonos mértékű távolléti díj jár.
-
-(6) Miniszteri rendeletben meghatározott vezetői beosztásokban akkor jár a túlszolgálatért szabadidő vagy távolléti díj, ha ezt a miniszter rendeletben lehetővé teszi.
-
-(7) A túlszolgálat elrendelésének, nyilvántartásának és elszámolásának rendjét a miniszter rendeletben határozza meg.
+(5) A túlszolgálat elrendelésének, nyilvántartásának és elszámolásának rendjét a miniszter rendeletben határozza meg.

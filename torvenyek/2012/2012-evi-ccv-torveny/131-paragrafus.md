@@ -1,11 +1,45 @@
-## 74. A távolléti díj és az illetmény visszatartása
+## 74. Az illetmény visszatartása
 
-131. § (1) Az állomány 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állományban lévő, szolgálati beosztásából felfüggesztett, előzetes letartóztatásban lévő, ideiglenes kényszergyógykezelés alatt álló, valamint a Btk. 132. § (1) bekezdése szerint szabadságvesztés büntetését töltő tagjának távolléti díj jár, amelynek legfeljebb 50%-át a munkáltatói jogkört gyakorló visszatartja. A munkáltatói jogkört gyakorló a távolléti díj 50%–ot meghaladó mértékű visszatartásáról is rendelkezhet, ha az állomány tagjának előzetes letartóztatását a bíróság meghosszabbítja, az állomány tagjával szemben vádemelésre kerül sor, az állomány tagja vezető beosztást tölt be, vagy ha az állomány tagjának a távolléti díj visszatartását megalapozó magatartása ismétlődő jellegű, vagy az a szolgálati beosztásával közvetlenül összefügg.
+131. § (1) A munkáltatói jogkört gyakorló döntése alapján az illetmény legalább 5%-át, de legfeljebb 50%-át vissza kell tartani
 
-(2) A teljes illetményt vissza kell tartani a szolgálatra méltatlanság megállapítását megalapozó, a szolgálati viszony megszüntetését vagy a lefokozást kimondó bírói ítélet kihirdetésétől, vagy fegyelmi határozat kézbesítésétől azok jogerőre emelkedéséig.
+a) a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állományba tartozás,
 
-(3) A (2) bekezdés alkalmazása esetén is az állomány tagjának havonta a mindenkori öregségi nyugdíjminimum összegének megfelelő mértékű távolléti díjat folyósítani kell.
+b) a szolgálati beosztásból történő felfüggesztés,
 
-(4) A visszatartott távolléti díjat kamataival utólag ki kell fizetni, ha a fegyelmi, a méltatlansági vagy a büntetőeljárást a fegyelmi, vagy a büntetőjogi felelősség, valamint a méltatlanság megállapítása nélkül szüntetik meg, illetve a tábornok szolgálati viszonya nem szűnik meg.
+c) az előzetes letartóztatás, a lakhelyelhagyási tilalom,
 
-(5) Az állomány jogellenesen távollévő tagja a távollét időtartamára illetményre nem jogosult, és a távollét időtartamát a szolgálati idő számításánál nem lehet figyelembe venni.
+d) az ideiglenes kényszergyógykezelés, valamint
+
+e) a katonai fogdán végrehajtani rendelt szabadságvesztés büntetés
+
+időtartama alatt.
+
+(2) A munkáltatói jogkört gyakorló az (1) bekezdésben meghatározott esetekben az illetmény 50%-ot meghaladó mértékű, de legfeljebb az öregségi nyugdíj jogszabályban meghatározott mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum) meghaladó részének visszatartásáról is dönthet, ha
+
+a) az állomány tagjának előzetes letartóztatását, lakhelyelhagyási tilalmát vagy ideiglenes kényszergyógykezelését a bíróság meghosszabbítja,
+
+b) az állomány tagjával szemben vádemelésre kerül sor,
+
+c) az állomány tagja vezető beosztást tölt be, vagy
+
+d) az állomány tagjának az illetmény visszatartását megalapozó magatartása ismétlődő jellegű vagy a szolgálati beosztásával közvetlenül összefügg.
+
+(3) Az (1) és a (2) bekezdéstől eltérően az illetménynek a nyugdíjminimum összegét meghaladó részét kell visszatartani
+
+a) a szolgálatra méltatlanság megállapítását megalapozó határozat kézbesítésétől,
+
+b) a szolgálati viszony megszüntetését vagy lefokozást kimondó fegyelmi határozat kézbesítésétől vagy
+
+c) a szolgálati viszony megszüntetését, a közügyektől eltiltást vagy a lefokozást kimondó bírósági ítélet kihirdetésétől.
+
+(4) Az (1)–(3) bekezdésben meghatározott időtartamok alatt az állomány tagja nem jogosult a 73. § (1) bekezdése szerinti szerződés-hosszabbítási díjra.
+
+(5) A visszatartott illetményre, valamint a 73. § (1) bekezdése szerinti szerződés-hosszabbítási díjra az állomány tagja a mindenkori jegybanki alapkamattal növelt összegben utólag akkor jogosult, ha
+
+a) a fegyelmi eljárást felelősség megállapítása nélkül szüntetik meg,
+
+b) a büntetőeljárást megszüntetik, vagy annak során felmentő ítéletet hoznak,
+
+c) a méltatlansági eljárást méltatlanság megállapítása nélkül szüntetik meg, vagy
+
+d) a 187. § (2) bekezdése szerinti kereset jogerős elbírálásával a tábornok szolgálati viszonya nem szűnik meg.

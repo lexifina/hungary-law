@@ -8,4 +8,4 @@
 
 (5) Feladata ellátása érdekében az állomány (2) bekezdés szerint védelemre jelölt tagját – ha a Honvédség és a szakszervezet közötti írásbeli megállapodás kedvezőbb szabályt nem állapít meg – a szolgálati beosztás szerinti havi szolgálatteljesítési ideje 10%-ának megfelelő szolgálatteljesítési időkedvezmény illeti meg. A szolgálatteljesítési időkedvezmény igénybevételét legalább 10 nappal korábban be kell jelenteni.
 
-(6) A szolgálatteljesítési időkedvezmény tartamára távolléti díj jár. A szolgálatteljesítési idő-kedvezményt pénzben megváltani nem lehet.
+(6) A szolgálatteljesítési időkedvezményt pénzben megváltani nem lehet.

@@ -1,21 +1,27 @@
-127. § (1) Idegennyelv-tudási pótlékra jogosult az állomány tagja, ha olyan szolgálati beosztást tölt be, amelyben az idegen nyelv használata szükséges. Nem fizethető idegennyelv-tudási pótlék az állomány nyelvtanár, tolmács, a fordító vagy revizor-fordító beosztást betöltő tagjának a beosztása ellátásához szükséges idegen nyelv használata alapján.
+## 72. Az illetménypótlékok
 
-(2) Az idegen-nyelv tudását államilag elismert nyelvvizsgával, a hatályos NATO szabványnak megfelelő, a STANAG 6001 követelményrendszer szerinti eredményt igazoló bizonyítvánnyal, vagy azzal egyenértékű okirattal kell igazolni. A képzés szempontjából államilag elismert nyelvvizsga nélkül is komplex felsőfokú (C1) nyelvvizsgának minősül a külföldön szerzett felsőfokú végzettség vagy az azt kiegészítő szakosító továbbképzésen, vagy a vezetőképzésen szerzett végzettség, ha a képzés időtartama az 1 évet meghaladta. A STANAG 6001 követelményrendszer szerinti nyelvvizsga esetén a 3333 vagy annál magasabb szint komplex felsőfokú (C1) nyelvvizsgának, a 3333-nál alacsonyabb, de legalább 2222 szint a komplex középfokú (B2) nyelvvizsgának, a 2222-nél alacsonyabb, de legalább 1111 szint pedig a komplex alapfokú (B1) nyelvvizsgának felel meg.
+127. § (1) STANAG 6001 pótlékra jogosult az állomány tagja, ha olyan szolgálati beosztást tölt be, amelyben az idegen nyelv használata szükséges és rendelkezik a szükséges idegennyelv-tudással.
 
-(3) A pótlék mértéke nyelvvizsgánként
+(2) Az (1) és a (4)–(6) bekezdéstől eltérően nem jogosult STANAG 6001 pótlékra az állomány nyelvtanár, tolmács, fordító vagy revizor-fordító szolgálati beosztást betöltő tagja a beosztása ellátásához szükséges idegennyelv-tudása alapján.
 
-a) komplex felsőfokú (C1) nyelvvizsga esetén az illetményalap 50%-a,
+(3) A STANAG 6001 pótlékra való jogosultság szempontjából államilag elismert nyelvvizsga esetén a komplex felsőfokú (C1) nyelvvizsga STANAG 3333, a komplex középfokú (B2) nyelvvizsga STANAG 2222, a komplex alapfokú (B1) nyelvvizsga STANAG 1111 idegennyelv-tudásnak minősül. Az egyes eltérő szinten teljesített STANAG nyelvvizsgák besorolását miniszteri rendelet állapítja meg.
 
-b) komplex középfokú (B2) nyelvvizsga esetén az illetményalap 30%-a,
+(4) A pótlék havi mértéke idegennyelv-tudásonként
 
-c) komplex alapfokú (B1) nyelvvizsga esetén az illetményalap 10%-a.
+a) STANAG 3333 vagy annál magasabb szint esetén a honvédelmi illetményalap 51,5%-a,
 
-(4) Az (1) bekezdéstől eltérően angol-, francia- vagy német nyelvek tekintetében a pótlék alanyi jogon jár. A miniszter további olyan nyelveket is meghatározhat, amelyek után kiemelt idegennyelv-tudási pótlék folyósítható. A (3) bekezdéstől eltérően a pótlék mértéke
+b) STANAG 2222 szint esetén a honvédelmi illetményalap 30,9%-a,
 
-a) komplex felsőfokú (C1) nyelvvizsga esetében az illetményalap 100%-a,
+c) STANAG 1111 szint esetén a honvédelmi illetményalap 10,3%-a.
 
-b) komplex középfokú (B2) nyelvvizsga esetében az illetményalap 60%-a,
+(5) Az (1) bekezdéstől eltérően angol, francia és német idegennyelv-tudás esetében a pótlék alanyi jogon jár. A (4) bekezdéstől eltérően ezen idegen nyelvek után a pótlék havi mértéke
 
-c) komplex alapfokú (B1) nyelvvizsga esetében az illetményalap 15%-a.
+a) STANAG 3333 vagy annál magasabb szint esetén a honvédelmi illetményalap 102,9%-a,
 
-(5) Ha az állomány tagja az idegen nyelvből írásbeli vagy szóbeli nyelvvizsgával rendelkezik, a (3) és a (4) bekezdés szerinti mérték 50%-ának megfelelő összegben jogosult az idegennyelv-tudási pótlékra. Ha az állomány tagja ugyanazon idegen nyelvből azonos típusú, de különböző fokú, vagy ugyanazon nyelvből különböző típusú és fokú nyelvvizsgával rendelkezik, csak a magasabb összegű idegennyelv-tudási pótlékra jogosult.
+b) STANAG 2222 szint esetén a honvédelmi illetményalap 61,8%-a,
+
+c) STANAG 1111 szint esetén a honvédelmi illetményalap 15,5%-a.
+
+(6) A miniszter rendeletben további olyan idegen nyelveket is meghatározhat, amelyek után az (5) bekezdés szerinti összegű pótlék jár.
+
+(7) Ha az állomány tagja az idegen nyelvből államilag elismert írásbeli vagy szóbeli típusú nyelvvizsgával rendelkezik, a (4) vagy az (5) bekezdés szerinti mérték 50%-ának megfelelő összegben jogosult pótlékra. Ha az állomány tagja ugyanazon idegen nyelvből azonos típusú, de különböző szintű vagy ugyanazon nyelvből különböző típusú és szintű idegennyelv-tudással rendelkezik, STANAG 6001 pótlékra az adott idegen nyelv után csak a magasabb összegű pótlék szerinti idegennyelv-tudás alapján jogosult.

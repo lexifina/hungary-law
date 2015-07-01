@@ -10,4 +10,4 @@ d) a rektor e törvényben meghatározottakon túl az NKE saját költségvetés
 
 (2) A vezényelt előmenetelére a speciális beosztást betöltőkre vonatkozó rendfokozati előmeneteli szabályokat kell alkalmazni.
 
-(3) A vezényelt gyakorlati ismereteinek szinten tartása és fejlesztése érdekében csapatgyakorlatra vezényelhető. A továbbvezénylés a rendelkezési állomány jogcímét nem érinti. A távollét ideje alatt az állomány tagja távolléti díjra jogosult.
+(3) A vezényelt gyakorlati ismereteinek szinten tartása és fejlesztése érdekében csapatgyakorlatra vezényelhető. A csapatgyakorlatra történő továbbvezénylés a rendelkezési állomány jogcímét nem érinti.

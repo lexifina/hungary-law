@@ -8,7 +8,7 @@ b) a jogszabályban előírt képzési kötelezettség önhibából történő n
 
 c) országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
 
-d) állami vezetővé történő kinevezésekor,
+d) politikai vezetővé történő kinevezésével,
 
 e) a magyar állampolgárság megszűnésével,
 
@@ -34,4 +34,4 @@ o)
 
 (2) A szolgálat felső korhatára megegyezik a társadalombiztosítási szabályok szerinti öregségi nyugdíjkorhatárral.
 
-(3) Az (1) bekezdés n) pontja nem alkalmazható akkor, ha az öregségi nyugdíj, vagy a más pénzbeli ellátás a szolgálati viszony fenntartása céljából szünetel, és ezt az állomány tagja a szüneteltetésről hozott határozattal igazolja. A miniszter által kijelölt honvédségi szervezet ellenőrzés céljából a nyugdíjfolyósító szervtől adatot igényelhet arról, hogy az állomány tagja öregségi nyugdíjban vagy más pénzbeli ellátásban részesül-e, továbbá arról, hogy annak folyósítását szolgálati viszony fenntartása céljából szünetelteti-e.
+(3)

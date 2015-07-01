@@ -26,4 +26,4 @@ k) az önkéntes, vagy a létesítményi tűzoltói szolgálat ellátásának id
 
 (2) Az (1) bekezdésen túl mentesül az állomány tagja a szolgálatteljesítési kötelezettség alól, ha jogszabály ezt előírja, vagy a munkáltatói jogkört gyakorló írásban engedélyezi. A szolgálatteljesítési kötelezettség alóli mentesülés igénybevételének rendjét miniszteri rendelet határozza meg.
 
-(3) A szolgálatteljesítési kötelezettség alóli mentesülés idejére távolléti díj jár.
+(3)

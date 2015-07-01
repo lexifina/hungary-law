@@ -6,7 +6,7 @@
 
 (3) Nem kötelezhető túlszolgálatra az állomány nő tagja a várandósság megállapításától a gyermek 3 éves koráig, valamint a gyermekét egyedül nevelő a gyermeke 3 éves koráig.
 
-(4) A túlszolgálatot a munkáltatói jogkört gyakorló írásban rendeli el.
+(4) A túlszolgálatot a munkáltatói jogkört gyakorló vagy az általa kijelölt személy írásban rendeli el.
 
 (5) A (4) bekezdéstől eltérően szolgálatteljesítési időkeret alkalmazása esetén a túlszolgálat időtartamát a munkáltatói jogkört gyakorló az időkeret lejártakor állapítja meg.
 

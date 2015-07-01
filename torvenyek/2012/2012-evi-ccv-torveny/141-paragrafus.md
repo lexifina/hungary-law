@@ -1,5 +1,7 @@
 ## 83. A juttatások kifizetése
 
-141. § (1) Az állomány tagjának szolgálati viszonyából származó pénzbeli juttatása az általa meghatározott fizetési számlájára történő átutalással, ennek hiányában pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján történik. Egyes nem rendszeres juttatások pénztárból történő kifizetésére miniszteri rendeletben meghatározott módon kerülhet sor.
+141. § (1) A pénzbeli juttatást az állomány tagja megbízása alapján kell a fizetési számlájára átutalni, vagy, ha azzal nem rendelkezik, lakcímére postai úton történő kifizetéssel teljesíteni. A pénztárból kifizethető egyes juttatások körét a miniszter határozza meg.
 
-(2) A szolgálati viszony alapján nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a szolgálatteljesítési idő mértékével összefügg.
+(2) Az állomány tagja az illetmény nélküli szabadság időtartamára – ha miniszteri rendelet eltérően nem rendelkezik – pénzbeli és természetbeni juttatásokra nem jogosult. A szolgálati viszony alapján nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a szolgálatteljesítési idő mértékével összefügg.
+
+(3) A Honvédség az állomány tagjának szolgálati viszonyával összefüggő egyéb tartozásának, továbbá az illetményen túl minden egyéb, jogalap nélkül kifizetett pénzbeli juttatásának megtérítésére irányuló igényét az állomány tagjának előzetes értesítését követően a folyósításra kerülő juttatásokból történő levonással vagy utólag írásbeli felszólítással, vagy fizetési meghagyással, elévülési időn belül érvényesítheti.

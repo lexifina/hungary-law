@@ -1,31 +1,37 @@
-123. § (1) Az állomány tagját az első és a magasabb beosztásba kinevezésekor, valamint az azonos és az alacsonyabb beosztásba történő áthelyezésekor a szolgálati beosztására meghatározott besorolási kategória, és a rendfokozatához igazodó honvédelmi szorzószámok alapján kell besorolni.
+## 70. Alapilletmény
 
-(2) Az (1) bekezdéstől eltérően
+123. § (1) Az alapilletmény szempontjából az állomány tagja által betölthető szolgálati beosztásokat a beosztás szerinti felelősség, a szervezeti hovatartozás és a vezetői jelleg alapján hét besorolási osztályba kell besorolni. Minden besorolási osztály az egyes rendszeresített rendfokozatok által meghatározott 20-20 besorolási kategóriából áll. A besorolási osztályokat, a besorolási kategóriákat, a rendszeresített rendfokozatokat, valamint az ezekhez tartozó alapilletmény-szorzószámokat az 5. melléklet tartalmazza.
 
-a) a kezdő beosztást betöltő hadnagy vagy őrmester beosztási illetményét a viselt rendfokozatának megfelelően kell megállapítani,
+(2) Az egyes szolgálati beosztások besorolási osztályba és besorolási kategóriába történő részletes besorolását a miniszter rendeletben határozza meg.
 
-b) az állomány speciális beosztást betöltő tagját – mindaddig, amíg a viselt rendfokozata elmarad a beosztásában elérhető legmagasabb rendfokozattól – az annál eggyel alacsonyabb rendfokozatnak megfelelő besorolási kategória, és a viselt rendfokozata szerinti honvédelmi szorzószámok alapján kell besorolni,
+(3) Az alapilletmény összegét a betöltött szolgálati beosztáshoz meghatározott besorolási osztály, besorolási kategória figyelembevételével az 5. melléklet szerinti alapilletmény-szorzószám és a honvédelmi illetményalap szorzataként kell meghatározni.
 
-c) a szerződéses pályakezdő beosztási illetményét a tervezett beosztásának megfelelően, honvédelmi pótlékát a közkatonákra vonatkozóan kell megállapítani,
+(4) Az (1) és a (3) bekezdéstől eltérően
 
-d) a közkatonát a II. besorolási osztály I. besorolási kategória szerint kell besorolni,
+a) a közkatona alapilletményét az 1. besorolási kategóriának megfelelő szorzószámmal,
 
-e) az állomány 46. § (1) bekezdés a) vagy c) pontja alá tartozó tagja beosztási illetményét a Honvédségnél létrehozott állománytáblában vagy munkaköri jegyzékben részére meghatározott beosztás alapján kell megállapítani,
+b) az f) pontban foglalt kivétellel a szerződéses pályakezdő alapilletményét a tervezett szolgálati beosztásának megfelelő szorzószámmal,
 
-f) az állomány 46. § (1) bekezdés f)–i), k)–m), p)–s) és u) pontja alá tartozó tagja beosztási illetményét a (6) bekezdés szerinti beosztási szint figyelembevételével kell megállapítani.
+c) a kezdő beosztást betöltő hadnagy vagy őrmester alapilletményét a viselt rendfokozatához tartozó besorolási kategóriának megfelelő szorzószámmal,
 
-(3) Az (1) bekezdéstől eltérően, miniszteri rendeletben meghatározottak szerint a honvédségi szervezetek részére megállapított személyi juttatások előirányzatán belül a munkáltatói jogkört gyakorló – a szolgálati beosztással járó feladatok kiemelkedő teljesítése elismeréseként – az állomány tagját a 122. § (4) bekezdése szerinti beosztási illetmény összegénél 30%-ig terjedően magasabb összegben is besorolhatja. Az eltérítés a tárgyév december 31-éig terjedő időszakra állapítható meg.
+d) a miniszteri rendeletben meghatározott vezénylő zászlós beosztást betöltők alapilletményét 6,35–9,00 közötti szorzószámmal,
 
-(4) Magasabb besorolási kategória szerinti beosztási illetményt kell megállapítani az állomány tagjának, ha magasabb besorolási kategóriához tartozó beosztásba kerül. A honvédelmi pótlék összege a viselt rendfokozathoz igazodó honvédelmi szorzószám szerint, előlépés alkalmával emelkedik.
+e) az állomány 6. melléklet szerinti felsővezetői szolgálati beosztást betöltő tagjának alapilletményét a 6. melléklet szerinti szorzószámokkal, továbbá
 
-(5) Ha az állomány tagját alacsonyabb beosztásba helyezik, részére az új beosztására meghatározott besorolási kategória szerinti beosztási illetmény, valamint a viselt rendfokozatához igazodó honvédelmi pótlék jár.
+f) az alapilletményt az állomány speciális beosztást betöltő tagja esetében addig, amíg a viselt rendfokozata elmarad a beosztásához rendszeresített rendfokozattól, valamint azon szerződéses pályakezdő alapilletményét, akinek tervezett első rendfokozata alacsonyabb a tervezett beosztásához rendszeresített rendfokozatnál, a rendszeresített rendfokozatba való előléptetésig a beosztásban elérhető rendfokozatnál eggyel alacsonyabb rendfokozathoz tartozó besorolási kategóriának megfelelő szorzószámmal
 
-(6) Ha törvény eltérően nem rendelkezik, szolgálati beosztás hiányában a rendelkezési állományba tartozó esetén a beosztás szintje
+kell megállapítani.
 
-a) az utolsó betöltött beosztással azonos, vagy
+(5) Az (1)–(4) bekezdéstől eltérően az állomány 46. § (1) bekezdés f)–i), k)–s) pontja alapján rendelkezési állományba tartozó tagjának alapilletményét
 
-b) a viselt rendfokozatának megfelelő, ha nem rendelkezett utolsó betöltött beosztással, vagy ha rendelkezett, de az jogszabállyal nem beazonosítható.
+a) a 46. § (1) bekezdés adott pontja alapján történő rendelkezési állományba helyezést megelőző napon érvényes
 
-(7) A Honvéd Vezérkar főnöke közigazgatási államtitkári, a Honvéd Vezérkar főnök helyettese helyettes államtitkári illetményre és vezetői juttatásokra jogosult.
+aa) e törvény szerinti illetmény-megállapításban szereplő alapilletmény alapjául szolgáló besorolási osztály és besorolási kategória szerint, vagy
 
-(8) A miniszter irányítása alá tartozó központi hivatal vezetőjének és helyettesének illetményét és juttatásait e törvény alapján kell megállapítani.
+ab) ha az aa) alponttól eltérően e törvény alapján magasabb alapilletményben részesült, ez utóbbi alapján, vagy
+
+b) ha az a) pont aa) alpontja alapján nem állapítható meg a beosztás szintje, és nem részesült az a) pont ab) alpontja szerinti magasabb alapilletményben sem, akkor az I. besorolási osztály és a viselt rendfokozatnak megfelelő besorolási kategória alapján
+
+kell megállapítani.
+
+(6) Az állomány 46. § (1) bekezdés u) pontja alapján rendelkezési állományba tartozó tagja a rendelkezési állományba helyezését megelőző napon érvényes alapilletményére jogosult.

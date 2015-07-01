@@ -14,4 +14,6 @@ c) az önkéntes tartalékos katona meghagyásban részesülő munkakörbe kerü
 
 (4) Ha az önkéntes tartalékos katona szerződésének megszüntetésére közös megegyezéssel vagy a Honvédség kezdeményezésére kerül sor, a megkezdett év után járó rendelkezésre állási díjat részére teljes összegben ki kell fizetni.
 
-(5) Ha az önkéntes tartalékos katona szerződéses szolgálati viszonyt létesít, visszafizetési kötelezettség nem terheli.
+(5)
+
+(6) Az önkéntes tartalékos katona köteles visszafizetni a részére korábbi, szerződéses legénységi szolgálati viszonya alapján folyósított visszailleszkedési támogatás 74. § (3) bekezdése szerinti részét, ha önkéntes tartalékos szolgálati viszonya a vállalt szolgálati idő letöltése előtt a (3) bekezdés, az 59. § (1) bekezdés c) pontja, a 68. § (1) bekezdés c), e)–g), i)–n) pontja alapján szűnik meg, vagy ha a vállalt szolgálati idő letöltése előtt az önkéntes tartalékos katona a (2) bekezdés szerinti egyoldalú nyilatkozatot tett.

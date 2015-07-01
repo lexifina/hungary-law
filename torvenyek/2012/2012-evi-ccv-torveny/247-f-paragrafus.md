@@ -1,0 +1,1 @@
+247/F. § A 83. § (9) bekezdése szerinti ötéves időtartamba bele kell számítani a más szervnél szolgálatot teljesítő állomány 2015. július 1-jén fennálló vezénylésének időtartamából a 2015. július 1-jéig eltelt időtartamot.

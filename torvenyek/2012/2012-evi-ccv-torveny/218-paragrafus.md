@@ -10,7 +10,7 @@ c) részére hetente legalább 1 pihenőnapot ki kell adni.
 
 (3) A 108. § (1) bekezdésében meghatározott esetekben az önkéntes tartalékos katona részére a felkészítés időszakában legfeljebb 2 munkanap szolgálatmentességi idő engedélyezhető.
 
-(4) Az önkéntes tartalékos katonának a felgyógyulásig vagy a végső fogyatékosság kialakulásáig egészségügyi szabadság jár azzal, hogy annak időtartama nem haladhatja meg a tényleges szolgálatteljesítés időtartamát, illetve nem szolgálati eredetű betegség vagy baleset esetén évente a 60 napot. Az egészségügyi szabadság idejére járó távolléti díj tekintetében
+(4) Az önkéntes tartalékos katonának a felgyógyulásig vagy a végső fogyatékosság kialakulásáig egészségügyi szabadság jár azzal, hogy annak időtartama nem haladhatja meg a tényleges szolgálatteljesítés időtartamát, illetve nem szolgálati eredetű betegség vagy baleset esetén évente a 60 napot. Az egészségügyi szabadság idejére járó illetmény tekintetében
 
 a) az önkéntes tartalékos katona évente a 121. § (1) bekezdés b) pontja szerinti 30 napnak a tényleges szolgálatteljesítéssel időarányos részére jogosult, és
 

@@ -2,32 +2,34 @@
 
 ## ILLETMÉNY
 
-## 69. A beosztási illetmény és a honvédelmi pótlék
+## 69. Az illetmény általános szabályai
 
 122. § (1) Az állomány tagja szolgálati viszonya alapján, ha e törvény eltérően nem rendelkezik, az állományba vétel napjától a szolgálati viszony megszűnésének napjáig, havonta illetményre jogosult. Az illetmény
 
-a) beosztási illetményből,
+a) alapilletményből,
 
-b) honvédelmi pótlékból,
+b) honvédelmi szolgálati díjból,
 
-c) illetménykiegészítésből,
+c) illetménypótlékból, valamint
 
-d) szolgálati időpótlékból,
-
-e) illetménypótlékból, valamint
-
-f) jogszabály alapján meghatározott esetekben kiegészítő illetményből
+d) jogszabály alapján meghatározott esetekben kiegészítő illetményből
 
 áll.
 
-(2) A beosztási illetmény és a honvédelmi pótlék együttes összege képezi az alapilletményt.
+(2) Rész-szolgálatteljesítés engedélyezése esetén a 99. § (4) bekezdése szerinti időponttól az állomány tagja illetményre a rész-szolgálatteljesítési idő alapján arányosítva jogosult.
 
-(3) Az alapilletmény szempontjából a tiszti állomány tagját az 5. melléklet szerint I., a legénységi és az altiszti állomány tagját a II. besorolási osztályba kell besorolni. Az I. és a II. besorolási osztály 10-10 besorolási kategóriából áll. Minden besorolási kategóriához egy-egy besorolási, minden rendfokozathoz egy-egy honvédelmi szorzószám kapcsolódik. A besorolási osztály besorolási kategóriái a beosztási illetmény szempontjából azonos szintűnek tekintett beosztásokhoz, a honvédelmi szorzók pedig a viselt rendfokozatokhoz igazodnak. A besorolási osztályokon belül a magasabb besorolási kategóriákhoz, valamint a rendfokozatokhoz magasabb szorzószámok tartoznak.
+(3) A tört havi illetményt – figyelemmel a 102. § (4) bekezdésére is – a tárgyhónap munkanapjainak száma alapján kell meghatározni.
 
-(4) A beosztási illetmény összegét az illetményalap és az 5. mellékletben a betöltött beosztás besorolási kategóriájához tartozó szorzószám szorzata adja. A honvédelmi pótlék az illetményalap és a viselt rendfokozathoz tartozó honvédelmi szorzó szorzatával egyenlő.
+(4) Az illetményt a munkáltatói jogkört gyakorló állapítja meg, valamint az illetmény-megállapításnak nem minősülő illetményváltozásról a munkáltatói jogkört gyakorló értesítést ad ki.
 
-(5) Az illetményt a munkáltatói jogkört gyakorló állapítja meg, valamint az illetmény-megállapításnak nem minősülő illetményváltozásról értesítést készít. Az (1) bekezdés a)–d) és f) pontja szerinti illetményelemek együttes összege nem lehet kevesebb a jogszabályban meghatározott, a betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimumnál.
+(5) Az egyes illetményelemeket egész összegre kerekítve, a hivatalos magyar pénznemben kell megállapítani.
 
-(6) Az (1) bekezdéstől eltérően a továbbfoglalkoztatás megkezdéséig az állomány 46. § (1) bekezdés j) pontja alá tartozó tagja illetményre nem jogosult.
+(6) Amennyiben az (1) bekezdés a) és b) pontja szerinti illetményelemek együttes összege nem éri el a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló kormányrendelet szerinti minimálbér vagy garantált bérminimum összegét – vagy rész-szolgálatteljesítés esetén annak arányosított részét – a különbözetet kiegészítő illetményként kell megállapítani.
 
-(7) Rész-szolgálatteljesítés engedélyezése esetén a 99. § (4) bekezdése szerinti időponttól az állomány tagja a rész-szolgálatteljesítési idő alapján arányosított illetményre jogosult azzal, hogy az (1) bekezdés a)–d) és f) pontja szerinti illetményelemek együttes összege nem lehet kevesebb a jogszabályban meghatározott, a betöltött munkakörhöz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum rész-szolgálatteljesítési idő alapján arányosított részénél.
+(7) Az állomány tagja nem jogosult illetményre
+
+a) az illetmény nélküli szabadság időtartamára,
+
+b) ha a 46. § (1) bekezdés j) pontja alapján rendelkezési állományba tartozik, vagy
+
+c) a jogellenes távollét időtartamára.

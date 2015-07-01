@@ -8,10 +8,6 @@ a) a fegyelmi eljárás során hozott első fokú határozat ellen a közléstő
 
 b) az állomány tagja halálának a szolgálati kötelmekkel való összefüggése kérdésében hozott első fokú határozat ellen a közeli hozzátartozó vagy élettárs nyújthat be fellebbezést.
 
-(3) Nincs helye fellebbezésnek
-
-a) a miniszter által hozott határozat ellen,
-
-b) a fegyelmi eljárás során a 153. § f) pontja szerinti határozat ellen, ha a kifogás benyújtására nyitva álló határidő eredménytelenül eltelt.
+(3) Nincs helye fellebbezésnek a miniszter által hozott határozat ellen.
 
 (4) A fellebbezést a fellebbezés elbírálására jogosultnak címezve az első fokú határozatot hozóhoz kell benyújtani. A fellebbezés benyújtására nyitva álló határidőt megtartottnak kell tekinteni akkor is, ha a fellebbezést határidőn belül nem a határozatot hozóhoz nyújtják be, azzal, hogy a fellebbezést haladéktalanul át kell tenni a határozatot hozóhoz.

@@ -6,7 +6,7 @@ b) megrovás,
 
 c) szigorú megrovás,
 
-d) beosztási illetmény csökkentése,
+d) alapilletmény csökkentése,
 
 e) kötelező várakozási idő meghosszabbítása,
 

@@ -28,7 +28,7 @@ a) e törvény erejénél fogva megszűnik az (1) bekezdés szerinti időtartam 
 
 b) az (1) bekezdés szerinti időtartam lejárta előtt megszűnik, ha ezt a hivatásos állomány tagja kéri, vagy ha a hivatásos állomány tagja az 59. § (2) bekezdés c) pontja szerint áthelyezésre kerül.
 
-(3) Ha a hivatásos állomány tagja munkaviszony létesítése miatt kéri a szolgálati viszonya megszűnésének megállapítását, az (1) bekezdés szerinti időtartam hátralevő részének megfelelő távolléti díjra jogosult.
+(3) Ha a hivatásos állomány tagja munkaviszony létesítése miatt kéri a szolgálati viszonya megszűnésének megállapítását, az (1) bekezdés szerinti időtartam hátralevő részére számított távolléti díjnak megfelelő összegre jogosult.
 
 (4) A hivatásos állomány tagja, a Honvédség és a kormányzati személyügyi igazgatási feladatokat ellátó szerv a rendelkezési állomány időtartama alatt az 59. § (2) bekezdés c) pontja szerinti áthelyezés elősegítése érdekében kölcsönösen együttműködve kötelesek eljárni.
 

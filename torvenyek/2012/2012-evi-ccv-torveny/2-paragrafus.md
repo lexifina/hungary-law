@@ -22,7 +22,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 5. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet az állomány tagja szolgálati beosztásához kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni,
 
-6. előmenetel: szervezeti hierarchiában történő előrehaladás, amely általános előmeneteli rendben magasabb beosztásba kinevezés, speciális előmeneteli rendben a magasabb elérhető rendfokozatú beosztásba kinevezés, illetve előléptetés, adott beosztáson belül a beosztásban rendszeresített vagy elérhető (a továbbiakban együtt: rendszeresített) rendfokozat eléréséig a rendfokozatban történő előléptetés útján valósul meg,
+6. előmenetel: szervezeti hierarchiában történő előrehaladás, amely szolgálati beosztásba történő kinevezéssel, illetve rendfokozati kinevezéssel, előléptetéssel valósul meg,
 
 7. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
 
@@ -36,13 +36,15 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 12. honvéd tisztjelölt: a honvédtiszti alapképzésre felvételt nyert személy, aki annak időtartama alatt hallgatói jogviszonyban és tisztjelölti szolgálati viszonyban áll,
 
+12a. honvédelmi illetményalap: az évente, a központi költségvetésről szóló törvényben megállapított honvédelmi illetményalap, amely nem lehet alacsonyabb összegű az előző évi honvédelmi illetményalapnál,
+
 13. honvédségi szervezet: a miniszter által vezetett minisztérium, a miniszter irányítása alatt álló központi hivatal, a miniszter közvetlen alárendeltségébe tartozó szervezet, és a Magyar Honvédség (a továbbiakban: Honvédség) hadrendje szerinti szervezet,
 
 14. ideiglenes külföldi szolgálat: olyan külföldi szolgálat, amelynek időtartama tervezetten nem haladja meg a 90 napot,
 
-15. illetményalap: a költségvetési törvényben a közszolgálati tisztviselőkre meghatározott illetményalap,
+15.
 
-16. illetmény-megállapítás: a szolgálati viszony létesítésekor, módosításakor, valamint új illetményelemre való jogosultság esetén az állomány tagja 122. § (1) bekezdése szerinti illetményelemeinek megállapítása, a beosztási illetménynek a 123. § (3) bekezdése szerinti magasabb összegben történő megállapítása, az illetménypótlékra való jogosultságnak, valamint az alsó-felső határral rendelkező illetménypótlék esetén a pótlék összegének megállapítása, felemelése, valamint a kiegészítő illetményre való jogosultság megállapítása,
+16. illetmény-megállapítás: a szolgálati viszony létesítésekor, módosításakor, valamint új illetményelemre való jogosultság keletkezésekor, vagy korábbi illetményelemre való jogosultság megszüntetése esetén az állomány tagja illetményének meghatározása,
 
 17. jognyilatkozat: a 29. pont a), b), és d) alpontja szerinti munkáltatói döntések, a döntési lapról készített határozat, a megállapodás, a szerződés, a tanulmányi szerződés, az ösztöndíjszerződés, valamint minden olyan nyilatkozat, amelyből jogok és kötelezettségek származnak,
 
@@ -94,7 +96,9 @@ kivéve, ha a szolgálati viszonya lefokozás vagy szolgálati viszony megszünt
 
 31. önkéntes tartalékos katona: az a katona, aki önkéntes műveleti tartalékosként vagy önkéntes védelmi tartalékosként szerződésben vállalja a katonai szolgálatot,
 
-32. rendszeres illetménypótlék: a 126. §, a 127. §, a 128. § (1) bekezdés a), l)–q) és t)–v) pontja, (3) és (4) bekezdése, valamint a 199. § (3) bekezdés a) pontja szerinti pótlékok,
+32. rendszeres illetménypótlék: a havi mértékben megállapított illetménypótlék,
+
+32a. rendszeresített rendfokozat: általános előmeneteli rendbe tartozó szolgálati beosztások esetén a beosztáshoz rendelt, kettős rendfokozattal rendszeresített szolgálati beosztások esetén a beosztáshoz rendelt magasabb, speciális előmeneteli rendbe tartozó szolgálati beosztások esetén a beosztásban elérhető legmagasabb rendfokozat,
 
 33. szerződéses állomány tagja: az állomány azon tagja, aki határozott időre szerződésben vállalja a katonai szolgálatot,
 
@@ -112,6 +116,6 @@ kivéve, ha a szolgálati viszonya lefokozás vagy szolgálati viszony megszünt
 
 40. tartós külföldi szolgálat: olyan külföldi szolgálat, amelynek megszakítás nélküli időtartama tervezetten meghaladja a 90 napot,
 
-41. távolléti díj: a kifizetés esedékességekor járó alapilletmény, az illetménykiegészítés, a szolgálati időpótlék, a rendszeres illetménypótlék, valamint a rendszeres kiegészítő illetmény együttes összegének a távollét idejére számított időarányos átlaga,
+41. távolléti díj: az alapilletmény, a honvédelmi szolgálati díj, a rendszeres illetménypótlék, valamint a rendszeres kiegészítő illetmények havi együttes összege,
 
 42. tiszti állomány tagja: az állomány 1. melléklet szerinti tiszti, főtiszti (a továbbiakban együtt: tiszti) rendfokozatot viselő tagja, továbbá az a hivatásos katona, aki tábornoki rendfokozatot visel.

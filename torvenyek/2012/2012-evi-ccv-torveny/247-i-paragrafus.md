@@ -1,0 +1,5 @@
+247/I. § (1) A Módtv.-vel megállapított 107. § (3) bekezdése helyett a 2018. december 31-ig elrendelt és teljesített őr-, ügyeleti és készenléti szolgálat teljesítésének ellentételezésére a (2) bekezdést kell alkalmazni.
+
+(2) A pihenőidőt a szolgálat leadása után nyomban, a szabadnapot pedig legkésőbb 90 napon belül kell kiadni. Amennyiben a szolgálati elfoglaltság miatt a szabadnapot igazoltan nem lehet kiadni, az arra járó, miniszteri rendeletben meghatározott díjazást legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt kell kifizetni.
+
+(3) A Módtv.-vel megállapított 107. § (1) bekezdése helyett a 2018. december 31-ig elrendelt és teljesített katasztrófavédelmi feladatok végrehajtásával összefüggésben elrendelt készenléti szolgálatokra a miniszter rendeletben határozhatja meg azokat az eseteket és körülményeket, amelyek bekövetkezése esetén – a feladatvégzés idejére – a 128. § (3) bekezdése szerinti pótlék helyett a 247/H. § túlszolgálat díjazására vonatkozó szabályait kell alkalmazni.

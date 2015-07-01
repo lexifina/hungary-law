@@ -8,6 +8,6 @@
 
 (4) A tartós külföldi szolgálatot teljesítő részére a külföldi szolgálata időtartama alatt megállapítható illetményelemek körét és jogosultsági szabályait a miniszter rendeletben határozza meg.
 
-(5) Miniszteri rendeletben meghatározottak szerint megbízási díjra jogosult a külföldi szolgálatot teljesítő, ha megbízására külföldi szolgálat alatt eredeti beosztása mellett kerül sor.
+(5)
 
 (6) Az (1) és a (2) bekezdés a hazai ösztöndíján felül a honvéd tisztjelöltre és a honvéd altiszt-jelöltre is irányadó. Ettől eltérően a pályázati forrásból finanszírozott külföldi képzés esetén a honvéd tisztjelölt a hazai ösztöndíjára jogosult, továbbá részére a kiküldő a rendelkezésére álló pályázati forrás terhére további juttatásokat állapíthat meg.

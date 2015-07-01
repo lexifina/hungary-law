@@ -104,7 +104,7 @@ B. A munkáltatói jogkör megnevezése
 
 |
 
-5.2. Tábornok alacsonyabb vagy azonos szolgálati beosztásba áthelyezése
+5.2. Tábornoki rendfokozattal rendszeresített beosztásból alacsonyabb vagy azonos szolgálati beosztásba helyezés
 
 |
 
@@ -136,11 +136,11 @@ B. A munkáltatói jogkör megnevezése
 
 |
 
-6. Illetményre, távolléti díjra vonatkozó döntések
+6. Illetményre vonatkozó döntések
 
 |
 
-6.1. Illetmény, távolléti díj visszatartása tábornok esetén
+6.1. Illetmény visszatartása, megvonása tábornok esetén
 
 |
 

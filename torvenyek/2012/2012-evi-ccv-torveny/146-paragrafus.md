@@ -21,3 +21,5 @@ a) a kötelezettségszegő magatartás elkövetésének a napja,
 b) a kötelezettség elmulasztása, vagy nem teljesítése esetén az a nap, amikor a kötelezettség teljesítésére rendelkezésre álló határidő eltelt, vagy
 
 c) jogellenes állapot fenntartásában megvalósuló kötelezettségszegés esetén az a nap, amikor a jogellenes állapot megszűnt.
+
+(4) Amennyiben a kötelezettségszegés miatt először büntető- vagy szabálysértési eljárás indul, a fegyelmi eljárás megindítására nyitva álló 30 napos határidőt a jogerős határozatnak a munkáltatói jogkört gyakorlóval történt közlésétől, az egyéves határidőt az eljárás jogerős befejezésétől kell számítani.

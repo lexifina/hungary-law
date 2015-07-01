@@ -4,8 +4,8 @@
 
 (2) Az (1) bekezdéstől eltérően a napi pihenőidő 1 órával csökken, ha az a nyári időszámítás kezdetének időpontjára esik.
 
-(3) Általános szolgálati rend esetén az állomány tagja hetenként két egymást követő pihenőnapra jogosult, melyek közül az egyiknek vasárnapra kell esnie.
+(3) Az állomány tagja hetenként szombaton és vasárnap pihenőnapra jogosult.
 
-(4) Az állomány készenléti jellegű beosztásban, vagy folyamatos ügyeleti szolgálat ellátására szervezett beosztásban szolgálatot teljesítő tagja esetén havonta legalább egy alkalommal a pihenőnapnak vasárnapra kell esnie.
+(4) Az állomány szolgálatteljesítési időkeretben szolgálatot teljesítő tagja hetente két pihenőnapra jogosult, de az a (3) bekezdéstől eltérően a hét bármely napján kiadható úgy, hogy havonta legalább egy pihenőnapnak vasárnapra kell esnie.
 
-(5) A (3) bekezdéstől eltérően a pihenőnap – a fokozottan veszélyes szolgálati beosztást kivéve – a szolgálati elfoglaltság miatt havonta összevontan is kiadható, de legalább 1 pihenőnapnak ilyenkor is vasárnapra kell esnie.
+(5) A (4) bekezdéstől eltérően a pihenőnapok – a fokozottan veszélyes szolgálati beosztást kivéve – a szolgálati elfoglaltság miatt havonta összevontan is kiadhatók, de legalább 1 pihenőnapnak ilyenkor is vasárnapra kell esnie.

@@ -1,0 +1,1 @@
+247/D. § A honvédek jogállásáról szóló 2012. évi CCV. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2015. évi XLIII. törvénnyel (a továbbiakban: Módtv.) megállapított 38. § (7) és (8) bekezdését a 2015. július 1-jét megelőzően állományba kerültek esetén 2016. július 1-jétől kell alkalmazni.

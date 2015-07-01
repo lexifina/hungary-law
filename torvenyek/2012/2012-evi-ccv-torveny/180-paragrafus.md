@@ -1,8 +1,8 @@
 ## 101. A szolgálati panasz
 
-180. § (1) Ha a törvény eltérően nem rendelkezik, az állomány tagja a munkáltatói jogkört gyakorló jognyilatkozatával szemben szolgálati panaszt terjeszthet elő.
+180. § (1) Ha a törvény eltérően nem rendelkezik, az állomány tagja a munkáltatói jogkört gyakorló jognyilatkozatával – vagy annak elmulasztásával – szemben szolgálati panaszt terjeszthet elő.
 
-(2) A szolgálati panasz a jognyilatkozat közlésétől számított 30 napon belül, de legfeljebb a meghozatalától számított 1 éves jogvesztő határidőn belül nyújtható be – a szolgálati út betartásával – a jognyilatkozatot hozó munkáltatói jogkört gyakorlóhoz. A jognyilatkozatot hozó munkáltatói jogkört gyakorló
+(2) A szolgálati panasz a jognyilatkozat közlésétől számított 30 napos, de legfeljebb a meghozatalától számított 1 éves jogvesztő határidőn belül nyújtható be – a szolgálati út betartásával – a jognyilatkozatot hozó munkáltatói jogkört gyakorlóhoz. A jognyilatkozatot hozó munkáltatói jogkört gyakorló
 
 a) ha a szolgálati panasznak helyt ad, azt a kézhezvételtől számított 30 napon belül, indokolással ellátva elbírálja,
 

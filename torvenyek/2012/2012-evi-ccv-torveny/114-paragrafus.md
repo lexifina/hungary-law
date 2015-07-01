@@ -6,4 +6,4 @@
 
 (3) Az (1) bekezdés alkalmazása során apa alatt a szülői felügyeleti jogot gyakorló vérszerinti vagy örökbefogadó apát kell érteni.
 
-(4) Az (1) bekezdés szerinti pótszabadság idejére távolléti díj jár.
+(4)
