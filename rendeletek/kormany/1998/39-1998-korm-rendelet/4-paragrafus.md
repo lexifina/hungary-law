@@ -54,7 +54,7 @@ e) a 4. § (1) bekezdés c) pontjában meghatározott feltételeknek megfelelő 
 
 (8)[^29] A 4. § és 5. § alkalmazásában
 
-a)[^30] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, kormányzati szolgálati jogviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény szerinti hivatásos szolgálati jogviszony, a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati viszony, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény szerinti ösztöndíjas foglalkoztatási jogviszony,
+a)[^30] munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, kormányzati szolgálati jogviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti hivatásos szolgálati jogviszony, a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti szolgálati viszony, valamint a pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény szerinti ösztöndíjas foglalkoztatási jogviszony,
 
 b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban, jogviszonyban áll,
 
@@ -73,4 +73,4 @@ c) munkaszerződés: a munka törvénykönyve szerinti munkaszerződés, valamin
 [^27]: A 4. § (7) bekezdés a) pontja a 167/2013. (V. 29.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^28]: A 4. § (7) bekezdés c) pontja a 354/2014. (XII. 29.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^29]: A 4. § (8) bekezdését a 167/2013. (V. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^30]: A 4. § (8) bekezdés a) pontja a 265/2013. (VII. 11.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^30]: A 4. § (8) bekezdés a) pontja a 265/2013. (VII. 11.) Korm. rendelet 1. § (2) bekezdése, a 157/2015. (VI. 25.) Korm. rendelet 4. §-a szerint módosított szöveg.

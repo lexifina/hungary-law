@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-39-20-2
 | 2014-03-25 | 1998-39-20-22.24 | 89/2014. (III. 20.) Korm. rendelet |
 | 2015-01-01 | 1998-39-20-22.25 | 354/2014. (XII. 29.) Korm. rendelet |
 | 2015-04-01 | 1998-39-20-22.26 | 324/2011. (XII. 28.) Korm. rendelet |
+| 2015-07-01 | 1998-39-20-22.27 | 265/2013. (VII. 11.) Korm. rendelet |
