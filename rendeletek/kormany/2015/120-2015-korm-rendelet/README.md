@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-120-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-05-22 | 2015-120-20-22.1 | 120/2015. (V. 21.) Korm. rendelet |
+| 2015-07-01 | 2015-120-20-22.2 | 146/2015. (VI. 12.) Korm. rendelet |

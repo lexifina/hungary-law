@@ -406,7 +406,11 @@
 
 | 202. | Csongrád | Szeged | 201289 | Szegedi Gábor Dénes Műszaki és Környezetvédelmi Középiskola és Szakiskola | 6724 Szeged, Mars tér 14 | SZ | 004 | NGM |
 
+| 202a. | Csongrád | Szeged | 201289 | Szegedi Műszaki Középiskola Szeged- Tápéi Telephelye | 6753 Szeged-Tápé, Budai Nagy Antal utca 134. | TH | 006 | NGM |
+
 | 203. | Csongrád | Szeged | 201289 | Szegedi Műszaki Középiskola Csonka János Tagintézménye | 6726 Szeged Temesvári krt. 38 | TI | 002 | NGM |
+
+| 203a. | Csongrád | Szeged | 201289 | Szegedi Műszaki Középiskola Csonka János Tagintézményének Közép Fasori Telephelye | 6726 Szeged, Közép fasor 27. | TH | 003 | NGM |
 
 | 204. | Csongrád | Szeged | 201290 | Szegedi Vedres István Szolgáltatási Szakképző Iskola | 6720 Szeged, Horváth Mihály u. 2-6. | SZ | 004 | NGM |
 
@@ -492,7 +496,7 @@
 
 | 245. | Fejér | Mór | 030217 | Fejér Megyei Perczel Mór Szakképző Iskola és Kollégium | 8060 Mór, Úttörő utca 1. | TH | 002 | NGM |
 
-| 246. | Fejér | Dunaújváros | 030209 | Rudas Közgazdasági Szakközépiskola, Szakiskola és Kollégium | 2400 Dunaújváros, Római körút 47-49. | SZ | 001 | NGM |
+| 246. | Fejér | Dunaújváros | 030209 | Rudas Közgazdasági Szakközépiskola és Kollégium | 2400 Dunaújváros, Római körút 47-49. | SZ | 001 | NGM |
 
 | 247. | Fejér | Székesfehérvár | 030219 | Székesfehérvári Váci Mihály Ipari Szakképző Iskola és Kollégium | 8000 Székesfehérvár, Berényi út 105. | SZ | 001 | NGM |
 
@@ -960,9 +964,9 @@
 
 | 479. | Szabolcs- Szatmár- Bereg | Nyíregyháza | 033691 | Wesselényi Miklós Középiskola, Szakiskola és Kollégium | 4400 Nyíregyháza, Dugonics u. 10-12. | SZ | 001 | NGM |
 
-| 480. | Szabolcs- Szatmár- Bereg | Nyíregyháza | 033691 | Wesselényi Miklós Középiskola, Szakiskola és Kollégium Nyíregyháza, Vay Ádám Körúti Telephelye | 4400 Nyíregyháza, Hengersor 10. | TH | 002 | NGM |
+| 480. | Szabolcs- Szatmár- Bereg | Nyíregyháza | 033691 | Wesselényi Miklós Középiskola, Szakiskola és Kollégium Nyíregyháza, Hengersori Telephelye | 4400 Nyíregyháza, Hengersor 10. | TH | 002 | NGM |
 
-| 481. | Szabolcs- Szatmár- Bereg | Nyíregyháza | 033691 | Wesselényi Miklós Középiskola, Szakiskola és Kollégium Nyíregyháza, Hengersori Telephelye | 4400 Nyíregyháza, Vay Ádám körút 4-6. | TH | 003 | NGM |
+| 481. | Szabolcs- Szatmár- Bereg | Nyíregyháza | 033691 | Wesselényi Miklós Középiskola, Szakiskola és Kollégium Nyíregyháza, Vay Ádám Körúti Telephelye | 4400 Nyíregyháza, Vay Ádám körút 4-6. | TH | 003 | NGM |
 
 | 482. | Szabolcs- Szatmár- Bereg | Nyíregyháza | 033662 | Zay Anna Egészségügyi, Informatikai Szakközépiskola és Kollégium | 4400 Nyíregyháza, Család u. 11. | SZ | 001 | NGM |
 
@@ -1025,6 +1029,10 @@
 | 511. | Vas | Szombathely | 036744 | Szombathelyi Műszaki Szakképző Iskola és Kollégium Savaria Szakképző Iskolája | 9700 Szombathely, Hadnagy utca 1. | TI | 004 | NGM |
 
 | 512. | Vas | Körmend | 036745 | Rázsó Imre Szakközépiskola és Szakiskola | 9900 Körmend, Rákóczi Ferenc utca 2. | SZ | 001 | NGM |
+
+| 512a. | Vas | Körmend | 036745 | Rázsó Imre Szakközépiskola és Szakiskola | 9900 Körmend, Hrsz:0296/7 | TH | 005 | NGM |
+
+| 512b. | Vas | Körmend | 036745 | Rázsó Imre Szakközépiskola és Szakiskola | 9900 Körmend Hrsz: 0296/8 | TH | 006 | NGM |
 
 | 513. | Vas | Körmend | 036745 | Rázsó Imre Szakközépiskola és Szakiskola 003-as Telephelye | 9901 Körmend, Sport utca 2. | TH | 003 | NGM |
 

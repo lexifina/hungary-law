@@ -416,6 +416,6 @@
 
 | 207. | Zala | Lenti | 037631 | Gönczi Ferenc Gimnázium és Szakközépiskola | 8960 Lenti, Zrínyi Miklós utca 5. | SZ | 001 | KLIK |
 
-3. melléklet a 120/2015. (V. 21.) Korm. rendelethez
+3. melléklet a 120/2015. (V. 21.) Korm. rendelethez[^3]
 
-Speciális szakiskolai nevelés-oktatási feladatot is ellátó Egységes Gyógypedagógiai Módszertani Intézmények és többcélú köznevelési intézmények, amelyekben szakképzés kizárólag a speciális szakiskolai nevelés-oktatás keretében folyik: a speciális szakiskolai feladatellátás 2016. június 30-ig a Klebelsberg Intézményfenntartó Központ (KLIK) fenntartásában marad, 2016. július 1-jétől a Nemzetgazdasági Minisztérium (NGM) fenntartásába kerül
+[^3]: A 3. melléklet a 146/2015. (VI. 12.) Korm. rendelet 11. § (6) bekezdésével megállapított szöveg.
