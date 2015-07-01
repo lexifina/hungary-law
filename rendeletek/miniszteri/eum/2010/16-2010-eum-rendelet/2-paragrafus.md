@@ -1,11 +1,21 @@
-## 2. A felsőoktatási intézmény feladata a szakképzéssel kapcsolatban
+## 2. [^2] A szakképzési központ feladata a szakképzéssel kapcsolatban
 
-## 2. § A felsőoktatásról szóló 2005. évi CXXXIX. törvény 141. § (1) bekezdése szerinti egészségügyi felsőoktatási intézmény (a továbbiakban: felsőoktatási intézmény):
+## 2. § Az orvos- és egészségtudományi képzést folytató felsőoktatási intézményben (a továbbiakban: egyetem) a szakképzés koordinációját és technikai, szervezési feladatait végző szervezeti egység (szakképzési központ) feladata a szakképzéssel kapcsolatosan:
 
-a) kidolgozza az egészségügyért felelős miniszter (a továbbiakban: miniszter) által kiadott szakképzési követelmények alapján az egyes szakmák részletes képzési programját,
+a) a szakképzés megkezdésével összefüggő adminisztrációs feladatok ellátása, a szakképzési megállapodás létesítése,
 
-b) megszervezi és lebonyolítja a rendszerbevételi eljárást,
+b) a jelöltek képzési tervének összeállításával, módosításával, a teljesítés követésével kapcsolatos adminisztratív feladatok ellátása,
 
-c) gondoskodik a képzési programok végrehajtásáról és
+c) a szakképzési grémiumok feladataiban való adminisztratív közreműködés,
 
-d) ellátja a képzési program teljesítésének dokumentálásával és a dokumentáció megőrzésével kapcsolatos feladatokat.
+d) a jelölt szakvizsgára bocsáthatóságáról szóló dokumentum (abszolutórium) kiállítása,
+
+e) a képzés során miniszteri rendelet vagy a képzési terv alapján szükséges részvizsgák szervezésében való közreműködés,
+
+f) külső képzőhelyekkel való kapcsolattartás, valamint a külső képzőhelyen töltendő gyakorlat szervezésében történő közreműködés és azok teljesítésének nyomon követése,
+
+g) a szakképzés során a jelöltek kötelező tanfolyamainak szervezése és
+
+h) folyamatos kapcsolattartás az Egészségügyi Nyilvántartási és Képzési Központtal (a továbbiakban: ENKK) a szakképzés adminisztrációjának biztosítása érdekében.
+
+[^2]: A 2. alcím (2. §) a 34/2015. (VI. 30.) EMMI rendelet 2. §-ával megállapított szöveg.

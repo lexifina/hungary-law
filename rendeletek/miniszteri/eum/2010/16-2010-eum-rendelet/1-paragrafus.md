@@ -4,15 +4,18 @@
 
 ## 1. A rendelet hatálya
 
-## 1. § E rendelet hatálya
+1. §[^1] (1) E rendelet hatálya
 
-a)[^1] az egészségügyi felsőfokú szakirányú szakmai képzésben (a továbbiakban: szakképzés) a központi gyakornoki rendszerbe történő felvétel szabályaira (a továbbiakban: rendszerbevételi eljárás)
+a) az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 34/2015. (VI. 30.) Korm. rendeletben (a továbbiakban: Kr.) meghatározott egyes keretszámok tekintetében lefolytatandó rendszerbevételi eljárásra,
 
-b) a szakképzést végző intézmények kiválasztásának szabályaira (a továbbiakban: minősítési eljárás) és
+b) a szakképzést végző intézmények kiválasztásának szabályaira (a továbbiakban: akkreditációs eljárás),
 
-c)[^2] a szakképzés teljesítésének részletes szabályaira, valamint a szakképzést lezáró szakvizsgáztatásra vonatkozó szabályokra
+c) a szakképzés teljesítésének részletes szabályaira – ideértve a szakképzés teljesítésében közreműködő tutorokra és a szakképzési grémiumokra vonatkozó előírásokat – és
 
-terjed ki.
+d) a szakképzést lezáró szakvizsgáztatásra vonatkozó szabályokra
 
-[^1]: Az 1. § a) pontja a 20/2011. (V. 10.) NEFMI rendelet 7. §-ával megállapított szöveg.
-[^2]: Az 1. § c) pontja a 14/2014. (III. 10.) EMMI rendelet 7. §-ával megállapított szöveg.
+## terjed ki.
+
+(2) Az e rendeletben nem szabályozott fogalmak tekintetében a Kr. 2. §-ában foglalt fogalom-meghatározásokat kell alkalmazni.
+
+[^1]: Az 1. § a 34/2015. (VI. 30.) EMMI rendelet 1. §-ával megállapított szöveg.

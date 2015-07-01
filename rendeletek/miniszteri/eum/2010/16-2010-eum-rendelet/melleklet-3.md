@@ -1,4 +1,4 @@
-3. melléklet a 16/2010. (IV. 15. EüM rendelethez
+3. melléklet a 16/2010. (IV. 15. EüM rendelethez[^81]
 
 ## A szakképző hellyé minősítés feltételei
 
@@ -16,7 +16,7 @@ rendelkezik;
 
 1.2. ahol a szakképzést végző oktató az adott szakterületen legalább 5 éve megszerzett szakképesítéssel rendelkezik;
 
-1.3. amely a betegforgalmi és beteg-összetételi adatok alapján alkalmas a teljes szakképzési program vagy legalább annak 75%-a oktatására, azzal, hogy a fennmaradt 25% oktatása a felsőoktatási intézmény által kijelölt más szakképző hellyé minősített képzőhelyen történik;
+1.3. amely a betegforgalmi és beteg-összetételi adatok alapján alkalmas a teljes szakképzési program vagy legalább annak 75%-a oktatására, azzal, hogy a fennmaradt 25% oktatása az egyetem által kijelölt más szakképző hellyé minősített képzőhelyen történik;
 
 1.4. ahol a szükséges kapcsolódó szakterületek és diagnosztikai részlegek elérhetősége és együttműködése biztosított;
 
@@ -48,6 +48,8 @@ rendelkezik;
 
 2.2.3. amely rendelkezik belső minőségbiztosítási rendszerrel; valamint
 
-2.2.4. ahol az oktató és a felsőoktatási intézmény között rendszeres szakmai kapcsolat áll fenn.
+2.2.4. ahol az oktató és az egyetem között rendszeres szakmai kapcsolat áll fenn.
 
 Az 1.1. és 1.2. alpontban, a 2.1.1. alpontban, valamint a 2.2.1. alpontban foglalt rendelkezéseket a szakképzés bevezetésétől számított 8. év elteltét követően kell alkalmazni, azzal, hogy ezen időpontig is a szakképzést vezető és végző oktatónak megfelelő szakképesítéssel rendelkeznie kell.
+
+[^81]: A 3. melléklet a 34/2015. (VI. 30.) EMMI rendelet 18. § 3. pontja szerint módosított szöveg.

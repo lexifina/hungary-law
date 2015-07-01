@@ -1,7 +1,7 @@
 ## 6. A szakképző helyek ellenőrzése
 
-8. § (1) A miniszter a szakképző helyeket folyamatosan ellenőrzi.
+8. §[^25] (1) Az ENKK a szakképző helyeket ellenőrzi.
 
-(2)[^23] A miniszter az (1) bekezdés szerinti eljárásában az ESZTT-t szakértőként veszi igénybe.
+(2) Az ENKK az (1) bekezdés szerinti eljárásában a szakterület szerint illetékes szakmai kamarát szakértőként veszi igénybe.
 
-[^23]: A 8. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 21. § a) pontja szerint módosított szöveg.
+[^25]: A 8. § a 34/2015. (VI. 30.) EMMI rendelet 9. §-ával megállapított szöveg.

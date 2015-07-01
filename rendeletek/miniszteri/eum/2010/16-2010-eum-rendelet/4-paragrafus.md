@@ -1,12 +1,12 @@
 ## 3. A rendszerbevételi pontszám
 
-4. § (1)[^5] A rendszerbevételi eljárásban a központi gyakornoki állásokra felvételüket kérő jelentkezők (a továbbiakban: jelentkező) sorrendjét a rendszerbevételi pontszám határozza meg.
+4. § (1)[^4] A rendszerbevételi eljárásban meghirdetett álláshelyekre jelentkezők (a továbbiakban: jelentkező) sorrendjét a rendszerbevételi pontszám határozza meg.
 
 (2) A rendszerbevételi pontszám
 
-a) a Kr. 1. § (2) bekezdés a) pontja szerinti oklevél megszerzésével záruló egyetemi képzés során elért tanulmányi eredmények alapján számított tanulmányi pontok,
+a)[^5] az adott szakképzés bemeneti követelményeként meghatározott szakképzettség megszerzésére irányuló egyetemi képzés során elért tanulmányi eredmények alapján számított tanulmányi pontok,
 
-b)[^6] a felsőoktatási intézmény által lefolytatott személyes meghallgatás során elért pontok és
+b)[^6] az egyetem által lefolytatott személyes meghallgatás során elért pontok és
 
 c) az 1. melléklet szerint számított többletpontok
 
@@ -34,5 +34,6 @@ c) az egyetemi záróvizsga 2,0-del súlyozott érdemjegye.
 
 (6) A személyes meghallgatás során a választott szak művelése szempontjából szükséges személyi adottságokat, a szakma iránti érdeklődést és a jelentkező általános szakmai felkészültségét kell értékelni a 2. mellékletben meghatározott szempontok alapján.
 
-[^5]: A 4. § (1) bekezdése a 20/2011. (V. 10.) NEFMI rendelet 15. § b) pontja szerint módosított szöveg.
-[^6]: A 4. § (2) bekezdés b) pontja a 20/2011. (V. 10.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 18. § 1. pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés a) pontja a 34/2015. (VI. 30.) EMMI rendelet 18. § 2. pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdés b) pontja a 34/2015. (VI. 30.) EMMI rendelet 18. § 3. pontja szerint módosított szöveg.

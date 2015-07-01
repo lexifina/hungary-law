@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-0
 | 2013-11-20 | 2010-16-20-0B.11 | 69/2013. (XI. 19.) EMMI rendelet |
 | 2014-03-11 | 2010-16-20-0B.12 | 14/2014. (III. 10.) EMMI rendelet |
 | 2015-04-29 | 2010-16-20-0B.13 | 2/2013. (I. 2.) EMMI rendelet |
+| 2015-07-01 | 2010-16-20-0B.14 | 34/2015. (VI. 30.) EMMI rendelet |

@@ -1,6 +1,6 @@
-## 24. §[^71]
+## 24. §[^79]
 
-1. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^72]
+1. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^80]
 
 1. A rendszerbevételi eljárás során adható többletpontok
 
@@ -46,9 +46,9 @@
 
 1.5. Mentőtiszti, egészségügyi területen legalább 1 hónap időtartamú munkavégzés hónaponként (maximum 3 pont) 1 pont
 
-1.6. A felsőoktatási intézmény által igazolt korábbi szakmai kapcsolat (a munkáltatónál végzett nem egészségügyi munka,
+1.6. Az egyetem által igazolt korábbi szakmai kapcsolat (a munkáltatónál végzett nem egészségügyi munka,
 
 adatok feldolgozása tudományos tevékenységben stb.) 2 pont
 
-[^71]: A 24. § a (4) bekezdés alapján hatályát vesztette.
-[^72]: Az 1. melléklet a 20/2011. (V. 10.) NEFMI rendelet 15. § f) pontja szerint módosított szöveg.
+[^79]: A 24. § a (4) bekezdés alapján hatályát vesztette.
+[^80]: Az 1. melléklet a 20/2011. (V. 10.) NEFMI rendelet 15. § f) pontja, a 34/2015. (VI. 30.) EMMI rendelet 18. § 6. pontja szerint módosított szöveg.
