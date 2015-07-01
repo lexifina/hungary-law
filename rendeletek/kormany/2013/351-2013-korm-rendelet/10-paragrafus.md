@@ -12,4 +12,6 @@ d) a polgári nemzetbiztonsági szolgálatok személyi állományának a tagja,
 
 e) a Magyar Honvédség tényleges állományú tagja,
 
-f) a d) pontban foglaltak mellett olyan, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti szolgálati jogviszonyban álló személy, aki szolgálati helyén vagy szolgálata során halt meg.
+f)[^1] a d) pontban foglaltak mellett olyan, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszonyban álló személy, aki szolgálati helyén vagy szolgálata során halt meg.
+
+[^1]: A 10. 5 (2) bekezdés f) pontja a 157/2015. (VI. 25.) Korm. rendelet 43. §-a szerint módosított szöveg.
