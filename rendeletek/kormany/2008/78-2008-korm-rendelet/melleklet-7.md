@@ -14,7 +14,7 @@
 
 6. Gondoskodni kell megfelelő számú öltözési (vetkőzési) lehetőségről. A várható legnagyobb vendégszám figyelembevételével nemenként elkülönített, kézmosási lehetőséggel felszerelt, díjmentesen igénybe vehető, a vízparttól 100 m távolságon belül elhelyezett illemhelyet a külön jogszabály előírásai szerint kell létesíteni. Ha a szennyvíz elvezetése közcsatornába nem lehetséges, akkor az illemhelyekhez csak zárt rendszerű szennyvízgyűjtőt szabad telepíteni. A zárt rendszerű szennyvízgyűjtőben összegyűlt szennyvíz elszállításáról vagy ártalommentes elhelyezéséről az üzemeltetőnek kell gondoskodnia.
 
-7.[^72] Állatot a fürdőhely területére bevinni – a járási hivatal által engedélyezett őrkutyás biztonsági szolgálat, illetve a vakvezető kutya kivételével – tilos. A fürdőhely területén a fürdési szezonban horgászni nem szabad.
+7.[^73] Állatot a fürdőhely területére bevinni – a járási hivatal által engedélyezett őrkutyás biztonsági szolgálat, illetve a vakvezető kutya kivételével – tilos. A fürdőhely területén a fürdési szezonban horgászni nem szabad.
 
 8. Gondoskodni kell a fürdőközönség számára zuhanyozási lehetőségről. 1000 főnél nagyobb vendégszám esetén 200 fő/1 db, de legkevesebb 4 db zuhanyállást kell biztosítani.
 
@@ -28,9 +28,9 @@ b) a levegő és a víz aktuális hőmérsékletéről, a víz mélységéről,
 
 c) a fürdő rendeltetésszerű használatával összefüggő kötelezettségekről,
 
-d)[^73] a határértéket meghaladó, napi UV sugárzási szint mértékéről, és a védelem nélküli napon tartózkodás ajánlott időtartamáról,
+d)[^74] a határértéket meghaladó, napi UV sugárzási szint mértékéről, és a védelem nélküli napon tartózkodás ajánlott időtartamáról,
 
-e)[^74] egyéb közérdekű információkról.
+e)[^75] egyéb közérdekű információkról.
 
 11. A fürdőhely üzemeltetője köteles elsősegélynyújtó felszerelést és kötszereket tartani a helyszínen bármikor elérhető helyen, és gondoskodni a felszerelések, gyógy- és kötszerek pótlásáról.
 
@@ -58,6 +58,6 @@ c) üzemeltetési naplót vezetni a vendégforgalom napi adatairól, balesetekr�
 
 18. Olyan fürdőhelyeken, ahol gyermekek csoportosan vagy tömegesen fordulnak elő (pl. gyermek- és ifjúsági tábor, vízparti üdülő), az üzemeltetőnek a balesetek megelőzése érdekében – a gyermekcsoport ott tartózkodási ideje alatt – külön mentőőrt kell biztosítani a csoport felügyeletére.
 
-[^72]: A 7. melléklet 7. pontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^73]: A 7. melléklet 10. pont d) pontja a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg.
-[^74]: A 7. melléklet 10. pont e) pontját a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdése iktatta be.
+[^73]: A 7. melléklet 7. pontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^74]: A 7. melléklet 10. pont d) pontja a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg.
+[^75]: A 7. melléklet 10. pont e) pontját a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdése iktatta be.
