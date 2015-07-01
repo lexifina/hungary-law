@@ -28,6 +28,6 @@
 
 | 19 20 21 | H - lakossági felhasználók esetében - nem lakossági felhasználók esetében | 11,13 12,69 | 11,54 13,08 | 11,25 12,74 | 10,88 12,30 |
 
-3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^14]
+3. melléklet a 4/2011. (I. 31.) NFM rendelethez[^15]
 
-[^14]: A 3. melléklet a 64/2013. (X. 30.) NFM rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^15]: A 3. melléklet a 64/2013. (X. 30.) NFM rendelet 11. § (4) bekezdésével megállapított szöveg.
