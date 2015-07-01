@@ -18,7 +18,7 @@ bc) a „D” kategóriánál – a járművezető által végezhető tevékenys
 
 A nemzeti kategóriára érvényesített vezetői engedély csak belföldön történő járművezetésre jogosít.
 
-(4) A vezetői engedély a személyazonosság igazolására a kiállításától számított tíz évig, a 70. életévüket betöltöttek esetében határidő nélkül alkalmas.
+(4)[^13] A vezetői engedély a személyazonosság igazolására a kiállításától számított tíz évig, a 65. életévüket betöltöttek esetében határidő nélkül alkalmas.
 
 (5) A vezetői engedély vezetési jogosultság igazolására a következő határidőig alkalmas:
 
@@ -32,3 +32,4 @@ b) a nemzeti kategóriában – a „TR” és „V” kategória kivételével 
 [^10]: Az 5. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^11]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^12]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^13]: Az 5. § (4) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.

@@ -62,7 +62,7 @@
 
 ## 10. A jártassági feltételek teljesítésének kell tekinteni azt az esetet is, ha a járművezető a feltételül szabott járműkategóriára érvényes vizsgával rendelkezik.
 
-8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^152]
+8. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^153]
 
 ## A kártya formátumú vezetői engedélybe bejegyezhető kódok jegyzéke
 
@@ -376,4 +376,4 @@
 
 270 A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
 
-[^152]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja, a 90/2015. (IV. 9.) Korm. rendelet 14. § (6) bekezdése és 16. § f) pontja szerint módosított szöveg.
+[^153]: A 8. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 7. § (18) bekezdése, az 544/2013. (XII. 30.) Korm. rendelet 41. § (2) bekezdése és a 43. § b) pontja, a 90/2015. (IV. 9.) Korm. rendelet 14. § (6) bekezdése és 16. § f) pontja szerint módosított szöveg.

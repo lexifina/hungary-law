@@ -54,6 +54,6 @@
 
 ## A mellékletben szereplő közúti járművek fogalmára a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet rendelkezései vonatkoznak.
 
-3. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^147]
+3. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^148]
 
-[^147]: A 3. mellékletet a 122. § (5) bekezdése hatályon kívül helyezte.
+[^148]: A 3. mellékletet a 122. § (5) bekezdése hatályon kívül helyezte.

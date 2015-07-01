@@ -2,9 +2,9 @@
 
 29. § (1) A a következő határidőig jogosítanak vezetésre:
 
-a)[^41]
+a)[^42]
 
-b)[^42] a vezetői engedély kategória érvényessége az előírt orvosi vizsgálaton megállapított egészségi alkalmassági időpontig, de legfeljebb a C1, a C1E, a C, a CE, a D1, a D1E, a D és a DE vezetői engedély kategóriák esetében a vezetői engedély kiállításától számított öt évig, egyéb nemzetközi vezetői engedély kategóriák esetében legfeljebb tíz évig,
+b)[^43] a vezetői engedély kategória érvényessége az előírt orvosi vizsgálaton megállapított egészségi alkalmassági időpontig, de legfeljebb a C1, a C1E, a C, a CE, a D1, a D1E, a D és a DE vezetői engedély kategóriák esetében a vezetői engedély kiállításától számított öt évig, egyéb nemzetközi vezetői engedély kategóriák esetében legfeljebb tíz évig,
 
 c) nemzeti kategóriában – a „TR” és „V” kategória kivételével – a vezetői engedély érvényességi időpontjáig, de legfeljebb a vezetői engedély kiállítását követő tíz évig.
 
@@ -16,5 +16,5 @@ c) nemzeti kategóriában – a „TR” és „V” kategória kivételével �
 
 (5) A vezetői engedély kiállítása során annak érvényességi idejét az ügyfél kérelmére úgy kell meghatározni, hogy a lejáratának időpontja megegyezzen az 5. melléklet C. pontja szerinti vezetői engedély 11. sorában feltüntetett kategória érvényesség időpontjával.
 
-[^41]: A 29. § (1) bekezdés a) pontját az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^42]: A 29. § (1) bekezdés b) pontja a 90/2015. (IV. 9.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^42]: A 29. § (1) bekezdés a) pontját az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^43]: A 29. § (1) bekezdés b) pontja a 90/2015. (IV. 9.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.

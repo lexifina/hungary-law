@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2014-09-05 | 2011-326-20-22.24 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2011-326-20-22.25 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-04-10 | 2011-326-20-22.26 | 90/2015. (IV. 9.) Korm. rendelet |
+| 2015-07-01 | 2011-326-20-22.27 | 90/2015. (IV. 9.) Korm. rendelet |
