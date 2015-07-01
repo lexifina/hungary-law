@@ -1,0 +1,1 @@
+A Kormány a társasházakról szóló 2003. évi CXXXIII. törvény 65. § 2. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
