@@ -6,6 +6,8 @@
 
 (3a) A Legfőbb Ügyészségen dolgozó alügyészt az illetményalap tíz–tizenöt százalékának megfelelő beosztási pótlék illeti meg. A pótlék alapilletmény jellegű.
 
+(3b) Az ügyészségi fogalmazó és az alügyész az illetményalap tíz százalékának megfelelő összegű munkaköri pótlékra jogosult. Az alügyész beosztási és munkaköri pótléka összesen nem lehet több a Legfőbb Ügyészségen az illetményalap tizenöt százalékánál.
+
 (4) Kiváló munkavégzés esetén és ügyészségi szolgálati viszonyban eltöltött legalább tíz év után az alügyésznek „főtanácsos” cím adományozható.
 
 (5) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta. A címpótlék alapilletmény jellegű.
