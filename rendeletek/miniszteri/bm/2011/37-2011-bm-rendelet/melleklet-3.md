@@ -116,9 +116,9 @@
 
 | 55. | Vezető technikus |  |  |  | * | * |  |  |  |  |  |  | * |  |  |
 
-## * Azon munkakörök, melyek nem tartoznak az igazságügyi és rendészeti miniszter felügyelete, irányítása alá tartozó fegyveres szerveknél rendszeresített hivatásos beosztásokról és a betöltésükhöz szükséges követelményekről szóló 19/2008. (IX. 18.) IRM rendeletben meghatározott szolgálati tevékenységek közé.
+## * Azon munkakörök, melyek nem tartoznak a büntetés-végrehajtási szervnél rendszeresített hivatásos szolgálati beosztásokat és az azok betöltéséhez szükséges képesítési követelményeket meghatározó miniszteri rendeletben meghatározott szolgálati tevékenységek közé.
 
-3. melléklet a 37/2011. (X. 28.) BM rendelethez[^13]
+3. melléklet a 37/2011. (X. 28.) BM rendelethez[^14]
 
 A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési osztályok, a közalkalmazotti munkakörök osztályba sorolása, megnevezése, továbbá a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési többletkövetelmények a vízügyi igazgatási szerveknél
 
@@ -784,4 +784,4 @@ A betölthető munkakörök és beosztások, az azokhoz tartozó fizetési oszt�
 
 | 331. | Zsilipőr | * |  |  |  |  |  |  |  |  |  |  |
 
-[^13]: A 3. mellékletet a 46/2012. (IX. 20.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^14]: A 3. mellékletet a 46/2012. (IX. 20.) BM rendelet 6. § (2) bekezdése iktatta be.
