@@ -6,11 +6,11 @@
 
 43. § (1) A szállítóvezetéken keletkező hálózati veszteség pótlása (beszerzése) a szállítási rendszerüzemeltető kötelezettsége.
 
-(2)[^139] Az elosztóvezetéken keletkező hálózati veszteség pótlása (beszerzése) a földgázelosztó kötelezettsége.
+(2)[^142] Az elosztóvezetéken keletkező hálózati veszteség pótlása (beszerzése) a földgázelosztó kötelezettsége.
 
 (3) A tárolókban keletkező földgáztárolói veszteség pótlása (beszerzése) a földgáztárolói engedélyes kötelezettsége.
 
-(4)[^140] A földgázelosztó, a földgáztárolói, valamint a rendszerüzemeltető köteles együttműködni annak érdekében, hogy az együttműködő földgázrendszeren ne keletkezzen az indokoltnál nagyobb mértékű hálózati veszteség.
+(4)[^143] A földgázelosztó, a földgáztárolói, valamint a rendszerüzemeltető köteles együttműködni annak érdekében, hogy az együttműködő földgázrendszeren ne keletkezzen az indokoltnál nagyobb mértékű hálózati veszteség.
 
-[^139]: A 43. § (2) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § m) pontja szerint módosított szöveg.
-[^140]: A 43. § (4) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § u) pontja szerint módosított szöveg.
+[^142]: A 43. § (2) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § m) pontja szerint módosított szöveg.
+[^143]: A 43. § (4) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § u) pontja szerint módosított szöveg.

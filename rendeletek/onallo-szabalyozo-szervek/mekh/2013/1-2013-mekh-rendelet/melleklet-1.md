@@ -1,3 +1,3 @@
-1. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^209]
+1. melléklet az 1/2013. (VII. 11.) MEKH rendelethez[^203]
 
-[^209]: Az 1. melléklet a 3/2014. (VI. 13.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^203]: Az 1. melléklet a 3/2014. (VI. 13.) MEKH rendelet 2. §-ával megállapított szöveg.

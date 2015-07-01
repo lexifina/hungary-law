@@ -1,6 +1,6 @@
-## 3/C. §[^38] A megszakítható szabványos kapacitástermék díja a 3/B. § (3) bekezdésében meghatározott, megfelelő időtávú kapacitástermék szállítási kapacitásdíjának 60. § (6) bekezdésben meghatározott módon számított értéke.
+## 3/C. §[^37] A megszakítható szabványos kapacitástermék díja a 3/B. § (3) bekezdésében meghatározott, megfelelő időtávú kapacitástermék szállítási kapacitásdíjának 17. §-ban meghatározott módon számított értéke.
 
-4. § (1)[^39] A Hivatal az egyetemes szolgáltatásra jogosult felhasználók ellátásának érdekében történő földgáz éves tárolói kapacitás-lekötés mértékét évente egyszer, május 1-jétől április 30-ig terjedő időszak vonatkozásában állapítja meg. A kapacitás-lekötés mértékének megállapításakor a Hivatal az adott év április 1. napján lekötött kapacitásokat veszi figyelembe a földgáztárolói engedélyessel egyeztetve.
+4. § (1)[^38] A Hivatal az egyetemes szolgáltatásra jogosult felhasználók ellátásának érdekében történő földgáz éves tárolói kapacitás-lekötés mértékét évente egyszer, május 1-jétől április 30-ig terjedő időszak vonatkozásában állapítja meg. A kapacitás-lekötés mértékének megállapításakor a Hivatal az adott év április 1. napján lekötött kapacitásokat veszi figyelembe a földgáztárolói engedélyessel egyeztetve.
 
 (2) Az (1) bekezdés szerinti mérték megállapítása érdekében
 
@@ -22,5 +22,5 @@ b) a rendszerhasználóként eljáró felhasználók
 
 (8) Amennyiben a (3) bekezdés szerinti mérték (tárgyidőszaki mérték) eltér a megelőző időszakra megállapított mértéktől, úgy a megelőző időszak április 1–30. napjaira vonatkozó tárolói kapacitás díjat a tárgyidőszaki mérték szerint korrigálni kell. A korrekció miatti elszámolást a földgáz tárolói engedélyeseknek legkésőbb június 15-ig kell megtenniük.
 
-[^38]: A 3/C. §-t a 6/2013. (XII. 16.) MEKH rendelet 3. §-a iktatta be, szövege a 12/2014. (XII. 13.) MEKH rendelet 17. § (1) bekezdése szerint módosított szöveg.
-[^39]: A 4. § (1) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § d) pontja szerint módosított szöveg.
+[^37]: A 3/C. §-t a 6/2013. (XII. 16.) MEKH rendelet 3. §-a iktatta be, szövege a 12/2014. (XII. 13.) MEKH rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^38]: A 4. § (1) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § d) pontja szerint módosított szöveg.

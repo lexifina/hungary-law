@@ -4,10 +4,10 @@
 
 (2) A földgázkereskedő az (1) bekezdés szerinti díjak tárgyhóra eső részét a tárgyhó első napján vele szerződéses jogviszonyban álló felhasználótól kérheti.
 
-(3) A földgáz ellátásba a gázév közben bekapcsolódó vagy többletkapacitást igénylő felhasználót ellátó földgázkereskedő – kivéve a 20 m3/h-nál kisebb névleges teljesítményű gázmérővel rendelkező felhasználó esetét – az éves alap- vagy kapacitásdíjat a gázév végéig köteles megfizetni.
-
-(4) A földgázellátásba a gázév közben bekapcsolódó vagy többletkapacitást igénylő 20 m3/h-nál kisebb névleges teljesítményű gázmérővel rendelkező felhasználót ellátó földgázkereskedő az éves alapdíj időarányos részét köteles megfizetni a vételezés megkezdésének hónapjától a gázév végéig. A megkezdett hónap egész hónapnak számít.
+(3)–(4)[^39]
 
 (5) A rendszerüzemeltető köteles a kereskedőváltás miatt szükséges kapacitás-lekötési szerződés-módosítást ellenszolgáltatás-mentesen lehetővé tenni.
 
 (6) A szolgáltatásból történő végleges kikapcsolást a gázév közben kérő felhasználót ellátó földgázkereskedő – kivéve a 20 m3/h-nál kisebb névleges teljesítményű gázmérővel rendelkező felhasználó esetét – az alapdíjat a gázév végéig, a kapacitásdíjat a teljes szerződési időszakra köteles megfizetni.
+
+[^39]: A 6. § (3)–(4) bekezdését a 2/2015. (IV. 14.) MEKH rendelet 21. § b) pontja hatályon kívül helyezte.

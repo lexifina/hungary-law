@@ -4,43 +4,43 @@
 
 | Elosztói terület | Ft/MJ |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,337 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,260 |
 
-| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,320 |
+| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,260 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,322 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,308 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,307 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,309 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,294 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,281 |
 
 ## A szállítás díja 0%-os reál hozamtényezővel kiszámítva:
 
 | Elosztói terület | Ft/MJ |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,186 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,119 |
 
-| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,178 |
+| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,119 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,179 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,140 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,172 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,141 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,166 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,128 |
 
 ## 2. Az R. 3/A. §-a szerinti visszatérítés mértéke
 
 | Elosztói terület | Ft/MJ |
 
-| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,151 |
+| E.ON Dél-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,141 |
 
-| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,142 |
+| E.ON Közép-dunántúli Gázhálózati Zártkörűen Működő Részvénytársaság és a Magyar Gázszolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,141 |
 
-| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,143 |
+| Égáz-Dégáz Földgázelosztó Zártkörűen Működő Részvénytársaság elosztói működési területén | 0,168 |
 
-| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,135 |
+| FŐGÁZ Földgázelosztási Korlátolt Felelősségű Társaság, az Ózdi Energiaszolgáltató és Kereskedelmi Korlátolt Felelősségű Társaság, az Alpiq Csepeli Erőmű Korlátolt Felelősségű Társaság és az ISD Power Energiatermelő és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,168 |
 
-| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,128 |
+| TIGÁZ-DSO Földgázelosztó Korlátolt Felelősségű Társaság és a Natural Gas Service Ipari és Szolgáltató Korlátolt Felelősségű Társaság elosztói működési területén | 0,153 |
 
 ## 3. Az R. 3/A. §-a szerinti visszatérítéshez kapcsolódó adatszolgáltatás
 
@@ -54,7 +54,7 @@
 
 | Zárt számla sorszám intervallum | Számlák darabszáma | Kedvezmény |
 
-| Nyító számlaszám | Záró számlaszám | Alapja (MJ) | Mértéke (Ft/MJ) | Értéke (Ft) |
+| nyitó számlaszám | záró számlaszám |  | Alapja (MJ) | Mértéke (Ft/MJ) | Értéke (Ft) |
 
 | Érvényesíthető kedvezmény alapja és értéke összesen: |  |  |  |
 
@@ -64,7 +64,7 @@
 
 | Zárt számla sorszám intervallum | Számlák darabszáma | Partner engedélyes neve | Kedvezmény |
 
-| Nyító számlaszám | Záró számlaszám | Alapja (MJ) | Mértéke (Ft/MJ) | Értéke (Ft) |
+| nyitó számlaszám | záró számlaszám |  |  | Alapja (MJ) | Mértéke (Ft/MJ) | Értéke (Ft) |
 
 | Érvényesíthető kedvezmény alapja és értéke összesen: |  |  |  |
 

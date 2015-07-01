@@ -1,11 +1,19 @@
-## 16. Az éves elosztási megszakítható kapacitás-lekötés szabályai az átadási-átvételi pontokon, kapacitáslekötés-típusonként
+## 16. [^129] Az elosztási kapacitásdíj fizetés szabályai átadás-átvételi pontokon, megszakítható kapacitáslekötés-típusonként
 
-33. §[^126] (1) A földgázelosztó egy adott hálózati pont és lekötési időszak vonatkozásában az e rendeletben rögzített megszakítható kapacitás típusok közül meghatározza az értékesíthető megszakítható kapacitás típusát. Az átadási-átvételi pontonként lekötött megszakítható órai kapacitások bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.
+33. § (1) Azokon a hálózati pontokon, amelyek vonatkozásában a földgázelosztó – az ÜKSZ-ben meghatározott módon – megszakítható kapacitás-lekötést tesz lehetővé, a megszakítható kapacitás díja minden kapacitástermék (éves, negyedéves, havi és napi kapacitás) esetén megegyezik a 2. melléklet IV.1. pontjában meghatározott elosztási kapacitásdíjjal.
 
-(2) Ha a szerződés a megszakítást a téli fogyasztási időszakban és legfeljebb összesen 10 gáznap időtartamra teszi lehetővé, akkor a megszakítható kapacitás díja a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 90%-a.
+(2) Amennyiben az ÜKSZ-ben rögzített szabályoknak megfelelően a kapacitás megszakítására kerül sor, a földgázelosztó köteles a megfizetett elosztási díj a)–d) pont szerinti csökkentésére
 
-(3) Ha a szerződés a megszakítást a téli fogyasztási időszakban és legfeljebb összesen 30 gáznap időtartamra teszi lehetővé, akkor a megszakítható kapacitás díja a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 50%-a.
+a) éves kapacitás megszakítása esetén a megszakítással érintett napokra, a megszakítás mértékéig, a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 1/365-öd részének 300%-ával,
 
-(4) Ha a szerződés a megszakítást a téli fogyasztási időszakban és összesen 30 gáznapnál hosszabb időtartamra teszi lehetővé, akkor a megszakítható kapacitás díja a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 10%-a.
+b) negyedéves kapacitás megszakítása esetén a megszakítással érintett napokra, a megszakítás mértékéig, a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 1/365-öd részének 200%-ával,
 
-[^126]: A 33. § a 2/2015. (IV. 14.) MEKH rendelet 12. § (1) bekezdésével megállapított szöveg.
+c) havi kapacitás megszakítása esetén a megszakítással érintett napokra, a megszakítás mértékéig, a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 1/365-öd részének 150%-ával,
+
+d) napi kapacitás megszakítása esetén a megszakítással érintett órákra, a megszakítás mértékéig, a 2. melléklet IV.1. pontjában meghatározott éves elosztási kapacitásdíj 1/365-öd rész huszonnegyed részének 130%-ával.
+
+(3) A díjcsökkentés maximális mértéke a kapacitástermék 2. melléklet IV.1. pontjában meghatározott elosztási kapacitásdíjának 100%-a.
+
+(4) A földgázelosztó az ÜKSZ-ben rögzített szabályok szerint, a 2. § (1) bekezdés v) pontjában rögzített szerződési időszakban, az elosztási kapacitásdíj 100%-kal történő csökkentése esetén is köteles a 26. §-ban rögzítettek szerint megszakítható kapacitást biztosítani.
+
+[^129]: A 16. alcím (33. §) a 2/2015. (IV. 14.) MEKH rendelet – 3/2015. (VI. 12.) MEKH rendelet 14. §-a szerint módosított – 12. § (2) bekezdésével megállapított szöveg.
