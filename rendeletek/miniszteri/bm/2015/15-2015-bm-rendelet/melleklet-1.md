@@ -64,6 +64,8 @@ B) Rendvédelmi szervek
 
 1.1.6. a bűnügyi felderítő és az értékelő-elemző feladattal foglalkozó munkakör
 
+1.1.7.[^1] a leltározási feladatokat ellátó munkakör
+
 1.2. az Országos Rendőr-főkapitányság munkakörei közül
 
 1.2.1. a vezetői munkakört betöltő, valamint a helyettesítésére kijelölt munkakör
@@ -72,7 +74,7 @@ B) Rendvédelmi szervek
 
 1.2.3. a Biztonság-felügyeleti és Ügykezelési Osztály valamennyi munkaköre
 
-1.2.4. a Bűnügyi Főigazgatóság Bűnügyi Főosztály Bűnügyi Osztálya, a Korrupció és Gazdasági Bűnözés Elleni Osztály, a Bűnügyi Elemző-Értékelő Főosztály Bűnügyi Adatkezelési és Alkalmazás Felügyeleti Osztálya, a Bűnügyi Ellátó Igazgatóság és a Kiemelt Élettelenes Ügyeket Felderítő Főosztály, a Nemzetközi Bűnügyi Együttműködési Központ Nemzetközi Információs Osztálya, a Nemzetközi Bűnügyi Együttműködési Központ Körözési Nyilvántartó és Szakirányító Osztály Adatkezelő és Alkalmazás-felügyeleti Alosztálya valamennyi munkaköre
+1.2.4.[^2] a Bűnügyi Főigazgatóság Bűnügyi Főosztály Bűnügyi Osztálya, a Korrupció és Gazdasági Bűnözés Elleni Osztály, a Bűnügyi Elemző-Értékelő Főosztály Bűnügyi Adatkezelési és Alkalmazás Felügyeleti Osztálya valamennyi munkaköre
 
 1.2.5. Bűnügyi Technikai Osztály hivatásos munkakörei, a Bűnügyi Koordinációs Osztály vezetője és helyettese, a Budapesti Rendőr-főkapitányság Hivatala Titokvédelmi, Ügykezelési és Kártérítési Osztály vezetője
 
@@ -90,17 +92,15 @@ B) Rendvédelmi szervek
 
 1.3.4. a Nemzeti Nyomozó Iroda valamennyi munkaköre
 
+1.3.5.[^3] a Gazdasági Ellátó Központban a közbeszerzési és EU pályázati eljárásban résztvevő munkakör és a leltározási feladatokat ellátó munkakör
+
+1.3.6.[^4] a Kiemelt Ügyeket Felderítő Főosztály valamennyi munkaköre
+
 1.4. a Repülőtéri Rendőr Igazgatóság munkakörei közül
 
 1.4.1. a Bűnügyi Igazgatóság CCTV és Készenléti Alosztálya valamennyi munkaköre
 
-1.5. a Központi Gazdasági Ellátó Igazgatóság munkakörei közül
-
-1.5.1. a vezetői munkakört betöltő, valamint a helyettesítésükre kijelölt munkakör
-
-1.5.2. a közbeszerzési és EU pályázati eljárásban résztvevő munkakör
-
-1.5.3. leltározási feladatokat ellátó munkakör
+1.5.[^5]
 
 1.6. a Bűnügyi Szakértői és Kutatóintézet munkakörei közül
 
@@ -119,6 +119,18 @@ B) Rendvédelmi szervek
 1.7.3. a Budapesti Rendőr-főkapitányság Bűnügyi Szervek Korrupciós és Gazdasági Bűnözés Elleni Főosztály, a Felderítő Főosztály, az Értékelő Osztály, valamint a Bűnügyi Bevetési Osztály valamennyi munkaköre
 
 1.7.4. a rendőrkapitányságokon és határrendészeti kirendeltségeken a közlekedésrendészeti, igazgatásrendészeti osztályok vezetőinek kivételével a vezetői munkakör, valamint a helyettesítésükkel megbízott munkakör
+
+1.8.[^6] A Nemzetközi Bűnügyi Együttműködési Központ munkakörei közül:
+
+1.8.1. az igazgató és az igazgatóhelyettes;
+
+1.8.2. a Nemzetközi Bűnügyi Együttműködési Központ Nemzetközi Bűnügyi Igazgatóság Nemzetközi Információs Osztálya valamennyi munkaköre;
+
+1.8.3. a Nemzetközi Bűnügyi Együttműködési Központ Nemzetközi Bűnügyi Igazgatóság Körözési Nyilvántartó és Szakirányító Főosztály Adatkezelő és Alkalmazás-felügyeleti Osztálya valamennyi munkaköre;
+
+1.8.4. a Nemzetközi Bűnügyi Együttműködési Központ Bűnügyi Ellátó Igazgatóság valamennyi munkaköre.
+
+1.9.[^7] A Rendőrségi Oktatási és Kiképző Központ munkakörei közül a vezetői munkakörök, valamint a helyettesítésükre kijelölt munkakörök
 
 2. A büntetés-végrehajtási szervezet
 
@@ -243,3 +255,11 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 4.1. a főigazgató és a főigazgató-helyettes
 
 4.2. az ILEA Magyar Titkárság, a KERA Magyar Nemzeti Iroda, a CEPOL Magyar Nemzeti Iroda osztályvezetői
+
+[^1]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.1. pont 1.1.7. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (1) bekezdése iktatta be.
+[^2]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.1. pont 1.2.4. alpontja a 37/2015. (VI. 16.) BM rendelet 85. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.1. pont 1.3.5. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (3) bekezdése iktatta be.
+[^4]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.1. pont 1.3.6. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (3) bekezdése iktatta be.
+[^5]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.5. alpontját a 37/2015. (VI. 16.) BM rendelet 86. §-a hatályon kívül helyezte.
+[^6]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.8. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (4) bekezdése iktatta be.
+[^7]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.9. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (4) bekezdése iktatta be.
