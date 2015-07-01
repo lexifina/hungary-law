@@ -1,0 +1,5 @@
+3. § (1) Ha az Országgyűlési Őrség parancsnoka a magáncélú telekommunikációs eszközök szolgálatellátás során történő birtoklását a Hszt. 30. §-a alapján korlátozza, a korlátozás a (2) vagy a (3) bekezdés szerinti esetekre nem terjed ki.
+
+(2) Ha a hivatásos állomány korlátozással érintett tagja esetében olyan egyedi méltánylást érdemlő körülmény merül fel, amely miatt indokolt biztosítani a hivatásos állomány tagjának a magáncélú telekommunikációs eszköz útján történő elérhetőségét, azt a hivatásos állomány tagjának erre irányuló írásbeli kérelmére a szolgálati elöljárója meghatározott időszakra írásban engedélyezheti. Ha a körülmények az írásbeli engedélyezést nem teszik lehetővé, a szolgálati elöljáró szóban is engedélyezheti a magáncélú telekommunikációs eszköz használatát. Az írásbeli engedélyt az akadályoztatás elhárulását követően soron kívül pótolni kell.
+
+(3) Ha a szolgálat ellátására olyan helyen kerül sor, ahol a szolgálati célú telekommunikációs eszközökkel a hivatásos állomány tagjának folyamatos elérhetősége nem biztosítható, a szolgálati elöljáró a magáncélú telekommunikációs eszköz birtokban tartását engedélyezheti.
