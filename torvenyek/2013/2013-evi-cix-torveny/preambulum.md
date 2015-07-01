@@ -1,1 +1,0 @@
-(A COTIF C Függelék Melléklete 2013. évi módosításai 2013. január 1-jén hatályba léptek azzal, hogy a COTIF C Függelék Mellékletének 2012. december 31-ig hatályos előírásai 2013. június 30-ig alkalmazhatók.)
