@@ -8,7 +8,7 @@ c) időszakosan a hivatásos szolgálati jogviszony fennállása alatt,
 
 d) hivatásos állományba véglegesítés előtt,
 
-e) más fegyveres szervtől és a Magyar Honvédségtől áthelyezés előtt,
+e)[^19] más rendvédelmi feladatokat ellátó szervtől és a Magyar Honvédségtől áthelyezés előtt,
 
 f) beosztás változását megelőzően,
 
@@ -25,3 +25,4 @@ k) e rendeletben meghatározott esetekben soron kívül.
 (2) A vizsgálatot végző a vizsgálat megkezdése előtt ellenőrzi a vizsgálatra rendelt személy személyazonosságát.
 
 [^18]: A 4. § (1) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 2. §-ával megállapított szöveg.
+[^19]: A 4. § (1) bekezdés e) pontja a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés a) pontja szerint módosított szöveg.

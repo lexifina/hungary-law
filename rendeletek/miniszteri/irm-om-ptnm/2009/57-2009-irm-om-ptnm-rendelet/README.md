@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-57-20-1
 | 2013-01-01 | 2009-57-20-1U.11 | 56/2012. (XI. 22.) BM rendelet |
 | 2013-03-01 | 2009-57-20-1U.12 | 56/2012. (XI. 22.) BM rendelet |
 | 2014-01-01 | 2009-57-20-1U.13 | 71/2013. (XII. 16.) BM rendelet |
+| 2015-07-01 | 2009-57-20-1U.14 | 37/2015. (VI. 16.) BM rendelet |

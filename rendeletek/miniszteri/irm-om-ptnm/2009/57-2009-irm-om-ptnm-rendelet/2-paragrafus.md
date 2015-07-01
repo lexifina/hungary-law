@@ -8,7 +8,7 @@ c)[^9] alapellátó orvos: a rendvédelmi szerv, illetve a polgári nemzetbizton
 
 d)[^10] alapellátó pszichológus: a rendvédelmi szerv, illetve a polgári nemzetbiztonsági szolgálatok illetékes pszichológusa; az Országgyűlési Őrség vonatkozásában a rendőrséggel kötött megállapodás alapján a rendőrség illetékes pszichológusa,
 
-e)[^11] fegyveres szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség, valamint a polgári nemzetbiztonsági szolgálatok,
+e)[^11] rendvédelmi feladatokat ellátó szerv: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 1. § (1) bekezdésében meghatározott szervek,
 
 f) szolgálati kötelmekkel összefüggő baleset: az a hivatásos állomány tagját ért baleset, amelyet a munkavédelemről szóló törvény és végrehajtási rendelete munkabalesetként, illetve szolgálati kötelmekkel összefüggő balesetként meghatároz.
 
@@ -16,4 +16,4 @@ f) szolgálati kötelmekkel összefüggő baleset: az a hivatásos állomány ta
 [^8]: A 2. § b) pontja a 10/2010. (XII. 22.) BM rendelet 2. §-ával megállapított, az 56/2012. (XI. 22.) BM rendelet 159. § f) pontja szerint módosított szöveg.
 [^9]: A 2. § c) pontja az 56/2012. (XI. 22.) BM rendelet 159. § g) pontja szerint módosított szöveg.
 [^10]: A 2. § d) pontja az 56/2012. (XI. 22.) BM rendelet 159. § h) pontja szerint módosított szöveg.
-[^11]: A 2. § e) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § i) pontja szerint módosított szöveg.
+[^11]: A 2. § e) pontja a 37/2015. (VI. 16.) BM rendelet 42. §-ával megállapított szöveg.
