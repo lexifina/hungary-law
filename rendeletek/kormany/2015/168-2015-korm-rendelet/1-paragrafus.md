@@ -1,5 +1,1 @@
-## 1.[^1]
-
-1. §
-
-[^1]: Az 1. alcím (1. §) a 6. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+## 1. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet módosítása

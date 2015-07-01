@@ -1,5 +1,1 @@
-## 5.[^5]
-
-5. §
-
-[^5]: Az 5. alcím (5. §) a 6. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+## 5. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet módosítása

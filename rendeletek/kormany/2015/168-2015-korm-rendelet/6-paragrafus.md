@@ -1,3 +1,5 @@
+## 5. § A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 46. § (2) bekezdésében a „hatályban lévő” szövegrész helyébe „hatályban lévő, vagy a (3) bekezdés szerint elfogadott” szöveg lép.
+
 ## 6. Záró rendelkezések
 
 6. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetése napján 18 órakor lép hatályba.
