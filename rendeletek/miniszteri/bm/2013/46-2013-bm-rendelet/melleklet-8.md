@@ -1,4 +1,4 @@
-8. melléklet a 46/2013. (VIII. 16.) BM rendelethez
+8. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^28]
 
 ## Szervezeti működés teljesítmény-indikátorai
 
@@ -14,7 +14,7 @@ I. Az Országgyűlési Őrség vezetői tevékenységét értékelő teljesítm�
 
 5. a nemzetközi kapcsolatépítés értékelése
 
-6. az Őrség költségvetésének magalapozott, hatékony felhasználásának értékelése
+6. az Országgyűlési Őrség költségvetésének magalapozott, hatékony felhasználásának értékelése
 
 II. Az Országgyűlési Őrség funkcionális területét értékelő teljesítmény-indikátorok
 
@@ -34,7 +34,7 @@ II. Az Országgyűlési Őrség funkcionális területét értékelő teljesítm
 
 2.2 koordinációs feladatok végrehajtásának értékelése
 
-2.3. jogi képviseleti, kártérítési ügyek vitelének eredményességének értékelése
+2.3. jogi képviseleti, kártérítési ügyek vitele eredményességének értékelése
 
 2.4 fegyelmi ügyek ügyvitelének értékelése
 
@@ -42,7 +42,7 @@ II. Az Országgyűlési Őrség funkcionális területét értékelő teljesítm
 
 3.1. híradó- és biztonságtechnikai szolgáltatások biztonságának értékelése
 
-3.2. biztonságtechnikai eszközök telepítés és karbantartás szakszerűségének értékelése
+3.2. biztonságtechnikai eszközök telepítése és karbantartása szakszerűségének értékelése
 
 3.3. a biztonságtechnikai eszközökkel való felelős gazdálkodás megvalósításának értékelése
 
@@ -50,7 +50,7 @@ II. Az Országgyűlési Őrség funkcionális területét értékelő teljesítm
 
 3.5. az Országgyűlési Őrség funkcionális feladatait támogató informatikai alrendszerek szakszerű üzemeltetésének értékelése
 
-3.6. az Országgyűlési Őrség arculatának kialakításához szükséges feladatok végrehajtásának értékelése
+3.6. az Országgyűlési Őrség arculatának kialakításához szükséges feladatok végrehajtása értékelése
 
 4. Adatvédelem, ügykezelés
 
@@ -82,7 +82,7 @@ III. Az Országgyűlési Őrség szakmai tevékenységét értékelő teljesítm
 
 5.8. a kijelölt létesítményekkel kapcsolatos hely- és személyismeret értékelése
 
-5.9. a szolgálati helyen a meghatározott feladatok végrehajtásának szakszerűségének és alakiságának értékelése
+5.9. a szolgálati helyen a meghatározott feladatok végrehajtása szakszerűségének és alakiságának értékelése
 
 5.10. a biztonságtechnikai ellenőrző eszközök ismeretének, kezelésének értékelése
 
@@ -92,7 +92,7 @@ III. Az Országgyűlési Őrség szakmai tevékenységét értékelő teljesítm
 
 5.13. egyenruházattal kapcsolatos szakmai tevékenység értékelése
 
-5.14. az elektronikus beléptető rendszer, kezelési hatékonyságának és szakszerűségének értékelése
+5.14. az elektronikus beléptető rendszer kezelési hatékonyságának és szakszerűségének értékelése
 
 6. Személyvédelmi terület
 
@@ -105,3 +105,5 @@ III. Az Országgyűlési Őrség szakmai tevékenységét értékelő teljesítm
 6.4. a védett személy biztosításával kapcsolatos rendkívüli események során alkalmazott intézkedések jogszerűségének, szakszerűségének értékelése
 
 6.5. a személyvédelemhez kapcsolódó megelőző-védelmi tevékenység eredményességének értékelése
+
+[^28]: A 8. melléklet a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 18. pontja szerint módosított szöveg.

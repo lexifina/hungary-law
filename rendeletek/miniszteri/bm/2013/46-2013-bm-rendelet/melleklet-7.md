@@ -1,54 +1,48 @@
 ## Összesített értékelő lap
 
-|  | s.sz. | Értékelési modul | Az értéke- lés ideje | Az értékelő funkciója | Teljesítményfokozatok |
+|  | s.sz. | Értékelési modul |  |  | Teljesítményfokozatok |
 
-| 100% |  | 0% |
+| Az értéke- lés ideje | Az értékelő funkciója | 100% | <-------------------------------------------------------------------------------------------------------- | 0% |
 
 | kivételes teljesítmény | jó teljesítmény | megfelelő teljesítmény | átlag alatti teljesítmény | elfogadhatatlan teljesítmény |
 
 |  | A teljesítményértéke- lés kötelező elemei |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| A teljesítményértékelés kötelező elemei | 1. | munkaköri egyéni teljesítménykövetel-mények mérésének, illetve értékelésének eredménye | … | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A tel- je- sít- mény- érté- kelés kö- te- lező ele- mei | 1. | munkaköri egyéni teljesítménykövetelmények mérésének, illetve értékelésének eredménye | év vége | értékelő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| félév |
+|  |  | vezető értékelése |
 
-| … |
+| 2. | kompetencia alapú |  | értékelő |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | munka-magatartás értékelésének | vezető |
 
-| 2. | kompetencia alapú munka-magatartás értékelésének eredménye | … | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| értékelése |
 
-| félév |
+|  | eredménye | év vége |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| … |
+|  | a teljesítmény- értékelés kötelező elemei minősíté- sének az eredménye | év vége | értékelő vezető értéke- lése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  | a teljesítményértéke- lés kötelező elemei minősítésének az eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| A teljesítményértékelés ajánlott elemei | 1. | kompetenciaszintek eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A tel- je- sít- mény- érté- kelés aján- lott ele- mei | 1. | kompetenciaszintek eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 2. | fejlesztési célok értékelésének eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 3. | stratégiai egyéni teljesítménykövetel- mények értékelésének eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | év közbeni többletfeladatok értékelésének eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. | év közbeni többletfeladatok értékelésének eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | a teljesítményértéke- lés ajánlott elemei minősítésének az eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | a teljesítmény- értékelés ajánlott elemei minősíté- sének az eredménye | év vége | értékelő vezető értéke- lése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  | Teljesítményértékelés eredménye | év vége | értékelő vezető értékelése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Teljesítményérté- kel és eredménye | év vége | értékelő vezető értéke- lése |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  |  |  |  |  | kivételes teljesítmény 100-91 % | jó teljesítmény 90-71 % | megfelelő teljesítmény 70-51 % | átlag alatti teljesítmény 50-41 % | elfogadhatatlan teljesítmény 40-0 % % |
+|  |  |  |  |  | kivételes teljesítmény 100-91% | jó teljesítmény 90-71% | megfelelő teljesítmény 70-51% | átlag alatti teljesítmény 50-41% | elfogadhatatlan teljesítmény 40-0% % |
 
-|  |  |  |  | 100- 99 | 98- 97 | 96- 95 | 94- 93 | 92- 91 | 90- 87 | 86- 83 | 82- 79 | 78- 75 | 74- 71 | 70- 67 | 66- 63 | 62- 59 | 58- 55 | 54- 51 | 50- 49 | 48- 47 | 46- 45 | 44- 43 | 42- 41 | 40- 33 | 32- 25 | 24- 17 | 16- 9 | 8-0 |
+|  |  |  |  |  | 100- 99 | 98- 97 | 96- 95 | 94- 93 | 92- 91 | 90- 87 | 86- 83 | 82- 79 | 78- 75 | 74- 71 | 70- 67 | 66- 63 | 62- 59 | 58- 55 | 54- 51 | 50- 49 | 48- 47 | 46- 45 | 44- 43 | 42- 41 | 40- 33 | 32- 25 | 24- 17 | 16- 9 | 8-0 |
 
-## Kelt,…………….év………..hó…….nap
+## Kelt, ................ év ........... hó ....... nap
 
-| ……………….. | …………………. |
+| ........................................................... értékelt személy | ........................................................... értékelő vezető |
 
-| értékelt személy | értékelő vezető |
-
-7. melléklet a 46/2013. (VIII. 16.) BM rendelethez
+7. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^27]
 
 ## MINŐSÍTŐ LAP
 
@@ -72,7 +66,7 @@ Minősítés
 
 Az értékelő vezető javaslata:
 
-(a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 82. § (5) bekezdése, valamint az Országgyűlési Őrség hivatásos állománya egyéni teljesítményértékelésének ajánlott elemeiről, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 46/2013. (VIII. 16.) BM rendelet 8. § (2) bekezdése alapján)
+(a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 112. § (3) bekezdése, valamint az Országgyűlési Őrség hivatásos állománya egyéni teljesítményértékelésének ajánlott elemeiről, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 46/2013. (VIII. 16.) BM rendelet 8. § (2) bekezdése alapján)
 
 A minősítést jóváhagyásra javasolom:
 
@@ -88,7 +82,7 @@ dátum, parancsnok aláírása
 
 _________________________________________________________________________
 
-Tájékoztatom, hogy a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 83. § (3) bekezdése alapján a minősítésben foglaltakkal szemben szolgálati panasszal élhet.
+Tájékoztatom, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 113. § (2) bekezdése alapján a minősítésben foglaltakkal szemben szolgálati panasszal élhet.
 
 Záradék:
 
@@ -97,3 +91,5 @@ A minősítéssel kapcsolatos észrevételeim:
 A minősítésben foglaltakat megismertem, a tájékoztatás tudomásul vettem, a minősítés egy példányát átvettem.
 
 dátum, minősített aláírása
+
+[^27]: A 7. melléklet a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 17. pontja szerint módosított szöveg.

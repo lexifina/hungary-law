@@ -1,3 +1,6 @@
-17. § (1) Az Országgyűlési Őrség parancsnoka tárgyév november 30-ig összeállítja és az Országgyűlési Őrség intranetes oldalán közzéteszi a szakmai teljesítménykövetelmény-minimumok teljesülésének méréséhez szükséges adatokat.
+17. § (1)[^23] Az Országgyűlési Őrség parancsnoka a tárgyév november 30-ig összeállítja és az Országgyűlési Őrség intranetes oldalán közzéteszi a szakmai teljesítménykövetelmény-minimumok teljesülésének méréséhez szükséges adatokat.
 
-(2) Az Országgyűlés elnöke – az Országgyűlési Őrség parancsnokának előterjesztése alapján – tárgyévet követő év január 8-ig értékeli az Országgyűlési Őrség teljesítményét.
+(2)[^24] Az Országgyűlés elnöke – az Országgyűlési Őrség parancsnokának előterjesztése alapján – a tárgyévet követő év január 8-ig értékeli az Országgyűlési Őrség teljesítményét.
+
+[^23]: A 17. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^24]: A 17. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 16. pontja szerint módosított szöveg.
