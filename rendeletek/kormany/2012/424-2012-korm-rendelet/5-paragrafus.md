@@ -4,7 +4,7 @@
 
 (2) Az állami adóhatóság a 4. § szerinti adatszolgáltatási kötelezettségének havonta, a Katv. 7. §-a és 8. § (11) bekezdése szerinti bejelentés benyújtására előírt határidőt követő hónap utolsó napjáig tesz eleget, amennyiben az adatszolgáltatás alapjául szolgáló adatot az állami adóhatósághoz a tárgyhónapban jelentették be.
 
-(3)[^28] Az állami adóhatóság az egészségbiztosítási szerv részére a biztosítotti nyilvántartás vezetése érdekében haladéktalanul elektronikus úton – a kisadózó vállalkozás elnevezésének és adószámának megjelölésével – átadja a kisadózó vállalkozások Katv. 7. §-a és 8. § (11) bekezdése szerinti bejelentéseinek adattartalma alapján
+(3)[^29] Az állami adóhatóság az egészségbiztosítási szerv részére a biztosítotti nyilvántartás vezetése érdekében haladéktalanul elektronikus úton – a kisadózó vállalkozás elnevezésének és adószámának megjelölésével – átadja a kisadózó vállalkozások Katv. 7. §-a és 8. § (11) bekezdése szerinti bejelentéseinek adattartalma alapján
 
 a) a főállású kisadózó természetes személyazonosító adatait, és társadalombiztosítási azonosító jelét,
 
@@ -16,4 +16,4 @@ bb) a kisadózó adóalanyisága megszűnt, illetve
 
 c) az egyéni vállalkozói tevékenység szünetelésének kezdetére és végére vonatkozó adatot.
 
-[^28]: Az 5. § (3) bekezdését az 59/2015. (III. 24.) Korm. rendelet 2. §-a iktatta be.
+[^29]: Az 5. § (3) bekezdését az 59/2015. (III. 24.) Korm. rendelet 2. §-a iktatta be.

@@ -1,5 +1,5 @@
 7. § (1) Az állami adóhatóság 2013. február 28-ig megállapodásokat köt szervenként a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervvel, az egészségbiztosítási szervvel, a rehabilitációs hatósággal, az állami foglalkoztatási szervvel és a munkaügyi hatósággal az adatátadás formájáról, formátumáról, az adatok fogadásáról, az átadásra kerülő adatállományok minőségéről, az adatvizsgálat során alkalmazandó minőségi paraméterek meghatározásáról.
 
-(2)[^29] Az érintett felek az (1) bekezdés szerinti megállapodást kötelesek felülvizsgálni, szükség esetén módosítani.
+(2)[^30] Az érintett felek az (1) bekezdés szerinti megállapodást kötelesek felülvizsgálni, szükség esetén módosítani.
 
-[^29]: A 7. § (2) bekezdése az 538/2013. (XII. 30.) Korm. rendelet 2. § 4. pontja, az 59/2015. (III. 24.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
+[^30]: A 7. § (2) bekezdése az 538/2013. (XII. 30.) Korm. rendelet 2. § 4. pontja, az 59/2015. (III. 24.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
