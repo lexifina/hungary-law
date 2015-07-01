@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-79-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-06-30 | 2015-79-20-22.1 | 79/2015. (III. 31.) Korm. rendelet |
+| 2015-07-01 | 2015-79-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
