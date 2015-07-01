@@ -144,7 +144,7 @@
 
 ## A női állomány csak női ruházattal számolhat el. A II. pontban meghatározott ruházati termékeket gyűjtőfogalmakként kell értelmezni.
 
-12. melléklet a 71/2011. (XII. 31.) BM rendelethez[^74]
+12. melléklet a 71/2011. (XII. 31.) BM rendelethez[^75]
 
 Az egyenruházati termékek és ruházati felszerelések tervezett viselési ideje
 
@@ -234,4 +234,4 @@ Az egyenruházati termékek és ruházati felszerelések tervezett viselési ide
 
 |  | *Az egyenruházati cikkeknél és ruházati felszereléseknél meghatározott tervezett viselési idők, azt az időtartamot határozzák meg, aminek elteltét követően az állománynak a ruházati termékeket – ha a szolgálati feladatokat kizárólag adott ruházatban látja el – pótolni indokolt. Az azonos funkciójú (szolgálati, gyakorló, speciális, vagy munkaruházati) termékek vegyes használata mellett, a ruházati cikkek tervezett viselési ideje meghosszabbodik. A ruházati szemléken a pótlandó termékek körét a termékek használtsági foka alapján kell meghatározni, figyelembe véve a ruházati ellátmány összegét, terhelhetőségét. A szolgálati feladatok ellátása során megsérült ruházat – költségvetés részéről történő – kártérítésénél, a tervezett viselési időket figyelembe kell venni. |
 
-[^74]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 66/2014. (XII. 16.) BM rendelet 24. §-a iktatta be.
+[^75]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 66/2014. (XII. 16.) BM rendelet 24. §-a iktatta be.

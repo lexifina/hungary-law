@@ -14,6 +14,6 @@
 
 (7) Az alapellátás, az alapellátás kiegészítés, az átszerelés és a ruházati utánpótlási ellátmány kiadásának dokumentumait, továbbá készpénz kifizetés esetén az ezek összegével való elszámolás dokumentumait – a szolgálati jogviszony időtartama alatt – a ruházati elszámolási könyvben meg kell őrizni.
 
-(8)[^53] A ruházati szakszolgálat által készítendő nyilvántartásokat a Robotzsaru informatikai program Netzsaru felületén az arra kialakított menüpont rendszerbe állítását követően kell rögzíteni.
+(8)[^54] A ruházati szakszolgálat által készítendő nyilvántartásokat a Robotzsaru informatikai program Netzsaru felületén az arra kialakított menüpont rendszerbe állítását követően kell rögzíteni.
 
-[^53]: A 28. § (8) bekezdése a 35/2012. (VII. 13.) BM rendelet 10. §-ával megállapított szöveg.
+[^54]: A 28. § (8) bekezdése a 35/2012. (VII. 13.) BM rendelet 10. §-ával megállapított szöveg.

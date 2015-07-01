@@ -16,7 +16,7 @@
 
 a) tisztálkodó felszerelés (törölköző, szappan, fogkefe, fogkrém, WC papír, fésű, borotválkozó felszerelés/intim csomag),
 
-b)[^56] kétnapi hidegélelem – legalább 2 db melegíthető 400 gr-os készételkonzerv, 2 db 65 gr-os és 2 db 150 gr-os hús-, vagy zöldségkészítmény konzerv –, konzervnyitó,
+b)[^57] kétnapi hidegélelem – legalább 2 db melegíthető 400 gr-os készételkonzerv, 2 db 65 gr-os és 2 db 150 gr-os hús-, vagy zöldségkészítmény konzerv –, konzervnyitó,
 
 c) tisztító, karbantartó felszerelés (lábbeli tisztító- és varrókészlet),
 
@@ -34,4 +34,4 @@ d) füzet (A/5), íróeszköz.
 
 (11) A riadócsomag ellenőrzését a ruházati szemle során kell végrehajtani. Az ellenőrzésnek ki kell térnie a riadócsomag összetételére, minőségére és a szavatossági időre. A tapasztalt hiányosságok megszüntetésére az állományilletékes parancsnoknak azonnal intézkedni kell.
 
-[^56]: A 44. § (5) bekezdés b) pontja a 66/2014. (XII. 16.) BM rendelet 16. §-ával megállapított szöveg.
+[^57]: A 44. § (5) bekezdés b) pontja a 66/2014. (XII. 16.) BM rendelet 16. §-ával megállapított szöveg.

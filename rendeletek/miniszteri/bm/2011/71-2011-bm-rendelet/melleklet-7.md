@@ -48,6 +48,6 @@
 
 | * A tábornoki állomány alapellátási normabesorolása vegyes ruhás norma. |
 
-7–9. melléklet a 71/2011. (XII. 31.) BM rendelethez[^71]
+7–9. melléklet a 71/2011. (XII. 31.) BM rendelethez[^72]
 
-[^71]: A 7–9. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § e)–g) pontja hatályon kívül helyezte.
+[^72]: A 7–9. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § e)–g) pontja hatályon kívül helyezte.

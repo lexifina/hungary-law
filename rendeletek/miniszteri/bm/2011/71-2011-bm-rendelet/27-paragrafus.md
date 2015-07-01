@@ -1,6 +1,6 @@
 ## 14. A szolgálati viszony megszűnése esetén követendő eljárás
 
-27. § (1)[^51] Attól, akinek a szolgálati viszonya megszűnt, a kiadott ruházati termékeket és felszerelési cikkeket – a névkitűzők, ingek, blúzok, téli ingek, téli alsók, lábbelik, kesztyűk és zoknik kivételével – valamint a speciális szolgálati egyenruházatot azonnali hatállyal be kell vonni és azt az állomány további ellátására kell felhasználni. A ruházati elszámolást a szolgálati viszony megszűnésekor hatályos ruházati normatáblázat, valamint a két éven belüli átminősítés figyelembevételével kell végrehajtani.
+27. § (1)[^52] Attól, akinek a szolgálati viszonya megszűnt, a kiadott ruházati termékeket és felszerelési cikkeket – a névkitűzők, ingek, blúzok, téli ingek, téli alsók, lábbelik, kesztyűk és zoknik kivételével – valamint a speciális szolgálati egyenruházatot azonnali hatállyal be kell vonni és azt az állomány további ellátására kell felhasználni. A ruházati elszámolást a szolgálati viszony megszűnésekor hatályos ruházati normatáblázat, valamint a két éven belüli átminősítés figyelembevételével kell végrehajtani.
 
 (2) Az egy éven belüli leszerelőknek vissza kell fizetniük az egyenruházati termékek és a felszerelési cikkek vásárlására kifizetett összegből az esetleg még meg nem vásárolt termékekre és cikkekre eső teljes összeget.
 
@@ -12,7 +12,7 @@
 
 (6) Annak az igényjogosultnak, aki a leadásra kötelezett ruházati termékekkel és felszerelési cikkekkel nem tud elszámolni, a cikkek tárgyévi forintértékének 50%-át kell visszafizetnie.
 
-(7)[^52] A szolgálati jogviszony megszűnését követően a tulajdonban meghagyott ruházati termékeket és felszerelési cikkeket két évig meg kell őrizni. Két éven belül történt újbóli állományba vétel esetén – amennyiben az állományparancs másképp nem rendelkezik – a tulajdonban meghagyott ruházati termékek és felszerelési cikkek helyett az önálló szerv költségvetését terhelően másik nem adható ki. Erről az érintetteket írásban kell tájékozatni.
+(7)[^53] A szolgálati jogviszony megszűnését követően a tulajdonban meghagyott ruházati termékeket és felszerelési cikkeket két évig meg kell őrizni. Két éven belül történt újbóli állományba vétel esetén – amennyiben az állományparancs másképp nem rendelkezik – a tulajdonban meghagyott ruházati termékek és felszerelési cikkek helyett az önálló szerv költségvetését terhelően másik nem adható ki. Erről az érintetteket írásban kell tájékozatni.
 
-[^51]: A 27. § (1) bekezdése a 66/2014. (XII. 16.) BM rendelet 15. §-ával megállapított szöveg.
-[^52]: A 27. § (7) bekezdését a 35/2012. (VII. 13.) BM rendelet 9. § (2) bekezdése iktatta be.
+[^52]: A 27. § (1) bekezdése a 66/2014. (XII. 16.) BM rendelet 15. §-ával megállapított szöveg.
+[^53]: A 27. § (7) bekezdését a 35/2012. (VII. 13.) BM rendelet 9. § (2) bekezdése iktatta be.

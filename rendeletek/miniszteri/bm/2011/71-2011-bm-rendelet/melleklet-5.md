@@ -256,6 +256,6 @@
 
 ## 5. A hivatásos állomány részére, a szolgálati feladatok függvényében, a rendszeresítést követően – alegységkészletként – szolgálati csapadék ellen védő kabátot kell biztosítani.
 
-5. melléklet a 71/2011. (XII. 31.) BM rendelethez[^69]
+5. melléklet a 71/2011. (XII. 31.) BM rendelethez[^70]
 
-[^69]: Az 5. melléklet a 66/2014. (XII. 16.) BM rendelet 21. §-ával megállapított szöveg.
+[^70]: Az 5. melléklet a 66/2014. (XII. 16.) BM rendelet 21. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-18. § (1)[^23] A ruházati alap- és utánpótlási ellátmány – készpénzben kifizetett részének – felhasználását igazoló számlával az igényjogosultnak tárgyév november 15-ig kell elszámolnia.
+18. § (1)[^24] A ruházati alap- és utánpótlási ellátmány – készpénzben kifizetett részének – felhasználását igazoló számlával az igényjogosultnak tárgyév november 15-ig kell elszámolnia.
 
-(2)[^24] Ha az időarányos ruházati utánpótlási ellátmány kifizetésére tárgyév november 1-je és december 1-je között kerül sor, az igényjogosultnak a kifizetett összeggel, a kifizetés napjától számított 30 napon belül el kell számolnia. Az igényjogosult elhalálozása esetén a 27. § (5) bekezdése szerint kell eljárni.
+(2)[^25] Ha az időarányos ruházati utánpótlási ellátmány kifizetésére tárgyév november 1-je és december 1-je között kerül sor, az igényjogosultnak a kifizetett összeggel, a kifizetés napjától számított 30 napon belül el kell számolnia. Az igényjogosult elhalálozása esetén a 27. § (5) bekezdése szerint kell eljárni.
 
 (3) Amennyiben az igényjogosult részére történő kifizetés dátuma december hónapra esik, tájékoztatni kell az igényjogosultat a tárgyévben történő elszámolási kötelezettségéről.
 
@@ -14,5 +14,5 @@
 
 (8) Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Szervezett Bűnözés Elleni Koordinációs Központ és a Nemzeti Védelmi Szolgálat hivatásos állományú tagjának, a ruházati ellátmány jogszerű felhasználását az igényjogosult nevére és címére kiállított számlával kell igazolnia.
 
-[^23]: A 18. § (1) bekezdése a 66/2014. (XII. 16.) BM rendelet 10. §-ával megállapított szöveg.
-[^24]: A 18. § (2) bekezdése a 66/2014. (XII. 16.) BM rendelet 10. §-ával megállapított szöveg.
+[^24]: A 18. § (1) bekezdése a 66/2014. (XII. 16.) BM rendelet 10. §-ával megállapított szöveg.
+[^25]: A 18. § (2) bekezdése a 66/2014. (XII. 16.) BM rendelet 10. §-ával megállapított szöveg.

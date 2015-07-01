@@ -2,7 +2,7 @@
 
 ## 12. Az utánpótlás átmeneti szüneteltetésének szabályai
 
-25. § (1)[^48] Illetmény nélküli szabadságon lévő személy, továbbá a gyermekgondozási díjban (a továbbiakban: GYED), illetve gyermekgondozási segélyben (a továbbiakban: GYES) részesülők – a GYED és GYES melletti újbóli munkába állást kivéve – ruházati utánpótlási ellátmányt a távollétük egész időtartamára nem kaphatnak. A távollét időtartamát – összevontan – egész hónapokban kell számítani, a töredék hónap nem vehető figyelembe. A részükre előre kifizetett ruházati utánpótlási ellátmánynak azon részét, amelyre vonatkozóan a jogosultság nem áll fenn, túlellátásként kell előjegyezni, és a következő évi ruházati utánpótlási ellátmányból le kell vonni, illetve leszerelés esetén vissza kell téríttetni.
+25. § (1)[^49] Illetmény nélküli szabadságon lévő személy, továbbá a gyermekgondozási díjban (a továbbiakban: GYED), illetve gyermekgondozási segélyben (a továbbiakban: GYES) részesülők – a GYED és GYES melletti újbóli munkába állást kivéve – ruházati utánpótlási ellátmányt a távollétük egész időtartamára nem kaphatnak. A távollét időtartamát – összevontan – egész hónapokban kell számítani, a töredék hónap nem vehető figyelembe. A részükre előre kifizetett ruházati utánpótlási ellátmánynak azon részét, amelyre vonatkozóan a jogosultság nem áll fenn, túlellátásként kell előjegyezni, és a következő évi ruházati utánpótlási ellátmányból le kell vonni, illetve leszerelés esetén vissza kell téríttetni.
 
 (2) A szolgálati beosztásukból, vagy munkakörükből felfüggesztettek, továbbá az előzetes letartóztatásba helyezettek és a katonai fogdában letöltendő szabadságvesztésre ítéltek részére – függetlenül annak időtartamától – esedékessé váló ruházati utánpótlási ellátmányt vissza kell tartani.
 
@@ -12,14 +12,14 @@
 
 (5) Nem szünetel az ellátás azon igényjogosult részére:
 
-a)[^49] akit állományviszonya fenntartása mellett a Hszt. 49/B–49/G. §-ában meghatározottak szerint más szervhez vezényeltek,
+a)[^50] akit állományviszonya fenntartása mellett a Hszt. 62–64. §-ában meghatározottak szerint más szervhez vezényeltek,
 
 b) aki szülési szabadságát tölti, valamint
 
 c) aki betegállományban van.
 
-(6)[^50] Az igényjogosult a Hszt. 49/C. §-a alapján más szervhez történő vezénylése esetén az ellátást az állományilletékes szerv és a vezénylés helye szerinti szerv megállapodása alapján kell folyósítani. Amennyiben nem születik megállapodás, abban az esetben a ruházati utánpótlási ellátmány kifizetése az állományilletékes szervet terheli.
+(6)[^51] Az igényjogosult a Hszt. 63. §-a alapján más szervhez történő vezénylése esetén az ellátást az állományilletékes szerv és a vezénylés helye szerinti szerv megállapodása alapján kell folyósítani. Amennyiben nem születik megállapodás, abban az esetben a ruházati utánpótlási ellátmány kifizetése az állományilletékes szervet terheli.
 
-[^48]: A 25. § (1) bekezdése a 66/2014. (XII. 16.) BM rendelet 14. §-ával megállapított szöveg.
-[^49]: A 25. § (5) bekezdés a) pontja a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés c) pontja és (2) bekezdés c) pontja szerint módosított szöveg.
-[^50]: A 25. § (6) bekezdése a 35/2012. (VII. 13.) BM rendelet 8. §-ával megállapított és a 81/2012. (XII. 28.) BM rendelet 31. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^49]: A 25. § (1) bekezdése a 66/2014. (XII. 16.) BM rendelet 14. §-ával megállapított szöveg.
+[^50]: A 25. § (5) bekezdés a) pontja a 81/2012. (XII. 28.) BM rendelet 31. § (2) bekezdés c) pontja, a 37/2015. (VI. 16.) BM rendelet 53. § a) pontja szerint módosított szöveg.
+[^51]: A 25. § (6) bekezdése a 35/2012. (VII. 13.) BM rendelet 8. §-ával megállapított, a 37/2015. (VI. 16.) BM rendelet 53. § b) pontja szerint módosított szöveg.

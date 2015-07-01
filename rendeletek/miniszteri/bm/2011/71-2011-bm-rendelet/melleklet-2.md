@@ -744,6 +744,6 @@
 
 ## T: Vegyes ruhás alapellátási norma (Tábornoki állomány részére / férfi)
 
-2–3. melléklet a 71/2011. (XII. 31.) BM rendelethez[^67]
+2–3. melléklet a 71/2011. (XII. 31.) BM rendelethez[^68]
 
-[^67]: A 2–3. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § c)–d) pontja hatályon kívül helyezte.
+[^68]: A 2–3. mellékletet a 35/2012. (VII. 13.) BM rendelet 14. § c)–d) pontja hatályon kívül helyezte.

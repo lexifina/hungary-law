@@ -88,6 +88,6 @@
 
 | 11. | Téli ing |
 
-11. melléklet a 71/2011. (XII. 31.) BM rendelethez[^73]
+11. melléklet a 71/2011. (XII. 31.) BM rendelethez[^74]
 
-[^73]: A 11. melléklet a 66/2014. (XII. 16.) BM rendelet 23. §-ával megállapított szöveg.
+[^74]: A 11. melléklet a 66/2014. (XII. 16.) BM rendelet 23. §-ával megállapított szöveg.
