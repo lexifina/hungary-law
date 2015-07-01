@@ -2,6 +2,6 @@
 
 (2) E rendelet 2. §-ának (2) bekezdése 2008. március 30-án lép hatályba.
 
-(3)[^12]
+(3)[^13]
 
-[^12]: A 7. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 3. pontja hatályon kívül helyezte.
+[^13]: A 7. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 3. pontja hatályon kívül helyezte.
