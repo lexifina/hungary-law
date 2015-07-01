@@ -28,4 +28,6 @@ g) a kapcsolattartó nevét, telefonszámát.
 
 (5) Ha a távfelügyelet vagy az első fokú tűzvédelmi hatóság által a tűzátjelzés fogadásra meghatározott helyszín megváltozik, az új helyszínre az automatikus tűzátjelzés továbbítását 90 napon belül – a berendezés állandó felügyeletének folyamatos biztosítása mellett – kell megvalósítani.
 
-(6) Ha a tűzjelzés az állandó felügyeletről, telefonon, szóban történik, akkor az kizárólag a nemzeti segélyhívó számon történhet, és a (3) bekezdés szerint nyilvántartott adatokról a jelzésfogadót tájékoztatni kell.
+(6)[^1]
+
+[^1]: A 203. § (6) bekezdését a 288. § (2) bekezdése hatályon kívül helyezte.
