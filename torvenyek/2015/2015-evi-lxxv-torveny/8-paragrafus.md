@@ -1,0 +1,1 @@
+8. § Az 1. § (4) bekezdése, a 2. § (1) és (2) bekezdése, a 3. § (1) és (4) bekezdése és a 4. § (1) és (2) bekezdése és a 7. § az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül. A 6. § az Alaptörvény 38. cikk (2) bekezdése alapján sarkalatosnak minősül.
