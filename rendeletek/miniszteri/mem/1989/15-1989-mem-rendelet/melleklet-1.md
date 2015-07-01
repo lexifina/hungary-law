@@ -688,7 +688,7 @@
 
 | 9. | Sodronykötél-pálya |  | Erdészeti kötélpálya-kezelő | 31 6280 01 | Erdészeti gépésztechnikus |
 
-* A gépkezelői jogosítványt korábban megszerzett – egyenértékű – szakképesítés alapján is ki kell adni. Adott szakképesítés egyenértékűsége tekintetében – vitás esetben – a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet köteles állásfoglalást kérni a Vidékfejlesztési Minisztériumtól.
+* A gépkezelői jogosítványt korábban megszerzett – egyenértékű – szakképesítés alapján is ki kell adni. Adott szakképesítés egyenértékűsége tekintetében – vitás esetben – a Herman Ottó Intézet köteles állásfoglalást kérni a Földművelésügyi Minisztériumtól.
 
 9. Útépítő és karbantartó gépek (ÉI)
 
@@ -864,4 +864,4 @@ TARTALOMJEGYZÉK
 [^14]: MSZ 9745/3–79
 [^15]: 11/1984. (VIII. 22.) IpM rendelet.
 [^16]: 11/1984. (VIII. 22.) IpM rendelet.
-[^17]: A melléklet 1. számú függelékének 1–8. pontja a 83/2003. (VII. 16.) FVM rendelet 9. §-ának (3) bekezdésével megállapított szöveg. A melléklet 1. függelék 1–8. ponthoz tartozó lábjegyzete a 106/2012. (X. 11.) VM rendelet 1. § c) pontja szerint módosított szöveg.
+[^17]: A melléklet 1. számú függelékének 1–8. pontja a 83/2003. (VII. 16.) FVM rendelet 9. §-ának (3) bekezdésével megállapított szöveg. A melléklet 1. függelék 1–8. ponthoz tartozó lábjegyzete a 106/2012. (X. 11.) VM rendelet 1. § c) pontja, a 36/2015. (VI. 30.) FM rendelet 1. §-a szerint módosított szöveg.
