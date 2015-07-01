@@ -4,7 +4,7 @@ a) a 3. számú melléklet szerinti foglalkozási eredetű megbetegedést észle
 
 b) az érintett foglalkozása gyakorlása közben, azzal összefüggésben
 
-ba) a 4. számú mellékletben szereplő anyag hatásának van kitéve, és szervezetében az anyag koncentrációja a megengedett mértéket meghaladja, valamint
+ba) miniszteri rendeletben meghatározott vegyi anyag hatásának van kitéve, és szervezetében az anyag koncentrációja a megengedett mértéket meghaladja, valamint
 
 bb) zaj esetében a 4000 Hz-en 30 dB bármely fülön bekövetkező halláscsökkenés fordul elő.
 

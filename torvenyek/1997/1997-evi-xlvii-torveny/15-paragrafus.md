@@ -56,4 +56,6 @@ j) tularaemia.
 
 (8) A betegellátó a 4. § (2) bekezdésének b) pontja szerinti célból az életkorhoz kötött oltáshoz szükséges oltóanyag igénylése és elszámolása során továbbítja az oltandó személyek nevét és társadalombiztosítási azonosító jelét az egészségügyi államigazgatási szervnek.
 
+(8a) A betegellátó a 4. § (2) bekezdés b) pontja szerinti célból az életkorhoz kötött kötelező és önkéntes védőoltások esetén, valamint megbetegedési veszély elhárítása céljából kötelező védőoltások esetén a védőoltásban részesültek személyazonosító adatait – miniszteri rendeletben meghatározott módon elektronikus úton is – továbbítja az egészségügyi államigazgatási szervnek.
+
 (9) A (3), (7) és (8) bekezdés szerinti szervek a részükre átadott, egészségügyi és személyazonosító adatot az adatkezelés célját megvalósító feladatuk ellátásához szükséges mértékben, az adatkezelés megkezdésétől számított 30 évig kezelhetik.
