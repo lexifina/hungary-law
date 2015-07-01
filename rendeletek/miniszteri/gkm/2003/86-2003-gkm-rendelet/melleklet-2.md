@@ -144,7 +144,7 @@
 
 2. számú melléklet a 86/2003. (XII. 16.) GKM rendelethez
 
-## A Magyar Energia Hivatal által közzétett adatok és információk köre
+## A Magyar Energetikai és Közmű-szabályozási Hivatal által közzétett adatok és információk köre[^2]
 
 1. A RENDSZERIRÁNYÍTÓ ADATAI
 
@@ -383,3 +383,5 @@ feljogosított fogyasztóktól
 közüzemi nagykereskedőktől
 
 – nominálásból származó árbevétel többlet havonta
+
+[^2]: A 2. számú melléklet címe a 37/2015. (VI. 30.) NFM rendelet 1. § b) pontja szerint módosított szöveg.
