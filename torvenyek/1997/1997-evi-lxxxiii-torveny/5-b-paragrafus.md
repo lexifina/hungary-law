@@ -26,7 +26,7 @@ g) gyógyászati ellátás: az orvosi rehabilitáció céljából társadalombiz
 
 h) közeli hozzátartozó: a házastárs, az élettárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér,
 
-i) közös háztartás: a Tbj. 4. §-ának x) pontjában foglaltak szerinti szállás-, lakó- és tartózkodási hely,
+i) közös háztartás: az egy lakóingatlanban életvitelszerűen együtt lakó természetes személyek közössége,
 
 j) központi várólista: a külön jogszabályban meghatározott nagyköltségű ellátások igénybevételére váró betegek jegyzéke, továbbá a szerv, illetve vérsejtképző őssejt átültetésére váró betegek listája (transzplantációs várólista);
 

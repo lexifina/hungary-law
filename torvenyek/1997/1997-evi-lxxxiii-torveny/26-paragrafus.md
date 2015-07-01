@@ -14,6 +14,8 @@ e) támogatást nyújthat már támogatott, egyedi méretvétel alapján gyárto
 
 (2a) Az egészségbiztosító méltányosságból – az egészségügyért felelős miniszter rendeletében meghatározott eszközök esetében – a támogatással rendelhető gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat.
 
+(2b) Az egészségbiztosító méltányosságból – az egészségügyért felelős miniszter rendeletében meghatározott eszközök esetében – gyógyászati segédeszköz kölcsönzési díjához támogatást nyújthat.
+
 (3) A méltányossági jogkör gyakorlása nem terjed ki
 
 a) a 23/A. § b) pontja alapján, valamint

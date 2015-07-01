@@ -4,7 +4,7 @@ a) 18 éves életkor alatt fogszabályozó készülékre;
 
 b)
 
-c) a rágóképesség helyreállítása érdekében jogszabályban meghatározott típusú fogpótlásra;
+c) a rágóképesség helyreállítása érdekében miniszteri rendeletben meghatározott típusú fogpótlásra;
 
 d)–e)
 

@@ -42,7 +42,7 @@ lehet. Az eltérés lehetőségének feltételeit és szabályait az egészségb
 
 a) a Tbj. 5. §-a szerinti biztosított,
 
-b) a Tbj. 16. §-ának (1) bekezdése alapján egészségügyi szolgáltatásra jogosult személy,
+b) a Tbj. 16. § (1) bekezdése alapján egészségügyi szolgáltatásra jogosult személy, ide nem értve a Tbj. 16. § (1) bekezdés p) pontja alapján egészségügyi szolgáltatásra jogosultakat,
 
 c) az a)–b) pont hatálya alá nem tartozó személyek közül az, akinek egészségbiztosítója az ellátás igénybevételét az uniós rendeletek, illetve kétoldalú egyezmény alapján előzetesen, vagy az egyezményben meghatározottak szerint engedélyezte.
 

@@ -1,6 +1,6 @@
 53. § (1) Nem üzemi baleset az a baleset, amely
 
-a) kizárólag a sérült ittassága miatt, vagy
+a) részben vagy egészben a balesetet szenvedett biztosított alkohol vagy kábítószer általi – igazolt – befolyásoltsága miatt következett be,
 
 b) munkahelyi feladatokhoz nem tartozó engedély nélkül végzett munka, engedély nélküli járműhasználat, munkahelyi rendbontás során, vagy
 
