@@ -1,1 +1,0 @@
-## 76. § Egészségügyi szabadság igénybevétele esetén a távolléti díjnak a Hjt. 121. §-a alapján történő esetleges csökkentéséről vagy megvonásáról az állományilletékes parancsnoknak az eset körülményeinek és az állomány tagja nyilatkozatának figyelembevételével meghozott, írásba foglalt munkáltatói döntésben kell rendelkeznie.

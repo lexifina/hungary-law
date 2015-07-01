@@ -1,3 +1,0 @@
-## 3/A. §[^3] A Hjt. 124. § (4) bekezdése alapján az állománynak a Honvédség központi pénzügyi és számviteli, ingatlan fenntartási és üzemeltetési, logisztikai, valamint központosított igazgatási feladatokat ellátó szervezeténél (a továbbiakban: a Honvédség központi pénzügyi és számviteli feladatokat ellátó szervezete) szolgálatot teljesítő felsőfokú iskolai végzettséggel rendelkező tagja a beosztási illetmény 50%-ának, felsőfokú végzettséggel nem rendelkező tagja a beosztási illetmény 15%-ának megfelelő illetménykiegészítésre jogosult.
-
-[^3]: A 3/A. §-t az 1/2014. (II. 11.) HM rendelet 2. §-a iktatta be, szövege a 16/2014. (XII. 13.) HM rendelet 10. §-a szerint módosított szöveg.

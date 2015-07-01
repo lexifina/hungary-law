@@ -1,1 +1,0 @@
-## 106. § Az egyes tanulmányi félévekre megállapított alapösztöndíj-kiegészítés a következő tanulmányi félév első napját megelőző napig, a 14/2. félév esetén pedig a honvéd altiszt-jelölti jogviszony megszűnése napjáig jár.
