@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2014-08-01 | 2014. évi XXX. törvény | 1991-4-00-00.97 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 1991-4-00-00.98 |
 | 2015-04-01 | 2015. évi VI. törvény | 1991-4-00-00.99 |
+| 2015-07-01 | 2015. évi XLII. törvény | 1991-4-00-00.100 |
