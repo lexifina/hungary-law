@@ -1,1 +1,0 @@
-## Idegennyelv-tudási pótlék

@@ -1,1 +1,0 @@
-## Akció szolgálati pótlék

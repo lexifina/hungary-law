@@ -1,5 +1,0 @@
-## 61. §[^100]
-
-## Képviseleti pótlék
-
-[^100]: A 61. §-t a 273/2010. (XII. 9.) Korm. rendelet 139. § (2) bekezdése hatályon kívül helyezte.

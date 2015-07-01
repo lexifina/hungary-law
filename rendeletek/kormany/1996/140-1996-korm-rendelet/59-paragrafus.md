@@ -1,1 +1,0 @@
-## 58. § Személyi pótlék engedélyezhető, ha a szolgálat ellátása az átlagosnál lényegesen kedvezőtlenebb körülmények között vagy a hivatali és vezényléses munkarendtől eltérő munkarendben történik, illetőleg speciális szakismeretet igénylő többletfeladattal jár.

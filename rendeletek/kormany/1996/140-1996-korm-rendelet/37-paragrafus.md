@@ -1,3 +1,0 @@
-## 36. §[^65] A Hszt. 254. §-a (2) bekezdés a) pont 10. alpontja szerinti veszélyességi pótlék szempontjából az 1. számú melléklet 1–3. és 8. pontjaiban meghatározott egészségkárosító kockázatok közötti munkával járó beosztásban szolgálatot teljesítőt az illetménypótlék havonta akkor illeti meg, ha az egészségkárosító kockázatok között töltött ideje eléri a 23. § (1) bekezdésében meghatározott időtartamot.
-
-[^65]: A 36. § a 99/2003. (VII. 15.) Korm. rendelet 5. §-ával megállapított, a 273/2010. (XII. 9.) Korm. rendelet 81. § (6) bekezdése, a 361/2010. (XII. 30.) Korm. rendelet 18. § (2) bekezdése, a 376/2011. (XII. 31.) Korm. rendelet 8. §-a, a 366/2012. (XII. 17.) Korm. rendelet 34. § 2. pontja szerint módosított szöveg.
