@@ -1,4 +1,4 @@
-## 4. §[^7] A Magyar Energia Hivatal (a továbbiakban: Hivatal) a Tszt. szerinti árelőkészítést a 2. melléklet szerinti módszertan alapján végzi.
+## 4. §[^7] A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) a Tszt. szerinti árelőkészítést a 2. melléklet szerinti módszertan alapján végzi.
 
 5. § (1) Az 1. mellékletben meghatározott értékesítő, valamint a távhőszolgáltató tárgyévi auditált éves beszámolójában szereplő, a Tszt. hatálya alá tartozó tevékenységéből származó adózás előtti eredménye nem haladhatja meg az ármegállapítás során figyelembe vett könyv szerinti bruttó eszközérték és a nyereségtényező szorzatának mértékét (a továbbiakban: nyereségkorlát).
 
@@ -40,7 +40,7 @@ b) a mentesítés (5) bekezdés szerinti feltételei nem állnak fenn, a mentes�
 
 (8)[^13] Ha a Hivatal ellenőrzése során megállapítja, hogy a kérelemben foglalt beruházás nem, vagy nem a Hivatal döntésében foglaltak szerint valósult meg, a kérelmezőt visszafizetésre kötelezi a beruházásra fordított saját pénzeszközből annak nyereségkorlátba ütköző része erejéig és a távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet szerinti bírsággal sújthatja.
 
-[^7]: A 4. § az 59/2012. (X. 31.) NFM rendelet 2. §-ával megállapított szöveg.
+[^7]: A 4. § az 59/2012. (X. 31.) NFM rendelet 2. §-ával megállapított, a 37/2015. (VI. 30.) NFM rendelet 21. §-a szerint módosított szöveg.
 [^8]: Az 5. § (2) bekezdés a) pontja az 59/2012. (X. 31.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^9]: Az 5. § (4) bekezdés a) pontja az 59/2012. (X. 31.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^10]: Az 5. § (5) bekezdését a 78/2012. (XII. 22.) NFM rendelet 45. §-a iktatta be, nyitó szövegrésze a 64/2013. (X. 30.) NFM rendelet 15. § (3) bekezdése szerint módosított szöveg.
