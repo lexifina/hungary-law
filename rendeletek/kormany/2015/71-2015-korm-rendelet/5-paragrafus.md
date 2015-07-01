@@ -1,7 +1,3 @@
-## 2. Nemzeti Környezetügyi Intézet
+## 2.[^1]
 
-5. § (1) A Nemzeti Környezetügyi Intézet (a továbbiakban: NeKI) a miniszter irányítása alá tartozó központi költségvetési szerv.
-
-(2) A NeKI a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
-
-(3) A NeKI-t főigazgató vezeti, aki – a gazdasági vezető kinevezése és felmentése kivételével – gyakorolja a munkáltatói jogokat a NeKI foglalkoztatottjai felett.
+[^1]: A 2. alcímet (5. §) a 147/2015. (VI. 12.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.

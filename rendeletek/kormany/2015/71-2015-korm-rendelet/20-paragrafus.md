@@ -12,10 +12,12 @@ a) az OKTF-et,
 
 b) a kormányhivatalt,
 
-c) a NeKI-t és
+c)[^2] a Herman Ottó Intézetet és
 
 d) az OMSZ-t
 
 ## jelöli ki.
 
 (2) Környezetvédelmi igazgatási szervként – ha kormányrendelet másként nem rendelkezik – a kormányhivatal jár el.
+
+[^2]: A 20. § (1) bekezdés c) pontja a 147/2015. (VI. 12.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.

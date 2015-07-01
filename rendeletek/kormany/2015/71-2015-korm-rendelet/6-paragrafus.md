@@ -1,3 +1,5 @@
+## 5. §
+
 ## 3. Nemzeti Park Igazgatóság
 
 6. § (1) A nemzeti park igazgatóságok szervezetrendszere a miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv. A nemzeti park igazgatóságok szervezetrendszerének területi szerve a Nemzeti Park Igazgatóság (a továbbiakban: NPI).
