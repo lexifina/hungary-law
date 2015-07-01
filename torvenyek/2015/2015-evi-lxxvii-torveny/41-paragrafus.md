@@ -1,0 +1,1 @@
+41. § Az Eütv. 247. § (1) bekezdés e) pontjában az „ellátásra való felkészülésre” szövegrész helyébe az „ellátásra való felkészülésre, az egészségügyi válsághelyzet kihirdetésére, megszüntetésére,” szöveg lép.
