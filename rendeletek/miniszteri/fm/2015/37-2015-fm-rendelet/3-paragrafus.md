@@ -1,0 +1,1 @@
+## 2. § Az Európai Unió kötelezően alkalmazandó jogi aktusában előírt esetben a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a mesterséges feltételteremtés fennállását a kiválasztott sokaságból kockázatelemzés alapján vagy az ügyfél kérelmére vizsgálja.
