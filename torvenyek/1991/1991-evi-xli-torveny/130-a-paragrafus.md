@@ -1,0 +1,1 @@
+130/A. § A közokirat kiállítása az abban foglalt – vagy a közokiratba foglalt nyilatkozat alapjául szolgáló, illetve az alapján létrejött – jogügyletből eredő jogviszony tartalmával kapcsolatos polgári jogi igények érvényesítését nem akadályozza.

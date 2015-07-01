@@ -20,4 +20,6 @@ h) a Magyar Országos Közjegyzői Kamaránál vezetett zálogjogi nyilvántart�
 
 i) a közjegyzői levéltár anyagának nyilvántartásával, szakszerű, biztonságos őrzésével, feldolgozásával és használatának biztosításával összefüggő szakmai követelményeket, valamint a levéltári anyagban végezhető selejtezés rendjét,
 
-j) a közjegyzői pályázati eljárás részletes szabályait, és a közjegyzői kinevezéshez készített kamarai javaslatban szereplő pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat.
+j) a közjegyzői pályázati eljárás részletes szabályait, és a közjegyzői kinevezéshez készített kamarai javaslatban szereplő pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
+
+k) a közjegyző okirat-szerkesztési eljárására irányuló kérelem tartalmi és formai követelményeit.

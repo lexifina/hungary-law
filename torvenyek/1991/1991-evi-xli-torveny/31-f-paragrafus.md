@@ -22,6 +22,8 @@ a)
 
 b) az egyetlen közjegyző tag tagsági jogviszonya vagy közjegyzői szolgálata megszűnt, továbbá ha a közjegyző tag (közjegyző tagok) szavazati joga nem több, mint 50%.
 
-(5) A közjegyzői iroda csak másik közjegyzői irodával egyesülhet, vagy közjegyzői irodákká válhat szét, és kiválásra sor kerülhet úgy is, hogy a közjegyzői irodától megváló tag a vagyon egy részével más, már működő közjegyzői irodához mint átvevő közjegyzői irodához csatlakozik. A közjegyzői iroda gazdasági társasággá vagy más gazdálkodó szervezetté nem alakulhat át.
+(5) A közjegyzői iroda másik közjegyzői irodával egyesülhet vagy közjegyzői irodákká válhat szét, és kiválásra sor kerülhet úgy is, hogy a közjegyzői irodától megváló tag a vagyon egy részével más, már működő közjegyzői irodához, mint átvevő közjegyzői irodához csatlakozik.
 
-(6) A közjegyzői iroda átalakulásához a területi kamara elnökségének előzetes engedélye szükséges.
+(5a) A közjegyzői szolgálatnak a 22. § (1) bekezdés a) vagy d) pontja alapján történő megszűnésétől számított 90 napon belül meghozott végleges döntéssel a közjegyzői iroda korlátolt felelősségű társasággá alakulhat át, vagy több közjegyző tagságával működő közjegyzői iroda szétválhat úgy, hogy kiválással a közjegyzői szolgálat megszűnésével érintett tag korlátolt felelősségű társaságot alapít. A közjegyzői iroda más esetben vagy más gazdasági társasággá történő átalakulásáról, gazdasági társaság kiválásáról nem dönthet.
+
+(6) A közjegyző iroda egyesüléséhez és szétválásához a területi kamara elnökségének előzetes engedélye, korlátolt felelősségű társasággá történő átalakuláshoz vagy annak kiválással történő létrehozásához a közjegyzői szolgálatnak a 22. § (1) bekezdés a) vagy d) pontjában meghatározott okból történő megszűnéséről kiállított igazolása szükséges.

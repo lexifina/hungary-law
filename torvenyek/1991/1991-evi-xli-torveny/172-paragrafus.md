@@ -1,7 +1,7 @@
 ## XIII. Fejezet
 
-## KÖZJEGYZŐI NEMPERES ÉS EGYÉB ELJÁRÁSOK
+## EGYÉB RENDELKEZÉSEK
 
-172. § (1) A közjegyzőnek a nemperes eljárás során hozott határozata a jogorvoslat szempontjából a járásbíróság végzésével azonos hatályú.
+172. § (1) A közjegyző az e törvényben szabályozott eljárásokban a fél – az igazságügyért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott alakban és tartalommal előterjesztett – kérelemére jár el.
 
-(2) A közjegyző határozata elleni fellebbezést a határozatot hozó közjegyzőnél kell előterjeszteni.
+(2) Záradéki tanúsítvány kiállítása iránt alakszerű kérelmet nem kell előterjeszteni, ha a közjegyző a tanúsítványt nyomban kiállítja.

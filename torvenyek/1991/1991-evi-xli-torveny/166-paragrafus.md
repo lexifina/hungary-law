@@ -6,7 +6,7 @@
 
 a) az 1992. január 1-jén, illetve ezt követően hivatalba lépett közjegyző okiratait, nyilvántartásait és hivatali bélyegzőjét, ha a közjegyző szolgálata megszűnt vagy áthelyezték;
 
-b) a 2009. január 1-jét követően érkezett közjegyzői nemperes eljárásban keletkezett iratokat az eljárás jogerős befejezését követő két év elteltével;
+b) a 2009. január 1-jét követően érkezett, jogerősen befejezett, nem e törvényben szabályozott közjegyzői nemperes eljárásban keletkezett, további intézkedést nem igénylő iratokat az érkezésüket követő öt év elteltével;
 
 c) az elektronikus úton vezetett levéltárban elhelyezett, 2004. július 1-jét követően létrejött okiratok eredeti példányait, ha elkészítésük óta öt év eltelt;
 

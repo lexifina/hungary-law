@@ -4,4 +4,4 @@
 
 (3) A bírósági (hatósági) letétbe helyezés alkalmával kapott elismervényt a jegyzőkönyvhöz kell fűzni.
 
-(4) Az átadót értesíteni kell a megbízás teljesítéséről.
+(4) Az átadót értesíteni kell a kérelem teljesítéséről.

@@ -9,3 +9,5 @@
 (4) A közjegyző helyszíni eljárást az illetékességi területén folytathat.
 
 (5) A közjegyzői szolgáltatások zavartalanságának és megfelelő színvonalának biztosítása érdekében a miniszter a Magyar Országos Közjegyzői Kamara és az Országos Bírósági Hivatal elnöke véleményének beszerzését követően évente felülvizsgálja a közjegyzői állások számát és székhelyét.
+
+(6) Az e törvényben szabályozott eljárásokban az a közjegyző jár el, akihez a fél a kérelmét előterjeszti.

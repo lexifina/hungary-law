@@ -50,7 +50,7 @@ e) az alkalmazó közjegyző neve, székhelye,
 
 f) az alkalmazás megszűnésének időpontja, módja,
 
-g) a közjegyzőhelyettes aláírásmintája.
+g) a közjegyzőjelölt, illetve a közjegyzőhelyettes aláírásmintája.
 
 (5) A cégjegyzékbe bejegyzett közjegyzői iroda köteles a működésének megkezdését tizenöt napon belül a kamaránál bejelenteni, a kamara pedig a közjegyzői irodát a következő adattartalommal hivatalból nyilvántartásba venni:
 

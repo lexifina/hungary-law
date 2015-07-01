@@ -20,6 +20,6 @@ h) a közjegyző bélyegzőjének szövege, sorszáma,
 
 i) a bélyegző és a hivatali elektronikus aláírás tanúsítvány érvényességének kezdete és lejárta,
 
-j) a közjegyző és a közjegyzőhelyettes aláírásmintája.
+j) a közjegyző, a közjegyzőhelyettes és a közjegyzőjelölt aláírásmintája.
 
 (3) A területi kamara a közjegyző tevékenységének ellenőrzése során a tényállás megállapítása céljából jogosult a közjegyző adatigényléséről vezetett adatszolgáltatási, adattovábbítási nyilvántartásokból adatot igényelni.

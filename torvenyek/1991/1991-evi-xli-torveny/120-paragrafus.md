@@ -8,7 +8,7 @@ b) tájékoztassa a felet a jogügylet lényegéről és jogi következményeir�
 
 c) világosan és egyértelműen írásba foglalja a fél nyilatkozatait,
 
-d) felolvassa a közjegyzői okiratot a fél előtt; a közjegyzői tanúsítványt csak akkor kell felolvasni, ha e törvény kifejezetten így rendelkezik,
+d) felolvassa a közjegyzői okiratot a fél előtt, valamint a felolvasás kezdő és befejező időpontját az okiratban óra, perc pontossággal rögzítse; a közjegyzői tanúsítványt csak akkor kell felolvasni, ha e törvény kifejezetten így rendelkezik,
 
 e) meggyőződjék arról, hogy a közjegyzői okiratban foglaltak megfelelnek a fél akaratának,
 

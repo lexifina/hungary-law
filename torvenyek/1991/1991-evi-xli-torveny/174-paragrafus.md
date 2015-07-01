@@ -1,1 +1,1 @@
-### 174. §
+174. § Ha az e törvényben szabályozott eljárásban a fél a kérelmét visszavonja vagy az eljárás lefolytatása a fél mulasztása miatt hiúsul meg, a közjegyző az eljárást végzéssel befejezetté nyilvánítja. E végzés ellen fellebbezésnek van helye. A jogerőre emelkedésről a felet külön értesíteni nem kell, de a fél kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.

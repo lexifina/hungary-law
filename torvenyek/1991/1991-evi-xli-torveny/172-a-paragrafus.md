@@ -1,1 +1,1 @@
-### 172/A. §
+172/A. § Ha a meghatalmazott útján történő eljárást jogszabály nem tiltja, az e törvényben szabályozott eljárásokban – ha e törvény vagy az adott jognyilatkozat megtételét szabályozó egyéb jogszabály eltérően nem rendelkezik – meghatalmazottként bármely cselekvőképes személy eljárhat.

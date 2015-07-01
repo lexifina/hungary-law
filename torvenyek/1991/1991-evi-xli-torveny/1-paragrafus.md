@@ -16,4 +16,4 @@
 
 (4) A közjegyző a jogszabály által meghatározott hatáskörében az állam igazságszolgáltató tevékenysége részeként jogszolgáltató hatósági tevékenységet végez.
 
-(5)
+(5) Az e törvényben szabályozott közjegyzői eljárások polgári nemperes eljárások, amelyekre – ha e törvény eltérően nem rendelkezik, vagy az eljárás sajátosságaiból más nem következik – az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény (a továbbiakban: Kjnp.) általános szabályait kell megfelelően alkalmazni.
