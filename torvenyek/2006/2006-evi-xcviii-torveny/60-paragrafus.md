@@ -1,4 +1,4 @@
-60. § Az egészségügyi államigazgatási szerv – az a) pont aa) alpont és c) pont ca) alpont szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást vezet
+60. § Az egészségügyi államigazgatási szerv – az a) pont aa) alpontja, a c) pont ca) alpontja és az e) pont szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást vezet
 
 a) a gyógyszertárakról típusonkénti bontásban a gyógyszertár megszűnését követő öt évig, mely tartalmazza
 
@@ -28,4 +28,6 @@ ca) az üzlet nevét, címét, a működtető megnevezését,
 
 cb) a működést engedélyező határozat számát; valamint
 
-d) a hatósági vezetőkről.
+d) a hatósági vezetőkről;
+
+e) az interneten igényelt gyógyszerek kiszolgáltatását végző gyógyszertárakról.

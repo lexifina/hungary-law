@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2006-98-00-00.33 |
 | 2015-01-01 | 2014. évi CXI. törvény | 2006-98-00-00.34 |
 | 2015-04-01 | 2014. évi CXI. törvény | 2006-98-00-00.35 |
+| 2015-07-01 | 2015. évi LXXVII. törvény | 2006-98-00-00.36 |

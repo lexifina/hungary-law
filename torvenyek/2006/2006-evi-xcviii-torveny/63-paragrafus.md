@@ -1,5 +1,7 @@
 63. § (1) Amennyiben a személyi jog jogosultja a gyógyszertár személyes vezetési kötelezettségének meghatározott ideig eleget tenni nem tud, a gyógyszertár vezetéséről felelős vezető alkalmazásával köteles gondoskodni.
 
+(1a) Amennyiben a személyi jog jogosultja önhibáján kívül a gyógyszertár személyes vezetési kötelezettségének eleget tenni nem tud és önhibáján kívül nem képes felelős vezető kijelölésére, akkor a gyógyszertár működtetője kérelmére az egészségügyi államigazgatási szerv 12 hónapra felelős vezető alkalmazását engedélyezi.
+
 (2) Felelős vezető az a gyógyszerész lehet, aki megfelel a 61. § (2)–(4) bekezdésében foglalt feltételeknek. Amennyiben a felelős vezető alkalmazására előreláthatólag hatvan napot meghaladó időtartamra van szükség, úgy a felelős vezető csak az lehet, aki megfelel a személyi jogos gyógyszerésszel szemben az 56. §-ban támasztott követelményeknek.
 
 (3) Ha a felelős vezető alkalmazására hatvan napot meg nem haladó időtartamra van szükség, a felelős vezető alkalmazását az egészségügyi államigazgatási szervnek be kell jelenteni.

@@ -54,7 +54,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 24. támogatásvolumen-szerződés: a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 30/A. §-a szerinti szerződés;
 
-25.
+25. településrész: a településnek azon része, amely önálló településrészi önkormányzattal (részönkormányzattal) rendelkezik és a település más lakott településrészeivel – a lakott területek földrajzi (domborzati), térbeni, építészeti elkülönültsége alapján – egybe nem tartozó lakott településrész;
 
 26. gyógyszerészi gondozás: a gyógyszerész által önként vállalt, felelősen végzett dokumentált tevékenység, melynek célja együttműködésben az orvossal a hatásos, biztonságos és költséghatékony gyógyszeres terápia elősegítésén túl, a beteg egészségtudatos életvitele kialakításának elősegítése, megfelelő gyógyszerhasználatának szakmai segítése, együttműködő készségének növelése, életminőségének javítása, minőségileg kontrollált körülmények között;
 

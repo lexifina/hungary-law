@@ -38,7 +38,7 @@ e) a szerződésben rögzített, a költséghatékonyság szempontjából meghat
 
 kerülhet megállapításra.
 
-(6) Egy készítmény vonatkozásában az (5) bekezdés a)–d) pontjaiban meghatározottak egyidejűleg is alkalmazhatók.
+(6) Egy készítmény vonatkozásában az (5) bekezdésben meghatározottak egyidejűleg is alkalmazhatók.
 
 (7) Az egy naptári évnél hosszabb időszakra kötött szerződések esetén az egészségbiztosítási szerv előlegfizetési kötelezettséget határozhat meg.
 
