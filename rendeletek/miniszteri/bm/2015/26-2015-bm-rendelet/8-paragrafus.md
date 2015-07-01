@@ -1,0 +1,1 @@
+## 7. § Az Országgyűlési Őrség parancsnoka köteles meghatározni a technikai ellenőrzés során rögzített személyes adatok megismerésére jogosultak, illetve az adattovábbítási kérelmek elbírálására feladat- és hatáskörrel rendelkező személyek körét.
