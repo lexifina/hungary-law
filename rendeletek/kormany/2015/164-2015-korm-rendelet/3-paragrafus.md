@@ -1,3 +1,3 @@
-## 2. § A Korm. rendelet 15. §-át megelőzően a következő alcím-címmel egészül ki:
+3. §[^2]
 
-## „Záró rendelkezések”
+[^2]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
