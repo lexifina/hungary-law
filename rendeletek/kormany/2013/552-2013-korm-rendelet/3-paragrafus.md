@@ -1,1 +1,0 @@
-## 2. § A hivatásos állomány más szervhez vezényelt tagja esetében a teljesítményértékelés ajánlott elemeinek és az értékelő vezető meghatározása, továbbá az eljárás rendje tekintetében a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) 49/B–49/G. §-ban foglaltak szerint kell eljárni.
