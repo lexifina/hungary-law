@@ -1,4 +1,4 @@
-## 25. §[^22]
+## 25. §[^23]
 
 ## IV. Fejezet
 
@@ -12,4 +12,4 @@
 
 (3) Az ikerintézményi projekt megvalósításában részt vevő magyar tagállami partner projektvezetőjétől a Nemzeti Ikerintézményi Koordinátor rendkívüli tájékoztatást kérhet az ikerintézményi projekt megvalósításával kapcsolatban.
 
-[^22]: A 25. §-t az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.
+[^23]: A 25. §-t az 550/2013. (XII. 30.) Korm. rendelet 86. §-a hatályon kívül helyezte.

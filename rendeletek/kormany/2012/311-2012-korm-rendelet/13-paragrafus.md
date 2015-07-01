@@ -1,6 +1,6 @@
 13. § (1) Az ikerintézményi felelős az ikerintézményi programmal összefüggésben
 
-a)[^15] kapcsolatot tart a Nemzeti Ikerintézményi Koordinátorral és a külpolitikáért felelős miniszterrel,
+a)[^16] kapcsolatot tart a Nemzeti Ikerintézményi Koordinátorral és a külpolitikáért felelős miniszterrel,
 
 b) biztosítja a pályázásra jogosult intézményen belül a megfelelő információáramlást az ikerintézményi programmal összefüggésben,
 
@@ -36,4 +36,4 @@ e) félévente – tárgyév március 5-ig és szeptember 5-ig – írásban ada
 
 f) évente egyszer szakmai egyeztetést hív össze az irányítása és felügyelete alá tartozó intézmények ikerintézményi felelőseinek részvételével, amelyről a rendezvényt megelőzően legalább 10 munkanappal tájékoztatja a Nemzeti Ikerintézményi Koordinátort, majd a szakmai egyeztetés eredményeiről 10 munkanapon belül írásban tájékoztatja a Nemzeti Ikerintézményi Koordinátort.
 
-[^15]: A 13. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 697. § c) pontjával megállapított szöveg.
+[^16]: A 13. § (1) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 697. § c) pontjával megállapított szöveg.

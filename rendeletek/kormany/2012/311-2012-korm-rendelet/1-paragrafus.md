@@ -10,8 +10,10 @@ a) központi, helyi önkormányzati, kisebbségi önkormányzati, társadalombiz
 
 b) igazságszolgáltatási szervekre,
 
-c) fegyveres szervekre,
+c)[^1] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervekre,
 
 d) az akkreditált és az ad hoc akkreditációt elnyerő szervekre,
 
 e) az a)–d) pont szerinti szervek által foglalkoztatott, az ikerintézményi programban résztvevő szakértőkre terjed ki.
+
+[^1]: Az 1. § c) pontja a 157/2015. (VI. 25.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## 4. [^7] A Nemzeti Ikerintézményi Koordinátor
+## 4. [^8] A Nemzeti Ikerintézményi Koordinátor
 
-4. § (1)[^8] A Nemzeti Ikerintézményi Koordinátor valamely pályázásra jogosult intézmény felkérése esetén, szerződés alapján, mint a 2. § (1) bekezdés 24. pontja szerinti projekt végrehajtásáért felelős szerv, közreműködő szervezet igénybevételével gondoskodik az ikerintézményi projekt adminisztratív, logisztikai és pénzügyi lebonyolításáról.
+4. § (1)[^9] A Nemzeti Ikerintézményi Koordinátor valamely pályázásra jogosult intézmény felkérése esetén, szerződés alapján, mint a 2. § (1) bekezdés 24. pontja szerinti projekt végrehajtásáért felelős szerv, közreműködő szervezet igénybevételével gondoskodik az ikerintézményi projekt adminisztratív, logisztikai és pénzügyi lebonyolításáról.
 
-(2)[^9] Az (1) bekezdés szerinti szerződés alapján, a pályázásra jogosult intézmény szükségleteinek megfelelően a Nemzeti Ikerintézményi Koordinátor az ikerintézményi projekt végrehajtásával összefüggésben a következő feladatok ellátását biztosítja
+(2)[^10] Az (1) bekezdés szerinti szerződés alapján, a pályázásra jogosult intézmény szükségleteinek megfelelően a Nemzeti Ikerintézményi Koordinátor az ikerintézményi projekt végrehajtásával összefüggésben a következő feladatok ellátását biztosítja
 
 a) segítségnyújtás az ikerintézményi pályázat kidolgozásában,
 
@@ -28,9 +28,9 @@ k) az ikerintézményi projekt általános projektmenedzsment feladatainak ellá
 
 l) szerződésben rögzített egyéb feladatok ellátása.
 
-(3)[^10] A Nemzeti Ikerintézményi Koordinátor gondoskodik az ikerintézményi programban való részvételt elősegítő feladatok ellátáshoz szükséges költségvetési forrásoknak az államháztartásról szóló 2011. évi CXCV. törvény, a végrehajtásáról rendelkező jogszabályok és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet szerinti tervezési tájékoztató előírásainak megfelelően egy előirányzaton történő megtervezéséről.
+(3)[^11] A Nemzeti Ikerintézményi Koordinátor gondoskodik az ikerintézményi programban való részvételt elősegítő feladatok ellátáshoz szükséges költségvetési forrásoknak az államháztartásról szóló 2011. évi CXCV. törvény, a végrehajtásáról rendelkező jogszabályok és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet szerinti tervezési tájékoztató előírásainak megfelelően egy előirányzaton történő megtervezéséről.
 
-[^7]: A 4. alcím címe az 550/2013. (XII. 30.) Korm. rendelet 85. § b) pontja szerint módosított szöveg.
-[^8]: A 4. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 83. §-ával megállapított szöveg.
-[^9]: A 4. § (2) bekezdés nyitó szövegrésze az 550/2013. (XII. 30.) Korm. rendelet 85. § c) pontja szerint módosított szöveg.
-[^10]: A 4. § (3) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 85. § d) pontja szerint módosított szöveg.
+[^8]: A 4. alcím címe az 550/2013. (XII. 30.) Korm. rendelet 85. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 83. §-ával megállapított szöveg.
+[^10]: A 4. § (2) bekezdés nyitó szövegrésze az 550/2013. (XII. 30.) Korm. rendelet 85. § c) pontja szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 85. § d) pontja szerint módosított szöveg.
