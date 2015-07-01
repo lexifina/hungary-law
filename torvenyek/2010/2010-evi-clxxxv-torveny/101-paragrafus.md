@@ -1,6 +1,6 @@
-## A nemzeti hírügynökség különleges feladatai
+## A közszolgálati médiaszolgáltató hírügynökségi feladatai
 
-101. § (1) A Magyar Távirati Iroda Zártkörűen Működő Nonprofit Részvénytársaság, mint nemzeti hírügynökség a 83. §-ban meghatározott célok elérésének feladatán túl az alábbi közszolgálati feladatokat látja el:
+101. § (1) A közszolgálati médiaszolgáltató a 83. §-ban meghatározott célok érvényre juttatásán túl az alábbi hírügynökségi feladatokat látja el:
 
 a) a közérdeklődésre számot tartó hazai és külföldi eseményekről híreket, tudósításokat, fényképeket, adathordozókat, háttéranyagokat, grafikákat, dokumentációs adatokat szolgáltat,
 
@@ -24,7 +24,7 @@ j) gondoskodik a tevékenysége során birtokába került kulturális értékek 
 
 k) részt vesz a nemzetközi hírügynökségi szervezetek munkájában.
 
-(2) A nemzeti hírügynökség közszolgálati feladatainak ellátása érdekében
+(2) A közszolgálati médiaszolgáltató hírügynökségi feladatainak ellátása érdekében
 
 a) az ország minden megyéjére és a fővárosra kiterjedő,
 
@@ -34,6 +34,4 @@ c) az ország nemzetközi kapcsolatrendszerének és érdekeinek megfelelő kül
 
 tudósítói hálózatot működtet.
 
-(3) Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő készültségi erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, illetőleg törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdés szerint kötelezhetik a nemzeti hírügynökséget a tájékoztatásra.
-
-(4) A nemzeti hírügynökség a többi közszolgálati médiaszolgáltató számára kizárólagos joggal hírműsorokat gyárt, továbbá működteti a közszolgálati médiaszolgáltatók egységes hírportálját, a közszolgálati médiaszolgáltatók más internetes sajtótermékeit, továbbá az internetről elérhető, lekérhető médiaszolgáltatásait.
+(3) Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő készültségi erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, illetve törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdés szerint kötelezhetik a közszolgálati médiaszolgáltatót – hírügynökségi tevékenysége körében – a tájékoztatásra.

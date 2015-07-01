@@ -68,7 +68,7 @@ s) ellátja az ideiglenes médiaszolgáltatási hatósági szerződésekkel öss
 
 t) szakhatósági feladatokat lát el e törvény és a Tpvt. által előírt esetben,
 
-u) eljár a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltatók médiaszolgáltatásával kapcsolatban felmerült kiegyensúlyozottsági panaszok ügyében [Smtv. 13. § és e törvény 12. §-a],
+u) eljár a JBE médiaszolgáltatók és a közszolgálati médiaszolgáltató médiaszolgáltatásával kapcsolatban felmerült kiegyensúlyozottsági panaszok ügyében [Smtv. 13. § és e törvény 12. §-a],
 
 v)
 

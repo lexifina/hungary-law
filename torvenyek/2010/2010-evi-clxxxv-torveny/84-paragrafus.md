@@ -4,7 +4,7 @@
 
 ## Általános szabályok
 
-84. § (1) A közszolgálati média- és hírszolgáltatás biztosítására, függetlenségének védelmére az Országgyűlés létrehozza a Közszolgálati Közalapítványt (a továbbiakban: Közalapítvány). A Közalapítvány a Magyar Televízió Zártkörűen Működő Nonprofit Részvénytársaság, a Duna Televízió Zártkörűen Működő Nonprofit Részvénytársaság, a Magyar Rádió Zártkörűen Működő Nonprofit Részvénytársaság, valamint a Magyar Távirati Iroda Zártkörűen Működő Nonprofit Részvénytársaság (a továbbiakban együtt: közszolgálati médiaszolgáltatók) tulajdonosa.
+84. § (1) A közszolgálati média- és hírszolgáltatás biztosítására, függetlenségének védelmére az Országgyűlés létrehozza a Közszolgálati Közalapítványt (a továbbiakban: Közalapítvány). A Közalapítvány a Duna Médiaszolgáltató Zártkörűen Működő Nonprofit Részvénytársaság (a továbbiakban: közszolgálati médiaszolgáltató) tulajdonosa.
 
 (2) A Közalapítvány induló vagyonát az Országgyűlés országgyűlési határozatban állapítja meg.
 

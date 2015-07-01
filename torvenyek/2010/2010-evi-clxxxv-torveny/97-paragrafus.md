@@ -10,11 +10,11 @@
 
 (5) A Közszolgálati Testület elnökét az államtitkári illetmény negyven százalékának, tagját az államtitkári illetmény huszonöt százalékának megfelelő mértékű tiszteletdíj illeti meg. Az elnök és a tagok ezen felül – a Testülethez kötődő feladataik ellátásához szükséges – utazási költségeik megtérítésére tarthatnak igényt. Az elnökre és a tagokra a 118. §-ban foglalt összeférhetetlenségi szabályok– a 118. § (1) bekezdés e) pontjának kivételével – értelemszerűen irányadók.
 
-(6) A Közszolgálati Testület a társadalmi felügyeletet biztosítja a közszolgálati médiaszolgáltatók felett.
+(6) A Közszolgálati Testület a társadalmi felügyeletet biztosítja a közszolgálati médiaszolgáltató felett.
 
-(7) A Közszolgálati Testület a közszolgálatiság érvényesülését folyamatosan figyelemmel kíséri, és a (8)–(13) bekezdés szerint ellenőrzést gyakorol a közszolgálati médiaszolgáltatók felett e törvényben foglaltak végrehajtása vonatkozásában.
+(7) A Közszolgálati Testület a közszolgálatiság érvényesülését folyamatosan figyelemmel kíséri, és a (8)–(13) bekezdés szerint ellenőrzést gyakorol a közszolgálati médiaszolgáltató felett e törvényben foglaltak végrehajtása vonatkozásában.
 
-(8) A közszolgálati médiaszolgáltatók vezérigazgatói évente egyszer, a mindenkori naptári évet követően, a következő év február 28-ig beszámolót készítenek arról, hogy – saját értékelésük szerint – az általuk vezetett médiaszolgáltató eleget tett-e e törvényben megfogalmazott, a közszolgálati médiaszolgáltatás céljaira és alapvető elveire vonatkozó elvárásoknak.
+(8) A közszolgálati médiaszolgáltató vezérigazgatója évente egyszer, a mindenkori naptári évet követően, a következő év február 28-ig beszámolót készít arról, hogy – saját értékelése szerint – a médiaszolgáltató eleget tett-e e törvényben megfogalmazott, a közszolgálati médiaszolgáltatás céljaira és alapvető elveire vonatkozó elvárásoknak.
 
 (9) A Közszolgálati Testület megvitatja a beszámolót, és annak elfogadásáról egyszerű többséggel dönt.
 
@@ -26,4 +26,4 @@
 
 (13) Ha a javaslat ellenére a Kuratórium nem szünteti meg a vezérigazgató munkaviszonyát, akkor ezt követően a vezérigazgató újbóli meghallgatását a Közszolgálati Testület három hónap múlva köteles napirendjére tűzni.
 
-(14) Ha a vezérigazgató munkaviszonya azért szűnt meg, mert a közszolgálati célok és elvek érvényesülését nem biztosította, akkor tíz évig nem jelölhető újra közszolgálati médiaszolgáltató vezérigazgatói megbízatására.
+(14) Ha a vezérigazgató munkaviszonya azért szűnt meg, mert a közszolgálati célok és elvek érvényesülését nem biztosította, akkor tíz évig nem jelölhető újra a közszolgálati médiaszolgáltató vezérigazgatói megbízatására.

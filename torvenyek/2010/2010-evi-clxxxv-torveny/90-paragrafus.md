@@ -2,39 +2,39 @@
 
 90. § (1) A Kuratórium:
 
-a) ellenőrzi a közszolgálati médiaszolgáltatás céljainak a közszolgálati médiaszolgáltatók tevékenysége általi megvalósulását,
+a) ellenőrzi a közszolgálati médiaszolgáltatás céljainak a közszolgálati médiaszolgáltató tevékenysége általi megvalósulását,
 
-b) amennyiben valamely közszolgálati médiaszolgáltató megítélése szerint a közszolgálati médiaszolgáltatás céljainak elérését súlyosan sértő vagy veszélyeztető magatartást tanúsít, a Médiatanács eljárását kezdeményezheti,
+b) amennyiben a közszolgálati médiaszolgáltató megítélése szerint a közszolgálati médiaszolgáltatás céljainak elérését súlyosan sértő vagy veszélyeztető magatartást tanúsít, a Médiatanács eljárását kezdeményezheti,
 
 c) védelmezi a közszolgálati médiaszolgáltató függetlenségét,
 
-d) megállapítja és módosítja a közszolgálati médiaszolgáltatók alapító okiratát, gondoskodik annak a Magyar Közlönyben történő közzétételéről,
+d) megállapítja és módosítja a közszolgálati médiaszolgáltató alapító okiratát, gondoskodik annak a Magyar Közlönyben történő közzétételéről,
 
-e) megválasztja a közszolgálati médiaszolgáltatók vezérigazgatóit, megállapítja munkaszerződésük feltételeit és díjazásukat,
+e) megválasztja a közszolgálati médiaszolgáltató vezérigazgatóját, megállapítja munkaszerződése feltételeit és díjazását,
 
-f) megszüntetheti a közszolgálati médiaszolgáltatók vezérigazgatóinak munkaviszonyát,
+f) megszüntetheti a közszolgálati médiaszolgáltató vezérigazgatójának munkaviszonyát,
 
-g) megválasztja a közszolgálati médiaszolgáltatók közös felügyelő bizottságának elnökét és tagjait, illetve visszahívhatja azokat,
+g) megválasztja a közszolgálati médiaszolgáltató felügyelő bizottságának elnökét és tagjait, illetve visszahívhatja azokat,
 
-h) megbízza a közszolgálati médiaszolgáltatók könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó szabályai szerint, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
+h) megbízza a közszolgálati médiaszolgáltató könyvvizsgálóját, illetve megszüntetheti megbízatását. A könyvvizsgáló feladatát, jog- és hatáskörét a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó szabályai szerint, illetve a számvitelről szóló törvény keretei között a Kuratórium a közszolgálati médiaszolgáltató alapító okiratában határozza meg,
 
 i) elfogadja a Közalapítvány éves gazdálkodási tervét és megállapítja mérlegét,
 
-j) a közszolgálati médiaszolgáltatók vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezései alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
+j) a közszolgálati médiaszolgáltató vonatkozásában a Polgári Törvénykönyvnek a gazdasági társaságokra irányadó rendelkezései alapján – az e törvényben foglalt eltérésekkel – gyakorolja a közgyűlés jogait,
 
 k) a Közalapítvány kezelőjeként gazdálkodik a Közalapítvány vagyonával,
 
-l) felemelheti a közszolgálati médiaszolgáltatók alaptőkéjét, illetve leszállíthatja azt a Közalapítvány alapító okiratában szabályozottak szerint,
+l) felemelheti a közszolgálati médiaszolgáltató alaptőkéjét, illetve leszállíthatja azt a Közalapítvány alapító okiratában szabályozottak szerint,
 
-m) jóváhagyja a közszolgálati médiaszolgáltatók éves gazdálkodási és pénzügyi terveinek elveit és fő összegeit,
+m) jóváhagyja a közszolgálati médiaszolgáltató éves gazdálkodási és pénzügyi tervének elveit és fő összegeit,
 
-n) jóváhagyja a közszolgálati médiaszolgáltatók mérleg- és eredmény-kimutatását,
+n) jóváhagyja a közszolgálati médiaszolgáltató mérleg- és eredmény-kimutatását,
 
-o) ellenőrzi a közszolgálati médiaszolgáltatók finanszírozását és gazdálkodását az Európai Unió vonatkozó előírásainak való megfelelés szempontjából,
+o) ellenőrzi a közszolgálati médiaszolgáltató finanszírozását és gazdálkodását az Európai Unió vonatkozó előírásainak való megfelelés szempontjából,
 
-p) megadhatja a közszolgálati médiaszolgáltatók által megkötni kívánt, háromszázmillió forintnál magasabb értékű szerződésekhez szükséges előzetes tárgyalási felhatalmazást,
+p) megadhatja a közszolgálati médiaszolgáltató által megkötni kívánt, háromszázmillió forintnál magasabb értékű szerződésekhez szükséges előzetes tárgyalási felhatalmazást,
 
-q) megadhatja a közszolgálati médiaszolgáltatók hitelfelvételéhez, illetve az általuk megkötni kívánt, százmillió forintnál nagyobb értékű szerződések megkötéséhez szükséges, illetve az így megkötött szerződések módosításához, valamint megszüntetéséhez szükséges előzetes jóváhagyást,
+q) megadhatja a közszolgálati médiaszolgáltató hitelfelvételéhez, illetve az általa megkötni kívánt, százmillió forintnál nagyobb értékű szerződések megkötéséhez szükséges, illetve az így megkötött szerződések módosításához, valamint megszüntetéséhez szükséges előzetes jóváhagyást,
 
 r) egyéb, e törvényben meghatározott feladatokat lát el.
 

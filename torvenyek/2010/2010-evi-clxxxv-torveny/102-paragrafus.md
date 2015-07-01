@@ -1,10 +1,10 @@
-## A közszolgálati médiaszolgáltatók vezérigazgatóinak választása
+## A közszolgálati médiaszolgáltató vezérigazgatójának választása
 
-102. § (1) A közszolgálati médiaszolgáltatók ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokról szóló vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását az általa vezetett közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
+102. § (1) A közszolgálati médiaszolgáltató ügyvezetését a vezérigazgató látja el, igazgatóság nem működik. A vezérigazgató – e törvény keretei között – gyakorolja mindazon hatásköröket, amelyeket a Polgári Törvénykönyvnek a gazdasági társaságokról szóló vonatkozó rendelkezése a részvénytársaság igazgatóságának hatáskörébe utal. A vezérigazgatóval munkaszerződést kell kötni, díjazását a közszolgálati médiaszolgáltató terhére meghatározott havi összegben kell megállapítani.
 
-(2) A közszolgálati médiaszolgáltatók vezérigazgatói feletti munkáltatói jogkört – beleértve a vezérigazgatók kinevezését és munkaviszonyuk megszüntetését – a Kuratórium gyakorolja. A vezérigazgatók jelölése és kinevezése a következő lépések szerinti sorrendben történik:
+(2) A közszolgálati médiaszolgáltató vezérigazgatója feletti munkáltatói jogkört – beleértve a vezérigazgató kinevezését és munkaviszonya megszüntetését – a Kuratórium gyakorolja. A vezérigazgató jelölése és kinevezése a következő lépések szerinti sorrendben történik:
 
-a) a Médiatanács elnöke valamennyi közszolgálati médiaszolgáltató esetében két vezérigazgató-jelöltre tesz javaslatot a Médiatanácsnak,
+a) a Médiatanács elnöke két vezérigazgató-jelöltre tesz javaslatot a Médiatanácsnak,
 
 b) ha a Médiatanács elfogadja a jelölteket, azokat a Kuratórium elé terjeszti, hogy válasszon egyet a jelöltek közül,
 
@@ -16,7 +16,7 @@ e) az első szavazási körben a Kuratórium összes tagjának – ideértve az 
 
 f) ha a két jelöltből a Médiatanács jelölésétől számított harminc napon belül nem tud kétharmados többséggel választani a Kuratórium, akkor új jelölési eljárást kell lefolytatni,
 
-g) az új jelölés során közszolgálati médiaszolgáltatónként két új jelöltre kell javaslatot tenni,
+g) az új jelölés során ismételten két új jelöltre kell javaslatot tenni,
 
 h) az új jelölést követő szavazás során a Kuratórium összes tagjának – ideértve az elnököt is – egyszerű többségével dönt a vezérigazgató kinevezéséről.
 
@@ -46,4 +46,4 @@ e) ha bíróság foglalkozásától, vagy a közügyektől eltiltotta.
 
 (6) Felmentés esetén a munkaviszony megszűnését a Kuratórium állapítja meg.
 
-(7) A vezérigazgató jogosult két vezérigazgató-helyettes kinevezésére. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.
+(7) A vezérigazgató egy vagy több vezérigazgató-helyettes kinevezésére jogosult. A vezérigazgató-helyettesek munkaszerződésének feltételeit a Kuratórium hagyja jóvá.

@@ -112,9 +112,9 @@ c) az igénybe vevő által biztosított információt tárolja (tárhelyszolgá
 
 d) információk megtalálását elősegítő segédeszközöket biztosít az igénybe vevő számára (keresőszolgáltatás).
 
-31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltatók által nyújtott médiaszolgáltatás.
+31. Közszolgálati médiaszolgáltatás: a közszolgálati médiaszolgáltató által nyújtott audiovizuális és rádiós médiaszolgáltatás, hírügynökségi szolgáltatás, valamint internetes úton elérhetővé tett médiatartalmak szolgáltatása.
 
-32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató, valamint a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató által létrehozott médiaszolgáltató, illetve a 84. § (1) bekezdésben nevesített közszolgálati médiaszolgáltató befolyásoló részesedése alatt álló gazdasági társaság által létrehozott médiaszolgáltató.
+32. Közszolgálati médiaszolgáltató: kizárólag – a közszolgálati médiaszolgáltatás céljainak megvalósítására – e törvény 84. § (1) bekezdésében nevesített médiaszolgáltató.
 
 33. Közszolgálati médiavagyon: a közszolgálati médiaszolgáltató, jogelődei, valamint az Alap által megrendelt, bármilyen jogcímen készített, adásvétel útján beszerzett, felhasználási szerződéssel vagy egyéb megállapodás útján részben vagy egészben megszerzett, vagy készített filmalkotások és más audiovizuális művek, rádiós műsorszámok, hangfelvételek és a médiaszolgáltatáshoz kapcsolódó egyéb, kulturális értéket képviselő dokumentumok, fényképek szerzői és szomszédos jogai, vagy ezek bármely felhasználási jogai, valamint e műveket tartalmazó fizikai hordozók (például: lemezek, szalagok, kazetták, papíralapú dokumentumok, kották), továbbá a jelmezek, kellékek, díszletek és egyéb szerzői művek, amennyiben a művel kapcsolatos szerzői és szomszédos jogok a törvény hatálybalépését megelőzően a közszolgálati médiaszolgáltató jogelődei valamelyikét vagy a törvény hatálybalépését követően az Alapot illetik meg vagy illették meg, valamint amelyekre vonatkozóan e törvény hatálybalépését követően a közszolgálati médiaszolgáltató jogelődei szereztek, vagy maga a közszolgálati médiaszolgáltató szerez jogot.
 

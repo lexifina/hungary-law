@@ -12,7 +12,7 @@ d) az egyéb alapítványi célú bevételek (állami költségvetési támogat�
 
 (2) A Közalapítvány kiadásait képezik:
 
-a) a közszolgálati médiaszolgáltatók működési és fejlesztési költségeihez való hozzájárulás,
+a) a közszolgálati médiaszolgáltató működési és fejlesztési költségeihez való hozzájárulás,
 
 b) a Közalapítvány saját költségei, kiadásai.
 

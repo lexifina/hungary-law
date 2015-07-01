@@ -1,8 +1,8 @@
 88. § (1) A Kuratórium elnökére és tagjaira a Hatóság elnökére, elnökhelyettesére, főigazgatójára és főigazgató-helyettesére vonatkozó, a 118. § (1)–(2) bekezdésben foglalt összeférhetetlenségi, illetve a 118. § (3) bekezdésben foglalt szabályokat megfelelően alkalmazni kell.
 
-(2) A Kuratórium elnöke és tagjai a Közalapítvánnyal nem állhatnak munkaviszonyban, és semmilyen jogcímen nem fogadhatnak el díjazást az általuk felügyelt közszolgálati médiaszolgáltatóktól.
+(2) A Kuratórium elnöke és tagjai a Közalapítvánnyal nem állhatnak munkaviszonyban, és semmilyen jogcímen nem fogadhatnak el díjazást a közszolgálati médiaszolgáltatótól.
 
-(3) A Kuratórium elnöke és tagjai a megbízatásuk megszűnését követő egy éven belül nem létesíthetnek munkavégzésre irányuló jogviszonyt közszolgálati médiaszolgáltatóval.
+(3) A Kuratórium elnöke és tagjai a megbízatásuk megszűnését követő egy éven belül nem létesíthetnek munkavégzésre irányuló jogviszonyt a közszolgálati médiaszolgáltatóval.
 
 (4) Ha a Kuratórium elnöke vagy tagja a 89. § (4) bekezdésben meghatározott felhívásra igazolási kötelezettségének önhibájából nem tesz eleget, illetve ha a Kuratórium elnökével vagy tagjával szemben összeférhetetlenségi ok merül fel és az ok keletkezésétől, illetve az összeférhetetlenséget megállapító ülés időpontjától számított harminc napon belül az összeférhetetlenségi ok megszüntetése nem történik meg, a Kuratórium teljes ülése határozatban megállapítja, hogy az elnök vagy a tag kuratóriumi tagsága megszűnt. A Kuratórium elnöke, illetőleg tagja az összeférhetetlenséget megállapító határozat meghozatalának időpontjától a tisztségéből eredő jogkörét nem gyakorolhatja.
 
