@@ -1,4 +1,4 @@
-1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^13]
+1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^10]
 
 1. BARANYA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -24,99 +24,109 @@
 
 1.1.10. Erdősmecske
 
-1.1.11. Felsőegerszeg
+1.1.11. Erzsébet
 
-1.1.12. Gerényes
+1.1.12. Fazekasboda
 
-1.1.13. Gödre
+1.1.13. Felsőegerszeg
 
-1.1.14. Hegyhátmaróc
+1.1.14. Geresdlak
 
-1.1.15. Hidas
+1.1.15. Gerényes
 
-1.1.16. Hosszúhetény
+1.1.16. Gödre
 
-1.1.17. Kárász
+1.1.17. Hegyhátmaróc
 
-1.1.18. Kisbeszterce
+1.1.18. Hidas
 
-1.1.19. Kishajmás
+1.1.19. Kárász
 
-1.1.20. Kisvaszar
+1.1.20. Kátoly
 
-1.1.21. Komló
+1.1.21. Kékesd
 
-1.1.22. Köblény
+1.1.22. Kisbeszterce
 
-1.1.23. Liget
+1.1.23. Kishajmás
 
-1.1.24. Lovászhetény
+1.1.24. Kisvaszar
 
-1.1.25. Magyaregregy
+1.1.25. Komló
 
-1.1.26. Magyarhertelend
+1.1.26. Köblény
 
-1.1.27. Magyarszék
+1.1.27. Liget
 
-1.1.28. Martonfa
+1.1.28. Lovászhetény
 
-1.1.29. Mágocs
+1.1.29. Magyaregregy
 
-1.1.30. Mánfa
+1.1.30. Magyarhertelend
 
-1.1.31. Máza
+1.1.31. Magyarszék
 
-1.1.32. Mecseknádasd
+1.1.32. Martonfa
 
-1.1.33. Mecsekpölöske
+1.1.33. Mágocs
 
-1.1.34. Mekényes
+1.1.34. Mánfa
 
-1.1.35. Meződ
+1.1.35. Máza
 
-1.1.36. Mindszentgodisa
+1.1.36. Mecseknádasd
 
-1.1.37. Nagyhajmás
+1.1.37. Mecsekpölöske
 
-1.1.38. Nagypall
+1.1.38. Mekényes
 
-1.1.39. Oroszló
+1.1.39. Meződ
 
-1.1.40. Óbánya
+1.1.40. Mindszentgodisa
 
-1.1.41. Ófalu
+1.1.41. Nagyhajmás
 
-1.1.42. Palé
+1.1.42. Nagypall
 
-1.1.43. Pécsvárad
+1.1.43. Oroszló
 
-1.1.44. Sásd
+1.1.44. Óbánya
 
-1.1.45. Szalatnak
+1.1.45. Ófalu
 
-1.1.46. Szágy
+1.1.46. Palé
 
-1.1.47. Szárász
+1.1.47. Pécsvárad
 
-1.1.48. Szászvár
+1.1.48. Sásd
 
-1.1.49. Tarrós
+1.1.49. Szalatnak
 
-1.1.50. Tékes
+1.1.50. Szágy
 
-1.1.51. Tormás
+1.1.51. Szárász
 
-1.1.52. Tófű
+1.1.52. Szászvár
 
-1.1.53. Varga
+1.1.53. Szellő
 
-1.1.54. Vásárosdombó
+1.1.54. Tarrós
 
-1.1.55. Vázsnok
+1.1.55. Tékes
 
-1.1.56. Vékény
+1.1.56. Tormás
 
-1.1.57. Zengővárkony
+1.1.57. Tófű
+
+1.1.58. Varga
+
+1.1.59. Vásárosdombó
+
+1.1.60. Vázsnok
+
+1.1.61. Vékény
+
+1.1.62. Zengővárkony
 
 1.2. Mohácsi Rendőrkapitányság
 
@@ -136,91 +146,79 @@
 
 1.2.8. Erdősmárok
 
-1.2.9. Erzsébet
+1.2.9. Feked
 
-1.2.10. Fazekasboda
+1.2.10. Görcsönydoboka
 
-1.2.11. Feked
+1.2.11. Hásságy
 
-1.2.12. Geresdlak
+1.2.12. Himesháza
 
-1.2.13. Görcsönydoboka
+1.2.13. Homorúd
 
-1.2.14. Hásságy
+1.2.14. Ivándárda
 
-1.2.15. Himesháza
+1.2.15. Kisbudmér
 
-1.2.16. Homorúd
+1.2.16. Kisnyárád
 
-1.2.17. Ivándárda
+1.2.17. Kölked
 
-1.2.18. Kátoly
+1.2.18. Lánycsók
 
-1.2.19. Kékesd
+1.2.19. Lippó
 
-1.2.20. Kisbudmér
+1.2.20. Liptód
 
-1.2.21. Kisnyárád
+1.2.21. Majs
 
-1.2.22. Kölked
+1.2.22. Maráza
 
-1.2.23. Lánycsók
+1.2.23. Máriakéménd
 
-1.2.24. Lippó
+1.2.24. Mohács
 
-1.2.25. Liptód
+1.2.25. Monyoród
 
-1.2.26. Majs
+1.2.26. Nagybudmér
 
-1.2.27. Maráza
+1.2.27. Nagynyárád
 
-1.2.28. Máriakéménd
+1.2.28. Olasz
 
-1.2.29. Mohács
+1.2.29. Palotabozsok
 
-1.2.30. Monyoród
+1.2.30. Pócsa
 
-1.2.31. Nagybudmér
+1.2.31. Sárok
 
-1.2.32. Nagynyárád
+1.2.32. Sátorhely
 
-1.2.33. Olasz
+1.2.33. Somberek
 
-1.2.34. Palotabozsok
+1.2.34. Szajk
 
-1.2.35. Pócsa
+1.2.35. Szebény
 
-1.2.36. Sárok
+1.2.36. Szederkény
 
-1.2.37. Sátorhely
+1.2.37. Székelyszabar
 
-1.2.38. Somberek
+1.2.38. Szűr
 
-1.2.39. Szajk
+1.2.39. Töttös
 
-1.2.40. Szebény
+1.2.40. Udvar
 
-1.2.41. Szederkény
+1.2.41. Versend
 
-1.2.42. Szellő
+1.2.42. Véménd
 
-1.2.43. Székelyszabar
+1.2.43. Udvar közúti határátkelőhely
 
-1.2.44. Szűr
+1.2.44. Mohács kikötő vízi határátkelőhely
 
-1.2.45. Töttös
-
-1.2.46. Udvar
-
-1.2.47. Versend
-
-1.2.48. Véménd
-
-1.2.49. Udvar közúti határátkelőhely
-
-1.2.50. Mohács kikötő vízi határátkelőhely
-
-1.2.51. Mohács-Budapest Nemzetközi Hajóállomás vízi út
+1.2.45. Mohács-Budapest Nemzetközi Hajóállomás vízi út
 
 1.3. Pécsi Rendőrkapitányság
 
@@ -228,65 +226,81 @@
 
 1.3.2. Aranyosgadány
 
-1.3.3. Bakonya
+1.3.3. Áta
 
-1.3.4. Berkesd
+1.3.4. Bakonya
 
-1.3.5. Birján
+1.3.5. Berkesd
 
-1.3.6. Bogád
+1.3.6. Birján
 
-1.3.7. Cserkút
+1.3.7. Bogád
 
-1.3.8. Ellend
+1.3.8. Bosta
 
-1.3.9. Görcsöny
+1.3.9. Cserkút
 
-1.3.10. Gyód
+1.3.10. Egerág
 
-1.3.11. Husztót
+1.3.11. Ellend
 
-1.3.12. Keszü
+1.3.12. Görcsöny
 
-1.3.13. Kovácsszénája
+1.3.13. Gyód
 
-1.3.14. Kozármisleny
+1.3.14. Hosszúhetény
 
-1.3.15. Kökény
+1.3.15. Husztót
 
-1.3.16. Kővágószőlős
+1.3.16. Keszü
 
-1.3.17. Kővágótöttös
+1.3.17. Kisherend
 
-1.3.18. Lothárd
+1.3.18. Kovácsszénája
 
-1.3.19. Magyarsarlós
+1.3.19. Kozármisleny
 
-1.3.20. Nagykozár
+1.3.20. Kökény
 
-1.3.21. Orfű
+1.3.21. Kővágószőlős
 
-1.3.22. Ócsárd
+1.3.22. Kővágótöttös
 
-1.3.23. Pellérd
+1.3.23. Lothárd
 
-1.3.24. Pereked
+1.3.24. Magyarsarlós
 
-1.3.25. Pécs
+1.3.25. Nagykozár
 
-1.3.26. Pécsudvard
+1.3.26. Orfű
 
-1.3.27. Pogány
+1.3.27. Ócsárd
 
-1.3.28. Regenye
+1.3.28. Pellérd
 
-1.3.29. Romonya
+1.3.29. Pereked
 
-1.3.30. Szemely
+1.3.30. Pécs
 
-1.3.31. Szilágy
+1.3.31. Pécsudvard
 
-1.3.32. Szőke
+1.3.32. Pogány
+
+1.3.33. Regenye
+
+1.3.34. Romonya
+
+1.3.35. Szalánta
+
+1.3.36. Szemely
+
+1.3.37. Szilágy
+
+1.3.38. Szilvás
+
+1.3.39. Szőke
+
+1.3.40. Szőkéd
 
 1.4. Siklósi Rendőrkapitányság
 
@@ -294,59 +308,59 @@
 
 1.4.2. Alsószentmárton
 
-1.4.3. Áta
+1.4.3. Babarcszőlős
 
-1.4.4. Babarcszőlős
+1.4.4. Baksa
 
-1.4.5. Baksa
+1.4.5. Baranyahídvég
 
-1.4.6. Baranyahídvég
+1.4.6. Beremend
 
-1.4.7. Beremend
+1.4.7. Besence
 
-1.4.8. Besence
+1.4.8. Bisse
 
-1.4.9. Bisse
+1.4.9. Bogádmindszent
 
-1.4.10. Bogádmindszent
+1.4.10. Bogdása
 
-1.4.11. Bosta
+1.4.11. Csarnóta
 
-1.4.12. Csarnóta
+1.4.12. Csányoszró
 
-1.4.13. Csányoszró
+1.4.13. Cún
 
-1.4.14. Cún
+1.4.14. Diósviszló
 
-1.4.15. Diósviszló
+1.4.15. Drávacsehi
 
-1.4.16. Drávacsehi
+1.4.16. Drávacsepely
 
-1.4.17. Drávacsepely
+1.4.17. Drávafok
 
 1.4.18. Drávaiványi
 
-1.4.19. Drávapalkonya
+1.4.19. Drávakeresztúr
 
-1.4.20. Drávapiski
+1.4.20. Drávapalkonya
 
-1.4.21. Drávaszabolcs
+1.4.21. Drávapiski
 
-1.4.22. Drávaszerdahely
+1.4.22. Drávaszabolcs
 
-1.4.23. Drávasztára
+1.4.23. Drávaszerdahely
 
-1.4.24. Egerág
+1.4.24. Drávasztára
 
 1.4.25. Egyházasharaszti
 
-1.4.26. Garé
+1.4.26. Felsőszentmárton
 
-1.4.27. Gilvánfa
+1.4.27. Garé
 
-1.4.28. Gordisa
+1.4.28. Gilvánfa
 
-1.4.29. Gyűrűspuszta
+1.4.29. Gordisa
 
 1.4.30. Harkány
 
@@ -374,33 +388,33 @@
 
 1.4.42. Kisharsány
 
-1.4.43. Kisherend
+1.4.43. Kisjakabfalva
 
-1.4.44. Kisjakabfalva
+1.4.44. Kiskassa
 
-1.4.45. Kiskassa
+1.4.45. Kislippó
 
-1.4.46. Kislippó
+1.4.46. Kisszentmárton
 
-1.4.47. Kisszentmárton
+1.4.47. Kistapolca
 
-1.4.48. Kistapolca
+1.4.48. Kistótfalu
 
-1.4.49. Kistótfalu
+1.4.49. Kovácshida
 
-1.4.50. Kovácshida
+1.4.50. Kórós
 
-1.4.51. Kórós
+1.4.51. Lapáncsa
 
-1.4.52. Lapáncsa
+1.4.52. Lúzsok
 
-1.4.53. Lúzsok
+1.4.53. Magyarbóly
 
-1.4.54. Magyarbóly
+1.4.54. Magyarmecske
 
-1.4.55. Magyarmecske
+1.4.55. Magyartelek
 
-1.4.56. Magyartelek
+1.4.56. Markóc
 
 1.4.57. Marócsa
 
@@ -446,53 +460,47 @@
 
 1.4.78. Sósvertike
 
-1.4.79. Szalánta
+1.4.79. Szaporca
 
-1.4.80. Szaporca
+1.4.80. Szava
 
-1.4.81. Szava
+1.4.81. Tengeri
 
-1.4.82. Szilvás
+1.4.82. Tésenfa
 
-1.4.83. Szőkéd
+1.4.83. Téseny
 
-1.4.84. Tengeri
+1.4.84. Túrony
 
-1.4.85. Tésenfa
+1.4.85. Újpetre
 
-1.4.86. Téseny
+1.4.86. Vajszló
 
-1.4.87. Túrony
+1.4.87. Vejti
 
-1.4.88. Újpetre
+1.4.88. Villány
 
-1.4.89. Vajszló
+1.4.89. Villánykövesd
 
-1.4.90. Vejti
+1.4.90. Vokány
 
-1.4.91. Villány
+1.4.91. Zaláta
 
-1.4.92. Villánykövesd
+1.4.92. Drávaszabolcs közúti határátkelőhely
 
-1.4.93. Vokány
+1.4.93. Beremend közúti határátkelőhely
 
-1.4.94. Zaláta
+1.4.94. Drávaszabolcs kikötő vízi határátkelőhely
 
-1.4.95. Drávaszabolcs közúti határátkelőhely
+1.4.95. Magyarbóly vasúti határátkelőhely
 
-1.4.96. Beremend közúti határátkelőhely
-
-1.4.97. Drávaszabolcs kikötő vízi határátkelőhely
-
-1.4.98. Magyarbóly vasúti határátkelőhely
-
-1.4.99. Magyarbóly-Beli Monastír (Pélmonostor) vasútvonal
+1.4.96. Magyarbóly-Beli Monastír (Pélmonostor) vasútvonal
 
 1.5. Szigetvári Rendőrkapitányság
 
 1.5.1. Almamellék
 
-1.5.2. Almáskeresztur
+1.5.2. Almáskeresztúr
 
 1.5.3. Basal
 
@@ -502,135 +510,125 @@
 
 1.5.6. Boda
 
-1.5.7. Bogdása
+1.5.7. Boldogasszonyfa
 
-1.5.8. Boldogasszonyfa
+1.5.8. Botykapeterd
 
-1.5.9. Botykapeterd
+1.5.9. Bükkösd
 
-1.5.10. Bükkösd
+1.5.10. Bürüs
 
-1.5.11. Bürüs
+1.5.11. Csebény
 
-1.5.12. Csebény
+1.5.12. Cserdi
 
-1.5.13. Cserdi
+1.5.13. Csertő
 
-1.5.14. Csertő
+1.5.14. Csonkamindszent
 
-1.5.15. Csonkamindszent
+1.5.15. Dencsháza
 
-1.5.16. Dencsháza
+1.5.16. Dinnyeberki
 
-1.5.17. Dinnyeberki
+1.5.17. Endrőc
 
-1.5.18. Drávafok
+1.5.18. Gerde
 
-1.5.19. Drávakeresztúr
+1.5.19. Gyöngyfa
 
-1.5.20. Endrőc
+1.5.20. Gyöngyösmellék
 
-1.5.21. Felsőszentmárton
+1.5.21. Helesfa
 
-1.5.22. Gerde
+1.5.22. Hetvehely
 
-1.5.23. Gyöngyfa
+1.5.23. Hobol
 
-1.5.24. Gyöngyösmellék
+1.5.24. Horváthertelend
 
-1.5.25. Helesfa
+1.5.25. Ibafa
 
-1.5.26. Hetvehely
+1.5.26. Kacsóta
 
-1.5.27. Hobol
+1.5.27. Katádfa
 
-1.5.28. Horváthertelend
+1.5.28. Kétújfalu
 
-1.5.29. Ibafa
+1.5.29. Királyegyháza
 
-1.5.30. Kacsóta
+1.5.30. Kisdobsza
 
-1.5.31. Katádfa
+1.5.31. Kistamási
 
-1.5.32. Kétújfalu
+1.5.32. Magyarlukafa
 
-1.5.33. Királyegyháza
+1.5.33. Merenye
 
-1.5.34. Kisdobsza
+1.5.34. Molvány
 
-1.5.35. Kistamási
+1.5.35. Mozsgó
 
-1.5.36. Magyarlukafa
+1.5.36. Nagydobsza
 
-1.5.37. Markóc
+1.5.37. Nagypeterd
 
-1.5.38. Merenye
+1.5.38. Nagyváty
 
-1.5.39. Molvány
+1.5.39. Nemeske
 
-1.5.40. Mozsgó
+1.5.40. Nyugotszenterzsébet
 
-1.5.41. Nagydobsza
+1.5.41. Okorvölgy
 
-1.5.42. Nagypeterd
+1.5.42. Patapoklosi
 
-1.5.43. Nagyváty
+1.5.43. Pettend
 
-1.5.44. Nemeske
+1.5.44. Pécsbagota
 
-1.5.45. Nyugotszenterzsébet
+1.5.45. Rózsafa
 
-1.5.46. Okorvölgy
+1.5.46. Somogyapáti
 
-1.5.47. Patapoklosi
+1.5.47. Somogyhatvan
 
-1.5.48. Pettend
+1.5.48. Somogyhárságy
 
-1.5.49. Pécsbagota
+1.5.49. Somogyviszló
 
-1.5.50. Rózsafa
+1.5.50. Sumony
 
-1.5.51. Somogyapáti
+1.5.51. Szabadszentkirály
 
-1.5.52. Somogyhatvan
+1.5.52. Szentdénes
 
-1.5.53. Somogyhárságy
+1.5.53. Szentegát
 
-1.5.54. Somogyviszló
+1.5.54. Szentkatalin
 
-1.5.55. Sumony
+1.5.55. Szentlászló
 
-1.5.56. Szabadszentkirály
+1.5.56. Szentlőrinc
 
-1.5.57. Szentdénes
+1.5.57. Szigetvár
 
-1.5.58. Szentegát
+1.5.58. Szörény
 
-1.5.59. Szentkatalin
+1.5.59. Szulimán
 
-1.5.60. Szentlászló
+1.5.60. Teklafalu
 
-1.5.61. Szentlőrinc
+1.5.61. Tótszentgyörgy
 
-1.5.62. Szigetvár
+1.5.62. Várad
 
-1.5.63. Szörény
+1.5.63. Vásárosbéc
 
-1.5.64. Szulimán
+1.5.64. Velény
 
-1.5.65. Teklafalu
+1.5.65. Zádor
 
-1.5.66. Tótszentgyörgy
-
-1.5.67. Várad
-
-1.5.68. Vásárosbérc
-
-1.5.69. Velény
-
-1.5.70. Zádor
-
-1.5.71. Zók
+1.5.66. Zók
 
 2. BÁCS-KISKUN MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -682,15 +680,13 @@
 
 2.1.23. Nemesnádudvar
 
-2.1.24. Rém
+2.1.24. Sükösd
 
-2.1.25. Sükösd
+2.1.25. Szeremle
 
-2.1.26. Szeremle
+2.1.26. Tataháza
 
-2.1.27. Tataháza
-
-2.1.28. Vaskút
+2.1.27. Vaskút
 
 2.2. Kalocsai Rendőrkapitányság
 
@@ -738,73 +734,79 @@
 
 2.3. Kecskeméti Rendőrkapitányság
 
-2.3.1. Ballószög
+2.3.1. Ágasegyháza
 
-2.3.2. Felsőlajos
+2.3.2. Ballószög
 
-2.3.3. Fülöpháza
+2.3.3. Felsőlajos
 
-2.3.4. Helvécia
+2.3.4. Fülöpháza
 
-2.3.5. Jakabszállás
+2.3.5. Fülöpjakab
 
-2.3.6. Kecskemét
+2.3.6. Helvécia
 
-2.3.7. Kerekegyháza
+2.3.7. Jakabszállás
 
-2.3.8. Kunbaracs
+2.3.8. Kecskemét
 
-2.3.9. Ladánybene
+2.3.9. Kerekegyháza
 
-2.3.10. Lajosmizse
+2.3.10. Kunbaracs
 
-2.3.11. Lakitelek
+2.3.11. Kunszállás
 
-2.3.12. Nyárlőrinc
+2.3.12. Ladánybene
 
-2.3.13. Szentkirály
+2.3.13. Lajosmizse
 
-2.3.14. Tiszakécske
+2.3.14. Lakitelek
 
-2.3.15. Tiszaug
+2.3.15. Nyárlőrinc
 
-2.3.16. Városföld
+2.3.16. Orgovány
+
+2.3.17. Szentkirály
+
+2.3.18. Tiszaalpár
+
+2.3.19. Tiszakécske
+
+2.3.20. Tiszaug
+
+2.3.21. Városföld
 
 2.4. Kiskőrösi Rendőrkapitányság
 
 2.4.1. Akasztó
 
-2.4.2. Ágasegyháza
+2.4.2. Bócsa
 
-2.4.3. Bócsa
+2.4.3. Császártöltés
 
-2.4.4. Császártöltés
+2.4.4. Csengőd
 
-2.4.5. Csengőd
+2.4.5. Fülöpszállás
 
-2.4.6. Fülöpszállás
+2.4.6. Imrehegy
 
-2.4.7. Imrehegy
+2.4.7. Izsák
 
-2.4.8. Izsák
+2.4.8. Kaskantyú
 
-2.4.9. Kaskantyú
+2.4.9. Kecel
 
-2.4.10. Kecel
+2.4.10. Kiskőrös
 
-2.4.11. Kiskőrös
+2.4.11. Páhi
 
-2.4.12. Orgovány
+2.4.12. Soltszentimre
 
-2.4.13. Páhi
+2.4.13. Soltvadkert
 
-2.4.14. Soltszentimre
+2.4.14. Tabdi
 
-2.4.15. Soltvadkert
-
-2.4.16. Tabdi
-
-2.4.17. Tázlár
+2.4.15. Tázlár
 
 2.5. Kiskunfélegyházi Rendőrkapitányság
 
@@ -812,19 +814,13 @@
 
 2.5.2. Bugacpusztaháza
 
-2.5.3. Fülöpjakab
+2.5.3. Gátér
 
-2.5.4. Gátér
+2.5.4. Kiskunfélegyháza
 
-2.5.5. Kiskunfélegyháza
+2.5.5. Pálmonostora
 
-2.5.6. Kunszállás
-
-2.5.7. Pálmonostora
-
-2.5.8. Petőfiszállás
-
-2.5.9. Tiszaalpár
+2.5.6. Petőfiszállás
 
 2.6. Kiskunhalasi Rendőrkapitányság
 
@@ -860,11 +856,13 @@
 
 2.6.16. Pirtó
 
-2.6.17. Szank
+2.6.17. Rém
 
-2.6.18. Tompa
+2.6.18. Szank
 
-2.6.19. Zsana
+2.6.19. Tompa
+
+2.6.20. Zsana
 
 2.7. Kunszentmiklósi Rendőrkapitányság
 
@@ -960,17 +958,15 @@
 
 3.1.2. Bélmegyer
 
-3.1.3. Csárdaszállás
+3.1.3. Kamut
 
-3.1.4. Kamut
+3.1.4. Köröstarcsa
 
-3.1.5. Köröstarcsa
+3.1.5. Mezőberény
 
-3.1.6. Mezőberény
+3.1.6. Murony
 
-3.1.7. Murony
-
-3.1.8. Tarhos
+3.1.7. Tarhos
 
 3.2. Békéscsabai Rendőrkapitányság
 
@@ -986,13 +982,11 @@
 
 3.2.6. Kétsoprony
 
-3.2.7. Kondoros
+3.2.7. Szabadkígyós
 
-3.2.8. Szabadkígyós
+3.2.8. Telekgerendás
 
-3.2.9. Telekgerendás
-
-3.2.10. Újkígyós
+3.2.9. Újkígyós
 
 3.3. Gyulai Rendőrkapitányság
 
@@ -1002,7 +996,7 @@
 
 3.3.3. Kétegyháza
 
-3.3.4. Lökösháza
+3.3.4. Lőkösháza
 
 3.4. Mezőkovácsházi Rendőrkapitányság
 
@@ -1018,7 +1012,7 @@
 
 3.4.6. Kevermes
 
-3.4.7. Kisdombegyháza
+3.4.7. Kisdombegyház
 
 3.4.8. Kunágota
 
@@ -1074,13 +1068,15 @@
 
 3.6.6. Méhkerék
 
-3.6.7. Sarkad
+3.6.7. Okány
 
-3.6.8. Sarkadkeresztúr
+3.6.8. Sarkad
 
-3.6.9. Újszalonta
+3.6.9. Sarkadkeresztúr
 
-3.6.10. Zsadány
+3.6.10. Újszalonta
+
+3.6.11. Zsadány
 
 3.7. Szarvasi Rendőrkapitányság
 
@@ -1088,19 +1084,23 @@
 
 3.7.2. Csabacsűd
 
-3.7.3. Dévaványa
+3.7.3. Csárdaszállás
 
-3.7.4. Ecsegfalva
+3.7.4. Dévaványa
 
-3.7.5. Gyomaendrőd
+3.7.5. Ecsegfalva
 
-3.7.6. Hunya
+3.7.6. Gyomaendrőd
 
-3.7.7. Kardos
+3.7.7. Hunya
 
-3.7.8. Örménykút
+3.7.8. Kardos
 
-3.7.9. Szarvas
+3.7.9. Kondoros
+
+3.7.10. Örménykút
+
+3.7.11. Szarvas
 
 3.8. Szeghalmi Rendőrkapitányság
 
@@ -1114,11 +1114,9 @@
 
 3.8.5. Körösújfalu
 
-3.8.6. Okány
+3.8.6. Szeghalom
 
-3.8.7. Szeghalom
-
-3.8.8. Vésztő
+3.8.7. Vésztő
 
 3.9. Határrendészeti Kirendeltség Battonya
 
@@ -1216,99 +1214,95 @@
 
 4.1. Edelényi Rendőrkapitányság
 
-4.1.1. Aggtelek
+4.1.1. Abod
 
-4.1.2. Abod
+4.1.2. Balajt
 
-4.1.3. Balajt
+4.1.3. Becskeháza
 
-4.1.4. Becskeháza
+4.1.4. Boldva
 
-4.1.5. Boldva
+4.1.5. Borsodszirák
 
-4.1.6. Borsodszirák
+4.1.6. Bódvalenke
 
-4.1.7. Bódvalenke
+4.1.7. Bódvarákó
 
-4.1.8. Bódvarákó
+4.1.8. Bódvaszilas
 
-4.1.9. Bódvaszilas
+4.1.9. Damak
 
-4.1.10. Damak
+4.1.10. Debréte
 
-4.1.11. Debréte
+4.1.11. Edelény
 
-4.1.12. Edelény
+4.1.12. Égerszög
 
-4.1.13. Égerszög
+4.1.13. Galvács
 
-4.1.14. Galvács
+4.1.14. Hangács
 
-4.1.15. Hangács
+4.1.15. Hegymeg
 
-4.1.16. Hegymeg
+4.1.16. Hidvégardó
 
-4.1.17. Hidvégardó
+4.1.17. Irota
 
-4.1.18. Irota
+4.1.18. Komjáti
 
-4.1.19. Jósvafő
+4.1.19. Lak
 
-4.1.20. Komjáti
+4.1.20. Ládbesenyő
 
-4.1.21. Lak
+4.1.21. Martonyi
 
-4.1.22. Ládbesenyő
+4.1.22. Meszes
 
-4.1.23. Martonyi
+4.1.23. Nyomár
 
-4.1.24. Meszes
+4.1.24. Perkupa
 
-4.1.25. Nyomár
+4.1.25. Rakaca
 
-4.1.26. Perkupa
+4.1.26. Rakacaszend
 
-4.1.27. Rakaca
+4.1.27. Szakácsi
 
-4.1.28. Rakacaszend
+4.1.28. Szalonna
 
-4.1.29. Szakácsi
+4.1.29. Szendrő
 
-4.1.30. Szalonna
+4.1.30. Szendrőlád
 
-4.1.31. Szendrő
+4.1.31. Szin
 
-4.1.32. Szendrőlád
+4.1.32. Szinpetri
 
-4.1.33. Szin
+4.1.33. Szögliget
 
-4.1.34. Szinpetri
+4.1.34. Szőlősardó
 
-4.1.35. Szögliget
+4.1.35. Szuhogy
 
-4.1.36. Szőlősardó
+4.1.36. Teresztenye
 
-4.1.37. Szuhogy
+4.1.37. Tomor
 
-4.1.38. Teresztenye
+4.1.38. Tornabarakony
 
-4.1.39. Tomor
+4.1.39. Tornakápolna
 
-4.1.40. Tornabarakony
+4.1.40. Tornanádaska
 
-4.1.41. Tornakápolna
+4.1.41. Tornaszentandrás
 
-4.1.42. Tornanádaska
+4.1.42. Tornaszentjakab
 
-4.1.43. Tornaszentandrás
+4.1.43. Varbóc
 
-4.1.44. Tornaszentjakab
+4.1.44. Viszló
 
-4.1.45. Varbóc
-
-4.1.46. Viszló
-
-4.1.47. Ziliz
+4.1.45. Ziliz
 
 4.2. Encsi Rendőrkapitányság
 
@@ -1318,241 +1312,211 @@
 
 4.2.3. Abaújlak
 
-4.2.4. Abaújszolnok
+4.2.4. Abaújszántó
 
-4.2.5. Abaújvár
+4.2.5. Abaújszolnok
 
-4.2.6. Alsógagy
+4.2.6. Abaújvár
 
-4.2.7. Alsóvadász
+4.2.7. Alsógagy
 
-4.2.8. Arka
+4.2.8. Alsóvadász
 
-4.2.9. Aszaló
+4.2.9. Arka
 
-4.2.10. Baktakék
+4.2.10. Aszaló
 
-4.2.11. Beret
+4.2.11. Baktakék
 
-4.2.12. Boldogkőújfalu
+4.2.12. Baskó
 
-4.2.13. Boldogkőváralja
+4.2.13. Beret
 
-4.2.14. Büttös
+4.2.14. Boldogkőújfalu
 
-4.2.15. Csenyéte
+4.2.15. Boldogkőváralja
 
-4.2.16. Csobád
+4.2.16. Büttös
 
-4.2.17. Detek
+4.2.17. Csenyéte
 
-4.2.18. Encs
+4.2.18. Csobád
 
-4.2.19. Fancsal
+4.2.19. Detek
 
-4.2.20. Fáj
+4.2.20. Encs
 
-4.2.21. Felsődobsza
+4.2.21. Fancsal
 
-4.2.22. Felsőgagy
+4.2.22. Fáj
 
-4.2.23. Felsővadász
+4.2.23. Felsődobsza
 
-4.2.24. Fony
+4.2.24. Felsőgagy
 
-4.2.25. Forró
+4.2.25. Felsővadász
 
-4.2.26. Fulókércs
+4.2.26. Fony
 
-4.2.27. Gadna
+4.2.27. Forró
 
-4.2.28. Gagyapáti
+4.2.28. Fulókércs
 
-4.2.29. Gagybátor
+4.2.29. Gadna
 
-4.2.30. Gagyvendégi
+4.2.30. Gagyapáti
 
-4.2.31. Garadna
+4.2.31. Gagybátor
 
-4.2.32. Gibárt
+4.2.32. Gagyvendégi
 
-4.2.33. Gönc
+4.2.33. Garadna
 
-4.2.34. Göncruszka
+4.2.34. Gibárt
 
-4.2.35. Halmaj
+4.2.34. Gönc
 
-4.2.36. Hejce
+4.2.36. Göncruszka
 
-4.2.37. Hernádbűd
+4.2.37. Halmaj
 
-4.2.38. Hernádcéce
+4.2.38. Hejce
 
-4.2.39. Hernádkércs
+4.2.39. Hernádbűd
 
-4.2.40. Hernádpetri
+4.2.40. Hernádcéce
 
-4.2.41. Hernádszentandrás
+4.2.41. Hernádkércs
 
-4.2.42. Hernádszurdok
+4.2.42. Hernádpetri
 
-4.2.43. Hernádvécse
+4.2.43. Hernádszentandrás
 
-4.2.44. Hidasnémeti
+4.2.44. Hernádszurdok
 
-4.2.45. Homrogd
+4.2.45. Hernádvécse
 
-4.2.46. Ináncs
+4.2.46. Hidasnémeti
 
-4.2.47. Kány
+4.2.47. Homrogd
 
-4.2.48. Kázsmárk
+4.2.48. Ináncs
 
-4.2.49. Keresztéte
+4.2.49. Kány
 
-4.2.50. Kéked
+4.2.50. Kázsmárk
 
-4.2.51. Kiskinizs
+4.2.51. Keresztéte
 
-4.2.52. Korlát
+4.2.52. Kéked
 
-4.2.53. Krasznokvajda
+4.2.53. Kiskinizs
 
-4.2.54. Kupa
+4.2.54. Korlát
 
-4.2.55. Léh
+4.2.55. Krasznokvajda
 
-4.2.56. Litka
+4.2.56. Kupa
 
-4.2.57. Méra
+4.2.57. Léh
 
-4.2.58. Mogyoróska
+4.2.58. Litka
 
-4.2.59. Monaj
+4.2.59. Méra
 
-4.2.60. Nagykinizs
+4.2.60. Mogyoróska
 
-4.2.61. Novajidrány
+4.2.61. Monaj
 
-4.2.62. Nyésta
+4.2.62. Nagykinizs
 
-4.2.63. Pamlény
+4.2.63. Novajidrány
 
-4.2.64. Pányok
+4.2.64. Nyésta
 
-4.2.65. Pere
+4.2.65. Pamlény
 
-4.2.66. Perecse
+4.2.66. Pányok
 
-4.2.67. Pusztaradvány
+4.2.67. Pere
 
-4.2.68. Rásonysápberencs
+4.2.68. Perecse
 
-4.2.69. Regéc
+4.2.69. Pusztaradvány
 
-4.2.70. Selyeb
+4.2.70. Rásonysápberencs
 
-4.2.71. Szalaszend
+4.2.71. Regéc
 
-4.2.72. Szászfa
+4.2.72. Selyeb
 
-4.2.73. Szemere
+4.2.73. Sima
 
-4.2.74. Szentistvánbaksa
+4.2.74. Szalaszend
 
-4.2.75. Szikszó
+4.2.75. Szászfa
 
-4.2.76. Telkibánya
+4.2.76. Szemere
 
-4.2.77. Tornyosnémeti
+4.2.77. Szentistvánbaksa
 
-4.2.78. Vilmány
+4.2.78. Szikszó
 
-4.2.79. Vizsoly
+4.2.79. Telkibánya
 
-4.2.80. Zsujta
+4.2.80. Tornyosnémeti
+
+4.2.81. Vilmány
+
+4.2.82. Vizsoly
+
+4.2.83. Zsujta
 
 4.3. Kazincbarcikai Rendőrkapitányság
 
 4.3.1. Alacska
 
-4.3.2. Alsószuha
+4.3.2. Alsótelekes
 
-4.3.3. Alsótelekes
+4.3.3. Bánhorváti
 
-4.3.4. Bánhorváti
+4.3.4. Berente
 
-4.3.5. Berente
+4.3.5. Dédestapolcsány
 
-4.3.6. Dédestapolcsány
+4.3.6. Felsőtelekes
 
-4.3.7. Dövény
+4.3.7. Izsófalva
 
-4.3.8. Felsőkelecsény
+4.3.8. Kazincbarcika
 
-4.3.9. Felsőnyárád
+4.3.9. Kurityán
 
-4.3.10. Felsőtelekes
+4.3.10. Mályinka
 
-4.3.11. Imola
+4.3.11. Múcsony
 
-4.3.12. Izsófalva
+4.3.12. Nagybarca
 
-4.3.13. Jákfalva
+4.3.13. Ormosbánya
 
-4.3.14. Kazincbarcika
+4.3.14. Rudabánya
 
-4.3.15. Kánó
+4.3.15. Rudolftelep
 
-4.3.16. Kondó
+4.3.16. Sajógalgóc
 
-4.3.17. Kurityán
+4.3.17. Sajóivánka
 
-4.3.18. Mályinka
+4.3.18. Sajókaza
 
-4.3.19. Múcsony
+4.3.19. Sajószentpéter
 
-4.3.20. Nagybarca
+4.3.20. Szuhakálló
 
-4.3.21. Ormosbánya
+4.3.21. Tardona
 
-4.3.22. Parasznya
-
-4.3.23. Radostyán
-
-4.3.24. Ragály
-
-4.3.25. Rudabánya
-
-4.3.26. Rudolftelep
-
-4.3.27. Sajógalgóc
-
-4.3.28. Sajóivánka
-
-4.3.29. Sajókaza
-
-4.3.30. Sajókápolna
-
-4.3.31. Sajólászlófalva
-
-4.3.32. Sajószentpéter
-
-4.3.33. Szuhafő
-
-4.3.34. Szuhakálló
-
-4.3.35. Tardona
-
-4.3.36. Trizs
-
-4.3.37. Vadna
-
-4.3.38. Varbó
-
-4.3.39. Zádorfalva
-
-4.3.40. Zubogy
+4.3.22. Vadna
 
 4.4. Mezőkövesdi Rendőrkapitányság
 
@@ -1632,99 +1596,143 @@
 
 4.5.14. Kistokaj
 
-4.5.15. Mályi
+4.5.15. Kondó
 
-4.5.16. Miskolc
+4.5.16. Köröm
 
-4.5.17. Muhi
+4.5.17. Mályi
 
-4.5.18. Nyékládháza
+4.5.18. Miskolc
 
-4.5.19. Onga
+4.5.19. Nyékládháza
 
-4.5.20. Ónod
+4.5.20. Onga
 
-4.5.21. Répáshuta
+4.5.21. Ónod
 
-4.5.22. Sajóbábony
+4.5.22. Parasznya
 
-4.5.23. Sajóecseg
+4.5.23. Radostyán
 
-4.5.24. Sajóhídvég
+4.5.24. Répáshuta
 
-4.5.25. Sajókeresztúr
+4.5.25. Sajóbábony
 
-4.5.26. Sajólád
+4.5.26. Sajóecseg
 
-4.5.27. Sajópálfala
+4.5.27. Sajóhídvég
 
-4.5.28. Sajópetri
+4.5.28. Sajókápolna
 
-4.5.29. Sajósenye
+4.5.29. Sajókeresztúr
 
-4.5.30. Sajóvámos
+4.5.30. Sajólád
 
-4.5.31. Szirmabesenyő
+4.5.31. Sajólászlófalva
+
+4.5.32. Sajópálfala
+
+4.5.33. Sajópetri
+
+4.5.34. Sajósenye
+
+4.5.35. Sajóvámos
+
+4.5.36. Sóstófalva
+
+4.5.37. Szirmabesenyő
+
+4.5.38. Újcsanálos
+
+4.5.39. Varbó
 
 4.6. Ózdi Rendőrkapitányság
 
-4.6.1. Arló
+4.6.1. Aggtelek
 
-4.6.2. Bánréve
+4.6.2. Alsószuha
 
-4.6.3. Borsodbóta
+4.6.3. Arló
 
-4.6.4. Borsodnádasd
+4.6.4. Bánréve
 
-4.6.5. Borsodszentgyörgy
+4.6.5. Borsodbóta
 
-4.6.6. Bükkmogyorósd
+4.6.6. Borsodnádasd
 
-4.6.7. Csernely
+4.6.7. Borsodszentgyörgy
 
-4.6.8. Csokvaomány
+4.6.8. Bükkmogyorósd
 
-4.6.9. Domaháza
+4.6.9. Csernely
 
-4.6.10. Dubicsány
+4.6.10. Csokvaomány
 
-4.6.11. Farkaslyuk
+4.6.11. Domaháza
 
-4.6.12. Gömörszőlős
+4.6.12. Dövény
 
-4.6.13. Hangony
+4.6.13. Dubicsány
 
-4.6.14. Hét
+4.6.14. Farkaslyuk
 
-4.6.15. Járdánháza
+4.6.15. Felsőkelecsény
 
-4.6.16. Kelemér
+4.6.16. Felsőnyárád
 
-4.6.17. Királd
+4.6.17. Gömörszőlős
 
-4.6.18. Kissikátor
+4.6.18. Hangony
 
-4.6.19. Lénárddaróc
+4.6.19. Hét
 
-4.6.20. Nekézseny
+4.6.20. Imola
 
-4.6.21. Ózd
+4.6.21. Jákfalva
 
-4.6.22. Putnok
+4.6.22. Járdánháza
 
-4.6.23. Sajómercse
+4.6.23 Jósvafő
 
-4.6.24. Sajónémeti
+4.6.24. Kánó
 
-4.6.25. Sajópüspöki
+4.6.25. Kelemér
 
-4.6.26. Sajóvelezd
+4.6.26. Királd
 
-4.6.27. Sáta
+4.6.27. Kissikátor
 
-4.6.28. Serényfalva
+4.6.28. Lénárddaróc
 
-4.6.29. Uppony
+4.6.29. Nekézseny
+
+4.6.30. Ózd
+
+4.6.31. Putnok
+
+4.6.32. Ragály
+
+4.6.33. Sajómercse
+
+4.6.34. Sajónémeti
+
+4.6.35. Sajópüspöki
+
+4.6.36. Sajóvelezd
+
+4.6.37. Sáta
+
+4.6.38. Serényfalva
+
+4.6.39. Szuhafő
+
+4.6.40. Trizs
+
+4.6.41. Uppony
+
+4.6.42. Zádorfalva
+
+4.6.43. Zubogy
 
 4.7. Sárospataki Rendőrkapitányság
 
@@ -1742,7 +1750,7 @@
 
 4.7.7. Komlóska
 
-4.7.8. Makkoshottyka
+4.7.8. Makkoshotyka
 
 4.7.9. Olaszliszka
 
@@ -1836,69 +1844,59 @@
 
 4.9. Szerencsi Rendőrkapitányság
 
-4.9.1. Abaújszántó
+4.9.1. Alsódobsza
 
-4.9.2. Alsódobsza
+4.9.2. Bekecs
 
-4.9.3. Baskó
+4.9.3. Bodrogkeresztúr
 
-4.9.4. Bekecs
+4.9.4. Bodrogkisfalud
 
-4.9.5. Bodrogkeresztúr
+4.9.5. Csobaj
 
-4.9.6. Bodrogkisfalud
+4.9.6. Erdőbénye
 
-4.9.7. Csobaj
+4.9.7. Golop
 
-4.9.8. Erdőbénye
+4.9.8. Legyesbénye
 
-4.9.9. Golop
+4.9.9. Mád
 
-4.9.10. Legyesbénye
+4.9.10. Megyaszó
 
-4.9.11. Mád
+4.9.11. Mezőzombor
 
-4.9.12. Megyaszó
+4.9.12. Monok
 
-4.9.13. Mezőzombor
+4.9.13. Prügy
 
-4.9.14. Monok
+4.9.14. Rátka
 
-4.9.15. Prügy
+4.9.15. Szegi
 
-4.9.16. Rátka
+4.9.16. Szegilong
 
-4.9.17. Sima
+4.9.17. Szerencs
 
-4.9.18. Sóstófalva
+4.9.18. Taktabáj
 
-4.9.19. Szegi
+4.9.19. Taktaharkány
 
-4.9.20. Szegilong
+4.9.20. Taktakenéz
 
-4.9.21. Szerencs
+4.9.21. Taktaszada
 
-4.9.22. Taktabáj
+4.9.22. Tarcal
 
-4.9.23. Taktaharkány
+4.9.23. Tállya
 
-4.9.24. Taktakenéz
+4.9.24. Tiszaladány
 
-4.9.25. Taktaszada
+4.9.25. Tiszalúc
 
-4.9.26. Tarcal
+4.9.26. Tiszatardos
 
-4.9.27. Tállya
-
-4.9.28. Tiszaladány
-
-4.9.29. Tiszalúc
-
-4.9.30. Tiszatardos
-
-4.9.31. Tokaj
-
-4.9.32. Újcsanálos
+4.9.27. Tokaj
 
 4.10. Tiszaújvárosi Rendőrkapitányság
 
@@ -1924,9 +1922,9 @@
 
 4.10.11. Kiscsécs
 
-4.10.12. Köröm
+4.10.12. Mezőcsát
 
-4.10.13. Mezőcsát
+4.10.13. Muhi
 
 4.10.14. Nagycsécs
 
@@ -2092,31 +2090,27 @@
 
 6.4.4. Csanádpalota
 
-6.4.5. Ferencszállás
+6.4.5. Földeák
 
-6.4.6. Földeák
+6.4.6. Királyhegyes
 
-6.4.7. Királyhegyes
+6.4.7. Kiszombor
 
-6.4.8. Kiszombor
+6.4.8. Kövegy
 
-6.4.9. Klárafalva
+6.4.9. Magyarcsanád
 
-6.4.10. Kövegy
+6.4.10. Makó
 
-6.4.11. Magyarcsanád
+6.4.11. Maroslele
 
-6.4.12. Makó
+6.4.12. Nagyér
 
-6.4.13. Maroslele
+6.4.13. Nagylak
 
-6.4.14. Nagyér
+6.4.14. Óföldeák
 
-6.4.15. Nagylak
-
-6.4.16. Óföldeák
-
-6.4.17. Pitvaros
+6.4.15. Pitvaros
 
 6.5. Szegedi Rendőrkapitányság
 
@@ -2132,35 +2126,39 @@
 
 6.5.6. Dóc
 
-6.5.7. Forráskút
+6.5.7. Ferencszállás
 
-6.5.8. Kübekháza
+6.5.8. Forráskút
 
-6.5.9. Mórahalom
+6.5.9. Klárafalva
 
-6.5.10. Öttömös
+6.5.10. Kübekháza
 
-6.5.11. Pusztamérges
+6.5.11. Mórahalom
 
-6.5.12. Röszke
+6.5.12. Öttömös
 
-6.5.13. Ruzsa
+6.5.13. Pusztamérges
 
-6.5.14. Sándorfalva
+6.5.14. Röszke
 
-6.5.15. Szatymaz
+6.5.15. Ruzsa
 
-6.5.16. Szeged
+6.5.16. Sándorfalva
 
-6.5.17. Tiszasziget
+6.5.17. Szatymaz
 
-6.5.18. Újszentiván
+6.5.18. Szeged
 
-6.5.19. Üllés
+6.5.19. Tiszasziget
 
-6.5.20. Zákányszék
+6.5.20. Újszentiván
 
-6.5.21. Zsombó
+6.5.21. Üllés
+
+6.5.22. Zákányszék
+
+6.5.23. Zsombó
 
 6.6. Szentesi Rendőrkapitányság
 
@@ -2196,23 +2194,19 @@
 
 6.7.7. Szeged
 
-6.7.8.
+6.7.8. Zákányszék
 
-6.7.9.
+6.7.9. Szeged (Röszke) közúti határátkelőhely
 
-6.7.10. Zákányszék
+6.7.10. Ásotthalom közúti határátkelőhely
 
-6.7.11. Szeged (Röszke) közúti határátkelőhely
+6.7.11. Szeged (Röszke) vasúti határátkelőhely
 
-6.7.12. Ásotthalom közúti határátkelőhely
+6.7.12. Szeged-Röszke-Horgos (Horgos) vasútvonal
 
-6.7.13. Szeged (Röszke) vasúti határátkelőhely
+6.7.13. Szeged kikötő vízi határátkelőhely
 
-6.7.14. Szeged-Röszke-Horgos (Horgos) vasútvonal
-
-6.7.15. Szeged kikötő vízi határátkelőhely
-
-6.7.16. Szeged vasútállomás
+6.7.14. Szeged vasútállomás
 
 6.8. Határrendészeti Kirendeltség Kiszombor
 
@@ -2234,9 +2228,9 @@
 
 6.8.9. Újszentiván
 
-6.8.10. Kiszombor küzúti határátkelőhely
+6.8.10. Kiszombor közúti határátkelőhely
 
-6.8.11. Tiszasziget küzúti határátkelőhely
+6.8.11. Tiszasziget közúti határátkelőhely
 
 6.8.12. Szőreg közigazgatási területe a Tisza folyó vonaláig
 
@@ -2294,11 +2288,9 @@
 
 7.1.13. Újbarok
 
-7.1.14. Vál
+7.1.14. Vértesacsa
 
-7.1.15. Vértesacsa
-
-7.1.16. Vértesboglár
+7.1.15. Vértesboglár
 
 7.2. Dunaújvárosi Rendőrkapitányság
 
@@ -2316,87 +2308,89 @@
 
 7.2.7. Előszállás
 
-7.2.8. Ercsi
+7.2.8. Iváncsa
 
-7.2.9. Iváncsa
+7.2.9. Kisapostag
 
-7.2.10. Kisapostag
+7.2.10. Kulcs
 
-7.2.11. Kulcs
+7.2.11. Mezőfalva
 
-7.2.12. Mezőfalva
+7.2.12. Nagykarácsony
 
-7.2.13. Nagykarácsony
+7.2.13. Nagyvenyim
 
-7.2.14. Nagyvenyim
+7.2.14. Perkáta
 
-7.2.15. Perkáta
+7.2.15. Pusztaszabolcs
 
-7.2.16. Pusztaszabolcs
-
-7.2.17. Rácalmás
-
-7.2.18. Ráckeresztúr
+7.2.16. Rácalmás
 
 7.3. Gárdonyi Rendőrkapitányság
 
 7.3.1. Baracska
 
-7.3.2. Gárdony
+7.3.2. Ercsi
 
-7.3.3. Gyúró
+7.3.3. Gárdony
 
-7.3.4. Kajászó
+7.3.4. Gyúró
 
-7.3.5. Kápolnásnyék
+7.3.5. Kajászó
 
-7.3.6. Martonvásár
+7.3.6. Kápolnásnyék
 
-7.3.7. Nadap
+7.3.7. Martonvásár
 
-7.3.8. Pákozd
+7.3.8. Nadap
 
-7.3.9. Pázmánd
+7.3.9. Pákozd
 
-7.3.10. Sukoró
+7.3.10. Pázmánd
 
-7.3.11. Tordas
+7.3.11. Ráckeresztúr
 
-7.3.12. Velence
+7.3.12. Sukoró
 
-7.3.13. Vereb
+7.3.13. Szabadegyháza
 
-7.3.14. Zichyújfalu
+7.3.14. Tordas
+
+7.3.15. Vál
+
+7.3.16. Velence
+
+7.3.17. Vereb
+
+7.3.18. Zichyújfalu
 
 7.4. Móri Rendőrkapitányság
 
 7.4.1. Bakonycsernye
 
-7.4.2. Bakonykúti
+7.4.2. Balinka
 
-7.4.3. Balinka
+7.4.3. Bodajk
 
-7.4.4. Bodajk
+7.4.4. Csákberény
 
-7.4.5. Csákberény
+7.4.5. Csókakő
 
-7.4.6. Csókakő
+7.4.6. Fehérvárcsurgó
 
-7.4.7. Fehérvárcsurgó
+7.4.7. Isztimér
 
-7.4.8. Isztimér
+7.4.8. Kincsesbánya
 
-7.4.9. Kincsesbánya
+7.4.9. Magyaralmás
 
-7.4.10. Magyaralmás
+7.4.10. Mór
 
-7.4.11. Mór
+7.4.11. Nagyveleg
 
-7.4.12. Nagyveleg
+7.4.12. Pusztavám
 
-7.4.13. Pusztavám
-
-7.4.14. Söréd
+7.4.13. Söréd
 
 7.5. Sárbogárdi Rendőrkapitányság
 
@@ -2410,93 +2404,89 @@
 
 7.5.5. Igar
 
-7.5.6. Káloz
+7.5.6. Mezőszilas
 
-7.5.7. Mezőszilas
+7.5.7. Nagylók
 
-7.5.8. Nagylók
+7.5.8. Sárbogárd
 
-7.5.9. Pusztaegres
+7.5.9. Sáregres
 
-7.5.10. Sárbogárd
+7.5.10. Sárkeresztúr
 
-7.5.11. Sáregres
+7.5.11. Sárszentágota
 
-7.5.12. Sárhatvan
-
-7.5.13. Sárkeresztúr
-
-7.5.14. Sárosd
-
-7.5.15. Sárszentágota
-
-7.5.16. Szabadegyháza
-
-7.5.17. Vajta
+7.5.12. Vajta
 
 7.6. Székesfehérvári Rendőrkapitányság
 
 7.6.1. Aba
 
-7.6.2. Csór
+7.6.2. Bakonykúti
 
-7.6.3. Csősz
+7.6.3. Csór
 
-7.6.4. Dég
+7.6.4. Csősz
 
-7.6.5. Enying
+7.6.5. Dég
 
-7.6.6. Füle
+7.6.6. Enying
 
-7.6.7. Iszkaszentgyörgy
+7.6.7. Füle
 
-7.6.8. Jenő
+7.6.8. Iszkaszentgyörgy
 
-7.6.9. Kisláng
+7.6.9. Jenő
 
-7.6.10. Kőszárhegy
+7.6.10. Káloz
 
-7.6.11. Lajoskomárom
+7.6.11. Kisláng
 
-7.6.12. Lepsény
+7.6.12. Kőszárhegy
 
-7.6.13. Lovasberény
+7.6.13. Lajoskomárom
 
-7.6.14. Mátyásdomb
+7.6.14. Lepsény
 
-7.6.15. Mezőkomárom
+7.6.15. Lovasberény
 
-7.6.16. Mezőszentgyörgy
+7.6.16. Mátyásdomb
 
-7.6.17. Moha
+7.6.17. Mezőkomárom
 
-7.6.18. Nádasdladány
+7.6.18. Mezőszentgyörgy
 
-7.6.19. Pátka
+7.6.19. Moha
 
-7.6.20. Polgárdi
+7.6.20. Nádasdladány
 
-7.6.21. Sárkeresztes
+7.6.21. Pátka
 
-7.6.22. Sárkeszi
+7.6.22. Polgárdi
 
-7.6.23. Sárszentmihály
+7.6.23. Sárkeresztes
 
-7.6.24. Seregélyes
+7.6.24. Sárkeszi
 
-7.6.25. Soponya
+7.6.25. Sárosd
 
-7.6.26. Szabadbattyán
+7.6.26. Sárszentmihály
 
-7.6.27. Szabadhídvég
+7.6.27. Seregélyes
 
-7.6.28. Székesfehérvár
+7.6.28. Soponya
 
-7.6.29. Tác
+7.6.29. Szabadbattyán
 
-7.6.30. Úrhida
+7.6.30. Szabadhídvég
 
-7.6.31. Zámoly
+7.6.31. Székesfehérvár
+
+7.6.32. Tác
+
+7.6.33. Úrhida
+
+7.6.34. Zámoly
 
 8. GYŐR-MOSON-SOPRON MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -2508,79 +2498,65 @@
 
 8.1.3. Bágyogszovát
 
-8.1.4. Bezi
+8.1.4. Bodonhely
 
-8.1.5. Bodonhely
+8.1.5. Bogyoszló
 
-8.1.6. Bogyoszló
+8.1.6. Bősárkány
 
-8.1.7. Bősárkány
+8.1.7. Cakóháza
 
-8.1.8. Cakóháza
+8.1.8. Csorna
 
-8.1.9. Csorna
+8.1.9. Dör
 
-8.1.10. Dör
+8.1.10. Egyed
 
-8.1.11. Egyed
+8.1.11. Farád
 
-8.1.12. Farád
+8.1.12. Jobaháza
 
-8.1.13. Fehértó
+8.1.13. Kóny
 
-8.1.14. Győrsövényház
+8.1.14. Maglóca
 
-8.1.15. Jobaháza
+8.1.15. Magyarkeresztúr
 
-8.1.16. Kisbabot
+8.1.16. Markotabödöge
 
-8.1.17. Kóny
+8.1.17. Páli
 
-8.1.18. Maglóca
+8.1.18. Pásztori
 
-8.1.19. Magyarkeresztúr
+8.1.19. Potyond
 
-8.1.20. Markotabödöge
+8.1.20. Rábacsanak
 
-8.1.21. Mérges
+8.1.21. Rábapordány
 
-8.1.22. Páli
+8.1.22. Rábasebes
 
-8.1.23. Pásztori
+8.1.23. Rábaszentandrás
 
-8.1.24. Potyond
+8.1.24. Rábatamási
 
-8.1.25. Rábacsanak
+8.1.25. Rábcakapi
 
-8.1.26. Rábacsécsény
+8.1.26. Sobor
 
-8.1.27. Rábapordány
+8.1.27. Sopronnémeti
 
-8.1.28. Rábasebes
+8.1.28. Szany
 
-8.1.29. Rábaszentandrás
+8.1.29. Szil
 
-8.1.30. Rábaszentmihály
+8.1.30. Szilsárkány
 
-8.1.31. Rábatamási
+8.1.31. Tárnokréti
 
-8.1.32. Rábcakapi
+8.1.32. Vág
 
-8.1.33. Sobor
-
-8.1.34. Sopronnémeti
-
-8.1.35. Szany
-
-8.1.36. Szil
-
-8.1.37. Szilsárkány
-
-8.1.38. Tárnokréti
-
-8.1.39. Vág
-
-8.1.40. Zsebeháza
+8.1.33. Zsebeháza
 
 8.2. Győri Rendőrkapitányság
 
@@ -2594,149 +2570,169 @@
 
 8.2.5. Bakonyszentlászló
 
-8.2.6. Börcs
+8.2.6. Bezi
 
-8.2.7. Bőny
+8.2.7. Börcs
 
-8.2.8. Csikvánd
+8.2.8. Bőny
 
-8.2.9. Dunaszeg
+8.2.9. Csikvánd
 
-8.2.10. Dunaszentpál
+8.2.10. Dunaszeg
 
-8.2.11. Enese
+8.2.11. Dunaszentpál
 
-8.2.12. Écs
+8.2.12. Enese
 
-8.2.13. Felpéc
+8.2.13. Écs
 
-8.2.14. Fenyőfő
+8.2.14. Fehértó
 
-8.2.15. Gönyű
+8.2.15. Felpéc
 
-8.2.16. Gyarmat
+8.2.16. Fenyőfő
 
-8.2.17. Gyömöre
+8.2.17. Gönyű
 
-8.2.18. Győr
+8.2.18. Gyarmat
 
-8.2.19. Győrasszonyfa
+8.2.19. Gyömöre
 
-8.2.20. Győrladamér
+8.2.20. Győr
 
-8.2.21. Győrság
+8.2.21. Győrasszonyfa
 
-8.2.22. Győrszemere
+8.2.22. Győrladamér
 
-8.2.23. Győrújbarát
+8.2.23. Győrság
 
-8.2.24. Győrújfalu
+8.2.24. Győrsövényház
 
-8.2.25. Győrzámoly
+8.2.25. Győrszemere
 
-8.2.26. Ikrény
+8.2.26. Győrújbarát
 
-8.2.27. Kajárpéc
+8.2.27. Győrújfalu
 
-8.2.28. Kisbajcs
+8.2.28. Győrzámoly
 
-8.2.29. Koroncó
+8.2.29. Ikrény
 
-8.2.30. Kunsziget
+8.2.30. Kajárpéc
 
-8.2.31. Lázi
+8.2.31. Kisbabot
 
-8.2.32. Mezőörs
+8.2.32. Kisbajcs
 
-8.2.33. Mórichida
+8.2.33. Koroncó
 
-8.2.34. Nagybajcs
+8.2.34. Kunsziget
 
-8.2.35. Nagyszentjános
+8.2.35. Lázi
 
-8.2.36. Nyalka
+8.2.36. Mezőörs
 
-8.2.37. Nyúl
+8.2.37. Mérges
 
-8.2.38. Öttevény
+8.2.38. Mosonszentmiklós
 
-8.2.39. Pannonhalma
+8.2.39. Mórichida
 
-8.2.40. Pázmándfalu
+8.2.40. Nagybajcs
 
-8.2.41. Pér
+8.2.41. Nagyszentjános
 
-8.2.42. Ravazd
+8.2.42. Nyalka
 
-8.2.43. Rábapatona
+8.2.43. Nyúl
 
-8.2.44. Rábaszentmiklós
+8.2.44. Öttevény
 
-8.2.45. Rétalap
+8.2.45. Pannonhalma
 
-8.2.46. Románd
+8.2.46. Pázmándfalu
 
-8.2.47. Sikátor
+8.2.47. Pér
 
-8.2.48. Sokorópátka
+8.2.48. Ravazd
 
-8.2.49. Szerecseny
+8.2.49. Rábacsécsény
 
-8.2.50. Tarjánpuszta
+8.2.50. Rábapatona
 
-8.2.51. Táp
+8.2.51. Rábaszentmihály
 
-8.2.52. Tápszentmiklós
+8.2.52. Rábaszentmiklós
 
-8.2.53. Tényő
+8.2.53. Rétalap
 
-8.2.54. Tét
+8.2.54. Románd
 
-8.2.55. Töltéstava
+8.2.55. Sikátor
 
-8.2.56. Vámosszabadi
+8.2.56. Sokorópátka
 
-8.2.57. Veszprémvarsány
+8.2.57. Szerecseny
 
-8.2.58. Vének
+8.2.58. Tarjánpuszta
+
+8.2.59. Táp
+
+8.2.60. Tápszentmiklós
+
+8.2.61. Tényő
+
+8.2.62. Tét
+
+8.2.63. Töltéstava
+
+8.2.64. Vámosszabadi
+
+8.2.65. Veszprémvarsány
+
+8.2.66. Vének
 
 8.3. Kapuvári Rendőrkapitányság
 
-8.3.1. Babót
+8.3.1. Agyagosszergény
 
-8.3.2. Beled
+8.3.2. Babót
 
-8.3.3. Cirák
+8.3.3. Beled
 
-8.3.4. Dénesfa
+8.3.4. Cirák
 
-8.3.5. Edve
+8.3.5. Dénesfa
 
-8.3.6. Gyóró
+8.3.6. Edve
 
-8.3.7. Himod
+8.3.7. Gyóró
 
-8.3.8. Hövej
+8.3.8. Himod
 
-8.3.9. Kapuvár
+8.3.9. Hövej
 
-8.3.10. Kisfalud
+8.3.10. Kapuvár
 
-8.3.11. Mihályi
+8.3.11. Kisfalud
 
-8.3.12. Osli
+8.3.12. Mihályi
 
-8.3.13. Rábakecöl
+8.3.13. Osli
 
-8.3.14. Szárföld
+8.3.14. Rábakecöl
 
-8.3.15. Vadosfa
+8.3.15. Répceszemere
 
-8.3.16. Vásárosfalu
+8.3.16. Szárföld
 
-8.3.17. Veszkény
+8.3.17. Vadosfa
 
-8.3.18. Vitnyéd
+8.3.18. Vásárosfalu
+
+8.3.19. Veszkény
+
+8.3.20. Vitnyéd
 
 8.4. Mosonmagyaróvári Rendőrkapitányság
 
@@ -2780,11 +2776,9 @@
 
 8.4.20. Mosonmagyaróvár
 
-8.4.21. Mosonszentmiklós
+8.4.21. Mosonszolnok
 
-8.4.22. Mosonszolnok
-
-8.4.22/A. Mosonudvar
+8.4.22. Mosonudvar
 
 8.4.23. Püski
 
@@ -2796,85 +2790,81 @@
 
 8.5. Soproni Rendőrkapitányság
 
-8.5.1. Agyagosszergény
+8.5.1. Ágfalva
 
-8.5.2. Ágfalva
+8.5.2. Csapod
 
-8.5.3. Csapod
+8.5.3. Csáfordjánosfa
 
-8.5.4. Csáfordjánosfa
+8.5.4. Csér
 
-8.5.5. Csér
+8.5.5. Ebergőc
 
-8.5.6. Ebergőc
+8.5.6. Egyházasfalu
 
-8.5.7. Egyházasfalu
+8.5.7. Fertőboz
 
-8.5.8. Fertőboz
+8.5.8. Fertőd
 
-8.5.9. Fertőd
+8.5.9. Fertőendréd
 
-8.5.10. Fertőendréd
+8.5.10. Fertőhomok
 
-8.5.11. Fertőhomok
+8.5.11. Fertőrákos
 
-8.5.12. Fertőrákos
+8.5.12. Fertőszentmiklós
 
-8.5.13. Fertőszentmiklós
+8.5.13. Fertőszéplak
 
-8.5.14. Fertőszéplak
+8.5.14. Gyalóka
 
-8.5.15. Gyalóka
+8.5.15. Harka
 
-8.5.16. Harka
+8.5.16. Hegykő
 
-8.5.17. Hegykő
+8.5.17. Hidegség
 
-8.5.18. Hidegség
+8.5.18. Iván
 
-8.5.19. Iván
+8.5.19. Kópháza
 
-8.5.20. Kópháza
+8.5.20. Lövő
 
-8.5.21. Lövő
+8.5.21. Nagycenk
 
-8.5.22. Nagycenk
+8.5.22. Nagylózs
 
-8.5.23. Nagylózs
+8.5.23. Nemeskér
 
-8.5.24. Nemeskér
+8.5.24. Pereszteg
 
-8.5.25. Pereszteg
+8.5.25. Petőháza
 
-8.5.26. Petőháza
+8.5.26. Pinnye
 
-8.5.27. Pinnye
+8.5.27. Pusztacsalád
 
-8.5.28. Pusztacsalád
+8.5.28. Répcevis
 
-8.5.29. Répceszemere
+8.5.29. Röjtökmuzsaj
 
-8.5.30. Répcevis
+8.5.30. Sarród
 
-8.5.31. Röjtökmuzsaj
+8.5.31. Sopron
 
-8.5.32. Sarród
+8.5.32. Sopronhorpács
 
-8.5.33. Sopron
+8.5.33. Sopronkövesd
 
-8.5.34. Sopronhorpács
+8.5.34. Szakony
 
-8.5.35. Sopronkövesd
+8.5.35. Und
 
-8.5.36. Szakony
+8.5.36. Újkér
 
-8.5.37. Und
+8.5.37. Völcsej
 
-8.5.38. Újkér
-
-8.5.39. Völcsej
-
-8.5.40. Zsira
+8.5.38. Zsira
 
 9. HAJDÚ-BIHAR MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -2918,63 +2908,67 @@
 
 9.2.13. Gáborján
 
-9.2.14. Hencida
+9.2.14. Hajdúbagos
 
-9.2.15. Kismarja
+9.2.15. Hencida
 
-9.2.16. Komádi
+9.2.16. Hosszúpályi
 
-9.2.17. Konyár
+9.2.17. Kismarja
 
-9.2.18. Körösszakál
+9.2.18. Kokad
 
-9.2.19. Körösszegapáti
+9.2.19. Komádi
 
-9.2.20. Magyarhomorog
+9.2.20. Konyár
 
-9.2.21. Mezőpeterd
+9.2.21. Körösszakál
 
-9.2.22. Mezősas
+9.2.22. Körösszegapáti
 
-9.2.23. Nagykereki
+9.2.23. Létavértes
 
-9.2.24. Pocsaj
+9.2.24. Magyarhomorog
 
-9.2.25. Szentpéterszeg
+9.2.24. Mezőpeterd
 
-9.2.26. Tépe
+9.2.26. Mezősas
 
-9.2.27. Told
+9.2.27. Mikepércs
 
-9.2.28. Újiráz
+9.2.28. Monostorpályi
 
-9.2.29. Váncsod
+9.2.29. Nagykereki
 
-9.2.30. Vekerd
+9.2.30. Pocsaj
 
-9.2.31. Zsáka
+9.2.31. Sáránd
+
+9.2.32. Szentpéterszeg
+
+9.2.33. Tépe
+
+9.2.34. Told
+
+9.2.35. Újiráz
+
+9.2.36. Váncsod
+
+9.2.37. Vekerd
+
+9.2.38. Zsáka
 
 9.3. Debreceni Rendőrkapitányság
 
 9.3.1. Debrecen
 
-9.3.2. Hajdúbagos
-
-9.3.3. Hosszúpályi
-
-9.3.4. Kokad
-
-9.3.5. Létavértes
-
-9.3.6. Mikepércs
-
-9.3.7. Monostorpályi
-
-9.3.8. Sáránd
+9.3.2. Hajdúsámson
 
 9.4. Hajdúböszörményi Rendőrkapitányság
 
 9.4.1. Hajdúböszörmény
+
+9.4.2. Hajdúdorog
 
 9.5. Hajdúhadházi Rendőrkapitányság
 
@@ -2988,21 +2982,19 @@
 
 9.5.5. Hajdúhadház
 
-9.5.6. Hajdúsámson
+9.5.6. Nyíracsád
 
-9.5.7. Nyíracsád
+9.5.7. Nyírábrány
 
-9.5.8. Nyírábrány
+9.5.8. Nyíradony
 
-9.5.9. Nyíradony
+9.5.9. Nyírmártonfalva
 
-9.5.10. Nyírmártonfalva
+9.5.10. Téglás
 
-9.5.11. Téglás
+9.5.11. Újléta
 
-9.5.12. Újléta
-
-9.5.13. Vámospércs
+9.5.12. Vámospércs
 
 9.6. Hajdúnánási Rendőrkapitányság
 
@@ -3010,15 +3002,13 @@
 
 9.6.2. Görbeháza
 
-9.6.3. Hajdúdorog
+9.6.3. Hajdúnánás
 
-9.6.4. Hajdúnánás
+9.6.4. Polgár
 
-9.6.5. Polgár
+9.6.5. Tiszagyulaháza
 
-9.6.6. Tiszagyulaháza
-
-9.6.7. Újtikos
+9.6.6. Újtikos
 
 9.7. Hajdúszoboszlói Rendőrkapitányság
 
@@ -3078,7 +3068,7 @@
 
 9.9.9. Komádi
 
-9.9.10. Körösszakáll
+9.9.10. Körösszakál
 
 9.9.11. Körösszegapáti
 
@@ -3204,67 +3194,69 @@
 
 10.1.18. Fedémes
 
-10.1.19. Felsőtárkány
+10.1.19. Feldebrő
 
-10.1.20. Hevesaranyos
+10.1.20. Felsőtárkány
 
-10.1.21. Istenmezeje
+10.1.21. Hevesaranyos
 
-10.1.22. Ivád
+10.1.22. Istenmezeje
 
-10.1.23. Kerecsend
+10.1.23. Ivád
 
-10.1.24. Kisfüzes
+10.1.24. Kerecsend
 
-10.1.25. Maklár
+10.1.25. Kisfüzes
 
-10.1.26. Mátraballa
+10.1.26. Maklár
 
-10.1.27. Mátraderecske
+10.1.27. Mátraballa
 
-10.1.28. Mikófalva
+10.1.28. Mátraderecske
 
-10.1.29. Mónosbél
+10.1.29. Mikófalva
 
-10.1.30. Nagytálya
+10.1.30. Mónosbél
 
-10.1.31. Nagyvisnyó
+10.1.31. Nagytálya
 
-10.1.32. Noszvaj
+10.1.32. Nagyvisnyó
 
-10.1.33. Novaj
+10.1.33. Noszvaj
 
-10.1.34. Ostoros
+10.1.34. Novaj
 
-10.1.35. Parád
+10.1.35. Ostoros
 
-10.1.36. Parádsasvár
+10.1.36. Parád
 
-10.1.37. Pétervására
+10.1.37. Parádsasvár
 
-10.1.38. Recsk
+10.1.38. Pétervására
 
-10.1.39. Sirok
+10.1.39. Recsk
 
-10.1.40. Szajla
+10.1.40. Sirok
 
-10.1.41. Szarvaskő
+10.1.41. Szajla
 
-10.1.42. Szentdomonkos
+10.1.42. Szarvaskő
 
-10.1.43. Szilvásvárad
+10.1.43. Szentdomonkos
 
-10.1.44. Szúcs
+10.1.44. Szilvásvárad
 
-10.1.45. Tarnalelesz
+10.1.45. Szúcs
 
-10.1.46. Tarnaszentmária
+10.1.46. Tarnalelesz
 
-10.1.47. Terpes
+10.1.47. Tarnaszentmária
 
-10.1.48. Váraszó
+10.1.48. Terpes
 
-10.1.49. Verpelét
+10.1.49. Váraszó
+
+10.1.50. Verpelét
 
 10.2. Füzesabonyi Rendőrkapitányság
 
@@ -3276,31 +3268,29 @@
 
 10.2.4. Egerfarmos
 
-10.2.5. Feldebrő
+10.2.5. Füzesabony
 
-10.2.6. Füzesabony
+10.2.6. Kál
 
-10.2.7. Kál
+10.2.7. Kápolna
 
-10.2.8. Kápolna
+10.2.8. Kompolt
 
-10.2.9. Kompolt
+10.2.9. Mezőszemere
 
-10.2.10. Mezőszemere
+10.2.10. Mezőtárkány
 
-10.2.11. Mezőtárkány
+10.2.11. Nagyút
 
-10.2.12. Nagyút
+10.2.12. Poroszló
 
-10.2.13. Poroszló
+10.2.13. Sarud
 
-10.2.14. Sarud
+10.2.14. Szihalom
 
-10.2.15. Szihalom
+10.2.15. Tófalu
 
-10.2.16. Tófalu
-
-10.2.17. Újlőrincfalva
+10.2.16. Újlőrincfalva
 
 10.3. Gyöngyösi Rendőrkapitányság
 
@@ -3344,7 +3334,7 @@
 
 10.3.20. Pálosvörösmart
 
-10.3.21. Szücsi
+10.3.21. Szűcsi
 
 10.3.22. Vámosgyörk
 
@@ -3460,17 +3450,29 @@
 
 11.2. Karcagi Rendőrkapitányság
 
-11.2.1. Berekfürdő
+11.2.1. Abádszalók
 
-11.2.2. Karcag
+11.2.2. Berekfürdő
 
-11.2.3. Kenderes
+11.2.3. Karcag
 
-11.2.4. Kisújszállás
+11.2.4. Kenderes
 
-11.2.5. Kunhegyes
+11.2.5. Kisújszállás
 
-11.2.6. Kunmadaras
+11.2.6. Kunhegyes
+
+11.2.7. Kunmadaras
+
+11.2.8. Tiszabő
+
+11.2.9. Tiszabura
+
+11.2.10. Tiszagyenda
+
+11.2.11. Tiszaroff
+
+11.2.12. Tomajmonostora
 
 11.3. Kunszentmártoni Rendőrkapitányság
 
@@ -3482,29 +3484,31 @@
 
 11.3.4. Kunszentmárton
 
-11.3.5. Mesterszállás
+11.3.5. Nagyrév
 
-11.3.6. Mezőhék
+11.3.6. Öcsöd
 
-11.3.7. Nagyrév
+11.3.7. Szelevény
 
-11.3.8. Öcsöd
+11.3.8. Tiszaföldvár
 
-11.3.9. Szelevény
+11.3.9. Tiszainoka
 
-11.3.10. Tiszainoka
+11.3.10. Tiszakürt
 
-11.3.11. Tiszakürt
-
-11.3.12. Tiszasas
+11.3.11. Tiszasas
 
 11.4. Mezőtúri Rendőrkapitányság
 
 11.4.1. Kétpó
 
-11.4.2. Mezőtúr
+11.4.2. Mesterszállás
 
-11.4.3. Túrkeve
+11.4.3. Mezőhék
+
+11.4.4. Mezőtúr
+
+11.4.5. Túrkeve
 
 11.5. Szolnoki Rendőrkapitányság
 
@@ -3530,43 +3534,35 @@
 
 11.5.11. Szolnok
 
-11.5.12. Tiszaföldvár
+11.5.12. Tiszajenő
 
-11.5.13. Tiszajenő
+11.5.13. Tiszasüly
 
-11.5.14. Tiszasüly
+11.5.14. Tiszavárkony
 
-11.5.15. Tiszavárkony
+11.5.15. Tószeg
 
-11.5.16. Tószeg
+11.5.16. Újszász
 
-11.5.17. Újszász
+11.5.17. Vezseny
 
-11.5.18. Vezseny
-
-11.5.19. Zagyvarékas
+11.5.18. Zagyvarékas
 
 11.6. Tiszafüredi Rendőrkapitányság
 
-11.6.1. Abádszalók
+11.6.1. Nagyiván
 
-11.6.2. Nagyiván
+11.6.2. Tiszaderzs
 
-11.6.3. Tiszabura
+11.6.3. Tiszafüred
 
-11.6.4. Tiszaderzs
+11.6.4. Tiszaigar
 
-11.6.5. Tiszafüred
+11.6.5. Tiszaörs
 
-11.6.6. Tiszaigar
+11.6.6. Tiszaszentimre
 
-11.6.7. Tiszaörs
-
-11.6.8. Tiszaszentimre
-
-11.6.9. Tiszaszőlős
-
-11.6.10. Tomajmonostora
+11.6.7. Tiszaszőlős
 
 11.7. Törökszentmiklósi Rendőrkapitányság
 
@@ -3578,17 +3574,11 @@
 
 11.7.4. Örményes
 
-11.7.5. Tiszabő
+11.7.5. Tiszapüspöki
 
-11.7.6. Tiszagyenda
+11.7.6. Tiszatenyő
 
-11.7.7. Tiszapüspöki
-
-11.7.8. Tiszaroff
-
-11.7.9. Tiszatenyő
-
-11.7.10. Törökszentmiklós
+11.7.7. Törökszentmiklós
 
 11.8. Tiszai Vízirendészeti Rendőrkapitányság, Szolnok
 
@@ -3666,17 +3656,21 @@
 
 12.3.9. Császár
 
-12.3.10. Ete
+12.3.10. Csép
 
-12.3.11. Kerékteleki
+12.3.11. Ete
 
-12.3.12. Kisbér
+12.3.12. Kerékteleki
 
-12.3.13. Réde
+12.3.13. Kisbér
 
-12.3.14. Súr
+12.3.14. Réde
 
-12.3.15. Vérteskéthely
+12.3.15. Súr
+
+12.3.16. Tárkány
+
+12.3.17. Vérteskethely
 
 12.4. Komáromi Rendőrkapitányság
 
@@ -3690,17 +3684,13 @@
 
 12.4.5. Csém
 
-12.4.6. Csép
+12.4.6. Kisigmánd
 
-12.4.7. Kisigmánd
+12.4.7. Komárom
 
-12.4.8. Komárom
+12.4.8. Mocsa
 
-12.4.9. Mocsa
-
-12.4.10. Nagyigmánd
-
-12.4.11. Tárkány
+12.4.9. Nagyigmánd
 
 12.5. Oroszlányi Rendőrkapitányság
 
@@ -3948,27 +3938,45 @@
 
 13.4.9. Karancslapujtő
 
-13.4.10. Kazár
+13.4.10. Karancsság
 
-13.4.11. Kishartyán
+13.4.11. Kazár
 
-13.4.12. Litke
+13.4.12. Kisbárkány
 
-13.4.13. Mátraszele
+13.4.13. Kishartyán
 
-13.4.14. Mihálygerge
+13.4.14. Litke
 
-13.4.15. Salgótarján
+13.4.15. Lucfalva
 
-13.4.16. Somoskőújfalu
+13.4.16. Márkháza
 
-13.4.17. Sóshartyán
+13.4.17. Mátraszele
 
-13.4.18. Szilaspogony
+13.4.18. Mihálygerge
 
-13.4.19. Vizslás
+13.4.19. Nagybárkány
 
-13.4.20. Zabar
+13.4.20. Nagykeresztúr
+
+13.4.21. Rákóczibánya
+
+13.4.22. Salgótarján
+
+13.4.23. Ságújfalu
+
+13.4.24. Sámsonháza
+
+13.4.25. Somoskőújfalu
+
+13.4.26. Sóshartyán
+
+13.4.27. Szilaspogony
+
+13.4.28. Vizslás
+
+13.4.29. Zabar
 
 13.5. Bátonyterenyei Rendőrkapitányság
 
@@ -3976,31 +3984,17 @@
 
 13.5.2. Dorogháza
 
-13.5.3. Kisbárkány
+13.5.3. Mátramindszent
 
-13.5.4. Lucfalva
+13.5.4. Mátranovák
 
-13.5.5. Márkháza
+13.5.5. Mátraterenye
 
-13.5.6. Mátramindszent
+13.5.6. Mátraverebély
 
-13.5.7. Mátranovák
+13.5.7. Nemti
 
-13.5.8. Mátraterenye
-
-13.5.9. Mátraverebély
-
-13.5.10. Nagybárkány
-
-13.5.11. Nagykeresztúr
-
-13.5.12. Nemti
-
-13.5.13. Rákóczibánya
-
-13.5.14. Sámsonháza
-
-13.5.15. Szuha
+13.5.8. Szuha
 
 13.6. Szécsényi Rendőrkapitányság
 
@@ -4008,33 +4002,29 @@
 
 13.6.2. Hollókő
 
-13.6.3. Karancsság
+13.6.3. Ludányhalászi
 
-13.6.4. Ludányhalászi
+13.6.4. Magyargéc
 
-13.6.5. Magyargéc
+13.6.5. Nagylóc
 
-13.6.6. Nagylóc
+13.6.6. Nógrádmegyer
 
-13.6.7. Nógrádmegyer
+13.6.7. Nógrádsipek
 
-13.6.8. Nógrádsipek
+13.6.8. Nógrádszakál
 
-13.6.9. Nógrádszakál
+13.6.9. Piliny
 
-13.6.10. Piliny
+13.6.10. Rimóc
 
-13.6.11. Rimóc
+13.6.11. Szalmatercs
 
-13.6.12. Ságújfalu
+13.6.12. Szécsény
 
-13.6.13. Szalmatercs
+13.6.13. Szécsényfelfalu
 
-13.6.14. Szécsény
-
-13.6.15. Szécsényfelfalu
-
-13.6.16. Varsány
+13.6.14. Varsány
 
 14. PEST MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -4062,21 +4052,21 @@
 
 14.1.11. Pilisjászfalu
 
-14.1.12. Pilisszentiván
+14.1.12. Pilisszántó
 
-14.1.13. Pilisvörösvár
+14.1.13. Pilisszentiván
 
-14.1.14. Remeteszőlős
+14.1.14. Pilisvörösvár
 
-14.1.15. Solymár
+14.1.15. Remeteszőlős
 
-14.1.16. Telki
+14.1.16. Solymár
 
-14.1.17. Tinnye
+14.1.17. Telki
 
-14.1.18. Tök
+14.1.18. Tinnye
 
-14.1.19. Törökbálint
+14.1.19. Tök
 
 14.1.20. Üröm
 
@@ -4104,7 +4094,7 @@
 
 14.2.10. Tápiószőlős
 
-14.2.11. Törtei
+14.2.11. Törtel
 
 14.2.12. Újszilvás
 
@@ -4142,11 +4132,13 @@
 
 14.4. Dunakeszi Rendőrkapitányság
 
-14.4.1. Dunakeszi
+14.4.1. Csomád
 
-14.4.2. Fót
+14.4.2. Dunakeszi
 
-14.4.3. Göd
+14.4.3. Fót
+
+14.4.4. Göd
 
 14.5. Érdi Rendőrkapitányság
 
@@ -4161,6 +4153,8 @@
 14.5.5. Százhalombatta
 
 14.5.6. Tárnok
+
+14.5.7. Törökbálint
 
 14.6. Gödöllői Rendőrkapitányság
 
@@ -4208,15 +4202,13 @@
 
 14.6.22. Vácegres
 
-14.6.23. Váckisújfalu
+14.6.23. Vácszentlászló
 
-14.6.24. Vácszentlászló
+14.6.24. Veresegyház
 
-14.6.25. Veresegyház
+14.6.25. Verseg
 
-14.6.26. Verseg
-
-14.6.27. Zsámbok
+14.6.26. Zsámbok
 
 14.7. Monori Rendőrkapitányság
 
@@ -4234,27 +4226,23 @@
 
 14.7.7. Maglód
 
-14.7.8. Mende
+14.7.8. Monor
 
-14.7.9. Monor
+14.7.9. Monorierdő
 
-14.7.10. Monorierdő
+14.7.10. Nyáregyháza
 
-14.7.11. Nyáregyháza
+14.7.11. Pánd
 
 14.7.12. Péteri
 
 14.7.13. Pilis
 
-14.7.14. Sülysáp
+14.7.14. Üllő
 
-14.7.15. Úri
+14.7.15. Vasad
 
-14.7.16. Üllő
-
-14.7.17. Vasad
-
-14.7.18. Vecsés
+14.7.16. Vecsés
 
 14.8. Nagykátai Rendőrkapitányság
 
@@ -4262,27 +4250,31 @@
 
 14.8.2. Kóka
 
-14.8.3. Nagykáta
+14.8.3. Mende
 
-14.8.4. Pánd
+14.8.4. Nagykáta
 
-14.8.5. Szentlőrinckáta
+14.8.5. Sülysáp
 
-14.8.6. Szentmártonkáta
+14.8.6. Szentlőrinckáta
 
-14.8.7. Tápióbicske
+14.8.7. Szentmártonkáta
 
-14.8.8. Tápiógyörgye
+14.8.8. Tápióbicske
 
-14.8.9. Tápióság
+14.8.9. Tápiógyörgye
 
-14.8.10. Tápiószecső
+14.8.10. Tápióság
 
-14.8.11. Tápiószele
+14.8.11. Tápiószecső
 
-14.8.12. Tápiószentmárton
+14.8.12. Tápiószele
 
-14.8.13. Tóalmás
+14.8.13. Tápiószentmárton
+
+14.8.14. Tóalmás
+
+14.8.15. Úri
 
 14.9. Nagykőrösi Rendőrkapitányság
 
@@ -4298,29 +4290,23 @@
 
 14.10.2. Áporka
 
-14.10.3. Délegyháza
+14.10.3. Dömsöd
 
-14.10.4. Dömsöd
+14.10.4. Kiskunlacháza
 
-14.10.5. Dunavarsány
+14.10.5. Lórév
 
-14.10.6. Kiskunlacháza
+14.10.6. Makád
 
-14.10.7. Lórév
+14.10.7. Ráckeve
 
-14.10.8. Majosháza
+14.10.8. Szigetbecse
 
-14.10.9. Makád
+14.10.9. Szigetcsép
 
-14.10.10. Ráckeve
+14.10.10. Szigetszentmárton
 
-14.10.11. Szigetbecse
-
-14.10.12. Szigetcsép
-
-14.10.13. Szigetszentmárton
-
-14.10.14. Szigetújfalu
+14.10.11. Szigetújfalu
 
 14.11. Szentendrei Rendőrkapitányság
 
@@ -4328,43 +4314,47 @@
 
 14.11.2. Csobánka
 
-14.11.3. Dunabogdány
+14.12.3. Dunabogdány
 
 14.11.4. Kisoroszi
 
 14.11.5. Leányfalu
 
-14.11.6. Pilisszántó
+14.11.6. Pilisszentkereszt
 
-14.11.7. Pilisszentkereszt
+14.11.7. Pilisszentlászló
 
-14.11.8. Pilisszentlászló
+14.11.8. Pomáz
 
-14.11.9. Pomáz
+14.11.9. Pócsmegyer
 
-14.11.10. Pócsmegyer
+14.11.10. Szentendre
 
-14.11.11. Szentendre
+14.11.11. Szigetmonostor
 
-14.11.12. Szigetmonostor
+14.11.12. Tahitótfalu
 
-14.11.13. Tahitótfalu
-
-14.11.14. Visegrád
+14.11.13. Visegrád
 
 14.12. Szigetszentmiklósi Rendőrkapitányság
 
-14.12.1. Dunaharaszti
+14.12.1. Délegyháza
 
-14.12.2. Halásztelek
+14.12.2. Dunaharaszti
 
-14.12.3. Szigethalom
+14.12.3. Dunavarsány
 
-14.12.4. Szigetszentmiklós
+14.12.4. Halásztelek
 
-14.12.5. Taksony
+14.12.5. Majosháza
 
-14.12.6. Tököl
+14.12.6. Szigethalom
+
+14.12.7. Szigetszentmiklós
+
+14.12.8. Taksony
+
+14.12.9. Tököl
 
 14.13. Váci Rendőrkapitányság
 
@@ -4372,63 +4362,63 @@
 
 14.13.2. Bernecebaráti
 
-14.13.3. Csomád
+14.13.3. Csörög
 
-14.13.4. Csörög
+14.13.4. Csővár
 
-14.13.5. Csővár
+14.13.5. Galgagyörk
 
-14.13.6. Galgagyörk
+14.13.6. Ipolydamásd
 
-14.13.7. Ipolydamásd
+14.13.7. Ipolytölgyes
 
-14.13.8. Ipolytölgyes
+14.13.8. Kemence
 
-14.13.9. Kemence
+14.13.9. Kismaros
 
-14.13.10. Kismaros
+14.13.10. Kisnémedi
 
-14.13.11. Kisnémedi
+14.13.11. Kosd
 
-14.13.12. Kosd
+14.13.12. Kóspallag
 
-14.13.13. Kóspallag
+14.13.13. Letkés
 
-14.13.14. Letkés
+14.13.14. Márianosztra
 
-14.13.15. Márianosztra
+14.13.15. Nagybörzsöny
 
-14.13.16. Nagybörzsöny
+14.13.16. Nagymaros
 
-14.13.17. Nagymaros
+14.13.17. Őrbottyán
 
-14.13.18. Őrbottyán
+14.13.18. Penc
 
-14.13.19. Penc
+14.13.19. Perőcsény
 
-14.13.20. Perőcsény
+14.13.20. Püspökhatvan
 
-14.13.21. Püspökhatvan
+14.13.21. Püspökszilágy
 
-14.13.22. Püspökszilágy
+14.13.22. Rád
 
-14.13.23. Rád
+14.13.23. Szob
 
-14.13.24. Szob
+14.13.24. Szokolya
 
-14.13.25. Szokolya
+14.13.25. Sződ
 
-14.13.26. Sződ
+14.13.26. Sződliget
 
-14.13.27. Sződliget
+14.13.27. Tésa
 
-14.13.28. Tésa
+14.13.28. Vác
 
-14.13.29. Vác
+14.13.29. Vácduka
 
-14.13.30. Vácduka
+14.13.30. Váchartyán
 
-14.13.31. Váchartyán
+14.13.31. Váckisújfalu
 
 14.13.32. Vácrátót
 
@@ -4662,39 +4652,41 @@
 
 15.3.60. Somogyaszaló
 
-15.3.61. Somogygeszti
+15.3.61. Somogyfajsz
 
-15.3.62. Somogyjád
+15.3.62. Somogygeszti
 
-15.3.63. Somogysárd
+15.3.63. Somogyjád
 
-15.3.64. Somogyszil
+15.3.64. Somogysárd
 
-15.3.65. Szabadi
+15.3.65. Somogyszil
 
-15.3.66. Szenna
+15.3.66. Szabadi
 
-15.3.67. Szentbalázs
+15.3.67. Szenna
 
-15.3.68. Szentgáloskér
+15.3.68. Szentbalázs
 
-15.3.69. Szilvásszentmárton
+15.3.69. Szentgáloskér
 
-15.3.70. Taszár
+15.3.70. Szilvásszentmárton
 
-15.3.71. Újvárfalva
+15.3.71. Taszár
 
-15.3.72. Várda
+15.3.72. Újvárfalva
 
-15.3.73. Visnye
+15.3.73. Várda
 
-15.3.74. Zimány
+15.3.74. Visnye
 
-15.3.75. Zselickisfalud
+15.3.75. Zimány
 
-15.3.76. Zselickislak
+15.3.76. Zselickisfalud
 
-15.3.77. Zselicszentpál
+15.3.77. Zselickislak
+
+15.3.78. Zselicszentpál
 
 15.4. Marcali Rendőrkapitányság
 
@@ -4746,33 +4738,31 @@
 
 15.4.24. Sávoly
 
-15.4.25. Somogyfajsz
+15.4.25. Somogysámson
 
-15.4.26. Somogysámson
+15.4.26. Somogysimonyi
 
-15.4.27. Somogysimonyi
+15.4.27. Somogyszentpál
 
-15.4.28. Somogyszentpál
+15.4.28. Somogyzsitfa
 
-15.4.29. Somogyzsitfa
+15.4.29. Szegerdő
 
-15.4.30. Szegerdő
+15.4.30. Szenyér
 
-15.4.31. Szenyér
+15.4.31. Szőkedencs
 
-15.4.32. Szőkedencs
+15.4.32. Tapsony
 
-15.4.33. Tapsony
+15.4.33. Táska
 
-15.4.34. Táska
+15.4.34. Tikos
 
-15.4.35. Tikos
+15.4.35. Varászló
 
-15.4.36. Varászló
+15.4.36. Vése
 
-15.4.37. Vése
-
-15.4.38. Vörs
+15.4.37. Vörs
 
 15.5. Nagyatádi Rendőrkapitányság
 
@@ -4952,6 +4942,8 @@
 
 15.6.48. Zics
 
+15.7. Balatoni Vízirendészeti Rendőrkapitányság, Siófok
+
 16. SZABOLCS-SZATMÁR-BEREG MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 16.1. Fehérgyarmati Rendőrkapitányság
@@ -5036,23 +5028,25 @@
 
 16.1.40. Tiszacsécse
 
-16.1.41. Tiszakórod
+16.1.41. Tiszakóród
 
 16.1.42. Tisztaberek
 
-16.1.43. Tunyogmatolcs
+16.1.43. Tivadar
 
-16.1.44. Túristvándi
+16.1.44. Tunyogmatolcs
 
-16.1.45. Túrricse
+16.1.45. Túristvándi
 
-16.1.46. Uszka
+16.1.46. Túrricse
 
-16.1.47. Vámosoroszi
+16.1.47. Uszka
 
-16.1.48. Zajta
+16.1.48. Vámosoroszi
 
-16.1.49. Zsarolyán
+16.1.49. Zajta
+
+16.1.50. Zsarolyán
 
 16.2. Kisvárdai Rendőrkapitányság
 
@@ -5060,53 +5054,47 @@
 
 16.2.2. Anarcs
 
-16.2.3. Berkesz
+16.2.3. Dombrád
 
-16.2.4. Dombrád
+16.2.4. Döge
 
-16.2.5. Döge
+16.2.5. Fényeslitke
 
-16.2.6. Gégény
+16.2.6. Gyulaháza
 
-16.2.7. Gyulaháza
+16.2.7. Jéke
 
-16.2.8. Jéke
+16.2.8. Kékcse
 
-16.2.9. Kékcse
+16.2.9. Kisvárda
 
-16.2.10. Kisvárda
+16.2.10. Lövőpetri
 
-16.2.11. Laskod
+16.2.11. Mezőladány
 
-16.2.12. Lövőpetri
+16.2.12. Nyírkarász
 
-16.2.13. Mezőladány
+16.2.13. Nyírlövő
 
-16.2.14. Nyírkarász
+16.2.14. Nyírtass
 
-16.2.15. Nyírlövő
+16.2.15. Pap
 
-16.2.16. Nyírtass
+16.2.16. Pátroha
 
-16.2.17. Pap
+16.2.17. Rétközberencs
 
-16.2.18. Pátroha
+16.2.18. Szabolcsbáka
 
-16.2.19. Petneháza
+16.2.19. Szabolcsveresmart
 
-16.2.20. Rétközberencs
+16.2.20. Tiszakanyár
 
-16.2.21. Szabolcsbáka
+16.2.21. Tornyospálca
 
-16.2.22. Szabolcsveresmart
+16.2.22. Újdombrád
 
-16.2.23. Tiszakanyár
-
-16.2.24. Tornyospálca
-
-16.2.25. Újdombrád
-
-16.2.26. Újkenéz
+16.2.23. Újkenéz
 
 16.3. Mátészalkai Rendőrkapitányság
 
@@ -5164,77 +5152,67 @@
 
 16.3.27. Rápolt
 
-16.3.28. Rohod
+16.3.28. Szamosangyalos
 
-16.3.29. Szamosangyalos
+16.3.29. Szamosbecs
 
-16.3.30. Szamosbecs
+16.3.30. Szamoskér
 
-16.3.31. Szamoskér
+16.3.31. Szamosszeg
 
-16.3.32. Szamosszeg
+16.3.32. Szamostatárfalva
 
-16.3.33. Szamostatárfalva
+16.3.33. Tiborszállás
 
-16.3.34. Tiborszállás
+16.3.34. Tyukod
 
-16.3.35. Tyukod
+16.3.35. Ura
 
-16.3.36. Ura
+16.3.36. Vaja
 
-16.3.37. Vaja
-
-16.3.38. Vállaj
+16.3.37. Vállaj
 
 16.4. Nyírbátori Rendőrkapitányság
 
-16.4.1. Balkány
+16.4.1. Bátorliget
 
-16.4.2. Bátorliget
+16.4.2. Encsencs
 
-16.4.3. Encsencs
+16.4.3. Kisléta
 
-16.4.4. Kállósemjén
+16.4.4. Máriapócs
 
-16.4.5. Kisléta
+16.4.5. Nyírbátor
 
-16.4.6. Máriapócs
+16.4.6. Nyírbéltek
 
-16.4.7. Nyírbátor
+16.4.7. Nyírbogát
 
-16.4.8. Nyírbéltek
+16.4.8. Nyírcsászári
 
-16.4.9. Nyírbogát
+16.4.9. Nyírderzs
 
-16.4.10. Nyírcsászári
+16.4.10. Nyírgelse
 
-16.4.11. Nyírderzs
+16.4.11. Nyírgyulaj
 
-16.4.12. Nyírgelse
+16.4.12. Nyírlugos
 
-16.4.13. Nyírgyulaj
+16.4.13. Nyírmihálydi
 
-16.4.14. Nyírlugos
+16.4.14. Nyírpilis
 
-16.4.15. Nyírmihálydi
+16.4.15. Nyírvasvári
 
-16.4.16. Nyírpilis
+16.4.16. Ömböly
 
-16.4.17. Nyírvasvári
+16.4.17. Penészlek
 
-16.4.18. Ófehértó
+16.4.18. Piricse
 
-16.4.19. Ömböly
+16.4.19. Pócspetri
 
-16.4.20. Penészlek
-
-16.4.21. Piricse
-
-16.4.22. Pócspetri
-
-16.4.23. Szakoly
-
-16.4.24. Terem
+16.4.20. Terem
 
 16.5. Nyíregyházi Rendőrkapitányság
 
@@ -5242,91 +5220,109 @@
 
 16.5.2. Baktalórántháza
 
-16.5.3. Balsa
+16.5.3. Balkány
 
-16.5.4. Besenyőd
+16.5.4. Balsa
 
-16.5.5. Beszterec
+16.5.5. Berkesz
 
-16.5.6. Biri
+16.5.6. Besenyőd
 
-16.5.7. Bököny
+16.5.7. Beszterec
 
-16.5.8. Buj
+16.5.8. Biri
 
-16.5.9. Demecser
+16.5.9. Bököny
 
-16.5.10. Érpatak
+16.5.10. Buj
 
-16.5.11. Gávavencsellő
+16.5.11. Demecser
 
-16.5.12. Geszteréd
+16.5.12. Érpatak
 
-16.5.13. Ibrány
+16.5.13. Gávavencsellő
 
-16.5.14. Kálmánháza
+16.5.14. Geszteréd
 
-16.5.15. Kemecse
+16.5.15. Gégény
 
-16.5.16. Kék
+16.5.16. Ibrány
 
-16.5.17. Kótaj
+16.5.17. Kállósemjén
 
-16.5.18. Levelek
+16.5.18. Kálmánháza
 
-16.5.19. Magy
+16.5.19. Kemecse
 
-16.5.20. Nagycserkesz
+16.5.20. Kék
 
-16.5.21. Nagyhalász
+16.5.21. Kótaj
 
-16.5.22. Nagykálló
+16.5.22. Laskod
 
-16.5.23. Napkor
+16.5.23. Levelek
 
-16.5.24. Nyírbogdány
+16.5.24. Magy
 
-16.5.25. Nyíregyháza
+16.5.25. Nagycserkesz
 
-16.5.26. Nyíribrony
+16.5.26. Nagyhalász
 
-16.5.27. Nyírjákó
+16.5.27. Nagykálló
 
-16.5.28. Nyírkércs
+16.5.28. Napkor
 
-16.5.29. Nyírpazony
+16.5.29. Nyírbogdány
 
-16.5.30. Nyírtelek
+16.5.30. Nyíregyháza
 
-16.5.31. Nyírtét
+16.5.31. Nyíribrony
 
-16.5.32. Nyírtura
+16.5.32. Nyírjákó
 
-16.5.33. Paszab
+16.5.33. Nyírkércs
 
-16.5.34. Rakamaz
+16.5.34. Nyírpazony
 
-16.5.35. Ramocsaháza
+16.5.35. Nyírtelek
 
-16.5.36. Sényő
+16.5.36. Nyírtét
 
-16.5.37. Szabolcs
+16.5.37. Nyírtura
 
-16.5.38. Székely
+16.5.38. Ófehértó
 
-16.5.39. Timár
+16.5.39. Paszab
 
-16.5.40. Tiszabercel
+16.5.40. Petneháza
 
-16.5.41. Tiszanagyfalu
+16.5.41. Rakamaz
 
-16.5.42. Tiszarád
+16.5.42. Ramocsaháza
 
-16.5.43. Tiszatelek
+16.5.43. Rohod
 
-16.5.44. Újfehértó
+16.5.44. Sényő
 
-16.5.45. Vasmegyer
+16.5.45. Szabolcs
+
+16.5.46. Szakoly
+
+16.5.47. Székely
+
+16.5.48. Timár
+
+16.5.49. Tiszabercel
+
+16.5.50. Tiszanagyfalu
+
+16.5.51. Tiszarád
+
+16.5.52. Tiszatelek
+
+16.5.53. Újfehértó
+
+16.5.54. Vasmegyer
 
 16.6. Tiszavasvári Rendőrkapitányság
 
@@ -5396,11 +5392,9 @@
 
 16.7.26. Tiszavid
 
-16.7.27. Tivadar
+16.7.27. Vámosatya
 
-16.7.28. Vámosatya
-
-16.7.29. Vásárosnamény
+16.7.28. Vásárosnamény
 
 16.8. Záhonyi Rendőrkapitányság
 
@@ -5408,25 +5402,23 @@
 
 16.8.2. Eperjeske
 
-16.8.3. Fényeslitke
+16.8.3. Győröcske
 
-16.8.4. Győröcske
+16.8.4. Komoró
 
-16.8.5. Komoró
+16.8.5. Mándok
 
-16.8.6. Mándok
+16.8.6. Tiszabezdéd
 
-16.8.7. Tiszabezdéd
+16.8.7. Tiszamogyorós
 
-16.8.8. Tiszamogyorós
+16.8.8. Tiszaszentmárton
 
-16.8.9. Tiszaszentmárton
+16.8.9. Tuzsér
 
-16.8.10. Tuzsér
+16.8.10. Záhony
 
-16.8.11. Záhony
-
-16.8.12. Zsurk
+16.8.11. Zsurk
 
 16.9. Határrendészeti Kirendeltség Nyírbátor
 
@@ -5580,55 +5572,53 @@
 
 16.11.6. Kisar
 
-16.11.7.
+16.11.7. Kölcse
 
-16.11.8. Kölcse
+16.11.8. Kömörő
 
-16.11.9. Kömörő
+16.11.9. Magosliget
 
-16.11.10. Magosliget
+16.11.10. Mánd
 
-16.11.11. Mánd
+16.11.11. Milota
 
-16.11.12. Milota
+16.11.12. Nábrád
 
-16.11.13. Nábrád
+16.11.13. Nagyar
 
-16.11.14. Nagyar
+16.11.14. Nemesborzova
 
-16.11.15. Nemesborzova
+16.11.15. Olcsvaapáti
 
-16.11.16. Olcsvaapáti
+16.11.16. Ópályi
 
-16.11.17. Ópályi
+16.11.17. Panyola
 
-16.11.18. Panyola
+16.11.18. Penyige
 
-16.11.19. Penyige
+16.11.19. Sonkád
 
-16.11.20. Sonkád
+16.11.20. Szamoskér
 
-16.11.21. Szamoskér
+16.11.21. Szamosszeg
 
-16.11.22. Szamosszeg
+16.11.22. Szatmárcseke
 
-16.11.23. Szatmárcseke
+16.11.23. Tiszabecs
 
-16.11.24. Tiszabecs
+16.11.24. Tiszacsécse
 
-16.11.25. Tiszacsécse
+16.11.25. Tiszakóród
 
-16.11.26. Tiszakóród
+16.11.26. Túristvándi
 
-16.11.27. Túristvándi
+16.11.27. Túrricse
 
-16.11.28. Túrricse
+16.11.28. Uszka
 
-16.11.29. Uszka
+16.11.29. Vámosoroszi
 
-16.11.30. Vámosoroszi
-
-16.11.31. Tiszabecs közúti határátkelőhely
+16.11.30. Tiszabecs közúti határátkelőhely
 
 16.12. Határrendészeti Kirendeltség Beregsurány
 
@@ -5774,53 +5764,45 @@
 
 17.1.5. Cikó
 
-17.1.6. Duzs
+17.1.6. Felsőnána
 
-17.1.7. Felsőnána
+17.1.7. Grábóc
 
-17.1.8. Grábóc
+17.1.8. Györe
 
-17.1.9. Györe
+17.1.9. Izmény
 
-17.1.10. Hőgyész
+17.1.10. Kakasd
 
-17.1.11. Izmény
+17.1.11. Kéty
 
-17.1.12. Kakasd
+17.1.12. Kisdorog
 
-17.1.13. Kalaznó
+17.1.13. Kismányok
 
-17.1.14. Kéty
+17.1.14. Kisvejke
 
-17.1.15. Kisdorog
+17.1.15. Lengyel
 
-17.1.16. Kismányok
+17.1.16. Mórágy
 
-17.1.17. Kisvejke
+17.1.17. Mőcsény
 
-17.1.18. Lengyel
+17.1.18. Mucsfa
 
-17.1.19. Mórágy
+17.1.19. Murga
 
-17.1.20. Mőcsény
+17.1.20. Nagymányok
 
-17.1.21. Mucsfa
+17.1.21. Nagyvejke
 
-17.1.22. Mucsi
+17.1.22. Tevel
 
-17.1.23. Murga
+17.1.23. Váralja
 
-17.1.24. Nagymányok
+17.1.24. Závod
 
-17.1.25. Nagyvejke
-
-17.1.26. Tevel
-
-17.1.27. Váralja
-
-17.1.28. Závod
-
-17.1.29. Zomba
+17.1.25. Zomba
 
 17.2. Dombóvári Rendőrkapitányság
 
@@ -5886,6 +5868,8 @@
 
 17.3.14. Sárszentlőrinc
 
+17.3.15. Tengelic
+
 17.4. Szekszárdi Rendőrkapitányság
 
 17.4.1. Alsónána
@@ -5926,69 +5910,75 @@
 
 17.4.19. Szekszárd
 
-17.4.20. Tengelic
+17.4.20. Tolna
 
-17.4.21. Tolna
-
-17.4.22. Várdomb
+17.4.21. Várdomb
 
 17.5. Tamási Rendőrkapitányság
 
-17.5.1. Belecske
+17.5.1. Belecska
 
 17.5.2. Diósberény
 
-17.5.3. Értény
+17.5.3. Dúzs
 
-17.5.4. Felsőnyék
+17.5.4. Értény
 
-17.5.5. Fürged
+17.5.5. Felsőnyék
 
-17.5.6. Gyönk
+17.5.6. Fürged
 
-17.5.7. Iregszemcse
+17.5.7. Gyönk
 
-17.5.8. Keszőhidegkút
+17.5.8. Hőgyész
 
-17.5.9. Kisszékely
+17.5.9. Iregszemcse
 
-17.5.10. Koppányszántó
+17.5.10. Kalaznó
 
-17.5.11. Magyarkeszi
+17.5.11. Keszőhidegkút
 
-17.5.12. Miszla
+17.5.12. Kisszékely
 
-17.5.13. Nagykónyi
+17.5.13. Koppányszántó
 
-17.5.14. Nagyszékely
+17.5.14. Magyarkeszi
 
-17.5.15. Nagyszokoly
+17.5.15. Miszla
 
-17.5.16. Ozora
+17.5.16. Mucsi
 
-17.5.17. Pári
+17.5.17. Nagykónyi
 
-17.5.18. Pincehely
+17.5.18. Nagyszékely
 
-17.5.19. Regöly
+17.5.19. Nagyszokoly
 
-17.5.20. Simontornya
+17.5.20. Ozora
 
-17.5.21. Szakadát
+17.5.21. Pári
 
-17.5.22. Szakály
+17.5.22. Pincehely
 
-17.5.23. Szárazd
+17.5.23. Regöly
 
-17.5.24. Tamási
+17.5.24. Simontornya
 
-17.5.25. Tolnanémedi
+17.5.25. Szakadát
 
-17.5.26. Udvari
+17.5.26. Szakály
 
-17.5.27. Újireg
+17.5.27. Szárazd
 
-17.5.28. Varsád
+17.5.28. Tamási
+
+17.5.29. Tolnanémedi
+
+17.5.30. Udvari
+
+17.5.31. Újireg
+
+17.5.32. Varsád
 
 18. VAS MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
@@ -6190,31 +6180,35 @@
 
 18.3.6. Horvátzsidány
 
-18.3.7. Kiszsidány
+18.3.7. Iklanberény
 
-18.3.8. Kőszeg
+18.3.8. Kiszsidány
 
-18.3.9. Kőszegdoroszló
+18.3.9. Kőszeg
 
-18.3.10. Kőszegpaty
+18.3.10. Kőszegdoroszló
 
-18.3.11. Kőszegszerdahely
+18.3.11. Kőszegpaty
 
-18.3.12. Lukácsháza
+18.3.12. Kőszegszerdahely
 
-18.3.13. Nemescsó
+18.3.13. Lócs
 
-18.3.14. Ólmod
+18.3.14. Lukácsháza
 
-18.3.15. Peresznye
+18.3.15. Nemescsó
 
-18.3.16. Pusztacsó
+18.3.16. Ólmod
 
-18.3.17. Tormásliget
+18.3.17. Peresznye
 
-18.3.18. Tömörd
+18.3.18. Pusztacsó
 
-18.3.19. Velem
+18.3.19. Tormásliget
+
+18.3.20. Tömörd
+
+18.3.21. Velem
 
 18.4. Sárvári Rendőrkapitányság
 
@@ -6242,69 +6236,65 @@
 
 18.4.12. Ikervár
 
-18.4.13. Iklanberény
+18.4.13. Jákfa
 
-18.4.14. Jákfa
+18.4.14. Káld
 
-18.4.15. Káld
+18.4.15. Kenéz
 
-18.4.16. Kenéz
+18.4.16. Megyehíd
 
-18.4.17. Lócs
+18.4.17. Meggyeskovácsi
 
-18.4.18. Meggyeskovácsi
+18.4.18. Mesterháza
 
-18.4.19. Megyehíd
+18.4.19. Nagygeresd
 
-18.4.20. Mesterháza
+18.4.20. Nemesládony
 
-18.4.21. Nagygeresd
+18.4.21. Nick
 
-18.4.22. Nemesládony
+18.4.22. Nyőgér
 
-18.4.23. Nick
+18.4.23. Ölbő
 
-18.4.24. Nyőgér
+18.4.24. Pecöl
 
-18.4.25. Ölbő
+18.4.25. Porpác
 
-18.4.26. Pecöl
+18.4.26. Pósfa
 
-18.4.27. Porpác
+18.4.27. Rábapaty
 
-18.4.28. Pósfa
+18.4.28. Répcelak
 
-18.4.29. Rábapaty
+18.4.29. Répceszentgyörgy
 
-18.4.30. Répcelak
+18.4.30. Sajtoskál
 
-18.4.31. Répceszentgyörgy
+18.4.31. Sárvár
 
-18.4.32. Sajtoskál
+18.4.32. Simaság
 
-18.4.33. Sárvár
+18.4.33. Sitke
 
-18.4.34. Simaság
+18.4.34. Sótony
 
-18.4.35. Sitke
+18.4.35. Szeleste
 
-18.4.36. Sótony
+18.4.36. Tompaládony
 
-18.4.37. Szeleste
+18.4.37. Uraiújfalu
 
-18.4.38. Tompaládony
+18.4.38. Vasegerszeg
 
-18.4.39. Uraiújfalu
+18.4.39. Vashosszúfalu
 
-18.4.40. Vasegerszeg
+18.4.40. Vámoscsalád
 
-18.4.41. Vashosszúfalu
+18.4.41. Vásárosmiske
 
-18.4.42. Vámoscsalád
-
-18.4.43. Vásárosmiske
-
-18.4.44. Zsédeny
+18.4.42. Zsédeny
 
 18.5. Szombathelyi Rendőrkapitányság
 
@@ -6426,7 +6416,7 @@
 
 18.6.18. Püspökmolnári
 
-18.6.19. Rábahidvég
+18.6.19. Rábahídvég
 
 18.6.20. Sárfimizdó
 
@@ -6446,21 +6436,21 @@
 
 19.1.3. Apácatorna
 
-19.1.4. Bakonypölöske
+19.1.4. Borszörcsök
 
-19.1.5. Borszörcsök
+19.1.5. Csehbánya
 
-19.1.6. Csehbánya
+19.1.6. Csögle
 
-19.1.7. Csögle
+19.1.7. Dabrony
 
-19.1.8. Dabrony
+19.1.8. Devecser
 
-19.1.9. Devecser
+19.1.9. Doba
 
-19.1.10. Doba
+19.1.10. Egeralja
 
-19.1.11. Egeralja
+19.1.11. Farkasgyepű
 
 19.1.12. Halimba
 
@@ -6492,101 +6482,101 @@
 
 19.1.26. Noszlop
 
-19.1.27. Oroszi
+19.1.27. Nyirád
 
-19.1.28. Öcs
+19.1.28. Oroszi
 
-19.1.29. Pusztamiske
+19.1.29. Öcs
 
-19.1.30. Somlójenő
+19.1.30. Pusztamiske
 
-19.1.31. Somlószőlős
+19.1.31. Somlójenő
 
-19.1.32. Somlóvásárhely
+19.1.32. Somlószőlős
 
-19.1.33. Somlóvecse
+19.1.33. Somlóvásárhely
 
-19.1.34. Szőc
+19.1.34. Somlóvecse
 
-19.1.35. Tüskevár
+19.1.35. Szőc
 
-19.1.36. Úrkút
+19.1.36. Tüskevár
 
-19.1.37. Városlőd
+19.1.37. Úrkút
 
-19.1.38. Vid
+19.1.38. Városlőd
+
+19.1.39. Vid
 
 19.2. Balatonalmádi Rendőrkapitányság
 
-19.2.1. Alsóörs
+19.2.1. Balatonakarattya
 
-19.2.2. Balatonakarattya
+19.2.2. Balatonalmádi
 
-19.2.3. Balatonalmádi
+19.2.3. Balatonfőkajár
 
-19.2.4. Balatonfőkajár
+19.2.4. Balatonfűzfő
 
-19.2.5. Balatonfűzfő
+19.2.5. Balatonkenese
 
-19.2.6. Balatonkenese
+19.2.6. Csajág
 
-19.2.7. Csajág
+19.2.7. Felsőörs
 
-19.2.8. Felsőörs
+19.2.8. Királyszentistván
 
-19.2.9. Királyszentistván
+19.2.9. Küngös
 
-19.2.10. Küngös
+19.2.10. Litér
 
-19.2.11. Litér
-
-19.2.12. Lovas
-
-19.2.13. Papkeszi
-
-19.2.14. Vilonya
+19.2.11. Papkeszi
 
 19.3. Balatonfüredi Rendőrkapitányság
 
-19.3.1. Aszófő
+19.3.1. Alsóörs
 
-19.3.2. Balatonakali
+19.3.2. Aszófő
 
-19.3.3. Balatoncsicsó
+19.3.3. Balatonakali
 
-19.3.4. Balatonfüred
+19.3.4. Balatoncsicsó
 
-19.3.5. Balatonszepezd
+19.3.5. Balatonfüred
 
-19.3.6. Balatonszőlős
+19.3.6. Balatonszepezd
 
-19.3.7. Balatonudvari
+19.3.7. Balatonszőlős
 
-19.3.8. Csopak
+19.3.8. Balatonudvari
 
-19.3.9. Dörgicse
+19.3.9. Csopak
 
-19.3.10. Monoszló
+19.3.10. Dörgicse
 
-19.3.11. Óbudavár
+19.3.11. Lovas
 
-19.3.12. Örvényes
+19.3.12. Monoszló
 
-19.3.13. Paloznak
+19.3.13. Óbudavár
 
-19.3.14. Pécsely
+19.3.14. Örvényes
 
-19.3.15. Szentantalfa
+19.3.15. Paloznak
 
-19.3.16. Szentjakabfa
+19.3.16. Pécsely
 
-19.3.17. Tagyon
+19.3.17. Szentantalfa
 
-19.3.18. Tihany
+19.3.18. Szentjakabfa
 
-19.3.19. Vászoly
+19.3.19. Tagyon
 
-19.3.20. Zánka
+19.3.20. Tihany
+
+19.3.21. Vászoly
+
+19.3.22. Zánka
 
 19.4. Pápai Rendőrkapitányság
 
@@ -6596,27 +6586,27 @@
 
 19.4.3. Bakonykoppány
 
-19.4.4. Bakonyság
+19.4.4. Bakonypölöske
 
-19.4.5. Bakonyszentiván
+19.4.5. Bakonyság
 
-19.4.6. Bakonyszücs
+19.4.6. Bakonyszentiván
 
-19.4.7. Bakonytamási
+19.4.7. Bakonyszücs
 
-19.4.8. Béb
+19.4.8. Bakonytamási
 
-19.4.9. Békás
+19.4.9. Béb
 
-19.4.10. Csót
+19.4.10. Békás
 
-19.4.11. Dáka
+19.4.11. Csót
 
-19.4.12. Döbrönte
+19.4.12. Dáka
 
-19.4.13. Egyházaskesző
+19.4.13. Döbrönte
 
-19.4.14. Farkasgyepű
+19.4.14. Egyházaskesző
 
 19.4.15. Ganna
 
@@ -6756,63 +6746,65 @@
 
 19.5.33. Nemesvita
 
-19.5.34. Nyírád
+19.5.34. Raposka
 
-19.5.35. Raposka
+19.5.35. Révfülöp
 
-19.5.36. Révfülöp
+19.5.36. Rigács
 
-19.5.37. Rigács
+19.5.37. Salföld
 
-19.5.38. Salföld
+19.5.38. Sáska
 
-19.5.39. Sáska
+19.5.39. Sümeg
 
-19.5.40. Sümeg
+19.5.40. Sümegprága
 
-19.5.41. Sümegprága
+19.5.41. Szentbékkálla
 
-19.5.42. Szentbékkálla
+19.5.42. Szentimrefalva
 
-19.5.43. Szentimrefalva
+19.5.43. Szigliget
 
-19.5.44. Szigliget
+19.5.44. Taliándörögd
 
-19.5.45. Taliándörögd
+19.5.45. Tapolca
 
-19.5.46. Tapolca
+19.5.46. Ukk
 
-19.5.47. Ukk
+19.5.47. Uzsa
 
-19.5.48. Uzsa
+19.5.48. Veszprémgalsa
 
-19.5.49. Veszprémgalsa
+19.5.49. Vigántpetend
 
-19.5.50. Vigántpetend
+19.5.50. Zalaerdőd
 
-19.5.51. Zalaerdőd
+19.5.51. Zalagyömörő
 
-19.5.52. Zalagyömörő
+19.5.52. Zalahaláp
 
-19.5.53. Zalahaláp
+19.5.53. Zalameggyes
 
-19.5.54. Zalameggyes
-
-19.5.55. Zalaszegvár
+19.5.54. Zalaszegvár
 
 19.6. Várpalotai Rendőrkapitányság
 
 19.6.1. Berhida
 
-19.6.2. Öskü
+19.6.2. Jásd
 
-19.6.3. Ősi
+19.6.3. Öskü
 
-19.6.4. Pétfürdő
+19.6.4. Ősi
 
-19.6.5. Tés
+19.6.5. Pétfürdő
 
-19.6.6. Várpalota
+19.6.6. Tés
+
+19.6.7. Várpalota
+
+19.6.8. Vilonya
 
 19.7. Veszprémi Rendőrkapitányság
 
@@ -6846,155 +6838,149 @@
 
 19.7.15. Hidegkút
 
-19.7.16. Jásd
+19.7.16. Lókút
 
-19.7.17. Lókút
+19.7.17. Márkó
 
-19.7.18. Márkó
+19.7.18. Mencshely
 
-19.7.19. Mencshely
+19.7.19. Nagyesztergár
 
-19.7.20. Nagyesztergár
+19.7.20. Nagyvázsony
 
-19.7.21. Nagyvázsony
+19.7.21. Nemesvámos
 
-19.7.22. Nemesvámos
+19.7.22. Olaszfalu
 
-19.7.23. Olaszfalu
+19.7.23. Pénzesgyőr
 
-19.7.24. Pénzesgyőr
+19.7.24. Porva
 
-19.7.25. Porva
+19.7.25. Pula
 
-19.7.26. Pula
+19.7.26. Sóly
 
-19.7.27. Sóly
+19.7.27. Szápár
 
-19.7.28. Szápár
+19.7.28. Szentgál
 
-19.7.29. Szentgál
+19.7.29. Szentkirályszabadja
 
-19.7.30. Szentkirályszabadja
+19.7.30. Tótvázsony
 
-19.7.31. Tótvázsony
+19.7.31. Veszprém
 
-19.7.32. Veszprém
+19.7.32. Veszprémfajsz
 
-19.7.33. Veszprémfajsz
+19.7.33. Vöröstó
 
-19.7.34. Vöröstó
-
-19.7.35. Zirc
+19.7.34. Zirc
 
 20. ZALA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 20.1. Keszthelyi Rendőrkapitányság
 
-20.1.1. Almásháza
+20.1.1. Alsópáhok
 
-20.1.2. Alsópáhok
+20.1.2. Balatongyörök
 
-20.1.3. Balatongyörök
+20.1.3. Batyk
 
-20.1.4. Batyk
+20.1.4. Bókaháza
 
-20.1.5. Bókaháza
+20.1.5. Cserszegtomaj
 
-20.1.6. Cserszegtomaj
+20.1.6. Dióskál
 
-20.1.7. Dióskál
+20.1.7. Döbröce
 
-20.1.8. Döbröce
+20.1.8. Dötk
 
-20.1.9. Dötk
+20.1.9. Egeraracsa
 
-20.1.10. Egeraracsa
+20.1.10. Esztergályhorváti
 
-20.1.11. Esztergályhorváti
+20.1.11. Felsőpáhok
 
-20.1.12. Felsőpáhok
+20.1.12. Gétye
 
-20.1.13. Gétye
+20.1.13. Gyenesdiás
 
-20.1.14. Gyenesdiás
+20.1.14. Hévíz
 
-20.1.15. Hévíz
+20.1.15. Kallósd
 
-20.1.16. Kallósd
+20.1.16. Karmacs
 
-20.1.17. Karmacs
+20.1.17. Kehidakustány
 
-20.1.18. Kehidakustány
+20.1.18. Keszthely
 
-20.1.19. Keszthely
+20.1.19. Kisgörbő
 
-20.1.20. Kisgörbő
+20.1.20. Kisvásárhely
 
-20.1.21. Kisvásárhely
+20.1.21. Ligetfalva
 
-20.1.22. Ligetfalva
+20.1.22. Mihályfa
 
-20.1.23. Mihályfa
+20.1.23. Nagygörbő
 
-20.1.24. Nagygörbő
+20.1.24. Nemesbük
 
-20.1.25. Nemesbük
+20.1.25. Óhíd
 
-20.1.26. Óhíd
+20.1.26. Pakod
 
-20.1.27. Pakod
+20.1.27. Rezi
 
-20.1.28. Rezi
+20.1.28. Sármellék
 
-20.1.29. Sármellék
+20.1.29. Sénye
 
-20.1.30. Sénye
+20.1.30. Sümegcsehi
 
-20.1.31. Sümegcsehi
+20.1.31. Szalapa
 
-20.1.32. Szalapa
+20.1.32. Szentgyörgyvár
 
-20.1.33. Szentgyörgyvár
+20.1.33. Tekenye
 
-20.1.33/A. Tekenye
+20.1.34. Türje
 
-20.1.34. Tilaj
+20.1.35. Vállus
 
-20.1.35. Türje
+20.1.36. Várvölgy
 
-20.1.36. Vállus
+20.1.37. Vindornyafok
 
-20.1.37. Várvölgy
+20.1.38. Vindornyalak
 
-20.1.38. Vindornyafok
+20.1.39. Vindornyaszőlős
 
-20.1.39. Vindornyalak
+20.1.40. Vonyarcvashegy
 
-20.1.40. Vindornyaszőlős
+20.1.41. Zalaapáti
 
-20.1.41. Vonyarcvashegy
+20.1.42. Zalabér
 
-20.1.42. Zalaapáti
+20.1.43. Zalacsány
 
-20.1.43. Zalabér
+20.1.44. Zalaköveskút
 
-20.1.44. Zalacsány
+20.1.45. Zalaszántó
 
-20.1.45. Zalaköveskút
+20.1.46. Zalaszentgrót
 
-20.1.46. Zalaszántó
+20.1.47. Zalaszentlászló
 
-20.1.47. Zalaszentgrót
+20.1.48. Zalaszentmárton
 
-20.1.48. Zalaszentlászló
+20.1.49. Zalavár
 
-20.1.49. Zalaszentmárton
+20.1.50. Zalavég
 
-20.1.50. Zalavár
-
-20.1.51. Zalavég
-
-20.1.52. Sármellék repülőtér légi határátkelőhely
+20.1.51. Sármellék repülőtér légi határátkelőhely
 
 20.2. Lenti Rendőrkapitányság
 
@@ -7008,97 +6994,91 @@
 
 20.2.5. Bödeháza
 
-20.2.6. Csertalakos
+20.2.6. Csesztreg
 
-20.2.7. Csesztreg
+20.2.7. Csömödér
 
-20.2.8. Csömödér
+20.2.8. Dobri
 
-20.2.9. Dobri
+20.2.9. Felsőszenterzsébet
 
-20.2.10. Felsőszenterzsébet
+20.2.10. Gáborjánháza
 
-20.2.11. Gáborjánháza
+20.2.11. Gosztola
 
-20.2.12. Gosztola
+20.2.12. Hernyék
 
-20.2.13. Gutorfölde
+20.2.13. Iklódbördőce
 
-20.2.14. Hernyék
+20.2.14. Kálócfa
 
-20.2.15. Iklódbördőce
+20.2.15. Kányavár
 
-20.2.16. Kálócfa
+20.2.16. Kerkabarabás
 
-20.2.17. Kányavár
+20.2.17. Kerkafalva
 
-20.2.18. Kerkabarabás
+20.2.18. Kerkakutas
 
-20.2.19. Kerkafalva
+20.2.19. Kerkateskánd
 
-20.2.20. Kerkakutas
+20.2.20. Kissziget
 
-20.2.21. Kerkateskánd
+20.2.21. Kozmadombja
 
-20.2.22. Kissziget
+20.2.22. Külsősárd
 
-20.2.23. Kozmadombja
+20.2.23. Lendvadedes
 
-20.2.24. Külsősárd
+20.2.24. Lendvajakabfa
 
-20.2.25. Lendvadedes
+20.2.25. Lenti
 
-20.2.26. Lendvajakabfa
+20.2.26. Lovászi
 
-20.2.27. Lenti
+20.2.27. Magyarföld
 
-20.2.28. Lovászi
+20.2.28. Márokföld
 
-20.2.29. Magyarföld
+20.2.29. Mikekarácsonyfa
 
-20.2.30. Márokföld
+20.2.30. Nemesnép
 
-20.2.31. Mikekarácsonyfa
+20.2.31. Nova
 
-20.2.32. Nemesnép
+20.2.32. Ortaháza
 
-20.2.33. Nova
+20.2.33. Páka
 
-20.2.34. Ortaháza
+20.2.34. Pórszombat
 
-20.2.35. Páka
+20.2.35. Pördefölde
 
-20.2.36. Pórszombat
+20.2.36. Pusztaapáti
 
-20.2.37. Pördefölde
+20.2.37. Ramocsa
 
-20.2.38. Pusztaapáti
+20.2.38. Resznek
 
-20.2.39. Ramocsa
+20.2.39. Rédics
 
-20.2.40. Resznek
+20.2.40. Szentgyörgyvölgy
 
-20.2.41. Rédics
+20.2.41. Szécsisziget
 
-20.2.42. Szentgyörgyvölgy
+20.2.42. Szijártóháza
 
-20.2.43. Szentpéterfölde
+20.2.43. Szilvágy
 
-20.2.44. Szécsisziget
+20.2.44. Tormafölde
 
-20.2.45. Szijártóháza
+20.2.45. Tornyiszentmiklós
 
-20.2.46. Szilvágy
+20.2.46. Zalabaksa
 
-20.2.47. Tormafölde
+20.2.47. Zalaszombatfa
 
-20.2.48. Tornyiszentmiklós
-
-20.2.49. Zalabaksa
-
-20.2.50. Zalaszombatfa
-
-20.2.51. Zebecke
+20.2.48. Zebecke
 
 20.3. Nagykanizsai Rendőrkapitányság
 
@@ -7124,7 +7104,7 @@
 
 20.3.11. Csapi
 
-20.3.12. Csörnyefölde
+20.3.12. Csörnyeföld
 
 20.3.13. Eszteregnye
 
@@ -7132,7 +7112,7 @@
 
 20.3.15. Fityeház
 
-20.3.16. Füzvölgy
+20.3.16. Fűzvölgy
 
 20.3.17. Galambok
 
@@ -7264,161 +7244,171 @@
 
 20.4.1. Alibánfa
 
-20.4.2. Alsónemesapáti
+20.4.2. Almásháza
 
-20.4.3. Babosdöbréte
+20.4.3. Alsónemesapáti
 
-20.4.4. Bagod
+20.4.4. Babosdöbréte
 
-20.4.5. Bak
+20.4.5. Bagod
 
-20.4.6. Baktüttös
+20.4.6. Bak
 
-20.4.7. Becsvölgye
+20.4.7. Baktüttös
 
-20.4.8. Bezeréd
+20.4.8. Becsvölgye
 
-20.4.9. Bocfölde
+20.4.9. Bezeréd
 
-20.4.10. Boncodfölde
+20.4.10. Bocfölde
 
-20.4.11. Böde
+20.4.11. Boncodfölde
 
-20.4.12. Bucsuszentlászló
+20.4.12. Böde
 
-20.4.13. Csatár
+20.4.13. Búcsúszentlászló
 
-20.4.14. Csonkahegyhát
+20.4.14. Csatár
 
-20.4.15. Csöde
+20.4.15. Csertalakos
 
-20.4.16. Dobronhegy
+20.4.16. Csonkahegyhát
 
-20.4.17. Egervár
+20.4.17. Csöde
 
-20.4.18. Gellénháza
+20.4.18. Dobronhegy
 
-20.4.19. Gombosszeg
+20.4.19. Egervár
 
-20.4.20. Gősfa
+20.4.20. Gellénháza
 
-20.4.21. Gyűrűs
+20.4.21. Gombosszeg
 
-20.4.22. Hagyárosbörönd
+20.4.22. Gősfa
 
-20.4.23. Hottó
+20.4.23. Gutorfölde
 
-20.4.24. Iborfia
+20.4.24. Gyűrűs
 
-20.4.25. Kávás
+20.4.25. Hagyárosbörönd
 
-20.4.26. Kemendollár
+20.4.26. Hottó
 
-20.4.27. Keménfa
+20.4.27. Iborfia
 
-20.4.28. Kisbucsa
+20.4.28. Kávás
 
-20.4.29. Kiskutas
+20.4.29. Kemendollár
 
-20.4.30. Kispáli
+20.4.30. Keménfa
 
-20.4.31. Kustánszeg
+20.4.31. Kisbucsa
 
-20.4.32. Lakhegy
+20.4.32. Kiskutas
 
-20.4.33. Lickóvadamos
+20.4.33. Kispáli
 
-20.4.34. Milejszeg
+20.4.34. Kustánszeg
 
-20.4.35. Misefa
+20.4.35. Lakhegy
 
-20.4.36. Nagykapornak
+20.4.36. Lickóvadamos
 
-20.4.37. Nagykutas
+20.4.37. Milejszeg
 
-20.4.38. Nagylengyel
+20.4.38. Misefa
 
-20.4.39. Nagypáli
+20.4.39. Nagykapornak
 
-20.4.40. Nemesapáti
+20.4.40. Nagykutas
 
-20.4.41. Nemeshetés
+20.4.41. Nagylengyel
 
-20.4.42. Nemesrádó
+20.4.42. Nagypáli
 
-20.4.43. Nemessándorháza
+20.4.43. Nemesapáti
 
-20.4.44. Nemesszentandrás
+20.4.44. Nemeshetés
 
-20.4.45. Németfalu
+20.4.45. Nemesrádó
 
-20.4.46. Orbányosfa
+20.4.46. Nemessándorháza
 
-20.4.47. Ormándlak
+20.4.47. Nemesszentandrás
 
-20.4.48. Ozmánbük
+20.4.48. Németfalu
 
-20.4.49. Pacsa
+20.4.49. Orbányosfa
 
-20.4.50. Padár
+20.4.50. Ormándlak
 
-20.4.51. Pálfiszeg
+20.4.51. Ozmánbük
 
-20.4.52. Pethőhenye
+20.4.52. Pacsa
 
-20.4.53. Petrikeresztúr
+20.4.53. Padár
 
-20.4.54. Pókaszepetk
+20.4.54. Pálfiszeg
 
-20.4.55. Pölöske
+20.4.55. Pethőhenye
 
-20.4.56. Pusztaederics
+20.4.56. Petrikeresztúr
 
-20.4.57. Pusztaszentlászló
+20.4.57. Pókaszepetk
 
-20.4.58. Salomvár
+20.4.58. Pölöske
 
-20.4.59. Sárhida
+20.4.59. Pusztaederics
 
-20.4.60. Söjtör
+20.4.60. Pusztaszentlászló
 
-20.4.61. Szentkozmadombja
+20.4.61. Salomvár
 
-20.4.62. Szentpéterúr
+20.4.62. Sárhida
 
-20.4.63. Teskánd
+20.4.63. Söjtör
 
-20.4.64. Tófej
+20.4.64. Szentkozmadombja
 
-20.4.65. Vasboldogasszony
+20.4.65. Szentpéterfölde
 
-20.4.66. Vaspör
+20.4.66. Szentpéterúr
 
-20.4.67. Vöckönd
+20.4.67. Teskánd
 
-20.4.68. Zalaboldogfa
+20.4.68. Tilaj
 
-20.4.69. Zalacséb
+20.4.69. Tófej
 
-20.4.70. Zalaegerszeg
+20.4.70. Vasboldogasszony
 
-20.4.71. Zalaháshágy
+20.4.71. Vaspör
 
-20.4.72. Zalaigrice
+20.4.72. Vöckönd
 
-20.4.73. Zalaistvánd
+20.4.73. Zalaboldogfa
 
-20.4.74. Zalalövő
+20.4.74. Zalacséb
 
-20.4.75. Zalaszentgyörgy
+20.4.75. Zalaegerszeg
 
-20.4.76. Zalaszentiván
+20.4.76. Zalaháshágy
 
-20.4.77. Zalaszentlőrinc
+20.4.77. Zalaigrice
 
-20.4.78. Zalaszentmihály
+20.4.78. Zalaistvánd
 
-20.4.79. Zalatárnok
+20.4.79. Zalalövő
+
+20.4.80. Zalaszentgyörgy
+
+20.4.81. Zalaszentiván
+
+20.4.82. Zalaszentlőrinc
+
+20.4.83. Zalaszentmihály
+
+20.4.84. Zalatárnok
 
 21. MÁS RENDŐRI SZERV
 
@@ -7428,10 +7418,10 @@
 
 21.1.2. Budapest Liszt Ferenc Nemzetközi Repülőtér 1. terminál légi határátkelőhely
 
-21.1.3. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/A terminál légi határátkelőhely
+21.1.3. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/A. terminál légi határátkelőhely
 
-21.1.4. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/B terminál légi határátkelőhely
+21.1.4. Budapest Liszt Ferenc Nemzetközi Repülőtér 2/B. terminál légi határátkelőhely
 
 21.1.5. A légiforgalmi szolgálat központi létesítménye
 
-[^13]: Az 1. melléklet a 16/2010. (IV. 27.) IRM rendelet 2. § (1) bekezdésével megállapított, a 16/2010. (IV. 27.) IRM rendelet 2. § (2) bekezdése, a 23/2011. (VII. 21.) BM rendelet 6. §-a, a 87/2012. (XII. 29.) BM rendelet 1. §-a, a 24/2013. (VI. 20.) BM rendelet 2–7. §-a, a 74/2013. (XII. 18.) BM rendelet 2. §-a, a 47/2014. (X. 10.) BM rendelet 2. §-a szerint módosított szöveg.
+[^10]: Az 1. melléklet a 18/2015. (V. 21.) BM rendelet 2. §-ával megállapított szöveg.
