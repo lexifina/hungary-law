@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-154-00-00
 | 2012-12-28 | 2012. évi CCX. törvény | 2011-154-00-00.11 |
 | 2013-04-29 | 2013. évi XL. törvény | 2011-154-00-00.12 |
 | 2014-01-01 | 2013. évi CCXVIII. törvény | 2011-154-00-00.13 |
+| 2015-07-01 | 2015. évi XLII. törvény | 2011-154-00-00.14 |
