@@ -70,4 +70,4 @@
 
 3. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^130]
 
-[^130]: A 3. melléklet a 99/2014. (III. 25.) Korm. rendelet 13. § h) pontja szerint módosított szöveg.
+[^130]: A 3. melléklet a 146/2015. (VI. 12.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
