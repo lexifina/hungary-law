@@ -1,0 +1,3 @@
+2. § (1) A nyilvántartó biztosítja az informatikai biztonsági szabályzatában az elektronikus információs rendszer sértetlenségének és az adatok bizalmasságának megóvása érdekében a biztonsági osztályra tekintettel előírt védelmi intézkedéseket.
+
+(2) Ha az automatikus adatátvételben közreműködő elektronikus információs rendszerek üzemszerű működésének leállása vagy meghibásodása jogosulatlan adathozzáférést eredményezett, a nyilvántartó erről haladéktalanul értesíti a másik érintett nyilvántartót, valamint a Nemzeti Elektronikus Információbiztonsági Hatóságot és – ha a biztonsági esemény személyes adatokat érintett – a Nemzeti Adatvédelmi és Információszabadság Hatóságot.
