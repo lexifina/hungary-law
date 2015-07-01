@@ -22,7 +22,9 @@ g) a közlekedési hatóságot az általa üzemben tartott, közlekedési hatós
 
 h) a nemzetközi szerződés, nemzetközi egyezmény (NATO, Schengheni Megállapodás) és viszonosság körébe tartozó járművek,
 
-i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemeltetőit, ezen feladatok ellátása során.
+i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemeltetőit, ezen feladatok ellátása során,
+
+j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja.
 
 (2) Nem kell díjat fizetni a közút lezárásának vagy forgalma korlátozásának, elterelésének időtartama alatt azon az egyébként útdíjköteles elemi útszakaszon, amelyet a közút lezárására, vagy forgalmának korlátozására, elterelésére jogosult szervek terelőútként jelöltek ki.
 

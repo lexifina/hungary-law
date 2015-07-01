@@ -2,7 +2,7 @@
 
 a) az adatgyűjtést végez a díjköteles útszakaszon közlekedő gépjárművekről, telepített fix vagy mobil eszközök felhasználásával,
 
-b) az a) pont szerinti eszközök útján felvételezett, azonosításra alkalmas adatokat és a rendszám adatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal,
+b) az a) pont szerinti eszközök útján felvételezett, azonosításra alkalmas adatokat és a rendszám adatokat összeveti az úthasználati jogosultsággal rendelkezőkről rendelkezésére álló adatokkal, valamint az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásában szereplő adatokkal,
 
 c) a b) pont szerinti összevetés alapján összeállított adatállományt – kivéve a jogosult úthasználatra vonatkozó adatokat – átadja az útdíjellenőrzésre jogosult hatóság számára.
 
