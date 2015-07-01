@@ -1,0 +1,1 @@
+## 13. § A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások körének meghatározását a 11. melléklet tartalmazza.
