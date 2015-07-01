@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-111-00-00
 | 2015-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-111-00-00.8 |
 | 2015-04-02 | 2010. évi CXXX. törvény | 2014-111-00-00.9 |
 | 2015-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-111-00-00.10 |
+| 2015-07-01 | 2010. évi CXXX. törvény | 2014-111-00-00.11 |
