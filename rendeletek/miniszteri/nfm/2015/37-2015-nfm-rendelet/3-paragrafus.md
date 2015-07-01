@@ -1,0 +1,1 @@
+## 2. § A kőolaj és kőolajtermékekre vonatkozó nemzetközi adatszolgáltatásról szóló 20/2004. (II. 27.) GKM rendelet (a továbbiakban: R1.) 1. §-ában a „Magyar Energia Hivatalra” szövegrész helyébe a „Magyar Energetikai és Közmű-szabályozási Hivatalra” szöveg lép.
