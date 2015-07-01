@@ -1,0 +1,3 @@
+## 43. § A halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet 10. § (2) bekezdés f) pontjában a „fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról” szövegrész helyébe a „rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról” szöveg lép.
+
+## 24. Az Információs Hivatal hivatásos állománya teljesítményértékelésének ajánlott elemeiről, a teljesítményértékelés elemeinek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 552/2013. (XII. 31.) Korm. rendelet hatályon kívül helyezése
