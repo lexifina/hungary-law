@@ -4,7 +4,7 @@
 
 a) a bútorok és az egyéb ingóságok szállítási költségének megtérítése,
 
-b)[^10] számla ellenében a saját és a vele közös háztartásban élő közeli hozzátartozói, élettársa indokoltan felmerülő egyszeri, odaútra szóló utazási költségének megtérítése, továbbá
+b)[^12] számla ellenében a saját és a vele közös háztartásban élő közeli hozzátartozói, élettársa indokoltan felmerülő egyszeri, odaútra szóló utazási költségének megtérítése, továbbá
 
 c) költözködési átalány
 
@@ -16,4 +16,4 @@ c) költözködési átalány
 
 (4) Honvédségi szálláshelyen történő elhelyezés esetén költözködési költségtérítés címén legfeljebb 200 kg ingóság szállítási költsége számolható el.
 
-[^10]: A 20. § (1) bekezdés b) pontja a 24/2013. (XII. 20.) HM rendelet 24. § a) pontja szerint módosított szöveg.
+[^12]: A 20. § (1) bekezdés b) pontja a 24/2013. (XII. 20.) HM rendelet 24. § a) pontja szerint módosított szöveg.
