@@ -1,3 +1,5 @@
+## Az elektronikus kapcsolattartás szabályai
+
 69/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet (e cím alkalmazásában a továbbiakban együtt: kapcsolattartó szervezet) egymással az írásbeli kapcsolatot elektronikus úton tarthatja.
 
 (2) Az (1) bekezdés alapján

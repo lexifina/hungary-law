@@ -1,0 +1,1 @@
+69/D. § Az összbüntetésbe foglalás (574. §) és az utólagos összbüntetésbe foglalás (575. §) iránti indítványt, valamint ezen indítvány visszavonását az elítélt védője a bíróság e célra biztosított elektronikus rendszerén keresztül is benyújthatja.

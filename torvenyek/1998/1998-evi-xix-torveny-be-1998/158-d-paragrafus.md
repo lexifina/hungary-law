@@ -2,7 +2,7 @@
 
 a) a tárhelyszolgáltató az elektronikus adat ideiglenes eltávolítására vonatkozó kötelezettséget nem teljesítette, vagy az elektronikus adat ideiglenes eltávolítására vonatkozóan a külföldi hatóság jogsegély iránti megkeresése a megkeresés kibocsátásától számított harminc napon belül nem vezetett eredményre, és
 
-b) a büntetőeljárás gyermekpornográfia (Btk. 204. §) vagy állam elleni bűncselekmény (Btk. XXIV. Fejezet) vagy terrorcselekmény (Btk. 314–316. §) miatt indult, és az elektronikus adat e bűncselekménnyel áll összefüggésben.
+b) a büntetőeljárás kábítószer-kereskedelem (Btk. 176–177. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), új pszichoaktív anyaggal visszaélés (Btk. 184–184/A. §), gyermekpornográfia (Btk. 204. §), állam elleni bűncselekmény (Btk. XXIV. Fejezet), terrorcselekmény (Btk. 314–316. §) vagy terrorizmus finanszírozása (Btk. 318. §) miatt indult, és az elektronikus adat e bűncselekménnyel áll összefüggésben.
 
 (2) A bíróság a határozatával az elektronikus hírközlési szolgáltatókat kötelezi az elektronikus adathoz való hozzáférés ideiglenes megakadályozására.
 

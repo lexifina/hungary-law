@@ -8,7 +8,7 @@ b) a hírközlési szolgáltatást, valamint a küldemények továbbítását v�
 
 c) a bírósági ügyintéző által a büntető ügyekben ellátható feladatokat,
 
-d) az Információs Hivatal tekintetében a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait.
+d)
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
@@ -58,7 +58,7 @@ rendeletben szabályozza.
 
 a) a honvédelemért felelős miniszter, hogy az érintett miniszterek egyetértésével a katonával szemben elrendelt lakhelyelhagyási tilalom ellenőrzésének szabályait,
 
-b) az (1) bekezdés d) pontja kivételével a rendvédelmi szervek tekintetében a rendvédelmi szervet irányító miniszter, a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tekintetében a honvédelemért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
+b) a rendvédelmi szervek tekintetében a rendvédelmi szervet irányító miniszter, a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tekintetében a honvédelemért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével a nyomozásra illetékes parancsnokokat, valamint hatáskörüket és a parancsnoki nyomozás részletes szabályait,
 
 c) a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter egyetértésével és az Országgyűlés elnöke véleményének kikérésével az Országgyűlési Őrségnél a nyomozásra illetékes parancsnokot, valamint hatáskörét és a parancsnoki nyomozás részletes szabályait,
 
@@ -76,7 +76,7 @@ c) az Országos Bírósági Hivatal elnöke, hogy a bírósági eljárással kap
 
 d) az igazságügyért felelős miniszter, hogy a bíróság büntetés-végrehajtási feladataival kapcsolatban rendeletben,
 
-e) a honvédelemért felelős miniszter és a Kormány rendvédelmi szervet irányító minisztere, hogy együttesen a legfőbb ügyésszel egyetértésben a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat és a rendvédelmi szervek tekintetében a parancsnoki nyomozással kapcsolatban utasításban
+e) a honvédelemért felelős miniszter és a Kormány rendvédelmi feladatokat ellátó szervet irányító minisztere, hogy együttesen a legfőbb ügyésszel egyetértésben a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében a parancsnoki nyomozással kapcsolatban utasításban
 
 az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az eljárás során gyakrabban használt más iratokra nyomtatvány rendszeresítését rendelje el.
 
