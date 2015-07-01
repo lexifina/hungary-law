@@ -1,0 +1,1 @@
+94. § Ha törvény a tartalékállományba helyezettek vagy tartalékállományban tartottak foglalkoztatására járulékcsökkentési kedvezményt biztosít, vagy lehetővé teszi annak személyi juttatásokra történő felhasználását, e rendelkezéseket a 91–93. § szerint tartalékállományba helyezett vagy tartalékállományban tartott személyt foglalkoztatóra is alkalmazni kell.

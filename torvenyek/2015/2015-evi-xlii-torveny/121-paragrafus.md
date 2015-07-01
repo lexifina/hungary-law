@@ -1,0 +1,5 @@
+121. § (1) A besorolás szerinti besorolási kategóriához tarozó fizetési fokozatban előre kell sorolni a hivatásos állomány tagját, ha a fizetési várakozási idő eltelt, a jogszabályban meghatározott továbbképzési kötelezettségét teljesítette és a várakozási idő éves egyéni teljesítményértékeléseinek átlaga legalább megfelelő teljesítményfokozatú.
+
+(2) A hivatásos állomány tagja a magasabb rendfokozatba és az ahhoz rendelt fizetési fokozatba az (1) bekezdésben meghatározott feltételeken felül akkor léptethető elő, ha a magasabb rendfokozathoz előírt rendfokozati vizsgát teljesítette.
+
+(3) Ha a hivatásos állomány tagja az (1) vagy (2) bekezdésben meghatározott feltételek valamelyikét nem teljesítette, akkor magasabb fizetési fokozatba vagy rendfokozatba nem sorolható vagy léptethető elő. Az előmenetelhez szükséges feltételek meglétét a munkáltatói jogkör gyakorlója az esedékességet követően évenként felülvizsgálja, és a feltételek teljesülésekor a hivatásos állomány tagját előresorolja vagy előlépteti.

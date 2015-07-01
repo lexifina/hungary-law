@@ -1,0 +1,5 @@
+## 53. Azonnali hatályú lemondás
+
+85. § (1) Ha a szolgálati elöljárója részéről a hivatásos állomány tagját a törvényben meghatározott jogaiban vagy emberi méltóságában olyan súlyos sérelem érte, amely miatt szolgálati viszonyának fenntartása nem várható el tőle, az arra okot adó körülmény megjelölésével azonnali hatályú lemondással élhet. A szolgálati viszony megszűnése az azonnali hatályú lemondás bejelentését követő napon hatályba lép.
+
+(2) Az azonnali hatályú lemondás esetén az arra okot adó körülmény meglétét a hivatásos állomány tagjának kell bizonyítani. Az ok megalapozatlansága esetén a hivatásos állomány tagja köteles a 84. § (2) bekezdése szerinti lemondási időre járó illetménynek megfelelő összeget a rendvédelmi szervnek megtéríteni, és az esetlegesen felmerült kárért helytállni. Ha az azonnali hatályú lemondás oka és az azt megalapozó körülmények valósnak bizonyulnak, vagy a rendvédelmi szerv azt nem vitatja, a hivatásos állomány tagja részére a 87. § (2) bekezdése szerinti felmentési időre járó távolléti díjat és végkielégítést kell fizetni.

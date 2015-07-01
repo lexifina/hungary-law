@@ -1,0 +1,5 @@
+315. § (1) Feladata ellátása érdekében a szolgálati beosztás szerinti havi szolgálatteljesítési ideje tíz százalékának megfelelő szolgálatteljesítési időkedvezmény illeti meg a rendvédelmi szerv hivatásos állománya legalább tíz százalékának a tagságával rendelkező szakszervezetnél választott tisztséget betöltő és a szakszervezet által a hivatásos állomány 314. § (2) bekezdése szerint védelemre jelölt tagját. A szolgálatteljesítési időkedvezmény nem vonható össze.
+
+(2) A szolgálatteljesítési időkedvezmény igénybevételét legalább tíz nappal korábban be kell jelenteni. Ha a kedvezmény igénybevételét megalapozó indok a hivatásos állomány tagjának önhibáján kívül ennél később jut a tudomására, a tudomásszerzést követően köteles haladéktalanul bejelenteni a szolgálatteljesítési időkedvezmény igénybevételére vonatkozó szándékát. A rendvédelmi szerv különösen indokolt esetben tagadhatja meg a szolgálatteljesítési időkedvezmény igénybevételét.
+
+(3) A szolgálatteljesítési időkedvezmény tartamára távolléti díj jár. A szolgálatteljesítési időkedvezményt pénzben megváltani nem lehet.

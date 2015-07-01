@@ -1,0 +1,1 @@
+40. § Hivatásos állományba visszavételkor a hivatásos állomány tagját a tervezett szolgálati beosztásának megfelelő besorolási kategóriába és a fizetési fokozatba történő besorolás alapjául szolgáló szolgálati ideje figyelembevételével megállapított fizetési fokozatba kell besorolni.

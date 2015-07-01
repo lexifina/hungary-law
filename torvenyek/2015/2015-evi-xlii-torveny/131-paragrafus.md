@@ -1,0 +1,3 @@
+131. § (1) A rendvédelmi szerv a tehetségen és teljesítményen alapuló tervszerű előmenetel biztosítása érdekében a magasabb szolgálati beosztás vagy vezetői beosztás betöltéséhez szükséges iskolai végzettség, szakképesítés megszerzéséhez a hivatásos állomány tagjának iskolarendszerű vagy iskolarendszeren kívüli képzésben való részvételét – a szolgálati érdek figyelembevételével – támogatja.
+
+(2) A hivatásos állomány tagját szakmai ismereteinek fejlesztése céljából jogszabályban meghatározott továbbképzésben vagy átképzésben kell részesíteni. A képzési, továbbképzési kötelezettség önhibából történt elmulasztása az e törvényben meghatározott jogkövetkezményekkel jár.

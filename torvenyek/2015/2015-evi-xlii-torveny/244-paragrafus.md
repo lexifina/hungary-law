@@ -1,0 +1,1 @@
+244. § A rendvédelmi szerv a kárfelelőssége alapján a hivatásos állomány tagjának elmaradt jövedelmét, dologi kárát, a sérelemmel, valamint ennek elhárításával összefüggésben felmerült indokolt költségeit köteles megtéríteni.

@@ -1,0 +1,3 @@
+93. § (1) A hivatásos állomány tagját saját kérésére a tartalékállományt kezelő szerv nyilvántartásba veszi, és részére álláskeresési tevékenységet végez a nyilvántartásba vételtől számított egy évig. A nyilvántartásba vételről a tartalékállományt kezelő szerv tájékoztatja a hivatásos állomány tagjának állományilletékes parancsnokát. A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja csak a főigazgató hozzájárulásával vehető nyilvántartásba.
+
+(2) A tartalékállományt kezelő szervnél egy év időtartamra a nyilvántartásba vételét kérheti az is, akinek a 91. § (1) bekezdésében felsorolt okból szűnt meg a szolgálati viszonya, és nem került sor a 91. § (2) bekezdése szerinti tartalékállományban tartására.

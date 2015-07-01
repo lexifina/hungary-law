@@ -1,0 +1,1 @@
+218. § A fenyítés hatálya alól a fenyítést kiszabó elöljáró – tábornok elleni eljárás esetén a miniszter – a 217. § a)–c) pontjában meghatározott, a végrehajtás befejezését követő időtartam eltelte előtt kivételesen mentesítheti a megfenyített személyt, ha a fenyítés után átlagon felüli teljesítményt nyújtott és példamutató magatartást tanúsított.

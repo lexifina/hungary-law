@@ -1,0 +1,1 @@
+260. § A szociális gondoskodás keretében a szociális igazgatásról és szociális ellátásokról szóló jogszabályokban biztosítottakon túl, a rendvédelmi szerv saját költségvetése terhére pénzbeli, természetbeni vagy személyes gondoskodást nyújtó ellátást biztosít.

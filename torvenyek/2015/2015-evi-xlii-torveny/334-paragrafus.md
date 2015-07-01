@@ -1,0 +1,5 @@
+334. § (1) A polgári nemzetbiztonsági szolgálatoknál a szolgálati viszony létesítésének további feltétele a poligráfos vizsgálaton való részvétel vállalása. A poligráfos vizsgálatot – a miniszter által meghatározott szabályok szerint – a hivatásos állományba vételre irányuló eljárás, a nemzetbiztonsági szolgálatokról szóló törvény szerinti belső biztonsági és bűnmegelőzési feladatok végrehajtása, valamint a nemzetbiztonsági ellenőrzés végrehajtása során lehet elrendelni. A poligráfos vizsgálat kérdései csak biztonsági kockázati tényezőkkel kapcsolatos adatkörökre terjedhetnek ki.
+
+(2) A miniszter e törvényben meghatározottakon túl, a szolgálat sajátosságainak megfelelő további alkalmassági követelményeket határozhat meg.
+
+(3) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, igazságügyi alkalmazotti jogviszonyból, a Magyar Honvédség hivatásos katonai állományából vagy más rendvédelmi szervnél fennálló szolgálati viszonyból áthelyezéssel történik, próbaidő a 49. § (1)–(3) bekezdésében foglaltakra figyelemmel kiköthető.

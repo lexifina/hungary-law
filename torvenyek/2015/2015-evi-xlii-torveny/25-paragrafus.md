@@ -1,0 +1,1 @@
+25. § A 24. § rendelkezéseit megfelelően alkalmazni kell az egyesülési jog alapján létrehozott, szervezett politikai tevékenységet folytató szervezethez, alapítványhoz való csatlakozásra és tevékenységében való részvételre is.

@@ -1,0 +1,3 @@
+47. § (1) Az a szolgálati viszonyt létesítő személy, aki még nem rendelkezik a jogszabályban meghatározott rendvédelmi szakmai képesítéssel, nem láthat el olyan szolgálatot, amelyhez a rendvédelmi szerv jellegének megfelelő rendvédelmi szakmai képesítés megléte szükséges, és önálló intézkedésre nem jogosult. Szolgálatát csak a hivatásos állomány önálló intézkedésre jogosult tagjának irányítása mellett vagy kötelékben teljesítheti.
+
+(2) A hivatásos állomány tagját a feltételek biztosítása mellett, megfelelő határidő kitűzésével kötelezni kell az (1) bekezdés szerinti képzettség megszerzésére. Ha ennek az előírt határidőben önhibájából nem tesz eleget, a szolgálati viszonya a 82. § (1) bekezdés a) pontja alapján a törvény erejénél fogva megszűnik.

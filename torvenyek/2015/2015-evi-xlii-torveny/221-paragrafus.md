@@ -1,0 +1,5 @@
+221. § (1) Ha a hivatásos állomány tagjával szemben a szolgálati viszonyból eredő kötelezettségeivel össze nem függő bűncselekmény miatt büntetőeljárás indul, a hivatásos állomány tagja szolgálati beosztásából – a 165. § (1) bekezdésének alkalmazásával – az eljárás befejezéséig, de legfeljebb tizennyolc hónapra felfüggeszthető.
+
+(2) Az (1) bekezdés szerinti szolgálati beosztásból történő felfüggesztésnek akkor van helye, ha a hivatásos állomány tagjának terhére rótt bűncselekmény a rendvédelmi szerv tekintélyét, működésébe vetett közbizalmat súlyosan veszélyezteti vagy a büntetőeljárás miatt a hivatásos állomány tagjának a szolgálattól való távoltartása indokolt, és az eljárást folytató szerv azt kezdeményezte.
+
+(3) Ha a szolgálati beosztásból történő felfüggesztés határideje letelt, de a szolgálati helytől való távoltartás továbbra is szükséges, az eljárás befejezéséig az eljárás alá vont személy más szolgálati beosztásban foglalkoztatható vagy más szolgálatteljesítési helyre vezényelhető, átrendelhető.

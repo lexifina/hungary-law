@@ -1,0 +1,1 @@
+126. § Ha a hivatásos állomány tagját alacsonyabb szolgálati beosztásba helyezik, akkor az új szolgálati beosztás besorolási kategóriájához rendelt, – a hivatásos állomány tagjának fizetési fokozata szerinti – rendfokozatot kell részére megállapítani.

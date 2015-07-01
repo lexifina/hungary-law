@@ -1,0 +1,3 @@
+339. § (1) A polgári nemzetbiztonsági szolgálatok kizárólag központi személyügyi nyilvántartást vezetnek.
+
+(2) A központi személyügyi nyilvántartásba a 275. §-ban meghatározottakon túl betekinteni, valamint onnan adatot átvenni a miniszter, a miniszter kabinetfőnöke, valamint a miniszter által meghatározott, a miniszteri irányítási feladatok ellátását segítő szervezetben vagy az illetékes munkáltatói jogkört gyakorló elöljáró által meghatározott, a polgári nemzetbiztonsági szolgálatoknál dolgozó személyek jogosultak. A 275. §-ban foglalt közvetlen elektronikus hozzáférési jogosultság a polgári nemzetbiztonsági szolgálat által vezetett központi személyügyi nyilvántartás vonatkozásában nem alkalmazható.

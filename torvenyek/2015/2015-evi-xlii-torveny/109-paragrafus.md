@@ -1,0 +1,19 @@
+109. § (1) A hivatásos állomány tagja nem tölthet be olyan szolgálati beosztást
+
+a) amelyben – az országos parancsnok és az országos főigazgató által engedélyezett kivétellel – közeli hozzátartozójával közvetlen irányítási, felügyeleti vagy ellenőrzési viszonyba kerül,
+
+b) amelynek révén – az állományilletékes parancsnok engedélye nélkül – olyan gazdálkodó szervezettel kerül elszámolási viszonyba, amelyben közeli hozzátartozójának tulajdoni hányada meghatározó, vagy a közeli hozzátartozó az elszámolási viszonyra befolyással bíró tisztséget, munkakört lát el.
+
+(2) A hivatásos állomány tagja – a (3)–(5) bekezdésben foglalt kivételekkel – csak engedéllyel létesíthet munkavégzéssel járó egyéb jogviszonyt. Vezetői beosztást betöltő személy – az (5) bekezdésben foglaltak kivételével – munkavégzéssel járó egyéb jogviszonyt nem létesíthet.
+
+(3) A hivatásos állomány tagja köteles az állományilletékes parancsnoknak bejelenteni
+
+a) a szolgálati időn kívüli sporttal vagy ismeretterjesztéssel összefüggő, munkavégzésre irányuló egyéb jogviszony létesítését,
+
+b) gazdasági társaságban – munkavégzésre irányuló egyéb jogviszonynak nem minősülő – személyes közreműködési kötelezettséggel járó tagsági, felügyelőbizottsági tagsági vagy a gazdasági társaságban vezető tisztségviselői viszony létesítését.
+
+(4) A hivatásos állomány tagja köteles az állományilletékes parancsnoknak bejelenteni a gazdasági társaságban fennálló tagságát, ide nem értve, ha kisebbségi üzletrésztulajdonnal vagy a gazdasági társaság részvényeinek kevesebb mint húsz százalékával rendelkezik.
+
+(5) Nem kell engedélyeztetni vagy bejelenteni a szolgálati időn kívül végzett tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység folytatását és a nevelőszülői foglalkoztatási jogviszony létesítését.
+
+(6) Nem adható engedély, ha a munkavégzéssel járó egyéb jogviszony, a civil szervezetben való részvétel vagy tisztségviselés ellentétes a rendvédelmi szerv feladataival, vagy veszélyezteti a szolgálat kötelességszerű, pártatlan és befolyástól mentes ellátását, vagy a rendvédelmi szerv tekintélyét.

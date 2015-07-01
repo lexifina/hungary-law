@@ -1,0 +1,3 @@
+187. § (1) A hivatásos állomány tagjának a 185. § (1) bekezdés d) pontja szerinti egy fizetési fokozattal egy évre való visszavetése esetében a már eltelt fizetési várakozási idő nem változik.
+
+(2) A hivatásos állomány tagjának a 185. § (1) bekezdés e) pontja szerinti a fizetési fokozatban való előlépés várakozási idejének meghosszabbítása esetén a fizetési várakozási idő a fenyítés meghatározott idejével meghosszabbodik, ennek leteltét követően kell vizsgálni a fizetési fokozatban történő előrelépés egyéb feltételeinek fennállását. A továbbképzési időszak a fenyítés időtartamával meghosszabbodik.

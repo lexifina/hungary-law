@@ -1,0 +1,1 @@
+129. § A miniszter rendeletben állapítja meg a rendvédelmi szerv vezetői és a tiszti besorolási osztályba tartozó szolgálati beosztásainak betöltéséhez elfogadható felsőfokú végzettségeket, az egyes szolgálati beosztások ellátásához szükséges szakképzettségeket, szakmai alap-, közép- és felsőfokú szakmai képzettségeket, valamint az egyéb képzettségi feltételeket.

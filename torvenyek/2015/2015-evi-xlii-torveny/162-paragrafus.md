@@ -1,0 +1,1 @@
+162. § Az egészségügyi tevékenységet végzők ügyeleti feladatellátásának, egészségügyi ügyeletének, készenlétének díjazására az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 13/B. §-ában foglalt rendelkezés irányadó.

@@ -1,0 +1,1 @@
+269. § A 225. § (1) bekezdés a) és b) pontja esetében a felmentés ellen benyújtott szolgálati panasz elbírálását követően a XVIII. Fejezetben foglaltak szerint kell eljárni. A bírósághoz keresetet benyújtani a Becsületbíróság döntésének kézhezvételétől számított harminc napon belül lehet.

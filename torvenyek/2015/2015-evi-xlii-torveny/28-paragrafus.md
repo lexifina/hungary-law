@@ -1,0 +1,3 @@
+28. § (1) A hivatásos állomány tagja számára lehetővé kell tenni, hogy az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán, továbbá népszavazáson szavazhasson.
+
+(2) Ha a hivatásos állomány tagja szolgálati érdekből a szavazáshoz szükséges ideig nem tartózkodhat a lakóhelyén, erről őt a választás, népszavazás előtt legalább tizenöt nappal értesíteni kell. Ez esetben lehetővé kell tenni számára – ha a választásról szóló törvény másképpen nem rendelkezik –, hogy a szolgálatteljesítési helyén szavazhasson.

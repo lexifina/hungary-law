@@ -1,0 +1,3 @@
+238. § (1) A kártérítési eljárás megindítását követő hatvan napon belül az állományilletékes parancsnok indokolt határozattal dönt a kártérítésre kötelezésről vagy annak mellőzéséről. A határidőbe a kártérítési eljárás felfüggesztésének időtartama nem számít be. Ha a károkozóval szemben a kárigénnyel összefüggően büntetőeljárás, szabálysértési vagy fegyelmi eljárás indult, a határidő az eljárás jogerős befejezésekor veszi kezdetét.
+
+(2) Az állományilletékes parancsnok a kártérítési eljárás megindításának mellőzésével kiadott határozatban rendelkezhet a kár megtérítéséről, ha a keletkezett kár összege a rendvédelmi illetményalap kétszeresét nem haladta meg, a károkozó a felelősségét írásban elismerte és kötelezettséget vállalt a kár harminc napon belüli megtérítésére.

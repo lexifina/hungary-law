@@ -1,0 +1,1 @@
+360. § Az e törvény hatálybalépése előtt adományozott tanácsosi, főtanácsosi cím viselésére a hivatásos állomány tagja e törvény hatálybalépését követően is jogosult. Részére 2015. július 1-jétől a 180. § (2) bekezdésében meghatározott címpótlékot kell folyósítani.

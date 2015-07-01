@@ -1,0 +1,1 @@
+174. § A hitelintézet a negyedévet követő hónap tizenötödik napjáig tájékoztatja a kincstárt a hivatásos állomány tagjainak nyújtott kölcsönök állami kezességvállalással érintett részének negyedév végén fennálló állományáról, továbbá e kölcsönök számáról. Az adatgyűjtés és adatszolgáltatás egyedi azonosításra alkalmatlan módon történhet.

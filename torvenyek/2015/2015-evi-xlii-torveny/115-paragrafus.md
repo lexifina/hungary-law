@@ -1,0 +1,5 @@
+## 67. A hivatásos állomány tagjának besorolása
+
+115. § (1) A tervezett szolgálati beosztásba történő kinevezés előtt az állományilletékes parancsok megvizsgálja, hogy a hivatásos állomány tagja rendelkezik-e a szolgálati beosztás ellátásához szükséges képzettséggel, megfelel-e az alkalmassági követelményeknek, és megállapítja a fizetési fokozat megállapításakor figyelembe vehető szolgálati idejét, valamint a besorolás alapján viselhető rendfokozatot. A szolgálati beosztásba kinevezni – jogszabály eltérő rendelkezése hiányában – csak azt lehet, aki megfelel a szolgálati beosztás betöltésére előírt feltételeknek és a szolgálati beosztás besorolási osztályához rendelt követelményeknek.
+
+(2) Az állományilletékes parancsnok a szolgálati beosztásba kinevezéskor az (1) bekezdésben meghatározottak alapján besorolja a hivatásos állomány tagját, megállapítja a fizetési fokozatát és rendfokozatát. Ha a hivatásos állomány tagjának viselt rendfokozata alacsonyabb a besorolás szerintinél, a hivatásos állomány tagját rendfokozatban kinevezi vagy előlépteti, vagy kinevezésre, előléptetésre terjeszti elő az arra jogosult elöljáróhoz.

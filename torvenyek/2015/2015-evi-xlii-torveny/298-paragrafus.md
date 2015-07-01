@@ -1,0 +1,1 @@
+298. § Az Elnökség, az Elnökség tagjai, a Felügyelőbizottság és az Etikai Bizottság feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.

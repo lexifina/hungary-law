@@ -1,0 +1,3 @@
+20. § (1) A hivatásos állomány tagja a tartózkodási helyéről – szabadsága ideje alatt is – a szolgálatteljesítési helyére visszarendelhető.
+
+(2) A visszarendelésre a szolgálati elöljáró jogosult. Nem rendelhető vissza a hivatásos állomány tagja, ha a visszarendelés a szolgálati feladat végrehajtásával arányban nem álló jog- vagy érdeksérelmet okozna. A visszarendelés miatt felmerült költséget a hivatásos állomány tagja részére meg kell téríteni. A visszarendelés miatt szolgálatban töltött időt a túlszolgálat szabályai szerint, a szabadság ideje alatt történő visszarendelés esetén a túlszolgálat szabályai szerint vagy a szabadság ismételt kiadásával kell ellentételezni.

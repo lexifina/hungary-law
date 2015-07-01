@@ -1,0 +1,1 @@
+250. § A károsult állományilletékes parancsnoka a károkozásról való tudomásszerzéstől számított tizenöt napon belül köteles a károsultat felhívni kárigényének előterjesztésére. A rendvédelmi szerv a kárigény bejelentésétől számított tizenöt napon belül írásbeli tájékoztatást ad a károsultnak az eljáró szervről és az eljárás módjáról.

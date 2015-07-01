@@ -1,0 +1,3 @@
+103. § (1) A hivatásos állomány tagja szolgálatteljesítése során köteles végrehajtani a szolgálati elöljáró parancsát, a felettes rendelkezését, kivéve, ha azzal bűncselekményt követne el.
+
+(2) Az (1) bekezdésben foglalt kivétellel a hivatásos állomány tagja a jogszabálysértő parancs, rendelkezés végrehajtását nem tagadhatja meg. Ha azonban annak jogellenessége felismerhető számára, arra haladéktalanul köteles a szolgálati elöljáró figyelmét felhívni. Ha a szolgálati elöljáró a parancsát, a felettes a rendelkezését ennek ellenére fenntartja, azt kérelemre írásba kell foglalnia. A jogszabálysértő parancs, rendelkezés végrehajtásáért kizárólag az azt kiadó felel.

@@ -1,0 +1,3 @@
+110. § (1) A hivatásos állomány tagja köteles az állományilletékes parancsnoknak haladéktalanul bejelenteni, ha vele szemben a törvényben meghatározott összeférhetetlenségi ok merült fel, vagy ha szolgálati viszonyának fennállása alatt összeférhetetlen helyzetbe került. Az állományilletékes parancsnok köteles – kivéve, ha a hivatásos állomány tagja a 109. § (1) bekezdés a) pontjában meghatározott engedélyt kapott – írásban felszólítani a hivatásos állomány tagját az összeférhetetlenség megszüntetésére, vagy köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
+
+(2) Ha a hivatásos állomány tagja az összeférhetetlenséget a felszólítástól számított harminc napon belül nem szüntette meg, szolgálati viszonya a törvény erejénél fogva megszűnik.

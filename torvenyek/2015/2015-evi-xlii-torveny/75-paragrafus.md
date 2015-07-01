@@ -1,0 +1,1 @@
+75. § Szünetel a szolgálati viszonya a hivatásos állomány 54. § (2) bekezdése alapján szolgálati beosztásából felmentett tagjának a kifogásolható életvitelt megalapozó feltételek fennállásának megállapításáig, vagy ha kifogásolható életvitel megállapítására nem kerül sor, a kifogástalan életvitel ellenőrzésének befejezéséig.

@@ -1,0 +1,7 @@
+113. § (1) A minősítést ismertetni kell a hivatásos állomány tagjával, aki arra írásban észrevételt tehet, és az ismertetés megtörténtét aláírásával igazolja.
+
+(2) A minősítés megállapításai ellen, a teljesítményértékelés egyes elemeire is kiterjedően, a hivatásos állomány tagja szolgálati panasszal élhet. A minősítéssel szemben benyújtott szolgálati panasz a minősítésen alapuló munkáltatói döntés meghozatalára halasztó hatállyal bír.
+
+(3) Ha a szolgálati panaszt elbíráló elöljáró azt állapítja meg, hogy a teljesítményértékelés egyes értékei vagy a minősítés megállapításai tényekkel nem támaszthatók alá, vagy a mérlegelési jogkör kereteit meghaladó mértékben jelentősen eltér az értékelt által valósnak tartott értékektől, a teljesítményértékelés, a minősítés vagy a teljesítményértékelés és minősítés újbóli elvégzését rendeli el. A megismételt teljesítményértékelés, minősítés megállapításaival szemben az értékelt közvetlenül a bírósághoz fordulhat.
+
+(4) Ha a megismételt minősítés alapján a hivatásos állomány tagjának szolgálati viszonyát a 112. § (5) bekezdésében foglaltakra figyelemmel felmentéssel meg kell szüntetni, a megismételt minősítéssel szemben önálló jogorvoslatnak nincs helye. A hivatásos állomány tagja a szolgálati viszonyának megszüntetéséről rendelkező állományparanccsal vagy határozattal szemben a 267. § alapján benyújtott – nem halasztó hatályú – szolgálati panaszban kifogásolhatja a döntés jogszerűségét.

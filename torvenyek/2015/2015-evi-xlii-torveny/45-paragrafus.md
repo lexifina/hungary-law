@@ -1,0 +1,5 @@
+45. § (1) A hivatásos állományba kinevezésről készült okmánynak tartalmaznia kell a szolgálati viszonyra vonatkozó minden lényeges adatot, így különösen a szolgálati viszony kezdetét, a hivatásos állomány tagjának szolgálati beosztását és a hivatásos állomány tagjának besorolását, szolgálati és szolgálatteljesítési helyét, rendfokozatát, illetményét, ruházati ellátási normáját, szolgálatteljesítési időrendjét, továbbá próbaidő kikötésénél a próbaidő tartamát és ha szükséges, a képzettségek megszerzésére kötelezést. A kinevezési okmány egy példányát a hivatásos állomány tagjának át kell adni.
+
+(2) Ha a hivatásos állományba kinevezés a miniszter vagy az országos parancsnok hatáskörébe tartozik, az állományba vételt és rendfokozatba kinevezést a miniszter vagy az országos parancsok, egyéb, a szolgálati beosztásba helyezéssel kapcsolatos rendelkezést az állományilletékes parancsnok munkáltatói intézkedése tartalmazza.
+
+(3) A hivatásos állomány tagja részére legkésőbb az első szolgálat megkezdésekor a munkaköri leírását át kell adni, és tájékoztatni kell őt a szolgálat teljesítéséhez szükséges munkavédelmi szabályokról, valamint a szolgálatteljesítés rendjéről.
