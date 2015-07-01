@@ -1,0 +1,233 @@
+## „2. melléklet az 1/2013. (VII. 11.) MEKH rendelethez
+
+## I.
+
+## a) Rendszerirányítási díj: 1 000 000 Ft/év
+
+## b) Szagosítási alapdíj: 4 289 Ft/l
+
+## II.
+
+## Szállítási díjak
+
+| 2. § (1) bekezdés | Szállítási kapacitásdíj [Ft/(MJ/h)/év] | Szállítási kapacitásdíj [Ft/(MJ/nap)/év] | Szállítási forgalmi díj (Ft/GJ) |
+
+| a) pont aa) alpont aaa), aaj), aal) és aam) alpontja (kiadási pontok) | 272,81 |  |  |
+
+| a) pont aa) alpont aao) alpontja (keverőköri kiadási pont) | 46,26 |  |  |
+
+| a) pont aa) alpont aaf) alpontja (Kiskundorozsma határkeresztező kiadási pont) | 516,33 |  |  |
+
+| a) pont aa) alpont aag) alpontja (Csanádpalota határkeresztező kiadási pont) | 229,68 |  |  |
+
+| a) pont aa) alpont aac) alpontja (osztrák/magyar határ Baumgarten felőli betáplálási pont) |  | 21,42 |  |
+
+| a) pont aa) alpont aai) alpontja (horvát/magyar határ Donji Miholjac felőli betáplálási pont) |  | 21,42 | 30,39 |
+
+| a) pont aa) alpont aad) alpontja (ukrán/magyar határ Beregovo felőli betáplálási pont) |  | 21,42 |  |
+
+| a) pont aa) alpont aak) alpontja (szlovák/magyar határ Vel’ké Zlievce felőli betáplálási pont) |  | 21,42 |  |
+
+| a) pont aa) alpont aan) alpontja (román/magyar határ Horia felőli betáplálási pont) |  | 21,42 |  |
+
+| a) pont aa) alpont aae) alpontja (hazai termelés betáplálási pont) |  | 19,27 |  |
+
+| a) pont ac) alpont acb) alpontja (tárolói betáplálási pont) |  | 7,93 |  |
+
+## III.
+
+## A rendszerhasználat legmagasabb hatósági díja egyetemes szolgáltatásra jogosult felhasználók ellátása érdekében történő kapacitás lekötés esetén (általános forgalmi adó nélkül)
+
+## 1. Elosztási díjak
+
+## a) Elosztási díjak az E.ON Dél-dunántúli Gázhálózati Zrt. elosztási területén
+
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+
+| Gázmérővel nem rendelkező felhasználó | 407,83 |  |  |  |
+
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 186,76 |
+
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 15 218 | 60,59 |
+
+## b) Elosztási díjak az E.ON Közép-dunántúli Gázhálózati Zrt. elosztási területén
+
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+
+| Gázmérővel nem rendelkező felhasználó | 401,68 |  |  |  |
+
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 152,87 |
+
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 14 633 | 60,59 |
+
+## c.1) Elosztási díjak az Égáz-Dégáz Földgázelosztó Zrt. elosztási területén
+
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+
+| Gázmérővel nem rendelkező felhasználó | 361,24 |  |  |  |
+
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 114,19 |
+
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 11 698 | 20,71 |
+
+## c.2) Elosztási átszállítási díj: 23,30 Ft/GJ
+
+## d) Elosztási díjak a Főgáz Földgázelosztási Kft., az Alpiq Csepeli Erőmű Kft., az ISD Power Energiatermelő és Szolgáltató Kft., az OERG Kft. elosztási területén
+
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+
+| Gázmérővel nem rendelkező felhasználó | 353,90 |  |  |  |
+
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 126,10 |
+
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 11 325 | 20,36 |
+
+## e) Elosztási díjak a Tigáz-DSO Földgázelosztó Kft., Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén
+
+| Értékesítési kategóriák | Elosztási átalánydíj | Elosztási alapdíj | Elosztási alapdíj | Elosztási forgalmi díj |
+
+|  | Ft/GJ | Ft/év | Ft/m3/h/év | Ft/GJ |
+
+| Gázmérővel nem rendelkező felhasználó | 328,96 |  |  |  |
+
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 103,73 |
+
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 14 071 | 20,44 |
+
+## f) Elosztási díjak a Magyar Gázszolgáltató Kft. elosztási területén
+
+| Értékesítési kategóriák | Elosztási átalánydíj Ft/GJ | Elosztási alapdíj Ft/év | Elosztási alapdíj Ft/m3/h/év | Elosztási forgalmi díj Ft/GJ |
+
+| Gázmérővel nem rendelkező felhasználó | 361,57 |  |  |  |
+
+| 20 m3/h-nál kisebb névleges kapacitású gázmérővel rendelkező felhasználó |  | 9 192 |  | 151,59 |
+
+| 20 m3/h vagy annál nagyobb névleges kapacitású gázmérővel rendelkező felhasználó |  |  | 14 633 | 45,36 |
+
+## 2. Tárolási díjak
+
+## Kitárolási díj: 5,74 Ft/GJ
+
+## Betárolási díj: 37,86 Ft/GJ
+
+## A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
+
+## ahol:
+
+## TM: tárolói kapacitásdíj (Ft/MJ/év)
+
+## M: a rendszerhasználó tárolói mobil lekötése (MJ)
+
+## B: a rendszerhasználó betárolási kapacitás lekötése (MJ/nap)
+
+## K: a rendszerhasználó kitárolási kapacitás lekötése (MJ/nap)
+
+## IV.
+
+## A rendszerhasználat legmagasabb hatósági díja egyetemes szolgáltatásra nem jogosult felhasználók ellátása érdekében történő kapacitás lekötés esetén (általános forgalmi adó nélkül)
+
+## 1. Elosztási díjak
+
+## a) Elosztási díjak az E.ON Dél-dunántúli Gázhálózati Zrt. elosztási területén
+
+| Értékesítési kategóriák | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
+
+|  | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
+
+| 20-100 m3/h közötti névleges kapacitású gázmérővel rendelkező felhasználó | 23 425 |  | 58,26 |
+
+| 100 m3/h névleges vagy annál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 3 131-17 100 MJ/h kapacitás-lekötési igényű felhasználók |  | 740 | 37,58 |
+
+| 100 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 17 100 MJ/h feletti kapacitás-lekötési igényű felhasználók |  | 350 | 33,21 |
+
+## b) Elosztási díjak az E.ON Közép-dunántúli Gázhálózati Zrt. elosztási területén
+
+| Értékesítési kategóriák | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
+
+|  | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
+
+| 20-100 m3/h közötti névleges kapacitású gázmérővel rendelkező felhasználó | 21 164 |  | 58,26 |
+
+| 100 m3/h névleges vagy annál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 3131-17 100 MJ/h kapacitás-lekötési igényű felhasználók |  | 766 | 37,58 |
+
+| 100 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 17 100 MJ/h feletti kapacitás-lekötési igényű felhasználók |  | 294 | 33,21 |
+
+## c1) Elosztási díjak az Égáz-Dégáz Földgázelosztó Zrt. elosztási területén
+
+| Értékesítési kategóriák | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
+
+|  | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
+
+| 20-100 m3/h közötti névleges kapacitású gázmérővel rendelkező felhasználó | 13 405 |  | 59,17 |
+
+| 100 m3/h névleges vagy annál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 3 131-17 100 MJ/h kapacitás-lekötési igényű felhasználók |  | 365 | 39,94 |
+
+| 100 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 17 100 MJ/h feletti kapacitás-lekötési igényű felhasználók |  | 352 | 40,00 |
+
+## c2) Elosztási átszállítási díj: 23,30 Ft/GJ
+
+## d) Elosztási díjak a Főgáz Földgázelosztási Kft., az Alpiq Csepeli Erőmű Kft., az ISD Power Energiatermelő és Szolgáltató Kft., az OERG Kft. elosztási területén
+
+| Értékesítési kategóriák | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
+
+|  | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
+
+| 20-100 m3/h közötti névleges kapacitású gázmérővel rendelkező felhasználó | 14 479 |  | 58,17 |
+
+| 100 m3/h névleges vagy annál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 3 131-17 100 MJ/h kapacitás-lekötési igényű felhasználók |  | 332 | 40,43 |
+
+| 100 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 17 100 MJ/h feletti kapacitás-lekötési igényű felhasználók |  | 333 | 37,49 |
+
+## e) Elosztási díjak a Tigáz-DSO Földgázelosztó Kft., Natural Gas Service Ipari és Szolgáltató Kft. elosztási területén
+
+| Értékesítési kategóriák | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
+
+|  | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
+
+| 20-100 m3/h közötti névleges kapacitású gázmérővel rendelkező felhasználó | 15 088 |  | 60,41 |
+
+| 100 m3/h névleges vagy annál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 3 131-17 100 MJ/h kapacitás-lekötési igényű felhasználók |  | 424 | 30,51 |
+
+| 100 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 17 100 MJ/h feletti kapacitás-lekötési igényű felhasználók |  | 471 | 34,96 |
+
+## f) Elosztási díjak a Magyar Gázszolgáltató Kft. elosztási területén
+
+| Értékesítési kategóriák | Elosztási alapdíj | Elosztási kapacitásdíj | Elosztási forgalmi díj |
+
+|  | Ft/m3/h/év | Ft/MJ/h/év | Ft/GJ |
+
+| 20-100 m3/h közötti névleges kapacitású gázmérővel rendelkező felhasználó | 20 369 |  | 58,16 |
+
+| 100 m3/h névleges vagy annál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 3 131-17 100 MJ/h kapacitás-lekötési igényű felhasználók |  | 546 | 36,35 |
+
+| 100 m3/h-nál nagyobb névleges (össz)kapacitású gázmérővel rendelkező és 17 100 MJ/h feletti kapacitás-lekötési igényű felhasználók |  | 521 | 31,99 |
+
+## 2. Tárolási díjak
+
+## Kitárolási díj: 5,74 Ft/GJ
+
+## Betárolási díj: 37,86 Ft/GJ
+
+## A tárolói kapacitásdíj kiszámítása a következő képlet alapján történik:
+
+## ahol:
+
+## TM: tárolói kapacitásdíj (Ft/MJ/év)
+
+## M: a rendszerhasználó tárolói mobil lekötése (MJ)
+
+## B: a rendszerhasználó betárolási kapacitás lekötése (MJ/nap)
+
+## K: a rendszerhasználó kitárolási kapacitás lekötése (MJ/nap)
+
+## ”
+
+2. melléklet a 3/2015. (VI. 12.) MEKH rendelethez

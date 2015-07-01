@@ -1,0 +1,3 @@
+## „(5) Amennyiben a nem téli fogyasztási időszakra lekötött kapacitást jogosulatlanul vették igénybe, úgy a rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitás után a 2. melléklet IV. pontja szerinti éves elosztási kapacitásdíjnak vagy az éves elosztási alapdíjnak a (2) bekezdés alapján megfizetett része feletti részét és pótdíjként a 2. melléklet IV. pontja szerinti éves elosztási kapacitásdíj vagy az éves elosztási alapdíj 50%-át köteles megfizetni. A földgázelosztó a jogosulatlan kapacitás igénybevételt legkésőbb az adott gázévet követő 60. napig meghatározza, amit a Hivatal jóváhagyása után érvényesíthet.
+
+## (6) Az átadási-átvételi pontonként igénybe vett legnagyobb órai kapacitások bejelentését az ÜKSZ-ben meghatározott időpontig kell megtenni.”

@@ -1,0 +1,1 @@
+## „(8) A 2. § (1) bekezdés a) pont aa) alpont aao) alpontján kiadott energiamennyiségnek a 2. § (1) bekezdés a) pont aa) alpont aae) alpontján történő visszatáplálása érdekében a hivatkozott aae) alponton nem kell kapacitást lekötni.”
