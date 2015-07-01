@@ -208,6 +208,8 @@
 
 ## k) Kórházi textíliák.
 
+## l)[^6] Egyszer használatos nem szőtt termékek: kabátok, műtős sapkák, zsilipruhák, lepedők, védőruhák, műtéti szettek.
+
 ## 28. 38 Hulladékgazdálkodás
 
 ## Irodai, nyomdai, irattári papírok, valamint műanyag alapú adathordozók gyűjtése és válogatása, hasznosítása, megsemmisítése.
@@ -242,7 +244,7 @@
 
 4. Rendészeti Szakközépiskolák
 
-5.[^6] Közszolgálati Személyzetfejlesztési Főigazgatóság
+5.[^7] Közszolgálati Személyzetfejlesztési Főigazgatóság
 
 6. Nemzetbiztonsági Szakszolgálat
 
@@ -256,22 +258,23 @@
 
 11. Nemzeti Védelmi Szolgálat
 
-12.[^7] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
+12.[^8] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
 
-13.[^8] Bevándorlási és Állampolgársági Hivatal
+13.[^9] Bevándorlási és Állampolgársági Hivatal
 
-14.[^9] Bevándorlási és Állampolgársági Hivatal Menekültügyi Őrzött Befogadó Központ, Békéscsaba
+14.[^10] Bevándorlási és Állampolgársági Hivatal Menekültügyi Őrzött Befogadó Központ, Békéscsaba
 
-15.[^10] Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
+15.[^11] Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
 
-16.[^11] Belügyminisztérium Nemzetközi Oktatási Központ
+16.[^12] Belügyminisztérium Nemzetközi Oktatási Központ
 
-17.[^12] Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
+17.[^13] Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
 
-[^6]: A 2. melléklet 5. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^7]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^8]: A 2. melléklet 13. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^9]: A 2. melléklet 14. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^10]: A 2. melléklet 15. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^11]: A 2. melléklet 16. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^12]: A 2. melléklet 17. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet 27. pont l) pontját a 61/2014. (XII. 12.) BM rendelet 3. §-a iktatta be.
+[^7]: A 2. melléklet 5. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^9]: A 2. melléklet 13. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet 14. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^11]: A 2. melléklet 15. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^12]: A 2. melléklet 16. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet 17. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
