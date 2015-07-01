@@ -1,0 +1,43 @@
+5. § (1) A szakképzés teljesítése érdekében
+
+a) a támogatott szakképzés keretében a rezidens az ENKK-val közalkalmazotti jogviszonyt,
+
+b) a költségtérítéses szakképzés keretében a jelölt a munkáltatóval – az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 17. § (7) bekezdésében foglaltakra figyelemmel – az Eütev. 7. § (2) bekezdés a) vagy c)–i) pontja szerinti foglalkoztatásra irányuló jogviszonyt
+
+létesít.
+
+(2) A 4. § (1) bekezdése szerinti szakképzési megállapodás nem feltétele az (1) bekezdés a) pontja szerinti közalkalmazotti jogviszony létesítésének. A közalkalmazotti jogviszony létesítésétől a szakképzési megállapodás megkötéséig eltelt idő a rezidens képzésébe beszámít.
+
+(3) Az (1) bekezdés b) pontja szerinti jogviszony keretében a munkáltató vállalja
+
+a) a jelölt foglalkoztatását a szakképzés teljes időtartama alatt,
+
+b) a képzési idő alatt a munkavégzés helyének szakképzés céljára történő, ideiglenes, a szakképzés teljesítéséhez szükséges megváltoztatása engedélyezését és
+
+c) a szakképzés tekintetében az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendelet alapján előírt beavatkozások, műtétek és vizsgálatok teljesítésének biztosítását a nála teljesítendő képzési elemek tekintetében.
+
+(4) A támogatott szakképzés keretében az ENKK megállapodást köt a rezidens részére megjelölt elsődleges képzőhellyel, amely alapján az elsődleges képzőhely vállalja
+
+a) a rezidens szakképzése teljesítésének igazolását a 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen folyamatosan, de legkésőbb a tárgyhónapot követő hónap ötödik napjáig,
+
+b) a háziorvostan szakképzésben részt vevő, a 17. § (2) bekezdés e) pontja szerinti keretszám terhére felvett és a 26. § (1) bekezdés b) pontja szerinti kiemelt ösztöndíjban részesülő rezidens kivételével a rezidensnek a támogatott szakképzés 3. § (5) bekezdése szerinti idejének leteltét követő időponttól történő, a szolgáltatónak a rezidens elsődleges képzőhelyeként kijelölésének időtartamával megegyező időtartamú továbbfoglalkoztatását,
+
+c) a szakképzés tekintetében az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendelet alapján előírt beavatkozások, műtétek és vizsgálatok teljesítésének biztosítását a nála teljesítendő képzési elemek tekintetében és
+
+d) a rezidens illetményének, valamint a 12. § (1) bekezdés a) pont ab) alpontja és b) pont bb) alpontja szerinti juttatások meghatározásához szükséges adatszolgáltatás teljesítését, valamint az illetménynek a rezidens részére történő kifizetésében való közreműködést.
+
+(5) A háziorvostan szakképzésben részt vevők elsődleges képzőhelyeként az ENKK valamely egyetemet jelöli ki.
+
+(6) Az elsődleges képzőhely mentesül a (4) bekezdés b) pontja szerinti kötelezettség teljesítése alól, ha
+
+a) a rezidens nem kíván a támogatott szakképzés befejezését követően foglalkoztatásra irányuló jogviszonyt létesíteni, vagy annak megszüntetésére a rezidens kezdeményezésére kerül sor, illetve
+
+b) a rezidens olyan magatartást tanúsít, amely alapján a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) alapján a jogviszony azonnali hatállyal vagy rendkívüli felmentéssel történő megszüntetésének van helye.
+
+(7) Ha a 3. § (5) bekezdésében meghatározott támogatott szakképzési idő eltelt, azonban a rezidens a szakképzését nem fejezte be vagy a szakképesítést lezáró szakvizsgát nem teljesítette, az egészségügyi szolgáltató (4) bekezdés b) pontja szerinti vállalásának kezdő időpontja a támogatott szakképzési idő lejártát követő nap.
+
+(8) A (4) bekezdés szerinti megállapodás – az Eütev. 11/B. § (2) bekezdésében foglaltakra figyelemmel – tartalmazza a rezidens feletti munkáltatói jogoknak az ENKK és az elsődleges képzőhely közötti megosztását.
+
+(9) Az egészségügyi szolgáltatónál fennálló kollektív szerződés hatálya azon rezidensekre is kiterjed, akiknek elsődleges képzőhelyeként az adott egészségügyi szolgáltató kijelölésére került sor.
+
+(10) Az egészségügyi szolgáltató által a fennálló kollektív szerződésből fakadóan vagy a rezidenssel történő egyéb megállapodás alapján meghatározott juttatásokat az egészségügyi szolgáltató a rezidens részére saját költségvetéséből biztosítja.
