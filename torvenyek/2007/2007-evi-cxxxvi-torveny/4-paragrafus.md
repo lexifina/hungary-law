@@ -10,7 +10,7 @@ c) az alkotmánybíróság és olyan bírói testület tagja, amelynek ítélete
 
 d) a számvevőszék elnöke, a számvevőszék testületének tagja, a központi bank legfőbb döntéshozó szervének tagja,
 
-e) a nagykövet, az ügyvivő és a fegyveres szervek hivatásos állományú főtiszti rendfokozatú, tábornoki beosztású és tábornoki rendfokozatú tagjai,
+e) a nagykövet, az ügyvivő és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti, a hivatásos állomány tábornoki, főtiszti vagy tiszti rendfokozati állománycsoportba tartozó tagjai,
 
 f) a többségi állami tulajdonú vállalkozás ügyviteli, igazgatási vagy felügyelő testületének tagja.
 
