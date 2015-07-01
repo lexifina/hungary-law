@@ -1,0 +1,3 @@
+## 5. § Az ER. 13/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az emelt sebességgel történő közlekedésre jogosító – az MR. 112/A. §-ában meghatározott – engedélyt (a továbbiakban: engedély) a közlekedési hatóság az autóbusz üzemeltetőjének (gyártójának, forgalmazójának) a kérelmére adja ki vagy hosszabbítja meg annak időbeli hatályát, a (2)–(3) és az (5)–(6) bekezdésben meghatározott feltételek alapján. Az engedély kiadása, időbeli hatályának meghosszabbítása a jármű-honosítási eljárásához, a jármű forgalomba helyezés előtti vizsgálatához, vagy a jármű időszakos vizsgálatához kapcsolódóan történhet. A közlekedési hatóság az engedély kiadását és az engedély időbeli hatályának meghosszabbítását közli a Nyilvántartóval.”
