@@ -40,7 +40,7 @@ s) polgármesterek közszolgálati járadékát,
 
 t) a honvédek jogállásáról szóló törvény szerinti kiegészítő rokkantsági támogatást,
 
-u) a honvédek jogállásáról szóló törvény szerinti, valamint a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény szerinti kiegészítő hozzátartozói támogatást, és
+u)[^2] a honvédek jogállásáról szóló törvény szerinti, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti kiegészítő hozzátartozói támogatást, és
 
 v) azokat az egyes személyes szabadságot korlátozó intézkedésekkel vagy semmissé nyilvánított elítéléssel összefüggésben járó emeléseket, amelyeknek a Tny. 62. §-ában foglaltak szerinti emelését kormányrendelet elrendeli [az a)–v) pont szerinti ellátások a továbbiakban együtt: ellátás].
 
@@ -65,3 +65,5 @@ b) 2015. január 1-jétől állapítják meg, és a jogosult 2014. december 31-�
 ## a megállapított ellátást az (1) bekezdés szerinti mértékkel meg kell emelni.
 
 (4) A (2) és (3) bekezdés szerinti ellátások emelésére való jogosultság akkor is fennáll, ha az ellátásokban több, a (2), illetve (3) bekezdés szerinti változás következett be.
+
+[^2]: Az 1. § (1) bekezdés u) pontja a 157/2015. (VI. 25.) Korm. rendelet 46. §-a szerint módosított szöveg.
