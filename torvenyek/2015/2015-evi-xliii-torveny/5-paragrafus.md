@@ -1,0 +1,3 @@
+5. § A Hjt. 33. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A munkáltatói jogkört gyakorló miniszteri rendeletben meghatározottak szerint a szolgálati beosztáshoz kapcsolódóan idegennyelv-ismereti követelményt állapíthat meg, figyelemmel a Honvédség feladatainak végrehajtására, különösen a nemzetközi kötelezettségvállalások teljesítésére, valamint a munkaköri leírásban rögzített és a beosztásban várható szolgálati feladatokra. Idegennyelv-ismereti követelmény megállapítása esetén a munkáltatói jogkört gyakorló meghatározza az idegen nyelvet, az idegennyelv-ismeret szintjét, típusát, továbbá szaknyelvi nyelvvizsga meglétét is előírhatja.”
