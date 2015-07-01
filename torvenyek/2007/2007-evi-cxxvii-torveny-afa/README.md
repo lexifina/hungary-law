@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2007-127-00-00.40 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2007-127-00-00.41 |
 | 2015-06-25 | 2015. évi LXXI. törvény | 2007-127-00-00.42 |
+| 2015-07-01 | 2014. évi LXXIV. törvény | 2007-127-00-00.43 |
