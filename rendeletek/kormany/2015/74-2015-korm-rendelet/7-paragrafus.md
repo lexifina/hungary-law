@@ -28,7 +28,7 @@ l) a közúti járművezetők egészségi alkalmasságát,
 
 m) a közlekedőképességet,
 
-n) a Magyar Honvédség hivatásos és szerződéses, valamint a fegyveres szervek hivatásos állományú tagjai egészségi alkalmasságának felülvizsgálata során az egészségkárosodás, egészségi állapot mértékét,
+n)[^1] a Magyar Honvédség hivatásos és szerződéses, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek (a továbbiakban: rendvédelmi feladatokat ellátó szervek) hivatásos állományának tagjai egészségi alkalmasságának felülvizsgálata során az egészségkárosodás, egészségi állapot mértékét,
 
 o) a nemzeti helytállásért elnevezésű pótlék esetén az egészségkárosodás mértékét,
 
@@ -57,3 +57,5 @@ biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javas
 (4) Ezen alcímben foglalt rendelkezéseket akkor kell alkalmazni, ha az adott ügytípusra, eljárásra vagy vizsgálatra vonatkozóan jogszabály másként nem rendelkezik.
 
 (5) Az (1) bekezdésben meghatározott szakkérdés vizsgálata során a Hivatal főigazgatója által jóváhagyott központi szakmai informatikai rendszert kell használni.
+
+[^1]: A 7. § (1) bekezdés n) pontja a 157/2015. (VI. 25.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
