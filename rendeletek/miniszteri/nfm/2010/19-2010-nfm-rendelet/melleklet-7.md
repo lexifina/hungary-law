@@ -6,6 +6,6 @@
 
 | 2. | kiegyenlítő hozzájárulás | 0 forint/MJ |
 
-7. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^43]
+7. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^51]
 
-[^43]: A 7. mellékletet a 34/2013. (VI. 27.) NFM rendelet 1. § (7) bekezdése iktatta be, szövege az 52/2014. (XII. 13.) NFM rendelet 7. § (6) bekezdésével megállapított szöveg.
+[^51]: A 7. mellékletet a 34/2013. (VI. 27.) NFM rendelet 1. § (7) bekezdése iktatta be, szövege az 52/2014. (XII. 13.) NFM rendelet 7. § (6) bekezdésével megállapított szöveg.

@@ -8,6 +8,6 @@
 
 | 3. | kiegyenlítő hozzájárulás (forint/MJ) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-8. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^44]
+8. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^52]
 
-[^44]: A 8. mellékletet a 14/2014. (III. 31.) NFM rendelet 9. § (6) bekezdése iktatta be, szövege a 12/2015. (III. 31.) NFM rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^52]: A 8. mellékletet a 14/2014. (III. 31.) NFM rendelet 9. § (6) bekezdése iktatta be, szövege a 12/2015. (III. 31.) NFM rendelet 5. § (6) bekezdésével megállapított, a 37/2015. (VI. 30.) NFM rendelet 16. § (3) bekezdése szerint módosított szöveg.
