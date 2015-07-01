@@ -14,7 +14,7 @@
 
 | 2. | Ajka | Bakonyi Erőmű Zrt. | 0 |
 
-| 3. | Algyő | Dalkia Energia Zrt. | 1 706 |
+| 3. | Algyő | Veolia Energia Magyarország Zrt.. | 1 706 |
 
 | 4. | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 5 067 |
 
@@ -30,11 +30,11 @@
 
 | 10. | Bonyhád | „FŰTŐMŰ” Kft. | 1 699 |
 
-| 11. | Budaörs | BTG Budaörsi Településgazdálkodási Kft. | 2 134 |
+| 11. | Budaörs | BTG Településgazdálkodási Nonprofit Kft. | 2 134 |
 
 | 12. | Budapest | Csepeli Erőmű Kft. | 0 |
 
-| 13. | Budapest | Dalkia Energia Zrt. | 2 599 |
+| 13. | Budapest | Veolia Energia Magyarország Zrt.. | 2 599 |
 
 | 14. | Budapest | Budapesti Távhőszolgáltató Zrt. | 2 211 |
 
@@ -42,7 +42,7 @@
 
 | 16. | Budapest | GM Kőérberek Kft. | 1 616 |
 
-| 17. | Cegléd | Dalkia Energia Zrt. | 4 304 |
+| 17. | Cegléd | Veolia Energia Magyarország Zrt.. | 4 304 |
 
 | 18. | Celldömölk | Cellenergo Kft. | 4 018 |
 
@@ -56,7 +56,7 @@
 
 | 23. | Debrecen | DotEnergo Energetikai és Épületgépészeti Zrt. | 0 |
 
-| 24. | Dombóvár | Dalkia Energia Zrt. | 2 128 |
+| 24. | Dombóvár | Veolia Energia Magyarország Zrt.. | 2 128 |
 
 | 25. | Dorog | PROMTÁVHŐ Szolgáltató Kft. | 3 320 |
 
@@ -80,7 +80,7 @@
 
 | 35. | Hajdúnánás | Hajdúnánási Építő és Szolgáltató Kft. | 2 562 |
 
-| 36. | Hajdúszoboszló | Hajdúszoboszlói Városgazdálkodási Zrt. | 3 684 |
+| 36. | Hajdúszoboszló | Hajdúszoboszlói Városgazdálkodási Nonprofit Zrt. | 3 684 |
 
 | 37. | Hódmezővásárhely | Hódmezővásárhelyi Vagyonkezelő Zrt. | 1 680 |
 
@@ -94,9 +94,9 @@
 
 | 42. | Kecskemét | Kecskeméti Termostar Hőszolgáltató Kft. | 2 866 |
 
-| 43. | Keszthely | Keszthelyi Városüzemeltető Egyszemélyes Nonprofit Kft. | 3 860 |
+| 43. | Keszthely | VÜZ Keszthelyi Városüzemeltető Egyszemélyes Nonprofit Kft. | 3 860 |
 
-| 44. | Kiskunfélegyháza | Dunaújvárosi Hőszolgáltató Kft. | 2 943 |
+| 44. | Kiskunfélegyháza | Perkons DHÖ Dunaújvárosi Hőszolgáltató Kft. | 2 943 |
 
 | 45. | Kiskunhalas | Halasi Városgazda Zrt. | 3 941 |
 
@@ -122,7 +122,7 @@
 
 | 56. | Mosonmagyaróvár | Városüzemeltető és Fenntartó Kft. | 3 713 |
 
-| 57. | Nagyatád | Cothec Kft. | 2 448 |
+| 57. | Nagyatád | Cothec Energetikai Üzemeltető Kft. | 2 448 |
 
 | 58. | Nagykőrös | KÖVA-KOM Nonprofit Zrt. | 5 714 |
 
@@ -154,13 +154,13 @@
 
 | 72. | Salgótarján | Salgó Vagyon Kft. | 4 452 |
 
-| 73. | Sárbogárd | Cothec Kft. | 4 331 |
+| 73. | Sárbogárd | Cothec Energetikai Üzemeltető Kft. | 4 331 |
 
 | 74. | Sárospatak | Patakhő Energiaszolgáltató Nonprofit Kft. | 3 680 |
 
 | 75. | Sárvár | Sárvár Távhő Hőtermelő és Szolgáltató Kft. | 5 941 |
 
-| 76. | Sátoraljaújhely | Cothec Kft. | 2 079 |
+| 76. | Sátoraljaújhely | Cothec Energetikai Üzemeltető Kft. | 2 079 |
 
 | 77. | Siklós | SIKLÓSI TÁVHŐ Nonprofit Kft. | 1 823 |
 
@@ -196,7 +196,7 @@
 
 | 93. | Szombathely | Szombathelyi Távhőszolgáltató Kft. | 2 711 |
 
-| 94. | Tapolca | Városgazdálkodási Kft. | 2 920 |
+| 94. | Tapolca | Tapolcai Városgazdálkodási Kft. | 2 920 |
 
 | 95. | Tata | Tata Energia Termelő és Távhőszolgáltató Kft. | 1 942 |
 
@@ -214,7 +214,7 @@
 
 | 102. | Záhony | Hőtáv Kft. | 4 529 |
 
-| 103. | Zirc | Dalkia Energia Zrt. | 191 |
+| 103. | Zirc | Veolia Energia Magyarország Zrt.. | 191 |
 
 2. Az intézmények esetében alkalmazandó fajlagos támogatási mérték
 
@@ -255,4 +255,4 @@
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Megyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^17]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a szerint módosított szöveg.

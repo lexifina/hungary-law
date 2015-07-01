@@ -12,8 +12,8 @@ tartalmazza.
 
 (5) Az intézmény támogatási igényének mértékét a 2. melléklet 2. pontja szerinti módon számolja ki.
 
-(6)[^6] A Magyar Energia Hivatal (a továbbiakban: Hivatal) honlapján letölthető formában közzéteszi a 2. melléklet 1.1. és 2.1. pontjai szerinti támogatási igénybejelentő lapokat, valamint a 2. melléklet 1.2. és 2.2. pontja szerinti számítási módokat.
+(6)[^6] A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) honlapján letölthető formában közzéteszi a 2. melléklet 1.1. és 2.1. pontjai szerinti támogatási igénybejelentő lapokat, valamint a 2. melléklet 1.2. és 2.2. pontja szerinti számítási módokat.
 
 [^4]: A 3. § (1) bekezdés a) pontja az 59/2012. (X. 31.) NFM rendelet 8. §-ával megállapított szöveg.
 [^5]: A 3. § (2)–(3) bekezdését az 59/2012. (X. 31.) NFM rendelet 14. §-a hatályon kívül helyezte.
-[^6]: A 3. § (6) bekezdése az 59/2012. (X. 31.) NFM rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 3. § (6) bekezdése az 59/2012. (X. 31.) NFM rendelet 13. § (1) bekezdése, a 37/2015. (VI. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
