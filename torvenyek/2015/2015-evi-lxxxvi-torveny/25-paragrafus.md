@@ -1,0 +1,11 @@
+25. § (1) A NAV tv. 33/P. § (7)–(8) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az (5) bekezdés szerinti esetben a munkáltatói jogkör gyakorlója az érintettet – amennyiben az a bűncselekmény, amely miatt az érintett ellen a büntetőeljárás indult, az érintett által betöltött munkakör tekintélyét, illetve a NAV tekintélyét, jó hírnevét, a működésébe vetett közbizalmat súlyosan veszélyezteti, vagy az eljárás miatt az érintettnek a munkahelytől való távoltartása indokolt – az állásából az eljárás befejezéséig felfüggesztheti. A munkáltatói jogkör gyakorlója a felfüggesztésről határozatban rendelkezik. Az érintett a határozat felülvizsgálata iránt közvetlenül bírósághoz fordulhat.
+
+(8) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani, kivéve, ha az így folyósítandó összeg nem érné el a mindenkori minimálbért. Ilyen esetben a visszatartást úgy kell alkalmazni, hogy a folyósított összeg nem lehet kevesebb a mindenkori minimálbér összegénél. A visszatartott illetményt a visszatartás időpontjától számított, Ptk. szerinti kamatával növelten utólag ki kell fizetni, ha a méltatlanság nem állapítható meg. A kifizetést az erről szóló döntés közlését követő 15 napon belül kell teljesíteni.”
+
+(2) A NAV tv. 33/P. §-a a következő (8b)–(8c) bekezdéssel egészül ki:
+
+„(8b) A méltatlansági eljárás célja annak megállapítása, hogy a tanúsított magatartás alkalmas-e arra, hogy az érintett által betöltött munkakör tekintélyét, illetve a NAV tekintélyét, jó hírnevét, a működésébe vetett közbizalmat súlyosan veszélyeztesse. Önmagában az a tény, hogy büntetőeljárás van folyamatban, nem alapozza meg a méltatlanság megállapítását.
+
+(8c) Ha a munkáltatói jogkör gyakorlója a méltatlansági eljárás eredményeképpen azt állapítja meg, hogy a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő hivatalára méltatlan, de a méltatlanság alapjául szolgáló magatartás nem indokolja a jogviszony megszüntetését, akkor – az állásból való felfüggesztés megszüntetése mellett – intézkedhet az érintett más, azonos vagy alacsonyabb besorolású munkakörbe helyezéséről. E munkáltatói intézkedés során az egyoldalú kinevezés-módosítás szabályai irányadók azzal, hogy ebben az esetben a 18/B. § (6)–(7) bekezdése nem alkalmazható.”
