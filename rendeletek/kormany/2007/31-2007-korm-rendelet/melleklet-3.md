@@ -332,7 +332,7 @@
 
 | 43. | Országos Vízügyi Főigazgatóság | OVF |
 
-| 44. | Nemzeti Környezetügyi Intézet | NeKI |
+| 44. |  |  |
 
 3–4. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^42]
 
