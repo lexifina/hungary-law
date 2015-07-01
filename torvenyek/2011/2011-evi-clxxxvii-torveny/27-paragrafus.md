@@ -2,7 +2,7 @@
 
 (2) A szakmai gyakorlati képzés idejébe a szakképzés megkezdése előtt munkaviszonyban (vállalkozói jogviszonyban, munkavégzésre irányuló egyéb jogviszonyban) eltöltött szakirányú gyakorlati idő – a szakképző iskola vezetőjének egyedi döntése alapján az (1) bekezdésben meghatározottak szerint – beszámítható.
 
-(3) Módosított vagy új OKJ, szakmai és vizsgakövetelmény, szakképzési kerettanterv alapján iskolai rendszerű szakképzésben a szakmai elméleti és gyakorlati képzés csak akkor indítható, ha a módosított vagy új OKJ az indítandó képzés tanévét megelőző év augusztus 31-ig, a módosított vagy új szakmai és vizsgakövetelmény, szakképzési kerettanterv kiadására az indítandó képzés tanévét megelőző naptári év utolsó munkanapjáig sor került.
+(3)
 
 (4) Iskolai rendszerű szakképzésbe csak olyan tanulót lehet felvenni, aki az adott szakképesítésre a szakmai és vizsgakövetelményben előírt egészségügyi alkalmassági, továbbá a pályaalkalmassági követelményeknek megfelel, és ez alapján előreláthatóan nincs akadálya a komplex szakmai vizsgára bocsátásnak.
 

@@ -10,6 +10,6 @@
 
 (5) Az adott szakképző iskola típusára és évfolyamára – a nemzeti köznevelésről szóló törvényben – a nappali rendszerű oktatásra meghatározott tanulói éves kötelező összes óraszám szakmai elméleti és gyakorlati képzésre rendelkezésre álló részének legalább kilencven százalékának tartalmát a szakképzési kerettanterv állapítja meg. A szabadon hagyott időkeret szakmai tartalmát a szakképző iskola szakmai programja határozza meg.
 
-(6) Az alapfokú iskolai hiányosságok pótlását célzó Köznevelési Hídprogramban a felzárkóztató képzést, valamint a 3. § (2) bekezdés a) pontja szerinti szakmai képzést külön egységes kerettanterv határozza meg.
+(6)
 
 (7) A szakképzési kerettantervet a szakképzésért és felnőttképzésért felelős miniszter – az oktatásért felelős miniszterrel és az adott szakképesítésért felelős miniszterrel egyetértésben – adja ki rendeletben.

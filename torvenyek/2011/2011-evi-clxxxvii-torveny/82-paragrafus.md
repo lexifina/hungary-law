@@ -8,7 +8,7 @@ c) közreműködik az iskolai rendszerű szakképzés és az iskolarendszeren k�
 
 d) kezdeményezi az arra hatáskörrel rendelkező szervezetek és intézmények felé – a c) pontban meghatározott feladat érvényesülése érdekében – a bizottság által indokolt változtatások megtételét,
 
-e) részt vesz az iskolai rendszerű szakképzés fejlesztésével összefüggő, a decentralizált kerettel kapcsolatos és az egyéb szakképzési pályázatok elkészítésében, javaslatot tesz a decentralizált keret megyék közötti keretére és prioritásaira, részt vesz a pályázat kiírásában és értékelésében, javaslatot tesz a decentralizált keret pályázatainak nyerteseire és az általuk elnyert összeg nagyságára,
+e)
 
 f) fenntartói megkeresés esetén állást foglal a szakképzést érintő fenntartói döntések fővárosi, megyei munkaerő-piaci kereslettel összefüggő megalapozottságáról,
 

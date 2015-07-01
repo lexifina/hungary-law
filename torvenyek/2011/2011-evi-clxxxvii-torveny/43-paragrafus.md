@@ -12,7 +12,7 @@ ab) alapítvány, egyesület, egyházi jogi személy,
 
 ac) ab) alpontban meghatározottak fenntartásában működő intézmény, továbbá
 
-b) a Mezőgazdaság, a Kertészet és parképítés, valamint az Élelmiszeripar ágazatba tartozó gyakorlati képzést szervező őstermelő,
+b)
 
 c) a 4/A. § (2) bekezdése szerinti miniszter által fenntartott szakképző iskola az agrárpolitikáért, az erdőgazdálkodásért, az élelmiszeriparért, a halgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítésre történő felkészítés keretében részt vevő tanulója tekintetében, ha a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében vesz részt gyakorlati képzésben.
 

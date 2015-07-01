@@ -26,4 +26,4 @@ g) a nem állami intézményfenntartók kettő, valamint állami intézményfenn
 
 (6) A Tanács működéséhez szükséges feltételek biztosításáról a szakképzésért és felnőttképzésért felelős miniszter az állami szakképzési és felnőttképzési szerv útján gondoskodik.
 
-(7) A (2) bekezdés c) pontja szerinti felsőoktatás területén elismert szakértő személyére a Magyar Rektori Konferencia tesz javaslatot.
+(7)

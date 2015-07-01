@@ -12,13 +12,11 @@ ab) a szakképzési és felnőttképzési támogatási rendszer elveiről,
 
 ac) a szakképzést és felnőttképzést érintő jogszabályok tervezetéről,
 
-ad) a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott képzési alaprészből nyújtandó támogatásokról és ezek felhasználásáról,
+ad)
 
 b) javaslatot tesz
 
-ba) a képzési alaprész decentralizált keretének (a továbbiakban: decentralizált keret) a megyék közötti felosztására,
-
-bb) a képzési alaprész központi keretéből nyújtandó támogatásokra,
+ba)–bb)
 
 bc) az iskolarendszeren kívüli szakképzésben részt vevő felnőttek elhelyezkedési lehetőségeit elősegítő intézkedésekre,
 

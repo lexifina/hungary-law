@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-187-00-00
 | 2014-07-16 | 2014. évi XXXV. törvény | 2011-187-00-00.12 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2011-187-00-00.13 |
 | 2015-06-12 | 2015. évi LXVI. törvény | 2011-187-00-00.14 |
+| 2015-07-01 | 2015. évi LXVI. törvény | 2011-187-00-00.15 |
