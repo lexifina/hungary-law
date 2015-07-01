@@ -184,6 +184,4 @@
 
 ## Amennyiben ennek a Szerződésnek bármely cikke vagy annak egy része érvénytelenné válik, az összes többi cikk érvényben és hatályban marad.
 
-2. melléklet a 23/2014. (VI. 30.) NGM rendelethez[^15]
-
-[^15]: A 2. melléklet a 20. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
+2. melléklet a 23/2014. (VI. 30.) NGM rendelethez

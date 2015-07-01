@@ -8,6 +8,4 @@ b) rendelkezésre bocsátani az a) pontban említett eszközök használatára v
 
 c) megadni az a) pontban említett eszközök használatához szükséges felvilágosítást.
 
-(2)[^9]
-
-[^9]: A 18. § (2) bekezdése a 20. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
+(2) Az elektronikus formában megőrzött számla és nyugta ellenőrzése során az adóalany köteles az adóhatóság részére elektronikus kimenetet, és az adatok külső adathordozóra történő archiválását biztosítani.

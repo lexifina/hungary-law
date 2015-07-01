@@ -1,3 +1,1 @@
-## 22. §[^11]
-
-[^11]: A 22. § a 20. § (3) bekezdése alapján 2015. július 1-jén lép hatályba.
+## 22. § Az elektronikus számlával kapcsolatos egyes rendelkezésekről szóló 46/2007. (XII. 29.) PM rendelet 2015. június 30-án hatályos rendelkezéseit a 2015. június 30-ig kibocsátott elektronikus számlák tekintetében is alkalmazni kell.
