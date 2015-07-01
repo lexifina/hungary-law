@@ -120,7 +120,7 @@
 
 ## A táblázatban közölt, az értékesített villamos energia elsődleges energiaforrások szerinti eredetére vonatkozó adatok forrásának megjelölése:
 
-3. számú melléklet a 6/2008. (VI. 18.) KHEM rendelethez[^8]
+3. számú melléklet a 6/2008. (VI. 18.) KHEM rendelethez[^9]
 
 A Hivatal által a felhasználói érdekek képviseletét ellátó társadalmi szervezetek, valamint a felhasználói érdekek képviseletét ellátó egyéb szervezetek részére nyújtott adatszolgáltatás köre és rendje
 
@@ -326,4 +326,4 @@ A Hivatal által a felhasználói érdekek képviseletét ellátó társadalmi s
 
 |  | időszakos (B) árszabás szerint |  |  | db |
 
-[^8]: A 3. számú melléklet a 10. § (2) bekezdése alapján 2008. július 1-jén lép hatályba.
+[^9]: A 3. számú melléklet a 10. § (2) bekezdése alapján 2008. július 1-jén lép hatályba.

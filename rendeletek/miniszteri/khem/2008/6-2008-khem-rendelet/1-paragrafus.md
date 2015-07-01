@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-1. § (1) Ez a rendelet az adatszolgáltatásra kötelezettek, a felhasználók, valamint a Magyar Energia Hivatal (a továbbiakban: Hivatal) rendszeres adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat állapítja meg.
+1. § (1)[^1] Ez a rendelet az adatszolgáltatásra kötelezettek, a felhasználók, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) rendszeres adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat állapítja meg.
 
 (2) Ez a rendelet szabályozza
 
@@ -23,3 +23,5 @@ c) a Hivatal által a felhasználói érdekek képviseletét ellátó társadalm
 d) a Hivatal honlapján közzétételre kerülő adatok körét.
 
 (3) Az adatszolgáltatásra kötelezettek és a felhasználók az e rendeletben foglaltakon túlmenően is megállapodhatnak kölcsönös adatszolgáltatásban.
+
+[^1]: Az 1. § (1) bekezdése a 37/2015. (VI. 30.) NFM rendelet 5. §-a szerint módosított szöveg.
