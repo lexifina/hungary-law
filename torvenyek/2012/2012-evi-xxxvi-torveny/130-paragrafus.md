@@ -6,7 +6,7 @@ b) az országgyűlési őrök képesítési követelményeit,
 
 c) az Országgyűlési Őrség egyenruházati szabályzatát, és
 
-d) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvényben meghatározottak szerint az Országgyűlési Őrségre vonatkozó szabályokat,
+d) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározottak szerint az Országgyűlési Őrségre vonatkozó szabályokat,
 
 e) az Országgyűlési Őrség által használt kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat, valamint a rendszeresíthető kényszerítő eszközök típusát, fajtáját.
 
