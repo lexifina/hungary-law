@@ -1,1 +1,0 @@
-1. § Az Országgyűlés a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás kihirdetéséről szóló 1979. évi 19. törvényerejű rendelettel kihirdetett, a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének (a továbbiakban: ADR „A” és „B” Melléklet) 2013. január 1-jétől hatályos szövegét e törvénnyel kihirdeti.
