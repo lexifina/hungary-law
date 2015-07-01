@@ -40,7 +40,7 @@ d) ügyész vagy bíró,
 
 e) a polgári nemzetbiztonsági szolgálatok személyi állományának tagja,
 
-f) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó szerv hivatásos állományának tagja,
+f) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szerv hivatásos állományának tagja,
 
 g) a Magyar Honvédség tényleges állományú tagja,
 
