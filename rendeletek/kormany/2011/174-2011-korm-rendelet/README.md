@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-174-20-
 | 2013-09-01 | 2011-174-20-22.7 | 298/2013. (VII. 29.) Korm. rendelet |
 | 2014-03-15 | 2011-174-20-22.8 | 43/2014. (II. 25.) Korm. rendelet |
 | 2014-09-05 | 2011-174-20-22.9 | 298/2013. (VII. 29.) Korm. rendelet |
+| 2015-07-01 | 2011-174-20-22.10 | 178/2012. (VII. 26.) Korm. rendelet |
