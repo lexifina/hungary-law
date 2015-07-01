@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2015-04-01 | 2015. évi VI. törvény | 2011-199-00-00.29 |
 | 2015-04-15 | 2015. évi XXXII. törvény | 2011-199-00-00.30 |
 | 2015-06-19 | 2015. évi LXXI. törvény | 2011-199-00-00.31 |
+| 2015-07-01 | 2015. évi XLII. törvény | 2011-199-00-00.32 |

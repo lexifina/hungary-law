@@ -14,7 +14,7 @@ a) a minisztérium, a kormányhivatal, a központi hivatal (a továbbiakban: kö
 
 b) a kormányhivatal és a központi hivatal területi, helyi szerve, a megyei, fővárosi kormányhivatal, továbbá a Kormány által intézményfenntartásra kijelölt szerv,
 
-c) a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédelemi szerv központi és területi szervei
+c) a rendőrség, a büntetés-végrehajtás és a hivatásos katasztrófavédelemi szerv központi, területi és helyi szervei
 
 (a továbbiakban a)–c) pont együtt: államigazgatási szerv) kormánytisztviselőjének és kormányzati ügykezelőjének kormányzati szolgálati jogviszonyára, továbbá
 
