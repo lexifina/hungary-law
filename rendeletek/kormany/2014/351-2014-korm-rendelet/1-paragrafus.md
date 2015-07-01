@@ -2,7 +2,7 @@
 
 a) a közalkalmazottak jogállásáról szóló törvény,
 
-b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény,
+b)[^2] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény,
 
 c) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény,
 
@@ -16,7 +16,7 @@ g) a közszolgálati tisztviselőkről szóló törvény,
 
 h) a honvédek jogállásáról szóló törvény
 
-## hatálya alá tartozó munkáltatóra és az általa foglalkoztatott, gyermek születése esetén járó pótszabadságra jogosultra (a továbbiakban: munkavállaló).
+hatálya alá tartozó munkáltatóra és az általa foglalkoztatott, gyermek születése esetén járó pótszabadságra jogosultra (a továbbiakban: munkavállaló).
 
 (2) A munkavállaló a pótszabadság igényléséhez a munkáltatójának bemutatja a gyermek eredeti születési anyakönyvi kivonatát, illetve halva született gyermek esetén a halottvizsgálati bizonyítvány eredeti példányát, és írásban nyilatkozik arról, hogy a szülői felügyeletet gyakorló vér szerinti vagy örökbefogadó apa szülői felügyeleti jogát bíróság nem szünetelteti, vagy nem szüntette meg.
 
@@ -25,3 +25,5 @@ h) a honvédek jogállásáról szóló törvény
 (4) A munkáltató a pótszabadság igénybevételéről nyilvántartást vezet. A nyilvántartás tartalmazza az igénybe vevő nevét, a ténylegesen igénybe vett napok számát, időpontját, a távolléti díj kiszámításának módját, összegét és a számított közterheket. A nyilvántartás mellékleteként a (2) bekezdés szerinti nyilatkozatnak és a (3) bekezdés szerinti dokumentumnak a megőrzése – a számviteli bizonylatokra vonatkozó előírások figyelembevételével – a munkáltató feladata.
 
 (5) Ha a munkavállaló a pótszabadságra jogosító időtartamon belül munkahelyet változtat, az új munkáltatójánál akkor jogosult a pótszabadság igénybevételére, ha igazolja, hogy az előző munkáltatónál a pótszabadságot részben vagy egészben még nem vette igénybe. Erről – és részleges igénybevétel esetén a már kivett napok számáról – az előző munkáltató a munkavállaló kérésére három munkanapon belül köteles igazolást kiadni.
+
+[^2]: Az 1. § (1) bekezdés b) pontja a 157/2015. (VI. 25.) Korm. rendelet 49. §-ával megállapított szöveg.
