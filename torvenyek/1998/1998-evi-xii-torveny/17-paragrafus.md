@@ -1,1 +1,1 @@
-17. § A fegyveres szervek hivatásos állományú tagja, továbbá a katonai szolgálatot teljesítő személy külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
+17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, továbbá a katonai szolgálatot teljesítő személy külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.

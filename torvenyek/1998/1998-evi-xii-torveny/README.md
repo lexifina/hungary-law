@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2014-07-01 | 2013. évi CCXVIII. törvény | 1998-12-00-00.35 |
 | 2014-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1998-12-00-00.36 |
 | 2015-04-22 | 2015. évi XXXV. törvény | 1998-12-00-00.37 |
+| 2015-07-01 | 2015. évi XLII. törvény | 1998-12-00-00.38 |
