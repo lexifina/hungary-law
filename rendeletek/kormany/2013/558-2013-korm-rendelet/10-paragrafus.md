@@ -1,4 +1,4 @@
-## 7–9. §[^4]
+## 7–9. §[^5]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 2. § 2015. július 1-jén lép hatályba.
 
-[^4]: A 7–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 7–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
