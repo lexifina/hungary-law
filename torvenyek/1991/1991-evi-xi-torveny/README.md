@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-11-00-00
 | 2014-12-31 | 2014. évi CXI. törvény | 1991-11-00-00.32 |
 | 2015-01-01 | 2014. évi CXI. törvény | 1991-11-00-00.33 |
 | 2015-01-30 | 2014. évi CXI. törvény | 1991-11-00-00.34 |
+| 2015-07-01 | 2015. évi LXXVII. törvény | 1991-11-00-00.35 |

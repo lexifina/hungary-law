@@ -36,7 +36,9 @@ o) gyakorolja a külön törvényben meghatározottak szerint a lakossági gyóg
 
 p) ellenőrzi, hogy az egészségügyi szolgáltató térítési díjszabályzata megfelel-e a jogszabályban foglaltaknak, valamint hogy az egészségügyi szolgáltató a térítési díjszabályzatában foglaltaknak megfelelően jár-e el;
 
-q) megállapítja, összehangolja, nyilvántartja és közzéteszi a gyógyszertári ügyeletet és készenlétet.
+q) megállapítja, összehangolja, nyilvántartja és közzéteszi a gyógyszertári ügyeletet és készenlétet;
+
+r) közvetlenül és haladéktalanul intézkedik, ha az ellátási kötelezettséggel rendelkező egészségügyi szolgáltatónál hirtelen fellépő ok miatt a betegellátás átmeneti fennakadásáról értesül. Az intézkedéssel párhuzamosan értesíti az érintett szolgáltató fenntartóját, illetve az Országos Mentőszolgálatot.
 
 (2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
@@ -96,7 +98,7 @@ eb) a foglalkoztatásra irányuló jogviszonynak az egészségügyi tevékenysé
 
 ec) az egészségügyi dolgozó által végzett egészségügyi tevékenység FEOR szám szerinti megjelölése, az Eütev. szerinti alkalmazott egészségügyi dolgozó esetében a munkakör megnevezése,
 
-ed) alkalmazott egészségügyi dolgozó esetén a teljes vagy részmunkaidős foglalkoztatás ténye, az Eütev. 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, valamint a heti munkaidő, alapellátás esetében a helyettesítés ténye,
+ed) alkalmazott egészségügyi dolgozó esetén a teljes vagy részmunkaidős foglalkoztatás ténye, az Eütev. 12. §-ában meghatározott munkarendje, illetve munkavégzési formája, valamint az önként vállalt többletmunka ténye és mértéke, valamint a heti munkaidő,
 
 ee) az egészségügyi dolgozó tartós távollétének ténye és indoka.
 
