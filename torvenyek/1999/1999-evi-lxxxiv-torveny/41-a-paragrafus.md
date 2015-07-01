@@ -1,4 +1,4 @@
-41/A. § Felhatalmazás kap a Kormány, hogy
+41/A. § Felhatalmazást kap a Kormány, hogy
 
 a) az előzetes eredetiségvizsgálati eljárás, a közreműködő engedélyezésére irányuló eljárás, valamint a vizsgáló bejelentésének részletes szabályait, és a közreműködővel kötendő hatósági szerződés tartalmát,
 
@@ -8,6 +8,6 @@ c) a közlekedési igazgatási eljárásban a közreműködő hatóságok köré
 
 d) a közreműködők nyilvántartása személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésének részletes szabályait, a közreműködőre, a vizsgáló állomásra és a vizsgálóra vonatkozó követelményeket, az előzetes eredetiségvizsgálati eljárásban alkalmazható vizsgálati módszert, valamint a vizsgáló képzésének és továbbképzésének szabályait,
 
-e) a 27/A. § (2)–(5) bekezdéseiben meghatározott automatizált keresés részletes szabályait
+e) a 27/A. § (2)–(5) bekezdésében és a 27/C. §-ban meghatározott automatizált keresés részletes szabályait
 
 rendeletben állapítsa meg.

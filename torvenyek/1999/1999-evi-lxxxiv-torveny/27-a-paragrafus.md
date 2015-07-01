@@ -8,15 +8,13 @@
 
 a) a közrend és a közbiztonság fenntartásával összefüggő feladatai ellátása, valamint a bűncselekmények megelőzése céljából a rendőrség,
 
-b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési és közigazgatási eljárások lefolytatása céljából
+b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából a szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
 
-ba) a szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
+c) a közúti közlekedés szabályainak megsértésével összefüggő közigazgatási bírságolási eljárás során a rendőrség, a katasztrófavédelmi hatóság, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíj ellenőrzésre feljogosított szervezet, valamint az úthasználati díj ellenőrzésére kijelölt szervezet,
 
-bb) közigazgatási bírságolási eljárás során a rendőrség, a katasztrófavédelmi hatóság, valamint az autópályák, autóutak és főutak használatának díjáról szóló törvény szerinti útdíjellenőrzésre feljogosított szervezet,
+d) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
 
-c) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a nyomozó hatóság, az ügyészség és a bíróság, valamint
-
-d) a hatáskörébe tartozó bűnüldözési és felderítési feladatok ellátása céljából a külön törvényben meghatározott szervek.
+e) a hatáskörébe tartozó bűnüldözési és felderítési feladatok ellátása céljából a törvényben meghatározott szervek.
 
 (4) A közvetlen adathozzáférés útján történő automatizált keresés csak a teljes forgalmi rendszám vagy a teljes alvázszám megadását követően teljesíthető.
 
