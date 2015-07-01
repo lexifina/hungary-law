@@ -1,1 +1,0 @@
-Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 260. §-ának (3) bekezdésében kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. §-ának b) pontjában foglalt feladatkörben eljárva – az informatikáért felelős miniszterrel egyetértésben – a következőket rendelem:
