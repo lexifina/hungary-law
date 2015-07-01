@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 1997-159-00-00.22 |
 | 2013-07-06 | 2013. évi CI. törvény | 1997-159-00-00.23 |
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 1997-159-00-00.24 |
+| 2015-07-01 | 2015. évi XLII. törvény | 1997-159-00-00.25 |
