@@ -4,4 +4,4 @@
 
 (3) A kutatási terv abban az esetben engedélyezhető, ha a humángenetikai kutatást végző intézmény rendelkezik biobankkal vagy a biobank létesítésére és fenntartására vonatkozó, e törvény és külön jogszabály szerinti feltételekkel.
 
-(4) Humángenetikai vizsgálatokat is végző egészségügyi szolgáltató működése abban az esetben engedélyezhető, ha az egészségügyi szolgáltató rendelkezik biobankkal.
+(4)
