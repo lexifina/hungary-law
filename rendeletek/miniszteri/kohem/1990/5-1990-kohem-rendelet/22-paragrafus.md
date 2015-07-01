@@ -1,25 +1,25 @@
 ## A jóváhagyási jel használata
 
-22. §[^265] (1)[^266] Az a gyártó vállalat, amelynek részére a közlekedési hatóság a jóváhagyási jel használatát engedélyezte, az engedély lejártáig vagy visszavonásáig jogosult a jóváhagyási jelet az engedélyezett típusú járműalkatrészen és tartozékon (valamint azok egyedi és gyűjtőcsomagolásán), illetőleg járműtulajdonságok esetében a járművön feltüntetni. A jóváhagyási jel leírását a 3. számú melléklet tartalmazza.
+22. §[^272] (1)[^273] Az a gyártó vállalat, amelynek részére a közlekedési hatóság a jóváhagyási jel használatát engedélyezte, az engedély lejártáig vagy visszavonásáig jogosult a jóváhagyási jelet az engedélyezett típusú járműalkatrészen és tartozékon (valamint azok egyedi és gyűjtőcsomagolásán), illetőleg járműtulajdonságok esetében a járművön feltüntetni. A jóváhagyási jel leírását a 3. számú melléklet tartalmazza.
 
-(2)[^267] A jóváhagyási jel járműalkatrészen, tartozékon, illetőleg – járműtulajdonság esetében – a járművön való feltüntetésének (használatának) jogosságát a közlekedési hatóság ellenőrzi. Ha a közlekedési hatóság a gyártás egyenletességének ellenőrzése, a felhasználás vagy az üzemeltetés során végzett vizsgálat alapján megállapítja, hogy magyar jóváhagyási jelet
+(2)[^274] A jóváhagyási jel járműalkatrészen, tartozékon, illetőleg – járműtulajdonság esetében – a járművön való feltüntetésének (használatának) jogosságát a közlekedési hatóság ellenőrzi. Ha a közlekedési hatóság a gyártás egyenletességének ellenőrzése, a felhasználás vagy az üzemeltetés során végzett vizsgálat alapján megállapítja, hogy magyar jóváhagyási jelet
 
 a) engedély nélkül használnak, a jóváhagyási jel használatát megtiltja,
 
 b) a gyártó az engedélyezett típustól eltérő járműalkatrészen, tartozékon, illetőleg járművön használja, az engedélyt visszavonja.
 
-(3)[^268] A jóváhagyásra kötelezett járműalkatrész, tartozék, illetőleg – járműtulajdonság esetében – a jármű forgalomba hozatalát a közlekedési hatóság megtiltja, ha az a vonatkozó előírásnak nem felel meg.
+(3)[^275] A jóváhagyásra kötelezett járműalkatrész, tartozék, illetőleg – járműtulajdonság esetében – a jármű forgalomba hozatalát a közlekedési hatóság megtiltja, ha az a vonatkozó előírásnak nem felel meg.
 
-(4)[^269] A közlekedési hatóság a jóváhagyási jel használatának engedélyezéséről, az engedélyezés megtagadásáról, az engedély visszavonásáról, valamint a jóváhagyási jel használatának megtiltásáról, illetőleg a járműalkatrész, tartozék, valamint a jármű forgalomba hozatalának megtiltásáról nyilvántartást vezet.
+(4)[^276] A közlekedési hatóság a jóváhagyási jel használatának engedélyezéséről, az engedélyezés megtagadásáról, az engedély visszavonásáról, valamint a jóváhagyási jel használatának megtiltásáról, illetőleg a járműalkatrész, tartozék, valamint a jármű forgalomba hozatalának megtiltásáról nyilvántartást vezet.
 
-(5)[^270] A közlekedési hatóság a (4) bekezdésben említettek tekintetében az Egyezményben részes és a vonatkozó előírást alkalmazó államoktól kapott tájékoztatást nyilvántartja.
+(5)[^277] A közlekedési hatóság a (4) bekezdésben említettek tekintetében az Egyezményben részes és a vonatkozó előírást alkalmazó államoktól kapott tájékoztatást nyilvántartja.
 
-(6)[^271] A közlekedési hatóság a (4)–(5) bekezdésekben foglaltak tekintetében az Egyezményben meghatározott módon tájékoztatja az Egyezményben részes országokat.
+(6)[^278] A közlekedési hatóság a (4)–(5) bekezdésekben foglaltak tekintetében az Egyezményben meghatározott módon tájékoztatja az Egyezményben részes országokat.
 
-[^265]: A 22. § a 46/1999. (XII. 28.) KHVM rendelet 1.§-ának (7) bekezdésével megállapított szöveg.
-[^266]: A 22. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^267]: A 22. § (2) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^268]: A 22. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^269]: A 22. § (4) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 20. §-ával megállapított szöveg.
-[^270]: A 22. § (5) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 20. §-ával megállapított szöveg.
-[^271]: A 22. § (6) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 20. §-ával megállapított szöveg.
+[^272]: A 22. § a 46/1999. (XII. 28.) KHVM rendelet 1.§-ának (7) bekezdésével megállapított szöveg.
+[^273]: A 22. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^274]: A 22. § (2) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^275]: A 22. § (3) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^276]: A 22. § (4) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 20. §-ával megállapított szöveg.
+[^277]: A 22. § (5) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 20. §-ával megállapított szöveg.
+[^278]: A 22. § (6) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 20. §-ával megállapított szöveg.

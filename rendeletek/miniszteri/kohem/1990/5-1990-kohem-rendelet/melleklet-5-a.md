@@ -110,7 +110,7 @@
 
 ## e) kézi gázszivárgás-ellenőrző.
 
-## 1.2.17.[^344]
+## 1.2.17.[^352]
 
 ## 1.2.18. Menetíró (tachográf) és sebességkorlátozó ellenőrző berendezés
 
@@ -134,7 +134,7 @@
 
 ## 1.3. A meghatározott járműkategóriák vagy járműkivitelek vizsgálatát, illetve csak meghatározott vizsgálato(ka)t végző vizsgáló állomásokra vonatkozó eltérések, valamint helyettesítő vizsgáló eszközök
 
-## 1.3.1.[^345] Kizárólag motorkerékpárok tanúsítását végző vizsgálóállomások esetén vizsgálóakna nem szükséges. A gépkocsi vizsgálata esetén a 1.2.1. pont szerinti vizsgálóakna helyettesíthető olyan gépi működtetésű emelőpaddal (oszlopos vagy ollós emelővel), amely rendelkezik:
+## 1.3.1.[^353] Kizárólag motorkerékpárok tanúsítását végző vizsgálóállomások esetén vizsgálóakna nem szükséges. A gépkocsi vizsgálata esetén a 1.2.1. pont szerinti vizsgálóakna helyettesíthető olyan gépi működtetésű emelőpaddal (oszlopos vagy ollós emelővel), amely rendelkezik:
 
 ## a) a vizsgálószemély részére szolgáló feljáróval,
 
@@ -188,11 +188,11 @@
 
 ## 1.3.17. A 1.2.18. pontban előírt menetíró (tachográf) és sebességkorlátozó ellenőrző berendezést csak a 3,5 t megengedett legnagyobb össztömeget, illetve járműszerelvény együttes össztömeget meghaladó tehergépkocsik és az autóbuszok vizsgálatát (is) végző vizsgáló állomáson kell biztosítani.
 
-## 1.3.18.[^346] Kizárólag trolibuszok tanúsítását végző vizsgálóállomások esetén nem szükséges az 1.2.1. b), c), az 1.2.3., az 1.2.5.-1.2.13., az 1.2.16. d), e), valamint az 1.2.18. pontokban meghatározottak teljesítése.
+## 1.3.18.[^354] Kizárólag trolibuszok tanúsítását végző vizsgálóállomások esetén nem szükséges az 1.2.1. b), c), az 1.2.3., az 1.2.5.-1.2.13., az 1.2.16. d), e), valamint az 1.2.18. pontokban meghatározottak teljesítése.
 
-## 1.3.19.[^347] A trolibuszok vizsgálata esetén a vizsgáló állomásnak rendelkeznie kell kiíró szerkezetes vagy adattároló egységgel rendelkező lassulásmérő berendezéssel.
+## 1.3.19.[^355] A trolibuszok vizsgálata esetén a vizsgáló állomásnak rendelkeznie kell kiíró szerkezetes vagy adattároló egységgel rendelkező lassulásmérő berendezéssel.
 
-## 1.3.20.[^348] A T1.–T4. kategóriájú mezőgazdasági vontatóknak, lassú járműveknek, valamint e járművek által vontatható pótkocsiknak a 12. § (10) bekezdése alapján az üzemeltető kérelmére a közlekedési hatóság által kijelölt telephelyen végzett időszakos vizsgálata esetében az 1.2. pontban meghatározott eszközök közül
+## 1.3.20.[^356] A T1.–T4. kategóriájú mezőgazdasági vontatóknak, lassú járműveknek, valamint e járművek által vontatható pótkocsiknak a 12. § (10) bekezdése alapján az üzemeltető kérelmére a közlekedési hatóság által kijelölt telephelyen végzett időszakos vizsgálata esetében az 1.2. pontban meghatározott eszközök közül
 
 ## a) az 1.2.1. pontban meghatározott vizsgálóakna helyettesíthető sík, száraz, kemény burkolatú, a vizsgálat céljára lezárt útfelülettel, valamint a vizsgálat jármű tengelyeinek emelésére szolgáló emelővel és kerékmozgató kézi eszközzel,
 
@@ -218,7 +218,7 @@
 
 ## 2.1.1. A közlekedési hatóság a jármű tulajdonosának (üzemben tartójának vagy képviselőjének) a kérelmére folytatja le a forgalomba helyezés előtti, valamint az időszakos vizsgálatot.
 
-## 2.1.2.[^349] A közlekedési hatóság, valamint a vizsgáló állomás köteles a körülmények által indokolt mértékben és módon megvizsgálni és dokumentálni a képviselő képviseleti jogosultságát. Időszakos vizsgálatra irányuló kérelem esetében az üzemben tartó képviseletét – külön okirat kiállítása nélkül – elláthatja:
+## 2.1.2.[^357] A közlekedési hatóság, valamint a vizsgáló állomás köteles a körülmények által indokolt mértékben és módon megvizsgálni és dokumentálni a képviselő képviseleti jogosultságát. Időszakos vizsgálatra irányuló kérelem esetében az üzemben tartó képviseletét – külön okirat kiállítása nélkül – elláthatja:
 
 ## a) a vizsgáló állomással munkavégzésre irányuló jogviszonyban álló személy, valamint
 
@@ -236,21 +236,21 @@
 
 ## 2.2.3. Az aláírt kérelmet az informatikai rendszeren digitális formában kell tárolni.
 
-## 2.2.4.[^350] A vizsgálóállomás vagy a közlekedési hatóság vizsgabiztosa a jármű adatainak ellenőrzése és az előírt technológia alkalmazása során a 4.1. pont szerint megállapított adatokat és a 4.2. pont szerint minősített hibákat az informatikai rendszerben elektronikusan rögzíti.
+## 2.2.4.[^358] A vizsgálóállomás vagy a közlekedési hatóság vizsgabiztosa a jármű adatainak ellenőrzése és az előírt technológia alkalmazása során a 4.1. pont szerint megállapított adatokat és a 4.2. pont szerint minősített hibákat az informatikai rendszerben elektronikusan rögzíti.
 
-## 2.2.5.[^351] A vizsgálóállomás vagy a közlekedési hatóság, és az adatokat rögzítő vizsgabiztos egyetemlegesen felelős az általuk az informatikai rendszerben rögzített adatok adattartalmáért.
+## 2.2.5.[^359] A vizsgálóállomás vagy a közlekedési hatóság, és az adatokat rögzítő vizsgabiztos egyetemlegesen felelős az általuk az informatikai rendszerben rögzített adatok adattartalmáért.
 
 ## 2.3. A forgalomba helyezés előtti és időszakos vizsgálatot követő ügyintézés, irattározás rendje
 
-## 2.3.1.[^352] A forgalomba helyezés előtti vizsgálat eredményéről hatósági bizonyítványt kell kiadni. A bizonyítványnak legalább az 5/A. számú melléklet szerinti adattartalommal rendelkező Műszaki vizsgálati bizonyítványnak kell lennie. A bizonyítványnak az ügyfél vagy az ügyfél képviselője részére történő kiadását a vizsgálóállomás végzi.
+## 2.3.1.[^360] A forgalomba helyezés előtti vizsgálat eredményéről hatósági bizonyítványt kell kiadni. A bizonyítványnak legalább az 5/A. számú melléklet szerinti adattartalommal rendelkező Műszaki vizsgálati bizonyítványnak kell lennie. A bizonyítványnak az ügyfél vagy az ügyfél képviselője részére történő kiadását a vizsgálóállomás végzi.
 
-## 2.3.2.[^353] A forgalomba helyezés előtti vizsgálat alapján kiadott Műszaki vizsgálati bizonyítványon a vizsgálóállomás ügyintézője rögzíti a kiadásra kerülő forgalmi engedély időbeli hatályát. A forgalmi engedély időbeli hatályának megállapítása a következő időszakos vizsgálat határidejének bejegyzésével és a sorszámcsík beragasztásával történik.
+## 2.3.2.[^361] A forgalomba helyezés előtti vizsgálat alapján kiadott Műszaki vizsgálati bizonyítványon a vizsgálóállomás ügyintézője rögzíti a kiadásra kerülő forgalmi engedély időbeli hatályát. A forgalmi engedély időbeli hatályának megállapítása a következő időszakos vizsgálat határidejének bejegyzésével és a sorszámcsík beragasztásával történik.
 
 ## 2.3.3. Az irattározás ideje veszélyes anyagot szállító járművek esetén 10 év, egyéb járművek esetén az adott jármű- és vizsgafajta alapján az időszakos vizsgálat határidejeként megállapítható leghosszabb időnél egy évvel több. A digitálisan tárolt dokumentumokról papír alapú másolatot megőrizni nem kell.
 
 ## 3. Az általános technológia
 
-## 3.1.[^354] A forgalomba helyezés előtti és az időszakos vizsgálatok során az 1. számú táblázatban foglalt tárgyban és körben, illetve – a vizsgáló állomáson elvégzett vizsgálat esetében – a meghatározott eszköz és módszer alkalmazásával kell ellenőrizni, hogy a vizsgált jármű meghatározott jellemzői megfelelnek-e a 10. és 12. §-ban foglalt követelményeknek.
+## 3.1.[^362] A forgalomba helyezés előtti és az időszakos vizsgálatok során az 1. számú táblázatban foglalt tárgyban és körben, illetve – a vizsgáló állomáson elvégzett vizsgálat esetében – a meghatározott eszköz és módszer alkalmazásával kell ellenőrizni, hogy a vizsgált jármű meghatározott jellemzői megfelelnek-e a 10. és 12. §-ban foglalt követelményeknek.
 
 ## 3.2. A vizsgálatok során a jármű egyes műszaki jellemzőire vonatkozó követelményeket az MR. tartalmazza, azonban egyes – az 1. számú táblázatban meghatározott – esetekben a külön jogszabályokban foglalt előírások teljesülését is vizsgálni kell.
 
@@ -1998,17 +1998,17 @@
 
 |  |  | 3 Közlekedésbiztonságot és környezetvédelmet nem veszélyeztető hiba | 0 099. kódszótárban nem szereplő | H |
 
-5/A. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^355]
+5/A. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^363]
 
-[^344]: Az 5. számú melléklet 1.2.17. pontját a 25/2010. (XII. 22.) NFM rendelet 4. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^345]: Az 5. melléklet 1. alcím 1.3.1. pontja a 62/2011. (XI. 29.) NFM rendelet 17. § (1) bekezdése szerint módosított szöveg.
-[^346]: Az. 5. melléklet 1.3.18. pontját a 62/2011. (XI. 29.) NFM rendelet 14. § (2) bekezdése iktatta be.
-[^347]: Az. 5. melléklet 1.3.19. pontját a 62/2011. (XI. 29.) NFM rendelet 14. § (2) bekezdése iktatta be.
-[^348]: Az 5. számú melléklet 1. fejezet 1.3.20. pontját a 18/2013. (V. 9.) NFM rendelet 13. §-a iktatta be.
-[^349]: Az 5. számú melléklet 2.1.2. pontja a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^350]: Az 5. számú melléklet 2.2.4. pontja a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^351]: Az 5. számú melléklet 2.2.5. pontját a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdése iktatta be.
-[^352]: Az 5. számú melléklet 2.3.1. pontja a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^353]: Az 5. számú melléklet 2.3.2. pontja a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^354]: Az 5. számú melléklet 3. fejezet 3.1. pontja a 18/2013. (V. 9.) NFM rendelet 13. §-ával megállapított szöveg.
-[^355]: Az 5/A. számú mellékletet a 71/2013. (XII. 2.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^352]: Az 5. számú melléklet 1.2.17. pontját a 25/2010. (XII. 22.) NFM rendelet 4. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^353]: Az 5. melléklet 1. alcím 1.3.1. pontja a 62/2011. (XI. 29.) NFM rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^354]: Az. 5. melléklet 1.3.18. pontját a 62/2011. (XI. 29.) NFM rendelet 14. § (2) bekezdése iktatta be.
+[^355]: Az. 5. melléklet 1.3.19. pontját a 62/2011. (XI. 29.) NFM rendelet 14. § (2) bekezdése iktatta be.
+[^356]: Az 5. számú melléklet 1. fejezet 1.3.20. pontját a 18/2013. (V. 9.) NFM rendelet 13. §-a iktatta be.
+[^357]: Az 5. számú melléklet 2.1.2. pontja a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^358]: Az 5. számú melléklet 2.2.4. pontja a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^359]: Az 5. számú melléklet 2.2.5. pontját a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdése iktatta be.
+[^360]: Az 5. számú melléklet 2.3.1. pontja a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^361]: Az 5. számú melléklet 2.3.2. pontja a 71/2013. (XII. 2.) NFM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^362]: Az 5. számú melléklet 3. fejezet 3.1. pontja a 18/2013. (V. 9.) NFM rendelet 13. §-ával megállapított szöveg.
+[^363]: Az 5/A. számú mellékletet a 71/2013. (XII. 2.) NFM rendelet 7. § (2) bekezdése iktatta be.

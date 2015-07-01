@@ -1,4 +1,4 @@
-3. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^342]
+3. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^350]
 
 ## A jóváhagyási jel leírása
 
@@ -58,4 +58,4 @@ Az egyezményben részes államok és jelzőszámaik a következők:
 
 27. Szlovákia
 
-[^342]: A 3. számú melléklet a 21/1995. (XII. 15.) KHVM rendelet 14. §-ának (1) bekezdésével, valamint 1. számú mellékletével megállapított szöveg.
+[^350]: A 3. számú melléklet a 21/1995. (XII. 15.) KHVM rendelet 14. §-ának (1) bekezdésével, valamint 1. számú mellékletével megállapított szöveg.
