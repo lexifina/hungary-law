@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya a rendőrségre, a büntetés-végrehajtási szervezetre, a hivatásos katasztrófavédelmi szervre (a továbbiakban együtt: fegyveres szervek) és a fegyveres szervek hivatásos állományának tagjaira terjed ki.
+## 1. §[^1] E rendelet hatálya a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdés a)–e) pontjában meghatározott rendvédelmi feladatokat ellátó szervekre és hivatásos állományuk tagjaira terjed ki.
 
 ## I. Fejezet
 
@@ -16,7 +16,7 @@
 
 (3)[^4] A kártérítési eljárás lefolytatásával megbízott személy, valamint kijelölt bizottság (a továbbiakban együtt: eljáró szerv) 30 napon belül megállapítja a kár összegét, erről feljegyzésben értesíti az állományilletékes parancsnokot.
 
-[^1]: Az 1. § a 81/2012. (XII. 28.) BM rendelet 2. §-ával megállapított szöveg.
+[^1]: Az 1. § a 37/2015. (VI. 16.) BM rendelet 4. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 34/2014. (IV. 24.) BM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (1a) bekezdését a 34/2014. (IV. 24.) BM rendelet 2. §-a iktatta be.
 [^4]: A 2. § (3) bekezdése a 34/2014. (IV. 24.) BM rendelet 11. §-a szerint módosított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-23-20-0
 | 2013-01-01 | 1997-23-20-0A.5 | 81/2012. (XII. 28.) BM rendelet |
 | 2014-03-15 | 1997-23-20-0A.6 | 22/2014. (III. 12.) BM rendelet |
 | 2014-05-02 | 1997-23-20-0A.7 | 34/2014. (IV. 24.) BM rendelet |
+| 2015-07-01 | 1997-23-20-0A.8 | 37/2015. (VI. 16.) BM rendelet |

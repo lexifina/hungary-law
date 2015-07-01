@@ -2,6 +2,8 @@
 
 ## Az eljárás rendje
 
-34. § (1) A szerv kártérítési felelőssége alóli kimentési okokat a fegyveres szervnek kell bizonyítania.
+34. § (1)[^44] A szerv kártérítési felelőssége alóli kimentési okokat a rendvédelmi feladatokat ellátó szervnek kell bizonyítania.
 
 (2) A károsultat terheli a kár szolgálati viszonnyal való összefüggésének és összegszerűségének bizonyítása.
+
+[^44]: A 34. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.

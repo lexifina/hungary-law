@@ -1,7 +1,8 @@
-## Az egyszerűsített eljárás
+## A kártérítési eljárás mellőzésével hozott határozat[^5]
 
-3. § (1)[^5] Az egyszerű ténybeli, jogi megítélésű tényállás esetében, amennyiben az eljárás alá vont személy kártérítési felelősségét elismeri, és a kárösszeg a köztisztviselői illetményalap 50%-át nem haladja meg, az eljáró szerv kijelölése mellőzhető. Ez esetben a kártérítési ügy az állományilletékes parancsnok által történt meghallgatás alapján is elbírálható.
+3. §[^6] (1) A Hszt. 238. § (2) bekezdésében meghatározott feltételek fennállása esetén az állományilletékes parancsnok vagy a rendvédelmi feladatokat ellátó szerv általa kijelölt tagja személyes meghallgatást tart. Ha az eljárás alá vont személy a felelősségére vagy a megtérítési kötelezettségére vonatkozó nyilatkozatát a személyes meghallgatás során visszavonta, a kártérítési eljárást öt napon belül meg kell indítani.
 
 (2) A személyes meghallgatásról egyidejűleg jegyzőkönyv készül.
 
-[^5]: A 3. § (1) bekezdése a 81/2012. (XII. 28.) BM rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 3. §-t megelőző alcím a 37/2015. (VI. 16.) BM rendelet 5. §-ával megállapított szöveg.
+[^6]: A 3. § a 37/2015. (VI. 16.) BM rendelet 5. §-ával megállapított szöveg.
