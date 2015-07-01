@@ -10,7 +10,13 @@
 
 (4) A gyógyszertár működtetőjének ellátási felelősségéről a gyógyszertárak létesítéséről és működésük egyes szabályairól külön jogszabály rendelkezik.
 
-(5) A forgalomba hozatali engedély jogosultja köteles az általa forgalmazott gyógyszerek nagykereskedelmi forgalmazási lehetőségét a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedőnek biztosítani, amennyiben a nagykereskedő külön jelzi, hogy a beszerezni kívánt gyógyszer magyarországi ellátási igény kielégítéséhez szükséges. Az e bekezdés alapján beszerzett gyógyszer kizárólag magyarországi egészségügyi szolgáltatónak adható tovább és nagykereskedelmi tevékenység keretében az országból nem vihető ki. A nagykereskedő az e bekezdés alapján beszerzett gyógyszerről külön – az egészségügyért felelős miniszter rendeletében meghatározott – nyilvántartást vezet.
+(5) A forgalomba hozatali engedély jogosultja az általa forgalmazott gyógyszerek nagykereskedelmi forgalmazási lehetőségét a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedőnek biztosítja, amennyiben a nagykereskedő olyan nyilatkozat tesz, hogy a beszerezni kívánt gyógyszer magyarországi betegellátási szükséglet kielégítéséhez kell. Az e bekezdés alapján beszerzett gyógyszer kizárólag magyarországi egészségügyi szolgáltatónak adható tovább és nagykereskedelmi tevékenység keretében az országból nem vihető ki. A nagykereskedő az e bekezdés alapján beszerzett gyógyszerről külön – az egészségügyért felelős miniszter rendeletében meghatározott – nyilvántartást vezet. A forgalomba hozatali engedély jogosultja mentesül az e bekezdés szerinti gyógyszer-nagykereskedők felé történő kiszolgálási kötelezettsége alól, ha
+
+a) a gyógyszer szerepel a gyógyszerészeti államigazgatási szerv által vezetett, a 16. § (6) bekezdés szerinti közleményen,
+
+b) a nagykereskedő a megrendelést megelőző évben veszteséges volt, vagy
+
+c) a nagykereskedőt a megrendelést megelőző 5 évben gyógyszer jogellenes külföldre vitele miatt jogerősen elmarasztalták.
 
 (5a) A forgalomba hozatali engedély jogosultjának biztosítania kell, hogy a Magyarországon gyógyszer-nagykereskedelmi tevékenységi engedéllyel rendelkező gyógyszer-nagykereskedők együttesen az egészségügyért felelős miniszter rendeletében meghatározott hatóanyagú gyógyszerekből az ott meghatározott mennyiségű készlettel folyamatosan rendelkezzenek. Az érintett hatóanyagok köre a gyógyszerészeti államigazgatási szerv javaslata alapján kerül meghatározásra.
 

@@ -120,4 +120,6 @@ függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
 
 45. kivonás a forgalomból: minden olyan intézkedés, amelynek célja a gyógyszer forgalmazásának megakadályozása az értékesítési láncban.
 
-46. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+46. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
+47. betegellátási szükséglet: adott gyógyszerre vonatkozó, magyarországi betegeket érintő tényleges felhasználási szükséglet.
