@@ -2,6 +2,6 @@
 
 (2) A tanuló kérelmére engedélyezni kell a tanulói jogviszony szünetelését abban az esetben, ha a tanuló méltányolható okból nem tud eleget tenni a tanulói jogviszonnyal összefüggő kötelezettségeinek. A tanulói jogviszony szünetelése alatt a szerződésben, illetve e rendeletben meghatározott juttatások nem illetik meg a tanulót.
 
-(3)[^17] A tanulók kártérítési ügyeiben az Nkt. és a szakképzésről szóló 2011. évi CLXXXVII. törvény vonatkozó rendelkezései alapján a rendelet hatálya alá tartozó rendvédelmi szervekre irányadó normák és a választott hivatásra vonatkozó követelményrendszerre alapuló, a szakközépiskola által kiadott fegyelmi és kártérítési szabályzat szerint kell eljárni.
+(3)[^27] A tanulók kártérítési ügyeiben az Nkt. és a szakképzésről szóló 2011. évi CLXXXVII. törvény vonatkozó rendelkezései alapján a rendelet hatálya alá tartozó rendvédelmi szervekre irányadó normák és a választott hivatásra vonatkozó követelményrendszerre alapuló, a szakközépiskola által kiadott fegyelmi és kártérítési szabályzat szerint kell eljárni.
 
-[^17]: A 15. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 13. § (2) bekezdés d) és h) pontja szerint módosított szöveg.
+[^27]: A 15. § (3) bekezdése a 81/2012. (XII. 28.) BM rendelet 13. § (2) bekezdés d) és h) pontja szerint módosított szöveg.

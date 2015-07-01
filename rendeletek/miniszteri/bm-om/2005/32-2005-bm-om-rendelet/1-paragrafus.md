@@ -6,13 +6,18 @@
 
 a)[^2] szakközépiskola: a rendőrség hivatásos állományú tiszthelyettesei utánpótlását biztosító, a felnőttoktatás szabályai szerint szakképzést végző szakközépiskola;
 
-b) szakközépiskolai tanuló: a szakközépiskolába felvételt nyert és beiratkozott, rendvédelmi pályára készülő személy;
+b)[^3] tanuló:
 
-c)[^3] szakközépiskolai pedagógus: az a szakközépiskolával foglalkoztatási jogviszonyban álló közalkalmazott, vagy a szakközépiskolába vezényelt hivatásos állományú személy, aki az Nkt. 61. §-ában és 66. §-ában megfogalmazott szakképzettséggel, iskolai végzettséggel és szakképesítéssel rendelkezik, valamint az alkalmazási feltételeknek megfelel, és a tanulók nevelését, oktatását végzi (a továbbiakban: pedagógus);
+ba) ösztöndíjas tanuló: a szakközépiskolába felvételt nyert és beiratkozott, rendvédelmi pályára készülő személy;
 
-d)[^4] gyakorlati képzés: a szakközépiskolában folytatott gyakorlati oktatás, valamint a rendőrség kijelölt szerveinél végrehajtott területi szakmai gyakorlat.
+bb) kettős jogállású tanuló: tanulmányai alatt a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 49. § (4) bekezdése alapján hivatásos állományba kinevezett személy;
+
+c)[^4] szakközépiskolai pedagógus: az a szakközépiskolával foglalkoztatási jogviszonyban álló közalkalmazott, vagy a szakközépiskolába vezényelt hivatásos állományú személy, aki az Nkt. 61. §-ában és 66. §-ában megfogalmazott szakképzettséggel, iskolai végzettséggel és szakképesítéssel rendelkezik, valamint az alkalmazási feltételeknek megfelel, és a tanulók nevelését, oktatását végzi (a továbbiakban: pedagógus);
+
+d)[^5] gyakorlati képzés: a szakközépiskolában folytatott gyakorlati oktatás, valamint a rendőrség kijelölt szerveinél végrehajtott területi szakmai gyakorlat.
 
 [^1]: Az 1. § (1) bekezdése a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (2)–(3) bekezdése, a 81/2012. (XII. 28.) BM rendelet 13. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdésének a) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdés c) pontja a 81/2012. (XII. 28.) BM rendelet 13. § (1) bekezdés b) pontja és (2) bekezdés a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (2) bekezdésének d) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontja a 37/2015. (VI. 16.) BM rendelet 18. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés c) pontja a 81/2012. (XII. 28.) BM rendelet 13. § (1) bekezdés b) pontja és (2) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdésének d) pontja a 35/2009. (VIII. 31.) IRM–OKM együttes rendelet 6. § (2) bekezdése szerint módosított szöveg.
