@@ -1,6 +1,6 @@
 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
-A törvényszékek, a járásbíróságok és a közigazgatási és munkaügyi bíróságok illetékességi területe
+A törvényszékek, a járásbíróságok, valamint a közigazgatási és munkaügyi bíróságok illetékességi területe
 
 1. FŐVÁROSI TÖRVÉNYSZÉK (székhelye: Budapest)
 
@@ -84,8 +84,6 @@ Budapest II. kerület
 
 Budapest III. kerület
 
-|
-
 1/4. Budapesti IV. és XV. Kerületi Bíróság
 
 |
@@ -96,8 +94,6 @@ Budapest IV. kerület
 
 Budapest XV. kerület
 
-|
-
 1/5. Budapesti XVIII. és XIX. Kerületi Bíróság
 
 |
@@ -107,8 +103,6 @@ Budapest XVIII. kerület
 |
 
 Budapest XIX. kerület
-
-|
 
 1/6. Budapesti XX., XXI. és XXIII. Kerületi Bíróság
 
@@ -130,10 +124,6 @@ Budapest XXIII. kerület
 
 Főváros területe
 
-|
-
-|
-
 2. PÉCSI TÖRVÉNYSZÉK (székhelye: Pécs)
 
 2/1. Pécsi Járásbíróság
@@ -145,6 +135,10 @@ Abaliget
 |
 
 Aranyosgadány
+
+|
+
+Áta
 
 |
 
@@ -164,7 +158,15 @@ Bogád
 
 |
 
+Bosta
+
+|
+
 Cserkút
+
+|
+
+Egerág
 
 |
 
@@ -180,11 +182,19 @@ Gyód
 
 |
 
+Hosszúhetény
+
+|
+
 Husztót
 
 |
 
 Keszü
+
+|
+
+Kisherend
 
 |
 
@@ -204,7 +214,7 @@ Kővágószőlős
 
 |
 
-Kővágótőttős
+Kővágótöttös
 
 |
 
@@ -224,6 +234,10 @@ Orfű
 
 |
 
+Ócsárd
+
+|
+
 Pellérd
 
 |
@@ -238,33 +252,27 @@ Pécs
 
 Pécsudvard
 
+Romonya
+
+Szilágy
+
+Szőkéd
+
 |
 
 Pogány
+
+Szalánta
+
+Szilvás
 
 |
 
 Regenye
 
-|
-
-Romonya
-
-|
-
 Szemely
 
-|
-
-Szilágy
-
-|
-
 Szőke
-
-|
-
-|
 
 2/2. Komlói Járásbíróság
 
@@ -310,7 +318,19 @@ Erdősmecske
 
 |
 
+Erzsébet
+
+|
+
+Fazekasboda
+
+|
+
 Felsőegerszeg
+
+|
+
+Geresdlak
 
 |
 
@@ -330,11 +350,15 @@ Hidas
 
 |
 
-Hosszúhetény
+Kárász
 
 |
 
-Kárász
+Kátoly
+
+|
+
+Kékesd
 
 |
 
@@ -462,6 +486,10 @@ Szászvár
 
 |
 
+Szellő
+
+|
+
 Tarrós
 
 |
@@ -495,6 +523,8 @@ Vékény
 |
 
 Zengővárkony
+
+|
 
 2/3. Mohácsi Járásbíróság
 
@@ -532,19 +562,7 @@ Erdősmárok
 
 |
 
-Erzsébet
-
-|
-
-Fazekasboda
-
-|
-
 Feked
-
-|
-
-Geresdlak
 
 |
 
@@ -565,14 +583,6 @@ Homorúd
 |
 
 Ivándárda
-
-|
-
-Kátoly
-
-|
-
-Kékesd
 
 |
 
@@ -664,10 +674,6 @@ Szederkény
 
 |
 
-Szellő
-
-|
-
 Székelyszabar
 
 |
@@ -690,6 +696,12 @@ Versend
 
 Véménd
 
+|
+
+|
+
+|
+
 2/4. Siklósi Járásbíróság
 
 |
@@ -699,10 +711,6 @@ Adorjás
 |
 
 Alsószentmárton
-
-|
-
-Áta
 
 |
 
@@ -734,7 +742,7 @@ Bogádmindszent
 
 |
 
-Bosta
+Bogdása
 
 |
 
@@ -762,7 +770,15 @@ Drávacsepely
 
 |
 
+Drávafok
+
+|
+
 Drávaiványi
+
+|
+
+Drávakeresztúr
 
 |
 
@@ -786,11 +802,11 @@ Drávasztára
 
 |
 
-Egerág
+Egyházasharaszti
 
 |
 
-Egyházasharaszti
+Felsőszentmárton
 
 |
 
@@ -818,7 +834,7 @@ Hirics
 
 |
 
-Illocska
+Ilocska
 
 |
 
@@ -855,10 +871,6 @@ Kisdér
 |
 
 Kisharsány
-
-|
-
-Kisherend
 
 |
 
@@ -914,6 +926,10 @@ Magyartelek
 
 |
 
+Markóc
+
+|
+
 Marócsa
 
 |
@@ -939,10 +955,6 @@ Nagyharsány
 |
 
 Nagytótfalu
-
-|
-
-Ócsárd
 
 |
 
@@ -1006,23 +1018,11 @@ Sósvertike
 
 |
 
-Szalánta
-
-|
-
 Szaporca
 
 |
 
 Szava
-
-|
-
-Szilvás
-
-|
-
-Szőkéd
 
 |
 
@@ -1100,10 +1100,6 @@ Boda
 
 |
 
-Bogdása
-
-|
-
 Boldogasszonyfa
 
 |
@@ -1144,19 +1140,7 @@ Dinnyeberki
 
 |
 
-Drávafok
-
-|
-
-Drávakeresztúr
-
-|
-
 Endrőc
-
-|
-
-Felsőszentmárton
 
 |
 
@@ -1217,10 +1201,6 @@ Kistamási
 |
 
 Magyarlukafa
-
-|
-
-Markóc
 
 |
 
@@ -1360,15 +1340,15 @@ Zók
 
 |
 
+|
+
+|
+
 2/6. Pécsi Közigazgatási és Munkaügyi Bíróság
 
 |
 
 Baranya megye
-
-|
-
-|
 
 3. KECSKEMÉTI TÖRVÉNYSZÉK (székhelye: Kecskemét)
 
@@ -1392,11 +1372,11 @@ Fülöpháza
 
 |
 
-Helvécia
+Fülöpjakab
 
 |
 
-Izsák
+Helvécia
 
 |
 
@@ -1413,6 +1393,10 @@ Kerekegyháza
 |
 
 Kunbaracs
+
+|
+
+Kunszállás
 
 |
 
@@ -1440,6 +1424,10 @@ Szentkirály
 
 |
 
+Tiszaalpár
+
+|
+
 Tiszakécske
 
 |
@@ -1449,10 +1437,6 @@ Tiszaug
 |
 
 Városföld
-
-|
-
-|
 
 3/2. Bajai Járásbíróság
 
@@ -1470,7 +1454,7 @@ Bácsbokod
 
 |
 
-Bácsborsod
+Bácsborsód
 
 |
 
@@ -1483,10 +1467,6 @@ Bácsszőlős
 |
 
 Bátmonostor
-
-|
-
-Borota
 
 |
 
@@ -1554,10 +1534,6 @@ Nemesnádudvar
 
 |
 
-Rém
-
-|
-
 Sükösd
 
 |
@@ -1571,6 +1547,10 @@ Tataháza
 |
 
 Vaskút
+
+|
+
+|
 
 |
 
@@ -1688,6 +1668,10 @@ Imrehegy
 
 |
 
+Izsák
+
+|
+
 Kaskantyú
 
 |
@@ -1718,8 +1702,6 @@ Tabdi
 
 Tázlár
 
-|
-
 3/5. Kiskunfélegyházi Járásbíróság
 
 |
@@ -1732,19 +1714,11 @@ Bugacpusztaháza
 
 |
 
-Fülöpjakab
-
-|
-
 Gátér
 
 |
 
 Kiskunfélegyháza
-
-|
-
-Kunszállás
 
 |
 
@@ -1756,13 +1730,19 @@ Petőfiszállás
 
 |
 
-Tiszaalpár
+|
+
+|
 
 3/6. Kiskunhalasi Járásbíróság
 
 |
 
 Balotaszállás
+
+|
+
+Borota
 
 |
 
@@ -1820,17 +1800,17 @@ Móricgát
 
 Pirtó
 
-|
-
-Szank
-
-|
-
 Tompa
 
 |
 
+Rém
+
 Zsana
+
+|
+
+Szank
 
 3/7. Kunszentmiklósi Járásbíróság
 
@@ -1876,13 +1856,13 @@ Tass
 
 Bács-Kiskun megye
 
-|
-
-|
-
 4. GYULAI TÖRVÉNYSZÉK (székhelye: Gyula)
 
 4/1. Gyulai Járásbíróság
+
+|
+
+Biharugra
 
 |
 
@@ -1902,6 +1882,10 @@ Kétegyháza
 
 |
 
+Körösnagyharsány
+
+|
+
 Kötegyán
 
 |
@@ -1916,19 +1900,19 @@ Mezőgyán
 
 Méhkerék
 
-|
-
-Sarkad
-
-|
-
 Sarkadkeresztúr
 
 |
 
+Okány
+
 Újszalonta
 
 |
+
+Sarkad
+
+Zsadány
 
 4/2. Battonyai Járásbíróság
 
@@ -1982,6 +1966,10 @@ Medgyesegyháza
 
 |
 
+Medgyesegyháza-Bánkút
+
+|
+
 Mezőhegyes
 
 |
@@ -2002,7 +1990,13 @@ Pusztaottlaka
 
 |
 
+Pusztaszőlős
+
+|
+
 Végegyháza
+
+|
 
 4/3. Békési Járásbíróság
 
@@ -2013,10 +2007,6 @@ Békés
 |
 
 Bélmegyer
-
-|
-
-Csárdaszállás
 
 |
 
@@ -2040,7 +2030,7 @@ Tarhos
 
 |
 
-Vésztő
+|
 
 4/4. Békéscsabai Járásbíróság
 
@@ -2070,10 +2060,6 @@ Kétsoprony
 
 |
 
-Kondoros
-
-|
-
 Szabadkígyós
 
 |
@@ -2083,6 +2069,8 @@ Telekgerendás
 |
 
 Újkígyós
+
+|
 
 |
 
@@ -2136,6 +2124,10 @@ Csabacsüd
 
 |
 
+Csárdaszállás
+
+|
+
 Dévaványa
 
 |
@@ -2150,23 +2142,19 @@ Gyomaendrőd
 
 Hunya
 
-|
-
-Kardos
-
-|
-
 Örménykút
 
 |
 
-Szarvas
+Kardos
 
-4/7. Szeghalmi Járásbíróság
+Szarvas
 
 |
 
-Biharugra
+Kondoros
+
+4/7. Szeghalmi Járásbíróság
 
 |
 
@@ -2186,15 +2174,7 @@ Körösladány
 
 |
 
-Körösnagyharsány
-
-|
-
 Körösújfalu
-
-|
-
-Okány
 
 |
 
@@ -2202,7 +2182,13 @@ Szeghalom
 
 |
 
-Zsadány
+Vésztő
+
+|
+
+|
+
+|
 
 |
 
@@ -2213,10 +2199,6 @@ Zsadány
 |
 
 Békés megye
-
-|
-
-|
 
 5. MISKOLCI TÖRVÉNYSZÉK (székhelye: Miskolc)
 
@@ -2284,15 +2266,15 @@ Kondó
 
 |
 
+Köröm
+
+|
+
 Mályi
 
 |
 
 Miskolc
-
-|
-
-Muhi
 
 |
 
@@ -2364,15 +2346,19 @@ Sajóvámos
 
 |
 
+Sóstófalva
+
+|
+
 Szirmabesenyő
 
 |
 
+Újcsanálos
+
+|
+
 Varbó
-
-|
-
-|
 
 5/2. Encsi Járásbíróság
 
@@ -2386,7 +2372,15 @@ Abaújkér
 
 |
 
+Abaújszántó
+
+|
+
 Abaújvár
+
+|
+
+Alsógagy
 
 |
 
@@ -2394,7 +2388,15 @@ Arka
 
 |
 
+Baktakék
+
+|
+
 Baskó
+
+|
+
+Beret
 
 |
 
@@ -2406,7 +2408,23 @@ Boldogkőváralja
 
 |
 
+Büttös
+
+|
+
 Encs
+
+|
+
+Csenyéte
+
+|
+
+Csobád
+
+|
+
+Detek
 
 |
 
@@ -2415,6 +2433,14 @@ Fancsal
 |
 
 Fáj
+
+|
+
+Felsődobsza
+
+|
+
+Felsőgagy
 
 |
 
@@ -2430,11 +2456,19 @@ Fulókércs
 
 |
 
+Gagyapáti
+
+|
+
 Garadna
 
 |
 
-Gibár
+Gibárt
+
+|
+
+Golop
 
 |
 
@@ -2482,7 +2516,15 @@ Ináncs
 
 |
 
+Kány
+
+|
+
 Kéked
+
+|
+
+Keresztéte
 
 |
 
@@ -2490,67 +2532,47 @@ Korlát
 
 |
 
-Méra
-
-|
+Krasznokvajda
 
 Mogyoróska
 
-|
-
-Novajidrány
-
-|
-
-Pányok
-
-|
-
 Pere
-
-|
-
-Pusztaradvány
-
-|
 
 Regéc
 
-|
-
-Sima
-
-|
-
-Szalaszend
-
-|
-
 Szemere
 
-|
-
-Telkibánya
-
-|
-
 Tornyosnémeti
-
-|
-
-Vilmány
-
-|
-
-Vizsoly
-
-|
 
 Zsujta
 
 |
 
+Litka
+
+Novajidrány
+
+Perecse
+
+Sima
+
+Tállya
+
+Vilmány
+
 |
+
+Méra
+
+Pányok
+
+Pusztaradvány
+
+Szalaszend
+
+Telkibánya
+
+Vizsoly
 
 5/3. Kazincbarcikai Járásbíróság
 
@@ -2560,15 +2582,7 @@ Abod
 
 |
 
-Aggtelek
-
-|
-
 Alacska
-
-|
-
-Alsószuha
 
 |
 
@@ -2624,23 +2638,11 @@ Dédestapolcsány
 
 |
 
-Dövény
-
-|
-
 Edelény
 
 |
 
 Égerszög
-
-|
-
-Felsőkelecsény
-
-|
-
-Felsőnyárád
 
 |
 
@@ -2664,10 +2666,6 @@ Hidvégardó
 
 |
 
-Imola
-
-|
-
 Irota
 
 |
@@ -2676,19 +2674,7 @@ Izsófalva
 
 |
 
-Jákfalva
-
-|
-
-Jósvafő
-
-|
-
 Kazincbarcika
-
-|
-
-Kánó
 
 |
 
@@ -2737,10 +2723,6 @@ Ormosbánya
 |
 
 Perkupa
-
-|
-
-Ragály
 
 |
 
@@ -2808,10 +2790,6 @@ Szőlősardó
 
 |
 
-Szuhafő
-
-|
-
 Szuhakálló
 
 |
@@ -2852,10 +2830,6 @@ Tornaszentjakab
 
 |
 
-Trizs
-
-|
-
 Vadna
 
 |
@@ -2868,15 +2842,11 @@ Viszló
 
 |
 
-Zádorfalva
-
-|
-
 Ziliz
 
 |
 
-Zubogy
+|
 
 5/4. Mezőkövesdi Járásbíróság
 
@@ -2978,6 +2948,14 @@ Vatta
 
 |
 
+Aggtelek
+
+|
+
+Alsószuha
+
+|
+
 Arló
 
 |
@@ -3014,11 +2992,23 @@ Domaháza
 
 |
 
+Dövény
+
+|
+
 Dubicsány
 
 |
 
 Farkaslyuk
+
+|
+
+Felsőkelecsény
+
+|
+
+Felsőnyárád
 
 |
 
@@ -3034,7 +3024,23 @@ Hét
 
 |
 
+Imola
+
+|
+
+Jákfalva
+
+|
+
 Járdánháza
+
+|
+
+Jósvafő
+
+|
+
+Kánó
 
 |
 
@@ -3052,47 +3058,39 @@ Kissikátor
 
 Lénárddaróc
 
+Putnok
+
+Sajónémeti
+
+Sáta
+
+Trizs
+
+Zubogy
+
 |
 
 Nekézseny
+
+Ragály
+
+Sajópüspöki
+
+Serényfalva
+
+Uppony
 
 |
 
 Ózd
 
-|
-
-Putnok
-
-|
-
 Sajómercse
-
-|
-
-Sajónémeti
-
-|
-
-Sajópüspöki
-
-|
 
 Sajóvelezd
 
-|
+Szuhafő
 
-Sáta
-
-|
-
-Serényfalva
-
-|
-
-Uppony
-
-|
+Zádorfalva
 
 5/6. Sátoraljaújhelyi Járásbíróság
 
@@ -3312,10 +3310,6 @@ Zemplénagárd
 
 |
 
-Abaújszántó
-
-|
-
 Alsódobsza
 
 |
@@ -3337,10 +3331,6 @@ Csobaj
 |
 
 Erdőbénye
-
-|
-
-Golop
 
 |
 
@@ -3369,10 +3359,6 @@ Prügy
 |
 
 Rátka
-
-|
-
-Sóstófalva
 
 |
 
@@ -3408,10 +3394,6 @@ Tarcal
 
 |
 
-Tállya
-
-|
-
 Tiszaladány
 
 |
@@ -3428,7 +3410,7 @@ Tokaj
 
 |
 
-Újcsanálos
+|
 
 5/8. Szikszói Járásbíróság
 
@@ -3442,10 +3424,6 @@ Abaújszolnok
 
 |
 
-Alsógagy
-
-|
-
 Alsóvadász
 
 |
@@ -3454,47 +3432,11 @@ Aszaló
 
 |
 
-Baktakék
-
-|
-
-Beret
-
-|
-
-Büttös
-
-|
-
-Csenyéte
-
-|
-
-Csobád
-
-|
-
-Detek
-
-|
-
-Felsődobsza
-
-|
-
-Felsőgagy
-
-|
-
 Felsővadász
 
 |
 
 Gadna
-
-|
-
-Gagyapáti
 
 |
 
@@ -3518,23 +3460,11 @@ Homrogd
 
 |
 
-Kány
-
-|
-
 Kázsmárk
 
 |
 
-Keresztéte
-
-|
-
 Kiskinizs
-
-|
-
-Krasznokvajda
 
 |
 
@@ -3543,10 +3473,6 @@ Kupa
 |
 
 Léh
-
-|
-
-Litka
 
 |
 
@@ -3563,10 +3489,6 @@ Nyésta
 |
 
 Pamlény
-
-|
-
-Perecse
 
 |
 
@@ -3636,11 +3558,11 @@ Kiscsécs
 
 |
 
-Köröm
+Mezőcsát
 
 |
 
-Mezőcsát
+Muhi
 
 |
 
@@ -3692,10 +3614,6 @@ Tiszaújváros
 
 Borsod-Abaúj-Zemplén megye
 
-|
-
-|
-
 6. SZEGEDI TÖRVÉNYSZÉK (székhelye: Szeged)
 
 6/1. Szegedi Járásbíróság
@@ -3738,11 +3656,19 @@ Dóc
 
 |
 
+Ferencszállás
+
+|
+
 Forráskút
 
 |
 
 Kistelek
+
+|
+
+Klárafalva
 
 |
 
@@ -3792,21 +3718,17 @@ Szeged
 
 Tiszasziget
 
-|
-
-Újszentiván
-
-|
-
-Üllés
-
-|
-
 Zákányszék
 
 |
 
+Újszentiván
+
 Zsombó
+
+|
+
+Üllés
 
 6/2. Csongrádi Járásbíróság
 
@@ -3872,10 +3794,6 @@ Csanádpalota
 
 |
 
-Ferencszállás
-
-|
-
 Földeák
 
 |
@@ -3885,10 +3803,6 @@ Királyhegyes
 |
 
 Kiszombor
-
-|
-
-Klárafalva
 
 |
 
@@ -3921,6 +3835,10 @@ Nagylak
 |
 
 Pitvaros
+
+|
+
+|
 
 |
 
@@ -3965,10 +3883,6 @@ Szentes
 |
 
 Csongrád megye
-
-|
-
-|
 
 7. SZÉKESFEHÉRVÁRI TÖRVÉNYSZÉK (székhelye: Székesfehérvár)
 
@@ -4016,7 +3930,15 @@ Csősz
 
 |
 
+Dég
+
+|
+
 Enying
+
+|
+
+Ercsi
 
 |
 
@@ -4036,6 +3958,10 @@ Gyúró
 
 |
 
+Igar
+
+|
+
 Iszkaszentgyörgy
 
 |
@@ -4049,6 +3975,10 @@ Jenő
 |
 
 Kajászó
+
+|
+
+Káloz
 
 |
 
@@ -4068,11 +3998,11 @@ Kőszárhegy
 
 |
 
-Lepsény
+Lajoskomárom
 
 |
 
-Lovasberény
+Lepsény
 
 |
 
@@ -4088,7 +4018,15 @@ Mátyásdomb
 
 |
 
+Mezőkomárom
+
+|
+
 Mezőszentgyörgy
+
+|
+
+Mezőszilas
 
 |
 
@@ -4122,21 +4060,23 @@ Pátka
 
 Pázmánd
 
+Ráckeresztúr
+
 |
 
 Polgárdi
-
-|
-
-Pusztavám
-
-|
 
 Sárkeresztes
 
 |
 
+Pusztavám
+
 Sárkeszi
+
+|
+
+Sárosd
 
 |
 
@@ -4164,6 +4104,14 @@ Szabadbattyán
 
 |
 
+Szabadegyháza
+
+|
+
+Szabadhídvég
+
+|
+
 Székesfehérvár
 
 |
@@ -4180,6 +4128,10 @@ Tordas
 
 |
 
+Vál
+
+|
+
 Velence
 
 |
@@ -4193,10 +4145,6 @@ Zámoly
 |
 
 Zichyújfalu
-
-|
-
-|
 
 7/2. Bicskei Járásbíróság
 
@@ -4228,41 +4176,41 @@ Etyek
 
 Felcsút
 
+Mány
+
+Tabajd
+
+Vértesboglár
+
 |
 
 Gánt
 
-|
-
-Mány
-
-|
-
 Óbarok
-
-|
-
-Szár
-
-|
-
-Tabajd
-
-|
 
 Újbarok
 
 |
 
-Vál
+Lovasberény
 
-|
+Szár
 
 Vértesacsa
 
 |
 
-Vértesboglár
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 |
 
@@ -4297,10 +4245,6 @@ Dunaújváros
 |
 
 Előszállás
-
-|
-
-Ercsi
 
 |
 
@@ -4340,7 +4284,7 @@ Rácalmás
 
 |
 
-Ráckeresztúr
+|
 
 7/4. Sárbogárdi Járásbíróság
 
@@ -4358,31 +4302,7 @@ Cece
 
 |
 
-Dég
-
-|
-
 Hantos
-
-|
-
-Igar
-
-|
-
-Káloz
-
-|
-
-Lajoskomárom
-
-|
-
-Mezőkomárom
-
-|
-
-Mezőszilas
 
 |
 
@@ -4402,19 +4322,7 @@ Sárkeresztúr
 
 |
 
-Sárosd
-
-|
-
 Sárszentágota
-
-|
-
-Szabadegyháza
-
-|
-
-Szabadhidvég
 
 |
 
@@ -4429,10 +4337,6 @@ Vajta
 |
 
 Fejér megye
-
-|
-
-|
 
 8. GYŐRI TÖRVÉNYSZÉK (székhelye: Győr)
 
@@ -4636,6 +4540,10 @@ Maglóca
 
 |
 
+Magyarkeresztúr
+
+|
+
 Markotabödöge
 
 |
@@ -4649,6 +4557,10 @@ Mérges
 |
 
 Mórichida
+
+|
+
+Mosonszentmiklós
 
 |
 
@@ -4826,10 +4738,6 @@ Vének
 
 Zsebeháza
 
-|
-
-|
-
 8/2. Mosonmagyaróvári Járásbíróság
 
 |
@@ -4914,10 +4822,6 @@ Mosonmagyaróvár
 
 |
 
-Mosonszentmiklós
-
-|
-
 Mosonszolnok
 
 |
@@ -4939,6 +4843,8 @@ Rajka
 |
 
 Várbalog
+
+|
 
 8/3. Soproni Járásbíróság
 
@@ -5068,10 +4974,6 @@ Lövő
 
 |
 
-Magyarkeresztúr
-
-|
-
 Mihályi
 
 |
@@ -5180,21 +5082,13 @@ Zsira
 
 |
 
+|
+
 8/4. Győri Közigazgatási és Munkaügyi Bíróság
 
 |
 
 Győr-Moson-Sopron megye
-
-|
-
-|
-
-|
-
-|
-
-|
 
 9. DEBRECENI TÖRVÉNYSZÉK (székhelye: Debrecen)
 
@@ -5552,16 +5446,6 @@ Tetétlen
 
 Hajdú-Bihar megye
 
-|
-
-|
-
-|
-
-|
-
-|
-
 10. EGRI TÖRVÉNYSZÉK (székhelye: Eger)
 
 10/1. Egri Járásbíróság
@@ -5637,6 +5521,10 @@ Erdőkövesd
 |
 
 Fedémes
+
+|
+
+Feldebrő
 
 |
 
@@ -5764,8 +5652,6 @@ Verpelét
 
 |
 
-|
-
 10/2. Füzesabonyi Járásbíróság
 
 |
@@ -5783,10 +5669,6 @@ Dormánd
 |
 
 Egerfarmos
-
-|
-
-Feldebrő
 
 |
 
@@ -5835,6 +5717,8 @@ Tófalu
 |
 
 Újlőrincfalva
+
+|
 
 |
 
@@ -6080,10 +5964,6 @@ Zaránk
 
 Heves megye
 
-|
-
-|
-
 11. SZOLNOKI TÖRVÉNYSZÉK (székhelye: Szolnok)
 
 11/1. Szolnoki Járásbíróság
@@ -6154,10 +6034,6 @@ Tiszabő
 
 |
 
-Tiszaföldvár
-
-|
-
 Tiszagyenda
 
 |
@@ -6203,6 +6079,8 @@ Vezseny
 |
 
 Zagyvarékas
+
+|
 
 |
 
@@ -6326,14 +6204,6 @@ Kunszentmárton
 
 |
 
-Mesterszállás
-
-|
-
-Mezőhék
-
-|
-
 Nagyrév
 
 |
@@ -6343,6 +6213,10 @@ Nagyrév
 |
 
 Szelevény
+
+|
+
+Tiszaföldvár
 
 |
 
@@ -6356,19 +6230,25 @@ Tiszakürt
 
 Tiszasas
 
+|
+
 11/5. Mezőtúri Járásbíróság
 
 |
 
 Kétpó
 
-|
-
 Mezőtúr
 
 |
 
+Mesterszállás
+
 Túrkeve
+
+|
+
+Mezőhék
 
 11/6. Tiszafüredi Járásbíróság
 
@@ -6421,10 +6301,6 @@ Tomajmonostora
 |
 
 Jász-Nagykun-Szolnok megye
-
-|
-
-|
 
 12. TATABÁNYAI TÖRVÉNYSZÉK (székhelye: Tatabánya)
 
@@ -6756,10 +6632,6 @@ Vértestolna
 
 Komárom-Esztergom megye
 
-|
-
-|
-
 13. BALASSAGYARMATI TÖRVÉNYSZÉK (székhelye: Balassagyarmat)
 
 13/1. Balassagyarmati Járásbíróság
@@ -6871,10 +6743,6 @@ Ipolyszög
 |
 
 Ipolyvece
-
-|
-
-Karancsság
 
 |
 
@@ -6990,10 +6858,6 @@ Romhány
 
 |
 
-Ságújfalu
-
-|
-
 Szalmatercs
 
 |
@@ -7043,6 +6907,10 @@ Tolmács
 |
 
 Varsány
+
+|
+
+|
 
 |
 
@@ -7204,6 +7072,10 @@ Karancslapujtő
 
 |
 
+Karancsság
+
+|
+
 Kazár
 
 |
@@ -7268,6 +7140,10 @@ Rákóczibánya
 
 |
 
+Ságújfalu
+
+|
+
 Salgótarján
 
 |
@@ -7286,6 +7162,8 @@ Sóshartyán
 
 Szilaspogony
 
+Zabar
+
 |
 
 Szuha
@@ -7294,21 +7172,11 @@ Szuha
 
 Vizslás
 
-|
-
-Zabar
-
-|
-
 13/4. Salgótarjáni Közigazgatási és Munkaügyi Bíróság
 
 |
 
 Nógrád megye
-
-|
-
-|
 
 14. BUDAPEST KÖRNYÉKI TÖRVÉNYSZÉK (székhelye: Budapest)
 
@@ -7610,15 +7478,11 @@ Vácegres
 
 |
 
-Váckisújfalu
-
-|
-
 Vácszentlászló
 
 |
 
-Veresegyház
+Veresegyháza
 
 |
 
@@ -7627,6 +7491,8 @@ Verseg
 |
 
 Zsámbok
+
+|
 
 14/6. Monori Járásbíróság
 
@@ -8042,19 +7908,21 @@ Váchartyán
 
 |
 
+Váckisújfalu
+
+Verőce
+
+|
+
 Vácrátót
+
+Zebegény
 
 |
 
 Vámosmikola
 
 |
-
-Verőce
-
-|
-
-Zebegény
 
 |
 
@@ -8111,8 +7979,6 @@ Törökbálint
 |
 
 Pest megye
-
-|
 
 |
 
@@ -8362,6 +8228,10 @@ Somogyaszaló
 
 |
 
+Somogyfajsz
+
+|
+
 Somogygeszti
 
 |
@@ -8427,8 +8297,6 @@ Zselickislak
 |
 
 Zselicszentpál
-
-|
 
 15/2. Barcsi Járásbíróság
 
@@ -8574,6 +8442,10 @@ Hács
 
 |
 
+Karád
+
+|
+
 Kisberény
 
 |
@@ -8619,8 +8491,6 @@ Szőlősgyörök
 |
 
 Visz
-
-|
 
 15/4. Marcali Járásbíróság
 
@@ -8722,10 +8592,6 @@ Sávoly
 
 |
 
-Somogyfajsz
-
-|
-
 Somogysámson
 
 |
@@ -8766,7 +8632,7 @@ Tikos
 
 |
 
-Varászló
+Varázsló
 
 |
 
@@ -8775,6 +8641,8 @@ Vése
 |
 
 Vörs
+
+|
 
 |
 
@@ -8832,17 +8700,23 @@ Inke
 
 Kaszó
 
-Lábod
-
 |
 
 Kisbajom
 
-Nagyatád
-
 |
 
 Kutas
+
+|
+
+Lábod
+
+|
+
+Nagyatád
+
+|
 
 Nagykorpád
 
@@ -8918,12 +8792,6 @@ Zákány
 
 Zsákányfalu
 
-|
-
-|
-
-|
-
 15/6. Siófoki Járásbíróság
 
 |
@@ -8985,10 +8853,6 @@ Fiad
 |
 
 Kapoly
-
-|
-
-Karád
 
 |
 
@@ -9126,13 +8990,13 @@ Zics
 
 |
 
+|
+
 15/7. Kaposvári Közigazgatási és Munkaügyi Bíróság
 
 |
 
 Somogy megye
-
-|
 
 |
 
@@ -9150,7 +9014,15 @@ Baktalórántháza
 
 |
 
+Balkány
+
+|
+
 Balsa
+
+|
+
+Berkesz
 
 |
 
@@ -9186,11 +9058,19 @@ Gávavencsellő
 
 |
 
+Gégény
+
+|
+
 Geszteréd
 
 |
 
 Ibrány
+
+|
+
+Kállósemjén
 
 |
 
@@ -9207,6 +9087,10 @@ Kék
 |
 
 Kótaj
+
+|
+
+Laskod
 
 |
 
@@ -9270,7 +9154,15 @@ Nyírtura
 
 |
 
+Ófehértó
+
+|
+
 Paszab
+
+|
+
+Petneháza
 
 |
 
@@ -9282,11 +9174,19 @@ Ramocsaháza
 
 |
 
+Rohod
+
+|
+
 Sényő
 
 |
 
 Szabolcs
+
+|
+
+Szakoly
 
 |
 
@@ -9516,6 +9416,10 @@ Tisztaberek
 
 |
 
+Tivadar
+
+|
+
 Tunyogmatolcs
 
 |
@@ -9544,8 +9448,6 @@ Zsarolyán
 
 |
 
-|
-
 16/3. Kisvárdai Járásbíróság
 
 |
@@ -9562,10 +9464,6 @@ Benk
 
 |
 
-Berkesz
-
-|
-
 Dombrád
 
 |
@@ -9579,10 +9477,6 @@ Eperjeske
 |
 
 Fényeslitke
-
-|
-
-Gégény
 
 |
 
@@ -9607,10 +9501,6 @@ Kisvárda
 |
 
 Komoró
-
-|
-
-Laskod
 
 |
 
@@ -9643,10 +9533,6 @@ Pap
 |
 
 Pátroha
-
-|
-
-Petneháza
 
 |
 
@@ -9699,6 +9585,8 @@ Záhony
 |
 
 Zsurk
+
+|
 
 |
 
@@ -9814,10 +9702,6 @@ Rápolt
 
 |
 
-Rohod
-
-|
-
 Szamosangyalos
 
 |
@@ -9858,11 +9742,9 @@ Vállaj
 
 |
 
-16/5. Nyírbátori Járásbíróság
-
 |
 
-Balkány
+16/5. Nyírbátori Járásbíróság
 
 |
 
@@ -9871,10 +9753,6 @@ Bátorliget
 |
 
 Encsencs
-
-|
-
-Kállósemjén
 
 |
 
@@ -9930,10 +9808,6 @@ Nyírvasvári
 
 |
 
-Ófehértó
-
-|
-
 Ömböly
 
 |
@@ -9950,11 +9824,15 @@ Pócspetri
 
 |
 
-Szakoly
+Terem
 
 |
 
-Terem
+|
+
+|
+
+|
 
 16/6. Vásárosnaményi Járásbíróság
 
@@ -10064,10 +9942,6 @@ Tiszavid
 
 |
 
-Tivadar
-
-|
-
 Vámosatya
 
 |
@@ -10076,15 +9950,13 @@ Vásárosnamény
 
 |
 
+|
+
 16/7. Nyíregyházi Közigazgatási és Munkaügyi Bíróság
 
 |
 
 Szabolcs-Szatmár-Bereg megye
-
-|
-
-|
 
 17. SZEKSZÁRDI TÖRVÉNYSZÉK (székhelye: Szekszárd)
 
@@ -10168,15 +10040,13 @@ Szekszárd
 
 |
 
-Tengelic
-
-|
-
 Tolna
 
 |
 
 Várdomb
+
+|
 
 |
 
@@ -10206,10 +10076,6 @@ Cikó
 
 |
 
-Dúzs
-
-|
-
 Felsőnána
 
 |
@@ -10222,19 +10088,11 @@ Györe
 
 |
 
-Hőgyész
-
-|
-
 Izmény
 
 |
 
 Kakasd
-
-|
-
-Kalaznó
 
 |
 
@@ -10270,10 +10128,6 @@ Mucsfa
 
 |
 
-Mucsi
-
-|
-
 Murga
 
 |
@@ -10299,6 +10153,8 @@ Závod
 |
 
 Zomba
+
+|
 
 |
 
@@ -10432,6 +10288,8 @@ Sárszentlőrinc
 
 |
 
+Tengelic
+
 17/5. Tamási Járásbíróság
 
 |
@@ -10441,6 +10299,10 @@ Belecska
 |
 
 Diósberény
+
+|
+
+Dúzs
 
 |
 
@@ -10460,7 +10322,15 @@ Gyönk
 
 |
 
+Hőgyész
+
+|
+
 Iregszemcse
+
+|
+
+Kalaznó
 
 |
 
@@ -10481,6 +10351,10 @@ Magyarkeszi
 |
 
 Miszla
+
+|
+
+Mucsi
 
 |
 
@@ -10548,17 +10422,11 @@ Varsád
 
 |
 
-|
-
 17/6. Szekszárdi Közigazgatási és Munkaügyi Bíróság
 
 |
 
 Tolna megye
-
-|
-
-|
 
 18. SZOMBATHELYI TÖRVÉNYSZÉK (székhelye: Szombathely)
 
@@ -11064,6 +10932,8 @@ Velemér
 
 |
 
+Viszák
+
 |
 
 18/3. Kőszegi Járásbíróság
@@ -11118,11 +10988,11 @@ Kőszegszerdahely
 
 |
 
-Lócs
+Lukácsháza
 
 |
 
-Lukácsháza
+Lócs
 
 |
 
@@ -11428,10 +11298,6 @@ Vásárosmiske
 
 |
 
-Viszák
-
-|
-
 Vönöck
 
 |
@@ -11440,13 +11306,19 @@ Zsédeny
 
 |
 
+|
+
+|
+
+|
+
+|
+
 18/5. Szombathelyi Közigazgatási és Munkaügyi Bíróság
 
 |
 
 Vas megye
-
-|
 
 |
 
@@ -11464,19 +11336,7 @@ Aszófő
 
 |
 
-Bakonyjákó
-
-|
-
-Bakonykoppány
-
-|
-
 Balatonakali
-
-|
-
-Balatonakarattya
 
 |
 
@@ -11540,6 +11400,10 @@ Dörgicse
 
 |
 
+Eplény
+
+|
+
 Felsőörs
 
 |
@@ -11557,6 +11421,10 @@ Herend
 |
 
 Hidegkút
+
+|
+
+Jásd
 
 |
 
@@ -11593,10 +11461,6 @@ Nagyvázsony
 |
 
 Nemesvámos
-
-|
-
-Németbánya
 
 |
 
@@ -11696,9 +11560,7 @@ Vöröstó
 
 |
 
-Zánka”
-
-|
+Zánka
 
 |
 
@@ -11715,10 +11577,6 @@ Ajka
 |
 
 Apácatorna
-
-|
-
-Bakonypölöske
 
 |
 
@@ -11747,6 +11605,10 @@ Doba
 |
 
 Egeralja
+
+|
+
+Farkasgyepű
 
 |
 
@@ -11810,6 +11672,10 @@ Noszlop
 
 |
 
+Nyirád
+
+|
+
 Oroszi
 
 |
@@ -11856,13 +11722,23 @@ Városlőd
 
 Vid
 
-|
-
 19/3. Pápai Járásbíróság
 
 |
 
 Adásztevel
+
+|
+
+Bakonyjákó
+
+|
+
+Bakonykoppány
+
+|
+
+Bakonypölöske
 
 |
 
@@ -11906,15 +11782,15 @@ Egyházaskesző
 
 |
 
-Farkasgyepű
-
-|
-
 Ganna
 
 |
 
 Gecse
+
+|
+
+Gic
 
 |
 
@@ -11990,6 +11866,10 @@ Nemesszalók
 
 |
 
+Németbánya
+
+|
+
 Nóráp
 
 |
@@ -12028,6 +11908,8 @@ Ugod
 
 Vanyola
 
+Vinár
+
 |
 
 Vaszar
@@ -12035,10 +11917,6 @@ Vaszar
 |
 
 Várkesző
-
-|
-
-Vinár
 
 19/4. Tapolcai Járásbíróság
 
@@ -12176,10 +12054,6 @@ Nemesvita
 
 |
 
-Nyirád
-
-|
-
 Raposka
 
 |
@@ -12266,6 +12140,8 @@ Zalaszegvár
 
 |
 
+|
+
 19/5. Zirci Járásbíróság
 
 |
@@ -12299,18 +12175,6 @@ Csetény
 |
 
 Dudar
-
-|
-
-Eplény
-
-|
-
-Gic
-
-|
-
-Jásd
 
 |
 
@@ -12348,8 +12212,6 @@ Veszprém megye
 
 |
 
-|
-
 20. ZALAEGERSZEGI TÖRVÉNYSZÉK (székhelye: Zalaegerszeg)
 
 20/1. Zalaegerszegi Járásbíróság
@@ -12357,6 +12219,10 @@ Veszprém megye
 |
 
 Alibánfa
+
+|
+
+Almásháza
 
 |
 
@@ -12408,6 +12274,10 @@ Csatár
 
 |
 
+Csertalakos
+
+|
+
 Csonkahegyhát
 
 |
@@ -12433,6 +12303,10 @@ Gombosszeg
 |
 
 Gősfa
+
+|
+
+Gutorfölde
 
 |
 
@@ -12600,11 +12474,19 @@ Szentkozmadombja
 
 |
 
+Szentpéterfölde
+
+|
+
 Szentpéterúr
 
 |
 
 Teskánd
+
+|
+
+Tilaj
 
 |
 
@@ -12670,15 +12552,7 @@ Zalaszentmihály
 
 Zalatárnok
 
-|
-
-|
-
 20/2. Keszthelyi Járásbíróság
-
-|
-
-Almásháza
 
 |
 
@@ -12814,10 +12688,6 @@ Tekenye
 
 |
 
-Tilaj
-
-|
-
 Türje
 
 |
@@ -12888,6 +12758,10 @@ Zalavég
 
 |
 
+|
+
+|
+
 20/3. Lenti Járásbíróság
 
 |
@@ -12912,10 +12786,6 @@ Bödeháza
 
 |
 
-Csertalakos
-
-|
-
 Csesztreg
 
 |
@@ -12937,10 +12807,6 @@ Gáborjánháza
 |
 
 Gosztola
-
-|
-
-Gutorfölde
 
 |
 
@@ -13057,10 +12923,6 @@ Rédics
 |
 
 Szentgyörgyvölgy
-
-|
-
-Szentpéterfölde
 
 |
 
@@ -13409,7 +13271,3 @@ Zalaújlak
 |
 
 Zala megye
-
-|
-
-|
