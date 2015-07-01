@@ -10,7 +10,7 @@
 
 3. egyéni tárolás: használatra kiadott fegyverzet személyi páncélszekrényben, vaslemez szekrényben vagy el nem mozdíthatóan rögzített lemezkazettában történő tárolása,
 
-4. egységkészlet: kollektív sorozatlövő lőfegyver (géppuska), páncélelhárító eszköz, hidegfegyver, lőszer, gránát, pirotechnikai eszköz, robbanóanyag, fegyverzeti eszköz,
+4.[^2] egységkészlet: a fegyverzeti és vegyivédelmi szakanyagnormában (a továbbiakban: norma) – az abban meghatározott felszámítási jogcímen – szereplő szakanyagok.
 
 5. előállító egység: az előállító helyiséget, annak előterét, valamint a WC helyiséget magába foglaló helyiségcsoport,
 
@@ -24,14 +24,18 @@
 
 10. segélyhívás: amikor a rendőr saját maga észleli más személy segélykérését, és emiatt, ezzel összefüggésben intézkedésbe kezd,
 
-11.[^2] rendőri szerv: az Országos Rendőr-főkapitányság, a megyei (fővárosi) rendőr-főkapitányság, a rendőrkapitányság, a határrendészeti kirendeltség, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a Bűnügyi Szakértői és Kutatóintézet, a Terrorelhárítási Központ, valamint a Nemzeti Védelmi Szolgálat,
+11.[^3] rendőri szerv: az Országos Rendőr-főkapitányság, a megyei (fővárosi) rendőr-főkapitányság, a rendőrkapitányság, a határrendészeti kirendeltség, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a Bűnügyi Szakértői és Kutatóintézet, a Terrorelhárítási Központ, valamint a Nemzeti Védelmi Szolgálat,
 
 12. támadással közvetlenül fenyegető magatartás: az a fellépés, amikor a támadó helyzetéből, tevékenységének módjából és eszközéből a rendőr alaposan következtet arra, hogy a támadás nyomban bekövetkezik,
 
 13. testi épséget súlyosan veszélyeztető támadás: ha a támadó helyzetéből, tevékenységének módjából és eszközéből alaposan feltételezhető a súlyos sérülés közvetlen veszélye,
 
-14.[^3] rendkívüli esemény: a rendőri intézkedés során bekövetkező minden olyan esemény, tevékenység vagy mulasztás, amely az intézkedés alá vont, az intézkedést végrehajtó vagy más személy életét, testi épségét, egészségét, anyagi javait, a személyi szabadság korlátozása helyének rendjét vagy az őrzésbiztonságot sérti, illetve veszélyezteti.
+13a.[^4] rendfokozat: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 15. § (1) bekezdése alapján viselt besorolás szerinti vagy a Hszt. 346. § (2) bekezdése alapján viselt címzetes rendfokozat; ha a hivatásos állomány tagja címzetes rendfokozatot visel, e rendelet rendelkezéseinél a címzetes rendfokozatot kell figyelembe venni.
+
+14.[^5] rendkívüli esemény: a rendőri intézkedés során bekövetkező minden olyan esemény, tevékenység vagy mulasztás, amely az intézkedés alá vont, az intézkedést végrehajtó vagy más személy életét, testi épségét, egészségét, anyagi javait, a személyi szabadság korlátozása helyének rendjét vagy az őrzésbiztonságot sérti, illetve veszélyezteti.
 
 [^1]: Az 1. § a 68/2011. (XII. 30.) BM rendelet 35. § (1) bekezdése szerint módosított szöveg.
-[^2]: A 2. § 11. pontja a 31/2012. (VI. 28.) BM rendelet 15. § a) pontja, a 43/2012. (VIII. 23.) BM rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 2. § 14. pontját a 18/2013. (V. 9.) BM rendelet 1. §-a iktatta be.
+[^2]: A 2. § 4. pontja a 37/2015. (VI. 16.) BM rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 11. pontja a 31/2012. (VI. 28.) BM rendelet 15. § a) pontja, a 43/2012. (VIII. 23.) BM rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § 13a. pontját a 37/2015. (VI. 16.) BM rendelet 44. § (2) bekezdése iktatta be.
+[^5]: A 2. § 14. pontját a 18/2013. (V. 9.) BM rendelet 1. §-a iktatta be.

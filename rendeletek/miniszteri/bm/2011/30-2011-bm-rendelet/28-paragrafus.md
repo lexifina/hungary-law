@@ -12,6 +12,6 @@
 
 (6) Az előállítás akkor is mellőzhető, ha az igazoltatott személy személyazonossága más, egyszerűbb módon tisztázható.
 
-(7)[^16] A rendőr a megkezdett, de mellőzött előállításról is jelentést készít, amelyben rögzíti az érintett személy személyazonosító adatait, az előállítás megkezdésének okát, helyét és időpontját, az intézkedés befejezésének helyét és időpontját, valamint az előállítás mellőzésének okát.
+(7)[^18] A rendőr a megkezdett, de mellőzött előállításról is jelentést készít, amelyben rögzíti az érintett személy személyazonosító adatait, az előállítás megkezdésének okát, helyét és időpontját, az intézkedés befejezésének helyét és időpontját, valamint az előállítás mellőzésének okát.
 
-[^16]: A 28. § (7) bekezdése a 18/2013. (V. 9.) BM rendelet 4. §-ával megállapított szöveg.
+[^18]: A 28. § (7) bekezdése a 18/2013. (V. 9.) BM rendelet 4. §-ával megállapított szöveg.

@@ -20,7 +20,7 @@ g) a személy- és objektumvédelmi szolgálati, valamint
 
 h) a terrorelhárítási szolgálati ág,
 
-i)[^4] a kommunikációs szolgálati ág.
+i)[^6] a kommunikációs szolgálati ág.
 
 (3) A szolgálatok:
 
@@ -44,7 +44,7 @@ i) a védelmi igazgatási szolgálat, valamint
 
 j) a vízirendészeti szolgálat,
 
-k)[^5] a légiközlekedés védelmi szolgálat.
+k)[^7] a légiközlekedés védelmi szolgálat.
 
 (4) A szakszolgálatok:
 
@@ -56,5 +56,5 @@ c) a hivatali szakszolgálat, valamint
 
 d) a humánigazgatási szakszolgálat.
 
-[^4]: A 3. § (2) bekezdés i) pontját a 18/2013. (V. 9.) BM rendelet 2. § (1) bekezdése iktatta be.
-[^5]: A 3. § (3) bekezdés k) pontját a 18/2013. (V. 9.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 3. § (2) bekezdés i) pontját a 18/2013. (V. 9.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^7]: A 3. § (3) bekezdés k) pontját a 18/2013. (V. 9.) BM rendelet 2. § (2) bekezdése iktatta be.
