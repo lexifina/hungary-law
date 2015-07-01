@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § A Rendelet a következő 8. §-sal egészül ki:
 
-[^3]: A 3. § a 7. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
+## „8. § A 2. § és a 2/A. § szerinti adatszolgáltatást az állami adóhatóság elektronikus úton teljesíti.”
