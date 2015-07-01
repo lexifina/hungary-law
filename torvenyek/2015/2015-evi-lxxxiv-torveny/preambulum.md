@@ -1,0 +1,1 @@
+(Az ADN-hez csatolt Szabályzat 2015. évi módosításai 2015. január 1-jén hatályba léptek azzal, hogy az ADN-hez csatolt Szabályzat 2014. december 31-éig hatályos előírásai 2015. június 30-áig alkalmazhatók.)
