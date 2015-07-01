@@ -1,7 +1,7 @@
-## 9. §[^12]
+## 9. §[^9]
 
 ## 10. Az újrahasználható csomagolószer bérleti rendszerének szabályairól szóló
 
 ## 533/2013. (XII. 30.) Korm. rendelet módosítása
 
-[^12]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 10. §[^13]
+## 10. §[^10]
 
 ## 11. Az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről szóló 197/2014. (VIII. 1.) Korm. rendelet módosítása
 
-[^13]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
