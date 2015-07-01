@@ -1,0 +1,1 @@
+Az Országgyűlés, Magyarország globális kihívások iránti elkötelezettségére tekintettel, az Egyesült Nemzetek Alapokmányára, az Emberi Jogok Egyetemes Nyilatkozatára, valamint az Európai Unió fejlesztéspolitikájára és humanitárius segélyezési alapelveire figyelemmel, a következő törvényt alkotja:
