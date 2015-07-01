@@ -1,1 +1,1 @@
-25. § A nemzetbiztonsági szolgálatok hivatásos állományú tagjainak beosztási illetményük 25%-áig terjedő titkosszolgálati pótlék adható. A pótlékra jogosító beosztásokat – a főigazgató javaslatára – a miniszter határozza meg. E pótlék a szolgálati időpótlék számítása során nem vehető figyelembe.
+25. §
