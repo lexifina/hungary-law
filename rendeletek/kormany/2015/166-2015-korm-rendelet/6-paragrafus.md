@@ -1,0 +1,3 @@
+6. § (1) A nem állami szociális fenntartó részére nyújtott támogatás elszámolására, ellenőrzésére, visszafizetésére az Átr. 17–26. §-ában foglaltakat kell alkalmazni a (2) bekezdésben foglalt eltérésekkel.
+
+(2) A nem állami szociális fenntartó a ténylegesen számfejtett és kifizetett kiegészítő pótlékról és szociális hozzájárulási adóról számol el. Ha a ténylegesen számfejtett és kifizetett kiegészítő pótlék meghaladja az előleg összegét, a fenntartó a különbözet erejéig többlettámogatásra jogosult. Visszafizetési kötelezettség esetén nem kell ügyleti kamatot fizetni, ha az elszámolásra nyitva álló határidő végéig a visszafizetési kötelezettséget teljesítik.
