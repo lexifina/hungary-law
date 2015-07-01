@@ -1,5 +1,0 @@
-343. § (1) E törvény 91. §-a, 95/A. §-a és 96. § (1) bekezdés a) pontja a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010/18/EU tanácsi irányelvnek (2010. március 8.) való megfelelést szolgálja.
-
-(2) E törvény 49. §-a az Európai Parlament és a Tanács 1168/2011/EU rendelete (2011. október 25.) által módosított, az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökség felállításáról szóló, 2004. október 26-i 2007/2004/EK tanácsi rendelet 3b. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(3) E törvény 84/A. §-a az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló, 1997. december 15-i 97/81/EK tanácsi irányelvnek való megfelelést szolgálja.

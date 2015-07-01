@@ -1,3 +1,0 @@
-259. § (1) A szolgálati viszonyt létesítő személyt, aki még nem rendelkezik rendőri vagy határrendészeti szakképzettséggel – a feltételek biztosítása mellett – megfelelő határidő kitűzésével kötelezni kell a rendőri vagy határrendészeti szakképzettség megszerzésére. Ha ennek az előírt határidőben nem tesz eleget, a szolgálati viszonya az 59. § (1) bekezdésének b) pontja alapján megszűnik.
-
-(2) A rendőri vagy határrendészeti szakképzettséggel nem rendelkező rendőr önálló intézkedésre nem jogosult, szolgálatba történő beosztására rendőri vagy határrendészeti szakképzettséggel rendelkező rendőrnek alárendelten vagy kötelékben alkalmazva kerülhet sor.

@@ -1,1 +1,0 @@
-263. § A 85. § alapján elrendelt szolgálatteljesítési időbeosztást – a 87. § (1) bekezdésben meghatározott eseteket kivéve – az illetékes szolgálati elöljáró köteles azt megelőzően legalább 1 héttel közölni a rendőrrel.

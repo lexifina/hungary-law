@@ -1,5 +1,0 @@
-## X. Fejezet
-
-## JUTTATÁSOK, KÖLTSÉGTÉRÍTÉSEK, KEDVEZMÉNYEK ÉS TÁMOGATÁSOK
-
-109. §

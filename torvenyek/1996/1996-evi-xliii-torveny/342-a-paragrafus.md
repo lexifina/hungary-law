@@ -1,1 +1,0 @@
-342/A. § Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben, az Országgyűlés elnöke véleménye kikérésével a 342. § (2)–(8) bekezdése szerinti tárgykörökben az Országgyűlési Őrség vonatkozásában szabályokat állapítson meg.

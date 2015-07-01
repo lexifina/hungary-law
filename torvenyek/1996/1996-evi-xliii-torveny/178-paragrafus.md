@@ -1,1 +1,0 @@
-178. § Az 1965. január 1-je előtt bekövetkezett balesetből, illetve szolgálati megbetegedésből eredő kártérítési követelésekre e törvény rendelkezései nem alkalmazhatók. Ilyen esetben a polgári jog kártérítési szabályai irányadók.

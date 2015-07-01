@@ -1,3 +1,0 @@
-73. § (1) A magasabb vagy vezető beosztás betöltéséhez szükséges iskolai végzettség (szakképesítés) megszerzésére – a szolgálati érdek figyelembevételével, a tervszerű előmenetel biztosítása érdekében – a hivatásos állomány tagjának iskolarendszerű vagy iskolarendszeren kívüli képzés keretében kell lehetőséget biztosítani. Emellett lehetőséget kell adni a hivatásos állomány tagjának a szolgálati érdek sérelmével nem járó, saját elhatározáson alapuló egyéni továbbtanulásra is.
-
-(2) A hivatásos állomány tagját szakmai ismereteinek fejlesztése céljából szakmai továbbképzésben, illetve átképzésben kell részesíteni.

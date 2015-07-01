@@ -1,3 +1,0 @@
-143. § (1) Az elöljáró parancsnok az iratok alapján az egész eljárást felülvizsgálja. Ha indokoltnak tartja, a lefolytatott bizonyítást kiegészíti és az iratok felterjesztésétől számított 15 napon belül, melyet szükség esetén további 15 nappal meghosszabbíthat, az első fokú fegyelmi határozatot helybenhagyja, vagy megváltoztatja: a fenyítés mértékét csökkenti, enyhébb fenyítést szab ki, illetőleg az eljárást megszünteti, vagy ha az elkövetett lényeges eljárási hibák a felülvizsgálat során nem orvosolhatók a fenyítést hatályon kívül helyezi és az eljárást megszünteti.
-
-(2) Az elöljáró parancsnok a határozatának egy példányát megküldi az első fokon eljárt parancsnoknak, az eljárás alá vont személynek és a képviselőnek.

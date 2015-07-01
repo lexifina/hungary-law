@@ -1,3 +1,0 @@
-66. § (1) A hivatásos állomány tagja köteles az állományilletékes parancsnoknak haladéktalanul bejelenteni, ha vele szemben a törvényben meghatározott összeférhetetlenségi ok merült fel, illetve, ha szolgálati viszonyának fennállása alatt összeférhetetlen helyzetbe került. Az állományilletékes parancsnok köteles – a 65. § (1) bekezdés a) pontjában meghatározott esetet kivéve – felszólítani a hivatásos állomány tagját az összeférhetetlenség megszüntetésére, illetve köteles a szükséges intézkedést megtenni az összeférhetetlenség kizárására.
-
-(2) Ha a hivatásos állomány tagja az összeférhetetlenséget a felszólítástól számított 30 napon belül nem szüntette meg, szolgálati viszonya megszűnik.

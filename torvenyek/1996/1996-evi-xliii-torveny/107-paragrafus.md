@@ -1,3 +1,0 @@
-107. § (1) A hivatásos állomány beosztásából felfüggesztett, előzetes letartóztatásban, illetve lakhely elhagyási tilalom alatt lévő, vagy ideiglenes kényszergyógykezelés alatt álló, továbbá a szabadságvesztés büntetését katonai fogházban töltő tagjának távolléti díj jár, amelyet a munkáltatói jogkört gyakorló elöljáró legfeljebb 50%-kal csökkenthet. A teljes illetményt vissza kell tartani a szolgálati viszony megszüntetés vagy lefokozás fegyelmi fenyítés kiszabásáról szóló munkáltatói intézkedés végrehajtásáig.
-
-(2) A beosztásból való felfüggesztés vagy előzetes letartóztatás miatt visszatartott illetményt a kamataival utólag ki kell fizetni, ha a fegyelmi vagy büntetőeljárás felmentéssel zárul.

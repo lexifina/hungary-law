@@ -1,1 +1,0 @@
-327. § Akinek a szolgálati viszonyát megszüntették, annak az e törvény szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – munkaviszony, kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszony, bírósági és ügyészségi szolgálati viszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.

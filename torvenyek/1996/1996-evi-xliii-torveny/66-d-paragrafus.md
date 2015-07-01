@@ -1,1 +1,0 @@
-66/D. § Ha külön törvény a tartalékállományba helyezettek foglalkoztatására járulékcsökkentési kedvezményt biztosít, illetve lehetővé teszi annak személyi juttatásokra történő felhasználását, e rendelkezéseket a 66/A–66/C. § szerint tartalékállományba helyezett személyt foglalkoztatóra is alkalmazni kell.

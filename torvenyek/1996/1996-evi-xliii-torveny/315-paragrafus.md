@@ -1,3 +1,0 @@
-## Megtérítési kötelezettség
-
-315. § A Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának a 62. §-ban foglaltakon kívül meg kell térítenie a megkezdett alapfokú és középfokú szaktanfolyamoknak a Nemzeti Adó- és Vámhivatal elnöke által megállapított költségeit, valamint az általa megkezdett olyan tanfolyamok tandíját is, amelyet helyette a Nemzeti Adó- és Vámhivatal fizetett ki, ha szolgálati viszonya 10 éven belül a 62. § (1) bekezdésében meghatározott ok miatt szűnt meg. 5 évet meghaladó hivatásos szolgálat esetén a fenti költségeknek a le nem töltött évekre eső hányadát kell megfizetni.

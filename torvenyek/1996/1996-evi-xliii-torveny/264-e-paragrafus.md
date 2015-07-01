@@ -1,1 +1,0 @@
-264/E. § A szenior állományban foglalkoztatott a hivatásos szolgálati viszony létesítését követően, a tényleges szolgálat megkezdése előtt, a szolgálati feladatok jellegének megfelelő képzésben részesül.

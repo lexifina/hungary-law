@@ -1,3 +1,0 @@
-## XXIII. Fejezet
-
-307. §

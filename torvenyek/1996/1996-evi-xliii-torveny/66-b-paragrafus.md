@@ -1,3 +1,0 @@
-66/B. § (1) A tartalékállományba helyezésről az állományilletékes parancsnok – a fegyveres szerv országos parancsnoksága útján –, a polgári nemzetbiztonsági szolgálatok esetén a főigazgató tájékoztatja a tartalékállományt kezelő szervet. Az országos parancsnokság és a tartalékállományt kezelő szerv adatkezelésére e törvényben meghatározottak mellett a tartalékállományra vonatkozó külön jogszabály rendelkezéseit kell alkalmazni.
-
-(2) A tartalékállomány kezelését végző szervnek a 11. számú melléklet szerinti adatokat az országos parancsnokság adja át. A polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának tartalékállományba helyezése esetén a mellékletben megjelölt adatkörök kitöltése részben mellőzhető.

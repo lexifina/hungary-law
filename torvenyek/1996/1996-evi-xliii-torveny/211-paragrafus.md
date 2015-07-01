@@ -1,9 +1,0 @@
-## MÁSODIK RÉSZ
-
-## KÜLÖNÖS SZABÁLYOK
-
-## XIX. Fejezet
-
-## A HIVATÁSOS KATONÁKRA VONATKOZÓ SZABÁLYOK
-
-211–245. §
