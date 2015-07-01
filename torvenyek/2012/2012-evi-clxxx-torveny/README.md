@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-180-00-00
 | 2013-07-01 | 2012. évi CCXXIII. törvény | 2012-180-00-00.7 |
 | 2014-01-01 | 2013. évi CLXXXVI. törvény | 2012-180-00-00.8 |
 | 2015-01-01 | 2014. évi LXXII. törvény | 2012-180-00-00.9 |
+| 2015-07-01 | 2015. évi LXXVI. törvény | 2012-180-00-00.10 |
