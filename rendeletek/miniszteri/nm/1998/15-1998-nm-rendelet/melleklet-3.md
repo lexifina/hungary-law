@@ -68,7 +68,7 @@
 
 ## I. Alapellátások
 
-## 5K00246O_0
+## 5K00246P_0
 
 | Ellátási forma | Intézményi munkakör | Képesítés |
 
@@ -142,13 +142,13 @@
 
 | 1. Nevelőszülői hálózat | nevelőszülői tanácsadó | felsőfokú szociális alapvégzettségű személy, pedagógus, pszichológus, mentálhigiénés szakember, védőnő, teológus, hittanár vagy hittantanár |
 
-|  | nevelőszülő | nevelőszülő (OKJ) |
+|  | nevelőszülő | nevelőszülő (OKJ), nevelőszülő (Központi Oktatási Program, KOP) |
 
-|  | gyermekgondozó, a) ha a nevelőszülő hozzátartozója b) ha nem a nevelőszülő hozzátartozója | alapfokú iskolai végzettség csecsemő- és gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő II. (OKJ), dajka (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ), vagy óvodai dajka (OKJ) |
+|  | gyermekgondozó, a) ha a nevelőszülő hozzátartozója b) ha nem a nevelőszülő hozzátartozója | alapfokú iskolai végzettség csecsemő- és gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő II. (OKJ), dajka (OKJ), házi időszakos gyermekgondozó (OKJ), gyermek- és ifjúsági felügyelő (OKJ) vagy óvodai dajka (OKJ) |
 
 |  | növendékügyi előadó | jogász, igazgatásszervező, humánszervező, személyügyi szervező |
 
-|  | gyermekvédelmi ügyintéző | szociális gyermek- és ifjúság védelmi ügyintéző (OKJ), szociális asszisztens (OKJ) |
+|  | gyermekvédelmi ügyintéző | szociális gyermek- és ifjúságvédelmi ügyintéző (OKJ), szociális asszisztens (OKJ) |
 
 | 2. Gyermekotthon | nevelő | pedagógus, felsőfokú szociális alapvégzettségű személy, pszichológus, mentálhigiénés szakember, teológus, hittanár vagy hittantanár |
 

@@ -124,4 +124,4 @@
 
 2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^583]
 
-[^583]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (2) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^583]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (2) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (2) és (3) bekezdése szerint módosított szöveg.
