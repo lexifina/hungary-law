@@ -1,3 +1,0 @@
-## 2. §[^3] Az IRM munkaügyi ellenőrzéssel megbízott munkatársa (a továbbiakban: ellenőr) a törvény 3. §-ának (1) bekezdésében foglaltak alapján – a többször módosított – a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény és a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény előírásainak megtartását köteles ellenőrizni.
-
-[^3]: A 2. § a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 48. pontja szerint módosított szöveg.
