@@ -18,4 +18,6 @@ c) gyermeket egyedül nevel.
 
 (3) A szociális támogatásokat terhelő közterheket a szociális és kegyeleti keretből kell fedezni.
 
-(4) Szociális támogatásban csak az részesíthető, aki a szociális helyzete megítéléséhez és a fegyveres szervet terhelő befizetések elszámolásához szükséges adatokat a valóságnak megfelelően rendelkezésre bocsátja és igazolja.
+(4)[^2] Szociális támogatásban csak az részesíthető, aki a szociális helyzete megítéléséhez és a rendőrség szakértői szervét terhelő befizetések elszámolásához szükséges adatokat a valóságnak megfelelően rendelkezésre bocsátja és igazolja.
+
+[^2]: A 11. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 84. §-a szerint módosított szöveg.
