@@ -14,13 +14,13 @@
 
 ## Követelmények
 
-I. Általános jogelméleti és közjogi ismeretek
+## I.[^28] Általános jogelméleti és közjogi ismeretek
 
 ## A vizsgázó átfogó ismereteket fog szerezni a magyar jogrendszer tagozódásáról, a jogforrások hierarchiájáról, képes lesz abban elhelyezni és jellemezni az egyes jogforrásokat. A tananyagrész elsajátításával megérti a jogalkotás helyét, szerepét és folyamatát, a jogalkalmazás alapjait, általános elveit.
 
 ## Ismerni fogja Magyarország Alaptörvényben szabályozott viszonyait, az alkotmányosság elveit. Képes lesz rendszerezni az Országgyűlés, a Kormány, a köztársasági elnök, az Állami Számvevőszék, valamint a jogvédelmi szervek, benne a bíróságok, az ügyészségek, az alapvető jogok biztosa, az Alkotmánybíróság feladat- és hatáskörét.
 
-## Értelmezni tudja az alapvető jogok katalógusát, az egyes jogok tartalmi elemeit, érvényesülésük garanciáit, valamint az Alaptörvényben nevesített alapvető kötelességek rendszerét. Ismerni fogja a fegyveres szervek hivatásos állományú tagjai alapvető jogainak törvényi korlátait. Képes lesz meghatározni az egyes minősített időszakok közötti különbségeket.
+## Értelmezni tudja az alapvető jogok katalógusát, az egyes jogok tartalmi elemeit, érvényesülésük garanciáit, valamint az Alaptörvényben nevesített alapvető kötelességek rendszerét. Ismerni fogja a rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjai alapvető jogainak törvényi korlátait. Képes lesz meghatározni az egyes minősített időszakok közötti különbségeket.
 
 II. Közigazgatási jogi ismeretek
 
@@ -38,19 +38,19 @@ IV. Európai jogi ismeretek
 
 ## Átfogóan megismeri a schengeni joganyag elemeit, a szabályozás megjelenési formáit, az Európai Unió migrációs és menekültügyi politikáját. Megérti a schengeni határellenőrzési rendszer lényegét és a kompenzációs intézkedéseket, valamint megismeri a schengeni rendőri együttműködés főbb elemeit.
 
-## „B” ismeretrész: INTEGRÁLT RENDÉSZETI VEZETÉSI ISMERETEK
+## „B” ismeretrész: INTEGRÁLT RENDÉSZETI VEZETÉSI ISMERETEK[^29]
 
-## Az Integrált rendészeti vezetési ismeretek ismeretrész rendeltetése, hogy – előképzettségétől, testületi hovatartozásától és konkrét beosztásától, munkakörétől függetlenül – a vizsgázó elsajátítsa azokat az alapvető rendészeti szakmai és vezetési ismereteket, amelyek elengedhetetlenül szükségesek az együttműködő fegyveres szervek tevékenységének és működésének megértéséhez.
+## Az Integrált rendészeti vezetési ismeretek ismeretrész rendeltetése, hogy – előképzettségétől, testületi hovatartozásától és konkrét beosztásától, munkakörétől függetlenül – a vizsgázó elsajátítsa azokat az alapvető rendészeti szakmai és vezetési ismereteket, amelyek elengedhetetlenül szükségesek az együttműködő rendvédelmi feladatokat ellátó szervek tevékenységének és működésének megértéséhez.
 
 ## A rendészeti szakvizsga lényegéből fakadóan a vizsgázó különösen ezen ismeretek alkalmazásával képes lesz a társszervek azonos vagy hasonló munkakörben lévő munkatársaival a kommunikációra és az együttműködésre.
 
-## Az oktatás és a számonkérés középpontjába a tantárgy a rendészeti szervezési és vezetési ismereteket, a rendőrségi, határrendészeti, a katasztrófavédelmi, tűzvédelmi és polgári védelmi igazgatást állítja, továbbá nagy súlyt helyez a fegyveres szervek működéséhez szükséges alapvető humán-, egészségügyi-pszichológiai, gazdasági-pénzügyi, műszaki-technikai-informatikai és hivatali igazgatási ismeretekre.
+## Az oktatás és a számonkérés középpontjába a tantárgy a rendészeti szervezési és vezetési ismereteket, a rendőrségi, határrendészeti, a katasztrófavédelmi, tűzvédelmi és polgári védelmi igazgatást állítja, továbbá nagy súlyt helyez a rendvédelmi feladatokat ellátó szervek működéséhez szükséges alapvető humán-, egészségügyi-pszichológiai, gazdasági-pénzügyi, műszaki-technikai-informatikai és hivatali igazgatási ismeretekre.
 
 ## Követelmények
 
-V. Rendészet és rendvédelem
+## V.[^30] Rendészet és rendvédelem
 
-## A vizsgázó meg fogja ismerni a rendészet, valamint a rendészeti igazgatás fogalmának értelmezését. Képes lesz meghatározni a fegyveres és a rendvédelmi szerv fogalmát és rendészeti funkcióit. Megismeri a rendőri legitim erőszak és a jogállamiság viszonyát, a Rendőrség alkotmányos működésének feltételeit.
+## A vizsgázó meg fogja ismerni a rendészet, valamint a rendészeti igazgatás fogalmának értelmezését. Képes lesz meghatározni a rendvédelmi feladatokat ellátó és a rendvédelmi szerv fogalmát és rendészeti funkcióit. Megismeri a rendőri legitim erőszak és a jogállamiság viszonyát, a Rendőrség alkotmányos működésének feltételeit.
 
 VI. Rendészeti szervezési és vezetési ismeretek
 
@@ -66,27 +66,27 @@ VII. Rendőrségi igazgatás
 
 ## Képes lesz az egyes határszakaszokon átlépő személyek ellenőrzésével összefüggő szabályok értelmezésére. Be tudja mutatni a határigazgatási rendszert, a FRONTEX ügynökség szerepét, valamint a rendőrség határrendészeti tevékenységét.
 
-VIII. A katasztrófák elleni védekezés, iparbiztonsági, tűzvédelmi és polgári védelmi igazgatás
+## VIII.[^31] A katasztrófák elleni védekezés, iparbiztonsági, tűzvédelmi és polgári védelmi igazgatás
 
-## A vizsgázó ismerni fogja a katasztrófák elleni védekezés alapvető fogalom- és feladatrendszerét, annak belső összefüggéseit, főbb kapcsolódási pontjait. Megismeri a hazánkat veszélyeztető fontosabb természeti, ipari és civilizációs hatásokat. Áttekintést kap a katasztrófák elleni védekezés hármas szakmai feladat- és szervezetrendszeréről; az iparbiztonságról, a tűzvédelemről, a polgári védelemről, valamint a szűkebb értelemben vett katasztrófavédelemről. Megismeri és képes lesz rendszerezni a katasztrófavédelem alapvető jogforrásait, valamint a katasztrófák elleni védekezésért felelős miniszter és más ágazatok kapcsolatrendszerét. Megérti a katasztrófák elleni védekezés irányítási rendszerének mechanizmusát. Képes lesz elhelyezni saját fegyveres szerve speciális katasztrófavédelmi feladatait egy katasztrófahelyzet során a társszervek együttműködési rendjében.
+## A vizsgázó ismerni fogja a katasztrófák elleni védekezés alapvető fogalom- és feladatrendszerét, annak belső összefüggéseit, főbb kapcsolódási pontjait. Megismeri a hazánkat veszélyeztető fontosabb természeti, ipari és civilizációs hatásokat. Áttekintést kap a katasztrófák elleni védekezés hármas szakmai feladat- és szervezetrendszeréről; az iparbiztonságról, a tűzvédelemről, a polgári védelemről, valamint a szűkebb értelemben vett katasztrófavédelemről. Megismeri és képes lesz rendszerezni a katasztrófavédelem alapvető jogforrásait, valamint a katasztrófák elleni védekezésért felelős miniszter és más ágazatok kapcsolatrendszerét. Megérti a katasztrófák elleni védekezés irányítási rendszerének mechanizmusát. Képes lesz elhelyezni saját rendvédelmi feladatokat ellátó szerve speciális katasztrófavédelmi feladatait egy katasztrófahelyzet során a társszervek együttműködési rendjében.
 
-IX. Fegyveres szervek humán- és egészségügyi-pszichológiai igazgatása
+## IX.[^32] Rendvédelmi feladatokat ellátó szervek humán- és egészségügyi-pszichológiai igazgatása
 
 ## A vizsgázó átfogó ismereteket szerez a személyügyi-egészségügyi terület tudásanyagából. Ismerni fogja a foglalkoztatással összefüggő jogviszonyok alapvető szabályait, a szakterület vonatkozásában képes lesz irányítani az ezzel a területtel összefüggő tevékenység ellátását és segítséget fog tudni adni az alkalmazásához. Figyelemmel tudja kísérni a legfontosabb tényezőnek – az állomány tagjának – jogszabályokon alapuló jogainak, járandóságainak szakszerű biztosítását, avagy tolmácsolni tudja a foglalkoztató szervezetnek az elvárásait.
 
-## Meg fogja ismerni a fegyveres szervek egészségügyi ellátó rendszerének szervezetét és feladatrendszerét. Képes lesz összefoglalni az egészségi, pszichikai és fizikai alkalmassági vizsgálatokra vonatkozó legfontosabb szabályokat. Ismertetni tudja a keresőképtelenség elbírálására és az orvosi felülvizsgálatokra vonatkozó lényegi kérdéseket. Képes lesz értelmezni a munka-, szolgálati és üzemi baleset fogalmát, és megtenni a szükséges intézkedéseket munka- és szolgálati baleset bekövetkezésekor.
+## Meg fogja ismerni a rendvédelmi feladatokat ellátó szervek egészségügyi ellátó rendszerének szervezetét és feladatrendszerét. Képes lesz összefoglalni az egészségi, pszichikai és fizikai alkalmassági vizsgálatokra vonatkozó legfontosabb szabályokat. Ismertetni tudja a keresőképtelenség elbírálására és az orvosi felülvizsgálatokra vonatkozó lényegi kérdéseket. Képes lesz értelmezni a munka-, szolgálati és üzemi baleset fogalmát, és megtenni a szükséges intézkedéseket munka- és szolgálati baleset bekövetkezésekor.
 
-X. Fegyveres szervek gazdasági-pénzügyi és műszaki-technikai-informatikai igazgatása
+## X.[^33] Rendvédelmi feladatokat ellátó szervek gazdasági-pénzügyi és műszaki-technikai-informatikai igazgatása
 
-## A vizsgázó átfogó képet kap az államháztartás szerepéről, a gazdasági és műszaki igazgatás alapelveiről és fogalomrendszeréről. Megismeri a fegyveres szervet irányító minisztériumok irányítási-, feladat- és eszközrendszerét, a költségvetési szervek gazdálkodásának rendszerét. Tájékozott lesz a költségvetési szervek kiadási és bevételi előirányzatainak fajtáiról, a belső ellenőrzés szerepéről.
+## A vizsgázó átfogó képet kap az államháztartás szerepéről, a gazdasági és műszaki igazgatás alapelveiről és fogalomrendszeréről. Megismeri a rendvédelmi feladatokat ellátó szervet irányító minisztériumok irányítási-, feladat- és eszközrendszerét, a költségvetési szervek gazdálkodásának rendszerét. Tájékozott lesz a költségvetési szervek kiadási és bevételi előirányzatainak fajtáiról, a belső ellenőrzés szerepéről.
 
 ## Megismeri a logisztika célját, tartalmát, korlátait, tisztában lesz az állami vagyon összetételével, a vagyongazdálkodás szemléletével. Megismeri azokat a jogszabályokat, melyek alkalmazásával a különböző áruk és szolgáltatások beszerzése a költségvetési szerveknél megvalósulhat. Átfogó képet kap a beszerzési igény keletkezésétől a kötelezettségvállalás létrejöttéig a közpénzek felhasználhatóságának folyamatáról. Megérti az adományok és egyéb felajánlások elfogadásával kapcsolatos előírásokat. Megismeri a pályázati tevékenység alapfogalmait, típusait és elveit, átlátja a folyamatát, és képes lesz saját munkaköri feladataihoz kapcsolódó következtetések levonására.
 
-XI. Fegyveres szervek hivatali igazgatása
+## XI.[^34] Rendvédelmi feladatokat ellátó szervek hivatali igazgatása
 
 ## A vizsgázó elsajátítja a hivatali igazgatáshoz kapcsolódó alapvető jogi és szakmai ismereteket, amelyek szükségesek és indokoltak azok számára is – különösen a vezetői beosztásokban –, akik nem a bemutatott szakterületen dolgoznak.
 
-## Meg fogja érteni az ellenőrzési tevékenység szerepét, lényeges elemeit, az ellenőrzött jogait és kötelességeit. Megismeri a jogi norma fajtáit és a normaalkotás jelentőségét. Be fogja tudni mutatni az ügyeleti tevékenység helyét és szerepét, a fegyveres szervek készenlétbe helyezésének elveit, a minősített időszak jellemzőit, a műveleti törzs működtetésének alapvető szabályait. Képes lesz meghatározni az adatvédelem alapvető fogalmait, az adatkezelés követelményeit, az adatbiztonsági előírásokat, a közérdekű adatok megismerésére vonatkozó főbb szabályokat, a titokfajtákat, a minősítéssel kapcsolatos lényegi ismereteket, a minősített adatvédelemre vonatkozó előírásokat. Áttekintést kap a kommunikáció jelentőségéről, a tájékoztatás rendjéről. Megismeri a fegyveres szervek nemzetközi együttműködésének főbb jellemzőit, az együttműködés szempontjából kiemelkedő jelentőségű nemzetközi szervezeteket.
+## Meg fogja érteni az ellenőrzési tevékenység szerepét, lényeges elemeit, az ellenőrzött jogait és kötelességeit. Megismeri a jogi norma fajtáit és a normaalkotás jelentőségét. Be fogja tudni mutatni az ügyeleti tevékenység helyét és szerepét, a rendvédelmi feladatokat ellátó szervek készenlétbe helyezésének elveit, a minősített időszak jellemzőit, a műveleti törzs működtetésének alapvető szabályait. Képes lesz meghatározni az adatvédelem alapvető fogalmait, az adatkezelés követelményeit, az adatbiztonsági előírásokat, a közérdekű adatok megismerésére vonatkozó főbb szabályokat, a titokfajtákat, a minősítéssel kapcsolatos lényegi ismereteket, a minősített adatvédelemre vonatkozó előírásokat. Áttekintést kap a kommunikáció jelentőségéről, a tájékoztatás rendjéről. Megismeri a rendvédelmi feladatokat ellátó szervek nemzetközi együttműködésének főbb jellemzőit, az együttműködés szempontjából kiemelkedő jelentőségű nemzetközi szervezeteket.
 
 XII. Nemzetbiztonsági igazgatás
 
@@ -140,7 +140,7 @@ VI. Kriminálpedagógia és a büntetés-végrehajtás
 
 ## A vizsgázó ismerje meg a kriminálpedagógia kialakulásának hazai történetét, tudományközi kapcsolatainak áttekintése során tudja megkülönböztetni a társtudományoktól (a bűnügyi, nevelési tudományoktól). Tudása terjedjen ki a kriminálpedagógiai törekvések nemzetközi tendenciáira. Tudja értelmezni a személyiséget kriminálpedagógiai szempontból. Határozza meg e téma központi célkategóriáját, jellemezze a korrekciós nevelési rendszereket.
 
-## VII.[^8] Büntetés-végrehajtási nevelés
+## VII.[^35] Büntetés-végrehajtási nevelés
 
 ## A tárgy oktatása általános ismereteket nyújt a szabadságvesztés céljáról, feladatáról, a nevelés helyéről és szerepéről. A vizsgázó sajátítsa el a büntetés-végrehajtási nevelés fogalmát, folyamatát, tudja definiálni a büntetés-végrehajtási nevelő szerepét és feladatrendszerét a szabadságvesztés folyamatában.
 
@@ -150,15 +150,15 @@ VIII. Büntetés-végrehajtási pszichológia
 
 ## A vizsgázó ismerje meg, hogy pszichológiai szempontból mit jelent a börtön. Ismerje a börtönviszonyok közötti kábítószer-probléma jellegzetességeit. A börtönbeli önkárosítások és öngyilkosságok megelőzése a büntetés-végrehajtás kiemelkedően fontos stratégiai feladata; tudjon különbséget tenni ezen fogalmak között. Ismerje fel a szexuális bűncselekményt elkövetők jellemzőit és személyiség-tulajdonságait. Jellemezze a hosszú ítéletes fogvatartottakat mint speciális rezsimben lévő személyeket. A fiatalkorú, a felnőtt és a női fogvatartottakra jellemző különbségeket (személyiségfaktor, családi háttér, pszichés tényezők) hatékonyan tudja elkülöníteni.
 
-## II.2. FEGYVERES SZERVEK EGÉSZSÉGÜGYI-PSZICHOLÓGIAI IGAZGATÁSA
+## II.2.[^36] RENDVÉDELMI FELADATOKAT ELLÁTÓ SZERVEK EGÉSZSÉGÜGYI-PSZICHOLÓGIAI IGAZGATÁSA
 
-## A tantárgy rendeltetése, hogy megismertesse a vizsgázót az egészségügyi ellátórendszerrel, egészségügyi szolgáltatásokkal és a fegyveres szervek egészségügyi szolgálatával kapcsolatos, a mindennapokban jól hasznosítható alapvető ismeretekkel. Ismerje meg a vizsgázó a személyi állomány gyógyító-megelőző és pszichológiai ellátásának rendjét, ennek keretében az alkalmassági vizsgálatokra, keresőképtelenség elbírálására és az orvosi felülvizsgálatokra vonatkozó szabályokat, az egészségmegőrzés és az elsősegélynyújtás alapelemeit és jelentőségét. Ismerje meg a munkavédelmi és közegészségügyi-járványügyi tevékenység lényegét és az állomány egészségvédelmében játszott kiemelkedő fontosságát. Kapjon képet arról, hogy a fegyveres szervek által foglalkoztatott orvosok és pszichológusok speciális ismereteikkel milyen segítséget nyújtanak a bűncselekmények és a bűnelkövetők felderítésében a bűnüldöző szervek számára.
+## A tantárgy rendeltetése, hogy megismertesse a vizsgázót az egészségügyi ellátórendszerrel, egészségügyi szolgáltatásokkal és a rendvédelmi feladatokat ellátó szervek egészségügyi szolgálatával kapcsolatos, a mindennapokban jól hasznosítható alapvető ismeretekkel. Ismerje meg a vizsgázó a személyi állomány gyógyító-megelőző és pszichológiai ellátásának rendjét, ennek keretében az alkalmassági vizsgálatokra, keresőképtelenség elbírálására és az orvosi felülvizsgálatokra vonatkozó szabályokat, az egészségmegőrzés és az elsősegélynyújtás alapelemeit és jelentőségét. Ismerje meg a munkavédelmi és közegészségügyi-járványügyi tevékenység lényegét és az állomány egészségvédelmében játszott kiemelkedő fontosságát. Kapjon képet arról, hogy a rendvédelmi feladatokat ellátó szervek által foglalkoztatott orvosok és pszichológusok speciális ismereteikkel milyen segítséget nyújtanak a bűncselekmények és a bűnelkövetők felderítésében a bűnüldöző szervek számára.
 
 ## Követelmények
 
-## A tananyag elsajátításával a vizsgázó ismerje meg és tudja bemutatni az állam szerepét és kötelezettségét az emberek Alaptörvényben deklarált lehető legmagasabb szintű testi és lelki egészséghez való jogának biztosításában, az egészségügyi ellátórendszer működését, az egészségügyi szolgáltatók működésének feltételeit, a finanszírozás rendjét, a betegek jogait és kötelezettségeit, a betegjogok érvényesülésének módját, valamint a fegyveres szervek egészségügyi szolgálatának feladatrendszerét és működését.
+## A tananyag elsajátításával a vizsgázó ismerje meg és tudja bemutatni az állam szerepét és kötelezettségét az emberek Alaptörvényben deklarált lehető legmagasabb szintű testi és lelki egészséghez való jogának biztosításában, az egészségügyi ellátórendszer működését, az egészségügyi szolgáltatók működésének feltételeit, a finanszírozás rendjét, a betegek jogait és kötelezettségeit, a betegjogok érvényesülésének módját, valamint a rendvédelmi feladatokat ellátó szervek egészségügyi szolgálatának feladatrendszerét és működését.
 
-## A vizsgázó ismerje meg és tudja bemutatni a fegyveres szervek egészségügyi szolgálata által végzett gyógyító-megelőző tevékenység célját, a különböző egészségi alkalmassági vizsgálatok rendjét és a fizikai felméréssel való összefüggését, a keresőképtelenség elbírálásának szabályait, a rekreáció és rehabilitáció lényegét, az orvosi felülvizsgálatokra vonatkozó szabályokat. A vizsgázó ismerje az elsősegélynyújtás célját, lényegét és jelentőségét, alapfogalmait és általános szabályait, valamint az újraélesztés és a vérzéscsillapítás módjait. A vizsgázó ismerje az egészségmegőrzés fogalmát, lényegét és jelentőségét, az egészséges életmód kialakítása érdekében szükséges legfontosabb teendőket.
+## A vizsgázó ismerje meg és tudja bemutatni a rendvédelmi feladatokat ellátó szervek egészségügyi szolgálata által végzett gyógyító-megelőző tevékenység célját, a különböző egészségi alkalmassági vizsgálatok rendjét és a fizikai felméréssel való összefüggését, a keresőképtelenség elbírálásának szabályait, a rekreáció és rehabilitáció lényegét, az orvosi felülvizsgálatokra vonatkozó szabályokat. A vizsgázó ismerje az elsősegélynyújtás célját, lényegét és jelentőségét, alapfogalmait és általános szabályait, valamint az újraélesztés és a vérzéscsillapítás módjait. A vizsgázó ismerje az egészségmegőrzés fogalmát, lényegét és jelentőségét, az egészséges életmód kialakítása érdekében szükséges legfontosabb teendőket.
 
 ## A vizsgázó ismerje meg és tudja bemutatni a pszichológiai alkalmassági vizsgálatok elméleti hátterét, a hivatásos állomány körében végzett alkalmassági vizsgálatok rendjét, a közlekedéspszichológiai vizsgálatok elméleti hátterét, a megkülönböztető jelzést használó szolgálati gépjárművek vezetőinek alkalmassági vizsgálatát, a lelki egészség megőrzését célzó mentálhigiénés tevékenység lényegét és jelentőségét, valamint a pszichológusok által végzett tréning tevékenységet és a csapatszolgálati feladatokhoz kapcsolódó pszichológiai tevékenységet.
 
@@ -168,7 +168,7 @@ VIII. Büntetés-végrehajtási pszichológia
 
 ## A vizsgázó ismerje a munkavédelmi és közegészségügyi-járványügyi tevékenység célját, jelentőségét, elemeit, a munkáltató kötelezettségeit, a munkavédelmi szemle fogalmát és lényegét, a munkavédelmi oktatással kapcsolatos szabályokat, a balesetek fogalmát és a baleset bekövetkezésekor végrehajtandó teendőket, valamint a fogdákkal és őrzött szállásokkal kapcsolatos alapvető előírásokat.
 
-## II.3. FEGYVERES SZERVEK GAZDASÁGI – PÉNZÜGYI IGAZGATÁSA
+## II.3.[^37] RENDVÉDELMI FELADATOKAT ELLÁTÓ SZERVEK GAZDASÁGI – PÉNZÜGYI IGAZGATÁSA
 
 ## A teljes tanagyag feldolgozása, megtanulása után a vizsgázó átfogó képet kap a gazdálkodás rendszeréről, a pénz kialakulásától egészen az ellenőrzési rendszerekig. Az egyes fejezetek logikailag úgy követik egymást, hogy az általuk közölt információk megismerését követően a vizsgázó egyre közelebb kerüljön ahhoz a költségvetési szervhez, ahol szolgálatot teljesít, illetve azon jogszabályok, egyéb jogi normák ismeretéhez, amelyek az adott költségvetési szerv államháztartási rendszerben történő elhelyezését, alapítását, besorolását, működését, beszámoltatását írják elő, illetve határozzák meg.
 
@@ -188,7 +188,7 @@ III. Az államháztartás rendszere
 
 ## Szerezzen ismereteket az államháztartás alrendszereinek finanszírozási és számlavezetési rendjéről, a kincstári rendszerről, a Kincstári Egységes Számláról, a likviditáskezelésről, a kincstár által vezetett számlákról, a költségvetési szervek finanszírozásáról. Ismerje az államháztartás információs rendszerét, ezen belül ennek feladatait, szerkezetét, a törzskönyvi nyilvántartást, a kincstári adatkezelést, az adatszolgáltatási kötelezettségeket.
 
-## IV.[^9] Költségvetési szervek
+## IV.[^38] Költségvetési szervek
 
 ## A vizsgázó tudja a költségvetési szerv fogalmát, tevékenységét, a költségvetési szerv alapítására, működésére, illetve megszüntetésére vonatkozó szabályokat. Rendelkezzen ismeretekkel az alapító okirat tartalmáról, a költségvetési szerv irányításával, felügyeletével kapcsolatos szabályozásról. Rendelkezzen ismeretekkel a gazdasági szervezet és a gazdasági vezető feladatairól, a költségvetési szerv szervezeti és működési szabályzatának tartalmáról.
 
@@ -196,7 +196,7 @@ V. A rendészeti célú hazai és nemzetközi pályázatok kezelése
 
 ## A vizsgázó ismerje a fejlesztés- és támogatáspolitika célkitűzéseit, a megvalósítás intézményrendszerét, eszközeit és módszereit, különös tekintettel az anyagi (pénzeszközök) források felhasználására. Ismerje továbbá a hazai, a nemzetközi és a rendészeti szempontból mértékadó pályázatok lehetőségeit és a pályázatkezelés tevékenységét.
 
-VI. A fegyveres szerveket felügyelő minisztériumok és a fegyveres szervek működésének, valamint gazdálkodásának sajátos szabályai
+## VI.[^39] A rendvédelmi feladatokat ellátó szerveket felügyelő minisztériumok és a rendvédelmi feladatokat ellátó szervek működésének, valamint gazdálkodásának sajátos szabályai
 
 ## A vizsgázótól a Belügyminisztérium fejezet költségvetési gazdálkodásának rendjéről szóló utasítás részletes ismerete az elvárás, ezen belül a költségvetési gazdálkodás, az egyéb gazdálkodási előírások, vagyongazdálkodás, vagyonkezelési feladatok. Ismeretekkel kell rendelkeznie a fejezeti kezelésű előirányzatokról és az azokat aktuálisan szabályozó belügyminiszteri utasításról. A tananyag elsajátítását követően a vizsgázó tudja az egyes kiemelt előirányzatok tartalmát, továbbá rendelkezzen alapvető ismeretekkel a közbeszerzései törvényről is.
 
@@ -230,9 +230,9 @@ III. A Rendőrség határrendészeti szervezeteinek feladat- és tevékenységre
 
 ## A vizsgázó ismerje és tudja értelmezni a Rendőrség központi-, területi és helyi szervei által végzett határrendészeti igazgatási feladatok szakmai tartalmát, az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) szervezeteinek munkamegosztását és együttműködését, az integrált határigazgatási feladatok végrehajtását. Legyen képes a szakmai feladatokat, a végrehajtó és a szakirányító funkciókat felismerni és azonosítani. Tudjon eligazodni az ORFK, a megyei rendőr-főkapitányság és a határrendészeti kirendeltség ügyrendjében, legyen képes a határrendészeti és idegenrendészeti ügyek megoldását irányítani. Fel tudja ismerni a különböző szervezeti szinteken folyó határrendészeti munka összefüggéseit és szakmai kapcsolatait, ismerje a határrendészeti igazgatás három szinten megvalósuló vezetési-irányítási rendszerét, a vezetőszervek funkcionális tagozódását és a szakirányítás lineáris kapcsolatait. Legyen tájékozott a vezetőszervek funkcionális feladatairól, a hatáskörök és az alkalmazott vezetői munkamódszerek lényegéről, a vezetői fórumok rendszeréről, a vezetők fontosabb szakirányítási hatásköreiről.
 
-## II.5. RENDVÉDELMI SZERVEK HIVATALI IGAZGATÁSA
+## II.5.[^40] RENDVÉDELMI SZERVEK HIVATALI IGAZGATÁSA
 
-## A vizsgatárgy rendeltetése, hogy általános ismeretet nyújtson a normaalkotással kapcsolatos fogalmakról, szabályokról, a jogszabályok és a belső normák elhatárolásáról, a belső normák előkészítéséről, megalkotásának folyamatáról, valamint a norma-felülvizsgálatról és a deregulációról. A vizsgázó sajátítsa el azokat az alapvető rendelkezéseket és szabályokat, amelyek a nemzeti és a külföldi minősített adatok védelméhez, valamint a személyes adatok kezeléséhez és a közérdekű adatok nyilvánosságához kapcsolódnak és elengedhetetlenül szükségesek a napi munkavégzéshez, az információ- és adatcsere végrehajtásához. A vizsgázó szerezzen ismeretet Magyarország védelmi igazgatási rendszerének feladatairól, az ezzel összefüggő szervezeti és irányítási kérdésekről, a védelmi igazgatás helyéről, szerepéről a közigazgatásban. A vizsgázónak legyen átfogó képe a fegyveres szervek ügyeleteinek formáiról, szabályozásáról, működésének különböző módjairól. Legyen ismerete a fegyveres szervek nemzetközi tevékenységének rendszeréről és az ezzel összefüggő feladatok végrehajtásának szabályozásáról és módjáról. A vizsgázó ismerje meg az emberi és állampolgári jogok eszmetörténetét, csoportosítását, az alapvető jogok biztosa és a Független Rendészeti Panasztestület intézményét, a közérdekű bejelentésekkel összefüggő általános tudnivalókat, illetve az emberi jogok és a fegyveres szervek tagjaival és tevékenységével összefüggő sajátos kérdéseket. A vizsgázó tudja bemutatni az érdekképviseleti, érdekérvényesítési rendszert a fegyveres szervekkel összefüggésben, legyen birtokában a kérelem, a panasz, a szolgálati jogvitával kapcsolatos tudásanyagnak. A vizsgázó legyen tisztában az írott és elektronikus sajtónak adandó tájékoztatás általános és speciális szabályaival. A vizsgázónak legyen áttekintése az ellenőrzési tevékenységről, az ezzel összefüggő feladatokról és jogszabályi ismeretekről.
+## A vizsgatárgy rendeltetése, hogy általános ismeretet nyújtson a normaalkotással kapcsolatos fogalmakról, szabályokról, a jogszabályok és a belső normák elhatárolásáról, a belső normák előkészítéséről, megalkotásának folyamatáról, valamint a norma-felülvizsgálatról és a deregulációról. A vizsgázó sajátítsa el azokat az alapvető rendelkezéseket és szabályokat, amelyek a nemzeti és a külföldi minősített adatok védelméhez, valamint a személyes adatok kezeléséhez és a közérdekű adatok nyilvánosságához kapcsolódnak és elengedhetetlenül szükségesek a napi munkavégzéshez, az információ- és adatcsere végrehajtásához. A vizsgázó szerezzen ismeretet Magyarország védelmi igazgatási rendszerének feladatairól, az ezzel összefüggő szervezeti és irányítási kérdésekről, a védelmi igazgatás helyéről, szerepéről a közigazgatásban. A vizsgázónak legyen átfogó képe a rendvédelmi feladatokat ellátó szervek ügyeleteinek formáiról, szabályozásáról, működésének különböző módjairól. Legyen ismerete a rendvédelmi feladatokat ellátó szervek nemzetközi tevékenységének rendszeréről és az ezzel összefüggő feladatok végrehajtásának szabályozásáról és módjáról. A vizsgázó ismerje meg az emberi és állampolgári jogok eszmetörténetét, csoportosítását, az alapvető jogok biztosa és a Független Rendészeti Panasztestület intézményét, a közérdekű bejelentésekkel összefüggő általános tudnivalókat, illetve az emberi jogok és a rendvédelmi feladatokat ellátó szervek tagjaival és tevékenységével összefüggő sajátos kérdéseket. A vizsgázó tudja bemutatni az érdekképviseleti, érdekérvényesítési rendszert a rendvédelmi feladatokat ellátó szervekkel összefüggésben, legyen birtokában a kérelem, a panasz, a szolgálati jogvitával kapcsolatos tudásanyagnak. A vizsgázó legyen tisztában az írott és elektronikus sajtónak adandó tájékoztatás általános és speciális szabályaival. A vizsgázónak legyen áttekintése az ellenőrzési tevékenységről, az ezzel összefüggő feladatokról és jogszabályi ismeretekről.
 
 ## Követelmények
 
@@ -248,21 +248,21 @@ III. Adatvédelem
 
 ## A vizsgázó legyen képes értelmezni és alkalmazni a személyes adatok védelmével kapcsolatos fogalmakat, ismerje a személyes adat védelmével és a közérdekű adatok nyilvánosságával kapcsolatos szabályokat. Ismerje a rendőrség személyes adatkezelését, az adatok felvételére, tárolására és megsemmisítésére vonatkozó követelményeket. Legyen ismerete a személyes adatok továbbítására vonatkozó szabályokról, az adat- és információcseréről.
 
-IV. Védelmi igazgatás, minősített időszaki feladatok
+## IV.[^41] Védelmi igazgatás, minősített időszaki feladatok
 
-## A vizsgázó ismerje meg az országvédelem rendszerének elemeit, legyen képes értelmezni az Alaptörvényben meghatározott minősített időszakok jellemzőit. Tudja az országvédelem központi, területi és helyi szerveinek feladatait; a honvédelmi, gazdasági és anyagi szolgáltatási kötelezettségeket, valamint a fegyveres szervek készenlétbe helyezésének elveit és a veszélyhelyzettel kapcsolatos rendészeti feladatokat.
+## A vizsgázó ismerje meg az országvédelem rendszerének elemeit, legyen képes értelmezni az Alaptörvényben meghatározott minősített időszakok jellemzőit. Tudja az országvédelem központi, területi és helyi szerveinek feladatait; a honvédelmi, gazdasági és anyagi szolgáltatási kötelezettségeket, valamint a rendvédelmi feladatokat ellátó szervek készenlétbe helyezésének elveit és a veszélyhelyzettel kapcsolatos rendészeti feladatokat.
 
-V. Az ügyelet
+## V.[^42] Az ügyelet
 
-## Alapvető követelmény a vizsgázóval szemben, hogy ismerje az állami ügyeleti rendszert, a monitoring rendszer fogalmát, az ügyeletek típusait, formáit, az ügyeletekkel szemben támasztott alapvető követelményeket, a fegyveres szervek ügyeleti fogalmát és annak formáit.
+## Alapvető követelmény a vizsgázóval szemben, hogy ismerje az állami ügyeleti rendszert, a monitoring rendszer fogalmát, az ügyeletek típusait, formáit, az ügyeletekkel szemben támasztott alapvető követelményeket, a rendvédelmi feladatokat ellátó szervek ügyeleti fogalmát és annak formáit.
 
 VI. Nemzetközi kapcsolatok
 
 ## A vizsgázó rendelkezzen általános ismeretekkel a nemzetközi kapcsolatok tervezéséről, a nemzetközi tárgyalások rendjéről, a nemzetközi megállapodásokról, a rendészeti szervek nemzetközi együttműködéséről, a nemzetközi kapcsolatok szakmai irányításáról, továbbá a külföldre történő kiutazások és vendégfogadások menetéről.
 
-VII. Emberi és állampolgári jogok, közérdekű bejelentések, panaszok
+## VII.[^43] Emberi és állampolgári jogok, közérdekű bejelentések, panaszok
 
-## A vizsgázó ismerje meg az emberi jogok és a kapcsolódó szervezetek történetét. Tudja összefüggéseiben látni az emberi jogok védelmére hivatott jogi garanciák és intézmények megvalósulását. Legyen képes értelmezni az emberi jogok és a fegyveres szervek viszonyának összefüggéseit.
+## A vizsgázó ismerje meg az emberi jogok és a kapcsolódó szervezetek történetét. Tudja összefüggéseiben látni az emberi jogok védelmére hivatott jogi garanciák és intézmények megvalósulását. Legyen képes értelmezni az emberi jogok és a rendvédelmi feladatokat ellátó szervek viszonyának összefüggéseit.
 
 ## A vizsgázó számára legyen egyértelmű az állampolgárokat a közhatalommal kapcsolatban megillető jogorvoslati rendszer egésze. Tudja a különböző tartalmú panaszokat helyesen értelmezni, elhatárolni, ennek megfelelően minősíteni és helyes eljárási rendbe terelni. Ismerje a Rendőrségről szóló törvény szerinti panaszkezelés újszerű filozófiáját, s az ennek megfelelő, megváltozott jogi és intézményi hátteret, különös tekintettel a Független Rendészeti Panasztestületre, valamint az ORFK Központi Panaszirodára. A megszerzett ismeretek által a vizsgázó legyen képes hatékony szerepet vállalni a Rendőrség tevékenységét érintő panaszok törvényes, szakszerű, tisztességes és gyors kivizsgálásában, s ezzel hozzájárulni a Rendőrség iránti lakossági bizalom erősítéséhez.
 
@@ -274,17 +274,17 @@ IX. Kommunikáció
 
 ## A vizsgázó ismerje azon jogszabályokat, melyek keretei között mind a médiumok, mind a hírszolgáltatók részéről hiteles és pontos tájékoztatás nyújtható. A vizsgázó sajátítsa el a kommunikációs tevékenység lényeges elemeit, eszközeit, módszereit, a tájékoztatás rendjére vonatkozó főbb szabályokat. Tudja a sajtó-helyreigazítás lényeges szabályait, valamint a közszereplés megítélésének elveit. A vizsgázónak legyen áttekintése a kríziskommunikációt igénylő helyzetekről, a megoldás lehetséges módjairól. Kapjon képet a kommunikáció sajátos területeiről, a civil szervezetekkel való kapcsolatok jelentőségéről. Ismerje a sajtószereplés egyes speciális kérdéseit, követelményeit.
 
-X. Ellenőrzési tevékenység
+## X.[^44] Ellenőrzési tevékenység
 
-## A vizsgázó ismerje az ellenőrzés helyét, annak típusát, rendszerének elemeit a fegyveres szervek tevékenységében. Rendelkezzen megfelelő ismeretekkel az ellenőrzéssel szemben támasztott követelményekről, a tervezésről, a szervezésről és a végrehajtás főbb szabályairól. Ismerje az ellenőrzési tevékenység munkaszakaszait. Tudja, miként hasznosulnak az ellenőrzések megállapításai. Legyen tájékozott az Európai Unió ellenőrzési rendszeréről.
+## A vizsgázó ismerje az ellenőrzés helyét, annak típusát, rendszerének elemeit a rendvédelmi feladatokat ellátó szervek tevékenységében. Rendelkezzen megfelelő ismeretekkel az ellenőrzéssel szemben támasztott követelményekről, a tervezésről, a szervezésről és a végrehajtás főbb szabályairól. Ismerje az ellenőrzési tevékenység munkaszakaszait. Tudja, miként hasznosulnak az ellenőrzések megállapításai. Legyen tájékozott az Európai Unió ellenőrzési rendszeréről.
 
-## II.6. FEGYVERES SZERVEK HUMÁN-IGAZATÁSA
+## II.6.[^45] RENDVÉDELMI FELADATOKAT ELLÁTÓ SZERVEK HUMÁN-IGAZATÁSA
 
-## A vizsgatárgy rendeltetése, hogy a vizsgázó elsajátítsa az emberi erőforrásokkal való tervszerű gazdálkodást befolyásoló jogokat és kötelezettségeket, a konkrét, napi munkához szükséges ismeretanyagot, amely a fegyveres szervek hatékony és eredményes működéséhez nélkülözhetetlenek. A vizsgázó ismerje meg a humán szakterület feladatrendszerét, szervezeti rendjét, struktúráját. Tudja bemutatni a személyügyi és a munkaügyi tevékenységet, a fegyelmi és kártérítési eljárásokat, a szociális és kegyeleti gondoskodás formáit és eljárási rendjét, a szervezetfejlesztés alapelveit, valamint a fegyveres szerveknél folyó oktatási, képzési, tudományszervezési, valamint sport (fizikai alkalmasság) lehetőségeket.
+## A vizsgatárgy rendeltetése, hogy a vizsgázó elsajátítsa az emberi erőforrásokkal való tervszerű gazdálkodást befolyásoló jogokat és kötelezettségeket, a konkrét, napi munkához szükséges ismeretanyagot, amely a rendvédelmi feladatokat ellátó szervek hatékony és eredményes működéséhez nélkülözhetetlenek. A vizsgázó ismerje meg a humán szakterület feladatrendszerét, szervezeti rendjét, struktúráját. Tudja bemutatni a személyügyi és a munkaügyi tevékenységet, a fegyelmi és kártérítési eljárásokat, a szociális és kegyeleti gondoskodás formáit és eljárási rendjét, a szervezetfejlesztés alapelveit, valamint a rendvédelmi feladatokat ellátó szerveknél folyó oktatási, képzési, tudományszervezési, valamint sport (fizikai alkalmasság) lehetőségeket.
 
 ## Követelmények
 
-I. A fegyveres szerveknél alkalmazott egyéb foglalkoztatási jogszabályok
+## I.[^46] A rendvédelmi feladatokat ellátó szerveknél alkalmazott egyéb foglalkoztatási jogszabályok
 
 ## A vizsgázó legyen tájékozott mindazokban a normákban, amelyek meghatározzák a köz szolgálatában állók életútját a felvételtől a jogviszony megszűnéséig. Ismerje a legfontosabb elveket, jogi és módszertani ismereteket, az átjárhatóságot. Legyen tájékozott a Magyar Rendvédelmi Kar és az érdekképviselet szerepével.
 
@@ -300,13 +300,13 @@ IV. Szociális és kegyeleti gondoskodás, cafetéria, nyugállományúak
 
 ## A vizsgázó rendelkezzen átfogó ismeretekkel a szociális és kegyeleti gondoskodás körébe eső jogosultságokról, e tevékenységek szervezeti kereteiről, a kedvezményekről és a támogatásokról, a cafetériáról, továbbá a nyugdíjasoknak járó szociális gondozásról, valamint a kegyeleti gondoskodás általános és speciális vonatkozásairól.
 
-V. Szervezetformálás
+## V.[^47] Szervezetformálás
 
-## A vizsgázó ismerje a hatáskörrel rendelkező minisztériumi vezetők és a fegyveres szervek állományilletékes parancsnokainak szervezési hatásköreit. Legyen képes eligazodni a szervezési állománytáblázatban, és értse a szerveknél rendszeresített beosztások rendszerét és szervezési alapelveit.
+## A vizsgázó ismerje a hatáskörrel rendelkező minisztériumi vezetők és a rendvédelmi feladatokat ellátó szervek állományilletékes parancsnokainak szervezési hatásköreit. Legyen képes eligazodni a szervezési állománytáblázatban, és értse a szerveknél rendszeresített beosztások rendszerét és szervezési alapelveit.
 
-VI. Oktatás, képzés, fizikai felmérés
+## VI.[^48] Oktatás, képzés, fizikai felmérés
 
-## A vizsgázó értse a fegyveres szervek belső iskolai rendszerű és iskolarendszeren kívüli képzési, továbbképzési, vezetőképzési, átképzési és kiképzési rendszerének felépítését, működési mechanizmusait, követelményrendszerét, és annak összefüggéseit. Rendelkezzen ismeretekkel a tudományos kutatómunka elveiről, szervezeti kereteiről, valamint a sporttevékenységek (fizikai felmérés) rendszeréről.
+## A vizsgázó értse a rendvédelmi feladatokat ellátó szervek belső iskolai rendszerű és iskolarendszeren kívüli képzési, továbbképzési, vezetőképzési, átképzési és kiképzési rendszerének felépítését, működési mechanizmusait, követelményrendszerét, és annak összefüggéseit. Rendelkezzen ismeretekkel a tudományos kutatómunka elveiről, szervezeti kereteiről, valamint a sporttevékenységek (fizikai felmérés) rendszeréről.
 
 ## II.7. KATASZTRÓFAVÉDELMI-TŰZVÉDELMI IGAZGATÁS
 
@@ -342,7 +342,7 @@ I. A tűz elleni védekezés jogi szabályozása
 
 ## A vizsgázó ismerje meg a tűz elleni védekezés rendszerét, a végrehajtásra kötelezettek feladatait és a tűzoltóság szerveinek jogállását. A vizsgázó rendelkezzen alapismeretekkel a tűzvédelmi hatósági és szakhatósági jogkörökről, a tűzvizsgálatról és azok felosztásáról, a tűzvédelem területén alkalmazott szankciók fajtáiról.
 
-## II.[^10] Az Országos Tűzvédelmi Szabályzat előírásai és követelményei
+## II.[^49] Az Országos Tűzvédelmi Szabályzat előírásai és követelményei
 
 ## A vizsgázó ismerje meg az alapvető előírásokat, és rendelkezzen részletesebb szakismeretekkel a tűzveszélyességi osztályba sorolás, a kockázati osztályba sorolás, valamint az építmények tűzvédelmének szabályairól.
 
@@ -380,13 +380,13 @@ IV. Állampolgársági ismeretek
 
 ## A vizsgázó rendelkezzen ismeretekkel az állampolgársághoz kapcsolódó alapfogalmakról, a többes (kettős) állampolgárság, hontalanság intézményéről és az európai uniós állampolgárságról. Sajátítsa el a magyar állampolgárság megszűnésének és megszerzésének eseteit, és a hatályos magyar jogszabályok alapján ismerkedjen meg az állampolgársági eljárás általános jellemzőivel. Ismerje meg az állampolgársági eljárásban érintett szervek feladat- és hatáskörét, továbbá a magyar állampolgárság igazolásának szabályait.
 
-## II.9. A FEGYVERES SZERVEK MŰSZAKI-TECHNIKAI-INFORMATIKAI IGAZGATÁSA
+## II.9.[^50] A RENDVÉDELMI FELADATOKAT ELLÁTÓ SZERVEK MŰSZAKI-TECHNIKAI-INFORMATIKAI IGAZGATÁSA
 
-## A vizsgatárgy rendeltetése, hogy a vizsgázó számára általános ismereteket nyújtson a rendvédelmi logisztika alapjairól, főbb sajátosságairól. Alapozza meg a vizsgázó ismereteit a műszaki-, technikai eszközök használata és üzemeltetése, valamint az ezzel összefüggő feladatok ellátása körében. Nyújtson tájékoztatást a fegyveres szervek logisztikájának speciális területeiről, az ingatlan- és ingóvagyontárgyak lényegesebb eszköztípusaival való gazdálkodásról, informatikai sajátosságairól.
+## A vizsgatárgy rendeltetése, hogy a vizsgázó számára általános ismereteket nyújtson a rendvédelmi logisztika alapjairól, főbb sajátosságairól. Alapozza meg a vizsgázó ismereteit a műszaki-, technikai eszközök használata és üzemeltetése, valamint az ezzel összefüggő feladatok ellátása körében. Nyújtson tájékoztatást a rendvédelmi feladatokat ellátó szervek logisztikájának speciális területeiről, az ingatlan- és ingóvagyontárgyak lényegesebb eszköztípusaival való gazdálkodásról, informatikai sajátosságairól.
 
 ## Követelmények
 
-I. A fegyveres szervek logisztikájának speciális területei
+## I.[^51] A rendvédelmi feladatokat ellátó szervek logisztikájának speciális területei
 
 ## A vizsgázó legyen tisztában az állami vagyon összetételével, a vagyongazdálkodás szemléletével. A vizsgázó ismerje azokat a jogszabályokat, melyek alkalmazásával a különböző áruk és szolgáltatások beszerzése a költségvetési szerveknél megvalósulhat. Kapjon átfogó képet a beszerzési igény keletkezésétől a kötelezettségvállalás létrejöttéig a közpénzek felhasználhatóságának folyamatában. A vizsgázó sajátítsa el az adományok és egyéb felajánlások elfogadásával kapcsolatos előírásokat.
 
@@ -398,13 +398,13 @@ I. A fegyveres szervek logisztikájának speciális területei
 
 ## A vizsgázó tudja az energiagazdálkodás fogalmát, az energiaracionalizálás célját, folyamatának lépéseit. Legyen tájékozott a környezetvédelem fogalmáról, alapelveiről és a környezeti elemek védelmét célzó intézkedések lehetőségéről. A vizsgázó ismerje a rendvédelmi szervek tűzvédelmének feladatait.
 
-II. A fegyveres szervek ingatlanvagyonával való gazdálkodás
+## II.[^52] A rendvédelmi feladatokat ellátó szervek ingatlanvagyonával való gazdálkodás
 
 ## A vizsgázó ismerje az ingatlangazdálkodás műveleteit és hatékonyan oldja meg az ingatlangazdálkodási területen jelentkező vezetői feladatokat. A vizsgázó sajátítsa el a munkáltatói lakhatási támogatások rendszerét, ezen belül a rendészeti rendelkezésű lakások körét, a lakásbérletre, a lakások elidegenítésére vonatkozó rendelkezéseket. Szerezzen ismeretet a lakáscélú munkáltatói kölcsöntámogatások igénybevételének lehetőségeiről, feltételeiről és a szállóférőhelyek használatának, valamint a bérleti, albérleti díj hozzájárulás megállapításának szabályairól. A vizsgázó értse meg, hogy az állami vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni.
 
-## A vizsgázó legyen képes eligazodni az építés-beruházási és felújítási tevékenység megvalósítása során alkalmazott jogszabályokban. A vizsgázó sajátítsa el az építés-beruházási és felújítási tevékenységek fogalmait, a szervezet felépítését, feladatait, tudjon eligazodni az építés-beruházási, a felújítási, valamint az állagmegóvási (karbantartási) munkák pénzügyi finanszírozását illetően. Legyen tájékozott az építés-beruházások tervezéséről és szervezéséről, a kijelölt lebonyolítók felelősségéről és kötelességeiről. Ismerje az ingatlan-felújítás tervezését, végrehajtását és nyilvántartását. Legyen képes a fegyveres szervek területi szintjére előírt ellenőrzési és nyilvántartási feladatok esetében az elméleti ismeretek gyakorlati alkalmazására.
+## A vizsgázó legyen képes eligazodni az építés-beruházási és felújítási tevékenység megvalósítása során alkalmazott jogszabályokban. A vizsgázó sajátítsa el az építés-beruházási és felújítási tevékenységek fogalmait, a szervezet felépítését, feladatait, tudjon eligazodni az építés-beruházási, a felújítási, valamint az állagmegóvási (karbantartási) munkák pénzügyi finanszírozását illetően. Legyen tájékozott az építés-beruházások tervezéséről és szervezéséről, a kijelölt lebonyolítók felelősségéről és kötelességeiről. Ismerje az ingatlan-felújítás tervezését, végrehajtását és nyilvántartását. Legyen képes a rendvédelmi feladatokat ellátó szervek területi szintjére előírt ellenőrzési és nyilvántartási feladatok esetében az elméleti ismeretek gyakorlati alkalmazására.
 
-III. A fegyveres szervek ingóvagyona, lényegesebb eszköztípusaival való gazdálkodás
+## III.[^53] A rendvédelmi feladatokat ellátó szervek ingóvagyona, lényegesebb eszköztípusaival való gazdálkodás
 
 ## A vizsgázó sajátítsa el a fegyverzettechnikai ellátáshoz kapcsolódó alapfogalmakat, legyen tájékozott az ellátás sajátosságairól. Munkaköri feladataiból kiindulva szerezzen jártasságot a fegyverek nyilvántartására és tárolására vonatkozó szabályokról. Ismerje meg a fegyverzettechnikai ellátás szakirányításának általános feladatait, a területi és a helyi szervek szintjén jelentkező tennivalókat.
 
@@ -412,9 +412,9 @@ III. A fegyveres szervek ingóvagyona, lényegesebb eszköztípusaival való gaz
 
 ## A vizsgázó ismerje meg a gépjárműves szakterület sajátságos szerepét, főbb feladatait, valamint kapjon átfogó képet a gépjárművek beszerzésével, igénybevételével kapcsolatos igénybevevői, ellátói feladatokról. Tudja megkülönböztetni az egyes járműkategóriákat, igénybevevőként ismerje a járművek használata során jelentkező események jelentési kötelezettségéivel kapcsolatos teendőket.
 
-IV. A fegyveres szervek informatikai sajátosságai
+## IV.[^54] A rendvédelmi feladatokat ellátó szervek informatikai sajátosságai
 
-## A vizsgázó ismerje meg az informatikai rendszer irányításához szükséges feltételeket, a rendszer felépítését, a szakirányító szervezetet, a rendszerben jelenleg működő szoftvereket. Tudja az informatika munkavégzés alapszabályait. Ismerje az egységes digitális rádiótávközlő rendszer (EDR) révén a híradásban jelentkező új lehetőségeket. Sajátítsa el a fegyveres szervek frekvenciagazdálkodásának alapelveit, a nem polgári célú frekvenciagazdálkodással kapcsolatos feladatokat.
+## A vizsgázó ismerje meg az informatikai rendszer irányításához szükséges feltételeket, a rendszer felépítését, a szakirányító szervezetet, a rendszerben jelenleg működő szoftvereket. Tudja az informatika munkavégzés alapszabályait. Ismerje az egységes digitális rádiótávközlő rendszer (EDR) révén a híradásban jelentkező új lehetőségeket. Sajátítsa el a rendvédelmi feladatokat ellátó szervek frekvenciagazdálkodásának alapelveit, a nem polgári célú frekvenciagazdálkodással kapcsolatos feladatokat.
 
 ## II.10. NEMZETBIZTONSÁGI IGAZGATÁS
 
@@ -448,9 +448,9 @@ V. Szervezett Bűnözés Elleni Koordinációs Központ
 
 ## Követelmények
 
-I. A szolgálati viszonnyal összefüggő alapvető szabályozási kérdések
+## I.[^55] A szolgálati viszonnyal összefüggő alapvető szabályozási kérdések
 
-## A vizsgázó ismerje meg a hivatásos állományúak alapvető jogainak korlátozására vonatkozó általános és különös szabályokat. Átfogó ismeretekkel rendelkezzen a fegyveres szervek szakmai- és érdekképviselet rendszeréről, ezen belül a Magyar Rendvédelmi Karról, a rendvédelmi érdekegyeztetés fórumairól és a szakszervezetekről. Ismerje meg az etikai eljárás, valamint a fegyelmi eljárás szabályait, továbbá a kifogástalan életvitel ellenőrzés rendszerének jogszabályban szereplő szabályait. Sajátítsa el a különleges foglalkozási állományra vonatkozó főbb szabályokat.
+## A vizsgázó ismerje meg a hivatásos állományúak alapvető jogainak korlátozására vonatkozó általános és különös szabályokat. Átfogó ismeretekkel rendelkezzen a rendvédelmi feladatokat ellátó szervek szakmai- és érdekképviselet rendszeréről, ezen belül a Magyar Rendvédelmi Karról, a rendvédelmi érdekegyeztetés fórumairól és a szakszervezetekről. Ismerje meg az etikai eljárás, valamint a fegyelmi eljárás szabályait, továbbá a kifogástalan életvitel ellenőrzés rendszerének jogszabályban szereplő szabályait. Sajátítsa el a különleges foglalkozási állományra vonatkozó főbb szabályokat.
 
 II. Közterületi rendőri tevékenység
 
@@ -512,6 +512,31 @@ IV. Áruosztályozás és áruismereti feladatok
 
 V. Büntető- és szabálysértési jogi feladatok
 
-[^8]: A 2. melléklet II.1. pont VII. alpontja a 297/2013. (VII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.
-[^9]: A 2. melléklet II.3. pont IV. alpontja a 221/2014. (IX. 4.) Korm. rendelet 693. §-a szerint módosított szöveg.
-[^10]: A 2. melléklet II.7. pont „B” ismeretrész II. pontja a 300/2014. (XII. 5.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^28]: A 2. melléklet I. alcím „A” ismeretrész I. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^29]: A 2. melléklet II. pont „B” ismeretrész címe és bevezető része a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^30]: A 2. melléklet I. alcím „B” ismeretrész V. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^31]: A 2. melléklet I. alcím „B” ismeretrész VIII. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^32]: A 2. melléklet II. pont „B” ismeretrész IX. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet II. pont „B” ismeretrész X. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^34]: A 2. melléklet II. pont „B” ismeretrész XI. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^35]: A 2. melléklet II.1. pont VII. alpontja a 297/2013. (VII. 29.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^36]: A 2. melléklet II.2. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^37]: A 2. melléklet II.3. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^38]: A 2. melléklet II.3. pont IV. alpontja a 221/2014. (IX. 4.) Korm. rendelet 693. §-a szerint módosított szöveg.
+[^39]: A 2. melléklet II.2. pontja VI. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^40]: A 2. melléklet II.5. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^41]: A 2. melléklet II.5. pont IV. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^42]: A 2. melléklet II.5. pont V. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^43]: A 2. melléklet II.5. pont VII. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^44]: A 2. melléklet II.5. pont X. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^45]: A 2. melléklet II.6. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^46]: A 2. melléklet II.6. pont I. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^47]: A 2. melléklet II.6. pont V. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^48]: A 2. melléklet II.6. pont VI. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^49]: A 2. melléklet II.7. pont „B” ismeretrész II. pontja a 300/2014. (XII. 5.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^50]: A 2. melléklet II.9. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^51]: A 2. melléklet II.9. pont I. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^52]: A 2. melléklet II.9. pont II. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^53]: A 2. melléklet II.9. pont III. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^54]: A 2. melléklet II.9. pont IV. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
+[^55]: A 2. melléklet II.11. pont I. pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § f) pontja szerint módosított szöveg.
