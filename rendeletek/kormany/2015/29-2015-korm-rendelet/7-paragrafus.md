@@ -1,1 +1,3 @@
-## 6. § A Kormány egészségügyi államigazgatási szervként az ENKK-t jelöli ki a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 18/A. § (4) bekezdés b) pontja szerinti feladatok ellátására.
+## 6/A. §[^1] A Kormány az ENKK-t jelöli ki az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény szerinti rezidenseket foglalkoztató egészségügyi államigazgatási szervként.
+
+[^1]: A 6/A. §-t a 162/2015. (VI. 30.) Korm. rendelet 50. §-a iktatta be. Alkalmazására lásd e módosító rendelet 33–35. §-át.

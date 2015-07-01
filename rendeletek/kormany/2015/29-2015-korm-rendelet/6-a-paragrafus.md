@@ -1,0 +1,1 @@
+## 6. § A Kormány egészségügyi államigazgatási szervként az ENKK-t jelöli ki a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 18/A. § (4) bekezdés b) pontja szerinti feladatok ellátására.
