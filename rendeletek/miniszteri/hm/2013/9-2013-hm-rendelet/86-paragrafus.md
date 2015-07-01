@@ -10,7 +10,7 @@ d) „D” teljesítményszint: Átlag alatti 41–50%
 
 e) „E” teljesítményszint: Elfogadhatatlan 0–40%
 
-## állapítható meg.
+állapítható meg.
 
 (2) „Szolgálati beosztásának ellátására alkalmatlan” az értékelés, ha
 

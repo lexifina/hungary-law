@@ -7,3 +7,5 @@ b) honvéd altiszt-jelölt,
 c) honvédségi ösztöndíjas hallgató, és
 
 d) az állomány Hjt. 46. § (1) bekezdés m) pontja szerinti rendelkezési állományba tartozó tagjának
+
+szolgálati beosztását.

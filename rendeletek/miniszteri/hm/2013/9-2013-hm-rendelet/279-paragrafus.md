@@ -1,5 +1,6 @@
-## 278. § E rendeletet a hatályba lépésekor fennálló szolgálati, önkéntes tartalékos, tisztjelölti és altiszt-jelölti szolgálati viszonyban állókra is alkalmazni kell.
+## 278. §[^118] A 90. § (2) bekezdésétől eltérően az általános előmeneteli rendbe tartozó szolgálati beosztásokban szolgálatot teljesítő főhadnagyok 2017. június 30-ig egy évvel a főhadnagyi rendfokozatba történő előléptetést követően minősítő vizsgára jelentkezhetnek.
 
-279. § (1) A 19. §-t a legénységi állomány azon tagja esetében, aki a Honvédség által szervezett, a kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, 2014. január 1-jétől kell alkalmazni.
+279. §[^119]
 
-(2) A 38. §-t a rendelet hatályba lépését követően speciális előmeneteli rendbe tartozó szolgálati beosztásba áthelyezések és kinevezések esetén kell alkalmazni.
+[^118]: A 278. § a 4/2015. (VI. 22.) HM rendelet 25. §-ával megállapított szöveg.
+[^119]: A 279. §-t a 4/2015. (VI. 22.) HM rendelet 29. § n) pontja hatályon kívül helyezte.

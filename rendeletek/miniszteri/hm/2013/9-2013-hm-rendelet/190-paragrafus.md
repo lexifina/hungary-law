@@ -20,6 +20,9 @@ g) az 1. § 10. pont a), d)–f) alpontja szerinti külföldi szolgálat esetén
 
 (3) Az (1) bekezdés f) pontja szerinti adatokat – függetlenül a családi ellátmánypótlékra jogosító hozzátartozók állomáshelyre történő tényleges kitelepülésének tényleges időpontjától – a besorolási parancsban vagy határozatban abban az esetben kell feltüntetni, ha a családi ellátmánypótlékra való jogosultság feltételeinek fennállását az állomány tagja az előírt igazolások benyújtásával igazolta.
 
-(4) Az (1) bekezdés e) és f) pontja szerinti tartalmi elemeket az állományilletékes parancsnok besorolási parancsban vagy határozatban állapítja meg az 1. § 10. pont i) alpontja kivételével tábornok tartós külföldi szolgálatra vezénylése, valamint az 1. § 10. pont b), c), g), és h) alpontja szerinti egy évnél hosszabb időtartamú külföldi szolgálatra történő vezénylés esetén.
+(4)[^104]
 
-(5) Az 1. § 10. pont d) és f) alpontja szerinti tartós külföldi szolgálatra vezényelt tábornok esetén a (4) bekezdés szerinti jogkört az MH ÖHP parancsnoka gyakorolja.
+(5)[^105] Az 1. § 10. pont d) és f) alpontja szerinti tartós külföldi szolgálatra vezényelt tábornok esetén az (1) bekezdés e) pontja szerinti tartalmi elemeket az MH ÖHP parancsnoka besorolási parancsban vagy határozatban állapítja meg.
+
+[^104]: A 190. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 29. § m) pontja hatályon kívül helyezte.
+[^105]: A 190. § (5) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 40. pontja szerint módosított szöveg.

@@ -1,1 +1,3 @@
-## 54. § A 30 napot meg nem haladó megbízás lejártát követő 3 hónapon belül újabb megbízás csak az állomány tagjának beleegyezésével adható.
+55. §[^52]
+
+[^52]: Az 54–55. §-t a 4/2015. (VI. 22.) HM rendelet 29. § d) pontja hatályon kívül helyezte.

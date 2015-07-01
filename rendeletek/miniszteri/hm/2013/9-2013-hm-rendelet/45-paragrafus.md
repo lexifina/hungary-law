@@ -11,3 +11,7 @@ c) a közigazgatási szakvizsga sikeres letétele.
 (3) A (2) bekezdés a) pontja szerinti időtartamok számításakor az őrnagy, az alezredes, és az ezredes rendfokozattal rendszeresített beosztásokban eltöltött idő vehető figyelembe.
 
 (4) A (2) bekezdés c) pontját kizárólag a HM-ben kell alkalmazni. A közigazgatási szakvizsga-kötelezettségre a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 118. § (9) bekezdése az irányadó.
+
+(5)[^44] A 21. § (1) bekezdését állománycsoport-váltás során is alkalmazni kell.
+
+[^44]: A 45. § (5) bekezdését a 4/2015. (VI. 22.) HM rendelet 11. §-a iktatta be.

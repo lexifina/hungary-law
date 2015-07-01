@@ -1,7 +1,5 @@
-## 32/A. [^19] Az őr-, ügyeleti- és a készenléti szolgálatok
+## 32/A. Az őr-, ügyeleti és készenléti szolgálatok
 
-120/A. § (1) Az őr-, ügyeleti- és a készenléti szolgálatok szolgálatvezénylését az állomány tagjával legalább tíz nappal az esedékesség előtt közölni kell.
+120/A. § (1) Az őr-, ügyeleti és készenléti szolgálatok Hjt. 105. §-a szerinti besorolását, a szolgálatok fő típusait a 15. melléklet tartalmazza. A honvédségi szervezetek a szolgálatok megszervezésére vonatkozó intézkedésükben a 15. mellékletben meghatározott elnevezések használata mellett, a szolgálatok speciális jellegére zárójelek között feltüntetett szövegrésszel utalhatnak. Az intézkedésben pontosan meg kell határozni az elrendelt szolgálat jellegét, valamint fel kell tüntetni, hogy az mely szolgálattípusba sorolható.
 
-(2) Az (1) bekezdésben meghatározott szabályoktól, illetve az (1) bekezdés szerint közölt szolgálatvezénylésben foglaltaktól kizárólag különösen indokolt, a feladatellátást közvetlenül veszélyeztető esetben lehet eltérni.
-
-[^19]: A 32/A. alcímet (120/A–120/D. §) a 24/2013. (XII. 20.) HM rendelet 10. §-a iktatta be.
+(2) Az őr-, illetve ügyeleti szolgálatba léptetés céljából vezényelt készenléti szolgálatok vonatkozásában az őr-, illetve ügyeleti szolgálat elrendelése esetén a feladatellátás idejére a szolgálat jellege őr-, illetve ügyeleti szolgálatra változik.

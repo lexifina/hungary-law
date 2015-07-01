@@ -2,6 +2,8 @@
 
 ## 23. § Ha a szolgálati viszony a Hjt. 75. §-a szerint úgy létesül, hogy a szolgálati viszony korábbi megszűnése és a hivatásos állományba visszavétel között több, mint 10 év telt el, az állományba vételi okmányban
 
-a) a próbaidő megállapítása kötelező, és
+a)[^34]
 
 b) a próbaidő alatt a HVKF az állomány tagját alapkiképzésen való részvételre kötelezheti.
+
+[^34]: A 23. § a) pontját a 4/2015. (VI. 22.) HM rendelet 29. § c) pontja hatályon kívül helyezte.

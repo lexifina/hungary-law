@@ -16,13 +16,13 @@
 
 5. fegyelmi vizsgálat: azon eljárási cselekmények összessége, amelyek a fegyelmi jogkört gyakorló döntését megalapozó, a fegyelemsértéssel összefüggő tények, valamint a súlyosító és enyhítő körülmények feltárásához szükségesek, vagy azt elősegítik,
 
-6. honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ),
+6.[^1] honvédelmi szervezet: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 13. pontja szerinti honvédségi szervezet, a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény és a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ),
 
-7.[^1] honvédségi ösztöndíjas hallgató: az a honvédnek nem minősülő személy,
+7.[^2] honvédségi ösztöndíjas hallgató: az a honvédnek nem minősülő személy,
 
 a) aki felsőoktatási intézmény nappali munkarendű felsőfokú alapképzésében, mesterképzésében vagy osztatlan képzésében tanulmányokat folytat, vagy iskolai rendszerű, nappali munkarendű szakképzés keretében az Országos Képzési Jegyzékben szereplő államilag elismert szakképesítések közül a Honvédségben rendszeresített katonai beosztások betöltéséhez szükséges szakképesítést szerez meg, és
 
-b) akinek tanulmányait a honvédelemért felelős miniszter (a továbbiakban: miniszter) által alapított ösztöndíj elnyerését követően a Magyar Honvédség (a továbbiakban: Honvédség) ösztöndíjszerződés alapján támogatja, és ezért ösztöndíjszerződésben vállalja, hogy tanulmányait meghatározott időn belül befejezi, valamint ezt követően szolgálati viszonyt létesít, és azt meghatározott ideig fenntartja.
+b)[^3] akinek tanulmányait a miniszter által alapított ösztöndíj elnyerését követően a Magyar Honvédség (a továbbiakban: Honvédség) ösztöndíjszerződés alapján támogatja, és ezért ösztöndíjszerződésben vállalja, hogy tanulmányait meghatározott időn belül befejezi, valamint ezt követően szolgálati viszonyt létesít, és azt meghatározott ideig fenntartja.
 
 8. katonai megfigyelő: a hivatásos és a szerződéses állomány (a továbbiakban együtt: állomány) műveleti területen fegyvertelen megfigyelői, szakértői, tanácsadói vagy összekötői feladatok végzésére irányuló külföldi szolgálatot teljesítő tagja,
 
@@ -54,15 +54,17 @@ k) a külföldi gyakorlaton, kiképzésen történő részvétel,
 
 l) a külföldi állomásozás,
 
-m) a hadművelet közvetett támogatása külföldről, nem hadműveleti területen, és
+m)[^4] a hadművelet közvetett támogatása külföldről, nem hadműveleti területen,
 
-n) a külföldi két- vagy többoldalú megbeszéléseken, szakmai egyeztetéseken történő részvétel,
+n)[^5] a külföldi két- vagy többoldalú megbeszéléseken, szakmai egyeztetéseken történő részvétel, és
+
+o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében végzett külföldi szolgálatteljesítés.
 
 11. munkakör: a munkafolyamat, a tevékenység alapegysége, amely a munkamegosztás alapján elkülönül és meghatározza az azt betöltő személy elvégzendő feladatait, jog- és hatáskörét, felelősségét és kötelezettségeit, valamint a szükséges szakmai, egészségi, pszichikai, fizikai követelményeket,
 
 12. műveleti szabadnap: a műveletben történő részvételre vezényelt állomány pihentetése, rekreációja érdekében biztosítandó naptári nap, amelynek mértékét a vonatkozó nemzetközi megállapodások, az adott nemzetközi missziót működtető nemzetközi szervezet által kiadott műveleti utasítás, valamint a magyar állományra jellemző körülmények és a vezénylés alapján a miniszter határozzák meg,
 
-13. rendszeresített rendfokozat: általános előmeneteli rendbe tartozó szolgálati beosztások esetén a rendszeresített, kettős rendfokozattal rendszeresített szolgálati beosztások esetén a magasabb, speciális előmeneteli rendbe tartozó szolgálati beosztások esetén a legmagasabb elérhető rendfokozat,
+13.[^7]
 
 14. szakmai felelős: a miniszter által kijelölt, a munkakörök betöltéséhez szükséges szakmai követelmények, az előmenetel szakmai feltételei és a képzési követelmények meghatározásáért felelős honvédelmi szervezet,
 
@@ -70,4 +72,10 @@ n) a külföldi két- vagy többoldalú megbeszéléseken, szakmai egyeztetések
 
 16. tanulmányi támogatás: a Honvédség által az állomány tagja részére vezénylés vagy tanulmányi szerződés alapján, tanulmányai folytatásához nyújtott támogatás.
 
-[^1]: Az 1. § 7. pontja a 24/2013. (XII. 20.) HM rendelet 6. §-ával megállapított szöveg.
+[^1]: Az 1. § 6. pontja a 4/2015. (VI. 22.) HM rendelet 27. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § 7. pontja a 24/2013. (XII. 20.) HM rendelet 6. §-ával megállapított szöveg.
+[^3]: Az 1. § 7. pont b) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 2. pontja szerint módosított szöveg.
+[^4]: Az 1. § 10. pont m) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 3. pontja szerint módosított szöveg.
+[^5]: Az 1. § 10. pont n) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 4. pontja szerint módosított szöveg.
+[^6]: Az 1. § 10. pont o) alpontját a 4/2015. (VI. 22.) HM rendelet 1. §-a iktatta be.
+[^7]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.

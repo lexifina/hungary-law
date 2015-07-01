@@ -1,14 +1,14 @@
-## Az egyes munkáltatói jogkörök gyakorlásának rendje az állomány tagjára vonatkozóan
+## 5K08199_0
 
 |  | A | B | C | D | E | F | G |
 
-| 1. | A hatáskör területe | A munkáltatói jogkör megnevezése | Honvéd Vezérkar főnöke | Katonai Nemzetbiztonsági Szolgálat főigazgató | Központi személyügyi szerv vezető | Magyar Honvédség Összhaderőnemi Parancsnokság parancsnok | Állományilletékes parancsnok |
+| 1. | A hatáskör területe | A munkáltatói jogkör megnevezése | HVKF | KNBSZ főigazgató | Központi személyügyi szerv vezető | MH ÖHP parancsnok | Állományilletékes parancsnok |
 
-| 2. | 1. Szolgálati viszony létesítése | 1.1. Hivatásos szolgálati viszony létesítése, állománycsoport váltás, hivatásos állományba való visszavétel, első rendfokozatba való kinevezés |  |
+| 2. | 1. Szolgálati viszony létesítése | 1.1. Hivatásos szolgálati viszony létesítése, állománycsoport-váltás, hivatásos állományba való visszavétel, első rendfokozatba való kinevezés |  |
 
 | 3. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-| 4. | 1.2. Szerződéses szolgálati viszony létesítése, állománycsoport váltás, első rendfokozatba való kinevezés |  |
+| 4. | 1.2. Szerződéses szolgálati viszony létesítése, állománycsoport-váltás, első rendfokozatba való kinevezés |  |
 
 | 5. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
@@ -36,7 +36,7 @@
 
 | 17. | - őrnagy; százados; főhadnagy; zászlós; főtörzsőrmester; törzsőrmester rendfokozattal rendszeresített beosztásba |  |  |  |  | X |
 
-| 18. | 2.5. Áthelyezés rendelkezési állományba a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés a)-f) pontja esetén |  |
+| 18. | 2.5. Áthelyezés rendelkezési állományba a Hjt. 46. § (1) bekezdés a), c)-f) pontja esetén |  |
 
 | 19. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
 
@@ -44,365 +44,347 @@
 
 | 21. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  | X |  |  |
 
-| 22. | 2.7.Előléptetés |  |
+| 22. | 2.7. Előléptetés |  |
 
-| 23. |  | - őrnagy; százados; főhadnagy; hadnagy; zászlós; főtörzsőrmester; törzsőrmester; őrmester; tizedes; őrvezető; közkatona |  |  |  |  | X |
+| 23. | - őrnagy; százados; főhadnagy; hadnagy; zászlós, főtörzsőrmester; törzsőrmester; őrmester; tizedes; őrvezető; közkatona |  |  |  |  | X |
 
-| 24. | - törzszászlós | X |  |  |  |  |
+| 24. | - központi előmenetel keretében zászlós; főtörzsőrmester |  |  | X |  |  |
 
-| 25. | 2.8. A Hjt. 42.§ (2) bekezdés a) pontja szerinti vezénylés, vezénylés megszüntetése |  |
+| 25. | - törzszászlós | X | X |  |  |  |
 
-| 26. | - ezredes | X | X |  |  |  |
+| 26. | 2.8. A Hjt. 42. § (2) bekezdés a) pontja szerinti vezénylés, vezénylés megszüntetése |  |
 
-| 27. | - alezredes; őrnagy; százados; főhadnagy; hadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; őrmester; szakaszvezető; tizedes; őrvezető; közkatona |  |  |  |  | X |
+| 27. | - ezredes | X | X |  |  |  |
 
-| 28. | 2.9. A Hjt. 42.§ (2) bekezdés b)-d) pontja szerinti vezénylés, vezénylés megszüntetése |  |
+| 28. | - alezredes; őrnagy; százados; főhadnagy; hadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; őrmester; szakaszvezető; tizedes; őrvezető; közkatona |  |  |  |  | X |
 
-| 29. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
+| 29. | 2.9. A Hjt. 42. § (2) bekezdés b) és d) pontja szerinti vezénylés, vezénylés megszüntetése |  |
 
-| 30. | 2.10. A hivatásos állomány a Hjt. 42.§ (2) bekezdés e) pontja szerinti vezénylése, vezénylés megszüntetése |  |
+| 30. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
 
-| 31. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
+| 31. | 2.10. A hivatásos állomány Hjt. 42. § (2) bekezdés e) pontja szerinti vezénylése, vezénylés megszüntetése |  |
 
-| 32. | 2.11. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai képzésre, katonai mesterképzésre vezénylés |  |
+| 32. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-| 33. | - főtiszt; tiszt |  |  |  |  | X |
+| 33. | 2.11. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai katonai mesterképzésre vezénylés |  |
 
-| 34. | 2.12. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai képzésre, felsőfokú vezetőképző tanfolyamra vezénylés |  |
+| 34. | - főtiszt; tiszt |  |  |  |  | X |
 
-| 35. | - tábornok; főtiszt | X |  |  |  |  |
+| 35. | 2.12. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai felsővezetői tanfolyamra vezénylés |  |
 
-| 36. | 2.13. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai képzésre, a Nemzeti Közszolgálati Egyetemen végrehajtásra kerülő egyéb tanfolyamra vezénylés |  |
+| 36. | - tábornok; főtiszt | X |  |  |  |  |
 
-| 37. | - tábornok | X |  |  |  |  |
+| 37. | 2.13. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai, az NKE-n végrehajtásra kerülő egyéb tanfolyamra vezénylés |  |
 
-| 38. |  | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 38. | - tábornok | X |  |  |  |  |
 
-| 39. | 2. 14. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai képzésre, a honvédségi szervezetek által végrehajtásra kerülő tanfolyamra, képzésre vezénylés |  |
+| 39. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 40. | - tábornok | X |  |  |  |  |
+| 40. | 2. 14. A Hjt. 42. § (2) bekezdés g) pontja szerinti hazai, a honvédségi szervezetek által végrehajtásra kerülő tanfolyamra, képzésre vezénylés |  |
 
-| 41. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 41. | - tábornok | X |  |  |  |  |
 
-| 42. | 2.15. A Hjt. 42. § (2) bekezdés g) pontja szerinti külföldi képzésre, felsővezetői tanfolyamra vezénylés |  |
+| 42. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 43. | - ezredes; alezredes | X |  |  |  |  |
+| 43. | 2.15. A Hjt. 42. § (2) bekezdés g) pontja szerinti külföldi felsővezetői tanfolyamra vezénylés |  |
 
-| 44. | 2.16. A Hjt. 42. § (2) bekezdés g) pontja szerinti külföldi képzésre, külföldi nyelvképzésre vezénylés |  |
+| 44. | - ezredes; alezredes | X |  |  |  |  |
 
-| 45. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
+| 45. | 2.16. A Hjt. 42. § (2) bekezdés g) pontja szerinti külföldi nyelvképzésre vezénylés |  |
 
-| 46. | 2.17. A Hjt. 42. § (2) bekezdés g) pontja szerinti ideiglenes külföldi képzésre vezénylés |  |
+| 46. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
 
-| 47. | - tábornok | X |  |  |  |  |
+| 47. | 2.17. A Hjt. 42. § (2) bekezdés g) pontja szerinti ideiglenes külföldi képzésre vezénylés |  |
 
-| 48. | 2.18. A Hjt. 42. § (2) bekezdés g) pontja szerinti egy évet meg nem haladó külföldi képzésre vezénylés |  |
+| 48. | - tábornok | X |  |  |  |  |
 
-| 49. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 49. | 2.18. A Hjt. 42. § (2) bekezdés g) pontja szerinti egy évet meg nem haladó külföldi képzésre vezénylés |  |
 
-| 50. | 2.19. A Hjt. 42. § (2) bekezdés g) pontja szerinti egy évet meghaladó külföldi képzésre vezénylés |  |
+| 50. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 51. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
+| 51. | 2.19. A Hjt. 42. § (2) bekezdés g) pontja szerinti egy évet meghaladó külföldi képzésre vezénylés |  |
 
-| 52. | 2.20. Szerződéses jogviszony meghosszabbítása |  |
+| 52. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
 
-| 53. | - ezredes | X |  |  |  |  |
+| 53. | 2.20. Szerződés módosítása |  |
 
-| 54. |  | - alezredes; őrnagy; százados; főhadnagy; hadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; őrmester; szakaszvezető; tizedes; őrvezető |  |  |  |  | X |
+| 54. | - ezredes | X |  |  |  |  |
 
-| 55. | 2.21. Megbízás a Hjt. 55. § (1) bekezdés a)-b) pontja esetén |  |
+| 55. | - alezredes; őrnagy; százados; főhadnagy; hadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; őrmester; szakaszvezető; tizedes; őrvezető |  |  |  |  | X |
 
-| 56. | - ezredes rendfokozattal rendszeresített beosztással | X | X |  |  |  |
+| 56. | 2.21. A Hjt. 55. §-a szerinti megbízás |  |
 
-| 56a. | - ezredes, tábornok rendfokozattal rendszeresített beosztás ellátásával | X | X |  |  |  |
+| 57. | - ezredes rendfokozattal rendszeresített beosztással | X | X |  |  |  |
 
-| 57. | - alezredes; őrnagy; százados; főhadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; szakaszvezető rendfokozattal rendszeresített beosztással |  |  |  |  | X |
+| 58. | - tábornoki rendfokozattal rendszeresített beosztás ellátásával – tábornok kivételével | X | X |  |  |  |
 
-| 58. | 2.22. Megbízás a Hjt. 55. § (1) bekezdés c) pontja esetén |  |
+| 59. | - alezredes; őrnagy; százados; főhadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; szakaszvezető rendfokozattal rendszeresített beosztással |  |  |  |  | X |
 
-| 59. | - ezredes | X | X |  |  |  |
+| 60. | 2.22. A Hjt. 57. § (1) bekezdése szerinti magasabb rendfokozat megállapítása |  |
 
-| 60. | - alezredes; őrnagy; százados; főhadnagy; hadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; őrmester; szakaszvezető; tizedes; őrvezető |  |  |  |  | X |
+| 61. | - őrnagy; százados; főhadnagy; hadnagy; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; őrmester | X |  |  |  |  |
 
-| 61. | 2.23. Megbízás a Hjt. 55. § (1) bekezdés d) pontja esetén |  |
+| 62. |  | 2.23. A Hjt. 57. § (1) bekezdése szerinti alacsonyabb rendfokozat megállapítása |  |
 
-| 62. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 63. | - ezredes; alezredes; őrnagy; százados; főhadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester | X |  |  |  |  |
 
-| 63. | 2.24. A Hjt. 57. § (1) bekezdése szerinti magasabb rendfokozat megállapítása |  |
+| 64. | 2.24. Szolgálati viszony szünetelésének tudomásul vétele |  |
 
-| 64. | - őrnagy; százados; főhadnagy; hadnagy; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester; őrmester | X |  |  |  |  |
+| 65. | - tábornok; főtiszt; tiszt; altiszt; zászlós; tisztes; közkatona |  |  |  |  | X |
 
-| 65. |  | 2.25. A Hjt. 57. § (1) bekezdés szerinti alacsonyabb rendfokozat megállapítása |  |
+| 66. | 3. Szolgálati viszony megszüntetése | 3.1. Hivatásos szolgálati viszony Hjt. 59. § (2) bekezdés a)-c) pontja szerinti megszüntetése |  |
 
-| 66. | - ezredes; alezredes; őrnagy; százados; főhadnagy; főtörzszászlós; törzszászlós; zászlós; főtörzsőrmester; törzsőrmester | X |  |  |  |  |
+| 67. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-| 67. | 2.26. Szolgálati viszony szünetelésének tudomásul vétele |  |
+| 68. | 3.2. Hivatásos szolgálati viszony Hjt. 59. § (2) bekezdés d)-e) pontja szerinti megszüntetése |  |
 
-| 68. | - tábornok; főtiszt; tiszt; altiszt; zászlós; tisztes; közkatona |  |  |  |  | X |
+| 69. | - főtiszt; tiszt; zászlós; altiszt |  |  |  |  | X |
 
-| 69. | 3. Szolgálati viszony megszüntetés | 3.1. Hivatásos szolgálati viszony a Hjt. 59.§ (2) bekezdés a)-c) pontja szerinti megszüntetése |  |
+| 70. | 3.3. Szerződéses szolgálati viszony Hjt. 59. § (2) bekezdése szerinti megszüntetése |  |
 
-| 70. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
+| 71. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 71. | 3.2. Hivatásos szolgálati viszony a Hjt. 59.§ (2) bekezdés d)-e) pontja szerinti megszüntetése |  |
+| 72. | 3.4. Döntés a Hjt. 61. § (1) és (5) bekezdése szerinti rövidebb határidőről |  |
 
-| 72. | - főtiszt; tiszt; zászlós; altiszt |  |  |  |  | X |
+| 73. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 73. | 3.3. Szerződéses szolgálati viszony a Hjt. 59.§ (2) bekezdés szerinti megszüntetése |  |
+| 74. | 4. Egyéb döntések | 4.1. A Hjt. 80. §-a szerinti összeférhetetlenség alóli mentesítés |  |
 
-| 74. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 75. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona | X | X |  |  |  |
 
-| 75. | 3.4. Döntés a Hjt. 61.§ (1) és (5) bekezdése szerinti rövidebb határidőről |  |
+| 76. | 4.2. A Hjt. 81. § (1) bekezdése szerinti más kereső tevékenység engedélyezése |  |
 
-| 76. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 77. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 77. | 4. Egyéb döntések | 4.1. A Hjt. 80. §-a szerinti összeférhetetlenség alóli mentesítés |  |
+| 78. | 4.3. A Hjt. 99. § (1) bekezdése szerinti rész-szolgálatteljesítés engedélyezése |  |
 
-| 78. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona | X | X |  |  |  |
+| 79. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 79. | 4.2. A Hjt. 81. § (1) bekezdése szerinti más kereső tevékenység engedélyezése |  |
+| 80. | 4.4. A Hjt. 116. és 117. §-a szerinti illetménynélküli szabadság engedélyezése |  |
 
-| 80. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 81. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 81. |  | 4.3. A Hjt. 99. § (1) bekezdése szerinti rész-szolgálatteljesítés engedélyezése |  |
+| 82. | 4.5. Az engedélyezett illetménynélküli szabadság rövidebb időtartamra vonatkozó kérelem alapján történő megszüntetése |  |
 
-| 82. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 83. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 83. | 4.4. A Hjt. 116. és 117. §-a szerinti illetménynélküli szabadság engedélyezése |  |
+| 84. | 4.6. A Hjt. 22. § (2) bekezdése szerinti bejelentéssel kapcsolatos tudomásul vétel vagy tiltás |  |
 
-| 84. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 85. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 85. | 4.5. Az engedélyezett illetménynélküli szabadság rövidebb időtartamra vonatkozó kérelem alapján megszüntetése |  |
+| 86. | 4.7. A Hjt. 25. § (1) bekezdése szerinti eltérés engedélyezése |  |
 
-| 86. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 87. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 87. | 4.6. A Hjt. 22. § (2) bekezdése szerinti bejelentéssel kapcsolatos tudomásul vétel/tiltás |  |
+| 88. | 4.8. A Hjt. 25. § (4) bekezdése szerinti bejelentéssel kapcsolatos tudomásul vétel |  |
 
-| 88. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 89. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 89. | 4.7. A Hjt. 25. § (1) bekezdése szerinti eltérés engedélyezése |  |
+| 90. | 4.9. „Katonai szolgálat halottjává” nyilvánítás |  |
 
-| 90. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 91. | - tábornok | X |  |  |  |  |
 
-| 91. | 4.8. A Hjt. 25. § (4) bekezdése szerinti bejelentéssel kapcsolatos tudomásul vétel |  |
+| 92. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 92. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 93. | 4.10. A Hjt. 94. §-a szerinti szolgálatteljesítési idő meghatározása |  |
 
-| 93. | 4.9. Szolgálati idő kezdőnapok megállapítása, módosítása |  |
+| 94. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 94. | - tábornok | X |  |  |  |  |
+| 95. | 4.11. A Hjt. 201. § (3) bekezdésében foglaltak alapján történő engedélyezés |  |
 
-| 95. | főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 96. | - tábornok | X |  |  |  |  |
 
-| 96. | 4.10. "Katonai szolgálat halottjává" nyilvánítás |  |
+| 97. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 97. | - tábornok | X |  |  |  |  |
+| 98. | 4.12. Beosztásból történő felfüggesztés, illetmény-visszatartás |  |  |  |  |  |
 
-| 98. |  | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 99. | - ezredes rendfokozattal rendszeresített beosztásból | X | X |  |  |  |
 
-| 99. | 4.11. A Hjt. 94. § (2) bekezdés b)-c) pontja szerinti szolgálati beosztást betöltő állomány részére a szolgálatteljesítési idő meghatározása |  |
+| 100. | - alezredes-főhadnagy; főtörzszászlós- főtörzsőrmester; szakaszvezető-őrvezető rendfokozattal rendszeresített beosztásból |  |  |  |  | X |
 
-| 100. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 101. | 4.13. Eltérő munkarend engedélyezése |  |  |  |  |  |
 
-| 101. | 4.12. A Hjt. 201. § (3) bekezdésében foglaltak alapján történő engedélyezés |  |
+| 102. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 102. | - tábornok | X |  |  |  |  |
+| 103. | 4.14. A Hjt. 85/A. § (6) bekezdése szerinti halasztás engedélyezése |  |  |  |  |  |
 
-| 103. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 104. |  | - alezredes-százados; törzszászlós- főtörzsőrmester; szakaszvezető-őrvezető |  |  |  |  | X |
 
-| 103a. |  | 4.13. Beosztásból történő felfüggesztés; távolléti díj-, illetmény-visszatartás |  |  |  |  |  |
+| 105. |  | 4.15. Felvétel a Hjt. 76. § (1) bekezdése szerinti szolgálaton kívüliek közé |  |  |  |  |  |
 
-|  |  | – ezredes rendfokozattal rendszeresített beosztásból | X | X |  |  |  |
+| 106. |  | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-|  | – alezredes-főhadnagy; főtörzszászlós- főtörzsőrmester; szakaszvezető-őrvezető rendfokozattal rendszeresített beosztásból |  |  |  |  | X |
+| 107. | 5. Tanulmányi szerződés kötése hazai képzésen történő részvételre | 5.1. Doktori (PhD) képzés |  |
 
-| 103b. |  | 4.14. Eltérő munkarend engedélyezése |  |  |  |  |  |
+| 108. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  |  | X |  |  |
 
-|  |  | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
-
-| 104. | 5.Tanulmányi szerződés kötése hazai képzésen történő részvételre | 5.1. Doktori (PhD) képzés |  |
-
-| 105. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  |  | X |  |  |
-
-| 106. | 5.2. Honvédtiszti mesterképzés keretében nem induló, tervezett előmenetelhez kapcsolódó polgári mesterképzés |  |
-
-| 107. | - tábornok | X |  |  |  |  |
-
-| 108. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
-
-| 109. | 5.3. Katonai képzés keretében nem induló, tervezett előmenetelhez kapcsolódó tanfolyam, képzés |  |
+| 109. | 5.2. Honvédtiszti mesterképzés keretében nem induló, tervezett előmenetelhez kapcsolódó polgári mesterképzés |  |
 
 | 110. | - tábornok | X |  |  |  |  |
 
 | 111. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 112. | 6. Tanulmányi támogatások megtérítési kötelezettsége és visszakövetelésük | 6.1. A tanulmányi támogatás megtérítése alóli mentesítés |  |
+| 112. | 5.3. Katonai képzés keretében nem induló, tervezett előmenetelhez kapcsolódó tanfolyam, képzés |  |
 
-| 113. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona | X |  |  |  |  |
+| 113. | - tábornok | X |  |  |  |  |
 
-| 114. | 6.2. A tanulmányi támogatás megtérítésére vonatkozóan fizetési könnyítés |  |
+| 114. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 115. |  | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  | X |  |  |
+| 115. | 6. Tanulmányi támogatások megtérítési kötelezettsége és visszakövetelésük | 6.1. A tanulmányi támogatás megtérítése alóli mentesítés |  |
 
-| 116. | 6.3. A tanulmányi támogatás megtérítésére vonatkozó fizetési felszólítás |  |
+| 116. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona | X |  |  |  |  |
 
-| 117. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 117. | 6.2. A tanulmányi támogatás megtérítésére vonatkozóan fizetési könnyítés |  |
 
-| 118. | 7.Fegyelmi döntések | 7.1. Fegyelmi eljárás elrendelése, felfüggesztése, megszüntetése |  |
+| 118. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  | X |  |  |
 
-| 119. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 119. | 6.3. A tanulmányi támogatás megtérítésére vonatkozó fizetési felszólítás |  |
 
-| 120. | 7.2. Figyelmeztetés alkalmazása |  |
+| 120. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 121. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 121. | 7. Fegyelmi döntések | 7.1. Fegyelmi eljárás elrendelése, felfüggesztése, megszüntetése |  |
 
-| 122. | 7.3. Feddés, megrovás, szigorú megrovás kiszabása |  |
+| 122. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 123. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 123. | 7.2. Figyelmeztetés alkalmazása |  |
 
-| 124. | 7.4. Beosztási illetmény csökkentése, e fenyítés végrehajtásának felfüggesztése |  |
+| 124. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 125. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 125. | 7.3. Feddés, megrovás, szigorú megrovás kiszabása |  |
 
-| 126. | 7.5. Kötelező várakozási idő meghosszabbítása, e fenyítés végrehajtásának megszüntetése |  |
+| 126. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 127. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 127. | 7.4. Alapilletmény csökkentése, e fenyítés végrehajtásának felfüggesztése |  |
 
-| 128. | 7.6. Szolgálati viszony megszüntetése |  |
+| 128. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 129. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
+| 129. | 7.5. Kötelező várakozási idő meghosszabbítása, e fenyítés végrehajtásának megszüntetése |  |
 
-| 130. | - tisztes; közkatona |  |  |  |  | X |
+| 130. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 131. | 7.7. Lefokozás |  |
+| 131. | 7.6. Szolgálati viszony megszüntetése |  |
 
 | 132. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-| 133. | - tisztes |  |  |  |  | X |
+| 133. | - tisztes; közkatona |  |  |  |  | X |
 
-| 134. | 7.8. Pénzbírság, pénzbüntetés kiszabása, e fenyítések végrehajtásának felfüggesztése |  |
+| 134. | 7.7. Lefokozás |  |
 
-| 135. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
+| 135. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-| 136. | 8. Méltatlansági döntések | 8.1. Méltatlansági eljárás elrendelése, felfüggesztése, megszüntetése, méltatlanság megállapítása |  |
+| 136. | - tisztes |  |  |  |  | X |
 
-| 137. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
+| 137. | 7.8. Pénzbírság, pénzbüntetés kiszabása, e fenyítések végrehajtásának felfüggesztése |  |
 
-| 138. | - tisztes; közkatona |  |  |  |  | X |
+| 138. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  |  | X |
 
-| 139. | 9. Kártérítésre vonatkozó döntések | 9.1. Határozathozatal kártérítési eljárásban |  |
+| 139. | 8. Méltatlansági döntések | 8.1. Méltatlansági eljárás elrendelése, felfüggesztése, megszüntetése, méltatlanság megállapítása |  |
 
-| 140. | - tábornok | X |  |  |  |  |
+| 140. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-| 141. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
+| 141. | - tisztes; közkatona |  |  |  |  | X |
 
-| 141a. |  | 9.2. Kártérítési igény előterjesztésére történő felhívás |  |  |  |  |  |
-
-|  |  | - tábornok; főtiszt; tiszt; altiszt; zászlós; tisztes; közkatona |  |  |  |  | X |
-
-| 142. | 10. Vezénylés külföldi szolgálatra | 10.1. Ideiglenes külföldi szolgálatteljesítés |  |
+| 142. | 9. Kártérítésre vonatkozó döntések | 9.1. Határozathozatal kártérítési eljárásban |  |
 
 | 143. | - tábornok | X |  |  |  |  |
 
-| 144. | 10.2. A Hvt. 80. § a) pontja szerinti, külföldön történő alkalmazás |  |
+| 144. | - főtiszt; tiszt; zászlós; altiszt; tisztes; közkatona |  |  |  |  | X |
 
-| 145. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
+| 145. | 9.2. Kártérítési igény előterjesztésére történő felhívás |  |  |  |  |  |
 
-| 146. | 10.3. Vezénylés egy évet meg nem haladó időtartamra nemzetközi szervezetek hivatalaihoz, parancsnokságaira és katonai szervezeteihez, továbbá más ország védelmi minisztériumába, katonai parancsnokságára, illetve alakulatához |  |
+| 146. | - tábornok; főtiszt; tiszt; altiszt; zászlós; tisztes; közkatona |  |  |  |  | X |
 
-| 147. | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
+| 147. | 10. Vezénylés külföldi szolgálatra | 10.1. Ideiglenes külföldi szolgálatteljesítés |  |
 
-| 149. | 10.4. Vezénylés egy évet meg nem haladó időtartamra Magyarország önálló külföldi képviseleteire és külföldön működő nemzeti szervezeteinél teljesített szolgálatra |  |
+| 148. | - tábornok | X |  |  |  |  |
 
-| 149. | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
+| 149. | 10.2. A Hvt. 80. § a) pontja szerinti, külföldön történő alkalmazás |  |
 
-| 150. | 10.5. Vezénylés egy évet meghaladó időtartamra béketámogató műveletben való részvételre történő szolgálatteljesítésre |  |
+| 150. | - főtiszt; tiszt; zászlós; altiszt; tisztes | X |  |  |  |  |
 
-| 151. |  | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
+| 151. | 10.3. Vezénylés egy évet meg nem haladó időtartamra nemzetközi szervezetek hivatalaihoz, parancsnokságaira és katonai szervezeteihez, továbbá más ország védelmi minisztériumába, katonai parancsnokságára, illetve alakulatához |  |
 
-| 152. | - tisztes |  |  |  | X |  |
+| 152. | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
 
-| 153. | 10.6. Vezénylés egy évet meg nem haladó időtartamra béketámogató műveletben való részvételre történő szolgálatteljesítésre |  |
+| 153. | 10.4. Vezénylés egy évet meg nem haladó időtartamra Magyarország önálló külföldi képviseleteire és külföldön működő nemzeti szervezeteinél teljesített szolgálatra |  |
 
-| 154. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
+| 154. | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
 
-| 154a. | 10.6.a. A tartós külföldi szolgálatot teljesítők vezénylése egy évet meg nem haladó időtartamra béketámogató műveletben való részvételre történő szolgálattelje-sítésre |  |  |  |  |  |
+| 155. | 10.5. Vezénylés egy évet meghaladó időtartamra béketámogató műveletben való részvételre történő szolgálatteljesítésre |  |
 
-|  | - főtiszt; tiszt;, zászlós; altiszt; tisztes | X |  |  |  |  |
+| 156. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-| 155. | 10.7. Humanitárius és katasztrófa-elhárítási műveletekben való részvétel |  |
+| 157. | - tisztes |  |  |  | X |  |
 
-| 156. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
+| 158. | 10.6. Vezénylés egy évet meg nem haladó időtartamra béketámogató műveletben való részvételre történő szolgálatteljesítésre |  |
 
-| 157. | 10.8. Nemzetközi katonai megfigyelői és szaktanácsadói feladatok ellátása |  |
+| 159. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
 
-| 158. | - főtiszt; tiszt; zászlós; altiszt |  |  |  | X |  |
+| 160. | 10.7. A tartós külföldi szolgálatot teljesítők vezénylése egy évet meg nem haladó időtartamra béketámogató műveletben való részvételre történő szolgálatteljesítésre |  |  |  |  |  |
 
-| 159. | 10.10. Egy évet meg nem haladó katonadiplomáciai tevékenység |  |
+| 161. | - főtiszt; tiszt;, zászlós; altiszt; tisztes | X |  |  |  |  |
 
-| 160. | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
+| 162. | 10.8. Humanitárius és katasztrófa-elhárítási műveletekben való részvétel |  |
 
-| 161. | 10.11. Egy évet meg nem haladóan pályázat alapján nemzetközi szervezetekben való szolgálatteljesítés |  |
+| 163. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
 
-| 162. | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
+| 164. | 10.9. Nemzetközi katonai megfigyelői és szaktanácsadói feladatok ellátása |  |
 
-| 163. | 10.12. Külföldi oktatói vagy tudományos tevékenység folytatása |  |
+| 165. | - főtiszt; tiszt; zászlós; altiszt |  |  |  | X |  |
 
-| 164. | - tábornok; főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
+| 166. | 10.10. Egy évet meg nem haladó katonadiplomáciai tevékenység |  |
 
-| 165. | 10.13. Külföldi gyakorlaton, kiképzésen történő részvétel |  |
+| 167. | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
 
-| 166. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
+| 168. | 10.11. Egy évet meg nem haladóan pályázat alapján nemzetközi szervezetekben való szolgálatteljesítés |  |
 
-| 167. | 10.14. Külföldi állomásozás |  |
+| 169. | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
 
-| 168. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
+| 170. | 10.12. Külföldi oktatói vagy tudományos tevékenység folytatása |  |
 
-| 169. | 10.15. Hadművelet közvetett támogatása külföldről, nem hadműveleti területen |  |
+| 171. | - tábornok; főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
 
-| 170. |  | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
+| 172. | 10.13. Külföldi gyakorlaton, kiképzésen történő részvétel |  |
 
-| 171. | 10.16. Vezénylés két- vagy többoldalú megbeszélésekre, szakmai egyeztetésekre |  |
+| 173. | - tábornok; főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
 
-| 172. | - főtiszt; tiszt; zászlós; altiszt |  |  |  |  | X |
+| 174. | 10.14. Külföldi állomásozás |  |
 
-| 173. | 10.17. A Hjt. 205. § (3) bekezdése szerinti vezénylés megszüntetése |  |
+| 175. | - főtiszt; tiszt; zászlós; altiszt | X |  |  |  |  |
 
-| 174. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
+| 176. | 10.15. Hadművelet közvetett támogatása külföldről, nem hadműveleti területen |  |
 
-| 175. | 11. A KNBSZ hivatásos állományára vonatkozó döntések | 11.1. A Hjt. 192. § (3) bekezdés a)-c) pontja szerinti bejelentéssel kapcsolatos tudomásul vétel/tiltás |  |
+| 177. |  | - főtiszt; tiszt; zászlós; altiszt | X | X |  |  |  |
 
-| 176. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
+| 178. | 10.16. Vezénylés két- vagy többoldalú megbeszélésekre, szakmai egyeztetésekre |  |
 
-| 177. | 11.2. A Hjt. 192 .§ (3) bekezdés d) pontja szerinti bejelentéssel kapcsolatos tudomásul vétel |  |
+| 179. | - főtiszt; tiszt; zászlós; altiszt |  |  |  |  | X |
 
-| 178. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
+| 180. | 10.17. A Hjt. 205. § (3) bekezdése szerinti vezénylés megszüntetése |  |
 
-| 179. | 11.3. A Hjt. 195. § (2) bekezdésében foglaltak alapján történő szolgálatteljesítés engedélyezése |  |
+| 181. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
 
-| 180. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
+| 182. | 10.18. Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében végzett külföldi szolgálatteljesítés |  |  |  |  |  |
 
-| 181. | 11.4. A Hjt. 195. § (4) bekezdésében foglaltak alapján történő ellenőrzés elrendelése |  |
+| 183. | - főtiszt; tiszt; zászlós; altiszt; tisztes |  |  |  | X |  |
 
-| 182. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
+| 184. | 11. A KNBSZ hivatásos állományára vonatkozó döntések | 11.1. A Hjt. 192. § (3) bekezdés a)-c) pontja szerinti bejelentéssel kapcsolatos tudomásul vétel vagy tiltás |  |
 
-| 183. | 11.5. A Hjt. 195. § (5) bekezdése szerinti bejelentéssel kapcsolatos tudomásul vétel |  |
+| 185. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
 
-| 184. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
+| 186. | 11.2. A Hjt. 192. § (3) bekezdés d) pontja szerinti bejelentéssel kapcsolatos tudomásul vétel |  |
 
-| 185. |  |  |  |
+| 187. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
 
-| 186. |  |  |  |  |  |  |
+2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^137]
 
-2. melléklet a 9/2013. (VIII. 12.) HM rendelethez
-
-## A MUNKAKÖRI KÖVETELMÉNYEK MEGÁLLAPÍTÁSÁHOZ ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE, VALAMINT A MUNKAKÖRI KÖVETELMÉNYEK MEGHATÁROZÁSA
+A MUNKAKÖRI KÖVETELMÉNYEK MEGÁLLAPÍTÁSÁHOZ ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE, VALAMINT A MUNKAKÖRI KÖVETELMÉNYEK MEGHATÁROZÁSA
 
 1. ALKALMAZOTT FOGALMAK, RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE
 
 1.1. Rendszeresített rendfokozat
 
-01–19 rendfokozati azonosító kód a Magyar Honvédség Munkaköri Térképében foglaltaknak megfelelően.
+01–19 rendfokozati azonosító kód az MH Munkaköri Térképében foglaltaknak megfelelően.
 
 1.2. Képesítési és egyéb követelmények
 
@@ -454,325 +436,1071 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.1. Összhaderőnemi általános katonai, általános szárazföldi, általános légierő, általános logisztika, vezénylő altisztek, vám- és általános munkakörök
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_2
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizi- kai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 19 | vezérezredes | EKV, PE | SZFF | FVT | A6 | K12, K23, K24 | Pa/V, Pv/V | T1 |
+| 3. | 19 | vezérezredes | EKV, PE | SZFF | FVT | K12, K23, K24 | Pa/V, Pv/V |
 
-| 2. | 18 | altábornagy |
+| 4. | 18 | altábornagy |
 
-| 3. | 17 | vezérőrnagy |
+| 5. | 17 | vezérőrnagy |
 
-| 4. | 16 | dandártábornok |
+| 6. | 16 | dandártábornok |
 
-| 5. | 15 | ezredes |
+| 7. | 15 | ezredes |
 
-| 6. | 14 | alezredes |  | A4 | Pa/V, Pv/IV |
+| 8. | 14 | alezredes |  | Pa/V, Pv/IV |
 
-| 7. | 13 | őrnagy | FKV, PF | Pa/IV | T2 |
+| 9. | 13 | őrnagy | FKV, PF | Pa/IV |
 
-| 8. | 12 | százados |
+| 10. | 12 | százados |
 
-| 9. | 11 | főhadnagy |
+| 11. | 11 | főhadnagy |
 
-| 10. | 09 | főtörzszászlós | É | BSZF |
+| 12. | 09 | főtörzszászlós | É | BSZF |
 
-| 11. | 08 | törzszászlós | BZK, SZKF |
+| 13. | 08 | törzszászlós | BZK, SZKF |
 
-| 12. | 07 | zászlós |
+| 14. | 07 | zászlós |
 
-| 13. | 06 | főtörzsőrmester | BK, SZKF |
+| 15. | 06 | főtörzsőrmester | BK, SZKF |
 
 2.2. Szárazföldi
 
 2.2.1. lövész, harckocsizó, tüzér
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_3
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 16 | dandártábornok | EKV | SZFF | FVT | A6 | F1-F8, K23, K24 | Pa/V, Pm/IV, Pv/V | T1 |
+| 3. | 16 | dandártábornok | EKV | SZFF | FVT | F1-F8, K23, K24 | Pa/V, Pm/IV, Pv/V |
 
-| 2. | 15 | ezredes | Pa/V, Pm/IV, Pv/IV |
+| 4. | 15 | ezredes | Pa/V, Pm/IV, Pv/IV |
 
-| 3. | 14 | alezredes |  | A4 | Pa/IV, Pm/IV, Pv/IV | T2 |
+| 5. | 14 | alezredes |  | Pa/IV, Pm/IV, Pv/IV |
 
-| 4. | 13 | őrnagy | FKV | A3 | Pa/IV, Pm/IV |
+| 6. | 13 | őrnagy | FKV | Pa/IV, Pm/IV |
 
-| 5. | 12 | százados | F1-F8, K3, K2, K14, K10, K15, K20, K22, K25 |
+| 7. | 12 | százados | F1-F8, K3, K2, K14, K10, K15, K20, K22, K25 |
 
-| 6. | 11 | főhadnagy | T3 |
+| 8. | 11 | főhadnagy |
 
-| 7. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+| 9. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
 
-| 8. | 08 | törzszászlós | BZK, SZKF |
+| 10. | 08 | törzszászlós | BZK, SZKF |
 
-| 9. | 07 | zászlós |
+| 11. | 07 | zászlós |
 
-| 10. | 06 | főtörzsőrmester | BK, SZKF |
+| 12. | 06 | főtörzsőrmester | BK, SZKF |
 
-| 11. | 05 | törzsőrmester |
+| 13. | 05 | törzsőrmester |
 
-| 12. | 03 | szakaszvezető | ÁI |  | T4 |
+| 14. | 03 | szakaszvezető | ÁI |  |
+
+| 15. | 02 | tizedes |
+
+| 16. | 01 | őrvezető |
 
 2.2.2. felderítő és elektronikai hadviselési szakirányú vezető szervezetek munkakörei
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_4
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 16 | dandártábornok | EKV, PE | SZFF | FVT | A6 | F1-F8, K12, K23, K24 | Pa/V, Pm/IV, Pv/V | T1 |
+| 3. | 16 | dandártábornok | EKV, PE | SZFF | FVT | F1-F8, K12, K23, K24 | Pa/V, Pm/IV, Pv/V |
 
-| 2. | 15 | ezredes | Pa/V, Pv/V |
+| 4. | 15 | ezredes | Pa/V, Pv/V |
 
-| 3. | 14 | alezredes |  | A4 | Pa/V, Pv/IV | T2 |
+| 5. | 14 | alezredes |  | Pa/V, Pv/IV |
 
-| 4. | 13 | őrnagy | FKV, PF | Pa/IV |
+| 6. | 13 | őrnagy | FKV, PF | Pa/IV |
 
-| 5. | 12 | százados |
+| 7. | 12 | százados |
 
-| 6. | 09 | főtörzszászlós | É | BSZF | T3 |
+| 8. | 09 | főtörzszászlós | É | BSZF |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 8. | 07 | zászlós |
+| 10. | 07 | zászlós |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
 
 2.2.3. felderítő (nem mélységi), elektronikai hadviselési
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_5
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A3 | K1, K3, K5, K6, K11, K14, K15, K17, K20, K22, K23, K24 | Pa/IV, Pk/IV, Pv/IV | T2 |
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | K1, K3, K5, K6, K11, K14, K15, K17, K20, K22, K23, K24 | Pa/IV, Pk/IV, Pv/IV |
 
-| 2. | 14 | alezredes |  |
+| 4. | 14 | alezredes |  |
 
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV, Pk/IV |
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pk/IV |
 
-| 4. | 12 | százados |
+| 6. | 12 | százados |
 
-| 5. | 11 | főhadnagy | T3 |
+| 7. | 11 | főhadnagy |
 
-| 6. | 09 | főtörzszászlós | É | BSZF |
+| 8. | 09 | főtörzszászlós | É | BSZF |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 8. | 07 | zászlós |
+| 10. | 07 | zászlós |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
 
-| 10. | 05 | törzsőrmester |
+| 12. | 05 | törzsőrmester |
 
-| 11. | 03 | szakaszvezető | ÁI |  | Pa/III, Pk/IV | T4 |
+| 13. | 03 | szakaszvezető | ÁI |  | Pa/III, Pk/IV |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
 
 2.2.4. mélységi és speciális felderítő
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_6
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korlátozások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A1 | K1, K3, K5, K6, K11, K14, K15, K17, K20, K22, K23, K24 | Pa/IV, Pk/IV, Pv/IV | T2 |
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | K1, K3, K5, K6, K11, K14, K15, K17, K20, K22, K23, K24 | Pa/IV, Pk/IV, Pv/IV |
 
-| 2. | 14 | alezredes |  |
+| 4. | 14 | alezredes |  |
 
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV, Pk/IV | T3 |
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pk/IV |
 
-| 4. | 12 | százados |
+| 6. | 12 | százados |
 
-| 5. | 11 | főhadnagy | T4 |
+| 7. | 11 | főhadnagy |
 
-| 6. | 09 | főtörzszászlós | É | BSZF |
+| 8. | 09 | főtörzszászlós | É | BSZF |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 8. | 07 | zászlós |
+| 10. | 07 | zászlós |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
 
-| 10. | 05 | törzsőrmester |
+| 12. | 05 | törzsőrmester |
 
-| 11. | 03 | szakaszvezető | ÁI |  | Pa/III, Pk/IV |
+| 13. | 03 | szakaszvezető | ÁI |  | Pa/III, Pk/IV |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
 
 2.2.5. különleges műveleti
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_7
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 15 | ezredes | EKV, PE | FF, BSZF | FVT | A1 | K1, K3, K5, K6, K11, K14, K15, K17, K20, K22, K23, K24 | Pa/IV, Pk/IV, Pv/IV | T2 |
+| 3. | 15 | ezredes | EKV, PE | FF, BSZF | FVT | K1, K3, K5, K6, K11, K14, K15, K17, K20, K22, K23, K24 | Pa/IV, Pk/IV, Pv/IV |
 
-| 2. | 14 | alezredes |  |
+| 4. | 14 | alezredes |  |
 
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV, Pk/IV | T3 |
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pk/IV |
 
-| 4. | 12 | százados |
+| 6. | 12 | százados |
 
-| 5. | 11 | főhadnagy | T4 |
+| 7. | 11 | főhadnagy |
 
-| 6. | 09 | főtörzszászlós | É | BSZF |
+| 8. | 09 | főtörzszászlós | É | BSZF |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 8. | 07 | zászlós |
+| 10. | 07 | zászlós |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
 
-| 10. | 05 | törzsőrmester |
+| 12. | 05 | törzsőrmester |
 
-| 11. | 03 | szakaszvezető | ÁI |  | Pa/III, Pk/IV |
+| 13. | 03 | szakaszvezető | ÁI |  | Pa/III, Pk/IV |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
 
 2.2.6. műszaki
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_8
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F5, K3, K13, K14, K15, K17, K23, K24, K25 | Pa/V, Pv/V | T1 |
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F5, K3, K13, K14, K15, K17, K23, K24, K25 | Pa/V, Pv/V |
 
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
 
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV | T3 |
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
 
-| 4. | 12 | százados | F5, K3, K13, K14, K15, K17, K23, K24 |
+| 6. | 12 | százados | F5, K3, K13, K14, K15, K17, K23, K24 |
 
-| 5. | 11 | főhadnagy | T4 |
+| 7. | 11 | főhadnagy |
 
-| 6. | 09 | főtörzszászlós | É | BSZF | A3 | Pa/III, Pm/III |
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 8. | 07 | zászlós |
+| 10. | 07 | zászlós |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
 
-| 10. | 05 | törzsőrmester |
+| 12. | 05 | törzsőrmester |
 
-| 11. | 03 | szakaszvezető | ÁI |  |
+| 13. | 03 | szakaszvezető | ÁI |  |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
 
 2.2.7. vegyivédelmi
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_9
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F3, K3, K13, K14, K15, K17, K18, K23, K24, K25 | Pa/V, Pv/V | T1 |
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F3, K3, K13, K14, K15, K17, K18, K23, K24, K25 | Pa/V, Pv/V |
 
-| Pa/V, Pv/IV |
+| 4. | 14 | alezredes |  | Pa/V, Pv/IV |
 
-| 2. | 14 | alezredes |  | T2 |
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
 
-| 3. | 13 | őrnagy | FKV, PF | A4 | Pa/IV, Pm/IV |
+| 6. | 12 | százados | F3, K3, K13, K14, K15, K17, K18, K25 |
 
-| 4. | 12 | százados | F3, K3, K13, K14, K15, K17, K18, K25 | T3 |
+| 7. | 11 | főhadnagy |
 
-| 5. | 11 | főhadnagy |
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
 
-| 6. | 09 | főtörzszászlós | É | BSZF | A3 | Pa/III, Pm/III |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 10. | 07 | zászlós |
 
-| 8. | 07 | zászlós |
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+| 12. | 05 | törzsőrmester |
 
-| 10. | 05 | törzsőrmester |
+| 13. | 03 | szakaszvezető | ÁI | tűzoltó szakállo-mány esetében KF |
 
-| 11. | 03 | szakaszvezető | ÁI | KF* | T4 |
+| 14. | 02 | tizedes |
 
-* Tűzoltó szakállomány
+| 15. | 01 | őrvezető |
 
 2.2.8. civil-katonai együttműködési, lélektani műveleti, információs műveleti
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb követelmények |
+## 5K08209_10
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 15 | ezredes | EKV, PE | BSZF, FF | FVT | A6 | K12, K23, K24 | Pa/V, Pv/V | T1 |
+| 3. | 15 | ezredes | EKV, PE | BSZF, FF | FVT | K12, K23, K24 | Pa/V, Pv/V |
 
-| 2. | 14 | alezredes |  | A4 | Pa/V, Pv/IV |
+| 4. | 14 | alezredes |  | Pa/V, Pv/IV |
 
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV | T2 |
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV |
 
-| 4. | 12 | százados |
+| 6. | 12 | százados |
 
-| 5. | 11 | főhadnagy |
+| 7. | 11 | főhadnagy |
 
-| 6. | 09 | főtörzszászlós | É | A3 |
+| 8. | 09 | főtörzszászlós | É |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 8. | 07 | zászlós |
+| 10. | 07 | zászlós |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF, BSZF |
+| 11. | 06 | főtörzsőrmester | BK, SZKF, BSZF |
 
-| 10. | 05 | törzsőrmester |
+| 12. | 05 | törzsőrmester |
 
-| 11. | 03 | szakaszvezető | ÁI |  | T3 |
+| 13. | 03 | szakaszvezető | ÁI |  |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
 
 2.3. Légierő
 
-2.3.1. repülőgép, helikopter személyzet
+2.3.1. repülőgép-, helikopter személyzet
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+## 5K08209_11
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+|  | A | B | C | D | E | F | G |
 
-| kate- gória | kizáró korláto- zások |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| A | B | C | D | E | F | G | H | I |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 1. | 18 | altábornagy | EKV, PE | SZFF | FVT | A1, A6 |  |  | T1 |
+| 3. | 18 | altábornagy | EKV, PE | SZFF | FVT |  |  |
 
-| 2. | 17 | vezérőrnagy |
+| 4. | 17 | vezérőrnagy |
 
-| 3. | 16 | dandártábornok |
+| 5. | 16 | dandártábornok |
+
+| 6. | 15 | ezredes |
+
+| 7. | 14 | alezredes |  |
+
+| 8. | 13 | őrnagy | FKV, PF |
+
+| 9. | 12 | százados |
+
+| 10. | 11 | főhadnagy |
+
+| 11. | 09 | főtörzszászlós | É | BSZF |
+
+| 12. | 08 | törzszászlós | BZK, SZKF |
+
+| 13. | 07 | zászlós |
+
+| 14. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 15. | 05 | törzsőrmester |
+
+2.3.2. légvédelmi rakéta és tüzér
+
+## 5K08209_12
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV | SZFF | FVT | F4, F6, K2, K3, K4, K7, K14, K15, K19, K20, K22, K23, K24, K25, K26 | Pa/V, Pv/V |
+
+| Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV |
+
+| 6. | 12 | százados | F4, F6, K2, K3, K4, K7, K14, K15, K19, K20, K22, K25, K26 | Pa/IV, Pm/IV |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI |  |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.3.3. légi vezetés, repülő harcbiztosító
+
+## 5K08209_13
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT |  |  |
+
+| 4. | 14 | alezredes |  |
+
+| 5. | 13 | őrnagy | FKV, PF |
+
+| 6. | 12 | százados |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | KF |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.4. Vezetés, irányítás
+
+2.4.1. általános híradó, rádióhíradás, rádiórelé híradás, hírközpontok, vezetékes híradás, futár és tábori posta híradás
+
+## 5K08209_14
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F6, F8, K2, K3, K8, K14, K16, K19, K23, K24, K25, K26 | Pa/V, Pv/V |
+
+| 4. | 14 | alezredes |  | Pa/V, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 6. | 12 | százados | F6, F8, K2, K3, K8, K14, K16, K19, K25, K26 |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | KF |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.4.2. repülésbiztosító-, földi repülésirányító szolgálat
+
+## 5K08209_15
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F5, K3, K12, K15, K19, K20, K22, K23, K24 | Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV, PF |
+
+| 6. | 12 | százados | F5, K3, K12, K15, K19, K20, K22 |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/IV |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | KF | Pa/III, Pm/III |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.4.3. ügyviteli, információvédelmi
+
+## 5K08209_16
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 16 | dandártábornok | EKV, PE | FF | FVT | F8, K23, K24, K26 | Pa/V, Pv/IV |
 
 | 4. | 15 | ezredes |
 
-| 5. | 14 | alezredes |  | A1 | T3 |
+| 5. | 14 | alezredes |  |
 
-| 6. | 13 | őrnagy | FKV, PF | T4 |
+| 6. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
 
 | 7. | 12 | százados |
+
+| 8. | 11 | főhadnagy |
+
+| 9. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 10. | 08 | törzszászlós | BZK, SZKF |
+
+| 11. | 07 | zászlós |
+
+| 12. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 13. | 05 | törzsőrmester |
+
+2.4.4. vezetési, informatikai
+
+## 5K08209_17
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 16 | dandártábornok | EKV, PE | SZFF | FVT | F8, K23, K24, K26 | Pa/V, Pv/IV |
+
+| 4. | 15 | ezredes |
+
+| 5. | 14 | alezredes |  |
+
+| 6. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 7. | 12 | százados |
+
+| 8. | 11 | főhadnagy |
+
+| 9. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 10. | 08 | törzszászlós | BZK, SZKF |
+
+| 11. | 07 | zászlós |
+
+| 12. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 13. | 05 | törzsőrmester |
+
+2.5. Logisztika
+
+2.5.1. üzembentartás, páncélos és gépjárműtechnika
+
+## 5K08209_18
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F7, F8, K3, K14, K24, K25 | Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV, PF |
+
+| 6. | 12 | százados |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | SZKF |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.5.2. vegyivédelmi technika, kiképzéstechnika, különleges berendezés technika
+
+## 5K08209_19
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F3, F7, F8, K2, K14, K15, K17, K23, K24 | Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 6. | 12 | százados | F3, F7, F8, K2, K14, K15, K17, K24, K25 |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | KF |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.5.3. fegyverzettechnika, aktív eszközök, elektronika, műszaki technika, mérésügy
+
+## 5K08209_20
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F7, F8, K2, K3, K8, K14, K16, K19, K23, K24, K26 | Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 6. | 12 | százados | F7, F8, K2, K3, K8, K14, K16, K19, K25, K26 |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | SZKF |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.5.4. repülőműszaki
+
+## 5K08209_21
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT |  |  |
+
+| 4. | 14 | alezredes |  |
+
+| 5. | 13 | őrnagy | FKV, PF |
+
+| 6. | 12 | százados |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | SZKF |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.5.5. ellátó (hadtáp), közlekedés és szállítás
+
+## 5K08209_22
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F8, K3, K15, K24, K23 | Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 6. | 12 | százados | F8, K3, K15 |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | SZKF |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.5.6. harcanyag
+
+## 5K08209_23
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV | SZFF | FVT | F3, F5, F8, K17, K20, K22, K23, K24 | Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV | Pa/IV, Pm/IV |
+
+| 6. | 12 | százados |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 9. | 08 | törzszászlós | BZK, SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 12. | 05 | törzsőrmester |
+
+| 13. | 03 | szakaszvezető | ÁI | SZKF, KF |
+
+| 14. | 02 | tizedes |
+
+| 15. | 01 | őrvezető |
+
+2.6. Térképészet, meteorológia
+
+2.6.1. térképész
+
+## 5K08209_24
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | PE | SZFF | FVT | K15, K20, K22, K23, K24, K26 | Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pm/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 6. | 12 | százados | K15, K20, K22, K26 |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 08 | törzszászlós | É | BSZF, SZKF | F8, K15, K20, K22, K23, K26 | Pa/III, Pm/III |
+
+| 9. | 07 | zászlós |
+
+| 10. | 06 | főtörzsőrmester |
+
+2.6.2. meteorológia
+
+## 5K08209_25
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 14 | alezredes | PE | SZFF |  | K15, K20, K22, K23, K24, K26 | Pa/IV, Pv/IV, Pm/IV |
+
+| 4. | 13 | őrnagy | Pa/IV, Pm/IV |
+
+| 5. | 12 | százados |
+
+| 6. | 08 | törzszászlós | É | BSZF | F8, K15, K20, K22, K23, K24, K26 | Pa/III, Pm/III |
+
+| 7. | 07 | zászlós |
+
+| 8. | 06 | főtörzsőrmester |
+
+2.7. Pénzügy
+
+## 5K08209_26
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 16 | dandártábornok | EKV, PE | SZFF |  | F8, K23, K24 | Pa/V, Pv/V |
+
+| 4. | 15 | ezredes | Pa/V, Pv/IV |
+
+| 5. | 14 | alezredes | Pa/IV, Pv/IV |
+
+| 6. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 7. | 12 | százados | F8, K24 |
+
+| 8. | 11 | főhadnagy |
+
+| 9. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 10. | 08 | törzszászlós | SZKF |
+
+| 11. | 07 | zászlós |
+
+| 12. | 06 | főtörzsőrmester |
+
+| 13. | 05 | törzsőrmester |
+
+2.8. Egészségügy
+
+## 5K08209_27
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 17 | vezérőrnagy | PE | SZFF | OSZV, PSZV, GYSZV |  | Pa/V, Pv/V |
+
+| 4. | 16 | dandártábornok |
+
+| 5. | 15 | ezredes | Pa/V, Pv/IV |
+
+| 6. | 14 | alezredes | Pa/IV, Pv/IV |
+
+| 7. | 13 | őrnagy | PF, PE | Pa/IV, Pm/IV |
+
+| 8. | 12 | százados |
+
+| 9. | 11 | főhadnagy |  |
+
+| 10. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 11. | 08 | törzszászlós | SZKF |
+
+| 12. | 07 | zászlós |
+
+| 13. | 06 | főtörzsőrmester |
+
+| 14. | 05 | törzsőrmester |
+
+| 15. | 03 | szakaszvezető | ÁI |  |
+
+| 16. | 02 | tizedes |
+
+| 17. | 01 | őrvezető |
+
+2.9. Egyéb támogatás
+
+2.9.1. államháztartási belső ellenőrzés
+
+## 5K08209_28
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 16 | dandártábornok | EKV, PE | SZFF | FVT | K23, K24 | Pa/V, Pv/V |
+
+| 4. | 15 | ezredes |
+
+| 5. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 6. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 7. | 12 | százados |
+
+| 8. | 11 | főhadnagy |
+
+2.9.2. infrastrukturális
+
+## 5K08209_29
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 15 | ezredes | EKV, PE | SZFF | FVT | F8, K3, K15, K23, K24 | Pa/V, Pv/IV |
+
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
+
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
+
+| 6. | 12 | százados | F8, K3, K15 |
+
+| 7. | 11 | főhadnagy |
+
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+
+| 9. | 08 | törzszászlós | SZKF |
+
+| 10. | 07 | zászlós |
+
+| 11. | 06 | főtörzsőrmester |
+
+| 12. | 05 | törzsőrmester |
+
+2.10. Gép- és harcjárművezetők
+
+## 5K08209_30
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 07 | zászlós | É | SZKF, BZK |  | F1-F8, K3, K14, K15, K20, K22, K24 | Pa/IV, Pm/IV |
+
+| 4. | 06 | főtörzsőrmester | BK, SZKF |
+
+| 5. | 05 | törzsőrmester |
+
+| 6. | 03 | szakaszvezető | ÁI |  | Pa/III, Pm/III |
+
+| 7. | 02 | tizedes |
+
+| 8. | 01 | őrvezető |
+
+2.11. Katonai hatósági és szakirányítási tevékenység, adatvédelem, munkavédelem, tűzvédelem, környezetvédelem, munkaegészségügy
+
+## 5K08209_31
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 16 | dandártábornok | szakirá-nyítási munka-körök kivételével EKV, PE | SZFF | JSZV, KSZV | szakirányí-tási munka-körök kivételével K12, K23, K24 | Pa/V, Pv/V |
+
+| 4. | 15 | ezredes |
+
+| 5. | 14 | alezredes | Pa/V, Pv/IV |
+
+| 6. | 13 | őrnagy | szakirány-ítási munka-körök kivételével FKV, PF | Pa/IV |
+
+| 7. | 12 | százados |
+
+| 8. | 11 | főhadnagy |
+
+| 9. | 9 | főtörzszászlós | É | SZKF |  |
+
+| 10. | 8 | törzszászlós |
+
+| 11. | 7 | főtörzsőrmester |
+
+| 12. | 6 | törzsőrmester |
+
+2.12. Katonai nemzetbiztonsági
+
+## 5K08209_32
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 18 | altábornagy | EKV, PE | SZFF |  | K12, K15, K19, K23, K24, K26 | Pa/V, Pv/V, Pv/IV |
+
+| 4. | 17 | vezérőrnagy |
+
+| 5. | 16 | dandártábornok |
+
+| 6. | 15 | ezredes |
+
+| 7. | 14 | alezredes |
+
+| 8. | 13 | őrnagy | FKV, PF | Pa/V, Pk/V, Pk/IV |
+
+| 9. | 12 | százados |
+
+| 10. | 09 | főtörzszászlós | É | BSZF | Pa/IV |
+
+| 11. | 08 | törzszászlós | BSZF, BZK |
+
+| 12. | 07 | zászlós |
+
+| 13. | 06 | főtörzsőrmester | BK |
+
+2.13. Oktatás, képzés, kiképzés
+
+## 5K08209_33
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
+
+| 3. | 16 | dandártábornok | EKV, PE | SZFF | FVT | K15, K23, K24, K26 | Pa/V, Pv/V, Pm/IV |
+
+| 4. | 15 | ezredes |
+
+| 5. | 14 | alezredes |  | Pa/V, Pv/IV, Pm/IV |
+
+| 6. | 13 | őrnagy | FKV, PF | Pa/V, Pm/IV |
+
+| 7. | 12 | százados | Pa/IV, Pm/IV |
 
 | 8. | 11 | főhadnagy |
 
@@ -786,507 +1514,113 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 | 13. | 05 | törzsőrmester |
 
-2.3.2. légvédelmi rakéta és tüzér
+| 14. | 03 | szakaszvezető | ÁI |  | Pa/III, Pm/III |
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+| 15. | 02 | tizedes |
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+| 16. | 01 | őrvezető |
 
-| kate- gória | kizáró korláto- zások |
+2.14. Jogi és igazgatási
 
-| A | B | C | D | E | F | G | H | I |
+## 5K08209_34
 
-| 1. | 15 | ezredes | EKV | SZFF | FVT | A6 | K2, K3, K14, K15, K20, K22, K23, K24, K25, F4, F6, K4, K7, K19, K26 | Pa/V, Pv/V | T1 |
+|  | A | B | C | D | E | F | G |
 
-| Pa/V, Pv/IV |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 3. | 13 | őrnagy | FKV |
+| 3. | 16 | dandártábornok | PE | SZFF | JSZV | K23, K24 | Pa/V, Pv/V |
 
-| 4. | 12 | százados | A3 | K2, K3, K14, K15, K20, K22, K25, F4, F6, K4, K7, K19, K26 | Pa/IV, Pm/IV | T4 |
+| 4. | 15 | ezredes | Pa/V, Pv/IV |
 
-| 5. | 11 | főhadnagy |
+| 5. | 14 | alezredes | Pa/IV, Pv/IV |
 
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+| 6. | 13 | őrnagy | Pa/IV |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 7. | 12 | százados | PE, PF | KSZV, JSZV |
 
-| 8. | 07 | zászlós |
+| 8. | 11 | főhadnagy |  |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+2.15. Humán
 
-| 10. | 05 | törzsőrmester |
+## 5K08209_35
 
-| 11. | 03 | szakaszvezető | ÁI |  |
+|  | A | B | C | D | E | F | G |
 
-2.3.3. légi vezetés, repülő harcbiztosító
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+| 3. | 16 | dandártábornok | EKV, PE | SZFF | FVT | F8, K23, K24, K26 | Pa/V, Pv/V |
 
-| kate- gória | kizáró korláto- zások |
+| 4. | 15 | ezredes | Pa/V, Pv/IV |
 
-| A | B | C | D | E | F | G | H | I |
+| 5. | 14 | alezredes |  | Pa/IV, Pv/IV |
 
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT |  |  |  | T1 |
+| 6. | 13 | őrnagy | FKV, PF |
 
-| 2. | 14 | alezredes |  | T2 |
+| 7. | 12 | százados |
 
-| 3. | 13 | őrnagy | FKV, PF |
+| 8. | 11 | főhadnagy |
 
-| 4. | 12 | százados | T3 |
+| 9. | 09 | főtörzszászlós | É | BSZF | F8 | Pa/IV, Pm/III |
 
-| 5. | 11 | főhadnagy |
+| 10. | 08 | törzszászlós | BSZF, SZKF |
 
-| 6. | 09 | főtörzszászlós | É | BSZF |
+| 11. | 07 | zászlós |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 12. | 06 | főtörzsőrmester |
 
-| 8. | 07 | zászlós |
+| 13. | 05 | törzsőrmester |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+2.16. Tábori lelkészek
 
-| 10. | 05 | törzsőrmester |
+## 5K08209_36
 
-| 11. | 03 | szakaszvezető | ÁI | KF | T4 |
+|  | A | B | C | D | E | F | G |
 
-2.4. Vezetés, irányítás
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-2.4.1. általános híradó, rádióhíradás, rádiórelé híradás, hírközpontok, vezetékes híradás, futár és tábori posta híradás
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+| 3. | 16 | dandártábornok | PE | SZFF |  | K23, K24 | Pa/V, Pv/V |
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+| 4. | 15 | ezredes |
 
-| kate- gória | kizáró korláto- zások |
+| 5. | 14 | alezredes | Pa/IV |
 
-| A | B | C | D | E | F | G | H | I |
+| 6. | 13 | őrnagy |
 
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F6, F8, K2, K3, K8, K14, K16, K19, K23, K24, K25, K26 | Pa/V, Pv/V | T1 |
+| 7. | 12 | százados | PF |
 
-| Pa/V, Pv/IV |
+| 8. | 11 | főhadnagy |
 
-| 2. | 14 | alezredes |  |
+2.17. Katonai igazgatás, védelmi igazgatás
 
-| 3. | 13 | őrnagy | FKV, PF | A4 | Pa/IV, Pm/IV | T2 |
+2.17.1. katonai igazgatás
 
-| 4. | 12 | százados | F6, F8, K2, K3, K8, K14, K16, K19, K25,K26 |
+## 5K08209_37
 
-| 5. | 11 | főhadnagy | T3 |
+|  | A | B | C | D | E | F | G |
 
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| 7. | 08 | törzszászlós | BZK, SZKF |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 8. | 07 | zászlós |
+| 3. | 15 | ezredes | EKV, PE és FKV | SZFF | FVT | K23, K24 | Pa/V, Pv/IV |
 
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
 
-| 10. | 05 | törzsőrmester |
-
-| 11. | 03 | szakaszvezető | ÁI | KF | A3 | T4 |
-
-2.4.2. Repülésbiztosító - földi repülésirányító szolgálat
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F5, K3, K12, K15, K19, K20, K22, K23, K24 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV |
-
-| 3. | 13 | őrnagy | FKV, PF | T2 |
-
-| 4. | 12 | százados | F5 K3, K12, K15, K19, K20, K22 |
-
-| 5. | 11 | főhadnagy | T3 |
-
-| 6. | 09 | főtörzszászlós | É | BSZF | A3 | Pa/III, Pm/IV |
-
-| 7. | 08 | törzszászlós | BZK, SZKF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 10. | 05 | törzsőrmester |
-
-| 11. | 03 | szakaszvezető | ÁI | KF | Pa/III, Pm/III | T4 |
-
-2.4.3. ügyviteli, információvédelmi
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 16 | dandártábornok | EKV, PE | FF | FVT | A6 | F8 K23, K24, K26 | Pa/V, Pv/IV | T1 |
-
-| 2. | 15 | ezredes |
-
-| 3. | 14 | alezredes |  |
-
-| 4. | 13 | őrnagy | FKV, PF | A4 | Pa/IV, Pm/IV |
-
-| 5. | 12 | százados | T2 |
-
-| 6. | 11 | főhadnagy |
-
-| 7. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 8. | 08 | törzszászlós | BZK, SZKF |
-
-| 9. | 07 | zászlós |
-
-| 10. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 11. | 05 | törzsőrmester |
-
-2.4.4. vezetési, informatikai
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 16 | dandártábornok | EKV, PE | SZFF | FVT | A6 | F8 K23, K24, K26 | Pa/V, Pv/IV | T1 |
-
-| 2. | 15 | ezredes |
-
-| 3. | 14 | alezredes |  |
-
-| 4. | 13 | őrnagy | FKV, PF | A4 | Pa/IV, Pm/IV |
-
-| 5. | 12 | százados | T2 |
-
-| 6. | 11 | főhadnagy |
-
-| 7. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 8. | 08 | törzszászlós | BZK, SZKF |
-
-| 9. | 07 | zászlós |
-
-| 10. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 11. | 05 | törzsőrmester |
-
-2.5. Logisztika
-
-2.5.1. üzembentartás, páncélos és gépjárműtechnika
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F7, F8, K3, K14, K24, K25 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
-
-| 3. | 13 | őrnagy | FKV, PF |
-
-| 4. | 12 | százados | T3 |
-
-| 5. | 11 | főhadnagy |
-
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 7. | 08 | törzszászlós | BZK, SZKF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 10. | 05 | törzsőrmester |
-
-| 11. | 03 | szakaszvezető | ÁI | SZKF | A3 | T4 |
-
-2.5.2. vegyivédelmi technika, kiképzéstechnika, különleges berendezés technika
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F3 F7, F8, K2, K14, K15, K17, K23, K24 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
-
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
-
-| 4. | 12 | százados | F3, F7, F8 K2, K14, K15, K17, K24, K25 | T3 |
-
-| 5. | 11 | főhadnagy |
-
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 7. | 08 | törzszászlós | BZK, SZKF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 10. | 05 | törzsőrmester |
-
-| 11. | 03 | szakaszvezető | ÁI | KF | A3 | T4 |
-
-2.5.3. fegyverzettechnika, aktív eszközök, elektronika, műszaki technika, mérésügy
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F7, F8, K2, K3, K8, K14, K16, K19, K23, K24, K26 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
-
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
-
-| 4. | 12 | százados | F7, F8, K2, K3, K8, K14, K16, K19, K25, K26 | T3 |
-
-| 5. | 11 | főhadnagy |
-
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 7. | 08 | törzszászlós | BZK, SZKF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 10. | 05 | törzsőrmester |
-
-| 11. | 03 | szakaszvezető | ÁI | SZKF | A3 | T4 |
-
-2.5.4. repülőműszaki
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A1, A6 |  |  | T1 |
-
-| 2. | 14 | alezredes |  | T2 |
-
-| 3. | 13 | őrnagy | FKV, PF | A1 |
-
-| 4. | 12 | százados | T3 |
-
-| 5. | 11 | főhadnagy |
-
-| 6. | 09 | főtörzszászlós | É | BSZF |
-
-| 7. | 08 | törzszászlós | BZK, SZKF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 10. | 05 | törzsőrmester |
-
-| 11. | 03 | szakaszvezető | ÁI | SZKF | T4 |
-
-2.5.5. ellátó (hadtáp), közlekedés és szállítás
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-|  | kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F8, K3, K15, K24, K23 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
-
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
-
-| 4. | 12 | százados | F8, K3, K15 | T3 |
-
-| 5. | 11 | főhadnagy |
-
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 7. | 08 | törzszászlós | BZK, SZKF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 10. | 05 | törzsőrmester |
-
-| 11. | 03 | szakaszvezető | ÁI | SZKF | A3 | T4 |
-
-2.5.6. harcanyag
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV | SZFF | FVT | A6 | F3, F5, F8, K17, K20, K22, K23, K24 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV | T2 |
-
-| 3. | 13 | őrnagy | FKV | A3 | Pa/IV, Pm/IV |
-
-| 4. | 12 | százados | T3 |
-
-| 5. | 11 | főhadnagy |
-
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 7. | 08 | törzszászlós | BZK, SZKF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 10. | 05 | törzsőrmester |
-
-| 11. | 03 | szakaszvezető | ÁI | SZKF, KF | T4 |
-
-2.6. Térképészet, meteorológia
-
-2.6.1. térképész
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | PE | SZFF | FVT | A6 | K15, K20, K22, K23, K24, K26 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | Pa/IV, Pm/IV, Pv/IV |
-
-| 3. | 13 | őrnagy | FKV, PF | A4 | Pa/IV, Pm/IV |
-
-| 4. | 12 | százados | K15, K20, K22, K26 | T2 |
-
-| 5. | 11 | főhadnagy |
-
-| 6. | 08 | törzszászlós | É | BSZF, SZKF | F8, K15, K20, K22, K23, K26 | Pa/III, Pm/III |
-
-| 7. | 07 | zászlós |
-
-| 8. | 06 | főtörzsőrmester |
-
-2.6.2. meteorológia
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 14 | alezredes | PE | SZFF |  | A6 | K15, K20, K22, K23, K24, K26 | Pa/IV, Pv/IV, Pm/IV | T1 |
-
-| 2. | 13 | őrnagy | A4 | Pa/IV, Pm/IV |
-
-| 3. | 12 | százados | T2 |
-
-| 4. | 08 | törzszászlós | É | BSZF | F8, K15, K20, K22, K23, K24, K26 | Pa/III, Pm/III |
-
-| 5. | 07 | zászlós |
-
-| 6. | 06 | főtörzsőrmester |
-
-2.7. Pénzügy
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 16 | dandártábornok | EKV, PE | SZFF |  | A6 | F8, K23, K24 | Pa/V, Pv/V | T1 |
-
-| 2. | 15 | ezredes | Pa/V, Pv/IV |
-
-| 3. | 14 | alezredes | A4 | Pa/IV, Pv/IV |
-
-| 4. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
-
-| 5. | 12 | százados | F8, K24 | T2 |
-
-| 6. | 11 | főhadnagy |
-
-| 7. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 8. | 08 | törzszászlós |  | SZKF |
-
-| 9. | 07 | zászlós |
-
-| 10. | 06 | főtörzsőrmester |
-
-| 11. | 05 | törzsőrmester |
-
-2.8. Egészségügy
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 17 | vezérőrnagy | PE | SZFF | OSZV, PSZV, GYSZV | A6 |  | Pa/V, Pv/V | T1 |
-
-| 2. | 16 | dandártábornok |
-
-| 3. | 15 | ezredes | Pa/V, Pv/IV |
-
-| 4. | 14 | alezredes | A4 | Pa/IV, Pv/IV | T2 |
-
-| 5. | 13 | őrnagy | PF, PE | Pa/IV, Pm/IV |
+| 5. | 13 | őrnagy | FKV, PF | Pa/IV |
 
 | 6. | 12 | százados |
 
-| 7. | 11 | főhadnagy |  |
+| 7. | 11 | főhadnagy |
 
-| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III |
 
-| 9. | 08 | törzszászlós | SZKF |
+| 9. | 08 | törzszászlós | BSZF, KF |
 
 | 10. | 07 | zászlós |
 
@@ -1294,282 +1628,112 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 | 12. | 05 | törzsőrmester |
 
-| 13. | 03 | szakaszvezető | ÁI |  | T3 |
+2.17.2. védelmi igazgatás
 
-2.9. Egyéb támogatás
+## 5K08209_38
 
-2.9.1. államháztartási belső ellenőrzés
+|  | A | B | C | D | E | F | G |
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 16 | dandártábornok | EKV, PE | SZFF | FVT | A6 | K23, K24 | Pa/V, Pv/V | T1 |
-
-| 2. | 15 | ezredes |
-
-| 3. | 14 | alezredes |  |  | A4 | Pa/IV, Pv/IV |
-
-| 4. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
-
-| 5. | 12 | százados |
-
-| 6. | 11 | főhadnagy |
-
-2.9.2. infrastrukturális
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV, PE | SZFF | FVT | A6 | F8, K3, K15, K23, K24 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV |
-
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV, Pm/IV |
-
-| 4. | 12 | százados | F8, K3, K15 |
-
-| 5. | 11 | főhadnagy | T2 |
-
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 7. | 08 | törzszászlós | SZKF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester | A3 |
-
-| 10. | 05 | törzsőrmester |
-
-2.10. Gép- és harcjárművezetők
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 07 | zászlós | É | SZKF, BZK |  | A3 | F1-F8, K3, K14, K15, K20, K22, K24 | Pa/IV, Pm/IV | T3 |
-
-| 2. | 06 | főtörzsőrmester | BK, SZKF |
-
-| 3. | 05 | törzsőrmester |
-
-| 4. | 03 | szakaszvezető | ÁI |  | Pa/III, Pm/III |
-
-2.11. Katonai hatósági és szakirányítási tevékenység, adatvédelem, munkavédelem, tűzvédelem, környezetvédelem, munkaegészségügy
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 16 | dandártábornok | EKV*, PE | SZFF | JSZV, KSZV | A6 | K12*, 23, 24 | Pa/V, Pv/V | T1 |
-
-| 2. | 15 | ezredes |
-
-| 3. | 14 | alezredes | A4 | Pa/V, Pv/IV |
-
-| 4. | 13 | őrnagy | FKV*, PF | Pa/IV |
-
-| 5. | 12 | százados |
-
-| 6. | 11 | főhadnagy | T2 |
-
-| 7. | 9 | főtörzszászlós | É | SZKF |  |
-
-| 8. | 8 | törzszászlós |
-
-| 9. | 7 | főtörzsőrmester |
-
-| 10. | 6 | törzsőrmester |
-
-A *-gal jelölt követelmények a szakirányítási munkakörök esetében nem vehetők figyelembe.
-
-2.12. Katonai nemzetbiztonsági
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 18 | altábornagy | EKV, PE | SZFF |  | A6 | K12, K15, K19, K23, K24, K26 | Pa/V, Pv/V, Pv/IV | T1 |
-
-| 2. | 17 | vezérőrnagy |
-
-| 3. | 16 | dandártábornok |
+| 3. | 16 | dandártábornok | EKV, PE | SZFF | FVT, JSZV | K12, K23, K24 | Pa/V, Pv/V |
 
 | 4. | 15 | ezredes |
 
-| 5. | 14 | alezredes | A4, A5 |
+| 5. | 14 | alezredes |  | Pa/V, Pv/IV |
 
-| 6. | 13 | őrnagy | FKV, PF | Pa/V, Pk/V, Pk/IV |
+| 6. | 13 | őrnagy | FKV, PF | Pa/IV |
 
 | 7. | 12 | százados |
 
-| 8. | 09 | főtörzszászlós | É | BSZF | Pa/IV |
+| 8. | 11 | főhadnagy |
 
-| 9. | 08 | törzszászlós | BSZF, BZK |
+| 9. | 09 | főtörzszászlós | É | BSZF |
 
-| 10 | 07 | zászlós |
+| 10. | 08 | törzszászlós | BSZF, KF |
 
-| 11 | 06 | főtörzsőrmester | BK |
+| 11. | 07 | zászlós |
 
-2.13. Oktatás, képzés, kiképzés
+| 12. | 06 | főtörzsőrmester |
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+| 13. | 05 | törzsőrmester |
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+2.18. egyéb biztosítás és kiszolgálás
 
-| kate- gória | kizáró korláto- zások |
+2.18.1. katonai rendész
 
-| A | B | C | D | E | F | G | H | I |
+## 5K08209_39
 
-| 1. | 16 | dandártábornok | EKV, PE | SZFF | FVT | A6 | K15, K23, K24, K26 | Pa/V, Pv/V, Pm/IV | T1 |
+|  | A | B | C | D | E | F | G |
 
-| 2. | 15 | ezredes |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| 3. | 14 | alezredes |  | A4 | Pa/V, Pv/IV, Pm/IV | T2 |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 4. | 13 | őrnagy | FKV, PF | Pa/V, Pm/IV |
+| 3. | 15 | ezredes | EKV | FF | FVT | K23, K24 | Pa/V, Pv/IV |
 
-| 5. | 12 | százados | Pa/IV, Pm/IV | T3 |
+| 4. | 14 | alezredes |  | Pa/IV, Pv/IV |
 
-| 6. | 11 | főhadnagy |
+| 5. | 13 | őrnagy | FKV | K12, K23, K24 |
 
-| 7. | 09 | főtörzszászlós | É | BSZF |
+| 6. | 12 | százados |
 
-| 8. | 08 | törzszászlós | BZK, SZKF |
+| 7. | 11 | főhadnagy | Pa/IV, Pm/IV |
 
-| 9. | 07 | zászlós |
+| 8. | 09 | főtörzszászlós | É | BSZF | F5-F8, K12, K23, K24 | Pa/III, Pm/III |
 
-| 10. | 06 | főtörzsőrmester | BK, SZKF |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 11. | 05 | törzsőrmester |
+| 10. | 07 | zászlós |
 
-| 12. | 03 | szakaszvezető | ÁI |  | A3 | Pa/III, Pm/III | T4 |
+| 11. | 06 | főtörzsőrmester | BK, KF |
 
-2.14. Jogi és igazgatási
+| 12. | 05 | törzsőrmester |
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+| 13. | 03 | szakaszvezető | ÁI |  |
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+| 14. | 02 | tizedes |
 
-| kate- gória | kizáró korláto- zások |
+| 15. | 01 | őrvezető |
 
-| A | B | C | D | E | F | G | H | I |
+2.18.2. díszelgő
 
-| 1. | 16 | dandártábornok | PE | SZFF | JSZV | A6 | K23, K24 | Pa/V, Pv/V | T1 |
+## 5K08209_40
 
-| 2. | 15 | ezredes | Pa/V, Pv/IV |
+|  | A | B | C | D | E | F | G |
 
-| 3. | 14 | alezredes | A4 | Pa/IV, Pv/IV |
+| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
 
-| 4. | 13 | őrnagy | Pa/IV |
+| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
 
-| 5. | 12 | százados | PE, PF | KSZV, JSZV |
+| 3. | 15 | ezredes | EKV | FF | FVT | K23, K24 | Pa/V, Pv/IV |
 
-| 6. | 11 | főhadnagy |  |
+| 4. | 14 | alezredes |  | F1-F8, K15, K23, K24, K25 | Pa/IV, Pv/IV |
 
-2.15. Humán
+| 5. | 13 | őrnagy | FKV |
 
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
+| 6. | 12 | százados |
 
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
+| 7. | 11 | főhadnagy | F1-F8, K15, K25 |
 
-| kate- gória | kizáró korláto- zások |
+| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
 
-| A | B | C | D | E | F | G | H | I |
+| 9. | 08 | törzszászlós | BZK, SZKF |
 
-| 1. | 16 | dandártábornok | EKV, PE | SZFF | FVT | A6 | F8, K23, K24, K26 | Pa/V, Pv/V | T1 |
+| 10. | 07 | zászlós |
 
-| 2. | 15 | ezredes | Pa/V, Pv/IV |
+| 11. | 06 | főtörzsőrmester | BK, KF |
 
-| 3. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV |
+| 12. | 05 | törzsőrmester |
 
-| 4. | 13 | őrnagy | FKV, PF |
+| 13. | 03 | szakaszvezető | ÁI |  |
 
-| 5. | 12 | százados |
+| 14. | 02 | tizedes |
 
-| 6. | 11 | főhadnagy | T2 |
+| 15. | 01 | őrvezető |
 
-| 7. | 09 | főtörzszászlós | É | BSZF | F8 | Pa/IV, Pm/III |
+2.18.3. katonazenész
 
-| 8. | 08 | törzszászlós |  | BSZF, SZKF |
-
-| 9. | 07 | zászlós |
-
-| 10. | 06 | főtörzsőrmester |
-
-| 11. | 05 | törzsőrmester |
-
-2.16. Tábori lelkészek
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 16 | dandártábornok | PE | SZFF |  | A6 | K23, K24 | Pa/V, PV/V | T1 |
-
-| 2. | 15 | ezredes |
-
-| 3. | 14 | alezredes | A4 | Pa/IV |
-
-| 4. | 13 | őrnagy |
-
-| 5. | 12 | százados | PF |
-
-| 6. | 11 | főhadnagy |
-
-2.17. Katonai igazgatás, védelmi igazgatás
-
-2.17.1. katonai igazgatás
-
-|  | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi | pszichikai | fizikai |
-
-| kate- gória | kizáró korláto- zások |
-
-| A | B | C | D | E | F | G | H | I |
-
-| 1. | 15 | ezredes | EKV, PE és FKV | SZFF | FVT | A6 | K23, K24 | Pa/V, Pv/IV | T1 |
-
-| 2. | 14 | alezredes |  | A4 | Pa/IV, Pv/IV |
-
-| 3. | 13 | őrnagy | FKV, PF | Pa/IV |
-
-| 4. | 12 | százados |
-
-| 5. | 11 | főhadnagy | T2 |
-
-| 6. | 09 | főtörzszászlós | É | BSZF | Pa/III |
-
-| 7. | 08 | törzszászlós |  | BSZF, KF |
-
-| 8. | 07 | zászlós |
-
-| 9. | 06 | főtörzsőrmester |
-
-| 10. | 05 | törzsőrmester |
+[^137]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított szöveg.

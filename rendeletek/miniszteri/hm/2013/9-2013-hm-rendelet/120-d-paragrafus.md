@@ -1,1 +1,0 @@
-## 120/C. § Az őr-, illetve ügyeleti szolgálatba léptetés céljából vezényelt készenléti szolgálatok vonatkozásában az őr-, illetve ügyeleti szolgálat elrendelése esetén a feladatellátás idejére a szolgálat jellege őr-, illetve ügyeleti szolgálatra változik.

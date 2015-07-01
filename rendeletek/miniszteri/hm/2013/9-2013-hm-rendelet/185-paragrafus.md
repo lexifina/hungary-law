@@ -4,12 +4,16 @@
 
 ## 185. § Állományilletékes parancsnoki jogkört gyakorol a külföldi szolgálat időtartama alatt
 
-a) az 1. § 10. pont a), d), e), l) és m) alpontja szerinti esetekben az MH Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) parancsnoka, a KNBSZ-nél szolgálatot teljesítők vezénylése esetén a KNBSZ főigazgatója,
+a)[^100] az 1. § 10. pont a), d), e), l), m) és o) alpontja szerinti esetekben, továbbá az 1. § 10. pont b) alpontja szerint a NATO Flying Training in Canada program keretében külföldi szolgálatot teljesítők vezénylése esetén az MH Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) parancsnoka, a KNBSZ-nél szolgálatot teljesítők vezénylése esetén a KNBSZ főigazgatója,
 
 b) az a) ponttól eltérően, az 1. § 10. pont a), d), e) és l) alpontja érdekében megalakított szervezetek esetén az alapító okiratban vagy határozatban meghatározott személy,
 
-c) az 1. § 10. pont b), c), f)–k) és n) alpontja szerinti esetekben, ha a külföldi szolgálat nem haladja meg az egy évet, a hazai szolgálati beosztás szerinti állományilletékes parancsnok,
+c)[^101] az az a) pont kivételével az 1. § 10. pont b), c), f)–k) és n) alpontja szerinti esetekben, ha a külföldi szolgálat nem haladja meg az egy évet, a hazai szolgálati beosztás szerinti állományilletékes parancsnok,
 
-d) az 1. § 10. pont b), c), f), h)–j) alpontja szerinti esetekben, ha a külföldi szolgálat meghaladja az egy évet, a központi személyügyi szerv vezetője, és
+d)[^102] az az a) pont kivételével az 1. § 10. pont b), c), f), h)–j) alpontja szerinti esetekben, ha a külföldi szolgálat meghaladja az egy évet, a központi személyügyi szerv vezetője, és
 
 e) az 1. § 10. pont g) alpontja szerinti esetekben, ha a külföldi szolgálat meghaladja az egy évet, a KNBSZ főigazgatója.
+
+[^100]: A 185. § a) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 38. pontja szerint módosított szöveg.
+[^101]: A 185. § c) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 39. pontja szerint módosított szöveg.
+[^102]: A 185. § d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 39. pontja szerint módosított szöveg.

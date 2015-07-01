@@ -1,6 +1,6 @@
 ## 30. A tiszti és az altiszti állomány előmenetele és előmenetelének tervezése
 
-92. § (1) Általános előmeneteli rendbe tartozó szolgálati beosztásokban a tiszti és az altiszti állomány tagja előmenetelre tervezhető, ha
+92. § (1)[^73] Általános előmeneteli rendbe tartozó szolgálati beosztásokban, valamint a rendszeresített rendfokozat elérését követően speciális előmeneteli rendbe tartozó szolgálati beosztásokban a tiszti és az altiszti állomány tagja előmenetelre tervezhető, ha
 
 a) a 86. § szerint legalább „B” teljesítményszintű teljesítményértékeléssel rendelkezik, és
 
@@ -9,3 +9,5 @@ b) az állomány törzsőrmester, főtörzsőrmester vagy zászlós, valamint f�
 (2) Speciális előmeneteli rendbe tartozó szolgálati beosztásokban a tiszti vagy az altiszti állomány tagja a rendszeresített rendfokozat eléréséig a kötelező várakozási idő leteltét követően léptethető elő, ha az adott évben legalább „B” teljesítményszintű teljesítményértékeléssel, valamint sikeres és érvényes minősítő vizsgával rendelkezik.
 
 (3) A Hjt. 84. § (5) bekezdése szerinti esetekben – függetlenül a teljesítményértékelés eredményétől – az állomány tagja előmenetelre nem tervezhető.
+
+[^73]: A 92. § (1) bekezdés nyitó szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 31. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 281/A. §[^43] A 282. § alapján kiadott munkaköri jegyzékek és állománytáblák által meghatározott idegennyelv-ismereti követelmények, illetve az azokra figyelemmel meghatározott idegennyelv-ismereti követelmények alóli mentesítések felülvizsgálatát a szakmai felelős 2014. június 30-ig hajtja végre.
+282. §[^129]
 
-[^43]: A 281/A. §-t a 24/2013. (XII. 20.) HM rendelet 15. §-a iktatta be.
+[^129]: A 282. §-t a 4/2015. (VI. 22.) HM rendelet 29. § p) pontja hatályon kívül helyezte.

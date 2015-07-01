@@ -14,7 +14,7 @@ f) a KNBSZ főigazgatója, és
 
 g) a külföldi utazási kerettel rendelkező állományilletékes parancsnok
 
-## vezényelheti.
+vezényelheti.
 
 (2) Az (1) bekezdés b)–f) pontja szerinti vezetők ideiglenes külföldi szolgálatának elrendelésére a miniszter, a g) pont szerinti vezető esetében a szakmai elöljáró jogosult.
 

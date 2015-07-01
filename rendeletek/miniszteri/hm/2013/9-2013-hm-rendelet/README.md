@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-9-20-15
 | 2014-03-15 | 2013-9-20-15.5 | 24/2013. (XII. 20.) HM rendelet |
 | 2014-04-15 | 2013-9-20-15.6 | 6/2014. (IV. 14.) HM rendelet |
 | 2014-12-14 | 2013-9-20-15.7 | 16/2014. (XII. 13.) HM rendelet |
+| 2015-07-01 | 2013-9-20-15.8 | 4/2015. (VI. 22.) HM rendelet |

@@ -16,7 +16,7 @@ c) a Hjt. 59. § (1) bekezdés c) pontja esetén a jogerőre emelkedés napján,
 
 d) a Hjt. 59. § (1) bekezdés d) pontja esetén a vállalt szolgálati idő letelte napján
 
-## szűnik meg.
+szűnik meg.
 
 (2) A Hjt. 59. § (1) bekezdés e) pontja esetén
 

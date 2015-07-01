@@ -1,11 +1,13 @@
-53. § (1) Eredeti szolgálati beosztás ellátása alól mentesítéssel az állomány általános előmeneteli rendbe tartozó szolgálati beosztást betöltő tagját állománycsoporton belül a viselt rendfokozatánál kettővel magasabb, eggyel alacsonyabb, vagy azonos rendfokozattal rendszeresített szolgálati beosztás ellátásával lehet megbízni.
+53. §[^50] (1) Az állomány általános előmeneteli rendbe tartozó szolgálati beosztást betöltő tagját állománycsoporton belül a viselt rendfokozatánál legfeljebb kettővel magasabb, vagy azonos rendfokozattal rendszeresített szolgálati beosztás ellátásával lehet megbízni.
 
-(2) Eredeti szolgálati beosztás ellátása alól mentesítéssel az állomány speciális előmeneteli rendbe tartozó szolgálati beosztást betöltő tagját
+(2) Az állomány speciális előmeneteli rendbe tartozó szolgálati beosztást betöltő tagját állománycsoporton belül
 
-a) a viselt rendfokozatánál eggyel magasabb, eggyel alacsonyabb vagy azzal azonos rendfokozattal rendszeresített, általános előmeneteli rendbe, vagy
+a) a viselt rendfokozatánál legfeljebb kettővel magasabb, vagy azzal azonos rendfokozattal rendszeresített, általános előmeneteli rendbe, vagy
 
-b) a szolgálati beosztásához rendszeresített rendfokozatnál eggyel magasabb, eggyel alacsonyabb vagy azzal azonos rendfokozattal rendszeresített, speciális előmeneteli rendbe
+b) a szolgálati beosztásához rendszeresített rendfokozatnál legfeljebb kettővel magasabb, vagy azzal azonos rendfokozattal rendszeresített, speciális előmeneteli rendbe
 
 tartozó szolgálati beosztás ellátásával lehet megbízni.
 
-(3) Az állomány tagjának eredeti beosztása ellátása mellett történő megbízására az (1) és a (2) bekezdést kell alkalmazni azzal, hogy a megbízással ellátandó szolgálati beosztás rendszeresített rendfokozata indokolt esetben – az adott állománycsoporton belül – felfelé legfeljebb két rendfokozattal, lefelé egy rendfokozattal térhet el az eredeti szolgálati beosztás rendszeresített rendfokozatától.
+(3) A legénységi állomány tagját állománycsoporton belül a szolgálati beosztásához rendszeresített rendfokozatnál legfeljebb kettővel magasabb, vagy azzal azonos rendfokozattal rendszeresített beosztás ellátásával lehet megbízni.
+
+[^50]: Az 53. § a 4/2015. (VI. 22.) HM rendelet 13. §-ával megállapított szöveg.

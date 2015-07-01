@@ -1,5 +1,3 @@
-## rögzíteni kell.
-
 ## 29. Minősítő vizsga
 
 90. § (1) Az állomány hadnagy, főhadnagy, százados vagy őrnagy, valamint őrmester, törzsőrmester, főtörzsőrmester vagy zászlós rendfokozatú tagja előmenetele érdekében – egyéni jelentkezés alapján – minősítő vizsgát tehet.
