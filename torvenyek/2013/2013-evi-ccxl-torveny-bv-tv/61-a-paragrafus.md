@@ -10,6 +10,6 @@
 
 (5) A büntetés-végrehajtási bíró a kérelmet érdemi vizsgálat nélkül az iratok alapján elutasítja, ha a reintegrációs őrizet elrendelését e törvény kizárja.
 
-(6) Az elítélt vagy a védő kérelmére a büntetés-végrehajtási bíró a reintegrációs őrizet elrendeléséről szóló határozatnak a lakás kijelölésére, valamint a kijelölt lakás és az ahhoz tartozó bekerített hely elhagyásának feltételeire vonatkozó részét megváltoztathatja vagy eseti jelleggel engedélyezheti az elítélt meghatározott célból történő eltávozását. A büntetés-végrehajtási bíró a kérelemről öt napon belül, sürgős szükség esetén soron kívül – az iratok alapján – határoz.
+(6) Az elítélt vagy a védő kérelmére a büntetés-végrehajtási bíró a reintegrációs őrizet elrendeléséről szóló határozatnak a lakás kijelölésére, valamint a kijelölt lakás és az ahhoz tartozó bekerített hely elhagyásának feltételeire vonatkozó részét megváltoztathatja vagy eseti jelleggel engedélyezheti az elítélt meghatározott célból történő eltávozását. A büntetés-végrehajtási bíró a kérelemről öt napon belül, sürgős szükség esetén soron kívül – az iratok alapján – határoz. Az eljárást a reintegrációs őrizet végrehajtására kijelölt lakás elhelyezkedése szerint illetékes büntetés-végrehajtási bíró folytatja le.
 
 (7) A reintegrációs őrizet elrendelésével kapcsolatos eljárás bűnügyi költségét az állam viseli.

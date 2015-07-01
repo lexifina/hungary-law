@@ -30,7 +30,9 @@ n) az alacsony biztonsági kockázatú részlegen történő elhelyezés vagy an
 
 o) reintegrációs őrizet elrendelésére javaslattétel,
 
-p) jogszabályban meghatározott egyéb feladat.
+p) jogszabályban meghatározott egyéb feladat,
+
+q) a vallási részlegen történő elhelyezés vagy annak megszüntetése.
 
 (2) A BFB az (1) bekezdés b), d), f)–h), j), l) és o) pontjában meghatározott feladatkörének ellátása során az elítéltet meghallgatja, egyéb esetben meghallgatást tarthat.
 

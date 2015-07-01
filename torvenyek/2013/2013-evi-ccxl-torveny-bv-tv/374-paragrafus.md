@@ -18,6 +18,6 @@ f) a soron következő szabadságból való kizárás,
 
 g) zárt jellegű javítóintézeti részlegben való elhelyezés.
 
-(3) A (2) bekezdés d) és f) pontjában írt fegyelmi büntetések együttesen is alkalmazhatók.
+(3) A (2) bekezdés b)–f) pontjában írt fegyelmi büntetések együttesen is alkalmazhatók.
 
 (4) A (2) bekezdés g) pontja szerinti fegyelmi büntetést határozatban kell elrendelni.

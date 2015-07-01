@@ -42,6 +42,8 @@ f) a bv. szervvel kötött megállapodás alapján a bv. intézetben jogvédő v
 
 14. munkaterápiás foglalkoztatás: a reintegrációs tevékenység azon formája, amikor elsősorban a kényszergyógykezelt, az ideiglenesen kényszergyógykezelt és a gyógyító-reintegráló csoportba helyezett, valamint a megváltozott munkaképességű vagy egyébként az egészségi állapota miatt a munkáltatásban részt venni nem képes elítélt foglalkoztatása szervezetten, rendszeresen, e törvényben meghatározott feltételekkel és térítési díj ellenében, büntetés-végrehajtási jogviszony keretében történik,
 
+14a. rendfokozat: a Magyar Honvédség tényleges állományú tagja esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
+
 15. védő: a Be. szerinti védő, valamint a büntetések és az intézkedések végrehajtása alatt az elítélt vagy az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében eljáró ügyvéd,
 
 16. végrehajtásért felelős szerv: a büntetés-végrehajtási szervezet, a javítóintézet, a pártfogó felügyelői szolgálatként a Kormány által kijelölt szerv (a továbbiakban: pártfogó felügyelői szolgálat).

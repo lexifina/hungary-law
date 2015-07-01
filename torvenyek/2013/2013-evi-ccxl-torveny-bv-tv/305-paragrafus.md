@@ -16,7 +16,7 @@ f) az illetékes ügyvédi kamarának.
 
 a) nyugállományú és kiképzett tartalékos személy esetén a Honvédség katonai igazgatási és központi adatfeldolgozó szervének,
 
-b) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó elítélt esetén a munkáltatói jogkört gyakorlónak
+b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó elítélt esetén a munkáltatói jogkört gyakorlónak
 
 kell megküldeni.
 

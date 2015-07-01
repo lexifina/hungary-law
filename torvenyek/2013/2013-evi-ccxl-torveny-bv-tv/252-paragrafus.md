@@ -11,3 +11,5 @@ c) a fél munkanapot elérő állásidőt,
 d) a ledolgozott fél munkanapot.
 
 (3) A szabadság számításánál teljes munkanapként kell figyelembe venni a részmunkaidőben, és a csökkentett munkaidőben foglalkoztatottak ledolgozott munkanapjait.
+
+(4) A szabadság idejére járó díjazás mértéke az előző havi ledolgozott egy munkanapra járó munkadíj és a szabadságos napok szorzatának összege.

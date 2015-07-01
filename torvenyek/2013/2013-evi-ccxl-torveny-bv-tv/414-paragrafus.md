@@ -1,6 +1,6 @@
 ## Fiatalkorúak javítóintézetben történő előzetes letartóztatásának végrehajtására vonatkozó rendelkezések
 
-414. § (1) Az előzetes letartóztatás javítóintézetben történő végrehajtására a XXVII. Fejezet rendelkezéseit kell értelemszerűen alkalmazni, a 362–364. §, valamint a 374., 375. és 378–379. § rendelkezései azonban nem alkalmazhatók.
+414. § (1) Az előzetes letartóztatás javítóintézetben történő végrehajtására a XXVII. Fejezet rendelkezéseit kell értelemszerűen alkalmazni, a 362–364. §, a 365. § (3) bekezdése, a 367. §, a 371. §, a 373. § (2) bekezdés e)–h) pontja, valamint a 374. § (2) bekezdés d)–g) pontja és a 378–379. § rendelkezései azonban nem alkalmazhatók.
 
 (2) Az előzetes letartóztatásban lévő fiatalkorú kivételesen, legfeljebb öt napra, ideiglenesen akkor is elhelyezhető bv. intézetben és rendőrségi fogdán, ha az előzetes letartóztatást javítóintézetben hajtják végre.
 

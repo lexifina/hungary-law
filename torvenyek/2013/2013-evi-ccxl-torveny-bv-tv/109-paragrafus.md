@@ -10,7 +10,7 @@
 
 a) a bv. intézetben felkeresheti az elítélteket és egyéni vagy csoportos tájékoztatást ad a társadalomba való beilleszkedés elősegítése érdekében,
 
-b) ha az elítélt részt vesz reintegrációs programban, közreműködik annak megvalósításában, értékeli a reintegrációs programban elért eredményeket, szükség szerint kiegészíti, fejleszti azt,
+b) közreműködik a reintegrációs program megvalósításában, értékeli a reintegrációs programban elért eredményeket, szükség szerint kiegészíti, fejleszti azt,
 
 c) szükség esetén segíti a családi kapcsolatok helyreállítását,
 

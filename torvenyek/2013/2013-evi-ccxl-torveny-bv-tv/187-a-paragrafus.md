@@ -27,3 +27,5 @@ d) gyógykezelés céljából,
 az ott meghatározott időben és az úti cél meghatározása mellett hagyhatja el.
 
 (5) A reintegrációs őrizet az elektronikus távfelügyeleti eszközök alkalmazása mellett biztosítható.
+
+(6) A reintegrációs őrizetben töltött időtartam a szabadságvesztésbe beszámít.

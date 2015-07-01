@@ -32,7 +32,7 @@ k) az egészségügyi ellátáshoz való jogról,
 
 l) a betegjogok érvényesüléséről.
 
-(5) Az előzetesen letartóztatott és az ideiglenes kényszergyógykezelt részére befogadáskor írásban, az általa értett nyelven egyszerűen, közérthető módon tájékoztatást kell adni a büntetőeljáráshoz kapcsolódóan
+(5) A kényszerintézkedés hatálya alatt álló személy részére befogadáskor írásban, az általa értett nyelven egyszerűen, közérthető módon tájékoztatást kell adni a büntetőeljáráshoz kapcsolódóan
 
 a) a védelemhez való jogról,
 
@@ -46,14 +46,16 @@ e) a büntetőügy irataiba való betekintéshez való jogról,
 
 f) a vallomástétel megtagadásához való jogról,
 
-g) a kényszerintézkedésnek az elrendeléséről szóló határozat szerinti, illetve a törvényben meghatározott lehetséges végső tartamáról, továbbá a kényszerintézkedés meghosszabbításának és felülvizsgálatának szabályairól, valamint a szabadlábra helyezési kérelem benyújtásához való jogról,
+g) a kényszerintézkedésnek az elrendeléséről szóló határozat szerinti, illetve a törvényben meghatározott lehetséges végső tartamáról, továbbá a kényszerintézkedés meghosszabbításának és felülvizsgálatának szabályairól, valamint az e határozatokkal szembeni jogorvoslatról, illetve a szabadlábra helyezési kérelem benyújtásához való jogról,
 
 h) a kényszerintézkedés elrendelése, meghosszabbítása vagy fenntartása esetén az általa megjelölt hozzátartozó vagy az általa megjelölt más személy értesítéséhez való jogról.
 
-(6) Ha az előzetesen letartóztatott vagy az ideiglenes kényszergyógykezelt a (4) bekezdés f) és k) pontjában, valamint az (5) bekezdésben szereplő jogokról a tájékoztatást az őrizetbe vétel során már megkapta, a tájékoztatást nem kell megismételni.
+(5a) Az európai elfogatóparancs alapján őrizetbe vett személy részére a (4) és (5) bekezdésben foglaltakon túl a befogadásakor írásban, az általa értett nyelven egyszerűen, közérthető módon tájékoztatást kell adni az európai elfogatóparancs tartalmának megismeréséhez való jogról, az egyszerűsített átadáshoz történő hozzájárulás lehetőségéről és jogkövetkezményeiről, valamint a hozzájárulás megtagadásának jogkövetkezményeiről.
 
-(7) A (4) és (5) bekezdésben meghatározott jogokról szóló írásbeli tájékoztatót az elítélt és az egyéb jogcímen fogvatartott magánál tarthatja.
+(6) Ha a kényszerintézkedés hatálya alatt álló személy a (4) bekezdés f) és k) pontjában, valamint az (5) bekezdésben szereplő jogokról a tájékoztatást az őrizetbe vétel során már megkapta, a tájékoztatást nem kell megismételni.
 
-(8) A (3)–(5) bekezdés szerinti tájékoztatás megtörténtét és annak tudomásulvételét írásban kell rögzíteni. Ha az elítélt vagy az egyéb jogcímen fogvatartott írni, olvasni nem tud, vagy a tájékoztatás időpontjában az írásbeli tájékoztató az általa értett nyelven nem áll rendelkezésre, a (4) és (5) bekezdés szerinti tájékoztatást szóban – két tanú jelenlétében – kell elvégezni, és annak megtörténtét írásban kell rögzíteni. Ha ezt követően a (4) és (5) bekezdés szerinti írásbeli tájékoztató az elítélt vagy az egyéb jogcímen fogvatartott által értett nyelven elkészül, azt részére haladéktalanul át kell adni.
+(7) A (4)–(5a) bekezdésben meghatározott jogokról szóló írásbeli tájékoztatót az elítélt és az egyéb jogcímen fogvatartott magánál tarthatja.
+
+(8) A (3)–(5a) bekezdés szerinti tájékoztatás megtörténtét és annak tudomásulvételét írásban kell rögzíteni. Ha az elítélt vagy az egyéb jogcímen fogvatartott írni, olvasni nem tud, vagy a tájékoztatás időpontjában az írásbeli tájékoztató az általa értett nyelven nem áll rendelkezésre, a (4)–(5a) bekezdés szerinti tájékoztatást szóban – két tanú jelenlétében – kell elvégezni, és annak megtörténtét írásban kell rögzíteni. Ha ezt követően a (4)–(5a) bekezdés szerinti írásbeli tájékoztató az elítélt vagy az egyéb jogcímen fogvatartott által értett nyelven elkészül, azt részére haladéktalanul át kell adni.
 
 (9) A tartósan vagy véglegesen érzékszervi, kommunikációs, fizikai, értelmi, pszicho-szociális károsodással – vagy ezek bármilyen halmozódásával – élő, az írni vagy olvasni nem tudó, valamint a fiatalkorú elítélt vagy egyéb jogcímen fogvatartott részére a tájékoztatást – állapotára, adottságaira és helyzetére figyelemmel – a számára érthető módon kell megadni.

@@ -16,4 +16,4 @@ f) hazája Magyarországon akkreditált diplomáciai képviselője, konzuli tisz
 
 között.
 
-(3) A javítóintézeti nevelés végrehajtása során a fiatalkorú kérelmére a javítóintézet igazgatója az (1)–(2) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
+(3) A fiatalkorú kérelmére, a rendelkezési jogkör gyakorlójának egyetértésével a javítóintézet igazgatója az (1)–(2) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.

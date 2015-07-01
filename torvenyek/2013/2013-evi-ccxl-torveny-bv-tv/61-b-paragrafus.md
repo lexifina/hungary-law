@@ -2,6 +2,6 @@
 
 (2) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de a bv. intézet a feltételes szabadságra bocsátás esedékességének napjáig arról értesíti, hogy az elítélt a reintegrációs őrizet magatartási, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait megszegte, az elektronikus távfelügyeleti eszközt megrongálta vagy használhatatlanná tette, a büntetés-végrehajtási bíró a feltételes szabadságra bocsátást újból megvizsgálja, és ennek alapján a végzését hatályon kívül helyezheti.
 
-(3) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását mellőzte, megteszi a szükséges intézkedéseket a szabadságvesztés fennmaradó részének a letöltése érdekében.
+(3) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását mellőzte, a reintegrációs őrizetet megszünteti és megteszi a szükséges intézkedéseket a szabadságvesztés fennmaradó részének a letöltése érdekében.
 
-(4) A büntetés-végrehajtási bíró eljárására egyebekben az 57–59. §-t kell alkalmazni.
+(4) Az eljárást a reintegrációs őrizet végrehajtására kijelölt lakás elhelyezkedése szerint illetékes büntetés-végrehajtási bíró folytatja le. A büntetés-végrehajtási bíró eljárására egyebekben az 57–59. §-t kell alkalmazni.

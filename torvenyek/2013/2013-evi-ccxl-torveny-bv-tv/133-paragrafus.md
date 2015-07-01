@@ -24,7 +24,7 @@ i) a tartására fordított költséghez hozzájárulni, kivéve ha önhibáján
 
 j) a képességeinek és a bv. intézet adottságainak megfelelő képzésben, illetve oktatásban részt venni.
 
-(3) A tartási költségekhez való hozzájárulás összegét az országos parancsnok normatív utasításban határozza meg, az évente meghatározott napi összeg nem lehet kevesebb, mint az egy havi alapmunkadíj egy százaléka.
+(3) A tartási költségekhez való hozzájárulás összegét az országos parancsnok normatív utasításban határozza meg, az évente meghatározott napi összeg – teljes munkaidőben történő foglalkoztatás esetén – nem lehet kevesebb, mint az egy havi alapmunkadíj egy százaléka.
 
 (4) Az elítélt keresményének és rendszeres pénzellátásának meghatározott részét a szabadulása idejére tartalékolni kell. A tartalékolás évente meghatározott összege a fogvatartás első négy évében az egy havi alapmunkadíj ötven százaléka, ezt meghaladó tartamú fogvatartás esetén évente az egy havi alapmunkadíj huszonöt százaléka.
 

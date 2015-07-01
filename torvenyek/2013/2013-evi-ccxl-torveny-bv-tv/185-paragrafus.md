@@ -48,4 +48,4 @@ h) ha az elítélt részéről gyógyintézetben, illetve szociális intézmény
 
 (8) A gondozási tevékenység keretében a pártfogó felügyelő együttműködik a helyi önkormányzatokkal, a munkáltatókkal, az elítélt társadalomba való beilleszkedését elősegítő, karitatív tevékenységet végző civil szervezetekkel, vallási közösségekkel, valamint egyéb önkéntes közreműködőkkel.
 
-(9) E § alkalmazásában befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően élni kíván.
+(9)

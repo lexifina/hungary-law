@@ -1,3 +1,3 @@
 345. § (1) A javítóintézeti nevelést a gyermekek és az ifjúság védelméért felelős miniszter felügyelete és közvetlen irányítása alatt álló javítóintézet hajtja végre. A javítóintézet biztonságával összefüggésben a büntetés-végrehajtásért felelős miniszter – az érintett miniszter általános felügyeleti jogát nem érintve – szakfelügyeletet gyakorol.
 
-(2) A javítóintézet házirendjét, biztonsági követelményeit a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fiatalkorú elítéltek szabadságvesztésének végrehajtását biztosító bv. intézetek szakmai tapasztalatai felhasználásával, azokkal együttműködve kell kialakítani.
+(2) A javítóintézet biztonsági követelményeit a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fiatalkorú elítéltek szabadságvesztésének végrehajtását biztosító bv. intézetek szakmai tapasztalatai felhasználásával, azokkal együttműködve kell kialakítani.

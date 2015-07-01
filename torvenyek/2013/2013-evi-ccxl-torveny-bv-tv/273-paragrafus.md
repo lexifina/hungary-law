@@ -24,6 +24,6 @@ d) a dohányzókat a nem dohányzóktól, és
 
 e) a fertőző betegeket a nem fertőző betegektől.
 
-(6) Az elzárásra ítélt befogadását a bv. szerv hivatali munkarendjében kell végrehajtani.
+(6) Az elzárásra ítélt befogadását – jogszabály eltérő rendelkezése hiányában – a bv. szerv hivatali munkarendjében kell végrehajtani.
 
 (7) Az elzárásra ítélttel szemben biztonsági intézkedésként nem rendelhető el biztonsági zárkába, vagy részlegre helyezés.

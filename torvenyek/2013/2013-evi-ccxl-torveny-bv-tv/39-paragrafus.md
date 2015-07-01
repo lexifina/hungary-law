@@ -12,7 +12,7 @@ c) halasztást engedélyezhet a szabadságvesztés végrehajtás megkezdésére 
 
 (3) El kell halasztani – kérelem nélkül, hivatalból is – a szabadságvesztés végrehajtásának megkezdését annak az elítéltnek az esetében, aki
 
-a) a tizenkettedik hetet meghaladó várandós, legfeljebb a szülés várható idejét követő első év végéig,
+a) a tizenkettedik hetet meghaladó várandós, legfeljebb a szülés várható idejét követő tizenkettedik hónap végéig,
 
 b) egy évesnél fiatalabb gyermekét gondozza.
 

@@ -21,3 +21,5 @@
 5. reintegrációs program: az elítélt munkaerő-piaci integrációjának elősegítését, a befogadást megelőző életkörülményeiből, életviteléből eredő hátrányok csökkentését, személyisége és szociális készségei fejlesztését célzó reintegrációs programok, foglalkozások,
 
 6. rezsim: az egyéniesítés alapelvéhez igazodó, az elítéltre vonatkozó reintegrációs célok megvalósítását biztosító végrehajtási környezet, amelyet e törvény vagy annak céljaival összhangban a bv. szervek vezetői hoznak létre.
+
+7. befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően vagy reintegrációs őrizetének elrendelése esetén élni kíván.

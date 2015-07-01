@@ -6,10 +6,10 @@
 
 (3) Az elítélt teljes egészében köteles megtéríteni a kárt a megőrzésre átadott, visszaszolgáltatási vagy elszámolási kötelezettséggel átvett olyan dologban bekövetkezett hiány esetén, amelyeket állandóan őrizetben tart, kizárólagosan használ vagy kezel.
 
-(4) A fogvatartott mentesül a (3) bekezdésben meghatározott felelősség alól, ha
+(4) Az elítélt mentesül a (3) bekezdésben meghatározott felelősség alól, ha
 
 a) a hiányt elháríthatatlan külső ok idézte elő, vagy
 
 b) a munkáltató nem biztosította a biztonságos őrzés feltételeit.
 
-(5) Fogvatartottal szemben az Mt. leltárhiányért való felelősségre vonatkozó szabályai alapján kártérítési igény nem érvényesíthető.
+(5) Az elítélttel szemben az Mt. leltárhiányért való felelősségre vonatkozó szabályai alapján kártérítési igény nem érvényesíthető.

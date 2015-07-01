@@ -10,6 +10,10 @@
 
 (5) A bírósági felülvizsgálati kérelmet a határozatot hozó végrehajtásért felelős szerv, illetve szervezeti egység székhelye szerint illetékes büntetés-végrehajtási bíró – a 73. és 75. §-ban írt eljárások kivételével – iratok alapján bírálja el. Ezekben az ügyekben bírósági titkár nem járhat el.
 
-(6) A bírósági felülvizsgálati kérelemben új tények és bizonyítékok is felhozhatók. A büntetés-végrehajtási bíró bírósági felülvizsgálati eljárásban hozott határozata ellen fellebbezésnek nincs helye.
+(5a) A büntetés-végrehajtási bíró a felülvizsgálati kérelem 72. § (1) bekezdés a) pontja szerinti elutasításáról az iratok alapján határoz. A határozattal szemben az általános szabályok szerint van helye jogorvoslatnak.
+
+(5b) Az (5a) szerinti határozat meghozatalakor a büntetés-végrehajtási bíró helyett bírósági titkár is eljárhat.
+
+(6) A bírósági felülvizsgálati kérelemben új tények és bizonyítékok is felhozhatók. A büntetés-végrehajtási bíró bírósági felülvizsgálati eljárásban hozott határozata ellen – az (5a) bekezdésben meghatározott kivétellel – fellebbezésnek nincs helye.
 
 (7) Ha az elítélt vagy a védő az ismételt kérelemben új körülményre nem hivatkozik, a büntetés-végrehajtási bíró a kérelem tárgyában a határozathozatalt mellőzheti, és erről a kérelmezőt értesíti.

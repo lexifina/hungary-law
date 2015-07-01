@@ -8,4 +8,4 @@
 
 (5) Ha az elítélt szabadult, kártérítési igényét a Polgári Törvénykönyv alapján, elévülési időn belül közvetlenül a bv. szerv székhelye szerint illetékes bírósághoz, illetve a munkáltatással összefüggésben okozott kár megtérítése iránti igényét a közigazgatási és munkaügyi bírósághoz benyújtott keresettel érvényesítheti.
 
-(6) A kárt a bv. szerv viseli, ha a károkozásért az elítélt felelőssége nem állapítható meg, továbbá, ha az elítéltet a kár megtérítése alól részben vagy egészben mentesítették, vagy a tartozást törölték.
+(6)

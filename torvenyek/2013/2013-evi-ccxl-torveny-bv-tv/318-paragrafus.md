@@ -8,7 +8,7 @@
 
 a) a törvényszék gazdasági hivatala,
 
-b) jövedéki termék, vagy nem közösségi áru esetén a Nemzeti Adó- és Vámhivatal,
+b) a hatáskörébe tartozó bűncselekmény miatt folyó büntetőeljárásban lefoglalt dolog esetén a Nemzeti Adó- és Vámhivatal,
 
 c) ingatlan esetén a bírósági végrehajtó
 

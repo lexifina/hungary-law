@@ -34,4 +34,4 @@ e) általános tájékoztatást az elítélt által a bv. intézetnél bemutatan
 
 (7) Ha a bv. bíró megállapítja a szabadságvesztés végrehajthatóságát, úgy az értesítőlap másolatának megküldésével értesíti a BVOP-t a szabadságvesztés megkezdésére felhívható elítéltekről.
 
-(8)
+(8) A BVOP által kiadott felhívással kapcsolatban panasznak csak abban az esetben van helye, ha az nem felel meg a jogszabályban meghatározott követelményeknek, vagy ha a benne foglalt jelentkezési kötelezettség nem áll összhangban az e törvényben meghatározottakkal.

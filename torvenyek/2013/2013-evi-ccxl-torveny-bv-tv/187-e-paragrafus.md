@@ -2,7 +2,9 @@
 
 a) végrehajtandó szabadságvesztésről, új büntető ügyről érkezik értesítés,
 
-b) az elítélt a magatartási, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait megszegi, az elektronikus távfelügyeleti eszközt megrongálja vagy használhatatlanná teszi.
+b) az elítélt a magatartási, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait megszegi, az elektronikus távfelügyeleti eszközt megrongálja vagy használhatatlanná teszi,
+
+c) a kijelölt lakás az elektronikus távfelügyeleti eszköz elhelyezésére alkalmatlanná vált, vagy a befogadó nyilatkozatot tevő a nyilatkozatát visszavonta, és az elítélt nem tud megjelölni másik olyan lakást, amely a reintegrációs őrizet végrehajtási helyeként kijelölhető lenne.
 
 (2) Az elfogott elítéltet az általános rendőrségi feladatok ellátására létrehozott szerv a legközelebbi bv. intézetbe előállítja.
 
