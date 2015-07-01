@@ -56,7 +56,7 @@ s) szervezett bűnözéssel összefüggő bűncselekmény:
 
 sa) a 2013. június 30-ig hatályban volt emberkereskedelem (1978. évi IV. törvény 175/B. §) bűntette, valamint az emberkereskedelem (Btk. 192. §),
 
-sb) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 250–254. §-aiba ütköző vesztegetés minősített esetei bűntette, 255. §-ába ütköző vesztegetés bűntette, 256. §-ába ütköző befolyással üzérkedés minősített eseteinek bűntette, valamint 258/B–258/D. §-aiba ütköző vesztegetés nemzetközi kapcsolatban minősített eseteinek bűntette, illetve a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés és a hivatali vesztegetés elfogadása minősített esetei (Btk. 290–291. és 293–294. §), a vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), a vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), a befolyással üzérkedés minősített esetei (Btk. 299–300. §),
+sb) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 250–254. §-aiba ütköző vesztegetés minősített esetei bűntette, 255. §-ába ütköző vesztegetés bűntette, 256. §-ába ütköző befolyással üzérkedés minősített eseteinek bűntette, valamint 258/B–258/D. §-aiba ütköző vesztegetés nemzetközi kapcsolatban minősített eseteinek bűntette, illetve a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés és a hivatali vesztegetés elfogadása minősített esetei (Btk. 290–291. és 293–294. §), a vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), a vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), a befolyással üzérkedés minősített esetei (Btk. 299. §),
 
 sc) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 263/C. §-ába ütköző bűnszervezetben részvétel, illetve a bűnszervezetben részvétel (Btk. 321. §),
 
