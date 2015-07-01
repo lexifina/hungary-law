@@ -12,9 +12,10 @@ c) a hallgatói jogviszony megszűnéséig vagy az adott képzésen a képzési 
 
 (3) A honvéd tisztjelöltek juttatásaira az e juttatásokat megállapító jogszabályokat és az azok alapján megkötésre kerülő ösztöndíjszerződést kell alkalmazni azzal, hogy részükre a 12. § a) pont ab), ac) alpontjaiban és a b) pont bc) alpontjában meghatározott támogatások is nyújthatók.
 
-(4) A Magyar Honvédség és a fegyveres szervek hivatásos és szerződéses állományú hallgatóinak juttatásaira az e juttatásokat megállapító jogszabályokat kell alkalmazni azzal, hogy a rendészeti képzésben nappali munkarendben részt vevő hivatásos állományú hallgatók alapilletményre jogosultak, amelynek kifizetésére az állományilletékes rendvédelmi szerv jogosult.
+(4)[^8] A Magyar Honvédség és a rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses állományú hallgatóinak juttatásaira az e juttatásokat megállapító jogszabályokat kell alkalmazni azzal, hogy a rendészeti képzésben nappali munkarendben részt vevő hivatásos állományú hallgatók alapilletményre jogosultak, amelynek kifizetésére az állományilletékes rendvédelmi szerv jogosult.
 
 (5) Az Egyetem rendészeti képzésben részt vevő ösztöndíjas hallgatóinak juttatásaira – a biztonsági szakirány hallgatói kivételével – az e juttatásokat megállapító jogszabályokat, az Egyetem térítési és juttatási szabályzatát, valamint a rendvédelmi szervvel kötött ösztöndíjszerződést kell alkalmazni azzal, hogy e hallgatók részére a pénzbeli juttatást az ösztöndíjszerződést megkötő szerv folyósítja. A nappali munkarendben részt vevő hallgatók részére a 12. § a) pont ab), ac) alpontjaiban és a b) pont bc) alpontjában meghatározott támogatások is nyújthatók.
 
 [^6]: A 8. § (1) bekezdése a 248/2012. (VIII. 31.) Korm. rendelet 35. §-ával megállapított szöveg.
 [^7]: A 8. § (1a) bekezdését a 248/2012. (VIII. 31.) Korm. rendelet 36. §-a iktatta be.
+[^8]: A 8. § (4) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
