@@ -4480,37 +4480,37 @@ A 22. sorszámú Rendészeti szervező (a szakmairány megjelölésével) megnev
 
 | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
 
-| 3.1.2. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.2. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.3. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.3. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.4. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.4. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.5. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.5. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.6. | 0120 | fegyveres szervek középfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.6. | 0120 | rendvédelmi feladatokat ellátó szervek középfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.7. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.7. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.8. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.8. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.9. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.9. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.10. | 0120 | fegyveres szervek középfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.10. | 0120 | rendvédelmi feladatokat ellátó szervek középfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.11. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.11. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.12. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.12. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.13. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.13. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.14. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.14. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.15. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.15. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.16. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.16. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
-| 3.1.17. | 0110 | fegyveres szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
+| 3.1.17. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
 
 3.2. A szakképesítés munkaterületének rövid leírása:
 
@@ -6086,4 +6086,4 @@ Amennyiben a teljesítendő írásbeli feladat eredménye nem éri el az 51%-ot,
 
 7.4.1. A 15/2008. (VII. 28.) IRM rendelet szerinti Határrendészeti-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 0725-06 Rendészeti alapfeladatok, 0731-06 Általános őr- és járőrszolgálati feladatok, 0732-06 Határrendészeti rendőri feladatok) végzettség tekintetében megegyezik a 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3695-11 Határrendészeti rendőri feladatok szakmai követelménymodulokat tartalmazó Határrendészeti-rendőr szakképesítés-elágazással, és a jelen szakképesítés szerinti Rendőr tiszthelyettes (határrendészeti rendőr) végzettséggel.
 
-[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése, a 25/2014. (VIII. 26.) NGM rendelet 4. § (2) bekezdése, a 43/2014. (VIII. 29.) BM rendelet 2. § (1) bekezdés b) pontja és (2) bekezdése, a 65/2014. (XII. 16.) BM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése, a 25/2014. (VIII. 26.) NGM rendelet 4. § (2) bekezdése, a 43/2014. (VIII. 29.) BM rendelet 2. § (1) bekezdés b) pontja és (2) bekezdése, a 65/2014. (XII. 16.) BM rendelet 1. §-a, a 37/2015. (VI. 16.) BM rendelet 72. §-a szerint módosított szöveg.
