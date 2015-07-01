@@ -40,9 +40,9 @@ r) a korrekciós pótlékra vonatkozó részletes eljárási szabályokat.
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza:
 
-a) az 1979. évi 12. törvényerejű rendelettel kihirdetett, az oktatási, tudományos és kulturális jellegű tárgyak behozataláról szóló, Lake Success-ben, 1950. november 22-én kelt megállapodás alapján vámmentes vámkezelésre jogosultak körét az oktatásért, a kultúráért és a kormányzati tudománypolitikáért felelős miniszterrel egyetértésben,
+a) a vámmentességekre vonatkozó közösségi vámjogszabályok végrehajtásának részletes szabályait,
 
-b) a szövettipizáló reagensek vámmentes vámkezelésére jogosult laboratóriumokat az oktatásért, a kultúráért és a kormányzati tudománypolitikáért felelős miniszterrel egyetértésben,
+b)
 
 c) az alapfeladatoktól eltérő külön feladatokat és ellenőrzési kötelezettségeket, az agrárpolitikáért felelős miniszterrel egyetértésben,
 

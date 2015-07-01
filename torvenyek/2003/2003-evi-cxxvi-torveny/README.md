@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-126-00-00
 | 2014-09-30 | 2014. évi XXXIX. törvény | 2003-126-00-00.36 |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2003-126-00-00.37 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2003-126-00-00.38 |
+| 2015-07-01 | 2014. évi LXXIV. törvény | 2003-126-00-00.39 |
