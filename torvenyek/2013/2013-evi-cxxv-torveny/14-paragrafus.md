@@ -1,12 +1,12 @@
 ## 8. Ellenőrzés
 
-14. § (1) A minősítő a minősítő okirat kiállításának alapjául szolgáló feltételeknek való megfelelést és a környezetirányítási programban foglaltak végrehajtását ellenőrzi.
+14. § (1) A minősítő a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést és a környezetirányítási programban foglaltak végrehajtását ellenőrzi.
 
 (2) Ha a minősítő az ellenőrzés alapján megállapítja, hogy a kérelmező
 
-a) hulladékgazdálkodási közszolgáltatási engedélyében a hulladékgazdálkodási közszolgáltatási tevékenységére kiható változás következett be, amelynek bejelentéséről az előírt eljárás szerint nem gondoskodott,
+a) hulladékgazdálkodási közszolgáltatási tevékenységében olyan változás következett be, amelynek bejelentéséről az előírt eljárás szerint nem gondoskodott,
 
-b) a minősítő okirat kiállításának alapjául szolgáló feltételeknek nem felel meg és a minősítő okirat módosítása iránt a 12. § (2) bekezdése szerinti határidőben nem nyújtott be kérelmet,
+b) a minősítési engedély kiállításának alapjául szolgáló feltételeknek nem felel meg és a minősítési engedély módosítása iránt a 12. § (2) bekezdése szerinti határidőben nem nyújtott be kérelmet,
 
 c) a környezetirányítási programban foglaltakat nem vagy nem megfelelően hajtja végre,
 

@@ -10,23 +10,29 @@ b) a kérelmező telephelyének, fióktelepének címe,
 
 c) a kérelmező kijelölt kapcsolattartójának neve,
 
-d) a kérelem típusa (új kérelem, módosítási kérelem, minősítő okirat hatályának meghosszabbítása iránti kérelem, adatváltozás bejelentése),
+d) a kérelem típusa (új kérelem, módosítási kérelem, minősítési engedély hatályának meghosszabbítása iránti kérelem, adatváltozás bejelentése),
 
 e) a kérelmezett minősítési osztály,
 
 f) a kérelmező hulladékgazdálkodási engedélyének száma, időbeli hatálya, az engedélyező hatóság,
 
-g) a kérelmező hulladékgazdálkodási közszolgáltatási engedélyének száma, időbeli hatálya,
+g)
 
 h) a kérelmező által végzett hulladékgazdálkodási tevékenységek, valamint
 
-i) a kérelmező által a hulladékgazdálkodási közszolgáltatás keretében üzemeltetett hulladékkezelő létesítmények felsorolása.
+i) a kérelmező által a hulladékgazdálkodási közszolgáltatás keretében üzemeltetett hulladékkezelő létesítmények felsorolása,
+
+j) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék fajtája, típusa, jellege, mennyisége (tonnában kifejezve), összetétele,
+
+k) a közszolgáltatási terület megnevezése, kiterjedése, valamint
+
+l) nyilatkozat arról, hogy a kérelmező a Ht. 61. § (4) bekezdésében meghatározott esetben a közterületen elhagyott, jogellenesen elhelyezett hulladék elszállítását és kezelését vállalja.
 
 (3) A kérelemhez csatolni kell
 
-a) a hulladékgazdálkodási közszolgáltatási engedély alapját képező, a környezetvédelmi hatóság által kiadott hatályos hulladékgazdálkodási engedélyt vagy engedélyeket,
+a) a hatályos hulladékgazdálkodási engedélyt vagy engedélyeket,
 
-b) a közszolgáltatási területre vonatkozó hatályos hulladékgazdálkodási közszolgáltatási engedélyt,
+b)
 
 c)
 

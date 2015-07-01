@@ -6,7 +6,7 @@
 
 2. gyűjtőedény: a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) szerinti szabványos gyűjtőedény, kivéve a hulladékgyűjtő zsákot, valamint az elkülönített hulladékgyűjtés céljából üzemeltetett eszközt, berendezést;
 
-3. hulladékgazdálkodási közszolgáltatás minősítése: kérelemre induló, a minősítő által lefolytatott közigazgatási hatósági eljárás, amelynek során a minősítő a kérelmező hulladékgazdálkodási közszolgáltatási engedélyében meghatározott tevékenységét vizsgálja, és a kérelmezőt minősítési osztályba sorolja;
+3. hulladékgazdálkodási közszolgáltatás minősítése: kérelemre induló közigazgatási hatósági eljárás, amelynek során a minősítő a végzett vagy végezni kívánt hulladékgazdálkodási közszolgáltatási tevékenységet az e törvényben foglalt követelmények alapján, a minősítési osztály meghatározását is magába foglalóan engedélyezi;
 
 4. hulladékkezelő létesítmény: a hulladékgazdálkodási közszolgáltatásba bevont hulladékhasznosító és hulladékártalmatlanító létesítmény;
 
@@ -14,7 +14,7 @@
 
 6. környezetirányítási program: a környezetirányítási cél elérése érdekében tervezett intézkedéseket és annak ütemezését bemutató részletes terv;
 
-7. közszolgáltatási terület: a kérelmező hulladékgazdálkodási közszolgáltatási engedélyében megnevezett, hulladékgazdálkodási közszolgáltatással érintett terület;
+7. közszolgáltatási terület: a hulladékgazdálkodási közszolgáltatással érintett terület;
 
 8. minősítési fokozat: a hulladékgazdálkodási közszolgáltatási tevékenység szolgáltatási színvonalának szintjét tükröző fokozat;
 

@@ -1,6 +1,6 @@
 ## 3. A minősítés általános szabályai
 
-3. § (1) A hulladékgazdálkodási közszolgáltatási engedéllyel rendelkező gazdálkodó szervezet (a továbbiakban: kérelmező) hulladékgazdálkodási tevékenységét – kérelemre – a szolgáltatás biztonsága és a szolgáltatás színvonala alapján az Országos Hulladékgazdálkodási Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: minősítő) minősíti és a kérelmezőt minősítési osztályba sorolja. A minősítő a minősítés során közigazgatási hatósági jogkörben jár el.
+3. § (1) A kérelmező hulladékgazdálkodási közszolgáltatási tevékenységét a minősítő a szolgáltatás biztonsága és a szolgáltatás színvonala alapján minősítési osztályba sorolja, továbbá előírja a hulladékgazdálkodási közszolgáltatási tevékenység végzésével összefüggő feltételeket.
 
 (1a) A minősítőt a minősítési eljárásban a céginformáció beszerzése során a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti közigazgatási szervnek kell tekinteni.
 

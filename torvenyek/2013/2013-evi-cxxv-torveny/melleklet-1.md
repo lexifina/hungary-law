@@ -38,15 +38,15 @@ minősítési fokozat
 
 |
 
-A kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezik.
+A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik.
 
 |
 
-1. A kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezik.
+1. A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik.
 
 |
 
-1. A kérelmező hulladékgazdálkodási közszolgáltatási engedéllyel rendelkezik.
+1. A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik.
 
 |
 

@@ -1,17 +1,15 @@
 ## 13. Nyilvántartás, közzététel
 
-19. § (1) A minősítő a kiállított minősítő okiratokról naprakész nyilvántartást (a továbbiakban: minősítő okiratok jegyzéke) vezet.
+19. § (1) A minősítő a kiállított minősítési engedélyekről nyilvántartást vezet.
 
-(2) A minősítő okiratok jegyzéke tartalmazza
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
-a) a minősítő okirat sorszámát,
+a) a minősítési engedély számát,
 
-b) a minősített gazdálkodó szervezet nevét, székhelyét, cégjegyzékszámát, adószámát,
+b) a kérelmező nevét, székhelyét, cégjegyzékszámát, adószámát,
 
-c) a hulladékgazdálkodási közszolgáltatási engedély számát,
+c) a minősítési engedélyben megjelölt minősítési osztályt,
 
-d) a minősítő okiratban megjelölt minősítési osztályt,
+d) a minősítési engedély időbeli hatályát.
 
-e) a minősítő okirat időbeli hatályát.
-
-(3) A minősítő a kiállított minősítő okiratokat, a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat a honlapján közzéteszi.
+(3) A minősítési engedélyeket, továbbá a minősítési eljáráshoz kapcsolódó nyomtatványokat és kitöltési, módszertani útmutatókat az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni.
