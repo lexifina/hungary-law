@@ -1,1 +1,0 @@
-## „(7) Az állománytáblában rögzített bármely adat módosítása, változtatása a (2) bekezdés a) pont aa) és ab) alpontjában, b) és c) pontjában, d) pont da) alpontjában, e), f) és g) pontjában meghatározott szervek esetén a miniszter, egyéb szervek esetén az országos parancsnok jóváhagyásával lép hatályba.”
