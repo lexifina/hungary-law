@@ -1,1 +1,1 @@
-### 32. §
+32. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvénnyel megállapított 11/A. § (2) bekezdés c) pontját és a 11/B. §-t a 2015. július 1-jét követően megkezdett szakképzések ideje alatt történő foglalkoztatásra kell alkalmazni.

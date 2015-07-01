@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-84-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2003-84-00-00.28 |
 | 2014-12-31 | 2014. évi CXI. törvény | 2003-84-00-00.29 |
 | 2015-01-01 | 2014. évi CXI. törvény | 2003-84-00-00.30 |
+| 2015-07-01 | 2014. évi CXI. törvény | 2003-84-00-00.31 |

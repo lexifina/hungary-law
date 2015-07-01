@@ -18,7 +18,11 @@ ac) ellátásokat és egészségügyi szolgáltatásokat,
 
 b) a 30. §-ban meghatározott támogatás igénylési feltételeit és mértékét, az igény bejelentésének, az azzal összefüggő kötelező adatszolgáltatásnak, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait, valamint az e törvényben foglalt bértábláktól, illetve bérnövelési mértékektől az egészségügyi dolgozók, egészségügyben dolgozók számára kedvezőbb rendelkezéseket
 
-c) a jövedelemkiegészítés juttatásának szabályait, a jövedelemkiegészítés juttatásával összefüggő támogatás igénylési feltételeit, az igény bejelentésének, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait
+c) a jövedelemkiegészítés juttatásának szabályait, a jövedelemkiegészítés juttatásával összefüggő támogatás igénylési feltételeit, az igény bejelentésének, a támogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének szabályait,
+
+d) a rezidenseket foglalkoztató egészségügyi államigazgatási szerv kijelölését,
+
+e) a III. Fejezetben foglaltaknál a rezidens számára kedvezőbb foglalkoztatási szabályokat
 
 rendeletben meghatározza.
 
