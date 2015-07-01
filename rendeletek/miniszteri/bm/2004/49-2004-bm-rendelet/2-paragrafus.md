@@ -1,4 +1,4 @@
-## 2. §[^5] A lőtér üzemeltetésére jogosító engedély iránti kérelemnek tartalmaznia kell:
+## 2. §[^6] A lőtér üzemeltetésére jogosító engedély iránti kérelemnek tartalmaznia kell:
 
 a) a kérelmező természetes személyazonosító adatait és lakcímét,
 
@@ -12,4 +12,4 @@ e) ideiglenes tereplőtér esetén az érintett terület tulajdonosának hozzáj
 
 f) annak megjelölését, hogy a lőtéren milyen jellegű, kaliberjelű és kategóriába tartozó lőfegyvert vagy muzeális fegyvert, és milyen célra (futóvad, korongvadász, skeet, trap lövészet) kívánnak használni.
 
-[^5]: A 2. § a 71/2009. (XII. 22.) IRM rendelet 3. §-ával megállapított szöveg.
+[^6]: A 2. § a 71/2009. (XII. 22.) IRM rendelet 3. §-ával megállapított szöveg.

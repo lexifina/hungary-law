@@ -1,8 +1,8 @@
 ## 9. § Az életet, testi épséget, egészséget, illetve vagyonbiztonságot sértő vagy veszélyeztető lövészet megkezdését, folytatását a Rendőrség megtiltja.
 
-## A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelmények[^21]
+## A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelmények[^22]
 
-10. §[^22] (1) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára a megyei rendőr-főkapitányságon – Budapesten a Budapesti Rendőr-főkapitányságon – írásban kell jelentkezni.
+10. §[^23] (1) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára a megyei rendőr-főkapitányságon – Budapesten a Budapesti Rendőr-főkapitányságon – írásban kell jelentkezni.
 
 (2) A fegyvertartáshoz előírt vizsgára történő jelentkezéskor a jelentkező köteles megjelölni, hogy milyen jellegű lőfegyverre (lőfegyverekre) kíván vizsgát tenni. A vizsgára jelentkezésnek nem feltétele a lőfegyver tartására irányuló kérelem benyújtása.
 
@@ -14,5 +14,5 @@
 
 (6) A fegyvertartáshoz, illetve a házilagos lőszerszereléshez és -újratöltéshez előírt vizsgára az a jelentkező bocsátható, aki a vizsgadíjat befizette és a vizsga megkezdése előtt, a vizsga helyszínén a vizsgadíj befizetését igazoló szelvényt bemutatta.
 
-[^21]: A 10. §-t megelőző alcím a 25/2012. (V. 11.) BM rendelet 2. §-ával megállapított szöveg.
-[^22]: A 10. § a 25/2012. (V. 11.) BM rendelet 2. §-ával megállapított szöveg.
+[^22]: A 10. §-t megelőző alcím a 25/2012. (V. 11.) BM rendelet 2. §-ával megállapított szöveg.
+[^23]: A 10. § a 25/2012. (V. 11.) BM rendelet 2. §-ával megállapított szöveg.
