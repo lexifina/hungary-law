@@ -2,9 +2,9 @@
 
 3. § (1) A bejelentést a tevékenység végzésére engedéllyel rendelkező természetes vagy jogi személynek vagy jogi személyiség nélküli gazdasági társaságnak (a továbbiakban: engedélyes) kell megtenni, függetlenül attól, hogy a tevékenységet maga végzi vagy mással végezteti.
 
-(2)[^1] A bejelentést
+(2)[^2] A bejelentést
 
-a) a Magyar Bányászati és Földtani Hivatalról szóló kormányrendelet szerinti kormányhivatal, a Magyar Bányászati és Földtani Hivatal,
+a)[^3] a Magyar Bányászati és Földtani Hivatalról szóló kormányrendelet szerinti kormányhivatal, a Magyar Bányászati és Földtani Hivatal (a továbbiakban: MBFH),
 
 b) ha a súlyos üzemzavar vagy súlyos baleset vízbetörés során következik be a megyei, fővárosi katasztrófavédelmi igazgatóság,
 
@@ -20,11 +20,12 @@ c) a sérültek állapotára vonatkozó adatokat,
 
 d) az engedélyes által megtett és megtenni tervezett intézkedéseket.
 
-(4)[^2] A környezetvédelmi és természetvédelmi hatóságnak vagy a vízügyi hatóságnak tett bejelentés a (3) bekezdés a) és d) pontjában foglaltakat tartalmazza.
+(4)[^4] A környezetvédelmi és természetvédelmi hatóságnak vagy a vízügyi hatóságnak tett bejelentés a (3) bekezdés a) és d) pontjában foglaltakat tartalmazza.
 
 (5) Ha a súlyos baleset a súlyos üzemzavar során keletkezett, azt a súlyos üzemzavarral együtt kell bejelenteni és kivizsgálni.
 
 (6) A bejelentés nem érinti az engedélyes más jogszabályban előírt bejelentési kötelezettségét.
 
-[^1]: A 3. § (2) bekezdése a 15/2015. (III. 31.) NFM rendelet 27. §-ával megállapított szöveg.
-[^2]: A 3. § (4) bekezdése a 15/2015. (III. 31.) NFM rendelet 28. §-a szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdése a 15/2015. (III. 31.) NFM rendelet 27. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdés a) pontja a 37/2015. (VI. 30.) NFM rendelet 28. §-a szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdése a 15/2015. (III. 31.) NFM rendelet 28. §-a szerint módosított szöveg.

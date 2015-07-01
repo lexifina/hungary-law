@@ -1,5 +1,3 @@
-## 1. § A rendelet hatálya kiterjed a bányafelügyelet hatósági felügyelete alá tartozó tevékenység végzése során bekövetkezett súlyos üzemzavar és súlyos baleset bejelentésére és vizsgálatára.
-
 ## 2. A súlyos üzemzavar és a súlyos baleset
 
 2. § (1) E rendelet alkalmazásában súlyos üzemzavar:

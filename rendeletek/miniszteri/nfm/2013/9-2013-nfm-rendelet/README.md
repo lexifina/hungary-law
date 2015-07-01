@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-9-20-2W
 | 2013-04-21 | 2013-9-20-2W.1 | 9/2013. (III. 22.) NFM rendelet |
 | 2013-04-22 | 2013-9-20-2W.2 | 2010: CXXX. törvény |
 | 2015-04-01 | 2013-9-20-2W.3 | 15/2015. (III. 31.) NFM rendelet |
+| 2015-07-01 | 2013-9-20-2W.4 | 37/2015. (VI. 30.) NFM rendelet |
