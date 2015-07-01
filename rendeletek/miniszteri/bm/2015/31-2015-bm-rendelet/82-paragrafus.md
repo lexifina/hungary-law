@@ -1,0 +1,3 @@
+82. § (1) A szolgálati panasz tárgyában meghozott érdemi döntésről a szolgálati út betartásával kell a panaszost tájékoztatni. Ha a panaszos szolgálati viszonya időközben megszűnt, őt az érdemi döntésről postai úton kell tájékoztatni.
+
+(2) Ha a szolgálati panaszként benyújtott jognyilatkozat nem szolgálati viszonnyal függ össze, erről a jognyilatkozatot benyújtót és a jogi képviselőjét tájékoztatni kell. Ha a szolgálati panaszként benyújtott jognyilatkozatot külön eljárás alapján kell a rendvédelmi szerven belül elbírálni, erről a jognyilatkozatot benyújtót és a jogi képviselőjét tájékoztatni kell, és a jognyilatkozatot a hatáskörrel rendelkező illetékes elöljárónak kell megküldeni.

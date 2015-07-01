@@ -1,0 +1,11 @@
+## 36. § A 35. § rendelkezéseit a szenior állomány tagjának megbízására azzal az eltéréssel kell alkalmazni, hogy a szenior állomány tagjának a szenior állományba vételről kötött szerződésben meghatározott szolgálati feladatoktól eltérő feladatokkal történő megbízására annak időtartamától függetlenül csak beleegyezésével van lehetőség.
+
+## 11. Rendelkezési állományba helyezés
+
+37. § (1) A hivatásos állomány tagját a rendvédelmi szerv azon szervezeti egységének a rendelkezési állományába kell helyezni, ahol az utolsó szolgálati beosztása szerint teljesítette szolgálatát.
+
+(2) Az országos parancsnok vagy az országos főigazgató szolgálati érdekből – különösen, ha a továbbfoglalkoztatás a rendvédelmi szerv másik szervezeti egységénél várható –, a hivatásos állomány tagját áthelyezheti a rendvédelmi szerv más szervezeti egységének rendelkezési állományába vagy a rendvédelmi szerv központi rendelkezési állományába.
+
+(3) A miniszter kinevezési hatáskörébe tartozó rendelkezési állományba helyezése esetén a rendelkezési állományba helyezésre az állományilletékes parancsnok a kinevezéssel egyidejűleg rendelkezik.
+
+(4) A Hszt. 77. § (1) bekezdés b), h), i), j) vagy k) pontja alapján rendelkezési állományba helyezettnek a rendelkezési állományba helyezéskor az állományilletékes parancsnok határozza meg a szolgálatteljesítési helyét, az ideiglenes szolgálati feladatok jellegét és azt az elöljárót, akinek irányításával szolgálati feladatait ideiglenesen ellátja. A rendelkezési állományban levő részére csak képzettségének, felkészültségének, valamint egészségi, pszichikai és fizikai állapotának megfelelő szolgálati feladat határozható meg.

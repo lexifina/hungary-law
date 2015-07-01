@@ -1,0 +1,3 @@
+69. § (1) A hivatásos állomány tiszthelyettesi vagy zászlósi rendfokozati állománycsoportba tartozó tagja első tiszti rendfokozatba kinevezésekor olyan besorolási kategóriába tartozó szolgálati beosztásba nevezhető ki, amelynél a fizetési várakozási idejének megfelelő fizetési fokozatba besorolható.
+
+(2) Az (1) bekezdésben foglaltakról rendkívüli esetben az állományilletékes parancsnok a miniszter engedélyével eltérhet. Ebben az esetben a hivatásos állomány tagját a besorolási kategória legalacsonyabb fizetési fokozatába kell besorolni és illetményét a besorolás szerinti fizetési fokozatnak megfelelően kell megállapítani.

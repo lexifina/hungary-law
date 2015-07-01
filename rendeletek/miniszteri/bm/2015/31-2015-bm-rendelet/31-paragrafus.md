@@ -1,0 +1,1 @@
+## 30. § A rendvédelmi szerv más szervezeti egységéhez történő áthelyezésről az átadó szervezeti egység állományilletékes parancsnoka, a tervezett szolgálati beosztásba helyezésről a fogadó szervezeti egység állományilletékes parancsnoka állományparancsban gondoskodik.

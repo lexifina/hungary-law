@@ -1,0 +1,9 @@
+## 31. § Ha a hivatásos állomány tagjának a rendvédelmi szerv más szervezeti egységéhez történő áthelyezésére szolgálati érdekből, a Hszt. 57. § (2) bekezdésében foglaltak alapján a hivatásos állomány tagjának beleegyezése nélkül kerül sor, a szolgálati érdeket alátámasztó indokokat személyzeti megbeszélés keretében jegyzőkönyv felvétele mellett kell közölni a hivatásos állomány tagjával.
+
+32. § (1) A hivatásos állomány tagjának kérelmére a rendvédelmi szerv más szervezeti egységéhez történő áthelyezése akkor engedélyezhető, ha az nem veszélyezteti a szolgálati feladatok folyamatos és rendeltetésszerű ellátását és a fogadó szervezeti egység a várható szolgálati beosztásba helyezésről tájékoztatja az állományilletékes parancsnokot.
+
+(2) Az áthelyezési kérelmet a hivatásos állomány tagja a fogadó szervezeti egység állományilletékes parancsnokának címezve, szolgálati úton terjeszti elő.
+
+(3) Az áthelyezési kérelem átvételét követően a humánigazgatási szakszolgálat tájékoztatást kér a fogadó szervezeti egységtől, hogy várható-e az áthelyezési kérelmet benyújtó szolgálati beosztásba helyezése. A fogadó szervezeti egység tizenöt napon belül nyilatkozik az átvételről vagy annak elutasításáról.
+
+(4) A Hszt. 57. § (1) bekezdésében foglaltak szerinti, az áthelyezés szolgálati érdekből – legfeljebb négy hónapra – történő elhalasztása esetén az átadó szervezeti egység állományilletékes parancsnoka az elhalasztásról szóló döntésről a szolgálati érdeket alátámasztó indokok megjelölésével írásban tájékoztatja a hivatásos állomány tagját és a fogadó szervet. Ha az áthelyezést a hivatásos állomány tagja kérte, a halasztás időtartamát az áthelyezésre irányuló kérelemnek a szolgálati elöljáróhoz történő benyújtásától, ha az áthelyezést a fogadó szervezeti egység kérte, a fogadó szervezeti egység megkeresésének az átadó szervezeti egységhez érkezésétől kell számítani.

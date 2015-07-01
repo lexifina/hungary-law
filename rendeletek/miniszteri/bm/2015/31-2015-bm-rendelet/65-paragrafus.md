@@ -1,0 +1,3 @@
+65. § (1) A besorolási kategórián belül a magasabb fizetési fokozatba történő előresorolást az eltelt fizetési várakozási idő alapján, az esedékesség hónapjának első napjával kell végrehajtani, amennyiben az előresorolás feltételei fennállnak.
+
+(2) Fizetési fokozatban történő előresorolás végrehajtása előtt az állományilletékes parancsok intézkedik annak megállapítására, hogy az érintett a Hszt. 121. §-ában meghatározott feltételeknek megfelel-e, valamint teljesítette-e az előresoroláshoz előírt követelményeket. Amennyiben az előresorolásnak akadálya van, arról írásban, az ok megjelölésével értesíti az érintettet.

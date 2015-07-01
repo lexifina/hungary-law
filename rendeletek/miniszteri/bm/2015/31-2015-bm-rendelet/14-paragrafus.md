@@ -1,0 +1,9 @@
+14. § (1) A szenior állományba vételhez szükséges feltételeket igazoló okiratok és nyilatkozatok benyújtását követően az állományilletékes parancsnok a szenior állományba vételre irányuló felvételi eljárást megindítja.
+
+(2) A felvételi eljárás keretében a humánigazgatási szakszolgálat – az alábbi sorrendben – intézkedik:
+
+a) a kérelmezőt szolgálati nyugállományba vonulását megelőzően foglalkoztató szerv megkeresésére a személyzeti fogyatékanyagának beszerzése iránt, megjelölve az iratok beszerzésének célját és mellékelve a kérelmező 13. § (4) bekezdés c) pontja szerinti írásbeli hozzájárulását,
+
+b) az egészségi, pszichikai és fizikai alkalmassági feltételek meglétének jogszabályban meghatározott eljárás keretében történő vizsgálatára, valamint
+
+c) a kezdeményezésre jogosultnál a kifogástalan életvitel-ellenőrzés lefolytatásának kezdeményezésére.

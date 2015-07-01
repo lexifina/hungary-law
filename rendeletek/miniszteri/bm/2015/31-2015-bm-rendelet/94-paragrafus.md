@@ -1,0 +1,3 @@
+94. § (1) A szolgálati viszony létesítésekor, valamint új szolgálati beosztásba helyezés esetén az első szolgálatteljesítés megkezdésekor a hivatásos állomány tagjának át kell adni a szolgálati beosztásra meghatározott munkaköri leírást, melyet az érintettnek alá kell írnia.
+
+(2) Az (1) bekezdés szerinti első szolgálatteljesítés megkezdésekor a hivatásos állomány tagjával ismertetni kell a tevékenységére vonatkozó munkarendet, a szolgálati és pihenőidő biztosításának, a hivatásos állomány tagját terhelő kártérítési felelősség rendjének szabályait, és a hivatásos állomány tagját ki kell oktatni az adott szolgálati helyre vonatkozó munkavédelmi, tűzvédelmi és egyéb biztonsági rendszabályokról, melynek megtörténtét írásban dokumentálni kell.
