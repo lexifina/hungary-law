@@ -1,4 +1,4 @@
-43. §[^4] (1) A hatóság a járási hivatal termőföldön megvalósuló régészeti feltárás engedélyezésére irányuló eljárásában – ha az érintett tevékenységgel összefüggésben a talajvédelmi hatóság más eljárásban döntést nem hozott vagy állásfoglalást nem adott – vizsgálja, hogy a kérelem szerinti tevékenység a termőföld minőségi védelmére vonatkozó jogszabályi feltételeknek megfelel-e.
+43. §[^3] (1) A hatóság a járási hivatal termőföldön megvalósuló régészeti feltárás engedélyezésére irányuló eljárásában – ha az érintett tevékenységgel összefüggésben a talajvédelmi hatóság más eljárásban döntést nem hozott vagy állásfoglalást nem adott – vizsgálja, hogy a kérelem szerinti tevékenység a termőföld minőségi védelmére vonatkozó jogszabályi feltételeknek megfelel-e.
 
 (2) A járási hivatal tervásatás engedélyezésére irányuló eljárásában, ha a tervásatást országos jelentőségű védett természeti területnek vagy barlangnak nem minősülő
 
@@ -14,4 +14,4 @@ végzik, vizsgálja, hogy a tevékenység a természet védelmére vonatkozó ne
 
 (3) Az (1) és a (2) bekezdés szerinti esetben az eljárás ügyintézési határideje negyven nap.
 
-[^4]: A 43. § a 70/2015. (III. 30.) Korm. rendelet 264. § (3) bekezdésével megállapított szöveg.
+[^3]: A 43. § a 70/2015. (III. 30.) Korm. rendelet 264. § (3) bekezdésével megállapított szöveg.
