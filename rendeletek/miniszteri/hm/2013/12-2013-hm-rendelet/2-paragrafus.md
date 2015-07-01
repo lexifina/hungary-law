@@ -1,16 +1,18 @@
-2. § (1) E rendelet alkalmazásában
+2. § (1)[^2] E rendelet alkalmazásában
 
-1.[^2] honvédelmi szervezet: a Hjt. 2. § 13. pontja szerinti honvédségi szervezet, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény;
+1. felszámítási alap: a juttatások számításának alapját képező bázisösszeg,
 
-2. minimálbér: a juttatás folyósításának napján hatályos kötelező legkisebb munkabér havi összege;
+2. honvédelmi szervezet: a Hjt. 2. § 13. pontja szerinti honvédségi szervezet, a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény,
 
-3. parancsnok: a honvédek vonatkozásában az állományilletékes parancsnok, a közalkalmazottak vonatkozásában pedig a munkáltatói jogkört gyakorló vezető;
+3. minimálbér: a juttatás folyósításának napján hatályos kötelező legkisebb munkabér havi összege,
 
-4. pénzügyi és számviteli szerv: a saját pénzügyi és számviteli szervezeti elemmel
+4. parancsnok: a honvédek vonatkozásában az állományilletékes parancsnok, a közalkalmazottak vonatkozásában pedig a munkáltatói jogkört gyakorló vezető,
+
+5. pénzügyi és számviteli szerv: a saját pénzügyi és számviteli szervezeti elemmel
 
 a) rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli szervezeti elem,
 
-b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli utaltsági rend szerinti pénzügyi és számviteli elem.
+b) nem rendelkező honvédelmi szervezet esetében a pénzügyi és számviteli utaltsági rend szerinti pénzügyi és számviteli szervezeti elem.
 
 (2) A rendelet alkalmazásában magasabb parancsnoknak minősül
 
@@ -20,4 +22,7 @@ b) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) a Honvéd Vezérkar és 
 
 c) a KNBSZ főigazgatója a KNBSZ állománya tekintetében.
 
-[^2]: A 2. § (1) bekezdés 1. pontja az 5/2015. (VI. 22.) HM rendelet 2. §-ával megállapított szöveg.
+(3)[^3] A felszámítási alap összege 38 650 Ft.
+
+[^2]: A 2. § (1) bekezdése a 6/2015. (VI. 22.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdését a 6/2015. (VI. 22.) HM rendelet 1. § (2) bekezdése iktatta be.
