@@ -1,8 +1,12 @@
+## 105. §[^163]
+
 106. § (1) Szolgálati helyen vagy szolgálattal összefüggésben elkövetett szabálysértést – a szabálysértési elzárással is büntethető szabálysértés kivételével – a fegyelmi jogkör gyakorlója a szabálysértési hatóság áttétele vagy hozzá címzett feljelentés, illetve egyéb módon való tudomásszerzés alapján fegyelmi eljárás keretében bírálja el.
 
 (2) Ha a szabálysértésről a fegyelmi jogkör gyakorlója nem a szabálysértési hatóság áttétele alapján szerez tudomást és az ügyben a fegyelmi jogkörébe nem tartozó személy felelőssége is felvethető, a fegyelmi eljárás elrendelése és felfüggesztése mellett a rendelkezésre álló iratokat megküldi az illetékes szabálysértési hatóságnak. Az eljárást csak a szabálysértési hatóság felelősségi arányok tekintetében hozott jogerős határozatának kézhezvételét követően lehet folytatni. Ha a szabálysértési hatóság az eljárás alá vont felelősségét nem látja megállapíthatónak, a fegyelmi eljárást meg kell szüntetni.
 
 (3) Szabálysértés elbírálásánál elsősorban pénzbírság fenyítést kell kiszabni. A pénzbírság mértékének meghatározásakor a helyi szabálysértési hatóság hasonló cselekményekre irányadó gyakorlatát kell alapul venni. Ettől enyhébb fenyítést kiszabni csak akkor lehet, ha azt a szabálysértés csekély súlya vagy egyéb, a szabálysértéssel összefüggő méltányolható körülmény indokolja. Súlyosabbat pedig akkor, ha a szabálysértő magatartás egyben olyan szolgálati kötelezettségszegésnek is minősül, amely a súlyosabb fenyítés kiszabását indokolja vagy a 99. §-ban meghatározottak teszik szükségessé.
+
+(3a)[^164] Ha a fegyelmi jogkörben elbírálható szabálysértésre kormányrendelet által meghatározott kötelező mértékű pénzbírság alkalmazását határozták meg és a hivatásos állományú a fegyelmi eljárás elrendelése előtt a szabálysértés elkövetését elismerte, a fegyelmi eljárásban a helyszíni bírságnak megfelelő mértékű pénzbírság fenyítést kell kiszabni.
 
 (4) Elkobzás vagy más intézkedés kezdeményezéséről az érdemi határozatban kell rendelkezni. Ugyancsak az érdemi határozatban kell rendelkezni a közlekedési büntetőpont rendszer alkalmazásáról is.
 
@@ -11,3 +15,6 @@
 (6) A pénzbírságot az Országgyűlés Hivatalának Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlájára kell befizetni. Az illetményszámfejtést végző szervezetet a jogerős határozat rendelkező részének, illetve a részletfizetést vagy halasztott befizetést engedélyező határozatának megküldésével kell tájékoztatni, aki intézkedik a követelés nyilvántartásba vételéről.
 
 (7) Ha a kötelezett a befizetést a határozat jogerőre emelkedését követő 30 napon belül vagy az engedélyezett halasztás határnapjáig nem teljesítette, az illetményszámfejtést végző szervezet erről értesíti az Országgyűlési Őrség parancsnokát, aki elrendeli a meg nem fizetett pénzbírság levonását a hivatásos állomány tagjának illetményéből. Meg kell vonni a részletfizetést attól, aki a befizetési kötelezettségének a részlet esedékességétől számított 15 napon belül nem tesz eleget.
+
+[^163]: A 105. §-t a 36/2015. (VI. 16.) BM rendelet 11. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^164]: A 106. § (3a) bekezdését a 36/2015. (VI. 16.) BM rendelet 7. §-a iktatta be.

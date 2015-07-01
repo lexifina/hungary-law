@@ -10,6 +10,6 @@ c) az illetmény nélküli szabadság tartamának társadalombiztosítási szemp
 
 (3) A munkáltatói intézkedéshez csatolni kell az érintett nyilatkozatát a jogfenntartó társadalombiztosítási járulék fizetésére vonatkozóan.
 
-(4)[^10] A hivatásos állománynak a Hszt. 52/A. §-a alapján az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programokban szakértőként részt vevő tagját a szolgálati feladatok ellátása alól a Hszt. 70. § (1) bekezdés h) pontja alapján mentesíteni kell arra az időtartamra, amíg a szakértői tevékenységet ellátja. A szakértői tevékenység ellátásának időtartamára a hivatásos állomány tagja nem jogosult a Hszt. 254. §-ában meghatározott pótlékokra.
+(4)[^46]
 
-[^10]: A 13. § (4) bekezdését a 81/2012. (XII. 28.) BM rendelet 34. §-a iktatta be.
+[^46]: A 13. § (4) bekezdését a 81/2012. (XII. 28.) BM rendelet 34. §-a iktatta be, hatályon kívül helyezte a 38/2015. (VI. 18.) BM rendelet 18. § 4. pontja.

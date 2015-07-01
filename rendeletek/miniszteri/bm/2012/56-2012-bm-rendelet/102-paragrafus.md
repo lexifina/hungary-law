@@ -1,4 +1,4 @@
-## 101. § A Hszt. 140. § (1) bekezdés e) pontja alapján az eljárás megszüntetésére akkor kerülhet sor, ha az erről rendelkező állományparancsban a szolgálati viszony megszüntetésére megjelölt nap eltelt.
+## 101. §[^157] A Hszt. 210. § (1) bekezdés e) pontja alapján az eljárás megszüntetésére akkor kerülhet sor, ha az erről rendelkező állományparancsban a szolgálati viszony megszüntetésére megjelölt nap eltelt.
 
 102. § (1) A fegyelmi ügyben hozott érdemi határozatot annak keltétől számított 5 munkanapon belül, a fegyelmi jogkör gyakorlója vagy megbízása alapján a fegyelmi szerv vezetője vagy az eljárás alá vont legalább osztályvezető beosztású szolgálati elöljárója hirdeti ki. A kihirdetésen az eljárás alá vonton, a képviselőjén kívül jelen lehet a fegyelmi szerv vezetője és munkatársa, valamint az eljárás alá vont szolgálati elöljárója is. A kihirdetést követően az eljárás alá vont részére a határozat egy példányát át kell adni. A kézbesítés megtörténtét a határozat irattári példányára rá kell vezetni, és az átvevővel alá kell íratni.
 
@@ -13,3 +13,5 @@ a) azt az eljárás alá vontnak kihirdették és az eljárás alá vont a hatá
 b) a küldemény átvételéről szóló tértivevény visszaérkezett és a postai kézbesítés eredménytelenségét feljegyzésben megállapították.
 
 (5) Ha az eljárás alá vont a postai küldemény átvételében akadályoztatva volt vagy a postai kézbesítés eredménytelensége nem róható a terhére, az akadály elhárulta, illetve a határozat eredménytelen kézbesítéséről való tudomásszerzést követő 8 napon belül tett bejelentése alapján a határozatot a részére újból kézbesíteni kell és a fenyítés végrehajtására tett intézkedéseket vissza kell vonni.
+
+[^157]: A 101. § a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 25. pontja szerint módosított szöveg.

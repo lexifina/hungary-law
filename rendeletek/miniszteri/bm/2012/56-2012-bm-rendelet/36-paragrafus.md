@@ -1,3 +1,5 @@
-36. § (1) A soron történő előléptetést a Hszt. 78. § (1) bekezdésében meghatározott feltételek megléte esetén a várakozási idő leteltét követő nappal kell elrendelni.
+36. §[^83] (1) A besorolási kategórián belül a magasabb fizetési fokozatba történő előresorolást az eltelt fizetési várakozási idő alapján, az esedékesség hónapjának első napjával kell végrehajtani, amennyiben az előresorolás feltételei fennállnak.
 
-(2) Ha a soron következő rendfokozatba történő előléptetésére a szükséges feltételek valamelyikének hiánya vagy más kizáró ok miatt nem kerülhet sor, erről a hivatásos állomány tagját a várakozási idő lejárta előtt írásban értesíteni kell.
+(2) Fizetési fokozatban történő előresorolás végrehajtása előtt az Országgyűlési Őrség parancsnoka meggyőződik arról, hogy az érintett a Hszt. 121. §-ában meghatározott feltételeknek megfelel-e, valamint teljesítette-e az előresoroláshoz előírt követelményeket. Amennyiben az előresorolásnak akadálya van, arról írásban, az ok megjelölésével értesíti az érintettet.
+
+[^83]: A 36. § a 38/2015. (VI. 18.) BM rendelet 9. §-ával megállapított szöveg.

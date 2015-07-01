@@ -2,4 +2,6 @@
 
 (2) A póteljárás befejezését követően kiegészítő iratismertetést kell tartani és kiegészítő jelentést készíteni. Az újabb személyes meghallgatás tárgyában a 96. § szerint kell eljárni.
 
-(3) A fegyelmi eljárásban póteljárás csak egyszer rendelhető el.
+(3)[^155]
+
+[^155]: A 97. § (3) bekezdését a 36/2015. (VI. 16.) BM rendelet 11. § (2) bekezdés c) pontja hatályon kívül helyezte.

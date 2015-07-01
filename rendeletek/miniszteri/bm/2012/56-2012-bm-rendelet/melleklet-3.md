@@ -1,270 +1,218 @@
 ## Az Országgyűlési Őrségnél rendszeresített egyes beosztások betöltéséhez szükséges képzettségek
 
-## 1.) Vezetői beosztások
+## A vezetői és a tiszti besorolási osztályba tartozó szolgálati beosztások betöltéséhez elismerhető felsőfokú végzettségek, továbbá az egyes szolgálati beosztások ellátásához szükséges szakképzettségek, képzettségek, szakirányú rendészeti képesítési követelmények valamint az egyéb képzettségi feltételek
 
-## 1. Tábornoki rendfokozattal rendszeresített beosztások
+## I. Alapfeladatokat ellátók
 
-## 1.1. a) Felsőoktatási intézményben szerzett egyetemi vagy főiskolai végzettség és
+## 1. Személyvédelmi és létesítményvédelmi feladatokat ellátók:
 
-## b) felsőfokú rendőri szakképesítés és
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## c) rendészeti szakirányú továbbképzés vagy rendészeti szakvizsga.
+## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
 
-## 2. További vezetői beosztások
+## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
 
-## 2.1. a) Felsőoktatási intézményben szerzett egyetemi vagy főiskolai végzettség és
+## Szakirányú felsőfokú végzettség:
 
-## b) felsőfokú rendőri szakképesítés és
+## aa) NKE RTK bűnügyi vagy rendészeti igazgatási, vagy katasztrófavédelem, vagy nemzetbiztonsági szakán alapképzésben szerzett végzettség,
 
-## c) rendészeti szakvizsga – kivéve, ha a hivatásos állomány tagja a rendészeti szakvizsga letételének kötelezettsége alól mentesül – vagy
+## ab) RTF bűnügyi vagy nemzetbiztonsági szakán szerzett végzettség,
 
-## d) rendészeti szakirányú továbbképzés.
+## ac) NKE nem rendvédelmi szakán szerzett végzettség és rendészeti szervező (OKJ 62 861 01) szakképesítés,
 
-## 2.2. a) A Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) és jogelőd szerveinél szerzett rendészeti, védelmi szakirányú végzettség és
+## ad) más felsőoktatási intézményben szerzett egyetemi, főiskolai végzettség és rendészeti szervező (OKJ 62 861 01) szakképesítés.
 
-## b) rendészeti szakvizsga – kivéve, ha a hivatásos állomány tagja a rendészeti szakvizsga letételének kötelezettsége alól mentesül – vagy
+## 2. Tűzoltási feladatot ellátók
 
-## c) rendészeti szakirányú továbbképzés.
+## A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendeletben meghatározottak szerint.
 
-## 2.) Nem vezetői beosztások
+## 3. Tárgyalási rend fenntartásával kapcsolatos és protokolláris díszelgési feladatokat ellátók:
 
-## 1. Személyvédelmi és létesítménybiztosítási feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## 1.1. a) A Rendőrtiszti Főiskola (a továbbiakban: RTF) vagy az NKE valamely szakán szervezett végzettség és
+## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
 
-## b) a nem rendőri szakok esetében rendészeti szakirányú felsőfokú végzettség és
+## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
 
-## c) VI. beosztási kategóriába tartozó beosztások esetében rendészeti szakvizsga, kivéve, ha a hivatásos állomány tagja a rendészeti szakvizsga letételének kötelezettsége alól mentesül.
+## Szakirányú felsőfokú végzettség:
 
-## 1.2. a) Felsőoktatási intézményben szerzett egyetemi vagy főiskolai végzettség és
+## aa) NKE RTK bűnügyi igazgatási vagy rendészeti igazgatási, vagy katasztrófavédelem, vagy nemzetbiztonsági szakán alapképzésben szerzett végzettség,
 
-## b) rendészeti szakirányú felsőfokú végzettség és
+## ab) RTF valamely szakán szerzett végzettség,
 
-## c) a beosztásnak megfelelő szaktanfolyam és
+## ac) NKE nem rendvédelmi szakán szerzett végzettség és rendészeti szervező (OKJ 62 861 01) szakképesítés,
 
-## d) VI. beosztási kategóriába tartozó beosztások esetében rendészeti szakvizsga, kivéve, ha a hivatásos állomány tagja a rendészeti szakvizsga letételének kötelezettsége alól mentesül.
+## ad) más felsőoktatási intézményben szerzett egyetemi, főiskolai végzettség és rendészeti szervező (OKJ 62 861 01) szakképesítés.
 
-## 2. Személyvédelmi és létesítménybiztosítási feladatokat ellátók a II. besorolási osztályba tartozó beosztások esetében:
+## 4. Informatikai, híradó és biztonságtechnikai feladatokat ellátók:
 
-## 2.1. a) Középiskolai érettségi és
+## Rendészeti szakirányú szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## b) rendészeti szakközépiskolai végzettség vagy részszakképesítés és
+## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam és középfokú informatikai vagy műszaki végzettség,
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam és középfokú informatikai vagy műszaki végzettség.
 
-## 3. Tűzoltási feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## Szakirányú felsőfokú végzettség:
 
-## 3.1. a) Egyetemi vagy főiskolai végzettség és
+## Felsőoktatásban szerzett egyetemi vagy főiskolai villamos-, biztonságtechnikai mérnök, mérnök-informatikus felsőfokú végzettség és rendészeti szakirányú felsőfokú végzettség.
 
-## b) szakirányú felsőfokú szakmai végzettség.
+## 5. Kiképzési, továbbképzési feladatokat ellátók:
 
-## 4. Tűzoltási feladatokat ellátók a II. besorolási osztályba tartozó beosztások esetében:
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## 4.1. a) Középiskolai érettségi és
+## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
 
-## b) szakirányú alapfokú szakmai végzettség.
+## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
 
-## 5. Jogtanácsosi feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## Szakirányú felsőfokú végzettség:
 
-## 5.1. a) Tudományegyetem állam- és jogtudományi karán szerzett végzettség és
+## aa) NKE RTK vagy RTF valamely szakán szerzett felsőfokú végzettség, valamint a nem rendészeti szakok esetében rendészeti szakirányú felsőfokú végzettség,
 
-## b) jogi szakvizsga és
+## ab) felsőoktatási intézményben humánszervező, pedagógiai szakon szerzett végzettség és rendészeti szakirányú végzettség,
 
-## c) VI. beosztási kategóriába tartozó beosztások esetében rendészeti szakvizsga, kivéve, ha a hivatásos állomány tagja a rendészeti szakvizsga letételének kötelezettsége alól mentesül,
+## ac) Zrínyi Miklós Nemzetvédelmi Egyetemen szerzett főiskolai végzettség és átképző tanfolyam,
 
-## d) rendészeti szakirányú felsőfokú végzettség.
+## ad) más felsőoktatási intézményben szerzett egyetemi, főiskolai végzettség és rendészeti szakirányú felsőfokú végzettség, illetve egyéb rendvédelmi szakképzettség, valamint átképző tanfolyam.
 
-## 6. Kiképzési, továbbképzési feladatot ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## II. Nem alapfeladatokat ellátók
 
-## 6.1. a) Az RTF vagy az NKE valamely szakán szerzett végzettség és
+## 6. Jogi, igazgatási feladatokat ellátók:
 
-## b) a nem rendőri szakok esetében rendészeti szakirányú felsőfokú végzettség és
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
 
-## 6.2. a) Tudományegyetem bölcsészettudományi karán humánszervező vagy pedagógiai szakon szerzett végzettség és
+## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
 
-## b) rendészeti szakirányú felsőfokú végzettség és
+## Szakirányú felsőfokú végzettség:
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## aa) NKE RTK vagy RTF valamely rendvédelmi szakán szerzett rendészeti szakirányú felsőfokú végzettség,
 
-## 6.3. a) A Nemzetvédelmi Egyetemen szerzett főiskolai végzettség és
+## ab) más felsőoktatási intézményben szerzett jogász; okleveles közigazgatási szakértő szakképzettség, főiskolai szintű igazgatásszervező szakképzettség és rendészeti szervező szaktanfolyam.
 
-## b) rendészeti szakirányú felsőfokú végzettség és
+## 7. Jogtanácsosi feladatokat ellátók:
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## Rendészeti és szakirányú szakképesítés
 
-## 6.4. a) Felsőoktatási intézményben szerzett egyetemi vagy főiskolai végzettség és
+## NKE RTK-n vagy az RTF-n szerzett rendészeti felsőfokú szakképzettség vagy rendészeti szervező (OKJ 62 861 01) szakképesítés és jogi szakképzettség, valamint jogi szakvizsga.
 
-## b) rendészeti szakirányú felsőfokú végzettség vagy egyéb rendvédelmi szakképzettség és
+## 8. Humánszolgálati, személyügyi, munkaügyi és szociális feladatokat ellátók:
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## 7. Kiképzési, továbbképzési feladatot ellátók a II. besorolási osztályba tartozó beosztások esetében:
+## Középiskolai végzettség és az OKJ szerint: felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző, szociális asszisztens szakképesítés.
 
-## 7.1. a) Középiskolai érettségi és
+## Szakirányú felsőfokú végzettség:
 
-## b) rendészeti szakirányú középfokú végzettség és
+## aa) NKE RTK vagy RTF valamely szakán szerzett végzettség, valamint a nem rendészeti szakok esetében rendészeti szakirányú felsőfokú végzettség,
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## ab) felsőoktatási intézményben humánerőforrás, humánszervező, pszichológia, pedagógia, szociológia szakon szerzett végzettség és rendészeti szakirányú felsőfokú végzettség,
 
-## 8. Humánszolgálati, személyügyi, munkaügyi és szociális feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## ac) Zrínyi Miklós Nemzetvédelmi Egyetem humánerőforrás-gazdálkodási szakán szerzett végzettség és rendészeti szakirányú felsőfokú végzettség.
 
-## 8.1. a) Tudományegyetem bölcsészettudományi karán humánerőforrás-menedzser, humánszervező, személyügyi szervező, pszichológia, pedagógia vagy szociológia szakon szerzett végzettség és
+## 9. Sajtó- és tájékoztatási feladatokat ellátók:
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## Szakirányú felsőfokú végzettség:
 
-## 8.2. a) A Nemzetvédelmi Egyetem humánerőforrás-gazdálkodási szakán szerzett végzettség és
+## aa) Felsőoktatásban szerzett jogi egyetemi, főiskolai végzettség, kommunikációs vagy „PR” szakon szerzett képzettség és rendészeti szakirányú felsőfokú végzettség,
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## ab) az RTF valamely szakán szerzett végzettség, valamint a nem rendőri szakok esetében rendészeti szervező tanfolyam.
 
-## 8.3. a) Tudományegyetem állam- és jogtudományi karán, az Államigazgatási Főiskolán vagy a Corvinus Egyetem Közigazgatás-tudományi Karán szerzett végzettség és
+## 10. Ügyviteli és adatvédelmi feladatokat ellátók:
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## 8.4. a) Az RTF vagy az NKE valamely szakán szerzett végzettség és
+## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam számítógép-kezelői szakképesítés,
 
-## b) a nem rendőri szakok esetében rendészeti szakirányú felsőfokú végzettség.
+## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam beosztásnak megfelelő szaktanfolyam, informatikai, számítógép-kezelői szakképesítés.
 
-## 9. Informatikai feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## Szakirányú felsőfokú végzettség:
 
-## 9.1. a) Felsőoktatási intézményben szerzett programozó matematikus vagy programtervező matematikus végzettség és
+## aa) felsőoktatásban szerzett végzettség és rendészeti szakirányú felsőfokú végzettség,
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## ab) az RTF vagy az NKE valamely szakán szerzett végzettség.
 
-## 9.2. a) Felsőoktatási intézményben szerzett ügyvitelszervezői, programtervezői vagy számítógép-programozói végzettség és
+## 11. Pénzügyi, számviteli, gazdálkodási feladatokat ellátók:
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## 9.3. a) A Nemzetvédelmi Egyetem vagy a Bolyai János Katonai Műszaki Főiskola informatikai szakán szerzett végzettség és
+## aa) középfokú közgazdasági végzettség, rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## ab) középfokú közgazdasági végzettség vagy pénzügyi-számviteli szakképesítés rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
 
-## 10. Informatikai feladatokat ellátók a II. besorolási osztályba tartozó beosztások esetében:
+## Szakirányú felsőfokú végzettség:
 
-## 10.1. a) Középfokú számítástechnikai szakképesítés és
+## aa) Felsőoktatásban szerzett gazdaságtudományi, közszolgálati, műszaki menedzser, gazdasági agrármérnöki, jogi, szakképzettség; vagy felsőoktatásban szerzett szakképzettség és gazdaságtudományi, statisztikai, informatikai, műszaki, logisztikai felsőfokú, illetve mérlegképes könyvelő szakképesítés és rendészeti szakirányú felsőfokú végzettség,
 
-## b) rendészeti szakirányú középfokú végzettség és
+## ab) a Zrínyi Miklós Nemzetvédelmi Egyetem logisztikai szakán szerzett végzettség és rendészeti szakirányú végzettség, illetve egyéb rendvédelmi szakképzettség és átképző tanfolyam,
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## ac) a Bolyai János Műszaki Főiskolán a szakterületnek megfelelő szakon szerzett végzettség és rendészeti szakirányú felsőfokú végzettség, vagy rendészeti szervező szakképzettség (OKJ 62 861 01),
 
-## 11. Ügyviteli és titokvédelmi feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## ad) tudományegyetem állam- és jogtudományi karán, az Államigazgatási Főiskolán, a Corvinus Egyetem Közigazgatás-tudományi Karán szerzett végzettség, felsőfokú pénzügyi-számviteli szakképesítés, valamint rendészeti szakirányú felsőfokú végzettség.
 
-## 11.1. Az RTF vagy az NKE valamely szakán szerzett végzettség.
+## 12. Munkavédelemmel kapcsolatos feladatokat ellátók:
 
-## 11.2. a) Az Államigazgatási Főiskolán vagy a Corvinus Egyetem Közigazgatás-tudományi Karán szerzett végzettség és
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## rendészeti szakirányú felsőfokú végzettség, vagy rendészeti szervező szakképzettség (OKJ 62 861 01).
 
-## 12. Ügyviteli és titokvédelmi feladatokat ellátók a II. besorolási osztályba tartozó beosztások esetében:
+## Szakirányú felsőfokú végzettség:
 
-## 12.1. a) Középiskolai érettségi és
+## felsőoktatásban szerzett foglalkozás egészségügyi és munkavédelmi szakképzettség, felsőoktatásban szerzett egészségügyi szakképzettség.
 
-## b) rendészeti szakirányú középfokú végzettség és
+## 13. Belső ellenőrzési feladatkört ellátók:
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
 
-## 12.2. a) Informatikai vagy számítógép-kezelői szakképesítés és
+## rendészeti szakirányú felsőfokú végzettség, vagy rendészeti szervező szakképzettség (OKJ 62 861 01).
 
-## b) rendészeti szakirányú középfokú végzettség és
+## Szakirányú felsőfokú végzettség:
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász, igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser
 
-## 13. Pénzügyi, számviteli, gazdálkodási feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi.
 
-## 13.1. a) A Bolyai János Katonai Műszaki Főiskolán a szakterületnek megfelelő szakon szerzett végzettség és
+## Más, olyan felsőfokú iskolai végzettséggel rendelkezik, amely nem az előző pontban meghatározott felsőfokú végzettség és emellett
 
-## b) rendészeti szakirányú felsőfokú végzettség vagy egyéb rendvédelmi szakképzettség.
+## a) okleveles pénzügyi revizori,
 
-## 13.2. a) Közgazdasági szakmacsoport felsőoktatási intézményeiben szerzett végzettség és
+## b) pénzügyi-számviteli szakellenőri,
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## c) okleveles könyvvizsgálói,
 
-## 13.3. a) Tudományegyetem állam- és jogtudományi karán, az Államigazgatási Főiskolán vagy a Corvinus Egyetem Közigazgatás-tudományi Karán szerzett végzettség vagy felsőfokú pénzügyi-számviteli szakképesítés, és
+## d) költségvetési ellenőri,
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## e) mérlegképes könyvelői,
 
-## 13.4. a) A Nemzetvédelmi Egyetem logisztikai szakán szerzett végzettség és
+## f) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
 
-## b) rendészeti szakirányú felsőfokú végzettség vagy egyéb rendvédelmi szakképzettség.
+## g) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
 
-## 14. Pénzügyi, számviteli, gazdálkodási feladatokat ellátók a II. besorolási osztályba tartozó beosztások esetében:
+## h) közigazgatási gazdálkodási és ellenőrzési szakértői,
 
-## 14.1. a) Középfokú közgazdasági végzettség és
+## i) felsőfokú költségvetési, vagy
 
-## b) rendészeti szakirányú középfokú végzettség és
+## j) felsőfokú államháztartási
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## szakképesítéssel rendelkezik.
 
-## 14.2. a) Pénzügyi számviteli szakképesítés és
+## Tábornoki rendfokozattal rendszeresített beosztások
 
-## b) rendészeti szakirányú középfokú végzettség és
+## Felsőoktatási intézményben szerzett egyetemi végzettség vagy mesterképzési szakon (Msc, Ma) szerzett végzettség és felsőfokú rendőri szakképesítés, valamint rendészeti szakirányú továbbképzés.
 
-## c) a beosztásnak megfelelő szaktanfolyam.
+## További vezetői beosztások:
 
-## 15. Műszaki fenntartási, fejlesztési és belső ellátási feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
+## a) felsőoktatási intézményben szerzett főiskolai vagy felsőfokú alapképzési szakon szerzett végzettség (Ba) és felsőfokú rendészeti szakképesítés valamint rendészeti szakirányú továbbképzés,
 
-## 15.1. a) Műszaki egyetemi vagy főiskolai végzettség és
+## b) a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) és jogelőd szerveinél szerzett rendészeti, védelmi szakirányú végzettség, valamint rendészeti szakirányú továbbképzés.
 
-## b) rendészeti szakirányú felsőfokú végzettség.
+## Rövidítések:
 
-## 15.2. a) Katonai, rendészeti tanintézetek technikai szakán szerzett végzettség és
+## NKE: Nemzeti Közszolgálati Egyetem
 
-## b) rendészeti szakirányú felsőfokú végzettség vagy egyéb rendvédelmi szakképzettség.
+## RTK: Rendészettudományi Kar
 
-## 16. Műszaki fenntartási, fejlesztési és belső ellátási feladatokat ellátók a II. besorolási osztályba tartozó beosztások esetében:
-
-## 16.1. a) Műszaki szakmacsoport oktatási intézményeiben szerzett technikai szakképesítés és
-
-## b) rendészeti szakközépiskolai vagy rendészeti szakirányú középfokú végzettség és
-
-## c) a beosztásnak megfelelő szaktanfolyam.
-
-## 17. Egészségbiztosítási szakfeladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
-
-## 17.1. a) Orvostudományi egyetem általános orvos vagy fogorvos karán szerzett végzettség és
-
-## b) rendészeti szakképesítés.
-
-## 18. Egészségbiztosítási szakfeladatokat ellátók a II. besorolási osztályba tartozó beosztások esetében:
-
-## 18.1. a) Egészségügyi szakmacsoport oktatási intézményeiben szerzett szakképzettség és
-
-## b) rendészeti szakirányú középfokú végzettség és
-
-## c) a beosztásnak megfelelő tanfolyam.
-
-## 18.2. a) Középiskolai érettségi és
-
-## b) rendészeti szakirányú középfokú végzettség és
-
-## c) egészségügyi szaktanfolyam.
-
-## 19. Költségvetési ellenőrzési feladatokat ellátók az I. besorolási osztályba tartozó beosztások esetében:
-
-## 19.1. a) Közgazdasági vagy műszaki szakmacsoport felsőoktatási intézményeiben szerzett egyetemi vagy főiskolai végzettség és
-
-## b) rendészeti szakirányú felsőfokú végzettség.
-
-## 19.2. a) A Nemzetvédelmi Egyetem logisztikai szakán vagy a Bolyai János Katonai Műszaki Főiskola pénzügyi, gazdálkodási, technikai szakán szerzett végzettség és
-
-## b) rendészeti szakirányú felsőfokú végzettség.
-
-## 19.3. Belső ellenőrzési tevékenység ellátása esetén a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló Korm. rendeletben meghatározott, a belső ellenőrre vonatkozó általános és szakmai követelményeknek megfelelő képzettség, képesítés.
-
-## 20. Középfokú rendőri szakképesítésnek kell elfogadni az alábbi végzettségeket is:
-
-## a) a BM Tiszthelyettes-képző Iskolában szerzett végzettség,
-
-## b) a BM Kun Béla Tiszthelyettes-képző Iskola és jogutódai (a BM Kun Béla Zászlósképző Iskola, a Rendőr-zászlósképző Iskola, az Országos Rendőr-főkapitányság Oktatási Kiképzési Központja) szakképzési tagozatán szerzett végzettség,
-
-## c) a bűnügyi szaktanfolyamon korábban szerzett végzettség,
-
-## d) a kormányőr részszakképesítés,
-
-## e) az objektumőri alapszaktanfolyamon szerzett végzettség,
-
-## f) a védelmi-biztonsági szaktanfolyamon szerzett végzettség.
+## RTF: Rendőrtiszti Főiskola
 
 3. melléklet az 56/2012. (XI. 22.) BM rendelethez
 
@@ -272,7 +220,7 @@
 
 1. Országgyűlési Őrség parancsnoka és helyettesei,
 
-2.[^69] az igazgató, a főosztályvezető,
+2.[^205] az igazgató, a főosztályvezető,
 
 3. a főosztályvezető-helyettes,
 
@@ -280,4 +228,4 @@
 
 5. az állományilletékes parancsnok által meghatározott egyéb beosztások, ahol az idegen nyelv használata a szolgálat ellátásához nélkülözhetetlen.
 
-[^69]: A 3. melléklet 2. pontja a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés r) pontjával megállapított szöveg.
+[^205]: A 3. melléklet 2. pontja a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés r) pontjával megállapított szöveg.

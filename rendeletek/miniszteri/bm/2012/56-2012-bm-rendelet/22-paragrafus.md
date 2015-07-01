@@ -1,6 +1,6 @@
 ## 21. § Minősítés alapján történő szolgálati viszony megszüntetésére a minősítésre jogosult szolgálati elöljáró tesz javaslatot. A szolgálati viszony megszüntetéséről akkor is intézkedni kell, ha a minősítés megállapításaival szemben az érintett bírósághoz fordult.
 
-22. § (1) A Hszt. 56. § (2) bekezdés b) pont ba) alpontjában meghatározott esetben a hivatásos szolgálatra alkalmatlanná válás miatti felmentésre büntetőeljárásban hozott jogerős ítélet vagy a kifogástalan életvitel ellenőrzés befejezéséről szóló indokolt határozat alapján kerülhet sor.
+22. § (1)[^56] A Hszt. 86. § (2) bekezdés b) pontjában meghatározott esetben a hivatásos szolgálatra alkalmatlanná válás miatti felmentésre büntetőeljárásban hozott jogerős ítélet vagy a kifogástalan életvitel ellenőrzés befejezéséről szóló indokolt határozat alapján kerülhet sor.
 
 (2) Az Országgyűlési Őrség parancsnoka
 
@@ -10,6 +10,7 @@ b) a kifogástalan életvitel ellenőrzésének befejezéséről szóló indokol
 
 ## haladéktalanul intézkedik a szolgálati viszony megszüntetése iránt.
 
-(3)[^14] A Hszt. 37/C. § (3) bekezdésében meghatározott esetben az Országgyűlési Őrség parancsnoka a kifogástalan életvitel ellenőrzése során a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vizsgálatának eredményét megállapító határozat kézhezvételét követő 5 munkanapon belül köteles meghallgatni az érintettet a határozat indokolásában megjelölt körülményekre és okokra vonatkozóan. Az érintett nyilatkozatát jegyzőkönyvbe kell foglalni.
+(3)[^57] A Hszt. 43. § (3) bekezdésében meghatározott esetben az Országgyűlési Őrség parancsnoka a kifogástalan életvitel ellenőrzése során a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vizsgálatának eredményét megállapító határozat kézhezvételét követő 5 munkanapon belül köteles meghallgatni az érintettet a határozat indokolásában megjelölt körülményekre és okokra vonatkozóan. Az érintett nyilatkozatát jegyzőkönyvbe kell foglalni.
 
-[^14]: A 22. § (3) bekezdését a 81/2012. (XII. 28.) BM rendelet 35. §-a iktatta be.
+[^56]: A 22. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 27. pontja szerint módosított szöveg.
+[^57]: A 22. § (3) bekezdését a 81/2012. (XII. 28.) BM rendelet 35. §-a iktatta be, szövege a 38/2015. (VI. 18.) BM rendelet 17. § 28. pontja szerint módosított szöveg.
