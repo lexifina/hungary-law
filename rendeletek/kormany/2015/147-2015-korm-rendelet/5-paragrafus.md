@@ -1,5 +1,3 @@
-## 4. §[^4]
+## 4. § Az igazságügyi szakértői névjegyzékbe való felvételi eljárás során szükséges szakhatósági állásfoglalás kiadásának eljárási szabályairól szóló 208/2009. (IX. 29.) Korm. rendelet 1. mellékletében foglalt táblázat 4. sorában és 2. mellékletében foglalt táblázat B:3–4 mezőjében a „Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet” szövegrész helyébe a „Herman Ottó Intézet” szöveg lép.
 
 ## 5. A területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet módosítása
-
-[^4]: A 4. § a 12. § (2) bekezdése alapján 2015. július 1-jén lép hatályba.
