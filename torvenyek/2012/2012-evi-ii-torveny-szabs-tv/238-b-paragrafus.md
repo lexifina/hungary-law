@@ -9,3 +9,5 @@ b) az oltalom tárgyának utánzásával vagy átvételével előállított áru
 megsérti, és ezzel százezer forintot meg nem haladó vagyoni hátrányt okoz, szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal vámszerve hatáskörébe tartozik.
+
+(3) A vagyoni hátrány összegének megállapítása céljából érték-egybefoglalásnak van helye, ha az eljárás alá vont személy az (1) bekezdésben meghatározott cselekményt több alkalommal, legfeljebb egy éven belül követte el és ezeket együttesen bírálják el.
