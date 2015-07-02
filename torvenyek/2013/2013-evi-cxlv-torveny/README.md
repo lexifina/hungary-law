@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-145-00-00
 | 2015-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-145-00-00.5 |
 | 2015-04-02 | 2010. évi CXXX. törvény | 2013-145-00-00.6 |
 | 2015-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-145-00-00.7 |
+| 2015-07-02 | 2010. évi CXXX. törvény | 2013-145-00-00.8 |
