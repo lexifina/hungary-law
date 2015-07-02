@@ -2,14 +2,12 @@
 
 35. § (1)–(2)
 
-(3) Az Áht.
+(3)
 
 a)–c)
 
-d) 98. §-ában a „lakásépítési támogatással” szövegrész helyébe a „családok otthonteremtési kedvezményével” szöveg,
+d)
 
 e)–f)
-
-lép.
 
 (4)
