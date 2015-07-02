@@ -1,1 +1,0 @@
-A Kormány az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés m) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
