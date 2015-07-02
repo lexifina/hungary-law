@@ -1,4 +1,4 @@
-## 75. § Hatályát veszti a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény végrehajtásáról szóló 140/1996. (VIII. 31.) Korm. rendelet.
+## 75. §[^1]
 
 1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez
 
@@ -119,3 +119,5 @@ VIII. Alkotmányvédelmi Hivatal
 | 2. | Alkotmányvédelmi Hivatal | – | – |
 
 IX. Nemzetbiztonsági Szakszolgálat
+
+[^1]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
