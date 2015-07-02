@@ -1,1 +1,3 @@
-## 26. § Hatályát veszti az elektronikus számlával kapcsolatos egyes rendelkezésekről szóló 46/2007. (XII. 29.) PM rendelet.
+## 26. §[^10]
+
+[^10]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
