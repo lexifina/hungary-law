@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok állománytábláinak elkészítésére vonatkozó részletes szabályokról szóló 11/2009. (II. 2.) PTNM utasítás.
+## 12. §[^1]
 
 1. melléklet a 31/2015. (VI. 30.) MvM rendelethez
 
@@ -113,3 +113,5 @@ közép-, illetve alapfokú iskolai végzettséghez kötött közalkalmazotti be
 Minta a státusz 14 karakteres azonosító számsorára:
 
 111-10111-1401 A Hivatal főigazgatójának alárendeltségében működő első főosztály (101.) első osztályának (1011.) első alosztályán (10111.) rendszeresített tiszti besorolási osztályú D beosztási kategóriájú hivatásos beosztást jelenti.
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
