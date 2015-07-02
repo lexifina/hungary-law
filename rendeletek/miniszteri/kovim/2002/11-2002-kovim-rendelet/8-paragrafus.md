@@ -1,8 +1,8 @@
 ## A megfelelőségi jelölés
 
-8. § (1)[^20] Az A) melléklet A.1. részében meghatározott, a megfelelő nemzetközi dokumentumokban előírt követelményeknek megfelelő, és a minőségtanúsítási eljárásokkal összhangban gyártott felszereléseket a gyártónak vagy képviselőjének el kell látnia arra felhelyezett megfelelőségi jelöléssel.
+8. § (1)[^21] Az A) melléklet A.1. részében meghatározott, a megfelelő nemzetközi dokumentumokban előírt követelményeknek megfelelő, és a minőségtanúsítási eljárásokkal összhangban gyártott felszereléseket a gyártónak vagy képviselőjének el kell látnia arra felhelyezett megfelelőségi jelöléssel.
 
-(2)[^21] A megfelelőségi jelölés után fel kell tüntetni a megfelelőség tanúsításában közreműködő elismert szervezetnek az azonosító számát, amennyiben közreműködése a termékellenőrzés szakaszára is kiterjedt, és a megfelelőségi jelölés felhelyezése évének utolsó két számjegyét. Az elismert szervezet azonosító számának a felhelyezése az elismert szervezet vagy a gyártó, illetve annak képviselője felelőssége.
+(2)[^22] A megfelelőségi jelölés után fel kell tüntetni a megfelelőség tanúsításában közreműködő elismert szervezetnek az azonosító számát, amennyiben közreműködése a termékellenőrzés szakaszára is kiterjedt, és a megfelelőségi jelölés felhelyezése évének utolsó két számjegyét. Az elismert szervezet azonosító számának a felhelyezése az elismert szervezet vagy a gyártó, illetve annak képviselője felelőssége.
 
 (3) A megfelelőségi jelölés grafikai jelét a C) melléklet tartalmazza.
 
@@ -12,5 +12,5 @@
 
 (6) A megfelelőségi jelölést a gyártási szakasz végén kell felhelyezni.
 
-[^20]: A 8. § (1) bekezdése a 65/2009. (XI. 26.) KHEM rendelet 5. §-ával megállapított, a 26/2013. (VI. 3.) NFM rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^21]: A 8. § (2) bekezdése a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdése a 65/2009. (XI. 26.) KHEM rendelet 5. §-ával megállapított, a 26/2013. (VI. 3.) NFM rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^22]: A 8. § (2) bekezdése a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## 13. § Ez a rendelet 2004. január 1-jén lép hatályba.
 
-14. §[^27] (1)[^28] Ez a rendelet
+14. §[^28] (1)[^29] Ez a rendelet
 
 1. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelvnek,
 
@@ -14,17 +14,19 @@
 
 6. a tengerészeti felszerelésekről szóló, 1996. december 20-i 96/98/EK tanácsi irányelv módosításáról szóló, 2009. április 6-i 2009/26/EK bizottsági irányelvnek
 
-7.[^29] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2010. október 22-i 2010/68/EU bizottsági irányelvnek,
+7.[^30] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2010. október 22-i 2010/68/EU bizottsági irányelvnek,
 
-8.[^30] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2011. szeptember 2-i 2011/75/EU bizottsági irányelvnek,
+8.[^31] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2011. szeptember 2-i 2011/75/EU bizottsági irányelvnek,
 
-9.[^31] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2012. október 25-i 2012/32 EU bizottsági irányelvnek
+9.[^32] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2012. október 25-i 2012/32 EU bizottsági irányelvnek,
+
+10.[^33] a tengerészeti felszerelésekről szóló 96/98/EK tanácsi irányelv módosításáról szóló, 2013. október 30-i 2013/52/EU bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
 (2) Ez a rendelet a hajófelügyeleti és hajóvizsgáló szervezetek közös szabályairól és szabványairól szóló, 2009. április 23-i 391/2009/EK európai parlamenti és tanácsi rendelettel összeegyeztethető szabályozást tartalmaz.
 
-A) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^32]
+A) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^34]
 
 Általános megjegyzés az A) melléklethez: SOLAS-előírásokon a SOLAS egységes szerkezetbe foglalt szövege (2009) szerinti előírások értendők.
 
@@ -88,6 +90,8 @@ Reg. előírás.
 
 Res. határozat.
 
+O2/HC rendszerek oxigén/szénhidrogén-ellátó rendszerek.
+
 A.1. MELLÉKLET
 
 FELSZERELÉSEK, AMELYEK TEKINTETÉBEN A NEMZETKÖZI JOGI ESZKÖZÖK MÁR TARTALMAZNAK RÉSZLETES TESZTELÉSI KÖVETELMÉNYEKET
@@ -104,7 +108,7 @@ d) D oszlop: a nemzetközi egyezmények és tesztelési követelmények napraké
 
 e) D oszlop: ahol két különböző, »vagy« kötőszóval elválasztott tesztelési előírás szerepel, ott mindkettő eleget tesz a vizsgálattal szemben támasztott követelményeknek, így megfelel valamennyi IMO teljesítési normának. Ezért csupán az egyikre vonatkozó tesztelés is elegendő az alkalmazandó nemzetközi dokumentumok követelményeinek való megfelelés igazolására. Ugyanakkor ott, ahol egyéb elválasztó elemek (vesszők) szerepelnek, valamennyi felsorolt hivatkozás által jelzett tesztelés alkalmazandó.
 
-f) E oszlop: ahol a H modul megjelenik, ott mind a H modul, mind a tervvizsgálati tanúsítvány szükséges.
+f)
 
 g) Az ebben a mellékletben meghatározott követelmények nem érintik a nemzetközi egyezményekben előírt felszerelés-szállítási követelményeket.
 
@@ -148,7 +152,7 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 16. | Felúszást elősegítő berendezések mentőtutajokhoz (hidrosztatikus kioldó szerkezetek) | - Reg. III/4, - Reg. X/3. | - Reg. III/13, - Reg. III/26, - Reg. III/34, - IMO Res. MSC.36(63)- (1994 HSC Code) 8, - IMO Res. MSC.48(66)- (LSA Code) I, IV, - IMO Res. MSC.97(73)- (2000 HSC Code) 8, - IMO MSC/Circ.811. | - IMO Res. MSC.81(70). | B + D B + E B + F |
 
-| 17. | Mentőcsónakok: a) csónakdaruval vízre eresztett mentőcsónakok: - részben zárt terű - teljesen zárt terű b) szabadesési üzemmódban vízre bocsátható mentőcsónakok: - teljesen zárt terű | - Reg. III/4, - Reg. X/3. | - Reg. III/21, - Reg. III/31, - Reg. III/34, - IMO Res. MSC.36(63)- (1994 HSC Code) 8, - IMO Res. MSC.48(66)- (LSA Code) I, IV, - IMO Res. MSC.97(73)- (2000 HSC Code) 8. | - IMO Res. MSC.81(70), - IMO MSC/Circ.1006. | B + D B + F G |
+| 17. | Mentőcsónakok: a) csónakdaruval vízre eresztett mentőcsónakok: - részben zárt terű - teljesen zárt terű b) szabadesési üzemmódban vízre bocsátható mentőcsónakok | - Reg. III/4, - Reg. X/3. | - Reg. III/21, - Reg. III/31, - Reg. III/34, - IMO Res. MSC.36(63) -(1994 HSC Code) 8, - IMO Res. MSC.48(66) -(LSA Code) I, IV, - IMO Res. MSC.97(73) -(2000 HSC Code) 8, - IMO MSC.1/Circ.1423 | - IMO Res. MSC.81(70), - IMO MSC/Circ.1006. | B + D B + F G |
 
 | 18. | Merev szerkezetű készenléti mentőcsónakok | - Reg. III/4, - Reg. X/3. | - Reg. III/21, - Reg. III/31, - Reg. III/34, - IMO Res. MSC.36(63)- (1994 HSC Code) 8, - IMO Res. MSC.48(66)- (LSA Code) I, V, - IMO Res. MSC.97(73)- (2000 HSC Code) 8. | - IMO Res. MSC.81(70), - IMO MSC/Circ.1006. | B + D B + F G |
 
@@ -164,7 +168,7 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 24. | Vízre bocsátó berendezések nagy sebességű készenléti mentőcsónakokhoz (csónakdaruk) | - Reg. III/4. | - Reg. III/26, - Reg. III/34, - IMO Res. MSC.48(66)- (LSA Code) I, VI. | - IMO Res. MSC.81(70). | B + D B + E B + F G |
 
-| 25. | Kioldószerkezet a) mentőcsónakokhoz és készenléti mentőcsónakhoz (csigasorral vagy csigasorokkal történő vízre bocsátás) b) mentőtutajokhoz (csigasorral vagy csigasorokkal történő vízre bocsátás) | - Reg. III/4, - Reg. X/3. | - Reg. III/16, - Reg. III/34, - IMO Res. MSC.36(63)- (1994 HSC Code) 8, - IMO Res. MSC.48(66)- (LSA Code) I, IV, VI (1), - IMO Res. MSC.97(73)- (2000 HSC Code) 8. | - IMO Res. MSC.81(70). | B + D B + E B + F |
+| 25. | Kioldószerkezet a) mentőcsónakokhoz és készenléti mentőcsónakhoz (csigasorral vagy csigasorokkal történő vízre bocsátás) b) mentőtutajokhoz (csigasorral vagy csigasorokkal történő vízre bocsátás) | - Reg. III/4, - Reg. X/3. | - Reg. III/16, - Reg. III/34, - IMO Res. MSC.36(63) -(1994 HSC Code) 8, - IMO Res. MSC.48(66) -(LSA Code) I, IV, VI, - IMO Res. MSC.97(73) -(2000 HSC Code) 8, - IMO MSC.1/Circ.1419. | - IMO Res. MSC.81(70). | B + D B + E B + F |
 
 | 26. | Tengeri evakuálást szolgáló rendszerek | - Reg. III/4, - Reg. X/3. | - Reg. III/15, - Reg. III/26, - Reg. III/34, - IMO Res. MSC.36(63)- (1994 HSC Code) 8, - IMO Res. MSC.48(66)- (LSA Code) I, VI, - IMO Res. MSC.97(73)- (2000 HSC Code) 8. | - IMO Res. MSC.81(70). | B + D B + F G |
 
@@ -208,7 +212,7 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 7. | Hajófedélzeti hulladékégetők | - VI. melléklet, Reg. 16. | - VI. melléklet, Reg. 16. | - IMO Res. MEPC.76(40). | B + D B + E B + F G |
 
-| 8. | Fedélzeti NOX-elemző készülékek A NOX műszaki előírás 2008 közvetlen mérési és ellenőrzési módszerét alkalmazó készülékek | - IMO Res. MEPC.176(58)- (MARPOL felülvizsgált VI. melléklete, Reg. 13). | - IMO Res. MEPC.176(58)- (MARPOL felülvizsgált VI. melléklete, Reg. 13., - IMO Res. MEPC.177(58)- (NOX műszaki előírás 2008), - IMO MEPC.1/Circ.638. | - IMO Res. MEPC.177(58)- (NOX műszaki előírás 2008), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). Vagy: - IMO Res. MEPC.177(58)- (NOX műszaki előírás 2008), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). | B + D B + E B + F G |
+| 8. | Kemilumineszcens detektoros (CLD) vagy fűtött kemilumineszcens detektoros (HLCD) típusú NOx-elemző készülék közvetlen fedélzeti mérésekhez | - IMO Res. MEPC.176(58) -(MARPOL felülvizsgált VI. melléklete, Reg. 13) | - IMO Res. MEPC.176(58) -(MARPOL felülvizsgált VI. melléklete, Reg. 13.), - IMO Res. MEPC.177(58) -(NOx műszaki előírás 2008), - IMO Res. MEPC.198(62), - IMO MEPC.1/Circ.638. | - IMO Res. IMO Res. MEPC.177(58) -(NOx műszaki előírás 2008), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). Vagy: - IMO Res. MEPC.177(58) -(NOx műszaki előírás 2008), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). | B + D B + E B + F G |
 
 | 9. | Kipufogógázt tisztító fedélzeti berendezések | - IMO Res. MEPC.176(58)- (MARPOL felülvizsgált VI. melléklete, Reg. 4), - IMO Res. MEPC.184(59). | - IMO Res. MEPC.176(58)- (MARPOL felülvizsgált VI. melléklete, Reg. 4). | - IMO Res. MEPC.184(59). | B + D B + E B + F G |
 
@@ -218,13 +222,13 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 |  | Megnevezés | Módosított SOLAS 74-előírás, amennyiben »típus-jóváhagyás« szükséges | Módosított SOLAS 74-előírások, valamint vonatkozó IMO-határozatok és IMO-körlevelek (alkalmazhatóság szerint) | Tesztelési követelmények | A meg- felelőségi vizsgálat moduljai |
 
-| 1. | Fedélzetek elsődleges burkolatai | - Reg. II-2/4, - Reg. II-2/6, - Reg. X/3. | - Reg. II-2/4, - Reg. II-2/6, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 HSC Code), - IMO MSC/Circ.1102. | B + D B + E B + F |
+| 1. | Fedélzetek elsődleges burkolatai | - Reg. II-2/4, - Reg. II-2/6, - Reg. X/3. | - Reg. II-2/4, - Reg. II-2/6, - IMO Res. MSC.36(63)-(1994 HSC Code) 7, - IMO Res. MSC.97(73)-(2000 HSC Code) 7. | - IMO Res. MSC.307(88)-(2010 HSC Code). | B + D B + E B + F |
 
 | 2. | Hordozható tűzoltó készülékek | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 4. | - Reg. II-2/4, - Reg. II-2/10, - Reg. II-2/18, - Reg. II-2/19, - Reg. II-2/20, - IMO Res. A.951(23), - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)-(FSS Code) 4, - IMO MSC/Circ.1239, - IMO MSC/Circ.1275. | - EN 3-7 (2004), benne: A1 (2007), - EN 3-8 (2006), benne: AC (2007), - EN 3-9 (2006), benne: AC (2007), - EN 3-10 (2009). | B + D B + E B + F |
 
-| 3. | Tűzoltó felszerelés: védőöltözet (hőálló védőöltözet) | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)-(FSS Code) 3. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 3. | Védőöltözet tűzoltáshoz: - EN 469 (2005), benne: A1 (2006) és AC (2006). Védőöltözet tűzoltáshoz - hővisszaverő öltözet különleges tűzoltáshoz: - EN 1486 (2007). Védőöltözet tűzoltáshoz - védőöltözet külső fényvisszaverő felülettel: - ISO 15538 (2001). | B + D B + E B + F |
+| 3. | Tűzoltó felszerelés: védőöltözet (hőálló védőöltözet) | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73) -(FSS Code) 3. | - Reg. II-2/10, - IMO Res. MSC.36(63) -(1994 HSC Code) 7, - IMO Res. MSC.97(73) -(2000 HSC Code) 7, - IMO Res. MSC.98(73) -(FSS Code) 3. | Védőöltözet tűzoltáshoz: - EN 469 (2005), benne: A1 (2006) és AC (2006). Védőöltözet tűzoltáshoz - Hővisszaverő öltözet különleges tűzoltáshoz: - EN 1486 (2007). Védőöltözet tűzoltáshoz - Védőöltözet külső fényvisszaverő felülettel: - ISO 15538 (2001) 2. szint. | B + D B + E B + F |
 
-| 4. | Tűzoltó felszerelés: lábbeli | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 3. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 3. | - EN 15090 (2006). | B + D B + E B + F |
+| 4. | Tűzoltó felszerelés: lábbeli | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73) -(FSS Code) 3. | - Reg. II-2/10, - IMO Res. MSC.36(63) -(1994 HSC Code) 7, - IMO Res. MSC.97(73) -(2000 HSC Code) 7, - IMO Res. MSC.98(73) -(FSS Code) 3. | - EN 15090 (2012), | B + D B + E B + F |
 
 | 5. | Tűzoltó felszerelés: kesztyű | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 3. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 3. | - EN 659 (2003), benne: A1 (2008) és AC (2009). | B + D B + E B + F |
 
@@ -238,9 +242,9 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 10. | Gépterek és rakomány-szivattyúterek beépített, nagynyomású vízpermettel oltó tűzoltó rendszereinek szórófejei | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 7. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 7, - IMO MSC.1/Circ.1313. | - IMO MSC/Circ.1165, A. függelék. | B + D B + E B + F |
 
-| 11. | »A« és »B« tűzállósági osztályú válaszfalak a) »A« osztályú válaszfalak b) »B« osztályú válaszfalak | »A« osztály: - Reg. II-2/3.2. »B« osztály: - Reg. II-2/3.4. | - Reg. II-2/9, és »A« osztály: - Reg. II-2/3.2, - IMO MSC/Circ.1005 (könnyű-szerkezetekhez). »B« osztály: - Reg. II-2/3.4. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
+| 11. | »A« és »B« tűzállósági osztályú válaszfalak a) »A« osztályú válaszfalak b) »B« osztályú válaszfalak | »A« osztály: - Reg. II-2/3,2. »B« osztály: - Reg. II-2/3,4. | - Reg. II-2/9, és »A« osztály: - Reg. II-2/3,2. - IMO MSC/Circ. 1120 - IMO MSC.1/Circ.1435 »B« osztály: - Reg. II-2/3,4. | - IMO Res. MSC.307(88)-(2010 FTP Code). | B + D B + E B + F |
 
-| 12. | Olajszállító tartályhajókon a tűz raktérbe jutását gátló berendezések | - Reg. II-2/4, - Reg. II-2/16. | - Reg. II-2/4, - Reg. II-2/16. | - EN 12874 (2001), - ISO 15364 (2007), - IMO MSC/Circ.677. | Szelepektől eltérő berendezések: B + D B + E B + F Szelepek: B + F |
+| 12. | Olajszállító tartályhajókon a tűz raktérbe jutását gátló berendezések | - Reg. II-2/4, - Reg. II-2/16. | - Reg II-2/4, - Reg II-2/16 | - EN ISO 16852 (2010), - ISO 15364 (2007), - IMO MSC/Circ.677. | Szelepektől eltérő berendezések: B + D B + E B + F Szelepek: B + F |
 
 | 13. | Nem éghető anyagok | - Reg. II-2/3, - Reg. X/3. | - Reg. II-2/3, - Reg. II-2/5, - Reg. II-2/9, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
@@ -248,21 +252,21 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 15. | Tűzvédelmi ajtók | - Reg. II-2/9. | - Reg. II-2/9. | - IMO Res. MSC.307(88)- (2010 FTP Code), - IMO MSC.1/Circ.1319. | B + D B + E B + F |
 
-| 16. | Tűzálló ajtók vezérlő rendszerének részei | - Reg. II-2/9, - Reg. X/3. | - Reg. II-2/9, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
+| 16. | Tűzálló ajtók vezérlő rendszerének részei. Megjegyzés: ahol a 2. oszlopban »rendszerek részei« kifejezés szerepel, ott vagy egyetlen részt, vagy a részek egy csoportját, vagy az egész rendszert kell vizsgálni a nemzetközi előírások teljesítésének biztosítása érdekében. | - Reg. II-2/9, - Reg. X/3. | - Reg. II-2/9, - IMO Res. MSC.97(73)-(2000 HSC Code) 7. | - IMO Res. MSC.307(88)-(2010 FTP Code). | B + D B + E B + F |
 
 | 17. | Felületi anyagok és padlóburkolatok alacsony lángterjedési jellemzőkkel: a) díszburkolatok b) festési rendszerek c) padlóburkolatok d) csőszigetelések burkolatai e) »A«, »B« és »C« osztályú válaszfalak kialakítása során használt ragasztóanyagok f) éghető csövek | - Reg. II-2/3, - Reg. II-2/5, - Reg. II-2/6, - Reg. II-2/9, - Reg. X/3. | - Reg. II-2/3, - Reg. II-2/5, - Reg. II-2/6, - Reg. II-2/9, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO MSC/Circ.1120. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
-| 18. | Kárpitok, függönyök, más függesztett textilanyagok és fóliák | - Reg. II-2/3, - Reg. II-2/9, - Reg. X/3. | - Reg. II-2/3, - Reg. II-2/9, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code), - IMO MSC/Circ.1102. | B + D B + E B + F |
+| 18. | Kárpitok, függönyök, más függesztett textilanyagok és fóliák | - Reg. II-2/3, - Reg. II-2/9, - Reg. X/3. | - Reg. II-2/3, - Reg. II-2/9, - IMO Res. MSC.36(63) -(1994 HSC Code) 7, - IMO Res. MSC.97(73) -(2000 HSC Code) 7. | - IMO Res. MSC.307(88) -(2010 FTP Code). | B + D B + E B + F |
 
-| 19. | Kárpitozott bútorok | - Reg. II-2/3, - Reg. II-2/5, - Reg. II-2/9, - Reg. X/3. | - Reg. II-2/3, - Reg. II-2/5, - Reg. II-2/9, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code), - IMO MSC/Circ.1102. | B + D B + E B + F |
+| 19. | Kárpitozott bútorok | - Reg. II-2/3, - Reg. II-2/5, - Reg. II-2/9, - Reg.X/3. | - Reg. II-2/3, - Reg. II-2/5, - Reg. II-2/9, - IMO Res. MSC.36(63) -(1994 HSC Code) 7, - IMO Res. MSC.97(73) -(2000 HSC Code) 7. | - IMO Res. MSC.307(88) -(2010 FTP Code). | B + D B + E B + F |
 
-| 20. | Ágynemű | - Reg. II-2/3, - Reg. II-2/9, - Reg. X/3. | - Reg. II-2/3, - Reg. II-2/9, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code), - IMO MSC/Circ.1102. | B + D B + E B + F |
+| 20. | Ágynemű | - Reg. II-2/3, - Reg. II-2/9, - Reg. X/3. | - Reg. II-2/3, - Reg. II-2/9, - IMO Res. MSC.36(63)-(1994 HSC Code) 7, - IMO Res. MSC.97(73)-(2000 HSC Code) 7. | - IMO Res. MSC.307(88)-(2010 FTP Code). | B + D B + E B + F |
 
 | 21. | Tűzvédelmi csappantyúk | - Reg. II-2/9. | - Reg. II-2/9. | - IMO Res. MSC.307(88)- (2010 FTP Code) | B + D B + E B + F |
 
 | 22. | »A« és »B« tűzállósági osztályú ablakok és oldalablakok | - Reg. II-2/9. | - Reg. II-2/9, - IMO MSC/Circ.1120. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
-| 23. | Átvezetések »A« osztályú válaszfalon: a) elektromos kábelátvezetések b) csövek, csatornák stb. átvezetései | - Reg. II-2/9. | - Reg. II-2/9, - IMO MSC.1/Circ.1276. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
+| 23. | Átvezetések »A« osztályú válaszfalon: a) elektromos kábelátvezetések b) csövek, csatornák stb. átvezetései | - Reg. II-2/9. | - Reg. II-2/9, - IMO MSC.1/Circ.1276. (csak a b) pont esetében alkalmazandó) | - IMO Res. MSC.307(88)-(2010 FTP Code). | B + D B + E B + F |
 
 | 24. | Átvezetések »B« osztályú válaszfalon: a) elektromos kábelátvezetések b) csövek, csatornák stb. átvezetései | - Reg. II-2/9. | - Reg. II-2/9. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
@@ -274,13 +278,13 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 28. | Tűzgátló anyagok (bútorok kivételével) nagy sebességű vízi járműveken | - Reg. X/3. | - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
-| 29. | Tűzgátló anyagok bútorokhoz nagy sebességű vízi járműveken | - Reg. X/3. | - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO MSC/Circ.1102. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
+| 29. | Tűzgátló anyagok bútorokhoz nagy sebességű vízi járműveken | - Reg. X/3. | - IMO Res. MSC.36(63)-(1994 HSC Code) 7, - IMO Res. MSC.97(73)-(2000 HSC Code) 7. | - IMO Res. MSC.307(88)-(2010 FTP Code). | B + D B + E B + F |
 
 | 30. | Tűzgátló válaszfalak nagy sebességű vízi járműveken | - Reg. X/3. | - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
 | 31. | Tűzálló ajtók nagy sebességű vízi járműveken | - Reg. X/3. | - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
-| 32. | Tűzvédelmi csappantyúk nagy sebességű vízi járműveken | - Reg. X/3. | - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO MSC/Circ.1102. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
+| 32. | Tűzvédelmi csappantyúk nagy sebességű vízi járműveken | - Reg. X/3. | - IMO Res. MSC.36(63) -(1994 HSC Code) 7, - IMO Res. MSC.97(73) -(2000 HSC Code) 7. | - IMO Res. MSC.307(88) -(2010 FTP Code). | B + D B + E B + F |
 
 | 33. | Átvezetések nagy sebességű vízi járművek tűzgátló válaszfalain: a) elektromos kábelátvezetések b) csövek, csatornák stb. átvezetései | - Reg. X/3. | - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
@@ -298,7 +302,7 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 40. | Tűzoltó felszerelés - mentőkötél | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 3. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 3. | - IMO Res. MSC.98(73)- (FSS Code) 3, - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
 
-| 41. | Gépterek és rakomány-szivattyúterek egyenértékű, beépített, gázzal oltó tűzoltó rendszereinek részei (oltószer, főszelepek és szórófejek) | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 5. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 5, - IMO MSC/Circ.848, - IMO MSC.1/Circ.1313, - IMO MSC.1/Circ.1316, - IMO MSC.1/Circ.1317. | - IMO MSC/Circ.848, - IMO MSC.1/Circ.1317. | B + D B + E B + F |
+| 41. | Gépterek és rakományszivattyú-terek egyenértékű, beépített, gázzal oltó tűzoltó rendszereinek részei (oltószer, főszelepek és szórófejek) | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)-(FSS Code) 5. | - Reg. II-2/10, - IMO Res. MSC.36(63)-(1994 HSC Code) 7, - IMO Res. MSC.97(73)-(2000 HSC Code) 7, - IMO Res. MSC.98(73)-(FSS Code) 5, - IMO MSC/Circ.848, - IMO MSC.1/Circ.1313, - IMO MSC.1/Circ.1316. | - IMO MSC/Circ.848, - IMO MSC.1/Circ.1316. | B + D B + E B + F |
 
 | 42. | Gépterek egyenértékű, beépített, gázzal oltó tűzoltó rendszerei (aeroszolos rendszerek) | - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 5. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 5, - IMO MSC.1/Circ.1270, - IMO MSC.1/Circ.1313. | - IMO MSC.1/Circ.1270, benne: 1. helyesbítés. | B + D B + E B + F |
 
@@ -306,15 +310,15 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 44. | »A« osztályú gépterek beépített, vízzel oltó helyi tűzoltó rendszereinek részei (szórófejek és teljesítménytesztek) | - Reg. II-2/10, - Reg. X/3. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO MSC.1/Circ.1387. | B + D B + E B + F |
 
-| 45. | Ro-ro terek és különleges kategóriájú terek beépített, vízsugárral oltó tűzoltó rendszereinek szórófejei | - Reg. II-2/19, - Reg. II-2/20, - Reg. X/3. | - Reg. II-2/19, - Reg. II-2/20, - IMO Res. A.123(V), - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - IMO MSC.1/Circ.1272. | B + D B + E B + F |
+| 45. | Ro-ro terek és különleges kategóriájú terek beépített, vízsugárral oltó tűzoltó rendszerek | - Reg. II-2/19, - Reg. II-2/20, - Reg. X/3. | - Reg. II-2/19, - Reg. II-2/20, - IMO Res. A.123(V), - IMO Res. MSC.36(63) -(1994 HSC Code) 7, - IMO Res. MSC.97(73) -(2000 HSC Code) 7. | - IMO MSC.1/Circ.1430. | B + D B + E B + F |
 
-| 46. | Vezérlőállások, szolgálati terek, lakóterek, kabinerkélyek, gépterek és felügyelet nélküli gépterek beépített tűzérzékelő és tűzriasztó rendszereinek részei | - Reg. II-2/7, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 9. | - Reg. II-2/7, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 9, - IMO MSC.1/Circ.1242, - IMO MSC.1/Circ.1313. | Ellenőrző és jelző berendezés. Elektromos berendezések hajókon: - EN 54-2 (1997), benne: AC(1999) és A1 (2006). Energiaellátó berendezés: - EN 54-4 (1997), benne: AC (1999), A1 (2002) és A2 (2006). Hőérzékelők - pontszerű érzékelők: - EN 54-5 (2000), benne: A1 (2002). Füstérzékelők - pontszerű szórt fényes, áteső fényes vagy ionizációs érzékelők: - EN 54-7 (2000), benne: A1 (2002) és A2 (2006). Lángérzékelők - pontszerű érzékelők: - EN 54-10 (2000), benne: A1 (2005). Kézi tűzjelzők: - EN 54-11 (2001), benne: A1 (2005). Izolátorok (zárlatszakaszoló): - EN 54-17 (2007), benne: AC (2007). Bemeneti/kimeneti készülékek: - EN 54-18 (2005), benne: AC (2007). Kábelek: - EN 60332-1-1 (2004). Valamint elektromos és elektronikus berendezések hajókon, alkalmazhatóság szerint: - IEC 60092-504 (2001), benne: IEC 60092-504 1. helyesbítés (2011), - IEC 60533 (1999). | B + D B + E B + F |
+| 46. | Vezérlőállások, szolgálati terek, lakóterek, kabinerkélyek, gépterek és felügyelet nélküli gépterek beépített tűzérzékelő és tűzriasztó rendszereinek részei a) Ellenőrző és jelző berendezés b) Energiaellátó berendezés c) Hőérzékelők - pontszerű érzékelők d) Füstérzékelők: pontszerű szórt fényes, áteső fényes vagy ionizációs érzékelők e) Lángérzékelők: pontszerű érzékelők f) Kézi tűzjelzők g) Zárlatszakaszolók h) Bemeneti/kimeneti készülékek i) Kábelek | - Reg. II-2/7, - Reg. X/3, - IMO Res. MSC.98(73)-(FSS Code) 9. | - Reg. II-2/7, - IMO Res. MSC.36(63)-(1994 HSC Code) 7, - IMO Res. MSC.97(73)-(2000 HSC Code) 7, - IMO Res. MSC.98(73)-(FSS Code) 9, - IMO MSC.1/Circ.1242, | Ellenőrző és jelző berendezés. Elektromos berendezések hajókon: - EN 54-2 (1997), benne: AC (1999) és A1 (2006). Energiaellátó berendezés: - EN 54-4 (1997), benne: AC (1999), A1 (2002) és A2 (2006). Hőérzékelők - pontszerű érzékelők: - EN 54-5 (2000), benne: A1 (2002). Füstérzékelők - pontszerű szórt fényes, áteső fényes vagy ionizációs érzékelők: - EN 54-7 (2000), benne: A1 (2002) és A2 (2006). Lángérzékelők - pontszerű érzékelők: - EN 54-10 (2002), benne: A1 (2005). Kézi tűzjelzők: - EN 54-11 (2001), benne: A1 (2005). Izolátorok (zárlatszakaszoló): - EN 54-17 (2007), benne: AC (2007). Bemeneti/kimeneti készülékek: - EN 54-18 (2005), benne: AC (2007). Kábelek: - EN 60332-1-2 (2004). - IEC 60092-376 (2003). Valamint elektromos és elektronikus berendezések hajókon, alkalmazhatóság szerint: - IEC 60092-504 (2001), benne: IEC 60092-504 1. helyesbítés (2011), - IEC 60533 (1999). | B + D B + E B + F |
 
 | 47. | Nem hordozható és nem szállítható tűzoltó készülékek | - Reg. II-2/10, - Reg. X/3. | - Reg. II-2/4, - Reg. II-2/10, - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | - EN 1866-1 (2007). Vagy: - ISO 11601 (2008). | B + D B + E B + F |
 
 | 48. | Tűzriasztó berendezések - Akusztikus jelzőkészülékek | - Reg. II-2/7, - Reg. X/3, - IMO Res. MSC.98(73)- (FSS Code) 9. | - Reg. II-2/7, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 9, - IMO MSC.1/Circ.1313. | Akusztikus jelzőkészülékek - EN 54-3 (2001), benne: A1 (2002) és A2 (2006), - IEC 60092-504 (2001), benne: IEC 60092-504 1. helyesbítés (2011), - IEC 60533 (1999). | B + D B + E B + F |
 
-| 49. | Beépített oxigénelemző és gázérzékelő berendezések | - Reg. II-2/4, - Reg. VI/3. | - Reg. II-2/4, - Reg. VI/3, - IMO Res. MSC.98(73)- (FSS Code) 15. | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008) vagy IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 60092-504 (2001), benne: IEC 60092-504 1. helyesbítés (2011), - IEC 60533 (1999), illetve alkalmazhatóság szerint: a) 4. kategória: (biztonságos terület) - EN 50104 (2010). b) 3. kategória: (robbanásveszélyes gázt tartalmazó légterek) - EN 50104 (2010), - EN 60079-0 (2009), - EN 60079-29-1 (2007). | B + D B + E B + F |
+| 49. | Beépített oxigénelemző és gázérzékelő berendezések | - Reg. II-2/4, - VI/3. | - Reg. II-2/4, - Reg. VI/3, - IMO Res. MSC.98(73)-(FSS Code) 15. Kombinált O2/CH-rendszerek esetében továbbá: - IMO MSC.1/Circ.1370. | - IEC 60092-504 (2001), benne: IEC 60092-504 1. helyesbítés (2011), - IEC 60533 (1999), illetve alkalmazhatóság szerint: a) 4. kategória: (biztonságos terület) - EN 50104 (2010). b) 3. kategória: (robbanásveszélyes gázt tartalmazó légterek) - EN 50104 (2010), - EN 60079-0 (2012), - EN 60079-29-1 (2007). Kombinált O2/CH-rendszerek esetében továbbá: - IMO MSC.1/Circ.1370. | B + D B + E B + F |
 
 | 50. | Kettős rendeltetésű szórófejek (permet/sugár) | - Reg. II-2/10, - Reg. X/3. | - Reg. II-2/10, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7. | Kézi tűzoltó sugárcsövek - Kombinált sugárcsövek PN 16: - EN 15182-1 (2007), benne: A1 (2009), - EN 15182-2 (2007), benne: A1 (2009). Kézi tűzoltó sugárcsövek - Tömör vízsugarú és/vagy állandó szögű, szórt vízsugarú sugárcsövek PN 16: - EN 15182-1 (2007), benne: A1 (2009), - EN 15182-3 (2007), benne: A1 (2009). | B + D B + E B + F |
 
@@ -322,27 +326,25 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 52. | Középhabbal oltó tűzoltó rendszerek részei - tartályhajók beépített fedélzeti haboltói | - Reg. II-2/10. | - Reg. II-2/10.8.1, - IMO Res. MSC.98(73)- (FSS Code) 14, - IMO MSC.1/Circ.1239, - IMO MSC.1/Circ.1276. | - IMO MSC/Circ.798. | B + D B + E B + F |
 
-| 53. | Gépterek és tartályhajófedélzetek beépített, nehézhabbal oltó tűzoltó rendszereinek részei | - Reg. II-2/10. | - Reg. II-2/10, - IMO Res. MSC.98(73)- (FSS Code) 6, 14, - IMO MSC.1/Circ.1239, - IMO MSC.1/Circ.1276, - IMO MSC.1/Circ.1313. | - IMO MSC.1/Circ.1312. | B + D B + E B + F |
+| 53. | Gépterek és tartályhajó-fedélzetek beépített, nehézhabbal oltó tűzoltó rendszereinek részei | - Reg. II-2/10. | - Reg. II-2/10, - IMO Res. MSC.98(73)-(FSS Code) 6, 14, - IMO MSC.1/Circ.1239, - IMO MSC.1/Circ.1276, - IMO MSC.1/Circ.1313 | - IMO MSC.1/Circ.1312. - IMO MSC.1/Circ.1312 1. helyesbítés. | B + D B + E B + F |
 
-| 54. | Oltóhab vegyianyagszállító tartályhajók beépített tűzoltó rendszereihez | - Reg. II-2/1, - IMO Res. MSC.4(48)- (IBC Code). | - IMO Res. MSC.4(48)- (IBC Code), - IMO MSC/Circ.553. | - IMO MSC.1/Circ.1312. | B + D B + E B + F |
+| 54. | Oltóhab vegyianyag-szállító tartályhajók beépített tűzoltó rendszereihez | - Reg. II-2/1, - IMO Res. MSC.4(48)-(IBC Code) | - IMO Res. MSC.4(48)-(IBC Code) , - IMO MSC/Circ.553. | - IMO MSC.1/Circ.1312. - IMO MSC.1/Circ.1312 1. helyesbítés. | B + D B + E B + F |
 
 | 55. | Kabinerkélyek beépített, nagynyomású vízpermettel oltó tűzoltó rendszereinek szórófejei | - Reg. II-2/10. | - Reg. II-2/10, - IMO Res. MSC.98(73)- (FSS Code) 7, - IMO MSC.1/Circ.1313. | - IMO MSC.1/Circ.1268. | B + D B + E B + F |
 
-| 56. | Gépterek és rakomány-szivattyúterek belső levegővel működő, könnyűhabbal oltó tűzoltó rendszerei Megjegyzés: a gépterekben és a rakomány-szivattyúterekben alkalmazott beépített, könnyűhabbal oltó tűzoltó rendszert a jóváhagyott koncentrátummal kell tesztelni a hatósági előírásnak megfelelően | - Reg. II-2/10. | - Reg. II-2/10. | - IMO MSC.1/Circ.1271. | B + D B + E B + F |
+| 56. | a) Gépterek és rakományszivattyú-terek belső levegővel működő, könnyűhabbal oltó tűzoltó rendszerei b) Gépterek és rakományszivattyú-terek külső levegővel működő, könnyűhabbal oltó tűzoltó rendszerei Megjegyzés: a gépterekben és a rakományszivattyú-terekben alkalmazott beépített, könnyűhabbal oltó tűzoltó rendszert a jóváhagyott koncentrátummal kell tesztelni a hatósági előírásnak megfelelően | - Reg. II-2/10. | - Reg. II-2/10. | - IMO MSC.1/Circ.1384. | B + D B + E B + F |
 
-| 57. | Száraz vegyi porral oltó tűzoltó rendszerek | - Reg. II-2/1. | - Reg. II-2/1, - a cseppfolyósított gázokat ömlesztve szállító hajók építésére és felszerelésére vonatkozó nemzetközi szabályzat, 11. fejezet. | - IMO MSC.1/Circ.1315. | B + D B + E B + F |
+| 57. | Száraz vegyi porral oltó tűzoltó rendszerek | - Reg. II-2/1. | - Reg. II-2/1, - IMO Res. MSC.5(48) -(IGC Code). | - IMO MSC.1/Circ.1315. | B + D B + E B + F |
 
 | 58. | Mintavevő füstérzékelő rendszerek részei | - Reg. II-2/7, - Reg. II-2/19, - Reg. II-2/20. | - Reg. II-2/7, - Reg. II-2/19, - Reg. II-2/20, - IMO Res. MSC.98(73)- (FSS Code) 10. | - IMO Res. MSC.98(73)- (FSS Code) 10, valamint: Ellenőrző és jelző berendezés. Elektromos berendezések hajókon: - EN 54-2 (1997), benne: AC (1999) és A1 (2006). Energiaellátó berendezés: - EN 54-4 (1997), benne: AC (1999), A1 (2002) és A2 (2006). Aspirációs füstérzékelők: - EN 54-20 (2006), benne: AC (2008). Valamint elektromos és elektronikus berendezések hajókon, alkalmazhatóság szerint: - IEC 60092-504 (2001), benne: IEC 60092-504 1. helyesbítés (2011), - IEC 60533 (1999). Valamint robbanásveszélyes légterek, alkalmazhatóság szerint: - EN 60079-0 (2009). | B + D B + E B + F |
 
-| 59. | »C« osztályú válaszfalak | - Reg. II-2/3. | - Reg. II-2/3. | - IMO Res. MSC.307(88)- (2010 FTP Code). | B + D B + E B + F |
+| 59. | »C« osztályú válaszfalak | - Reg. II-2/3. | - Reg. II-2/3, - Reg. II-2/9. | - IMO Res. MSC.307(88)-(2010 FTP Code). | B + D B + E B + F |
 
-| 60. | Rögzített szénhidrogén-gázérzékelő rendszer | - Reg. II-2/4. | - Reg. II-2/4, - IMO Res. MSC.98(73)- (FSS Code) 16, - IMO MSC.1/Circ.1370. | - IMO MSC.1/Circ.1370, - EN 60079-29-1 (2007), - IEC 60092-504 (2001), benne: IEC 60092-504 1. helyesbítés (2011), - IEC 60533 (1999), - EN/IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). | B + D B + E B + F |
+| 60. | Rögzített szénhidrogén-gázérzékelő rendszer | - Reg. II-2/4. | - Reg. II-2/4, - IMO Res. MSC.98(73)-(FSS Code) 16, - IMO MSC.1/Circ.1370. | - IMO MSC.1/Circ.1370, - EN 60079-0 (2011). - EN 60079-29-1 (2007), - IEC 60092-504 (2001), benne: IEC 60092-504 1. helyesbítés (2011), - IEC 60533 (1999). | B + D B + E B + F |
 
 | 61. | Alacsonyan elhelyezett világítási rendszerek helyett alkalmazható evakuációirányító rendszerek | - Reg. II-2/13. | - Reg. II-2/13, - IMO MSC.1/Circ.1168. | - IMO MSC.1/Circ.1168. | B + D B + E B + F |
 
-- EN 61162-420 (2002) - 420. rész: Több adatforrás, több adatfeldolgozó - A hajórendszerek összekapcsolása - Kísérőszabvány-követelmények és alapvető kísérőszabványok
-
-- EN 61162-450 (2011) - 450. rész: Több adatforrás, több adatfeldolgozó - Ethernet-kapcsolat
+| 62. | Helikopterek habbal oltó tűzoltó készülékei | - Reg. II-2/18. | - Reg. II-2/18. - IMO MSC.1/Circ.1431. | - EN 13565-1 (2003), benne: A1 (2007). | B + D B + E B + F |
 
 4. Navigációs berendezések
 
@@ -392,6 +394,10 @@ d) EN 61162-400 (2002) - 400. rész: Több adatforrás, több adatfeldolgozó - 
 
 - EN 61162-410 (2002) - 410. rész: Több adatforrás, több adatfeldolgozó - A hajórendszerek összekapcsolása - Átviteliprofil-követelmények és bázisátviteli profil
 
+- EN 61162-420 (2002) - 420. rész: Több adatforrás, több adatfeldolgozó - A hajórendszerek összekapcsolása - Kísérőszabvány-követelmények és alapvető kísérőszabványok
+
+- EN 61162-450 (2011) - 450. rész: Több adatforrás, több adatfeldolgozó - Ethernet-kapcsolat
+
 |  | A | B | C | D | E |
 
 |  | Megnevezés | Módosított SOLAS 74-előírás, amennyiben »típus-jóváhagyás« szükséges | Módosított SOLAS 74-előírások, valamint vonatkozó IMO-határozatok és IMO-körlevelek (alkalmazhatóság szerint) | Tesztelési követelmények | A meg- felelőségi vizsgálat moduljai |
@@ -432,7 +438,7 @@ d) EN 61162-400 (2002) - 400. rész: Több adatforrás, több adatfeldolgozó - 
 
 | 18. | Tájoló mentőcsónakokhoz és készenléti mentőcsónakokhoz | - Reg. III/4, - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - Reg. III/34, - IMO Res. MSC.48(66)- (LSA Code) IV, V, - IMO Res. MSC.36(63)- (1994 HSC Code) 8, 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 8, 13. | - ISO 25862 (2009). | B + D B + E B + F G |
 
-| 19. | Útiadat-rögzítő (VDR) | - Reg. V/18, - Reg. V/20, - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - Reg. V/20, - IMO Res. A.694 (17), - IMO Res. A.861 (20), - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13, - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 61996-1 (2008), - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 61996-1 (2007-11), - IEC 62288 Ed.1.0(2008). | B + D B + E B + F G |
+| 19. | Útiadat-rögzítő (VDR) | - Reg. V/18. - Reg. V/20. - Reg. X/3, - IMO Res. MSC.36(63)-(1994 HSC Code) 13, - IMO Res. MSC.97(73)-(2000 HSC Code) 13, | - Reg. V/20. - IMO Res. A.694 (17), - IMO Res. MSC.36(63)-(1994 HSC Code) 13, - IMO Res. MSC.97(73)-(2000 HSC Code) 13, - IMO Res. MSC.191(79), - IMO Res. MSC.333(90). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 61996-1 (2008), - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 61996-1 (2007-11), - IEC 62288 Ed.1.0(2008). | B + D B + E B + F G |
 
 | 20. | Elektronikus térkép és információs rendszer (ECDIS) biztonsági másolattal és raszteres térképmegjelenítő rendszer (RCDS) | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - Reg. V/19, - IMO Res. A.694(17), - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13, - IMO Res. MSC.191(79), - IMO Res. MSC.232(82), - IMO SN.1/Circ.266. [Az ECDIS biztonsági másolattal és az RCDS csak akkor alkalmazhatók, ha az ECDIS rendelkezik ezekkel a funkciókkal. A B modul tanúsítványán fel kell tüntetni, hogy ezen opciók tesztelése megtörtént-e.] | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 61174 (2008), - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 61174 (2008), - IEC 62288 Ed.1.0(2008). | B + D B + E B + F G |
 
@@ -460,7 +466,7 @@ d) EN 61162-400 (2002) - 400. rész: Több adatforrás, több adatfeldolgozó - 
 
 | 32. | Kereső fényszóró nagy sebességű vízi járművekhez | - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - IMO Res. A.694(17), - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - ISO 17884 (2004), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). Vagy: - ISO 17884 (2004), - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). | B + D B + E B + F G |
 
-| 33. | Éjjellátó berendezés nagy sebességű vízi járművekhez | - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - IMO Res. A.694(17), - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.94(72), - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - ISO 16273 (2003), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). Vagy: - ISO 16273 (2003), - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). | B + D B + E B + F G |
+| 33. | Éjjellátó berendezés nagy sebességű vízi járművekhez | - Reg. X/3, - IMO Res. MSC.36(63)-(1994 HSC Code) 13, - IMO Res. MSC.97(73)-(2000 HSC Code) 13, | - IMO Res.A.694(17), - IMO Res. MSC.36(63)-(1994 HSC Code) 13, - IMO Res. MSC.94(72), - IMO Res. MSC.97(73)-(2000 HSC Code) 13, - IMO Res. MSC.191(79). | - ISO 16273 (2003), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 62288 (2008). Vagy: - ISO 16273 (2003), - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 62288 Ed.1.0(2008). | B + D B + E B + F G |
 
 | 34. | Differenciál irányadóvevő DGPS és DGLO-NASS berendezéshez | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - Reg. V/19, - IMO Res. A.694 (17), - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13, - IMO Res. MSC.114(73). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61108-4 (2004), - EN 61162 sorozatok. Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61108-4 (2004), - IEC 61162 sorozatok. | B + D B + E B + F G |
 
@@ -470,7 +476,7 @@ d) EN 61162-400 (2002) - 400. rész: Több adatforrás, több adatfeldolgozó - 
 
 | 37. | Mechanikus révkalauzbeemelő szerkezet | Szándékosan üresen hagyva (mivel a 2012. július 1-jétől hatályba lépő IMO Res. MSC.308(88) értelmében »mechanikus révkalauz-beemelő szerkezetek nem alkalmazhatók«) |
 
-| 38. | Révkalauzhágcsó | - Reg. V/23, - Reg. X/3. | - Reg. V/23, - IMO Res. A.889(21), - IMO MSC/Circ.773. | - IMO Res. A.889(21), - ISO 799 (2004). | B + D B + E B + F G |
+| 38. | Révkalauzhágcsó | - Reg. V/23. - Reg. X/3. | - Reg. V/23. - IMO Res. A.1045(27), - IMO MSC/Circ.773. | - IMO Res.A.1045(27), - ISO 799 (2004) | B + D B + E B + F G |
 
 | 39. | DGPS berendezés | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - Reg. V/19, - IMO Res. A.694 (17), - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13, - IMO Res. MSC.112(73), - IMO Res. MSC.114(73), - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61108-1 (2003), - EN 61108-4 (2004), - EN 61162 sorozatok, - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61108-1 (2003), - IEC 61108-4 (2004), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008). | B + D B + E B + F G |
 
@@ -482,11 +488,13 @@ d) EN 61162-400 (2002) - 400. rész: Több adatforrás, több adatfeldolgozó - 
 
 | 43. | Iránymérő | - Reg. V/18. | - Reg. V/19. | - ISO 25862 (2009), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). Vagy: - ISO 25862 (2009), - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). | B + D B + E B + F G |
 
-| 44. | AIS SART berendezés | - Reg. III/4, - Reg. IV/14. | - Reg. III/6, - Reg. IV/7, - IMO Res. MSC.246(83), - IMO Res. MSC.247(83), - IMO Res. MSC.256(84), - ITU-R M. 1371-4 (2010). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61097-14 (2010), - EN 61162 sorozatok. Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61097-14 (2010), - IEC 61162 sorozatok. | B + D B + E B + F G |
+| 44. | AIS SART berendezés | - Reg. III/4, - Reg. IV/14. | - Reg. III/6, - Reg. IV/7, - IMO Res. MSC.246(83), - IMO Res. MSC.247(83), - IMO Res. MSC.256(84), - ITU-R M. 1371-4(2010). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61097-14 (2010). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61097-14 (2010). | B + D B + E B + F G |
 
 | 45. | Galileo-vevő | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13. | - Reg. V/19, - IMO Res. A.694(17), - IMO Res. A.813(19), - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.97(73)- (2000 HSC Code) 13, - IMO Res. MSC.191(79), - IMO Res. MSC.233(82). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61108-3 (2010), - EN 61162 sorozatok, - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61108-3 (2010), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008). | B + D B + E B + F G |
 
-| 46. | Hídi navigációs őrszolgálati riasztórendszer (BNWAS) | - Reg. V/18. | - IMO Res. A.694(17), - IMO Res. MSC.128(75), - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 62288 (2008), - IEC 62616 (2010). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008), - IEC 62616 (2010). | B + D B + E B + F G |
+| 46. | Hídi navigációs őrszolgálati riasztórendszer (BNWAS) | - Reg. V/18. | - IMO Res. A.694(17), - IMO Res. MSC.128(75), - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 62288 (2008), Vagy: - IEC 62616(2010), benne: IEC 62616 1. helyesbítés (2012). - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008), - IEC 62616(2010), benne: IEC 62616 1. helyesbítés (2012). | B + D B + E B + F G |
+
+| 47. | Hangvevő rendszer | - Reg. V/18. - Reg. X/3, - IMO Res. MSC.36(63)-(1994 HSC Code), - IMO Res. MSC.97(73)-(2000 HSC Code). | - Reg. V/19. - IMO Res. A.694(17), - IMO Res. MSC.36(63)-(1994 HSC Code), - IMO Res. MSC.86(70), - IMO Res. MSC.97(73)-(2000 HSC Code), - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 62288 (2008), - ISO 14859 (2012) Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008), - ISO 14859 (2012) | B + D B + E B + F G |
 
 5. Rádió-hírközlési berendezések
 
@@ -648,7 +656,7 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 4. | Konyhai páraelszívó beépített tűzoltó rendszerének részei | - Reg. II-2/9. | - Reg. II-2/9. |  |  |
 
-| 5. | Helikopterfedélzet tűzoltó rendszerének részei | - Reg. II-2/18. | - Reg. II-2/18. | - EN 13565-1 (2003), benne: A1 (2007). |  |
+| 5. |  |  |  |  |  |
 
 | 6. | Hordozható, habbal oltó készülékek | - Reg. II-2/10, - Reg. II-2/20, - Reg. X/3. | - Reg. II-2/10, - Reg. II-2/20, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 4, - IMO MSC.1/Circ.1239, - IMO MSC.1/Circ.1313. |  |  |
 
@@ -656,7 +664,7 @@ C oszlop: az IMO MSC/980. körlevelét kell alkalmazni, kivéve, amikor azt a C 
 
 | 8. | Beépített, gázzal (CO2) oltó tűzoltó rendszerek részei | - Reg. II-2/10, - Reg. X/3. | - Reg. II-2/10, - Reg. II-2/20, - IMO Res. MSC.36(63)- (1994 HSC Code) 7, - IMO Res. MSC.97(73)- (2000 HSC Code) 7, - IMO Res. MSC.98(73)- (FSS Code) 5, - IMO MSC.1/Circ.1313, - IMO MSC.1/Circ.1318. | Elektromos automatikus vezérlő- és késleltetőberendezések: - EN 12094-1 (2003). Nem elektromos automatikus vezérlő- és késleltetőberendezések: - EN 12094-2 (2003). Kézi indító- és leállítóberendezések: - EN 12094-3 (2003). Tartályok szelepszerelvényei és azok azok indítószerkezetei: - EN 12094-4 (2004). Nagy és kis nyomást elválasztó szelepek és azok indítószerkezetei: - EN 12094-5 (2006). Nem elektromos kikapcsolókészülékek: - EN 12094-6 (2006). CO2-rendszerek szórófejei: - EN 12094-7 (2000), benne: A1 (2005). Csatlakozók: - EN 12094-8 (2006). Nyomásmérők és nyomáskapcsolók: - EN 12094-10 (2003). Mechanikus súlymérő eszközök: - EN 12094-11 (2003). Nyomáshatároló és visszacsapó szelepek: - EN 12094-13 (2001), benne: AC (2002). Szagosítóberendezések kisnyomású CO2-rendszerekhez: - EN 12094-16 (2003). |  |
 
-| 9. | Vízpermetező kézikészülék | - Reg. II-2/10. | - Reg. II-2/10. |  |  |
+| 9. | Vízpermetező kézikészülék | - Reg. II-2/10, - Reg. II-2/19. | - Reg. II-2/10, - Reg. II-2/19. |  |  |
 
 4. Navigációs berendezések
 
@@ -718,11 +726,11 @@ d) EN 61162-400 (2002) - 400. rész: Több adatforrás, több adatfeldolgozó - 
 
 | 1. | Kombinált GPS/GLONASS berendezés | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63)- (-1994 HSC Code), - IMO Res. MSC.97(73)- (-2000 HSC Code). | - Reg. V/19, - IMO Res. A.694(17), - IMO Res. MSC.36(63)- (1994 HSC Code), - IMO Res. MSC.97(73)- (2000 HSC Code), - IMO Res. MSC.115(73), - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61108-1 (2003), - EN 61108-2 (1998), - EN 61162 sorozatok, - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61108-1 (2003), - IEC 61108-2 (1998), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008). |  |
 
-| 2. | Integrált navigációs rendszer | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63)- (1-994 HSC Code) 13, - IMO Res. MSC.97(73)- (2-000 HSC Code) 13. | - Reg. V/19, - IMO Res. A.694(17), - IMO Res. MSC.36(63)- (1994 HSC Code) 13, - IMO Res. MSC.86(70), - IMO Res. MSC.97(73)- (2000 HSC Code) 13, - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 61924 (2006), - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 61924 (2006), - IEC 62288 Ed.1.0(2008). |  |
+| 2. | Integrált navigációs rendszer | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63) -(1994 HSC Code) 13, - IMO Res. MSC.97(73) -(2000 HSC Code) 13. | - Reg. V/19, - IMO Res. A.694(17), - IMO Res. MSC.36(63) -(1994 HSC Code) 13, - IMO Res. MSC.97(73) -(2000 HSC Code) 13, - IMO Res. MSC.191(79), - IMO Res. MSC.252(83). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008). | Integrált navigációs rendszer |
 
 | 3. | Hajóhíd teljes felszerelése | Szándékosan üresen hagyva |
 
-| 4. | Hangvevő rendszer | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63)- (1-994 HSC Code), - IMO Res. MSC.97(73)- (2-000 HSC Code). | - Reg. V/19, - IMO Res. A.694(17), - IMO Res. MSC.36(63)- (1994 HSC Code), - IMO Res. MSC.86(70), - IMO Res. MSC.97(73)- (2000 HSC Code), - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008). |  |
+| 4. |  |  |  |  |  |
 
 | 5. | Mágneses tájoló nagy sebességű vízi járművekhez | - Reg. X/3, - IMO Res. MSC.36(63)- (1-994 HSC Code), - IMO Res. MSC.97(73)- (2-000 HSC Code). | - IMO Res. A.382(X), - IMO Res. A.694(17), - IMO Res. MSC.36(63)- (1994 HSC Code), - IMO Res. MSC.97(73)- (2000 HSC Code). | - ISO 1069 (1973), - ISO 25862 (2009), - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). Vagy: - ISO 1069 (1973), - ISO 25862 (2009), - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008). |  |
 
@@ -734,7 +742,7 @@ d) EN 61162-400 (2002) - 400. rész: Több adatforrás, több adatfeldolgozó - 
 
 | 9. | Hajóhíd teljes felszerelése | - Reg. V/18, - Reg. X/3, - IMO Res. MSC.36(63)- (1-994 HSC Code) 13, - IMO Res. MSC.97(73)- (2-000 HSC Code) 13. | - Reg. V/19, - IMO Res. A.694 (17), - IMO Res. MSC.36(63)- (1994 HSC Code) 15, - IMO Res. MSC.97(73)- (2000 HSC Code) 15, - IMO Res. MSC.191(79), - IMO SN.1/Circ.288. | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 61209 (1999), - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 61209 (1999), - IEC 62288 Ed.1.0(2008). |  |
 
-| 10. | Útvonal-ellenőrző rendszer (a 30 csomó feletti tartományban) | - Reg. V/18, - Reg. X/3. | - Reg. V/19, - IMO Res. A.694 (17), - IMO Res. MSC.36(63)- (1994 HSC Code), - IMO Res. MSC.97(73)- (2000 HSC Code), - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 62288 Ed.1.0(2008). |  |
+| 10. | Útvonal-ellenőrző rendszer (a 30 csomó feletti tartományban) | - Reg. V/18. | - Reg. V/19, - IMO Res. A.694 (17), - IMO Res. MSC.191(79). | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok, - EN 62288 (2008). Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok, - IEC 62288 Ed. 1.0 (2008). |  |
 
 | 11. | Nagy hatótávolságú azonosító és nyomonkövető (LRIT) berendezés | - Reg. V/19. | - Reg. V/19, - IMO Res. A.694(17), - IMO Res. A.813(19), - IMO Res. MSC.202(81), - IMO Res. MSC.211(81), - IMO Res. MSC.263(84), - IMO MSC.1/Circ 1307. | - EN 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - EN 61162 sorozatok. Vagy: - IEC 60945 (2002), benne: IEC 60945 1. helyesbítés (2008), - IEC 61162 sorozatok. |  |
 
@@ -832,7 +840,7 @@ d) EN 61162-400 (2002) - 400. rész: Több adatforrás, több adatfeldolgozó - 
 
 | 1. | Generátorcsoport hideg időjárási körülmények között történő indítására szolgáló berendezések | - Reg. II-1/44, - Reg. X/3. | - Reg. II-1/44, - IMO Res. MSC.36(63)- (1994 HSC Code) 12, - IMO Res. MSC.97(73)- (2000 HSC Code) 12. |  |  |
 
-B) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^33]
+B) melléklet a 11/2002. (II. 6.) KöViM rendelethez[^35]
 
 A megfelelőség tanúsítás moduljai
 
@@ -842,7 +850,7 @@ EK TÍPUSVIZSGÁLATI ELJÁRÁS
 
 1. Az elismert szervezetnek meg kell győződnie arról, hogy a vizsgált gyártási folyamatból vett reprezentatív minta megfelel a vonatkozó nemzetközi dokumentum(ok) rendelkezéseiben előírt követelményeknek.
 
-2.[^34] A típusvizsgálati eljárás lefolytatását a gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles kérelmezni a saját választása szerint kijelölt testületnél.
+2.[^36] A típusvizsgálati eljárás lefolytatását a gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles kérelmezni a saját választása szerint kijelölt testületnél.
 
 A kérelemnek tartalmaznia kell:
 
@@ -878,15 +886,15 @@ Ha a gyártó ismételt típusvizsgálati kérelmet nyújt be olyan esetben, ami
 
 8. Más kijelölt testületek jogosultak megkapni a típusvizsgálati bizonyítványoknak és/vagy azok kiegészítéseinek a másolatát. A bizonyítványok mellékleteit a többi kijelölt testület számára hozzáférhető módon kell tartani.
 
-9.[^35] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles a műszaki dokumentációval együtt típusvizsgálati bizonyítványoknak és azok kiegészítéseinek a másolatait az utolsó termék legyártásától számított tíz éven keresztül megőrizni.
+9.[^37] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles a műszaki dokumentációval együtt típusvizsgálati bizonyítványoknak és azok kiegészítéseinek a másolatait az utolsó termék legyártásától számított tíz éven keresztül megőrizni.
 
 EK TÍPUS-MEGFELELŐSÉGI NYILATKOZAT
 
 (C MODUL)
 
-1.[^36] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a vonatkozó termékek megfeleljenek a megvizsgált típusnak, és kielégítik a vonatkozó hatályos nemzetközi okmányok rendelkezéseiben előírt elvárásokat, továbbá köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani.
+1.[^38] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a vonatkozó termékek megfeleljenek a megvizsgált típusnak, és kielégítik a vonatkozó hatályos nemzetközi okmányok rendelkezéseiben előírt elvárásokat, továbbá köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani.
 
-2.[^37] A gyártó köteles minden szükséges intézkedés megtételével gondoskodni arról, hogy a gyártott termékek megfeleljenek a megvizsgált típusnak, és kielégítsék a vonatkozó hatályos nemzetközi okmányok rendelkezéseiben előírt elvárásokat.
+2.[^39] A gyártó köteles minden szükséges intézkedés megtételével gondoskodni arról, hogy a gyártott termékek megfeleljenek a megvizsgált típusnak, és kielégítsék a vonatkozó hatályos nemzetközi okmányok rendelkezéseiben előírt elvárásokat.
 
 A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles a típus-megfelelőségi nyilatkozat egy másolatát az utolsó termék legyártásától számított tíz éven keresztül megőrizni.
 
@@ -896,7 +904,7 @@ EK TÍPUS-MEGFELELŐSÉGI NYILATKOZAT
 
 (D MODUL)
 
-1.[^38] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
+1.[^40] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
 
 2. A gyártó a gyártási folyamathoz, az utolsó termékellenőrzéshez és a 3. pont rendelkezései szerinti vizsgálathoz köteles jóváhagyott minőségbiztosítási rendszert működtetni, és köteles alávetni magát a 4. pont rendelkezéseiben előírt felügyeleti eljárásoknak.
 
@@ -934,7 +942,7 @@ Az ellenőrzést végző munkacsoport legalább egy olyan taggal kell, hogy rend
 
 A kijelölt testület a gyártót döntéséről köteles tájékoztatni. A tájékoztatásnak tartalmaznia kell a vizsgálat eredményei alapján megállapított következtetéseket és az ellenőrzés eredményeként meghozott, indokokkal alátámasztott döntéseket.
 
-3.4.[^39] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését, és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
+3.4.[^41] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését, és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
 
 A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testületet tájékoztatni.
 
@@ -974,7 +982,7 @@ EK TÍPUS-MEGFELELŐSÉGI NYILATKOZAT
 
 (E MODUL)
 
-1.[^40] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
+1.[^42] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
 
 2. A gyártó az utolsó termékellenőrzéshez és a 3. pont rendelkezései szerinti vizsgálathoz köteles jóváhagyott minőségbiztosítási rendszert működtetni, és köteles alávetni magát a 4. pont rendelkezéseiben előírt felügyeleti eljárásoknak.
 
@@ -1008,7 +1016,7 @@ Az ellenőrzést végző munkacsoport legalább egy olyan taggal kell hogy rende
 
 A kijelölt testület a gyártót döntéséről köteles tájékoztatni. A tájékoztatásnak tartalmaznia kell a vizsgálat eredményei alapján megállapított következtetéseket és az ellenőrzés eredményeként meghozott, indokokkal alátámasztott döntéseket.
 
-3.4.[^41] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
+3.4.[^43] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
 
 A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testület tájékoztatni.
 
@@ -1048,7 +1056,7 @@ EK TÍPUS-MEGFELELŐSÉGI NYILATKOZAT
 
 (F MODUL)
 
-1.[^42] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles ellenőrizni és tanúsítani, hogy a termékek megfelelnek a típus-megfelelőségi elvárásoknak.
+1.[^44] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles ellenőrizni és tanúsítani, hogy a termékek megfelelnek a típus-megfelelőségi elvárásoknak.
 
 2. A gyártó köteles minden szükséges intézkedés megtételével gondoskodni arról, hogy a gyártási folyamat biztosítsa azt, hogy a gyártott termékek megfeleljenek a megvizsgált típusnak a típusvizsgálati bizonyítványban előírtak szerint.
 
@@ -1056,7 +1064,7 @@ A gyártó köteles minden egyes terméken jelölést és írásos típusmegfele
 
 3. A gyártó választása szerinti kijelölt testület köteles vagy a 4. pont rendelkezéseiben meghatározott módon minden egyes termék megvizsgálásával és tesztelésével, vagy az 5. pont rendelkezésekben meghatározott módon statisztikai alapon végrehajtani a megfelelő vizsgálatokat annak ellenőrzése céljából, hogy a termékek megfelelnek-e a nemzetközi okmányokban előírt rendelkezések elvárásainak.
 
-3.1.[^43] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles az utolsó termék gyártásától számított 10 éven keresztül megőrizni a megfelelőségi nyilatkozat egy példányát.
+3.1.[^45] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles az utolsó termék gyártásától számított 10 éven keresztül megőrizni a megfelelőségi nyilatkozat egy példányát.
 
 4. Minden egyes termék megvizsgálása
 
@@ -1064,7 +1072,7 @@ A gyártó köteles minden egyes terméken jelölést és írásos típusmegfele
 
 4.2. A kijelölt testület köteles felhelyezni vagy felhelyeztetni azonosító jelét minden egyes jóváhagyott termékre, és írásos megfelelőségi bizonyítványt kiállítani a lefolytatott vizsgálatokkal kapcsolatosan.
 
-4.3.[^44] A gyártó vagy annak Magyarorzág területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványt átadni.
+4.3.[^46] A gyártó vagy annak Magyarorzág területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványt átadni.
 
 5. Statisztikai ellenőrzés
 
@@ -1078,13 +1086,13 @@ Ha egy sorozatot elutasítanak, a kijelölt testületnek vagy az illetékes igaz
 
 A gyártó a kijelölt testület helyett a gyártási folyamat során felhelyezheti a kijelölt testület azonosító jelét.
 
-5.4.[^45] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványokat átadni.
+5.4.[^47] A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője köteles gondoskodni arról, hogy a lobogó szerinti állam igazgatásának felkérésére képes legyen a kijelölt testület által kibocsátott megfelelőségi bizonyítványokat átadni.
 
 EGYEDI TERMÉKELLENŐRZÉSI EK ELJÁRÁS
 
 (G MODUL)
 
-1.[^46] A gyártó köteles gondoskodni arról, hogy a vonatkozó 2. pont rendelkezései szerinti bizonyítvánnyal ellátott termék kielégíti a vonatkozó nemzetközi okmányok rendelkezéseiben előírt elvárásokat. A gyártó vagy annak Magyarország területén letelepedett, engedéllyel rendelkező képviselője köteles a terméket jelöléssel ellátni, és a termékhez megfelelőségi nyilatkozatot kiállítani.
+1.[^48] A gyártó köteles gondoskodni arról, hogy a vonatkozó 2. pont rendelkezései szerinti bizonyítvánnyal ellátott termék kielégíti a vonatkozó nemzetközi okmányok rendelkezéseiben előírt elvárásokat. A gyártó vagy annak Magyarország területén letelepedett, engedéllyel rendelkező képviselője köteles a terméket jelöléssel ellátni, és a termékhez megfelelőségi nyilatkozatot kiállítani.
 
 2. Az elismert szervezet köteles megvizsgálni az egyedi terméket, és lefolytatni a megfelelő vizsgálatokat annak ellenőrzése céljából, hogy a termék kielégíti-e a nemzetközi okmányok rendelkezéseiben előírt elvárásokat.
 
@@ -1096,7 +1104,7 @@ TELJES EK MINŐSÉGBIZTOSÍTÁS
 
 (H MODUL)
 
-1.[^47] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
+1.[^49] A 2. pont rendelkezéseiben előírt kötelezettségeit teljesítő gyártó köteles gondoskodni arról, hogy a termékek megfeleljenek a típus-megfelelőségi elvárásoknak, és köteles erről nyilatkozatot tenni. A gyártó vagy annak Magyarország területén letelepedett, engedéllyel rendelkező képviselője köteles minden egyes terméken jelölést elhelyezni és írásos típus-megfelelőségi nyilatkozatot kiállítani. A jelölés mellett fel kell tüntetni a 4. pont rendelkezései szerinti felügyelet ellátásáért felelős elismert szervezet azonosító jelét.
 
 2. A gyártó a gyártási folyamathoz, az utolsó termékellenőrzéshez és a 3. pont rendelkezései szerinti vizsgálathoz köteles jóváhagyott minőségbiztosítási rendszert működtetni és köteles alávetni magát a 4. pont rendelkezéseiben előírt felügyeleti eljárásoknak.
 
@@ -1136,7 +1144,7 @@ Az ellenőrzést végző munkacsoport legalább egy olyan taggal kell, hogy rend
 
 A kijelölt testület a gyártót döntéséről köteles tájékoztatni. A tájékoztatásnak tartalmaznia kell a vizsgálat eredményei alapján megállapított következtetéseket és az ellenőrzés eredményeként meghozott indokokkal alátámasztott döntéseket.
 
-3.4.[^48] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
+3.4.[^50] A gyártó köteles vállalni a jóváhagyott minőségbiztosítási rendszer működtetéséből származó kötelezettségeinek a teljesítését és köteles a minőségbiztosítási rendszer megfelelőségét és hatékonyságát fenntartani.
 
 A gyártó vagy annak Magyarország területén belül letelepedett, engedéllyel rendelkező képviselője az általa alkalmazott minőségbiztosítási rendszer minden szándékozott frissítéséről köteles a jóváhagyó kijelölt testületet tájékoztatni.
 
@@ -1232,25 +1240,26 @@ A jelölés különféle elemeinek lényegileg ugyanolyan függőleges méretez�
 
 Kis méretű felszerelések esetében a minimális méretkorlátozástól el lehet tekinteni.
 
-[^27]: A 14. § a 65/2009. (XI. 26.) KHEM rendelet 7. §-ával megállapított szöveg.
-[^28]: A 14. § (1) bekezdése a 24/2010. (III. 25.) KHEM rendelet 3. §-ával megállapított szöveg.
-[^29]: A 14. § (1) bekezdés 7. pontját a 90/2011. (XII. 30.) NFM rendelet 3. §-a iktatta be.
-[^30]: A 14. § (1) bekezdés 8. pontját a 26/2013. (VI. 3.) NFM rendelet 6. § (1) bekezdése iktatta be.
-[^31]: A 14. § (1) bekezdés 9. pontját a 26/2013. (VI. 3.) NFM rendelet 6. § (2) bekezdése iktatta be.
-[^32]: Az A) mellékletet a 65/2009. (XI. 26.) KHEM rendelet 8. § (2) bekezdése hatályon kívül helyezte, újonnan a 26/2013. (VI. 3.) NFM rendelet 5. § (1) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^33]: A B) melléklet a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
-[^34]: A B) melléklet (B MODUL) rész 2. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^35]: A B) melléklet (B MODUL) rész 9. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^36]: A B) melléklet (C MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^37]: A B) melléklet (C MODUL) rész 2. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^38]: A B) melléklet (D MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^39]: A B) melléklet (D MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^40]: A B) melléklet (E MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^41]: A B) melléklet (E MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^42]: A B) melléklet (F MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^43]: A B) melléklet (F MODUL) rész 3. pont 3.1. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^44]: A B) melléklet (F MODUL) rész 4. pont 4.3. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^45]: A B) melléklet (F MODUL) rész 5. pont 5.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^46]: A B) melléklet (G MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^47]: A B) melléklet (H MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
-[^48]: A B) melléklet (H MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^28]: A 14. § a 65/2009. (XI. 26.) KHEM rendelet 7. §-ával megállapított szöveg.
+[^29]: A 14. § (1) bekezdése a 24/2010. (III. 25.) KHEM rendelet 3. §-ával megállapított szöveg.
+[^30]: A 14. § (1) bekezdés 7. pontját a 90/2011. (XII. 30.) NFM rendelet 3. §-a iktatta be.
+[^31]: A 14. § (1) bekezdés 8. pontját a 26/2013. (VI. 3.) NFM rendelet 6. § (1) bekezdése iktatta be.
+[^32]: A 14. § (1) bekezdés 9. pontját a 26/2013. (VI. 3.) NFM rendelet 6. § (2) bekezdése iktatta be.
+[^33]: A 14. § (1) bekezdés 10. pontját a 33/2015. (VI. 24.) NFM rendelet 2. § (1) bekezdése iktatta be.
+[^34]: Az A) mellékletet a 65/2009. (XI. 26.) KHEM rendelet 8. § (2) bekezdése hatályon kívül helyezte, újonnan a 26/2013. (VI. 3.) NFM rendelet 5. § (1) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 5. § (2) bekezdésével megállapított, a 33/2015. (VI. 24.) NFM rendelet 3. § (1) bekezdése és 4. § a)–b), e) és g) pontja szerint módosított szöveg.
+[^35]: A B) melléklet a 82/2003. (XII. 10.) GKM rendelet 7. §-a szerint módosított szöveg.
+[^36]: A B) melléklet (B MODUL) rész 2. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^37]: A B) melléklet (B MODUL) rész 9. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^38]: A B) melléklet (C MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^39]: A B) melléklet (C MODUL) rész 2. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^40]: A B) melléklet (D MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^41]: A B) melléklet (D MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^42]: A B) melléklet (E MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^43]: A B) melléklet (E MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^44]: A B) melléklet (F MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^45]: A B) melléklet (F MODUL) rész 3. pont 3.1. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^46]: A B) melléklet (F MODUL) rész 4. pont 4.3. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^47]: A B) melléklet (F MODUL) rész 5. pont 5.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^48]: A B) melléklet (G MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^49]: A B) melléklet (H MODUL) rész 1. pontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
+[^50]: A B) melléklet (H MODUL) rész 3. pont 3.4. alpontja a 91/2011. (XII. 30.) NFM rendelet 23. §-a szerint módosított szöveg.
