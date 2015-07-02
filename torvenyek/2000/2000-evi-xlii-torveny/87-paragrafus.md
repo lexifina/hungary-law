@@ -16,6 +16,8 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 
+4a. fejlesztési közreműködő: központi költségvetési és európai uniós támogatásból az állam tulajdonában lévő víziút, meder, parton lévő létesítmény és kapcsolódó ingatlanok, továbbá az országos közforgalmú kikötők létesítését, felújítását és fejlesztését, valamint ezekkel összefüggő úszólétesítmény- és egyéb eszközbeszerzéseket és -felújításokat célzó projektjavaslatok megvalósítójaként kormányhatározatban kijelölt NIF Zrt.;
+
 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;
 
 5a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
@@ -118,4 +120,6 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 50. magyar jogszabály által kihirdetett, polgári jogi felelősségre vonatkozó nemzetközi egyezmény: az olajszennyezéssel okozott károk megtérítésére szolgáló nemzetközi alap létrehozataláról szóló 1992. évi egyezmény és az olajszennyezéssel okozott károk megtérítésére szolgáló nemzetközi alap létrehozataláról szóló 1992. évi egyezményhez elfogadott 2003. évi jegyzőkönyv, valamint az olajszennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 1992. évi egyezmény kihirdetéséről szóló 2007. évi IX. törvény, a Londonban, 2001. március 23-án kelt, a bunkerolaj-szennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 2001. évi nemzetközi egyezmény kihirdetéséről szóló 2007. évi CLXV. törvény; a Londonban, 1996. május 3-án kelt, a veszélyes és ártalmas anyagok tengeri szállításával kapcsolatos felelősségről és kártérítésről szóló 1996. évi nemzetközi egyezmény kihirdetéséről szóló 2008. évi XXIII. törvény;
 
-51. Európai Unió baleseti biztosításra vonatkozó kötelező erejű jogi aktusa: a tengeri utasszállítók baleseti felelősségéről szóló, 2009. április 23-i 392/2009/EK európai parlamenti és tanácsi rendelet.
+51. Európai Unió baleseti biztosításra vonatkozó kötelező erejű jogi aktusa: a tengeri utasszállítók baleseti felelősségéről szóló, 2009. április 23-i 392/2009/EK európai parlamenti és tanácsi rendelet;
+
+52. átadás-átvétel fordulónapja: a létrehozott, illetve megszerzett eszközök műszaki átadás-átvételének napja, vagy engedélyköteles tevékenység alapján létrehozott, illetve megszerzett eszköz esetén a használatbavételi, üzemeltetési engedély jogerőre emelkedésének napja.
