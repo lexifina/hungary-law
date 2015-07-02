@@ -1,3 +1,1 @@
-7. § Az Eüak. 30. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás kiszolgáltatója, illetve nyújtója a vényeket 5 évig őrzi meg, azzal, hogy ha a működési nyilvántartásban nem szereplő, de valamely államban gyógyszer rendelésére jogosult személy által rendelt vényköteles gyógyszer kiadásának alapjául szolgáló külföldi vény visszaadásra kerül, a vény másolatát kell megőrizni és az expediálás tényét a vény eredeti példányán fel kell tüntetni. Gyógyászati segédeszköz szaküzletben kiszolgáltatott olyan gyógyászati segédeszköz esetén, amelynek kihordási ideje 5 évnél hosszabb, a vény megőrzési ideje a kihordási idővel azonos. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.”
+7. §
