@@ -22,7 +22,7 @@
 
 ## 8. „A javítóvizsgán teljesített vizsgafeladatok, vizsgafeladatrészek alapján ....................................................... részszakképesítést igazoló bizonyítványt kapott.”
 
-4. melléklet a 315/2013. (VIII. 28.) Korm. rendelethez[^7]
+4. melléklet a 315/2013. (VIII. 28.) Korm. rendelethez[^9]
 
 EUROPASS BIZONYÍTVÁNY-KIEGÉSZÍTŐ (*)-
 
@@ -80,4 +80,4 @@ A szakember képes:
 
 | A vizsgaszervező vezetője: Kiállítás dátuma: | P. H. |
 
-[^7]: A 4. melléklet a 318/2014. (XII. 13.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^9]: A 4. melléklet a 318/2014. (XII. 13.) Korm. rendelet 23. §-a szerint módosított szöveg.
