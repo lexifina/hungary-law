@@ -1,4 +1,4 @@
-## 49. §[^1]
+## 49. §[^2]
 
 1. melléklet a 33/2015. (VI. 16.) BM rendelethez
 
@@ -6,4 +6,4 @@
 
 Általános rendőrségi feladatok ellátására létrehozott szervnél:
 
-[^1]: A 49. § a 46. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^2]: A 49. § a 46. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
