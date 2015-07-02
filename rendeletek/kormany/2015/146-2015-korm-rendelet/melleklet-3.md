@@ -476,4 +476,6 @@
 
 | 237 | Zala | Szakács (34-811-04) | 12 |
 
-3. melléklet a 146/2015. (VI. 12.) Korm. rendelethez
+3–5. melléklet a 146/2015. (VI. 12.) Korm. rendelethez[^2]
+
+[^2]: A 3–5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
