@@ -1,1 +1,0 @@
-## „(12) A szakképzés megkezdése előtt magyarországi egészségügyi szolgáltatónál teljesített gyakorlati idő a szakképzésbe beszámítható. A külföldön töltött gyakorlati idő beszámításánál a (6) és a (7) bekezdésben foglaltakat kell alkalmazni.”
