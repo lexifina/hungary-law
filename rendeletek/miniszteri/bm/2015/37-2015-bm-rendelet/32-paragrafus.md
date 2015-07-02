@@ -1,1 +1,0 @@
-## „(5) A fegyelmi jogkör gyakorlója a személyes meghallgatás befejezésekor közli az eljárás alá vonttal, hogy az eljárást megszünteti, póteljárásra utalja vagy öt napon belül az ügyet érdemben elbírálja.”

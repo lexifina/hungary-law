@@ -1,3 +1,0 @@
-## 89. § Hatályát veszti a belügyminiszter irányítása alá tartozó szervek, valamint az önkormányzati tűzoltóság szolgálati viszonyban álló tagjai szolgálati viszonyának egyes kérdéseiről és a személyügyi igazgatás rendjéről szóló 9/1997. (II. 12.) BM rendelet módosításáról szóló 14/2001. (VI. 29.) BM rendelet.
-
-## 33. A belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet módosításáról szóló 31/2003. (VII. 18.) BM rendelet hatályon kívül helyezése

@@ -1,3 +1,0 @@
-## 81. § A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény végrehajtásáról szóló 75/2013. (XII. 18.) BM rendelet 1. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) E rendelet hatálya nem terjed ki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló kormányrendelet alapján a rendvédelmi feladatokat ellátó szerv országos parancsnoka vagy országos főigazgatója részére vezetői juttatásként biztosított hivatali lakás használatára.”

@@ -1,3 +1,0 @@
-## 83. § A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény végrehajtásáról 75/2013. (XII. 18.) BM rendelet 9. § (9) bekezdésében a „fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény” szövegrész helyébe a „rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény” szöveg lép.
-
-## 28. Az általános rendőrségi feladatok ellátására létrehozott szerv szakértői és bűnügyi technikai feladatokat ellátó szervénél foglalkoztatott igazságügyi alkalmazottak részére adható szociális támogatásról és a kegyeleti gondoskodással kapcsolatos egyes feladatokról szóló 17/2014. (II. 28.) BM rendelet módosítása

@@ -1,3 +1,0 @@
-## szöveg lép.
-
-## 24. A belügyminiszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről, valamint egyes, szakmai és vizsgakövetelmények kiadásáról szóló miniszteri rendeletek hatályon kívül helyezéséről szóló 20/2013. (V. 28.) BM rendelet módosítása

@@ -1,3 +1,0 @@
-## 90. § Hatályát veszti a belügyi szervek rendelkezésében lévő, lakásnak nem minősülő szállóférőhelyek, lakóegységek használatáról, valamint a bérleti, albérleti díj hozzájárulás szabályairól szóló 40/2000. (XII. 12.) BM rendelet módosításáról szóló 31/2003. (VII. 18.) BM rendelet.
-
-## 34. A fegyveres szervek hivatásos, közalkalmazotti és köztisztviselői állományának munkaköri egészségi, pszichikai és fizikai alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint a belügyi egészségügyi szolgálat igénybevételéről szóló 21/2000. (VIII. 23.) BM–IM–TNM együttes rendelet módosításáról szóló 2/2005. (I. 21.) BM–IM–MeHVM együttes rendelet hatályon kívül helyezése
