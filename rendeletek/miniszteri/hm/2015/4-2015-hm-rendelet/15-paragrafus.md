@@ -1,1 +1,0 @@
-## „(6a) A Hjt. 123. § (4) bekezdés d) és e) pontjában meghatározott felsővezetői szolgálati beosztások, valamint a vezénylő zászlósi beosztások besorolását a 4. melléklet A) pont II. és III. pontjához tartozó táblázat alapján a munkaköri jegyzékben, valamint az 5. melléklet A) és B) pontjához tartozó táblázat alapján az állománytáblában kell megjeleníteni.”

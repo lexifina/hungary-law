@@ -1,1 +1,0 @@
-## „(5) A 2. mellékletben a pszichikai alkalmassági követelmények, valamint a fegyvernemi és a munkaköri korlátozások meghatározására használt kódokra és rövidítésekre a honvédek egészségi, pszichikai és fizikai alkalmasságáról szóló jogszabályt kell alkalmazni.”
