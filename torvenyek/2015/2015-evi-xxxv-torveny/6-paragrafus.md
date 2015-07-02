@@ -1,5 +1,3 @@
 ## 4. Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény módosítása
 
-6. § Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény 3. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A NEBEK az egyes európai uniós jogi aktusokban rögzített bűnügyi, illetve rendészeti tárgyú együttműködés keretében történő információcsere során a biometrikus azonosítók egyértelmű egyezést eredményező automatikus találati adathozzáférése nyomán követendő eljárásban központi kapcsolattartó pontként jár el a nyomozó hatóság, a terrorizmust elhárító szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv által kezdeményezett, személyazonossággal kapcsolatos adatok beszerzése iránti megkereséseinek az együttműködő tagállam felé való továbbításában, illetve az együttműködő tagállam ilyen megkereséseinek a bűnügyi és rendészeti biometrikus adatok nyilvántartásának vezetéséért felelős szakértői nyilvántartó szerv felé való továbbításában.”
+6–7. §
