@@ -1,4 +1,4 @@
-16. § (1)[^54] A saját jogú ellenőrzés lefolytatására az állami hulladékgazdálkodást közvetítő szervezettel munkaviszonyban álló személy, az ellenőrzésben közreműködésre – egyedi meghatalmazás alapján – az állami hulladékgazdálkodást közvetítő szervezettel szerződéses jogviszonyban álló személy jogosult. A közreműködő önálló ellenőrzési cselekményt nem végezhet.
+16. § (1)[^54] A saját jogú ellenőrzés lefolytatására az állami hulladékgazdálkodást közvetítő szervezet munkaviszonyban álló személy, az ellenőrzésben közreműködésre – egyedi meghatalmazás alapján – az állami hulladékgazdálkodást közvetítő szervezet szerződéses jogviszonyban álló személy jogosult. A közreműködő önálló ellenőrzési cselekményt nem végezhet.
 
 (2)[^55] Az állami hulladékgazdálkodást közvetítő szervezet a saját jogú ellenőrzéshez – az egyedi megállapodásban meghatározottak szerint – kérheti hatóság, illetve szakértő közreműködését.
 
@@ -6,7 +6,7 @@
 
 (4) A megbízólevél legalább az alábbi adatokat tartalmazza:
 
-a)[^57] az állami hulladékgazdálkodást közvetítő szervezet megnevezését, az ellenőrzés elrendelésére jogosult aláírását, valamint az állami hulladékközvetítő szervezet adatait, bélyegzőlenyomatát,
+a)[^57] az állami hulladékgazdálkodást közvetítő szervezet megnevezését, az ellenőrzés elrendelésére jogosult aláírását, valamint az állami hulladékgazdálkodási szervezet adatait, bélyegzőlenyomatát,
 
 b) az ellenőrzött szervezet megnevezését, székhelyét, adóazonosító számát,
 

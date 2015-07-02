@@ -1,4 +1,4 @@
-7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^127]
+7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^128]
 
 1. A termékdíj raktár nyilvántartásának adattartalma
 
@@ -54,13 +54,13 @@ A termékdíjköteles termék:
 
 1.2.3. a gyártási tevékenység és a felhasznált anyagok rövid leírása;
 
-1.2.4.[^128] anyagmérleg, amely pontosan bemutatja a gyártáshoz, feldolgozáshoz, újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, illetve a létrejött termékdíjköteles termék mennyiségét és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét (anyagnormáját);
+1.2.4.[^129] anyagmérleg, amely pontosan bemutatja a gyártáshoz, feldolgozáshoz, újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, illetve a létrejött termékdíjköteles termék mennyiségét és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét (anyagnormáját);
 
-1.3.[^129] kiszállításának adatai:
+1.3.[^130] kiszállításának adatai:
 
-1.3.1.[^130] kiszállítás napja;
+1.3.1.[^131] kiszállítás napja;
 
-1.3.2.[^131] a kiszállítás oka (forgalomba hozatal belföldre, kiszállítás külföldre, saját célú felhasználás) vagy az újrahasználható csomagolószer bérbe adása;
+1.3.2.[^132] a kiszállítás oka (forgalomba hozatal belföldre, kiszállítás külföldre, saját célú felhasználás) vagy az újrahasználható csomagolószer bérbe adása;
 
 1.3.3. értékesítés esetén a vevő adatai (név, cím, belföldi vagy közösségi adószám, ha a vevő adószámmal rendelkezik);
 
@@ -80,7 +80,7 @@ A termékdíjköteles termék:
 
 1.3.7. a termékdíj-kötelezettség keletkezésének napja vagy ennek hiányában a kötelezettség megszűnésének napja és pontos jogszabályi helyének megjelölése.
 
-1.4.[^132] ideiglenes kiadásának adatai:
+1.4.[^133] ideiglenes kiadásának adatai:
 
 1.4.1. ideiglenes kiadás napja;
 
@@ -102,7 +102,7 @@ A termékdíjköteles termék:
 
 2.2. Abban az esetben, ha a termékdíj raktárban tárolt terméket a termékdíj raktározási eljárás alatt értékesítették, az engedélyes köteles az értékesítés tényét a termékdíj raktár nyilvántartásába bejegyezni és a továbbiakban a termék tulajdonosa jogosult a termékdíjköteles termék kiszállítására.
 
-2.3.[^133] Egyik termékdíj raktárból egy másik termékdíj raktárba történő áttárolás abban az esetben végezhető, ha az áttárolás során a tulajdonjogban változás nem következik be.
+2.3.[^134] Egyik termékdíj raktárból egy másik termékdíj raktárba történő áttárolás abban az esetben végezhető, ha az áttárolás során a tulajdonjogban változás nem következik be.
 
 3. A termékdíj raktárban végezhető szokásos kezelési módok listája
 
@@ -122,7 +122,7 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 3.7. a termékek megosztása vagy méretre vágása, ha csak egyszerű műveletekről van szó;
 
-3.8.[^134] csomagolás létrehozása, kicsomagolás, a csomagolás megváltoztatása, lefejtés, szállítótartályokba történő egyszerű áthelyezés, jelzések, pecsétek, címkék, árcédulák vagy más hasonló megkülönböztető jelek rögzítése, eltávolítása és megváltoztatása;
+3.8.[^135] csomagolás létrehozása, kicsomagolás, a csomagolás megváltoztatása, lefejtés, szállítótartályokba történő egyszerű áthelyezés, jelzések, pecsétek, címkék, árcédulák vagy más hasonló megkülönböztető jelek rögzítése, eltávolítása és megváltoztatása;
 
 3.9. gépek, berendezések és járművek tesztelése, beállítása, beszabályozása és üzembe helyezése, különösen a műszaki szabványoknak való megfelelés ellenőrzése végett, ha csak egyszerű műveletekről van szó.
 
@@ -158,7 +158,7 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 4.3.4. összesített mennyisége,
 
-4.3.5.[^135] a kiszállítás oka jogcíme:
+4.3.5.[^136] a kiszállítás oka jogcíme:
 
 | B01 | belföldi forgalomba hozatal termékdíj megfizetésével |
 
@@ -214,12 +214,12 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 4.4.4. mennyisége.
 
-[^127]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 529/2013. (XII. 30.) Korm. rendelet 12. § (8) bekezdése iktatta be.
-[^128]: A 7. melléklet 1. pont 1.2.4. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^129]: A 7. melléklet 1. pont 1.3. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^130]: A 7. melléklet 1. pont 1.3.1. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^131]: A 7. melléklet 1. pont 1.3.2. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^132]: A 7. melléklet 1. pont 1.4. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^133]: A 7. melléklet 2. pont 2.3. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^134]: A 7. melléklet 3. pont 3.8. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^135]: A 7. melléklet 4. pont 4.3.5. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^128]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 529/2013. (XII. 30.) Korm. rendelet 12. § (8) bekezdése iktatta be.
+[^129]: A 7. melléklet 1. pont 1.2.4. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^130]: A 7. melléklet 1. pont 1.3. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^131]: A 7. melléklet 1. pont 1.3.1. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^132]: A 7. melléklet 1. pont 1.3.2. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^133]: A 7. melléklet 1. pont 1.4. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^134]: A 7. melléklet 2. pont 2.3. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^135]: A 7. melléklet 3. pont 3.8. alpotja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^136]: A 7. melléklet 4. pont 4.3.5. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
