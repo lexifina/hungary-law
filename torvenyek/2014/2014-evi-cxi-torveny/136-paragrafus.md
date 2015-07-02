@@ -1,1 +1,0 @@
-136. § Nem lép hatályba az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvény 34. §-a, 36. §-a, 42. §-a, 47. §-a, 50. §-a, 53. §-a, 56. § l) pontja, továbbá 57. § f) és i) pontja.
