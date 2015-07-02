@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-7-00-00
 | 2015-04-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-7-00-00.3 |
 | 2015-04-12 | 2010. évi CXXX. törvény | 2015-7-00-00.4 |
 | 2015-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-7-00-00.5 |
+| 2015-07-02 | 2010. évi CXXX. törvény | 2015-7-00-00.6 |
