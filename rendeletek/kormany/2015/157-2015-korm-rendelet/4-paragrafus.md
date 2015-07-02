@@ -1,3 +1,5 @@
-## 3. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 6. § (4) bekezdésében a „fegyveres szervek hivatásos, szerződéses, kormánytisztviselő és közalkalmazott állománya tekintetében a fegyveres szervek állományában” szövegrész helyébe a „Magyar Honvédség vagy a rendvédelmi feladatokat ellátó szervek hivatásos, szerződéses, kormányzati szolgálati jogviszonyban, közszolgálati és közalkalmazotti jogviszonyban álló állománya tekintetében a Magyar Honvédség vagy a rendvédelmi feladatokat ellátó szervek állományában” szöveg lép.
+## 2–3. §[^2]
 
 ## 3. A munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló 39/1998. (III. 4.) Korm. rendelet módosítása
+
+[^2]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

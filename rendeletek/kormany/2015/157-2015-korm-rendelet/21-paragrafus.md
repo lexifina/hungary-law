@@ -1,3 +1,5 @@
-## 20. § A polgári légiközlekedés védelmének szabályairól és a Légiközlekedés Védelmi Bizottság jogköréről, feladatairól és működésének rendjéről szóló 169/2010. (V. 11.) Korm. rendelet 3. § (2) bekezdés b) pontjában a „fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló törvény hatálya alá tartozó személy” szövegrész helyébe a „miniszter irányítása alatt álló rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja” szöveg lép.
+## 20. §[^12]
 
 ## 12. A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet módosítása
+
+[^12]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
