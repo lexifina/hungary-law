@@ -1,4 +1,4 @@
-5. § (1)[^3] Elismerés adományozására a következő alkalmakból kerül sor:
+5. § (1)[^8] Elismerés adományozására a következő alkalmakból kerül sor:
 
 a) március 15-i nemzeti ünnep,
 
@@ -32,4 +32,4 @@ k) kiemelkedő szakmai alkalom, esemény, évforduló.
 
 (6) A Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján közzé kell tenni az elismerés tényét, az elismerésben részesített nevét, beosztását és érdemeit, az elismerés megnevezését, továbbá az elismerés esetleges visszavonásának tényét és időpontját.
 
-[^3]: Az 5. § (1) bekezdése a 41/2014. (X. 15.) NFM rendelet 3. §-ával megállapított szöveg.
+[^8]: Az 5. § (1) bekezdése a 41/2014. (X. 15.) NFM rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-20/A. §[^5] (1) A Fogyasztóvédelemért Érdemérem
+20/A. §[^11] (1) A Fogyasztóvédelemért Érdemérem
 
 a) a fogyasztóvédelem területén végzett tartósan magas színvonalú szakmai tevékenység vagy kiemelkedő életút, vagy
 
@@ -12,4 +12,4 @@ elismeréseként adományozható.
 
 (4) Az érem a Fogyasztóvédelmi Világnap (március 15.), az október 23-i nemzeti ünnep és kiemelkedő szakmai alkalom, esemény, évforduló alkalmából adományozható.
 
-[^5]: A 20/A. §-t a 41/2014. (X. 15.) NFM rendelet 5. §-a iktatta be.
+[^11]: A 20/A. §-t a 41/2014. (X. 15.) NFM rendelet 5. §-a iktatta be.

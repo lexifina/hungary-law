@@ -10,7 +10,9 @@ c) a Kiváló Bányász kitüntető cím esetében a szakma reprezentatív munka
 
 d) a Gyimesi Zoltán-díj esetében az OAH főigazgatója és az OAH Tudományos Tanácsának elnöke együttesen,
 
-e)[^2] a Fogyasztóvédelemért Érdemérem esetében a fogyasztóvédelemért felelős miniszter vezetése alatt álló minisztérium szervezeti és működési szabályzatában kijelölt szakmai vezető.
+e)[^6] a Fogyasztóvédelemért Érdemérem esetében a fogyasztóvédelemért felelős miniszter vezetése alatt álló minisztérium szervezeti és működési szabályzatában kijelölt szakmai vezető,
+
+f)[^7] a Mattyók Aladár-díj esetében az állami vagyon felügyeletéért és az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter vezetése alatt álló minisztérium szervezeti és működési szabályzatában kijelölt állami vezető útján az állam vagy helyi önkormányzat többségi befolyása alatt álló, a sport infrastruktúra-fejlesztéssel foglalkozó, illetve sportrendezvényeket lebonyolító gazdasági társaságok vezetői, az országos sportági szakszövetségek elnökei.
 
 (3) Az elismerés adományozására vonatkozó javaslatot az elismerés adományozásának tervezett időpontja előtt legalább 45 nappal a miniszternek címezve – az 1. melléklet szerinti formai és tartalmi követelmények szerint – kell benyújtani a minisztérium elismeréshez kapcsolódó szakterületért felelős önálló szervezeti egységénél.
 
@@ -30,4 +32,5 @@ d) jogi ügyekért felelős főosztályának vezetője.
 
 (7) A Kitüntetési Bizottság működését ügyrend szabályozza.
 
-[^2]: A 3. § (2) bekezdés e) pontját a 41/2014. (X. 15.) NFM rendelet 2. §-a iktatta be.
+[^6]: A 3. § (2) bekezdés e) pontját a 41/2014. (X. 15.) NFM rendelet 2. §-a iktatta be.
+[^7]: A 3. § (2) bekezdés f) pontját a 36/2015. (VI. 29.) NFM rendelet 3. §-a iktatta be.
