@@ -1,1 +1,1 @@
-9. § Hatályát veszti a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2013. évi CX. törvény.
+9. §
