@@ -1,1 +1,3 @@
-## 9. § Hatályát veszti az R. 3. § (1) bekezdés i) pont ie) alpontja.
+## 1–9. §[^2]
+
+[^2]: Az 1–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
