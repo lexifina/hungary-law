@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-529-20-
 | 2014-01-03 | 2013-529-20-22.3 | 2010: CXXX. törvény |
 | 2014-07-01 | 2013-529-20-22.4 | 41/2014. (II. 24.) Korm. rendelet |
 | 2014-07-02 | 2013-529-20-22.5 | 2010: CXXX. törvény |
+| 2015-07-02 | 2013-529-20-22.6 | 2010: CXXX. törvény |

@@ -1,3 +1,3 @@
 8. melléklet az 529/2013. (XII. 30.) Korm. rendelethez[^27]
 
-[^27]: A 8. melléklet a 2010. CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
