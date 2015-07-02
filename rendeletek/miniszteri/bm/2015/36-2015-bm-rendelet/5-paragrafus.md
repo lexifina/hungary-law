@@ -1,5 +1,0 @@
-## 4. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 86. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(4) A szolgálati beosztásból felfüggesztésnek a Hszt. 199. § (3) bekezdése alapján történő meghosszabbításáról a fegyelmi jogkör gyakorlója dönt.
-
-## (5) A beosztásból történt felfüggesztés indokoltságát az ügy vizsgálója folyamatosan figyelemmel kíséri, és ha az indokolttá vált, javaslatot tesz a megszüntetésre a fegyelmi jogkör gyakorlójának. A beosztásból történő felfüggesztésnek a Hszt. 199. § (5) bekezdése szerinti megszüntetése esetén a felfüggesztés megszüntetésével egyidejűleg, az eljárás alá vont – eredeti besorolása és illetménye meghagyása mellett – vezényléssel az állományilletékes parancsnok irányítása alá tartozó szervnél, ennek hiányában a rendvédelmi szerv más szervezeti egységénél levő másik – a besorolási osztályának és besorolási kategóriájának megfelelő, ha erre nincs lehetőség, alacsonyabb – szolgálati beosztásban foglalkoztatható az eljárás befejezéséig.”

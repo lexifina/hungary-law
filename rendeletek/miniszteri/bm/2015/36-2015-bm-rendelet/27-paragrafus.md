@@ -1,3 +1,0 @@
-## 26. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet 59. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az Országgyűlési Őrségnél – a hivatásos állomány tagjának, illetve a hivatásos állományból nyugállományba helyezett tagjának (a továbbiakban együtt: személyi állomány) adható szociális, kegyeleti, illetve lakhatási támogatással kapcsolatos feladatok körültekintő végrehajtásának elősegítésére – véleményező és javaslattevő jogkörrel az Országgyűlési Őrség parancsnoka mellett működő szociális bizottságot kell létrehozni.”
