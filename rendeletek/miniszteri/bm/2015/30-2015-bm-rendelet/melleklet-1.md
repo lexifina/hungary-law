@@ -1,4 +1,4 @@
-## 17. § Hatályát veszti a belügyminiszter irányítása alá tartozó egyes fegyveres szerveknél rendszeresített hivatásos beosztásokról és a betöltésükhöz szükséges követelményekről szóló 65/2011. (XII. 30.) BM rendelet.
+## 17. §[^1]
 
 1. melléklet a 30/2015. (VI. 16.) BM rendelethez
 
@@ -107,3 +107,5 @@ II. Eljárásrend
 3. A Belügyminisztérium humánigazgatási szerve az I. pontban szereplő módszertan alapján, valamint a Közszolgálati Személyzetfejlesztési Főigazgatóság bevonásával megvizsgálja a javasolt szolgálati beosztást.
 
 4. Ha indokolt az új szolgálati beosztás létrehozása, a Belügyminisztérium humánigazgatási szerve javaslatot tesz a rendszeresített szolgálati beosztások módosítására, az erre vonatkozó jogszabály előkészítésére.
+
+[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
