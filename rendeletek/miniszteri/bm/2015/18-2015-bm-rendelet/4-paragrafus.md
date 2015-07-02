@@ -1,1 +1,0 @@
-## 3. § A Rendelet 5. § (2) bekezdésében az „(1) bekezdésben meghatározott különös illetékesség az (1) bekezdésben” szövegrész helyébe az „(1) bekezdés a)–g) pontjában meghatározott különös illetékesség az (1) bekezdés a)–g) pontjában” szöveg lép.
