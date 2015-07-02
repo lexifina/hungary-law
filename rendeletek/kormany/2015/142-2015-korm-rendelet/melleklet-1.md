@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet 84. §-a.
+## 14. §[^1]
 
 1. melléklet a 142/2015. (VI. 12.) Korm. rendelethez
 
@@ -17,3 +17,5 @@ Az elsődleges adatnak minősülő adatok és az azokat elsődleges adatként ta
 | 3. | Ingatlan-nyilvántartás | Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben és a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvényben meghatározott ingatlanadatok, a központi címregiszterből automatikus adatátvétel útján átvett címadatok kivételével |
 
 | 4. | Egészségbiztosítási nyilvántartás | A társadalombiztosítási azonosító jel (TAJ) |
+
+[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
