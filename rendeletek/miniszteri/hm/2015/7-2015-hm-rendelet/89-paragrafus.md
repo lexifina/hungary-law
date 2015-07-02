@@ -1,3 +1,3 @@
-## 88. §[^2]
+## 88. §[^3]
 
-[^2]: A 88. § a 83. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
+[^3]: A 88. § a 83. § (2) bekezdése alapján 2019. január 1-jén lép hatályba.
