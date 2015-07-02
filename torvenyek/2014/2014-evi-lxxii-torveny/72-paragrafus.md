@@ -1,4 +1,4 @@
-72. § A Bnytv.
+72. §
 
 1.
 
@@ -20,10 +20,6 @@
 
 19–26.
 
-27. 88. § (2) bekezdésében, a 91. § (1) bekezdés c) pontjában és a 91/A. § (3) bekezdésében a „Nemzeti Adatvédelmi és Információszabadság Hatóság” szövegrész helyébe a „NAIH”,
-
-28. 91/A. § (2) bekezdésében a „Nemzeti Adatvédelmi és Információszabadság Hatósággal” szövegrész helyébe a „NAIH-hal”,
+27–28.
 
 29–30.
-
-szöveg lép.

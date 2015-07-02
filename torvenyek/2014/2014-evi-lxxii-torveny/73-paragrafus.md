@@ -1,4 +1,4 @@
-73. § Hatályát veszti a Bnytv.
+73. §
 
 1.
 
@@ -6,6 +6,6 @@
 
 3–4.
 
-5. 70. §-át megelőző alcím,
+5.
 
 6.
