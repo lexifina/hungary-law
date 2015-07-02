@@ -1,6 +1,4 @@
-## 50. § Az Egészségügyi Nyilvántartási és Képzési Központról szóló 29/2015. (II. 25.) Korm. rendelet a következő 6/A. §-sal egészül ki:
-
-## „6/A. § A Kormány az ENKK-t jelöli ki az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény szerinti rezidenseket foglalkoztató egészségügyi államigazgatási szervként.”
+## 50. §[^8]
 
 1. melléklet a 162/2015. (VI. 30.) Korm. rendelethez
 
@@ -51,3 +49,5 @@ Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezide
 4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
+
+[^8]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
