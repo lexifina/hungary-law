@@ -1,3 +1,3 @@
-## 6. §[^1]
+## 6. §[^2]
 
-[^1]: A 6. § a 17. § (2) bekezdése alapján 2015. október 1-jén lép hatályba.
+[^2]: A 6. § a 17. § (2) bekezdése alapján 2015. október 1-jén lép hatályba.

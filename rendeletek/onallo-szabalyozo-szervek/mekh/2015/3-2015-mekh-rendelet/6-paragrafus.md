@@ -1,1 +1,3 @@
-## „(3a) Amennyiben a nem téli fogyasztási időszakra lekötött kapacitást jogosulatlanul vették igénybe, úgy a rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitás után a 2. melléklet II. pontja szerinti éves szállítási kapacitásdíjnak az (1) bekezdés alapján megfizetett része feletti részét és pótdíjként a 2. melléklet II. pontja szerinti éves szállítási kapacitásdíj 50%-át köteles megfizetni. A szállítási rendszerüzemeltető a jogosulatlan kapacitás igénybevételt az ÜKSZ-ben rögzített adattartalmú földgázelosztói – legkésőbb az adott gázévet követő 60. napig megküldött – adatszolgáltatás ismeretében határozza meg, amit a Hivatal jóváhagyása után érvényesíthet.”
+## 1–5. §[^1]
+
+[^1]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
