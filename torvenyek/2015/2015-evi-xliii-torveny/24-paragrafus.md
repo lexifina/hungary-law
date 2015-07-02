@@ -1,5 +1,0 @@
-24. § A Hjt. 97. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A munkáltatói jogkört gyakorló időkeret alkalmazása esetén előzetesen írásban meghatározza és a helyben szokásos módon közli az állomány tagjával a szolgálatteljesítési időkeret kezdő és befejező időpontját, valamint a szolgálatteljesítési időkeretben teljesítendő szolgálatteljesítési időt. A szolgálatteljesítési időkeretben teljesítendő szolgálatteljesítési időt miniszteri rendeletben meghatározottak szerint az időkeret tartama, az állomány tagjára irányadó napi szolgálatteljesítési idő és az általános szolgálati rend alapulvételével kell megállapítani.
-
-(4) A munkáltatói jogkört gyakorló a (3) bekezdés szerinti szolgálatteljesítési időkeret tartamán belül miniszteri rendeletben meghatározottak szerint kijelöli, közli, és szükség esetén módosíthatja a tényleges szolgálatteljesítési időt és a pihenőnapokat. Az állomány tagjával a (3) bekezdés szerinti szolgálatteljesítési időkeret befejező időpontjával el kell számolni, azzal, hogy a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon teljesített szolgálatot kétszeresen kell figyelembe venni.”
