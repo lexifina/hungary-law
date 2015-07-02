@@ -72,6 +72,6 @@
 
 ## ”
 
-3–4. melléklet a 2/2015. (IV. 14.) MEKH rendelethez[^26]
+3–4. melléklet a 2/2015. (IV. 14.) MEKH rendelethez[^27]
 
-[^26]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
