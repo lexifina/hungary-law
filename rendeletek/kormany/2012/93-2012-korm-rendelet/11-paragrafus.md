@@ -24,4 +24,7 @@ j) a közösségi közlekedési szolgáltatók részére küldött tájékoztat�
 
 (3) A hatóság a tervező tervezési jogosultságát a névjegyzéket vezető szerv által működtetett elektronikus névjegyzékből közvetlenül vagy belföldi jogsegély keretében ellenőrzi.
 
+(4)[^4] Ha az építési engedélyezési eljárást a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében a környezetvédelmi engedély kiadása előtt indították meg, az (1) bekezdés c) pontját nem kell alkalmazni.
+
 [^3]: A 11. § (1) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (2) bekezdésével megállapított szöveg.
+[^4]: A 11. § (4) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 14. §-a iktatta be.
