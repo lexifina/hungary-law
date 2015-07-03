@@ -2,8 +2,8 @@
 
 ## 8. § A vasúti közlekedési hatóság helyszíni szemlét tart
 
-a)[^7] ha az építést nem kizárólag az állam vagy az építtető tulajdonában álló területre tervezik, vagy
+a)[^8] ha az építést nem kizárólag az állam vagy az építtető tulajdonában álló területre tervezik, vagy
 
 b) a használatbavételi vagy fennmaradási engedély iránti kérelem elbírálása során.
 
-[^7]: A 8. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 695. §-a szerint módosított szöveg.
+[^8]: A 8. § a) pontja a 221/2014. (IX. 4.) Korm. rendelet 695. §-a szerint módosított szöveg.

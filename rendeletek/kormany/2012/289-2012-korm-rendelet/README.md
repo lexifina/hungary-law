@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-289-20-
 | 2014-01-01 | 2012-289-20-22.5 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-05 | 2012-289-20-22.6 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2012-289-20-22.7 | 527/2013. (XII. 30.) Korm. rendelet |
+| 2015-07-03 | 2012-289-20-22.8 | 171/2015. (VI. 30.) Korm. rendelet |

@@ -24,6 +24,7 @@ b) az (1) bekezdés d) pontjában foglaltak kivételével a vasúti üzemi léte
 
 c) a honvédségi használatú vasúti építményekre, ideértve a vasúti pályát és tartozékait, valamint a vasúti üzemi létesítményeket is,
 
-d) a vasúti pálya következő tartozékaira: jelzőhíd, áteresz, a vasúti felsővezetékhez kapcsolt berendezések és alállomások, a hőnfutásjelző berendezés, ha nincs vasúti biztosító berendezéssel összefüggésben, valamint a vasúti távközlő vezetékek és berendezések.
+d)[^2] a vasúti pálya következő tartozékaira: áteresz, a vasúti felsővezetékhez kapcsolt berendezések és alállomások, a hőnfutásjelző berendezés, ha nincs vasúti biztosító berendezéssel összefüggésben, valamint a vasúti távközlő vezetékek és berendezések.
 
 [^1]: Az 1. § a 358/2013. (X. 9.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdés d) pontja a 171/2015. (VI. 30.) Korm. rendelet 15. §-a szerint módosított szöveg.
