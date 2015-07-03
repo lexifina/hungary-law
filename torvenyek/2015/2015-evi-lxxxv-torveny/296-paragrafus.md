@@ -1,9 +1,1 @@
 296. § E törvény tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdése szerinti előzetes bejelentése megtörtént.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Jakab István s. k.,
-
-az Országgyűlés alelnöke

@@ -1,7 +1,3 @@
 ## 12. A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény módosítása
 
-120. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: Dttv.) 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A pénzügyi intézmény a rögzített árfolyam alkalmazási időszaka alatt svájci frank esetén a 180 HUF/CHF, euró esetén a 250 HUF/EUR, japán jen esetén a 2,5 HUF/JPY árfolyamot alkalmaz. A rögzített árfolyam alkalmazási időszaka)
-
-„b) záró időpontja a kezdő időponttól számított 60 hónap vagy – amennyiben az korábbi időpontra esik – a devizakölcsön végső lejáratának időpontja, amennyiben a hiteladós devizakölcsönből eredő – a rögzített árfolyam figyelembevételével fennálló – tartozása megfizetésével 180 napot meghaladó késedelembe esik, akkor a késedelem 181. napja, amennyiben pedig a fedezeti ingatlannal szemben megindított végrehajtási eljárás miatt a devizakölcsönt és a gyűjtőszámlahitelre vonatkozó hitelkeret-szerződést a hitelező felmondta, a felmondás napja; az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény (a továbbiakban: Fttv.) hatálya alá tartozó fogyasztói kölcsönszerződések esetében a fordulónap.”
+120–122. §
