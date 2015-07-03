@@ -15,3 +15,5 @@
 (7) Az ellenérdekű felet a bíróság a (4) bekezdésben meghatározott határidőig értesíti a beavatkozás lehetőségéről azzal, hogy a beavatkozást az értesítés kézhezvételét követő nyolc napon belül kell bejelenteni a bíróságnak, mely határidő elmulasztása esetén igazolásnak nincs helye.
 
 (8) A keresetet csak a perindításra nyitva álló határidőn belül lehet megváltoztatni, illetve kiterjeszteni. A Pp. 335/A. §-ának (2) bekezdését ebben az esetben is alkalmazni kell.
+
+(9) Ha a keresetlevelet benyújtó félnek az általa megjelölt címre küldött iratot azért nem lehet kézbesíteni, mert a címzett a bejelentett címen ismeretlen vagy onnan ismeretlen helyre költözött, a bíróság hivatalból hirdetményi kézbesítést rendel el. Az érintett fél részére nem kell ügygondnokot rendelni.

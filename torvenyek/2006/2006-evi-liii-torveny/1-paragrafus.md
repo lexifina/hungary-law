@@ -10,15 +10,15 @@ c) a koncessziós, illetve az egyes kizárólagos állami tevékenységek gyakor
 
 d) részben vagy egészben egyedi kormánydöntéssel megítélt támogatásból megvalósítandó,
 
-e) legalább 90 millió forint teljes költségigényű és legalább 15 új munkahely megteremtését biztosító, vagy
+e) legalább 90 millió forint teljes költségigényű és legalább 15 új munkahely megteremtését biztosító,
 
 f) környezetvédelmi, kutatás-fejlesztési, oktatási, valamint egészségügyi és szociális célok megvalósítását elősegítő,
 
-g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó,
+g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó, vagy
 
 h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá a világörökségi területen lévő műemlékek és műemlékegyüttesek fenntartásához, felújításához, fejlesztéséhez szorosan kapcsolódó,
 
-nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra terjed ki.
+nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra és e törvény szerinti egyéb eljárásokra terjed ki.
 
 (1a) A kisajátításról szóló törvény hatálya alá tartozó kisajátítási eljárás nem nyilvánítható kiemelt jelentőségű üggyé.
 
