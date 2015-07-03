@@ -70,5 +70,8 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 
 (9) Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja a változási vázrajzon és a telekalakítási helyszínrajzon.
 
+(10)[^74] Azokra az ingatlanokra, amelyek a kisajátítást kérő tulajdonában vannak és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni és e kormányrendelet szerint záradékolt változási vázrajz alapján kerül sor a változás ingatlan-nyilvántartási átvezetésére.
+
 [^72]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
 [^73]: A 36. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 21. pontja szerint módosított szöveg.
+[^74]: A 36. § (10) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 16. §-a iktatta be.
