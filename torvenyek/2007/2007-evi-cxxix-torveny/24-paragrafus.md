@@ -36,7 +36,9 @@ ea) az ingatlan-nyilvántartás szerinti minőségi osztálynál alacsonyabb min
 
 eb) a határozatban megállapított határidő eltelte után teszi termelésre alkalmassá;
 
-f) a termőföldet engedély nélkül hasznosítja más célra.
+f) a termőföldet engedély nélkül hasznosítja más célra;
+
+g) a 8/B. § (2) bekezdésében meghatározott bejelentési kötelezettségét elmulasztja.
 
 (2) Engedély nélküli más célú hasznosítás esetén a bírság megállapításáról
 

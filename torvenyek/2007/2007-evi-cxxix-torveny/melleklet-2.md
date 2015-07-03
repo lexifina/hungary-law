@@ -6,7 +6,7 @@ A földvédelmi bírság mértéke
 
 2. A bírság
 
-2.1. a 24. § (1) bekezdés a) pontjában foglalt esetekben a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezerszerese;
+2.1. a 24. § (1) bekezdés a) és g) pontjában foglalt esetekben a termőföld ingatlan-nyilvántartás szerinti AK értékének kétezerszerese;
 
 2.2. a 24. § (1) bekezdés b)–d) pontjában foglalt esetekben 20 000 forint azzal, hogy a bírság összegét a 24. § (1) bekezdés b) pont ba) alpontja esetén földrészletenként kell megállapítani;
 
