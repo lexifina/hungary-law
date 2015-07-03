@@ -1,9 +1,9 @@
 ## 5. A külhoni magyarság értéktára
 
-5. § (1) A Magyar Állandó Értekezlet (a továbbiakban: MÁÉRT) külhoni magyarság értéktárat hozhat létre.
+5. § (1) A MÁÉRT-en részt vevő külhoni szervezet vagy szervezetek a saját országuk vonatkozásában külhoni nemzetrész értéktárat hozhatnak létre. Egy nemzetrész esetén a HB kizárólag egy külhoni nemzetrész értéktár működését veheti figyelembe.
 
-(2) A MÁÉRT Külhoni Bizottságot hozhat létre, amely – az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – szervezi a határon túl fellelhető nemzeti értékek azonosítását, létrehozza a határon túl fellelhető nemzeti értékek adatait tartalmazó gyűjteményt és megküldi azt a HB-nek.
+(2) A MÁÉRT-en részt vevő külhoni szervezet vagy szervezetek a saját országuk vonatkozásában Külhoni Nemzetrész Értéktár Bizottságot hozhatnak létre, amely szervezheti az országhatáron túl fellelhető nemzeti értékek azonosítását, dönthet a külhoni nemzetrész értéktárba bekerülő nemzeti értékről, létrehozhatja a külhoni nemzetrész értéktárat és megküldheti azt a HB-nek.
 
-(3) A MÁÉRT a külhoni magyarság értékeinek azonosításával, a külhoni magyarság értéktárának létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megbízhat a határon túl működő, már korábban is nemzeti értékek azonosítását, gondozását végző intézményt, szervezetet, vagy azok szervezeti egységeit (a továbbiakban együtt: külhoni szervezet).
+(3) A Külhoni Nemzetrész Értéktár Bizottság létrehozásáról a MÁÉRT-en részt vevő külhoni szervezet tájékoztathatja a HB-t.
 
-(4) A Külhoni Bizottság létrehozásáról, vagy a feladat ellátásával történő megbízásról a MÁÉRT a létrehozást, megbízást követő 30 napon belül tájékoztatja a HB-t.
+(4) Ha valamely nemzetrészben nem hoztak létre Külhoni Nemzetrész Értéktár Bizottságot, a HB elláthatja annak feladatait.

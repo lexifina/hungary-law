@@ -1,36 +1,44 @@
 ## 9. A Hungarikum Bizottság
 
-14. § (1) A HB tagjainak a kiválasztása során törekedni kell arra, hogy a lehető legmagasabb szakmai színvonal, a széles körű tapasztalatok, valamint a nemzeti értékek által érintett legtöbb tudományterület képviselve legyen.
+14. § (1) A HB tagjainak a kiválasztása során törekedni kell arra, hogy a lehető legmagasabb szakmai színvonal, a széles körű tapasztalat, valamint a nemzeti értékek által érintett legtöbb tudományterület képviselve legyen.
 
 (2) A HB
 
-a) a nemzetpolitikáért felelős miniszter által delegált 1,
+a) az Országgyűlés által delegált négy,
 
-b) a Szellemi Tulajdon Nemzeti Hivatalának elnöke által delegált 1,
+b) a MÁÉRT-en részt vevő külhoni szervezetek által delegált három,
 
-c) az igazságügyért felelős miniszter által delegált 1,
+c) a nemzetpolitikáért felelős miniszter által delegált egy,
 
-d) a helyi önkormányzatokért felelős miniszter által delegált 1,
+d) az igazságügyért felelős miniszter által delegált egy,
 
-e) a kultúráért és az oktatásért felelős miniszter által együttesen delegált 1,
+e) a helyi önkormányzatokért felelős miniszter által delegált egy,
 
-f) az agrárpolitikáért felelős miniszter és a természetvédelemért felelős miniszter által együttesen delegált 1,
+f) a kultúráért és az oktatásért felelős miniszter által együttesen delegált egy,
 
-g) a turizmusért felelős miniszter által delegált 1,
+g) az agrárpolitikáért felelős és a természetvédelemért felelős miniszter által együttesen delegált egy,
 
-h) a Kormány európai uniós források felhasználásáért felelős tagja által delegált 1,
+h) a turizmusért felelős miniszter által delegált egy,
 
-i) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1,
+i) az európai uniós források felhasználásáért és a kulturális örökség védelméért felelős miniszter által együttesen delegált egy,
 
-j) a Magyar Művészeti Akadémia (a továbbiakban: MMA) elnöke által delegált 1,
+j) a külgazdasági ügyekért és a külpolitikáért felelős miniszter által együttesen delegált egy,
 
-k) a MÁÉRT által delegált 3, és
+k) az informatikáért felelős miniszter által delegált egy,
 
-l) az Országgyűlés által delegált 2
+l) a honvédelemért felelős miniszter által delegált egy,
+
+m) a Magyar Tudományos Akadémia elnöke által delegált egy,
+
+n) a Magyar Művészeti Akadémia elnöke által delegált egy, és
+
+o) a Szellemi Tulajdon Nemzeti Hivatalának elnöke által delegált egy
 
 tagból áll.
 
 (3) A tagot az őt delegáló személy vagy szervezet a HB-tagságából indokolás nélkül bármikor visszahívhatja, és helyére új tagot delegálhat.
+
+(3a) Az Országgyűlés a mezőgazdasági ügyekért felelős bizottság javaslatára három – két kormánypárti és egy ellenzéki – tag, a nemzetiségeket képviselő bizottság javaslatára további egy tag delegálásáról dönt.
 
 (4) Nem lehet a HB tagja az, akinek szellemi vagy termelőtevékenységével létrehozott produktuma nemzeti értéknek minősül, valamint, aki nemzeti érték kereskedelmi célú forgalmazásával kapcsolatos tevékenységet végez.
 

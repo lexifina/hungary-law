@@ -4,28 +4,34 @@ a) összeállítja a Magyar Értéktárat;
 
 b) ha valamely megyében nem hoztak létre Megyei Értéktár Bizottságot, vagy ha a megyei önkormányzat nem bízott meg a megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megyei szervezetet, úgy ellátja annak feladatait;
 
-c) évente, első alkalommal 2012. december 31-ig tájékoztatást ad az Országgyűlésnek a nemzeti értékek azonosításának és rendszerezésének helyzetéről, a nemzeti értékek fenntarthatóságáról és hasznosításáról, valamint a HB működéséről;
+c) évente tájékoztatást ad az Országgyűlésnek a nemzeti értékek azonosításának és rendszerezésének helyzetéről, a nemzeti értékek fenntarthatóságáról és hasznosításáról, valamint a HB működéséről;
 
-d) nyilvántartást vezet arról, hogy mely településeken és megyékben kerülnek végrehajtásra a nemzeti értékekkel kapcsolatos feladatok;
+d) magyar és angol nyelvű internetes oldalt működtet, ahol megismerhető a Magyar Értéktár;
 
-e) magyar és angol nyelvű internetes oldalt működtet, ahol megismerhető a Magyar Értéktár gyűjteménye, valamint
+e) gondoskodik róla, hogy a Magyar Értéktár a nemzetkép-stratégia szerves részét képezze;
 
-f) gondoskodik róla, hogy a Magyar Értéktár az országmárka-stratégia szerves részét képezze.
+f) gondoskodik a közvélemény széles körű tájékoztatásáról a nemzeti értékek megismertetése érdekében;
+
+g) pályázatokat ír ki a nemzeti értékek és a kiemelkedő nemzeti értékek azonosítására, megőrzésére, fenntartására, fejlesztésére, megismertetésére, védelmére, a termékek hazai, külgazdasági szempontú és kultúrdiplomáciai hasznosítására vonatkozóan; valamint
+
+h) e törvény rendelkezéseinek való megfelelés szempontjából felülvizsgálja a Magyar Értéktár tartalmát.
 
 (2) A HB a hungarikumok által hordozott kiemelkedő értékek megőrzése, fenntarthatósága, széles körű megismertetése és hasznosítása érdekében különösen:
 
-a) az e törvény végrehajtására kiadott jogszabályban meghatározott feltételek szerint kiválasztja, hogy mely kiemelkedő nemzeti értékek minősülnek a Magyar Értéktárból hungarikumnak, indokolt esetben pedig dönt e minősítés visszavonásáról;
+a) indokolt esetben e törvény rendelkezéseinek való megfelelés szempontjából felülvizsgálja a Hungarikumok Gyűjteménye tartalmát;
 
 b) összeállítja a Hungarikumok Gyűjteményét;
 
 c) véleményezi a hungarikumokkal kapcsolatos jogszabályok tervezetét;
 
-d) évente közzéteszi a Hungarikumok Gyűjteményét a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, valamint internetes honlapon is;
+d) közzéteszi a Hungarikumok Gyűjteményét internetes honlapján;
 
-e) elnöke útján javaslatot tesz a Kormánynak a hungarikumok fenntarthatóságáról és hasznosíthatóságáról;
+e) elnöke útján javaslatot tesz a Kormánynak a hungarikumok fenntarthatóságára és hasznosíthatóságára;
 
-f) pályázatokat ír ki a hungarikumok megőrzésére, fenntartására, fejlesztésére, megismertetésére, védelmére, a termékek hazai és nemzetközi piaci bevezetésére vonatkozóan;
+f) pályázatokat ír ki a hungarikumok azonosítására, megőrzésére, fenntartására, fejlesztésére, megismertetésére, védelmére, a termékek hazai, külgazdasági szempontú és kultúrdiplomáciai hasznosítására vonatkozóan;
 
-g) évente konferenciasorozatot szervez az érintett ágazatok és célterületek bevonásával, amely állásfoglalás kiadásával zárul;
+g) gondoskodik a közvélemény széles körű tájékoztatásáról a hungarikumok megismertetése érdekében; valamint
 
-h) a határon túl fellelhető hungarikumok tekintetében az elnöke útján kapcsolatot tart az érintett külföldi állam szerveivel, hatóságaival.
+h) az országhatáron túl fellelhető hungarikumok tekintetében az elnöke útján kapcsolatot tarthat az érintett külföldi állam szerveivel;
+
+i) magyar és angol nyelvű internetes oldalt működtet, ahol megismerhető a Hungarikumok Gyűjteménye.

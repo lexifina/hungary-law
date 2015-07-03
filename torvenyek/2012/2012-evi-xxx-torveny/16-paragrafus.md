@@ -1,4 +1,4 @@
-16. § (1) A HB munkáját szakmai ágazati szakbizottságok segítik.
+16. § (1) A HB munkáját a HB titkárság és a szakmai ágazati szakbizottságok segítik.
 
 (2) Az ágazati szakbizottságok munkájában részt vesznek különösen az adott szakterületen működő államigazgatási szervek, hatóságok, tudományos testületek, oktatási intézmények, gazdasági és szakmai kamarák, valamint egyes szakmai szervezetek képviselői.
 

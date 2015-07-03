@@ -1,5 +1,5 @@
-9. § E törvény erejénél fogva a kiemelt nemzeti értékek részét képezik és ezért a Magyar Értéktár elemei:
+9. § A HB külön elbírálása alapján a kiemelkedő nemzeti értékek közé és a Magyar Értéktárba kerülhetnek:
 
-a) a közösségi oltalom alatt álló nemzeti értékek;
+a) az uniós oltalom alatt álló nemzeti értékek;
 
 b) a nemzetközi elismerésben részesített nemzeti értékek.

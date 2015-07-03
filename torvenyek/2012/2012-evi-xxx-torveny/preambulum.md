@@ -1,6 +1,6 @@
-Magyarország Alaptörvényének P) cikke alapján a magyar nemzet egységétől vezérelve az Országgyűlés megállapítja, hogy
+Az Országgyűlés Magyarország Alaptörvényének P) cikke alapján a magyar nemzet egységétől vezérelve megállapítja, hogy
 
-a) a magyar nemzeti értékek (a továbbiakban: nemzeti értékek), és azokon belül a hungarikumok megőrzendő és egyedülálló értékek;
+a) a magyar nemzeti értékek, köztük a hungarikumok megőrzendő és egyedülálló értékek;
 
 b) az összetartozás, az egység és a nemzeti tudat erősítése érdekében nemzetünk értékeit össze kell gyűjteni, dokumentálni, az értékvédelem alapjául szolgáló dokumentációt a szigorú nyilvántartás és kutathatóság szabályai szerint meg kell őrizni, az értékeket pedig ápolni, védelmezni és támogatni kell;
 
@@ -8,10 +8,10 @@ c) örökségünket, a magyar kultúra évezredes értékeit, a magyarság szell
 
 d) a nemzeti értékeink védelme hozzájárul a nemzeti azonosság-tudat kialakulásához és megszilárdításához;
 
-e) nemzeti értékeink széles körű hazai és külföldi bemutatása, megismertetése nyelvi, szellemi, kulturális, gazdasági teljesítményünk, természeti és épített értékeink elismertetése, valamint az országmárka erősítése egyaránt kiemelkedő jelentőségű.
+e) nemzeti értékeink széles körű hazai és külföldi bemutatása, megismertetése nyelvi, szellemi, kulturális, gazdasági teljesítményünk, természeti és épített értékeink elismertetése, valamint a nemzeti arculat erősítése egyaránt kiemelkedő jelentőségű.
 
 Az Országgyűlés kinyilvánítja, hogy a nemzeti értékeket az egyetemes értékek részének tekinti, amely értékek a magyarság múltjának, jelenének és jövőjének dinamikusan fejlődő tárháza, az értékalapú nemzeti összefogás alapja.
 
-A nemzeti értékek tárházát gazdagítják a magyarországi együtt élő népek, a magyar nemzetalkotó nemzetiségek és a határon túli, valamint szerte a világban élő, magukat magyarnak valló egyének, közösségek értékei.
+A nemzeti értékek tárházát gazdagítják a magyarországi együtt élő népek, az államalkotó tényezőként elismert nemzetiségek és az országhatáron túli, valamint szerte a világban élő, magukat magyarnak valló egyének, közösségek értékei.
 
 Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
