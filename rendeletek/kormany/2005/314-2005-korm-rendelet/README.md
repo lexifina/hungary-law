@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2015-01-11 | 2005-314-20-22.36 | 145/2012. (VII. 3.) Korm. rendelet |
 | 2015-03-12 | 2005-314-20-22.37 | 362/2008. (XII. 31.) Korm. rendelet |
 | 2015-04-01 | 2005-314-20-22.38 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-07-03 | 2005-314-20-22.39 | 171/2015. (VI. 30.) Korm. rendelet |

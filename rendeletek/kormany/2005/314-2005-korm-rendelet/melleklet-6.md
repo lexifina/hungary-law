@@ -1,32 +1,32 @@
-6. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^237]
+6. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^241]
 
 ## A környezeti hatástanulmány általános tartalmi követelményei
 
-A helyszíni vizsgálatokkal alátámasztott környezeti hatástanulmánynak – az előzetes vizsgálatban elfogadott vagy az előzetes konzultációban lehetségesnek tartott változatra (változatokra) a környezetvédelmi hatóság által meghatározott mélységben és részletezettségben – a következőket kell tartalmaznia:[^238]
+A helyszíni vizsgálatokkal alátámasztott környezeti hatástanulmánynak – az előzetes vizsgálatban elfogadott vagy az előzetes konzultációban lehetségesnek tartott változatra (változatokra) a környezetvédelmi hatóság által meghatározott mélységben és részletezettségben – a következőket kell tartalmaznia:[^242]
 
-1.[^239] Az előzmények összefoglalása, különösen
+1.[^243] Az előzmények összefoglalása, különösen
 
-a)[^240] a környezetvédelmi hatóság és a szakhatóságok állásfoglalásai, a nyilvánosság észrevételei az előzetes vizsgálatban, vagy a környezetvédelmi hatóság véleménye és a közigazgatási szervek, valamint a nyilvánosság észrevételei az előzetes konzultációban;
+a)[^244] a környezetvédelmi hatóság és a szakhatóságok állásfoglalásai, a nyilvánosság észrevételei az előzetes vizsgálatban, vagy a környezetvédelmi hatóság véleménye és a közigazgatási szervek, valamint a nyilvánosság észrevételei az előzetes konzultációban;
 
 b) a környezeti hatástanulmány kidolgozásának menete;
 
 c) a környezethasználó által korábban számba vett fő változatok és azoknak a fő okoknak a megjelölése, amelyek e korábbi változatok közüli választását – figyelembe véve a környezeti hatásokat – indokolták.
 
-2.[^241] A tervezett tevékenység – ideértve a kapcsolódó műveleteket és létesítményeket is – számba vett változatainak részletes leírása, különösen
+2.[^245] A tervezett tevékenység – ideértve a kapcsolódó műveleteket és létesítményeket is – számba vett változatainak részletes leírása, különösen
 
-a)[^242] az előzetes vizsgálati vagy az előzetes konzultációhoz benyújtott dokumentáció szerinti alapadatok [4. melléklet 1. b) pontja] részletezése, megjelölve azt, ha az ott leírtakhoz képest változás történt;
+a)[^246] az előzetes vizsgálati vagy az előzetes konzultációhoz benyújtott dokumentáció szerinti alapadatok [4. melléklet 1. b) pontja] részletezése, megjelölve azt, ha az ott leírtakhoz képest változás történt;
 
-b) az egyes hatótényezők[^243] részletezése
+b) az egyes hatótényezők[^247] részletezése
 
 ba) a hatótényező jellege, nagysága, időbeli változása, térbeli kiterjedése,
 
-bb) a hatótényező a tevékenység mely szakaszában jelenik meg, s az adott szakaszon belül a tevékenység mely részéhez rendelhető hozzá, mely környezeti elemeket[^244] érinti;
+bb) a hatótényező a tevékenység mely szakaszában jelenik meg, s az adott szakaszon belül a tevékenység mely részéhez rendelhető hozzá, mely környezeti elemeket[^248] érinti;
 
 c) az esetlegesen környezetterhelést okozó balesetek, meghibásodások lehetőségei, az ebből származó hatótényezők.
 
 3. A hatásfolyamatok és a hatásterületek leírása
 
-a) A hatótényezők kiváltotta hatásfolyamatokat környezeti elemenként külön-külön és környezeti rendszerként[^245] összességükben is elemezni kell. Fel kell tárni a közvetetten érvényesülő hatásfolyamatokat is.
+a) A hatótényezők kiváltotta hatásfolyamatokat környezeti elemenként külön-külön és környezeti rendszerként[^249] összességükben is elemezni kell. Fel kell tárni a közvetetten érvényesülő hatásfolyamatokat is.
 
 b) A hatásterületek kiterjedését a 7. mellékletében foglaltaknak megfelelően kell meghatározni, és térképen is be kell mutatni.
 
@@ -60,11 +60,11 @@ af) a veszélyeztetett vagy várhatóan károsodó, megsemmisülő természeti �
 
 ag) a veszélyeztetett vagy várhatóan károsodó, megsemmisülő természeti erőforrások pótolhatósága,
 
-ah)[^246] a vizeket érő hatások következtében a vizek – a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet szerinti vízgyűjtő-gazdálkodási tervben meghatározott – állapotában bekövetkező változás értékelése, valamint a tervben az érintett víztestekre és védett területekre meghatározott környezeti célkitűzés elérésének ütemezése;
+ah)[^250] a vizeket érő hatások következtében a vizek – a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet szerinti vízgyűjtő-gazdálkodási tervben meghatározott – állapotában bekövetkező változás értékelése, valamint a tervben az érintett víztestekre és védett területekre meghatározott környezeti célkitűzés elérésének ütemezése;
 
-ai)[^247] a környezetkárosodás, környezetterhelés hatásai elkerülésének, mérséklésének lehetőségei,
+ai)[^251] a környezetkárosodás, környezetterhelés hatásai elkerülésének, mérséklésének lehetőségei,
 
-aj)[^248] a vizekbe történő beavatkozással járó tevékenység esetén a költség-haszon elemzéssel alátámasztott, kiválasztott legjobb környezeti megoldás bemutatása.
+aj)[^252] a vizekbe történő beavatkozással járó tevékenység esetén a költség-haszon elemzéssel alátámasztott, kiválasztott legjobb környezeti megoldás bemutatása.
 
 b) ha a környezetállapot változása a lakosság egészségi állapotának kedvezőtlen megváltozását okozhatja, akkor a környezet-egészségügyi hatások ismertetésekor meg kell adni különösen
 
@@ -128,7 +128,7 @@ d) a környezeti állapotváltozások által érintett emberek egészségi álla
 
 e) a környezet és az emberi egészség védelmére foganatosítandó intézkedések.
 
-9.[^249] Ha a környezeti hatásvizsgálatra erdő igénybevételével járó beruházáshoz vagy tevékenységhez kapcsolódóan kerül sor, és korábban az erdészeti hatóság igénybevételi vagy elvi igénybevételi eljárása nem került lefolytatásra, a környezeti hatástanulmányhoz csatolni kell
+9.[^253] Ha a környezeti hatásvizsgálatra erdő igénybevételével járó beruházáshoz vagy tevékenységhez kapcsolódóan kerül sor, és korábban az erdészeti hatóság igénybevételi vagy elvi igénybevételi eljárása nem került lefolytatásra, a környezeti hatástanulmányhoz csatolni kell
 
 a) a tervezett igénybevétellel érintett erdő ingatlan-nyilvántartás (helység, fekvés, helyrajzi szám, alrészletjel) és erdészeti hatósági nyilvántartás szerinti (helység, tagszám, részlet jel) területazonosító adatait,
 
@@ -140,16 +140,16 @@ d) érintettség esetén a csereerdősítésre tervezett terület megjelölésé
 
 e) a tervezett igénybevétel közérdekkel való összhangjának indokolását.
 
-[^237]: A 6. melléklet a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
-[^238]: A 6. számú melléklet bevezető szövegrésze a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^239]: A 6. számú melléklet 1. pont bevezető szövegrésze a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^240]: A 6. számú melléklet 1. pont a) alpontja a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^241]: A 6. számú melléklet 2. pont nyitó szövegrésze a 110/2010. (IV. 9.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^242]: A 6. számú melléklet 2. pont a) alpontja a 151/2009. (VII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
-[^243]: Hatótényező: környezetterhelés vagy a környezet igénybevétele [4. melléklet 1. fa) pontja].
-[^244]: Környezeti elem: föld, levegő, víz, élővilág, épített környezet, ez utóbbi részeként a műemlékek, műemléki területek és régészeti örökség [6. § a) pontja].
-[^245]: Környezeti rendszer: táj, település, éghajlat, természeti (ökológiai) rendszer [7. § b) pontja].
-[^246]: A 6. számú melléklet 4. pont a) pont ah) alpontja a 100/2014. (III. 25.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^247]: A 6. számú melléklet 4. pont a) pont ai) alpontját a 100/2014. (III. 25.) Korm. rendelet 5. § (4) bekezdése iktatta be.
-[^248]: A 6. számú melléklet 4. pont a) pont aj) alpontját a 100/2014. (III. 25.) Korm. rendelet 5. § (4) bekezdése iktatta be.
-[^249]: A 6. számú melléklet 9. pontját a 221/2014. (IX. 4.) Korm. rendelet 310. § b) pontja iktatta be.
+[^241]: A 6. melléklet a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^242]: A 6. számú melléklet bevezető szövegrésze a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^243]: A 6. számú melléklet 1. pont bevezető szövegrésze a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^244]: A 6. számú melléklet 1. pont a) alpontja a 151/2009. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^245]: A 6. számú melléklet 2. pont nyitó szövegrésze a 110/2010. (IV. 9.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^246]: A 6. számú melléklet 2. pont a) alpontja a 151/2009. (VII. 23.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. augusztus 1. napját követően indult eljárásokban kell alkalmazni.
+[^247]: Hatótényező: környezetterhelés vagy a környezet igénybevétele [4. melléklet 1. fa) pontja].
+[^248]: Környezeti elem: föld, levegő, víz, élővilág, épített környezet, ez utóbbi részeként a műemlékek, műemléki területek és régészeti örökség [6. § a) pontja].
+[^249]: Környezeti rendszer: táj, település, éghajlat, természeti (ökológiai) rendszer [7. § b) pontja].
+[^250]: A 6. számú melléklet 4. pont a) pont ah) alpontja a 100/2014. (III. 25.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^251]: A 6. számú melléklet 4. pont a) pont ai) alpontját a 100/2014. (III. 25.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^252]: A 6. számú melléklet 4. pont a) pont aj) alpontját a 100/2014. (III. 25.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+[^253]: A 6. számú melléklet 9. pontját a 221/2014. (IX. 4.) Korm. rendelet 310. § b) pontja iktatta be.

@@ -34,6 +34,8 @@ g)[^39] az elektronikus úton közzétett kérelem és mellékletek elérési he
 
 (7)[^43] A környezethasználó előzetes vizsgálat iránti kérelmet nyújthat be a környezetvédelmi hatósághoz, ha olyan tevékenység megvalósítását tervezi, amely megfelel a 3. számú mellékletben szereplő tevékenységnek, azonban az abban meghatározott küszöbértéket nem éri el vagy az ott szereplő kritériumot nem teljesíti, feltéve, hogy a tevékenység nem tartozik a 2. számú mellékletbe. Ha a környezetvédelmi hatóság az előzetes vizsgálat során az 5. § (2) bekezdés a) pont aa) alpontja szerint dönt, akkor a tevékenység megkezdéséhez környezetvédelmi engedély szükséges.
 
+(8)[^44] A környezetvédelmi hatóság a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások esetén a benyújtott dokumentációval kapcsolatos hiánypótlás teljesítése érdekében a hiánypótlási határidőn belül tartott tárgyaláson lehetőséget biztosít a hiánypótlásban szereplő hiányosságok azonnali pótlására.
+
 [^32]: A 3. § (1) bekezdése a 12/2011. (II. 22.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés e) pontja szerint módosított szöveg.
 [^33]: A 3. § (1) bekezdés c) pontját a 82/2011. (V. 18.) Korm. rendelet 15. §-a iktatta be.
 [^34]: A 3. § (2) bekezdése a 371/2012. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
@@ -46,3 +48,4 @@ g)[^39] az elektronikus úton közzétett kérelem és mellékletek elérési he
 [^41]: A 3. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^42]: A 3. § (6) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 31. §-a hatályon kívül helyezte.
 [^43]: A 3. § (7) bekezdését a 110/2010. (IV. 9.) Korm. rendelet 2. §-a iktatta be, szövege a 228/2010. (VIII. 13.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) és e) pontja szerint módosított szöveg.
+[^44]: A 3. § (8) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 7. §-a iktatta be.
