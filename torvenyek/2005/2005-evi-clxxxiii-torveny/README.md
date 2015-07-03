@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2005-183-00-00.36 |
 | 2014-11-21 | 2014. évi LXI. törvény | 2005-183-00-00.37 |
 | 2015-01-01 | 2012. évi CCVIII. törvény | 2005-183-00-00.38 |
+| 2015-07-03 | 2015. évi LXXIX. törvény | 2005-183-00-00.39 |
