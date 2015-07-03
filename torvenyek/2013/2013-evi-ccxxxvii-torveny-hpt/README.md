@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2015-02-01 | 2014. évi LXXVIII. törvény | 2013-237-00-00.13 |
 | 2015-02-28 | 2015. évi II. törvény | 2013-237-00-00.14 |
 | 2015-04-01 | 2015. évi VIII. törvény | 2013-237-00-00.15 |
+| 2015-07-03 | 2014. évi CIV. törvény | 2013-237-00-00.16 |

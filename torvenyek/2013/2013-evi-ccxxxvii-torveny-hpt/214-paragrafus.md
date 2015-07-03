@@ -16,13 +16,13 @@
 
 (8) Közös betét esetén az (1)–(3) bekezdésben meghatározott kártalanítási összeghatárt a kártalanításra jogosult minden személy esetén külön kell számításba venni. A kártalanítási összeg számítása szempontjából – eltérő szerződési kikötés hiányában – a betét összege a betéteseket azonos arányban illeti meg.
 
-(9) Hitelintézetek egyesülése esetén az (1)–(3) bekezdés szerinti összeghatár szempontjából továbbra is külön betétnek minősülnek egyazon betétesnek az egyesülés időpontja előtt az összeolvadó, beolvadó vagy átvevő hitelintézetnél elhelyezett betétei legfeljebb öt évig, a lakás-takarékpénztári betétek megszűnésükig.
+(9) Hitelintézetek egyesülése vagy fiókteleppé alakulása, valamint betétállomány átruházása esetén a betéteseket legalább egy hónappal a változást megelőzően írásban tájékoztatni kell a változásról, kivéve, ha a szanálási jogkörében eljáró MNB vagy a Felügyelet üzleti titok vagy a pénzügyi stabilitás védelme érdekében rövidebb határidőt tesz lehetővé.
 
-(10) A betétállomány átruházása esetén az (1)–(3) bekezdés szerinti összeghatár szempontjából a (7) bekezdésnek a beolvadásra vonatkozó szabályait kell megfelelően alkalmazni.
+(10) A hitelintézetek egyesülése vagy fiókteleppé alakulása, valamint a betétállomány átruházása esetén az (1)–(3) bekezdés szerinti összeghatár szempontjából 3 hónapig külön betétnek minősülnek egyazon betétesnek az egyesülés, átruházás, illetve a fiókteleppé alakulás előtt az összeolvadó, beolvadó, átadó, átvevő vagy átalakuló hitelintézetnél elhelyezett betétei.
 
 (11) Az olyan betétre, amellyel kapcsolatban pénzmosás alapos gyanúja miatt büntetőeljárás van folyamatban, az eljárás jogerős befejezéséig kártalanítás nem fizethető ki.
 
-(12) Közösségi betétek esetén az (1)–(3) bekezdésben meghatározott kártalanítási összeghatárt – a betétek elhelyezésének időpontjától függetlenül – társasházak és lakásszövetkezetek esetén lakásonként kell számításba venni, építőközösségek és iskolai takarékossági csoportok esetén a közösséget alkotó minden személy esetén külön kell számításba venni.
+(12)
 
 (13) A betétes elhalálozása esetén – a betétek elhelyezésének időpontjától függetlenül – az örökhagyó és az örökösök betétjét a hagyatékátadó végzés vagy a bírósági ítélet jogerőre emelkedésétől számított egy évig vagy a rögzített kamatozású kamatperiódus végéig – a kettő közül a későbbi időpontig – külön betétnek kell tekinteni és az (1)–(3) bekezdés szerinti kártalanítási összeghatár meghatározásánál nem kell összevonni az örökösök más betéteivel. Az örökhagyó betétje után a kártalanítás az (1)–(3) bekezdésben meghatározott összeghatárig fizetendő ki, függetlenül az örökösök számától. Ezt a rendelkezést a közös betétekre is alkalmazni kell.
 

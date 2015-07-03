@@ -2,7 +2,7 @@
 
 224. § (1) Az igazgatótanács
 
-a) irányítja és ellenőrzi az OBA gazdálkodási és egyéb tevékenységét,
+a) irányítja és ellenőrzi az OBA gazdálkodási és egyéb tevékenységét a jogszabályokban foglalt rendelkezések figyelembevételével,
 
 b) elfogadja az OBA szabályzatait,
 
