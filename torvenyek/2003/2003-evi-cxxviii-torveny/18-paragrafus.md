@@ -30,9 +30,9 @@ g) az út forgalomba helyezése.
 
 a) a 6. § (2) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket,
 
-b) az 1. számú mellékletben megjelölt gyorsforgalmi utak esetében a környezetvédelmi engedély jogerőre emelkedését követően a gyorsforgalmi út nyomvonalát,
+b) az 1. számú mellékletben megjelölt gyorsforgalmi utak esetében a környezetvédelmi engedély jogerőre emelkedését követően a gyorsforgalmi út nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
 
-c) a b) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát,
+c) a b) pont hatálya alá nem tartozó gyorsforgalmi utak nyomvonalát, a 17. § (1) bekezdésében meghatározott területsávot és a területsáv védettségének időtartamát,
 
 d) a 9. § (1) és (2) bekezdése szerinti szervek kijelölését
 
