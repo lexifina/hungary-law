@@ -4,7 +4,7 @@
 
 (2) A nagyberuházást megelőző feltárást csak akkreditált, feltárásra jogosult intézmény (a továbbiakban: akkreditált intézmény) vagy a Hivatal végezheti jogszabályban meghatározottak szerint.
 
-(3) A megelőző feltárás elvégzésébe az akkreditált intézmény vagy a Hivatal a területi múzeumot – annak kapacitása erejéig – bevonhatja.
+(3) A megelőző feltárás elvégzésébe az akkreditált intézmény vagy a Hivatal a gyűjtőterületén érintett területi múzeumot vagy a gyűjtőterületén érintett megyei hatókörű városi múzeumot – annak kapacitása erejéig – bevonhatja.
 
 (4) Régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe kizárólag akkreditált intézmény vagy akkreditált szervezet vonható be. Akkreditált szervezet a megelőző feltárás elvégzésében csak az akkreditált intézmény vagy a Hivatal alvállalkozójaként vehet részt.
 

@@ -8,4 +8,4 @@
 
 (3) A régészeti feltárások költségeit – a mentő feltárás, valamint a 23/F. § (6) bekezdésében foglalt eset kivételével – a 10. § (1) bekezdésére figyelemmel annak kell fedeznie, akinek érdekében az elvégzendő földmunka vagy a nyilvántartott régészeti lelőhely bolygatása szükségessé vált.
 
-(4) A régészeti feladatellátás hatósági ár alapján végezhető. A hatósági ár képzésének szabályait, módját és mértékét jogszabály határozza meg. A hatósági árra vonatkozó szabályokat évente felül kell vizsgálni.
+(4) A régészeti feladatellátás hatósági ár alapján végezhető. A régészeti feladatellátásra vonatkozó hatósági ár képzésének szabályait, az alkalmazható legmagasabb ár mértékét, valamint a régészeti feladatellátással összefüggő költségtételek figyelembevételének részletes szabályait kormányrendelet határozza meg. A hatósági árra vonatkozó szabályokat évente felül kell vizsgálni.
