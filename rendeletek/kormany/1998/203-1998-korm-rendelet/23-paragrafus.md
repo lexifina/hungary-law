@@ -16,9 +16,12 @@ b) tartozékból váltak fődologgá.
 
 (6) A bányafelügyelet a bányavállalkozót a biztonsági övezet terjedelmében szolgalom alapítására kötelezheti. A bányavállalkozó a biztonsági övezet fennállásának időtartama alatt jogosult a szolgalom alapítására.
 
-(7)[^228]
+(7)[^228] A vasúti pálya, folyóvíz és csatorna tulajdonosa vagy vagyonkezelője, az építtető megkeresését követő 30 napon belül köteles a Bt. 38/A. § (5b) bekezdése szerinti megállapodás megkötésére.
+
+(8)[^229] A Bt. 38/A. § (5a) és (5b) bekezdésben meghatározott megállapodást legkésőbb az elosztóvezeték használatba vételi engedélyének kiadásáig kell megkötni.
 
 [^225]: A Vhr. 23. § a 282/2003. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^226]: A Vhr. 23. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^227]: A Vhr. 23. § (5) bekezdését az 559/2013. (XII. 31.) Korm. rendelet 24. § (1) bekezdés 5. pontja hatályon kívül helyezte.
-[^228]: A Vhr. 23. §-ának (7) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 28. §-a iktatta be, hatályon kívül helyezte a 311/2014. (XII. 11.) Korm. rendelet 21. § (1) bekezdés d) pontja.
+[^228]: A Vhr. 23. § (7) bekezdését újonnan a 171/2015. (VI. 30.) Korm. rendelet 5. §-a iktatta be.
+[^229]: A Vhr. 23. § (8) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 5. §-a iktatta be.
