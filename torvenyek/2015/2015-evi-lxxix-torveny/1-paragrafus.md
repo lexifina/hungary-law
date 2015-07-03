@@ -1,0 +1,5 @@
+## 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
+
+1. § A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 29. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+„(11) A helyi önkormányzat – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda, forgalomcsillapító sziget, középsziget kiépítése, valamint az ezekhez kapcsolódó útfelújítási munkák esetében. A nem központi költségvetésből vagy nem európai uniós forrásból megvalósuló utak beruházója – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda, forgalomcsillapító sziget, középsziget kiépítése, valamint az ezekhez kapcsolódó útfelújítási munkák vonatkozásában.”

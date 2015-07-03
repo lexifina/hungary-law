@@ -1,0 +1,3 @@
+53. § Az Evt. 80. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A 79. § (1a) bekezdés a) pontja szerinti fakitermelés bejelentésére a 41. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bejelentést az igénybevételt engedélyező határozat alapján kell megtenni. A bejelentést az erdőgazdálkodón kívül az igénybevevő is benyújthatja. Mellőzhető a bejelentés, ha az erdő igénybevétele iránti kérelemben az engedélyes a fakitermelés tárgyévi vagy a tárgyévet követő évi végrehajtására vonatkozó szándékát előre jelezte. A fakitermelés a bejelentést és a 70. § (3) bekezdése szerinti műveleti lap kiállítását követően azonnal megkezdhető.”

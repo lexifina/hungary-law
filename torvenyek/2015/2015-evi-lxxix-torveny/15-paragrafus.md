@@ -1,0 +1,5 @@
+## 6. A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény módosítása
+
+15. § A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) 17. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) Amennyiben a nyomvonal felszín alatti vonalvezetéssel tervezett, a nyomvonal felszín alatti szakaszán a tengelytől számított 50 méteren belül a (4) bekezdés szerinti engedély a (7) bekezdésben foglaltak szerint adható ki. Az (1) bekezdés szerint védett terület fennmaradó részén a közlekedési hatóság az építtető hozzájárulásával megadhatja a (4) bekezdés szerinti engedélyt, ha a tevékenység értéknövekedést nem eredményez, vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy az autópálya építtetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.”

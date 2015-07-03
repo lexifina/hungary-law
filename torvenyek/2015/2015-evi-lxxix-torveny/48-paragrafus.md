@@ -1,0 +1,3 @@
+48. § A Tfvt. 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az átlagosnál jobb minőségű termőföldet más célra hasznosítani csak időlegesen, illetve helyhez kötött igénybevétel céljából lehet. A termőföldnek hulladéklerakó céljára történő igénybevétele esetén a környezetvédelmi és természetvédelmi követelmények betartása mellett, mezőgazdasági művelésre alkalmatlan vagy átlagosnál gyengébb minőségű termőföld más célú hasznosítása engedélyezhető. A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az átlagosnál jobb minőségű termőföld végleges más célú hasznosítása is engedélyezhető, amennyiben annak megvalósítása más jogszabály rendelkezéseire figyelemmel más helyen vagy más nyomvonalon nem lehetséges.”
