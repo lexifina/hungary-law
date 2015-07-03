@@ -1,0 +1,1 @@
+## „(4a) Ha a vízvezetési szolgalom alapítására a vízjogi létesítési engedélyezési eljárásban nem került sor és a vízilétesítmény már megépült, az üzemeltető kérésére a hatóság a vízjogi üzemeltetési engedélyezési eljárásban is alapíthat szolgalmat.”
