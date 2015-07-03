@@ -584,7 +584,7 @@ Eljárásspecifikus technológiai kibocsátási határértékek és egyéb elő�
 
 1.2. A tömegáram küszöb alá eső (küszöbnél kisebb tömegáram esetén) légszennyező anyag kibocsátása esetén (a kibocsátási koncentráció vizsgálata nélkül) a légszennyező forrás üzemeltetőjének levegőtisztaság-védelmi alapbejelentést kell tennie (LAL). Amennyiben a légszennyező anyag kibocsátása eléri vagy meghaladja a küszöbértéket, a légszennyezés éves mértékét is be kell jelenteni. A légszennyezőanyag koncentrációra meghatározott kibocsátási határértékek, amennyiben jogszabály másként nem rendelkezik, 273 K hőmérsékletű és 101,3 kPa nyomású száraz véggázra vonatkoznak.
 
-1.3. Azoknál a technológiáknál, amelyeknél nincs vonatkoztatási O2-tartalom megadva, a technológiai kibocsátási határértékeknek való megfelelés értékelése a vonatkoztatási O2-tartalomra történő átszámítás nélkül, a 6. § figyelembevételével történik. Ezt kell alkalmazni az 5. mellékletben felsorolt, kibocsátott légszennyező anyagok tekintetében is.
+1.3. Azoknál a technológiáknál, amelyeknél nincs vonatkoztatási O2-tartalom megadva, a technológiai kibocsátási határértékeknek való megfelelés értékelése a vonatkoztatási O2-tartalomra történő átszámítás nélkül, a 6. § figyelembevételével történik. Ezt kell alkalmazni a 6. mellékletben felsorolt, kibocsátott légszennyező anyagok tekintetében is.
 
 1.4. Azoknál a termikus technológiáknál, melyekre nincs eljárás specifikus határérték előírva, de az üzemszerű működés esetén az oxigén tartalom több mint 19%, a vonatkozási oxigéntartalmat nem kell figyelembe venni.
 
@@ -710,13 +710,17 @@ Eljárásspecifikus technológiai kibocsátási határértékek és egyéb elő�
 
 |  | A | B | C |
 
-| 1 | Kupolókemencék teljesítménye | Kibocsátási határérték |
+| 1 | A kupolókemence típusa és teljesítménye | Kibocsátási határérték | Kibocsátási határérték |
 
 | 2 |  | Szilárd anyag | Szén-monoxid |
 
-| 3 | 8 t/h névleges kapacitásig | 250 [mg/m3] | 1100 [mg/m3] |
+| 3 | 8 t/h-nál kisebb névleges kapacitású hidegszeles kupolókemence | 250 [mg/m3] | 250 [kg/t beadagolt anyagmennyiség] |
 
-| 4 | 8 t/h vagy ennél nagyobb névleges kapacitás esetében | 150 [mg/m3] | 1000 [mg/m3] |
+| 4 | 8 t/h-nál kisebb névleges kapacitású forrószeles kupolókemence | 250 [mg/m3] | 1100 [mg/m3] |
+
+| 5 | 8 t/h vagy ennél nagyobb névleges kapacitású hidegszeles kupolókemence | 150 [mg/m3] | 250 [kg/t beadagolt anyagmennyiség] |
+
+| 6 | 8 t/h vagy ennél nagyobb névleges kapacitású forrószeles kupolókemence | 150 [mg/m3] | 1000 [mg/m3] |
 
 2.7.2. A technológiából kikerülő valamennyi légszennyező anyag esetében a kibocsátási határértékek 8 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkoznak.
 
@@ -784,7 +788,7 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 | 6 | Kokszoló-aláfűtés |  | 800 |  |
 
-| 7 | Petrolkoksz tüzelés esetében az 5. melléklet 1. pont B osztályában felsorolt anyagok kibocsátási határértéke |  |  | 5 mg/m3 |
+| 7 | Petrolkoksz tüzelés esetében a 6. melléklet 2.1.1. pont B osztályában felsorolt anyagok kibocsátási határértéke |  |  | 5 mg/m3 |
 
 2.12.1. Agyag alapú kerámiagyártmányok égetése, szárítása (tégla- és cserépgyártás, valamint a burkolólapok gyártása kivételével)
 
@@ -1156,7 +1160,7 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 | 6 | – finomítói fűtőgáz tüzelés | 5 | 200 | 300 | 100 |
 
-2.42.2. Folyékony fűtőanyag esetében az 5. melléklet 1. pont B osztályában felsorolt anyagok kibocsátási határértéke 5 mg/m3.
+2.42.2. Folyékony fűtőanyag esetében a 6. melléklet 2.1.1. pont B osztályában felsorolt anyagok kibocsátási határértéke 5 mg/m3.
 
 2.42.3. A vegyes tüzelésű csőkemencék esetén a technológiai kibocsátási határértéket a felhasznált tüzelőanyagokkal bevitt hőteljesítmények arányában kell figyelembe venni.
 
@@ -1224,7 +1228,7 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 | 8 | Benzol | 5 |
 
-| 9 | Szerves anyagok, az 5. melléklet 3. pontja szerinti |  |
+| 9 | Szerves anyagok, a 6. melléklet 2.3.1. pontja szerinti |  |
 
 | 10 | A osztályba tartozó anyagok | 20 |
 
@@ -1236,7 +1240,7 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.45.3. A kibocsátási határértékek a közvetlen füstgáz szárításra is vonatkoznak.
 
-2.45.4. A 2.45.1. pontban foglalt táblázat 6–11. sorában szereplő légszennyező anyagokat ötévente kell mérni.
+2.45.4. A 2.45.1. pontban foglalt táblázat 6–12. sorában szereplő légszennyező anyagokat ötévente kell mérni.
 
 2.46. Vasérczsugorítás
 
@@ -1354,4 +1358,4 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.56.2. A kibocsátási határérték 11 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkozik.
 
-[^10]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a szerint módosított szöveg.
+[^10]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a szerint módosított szöveg.

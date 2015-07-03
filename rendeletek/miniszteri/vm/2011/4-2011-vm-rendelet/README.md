@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-4-20-2Y
 | 2011-01-16 | 2011-4-20-2Y.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-07-24 | 2011-4-20-2Y.3 | 71/2012. (VII. 16.) VM rendelet |
 | 2013-12-24 | 2011-4-20-2Y.4 | 119/2013. (XII. 16.) VM rendelet |
+| 2015-07-03 | 2011-4-20-2Y.5 | 71/2012. (VII. 16.) VM rendelet |
