@@ -1,6 +1,10 @@
 3. § (1) A vizekkel és a vízilétesítményekkel összefüggő állami feladatok körében az igazgatási tevékenységeket (a továbbiakban: vízügyi igazgatás) a vízügyi igazgatási szervek végzik.
 
-(2) A vízügyi igazgatási szervek látják el – a víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó vizek és vízilétesítmények kivételével – az állami tulajdonban lévő vizek és vízilétesítmények vagyonkezelését, azok üzemeltetését, fenntartását és fejlesztését.
+(2) Törvény eltérő rendelkezése hiányában, valamint a víziközmű-szolgáltatásról szóló törvény hatálya alá tarozó vízilétesítmények és a nyári gátak kivételével a vízügyi igazgatási szervek látják el
+
+a) az állami tulajdonban lévő vizek és vízilétesítmények, a felszín alatti vizek víztartó képződményeinek és a felszíni vizek medreinek vagyonkezelését,
+
+b) az állami tulajdonban lévő vízilétesítmények üzemeltetését, fenntartását és fejlesztését.
 
 (3) A (2) bekezdésben foglaltakra tekintettel, azon állami tulajdonban lévő vizek és vízilétesítmények, amelyek vonatkozásában vízitársulat vagyonkezelői joga vagy kezelői joga van bejegyezve az ingatlan-nyilvántartásba, vagy egyébként vízitársulat üzemeltetésében állnak, e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
 

@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-57-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1995-57-00-00.43 |
 | 2014-10-01 | 2013. évi CCXLIX. törvény | 1995-57-00-00.44 |
 | 2014-12-31 | 2014. évi XCIII. törvény | 1995-57-00-00.45 |
+| 2015-07-03 | 2015. évi LXXIX. törvény | 1995-57-00-00.46 |
