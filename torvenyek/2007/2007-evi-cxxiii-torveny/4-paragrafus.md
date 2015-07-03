@@ -8,13 +8,13 @@ c) a 2. § d) pontja szerinti célból, valamint terület- és településrendez
 
 d) közlekedési infrastruktúra fejlesztése keretében közút, vasút, repülőtér, híd, alagút, hajózási létesítmény létesítése, fejlesztése céljából, ha
 
-da) gyorsforgalmi közúthálózatnak jogszabállyal megállapított nyomvonalon való megépítése, vagy országos közút építése érdekében szükséges,
+da) gyorsforgalmi közúthálózatnak jogszabállyal megállapított nyomvonalon való megépítése, országos közút vagy helyi közút építése érdekében szükséges,
 
 db) a felszíni vagy felszín alatti vasút létesítési joga alapján történő igénybevétel (létesítés, üzemeltetés) a létesítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza,
 
 dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
 
-dd) híd vagy alagút építése, fejlesztése érdekében, amennyiben arra – országos közút építése, fenntartása, fejlesztése, üzemeltetése érdekében – közlekedésbiztonsági, vagy közlekedéspolitikai szempontok alapján kerül sor,
+dd) híd vagy alagút építése, fejlesztése érdekében szükséges, amennyiben arra – országos közút vagy helyi közút építése, fenntartása, fejlesztése, üzemeltetése érdekében – közlekedésbiztonsági vagy közlekedéspolitikai szempontok alapján kerül sor,
 
 de) közforgalmú kikötő, úszóműves kikötőhely, komp- és révátkelőhely, valamint más hajózási létesítmény, továbbá a víziközlekedés irányítására és a hajóút kitűzésére szolgáló jelek elhelyezése a parti ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza;
 
@@ -102,13 +102,15 @@ n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó ki
 
 na) a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül,
 
-nb) a sportlétesítmény létesítése olimpia vagy valamely sportágban Európa-bajnokság vagy világbajnokság megrendezése céljából történik;
+nb) a sportlétesítmény létesítése olimpia vagy valamely sportágban Európa-bajnokság vagy világbajnokság megrendezése céljából történik,
+
+nc) az egyedileg meghatározott sport- és szabadidő infrastruktúrafejlesztés megvalósításáról külön törvény rendelkezik;
 
 o) a 2. § r) pontja szerinti célból az Országgyűlés Hivatalának lakóingatlannak nem minősülő ingatlanban történő elhelyezése érdekében.
 
 (2) Nem kell alkalmazni
 
-a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, o) pontja, valamint törvényben vagy kormányrendeletben nemzetgazdasági szempontból kiemelt jelentőségű ügynek minősített beruházások esetében,
+a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, o) pontja, valamint nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházások (a továbbiakban: nemzetgazdasági szempontból kiemelt jelentőségű beruházás) esetében,
 
 b) a 3. § (1) bekezdés c) pontját e paragrafus (1) bekezdés i) pont ia) alpontja, j) pontja, l) pont la) alpontja és m) pont ma) és mc) alpontja esetében.
 

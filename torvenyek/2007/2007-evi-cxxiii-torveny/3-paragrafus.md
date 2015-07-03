@@ -2,7 +2,7 @@
 
 a) a közérdekű cél megvalósítása az ingatlanon fennálló tulajdon korlátozásával nem lehetséges, vagy – külön törvény alapján – a közérdekű használati jog, vezetékjog, szolgalmi jog alapításában a tulajdonossal nem jött létre megállapodás, illetve e jogokat az illetékes hatóság nem engedélyezte;
 
-b) az ingatlan tulajdonjogának megszerzése adásvétel – törvényben meghatározott esetben csere – útján nem lehetséges;
+b) az ingatlan tulajdonjogának megszerzése adásvétel vagy csere útján nem lehetséges;
 
 c) a közérdekű cél megvalósítására kizárólag az adott ingatlanon kerülhet sor, illetve ha a közérdekű cél megvalósítására több ingatlan alkalmas, annak más ingatlanon való megvalósítása a tulajdon nagyobb sérelmével járna; és
 
@@ -10,7 +10,7 @@ d) a kisajátítással biztosított tevékenység közösségi előnyei a tulajd
 
 (2) Az adásvételi vagy csereszerződés megkötését meghiúsultnak kell tekinteni, ha
 
-a) a kisajátítást kérőnek – a kisajátítási kérelem benyújtását megelőző egy éven belül megtett – ajánlatát a tulajdonos vagy más kártalanításra jogosult a kézhezvételtől számított harminc napon belül nem fogadja el, illetve arra nem nyilatkozik;
+a) a kisajátítást kérőnek – a kisajátítási kérelem benyújtását megelőző 1 éven belül megtett – ajánlatára a tulajdonos vagy más kártalanításra jogosult a kézhezvételtől számított harminc napon belül nem tesz a tulajdonjog ingatlan-nyilvántartási átvezetésére is alkalmas elfogadó nyilatkozatot;
 
 b) a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen, illetve az ingatlan tulajdonjogával összefüggésben per van folyamatban és azt az ingatlan-nyilvántartásba feljegyezték, feljegyzés alatt áll, illetve más módon igazolták; vagy
 

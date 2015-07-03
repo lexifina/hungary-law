@@ -12,7 +12,7 @@ a) az e törvény végrehajtására kiadott jogszabály szerint a kisajátítás
 
 b) a kisajátítást kérő bejelentését az ingatlan tulajdonosa és más ügyfelek nevéről, lakáscíméről (székhelyéről), ha ezek az adatok a kisajátítási terv elkészítését követően megváltoztak;
 
-c) a kisajátítást kérő nyilatkozatát – kivéve az 5. § szerinti és a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) szerinti kisajátítást – arról, hogy a kártalanításhoz szükséges pénzügyi fedezet rendelkezésre áll;
+c) a kisajátítást kérő nyilatkozatát – kivéve az 5. § szerinti, valamint a nemzetgazdasági szempontból kiemelt jelentőségű ügyek közül nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő üggyé minősítő jogszabályban meghatározott beruházást (a továbbiakban: nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás) – arról, hogy a kártalanításhoz szükséges pénzügyi fedezet rendelkezésre áll;
 
 d) a kisajátítás céljának megfelelően a 7. § szerinti dokumentumokat;
 

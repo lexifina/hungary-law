@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2007-123-00-00.19 |
 | 2015-04-01 | 2015. évi VIII. törvény | 2007-123-00-00.20 |
 | 2015-04-08 | 2015. évi XXXIII. törvény | 2007-123-00-00.21 |
+| 2015-07-03 | 2015. évi LXXIX. törvény | 2007-123-00-00.22 |

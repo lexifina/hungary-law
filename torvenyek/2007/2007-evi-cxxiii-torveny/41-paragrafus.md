@@ -14,4 +14,6 @@ vonatkozó szabályokat rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a Kormány, hogy a kisajátítási hatóságot rendeletben jelölje ki.
 
+(3b) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás kapcsán a szakértő előzetes kirendelése során a kisajátítást kérő által előzetesen letétbe helyezendő szakértői költségek összegét, vagy az összeg számításának módját rendeletben határozza meg.
+
 (4) Azok a nem igazságügyi szakértők, akik e törvény hatálybalépésének időpontjában, jogszabályi rendelkezés alapján kisajátítási eljárásban szakértőként való eljárásra jogosultak, e törvény hatálybalépését követő egy évig szakértőként kirendelhetők, eljárásukra az e törvény hatálybalépését megelőzően hatályos rendelkezéseket kell alkalmazni.
