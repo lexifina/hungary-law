@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2014-07-11 | 2014. évi XXXI. törvény | 2010-87-00-00.20 |
 | 2015-01-01 | 2013. évi CCXII. törvény | 2010-87-00-00.21 |
 | 2015-03-01 | 2014. évi CXI. törvény | 2010-87-00-00.22 |
+| 2015-07-03 | 2015. évi LXXIX. törvény | 2010-87-00-00.23 |
