@@ -46,14 +46,26 @@ b) – ha a NIF Zrt. vagy a közút 33. § (1) bekezdés b) pont ba) alpontja sz
 
 (10) Ha az út megszüntetését engedélyezték és más célra nem hasznosítható, az út vagyonkezelője köteles azt elbontani.
 
-(11) A helyi önkormányzat – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda kiépítése esetében. A nem állami költségvetésből vagy nem uniós forrásból megvalósuló utak beruházója – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda kiépítése vonatkozásában.
+(11) A helyi önkormányzat – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda, forgalomcsillapító sziget, középsziget kiépítése, valamint az ezekhez kapcsolódó útfelújítási munkák esetében. A nem központi költségvetésből vagy nem európai uniós forrásból megvalósuló utak beruházója – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda, forgalomcsillapító sziget, középsziget kiépítése, valamint az ezekhez kapcsolódó útfelújítási munkák vonatkozásában.
 
 (12) Törvény a gyorsforgalmi utak tervezésére, építésére és kivitelezésére az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
 
-(13) A település forgalmi viszonyainak lényeges változását eredményező új közút építése vagy meglévő közút fejlesztése esetén – az eredeti cél megvalósulását közvetlenül nem szolgáló – további közlekedési célú beruházás (pl. útszélesítés, új elkerülő út építése, forgalomcsillapító szabályozás) megvalósítására vonatkozó igény a szükséges hozzájárulások, beleegyezések megadásának feltételeként akkor terjeszthető elő, ha egyébként a településen a forgalomba helyezéstől egy éven belül – az elvégzett hatásvizsgálatok szerint – létrejövő forgalmi helyzet alapján a beruházáshoz csatlakozó közutakon a forgalomnövekedés meghaladja a 25%-ot, és
+(13) A település forgalmi viszonyainak lényeges változását eredményező új közút építése vagy meglévő közút fejlesztése esetén – az eredeti cél megvalósulását közvetlenül nem szolgáló – további közlekedési célú beruházás – így különösen útszélesítés, új elkerülő út építése, forgalomcsillapító szabályozás – megvalósítására vonatkozó igényt a települési önkormányzat az útügyi építési engedélyezési eljárásban a helyi közútkezelési vagy tulajdonosi hozzájárulás megadásának feltételeként akkor terjeszthet elő, ha a településen a forgalomba helyezéstől számított egy éven belül – a közútépítés vagy közútfejlesztés részeként készült hatástanulmány szerint – a létrejövő forgalmi helyzet alapján a beruházáshoz csatlakozó közutakon a forgalomnövekedés a 25%-ot meghaladja, és
 
 a) az eltűrhető forgalomnagyság határértéke nem teljesül, vagy
 
-b) a jogszabályban foglalt egyéb előírás (pl. előírt környezeti határérték) az útépítést követően nem teljesül.
+b) a jogszabályban foglalt környezeti határérték az útépítést követően nem teljesül.
+
+(13a) Az önkormányzat hozzájárulását az építésügyi engedélyezést lefolytató hatóság megadottnak tekinti, ha
+
+a) az önkormányzat az építtető megkeresésétől számított 30 napon belül nem nyilatkozott a hozzájárulás megadásáról,
+
+b) a (13) bekezdésben foglalt feltételek nem állnak fenn és az önkormányzat határidőben úgy nyilatkozott, hogy hozzájárulását nem adja meg vagy hozzájárulását feltételhez köti, vagy
+
+c) a (13) bekezdésben foglalt feltételek fennállnak, de az önkormányzat a hozzájárulását olyan beruházás megvalósításához kötötte,
+
+ca) amely nem alkalmas a forgalomcsökkentésre vagy a forgalomnövekedés káros hatásainak enyhítésére, vagy
+
+cb) amelynek megvalósítása – akár műszaki adottságai, akár aránytalan költségei miatt – ellehetetlenítené a közútépítést, közútfejlesztést.
 
 (14) A díjköteles országos közutak díjfizetés ellenében történő használatának biztosításához, és a díjfizetés ellenőrzéséhez szükséges létesítmények kiépítése során építtetőként a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.) jár el.

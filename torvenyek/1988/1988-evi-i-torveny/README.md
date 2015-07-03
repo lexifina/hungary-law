@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2015-04-01 | 2015. évi VI. törvény | 1988-1-00-00.75 |
 | 2015-06-21 | 2015. évi LXX. törvény | 1988-1-00-00.76 |
 | 2015-06-30 | 2015. évi LXXXVII. törvény | 1988-1-00-00.77 |
+| 2015-07-03 | 2015. évi LXXIX. törvény | 1988-1-00-00.78 |
