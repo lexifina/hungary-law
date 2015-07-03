@@ -386,6 +386,90 @@
 
 ## 193.[^78] Nagycsaládos kedvezményre vonatkozóan a felhasználási hely és jogosultságot érintő egyéb adat megváltozása esetén az erről szóló adatváltozás bejelentése
 
+## 194.[^79] Tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott kérelem, közérdekű bejelentés, panasz (a Gazdasági Versenyhivatalnál benyújtható bejelentés kivételével)
+
+## 195.[^80] Ingatlanhasználó hulladékgazdálkodási közszolgáltatóval szemben benyújtott kérelme
+
+## 196.[^81] Felhasználó földgáz-szolgáltatóval szemben benyújtott kérelme
+
+## 197.[^82] Felhasználó vízközmű-szolgáltatóval szemben benyújtott kérelme
+
+## 198.[^83] Felhasználó villamosenergia-szolgáltatóval szemben benyújtott kérelme
+
+## 199.[^84] Felhasználó távhő-szolgáltatóval szemben benyújtott kérelme
+
+## 200.[^85] Általános kereskedelmi jogszabályok megtartásához, illetve panaszkezeléshez kapcsolódó kérelem, közérdekű bejelentés, panasz
+
+## 201.[^86] Ártájékoztatással összefüggő kérelem, közérdekű bejelentés, panasz
+
+## 202.[^87] Fiatalkorúak alkohol-, dohány-, illetve szexuális termékkel történő kiszolgálása miatti kérelem, közérdekű bejelentés, panasz
+
+## 203.[^88] Üzleten kívül kötött szerződések alapján nyújtott szolgáltatások, illetve termékértékesítési tevékenység vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
+
+## 204.[^89] Elektronikus kereskedelmi tevékenységhez kapcsolódó kérelem, közérdekű bejelentés, panasz
+
+## 205.[^90] Hírközlési szolgáltató tevékenységével kapcsolatos kérelem
+
+## 206.[^91] Szavatosság és jótállás vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
+
+## 207.[^92] Idegenforgalmi szolgáltatásokkal összefüggő kérelem, közérdekű bejelentés, panasz
+
+## 208.[^93] Szállás időben megosztott használati jogára vonatkozó szerződésekkel és azok alapján nyújtott szolgáltatásokkal kapcsolatos kérelem, közérdekű bejelentés, panasz
+
+## 209.[^94] Élelmiszerek jelölésével kapcsolatos megtévesztő kereskedelmi gyakorlatokkal összefüggő kérelem, közérdekű bejelentés, panasz
+
+## 210.[^95] Termékbiztonság vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
+
+## 211.[^96] Rehabilitációs ellátás folyósításának szüneteltetésére irányuló bejelentés
+
+## 212.[^97] Rehabilitációs ellátás újbóli folyósítása iránti kérelem
+
+## 213.[^98] Rehabilitációs ellátás megszüntetése iránti kérelem
+
+## 214.[^99] Rokkantsági ellátás megszüntetése iránti kérelem
+
+## 215.[^100] Öregségi nyugdíj megállapítása iránti kérelem
+
+## 216.[^101] Nők kedvezményes öregségi nyugdíjának megállapítása iránti kérelem
+
+## 217.[^102] Nyugdíj összegének folyósítás nélküli megállapítása (rögzített nyugdíj) iránti kérelem
+
+## 218.[^103] Saját jogú nyugdíjasként történő foglalkoztatás esetén járó nyugdíjnövelés megállapítása iránti kérelem
+
+## 219.[^104] Árvaellátás megállapítása iránti kérelem
+
+## 220.[^105] Szülői nyugdíj megállapítása iránti kérelem
+
+## 221.[^106] Özvegyi nyugdíj megállapítása iránti kérelem
+
+## 222.[^107] Baleseti hozzátartozói nyugellátás (özvegyi nyugdíj) megállapítása iránti kérelem
+
+## 223.[^108] Baleseti hozzátartozói nyugellátás (árvaellátás) megállapítása iránti kérelem
+
+## 224.[^109] Baleseti hozzátartozói nyugellátás (szülői nyugdíj) megállapítása iránti kérelem
+
+## 225.[^110] Rokkantsági járadék megállapítása iránti kérelem
+
+## 226.[^111] Baleseti járadék megállapítása iránti kérelem
+
+## 227.[^112] Állapotrosszabbodásra hivatkozással baleseti fokozatnak megfelelő járadék megállapítása iránti kérelem
+
+## 228.[^113] Baleseti járadék feléledésének a megállapítása iránti kérelem
+
+## 229.[^114] Korhatár előtti ellátás megállapítása iránti kérelem
+
+## 230.[^115] Korhatár előtti ellátás megszüntetése iránti kérelem
+
+## 231.[^116] Öregségi nyugdíjkorhatár betöltését követően az öregségi nyugdíj összegének ismételt megállapítása iránti kérelem
+
+## 232.[^117] Gyermektartásdíj továbbfolyósítása iránti kérelem
+
+## 233.[^118] Gyám, hivatásos gyám, családbafogadó gyám kirendelésére irányuló kérelem
+
+## 234.[^119] Kérelem a szülői felügyeleti jog gyakorlásával kapcsolatban
+
+## 235.[^120] Családba fogadásra, illetve családba fogadás megszüntetésére irányuló kérelem
+
 4. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
 [^21]: A 3. melléklet 21. pontja a 221/2014. (IX. 4.) Korm. rendelet 791. § d) pontja szerint módosított szöveg.
@@ -446,3 +530,45 @@
 [^76]: A 3. melléklet 191. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^77]: A 3. melléklet 192. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^78]: A 3. melléklet 193. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^79]: A 3. melléklet 194. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^80]: A 3. melléklet 195. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^81]: A 3. melléklet 196. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^82]: A 3. melléklet 197. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^83]: A 3. melléklet 198. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A 3. melléklet 199. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^85]: A 3. melléklet 200. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^86]: A 3. melléklet 201. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^87]: A 3. melléklet 202. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^88]: A 3. melléklet 203. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^89]: A 3. melléklet 204. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^90]: A 3. melléklet 205. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^91]: A 3. melléklet 206. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^92]: A 3. melléklet 207. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^93]: A 3. melléklet 208. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^94]: A 3. melléklet 209. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^95]: A 3. melléklet 210. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^96]: A 3. melléklet 211. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^97]: A 3. melléklet 212. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^98]: A 3. melléklet 213. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^99]: A 3. melléklet 214. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^100]: A 3. melléklet 215. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^101]: A 3. melléklet 216. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^102]: A 3. melléklet 217. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^103]: A 3. melléklet 218. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^104]: A 3. melléklet 219. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^105]: A 3. melléklet 220. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^106]: A 3. melléklet 221. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^107]: A 3. melléklet 222. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^108]: A 3. melléklet 223. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^109]: A 3. melléklet 224. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^110]: A 3. melléklet 225. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^111]: A 3. melléklet 226. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^112]: A 3. melléklet 227. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^113]: A 3. melléklet 228. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^114]: A 3. melléklet 229. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^115]: A 3. melléklet 230. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^116]: A 3. melléklet 231. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^117]: A 3. melléklet 232. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^118]: A 3. melléklet 233. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^119]: A 3. melléklet 234. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^120]: A 3. melléklet 235. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.

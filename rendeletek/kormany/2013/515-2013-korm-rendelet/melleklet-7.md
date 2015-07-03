@@ -26,7 +26,7 @@
 
 ## 13. Az elhunyt személyek okmányaival kapcsolatos intézkedések megtétele
 
-7. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^107]
+7. melléklet az 515/2013. (XII. 30.) Korm. rendelethez[^149]
 
 Az eltérő eljárásrendben működő kormányablakokra meghatározott ügykörök
 
@@ -320,4 +320,4 @@ d) egyéni vállalkozói tevékenység megszűnésének elektronikus bejelentés
 
 4.1. A kormányablak az építésügyi és építésfelügyeleti hatósági és a szakhatósági eljárásokkal összefüggésben iratbetekintési és iratmásolati szolgáltatási lehetőséget biztosít az ügyfél azonosítását követően az egyedi ügy irataiba, amelyben az ezt kérelmező ügyféli jogállással rendelkezik, és amely iratra iratbetekintési joga van.
 
-[^107]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 240. § (6) bekezdése iktatta be.
+[^149]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 240. § (6) bekezdése iktatta be.
