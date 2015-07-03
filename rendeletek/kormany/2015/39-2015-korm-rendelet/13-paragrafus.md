@@ -12,8 +12,10 @@ e) a tereprendezésre vonatkozó adatokat,
 
 f) a kivitelezés megkezdésének tervezett időpontját,
 
-g) nyilatkozatot arról, hogy a beruházás nagyberuházásnak minősül-e,
+g)[^17] – a Kötv. 7. § 20. pont c) alpontja kivételével – nyilatkozatot arról, hogy a beruházás nagyberuházásnak minősül-e,
 
 h) nagyberuházás esetén nyilatkozatot a beruházás teljes bekerülési költségének tervezett összegéről, és
 
 i) a beruházás építési engedélyét, ha az rendelkezésre áll.
+
+[^17]: A 13. § g) pontja a 171/2015. (VI. 30.) Korm. rendelet 23. §-ával megállapított szöveg.

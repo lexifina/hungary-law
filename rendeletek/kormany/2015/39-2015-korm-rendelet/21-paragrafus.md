@@ -13,3 +13,7 @@ b) a beruházó arra vonatkozó nyilatkozatát, hogy a beruházás nagyberuház�
 c) a beruházásnak a Kötv. 23/F. § (4) bekezdése alapján tervezett teljes bekerülési költségének tervezett összegéről szóló nyilatkozatot.
 
 (3) A próbafeltárás a bejelentés megtételét követően kezdhető meg, ha jogszabály alapján egyéb engedélyre nincs szükség.
+
+(4)[^27] Az előzetes régészeti dokumentáció keretében végzett próbafeltáráshoz kapcsolódó földmunka elvégzését a beruházó költségén a Hivatal biztosítja.
+
+[^27]: A 21. § (4) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 28. §-a iktatta be.

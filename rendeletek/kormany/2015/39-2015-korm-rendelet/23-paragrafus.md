@@ -8,8 +8,11 @@ c) az a)–b) pont szerinti múzeum hiányában a megyére akkreditált legmagas
 
 d) az a)–c) pont szerint akkreditált intézmény hiányában országos akkreditációjú intézmény az elért pontszámok sorrendje szerint,
 
-e) a beruházás helye szerinti, az a)–d) pontban meghatározott intézmény hiányában a Hivatal
+e)[^35] a beruházás helye szerinti, az a)–d) pontban meghatározott intézmény, a közlekedési infrastruktúra-beruházás esetén annak saját kapacitása hiányában a Hivatal
 
 ## végez.
 
-(2) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó ügy tárgyát képező beruházás esetében – a kiemelt üggyé nyilvánításról szóló kormányrendeletben – a Kormány kijelölheti a megelőző feltárás végzésére jogosult akkreditált intézményt.
+(2)[^36] A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá tartozó ügy tárgyát képező beruházás esetében – a kiemelt üggyé nyilvánításról szóló kormányrendeletben – a Kormány kijelölheti a megelőző feltárás végzésére jogosult akkreditált intézményt vagy a Hivatalt.
+
+[^35]: A 23. § (1) bekezdés e) pontja a 171/2015. (VI. 30.) Korm. rendelet 45. § d) pontja szerint módosított szöveg.
+[^36]: A 23. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § e) pontja szerint módosított szöveg.

@@ -14,6 +14,10 @@ f) a különleges munkavégzési körülmények esetére vonatkozó rendelkezés
 
 g) a megelőző feltáráshoz kapcsolódó földmunkával kapcsolatos rendelkezéseket, valamint
 
-h) a régészeti feladatellátás megkezdéséhez szükséges előlegnek a felek megállapodása szerinti összegét.
+h) a régészeti feladatellátás megkezdéséhez szükséges előlegnek a felek megállapodása szerinti összegét,
+
+i)[^22] a tételes költségelszámolás módját és határidejét.
 
 (2) Ha a hatóság a beruházás engedélyezése során előírta a megelőző feltárás módját, akkor a szerződésben az előírtaktól eltérni nem lehet.
+
+[^22]: A 15. § (1) bekezdés i) pontját a 171/2015. (VI. 30.) Korm. rendelet 25. §-a iktatta be.

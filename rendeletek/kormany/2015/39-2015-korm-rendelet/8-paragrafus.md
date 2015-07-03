@@ -1,6 +1,6 @@
 ## megakadályozza.
 
-8. § (1) A feltárási jelentés tartalmazza
+8. § (1)[^6] A régészeti feltárásról jelentést kell készíteni, mely tartalmazza
 
 a) a 3. mellékletben meghatározott tartalmú lelőhely-bejelentő adatlapot,
 
@@ -8,7 +8,7 @@ b) a szöveges ismertetést és
 
 c) a feltárás helyszínrajzát.
 
-(2) Az (1) bekezdés a) pontja szerinti adatlapot minden lelőhelyről külön kell kitölteni. A Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ (a továbbiakban: Hivatal) honlapján közzétett adatlap papír alapon vagy a Hivatal által meghatározott módon elektronikus úton is kitölthető és beküldhető.
+(2)[^7] Az (1) bekezdés a) pontja szerinti adatlapot minden lelőhelyről külön kell kitölteni.
 
 (3) Az (1) bekezdés b) pontja szerinti szöveges ismertetés tartalmazza:
 
@@ -34,7 +34,7 @@ a) papír alapon és elektronikus adathordozón
 
 aa) a hatóságnak,
 
-ab) a Hivatal Nyilvántartási Irodájának (a továbbiakban: Nyilvántartási Iroda) és
+ab)[^8] a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ (a továbbiakban: Hivatal) Nyilvántartási Irodájának (a továbbiakban: Nyilvántartási Iroda) és
 
 ac) a Magyar Nemzeti Múzeumnak,
 
@@ -47,3 +47,7 @@ bb) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más 
 bc) az illetékes környezetvédelmi és természetvédelmi felügyelőségnek és a működési területével érintett nemzeti park igazgatóságnak, ha a feltárás országos jelentőségű védett természeti területen történt.
 
 (5) A jelentés további egy példányát abban az intézményben kell elhelyezni, amelyik a feltárási engedélyt kapta.
+
+[^6]: A 8. § (1) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^7]: A 8. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^8]: A 8. § (4) bekezdés a) pont ab) alpontja a 171/2015. (VI. 30.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.

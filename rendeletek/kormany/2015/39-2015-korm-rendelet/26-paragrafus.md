@@ -9,3 +9,7 @@
 (4) Ha a feltárást nem a leletanyagot véglegesen befogadó múzeum végezte, a feltárások leletanyaga a teljes tudományos feldolgozásig, legfeljebb azonban a feltárás befejezésétől számított öt évig a feltárást végző intézmény őrzésében maradhat. Ezt követően az engedélyes a restaurált és tudományosan feldolgozott leletanyagot – a befogadó múzeum alapleltárába vételre előkészítve – köteles átadni a feltárási engedélyben a leletanyag befogadójaként megjelölt múzeumnak.
 
 (5) Ha a feltárás során 1711 utáni emberi maradványok kerülnek elő, a feltárást végző intézmény erről haladéktalanul köteles a hatóságot értesíteni.
+
+(6)[^39] A végleges leletbefogadás költségeiről a feltáró intézmény és a leletanyagot véglegesen befogadó múzeum között kötendő megállapodás során figyelemmel kell lenni a befogadott leletek mennyiségével arányos egyszeri költségekre, melyek különösen a gyűjteményi alapleltárba vétel és a raktárkapacitás bővítésének költségei.
+
+[^39]: A 26. § (6) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 33. §-a iktatta be.

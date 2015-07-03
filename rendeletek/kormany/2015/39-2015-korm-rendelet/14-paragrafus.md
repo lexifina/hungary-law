@@ -8,10 +8,17 @@ c) a résztevékenységek egységnyi költsége mind területegység, mind időe
 
 d) az egységre nem vetíthető résztevékenységek tételes költsége,
 
-e) az egységnyi költség mértékét befolyásoló tényezők, így különösen: régészeti rétegek várható száma, régészeti emlékek várható száma, kiterjedése, leletsűrűség,
+e)[^18] az egységnyi költség mértékét befolyásoló tényezők, így különösen: régészeti rétegek várható száma, réteg jelentkezésének mélysége, rétegsor mélysége, régészeti emlékek várható száma, kiterjedése, leletsűrűség,
 
-f) járulékos (infrastrukturális, logisztikai) költségek.
+f)[^19] járulékos (infrastrukturális, logisztikai, koordinációs) költségek,
 
-(2) A régészeti feladatellátás költségeire vonatkozó hatósági árakat az 5. melléklet tartalmazza.
+g)[^20] az elsődleges leletfeldolgozás költségei, legfeljebb a régészeti feltárás költségeinek harminc százaléka.
+
+(2)[^21] A régészeti feladatellátás költségeire alkalmazható legmagasabb hatósági árakat az 5. melléklet tartalmazza.
 
 (3) Az elfedést vizsgáló talajtani fúrások költségeinek meghatározása a beruházóval egyeztetett költségtétel alapján történik.
+
+[^18]: A 14. § (1) bekezdés e) pontja a 171/2015. (VI. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^19]: A 14. § (1) bekezdés f) pontja a 171/2015. (VI. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^20]: A 14. § (1) bekezdés g) pontját a 171/2015. (VI. 30.) Korm. rendelet 24. §-a iktatta be.
+[^21]: A 14. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § a) pontja szerint módosított szöveg.

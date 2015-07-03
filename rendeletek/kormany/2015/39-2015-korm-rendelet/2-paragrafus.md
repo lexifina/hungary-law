@@ -12,4 +12,7 @@
 
 5. területátvétel: a régészeti feltárást megelőzően a földmunkával járó változtatással érintett munkaterületnek régészeti munkavégzésre alkalmas állapotban, állapotrögzítő jegyzőkönyvvel történő átvétele a beruházótól.
 
+6.[^2] régészeti feladatellátás területi szakasza: a terület földrajzi adottságai, régészeti jellemzői, továbbá a beruházóval szerződő, feltárásra jogosult múzeum gyűjtőterülete, vagy ezek együttes figyelembe vétele alapján a feltárási projekttervben meghatározott terület.
+
 [^1]: A 2. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 264. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 6. pontját a 171/2015. (VI. 30.) Korm. rendelet 17. §-a iktatta be.

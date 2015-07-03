@@ -2,9 +2,9 @@
 
 ## 30. Az örökségvédelmi szakhatósági eljárás szabályai a műemléki területek esetén
 
-66. § (1) A műemléki környezetet vagy a műemléki jelentőségű területet érintő szakhatósági eljárásokban a hatóság a műemlék érvényesülése, illetve a terület védetté nyilvánításának alapjául szolgáló értékek megőrzése és hangsúlyos érvényesülése érdekében vizsgálja, hogy a tervezett tevékenység megfelel-e az e rendeletben meghatározott követelménynek.
+66. § (1)[^63] A műemléki környezetet vagy a műemléki jelentőségű területet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság a műemlék érvényesülése, illetve a terület védetté nyilvánításának alapjául szolgáló értékek megőrzése és hangsúlyos érvényesülése érdekében vizsgálja, hogy a tervezett tevékenység megfelel-e az e rendeletben meghatározott követelménynek.
 
-(2) A történeti tájat vagy világörökségi területet érintő szakhatósági eljárásokban a hatóság vizsgálja
+(2)[^64] A történeti tájat vagy világörökségi területet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság vizsgálja
 
 a) a történeti tájon vagy világörökségi területen azon jellemzők fennmaradásának és érvényesülésének biztosítását, amelyek a védetté nyilvánítás céljaként meghatározásra kerültek,
 
@@ -19,3 +19,6 @@ a) a műemlék ingatlant érintően a tervezett telekalakítás következtében 
 b) a műemléki jelentőségű területet érintően a tervezett telekalakítás, telekhatár-rendezés nem veszi figyelembe a történeti településszerkezetet, a telekosztási struktúrát, a telekméretet és telekformát, a megközelítési lehetőséget, a történeti utcavonalat.
 
 (5) A telekalakítási eljárás a védettség hatályát nem érinti, a telekalakítással érintett telek általános vagy a műemlékké nyilvánítással keletkező védelme a telekalakítás folytán létrejött telkekre is vonatkozik.
+
+[^63]: A 66. § (1) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § q) pontja szerint módosított szöveg.
+[^64]: A 66. § (2) bekezdés nyitó szövegrésze a 171/2015. (VI. 30.) Korm. rendelet 45. § q) pontja szerint módosított szöveg.

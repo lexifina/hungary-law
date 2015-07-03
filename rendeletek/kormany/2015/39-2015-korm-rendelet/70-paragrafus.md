@@ -8,4 +8,6 @@
 
 (2) A régészeti feltárásra vonatkozó jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén a hatóság a feltárást felfüggeszti, és megvizsgálja, hogy fennállnak-e a Kötv.-ben meghatározott egyéb jogkövetkezmények alkalmazásának indokai.
 
-(3) Ha a Kötv.-ben meghatározott egyéb jogkövetkezmények alkalmazásának indokai fennállnak, a hatóság a feltárást leállítja és a feltárási engedélyt visszavonja.
+(3)[^66] Szakszerűtlen feltárási tevékenység esetén, vagy ha a Kötv.-ben meghatározott egyéb jogkövetkezmények alkalmazásának indokai fennállnak, a hatóság a feltárást leállítja, továbbá engedélyköteles tevékenység esetén a feltárási engedélyt visszavonja.
+
+[^66]: A 70. § (3) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 42. §-ával megállapított szöveg.
