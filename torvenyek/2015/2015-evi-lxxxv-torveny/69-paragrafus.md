@@ -1,0 +1,3 @@
+69. § A Kkt. „A közérdeklődésre számot tartó gazdálkodó tekintetében ellátott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység különös szabályai” alcíme a következő 59/A. §-sal egészül ki:
+
+„59/A. § A kamarai tag könyvvizsgáló, valamint a könyvvizsgáló cég nevében a könyvvizsgálói feladatokat ellátó kamarai tag könyvvizsgáló a megbízó közérdeklődésre számot tartó gazdálkodónál nem láthat el jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységen kívül más tevékenységet az általa vizsgált időszak kezdete és a könyvvizsgálói jelentés kiadása közötti időszakban, valamint ezen időszakot közvetlenül megelőző üzleti évben.”

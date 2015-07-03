@@ -1,0 +1,3 @@
+133. § Az MNBtv. 56. §-a helyébe a következő rendelkezés lép:
+
+„56. § Az MNB-vel szemben – közigazgatási jogkörben okozott kár vagy személyiségi jogsérelem miatt – kártérítés, illetve sérelemdíj iránti igény akkor érvényesíthető, ha az MNB határozata vagy mulasztása jogszabálysértő és a bekövetkezett kárt, illetve a sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelmet közvetlenül ez idézte elő, és a sérelmet okozó MNB-döntés kapcsán megindított közigazgatási perben az MNB-nek legalább a kártérítés vagy a sérelemdíj iránti igény alapjául szolgáló döntés vagy mulasztás tekintetében történő pervesztessége esetén a hozott ítélet jogerőre emelkedett.”
