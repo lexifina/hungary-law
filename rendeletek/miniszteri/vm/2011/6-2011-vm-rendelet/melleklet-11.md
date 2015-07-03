@@ -30,13 +30,13 @@
 
 ## 3.1. A mikrogramm/köbméterben (μg/m3) kifejezett átlagexpozíció mutató (ÁEM) – a zónákban és agglomerációkban – városi hátterű helyszíneken végzett méréseken alapul. Az ÁEM a koncentrációt három naptári évre vonatkozó éves mozgóátlaga alapján kell megállapítani valamennyi mintavételi pont átlagában. A 2010-es referenciaév átlagexpozíció mutatója a 2009. és 2010. év koncentrációjának középértéke, vagy a 2009., 2010. és 2011. év koncentrációjának átlaga.
 
-## 3.2. A 2020-ra vonatkozó ÁEM a koncentráció három éves mozgóátlaga, valamennyi a külön jogszabályban erre a célra előírt mintavételi pont 2018., 2019. és 2020. évi átlagában. Az ÁEM-t kell alkalmazni annak vizsgálatára, hogy teljesül-e a nemzeti expozíciócsökkentési cél.
+## 3.2. A 2020-ra vonatkozó ÁEM a koncentráció három éves mozgóátlaga, valamennyi a Levegőtisztaság-védelmi Referencia központ által az erre a célra kiválasztott mintavételi pont 2018., 2019. és 2020. évi átlagában. Az ÁEM-t kell alkalmazni annak vizsgálatára, hogy teljesül-e a nemzeti expozíciócsökkentési cél.
 
 ## 3.3. A 2015. évre vonatkozó ÁEM a koncentráció három éves mozgóátlaga, valamennyi mintavételi pont 2013., 2014. és 2015. évi átlagában.
 
 ## 3.4. Az ÁEM-t kell alkalmazni annak vizsgálatára, hogy teljesülnek-e az expozíciókoncentrációra vonatkozó kötelezettségek.
 
-11. melléklet a 6/2011. (I. 14.) VM rendelethez
+11. melléklet a 6/2011. (I. 14.) VM rendelethez[^15]
 
 ## Adatminőségi célkitűzések és a levegőminőségi modell követelményei a levegő arzén, kadmium, nikkel, benz(a)pirén tartalmának meghatározásához
 
@@ -46,7 +46,7 @@
 
 |  |  | A | B | C | D | E |
 
-|  | 1 |  | Benz(a)pirén | Arzén, kadmium és nikkel | A benz(a)piréntől eltérő, policiklusos aromás szénhidrogének, összes gáznemű higany | Teljes kiülepedés |
+|  | 1 |  | Benz(a)pirén | Arzén, kadmium és nikkel | A benz(a)piréntől eltérő, policiklusos aromás szénhidrogének, összes gáznemű higany | Teljes ülepedés |
 
 |  | 2 | Mérési bizonytalanság Helyhez kötött és időszakos mérések | 50% | 40% | 50% | 70% |
 
@@ -69,3 +69,5 @@
 2. A levegőminőségi modellezés bizonytalanságát a mért és a számított koncentrációk legnagyobb eltérésével kell meghatározni egy teljes év vonatkozásában, és figyelmen kívül kell hagyni az események időpontját.
 
 3. Az objektív becslési módszerek alkalmazása esetén a bizonytalanság nem érheti el a ±100%-ot.
+
+[^15]: A 11. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § f) pontja szerint módosított szöveg.

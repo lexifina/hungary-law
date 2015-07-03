@@ -1,10 +1,10 @@
-12. melléklet a 6/2011. (I. 14.) VM rendelethez
+12. melléklet a 6/2011. (I. 14.) VM rendelethez[^16]
 
 ## A levegőterheltségi szint értékelési módszereinek követelményei
 
 1. A matematikai-statisztikai értékelés során a következő mutatókat kell kidolgozni.
 
-1.1. Átlagérték: a meghatározott időtartam alatt nyert mérési adatok számtani középértéke. Az átlagérték az adott időtartam alatti terhelésre mértékadó szám. Az átlagérték meghatározásához az adatminőségi előírásokat figyelembe kell venni. Az éves, illetőleg a féléves átlagérték a napi átlagértékek számtani középértéke. A fűtési időszak: tárgyév október 1-jétől a tárgyévet követő év március 31-ig; fűtésmentes időszak: tárgyév április 1-jétől szeptember 30-ig. A tárgyévi éves átlagérték a tárgyév január 1-jétől december 31-ig terjedő időszak napi átlagértékeinek számtani középértéke.
+1.1. Átlagérték: a meghatározott időtartam alatt nyert mérési adatok számtani középértéke. Az átlagérték az adott időtartam alatti terhelésre mértékadó szám. Az átlagérték meghatározásához az adatminőségi előírásokat figyelembe kell venni. Az éves és a féléves átlagérték a rendelkezésre álló legrövidebb átlagolási idejű – de legalább órás – átlagértékek számtani középértéke. A fűtési időszak: tárgyév október 1-jétől a tárgyévet követő év március 31-ig; fűtésmentes időszak: tárgyév április 1-jétől szeptember 30-ig. A tárgyévi éves átlagérték a tárgyév január 1-jétől december 31-ig terjedő időszak napi átlagértékeinek számtani középértéke.
 
 1.2. Maximális érték: az adott időtartam alatt mért maximum.
 
@@ -41,3 +41,5 @@
 3.3. izovonalas ábrázolással, négyzethálós raszterábrázolással,
 
 3.4. online adatok közvetlen számítógépes feldolgozásával, speciális program segítségével.
+
+[^16]: A 12. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § g) pontja szerint módosított szöveg.

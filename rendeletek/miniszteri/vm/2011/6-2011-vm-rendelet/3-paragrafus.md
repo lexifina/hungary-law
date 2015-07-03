@@ -10,8 +10,10 @@
 
 (5) Az ózon előanyagokat (prekurzorokat) legalább egy helyen mérni kell. A méréssel, ellenőrzéssel kapcsolatos előírásokat a 6. melléklet tartalmazza.
 
-(6) A levegőterheltségi szint mérése során
+(6)[^3] A levegőterheltségi szint mérése során
 
-a) a 7. mellékletben meghatározott referencia-módszert vagy azzal egyenértékű módszert, a mellékletben nem szabályozott légszennyező anyagokra a nemzeti szabványban rögzített mérési módszert kell alkalmazni;
+a) a 7. mellékletben meghatározott referencia-módszert, a mellékletben nem szabályozott légszennyező anyagokra a nemzeti szabványban rögzített mérési módszert kell alkalmazni;
 
 b) az a) pontban meghatározott módszerekkel egyenértékű módszer is alkalmazható a 7. melléklet 2. pontjában foglalt követelmények teljesülése esetén.
+
+[^3]: A 3. § (6) bekezdése a 33/2015. (VI. 25.) FM rendelet 2. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-9. melléklet a 6/2011. (I. 14.) VM rendelethez
+9. melléklet a 6/2011. (I. 14.) VM rendelethez[^13]
 
 ## A levegőben lévő kén-dioxid, nitrogén-dioxid (NO2) és nitrogén-oxidok (NOx), szálló por (PM10 és PM2,5),
 
@@ -54,7 +54,7 @@
 
 |  | 2 | Felső vizsgálati küszöbérték | A határérték 70%-a (0,21 μg/m3) |
 
-|  | 3 | Alsó vizsgálati küszöbérték | A határérték 50%-a (2,5 μg/m3) |
+|  | 3 | Alsó vizsgálati küszöbérték | A határérték 50%-a (0,15 µg/m3) |
 
 6. Szén-monoxid
 
@@ -81,3 +81,5 @@
 8.1. A felső és alsó vizsgálati küszöbértékek túllépéseit az előző öt év során mért koncentráció alapján kell meghatározni, amennyiben elegendő adat áll rendelkezésre. Egy vizsgálati küszöbértéket akkor kell túllépettnek tekinteni, ha azt az előző öt évből legalább három különböző évben túllépték.
 
 8.2. Amennyiben öt évnél rövidebb időre vonatkozó mérési adatok állnak rendelkezésre, a tagállamok a felső és az alsó vizsgálati küszöbérték túllépéseinek meghatározására összegezhetik az év rövidebb időszakaira vonatkozó, valamint a nagy valószínűséggel a leginkább terhelt helyekre kiterjedő, rövid időtartamú mérési kampányok eredményeit az emisszió-kataszterben található információkkal és a modellezésből származó adatok eredményeivel.
+
+[^13]: A 9. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § d) pontja szerint módosított szöveg.

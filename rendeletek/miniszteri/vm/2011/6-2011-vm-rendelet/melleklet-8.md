@@ -26,7 +26,11 @@
 
 ## 2. Az egyenértékűség kimutatása
 
-## Bármely olyan egyéb módszer alkalmazható, amely az 1. pontban felsorolt módszerek bármelyikével bizonyítottan egyenértékű eredményt ad, vagy szálló por esetében bármely olyan egyéb módszer, amely szorosan kapcsolódik a referencia módszerhez. Ebben az esetben az ilyen módszerrel elért eredményeket korrigálni kell annak érdekében, hogy egyenértékű eredményt kapjunk azzal, amit a referenciamódszerrel kaptunk volna.
+## 2.1. Bármely olyan egyéb módszer alkalmazható, amely az 1. pontban felsorolt módszerek bármelyikével bizonyítottan egyenértékű eredményt ad, vagy szálló por esetében bármely olyan egyéb módszer, amely bizonyíthatóan szorosan kapcsolódik a referencia módszerhez. Ebben az esetben az ilyen módszerrel mért eredményeket a környezetvédelmi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: kormányhivatal) a Levegőtisztaság-védelmi Referencia Központtal egyeztetve korrigálja annak érdekében, hogy egyenértékű eredményt kapjon azzal, amit a referenciamódszerrel kapott volna.
+
+## 2.2. Ha a Bizottság arra kötelezi Magyarországot, hogy nyújtson be jelentést az egyenértékűség 2.1. pontnak megfelelő kimutatásáról, az egyenértékűség közelítésére használt átmeneti tényezőket a Bizottság által közétett, a környezeti levegő monitoring módszerek egyenértékűségének kimutatásáról szóló útmutatónak megfelelően a Levegőtisztaság-védelmi Referencia Központ a kormányhivatallal egyeztetve módosítja vagy megerősíti.
+
+## 2.3. Ha a 2.1. vagy 2.2. pont szerinti rendelkezés alapján szükségessé válik a mérési eredmények korrekciója, azt a kormányhivatal az adatok jobb összehasonlíthatósága érdekében a régi mérési eredményeken is végrehajtja.
 
 ## 3. Egységesítés
 
@@ -40,13 +44,13 @@
 
 ## 5. Egy adott berendezésnek az 1. pontban felsorolt referenciamódszerekben meghatározott követelményeknek való megfelelését bizonyító típusjóváhagyás során az Országos Meteorológiai Szolgálat elfogadja a más EU tagállamok ilyen vizsgálatok végzésére az MSZ EN ISO/IEC 17025:2005 szabvány szerint akkreditált laboratóriumai által kibocsátott vizsgálati jelentéseket.
 
-8. melléklet a 6/2011. (I. 14.) VM rendelethez
+8. melléklet a 6/2011. (I. 14.) VM rendelethez[^12]
 
 ## Adatminőségi követelmények és a dokumentálás szempontjai
 
 1. Adatminőségi célkitűzések
 
-1.1. A benzolra, ólomra és a szálló porra vonatkozóan a folyamatos mérések helyett időszakos mérések is végezhetők, amennyiben igazolható, hogy a bizonytalanság – többek között az időszakos mintavétel okozta bizonytalanság – eléri a 25%-os minőségi célkitűzést, és a mérési időszak hosszabb, mint az indikatív mérésekre vonatkozó minimális mérési időszak. Az időszakos mintavételt az év folyamán egyenletesen kell elosztani az eredmények torzulásának elkerülése érdekében. Az időszakos mintavétel okozta bizonytalanságot az MSZ EN ISO 11222:2002 „Levegőminőség – a levegőminőségi mérések időátlagára vonatkozó bizonytalanság meghatározása” című szabványban megállapított eljárással lehet meghatározni. Ha a PM10-határértékre vonatkozó követelményeket időszakos mérésekkel vizsgálják, akkor a 90,4 százalékos értéket (amely 50 μg/m3 vagy annál kevesebb) kell értékelni a túllépések száma helyett, amelyet erősen befolyásol az adatfedezet.
+1.1. A benzolra, ólomra és a szálló porra vonatkozóan a folyamatos mérések helyett időszakos mérések is végezhetők, amennyiben igazolható, hogy a bizonytalanság – többek között az időszakos mintavétel okozta bizonytalanság – eléri a 25%-os minőségi célkitűzést, és a mérési időszak hosszabb, mint az indikatív mérésekre vonatkozó minimális mérési időszak. Az időszakos mintavételt az év folyamán egyenletesen kell elosztani az eredmények torzulásának elkerülése érdekében. Az időszakos mintavétel okozta bizonytalanságot az MSZ EN ISO 11222:2002 „Levegőminőség – a levegőminőségi mérések időátlagára vonatkozó bizonytalanság meghatározása” című szabványban megállapított eljárással lehet meghatározni. Ha a PM10-határértékre vonatkozó követelményeket időszakos mérésekkel vizsgálják, akkor a 90,4%-os percentilis értéket (amely 50 μg/m3 vagy annál kevesebb) kell értékelni a túllépések száma helyett, amelyet erősen befolyásol az adatfedezet.
 
 1.2. A vizsgálati módszer elfogadható bizonytalansága (%) és az értékeléshez minimálisan szükséges adatmennyiség, adatrendelkezésre állás (%), valamint a minimálisan szükséges vizsgálati időtartam (%):
 
@@ -84,7 +88,7 @@
 
 |  | 15 | Bizonytalanság | 75% | 100% | 100% | 75% |
 
-1.3. A vizsgálati módszerek bizonytalanságának (95%-os megbízhatósági szinttel kifejezve) vizsgálatát a CEN Útmutató a mérések bizonytalanságának megadásához (ENV 13005–1999) elveivel, az MSZ ISO 5725:1994 számú szabvány módszerével, valamint a CEN „Jelentés a levegőminőségről – A levegő mérési referenciamódszereihez kapcsolódó bizonytalansági becslés megközelítése” (CR 14377:2002E) című jelentésében foglalt útmutatóval összhangban kell elvégezni. Az 1.2. pontban a százalékos bizonytalansági értékek egyedi mérésekre vonatkoznak a határérték (illetve az ózon esetében a célérték) számítására alkalmazott időtartam átlagában, 95%-os megbízhatósági intervallumban. A helyhez kötött mérések bizonytalanságát úgy kell értelmezni, hogy az az adott határérték (illetve az ózon esetében a célérték) tartományában alkalmazandó.
+1.3. A vizsgálati módszerek bizonytalanságának (95%-os megbízhatósági szinttel kifejezve) vizsgálatát a CEN Útmutató a mérési bizonytalanság kifejezéséhez (ENV 13005–1999) készített elveivel, az MSZ ISO 5725:2000 számú szabvány módszerével, valamint a CEN „Jelentés a levegőminőségről – A levegő mérési referenciamódszereihez kapcsolódó bizonytalansági becslés megközelítése” (CR 14377:2002E) című jelentésében foglalt útmutatóval összhangban kell elvégezni. Az 1.2. pontban a százalékos bizonytalansági értékek egyedi mérésekre vonatkoznak a határérték (illetve az ózon esetében a célérték) számítására alkalmazott időtartam átlagában, 95%-os megbízhatósági intervallumban. A helyhez kötött mérések bizonytalanságát úgy kell értelmezni, hogy az az adott határérték (illetve az ózon esetében a célérték) tartományában alkalmazandó.
 
 1.4. A modellezés bizonytalansága az egyes megfigyelési pontok 90%-a esetében mért és számított koncentrációs szintektől való legnagyobb, a határértékre – az ózon esetében a célértékre – vonatkozó eltérés, a vizsgált időtartamon belül, figyelmen kívül hagyva az események időzítését. A modellezés bizonytalanságát úgy kell értelmezni, hogy az az adott határérték – az ózon esetében a célérték – tartományában alkalmazandó. A modellezési eredményekkel való összehasonlításhoz kiválasztandó helyhez kötött méréseknek reprezentatívnak kell lenniük a modell által lefedett skála tekintetében.
 
@@ -181,3 +185,5 @@
 |  | 5 | 24 órás értékek | az 1 órás értékek 75%-a (azaz legalább 18 darab 1 órás érték) |
 
 |  | 6 | éves középérték | az egész évben mért 1 órás értékek vagy (ha ez nem áll rendelkezésre) 24 órás értékek 90%-a (az éves középérték kiszámítására vonatkozó követelmények nem foglalja magában a kalibrálás vagy az eszközök szokásos karbantartása miatt bekövetkezett adatveszteséget) |
+
+[^12]: A 8. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § c) pontja szerint módosított szöveg.
