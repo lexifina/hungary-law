@@ -50,9 +50,11 @@
 
 |  |  | Egészségügyi dolgozók béremelésének fedezete | 53 486,9 |
 
-|  |  | Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése | 7 800,0 |
+|  |  | Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése | 7800,0 |
 
-| 13. | Célelőirányzatok összesen | 67 737,1 |
+|  |  | Egészségügyi dolgozók bérkiegészítése | 5338,9 |
+
+| 13. | Célelőirányzatok összesen | 73 076,0 |
 
 | 15. | Mentés | 29 471,2 |
 
@@ -78,7 +80,7 @@
 
 | 18. | Összevont szakellátás összesen | 628 823,7 |
 
-| 21. | Gyógyító-megelőző ellátás céltartalék | 10 000,0 |
+| 21. | Gyógyító-megelőző ellátás céltartalék | 4661,1 |
 
 | 22. | Háziorvosi ellátórendszer megújításának I. üteme | 10 000,0 |
 
