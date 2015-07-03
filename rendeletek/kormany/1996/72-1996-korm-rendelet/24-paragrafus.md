@@ -1,4 +1,4 @@
-## 23. §[^123] A vízbeszerzésre meghatározott, továbbá a befogadóba vezethető vízmennyiségeket a vízügyi hatóság – a kiadott elvi vízjogi engedély hatályán belül – bejegyzett igényként, a vízkészlet-nyilvántartásról szóló külön jogszabály szerint tartja nyilván.
+## 23. §[^125] A vízbeszerzésre meghatározott, továbbá a befogadóba vezethető vízmennyiségeket a vízügyi hatóság – a kiadott elvi vízjogi engedély hatályán belül – bejegyzett igényként, a vízkészlet-nyilvántartásról szóló külön jogszabály szerint tartja nyilván.
 
 ## III.
 
@@ -6,13 +6,13 @@
 
 24. § (1) A települési önkormányzat jegyzőjének hatósági engedélye szükséges:
 
-a)[^124]
+a)[^126]
 
 b) az 500 m3/év mennyiséget nem meghaladó és kizárólag házi, kommunális szennyvíz elszikkasztását szolgáló létesítmény megépítéséhez, használatbavételéhez, átalakításához és megszüntetéséhez;
 
-c) olyan kút létesítéséhez, használatbavételéhez és megszüntetéséhez, amely a létesítő házi vízigényének 500 m3/év mennyiségig terjedő kielégítését szolgálja, valamint[^125] – parti szűrésű és a karszt- vagy rétegvízkészlet igénybevétele, érintése nélkül – kizárólag a talajvíz felhasználásával működik;
+c) olyan kút létesítéséhez, használatbavételéhez és megszüntetéséhez, amely a létesítő házi vízigényének 500 m3/év mennyiségig terjedő kielégítését szolgálja, valamint[^127] – parti szűrésű és a karszt- vagy rétegvízkészlet igénybevétele, érintése nélkül – kizárólag a talajvíz felhasználásával működik;
 
-d)[^126]
+d)[^128]
 
 (2) Az (1) bekezdés b) pontjában megjelölt szennyvíz elszikkasztását szolgáló létesítmény akkor engedélyezhető, ha
 
@@ -38,7 +38,7 @@ b) ivóvízigény kielégítését szolgáló kút esetén a közegészségügyi
 
 (8) Az (1) bekezdésben érintett létesítmények hatósági engedély alapján történő megépítésével, üzemeltetésével összefüggő esetleges kártalanításra a vízjogi engedélyezési kötelezettség alá tartozó létesítményekkel kapcsolatos kártalanítási rendelkezéseket kell megfelelően alkalmazni.
 
-[^123]: A 23. § a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 23. §-ban az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^124]: A 24. § (1) bekezdésének a) pontját a 379/2007. (XII. 23.) Korm. rendelet 96. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 96. § (4) bekezdése alapján a folyamatban levő ügyekre akkor kell alkalmazni, ha a vízimunka, vízilétesítmény vagy vízhasználat elvi vízjogi engedélyét még nem adták ki.
-[^125]: A Magyar Közlöny 1996. évi 68. számában megjelent helyesbítésnek megfelelő szöveg.
-[^126]: A 24. § (1) bekezdésének d) pontját a 205/2001. (X. 26.) Korm. rendelet 16. §-ának (1) bekezdése hatályon kívül helyezte.
+[^125]: A 23. § a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 23. §-ban az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^126]: A 24. § (1) bekezdésének a) pontját a 379/2007. (XII. 23.) Korm. rendelet 96. § (2) bekezdése hatályon kívül helyezte, e módosító rendelet 96. § (4) bekezdése alapján a folyamatban levő ügyekre akkor kell alkalmazni, ha a vízimunka, vízilétesítmény vagy vízhasználat elvi vízjogi engedélyét még nem adták ki.
+[^127]: A Magyar Közlöny 1996. évi 68. számában megjelent helyesbítésnek megfelelő szöveg.
+[^128]: A 24. § (1) bekezdésének d) pontját a 205/2001. (X. 26.) Korm. rendelet 16. §-ának (1) bekezdése hatályon kívül helyezte.
