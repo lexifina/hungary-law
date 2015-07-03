@@ -1,0 +1,1 @@
+5. § Felhatalmazást kap a Kormány arra, hogy az Európai Unió saját forrásaival kapcsolatos kötelezettségek teljesítésében részt vevő intézmények feladat- és hatáskörét, valamint a kapcsolódó eljárásrendet rendeletben határozza meg.
