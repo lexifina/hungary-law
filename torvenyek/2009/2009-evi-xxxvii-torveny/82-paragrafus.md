@@ -1,6 +1,6 @@
 82. § (1) Az erdővédelmi járulékalap összege százezer forint.
 
-(2) Az erdővédelmi járulék összegét, megfizetésének határidejét az erdészeti hatóság határozatban állapítja meg.
+(2) Az erdővédelmi járulék összegét, megfizetésének határidejét az erdészeti hatóság határozatban állapítja meg. Az erdővédelmi járulékot legkésőbb az igénybevétel megkezdését követő 30. napig meg kell fizetni.
 
 (3) Nem kell erdővédelmi járulékot fizetni,
 
@@ -24,6 +24,8 @@ b) ha az adott térségben az erdő csökkenésének tilalmáról külön jogsza
 
 (5) A csereerdősítést – az e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – az adott erdő fekvése szerinti vagy az azzal szomszédos településen kell végrehajtani.
 
-(6) A csererdősítés tervezésére és engedélyezésére az erdőtelepítés, egyéb feltételeire az erdőfelújítás szabályai vonatkoznak.
+(6) A csererdősítés tervezésére, engedélyezésére az erdőtelepítés, egyéb feltételeire az erdőfelújítás szabályai vonatkoznak azzal, hogy a csereerdősítési terv engedélyezése – a (6a) bekezdésben foglalt eset kivételével – az igénybevétel megkezdésének feltétele, a csereerdősítési kötelezettség keletkezése időpontjának pedig az igénybevétel megkezdése minősül.
+
+(6a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az igénybevétel megkezdésének feltétele az erdő igénybevételhez kapcsolódóan előírt csereerdősítési kötelezettség teljesítésének megfelelő területre szóló csereerdősítési terv engedélyezésre történő benyújtása.
 
 (7) Az erdővédelmi járulék a költségvetési törvény szerinti központosított bevétel.
