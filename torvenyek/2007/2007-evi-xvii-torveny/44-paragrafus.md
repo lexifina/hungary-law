@@ -6,18 +6,28 @@
 
 (3) A tanúmeghallgatásról az ügyfelet nem kell értesíteni.
 
-(4) Az ügyfelet a kérelmében megjelölt földterületekre nézve jogszerű földhasználónak kell tekinteni, amíg annak vonatkozásában kétség nem merül fel, vagy a mezőgazdasági és vidékfejlesztési támogatási szerv a 46. § alapján lefolytatott ellenőrzési eljárása alapján rendelkezésre álló okirat ezt alátámasztja.
+(4) Az ügyfelet a kérelmében megjelölt – a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikkének e) pontja szerinti – mezőgazdasági területekre nézve jogszerű földhasználónak kell tekinteni, amíg annak vonatkozásában kétség nem merül fel, vagy ha a mezőgazdasági és vidékfejlesztési támogatási szervnek a 46. § alapján lefolytatott ellenőrzési eljárása alapján megállapításra kerül, hogy az ügyfél a (7) bekezdés alapján jogszerű földhasználónak minősül.
 
 (5) Ha az ügyfél földhasználatának jogszerűsége vonatkozásában kétség merül fel, így különösen ha ugyanarra a földterületre egyidejűleg több ügyfél jelentett be terület alapú támogatási kérelmet, az érintett ügyfeleket a mezőgazdasági támogatási szerv megfelelő határidővel adategyeztetésre hívja fel.
 
 (6) Az (5) bekezdésben foglaltak szerinti eljárás sikertelensége esetében vagy a (4) bekezdésben hivatkozott ellenőrzés keretében a mezőgazdasági támogatási szerv felhívására az ügyfél köteles földhasználata jogszerűségét igazolni.
 
-(7) Az ügyfél földhasználata jogszerűségét – amennyiben az egyes támogatási jogcímekre vonatkozó jogszabályok másként nem rendelkeznek e dátumról – a kérelem benyújtására nyitva álló határidő utolsó napja szerinti hatályos állapotot alátámasztó – az (5) bekezdés szerint eset alkalmazásában a következő sorrend szerinti – alábbi okiratokkal igazolhatja:
+(7) A (4) bekezdés alkalmazásában jogszerű földhasználónak minősül a következő sorrend szerint az az ügyfél, aki vagy amely – amennyiben az egyes támogatási jogcímekre vonatkozó jogszabályok másként nem rendelkeznek e dátumról – a kérelem benyújtására nyitva álló határidő utolsó napjára vonatkozóan, az általa igényelt terület vonatkozásában
 
-a) földhasználati lap,
+a) a földhasználati nyilvántartásba földhasználóként bejegyzett,
 
-b) a családi gazdálkodó ügyfél esetében családi gazdaság alapításáról szóló megállapodás,
+b) a családi gazdaságokról vezetett nyilvántartásba családi gazdálkodóként bejegyzett vagy családi gazdaság alapításáról szóló megállapodással rendelkezik és abban családi gazdálkodóként szerepel,
 
-c) haszonbérleti szerződés,
+c) haszonbérleti, felesbérleti, részesművelési, szívességi földhasználati vagy alhaszonbérleti szerződés, továbbá – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 70. §-a vagy 76. §-a szerinti – használati rendről szóló megállapodás alapján földhasználó,
 
-d) közös tulajdonban álló, termelési integráció megvalósítása érdekében megkötött alhaszonbérlettel vagy önkéntes cserével érintett földrészleteket használó, továbbá azon ügyfél vonatkozásában, akinek az adott földterületre fennálló használata a földhasználati nyilvántartásba önhibáján kívüli okból nem került bejegyzésre, egyéb használatot igazoló okirat.
+d) az ingatlan-nyilvántartásba vagyonkezelőként, haszonélvezőként vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:159. §-a szerinti használat jogának jogosultjaként bejegyzett,
+
+e) az ingatlan-nyilvántartásba tulajdonosként bejegyzett,
+
+f) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 42. § (2) bekezdés c) pontja szerinti esetben az a személy, aki a földhasználati nyilvántartásba bejegyzett földhasználóval kötött írásbeli megállapodással rendelkezik,
+
+g) az osztatlan közös tulajdonban álló földterületen a tulajdoni hányadát meghaladó mértékű területen a tulajdoni hányadát meghaladó mértékű terület vonatkozásában a gazdálkodó tulajdonostárs, ha a földhasználati nyilvántartásba önhibáján kívüli okból nem került bejegyzésre és rendelkezik a terület adott hányadának használatára jogosító írásbeli megállapodással és a használat tényét az általa vezetett gazdálkodási napló alátámasztja,
+
+h) osztatlan közös tulajdonban álló földterületen gazdálkodó tulajdonostársnak nem minősülő személy, ha a földhasználati nyilvántartásba önhibáján kívüli okból nem került bejegyzésre és rendelkezik a terület adott hányadának használatára jogosító írásbeli megállapodással és a használat tényét az általa vezetett gazdálkodási napló alátámasztja,
+
+i) az a)–h) pontok szerinti jogszerű földhasználó közeli hozzátartozója.
