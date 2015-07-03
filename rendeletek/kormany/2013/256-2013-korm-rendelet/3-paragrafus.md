@@ -1,6 +1,6 @@
 ## 3. A támogatás igénylése és mértéke
 
-3. § (1)[^4] Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató az Eütev. 30. §-a szerinti támogatás iránti igényét a 3. melléklet szerinti tartalommal elektronikus úton nyújtja be az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) részére.
+3. § (1)[^6] Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató az Eütev. 30. §-a szerinti támogatás iránti igényét a 3. melléklet szerinti tartalommal elektronikus úton nyújtja be az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) részére.
 
 (2) A munkáltató által 2013. szeptember 1-jétől az illetmény- vagy bérnövelés biztosítása érdekében igényelhető támogatás havi mértéke megegyezik az
 
@@ -14,7 +14,7 @@ d) Eütev. 11/A. § (6a) bekezdése szerinti foglalkoztatott esetében 75 820 Ft
 
 ## és annak a kifizetőt terhelő közterhei együttes mértékével.
 
-(3)[^5] A kérelem elektronikusan kitöltendő példányát az OEP bocsátja a munkáltató rendelkezésére.
+(3)[^7] A kérelem elektronikusan kitöltendő példányát az OEP bocsátja a munkáltató rendelkezésére.
 
-[^4]: A 3. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 85. §-ával megállapított szöveg.
-[^5]: A 3. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 89. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 85. §-ával megállapított szöveg.
+[^7]: A 3. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 89. § a) pontja szerint módosított szöveg.
