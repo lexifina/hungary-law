@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európa Tanácsnak a gyermekek szexuális kizsákmányolás és szexuális zaklatás elleni védelméről szóló Egyezménye (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
