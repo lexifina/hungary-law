@@ -2,7 +2,7 @@
 
 26. § (1) A hadigondozás iránti kérelem határidő-korlátozás nélkül bármikor előterjeszthető.
 
-(2) A hadigondozotti ügyekben első fokon eljáró hadigondozási hatóság a hadigondozott lakóhelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal). A járási hivatal vezetője határozatban dönt:
+(2) A hadigondozotti ügyekben első fokon eljáró hadigondozási hatóság a hadigondozott lakóhelye szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), külföldön élő, Magyarországon lakóhellyel, tartózkodási hellyel nem rendelkező magyar állampolgár kérelmező esetében Budapest Főváros Kormányhivatala. A járási hivatal vezetője határozatban dönt:
 
 a) a hadigondozási igényjogosultságról, a hadirokkant járadékosztályba sorolásáról és az orvosszakértői szerv szakvéleményében megjelölt gyógyászati segédeszköz, valamint a hadieredetű fogyatkozás megnevezéséről;
 
