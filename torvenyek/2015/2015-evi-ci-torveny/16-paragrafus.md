@@ -1,0 +1,3 @@
+16. § Az Szt. 71. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az üzemi (üzleti) tevékenységre vonatkozó eredménymegállapítás (1) bekezdés szerinti két módjának tagolását a 2. és 3. számú melléklet tartalmazza. A vállalkozó a 2., illetve a 3. számú melléklet közül választhat. Amennyiben azonban a vállalkozó az egyik üzleti évben összköltség eljárással, a másik évben forgalmi költség eljárással, illetve fordítva készíti az eredménykimutatást, biztosítani kell, hogy a tárgyév adataival az előző üzleti év adatai összehasonlíthatók legyenek. Egyik eljárásról (változatról) a másikra való áttérésről a kiegészítő mellékletben tájékoztatást kell adni és az áttérést indokolni kell.”

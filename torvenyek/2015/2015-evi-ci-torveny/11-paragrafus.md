@@ -1,0 +1,3 @@
+11. § Az Szt. 42. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) Tartós kötelezettségek jelentős tulajdoni részesedési viszonyban lévő vállalkozásokkal szemben mérlegtétel azokat az (1) bekezdés szerinti kötelezettségeket tartalmazza, amelyeknél – a 3. § (2) bekezdés 9. pontjában meghatározott mértékű részesedéssel rendelkező hitelezővel kötött szerződés szerint – a pénzértékben kifejezett fizetési kötelezettségek lejárata az egy évet meghaladja, ideértve az átváltoztatható és átváltozó kötvények miatti, továbbá az egyéb kötvénykibocsátásból származó kötelezettségeket is, ha azok pénzügyi rendezése a tárgyévet követő évben még nem esedékes.”
