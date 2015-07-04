@@ -6,7 +6,7 @@ b) az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 200
 
 c) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló szóló 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelvnek,
 
-d) a betétbiztosítási rendszerekről szóló 2014/49/EU európai parlamenti és tanácsi irányelvnek,
+d)
 
 e) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról szóló 2014. május 15-i 2014/59/EU európai parlamenti és tanácsi irányelvnek
 
