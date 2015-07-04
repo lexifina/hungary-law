@@ -1,3 +1,0 @@
-3. § A Htv. 2. §-a helyébe a következő rendelkezés lép:
-
-„2. § A nemzeti értékek megóvandó értékek, azonosításukban, rendszerezésükben, adataik nyilvántartásba vételében és folyamatos frissítésében, gondozásában a települési önkormányzatok, a megyei önkormányzatok, a települési, a megyei és az országos nemzetiségi önkormányzatok, a hatáskörrel rendelkező állami szervek, a Magyar Állandó Értekezleten (a továbbiakban: MÁÉRT) részt vevő külhoni szervezetek és az általuk megbízott természetes és jogi személyek működhetnek közre. Ahol e törvény megyei önkormányzatot említ, az alatt a fővárosi önkormányzatot, ahol megyei nemzetiségi önkormányzatot említ, az alatt a fővárosi nemzetiségi önkormányzatot is érteni kell.”
