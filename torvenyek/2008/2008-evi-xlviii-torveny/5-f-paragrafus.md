@@ -1,0 +1,1 @@
+5/F. § Az 5/C. § és az 5/D. § (1) és (4) bekezdésének megsértése esetén a fogyasztóvédelmi hatóság jár el, a fogyasztóvédelmi bírság összege az elért vagyoni előny tízszerese. A fogyasztóvédelmi bírságot azzal szemben kell kiszabni, akinél a vagyoni előny jelentkezik.

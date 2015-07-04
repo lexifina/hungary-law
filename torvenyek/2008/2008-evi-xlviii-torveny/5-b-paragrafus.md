@@ -1,0 +1,9 @@
+5/B. § (1) A reklámközvetítésre vonatkozó szerződést és a reklám közzétételére irányuló szerződést írásba kell foglalni. E törvény alkalmazásában írásbeli szerződésnek minősül az elektronikus úton kötött szerződés abban az esetben is, ha azt a felek nem látták el elektronikus aláírással.
+
+(2) A reklámközvetítő és a reklámozó a reklámközvetítésre vonatkozó szerződésben megállapodhatnak abban, hogy a reklámközvetítő képviseleti joga a reklám közzétételére irányuló szerződésnek a reklámozó nevében történő megkötésére, annak módosítására és a teljesítés elfogadására is kiterjed.
+
+(3) A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő legkésőbb a reklám közzétételére irányuló szerződés megkötését követő hónap utolsó napjáig a reklámozó felhívására beszámol a reklámozónak a reklám közzétételének körülményeiről. Ha a reklám terjesztési feltételeinek módosítására van szükség, a reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő előzetesen értesíti a reklámozót. A reklám terjesztési feltételeinek módosításához a reklámozó beleegyezése szükséges. A reklám közzétevője vagy a médiahirdetésifelület-értékesítő a végrehajtott változtatásokról beszámol a reklámozónak.
+
+(4) Ha a reklám közzétételére vonatkozó szerződés a reklámközvetítő közvetítésével került megkötésre, a reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a (3) bekezdés szerinti értesítési és beszámolási kötelezettségének a reklámközvetítő értesítésével vagy a reklámközvetítő számára történő beszámolással is eleget tehet.
+
+(5) A reklám közzétevője vagy a nevében eljáró médiahirdetésifelület-értékesítő a szolgáltatásról kiállított számlát a vele a reklám közzétételére szerződő fél nevére állítja ki. A számlán valamennyi alkalmazott árengedményt fel kell tüntetni. A pénzügyi teljesítés határideje a számla kézhezvételét követő harmincadik nap.

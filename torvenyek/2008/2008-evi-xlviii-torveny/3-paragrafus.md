@@ -14,7 +14,9 @@ f) közzététel: a reklám megismerhetővé tétele, akár nagyobb nyilvánoss�
 
 g) magatartási kódex: olyan – piaci önszabályozás keretében létrehozott – megállapodás vagy szabályegyüttes, amely valamely kereskedelmi gyakorlat vagy tevékenységi ágazat vonatkozásában követendő magatartási szabályokat határoz meg azon vállalkozások számára, amelyek a kódexet magukra nézve kötelezőnek ismerik el,
 
-h)–i)
+h) reklámközvetítés: reklámozóval kötött közvetítői szerződés alapján, a reklám közzétételére irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ide nem értve a reklámszolgáltatási tevékenységet,
+
+i) reklámközvetítő: reklámközvetítést végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 
 j) reklám címzettje: aki felé a reklám irányul, illetve akihez a reklám eljut,
 
@@ -32,4 +34,6 @@ p) szponzorálás: minden olyan hozzájárulás valamely rendezvényhez, tevéke
 
 q) tudatosan nem észlelhető reklám: olyan reklám, amelynek közzétételekor – az időtartam rövidsége vagy más ok következtében – a reklám címzettjére lélektani értelemben a tudatos észleléshez szükséges ingerküszöbnél kisebb erősségű látvány, hang- vagy egyéb hatás keltette inger hat,
 
-r) vállalkozás: aki önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el.
+r) vállalkozás: aki önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el,
+
+s) médiahirdetésifelület-értékesítő: a reklám közzétevőjének megbízása alapján eljáró természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amely a reklám közzétevője nevében hirdetési felületet értékesít a reklámközvetítő, illetve a reklámozó felé.
