@@ -14,7 +14,7 @@ f) 7/S. § (1) bekezdés e) pontjában az „ismételt ellenőrzés tilalmának�
 
 g) 7/S. § (5) bekezdésében az „a határozat meghozatalára” szövegrész helyébe az „a döntés meghozatalára” szöveg,
 
-h) 47. §-ában az „írásban vállalt” szövegrész helyébe az „írásban, valamint az EK végrehajtási rendelet 222–224. cikkeiben foglalt rendelkezések alkalmazásával elektronikus úton benyújtott nyilatkozatban vállalt” szöveg,
+h)
 
 i) 60. § (1) bekezdésében a „módosíthatja” szövegrész helyébe „több alkalommal is módosíthatja” szöveg,
 
