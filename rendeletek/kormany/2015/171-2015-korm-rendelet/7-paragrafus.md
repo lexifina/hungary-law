@@ -1,3 +1,0 @@
-## „(2) Ha a Bt. 38/A. § (1) bekezdése szerinti jogok alapján végzett munkával, vagy a Bt. 38. § (4) bekezdése szerinti helyreállítási kötelezettség nem, vagy nem megfelelő végzésével összefüggő kárt és kártalanítási összeget az engedélyes az ingatlan tulajdonosának nem fizeti meg, vagy az általa felajánlott és az ingatlantulajdonos által át nem vett, vagy a bírósági letétbe helyezett, illetve az (1b) bekezdés alapján a nyilatkozatban megjelölt összeg a kárt nem fedezi, a károsult a további igényét bírósági eljárás során érvényesítheti.”
-
-## 3. A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet módosítása
