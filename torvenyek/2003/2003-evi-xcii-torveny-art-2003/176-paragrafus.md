@@ -28,7 +28,7 @@ c) az adót az önkormányzatnál az e célra szolgáló külön számlára kell
 
 (12) A (11) bekezdésben említett munkáltató és a kifizető külön törvény alapján a kincstárral szembeni elszámolásában a kifizetést terhelő adóról (adóelőlegről) az elszámolt hónapot (kifizetést) követő hó 20-áig adatot szolgáltat az állami adóhatóságnak.
 
-(13) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény kivételével az adótörvények alkalmazásában, az általános forgalmi adó esetében a hivatkozással meghatározott termékek (építmények) és szolgáltatások vonatkozásában
+(13) A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény, valamint a 22/E. § kivételével az adótörvények alkalmazásában, az általános forgalmi adó esetében a hivatkozással meghatározott termékek (építmények) és szolgáltatások vonatkozásában
 
 a) a Kereskedelmi Vámtarifa (vtsz.) 2002. év július hó 31. napján hatályos,
 

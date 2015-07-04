@@ -1,4 +1,4 @@
-176/H. § (1) A hatósági árat a legmagasabb árnak kell tekintetni.
+176/H. § (1) A hatósági ár az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 

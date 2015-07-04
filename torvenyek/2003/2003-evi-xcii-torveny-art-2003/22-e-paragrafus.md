@@ -17,3 +17,5 @@
 (8) A (7) bekezdés szerinti, az EKAER elektronikus felületen történő bejelentéshez szükséges felhasználónévvel és jelszóval rendelkező személyek által teljesített valamennyi bejelentés az adózó nevében tett jognyilatkozatnak minősül.
 
 (9) A (7) bekezdés szerinti, adózó nevében eljáró személyek addig az időpontig teljesíthetnek bejelentést, amíg az adózó, vagy annak törvényes képviselője vagy állandó meghatalmazottja az EKAER elektronikus felületén vissza nem vonja az erre vonatkozó jogosultságukat.
+
+(10) E §, valamint az e törvény végrehajtására kiadott miniszteri rendelet által kockázatosnak minősített termékek vonatkozásában a Kereskedelmi Vámtarifa (vtsz.) tekintetében az e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak az irányadók.
