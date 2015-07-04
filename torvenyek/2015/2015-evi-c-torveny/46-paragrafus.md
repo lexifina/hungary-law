@@ -1,0 +1,3 @@
+46. § (1) A 2016. évben vállalt kiállítási garanciák és kiállítási viszontgaranciák együttes, a vállalás időpontjában forintra átszámított állománya az év egyetlen napján sem haladhatja meg az 1 100 000,0 millió forintot.
+
+(2) A Kormány a 2016. évben a közvetett vagy közvetlen többségi állami tulajdonú vasúti társaságoknak, vagy e társaságok többségi befolyása alatt álló vasúti társaságoknak a vasúti gördülőállományuk fejlesztésére, felújítására vagy új vasúti gördülőállomány beszerzésére együttesen 50 000,0 millió forint összegű, az EUROFIMA Európai Vasúti Gördülőállomány-finanszírozási Társaság által nyújtott forrásbevonásra adhat felhatalmazást állami kezesség mellett.

@@ -1,0 +1,1 @@
+25. § A XV. Nemzetgazdasági Minisztérium fejezetet irányító szerv vezetője a XV. Nemzetgazdasági Minisztérium fejezet, 25. cím, 4. alcím, 1. Területfejlesztéssel összefüggő feladatok jogcímcsoport terhére átcsoportosíthat a XV. Nemzetgazdasági Minisztérium fejezet, 8. Magyar Államkincstár cím javára.
