@@ -1,6 +1,6 @@
 ## KORREKCIÓS PÓTLÉK
 
-61/B. § (1) Ha a nyilatkozattevő a vámkódex 78. cikk (1) bekezdése alapján, még a 7/C. § (1) bekezdés b)–c) pontja szerinti utólagos ellenőrzés kezdete előtt kérelmezi a vámáru-nyilatkozat módosítását, korrekciós pótlékot fizet, feltéve hogy az utólagos könyvelésbe vétel, illetve a nem közösségi adók és díjak utólagos kiszabása nem a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
+61/B. § (1) Ha a nyilatkozattevő a vámkódex 78. cikk (1) bekezdése alapján, még a 7/C. § (1) bekezdés b)–c) pontja szerinti utólagos ellenőrzés kezdete előtt kérelmezi a vámáru-nyilatkozat módosítását vagy ismételt ellenőrzésre a 7/H. § (1) bekezdés b) pontja alapján kerül sor, korrekciós pótlékot fizet, feltéve hogy az utólagos könyvelésbe vétel, illetve a nem közösségi adók és díjak utólagos kiszabása nem a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
 
 (2) A korrekciós pótlékot az utólagosan könyvelésbe vett vámösszeg, illetve kiszabott nem közösségi adó és díj összege után a vámhatóság állapítja meg, és a vámáru-nyilatkozat módosításáról hozott határozatában közli az adóssal.
 

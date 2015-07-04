@@ -10,7 +10,7 @@ c) az utólagos ellenőrzés során feltárt jogsértés jogkövetkezményének 
 
 d) a vám- és más jogszabályokban előírt kötelezettségek teljesítésének megállapítására,
 
-e) az ismételt ellenőrzés tilalmának megállapítására.
+e) az ellenőrzéssel lezárt vámeljárás, illetve ellenőrzéssel lezárt időszak megállapítására.
 
 (2) Az utólagos ellenőrzést követő hatósági eljárást az utólagos ellenőrzést végző vámszerv folytatja le. Amennyiben az utólagos ellenőrzés valamely tevékenység végzésére vonatkozó vámhatósági engedéllyel összefüggő megállapítást tesz, az utólagos ellenőrzést követő hatósági eljárás során az ellenőrzést végző vámszerv a jegyzőkönyv és a megállapítással összefüggő észrevétel megküldésével tájékoztatja az engedélyező vámszervet a további szükséges intézkedések megtétele érdekében.
 
@@ -18,6 +18,6 @@ e) az ismételt ellenőrzés tilalmának megállapítására.
 
 (4) A hatósági eljárás ügyintézési határideje 60 nap, amelyet a hatósági eljárást végző vámszerv vezetője egyszer, legfeljebb 30 napig terjedő időtartammal meghosszabbíthat.
 
-(5) Az utólagos ellenőrzés eredményeképpen hozott határozat ellen benyújtott fellebbezés esetén a határozat meghozatalára nyitva álló határidő az iratoknak a felettes szervhez történő megérkezésétől számított 60 nap, amely legfeljebb 30 nappal hosszabbítható meg.
+(5) Az utólagos ellenőrzés eredményeképpen hozott határozat ellen benyújtott fellebbezés esetén a döntés meghozatalára nyitva álló határidő az iratoknak a felettes szervhez történő megérkezésétől számított 60 nap, amely legfeljebb 30 nappal hosszabbítható meg.
 
 (6) Az utólagos ellenőrzést követő hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek az ügyintézési határidőbe nem beszámítható időtartamra vonatkozó rendelkezését alkalmazni kell.

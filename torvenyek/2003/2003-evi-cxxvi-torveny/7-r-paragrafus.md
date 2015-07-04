@@ -34,7 +34,7 @@ m) az ellenőr nevét és aláírását, az utólagos ellenőrzést lefolytató 
 
 (4) Az utólagos ellenőrzés megállapításait tartalmazó jegyzőkönyvet az ellenőrzött ügyféllel közölni kell. Az utólagos ellenőrzés a jegyzőkönyv átadásával befejeződik. Amennyiben a jegyzőkönyv közlése kézbesítéssel történik, az utólagos ellenőrzés a postára adás napjával zárul.
 
-(5) Részjegyzőkönyvet kell készíteni azon megállapítással összefüggésben, amelynél az eljárás a vámkódex 221. cikk (3) bekezdése alapján az Európai Unió pénzügyi érdekeit vagy a közteherviselési kötelezettség teljesítését veszélyezteti. A részjegyzőkönyvre a jegyzőkönyvre vonatkozó szabályokat kell alkalmazni.
+(5) Részjegyzőkönyvet kell készíteni azon megállapítással összefüggésben, amelynél az eljárás a vámkódex 221. cikk (3) bekezdése alapján az Európai Unió pénzügyi érdekeit vagy a közteherviselési kötelezettség teljesítését veszélyezteti, továbbá, ha a tényállás az utólagos ellenőrzéssel érintett ügyletek, vámáru-nyilatkozatok vagy az ügyfél külkereskedelmi tevékenysége egy részével kapcsolatban megfelelően tisztázásra került. A részjegyzőkönyvre a jegyzőkönyvre vonatkozó szabályokat kell alkalmazni.
 
 (6) Az utólagos ellenőrzésről készült jegyzőkönyv megállapításaival kapcsolatban az ellenőrzött ügyfél észrevételt tehet, amelyet az utólagos ellenőrzést végző vámszervnél a közléstől számított 15 napos jogvesztő határidőn belül nyújthat be.
 

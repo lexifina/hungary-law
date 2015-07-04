@@ -24,6 +24,6 @@ a) a 7/T. § szerinti, illetve EMGA utólagos ellenőrzés kapcsolódó vizsgál
 
 b) az észrevételben foglalt ügyféli bizonyítási indítvány elutasítását indokolja,
 
-c) az észrevételben foglaltakkal való egyetértése estén módosítja a jegyzőkönyvet és az utólagos ellenőrzés lezárásáról rendelkezik.
+c) az észrevételben foglaltakkal való egyetértése esetén kiegészíti a jegyzőkönyvet és az utólagos ellenőrzés lezárásáról rendelkezik.
 
 (6) Az utólagos ellenőrzés megállapításai alapján a vámhatóság megfelelő határidő tűzésével elrendelheti, hogy az ügyfél iratait, nyilvántartásait a jogszabályokban foglalt előírásoknak megfelelően rendezze, pótolja. Amennyiben az ügyfél ennek határidőn belül nem tesz eleget, a vámhatóság vámigazgatási bírságot szab ki.

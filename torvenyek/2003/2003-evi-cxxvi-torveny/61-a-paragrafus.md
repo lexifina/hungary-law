@@ -56,11 +56,11 @@ meghatározott vámigazgatási bírságot köteles fizetni. Hosszú távú besz�
 
 (10) A vámigazgatási bírságot – a fizetésre kötelezett kérelmére – a külön jogszabályban meghatározott vámszerv elengedheti vagy mérsékelheti, ha
 
-a) a fizetésre kötelezettel szemben három éven belül vámigazgatási bírság kiszabására nem került sor, és
+a) a fizetésre kötelezettel szemben a vámigazgatási bírságot kiszabó döntés jogerőre emelkedésének napját megelőző három éven belül vámigazgatási bírság kiszabására nem került sor, és
 
 b) a vámigazgatási bírság megfizetése a fizetésre kötelezett és vele egy háztartásban élő és eltartásra szoruló közeli hozzátartozói megélhetését, illetve a kereskedelmi forgalommal kapcsolatban a szervezet tevékenységének folyamatosságát súlyosan veszélyeztetné,
 
-c) az utólagos ellenőrzés alkalmazásában – az a)–b) pontban foglaltak figyelmen kívül hagyásával – a fizetésre kötelezett vizsgálati időszakban nyilvántartott vámigazgatási bírságainak összege nem haladja meg az ezen időszakban kiszabott vámtartozás összegének három százalékát.
+c) az utólagos ellenőrzés alkalmazásában – az a)–b) pontban foglaltak figyelmen kívül hagyásával – az utólagos ellenőrzéssel összefüggésben hozott, vámigazgatási bírságot kiszabó döntés jogerőre emelkedésének napját megelőző három évben a fizetésre kötelezett nyilvántartott vámigazgatási bírságainak összege nem haladja meg az ezen időszakban kiszabott vámtartozás összegének három százalékát.
 
 (11) Nincs helye a bírság elengedésének, mérséklésének, ha a vámhiány a vámtartozás megállapításához szükséges adatok eltitkolásával, meghamisításával vagy egyéb rosszhiszemű magatartással függ össze.
 
