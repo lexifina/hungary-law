@@ -1,3 +1,0 @@
-56. § Az Nfatv. a következő 39. §-sal egészül ki:
-
-„39. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások megvalósításának gyorsításával összefüggésben egyes törvények módosításáról szóló 2015. évi LXXIX. törvénnyel (a továbbiakban: Módtv1.) megállapított rendelkezéseit a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással érintett földterületre a Módtv1. hatálybalépését megelőzően kötött, földrészlet hasznosítására irányuló jogviszonyokra is alkalmazni kell, ha a 31/A. § (1) bekezdése szerinti értesítésre a Módtv1. hatálybalépését követően kerül sor.”

@@ -1,5 +1,0 @@
-32. § A Kstv. 8. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(4) Ha a kisajátított ingatlanon jelzálogjog állt fenn, a tulajdonos és a zálogjogosult eltérő megállapodásának hiányában a pénzbeli kártalanítás – a jelzálogjoggal biztosított követelés erejéig – a zálogjog tárgyaként a kisajátított ingatlan helyébe lép és a kártalanítás ezen hányadát bírósági letétbe kell helyezni. A jelzálogjoggal biztosított követelés összegéről a kisajátítási hatóság felhívására a jelzálogjogosult nyilatkozni köteles. Ha a jelzálogjogosult a nyilatkozattételi kötelezettségét nem teljesíti, a letétbe helyezés helyett a pénzbeli kártalanítás egészét a kártalanításra jogosult részére kell megfizetni.
-
-(5) Ha a kisajátított ingatlanra végrehajtási jog volt bejegyezve, az ingatlanért járó pénzbeli kártalanítást a végrehajtói letéti számlára kell átutalni vagy befizetni. Ha az ingatlanon több végrehajtási jog volt bejegyezve, a kártalanítást az ingatlanra korábban árverést kitűző végrehajtónak, ennek hiányában annak a végrehajtónak kell megfizetni, aki által lefolytatott végrehajtási eljárásban a legkorábban került bejegyzésre a végrehajtási jog.”
