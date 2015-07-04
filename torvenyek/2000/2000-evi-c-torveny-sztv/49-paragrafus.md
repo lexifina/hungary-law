@@ -2,7 +2,7 @@
 
 (2) Üzleti vagy cégérték bekerülési (beszerzési) értéke cégvásárlás esetén a 3. § (5) bekezdésének 1. pontja szerint meghatározott különbözet.
 
-(3) A gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés bekerülési (beszerzési) értéke vásárláskor a részvényekért, üzletrészekért, egyéb társasági részesedésekért fizetett ellenérték (vételár), cégvásárláskor – üzleti vagy cégérték, illetve negatív üzleti vagy cégérték kimutatása esetén – az üzleti vagy cégértékkel csökkentett, a negatív üzleti vagy cégértékkel növelt ellenérték (vételár).
+(3) A gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés bekerülési (beszerzési) értéke a vásárláskor a részvényért, üzletrészért, egyéb társasági részesedésért fizetett ellenérték (vételár).
 
 (4) A gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés bekerülési (beszerzési) értéke alapításkor, tőkeemeléskor a létesítő okiratban, annak módosításában, illetve a közgyűlési, az alapítói, a taggyűlési határozatban a jegyzett tőke fedezeteként, valamint a jegyzési, a kibocsátási érték és a névérték különbözeteként, a jegyzett tőkén felüli tőke fedezeteként meghatározott vagyoni hozzájárulás együttes értéke a ténylegesen befizetett pénzbetétnek és a rendelkezésre bocsátott nem pénzbeli betétnek megfelelő összegben.
 

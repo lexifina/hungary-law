@@ -6,7 +6,7 @@
 
 (3) Árbevételként kell figyelembe venni a korábban ráfordításként el nem számolható behajthatatlannak vagy bizonytalannak minősített vevőkövetelésre utólag befolyt [pénzbevételt jelentő vagy a (2) bekezdés szerint beszámított] összeget is.
 
-(4) Pénzügyileg rendezett adóköteles egyéb bevételek a 77. § szerinti egyéb bevételek, a 84. § szerinti pénzügyi műveletek bevételei, a 86. § (3) bekezdése és (4) bekezdésének b) pontja szerinti rendkívüli bevételek mérlegfordulónapig pénzügyileg rendezett összegei. Az elengedésről, az átvállalásról szóló megállapodás szerint az üzleti évben elengedett vagy harmadik személy által átvállalt hitel- és kölcsöntartozások összegét is itt kell szerepeltetni (a pénzbevétel már korábban megtörtént, de végleges bevétellé a visszafizetési kötelezettség megszűnésével vált).
+(4) Pénzügyileg rendezett adóköteles egyéb bevételek a 77. § szerinti egyéb bevételek, a 84. § szerinti pénzügyi műveletek bevételei mérlegfordulónapig pénzügyileg rendezett összegei. Az elengedésről, az átvállalásról szóló megállapodás szerint az üzleti évben elengedett vagy harmadik személy által átvállalt hitel- és kölcsöntartozások összegét is itt kell szerepeltetni (a pénzbevétel már korábban megtörtént, de végleges bevétellé a visszafizetési kötelezettség megszűnésével vált).
 
 (5) Pénzbevételt nem jelentő adóköteles bevételként kell kimutatni különösen:
 

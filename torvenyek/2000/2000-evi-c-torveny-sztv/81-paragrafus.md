@@ -1,4 +1,4 @@
-81. § (1) Egyéb ráfordítások az olyan, az értékesítés nettó árbevételéhez közvetlenül vagy közvetetten nem kapcsolódó kifizetések és más veszteség jellegű tételek, amelyek a rendszeres tevékenység (üzletmenet) során merülnek fel, és nem minősülnek sem a pénzügyi műveletek ráfordításainak, sem rendkívüli ráfordításnak.
+81. § (1) Egyéb ráfordítások az olyan, az értékesítés nettó árbevételéhez közvetlenül vagy közvetetten nem kapcsolódó kifizetések és más veszteség jellegű tételek, amelyek a rendszeres tevékenység (üzletmenet) során merülnek fel, és nem minősülnek pénzügyi műveletek ráfordításainak.
 
 (2) Az egyéb ráfordítások között kell elszámolni:
 
@@ -20,7 +20,19 @@ h) a veszteség jellegű kerekítési különbözetet;
 
 i) a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékét;
 
-j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegét.
+j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegét;
+
+k) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak nyilvántartás szerinti (könyv szerinti) értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a nyilvántartás szerinti érték a több;
+
+l) behajthatatlannak nem minősülő, elengedett követelés könyv szerinti értékét;
+
+m) a tartozásátvállalás során – ellentételezés nélkül – átvállalt kötelezettség szerződés (megállapodás) szerinti összegét – a 33. § (1) bekezdésének figyelembevételével –a tartozást átvállalónál;
+
+n) a visszafizetési kötelezettség nélkül átadott, pénzügyileg rendezett, a c) pont alá nem tartozó támogatás, véglegesen átadott pénzeszközök összegét;
+
+o) a fejlesztési célra kapott támogatás visszafizetendő összegét;
+
+p) a térítés nélkül átadott, részesedésnek vagy értékpapírnak nem minősülő eszközök nyilvántartás szerinti értékét, valamint a nyújtott szolgáltatások bekerülési értékét a felszámított, az átvevő által meg nem térített általános forgalmi adóval növelt összegben.
 
 (3) Az egyéb ráfordítások között kell kimutatni:
 
@@ -44,4 +56,6 @@ b) a kereskedelmi áruk veszteségjellegű leltárértékelési különbözetén
 
 c)
 
-(5) Egyéb ráfordításként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott (fizetendő) engedmény szerződés szerinti összegét, ideértve az általános forgalmi adóról szóló törvény szerinti közvetett pénz-visszatérítési akció keretében adott (fizetendő) engedmény – levonható általános forgalmi adóval csökkentett – összegét is.
+(5) Egyéb ráfordításként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag adott (fizetendő) engedmény szerződés szerinti összegét, ideértve az általános forgalmi adóról szóló törvény szerinti közvetett pénz-visszatérítési akció keretében adott (fizetendő) engedmény – általános forgalmi adóval csökkentett – összegét is.
+
+(6) Az egyéb ráfordítások között kell elszámolni, de halasztott ráfordításként időbelileg el lehet határolni – az összemérés számviteli alapelv érvényesülése érdekében – a vállalkozó által megvalósított (megszerzett) és jogszabályi rendelkezés alapján az üzemeltetőnek térítés nélkül, véglegesen átadott olyan eszköz (beruházás) nyilvántartás szerinti értékét, amelyet a jövőbeni vállalkozási tevékenysége érdekében valósított (szerzett) meg.

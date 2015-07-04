@@ -14,7 +14,7 @@ b) a várható fejlődésre (a gazdasági környezet ismert és várható fejlő
 
 c) a kutatás és a kísérleti fejlesztés területére;
 
-d) a telephelyek bemutatására;
+d) a telephelyek, fióktelepek bemutatására;
 
 e) a vállalkozó által folytatott foglalkoztatáspolitikára.
 

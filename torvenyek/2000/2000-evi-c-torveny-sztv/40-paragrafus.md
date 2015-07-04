@@ -1,10 +1,10 @@
 40. § (1) A jegyzett tőkének a jegyzett tőkén felüli saját tőke terhére történő emelésére akkor és oly mértékben kerülhet sor, ha
 
-a) a legutolsó beszámolóval lezárt üzleti év mérlegében, illetve
+a) a legutolsó beszámolóval lezárt üzleti év mérlegében, vagy
 
 b) a 21. § szerinti közbenső mérlegben (illetve egyéb, az alapul szolgáló beszámoló mérlegében)
 
-kimutatott – osztalékként, részesedésként, kamatozó részvény kamataként, illetve osztalékelőlegként figyelembe nem vett – adózott eredmény (mérleg szerinti eredmény), szabad tőketartalék, szabad eredménytartalék arra fedezetet nyújt és a tőkeemelést követően a jegyzett tőke összege nem haladja meg a lekötött tartalékkal, továbbá az értékelési tartalékkal csökkentett saját tőke összegét.
+kimutatott tőketartalék, valamint az – osztalékként, részesedésként, kamatozó részvény kamataként, illetve osztalékelőlegként figyelembe nem vett – adózott eredménnyel kiegészített szabad eredménytartalék arra fedezetet nyújt és a tőkeemelést követően a jegyzett tőke összege nem haladja meg a lekötött tartalékkal, továbbá a pozitív értékelési tartalékkal csökkentett saját tőke összegét.
 
 (2) A jegyzett tőkén felüli saját tőke terhére történik a jegyzett tőke emelése – az (1) bekezdésben rögzített feltételek mellett – akkor is, ha ingyenes vagy kedvezményes dolgozói részvényt, illetve dolgozói üzletrészt bocsátanak ki.
 

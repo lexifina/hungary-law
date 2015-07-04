@@ -2,7 +2,7 @@
 
 A mérleg előírt tagolása
 
-,,A'' változat
+„A” változat
 
 Eszközök (aktívák)
 
@@ -46,17 +46,21 @@ III. Befektetett pénzügyi eszközök
 
 2. Tartósan adott kölcsön kapcsolt vállalkozásban
 
-3. Egyéb tartós részesedés
+3. Tartós jelentős tulajdoni részesedés
 
-4. Tartósan adott kölcsön egyéb részesedési viszonyban álló vállalkozásban
+4. Tartósan adott kölcsön jelentős tulajdoni részesedési viszonyban álló vállalkozásban
 
-5. Egyéb tartósan adott kölcsön
+5. Egyéb tartós részesedés
 
-6. Tartós hitelviszonyt megtestesítő értékpapír
+6. Tartósan adott kölcsön egyéb részesedési viszonyban álló vállalkozásban
 
-7. Befektetett pénzügyi eszközök értékhelyesbítése
+7. Egyéb tartósan adott kölcsön
 
-8. Befektetett pénzügyi eszközök értékelési különbözete
+8. Tartós hitelviszonyt megtestesítő értékpapír
+
+9. Befektetett pénzügyi eszközök értékhelyesbítése
+
+10. Befektetett pénzügyi eszközök értékelési különbözete
 
 B. Forgóeszközök
 
@@ -80,27 +84,31 @@ II. Követelések
 
 2. Követelések kapcsolt vállalkozással szemben
 
-3. Követelések egyéb részesedési viszonyban lévő vállalkozással szemben
+3. Követelések jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
-4. Váltókövetelések
+4. Követelések egyéb részesedési viszonyban lévő vállalkozással szemben
 
-5. Egyéb követelések
+5. Váltókövetelések
 
-6. Követelések értékelési különbözete
+6. Egyéb követelések
 
-7. Származékos ügyletek pozitív értékelési különbözete
+7. Követelések értékelési különbözete
+
+8. Származékos ügyletek pozitív értékelési különbözete
 
 III. Értékpapírok
 
 1. Részesedés kapcsolt vállalkozásban
 
-2. Egyéb részesedés
+2. Jelentős tulajdoni részesedés
 
-3. Saját részvények, saját üzletrészek
+3. Egyéb részesedés
 
-4. Forgatási célú hitelviszonyt megtestesítő értékpapírok
+4. Saját részvények, saját üzletrészek
 
-5. Értékpapírok értékelési különbözete
+5. Forgatási célú hitelviszonyt megtestesítő értékpapírok
+
+6. Értékpapírok értékelési különbözete
 
 IV. Pénzeszközök
 
@@ -126,7 +134,7 @@ I. Jegyzett tőke
 
 Ebből: visszavásárolt tulajdoni részesedés névértéken
 
-II. Jegyzett, de még be nem fizetett tőke (–)
+II. Jegyzett, de még be nem fizetett tőke (-)
 
 III. Tőketartalék
 
@@ -140,7 +148,7 @@ VI. Értékelési tartalék
 
 2. Valós értékelés értékelési tartaléka
 
-VII. Mérleg szerinti eredmény
+VII. Adózott eredmény
 
 E. Céltartalékok
 
@@ -156,9 +164,11 @@ I. Hátrasorolt kötelezettségek
 
 1. Hátrasorolt kötelezettségek kapcsolt vállalkozással szemben
 
-2. Hátrasorolt kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+2. Hátrasorolt kötelezettségek jelentős tulajdoni viszonyban lévő vállalkozással szemben
 
-3. Hátrasorolt kötelezettségek egyéb gazdálkodóval szemben
+3. Hátrasorolt kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+
+4. Hátrasorolt kötelezettségek egyéb gazdálkodóval szemben
 
 II. Hosszú lejáratú kötelezettségek
 
@@ -174,15 +184,17 @@ II. Hosszú lejáratú kötelezettségek
 
 6. Tartós kötelezettségek kapcsolt vállalkozással szemben
 
-7. Tartós kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+7. Tartós kötelezettségek jelentős tulajdoni részesedési viszonyban lévő vállalkozásokkal szemben
 
-8. Egyéb hosszú lejáratú kötelezettségek
+8. Tartós kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+
+9. Egyéb hosszú lejáratú kötelezettségek
 
 III. Rövid lejáratú kötelezettségek
 
 1. Rövid lejáratú kölcsönök
 
-– ebből: az átváltoztatható és átváltozó kötvények
+– ebből: az átváltozt5atható és átváltozó kötvények
 
 2. Rövid lejáratú hitelek
 
@@ -194,13 +206,15 @@ III. Rövid lejáratú kötelezettségek
 
 6. Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben
 
-7. Rövid lejáratú kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+7. Rövid lejáratú kötelezettségek jelentős tulajdoni viszonyban lévő vállalkozásokkal szemben
 
-8. Egyéb rövid lejáratú kötelezettségek
+8. Rövid lejáratú kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
 
-9. Kötelezettségek értékelési különbözete
+9. Egyéb rövid lejáratú kötelezettségek
 
-10. Származékos ügyletek negatív értékelési különbözete
+10. Kötelezettségek értékelési különbözete
+
+11. Származékos ügyletek negatív értékelési különbözete
 
 G. Passzív időbeli elhatárolások
 
@@ -214,7 +228,7 @@ Források összesen
 
 A mérleg előírt tagolása
 
-,,B'' változat
+„B” változat
 
 A. Befektetett eszközök
 
@@ -256,17 +270,21 @@ III. Befektetett pénzügyi eszközök
 
 2. Tartósan adott kölcsön kapcsolt vállalkozásban
 
-3. Egyéb tartós részesedés
+3. Tartós jelentős tulajdoni részesedés
 
-4. Tartósan adott kölcsön egyéb részesedési viszonyban álló vállalkozásban
+4. Tartósan adott kölcsön jelentős tulajdoni részesedési viszonyban álló vállalkozásban
 
-5. Egyéb tartósan adott kölcsön
+5. Egyéb tartós részesedés
 
-6. Tartós hitelviszonyt megtestesítő értékpapír
+6. Tartósan adott kölcsön egyéb részesedési viszonyban álló vállalkozásban
 
-7. Befektetett pénzügyi eszközök értékhelyesbítése
+7. Egyéb tartósan adott kölcsön
 
-8. Befektetett pénzügyi eszközök értékelési különbözete
+8. Tartós hitelviszonyt megtestesítő értékpapír
+
+9. Befektetett pénzügyi eszközök értékhelyesbítése
+
+10. Befektetett pénzügyi eszközök értékelési különbözete
 
 B. Forgóeszközök
 
@@ -290,27 +308,31 @@ II. Követelések
 
 2. Követelések kapcsolt vállalkozással szemben
 
-3. Követelések egyéb részesedési viszonyban lévő vállalkozással szemben
+3. Követelések jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
-4. Váltókövetelések
+4. Követelések egyéb részesedési viszonyban lévő vállalkozással szemben
 
-5. Egyéb követelések
+5. Váltókövetelések
 
-6. Követelések értékelési különbözete
+6. Egyéb követelések
 
-7. Származékos ügyletek pozitív értékelési különbözete
+7. Követelések értékelési különbözete
+
+8. Származékos ügyletek pozitív értékelési különbözete
 
 III. Értékpapírok
 
 1. Részesedés kapcsolt vállalkozásban
 
-2. Egyéb részesedés
+2. Jelentős tulajdoni részesedés
 
-3. Saját részvények, saját üzletrészek
+3. Egyéb részesedés
 
-4. Forgatási célú hitelviszonyt megtestesítő értékpapírok
+4. Saját részvények, saját üzletrészek
 
-5. Értékpapírok értékelési különbözete
+5. Forgatási célú hitelviszonyt megtestesítő értékpapírok
+
+6. Értékpapírok értékelési különbözete
 
 IV. Pénzeszközök
 
@@ -342,13 +364,15 @@ D. Egy éven belül esedékes kötelezettségek
 
 6. Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben
 
-7. Rövid lejáratú kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+7. Rövid lejáratú kötelezettségek jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
-8. Egyéb rövid lejáratú kötelezettségek
+8. Rövid lejáratú kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
 
-9. Kötelezettségek értékelési különbözete
+9. Egyéb rövid lejáratú kötelezettségek
 
-10. Származékos ügyletek negatív értékelési különbözete
+10. Kötelezettségek értékelési különbözete
+
+11. Származékos ügyletek negatív értékelési különbözete
 
 E. Passzív időbeli elhatárolások
 
@@ -358,9 +382,13 @@ E. Passzív időbeli elhatárolások
 
 3. Halasztott bevételek
 
-F. Forgóeszközök – rövid lejáratú kötelezettségek különbözete (B+C–D–E)
+F. Forgóeszközök – rövid lejáratú kötelezettségek különbözete
 
-G. Az eszközök összértéke az egy éven belül esedékes kötelezettségek levonása után (A±F)
+(B+C–D–E)
+
+G. Az eszközök összértéke az egy éven belül esedékes kötelezettségek levonása után
+
+(A ± F)
 
 H. Egy évnél hosszabb lejáratú kötelezettségek
 
@@ -378,17 +406,21 @@ I. Hosszú lejáratú kötelezettségek
 
 6. Tartós kötelezettségek kapcsolt vállalkozással szemben
 
-7. Tartós kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+7. Tartós kötelezettségek jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
-8. Egyéb hosszú lejáratú kötelezettségek
+8. Tartós kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+
+9. Egyéb hosszú lejáratú kötelezettségek
 
 II. Hátrasorolt kötelezettségek
 
 1. Hátrasorolt kötelezettségek kapcsolt vállalkozással szemben
 
-2. Hátrasorolt kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+2. Hátrasorolt kötelezettségek jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
-3. Hátrasorolt kötelezettségek egyéb gazdálkodóval szemben
+3. Hátrasorolt kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
+
+4. Hátrasorolt kötelezettségek egyéb gazdálkodóval szemben
 
 I. Céltartalékok
 
@@ -404,7 +436,7 @@ I. Jegyzett tőke
 
 Ebből: visszavásárolt tulajdoni részesedés névértéken
 
-II. Jegyzett, de még be nem fizetett tőke (–)
+II. Jegyzett, de még be nem fizetett tőke (-)
 
 III. Tőketartalék
 
@@ -418,4 +450,4 @@ VI. Értékelési tartalék
 
 2. Valós értékelés értékelési tartaléka
 
-VII. Mérleg szerinti eredmény
+VII. Adózott eredmény

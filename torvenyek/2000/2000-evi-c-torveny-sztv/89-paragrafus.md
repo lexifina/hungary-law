@@ -6,7 +6,7 @@ b) minden olyan gazdasági társaság nevét és székhelyét, amelyet a mellék
 
 c) minden olyan gazdasági társaság nevét és székhelyét, amely a mellékletet készítő vállalkozónak társult vállalkozása,
 
-bemutatva külön-külön azok saját tőkéjét, jegyzett tőkéjét, tartalékait, a birtokolt részesedés arányát, a legutolsó üzleti év mérleg szerinti eredményét; továbbá
+bemutatva külön-külön azok saját tőkéjét, jegyzett tőkéjét, tartalékait, a birtokolt részesedés arányát, a legutolsó üzleti év adózott eredményét; továbbá
 
 d) minden olyan gazdasági társaság nevét és székhelyét, amely a mellékletet készítő vállalkozónak egyéb részesedési viszonyban lévő vállalkozása.
 

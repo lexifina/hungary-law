@@ -8,11 +8,13 @@
 
 (4) A kiegészítő mellékletben ismertetni kell a beszámoló összeállításánál alkalmazott szabályrendszert, annak főbb jellemzőit, az alkalmazott értékelési eljárásokat és az értékcsökkenés elszámolásának számviteli politikában meghatározott módszerét, elszámolásának gyakoriságát, az egyes mérlegtételeknél alkalmazott – az előző üzleti évtől eltérő – eljárásokból eredő, az eredményt befolyásoló eltérések indokolását, valamint a vagyoni, pénzügyi helyzetre, az eredményre gyakorolt hatásukat.
 
+(4a) A kiegészítő mellékletben be kell mutatni a számviteli politikában meghatározott kivételes nagyságú vagy előfordulású bevételek, költségek és ráfordítások összegét, azok jellegét.
+
 (5) A kiegészítő mellékletben be kell mutatni az ellenőrzés során feltárt jelentős összegű hibák eredményre, az eszközök és a források állományára gyakorolt – a mérlegben, az eredménykimutatásban a megfelelő tételeknél összevontan szereplő – hatását, évenkénti megbontásban.
 
 (6) A kiegészítő mellékletnek tartalmaznia kell legalább a 7. számú melléklet szerinti tartalmú cash flow-kimutatást is.
 
-(7) A kiegészítő mellékletben be kell mutatni az adózott eredmény felhasználására vonatkozó javaslatot, amennyiben az nem egyezik meg a jóváhagyásra jogosult testület által elfogadott határozattal.
+(7) A kiegészítő mellékletben be kell mutatni az adózott eredmény felhasználására vonatkozó javaslatot.
 
 (8) Ha e törvény, illetve más jogszabály előírása szerint a vállalkozónál a könyvvizsgálat kötelező, akkor
 
@@ -21,3 +23,5 @@ a) erre a kötelezettségre a beszámoló kiegészítő mellékletében kiemelte
 b) a kiegészítő mellékletben be kell mutatni a tárgyévi üzleti évre vonatkozó beszámoló könyvvizsgálatáért a könyvvizsgáló által felszámított díjat, valamint a könyvvizsgáló által a tárgyévi üzleti évben az egyéb bizonyosságot nyújtó szolgáltatásokért, az adótanácsadói szolgáltatásokért és az egyéb, nem könyvvizsgálói szolgáltatásokért felszámított díjakat külön-külön összesítve.
 
 (9) Ha a vállalkozóra vonatkozik a 151. § (1) bekezdés szerinti kötelezettség, a kiegészítő mellékletben fel kell tüntetni a könyvviteli szolgáltatás körébe tartozó feladatok irányításáért, vezetéséért felelős személy – a 151. § (3) bekezdése szerinti nyilvántartásban szereplő – nyilvános adatait.
+
+(10) A kiegészítő mellékletben szereplő, a mérleghez és az eredménykimutatáshoz kapcsolódó adatokat, magyarázatokat abban a sorrendben kell bemutatni, ahogyan a tételek a mérlegben és az eredménykimutatásban szerepelnek.

@@ -12,6 +12,6 @@ a) forintban teljesítendő kötelezettséget az elismert, számlázott összegb
 
 b) devizában teljesítendő kötelezettséget – kivéve, ha az ellenérték kiegyenlítése a 48. § (7) bekezdésének c) pontja alapján exportáruval történik – az elismert, számlázott devizaösszegnek a 60. § szerint forintra átszámított összegében
 
-kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, eszközátadással, a Polgári Törvénykönyv szerinti beszámítással ki nem egyenlítették, rendkívüli, illetve halasztott bevételként el nem számolták.
+kell a mérlegben kimutatni mindaddig, amíg azt pénzeszközzel, váltóval, eszközátadással, a Polgári Törvénykönyv szerinti beszámítással ki nem egyenlítették, egyéb, illetve halasztott bevételként el nem számolták.
 
 (6) A forintban fennálló váltótartozásokat a fizetendő forintösszegben, a devizában fennálló váltótartozásokat a devizaösszegnek a 60. § szerint forintra átszámított összegében kell a mérlegben – az (1) bekezdés figyelembevételével – kimutatni.

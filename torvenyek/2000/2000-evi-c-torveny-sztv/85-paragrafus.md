@@ -1,8 +1,28 @@
-85. § (1) Befektetett pénzügyi eszközök árfolyamveszteségeként kell kimutatni:
+85. § (1) Részesedésekből származó ráfordításként, árfolyamveszteségként kell kimutatni:
 
-a) a befektetett pénzügyi eszközök között kimutatott és eladott, beváltott hitelviszonyt megtestesítő értékpapír – kamatozó értékpapírnál az eladási árában lévő kamattal, diszkont értékpapírnál a 84. § (3) bekezdésének d) pontja szerint elszámolt kamattal csökkentett – eladási ára, illetve névértéke és könyv szerinti értéke közötti – veszteségjellegű – különbözetet az értékesítéskor, illetve a beváltáskor;
+a) a befektetett pénzügyi eszközök között lévő tulajdoni részesedést jelentő befektetés értékesítésekor az értékesített befektetés eladási ára és könyv szerinti értéke közötti – veszteségjellegű – különbözetet;
 
-b) a befektetett pénzügyi eszközök között kimutatott tulajdoni részesedést jelentő befektetés értékesítésekor az értékesített befektetés eladási ára és könyv szerinti értéke közötti – veszteségjellegű – különbözetet.
+b) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, befektetett pénzügyi eszközök között kimutatott részesedés nyilvántartás szerinti (könyv szerinti) értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a létesítő okiratban meghatározott érték a kevesebb;
+
+c) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság jogutód nélküli megszűnése esetén (a felszámolás, a végelszámolás, a kényszertörlési eljárás befejezésekor) az erről szóló határozat jogerőre emelkedésekor a megszűnt tartós részesedés (részvény, üzletrész, egyéb társasági részesedés) nyilvántartás szerinti (könyv szerinti) értékének és a megszűnt tartós részesedés ellenében kapott eszközök vagyonfelosztási javaslat szerinti (átvett kötelezettségek megállapodás szerinti értékével csökkentett) értékének a különbözetét, amennyiben a kapott eszközök értéke a kevesebb;
+
+d) az átalakuló, egyesülő, szétváló gazdasági társaság tulajdonosánál (tagjánál) a jogelőd gazdasági társaságban lévő megszűnt tartós részesedés (részvény, üzletrész, egyéb társasági részesedés) nyilvántartás szerinti (könyv szerinti) értékének és az átalakulással, egyesüléssel, szétválással létrejött gazdasági társaságban szerzett részesedés – a megszűnt részesedésre jutó, a jogelőd gazdasági társaság végleges vagyonmérlege szerinti saját tőke összegével azonos összegű – bekerülési értékének a különbözetét, amennyiben a szerzett részesedés értéke a kevesebb (kiválás esetén a kiválással létrejött gazdasági társaság végleges vagyonmérlege szerinti saját tőke összegét kell figyelembe venni a különbözet számításánál);
+
+e) az átvevő gazdasági társaságon kívüli tulajdonosnál (tagnál) – a gazdasági társaság beolvadása esetén – a jogelőd gazdasági társaságban lévő megszűnt tartós részesedés (részvény, üzletrész, egyéb társasági részesedés) nyilvántartás szerinti (könyv szerinti) értékének és a megszűnt részesedésre jutó – a jogelőd gazdasági társaság végleges vagyonmérlege szerinti – saját tőke értékének (mint a jogutód gazdasági társaságban szerzett részesedés bekerülési értékének) a különbözetét, amennyiben a saját tőke értéke a kevesebb;
+
+f) a tulajdonosnál (a tagnál) a gazdasági társaság jegyzett tőkéjének leszállításakor, ha a tőkeleszállítás tőkekivonás útján valósul meg, a bevont tartós részesedés (részvény, üzletrész, egyéb társasági részesedés) nyilvántartás szerinti (könyv szerinti) értékének és névértéke fejében átvett eszközök értékének a különbözetét, amennyiben az átvett eszközök értéke a kevesebb;
+
+g) a térítés nélkül átadott befektetett eszközök között kimutatott részesedések nyilvántartás szerinti értékét.
+
+(1a) Befektetett pénzügyi eszközök ráfordításaként, árfolyamveszteségeként kell kimutatni:
+
+a) a befektetett pénzügyi eszközök között kimutatott és eladott, beváltott hitelviszonyt megtestesítő értékpapír – kamatozó értékpapírnál az eladási árában lévő kamattal, diszkont értékpapírnál a 84. § (3) bekezdés d) pontja szerint elszámolt kamattal csökkentett – eladási ára, illetve névértéke és könyv szerinti értéke közötti – veszteségjellegű – különbözetet az értékesítéskor, illetve a beváltáskor;
+
+b) a térítés nélkül átadott, befektetett pénzügyi eszközök között kimutatott értékpapírok és kölcsönök összegének nyilvántartás szerinti értékét;
+
+c) a befektetett pénzügyi eszközök között kimutatott befektetési jegyek eladásakor, beváltásakor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget;
+
+d) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, befektetett pénzügyi eszközök között kimutatott értékpapír vagy kölcsön nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a nyilvántartás szerinti érték a több.
 
 (2) Fizetendő kamatok és kamatjellegű ráfordítások között kell kimutatni, függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszemély részére kell fizetni:
 
@@ -58,10 +78,12 @@ s) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkal
 
 t) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkalmazása során ráfordítást csökkentő tételként a nem kamatfedezeti célú fedezeti ügyletek nyereségének összegét, ha az ügylet zárása a mérleg fordulónapjáig megtörtént, illetve a nem kamatfedezeti célú piaci érték (valós érték) fedezeti ügyletek várható nyereségének összegét a mérlegfordulónapi piaci ár, árfolyam és a kötési (határidős) árfolyam közötti – nyereségjellegű – különbözet összegében, ha az ügylet a mérleg fordulónapjáig nem zárult le, legfeljebb a fedezett alapügylet tárgyévben elszámolt veszteségének összegében;
 
-u) az 59/A–59/F. §-ok szerinti valós értéken értékelt kereskedési célú, mérlegben szereplő pénzügyi eszközök negatív értékelési különbözetét.
+u) az 59/A–59/F. §-ok szerinti valós értéken értékelt kereskedési célú, mérlegben szereplő pénzügyi eszközök negatív értékelési különbözetét;
+
+v) a 85. § (1) és (1a) bekezdésében meghatározott gazdasági események veszteségjellegű eredményeit, amennyiben azok a forgóeszközök között kimutatott részesedésekhez, értékpapírokhoz kapcsolódnak, kivéve a befektetési jegyek eladásakor, beváltásakor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget, amelyet a fizetendő kamatok és kamatjellegű ráfordítások között kell elszámolni.
 
 (4)
 
 (5) A pénzügyi műveletek egyéb bevételeinek a 84. § (7) bekezdése szerinti tételei a pénzügyi műveletek egyéb ráfordításai (3) bekezdés szerinti tételeivel nem vonhatók össze, azokat bruttó módon kell kimutatni, kivéve a mérlegfordulónapi értékeléskor elszámolt árfolyamkülönbözetet, amelyet összevontan kell kimutatni.
 
-(6) Részesedések, értékpapírok, bankbetétek értékvesztéseként kell kimutatni a tulajdoni részesedést jelentő befektetések, a hitelviszonyt megtestesítő értékpapírok, a tartós bankbetétek elszámolt értékvesztését, csökkentve azt a korábban leírt értékvesztések visszaírt összegével.
+(6) Részesedések, értékpapírok, bankbetétek, tartósan adott kölcsönök értékvesztéseként kell kimutatni a tulajdoni részesedést jelentő befektetések, a hitelviszonyt megtestesítő értékpapírok, a tartós bankbetétek, adott kölcsönök elszámolt értékvesztését, csökkentve azt a korábban leírt értékvesztések visszaírt összegével.

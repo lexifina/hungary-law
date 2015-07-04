@@ -10,7 +10,7 @@
 
 (6) A konszolidálásba bevont vállalkozás külföldi pénznemben készült mérlegének tételeit – ha az anyavállalatra a 20. § (2) bekezdése vonatkozik – az összevonás előtt forintra át kell számítani a következők szerint:
 
-a) a befektetett eszközöket, a saját tőke elemeit – kivéve a mérleg szerinti eredményt – a 124. § (7) bekezdése szerint választott időpontban érvényes – a 60. § szerinti, az anyavállalat éves beszámolója készítése során alkalmazott árfolyam alapján megállapított – bekerülési árfolyamon (ez azonban nem lehet magasabb, mint a mérlegfordulónapi, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamon számított érték), valamint az egyéb eszközöket és kötelezettségeket, az időbeli elhatárolásokat, továbbá a mérleg szerinti eredményt a mérlegfordulónapi, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamon; vagy
+a) a befektetett eszközöket, a saját tőke elemeit – kivéve az adózott eredményt – a 124. § (7) bekezdése szerint választott időpontban érvényes – a 60. § szerinti, az anyavállalat éves beszámolója készítése során alkalmazott árfolyam alapján megállapított – bekerülési árfolyamon (ez azonban nem lehet magasabb, mint a mérlegfordulónapi, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamon számított érték), valamint az egyéb eszközöket és kötelezettségeket, az időbeli elhatárolásokat, továbbá az adózott eredményt a mérlegfordulónapi, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamon; vagy
 
 b) a mérleg valamennyi tételét mérlegfordulónapi, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamon.
 
@@ -24,7 +24,7 @@ b) a (6) bekezdés a) pontja szerinti értékelésből adódó különbözetből
 
 a) az értékcsökkenési leírást, a befektetett pénzügyi eszközök és a forgóeszközök értékvesztését és egyéb veszteségeit, az anyagjellegű ráfordításokat a megfelelő mérlegtételre vonatkozó árfolyamon;
 
-b) a mérleg szerinti eredményt mérlegfordulónapi, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamon;
+b) az adózott eredményt mérlegfordulónapi, a Magyar Nemzeti Bank által közzétett, hivatalos devizaárfolyamon;
 
 c) minden más tételt havonként a hó végi – a 60. § szerinti, az anyavállalat éves beszámolója készítése során alkalmazott – devizaárfolyamon forintra átszámított értékek éves összegzésével.
 

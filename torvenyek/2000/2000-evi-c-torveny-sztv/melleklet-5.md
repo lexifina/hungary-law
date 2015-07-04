@@ -74,4 +74,4 @@ H. Adózott eredmény (G–18)
 
 19. Jóváhagyott osztalék
 
-I. Egyszerűsített mérleg szerinti eredmény (H–19)
+I.

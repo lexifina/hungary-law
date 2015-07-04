@@ -1,8 +1,10 @@
 30. § (1) A forgóeszközök között értékpapírként a forgatási célból, átmeneti, nem tartós befektetésként vásárolt, hitelviszonyt megtestesítő értékpapírokat, illetve tulajdoni részesedést jelentő befektetéseket kell kimutatni.
 
-(2) Részesedés kapcsolt vállalkozásban mérlegtételnél a 3. § (2) bekezdés 7. pontja szerinti vállalkozásban lévő tulajdoni részesedést jelentő, forgatási célból, általában árfolyamnyereség elérése érdekében vásárolt befektetéseket (részvényeket, üzletrészeket, vagyoni betéteket) kell kimutatni.
+(2) Részesedés kapcsolt vállalkozásban mérlegtételnél a 3. § (2) bekezdés 7. pontja szerinti vállalkozásban lévő tulajdoni részesedést jelentő, forgatási célból, általában árfolyamnyereség elérése érdekében vásárolt befektetéseket (részvényeket, üzletrészeket, egyéb társasági részesedéseket) kell kimutatni.
 
-(3) Egyéb részesedés minden olyan tulajdoni részesedést jelentő, forgatási célból vásárolt befektetés, amely nem tartozik a (2) bekezdés szerinti részesedések közé.
+(2a) Jelentős tulajdoni részesedés mérlegtétel az olyan, a 3. § (2) bekezdés 9. pontjában meghatározott mértékű tulajdoni részesedést jelentő, forgatási célból, különösen árfolyamnyereség elérése érdekében vásárolt befektetést tartalmazza, amely nem tartozik a (2) bekezdésben meghatározott részesedések közé.
+
+(3) Egyéb részesedés minden olyan tulajdoni részesedést jelentő, forgatási célból vásárolt befektetés, amely nem tartozik a (2) és a (2a) bekezdés szerinti részesedések közé.
 
 (4) Saját részvények, saját üzletrészek a vállalkozó által visszavásárolt (megszerzett) tulajdoni részesedést jelentő saját befektetések. A visszavásárolt tulajdoni részesedést jelentő saját befektetések között kell kimutatni a vállalkozó által ellenérték (visszaváltási érték) fejében megszerzett visszaváltható részvényeket is a megszerzéstől az alaptőke kötelező leszállításának cégbírósági bejegyzéséig.
 

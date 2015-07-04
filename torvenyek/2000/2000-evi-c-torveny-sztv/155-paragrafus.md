@@ -26,7 +26,9 @@ c) a konszolidálásba bevont vállalkozás,
 
 d) a külföldi székhelyű vállalkozás magyarországi fióktelepe,
 
-e) az a vállalkozó, amelyik a 4. § (4) bekezdése szerint – a megbízható és valós kép érdekében – a kivételes esetben eltér a törvény előírásaitól.
+e) az a vállalkozó, amelyik a 4. § (4) bekezdése szerint – a megbízható és valós kép érdekében – a kivételes esetben eltér a törvény előírásaitól.,
+
+f) a közérdeklődésre számot tartó gazdálkodó.
 
 (5a) A (3) bekezdésben foglaltakat nem alkalmazhatja a tárgyévi üzleti évet követő üzleti évben a vállalkozó, ha a tárgyévi üzleti év mérlegfordulónapján 10 millió forintot meghaladó, 60 napnál régebben lejárt – az adózás rendjéről szóló törvény szerinti – köztartozása van.
 

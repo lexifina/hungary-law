@@ -10,6 +10,8 @@ b) az értékesítés nettó árbevételét főbb tevékenységenkénti megbont�
 
 (4) A kiegészítő mellékletben be kell mutatni a kutatás és a kísérleti fejlesztés tárgyévi költségeit.
 
-(5) A forgalmi költség eljárás [a 71. § (1) bekezdés b) pont] szerinti eredménykimutatást készítő vállalkozónak a kiegészítő mellékletben be kell mutatnia az aktivált saját teljesítmények értékének részletezését, a költségek költségnemenkénti megbontását legalább a 2. számú melléklet ,,A'' változat 03–04, 05–07, 10–12 és VI. sorainak megfelelő részletezettséggel, és a kettős könyvvitel zárt rendszerében kimutatott értékadatokkal.
+(5) A forgalmi költség eljárás [a 71. § (1) bekezdés b) pont] szerinti eredménykimutatást készítő vállalkozónak a kiegészítő mellékletben be kell mutatnia az aktivált saját teljesítmények értékének részletezését, a költségek költségnemenkénti megbontását legalább a 2. számú melléklet 03–04, 05–07, 10–12 és VI. sorainak megfelelő részletezettséggel, és a kettős könyvvitel zárt rendszerében kimutatott értékadatokkal.
 
-(6) A kiegészítő mellékletben be kell mutatni az eredménykimutatás Értékesítés nettó árbevétele, Egyéb bevételek tételeiből – a felsorolt részletezésben –, továbbá a Rendkívüli bevételek között kimutatott halasztott bevételekből a kapcsolt vállalkozásokkal, ezen belül az anya- és leányvállalattal elszámolt összegeket.
+(5a) A kiegészítő mellékletben jogcímenként részletezni kell az igénybe vett szolgáltatások költségeinek jelentős tételeit.
+
+(6) A kiegészítő mellékletben be kell mutatni az eredménykimutatás Értékesítés nettó árbevétele, Egyéb bevételek tételeiből – a felsorolt részletezésben –, továbbá az Egyéb bevételek és a Pénzügyi műveletek bevételei között kimutatott halasztott bevételekből a kapcsolt vállalkozásokkal, ezen belül az anya- és leányvállalattal elszámolt összegeket.

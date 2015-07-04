@@ -60,15 +60,19 @@ d) a tulajdonosokkal (a részvényesekkel) kötött szerződés (vagy a létesí
 
 3. közös vezetésű vállalkozás: az a gazdasági társaság, ahol egyrészt az anyavállalat (az anyavállalat konszolidálásba bevont leányvállalata), másrészt egy (vagy több) másik vállalkozás az 1. pont szerinti jogosultságokkal paritásos alapon – legalább 33 százalékos szavazati aránnyal – rendelkezik. A közös vezetésű vállalkozást a tulajdonostársak közösen irányítják;
 
-4. társult vállalkozás: az a – konszolidálásba teljeskörűen be nem vont – gazdasági társaság, ahol az anyavállalat vagy a konszolidálásba bevont leányvállalata jelentős részesedéssel rendelkezik, mértékadó befolyást gyakorol a gazdasági társaság üzleti és pénzügyi politikájára. Mértékadó befolyást gyakorlónak tekintendő az a vállalkozás, amely egy másik gazdasági társaságnál legalább a szavazatok 20 százalékával közvetlenül vagy közvetetten rendelkezik. A részesedés szavazati arányának meghatározása során a 115. § (4) bekezdésében előírt számítási eljárást kell értelemszerűen alkalmazni;
+4. társult vállalkozás: az a – konszolidálásba teljeskörűen be nem vont – gazdasági társaság, ahol az anyavállalat vagy a konszolidálásba bevont leányvállalata a 9. pont szerinti jelentős tulajdoni részesedéssel rendelkezik, és mértékadó befolyást gyakorol a gazdasági társaság üzleti és pénzügyi politikájára;
 
-5. egyéb részesedési viszonyban lévő vállalkozás: az a gazdasági társaság, ahol az anyavállalat vagy annak leányvállalata nem gyakorol mértékadó befolyást a gazdasági társaság üzleti és pénzügyi politikájára, amely nem tartozik a 2–4. pont szerinti vállalkozások közé;
+4a. mértékadó befolyást gyakorló: az a vállalkozás, amely egy másik gazdasági társaságnál legalább a szavazatok – 115. § (4) bekezdésében előírt számítási eljárás értelemszerű alkalmazásával számított – 20 százalékával közvetlenül vagy közvetetten rendelkezik;
+
+5. egyéb részesedési viszonyban lévő vállalkozás: az a gazdasági társaság, amelyben a vállalkozó nem rendelkezik a 9. pont szerinti jelentős tulajdoni részesedéssel, és amely nem tartozik a 2–4. pont szerinti vállalkozások közé;
 
 6. konszolidálásba bevont vállalkozások: az anyavállalat, a konszolidálásba bevont leányvállalat, a konszolidálásba bevont közös vezetésű vállalkozás együttesen;
 
-7. kapcsolt vállalkozás: az 1. pont szerinti anyavállalat és a 2–4. pont szerinti vállalkozások (fölérendelt anyavállalat esetében a minősítést a fölérendelt anyavállalat szempontjából kell elvégezni).
+7. kapcsolt vállalkozás: az 1. pont szerinti anyavállalat és a 2–3. pont szerinti vállalkozások (fölérendelt anyavállalat esetében a minősítést a fölérendelt anyavállalat szempontjából kell elvégezni).
 
-8. kapcsolt fél: az 1606/2002/EK európai parlamenti és tanácsi rendelettel összhangban egyes nemzetközi számviteli standardok elfogadásáról szóló 1126/2008/EK bizottsági rendeletben meghatározott fogalom.
+8. kapcsolt fél: az 1606/2002/EK európai parlamenti és tanácsi rendelettel összhangban egyes nemzetközi számviteli standardok elfogadásáról szóló 1126/2008/EK bizottsági rendeletben meghatározott fogalom;
+
+9. jelentős tulajdoni részesedés: más vállalkozások tőkéjében való, értékpapírban megtestesülő vagy más módon meghatározott jog, amelynek célja az említett vállalkozással való tartós kapcsolat kialakítása révén hozzájárulás annak a vállalkozásnak a tevékenységéhez, amelyik e jogok birtokosa; és amely részesedés mértéke a 20 százalékot meghaladja.
 
 (3) E törvény alkalmazásában
 
@@ -126,25 +130,9 @@ A behajthatatlanság tényét és mértékét bizonyítani kell.
 
 (5) E törvény alkalmazásában
 
-1. üzleti vagy cégérték:
+1. üzleti vagy cégérték: a megvásárolt társaságért, annak üzletágáért, telephelyéért, üzlethálózatáért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének a tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett értéke közötti különbözet, ha a fizetett ellenérték magasabb;
 
-a) cégvásárlás esetén (amikor a megvásárolt társaság, annak telephelye, üzlethálózata eszközeit és kötelezettségeit a vevő tételesen állományba veszi): a fizetett ellenérték és az egyes eszközök piaci értékének az átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett értéke közötti különbözet, ha a fizetett ellenérték a magasabb,
-
-b) cégvásárlás esetén (amikor az adott társaság részvényeit úgy szerzi meg a vevő, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit a tőzsdén jegyzik, illetve forgalmazzák): az adott társaság megszerzett részvényeiért fizetett ellenérték lényegesen több, mint a megvásárolt részvények piaci értéke, a kettő közötti pozitív különbözet,
-
-c) cégvásárlás esetén (amikor az adott társaság részvényeit, üzletrészeit, egyéb társasági részesedéseit a vevő úgy szerzi meg, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit, üzletrészeit, egyéb társasági részesedéseit a tőzsdén nem jegyzik, nem forgalmazzák): az adott társaság megszerzett részvényeiért, üzletrészeiért, egyéb társasági részesedéseiért fizetett ellenérték lényegesen több, mint az ezen befektetésre jutó – az adott társaság eszközei és kötelezettségei piaci értékének figyelembevételével meghatározott (számított) – saját tőke értéke, a kettő közötti pozitív különbözet, negatív számított saját tőke esetén a fizetett ellenérték;
-
-d)
-
-2. negatív üzleti vagy cégérték:
-
-a) cégvásárlás esetén (amikor a megvásárolt társaság, annak telephelye, üzlethálózata eszközeit és kötelezettségeit a vevő tételesen állományba veszi): a fizetett ellenérték kevesebb, mint a cégvásárlás időpontjában az egyes eszközök piaci értékének az átvállalt kötelezettségek – e törvény szerinti értékeléssel megállapított – értékével csökkentett összege és ez a különbözet a megszerzett immateriális javak, tárgyi eszközök, készletek reális értékének arányos csökkentésével sem szűnik meg, a fennmaradó többlet a negatív üzleti vagy cégérték,
-
-b) cégvásárlás esetén (amikor az adott társaság részvényeit a vevő úgy szerzi meg, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit a tőzsdén jegyzik, illetve forgalmazzák): az adott társaság megszerzett részvényeiért fizetett ellenérték lényegesen kevesebb, mint a megvásárolt részvények piaci értéke, a különbözet a negatív üzleti vagy cégérték,
-
-c) cégvásárlás esetén (amikor az adott társaság részvényeit, üzletrészeit, egyéb társasági részesedéseit a vevő úgy szerzi meg, hogy ezzel a vásárlással az adott társaságban minősített többséget biztosító befolyást szerez, és az adott társaság részvényeit, üzletrészeit, egyéb társasági részesedéseit a tőzsdén nem jegyzik, nem forgalmazzák): az adott társaság megszerzett részvényeiért, üzletrészeiért, egyéb társasági részesedéseiért fizetett ellenérték lényegesen kevesebb, mint az ezen befektetésre jutó – az adott társaság eszközei és kötelezettségei piaci értékének figyelembevételével meghatározott (számított) – saját tőke értéke, a kettő közötti negatív különbözet;
-
-d)
+2. negatív üzleti vagy cégérték: a megvásárolt társaságért, annak üzletágáért, telephelyéért, üzlethálózatáért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett összege közötti különbözet, ha a fizetett ellenérték alacsonyabb, és ez a különbözet a megszerzett immateriális javak, tárgyi eszközök, készletek reális értékének arányos csökkentésével sem szűnik meg;
 
 3. többségi befolyás, minősített többséget biztosító befolyás: a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben meghatározott fogalom;
 
@@ -270,7 +258,7 @@ c) a keletkezéskor nem vagy csak csekély mértékben igényelnek nettó befekt
 
 d) pénzügyi rendezésükre előre meghatározott későbbi időpontban, illetve időpontig (a jövőben) kerül sor.
 
-Nem minősül származékos ügyletnek az olyan határidős és opciós ügylet, amely kezdeményezésének, megkötésének és fenntartásának célja az ügylet tárgyát képező áru beszerzése, értékesítése vagy használata, és amely az ügylet tárgyát képező áru átadásával (leszállításával) teljesül az ügylet zárásakor (ide nem értve azt, amikor a pénzügyi rendezés – a záráskori piaci ár és a határidős kötési árfolyam közötti különbözet, illetve a pénzáramlások pénzügyi elszámolása – a felek közötti megállapodás alapján, pénzeszköztől eltérő pénzügyi instrumentum átadásával, rendelkezésre bocsátásával teljesül, pénzmozgás helyett);
+Nem minősül származékos ügyletnek az olyan határidős és opciós ügylet, amely kezdeményezésének, megkötésének és fenntartásának célja az ügylet tárgyát képező áru beszerzése, értékesítése vagy használata, és amely várhatóan az ügylet tárgyát képező áru átadásával (leszállításával) teljesül az ügylet zárásakor (ide nem értve azt, amikor a pénzügyi rendezés – a záráskori piaci ár és a határidős kötési árfolyam közötti különbözet, illetve a pénzáramlások pénzügyi elszámolása – a felek közötti megállapodás alapján, pénzeszköztől eltérő pénzügyi instrumentum átadásával, rendelkezésre bocsátásával teljesül, pénzmozgás helyett);
 
 12. valós érték: az az összeg, amelyért egy eszköz elcserélhető (eladható, illetve megvásárolható), vagy egy kötelezettség rendezhető megfelelően tájékozott, az üzletkötési szándékukat kinyilvánító felek között, a szokásos piaci feltételeknek megfelelően kötött (köthető) ügylet (szerződés) keretében. Valós érték a piaci megítélésről rendelkezésre álló információk alapján lehet:
 
@@ -335,3 +323,5 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 3. bizalmi vagyonkezelő: az a személy, amely a Polgári Törvénykönyvről szóló törvény bizalmi vagyonkezelési szerződésre vonatkozó rendelkezései szerint vagyonkezelőnek minősül;
 
 4. bizalmi vagyonkezelés: a Polgári Törvénykönyvről szóló törvény szerinti bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelő által végzett tevékenység.
+
+(15) E törvény alkalmazásában közérdeklődésre számot tartó gazdálkodó: a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 2. § 19. pontjában meghatározott fogalom.

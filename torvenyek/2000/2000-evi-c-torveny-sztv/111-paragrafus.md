@@ -4,7 +4,7 @@
 
 (3) A személyi jellegű ráfordítások tétel a 79. § szerinti jogcímeken a tárgyévben kifizetett, továbbá a természetes személy illetményéből levont, kötelezettségként előírt összegeket (személyi jövedelemadó, egyéb levonás) bruttó módon tartalmazza, ide nem értve a 103. § (2) bekezdése szerint a rövid lejáratú kötelezettségek között kimutatott összegeket. A munkavállalóknak, tagoknak természetben adott juttatás értékét elkülönítetten kell az eredménylevezetésben szerepeltetni.
 
-(4) Egyéb termelési és kezelési költségek, ráfordítások a 81. § szerinti egyéb ráfordítások, a 85. § szerinti pénzügyi műveletek ráfordításai, a 86. § (6)–(7) bekezdése szerinti rendkívüli ráfordítások közül az üzleti évben megfizetettek együttes összege. Az eredménylevezetés összeállítása során a társasági adókötelezettségre fizetett előleget, illetve a megfizetett vagy kötelezettségként előírt adót itt nem szabad figyelembe venni.
+(4) Egyéb termelési és kezelési költségek, ráfordítások a 81. § szerinti egyéb ráfordítások, a 85. § szerinti pénzügyi műveletek ráfordításai közül az üzleti évben megfizetettek együttes összege. Az eredménylevezetés összeállítása során a társasági adókötelezettségre fizetett előleget, illetve a megfizetett vagy kötelezettségként előírt adót itt nem szabad figyelembe venni.
 
 (5) A nem pénzben kiegyenlített ráfordítások között kell szerepeltetni
 

@@ -1,10 +1,12 @@
 29. § (1) Követelések azok a különféle szállítási, vállalkozási, szolgáltatási és egyéb szerződésekből jogszerűen eredő, pénzértékben kifejezett fizetési igények, amelyek a vállalkozó által már teljesített, a másik fél által elfogadott, elismert termékértékesítéshez, szolgáltatás teljesítéséhez, hitelviszonyt megtestesítő értékpapír, tulajdoni részesedést jelentő befektetés értékesítéséhez, kölcsönnyújtáshoz, előlegfizetéshez (beleértve az osztalékelőleget is) kapcsolódnak, valamint a különféle egyéb követelések, ideértve a vásárolt követeléseket, a térítés nélkül és egyéb címen átvett követeléseket, a bíróság által jogerősen megítélt követeléseket is.
 
-(2) Követelések áruszállításból és szolgáltatásból (vevők) között kell kimutatni minden olyan, a vállalkozó által teljesített – a vevő által elismert – termékértékesítésből, szolgáltatásnyújtásból származó követelést, amely nem tartozik a (3)–(4) bekezdés szerinti követelések és a 27. § (3), (5)–(6) bekezdésében nevesített pénzkölcsönök közé.
+(2) Követelések áruszállításból és szolgáltatásból (vevők) között kell kimutatni minden olyan, a vállalkozó által teljesített – a vevő által elismert – termékértékesítésből, szolgáltatásnyújtásból származó követelést, amely nem tartozik a (3)–(4) bekezdés szerinti követelések és a 27. § (3), (3b), (5)–(6) bekezdésében nevesített pénzkölcsönök közé.
 
-(3) Követelések kapcsolt vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti követeléseket tartalmazza, amelyeknél az adós a 3. § (2) bekezdésének 7. pontja szerinti kapcsolt vállalkozás és a követelés nem tartozik a 27. § (3), (5)–(6) bekezdése szerinti pénzkölcsönök közé.
+(3) Követelések kapcsolt vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti követeléseket tartalmazza, amelyeknél az adós a 3. § (2) bekezdésének 7. pontja szerinti kapcsolt vállalkozás és a követelés nem tartozik a 27. § (3), (3b), (5)–(6) bekezdése szerinti pénzkölcsönök közé.
 
-(4) Követelések egyéb részesedési viszonyban lévő vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti követeléseket tartalmazza, amelyeknél a követelés egyéb részesedési viszonyban lévő adóssal szemben áll fenn, és a követelés nem tartozik a 27. § (3), (5)–(6) bekezdése szerinti pénzkölcsönök közé.
+(3a) Követelések jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti követeléseket tartalmazza, amelyeknél az adós vállalkozóban a 3. § (2) bekezdés 9. pontjában meghatározott mértékű tulajdoni részesedés áll fenn, és a követelés nem tartozik a 27. § (3), (3b), (5)–(6) bekezdése szerinti pénzkölcsönök közé.
+
+(4) Követelések egyéb részesedési viszonyban lévő vállalkozással szemben mérlegtétel azokat az (1) bekezdés szerinti követeléseket tartalmazza, amelyeknél a követelés egyéb részesedési viszonyban lévő adóssal szemben áll fenn, és a követelés nem tartozik a 27. § (3), (3b), (5)–(6) bekezdése szerinti pénzkölcsönök közé.
 
 (5) Váltókövetelések között csak a nem részesedési viszonyban lévő adóssal szembeni váltóköveteléseket szabad kimutatni.
 

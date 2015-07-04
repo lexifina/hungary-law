@@ -1,4 +1,4 @@
-77. § (1) Egyéb bevételek az olyan, az értékesítés nettó árbevételének részét nem képező bevételek, amelyek a rendszeres tevékenység (üzletmenet) során keletkeznek, és nem minősülnek sem a pénzügyi műveletek bevételeinek, sem rendkívüli bevételnek.
+77. § (1) Egyéb bevételek az olyan, az értékesítés nettó árbevételének részét nem képező bevételek, amelyek a rendszeres tevékenység (üzletmenet) során keletkeznek, és nem minősülnek pénzügyi műveletek bevételeinek
 
 (2) Az egyéb bevételek között kell elszámolni:
 
@@ -36,12 +36,32 @@ h) a nyereség jellegű kerekítési különbözetet;
 
 i) a vagyonrendelőnél a bizalmi vagyonkezelésbe adott eszközök bizalmi vagyonkezelési szerződés szerinti értékét;
 
-j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor az átvett vagyon vagyonrendelőnek járó összegét.
+j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor az átvett vagyon vagyonrendelőnek járó összegét;
 
-(4) Egyéb bevételként kell elszámolni a 45. § (3) bekezdése szerint halasztott bevételként elhatárolt negatív üzleti vagy cégértékből az üzleti évben a 45. § (4) bekezdése szerint leírt összeget.
+k) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a létesítő okiratban meghatározott érték a több;
+
+l) a tartozásátvállalás során harmadik személy által – ellentételezés nélkül – átvállalt kötelezettség szerződés (megállapodás) szerinti összegét, továbbá a hitelező által elengedett, valamint az elévült kötelezettség összegét, ha ahhoz beszerzett eszköz nem kapcsolódik;
+
+m) a visszafizetési kötelezettség nélkül kapott, a (2) bekezdés d) pontja alá nem tartozó, illetve nem fejlesztési célra kapott támogatás, véglegesen átvett pénzeszközök összegét;
+
+n) térítés nélkül kapott (igénybe vett) szolgáltatások piaci – illetve jogszabály eltérő rendelkezése esetén a jogszabály szerinti – értékét;
+
+o) 45. § (3) bekezdése szerint halasztott bevételként elhatárolt negatív üzleti vagy cégértékből az üzleti évben a 45. § (4) bekezdése szerint leírt összeget.
+
+(4) Egyéb bevételként kell elszámolni, de halasztott bevételként időbelileg el kell határolni:
+
+a) az elengedett kötelezettség összegét akkor, ha az részesedésnek vagy értékpapírnak nem minősülő beszerzett eszközhöz kapcsolódik, legfeljebb az elengedett kötelezettséghez kapcsolódóan beszerzett eszköz könyv szerinti értékének összegéig;
+
+b) fejlesztési célra – visszafizetési kötelezettség nélkül – kapott, pénzügyileg rendezett támogatás, véglegesen átvett pénzeszközök összegét;
+
+c) a térítés nélkül – visszaadási kötelezettség nélkül – átvett, az ajándékként, a hagyatékként kapott, a többletként fellelt, részesedésnek vagy értékpapírnak nem minősülő eszközök piaci – illetve jogszabály eltérő rendelkezése esetén a jogszabály szerinti – értékét;
+
+d) a tartozásátvállalás során harmadik személy által – ellentételezés nélkül – átvállalt kötelezettség szerződés (megállapodás) szerinti összegét, ha az részesedésnek vagy értékpapírnak nem minősülő beszerzett eszközhöz kapcsolódik, legfeljebb az átvállalt kötelezettséghez kapcsolódóan beszerzett eszköz könyv szerinti értékének összegéig.
+
+(4a) Egyéb bevételként kell kimutatni a (4) bekezdés szerint halasztott bevételként elszámolt, időbelileg elhatárolt összegből a 45. § (2) bekezdése szerint a kapcsolódó költségek, ráfordítások ellentételezésére megszüntetett összeget.
 
 (5) Egyéb bevételként kell elkülönítetten kimutatni az értékvesztések visszaírt összegeit [ideértve az immateriális javak, a tárgyi eszközök 53. § szerint elszámolt terven felüli értékcsökkenésének visszaírt összegét, továbbá a követelések 55. § (3) bekezdése, a készletek 56. § (4) bekezdése szerint visszaírt értékvesztésének összegét], valamint a kereskedelmi áruk nyereségjellegű leltárértékelési különbözetének összegét.
 
 (6) Egyéb bevételt csökkentő tételként kell elszámolni a (3) bekezdés e) pontja szerint értékesített és a szerződés szerinti feltételek teljesítésének későbbi meghiúsulása miatt visszavett, a két időpont között használt eszköz – 73. § (2) bekezdés d) pontja szabályai szerinti – visszavételkori értékét.
 
-(7) Egyéb bevételként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag kapott (járó) engedmény szerződés szerinti összegét, ideértve az általános forgalmi adóról szóló törvény szerinti közvetett pénz-visszatérítési akció keretében kapott (járó) engedmény – fizetendő általános forgalmi adóval csökkentett – összegét is.
+(7) Egyéb bevételként kell kimutatni az üzleti évhez kapcsolódó, szerződésen alapuló – konkrét termékhez, anyaghoz, áruhoz, szolgáltatásnyújtáshoz közvetve kapcsolódó, nem számlázott – utólag kapott (járó) engedmény szerződés szerinti összegét, ideértve az általános forgalmi adóról szóló törvény szerinti közvetett pénz-visszatérítési akció keretében kapott (járó) engedmény – általános forgalmi adóval csökkentett – összegét is.

@@ -4,7 +4,7 @@ a) az összevont (konszolidált) éves beszámoló elkészítéséhez szüksége
 
 b) a leányvállalatban lévő részesedést (részvényt, üzletrészt) kizárólag továbbértékesítés céljából szerezték meg és a forgóeszközök között mutatják ki; vagy
 
-c) lényeges és tartós jogi korlátozások vagy rendkívüli körülmények huzamosan akadályozzák az anyavállalatot a 3. § (2) bekezdésének 1. pontjában megnevezett jogai gyakorlásában; vagy
+c) lényeges és tartós jogi korlátozások vagy egyéb körülmények huzamosan akadályozzák az anyavállalatot a 3. § (2) bekezdésének 1. pontjában megnevezett jogai gyakorlásában; vagy
 
 d) az összevont (konszolidált) éves beszámoló mérlegfordulónapján előtársaságként működött.
 

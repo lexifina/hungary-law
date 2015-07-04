@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2000-100-00-00.49 |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2000-100-00-00.50 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2000-100-00-00.51 |
+| 2015-07-04 | 2015. évi CI. törvény | 2000-100-00-00.52 |
