@@ -4,9 +4,9 @@
 
 5. § (1) Első fokon a kérelmező lakóhelye szerinti területi építész kamara titkára, másodfokon a Magyar Építész Kamara főtitkára folytatja le a 3. § (2) bekezdés a) pontjában és a 3. § (2) bekezdés b) pont ba) alpontjában, továbbá a 3. § (3) bekezdés a) és b) pontjában, a 3. § (4) bekezdés a) pontjában, a 3. § (4) bekezdés b) pont ba) alpontjában és a 3. § (5) bekezdés a) pontjában meghatározott szakterületekhez kapcsolódó szakmagyakorlási tevékenységek engedélyezését.
 
-(2)[^1] Első fokon – a (8) bekezdésben foglaltak kivételével – a kérelmező lakóhelye szerinti területi mérnöki kamara titkára, másodfokon a Magyar Mérnöki Kamara főtitkára folytatja le a 3. § (2) bekezdés b) pont bb)–be) alpontjában, a 3. § (3) bekezdés c) és d) pontjában, a 3. § (4) bekezdés b) pont bb) alpontjában, a 3. § (5) bekezdés b)–d) pontjában meghatározott szakterületekhez kapcsolódó szakmagyakorlási tevékenységek engedélyezését.
+(2)[^2] Első fokon – a (8) bekezdésben foglaltak kivételével – a kérelmező lakóhelye szerinti területi mérnöki kamara titkára, másodfokon a Magyar Mérnöki Kamara főtitkára folytatja le a 3. § (2) bekezdés b) pont bb)–be) alpontjában, a 3. § (3) bekezdés c) és d) pontjában, a 3. § (4) bekezdés b) pont bb) alpontjában, a 3. § (5) bekezdés b)–d) pontjában meghatározott szakterületekhez kapcsolódó szakmagyakorlási tevékenységek engedélyezését.
 
-(3)[^2] Első fokon a kérelmező lakóhelye szerinti területi építész kamara titkára, másodfokon a Magyar Építész Kamara főtitkára folytatja le a 3. § (5) bekezdés c)–d) pontja és a 3. § (6)–(7) bekezdése szerinti szakmagyakorlási tevékenység engedélyezését, ha a kérelmező az építész kamara tagja vagy építész szakképzettséggel rendelkezik.
+(3)[^3] Első fokon a kérelmező lakóhelye szerinti területi építész kamara titkára, másodfokon a Magyar Építész Kamara főtitkára folytatja le a 3. § (5) bekezdés c)–d) pontja és a 3. § (6)–(7) bekezdése szerinti szakmagyakorlási tevékenység engedélyezését, ha a kérelmező az építész kamara tagja vagy építész szakképzettséggel rendelkezik.
 
 (4) Első fokon a kérelmező lakóhelye vagy székhelye szerinti területi mérnöki kamara titkára, másodfokon a Magyar Mérnöki Kamara főtitkára folytatja le a 3. § (6)–(7) bekezdése szerinti szakmagyakorlási tevékenység engedélyezését, ha a kérelmező a mérnöki kamara tagja vagy mérnöki szakképzettséggel rendelkezik.
 
@@ -16,12 +16,12 @@
 
 (7) A szakmai címek megállapítása során a (3) és (4) bekezdés szerinti hatásköri szabályokat kell alkalmazni.
 
-(8)[^3] Első fokon a kérelmező lakóhelye szerinti területi építész kamara titkára, másodfokon a Magyar Építész Kamara főtitkára folytatja le
+(8)[^4] Első fokon a kérelmező lakóhelye szerinti területi építész kamara titkára, másodfokon a Magyar Építész Kamara főtitkára folytatja le
 
 a) a szakági építésügyi műszaki szakértői szakterület műemléki,
 
 b) a felelős műszaki vezetői építési szakterület műemléki
 
-[^1]: Az 5. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 22. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^2]: Az 5. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 22. § (6) bekezdés b) pontja szerint módosított szöveg.
-[^3]: Az 5. § (8) bekezdését a 38/2015. (III. 11.) Korm. rendelet 22. § (1) bekezdése iktatta be.
+[^2]: Az 5. § (2) bekezdése a 38/2015. (III. 11.) Korm. rendelet 22. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 22. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (8) bekezdését a 38/2015. (III. 11.) Korm. rendelet 22. § (1) bekezdése iktatta be.

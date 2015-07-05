@@ -34,7 +34,7 @@ b) táj- és kertépítészeti tervezési terület,
 
 c) sajátos építmények műszaki tervezési terület
 
-ca) közlekedési építmények tervezési szakterületen vasúti építmények tervezési részszakterület, közúti építmények tervezési részszakterület, légiközlekedési építmények tervezési részszakterület, hajózási építmények tervezési részszakterület,
+ca)[^1] közlekedési építmények tervezési szakterületen vasúti építmények tervezési részszakterület, vasúti építmények közlekedésmérnöki tervezési részszakterület, vasúti villamos berendezések, áramellátás részszakterület, közúti építmények tervezési részszakterület, közúti építmények közlekedésmérnöki tervezési részszakterület légiközlekedési építmények tervezési részszakterület, légiközlekedési építmények közlekedésmérnöki tervezési részszakterület, hajózási építmények tervezési részszakterület, hajózási építmények közlekedésmérnöki tervezési részszakterület,
 
 cb) hírközlési építmények tervezési szakterületen vezetékes hírközlési építmények tervezési részszakterület, vezeték nélküli hírközlési építmények tervezési részszakterület,
 
@@ -95,3 +95,5 @@ b) sajátos építményfajták felelős műszaki vezetői szakterület,
 c) szakági felelős műszaki vezetői szakterület.
 
 (8) Az (5)–(7) bekezdésben meghatározott szakterületekhez tartozó részszakterületeket az 1. melléklet tartalmazza.
+
+[^1]: A 3. § (3) bekezdés c) pont ca) alpontja a 168/2015. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.

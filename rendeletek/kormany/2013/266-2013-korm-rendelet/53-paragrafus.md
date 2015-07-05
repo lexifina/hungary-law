@@ -1,12 +1,12 @@
-## 51–52. §[^50]
+## 52. §[^53]
 
-53. § (1)–(2)[^51]
+53. § (1)–(2)[^54]
 
-(3)[^52]
+(3)[^55]
 
-(4)[^53]
+(4)[^56]
 
-[^50]: Az 51–52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^51]: Az 53. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^52]: Az 53. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^53]: Az 53. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: Az 53. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: Az 53. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: Az 53. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
