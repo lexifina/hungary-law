@@ -1,3 +1,1 @@
-229. § A Hpt. 272. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A hitelintézet az (1) bekezdésben meghatározott tájékoztatást az ügyfél számára világos és érthető módon – a felek eltérő megállapodásának hiányában – magyar nyelven vagy magyarországi székhelyű hitelintézet külföldön létrehozott fióktelepe esetén annak az országnak a nyelvén adja meg, amelyben a fióktelepet létrehozták, magyarországi székhelyű hitelintézet határon átnyúló szolgáltatása esetén pedig azon a nyelven, amelyről a betétes és a hitelintézet a betét elhelyezésekor vagy a szerződés megkötésekor megállapodott.”
+229. §
