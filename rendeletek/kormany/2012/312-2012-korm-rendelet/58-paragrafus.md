@@ -12,7 +12,7 @@
 
 a) kérelemre hatósági eljárást folytat le
 
-aa)[^103]
+aa)[^104]
 
 ab) a bontási tevékenység
 
@@ -20,7 +20,7 @@ megkezdésének tudomásulvételére,
 
 b) a 62. §-ban foglaltak szerint ellenőrzi vagy ellenőrizheti
 
-ba)[^104] a bontási tevékenység megkezdésének tudomásulvétele nélkül vagy az építésfelügyeleti hatóság tiltása ellenére végzett építési tevékenységet,
+ba)[^105] a bontási tevékenység megkezdésének tudomásulvétele nélkül vagy az építésfelügyeleti hatóság tiltása ellenére végzett építési tevékenységet,
 
 bb) az építőipari kivitelezési tevékenység folytatását,
 
@@ -32,7 +32,7 @@ be) az építési napló vezetését és annak tartalmát,
 
 bf) az építtetői fedezetkezelőre vonatkozó előírások betartását.
 
-(3)[^105] Az építésfelügyeleti hatóság ellenőrzi a meglévő építmények körében a jogszabályban előírt jókarbantartási kötelezettség teljesítését, valamint műemléken, nyilvántartott műemléki értéken azt, hogy az építmény műszaki állapota nem veszélyezteti-e a védett műemléki értékeket.
+(3)[^106] Az építésfelügyeleti hatóság ellenőrzi a meglévő építmények körében a jogszabályban előírt jókarbantartási kötelezettség teljesítését, valamint műemléken, nyilvántartott műemléki értéken azt, hogy az építmény műszaki állapota nem veszélyezteti-e a védett műemléki értékeket.
 
 (4) Az építésfelügyeleti hatóság felkutatja
 
@@ -48,6 +48,6 @@ c) az építési engedély nélkül végezhető építési tevékenység esetén
 
 (7) A speciális vizsgálatok elvégzése érdekében az építésfelügyeleti hatóság az Étv. 53/A. § (3) bekezdésében meghatározott szakértő vagy minőség-ellenőrző szerv közreműködését is igénybe veheti.
 
-[^103]: Az 58. § (2) bekezdés a) pont aa) alpontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés c) pontja hatályon kívül helyezte.
-[^104]: Az 58. § (2) bekezdés b) pont ba) alpontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 20. pontja szerint módosított szöveg.
-[^105]: Az 58. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 18. § (9) bekezdésével megállapított szöveg.
+[^104]: Az 58. § (2) bekezdés a) pont aa) alpontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés c) pontja hatályon kívül helyezte.
+[^105]: Az 58. § (2) bekezdés b) pont ba) alpontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 20. pontja szerint módosított szöveg.
+[^106]: Az 58. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 18. § (9) bekezdésével megállapított szöveg.

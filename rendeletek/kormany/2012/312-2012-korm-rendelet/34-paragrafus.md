@@ -28,7 +28,7 @@ ab) az építési tevékenységgel érintett telek, építmény, építményrés
 
 ac) azzal, akit az építésügyi hatóság az eljárásba ügyfélként bevont,
 
-ad)[^59] az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezmény (a továbbiakban: Espooi egyezmény) szerinti nemzetközi eljárás esetén a hatásviselő féllel,
+ad)[^60] az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezmény (a továbbiakban: Espooi egyezmény) szerinti nemzetközi eljárás esetén a hatásviselő féllel,
 
 b) tájékoztatásul
 
@@ -38,9 +38,9 @@ bb) az építési tevékenység helye szerinti települési önkormányzat polg�
 
 bc) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott,
 
-bd)[^60]
+bd)[^61]
 
 be) a Magyar Nemzeti Múzeummal, ha az engedély egyben régészeti feltárási engedély is.
 
-[^59]: A 34. § (6) bekezdés a) pont ad) alpontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 6. pontja szerint módosított szöveg.
-[^60]: A 34. § (6) bekezdés b) pont bd) alpontját a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdése hatályon kívül helyezte.
+[^60]: A 34. § (6) bekezdés a) pont ad) alpontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 6. pontja szerint módosított szöveg.
+[^61]: A 34. § (6) bekezdés b) pont bd) alpontját a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdése hatályon kívül helyezte.

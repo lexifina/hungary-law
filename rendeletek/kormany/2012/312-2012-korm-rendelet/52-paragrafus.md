@@ -4,7 +4,7 @@
 
 (2) Az építésügyi hatóság az 51. § (1) bekezdés a) és d) pontjában meghatározott engedélyek esetén helyszíni szemlén vizsgálja, hogy az építési vagy bontási tevékenységet megkezdték-e, a megkezdett építési vagy bontási tevékenységet jogszerűen végzik-e és az elkészült építmény, építményrész készültsége milyen mértékű.
 
-(3)[^80] Ha az építésügyi hatóság az építési engedély hatályának lejárta előtt vagy lejártakor megtartott helyszíni szemlén megállapítja, hogy az elkészült építmény a rendeltetésszerű és biztonságos használatra alkalmas állapotban van – függetlenül a még fennmaradó nem építésiengedély-köteles építési tevékenységekre – az engedély hatályát nem hosszabbítja meg, hanem az építtetőt a használatbavételi engedély megkérésére és a hiányzó munkálatok határidőre történő elvégzésére szólítja fel.
+(3)[^81] Ha az építésügyi hatóság az építési engedély hatályának lejárta előtt vagy lejártakor megtartott helyszíni szemlén megállapítja, hogy az elkészült építmény a rendeltetésszerű és biztonságos használatra alkalmas állapotban van – függetlenül a még fennmaradó nem építésiengedély-köteles építési tevékenységekre – az engedély hatályát nem hosszabbítja meg, hanem az építtetőt a használatbavételi engedély megkérésére és a hiányzó munkálatok határidőre történő elvégzésére szólítja fel.
 
 (4) Az építésügyi hatóság az engedély hatályát annak lejárta előtt a (6) bekezdésben foglalt feltételek mellett
 
@@ -26,13 +26,13 @@ ab) megváltoztak, de a jogszabályváltozás az engedélyezett tevékenységet 
 
 b) a (4) bekezdés b) pontja szerinti esetben akkor is meghosszabbítja, ha az építési tevékenységre vonatkozó, az engedély megadásakor hatályos jogszabályok időközben megváltoztak, feltéve, ha
 
-ba)[^81] az engedélyezett építési tevékenység – a bontás kivételével – legalább tartószerkezet kész, vagy azt meghaladó állapotban van,
+ba)[^82] az engedélyezett építési tevékenység – a bontás kivételével – legalább tartószerkezet kész, vagy azt meghaladó állapotban van,
 
 bb) az elkészült építmény, építményrész, az elvégzett építési tevékenység szabályos, és
 
-bc)[^82] az engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció legfeljebb tíz éven belül készült és
+bc)[^83] az engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció, valamint a kivitelezési dokumentáció legfeljebb tíz éven belül készült és
 
-bd)[^83] az engedélyezett bontási tevékenység végzésének készültségi foka meghaladja az 50 %-ot.
+bd)[^84] az engedélyezett bontási tevékenység végzésének készültségi foka meghaladja az 50 %-ot.
 
 (7) Az építésügyi hatóság az építési engedély hatályát meghosszabbítja akkor is, ha az építési tevékenységet az engedély hatályán belül megkezdték, az építményre, építményrészre, építési tevékenységre használatbavételi engedély még nem adható vagy a használatbavétel még nem vehető tudomásul, de
 
@@ -76,7 +76,7 @@ g) az engedély meghosszabbított hatályát.
 
 (15) Az építésügyi hatóság az építtetőt elektronikus értesítéssel tájékoztatja a határozat jogerőre emelkedéséről, továbbá erre irányuló kérelem esetén a jogerős határozatot a jogerőre emelkedés tudomásra jutásától számított három napon belül megküldi az építtetőnek vagy a meghatalmazottjának a rendelkezésének megfelelő módon.
 
-[^80]: Az 52. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^81]: Az 52. § (6) bekezdés b) pont ba) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 8. pontja szerint módosított szöveg.
-[^82]: Az 52. § (6) bekezdés b) pont bc) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^83]: Az 52. § (6) bekezdés b) pont bd) alpontját a 67/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^81]: Az 52. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^82]: Az 52. § (6) bekezdés b) pont ba) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 8. pontja szerint módosított szöveg.
+[^83]: Az 52. § (6) bekezdés b) pont bc) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^84]: Az 52. § (6) bekezdés b) pont bd) alpontját a 67/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdése iktatta be.

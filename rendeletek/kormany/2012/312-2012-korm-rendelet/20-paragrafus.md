@@ -28,9 +28,9 @@ a) az építtetővel vagy meghatalmazottjával,
 
 b) az építésfelügyeleti hatósággal az ÉTDR-en keresztül,
 
-c)[^39] az illetékes környezetvédelmi és természetvédelmi hatósággal, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
+c)[^40] az illetékes környezetvédelmi és természetvédelmi hatósággal, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
 
-d)[^40] a munkavédelmi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
+d)[^41] a munkavédelmi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
 
 e) mindazokkal, akiknek értesítését jogszabály előírja.
 
@@ -42,5 +42,5 @@ e) mindazokkal, akiknek értesítését jogszabály előírja.
 
 (7) Az építésügyi hatóság – az építési engedélykérelemben erre irányuló külön kérelem esetén – a jogerős építési engedélyt és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációt a jogerőre emelkedés időpontjának tudomásra jutásától számított három napon belül az építtető vagy meghatalmazottjának a kapcsolattartás módjára megjelölt rendelkezésének megfelelően megküldi.
 
-[^39]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
-[^40]: A 20. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
+[^40]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
+[^41]: A 20. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.

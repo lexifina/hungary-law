@@ -1,6 +1,6 @@
 ## 25. Telepítési hatásvizsgálati szakasz
 
-32. §[^55] (1) A kérelemhez – a THSZ-ben összevonható kérelmezett eljárásoktól függően – mellékelni kell
+32. §[^56] (1) A kérelemhez – a THSZ-ben összevonható kérelmezett eljárásoktól függően – mellékelni kell
 
 a) a 8. mellékletben meghatározott építészeti-műszaki dokumentációt,
 
@@ -20,4 +20,4 @@ e) az eljárási illeték, igazgatási szolgáltatási díj megfizetésének iga
 
 (5) Az építésügyi hatóság a kérelem tartalmától függően a 7. melléklet III. pontjában meghatározott szakkérdéseket vizsgálja.
 
-[^55]: A 32. § a 70/2015. (III. 30.) Korm. rendelet 206. § (13) bekezdésével megállapított szöveg.
+[^56]: A 32. § a 70/2015. (III. 30.) Korm. rendelet 206. § (13) bekezdésével megállapított szöveg.

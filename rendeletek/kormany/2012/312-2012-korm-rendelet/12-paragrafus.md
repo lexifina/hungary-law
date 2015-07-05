@@ -1,6 +1,6 @@
 ## 11. Szakhatóság közreműködése
 
-12. § (1)[^21] Az építésügyi hatóság 6. melléklet I. vagy II. táblázatában felsorolt eljárásában, az ott meghatározott feltételek fennállása esetén és az ott megjelölt szakkérdésben, a felsorolt hatóságok szakhatóságként vesznek részt.
+12. § (1)[^22] Az építésügyi hatóság 6. melléklet I. vagy II. táblázatában felsorolt eljárásában, az ott meghatározott feltételek fennállása esetén és az ott megjelölt szakkérdésben, a felsorolt hatóságok szakhatóságként vesznek részt.
 
 (2) A szakhatóság állásfoglalásában csak a hatáskörébe tartozó szakkérdés jogszabályban meghatározott követelményeit jogosult érvényre juttatni, azzal, hogy az állásfoglalásban meg kell jelölni a követelmény jogszabályi hivatkozását is.
 
@@ -30,4 +30,4 @@ f) az építésügyi hatóság által a szakhatósági állásfoglalás megadás
 
 (6) A szakhatóság állásfoglalásának kialakítását és az általa vizsgált dokumentáció záradékolását a számára biztosított ÉTDR-ben végzi.
 
-[^21]: A 12. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (6) bekezdésével megállapított szöveg.
+[^22]: A 12. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (6) bekezdésével megállapított szöveg.

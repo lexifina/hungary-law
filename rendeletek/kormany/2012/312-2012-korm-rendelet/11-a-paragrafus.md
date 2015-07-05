@@ -1,6 +1,6 @@
 ## 10/A. [^20] Az engedélyezési eljárás egyes különös szabályai
 
-11/A. § (1) Ha az építésügyi és építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (2) és (5) bekezdésében kijelölt építésügyi hatóság engedélyezési eljárásában a 6. melléklet III. táblázatában meghatározott valamely szakkérdés vizsgálatának van helye,
+11/A. § (1)[^21] Ha az építésügyi és építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (2)–(3) és (5)–(6) bekezdésében kijelölt építésügyi hatóság engedélyezési eljárásában a 6. melléklet III. táblázatában meghatározott valamely szakkérdés vizsgálatának van helye,
 
 a) a kérelemhez csatolni kell az 5. mellékletben az adott szakkérdéssel összefüggésben meghatározott dokumentációt,
 
@@ -13,3 +13,4 @@ c) az eljárás ügyintézési határideje – az adott eljárásra vonatkozó k
 (3) Az (1) bekezdés szerinti építésügyi hatóság az engedélyezési eljárásban – az adott eljárásra vonatkozó különös szabályokban meghatározott elutasítási okok mellett – a kérelmet elutasítja, ha a tevékenység az általa jogszabály alapján vizsgált követelményeknek nem felel meg.
 
 [^20]: A 10/A. alcímet (11/A. §) a 70/2015. (III. 30.) Korm. rendelet 206. § (5) bekezdése iktatta be.
+[^21]: A 11/A. § (1) bekezdés nyitó szövegrésze a 168/2015. (VI. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

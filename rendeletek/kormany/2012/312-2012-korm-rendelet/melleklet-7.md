@@ -94,7 +94,7 @@
 
 ## II. táblázat
 
-## Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (2) és (5) bekezdésében kijelölt építésügyi hatóság hatáskörébe tartozó engedélyezési eljárásban közreműködő szakhatóságok
+## Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (2)–(3) és (5)–(6) bekezdésében kijelölt építésügyi hatóság hatáskörébe tartozó engedélyezési eljárásban közreműködő szakhatóságok
 
 |  | A | B | C | D | E |
 
@@ -128,7 +128,7 @@
 
 ## III. táblázat
 
-## Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (2) és (5) bekezdésében kijelölt építésügyi hatóság engedélyezési eljárásában az eljáró hatóság által vizsgált szakkérdések
+## Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § (2)–(3) és (5)–(6) bekezdésében kijelölt építésügyi hatóság engedélyezési eljárásában az eljáró hatóság által vizsgált szakkérdések
 
 |  | A | B | C |
 
@@ -176,7 +176,7 @@
 
 | 17. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő műemléki jelentőségű területen, világörökségi területen, nyilvántartott műemléki érték vagy műemlék telkén új épület építése vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítése, átalakítása vagy bontása esetén. | Annak elbírálása kérdésében, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | a) építési, b) bontási, c) összevont (elvi építési keretengedélyezési szakaszában), d) az engedély hatályának meghosszabbítási, e) használatbavételi, f) fennmaradási engedélyezési eljárás |
 
-7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^147]
+7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^150]
 
 I. Az összevont telepítési eljárásban benyújtandó mellékletek
 
@@ -260,4 +260,4 @@ III. Az összevont telepítési eljárásban vizsgálandó szakkérdés
 
 | 3. | Egységes környezethasználati engedélyhez kötött tervezett tevékenység esetén. | A környezetszennyezés megelőzése, a környezet terhelésének csökkentése érdekében mi az elérhető legjobb technika. |
 
-[^147]: A 7. melléklet a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdésével megállapított szöveg.
+[^150]: A 7. melléklet a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdésével megállapított szöveg.

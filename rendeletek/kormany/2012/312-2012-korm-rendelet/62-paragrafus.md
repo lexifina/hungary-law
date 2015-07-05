@@ -14,9 +14,9 @@ e) az építtetői fedezetkezelés hatálya alá tartozó építőipari kivitele
 
 a) az építési termékek beépítésére vonatkozó jogszabályokat, szabványokat és szakmai szabályokat az építőipari kivitelezési tevékenység végzése során megtartották-e,
 
-b)[^121] az építőipari kivitelezési tevékenység végzését nem tiltotta-e meg,
+b)[^124] az építőipari kivitelezési tevékenység végzését nem tiltotta-e meg,
 
-c)[^122] a kivitelezés szerződésre vonatkozó előírások teljesültek-e.
+c)[^125] a kivitelezés szerződésre vonatkozó előírások teljesültek-e.
 
-[^121]: A 62. § (2) bekezdés b) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés e) pontja szerint módosított szöveg.
-[^122]: A 62. § (2) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 23. pontja szerint módosított szöveg.
+[^124]: A 62. § (2) bekezdés b) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés e) pontja szerint módosított szöveg.
+[^125]: A 62. § (2) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 23. pontja szerint módosított szöveg.

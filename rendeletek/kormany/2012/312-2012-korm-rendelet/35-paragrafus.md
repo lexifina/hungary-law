@@ -1,6 +1,6 @@
 ## 26. Integrált építési engedélyezési szakasz
 
-35. §[^61] (1) Az IÉSZ megindítását a telepítési engedély jogerőre emelkedésétől számított egy éven belül külön kérelem nélkül, a 29. § (1) bekezdés a) pontja szerinti esetben az érintett településrendezési eszköz hatálybalépését követően lehet kezdeményezni az előírt mellékletek benyújtásával.
+35. §[^62] (1) Az IÉSZ megindítását a telepítési engedély jogerőre emelkedésétől számított egy éven belül külön kérelem nélkül, a 29. § (1) bekezdés a) pontja szerinti esetben az érintett településrendezési eszköz hatálybalépését követően lehet kezdeményezni az előírt mellékletek benyújtásával.
 
 (2) Az IÉSZ megindításához – az IÉSZ-ben összevonható kérelmezett eljárástól függően – mellékelni kell
 
@@ -86,4 +86,4 @@ a) a jogerős döntést követően haladéktalanul tájékoztatást ad az ÉTDR 
 
 b) jogerőre emelkedésére tekintet nélkül a Ket. szabályai szerint nyilvánosan közzéteszi azt az integrált építési engedély tárgyában hozott határozatot a telepítési engedély tárgyában hozott végzéssel együtt, valamint a felfüggesztés tárgyában hozott végzést, amelyet olyan eljárásban hozott, ahol a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
 
-[^61]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 206. § (16) bekezdésével megállapított szöveg.
+[^62]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 206. § (16) bekezdésével megállapított szöveg.

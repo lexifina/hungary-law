@@ -1,12 +1,12 @@
 ## 47. Építésfelügyeleti hatósági ellenőrzés
 
-61. § (1)[^119] Az építésfelügyeleti hatóság köteles évente legalább egyszer ellenőrzést tartani a tudomásulvételi eljárás alapján megkezdett építőipari kivitelezési tevékenység helyszínén. Az e körbe nem tartozó építési tevékenységek ellenőrzését szúrópróbaszerűen vagy a (4) bekezdés szerinti ellenőrzési utasításban foglaltak szerint végzi.
+61. § (1)[^122] Az építésfelügyeleti hatóság köteles évente legalább egyszer ellenőrzést tartani a tudomásulvételi eljárás alapján megkezdett építőipari kivitelezési tevékenység helyszínén. Az e körbe nem tartozó építési tevékenységek ellenőrzését szúrópróbaszerűen vagy a (4) bekezdés szerinti ellenőrzési utasításban foglaltak szerint végzi.
 
 (2) Az építésfelügyeleti hatóság szükség esetén, de évente legalább két alkalommal az építésügyi hatósággal (ideértve a sajátos építményfajták szerinti hatóságokat is), más illetékességi területen működő építésfelügyeleti hatósággal, az illetékes területi építész-, illetve mérnöki kamara, területi kereskedelmi és iparkamara, vagy más – ellenőrzésre jogosult – hatósággal vagy szervezettel közös ellenőrzés végzését kezdeményezi.
 
 (3) Az építőipari kivitelezési tevékenységet folytató az építésfelügyeleti hatóságtól kérheti tevékenysége szakszerűségének ellenőrzését.
 
-(4) Az építésügyért felelős miniszter az 58. § (2) bekezdés b) pontja, az 58. § (3) és (4) bekezdése szerinti ellenőrzésre az ellenőrzési időszakot megelőző 45. napig a tárgyévre vonatkozóan ellenőrzési utasítást[^120] ad ki, amelyben
+(4) Az építésügyért felelős miniszter az 58. § (2) bekezdés b) pontja, az 58. § (3) és (4) bekezdése szerinti ellenőrzésre az ellenőrzési időszakot megelőző 45. napig a tárgyévre vonatkozóan ellenőrzési utasítást[^123] ad ki, amelyben
 
 a) meghatározza
 
@@ -22,5 +22,5 @@ b) az előző évi nyilvántartási adatok alapján javaslatot tesz utóvizsgál
 
 (7) Az építésfelügyeleti hatóság megkeresésre más hatóság ellenőrzésében is részt vesz.
 
-[^119]: A 61. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés l) pontja szerint módosított szöveg.
-[^120]: Lásd a 8/2013. (III. 29.) BM utasítást.
+[^122]: A 61. § (1) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 4. § (11) bekezdés l) pontja szerint módosított szöveg.
+[^123]: Lásd a 8/2013. (III. 29.) BM utasítást.

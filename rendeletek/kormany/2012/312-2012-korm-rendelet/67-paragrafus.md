@@ -4,11 +4,11 @@
 
 (2) Az építésfelügyeleti hatóság építésrendészeti eljárást folytat le, ha az ellenőrzésen megállapítja, hogy
 
-a)[^126] az építőipari kivitelezési tevékenység végzését a jogerős építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól eltérően az építésügyi hatóság engedélyéhez kötött építési tevékenységgel
+a)[^129] az építőipari kivitelezési tevékenység végzését a jogerős építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációtól eltérően az építésügyi hatóság engedélyéhez kötött építési tevékenységgel
 
 b) az építőipari kivitelezési tevékenység végzését építési vagy bontási engedély nélkül,
 
-c)[^127] a bontási tevékenységet a tevékenység megkezdésének tudomásulvétele nélkül vagy az építésfelügyeleti hatóság tiltása ellenére,
+c)[^130] a bontási tevékenységet a tevékenység megkezdésének tudomásulvétele nélkül vagy az építésfelügyeleti hatóság tiltása ellenére,
 
 d) az engedély nélkül végezhető építési tevékenység esetén a településrendezési tervek, a helyi építési szabályzat vagy az országos építési követelmények megsértésével
 
@@ -46,5 +46,5 @@ b) a lebontását, ha az építmény fennmaradása átalakítással sem engedél
 
 (9) Az építésfelügyeleti hatóság a teljesítési határidőt a kötelezett kérelmére indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítja.
 
-[^126]: A 67. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 24. pontja szerint módosított szöveg.
-[^127]: A 67. § (2) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 25. pontja szerint módosított szöveg.
+[^129]: A 67. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 24. pontja szerint módosított szöveg.
+[^130]: A 67. § (2) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 25. pontja szerint módosított szöveg.
