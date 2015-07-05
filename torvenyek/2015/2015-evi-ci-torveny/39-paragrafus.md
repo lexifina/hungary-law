@@ -1,3 +1,0 @@
-39. § Az Szt. 163/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A (2) bekezdésben foglalt korrekciók figyelembevételével meghatározott adatokat az egyszerűsített mérleg megfelelő tételeibe kell beállítani. A vevőkkel szembeni, az egyéb, nem pénzkiadásból származó követelések, a szállítókkal szembeni, az egyéb, nem pénzbevételből származó kötelezettségek állományát a pénzmozgáshoz nem kapcsolódó követelések, illetve a pénzmozgáshoz nem kapcsolódó kötelezettségek között kell szerepeltetni. Az eredménytartalékot és az adózott eredményt az egyszerűsített mérleg eredménytartalék, illetve egyszerűsített adózott eredmény sorába kell beállítani. Az egyszerűsített mérleg tartalék sorába az áttéréskor összeg nem kerül.”

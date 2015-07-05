@@ -1,1 +1,0 @@
-58. § Az Art. 176. § (13) bekezdésében a „törvény kivételével az adótörvények alkalmazásában,” szövegrész helyébe a „törvény, valamint a 22/E. § kivételével az adótörvények alkalmazásában,” szöveg lép.
