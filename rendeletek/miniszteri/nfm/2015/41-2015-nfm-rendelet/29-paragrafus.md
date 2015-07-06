@@ -1,5 +1,3 @@
-## 28. §[^4]
-
 ## V. Fejezet
 
 ## AZ E-I. KÉPESÍTÉSI KATEGÓRIA MEGSZERZÉSE ÉS A KÉPZÉS DÍJA
@@ -17,5 +15,3 @@
 (5) A Hatóság az SF6-Gáz tanfolyamot időszakosan, a jelentkezők létszámától függően, de legalább tíz fő jelentkezése esetében folytatja le. A Hatóság a körülmények mérlegelését követően – a költséghatékonyság szem előtt tartásával – dönthet arról, hogy tíz főnél kevesebb jelentkező esetében is megtartja a tanfolyamot.
 
 (6) A Hatóság az SF6-Gáz tanfolyam adott évben tervezett időpontjáról előzetesen minden év februárjában és augusztusában tájékoztatást tesz közzé honlapján.
-
-[^4]: A 28. § a 43. § (2) bekezdése alapján 2015. július 6-án lép hatályba.

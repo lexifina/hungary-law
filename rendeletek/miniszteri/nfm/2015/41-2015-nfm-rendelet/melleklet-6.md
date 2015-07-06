@@ -18,6 +18,4 @@
 
 | 8. | MR-VII | FT-VII. | 45-55 óra kötelező oktatás | szóbeli és gyakorlati vizsga |
 
-6. melléklet a 41/2015. (VII. 3.) NFM rendelethez[^6]
-
-[^6]: A 6. melléklet a 43. § (2) bekezdése alapján 2015. július 6-án lép hatályba.
+6. melléklet a 41/2015. (VII. 3.) NFM rendelethez
