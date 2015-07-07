@@ -34,7 +34,7 @@ c) a cselekménynek a 62. § (1) bekezdésében meghatározott jogszabályok hat
 
 d) a cselekménynek a pénzügyi intézményrendszer más tagjaira gyakorolt hatására,
 
-e) a szabályszegéssel vagy a mulasztással előidézett kockázatra, a kár mértékére és a kárenyhítési hajlandóságra,
+e) a szabályszegéssel vagy a mulasztással előidézett kockázatra, a kár mértékére, illetve a sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelem nagyságára és a kárenyhítési hajlandóságra,
 
 f) a felelős személyek által az MNB-vel kapcsolatban tanúsított együttműködésre,
 

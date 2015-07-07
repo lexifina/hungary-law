@@ -18,9 +18,9 @@ g) az uniós jogszabályokban biztosított választási lehetőségek körét é
 
 h) a javadalmazás tekintetében biztosított felülvizsgálat és értékelés módszertanát és elveit,
 
-i) a Hpt. és az 575/2012/EU rendelet megsértése következtében, valamint felügyeleti közigazgatási intézkedések ügyében hozott határozatok számát és jellegét,
+i) a Hpt. és az 575/2013/EU rendelet megsértése következtében, valamint felügyeleti intézkedések ügyében hozott határozatok számát és jellegét,
 
-j) az 575/2013/EU rendelet Ötödik részének alkalmazásában az 575/2013/EU rendelet 405–409. cikkének való megfelelés vizsgálatakor alkalmazott általános kritériumokat és módszereket, valamint az 575/2013/EU rendelet 405–409. cikkének való megfelelés vizsgálata ügyében a felügyeleti felülvizsgálat eredményének összefoglalását és az 575/2013/EU rendelet 405–409. cikkének való megfelelés vizsgálatakor hozott elutasító határozatok összegző leírását,
+j) az 575/2013/EU rendelet Ötödik részének alkalmazásában az 575/2013/EU rendelet 405–409. cikkének való megfelelés vizsgálatakor alkalmazott általános kritériumokat és módszereket, valamint az 575/2013/EU rendelet 405–409. cikkének való megfelelés vizsgálata ügyében a felügyeleti felülvizsgálat eredményének összefoglalását és az 575/2013/EU rendelet 405–409. cikkének való meg nem felelés esetén hozott intézkedések összegző leírását,
 
 k) az 575/2013/EU rendelet 7. cikk (3) bekezdés a) pontjánál alkalmazott kritériumokat, valamint az 575/2013/EU rendelet 7. cikk (3) bekezdés vonatkozásában
 

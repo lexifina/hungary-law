@@ -1,4 +1,4 @@
-47. § (1) Az MNB engedélyezési, ellenőrzési és piacfelügyeleti eljárásában ügyfél az,
+47. § (1) Az MNB engedélyezési, ellenőrzési, piacfelügyeleti eljárásában, továbbá a 45. § f) pontjában meghatározott eljárásban ügyfél az,
 
 a) akire nézve az MNB jogot vagy kötelezettséget állapíthat meg,
 

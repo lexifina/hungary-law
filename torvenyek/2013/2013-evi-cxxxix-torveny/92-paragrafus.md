@@ -1,11 +1,3 @@
-92. § (1) Ha
+92. § (1) Az MNB piacfelügyeleti eljárásban a küldeményeit postai szolgáltató útján vagy saját kézbesítés keretében is kézbesítheti. A külföldön teljesített postai úton való kézbesítést szabályszerűnek kell tekinteni, ha az akár a hivatalos irat kézbesítésére vonatkozó belföldi jogszabályok rendelkezéseinek, akár a kézbesítés helyén irányadó jogszabályok rendelkezéseinek megfelel.
 
-a) az ügyfél EGT-tagállamon kívüli lakcímmel vagy székhellyel rendelkezik,
-
-b) az ügyfél képviselőt, kézbesítési meghatalmazottat vagy kézbesítési megbízottat nem nevezett meg, és
-
-c) elektronikus kapcsolattartásnak sincs helye,
-
-az MNB piacfelügyeleti eljárásban hozott döntését postai szolgáltató útján is közölheti.
-
-(2) Az (1) bekezdésben meghatározott közlési mód alkalmazása esetén a döntést az MNB hirdetményi úton is közli. A hirdetményt ebben az esetben az MNB és Budapest Főváros Önkormányzata hirdetőtábláján kell kifüggeszteni, a központi rendszeren és az MNB elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni.
+(2) A magyarországi lakcímmel vagy székhellyel nem rendelkező ügyfél részére hirdetményi közlésnek, illetve – amennyiben annak feltételei fennállnak – kézbesítési ügygondnok útján történő kézbesítésnek kézbesítési meghatalmazott megnevezésének hiánya miatt csak akkor van helye, ha nemzetközi jogsegély útján vagy az igénybe vehető egyéb közlési módok alkalmazásával a közlés – annak megtörténte igazolásával – nem biztosítható.

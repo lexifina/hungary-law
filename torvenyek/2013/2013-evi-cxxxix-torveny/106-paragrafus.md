@@ -4,6 +4,6 @@
 
 (3) A Pénzügyi Békéltető Testület hatáskörének megállapítása esetén értesíti a feleket, és – az (5) bekezdésben meghatározott kivétellel – az eljárás megindulásától számított hatvan napon belüli meghallgatási időpontot tűz ki a felek számára.
 
-(4) A Pénzügyi Békéltető Testület az értesítésben közli a felekkel a kijelölt eljáró tanács tagjainak nevét.
+(4) A Pénzügyi Békéltető Testület az értesítésben közli a felekkel a kijelölt eljáró tanács tagjainak vagy az adott ügyben egyedül eljáró testületi tag nevét.
 
 (5) Az eljáró tanács elnöke a körülmények mérlegelése alapján kezdeményezheti az eljárás írásbeli lefolytatását, a meghallgatás mellőzéséhez azonban mindkét fél hozzájárulását be kell szereznie.

@@ -8,108 +8,114 @@
 
 ## aa) a befektetési jegyek forgalomba hozatalával összefüggésben a
 
-## 1. nyílt végű értékpapíralap tájékoztatója, hirdetménye, kezelési szabályzata, kiemelt befektetői információja jóváhagyására, valamint a letétkezelői szerződés hatálybalépésének jóváhagyására,
+## 1. nyilvános, nyílt végű, harmonizációja szerint ÁÉKBV értékpapíralap tájékoztatója, hirdetménye, kezelési szabályzata, kiemelt befektetői információja jóváhagyására, valamint a letétkezelői szerződés hatálybalépésének jóváhagyására,
 
-## 2. nyílt végű ingatlanalap tájékoztatója, kezelési szabályzata, hirdetménye és kiemelt befektetői információi jóváhagyására, a letétkezelői szerződés hatálybalépésének jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
+## 2. nyilvános, nyílt végű, harmonizációja szerint ABA értékpapíralap tájékoztatója, hirdetménye, kezelési szabályzata, kiemelt befektetői információja jóváhagyására,
 
-## 3. zárt végű értékpapír alap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására, a letétkezelői szerződés hatálybalépésének jóváhagyására,
+## 3. nyilvános, nyílt végű ingatlanalap tájékoztatója, kezelési szabályzata, hirdetménye és kiemelt befektetői információi jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
 
-## 4. zárt végű ingatlanalap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, kezelési szabályzat jóváhagyására, a letétkezelői szerződés hatálybalépésének jóváhagyása, az ingatlanértékelő megbízásának jóváhagyására,
+## 4. nyilvános, zárt végű értékpapír alap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására,
 
-## 5. befektetési alap nyilvántartásba vételére,
+## 5. nyilvános, zárt végű ingatlanalap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, kezelési szabályzat jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
 
-## 6. letétkezelői szerződés hatálybalépésének jóváhagyására,
+## 6. az ABAK által kezelt, más EGT-államban engedélyezett uniós ABA kollektív befektetési értékpapírjainak Magyarországon lakossági befektetők számára történő forgalmazásának engedélyezésére,
 
-## 7. nyilvános befektetési alap kezelési szabályzata módosításának engedélyezésére,
+## ab) a befektetési alap nyilvántartásba vételére,
 
-## ab) a befektetési alap nyilvántartásból való törlésére,
+## ac) a befektetési alap nyilvántartásból való törlésére,
 
-## ac) az ÁÉKBV-kel kapcsolatban
+## ad) a befektetési alappal kapcsolatos megszűnési eljárás esetén az értékesítésre megállapított határidő meghosszabbításának engedélyezésére,
+
+## ae) az ÁÉKBV-kel kapcsolatban
 
 ## 1. a gyűjtő-ÁÉKBV-nek a cél-ÁÉKBV-be történő befektetésének engedélyezésére,
 
-## 2. a cél-ÁÉKBV megszűnése esetén annak engedélyezése, hogy a gyűjtő-ÁÉKBV egy másik cél-ÁÉKBV-be fektesse eszközeinek legalább 85 százalékát, valamint a kezelési szabályzat tervezett módosításainak jóváhagyására,
+## 2. a cél-ÁÉKBV megszűnése esetén annak engedélyezése, hogy a gyűjtő-ÁÉKBV egy másik cél-ÁÉKBV-be fektesse eszközeinek legalább 85 százalékát,
 
 ## 3. a cél-ÁÉKBV megszűnése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV módosítsa a kezelési szabályzatát olyan módon, hogy nem gyűjtő ÁÉKBV-ként működik tovább,
 
-## 4. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV továbbra is a cél-ÁÉKBV gyűjtő-ÁÉKBV-je maradjon, valamint a gyűjtő ÁÉKBV kezelési szabályzata tervezett módosításának jóváhagyására,
+## 4. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV továbbra is a cél-ÁÉKBV gyűjtő-ÁÉKBV-je maradjon,
 
-## 5. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV az egyesülés, illetve szétválás eredményeképp létrejött másik ÁÉKBV gyűjtő-ÁÉKBV-je maradjon vagy eszközeinek legalább 85 százalékát egy másik, nem az egyesülés vagy szétválás eredményeképp létrejött cél-ÁÉKBV kollektív befektetési értékpapírjaiba fektesse, továbbá a kezelési szabályzat tervezett módosításának jóváhagyására,
+## 5. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV az egyesülés, illetve szétválás eredményeképp létrejött másik ÁÉKBV gyűjtő-ÁÉKBV-je maradjon,
 
-## 6. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdésének b) pontja, valamint a Kbftv. 143. § (6) bekezdésének c) pontja szerint nem gyűjtő-ÁÉKBV-ként működik tovább, valamint a gyűjtő-ÁÉKBV kezelési szabályzata tervezett módosításainak jóváhagyására,
+## 6. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV eszközeinek legalább 85 százalékát egy másik, nem az egyesülés vagy szétválás eredményeképp létrejött cél-ÁÉKBV kollektív befektetési értékpapírjaiba fektesse,
 
-## 7. a cél-ÁÉKBV egyesülése vagy szétválása esetén a gyűjtő-ÁÉKBV törlésére,
+## 7. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdésének b) pontja, valamint a Kbftv. 143. § (6) bekezdésének c) pontja szerint nem gyűjtő-ÁÉKBV-ként működjön tovább,
 
-## 8. annak engedélyezésére, hogy a cél-ÁÉKBV a tervezett egyesülés átvevő ÁÉKBV-je legyen, továbbá a cél-ÁÉKBV kezelési szabályzata tervezett módosításainak jóváhagyására,
+## 8. a cél-ÁÉKBV egyesülése vagy szétválása esetén a gyűjtő-ÁÉKBV törlésére,
 
-## 9. annak engedélyezésére, hogy a cél-ÁÉKBV a tervezett szétválás után létrejövő ÁÉKBV-k egyikeként lényegében változatlanul működik tovább, valamint a cél-ÁÉKBV kezelési szabályzata tervezett módosításainak jóváhagyására,
+## 9. annak engedélyezésére, hogy a cél-ÁÉKBV a tervezett egyesülés átvevő ÁÉKBV-je legyen,
 
-## 10. ha a cél-ÁÉKBV a beolvadó ÁÉKBV, és az egyesülés következtében a gyűjtő ÁÉKBV az átvevő ÁÉKBV befektetőjévé válik, ezen befektetés és a kezelési szabályzat tervezett módosításának jóváhagyására,
+## 10. annak engedélyezésére, hogy a cél-ÁÉKBV a tervezett szétválás után létrejövő ÁÉKBV-k egyikeként lényegében változatlanul működjön tovább,
 
-## 11. annak engedélyezésére ha a gyűjtő-ÁÉKBV a szétválás eredményeként létrejövő olyan ÁÉKBV befektetővé válik, amely lényegesen különbözik a cél-ÁÉKBV-től, valamint a kezelési szabályzat tervezett módosításának jóváhagyására,
+## 11. ha a cél-ÁÉKBV a beolvadó ÁÉKBV, és az egyesülés következtében a gyűjtő ÁÉKBV az átvevő ÁÉKBV befektetőjévé válik, ezen befektetés jóváhagyására,
 
-## ad) egyebekben
+## 12. annak engedélyezésére, ha a gyűjtő-ÁÉKBV a szétválás eredményeként létrejövő olyan ÁÉKBV befektetővé válik, amely lényegesen különbözik a cél-ÁÉKBV-től,
 
-## 1. a nyilvános befektetési alap átalakulásához készült tájékoztató jóváhagyására és a kezelési szabályzat módosításának engedélyezésére,
+## 13. a cél-ÁÉKBV megszűnése esetén a gyűjtő-ÁÉKBV nyilvántartásból való törlésére,
 
-## 2. a zártkörű befektetési alap nyilvános befektetési alappá történő átalakuláshoz készült tájékoztató engedélyezésére és a kezelési szabályzat módosításának engedélyezésére,
+## af) egyebekben
 
-## 3. befektetési alap kezelésének átadására,
+## 1. a nyilvános befektetési alap kezelési szabályzata módosításának engedélyezésére,
 
-## 4. befektetési alap egyesülésének engedélyezésére,
+## 2. a nyilvános befektetési alap átalakulásához készült tájékoztató jóváhagyására,
 
-## 5. a harmonizált befektetési alapok (ÁÉKBV-k) egyesülésére,
+## 3. a zártkörű befektetési alap nyilvános befektetési alappá történő átalakulásának engedélyezésére,
 
-## 6. a Kbftv. 82. § (7) bekezdésében meghatározott körbe tarozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülésére,
+## 4. a befektetési alap kezelése átadásának engedélyezésére,
 
-## 7. kollektív befektetési forma, illetve annak részalapja szétválásának engedélyezésére,
+## 5. az ABA-k egyesülésének engedélyezésére,
 
-## 8. a befektetési jegyek folyamatos forgalmazása felfüggesztésének meghosszabbítására,
+## 6. az ÁÉKBV-k egyesülésének engedélyezésére,
 
-## 9. egyesülés esetén a befektetési jegy folyamatos visszaváltásának felfüggesztésére,
+## 7. a Kbftv. 82. § (7) bekezdésében meghatározott körbe tarozó – ugyanazon befektetési alapkezelő és letétkezelő által kezelt másik befektetési alap részalapjává válást jelentő – egyesülés engedélyezésére,
 
-## 10. ingatlanértékelővel kötött szerződés létrejöttének engedélyezésére,
+## 8. a kollektív befektetési forma, illetve annak részalapja szétválásának engedélyezésére,
 
-## 11. a befektetési jegy más EGT-államban történő forgalmazás szándékának bejelentésére;
+## 9. egyesülés esetén a befektetési jegyek folyamatos forgalmazása felfüggesztésének engedélyezésére,
 
-## b) a kockázati tőkealap-kezelő között az általa kezelt kockázati tőkealap vonatkozásában
+## 10. a befektetési jegyek folyamatos forgalmazása felfüggesztésének meghosszabbítására,
 
-## ba) a kockázati tőkealap nyilvántartásba vételére,
+## 11. ingatlanértékelővel kötött szerződés és annak módosítása jóváhagyására,
 
-## bb) az egyesülés, szétválás indokát, napját és feltételeit tartalmazó tájékoztató jóváhagyására,
+## 12. tájékoztató vagy alaptájékoztató kiegészítése közzétételének engedélyezésére,
 
-## bc) a kockázati tőkealap kezelési szabályzatának és annak módosításának jóváhagyására,
+## 13. nyilvános, nyílt végű, harmonizációja szerint ÁÉKBV esetében a letétkezelői szerződés módosítása hatálybalépésének jóváhagyására,
 
-## bd) a kockázati tőkealap MNB által vezetett nyilvántartásból való törlésére,
+## b) a letétkezelő között azon befektetési alap tekintetében, amellyel kapcsolatos letétkezelői feladatok ellátására megbízással rendelkezik a
 
-## be) a kockázati tőkealap portfóliójában lévő eszközök értékesítésre nyitva álló határidő meghosszabbítására;
+## ba) befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert a befektetési alapkezelő befektetési alapkezelési tevékenység végzésére jogosító engedélyét az MNB visszavonta,
 
-## c) a kibocsátó között
+## bb) befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert az MNB kötelezte a befektetési alapkezelőt a befektetési alap kezelésének átadására, azonban a befektetési alap kezelését egyetlen befektetési alapkezelő sem veszi át,
 
-## ca) vételi ajánlat jóváhagyására,
+## c) a kibocsátó vagy a szabályozott piacra bevezetést kezdeményező személy között a Tpt. 22. § (2) és (5) bekezdésében meghatározott dokumentumban szereplő információknak a tájékoztatóban foglalt információkkal való egyenértékűségével kapcsolatos döntés meghozatalára,
 
-## cb) már engedélyezett tájékoztató esetén a dokumentumokban szereplő új információk egyenértékűségéről szóló döntés meghozatalára,
+## d) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését vagy az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy vagy a forgalmazó között
 
-## cc) tájékoztató vagy alaptájékoztató kiegészítése közzétételének engedélyezésére,
+## da) a kibocsátási tájékoztató kiegészítése közzétételének engedélyezésére,
 
-## cd) kibocsátási tájékoztató, alaptájékoztató és hirdetmény közzétételének engedélyezésére,
+## db) az alaptájékoztató kiegészítése közzétételének engedélyezésére,
 
-## ce) ismertető közzétételének engedélyezésére,
+## e) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését vagy az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy között
 
-## cf) helyi önkormányzat, az Európai Unió tagállamának regionális vagy helyi önkormányzata által kibocsátott hitelviszonyt megtestesítő értékpapír, továbbá az Európai Unió tagállamának regionális vagy helyi önkormányzata által garantált értékpapír nyilvános forgalomba hozatalához, illetőleg szabályozott piacra történő bevezetéséhez készített tájékoztató, hirdetmény engedélyezésére,
+## ea) a kibocsátási tájékoztató és a hirdetmény közzétételének engedélyezésére,
 
-## cg) harmadik országban székhellyel rendelkező kibocsátó tájékoztatója közzétételének engedélyezésére,
+## eb) az alaptájékoztató és a hirdetmény közzétételének engedélyezésére,
 
-## ch) a kibocsátó, ha igazolja, hogy zártkörűen működő részvénytársaságként működik tovább a nyilvánosság felé adatszolgáltatási kötelezettség alóli mentesítésre,
+## f) a Tpt. 23. számú mellékletében meghatározott nemzetközi pénzügyi intézmény, vagy az olyan nemzetközi intézmény között, amelynek az Európai Unió legalább egy tagállama a tagja, az ismertető közzétételének engedélyezésére,
 
-## ci) nyilvános vételi ajánlat kiegészítésére, részletezése előírására, módosított vételi ajánlat jóváhagyására;
+## g) a helyi önkormányzat vagy az Európai Unió tagállama regionális vagy helyi önkormányzata között a helyi önkormányzat, az Európai Unió tagállama regionális vagy helyi önkormányzata által kibocsátott hitelviszonyt megtestesítő értékpapír, továbbá az Európai Unió tagállama regionális vagy helyi önkormányzata által garantált értékpapír nyilvános forgalomba hozatalához, illetve szabályozott piacra történő bevezetéséhez készített tájékoztató, hirdetmény közzétételének engedélyezésére,
 
-## d) az ajánlattevő, valamint a Tpt. 68. § (4) bekezdés alapján megbízott befektetési szolgáltató között az általuk a vételi ajánlat jóváhagyására;
+## h) a harmadik országban székhellyel rendelkező kibocsátó között a tájékoztató közzétételének engedélyezésére,
 
-## e) a nyilvánosan forgalomba hozott értékpapír kibocsátója között
+## i) a zártkörű részvénytársasággá alakuló, értékpapírt nyilvánosan forgalomba hozott kibocsátó között a nyilvánosság felé történő adatszolgáltatási kötelezettség alóli mentesítésre,
 
-## ea) a szabályozott információ bejelentésére,
+## j) a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdés alapján megbízott befektetési szolgáltató között
 
-## eb) a hozzá érkezett Tpt. 61. § szerinti tájékoztatás bejelentésére
+## ja) az általuk tett nyilvános vételi ajánlat jóváhagyására,
+
+## jb) az általuk tett és módosított nyilvános vételi ajánlat jóváhagyására,
+
+## k) a nyilvánosan forgalomba hozott értékpapír kibocsátója között a szabályozott információ bejelentésére
 
 ## vonatkozó eljárásban kizárólag elektronikus úton történhet a kapcsolattartás.

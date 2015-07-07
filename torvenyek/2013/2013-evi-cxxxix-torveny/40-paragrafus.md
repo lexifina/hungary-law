@@ -29,3 +29,5 @@
 (15) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a 2011/61/EU európai parlamenti és tanácsi irányelvnek a mentességek, az általános működési feltételek, a letétkezelők, a tőkeáttétel, az átláthatóság és a felügyelet tekintetében történő kiegészítéséről szóló, 2012. december 19-i 231/2013/EU bizottsági felhatalmazáson alapuló rendelet végrehajtásából eredő feladatokat.
 
 (16) Az MNB – a 28/A. §-ban meghatározottak mellett – a 4. § (9) bekezdésében meghatározott feladatkörében a 909/2014/EU rendelet 2. cikk (1) bekezdés 17. pontja szerinti illetékes hatóságként látja el a 909/2014/EU rendelet végrehajtásához kapcsolódó feladatokat.
+
+(17) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a hatáskörrel rendelkező hatóságok által az Európai Értékpapír-piaci Hatóság számára a 2011/61/EU európai parlamenti és tanácsi irányelv 67. cikkének (3) bekezdése alkalmazásában a benyújtandó információkról szóló, 2014. december 18-i a Bizottság (EU) 2015/514 felhatalmazáson alapuló rendelete végrehajtásából eredő feladatokat.

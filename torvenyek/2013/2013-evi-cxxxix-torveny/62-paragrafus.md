@@ -10,4 +10,4 @@ c) az MNB elnöke rendelete
 
 megtartásának, valamint az MNB hatósági határozataiban foglaltak végrehajtásának ellenőrzésére terjed ki.
 
-(2) Az MNB ellenőrzése a jogszabályban meghatározottak szerinti adatszolgáltatásból származó adatok ellenőrzését, valamint az MNB által hivatalból lefolytatott hatósági ellenőrzési eljárást (a továbbiakban: ellenőrzési eljárás) foglalja magába.
+(2) Az MNB ellenőrzése az adatszolgáltatásból származó adatok ellenőrzését, valamint az MNB által hivatalból lefolytatott – helyszíni és helyszínen kívüli – ellenőrzési eljárást (a továbbiakban: ellenőrzési eljárás) foglalja magába.

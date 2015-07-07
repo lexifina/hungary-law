@@ -1,6 +1,6 @@
 104. § (1) A Pénzügyi Békéltető Testület eljárása a fogyasztó kérelmére indul.
 
-(2) A kérelmet a Pénzügyi Békéltető Testülethez kell írásban benyújtani. A kérelemnek tartalmaznia kell
+(2) A kérelmet a Pénzügyi Békéltető Testülethez kell írásban benyújtani, a méltányossági kérelem kivételével az erre rendszeresített nyomtatványon. A kérelemnek tartalmaznia kell
 
 a) a fogyasztó nevét, lakóhelyét vagy tartózkodási helyét,
 
@@ -10,11 +10,15 @@ c) a fogyasztó álláspontjának rövid leírását, az azt alátámasztó tén
 
 d) a fogyasztó nyilatkozatát a vitás ügy rendezésének megkísérléséről,
 
-e) az elutasított panaszt,
+e) az elutasított panaszt és az elutasítást tartalmazó iratot,
 
 f) a fogyasztó nyilatkozatát arra nézve, hogy az ügyben közvetítői eljárást vagy polgári peres eljárást nem indított,
 
-g) a döntésre irányuló indítványt.
+g) amennyiben a kérelemhez különleges adat is kapcsolódik, a fogyasztó nyilatkozatát arra nézve, hogy a kérelme benyújtásával egyidejűleg különleges adata tekintetében hozzájárul az Infotv. 5. § (2) bekezdés a) pont szerinti adatkezeléshez és adatátadáshoz,
+
+h) a döntésre irányuló indítványt,
+
+i) méltányosság iránti kérelem esetén a fogyasztó nyilatkozatát arra vonatkozóan, hogy ugyanabból a ténybeli alapból, ugyanazon jog iránt korábban nem terjesztett elő méltányossági kérelmet a Pénzügyi Békéltető Testületnél.
 
 (3) A kérelemhez csatolni kell azt az okiratot, illetve annak másolatát (kivonatát), amelynek tartalmára a fogyasztó bizonyítékként hivatkozik, így különösen a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet írásbeli nyilatkozatát a panasz elutasításáról, ennek hiányában a fogyasztó rendelkezésére álló egyéb írásos bizonyítékot az egyeztetés megkísérléséről.
 

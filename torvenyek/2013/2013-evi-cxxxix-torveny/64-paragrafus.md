@@ -2,32 +2,44 @@
 
 a) átfogó vizsgálatot,
 
-b) célvizsgálatot és
+b) célvizsgálatot,
 
-c) több személynél és szervezetnél témavizsgálatot
+c) témavizsgálatot,
+
+d) rendkívüli célvizsgálatot és
+
+e) utóvizsgálatot
 
 végez.
 
-(2) Az MNB a határozatainak teljesülését utóvizsgálat keretében vagy adatszolgáltatás alapján ellenőrzi.
+(2) Az MNB
 
-(3) Az MNB
+a) fizetési rendszer működtetése tevékenységet végző szervezetnél, továbbá elszámolóházi tevékenységet végző szervezetnél legalább kétévente,
 
-a) fizetési rendszer működtetése tevékenységet végző szervezetnél, elszámolóházi tevékenységet végző szervezetnél, központi értéktárnál legalább kétévente,
+b) központi szerződő félnél, továbbá központi értéktárnál legalább évente,
 
-b) központi szerződő félnél legalább évente,
+c) a d) pontban foglaltakat ide nem értve
 
-c) banknál, szakosított hitelintézetnél, biztosító részvénytársaságnál és viszontbiztosítónál, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévenként,
+ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, befektetési alapkezelőnél, tőzsdénél, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
 
-d) szövetkezeti hitelintézetnél, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél, befektetési alapkezelőnél, biztosító egyesületnél, biztosító szövetkezetnél, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, a foglalkoztatói nyugdíj szolgáltató intézménynél és tőzsdénél legalább ötévenként
+cb) hitelintézetnél, biztosítónál, viszontbiztosítónál, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, továbbá befektetési alapkezelőnél a tevékenységének megkezdését követő egy év elteltével,
+
+d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben meghatározott Integrációs Szervezethez csatlakozott hitelintézeteknél, a biztosítási tevékenységről szóló törvény hatodik részének hatálya alá tartozó kisbiztosítónál, kockázati tőkealapkezelőnél, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, továbbá foglalkoztatói nyugdíj szolgáltató intézménynél legalább ötévente
 
 átfogó vizsgálatot folytat le.
 
-(4) Az MNB a pénzügyi csoportnál, az összes csoporttag vonatkozásában együttesen is jogosult átfogó vizsgálatot végezni. A pénzügyi csoport vizsgálata kiterjed az összevont alapú felügyeletre vonatkozó jogszabályi előírások betartásának ellenőrzésére és magában foglalhatja az összes csoporttagra vonatkozó törvényi előírások betartásának egyedi alapú vizsgálatát is (a továbbiakban: csoportvizsgálat).
+(3) Az MNB a pénzügyi csoportnál, az összes csoporttag vonatkozásában együttesen is jogosult átfogó vizsgálatot végezni. A pénzügyi csoport vizsgálata kiterjed az összevont alapú felügyeletre vonatkozó jogszabályi előírások betartásának ellenőrzésére és magában foglalhatja az összes csoporttagra vonatkozó törvényi előírások betartásának egyedi alapú vizsgálatát is (a továbbiakban: csoportvizsgálat).
 
-(5) Az átfogó vizsgálat részeként az MNB helyszíni ellenőrzést is tart.
+(4) Az MNB célvizsgálatot a 62. § (1) bekezdésben meghatározott jogszabályi rendelkezések betartásának az eseti jellegű ellenőrzése céljából végezhet. A célvizsgálat jogszabályi rendelkezés megsértésének gyanúja esetén, továbbá egyes jogszabályi rendelkezések betartásának – nem átfogó – ellenőrzése céljából is folytatható.
 
-(6) Az MNB a csoportvizsgálat keretében valamennyi csoporttagnál tarthat helyszíni ellenőrzést.
+(5) Az MNB hivatalból témavizsgálatot több személynél és szervezetnél végezhet a 62. § (1) bekezdésben meghatározott az azonos vagy hasonló jellegű jogszabályi rendelkezések betartásának összehangolt és összehasonlító ellenőrzése céljából.
 
-(7) Az MNB az ellenőrzési eljárásban tartott helyszíni ellenőrzésről külön jegyzőkönyvet vagy egyszerűsített jegyzőkönyvet nem készít, az ellenőrzési eljárás során tett megállapításait a 69. § (1) bekezdése szerinti vizsgálati jelentésben és csoportvizsgálati jelentésben rögzíti.
+(6) Az MNB rendkívüli célvizsgálatot indít a 39. § hatálya alá tartozó személyeknél és szervezeteknél a 62. § (1) bekezdésben meghatározott jogszabályi rendelkezések súlyos megsértésének megalapozott gyanúja esetén, ha a jogsértés
 
-(8) Az MNB az értékpapírok nyomdai úton történő előállítására vonatkozó külön jogszabályban előírt kötelezettségek ellenőrzése keretében, az ott meghatározott körben és módon a Nemzetbiztonsági Szakszolgálattal együttműködve jár el.
+a) az ügyfelek nagy számát érinti,
+
+b) jelentős rendszerkockázattal jár, vagy
+
+c) az adott piacba vetett bizalmat általánosan veszélyezteti.
+
+(7) Az MNB a határozatainak teljesülését utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.

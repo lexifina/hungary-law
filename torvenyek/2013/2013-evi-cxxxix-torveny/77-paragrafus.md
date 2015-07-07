@@ -1,4 +1,4 @@
-77. § (1) A bírságot a kiszabásáról hozott határozat jogerőre emelkedésétől számított harminc napon belül kell a határozatban megjelölt számlára befizetni.
+77. § (1) A bírságot a kiszabásáról hozott döntés jogerőre emelkedésétől számított harminc napon belül kell a döntésben megjelölt számlára befizetni.
 
 (2) Nem kötelezhető bírság fizetésére az, aki bizonyítani tudja, hogy úgy járt el, ahogy az ilyen tisztséget betöltő személytől az adott helyzetben általában elvárható.
 

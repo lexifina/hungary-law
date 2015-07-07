@@ -36,13 +36,13 @@ f) harmadik országban bejegyzett viszontbiztosító által Magyarországon beje
 
 g) pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
 
-h) a Hpt. 36. § (5) bekezdése szerinti határozatot,
+h)
 
 i) összevont alapú felügyelet során – a Hpt. 174. § (5)–(7) bekezdése tekintetében – alkalmazott eljárásokat,
 
 j) a Tpt. 181/J. § (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet,
 
-k) a Bszt. 164. §-a alapján hozott határozatokat,
+k)
 
 l) a Magyarország területén bejegyzett biztosító vagy viszontbiztosító harmadik országban történő letelepedése vagy tevékenysége akadályba ütközésének tényét,
 
@@ -56,7 +56,7 @@ p) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról sz
 
 q) azokra a kötvényekre, jelzálog-levelekre, továbbá ezek kibocsátóira vonatkozó adatokat, amelyek megfelelnek az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 2009. július 13-i 2009/65/EK irányelv (a továbbiakban: 2009/65/EK irányelv) 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
 
-r) a hitelintézet részére kiadott tevékenységi (működési) engedély visszavonását,
+r)
 
 s) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmény nevét és azt, hogy a globálisan rendszerszinten jelentős intézmények melyik alkategóriába tartoznak,
 

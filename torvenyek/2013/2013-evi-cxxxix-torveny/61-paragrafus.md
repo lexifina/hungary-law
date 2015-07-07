@@ -1,13 +1,15 @@
-61. § (1) Az alapítási, az egyesülési, a szétválási és a tevékenységi engedély megszerzésére irányuló, valamint a 45. § b) pontban meghatározott eljárásban az ügyintézési határidő három hónap.
+61. § (1) Az MNB eljárásaiban – a (2)–(5) bekezdésben meghatározottak kivételével – az ügyintézési határidő harminc nap.
 
-(2) Az (1) bekezdésben meghatározott határidő indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítható.
+(2) Az alapítási, az egyesülési, a szétválási, a tevékenységi engedély megszerzésére, a tevékenység megszüntetésére irányuló eljárásban, továbbá a 45. § c) pontban meghatározott eljárásban az ügyintézési határidő három hónap, amely határidő indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítható.
 
-(3) Az állományátruházáshoz szükséges engedélyezési eljárás ügyintézési határideje két hónap.
+(3) Az állományátruházás engedélyezésére irányuló eljárásban az ügyintézési határidő két hónap, amely határidő indokolt esetben egy alkalommal, legfeljebb két hónappal meghosszabbítható.
 
-(4) A (3) bekezdésben meghatározott határidő indokolt esetben egy alkalommal, legfeljebb két hónappal meghosszabbítható.
+(4) Az 575/2013/EU rendelet alapján az MNB hatáskörébe tartozó engedélyezésre és jóváhagyásra irányuló eljárásban az ügyintézési határidő három hónap, amely határidő indokolt esetben egy alkalommal, legfeljebb három hónappal meghosszabbítható.
 
-(5) Ha az ügyfél az (1) és (3) bekezdésben meghatározott eljárás lefolytatása iránti kérelmet hiányosan nyújtotta be, az MNB a kérelmezőt egy alkalommal harminc napon belül hiánypótlásra hívja fel.
+(5) Ha az MNB hatáskörébe tartozó eljárásra az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérő határidőt állapít meg az (1)–(4) bekezdésben meghatározott szabályok nem alkalmazhatók.
 
-(6) Ha a hiánytalanul rendelkezésre álló kérelem és mellékletei nem felelnek meg a jogszabályban foglalt feltételeknek, célszerűtlen vagy szakszerűtlen előírást tartalmaznak, az MNB a hiánytalan beérkezést követő harminc napon belül – megfelelő határidő megjelölése mellett – az ügyfelet a kérelem vagy annak melléklete kiegészítésére, illetve módosítására hívja fel.
+(6) Ha az ügyfél a (2) és (3) bekezdésben meghatározott eljárás lefolytatása iránti kérelmet hiányosan nyújtotta be, az MNB a kérelmezőt egy alkalommal harminc napon belül hiánypótlásra hívja fel.
 
-(7) Az MNB a kérelem kiegészítésének elrendelése során figyelmezteti az ügyfelet arra, hogy annak elmulasztása vagy nem megfelelő teljesítése esetén a rendelkezésre álló adatok alapján érdemben bírálja el a kérelmet.
+(7) Ha a hiánytalanul rendelkezésre álló kérelem és mellékletei nem felelnek meg a jogszabályban foglalt feltételeknek, célszerűtlen vagy szakszerűtlen előírást tartalmaznak, az MNB a hiánytalan beérkezést követő harminc napon belül – megfelelő határidő megjelölése mellett – az ügyfelet a kérelem vagy annak melléklete kiegészítésére, illetve módosítására hívja fel.
+
+(8) Az MNB a kérelem kiegészítésének, illetve módosításának elrendelése során figyelmezteti az ügyfelet arra, hogy annak elmulasztása vagy nem megfelelő teljesítése esetén a rendelkezésre álló adatok alapján érdemben bírálja el a kérelmet.

@@ -1,3 +1,5 @@
+## 30/A. A hatósági szerződésre vonatkozó szabályok
+
 95. § (1) Az MNB a fogyasztóvédelmi ellenőrzési eljárás és piacfelügyeleti eljárás során feltárt jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal az ügyféllel, aki vállalja, hogy felhagy a jogsértő magatartással és magatartását a hatósági szerződésben meghatározott módon hozza összhangba a vonatkozó jogszabályok rendelkezéseivel.
 
 (2) Az MNB a hatósági szerződésről hirdetményt tesz közzé a honlapján vagy az általa célszerűnek tartott egyéb módon. A hirdetménynek tartalmaznia kell

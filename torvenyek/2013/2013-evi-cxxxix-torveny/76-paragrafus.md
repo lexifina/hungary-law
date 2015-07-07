@@ -2,7 +2,7 @@
 
 (2) A kiszabható bírság felső határa az (1) bekezdéstől eltérően a 39. §-ban meghatározott törvények hatálya alá tartozó személy és szervezet részére megállapított éves felügyeleti díj (alapdíj és változó díj összege) kettőszáz százalékáig terjedhet, ha ez meghaladja a kétmilliárd forintot.
 
-(3) Az ellenőrzött szervezet vezetőjével, valamint a rá irányadó jogszabályok szerint vezető állású személynek minősülő személlyel szemben kiszabható bírság összege százezer forinttól húszmillió forintig terjedhet. A vezetővel, valamint a vezető állású személynek minősülő személyekkel szemben kiszabott bírság összegét az ellenőrzött szervezet nem vállalhatja át.
+(3) Az ellenőrzött szervezet vezetőjével, valamint a rá irányadó jogszabályok szerint vezető állású személynek minősülő személlyel szemben kiszabható bírság összege százezer forinttól ötszázmillió forintig terjedhet. A vezetővel, valamint a vezető állású személynek minősülő személyekkel szemben kiszabott bírság összegét az ellenőrzött szervezet nem vállalhatja át.
 
 (4) A (3) bekezdés alkalmazása során – a 39. §-ban meghatározott törvények ekként meghatározott személyeken túl – vezető állású személynek minősül az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár vezető tisztségviselője, ügyvezetője és ügyvezető-helyettese is, továbbá a független biztosításközvetítői tevékenység irányítását végző személy.
 
@@ -10,4 +10,4 @@
 
 (6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 467 550 000 Ft, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – ha meghatározható – kétszereséig terjed.
 
-(7) A kiszabható bírság alsó határa a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 14/A. §-ában, 36/A. § (1)–(3) bekezdésében és 36/B. §-ában a pénzforgalmi szolgáltató számára előírt kötelezettség megszegése, elkerülése, elmulasztása, késedelmes vagy hiányos teljesítése esetén ötszázmillió forint.
+(7) A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 14/A. §-ában, 36/A. § (1)–(3) bekezdésében és 36/B. §-ában a pénzforgalmi szolgáltató számára előírt kötelezettség megszegése, elkerülése, elmulasztása, késedelmes vagy hiányos teljesítése esetén az MNB a 88. §-ban meghatározott jogkövetkezményeket alkalmazza.

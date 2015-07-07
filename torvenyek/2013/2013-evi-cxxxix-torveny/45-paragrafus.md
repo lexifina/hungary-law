@@ -8,7 +8,7 @@
 
 45. § Az MNB hatóságként jár el
 
-a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó személyek, szervezetek, valamint tevékenységek feletti felügyelet gyakorlása,
+a) a 4. § (9) bekezdésében meghatározott feladatkörében a 39. § (1) bekezdésében meghatározott törvények hatálya alá tartozó személyek, szervezetek, valamint tevékenységek feletti folyamatos felügyelet gyakorlása,
 
 b) a 4. § (8) bekezdésében meghatározott feladatkörében a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti jogosultság gyakorlása során,
 
@@ -16,6 +16,8 @@ c) a 4. § (5) bekezdésében meghatározott feladatkörében a fizetési, illet
 
 d) a 4. § (2) bekezdésében meghatározott feladatkörében a forgalomban lévő magyar törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének és készíttetésének engedélyezése és ellenőrzése, továbbá
 
-e) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése
+e) az e törvényben, az MNB elnöke rendeleteiben és az MNB határozataiban foglalt rendelkezések megtartásának ellenőrzése,
+
+f) a 4. § (7) bekezdésében meghatározott feladatkörében eljárva a Hpt. 89. és 90. §-ában, valamint a Bszt. 110/D. és 110/E. §-ában meghatározottak szerint a globálisan és egyéb rendszerszinten jelentős hitelintézetekre, befektetési vállalkozásokra vonatkozó tőkepuffer, a 35/A. § (1) bekezdésében meghatározott rendszerkockázati tőkepuffer képzésére való kötelezés
 
 során.

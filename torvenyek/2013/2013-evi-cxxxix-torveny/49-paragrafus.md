@@ -2,4 +2,4 @@
 
 (2) Az MNB hatósági eljárása során a Ket. írásbelinek minősülő elektronikus kapcsolattartásra vonatkozó szabályaitól eltérően is meghatározhatja az adatszolgáltatási kötelezettség teljesítésének módját.
 
-(3) Az eljárás felfüggesztését az ügyfél nem kérheti.
+(3)

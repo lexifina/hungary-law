@@ -6,6 +6,6 @@
 
 (4) Az eljárás költségét az a fél viseli, akinek terhére a tanács az ügyet eldöntötte.
 
-(5) A határozatban megállapított kötelezettség teljesítésére – a határozat kézbesítését követő naptól számított – tizenöt napos határidőt kell szabni.
+(5) A határozatban megállapított kötelezettség teljesítésére – a határozat kézbesítését követő naptól számított – legalább tizenöt napos határidőt kell szabni.
 
 (6) A tanács határozatát, illetve ajánlását meghozatala napján hirdeti ki. A kihirdetett határozat, illetve ajánlás írásba foglalt egy-egy példányát legkésőbb tizenöt napon belül meg kell küldeni a feleknek.

@@ -1,6 +1,6 @@
 53. § (1) Az MNB a hatósági eljárásban hozott döntéseivel kapcsolatban a honlapján közzéteszi
 
-a) a határozat számát és tárgyát,
+a) a döntés számát és tárgyát,
 
 b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét, és
 
