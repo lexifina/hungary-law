@@ -20,6 +20,6 @@ d) a javadalmazási politika vizsgálata abból a szempontból, hogy a kialakít
 
 (7) A felügyeleti jogkörrel rendelkező vezető testület számára feladatai ellátása során hozzáférést kell biztosítani a befektetési vállalkozás kockázataira vonatkozó információkhoz, a kockázati ellenőrzés funkcióhoz és a külső szakértők véleményéhez.
 
-(8) A közérdeklődésre számot tartó befektetési vállalkozás a Ptk. 3:291. §-a szerinti audit bizottságot hoz létre és működtet.
+(8) Ha a tárgyévet megelőző üzleti évben a nem nyilvános részvénytársasági formában működő befektetési vállalkozás mérlegfőösszege meghaladja az ötszázmilliárd forintot, akkor a Ptk. 3:291. §-a szerinti audit bizottságot hoz létre és működtet.
 
-(9) Az (8) bekezdésben foglaltak nem alkalmazandóak, ha a közérdeklődésre számot tartó befektetési vállalkozás rendelkezik olyan testülettel, amely megfelel a Ptk. 3:291. § (2) és (4) bekezdésében meghatározott feltételeknek és a testület ellátja a Ptk. 3:291. § (1) bekezdésében foglaltakat. A közérdeklődésre számot tartó befektetési vállalkozás ebben az esetben saját honlapján nyilvánosságra hozza, hogy melyik testület látja el a Ptk. 3:291. § (1) bekezdésében foglaltakat és a testület összetételét.
+(9) A (8) bekezdésben foglaltak nem alkalmazandóak, ha a befektetési vállalkozás rendelkezik olyan testülettel, amely megfelel a Ptk. 3:291. § (2) és (4) bekezdésében meghatározott feltételeknek és a testület ellátja a Ptk. 3:291. § (1) bekezdésében foglaltakat. A befektetési vállalkozás ebben az esetben saját honlapján nyilvánosságra hozza, hogy melyik testület látja el a Ptk. 3:291. § (1) bekezdésében foglaltakat és a testület összetételét.

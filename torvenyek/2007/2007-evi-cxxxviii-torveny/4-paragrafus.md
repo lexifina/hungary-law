@@ -82,6 +82,8 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 33. jegyzési garanciavállalás: az értékpapír saját számlára történő lejegyzésére, illetve megvásárlására vonatkozó kötelezettségvállalás vagy a jegyzés vagy eladás meghiúsulásának elkerülése érdekében szerződésben vállalt mennyiségű értékpapír lejegyzésére, illetőleg megvásárlására vonatkozó kötelezettségvállalás,
 
+33a. jó üzleti hírnév: a befektetési vállalkozás vezető állású személyeinek, befolyásoló részesedéssel rendelkező tagjainak a befektetési vállalkozás irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte,
+
 34. kereskedési szándékkal tartott pozíció: a rövid távú újraértékesítés szándékával vagy a vételi és eladási árak közötti tényleges vagy várható különbözetből, valamint egyéb ár- vagy kamatlábváltozásokból származó rövid távú haszonszerzés szándékával tartott pozíció, amelybe beletartoznak mind a saját számlás, mind az ügyfelek által adott megbízások végrehajtásából és az árjegyzésből származó pozíciók,
 
 35. kiszervezés: olyan megállapodás egy befektetési vállalkozás és egy harmadik személy között, amelynek keretében e harmadik személy olyan tevékenységet végez, amelyet egyébként a befektetési vállalkozás maga végezne,
@@ -174,15 +176,17 @@ bb) székhely címe,
 
 bc) cégbírósági nyilvántartásban szereplő jogi személy esetén cégjegyzékszám, egyéb jogi személy esetén a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma,
 
-68. ügyfélcsoport: a Hpt.-ben meghatározott fogalom,
+68.
 
 69. ügyfélszámla: a Tpt.-ben meghatározott fogalom,
+
+69a. ügyvezető: a befektetési vállalkozással munkaviszonyban álló, a befektetési vállalkozás vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás irányításában résztvevő olyan további személy, akit a befektetési vállalkozás létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
 
 70. üzleti titok: a Ptk.-ban meghatározott fogalom,
 
 71. vezető állású személy:
 
-a) a vezető tisztségviselő, az igazgatótanács tagja és felügyelő bizottság tagja,
+a) a vezető tisztségviselő – ideértve az e törvény szerinti ügyvezetőt is – és a felügyelő bizottság tagja,
 
 b) a fióktelep vezetésére a külföldi vállalkozás által kinevezett személy és annak közvetlen helyettese, és
 
@@ -270,7 +274,7 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 
 99. vezető testület: a befektetési vállalkozás igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás vezető állású személyeit is,
 
-100. közérdeklődésre számot tartó befektetési vállalkozás: a nyilvános részvénytársasági formában működő befektetési vállalkozás és az a befektetési vállalkozás, amelynél a tárgyévet megelőző üzleti évben a mérlegfőösszeg meghaladta az ötszázmilliárd forintot,
+100. közérdeklődésre számot tartó befektetési vállalkozás: az e törvény hatálya alá tartozó befektetési vállalkozás, ide nem értve a 3. §-ban meghatározottakat,
 
 101. rendkívüli intézkedési terv: a befektetési vállalkozás által kidolgozott, a jogszabályoknak megfelelő működés biztosítása érdekében szükséges – határidőkhöz és felelősökhöz kötött – lépéseket tartalmazó terv,
 

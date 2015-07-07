@@ -14,9 +14,9 @@ f) biztosítsa, hogy a vállalkozás vezető állású személyei és alkalmazot
 
 g) biztosítsa a vállalkozás különböző szintjei közötti hatékony jelentéstételt és információáramlást.
 
-(2) Annak a befektetési vállalkozásnak amely összevont felügyelet alá tartozik, az e §-ban és a 100. §-ban foglaltaknak az ellenőrző befolyása alatt álló hitelintézettel és befektetési vállalkozással együttesen is meg kell felelnie.
+(2) Annak a befektetési vállalkozásnak, amely összevont alapú felügyelet alá tartozik, az e §-ban és a 100–102. §-ban foglaltaknak az ellenőrző befolyása alatt álló hitelintézettel és befektetési vállalkozással együttesen is meg kell felelnie.
 
-(3) A befektetési vállalkozás az általa végzett befektetési szolgáltatási tevékenységek, kiegészítő szolgáltatások és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos átfogó, hatékony és megbízható vállalatirányítási rendszerrel és a (4) bekezdés szerinti belső kontroll funkcióval rendelkezik, amelynek keretén belül
+(3) A befektetési vállalkozás az általa végzett befektetési szolgáltatási tevékenységekben, kiegészítő szolgáltatásokban és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos átfogó, hatékony és megbízható vállalatirányítási rendszerrel és a (4) bekezdés szerinti belső kontroll funkcióval rendelkezik, amelynek keretén belül
 
 a) a szervezeti felépítését belső szabályzatban áttekinthetően rögzíti,
 

@@ -1,4 +1,4 @@
-110/I. § (1) Ha a befektetési vállalkozás nem teljesíti az 110/A. §, 110/B. § vagy a 110/F. §-ban meghatározott követelményeket, akkor a befektetési vállalkozás korlátozza az elsődleges alapvető tőkéhez kapcsolódó kifizetéseit.
+110/I. § (1) Ha a befektetési vállalkozás nem teljesíti a 110/H. § (1) bekezdésben meghatározott kombinált pufferkövetelményt, akkor a befektetési vállalkozás korlátozza az elsődleges alapvető tőkéhez kapcsolódó kifizetéseit.
 
 (2) A befektetési vállalkozás akkor korlátozza a kifizetéseit, ha a kifizetés a befektetési vállalkozás
 

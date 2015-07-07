@@ -1,14 +1,16 @@
+## Helyreállítási terv
+
 102. § (1) Minden olyan befektetési vállalkozás,
 
 a) amelyre az összevont alapú felügyelet nem terjed ki, vagy
 
-b) amely a csoportszintű helyreállítási terv felülvizsgálata alapján erre külön kötelezett
+b) amely a csoportszintű helyreállítási terv felülvizsgálata alapján erre külön kötelezett,
 
-az általa végzett befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos helyreállítási tervvel rendelkezik.
+az általa végzett befektetési szolgáltatási tevékenységben, kiegészítő szolgáltatásban és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos helyreállítási tervvel rendelkezik.
 
 (2) A helyreállítási tervet a befektetési vállalkozás irányítási jogkörrel rendelkező vezető testülete által történő jóváhagyást követően benyújtja a Felügyeletnek.
 
-(3) A helyreállítási terv a befektetési vállalkozás esetleges fizetésképtelenné válásának – a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában legalább a következőket tartalmazza:
+(3) A helyreállítási terv a befektetési vállalkozás esetleges fizetésképtelenné válásának – a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában a következőket tartalmazza:
 
 a) a terv kulcsfontosságú elemeinek, az előző tervhez képest bekövetkezett lényeges változásainak, valamint a befektetési vállalkozás általános helyreállítási képességének összefoglalása,
 

@@ -12,7 +12,7 @@ b) a befektetési szolgáltatási tevékenységet végző, a kiegészítő szolg
 
 c) a pénzügyi eszközök, továbbá egyes értékpapírok körében a zálogjog érvényesítésének a kielégítési jog közvetlen gyakorlására, továbbá bírósági végrehajtáson kívüli értékesítésre vonatkozó eljárás részletes szabályait,
 
-d)
+d) a befektetési vállalkozás és az árutőzsdei szolgáltató informatikai rendszerét felülvizsgáló szakértővel szembeni követelményeket,
 
 e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályokat,
 
@@ -22,7 +22,13 @@ h) a javadalmazási politikának az érintett befektetési vállalkozás mérete
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire vonatkozó részletes szabályokat.
+(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
+
+a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire,
+
+b) a 22/B. § (1) bekezdés c) pontjában meghatározott hatósági képzésre, a hatósági képzés során szerzett tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
+
+vonatkozó részletes szabályokat.
 
 (3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke arra, hogy rendeletben állapítsa meg az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás és ügyfélpanaszok kezelésének formájára és módjára vonatkozó részletes szabályokat.
 

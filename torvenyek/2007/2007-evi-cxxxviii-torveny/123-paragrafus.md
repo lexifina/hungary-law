@@ -26,7 +26,9 @@ k) a befektetési vállalkozás szavatoló tőkéje tíz százalékát elérő v
 
 l) az e törvényben meghatározott közzétételi, nyilvánosságra hozatali kötelezettségek teljesítésére szolgáló közzétételi helyet, és
 
-m) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a befektetési vállalkozás felügyelete érdekében szükségesek.
+m) a befektetési vállalkozás anyavállalatának – ha az vegyes tevékenységű holding társaság, illetőleg vegyes pénzügyi holding társaság – azon adatait, amelyek a befektetési vállalkozás felügyelete érdekében szükségesek,
+
+n) a vele szoros kapcsolatban álló személyek körét.
 
 (2) A fióktelep az (1) bekezdésben foglaltakon kívül köteles a Felügyeletnek bejelenteni és ezzel egyidejűleg nyilvánosságra hozni
 
@@ -64,6 +66,6 @@ kell eleget tenni.
 
 (7) A Magyarország területén bejegyzett befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társasággá vagy vegyes pénzügyi holding társasággá válik, és ha ezen viszony módosul vagy megszűnik.
 
-(8) A befektetési vállalkozás évente legalább egyszer bejelenti és ismerteti a Felügyelet felé a kockázattal súlyozott kitettségérték és tőkekövetelmény számításai során az alkalmazott belső módszerek eredményét és az alkalmazott módszereket, amely eredményeket, adatokat és információkat a Felügyelet értékel és az értékelésből fakadó következtetésekről a befektetési vállalkozást tájékoztatja.
+(8) A működési kockázat kivételével az egyes kockázati típusok tőkekövetelmény számítására belső módszert alkalmazó befektetési vállalkozások évente legalább egyszer megküldik a Felügyelet számára a kialakított referenciaérték portfóliókra a belső módszerük által számított tőkekövetelmény eredményeket és a számításra alkalmazott módszerek magyarázatát. A referenciaérték portfólióra vonatkozó adatszolgáltatás módját, annak tartalmát, valamint a beérkezett információk értékelésének módszertanát az Európai Bizottság vonatkozó rendelete határozza meg. A Felügyelet a rendeletben foglaltakhoz képest további referenciaérték portfóliókat is meghatározhat.
 
-(9) Ha a Felügyelet a (4) bekezdés szerinti értékelés során a korábbi eredményekhez, értékekhez képest jelentős eltéréseket talál, akkor ezt részletesen értékeli és a módszertani engedélyezések során a tapasztalatait felhasználja annak érdekében, hogy a befektetési vállalkozás a tőkekövetelmény megállapítása során a befektetési vállalkozás tevékenységéhez, ügyfélköréhez és kitettségeinek szerkezetéhez legmegfelelőbb módszertant válassza.
+(9) Ha a Felügyelet azt állapítja meg, hogy a befektetési vállalkozás által a tőkekövetelmény számításra alkalmazott belső módszer indokolatlanul jelentősen alulbecsüli a tőkekövetelmény mértékét, akkor a Felügyelet kötelezheti a befektetési vállalkozást a belső módszer módszertanának vagy az egyes paramétereknek a megváltoztatására.

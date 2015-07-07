@@ -1,4 +1,4 @@
-24. § (1) A 22. § (1) és (4) bekezdése, valamint a 23. § alkalmazása szempontjából szakmai gyakorlatként vehető figyelembe
+24. § (1) A 22. § (1), (1a) és (4) bekezdése, valamint a 23. § alkalmazása szempontjából szakmai gyakorlatként vehető figyelembe
 
 a) befektetési vállalkozásnál,
 

@@ -12,7 +12,9 @@ b) a befektetési szolgáltatási tevékenységet, kiegészítő szolgáltatást
 
 c) a nyilatkozatot, amely szerint tevékenységét függő ügynökként kívánja folytatni, és
 
-d) a 116. §-ban foglaltak alátámasztását szolgáló okiratokat.
+d) a 116. §-ban foglaltak alátámasztását szolgáló okiratokat,
+
+e) a megbízóval kötött szerződés tervezetét.
 
 (5) A Felügyelet a (3) bekezdés szerinti nyilvántartásba vétel iránti kérelmet elutasítja, ha
 
@@ -28,4 +30,6 @@ a) a nyilvántartásba vételhez szükséges feltételek már nem állnak fenn,
 
 b) a tevékenységére vonatkozó szabályokat ismételten vagy súlyosan megszegi, vagy
 
-c) a nyilvántartásba vétel a Felügyelet megtévesztésével történt.
+c) a nyilvántartásba vétel a Felügyelet megtévesztésével történt,
+
+d) a befektetési vállalkozás és árutőzsdei szolgáltató a 123. § (1) bekezdés e) pontja alapján a közvetítővel kötött szerződés megszűnését bejelenti;

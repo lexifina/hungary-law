@@ -26,7 +26,7 @@ d) a kollektív befektetési értékpapír visszaváltása esetén a pénzügyi 
 
 (5) A befektetési vállalkozás a (4) bekezdésben meghatározottak szerint az ügyfél pénzeszközének kezelésére azzal az intézménnyel köt megállapodást, amely
 
-a) szakértelemmel és jó üzleti hírnévvel rendelkezik, és
+a) szakértelemmel és jó hírnévvel rendelkezik, és
 
 b) megfelel az 57. § (1)–(3) bekezdésében foglaltaknak.
 
