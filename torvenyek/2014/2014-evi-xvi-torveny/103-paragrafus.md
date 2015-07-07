@@ -8,6 +8,6 @@
 
 (3) A zárt végű befektetési jegyek nyilvános forgalomba hozatalára a Tpt. Második Részének rendelkezései irányadók.
 
-(4) A befektetési jegyek zárt körben történő forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a jegyzést legalább 7 nappal megelőzően a 3. melléklet II. Fejezet szerinti kezelési szabályzatot tegyen hozzáférhetővé lehetséges befektetői számára. A hozzáférhetővé tétel zártkörű befektetési alapok esetén a nyilvánosság kizárása mellett a befektetők részére való közlést jelenti.
+(4) A zártkörű befektetési alap befektetési jegyei forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a jegyzést legalább 7 nappal megelőzően a 3. melléklet II. Fejezet szerinti kezelési szabályzatot tegyen hozzáférhetővé lehetséges befektetői számára. A hozzáférhetővé tétel zártkörű befektetési alapok esetén a nyilvánosság kizárása mellett a befektetők részére való közlést jelenti.
 
 (5) Tilos a befektetési jegyek forgalomba hozatalához kapcsolódóan a befektetési jegyeket lejegyző befektetők közötti sorsolás, így a (2) és (4) bekezdés szerinti dokumentumokban és a befektetési alap kereskedelmi kommunikációjában erre vonatkozó információ közzététele.

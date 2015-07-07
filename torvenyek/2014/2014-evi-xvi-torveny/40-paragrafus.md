@@ -6,7 +6,7 @@ a) nem akadályozhatja a befektetési alapkezelő felett gyakorolt felügyelet h
 
 b) nem akadályozhatja a befektetési alapkezelőt abban, hogy a befektetők érdekében járjon el és a befektetési alapkezelési tevékenységet a befektetők érdekeinek megfelelően lássa el,
 
-c) nem eredményezhet változást az ügyfél és a befektetési alapkezelő közötti szerződéses viszonyban és nem befolyásolhatja a befektetési alapkezelő ügyfél felé fennálló, e törvényben foglalt kötelezettségeinek teljesítését,
+c) nem befolyásolhatja a befektetési alapkezelő e törvényben foglalt kötelezettségeinek teljesítését,
 
 d) nem érintheti a befektetési alapkezelő és a letétkezelő felelősségét, és
 

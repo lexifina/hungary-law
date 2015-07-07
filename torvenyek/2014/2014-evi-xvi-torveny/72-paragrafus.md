@@ -22,4 +22,6 @@ f) a befektetési alapkezelő vezető állású személye, a letétkezelő vezet
 
 g) a befektetési alap nyilvántartásba történő bejegyzését követően, a jegyzésre, jegyzési garanciavállalásra, alul- és túljegyzésre, valamint a jegyzéshez kapcsolódó allokációra vonatkozó rendelkezések tájékoztatóból, kezelési szabályzatból való törlését jelentik;
 
-h) olyan engedélyhez kötött változásokhoz kapcsolódik, amelyhez a Felügyelet az engedélyt korábban megadta.
+h) olyan engedélyhez kötött változásokhoz kapcsolódik, amelyhez a Felügyelet az engedélyt korábban megadta;
+
+i) a letétkezelő vagy a könyvvizsgáló személyében bekövetkezett változást jelenti.

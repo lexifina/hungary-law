@@ -6,7 +6,13 @@
 
 (2) Az (1) bekezdéstől eltérően a befektetési alapkezelő a zártkörű befektetési alapok kezelését a Felügyelet előzetes engedélye nélkül a befektetési jegy tulajdonosok 75%-ának jóváhagyó nyilatkozata birtokában átruházhatja.
 
-(3) A befektetési alapkezelő befektetési alapok kezelésével kapcsolatos kötelezettségei átruházására a Ptk. tartozásátvállalásra vonatkozó szabályait kell alkalmazni, azzal, hogy a befektetési alap Ptk. 6:203. § (1) bekezdése szerinti jognyilatkozatát a Felügyelet engedélye pótolja.
+(3) A befektetési alapkezelő befektetési alapok kezelésével kapcsolatos kötelezettségei átruházására a Ptk. tartozásátvállalásra vonatkozó szabályait kell alkalmazni, azzal, hogy a befektetési alap Ptk. 6:203. § (1) bekezdése szerinti jognyilatkozatát
+
+a) az (1) bekezdésben meghatározott esetben a Felügyelet engedélye,
+
+b) a (2) bekezdésben meghatározott esetben a befektetési jegy tulajdonosok 75%-ának jóváhagyó nyilatkozata
+
+pótolja.
 
 (4) A (3) bekezdés szerinti kötelezettségek átruházása során az átruházó befektetési alapkezelő az átruházásról rendelkező szerződés hatálybalépése előtt 15 nappal tájékoztatja a befektetőket
 

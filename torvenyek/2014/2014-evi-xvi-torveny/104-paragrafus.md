@@ -1,6 +1,6 @@
-104. § A nyilvános nyílt végű befektetési alap befektetési jegyeinek forgalomba hozatalát megelőzően hirdetményt kell közzétenni, amely tartalmazza
+104. § A nyilvános nyílt végű befektetési alap befektetési jegyeinek nyilvános forgalomba hozatalát megelőzően hirdetményt kell közzétenni, amely tartalmazza
 
-a) a tájékoztató közzétételét engedélyező felügyeleti határozat számát és időpontját,
+a) a tájékoztatót jóváhagyó felügyeleti határozat számát és időpontját,
 
 b) a forgalomba hozandó befektetési jegy és a kibocsátó befektetési alap megnevezését,
 

@@ -6,7 +6,7 @@
 
 (3) Befektetési alapok egyesülése, szétválása kezelésének átadása esetén a Felügyelet az egyesülés, szétválás, kezelésátadás jóváhagyásáról vagy a kérelem elutasításáról 20 munkanapon belül dönt.
 
-(4) A Felügyelet 20 munkanapon belül dönt arról, hogy jóváhagyja-e a gyűjtő-ÁÉKBV vagy gyűjtő-ABA részére a cél-ÁÉKBV-be vagy cél-ABA-ba történő befektetést.
+(4)
 
 (5) Engedélyezésre irányuló kérelem, illetve megszűnéssel kapcsolatos hatósági eljárás esetében a Felügyelet a kérelem beérkezésétől számított 10 munkanapon belül kérhet hiánypótlást, amennyiben a kérelem nem felel meg a jogszabályoknak, vagy a befektetőknek szóló információ egyértelműbbé tételét szükségesnek tartja.
 

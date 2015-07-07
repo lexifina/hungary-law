@@ -63,3 +63,5 @@ b) minden negyedév végén az ABAK által az adott időszakban kezelt ABA-k ré
 (10) Az ABAK az (5)–(8) bekezdésben foglalt előírásokat az ABAK-rendelet 110–111. cikkeiben előírt követelmények figyelembe vételével teljesíti.
 
 (11) A Felügyelet részére megküldendő jelentések adattartalmát és az adatszolgáltatás módját az MNB elnökének adatszolgáltatásra vonatkozó rendelete (a továbbiakban: adatszolgáltatásra vonatkozó MNB-rendelet) határozza meg.
+
+(12) Ha az ABAK-ban a minősített befolyásszerző részesedése a 10%-os mértéket eléri vagy a 20%-os, 33%-os vagy 50%-os mértéket meghaladja, a minősített befolyásszerzőnek a minősített befolyásszerzését a 21. § által előírt jó üzleti hírnév igazolásával és a 21. § (1) bekezdésre vonatkozó nyilatkozat megtételével egyidejűleg a szerződéskötést követő két munkanapon belül be kell jelentenie a Felügyeletnek.

@@ -10,13 +10,21 @@ c) legalább hároméves pénzügyi szakmai gyakorlattal és legalább háromév
 
 d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró okok és ÁÉKBV-alapkezelő esetén a 27. §-ban, ABAK esetében a 34. §-ban meghatározott összeférhetetlenségi okok nem állnak fenn.
 
-(3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága elnökének a (2) bekezdésben meghatározott feltételeken kívül az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját 30 nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
+(3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága tagjának, teljes tevékenységet irányító személyének, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének a (2) bekezdésben meghatározott feltételeken kívül az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját 30 nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
 
-(4) A vezető állású személy és a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha a vezető állású személlyel kapcsolatban az engedély megadását követően kizárási ok merül fel. A vezető állású személy megválasztásához vagy kinevezéséhez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
+(4) A befektetési alapkezelő ügyvezetője, igazgatósága, valamint felügyelőbizottsága tagja, teljes tevékenységet irányító személye, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személye valamint a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha az engedély megadását követően kizárási ok merül fel. A megválasztáshoz vagy kinevezéshez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
 
-(4a) Ha a vezető állású személy kinevezésére vagy megválasztására az engedély megszerzésétől számított három hónapon belül nem kerül sor, a vezető állású személy csak ismételt engedélyezést követően nevezhető ki vagy választható meg. Az ismételt engedélyezési eljárásra a (3) bekezdésben meghatározott szabályok alkalmazandók.
+(4a) Ha a befektetési alapkezelő ügyvezetője, igazgatósága, valamint felügyelőbizottsága tagja, teljes tevékenységet irányító személye, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személye kinevezésére vagy megválasztására az engedély megszerzésétől számított három hónapon belül nem kerül sor, úgy arra csak ismételt engedélyezést követően nevezhető ki vagy választható meg. Az ismételt engedélyezési eljárásra a (3) bekezdésben meghatározott szabályok alkalmazandók.
 
-(5) A befektetési alapkezelő teljes tevékenységét irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítvány, vagy a személyes joga szerinti ennek megfelelő okirat útján igazolja –, legalább ötéves szakmai gyakorlattal rendelkezik, amelyből legalább 2 év magyarországi szakmai gyakorlat, és nem áll a tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt.
+(5) A befektetési alapkezelő teljes tevékenységét irányító személy az lehet, aki
+
+a) a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítvány vagy a személyes joga szerinti ennek megfelelő okirat útján igazolja -,
+
+b) felsőfokú végzettséggel,
+
+c) legalább ötéves szakmai gyakorlattal rendelkezik, amelyből legalább 2 év magyarországi szakmai gyakorlat, és
+
+d) nem áll a tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt.
 
 (6) A befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítvány, vagy a személyes joga szerinti ennek megfelelő okirat útján igazolja –, legalább kétéves, befektetési területen szerzett szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
 
@@ -24,7 +32,7 @@ d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró oko
 
 (8) A (2) és (5)–(7) bekezdés esetében
 
-a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, hitelintézetnél, biztosítónál, önkéntes, kölcsönös biztosító pénztárnál, magánnyugdíjpénztárnál, foglalkoztatói nyugdíjszolgáltató intézménynél,
+a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, pénzügyi intézménynél, biztosítónál, önkéntes, kölcsönös biztosító pénztárnál, magánnyugdíjpénztárnál, foglalkoztatói nyugdíj szolgáltató intézménynél,
 
 b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, az elszámolóháznál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
 

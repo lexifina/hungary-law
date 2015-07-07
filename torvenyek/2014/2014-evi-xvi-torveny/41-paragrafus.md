@@ -1,6 +1,8 @@
 ## 22. A kiszervezés ABAK-ra vonatkozó szabályai
 
-41. § (1) Az ABAK tevékenységének hatékonyabb ellátása érdekében feladatának ellátására harmadik személyt vehet igénybe. Az ABAK a kiszervezés során e §-ban, valamint az ABAK-rendelet 75. cikkében foglalt általános elvek figyelembevételével jár el azzal, hogy a kiszervezésre vonatkozó megállapodás hatálybalépése előtt értesítenie kell a Felügyeletet.
+41. § (1) Az ABAK tevékenységének hatékonyabb ellátása érdekében feladatának ellátására harmadik személyt vehet igénybe.
+
+(1a) Az ABAK a kiszervezés során e §-ban, valamint az ABAK-rendelet 75. cikkében foglalt általános elvek figyelembevételével jár el azzal, hogy a kiszervezésre vonatkozó megállapodás hatálybalépése előtt értesítenie kell a Felügyeletet.
 
 (2) A kiszervezés esetén az alábbi feltételeknek kell teljesülnie:
 
@@ -49,3 +51,5 @@ a) a forgalmazó igénybevétele a kollektív befektetési értékpapírok forga
 b) a befektetési alapkezeléshez szorosan nem kapcsolódó tevékenységek, így különösen jogi tanácsadás, adószakértői, adótanácsadói tevékenység, kézbesítés, számítástechnikai rendszerfejlesztés, számítástechnikai üzemeltetés és karbantartás, az alkalmazottak képzése és továbbképzése, a számlázás, bérszámfejtés, könyvelés, az ABAK helyiségei és alkalmazottai biztonságának megteremtését célzó tevékenység harmadik személy igénybevételével történő végzése, továbbá
 
 c) az ABAK részére munkaviszony keretében végzett tevékenység.
+
+(12) A 2. § (2) bekezdés szerinti ABAK esetében az (1a) bekezdés, a (2) bekezdés, az (5) bekezdés, a (7) bekezdés b) és c) pontja, valamint a (8)–(10) bekezdés nem alkalmazandó.

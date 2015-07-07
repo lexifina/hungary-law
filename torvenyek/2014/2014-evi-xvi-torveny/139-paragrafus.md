@@ -8,7 +8,7 @@ b) a kezelési szabályzat olyan tartalmú módosítását, ami a befektetési s
 
 c) a kezelési szabályzat olyan tartalmú módosítását, ami a határozott futamidő csökkentését jelenti, legkésőbb 30 nappal a hatálybalépés előtt;
 
-d) a kezelési szabályzat olyan tartalmú módosítását, ami a befektetési jegyek visszaváltásával kapcsolatos költségek befektetőkre nézve hátrányos változását, valamint a befektetési jegyek visszaváltását érintő forgalmazási szabályoknak az elszámolási időtartam növekedésével járó változásait jelenti, a változás hatálybalépését megelőzően legalább 30 nappal;
+d) a kezelési szabályzat olyan tartalmú módosítását, ami a befektetési jegyek visszaváltásával kapcsolatos költségek befektetőkre nézve hátrányos változását, valamint a befektetési jegyek visszaváltását érintő forgalmazási szabályoknak az elszámolási vagy a teljesítési időtartam növekedésével járó változásait jelenti, a változás hatálybalépését megelőzően legalább 30 nappal;
 
 e) a kezelési szabályzat olyan tartalmú módosítását, ami a befektetési jegyek visszaváltási lehetőségének korlátozását jelenti – ide nem értve a forgalmazás szünetelésének vagy felfüggesztésének eseteit –, a változás hatálybalépését megelőzően olyan, legalább 30 napos határidővel, amely lehetőséget ad a befektetőknek arra, hogy a módosítás hatálybalépését megelőzően lehetőségük legyen a befektetési jegyeik visszaváltására;
 
@@ -30,7 +30,7 @@ m) hozamfizetés esetét kivéve az egy jegyre jutó nettó eszközértéknek az
 
 n) a közzétételi kötelezettségek teljesítésére igénybe vett közzétételi hely változását a változás hatálybalépését megelőzően legalább 10 nappal;
 
-o) a forgalmazási helyek felsorolásában bekövetkezett bármely változást, legkésőbb a változás napját megelőző munkanapon;
+o)
 
 p) a forgalmazókban bekövetkezett bármely változást legkésőbb a változás napját megelőző munkanapon, illetve amennyiben a felsorolás szűküléséről az alapkezelő utólag értesül, legkésőbb a változás napját követő 2 munkanapon belül;
 

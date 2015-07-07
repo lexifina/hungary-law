@@ -36,12 +36,12 @@ a) portfóliókezelés, ideértve a foglalkoztató nyugdíjszolgáltató intézm
 
 b) befektetési tanácsadás,
 
-c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése és az ezzel kapcsolatos adminisztratív szolgáltatások, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja,
+c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja, továbbá a kollektív befektetési értékpapírokkal kapcsolatos adminisztratív szolgáltatások,
 
 d) pénzügyi eszközzel kapcsolatos megbízás felvétele és továbbítása.
 
 (4) Az ABAK az (1) bekezdés a) és b) pontjában meghatározott mindkét tevékenység végzésére köteles. Az ABAK önmagában a (2) és (3) bekezdésben meghatározott tevékenységek végzésére, az (1) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (3) bekezdés b)–d) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (3) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. Az ABAK a (2) bekezdés b) pontjában meghatározott tevékenységet közvetítőként is végezheti.
 
-(5) A 2. § (2) bekezdés szerinti ABAK kivételével az ABAK az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi ABAK részére is végezheti. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
+(5) Az ABAK az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi ABAK részére is végezheti, azzal, hogy a 2. § (2) bekezdés szerinti ABAK határon átnyúló szolgáltatást nem végezhet. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
 
 (6) A (3) bekezdésben szereplő tevékenységek végzése esetén a Bszt. adott tevékenységre vonatkozó rendelkezéseit az adott tevékenységre megfelelően alkalmazni kell.
