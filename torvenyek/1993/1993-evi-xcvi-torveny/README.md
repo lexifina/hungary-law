@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-96-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1993-96-00-00.54 |
 | 2015-01-01 | 2014. évi CXI. törvény | 1993-96-00-00.55 |
 | 2015-07-01 | 2015. évi XLIII. törvény | 1993-96-00-00.56 |
+| 2015-07-07 | 2015. évi LXXXV. törvény | 1993-96-00-00.57 |
