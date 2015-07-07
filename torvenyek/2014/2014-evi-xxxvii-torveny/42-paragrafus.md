@@ -12,7 +12,9 @@ c) egyik lehetséges átvevő sem juthat tisztességtelen piaci előnyhöz az é
 
 d) az értékesítés során figyelembe kell venni a szanálási intézkedés gyors végrehajtásának szükségességét, és a szanálási célok megvalósulásának lehető legteljesebb biztosítását;
 
-e) az értékesítés során az intézményben lévő tagsági részesedés, illetve eszközök és források értékesítési árának maximalizálására kell törekedni, figyelembe véve a szanálási célokat is.
+e) az értékesítés során az intézményben lévő tagsági részesedés, illetve eszközök és források értékesítési árának maximalizálására kell törekedni, figyelembe véve a szanálási célokat is;
+
+f) nem állhat fenn összeférhetetlenség.
 
 (3) A szanálási feladatkörében eljáró MNB objektív szempontok alapján meghatározott lehetséges átvevőket kér fel.
 

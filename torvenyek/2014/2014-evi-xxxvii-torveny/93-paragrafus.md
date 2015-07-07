@@ -12,6 +12,8 @@ b) gazdasági társaság.
 
 (4) A (3) bekezdés b) pontja szerinti szanálási biztos kijelöli azt a természetes személyt, aki főfelelősként képviseli a gazdasági társaságot a szanálási biztosi teendők ellátása során.
 
+(4a) Ha a szanálási feladatkörében eljáró MNB természetes személyt rendel ki szanálási biztosként, akkor jogosult annak a Hpt. 2. melléklet szerinti azonosító adatait a kirendelés időtartama alatt kezelni a zavartalan feladatellátása céljából. A természetes személy szanálási biztos személyes adatai csak törvényben meghatározott esetben ismerhetők meg harmadik személy által.
+
 (5) A szanálási biztos – a szanálási feladatkörében eljáró MNB előzetes jóváhagyásával – közreműködőt vehet igénybe.
 
 (6) A szanálási biztos a szanálási feladatkörében eljáró MNB által utasítható, és tevékenysége során a szanálási célokat kell érvényre juttatnia.

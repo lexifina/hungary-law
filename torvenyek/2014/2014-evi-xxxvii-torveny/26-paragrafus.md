@@ -10,4 +10,6 @@ a) biztosítani azt, hogy az intézmény eszközeiben bekövetkezett esetleges v
 
 b) információt nyújtani az arra vonatkozó döntéshez, hogy sor kerüljön-e a hitelezők követeléseinek visszaírására vagy a kifizetett ellenérték értékének növelésére a (4) bekezdésnek megfelelően.
 
+(3a) A szanálási feladatkörében eljáró MNB határozatban hagyja jóvá a (3) bekezdésben meghatározott értékelést.
+
 (4) Ha az intézmény saját tőkéjének az utólagos, végleges értékelés szerinti becslése magasabb értéket eredményez, mint az intézmény saját tőkéjének az ideiglenes értékelés szerinti becslése, akkor a szanálási feladatkörében eljáró MNB határozatában kötelezi az áthidaló intézményt vagy a szanálási vagyonkezelőt, hogy fizessen további ellentételezést a szanálás alatt álló intézménynek az eszközökre, forrásokra, jogokra és kötelezettségekre vonatkozóan, illetve az intézményben lévő tagsági részesedések tulajdonosainak.

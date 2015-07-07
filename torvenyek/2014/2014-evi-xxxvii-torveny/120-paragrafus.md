@@ -17,3 +17,5 @@ b) illetékes minisztériumával, ha az információk olyan döntéssel vagy té
 a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat kizárólag az általa megjelölt célra használhatja fel és azt nem adhatja tovább.
 
 (3) A szanálási feladatkörében eljáró MNB a (2) bekezdés szerinti információcsere során nem adhat át harmadik országbeli szanálási hatóságtól kapott információkat, kivéve, ha az érintett harmadik országbeli szanálási hatóság hozzájárult az információ továbbításához.
+
+(4) A szanálási feladatkörében eljáró MNB – mint az Európai Központi Banknak a hitelintézetek prudenciális felügyeletére vonatkozó politikákkal kapcsolatos külön feladatokkal történő megbízásáról szóló 1024/2013/EU tanácsi rendelet alapján nem a mechanizmusban résztvevő tagállam illetékes hatósága – együttműködik az EKB-val az uniós jog szerinti felügyeleti feladatok ellátásában.

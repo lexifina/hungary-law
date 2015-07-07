@@ -1,6 +1,6 @@
 54. § (1) A szanálási feladatkörében eljáró MNB akkor alkalmazhatja az eszközelkülönítési eszközt, ha:
 
-a) az érintett eszközök piacán olyan helyzet áll fenn, amelyben az eszközök vagyonértékesítési eszköz útján történő értékesítése hátrányosan érinthetne egy vagy több pénzügyi piacot;
+a) az érintett eszközök piacán olyan helyzet áll fenn, amelyben az eszközök fizetésképtelenségi eljárás keretében történő értékesítése hátrányosan érinthetne egy vagy több pénzügyi piacot;
 
 b) az átruházás a szanálás alatt álló intézmény vagy áthidaló intézmény megfelelő működésének biztosításához szükséges; vagy
 

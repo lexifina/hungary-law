@@ -14,6 +14,6 @@ c) a legfőbb szerve, az ügyvezető és ellenőrző szerve előterjesztéseit, 
 
 d) a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit átadni, továbbá
 
-e) az előbbiekben fel nem sorolt egyéb kimutatást az MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani.
+e) az előbbiekben fel nem sorolt egyéb kimutatást – így különösen mindazon szerződések azonosító adataira vonatkozó teljes körű kimutatást, amelyben szerződő fél – a szanálási feladatkörében eljáró MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani.
 
 (5) A szanálási feladatkörében eljáró MNB hatósági eljárása során a Ket. írásbelinek minősülő elektronikus kapcsolattartásra vonatkozó szabályaitól eltérően is meghatározhatja az adatszolgáltatási kötelezettség teljesítésének módját.

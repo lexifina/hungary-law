@@ -10,4 +10,4 @@ b) kockázat alapú változó díjból
 
 (2) Az éves díj összegét az Alap tagja minden évben negyedéves részletekben, legkésőbb a tárgynegyedév tizenötödik napjáig köteles befizetni az Alap pénzforgalmi számlájára.
 
-(3) Az Alap tagja által a tevékenység engedélyezésének évére vonatkozóan fizetendő díjat az általános szabályoknak megfelelően megállapított éves díj háromszázhatvanötödének és az Alapban való adott évi tagság napjai számának szorzata határozza meg.
+(3)

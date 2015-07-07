@@ -78,6 +78,8 @@ bb) nem veszélyezteti a szanálási célok elérését.
 
 (15) A bíróságnak a határozat meghozatalától számított tizenöt napon belül gondoskodnia kell a határozat felek részére történő kézbesítéséről.
 
-(16) A bíróság ítélete ellen felülvizsgálati kérelem az ítélet közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására meghatározott határidőn belül a felülvizsgálati kérelemnek a bírósághoz meg kell érkeznie. A Kúria soron kívül jár el, a felülvizsgálati kérelmet 30 napon belül elbírálja, és határozatát e határidőn belül írásba foglalja.
+(16) A bíróság jogerős ítélete ellen felülvizsgálati kérelem az ítélet jogerőre emelkedésétől számított 15 napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására meghatározott határidőn belül a felülvizsgálati kérelemnek a bírósághoz meg kell érkeznie. A Kúria soron kívül jár el, a felülvizsgálati kérelmet 30 napon belül elbírálja, és határozatát e határidőn belül írásba foglalja.
 
 (17) A bíróság fellebbezéssel támadható végzése ellen benyújtott fellebbezési eljárásban a másodfokú bíróság az ügy iratainak megérkezését követő 15 napon belül soron kívül dönt. Nincs helye a Pp. 270. § (3) bekezdése alkalmazásának.
+
+(18) A bíróság fellebbezéssel támadható ítélete ellen benyújtott fellebbezési eljárásban a másodfokú bíróság az ügy iratainak megérkezését követő 45 napon belül, soron kívül dönt.

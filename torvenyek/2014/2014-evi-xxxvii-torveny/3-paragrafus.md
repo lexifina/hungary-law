@@ -144,7 +144,7 @@ f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vona
 
 55. szabályozott piac: a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 114. pontjában meghatározott piac;
 
-56. szanálás alatt álló intézmény: olyan intézmény, amelynek szanálását határozattal elrendelte a szanálási feladatkörében eljáró MNB vagy valamely más szanálási hatóság;
+56. szanálás alatt álló intézmény: olyan intézmény vagy 1. § (1) bekezdés b) vagy c) pontja szerinti szervezet, amelynek szanálását határozattal elrendelte a szanálási feladatkörében eljáró MNB vagy valamely más szanálási hatóság;
 
 57. szanálási hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított EGT-állambeli hatóság;
 

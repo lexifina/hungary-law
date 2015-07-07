@@ -1,6 +1,6 @@
 ## 75. Rendkívüli befizetés elrendelése
 
-141. § (1) Az Alap az általa a 133. § (2) bekezdése alapján felvett kölcsön és a 133. § (4) bekezdése alapján kibocsátott kötvény visszafizetése érdekében az intézmény számára egységes elvek szerint megállapított rendkívüli fizetési kötelezettséget írhat elő, amely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez.
+141. § (1) Az Alap az általa a 133. § (2) bekezdése alapján felvett kölcsön és a 133. § (4) bekezdése alapján kibocsátott kötvény visszafizetése érdekében az intézmény számára egységes elvek szerint megállapított rendkívüli fizetési kötelezettséget írhat elő, amely fizetési kötelezettség mértékének és ütemezésének igazodnia kell a kölcsöntörlesztési feltételekhez. A rendkívüli fizetési kötelezettség nem haladhatja meg az éves díjfizetési kötelesség összegének háromszorosát.
 
 (2) Ha a kölcsön igénybevételét szükségessé tevő eseményhez kapcsolódón az Alap bevételre tesz szert, azt elsősorban a fennálló kölcsöntartozás csökkentésére, ezt követően pedig az intézményeket terhelő rendkívüli fizetési kötelezettség mérséklésére, illetve visszafizetésére kell fordítani.
 

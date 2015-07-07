@@ -14,7 +14,7 @@ b) szanálhatóság akadályainak megszüntetésére irányuló eljárást,
 
 c) szanálás lefolytatására irányuló eljárást,
 
-d) szanálási vagyonértékelő kirendelésére irányuló eljárást,
+d) szanálási vagyonértékelés lefolytatására irányuló eljárást,
 
 e) tőkeelemek leírására vagy átalakítására irányuló eljárást
 
@@ -24,6 +24,10 @@ folytat le.
 
 a) akire nézve az MNB az e törvényben meghatározottak szerint jogot vagy kötelezettséget állapít meg,
 
-b) akit a szanálási feladatkörében eljáró MNB – a szanálhatósági vizsgálat során – ellenőrzés alá von.
+b) akit a szanálási feladatkörében eljáró MNB – a szanálhatósági vizsgálat során – ellenőrzés alá von,
+
+c) aki engedélyezés iránt a szanálási feladatkörében eljáró MNB-hez kérelmet nyújt be, vagy
+
+d) akire nézve a szanálási feladatkörében eljáró MNB által vezetett közhiteles hatósági nyilvántartás adatot tartalmaz.
 
 (4) A (2) bekezdésben meghatározott eljárás felfüggesztését az ügyfél nem kérheti.

@@ -28,7 +28,7 @@ be) minden közvetlen vagy közvetett részesedéssel rendelkező tagjának (ré
 
 bf) annak a jogi személynek a nevét, székhelyét, nyilvántartási számát, amelyben a független értékelő közvetlen vagy közvetett részesedéssel rendelkezik.
 
-(3) A (2) bekezdés szerinti nyilvántartás a független értékelő természetes személy, jogi személy vagy a nyilvántartási szám és annak kelte, valamint a független értékelői tevékenység végzésére való jogosultság tekintetében közhiteles nyilvántartásnak minősül.
+(3) A (2) bekezdés szerinti nyilvántartás a független értékelő nyilvántartási száma, a nyilvántartásba-vétel időpontja, valamint a független értékelői tevékenység végzésére való jogosultság tekintetében közhiteles nyilvántartásnak minősül.
 
 (4) A szanálási feladatkörében eljáró MNB a független értékelőkre vonatkozóan legalább félévente egyszer nyilvános pályázatot hirdet. A beérkezett pályázatokat a szanálási feladatkörében eljáró MNB által felkért, legalább három, de legfeljebb hét tagból álló bíráló bizottság bírálja el. A bíráló bizottság döntése ellen fellebbezésnek nincs helye, a pályázó a döntés bírósági felülvizsgálatát a Fővárosi Törvényszéktől kérheti. Ha a pályázó a jogszabályi feltételeknek megfelel, akkor a szanálási feladatkörében eljáró MNB a névjegyzékbe felveszi.
 
@@ -42,7 +42,9 @@ b) a független értékelő már nem felel meg az e törvényben és az e törv�
 
 c) azt a független értékelő írásban kéri,
 
-d) a független értékelőként nyilvántartásba vett személy meghalt vagy a szervezet megszűnt.
+d) a független értékelőként nyilvántartásba vett személy meghalt vagy a szervezet megszűnt,
+
+e) a független értékelőként nyilvántartásba vett személy vagy szervezet gazdasági vagy szakmai tevékenységével kapcsolatban olyan magatartásról szerez tudomást, amely jogszabályba, szakmai vagy etikai szabályba ütközik, vagy amely alkalmas arra, hogy a független értékelői feladatok ellátásához szükséges közbizalmat sértse vagy veszélyeztesse.
 
 (7) A független értékelők névjegyzékébe az a természetes személy vehető fel, aki rendelkezik
 
@@ -54,9 +56,11 @@ c) könyvvizsgálói szakképesítéssel és ennek pénzügyi intézményi vagy 
 
 d) a büntetlen előéletről, a köztartozás-mentességről igazolással.
 
+(7a) Nem vehető fel a független értékelők névjegyzékébe olyan személy vagy szervezet, akinek vagy amelynek gazdasági vagy szakmai tevékenységével kapcsolatban a szanálási feladatkörében eljáró MNB olyan magatartásról szerez tudomást, amely jogszabályba, szakmai vagy etikai szabályba ütközik, vagy amely alkalmas arra, hogy a független értékelői feladatok ellátásához szükséges közbizalmat sértse vagy veszélyeztesse, továbbá, ha a szanálási feladatkörében eljáró MNB a független értékelőként nyilvántartásba vett személyt vagy szervezetet a (6) bekezdés e) pontja szerint törölte a névjegyzékből, a törlés napjától számított öt évig.
+
 (8) A független értékelők névjegyzékébe az a jogi személy vehető fel, amelyik legalább egy olyan munkavállalót foglalkoztat, aki megfelel a (7) bekezdés szerinti követelményeknek, valamint nem áll jogutód nélküli megszüntetését eredményező eljárás alatt.
 
-(9) A független értékelő egy adott feladatra való pályázása, illetve megbízása esetén nyilatkozik arról, hogy független az intézménytől, a szanálási feladatkörében eljáró MNB-től és a Felügyelettől. Akkor minősül függetlennek a független értékelő, ha az üzleti évben vagy az azt megelőző 5 üzleti év egyikében sem haladta meg az éves bruttó árbevételének 1 százalékát a szanálás alá vont intézménytől vagy az MNB-től kapott bevétele.
+(9) A független értékelő egy adott feladatra való pályázása, illetve megbízása esetén nyilatkozik arról, hogy független az intézménytől, a szanálási feladatkörében eljáró MNB-től és a Felügyelettől. Akkor minősül függetlennek a független értékelő, ha az üzleti évben vagy az azt megelőző 3 üzleti év egyikében sem haladta meg az éves bruttó árbevételének 5 százalékát a szanálás alá vont intézménytől vagy az MNB-től kapott bevétele.
 
 (10) A szanálási feladatkörében eljáró MNB kidolgozza a független értékelő
 

@@ -4,6 +4,8 @@
 
 (2) A reorganizációs terv készítésére és az abban foglaltak megvalósítására a szanálási feladatkörében eljáró MNB kijelölhet egy vagy több természetes személyt, gazdasági társaságot vagy a szanálási biztost. A reorganizációs terv készítőjére is a szanálási biztosra vonatkozó szakmai és összeférhetetlenségi követelményeket kell alkalmazni.
 
+(2a) Ha a szanálási feladatkörében eljáró MNB a reorganizációs terv készítésére természetes személyt jelöl ki, akkor jogosult annak a Hpt. 2. melléklet szerinti azonosító adatait a kijelölés időtartama alatt kezelni a zavartalan feladatellátása céljából. A reorganizációs terv elkészítésére kijelölt természetes személy személyes adatai csak törvényben meghatározott esetben ismerhetők meg harmadik személy által.
+
 (3) Az Európai Unió működéséről szóló szerződés 107–109. cikk szerinti állami támogatások keretrendszerének alkalmazása esetén a reorganizációs tervnek illeszkednie kell az állami támogatások uniós keretrendszeréhez, és a reorganizációs tervet az Európai Bizottság részére meg kell küldeni. A reorganizációs terv elkészítésének határidejét a szanálási feladatkörében eljáró MNB úgy határozza meg, hogy
 
 a) az (1) bekezdéstől eltérően 90 nap, vagy

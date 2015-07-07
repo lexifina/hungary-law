@@ -1,4 +1,4 @@
-114. § (1) A szanálási feladatkörében eljáró MNB a szanálási intézkedésről a szanálási intézkedés meghozatalát követően haladéktalanul értesíti a 113. §-ban meghatározott szervezeteket és személyeket.
+114. § (1) A szanálási feladatkörében eljáró MNB a szanálási intézkedésről a szanálási intézkedés meghozatalát követően haladéktalanul értesíti a 113. §-ban meghatározott szervezeteket és személyeket, valamint az Európai Bizottságot, az Európai Központi Bankot, az EBH-t, az Európai Értékpapír-piaci Hatóságot és az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot.
 
 (2) Az (1) bekezdés szerinti értesítés tartalmazza legalább
 

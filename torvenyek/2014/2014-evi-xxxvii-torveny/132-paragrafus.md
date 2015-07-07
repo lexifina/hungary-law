@@ -12,7 +12,7 @@ c) az OBA ügyvezető igazgatója.
 
 (2) Az igazgatótanácsban az elnöki jogokat a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által kijelölt személy gyakorolja.
 
-(3) A Beva ügyvezető igazgatója meghívottként, tanácskozási joggal részt vesz az igazgatótanácsi üléseken.
+(3) Az OBA ügyvezető igazgató-helyettese meghívottként, tanácskozási joggal részt vesz az igazgatótanácsi üléseken.
 
 (4) Az Alap igazgatótanácsa döntéseiről nyilvántartást vezet.
 

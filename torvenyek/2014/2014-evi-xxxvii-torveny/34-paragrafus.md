@@ -10,7 +10,7 @@ d) hitelezői feltőkésítés.
 
 (2) A szanálási eszközök egyenként vagy együttesen is alkalmazhatóak azzal, hogy az eszközelkülönítés eszköz csak egy másik szanálási eszközzel együtt alkalmazható.
 
-(3) Ha az (1) bekezdés a) vagy b) pontja szerinti szanálási eszközt csak a szanálás alatt álló intézmény eszközei, forrásai, jogai vagy kötelezettségei egy részének átruházására használják fel, akkor a szanálási feladatkörében eljáró MNB kezdeményezi a Felügyeletnél az intézmény a tevékenységi engedélyének visszavonását.
+(3) Ha az (1) bekezdés a) vagy b) pontja szerinti szanálási eszközt csak a szanálás alatt álló intézmény eszközei, forrásai, jogai vagy kötelezettségei egy részének átruházására használják fel, akkor a szanálási feladatkörében eljáró MNB kezdeményezi a Felügyeletnél azon szanálás alatt álló intézmény tevékenységi engedélyének visszavonását, amely vonatkozásában az eszközei, forrásai, jogai vagy kötelezettségei egy részének átruházására került sor.
 
 (4) A (3) bekezdésben meghatározott tevékenységi engedély visszavonása miatti eljárás befejezésére addig nem kerülhet sor, amíg
 

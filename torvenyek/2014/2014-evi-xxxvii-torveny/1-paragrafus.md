@@ -12,7 +12,7 @@ a) a magyarországi székhelyű hitelintézetre és befektetési vállalkozásra
 
 b) a magyarországi székhelyű pénzügyi holding társaságra, vegyes pénzügyi holding társaságra, vegyes tevékenységű holding társaságra,
 
-c) az olyan magyarországi székhelyű pénzügyi vállalkozásra, amelyre az összevont alapú felügyelet kiterjed, valamint
+c) az olyan magyarországi székhelyű pénzügyi vállalkozásra, amelyre az összevont alapú felügyelet kiterjed, amennyiben intézmény vagy b) pont szerinti vállalat leányvállalata, valamint
 
 d) a harmadik országban székhellyel rendelkező intézmény magyarországi fióktelepére.
 

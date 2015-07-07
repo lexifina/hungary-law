@@ -12,7 +12,9 @@ e) új vagy meglévő üzletágak fejlesztésének, illetve új vagy meglévő t
 
 f) az intézmény, illetve a közvetlenül vagy közvetve az ellenőrző befolyása alatt álló, csoporthoz tartozó bármely vállalkozás jogi vagy működési struktúráinak összetettségét csökkentő változtatásokat annak érdekében, hogy a kritikus funkciók a szanálási eszközök alkalmazása révén jogi és működési szempontból elkülöníthetők legyenek más funkcióktól; vagy
 
-g) pénzügyi holding társaság létrehozását.
+g) pénzügyi holding társaság létrehozását;
+
+h) a szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó minimumkövetelményeknek való megfelelés érdekében szükséges lépések megtételét, különösen annak érdekében, hogy megkísérelje újratárgyalni az általa kibocsátott, leírható vagy átalakítható kötelezettségeket, kiegészítő alapvető tőkeinstrumentumokat vagy járulékos tőkeinstrumentumokat annak biztosítása érdekében, hogy amennyiben a szanálási feladatkörében eljáró MNB az érintett kötelezettség vagy eszköz leírása mellett dönt, ezt a döntést a kötelezettségre vagy eszközre vonatkozó joghatóság joga alapján lehessen érvényesíteni.
 
 (2) Az (1) bekezdés b), d) és e) pontja tekintetében a szanálási feladatkörében eljáró MNB döntéséhez a Felügyelet jóváhagyása is szükséges.
 

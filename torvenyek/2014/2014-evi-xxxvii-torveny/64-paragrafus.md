@@ -1,4 +1,4 @@
-64. § (1) A szanálási feladatkörében eljáró MNB a 62. §-ban meghatározott szavatoló tőkére, és hitelezői feltőkésítésbe bevonható kötelezettségre vonatkozó minimumkövetelményt a Felügyelettel egyeztetve a következő feltételek figyelembevételével határozza meg:
+64. § (1) A szanálási feladatkörében eljáró MNB a 62. §-ban meghatározott szavatoló tőkére, és hitelezői feltőkésítésbe bevonható kötelezettségre vonatkozó minimumkövetelményt a Felügyelettel egyeztetve a következő szempontok figyelembe vételével egyedileg, határozatban határozza meg:
 
 a) lehetővé kell tennie az intézmény szanálhatóságát, azaz a szanálási céloknak a szanálási eszközök – ideértve a hitelezői feltőkésítést is – megfelelő alkalmazása által,
 
