@@ -1,1 +1,3 @@
-19. §
+19. § A Tpt. 222. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az Alap igazgatósága rendkívüli befizetést rendel el, ha az Alap eszközei az esedékes vagy az előre látható kártalanítási kötelezettség teljesítését nem fedezik. Rendkívüli befizetés akkor is elrendelhető, ha az Alap az esedékes hiteltörlesztést, illetve annak kamatait, továbbá az általa kibocsátott kötvény visszaváltását nem képes határidőben teljesíteni. A rendkívüli befizetési kötelezettséget az igazgatóság által meghatározott módon és időben kell teljesíteni. A rendkívüli befizetés alapja megegyezik az éves díj alapjával, de az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj mértékét.”

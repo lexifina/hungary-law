@@ -1,0 +1,3 @@
+136. § Az MNBtv. 58. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha az irat kézbesítési tárhelyen történt elhelyezését követően a címzett az iratot nyolc napon belül nem veszi át, az iratot a kézbesítési tárhelyen történt elhelyezését követő kilencedik napon kézbesítettnek kell tekinteni. Amennyiben a kézbesítési helyen elhelyezett irat a Tpt. 32. §-a szerinti tájékoztató, alaptájékoztató kiegészítésére, illetve a forgalomba hozatali eljárás felfüggesztésére vonatkozik, úgy azt, az elhelyezést követő munkanapon kézbesítettnek kell tekinteni. A kézbesítés megtörténtéről és a kézbesítési vélelem beállásáról az MNB automatikusan létrehozott elektronikus visszaigazolásban (elektronikus tértivevény) értesül.”

@@ -1,0 +1,3 @@
+215. § A Hpt. 177. § (12) bekezdése helyébe a következő rendelkezés lép:
+
+„(12) Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a hitelintézet az (5) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint húsz százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva a kamatláb hirtelen és nem várt, 200 bázispontos vagy az EBH által meghatározott egyéb változás eredményeként, akkor a Felügyelet a 185–186. §-okban foglalt intézkedést alkalmaz.”

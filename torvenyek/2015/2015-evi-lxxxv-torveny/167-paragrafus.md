@@ -1,0 +1,7 @@
+167. § Az MNBtv. 108. § (2)–(4) bekezdései helyébe a következő rendelkezések lépnek:
+
+„(2) Az értesítésben a 39. §-ban meghatározott törvények hatálya alá tartozó személyt vagy szervezetet fel kell szólítani, hogy az értesítés részére történt kézbesítésétől számított tizenöt napon belül írásban nyilatkozzék (válaszirat) a fogyasztó igényének jogosságáról, az ügy körülményeiről, a fogyasztói panasz elbírálásának sikertelenségéről, vagy méltányossági eljárás esetén a méltányosság mellőzésének okairól, továbbá a tanács döntésének kötelezésként történő elfogadását (alávetés) illetően, nyilatkozatában jelölje meg az állításait alátámasztó tényeket és bizonyítékokat, illetve csatolja azokat az okiratokat (ezek másolatát), amelyek tartalmára bizonyítékként hivatkozik. Figyelmeztetni kell a szolgáltatót, hogy az ügy érdemére vonatkozó nyilatkozattételének elmaradása esetén a Pénzügyi Békéltető Testület a rendelkezésére álló adatok alapján határoz.
+
+(3) A 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet válasziratának másolatát a Pénzügyi Békéltető Testület a kérelmezőnek haladéktalanul megküldi, ha pedig erre már nincs elegendő idő, azt a meghallgatáson adja át.
+
+(4) Ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet válasziratát nem terjeszti elő, a Pénzügyi Békéltető Testület köteles az eljárást folytatni, anélkül, hogy a mulasztást a kérelmező állításai elismerésének tekintené.”
