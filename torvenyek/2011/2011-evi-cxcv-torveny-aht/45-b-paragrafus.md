@@ -18,6 +18,6 @@ c) a vezető tisztség betöltését kizáró foglalkozástól eltiltás hatály
 
 (7) Az igazgatóság és a felügyelő bizottság tagja, a vezérigazgató pártban tisztséget nem viselhet, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathat.
 
-(8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a kormányzati tevékenység összehangolásáért felelős miniszternek is.
+(8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a gazdaságpolitikáért felelős miniszternek is.
 
 (9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Polgári Törvénykönyv többek közös károkozására vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
