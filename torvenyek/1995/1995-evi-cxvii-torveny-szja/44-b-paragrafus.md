@@ -34,6 +34,8 @@ c) a nyugdíj értékpapírszámlán lévő értékpapírt átalakítás vagy a 
 
 helyezi át.
 
+(6a) Az adóhatóság a magánszemély kérelmére az általa megjelölt lakcímre vagy bankszámlára utalja ki az (1) bekezdés szerinti összeget, ha a számlavezető felszámolása miatt annak nyugdíj-előtakarékossági számlára történő utalása nem lehetséges.
+
 (7) A (6) bekezdés alkalmazása során
 
 a) a bekezdés a) pontja szerinti áthelyezés feltétele, hogy a megszüntetett számla vezetője a nyilvántartása alapján jogcím szerinti bontásban igazolja a másik számlavezető számára

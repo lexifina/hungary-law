@@ -94,6 +94,8 @@ alapján illeti meg.
 
 (1c) A 9. § (3a) bekezdésében említett esetet kivéve nem szerez bevételt a biztosított magánszemély, ha a más személy által kötött biztosítási jogviszonyba a szerződő helyébe lép, és a szerződő által korábban megfizetett biztosítási díjat a szerződőnek nem téríti meg.
 
+(1d) A magánszemély részére nem eredményez adókötelezettséget – bármely adóévre vonatkozóan –, ha a magánszemély pénzügyi intézménnyel szemben fennálló követelését eredményező jogviszonya a pénzügyi intézmény felszámolása miatt szűnik meg, ideértve az adó feletti rendelkezés esetére meghatározott visszafizetési kötelezettséget is. A pénzügyi intézmény felszámolásával összefüggésben kárrendezés címén a magánszemélyt megillető összeg után adókötelezettség megállapításának nincs helye.
+
 (2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy vagy egyébként ellenőrzött külföldi társaság részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely
 
 a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban,
