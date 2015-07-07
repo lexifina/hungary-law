@@ -12,6 +12,8 @@ c) az MNB elnöke által kijelölt két személy, akik közül az egyik az MNBtv
 
 d) az Alap ügyvezető igazgatója.
 
+(2a) Az igazgatóság tagja – az igazgatóság jóváhagyásával – írásban állandó helyettest nevezhet ki, aki a tag távollétében teljes döntési joggal vesz részt az igazgatóság ülésein.
+
 (3) A kijelölés három évre szól.
 
 (4) Ha egy megüresedett hely betöltésére több szervezetet is megillet a kijelölés joga és a szervezetek nem tudnak megállapodni az igazgatósági tag személyéről, a betöltendő hely megüresedésekor kijelölésre jogosult szervezetek egy-egy jelöltje közül sorsolással kell kiválasztani az igazgatóság új tagját.
@@ -28,7 +30,7 @@ c) a tag halálával; vagy
 
 d) az ügyvezető igazgató kivételével lemondással.
 
-(7) Az igazgatóság a tagjai közül kétévente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
+(7) Az igazgatóság a tagjai közül évente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 

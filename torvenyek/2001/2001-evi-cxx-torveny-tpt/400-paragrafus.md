@@ -16,7 +16,7 @@ g) a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársas
 
 h) a tőzsdei tevékenység folytatását részben vagy egészben meghatározott időre felfüggesztheti;
 
-i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kereskedést, illetve a teljes tőzsdei kereskedést, valamint előírhatja valamely tőzsdei termék kereskedésből történő kivezetését;
+i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kereskedést, illetve a teljes tőzsdei kereskedést, valamint előírhatja valamely tőzsdei termék terméklistáról történő törlését;
 
 j) a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, a központi értéktár tevékenységi engedélyét visszavonhatja;
 
@@ -60,7 +60,7 @@ s) a tőzsde jogszabályba ütköző tevékenységét megtiltja, a tőzsdét új
 
 t) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja és határidő kitűzésével kötelezi a kibocsátót, valamint a forgalmazót a forgalomba hozatali folyamat leállítására;
 
-u) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 40. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza,
+u) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 34. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza,
 
 v) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 4. és 9-11. cikkében előírt kötelezettség megsértése esetén a kötelezettségének teljesítését elmulasztó személyt vagy szervezetet figyelmezteti, illetve – ha szükséges – a kötelezettségének való megfelelésre felszólítja.
 
@@ -84,7 +84,7 @@ e) az értékpapír-számlán nyilvántartott dematerializált értékpapír ös
 
 (6) A Felügyelet (4) bekezdés szerinti intézkedése az intézkedést megelőzően megkötött tőzsdei ügyletek elszámolását nem érinti.
 
-(7) A Felügyelet a tevékenység kiszervezését megtilthatja, ha nem felel meg a Bszt. kiszervezésre vonatkozó előírásainak.
+(7) A Felügyelet a tevékenység kiszervezését megtilthatja, ha nem felel meg az e törvény kiszervezésre vonatkozó előírásainak.
 
 (8) A Felügyelet az (1) bekezdés r) pont 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, az elszámolóházi tevékenységet végző szervezet, a központi szerződő fél, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
 

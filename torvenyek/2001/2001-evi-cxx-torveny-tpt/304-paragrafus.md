@@ -2,7 +2,7 @@
 
 a)
 
-b) a végezni kívánt tőzsdei tevékenység részletes bemutatását, különösen a tőzsdei termékek felsorolását, az ügylettípusokat, a kereskedési technikákat, az elszámolási technikát, módszereket, az adatrögzítési, adatmentési, adatvédelmi megoldásokat;
+b) a végezni kívánt tőzsdei tevékenység részletes bemutatását, különösen a tőzsdei termékek felsorolását, az ügylettípusokat, a kereskedési technikákat, az módszereket, az adatrögzítési, adatmentési, adatvédelmi megoldásokat;
 
 c) a 303. § (2) bekezdés b) és c) pontjai elbírálhatósága érdekében rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök részletes leírását, számítógépes kereskedési rendszer esetén a próbafuttatások eredményeit, melyből megállapítható, hogy a kérelmező
 

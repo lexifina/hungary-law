@@ -34,7 +34,7 @@ o) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégne
 
 p) a forgalomba hozatal adatai;
 
-q) a bennfentes személyek természetes személyazonosító adatai, lakcíme;
+q) a bennfentes személyek neve (cégneve), természetes személyazonosító adatai, lakcíme (székhelye);
 
 r) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
 

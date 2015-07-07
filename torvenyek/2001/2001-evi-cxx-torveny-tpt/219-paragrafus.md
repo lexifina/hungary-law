@@ -4,4 +4,4 @@
 
 (3) Az Alap az e törvényben rögzített feltételek szerint akkor is fizet kártalanítást, ha a befektető részére kártalanítás a (2) bekezdésben írtak szerint nem állapítható meg, viszont követelését jogerős bírósági határozattal igazolja. Ebben az esetben a befektető a határozat jogerőre emelkedését követő kilencven napon belül terjesztheti elő igényét, amelyhez mellékelnie kell a követelést megalapozó határozatot.
 
-(4) Amennyiben az Alap csak hitelfelvétel útján képes biztosítani a kártalanítási kötelezettség fenti határidők szerinti teljesítését, a Kormány a kártalanítási fedezet biztosítása érdekében a hitelfelvételhez – az Áht. 92. §-ára tekintettel – készfizető kezességet vállal.
+(4)

@@ -302,9 +302,9 @@ e) szerepel az Európai Bizottság honlapján közzétett, a szabályozott piaco
 
 128. ügyfél: az a személy, aki e törvény hatálya alá tartozó szolgáltatást vesz igénybe,
 
-129. ügyfélcsoport: a Hpt.-ben meghatározott fogalom,
+129.
 
-130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, befektetési vállalkozás, hitelintézet, árutőzsdei szolgáltató, befektetési alapkezelő által vezetett számla,
+130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, korlátozott rendeltetésű számla, amely kizárólag a számlavezető által nyújtott befektetési szolgáltatás, kiegészítő szolgáltatás, illetve árutőzsdei szolgáltatás során igénybe vett szolgáltatásokhoz kapcsolódó tranzakciók lebonyolítására szolgál,
 
 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 

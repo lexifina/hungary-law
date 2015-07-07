@@ -20,7 +20,7 @@ i) a Hpt.-ben meghatározott pénzügyi intézmény,
 
 j) az MNB,
 
-k) az Alap tagjánál vezető állású személy, az Alap tagjával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy és ezek közeli hozzátartozója, továbbá
+k) az Alap tagjánál vezető állású személy és ezek közeli hozzátartozója, továbbá
 
 l) az Alap tagjában öt százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett tulajdoni részesedéssel vagy szavazati joggal rendelkező vállalkozás vagy természetes személy és ennek ellenőrzött társasága, valamint természetes személy tulajdonos esetén ennek közeli hozzátartozója
 

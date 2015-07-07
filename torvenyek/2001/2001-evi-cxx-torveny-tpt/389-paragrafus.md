@@ -2,6 +2,6 @@
 
 (3) Tájékoztató, illetőleg alaptájékoztató és hirdetmény közzétételének engedélyezésére irányuló eljárás esetén a Felügyelet eljárásának időtartama tíz munkanap. Ha a kibocsátó első alkalommal hoz értékpapírt nyilvánosan forgalomba, a Felügyelet eljárásának időtartama húsz munkanap. Tájékoztató, illetőleg alaptájékoztató és hirdetmény közzétételének engedélyezésére irányuló kérelem esetében a Felügyelet tíz munkanapon belül kérhet hiánypótlást. A határidő meghosszabbításának a tájékoztató és a hirdetmény közzétételének engedélyezésére irányuló eljárásban nincs helye.
 
-(4) A 245. § (5) bekezdése szerinti alapsorozatba tartozó alapok első alapja esetében a tájékoztató, a kezelési szabályzat és a rövidített tájékoztató jóváhagyására, valamint a közzétételének engedélyezésére irányuló felügyeleti eljárás időtartama húsz munkanap, az alapsorozat azt követő, többi alapja esetében tíz munkanap. A tájékoztató, a kezelési szabályzat és a rövidített tájékoztató jóváhagyására, valamint közzétételének engedélyezésére irányuló kérelem esetében a Felügyelet tíz munkanapon belül kérhet hiánypótlást. A határidő meghosszabbításának a tájékoztató, a kezelési szabályzat és a rövidített tájékoztató jóváhagyására, valamint közzétételének engedélyezésére irányuló eljárásban nincs helye.
+(4)
 
 (5) A tulajdonosi jogok gyakorlásának korlátozására vonatkozó határozatot a Felügyelet nyolc napon belül a Cégközlönyben közzéteszi.

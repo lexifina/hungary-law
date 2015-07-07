@@ -32,7 +32,7 @@ e) a bennfentes kereskedelemre, piacbefolyásolásra utaló ügyletek vizsgálat
 
 (7) A bejelentésre kötelezett személy köteles gondoskodni arról, hogy alkalmazottai a bennfentes kereskedelemre és a piacbefolyásolásra vonatkozó jogszabályi rendelkezéseket megismerjék, a bennfentes kereskedelmet és a piacbefolyásolást lehetővé tevő, illetőleg megvalósító üzleti kapcsolatokat, ügyleti megbízásokat megtanulják felismerni, és a bennfentes kereskedelem és a piacbefolyásolás gyanújára okot adó esetekben megfelelően tudjanak eljárni.
 
-(8) A Felügyelet a bejelentésre kötelezett személy, illetve a kijelölt személy személyazonosságát, az (1) bekezdés alapján tett bejelentés tényét, illetve annak tartalmát harmadik személynek – kivéve a büntetőeljárás lefolytatására jogosult hatóságot, bíróságot, illetve törvény felhatalmazása alapján a külföldi felügyeleti hatóságot – nem adhat át.
+(8) A Felügyelet a bejelentésre kötelezett személy, illetve a kijelölt személy személyazonosságát, az (1) bekezdés alapján tett bejelentés tényére, illetve annak tartalmára vonatkozó információt harmadik személynek – kivéve a büntetőeljárás lefolytatására jogosult hatóságot, bíróságot, illetve törvény felhatalmazása alapján a külföldi felügyeleti hatóságot – nem adhat át.
 
 (9) A Felügyelet az (1) bekezdés alapján tett bejelentések révén tudomására jutott információt kizárólag a bennfentes kereskedelem és piacbefolyásolás elleni küzdelem céljaira, feladatainak ellátása érdekében használhatja fel, és az adatokat három évig köteles megőrizni úgy, hogy azokból a változás dátuma és a változás előtti adatok is megállapíthatóak legyenek.
 

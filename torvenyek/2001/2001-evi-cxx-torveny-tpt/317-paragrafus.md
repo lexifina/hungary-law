@@ -1,6 +1,6 @@
 ## A tőzsde szabályzatai
 
-317. § (1) A tőzsde – törvény által meghatározott keretek között – szabályzatban határozza meg a tevékenységére vonatkozó általános szabályokat, valamint a tőzsdei kereskedőkre és kibocsátókra vonatkozó jogokat és kötelezettségeket.
+317. § (1) A tőzsde – törvény által meghatározott keretek között – szabályzatban határozza meg a tevékenységére vonatkozó általános szabályokat, valamint a tőzsdei kereskedőkre és kibocsátókra vonatkozó jogokat és kötelezettségeket. A tőzsde által alkalmazott eljárásnak, rendszernek és megoldásnak biztosítania kell minden, a tőzsdére vonatkozó jogszabályban és a tőzsde szabályzatában foglalt előírás teljesülését, ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az ellenőrizhetőség biztosítását is.
 
 (2) A tőzsde szabályzatainak elfogadására és módosítására kizárólag az igazgatóság jogosult. A (4) bekezdés c) és e) pontjaiban meghatározott szabályzatok elfogadása vagy módosítása előtt az igazgatóság köteles kikérni a tőzsdei kereskedők, illetve, ha a d) pontban meghatározott szabályzat értékpapírra vonatkozik, a tőzsdére bevezetett értékpapírok kibocsátóinak vagy azok szakmai szervezetének véleményét.
 

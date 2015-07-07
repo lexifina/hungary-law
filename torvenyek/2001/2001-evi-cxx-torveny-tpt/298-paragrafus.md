@@ -1,15 +1,21 @@
-298. § (1) A tőzsde – a 335. § (4) bekezdésében foglalt eltéréssel – kizárólag tőzsdei tevékenységet, illetve azt segítő kiegészítő tevékenységet folytathat.
+298. § (1) A tőzsde kizárólag
 
-(2) Tőzsdei tevékenységet segítő, kiegészítő tevékenység különösen az
+a) tőzsdei tevékenységet,
 
-a) elszámolóházi,
+b) tőzsdei tevékenységet segítő kiegészítő tevékenységet,
 
-b) oktatási,
+c) a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységet
 
-c) informatikai,
+folytathat.
 
-d) kiadvány előállítási és terjesztési,
+(2) Tőzsdei tevékenységet segítő kiegészítő tevékenység különösen az
 
-e) adatszolgáltatási
+a) oktatási,
+
+b) informatikai,
+
+c) kiadvány előállítási és terjesztési,
+
+d) adatszolgáltatási
 
 tevékenység.
