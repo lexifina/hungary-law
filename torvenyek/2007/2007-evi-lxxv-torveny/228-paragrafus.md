@@ -4,4 +4,4 @@
 
 (2) Felhatalmazást kap a miniszter, hogy a könyvvizsgálói közfelügyeleti feladatokkal összefüggő – törvényben nem szabályozott – tevékenységeket rendeletben szabályozza.
 
-(3) Felhatalmazást kap a miniszter, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég saját magával szemben kért rendkívüli minőségellenőrzésért fizetendő igazgatási szolgáltatási díjat és a díj fizetésének részletes szabályait rendeletben szabályozza.
+(3) Felhatalmazást kap a miniszter, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég saját magával szemben kért rendkívüli minőségellenőrzésért, valamint a minősítési kérelem elbírálásáért fizetendő igazgatási szolgáltatási díjat és a díj fizetésének részletes szabályait rendeletben szabályozza.

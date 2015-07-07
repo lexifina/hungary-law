@@ -18,11 +18,21 @@ b) figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésér
 
 c) fegyelmi eljárás kezdeményezése,
 
-d) kötelezés könyvvizsgálat ismételt elvégzésére, vagy a könyvvizsgálói jelentés visszavonására.
+d) kötelezés könyvvizsgálat ismételt elvégzésére vagy a könyvvizsgálói jelentés visszavonására,
+
+e) pénzbírság kiszabása,
+
+f) a 49. § szerinti minősítés megvonása,
+
+g) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás.
+
+(7a) A (7) bekezdés e) pontja szerinti pénzbírság összege kamarai tag könyvvizsgáló esetén 100 ezer forinttól 100 millió forintig, könyvvizsgáló cég esetén 100 ezer forinttól 500 millió forintig terjedhet. A pénzbírságból befolyó bevételek a közfelügyeleti hatóság bevételeit képezik azzal, hogy azt a könyvvizsgálói közfelügyelet működésére kell felhasználni.
+
+(7b) A (7) bekezdés g) pontja szerinti eltiltás 3 évig terjedhet.
 
 (8) Ha az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységét a (6) bekezdés szerinti kötelezettségek figyelmen kívül hagyásával végezte, ellene a közfelügyeleti hatóság a kamara illetékes testületénél fegyelmi eljárást kezdeményez.
 
-(9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén fegyelmi eljárást kezdeményez a kamaránál. A fegyelmi eljárás kezdeményezéséről a közfelügyeleti hatóság indokolt esetben értesíti a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
+(9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén annak tényéről és az alkalmazott intézkedésekről értesíti a kamarát, a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
 
 (10) Amennyiben a közfelügyeleti hatóság a (7) bekezdés d) pontjában foglalt intézkedést alkalmazza, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az (5) bekezdés szerinti jogerős határozat kézhezvételétől számított kilencven napon belül értesíti a közfelügyeleti hatóságot az ismételten elvégzett könyvvizsgálat eredményéről. Amennyiben a könyvvizsgálat ismételt elvégzése alapján megállapítható, hogy az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég által korábban kibocsátott könyvvizsgálói jelentés nem megfelelő, a kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles azt visszavonni, és új könyvvizsgálói jelentést kibocsátani.
 

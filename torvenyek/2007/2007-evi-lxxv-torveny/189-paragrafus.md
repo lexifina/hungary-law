@@ -12,7 +12,9 @@ e)
 
 (2) A közfelügyeleti hatóság az (1) bekezdésben meghatározott feladataival összefüggésben a miniszter számára javaslatot tehet jogszabály megalkotására vagy egyedi intézkedés megtételére.
 
-(3)
+(3) A közfelügyeleti hatóság az (1) bekezdésben meghatározott feladataival összefüggésben szakmai standard megalkotására kötelezheti a kamarát.
+
+(3a) A (3) bekezdés alapján megalkotott standard jóváhagyása során a közfelügyeleti hatóság kikéri az érintett állami szerv egyetértését.
 
 (4) Az (1) bekezdés szerinti feladatainak ellátásához a közfelügyeleti hatóság a kamarától, a közfelügyelet hatálya alá tartozó személyektől, szervezetektől iratot, adatot, információt, nyilatkozatot kérhet, valamint e célból betekinthet irataikba, könyveikbe és adathordozóikba.
 

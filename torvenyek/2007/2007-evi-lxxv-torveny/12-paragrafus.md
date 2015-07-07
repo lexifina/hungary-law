@@ -16,4 +16,6 @@ d) aki cselekvőképességet érintő gondnokság hatálya alatt áll vagy gondn
 
 e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat jogerőre emelkedésétől számított három évig,
 
-f) aki az életmódja vagy magatartása miatt a könyvvizsgálói hivatás gyakorlásához szükséges közbizalomra érdemtelen.
+f) aki az életmódja vagy magatartása miatt a könyvvizsgálói hivatás gyakorlásához szükséges közbizalomra érdemtelen,
+
+g) aki a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás hatálya alatt áll.

@@ -8,7 +8,9 @@ b) a tag fegyelmi eljárás keretében történő kizárásával,
 
 c) ha a tag a 11. §-ban foglalt feltételeknek a továbbiakban már nem felel meg,
 
-d) a tag halálával.
+d) a közfelügyeleti hatóság jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló határozata alapján,
+
+e) a tag halálával.
 
 (2) A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását szüneteltető kamarai tag kamarai tagsága nem szűnik meg, ha a szüneteltetés ideje alatt nem felel meg a 11. § (1) bekezdésének e)–g) pontjában foglalt követelményeknek.
 

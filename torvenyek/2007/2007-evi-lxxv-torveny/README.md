@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2014-03-15 | 2013. évi CC. törvény | 2007-75-00-00.21 |
 | 2014-05-06 | 2012. évi XXXVI. törvény | 2007-75-00-00.22 |
 | 2014-11-27 | 2014. évi LXXIV. törvény | 2007-75-00-00.23 |
+| 2015-07-07 | 2015. évi LXXXV. törvény | 2007-75-00-00.24 |
