@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-85-00-00
 | 2014-10-01 | 2014. évi XVI. törvény | 2009-85-00-00.19 |
 | 2014-12-01 | 2014. évi XVI. törvény | 2009-85-00-00.20 |
 | 2015-01-01 | 2013. évi CLXXXIX. törvény | 2009-85-00-00.21 |
+| 2015-07-07 | 2015. évi LXXXV. törvény | 2009-85-00-00.22 |

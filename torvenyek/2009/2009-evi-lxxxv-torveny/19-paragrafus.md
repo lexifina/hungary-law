@@ -6,4 +6,4 @@
 
 (4) A pénzforgalmi szolgáltató a tőle elvárható gondossággal köteles biztosítani, hogy a rendelkezési jogosultságot csak a számlatulajdonos és az általa feljogosított gyakorolhassa.
 
-(5) A rendelkezési jog gyakorlása során a pénzforgalmi szolgáltató a tőle elvárható gondossággal köteles ellenőrizni, hogy a megbízáson feltüntetett aláírás [ideértve személyazonosító kódot (PIN kód) vagy egyéb kódot] megegyezik-e a rendelkezésre jogosult pénzforgalmi szolgáltató bejelentett aláírásával [személyazonosító kódjával (PIN kód) vagy egyéb kódjával].
+(5) A rendelkezési jog gyakorlása során a pénzforgalmi szolgáltató a tőle elvárható gondossággal köteles ellenőrizni, hogy a megbízáson feltüntetett aláírás [ideértve személyazonosító kódot (PIN kód) vagy egyéb kódot] megegyezik-e a rendelkezésre jogosult pénzforgalmi szolgáltatónál bejelentett aláírásával [személyazonosító kódjával (PIN kód) vagy egyéb kódjával].

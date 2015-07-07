@@ -10,4 +10,6 @@
 
 (5) A nyilatkozattevő írásban (postai úton, telefaxon, elektronikus levélben) a Központi Nyilvántartást kezelő pénzügyi vállalkozástól is tájékoztatást igényelhet a róla kezelt nyilatkozatadatokról.
 
+(5a) A Központi Nyilvántartást kezelő pénzügyi vállalkozás a (4) és (5) bekezdés szerint előterjesztett tájékoztatás iránti igényléseket – amennyiben a nyilatkozattevő ezt kifejezetten kéri – elektronikus levélben is megadhatja.
+
 (6) A nyilatkozattevő a nyilatkozatadat-szolgáltatónál a (3) bekezdés szerint, vagy a Központi Nyilvántartást kezelő pénzügyi vállalkozásnál az (5) bekezdés szerint kérheti a nyilatkozatadatok helyesbítését, valamint – ha azok kezelésének jogalapja nem áll fenn – a törlését.
