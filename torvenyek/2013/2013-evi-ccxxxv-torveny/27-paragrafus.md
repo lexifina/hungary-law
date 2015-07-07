@@ -18,4 +18,4 @@ b) harminc napnál nem régebbi okirati igazolást arról, hogy nyilvántartásb
 
 c) a 11. § (5) bekezdése szerinti jegyzett tőke teljes összegének befizetésére és rendelkezésre állására vonatkozó igazolást, valamint
 
-d) a forgatható utalvány kibocsátására irányuló tevékenységre vonatkozó általános üzleti feltételeket tartalmazó szabályzatot.
+d) a forgatható utalvány kibocsátására irányuló tevékenységre vonatkozó általános üzleti feltételeket tartalmazó szabályzatot és panaszkezelési szabályzatot.

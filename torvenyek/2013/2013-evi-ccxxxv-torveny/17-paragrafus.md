@@ -32,9 +32,11 @@ o) a kérelmező harminc napnál nem régebbi okirati igazolását arról, hogy 
 
 p) a 6. §-ban és a 8. §-ban foglalt hitel- és pénzkölcsön nyújtására, valamint készpénz-helyettesítő fizetési eszköz kibocsátására vonatkozó kérelem esetén a kérelmező a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerhez történő csatlakozásáról szóló nyilatkozatát,
 
-q) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak, valamint
+q) nyilatkozatot arról, hogy milyen – az Szmt. szerinti – függő és jövőbeni kötelezettségei vannak,
 
-r) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+r) a panaszkezelési szabályzatát, valamint
+
+s) a kérelmező teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
 (2) Az (1) bekezdés d), e), h)–j) pontjához kapcsolódóan a kérelmező mellékeli azon auditrendszer és szervezeti intézkedések leírását, amelyek a pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást igénybe vevők érdekeinek védelmét, valamint a pénzügyi szolgáltatási tevékenység és kiegészítő pénzügyi szolgáltatási tevékenység végzésének folytonosságát és megbízhatóságát biztosító valamennyi ésszerű intézkedés megtételéhez szükségesek.
 
