@@ -34,6 +34,8 @@ f) az OBA véleményét.
 
 (8) Az OBA külföldi betétbiztosítási rendszerekkel, valamint külföldi felügyeleti hatóságokkal együttműködési megállapodásokat köthet, információkat cserélhet a betétbiztosítási rendszerek tagjaira és a biztosított betétállományra vonatkozó nyilvántartás, valamint a betétesek kártalanítása érdekében. Az együttműködés során a betétbiztosítási rendszerek egyeztetik, hogy az egyes rendszerek alapján a betétest mekkora összegű kártalanítás illeti meg.
 
+(8a) Az OBA tájékoztatja az EBH-t a külföldi betétbiztosítási rendszerekkel, valamint külföldi felügyeleti hatóságokkal kötött megállapodásokról és annak tartalmáról.
+
 (9) Másik EGT-államban székhellyel rendelkező hitelintézet Magyarország területén létesített fióktelepe betéteseinek kártalanítását a székhely ország betétbiztosítási rendszere nevében az OBA fizeti ki a székhely ország betétbiztosítási rendszerének rendelkezései alapján és az általa átutalt pénzeszközökből. Az OBA a székhely ország betétbiztosítási rendszere nevében tájékoztatja a kártalanítással érintett betéteseket.
 
 (10) Magyarország területén székhellyel rendelkező hitelintézet másik EGT-államban létesített fióktelepe esetén az OBA a kártalanítás kifizetését megelőzően a fióktelep létesítésének helye szerinti ország betétbiztosítási rendszere rendelkezésére bocsátja a kártalanításhoz szükséges pénzeszközöket és megtéríti a kártalanítással kapcsolatban felmerült költségeit. Az OBA biztosítja a fióktelep létesítésének helye szerinti ország betétbiztosítási rendszere részére a kártalanításhoz szükséges adatok rendelkezésre állását azzal, hogy az adatokat kizárólag a kártalanítással kapcsolatos feladatok – ideértve a betétesek tájékoztatását is – ellátása érdekében lehet felhasználni.

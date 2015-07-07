@@ -1,4 +1,4 @@
-94. § (1) Ha a hitelintézet nem teljesíti a 86. §, 87. § vagy a 92. §-ban meghatározott követelményeket, akkor a hitelintézet korlátozza az elsődleges alapvető tőkéhez kapcsolódó kifizetéseit.
+94. § (1) Ha a hitelintézet nem teljesíti a 93. § (1) bekezdésben meghatározott kombinált pufferkövetelményt, akkor a hitelintézet korlátozza az elsődleges alapvető tőkéhez kapcsolódó kifizetéseit.
 
 (2) A hitelintézet akkor korlátozza a kifizetéseit, ha a kifizetés a hitelintézet
 

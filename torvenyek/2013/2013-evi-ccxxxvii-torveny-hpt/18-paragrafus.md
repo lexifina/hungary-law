@@ -12,7 +12,7 @@ d) a szervezeti felépítésének, az irányítási, döntési és ellenőrzési
 
 e) külföldi székhelyű kérelmező esetében nyilatkozatot a kérelmező kézbesítési megbízottjáról, aki csak Magyarországon bejegyzett ügyvéd, illetve ügyvédi iroda vagy a kérelmező magyarországi bankképviselete lehet,
 
-f) annak igazolását, hogy a pénzügyi intézmény rendelkezik a pénzügyi szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel, valamint pénzügyi vállalkozás esetén a 20. § (2) bekezdés d)–f), h) és k) pontjában foglaltakat,
+f) pénzügyi vállalkozás esetén annak igazolását, hogy rendelkezik a pénzügyi szolgáltatás nyújtásához szükséges személyi és tárgyi feltételekkel, valamint a 20. § (2) bekezdés d)–f), h), k) és q) pontjában foglaltakat,
 
 g) az összevont alapú, vagy a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben meghatározott kiegészítő felügyelet alá tartozó hitelintézet esetében az összevont alapú, vagy a kiegészítő felügyelethez kapcsolódó információátadás rendjének bemutatását és a hitelintézettel szoros kapcsolatban álló személyek nyilatkozatát arról, hogy a hitelintézet összevont alapú, és kiegészítő felügyelete érdekében szükséges adatot, tényt és információt a Felügyelet rendelkezésére bocsátja,
 

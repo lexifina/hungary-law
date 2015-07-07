@@ -54,7 +54,7 @@ m) a hitelintézet vállalatirányítási rendszereire, vállalati kultúrájár
 
 (11) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a Felügyelet a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer elvégzi.
 
-(12) Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a hitelintézet az (5) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint húsz százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva a kamatláb hirtelen és nem várt, 200 bázispontos vagy az EBH által meghatározott egyéb változás eredményeként, akkor a Felügyeletnek meg kell tennie a szükséges intézkedéseket.
+(12) Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a hitelintézet az (5) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint húsz százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva a kamatláb hirtelen és nem várt, 200 bázispontos vagy az EBH által meghatározott egyéb változás eredményeként, akkor a Felügyelet a 185–186. §-okban foglalt intézkedést alkalmaz.
 
 (13) Az (5) bekezdés m) pontja szerinti felügyeleti felülvizsgálat és értékelés keretében a hitelintézet a Felügyelet rendelkezésére bocsátja legalább
 

@@ -1,5 +1,5 @@
-## 68. Közérdeklődésre számot tartó hitelintézetre vonatkozó előírások
+## 68. Auditbizottság
 
-157. § (1) A közérdeklődésre számot tartó hitelintézet a Ptk. jogi személyekre vonatkozó rendelkezései szerinti audit bizottságot hoz létre és működtet, figyelemmel arra, hogy nem nyilvános részvénytársasági formában működő hitelintézet esetén, ahol a Ptk. jogi személyekre vonatkozó rendelkezése részvénytársaságot és közgyűlést említ ott hitelintézetet és annak legfőbb szervét kell érteni.
+157. § (1) Ha a tárgyévet megelőző üzleti évben a nem nyilvános részvénytársasági formában működő hitelintézet mérlegfőösszege meghaladja az ötszázmilliárd forintot, akkor a Ptk. jogi személyekre vonatkozó rendelkezései szerinti auditbizottságot hoz létre és működtet azzal, hogy ahol a Ptk. jogi személyekre vonatkozó rendelkezése részvénytársaságot és közgyűlést említ, ott hitelintézetet és annak legfőbb szervét kell érteni.
 
-(2) A mérlegfőösszeg tekintetében 5 százaléknál kisebb piaci részesedéssel rendelkező közérdeklődésre számot tartó hitelintézet közös kockázatvállalási-kockázatkezelési és audit bizottságot állíthat fel, amelynek tagjai megfelelő szakértelemmel rendelkeznek feladataik ellátásához.
+(2) A mérlegfőösszeg tekintetében 5 százaléknál kisebb piaci részesedéssel rendelkező hitelintézet közös kockázatvállalási-kockázatkezelési és audit bizottságot állíthat fel, amelynek tagjai megfelelő szakértelemmel rendelkeznek feladataik ellátásához.

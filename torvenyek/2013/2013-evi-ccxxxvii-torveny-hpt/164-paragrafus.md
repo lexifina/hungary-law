@@ -8,7 +8,7 @@ c) a 3. § (1) bekezdés b)–g) és l) pontjában foglalt tevékenységek legal
 
 d) a pénzügyi intézmény által felhatalmazott könyvvizsgálónak, a megbízott vagyonellenőrnek, jogi vagy egyéb szakértőnek, valamint a pénzügyi intézmény részére biztosítási fedezetet nyújtó biztosítónak a biztosítási szerződés teljesítéséhez szükséges mértékben történő adatátadás,
 
-e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a pénzügyi intézményben befolyásoló részesedéssel rendelkező tagnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tag vagy esetleges jövőbeni tag által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
+e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a pénzügyi intézményben befolyásoló részesedéssel rendelkező tagnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tag vagy esetleges jövőbeni tag által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő, valamint a 17. és 17/A. § szerinti állományátruházáshoz kapcsolódóan az átadó és az átvevő pénzügyi intézmény közötti adatátadás,
 
 f) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírásmintájának bemutatása,
 
@@ -30,7 +30,7 @@ k) az összevont alapú felügyeleti megfelelés vonatkozásában történő, va
 
 l) a Felügyelet által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
 
-m) az OBA által külföldi betétbiztosítási rendszerek, valamint külföldi felügyeleti hatóságok részére együttműködési megállapodásban rögzített módon történő adattovábbítás, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
+m) az OBA által a 161. § (2) bekezdés a), b), d), e) és h) pontjai alapján, az e szervezeteknek az OBA-hoz intézett írásbeli megkeresésére adott válasz, továbbá a külföldi betétbiztosítási rendszerek, valamint külföldi felügyeleti hatóságok részére együttműködési megállapodásban rögzített módon történő adattovábbítás, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
 
 n) a pénzügyi intézmény által vállalt kockázat fedezetét nyújtó harmadik személy részére, a kockázatvállalás alapján fennálló követelés összegére és esedékességére vonatkozó adatszolgáltatás,
 
@@ -52,4 +52,6 @@ v) a központi szerződő fél, valamint az elszámolóházi tevékenység végz
 
 w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti,
 
-x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
+x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
+
+y) az elhalálozott által felvett és még vissza nem fizetett kölcsönről, pénzügyi lízingről az örökhagyó hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásának napjáig.

@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2015-04-01 | 2015. évi VIII. törvény | 2013-237-00-00.15 |
 | 2015-07-03 | 2014. évi CIV. törvény | 2013-237-00-00.16 |
 | 2015-07-04 | 2015. évi LXXXV. törvény | 2013-237-00-00.17 |
+| 2015-07-07 | 2015. évi LXXXV. törvény | 2013-237-00-00.18 |

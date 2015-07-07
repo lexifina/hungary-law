@@ -36,9 +36,11 @@ d) az általa végezni kívánt tevékenységre vonatkozó általános szerződ�
 
 e) a nyilatkozatát arra vonatkozóan, hogy a független közvetítőként történő működését mikor kívánja megkezdeni,
 
-f) a nyilatkozatát arról, hogy a jogszabályban meghatározott vagy jogszabályon alapuló adatszolgáltatások teljesítésére felkészült, valamint
+f) a nyilatkozatát arról, hogy a jogszabályban meghatározott vagy jogszabályon alapuló adatszolgáltatások teljesítésére felkészült,
 
-g) a teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
+g) a teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez, valamint
+
+h) a panaszkezelési szabályzatát.
 
 (8) Ha a kérelmező többes kiemelt közvetítőként kíván működni, a (7) bekezdésben meghatározottakon kívül a kérelemben igazolja az induló tőke teljes összegének rendelkezésre állását. Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékeli a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzatát és eljárásrendjét.
 

@@ -14,4 +14,4 @@ a) a hitelintézet szavatoló tőkéje nem éri el a 79. § (2) bekezdésében r
 
 b) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását, vagy
 
-c) a szövetkezeti hitelintézet vezető tisztségviselőjének megbízatása a szövetkezeti hitelintézetek integrációjáról és az egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 15. § (4) bekezdés a) pontja alapján a Takarékbank Zrt. által felfüggesztésre kerül; illetve amennyiben a szövetkezeti hitelintézet tevékenységi engedélyét a Felügyelet a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 19. § (3), (7) vagy (13) bekezdése alapján visszavonja.
+c) a szövetkezeti hitelintézet vezető tisztségviselőjének megbízatása a Szhitv. 15. § (4) bekezdés a) pontja alapján a Takarékbank Zrt. által felfüggesztésre kerül; illetve amennyiben a szövetkezeti hitelintézet tevékenységi engedélyét a Felügyelet a Szhitv. 19. § (3), (7) vagy (13) bekezdése alapján visszavonja.

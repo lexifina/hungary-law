@@ -4,7 +4,7 @@ a) a pénzügyi intézményeket, bankképviseleteket, járulékos vállalkozáso
 
 b) a kiegészítő pénzügyi szolgáltatást végző vállalkozásokat,
 
-c) a pénzügyi intézmény, a független közvetítő tulajdonosait,
+c) a pénzügyi intézmény tulajdonosait,
 
 d) a pénzügyi intézmény, a független közvetítő vezető állású személyeit,
 

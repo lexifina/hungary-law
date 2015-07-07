@@ -2,7 +2,7 @@
 
 200. § (1) A Felügyelet a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatai ellátása céljából szükséges mértékben adatot kezelhet, ideértve az e törvényben meghatározott körben kezelt személyes adatot is.
 
-(2) A Felügyelet határozattal nyilvántartásba veszi a pénzügyi intézmény következő adatait:
+(2) A Felügyelet nyilvántartásba veszi a pénzügyi intézmény következő adatait:
 
 a) név, székhely,
 
@@ -26,7 +26,7 @@ j) az i) pontban felsoroltak vezetésével megbízott személyek neve, és
 
 k) az a)–j) pontban felsorolt adatokban történt változások.
 
-(3) A Felügyelet határozattal nyilvántartásba veszi:
+(3) A Felügyelet nyilvántartásba veszi:
 
 a) az összevont alapú vagy a kiegészítő felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló személy adatait,
 

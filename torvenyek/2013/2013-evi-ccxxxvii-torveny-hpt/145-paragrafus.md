@@ -8,12 +8,12 @@ b) vezető testületben betöltött, négy nem ügyvezetői tisztség.
 
 a) az ugyanazon csoporton belül betöltött ügyvezetői vagy vezető testületben betöltött, nem ügyvezetői tisztség,
 
-b) azon ügyvezetői tisztség, amelyet
+b) együttesen azon ügyvezetői és vezető testületben betöltött nem ügyvezetői tisztség, amelyet
 
-ba) intézményvédelmi rendszer tagjánál töltenek be, vagy
+ba) intézményvédelmi rendszer hitelintézeti tagjánál töltenek be, vagy
 
 bb) olyan vállalkozásnál töltenek be, amelyben az (1) bekezdésben meghatározott hitelintézet befolyásoló részesedéssel rendelkezik.
 
 (3) Az (1) bekezdésben meghatározott korlátozás nem terjed ki az olyan szervezetben betöltött ügyvezetői tisztségre, amely nem folytat üzleti jellegű tevékenységet.
 
-(4) A Felügyelet engedélyezheti az (1) bekezdésben meghatározott hitelintézet ügyvezetője számára, hogy a korlátozást meghaladóan további egy nem ügyvezetői tisztséget töltsön be.
+(4) A Felügyelet engedélyezheti az (1) bekezdésben meghatározott hitelintézet vezető testületének tagja számára, hogy a korlátozást meghaladóan további egy nem ügyvezetői tisztséget töltsön be.

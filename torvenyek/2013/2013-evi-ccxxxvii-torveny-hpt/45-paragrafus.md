@@ -1,4 +1,4 @@
-45. § (1) Magyarországi székhellyel rendelkező hitelintézet külföldi bankképviseletének létesítésére irányuló engedély iránti kérelem tartalmazza
+45. § (1) Magyarországi székhellyel rendelkező hitelintézet harmadik országbeli bankképviseletének létesítésére irányuló engedély iránti kérelem tartalmazza
 
 a) a bankképviselet megnevezését a képviseleti jellegre való utalással,
 

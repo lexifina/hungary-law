@@ -4,7 +4,7 @@
 
 a) legalább évente egy alkalommal, valamint
 
-b) a szerződés lejártakor
+b) a szerződés lejártát követő harminc napon belül
 
 egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot) küldeni.
 

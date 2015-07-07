@@ -30,7 +30,7 @@ h) kötelezheti a hitelintézetet a jogszabályban meghatározott nyilvánosság
 
 (2) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzügyi intézmény prudens működését jelentősen vagy súlyosan veszélyezteti – a Felügyelet a következő intézkedéseket alkalmazhatja:
 
-a) a pénzügyi intézményhez – egy vagy több – helyszíni ellenőrt rendelhet ki;
+a)
 
 b) kötelezheti a pénzügyi intézményt
 
@@ -68,13 +68,7 @@ d) a teljesítményjavadalmazás nettó bevétel százalékában történő megh
 
 e) kötelezheti a hitelintézetet a 114. § szerinti helyreállítási terv életbe léptetésére, az abban foglalt lépések alkalmazására, vagy – ha a Felügyelet által alkalmazandó intézkedést kiváltó esemény eltér a helyreállítási tervben foglalt feltételezéstől – a helyreállítási terv harminc napon belül történő felülvizsgálatára és a módosított helyreállítási tervben foglalt lépések megtételére.
 
-(3) A kirendelt helyszíni ellenőr jogosult
-
-a) bármely ellenőrzési tevékenység ellátására;
-
-b) megfigyelőként részt venni és felszólalni az ügyvezetés, az igazgatóság, bármely más kockázatvállalási döntést hozó testület vagy bizottság, valamint a felügyelőbizottság ülésén, a közgyűlésen (küldöttgyűlésen);
-
-c) konzultálni a pénzügyi intézmény könyvvizsgálójával.
+(3)
 
 (4) Ha a fióktelep formájában működő hitelintézet eszközfenntartási mutatója száz százalék alá csökken, a Felügyelet kötelezi a külföldi hitelintézetet, hogy harminc napon belül feleljen meg a fióktelep az eszközfenntartási mutatóra vonatkozó előírásoknak.
 

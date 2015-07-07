@@ -74,7 +74,7 @@ l) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) b
 
 m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
 
-n) tevékenységi (működési) engedélye a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény alapján visszavonásra kerül.
+n) tevékenységi (működési) engedélye a Szhitv. alapján visszavonásra kerül.
 
 (4) A Felügyelet megteszi a szükséges intézkedéseket, kivételes intézkedéseket, ha bizonyíthatóan fennáll annak veszélye, hogy a hitelintézet az elkövetkező tizenkét hónapban nem fog megfelelni az e törvényben, valamint a prudens működésre vonatkozó jogszabályokban foglalt követelményeknek.
 

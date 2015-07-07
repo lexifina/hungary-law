@@ -130,7 +130,7 @@ b) a központi hitelinformációs rendszerről szóló törvényben meghatározo
 
 47. javadalmazás: a hitelintézet által a vezető állású személy, munkavállaló részére minden, a munkaviszony alapján közvetlenül vagy közvetve, pénzbeli, természetbeni, vagyoni jog vagy egyéb formában nyújtott juttatás;
 
-48. járulékos vállalkozás: olyan vállalkozás, amelynek elsődleges tevékenysége, hogy hitelintézet számára végez üzletszerű tevékenységet kiegészítő tevékenységet, így különösen ingatlankezelést, adatfeldolgozást, pénzszállítást, biztonsági, illetőleg kommunikációs szolgáltatást;
+48. járulékos vállalkozás: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
 49. jegyzett tőke: az Szmt. 35. § (3) bekezdése szerint meghatározott tőke;
 
@@ -156,7 +156,7 @@ c) a pénzforgalmi szolgáltató és az ügyfél közötti keretszerződésben m
 
 57. készpénz-helyettesítő fizetési eszköz kibocsátásával kapcsolatos szolgáltatásnyújtás: a készpénz-helyettesítő fizetési eszköz kibocsátására, kezelésére és használatára vonatkozó jogszabályok alapján nyújtott, vagy az ügyféllel, valamint az eladóval vagy a szolgáltatóval kötött szerződésben a kibocsátó által elvállalt szolgáltatások összessége, ide nem értve a készpénz-helyettesítő fizetési eszközzel kapcsolatos szolgáltatásnak a készpénz-helyettesítő fizetési eszköz használatával összefüggő elszámolás forgalom lebonyolítását;
 
-58. kiszervezés: ha a pénzügyi intézmény a pénzügyi vagy kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel kizárólagos szerződést köt;
+58. kiszervezés: ha a pénzügyi intézmény a pénzügyi vagy kiegészítő pénzügyi szolgáltatási tevékenységéhez kapcsolódó vagy jogszabály által végezni rendelt olyan tevékenységét, amelynek során adatkezelés, adatfeldolgozás vagy adattárolás valósul meg, nem önállóan végzi, hanem annak folyamatos vagy rendszeres elvégzésére tőle szervezetileg független személlyel köt szerződést;
 
 59. kockázat, vagy kockázatvállalás:
 
@@ -178,9 +178,9 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 
 60. követelésvásárlási tevékenység: követelésnek – a kötelezett kockázatának átvállalásával vagy anélkül történő – megszerzése, megelőlegezése (ideértve a faktoringot és a forfetírozást is), valamint leszámítolása, függetlenül attól, hogy a követelés esedékességének nyilvántartását és a kintlévőségek beszedését ki végzi;
 
-61. közeli hozzátartozó: a Ptk.-ban meghatározott közeli hozzátartozó;
+61. közeli hozzátartozó: a Ptk.-ban meghatározott közeli hozzátartozó és az élettárs;
 
-62. közérdeklődésre számot tartó hitelintézet: a nyilvános részvénytársasági formában működő hitelintézet és az a hitelintézet, amelynél a tárgyévet megelőző üzleti évben a mérlegfőösszeg meghaladta az ötszázmilliárd forintot;
+62. közérdeklődésre számot tartó hitelintézet: az e törvény szerinti hitelintézet, kivéve az MNB, az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság és a Magyar Export-Import Bank Zrt.;
 
 63. közös vezetésű vállalat: az Szmt. meghatározása szerinti közös vezetésű vállalat;
 

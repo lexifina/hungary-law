@@ -20,7 +20,7 @@ f) a hitelintézetre vonatkozó belső szabályzatokban foglalt előírások bet
 
 (4) A belső ellenőrzési rendszert a hitelintézet az általa folytatott szolgáltatási tevékenységek sajátosságaival, kiterjedtségével, összetettségével és kockázataival összhangban alakítja ki. A belső ellenőrzési rendszer a hitelintézet adatbázisaira épül, átfogó elemzésekkel és kockázatelemzésekkel alátámasztott. A belső ellenőrzési rendszer kiterjed a hitelintézet működésének egészére, egyes szervezeti egységeinek elkülönült és illeszkedő működésére, valamint a kiszervezett tevékenységre is.
 
-(5) A szövetkezeti hitelintézet, a pénzügyi vállalkozás legalább egy belső ellenőrt foglalkoztat. A szövetkezeti hitelintézet és a pénzügyi vállalkozás írásban megállapodhat arról, hogy a belső ellenőr kölcsönös foglalkoztatása ellen nem emel kifogást. Ugyanazon személy legfeljebb három szövetkezeti hitelintézetnél vagy pénzügyi vállalkozásnál foglalkoztatható belső ellenőrként.
+(5) A pénzügyi vállalkozás legalább egy belső ellenőrt foglalkoztat. A pénzügyi vállalkozások írásban megállapodhatnak arról, hogy a belső ellenőr kölcsönös foglalkoztatása ellen nem emelnek kifogást. Ugyanazon személy legfeljebb három pénzügyi vállalkozásnál foglalkoztatható belső ellenőrként.
 
 (6) A belső ellenőrzés szervezetét, hatáskörét, feladatait, a belső ellenőrrel szemben támasztott szakmai követelményt és eljárási szabályokat a pénzügyi vállalkozás belső szabályzatban rögzíti.
 

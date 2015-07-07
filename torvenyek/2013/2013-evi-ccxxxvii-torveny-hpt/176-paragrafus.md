@@ -28,6 +28,4 @@ e) befolyásolja a másik EGT-állam illetékes hatóságának felügyelete alá
 
 a) az ezen hitelintézet ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
 
-b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik,
-
-a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul tájékoztatja az EBH-t, az érintett EGT-állam központi kormányát, illetékes felügyeleti hatóságát, valamint központi bankját.
+b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul tájékoztatja az EBH-t, az érintett EGT-állam központi kormányának a pénz- és tőkepiac felügyeletére vonatkozó jogszabályokért felelős tagját, illetékes felügyeleti hatóságát, valamint központi bankját.

@@ -10,7 +10,7 @@ d) az az adat, hogy a nyilvántartásba vett kiemelt közvetítő, függő ügyn
 
 e) a közvetítőt megbízó pénzügyi intézmény neve,
 
-f) a szolgáltatási tevékenysége megkezdésének időpontja,
+f) a közvetített szolgáltatás típusa,
 
 g) a közvetítői alvállalkozó esetén a közvetítő neve,
 
@@ -18,7 +18,9 @@ h) a független közvetítőnél vezető állású személynek
 
 ha) a tisztsége,
 
-hb) a 2. mellékletben meghatározott azonosító adatai közül a vezető állású személy neve, születési helye, ideje és anyja neve.
+hb) a 2. mellékletben meghatározott azonosító adatai közül a vezető állású személy neve, születési helye, ideje és anyja neve,
+
+i) a 288. § (15) bekezdésben meghatározott fogyasztóvédelmi ügyekért felelős kapcsolattartó azonosító adatai közül a neve, postai és elektronikus elérhetősége.
 
 (2) A Felügyelet az (1) bekezdésben meghatározott adatok változását az adatváltozás bejelentését követően haladéktalanul átvezeti a nyilvántartáson.
 

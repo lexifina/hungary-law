@@ -40,6 +40,8 @@ ob) a harmadik országbeli hitelintézetnek a betétesek Magyarországon törté
 
 oc) a kártalanítás feltételeit, módját, az eljárás menetének rendjét, és a kártalanítás kifizetését biztosító megállapodásokat,
 
-p) a Szanálási Alaphoz történő csatlakozásáról szóló nyilatkozat másolatát.
+p) a Szanálási Alaphoz történő csatlakozásáról szóló nyilatkozat másolatát,
+
+q) a panaszkezelési szabályzatát.
 
 (3) Már működő pénzügyi intézmény tevékenységi körének pénzügyi szolgáltatással történő bővítésére vonatkozó engedély iránti kérelméhez benyújtja a tevékenység végzéséhez szükséges személyi és tárgyi feltételek meglétét bizonyító igazolást, valamint a (2) bekezdés d)–f), h) és k)–m) pontjában foglaltakat, ha ezek benyújtására korábban még nem került sor.

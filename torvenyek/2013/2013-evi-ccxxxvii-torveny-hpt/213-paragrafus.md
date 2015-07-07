@@ -8,7 +8,7 @@ c) a helyi önkormányzat,
 
 d) a biztosító, az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár,
 
-e) a befektetési alap,
+e) a befektetési alap, a befektetési alapkezelő,
 
 f) a Nyugdíjbiztosítási Alap, valamint ezek kezelő szervezetei és a nyugdíjbiztosítási igazgatási szerv,
 

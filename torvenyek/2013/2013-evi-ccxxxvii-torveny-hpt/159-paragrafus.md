@@ -12,7 +12,7 @@
 
 a) MNB-vel
 
-b) az OBA-val, betét- és intézményvédelmi alappal, valamint a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával és az ugyanezen törvényben leírt intézményvédelmi szervezettel és az ugyanezen törvényben nevesített és ott meghatározott feladatkörében eljáró kormánybiztossal,
+b) OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával és az ugyanezen törvényben leírt kötelező intézményvédelmi szervezettel,
 
 c) nemzetbiztonsági szolgálattal,
 

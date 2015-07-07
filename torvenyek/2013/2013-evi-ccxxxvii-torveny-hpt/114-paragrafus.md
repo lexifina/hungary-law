@@ -4,11 +4,11 @@ a) amelyre az összevont alapú felügyelet nem terjed ki, vagy
 
 b) amely a csoportszintű helyreállítási terv felülvizsgálata alapján erre külön kötelezett
 
-az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységek és az alkalmazott üzleti modell jellegével, nagyságrendjével, összetettségével és kockázataival arányos helyreállítási tervet készít.
+az általa végzett pénzügyi, kiegészítő pénzügyi szolgáltatási tevékenységekben és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos helyreállítási tervet készít.
 
 (2) A helyreállítási tervet a hitelintézet irányítási jogkörrel rendelkező vezető testülete által történő jóváhagyást követően benyújtják a Felügyeletnek.
 
-(3) A helyreállítási terv a hitelintézet esetleges fizetésképtelenné válásának – más hitelintézetekre vagy a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában legalább a következőket tartalmazza:
+(3) A helyreállítási terv a hitelintézet esetleges fizetésképtelenné válásának – más hitelintézetekre vagy a pénzügyi közvetítőrendszerrel való összefonódásából adódóan – a pénzügyi piacokra gyakorolható lehetséges hatásainak arányában a következőket tartalmazza:
 
 a) a terv kulcsfontosságú elemeinek, az előző tervhez képest bekövetkezett lényeges változásainak, valamint a hitelintézet általános helyreállítási képességének összefoglalása,
 
@@ -64,6 +64,6 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 (9) A csoportszintű helyreállítási tervet a hitelintézet irányítási jogkörrel rendelkező vezető testülete által történt jóváhagyást követően benyújtja a Felügyeletnek.
 
-(10) A csoportszintű helyreállítási terv a csoport tagjainak helyreállítási tevén kívül mindazon lépéseket tartalmaz, amelyet a csoport esetleges fizetésképtelené válásának elkerülése érdekében alkalmaznának.
+(10) A csoportszintű helyreállítási terv a csoport tagjainak helyreállítási tervén kívül minden olyan lépést tartalmaz, amelyet a csoport esetleges fizetésképtelenné válásának elkerülése érdekében alkalmaznának.
 
 (11) Az 575/2013/EU rendelet 113. cikk (7) bekezdése szerinti ugyanazon intézményvédelmi rendszerhez tartozó hitelintézetek helyreállítási tervét az intézményvédelmi rendszer készíti el.

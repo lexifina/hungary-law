@@ -10,4 +10,4 @@
 
 (4) A (2) bekezdés alkalmazásában a kifizetéshez kapcsolódóan az OBA-nál felmerülő költség a kifizető hitelintézet díja, az átutalások költsége, a nyomdaköltség, a kommunikációs költség, a számítástechnikai költség és a jogi költség.
 
-(5) Az OBA csak azzal a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény szerinti szövetkezeti hitelintézettel szemben érvényesíthet követelést, amelynél a betétet elhelyezték.
+(5) Az OBA csak azzal a Szhitv. szerinti szövetkezeti hitelintézettel szemben érvényesíthet követelést, amelynél a betétet elhelyezték.

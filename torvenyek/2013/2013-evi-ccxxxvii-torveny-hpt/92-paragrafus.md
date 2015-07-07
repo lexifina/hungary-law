@@ -20,4 +20,4 @@ b) az MNB legalább kétévente felülvizsgálja a tőkepufferráta mértékét.
 
 (5) A rendszerkockázati tőkepufferráta mértéke legalább 1 százalék azzal, hogy ez a százalékérték a növekvő érték meghatározásakor 0,5 százalékponttal vagy annak valamely egész számértékkel szorzott többszörösével növekedhet.
 
-(6) Az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozó hitelintézet számára a Felügyelet határozatban előírhatja, hogy egyedi és összevont alapon is képezzen rendszerkockázati tőkepuffert.
+(6) Az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozó hitelintézet számára a makroprudenciális feladatkörében eljáró MNB határozatban előírhatja, hogy egyedi és összevont alapon is képezzen rendszerkockázati tőkepuffert.

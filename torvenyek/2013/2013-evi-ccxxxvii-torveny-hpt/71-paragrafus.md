@@ -1,4 +1,4 @@
-71. § (1) A független közvetítő a pénzügyi szolgáltatási szerződés megkötésének elősegítése során az ügyfélnek kielégítő mennyiségű, de – ha a piacon hozzáférhető – legalább három szolgáltató versengő szolgáltatásnak minősülő ajánlatát elemzi és átadja. Ha kizárólag kettő versengő szolgáltatatást közvetít, akkor kettő ajánlatot elemez és ad át.
+71. § (1) A független közvetítő – ide nem értve az alkuszt – a pénzügyi szolgáltatási szerződés megkötésének elősegítése során az ügyfélnek kielégítő mennyiségű, de – ha a piacon hozzáférhető – legalább három szolgáltató versengő szolgáltatásnak minősülő ajánlatát elemzi és átadja. Ha kizárólag kettő versengő szolgáltatást közvetít, akkor kettő ajánlatot elemez és ad át.
 
 (2) A pénzügyi szolgáltatás közvetítését megelőzően a független közvetítő az ügyfél tájékoztatása alapján felméri az ügyfél igényeit és szükségleteit, valamint azokat az indokokat, amelyek a független közvetítő által e tevékenységével összefüggésben adott tanácsot alátámasztják.
 
