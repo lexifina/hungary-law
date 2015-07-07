@@ -40,7 +40,7 @@ h) közvetett résztvevő: az az intézmény, központi szerződő fél, teljes�
 
 i) rendszer: az – a rendszerkapcsolatnak nem minősülő – írásbeli megállapodáson alapuló együttműködési forma,
 
-ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetőleg a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre,
+ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetőleg a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre, és
 
 ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Értékpapír-piaci Hatóságot;
 
@@ -52,9 +52,9 @@ l) teljesítés: a rendszer résztvevői közötti tartozások és követelések
 
 m) teljesítési számla: a teljesítő félnél, központi szerződő félnél, illetve központi banknál vezetett, pénzeszközök és értékpapírok kezelésére szolgáló számla, ahol a rendszer résztvevői közötti transzfer megbízások kiegyenlítése történik;
 
-n) teljesítő fél: az a szervezet, amely a rendszerben résztvevő intézmények, illetőleg a központi szerződő fél teljesítési számlájának vezetőjeként biztosítja a transzfer megbízások kiegyenlítését, illetve – szükség esetén – az intézmény, illetőleg a központi szerződő fél részére hitelt nyújt a teljesítés megkönnyítése érdekében.
+n) teljesítő fél: az a szervezet, amely a rendszerben résztvevő intézmények, illetve – amennyiben alkalmazandó – a központi szerződő fél teljesítési számlájának vezetőjeként biztosítja a transzfer megbízások kiegyenlítését, illetve – szükség esetén – az intézmény, illetőleg a központi szerződő fél részére hitelt nyújt a teljesítés megkönnyítése érdekében;
 
-o) üzleti nap: a rendszer üzleti ciklusa által meghatározott azon huszonnégy órás időszak, amelyben az üzleti események történnek, ideértve az éjszakai és nappali elszámolásokat is;
+o) üzleti nap: a rendszer üzleti ciklusa által meghatározott azon időszak, amelyben az üzleti események történnek, ideértve az éjszakai és nappali elszámolásokat és a rendszer üzleti ciklusában bekövetkező valamennyi eseményt is;
 
 p) rendszerkapcsolat: a transzfer megbízások rendszerek közötti teljesítése céljából a kapcsolódó rendszerek rendszerüzemeltetői által írásbeli megállapodással létrehozott együttműködési forma;
 
