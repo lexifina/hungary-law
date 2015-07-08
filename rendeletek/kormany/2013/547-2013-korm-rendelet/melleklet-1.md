@@ -1594,21 +1594,11 @@ c) záró kifizetési igénylés.
 
 159. Előleg alatt támogatási előleget, fordított áfa-előleget és szállítói előleget is érteni kell. Ahol az egységes működési kézikönyv támogatási előleget említ, az alatt csak a támogatási előleget, ahol fordított áfa-előleget említ, az alatt csak a fordított áfa-előleget, ahol szállítói előleget említ, az alatt csak a szállítói előleget kell érteni.
 
-160.1. A támogatási előleg kedvezményezett részére történő folyósítására az Ávr.-ben és a Rendeletben nevesített esetekben és mértékben kerülhet sor.
+160.1. A támogatási előleg kedvezményezett részére történő folyósítására a Rendeletben nevesített esetekben és mértékben kerülhet sor.
 
 160.2. Az Európai Unió támogatásával megvalósuló projektek esetében az IH döntésének megfelelően indokolt, a pályázati felhívásban meghatározott esetekben nyújtható támogatási előleg.
 
-160.3. Támogatási előleg eltérő jogszabályi rendelkezés hiányában a támogatott tevékenység elindításához és likviditásának biztosításához szükséges legkisebb összegben nyújtható, amely nem haladhatja meg a megítélt támogatás 25%-át, de legfeljebb 300 millió forintot. K+F projektek esetében az előleg nem haladhatja meg a megítélt támogatás 75%-át, de legfeljebb 450 millió forintot.
-
-160.4. A támogatási előleg nagyságának legmagasabb összegére vonatkozó összeghatártól az IH-vezető az államháztartásért felelős miniszter egyetértésével eltérhet.
-
-160.5. A 2012. január 1-jét követően közzétett pályázati felhívások alapján támogatott projektek esetében a támogatási előleg Ávr.-ben meghatározott maximális százalékos mértékét az európai uniós források felhasználásáért felelős miniszter az államháztartásért felelős miniszter egyetértésével megemelheti
-
-a) a vonatkozó akciótervben nevesített kiemelt projektek esetén, illetve
-
-b) ha a kedvezményezett központi költségvetési szerv vagy annak intézménye, vagy állami többségi tulajdonban lévő gazdasági társaság.
-
-160.6. A támogatási előleg Ávr.-ben meghatározott maximális százalékos mértékének emelését az IH-vezető kezdeményezheti.
+160.3–160.6.
 
 160.7. A maximálisan igénybe vehető támogatási előleg mértéke a pályázati felhívásban kerül pontos meghatározásra. Az előleget hazai és uniós forrásból, az Európai Unió által támogatott adott intézkedés, illetve projekt szerinti finanszírozási arányban kell nyújtani.
 
@@ -1630,7 +1620,7 @@ a) a kedvezményezett több részletben igényli a támogatási előleget, vagy
 
 b) a kedvezményezett egy összegben igényli a támogatási előleget, de a projekt megvalósítási költségeinek felmerülését mérlegelve a KSZ a részletekben történő folyósítás mellett dönt.
 
-162.4 A támogatási előleg több részletben történő folyósítása esetén a több részletben igényelt és folyósított előleg együttes összege nem haladhatja meg az Ávr.-ben meghatározott mértéket.
+162.4.
 
 162.5. A támogatási előlegnyújtás ütemezésének igazodnia kell a támogatott tevékenység megvalósítása során a költségek felmerülésének előrehaladásához.
 
@@ -1830,7 +1820,7 @@ c) a biztosítékot az igényelt áfa-előleg, valamint az elszámolásra benyú
 
 176.2. A benyújtott szállítói finanszírozású fordított áfás számla támogatástartalmának kifizetése a szállítói finanszírozásra vonatkozó határidőben történik.
 
-176.3. A fordított áfás számlára vonatkozó áfa támogatástartalmának előlegként történő folyósítására az előlegfizetésre vonatkozó – Ávr. szerinti – 15 napos határidő az irányadó.
+176.3. A fordított áfás számlára vonatkozó áfa támogatástartalmának előlegként történő folyósítására az előlegfizetésre vonatkozó 15 napos határidő az irányadó.
 
 177.1. A fordított áfa-előleg célhoz kötöttségéből adódóan a fordított áfa-előleg előzetes megtérítése iránti kérelemben meg kell jelölni az ügyletre jutó áfa-összeg adóhatóság felé történő megfizetésének vagy az ezen áfa-összeg elszámolását tartalmazó áfa-bevallás benyújtásának időpontját.
 
@@ -2048,7 +2038,7 @@ f) legkésőbb az első időközi kifizetési igénylésben benyújtja a Rendele
 
 a) a projektek első kifizetési igénylésére,
 
-b) a fordított áfa-előleg elszámolása céljából a kizárólag fordított áfa-összesítőt tartalmazó elszámolásra az Ávr. 87. § (4) bekezdése alapján.
+b) a fordított áfa-előleg elszámolása céljából a kizárólag fordított áfa-összesítőt tartalmazó elszámolásra.
 
 202.4. A 202.1. d) és e) pontja szerinti százalékos és összegszerű korláttól az IH a kedvezményezett javára eltérhet.
 
@@ -4884,5 +4874,19 @@ f) megküldi a szabálytalansági gyanú bejelentés kezelésével kapcsolatos d
 
 g) rögzíti a szabálytalansági gyanút a monitoring és információs rendszerben.
 
+473. Ha a gyanúbejelentő adatlap hiányos, hibás, a szabálytalansági gyanút nem az arra használatos formanyomtatványon rögzítették, a szabálytalanságfelelős a hiányok megjelölésével felhívja a gyanúbejelentőt a hiányok pótlására. A szabálytalanságfelelős az előzetes vizsgálata során tett megállapítások nyomán jogosult a szabálytalansági gyanúbejelentő adatlap kiegészítésére, javítására.
+
+474.1. A szabálytalanságfelelős a szabálytalansági gyanú előzetes vizsgálata alapján annak kézhezvételétől számított 3 napon belül a következő döntési javaslatokat terjesztheti a döntéshozó elé:
+
+a) javaslat az eljárás megindítására,
+
+aa) ha az ismert tényekből és körülményekből, valamint a rendelkezésre álló dokumentumokból valószínűsíthető, hogy a szabálytalansági gyanú fennáll,
+
+ab) ha a Rendelet 94. § (2) bekezdése szerint benyújtott jogorvoslati kérelem KSZ/IH általi önrevíziója során a szabálytalansági döntés visszavonásra került, de a szabálytalansági gyanú továbbra is fennáll,
+
+ac) ha a Rendelet 99. § (2) bekezdése szerint a központi koordinációs szerv a szabálytalansági döntésben foglaltakhoz képest új szabálytalansági gyanút állapít meg, és ennek kivizsgálása érdekében új szabálytalansági eljárás lefolytatására utasítja a szabálytalansági eljárás során eljáró szervezetet,
+
+ad) a Rendelet 99. § (1) bekezdés c) pontja szerinti esetben,
+
 [^5]: A 6. §-t a 69/2015. (III. 30.) Korm. rendelet 12. §-a iktatta be.
-[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a szerint módosított szöveg.
