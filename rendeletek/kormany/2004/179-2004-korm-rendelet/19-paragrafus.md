@@ -1,1 +1,0 @@
-## 18. § A fejlesztési feladatok központi költségvetési támogatásait és bevételeit (beleértve az előre nem látható, a visszafizetéshez szükséges, illetve az árfolyam-különbözet fedezésére szolgáló összegeket) az Áht. és a végrehajtásáról rendelkező jogszabályok, a mindenkori költségvetési törvény, illetve a tervezési körirat előírásai szerint kell megtervezni.

@@ -1,3 +1,0 @@
-## III. Fejezet
-
-## A PROGRAM KÖLTSÉGVETÉSI TERVEZÉSE
