@@ -1,3 +1,0 @@
-175. § Az MNBtv. 160. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Amennyiben a monetáris politikai eszköz vonatkozásában kerül sor a pénzügyi intézmények egymás közötti, valamint a pénzügyi intézmény és az MNB közötti fogyasztói szerződésnek nem minősülő hitel- és pénzkölcsön nyújtására és pénzügyi lízingre vonatkozó szerződések átruházására, a Ptk. szerződésátruházásra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy a szerződésállomány-átruházással sem a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, sem a 2013. évi V. törvény hatálya alatt álló szerződés biztosítékai nem szűnnek meg, valamint nem szükséges a szerződésben maradó fél hozzájárulása.”

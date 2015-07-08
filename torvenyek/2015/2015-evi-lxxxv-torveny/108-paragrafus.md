@@ -1,3 +1,0 @@
-108. § A Bszt. 161/A. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az olyan befektetési vállalkozás, pénzügyi vállalkozás, hitelintézet és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik –, az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.”
