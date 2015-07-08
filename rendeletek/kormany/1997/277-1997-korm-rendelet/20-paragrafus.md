@@ -14,7 +14,7 @@
 
 (6)[^108]
 
-(7)[^109] Az államháztartásról szóló 1992. évi XXXVIII. törvény 88. §-ának (4) bekezdésében meghatározott pénzügyi-gazdasági végzettségnek vagy képesítésének a köznevelési intézmények vezetői esetében a pedagógus-szakvizsga teljesítése felel meg.
+(7)[^109]
 
 (8)[^110] A hétévenkénti továbbképzés a 2013. augusztus 31-éig megkezdett nevelő és oktató munkát segítő, az Országos Képzési Jegyzékben szereplő emelt szintű vagy felsőfokú szakképesítés elvégzését igazoló okirat megszerzésével is teljesíthető.
 
@@ -28,7 +28,7 @@
 [^106]: A 20. § (4) bekezdését a 346/2013. (IX. 30.) Korm. rndelet 18. § k) pontja hatályon kívül helyezte.
 [^107]: A 20. § (5) bekezdése a 93/2009. (IV. 24.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
 [^108]: A 20. § (6) bekezdését a 346/2013. (IX. 30.) Korm. rndelet 18. § k) pontja hatályon kívül helyezte.
-[^109]: A 20. § (7) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^109]: A 20. § (7) bekezdését a 93/2009. (IV. 24.) Korm. rendelet 11. § (2) bekezdése iktatta be, hatályon kívül helyezte a 175/2015. (VII. 7.) Korm. rendelet 42. §-a.
 [^110]: A 20. § (8) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 15. §-a iktatta be.
 [^111]: A 20. § (9) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 15. §-a iktatta be.
 [^112]: A 20. § (10) bekezdését a 346/2013. (IX. 30.) Korm. rendelet 15. §-a iktatta be.
