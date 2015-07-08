@@ -1,4 +1,4 @@
-## XI/A. Fejezet[^157]
+## XI/A. Fejezet[^158]
 
 ## AZ EMVA, ILLETVE AZ ETHA FORRRÁSBÓL SZÁRMAZÓ TÁMOGATÁSOKRA VONATKOZÓ TOVÁBBI ÉS ELTÉRŐ SZABÁLYOK
 
@@ -12,4 +12,4 @@
 
 (5) A (4) bekezdés szerinti esetben az e rendelet szerint elektronikus úton megküldött dokumentumok megküldéséről szóló értesítést egyidejűleg a támogatást igénylő vagy a kedvezményezett ügyfélkapujára is meg kell küldeni. A kézbesítésre ez esetben is a XXIX. fejezetben foglaltakat kell alkalmazni.
 
-[^157]: A XI/A. Fejezetet (57/B–57/J. §) a 144/2015. (VI. 12.) Korm. rendelet 30. §-a iktatta be.
+[^158]: A XI/A. Fejezetet (57/B–57/J. §) a 144/2015. (VI. 12.) Korm. rendelet 30. §-a iktatta be.

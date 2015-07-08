@@ -50,7 +50,7 @@
 
 20. korrupció: a Btk. XXVII. Fejezete szerinti bűncselekmények,
 
-21.[^16] kötelezettségvállalás: az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 1. § 15. pontjában meghatározott fogalom,
+21.[^16]
 
 22.[^17] közbenső szervezet: az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU európai parlamenti és tanácsi rendelet) 66. cikk (2) bekezdésével összhangban kijelölt szervezet,
 
@@ -182,7 +182,7 @@ e)[^32] az Európai Bizottság b)–d) pont szerinti rendeletek felhatalmazása 
 [^13]: A 3. § (1) bekezdés 16. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 5. pontja szerint módosított szöveg.
 [^14]: A 3. § (1) bekezdés 17. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
 [^15]: A 3. § (1) bekezdés 18. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 6. pontja szerint módosított szöveg.
-[^16]: A 3. § (1) bekezdés 21. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 7. pontja szerint módosított szöveg.
+[^16]: A 3. § (1) bekezdés 21. pontját a 175/2015. (VII. 7.) Korm. rendelet 86. § (2) bekezdése hatályon kívül helyezte.
 [^17]: A 3. § (1) bekezdés 22. pontját a 397/2014. (XII. 31.) Korm. rendelet 96. §-a hatályon kívül helyezte, újonnan a 144/2015. (VI. 12.) Korm. rendelet 5. § (5) bekezdése iktatta be.
 [^18]: A 3. § (1) bekezdés 27. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
 [^19]: A 3. § (1) bekezdés 31. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 26. A támogatási kérelem tartalmi értékelése
 
-61. §[^166] (1) A jogosultsági kritériumoknak megfelelő támogatási kérelmeket pontozással kell értékelni.
+61. §[^167] (1) A jogosultsági kritériumoknak megfelelő támogatási kérelmeket pontozással kell értékelni.
 
 (2) Az (1) bekezdést
 
@@ -24,4 +24,4 @@ c) az egységes kérelemben benyújtott vagy egyéb terület-, illetve állatlé
 
 (4) Kiemelt kiválasztási eljárásrend esetén a támogatási kérelmek tartalmi értékelése során azt kell vizsgálni, hogy a határidőig benyújtott támogatási kérelmek megfelelnek-e a felhívásban előírt értékelési szempontoknak. A 102. § (2) bekezdés kivételével, ha a Kbt. 40. § (3) bekezdése szerinti feltételes közbeszerzési eljárás dokumentációjának műszaki tartalmát az irányító hatóság előzetesen jóváhagyta, az értékelés során kizárólag a projekt e rendelet hatálya alá tartozó forrásból való támogathatósága vizsgálható. Ha a 62. § (2) bekezdés szerinti tartalmi értékelési szempontok alapján megállapítható, hogy a kérelem nem támogatható, az iránytó hatóság a kérelmet elutasíthatja azzal, hogy a támogatást igénylőnek új kérelmet kell benyújtania.
 
-[^166]: A 61. § a 144/2015. (VI. 12.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^167]: A 61. § a 144/2015. (VI. 12.) Korm. rendelet 32. §-ával megállapított szöveg.

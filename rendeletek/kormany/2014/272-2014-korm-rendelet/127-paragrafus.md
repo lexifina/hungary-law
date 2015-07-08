@@ -1,12 +1,12 @@
-## 126/A. §[^366] A kedvezményezett a kifizetési igénylés keretében nem nyújthat be olyan, készpénzben kiegyenlített elszámoló bizonylatot, amelynek az – általános forgalmi adó felszámítása esetén az általános forgalmi adóval növelt – ellenértéke meghaladja az 1,5 millió forintot.
+## 126/A. §[^368] A kedvezményezett a kifizetési igénylés keretében nem nyújthat be olyan, készpénzben kiegyenlített elszámoló bizonylatot, amelynek az – általános forgalmi adó felszámítása esetén az általános forgalmi adóval növelt – ellenértéke meghaladja az 1,5 millió forintot.
 
-## 46. [^367] Záró kifizetési igénylés
+## 46. [^369] Záró kifizetési igénylés
 
 127. § (1) A támogatási szerződésben meghatározott határidőig záró kifizetési igénylést kell benyújtani.
 
 (2) A záró kifizetési igénylés keretében a projekt megvalósulását követően
 
-a)[^368] véglegesen el kell számolni a projekttel összefüggésben ténylegesen felmerült, korábban el nem számolt költségekkel, és
+a)[^370] véglegesen el kell számolni a projekttel összefüggésben ténylegesen felmerült, korábban el nem számolt költségekkel, és
 
 b) be kell számolni a projekt szakmai megvalósításáról, a támogatási szerződésben, illetve támogatói okirat esetén a támogatási kérelemben vállaltak teljesítéséről az egész projekt megvalósítása során.
 
@@ -14,16 +14,16 @@ b) be kell számolni a projekt szakmai megvalósításáról, a támogatási sze
 
 (4) Szállítói finanszírozású elszámoló bizonylat nem nyújtható be záró kifizetési igénylés keretében, kivéve, ha a projekt teljes egészében szállítói finanszírozással valósul meg.
 
-(5)[^369] Ha a kedvezményezett a támogatási szerződés alapján egy kifizetési igénylést nyújt be a teljes projektmegvalósítás során – azaz egyszeri elszámoló –, akkor a benyújtott kifizetési igénylése záró kifizetési igénylésnek minősül. A 77. § (1) bekezdés c) pontja értelmében az egyszeri elszámolónak az önerő rendelkezésre állását igazoló dokumentumokat, nyilatkozatokat a záró kifizetési igényléséhez nem kell csatolnia.
+(5)[^371] Ha a kedvezményezett a támogatási szerződés alapján egy kifizetési igénylést nyújt be a teljes projektmegvalósítás során – azaz egyszeri elszámoló –, akkor a benyújtott kifizetési igénylése záró kifizetési igénylésnek minősül. A 77. § (1) bekezdés c) pontja értelmében az egyszeri elszámolónak az önerő rendelkezésre állását igazoló dokumentumokat, nyilatkozatokat a záró kifizetési igényléséhez nem kell csatolnia.
 
-(6)[^370] Ha a projekt megvalósítása során a projekttel összefüggésben bevétel keletkezik, a bevételekről a záró kifizetési igénylésben kell adatot szolgáltatni.
+(6)[^372] Ha a projekt megvalósítása során a projekttel összefüggésben bevétel keletkezik, a bevételekről a záró kifizetési igénylésben kell adatot szolgáltatni.
 
 (7) A záró kifizetési igénylésben – ha korábban nem történt meg az előleg teljes összegének elszámolása – az előleggel el kell számolni.
 
 (8) Záró kifizetési igénylést akkor is be kell nyújtani, ha a kedvezményezett korábbi kifizetési igénylések keretében már a teljes megítélt támogatással elszámolt.
 
-[^366]: A 126/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 74. §-a iktatta be.
-[^367]: A 46. alcím címe a 144/2015. (VI. 12.) Korm. rendelet 100. § 155. pontja szerint módosított szöveg.
-[^368]: A 127. § (2) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 156. pontja szerint módosított szöveg.
-[^369]: A 127. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 157. pontja szerint módosított szöveg.
-[^370]: A 127. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 158. pontja szerint módosított szöveg.
+[^368]: A 126/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 74. §-a iktatta be.
+[^369]: A 46. alcím címe a 144/2015. (VI. 12.) Korm. rendelet 100. § 155. pontja szerint módosított szöveg.
+[^370]: A 127. § (2) bekezdés a) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 156. pontja szerint módosított szöveg.
+[^371]: A 127. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 157. pontja szerint módosított szöveg.
+[^372]: A 127. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 158. pontja szerint módosított szöveg.

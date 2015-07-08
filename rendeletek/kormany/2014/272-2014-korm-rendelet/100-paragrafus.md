@@ -1,8 +1,8 @@
-100. § (1)[^272] A támogatást igénylő, illetve a kedvezményezett a szerződésmódosítást, valamint a szerződésmódosítást alátámasztó valamennyi dokumentumot a szerződésmódosítást követő két munkanapon belül utóellenőrzés céljából megküldi az irányító hatóság részére. Az irányító hatóság a dokumentumok beérkezését követő tizenöt munkanapon belül elvégzi a közbeszerzési-jogi és elszámolhatósági szempontú ellenőrzést.
+100. § (1)[^274] A támogatást igénylő, illetve a kedvezményezett a szerződésmódosítást, valamint a szerződésmódosítást alátámasztó valamennyi dokumentumot a szerződésmódosítást követő két munkanapon belül utóellenőrzés céljából megküldi az irányító hatóság részére. Az irányító hatóság a dokumentumok beérkezését követő tizenöt munkanapon belül elvégzi a közbeszerzési-jogi és elszámolhatósági szempontú ellenőrzést.
 
 (2) Ha a kedvezményezett a szerződésmódosítására vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja az irányító hatóságot, az irányító hatóság az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
-(3)[^273] Ha a szerződésmódosítással összefüggésben utólagos ellenőrzés szükséges, azt az irányító hatóság folytatja le az utólagos ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő tizenöt munkanapon belül. Utólagos ellenőrzésre akkor kerül sor, ha a támogatást igénylő, illetve a kedvezményezett megszegte az (1) bekezdésben foglalt kötelezettségét és a szerződésmódosítás utóellenőrzését nem határidőben kezdeményezte. Az irányító hatóság ilyen esetben kezdeményezi a támogatást igénylő, illetve a kedvezményezett ellen szabálytalansági eljárás lefolytatását azzal, hogy az esetleges korrekcióra elsődlegesen a projektmenedzsment, illetve a közbeszerzés sorok terhére kerül sor.
+(3)[^275] Ha a szerződésmódosítással összefüggésben utólagos ellenőrzés szükséges, azt az irányító hatóság folytatja le az utólagos ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő tizenöt munkanapon belül. Utólagos ellenőrzésre akkor kerül sor, ha a támogatást igénylő, illetve a kedvezményezett megszegte az (1) bekezdésben foglalt kötelezettségét és a szerződésmódosítás utóellenőrzését nem határidőben kezdeményezte. Az irányító hatóság ilyen esetben kezdeményezi a támogatást igénylő, illetve a kedvezményezett ellen szabálytalansági eljárás lefolytatását azzal, hogy az esetleges korrekcióra elsődlegesen a projektmenedzsment, illetve a közbeszerzés sorok terhére kerül sor.
 
 (4) Az utólagos ellenőrzésről készült jelentés egyenértékű az utóellenőrzési jelentéssel.
 
@@ -10,5 +10,5 @@
 
 (6) Szabálytalansági eljárás lefolytatása esetén a szabálytalanságról e rendelet szerint hozott döntés tartalma az irányadó a támogatás folyósítása tekintetében.
 
-[^272]: A 100. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 115. pontja szerint módosított szöveg.
-[^273]: A 100. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 116. pontja szerint módosított szöveg.
+[^274]: A 100. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 115. pontja szerint módosított szöveg.
+[^275]: A 100. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 116. pontja szerint módosított szöveg.

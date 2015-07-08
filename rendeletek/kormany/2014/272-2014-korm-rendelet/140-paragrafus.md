@@ -8,7 +8,7 @@ b) pénzügyi vonatkozású szerződésmódosítási okok,
 
 c) kifizetés igénylés, előlegigénylés benyújtására vonatkozó korlátok,
 
-d)[^392] az előleg elszámolásának megkezdésére vonatkozó előírás ide nem értve a 117. § (7) bekezdés szerinti kötelezettséget, amely tagonként teljesítendő.
+d)[^394] az előleg elszámolásának megkezdésére vonatkozó előírás ide nem értve a 117. § (7) bekezdés szerinti kötelezettséget, amely tagonként teljesítendő.
 
 (2) Projektszinten, a projekt elszámolható költségei alapján kell meghatározni azon költségkategóriák körét, amelyek esetén utófinanszírozású tevékenységekre jutó előlegigénylésre, illetve fordított áfa megelőlegezésre van lehetőség.
 
@@ -18,4 +18,4 @@ d)[^392] az előleg elszámolásának megkezdésére vonatkozó előírás ide n
 
 (5) Beruházás esetén – jogszabály eltérő rendelkezése hiányában – annak a tagnak kell aktiválnia a bekerülési érték részét képező költséget, amely tag nevére a bizonylatot kiállították. Közös beszerzés esetén a szállítónak az egyes tagokat érintő részekről külön tagonkénti bizonylatot kell kiállítania.
 
-[^392]: A 140. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^394]: A 140. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 81. §-ával megállapított szöveg.
