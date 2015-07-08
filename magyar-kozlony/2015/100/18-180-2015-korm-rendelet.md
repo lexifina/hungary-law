@@ -1,0 +1,132 @@
+# A Kormány 180/2015. (VII. 8.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 100. szám, 2015. július 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5797665e842f0ad250dab4b11096e130c43b8d7c/dokumentumok/25b14473f8a22a085afc1d82926626673db3f735/letoltes)
+
+---
+
+A Kormány 180/2015. (VII. 8.) Korm. rendelete
+a nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló
+292/2013. (VII. 26.) Korm. rendelet módosításáról
+A Kormány az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény
+4. § a), b) és e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva
+a következőket rendeli el:
+1. §
+A nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló 292/2013.
+(VII. 26.) Korm. rendelet (a továbbiakban: R.) a következő 3/A. §-sal egészül ki:
+„3/A. § Az ideiglenes ellátásra történő kijelölés időtartama a kijelölés meghosszabbítása esetén sem haladhatja meg
+a három évet.”
+2. §
+Az R. 14. §-a helyébe a következő rendelkezés lép:
+„14. § (1) Az ideiglenes ellátás díjának a Tv. 1. § (3) bekezdésének való megfelelését, az ideiglenes ellátás díjából nem
+fedezhető többletköltségek indokoltságát és a többletköltségek elszámolását a (7)–(10) bekezdés szerint a Magyar
+Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
+(2) A kijelölt közérdekű szolgáltató a hulladéklerakási járulék előirányzat kezelőjétől (a továbbiakban: előirányzat
+kezelője) az ideiglenes ellátás díjából nem fedezhető indokolt többletköltségei megtérítését kérheti. Ha a kijelölés
+időtartama a 12 hónapot meghaladja, az indokolt többletköltségek finanszírozására a (8) bekezdés szerinti
+támogatási szerződés alapján, legfeljebb 12 havonta kerülhet sor. Az indokolt többletköltség alapján a támogatás
+utófinanszírozásként, 90%-a előlegként igényelhető. Az előleg nyújtását követően fennmaradó 10% támogatás vagy
+az elfogadott elszámolt többletköltség előleggel nem fedezett része a (9) bekezdés szerinti beszámoló elfogadását
+követően utólag folyósítható.
+(3) Az indokolt többletköltségek megállapítása során
+a) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék átvételének, gyűjtésének, elszállításának és
+kezelésének költsége (a hulladéklerakási járulék nélkül),
+b) a hulladék gyűjtéséhez szükséges fogyó eszközök, valamint a biztonságos munkavégzéséhez szükséges eszközök
+költsége, valamint
+c) az a) és b) pont szerinti tevékenységhez közvetlenül kapcsolódó bérköltség és munkaadót terhelő járulék költsége
+vehető figyelembe, ha e költségek az ideiglenes ellátás díjából nem fedezhetők.
+(4) A kijelölt közérdekű szolgáltató a (2) és (3) bekezdés szerinti – részletesen és teljes körűen alátámasztott –
+igényét a MEKH útján terjeszti elő az előirányzat kezelőjéhez, az ideiglenes ellátásra kijelölő döntés jogerőre
+emelkedésétől számított tizenöt napon belül.
+(5) A MEKH meghatározza, és a honlapján közzéteszi az ellenőrzéshez szükséges kötelezően benyújtandó adatok
+tartalmát és formáját, továbbá a benyújtott adatok valóságtartalmát ellenőrizheti.
+(6) A MEKH az (1) bekezdésben meghatározott feladatának ellátásához tájékoztatást, adatot kérhet a hivatásos
+katasztrófavédelmi szerv központi szervétől és a települési önkormányzattól.
+(7) A MEKH a (4) bekezdés szerinti igény beérkezését követő harminc napon belül
+a) ellenőrzi annak indokoltságát, valamint a (2) és (3) bekezdésnek való megfelelőségét, továbbá
+b) – a (12) bekezdésben meghatározott kivétellel – az egy évre vonatkozóan indokolt többletköltség alapján
+javaslatot tesz a támogatás összegére az előirányzat kezelőjének.
+(8) Az előirányzat kezelője a kijelölt közérdekű szolgáltatóval – a (12) bekezdésben meghatározott kivétellel –
+legfeljebb 12 hónapos időtartamra köt támogatási szerződést és a vonatkozó indokolt többletköltség 90%-át két
+egyenlő részletben előlegként folyósítja a közérdekű szolgáltató részére a támogatási szerződés aláírását követően,
+valamint legkésőbb a támogatási szerződésben rögzített finanszírozási időszak második felének első napjától.
+
+(9) Az előlegként nyújtott támogatás elszámolásáról a kijelölt közérdekű szolgáltató a támogatás teljes összegére
+vonatkozóan a MEKH által meghatározott formában szakmai és pénzügyi beszámolót készít, amelyet a támogatási
+szerződés lejártát követő tizenötödik napig a MEKH útján terjeszt elő az előirányzat kezelőjéhez.
+(10) A MEKH a (9) bekezdés szerinti beszámoló beérkezését követő harminc napon belül
+a) ellenőrzi a beszámoló megalapozottságát,
+b) tájékoztatja az előirányzat kezelőjét az elfogadottan elszámolt többletköltség előleggel nem fedezett részének
+támogatásként történő kifizetésére vonatkozóan, megadva az elfogadottan elszámolt, illetve a megalapozatlanul
+igénybe vett támogatás összegét, és javaslatot tesz a visszafizetendő összegre,
+c) az elszámolás hiányossága miatt a fennmaradó támogatás folyósítását nem javasolja.
+(11) Az előirányzat kezelője a beszámoló elfogadása esetén
+a) dönt – az előlegként kifizetett támogatás összegére tekintettel – a MEKH által elfogadott elszámolt többletköltség
+előleggel nem fedezett részének támogatásként történő kifizetéséről, ideértve a (14) bekezdésben meghatározott
+esetet is, vagy a megalapozatlanul igénybe vett támogatás összegének a kijelölt közérdekű szolgáltató általi
+visszafizetéséről,
+b) gondoskodik a MEKH által elfogadott elszámolt többletköltség előleggel nem fedezett részének támogatásként
+történő kifizetéséről.
+(12) Ha az ideiglenes ellátásra kijelölés időtartama a 12 hónapot nem éri el,
+a) a (7) bekezdés szerinti eljárásban a MEKH a kijelölés időtartamára tesz javaslatot az indokolt többletköltség
+alapján a támogatás összegére az előirányzat kezelőjének,
+b) a (8) bekezdés szerinti eljárásban az előirányzat kezelője a kijelölt közérdekű szolgáltatóval a kijelölés
+időtartamára köt támogatási szerződést és a vonatkozó indokolt többletköltség 90%-át előlegként, – amennyiben
+az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet lehetővé teszi – egy részletben folyósítja
+a közérdekű szolgáltató részére.
+(13) Ha az ideiglenes ellátásra kijelölés időtartama a 12 hónapot meghaladja, de a 12 hónapot meghaladó időtartam
+nem éri el az újabb 12 hónapot (a továbbiakban: tört év), a tört évre a (12) bekezdésben foglaltakat kell megfelelően
+alkalmazni.
+(14) Ha a (9) bekezdés szerinti beszámoló alapján megállapítható, hogy a MEKH által elfogadott elszámolt
+többletköltség meghaladja a (8) bekezdés szerinti támogatási szerződésben meghatározott támogatás
+összegét, a kijelölt közérdekű szolgáltató kérelmére és a MEKH javaslatára az előirányzat kezelője a különbözetet
+– a (8) bekezdés szerinti támogatási szerződés módosítását vagy a kijelölt közérdekű szolgáltatóval történő új
+támogatási szerződés kötését követően – támogatásként folyósítja a (8) bekezdésben foglalt határidőben a kijelölt
+közérdekű szolgáltató részére.”
+3. §
+Az R. a következő 14/A. és 14/B. §-sal egészül ki:
+„14/A. § (1) A kijelölt közérdekű szolgáltató a támogatási szerződés alapján az indokolt többletköltségek első
+alkalommal (előlegként) történő folyósításáig is köteles az ideiglenes ellátás folyamatos biztosítására.
+(2) Ha az indokolt többletköltségek mértékében változás következik be, az ennek finanszírozására vonatkozó
+igényt a MEKH a 14. § (9) bekezdése szerinti beszámoló vizsgálata során bírálja el. Az igény érvényesítésére a 14. §
+rendelkezéseit megfelelően alkalmazni kell.
+14/B. § (1) A 14. § (2) bekezdése szerinti költségvetési támogatás mértékét az Európai Unió működéséről szóló
+szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes
+vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról
+szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (a továbbiakban: 2012/21/EU bizottsági határozat)
+5. cikke szerint – a kijelölt közérdekű szolgáltató nyilatkozata alapján – állapítja meg az előirányzat kezelője.
+(2) Ha a közérdekű szolgáltató a 2012/21/EU bizottsági határozat 5. cikkének megfelelően meghatározott összeget
+meghaladó támogatásban részesül, köteles a támogató által meghatározott határidőben a túlkompenzációt
+visszafizetni.
+(3) A közérdekű szolgáltató a támogatásról olyan elkülönített elszámolást köteles vezetni, amelyből
+az (1) bekezdésben meghatározott követelmények ellenőrizhetőek.”
+4. §
+Az R. a következő 18. és 19. §-sal egészül ki:
+„18. § (1) E rendeletnek a nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek
+kijelöléséről szóló 292/2013. (VII. 26.) Korm. rendelet módosításáról szóló 180/2015. (VII. 8.) Korm. rendelettel
+
+(a továbbiakban: Mód. Kr. 1.) megállapított 3/A. §-át a Mód. Kr. 1. hatálybalépésekor folyamatban lévő ideiglenes
+ellátásra irányuló kijelölési eljárás során is alkalmazni kell.
+(2) Ha a Mód. Kr. 1. hatálybalépését megelőzően került sor az ideiglenes ellátásra irányuló kijelölő döntés
+meghozatalára, a kijelölés időtartamának lejártakor, illetve a kijelölés meghosszabbításának lejártakor a Mód. Kr. 1.
+által megállapított 3/A. §-t megfelelően alkalmazni kell azzal, hogy a kijelölés teljes időtartama a Mód. Kr. 1. által
+megállapított 3/A. §-ban foglalt időtartamot nem haladhatja meg.
+(3) Ha a Mód. Kr. 1. hatálybalépését megelőzően került sor az ideiglenes ellátásra irányuló kijelölő döntés
+meghozatalára, azonban az igény benyújtására még nem került sor, a Mód. Kr. 1. által megállapított 14. §-t, 14/A. §-t
+és 14/B. §-t alkalmazni kell, és a közérdekű szolgáltató a Mód. Kr. 1. által megállapított 14. § (2) bekezdés szerinti
+igényét a Mód. Kr. 1. hatálybalépésétől számított tizenöt napon belül terjesztheti elő a MEKH-nak.
+19. § (1) Ez a rendelet az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános
+gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése
+formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági
+határozat hatálya alá tartozó támogatást tartalmaz.
+(2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és
+tanácsi irányelvnek való megfelelést szolgálja.”
+5. §
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+6. § (1) E rendelet 2. és 3. §-a az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános
+gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése
+formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági
+határozat hatálya alá tartozó támogatást tartalmaz.
+(2) E rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
