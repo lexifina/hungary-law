@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-210-20-
 | 2014-01-01 | 2010-210-20-22.7 | 545/2013. (XII. 30.) Korm. rendelet |
 | 2014-08-28 | 2010-210-20-22.8 | 214/2014. (VIII. 27.) Korm. rendelet |
 | 2014-09-05 | 2010-210-20-22.9 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2015-07-08 | 2010-210-20-22.10 | 113/2011. (VII. 7.) Korm. rendelet |

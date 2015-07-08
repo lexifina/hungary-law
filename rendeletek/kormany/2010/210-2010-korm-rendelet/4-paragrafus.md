@@ -1,4 +1,4 @@
-## 3/A. §[^6] Az államháztartásról szóló törvény 109. § (2) bekezdés c) pontjában meghatározott szervként a Kormány a Főigazgatóságot jelöli ki.
+## 3/A. §[^6] Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (2) bekezdés c) pontjában meghatározott szervként a Kormány a Főigazgatóságot jelöli ki.
 
 ## A Főigazgatóság ellenőrzési hatósági feladatai
 
@@ -30,6 +30,6 @@ d) a transznacionális Duna Programmal
 
 (3) Az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló 1605/2002/EK (2002. június 25.) Rendelet 53b cikkének (3) bekezdésében, valamint az Európai Közösségek általános költségvetésére alkalmazandó költségvetési rendeletről szóló 1605/2002/EK Rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló 2342/2002/EK Rendelet 42a cikkében foglaltak teljesítése érdekében a Főigazgatóság minden év február 15-ig – az Európai Bizottság módszertani iránymutatásainak megfelelően – összegzi a rendelkezésére álló ellenőrzési jelentéseket, véleményeket, igazolásokat és nyilatkozatokat. A feladat végrehajtása érdekében az államháztartásért felelős miniszter megküldi a Főigazgatóság részére az egyéb jogszabályok alapján számára megküldött jelentéseket, véleményeket, igazolásokat, és nyilatkozatokat, melyek a Főigazgatóságnak nem állnak rendelkezésére.
 
-[^6]: A 3/A. §-t a 113/2011. (VII. 7.) Korm. rendelet 48. §-a iktatta be, szövege a 206/2012. (VII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 3/A. §-t a 113/2011. (VII. 7.) Korm. rendelet 48. §-a iktatta be, szövege a 206/2012. (VII. 27.) Korm. rendelet 1. §-ával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 65. §-a szerint módosított szöveg.
 [^7]: A 4. § (2a) bekezdését a 545/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^8]: A 4. § (2a) bekezdés a) pontja a 214/2014. (VIII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
