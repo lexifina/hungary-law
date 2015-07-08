@@ -1,4 +1,4 @@
-8. § (1) Az Ávr. 76. § (1) bekezdésében meghatározottakon kívül e rendelet alapján nem nyújtható támogatás
+8. § (1)[^1] Az Ávr. 81. §-ában meghatározottakon kívül e rendelet alapján nem nyújtható támogatás
 
 a) acélipari tevékenységhez;
 
@@ -57,3 +57,5 @@ e) annak a vállalkozásnak, amelyik a beruházást vagy a fejlesztést olyan b�
 f) olyan vállalkozásnak, vagy olyan vállalkozás kapcsolt vállalkozásának, amely az Európai Bizottság korábbi döntése alapján jogellenes és a közös piaccal összeegyeztethetetlen támogatásban részesült, és ezért a támogatás visszafizetésére kötelezték és ezen visszafizetési kötelezettségének nem tett eleget,
 
 g) olyan beruházáshoz, amely bármely más vissza nem térítendő pénzbeli támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
+
+[^1]: A 8. § (1) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 82. § 1. pontja szerint módosított szöveg.

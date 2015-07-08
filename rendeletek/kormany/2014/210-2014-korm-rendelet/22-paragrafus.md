@@ -1,4 +1,4 @@
-22. § (1) A támogatási kérelmet a kezelő szerv megvizsgálja, szükség esetén hiánypótlásra szólítja fel a beruházót. A hiánypótlásra az Ávr. 67. § (2) és (3) bekezdését megfelelően alkalmazni kell.
+22. § (1)[^2] A támogatási kérelmet a kezelő szerv megvizsgálja, szükség esetén hiánypótlásra szólítja fel a beruházót. A hiánypótlásra az Ávr. 70. § (3) bekezdését megfelelően alkalmazni kell.
 
 (2) A kezelő szerv a támogatási kérelem szakmai elbírálását követően a támogató megbízásából a támogatóval egyeztetett feltételes támogatási ajánlatot tesz a beruházónak. A feltételes támogatási ajánlat nem minősül kötelezettségvállalásnak.
 
@@ -11,3 +11,5 @@
 (6) A támogatásra vonatkozó közérdekű adatoknak a jogszabályi előírásoknak megfelelő nyilvánosságra hozataláról – ideértve különösen az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti, a támogatási szerződésnek az üzleti titok és a személyes adatok tiszteletben tartásával történő hozzáférhetővé tételére vonatkozó kötelezettséget – a támogató gondoskodik.
 
 (7) A megkötött támogatási szerződéssel kapcsolatos valamennyi jogi aktus, különös tekintettel annak módosítása vagy bármilyen okból történő megszüntetése, a támogató döntésével történhet.
+
+[^2]: A 22. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 82. § 2. pontja szerint módosított szöveg.

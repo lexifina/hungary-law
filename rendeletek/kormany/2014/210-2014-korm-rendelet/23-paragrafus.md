@@ -8,4 +8,6 @@
 
 (4) Ha a támogatás a megítélt összegnél alacsonyabb összegben kerül folyósításra, és a beruházó a számára nem folyósított összeg igénybevételéről írásban lemond, a beruházó a támogató előzetes jóváhagyásával jogosult a folyósított támogatási összeg százhúsz százalékára vonatkozó biztosítékkal kiváltani a támogatási szerződés hatálybalépésekor benyújtott biztosítékot.
 
-(5) E rendelet vonatkozásában az Ávr. 77. §-a nem alkalmazandó.
+(5)[^3]
+
+[^3]: A 23. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 83. §-a hatályon kívül helyezte.
