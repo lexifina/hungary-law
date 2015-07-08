@@ -1,1 +1,0 @@
-## 5. § A kárpótlás céljára átadott összeg tárgyévi felhasználásáról, valamint az egyösszegű kárpótlás végrehajtásával kapcsolatos törvényi kötelezettség teljesítéséről a Magyar Köztársaság költségvetésének végrehajtásáról szóló törvény keretében kell elszámolni.
