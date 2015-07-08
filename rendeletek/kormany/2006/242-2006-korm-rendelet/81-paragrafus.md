@@ -4,9 +4,9 @@ a) az elvégzett kockázatelemzés leírását és a minták kiválasztásának 
 
 b) az ellenőrzött időszakra vonatkozóan az ellenőrzött kiadások összegét évenkénti és projektenkénti bontásban.
 
-(2)[^120] Az EUTAF a feltárt hiányosságok kapcsán elvégzett pénzügyi korrekciók megfelelőségét, és az esetleges rendszerjellegű hibák kiküszöbölése érdekében megtett intézkedéseket nyomon követi.
+(2)[^124] Az EUTAF a feltárt hiányosságok kapcsán elvégzett pénzügyi korrekciók megfelelőségét, és az esetleges rendszerjellegű hibák kiküszöbölése érdekében megtett intézkedéseket nyomon követi.
 
-(3)[^121] A finanszírozási mechanizmusok ellenőrzésében részt vevő szerv jelentését az intézkedési tervvel együtt az ellenőrzés lezárását követő 40 napon belül megküldi az EUTAF részére.
+(3)[^125] A finanszírozási mechanizmusok ellenőrzésében részt vevő szerv jelentését az intézkedési tervvel együtt az ellenőrzés lezárását követő 40 napon belül megküldi az EUTAF részére.
 
-[^120]: A 81. § (2) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
-[^121]: A 81. § (3) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
+[^124]: A 81. § (2) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
+[^125]: A 81. § (3) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.

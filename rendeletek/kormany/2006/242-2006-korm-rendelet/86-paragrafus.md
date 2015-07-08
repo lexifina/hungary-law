@@ -1,4 +1,4 @@
-86. §[^130] (1) Az elkülönített számviteli nyilvántartások vezetése során a Végrehajtó Ügynökség felelős a következő információk biztosításáért:
+86. §[^134] (1) Az elkülönített számviteli nyilvántartások vezetése során a Végrehajtó Ügynökség felelős a következő információk biztosításáért:
 
 a) a Végrehajtó Ügynökség által a lebonyolítási számlákról, illetve TA esetén a Nemzeti Kapcsolattartó által a TA lebonyolítási bankszámláról a projektgazda részére kifizetett támogatás összege finanszírozási mechanizmusonként,
 
@@ -10,4 +10,4 @@ c) a Végrehajtó Ügynökség, illetve TA esetén a Nemzeti Kapcsolattartó ál
 
 (3) A Technikai Segítségnyújtás keret felhasználására vonatkozó információkat a Nemzeti Kapcsolattartó biztosítja a Végrehajtó Ügynökség számára.
 
-[^130]: A 86. § a 155/2010. (V. 4.) Korm. rendelet 38. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
+[^134]: A 86. § a 155/2010. (V. 4.) Korm. rendelet 38. §-ával megállapított szöveg. E módosító rendelet 56. § (2) bekezdése alapján a folyamatban levő ügyekre is alkalmazni kell.
