@@ -1,3 +1,3 @@
-## 78/A. §[^58] A lakosság katasztrófa riasztását a BM OKF főigazgatója által kijelölt személy rendelheti el és oldhatja fel, amelyről értesíti a légierő ügyeletes parancsnokát.
+## 78/A. §[^60] A lakosság katasztrófa riasztását a BM OKF főigazgatója által kijelölt személy rendelheti el és oldhatja fel, amelyről értesíti a légierő ügyeletes parancsnokát.
 
-[^58]: A 78/A. §-t a 267/2013. (VII. 11.) Korm. rendelet 10. §-a iktatta be.
+[^60]: A 78/A. §-t a 267/2013. (VII. 11.) Korm. rendelet 10. §-a iktatta be.
