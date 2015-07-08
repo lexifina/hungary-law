@@ -1,6 +1,6 @@
-87. §[^189] (1) A költségvetési támogatás a beszámoló vagy a részbeszámoló elfogadását megelőzően is – a költségvetési támogatás céljához, a támogatott tevékenység megvalósítási időszakának hosszához, a kedvezményezett saját forrásának mértékéhez igazodó módon – folyósítható (a továbbiakban: támogatási előleg).
+87. §[^206] (1) A költségvetési támogatás a beszámoló vagy a részbeszámoló elfogadását megelőzően is – a költségvetési támogatás céljához, a támogatott tevékenység megvalósítási időszakának hosszához, a kedvezményezett saját forrásának mértékéhez igazodó módon – folyósítható (a továbbiakban: támogatási előleg).
 
-(2) A támogatási előleg nyújtásának a lehetőségét és a támogatási előleg összegét a pályázati kiírás vagy a támogatási szerződés határozza meg.
+(2)[^207] A támogatási előleg összegét a pályázati kiírás vagy a támogatási szerződés határozza meg.
 
 (3) A 76. § (1) bekezdés d) pontja szerinti költségterv szerint részletekben kell folyósítani azt a támogatási előleget, amely az ötmillió forintot meghaladja. E rendelkezést nem kell alkalmazni
 
@@ -12,4 +12,5 @@ c) a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetébő
 
 (4) A támogatási előleget vagy annak első részletét a támogatási szerződésben meghatározott határidőn belül kell folyósítani.
 
-[^189]: Az Ávr. 87. §-a a 82/2015. (III. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^206]: Az Ávr. 87. §-a a 82/2015. (III. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^207]: Az Ávr. 87. § (2) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 29. § (1) bekezdés 1. pontja szerint módosított szöveg.

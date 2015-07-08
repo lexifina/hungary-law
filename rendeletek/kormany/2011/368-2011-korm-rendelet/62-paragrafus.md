@@ -2,9 +2,9 @@
 
 ## A GAZDÁLKODÁS SAJÁTOS SZABÁLYAI
 
-## [Az Áht. 44. §-ához][^172]
+## [Az Áht. 44. §-ához][^181]
 
-62. §[^173] (1) A központosított illetményszámfejtés keretében
+62. §[^182] (1) A központosított illetményszámfejtés keretében
 
 a) a személyi juttatások számfejtése,
 
@@ -24,5 +24,5 @@ a Kincstár által biztosított, fejlesztett és működtetett számítógépes 
 
 (2) A személyi juttatások számfejtése nem terjed ki a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 8.19. pont b) alpontja szerinti adómentes reprezentációs és üzleti ajándék kiadásokra.
 
-[^172]: Az Ávr. 62. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^173]: Az Ávr. 62. §-a a 397/2014. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^181]: Az Ávr. 62. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^182]: Az Ávr. 62. §-a a 397/2014. (XII. 31.) Korm. rendelet 24. §-ával megállapított szöveg.

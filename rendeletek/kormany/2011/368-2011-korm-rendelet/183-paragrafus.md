@@ -1,3 +1,3 @@
-183. §[^407] Az államháztartás központi alrendszerében a 2015. január és február hónapokról készített időközi költségvetési jelentést a Kincstár abban az esetben is elfogadja, ha ahhoz az 5. mellékletében foglalt táblázat E:21 mezőjétől eltérően az adatszolgáltató főkönyvi kivonatot nem mellékelt.
+183. §[^465]
 
-[^407]: Az Ávr. 183. §-át a 82/2015. (III. 31.) Korm. rendelet 4. §-a iktatta be.
+[^465]: Az Ávr. 183. §-át a 82/2015. (III. 31.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 175/2015. (VII. 7.) Korm. rendelet 29. § (2) bekezdés 8. pontja.

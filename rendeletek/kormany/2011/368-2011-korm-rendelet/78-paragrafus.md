@@ -6,4 +6,9 @@
 
 a) a támogatási igényt, részbeszámolót, beszámolót és az e Fejezetben, a pályázati kiírásban vagy a támogatási szerződésben meghatározott más nyilatkozatot, dokumentumot a helyi önkormányzat, társult feladatellátás esetében a társulás székhelye szerinti vagy a társulási megállapodásban meghatározott helyi önkormányzat a Kincstár helyi önkormányzat székhelye szerint illetékes területi szervéhez (a továbbiakban: Igazgatóság) nyújtja be,
 
-b) a 97. § (1) bekezdése szerinti bejelentést a kedvezményezett – a költségvetési évben lemondással és a visszafizetés teljesítéséről szóló pénzügyi szolgáltatói igazolás csatolásával együtt, a költségvetési támogatás folyósítását követő évben kizárólag a visszafizetés teljesítéséről szóló pénzügyi szolgáltatói igazolással – a Kincstár útján teljesíti a támogató felé.
+b)[^204] a 97. § (1) bekezdése szerinti bejelentést a kedvezményezett – a nem nettó finanszírozás keretében folyósított költségvetési támogatás esetében költségvetési évben lemondással és (a részletfizetés iránti kérelem benyújtása kivételével) a visszafizetés teljesítéséről szóló pénzügyi szolgáltatói igazolás csatolásával együtt, a költségvetési támogatás folyósítását követő évben kizárólag a visszafizetés teljesítéséről szóló pénzügyi szolgáltatói igazolással – a Kincstár útján teljesíti a támogató felé.
+
+(3)[^205] A nem nettó finanszírozás keretében folyósított költségvetési támogatásról való lemondást legkésőbb a költségvetési év november 30-áig lehet benyújtani. A lemondás hibáinak, hiányosságainak pótlására a 70. § (3) bekezdését kell alkalmazni. A hibátlan, hiánytalan lemondást a benyújtást vagy a hiánypótlás teljesítését követő öt napon belül a Kincstár a helyi önkormányzatokért felelős miniszternek megküldi.
+
+[^204]: Az Ávr. 78. § (2) bekezdés b) pontja a 175/2015. (VII. 7.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^205]: Az Ávr. 78. § (3) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 11. § (2) bekezdése iktatta be.

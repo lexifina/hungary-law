@@ -4,7 +4,7 @@ a) az Egészségbiztosítási Alap gyógyító-megelőző ellátás előirányza
 
 b) az a) pont szerinti egészségügyi szolgáltatók, valamint a kifizetőhelyi azonosítóval ellátott helyi önkormányzatok által folyósított, megelőlegezett társadalombiztosítási ellátások összegének átvezetéséről a tárgyhónap 19-éig rendelkezik az Igazgatóság adatszolgáltatása alapján.
 
-(1a)[^245] Az Egészségbiztosítási Alap részére a központi költségvetés XLII. fejezetén belül a kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti támogatás átutalása
+(1a)[^296] Az Egészségbiztosítási Alap részére a központi költségvetés XLII. fejezetén belül a kiadások támogatására pénzeszköz-átadás jogcímcsoport szerinti támogatás átutalása
 
 a) január–november hónapban havonta a tárgyhó 10. napjáig az éves előirányzat havi időarányos összegével,
 
@@ -12,20 +12,20 @@ b) december hónapban legfeljebb az éves előirányzat havi időarányos össze
 
 történik. Ha az Egészségbiztosítási Alap tárgyévi utolsó bevételének beérkezése és az utolsó ellátás kifizetése után az Egészségbiztosítási Alap pénzforgalmi egyenlege többletet mutat, a Kincstár intézkedik a többlet összegének visszautalásáról, amely az e bekezdés szerinti támogatást csökkenti.
 
-(1b)[^246] A Kincstár az Egészségbiztosítási Alap részére a központi költségvetés XX. fejezetén belül a közgyógyellátás jogcímcsoport előirányzatából, továbbá a központi költségvetés XLII. fejezetén belül a rokkantsági, rehabilitációs ellátások fedezetére átadott pénzeszköz jogcímcsoport előirányzatából a folyósító szerv által benyújtott és az államháztartásért felelős miniszter által jóváhagyott finanszírozási terv alapján finanszírozást teljesít.
+(1b)[^297] A Kincstár az Egészségbiztosítási Alap részére a központi költségvetés XX. fejezetén belül a közgyógyellátás jogcímcsoport előirányzatából, továbbá a központi költségvetés XLII. fejezetén belül a rokkantsági, rehabilitációs ellátások fedezetére átadott pénzeszköz jogcímcsoport előirányzatából a folyósító szerv által benyújtott és az államháztartásért felelős miniszter által jóváhagyott finanszírozási terv alapján finanszírozást teljesít.
 
-(2)[^247] Az Egészségbiztosítási Alap kezelő szerve az Egészségbiztosítási Alapból finanszírozott, az (1) bekezdés a) pontja hatálya alá nem tartozó egészségügyi szolgáltatók számára kiutalandó támogatások összegéről a tárgyhót megelőző hónap utolsó munkanapjáig ad megbízást a Kincstárnak, amelyet a Kincstár a 4. melléklet szerint teljesít.
+(2)[^298] Az Egészségbiztosítási Alap kezelő szerve az Egészségbiztosítási Alapból finanszírozott, az (1) bekezdés a) pontja hatálya alá nem tartozó egészségügyi szolgáltatók számára kiutalandó támogatások összegéről a tárgyhót megelőző hónap utolsó munkanapjáig ad megbízást a Kincstárnak, amelyet a Kincstár a 4. melléklet szerint teljesít.
 
-(3)[^248]
+(3)[^299]
 
-(4)[^249] Az Egészségbiztosítási Alap kezelő szerve és a Kincstár az (1) és (2) bekezdéstől eltérő időpontú finanszírozási összeg, vagy jogszabály alapján igényelhető előleg átutalásáról is rendelkezhet.
+(4)[^300] Az Egészségbiztosítási Alap kezelő szerve és a Kincstár az (1) és (2) bekezdéstől eltérő időpontú finanszírozási összeg, vagy jogszabály alapján igényelhető előleg átutalásáról is rendelkezhet.
 
 (5) Az Egészségbiztosítási Alap kezelő szerve az (1) bekezdés a) pontja szerint finanszírozott egészségügyi szolgáltatókat – a (6) bekezdés szerinti eset kivételével – az érintett helyi önkormányzat vagy – a helyi önkormányzat tájékoztatásával – az egészségügyi szolgáltató kezdeményezésére évente felülvizsgálja. A helyi önkormányzat, egészségügyi szolgáltató a felülvizsgálatot a költségvetési évet megelőző év október 31-éig kezdeményezheti az (1) bekezdés a) pontja szerinti arány dokumentálásával.
 
 (6) A gazdálkodási formaváltás esetén az Igazgatóság a törzskönyvi nyilvántartás alapján – az Egészségbiztosítási Alap kezelő szervének értesítésével egyidejűleg – törli az intézményt az (1) bekezdés a) pontja szerint finanszírozott egészségügyi szolgáltatók közül.
 
-[^245]: Az Ávr. 139. § (1a) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
-[^246]: Az Ávr. 139. § (1b) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
-[^247]: Az Ávr. 139. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 44. § 43. pontja szerint módosított szöveg.
-[^248]: Az Ávr. 139. § (3) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 17. pontja hatályon kívül helyezte.
-[^249]: Az Ávr. 139. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 44. § 44. pontja szerint módosított szöveg.
+[^296]: Az Ávr. 139. § (1a) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
+[^297]: Az Ávr. 139. § (1b) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
+[^298]: Az Ávr. 139. § (2) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 44. § 43. pontja szerint módosított szöveg.
+[^299]: Az Ávr. 139. § (3) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 17. pontja hatályon kívül helyezte.
+[^300]: Az Ávr. 139. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 44. § 44. pontja szerint módosított szöveg.

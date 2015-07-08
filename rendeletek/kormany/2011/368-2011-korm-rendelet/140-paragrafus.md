@@ -2,59 +2,59 @@
 
 140. § (1) Az Áht. 83. § (1) bekezdése szerinti személyi juttatásokat terhelő közterheknek a személyi juttatásokat, valamint az egyéb kifizetéseket terhelő adók, járulékok, magánnyugdíjpénztári tagdíjak minősülnek.
 
-(2)[^250] Az Áht. 83. § (1) bekezdése szerinti egyéb kötelezettségnek minősül:
+(2)[^301] Az Áht. 83. § (1) bekezdése szerinti egyéb kötelezettségnek minősül:
 
 a) a helyi önkormányzat, továbbá az Egészségbiztosítási Alapból finanszírozott helyi önkormányzati költségvetési szerv által az Igazgatóság részére engedményezett forgótőke,
 
 b) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 74. § (6) bekezdése szerinti hozzájárulás, ha azt a helyi önkormányzat két egymást követő hónapban nem fizette meg,
 
-c)[^251] az Áht. 108. § (3) bekezdése szerinti bírság, és
+c)[^302] az Áht. 108. § (3) bekezdése szerinti bírság, és
 
 d) jogszabály alapján érvényesített más levonási kötelezettség.
 
-(3)[^252] Az Áht. 83. § (1) bekezdése szerinti támogatások összegét az e § és a 143. § (2) bekezdése szerinti összegek hozzáadásával és levonásával, továbbá a helyi önkormányzat által folyósított (megelőlegezett) társadalombiztosítási és az e körben folyósítandó családtámogatási ellátások megtérítendő összege hozzáadásával, – ha a központi költségvetésről szóló törvény eltérően nem rendelkezik – a 4. melléklet szerinti ütemezésben kell folyósítani. A megyei önkormányzat esetén a helyi önkormányzatokért felelős miniszter ettől – a megyei önkormányzatnak a tárgyhó ötödik napjáig benyújtott kérelmére – eltérést engedélyezhet.
+(3)[^303] Az Áht. 83. § (1) bekezdése szerinti támogatások összegét az e § és a 143. § (2) bekezdése szerinti összegek hozzáadásával és levonásával, továbbá a helyi önkormányzat által folyósított (megelőlegezett) társadalombiztosítási és az e körben folyósítandó családtámogatási ellátások megtérítendő összege hozzáadásával, – ha a központi költségvetésről szóló törvény eltérően nem rendelkezik – a 4. melléklet szerinti ütemezésben kell folyósítani. A megyei önkormányzat esetén a helyi önkormányzatokért felelős miniszter ettől – a megyei önkormányzatnak a tárgyhó ötödik napjáig benyújtott kérelmére – eltérést engedélyezhet.
 
-(4)[^253] A Kincstár az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter egyetértésével kidolgozza a nettó finanszírozás lebonyolításának szabályait és a feladatok időbeni lebonyolítását tartalmazó aktuális űrlap garnitúrát, amelyet folyamatosan frissítve, első esetben tárgyév január 31-éig, majd a módosulásokkal egyidejűleg a honlapján közzétesz.
+(4)[^304] A Kincstár az államháztartásért felelős miniszter és a helyi önkormányzatokért felelős miniszter egyetértésével kidolgozza a nettó finanszírozás lebonyolításának szabályait és a feladatok időbeni lebonyolítását tartalmazó aktuális űrlap garnitúrát, amelyet folyamatosan frissítve, első esetben tárgyév január 31-éig, majd a módosulásokkal egyidejűleg a honlapján közzétesz.
 
-(5)[^254] A helyi önkormányzatokért felelős miniszter a 4. melléklet alapján a helyi önkormányzatokat megillető támogatásokat a tárgyhó 18-áig utalványozza.
+(5)[^305] A helyi önkormányzatokért felelős miniszter a 4. melléklet alapján a helyi önkormányzatokat megillető támogatásokat a tárgyhó 18-áig utalványozza.
 
-(6)[^255] A folyósítás során a 104. § (1) és (2) bekezdése szerinti finanszírozási különbözeteket az alábbiak szerint kell érvényesíteni:
+(6)[^306] A folyósítás során a 104. § (1) és (2) bekezdése szerinti finanszírozási különbözeteket az alábbiak szerint kell érvényesíteni:
 
-a)[^256] a helyi önkormányzatok lemondott általános működéséhez és ágazati feladataihoz kapcsolódó támogatásának időarányos részét egy összegben, az adatszolgáltatás határidejét követő második hónapban esedékes nettó finanszírozás során, és
+a)[^307] a helyi önkormányzatok lemondott általános működéséhez és ágazati feladataihoz kapcsolódó támogatásának időarányos részét egy összegben, az adatszolgáltatás határidejét követő második hónapban esedékes nettó finanszírozás során, és
 
-b)[^257] az adatszolgáltatás határidejét követő második hónapban a többletigény elmaradt időarányos része egy összegben, a fennmaradó rész a 4. mellékletben előírt arányoknak megfelelően kerül utalásra a nettó finanszírozás során.
+b)[^308] az adatszolgáltatás határidejét követő második hónapban a többletigény elmaradt időarányos része egy összegben, a fennmaradó rész a 4. mellékletben előírt arányoknak megfelelően kerül utalásra a nettó finanszírozás során.
 
-(7)[^258] A nettó finanszírozás keretében folyósított támogatások módosítása szerinti finanszírozási különbözeteket a következők szerint kell érvényesíteni:
+(7)[^309] A nettó finanszírozás keretében folyósított támogatások módosítása szerinti finanszírozási különbözeteket a következők szerint kell érvényesíteni:
 
-a)[^259] a 107. § alapján a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó lemondott támogatás időarányos részét egy összegben, a központi költségvetésről szóló törvényben meghatározottak szerinti hónapban esedékes nettó finanszírozás során,
+a)[^310] a 107. § alapján a helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó lemondott támogatás időarányos részét egy összegben, a központi költségvetésről szóló törvényben meghatározottak szerinti hónapban esedékes nettó finanszírozás során,
 
-b)[^260] a lemondott költségvetési támogatást – az engedélyezett részletfizetés esetét kivéve – egy összegben, legkésőbb a lemondás kezdeményezését követő második hónapban esedékes nettó finanszírozás során,
+b)[^311] a lemondott költségvetési támogatást – az engedélyezett részletfizetés esetét kivéve – egy összegben, legkésőbb a lemondás kezdeményezését követő második hónapban esedékes nettó finanszírozás során,
 
-c)[^261] az Áht. 60/A. § (3) bekezdése alapján engedélyezett részletfizetés esetén az első részletet legkésőbb a Kincstár értesítését követő második hónapban esedékes nettó finanszírozás során, a fennmaradó részleteket ezt követően folyamatosan,
+c)[^312] az Áht. 60/A. § (3) bekezdése alapján engedélyezett részletfizetés esetén az első részletet legkésőbb a Kincstár értesítését követő második hónapban esedékes nettó finanszírozás során, a fennmaradó részleteket ezt követően folyamatosan,
 
-d)[^262] az Áht. 60/A. § (3) bekezdése alapján elutasított részletfizetés esetén egy összegben, legkésőbb a lemondás kincstári kezdeményezését követő második hónapban esedékes nettó finanszírozás során, és
+d)[^313] az Áht. 60/A. § (3) bekezdése alapján elutasított részletfizetés esetén egy összegben, legkésőbb a lemondás kincstári kezdeményezését követő második hónapban esedékes nettó finanszírozás során, és
 
 e) a pótlólagos igénylés során jelentkező finanszírozási különbözetet a központi költségvetésről szóló törvényben meghatározottak szerinti hónaptól kezdődően a (6) bekezdés b) pontja szerinti módon.
 
-(8)[^263] Ha a helyi önkormányzatot a nettó finanszírozás keretében megillető összeg a lemondással érintett összeg egészére nem nyújt fedezetet, a Kincstár a következő havi nettó finanszírozás során ismét megkísérli a lemondással érintett összeg érvényesítését. Ennek ismételt meghiúsulása esetén a Kincstár az Áht. 60/A. §-a szerint jár el.
+(8)[^314] Ha a helyi önkormányzatot a nettó finanszírozás keretében megillető összeg a lemondással érintett összeg egészére nem nyújt fedezetet, a Kincstár a következő havi nettó finanszírozás során ismét megkísérli a lemondással érintett összeg érvényesítését. Ennek ismételt meghiúsulása esetén a Kincstár az Áht. 60/A. §-a szerint jár el.
 
-(9)[^264] A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított támogatások évközi folyósítása nem követi a helyi önkormányzatok szétválását, egyesülését és a helyi önkormányzatok egymás közötti év közbeni feladatátadását. A finanszírozás módosításáról a helyi önkormányzat gondoskodik a 107. § szerint, vagy a finanszírozást pénzeszköz átadással, átvétellel egymás közötti megállapodás útján rendezik.
+(9)[^315] A központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított támogatások évközi folyósítása nem követi a helyi önkormányzatok szétválását, egyesülését és a helyi önkormányzatok egymás közötti év közbeni feladatátadását. A finanszírozás módosításáról a helyi önkormányzat gondoskodik a 107. § szerint, vagy a finanszírozást pénzeszköz átadással, átvétellel egymás közötti megállapodás útján rendezik.
 
-(10)[^265] A forgótőke tárgyhavi visszapótlására csak addig a mértékig kerülhet sor, ameddig arra a helyi önkormányzatot, továbbá az Egészségbiztosítási Alapból nettó módon finanszírozott helyi önkormányzati költségvetési szervet megillető, a nettó finanszírozásnál figyelembe vett támogatások (3) bekezdés szerinti levonásokkal – ide nem értve az engedményezett forgótőkét – csökkentett összege fedezetet nyújt.
+(10)[^316] A forgótőke tárgyhavi visszapótlására csak addig a mértékig kerülhet sor, ameddig arra a helyi önkormányzatot, továbbá az Egészségbiztosítási Alapból nettó módon finanszírozott helyi önkormányzati költségvetési szervet megillető, a nettó finanszírozásnál figyelembe vett támogatások (3) bekezdés szerinti levonásokkal – ide nem értve az engedményezett forgótőkét – csökkentett összege fedezetet nyújt.
 
-[^250]: Az Ávr. 140. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^251]: Az Ávr. 140. § (2) bekezdés c) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
-[^252]: Az Ávr. 140. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 413/2012. (XII. 29.) Korm. rendelet 39. § 32. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 46. pontja szerint módosított szöveg.
-[^253]: Az Ávr. 140. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 40. pontja szerint módosított szöveg.
-[^254]: Az Ávr. 140. § (5) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 33. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 17. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 46. pontja szerint módosított szöveg.
-[^255]: Az Ávr. 140. § (6) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 45. pontja szerint módosított szöveg.
-[^256]: Az Ávr. 140. § (6) bekezdés a) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 34. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 12. pontja szerint módosított szöveg.
-[^257]: Az Ávr. 140. § (6) bekezdés b) pontja az 56/2012. (III. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 46. pontja szerint módosított szöveg.
-[^258]: Az Ávr. 140. § (7) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^259]: Az Ávr. 140. § (7) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 12. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 47. pontja szerint módosított szöveg.
-[^260]: Az Ávr. 140. § (7) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 48. pontja szerint módosított szöveg.
-[^261]: Az Ávr. 140. § (7) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 49. pontja szerint módosított szöveg.
-[^262]: Az Ávr. 140. § (7) bekezdés d) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 49. pontja szerint módosított szöveg.
-[^263]: Az Ávr. 140. § (8) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 19. pontja, a 74/2013. (III. 11.) Korm. rendelet 32. § 15. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 50. pontja szerint módosított szöveg.
-[^264]: Az Ávr. 140. § (9) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. és 12. pontja, a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 51. pontja szerint módosított szöveg.
-[^265]: Az Ávr. 140. § (10) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. pontja szerint módosított szöveg.
+[^301]: Az Ávr. 140. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^302]: Az Ávr. 140. § (2) bekezdés c) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^303]: Az Ávr. 140. § (3) bekezdése az 56/2012. (III. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 413/2012. (XII. 29.) Korm. rendelet 39. § 32. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 10. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 46. pontja szerint módosított szöveg.
+[^304]: Az Ávr. 140. § (4) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 40. pontja szerint módosított szöveg.
+[^305]: Az Ávr. 140. § (5) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 39. § 33. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 17. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 46. pontja szerint módosított szöveg.
+[^306]: Az Ávr. 140. § (6) bekezdés nyitó szövegrésze a 397/2014. (XII. 31.) Korm. rendelet 44. § 45. pontja szerint módosított szöveg.
+[^307]: Az Ávr. 140. § (6) bekezdés a) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 34. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 12. pontja szerint módosított szöveg.
+[^308]: Az Ávr. 140. § (6) bekezdés b) pontja az 56/2012. (III. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 397/2014. (XII. 31.) Korm. rendelet 44. § 46. pontja szerint módosított szöveg.
+[^309]: Az Ávr. 140. § (7) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^310]: Az Ávr. 140. § (7) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 12. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 47. pontja szerint módosított szöveg.
+[^311]: Az Ávr. 140. § (7) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 48. pontja szerint módosított szöveg.
+[^312]: Az Ávr. 140. § (7) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 49. pontja szerint módosított szöveg.
+[^313]: Az Ávr. 140. § (7) bekezdés d) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 49. pontja szerint módosított szöveg.
+[^314]: Az Ávr. 140. § (8) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 19. pontja, a 74/2013. (III. 11.) Korm. rendelet 32. § 15. pontja, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 50. pontja szerint módosított szöveg.
+[^315]: Az Ávr. 140. § (9) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. és 12. pontja, a 153/2014. (VI. 18.) Korm. rendelet 5. § a) pontja, a 397/2014. (XII. 31.) Korm. rendelet 44. § 51. pontja szerint módosított szöveg.
+[^316]: Az Ávr. 140. § (10) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított, a 497/2013. (XII. 29.) Korm. rendelet 63. § (3) bekezdés 11. pontja szerint módosított szöveg.

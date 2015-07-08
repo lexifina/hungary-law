@@ -6,11 +6,11 @@ b) egy évre számított értéke a költségvetési évet követő három év b
 
 eléri vagy meghaladja.
 
-(2)[^122] Nem szükséges az államháztartásért felelős miniszter vagy a fejezetet irányító szerv engedélyét kérni
+(2)[^132] Nem szükséges az államháztartásért felelős miniszter vagy a fejezetet irányító szerv engedélyét kérni
 
-a)[^123] az egységes rovatrend K1. Személyi juttatások és K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó rovatain megtervezett költségvetési kiadási előirányzatok felhasználása során, ide nem értve a K122. Munkavégzésre irányuló egyéb jogviszonyban nem saját alkalmazottnak fizetett juttatások rovat költségvetési kiadási előirányzata terhére kötött, az (1) bekezdésben meghatározott feltételeknek megfelelő szerződéseket, és
+a)[^133] az egységes rovatrend K1. Személyi juttatások és K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó rovatain megtervezett költségvetési kiadási előirányzatok felhasználása során, ide nem értve a K122. Munkavégzésre irányuló egyéb jogviszonyban nem saját alkalmazottnak fizetett juttatások rovat költségvetési kiadási előirányzata terhére kötött, az (1) bekezdésben meghatározott feltételeknek megfelelő szerződéseket, és
 
 b) az egységes rovatrend K331. Közüzemi díjak rovaton megtervezett előirányzat felhasználása során.
 
-[^122]: Az Ávr. 48. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^123]: Az Ávr. 48. § (2) bekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 24. pontja szerint módosított szöveg.
+[^132]: Az Ávr. 48. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^133]: Az Ávr. 48. § (2) bekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 24. pontja szerint módosított szöveg.

@@ -1,10 +1,6 @@
-## VIII. Fejezet
-
-## AZ ÁLLAMHÁZTARTÁS ELLENŐRZÉSI RENDSZERE
-
 ## [Az Áht. 71. § (1)–(3) bekezdéséhez]
 
-116. §[^203] (1) Önkormányzati biztos megbízását a képviselő-testületnél
+116. §[^253] (1) Önkormányzati biztos megbízását a képviselő-testületnél
 
 a) a polgármester,
 
@@ -20,19 +16,19 @@ kezdeményezheti.
 
 (2) Önkormányzati biztosként
 
-a)[^204] az a magyar állampolgár bízható meg, aki a felsőoktatásban szerzett gazdasági szakképzettséggel vagy jogász szakképzettséggel és a kijelölés évét megelőző tíz évben legalább öt éves szakirányú költségvetési gyakorlattal rendelkezik, és írásban nyilatkozik arról, hogy az (5) bekezdésben foglaltak személyére nem jelentenek kizáró okot, vagy
+a)[^254] az a magyar állampolgár bízható meg, aki a felsőoktatásban szerzett gazdasági szakképzettséggel vagy jogász szakképzettséggel és a kijelölés évét megelőző tíz évben legalább öt éves szakirányú költségvetési gyakorlattal rendelkezik, és írásban nyilatkozik arról, hogy az (5) bekezdésben foglaltak személyére nem jelentenek kizáró okot, vagy
 
-b)[^205] az a gazdasági társaság bízható meg, amelynek ágazati besorolása megfelel az önkormányzati biztosi tevékenység jellegének, költségvetési szervnél referenciával rendelkezik és az önkormányzati biztosi tevékenységet az a) pontban előírt követelményeknek, valamint az (5) bekezdés szerinti összeférhetetlenségi szabályoknak igazoltan megfelelő alkalmazottjával vagy személyesen eljáró tagjával látja el.
+b)[^255] az a gazdasági társaság bízható meg, amelynek ágazati besorolása megfelel az önkormányzati biztosi tevékenység jellegének, költségvetési szervnél referenciával rendelkezik és az önkormányzati biztosi tevékenységet az a) pontban előírt követelményeknek, valamint az (5) bekezdés szerinti összeférhetetlenségi szabályoknak igazoltan megfelelő alkalmazottjával vagy személyesen eljáró tagjával látja el.
 
 (3) Az önkormányzati biztost a (2) bekezdés szerinti személyek, szervezetek közül a képviselő-testület döntése alapján a polgármester bízza meg, és ennek tényét a helyben szokásos módon teszi közzé.
 
 (4) A képviselő-testület a (3) bekezdés szerinti döntési jogát a pénzügyi bizottságára átruházhatja.
 
-(5)[^206] Nem lehet önkormányzati biztos az a személy, gazdasági társaság név szerint megnevezett alkalmazottja, tagja, aki
+(5)[^256] Nem lehet önkormányzati biztos az a személy, gazdasági társaság név szerint megnevezett alkalmazottja, tagja, aki
 
-a)[^207] az adott költségvetési szerv alkalmazottja,
+a)[^257] az adott költségvetési szerv alkalmazottja,
 
-b)[^208] a kijelölést megelőző három évben az adott költségvetési szerv alkalmazottja volt,
+b)[^258] a kijelölést megelőző három évben az adott költségvetési szerv alkalmazottja volt,
 
 c) rendszeres és tartós megbízási vagy vállalkozási jogviszonyban áll, vagy állt a kirendelést megelőző három évben az adott költségvetési szervnél,
 
@@ -40,9 +36,9 @@ d) az Áht. 71. § (1) bekezdésben megállapított tartozásállomány jogosult
 
 e) a költségvetési szerv vezetőjének, gazdasági vezetőjének vagy más alkalmazottjának hozzátartozója, e minőségének fennállása alatt, illetve annak megszűnésétől számított három évig.
 
-[^203]: Az Ávr. 116. §-a a 307/2013. (VIII. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^204]: Az Ávr. 116. § (2) bekezdés a) pontja a 159/2014. (VI. 30.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
-[^205]: Az Ávr. 116. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 63. § (5) bekezdése szerint módosított szöveg.
-[^206]: Az Ávr. 116. § (5) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 63. § (5) bekezdése szerint módosított szöveg.
-[^207]: Az Ávr. 116. § (5) bekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 37. pontja szerint módosított szöveg.
-[^208]: Az Ávr. 116. § (5) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 37. pontja szerint módosított szöveg.
+[^253]: Az Ávr. 116. §-a a 307/2013. (VIII. 14.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^254]: Az Ávr. 116. § (2) bekezdés a) pontja a 159/2014. (VI. 30.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^255]: Az Ávr. 116. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 63. § (5) bekezdése szerint módosított szöveg.
+[^256]: Az Ávr. 116. § (5) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 63. § (5) bekezdése szerint módosított szöveg.
+[^257]: Az Ávr. 116. § (5) bekezdés a) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 37. pontja szerint módosított szöveg.
+[^258]: Az Ávr. 116. § (5) bekezdés b) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 37. pontja szerint módosított szöveg.

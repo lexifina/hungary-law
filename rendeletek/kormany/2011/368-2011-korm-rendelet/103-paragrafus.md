@@ -1,4 +1,4 @@
-## VII. Fejezet[^191]
+## VII. Fejezet[^219]
 
 ## A HELYI ÖNKORMÁNYZATOK ÁLTALÁNOS MŰKÖDÉSÉNEK ÉS ÁGAZATI FELADATAINAK TÁMOGATÁSA
 
@@ -8,4 +8,4 @@
 
 (2) A helyi önkormányzat, társult feladatellátás esetében a társulás székhelye szerinti vagy a társulási megállapodásban meghatározott helyi önkormányzat a támogatás folyósításához szükséges, tájékoztatóban meghatározott adatokat a tájékoztatóban meghatározott határnapig közli a Kincstárral.
 
-[^191]: Az Ávr. VII. fejezete (103–115. §) a 397/2014. (XII. 31.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^219]: Az Ávr. VII. fejezete (103–115. §) a 397/2014. (XII. 31.) Korm. rendelet 26. §-ával megállapított szöveg.

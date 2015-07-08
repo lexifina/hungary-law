@@ -36,6 +36,8 @@
 
 17. arra történő utalást, hogy a költségvetési támogatás visszatérítendő vagy nem visszatérítendő,
 
+17a.[^196] a támogatás felhasználásával kapcsolatos ellenőrzés-tűrési és adatszolgáltatási kötelezettségre, valamint nyilvánossági követelményekre vonatkozó tájékoztatást,
+
 18. a támogató által indokoltnak tartott egyéb információkat.
 
 (3) A pályázati kiírásban a pályázat benyújtásának határidejét úgy kell meghatározni, hogy arra a pályázati kiírás közzétételétől számítva legalább harminc nap álljon rendelkezésre. E rendelkezéstől a támogató, ha a pályázat céljára tekintettel indokolt, kivételesen eltérhet, a pályázat benyújtásának határidejét ez esetben úgy kell meghatározni, hogy az ne legyen aránytalanul rövid és biztosítsa a pályázatról való értesülés lehetőségét és a pályázat megfelelő elkészítéséhez objektíven szükséges időt.
@@ -43,3 +45,5 @@
 (4) A pályázati kiírásban jogszabály által nem rendezett kérdésekről is lehet rendelkezni. A pályázati kiírás és a megkötött támogatási szerződés ellentmondása esetén a támogatási szerződés rendelkezései irányadóak.
 
 (5) A támogató a pályázati kiírás közzététele és a pályázat benyújtásának határideje között köteles biztosítani a pályázók ésszerű időn belüli tájékoztatását.
+
+[^196]: Az Ávr. 66. § (2) bekezdés 17a. pontját a 175/2015. (VII. 7.) Korm. rendelet 7. §-a iktatta be.

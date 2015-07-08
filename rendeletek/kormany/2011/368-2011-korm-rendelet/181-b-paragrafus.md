@@ -1,3 +1,3 @@
-181/B. §[^405] Az egyes kormányrendeleteknek a Magyarország 2015. évi központi költségvetésének megalapozásával összefüggő módosításáról szóló 397/2014. (XII. 31.) Korm. rendelettel megállapított 122. § (1) bekezdése szerinti likviditási tervet első alkalommal a 2015. február 5-ét megelőző utolsó munkanapig kell megküldeni.
+181/B. §[^463]
 
-[^405]: Az Ávr. 181/B. §-t a 397/2014. (XII. 31.) Korm. rendelet 42. §-a iktatta be.
+[^463]: Az Ávr. 181/B. §-át a 397/2014. (XII. 31.) Korm. rendelet 42. §-a iktatta be, hatályon kívül helyezte a 175/2015. (VII. 7.) Korm. rendelet 29. § (2) bekezdés 7. pontja.

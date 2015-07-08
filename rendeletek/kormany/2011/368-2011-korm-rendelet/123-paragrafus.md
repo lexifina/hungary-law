@@ -1,4 +1,4 @@
-123. §[^219] (1) A vidékfejlesztési stratégiai tervekben foglalt agrártámogatások kizárólag abban az esetben finanszírozhatóak a 122/A. § (1) bekezdés a) pontja szerint, ha az így igénybe vett teljes összeget az Európai Unió utólagosan megtéríti, de a kifizetés időpontjában a vidékfejlesztési stratégiai tervekben foglalt célokra felhasználható európai uniós forrás nem áll rendelkezésre.
+123. §[^269] (1) A vidékfejlesztési stratégiai tervekben foglalt agrártámogatások kizárólag abban az esetben finanszírozhatóak a 122/A. § (1) bekezdés a) pontja szerint, ha az így igénybe vett teljes összeget az Európai Unió utólagosan megtéríti, de a kifizetés időpontjában a vidékfejlesztési stratégiai tervekben foglalt célokra felhasználható európai uniós forrás nem áll rendelkezésre.
 
 (2) Az egységes területalapú támogatások megelőlegezésére igénybe vett összeg nagysága nem haladhatja meg a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló törvény alapján meghatározott, évente kifizetésre kerülő, az Európai Mezőgazdasági Garancia Alap által megtérítendő egységes területalapú támogatások összegét. A cukorágazati hozzájárulás fizetési kötelezettség teljesítésére igénybe vett összeg nem haladhatja meg az Európai Unió részére fizetendő hozzájárulás összegét.
 
@@ -14,4 +14,4 @@
 
 (8) A 122/A. § (2) bekezdés b) pontjában foglaltak alapján kiutalható előleg az érintett egészségügyi szolgáltató utalási évre vonatkozó tizenkét havi finanszírozási összegéből számított havi átlagának 40%-a. A kiutalt előleg visszavonásáról az Egészségbiztosítási Alap kezelő szerve egy összegben a január első munkanapján esedékes finanszírozási összeg utalásánál gondoskodik.
 
-[^219]: Az Ávr. 123. §-a a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^269]: Az Ávr. 123. §-a a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.

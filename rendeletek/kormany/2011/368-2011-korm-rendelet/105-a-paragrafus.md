@@ -1,1 +1,3 @@
-105/A. § A helyi önkormányzatok általános működéséhez és ágazati feladatainak ellátásához igényelhető, a 103. § (1) bekezdésének hatálya alá nem tartozó, nem feladatmutató alapján járó támogatások esetén az igénylés a központi költségvetésről szóló törvényben előírtak szerint, a lemondás a 78. § (2) bekezdés b) pontja és a 97. §, a visszafizetés a 99. § (5) bekezdése, a kamatok megállapítása a 98. § szerint történik.
+105/A. §[^220] A támogatás igénylése és módosítása megalapozottságának ellenőrzését végző személyre a 109. § (4) bekezdését alkalmazni kell. Ha a támogatás igénylésének és módosításának megalapozottsága ellenőrzése során helyszíni ellenőrzésre kerül sor, a helyszíni ellenőrzésre a 109/A–109/C. §-t kell alkalmazni.
+
+[^220]: Az Ávr. 105/A. §-a a 175/2015. (VII. 7.) Korm. rendelet 16. §-ával megállapított szöveg.

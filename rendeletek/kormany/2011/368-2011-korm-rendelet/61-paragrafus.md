@@ -1,75 +1,31 @@
 ## [Az Áht. 39. §-ához]
 
-61. § (1)[^167] Költségvetési főfelügyelői, felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett gazdasági szakképzettséggel és a kijelölés évét megelőző tíz évben legalább három éves költségvetési gyakorlattal rendelkezik, továbbá írásban nyilatkozik arról, hogy a (2) bekezdésben foglaltak személyére nem jelentenek kizáró okot.
+61. § (1)[^177] Költségvetési főfelügyelői, felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett gazdasági szakképzettséggel és a kijelölés évét megelőző tíz évben legalább hároméves költségvetési gyakorlattal rendelkezik, továbbá írásban nyilatkozik arról, hogy a (2) és (3) bekezdésben meghatározott kizáró okok a tekintetében nem állnak fenn.
 
-(2) Nem jelölhető ki költségvetési főfelügyelőnek, felügyelőnek az a természetes személy, aki
+(2) A Kormány irányítása alá tartozó fejezetet irányító szervnél, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervnél, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervénél (ezen alcím alkalmazásában a továbbiakban együtt: kijelölt szerv) nem lehet költségvetési főfelügyelő, felügyelő az a természetes személy, aki
 
-a) az adott fejezetet irányító szervnél, a fejezetbe tartozó költségvetési szervnél, központi kezelésű előirányzat, fejezeti kezelésű előirányzat kezelő szervénél, továbbá az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szervénél (e § alkalmazásában a továbbiakban együtt: kijelölt szerv) foglalkoztatásra irányuló jogviszonyban áll,
+a) a kijelölt szervvel foglalkoztatásra irányuló jogviszonyban áll,
 
 b) a kijelölést megelőző három évben a kijelölt szervnél foglalkoztatásra irányuló, illetve rendszeres vagy tartós megbízási, vállalkozási jogviszonyban állt, vagy
 
-c) a kijelölt szervnél döntéshozói, kötelezettségvállalási, pénzügyi ellenjegyzési, teljesítés igazolói, utalványozási, érvényesítési, jogkörrel felruházott személy hozzátartozója.
+c) a kijelölt szervnél döntéshozói, kötelezettségvállalási, pénzügyi ellenjegyzési, teljesítés igazolói, utalványozási, érvényesítési jogkörrel felruházott személy közeli hozzátartozója.
 
-(3) A költségvetési főfelügyelőt, felügyelőt az államháztartásért felelős miniszter megbízólevéllel látja el, amelynek tartalmaznia kell
+(3) Az állam legalább többségi tulajdonában álló gazdasági társaságnál (ezen alcím alkalmazásában a továbbiakban: állami tulajdonú gazdasági társaság) nem lehet költségvetési főfelügyelő, felügyelő az a természetes személy, aki
 
-a) a kijelölt szerv(ek) megnevezését,
+a) az állami tulajdonú gazdasági társaság tekintetében tulajdonosi joggyakorlóként vagy megbízáson alapuló meghatalmazás alapján eljáró szervnél foglalkoztatásra irányuló jogviszonyban áll, az állami tulajdonú gazdasági társasággal rendszeres vagy tartós megbízási vagy vállalkozási jogviszonyban áll, az állami tulajdonú gazdasági társaság vezető tisztségviselője vagy felügyelőbizottsági tagja,
+
+b) a kijelölést megelőző három évben az állami tulajdonú gazdasági társaság tekintetében tulajdonosi joggyakorlóként vagy megbízáson alapuló meghatalmazás alapján eljáró szervnél foglalkoztatásra irányuló jogviszonyban állt, az állami tulajdonú gazdasági társasággal rendszeres vagy tartós megbízási vagy vállalkozási jogviszonyban állt, az állami tulajdonú gazdasági társaság vezető tisztségviselője vagy felügyelőbizottsági tagja volt, vagy
+
+c) az állami tulajdonú gazdasági társaságnál döntéshozói jogkörrel felruházott vagy pénzügyi-gazdasági feladatokat ellátó személy közeli hozzátartozója.
+
+(4) A költségvetési főfelügyelőt, felügyelőt az államháztartásért felelős miniszter megbízólevéllel látja el, amely tartalmazza
+
+a) a kijelölt szerv, az állami tulajdonú gazdasági társaság megnevezését,
 
 b) annak megjelölését, hogy a megbízatás költségvetési főfelügyelői vagy felügyelői feladatkör ellátására vonatkozik,
 
-c) a költségvetési főfelügyelő, felügyelő nevét, születési idejét, anyja nevét, és
+c) a költségvetési főfelügyelő, felügyelő nevét és
 
 d) a megbízatás időtartamát.
 
-(4) A költségvetési főfelügyelő, felügyelő
-
-a) jogosult a kijelölt szerv tekintetében érvényes titoktartási követelmények szerinti nyilatkozatok megtételét követően a kijelölt szerv kezelésében levő, közpénz felhasználásával összefüggő adatot – ideértve a minősített adatnak, továbbá üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni,
-
-b) véleményezi a tervezéssel, gazdálkodással, ellenőrzéssel, beszámolással kapcsolatos belső szabályzatokat,
-
-c)[^168] a kötelezettségvállalásra irányuló eljárásokat előzetesen véleményezi azzal, hogy a nagy összegű kötelezettségvállalások tekintetében kifogással élhet, különösen a költségvetés-politikai céloknak való megfelelőségre, a szükségszerűségre, időszerűségre, forrásszükségletre, a fedezet meglétére, és a kifizetés ütemezésére tekintettel,
-
-d)[^169] a tervezéssel, gazdálkodással, beszámolással összefüggő intézkedéseket előzetesen véleményezi, és
-
-e)[^170] szükség esetén javaslatot tesz, ajánlást fogalmaz meg a belső információáramlások, gazdálkodási folyamatok, érdekeltségi rendszerek átalakítására, továbbá a szakmai szabályozással összefüggésben, amelyre a költségvetési szerv vezetője a javaslat, ajánlás kézhezvételétől számított harminc napon belül írásban véleményt nyilvánít.
-
-(5) A (4) bekezdés b) pontja szerinti szabályzatoknak a 13. § (2) és (3) bekezdésében nevesített szabályzatok minősülnek.
-
-(6) A (4) bekezdés c) pontja alkalmazásában nagy összegű kötelezettségvállalásnak minősül a tízmillió forintot elérő, vagy azt meghaladó összegű kötelezettségvállalás.
-
-(7) A (4) bekezdés d) pontja alkalmazásában tervezéssel, gazdálkodással, beszámolással összefüggő intézkedés
-
-a) a költségvetési főfelügyelő, felügyelő által előre meghatározott körben a (6) bekezdésben foglalt értékhatárt el nem érő kötelezettségvállalásra és bevétel beszedésére irányuló intézkedés,
-
-b) a kijelölt szerv kincstári és elemi költségvetése, maradvány-elszámolása,
-
-c) a költségvetési főfelügyelő, felügyelő által előre meghatározott körben az előirányzatok módosítására, átcsoportosítására irányuló intézkedés,
-
-d) az elrendelt zárolás végrehajtására irányuló intézkedés,
-
-e) a rendkívüli kormányzati intézkedésekre szolgáló tartalékból többletforrás biztosítására irányuló igény,
-
-f) a 130. § (3) bekezdése szerinti előrehozásra irányuló kérelem, és
-
-g) az eszközök értékesítésére és selejtezésére irányuló intézkedés.
-
-(8) A (4) bekezdés b)–d) pontja szerinti intézkedések dokumentumait azok tervezett kiadmányozását – e rendelet szabályai szerint előzetes pénzügyi ellenjegyzést igénylő intézkedés esetén annak pénzügyi ellenjegyzését – legalább három munkanappal megelőzően meg kell küldeni a költségvetési főfelügyelőnek, felügyelőnek. Ha a költségvetési főfelügyelő, felügyelő három munkanapon belül a tervezettel kapcsolatban nem nyilatkozik, az intézkedés kiadmányozására, pénzügyi ellenjegyzésére sor kerülhet.
-
-(9) Indokolt esetben a költségvetési főfelügyelő, felügyelő a (4) bekezdés b)–d) pontja tekintetében javaslatot tehet az intézkedés felfüggesztésére. Ilyen esetben a javaslatot és annak indokolását három munkanapon belül eljuttatja a kijelölt szerv vezetőjének, a fejezetet irányító szerv vezetőjének, és az államháztartásért felelős miniszternek. A fejezetet irányító szerv vezetője az értesítés alapján az államháztartásért felelős miniszterrel haladéktalanul egyeztetést kezdeményez, ha az indokolással nem ért egyet. Az intézkedés mindaddig nem hajtható végre, amíg az érdemi egyeztetés nem történt meg.
-
-(10) A költségvetési főfelügyelő, felügyelő munkájához a Kincstár és a kijelölt szerv szolgáltatják az e § szerinti intézkedések dokumentumait, az arra vonatkozó összefoglaló, és a különböző adatbázisokból, nyilvántartásokból rendelkezésre álló részletes adatokat, elkészítik a költségvetési főfelügyelő, felügyelő által kért dokumentumokat. A költségvetési főfelügyelő, felügyelő elhelyezéséhez szükséges feltételeket a kijelölt szerv biztosítja.
-
-(11) A nemzetbiztonsági szolgálatoknál folytatott tevékenysége során a költségvetési főfelügyelő, felügyelő birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, forrására, vagy az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
-
-(12) A költségvetési főfelügyelő, felügyelő tevékenységéről havonta írásban beszámol a fejezetet irányító szerv vezetőjének és az államháztartásért felelős miniszternek.
-
-(13) A költségvetési főfelügyelőt, felügyelőt akadályoztatása esetén az államháztartásért felelős miniszter által kijelölt költségvetési főfelügyelő, felügyelő teljes jogkörrel helyettesíti.
-
-(14)[^171]
-
-(15) A költségvetési főfelügyelő, felügyelő működésével összefüggő kiadásokat az államháztartásért felelős miniszter irányítása alatt álló fejezetben kell biztosítani.
-
-[^167]: Az Ávr. 61. § (1) bekezdése a 159/2014. (VI. 30.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
-[^168]: Az Ávr. 61. § (4) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^169]: Az Ávr. 61. § (4) bekezdés d) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 36. pontja szerint módosított szöveg.
-[^170]: Az Ávr. 61. § (4) bekezdés e) pontját a 397/2014. (XII. 31.) Korm. rendelet 23. §-a iktatta be.
-[^171]: Az Ávr. 61. § (14) bekezdését a 307/2013. (VIII. 14.) Korm. rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^177]: Az Ávr. 61. §-a a 175/2015. (VII. 7.) Korm. rendelet 6. §-ával megállapított szöveg.

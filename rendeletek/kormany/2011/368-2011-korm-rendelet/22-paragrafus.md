@@ -1,3 +1,3 @@
-22. §[^65]
+22. §[^73]
 
-[^65]: Az Ávr. 22. §-át és az azt megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 8. pontja hatályon kívül helyezte.
+[^73]: Az Ávr. 22. §-át és az azt megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 8. pontja hatályon kívül helyezte.
