@@ -2,16 +2,16 @@
 
 1. § (1) E rendelet szabályozza a (2) bekezdésben meghatározott szervezetek belső kontrollrendszerét és belső ellenőrzési tevékenységét.
 
-(2) A rendelet hatálya kiterjed:
+(2)[^1] E rendelet hatálya kiterjed
 
-a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 3. §-ában, felsoroltakra az állam és a költségvetési fejezetet nem alkotó köztestületek kivételével;
+a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 3. §-ában felsoroltakra az állam és a költségvetési fejezetet nem alkotó köztestületek kivételével,
 
-b) a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény hatálya alá tartozó jogi személyiségű területfejlesztési tanácsokra és munkaszervezeteikre;
+b) a térségi fejlesztési tanács munkaszervezetére,
 
-c) a a)–b) pontban meghatározott szervek által alapított vagyonkezelő szervezetekre;
+c) az a) pontban meghatározottak által alapított szervekre, szervezetekre, ha azok tulajdonosi jogokat vagy vagyonkezelői jogot gyakorolnak,
 
-d) a külön jogszabályban meghatározottakra.
+d) a kormányzati szektorba sorolt egyéb szervezetekre és
 
-e)[^1] a kormányzati szektorba sorolt egyéb szervezetekre.
+e) jogszabály alapján a költségvetési szervek belső kontrollrendszerére és belső ellenőrzésére vonatkozó szabályokat alkalmazó más szervre, szervezetre.
 
-[^1]: Az 1. § (2) bekezdés e) pontját a 497/2013, (XII. 29.) Korm. rendelet 64. §-a iktatta be.
+[^1]: Az 1. § (2) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 30. §-ával megállapított szöveg.

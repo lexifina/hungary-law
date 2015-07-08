@@ -4,6 +4,6 @@
 
 (3) Indokolt esetben a belső ellenőrzési vezető az észrevételek átvezetése után a jelentéstervezetet az érintetteknek ismételten megküldheti visszamutatás céljából 5 napos határidővel.
 
-(4)[^36] Az ellenőrzési jelentést, illetve annak kivonatát a vizsgálatvezető és a vizsgálatot végző valamennyi ellenőr aláírását követően a belső ellenőrzési vezető hagyja jóvá és megküldi a költségvetési szerv vezetője részére. Ezzel egyidejűleg a minisztériumi belső ellenőrzésről készült ellenőrzési jelentést a belső ellenőrzési vezető tájékoztatásul megküldi a Hivatal elnökének is.
+(4)[^43] Az ellenőrzési jelentést, illetve annak kivonatát a vizsgálatvezető és a vizsgálatot végző valamennyi ellenőr aláírását követően a belső ellenőrzési vezető hagyja jóvá és megküldi a költségvetési szerv vezetője részére. Ezzel egyidejűleg a minisztériumi belső ellenőrzésről készült ellenőrzési jelentést a belső ellenőrzési vezető tájékoztatásul megküldi a Hivatal elnökének is.
 
-[^36]: A 43. § (4) bekezdése a 99/2015. (IV. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^43]: A 43. § (4) bekezdése a 99/2015. (IV. 20.) Korm. rendelet 8. §-ával megállapított szöveg.

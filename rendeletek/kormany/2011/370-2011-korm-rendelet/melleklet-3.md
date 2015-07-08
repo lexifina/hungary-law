@@ -1,3 +1,3 @@
-3. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^53]
+3. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^63]
 
-[^53]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

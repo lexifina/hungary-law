@@ -1,17 +1,15 @@
-## 11. Fejezetet irányító szervek belső ellenőrzési vezetőinek kiválasztási eljárása
+## 11. [^27] A fejezetet irányító szervek belső ellenőrzési vezetőjének kinevezése, felmentése, illetve áthelyezése
 
-23. § (1) A fejezetet irányító szerv belső ellenőrzési vezetőjének kiválasztási eljárásában ki kell kérni az államháztartásért felelős miniszter véleményét.
+23. § (1) Ha törvény eltérően nem rendelkezik,
 
-(2) A fejezetet irányító szerv vezetője megküldi a jelölt szakmai önéletrajzát az államháztartásért felelős miniszternek véleményezés céljából.
+a) az irányító szerv belső ellenőrzési vezetőjét a fejezetet irányító szerv vezetője, minisztériumok esetén a költségvetési szerv vezetője,
 
-(3) Az államháztartásért felelős miniszter szakmai szempontok figyelembevételével 8 napon belül megküldi megerősítő-, vagy ellenvéleményét a fejezetet irányító szerv vezetőjének.
+b) az irányító szerv irányítása alá tartozó költségvetési szervek belső ellenőrzési vezetőjét – az irányító szerv vezetőjének egyetértésével – a költségvetési szerv vezetője
 
-(4)[^19] Amennyiben törvény eltérően nem rendelkezik, a fejezetet irányító szerv belső ellenőrzési vezetőjét a fejezetet irányító szerv vezetője, minisztériumok esetén a költségvetési szerv vezetője nevezi ki, menti fel, helyezi át.
+## nevezi ki, menti fel és helyezi át.
 
-(5)[^20] Amennyiben törvény eltérően nem rendelkezik, a fejezet irányítása alá tartozó szervek esetén a belső ellenőrzési vezetőjét az irányító szerv vezetőjének egyetértésével a költségvetési szerv vezetője nevezi ki, menti fel, helyezi át.
+(2) Az Áht. 1. § 10. pontja szerinti, a Kormány irányítása vagy felügyelete alá tartozó fejezet irányító szervének belső ellenőrzési vezetője kinevezéséhez az államháztartásért felelős miniszter, a kinevezéshez, felmentéshez, illetve áthelyezéshez a Hivatal elnökének előzetes véleményét ki kell kérni. A kinevezéshez kapcsolódóan a jelölt szakmai életrajzát és a kinevezés indokait, a felmentéshez, illetve áthelyezéshez kapcsolódóan pedig annak indokait kell csatolni.
 
-(6)[^21] Minisztérium esetében a belső ellenőrzési vezető kinevezéséhez, felmentéséhez, illetve áthelyezéséhez ki kell kérni a Hivatal elnökének előzetes véleményét. A Hivatal elnöke a jelölt szakmai életrajza, illetve a felmentésre vagy áthelyezésre irányuló szándékról való minisztériumi tájékoztatás kézhezvételétől számított 8 napon belül értesíti a minisztériumot az álláspontjáról. A Hivatal elnökének eljárására a 15. § (8) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(3) Az államháztartásért felelős miniszter, illetve a Hivatal elnöke a jelölt szakmai életrajza, illetve a felmentésre vagy áthelyezésre irányuló szándékról való tájékoztatás kézhezvételétől számított 8 napon belül értesíti a fejezetet irányító szervet az álláspontjáról. Az álláspont közlésének elmaradására a 15. § (8) bekezdését kell alkalmazni.
 
-[^19]: A 23. § (4) bekezdése a 99/2015. (IV. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^20]: A 23. § (5) bekezdése a 99/2015. (IV. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^21]: A 23. § (6) bekezdése a 99/2015. (IV. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^27]: A 11. alcím (23. §) a 175/2015. (VII. 7.) Korm. rendelet 33. §-ával megállapított szöveg.

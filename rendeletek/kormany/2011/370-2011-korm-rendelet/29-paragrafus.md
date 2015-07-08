@@ -4,6 +4,6 @@
 
 (2) A fejezetet irányító szerv belső ellenőrzési vezetője az éves ellenőrzési tervek jóváhagyását megelőzően konzultációt kezdeményez az adott fejezet irányítása alá tartozó költségvetési szervek belső ellenőrzési vezetőivel az ellenőrzések koordinációja érdekében.
 
-(3)[^29] Az Áht. 62. §-ában meghatározott szakmai egyeztető fórum illetékes témacsoportja minden év október 31-ig egyeztető ülést tart a kormányzati ellenőrzés koordinációja érdekében.
+(3)[^36] Az Áht. 62. §-ában meghatározott szakmai egyeztető fórum illetékes témacsoportja minden év október 31-ig egyeztető ülést tart a kormányzati ellenőrzés koordinációja érdekében.
 
-[^29]: A 29. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^36]: A 29. § (3) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.

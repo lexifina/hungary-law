@@ -8,7 +8,7 @@ b) belső ellenőrzés: független, tárgyilagos bizonyosságot adó és tanács
 
 c) belső ellenőrzési vezető: a költségvetési szerv belső ellenőrzési egységének vezetője, ha a költségvetési szervnél egy fő látja el a belső ellenőrzést, akkor a belső ellenőrzést ellátó személy;
 
-d) belső kontrollrendszer: az Áht. 69. § (1) bekezdésében meghatározott fogalom;
+d)[^2]
 
 e) bizonyosságot adó tevékenység: belső ellenőrzési tevékenység, amelynek során a belső ellenőr objektív értékelést nyújt egy adott folyamatról, rendszerről, eljárásról, és az ellenőrzési program végrehajtása során tett megállapításokat, következtetéseket és javaslatokat ellenőrzési jelentésbe foglalja;
 
@@ -16,7 +16,7 @@ f) ellenőrzés lezárása: egy adott ellenőrzés akkor tekinthető lezártnak,
 
 g) eredményesség: annak, követelménye, hogy a kitűzött célok – az elfogadott módosításokat, változó körülményeket figyelembe véve – megvalósuljanak, a tevékenység tervezett és tényleges hatása közötti különbség a lehető legkisebb mértékű legyen, vagy a tényleges hatás legyen kedvezőbb a tervezettnél;
 
-h)[^2] fejezetet irányító szerv vezetője: az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. § (1) bekezdés a) pontja szerinti vezető;
+h)[^3]
 
 i) gazdaságosság: annak követelménye, hogy az erőforrások felhasználásához kapcsolódó kiadás vagy ráfordítás az elérhető legkisebb legyen, a jogszabályban meghatározott vagy általánosan elvárható minőség mellett;
 
@@ -34,9 +34,9 @@ na) központi költségvetési szerv esetén a fejezetet irányító szerv vezet
 
 nb) minisztérium esetén a miniszter vagy miniszter döntése alapján a közigazgatási államtitkár;
 
-nc)[^3] a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet (a továbbiakban: NAV Korm. rendelet) 1. § (2) bekezdés b), c) és e) pontjában, valamint az 1. § (3), (4) és (4a) bekezdésében meghatározott szervek vezetője;
+nc)[^4] a Nemzeti Adó- és Vámhivatal szervezetéről és egyes szervek kijelöléséről szóló 273/2010. (XII. 9.) Korm. rendelet (a továbbiakban: NAV Korm. rendelet) 1. § (2) bekezdés b), c) és e) pontjában, valamint az 1. § (3), (4) és (4a) bekezdésében meghatározott szervek vezetője;
 
-nd)[^4] a települési önkormányzat és a helyi nemzetiségi önkormányzat esetén a jegyző, főjegyző;
+nd)[^5] a települési önkormányzat és a helyi nemzetiségi önkormányzat esetén a jegyző, főjegyző;
 
 ne) fővárosi önkormányzat, megyei önkormányzat, illetve megyei jogú városi önkormányzat esetén a főjegyző;
 
@@ -44,11 +44,11 @@ nf) helyi önkormányzat, illetve helyi nemzetiségi önkormányzat felügyelete
 
 ng) országos nemzetiségi önkormányzat esetén annak vezetője, illetve országos nemzetiségi önkormányzati költségvetési szerv esetén annak vezetője;
 
-nh)[^5] társulás esetén a létrehozott költségvetési szerv, illetve szervezet vezetője;
+nh)[^6] társulás esetén a létrehozott költségvetési szerv, illetve szervezet vezetője;
 
-ni)[^6] társult képviselő-testület esetén a társulási megállapodásban meghatározott önkormányzat jegyzője;
+ni)[^7] társult képviselő-testület esetén a társulási megállapodásban meghatározott önkormányzat jegyzője;
 
-nj) területi fejlesztési tanács esetén a térségi fejlesztési tanács munkaszervezetének vezetője;
+nj)[^8] térségi fejlesztési tanács esetén a térségi fejlesztési tanács munkaszervezetének vezetője;
 
 o) lezárt ellenőrzési jelentés: a belső ellenőr által elkészített, az ellenőrzött szervezettel egyeztetett, az elfogadott észrevételek átvezetésével véglegezésre került és aláírt ellenőrzési jelentés;
 
@@ -62,7 +62,7 @@ s) utóellenőrzés: az intézkedések nyomon követése érdekében elrendelt e
 
 t) vizsgálatvezető: a belső ellenőrzési vezető által kijelölt, az adott ellenőrzés irányításáért felelős személy.
 
-u)[^7] a kormányzati szektorba sorolt egyéb szervezet vezetője,
+u)[^9] a kormányzati szektorba sorolt egyéb szervezet vezetője,
 
 ua) az alapítvány, közalapítvány kezelője, illetve kezelő szervének (szervezetének) elnöke, továbbá – ha az alapítvány kezelő szerve (szervezete) elkülönült jogi személy, jogi személyiséggel nem rendelkező szervezet vagy állami szerv – a kezelő szerv (szervezet) egyszemélyi felelős vezetője,
 
@@ -74,9 +74,11 @@ ud) a Magyar Kármentő Alap Kármentő Bizottságának elnöke,
 
 ue) az ua)–ud) alponton kívüli egyéb jogi személy esetén a vezető tisztségviselő vagy a vezető tisztségviselőkből álló testület vezetője.
 
-[^2]: A 2. § h) pontja a 414/2012. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § n) pont nc) alpontja a 479/2013. (XII. 17.) Korm. rendelet 21. §-a szerint módosított szöveg.
-[^4]: A 2. § n) pont nd) alpontja a 264/2013. (VII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § n) pont nh) alpontját a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés h) pontja hatályon kívül helyezte, újonnan a 264/2013. (VII. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^6]: A 2. § n) pont ni) alpontja a 264/2013. (VII. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^7]: A 2. § u) pontját a 497/2013. (XII. 29.) Korm. rendelet 65. §-a iktatta be.
+[^2]: A 2. § d) pontját a 175/2015. (VII. 7.) Korm. rendelet 36. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^3]: A 2. § h) pontját a 175/2015. (VII. 7.) Korm. rendelet 36. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^4]: A 2. § n) pont nc) alpontja a 479/2013. (XII. 17.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^5]: A 2. § n) pont nd) alpontja a 264/2013. (VII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § n) pont nh) alpontját a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés h) pontja hatályon kívül helyezte, újonnan a 264/2013. (VII. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § n) pont ni) alpontja a 264/2013. (VII. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^8]: A 2. § n) pont nj) alpontja a 175/2015. (VII. 7.) Korm. rendelet 35. § 1. pontja szerint módosított szöveg.
+[^9]: A 2. § u) pontját a 497/2013. (XII. 29.) Korm. rendelet 65. §-a iktatta be.

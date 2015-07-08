@@ -34,6 +34,6 @@ l) az egyéb tevékenységeket.
 
 (6) Tanácsadó tevékenységet, illetve soron kívüli ellenőrzést a költségvetési szerv vezetője, illetve a belső ellenőrzési vezető kezdeményezésére lehet végezni.
 
-(7)[^30] Minisztérium esetében az éves ellenőrzési terv módosításának, illetve a soron kívüli ellenőrzés elrendeléséről szóló intézkedés – indokolással ellátott – tervezetét előzetes véleményezés céljából meg kell küldeni a Hivatal elnöke számára. A Hivatal elnöke az éves ellenőrzési terv módosítása esetén a tájékoztatás kézhezvételétől számított 8 napon belül, soron kívüli ellenőrzés elrendelése esetén pedig soron kívül értesíti a minisztériumot az álláspontjáról. A Hivatal elnökének eljárására a 15. § (8) bekezdésében foglaltakat megfelelően alkalmazni kell.
+(7)[^37] Minisztérium esetében az éves ellenőrzési terv módosításának, illetve a soron kívüli ellenőrzés elrendeléséről szóló intézkedés – indokolással ellátott – tervezetét előzetes véleményezés céljából meg kell küldeni a Hivatal elnöke számára. A Hivatal elnöke az éves ellenőrzési terv módosítása esetén a tájékoztatás kézhezvételétől számított 8 napon belül, soron kívüli ellenőrzés elrendelése esetén pedig soron kívül értesíti a minisztériumot az álláspontjáról. Az álláspont közlésének elmaradására a 15. § (8) bekezdését kell alkalmazni.
 
-[^30]: A 31. § (7) bekezdését a 99/2015. (IV. 20.) Korm. rendelet 6. §-a iktatta be.
+[^37]: A 31. § (7) bekezdését a 99/2015. (IV. 20.) Korm. rendelet 6. §-a iktatta be, szövege a 175/2015. (VII. 7.) Korm. rendelet 35. § 7. pontja szerint módosított szöveg.

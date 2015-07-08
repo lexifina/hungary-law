@@ -1,1 +1,3 @@
-## 58. § A rendelet hatálybalépésekor folyamatban lévő ellenőrzésekre a költségvetési szervek belső ellenőrzéséről szóló 193/2003. (XI. 26.) Korm. rendelet rendelkezéseit kell alkalmazni.
+## 58. §[^58]
+
+[^58]: Az 58. §-t a 175/2015. (VII. 7.) Korm. rendelet 36. § (2) bekezdés 3. pontja hatályon kívül helyezte.
