@@ -1,4 +1,4 @@
-24. §[^117] (1)[^118] A Tv. 54. § (1) bekezdésében meghatározott esetekben, valamint ha a kárigény elbírálásánál a kártalanítást kizáró ok nem áll fenn, a kártalanítás összegét a növény- és talajvédelmi igazgatóság állapítja meg.
+24. §[^124] (1)[^125] A Tv. 54. § (1) bekezdésében meghatározott esetekben, valamint ha a kárigény elbírálásánál a kártalanítást kizáró ok nem áll fenn, a kártalanítás összegét a fővárosi és megyei kormányhivatal állapítja meg.
 
 (2) A kártalanítási összeg nagysága a megsemmisített növény, növényi termék vagy egyéb anyag, eszköz, illetve tárgy 22. § szerinti becsült értéke.
 
@@ -8,5 +8,5 @@ a) a növények, növényi termékek és egyéb anyagok megsemmisítése mely z�
 
 b) a megsemmisített eszközök, tárgyak ártalmatlanná tételét mely okból rendelték el.
 
-[^117]: A 24. § a 25/2010. (X. 20.) VM rendelet 2. §-ával megállapított szöveg.
-[^118]: A 24. § (1) bekezdése a 9/2014. (IX. 12.) FM rendelet 5. §-ával megállapított szöveg.
+[^124]: A 24. § a 25/2010. (X. 20.) VM rendelet 2. §-ával megállapított szöveg.
+[^125]: A 24. § (1) bekezdése a 9/2014. (IX. 12.) FM rendelet 5. §-ával megállapított, a 39/2015. (VII. 3.) FM rendelet 6. § b) pontja szerint módosított szöveg.

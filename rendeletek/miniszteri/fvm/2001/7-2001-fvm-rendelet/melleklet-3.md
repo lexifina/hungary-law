@@ -16,7 +16,7 @@
 
 | 1. Aulops fuchsiae Keifer | Fuchsia L. növényfajok ültetésre szánt növényei, a vetőmag kivételével |
 
-| 1.1. Agrilus planipennis Fairmaire | Kanadából, Kínából, Japánból, Mongóliából, a Koreai Köztársaságból, Oroszországból, Tajvanból és az USA-ból származó, ültetésre szánt Fraxinus L., Juglans mandshurica Maxim., Ulmus .davidiana Planch., Ulmus parvifolia Jacq. És Pterocarya rhoifolia Siebold & Zucc. növények, a növényi szövettenyészetek és vetőmagok, faanyagok és fakéreg kivételével |
+| 1.1. |  |
 
 | 2. Aleurocanthus spp. | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével |
 
@@ -30,11 +30,11 @@
 
 | 7. Aschistonyx eppoi Inouye | Európán kívüli országokból származó Juniperus L. növények, a vetőmag és a termés kivételével |
 
-| 8. Bursaphelenchus xylophilus (Steiner and Buhere) Nicklet et al. | Európán kívüli országokból származó Abies Mill., Cedrus Trew, Larix kMill., Picea A. Dietr., Pinus L., Pseudotsuga Carr. és Tsuga Carr. növények a termés és a vetőmag kivételével, valamint a tűlevelűek (Coniferales) fája |
+| 8. |  |
 
 | 9. Carposina niponensis Walsingham | Európán kívüli országokból származó Cydonia Mill., Malus Mill., Prunus L. és Pyrus L. növények a vetőmag kivételével |
 
-| 10. Diaphorina citri Kuway | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, valamint Murraya König fajok, a termés és a vetőmag kivételével |
+| 10. |  |
 
 | 11. Enarmonia packardi (Zeller) syn.: Cydia packsrdi (Zeller) | Európán kívüli országokból származó Cydonia Mill., Malus Mill., Prunus L. és Pyrus L. növények, a vetőmag kivételével |
 
@@ -78,7 +78,7 @@
 
 | 30. Toxoptera citricida Kirk. | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével |
 
-| 31. Trioza erytreae Del Guercio | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik és a Clausena Burm. f. fajok, a termés és a vetőmag kivételével |
+| 31. |  |
 
 | 32. Unaspis citri Comstock | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével |
 
@@ -152,7 +152,7 @@
 
 | 5. Cherry leafroll virus1 | Ültetésre szánt Rubus L. növények |
 
-| 5.1. Chrysanthemum stem necrosis virus | Dendranthema (DC.) Des Moul. és Lycopersicon lycopersicum (L.), Karsten ex Farw. ültetésre szánt növényei, a vetőmag kivételével |
+| 5.1. Chrysanthemum stem necrosis virus | Dendranthema (DC.) Des Moul. Solanum lycopersicum L ültetésre szánt növényei, a vetőmag kivételével |
 
 | 6. Citrus mosaic virus syn.: Citrus mosaic badnavirus | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével |
 
@@ -218,7 +218,7 @@
 
 | 1. Clavibacter michiganensis ssp. insidiosus (McCulloch) Davis et al. | Medicago sativa L. vetőmag |
 
-| 2. Clavibacter michiganensis ssp. michiganensis (Smith) Davis et al. | Ültetésre szánt Lycopersicon lycopersicum (L.) Karsten ex Farw. Növények |
+| 2. Clavibacter michiganensis ssp. michiganensis (Smith) Davis et al. | Ültetésre szánt Solanum lycopersicum L Növények |
 
 | 3. Erwinia amylovora (Burr.) Winsl. et al. | Az alábbi nemzetségekbe tartozó fajok ültetésre szánt növényei, a vetőmag kivételével: Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L. és Sorbus L. |
 
@@ -232,7 +232,7 @@
 
 | 8. Xanthomonas campestris pv. pruni (Smith) Dye syn.: Xanthomonas arboricola pv. pruni Vauterin et al. | Ültetésre szánt Prunus L. növények, a vetőmag kivételével |
 
-| 9. Xanthomonas campestris pv. vesicatoria (Doidge) Dye syn.: Xanthomonas vesicatoria (ex Doidge) Vauterin et al. | Ültetésre szánt Lycopersicon lycopersicum (L.) Karsten ex Farw. és Capsicum spp. növények |
+| 9. Xanthomonas campestris pv. vesicatoria (Doidge) Dye syn.: Xanthomonas vesicatoria (ex Doidge) Vauterin et al. | Ültetésre szánt Solanum lycopersicum L és Capsicum spp. növények |
 
 | 10. Xanthomonas fragariae Kennedy és King | Ültetésre szánt Fragaria L. növények, a vetőmag kivételével |
 
@@ -242,7 +242,7 @@
 
 | Károsító | A fertőzés tárgya |
 
-| 1. Ceratocystis fimbriata f. sp. Platani Walter | Ültetésre szánt Platanus L. növények, a vetőmag kivételével, valamint a Platanus L. faanyaga, a természetes kerek felülettel már nem rendelkező faanyagot is beleértve |
+| 1. Ceratocystis platani (J. M. Walter) Engelbr. & T. C. Harr. | Ültetésre szánt Platanus L. növények, a vetőmag kivételével, valamint a Platanus L. faanyaga, a természetes kerek felülettel már nem rendelkező faanyagot is beleértve |
 
 | 2. |  |
 
@@ -278,7 +278,7 @@
 
 | 4. Citrus tristeza virus (európai izolátumok) syn.: Citrus tristeza closterovirus | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével |
 
-| 5. Citrus vein enation woody gall disease | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével |
+| 5. |  |
 
 | 6. Grapevine flavescence dorée MLO syn.: Grapevine flavescence dorée phytoplasma | Vitis L. növények, a termés és a vetőmag kivételével |
 
@@ -298,9 +298,9 @@
 
 | 14. Tomato black ring virus syn.: Tomato black ring nepovirus | Ültetésre szánt Fragaria L. és Rubus L. növények, a vetőmag kivételével |
 
-| 15. Tomato spotted wilt virus syn.: Tomato spotted wilt tospovirus | Ültetésre szánt Apium graveolens L., Capsicum annuum L., Cucumis melo L., Dendranthema (DC.) Dess Moul., az Impatiens New Guinea hibridjeinek összes fajtája, Lactuca sativa L., Lycopersicon lycopersicum (L.) Karsten ex Farw., Nicotiana tabacum L. (amelyekről bizonyított, hogy kereskedelmi célú dohánytermesztés számára értékesítik), Solanum melongena L. és Solanum tuberosum L. növények, a vetőmag kivételével |
+| 15. Tomato spotted wilt virus syn.: Tomato spotted wilt tospovirus | Ültetésre szánt Apium graveolens L., Capsicum annuum L., Cucumis melo L., Dendranthema (DC.) Dess Moul., az Impatiens New Guinea hibridjeinek összes fajtája, Lactuca sativa L., Solanum lycopersicum L, Nicotiana tabacum L. (amelyekről bizonyított, hogy kereskedelmi célú dohánytermesztés számára értékesítik), Solanum melongena L. és Solanum tuberosum L. növények, a vetőmag kivételével |
 
-| 16. Tomato yellow leaf curl virus syn.: Tomato yellow leaf curl bigeminivirus | Ültetésre szánt Lycopersicon lycopersicum (L.) Karsten ex Farw. növények, a vetőmag kivételével |
+| 16. Tomato yellow leaf curl virus syn.: Tomato yellow leaf curl bigeminivirus | Ültetésre szánt Solanum lycopersicum L növények, a vetőmag kivételével |
 
 ## B. RÉSZ
 
@@ -320,9 +320,9 @@
 
 | 4. Gilphinia hercyniae (Hartig) | Picea A. Dietr. növényfajok ültetésre szánt növényei, a vetőmag kivételével | Görögország, Írország, Egyesült Királyság (Észak-Írország, Man-sziget és Jersey) |
 
-| 5. Gonipterus scutellatus Gyll. | Eucalyptus l¨Herit. növényfajok növényei, a termés és a vetőmag kivételével | Görögország, Portugália (Azori-szigetek) |
+| 5. Gonipterus scutellatus Gyll. | Eucalyptus l¨Herit. növényfajok növényei, a termés és a vetőmag kivételével | Görögország, Portugália (Azori- szigetek) |
 
-| 6. a) Ips amitinus Eichhof | Abies Mill., Larix Mill., Picea A. Dietr. és Pinus L. növényfajok több mint 3 m magasságú növényei, a termés és a vetőmag kivételével, tűlevelűek (Coniferales) kérges faanyaga és hántolt kérge | Görögország, Franciaország (Korzika), Írország, Egyesült Királyság |
+| 6. a) Ips amitinus Eichhof | Abies Mill., Larix Mill., Picea A. Dietr. és Pinus L. növényfajok több mint 3 m magasságú növényei, a termés és a vetőmag kivételével, tűlevelűek (Coniferales) kérges faanyaga és hántolt kérge | Görögország, Írország, Egyesült Királyság |
 
 | b) Ips cembrae Heer | Abies Mill., Larix Mill., Picea A. Dietr., Pinus L. és Pseudotsuga Carr. növényfajok több mint 3 m magasságú növényei, a termés és a vetőmag kivételével, tűlevelűek (Coniferales) kérges faanyaga és hántolt kérge | Görögország, Írország, Egyesült Királyság (Észak-Írország, Man-sziget) |
 
@@ -342,11 +342,15 @@
 
 | 1. Curtobacterium flaccumfaciens pv. flaccumfaciens (Hedges) Collins és Jones | Phaseolus vulgaris L. és Dolichos Jacq. vetőmagja | Görögország, Spanyolország, Portugália |
 
-| 2. Erwinia amylovora (Burr.) Winsl. et al. | Az alábbi nemzetségekhez tartozó növények részei, a termés, vetőmag és ültetésre szánt növények kivételével, de beleértve a beporzásra szolgáló élő pollent: Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L. és Sorbus L. | Spanyolország, Észtország, Franciaország (Korzika), Írország, Olaszország (Abruzzo, Apúlia, Basilicata, Calabria, Campania, Emilia-Romagna (Parma és Piacenza megye) Friuli-Venezia Giulia, Lazio, Liguria, Lombardia (Mantua megye kivételével) Marche, Molise, Piedmont, Szardinia, Szicília, Toscana, Umbria, Valle d’Aosta, Veneto (kivéve: Rovigo és Velence megye, valamint Padova megyében Castelbaldo, Barbona, Boara Pisani, Masi, Piacenza d’Adige, S. Urbano, Vescovana közigazgatási terület és Verona megyében az A4 autópályától délre fekvő terület), Lettország, Litvánia, Portugália, Szlovénia (Gorenjska, Koroška, Maribor and Notranjska régiókat kivéve), Szlovákia [Blahó, Felsővámos és Ekecs (Dunaszerdahely megye), Garamdamásd és Garamkelecsény (Lőcse megye), Málnapatak (Poltár megye), Tornagörgő (Rozsnyó megye), Nagyrépény (Topolcsány megye), Nagykázmér, Legenye, Kisgéres, Szenteske és Zétény (Tőketerebes megye) települések kivételével], Finnország, az Egyesült Királyság (Észak-Írország, Man-sziget és a Csatorna-szigetek) |
+| 2. Erwinia amylovora (Burr.) Winsl. et al. | Az alábbi nemzetségekhez tartozó növények részei, a termés, vetőmag és ültetésre szánt növények kivételével, de beleértve a beporzásra szolgáló élő pollent: Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha Roem., Pyrus L. és Sorbus L. | Spanyolország (kivéve Aragónia, Kasztília-La Mancha, Kasztília és León, Extremadura, Murcia, Navarra és La Rioja autonóm közösségek, valamint Guipuzcoa tartomány [Baszkföld], Alt Vinalopó és Vinalopó Mitjà járások (Alicante tartomány) és Alborache és Turís település Valencia tartományban [Comunidad Valenciana]), Észtország, Franciaország (Korzika), Írország (kivéve Galway városa), Olaszország (Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna [Parma és Piacenza megye], Lazio, Liguria, Lombardia [kivéve Mantova és Sondrio megye], Marche, Molise, Piemonte, Puglia, Szardínia (Sardegna), Szicília (Sicilia), Toszkána (Toscana), Umbria, Valle d'Aosta, Veneto [kivéve Rovigo és Velence megye, Barbona, Boara Pisani, Castelbaldo, Masi, Piacenza d'Adige, S. Urbano, Vescovana települések Padova megyében és az A4 autópályától délre fekvő terület Verona megyében]), Lettország, Litvánia (kivéve Babtai és Kėdainiai település [Kaunas megye]), Portugália, Szlovénia (kivéve Gorenjska, Koroška, Maribor és Notranjska régiók, valamint Lendava/Lendva és Renče-Vogrsko [a H4 autópályától délre], Szlovákia (kivéve Blahová/Sárrét, Čenkovce/Csenke, Horné Mýto/Felsővámos, Okoč/Ekecs, Topoľníky/Nyárasd és Trhová Hradská/ Vásárút települések [Dunajská Streda – Dunaszerdahely járás], Hronovce/Lekér és Hronské Kľačany/Garamkelecsény [Levice/Léva járás], Dvory nad Žitavou/Udvard [Nové Zámky/Érsekújvári járás], Málinec/Málnapatak [Poltár járás], Hrhov/Tornagörgő [Rožňava/Rozsnyó járás] Veľké Ripňany/Nagyrépény [Topoľčany/Nagytapolcsányi járás], Kazimír/Kázmér, Luhyňa/Legenye, Malý Horeš/Kisgéres, Svätuše/Szentes és Zatín/Zétény [Trebišov County/Tőketerebesi járás]), Finnország, Egyesült Királyság (Észak-Írország, Man-sziget és a Csatorna-szigetek). |
 
 ## c) Gombák
 
 | Károsító | A fertőzés tárgya | Védett zóna (zónák) |
+
+| 0.1. Ceratocystis platani (J. M. Walter) Engelbr. & T. C. Harr.. | A Platanus L. ültetésre szánt növényei, a vetőmag kivételével, valamint a Platanus L. faanyaga, beleértve az olyan fát is, amely nem tartotta meg természetes hengeres felületét. | Egyesült Királyság |
+
+| 0.2. Cryphonectria parasitica (Murrill) Barr. | Faanyag, kivéve a kéregmentes fát, a hántolt fakéreg és a Castanea Mill ültetésére szánt növények. | Csehország, Írország, Svédország, Egyesült Királyság |
 
 | 1. Cryphonectria parasitica (Murrill.) Barr. | Faanyag, kivéve a kérgezett fát, továbbá a Castanea Mill hántolt fakérge | Csehország, Írország, Svédország, Egyesült Királyság (Man-sziget kivételével) |
 
@@ -360,10 +364,10 @@
 
 | Károsító | A fertőzés tárgya | Védett zóna (zónák) |
 
-| 1. Citrus tristeza virus (európai izolátumok) | Citrus L., Fortunella Swingle, Poncirus Raf. fajok és hibridjeik termése, levelekkel és kocsányokkal | Görögország, Franciaország (Korzika), Málta (2008. március 31-ig) |
+| 1. Citrus tristeza virus (európai izolátumok) | Citrus L., Fortunella Swingle, Poncirus Raf. fajok és hibridjeik termése, levelekkel és kocsányokkal | Görögország (kivéve Argolida és Chania régiókat), Málta, Portugália (kivéve Algarve és Madeira) |
 
-| 2. Grapevine flavescence dorée MLO | A Vitis L. fajhoz tartozó növények, a termés és a vetőmag kivételével | Cseh Köztársaság (2009. március 31-ig), a franciaországi Champagne-Ardenne, Lotaringia és Elzász régiók (2009. március 31-ig), az olaszországi Basilicata régió (2009. március 31-ig) |
+| 2. Grapevine flavescence dorée MLO | A Vitis L. fajhoz tartozó növények, a termés és a vetőmag kivételével | Csehország, Franciaország (Elzász, Champagne-Ardenne, Pikárdia (Aisne megye), Île-de-France (Citry, Nanteuil-sur-Marne és Saâcy-sur-Marne települések) és Lotaringia), Olaszország (Puglia, Basilicata és Sardegna) |
 
-3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^334]
+3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^351]
 
-[^334]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
+[^351]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.

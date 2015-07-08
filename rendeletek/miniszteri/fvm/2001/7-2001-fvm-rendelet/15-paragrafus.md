@@ -1,6 +1,6 @@
 ## Külön engedéllyel történő behozatal
 
-15. §[^83] (1)[^84] A NÉBIH az 5. § (1) és (2) bekezdésében, valamint az 5/B. § (4) és (5) bekezdésében meghatározott előírások alól kérelemre, rendkívüli esetben felmentést adhat, amennyiben a zárlati károsítók terjedésének veszélye nem áll fenn, és a növényt, növényi terméket vagy egyéb anyagot Magyarországgal határos harmadik ország határzónájában termesztik, állítják elő, vagy használják fel, és a határzónához közeli magyarországi területre feldolgozás céljából kívánják behozni.
+15. §[^89] (1)[^90] A NÉBIH az 5. § (1) és (2) bekezdésében, valamint az 5/B. § (4) és (5) bekezdésében meghatározott előírások alól kérelemre, rendkívüli esetben felmentést adhat, amennyiben a zárlati károsítók terjedésének veszélye nem áll fenn, és a növényt, növényi terméket vagy egyéb anyagot Magyarországgal határos harmadik ország határzónájában termesztik, állítják elő, vagy használják fel, és a határzónához közeli magyarországi területre feldolgozás céljából kívánják behozni.
 
 (2) Az engedély iránti kérelemnek tartalmaznia kell:
 
@@ -14,17 +14,17 @@ d) a rendeltetési címet és a későbbi felhasználás helyét,
 
 e) a behozatal részletes indoklását.
 
-(3)[^85] A NÉBIH az (1) bekezdés szerinti engedélyt határozat formájában adja ki, amelyben rendelkezik a vizsgálatköteles áru szállításával, fuvarozásával, tárolásával és felhasználásával kapcsolatos intézkedésekről.
+(3)[^91] A NÉBIH az (1) bekezdés szerinti engedélyt határozat formájában adja ki, amelyben rendelkezik a vizsgálatköteles áru szállításával, fuvarozásával, tárolásával és felhasználásával kapcsolatos intézkedésekről.
 
-(4)[^86] Az engedély hatálya alá tartozó árut kísérő okmányokon fel kell tüntetni az áru származási helyét.
+(4)[^92] Az engedély hatálya alá tartozó árut kísérő okmányokon fel kell tüntetni az áru származási helyét.
 
-(5)[^87] Az engedély kiadása után a NÉBIH nyilvántartásba veszi a feldolgozás helyét és az azt végző természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet adatait. Ezeket az adatokat rendszeresen karbantartja és a Bizottság rendelkezésére bocsátja.
+(5)[^93] Az engedély kiadása után a NÉBIH nyilvántartásba veszi a feldolgozás helyét és az azt végző természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet adatait. Ezeket az adatokat rendszeresen karbantartja és a Bizottság rendelkezésére bocsátja.
 
-(6)[^88] Az engedélyt a vizsgálatköteles áru beléptetésekor a vámhatóság részére be kell mutatni.
+(6)[^94] Az engedélyt a vizsgálatköteles áru beléptetésekor a vámhatóság részére be kell mutatni.
 
-[^83]: A 15. § a 37/2003. (IV. 4.) FVM rendelet 13. §-ával megállapított szöveg.
-[^84]: A 15. § (1) bekezdése a 37/2005. (IV. 27.) FVM rendelet 8. § (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^85]: A 15. § (3) bekezdése a 97/2005. (X. 28.) FVM rendelet 9. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 67. pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^86]: A 15. § (4) bekezdése a 37/2005. (IV. 27.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^87]: A 15. § (5) bekezdését a 37/2005. (IV. 27.) FVM rendelet 8. § (2) bekezdése iktatta be, szövege a a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja, a 22/2014. (III. 14.) VM rendelet 8. § (2) bekezdése szerint módosított szöveg.
-[^88]: A 15. § (6) bekezdését a 37/2005. (IV. 27.) FVM rendelet 8. § (2) bekezdése iktatta be.
+[^89]: A 15. § a 37/2003. (IV. 4.) FVM rendelet 13. §-ával megállapított szöveg.
+[^90]: A 15. § (1) bekezdése a 37/2005. (IV. 27.) FVM rendelet 8. § (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^91]: A 15. § (3) bekezdése a 97/2005. (X. 28.) FVM rendelet 9. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 67. pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^92]: A 15. § (4) bekezdése a 37/2005. (IV. 27.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^93]: A 15. § (5) bekezdését a 37/2005. (IV. 27.) FVM rendelet 8. § (2) bekezdése iktatta be, szövege a a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja, a 22/2014. (III. 14.) VM rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^94]: A 15. § (6) bekezdését a 37/2005. (IV. 27.) FVM rendelet 8. § (2) bekezdése iktatta be.

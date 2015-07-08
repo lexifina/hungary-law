@@ -1,8 +1,8 @@
-51. § (1)[^204] Behozatali, illetve a 61. § (2) bekezdésében foglaltaknak megfelelő átmenő forgalomban a vizsgálatköteles áru növényegészségügyi bizonyítványának meglétét a határállomáson működő vámhivatal, postaküldemény esetében pedig a postahivatal mellett működő vámhivatal köteles ellenőrizni. A vámhivatal a küldeményről értesíti a növényegészségügyi határállomást, amely az előírásoknak megfelelően elvégzi annak növényegészségügyi ellenőrzését. Ezt követően, az ellenőrzés eredményének megfelelően, a növényvédelmi felügyelő a küldeményt visszautasítja vagy belépteti, és visszaadja azt további vámigazgatási eljárás végrehajtása érdekében.
+51. § (1)[^216] Behozatali, illetve a 61. § (2) bekezdésében foglaltaknak megfelelő átmenő forgalomban a vizsgálatköteles áru növényegészségügyi bizonyítványának meglétét a határállomáson működő vámhivatal, postaküldemény esetében pedig a postahivatal mellett működő vámhivatal köteles ellenőrizni. A vámhivatal a küldeményről értesíti a növényegészségügyi határállomást, amely az előírásoknak megfelelően elvégzi annak növényegészségügyi ellenőrzését. Ezt követően, az ellenőrzés eredményének megfelelően, a növényvédelmi felügyelő a küldeményt visszautasítja vagy belépteti, és visszaadja azt további vámigazgatási eljárás végrehajtása érdekében.
 
-(2)[^205] A 6. számú melléklet B. részében felsorolt növények, növényi termékek és egyéb anyagok importőreit – függetlenül attól, hogy termelők-e – a növény- és talajvédelmi igazgatóságnak nyilvántartásba kell vennie és egyedi azonosító számmal kell ellátnia. A nyilvántartásba vett importőr köteles értesíteni a növény- és talajvédelmi igazgatóságot, ha zárlati károsítót, annak tünetét vagy bármilyen más növényi rendellenességet észlel.
+(2)[^217] A 6. számú melléklet B. részében felsorolt növények, növényi termékek és egyéb anyagok importőreit – függetlenül attól, hogy termelők-e – a fővárosi és megyei kormányhivatalnak nyilvántartásba kell vennie és egyedi azonosító számmal kell ellátnia. A nyilvántartásba vett importőr köteles értesíteni a fővárosi és megyei kormányhivatalt, ha zárlati károsítót, annak tünetét vagy bármilyen más növényi rendellenességet észlel.
 
-(3)[^206] A 6. számú melléklet B. részében felsorolt növényekből, növényi termékekből és egyéb anyagokból álló vagy azokat tartalmazó szállítmányok importőreinek vagy vámügyintézéssel megbízott képviselőinek az 50/A. § szerinti vámeljárás alá vonáshoz be kell nyújtani a szállítmányra vonatkozó okmányt vagy nyilatkozatot, amely legalább a következő adatokat tartalmazza:
+(3)[^218] A 6. számú melléklet B. részében felsorolt növényekből, növényi termékekből és egyéb anyagokból álló vagy azokat tartalmazó szállítmányok importőreinek vagy vámügyintézéssel megbízott képviselőinek az 50/A. § szerinti vámeljárás alá vonáshoz be kell nyújtani a szállítmányra vonatkozó okmányt vagy nyilatkozatot, amely legalább a következő adatokat tartalmazza:
 
 a) hivatkozást a növények, növényi termékek és egyéb anyagok típusára, az Európai Közösségek Integrált Vámtarifája (TARIC) szerinti kód alkalmazásával,
 
@@ -10,12 +10,12 @@ b) „Ez a szállítmány növényegészségügyi vizsgálatköteles árut tarta
 
 c) a szükséges növényegészségügyi dokumentáció hivatkozási száma(i)t (sorszám, azonosító szám),
 
-d)[^207] az importőr (2) bekezdés szerinti növény-egészségügyi nyilvántartási számát.
+d)[^219] az importőr (2) bekezdés szerinti növény-egészségügyi nyilvántartási számát.
 
-(4)[^208] A repülőtéri hatóságok, a kikötői hatóságok vagy az importőrök, illetve az üzemeltetők – a közöttük lévő megállapodás szerint – a szállítmányok érkezéséről előzetesen értesítik a belépési hely vámhivatalát és a növény- és talajvédelmi igazgatóságot. Ez a rendelkezés alkalmazható a vasúti és a közúti szállításra is, ha a szállítmány érkezése az érintett határállomás nyitvatartási idején kívüli időpontban várható.
+(4)[^220] A repülőtéri hatóságok, a kikötői hatóságok vagy az importőrök, illetve az üzemeltetők – a közöttük lévő megállapodás szerint – a szállítmányok érkezéséről előzetesen értesítik a belépési hely vámhivatalát és a fővárosi és megyei kormányhivatalt. Ez a rendelkezés alkalmazható a vasúti és a közúti szállításra is, ha a szállítmány érkezése az érintett határállomás nyitvatartási idején kívüli időpontban várható.
 
-[^204]: Az 51. § eredeti szövegének jelölését (1) bekezdésre változtatta a 37/2005. (IV. 27.) FVM rendelet 14. §-a, szövegét módosította a 10/2009. (II. 25.) FVM rendelet 12. §-a.
-[^205]: Az 51. § (2) bekezdését a 37/2005. (IV. 27.) FVM rendelet 14. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. Az 51. § (2) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés a) és e) pontja szerint módosított szöveg.
-[^206]: Az 51. § (3) bekezdését a 37/2005. (IV. 27.) FVM rendelet 14. §-a iktatta be.
-[^207]: Az 51. § (3) bekezdés d) pontja a 30/2010. (III. 30.) FVM rendelet 4. §-ával megállapított szöveg.
-[^208]: Az 51. § (4) bekezdését a 37/2005. (IV. 27.) FVM rendelet 14. §-a iktatta be, szövege a 10/2009. (II. 25.) FVM rendelet 12. §-a, a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^216]: Az 51. § eredeti szövegének jelölését (1) bekezdésre változtatta a 37/2005. (IV. 27.) FVM rendelet 14. §-a, szövegét módosította a 10/2009. (II. 25.) FVM rendelet 12. §-a.
+[^217]: Az 51. § (2) bekezdését a 37/2005. (IV. 27.) FVM rendelet 14. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. Az 51. § (2) bekezdése a 39/2015. (VII. 3.) FM rendelet 6. § c)–d) pontja szerint módosított szöveg.
+[^218]: Az 51. § (3) bekezdését a 37/2005. (IV. 27.) FVM rendelet 14. §-a iktatta be.
+[^219]: Az 51. § (3) bekezdés d) pontja a 30/2010. (III. 30.) FVM rendelet 4. §-ával megállapított szöveg.
+[^220]: Az 51. § (4) bekezdését a 37/2005. (IV. 27.) FVM rendelet 14. §-a iktatta be, szövege a 10/2009. (II. 25.) FVM rendelet 12. §-a, a 39/2015. (VII. 3.) FM rendelet 6. § c) pontja szerint módosított szöveg.

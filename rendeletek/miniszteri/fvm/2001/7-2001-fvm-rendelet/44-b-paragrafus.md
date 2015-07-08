@@ -1,13 +1,13 @@
-## 44/A. §[^189] E rendelet alkalmazásában a feltartóztatás az 53/A. § (2) bekezdése alapján végrehajtott vagy végrehajtandó eljárást jelenti harmadik országból érkező, a rendelet előírásainak nem megfelelő vizsgálatköteles áruból álló vagy zárlati károsítót tartalmazó szállítmány egészével, vagy annak egy részével kapcsolatban.
+## 44/A. §[^201] E rendelet alkalmazásában a feltartóztatás az 53/A. § (2) bekezdése alapján végrehajtott vagy végrehajtandó eljárást jelenti harmadik országból érkező, a rendelet előírásainak nem megfelelő vizsgálatköteles áruból álló vagy zárlati károsítót tartalmazó szállítmány egészével, vagy annak egy részével kapcsolatban.
 
-44/B. §[^190] (1)[^191] A növény- és talajvédelmi igazgatóság feltartóztatás esetén az erről szóló bejelentést legkésőbb 2 nappal a feltartóztatás napját követően megküldi a NÉBIH, valamint valamennyi magyar növényegészségügyi határállomás részére, a növényegészségügyi bizonyítvány nélkül vagy hiányosan kitöltött növényegészségügyi bizonyítvánnyal érkező vizsgálatköteles áruk kivételével. Amennyiben lehetséges, a visszautasítással együtt járó feltartóztatást ennél is gyorsabban be kell jelenteni, a növényegészségügyi bizonyítvány nélkül vagy hiányosan kitöltött növényegészségügyi bizonyítvánnyal érkező vizsgálatköteles áruk kivételével.
+44/B. §[^202] (1)[^203] A fővárosi és megyei kormányhivatal feltartóztatás esetén az erről szóló bejelentést legkésőbb 2 nappal a feltartóztatás napját követően megküldi a NÉBIH, valamint valamennyi magyar növényegészségügyi határállomás részére, a növényegészségügyi bizonyítvány nélkül vagy hiányosan kitöltött növényegészségügyi bizonyítvánnyal érkező vizsgálatköteles áruk kivételével. Amennyiben lehetséges, a visszautasítással együtt járó feltartóztatást ennél is gyorsabban be kell jelenteni, a növényegészségügyi bizonyítvány nélkül vagy hiányosan kitöltött növényegészségügyi bizonyítvánnyal érkező vizsgálatköteles áruk kivételével.
 
-(2)[^192] A NÉBIH a növény- és talajvédelmi igazgatóságtól kapott bejelentést haladéktalanul továbbítja a többi tagállam kijelölt központi hatósága felé, továbbá a Bizottság részére.
+(2)[^204] A NÉBIH a fővárosi és megyei kormányhivataltól kapott bejelentést haladéktalanul továbbítja a többi tagállam kijelölt központi hatósága felé, továbbá a Bizottság részére.
 
-(3)[^193] Egy másik tagállamtól kapott feltartóztatási bejelentés átvételekor a NÉBIH az ezzel kapcsolatos adatokat haladéktalanul elküldi a növény- és talajvédelmi igazgatóságnak és az érintett növényegészségügyi határállomásokra.
+(3)[^205] Egy másik tagállamtól kapott feltartóztatási bejelentés átvételekor a NÉBIH az ezzel kapcsolatos adatokat haladéktalanul elküldi a fővárosi és megyei kormányhivatalnak és az érintett növényegészségügyi határállomásokra.
 
-[^189]: A 44/A. §-t a 37/2003. (IV. 4.) FVM rendelet 29. §-a iktatta a szövegbe.
-[^190]: A 44/B. §-t a 37/2003. (IV. 4.) FVM rendelet 29. §-a iktatta a szövegbe.
-[^191]: A 44/B. § (1) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a, a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés f) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^192]: A 44/B. § (2) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés m) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^193]: A 44/B. § (3) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a, a 114/2011. (XII. 5.) VM rendelet 5. § (3) bekezdés e) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^201]: A 44/A. §-t a 37/2003. (IV. 4.) FVM rendelet 29. §-a iktatta a szövegbe.
+[^202]: A 44/B. §-t a 37/2003. (IV. 4.) FVM rendelet 29. §-a iktatta a szövegbe.
+[^203]: A 44/B. § (1) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja, a 39/2015. (VII. 3.) FM rendelet 6. § b) pontja szerint módosított szöveg.
+[^204]: A 44/B. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja, a 39/2015. (VII. 3.) FM rendelet 6. § j) pontja szerint módosított szöveg.
+[^205]: A 44/B. § (3) bekezdése a 10/2009. (II. 25.) FVM rendelet 12. §-a, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja, a 39/2015. (VII. 3.) FM rendelet 6. § d) pontja szerint módosított szöveg.

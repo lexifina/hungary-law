@@ -1,4 +1,4 @@
-16. § (1)[^89] Kísérleti vagy tudományos célú tevékenység, illetve fajtaszelekciós munka (a továbbiakban: kutatás) céljára az 1–6. számú mellékletben meghatározott tilalmazott károsítónak, vizsgálatköteles árunak, továbbá egyéb, Magyarországon nem honos életképes növényi károsító bármely fejlődési alakjának, tenyészetének Magyarországra való behozatalát vagy belföldi szállítását, fuvarozását, illetve felhasználását kérelemre a NÉBIH engedélyezheti, amennyiben a 8. számú mellékletben meghatározott általános feltételek fennállnak. Indokolt esetben a NÉBIH kiegészítő feltételeket határozhat meg. A feltételek megváltozása az engedély visszavonásával jár.
+16. § (1)[^95] Kísérleti vagy tudományos célú tevékenység, illetve fajtaszelekciós munka (a továbbiakban: kutatás) céljára az 1–6. számú mellékletben meghatározott tilalmazott károsítónak, vizsgálatköteles árunak, továbbá egyéb, Magyarországon nem honos életképes növényi károsító bármely fejlődési alakjának, tenyészetének Magyarországra való behozatalát vagy belföldi szállítását, fuvarozását, illetve felhasználását kérelemre a NÉBIH engedélyezheti, amennyiben a 8. számú mellékletben meghatározott általános feltételek fennállnak. Indokolt esetben a NÉBIH kiegészítő feltételeket határozhat meg. A feltételek megváltozása az engedély visszavonásával jár.
 
 (2) Az engedély iránti kérelemnek tartalmaznia kell:
 
@@ -16,20 +16,20 @@ f) a kutatás engedélyezését követő első tárolás vagy első telepítés 
 
 g) az engedélyezett tevékenységek befejezésekor az anyag megsemmisítésére vagy kezelésére javasolt módszert,
 
-h)[^90] import esetén a belépő növényegészségügyi határállomás helyét.
+h)[^96] import esetén a belépő növényegészségügyi határállomás helyét.
 
-(3)[^91] A kutatási tevékenység jóváhagyását követően a NÉBIH a 8. számú mellékletben meghatározott minta szerinti engedélyt adja ki, amelynek minden esetben kísérnie kell a kutatási anyagot.
+(3)[^97] A kutatási tevékenység jóváhagyását követően a NÉBIH a 8. számú mellékletben meghatározott minta szerinti engedélyt adja ki, amelynek minden esetben kísérnie kell a kutatási anyagot.
 
 (4) A 6. számú mellékletben meghatározott vizsgálatköteles áruk behozatala esetén a kutatási anyagot a hatályos növényegészségügyi előírásoknak megfelelő vizsgálat alapján, a származási ország hatósága által kiállított növényegészségügyi bizonyítványnak kell kísérnie, melynek kiegészítő nyilatkozatában fel kell tüntetni az engedély számát és a következő megjegyzést: ,,Ezt az anyagot a 7/2001. (I. 17.) FVM rendelet 16. §-a értelmében importálják Magyarországra.'' Az előírások nem érintik azt a károsítót, amellyel az (1) bekezdésben engedélyezett kutatást végzik.
 
-(5)[^92] A 6. számú mellékletben felsorolt vizsgálatköteles áru belföldi szállítása, fuvarozása esetén a kutatási anyagot a növényegészségügyi előírásoknak megfelelő vizsgálat alapján kiállított növényútlevélnek kell kísérnie. A növényegészségügyi előírások nem érintik azt a károsítót, amellyel az (1) bekezdésben engedélyezett kutatást végzik.
+(5)[^98] A 6. számú mellékletben felsorolt vizsgálatköteles áru belföldi szállítása, fuvarozása esetén a kutatási anyagot a növényegészségügyi előírásoknak megfelelő vizsgálat alapján kiállított növényútlevélnek kell kísérnie. A növényegészségügyi előírások nem érintik azt a károsítót, amellyel az (1) bekezdésben engedélyezett kutatást végzik.
 
 (6) A kutatási anyaggal folytatott valamennyi tevékenységet (ideértve a behozatalt és a szállítást is) a 8. számú melléklet előírásai szerinti zárlati körülmények között kell végezni.
 
-(7)[^93] A növény- és talajvédelmi igazgatóság ellenőrzi a 8. számú mellékletben meghatározott zárlati intézkedések betartását és a kutatási anyag, valamint járulékos anyagai növényegészségügyi követelményeknek megfelelő kezelését, beleértve a sterilizálást, a fertőtlenítést, a megsemmisítést és az elrendelt egyéb eljárási módokat is.
+(7)[^99] A fővárosi és megyei kormányhivatal ellenőrzi a 8. számú mellékletben meghatározott zárlati intézkedések betartását és a kutatási anyag, valamint járulékos anyagai növényegészségügyi követelményeknek megfelelő kezelését, beleértve a sterilizálást, a fertőtlenítést, a megsemmisítést és az elrendelt egyéb eljárási módokat is.
 
-[^89]: A 16. § (1) bekezdése a 37/2003. (IV. 4.) FVM rendelet 14. § (1) bekezdésével megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 67. pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^90]: A 16. § (2) bekezdés h) pontja a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
-[^91]: A 16. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^92]: A 16. § (5) bekezdése a 37/2003. (IV. 4.) FVM rendelet 14. §-ának (2) bekezdésével megállapított szöveg.
-[^93]: A 16. § (7) bekezdése a 114/2011. (XII. 5.) VM rendelet 5. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^95]: A 16. § (1) bekezdése a 37/2003. (IV. 4.) FVM rendelet 14. § (1) bekezdésével megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 67. pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^96]: A 16. § (2) bekezdés h) pontja a 10/2009. (II. 25.) FVM rendelet 12. §-a szerint módosított szöveg.
+[^97]: A 16. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^98]: A 16. § (5) bekezdése a 37/2003. (IV. 4.) FVM rendelet 14. §-ának (2) bekezdésével megállapított szöveg.
+[^99]: A 16. § (7) bekezdése a 39/2015. (VII. 3.) FM rendelet 6. § b) pontja szerint módosított szöveg.

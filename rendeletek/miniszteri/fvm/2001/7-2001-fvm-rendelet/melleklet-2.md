@@ -14,6 +14,12 @@
 
 | 1. | Acleris spp. (nem-európai fajok) |  |
 
+| 1.1. | Agrilus anxius Gory |  |
+
+| 1.2. | Agrilus planipennis Fairmaire |  |
+
+| 1.3. | Anthonomus eugenii Cano |  |
+
 | 2. | Amauromyza maculosa (Malloch) |  |
 
 | 3. | Anomala orientalis Waterhouse |  |
@@ -71,6 +77,8 @@
 | 10. | Conotrachelus nenuphar (Herbst) |  |
 
 | 10.1. | Dendrolimus sibiricus Tschetverikov |  |
+
+| 10.2. | Diaphorina citri Kuway |  |
 
 | 11. | Diabrotica barberi Smith and Lawrence |  |
 
@@ -188,7 +196,9 @@
 
 ## b) Baktériumok
 
-## Xylella fastidiosa (Well és Raju)
+## 1. Candidatus Liberibacter spp.,
+
+## 2. Xylella fastidiosa (Well és Raju)
 
 ## c) Gombák
 
@@ -212,7 +222,7 @@
 
 | 8. | Melampsora farlowii (Arthur) Davis |
 
-| 9. | Monilinia fructicola (Winter) Honey |
+| 9. |  |
 
 | 10. | Mycosphaerella larici-leptolepis Ito et al. |
 
@@ -366,11 +376,13 @@
 
 ## a) Rovarok, atkák és fonálférgek fejlődésük valamennyi stádiumában
 
+| 0.1. | Bursaphelenchus xylophilus (Steiner és Bührer) Nickle et al |
+
 | 1. | Globodera rostochiensis (Wollenweber) Behrens |
 
 | 2. | Globodera pallida (Stone) Behrens |
 
-| 3. |  |
+| 3. | Trioza erytreae Del Guercio |
 
 | 4. | Meloidogyne chitwoodi Golden et al. (minden populáció) |
 
@@ -388,9 +400,7 @@
 
 | 1. | Clavibacter michiganensis (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al. |
 
-| 2. | Pseudomonas solanacearum (Smith) Smith |
-
-|  | syn.: Ralstonia solanacearum (Smith) Yabuuchi et al. |
+| 2. | Ralstonia solanacearum (Smith) Yabuuchi et al. |
 
 ## c) Gombák
 
@@ -422,15 +432,19 @@
 
 | Károsító | Védett zóna (zónák) |
 
-| 1. Bemisia tabaci Genn. (európai populációk) | Írország, Portugália (Azori-szigetek, belső Beira, tengerparti Beira, Douro és Minho köze, Madeira, Ribatejo és Oeste (Albobaça, Alenquer, Bombarral, Cadaval, Caldas da Rainha, Lourinhn, Nazaré, Obidos, Peniche és Torres Vedras települések) és Trás-os-Montes), Egyesült Királyság, Svédország, Finnország |
+| 1. Bemisia tabaci Genn. (európai populációk) | Írország, Portugália (Azori-szigetek, belső Beira, tengerparti Beira, Douro és Minho köze, Ribatejo és Oeste (Alcobaça, Alenquer, Bombarral, Cadaval, Caldas da Rainha, Lourinhã, Nazaré, Obidos, Peniche és Torres Vedras települések) és Trás-os- Montes), Egyesült Királyság, Svédország, Finnország |
 
-| 1.1. Daktulosphaira vitifoliae (Fitch) | Ciprus (2008. március 31-ig) |
+| 1.1. | Daktulosphaira vitifoliae (Fitch) | Ciprus |
+
+| 1.2. | Dryocosmus kuriphilus Yasumatsu | Írország, Portugália, Egyesült Királyság |
 
 | 2. Globodera pallida (Stone) Behrens | Finnország, Lettország, Szlovénia, Szlovákia |
 
 | 3. Leptinotarsa decemlineata Say | Spanyolország (Menorca, Ibiza), Írország, Ciprus (2008. március 31-ig), Málta, Portugália (Azori-szigetek és Madeira), Egyesült Királyság, Svédország (Blekinge, Gotland, Halland, Kalmar és SkDne), Finnország (Cland területei, Turku, Uusimaa, Kymi, Häme, Pirkanmaa, Satakunta) |
 
 | 4. Liriomyza bryoniae (Kaltenbach) | Írország és az Egyesült Királyság (Észak-Irország) |
+
+| 5. Thaumatopoea processionea L. | Írország, Egyesült Királyság (kivéve a következő önkormányzatok területeit: Barnet; Brent; Bromley; Camden; London Város; Westminster Város; Croydon; Ealing; Elmbridge District; Epsom és Ewell District; Hackney; Hammersmith & Fulham; Haringey; Harrow; Hillingdon; Hounslow; Islington; Kensington & Chelsea; Kingston upon Thames; Lambeth; Lewisham; Merton; Reading; Richmond Upon Thames; Runnymede District; Slough; South Oxfordshire; Southwark; Spelthorne District; Sutton; Tower Hamlets; Wandsworth és West Berkshire) |
 
 ## b) Vírusok és vírusszerű szervezetek
 
@@ -440,6 +454,6 @@
 
 | 2. Tomato spotted wilt virus | Svédország, Finnország |
 
-2. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^333]
+2. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^350]
 
-[^333]: A 2. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 7. §-ának (1) bekezdése, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (2) bekezdése, 13. § (3) bekezdés f)–g) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (2) bekezdése és 4. § (2) bekezdésének a) pontja, a 30/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése és 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^350]: A 2. számú melléklet a 37/2003. (IV. 4.) FVM rendelet 40. § (1) bekezdésével megállapított, a 63/2004. (IV. 27.) FVM rendelet 9. §-a, a 119/2004. (VII. 12.) FVM 2. §-a, a 62/2005. (VII. 8.) FVM rendelet 7. §-ának (1) bekezdése, a 81/2005. (IX. 13.) FVM rendelet 4. § (1) bekezdése, az 56/2006. (VIII. 1.) FVM rendelet 6. § (1) bekezdése, az 5/2008. (I. 17.) FVM rendelet 4. § (1) bekezdése, a 10/2009. (II. 25.) FVM rendelet 11. § (2) bekezdése, 13. § (3) bekezdés f)–g) pontja, a 72/2009. (VI. 25.) FVM rendelet 3. § (2) bekezdése és 4. § (2) bekezdésének a) pontja, a 30/2010. (III. 30.) FVM rendelet 7. § (1) bekezdése és 9. § (2) bekezdés b) pontja, a 39/2015. (VII. 3.) FM rendelet 5. § (2) bekezdése és 7. § c)–g) pontja szerint módosított szöveg.

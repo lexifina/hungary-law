@@ -2,14 +2,14 @@
 
 (2)[^29] Az (1) bekezdésben meghatározott feladatok összehangolásáért és végrehajtásáért, valamint a nemzetközi kapcsolattartásért a Földművelésügyi Minisztérium (a továbbiakban: minisztérium) a felelős.
 
-(3)[^30] Az Európai Bizottság (a továbbiakban: Bizottság) által felhatalmazott szakértő jogosult Magyarországon a növényegészségügyi közösségi előírások betartását, valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), a fővárosi és megyei kormányhivatal növény- és talajvédelmi igazgatósága (a továbbiakban: növény- és talajvédelmi igazgatóság) hatósági tevékenységét ellenőrizni.
+(3)[^30] Az Európai Bizottság (a továbbiakban: Bizottság) által felhatalmazott szakértő jogosult Magyarországon a növényegészségügyi közösségi előírások betartását, valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), a növény- és talajvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: fővárosi és megyei kormányhivatal) hatósági tevékenységét ellenőrizni.
 
-(4)[^31] A NÉBIH és a növény- és talajvédelmi igazgatóság e rendeletben meghatározott feladatai teljesítése során köteles együttműködni a hazai és más tagállami növényegészségügyi és vámhatóságokkal.
+(4)[^31] A NÉBIH és a fővárosi és megyei kormányhivatal e rendeletben meghatározott feladatai teljesítése során köteles együttműködni a hazai és más tagállami növényegészségügyi és vámhatóságokkal.
 
 (5)[^32] A (4) bekezdés szerinti együttműködés részletes feltételeit a NÉBIH és a Nemzeti Adó- és Vámhivatal által megkötött megállapodás tartalmazza.
 
 [^28]: A 2. § eredeti szövegének jelölését (1) bekezdésre változtatta a 37/2003. (IV. 4.) FVM rendelet 2. §-a, az (1) bekezdés szövege a 37/2005. (IV. 27.) FVM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^29]: A 2. § (2) bekezdését a 37/2003. (IV. 4.) FVM rendelet 2. §-a iktatta be, szövege a 63/2004. (IV. 27.) FVM rendelet 10. § (2) bekezdése, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés a) pontja, a 9/2014. (IX. 12.) FM rendelet 10. § a) pontja szerint módosított szöveg.
-[^30]: A 2. § (3) bekezdését a 37/2003. (IV. 4.) FVM rendelet 2. §-a iktatta be, szövege a 65/2007. (VII. 23.) FVM rendelet 2. §-ával megállapított, a 10/2009. (II. 25.) FVM rendelet 13. § (3) bekezdés a) pontja, a 114/2011. (XII. 5.) VM rendelet 5. § (1) bekezdés a) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^31]: A 2. § (4) bekezdését a 37/2005. (IV. 27.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege a 114/2011. (XII. 5.) VM rendelet 5. § (1) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^30]: A 2. § (3) bekezdését a 37/2003. (IV. 4.) FVM rendelet 2. §-a iktatta be, szövege a 65/2007. (VII. 23.) FVM rendelet 2. §-ával megállapított, a 10/2009. (II. 25.) FVM rendelet 13. § (3) bekezdés a) pontja, a 114/2011. (XII. 5.) VM rendelet 5. § (1) bekezdés a) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés b) pontja, a 39/2015. (VII. 3.) FM rendelet 6. § a) pontja szerint módosított szöveg.
+[^31]: A 2. § (4) bekezdését a 37/2005. (IV. 27.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege a 114/2011. (XII. 5.) VM rendelet 5. § (1) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés c) pontja, a 39/2015. (VII. 3.) FM rendelet 6. § b) pontja szerint módosított szöveg.
 [^32]: A 2. § (5) bekezdését a 37/2005. (IV. 27.) FVM rendelet 2. § (2) bekezdése iktatta be, szövege a 114/2011. (XII. 5.) VM rendelet 1. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
