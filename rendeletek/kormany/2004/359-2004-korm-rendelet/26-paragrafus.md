@@ -1,4 +1,4 @@
-26. § (1)[^55] A fejezetet irányító szerv vezetője programonként forintban vezetett lebonyolítási fizetési számlát nyit a kincstárban. A lebonyolítási fizetési számla felett a nemzeti hatóságnak rendelkezési joga van.
+26. § (1)[^58] A fejezetet irányító szerv vezetője programonként forintban vezetett lebonyolítási fizetési számlát nyit a kincstárban. A lebonyolítási fizetési számla felett a nemzeti hatóságnak rendelkezési joga van.
 
 (2) A programonkénti forint lebonyolítási bankszámláról valósul meg a kedvezményezett támogatásra jogosult számlaköveteléseinek teljesítése, illetve a szállítók kifizetése.
 
@@ -6,7 +6,7 @@
 
 (4) A bankszámlák feletti rendelkezési jogosultságot két, a Magyar Államkincstárnál bejelentett és nyilvántartott személy együttes aláírásával lehet gyakorolni.
 
-(5)[^56] A lebonyolítási fizetési számla feletti rendelkezési jogot a fejezetet irányító szerv vezetője a nemzeti hatóság javaslatára a közreműködő szervezetnek átadhatja.
+(5)[^59] A lebonyolítási fizetési számla feletti rendelkezési jogot a fejezetet irányító szerv vezetője a nemzeti hatóság javaslatára a közreműködő szervezetnek átadhatja.
 
-[^55]: A 26. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^56]: A 26. § (5) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^58]: A 26. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^59]: A 26. § (5) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

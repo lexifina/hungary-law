@@ -1,4 +1,4 @@
-## 17–18. §[^37]
+## 17–18. §[^40]
 
 ## Költségigazolás
 
@@ -28,4 +28,4 @@ h) a kifizető hatóság előzetes írásbeli értesítése alapján hozzáfér�
 
 (5) A kifizető hatóság a kiadások megfelelő igazolása érdekében a pénzügyi lebonyolítás tekintetében a teljes rendszert ellenőrzi. A kifizető hatóság az igazolási tevékenységének alátámasztása érdekében tényfeltáró látogatást tesz a program hazai pénzügyi lebonyolításában részt vevő szervezeteknél, az irányító hatóságnál és a közreműködő szervezetnél.
 
-[^37]: A 17–18. §-t a 113/2011. (VII. 7.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^40]: A 17–18. §-t a 113/2011. (VII. 7.) Korm. rendelet 26. §-a hatályon kívül helyezte.

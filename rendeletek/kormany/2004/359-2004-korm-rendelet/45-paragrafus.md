@@ -1,23 +1,24 @@
 ## 44/K. § A 44/I–44/J. §-ban írt jelentési kötelezettségek csak azon szabálytalanságokra vonatkoznak, amelyek hátrányosak vagy hátrányosak lehetnek az Európai Unió általános költségvetésére.
 
-## NEGYEDIK RÉSZ[^77]
+## NEGYEDIK RÉSZ[^80]
 
 ## ELLENŐRZÉS
 
 ## Folyamatba épített ellenőrzés
 
-45. § (1) A folyamatba épített ellenőrzési tevékenység tekintetében az Áht., valamint – az e rendeletben foglalt eltérésekkel – az Ámr. előírásai az irányadók.
+45. § (1)[^81] A folyamatba épített ellenőrzési tevékenység tekintetében az Áht., valamint – az e rendeletben foglalt eltérésekkel – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet előírásai az irányadók.
 
 (2) Az irányító hatóság, a kifizető hatóság, a nemzeti hatóság és a közreműködő szervezet
 
 a) olyan pénzügyi irányítási és ellenőrzési rendszert alakítanak ki és működtetnek, amely biztosítja, hogy a szervezetek tevékenysége szabályszerű és megfelelően szabályozott, gazdaságos, hatékony és eredményes, az információk pontosak és a megfelelő időben rendelkezésre állnak;
 
-b)[^78] a tervezés, a pályáztatás, a szerződéskötés, a pénzügyi lebonyolítás, ellenőrzés és a monitoring feladatait funkcionálisan elkülönítik, ezen feladatok megfelelő szabályozásáról a vonatkozó belső szabályzataikban gondoskodnak;
+b)[^82] a tervezés, a pályáztatás, a szerződéskötés, a pénzügyi lebonyolítás, ellenőrzés és a monitoring feladatait funkcionálisan elkülönítik, ezen feladatok megfelelő szabályozásáról a vonatkozó belső szabályzataikban gondoskodnak;
 
-c)[^79] a szerződéskötés, a pénzügyi lebonyolítás és a beszámolás folyamataiban és ezen folyamatok adatainak az IMIR-be történő bevitele során biztosítják a négy szem elvének érvényesülését;
+c)[^83] a szerződéskötés, a pénzügyi lebonyolítás és a beszámolás folyamataiban és ezen folyamatok adatainak az IMIR-be történő bevitele során biztosítják a négy szem elvének érvényesülését;
 
 d) gondoskodnak az ellenőrzési nyomvonal kialakításáról és az esetleges változások haladéktalan átvezetéséről.
 
-[^77]: Az eredeti harmadik rész számozását negyedik részre változtatta a 243/2006. (XII. 5.) Korm. rendelet 16. §-a.
-[^78]: A 45. § (2) bekezdés b) pontja a 113/2011. (VII. 7.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^79]: A 45. § (2) bekezdés c) pontja a 113/2011. (VII. 7.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^80]: Az eredeti harmadik rész számozását negyedik részre változtatta a 243/2006. (XII. 5.) Korm. rendelet 16. §-a.
+[^81]: A 45. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 47. § 3. pontja szerint módosított szöveg.
+[^82]: A 45. § (2) bekezdés b) pontja a 113/2011. (VII. 7.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^83]: A 45. § (2) bekezdés c) pontja a 113/2011. (VII. 7.) Korm. rendelet 24. §-ával megállapított szöveg.

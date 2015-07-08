@@ -8,6 +8,9 @@
 
 a) a kedvezményezett által kifizetett számlák támogatási összegének utólagos megtérítése a kedvezményezett bankszámlájára, vagy
 
-b) a számla kiegyenlítése közvetlenül – engedményezés útján – a szállító részére, vagy
+b)[^37] a számla kiegyenlítése közvetlenül – engedményezés útján – a szállító részére.
 
-c) a kedvezményezett részére fizetett támogatási előleg formájában, az Ámr.-ben nevesített esetekben és mértékben.
+c)[^38]
+
+[^37]: A 15. § (3) bekezdés b) pontja a 175/2015. (VII. 7.) Korm. rendelet 47. § 2. pontja szerint módosított szöveg.
+[^38]: A 15. § (3) bekezdés c) pontját a 175/2015. (VII. 7.) Korm. rendelet 48. § 1. pontja hatályon kívül helyezte.

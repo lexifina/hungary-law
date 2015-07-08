@@ -1,4 +1,4 @@
-## 44/C. §[^74] Amennyiben az Európai Bizottság, az EUTAF, a belső ellenőrzési részleg, a kifizető hatóság, illetve alkifizető hatóság vagy bármely, ellenőrzést végző szervezet szabálytalanság gyanújáról értesíti az irányító hatóság, illetve nemzeti hatóság vezetőjét, akkor az irányító hatóság, illetve nemzeti hatóság vezetője (vagy döntése alapján az érintett szervezet vezetője) köteles a szabálytalansági vizsgálat lefolytatására, vagy amennyiben az ellenőrzést végző szerv megállapításait elfogadja, további vizsgálat lefolytatása nélkül megállapíthatja a szabálytalanságot.
+## 44/C. §[^77] Amennyiben az Európai Bizottság, az EUTAF, a belső ellenőrzési részleg, a kifizető hatóság, illetve alkifizető hatóság vagy bármely, ellenőrzést végző szervezet szabálytalanság gyanújáról értesíti az irányító hatóság, illetve nemzeti hatóság vezetőjét, akkor az irányító hatóság, illetve nemzeti hatóság vezetője (vagy döntése alapján az érintett szervezet vezetője) köteles a szabálytalansági vizsgálat lefolytatására, vagy amennyiben az ellenőrzést végző szerv megállapításait elfogadja, további vizsgálat lefolytatása nélkül megállapíthatja a szabálytalanságot.
 
 44/D. § (1) A szabálytalansági vizsgálat eredményéről – szabálytalanság megállapításának hiányában is – a vizsgálat vezetője szabálytalanság-vizsgálati jegyzőkönyvet készít.
 
@@ -38,4 +38,4 @@ a) annak megállapításával, hogy nem történt szabálytalanság és a szabá
 
 b) szabálytalanság megtörténtét megállapító és intézkedést elrendelő döntéssel.
 
-[^74]: A 44/C. § a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
+[^77]: A 44/C. § a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.

@@ -8,12 +8,12 @@
 
 (4) A külföldi székhelyű al-kifizető hatóságnak járó támogatási összegek kezelésére a (3) bekezdés nem vonatkozik.
 
-(5)[^24]
+(5)[^25]
 
-(6)[^25]
+(6)[^26]
 
-(7)[^26] A kifizető hatóság bankszámláin keletkezett kamatok felhasználhatóak az adott projekt költségvetési finanszírozásának kiváltására a kifizető hatóság által meghatározott feltételek szerint.
+(7)[^27] A kifizető hatóság bankszámláin keletkezett kamatok felhasználhatóak az adott projekt költségvetési finanszírozásának kiváltására a kifizető hatóság által meghatározott feltételek szerint.
 
-[^24]: A 10. § (5) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 26. §-a hatályon kívül helyezte.
-[^25]: A 10. § (6) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 61. § (2) bekezdése hatályon kívül helyezte.
-[^26]: A 10. § (7) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 5. §-a iktatta be.
+[^25]: A 10. § (5) bekezdését a 113/2011. (VII. 7.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^26]: A 10. § (6) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 61. § (2) bekezdése hatályon kívül helyezte.
+[^27]: A 10. § (7) bekezdését a 243/2006. (XII. 5.) Korm. rendelet 5. §-a iktatta be.
