@@ -1,4 +1,4 @@
-76. § (1)[^373] A folyamatba épített ellenőrzés részeként a kincstár, az irányító hatóság, az irányító hatóság által megbízott személy és a közreműködő szervezet kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek vonatkozásában helyszíni ellenőrzést végez.
+76. § (1)[^370] A folyamatba épített ellenőrzés részeként a kincstár, az irányító hatóság, az irányító hatóság által megbízott személy és a közreműködő szervezet kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek vonatkozásában helyszíni ellenőrzést végez.
 
 (2) A tízmillió forint alatti támogatással megvalósuló projektek esetében a közreműködő szervezet a projektek – kockázatelemzés alapján kiválasztott – legalább 5%-át a projekt befejezését megelőzően a helyszínen ellenőrzi.
 
@@ -18,7 +18,7 @@ c) a kedvezményezett által benyújtott nyilatkozat összhangját az azt megala
 
 d) a termékek, szolgáltatások teljesítésének a támogatási szerződéssel való összhangját,
 
-e)[^374] a nyilvánosságra és tájékoztatásra vonatkozó uniós szabályok betartását,
+e)[^371] a nyilvánosságra és tájékoztatásra vonatkozó uniós szabályok betartását,
 
 f) a közbeszerzésekre vonatkozóan a dokumentumok alapján nem ellenőrizhető szabályok betartását, így különösen a benyújtott dokumentumok eredeti dokumentumokkal való összhangját, a benyújtott dokumentumok valódiságát, a dokumentumok megőrzésére vonatkozó szabályokat,
 
@@ -28,8 +28,8 @@ g) a projekt szintű elkülönített számviteli nyilvántartás vezetését.
 
 (8) A folyamatba épített ellenőrzéseket megfelelően dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzések eredményeit, valamint szabálytalanságok és hibák feltárása esetén a megtett intézkedéseket.
 
-(9)[^375] A kincstár, az irányító hatóság és az irányító hatóság által megbízott személy az általa végzett helyszíni ellenőrzésről készített jegyzőkönyvet a tárgyhónapot követő hónap huszadik napjáig rögzíti a monitoring és információs rendszerbe.
+(9)[^372] A kincstár, az irányító hatóság és az irányító hatóság által megbízott személy az általa végzett helyszíni ellenőrzésről készített jegyzőkönyvet a tárgyhónapot követő hónap huszadik napjáig rögzíti a monitoring és információs rendszerbe.
 
-[^373]: A 76. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 140. pontja szerint módosított szöveg.
-[^374]: A 76. § (6) bekezdés e) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
-[^375]: A 76. § (9) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^370]: A 76. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 140. pontja szerint módosított szöveg.
+[^371]: A 76. § (6) bekezdés e) pontja a 302/2013. (VII. 29.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
+[^372]: A 76. § (9) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
