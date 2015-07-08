@@ -66,4 +66,6 @@ l) törekedni kell arra, hogy a kapcsolati erőszak megszüntetése érdekében 
 
 2. Az Országgyűlés felkéri a Kormányt, hogy 2016. december 31-éig vizsgálja felül a kapcsolati erőszak elleni fellépést célzó vagy azzal kapcsolatban célt vagy feladatot meghatározó, jelenleg hatályos kormányzati szintű stratégiákat, és szükség esetén módosítsa azokat az 1. pontban foglalt célokkal összhangban.
 
-3. Az Országgyűlés a családon belüli erőszak megelőzésére és hatékony kezelésére irányuló nemzeti stratégia kialakításáról szóló 45/2003. (IV. 16.) OGY határozatot visszavonja.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
