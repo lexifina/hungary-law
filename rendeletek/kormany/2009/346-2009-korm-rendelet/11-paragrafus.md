@@ -1,4 +1,4 @@
-11. §[^25] (1) A KNBSZ az elemi költségvetést, az időközi költségvetési jelentést, az éves költségvetési beszámolót és az időközi mérlegjelentést a minősített adat védelméről szóló törvény szerinti minősítéssel ellátva küldi meg a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet részére.
+11. §[^27] (1) A KNBSZ az elemi költségvetést, az időközi költségvetési jelentést, az éves költségvetési beszámolót és az időközi mérlegjelentést a minősített adat védelméről szóló törvény szerinti minősítéssel ellátva küldi meg a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet részére.
 
 (2) A Kincstárhoz benyújtott éves költségvetési beszámoló a KNBSZ vagyonára, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 20. § (1) bekezdése szerint foglalkoztatottak állománycsoportonkénti megosztására vonatkozó adatokat nem tartalmazhat.
 
@@ -42,4 +42,4 @@ rovat összesítéssel küldi meg a Kincstár részére.
 
 (5) A KNBSZ az elemi költségvetésében a speciális működési kiadásai fedezetére elkülönített előirányzatot a dologi kiadások kiemelt előirányzaton belül a K337. Egyéb szolgáltatások rovaton, egy összegben, speciális működési kiadásként tervezi és számolja el.
 
-[^25]: A 11. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte, újonnan a 26/2015. (II. 25.) Korm. rendelet 11. §-a iktatta be.
+[^27]: A 11. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte, újonnan a 26/2015. (II. 25.) Korm. rendelet 11. §-a iktatta be.

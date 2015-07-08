@@ -1,8 +1,8 @@
-## 14–16. §[^29]
+## 14–16. §[^31]
 
 ## Költségvetési beszámolás
 
-17. §[^30] (1) A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
+17. §[^32] (1) A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
 
 a) a fejezeti kezelésű előirányzatok és – a KNBSZ, valamint az MH EK kivételével – a honvédelmi szervezetek tekintetében éves költségvetési beszámolót, időközi mérlegjelentéseket, időközi költségvetési jelentéseket (a továbbiakban együtt: elszámolások), továbbá azok a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettségű összesítésével – ide értve a KNBSZ és az MH EK elszámolásait is – elszámolásokat, valamint
 
@@ -28,5 +28,5 @@ c) az (1) bekezdés a) pontja szerint összesített elszámolásokat a pénzügy
 
 (6) A KNBSZ speciális feladatai ellátása érdekében bérelt ingatlanon végzett felújítás elszámolt kiadásait a KNBSZ vagyonában nem kell kimutatni, azt a speciális működési kiadások terhére kell elszámolni. A felújítás elszámolt kiadásai a bérleti díjban érvényesíthetőek.
 
-[^29]: A 14–16. §-t a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.
-[^30]: A 17. § A 26/2015. (II. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^31]: A 14–16. §-t a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^32]: A 17. § A 26/2015. (II. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
