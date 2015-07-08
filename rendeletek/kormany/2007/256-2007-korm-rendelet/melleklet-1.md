@@ -1,5 +1,6 @@
-## 10. §[^30] E rendeletnek a Mezőgazdasági és Vidékfejlesztési Hivatalról szóló 256/2007. (X. 4.) Korm. rendelet, valamint a Mezőgazdasági Szakigazgatási Hivatal létrehozásáról és működéséről szóló 274/2006. (XII. 23.) Korm. rendelet módosításáról szóló 74/2010. (III. 25.) Korm. rendelet (a továbbiakban: 1. módosító rendelet) 1. §-ával megállapított 7/A. §-át az 1. módosító rendelet hatálybalépésekor folyamatban lévő árutermő, törzs-, és kísérleti szőlő telepítési, illetve kivágási engedélyezési eljárásokban is alkalmazni kell.
+## 11. §[^31] E rendeletnek az egyes agrártárgyú kormányrendeletek módosításáról szóló 177/2015. (VII. 7.) Korm. rendelet (a továbbiakban: 2. módosító rendelet) 2. § (1) bekezdésével megállapított 4. §-át a 2. módosító rendelet hatálybalépésekor[^32] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. számú melléklet a 256/2007. (X. 4.) Korm. rendelethez
 
-[^30]: A 10. §-t a 74/2010. (III. 25.) Korm. rendelet 3. §-a iktatta be.
+[^31]: A 11. §-t a 177/2015. (VII. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^32]: A hatálybalépés időpontja 2015. július 8.
