@@ -24,14 +24,6 @@ k) a vaj-, tejszín- és sovány tejpor-előállító üzemek intervenciós jóv
 
 l) az Európai Unió élelmiszersegély programjába bevont tejtermékekkel kapcsolatos minőségi vizsgálatok;
 
-m) a tejkvóta-nyilvántartás működtetéséhez kapcsolódó kérelmek és egyéb dokumentumok érkeztetése, iktatása, adatrögzítése és az ügyiratok MVH felé történő továbbítása;
+m)–r)[^1]
 
-n) a tejfelvásárlók éves és havi jelentéseinek, valamint a tejtermelők éves jelentéseinek feldolgozása;
-
-o) a tejfelvásárlókhoz beszállító tejtermelőknek az új kvótaévben rendelkezésre álló kvótamennyiséget tartalmazó kimutatás megküldése;
-
-p) a jóváhagyott felvásárlók által jelentett, szerződött tejtermelők személyében történő változások ellenőrzése, majd átvezetése a tejkvóta-nyilvántartásban;
-
-q) az ügyfélszolgálati teendők;
-
-r) a tejtermelőket és tejfelvásárlókat érintő, illetve a tejkvóta-nyilvántartással összefüggő helyszíni ellenőrzés.
+[^1]: A 6. § m)–r) pontját a 177/2015. (VII. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.
