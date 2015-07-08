@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya a strukturális alapok által támogatott operatív programok, valamint az EQUAL Közösségi Kezdeményezés programja (a továbbiakban: EQUAL program) és a Kohéziós Alap projektek támogatásai felhasználásának pénzügyi tervezésében, lebonyolításában, ellenőrzésében részt vevő, az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendelet (a továbbiakban: Ámr.) 1. § (2) bekezdés a)–b), d)–f), h), valamint j)–k) pontjában meghatározott államháztartási szervezetekre, természetes vagy jogi személyekre és jogi személyiség nélküli gazdasági társaságokra terjed ki.
+## 1. §[^1]
 
 ## Értelmező rendelkezések
 
@@ -52,7 +52,7 @@
 
 (2)[^15] Az itt nem meghatározott fogalmak az Európai Unió által nyújtott egyes pénzügyi támogatások felhasználásával megvalósuló, és egyes nemzetközi megállapodások alapján finanszírozott programok monitoring rendszerének kialakításáról és működéséről szóló 102/2006. (IV. 28.) Korm. rendeletben (a továbbiakban: Monitoring rendelet), illetve az Európai Unió strukturális alapjaiból és Kohéziós Alapjából származó támogatások hazai felhasználásáért felelős intézményekről szóló 1/2004. (I. 5.) Korm. rendeletben foglaltak szerint értelmezendők.
 
-[^1]: Az 1. § a 181/2010. (V. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. §-t a 175/2015. (VII. 7.) Korm. rendelet 50. § 1. pontja hatályon kívül helyezte.
 [^2]: A 2. § (1) bekezdésének 2. pontja a 281/2006. (XII. 23.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (1) bekezdésének 5. pontja a 202/2006. (X. 5.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdésének 7. pontja a 202/2006. (X. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
