@@ -76,7 +76,7 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 29. | B225/15 | NRF-JAT 2016 felkészítési rendezvények | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 10 |
 
-| 30. | B226/15 | JCET magyar–amerikai közös KM felkészítés | MH ÖHP | Németország/ Magyarország | I–IV. n. é. | 250 |
+| 30. | B226/15 | JCET magyar–amerikai közös KM felkészítés | MH ÖHP | Németország/Lengyelország/ Magyarország | I–IV. n. é. | 700 |
 
 | 31. | B227/15 | NRF szárazföldi erők felkészítési rendezvényei | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 250 |
 
@@ -110,7 +110,7 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 46. | C155/15 | EHV kiképzés és gyakorlat | MH ÖHP | Svédország/Magyarország | I–II. n. é. | 50 |
 
-| 47. | C157/15 | TOBRUK LEGACY légvédelmi rakéta éleslövészet | MH ÖHP | Csehország | I. n. é. | 100 |
+| 47. | C157/15 | TOBRUK LEGACY légvédelmi rakéta éleslövészet | MH ÖHP | Csehország | II–III. n. é. | 100 |
 
 | 48. | C158/15 | JFACC felkészítések | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 15 |
 
@@ -184,9 +184,11 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 9. | B158/15 | TISZA 2015 | MH ÖHP | Szerbia /Románia/ Magyarország | I–IV. n. é. | 50 |
 
+| 9a. | B162/15 | NOBLE JUMP gyakorlat | MH ÖHP | Lengyelország | II–III. n. é. | 50 |
+
 | 10. | B185/15 | Horvát-Magyar különleges műveleti kiképzés | MH ÖHP | Horvátország/Magyarország | I–IV. n. é. | 20 |
 
-| 11. | B186/15 | BRAVE WARRIOR 2015 (BÁTOR HARCOS) Zászlóalj harccsoport gyakorlat | MH ÖHP | Ukrajna/Szlovákia/ zlovénia/ Szerbia/ Horvátország/ Ausztria/Montenegró/ Macedónia/Románia/ Magyarország | III. n. é. | 2000 |
+| 11. | B186/15 | BRAVE WARRIOR 2015 (BÁTOR HARCOS) Zászlóalj harccsoport gyakorlat | MH ÖHP | Ukrajna/Szlovákia/ Szlovénia/ Szerbia/ Horvátország/ Ausztria/Montenegró/ Macedónia/Románia/ Magyarország | III. n. é. | 2500 |
 
 | 12. | B211/15 | MLF felkészítések | MH ÖHP | Olaszország/ Magyarország/ Szlovénia | II–III. n. é. | 50 |
 
@@ -194,7 +196,9 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 14. | B217/15 | BIZTOS AKARAT (STRONG WILL) 2015 | MH ÖHP | Franciaország/Magyarország | II. n. é. | 70 |
 
-| 15. | B221/15 | IRON CAT (NEIGHBOURS) magyar-szerb közös kiképzés | MH ÖHP | Szerbia/USA/Magyarország | III. n. é. | 500 |
+| 14a. | B219/15 | NEIGHBOURS magyar–szerb közös lövész kiképzés | MH ÖHP | Szerbia/Magyarország | III. n. é. | 100 |
+
+| 15. | B221/15 | IRON CAT magyar–szerb közös flottilla kiképzés | MH ÖHP | Szerbia/Magyarország | III. n. é. | 150 |
 
 | 16. | B222/15 | SZLOVÁK-MAGYAR kiképzési rendezvények | MH ÖHP | Szlovákia/Magyarország | I–IV. n. é. | 150 |
 
@@ -309,4 +313,4 @@ A 2015. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 16. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | 2015. I–IV. n. é. | – |
 
 [^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1053/2015. (II. 16.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1053/2015. (II. 16.) Korm. határozat 1. pontja, az 1451/2015. (VII. 7.) Korm. határozat 1. pontja szerint módosított szöveg.
