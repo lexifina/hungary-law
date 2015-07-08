@@ -1,8 +1,8 @@
 ## 4. Az önerő-támogatás odaítélésének eljárási szabályai
 
-5. § (1)[^12] Az önerő-támogatás odaítélésére irányuló eljárás kérelemre indul. Az eljárás lefolytatása az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) hatáskörébe tartozik. A hozzá benyújtott kérelmekről a miniszter folyamatos elbírálás keretében, a kérelem előterjesztésétől számított tizenöt napon belül dönt. A döntésre nyitva álló határidő a kérelem monitoring és információs rendszerbe történő hiánytalan feltöltésével kezdődik. A döntésre nyitva álló határidőbe a 7. § (1) bekezdése szerinti időtartam nem számít bele.
+5. § (1)[^13] Az önerő-támogatás odaítélésére irányuló eljárás kérelemre indul. Az eljárás lefolytatása az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) hatáskörébe tartozik. A hozzá benyújtott kérelmekről a miniszter folyamatos elbírálás keretében, a kérelem előterjesztésétől számított tizenöt napon belül dönt. A döntésre nyitva álló határidő a kérelem monitoring és információs rendszerbe történő hiánytalan feltöltésével kezdődik. A döntésre nyitva álló határidőbe a 7. § (1) bekezdése szerinti időtartam nem számít bele.
 
-(2)[^13] A kérelem és mellékletei a miniszter által vezetett minisztérium honlapjáról elérhető monitoring és információs rendszeren keresztül nyújtható be.
+(2)[^14] A kérelem és mellékletei a miniszter által vezetett minisztérium honlapjáról elérhető monitoring és információs rendszeren keresztül nyújtható be.
 
 (3) A kérelem tartalmazza
 
@@ -24,5 +24,5 @@ h) tájékoztatást a benyújtandó elszámolások ütemezett összegéről,
 
 i) derogációs projektek esetében a halasztott önerő miatt a valódi önerő-igény időpontját.
 
-[^12]: Az 5. § (1) bekezdése a 30/2014. (II. 11.) Korm. rendelet 4. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 694. § a) pontja szerint módosított szöveg.
-[^13]: Az 5. § (2) bekezdése a 30/2014. (II. 11.) Korm. rendelet 12. § (1)–(2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 694. § b) pontja szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdése a 30/2014. (II. 11.) Korm. rendelet 4. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 694. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdése a 30/2014. (II. 11.) Korm. rendelet 12. § (1)–(2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 694. § b) pontja szerint módosított szöveg.

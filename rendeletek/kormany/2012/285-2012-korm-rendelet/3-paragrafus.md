@@ -12,7 +12,7 @@ b) a Rendelet hatálya alá tartozó támogatással megvalósuló projekthez ig�
 
 c) nem áll csőd-, felszámolási, végelszámolási, illetve kényszertörlési eljárás hatálya alatt,
 
-d) nincs az államháztartásról szóló 2011. évi CXCV. törvény 50. § (3) bekezdése szerinti köztartozása, valamint
+d)[^12] nincs az államháztartásról szóló 2011. évi CXCV. törvény 50. § (4) bekezdése szerinti köztartozása, valamint
 
 e) önerő-támogatásban történő részesítését
 
@@ -25,3 +25,4 @@ eb) a projekt megvalósításához fűződő nemzetstratégiai érdek,
 (2) Nem részesíthető e rendelet szerinti önerő-támogatásban ivóvízminőség-javításra irányuló projekt tekintetében sem helyi önkormányzat, sem helyi önkormányzatok társulása.
 
 [^11]: A II. Fejezet (3–10/A. §) a 374/2013. (X. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^12]: A 3. § (1) bekezdés d) pontja a 175/2015. (VII. 7.) Korm. rendelet 72. § 1. pontja szerint módosított szöveg.
