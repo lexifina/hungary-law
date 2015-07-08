@@ -28,7 +28,7 @@ e)[^41] belső egyházi jogi személy esetében a bevett egyház vagy a belső e
 
 (8)[^42] A hazai társfinanszírozási szerződés egyéb tartalmi követelményeit a nemzeti hatóság határozza meg és hagyja jóvá.
 
-(9)[^43] Az Ávr. 72. § (3) bekezdésének megfelelő tartalmú írásbeli nyilatkozatot a hazai társfinanszírozási szerződések megkötése feltételeként kell kérni a közösségi támogatásra jóváhagyott projektek hazai partnereitől. E nyilatkozat a hazai társfinanszírozási szerződés elválaszthatatlan részét képezi.
+(9)[^43] Az Ávr. 75. § (2) bekezdésének megfelelő tartalmú írásbeli nyilatkozatot a hazai társfinanszírozási szerződések megkötése feltételeként kell kérni a közösségi támogatásra jóváhagyott projektek hazai partnereitől. E nyilatkozat a hazai társfinanszírozási szerződés elválaszthatatlan részét képezi.
 
 (10)[^44] A közösségi támogatásra jóváhagyott projektek hazai partnereivel a hazai társfinanszírozási szerződés abban az esetben köthető meg, ha a hazai partner köztartozásmentes.
 
@@ -56,7 +56,7 @@ d) a Nemzeti Hatóság döntése alapján az állami többségű tulajdonban lé
 [^40]: A 12. § (7) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^41]: A 12. § (7) bekezdés e) pontja a 297/2013. (VII. 29.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
 [^42]: A 12. § (8) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be.
-[^43]: A 12. § (9) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése, a 312/2013. (VIII. 27.) Korm. rendelet 15. § 10. pontja szerint módosított szöveg.
+[^43]: A 12. § (9) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 137/2010. (IV. 28.) Korm. rendelet 28. § (1) bekezdése, a 312/2013. (VIII. 27.) Korm. rendelet 15. § 10. pontja, a 175/2015. (VII. 7.) Korm. rendelet 58. § 2. pontja szerint módosított szöveg.
 [^44]: A 12. § (10) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 312/2013. (VIII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^45]: A 12. § (11) bekezdését a 160/2009. (VIII. 3.) Korm. rendelet 56. § (2) bekezdése iktatta be.
 [^46]: A 12. § (12) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
