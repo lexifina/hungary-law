@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, valamint az Alkotmány 35. § (1) bekezdés a) és b) pontjában foglalt feladatkörében eljárva a következőket rendeli el:
