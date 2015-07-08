@@ -28,7 +28,7 @@ ch) a földalatti gomba gyűjtésére vonatkozó jogszabályban meghatározott f
 
 ci) az Országos Erdőkár Nyilvántartást.
 
-(3)[^1] A megyei kormányhivatal erdészeti igazgatási feladatai körében
+(3)[^2] A megyei kormányhivatal erdészeti igazgatási feladatai körében
 
 a) a jogszabályban előírt egyeztetési és tájékoztatási feladatok ellátása mellett összeállítja a körzeti erdőterv rendeletekre vonatkozó javaslatokat;
 
@@ -78,4 +78,4 @@ i) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe ut
 
 (7) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 22. § (2) bekezdésében foglaltak tekintetében a Kormány erdészeti hatóságként az erdőterület fekvése szerint illetékes megyei kormányhivatalt jelöli ki.
 
-[^1]: A 12. § (3) bekezdése a 116/2015. (V. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: A 12. § (3) bekezdése a 116/2015. (V. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
