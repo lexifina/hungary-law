@@ -28,7 +28,7 @@ e)[^53] belső egyházi jogi személy esetében a bevett egyház vagy a belső e
 
 (7) A hazai társfinanszírozási szerződés egyéb tartalmi követelményeit a Nemzeti Hatóság határozza meg és hagyja jóvá.
 
-(8)[^54] Az Ávr. 72. § (2) bekezdésének megfelelő tartalmú írásbeli nyilatkozatot a hazai társfinanszírozási szerződések megkötése feltételeként kell kérni a közösségi támogatásra jóváhagyott projektek hazai partnereitől. E nyilatkozat a hazai társfinanszírozási szerződés elválaszthatatlan részét képezi.
+(8)[^54] Az Ávr. 75. § (2) bekezdésének megfelelő tartalmú írásbeli nyilatkozatot a hazai társfinanszírozási szerződések megkötése feltételeként kell kérni a közösségi támogatásra jóváhagyott projektek hazai partnereitől. E nyilatkozat a hazai társfinanszírozási szerződés elválaszthatatlan részét képezi.
 
 (9)[^55]
 
@@ -53,7 +53,7 @@ d) a Nemzeti Hatóság döntése alapján az állami többségű tulajdonban lé
 [^51]: A 19. § (1) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^52]: A 19. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^53]: A 19. § (6) bekezdés e) pontja a 297/2013. (VII. 29.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^54]: A 19. § (8) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése, a 216/2012. (VIII. 9.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^54]: A 19. § (8) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése, a 216/2012. (VIII. 9.) Korm. rendelet 12. § d) pontja, a 175/2015. (VII. 7.) Korm. rendelet 62. § 2. pontja szerint módosított szöveg.
 [^55]: A 19. § (9) bekezdését a 216/2012. (VIII. 9.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
 [^56]: A 19. § (11) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.
 [^57]: A 19. § (12) bekezdését a 137/2010. (IV. 28.) Korm. rendelet 16. § (2) bekezdése iktatta be.

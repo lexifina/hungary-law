@@ -2,7 +2,7 @@
 
 18. § (1) A TA-ból finanszírozott tevékenységek a Monitoring Bizottság által elfogadott egyedi TA projektek keretében kerülnek megvalósításra, mely alapján az Irányító Hatóság vagy a Nemzeti Hatóság gondoskodik a TA projektek kedvezményezettjeivel a finanszírozási szerződés megkötéséről.
 
-(2)[^47] A likviditás biztosítása érdekében az Irányító Hatóság a hazai társfinanszírozásból gördülő előleget biztosíthat a programok végrehajtására a TA projektek kedvezményezettjei részére, mely előleggel legkésőbb 2015. december 31-ig kell elszámolni. Az előleg mértékére, illetve összegére vonatkozóan az Ávr. 96. § (2) bekezdésében foglaltak az irányadók.
+(2)[^47] A likviditás biztosítása érdekében az Irányító Hatóság a hazai társfinanszírozásból gördülő előleget biztosíthat a programok végrehajtására a TA projektek kedvezményezettjei részére, mely előleggel legkésőbb 2015. december 31-ig kell elszámolni. Az előleg mértékére, illetve összegére vonatkozóan az Ávr. 87. § (1) bekezdésében foglaltak az irányadók.
 
 (3) A TA projektek kedvezményezettjei számára a TA szerződésben rendszeres időközönkénti elszámolás készítési kötelezettséget kell előírni. Az Irányító Hatóság vagy a Nemzeti Hatóság által megvalósított TA projektekre vonatkozóan az Irányító Hatóság vagy a Nemzeti Hatóság fizetési kötelezettséget szállító részére is teljesíthet központi költségvetési forrásból.
 
@@ -16,7 +16,7 @@
 
 (8)[^50] Az Irányító Hatóság havi gyakorisággal gondoskodik a TA projektek magyar kedvezményezettjeinek jutatott partnerországi forrásokról a lebonyolítási fizetési számláról történő kiutalás hónapjában érvényes, az Európai Bizottság által meghatározott havi árfolyamon készült – az Áht. 80. § (2) bekezdése szerinti szabályzatban meghatározott – kiegészítő szelvény megküldéséről a kincstárnak.
 
-[^47]: A 18. § (2) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése, a 216/2012. (VIII. 9.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^47]: A 18. § (2) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése, a 216/2012. (VIII. 9.) Korm. rendelet 12. § c) pontja, a 175/2015. (VII. 7.) Korm. rendelet 62. § 1. pontja szerint módosított szöveg.
 [^48]: A 18. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^49]: A 18. § (7) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^50]: A 18. § (8) bekezdését a 313/2013. (VIII. 27.) Korm. rendelet 2. §-a iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 55. § e) pontja szerint módosított szöveg.
