@@ -10,7 +10,7 @@ b) elismerhető költség: a Nemzeti Szabályozás az elszámolható költségek
 
 c)[^3] kedvezményezett: olyan önkormányzat, illetve jogi személyiségű önkormányzati társulás, amely derogációs projekt megvalósítására a támogató által adott támogatási döntéssel rendelkezik, és a projekt finanszírozásához a hitel-, illetve kötvényprogramját veszi igénybe;
 
-d)[^4] támogató: az államháztartásról szóló 2011. évi CXCV. törvény 48. § (2) bekezdése szerinti személy vagy a nevében eljáró közreműködő szervezet;
+d)[^4] támogató: az államháztartásról szóló 2011. évi CXCV. törvény 48/A. § (1) bekezdése szerinti személy vagy a nevében eljáró közreműködő szervezet;
 
 e) finanszírozó hitelintézet: az a pénzügyi intézmény, amely az MFB-vel a hitelprogramban refinanszírozási keretmegállapodást kötött, illetve közvetlen hitelnyújtás esetén az MFB;
 
@@ -23,5 +23,5 @@ h) kamattámogatás: a derogációs projekt elismerhető költségein belül elv
 i)–o)[^5]
 
 [^3]: A 4. § c) pontja az 549/2013. (XII. 30.) Korm. rendelet 54. § b) pontja szerint módosított szöveg.
-[^4]: A 4. § d) pontja az 549/2013. (XII. 30.) Korm. rendelet 54. § c) pontja szerint módosított szöveg.
+[^4]: A 4. § d) pontja az 549/2013. (XII. 30.) Korm. rendelet 54. § c) pontja, a 175/2015. (VII. 7.) Korm. rendelet 56. §-a szerint módosított szöveg.
 [^5]: A 4. § i)–o) pontját az 549/2013. (XII. 30.) Korm. rendelet 55. § b) pontja hatályon kívül helyezte.
