@@ -1,0 +1,3 @@
+## 37. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 17. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A tárgyi eszközök terv szerinti értékcsökkenését a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2. számú mellékletében meghatározottak szerint kell elszámolni. Az állam tulajdonában álló közutak esetén alkalmazandó terv szerinti értékcsökkenés leírási kulcsa 3%. Az ingatlanokhoz kapcsolódó vagyoni értékű jogok terv szerinti értékcsökkenésének leírási kulcsa azonos annak az ingatlannak a leírási kulcsával, amelyhez az adott vagyoni értékű jog kapcsolódik.”

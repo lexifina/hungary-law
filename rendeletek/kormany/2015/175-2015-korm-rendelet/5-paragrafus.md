@@ -1,0 +1,3 @@
+## 4. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet a következő 34/B. §-sal egészül ki:
+
+## „34/B. § A költségvetési év során a költségvetési szerv átalakítása és a költségvetési szerv közfeladatának más költségvetési szerv részére történő átadása esetén az átalakítással érintett költségvetési szerv jogutódja, valamint a közfeladatot más költségvetési szervtől átvevő költségvetési szerv a jogelőd költségvetési szervnél az átalakítás, illetve a közfeladat átvételének napjáig jóváhagyott, de pénzügyileg nem teljesített költségvetési bevételi előirányzatokkal a költségvetési bevételi előirányzatait megnövelheti.”
