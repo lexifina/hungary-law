@@ -1,4 +1,4 @@
-## 8. §[^14] Az államháztartásról szóló törvény vagy a végrehajtásáról szóló kormányrendelet alapján előirányzat átcsoportosításra jogosult szerv a megkötött ellátási megállapodásnak megfelelően a Kedvezményezettek tárgyévi – a természetbeni ellátás jellegének megfelelő – előirányzatából a Központi Ellátó Szerv által biztosított termékek és szolgáltatások ellenértékét az ellátási megállapodásnak az előirányzat átcsoportosításra jogosult szervhez történő beérkezésétől számított 30 napon belül egyszeri jelleggel, a büntetés-végrehajtás tárgyévi előirányzatához átcsoportosítja.
+## 8. §
 
 ## 6. Ellátási megállapodás
 
@@ -13,5 +13,3 @@ c) a megállapított mennyiségeket, műszaki tartalmat és paramétereket, min�
 d) az ellátáshoz szükséges források Központi Ellátó Szerv részére történő rendelkezésre bocsátását;
 
 e) a teljesítés részletes feltételeit.
-
-[^14]: A 8. § a 17/2013. (I. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
