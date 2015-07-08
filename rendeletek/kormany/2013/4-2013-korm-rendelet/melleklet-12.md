@@ -2,7 +2,7 @@
 
 ## J) Passzív időbeli elhatárolások
 
-12. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^245]
+12. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^246]
 
 ## A konszolidálás során elvégzendő feladatok
 
@@ -68,4 +68,4 @@
 
 4.17. A mérlegekben a Forintszámlák, Devizaszámlák, Idegen pénzeszközök sorokon belül a Kincstárnál vezetett számlák között kimutatott sorok összegével – a Kincstári Egységes Számla kivételével – a Forintszámlák, devizaszámlák és az Idegen pénzeszközök sorok csökkentését a Kincstári számlavezetéssel kapcsolatos elszámolások sorral szemben a konszolidált mérlegben.
 
-[^245]: A 12. melléklet a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 2. pontja szerint módosított szöveg.
+[^246]: A 12. melléklet a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 2. pontja szerint módosított szöveg.

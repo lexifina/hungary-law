@@ -10,7 +10,7 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^214]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^215]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -58,32 +58,34 @@
 
 5. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 13. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
 
-- bázisfinanszírozott fekvőbeteg-szakellátás,
+– bázisfinanszírozott fekvőbeteg-szakellátás,
 
-- méltányossági alapon történő térítések,
+– méltányossági alapon történő térítések,
 
-- alapellátási vállalkozás támogatási átalánydíj,
+– alapellátási vállalkozás támogatási átalánydíj,
 
-- tervezett külföldi ellátások orvosi felülvizsgálata,
+– tervezett külföldi ellátások orvosi felülvizsgálata,
 
-- a 2012. évi illetmény- és bérnövelés 2014. évi fedezete,
+– egészségügyi dolgozók béremelésének fedezete,
 
-- egészségügyi dolgozók béremelésének fedezete,
+– az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése,
 
-- az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése.
+– tartósan betöltetlen háziorvosi körzetek betöltésének, valamint háziorvosi szolgálatok együttműködésének támogatása.
 
 6. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
 
-- járóbeteg szakellátás (laborkassza nélkül),
+– járóbeteg szakellátás (laborkassza nélkül),
 
-- aktív fekvőbeteg szakellátás,
+– aktív fekvőbeteg szakellátás,
 
-- krónikus fekvőbeteg szakellátás,
+– krónikus fekvőbeteg szakellátás,
 
-- bázis finanszírozású szakellátás (BVOP),
+– bázis finanszírozású szakellátás (BVOP),
 
-- extrafinanszírozás,
+– extrafinanszírozás,
 
-- speciális finanszírozású szakellátás.
+– speciális finanszírozású szakellátás,
 
-[^214]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított szöveg.
+– várólista csökkentés és egyéb szakmapolitikai célok fedezete.
+
+[^215]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a szerint módosított szöveg.

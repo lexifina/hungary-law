@@ -10,7 +10,7 @@ a) vagyoni értékű jogoknál 16% vagy a tervezett használati idő alapján me
 
 b) szellemi termékeknél 33%.
 
-(3)[^72] A tárgyi eszközök terv szerinti értékcsökkenését a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2. számú mellékletében meghatározottak szerint kell elszámolni. Az ingatlanokhoz kapcsolódó vagyoni értékű jogok terv szerinti értékcsökkenésének leírási kulcsa azonos annak az ingatlannak a leírási kulcsával, amelyhez az adott vagyoni értékű jog kapcsolódik.
+(3)[^72] A tárgyi eszközök terv szerinti értékcsökkenését a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2. számú mellékletében meghatározottak szerint kell elszámolni. Az állam tulajdonában álló közutak esetén alkalmazandó terv szerinti értékcsökkenés leírási kulcsa 3%. Az ingatlanokhoz kapcsolódó vagyoni értékű jogok terv szerinti értékcsökkenésének leírási kulcsa azonos annak az ingatlannak a leírási kulcsával, amelyhez az adott vagyoni értékű jog kapcsolódik.
 
 (4) A huszonötmillió forint bekerülési érték alatti gépek, berendezések, felszerelések, járművek terv szerinti értékcsökkenése megállapítása során nem lehet maradványértéket meghatározni.
 
@@ -18,5 +18,5 @@ b) szellemi termékeknél 33%.
 
 [^70]: A 17. § (2) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 112. § 16. pontja szerint módosított szöveg.
 [^71]: A 17. § (2a) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 92. § (1) bekezdése iktatta be.
-[^72]: A 17. § (3) bekezdése a 497/2013. (XII. 29.) Korm. rendelet 92. § (2) bekezdésével megállapított szöveg.
+[^72]: A 17. § (3) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 37. §-ával megállapított szöveg.
 [^73]: A 17. § (5) bekezdése a 307/2013. (VIII. 14.) Korm. rendelet 41. § 2. pontja szerint módosított szöveg.
