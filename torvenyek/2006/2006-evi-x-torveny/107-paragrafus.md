@@ -8,4 +8,6 @@
 
 (2) A törvény 104. §-a a kihirdetését követő 3. napon, 109. §-a és 113. § (2) bekezdése a kihirdetést követő hónap első napján lép hatályba.
 
-(3)–(4)
+(3) Felhatalmazást kap a Kormány arra, hogy iskolaszövetkezet által nyújtott szolgáltatásokért fizetendő minimális szolgáltatási díjat rendelettel állapítsa meg.
+
+(4)
