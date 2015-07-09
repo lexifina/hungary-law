@@ -24,4 +24,6 @@ b) a 3. § (2a) bekezdés b) pontja szerinti tulajdonosi joggyakorló személyé
 
 (3) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy a 3. § (2a) bekezdés a) pontja szerinti tulajdonosi joggyakorló személyét, a tulajdonosi joggyakorlással érintett vagyoni kört, a tulajdonosi joggyakorló jogainak és kötelezettségének körét, a joggyakorlás szabályait, időtartamát rendeletben határozza meg.
 
+(4) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy az állam nevében gazdasági társaság meghatározott célból történő alapítására, valamint társasági részesedés állam nevében történő megszerzésére a 3. § (2a) bekezdés a) pont ad) alpontja alapján tulajdonosi joggyakorlóként kijelölésre kerülő szervezetet rendeletben feljogosítsa.
+
 ## Melléklet a 2007. évi CVI. törvényhez
