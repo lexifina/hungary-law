@@ -1,0 +1,3 @@
+6. § A Kstv. a következő 24/C. §-sal egészül ki:
+
+„24/C. § A 18. §-ban foglalt esetben a kisajátítási eljárást a kisajátítást kérő kérelmére – legfeljebb a környezeti kárelhárítási intézkedések végrehajtásához szükséges időtartamra – fel kell függeszteni. Az eljárást a kisajátítást kérő kérelmére, de legkésőbb a környezeti kárelhárítási intézkedések befejezését követően folytatni kell. Ha a kisajátítást kérő a környezeti kárelhárítási intézkedések befejezését megelőzően vagy azzal egyidejűleg nem kérte az eljárás folytatását, a környezeti kárelhárítási intézkedések befejezését köteles a kisajátítási hatóság részére haladéktalanul bejelenteni.”
