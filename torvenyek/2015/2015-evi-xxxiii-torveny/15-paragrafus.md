@@ -16,8 +16,12 @@ cd) használatával lebonyolítandó verseny megrendezésével összefüggésben
 
 d) a beruházással kapcsolatos további beépítési szabályokat, és a beruházással kapcsolatos közigazgatási hatósági eljárások további sajátos szabályait,
 
-e) a létesítményfejlesztési ingatlannal kapcsolatos további építési követelményeket
+e) a létesítményfejlesztési ingatlannal kapcsolatos további építési követelményeket,
+
+f) a beruházás keretében megvalósuló egyes létesítmények tekintetében az építtető személyét
 
 rendelettel állapítsa meg.
+
+rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a 8. § (1) bekezdésében meghatározott ideiglenes lelátók létesítésének és bontásának feltételeit rendeletben szabályozza.

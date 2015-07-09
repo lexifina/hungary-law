@@ -18,7 +18,7 @@ b) az elhelyezés a létesítményfejlesztési ingatlan határvonalától szám�
 
 A beruházás tekintetében további gépjármű elhelyezési kötelezettséget feltételként nem lehet előírni. A személygépkocsik megfelelő elhelyezése tekintetében forgalomtechnikai terv elkészítésének kötelezettsége terheli a beruházás építtetőjét.
 
-(3) A beruházás keretében a létesítményfejlesztési ingatlanon létesítendő épület nem minősül magasépítménynek (magasháznak), ha az épület 30 métert meghaladó legfelső építményszintjének alapterülete nem éri el a 300 m2-t, azzal, hogy a 9. § szerinti ideiglenes lelátókat ennek meghatározásakor nem kell figyelembe venni.
+(3) A beruházás keretében a létesítményfejlesztési ingatlanon létesítendő épület nem minősül magasépítménynek (magasháznak), ha az épület 30 métert meghaladó legfelső építményszintjének alapterülete nem éri el a 300 m2-t, azzal, hogy a 8. § szerinti ideiglenes lelátókat ennek meghatározásakor nem kell figyelembe venni.
 
 (4) A beruházás keretében a létesítményfejlesztési ingatlanon létesítendő épület, illetve ideiglenes lelátók tekintetében a mindenkori hatályos fővárosi és kerületi településrendezési eszközöknek, valamint a vonatkozó fővárosi és kerületi önkormányzati rendeleteknek a parkolás rendjére, az építtetők személygépkocsi-elhelyezési kötelezettségére, a fás szárú növények védelmére, kivágására és pótlására vonatkozó, valamint az árvízvédelemmel összefüggő előírásait nem kell figyelembe venni. Az építtető a területileg illetékes Budapest Főváros XIII. Kerületi Önkormányzattal a fás szárú növények pótlásáról külön megállapodást köt, amely a létesítményfejlesztési ingatlanon létesítendő épületre vonatkozó használatbavételi engedély kiadásának feltételét képezi.
 
