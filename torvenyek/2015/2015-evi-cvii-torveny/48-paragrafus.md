@@ -1,0 +1,5 @@
+48. § A Vht. „Átmeneti rendelkezések” alcíme a következő 306/N. §-sal egészül ki:
+
+„306/N. § (1) A 2015. szeptember 1. napján a cégjegyzékbe bejegyzett végrehajtói iroda köteles e törvénynek a bírósági végrehajtásról szóló 1994. évi LIII. törvény, és ezzel összefüggésben egyes törvények módosításáról szóló 2015. évi CVII. törvénnyel (a továbbiakban: Módtv.4.) megállapított rendelkezéseivel összhangban álló továbbműködéséről dönteni, az erről szóló legfőbb szervi határozatot és szükség szerint a változásbejegyzési kérelmet a cégbírósághoz benyújtani oly módon, hogy 2016. június 30. napjáig a változás cégbírósági bejegyzése is megtörténjen. Amennyiben a döntés következtében valamely tag tagsági jogviszonya megszűnik, vele a megszűnés időpontjában fennálló állapot szerint kell elszámolni. A tagot megillető vagyonrészt – eltérő megállapodás hiányában – a tagsági jogviszony megszűnésétől számított 3 hónapon belül pénzben kell kifizetni.
+
+(2) Annak a végrehajtói irodának a tagja, amely az (1) bekezdésben foglalt kötelezettségének határidőben nem tesz eleget, végrehajtási cselekményt nem végezhet.”
