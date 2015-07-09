@@ -30,7 +30,9 @@ m) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampo
 
 n) az a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és tanácsi irányelv [89. § (5) és (6) bekezdés];
 
-o) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv.
+o) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv;
+
+p) a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelv;
 
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapít meg:
 
