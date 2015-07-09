@@ -1,3 +1,0 @@
-33. § A Vht. 256/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A törvényszéki végrehajtó-helyettes a törvényszéknél szolgálati viszonyban álló bírósági tisztviselő, akit a törvényszék elnöke pályázat alapján nevez ki. A kinevezésre a 240/F. § (1)–(4) bekezdése megfelelően irányadó azzal, hogy a kinevezéséhez középfokú iskolai végzettséggel kell rendelkeznie. Az eskütételre a 256. § (2) bekezdése megfelelően irányadó azzal, hogy az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskütétel során: törvényszéki végrehajtó-helyettes.”

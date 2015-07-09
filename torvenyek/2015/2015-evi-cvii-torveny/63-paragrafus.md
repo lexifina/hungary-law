@@ -7,11 +7,3 @@
 (3) A 13. § (3) bekezdése 2016. január 1. napján lép hatályba.
 
 (4) A 3. § és a 13. § (2) bekezdése 2018. január 1. napján lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
