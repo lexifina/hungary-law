@@ -54,7 +54,9 @@ g) a felszámoló – 49/D. § (1) bekezdés alapján nem érvényesített – d
 
 h) a vagyonfelügyelő (ideiglenes vagyonfelügyelő) ki nem fizetett és a kezesektől meg nem térült költségei és díja, ha a felszámolási eljárást csődeljárás előzte meg;
 
-i) a h) pontban nem említett esetekben az ideiglenes vagyonfelügyelő díja.
+i) a h) pontban nem említett esetekben az ideiglenes vagyonfelügyelő díja;
+
+j) a katasztrófavédelmi, természetvédelmi vagy környezetvédelmi indokból az adós vagyonában a környezeti kárelhárítás, illetve a további környezetveszélyeztetés megelőzésére fordított, állam által megelőlegezett költségek.
 
 (3) A munkáltató rendes felmondása esetén felszámolási költségként – ha a felszámolás kezdő időpontját megelőzően legalább egy évvel korábban megkötött kollektív szerződés, illetve munkaszerződés magasabb összeget nem állapít meg – a munkavégzés alóli felmentés időtartamára jutó távolléti díj és a végkielégítés azon összege vehető figyelembe, amely a munkavállalót az Mt. 69. § (1)–(3) bekezdése, 70. § (3) bekezdése és 77. § (3) és (4) bekezdése alapján megilleti. E rendelkezés alkalmazásában az adós – (1) bekezdés hc) pontjában nem említett – vezető állású munkavállalói tekintetében kizárólag az Mt. 210. § (3) bekezdésében megállapított, a felszámolás kezdő időpontjában esedékes összeg vehető figyelembe.
 

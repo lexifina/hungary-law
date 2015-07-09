@@ -18,7 +18,9 @@ c) többségi állami befolyással működő gazdálkodó szervezet, továbbá a
 
 ca) csődeljárás esetén legkésőbb az egyezség megkötéséig,
 
-cb) felszámolási eljárás esetén ha egyezségi tárgyalásra kerül sor, az egyezség megkötéséig, egyezségkötés hiányában pedig legkésőbb a felszámolási záró mérleg bíróságnak történő benyújtásáig
+cb) felszámolási eljárás esetén ha egyezségi tárgyalásra kerül sor, az egyezség megkötéséig, egyezségkötés hiányában pedig legkésőbb a felszámolási záró mérleg bíróságnak történő benyújtásáig,
+
+d) olyan gazdálkodó szervezet esetében, amelynek működése katasztrófavédelmi, természetvédelmi vagy környezetvédelmi szempontból tekinthető kiemelt jelentőségűnek, a c) pont ca) és cb) alpontjában megjelölt időpontig
 
 hirdetheti ki.
 
