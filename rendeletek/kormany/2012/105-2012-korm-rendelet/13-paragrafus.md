@@ -1,14 +1,14 @@
-## 12. §[^17]
+## 12. §[^18]
 
 ## 13. § Az R1.
 
-a)[^18]
+a)[^19]
 
-b)[^19]
+b)[^20]
 
-c)[^20]
+c)[^21]
 
-d)[^21]
+d) 1. § (3) bekezdés c) pontjában az „500 m2, vagy ennél nagyobb” szövegrész helyébe a „250 m2, vagy ennél nagyobb”,
 
 e)[^22]
 
@@ -22,11 +22,10 @@ i)[^26]
 
 szöveg lép.
 
-[^17]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 13. § d) pontja a 28. § (3) bekezdése alapján 2015. július 9-én lép hatályba.
+[^18]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^22]: A 13. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^23]: A 13. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^24]: A 13. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

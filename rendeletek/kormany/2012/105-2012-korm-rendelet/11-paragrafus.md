@@ -1,3 +1,3 @@
-## 10. §[^15]
+## 10. §[^16]
 
-[^15]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
