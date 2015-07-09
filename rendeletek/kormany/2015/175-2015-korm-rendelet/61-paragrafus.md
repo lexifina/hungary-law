@@ -1,5 +1,5 @@
-## 60. § A Svájci–Magyar Együttműködési Program végrehajtási rendjéről szóló 237/2008. (IX. 26.) Korm. rendelet 91. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) A vissza nem térítendő támogatás igénybevételével beszerzett tárgyi eszközök a zárójegyzőkönyv felvételéig (a fenntartási időszak végéig) kizárólag a Végrehajtási Megállapodásban és a pályázatban meghatározott céloknak megfelelően hasznosíthatók. Az előirányzatból támogatott beruházással létrehozott vagyon – ha az a támogatási döntés kedvezményezettjének tulajdonába kerül – az Ávr. 102. § (1) bekezdésében meghatározott feltételek mellett, a Végrehajtási Megállapodásban foglalt kötelezettségek lejártáig csak az NKE, illetve a svájci hatóság előzetes jóváhagyásával idegeníthető el vagy adható bérbe. Ha az elidegenítéshez az NKE, illetve a svájci hatóság hozzájárult, a támogatási döntés kedvezményezettje mentesül a támogatási összeg visszafizetésének kötelezettsége alól. Hozzájárulás hiányában a támogatási döntés kedvezményezettje köteles a tárgyi eszköz értékére eső támogatást a folyósítás(ok) időpontjától a támogatás összegének tényleges visszafizetése idejéig felszámított kamattal növelve az elidegenítés időpontjában érvényes jegybanki alapkamat kétszeresével növelt összegben visszafizetni.”
+## 60. §[^21]
 
 ## 20. A gyógyszerek és a gyógyászati segédeszközök ismertetésével kapcsolatban kiszabott bírság pénzügyi teljesítésének feltételeiről és felhasználásáról szóló 338/2008. (XII. 30.) Korm. rendelet módosítása
+
+[^21]: A 60. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

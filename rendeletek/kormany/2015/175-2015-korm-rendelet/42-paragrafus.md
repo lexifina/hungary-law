@@ -1,3 +1,5 @@
-## 41. § A tulajdonviszonyok rendezése érdekében, az állam által igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény végrehajtásáról szóló 104/1991. (VIII. 3.) Korm. rendelet 8. § (3) bekezdésében az „államháztartásról szóló 1992. évi XXXVIII. törvény 18/B. § (1) bekezdés y) pontjában” szövegrész helyébe az „államháztartásról szóló 2011. évi CXCV. törvény 76. § (2) bekezdés d) pontjában” szöveg lép.
+## 41. §[^6]
 
 ## 5. A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben résztvevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet módosítása
+
+[^6]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

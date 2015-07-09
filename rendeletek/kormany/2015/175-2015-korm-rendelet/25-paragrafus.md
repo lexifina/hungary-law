@@ -1,5 +1,0 @@
-## 24. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 167/C. §-a a következő (5a) és (5b) bekezdéssel egészül ki:
-
-## „(5a) Költségvetési szerv átalakítása esetén az átalakítással érintett költségvetési szerv létesítő okiratának módosítására vagy törzskönyvi nyilvántartásból történő törlésére és a jogutód költségvetési szerv törzskönyvi nyilvántartásba történő bejegyzésére vagy létesítő okiratának módosítására vonatkozó kérelmet úgy kell benyújtani, hogy azok egyidejűleg a Kincstár számára rendelkezésre álljanak. A Kincstár az átalakítással érintett költségvetési szerv tekintetében beálló változást a jogutód költségvetési szervet érintő bejegyzéssel egyidejűleg, a jogutód költségvetési szerv bejegyzésével együtt vezeti át a törzskönyvi nyilvántartásban.
-
-## (5b) A Kincstár jogutód nélküli megszűnés esetén a megszüntető szerv bejelentésétől vagy a megszűnést meghatározó törvényi rendelkezés hatálybalépésétől, jogutóddal történő megszűnés esetén a jogutód bejelentésétől számított tizenöt napon belül, a jogutód feltüntetésével törli a nem költségvetési szerv törzskönyvi jogi személyt a törzskönyvi nyilvántartásból.”
