@@ -10,7 +10,7 @@ lehet végezni.
 
 a) nyilvános vagy zártkörű pályázat útján,
 
-b) nyilvános árverésen [a továbbiakban az a) és b) együtt: versenyeztetés],
+b) nyilvános árverésen, ideértve az elektronikus árverést is [a továbbiakban az a) és b) pont együtt: versenyeztetés],
 
 c) kivételesen versenyeztetés nélkül.
 

@@ -18,7 +18,7 @@ e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabál
 
 f) ellenőrzi az értékesítési szerződésekben foglalt kötelezettségek teljesítését.
 
-g) közreműködik a Nemzeti Vagyongazdálkodási Irányelvek és az Éves Nemzeti Vagyongazdálkodási Program előkészítésében,
+g) elektronikus árverési rendszert működtet, vezeti az árverezők elektronikus nyilvántartását és elektronikus árverési hirdetmény közzététele útján elektronikus árverési eljárást bonyolít le,
 
 h) az állami feladatok ellátása során a költségvetési szervek, illetve az egyéb, az állami vagyont használó természetes személyek, jogi személyek és jogi személyiséggel nem rendelkező szervezetek részére a működésükhöz szükséges állami tulajdon használatához szükséges szolgáltatásokat (üzemeltetés, beszerzés) nyújt.
 

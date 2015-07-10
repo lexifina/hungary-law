@@ -6,7 +6,7 @@
 
 (2) A tulajdonosi jogokat
 
-a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság és a Magyar Posta Zártkörűen Működő Részvénytársaság felett a kormányzati tevékenység összehangolásáért felelős miniszter,
+a) az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság, a Magyar Posta Zártkörűen Működő Részvénytársaság, az ENKSZ Első Nemzeti Közműszolgáltató Zártkörűen Működő Részvénytársaság és a KAF Központi Adatgyűjtő és Feldolgozó Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – a kormányzati tevékenység összehangolásáért felelős miniszter,
 
 b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
 
@@ -32,8 +32,8 @@ b) a miniszter az Áht. szerinti központi költségvetési szerv, továbbá a 1
 
 (2b) A (2a) bekezdés a) pontja szerinti esetben a miniszter gondoskodik arról, hogy a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálya alá tartozó állami vagyon tekintetében a miniszter rendelete alapján fennálló tulajdonosi joggyakorlói kijelölés a kormányzati tevékenység összehangolásáért felelős miniszter rendeletének hatálybalépésével egyidejűleg megszüntetésre kerüljön.
 
-(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló szervezet e tevékenységét a jelen törvény és a végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti.
+(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló szervezet e tevékenységét e törvény és végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti azzal, hogy a tulajdonosi joggyakorlással érintett állami vagyon tulajdonjogát a tulajdonosi joggyakorló nem ruházhatja át, arra vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azt nem adhatja és más módon meg nem terhelheti, a gazdasági társaságot végelszámolással nem szüntetheti meg.
 
 (4) Az állami vagyon feletti tulajdonosi joggyakorlással kapcsolatos tevékenységet az Állami Számvevőszék évente ellenőrzi.
 
-(5) Az MNV Zrt. és a 3. § (2) bekezdés c) és d) pontjában meghatározott tulajdonosi joggyakorlók a rábízott vagyon körében a miniszter jóváhagyásával köthetnek olyan megállapodást, melynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben résztvevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.
+(5) Az a törvényben kijelölt tulajdonosi joggyakorló, amely nem egyedileg meghatározott vagyoni kör tekintetében gyakorol tulajdonosi jogokat, a rábízott vagyon körében a miniszter jóváhagyásával köthet olyan megállapodást, amelynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben részt vevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.

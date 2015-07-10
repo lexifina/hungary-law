@@ -45,3 +45,7 @@ b) a meghatározott ajánlattevői körbe tartozók száma nem ismert.
 (6) Állami vagyonra vonatkozóan vételi jogot alapítani csak az értékesítésre vonatkozó jogszabályi előírások betartásával lehet. Az ily módon alapított vételi jog időtartama az öt évet meghaladhatja.
 
 (7) Az állami vagyon értékesítésének részletes szabályait a Kormány rendeletben állapítja meg.
+
+(8) Az MNV Zrt. által működtetett elektronikus árverési rendszerbe árverezőként történő belépésre az árverezők elektronikus nyilvántartásába bejegyzett felhasználó jogosult regisztrált és aktivált felhasználói nevének, valamint jelszavának megadásával.
+
+(9) Az árverezők elektronikus nyilvántartásába bármely természetes személy vagy olyan jogi személy kérheti a felvételét, aki megfelel a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti feltételeknek, ha az elektronikus árverési rendszer árverezőként történő használatának feltételeit rögzítő felhasználási szabályzatban foglaltakat elfogadta.

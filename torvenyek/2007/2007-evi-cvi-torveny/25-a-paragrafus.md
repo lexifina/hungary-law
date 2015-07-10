@@ -9,3 +9,5 @@ a) az (1) bekezdésben meghatározottak alapján megismert személyes adatokat a
 b) a (2) bekezdésben meghatározottak alapján megismert személyes adatokat a szerződés érvényessége végéig
 
 kezeli.
+
+(4) Az (1) bekezdés szerinti igazolási kötelezettség nem vonatkozik azon jogi személyekre, amelyekre a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény hatálya nem terjed ki.
