@@ -74,6 +74,8 @@ Felelős: belügyminiszter
 
 Határidő: 2017. május 31.
 
-11. A Kormány a Magyarországnak a Nyílt Kormányzati Együttműködés (Open Government Partnership) elnevezésű nemzetközi kezdeményezés keretében teendő vállalásairól szóló akcióterv jóváhagyásáról szóló 1080/2013. (II. 25.) Korm. határozatot visszavonja.
+11.[^1]
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
