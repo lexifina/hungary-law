@@ -2,9 +2,9 @@
 
 (2) A kérelmeket a miniszter legkésőbb a kérelem tárgyát képező kereskedési időszak harmadik évének december 31. napjáig megküldi jóváhagyásra az Európai Bizottságnak.
 
-(3) A miniszter az Európai Bizottság határozata alapján, annak elfogadását követő 3 hónapon belül megállapítja és közzéteszi a kérelmet benyújtó összes légiközlekedési új belépő részére a külön tartalékalapból kiosztott légiközlekedési kibocsátási egységek teljes mennyiségét, és az egyes légiközlekedési új belépők számára az évente térítésmentesen kiosztott légiközlekedési kibocsátási egységek mennyiségét.
+(3) A miniszter az Európai Bizottság által legkésőbb a kereskedési időszak negyedik évének június 30. napjáig meghozott, referenciaértéket megszabó határozata alapján az (5) bekezdés szerint jár el, valamint az egyes légiközlekedési új belépők számára az évente véglegesen kiosztandó légiközlekedési kibocsátási egységmennyiségeket a minisztérium honlapján közleményben teszi közzé, továbbá gondoskodik annak Hivatalos Értesítőben való közzétételéről.
 
-(4) A légiközlekedési kibocsátási egységeknek az üzemeltető forgalmi jegyzékbeli számláján történő jóváírásáról a miniszter a jegyzékkezelő útján gondoskodik.
+(4) A légiközlekedési kibocsátási egységeknek a légi jármű üzembentartó forgalmi jegyzékbeli számláján történő jóváírásáról a miniszter a jegyzékkezelő útján gondoskodik.
 
 (5) A miniszter – az Európai Bizottság (3) bekezdés szerinti döntését követően – elkészíti a nemzeti légiközlekedési kiosztási tábla módosítására vonatkozó javaslatot és jóváhagyásra megküldi az Európai Bizottságnak. A légiközlekedési kibocsátási egységeknek a légi jármű üzembentartó forgalmi jegyzékbeli számláján történő jóváírásáról a miniszter a 20. § (4) bekezdésében meghatározottak szerint gondoskodik.
 

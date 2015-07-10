@@ -36,9 +36,11 @@ p) a támogatási összegek beruházók által történő igénylésére és a t
 
 q) a derogációs kérelemmel összefüggő jelentéstétel és a független könyvvizsgáló kijelölésének részletes szabályait,
 
-r) a derogációs kérelemben meghatározott beruházások utólagos nyomon követésére vonatkozó részletes szabályokat,
+r) a derogációs kérelemben meghatározott beruházások utólagos nyomon követésére vonatkozó, továbbá a beruházási számlán fel nem használt pénzügyi forrás elszámolásával és felhasználásával kapcsolatos részletszabályokat,
 
-s) a piaci érték megfizetésének módját és pénznemét
+s) a piaci érték megfizetésének módját és pénznemét,
+
+t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

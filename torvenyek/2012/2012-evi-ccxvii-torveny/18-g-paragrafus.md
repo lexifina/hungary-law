@@ -2,4 +2,4 @@
 
 (2) A hatóság a 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait a határozat meghozatalát követő 3 napon belül a honlapján közzé teszi.
 
-(3) A miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak a miniszter által vezetett minisztérium honlapján történő közzétételéről.
+(3) Az energiapolitikáért felelős miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak az energiapolitikáért felelős miniszter által vezetett minisztérium honlapján történő közzétételéről.
