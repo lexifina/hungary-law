@@ -1,4 +1,4 @@
-4. számú melléklet a 4/1998. (XI. 11.) EüM rendelethez[^14]
+4. számú melléklet a 4/1998. (XI. 11.) EüM rendelethez[^15]
 
 Az élelmiszer-előállítás belső minőségellenőrzését szolgáló mikrobiológiai vizsgálatok és ajánlott határértékek
 
@@ -112,7 +112,9 @@ Az élelmiszer-előállítás belső minőségellenőrzését szolgáló mikrobi
 
 | 15. | Szárított készítmények, hőkezelést igénylő termékek |  |  |  |  |  |
 
-| 15.1. | tea, kávé, egyéb | Salmonella S. aureus Coliform Penészgomba Szulf. red. clostridium | 10 5 5 5 5 | – 2 3 3 2 | – 10210 10210 | 0/25 g 103102104102 |
+| 15.1. | tea, kávé, egyéb | Salmonella S. aureus E. coli Penészgomba Szulf. red. clostridium | 5 5 5 5 5 | – 2 3 3 2 | – 10210210210 | 0/25 g 103103104102 |
+
+|  | 15.2. | gyermekek részére készült tea | Salmonella S. aureus E. coli Penészgomba Szulf. red. clostridium | 5 5 5 5 5 | – 2 3 3 2 | – 10210 10210 | 0/25 g 103102104102 |
 
 | 16. | Természetes ásványvizek (széndioxiddal dúsítva is) | A vonatkozó jogszabály előírása szerint |  |  |  |  |
 
@@ -156,4 +158,4 @@ Megjegyzés:
 
 **** Lágy sajt esetében Coliform m: 104, M:105
 
-[^14]: A 4. számú melléklet a Magyar Közlöny 1999. évi 8. számában közzétett helyesbítésnek megfelelő szöveg.
+[^15]: A 4. számú melléklet a Magyar Közlöny 1999. évi 8. számában közzétett helyesbítésnek megfelelő, a 34/2015. (VI. 25.) FM rendelet 2. § (4) bekezdés b) pontja szerint módosított szöveg.
