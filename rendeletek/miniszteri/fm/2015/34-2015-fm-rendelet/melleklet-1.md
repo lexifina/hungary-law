@@ -1,6 +1,3 @@
-## 11. §[^10]
+## 11. § Az 1. és 2. mellékletnek a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv – 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 8–10. cikke szerinti előzetes bejelentése megtörtént.
 
-1–2. melléklet a 34/2015. (VI. 25.) FM rendelethez[^11]
-
-[^10]: A 11. § a 9. § (2) bekezdése alapján 2015. július 10-én lép hatályba.
-[^11]: Az 1–2. melléklet a 9. § (2) bekezdése alapján 2015. július 10-én lép hatályba.
+1. melléklet a 34/2015. (VI. 25.) FM rendelethez
