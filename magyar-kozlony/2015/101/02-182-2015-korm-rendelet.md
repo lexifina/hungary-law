@@ -1,0 +1,197 @@
+# A Kormány 182/2015. (VII. 10.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 101. szám, 2015. július 10. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5c45ba08c57a41b675d53fdfb1fa93db437589d4/dokumentumok/eaf8330b32186ebcf73cb1dc7f03607d427937d6/letoltes)
+
+---
+
+A Kormány 182/2015. (VII. 10.) Korm. rendelete
+a Magyarország Kormánya és Románia Kormánya közötti, a Magyar Köztársaság Kormánya és
+Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom
+ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló
+Megállapodás módosításáról szóló Megállapodás kihirdetéséről
+1. §
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Románia Kormánya közötti, a Magyar
+Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti
+határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló
+Megállapodás módosításáról szóló Megállapodás (a továbbiakban: Módosító Megállapodás) kötelező hatályának
+elismerésére.
+2. §
+A Kormány a Módosító Megállapodást e rendelettel kihirdeti.
+3. §
+A Módosító Megállapodás hiteles román nyelvű szövegét tartalmazó román szóbeli jegyzék szövege a következő:
+„Nr. H2-1/2795
+Ministerul Afacerilor Externe al României prezintă salutul său Ambasadei Ungariei la Bucureşti şi are onoarea de
+a propune încheierea unui Acord între Guvernul României şi Guvernul Ungariei, prin schimb de note verbale, privind
+modificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare, semnat la Bucureşti la 21 decembrie
+2006, pentru aplicarea Convenţiei dintre România şi Republica Ungară privind controlul traficului rutier şi feroviar,
+semnată la Bucureşti la 27 aprilie 2004, având următorul conţinut:
+Guvernul României şi Guvernul Ungariei (denumite în continuare: Părţi contractante)
+În baza articolului 3, alineatul (4) punctul a) din Convenţia dintre România şi Republica Ungară privind controlul
+traficului de frontieră rutier şi feroviar, semnată la Bucureşti, la 27 aprilie 2004 (denumită în continuare:„Convenţia”),
+care prevede faptul că Guvernele statelor contractante reglementează prin acord separat înfiinţarea de noi puncte
+de trecere a frontierei,
+Având în vedere prevederile Acordului între Guvernul României şi Guvernul Republicii Ungare privind stabilirea
+conexiunii autostrăzii între Arad–Nădlac (RO) şi Csanádpalota–Mako–Szeged (HU), semnat la Budapesta la 5 iulie
+2011,
+Considerând că este necesară deschiderea unui punct de trecere la frontiera româno–ungară, pe autostrada A1 –
+M43 (Nădlac – Csanádpalota),
+Au convenit următoarele:
+Articolul 1
+Articolul 5 alineatul (1) al Acordului se modifică după cum urmează:
+„(1) Punctul de trecere a frontierei este deschis pentru traficul internațional de persoane, precum și pentru traficul
+internațional de mărfuri periculoase fără limită de greutate, pentru traficul internațional de plante și animale fără
+limită de greutate, pentru vehiculele lente si pentru traficul internațional de mărfuri până la limita de greutate totala
+de 7,5 tone.”
+
+Articolul 2
+Acordul se completează cu articolul 13/A, după cum urmează:
+„Articolul 13/A
+Nădlac – Csanadpalota
+(1) Punctul de trecere a frontierei pe autostradă este deschis pentru traficul internaţional de persoane, precum și
+pentru traficul internațional de mărfuri.
+(2) Controlul traficului de persoane care ies de pe teritoriul Ungariei şi intră pe teritoriul României, respectiv al celor
+care ies de pe teritoriul României şi intră pe teritoriul Ungariei – inclusiv controlul persoanelor participante la traficul
+internaţional de mărfuri – are loc pe teritoriul României, într-un loc comun. În acest scop, pe teritoriul României se
+înfiinţează un loc de serviciu ungar pentru controlul traficului de frontieră.
+(3) Programul de lucru al punctului de trecere a frontierei este zilnic de la ora 00,00 la ora 24,00.
+(4) Pentru personalul de serviciu ungar, teritoriul de funcţionare la locul de serviciu pentru controlul traficului de
+frontieră, existent pe teritoriul României, se extinde asupra:
+a) încăperilor de serviciu desemnate, încăperilor comune;
+b) drumului public care duce de la frontiera de stat la locul de serviciu;
+c) benzilor de circulaţie de control;
+d) parcării de serviciu.
+(5) Punctul de trecere al frontierei nu este deschis pentru transportul de mărfuri pentru care este obligatoriu sa fie
+supuse controlului fitosanitar și veterinar.
+(6) Punctul de trecere al frontierei nu este deschis pentru transportul de mărfuri periculoase.
+(7) După crearea condițiilor necesare de personal, tehnice și de infrastructura, părțile vor conveni pe cale
+diplomatica data deschiderii punctului de trecere a frontierei.”
+Articolul 3
+Articolul 14 din Acord se modifică după cum urmează:
+„În privința articolelor 4–13/A si 20 din prezentul Acord încăperile de serviciu necesare personalului de serviciu al
+statului vecin vor fi asigurate de statul pe teritoriul căruia sunt situate, iar despre folosirea și condițiile de funcționare
+ale acestora autoritățile competente ale statelor contractante vor conveni cu utilizatorul prin contracte de drept
+civil.”
+Articolul 4
+(1) Prezentul Acord de modificare se încheie pentru o perioada nedeterminată. La momentul ieșirii din vigoare
+a Acordului, și prezentul Acord de modificare își încetează valabilitatea.
+(2) Prezentul Acord intră în vigoare în următoare zi de la data primirii ultimei note diplomatice prin care Părțile
+comunica reciproc, în scris, că au fost îndeplinite condițiile legale interne necesare pentru intrarea în vigoare
+a Acordului.
+(3) Părțile vor pune în aplicare articolele 2 și 3 din prezentul Acord doar după deschiderea punctului de trecere
+a frontierei.
+În măsura în care partea ungară este de acord cu cele de mai sus, prezenta notă verbală împreună cu nota verbală
+de răspuns a părţii ungare urmează să constituie un acord între Guvernul României şi Guvernul Ungariei, privind
+modificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare, semnat la Bucureşti la 21 decembrie
+2006, pentru aplicarea Convenţiei dintre România şi Republica Ungară privind controlul traficului rutier şi feroviar,
+semnată la Bucureşti la 27 aprilie 2004.
+Ministerul Afacerilor Externe al României foloseşte acest prilej pentru a reînnoi Ambasadei Ungariei la Bucureşti
+asigurarea înaltei sale consideraţii.”
+A Módosító Megállapodás hiteles román nyelvű szövegét tartalmazó román szóbeli jegyzék hivatalos magyar nyelvű
+fordítása a következő:
+„Ikt. szám: H2-1/2795
+Románia Külügyminisztériuma üdvözletét fejezi ki Magyarország Bukaresti Nagykövetségének, és tisztelettel
+javasolja egy Megállapodás szóbeli jegyzékváltás útján történő megkötését Románia Kormánya és Magyarország
+
+Kormánya között, a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia
+között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt
+Egyezmény végrehajtásáról szóló, Bukarestben, 2006. december 21-én aláírt Megállapodás módosítása tárgyában,
+az alábbi tartalommal:
+„MEGÁLLAPODÁS
+Magyarország Kormánya és Románia Kormánya között
+a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia
+között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján
+aláírt Egyezmény végrehajtásáról szóló Megállapodás módosításáról
+Magyarország Kormánya és Románia Kormánya (a továbbiakban: Szerződő Felek),
+A Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004.
+április hó 27. napján aláírt Egyezmény (a továbbiakban: „Egyezmény”) 3. Cikk (4) bekezdésének a) pontja alapján,
+miszerint a szerződő államok kormányai külön megállapodással szabályozzák a határátkelőhelyek létesítését,
+Figyelembe véve a Magyar Köztársaság Kormánya és Románia Kormánya között a Szeged–Makó–Csanádpalota (H)
+és Nagylak (Nãdlac)–Arad (RO) közötti autópálya-kapcsolat létesítéséről szóló, 2011. július 5-én, Budapesten aláírt
+Megállapodás előírásait,
+Úgy értékelve, hogy egy magyar–román határátkelőhely létesítése szükséges az A1 és az M43–Csanádpalota–
+Nagylak (Nãdlac) – autópálya-kapcsolat átadásához,
+az alábbiakban állapodtak meg:
+1. Cikk
+A Megállapodás 5. Cikk (1) bekezdése az alábbiak szerint módosul:
+„(1) A határátkelőhely használata kiterjed a nemzetközi személyforgalomra, a legnagyobb megengedett
+össztömegtől függetlenül a nemzetközi veszélyes árut szállító járművekre, a legnagyobb megengedett
+össztömegtől függetlenül a növény- és állategészségügyi szállítmányt szállító járművekre, a lassú járművekre,
+valamint a nemzetközi áruforgalomra 7,5 tonna össztömeg súlyhatárig.”
+2. Cikk
+A Megállapodás az alábbi 13/A. Cikkel egészül ki:
+„13/A. Cikk
+Csanádpalota–Nagylak (Nădlac)
+(1) Az autópálya határátkelőhely használata kiterjed a nemzetközi személyforgalomra, valamint a nemzetközi
+áruforgalomra.
+(2) A Csanádpalota–Nagylak (Nădlac) autópálya határátkelőhelyen a Magyarország államterületéről kilépő és
+Románia államterületére belépő, valamint a Románia államterületéről kilépő és Magyarország államterületére
+belépő személyforgalom ellenőrzése – beleértve a nemzetközi áruforgalomban részt vevő személyek ellenőrzését
+is – Románia államterületén közös helyen történik. Ebből a célból Románia államterületén magyar határforgalom-
+ellenőrző szolgálati hely létesül.
+(3) A határátkelőhely nyitvatartási ideje naponta 00.00–24.00 óráig tart.
+(4) A magyar szolgálati személyek számára a működési terület Románia államterületén lévő határforgalom-ellenőrző
+szolgálati helyen kiterjed:
+a) a kijelölt hivatali helyiségekre, közös helyiségekre;
+b) az államhatártól a szolgálati helyig vezető közútra;
+c) az ellenőrző forgalmi sávokra;
+d) a szolgálati parkolóra.
+(5) A határátkelőhelyen állat- és növény-egészségügyi vizsgálatkötelezettség alá eső árut szállító járművek nem
+közlekedhetnek.
+(6) A határátkelőhelyen veszélyes árut szállító járművek nem közlekedhetnek.
+
+(7) A megfelelő személyi, technikai és infrastrukturális feltételek biztosítását követően a határátkelőhely
+megnyitásának időpontját a Szerződő Felek diplomáciai úton egyeztetik.”
+3. Cikk
+A Megállapodás 14. Cikke az alábbiak szerint módosul:
+„E Megállapodás 4–13/A. és 20. Cikkei tekintetében a Szomszéd Állam szolgálati személyei számára a Területi
+Államban szükséges szolgálati helyiségeket a Területi Állam biztosítja, amelyek használatáról, üzemeltetési
+feltételeiről a Szerződő Felek illetékes szervei az üzemeltetővel magánjogi szerződésben állapodnak meg.”
+4. Cikk
+(1) A jelen módosító Megállapodás határozatlan időre szól. A jelen módosító Megállapodás a Megállapodás
+megszűnésével egyidejűleg hatályát veszti.
+(2) A jelen módosító Megállapodás azon utolsó diplomáciai jegyzék kézhezvételét követő napon lép hatályba,
+amelyben a Szerződő Felek írásban értesítik egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső
+jogi előírásaiknak.
+(3) A Szerződő Felek a jelen módosító Megállapodás 2. Cikkét és 3. Cikkét csak az autópálya határátkelőhely
+megnyitásának időpontjától kezdve alkalmazzák.
+Amennyiben a magyar fél a jelen szóbeli jegyzékben foglaltakkal egyetért, úgy a jelen szóbeli jegyzék a magyar
+fél válaszát tartalmazó szóbeli jegyzékkel együtt Románia Kormánya és Magyarország Kormánya közötti
+megállapodásnak minősül a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság
+és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján
+aláírt Egyezmény végrehajtásáról szóló Megállapodás módosításáról.
+Románia Külügyminisztériuma felhasználja ezt az alkalmat Magyarország Bukaresti Nagykövetsége iránti
+megkülönböztetett tiszteletének ismételt kifejezésére.”
+A magyar fél válaszjegyzékének hiteles magyar nyelvű szövege a következő:
+SZÓBELI JEGYZÉK
+Magyarország Külgazdasági és Külügyminisztériuma tiszteletét fejezi ki Románia budapesti Nagykövetségének és
+hivatkozással a tisztelt Nagykövetség 2015. július 1-jén kelt H2-1/2795 számú szóbeli jegyzékére, Magyarország
+Kormányának állásfoglalása alapján, van szerencséje az alábbiakról tájékoztatni.
+A tisztelt Nagykövetség fenti jegyzékében szereplő Magyarország Kormánya és Románia Kormánya között a Magyar
+Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti
+határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról
+szóló Megállapodás módosításának (a továbbiakban: Módosító Megállapodás) szövegére vonatkozó tájékoztatást
+a Magyar Fél áttekintette és a Román Fél javaslatait elfogadja.
+A Magyar Fél ezzel a Módosító Megállapodás szövegét lezártnak tekinti, mivel a két fél kormányai közötti
+tárgyalások befejeződtek és további módosítási javaslat nem merült fel. A fentiek alapján a Magyar Fél álláspontja
+szerint a jelen szóbeli jegyzék a Román Fél H2-1/2795 számú szóbeli jegyzékével együtt Románia Kormánya és
+Magyarország Kormánya közötti megállapodásnak minősül a Magyar Köztársaság Kormánya és Románia Kormánya
+között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben,
+2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodás módosításáról.
+A Magyar Fél továbbá tájékoztatja a Román Felet, hogy jelen szóbeli jegyzéke a hatálybalépéshez szükséges belső
+jogi eljárások megtörténtét igazoló jegyzéknek is tekintendő.
+Magyarország Külgazdasági és Külügyminisztériuma megragadja az alkalmat, hogy ismét legőszintébb
+nagyrabecsüléséről biztosítsa Románia budapesti Nagykövetségét.”
+4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 2. § és a 3. § a Módosító Megállapodás 4. Cikk (2) bekezdésében meghatározott időpontban lép hatályba.
+(3) A Módosító Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős
+miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja
+meg.
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a határrendészetért felelős miniszter gondoskodik.
+(5) A 360/2006. (XII. 28.) Korm. rendelettel kihirdetett, a Magyar Köztársaság Kormánya és Románia Kormánya között
+a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben,
+2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodásnak a Módosító Megállapodással
+egységes szerkezetbe foglalt, magyar nyelvű szövege közzétételéről a Módosító Megállapodás hatálybalépését
+követően haladéktalanul a határrendészetért felelős miniszter gondoskodik.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
