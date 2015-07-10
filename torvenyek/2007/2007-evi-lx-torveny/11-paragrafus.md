@@ -1,4 +1,4 @@
-## Részvétel nemzetközi rugalmassági mechanizmusokban
+## Részvétel nemzetközi rugalmassági mechanizmusokban és klímapolitikai célkitűzések végrehajtásában
 
 11. § (1) Magyarország területén megvalósítandó együttes végrehajtásban jogi személyek a nemzetközi kötelezettségvállalásokkal összhangban, külön jogszabályban meghatározottak szerint a miniszter jóváhagyása alapján vehetnek részt.
 

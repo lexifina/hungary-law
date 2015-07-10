@@ -8,7 +8,13 @@ b) Magyarország mint fogadó ország területén megvalósuló együttes végre
 
 (3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
-(4) A (3) bekezdés szerinti bevételnek az Éghajlatváltozási Stratégiával összhangban történő felhasználásáról az államháztartásért felelős miniszter gondoskodik.
+(4) A (3) bekezdés szerinti kiotói egységek átruházásából 2015. január 1-jét követően keletkezett bevétel
+
+a) 50%-ának felhasználásáról a miniszter a Zöld Beruházási Rendszer keretében,
+
+b) 50%-ának felhasználásáról az államháztartásért felelős miniszter a Gazdasági Zöldítési Rendszer keretében
+
+az Éghajlatváltozási Stratégiával összhangban gondoskodik.
 
 (4a)
 
