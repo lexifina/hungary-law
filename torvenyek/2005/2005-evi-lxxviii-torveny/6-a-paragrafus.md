@@ -4,7 +4,7 @@ a) alapszabályát, szervezeti és működési szabályzatát, az akkreditálás
 
 b) az 5. § (1) bekezdés h) pontjában meghatározottakat és az 5. § (1) bekezdés i) pontja szerinti dokumentumokra vonatkozó információkat,
 
-c) a 6. § (4) bekezdés a)–g) pontja szerinti nyilvántartást és a 24. § (1a) bekezdés szerinti nyilvántartást,
+c) a 6. § (4) bekezdés a)–g) pontja szerinti nyilvántartást,
 
 d) a 765/2008/EK európai parlamenti és tanácsi rendelet 10. cikke és a 600/2012/EU bizottsági rendelet 64. cikke szerinti szakértői értékelése eredményét, valamint
 
