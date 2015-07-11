@@ -1,7 +1,0 @@
-8. § Az Ügkr. 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § (1) A miniszter az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (2) bekezdésében foglaltaktól eltérően a légiközlekedési kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 25%-ának a 2003/87/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésében meghatározott célok egyikére vagy közülük többre fordított, a Gazdasági Zöldítési Rendszer előirányzat keretében való felhasználásáról a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.
-
-(2) Az energiapolitikáért felelős miniszter az Áht. 19. § (2) bekezdésében foglaltaktól eltérően a légiközlekedési kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának, valamint a kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 25%-ának a 2003/87/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésében meghatározott célok egyikére vagy közülük többre fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében való felhasználásáról a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.
-
-(3) Az (1) és (2) bekezdés szerinti előirányzat maradványa a következő években felhasználható.”
