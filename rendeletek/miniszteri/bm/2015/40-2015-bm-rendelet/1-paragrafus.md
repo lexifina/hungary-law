@@ -1,0 +1,7 @@
+## 1. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet módosítása
+
+## 1. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet
+
+a) 4. § (5) bekezdésében az „a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvet” szövegrész helyébe az „a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelvet”, valamint
+
+b) 41. §-ában az „a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló 2011. október 25-i 2011/82/EU európai parlamenti és tanácsi irányelvnek” szövegrész helyébe az „a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2015. március 11-i 2015/413/EU európai parlamenti és tanácsi irányelvnek”
