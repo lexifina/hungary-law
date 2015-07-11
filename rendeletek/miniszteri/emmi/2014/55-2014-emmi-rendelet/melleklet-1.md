@@ -8,7 +8,7 @@ A következő szerkezeti leírásoknak megfelelő vegyületek, ha azok a kábít
 
 1. Azok
 
-1.1. az indolil-naftil-keton (1H-indol-3-il(naftalin-1-il)metanon, 1H-indol-3-il(naftalin-2-il)metanon) az AM-2201 kivételével, vagy
+1.1. az indolil-naftil-keton (1H-indol-3-il(naftalin-1-il)metanon, 1H-indol-3-il(naftalin-2-il)metanon), vagy
 
 1.2. a fenil-indolil-keton (fenil(1H-indol-3-il)metanon) vagy
 
@@ -56,13 +56,13 @@ szerkezeti részt tartalmazó vegyületek, amelyekben
 
 1.17.2. fenil-, (halogénfenil)-, naftil- vagy 1-2 szénatomos alkilcsoportot tartalmazhat.
 
-1.18. az 1.11. és az 1.13. szerinti karboxilátok oxigénatomjához, illetve az 1.12. és az 1.14. szerinti karboxamidok nitrogénatomjához
+1.18. az 1.11. és az 1.13. szerinti vegyületek karboxilát részének oxigénatomjához,
 
 1.18.1. (ciklusos alkil)-, fenil-, benzil-, naftil- vagy kinolincsoport kapcsolódik.
 
 1.19. az 1.1–1.7. szerinti fenil- és naftilcsoport, illetve az 1.18.1. szerinti fenil-, benzil-, naftil- és kinolincsoport
 
-1.19.1. 1–4 szénatomos alkilcsoportot vagy
+1.19.1. egy vagy több 1–4 szénatomos alkilcsoportot vagy
 
 1.19.2. metoxi- vagy etoxicsoportot vagy
 
@@ -70,25 +70,29 @@ szerkezeti részt tartalmazó vegyületek, amelyekben
 
 tartalmazhat.
 
-1.20. az 1.12. és 1.14. szerinti karboxamidok nitrogénatomja tagja lehet
+1.20. az 1.12. és 1.14. szerinti vegyületek karboxamid részének nitrogénatomja
 
-1.20.1. egy olyan piperazingyűrűnek, amely egy vagy több metil-, illetve etilcsoportot tartalmaz, vagy
+1.20.1. olyan piperazingyűrű tagja, amely egy vagy több metil-, illetve etilcsoportot tartalmaz, vagy
 
-1.20.2. egy olyan részlegesen vagy teljesen telített biciklusos gyűrűrendszernek, amely 7–10 szénatomból és egy vagy két nitrogénatomból áll.
+1.20.2. olyan részlegesen vagy teljesen telített biciklusos gyűrűrendszer tagja, amely 7–10 szénatomból és egy vagy két nitrogénatomból áll, vagy
 
-1.21. az 1.8., 1.9., 1.10. és 1.18.1. szerinti (ciklusos alkil)-csoport egy vagy több 3–10 szénatomos gyűrűből áll és egy vagy több 1–3 szénatomos alkilcsoportot vagy halogénatomot tartalmazhat.
+1.20.3. valin-, 3-metilvalin-, fenilalanin-metilészter szerkezeti rész alfa-nitrogénatomja, vagy
 
-2. Azok a katinon (2-amino-1-fenilpropán-1-on) szerkezeti részt tartalmazó vegyületek, a bupropion,
+1.20.4. valin-, 3-metilvalin-, fenilalanin-amid szerkezeti rész alfa-nitrogénatomja, vagy
 
-α- Pyrrolidinovalerophenone, Pentedron kivételével, amelyekben
+1.20.5. (ciklusos alkil)-, fenil-, benzil-, naftil- vagy kinolincsoportot tartalmaz
+
+1.21. az 1.8., 1.9., 1.10. és 1.18.1. és 1.20.5. szerinti (ciklusos alkil)-csoport egy vagy több 3–10 szénatomos gyűrűből áll és egy vagy több 1–3 szénatomos alkilcsoportot vagy halogénatomot tartalmazhat.
+
+2. Azok a katinon (2-amino-1-fenilpropán-1-on) szerkezeti részt tartalmazó vegyületek, a bupropion, kivételével, amelyekben
 
 2.1. a propán-1-on szerkezeti egység 3-as helyzetű szénatomja
 
-2.1.1. legfeljebb 3 szénatomos alkilcsoportot tartalmazhat
+2.1.1. legfeljebb 6 szénatomos alkilcsoportot tartalmazhat
 
 2.2. a fenilcsoport egy vagy – tetszőleges kombinációban – több
 
-2.2.1. halogénatomot, metilcsoportot, etilcsoportot, metoxicsoportot, metiléndioxicsoportot tartalmazhat
+2.2.1. halogénatomot, metil, etil, metoxi, metiléndioxi (metilénbiszoxi-), trimetilén (propán-1,3-diil), etilénoxi-csoportot tartalmazhat
 
 2.3. a nitrogénatom
 
@@ -108,13 +112,13 @@ tartalmazhat.
 
 3.2.1. hidroxi-, metoxi- vagy acetoxicsoportot tartalmazhat.
 
-4. Azok a fenetilamin (2-feniletánamin) szerkezeti részt tartalmazó vegyületek – ideértve a 2-feniletánamint is –, a 25I-NBOMe kivételével, amelyekben
+4. Azok a fenetilamin (2-feniletánamin) szerkezeti részt tartalmazó vegyületek – ideértve a 2-feniletánamint is –, amelyekben
 
 4.1. az aminocsoport egy vagy – tetszőleges kombinációban – több
 
 4.1.1. legfeljebb 4 szénatomos alkil-, alkenil-, cikloalkil-, halogénalkil-, hidroxialkil-, cianoalkil- vagy metoxialkil-csoportot,
 
-4.1.2. acetil-, hidroxi-, metoxi-, ciklopropilmetil-, benzil-, metoxibenzil- vagy furilmetil-csoportot tartalmazhat
+4.1.2. acetil-, hidroxi-, metoxi-, ciklopropilmetil-, benzil-, metoxibenzil-, dimetoxibenzil-, trimetoxibenzil-, vagy furilmetil-csoportot tartalmazhat.
 
 4.2. az aminocsoport azetidin, pirrolidin vagy piperidin gyűrű tagja lehet;
 
@@ -126,7 +130,7 @@ tartalmazhat.
 
 4.4.1. legfeljebb 5 szénatomos alkil-, (cikloalkil)alkil-, alkoxi-, (cikloalkil)alkoxi-, (alkoxi)alkil-, alkilszulfanil-, alkilamino-, halogénalkil-csoportot, illetve
 
-4.4.2. halogénatomot, benzil-, benziloxi-, amino-, ciano-, nitro-, trimetilén-, metiléndioxi-, etiléndioxi-, etilénoxi-, etendiiloxi-, etilénimino-, etendiilimino-csoportot
+4.4.2. halogénatomot, benzil-, benziloxi-, amino-, ciano-, nitro-, trimetilén- (propán-1,3 diil), metiléndioxi- (metilénbiszoxi-), etiléndioxi- (etilénbiszoxi-), etilénoxi-, etendiiloxi-, etilénimino- (etilénazandiil-), etendiilimino- (eten-1,2-diilazandiil-) csoportot tartalmazhat.
 
 tartalmazhat.
 
@@ -170,33 +174,33 @@ tartalmazhat.
 
 | 17. | 3,4-dichloromethylphenidate/ 3,4-CTMP | methyl-2-(3,4-dichlorophenyl)-2-[piperidin-2-yl]acetate |
 
-| 18. | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)- 1H- indazole-3-carboxamide |
+| 18. |  |  |
 
-| 19. | 5F-AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)- 1H- indazole-3-carboxamide |
+| 19. |  |  |
 
-| 20. | AB-PINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H- indazole-3-carboxamide |
+| 20. |  |  |
 
-| 21. | α-PVT | 2-(pyrrolidin-1-yl)-1-(thiophen-2-yl)pentan-1-one |
+| 21. |  |  |
 
 | 22. | A-836,339 | N-[3-(2-methoxyethyl)-4,5-dimethyl-1,3-thiazol-2-ylidene]- 2,2,3,3-tetramethylcyclopropane-carboxamide |
 
-| 23. | α-PEP, alfa-PHPP, PV8 | 1-phenyl-2-(pyrrolidin-1-yl)heptan-1-one |
+| 23. |  |  |
 
 | 24. |  | N-(2-methoxyethyl)-N-(1-methylethyl)-2-(1-pentyl-1H-indol-3- yl)-4-thiazol-methanamine |
 
 | 25. |  | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
 
-| 26. | 5F-AMP, 5F-AMB, 5-fluoro AMB, 5-fluoro AMP | Methyl 2-({[1-(5-fluoropentyl)-1H-indazol-3-yl] carbonyl}amino)-3-methylbutanoate |
+| 26. |  |  |
 
 | 27. | MXP, methoxyphenidine, 2- MeO-diphenidine | 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine |
 
 | 28. | 3F-phenmetrazine, meta-fluoro- phenmetrazine, meta-F-phenmetrazine | 2-(3-fluorophenyl)-3-methylmorpholine |
 
-| 29. | 4F-PEP | 1-(4-Fluorophenyl)-2-(pyrrolidin-1-yl)heptan-1-one |
+| 29. |  |  |
 
-| 30. | 5F-AMBICA; 5F-AB-144; 5F-ADBICA-144 | N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H- indol-3-carboxamide |
+| 30. |  |  |
 
-| 31. | ADB-CHMINACA | N-[1-(aminocarbonyl)-2,2-dimethylpropyl]-1- (cyclohexylmethyl)-1H-indazole-3-carboxamide |
+| 31. |  |  |
 
 | 32. | alpha-PBT; alfa-PBT; a-PBT; α-Pyrrolidinobutiothiophenone | 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one |
 
@@ -204,7 +208,7 @@ tartalmazhat.
 
 | 34. | Diphenidine, 1,2-diphenylethylpiperidine; DPD; 1,2-DEP; DIPH | 1-(1,2-Diphenylethyl)piperidine |
 
-| 35. | MDMB-CHMICA | N-[[1-(cyclohexylmethyl)-1H-indol-3-yl]carbonyl]-3-methyl- valine, methyl ester |
+| 35. |  |  |
 
 | 36. | MEOP; Methoxypiperamide; metoxipiperamid; MEXP; 1(4methoxybenzoyl)-4-methylpiperazine | (4-Methoxyphenyl)(4-methylpiperazin-1-yl)methanone |
 
@@ -214,20 +218,24 @@ tartalmazhat.
 
 | 39. | MT-45 | 1-cyclohexyl-4-(1,2-diphenylethyl)-piperazine |
 
-| 40. | 4F-PV9, 4-fluoro-α-pyrrolidinooctanophenone, 4F-α-POP | 1-(4-fluorophenyl)-2-(pyrrolidin-1-yl)octan-1-one |
+| 40. |  |  |
 
-| 41. | ADB-PINACA | N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H- indazole-3-carboxamide |
+| 41. |  |  |
 
-| 42. | 5-F-metil-AMB, 5-fluoro- MAMB 5F-MDMB-PINACA | methyl-[2-(1-(5-fluoropentyl)-1H-indazole-3- carboxamido)-3,3-dimethylbutanoate |
+| 42. |  |  |
 
-| 43. | N-(1-amino-1-oxo-3-fenilpropán-2-il)-1-(5-fluoropentil)- 1H-indol-3-karboxamid; PX1; SRF-30, 5F-APP-PICA | N- (1-amino-1-oxo-3-phenylpropan-2-yl)-1-(5- fluoropentyl)-1H-indole-3-carboxamide |
+| 43. |  |  |
 
-| 44. | MMB-2201; 5F-AMB-PICA; I-AMB | methyl (1-(5-fluoropentyl)-1H-indole-3-carbonyl)- valinate |
+| 44. |  |  |
 
 | 45. | EG-018 | (naphthalen-1-yl)(9-pentyl-9H-carbazol-3-yl)-methanone |
+
+| 46. | bk-2-C-B | 2-amino-1-(4-bromo-2,5-dimethoxyphenyl)ethanone |
+
+| 47. | 25I-NBF | 2-(4-iodo-2,5-dimethoxyphenyl)– N-[(2-fluorophenyl)methyl]ethanamine |
 
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
-[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a szerint módosított szöveg.
