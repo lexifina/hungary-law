@@ -1,3 +1,3 @@
-## 13.[^64]
+## 13.[^65]
 
-[^64]: A 13. alcímet (26. §) a 30/2014. (II. 11.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^65]: A 13. alcímet (26. §) a 30/2014. (II. 11.) Korm. rendelet 13. §-a hatályon kívül helyezte.
