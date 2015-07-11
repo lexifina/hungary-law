@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-37-20-0
 | 2015-01-01 | 2007-37-20-0L.7 | 57/2014. (XII. 30.) NFM rendelet |
 | 2015-02-01 | 2007-37-20-0L.8 | 3/2015. (I. 29.) NFM rendelet |
 | 2015-06-30 | 2007-37-20-0L.9 | 3/2015. (I. 29.) NFM rendelet |
+| 2015-07-11 | 2007-37-20-0L.10 | 25/2013. (V. 31.) NFM rendelet |
