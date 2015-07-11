@@ -44,6 +44,6 @@
 
 | (lakcíme, személyazonosító igazolvány száma) |  | (lakcíme, személyazonosító igazolvány száma) |
 
-5–6. melléklet a 21/2013. (VI. 7.) BM rendelethez[^2]
+5–6. melléklet a 21/2013. (VI. 7.) BM rendelethez[^3]
 
-[^2]: Az 5–6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5–6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
