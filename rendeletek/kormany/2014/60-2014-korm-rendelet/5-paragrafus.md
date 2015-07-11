@@ -1,6 +1,6 @@
 ## 5. [^2] Az európai uniós források felhasználásáért felelős miniszter feladatai
 
-5. § (1)[^3] Az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter)
+5. § (1)[^3] A miniszter
 
 a) összehangolja az uniós és a hazai támogatásokkal kapcsolatos monitoring tevékenységet,
 
@@ -19,6 +19,6 @@ f) szakmai szempontból előkészíti a 3. és 4. §-ban meghatározott szervek 
 (3)[^5] A miniszter a monitoring egység útján gondoskodik az alkalmazásgazda feladatainak ellátásáról.
 
 [^2]: Az 5. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 813. §-ával megállapított szöveg.
-[^3]: Az 5. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 814. § a) pontjával megállapított szöveg.
+[^3]: Az 5. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 814. § a) pontjával megállapított, a 183/2015. (VII. 10.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^4]: Az 5. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 814. § b) pontja szerint módosított szöveg.
 [^5]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 814. § c) pontja szerint módosított szöveg.

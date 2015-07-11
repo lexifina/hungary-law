@@ -10,366 +10,254 @@
 
 | 5. | Adószám |
 
-| 6. | Adóazonosító jel |
+| 6. | Adóazonosító jel (magánszemély esetén) |
 
-| 7. | ÁFA nyilatkozat |
+| 7. | Gazdálkodási forma |
 
-| 8. | Gazdálkodási forma |
+| 8. | Minősítési kód |
 
-| 9. | Minősítési kód |
+| 9. | A főtevékenység a Gazdasági tevékenységek egységes ágazati osztályozási rendszere, 2008 (a továbbiakban: TEÁOR ’08) szerinti kódja |
 
-| 10. | TEAOR ‚08 kód |
+| 10. | Projektcíme |
 
-| 11. | Projektcíme |
+| 11. | Projekt megvalósítási helye (a helység megnevezése) |
 
-| 12. | Projekt helye helység |
+| 12. | Projekt megvalósítási helye irányítószáma |
 
-| 13. | Pályázó székhely címe |
+| 13. | Projektkiválasztás | Támogatói döntés dátuma |
 
-| 14. | Pályázó telephely címe |
+| 14. | Igényelt támogatás |
 
-| 15. | Postacím |
+| 15. | Projekt elfogadott saját forrása |
 
-| 16. | Kapcsolattartó adatai |
+| 16. | Projekt egyéb forrása |
 
-| 17. | A Pályázó hivatalos képviselőjének adatai |
+| 17. | Megítélt állami támogatásban érintett összeg |
 
-| 18. | Projekt helye irányítószám |
+| 18. | Megítélt de minimis támogatás |
 
-| 19. | Projektkiválasztás | Támogatói döntés dátuma |
+| 19. | Beérkezés dátuma |
 
-| 20. | Igényelt támogatás |
+| 20. | Támogató végső döntése |
 
-| 21. | Projekt elfogadott saját forrása |
+| 21. | A projekt célcsoportja |
 
-| 22. | Projekt egyéb forrása |
+| 22. | Támogató által megítélt támogatás |
 
-| 23. | Megítélt állami támogatásban érintett összeg |
+| 23. | Támogató által támogatott összköltség |
 
-| 24. | Megítélt De minimis támogatás |
+| 24. | Szerződéskötés | A szerződéskötés dátuma |
 
-| 25. | Beérkezés dátuma |
+| 25. | Biztosíték nyújtására kötelezett |
 
-| 26. | Befogadási döntés |
+| 26. | Projekt tervezett kezdete – szerződés |
 
-| 27. | Támogató végső döntése |
+| 27. | Projekt tényleges kezdete szerződés alapján |
 
-| 28. | Korábbi, állami támogatásban érintett projektek |
+| 28. | Projekt tényleges dokumentált befejezés dátuma |
 
-| 29. | A projekt célcsoportja |
+| 29. | Szerződés hatályba lépése |
 
-| 30. | Támogató által megítélt támogatás |
+| 30. | Szerződésben meghatározott összeg |
 
-| 31. | Támogató által támogatott összköltség |
+| 31. | Szerződésben meghatározott összköltség |
 
-| 32. | Tartaléklistára kerülés dátuma |
+| 32. | Visszalépés dátuma |
 
-| 33. | Szerződéskötés | A szerződéskötés dátuma |
+| 33. | Szerződés zárásának dátuma |
 
-| 34. | Bankszámla |
+| 34. | Szerződés zárásának oka |
 
-| 35. | Biztosíték nyújtására kötelezett |
+| 35. | Szerződésmódosítások száma |
 
-| 36. | Támogatás ütemezése |
+| 36. | Nyomon követés | Indikátor megnevezése |
 
-| 37. | Szerződéskötés hosszabbítása |
+| 37. | Bázisérték |
 
-| 38. | Projekt tervezett fizikai kezdete – szerződés |
+| 38. | Összes változás tervértéke |
 
-| 39. | Projekt tervezett fizikai befejezése szerződés |
+| 39. | Bázis és összes változás összegének tervértéke |
 
-| 40. | Projekt tényleges fizikai kezdete szerződés alapján |
+| 40. | Összes változás tényértéke |
 
-| 41. | Projekt tényleges fizikai befejezése – szerződés |
+| 41. | Bázis és összes változás összegének tényértéke |
 
-| 42. | Projekt tényleges dokumentuált befejezés dátuma |
+| 42. | Kifizetett előleg |
 
-| 43. | Szerződés hatályba lépése |
+| 43. | Elszámolt előleg |
 
-| 44. | Leszerződött összeg |
+| 44. | Kifizetett utófinanszírozás |
 
-| 45. | Leszerződött összköltség |
+| 45. | Szerződés lezárása |
 
-| 46. | Projekt bruttó költsége |
+| 46. | Beérkezett számlák száma |
 
-| 47. | Projekt nettó költsége |
+| 47. | Kifizetett számlák száma |
 
-| 48. | Visszalépés dátuma |
+| 48. | Elszámolt utófinanszírozás |
 
-| 49. | Szerződés zárás dátuma |
+| 49. | Helyszíni ellenőrzés | Helyszíni szemle vagy helyszíni ellenőrzés eredménye |
 
-| 50. | Szerződés zárás oka |
+| 50. | Helyszíni ellenőrzés oka |
 
-| 51. | Szerződésmódosítások száma |
+| 51. | Kifogáskezelés | Kifogás oka |
 
-| 52. | Nyomon követés | Indikátor megnevezése |
+| 52. | Kifogással érintett összeg |
 
-| 53. | Bázisérték |
+| 53. | Kifogáshoz kapcsolódó döntés |
 
-| 54. | Összes változás tervérték |
+| 54. | Közbeszerzés | Közbeszerzés tárgya |
 
-| 55. | Bázis+összes változás tervérték |
+| 55. | Közbeszerzési eljárás típusa |
 
-| 56. | Összes változás tényérték |
+| 56. | Szerződéskötés dátuma (tényadat) |
 
-| 57. | Bázis+összes változás tényérték |
+| 57. | Szerződésben meghatározott ellenszolgáltatás nettó összege (magyar forintban) |
 
-| 58. | Finanszírozás | Kifizetett előleg |
+| 58. | Nyertes szállító neve |
 
-| 59. | Elszámolt előleg |
+| 59. | Nyertes szállító adószáma |
 
-| 60. | Kifizetett utófinanszírozás |
+3. melléklet a 60/2014. (III. 6.) Korm. rendelethez[^20]
 
-| 61. | Kifizetett visszatérítendő támogatás |
+|  | A | B | C | D |
 
-| 62. | Visszafizetett vissza nem térítendő támogatás |
+| 1. | Eljárásrendi szakasz | Alapok alapját végrehajtó szervezet adatai | Pénzügyi közvetítő adatai | Végső kedvezményezett adatai |
 
-| 63. | Visszafizetett visszatérítendő támogatás |
+| 2. | Alapadatok | Pénzügyi termék száma | Pénzügyi termék száma | Pénzügyi termék száma |
 
-| 64. | Szerződés lezárása |
+| 3. | Szerződés száma | Szerződés száma | Szerződés száma |
 
-| 65. | Beérkezett számlák száma |
+| 4. | Név | Név | Név |
 
-| 66. | Kifizetett számlák száma |
+| 5. | Adószám | Adószám | Adószám |
 
-| 67. | Kifizetések adatai |
+| 6. | Kapcsolattartó adatai | Kapcsolattartó adatai |  |
 
-| 68. | Helyszíni ellenőrzés | HSZ/HE eredménye |
+| 7. | Hivatalos képviselő | Hivatalos képviselő |  |
 
-| 69. | Helyszíni ellenőrzés oka |
+| 8. | Bankszámlaszám | Bankszámlaszám |  |
 
-| 70. | Kifogáskezelés | Kifogást elbíráló döntés |
+| 9. |  |  |  | Gazdálkodási forma |
 
-| 71. | Kifogás oka |
+| 10. |  |  |  | Minősítési kód |
 
-| 72. | Kifogásban érintett összeg |
+| 11. |  |  |  | A főtevékenység TEÁOR ’08 szerinti kódja |
 
-| 73. | Kifogáshoz kapcsolódó döntés |
+| 12. | Projektkiválasztás |  | Közvetítői kérelem beérkezésének dátuma |  |
 
-| 74. | Közbeszerzés | Közbeszerzés tárgya |
+| 13. | Kiválasztásról szóló döntés dátuma |  |
 
-| 75. | Közbeszerzési eljárás típusa |
+| 14. |  | Projekt címe |
 
-| 76. | Eljárás becsült nettó értéke (HUF) |
+| 15. |  | Projekt megvalósítási helye (a helység megnevezése) |
 
-| 77. | Eljárás azonosítója – TED |
+| 16. |  | Projekt megvalósítási helyének irányítószáma |
 
-| 78. | Eljárás azonosítója – Közbeszerzési értesítő |
+| 17. |  | Közvetítői döntés dátuma |
 
-| 79. | Közbeszerzéshez kapcsolódó beiktatott pályázatok |
+| 18. |  | Igényelt összeg típusa, nagysága |
 
-| 80. | Közbeszerzési eljárás megindításának dátuma (TÉNY) |
+| 19. |  | Projekt elfogadott saját forrása |
 
-| 81. | Bíráló bizottsági ülés lezárása (TERV) |
+| 20. |  | Projekt egyéb forrása |
 
-| 82. | Bíráló bizottsági ülés lezárása (TÉNY) |
+| 21. |  | Állami támogatásban érintett összeg |
 
-| 83. | Szerződéskötés dátuma (TERV) |
+| 22. |  | De minimis támogatás |
 
-| 84. | Szerződéskötés dátuma (TÉNY) |
+| 23. |  | Finanszírozási igény benyújtása |
 
-| 85. | A létrejött közbeszerzési szerződéseket a kapcsolódó Támogatási Szerződések alá besoroltam. |
+| 24. |  | Pénzügyi közvetítő |
 
-| 86. | Ajánlatkérő neve |
+| 25. |  | Megítélt összeg típusa, nagysága |
 
-| 87. | Ajánlatkérő adószáma |
+| 26. |  | Megítélt támogatástartalom |
 
-| 88. | Ajánlatkérő székhelycím / irányítószám |
+| 27. | Szerződéskötés | Finanszírozási megállapodás dátuma | Finanszírozási megállapodás dátuma |  |
 
-| 89. | Közbeszerzési kapcsolattartó adatai |
+| 28. |  |  | Szerződéskötés dátuma |
 
-| 90. | Szerződés (ellenszolgáltatás) nettó összege (HUF) |
+| 29. |  |  | Projekt tervezett kezdete |
 
-| 91. | Nyertes szállító neve |
+| 30. |  |  | Projekt tényleges kezdete |
 
-| 92. | Nyertes szállító adószáma |
+| 31. |  |  | Projekt tényleges dokumentált befejezése |
 
-| 93. | Eredmény jóváhagyásának dátuma |
+| 32. |  |  | Szerződés hatályba lépése |
 
-| 94. | Szerződés nettó (módosított) összege |
+| 33. |  |  | Szerződésben meghatározott összeg típusa, nagysága |
 
-| 95. | Szabálytalanság | Szabálytalanság típusa |
+| 34. |  |  | Szerződésben meghatározott összköltség |
 
-| 96. | Szabálytalansággal érintett összeg |
+| 35. |  | Visszalépés dátuma | Visszalépés dátuma |
 
-| 97. | Szabálytalansági döntés |
+| 36. |  | Szerződés zárásának dátuma | Szerződés zárásának dátuma |
 
-3. melléklet a 60/2014. (III. 6.) Korm. rendelethez[^15]
+| 37. |  | Szerződés zárásának oka | Szerződés zárásának oka |
 
-| Eljárásrendi szakasz | Alapok alapját végrehajtó szervezeti adatok | Pénzügyi közvetítői adatok | Végső kedvezményezetti adatok |
+| 38. | Szerződésmódosítások száma | Szerződésmódosítások száma | Szerződésmódosítások száma |
 
-| Alapadatok | Pénzügyi termék száma | Pénzügyi termék száma | Pénzügyi termék száma |
+| 39. | Nyomon követés |  |  | Indikátor megnevezése |
 
-|  | Szerződés száma | Szerződés száma | Szerződés száma |
+| 40. | Bázisérték |
 
-|  | Név | Név | Név |
+| 41. | Összes változás tervértéke |
 
-|  | Adószám | Adószám | Adószám |
+| 42. | Bázis és összes változás összegének tervértéke |
 
-|  |  |  | ÁFA nyilatkozat |
+| 43. | Összes változás tényértéke |
 
-|  | Kapcsolattartó adatai | Kapcsolattartó adatai | Gazdálkodási forma |
+| 44. | Bázis és összes változás összegének tényértéke |
 
-|  | Hivatalos képviselő | Hivatalos képviselő | Minősítési kód |
+| 45. | Garancia esetén a garantált hitelösszeg |
 
-|  | Bankszámlaszám | Bankszámlaszám | TEAOR, 08 kód |
+| 46. | Tőkebefektetés esetén a tőke értéke |
 
-| Projektkiválasztás |  | Közvetítői kérelem beérkezésének dátuma | Projekt címe |
+| 47. | Finanszírozás | Pénzügyi termék kerete |  |  |
 
-|  |  | Kiválasztásról szóló döntés dátuma | Projekt helye |
+| 48 | Alapok alapját végrehajtó szervezethez kifizetett összeg lehívási értesítőnként bizonylat azonosítóval, dátummal (forrás szerinti bontásban: uniós, hazai) |  |  |
 
-|  |  |  | Végső kedvezményezett székhelye |
+| 49. | Menedzsment költsége és díja | Menedzsment költsége és díja |  |
 
-|  |  |  | Végső kedvezményezett telephelye |
+| 50. | Visszafizetett pénzügyi eszközből |  |  |
 
-|  |  |  | Postacím |
+| 51. | Kamat és egyéb bevétel |  |  |
 
-|  |  |  | Kapcsolattartó adatai |
+| 52. |  | Pénzügyi közvetítőkhöz kihelyezett összeg |  |
 
-|  |  |  | Végső kedvezményezett hivatalos képviselő |
+| 53. |  |  | Kifizetett összeg típusa, nagysága, dátuma, számviteli bizonylat azonosítója (forrás szerinti bontásban: uniós, pénzügyi közvetítő, végső kedvezményezett) |
 
-|  |  |  | Projekt helyének irányítószáma |
+| 54. | Helyszíni ellenőrzés | Helyszíni szemle vagy helyszíni ellenőrzés eredménye | Helyszíni szemle vagy helyszíni ellenőrzés eredménye | Helyszíni szemle vagy helyszíni ellenőrzés eredménye |
 
-|  |  |  | Közvetítői döntés dátuma |
+| 55. | Helyszíni ellenőrzés oka | Helyszíni ellenőrzés oka | Helyszíni ellenőrzés oka |
 
-|  |  |  | Igényelt összeg típusa, nagysága |
+| 56. | Kifogáskezelés |  | Kifogás oka |  |
 
-|  |  |  | Projekt elfogadott saját forrás |
+| 57. | Kifogásban érintett összeg |  |
 
-|  |  |  | Projekt egyéb forrás |
+| 58. | Kifogáshoz kapcsolódó döntés |  |
 
-|  |  |  | Állami támogatásban érintett összeg |
+| 59. | Közbeszerzés | Közbeszerzés tárgya | Közbeszerzés tárgya |  |
 
-|  |  |  | De minimis támogatás |
+| 60. | Közbeszerzési eljárás típusa | Közbeszerzési eljárás típusa |  |
 
-|  |  |  | Finanszírozási igény benyújtása |
+| 61. | Szerződéskötés dátuma | Szerződéskötés dátuma |  |
 
-|  |  |  | Pénzügyi közvetítő |
+| 62. | Szerződés összege | Szerződés összege |  |
 
-|  |  |  | Korábbi, állami támogatásban érintett projektek |
+| 63. | Nyertes szállító neve | Nyertes szállító neve |  |
 
-|  |  |  | Megítélt összeg típusa, nagysága |
+| 64. | Nyertes szállító adószáma | Nyertes szállító adószáma |  |
 
-|  |  |  | Megítélt támogatástartalom |
+| 65. | Szabálytalanság | Szabálytalansági gyanú észlelésének dátuma | Szabálytalansági gyanú észlelésének dátuma | Szabálytalansági gyanú észlelésének dátuma |
 
-| Szerződéskötés | Finanszírozási megállapodás dátuma | Finanszírozási megállapodás dátuma | Szerződéskötés dátum |
+| 66. | Szabálytalansági gyanú | Szabálytalansági gyanú | Szabálytalansági gyanú |
 
-|  |  |  | Bankszámla |
+| 67. | Szabálytalansággal érintett összeg | Szabálytalansággal érintett összeg | Szabálytalansággal érintett összeg |
 
-|  |  |  | Kifizetés ütemezése |
+| 68. | Szabálytalansági döntés dátuma | Szabálytalansági döntés dátuma | Szabálytalansági döntés dátuma |
 
-|  |  |  | Projekt tervezett fizikai kezdete |
+| 69. | Szabálytalansági döntés | Szabálytalansági döntés | Szabálytalansági döntés |
 
-|  |  |  | Projekt tervezett fizikai befejezése |
-
-|  |  |  | Projekt tényleges fizikai kezdete |
-
-|  |  |  | Projekt tényleges fizikai befejezése |
-
-|  |  |  | Projekt tényleges dokumentált befejezése |
-
-|  |  |  | Szerződés hatályba lépése |
-
-|  |  |  | Leszerződött összeg típusa, nagysága |
-
-|  |  |  | Leszerződött összköltség |
-
-|  |  |  | Projekt bruttó költsége |
-
-|  |  |  | Projekt nettó költsége |
-
-|  |  | Visszalépés dátum | Visszalépés dátum |
-
-|  |  | Szerződés zárás dátum | Szerződés zárás dátum |
-
-|  |  | Szerződés zárás oka | Szerződés zárás oka |
-
-|  | Szerződésmódosítások száma | Szerződésmódosítások száma | Szerződésmódosítások száma |
-
-| Nyomon követés |  |  | Indikátor megnevezés |
-
-|  |  |  | Bázisérték |
-
-|  |  |  | Összes változás tervérték |
-
-|  |  |  | Bázis + összes változás tervérték |
-
-|  |  |  | Összes változás tényérték |
-
-|  |  |  | Bázis + összes változás tényérték |
-
-|  |  |  | Garanciánál garantált hitelösszeg |
-
-|  |  |  | Tőkebefektetésnél tőke értéke |
-
-| Finanszírozás | Pénzügyi termék kerete |  |  |
-
-|  | Alapok alapját végrehajtó szervezethez kifizetett lehívási értesítőnként bizonylat azonosítóval, dátuma (forrás szerinti bontásban: uniós, hazai) |  |  |
-
-|  |  | Pénzügyi közvetítőkhöz kihelyezett |  |
-
-|  | Menedzsment költség és díj | Menedzsment költség és díj |  |
-
-|  | Visszafizetett pénzügyi eszközből |  |  |
-
-|  | Kamat és egyéb bevétel |  |  |
-
-|  |  |  | Kifizetett összeg típusa, nagysága, dátuma, számviteli bizonylat azonosító (forrás szerinti bontásban: uniós, PK, VK) |
-
-| Helyszíni ellenőrzés | Helyszíni szemle/Helyszíni ellenőrzés eredménye | Helyszíni szemle/Helyszíni Ellenőrzés eredménye | Helyszíni szemle/Helyszíni ellenőrzés eredménye |
-
-|  | Helyszíni ellenőrzés oka | Helyszíni ellenőrzés oka | Helyszíni ellenőrzés oka |
-
-| Kifogáskezelés |  | Kifogás oka |  |
-
-|  |  | Kifogásban érintett összeg |  |
-
-|  |  | Kifogáshoz kapcsolódó döntés |  |
-
-| Közbeszerzés | Közbeszerzés tárgya | Közbeszerzés tárgya |  |
-
-|  | Közbeszerzési eljárás típusa | Közbeszerzési eljárás típusa |  |
-
-|  | Eljárás becsült értéke | Eljárás becsült értéke |  |
-
-|  | Eljárás azonosítója – TED | Eljárás azonosítója – TED |  |
-
-|  | Eljárás azonosítója – Közbeszerzési értesítő | Eljárás azonosítója – Közbeszerzési értesítő |  |
-
-|  | Közbeszerzéshez kapcsolódó beiktatott pályázatok | Közbeszerzéshez kapcsolódó beiktatott pályázatok |  |
-
-|  | Közbeszerzési eljárás megindításának dátuma | Közbeszerzési eljárás megindításának dátuma |  |
-
-|  | Bíráló bizottsági ülés lezárása | Bíráló bizottsági ülés lezárása |  |
-
-|  | Szerződéskötés dátuma | Szerződéskötés dátuma |  |
-
-|  | Ajánlatkérő neve | Ajánlatkérő neve |  |
-
-|  | Ajánlatkérő adószáma | Ajánlatkérő adószáma |  |
-
-|  | Ajánlatkérő székhely | Ajánlatkérő székhely |  |
-
-|  | Közbeszerzési kapcsolattartó | Közbeszerzési kapcsolattartó |  |
-
-|  | Szerződés összege | Szerződés összege |  |
-
-|  | Nyertes szállító | Nyertes szállító |  |
-
-|  | Adószáma | Adószáma |  |
-
-|  | Eredmény jóváhagyása dátum | Eredmény jóváhagyása dátum |  |
-
-|  | Szerződés (módosított) összege | Szerződés (módosított) összege |  |
-
-| Szabálytalanság | Szabálytalansági gyanú észlelésének dátuma | Szabálytalansági gyanú észlelésének dátuma | Szabálytalansági gyanú észlelésének dátuma |
-
-|  | Szabálytalansági gyanú | Szabálytalansági gyanú | Szabálytalansági gyanú |
-
-|  | Szabálytalansággal érintett összeg | Szabálytalansággal érintett összeg | Szabálytalansággal érintett összeg |
-
-|  | Szabálytalansági döntés dátuma | Szabálytalansági döntés dátuma | Szabálytalansági döntés dátuma |
-
-|  | Szabálytalansági döntés | Szabálytalansági döntés | Szabálytalansági döntés |
-
-[^15]: A 3. mellékletet a 144/2015. (VI. 12.) Korm. rendelet 2. §-a iktatta be.
+[^20]: A 3. mellékletet a 144/2015. (VI. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 183/2015. (VII. 10.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
