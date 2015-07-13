@@ -10,11 +10,17 @@
 
 (3) A közfoglalkoztatási jogviszonyban a rendes munkaidő időtartama a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződésben előírt munkaidő lehet.
 
-(3a) A közfoglalkoztató köteles a közfoglalkoztatott részére fizetés nélküli szabadságot engedélyezni, ha a közfoglalkoztatott a közfoglalkoztatási jogviszony időtartama alatt, az 1. § (3) bekezdése hatálya alá nem tartozó munkáltatónál, legalább 3 nap, legfeljebb 90 nap időtartamú határozott idejű munkaviszonyt létesít. A fizetés nélküli szabadság engedélyezésének feltétele, hogy a közfoglalkoztatott a határozott idejű munkaviszonyról szóló munkaszerződést a közfoglalkoztatónak a fizetés nélküli szabadság megkezdése előtt legalább 5 munkanappal bemutatja. Ez a rendelkezés nem alkalmazható, ha a közfoglalkoztató a közfoglalkoztatott számára közfoglalkoztatási jogviszony keretében a munkavégzéshez kapcsolódóan a képzés lehetőségét is biztosítja.
+(3a) A közfoglalkoztató köteles a közfoglalkoztatott részére fizetés nélküli szabadságot engedélyezni, ha a közfoglalkoztatott a közfoglalkoztatási jogviszony időtartama alatt az 1. § (3) bekezdésének hatálya alá nem tartozó munkáltatónál legalább 3 nap, legfeljebb 120 nap időtartamú határozott idejű munkaviszonyt kíván létesíteni. A fizetés nélküli szabadság engedélyezésének feltétele, hogy a közfoglalkoztatott a határozott idejű munkaviszonyról szóló írásbeli nyilatkozatát a közfoglalkoztatónak a fizetés nélküli szabadság megkezdése előtt legalább 2 munkanappal benyújtsa. Ez a rendelkezés nem alkalmazható a közfoglalkoztató által a közfoglalkoztatott számára közfoglalkoztatási jogviszony keretében a munkavégzéshez kapcsolódóan biztosított képzés vagy munkaerő-piaci szolgáltatás ideje alatt. A fizetés nélküli szabadsággal kapcsolatos eltérő nyilatkozatok esetén a járási foglalkoztatási szerv ellenőrzi, hogy a fizetés nélküli szabadság ideje alatt tervezett határozott idejű munkaviszony létrejött-e.
 
 (3b) A közfoglalkoztatott számára várandóssága idejére egészségi állapotának megfelelő munkakört kell felajánlani, ha a munkaköri alkalmasságára vonatkozó orvosi vélemény alapján a munkakörében nem foglalkoztatható.
 
 (3c) A közfoglalkoztatott mentesül a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól az Flt. szerinti munkaviszony – ide nem értve a közfoglalkoztatási jogviszonyt – létesítése céljából történő állásinterjún való részvételhez szükséges időtartamra. A közfoglalkoztatottat az igazolt távollét tartamára az állásidő szabályai szerint illeti meg díjazás.
+
+(3d) Az egyszerűsített foglalkoztatásról szóló törvény szerint foglalkoztatni kívánó munkáltató a munkaerő-igényét május 1-je és október 31-e között annak a településnek a polgármesterénél is bejelentheti, ahol a tervezett foglalkoztatás helye található.
+
+(3e) A polgármester a bejelentést követően haladéktalanul értesíti a járási foglalkoztatási szervet az egyszerűsített foglalkoztatási munkaerőigényről.
+
+(3f) Az egyszerűsített foglalkoztatásról szóló törvény szerint foglalkoztatni kívánó munkáltató minden év október 31-éig bejelentheti a tervezett foglalkoztatás helye szerint illetékes megyei foglalkoztatási szerv részére a következő év május 1-je és október 31-e között általa tervezett egyszerűsített foglalkoztatás helyét, a foglalkoztatni kívánt létszámot munkakörönként és a foglalkoztatás tervezett ütemezését. A megyei foglalkoztatási szerv minden év november 30-áig továbbítja a közfoglalkoztatásért felelős miniszter részére az összesített egyszerűsített foglalkoztatási igényeket.
 
 (4) A közfoglalkoztatottat megillető munkabér összege megegyezik a teljesítményhez kötött tevékenységek kivételével a közfoglalkoztatási bérrel, a legalább középfokú iskolai végzettséget, szakképesítést igénylő munkakör betöltése esetén a közfoglalkoztatási garantált bérrel, azzal, hogy
 
@@ -62,7 +68,7 @@ ah) csoportos létszámcsökkentésre,
 
 ai) végkielégítésre,
 
-aj) szabadság kiadására,
+aj)
 
 ak) távolléti díj számítására,
 
@@ -128,6 +134,20 @@ u) az Mt. 215. §-a nem alkalmazható,
 
 v) az Mt. 216. § (4) bekezdése nem alkalmazható, továbbá
 
-x) az Mt. 220. §-a nem alkalmazható.
+x) az Mt. 220. §-a nem alkalmazható,
+
+y) az Mt. 122. § (3) bekezdése, 123. § (2), (5)–(7) bekezdése és 124. § (2)–(5) bekezdése nem alkalmazható.
 
 (6) Közfoglalkoztatási jogviszony esetén az Mt. 53. §-a csak baleset, elemi csapás, súlyos kár, az egészséget vagy a környezetet fenyegető közvetlen és súlyos veszély megelőzése, elhárítása érdekében alkalmazható.
+
+(7) A szabadság kiadására az Mt.
+
+a) 122. § (2) bekezdése azzal az eltéréssel alkalmazható, hogy a szabadság időarányosan, a jogviszony első 3 hónapjában is kiadható,
+
+b) 122. § (4) bekezdése megfelelően alkalmazandó azzal az eltéréssel, hogy a szabadság kezdetét megelőző 15 napon belül közölt szabadság a közfoglalkoztatott hozzájárulásával adható ki,
+
+c) 123. § (3) bekezdése megfelelően alkalmazandó azzal az eltéréssel, hogy a naptári éven áthúzódó jogviszonyok esetében a közfoglalkoztatott oldalán felmerült ok miatt az esedékesség évében ki nem adott szabadságot, az ok megszűnését követően haladéktalanul ki kell adni.
+
+(8) A szabadságot munkanapban kell nyilvántartani.
+
+(9) Munkaidő-beosztás hiányában a szabadságot az általános munkarend és a napi munkaidő figyelembevételével kell kiadni.
