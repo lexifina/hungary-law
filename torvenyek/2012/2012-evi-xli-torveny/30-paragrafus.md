@@ -1,6 +1,6 @@
 ## 21. A közszolgáltatások finanszírozása, a személyszállítási közszolgáltatás bevételekkel nem fedezett indokolt költségeinek ellentételezése
 
-30. § (1) A közlekedési szolgáltató a közszolgáltatási tevékenységgel összefüggő, bevételekkel nem fedezett, a közszolgáltatási kötelezettség miatt felmerült indokolt költségeinek, valamint a szokásos mértékű, ésszerű nyereség megtérítésére jogosult (a továbbiakban: ellentételezés).
+30. § (1) A közlekedési szolgáltató – a 29. § (1a) bekezdésében meghatározott közszolgáltatási szerződés hatálya alá tartozó szolgáltatások kivételével – ellentételezésre jogosult.
 
 (2) Az ellátásért felelős a közszolgáltatások kötelezettség nyújtásával összefüggő ellentételezése során a közszolgáltatások ellátásának gazdasági ellenőrizhetősége érdekében – az érintett közlekedési szolgáltató működőképességének fenntartására vonatkozó megalapozott érdekek figyelembevételével – olyan finanszírozási rendszert köteles kialakítani, amely biztosítja a szolgáltatás nyújtásához igénybe vett közlekedési infrastruktúra költségei, a közlekedési szolgáltató bevétellel nem fedezett indokolt költségei, továbbá a személyszállítási közszolgáltatások keretében megvalósuló utazások során az állam által, jogszabályban biztosított utazási kedvezmények ellentételezéséhez nyújtott támogatások egyértelmű elkülönülését.
 

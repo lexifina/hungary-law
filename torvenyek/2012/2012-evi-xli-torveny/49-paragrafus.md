@@ -42,11 +42,15 @@ c) az országos, regionális és elővárosi személyszállítási közszolgált
 
 d) a vasúti pályahálózathoz való nyílt hozzáférésnek a 47. § (1) bekezdés szerinti korlátozására vonatkozó részletes szabályokat,
 
-e) a 48. §-ban meghatározott, a vasúti személyszállítási közszolgáltatási szerződésben meghatározott kötelezettségek pénzügyi ellentételezése fedezetének biztosítása érdekében a vasúti személyszállítási szolgáltatást nyújtó vasúti társaságokat terhelő pénzügyi ellentételezés megállapításának mérlegelési szempontjait az államháztartásért felelős miniszterrel egyetértésben
+e) a 48. §-ban meghatározott, a vasúti személyszállítási közszolgáltatási szerződésben meghatározott kötelezettségek pénzügyi ellentételezése fedezetének biztosítása érdekében a vasúti személyszállítási szolgáltatást nyújtó vasúti társaságokat terhelő pénzügyi ellentételezés megállapításának mérlegelési szempontjait az államháztartásért felelős miniszterrel egyetértésben,
+
+f) a 19. § (1a) bekezdése szerinti közlekedésszakmai feltételek és hozzáférési feltételek részletes szabályait,
+
+g) a 45. § szerinti, az új nemzetközi vasúti személyszállítási szolgáltatások eljárásainak díjait
 
 rendeletben állapítsa meg.
 
-(3) Felhatalmazást kap a helyi személyszállítási közszolgáltatást működtető helyi önkormányzat képviselő-testülete, társulás esetében a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzat képviselő testülete, a főváros esetében a Fővárosi Önkormányzat közgyűlése
+(3) Felhatalmazást kap a helyi személyszállítási közszolgáltatást működtető települési önkormányzat képviselő-testülete, társulás esetében a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti települési önkormányzat képviselő testülete, a főváros esetében a Fővárosi Önkormányzat közgyűlése
 
 a) a közlekedésszervező kijelölésére, valamint a közlekedésszervező által a helyi személyszállítást végző közlekedési szolgáltató számára adható rendelkezései kereteire,
 

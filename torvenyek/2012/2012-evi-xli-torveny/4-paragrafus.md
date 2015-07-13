@@ -28,7 +28,7 @@ b) a gazdaság és a társadalom személyszállítási közszolgáltatások irá
 
 c) az 1370/2007/EK rendelet szerinti illetékes hatóságként az országos, regionális és elővárosi személyszállítási közszolgáltatások megszervezésével kapcsolatos intézményi és szabályozási keretek kialakítása, a személyszállítási közszolgáltatások megszervezése, a közlekedési szolgáltató kiválasztása,
 
-d) az országos, regionális és elővárosi személyszállítási közszolgáltatások – személyszállítási közszolgáltatási szerződések megkötésével történő – megrendelése, valamint a szolgáltatások teljesítésének ellenőrzése,
+d) az államháztartásért felelős miniszterrel egyetértésben az országos, regionális és elővárosi személyszállítási közszolgáltatások – személyszállítási közszolgáltatási szerződések megkötésével történő – megrendelése, valamint a szolgáltatások teljesítésének ellenőrzése,
 
 e) a személyszállítási közszolgáltatás és a belföldi menetrend szerinti személyszállítási szolgáltatás szervezésére vonatkozó egységes, országosan és regionálisan összehangolt, valamint az államháztartás teherbíró képességét is figyelembe vevő közszolgáltatási menetrendi koncepció kidolgozása,
 

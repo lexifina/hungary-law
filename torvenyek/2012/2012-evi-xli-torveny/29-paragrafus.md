@@ -8,6 +8,10 @@ b) a közszolgáltatás gazdaságos ellátása más módon nem biztosítható, �
 
 c) a szolgáltatónak kiegyenlíti a közszolgáltatási kötelezettségből eredő bevételekkel nem fedezett indokolt költségeit.
 
+(1a) Amennyiben két vagy több település közötti utazási igény kielégítése személyszállítási közszolgáltatásokkal a 26–28. §-ban meghatározott előírásoknak megfelelően biztosított, további személyszállítási közszolgáltatás vonalakra vagy vonalak meghatározott csoportjára olyan módon is biztosítható, amely során a közszolgáltatási szerződés a szolgáltató számára a szolgáltatás ellátására vonatkozó kizárólagos jogon kívül ellentételezés lehetőségét korlátozza vagy kizárja.
+
+(1b) Az (1a) bekezdésben megjelölt további személyszállítási közszolgáltatás abban az esetben kezdhető meg vagy tartható fenn, amennyiben az gazdasági szempontból megalapozott, erre vonatkozó utasigény fennáll, a szolgáltató azt a saját üzleti kockázatára vállalja, és az a közforrások hatékonyabb felhasználását szolgálja.
+
 (2) A közszolgáltatási kötelezettségre vonatkozó döntést megelőzően az ellátásért felelős köteles megvizsgálni a közszolgáltatási feladat más közlekedési eszközzel, más szolgáltatóval vagy más üzemeltetési feltételekkel történő ellátásának lehetőségét, és az összességében legkedvezőbb megoldást választani. A döntést az ellátásért felelős egy éven belül meghozza. A döntésig, de legfeljebb egy évig a szolgáltatónak a közszolgáltatást változatlan feltételekkel biztosítania kell.
 
 (3) Amennyiben a (2) bekezdés alapján az ellátásért felelős más szolgáltatót bíz meg, a szolgáltató adott feladattal összefüggő kizárólagos jogát közszolgáltatási szerződésének módosításával meg kell szüntetni.
