@@ -1,0 +1,7 @@
+14. § (1) Az At. 45. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A magyar állampolgár anyakönyvi kivonatán – a (2) bekezdésben foglalt kivétellel – két utónevet lehet feltüntetni. Annak a magyar állampolgárnak, akinek a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, a születési anyakönyvi kivonat kiállítása iránti kérelemben írásban nyilatkoznia kell, hogy melyik két utónevét kívánja viselni. A nyilatkozattal az anyakönyvi bejegyzésben szereplő utónevek sorrendje nem módosítható. A nyilatkozat alapján a születési anyakönyvben a viselni nem kívánt utónév vonatkozásában az adatváltozást át kell vezetni. Ha az érintett személy a nyilatkozatot nem teszi meg, az anyakönyvi kivonaton az anyakönyvben szereplő utónevei közül az első kettőt kell feltüntetni.”
+
+(2) Az At. 45. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Elhalt magyar állampolgár esetén, ha a születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, az elhalt személy 1953. január 1-je után kötött házassága anyakönyvi bejegyzését, ennek hiányában a személyazonosság igazolására alkalmas hatósági igazolványban szereplő utóneveket kell a viselt utónevek tekintetében alapul venni. Amennyiben az elhalt személy személyazonosság igazolására alkalmas hatósági igazolványa kizárólag egy utónevet tartalmaz, a haláleset anyakönyvezésekor az elhalt személy születési anyakönyvi bejegyzésben szereplő első két utónevet kell anyakönyvezni.”
