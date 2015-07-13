@@ -2,9 +2,7 @@
 
 „(1) A személyszállítási közszolgáltatások díjai, a pótdíjak és a díjalkalmazási feltételek, továbbá ezek megsértése esetén érvényesíthető jogkövetkezmények közszolgáltatási szerződésben, a közszolgáltatási utazási kedvezményekről szóló jogszabályban meghatározott személyszállítási közszolgáltatási utazási kedvezmények alapján képzett kedvezményes díjak kedvezménycsoportonként történő elkülönítése mellett kerülnek meghatározásra.”
 
-(2) Az Sztv. 31. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Amennyiben a szolgáltatás tekintetében elektronikus kártya kerül bevezetésre, jogszabály a közszolgáltatási utazási kedvezmények igénybevételét közlekedési kártya használatához kötheti.”
+(2)
 
 (3) Az Sztv. 31. §-a a következő (7) bekezdéssel egészül ki:
 
