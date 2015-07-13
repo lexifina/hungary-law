@@ -38,7 +38,7 @@ időtartamával.
 
 (9a) Ha az álláskeresési járadékban részesülő személy az álláskeresési járadék folyósítási idejének kimerítését megelőzően nem a lakó- vagy tartózkodási helyén létesít a (8) bekezdésben meghatározott feltételeknek megfelelő munkaviszonyt, a (9) bekezdésben meghatározott mértékű juttatást a részére – kérelmére – egy összegben a kereső tevékenységre vonatkozó bejelentési kötelezettség teljesítését követő legközelebbi számfejtés alkalmával kell kifizetni.
 
-(10) A (9) bekezdésben foglaltak nem alkalmazhatók, ha az álláskereső az álláskeresési járadék folyósítása alatt ugyanazzal a munkaadóval létesít munkaviszonyt, amellyel az álláskeresési járadék megállapítását megelőzően utoljára munkaviszonyban állt.
+(10) A (8) bekezdésben foglaltak nem alkalmazhatók, ha az álláskereső az álláskeresési járadék folyósítása alatt ugyanazzal a munkaadóval létesít munkaviszonyt, amellyel az álláskeresési járadék megállapítását megelőzően utoljára munkaviszonyban állt.
 
 (11) Ha az álláskereső részére az állami foglalkoztatási szerv (illetőleg annak kirendeltsége) a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
 

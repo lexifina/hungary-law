@@ -6,7 +6,7 @@ b) előzetes letartóztatásban van, szabadságvesztés, elzárás büntetését
 
 c) a 25. § (5) bekezdésében meghatározott közfoglalkoztatás alatt, a közfoglalkoztatási jogviszony kezdő napjától,
 
-d) rövid időtartamú, legfeljebb kilencven napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével, feltéve, hogy bejelentési kötelezettségének eleget tett – a kereső tevékenységet megalapozó jogviszony kezdő napjától,
+d) rövid időtartamú, legfeljebb 120 napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével, feltéve, hogy bejelentési kötelezettségének eleget tett – a kereső tevékenységet megalapozó jogviszony kezdő napjától,
 
 e) a 14. § (6) bekezdésében meghatározott keresetpótló juttatásban részesül, a keresetpótló juttatás kezdőnapjától, vagy olyan képzésben vesz részt, amelynek keretében felzárkózást elősegítő megélhetési támogatásban részesül, a felzárkózást elősegítő megélhetési támogatás folyósítása alatt,
 
