@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Egyesült Nemzetek Gyermekalapja között az Egyesült Nemzetek Gyermekalapja Globális Szolgáltató Központjának létrehozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
