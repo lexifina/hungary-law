@@ -1,4 +1,4 @@
-6/B. §[^23] (1) A HVI címbirtokos szervezet HVI feladatokat ellátó munkavállalója részére költségtérítés állapítható meg. A költségtérítés havi összegéből elszámolható kiadás mértéke nem haladhatja meg a munkavállaló részére megállapított havi bruttó munkabér összegének 1/3 részét, de legfeljebb bruttó 100 000 Ft-ot.
+6/B. §[^24] (1) A HVI címbirtokos szervezet HVI feladatokat ellátó munkavállalója részére költségtérítés állapítható meg. A költségtérítés havi összegéből elszámolható kiadás mértéke nem haladhatja meg a munkavállaló részére megállapított havi bruttó munkabér összegének 1/3 részét, de legfeljebb bruttó 100 000 Ft-ot.
 
 (2) A helyi és távolsági távbeszélő-szolgáltatás, a mobiltelefon-szolgáltatás, továbbá az Internet-protokoll alkalmazó beszédcélú adatátvitel szolgáltatás a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 69. § (12) bekezdés rendelkezései alapján számolható el.
 
@@ -32,4 +32,4 @@ cg) iskolarendszerű képzés támogatása.
 
 (7) Kifizetési kérelemmel nem számolható el a 6. § (1) bekezdésben meghatározott összeget meghaladó vagy nem a feladat végrehajtása érdekében felmerült kiadás.
 
-[^23]: A 6/B. §-t a 70/2010. (V. 13.) FVM rendelet 7. §-a iktatta be.
+[^24]: A 6/B. §-t a 70/2010. (V. 13.) FVM rendelet 7. §-a iktatta be.

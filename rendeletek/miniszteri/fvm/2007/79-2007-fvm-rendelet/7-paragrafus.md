@@ -1,6 +1,6 @@
-## A HVI cím visszavonása, jogkövetkezmény[^24]
+## A HVI cím visszavonása, jogkövetkezmény[^25]
 
-7. §[^25] (1) A HVI cím visszavonására, valamint új szervezet vagy egyéni vállalkozó részére HVI cím odaítélésére az IH jogosult.
+7. §[^26] (1) A HVI cím visszavonására, valamint új szervezet vagy egyéni vállalkozó részére HVI cím odaítélésére az IH jogosult.
 
 (2) A HVI cím visszavonására az alábbi esetekben kerülhet sor:
 
@@ -20,5 +20,5 @@ e) a HVI címbirtokos szervezet kérelmére.
 
 (5) Az MVH köteles a HVI cím visszavonását, valamint a HVI cím odaítélését a támogatási és kifizetési kérelmek elbírálásakor figyelembe venni.
 
-[^24]: A 7. §-t megelőző alcím a 70/2010. (V. 13.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^25]: A 7. § a 70/2010. (V. 13.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^25]: A 7. §-t megelőző alcím a 70/2010. (V. 13.) FVM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^26]: A 7. § a 70/2010. (V. 13.) FVM rendelet 8. § (2) bekezdésével megállapított szöveg.

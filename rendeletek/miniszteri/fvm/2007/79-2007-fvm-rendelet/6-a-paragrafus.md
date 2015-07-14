@@ -1,4 +1,4 @@
-6/A. §[^22] (1) A termékek tevékenység szerinti, új statisztikai osztályozásáról (CPA, magyarul: TESZOR) és a 3696/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. április 23-i 451/2008/EK európai parlamenti és tanácsi rendelet szerinti 6910, 6920, 7320, 7022, 7111, 7810, 8291 8532 TESZOR számú tevékenységek vonatkozásában az adott elszámolási időszakban igényelhető együttes összeg nem haladhatja meg a bruttó 500 000 Ft-ot.
+6/A. §[^23] (1) A termékek tevékenység szerinti, új statisztikai osztályozásáról (CPA, magyarul: TESZOR) és a 3696/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. április 23-i 451/2008/EK európai parlamenti és tanácsi rendelet szerinti 6910, 6920, 7320, 7022, 7111, 7810, 8291 8532 TESZOR számú tevékenységek vonatkozásában az adott elszámolási időszakban igényelhető együttes összeg nem haladhatja meg a bruttó 500 000 Ft-ot.
 
 (2) A HVI címbirtokos szervezet tulajdonosa, a HVI címbirtokos szervezet vezető testületének tagja, egyesület esetében az egyesület elnökségének, felügyelő bizottságának tagja, nonprofit gazdasági társaság esetében a felügyelő bizottság tagja (a továbbiakban együtt: vezető feladatokat ellátó tisztségviselő), munkavállalója és ezek közeli hozzátartozói, valamint HVI címbirtokos szervezet tulajdonosa, vezető feladatokat ellátó tisztségviselője, munkavállalója és ezek közeli hozzátartozói tulajdonában álló szervezet szolgáltatást a HVI működése érdekében e rendelet keretében igényelhető támogatás terhére nem nyújthat.
 
@@ -12,4 +12,4 @@
 
 (7) A HVI címbirtokos szervezet vezető feladatokat ellátó tisztségviselői részére tiszteletdíj állapítható meg. A tiszteletdíj bruttó összegéből elszámolható kiadás legfeljebb havonta bruttó 50 000 Ft, ha a vezető feladatokat ellátó tisztségviselő nem lát el HVI irodavezetői feladatokat.
 
-[^22]: A 6/A. §-t a 70/2010. (V. 13.) FVM rendelet 7. §-a iktatta be.
+[^23]: A 6/A. §-t a 70/2010. (V. 13.) FVM rendelet 7. §-a iktatta be.

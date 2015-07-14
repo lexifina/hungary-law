@@ -1,6 +1,6 @@
 ## Fogalommeghatározás
 
-## 1. §[^1] E rendelet alkalmazásában:
+## 1. §[^2] E rendelet alkalmazásában:
 
 1. elszámolási időszak: az 5. § (5) bekezdésében meghatározott kifizetési kérelem beadására nyitva álló időszakot megelőző két hónap;
 
@@ -18,11 +18,11 @@
 
 8. LEADER HACS: az IH által az előzetesen elismert vidékfejlesztési akciócsoportok közül az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 3. és 4. tengelyének keretében megalakuló helyi akciócsoportok elismerési rendjével kapcsolatos egyes kérdésekről szóló 93/2007. (VIII. 29.) FVM rendelet alapján kiválasztott, az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 62. cikkének megfelelő helyi közösség, valamint a korábban már elismert, az 1698/2005/EK rendelet 62. cikkének megfelelő, a helyi vidékfejlesztési stratégia végrehajtását segítő helyi közösség;
 
-9.[^2] munkaszervezet: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 20. §-a szerinti feladatkörében és az IH szakmai iránymutatása alapján eljáró, Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet;
+9.[^3] munkaszervezet: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 20. §-a szerinti feladatkörében és az IH szakmai iránymutatása alapján eljáró, Herman Ottó Intézet;
 
 10. reprezentációs ajándék: az illetékes kistérség területéről származó helyi termék, az illetékes kistérség területén előállított termék, vagy a HVI-t népszerűsítő, bemutató termékek, kiadványok;
 
 11. Új Magyarország Vidékfejlesztési Program III. tengelyes nem horizontális intézkedései: az Új Magyarország Vidékfejlesztési Programban (a továbbiakban: ÚMVP) megjelölt alábbi intézkedések: mikrovállalkozások létrehozásának és fejlesztésének támogatása, a turisztikai tevékenységek ösztönzése, a falumegújítás és -fejlesztés, a vidéki örökség megőrzése és fenntartható fejlesztése.
 
-[^1]: Az 1. § a 70/2010. (V. 13.) FVM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § 9. pontja a 106/2012. (X. 11.) VM rendelet 7. §-a szerint módosított szöveg.
+[^2]: Az 1. § a 70/2010. (V. 13.) FVM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § 9. pontja a 33/2015. (VII. 13.) MvM rendelet 4. §-a szerint módosított szöveg.

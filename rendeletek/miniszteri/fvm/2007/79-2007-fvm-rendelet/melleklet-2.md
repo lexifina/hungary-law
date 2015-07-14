@@ -312,7 +312,7 @@
 
 |  |  | 60.20 | Televízióműsor összeállítása, szolgáltatása |
 
-2. számú melléklet a 79/2007. (VII. 30.) FVM rendelethez[^29]
+2. számú melléklet a 79/2007. (VII. 30.) FVM rendelethez[^30]
 
 4. ÁRUCSOPORT
 
@@ -1364,4 +1364,4 @@ Különböző áruk
 
 9617 Hőpalack és egyéb vákuumos edény tokkal együtt; ezek alkatrésze, az üvegbetét kivételével
 
-[^29]: A 2. számú melléklet a 44/2008. (IV. 10.) FVM rendelet 3. §-ával megállapított, a 118/2008. (IX. 5.) FVM rendelet 6. §-a szerint módosított szöveg.
+[^30]: A 2. számú melléklet a 44/2008. (IV. 10.) FVM rendelet 3. §-ával megállapított, a 118/2008. (IX. 5.) FVM rendelet 6. §-a szerint módosított szöveg.
