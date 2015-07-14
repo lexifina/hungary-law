@@ -1,4 +1,4 @@
-## 20. §[^13] Az agrár-szaktanácsadással kapcsolatos és az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 32/2014. (IV. 3.) VM rendelettel [a továbbiakban: 32/2014. (IV. 3.) VM rendelet] megállapított 8. § (9) bekezdését, valamint 14. § (4) bekezdését a 32/2014. (IV. 3.) VM rendelet hatálybalépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell.
+## 20. §[^14] Az agrár-szaktanácsadással kapcsolatos és az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 32/2014. (IV. 3.) VM rendelettel [a továbbiakban: 32/2014. (IV. 3.) VM rendelet] megállapított 8. § (9) bekezdését, valamint 14. § (4) bekezdését a 32/2014. (IV. 3.) VM rendelet hatálybalépésekor[^15] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^13]: A 20. §-t a 32/2014. (IV. 3.) VM rendelet 5. § (4) bekezdése iktatta be.
-[^14]: A hatálybalépés napja: 2014. április 4.
+[^14]: A 20. §-t a 32/2014. (IV. 3.) VM rendelet 5. § (4) bekezdése iktatta be.
+[^15]: A hatálybalépés napja: 2014. április 4.

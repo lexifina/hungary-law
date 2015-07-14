@@ -1,4 +1,4 @@
-## 23. §[^19] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 14. § (5) bekezdést és 16. § (1) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^20] folyamatban levő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 23. §[^20] Az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 8/2014. (XI. 19.) MvM rendelettel [a továbbiakban: 8/2014. (XI. 19.) MvM rendelet] megállapított 14. § (5) bekezdést és 16. § (1) bekezdést a 8/2014. (XI. 19.) MvM rendelet hatálybalépésekor[^21] folyamatban levő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
-[^19]: A 23. §-t a 8/2014. (XI. 19.) MvM rendelet 22. § (3) bekezdése iktatta be.
-[^20]: A hatálybalépés időpontja 2014. november 20.
+[^20]: A 23. §-t a 8/2014. (XI. 19.) MvM rendelet 22. § (3) bekezdése iktatta be.
+[^21]: A hatálybalépés időpontja 2014. november 20.
