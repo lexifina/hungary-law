@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-181-00-00
 | 2014-12-20 | 2014. évi LXXV. törvény | 2011-181-00-00.17 |
 | 2015-01-01 | 2012. évi CXVII. törvény | 2011-181-00-00.18 |
 | 2015-01-02 | 2010. évi CXXX. törvény | 2011-181-00-00.19 |
+| 2015-07-14 | 2015. évi CXXXIV. törvény | 2011-181-00-00.20 |
