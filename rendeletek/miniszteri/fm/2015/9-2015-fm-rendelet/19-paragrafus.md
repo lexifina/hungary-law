@@ -20,7 +20,7 @@ d) a b–c) pontban foglalt feltételek teljesítéséről nyilatkozik.
 
 (3) A (2) bekezdésben foglalt megkeresést legkésőbb tárgyév június 30-áig lehet megtenni.
 
-(4)[^16] A (2) bekezdés szerinti hatósági bizonyítványnak tartalmaznia kell a terület azonosító adatait a tárgyévi egységes kérelemben meghatározottak szerint (blokkazonosító, parcella sorszám, helyrajzi szám, területnagyság, ültevény fajának, tőszám meghatározása, ültetvény korának megnevezése, tőszámbeállottság mértékének meghatározása, fix, telepített öntözés meglétének meghatározása).
+(4)[^22] A (2) bekezdés szerinti hatósági bizonyítványnak tartalmaznia kell a terület azonosító adatait a tárgyévi egységes kérelemben meghatározottak szerint (blokkazonosító, parcella sorszám, helyrajzi szám, területnagyság, ültevény fajának, tőszám meghatározása, ültetvény korának megnevezése, tőszámbeállottság mértékének meghatározása, fix, telepített öntözés meglétének meghatározása).
 
 (5) A földművelésügyi igazgatóság a hatósági bizonyítvány kiállítása során megkereséssel fordulhat az MVH-hoz, a területileg illetékes földhivatalhoz, valamint a NÉBIH-hez, továbbá figyelembe veheti
 
@@ -38,4 +38,4 @@ d) a kötelezően elvégzendő helyszíni szemle adatait, ha a szükséges adato
 
 (8) A hektáronkénti minimális tőszám meghatározásánál a telepítési engedélyben meghatározott tőszámot kell figyelembe venni. Ha ez az adat nem áll rendelkezésre, akkor a (2) bekezdés szerinti hatósági bizonyítvány kiállításakor a területen meghatározó térállás szerint számított tőszámot kell figyelembe venni.
 
-[^16]: A 19. § (4) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (5) bekezdése szerint módosított szöveg.
+[^22]: A 19. § (4) bekezdése a 23/2015. (V. 13.) FM rendelet 9. § (5) bekezdése szerint módosított szöveg.

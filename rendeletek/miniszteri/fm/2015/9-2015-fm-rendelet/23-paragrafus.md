@@ -1,4 +1,4 @@
-## 22/A. § E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított 13. § (1a) bekezdését, 14. § (5) és (6) bekezdését, 17. § (1) bekezdés b) pontját és 7. mellékletét a 23/2015. (V. 13.) FM rendelet hatálybalépésekor[^18] folyamatban lévő ügyekben is alkalmazni kell.
+## 22/B. §[^26] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó egyes rendeletek módosításáról szóló 40/2015. (VII. 13.) FM rendelettel [a továbbiakban: 40/2015. (VII. 13.) FM rendelet] megállapított 1. § 2. b) alpontját és 8. pontját, 9. § (5a) bekezdését, 14. § (6a) és (7) bekezdését, 18. § b) pontját, 21. § (2) bekezdés b) pontját és 3. mellékletét a 40/2015. (VII. 13.) FM rendelet hatálybalépésekor[^27] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 20. Az Európai Unió jogának való megfelelés
 
@@ -16,4 +16,5 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^18]: A hatálybalépés időpontja 2015. május 14.
+[^26]: A 22/B. §-t a 40/2015. (VII. 13.) FM rendelet 10. § (5) bekezdése iktatta be.
+[^27]: A hatálybalépés időpontja 2015. július 14.
