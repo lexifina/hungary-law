@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-139-20-
 | 2014-11-20 | 2008-139-20-82.20 | 8/2014. (XI. 19.) MvM rendelet |
 | 2014-12-31 | 2008-139-20-82.21 | 12/2014. (XII. 30.) MvM rendelet |
 | 2015-06-10 | 2008-139-20-82.22 | 12/2014. (XII. 30.) MvM rendelet |
+| 2015-07-14 | 2008-139-20-82.23 | 90/2011. (X. 3.) VM rendelet |

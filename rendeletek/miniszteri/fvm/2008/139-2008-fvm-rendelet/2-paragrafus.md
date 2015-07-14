@@ -6,7 +6,7 @@
 
 a)[^1] ÚMVP Képző Szervezet: az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) által e rendelet alapján támogatott képzéseket megvalósító szervezet;
 
-b)[^2] képzési projekt: az ÚMVP Képző Szervezetnek az 1. és 6. számú mellékletben felsorolt képzések szervezésére vonatkozó, a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által jóváhagyott, egy naptári évre vonatkozó terve;
+b)[^2] képzési projekt: az ÚMVP Képző Szervezetnek az 1. és 6. számú mellékletben felsorolt képzések szervezésére vonatkozó, a Herman Ottó Intézet által jóváhagyott, egy naptári évre vonatkozó terve;
 
 c)[^3] képzési program: az 1. és a 6. számú mellékletben felsorolt képzések tananyagát, az oktatás tárgyi és személyi feltételeit, a számonkérés módját magában foglaló dokumentum;
 
@@ -29,7 +29,7 @@ h)[^8] de minimis támogatás: az Európai Unió működéséről szóló szerz�
 i)[^9] az ÚMVP Képző Szervezetek integrált elektronikus rendszere: valamennyi ÚMVP Képző Szervezet számára elérhető elektronikus rendszer, amely az e rendeletben előírt egyes adatközlési kötelezettségeik teljesítéséhez alkalmazható, és amelyen keresztül tájékozódhatnak az általuk indítható képzésekről.
 
 [^1]: A 2. § a) pontja a 47/2013. (VI. 7.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § b) pontja a 90/2011. (X. 3.) VM rendelet 1. § (1) bekezdésével megállapított, a 106/2012. (X. 11.) VM rendelet 8. § a) pontja, a 4/2013. (II. 4.) VM rendelet 14. §-a szerint módosított szöveg.
+[^2]: A 2. § b) pontja a 90/2011. (X. 3.) VM rendelet 1. § (1) bekezdésével megállapított, a 4/2013. (II. 4.) VM rendelet 14. §-a, a 33/2015. (VII. 13.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § c) pontja a 32/2014. (IV. 3.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § d) pontja a 22/2014. (III. 14.) VM rendelet 66. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § e) pontja a 18/2010. (IX. 30.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.

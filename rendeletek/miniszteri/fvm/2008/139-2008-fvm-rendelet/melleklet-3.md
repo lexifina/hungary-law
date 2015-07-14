@@ -14,6 +14,6 @@
 
 ## A táblázat sorainak száma igény szerint bővíthető.
 
-3. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^93]
+3. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^94]
 
-[^93]: A 3. számú melléklet a 86/2013. (IX. 27.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^94]: A 3. számú melléklet a 86/2013. (IX. 27.) VM rendelet 12. § (2) bekezdésével megállapított szöveg.

@@ -530,7 +530,7 @@
 
 | 265. |  | – A sikeres pályázatok megvalósítása, elszámolások, beszámolók |  |  |
 
-| 266. | Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelet alapján indítható képzések | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam legalább 30%-a, amit a NAKVI a képzési projektterv felülvizsgálata során ellenőriz |
+| 266. | Az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendelet alapján indítható képzések | a hatályos Szakmai és Vizsgakövetelményekben meghatározott maximális képzési időtartam legalább 30%-a, amit a Herman Ottó Intézet a képzési projektterv felülvizsgálata során ellenőriz |
 
 | 267. | ao1 | 33 621 02 0100 31 01 Aranykalászos gazda |  |  |
 
@@ -986,6 +986,6 @@
 
 | 493. | h2 | 80 órás Növényvédelmi Tanfolyam [szervezése a Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 2. § (3) bekezdésének e) pontjában foglaltak alapján a Magyar Növényvédő Mérnöki és Növényorvosi Kamarával együttműködésben történhet] |  |  |
 
-2. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^92]
+2. számú melléklet a 139/2008. (X. 22.) FVM rendelethez[^93]
 
-[^92]: A 2. számú melléklet a 86/2013. (IX. 27.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^93]: A 2. számú melléklet a 86/2013. (IX. 27.) VM rendelet 12. § (1) bekezdésével megállapított szöveg.
