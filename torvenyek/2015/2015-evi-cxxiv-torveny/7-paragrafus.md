@@ -1,1 +1,0 @@
-7. § Az akkreditálási eljárásáért, az akkreditált státusz területének bővítési eljárásáért, az akkreditált státusz területének szűkítési eljárásáért, továbbá a kizárólag adminisztrációs tevékenységet igénylő adatmódosulás bejelentésének kivételével nyilvántartási adat módosításáért, a külföldi akkreditált státusz elismerési eljárásáért igazgatási szolgáltatási díjat kell fizetni.
