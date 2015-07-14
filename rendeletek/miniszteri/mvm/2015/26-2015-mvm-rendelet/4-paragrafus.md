@@ -14,4 +14,6 @@ c) az üzemeltetési kötelezettség időtartamának egésze alatt a legalább 4
 
 (5) A művelet e rendelet hatálybalépésének időpontjától az ügyfél saját felelősségére megkezdhető.
 
-(6) Amennyiben a támogatást igénylő olyan szakképesítéssel rendelkezik, amely a 4. vagy 5. mellékletben nem szerepel, úgy köteles a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet, mint az Új Magyarország Vidékfejlesztési Program megvalósulását segítő szakképzés felügyeletét ellátó szervezet állásfoglalását beszerezni arra vonatkozóan, hogy szakképesítése a 4. vagy 5. mellékletben felsorolt szakképesítések közül melyiknek felel meg.
+(6)[^4] Amennyiben a támogatást igénylő olyan szakképesítéssel rendelkezik, amely a 4. vagy 5. mellékletben nem szerepel, úgy köteles a Herman Ottó Intézet, mint az Új Magyarország Vidékfejlesztési Program megvalósulását segítő szakképzés felügyeletét ellátó szervezet állásfoglalását beszerezni arra vonatkozóan, hogy szakképesítése a 4. vagy 5. mellékletben felsorolt szakképesítések közül melyiknek felel meg.
+
+[^4]: A 4. § (6) bekezdése a 33/2015. (VII. 13.) MvM rendelet 18. § a) pontja szerint módosított szöveg.

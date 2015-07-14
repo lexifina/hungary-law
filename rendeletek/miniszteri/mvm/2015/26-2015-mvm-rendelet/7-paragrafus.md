@@ -12,7 +12,7 @@ c) amennyiben a nagyértékű beruházásokra benyújtott kérelmek alapján a t
 
 a) 35%-a,
 
-b)[^4] 45%-a, de legfeljebb az elszámolt költségek 40%-a, amennyiben az ügyfél lakóhelye vagy székhelye hátrányos helyzetű településen van,
+b)[^6] 45%-a, amennyiben az ügyfél lakóhelye vagy székhelye hátrányos helyzetű településen van,
 
 c) 45%-a, ha az ügyfél fiatal mezőgazdasági termelő.
 
@@ -22,4 +22,4 @@ c) 45%-a, ha az ügyfél fiatal mezőgazdasági termelő.
 
 (5) Építési tevékenység és a Vhr. 31. §-ában meghatározottak szerinti egyéb elszámolható kiadások nem támogathatóak.
 
-[^4]: A 7. § (2) bekezdés b) pontja a 28/2015. (VI. 9.) MvM rendelet 99. § (3) bekezdésével megállapított szöveg.
+[^6]: A 7. § (2) bekezdés b) pontja a 28/2015. (VI. 9.) MvM rendelet 99. § (3) bekezdésével megállapított, a 33/2015. (VII. 13.) MvM rendelet 19. §-a szerint módosított szöveg.

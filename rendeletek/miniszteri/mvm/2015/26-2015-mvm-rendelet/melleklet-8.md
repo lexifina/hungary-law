@@ -26,11 +26,11 @@
 
 | 11. | 1299 | Egyéb betakarítók, kivéve: nád és gyep betakarítók |
 
-| 12. | 1912 | Forgórakodók, kivéve: ipari rakodók |
+| 12. | 1912 | Forgó rakodók |
 
 | 13. | 1914 | Targoncák, tereptargoncák |
 
-| 14. | 1992 | Permetezők közül csak a hatósági engedéllyel rendelkezők |
+| 14. | 1992 | Permetezők |
 
 | 15. | 1999 | Egyéb magajáró gépek, kivéve: takarmánykeverők, kiosztók |
 
@@ -72,7 +72,7 @@
 
 | 34. | 2293 | Fóliafektetők, fólia alagútkészítők, fólia begyűjtők |
 
-| 35. | 2311 | Permetező-, porozó- és folyékony műtrágya kijuttató gépek közül az ültetvénypermetezők csak hatósági engedéllyel rendelkezők |
+| 35. | 2311 | Permetező-, porozó- és folyékony műtrágya juttató gépek |
 
 | 36. | 2321 | Műtrágyaszóró gépek |
 
@@ -104,7 +104,7 @@
 
 | 50. | 2499 | Egyéb betakarítógépek |
 
-| 51. | 2511 | Vontatott és rászerelt rakodógépek közül csak a kertészetben használható homlokrakodók |
+| 51. | 2511 | Vontatott és rászerelt rakodógépek |
 
 | 52. | 2512 | Rakodógépek adapterei, munkaeszközei közül csak a kertészetben használt homlokrakodók, 3 pont villák |
 
@@ -180,6 +180,8 @@
 
 | 88. | 2151 | Szántóföldi kultivátorok |
 
-8. melléklet a 26/2015. (V. 6.) MvM rendelethez[^10]
+| 89. | 1913 | Teleszkópos rakodók |
 
-[^10]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+8. melléklet a 26/2015. (V. 6.) MvM rendelethez[^14]
+
+[^14]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

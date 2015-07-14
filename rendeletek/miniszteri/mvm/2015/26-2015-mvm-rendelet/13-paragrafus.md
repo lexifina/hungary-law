@@ -1,4 +1,4 @@
-## 12/A. §[^5] A Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] megállapított 1. § (1) bekezdés 1. pontját, 5. § (6a) bekezdést, 7. § (2) bekezdés b) pontját, 2. mellékletet, és 7. mellékletet a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor[^6] folyamatban lévő eljárásokban is alkalmazni kell.
+## 12/B. §[^9] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeleteknek a Herman Ottó Intézet megalapításával összefüggő módosításáról szóló 33/2015. (VII. 13.) MvM rendelettel [a továbbiakban: 33/2015. (VII. 13.) MvM rendelet] megállapított 1. § (5) bekezdést, a 2. mellékletet és a 7. mellékletet a 33/2015. (VII. 13.) MvM rendelet hatálybalépésekor[^10] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^5]: A 12/A. §-t a 28/2015. (VI. 9.) MvM rendelet 99. § (4) bekezdése iktatta be.
-[^6]: A hatálybalépés időpontja 2015. június 10.
+[^9]: A 12/B. §-t a 33/2015. (VII. 13.) MvM rendelet 17. § (2) bekezdése iktatta be.
+[^10]: A hatálybalépés időpontja 2015. július 14.

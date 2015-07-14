@@ -42,6 +42,6 @@
 
 ## IV. az árajánlat kiállításának dátuma
 
-7. melléklet a 26/2015. (V. 6.) MvM rendelethez[^9]
+7. melléklet a 26/2015. (V. 6.) MvM rendelethez[^13]
 
-[^9]: A 7. melléklet a 28/2015. (VI. 9.) MvM rendelet 99. § (5) bekezdése és 101. §-a szerint módosított szöveg.
+[^13]: A 7. melléklet a 28/2015. (VI. 9.) MvM rendelet 99. § (5) bekezdése és 101. §-a, a 33/2015. (VII. 13.) MvM rendelet 17. § (3) bekezdése szerint módosított szöveg.
