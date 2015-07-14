@@ -6,7 +6,7 @@
 
 1. anyajuh: minden olyan, a juh fajhoz tartozó nőivarú állat, amely már legalább egy ízben ellett, vagy legalább egy éves;
 
-2. anyatehén: húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született tehén, amely hústermelésre szánt borjak nevelésére tartott állományhoz tartozik, vagy nyolc hónapnál idősebb, még nem ellett, húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született nőivarú szarvasmarha;
+2.[^1] anyatehén: húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született tehén, amely hústermelésre szánt borjak nevelésére tartott állományhoz tartozik, vagy nyolc hónapnál idősebb, még nem ellett, húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született nőivarú szarvasmarhaféle;
 
 3. átruházás: a támogatási kérelmen bejelentett állatok összességének a birtokon tartási időszak alatt egy átvevőnek történő eladása és a történelmi bázis jogosultságról szóló miniszteri rendelet (a továbbiakban: Bázisrendelet) szerinti átruházás;
 
@@ -16,7 +16,7 @@
 
 6. birtokon tartás: a kérelmezett állatnak az egyes jogcímeknél meghatározott ideig a kérelmező tenyészetében történő tartása;
 
-7.[^1]
+7.[^2]
 
 8. egyéni támogatási felsőhatár: a mezőgazdasági termelőt megillető, az állatlétszámhoz kötött támogatási jogosultságról szóló miniszteri rendelet és az állatlétszámhoz kötött támogatási jogosultság országos tartalékból való igénylésének feltételeiről szóló miniszteri rendelet alapján nyilvántartott támogatási jogosultságok összege;
 
@@ -42,4 +42,5 @@
 
 19. történelmi bázis jogosultság: az ügyfél történelmi bázisa alapján megállapított mezőgazdasági vagyoni értékű jog.
 
-[^1]: Az 1. § 7. pontját a 17/2015. (IV. 9.) FM rendelet 11. §-a hatályon kívül helyezte.
+[^1]: Az 1. § 2. pontja a 40/2015. (VII. 13.) FM rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § 7. pontját a 17/2015. (IV. 9.) FM rendelet 11. §-a hatályon kívül helyezte.

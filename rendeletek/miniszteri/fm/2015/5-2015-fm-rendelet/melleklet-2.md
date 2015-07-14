@@ -1,8 +1,8 @@
-2. melléklet az 5/2015. (II. 19.) FM rendelethez[^11]
+2. melléklet az 5/2015. (II. 19.) FM rendelethez[^17]
 
-Az anyatehéntartás termeléshez kötött támogatásához kapcsolódó tejértékesítés során jelentett értékesített tej, illetve tejtermékek mennyisége számítása során alkalmazandó átváltási képletek
+## Az anyatehéntartás termeléshez kötött támogatásához kapcsolódó tejértékesítés során jelentett értékesített tej, illetve tejtermékek mennyisége számítása során alkalmazandó átváltási képletek
 
-1. 1 liter értékesített tej= 0,971 kg tej
+1.[^18] 1 kg értékesített tej = 0,971 l tej
 
 2. 1 kg vaj= 22,5 kg tej
 
@@ -16,4 +16,5 @@ Az anyatehéntartás termeléshez kötött támogatásához kapcsolódó tejért
 
 7. 1 kg sajt= 10 kg tej
 
-[^11]: A 2. mellékletet a 17/2015. (IV. 9.) FM rendelet 10. §-a iktatta be.
+[^17]: A 2. mellékletet a 17/2015. (IV. 9.) FM rendelet 10. §-a iktatta be.
+[^18]: A 2. melléklet 1. pontja a 40/2015. (VII. 13.) FM rendelet 8. § (3) bekezdésével megállapított szöveg.
