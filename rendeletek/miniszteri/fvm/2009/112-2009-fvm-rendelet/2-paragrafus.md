@@ -36,13 +36,13 @@ o)[^7] ifjúsági információs pont szolgáltatás: olyan alapellátás jelleg�
 
 p)[^8] IKSZT szolgáltatási- és programterv: az IKSZT kötelező és vállalt szolgáltatásainak igényfelmérésen alapuló naptári félévre meghatározott ütemezési terve, amely tartalmazza a szolgáltatásokhoz kötődő közösségi programok összességét, segíti azok megvalósítását, s alapját képezi a működéssel kapcsolatos ellenőrzéseknek;
 
-q)[^9] IKSZT szolgáltatás-tervezési és beszámolási felület: a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) által üzemeltetett, az IKSZT címbirtokos szervezet IKSZT szolgáltatási- és programtervének elkészítésére, feltöltésére, ellenőrzésére alkalmas online felület, amely egyben elsődleges kommunikációs csatorna az IH, a NAKVI és az IKSZT címbirtokosok között;
+q)[^9] IKSZT szolgáltatás-tervezési és beszámolási felület: a Herman Ottó Intézet által üzemeltetett, az IKSZT címbirtokos szervezet IKSZT szolgáltatási- és programtervének elkészítésére, feltöltésére, ellenőrzésére alkalmas online felület, amely egyben elsődleges kommunikációs csatorna az IH, a Herman Ottó Intézet és az IKSZT címbirtokosok között;
 
-r)[^10] szakmai beszámoló: az ügyfél által az üzemeltetési kötelezettség ideje alatt az IKSZT szolgáltatási- és programterv alapján megvalósított tevékenységéről a NAKVI részére a szakmai beszámolási időszakra vonatkozóan negyedévenként elkészített és elektronikus úton benyújtott beszámoló;
+r)[^10] szakmai beszámoló: az ügyfél által az üzemeltetési kötelezettség ideje alatt az IKSZT szolgáltatási- és programterv alapján megvalósított tevékenységéről a Herman Ottó Intézet részére a szakmai beszámolási időszakra vonatkozóan negyedévenként elkészített és elektronikus úton benyújtott beszámoló;
 
 s)[^11] szakmai beszámolási időszak: az a beszámolással érintett naptári negyedév, amely időszakról az ügyfél elkészíti a szakmai beszámolóját;
 
-t)[^12] teljesítésigazolás: a NAKVI által kiállított, a szakmai beszámoló értékeléséről szóló, az IKSZT címbirtokosság alapján az ügyfelet terhelő szakmai kötelezettségek teljesítését igazoló okirat.
+t)[^12] teljesítésigazolás: a Herman Ottó Intézet által kiállított, a szakmai beszámoló értékeléséről szóló, az IKSZT címbirtokosság alapján az ügyfelet terhelő szakmai kötelezettségek teljesítését igazoló okirat.
 
 (2) Az e rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatások egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltakat kell megfelelően alkalmazni.
 
@@ -54,7 +54,7 @@ t)[^12] teljesítésigazolás: a NAKVI által kiállított, a szakmai beszámol�
 [^6]: A 2. § (1) bekezdés n) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
 [^7]: A 2. § (1) bekezdés o) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
 [^8]: A 2. § (1) bekezdés p) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^9]: A 2. § (1) bekezdés q) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 47/2013. (VI. 7.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^10]: A 2. § (1) bekezdés r) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés q) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 47/2013. (VI. 7.) VM rendelet 3. § (1) bekezdésével megállapított, a 33/2015. (VII. 13.) MvM rendelet 6. § a)–b) pontja szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés r) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
 [^11]: A 2. § (1) bekezdés s) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
-[^12]: A 2. § (1) bekezdés t) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be.
+[^12]: A 2. § (1) bekezdés t) pontját a 84/2012. (VIII. 2.) VM rendelet 1. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.

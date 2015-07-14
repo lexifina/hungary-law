@@ -102,7 +102,7 @@ c) az IKSZT nyitvatartási ideje nem lehet rövidebb az ügyfél által a támog
 
 (13) Egy program szervezése csak egy szolgáltatásnyújtáshoz kapcsolódhat.
 
-(14)[^26] Az ügyfél köteles az üzemeltetési kötelezettség kezdetétől számított 8 munkanapon belül az üzemeltetési kötelezettség megkezdéséről a NAKVI-t értesíteni.
+(14)[^26] Az ügyfél köteles az üzemeltetési kötelezettség kezdetétől számított 8 munkanapon belül az üzemeltetési kötelezettség megkezdéséről a Herman Ottó Intézetet értesíteni.
 
 (15)[^27] A (2) és (2a) bekezdésben és a (7)–(12) bekezdésben meghatározott feltételek teljesülése esetén, az előírt alkalmakon felül az adott szolgáltatásokat az ügyfél térítés ellenében is nyújthatja.
 
@@ -121,7 +121,7 @@ c) az IKSZT nyitvatartási ideje nem lehet rövidebb az ügyfél által a támog
 [^23]: A 7. § (10) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^24]: A 7. § (11) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^25]: A 7. § (12) bekezdése a 84/2012. (VIII. 2.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^26]: A 7. § (14) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (3) bekezdése iktatta be.
+[^26]: A 7. § (14) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (3) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § c) pontja szerint módosított szöveg.
 [^27]: A 7. § (15) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (3) bekezdése iktatta be.
 [^28]: A 7. § (16) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (3) bekezdése iktatta be.
 [^29]: A 7. § (17) bekezdését a 84/2012. (VIII. 2.) VM rendelet 4. § (3) bekezdése iktatta be.

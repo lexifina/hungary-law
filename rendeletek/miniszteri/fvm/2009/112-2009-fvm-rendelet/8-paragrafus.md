@@ -116,11 +116,11 @@ c)[^42] legalább egy fő munkavállaló részére képesítés megszerzését b
 
 a) e-Tanácsadói képzés formájában, vagy
 
-b) a NAKVI által indított, a 6. számú mellékletben meghatározott és tartalmilag részletezett képzés elvégzésével.
+b)[^44] a Herman Ottó Intézet által indított, a 6. számú mellékletben meghatározott és tartalmilag részletezett képzés elvégzésével.
 
-(8)[^44] Az ügyfél az üzemeltetési kötelezettség teljes időszakára vonatkozóan köteles:
+(8)[^45] Az ügyfél az üzemeltetési kötelezettség teljes időszakára vonatkozóan köteles:
 
-a)[^45] minden naptári félévre vonatkozóan a 7. § (2) bekezdés, illetve a 7. § (7)–(13) bekezdés, valamint az (1) bekezdésnek, illetve a (2) bekezdés d)–l) pontjának megfelelő naptári félévre vonatkozó IKSZT szolgáltatási- és programtervet (a továbbiakban: programterv) készíteni. Az első programterv elkészítése és a NAKVI részére jóváhagyás céljából történő megküldése az üzemeltetési kötelezettség megkezdésétől számított 30 napon belül esedékes, időtartama a naptári félév végéig érvényes, a továbbiakban az első naptári félévre vonatkozó programtervet a tárgyévet megelőző év november 30., a második naptári félévre vonatkozó programtervet tárgyév május 31. napjáig az IKSZT szolgáltatás-tervezési és beszámolási felületen elkészítve a NAKVI részére jóváhagyás céljából megküldeni, amely programterv az alábbiakat tartalmazza:
+a)[^46] minden naptári félévre vonatkozóan a 7. § (2) bekezdés, illetve a 7. § (7)–(13) bekezdés, valamint az (1) bekezdésnek, illetve a (2) bekezdés d)–l) pontjának megfelelő naptári félévre vonatkozó IKSZT szolgáltatási- és programtervet (a továbbiakban: programterv) készíteni. Az első programterv elkészítése és a Herman Ottó Intézet részére jóváhagyás céljából történő megküldése az üzemeltetési kötelezettség megkezdésétől számított 30 napon belül esedékes, időtartama a naptári félév végéig érvényes, a továbbiakban az első naptári félévre vonatkozó programtervet a tárgyévet megelőző év november 30., a második naptári félévre vonatkozó programtervet tárgyév május 31. napjáig az IKSZT szolgáltatás-tervezési és beszámolási felületen elkészítve a Herman Ottó Intézet részére jóváhagyás céljából megküldeni, amely programterv az alábbiakat tartalmazza:
 
 aa) a 7. § (2) bekezdésének és az (1) bekezdésnek megfelelő, tervezett közösségfejlesztő és közösségi programok (a továbbiakban: közösségi programok) megnevezését,
 
@@ -140,17 +140,17 @@ bc) a közösségi programokon a résztvevők nevét, aláírását tartalmazó 
 
 bd) három darab, a közösségi programokról készített, a program különböző jellegzetes elemeit bemutató, a beszámolóban dátummal beazonosítható fényképfelvételt,
 
-c) a feladatait a NAKVI-val kötött szakmai együttműködési megállapodás alapján végezni,
+c)[^47] a feladatait a Herman Ottó Intézettel kötött szakmai együttműködési megállapodás alapján végezni,
 
-d) az IKSZT működésével összefüggő dokumentumokat, iratokat elkülönítve nyilvántartani, azt az üzemeltetési időszak alatt, valamint a dokumentumok, iratok típusától függően a vonatkozó jogszabályok szerint, valamint az előírt határidő végéig megőrizni, azokba az IH, valamint a NAKVI képviselője részére a betekintést biztosítani,
+d)[^48] az IKSZT működésével összefüggő dokumentumokat, iratokat elkülönítve nyilvántartani, azt az üzemeltetési időszak alatt, valamint a dokumentumok, iratok típusától függően a vonatkozó jogszabályok szerint, valamint az előírt határidő végéig megőrizni, azokba az IH, valamint a Herman Ottó Intézet képviselője részére a betekintést biztosítani,
 
-e) valamely szolgáltatás ellátását, személyi változást, vagy az ügyfél, mint IKSZT címbirtokos szervezet jogi változásának bekövetkezését, a változás bekövetkezésétől számított 10 munkanapon belül, a változást igazoló dokumentumok ügyfél által hitelesített másolatának egyidejű megküldésével a NAKVI részére bejelenteni,
+e)[^49] valamely szolgáltatás ellátását, személyi változást, vagy az ügyfél, mint IKSZT címbirtokos szervezet jogi változásának bekövetkezését, a változás bekövetkezésétől számított 10 munkanapon belül, a változást igazoló dokumentumok ügyfél által hitelesített másolatának egyidejű megküldésével a Herman Ottó Intézet részére bejelenteni,
 
 f) a foglalkoztatottak aláírásával igazolt, a munkavégzés idejét tartalmazó, jelenléti ívet naprakészen vezetni.
 
-(9)[^46] A (7) bekezdés a) és b) pontjában felsorolt képzések megszerzése helyettesíthető legfeljebb 10 éve megszerzett főiskolai, vagy egyetemi felsőfokú végzettséggel, amelynek hitelesített oklevélmásolatát az ügyfélnek meg kell küldenie a NAKVI részére. A NAKVI a megküldött dokumentumok alapján igazolást állít ki az ügyfél részére, amelyet az ügyfél az iratőrzési kötelezettség végéig köteles megőrizni.
+(9)[^50] A (7) bekezdés a) és b) pontjában felsorolt képzések megszerzése helyettesíthető legfeljebb 10 éve megszerzett főiskolai, vagy egyetemi felsőfokú végzettséggel, amelynek hitelesített oklevélmásolatát az ügyfélnek meg kell küldenie a Herman Ottó Intézet részére. A Herman Ottó Intézet a megküldött dokumentumok alapján igazolást állít ki az ügyfél részére, amelyet az ügyfél az iratőrzési kötelezettség végéig köteles megőrizni.
 
-(10)[^47] A (7) bekezdés a) és b) pontjában felsorolt képzés megkezdéséről az ügyfél a munkavállaló munkába állását követő fél éven belül köteles a NAKVI felé jelenteni arról, hogy a munkavállaló a képzési kötelezettségeit határidőn belül megkezdte.
+(10)[^51] A (7) bekezdés a) és b) pontjában felsorolt képzés megkezdéséről az ügyfél a munkavállaló munkába állását követő fél éven belül köteles a Herman Ottó Intézet felé jelenteni arról, hogy a munkavállaló a képzési kötelezettségeit határidőn belül megkezdte.
 
 [^31]: A 8. § (1) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^32]: A 8. § (1a) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (1) bekezdése iktatta be.
@@ -165,7 +165,11 @@ f) a foglalkoztatottak aláírásával igazolt, a munkavégzés idejét tartalma
 [^41]: A 8. § (6) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
 [^42]: A 8. § (6) bekezdés c) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^43]: A 8. § (7) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^44]: A 8. § (8) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^45]: A 8. § (8) bekezdés a) pontja a 47/2013. (VI. 7.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^46]: A 8. § (9) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be.
-[^47]: A 8. § (10) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be.
+[^44]: A 8. § (7) bekezdés b) pontja a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
+[^45]: A 8. § (8) bekezdése a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^46]: A 8. § (8) bekezdés a) pontja a 47/2013. (VI. 7.) VM rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
+[^47]: A 8. § (8) bekezdés c) pontja a 33/2015. (VII. 13.) MvM rendelet 6. § d) pontja szerint módosított szöveg.
+[^48]: A 8. § (8) bekezdés d) pontja a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
+[^49]: A 8. § (8) bekezdés e) pontja a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
+[^50]: A 8. § (9) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.
+[^51]: A 8. § (10) bekezdését a 84/2012. (VIII. 2.) VM rendelet 5. § (4) bekezdése iktatta be, szövege a 33/2015. (VII. 13.) MvM rendelet 6. § b) pontja szerint módosított szöveg.

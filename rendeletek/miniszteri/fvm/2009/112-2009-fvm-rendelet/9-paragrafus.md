@@ -1,6 +1,6 @@
 ## A támogatási kérelem benyújtása
 
-9. § (1)[^48] A támogatási kérelmet 2009. szeptember 1. és 2009. október 15. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) megvalósítás helye szerint illetékes kirendeltségéhez az MVH honlapján közzétett formanyomtatványon.
+9. § (1)[^52] A támogatási kérelmet 2009. szeptember 1. és 2009. október 15. között lehet benyújtani a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) megvalósítás helye szerint illetékes kirendeltségéhez az MVH honlapján közzétett formanyomtatványon.
 
 (2) A támogatási kérelemnek tartalmaznia kell az alábbi információkat, illetve adatokat:
 
@@ -38,4 +38,4 @@ c) a megyei Ifjúsági Szakmai Módszertani Központtal kötött együttműköd�
 
 (4) E rendelet alapján benyújtott támogatási kérelemhez – a Vhr. 27. § (1) bekezdésének f) pontjában foglaltaktól eltérően – üzleti tervet nem kell csatolni.
 
-[^48]: A 9. § (1) bekezdése a 125/2009. (IX. 29.) FVM rendelet 12. §-ával megállapított szöveg.
+[^52]: A 9. § (1) bekezdése a 125/2009. (IX. 29.) FVM rendelet 12. §-ával megállapított szöveg.
