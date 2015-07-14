@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. § (1) A támogatási kérelmet a fűszerpaprika-termelőnek a tárgyév május 1-je és május 31-e között a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és a honlapján közzétett nyomtatványon kell postai úton benyújtania az MVH-hoz.
+5. § (1)[^3] A támogatási kérelmet a fűszerpaprika-termelőnek a tárgyév május 1-je és augusztus 5-e között a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és a honlapján közzétett nyomtatványon kell postai úton benyújtania az MVH-hoz.
 
 (2) A támogatási kérelemhez mellékelni kell a 4. § c)–e) pontjában foglalt nyilatkozatokat, és
 
@@ -19,3 +19,5 @@ bb) a fémzárolt vetőmag címkéjének vagy a minősítését igazoló bizony�
 bc) a termeltetővel vagy termelői csoporttal kötött szerződés másolatát, és
 
 bd) a termeltető vagy termelői csoport által a fűszerpaprika-termelő részére átadott fémzárolt vetőmag mennyiségét és nettó árát, valamint a származás megjelölését tartalmazó, a termeltető vagy a termelői csoport által kiállított dokumentumot.
+
+[^3]: Az 5. § (1) bekezdése a 40/2015. (VII. 13.) FM rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.

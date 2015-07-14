@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-37-20-2
 | --- | --- | --- |
 | 2014-04-12 | 2014-37-20-2Y.1 | 37/2014. (IV. 4.) VM rendelet |
 | 2015-03-12 | 2014-37-20-2Y.2 | 7/2015. (III. 11.) FM rendelet |
+| 2015-07-14 | 2014-37-20-2Y.3 | 40/2015. (VII. 13.) FM rendelet |
