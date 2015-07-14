@@ -2,13 +2,13 @@
 
 ## 3. A Bemutató Üzem cím elnyerésének feltételei
 
-3. § (1) A Bemutató Üzemként történő elismerésről – a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet (a továbbiakban: NAKVI) közreműködésével lebonyolított pályázat alapján – az IH hoz döntést. A Bemutató Üzem címre az a (3) bekezdés szerinti szervezet jogosult, amely részére e rendelet hatálybalépését követően, az IH által közleményben közzétett pályázati felhívásra benyújtott pályázata alapján, az IH a Bemutató Üzem címet odaítélte.
+3. § (1)[^6] A Bemutató Üzemként történő elismerésről – a Herman Ottó Intézet közreműködésével lebonyolított pályázat alapján – az IH hoz döntést. A Bemutató Üzem címre az a (3) bekezdés szerinti szervezet jogosult, amely részére e rendelet hatálybalépését követően, az IH által közleményben közzétett pályázati felhívásra benyújtott pályázata alapján, az IH a Bemutató Üzem címet odaítélte.
 
 (2) Az IH a bemutató üzemi programok iránt jelentkező igénytől függően több alkalommal is meghirdetheti a Bemutató Üzem cím elnyerésére irányuló pályázatot.
 
 (3) Bemutató Üzem címre jogosult
 
-a)[^5] e rendelet hatálybalépését megelőző gazdasági évben legalább 3 Európai Méretegység nagyságú gazdasággal rendelkező őstermelő, családi gazdaság, egyéni vállalkozó, egyéni cég, szövetkezet, társas vállalkozás, termelői csoport, termelői és értékesítési szövetkezet, beszerzési és értékesítési szövetkezet, szociális szövetkezet,
+a)[^7] e rendelet hatálybalépését megelőző gazdasági évben legalább 3 Európai Méretegység nagyságú gazdasággal rendelkező őstermelő, családi gazdaság, egyéni vállalkozó, egyéni cég, szövetkezet, társas vállalkozás, termelői csoport, termelői és értékesítési szövetkezet, beszerzési és értékesítési szövetkezet, szociális szövetkezet,
 
 b) legalább 20 hektár üzemi területtel rendelkező erdőgazdaság, vagy
 
@@ -74,7 +74,7 @@ c) a bemutató üzemi program lebonyolításához olyan szaktanácsadó közrem�
 
 a) aki, vagy amely mezőgazdasági vagy erdészeti tevékenységgel összefüggően használatos termékeket gyárt, forgalmaz, vagy az ilyen termékekkel ügynöki tevékenységet folytat;
 
-b)[^6] akit, vagy amelyet 2013. augusztus 26. napjáig jogerős határozatban az EMVA társfinanszírozásával nyújtott támogatásnak az intézkedésben való jogosulatlan részvétel szabályai szerinti visszafizetésére köteleztek, és a támogatási kérelem benyújtásáig e fennálló tartozása teljes mértékben nem került rendezésre;
+b)[^8] akit, vagy amelyet 2013. augusztus 26. napjáig jogerős határozatban az EMVA társfinanszírozásával nyújtott támogatásnak az intézkedésben való jogosulatlan részvétel szabályai szerinti visszafizetésére köteleztek, és a támogatási kérelem benyújtásáig e fennálló tartozása teljes mértékben nem került rendezésre;
 
 c) akinek, vagy amelynek az (1) bekezdés szerinti pályázat benyújtását megelőző
 
@@ -94,5 +94,6 @@ b) ha a Bemutató Üzemmel szemben a Mezőgazdasági és Vidékfejlesztési Hiva
 
 c) a (6) bekezdésben meghatározott körülmény fennállása esetén.
 
-[^5]: A 3. § (3) bekezdés a) pontja a 21/2015. (IV. 17.) MvM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § (6) bekezdés b) pontja az 1/2014. (IX. 15.) MvM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdése a 33/2015. (VII. 13.) MvM rendelet 13. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdés a) pontja a 21/2015. (IV. 17.) MvM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (6) bekezdés b) pontja az 1/2014. (IX. 15.) MvM rendelet 32. § (1) bekezdésével megállapított szöveg.
