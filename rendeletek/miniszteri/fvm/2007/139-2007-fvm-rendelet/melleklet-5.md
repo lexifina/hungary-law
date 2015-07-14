@@ -36,40 +36,40 @@
 
 | 1. | Baromfi megnevezése | Időszak | Támogatási keret (millió Ft) |
 
-| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | I. negyedév | 1 000 |
+| 2. | növendék csirke (vágócsirke) szabadtartásos csirke és gyöngyös | I. negyedév | 1 150 |
 
-| II. negyedév | 1 030 |
+| II. negyedév | 1 150 |
 
-| III. negyedév | 1 050 |
+| III. negyedév | 1 150 |
 
-| IV. negyedév | 1 000 |
+| IV. negyedév | 1 150 |
 
-| 3. | házi tyúk | I. negyedév | 110 |
+| 3. | házi tyúk | I. negyedév | 130 |
 
-| II. negyedév | 100 |
+| II. negyedév | 130 |
 
-| III. negyedév | 95 |
+| III. negyedév | 130 |
 
-| IV. negyedév | 95 |
+| IV. negyedév | 130 |
 
-| 4. | pecsenyeliba, növendék liba fiatal liba, hízott liba pecsenyekacsa, növendék kacsa, hízott kacsa | I. negyedév | 850 |
+| 4. | pecsenyeliba, növendék liba fiatal liba, hízott liba pecsenyekacsa, növendék kacsa, hízott kacsa | I. negyedév | 638,64 |
 
-| II. negyedév | 1 350 |
+| II. negyedév | 1037,88 |
 
-| III. negyedév | 1 300 |
+| III. negyedév | 1083,24 |
 
-| IV. negyedév | 1 050 |
+| IV. negyedév | 840,24 |
 
-| 5. | növendék pulyka | I. negyedév | 480 |
+| 5. | növendék pulyka | I. negyedév | 570 |
 
-| II. negyedév | 460 |
+| II. negyedév | 570 |
 
-| III. negyedév | 520 |
+| III. negyedév | 570 |
 
-| IV. negyedév | 510 |
+| IV. negyedév | 570 |
 
 | 6. | Összesen: |  | 11 000 |
 
-5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^83]
+5. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^87]
 
-[^83]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^87]: Az 5. számú mellékletet az 57/2009. (IV. 29.) FVM rendelet 7. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (3) bekezdésével megállapított szöveg.
