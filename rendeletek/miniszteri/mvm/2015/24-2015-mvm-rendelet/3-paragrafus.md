@@ -16,7 +16,7 @@ c) gazdálkodási tevékenysége fejlesztésére vonatkozó üzleti tervet, anna
 
 d) vállalja, hogy a működtetési időszaktól függetlenül, első alkalommal hoz létre gazdaságot és abban a gazdaság vezetőjeként gazdálkodik.
 
-(2) Az (1) bekezdés b) pontjában foglaltaktól eltérően támogatást vehet igénybe az is, aki az 1. és 2. mellékletekben felsoroltaktól eltérő szakképesítést szerzett, de a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet – mint az Új Magyarország Vidékfejlesztési Program megvalósulását segítő szakképzés felügyeletét ellátó szervezet – által kiadott állásfoglalással rendelkezik a támogatási kérelem benyújtásakor arra vonatkozóan, hogy szakképesítése megfeleltethető az 1. és 2. mellékletben szereplő szakképesítések valamelyikének.
+(2)[^1] Az (1) bekezdés b) pontjában foglaltaktól eltérően támogatást vehet igénybe az is, aki az 1. és 2. mellékletekben felsoroltaktól eltérő szakképesítést szerzett, de a Herman Ottó Intézet – mint az Új Magyarország Vidékfejlesztési Program megvalósulását segítő szakképzés felügyeletét ellátó szervezet – által kiadott állásfoglalással rendelkezik a támogatási kérelem benyújtásakor arra vonatkozóan, hogy szakképesítése megfeleltethető az 1. és 2. mellékletben szereplő szakképesítések valamelyikének.
 
 (3) Az (1) bekezdés b) pont bb) alpontjában meghatározott végzettséggel rendelkezőnek kell tekinteni azt a személyt is, aki a támogatási kérelem benyújtásakor rendelkezik olyan felsőoktatási intézmény által kiadott igazoló dokumentummal, amely tanúsítja, hogy a támogatási kérelmet benyújtó személy a 2. mellékletben meghatározott szakon végzett képzések legalább egyikének tekintetében sikeres záróvizsgát tett.
 
@@ -49,3 +49,5 @@ a) „A” Szakmai szempontok és „B” Horizontális szempontok rész érték
 b) „C” Pénzügyi terv rész értékelési szempontjai alapján kapott pontjai nem érik el a 4 pontot; vagy
 
 c) „D” Üzleti terv rész értékelési szempontjai alapján kapott pontjai nem érik el a 20 pontot.
+
+[^1]: A 3. § (2) bekezdése a 33/2015. (VII. 13.) MvM rendelet 16. §-a szerint módosított szöveg.
