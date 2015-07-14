@@ -37,3 +37,7 @@ c) a 34. § (1) bekezdés 10. pontja szerinti kiegészítő nemzeti támogatáso
 10. a 8. § (1) bekezdés c) pontja szerinti támogatási jogcím,
 
 11. a 8. § (1) bekezdés f) pontja szerinti támogatási jogcím.
+
+(7)[^2] Ha a (6) bekezdés 4–11. pontjában meghatározott jogcímeknél pótlólagos kifizetés történik, úgy az (5) bekezdés szerinti modulációs csökkentést a pótlólagos kifizetés terhére kell érvényesíteni.
+
+[^2]: A 35. § (7) bekezdését a 40/2015. (VII. 13.) FM rendelet 3. §-a iktatta be.

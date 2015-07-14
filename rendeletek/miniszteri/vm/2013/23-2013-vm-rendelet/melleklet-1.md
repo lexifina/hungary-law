@@ -1,4 +1,4 @@
-## 39. §[^1]
+## 39. §[^3]
 
 1. melléklet a 23/2013. (IV. 9.) VM rendelethez
 
@@ -132,4 +132,4 @@ akkor
 
 ÁNTFT=(ÁNTTÖ–(ÁNTCSM–(IÁNT+ÁNTETÖK)))
 
-[^1]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
