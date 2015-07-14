@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. § (1)[^4] A támogatási kérelmet 2012. szeptember 1-je és október 8-a 16 óra 30 perc között lehet benyújtani az MVH által rendszeresített formanyomtatványon elektronikus úton, ügyfélkapun keresztül az MVH-hoz.
+5. § (1)[^13] A támogatási kérelmet 2012. szeptember 1-je és október 8-a 16 óra 30 perc között lehet benyújtani az MVH által rendszeresített formanyomtatványon elektronikus úton, ügyfélkapun keresztül az MVH-hoz.
 
 (2) Az elektronikus formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresítenie:
 
@@ -16,7 +16,7 @@ e) az ügyfél üzemméretének számításához szükséges adatok hasznosítá
 
 f) az ügyfél nyilatkozata a kötelező képzés alól a 3. § (3) bekezdés b) pontja szerinti mentességéről, amennyiben valamelyik mentességi feltételnek megfelel;
 
-g) az ügyfél hozzájárulása ahhoz, hogy a támogatási eljárás lebonyolításához szükséges adatait az MVH a NAKVI részére átadja, és azokat a NAKVI kezelje.
+g)[^14] az ügyfél hozzájárulása ahhoz, hogy a támogatási eljárás lebonyolításához szükséges adatait az MVH a Herman Ottó Intézet részére átadja, és azokat a Herman Ottó Intézet kezelje.
 
 (3) Ha az ügyfél őstermelő, akkor az elektronikus támogatási kérelméhez szkennelt formában csatolni kell az érvényes mezőgazdasági őstermelői igazolványának a másolatát.
 
@@ -24,8 +24,10 @@ g) az ügyfél hozzájárulása ahhoz, hogy a támogatási eljárás lebonyolít
 
 (5) Amennyiben az ügyfél a (2) bekezdés f) pontja szerint nyilatkozott, úgy csatolnia kell a 3. § (3) bekezdés b) pontja szerinti mentességet igazoló okirat szkennelt másolatát.
 
-(6) Az MVH a támogatási kérelem benyújtására nyitva álló időszak után, a feldolgozást követően elektronikus formában átadja a beérkezett támogatási kérelmek adatait a NAKVI részére.
+(6)[^15] Az MVH a támogatási kérelem benyújtására nyitva álló időszak után, a feldolgozást követően elektronikus formában átadja a beérkezett támogatási kérelmek adatait a Herman Ottó Intézet részére.
 
 (7) A támogatási kérelem benyújtási időszakot követően hiánypótlásnak helye nincs.
 
-[^4]: Az 5. § (1) bekezdése a 104/2012. (X. 1.) VM rendelet 12. §-ával megállapított szöveg.
+[^13]: Az 5. § (1) bekezdése a 104/2012. (X. 1.) VM rendelet 12. §-ával megállapított szöveg.
+[^14]: Az 5. § (2) bekezdés g) pontja a 33/2015. (VII. 13.) MvM rendelet 10. § b) pontja szerint módosított szöveg.
+[^15]: Az 5. § (6) bekezdése a 33/2015. (VII. 13.) MvM rendelet 10. § b) pontja szerint módosított szöveg.
