@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-52-20-8
 | 2014-04-30 | 2007-52-20-82.20 | 32/2014. (IV. 3.) VM rendelet |
 | 2014-09-16 | 2007-52-20-82.21 | 1/2014. (IX. 15.) MvM rendelet |
 | 2015-02-17 | 2007-52-20-82.22 | 7/2015. (II. 17.) MvM rendelet |
+| 2015-07-14 | 2007-52-20-82.23 | 37/2017. (XII. 27.) MvM rendelet |

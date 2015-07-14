@@ -8,8 +8,8 @@ b) a közösségi jogszabályokon alapuló munkahelyi biztonsági előírások b
 
 c) a gazdálkodás összteljesítményének javítása.
 
-(2)[^9]
+(2)[^10]
 
 (3) A szaktanácsadási szolgáltatási jegyzéket az 1. számú melléklet tartalmazza. A szaktanácsadási szolgáltatásnak egyértelműen beazonosíthatónak kell lennie a szolgáltatási jegyzékben.
 
-[^9]: A 3. § (2) bekezdését a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
+[^10]: A 3. § (2) bekezdését a 96/2008. (VII. 25.) FVM rendelet 9. § (3) bekezdése hatályon kívül helyezte.
