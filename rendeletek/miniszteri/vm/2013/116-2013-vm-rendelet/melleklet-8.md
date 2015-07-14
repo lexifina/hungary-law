@@ -115,21 +115,3 @@
 | 8. |  | Egyéb egy és több tengelyes 2699 |  |  |  |
 
 8. melléklet a 116/2013. (XII. 12.) VM rendelethez
-
-Technológiai gépkapcsolat
-
-Magajáró gépek technológia fejlesztéséhez
-
-|  | A | B |
-
-| 1. | Alapgép | Technológiai kapcsolati lehetőségek |
-
-| 2. | Szálastakarmány-kaszálók 1214 | Rendsodrók, Rendkezelők, Rendterítők, Rendképzők, Rendlazítók, Rendforgatók 2453 | Gereblyék és egyéb szálastakarmány betakarító gépek 2459 | Bálázók (kisbálázók, hengeres bálázók, szögletes nagybálázók) 2456 |
-
-| 3. | Szecskázó gépek 1215 | Silózó adapterek 2424 | Rendfelszedő adapterek 2454 |
-
-| 4. | Homlokrakodó gépek 1911 | Rakodógépek munkaeszközei adapterei 2512 |
-
-| 5. | Forgórakodó gépek 1912 | Rakodógépek munkaeszközei adapterei 2512 |
-
-| 6. | Teleszkópos rakodógépek 1913 | Rakodógépek munkaeszközei adapterei 2512 |

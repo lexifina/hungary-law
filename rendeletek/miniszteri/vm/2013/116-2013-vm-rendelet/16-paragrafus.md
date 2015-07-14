@@ -1,4 +1,4 @@
-## 15/E. §[^44] Az Európai Mezőgazdasági Vidékfejlesztési Alap és az Európai Halászati Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 28/2015. (VI. 9.) MvM rendelettel [a továbbiakban: 28/2015. (VI. 9.) MvM rendelet] hatályon kívül helyezett rendelkezéseket a 28/2015. (VI. 9.) MvM rendelet hatálybalépésekor[^45] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban sem kell alkalmazni.
+## 15/F. §[^48] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeleteknek a Herman Ottó Intézet megalapításával összefüggő módosításáról szóló 33/2015. (VII. 13.) MvM rendelettel [a továbbiakban: 33/2015. (VII. 13.) MvM rendelet] megállapított 11. § (12)–(14) bekezdést és a 9. mellékletet a 33/2015. (VII. 13.) MvM rendelet hatálybalépésekor[^49] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^44]: A 15/E. §-t a 28/2015. (VI. 9.) MvM rendelet 91. §-a iktatta be.
-[^45]: A hatálybalépés időpontja 2015. június 10.
+[^48]: A 15/F. §-t (14) bekezdését a 33/2015. (VII. 13.) MvM rendelet 15. § (2) bekezdése iktatta be.
+[^49]: A hatálybalépés időpontja 2015. július 14.
