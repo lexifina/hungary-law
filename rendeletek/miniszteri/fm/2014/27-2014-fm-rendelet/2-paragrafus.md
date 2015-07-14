@@ -2,7 +2,7 @@
 
 2. § (1) A kárenyhítési hozzájárulás-fizetési kötelezettséget az agrárkár-enyhítési szerv minden évben a tárgyévet megelőző év november 1-jétől tárgyév október 31-ig terjedő kárenyhítési év vonatkozásában állapítja meg.
 
-(2) Az agrárkár-enyhítési szerv tárgyév július 15-éig határozatban értesíti a mezőgazdasági termelőt kárenyhítési hozzájárulás-fizetési kötelezettségének összegéről.
+(2)[^1] Az agrárkár-enyhítési szerv tárgyév július 22-ig határozatban értesíti a mezőgazdasági termelőt kárenyhítési hozzájárulás-fizetési kötelezettségének összegéről.
 
 (3) A kárenyhítési hozzájárulás-fizetési kötelezettség összege üzemi szinten
 
@@ -14,6 +14,10 @@ c) a 3. §-ban foglaltak
 
 figyelembevételével kerül meghatározásra.
 
-(4) Az agrárkár-enyhítési szerv a kárenyhítési hozzájárulás-fizetési kötelezettség mezőgazdasági termelőnkénti adatait tárgyév július 31-éig elektronikus úton elérhetővé teszi a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: mezőgazdasági igazgatási szerv) részére.
+(4)[^2] Az agrárkár-enyhítési szerv a kárenyhítési hozzájárulás-fizetési kötelezettség mezőgazdasági termelőnkénti adatait tárgyév augusztus 7-éig elektronikus úton elérhetővé teszi a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: mezőgazdasági igazgatási szerv) részére.
 
-(5) Az agrárkár-enyhítési szerv az Mkk. tv. 18. § (2) bekezdés a), c) és g) pontjában meghatározott adattartalmat tárgyév július 15-ig elektronikus úton elérhetővé teszi az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) számára.
+(5)[^3] Az agrárkár-enyhítési szerv az Mkk. tv. 18. § (2) bekezdés a), c) és g) pontjában meghatározott adattartalmat tárgyév július 22-ig elektronikus úton elérhetővé teszi az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) számára.
+
+[^1]: A 2. § (2) bekezdése a 40/2015. (VII. 13.) FM rendeet 7. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdése a 40/2015. (VII. 13.) FM rendeet 7. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (5) bekezdése a 40/2015. (VII. 13.) FM rendeet 7. § c) pontja szerint módosított szöveg.
