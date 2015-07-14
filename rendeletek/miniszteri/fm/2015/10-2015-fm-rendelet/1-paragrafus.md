@@ -12,7 +12,7 @@
 
 3. állandó gyepterület: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés h) pontja szerinti terület;
 
-4. állandó kultúra: az állandó gyepterülettől eltérő, a vetésforgón kívül termesztett növénykultúra, amely öt vagy öt évnél több ideig foglalja el a földterületet és ismétlődően termést hoz, ideértve a faiskolát, a rövid vágásfordulójú fás szárú energetikai ültetvényt, a fás szárú egyéb ültetvényeket, valamint a levendula, orvosi zsálya, kerti ruta, mezei cickafark, fehér üröm, kasvirág, évelő édeskömény, kerti kakukkfű, csipke, lósóska, szurokfű, törpe berkenye lágyszárú fajokat;
+4.[^1] állandó kultúra: az állandó gyepterülettől eltérő, a vetésforgón kívül termesztett növénykultúra, amely öt vagy öt évnél több ideig foglalja el a földterületet és ismétlődően termést hoz, ideértve a faiskolát, a rövid vágásfordulójú fás szárú energetikai ültetvényt, a fás szárú egyéb ültetvényeket, valamint a levendula, orvosi zsálya, kerti ruta, mezei cickafark, fehér üröm, kasvirág, évelő édeskömény, kerti kakukkfű, lósóska, szurokfű lágyszárú fajokat;
 
 5. egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló, tárgyévi miniszteri rendeletben meghatározott támogatási kérelem;
 
@@ -57,3 +57,5 @@
 25. vizesárok: öntözés vagy vízelvezetés céljára szolgáló mesterséges létesítmény és a hozzá tartozó legfeljebb két méter széles part menti földterület, amelynek együttes szélessége legfeljebb hat méter, kivéve a betonnal vagy egyéb mesterséges szilárd burkolattal ellátott csatornákat, műtárgyakat.
 
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az 50/2008. (IV. 24.) FVM rendelet szerinti fogalom-meghatározásokat kell figyelembe venni.
+
+[^1]: Az 1. § (1) bekezdés 4. pontja a 40/2015. (VII. 13.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.

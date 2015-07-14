@@ -20,10 +20,12 @@ f) erdőszélek mentén fekvő támogatható sáv;
 
 g) rövid vágásfordulójú fás szárú energetikai ültetvény;
 
-h) az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet és a Nemzeti Vidékfejlesztési Terv alapján az Európai Unió által társfinanszírozott mezőgazdasági területek erdősítéséhez nyújtott támogatás igénybevételének részletes szabályairól szóló 132/2004. (IX. 11.) FVM rendelet, valamint az 1305/2013/EU rendelet alapján erdősített terület (a továbbiakban: erdősített terület);
+h)[^8] az Európai Mezőgazdasági Vidékfejlesztési Alapból a mezőgazdasági területek erdősítéséhez nyújtandó támogatás igénybevételének részletes szabályairól szóló 88/2007. (VIII. 17.) FVM rendelet és az 1305/2013/EU rendelet alapján erdősített terület (a továbbiakban: erdősített terület);
 
 i) ökológiai jelentőségű másodvetés;
 
 j) nitrogénmegkötő növényekkel bevetett terület.
 
 (2) Az ökológiai jelentőségű terület típusát, minimális és maximális szélességét, kiterjedését, elhelyezkedését, az egységes kérelemben történő megjelenítésének módját, valamint az átváltási, és súlyozási tényezőket az 5. melléklet tartalmazza.
+
+[^8]: A 13. § (1) bekezdés h) pontja a 40/2015. (VII. 13.) FM rendelet 11. § (5) bekezdésével megállapított szöveg.

@@ -4,7 +4,7 @@
 
 (2) Az 1307/2013/EU rendelet 43. cikk (11) bekezdésének alkalmazása során a mezőgazdasági termelőnek
 
-a) a tárgyév június 9-én és szeptember 30-án meg kell felelnie a 34/2013. (V. 14.) VM rendeletben foglalt követelményeknek, valamint
+a)[^2] a tárgyév június 16-án és szeptember 30-án meg kell felelnie a 34/2013. (V. 14.) VM rendeletben foglalt követelményeknek, valamint
 
 b) rendelkeznie kell a 34/2013. (V. 14.) VM rendelet szerinti tanúsító szervezet által kiállított, az a) pontban foglaltakról szóló tanúsítvánnyal.
 
@@ -14,6 +14,7 @@ b) rendelkeznie kell a 34/2013. (V. 14.) VM rendelet szerinti tanúsító szerve
 
 (5) Ha egy, az e rendelet szerinti támogatással érintett földterület ökológiai tanúsítása megszüntetésre kerül, akkor a tanúsító szervezet a megszüntetést követő nyolc munkanapon belül megküldi az MVH-nak az érintett földterület és a mezőgazdasági termelő azonosító adatait.
 
-(6)[^1] Támogatás igénybevételére jogosult az a mezőgazdasági termelő is, aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy a támogatás feltételeinek egyébként megfelel.
+(6)[^3] Támogatás igénybevételére jogosult az a mezőgazdasági termelő is, aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy a támogatás feltételeinek egyébként megfelel.
 
-[^1]: A 3. § (6) bekezdését a 17/2015. (IV. 9.) FM rendelet 17. §-a iktatta be.
+[^2]: A 3. § (2) bekezdés a) pontja a 40/2015. (VII. 13.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^3]: A 3. § (6) bekezdését a 17/2015. (IV. 9.) FM rendelet 17. §-a iktatta be.

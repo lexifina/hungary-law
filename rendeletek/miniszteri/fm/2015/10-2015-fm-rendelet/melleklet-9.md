@@ -1,4 +1,4 @@
-9. melléklet a 10/2015. (III. 13.) FM rendelethez[^13]
+9. melléklet a 10/2015. (III. 13.) FM rendelethez[^24]
 
 Gazdálkodási napló formai és tartalmi követelményei
 
@@ -62,4 +62,4 @@ Dátum:
 
 Aláírás
 
-[^13]: A 9. melléklet a 23/2015. (V. 13.) FM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^24]: A 9. melléklet a 23/2015. (V. 13.) FM rendelet 10. § (5) bekezdésével megállapított szöveg.

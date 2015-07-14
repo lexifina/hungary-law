@@ -1,0 +1,1 @@
+## 27/A. § E rendeletnek az egyes agrártárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 13.) FM rendelettel [a továbbiakban: 23/2015. (V. 13.) FM rendelet] megállapított 7. § (2) bekezdését, 16. § (7) bekezdését és 9. mellékletét a 23/2015. (V. 13.) FM rendelet hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.

@@ -6,6 +6,6 @@
 
 a) a környezeti szempontból érzékeny állandó gyepterület engedély nélküli feltörése esetén, valamint
 
-b)[^2] olyan, a IV. Fejezet szerinti ökológiai jelentőségű terület vonatkozásában, amely nem a mezőgazdasági termelő tulajdonában vagy használatában van, hanem az a mezőgazdasági termelő rendelkezésére áll a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 79/B. § (1) bekezdésében foglaltak szerint.
+b)[^4] olyan, a IV. Fejezet szerinti ökológiai jelentőségű terület vonatkozásában, amely nem a mezőgazdasági termelő tulajdonában vagy használatában van, hanem az a mezőgazdasági termelő rendelkezésére áll a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 79/B. § (1) bekezdésében foglaltak szerint.
 
-[^2]: Az 5. § b) pontja a 12/2015. (III. 30.) FM rendelet 32. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 5. § b) pontja a 12/2015. (III. 30.) FM rendelet 32. § (3) bekezdés a) pontja szerint módosított szöveg.
