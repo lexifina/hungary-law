@@ -1,6 +1,6 @@
-4. § (1)–(2)[^4]
+4. § (1)–(2)[^5]
 
-(3)–(4)[^5]
+(3)–(4)[^6]
 
 (5) Az ügyfél köteles:
 
@@ -16,5 +16,5 @@ c) az üzemeltetési kötelezettség időtartamának egésze alatt, illetve indu
 
 (8) A művelet e rendelet hatálybalépésének időpontjától az ügyfél saját felelősségére megkezdhető.
 
-[^4]: A 4. § (1)–(2) bekezdését a 28/2015. (VI. 9.) MvM rendelet 79. § b) pontja hatályon kívül helyezte.
-[^5]: A 4. § (3)–(4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 31. §-a hatályon kívül helyezte.
+[^5]: A 4. § (1)–(2) bekezdését a 28/2015. (VI. 9.) MvM rendelet 79. § b) pontja hatályon kívül helyezte.
+[^6]: A 4. § (3)–(4) bekezdését az 1/2014. (IX. 15.) MvM rendelet 31. §-a hatályon kívül helyezte.

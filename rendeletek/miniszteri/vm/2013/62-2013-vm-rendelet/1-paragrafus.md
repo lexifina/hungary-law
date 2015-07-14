@@ -12,6 +12,6 @@
 
 (2) E rendeletben nem szabályozott fogalmakat a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény) és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltaknak megfelelően kell értelmezni.
 
-(3)[^1] E rendelet vonatkozásában nem alkalmazandóak a Vhr. 7. § (1) bekezdés b) pontjában, 7. § (2) bekezdésében, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 16/B. § (2) bekezdésében, 17. § (2)–(4) bekezdéseiben, 25. § (2) bekezdésében, 27. § (1) bekezdés e)–f) pontjaiban, 31. §-ában, 33. § (4) bekezdésében, valamint 35. § (5) bekezdésében foglalt rendelkezések.
+(3)[^2] E rendelet vonatkozásában nem alkalmazandóak a Vhr. 7. § (1) bekezdés b) pontjában, 7. § (2) bekezdésében, 8. § (2) bekezdésében, 9. § (2) bekezdésében, 12. § (4) bekezdésében, 16/B. § (2) bekezdésében, 17. § (2)–(4) bekezdéseiben, 25. § (2) bekezdésében, 27. § (1) bekezdés e)–f) pontjaiban, 31. §-ában, 33. § (4) bekezdésében, valamint 35. § (5) bekezdésében foglalt rendelkezések.
 
-[^1]: Az 1. § (3) bekezdése a 28/2015. (VI. 9.) MvM rendelet 79. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 28/2015. (VI. 9.) MvM rendelet 79. § a) pontja szerint módosított szöveg.
