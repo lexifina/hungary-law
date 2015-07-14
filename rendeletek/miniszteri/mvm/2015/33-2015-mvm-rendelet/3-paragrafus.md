@@ -1,0 +1,3 @@
+## lép.
+
+## 2. Az Európai Mezőgazdasági Vidékfejlesztési Alapból a szaktanácsadási szolgáltatások igénybevételéhez nyújtandó támogatások részletes feltételeiről szóló 52/2007. (VI. 28.) FVM rendelet módosítása
