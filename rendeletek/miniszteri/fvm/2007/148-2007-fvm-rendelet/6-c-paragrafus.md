@@ -1,6 +1,6 @@
-## 6/B. §[^39]
+## 6/B. §[^51]
 
-## Ellenőrzés[^40]
+## Ellenőrzés[^52]
 
-[^39]: A 6/B. §-t a 23/2011. (III. 28.) VM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § d) pontja.
-[^40]: A 6/C. §-t megelőző alcímet a 23/2011. (III. 28.) VM rendelet 7. §-a iktatta be.
+[^51]: A 6/B. §-t a 23/2011. (III. 28.) VM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § d) pontja.
+[^52]: A 6/C. §-t megelőző alcímet a 23/2011. (III. 28.) VM rendelet 7. §-a iktatta be.

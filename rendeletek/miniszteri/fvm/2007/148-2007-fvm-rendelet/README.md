@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-
 | 2014-12-17 | 2007-148-20-82.21 | 77/2012. (VII. 27.) VM rendelet |
 | 2015-01-01 | 2007-148-20-82.22 | 24/2014. (XI. 6.) FM rendelet |
 | 2015-05-14 | 2007-148-20-82.23 | 23/2015. (V. 13.) FM rendelet |
+| 2015-07-14 | 2007-148-20-82.24 | 40/2015. (VII. 13.) FM rendelet |

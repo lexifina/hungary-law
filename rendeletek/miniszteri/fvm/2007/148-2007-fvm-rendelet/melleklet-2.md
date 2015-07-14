@@ -10,7 +10,7 @@
 
 | 5. | A003 | Enzootiás szarvasmarha- leukózis | szarvasmarha | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
-| 6. | B002 | IBR/IPV | szarvasmarha | Immunizálás: 700 Ft/egyed/alkalom Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa, VN: 1120 Ft PCR: 5500 Ft |
+| 6. | B002 | IBR/IPV | szarvasmarha | Immunizálás: Kislétszámú állattartó telep: 1400 Ft/egyed/alkalom Nagylétszámú állattartó telep: 400 Ft/egyed/alkalom Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa, VN: 1120 Ft PCR: 5500 Ft |
 
 | 7. | A004 | Juh/Kecske Brucellózis (Brucella melitensis) | juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft, |
 
@@ -28,7 +28,7 @@
 
 | 14. | A007 | Madárinfluenza | valamennyi madárfaj | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–100. egyed: 140 Ft minden további egyed: 28 Ft Laboratóriumi diagnosztikai vizsgálat: HAG próba: 840 Ft RT PCR: 5500 Ft |
 
-| 15. | B007 | Kéknyelv betegség | szarvasmarha, juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikái vizsgálat: Elisa: 1260 Ft, PCR: 5500 Ft |
+| 15. | B007 | Kéknyelv betegség | szarvasmarha, juh, kecske | Immunizálás: Kislétszámú állattartó telep: 1400 Ft/egyed/alkalom Nagylétszámú állattartó telep: 400 Ft/egyed/alkalom Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa: 1260 Ft, PCR: 5500 Ft |
 
 | 16. | B008 | Paratuberkulózis | szarvasmarha | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1500 Ft |
 
@@ -68,7 +68,7 @@
 
 | 34. | F005 | Juh/Kecske Brucellózis (Brucella ovis) | juh, kecske (tenyészkos/-bak) | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1400 Ft |
 
-| 35. | F006 | Lépfene | ló, szarvasmarha, juh, kecske, sertés | Immunizálás: 700 Ft/egyed/alkalom |
+| 35. | F006 | Lépfene | ló, szarvasmarha, juh, kecske | Immunizálás: Kislétszámú állattartó telep: 1400 Ft/egyed/alkalom Nagylétszámú állattartó telep: 400 Ft/egyed/alkalom |
 
 ## * Egy vizsgálatnak 1 minta vagy gyűjtőminta vizsgálata számít, ahány szalmonella dúsítás történik, annyiszor 6300 Ft számolható el a szalmonella kimutatásra (napos állatokból 5 állat vizsgálata=1 minta=6300 Ft).
 
@@ -82,7 +82,7 @@
 
 ## Mintavételi eljárások esetében, amennyiben az állatokat többféle betegség kapcsán szeretnék bevizsgálni, azt csak egyszeri vérvétellel lehet megtenni (többszörös vérvétel nem számolható el).
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^60]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^73]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -98,9 +98,15 @@
 
 1.5. felelős vezető neve és telefonszáma,
 
-1.6. felelős ügyintéző neve és telefonszáma.
+1.6. érintett telephely(ek) megnevezése,
 
-2. A kis- és középvállalkozás meghatározásához szükséges adatok:
+1.7. a .... évben igénybe venni tervezett szolgáltatások megjelölése,
+
+1.8. a .... évben igénybe venni tervezett szolgáltatásokhoz kapcsolódó támogatások összege,
+
+1.9. felelős ügyintéző neve és telefonszáma.
+
+2. A mikro-, kis- és középvállalkozás meghatározásához szükséges adatok:
 
 (előző évi beszámoló/bevallás alapján, illetve újonnan alakult vállalkozások esetében tervezett)
 
@@ -130,7 +136,7 @@
 
 4.3. arról, hogy valamennyi állat-egészségügyi nyilvántartásba vételi, nyilvántartási és adatszolgáltatási kötelezettségnek eleget tett;
 
-4.4. arról, hogy a mentesítési programok esetében az állatállományára az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által jóváhagyott mentesítési programtól nem tér el;
+4.4. arról, hogy a mentesítési programok esetében az állatállományára a megyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
 
 4.5. arról, hogy az állat-egészségügyi szolgáltatást az arra engedéllyel, illetve akkreditációval, valamint ügyfél-azonosítóval rendelkező személlyel, szervvel, illetve intézménnyel végezteti el;
 
@@ -144,4 +150,4 @@
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^60]: A 2. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés b) pontjával megállapított szöveg.
+[^73]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.

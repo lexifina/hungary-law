@@ -1,4 +1,4 @@
-5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^64]
+5. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^76]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján vágóhídra szállított baromfilétszámra vonatkozóan
 
@@ -12,24 +12,18 @@
 
 5. Állatfaj:
 
-6. Nyilatkozat arról, hogy
+6. A tárgyidőszakban a vágóhídra szállított baromfik darab száma összesen:
 
-6.1. az alábbi táblázatban szereplő adatok megegyeznek a valósággal és erről a kedvezményezett és az engedélyes is büntetőjogi felelőssége tudatában nyilatkozik,
+7. Szállítólevelek sorszámai:
 
-6.2. külföldre szállítás esetében az állatok felhasználási célja vágás,
+8. Nyilatkozat arról, hogy
 
-6.3. a …. számú számlán szereplő szolgáltatás teljesítése megtörtént.
+8.1. külföldre szállítás esetében az állatok felhasználási célja vágás,
 
-| A | B | C | D |
+8.2. a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás teljesítése megtörtént,
 
-| Sorszám | Vágóhídra beérkezett baromfik száma (db) | Szállítmány indításának napja | Szállítólevél sorszáma |
+8.3 a 7. pontban feltüntetett szállítólevelek megküldésre kerültek az Országos Adatbázis (Nemzeti Élelmiszerlánc-biztonsági Hivatal Állattenyésztési Igazgatóság, 1024 Budapest, Keleti Károly utca 24.) részére.
 
-| 1. |  |  |  |
+9. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-| 2. |  |  |  |
-
-| … |  |  |  |
-
-7. Keltezés, a kedvezményezett és az engedélyes aláírása
-
-[^64]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés e) pontjával megállapított szöveg.
+[^76]: Az 5. számú mellékletet a 23/2011. (III. 28.) VM rendelet 11. § (4) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés d) pontjável megállapított szöveg.

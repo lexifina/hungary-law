@@ -14,23 +14,19 @@
 
 ## 3.2. ügyfél-azonosító,
 
-## 3.3. mikro-, kis- vagy középvállalkozás megjelölése,
+## 3.3. jogosultságát megállapító megyei kormányhivatal igazolás száma,
 
-## 3.4. jogosultságát megállapító élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolás száma,
+## 3.4. az elvégzett szolgáltatás 1. számú melléklet szerinti technikai kódja,
 
-## 3.5. az elvégzett szolgáltatás 1. számú melléklet szerinti technikai kódja,
+## 3.5. a kiállított számla teljesítésének dátuma,
 
-## 3.6. a kiállított számla száma,
+## 3.7. a kiállított számla száma,
 
-## 3.7. a számlán feltüntetett támogatható nettó költség.
+## 3.8. a számlán feltüntetett támogatható nettó költség.
 
 ## 4. Igényelt támogatás összege forintban
 
-## 5. Nyilatkozatok:
-
-## 5.1. Nyilatkozat arról, hogy a kérelmező rendelkezik az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a Magyar Állatorvosi Kamara engedélyével, valamint a 148/2007. (XII. 8.) FVM rendelet 1. számú melléklet szerinti állat-egészségügyi szolgáltatás elvégzésére engedéllyel, laboratórium esetében akkreditációval, vagy jogszabályi felhatalmazással.
-
-## 5.2. Nyilatkozat arról, miszerint a kérelmező tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a 2007. évi XVII. törvény 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számláját vezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni. A kérelmező tudomásul veszi, hogy e nyilatkozat hiányában a kérelmet az MVH a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasítja.
+## 5. Nyilatkozatok
 
 ## 6. Keltezés, a támogatott állat-egészségügyi szolgáltatást végző engedélyes aláírása
 
@@ -40,13 +36,13 @@
 
 ## 7.2. Sertés állatfaj (tenyészkoca) kivételével az engedélyesnek az 1. számú mellékletben C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás igényléséhez baromfi állatfaj esetében az 5. számú melléklet, szarvasmarha állatfaj esetében a 6. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és az MVH honlapján közzétett nyilatkozatot kell csatolnia.
 
-## 7.3.[^62] A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez a 4. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
+## 7.3. A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez a 4. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
 
-## 8. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság igazolása a támogatási kérelemben megjelölt engedélyes által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a jogosult támogatási összeg megjelöléséről, illetve a támogatási kérelem postai úton történő beküldésének időpontjáról.
+## 8. A megyei kormányhivatal igazolása a támogatási kérelemben megjelölt engedélyes és kedvezményezett(ek) által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a támogatási kérelem postai úton történő beküldésének időpontjáról.
 
-## 9. Keltezés, a kedvezményezett telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgató főállatorvos (cégszerű) aláírása
+## 9. Keltezés, a kedvezményezett telephelye szerint illetékes megyei kormányhivatal főállatorvosának (cégszerű) aláírása.
 
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^63]
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^75]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján tenyészsertés állományokban lévő tenyészállatok számára vonatkozó igazolás adattartalma
 
@@ -72,5 +68,4 @@
 
 6. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^62]: A 3. számú melléklet 7.3. pontja a 32/2014. (XII. 9.) FM rendelet 6. § b) pontja szerint módosított szöveg.
-[^63]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
+[^75]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.

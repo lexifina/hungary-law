@@ -1,4 +1,4 @@
-6. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^65]
+6. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^77]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján vágóhídra szállított szarvasmarha létszámra vonatkozóan
 
@@ -10,26 +10,24 @@
 
 4. Tenyészetkód
 
-5. Nyilatkozat arról, hogy
+5. A tárgyidőszakban a vágóhídra szállított szarvasmarhák darab száma összesen:
 
-5.1. az alábbi táblázatban szereplő adatok megegyeznek a valósággal és erről a kedvezményezett és az engedélyes is büntetőjogi felelőssége tudatában nyilatkozik,
+Ebből korcsoportként:
 
-5.2. külföldre szállítás esetében az állatok felhasználási célja vágás,
+5.1. 0–6 hónap korú szarvasmarhák darab száma összesen:
 
-5.3. a …. számú számlán szereplő szolgáltatás teljesítése megtörtént.
+5.2. 6–24 hónap korú szarvasmarhák darab száma összesen:
 
-| A | B | C | D |
+5.3. 24 hónap feletti korú szarvasmarhák darab száma összesen:
 
-| Sorszám | A kedvezményezett telephelyéről történő kikerülés napja | Vágóhídra beérkezett szarvasmarhák száma életkortól függően (db) | Szállítás típusa (belföldi/külföldi) |
+6. Nyilatkozat arról, hogy
 
-| 0–6 hónap | 6–24 hónap | 24 hónap felett |  |
+6.1. az 5. pontban feltüntetett szarvasmarhák vágóhídra történő szállítása az ENAR-ba bejelentésre került,
 
-| 1. |  |  |  |  |  |
+6.2. külföldre szállítás esetében az állatok felhasználási célja vágás,
 
-| 2. |  |  |  |  |  |
+6.3. a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás teljesítése megtörtént.
 
-| … |  |  |  |  |  |
+7. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-6. Keltezés, a kedvezményezett és az engedélyes aláírása
-
-[^65]: A 6. számú mellékletet a 24/2014. (XI. 6.) FM rendelet 9. § (2) bekezdése iktatta be.
+[^77]: A 6. számú mellékletet a 24/2014. (XI. 6.) FM rendelet 9. § (2) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés e) pontjável megállapított szöveg.
