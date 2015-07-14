@@ -1,8 +1,8 @@
-## 15. §[^23] Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-je előtt nyílt meg.
+## 15. §[^24] Ahol e rendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-je előtt nyílt meg.
 
 1. melléklet az 57/2012. (VI. 21.) VM rendelethez
 
-Mezőgazdasági termeléssel összefüggő szakképesítések
+## Mezőgazdasági termeléssel összefüggő szakképesítések
 
 1. Elfogadható szakképesítések az Országos Képzési Jegyzékről szóló 7/1993. (XII. 30.) MüM rendelet alapján
 
@@ -706,4 +706,4 @@ Mezőgazdasági termeléssel összefüggő szakképesítések
 
 | Szakmunkás bizonyítvány alapján: | Szakmunkás |
 
-[^23]: A 15. §-t a 7/2015. (II. 17.) MvM rendelet 58. § (6) bekezdése iktatta be.
+[^24]: A 15. §-t a 7/2015. (II. 17.) MvM rendelet 58. § (6) bekezdése iktatta be.

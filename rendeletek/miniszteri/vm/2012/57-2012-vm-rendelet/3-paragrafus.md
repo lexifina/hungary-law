@@ -24,7 +24,7 @@ cc) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvé
 
 d) gazdálkodási tevékenysége fejlesztésére vonatkozó üzleti tervet, annak részét képező SFH-betétlapot és pénzügyi tervet nyújt be.
 
-(2) Amennyiben a támogatás igénylője az 1. mellékletben felsoroltaktól eltérő szakképesítést szerzett, abban az esetben a Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézet által kiadott állásfoglalással kell rendelkeznie a támogatási kérelem benyújtásakor arra vonatkozóan, hogy szakképesítése megfeleltethető az 1. mellékletben szereplő szakképesítések valamelyikének.
+(2)[^3] Amennyiben a támogatás igénylője az 1. mellékletben felsoroltaktól eltérő szakképesítést szerzett, abban az esetben a Herman Ottó Intézet által kiadott állásfoglalással kell rendelkeznie a támogatási kérelem benyújtásakor arra vonatkozóan, hogy szakképesítése megfeleltethető az 1. mellékletben szereplő szakképesítések valamelyikének.
 
 (3) Az (1) bekezdés c) pont cb) alpontjában meghatározott végzettséggel rendelkezőnek kell tekinteni azt a személyt is, aki a támogatási kérelem benyújtásakor rendelkezik olyan felsőoktatási intézmény által kiadott igazoló dokumentummal, amely tanúsítja, hogy a támogatási kérelmet benyújtó személy a 2. mellékletben meghatározott szakon végzett képzések legalább egyikének tekintetében sikeres záróvizsgát tett.
 
@@ -45,3 +45,5 @@ a) táblázat „A” Szakmai szempontok és „B” Horizontális szempontok r�
 b) táblázat „C” Pénzügyi terv rész értékelési szempontjai alapján kapott pontjai nem érik el a 4 pontot,
 
 c) táblázat „D” Üzleti terv rész értékelési szempontjai alapján kapott pontjai nem érik el a 20 pontot.
+
+[^3]: A 3. § (2) bekezdése a 33/2015. (VII. 13.) MvM rendelet 9. §-a szerint módosított szöveg.
