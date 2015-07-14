@@ -2,17 +2,17 @@
 
 23. § (1) A beruházási támogatásokra az alábbi feltételeknek is teljesülniük kell:
 
-a)[^142] a beruházás megvalósításának, üzemeltetésének helye Magyarország;
+a)[^144] a beruházás megvalósításának, üzemeltetésének helye Magyarország;
 
-b)[^143] az R. 72. cikk (1) bekezdésével összhangban a támogatott beruházást, létesítményt, eszközt, megvalósított, felújított, korszerűsített létesítményt rendeltetésének megfelelően, a vonatkozó engedélyek és előírások betartásával kell használni, üzemeltetni (a továbbiakban: üzemeltetési kötelezettség). Az üzemeltetési kötelezettség a támogatási határozat közlésével kezdődik és az utolsó kifizetési határozat közlésétől számított 5 évig áll fenn.
+b)[^145] az R. 72. cikk (1) bekezdésével összhangban a támogatott beruházást, létesítményt, eszközt, megvalósított, felújított, korszerűsített létesítményt rendeltetésének megfelelően, a vonatkozó engedélyek és előírások betartásával kell használni, üzemeltetni (a továbbiakban: üzemeltetési kötelezettség). Az üzemeltetési kötelezettség a támogatási határozat közlésével kezdődik és az utolsó kifizetési határozat közlésétől számított 5 évig áll fenn.
 
-c)[^144] az üzemeltetési kötelezettség időtartama alatt a beruházás tárgya – a 10. §-ban foglalt kivétellel – nem idegeníthető el és nem adható bérbe, de jótállás alapján történő csere, amortizáció, lopás, működésképtelenné, használhatatlanná válás esetén a beruházás tárgya az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon történő bejelentést követően – a bejelentés alapjául szolgáló igazoló dokumentumokat mellékelve – saját forrásból lecserélhető.
+c)[^146] az üzemeltetési kötelezettség időtartama alatt a beruházás tárgya – a 10. §-ban foglalt kivétellel – nem idegeníthető el és nem adható bérbe, de jótállás alapján történő csere, amortizáció, lopás, működésképtelenné, használhatatlanná válás esetén a beruházás tárgya az MVH által rendszeresített és az MVH honlapján közzétett formanyomtatványon történő bejelentést követően – a bejelentés alapjául szolgáló igazoló dokumentumokat mellékelve – saját forrásból lecserélhető.
 
 d) ügyfélnek az üzemeltetési kötelezettség idejére rendelkeznie kell a támogatással megvalósuló létesítmény üzemeltetésének lehetőségét biztosító kizárólagos joggal;
 
-e)[^145] a támogatással érintett ingatlannak a támogatási kérelem benyújtásakor per- és igénymentesnek kell lennie. Ettől eltérően a támogatással érintett ingatlant elővásárlási jog, az önkormányzatokat megillető visszavásárlási jog, a banki jelzálogjoghoz kapcsolódó vételi jog terhelheti.
+e)[^147] a támogatással érintett ingatlannak a támogatási kérelem benyújtásakor per- és igénymentesnek kell lennie. Ettől eltérően a támogatással érintett ingatlant elővásárlási jog, az önkormányzatokat megillető visszavásárlási jog, a banki jelzálogjoghoz kapcsolódó vételi jog terhelheti.
 
-(2)[^146] Az (1) bekezdés c) pontja szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
+(2)[^148] Az (1) bekezdés c) pontja szerinti formanyomtatványt a következő adattartalommal kell az MVH-nak rendszeresíteni:
 
 a) a támogatási és a kifizetési határozat iratazonosítója,
 
@@ -26,14 +26,14 @@ e) az ügyfél aláírása.
 
 (3) Az (1) bekezdés d) pontja alól kivételt jelent, ha a beruházás közműcsatlakozás létesítésére irányul.
 
-(4)[^147]
+(4)[^149]
 
-(5)[^148] Nem mezőgazdasági beruházás esetén nem vehető igénybe támogatás a szintentartást szolgáló eszköz beszerzéséhez.
+(5)[^150] Nem mezőgazdasági beruházás esetén nem vehető igénybe támogatás a szintentartást szolgáló eszköz beszerzéséhez.
 
-[^142]: A 23. § (1) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 27. §-a szerint módosított szöveg.
-[^143]: A 23. § (1) bekezdés b) pontja a 124/2011. (XII. 21.) VM rendelet 16. §-ával megállapított szöveg.
-[^144]: A 23. § (1) bekezdés c) pontja a 23/2010. (III. 16.) FVM rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^145]: A 23. § (1) bekezdésének e) pontja az 51/2009. (IV. 16.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
-[^146]: A 23. § (2) bekezdését a 97/2008. (VII. 25.) FVM rendelet 21. § (3) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 23/2010. (III. 16.) FVM rendelet 2. § (6) bekezdése iktatta be.
-[^147]: A 23. § (4) bekezdését a 81/2007. (VIII. 3.) FVM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 124/2011. (XII. 21.) VM rendelet 35. § (1) bekezdés e) pontja.
-[^148]: A 23. § (5) bekezdését a 81/2007. (VIII. 3.) FVM rendelet 7. §-a iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
+[^144]: A 23. § (1) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 27. §-a szerint módosított szöveg.
+[^145]: A 23. § (1) bekezdés b) pontja a 124/2011. (XII. 21.) VM rendelet 16. §-ával megállapított szöveg.
+[^146]: A 23. § (1) bekezdés c) pontja a 23/2010. (III. 16.) FVM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^147]: A 23. § (1) bekezdésének e) pontja az 51/2009. (IV. 16.) FVM rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
+[^148]: A 23. § (2) bekezdését a 97/2008. (VII. 25.) FVM rendelet 21. § (3) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 23/2010. (III. 16.) FVM rendelet 2. § (6) bekezdése iktatta be.
+[^149]: A 23. § (4) bekezdését a 81/2007. (VIII. 3.) FVM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 124/2011. (XII. 21.) VM rendelet 35. § (1) bekezdés e) pontja.
+[^150]: A 23. § (5) bekezdését a 81/2007. (VIII. 3.) FVM rendelet 7. §-a iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
