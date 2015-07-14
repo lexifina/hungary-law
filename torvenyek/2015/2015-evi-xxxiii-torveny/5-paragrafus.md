@@ -1,4 +1,4 @@
-5. § (1) A beruházás területére vonatkozó sajátos településrendezési követelmények, illetve és az építési övezetre előírt határértékek a Budapest XIII. kerület 25879 helyrajzi számú ingatlan (a továbbiakban: létesítményfejlesztési ingatlan) tekintetében a következők:
+5. § (1) A beruházás területére vonatkozó sajátos településrendezési követelmények, illetve az építési övezetre előírt határértékek a Budapest XIII. kerület 25879 helyrajzi számú ingatlan (a továbbiakban: létesítményfejlesztési ingatlan) tekintetében a következők, azzal, hogy a 8. § szerinti ideiglenes lelátókat ezek meghatározásakor nem kell figyelembe venni:
 
 a) a megengedett legnagyobb beépítettség mértéke 35 százalék,
 
@@ -26,6 +26,6 @@ A beruházás tekintetében további gépjármű elhelyezési kötelezettséget 
 
 (6) A beruházással összefüggésben a kulturális örökség védelmére és az azzal összefüggő közigazgatási hatósági eljárásra jogszabály további eltéréseket állapíthat meg.
 
-(7) A létesítményfejlesztési ingatlanon a bontás, a létesítményfejlesztési ingatlanon létesítendő épület tekintetében a földmunka és a mélyalapozás építési engedély nélkül végezhető építési tevékenység.
+(7) A beruházással érintett ingatlanokon a bontás, a földmunka, a mélyalapozás és az alaplemez készítés építési engedély nélkül, bontás tudomásulvétele nélkül, illetve bontási tevékenység megkezdésének tudomásulvétele nélkül végezhető építési tevékenység.
 
 (8) A beruházás keretében a létesítményfejlesztési ingatlanon létesítendő épület tekintetében oltóvízként abban az esetben kell figyelembe venni az épület részeként elkészülő medencékben a rendeltetésszerű működtetés során rendelkezésre álló vízmennyiséget, ha a medencék tekintetében a tűzoltói beavatkozás lehetősége biztosított.

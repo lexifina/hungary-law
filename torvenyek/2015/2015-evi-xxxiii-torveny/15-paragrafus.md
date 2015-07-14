@@ -14,7 +14,7 @@ cc) létesítésének, elbontásának szabályait,
 
 cd) használatával lebonyolítandó verseny megrendezésével összefüggésben a dunai hajózás korlátozásának, illetve hajózási zárlat elrendelésének, továbbá a vízi rendezvény engedélyezésének szabályait,
 
-d) a beruházással kapcsolatos további beépítési szabályokat, és a beruházással kapcsolatos közigazgatási hatósági eljárások további sajátos szabályait,
+d) a beruházással kapcsolatos további beépítési szabályokat, és a beruházással kapcsolatos közigazgatási hatósági eljárások további sajátos szabályait, ide nem értve az ideiglenes lelátók létesítésével és bontásával kapcsolatos eljárásokat,
 
 e) a létesítményfejlesztési ingatlannal kapcsolatos további építési követelményeket,
 
@@ -24,4 +24,4 @@ rendelettel állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a 8. § (1) bekezdésében meghatározott ideiglenes lelátók létesítésének és bontásának feltételeit rendeletben szabályozza.
+(2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy a 8. § (1) bekezdésében meghatározott ideiglenes lelátók létesítésére és bontására irányuló engedélyezési eljárás részletes szabályait, a tűzvédelmi és a katasztrófavédelmi követelményeket rendeletben szabályozza.
