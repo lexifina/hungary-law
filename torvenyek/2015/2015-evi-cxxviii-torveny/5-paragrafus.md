@@ -1,3 +1,0 @@
-5. § Az MFB tv. 10/B. §-a helyébe a következő rendelkezés lép:
-
-„10/B. § A Hpt. 159. §-a, 161. §-a és a Ptk. 2:47. § (1) bekezdése szerinti titoktartási kötelezettség nem terjed ki – a Hpt. 159. § (3) bekezdésében és 161. § (2) bekezdésében meghatározottakon túlmenően – az MFB Zrt. és a Szövetkezeti Hitelintézetek Integrációs Szervezete (a továbbiakban: Integrációs Szervezet) által a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium részére, illetve az 1. mellékletben meghatározott és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek által, valamint az Integrációs Szervezet tagjai által az MFB Zrt. részére adott adatszolgáltatásra.”
