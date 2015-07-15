@@ -1,3 +1,0 @@
-## 3. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból a szaktanácsadási szolgáltatások igénybevételéhez nyújtandó támogatások részletes feltételeiről szóló 52/2007. (VI. 28.) FVM rendelet 9. § (4) bekezdésében a „Nemzeti Agrárszaktanácsadási, Képzési és Vidékfejlesztési Intézettől” szövegrész helyébe a „Herman Ottó Intézettől” szöveg lép.
-
-## 3. Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet 59. cikke szerinti készségek elsajátítására, ösztönzésére és végrehajtására igénybe vehető támogatás részletes feltételeiről szóló 79/2007. (VII. 30.) FVM rendelet módosítása
