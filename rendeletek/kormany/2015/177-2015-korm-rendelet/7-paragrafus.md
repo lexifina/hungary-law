@@ -1,3 +1,7 @@
+## „i) a körzeti erdőtervezés keretében elvégzi az erdőgazdálkodás Natura 2000 területére gyakorolt hatásainak vizsgálatát;
+
+## j) ellátja mindazokat a feladatokat, amelyeket jogszabály a feladatkörébe utal.”
+
 ## 7. Záró rendelkezések
 
 7. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
