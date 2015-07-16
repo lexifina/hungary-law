@@ -10,11 +10,11 @@ a) a tervezett bontási munka kielégíti-e a vonatkozó biztonsági, környezet
 
 b) a tervezőként megjelölt személy rendelkezik-e a terv elkészítéséhez szükséges szakirányú tervezési jogosultsággal.
 
-(4) A bontási engedély a jogerőre emelkedésétől számított egy évig hatályos. Amennyiben az építmény bontására a 16. § (7) bekezdése alapján kerül sor, az engedély hatálya egy évnél rövidebb is lehet. A bontási munkát az engedély hatályának lejártáig be kell fejezni.
+(4)[^37] A bontási engedély a jogerőre emelkedésétől számított egy évig hatályos. A bontási munkát az engedély hatályának lejártáig be kell fejezni.
 
 (5) Az építtetőnek a bontási tevékenység befejezését a befejezéstől számított tizenöt napon belül közölnie kell a Hatósággal.
 
-(6) Amennyiben a Hatóság megállapítja, hogy a bontásra kötelezett a bontási engedély hatálya alatt a bontást nem végezte el, bírságot szab ki.
+(6)[^38]
 
 (7) A határozat az építési engedélyezési eljárás során hozott döntés vonatkozó tartalmi elemein kívül tartalmazza
 
@@ -41,3 +41,6 @@ ba) az építtetővel,
 bb) a BM Országos Katasztrófavédelmi Főigazgatóság illetékes területi szervével.
 
 (9) Ha a Hatóság megállapítja, hogy a bontási tevékenységet jogszerűtlenül végezték, bírságot szab ki.
+
+[^37]: A 17. § (4) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^38]: A 17. § (6) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.

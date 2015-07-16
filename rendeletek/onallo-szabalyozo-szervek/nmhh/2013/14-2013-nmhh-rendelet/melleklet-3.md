@@ -14,4 +14,6 @@
 
 ## 5. Az antenna és a vele távközlési kapcsolatban lévő szomszédos antennák elhelyezkedésének vázrajza értelemszerű léptékben.
 
-3. melléklet a 14/2013. (IX. 25.) NMHH rendelethez
+3. melléklet a 14/2013. (IX. 25.) NMHH rendelethez[^64]
+
+[^64]: A 3. melléklet a 4/2015. (VII. 15.) NMHH rendelet 18. § a) pontja szerint módosított szöveg.

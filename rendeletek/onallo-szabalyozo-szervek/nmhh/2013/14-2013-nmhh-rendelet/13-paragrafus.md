@@ -14,7 +14,7 @@ e) a használatbavételi engedély iránti kérelem benyújtására való utalá
 
 f) figyelmeztetést arra, hogy az építési engedély polgári jogi igényt nem dönt el,
 
-g) figyelmeztetést arra, hogy az elkészült építményt (hálózatot) az építtető vagy üzemeltető egyértelmű meghatározására alkalmas azonosítóval (hatósági engedély száma) kell ellátni,
+g)[^24] figyelmeztetést arra, hogy az elkészült építményt az építtető vagy üzemeltető egyértelmű meghatározására alkalmas azonosítóval (hatósági engedély száma) kell ellátni,
 
 h) tájékoztatást az építési tevékenység megkezdésének bejelentéséről,
 
@@ -51,3 +51,5 @@ bb) a BM Országos Katasztrófavédelmi Főigazgatóság illetékes területi sz
 (7) Amennyiben a Hatóság az építési engedélyezési eljárás során megállapítja, hogy a tervezett építési tevékenységet engedély nélkül megkezdték, haladéktalanul, de legkésőbb a szemlét követő 5 napon belül az építési engedély iránti kérelmet elutasítja, és a szabálytalan építés jogkövetkezményeit alkalmazza.
 
 (8) Az építtető jogutódja vagy az engedély átruházása esetén annak új jogosultja (a továbbiakban: az építtető jogutódja) a hatályos építési engedélyt vagy bontási engedélyt jogosult felhasználni, azonban köteles a jogutódlást – annak megfelelő igazolása mellett – a Hatóságnak bejelenteni. A bejelentést megelőzően az építtető jogutódja nem jogosult építési vagy bontási tevékenységet folytatni.
+
+[^24]: A 13. § (1) bekezdés g) pontja a 4/2015. (VII. 15.) NMHH rendelet 20. § (1) bekezdése szerint módosított szöveg.

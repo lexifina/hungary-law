@@ -6,16 +6,18 @@
 
 (3) Ha a helyszíni ellenőrzés eredményeként a Hatóság megállapítja, hogy az építési engedély hatálya jogszerűen nem hosszabbítható meg és már megkezdett kivitelezéssel létrejött építményre használatbavételi engedély nem adható, az építmény továbbépítéséhez határidő tűzésével új építési engedély iránti kérelem benyújtására hívja fel az építtetőt.
 
-(4) A Hatóság hivatalból indított építésügyi hatósági felügyeleti eljárás eredményeként – határidő tűzésével – határozatban kötelezi az építtetőt az építmény elbontására, amennyiben megállapítja, hogy
+(4)[^47] A Hatóság hivatalból indított építésügyi hatósági felügyeleti eljárás eredményeként – határidő tűzésével – határozatban kötelezi az építtetőt az építmény elbontására, amennyiben megállapítja, hogy
 
-a) a 16. § (7) bekezdése szerinti felhívásra az építtető a bontási engedély iránti kérelmet nem nyújtotta be, vagy a bontási engedély alapján a bontást nem végezte el,
+a) a korszerűsítéssel egyidejűleg az építtető a régi építményt nem bontotta el,
 
-b) a korszerűsítéssel egyidejűleg az építtető a régi hálózatot nem bontotta el,
+b) használaton kívüli építmény elbontása nem történt meg.
 
-c) használaton kívüli építmény elbontása nem történt meg.
-
-(5) Amennyiben az a) és c) pont tekintetében az építtető kiléte nem állapítható meg, az építmény üzemeltetőjét vagy ennek hiányában az építmény tulajdonosát kötelezi a Hatóság bontásra.
+(5)[^48] Amennyiben a b) pont tekintetében az építtető kiléte nem állapítható meg, az építmény üzemeltetőjét vagy ennek hiányában az építmény tulajdonosát kötelezi a Hatóság bontásra.
 
 (6) Az eljárásra egyebekben a bontási engedélyezési eljárás szabályai irányadók.
 
-(7) A bontásra kötelező határozatban foglaltak nem teljesítése esetén a Hatóság bírságot szab ki.
+(7)[^49] A bontásra kötelező határozatban foglaltak, vagy a 16. § (7) bekezdése szerinti határozatban foglalt eredeti állapot helyreállítására vonatkozó kötelezettség nemteljesítése esetén a Hatóság bírságot szab ki.
+
+[^47]: A 21. § (4) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^48]: A 21. § (5) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^49]: A 21. § (7) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 14. § (2) bekezdésével megállapított szöveg.

@@ -18,7 +18,7 @@ c) jogszerűen épült elektronikus hírközlési célú alépítményi csőhál
 
 építési tevekénység esetén a 19. § (7) bekezdésében foglalt eljárás szerinti utólagos bejelentést kell tenni.
 
-(5)[^4] Az e-építési naplót az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 14/2013. (IX. 25.) NMHH rendelet módosításáról szóló 7/2014. (X. 21.) NMHH rendelet hatálybalépését[^5] követő ötödik hónap első napját követően megkezdett kivitelezések esetében kell alkalmazni.
+(5)[^61] Az e-építési naplót az elektronikus hírközlési építmények elhelyezéséről és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárásokról szóló 14/2013. (IX. 25.) NMHH rendelet módosításáról szóló 7/2014. (X. 21.) NMHH rendelet hatálybalépését[^62] követő ötödik hónap első napját követően megkezdett kivitelezések esetében kell alkalmazni.
 
-[^4]: A 27. § (5) bekezdését a 7/2014. (X. 21.) NMHH rendelet 2. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2014. október 29.
+[^61]: A 27. § (5) bekezdését a 7/2014. (X. 21.) NMHH rendelet 2. §-a iktatta be.
+[^62]: A hatálybalépés időpontja 2014. október 29.

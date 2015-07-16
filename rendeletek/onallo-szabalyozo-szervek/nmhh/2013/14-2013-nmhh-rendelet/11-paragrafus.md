@@ -1,6 +1,6 @@
 ## 11. Építési engedélyezési eljárás
 
-11. § (1) Az építési engedélyt az elvégezni kívánt munka egészére kell kérni a Hatóság honlapján közzétett kérelem-adatlapon. Antennák és antennatartó szerkezetek építéséhez a 18. § (1) bekezdés f) és g) pontjában foglaltak kivételével építési engedélyt kell kérni. Az építéssel feleslegessé váló hálózat bontása egy eljárás keretében engedélyezhető, amennyiben azt a tervdokumentáció is tartalmazza. A bontás tárgyát képező hálózat nyomvonalhossza nem képez alapot az eljárási díj számításánál.
+11. § (1)[^21] Az építési engedélyt az elvégezni kívánt munka egészére kell kérni a Hatóság honlapján közzétett kérelem-adatlapon. Antennák és antennatartó szerkezetek építéséhez a 18. § f) és g) pontjában, valamint a 19. § (1) bekezdés a) pontjában foglaltak kivételével építési engedélyt kell kérni. Az építés és az építéssel feleslegessé váló építmény bontása egy eljárás keretében engedélyezhető, amennyiben azt a tervdokumentáció is tartalmazza. A bontás tárgyát képező építmény nyomvonalhossza nem képez alapot az eljárási díj számításánál.
 
 (2) Több építési szakaszra bontott építés esetén az egyes szakaszokra külön-külön is lehet engedélyt kérni.
 
@@ -36,10 +36,14 @@ n) más nyomvonalas, illetve nyomvonaljellegű létesítmények megközelítés�
 
 o) a nyomvonal hosszát, torony magasságát,
 
-p) elvi építési engedély hiányában a 10. § (4) bekezdése szerinti esetben a polgármester településképi véleményét.
+p)[^22]
 
 (4) A (3) bekezdésben felsoroltak a műszaki leírással együtt képezik a tervdokumentációt, melyet három példányban kell a kérelemhez becsatolni.
 
-(5) Az engedély iránti kérelemhez az eljárásban érintett szakhatóságok előzetes állásfoglalása becsatolható, ennek hiányában, a szakhatósági állásfoglalások Hatóság általi beszerzése érdekében, az érintett szakhatóság követelményének megfelelő, szakhatóságonként két példány dokumentációt – az azokhoz tartozó külön jogszabályban előírt igazgatási szolgáltatási díjak, illetékek megfizetésének igazolását – kell benyújtani.
+(5)[^23]
 
 (6) Antennák és antennatartó szerkezetek esetében a szakhatósági állásfoglalások megkéréséhez a 2. melléklet szerinti dokumentumokat kell becsatolni.
+
+[^21]: A 11. § (1) bekezdése a 4/2015. (VII. 15.) NMHH rendelet 8. §-ával megállapított szöveg.
+[^22]: A 11. § (3) bekezdés p) pontját a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.
+[^23]: A 11. § (5) bekezdését a 4/2015. (VII. 15.) NMHH rendelet 20. § (2) bekezdése hatályon kívül helyezte.
