@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-31-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1996-31-00-00.29 |
 | 2014-07-01 | 2013. évi CCXLIII. törvény | 1996-31-00-00.30 |
 | 2015-07-01 | 2015. évi XLII. törvény | 1996-31-00-00.31 |
+| 2015-07-16 | 2015. évi CXX. törvény | 1996-31-00-00.32 |

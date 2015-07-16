@@ -18,7 +18,31 @@ g) műszaki mentés: természeti csapás, baleset, káreset, rendellenes technol
 
 h) tűzoltó-technikai termék: a tűz észlelésére, jelzésére, oltására, a beavatkozás megkönnyítésére, a tűzkár csökkentésére vagy a tűz terjedésének megakadályozására alkalmazott berendezés, eszköz, a tűzoltó készülék, oltóanyag, a tűzoltóság által a tűzoltás műszaki mentés során használt jármű, felszerelés, hírközlő eszköz, védőeszköz, amely nem tartozik az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 305/2011/EU rendelet) hatálya alá;
 
-i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezeti egység, illetve ezekből álló technológiai rendszer, amelyben vagy amellyel robbanásveszélyes – a robbanó- és a robbantóanyagok kivételével – anyagok előállítása, feldolgozása, használata, tárolása, kimérése történik;
+i) tűz- vagy robbanásveszélyes készülék, gép, berendezés: olyan szerkezet, amelyet az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK európai parlamenti és tanácsi rendelet)
+
+ia) tűzveszélyes gázok,
+
+ib) tűzveszélyes aeroszolok,
+
+ic) tűzveszélyes folyadékok,
+
+id) tűzveszélyes szilárd anyagok,
+
+ie) A, B, C vagy D típusú önreaktív anyagok és keverékek,
+
+if) piroforos folyadékok,
+
+ig) piroforos szilárd anyagok,
+
+ih) 1. vagy 2. kategóriába tartozó, vízzel érintkezve tűzveszélyes gázokat kibocsátó anyagok és keverékek,
+
+ii) 1. kategóriába tartozó oxidáló folyadékok,
+
+ij) 1. kategóriába tartozó oxidáló szilárd anyagok vagy
+
+ik) A, B, C vagy D típusú szerves peroxidok
+
+veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy keverék előállítására, feldolgozására, használatára, tárolására vagy kimérésére terveztek és gyártottak;
 
 j) építési termék: minden olyan termék vagy készlet, amelyet azért állítottak elő és hoztak forgalomba, hogy építményekbe vagy építmények részeibe állandó jelleggel beépítsék és amelynek teljesítménye befolyásolja az építménynek az építményekkel kapcsolatos alapvető követelmények tekintetében nyújtott teljesítményét;
 
@@ -46,4 +70,8 @@ u) építményszerkezet (épület- vagy műtárgyszerkezet): az építmény ép�
 
 v) közreműködő önkéntes tűzoltó egyesület: a vállalt tevékenységi területen tűzoltási, műszaki mentési feladatokban közreműködő egyesület;
 
-w) beavatkozó önkéntes tűzoltó egyesület: a vállalt tevékenységi területen a hivatásos katasztrófavédelmi szervvel kötött megállapodás alapján tűzoltási, műszaki mentési feladatokat végző egyesület.
+w) beavatkozó önkéntes tűzoltó egyesület: a vállalt tevékenységi területen a hivatásos katasztrófavédelmi szervvel kötött megállapodás alapján tűzoltási, műszaki mentési feladatokat végző egyesület;
+
+x) tűz- vagy robbanásveszélyes technológia: a tűz- vagy robbanásveszélyes készülék, gép, berendezés fogalmába nem tartozó, olyan anyag- vagy energiaátalakításra szolgáló szerkezetekből álló rendszer, amelyben az ia)-ik) alpontban meghatározott anyag vagy keverék előállítása, feldolgozása, használata, tárolása vagy kimérése történik;
+
+y) megfelelőségi nyilatkozat: a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló 2008. július 9-i 2008/768/EK európai parlamenti és tanácsi határozat III. mellékletének tartalmán alapuló, a tűzoltó-technikai termékre, a tűz- vagy robbanásveszélyes készülékre, gépre, berendezésre vonatkozó tűzvédelmi, biztonságossági követelményeknek való megfelelőség igazolására alkalmas irat.
