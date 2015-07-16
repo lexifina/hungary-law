@@ -26,4 +26,12 @@
 
 12. összerendelési nyilvántartás: a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartás,
 
-13. származtatott adat: más nyilvántartásból adatkapcsolat-szolgáltatás keretében átvett adat.
+13. származtatott adat: más nyilvántartásból adatkapcsolat-szolgáltatás keretében átvett adat,
+
+14. etalon nyilvántartás: adatszolgáltatást csak más nyilvántartások részére nyújtó nyilvántartás, amelybe az elsődleges adat az adatközlésre kötelezett szerv (adatforrás szerv) értesítése alapján első alkalommal kerül nyilvántartásba vételre,
+
+15. alapnyilvántartás: adatszolgáltatást felhasználók részére is nyújtó olyan nyilvántartás, amelyben az elsődleges adat az adatközlésre kötelezett szerv (adatforrás szerv) értesítése alapján első alkalommal kerül nyilvántartásba vételre,
+
+16. szolgáltató nyilvántartás: elsődleges adatot kezelő nyilvántartás adatainak továbbításával adatszolgáltatást más nyilvántartások és felhasználók részére is nyújtó nyilvántartás,
+
+17. biztonsági nyilvántartás: az alapjául szolgáló nyilvántartás vészüzemi leállást követő teljes értékű visszaállítását lehetővé tevő nyilvántartás.
