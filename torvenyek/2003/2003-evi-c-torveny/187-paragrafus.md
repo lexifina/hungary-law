@@ -38,4 +38,6 @@ j) az Európai Parlament és a Tanács 2009/136/EK irányelve (2009. november 25
 
 k) az Európai Parlament és a Tanács 2009/140/EK irányelve (2009. november 25.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról.
 
-l) a Bizottság 2007/344/EK határozata (2007. május 16.) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról.
+l) a Bizottság 2007/344/EK határozata (2007. május 16.) a spektrumhasználatra vonatkozó információk Közösségen belüli harmonizált rendelkezésre állásáról,
+
+m) az Európai Parlament és a Tanács 2014/61/EU irányelve (2014. május 15.) a nagy sebességű elektronikus hírközlő hálózatok kiépítési költségeinek csökkentésére irányuló intézkedésekről 2. cikk 1–3. pontja és 3. cikke.

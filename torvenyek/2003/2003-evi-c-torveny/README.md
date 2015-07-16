@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2014-10-07 | 2014. évi XLI. törvény | 2003-100-00-00.53 |
 | 2014-12-30 | 2014. évi XCIX. törvény | 2003-100-00-00.54 |
 | 2015-06-16 | 18/2015. (VI. 15.) AB határozat | 2003-100-00-00.55 |
+| 2015-07-16 | 2015. évi CXXXVIII. törvény | 2003-100-00-00.56 |

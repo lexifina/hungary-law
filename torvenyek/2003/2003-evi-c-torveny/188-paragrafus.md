@@ -66,6 +66,8 @@
 
 27. Fizikai helymegosztás: Olyan helymegosztás, amelynek esetében a helymegosztásra jogosult berendezései az arra kötelezett szolgáltató létesítményén belül, utóbbi által rendelkezésre bocsátott meghatározott helyen kerülnek elhelyezésre.
 
+27/a. Fizikai infrastruktúra: a hírközlő vezetékek, az aktív hálózati elemeket nélkülöző optikai szál, az ivóvíz-törzshálózat és az ivóvíz-bekötővezeték (azaz emberi fogyasztásra szánt víz szállítására használt hálózati elemek) kivételével a 33/a. pontban meghatározott rendeletetésű hálózathoz tartozó, különösen átviteli vagy elosztó hálózat elemek, csővezeték, védőcsövek, védőcsövek szerelvényei, alépítmény, ellenőrzőkamra, ellenőrzőakna, szekrény, építmény, antennaszerkezet, torony, tartóoszlop vagy más olyan elem, amely a hálózat más elemeinek fogadására szolgál anélkül, hogy maga is a hálózat aktív részévé válna,
+
 28. Fogyasztó: bármilyen természetes személy, aki szakmáján, üzleti tevékenységén vagy hivatásán kívül eső célból nyilvánosan elérhető elektronikus hírközlési szolgáltatást használ vagy igényel.
 
 29. Forgalmazás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 1. pontjában meghatározott fogalom.
@@ -83,6 +85,8 @@
 32. Gyártó: a 765/2008/EK rendelet 2. cikk 3. pontjában meghatározott személy.
 
 33. Hálózat egysége: az elektronikus hírközlő hálózat létesítésére, működtetésére, módosítására és megszüntetésére vonatkozó műszaki követelményrendszernek való megfelelés, amely biztosítja az együttműködő hálózatok használatának és az ezekhez történő hozzáférésnek a zavartalanságát, továbbá a hálózatban tárolt adatok funkcionális változatlanságát.
+
+33/a. Hálózatüzemeltető: a földgáz, a villamos energia, a távhő előállításával, termelésével, szállításával, elosztásával vagy átvitelével kapcsolatos szolgáltatások, a közvilágítás, a víziközmű-szolgáltatás, valamint a vasúti, közúti, hajózási, repülőtéri, más közlekedési szolgáltatások nyújtására szolgáló fizikai infrastruktúra tulajdonosa, illetve annak üzemeltetője, valamint a nyilvános elektronikus hírközlő hálózat üzemeltetője.
 
 34. Hálózati hozzáférési pont: a hálózatnak más hálózat fizikai csatlakoztatására kijelölt olyan pontja, melyen keresztül a hozzáférési szolgáltatás megvalósul.
 
@@ -224,6 +228,8 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 
 80. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
 
+80/a. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, széles sávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat.
+
 81. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
 
 82. Nemföldrajzi szám: az ANFT által meghatározott különleges számcsoportba tartozó telefon hívószám, amelyhez tartozó hozzáférés földrajzi helye csak számfordítással állapítható meg.
@@ -277,27 +283,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 100. Transznacionális piac: az Európai Bizottság által meghatározott, az Európai Gazdasági Térség egészét vagy annak jelentős részét, de legalább két tagállamot érintő piac.
 
 101. Távirat: a felhasználó – az elektronikus hírközlési szolgáltató és/vagy postai szolgáltató közreműködésével – feladott szöveges közleménye, amelyet a szolgáltatók kézbesítés vagy elektronikus hírközlő végberendezés közvetítésével juttatnak el a címzetthez.
-
-102.
-
-103. Telepítés: rádióállomás, rádiórendszer vagy rádiótávközlő hálózat kiépítése, üzemeltetésre alkalmas állapotba hozatala rádiófrekvenciás jelek adását, illetve vételét megvalósító üzemmódban, üzemben tartás vagy kísérleti üzemeltetés nélkül.
-
-104.
-
-105. Titkos információgyűjtés, illetve titkos adatszerzés: az elektronikus hírközlő hálózaton és elektronikus hírközlő eszközökkel az elektronikus hírközlési tevékenység során, illetve azzal összefüggésben keletkezett, továbbított információk, adatok kiválasztása, kicsatolása, technikai eszközzel történő rögzítése és megismerése az arra külön törvényben felhatalmazott szervek által.
-
-106. Transzferár: azon szolgáltatás egységének meghatározott módszertan szerint számított ellenértéke, amelyet egy szolgáltató egyik üzletága nyújt egy másik üzletága részére.
-
-107. Űrszegmens: műholdas távközlési rendszer része, amely magában foglalja a műholdat és a műholdkövetési, távmérési és távvezérlési funkciókat, valamint a műholdak részére logisztikai támogatást nyújtó földi berendezéseket.
-
-108. Üzletág: a szolgáltató tevékenységi körén belüli, a számviteli szeparációs kimutatásokban elkülönítetten nyilvántartandó területek, amelyek úgy működnek, mintha önállóan gazdálkodó szervezetek lennének.
-
-109. Üzleti titok: a Ptk. 2:47. §-a szerinti üzleti titok.
-
-110. Vállalkozás: Az a természetes és a jogi személy – ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is – amelynek Magyarország területén tanúsított, vagy hatásaiban itt érvényesülő piaci magatartása részben vagy egészben Magyarország területén nyújtott elektronikus hírközlési szolgáltatáshoz kapcsolódik.
-
-110/a. Végfelhasználó: olyan felhasználó, aki az adott hálózati hozzáférési pontot saját érdekkörében használja, és azon nem nyújt nyilvánosan elérhető elektronikus hírközlési szolgáltatást.
-
-110/b. Végfelhasználói hozzáférés felett rendelkező vállalkozás: azon vállalkozás, amely a végfelhasználó valamely elektronikus hírközlő hálózathoz vagy annak részéhez történő fizikai vagy logikai csatlakoztatása felett rendelkezési jogot gyakorol.
-
-111. Virtuális helymegosztás: olyan helymegosztás, amelynek során a helymegosztásra jogosult szolgáltató megbízásából a kötelezett szolgáltató birtokolja és üzemelteti a rendezőhöz kapcsolódó azon berendezéseket, amelyek a jogosult szolgáltató igényeit elégítik ki.
