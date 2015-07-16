@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-66-00-00
 | 2015-01-01 | 2014. évi XCIII. törvény | 1992-66-00-00.71 |
 | 2015-03-30 | 2015. évi XII. törvény | 1992-66-00-00.72 |
 | 2015-06-19 | 2015. évi LXXII. törvény | 1992-66-00-00.73 |
+| 2015-07-16 | 2015. évi CXXX. törvény | 1992-66-00-00.74 |
