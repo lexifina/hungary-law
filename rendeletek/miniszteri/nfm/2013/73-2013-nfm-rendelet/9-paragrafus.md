@@ -1,5 +1,0 @@
-9. § (1) A hatóság jogosult – személlyel, szervezettel nem azonosítható módon – az elektronikus tájékoztatásra vonatkozó szabályok szerint közzétenni azokat az általa ismert biztonsági eseményeket, amelyek általános fenyegetést jelentenek a kiberbiztonságra. Ezzel egyidejűleg – személlyel, szervezettel nem azonosítható módon – közzéteheti mindazon rendelkezésre álló információkat is, amelyek a fenyegetés elhárítására szolgálnak.
-
-(2) A hatóság a kormányzati információtechnológiai és hálózatbiztonsági információ-megosztási és incidens-kezelési munkacsoportot – személlyel, szervezettel nem azonosítható módon – tájékoztathatja mindazon biztonsági eseményekről, és azok értékeléséről, amelyek a munkacsoport tagjainak védelmi felkészültségét növelik.
-
-(3) Ha a hatósághoz bejelentett vagy a tudomására jutott biztonsági eseményről egyértelműen megállapítható, hogy az személyes adatokat, vagy azok bizalmasságát sértette, a hatóság jogszabályban meghatározott tájékoztatási kötelezettsége mellett a Nemzeti Adatvédelmi és Információszabadság Hatóságot is értesíti a bejelentésről.

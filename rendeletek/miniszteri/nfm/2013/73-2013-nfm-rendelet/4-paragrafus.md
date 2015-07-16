@@ -1,3 +1,0 @@
-4. § (1) A szervezet a 2. § (1) bekezdése szerinti adatközlése mellett az Ibtv. hatálya alá tartozó tevékenysége megkezdését megelőző 8 napon belül a hatósági nyilvántartásba vétel céljából a hatóság részére megküldi az informatikai biztonsági szabályzatát is (a továbbiakban: szabályzat), valamint – ha rendelkezésre áll – megküldi az Ibtv. 4. §-a szerinti biztonsági tanúsítvány másolatát is.
-
-(2) A szabályzat és a biztonsági tanúsítvány másolatának megküldésére a 2. § és a 3. § rendelkezései irányadóak azzal, hogy azokat az erre rendszeresített űrlap mellékleteként kell megküldeni a hatóság részére.
