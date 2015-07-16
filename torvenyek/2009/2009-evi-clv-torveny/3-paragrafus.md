@@ -32,7 +32,7 @@ b) külföldi minősített adat: az Európai Unió valamennyi intézménye és s
 
 13. rendvédelmi szerv: a rendőrség, a hivatásos katasztrófavédelmi szerv, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet;
 
-14. gazdálkodó szervezet: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában felsoroltak;
+14. Gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
 15. telephely biztonsági tanúsítvány: az a tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas;
 
