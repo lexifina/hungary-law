@@ -10,7 +10,7 @@
 
 | 5. | KEOP-5.6.0/12-2013-0017 | Szépművészeti Múzeum | 223 600 000 |
 
-| 6. | KEOP-5.6.0/12-2013-0030 | Semmelweis Egyetem | 1 670 000 000 |
+| 6. | KEOP-5.6.0/12-2013-0030 | Semmelweis Egyetem | 1 753 311 465 |
 
 | 7. | KEOP-5.6.0/12-2013-0033 | Klebelsberg Intézményfenntartó Központ | 988 460 468 |
 
@@ -20,7 +20,7 @@
 
 | 10. | KEOP-5.6.0/12-2013-0040 | Mozgássérült Emberek Rehabilitációs Központja | 736 798 102 |
 
-| 11. | KEOP-5.6.0/12-2013-0041 | Eötvös Loránd Tudományegyetem | 260 000 000 |
+| 11. | KEOP-5.6.0/12-2013-0041 | Eötvös Loránd Tudományegyetem | 850 280 405 |
 
 | 12. | KEOP-5.6.0/12-2013-0042 | Budapesti Gazdasági Főiskola | 340 189 570 |
 
@@ -72,17 +72,17 @@
 
 | 36. | KEOP-5.6.0/12-2013-0026 | Heves Megyei Kormányhivatal | 63 780 000 |
 
-| 37. | KEOP-5.6.0/12-2013-0027 | Bács-Kiskun Megyei Kormányhivatal | 735 221 604 |
+| 37. | KEOP-5.6.0/12-2013-0027 | Bács-Kiskun Megyei Kormányhivatal | 1 035 221 604 |
 
 | 38. | KEOP-5.6.0/12-2013-0028 | Komárom-Esztergom Megyei Kormányhivatal | 177 800 000 |
 
-| 39. | KEOP-5.6.0/12-2013-0029 | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 170 500 000 |
+| 39. | KEOP-5.6.0/12-2013-0029 | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 629 390 000 |
 
-| 40. | KEOP-5.6.0/12-2013-0036 | Nógrád Megyei Kormányhivatal | 144 896 200 |
+| 40. | KEOP-5.6.0/12-2013-0036 | Nógrád Megyei Kormányhivatal | 153 146 000 |
 
-| 41. | KEOP-5.6.0/12-2013-0037 | Zala Megyei Kormányhivatal | 574 509 099 |
+| 41. | KEOP-5.6.0/12-2013-0037 | Zala Megyei Kormányhivatal | 1 061 821 065 |
 
-| 42. | KEOP-5.6.0/12-2013-0038 | Nógrád Megyei Kormányhivatal | 147 266 000 |
+| 42. | KEOP-5.6.0/12-2013-0038 | Nógrád Megyei Kormányhivatal | 177 430 000 |
 
 | 43. | KEOP-5.6.0/12-2013-0039 | Vas Megyei Kormányhivatal | 187 307 767 |
 
@@ -94,7 +94,7 @@
 
 | 47. | KEOP-5.6.0/12-2013-0048 | Hajdú-Bihar Megyei Kormányhivatal | 171 885 083 |
 
-| 48. | KEOP-5.6.0/12-2013-0049 | Békés Megyei Kormányhivatal | 500 000 000 |
+| 48. | KEOP-5.6.0/12-2013-0049 | Békés Megyei Kormányhivatal | 611 258 862 |
 
 | 49. | KEOP-5.6.0/12-2014-0001 | Országos Onkológiai Intézet | 517 772 728 |
 
@@ -108,7 +108,7 @@
 
 | 54. | KEOP-5.6.0/12-2014-0006 | Pest Megyei Rendőr-főkapitányság | 127 737 617 |
 
-| 55. | KEOP-5.6.0/12-2014-0007 | Baranya Megyei Rendőr-főkapitányság | 355 000 000 |
+| 55. | KEOP-5.6.0/12-2014-0007 | Baranya Megyei Rendőr-főkapitányság | 445 000 000 |
 
 | 56. | KEOP-5.6.0/12-2014-0008 | Pest Megyei Rendőr-főkapitányság | 144 594 304 |
 
@@ -134,7 +134,7 @@
 
 | 67. | KEOP-5.6.0/12-2014-0019 | Országos Reumatológiai és Fizioterápiás Intézet | 933 500 000 |
 
-| 68. | KEOP-5.6.0/12-2014-0020 | Terrorelhárítási Központ | 457 000 000 |
+| 68. | KEOP-5.6.0/12-2014-0020 | Terrorelhárítási Központ | 494 709 146 |
 
 | 69. | KEOP-5.6.0/12-2014-0021 | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | 416 000 000 |
 
