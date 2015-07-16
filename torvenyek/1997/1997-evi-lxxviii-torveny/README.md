@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2015-01-02 | 2010. évi CXXX. törvény | 1997-78-00-00.65 |
 | 2015-02-01 | 2014. évi CXIII. törvény | 1997-78-00-00.66 |
 | 2015-04-01 | 2015. évi VIII. törvény | 1997-78-00-00.67 |
+| 2015-07-16 | 2015. évi CXXXVIII. törvény | 1997-78-00-00.68 |
