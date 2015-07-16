@@ -1,4 +1,4 @@
-10/D. § (1) Ha valamely, az összerendelési nyilvántartás szolgáltatáshoz csatlakozott adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, az azonosítót, illetve személyazonosságát a polgár a jelen § rendelkezései szerint az adatkezelő által használt azonosítót igazoló igazolvány helyett a Ket. szerinti azonosítás szolgáltatás útján is igazolhatja, feltéve hogy azt a polgár a Ket. szerinti ügyintézési rendelkezésében megengedte.
+10/D. § (1) Ha valamely, az összerendelési nyilvántartás szolgáltatáshoz csatlakozott adatkezelő törvényi felhatalmazás alapján a természetes személyazonosító adatoktól eltérő azonosítót használ, az azonosítót, illetve személyazonosságát a polgár az adatkezelő által használt azonosítót igazoló igazolvány helyett a Ket. szerinti azonosítás szolgáltatás útján is igazolhatja, feltéve hogy azt a polgár a Ket. szerinti ügyintézési rendelkezésében megengedte.
 
 (2) Az (1) bekezdés szerinti ellenőrzés során az adatkezelő elektronikus úton olyan módon azonosítja a polgárt, hogy az azonosítás korábban elvégzett, az ügyfél személyes megjelenését igénylő személyazonosításra visszavezethető, és a (3) bekezdésben foglaltak szerint személye valamely személlyel egyértelműen megfeleltethető legyen.
 
@@ -14,4 +14,4 @@ d) olyan, a hatóság informatikai rendszerében kezelt személyazonosító adat
 
 e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendeléshez elegendő adatokkal, feltéve hogy a nyilvántartásba vétel a (2) bekezdés rendelkezéseinek megfelelt.
 
-(4) Ha az adatkezelő a (2) és (3) bekezdés rendelkezései szerint sikeresen azonosította a polgárt, úgy az azonosító, illetve személyazonosság igazolására a továbbiakban a 10/C. § megfelelően irányadó. Az összerendelési nyilvántartás lekérdezése az azonosítás szolgáltató által igazolt, a 10/A. § (2) bekezdés szerinti valamely azonosító alapján történik.
+(4) Ha az adatkezelő a (2) és (3) bekezdés rendelkezései szerint sikeresen azonosította a polgárt, az azonosító, illetve személyazonosság igazolására a továbbiakban a 10/C. § rendelkezései irányadók azzal, hogy az összerendelési nyilvántartás útján történő lekérdezés az azonosítás szolgáltatója által igazolt, az összerendelési nyilvántartás hatálya alá tartozó valamely azonosító alapján történhet.

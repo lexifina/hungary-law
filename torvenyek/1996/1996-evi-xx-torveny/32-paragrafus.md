@@ -26,7 +26,7 @@ k) a rendőrség a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riaszt
 
 l) a bűntettesek nyilvántartását kezelő szerv,
 
-m)
+m) a körözést elrendelő, a körözési eljárást lefolytató és a körözési nyilvántartást vezető szerv a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvényben meghatározott feladatai ellátásához;
 
 n) a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
