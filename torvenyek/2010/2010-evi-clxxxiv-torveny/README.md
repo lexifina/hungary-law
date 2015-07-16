@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-184-00-00
 | 2013-09-01 | 2013. évi CXII. törvény | 2010-184-00-00.5 |
 | 2014-11-26 | 2014. évi LXXIII. törvény | 2010-184-00-00.6 |
 | 2015-07-01 | 2015. évi LX. törvény | 2010-184-00-00.7 |
+| 2015-07-16 | 2015. évi CXXIX. törvény | 2010-184-00-00.8 |

@@ -11340,6 +11340,10 @@ Balatonakali
 
 |
 
+Balatonakarattya
+
+|
+
 Balatonalmádi
 
 |
@@ -11561,8 +11565,6 @@ Vöröstó
 |
 
 Zánka
-
-|
 
 19/2. Ajkai Járásbíróság
 
