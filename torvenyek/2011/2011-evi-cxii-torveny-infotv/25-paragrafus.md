@@ -4,10 +4,10 @@
 
 (2) A konferenciát a Hatóság elnöke szükség szerint, de évente legalább egyszer hívja össze, és meghatározza napirendjét.
 
-(3) A konferencia tagja minden olyan szervezet belső adatvédelmi felelőse, amelynél a felelős kinevezése törvény alapján kötelező.
+(3) A konferencia tagja minden olyan adatkezelő vagy adatfeldolgozó belső adatvédelmi felelőse, amelynél a felelős kinevezése törvény alapján kötelező.
 
-(4) A konferencia tagjai lehetnek azon szervezetek belső adatvédelmi felelősei, amelyek esetében a kinevezés nem kötelező. E célból a Hatóság által vezetett belső adatvédelmi felelősi nyilvántartásba bejelentkezhetnek.
+(4) A konferencia tagjai lehetnek azon adatkezelők és adatfeldolgozók belső adatvédelmi felelősei, amelyek esetében a kinevezés nem kötelező. E célból a Hatóság által vezetett belső adatvédelmi felelősi nyilvántartásba bejelentkezhetnek.
 
-(5) A Hatóság a kapcsolattartás céljából belső adatvédelmi felelősi nyilvántartást vezet a konferencia tagjairól. A nyilvántartás tartalmazza a belső adatvédelmi felelős nevét, postai és elektronikus levélcímét, továbbá a képviselt szervezet megnevezését.
+(5) A Hatóság a kapcsolattartás céljából belső adatvédelmi felelősi nyilvántartást vezet a konferencia tagjairól. A nyilvántartás tartalmazza a belső adatvédelmi felelős nevét, postai és elektronikus levélcímét, továbbá a képviselt adatkezelő vagy adatfeldolgozó megnevezését.
 
 (6) A nyilvántartásban a Hatóság az (5) bekezdés szerinti adatokat a belső adatvédelmi felelős e megbízatásának megszűnéséről való tudomásszerzéséig tartja nyilván.

@@ -10,4 +10,6 @@
 
 (6) A bíróság soron kívül jár el.
 
-(7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt a kért közérdekű adat közlésére kötelezi. A bíróság a másolat készítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.
+(6a) Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a per tárgyalását felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
+
+(7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt – az adatigénylés teljesítésére rendelkezésre álló határidő meghatározásával – a kért közérdekű adat közlésére kötelezi. A bíróság a másolat készítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.

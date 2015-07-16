@@ -1,6 +1,6 @@
 ## 32. Adatvédelmi hatósági eljárás
 
-60. § (1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság adatvédelmi hatósági eljárást indíthat.
+60. § (1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság adatvédelmi hatósági eljárást indíthat, a (4) bekezdésben meghatározott esetben adatvédelmi hatósági eljárást indít.
 
 (2) Az adatvédelmi hatósági eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
