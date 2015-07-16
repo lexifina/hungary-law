@@ -1,0 +1,1 @@
+## 1. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) hatálya alá tartozó elektronikus információs rendszerrel rendelkező szervezet az elektronikus információs rendszereit az 1. mellékletben felsorolt szempontok szerint sorolja biztonsági osztályba.
