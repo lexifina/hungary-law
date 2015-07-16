@@ -1,0 +1,3 @@
+23. § A szerzői jogról szóló 1999. évi LXXVI. törvény „A személyhez fűződő jogok gyakorlása” alcíme a következő 15/A. §-sal egészül ki:
+
+„15/A. § A szerzői jogi védelem alatt álló mű közérdekű adatként vagy közérdekből nyilvános adatként való megismerésére irányuló igényt a szerző személyhez fűződő jogainak védelme érdekében az adatot kezelő közfeladatot ellátó szerv az adatigénylő által kívánt forma és mód helyett – az adatigénylés teljesítésére rendelkezésre álló határidőben – a mű közérdekű adatot vagy közérdekből nyilvános adatot tartalmazó részei megtekintésének lehetővé tételével is teljesítheti.”
