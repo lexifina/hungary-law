@@ -30,7 +30,9 @@ d) a belvízelvezető művek (így például a belvízcsatornák, szivattyútele
 
 e) a víz, a hordalék, a jég zavartalan levonulási lehetőségének megteremtése, a szabályozási és mederfenntartási munkálatok elvégzése;
 
-f) a település belterületén a patakok, csatornák áradása, továbbá a csapadék- és egyéb vizek kártételének megelőzése, a kül- és belterületen a patakszabályozás, árvízvédelmi létesítmények építése, fenntartása, fejlesztése, az árvízmentesítés, az árvízvédekezés szervezése, irányítása, végrehajtása, a védelmi szakfelszerelés karbantartása és fejlesztése.
+f) a település belterületén a patakok, csatornák áradása, továbbá a csapadék- és egyéb vizek kártételének megelőzése, a kül- és belterületen a patakszabályozás, árvízvédelmi létesítmények építése, fenntartása, fejlesztése, az árvízmentesítés, az árvízvédekezés szervezése, irányítása, végrehajtása, a védelmi szakfelszerelés karbantartása és fejlesztése;
+
+g) a település belterületén a csapadékvíz elkülönített elvezetését biztosító árkok fenntartása és vízilétesítmények üzemeltetése, az országos közút, illetve a közforgalmú vasút víztelenítését szolgáló árkok, csatornák és egyéb vízelvezető vízilétesítmények kivételével.
 
 (5) Az állami tulajdonban lévő vízfolyás medrének és parti sávjának lehatárolásáról a vízügyi igazgatási szerv gondoskodik.
 

@@ -16,4 +16,6 @@ g) a társulat gazdálkodására (üzemi tevékenységére), vezető beosztású
 
 h) a víziközmű társulat képviseletének módját;
 
-i) a vezető tisztségviselők nevét, lakóhelyét.
+i) a vezető tisztségviselők nevét, lakóhelyét;
+
+j) a szakmai ellenőrzést ellátó vízügyi igazgatási szerv nevét, székhelyét.

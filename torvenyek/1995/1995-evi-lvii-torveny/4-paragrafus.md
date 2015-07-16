@@ -2,7 +2,7 @@
 
 a) a helyi vízi közüzemi tevékenység fejlesztésére vonatkozó – a vízgazdálkodás országos koncepciójával és a jóváhagyott nemzeti programokkal összehangolt – tervek kialakítása és végrehajtása;
 
-b)
+b) a település belterületén a csapadékvízzel történő gazdálkodás;
 
 c) a közműves vízellátás körében a települési közműves vízszolgáltatás korlátozására vonatkozó terv jóváhagyásáról és a vízfogyasztás rendjének megállapításáról való gondoskodás;
 

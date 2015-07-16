@@ -94,7 +94,7 @@ k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szol
 
 l) a vízkészletjárulék kiszámításának, a számításnál alkalmazandó szorzószámoknak és a befizetés rendjének;
 
-m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
+m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, a vízügyi igazgatási szervek díjfizetési mentességével érintett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
 
 n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
 

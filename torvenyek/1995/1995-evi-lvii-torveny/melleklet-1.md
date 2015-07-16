@@ -12,7 +12,7 @@ E törvény alkalmazásában
 
 4. elhabolás: víz (folyó, patak, csatorna, tározó, tó) hullámzó mozgásának hatására a partban keletkezett rongálódás;
 
-5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település árvízmentesítését szolgáló körtöltés;
+5. elsőrendű árvízvédelmi vízilétesítmény: a vízfolyások mentén lévő vagy létesülő fővédelmi művé nyilvánított, három vagy több település árvízvédelmét szolgáló (térségi) árvízvédelmi létesítmény (így például töltés, fal, magaspart, árvízi tározó, árapasztó csatorna), továbbá a folyó nyílt árterében fekvő település vagy településrész árvízmentesítését szolgáló töltés;
 
 6. érdekelt: az a természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki/amely az érdekeltségi területen ingatlantulajdonnal rendelkezik, illetve ingatlant használ;
 
@@ -66,7 +66,7 @@ b) lakosegyenérték: szerves, biológiailag lebontható terhelés, amelynek öt
 
 a) közcélú vízilétesítmény: az a vízilétesítmény, amely az államnak, illetve a helyi önkormányzatnak törvényben meghatározott vízgazdálkodási feladatait, különösen a víziközművekkel nyújtott szolgáltatást, a vizek kártételei elleni védelmet, a vízkészletek feltárását, megóvását, hasznosítását, pótlását és állapotának figyelemmel kísérését, a vízkészlettel való gazdálkodását szolgálja; közcélú vízilétesítménynek minősülnek továbbá az országos közút és a törzshálózati vasút kiépítését, fejlesztését és fenntartását szolgáló vízilétesítmények;
 
-b) saját célú vízilétesítmények: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást (így például szennyvízelhelyezést, átvezetést, tisztítást, öntözést) vízkárelhárítási, víztisztítási, vízerő hasznosítási feladatokat ellátó művek;
+b) saját célú vízilétesítmény: rendeltetésük szerint üzemi, háztartási, mezőgazdasági vízellátást, valamint vízkárelhárítási, víztisztítási, vízerő hasznosítási feladatokat ellátó, továbbá a közcélú vízilétesítménynek nem minősülő szennyvíz gyűjtését, tisztítását, hasznosítását és elhelyezését szolgáló mű, és ami a víziközmű-szolgáltatásról szóló törvény szerint nem minősül víziközműnek.
 
 27. vízikönyv: a vízimunkákkal, a vízilétesítményekkel és a vízhasználatokkal kapcsolatos jogok és kötelezettségek közhitelű nyilvántartása;
 
@@ -114,4 +114,6 @@ b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határ
 
 41. mezőgazdasági vízszolgáltatás: a mező- és erdőgazdasági művelés alatt álló területek öntözését, a halastavak és egyéb mezőgazdasági vízhasználat vízellátását szolgáló, továbbá a mezőgazdasági vízszolgáltatási rendszerhez kapcsolódó, egyéb célú vízigények kielégítésére irányuló tevékenység.
 
-42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
+
+43. árvízi lefolyási sáv: a nagyvízi meder azon része, amely az árvíz és a jég elvezetésében részt vesz, mely lehet elsődleges, másodlagos és átmeneti lefolyási sáv.

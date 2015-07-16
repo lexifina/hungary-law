@@ -6,7 +6,7 @@ b) megfelel a vízimunkára, a vízilétesítmények, víziközművek megvalós�
 
 c) megfelel a külön jogszabályban foglalt előírásoknak.
 
-(1a) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó létesítési engedélyben – az e törvény végrehajtására kiadott rendeletben meghatározott feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
+(1a) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó létesítési engedélyben – a jogszabályokban előírt feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
 
 (2) Új vízjogi engedély csak abban az esetben adható ki, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
 

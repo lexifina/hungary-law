@@ -4,6 +4,8 @@
 
 (2) A taggyűlést az intézőbizottság hívja össze. Ha az intézőbizottság ezt elmulasztja, az összehívásra az ellenőrző bizottság jogosult.
 
+(2a) A taggyűlés összehívását a vízügyi igazgatási szerv is kezdeményezheti.
+
 (3) A tagok legalább 10%-ának kezdeményezésére a taggyűlést össze kell hívni.
 
 (4) A napirendet tartalmazó írásbeli meghívót a taggyűlés tervezett időpontja előtt legalább 15 nappal ki kell küldeni, és a helyben szokásos módon is közzé kell tenni.
