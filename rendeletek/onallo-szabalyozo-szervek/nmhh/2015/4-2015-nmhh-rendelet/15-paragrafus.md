@@ -1,0 +1,1 @@
+## „(7) A bontásra kötelező határozatban foglaltak, vagy a 16. § (7) bekezdése szerinti határozatban foglalt eredeti állapot helyreállítására vonatkozó kötelezettség nemteljesítése esetén a Hatóság bírságot szab ki.”
