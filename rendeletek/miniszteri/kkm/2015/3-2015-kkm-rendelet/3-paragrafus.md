@@ -1,0 +1,27 @@
+## 2. § Az előirányzatok Ávr. 30. § szerinti felhasználási szabályait az 1. melléklet tartalmazza.
+
+## 3. § E rendelet szerinti, az EUMSZ 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. mellékletben foglalt táblázat
+
+a) 4. sora alapján – a beruházás ösztönzési célelőirányzat felhasználásáról szóló kormányrendeletben meghatározott szabályok szerint – regionális beruházási támogatás,
+
+b) 13. sora alapján
+
+ba) csekély összegű támogatás,
+
+bb) kulturális célú támogatás,
+
+c) 18. sora alapján csekély összegű támogatás,
+
+d) 28. sora alapján
+
+da) csekély összegű támogatás,
+
+db) kulturális célú támogatás,
+
+e) 32. sora alapján
+
+ea) csekély összegű támogatás,
+
+eb) kulturális célú támogatás
+
+f) 34. sora alapján a támogatás céljától függően – a vonatkozó európai uniós jogszabályok előírásainak betartása mellett – az a)–e) pontban meghatározott valamennyi támogatási kategória
