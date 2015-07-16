@@ -1,1 +1,0 @@
-Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 24. § (3) bekezdés e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 13. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
