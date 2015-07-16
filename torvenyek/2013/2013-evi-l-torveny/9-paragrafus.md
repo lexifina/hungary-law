@@ -2,18 +2,20 @@
 
 9. § (1) A kockázatokkal arányos, költséghatékony védelem kialakítása érdekében a szervezetet az elektronikus információs rendszerek védelmére való felkészültsége alapján a szervezetnek biztonsági szintekbe kell sorolni a jogszabályban meghatározott szempontok szerint.
 
-(2) A szervezet biztonsági szintje a szervezet elektronikus információs rendszereinek legmagasabb biztonsági osztályával azonos besorolású, de legalább
+(2) Az elektronikus információs rendszer
 
-a) a 2. § (1) bekezdés b)–d), g) és k) pontjába tartozó szervezetek esetén 2.,
+a) fejlesztését végző,
 
-b) a 2. § (1) bekezdés a), e), f), h)–j) pontjába tartozó szervezetek esetén 3.,
+b) üzemeltetését végző,
 
-c) a 2. § (1) bekezdés l) pontjába tartozó szervezetek esetén 4.,
+c) üzemeltetéséért felelős vagy
 
-d) a 2. § (2) bekezdés b) és c) pontjába tartozó szervezetek esetén 5.
+d) információbiztonságáért felelős
 
-szintű.
+szervezeti egységeket az elektronikus információs rendszerek védelmére való felkészültségük alapján a szervezettől elvárt, eltérő biztonsági szintekbe kell sorolni jogszabályban meghatározott szempontok szerint.
 
-(3) A szervezet az e törvényben meghatározott feltételeknek megfelelő, az adott szervezetre irányadó besorolási szintnél magasabb szintű besorolást is megállapíthat.
+(3) A szervezet vagy szervezeti egységek biztonsági szintjét a szervezet védelemre való felkészültsége határozza meg.
 
-(4) A hatóság – a 2. § (3) és (4) bekezdésében meghatározott elektronikus információs rendszerek esetében az elektronikus információs rendszerek biztonságának felügyeletét és ellenőrzését ellátó ágazati szerv – a szervezet által megállapított biztonsági szintet felülbírálhatja és magasabb, indokolt esetben alacsonyabb szintű besorolást is megállapíthat.
+(4) A szervezet vagy szervezeti egységek biztonsági szintjének meghatározását az elektronikus információs rendszer felhasználásának módja határozza meg, jogszabályban meghatározott szempontok szerint.
+
+(5) A szervezet vagy szervezeti egység az e törvényben meghatározott feltételeknek megfelelő, az adott szervezetre irányadó besorolási szintnél magasabb szintű besorolást is megállapíthat.

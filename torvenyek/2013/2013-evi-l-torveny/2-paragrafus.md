@@ -36,26 +36,18 @@ c) az európai létfontosságú rendszerelemmé és a nemzeti létfontosságú r
 
 elektronikus információs rendszereinek védelmére.
 
-(3) A minősített adatokat kezelő elektronikus információs rendszereket érintően
+(3) A Kormány rendeletében meghatározott egyes zárt célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-a) e törvény rendelkezéseit a minősített adat védelmére vonatkozó jogszabályokban meghatározott eltérésekkel kell alkalmazni,
+(4) A polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a polgári hírszerzési szervezetrendszeren belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-b) a 14–18. §-ban meghatározott feladatok ellátásáról a minősített adatok védelmének szakmai felügyeletéért felelős miniszter gondoskodik.
+(5) A honvédelmi célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a honvédelmi ágazaton belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-(4) A 14–18. §-ban meghatározott feladatok ellátásáról:
+(6) Az európai vagy nemzeti létfontosságú létesítménnyé, rendszerré törvény alapján kijelölt létesítmények, rendszerek elektronikus információs rendszerei esetében az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a katasztrófavédelem szervezetrendszerén belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-a) a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat zárt célú elektronikus információs rendszerei, továbbá a Honvédelmi Tanács és a Kormány speciális működését biztosító infokommunikációs támogató rendszerei esetében a honvédelemért felelős miniszter,
+(7) E törvény rendelkezéseit
 
-b) a rendvédelmi szervek és a rendvédelmi szervet irányító miniszter által irányított szervek zárt célú elektronikus információs rendszerei esetében a rendvédelmi szervet irányító miniszter,
+a) a minősített adatokat kezelő elektronikus információs rendszereket érintően a minősített adat védelméről szóló törvényben,
 
-c) a diplomáciai információs célokra használt zárt célú elektronikus információs rendszerei esetében a külpolitikáért felelős miniszter,
+b) a médiaszolgáltatási és elektronikus hírközlési tevékenység esetén az elektronikus hírközlésről szóló törvényben, továbbá a médiaszolgáltatásokról és tömegkommunikációról szóló törvényben
 
-d) a Nemzeti Adó- és Vámhivatalnak az állami költségvetési bevételek biztosítását támogató elektronikus információs rendszerei esetében az adópolitikáért felelős miniszter,
-
-e) az Információs Hivatal esetében a Kormány polgári hírszerzési tevékenység irányításáért felelős tagja,
-
-f) a Nemzeti Média- és Hírközlési Hatóság esetében a Nemzeti Média- és Hírközlési Hatóság elnöke
-
-jogszabályban meghatározottak szerint gondoskodik.
-
-(5) E törvény rendelkezéseit médiaszolgáltatási és elektronikus hírközlési tevékenység esetén az elektronikus hírközlésről szóló törvényben és az abban meghatározott elektronikus hírközlésre vonatkozó szabályban, továbbá a médiaszolgáltatásokról és tömegkommunikációról szóló törvényben és az abban meghatározott médiaigazgatásra vonatkozó szabályban meghatározott eltérésekkel kell alkalmazni.
+meghatározott eltérésekkel kell alkalmazni.

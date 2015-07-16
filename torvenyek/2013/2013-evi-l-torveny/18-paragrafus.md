@@ -1,25 +1,33 @@
-## 9. A Nemzeti Biztonsági Felügyelet feladatai az elektronikus információs rendszerek biztonsága vonatkozásában
+## 9. Sérülékenységvizsgálat, biztonsági esemény vizsgálata
 
-18. § A Nemzeti Biztonsági Felügyelet
+18. § (1) A hatóság az érintett szervezetet kötelezheti arra, hogy sérülékenységvizsgálatot végeztessen, valamint a biztonsági eseményt kivizsgáltassa. Ha a hatóság kötelezésének az érintett szervezet nem tesz eleget, a hatóság eljárási bírságot szab ki.
 
-a) éves ellenőrzési terv alapján, és az e törvény 14. § (2) bekezdés a), b) és e) pontjában foglaltakra tekintettel:
+(2) A törvény hatálya alá tartozó szervezet sérülékenységvizsgálatot, biztonsági esemény vizsgálatát a hatóság felhívása nélkül is kezdeményezhet.
 
-aa) szakhatóságként a hatóság megkeresésére, továbbá
+(3) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát – az (5) bekezdésben foglalt szervek és elektronikus információs rendszerek kivételével –
 
-ab) egyedi esetekben a hatóság felkérésére
+a) a Kormány rendeletében meghatározott állami szerv, vagy
 
-az érintett szervezet vezetőjét előzetesen tájékoztatva sérülékenységvizsgálatot végez, valamint biztonsági események adatainak műszaki vizsgálatát végzi,
+b) telephely biztonsági tanúsítvánnyal, továbbá a feladat ellátásához szükséges – jogszabályban meghatározott – szakértelemmel és infrastrukturális feltételekkel rendelkező gazdasági társaság
 
-b) a szervezetek elektronikus információs rendszerében a szervezet felkérésére sérülékenységvizsgálatot végez, valamint biztonsági események adatainak műszaki vizsgálatát végzi,
+végezhet.
 
-c) a feltárt hiányosságokról, a sérülékenységek megszüntetésére vonatkozó intézkedési tervről a vizsgálat lezárását követően haladéktalanul tájékoztatja a vizsgált szervezet vezetőjét,
+(4) A (3) bekezdés b) pontja szerinti gazdasági társaság nevében és alkalmazásában kizárólag olyan személy végezheti a vizsgálatot, akinek a nemzetbiztonsági ellenőrzését elvégezték és a nemzetbiztonsági ellenőrzés során nemzetbiztonsági kockázatot nem állapítottak meg.
 
-d) hazai információbiztonsági, létfontosságú információs infrastruktúra védelmi, kibervédelmi gyakorlatokat szervez,
+(5) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát
 
-e) a nemzetközi információbiztonsági, létfontosságú információs infrastruktúra védelmi, kibervédelmi gyakorlatokon felkérésre képviseli Magyarországot,
+a) a zárt célú elektronikus információs rendszerek,
 
-f) véleményezési jogot gyakorol a kormányzati eseménykezelő központnak az ágazatok közti, a biztonsági események esetén követendő szabályokról és felelősségi körökről szóló tervezetével kapcsolatban,
+b) a 2. § (1) bekezdése szerinti állami és önkormányzati szervek európai létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt rendszerelemei elektronikus információs rendszerei, valamint
 
-g) az a)–c) pontban foglalt feladatok végrehajtásáról a hatóság részére tájékoztatást ad,
+c) a nemzetbiztonsági védelem alá eső szervek
 
-h) együttműködik a kormányzati eseménykezelő központtal.
+vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány rendeletében meghatározott állami szerv végzi el.
+
+(6) Az (1) bekezdés szerinti vizsgálatok eredményét a vizsgálatot végző szerv vagy gazdasági társaság a hatóság és az érintett szervezet részére a vizsgálatok befejezését követően haladéktalanul megküldi.
+
+(7) Az érintett szervezet a feltárt hiányosságokról, a sérülékenységek megszüntetésére vonatkozó intézkedési tervről a vizsgálatok lezárását követően tájékoztatja az érintett hatóságot.
+
+(8) A 19. § (3) bekezdése szerinti eseménykezelő központ a honvédelmi célú elektronikus információs rendszerek vonatkozásában, a 19. § (4) bekezdése szerinti eseménykezelő központ a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában elvégzi a sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát.
+
+(9) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát az (5) bekezdés szerinti állami szerv végzi el, ha az (5) bekezdés b) pontja szerinti elektronikus információs rendszereken kívüli, európai létfontosságú rendszerelemmé és a nemzeti létfontosságú rendszerelemmé törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei tekintetében nincs a sérülékenységvizsgálat, illetve a biztonságiesemény-vizsgálat elvégzésére a jogszabályban meghatározott feltételeknek megfelelő gazdasági társaság.

@@ -1,29 +1,31 @@
 20. § (1) A kormányzati eseménykezelő központ ellátja a következő feladatokat:
 
-a) az ágazati eseménykezelő központok szakmai támogatása,
+a)
 
-b) a nemzetközi eseménykezelési együttműködésekben Magyarország képviselete és az ágazati eseménykezelő központok tájékoztatása a nemzetközi szervezetektől tudomására jutott információbiztonságot érintő eseményekről, fenyegetésekről,
+b) a nemzetközi eseménykezelési együttműködésben Magyarország képviselete, a magyar kiberteret érintő nemzetközi bejelentések fogadása és kezelése,
 
-c) a szervezetekkel való kapcsolattartás a bejelentett biztonsági események fogadására, valamint az azok kezeléséhez szükséges operatív intézkedések megtétele és koordinálása,
+c) a szervezetekkel való kapcsolattartás a bejelentett biztonsági események fogadására, valamint azok kezeléséhez szükséges intézkedések megtétele és koordinációja,
 
-d) napi rendszerességű hálózatbiztonsági helyzetértékelések elvégzése,
+d) a magyar kibertér rendszeres biztonsági helyzetértékelésének elvégzése,
 
 e) folyamatosan elérhető 24 órás ügyelet működtetése,
 
-f) a biztonsági események kivizsgálása során a jogszabályban meghatározottak szerint a biztonsági események adatai műszaki vizsgálatának elvégzése,
+f) a biztonsági események kivizsgálásának támogatása, amely során elvégezheti a biztonsági események adatainak műszaki vizsgálatát, amelyhez adatokat és az adatokhoz elektronikus hozzáférést kérhet,
 
 g) a szervezeteknél előforduló biztonsági események adatainak gyűjtése, ezekről negyedévente jelentés készítése a Nemzeti Kiberbiztonsági Koordinációs Tanács részére,
 
 h) elemzések, jelentések készítése a Nemzeti Kiberbiztonsági Koordinációs Tanács részére a hazai és nemzetközi információbiztonsági irányokról,
 
-i) azonnali figyelmeztetések közzététele a kritikus hálózatbiztonsági eseményekről, ezek magyar nyelvű megjelenítése,
+i) azonnali figyelmeztetések közzététele a kritikus hálózatbiztonsági fenyegetettségekről, ezek magyar nyelvű megjelenítése,
 
-j) a nemzetközileg publikált sérülékenységek közzététele a honlapján,
+j) a nemzetközileg publikált sérülékenységek hozzáférhetővé tétele a honlapján,
 
-k) hazai információbiztonsági, létfontosságú információs infrastruktúra védelmi, kibervédelmi gyakorlatok szervezése,
+k) hazai információbiztonsági és kibervédelmi gyakorlatokat tervezhet, szervezhet, gyakorlatokon vehet részt,
 
-l) felkérésre részvétel a nemzetközi információbiztonsági, létfontosságú információs infrastruktúra védelmi, kibervédelmi gyakorlatokon,
+l) nemzetközi információbiztonsági és kibervédelmi gyakorlatokat tervezhet, szervezhet, gyakorlatokon vehet részt,
 
-m) együttműködés a hatósággal és a Nemzeti Biztonsági Felügyelettel.
+m) együttműködik a hatósággal, továbbá szükség szerint a biztonsági esemény kezelése tekintetében érintett szervezetekkel,
 
-(2) Az ágazati eseménykezelő központok – az (1) bekezdés a) és b) pontban meghatározottak kivételével – az általuk támogatott ágazatok tekintetében ellátják a kormányzati eseménykezelő központ feladatait.
+n) az állami és önkormányzati szervek biztonságtudatosságának elősegítése céljából oktatási anyagokat dolgozhat ki és tréningeket tarthat, felvilágosító, szemléletformáló kampányokat szervezhet.
+
+(2) A 19. § (2)–(4) bekezdése szerinti eseménykezelő központok az általuk támogatott ágazatok tekintetében ellátják az (1) bekezdés c), d,) e), f), i), k), l) és m) pontja szerinti feladatokat.
