@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-187-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-07-16 | 2015-187-20-22.1 | 187/2015. (VII. 13.) Korm. rendelet |
+| 2015-07-17 | 2015-187-20-22.2 | 2010: CXXX. törvény |
