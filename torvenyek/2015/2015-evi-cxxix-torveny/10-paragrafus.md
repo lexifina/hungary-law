@@ -1,5 +1,3 @@
-10. § (1) Az Infotv. 60. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság adatvédelmi hatósági eljárást indíthat, a (4) bekezdésben meghatározott esetben adatvédelmi hatósági eljárást indít.”
+10. § (1)
 
 (2)

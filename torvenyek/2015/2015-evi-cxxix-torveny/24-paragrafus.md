@@ -1,3 +1,3 @@
-24. § (1) A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvény (a továbbiakban: Illetékességi tv.) 1. melléklete az 1. melléklet szerint módosul.
+24. § (1)
 
 (2)
