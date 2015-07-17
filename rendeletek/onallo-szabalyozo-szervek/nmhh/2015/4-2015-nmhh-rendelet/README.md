@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-4-20-3H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-07-16 | 2015-4-20-3H.1 | 4/2015. (VII. 15.) NMHH rendelet |
+| 2015-07-17 | 2015-4-20-3H.2 | 2010: CXXX. törvény |
