@@ -1,1 +1,0 @@
-## 1. § Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R.) 2. számú melléklete az 1. melléklet szerint módosul.
