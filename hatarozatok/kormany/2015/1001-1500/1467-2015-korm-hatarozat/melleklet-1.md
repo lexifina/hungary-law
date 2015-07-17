@@ -16,14 +16,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A KEOP-2012-5.6.0 jelű („Központi költségvetési szervek energiahatékonysági beruházásai” című) támogatási konstrukcióban benyújtott projektek megvalósításának jóváhagyásáról és egyes projektek támogatásának visszavonásáról szóló 1501/2014. (IX. 5.) Korm. határozat 1. mellékletében foglalt táblázat
-
-## a) C:6 mezőjében az „1 670 000 000” szövegrész helyébe az „1 753 311 465” szöveg,
-
-## b) C:41 mezőjében az „574 509 099” szövegrész helyébe az „1 061 821 065” szöveg és
-
-## c) C:68 mezőjében a „457 000 000” szövegrész helyébe a „494 709 146” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1467/2015. (VII. 15.) Korm. határozathoz
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
