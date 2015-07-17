@@ -1,4 +1,4 @@
-## 15. § Hatályát veszti a fejezeti kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 2/2013. (VIII. 30.) KüM rendelet.
+## 15. §[^1]
 
 1. melléklet a 3/2015. (VII. 15.) KKM rendelethez
 
@@ -73,3 +73,5 @@ XVIII. Külgazdasági és Külügyminisztérium 2015. évi költségvetési kiad
 | 33 |  |  | Fejezeti tartalékok |  |  |
 
 | 34 | 197535 |  |  | Fejezeti általános tartalék | Az előirányzat a minisztérium fejezetében más helyen nem tervezett feladatok végrehajtásának finanszírozására szolgál. Ezen felül az év közben szükségessé váló feladatok megoldására, eseti jellegű, elháríthatatlan igények finanszírozására is felhasználható a rendelkezésre álló forrás. | költségvetési szervek, fejezeti kezelésű előirányzatok |  |  | előirányzat-átcsoportosítás |  |  |  |  |  |
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
