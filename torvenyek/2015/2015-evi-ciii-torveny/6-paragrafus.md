@@ -94,21 +94,7 @@ d) ha az országos működési engedéllyel rendelkező vasúti társaság csőd
 
 9/D. § A vasúti igazgatási szerv haladéktalanul tájékoztatja az Európai Vasúti Ügynökséget az országos vállalkozó vasúti működési engedély vagy ideiglenes működési engedély kiadásáról, módosításáról, felfüggesztéséről vagy visszavonásáról.”
 
-(3) A Vtv. „Működési engedély” alcíme a következő 9/E. §-sal egészül ki:
-
-„9/E. § (1) A vasúti igazgatási szerv a működési engedély kiadása feltételeinek fennállását évente – felügyeleti díj ellenében – ellenőrzi.
-
-(2) Az éves felügyeleti díj mértéke:
-
-a) országos vállalkozó vasúti társaság esetén 1 363 000 forint,
-
-b) elővárosi, vállalkozó vasúti társaság esetén 136 000 forint,
-
-c) térségi, vállalkozó vasúti társaság esetén 14 000 forint,
-
-d) helyi, városi, vállalkozó vasúti társaság esetén 14 000 forint.
-
-”
+(3)
 
 (4) A Vtv. II. Fejezete a következő alcímmel és 9/F. §-sal egészül ki:
 

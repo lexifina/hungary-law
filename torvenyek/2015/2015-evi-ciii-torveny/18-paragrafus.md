@@ -248,9 +248,7 @@ d) a jogsértő magatartás folytatását megtiltja.
 
 (5) A vasúti igazgatási szerv szorosan együttműködik a közlekedési hatósággal. E hatóságok közösen keretet alakítanak ki az információk megosztásához és az együttműködéshez, amelynek célja a vasúti piacon a versenyre vagy a biztonságra gyakorolt káros hatások megelőzése. Ennek a keretnek magában kell foglalnia egy eljárást, amelynek révén a vasúti igazgatási szerv ajánlásokkal látja el a közlekedési hatóságot az olyan kérdések tekintetében, amelyek érinthetik a versenyt a vasúti piacon, valamint amelynek révén a közlekedési hatóság ajánlásokkal látja el az vasúti igazgatási szervet az olyan kérdések tekintetében, amelyek befolyásolhatják a biztonságot. Az egyes hatóságok saját hatáskörbe tartozó területen belüli függetlenségének sérelme nélkül az érintett hatóság határozatainak meghozatala előtt megvizsgál minden ajánlást. Ha az illetékes hatóság úgy határoz, hogy eltér ezektől az ajánlásoktól, indokolnia kell az ajánlástól való eltérést.”
 
-(5) A Vtv. 79/F. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A vasúti igazgatási szerv részére a piac felügyeletével kapcsolatos tevékenységért az országos működési engedéllyel rendelkező vasúti társaságok felügyeleti díjat kötelesek fizetni, amelynek mértéke a fizetésre kötelezett által az előző évben belföldön fizetett hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj 0,4%-a. Előző évi fizetett hálózat-hozzáférési díj vagy hálózat-hozzáférési díj hiányában a felügyeleti díjat a tárgyidőszakban ténylegesen fizetett hálózat-hozzáférési díjak alapján kell megfizetni.”
+(5)
 
 (6) A Vtv. XIV. fejezete a következő alcímmel és 79/G. §-sal egészül ki:
 
