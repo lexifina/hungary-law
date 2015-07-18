@@ -8,7 +8,7 @@
 
 ## Hatály, értelmező rendelkezések
 
-1. § E törvény hatálya
+1. § E törvény hatálya – nemzetközi jogi vagy uniós jogi kötelezettség teljesítése érdekében törvény eltérő rendelkezése hiányában –
 
 a) a minisztérium, a kormányhivatal, a központi hivatal (a továbbiakban: központi államigazgatási szerv),
 
