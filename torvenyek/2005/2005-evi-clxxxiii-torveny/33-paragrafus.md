@@ -16,10 +16,4 @@ b) vasútbiztonsági tanúsítvány a jogosultnak az igénybe venni kívánt vas
 
 (6) A kiegészítő vasútbiztonsági tanúsítvány vonatkozásában alkalmazni kell a 35. § (2)–(7) bekezdéseiben foglaltakat.
 
-(7) Nem kell vasútbiztonsági tanúsítvány
-
-a) a turistavasútnak,
-
-b) a sífelvonónak,
-
-c) a saját célú vasúti pályahálózaton áruszállítás végzéséhez.
+(7)

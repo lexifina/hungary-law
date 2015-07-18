@@ -1,7 +1,5 @@
-78. § (1) A jogvitás eljárást kérelmező ügyfél a kérelemben a 77. § (3)–(4) bekezdésén túl bizonyítási indítványt is előterjeszthet.
+78. § (1) A bíróság közigazgatási határozat bírósági felülvizsgálata keretében a vasúti igazgatási szerv határozatát megváltoztathatja.
 
-(2) Amennyiben a vasúti igazgatási szerv a bizonyítási indítványnak helyt ad, lefolytatja az annak megfelelő bizonyítást.
+(2) A vasúti igazgatási szervnek a 69. § 6. és 21. pontjában meghatározott tárgykörökben hozott határozatával szemben újrafelvételi kérelem nem nyújtható be.
 
-(3) A vasúti igazgatási szerv indítványra vagy hivatalból a vasúti pályahálózat-kapacitás elosztása által érintett valamennyi szervezetet adatok (beleértve az üzleti titkot is) szolgáltatására, iratok bemutatására kötelezheti. Amennyiben valamely adat szolgáltatása, irat bemutatása bizonyítási indítványhoz kapcsolódik, és a kötelezett fél azt nem, vagy nem megfelelően nyújtja be, úgy a bizonyítás sikertelenségét a bizonyítást kérő fél terhére értékelni nem lehet. Ebben az esetben a vasúti igazgatási szerv a rendelkezésre álló bizonyítékok mérlegelésével dönt.
-
-(4) Amennyiben az ügyfél az eljárást, így különösen a bizonyítást rosszhiszemű magatartásával akadályozza, a vasúti igazgatási szerv bírságot alkalmazhat vele szemben.
+(3) A vasúti igazgatási szerv közzéteszi a 69. § 1., 5., 7., 14. 17., 18., 21. és 25. pontja szerinti eljárásokban hozott határozatait azzal, hogy a közzététel kiterjed a Hálózati Üzletszabályzat, a keretmegállapodás, a belső megállapodás, valamint az üzemi menetrend szövegére is. A közzétett határozat nem tartalmazhatja az érdekeltek által előzetesen – indokoltan – üzleti titoknak minősített adatokat.

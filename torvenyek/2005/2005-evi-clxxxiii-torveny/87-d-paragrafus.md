@@ -1,0 +1,3 @@
+87/D. § (1) A Vtvmódtv1. hatálybalépésekor már működő pályahálózat-működtetőknek – nem független pályahálózat-működtető esetén a VPSZ-nek – a Vtvmódtv1. -nek megfelelő Díjképzési Módszertant, Díjszámítási Dokumentumot, Hálózati Üzletszabályzatot, teljesítményösztönző rendszert első ízben a 2016. december második vasárnapjától kezdődő menetrendi évre kell elkészíteniük.
+
+(2) A 67/P. §-ban meghatározott alapvető feladatokat az országos jelentőségű vasútvonalat működtető független pályahálózat-működtető esetén is 2020. január 1-jéig a VPSZ látja el a díjbeszedés kivételével, amelyet a független pályahálózat-működtető is elláthat.

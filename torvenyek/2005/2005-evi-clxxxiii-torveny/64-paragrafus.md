@@ -1,19 +1,19 @@
-## A kapacitás-elosztás menete
+## Kapacitáselemzés, kapacitásbővítési terv
 
-64. § (1) A hozzáférésre jogosult a vasúti pályahálózat-kapacitásra, valamint az 54. § (1) és a (3)–(4) bekezdéseiben meghatározott szolgáltatásokra vonatkozó igényét a VPSZ részére jelenti be.
+64. § (1) A pályahálózat-működtető a pályahálózat vagy annak egy része túlterheltté nyilvánítását követő hat hónapon belül kapacitáselemzést készít.
 
-(2) Az (1) bekezdés szerinti igénybejelentés ajánlattételre történő felhívásnak minősül [Ptk. 6:71. § (2) bekezdés].
+(2) A pályahálózat-működtető a kapacitáselemzésben meghatározza a pályahálózat-kapacitás igények teljesítésének korlátait, valamint javaslatokat dolgoz ki a korlátok megszüntetésére. A kapacitáselemzés meghatározza a túlterheltség okait, valamint a túlterheltség enyhítésére irányuló rövid és középtávú intézkedéseket.
 
-(3) A VPSZ a Hálózati Üzletszabályzatban foglaltaknak megfelelően meghatározza
+(3) A kapacitáselemzés elvégzését követő hat hónapon belül a pályahálózat-működtető a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló rendeletben meghatározott módon és tartalommal kapacitásbővítési tervet készít.
 
-a) a hozzáférésre jogosult rendelkezésére bocsátható vasúti pályahálózat-kapacitást, továbbá
+(4) A pályahálózat-működtető – az (5) bekezdésben meghatározott kivétellel – nem jogosult a 67/C. § (1) bekezdésében meghatározott díjat felszámítani, ha
 
-b) a hálózat-hozzáférési díjak összegét,
+a) nem készít kapacitásbővítési tervet vagy
 
-és erről a nem független vasúti pályahálózat-működtetőt és a hozzáférésre jogosultat 15 napon belül értesíti.
+b) nem halad ütemterv szerint a kapacitásbővítési tervben meghatározott intézkedések megvalósításával.
 
-(4) A nem független vasúti pályahálózat-működtetőt a (3) bekezdés szerinti értesítésben foglaltaknak megfelelő tartalommal a vasúti pályahálózat-kapacitás biztosítása tárgyában a hozzáférésre jogosulttal szemben szerződéskötési kötelezettség terheli. Amennyiben a szerződő felek a Hálózati Üzletszabályzatban foglaltaktól el kívánnak térni, a szerződés tervezetét a pályahálózat-működtető előzetes hozzájárulás céljából a vasúti igazgatási szerv részére megküldi. A szerződés a Hálózati Üzletszabályzatban foglaltaktól csak annyiban térhet el, amennyiben a vasúti igazgatási szerv ehhez előzetesen hozzájárult. A létrejött szerződés egy-egy példányát a nem független vasúti pályahálózat-működtető köteles a vasúti igazgatási szerv és a VPSZ részére a mindkét fél által történő aláírástól számított tizenöt napon belül megküldeni.
+(5) A pályahálózat-működtető a (4) bekezdésben meghatározottaktól eltérően, a vasúti igazgatási szerv jóváhagyásával továbbra is felszámíthatja a 67/C. § (1) bekezdésében meghatározott díjat, ha
 
-(5) Az összehangolási eljárással kapcsolatban a vasúti pályahálózat működtetője számára a 61. § (5)–(6) bekezdéseiben meghatározott feladatokat a VPSZ látja el.
+a) a kapacitásbővítési terv a pályahálózat-működtető érdekkörén kívül eső ok miatt nem valósítható meg, vagy
 
-(6) Ha a nem független vasúti pályahálózat-működtető a VPSZ-nek a (3) bekezdés szerinti értesítésében foglaltakkal nem ért egyet, a 77. § (1) bekezdése szerint jogvitás eljárás megindítására irányuló kérelmet nyújthat be.
+b) a kapacitásbővítési terv a rendelkezésre álló lehetőségek miatt gazdaságilag vagy pénzügyileg nem valósítható meg.

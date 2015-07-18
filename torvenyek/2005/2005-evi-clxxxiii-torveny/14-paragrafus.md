@@ -1,15 +1,29 @@
-## A VASÚTI PÁLYAHÁLÓZAT MŰKÖDTETÉSE
+## IV. Fejezet
 
-14. § (1) A regionális vasúti pályát és tartozékait magába foglaló vasúti pályahálózat működtetését, amelynek országos törzshálózati vasúti pálya vagy tartozéka nem része, az a gazdasági társaság is végezheti, amelyben a Magyar Állam legalább többségi befolyással rendelkezik. Az egyéb vasúti pályát és tartozékait magába foglaló pályahálózat működtetését bármely gazdálkodó szervezet végezheti.
+## A KISZOLGÁLÓ LÉTESÍTMÉNYEK
 
-(1a)
+## A kiszolgáló létesítményekre vonatkozó alapvető szabályok
 
-(2) A nyílt hozzáférésű vasúti pályahálózat használatáért fizetendő hálózat-hozzáférési díj az azt működtető vasúti társaságot illeti, aki köteles az ebből keletkező bevételét a nyílt hozzáférésű pályahálózat működtetésére fordítani.
+14. § (1) Kiszolgáló létesítmény üzemeltetője lehet
 
-(3) Az országos vasúti pályahálózat működtetője és a fejlesztési közreműködő éves üzleti tervének tartalmaznia kell a beruházási és pénzügyi tervet. Az üzleti tervnek biztosítania kell az országos vasúti pályahálózat optimális és hatékony használatát és fejlesztését, valamint a pénzügyi és egyéb eszközöket e célok eléréséhez.
+a) pályahálózat-működtető,
 
-(4) Az országos vasúti pályahálózat működtetője felelős saját üzemeltetéséért, adminisztrációjáért és belső ellenőrzéséért.
+b) vállalkozó vasúti társaság,
 
-(5) A vasúti pályahálózat működtetésének elemei közül a létesítést, felújítást és fejlesztést a vasúti pályahálózat működtetője vagy a fejlesztési közreműködő, a GSM-R rendszer-hálózat létesítését a GSM-R fejlesztő végzi (a továbbiakban: építtető). Ha a létesítést, felújítást és fejlesztést a fejlesztési közreműködő végzi, a létesítésben, felújításban és fejlesztésben az érintett vasúti pályahálózat működtetője, mint a vasúti pályahálózat működtetésére hatósági engedéllyel rendelkező szervezet közreműködik. A vasúti pályahálózat működtetője és a fejlesztési közreműködő a feladatok megosztásáról együttműködési szerződést köt.
+c) olyan gazdasági társaság, amely nem minősül sem pályahálózat-működtetőnek, sem vállalkozó vasúti társaságnak,
 
-(6) A GSM-R fejlesztő által végzett GSM-R rendszer-hálózat létesítés során az érintett vasúti pályahálózat tulajdonosa, vagyonkezelője illetve a működtetője, mint a vasúti pályahálózat működtetésére hatósági engedéllyel rendelkező szervezet köteles közreműködni, együttműködni.
+d) természetes személy vagy
+
+e) egyéni vállalkozó.
+
+(2) Azon kiszolgáló létesítményeken, amelyeken a pályahálózat-működtető alapszolgáltatást nyújt (minimális szolgáltatási csomag), a járulékos szolgáltatásokat, mint a kiszolgáló létesítményekhez való hozzáférés biztosítását és a kiszolgáló létesítményekkel nyújtott szolgáltatásokat a pályahálózat-működtető jogosult és köteles nyújtani, a kiegészítő szolgáltatásokat és a mellékszolgáltatásokat a pályahálózat-működtető nyújthatja.
+
+(3) A kiszolgáló létesítmények üzemeltetői a 2. melléklet 2–4. pontjában meghatározott szolgáltatásokat nyújtják.
+
+(4) Ha a (3) bekezdésben meghatározott szolgáltatásokat a pályahálózat-működtető nyújtja, rá a pályahálózat-működtetőre vonatkozó rendelkezéseket kell alkalmazni.
+
+(5) Ha a kiszolgáló létesítmény üzemeltetője a pályahálózat-működtető, vagy a pályahálózat-működtető közvetlen vagy közvetett irányítása alatt áll, a 15. §-ban meghatározott rendelkezéseket nem kell alkalmazni.
+
+(6) A kiszolgáló létesítmények üzemeltetői e tevékenységük megkezdését az azt követő öt napon belül a vasúti igazgatási szervnek kötelesek bejelenteni.
+
+(7) A kiszolgáló létesítmény használati díjait a kiszolgáló létesítmény üzemeltetője részére kell megfizetni. A díjakat a kiszolgáló létesítmény üzemeltetője a kiszolgáló létesítmény üzemeltetésének finanszírozására használja fel.

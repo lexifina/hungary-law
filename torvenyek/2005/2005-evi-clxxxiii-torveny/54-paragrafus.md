@@ -1,13 +1,9 @@
-## A nyílt hozzáférés keretében nyújtandó szolgáltatások
+## A kapacitásfoglalásra jogosult jogai és kötelezettségei
 
-54. § (1) A vasúti pályahálózat-kapacitás biztosítására vonatkozó szerződés alapján a vasúti pályahálózat működtetője díj ellenében köteles a 3. számú melléklet I. pontjában meghatározott alapszolgáltatásokat a hozzáférésre jogosult rendelkezésére bocsátani.
+54. § (1) Vasúti pályahálózati kapacitást – díj ellenében – bármely kapacitásigénylő igényelhet.
 
-(2) Az (1) bekezdés szerinti alapszolgáltatásoknak a hozzáférésre jogosult által történő igénybevételére külön-külön nem kerülhet sor.
+(2) A pályahálózat-működtető köteles a 2. mellékletben meghatározott szolgáltatásokat a kapacitásfoglalásra jogosult rendelkezésére bocsátani.
 
-(3) A vasúti pályahálózat működtetője az (1) bekezdésben említett díjon felüli többletdíj ellenében az (1) bekezdésben foglaltakon túlmenően a hozzáférésre jogosult eseti megrendelése alapján köteles biztosítani a 3. számú melléklet II. pontjában meghatározott létesítményekhez, illetőleg berendezésekhez történő hozzáférés lehetőségét.
+(3) A (2) bekezdésben foglalt szolgáltatások rendelkezésre bocsátására a nyílt hozzáférésű vasúti pályahálózat kapacitásának elosztása alapján kerül sor.
 
-(4) A vasúti pályahálózat működtetője külön díjazás ellenében valamennyi arra igényt tartó hozzáférésre jogosult részére köteles biztosítani a 3. számú melléklet III. pontjában meghatározott kiegészítő szolgáltatások igénybevételét, amennyiben a vasúti társaság az adott kiegészítő szolgáltatást nyújtja.
-
-(5) Az (1) és a (3)–(4) bekezdésben foglaltakon túlmenően a vasúti pályahálózat működtetője – megállapodás alapján – a 3. számú melléklet IV. pontjában meghatározott mellékszolgáltatásokat nyújthatja a hozzáférésre jogosult részére.
-
-(6) A vasúti pályahálózathoz történő hozzáférés keretében nyújtandó szolgáltatásokra, valamint az azok igénybevételére vonatkozó részletes rendelkezéseket külön jogszabály tartalmazza.
+(4) A kapacitásfoglalásra jogosult és a vasúti pályahálózat-működtető között a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződés jön létre (a továbbiakban: keretszerződés). A keretszerződésben a kapacitásfoglalásra jogosult kötelezettséget vállal azoknak a feltételeknek és eljárásrendeknek a betartására, amelyeket a pályahálózat-működtető a 2. melléklet 1. pontjában foglalt szolgáltatásokra vonatkozóan a Hálózati Üzletszabályzat részeként közzétesz. A keretszerződés pályahálózat-működtetővel történő megkötése előfeltétele a kapacitásigény benyújtásának.

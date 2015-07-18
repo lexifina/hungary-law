@@ -1,0 +1,3 @@
+## Honvédelmi saját célú vasúti pályákra és honvédelmi vasúti tevékenységre vonatkozó eltérő rendelkezések
+
+85/O. § A Magyar Honvédség a honvédelmi feladatok ellátásával kapcsolatos vasúti tevékenysége során a működési engedélyre vonatkozó 6–9/D. §-t, a pályahálózat-működtető üzleti tervére vonatkozó 12–13. §-t, a nyílt hozzáférésre, a számviteli elkülönítésre vonatkozó 21. §-t, a biztonságirányítási rendszerre és a biztonsági szervezetre vonatkozó 32–32/A. §-t, a vasútbiztonsági tanúsítványra és engedélyre vonatkozó 33–35. §-t, a kapacitáselosztásra és a hálózat-hozzáférési díjakra vonatkozó 49–67/W. §-t, a felügyeleti díjakra vonatkozó 9/E. §-t, a 35. § (5)–(5a) bekezdését, valamint a jogvitás eljárásra vonatkozó 79/B–79/D. §-t nem kell alkalmazni.

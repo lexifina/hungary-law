@@ -1,3 +1,3 @@
-40. § (1) A helyi vasúti pálya – ide nem értve a sífelvonó által használt vasúti pályát – az önkormányzat vagy olyan szervezet tulajdonában állhat, amelyben az önkormányzat közvetve vagy közvetlenül legalább többségi irányítást biztosító befolyással rendelkezik.
+40. § (1) A Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GYSEV Zrt.) működtetésében lévő vasúti pályahálózathoz tartozó vasúti pályák és tartozékaik tulajdonjogára és használatára a Győrtől Sopronon át Ebenfurt irányában az ország határáig vezetendő elsőrendü gőzmozdonyvasut kiépitéséről szóló 1872. évi XXVII. törvényben foglaltakat kell alkalmazni.
 
-(2) Az (1) bekezdéstől eltérően a Fertővidéki Helyi Érdekű Vasúti Zrt. vasúti pályáinak és tartozékainak a tulajdonjogára és használatára az 1896. évi XXIX. törvényben meghatározott – meghosszabbított – engedély lejártáig az abban foglaltakat kell alkalmazni.
+(2) A GYSEV Zrt. tulajdonában lévő vasúti pályahálózatnak Magyarország területére eső részére az országos jelentőségű vasútvonalakra vonatkozó rendelkezéseket kell megfelelően alkalmazni.

@@ -1,3 +1,3 @@
-## ÁRUFUVAROZÁSI SZOLGÁLTATÁS
+## Vállalkozó vasúti szolgáltatások
 
-22. § A vasúti árufuvarozásra kötött szerződésekre Ptk. szerződésekre vonatkozó általános, továbbá a fuvarozási szerződésekre vonatkozó rendelkezéseit az e törvényben, valamint külön jogszabályban foglalt kiegészítésekkel kell alkalmazni.
+22. § Vállalkozó vasúti szolgáltatás a személyszállítási szolgáltatásokról szóló törvényben meghatározott vasúti személyszállítási szolgáltatás, a vasúti árufuvarozási szolgáltatás és a vontatási szolgáltatás.

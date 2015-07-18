@@ -20,7 +20,7 @@ b) a vasúti közlekedés biztonságával kapcsolatos munkakörökben foglalkozt
 
 (5a) Az éves felügyeleti díj mértéke:
 
-a) pályavasúti társaság, valamint integrált vasúti társaság vasúti pályahálózatot működtető szervezeti egysége esetén
+a) pályahálózat-működtető, valamint integrált vasúti társaság vasúti pályahálózatot működtető szervezeti egysége esetén
 
 aa) 200 km üzemeltetett vasúti hálózatig: 1 016 000 forint,
 
@@ -54,7 +54,7 @@ f) a kizárólag történelmi és muzeális vasúti járműveket üzembentartó 
 
 (8) A vasútbiztonsági tanúsítvánnyal, kiegészítő vasútbiztonsági tanúsítvánnyal és a vasútbiztonsági engedéllyel kapcsolatos részletes szabályokat a miniszter rendeletben állapítja meg. A rendeletben meg kell határozni
 
-a) a helyi vasúti pályahálózatra vonatkozó vasútbiztonsági engedélyre, és a helyi közforgalmú vasúti társaságra vonatkozó vasútbiztonsági tanúsítvánnyal,
+a) a helyi, városi vasúti pályahálózatra vonatkozó vasútbiztonsági engedélyre, és a helyi, városi vasúti társaságra vonatkozó vasútbiztonsági tanúsítvánnyal,
 
 b) az országos vasúti pályahálózatokhoz közvetlenül nem kapcsolódó, kizárólag vasúti személyszállítás céljára fenntartott térségi és elővárosi vasúti pályahálózatra vonatkozó vasútbiztonsági engedéllyel, és a kizárólag e vasúti pályahálózatokon közlekedő vasúti társasággal, valamint
 

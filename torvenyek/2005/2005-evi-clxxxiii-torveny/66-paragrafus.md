@@ -1,3 +1,9 @@
-66. § (1) Az integrált vasúti társaságnak az általa működtetett, nyílt hozzáférésű vasúti pályahálózathoz történő hozzáférésére a 37. § (1) bekezdésének b)–d) pontjaiban meghatározott tevékenységet végző szervezeti egységei, és a vasúti pályahálózat működtetését ellátó szervezeti egysége közötti – a VPSZ által kidolgozott, és a vasúti igazgatási szerv által jóváhagyott – belső megállapodás alapján kerül sor.
+## Pályafenntartási munkák céljára igénybe vehető vasúti pályakapacitás
 
-(2) A pályahálózatot működtető integrált vasúti társaságnak a 65. § (2) bekezdésében foglaltak szerint meghatározott belső hálózat-hozzáférési díjat a 37. §-ban foglaltaknak megfelelően kell az integrált vasúti társaság vállalkozó vasúti és a vasúti pályahálózat működtetését végző szervezeti egységei között elszámolni.
+66. § (1) A pályafenntartási munkák elvégzéséhez szükséges pályakapacitási igényeket a menetrend-készítési folyamat során kell benyújtani.
+
+(2) A pályahálózat-működtető figyelembe veszi a rendszeres pályafenntartási munkákra fenntartott pályahálózat-kapacitásnak a kapacitásigénylőkre gyakorolt hatását.
+
+(3) A pályahálózat-működtető a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló rendeletben meghatározott időn belül értesíti az érdekelt feleket, ha a nem tervszerű pályafenntartási munkák következtében a pályakapacitás nem vehető igénybe.
+
+(4) A pályafenntartási munkák elvégzéséhez szükséges pályakapacitás igényekre vonatkozó részletes rendelkezéseket a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló rendelet tartalmazza.

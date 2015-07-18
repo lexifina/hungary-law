@@ -1,43 +1,11 @@
-73. § (1) A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:
+## A vasúti igazgatási szerv kormánytisztviselője
 
-a) döntés a 77. § szerinti jogvitás ügyekben,
+73. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal.
 
-b) működési engedély, illetve ideiglenes működési engedély kiadása, módosítása, felfüggesztése, visszavonása, a működési engedély (ideiglenes működési engedély) feltételei fennálltának ellenőrzése,
+(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője az öröklés kivételével vasúti társaságban tulajdoni részesedést nem szerezhet.
 
-c) a vasúti közlekedési piac felügyelete,
+(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezése előtt vagy öröklés útján szerzett tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni.
 
-d) a vasúti pályahálózat-kapacitás elosztási folyamatának, és a vasúti pályahálózathoz való nyílt hozzáférésre jogosult, valamint a vasúti pályahálózat működtetője között a Hálózati Üzletszabályzatban foglaltak szerinti kedvezmények biztosítására vonatkozó tárgyalások felügyelete,
+(4) A (3) bekezdésben foglalt kötelezettsége teljesítéséig a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett társaságra vonatkozik.
 
-e) az 57. § és 57/A. § szerinti keretmegállapodások jóváhagyása,
-
-f) integrált vasúti társaság 66. § (1) bekezdése szerinti belső megállapodásának jóváhagyása, az abban foglaltak ellenőrzése, illetőleg annak megsértése esetén mérlegelési jogkörben bírság alkalmazása,
-
-g)
-
-h) a térségi és az elővárosi pályahálózat kijelölése, valamint – ha e törvény eltérően nem rendelkezik – a vasúti pályahálózat működtetője, a hozzáférésre jogosult vagy a VPSZ kérelme alapján döntés vasúti pályák nyílt hozzáférésűvé, illetve nyílt hozzáférés alól mentessé történő minősítéséről,
-
-i) a vasúti társaság személyszállítási és árufuvarozási üzletszabályzatának, valamint a közlekedésszervező személyszállítási üzletszabályzatának jóváhagyása,
-
-j) a vasúti közlekedési piac fejlődésének nyomon követése, elemzése és értékelése,
-
-k) nyilvántartás vezetése a működési engedélyekről,
-
-l) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal,
-
-m) külön jogszabályban meghatározott adatgyűjtési, adatszolgáltatási feladatok ellátása, továbbá
-
-n) a miniszter részére a vasúti közlekedési alágazatra vonatkozó, a miniszter által előírt adatszolgáltatások teljesítése,
-
-o) a személyszállítási szolgáltatásokról szóló törvényben meghatározottak szerint a vasúti személyszállítást igénybe vevő utasok panaszainak kezelése,
-
-p) a vasúti személyszállítást igénybe vevő utasok jogaira vonatkozó rendelkezések betartásának ellenőrzése,
-
-q) az 53/B. § (1) bekezdése szerinti esetben az érintett nemzetközi személyszállítási szolgáltatást nyújtani szándékozó vállalkozó vasúti társaság kérelmére indult eljárásban annak megállapítása, hogy a nyújtani tervezett szolgáltatás fő célja a különböző EGT-tagállamokban található állomások közötti személyszállítás-e,
-
-r) a vasúti személyszállítási közszolgáltatási szerződés gazdasági egyensúlya veszélyeztetésének vizsgálata nemzetközi vasúti személyszállítási szolgáltatás bevezetésére tekintettel,
-
-s) a 27/E. § szerinti kártalanítási kötelezettség megállapítása.
-
-(2) A vasúti igazgatási szerv információt cserélhet a más EGT-államokban működő nemzeti szabályozó szervezetekkel, az Európai Bizottsággal és az Európai Vasúti Ügynökséggel a tevékenységéről, a döntéshozatali elveiről és gyakorlatáról, abból a célból, hogy a vasúti szabályozás döntéshozatali elvei az EGT-n belül összehangolhatók legyenek.
-
-(3)
+(5) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.

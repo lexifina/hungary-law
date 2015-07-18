@@ -1,3 +1,3 @@
-## VONTATÁSI SZOLGÁLTATÁS
+## Vontatási szolgáltatás
 
-24. § A vasúti társaság kizárólag olyan tevékenység (vasúti személyszállítás vagy vasúti árutovábbítás) végzéséhez nyújthat vontatási szolgáltatást, amelyre működési engedéllyel rendelkezik.
+24. § A kizárólag vontatási működési engedéllyel rendelkező vasúti társaság saját eszközeivel vagy szerződés útján biztosított vontató járművekkel nyújthat vontatási szolgáltatást más vállalkozó vasúti társaságoknak.

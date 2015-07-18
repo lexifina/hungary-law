@@ -1,7 +1,15 @@
-## A vasúti pályahálózat kapacitásának biztosítása
+51. § (1) A transzeurópai vasúti közlekedési hálózat részeként működő vasútvonalak minden esetben a nyílt hozzáférés körébe tartoznak.
 
-51. § (1) A vasúti pályahálózat működtetője a nyílt hozzáférésű vasúti pályahálózatot – vasúti pályahálózat-kapacitás biztosításával – díj ellenében köteles az 53. § (1) bekezdésében meghatározott szervezetek (a továbbiakban: hozzáférésre jogosult) rendelkezésére bocsátani.
+(2) A nyílt hozzáférés biztosítása szempontjából – a vasúti pálya tulajdonosának és üzemeltetőjének személyére tekintet nélkül – a nyílt hozzáférésű vasúti pályahálózat részének kell tekinteni a csatlakozó vasúti pályát.
 
-(2) A vasúti pályahálózat-kapacitás biztosítására a nyílt hozzáférésű vasúti pályahálózat kapacitásának elosztása alapján kerül sor.
+(3) A pályahálózat-működtető nem köteles a nyílt hozzáférést biztosítani
 
-(3) Amennyiben a hozzáférésre jogosult eleget tesz az e fejezetben meghatározott követelményeknek, úgy a vasúti pályahálózat működtetője a vasúti pályahálózat-kapacitás biztosítására vonatkozóan köteles a hozzáférésre jogosulttal szerződést kötni.
+a) a kizárólag vasúti személyszállítás, valamint saját vasút-üzemeltetési és karbantartási rendeltetésű teherszállítás céljára fenntartott – nem átjárható – helyi, városi és térségi vasúti pályahálózathoz,
+
+b) a kizárólag vasúti személyszállítás, valamint saját vasút-üzemeltetési és karbantartási rendeltetésű teherszállítás céljára fenntartott elővárosi vasúti pályahálózathoz,
+
+c) a saját célú vasúti pályahálózathoz,
+
+d) az iparvágányhoz,
+
+e) a kizárólag honvédelmi célra használt vasúti pályahálózathoz.

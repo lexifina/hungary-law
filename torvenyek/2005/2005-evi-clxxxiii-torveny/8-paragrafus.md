@@ -1,53 +1,15 @@
-8. § (1) A működési engedély kiadásának a feltétele, hogy a kérelmező megfeleljen
+8. § (1) A működési engedély kiadásának feltétele, hogy a kérelmező megfeleljen
 
-a) az üzleti jóhírnévvel,
+a) az üzleti jó hírnévvel,
 
-b) országos működési engedély esetén – a (9) bekezdésben foglaltak figyelembevételével – a pénzügyi teljesítőképességgel,
+b) országos működési engedély esetén – a (3) bekezdésben meghatározottak figyelembevételével – a pénzügyi teljesítőképességgel,
 
 c) a szakmai alkalmassággal,
 
 d) a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal
 
-kapcsolatos, külön jogszabályban meghatározott követelményeknek.
+kapcsolatos, a vasúti társaságok működésének engedélyezéséről szóló rendeletben meghatározott követelményeknek.
 
-(2) Az (1) bekezdés szerinti feltételek fennálltának igazolása érdekében a működési engedély iránti kérelmet előterjesztő szervezet köteles a vasúti igazgatási szerv részére a külön jogszabályban meghatározott információkat rendelkezésre bocsátani.
+(2) Az (1) bekezdés szerinti feltételek fennállásának igazolása érdekében a működési engedély iránti kérelmet előterjesztő gazdálkodó szervezet köteles a vasúti igazgatási szerv részére a vasúti társaságok működésének engedélyezéséről szóló rendeletben meghatározott információkat rendelkezésre bocsátani.
 
-(3) A működési engedély határozatlan időtartamra szól. A vasúti igazgatási szerv a működési engedély kiadása feltételeinek fennállását évente – felügyeleti díj ellenében – ellenőrzi.
-
-(3a) Az éves felügyeleti díj mértéke:
-
-a) országos pályahálózat működtető, valamint vállalkozó vasúti társaság működési engedélye esetén 1 363 000 forint,
-
-b) elővárosi, térségi és helyi pályahálózat működtető működési engedélye esetén 272 000 forint,
-
-c) elővárosi, térségi és helyi pályahálózat működtető – nyílt hozzáférés alóli mentesítéssel – működési engedélye esetén 409 000 forint,
-
-d) elővárosi, vállalkozó vasúti társaság működési engedélye esetén 136 000 forint,
-
-e) a 6. § (9) bekezdése alapján bejelentéssel saját célú pályahálózat működtető – nyílt hozzáférés alóli mentesítéssel – működési engedélye esetén 159 000 forint,
-
-f) az országos vasúti pályahálózatokhoz képest keskenyebb nyomtávú, térségi pályahálózat működtető, valamint vállalkozó vasúti társaság, továbbá térségi- és helyi vállalkozó vasúti társaság működési engedélye esetén 14 000 forint,
-
-g) saját célú pályahálózat működtető, valamint árutovábbítási működési engedély esetén 23 000 forint.
-
-(4) A vasúti társaság a működési engedély jogerőre emelkedésétől számított hat hónapon belül köteles megkezdeni a működési engedélyben meghatározott tevékenységét. E határidő elmulasztása, illetve a tevékenység végzésének hat hónapot meghaladó szüneteltetése esetén a vasúti igazgatási szerv a feltételek fennálltának felülvizsgálatát rendelheti el, továbbá indokolt esetben a működési engedélyt felfüggesztheti. A tevékenység megkezdésére irányadó határidő kérelemre a külön jogszabályban meghatározott esetekben legfeljebb további hat hónappal meghosszabbítható.
-
-(5) A vasúti társaság köteles a működési engedély feltételeivel kapcsolatos minden változásról annak bekövetkezése után 15 napon belül tájékoztatni a vasúti igazgatási szervet, beleértve a csőd- és felszámolási eljárás megindításáról szóló tájékoztatást. A vasúti igazgatási szerv elrendeli a működési engedély felülvizsgálatát a vasúti társaság jogi helyzetére befolyást gyakorló változás, így különösen más társasággal való egyesülése esetén.
-
-(6) A vasúti társaság köteles bejelenteni a vasúti igazgatási szervnek, amennyiben működési engedélyköteles tevékenységét szüneteltetni kívánja, vagy azzal felhagy. Amennyiben a vasúti igazgatási szerv a vasúti társaság bejelentése alapján, vagy hatósági ellenőrzése során megállapítja, hogy a vasúti társaság nem teljesíti a működési engedély kiadásának valamely feltételét vagy a vasúti közlekedési tevékenységét az engedélyben foglaltaktól eltérően gyakorolja, vagy e tevékenységét szünetelteti, a működési engedélyt hivatalból felfüggeszti. A felfüggesztés hatálya alatt vasúti közlekedési tevékenység nem végezhető. A felfüggesztést elrendelő határozat hatályon kívül helyezésének akkor van helye, ha a vasúti társaság igazolta, hogy a felfüggesztés elrendelésének oka megszűnt vagy bejelenti, hogy a felfüggesztett tevékenységet tovább kívánja folytatni.
-
-(7) A vasúti igazgatási szerv a működési engedélyt visszavonja:
-
-a) a vasúti társaság kérelmére,
-
-b) amennyiben a vasúti társaság a felfüggesztés elrendelésének alapjául szolgáló körülményt hat hónapon belül nem hárítja el, valamint
-
-c) amennyiben az országos működési engedéllyel rendelkező vasúti társaság csődeljárás iránti kérelmet terjesztett elő vagy a felszámolását a bíróság jogerős végzéssel elrendelte, és erre tekintettel a vasúti igazgatási szerv a működési engedély pénzügyi teljesítőképességgel kapcsolatos feltételének hiányát állapította meg.
-
-(8) A vasúti igazgatási szerv a működési engedélyben – külön jogszabályban meghatározottak szerint – a működési engedély felfüggesztésének és visszavonásának a (4) és (6)–(7) bekezdések keretei között egyedi eseteit is meghatározhatja.
-
-(9) Az országos vasúti személyszállítási működési engedéllyel rendelkező vasúti társaságnak a pénzügyi teljesítőképességét a vasúti személyszállítási közszolgáltatási szerződéssel nem fedezett tevékenységre vonatkozóan kell igazolnia.
-
-(9a) A pénzügyi teljesítőképességgel kapcsolatos valamely követelmény nem teljesítése esetén a működési engedély felfüggesztése vagy visszavonása mellett az országos működési engedéllyel rendelkező vállalkozó vasúti társaság részére a vasúti társaságok engedélyezéséről szóló miniszteri rendeletben meghatározott feltételekkel legfeljebb hat hónapos határozott időtartamra ideiglenes működési engedély adható, amennyiben a vasúti társaság további működése a vasúti közlekedés biztonságát nem veszélyezteti.
-
-(10) Amennyiben a vasúti igazgatási szerv olyan információról szerez tudomást, amely alapján alappal feltételezheti, hogy a más EGT-államban a 95/18/EK irányelv alapján kiadott működési engedélyt szerzett vállalkozó vasúti társaság nem teljesíti a működési engedély kiadásának valamely feltételét, a vasúti igazgatási szerv a működési engedélyt kiállító külföldi hatóságot haladéktalanul értesíti.
+(3) Az országos vasúti személyszállítási működési engedéllyel rendelkező vasúti társaságnak a pénzügyi teljesítőképességét a vasúti személyszállítási közszolgáltatási szerződéssel nem fedezett tevékenységre vonatkozóan kell igazolnia.

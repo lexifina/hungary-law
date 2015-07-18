@@ -1,0 +1,9 @@
+85/J. § (1) A felszín alatti vasúti pálya létesítője a felszín alatti vasút-létesítési joggal terhelt ingatlan igénybevételéről – a 85/I. § (6) bekezdésében foglaltak szerinti rendelet hatálybalépését követően és az igénybevételt legalább harminc nappal megelőzően – írásban értesíti az ingatlannak az ingatlan-nyilvántartásba bejegyzett tulajdonosát. Társasház esetén a társasház közösséget, lakásszövetkezeti ház esetén a lakásszövetkezetet vagy az ezek képviseletére jogosult személyt is értesíteni kell. Az ingatlan-nyilvántartásba bejegyzett vagyonkezelői jog esetében a vagyonkezelőt is értesíteni kell.
+
+(2) Ha a felszín alatti vasút-létesítési jog alapján történő igénybevétel a felszín alatti vasút-létesítési joggal terhelt ingatlan rendeltetésszerű használatát korlátozza vagy akadályozza, a tulajdonos a használat korlátozásának, akadályozásának megfelelő, és ezzel összefüggésben bekövetkező forgalmi értékcsökkenésnek megfelelő mértékű egyösszegű kártalanításra jogosult. A kártalanítás az igénybevétellel okozott érdeksérelem bekövetkezésekor esedékes.
+
+(3) A kártalanítás módjáról és mértékéről a felszín alatti vasúti pálya létesítőjének az ingatlan tulajdonosával a kártalanítási ajánlat írásban történő megküldésével kell az egyezség létrehozását megkísérelnie. A kártalanítást – a felek eltérő megállapodásának hiányában – pénzben kell megfizetni.
+
+(4) Megegyezés hiányában bármelyik fél kérelmére a korlátozásért vagy az akadályoztatásért járó kártalanítást a kisajátítási hatóság állapítja meg a kisajátítási kártalanításra vonatkozó szabályok szerint. A megegyezés hiányának minősül az is, ha a felszín alatti vasút létesítője a kártalanítási igény hozzá való megérkezésétől számított negyvenöt napon belül nem tesz ajánlatot egyezségre, vagy a vele közölt ajánlatra nem nyilatkozik.
+
+(5) A kisajátítási hatóság eljárására és a határozata elleni jogorvoslatra a kisajátításról szóló törvényben meghatározott rendelkezéseket kell alkalmazni.

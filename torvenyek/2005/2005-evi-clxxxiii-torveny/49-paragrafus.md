@@ -1,23 +1,15 @@
 ## XII. Fejezet
 
-## A VASÚTI PÁLYAHÁLÓZATHOZ VALÓ NYÍLT HOZZÁFÉRÉS
+## NYÍLT HOZZÁFÉRÉS
 
-## A VASÚTI PÁLYAHÁLÓZAT KAPACITÁSÁNAK BIZTOSÍTÁSA
+## A vasúti pályahálózathoz és a szolgáltatásokhoz való hozzáférés
 
-## A nyílt hozzáférésű vasúti pályahálózat
+49. § (1) A pályahálózat-működtető 2. melléklet 1. pontjában meghatározott szolgáltatásait a kapacitásigénylők díj ellenében, egyenlő, hátrányos megkülönböztetéstől mentes és átlátható feltételek mellett vehetik igénybe. Ez a jogosultság magában foglalja a kiszolgáló létesítményekhez vezető vasúti pályahálózathoz, valamint minden olyan vasúti pályahálózathoz való nyílt hozzáférést is, amelyek több végfelhasználót szolgálnak ki vagy képesek kiszolgálni.
 
-49. § (1) A vasúti pályahálózatokhoz – a (2) bekezdésben meghatározott kivételekkel – az egyenlő bánásmód elvének megtartásával biztosítani kell a nyílt hozzáférést.
+(2) Az (1) bekezdés szerinti alapszolgáltatásoknak a kapacitásigénylők által történő igénybevételére külön-külön nem kerülhet sor. Kivételt képez a 2. melléklet 1. pont e) alpontjában meghatározott felsővezetéki rendszer használata nem villamos meghajtású vasúti jármű közlekedtetése esetén.
 
-(2) A vasúti pályahálózat működtetője nem köteles a nyílt hozzáférést biztosítani
+(3) A kiszolgáló létesítmények üzemeltetői egyenlő, hátrányos megkülönböztetéstől mentes és átlátható feltételek mellett, díj ellenében nyújtják valamennyi kapacitásigénylő számára a 2. melléklet 2. pontjában meghatározott szolgáltatásokat, beleértve a létesítményben lévő vasúti pályahálózathoz való hozzáférést is.
 
-a) a kizárólag vasúti személyszállítás céljára fenntartott – nem átjárható – helyi és térségi vasúti pályahálózathoz,
+(4) Ha a kiszolgáló létesítmény üzemeltetője a 2. melléklet 3. pontjában meghatározott szolgáltatások valamelyikét kiegészítő szolgáltatásként, díj ellenében nyújtja az azt igénylő kapacitásigénylő részére, akkor ezt egyenlő, hátrányos megkülönböztetéstől mentes és átlátható feltételek mellett végzi.
 
-b) a kizárólag vasúti személyszállítás céljára fenntartott elővárosi vasúti pályahálózathoz,
-
-c) a kizárólag a vasúti pályahálózat tulajdonosa által vagy az ő érdekében áruszállításra használt saját célú vasúti pályahálózathoz,
-
-d) a kizárólag honvédelmi célra használt vasúti pályahálózathoz.
-
-(3) A transz-európai vasúti áruszállítási hálózat részeként működő vasútvonalak minden esetben a nyílt hozzáférés körébe tartoznak.
-
-(4) A nyílt hozzáférés biztosítása szempontjából – a vasúti pálya tulajdonosának, illetve üzemeltetőjének személyére tekintet nélkül – a nyílt hozzáférésű vasúti pályahálózat részének kell tekinteni a csatlakozó vasúti pályát.
+(5) A kiszolgáló létesítmény üzemeltetője dönthet úgy, hogy a 2. melléklet 4. pontjában meghatározott mellékszolgáltatásokat kizárólag egyetlen kapacitásigénylő részére nyújthatja. Ha a kiszolgáló létesítmény üzemeltetője úgy dönt, hogy e szolgáltatások közül bármelyiket más kapacitásigénylő számára is felkínálja, azokat köteles az azt igénylő kapacitásigénylő részére – díj ellenében – egyenlő, hátrányos megkülönböztetéstől mentes és átlátható feltételek mellett nyújtani.

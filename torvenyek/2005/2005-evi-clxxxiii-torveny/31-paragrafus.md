@@ -4,7 +4,7 @@
 
 (2) A vasúti közlekedés biztonsága érdekében
 
-a) a pályavasúti társaság és a vállalkozó vasúti társaság a kialakult vagy várható katasztrófa, rendkívüli esemény, súlyos káresemény (a továbbiakban együtt: veszélyhelyzet) esetén köteles a veszélyhelyzetre az érintetteket figyelmeztetni,
+a) a pályahálózat-működtető és a vállalkozó vasúti társaság a kialakult vagy várható katasztrófa, rendkívüli esemény, súlyos káresemény (a továbbiakban együtt: veszélyhelyzet) esetén köteles a veszélyhelyzetre az érintetteket figyelmeztetni,
 
 b) a vasúti pályahálózat működtetője – a veszélyhelyzet megszűnéséig – jogosult a veszélyeztetett vasúti pályának, illetve pályaszakasznak a lezárására, továbbá az adott pályaszakaszra kiadott menetvonalak visszavonására, a közúti átjárót érintő lezárás esetén a közút kezelőjének értesítése mellett,
 

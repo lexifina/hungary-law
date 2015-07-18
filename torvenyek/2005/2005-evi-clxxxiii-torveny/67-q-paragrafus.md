@@ -1,0 +1,1 @@
+67/Q. § A nem független pályahálózat-működtető Hálózati Üzletszabályzatának tartalmaznia kell az általa működtetett, nyílt hozzáférésű vasúti pályahálózathoz történő hozzáférésére vonatkozó részletes szabályokat is.

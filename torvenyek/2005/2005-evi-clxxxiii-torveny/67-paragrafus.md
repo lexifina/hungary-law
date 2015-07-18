@@ -1,31 +1,13 @@
-## A Vasúti Pályakapacitás-elosztó Szervezet
+## A kiszolgáló létesítmény kapacitásának elosztása
 
-67. § (1) A VPSZ egyszemélyes gazdasági társaság, kizárólagos tulajdonosa a magyar állam.
+67. § (1) A kiszolgáló létesítmények kapacitását a létesítményt üzemeltető pályahálózat-működtető, ha a létesítményt nem pályahálózat-működtető üzemelteti, a kiszolgáló létesítmény üzemeltetője osztja el.
 
-(2) A tulajdonosi jogokat az állam nevében a miniszter gyakorolja.
+(2) A kapacitásigénylőnek a kiszolgáló létesítményben nyújtott, a 2. melléklet 2. pontjában meghatározott szolgáltatásaihoz való hozzáférés, valamint azok nyújtása iránti kérelem tárgyában a vasúti igazgatási szerv által meghatározott – legfeljebb tizenöt napos – határidőben határozni kell. A kérelem csak abban az esetben utasítható el, ha működőképes alternatívák lehetővé teszik, hogy az érintett áru- vagy személyszállítási szolgáltatást ugyanazon vagy egy alternatív menetvonalon, gazdaságilag elfogadható feltételek mellett üzemeltessék. Ez nem kötelezi a kiszolgáló létesítmény üzemeltetőjét arra, hogy erőforrásokra vagy infrastruktúrára irányuló beruházásokat hajtson végre annak érdekében, hogy a kapacitásigénylő valamennyi kérelmét teljesíteni tudja.
 
-(3) A VPSZ működési engedélyt nem szerezhet, illetve vasúti társaságban sem közvetlen, sem közvetett módon nem szerezhet tulajdonrészt, továbbá vasúti társasággal és annak kapcsolt vállalkozásával jogviszonyt – az e törvényben meghatározott feladatainak teljesítésével összefüggő jogviszonyok kivételével – csak a vasúti igazgatási szerv előzetes hozzájárulásával létesíthet.
+(3) Ha a kapacitásigénylő kérelme a 15. § (2) bekezdésében meghatározott kiszolgáló létesítményben nyújtott szolgáltatáshoz való hozzáférésre vagy a 15. § (2) bekezdésében meghatározott kiszolgáló létesítményben történő szolgáltatásnyújtásra irányul, a kiszolgáló létesítmény üzemeltetője minden elutasító határozatot írásban megindokol és megjelöli a működőképes alternatívákat.
 
-(4) A VPSZ vezető tisztségviselője, felügyelőbizottságának tagja, vezető állású munkavállalója, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalója,
+(4) Ha a 2. melléklet 2. pontjában említett valamely kiszolgáló létesítmény üzemeltetője összeütközést észlel a különböző kérelmek között, meg kell kísérelnie az összes kérelem lehetőség szerinti összeegyeztetését. Ha nem áll rendelkezésre működőképes alternatíva és nem elégíthető ki az érintett létesítményre benyújtott kapacitáskérelmek mindegyike az igazolt szükségletek alapján, a kapacitásigénylő kérelmet nyújthat be a vasúti igazgatási szervhez. A vasúti igazgatási szerv a kérelmet megvizsgálja, és adott esetben határozatot hoz annak érdekében, hogy a kapacitás megfelelő részét a kérelmet benyújtó kapacitásigénylő kapja meg.
 
-a) a vasúti igazgatási szervvel közszolgálati jogviszonyt, vasúti társasággal vagy annak kapcsolt vállalkozásával munkaviszonyt, illetőleg munkavégzésre irányuló egyéb jogviszonyt nem létesíthet,
+(5) Ha a 2. melléklet 2. pontjában említett valamely kiszolgáló létesítményt legalább két egymást követő évben nem használták, és a hozzáférésre jogosult az adott infrastruktúrához való hozzáférés iránti indokolt igényét benyújtotta a kiszolgáló létesítmény üzemeltetője számára, a tulajdonos a kiszolgáló létesítményt részben vagy egészben történő üzemeltetés céljára, bérbe- vagy lízingbe-adásra meghirdeti. Ha a kiszolgáló létesítmény üzemeltetője bizonyítja, hogy a létesítmény hozzáférésre jogosult általi használatát folyamatban lévő átalakítási munkálatok akadályozzák, mentesül a kötelező meghirdetés alól.
 
-b) vasúti társaságban, vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
-
-c) munkafeltételeit, hatásköreit, beszámolási kötelezettségeit olyan módon kell meghatározni, hogy a 62. § (2) bekezdése szerinti feladatok ellátásával kapcsolatos ügyekben a független döntéshozatal biztosított legyen, továbbá
-
-d) munkaszerződésében vagy megbízási szerződésében foglalt jogait és kötelezettségeit, valamint a munkavégzésének feltételeit – független döntéshozatali eljárás keretében – úgy kell meghatározni, hogy a 62. § (2) bekezdése szerinti feladatok ellátásával összefüggő döntések meghozatala során a befolyásmentesség és az egyenlő bánásmód követelményének megfelelően járjon el.
-
-(5) A VPSZ vezető tisztségviselőjének, felügyelőbizottsága tagjának, vezető állású munkavállalójának, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalójának közeli hozzátartozója [Ptk. 8:1. § (1) bekezdés 1. pont]
-
-a) a vasúti igazgatási szervvel közszolgálati jogviszonyt nem létesíthet,
-
-b) vasúti társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
-
-c) vasúti társaságnak, vagy annak kapcsolt vállalkozásának vezető tisztségviselője, felügyelőbizottságának tagja vagy vezető munkavállalója nem lehet.
-
-(6) A VPSZ vezető tisztségviselője, felügyelőbizottságának tagja, vezető állású munkavállalója, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalója köteles haladéktalanul írásban bejelenteni, ha vele vagy közeli hozzátartozójával szemben törvényben meghatározott összeférhetetlenségi ok merül fel, illetve ha jogviszonyának fennállása alatt ő vagy közeli hozzátartozója összeférhetetlen helyzetbe kerül. A vezető tisztségviselőt és a felügyelőbizottság tagját a tulajdonosi jogkör gyakorlója, a vezető állású munkavállalót, és a díjszabási vagy kapacitáselosztási feladatot ellátó munkavállalót pedig a munkáltatói jogkör gyakorlója írásban köteles felszólítani az összeférhetetlenség megszüntetésére. Ha az összeférhetetlenség a felszólítás kézbesítésétől számított 30 napon belül nem szűnik meg, akkor a vezető tisztségviselő, a felügyelőbizottság tagja, a vezető állású munkavállaló, vagy a díjszabási vagy kapacitáselosztási feladatot ellátó munkavállaló jogviszonya e törvény erejénél fogva megszűnik.
-
-(7) A VPSZ a nem független vasúti pályahálózat-működtető számára nyújtott szolgáltatások ellenértékeként az általa elosztott vasúti pályahálózat-kapacitás után – a 79. § (1) bekezdésének e), g) és h) pontjára is figyelemmel – kiszámlázott hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj [65. § (2) bekezdés b) pont] külön jogszabályban meghatározott hányadának megfelelő összegű megbízási díjra jogosult a vasúti pályahálózat működtetőjétől. A vasúti pályahálózat működtetője és a VPSZ közötti jogviszonyra a külön jogszabályban, illetve a Ptk. 6:2. § (3) bekezdésében foglaltakat kell alkalmazni.
-
-(8) A VPSZ vezető tisztségviselője, vezető állású munkavállalója, továbbá díjszabási vagy kapacitáselosztási feladatot ellátó munkavállalója feladatainak ellátása során korlátozás nélkül jogosult a VPSZ e fejezetben meghatározott feladataival összefüggő üzleti titok megismerésére. E személyek a tudomásukra jutott üzleti titkot kötelesek megőrizni.
+(6) A vasúti pályahálózat-kapacitás elosztására vonatkozó részletes rendelkezéseket a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló rendelet tartalmazza.

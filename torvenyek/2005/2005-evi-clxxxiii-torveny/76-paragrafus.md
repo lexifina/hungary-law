@@ -1,11 +1,7 @@
-76. § (1) Ha a vasúti igazgatási szerv a piac felügyelete során észleli a működési engedélyhez, bejelentéshez kötött tevékenység végzésével, a vasúti pályahálózathoz való nyílt hozzáféréssel, a 18. § (4) bekezdése szerinti kötelezettség teljesítésével, a számviteli elkülönítéssel, valamint a keresztfinanszírozás tilalmával kapcsolatosan e törvényben, külön jogszabályban, a vasúti igazgatási szerv határozatában, valamint a Hálózati Üzletszabályzatban meghatározott valamely kötelezettség megsértését, jogosult
+## A vasúti igazgatási szerv eljárására vonatkozó közös szabályok
 
-a) a jogsértőt kötelezni az eljárás költségeinek megtérítésére,
+76. § (1) A vasúti igazgatási szerv kérelemre induló eljárásáért a kérelmezőnek igazgatási szolgáltatási díjat kell fizetni.
 
-b) külön jogszabályban foglaltak alapján bírságot kiszabni,
+(2) A vasúti igazgatási szerv feladat- és hatáskörébe tartozó ügyek intézésének határideje hat hét. A határidő a jogvitás eljárásban nem hosszabbítható meg.
 
-c) a tevékenység végzésének feltételeit megállapítani,
-
-d) a jogsértő magatartás folytatását megtiltani.
-
-(2) A kötelezettségek súlyos és ismétlődő megszegése esetén – amennyiben az (1) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – a vasúti igazgatási szerv felfüggesztheti, vagy visszavonhatja a működési engedélyt.
+(3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a vasúti igazgatási szerv a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.

@@ -1,47 +1,43 @@
 3. számú melléklet a 2005. évi CLXXXIII. törvényhez
 
-A vasúti pályahálózathoz való nyílt hozzáférés keretében nyújtandó szolgáltatások
+A VASÚTI PÁLYAHÁLÓZAT MŰKÖDTETÉSÉRE KÖTÖTT SZERZŐDÉS KÖTELEZŐ TARTALMI ELEMEI
 
-I. Az 54. § (1) bekezdésében hivatkozott alapszolgáltatások
+A vasúti pályahálózat működtetésére kötött szerződésnek tartalmaznia kell:
 
-a) a vasúti pályahálózat-kapacitás iránti kérelmek kezelése,
+a) azokat az infrastruktúrákat és kiszolgáló létesítményeket, amelyekre a szerződés vonatkozik, a 2. mellékletnek megfelelő szerkezetben;
 
-b) a nyílt hozzáférésű vasúti pályahálózatot a biztosított kapacitásnak megfelelően árutovábbítás, személyszállítás, illetőleg vontatás céljára a hozzáférésre jogosult rendelkezésére bocsátása,
+b) a 2. mellékletben felsorolt szolgáltatásokra, a karbantartásra, a felújításra vonatkozó feltételeket, illetve a fennálló karbantartási és felújítási lemaradások kezelésére kiutalt kifizetések vagy pénzeszközök szerkezetét;
 
-c) a nyílt vonalak, a forgalmi vágányok, a kitérők, a vágánykapcsolatok, a műtárgyak, valamint a jelző- és biztosítóberendezések használatának a b) pontban foglaltak keretein belül történő biztosítása,
+c) megtérítendő indokoltnak elismert költség meghatározásának módját;
 
-d) a vasúti járműforgalom lebonyolításáról történő gondoskodás, ideértve az ahhoz szükséges eszközök és adatok kezelését, illetve továbbítását, valamint
+d) új infrastruktúra létrehozásának feltételeit adott esetben;
 
-e) a vasúti járművek közlekedtetéséhez szükséges információk szolgáltatása.
+e) felhasználó-központú teljesítménycélokat, a következő elemeket tartalmazó mutatók és minőségi szempontok leírását:
 
-II. Az 54. § (3) bekezdésében hivatkozott létesítményekhez és berendezésekhez való hozzáférés
+ea) a vonat teljesítménye például a vonalsebesség és a megbízhatóság szempontjából és az ügyfél-elégedettség feltételeit;
 
-a) vasúti állomáshasználat és állomáshasználathoz kapcsolódó járulékos szolgáltatások tehervonatok és -kocsik számára,
+eb) hálózati kapacitás leírását;
 
-b) vasúti állomások használata és állomáshasználathoz kapcsolódó járulékos szolgáltatások személyszállító vonatok és -kocsik számára,
+ec) vagyonkezelés feltételeit;
 
-c) vasúti üzemanyagtöltő berendezések és felsővezetéki rendszerek használata,
+ed) a tevékenységek mennyiségére vonatkozó adatokat;
 
-d) állomási, szolgálati helyiségek, vonali területek és berendezések használata, , illetve vasúti járművek tárolása,
+ee) biztonsági szinteket; valamint
 
-e) hozzáférés a vasúti jármű karbantartására szolgáló létesítményekhez, a különböző nyomtávok közötti átrakást szolgáló berendezésekhez és a vasúti pályahálózat igénybevételéhez elengedhetetlenül szükséges egyéb létesítményekhez és berendezésekhez.
+ef) környezetvédelemre vonatkozó feltételeket;
 
-III. Az 54. § (4) bekezdésében hivatkozott kiegészítő szolgáltatások
+f) az esetleges karbantartási lemaradások mértékére vonatkozó kritériumokat, azon feltételeket, amelyek alapján eszközöket ki lehet vonni a működtetésből, illetve üzemeltetésből, ennek gazdasági hatásaira vonatkozó feltételeket;
 
-a) a vontatási energia nyújtása,
+g) a 2012/34/EU európai parlamenti és tanácsi irányelv 30. cikk (1) bekezdésében említett kedvezményekre vonatkozó feltételeket, kivéve azokat, amelyek a 30. cikk (3) bekezdésével összhangban hozott szabályozó intézkedésekkel kerülnek végrehajtásra;
 
-b) tolatás és a II. részben meghatározott létesítmények használatával kapcsolatos egyéb szolgáltatások, ideértve a határforgalom lebonyolításával kapcsolatos, valamint a különböző vasúti pályahálózatok kölcsönös átjárhatóságának hiányából eredően szükségessé váló szolgáltatásokat – különösen a különböző nyomtávok miatt szükséges átrakási és tengelyátszerelési tevékenységeket – is,
+h) a pályahálózat-működtető minimális jelentéstételi kötelezettségeit, rendelkezést a jelentés tartalmára és gyakoriságára vonatkozóan, ideértve az évente közzéteendő információkat is;
 
-c) közlekedésben részt vevő személyszállító vonatok előfűtése, előhűtése,
+i) a szerződés hatályára vonatkozó rendelkezéseket, amelynek adott esetben összhangban kell állnia a pályahálózat-működtető koncessziójának vagy engedélyének időtartamával, valamint az állami díjképzési rendszerrel és díjképzési szabályokkal;
 
-d) veszélyes áruval rakott kocsik vonatban történő vasúti továbbítása és kiegészítő szolgáltatás rendkívüli küldemények rendes vonatban való közlekedtetése esetén,
+j) a nagyobb üzemszünetek és vészhelyzetek kezelésére vonatkozó szabályokat, ideértve a veszélyhelyzeti terveket, a szerződés idő előtti felbontását és a felhasználók megfelelő időben történő tájékoztatását is;
 
-e) vonatfelvételi tevékenység végzése.
+k) az abban az esetben meghozandó rendelkezéseket, ha bármely fél megszegi szerződéses kötelezettségeit;
 
-IV. Az 54. § (5) bekezdésében hivatkozott mellékszolgáltatások
+l) arra vonatkozó rendelkezéseket, ha rendkívüli körülmények befolyásolják a pályaműködtetés állami finanszírozását;
 
-a) hozzáférés a távközlési hálózathoz,
-
-b) kiegészítő információk szolgáltatása,
-
-c) a vasúti jármű műszaki vizsgálata.
+m) a szerződés módosítására, újratárgyalására, vitarendezésre és idő előtti felbontására vonatkozó feltételeket és eljárásokat.

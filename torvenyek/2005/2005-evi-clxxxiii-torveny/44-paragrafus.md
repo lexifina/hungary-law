@@ -1,27 +1,17 @@
-## FELSZÍN ALATTI VASÚT-LÉTESÍTÉSI JOG
+## Vasút-létesítési jog
 
-44. § (1) Az országos, a térségi, az elővárosi és a helyi vasúti pályahálózathoz tartozó vasúti pálya és tartozékainak létesítője jogerős hatósági építési és műszaki engedély birtokában jogosult a nyomvonal által érintett ingatlant – annak felszíne alatt – felszín alatti vasúti pálya és tartozékai létesítésére és üzemeltetésére igénybe venni (felszín alatti vasútlétesítési jog).
+44. § (1) A vasúti pályahálózat működtetésének elemei közül
 
-(2) A felszín alatti vasúti pálya és tartozékainak létesítése és üzemeltetése fontos közérdekű tevékenység. Az ingatlan tulajdonosa köteles tűrni az igénybevételt.
+a) a létesítést, felújítást és fejlesztést a pályahálózat-működtető vagy a fejlesztési közreműködő,
 
-(3) Az (1) bekezdés alapján létesülő felszín alatti vasúti pályának és tartozékainak tulajdonjoga önálló ingatlanként a 38. § (1)–(2) bekezdéseiben, illetve a 40. §-ban meghatározott személyt illeti meg. A felszín alatti vasúti pálya és tartozékai létesítése egyebekben nem érinti a felszín alatti vasút-létesítési joggal terhelt ingatlan tulajdonjogát.
+b) a GSM-R rendszerhálózat létesítését az a) pontban meghatározottakon kívül a GSM-R fejlesztő is végezheti (az a) és b) pont a továbbiakban együtt: építtető).
 
-(4) Nem illeti meg elővásárlási jog
+(2) Ha a létesítést, felújítást és fejlesztést a fejlesztési közreműködő végzi, a létesítésben, felújításban és fejlesztésben az érintett pályahálózat-működtető közreműködik. A pályahálózat-működtető és a fejlesztési közreműködő, valamint a GSM-R fejlesztő a feladatok megosztásáról együttműködési szerződést köt.
 
-a) az (1) bekezdés alapján létesített felszín alatti vasúti pálya és tartozékai tulajdonosát a felszín alatti vasút-létesítési joggal terhelt ingatlanra,
+(3) A fejlesztési közreműködőként eljáró NIF Nemzeti Infrastruktúra Fejlesztő Zrt. (a továbbiakban: NIF Zrt.) mint építtető az országos jelentőségű vasútvonalakon, valamint az azokhoz kapcsolódó ingatlanokon központi költségvetési és uniós támogatásból létesítési, felújítási és fejlesztési feladatokat lát el az állam nevében és állami tulajdonon megvalósuló fejlesztés esetén az állam javára, amely tevékenység fontos közérdekű és közcélú tevékenységnek minősül.
 
-b) a felszín alatti vasút-létesítési joggal terhelt ingatlan tulajdonosát az (1) bekezdés alapján létesített felszín alatti vasúti pályára és tartozékaira.
+(4) A vasúti társaság tulajdonában vagy vagyonkezelésében álló területen megvalósuló vasútfejlesztés esetén a vasúti társaság a beruházás jogerős használatbavételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
 
-(5) E törvény alkalmazásában a felszín alatti vasúti pálya létesítőjén a vasúti pálya hatósági építési és műszaki engedély jogosultját, illetve
+(5) Az e §-ban szabályozott vagyonkezelői jog ingatlan-nyilvántartásban történő bejegyzésére, valamint törlésére irányuló eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
 
-a) helyi vasúti pályahálózatba tartozó vasúti pálya esetében annak tulajdonosát,
-
-b) az országos, a térségi és az elővárosi vasúti pályahálózatba tartozó vasúti pálya esetén a vasúti pályahálózat működtetőjét kell érteni.
-
-(6) A felszín alatti vasúti pálya nyomvonala által érintett ingatlanok jegyzékét
-
-a) országos, a térségi és az elővárosi vasúti pályahálózatba tartozó vasúti pálya esetén a miniszter,
-
-b) helyi vasúti pályahálózatba tartozó vasúti pálya esetén a települési önkormányzat (a fővárosban a Fővárosi Önkormányzat)
-
-rendeletben teszi közzé.
+(6) A (2)–(4) bekezdésben meghatározott rendelkezéseket alkalmazni kell azon önkormányzati fejlesztésekre is, amelyek során fejlesztési közreműködő jár el.

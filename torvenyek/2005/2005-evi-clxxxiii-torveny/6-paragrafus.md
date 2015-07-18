@@ -4,28 +4,12 @@
 
 ## MŰKÖDÉSI ENGEDÉLY
 
-6. § (1) E törvény alapján a vasúti pályahálózat működtetése, valamint a vasúti személyszállítás, az árutovábbítás és a vontatási szolgáltatás – a (8) bekezdésben meghatározott kivétellel – működési hatósági engedélyhez (a továbbiakban: működési engedély) kötött tevékenység.
+6. § (1) E törvény alapján a vasúti személyszállítás, az árutovábbítás, a vontatási szolgáltatás hatósági működési engedélyhez (a továbbiakban: működési engedély) kötött tevékenység. A működési engedély önmagában a nyílt hozzáférésű vasúti pályahálózathoz való hozzáférésre nem jogosít.
 
-(1a) A vasúti igazgatási szerv a kiadott működési engedélyekről nyilvántartást vezet, amely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+(2) A működési engedélyt a vasúti igazgatási szerv a belföldön bejegyzett gazdálkodó szervezet részére adja ki.
 
-(2) A vasúti személyszállításra és a vasúti árutovábbításra működési engedély külön-külön is megszerezhető. Vontatási szolgáltatás vasúti személyszállításra vagy vasúti árutovábbításra vonatkozó működési engedély birtokában végezhető. Működési engedélyt az a szervezet kaphat, amely teljesíti az e törvényben és a külön jogszabályban meghatározott feltételeket. Ha vasúti társaság kizárólag vontatási szolgáltatást nyújt, azt a működési engedély iránti kérelmében meg kell jelölnie és a működési engedélyében ezt rögzíteni kell. Kizárólag vontatási szolgáltatás nyújtása estén a vasúti társaság személyszállítási üzletszabályzatot [20. § (1) bekezdés] vagy árutovábbítási üzletszabályzatot [23. § (1) bekezdés] nem köteles készíteni.
+(3) A Magyarországon kiadott működési engedéllyel egy tekintet alá esik a valamely más EGT-tagállamban a 2012/34/EU irányelv alapján kiadott működési engedély.
 
-(3) Egy vasúti társaság részére egy működési engedély adható ki vasúti pályahálózat működtetésre. Ha a vasúti pályahálózat működtetője nem független vasúti pályahálózat-működtetőnek minősül, a működési engedélyben erre utalni kell.
+(4) A vasúti igazgatási szerv a kiadott működési engedélyekről nyilvántartást vezet, amely nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
-(4) Vállalkozó vasúti tevékenység végzésére vonatkozó működési engedély valamennyi nyílt hozzáférésű vasúti pályahálózatra, valamint a működési engedélyben meghatározott térségi, elővárosi, helyi vagy saját célú vasúti pályahálózatra adható ki.
-
-(5) Térségi személyszállításra vonatkozó működési engedély önálló térségi vasúti pályahálózaton végzett személyszállítási tevékenységre adható ki.
-
-(6) Az elővárosi, illetve térségi működési engedéllyel rendelkező vasúti társaság az országos vasúti pályahálózatot a működési engedélyében meghatározott legközelebbi vasúti csomópontig igénybe veheti.
-
-(7) Saját célú vasúti pályahálózaton vasúti személyszállítás nem végezhető, arra vasúti személyszállítási engedély nem adható ki.
-
-(8) Nem kell működési engedély
-
-a) a turistavasútnak,
-
-b) a sífelvonónak,
-
-c) a saját célú vasúti pályahálózat működtetéséhez és a saját célú vasúti pályahálózaton áruszállítás végzéséhez.
-
-(9) A (8) bekezdésben meghatározott vasúti társaságok, valamint a vasúti közlekedési tevékenységet végző szervezet tevékenységük megkezdését a vasúti igazgatási szerv és a közlekedési hatóság részére bejelentik.
+(5) A működési engedély határozatlan időtartamra szól.

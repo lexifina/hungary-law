@@ -1,17 +1,11 @@
-## A TELEPÜLÉSI ÖNKORMÁNYZATOK FELADATAI
+## A települési önkormányzatok önként vállalt feladatai
 
-5. § (1) A települési (fővárosban a fővárosi) önkormányzat (a továbbiakban: önkormányzat), valamint önkormányzatok társulásának önként vállalt feladata lehet:
+5. § (1) A települési (fővárosban a fővárosi) önkormányzat (a továbbiakban együtt: önkormányzat), valamint az önkormányzatok társulásának önként vállalt feladata lehet:
 
-a) a helyi közforgalmú vasúti közlekedés fejlesztésére vonatkozó – az országos, a térségi és az elővárosi közforgalmú vasúti közlekedéssel, valamint az épített és természeti környezet védelmével összehangolt, a fejlett információs és kommunikációs technológiák alkalmazására alapozott – koncepciók jóváhagyása, valamint azok végrehajtásának megszervezése,
+a) a városi és helyi vasúti közlekedés fejlesztésére vonatkozó – az országos és a térségi vasúti közlekedéssel, valamint az épített és természeti környezet védelmével összehangolt, a fejlett információs és kommunikációs technológiák alkalmazására alapozott – koncepciók készítése, valamint azok végrehajtásának megszervezése,
 
-b) az önkormányzat tulajdonában lévő vasúti pályák fejlesztése, működtetése,
+b) az önkormányzat tulajdonában és használatában lévő vasúti pályák fejlesztése, működtetése,
 
-c) helyi közforgalmú vasúti társaság alapítása,
+c) városi és helyi vasúti társaság alapítása.
 
-d)–e)
-
-f)
-
-(2) Az (1) bekezdésben felsorolt feladatok a képviselő-testület hatáskörébe tartoznak.
-
-(3)–(4)
+(2) Az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvény 9. §-ában foglaltakra tekintettel, a miniszter kezdeményezésére a környezetvédelmi engedélyben meghatározott és kormányrendeletben kijelölt vasúti nyomvonalakat az érintett települési, a fővárosban a fővárosi és a kerületi önkormányzatoknak a településrendezési eszközeikben figyelembe kell venniük és a vasúti nyomvonalakat kijelölő kormányrendelet hatálybalépésétől számított hat hónapon belül a településszerkezeti tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet a Kormány biztosítja az önkormányzatok számára.

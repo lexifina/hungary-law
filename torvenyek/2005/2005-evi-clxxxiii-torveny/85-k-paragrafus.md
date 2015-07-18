@@ -1,0 +1,5 @@
+85/K. § (1) Ha a felszín alatti vasút-létesítési jog alapján történő igénybevétel akár a létesítés, akár az üzemeltetés során a felszín alatti vasút-létesítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza, a felszín alatti vasúti pálya létesítője az ingatlan megvásárlását, ennek sikertelensége esetén kisajátítását kezdeményezi.
+
+(2) Az ingatlan megvásárlása és kisajátítása kezdeményezésének joga a felszín alatti vasút-létesítési joggal terhelt ingatlan tulajdonosát is megilleti, ha a felszín alatti vasút-létesítési jog alapján történő igénybevétel az ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza. Ha a tulajdonos az itt meghatározott feltételek fennállását bizonyította, a kisajátítási eljárást le kell folytatni.
+
+(3) A kisajátított ingatlan országos jelentőségű vasútvonalak közé tartozó vasúti pálya esetén az állam, városi, elővárosi és helyi vasúti pályahálózatba tartozó vasúti pálya esetében pedig annak a helyi önkormányzatnak (a fővárosban a fővárosi önkormányzatnak) a tulajdonába kerül, amelynek területén a felszín alatti vasúti pálya létesült vagy létesülni fog.

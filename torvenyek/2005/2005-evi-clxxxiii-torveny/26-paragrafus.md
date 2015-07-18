@@ -1,15 +1,21 @@
-## VAGYONKEZELÉSI SZERZŐDÉS
+## Vagyonkezelési szerződés
 
-26. § (1) Az országos és az állam tulajdonában lévő vasúti pályát tartalmazó térségi vagy elővárosi vasúti pályahálózatot működtető pályavasúti társaság vagy az integrált vasúti társaság, központi költségvetési szerv vagy az állam 100%-os tulajdonába tartozó más nem pályaműködtető vagyonkezelő gazdasági társaság (a továbbiakban: nem pályaműködtető vagyonkezelő) a vagyonkezelési szerződést a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a vonatkozó jogszabályok alapján – az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg. A nem pályaműködtető vagyonkezelő vagyonkezelési tevékenysége közfeladatnak minősül.
+26. § (1) A magyar állam tulajdonában lévő vasúti pályahálózat vagyonkezelésére
 
-(1a) Az állam nevében az MNV Zrt. jogosult megkötni a vasúti pályahálózat működtetéséhez szükséges valamennyi ingatlannak az állam tulajdonába kerülésére vonatkozó szerződéseket és vasúti pályahálózat működtetéséhez szükséges valamennyi ingatlannak a vagyonkezelésbe adására vonatkozó szerződéseket.
+a) pályahálózat-működtető,
 
-(1b) Az állam tulajdonába kerülő és a már állam tulajdonában lévő, a vasúti pályahálózat működtetéséhez szükséges ingatlanok tekintetében az állam nevében a tulajdonosi jogokat az MNV Zrt. gyakorolja.
+b) az integrált vasúti társaság,
 
-(1c) Állami tulajdonba kerülés esetén a vasúti pályahálózat működtetéséhez szükséges ingatlanokra vonatkozó szerződéses jogviszonyokban az állam a korábbi tulajdonos jogutódjának minősül. Ezen ingatlanokra korábban kötött szerződések az abban rögzített feltételek szerint továbbra is hatályban maradnak, a felek külön rendelkezése nélkül.
+c) központi költségvetési szerv vagy
 
-(1d) A nem pályaműködtető vagyonkezelő az MNV Zrt.-vel megkötött vagyonkezelési szerződés alapján a pályahálózat hasznosítási jogát a vasúti pályahálózat működtetőjének – a hasznosítási jog átengedésére, fejlesztési, felújítási és karbantartási feladatok ellátására vonatkozó szerződés keretében – ingyenesen átengedi. A nem pályaműködtető vagyonkezelő a vagyonkezelt vagyonra vonatkozó indokolt költségeit és ráfordításait a vasúti pályahálózat működtetőjére átháríthatja.
+d) az állam 100%-os tulajdonába tartozó más nem pályahálózat-működtető vagyonkezelő gazdasági társaság [a c) és d) pont a továbbiakban együtt: nem pályaműködtető vagyonkezelő.]
 
-(1e) A nem pályaműködtető vagyonkezelő és az MNV Zrt. közötti vagyonkezelési szerződésben rögzíteni kell a vagyonkezelés keretében átadásra kerülő vagyon rendezésével és a nyilvántartások egységesítésével összefüggésben alkalmazandó eljárásokat, ideértve az egyes vagyoni kimutatások között fellelt eltérések rendezésével és átvezetésével összefüggésben alkalmazandó szabályokat is.
+a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a magyar állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg.
 
-(2) A legalább többségi állami tulajdonú országos pályavasúti társaság a Kormány egyedi döntése, vagy a közigazgatási szerv megkeresése alapján köteles biztosítani a személyforgalom lebonyolítására és kiszolgálására szolgáló létesítményben (pályaudvar, vasútállomás) közigazgatási szervek számára az ügyintézést nyújtó szervezet elhelyezését, annak akadálymentes megközelítését, az állomás és a távközlési hálózat használatát és üzemeltetését. Az ügyintézés helyszínét biztosító helyiségek igénybevételével és használatával kapcsolatos szabályokról, valamint a helyiség üzemeltetésével kapcsolatos közvetlen költségek (közüzemi díjak és önköltségi szinten számított épületüzemeltetési költségek) viseléséről az érintett országos pályavasúti társaság és az érintett közigazgatási szerv szerződésben rendelkeznek.
+(2) A vasúti pályahálózatra vonatkozó vagyonkezelési tevékenység közfeladatnak minősül.
+
+(3) A magyar állam nevében az MNV Zrt. jogosult megkötni a vasúti pályahálózat működtetéséhez szükséges valamennyi vagyonelemnek az állam tulajdonába kerülésére vonatkozó szerződéseket és vasúti pályahálózat működtetéséhez szükséges valamennyi vagyonelem vagyonkezelésbe adására vonatkozó szerződéseket.
+
+(4) Az állam tulajdonába kerülő és a már állami tulajdonban lévő, a vasúti pályahálózat működtetéséhez szükséges vagyonelem tekintetében az állam nevében a tulajdonosi jogokat az MNV Zrt. gyakorolja.
+
+(5) Állami tulajdonba kerülés esetén a vasúti pályahálózat működtetéséhez szükséges vagyonelemekre vonatkozó szerződéses jogviszonyokban az állam a korábbi tulajdonos jogutódjának minősül. Az ezen vagyonelemekre korábban kötött szerződések az abban rögzített feltételek szerint továbbra is hatályban maradnak, a felek külön rendelkezése nélkül.

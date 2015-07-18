@@ -10,20 +10,14 @@ a) a Magyarország területén található vasúti rendszerekre, a belföldi vas
 
 b) a Magyarország területén folytatott vasúti közlekedést irányító, működtető, illetve az abban részt vevő természetes személyekre és szervezetekre,
 
-c)
+c) az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatásokra és az ilyen szolgáltatást végző vasúti munkavállalókra,
 
-d) a trolibusz kötött pályájának engedélyezésére
+d)
 
 terjed ki.
 
-(2) Magyarországon bejegyzett vasúti társaság által a Magyarország területén kívül végzett, vasúti árutovábbításra és vontatási szolgáltatásra a törvény rendelkezéseit annyiban kell alkalmazni, amennyiben törvény vagy nemzetközi szerződés eltérően nem rendelkezik.
+(2) Nemzetközi szerződéssel összhangban e törvény rendelkezéseit abban az esetben kell alkalmazni pályahálózat-működtető Magyarország területén kívül végzett vasúti pályahálózat működtetési tevékenységére, ha magyarországi kiinduló vagy célállomással rendelkező vasúti jármű közlekedése során Magyarország területén kívül eső pályahálózatot is igénybe vesz.
 
 (3)–(4)
 
-(5) Nem kell alkalmazni a törvény
-
-a) 3. § (2) bekezdésének d) pontját és 14. § (1) bekezdését a Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság (a továbbiakban: GySEV Zrt.) működtetésében lévő országos vasúti pályahálózat vonatkozásában,
-
-b)
-
-c) 40. § (1) bekezdését a Fertővidéki Helyi Érdekű Vasút Zrt. működtetésében lévő vasúti pályahálózathoz tartozó vasúti pályák és tartozékaik vonatkozásában.
+(5)

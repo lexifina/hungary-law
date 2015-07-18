@@ -1,29 +1,3 @@
-79. § (1) A vasúti igazgatási szerv a jogvitás ügyben hozott határozatában
+## A vasúti igazgatási szerv ellenőrzési tevékenysége
 
-a) elutasítja az alaptalan kérelmet,
-
-b) megállapítja a jogsértés megtörténtét,
-
-c) kötelezi a jogsértés okozóját a jogszabálynak megfelelő magatartás tanúsítására,
-
-d) a jövőre nézve módosítja a Hálózati Üzletszabályzat jogszabályba ütköző rendelkezését,
-
-e) a 77. § (1) bekezdés c) pontja szerinti jogvita esetén elrendelheti a Díjszabási Módszertan módosítását, és a módosított Díjszabási Módszertan alapján új Díjszámítási Dokumentum készítését, valamint annak megfelelő díjszabási rendszer Hálózati Üzletszabályzatban való meghirdetését,
-
-f) a jogsértőt kötelezi az eljárással kapcsolatban felmerült költségek viselésére,
-
-g) a 77. § (1) bekezdés d) pontja szerinti jogvita esetén elrendelheti új Díjszámítási Dokumentum készítését, valamint annak megfelelő díjszabási rendszer Hálózati Üzletszabályzatban való meghirdetését,
-
-h) a pályahálózat-működtető részére fizetendő (elszámolandó) díjakkal kapcsolatos jogvita esetén megtiltja a jogszerűtlen ellenérték további alkalmazását, egyidejűleg megállapítja a jogszerű ellenértéket és kötelezheti a vasúti társaságot a jogszerű ellenérték alkalmazására.
-
-(2) A vasúti igazgatási szerv az (1) bekezdésben meghatározott jogkövetkezmények közül egyidejűleg többet is alkalmazhat.
-
-(3) Ha a vasúti igazgatási szerv az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt a hatáskörrel rendelkező hatóságnak, így különösen a versenyhatóságnak jelezni.
-
-(4) Amennyiben megállapítható, hogy e törvény szabályainak megszegése miatt ideiglenes intézkedés hiányában súlyos, másként el nem hárítható jog-, illetve érdeksérelem következne be, vagy ennek veszélye áll fenn, és az intézkedés miatti hátrány nem haladja meg az intézkedéssel elérhető előnyöket, a vasúti igazgatási szerv a folyamatban lévő ügyben – kérelemre vagy hivatalból – elrendelt ideiglenes intézkedésként
-
-a) megállapíthatja a vasúti pályahálózat-kapacitás – a hozzáférésre jogosult ügyfél részére történő – biztosításának feltételeit,
-
-b) megtilthatja a jogsértő magatartás tanúsítását.
-
-(5) A vasúti igazgatási szerv ideiglenes intézkedés tárgyában hozott végzése elleni bírósági felülvizsgálat iránti kérelem előterjesztésének a végzés közlésétől számított 15 napon belül van helye. A kérelem tárgyában a bíróság 15 napon belül határoz.
+79. § A vasúti igazgatási szerv jogosult a pályahálózat-működtetőknél, a kiszolgáló létesítmény üzemeltetőjénél vagy a vállalkozó vasúti társaságoknál ellenőrzéseket végezni annak vizsgálata érdekében, hogy azok megfelelnek-e a 21. §-ban megállapított, a számviteli elkülönítésre vonatkozó rendelkezéseknek. E tekintetben a vasúti igazgatási szerv jogosult az előírásoknak való megfelelés vizsgálatához szükséges tájékoztatás adására kötelezni a pályahálózat-működtetőt, a kiszolgáló létesítmény üzemeltetőjét, továbbá minden olyan vállalkozást vagy gazdasági társaságot, amely vállalkozó vasúti társasági vagy pályahálózat-működtetői feladatokat lát el. A vasúti igazgatási szerv felhívására a pályahálózat-működtető, a kiszolgáló létesítmény üzemeltetője, továbbá minden olyan vállalkozás vagy gazdasági társaság, amely vállalkozó vasúti társasági vagy pályahálózat-működtetői feladatokat lát el, rendelkezésre bocsátja a számviteli elkülönítésnek és az önálló belső mérlegkészítésnek a szabályairól szóló rendeletben meghatározott számviteli adatokat. Az állami támogatással kapcsolatos kérdésekért felelős hatóság meglévő hatásköreinek sérelme nélkül, a vasúti igazgatási szerv ezekből a beszámolókból is következtetéseket vonhat le az állami támogatásokra vonatkozóan, és ezekről jelentést tesz az illetékes hatóságoknak.

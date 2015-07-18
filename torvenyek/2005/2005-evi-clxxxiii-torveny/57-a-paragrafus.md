@@ -1,1 +1,0 @@
-57/A. § 2010. január 1-jétől kezdődően ötéves időtartamra szóló, egyszer megújítható első keretmegállapodás hozható létre a 2010. január 1-jét megelőzően vasúti közlekedési tevékenységet végző hozzáférésre jogosultak által használt kapacitásmutatók alapján, a különleges beruházások vagy a létező kereskedelmi szerződések figyelembevétele érdekében.

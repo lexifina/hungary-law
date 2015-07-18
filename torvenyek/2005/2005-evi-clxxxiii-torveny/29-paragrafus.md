@@ -1,9 +1,9 @@
-## AZ EGYÉB SZERZŐDÉSEK
+29. § (1) A pályahálózat-működtető üzleti tervének összhangban kell lennie a pályaműködtetési szerződéssel.
 
-29. § (1) Szerződésben kell meghatározni a vasúti társaság részére nyújtott egyéb központi költségvetési támogatás jogcímét és mértékét is. Az állam által nyújtott támogatás célja a 28. § (2) bekezdésének a)–d) pontjain túlmenően lehet
+(2) A pályahálózat-működtető az (1) bekezdésben meghatározott szerződés végleges tervezetét a honlapján közzéteszi. A honlapon megadott elektronikus levélcímen keresztül a közzétételt követő tizenöt napon belül bárki véleményt nyilváníthat a közzétett tervezetről. A vélemények beérkezéséről visszaigazolást kell küldeni.
 
-a) a foglalkoztatás és képzés,
+(3) A névtelenül beérkezett véleményeket azok figyelembevétele nélkül törölni kell.
 
-b) a társaság szerkezeti átalakítására nyújtott költségvetési juttatás.
+(4) Az (1) bekezdésben meghatározott szerződést a megkötését követő harminc napon belül a pályahálózat-működtető a honlapján közzéteszi.
 
-(2) Az (1) bekezdés szerinti szerződésre egyebekben a 28. § rendelkezéseit kell megfelelően alkalmazni.
+(5) A pályahálózat-működtető a tulajdonában és üzemeltetésében lévő eszközökről nyilvántartást készít, amely alapján felmérhető az ezen eszközök javításához vagy cseréjéhez szükséges finanszírozás nagysága. A nyilvántartásban rögzíteni kell a pályahálózat felújítására és korszerűsítésére fordított kiadások részleteit is.

@@ -4,7 +4,7 @@
 
 a) a vasúti közlekedés biztonságának,
 
-b) nyílt hozzáférésű vasúti pályahálózat [49. §] esetében a hozzáférésre jogosultak [53. § (1) bekezdés] közötti egyenlő bánásmód elvének
+b) nyílt hozzáférésű vasúti pályahálózat esetében a hozzáférésre jogosultak közötti egyenlő bánásmód elvének
 
 figyelembevételével, rendeletben állapítja meg.
 

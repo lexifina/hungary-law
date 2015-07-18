@@ -1,19 +1,15 @@
 ## VIII. Fejezet
 
-## AZ ÁLLAM ÉS A VASÚTI TÁRSASÁGOK, VALAMINT AZ ÖNKORMÁNYZATOK ÉS A VASÚTI TÁRSASÁGOK KÖZÖTTI SZERZŐDÉSEK
+## VASÚTI ÁGAZATI SZERZŐDÉSEK
 
-## AZ ÁLLAM ÉS A VASÚTI TÁRSASÁGOK KÖZÖTTI SZERZŐDÉSEK
+## A magyar állam és a vasúti társaságok közötti szerződések
 
-25. § (1) Az állam az országos, a térségi, illetve az elővárosi vasúti pályahálózatot működtető vasúti társasággal,
+25. § (1) A magyar állam az állami tulajdonban lévő vasúti pályahálózatok vagyonkezelésére a vasúti pályahálózatot működtető pályahálózat-működtetővel vagyonkezelési szerződést (a továbbiakban: vagyonkezelési szerződés) köt.
 
-a) az állami tulajdonban lévő vasúti pályák kezelésére (a továbbiakban: vagyonkezelési szerződés), továbbá
+(2) A magyar állam az országos jelentőségű vasútvonalak, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi vagy elővárosi vasúti pályahálózat működtetésére szerződést (a továbbiakban: pályahálózat-működtetési szerződés) köt.
 
-b) az országos, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi, illetve elővárosi vasúti pályahálózat működtetésére
+(3) A magyar állam a pályahálózat-működtető és a vállalkozó vasúti társaság részére szerződésben a (2) bekezdésben meghatározott vasúti pályahálózatok, valamint – az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSZ) 107. és 108. cikkeivel összhangban – a kombinált forgalom fejlesztéséhez, a vasúti foglalkoztatásra, képzésre és szerkezetátalakításra egyedi támogatást nyújthat.
 
-szerződést köt.
+(4) A pályahálózat-működtetővel a (2) és a (3) bekezdés szerinti szerződéseket – az államháztartásért felelős miniszter egyetértésével – a magyar állam nevében a miniszter köti meg.
 
-(2) Az állam a vasúti pályahálózat működtetője, illetve a vállalkozó vasúti társaság részére szerződésben az (1) bekezdés b) pontjában meghatározott vasúti pályahálózatok, valamint a kombinált forgalom fejlesztéséhez, a vasúti foglalkoztatásra, képzésre és szerkezet-átalakításra egyedi támogatást nyújthat.
-
-(3) A pályavasúti társasággal, illetve az integrált vasúti társasággal az (1) bekezdés b) pontja és a (2) bekezdés szerinti szerződéseket – az államháztartásért felelős miniszter egyetértésével – az állam nevében a miniszter köti meg.
-
-(4) E fejezetben foglaltakat – a szerződést megkötő személyt meghatározó rendelkezések kivételével – az önkormányzat és a helyi közforgalmú vasúti társaság közötti szerződésre megfelelően alkalmazni kell.
+(5) Az e fejezetben foglaltakat az önkormányzat és a városi, elővárosi és helyi vasúti társaság közötti szerződésre megfelelően alkalmazni kell.

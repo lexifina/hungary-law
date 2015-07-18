@@ -1,3 +1,5 @@
-23. § (1) A vasúti árufuvarozási tevékenységet végző vállalkozó vasúti társaság köteles az árufuvarozási tevékenységre vonatkozó általános szerződési feltételeit tartalmazó árufuvarozási üzletszabályzatot készíteni. Az árufuvarozási üzletszabályzatot, valamint annak módosítását a vasúti igazgatási szerv külön jogszabályban foglaltak szerint hagyja jóvá. A jóváhagyás nem tagadható meg, amennyiben az árufuvarozási üzletszabályzat a külön jogszabályban meghatározott feltételeknek megfelel. A jóváhagyott árufuvarozási üzletszabályzatot a vállalkozó vasúti társaság köteles a honlapján, illetve térítés ellenében kinyomtatva hozzáférhetővé tenni.
+## Vasúti árufuvarozási szolgáltatás
+
+23. § (1) A vasúti árufuvarozásra kötött szerződésekre a Ptk. szerződésekre vonatkozó általános, továbbá a fuvarozási szerződésekre vonatkozó rendelkezéseit az e törvényben, valamint a vasúti árufuvarozási szerződésekre vonatkozó részletes szabályokról szóló kormányrendeletben foglalt kiegészítésekkel kell alkalmazni.
 
 (2) A vasúti árufuvarozás részletes feltételeit a Kormány rendeletben határozza meg.

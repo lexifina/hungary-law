@@ -4,8 +4,64 @@
 
 ## A VASÚTI IGAZGATÁSI SZERV FELADATAI
 
-69. § (1)
+69. § A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:
 
-(2) A vasúti igazgatási szerv részére a piac felügyeletével kapcsolatos tevékenységéért az országos működési engedéllyel rendelkező vasúti társaságok felügyeleti díjat kötelesek fizetni, amelynek mértéke a fizetésre kötelezett által az előző évben belföldön fizetett hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj 0,4%-a. A felügyeleti díj mértéke az éves költségvetési törvényben – a vasúti igazgatási szerv részére az éves költségvetési törvényben megállapított támogatási előirányzat mértékének figyelembevételével – a szükséghez képest módosításra kerülhet. Előző évi fizetett pályahasználati díj, illetve pályahálózat-hozzáférési díj hiányában a felügyeleti díjat a tárgyidőszakban ténylegesen fizetett pályahálózat-hozzáférési díjak alapján kell megfizetni. A felügyeleti díj megfizetésének módját és feltételeit a miniszter rendeletben állapítja meg.
+1. működési engedély és ideiglenes működési engedély kiadása, módosítása, felfüggesztése, visszavonása, a működési engedély, ideiglenes működési engedély feltételei fennállásának ellenőrzése,
 
-(3) A vasúti igazgatási szerv kérelemre induló eljárásáért a kérelmezőnek igazgatási-szolgáltatási díjat kell fizetni. Az igazgatási-szolgáltatási díjak körét és mértékét, és a díjak fizetésére vonatkozó egyéb rendelkezéseket a miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
+2. a működési engedélyhez nem kötött vasúti tevékenység és a pályahálózat-működtetés bejelentés tudomásulvételéről szóló értesítés,
+
+3. nyilvántartás vezetése a működési engedélyekről, valamint a tudomásul vett bejelentésekkel rendelkező vasúti társaságokról,
+
+4. a Bizottság felkérésére együttműködés a 2012/34/EU irányelv III. melléklete módosítása előkészítésében,
+
+5. a vasúti közlekedési piac felügyelete,
+
+6. a vasúti közlekedési piac fejlődésének nyomon követése, elemzése és értékelése,
+
+7. döntés a 79/B. § (1) bekezdése szerinti jogvitás ügyekben,
+
+8. a pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételei meglétének ellenőrzése,
+
+9. annak ellenőrzése, hogy a hálózati üzletszabályzat nem tartalmaz-e diszkriminatív rendelkezéseket vagy nem ruházza-e fel a pályahálózat-működtetőt olyan mérlegelési jogkörrel, amelyet fel lehetne használni a kapacitásigénylőkkel szembeni hátrányos megkülönböztetésre,
+
+10. a személyszállítási szolgáltatásokról szóló törvényben meghatározottak szerint a vasúti személyszállítást igénybe vevő utasok panaszainak kezelése,
+
+11. a Bizottság felkérésére részvétel a Bizottságnak a vasúti piac nyomon követésére vonatkozó feladatában,
+
+12. a vasúti hálózat-hozzáférési díjrendszer kereteiről, valamint a hálózat-hozzáférési díjak képzésének és alkalmazásának alapvető szabályairól szóló rendeletben meghatározottak szerint a piaci szegmensek listájának ellenőrzése,
+
+13. a Bizottság felkérésére részvétel a Bizottságnak a teljesítményösztönző rendszerben meghatározott késési kategóriák és alkategóriák módosításaira vonatkozó feladatában,
+
+14. a 67/L. § szerinti foglalási díj tekintetében a feltételek és a hátrányos megkülönböztetés ellenőrzése,
+
+15. az 59. § (1) bekezdése szerinti keretmegállapodások jóváhagyása,
+
+16. a 60. § (2) bekezdése szerinti keretmegállapodások jóváhagyása,
+
+17. a 64. § (5) bekezdése szerint a díj további felszámításának jóváhagyása,
+
+18. az érintett szervezetek vagy a nemzetközi személyszállítási szolgáltatást nyújtani szándékozó vállalkozó vasúti társaság kérelmére indult eljárásban annak megállapítása, hogy a nyújtani tervezett szolgáltatás fő célja a különböző EGT-tagállamokban található állomások közötti személyszállítás-e,
+
+19. a vasúti személyszállítási közszolgáltatási szerződés gazdasági egyensúlya veszélyeztetésének vizsgálata nemzetközi vasúti személyszállítási szolgáltatás bevezetésére tekintettel,
+
+20. a vasúti személyszállítási közszolgáltatási szerződésben rögzített kötelezettségek ellentételezésének biztosítása érdekében a személyszállítási törvényben meghatározott pénzügyi ellentételezési kötelezettség megállapítása,
+
+21. a vasúti személyszállítást igénybe vevő utasok jogaira vonatkozó rendelkezések betartásának ellenőrzése,
+
+22. a vasúti pályahálózat-kapacitás elosztási folyamatának, és a vasúti pályahálózathoz való nyílt hozzáférésre jogosult, valamint a pályahálózat-működtető között a Hálózati Üzletszabályzatban foglaltak szerinti kedvezmények biztosítására vonatkozó tárgyalások felügyelete,
+
+23. integrált vasúti társaság 67/T. § (1) bekezdése szerinti belső megállapodásának jóváhagyása, az abban foglaltak ellenőrzése, valamint annak megsértése esetén mérlegelési jogkörben bírság alkalmazása,
+
+24. a térségi és az elővárosi pályahálózat kijelölése, valamint – ha e törvény eltérően nem rendelkezik – a pályahálózat-működtető, a hozzáférésre jogosult vagy a VPSZ kérelme alapján döntés nyílt hozzáférés alól mentessé történő minősítéséről,
+
+25. a vasúti társaság személyszállítási üzletszabályzatának, valamint a közlekedésszervező személyszállítási üzletszabályzatának jóváhagyása,
+
+26. külön jogszabályban meghatározott adatgyűjtési, adatszolgáltatási feladatok ellátása,
+
+27. a miniszter részére a vasúti közlekedési alágazatra vonatkozó, a miniszter által előírt adatszolgáltatások teljesítése,
+
+28. a 85/B. § (3) bekezdésében és 85/E. § (3) bekezdésében meghatározott eljárás lefolytatása,
+
+29. a keretszerződésben, illetve a hálózat-hozzáférési szerződésben a Hálózati Üzletszabályzatban foglaltaktól történő eltéréshez való hozzájárulásra irányuló kérelemről való döntés,
+
+30. mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
