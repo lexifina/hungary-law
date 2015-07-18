@@ -1,0 +1,1 @@
+Az Országgyűlés a turisztikai, kedvtelési és sportolási célú, valamint a közlekedési rendszerekhez kapcsolódó, vasútnak nem minősülő egyéb kötöttpályás hálózatokra és a rajta folytatott tevékenységre vonatkozóan a következő törvényt alkotja:

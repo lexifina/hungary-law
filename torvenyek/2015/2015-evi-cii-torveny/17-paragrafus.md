@@ -1,0 +1,5 @@
+17. § (1) A műszaki engedély kiadására irányuló eljárás megindítására irányuló kérelem elektronikus úton nem nyújtható be. A közlekedési hatóság által lefolytatott hatósági eljárásban az eljárás megindítására kérelmet benyújtó ügyfél a közlekedési hatósággal elektronikus kapcsolattartásra nem jogosult.
+
+(2) A hatóság a 7. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az ügyfél által megadott elektronikus levélcímen az eljárás megindításától számított nyolc napon belül értesíti. Az eljárásban nem azonosítható ügyféllel szemben hirdetményi kézbesítésnek van helye.
+
+(3) A 7. § (1) bekezdés a) pontjában meghatározott eljárásban hozott döntés fellebbezéssel nem érintett rendelkezései tekintetében a döntés jogerőssé válik, ha kizárólag a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
