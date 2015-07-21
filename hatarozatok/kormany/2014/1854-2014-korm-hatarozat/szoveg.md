@@ -10,19 +10,29 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-3. felhívja a nemzeti fejlesztési minisztert, hogy az alprogram keretében a KIFÜ útján
+3.[^1] felhívja a nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy az alprogram keretében a KIFÜ útján
 
-a) gondoskodjon a Nyíregyházán és a Nyíregyházi járásban élők részére informatikai eszközök rászorultságon alapuló pályázati úton történő biztosításáról;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2015. augusztus 31.
-
-b) valósítson meg Nyíregyháza városában a „Digitális Nemzet Fejlesztési Program” megvalósításáról szóló 1631/2014 (XI. 6.) Korm. határozat 7. pont a) alpontja szerinti intelligens városi szolgáltatások elterjesztéséhez kapcsolódó koncepció megalapozására alkalmas intelligens városi szolgáltatási modellprogramot;
+a)[^2] gondoskodjon a Nyíregyházán és a Nyíregyházi járásban élők részére informatikai eszközök rászorultságon alapuló pályázati úton történő biztosításáról;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2015. december 31.
+Határidő: 2016. május 31.
+
+b)[^3] valósítson meg Nyíregyháza városában a „Digitális Nemzet Fejlesztési Program” megvalósításáról szóló 1631/2014 (XI. 6.) Korm. határozat 7. pont a) alpontja szerinti intelligens városi szolgáltatások elterjesztéséhez kapcsolódó koncepció megalapozására alkalmas intelligens városi szolgáltatási modellprogramot;
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: 2016. június 30.
+
+c)[^4] a Miskolci Egyetem közreműködésével valósítson meg Nyíregyháza területén egy köznevelési intézményben modellértékű nevelési program adaptációjához kapcsolódó modellprogramot és gondoskodjon annak monitoringjáról.
+
+Felelős: emberi erőforrások minisztere
+
+nemzeti fejlesztési miniszter
+
+Határidő: a modellprogram megvalósításra: 2015. december 31.
+
+az utókövetésre: 2016. május 31.
 
 4. felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter szakmai javaslatával összhangban gondoskodjon az 1. pontban kijelölt területen működő helyi kis- és középvállalkozások informatikai fejlesztését célzó, uniós forrásból megvalósuló pályázati kiírás megjelenéséről;
 
@@ -32,7 +42,7 @@ nemzetgazdasági miniszter
 
 Határidő: 2015. február 28.
 
-5. felhívja az emberi erőforrások miniszterét és a földművelésügyi minisztert, hogy a nemzeti fejlesztési miniszterrel és Nyíregyháza Megyei Jogú Város Önkormányzatával közösen jelölje ki a Nyíregyháza város és a Nyíregyházi járás területén működő, azon többségében hátrányos helyzetű tanulókat oktató köznevelési intézmények körét, amelyek részére meghívásos pályázat útján informatikai eszközök biztosíthatók, és felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a KIFÜ útján – a modellértékű nevelési program alapfeltételeinek biztosítása érdekében – az emberi erőforrások minisztere által megjelölt iskolák informatikai eszközellátásáról;
+5.[^5] felhívja az emberi erőforrások miniszterét és a földművelésügyi minisztert, hogy a nemzeti fejlesztési miniszterrel és Nyíregyháza Megyei Jogú Város Önkormányzatával közösen jelölje ki a Nyíregyháza város és a Nyíregyházi járás területén működő, azon többségében hátrányos helyzetű tanulókat oktató köznevelési intézmények körét, amelyek részére meghívásos pályázat útján informatikai eszközök biztosíthatók, és felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a KIFÜ útján – a modellértékű nevelési program alapfeltételeinek biztosítása érdekében – az emberi erőforrások minisztere által megjelölt iskolák informatikai eszközellátásáról;
 
 Felelős: emberi erőforrások minisztere
 
@@ -42,7 +52,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: az intézmények kijelölésére: 2015. április 1.
 
-az eszközellátás biztosítására: 2015. június 30.
+az eszközellátás biztosítására: 2015. augusztus 31.
 
 6. felhívja az emberi erőforrások miniszterét, hogy a Nyíregyházi Főiskolával együttműködve gondoskodjon a Nyíregyházi Főiskola területén teljes lefedettséget biztosító vezeték nélküli internet kapcsolat kiépítéséről és az elérhető sávszélesség növeléséről;
 
@@ -60,11 +70,11 @@ Határidő: 2015. szeptember 30.
 
 8. felhívja a belügyminisztert, hogy az elektronikus közigazgatás országos elterjesztésének kísérleti megalapozása érdekében
 
-a) a Közép-magyarországi régiót követően elsőként Nyíregyházán gondoskodjon az önkormányzati alkalmazásszolgáltató központ igénybevételének kiterjesztéséről;
+a)[^6] a Közép-magyarországi régiót követően elsőként Nyíregyházán gondoskodjon az EKOP-2.1.25 azonosító jelű „Önkormányzati ASP központ felállítása” című kiemelt projektben megvalósuló önkormányzati alkalmazásszolgáltató központ igénybevételének kiterjesztéséről;
 
 Felelős: belügyminiszter
 
-Határidő: 2015. október 31.
+Határidő: 2015. december 31.
 
 b) a Miniszterelnökséget vezető miniszter javaslata alapján gondoskodjon a legfontosabb negyven közigazgatási ügy elektronikus intézésének lehetőségről a Nyíregyházán működő kormányablakokban;
 
@@ -115,3 +125,10 @@ Határidő: 2015. január 31.
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a kísérleti alprogram lezárását követően folyamatosan
+
+[^1]: A 3. pont nyitó szövegrésze az 1486/2015. (VII. 21.) Korm. határozat 11. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont a) alpontja az 1486/2015. (VII. 21.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
+[^3]: A 3. pont b) alpontja az 1486/2015. (VII. 21.) Korm. határozat 11. pont c) alpontja szerint módosított szöveg.
+[^4]: A 3. pont c) alpontját az 1486/2015. (VII. 21.) Korm. határozat 10. pontja iktatta be.
+[^5]: Az 5. pont az 1486/2015. (VII. 21.) Korm. határozat 11. pont d) alpontja szerint módosított szöveg.
+[^6]: A 8. pont a) alpontja az 1486/2015. (VII. 21.) Korm. határozat 11. pont e) alpontja szerint módosított szöveg.
