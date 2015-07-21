@@ -29,3 +29,9 @@
 (11) Aki az Országgyűlés jelképét a Módtv.-vel megállapított 27/D. és 27/E. §-ának hatálybalépését megelőzően használta, de a hivatkozott rendelkezések alapján jogosulatlan jelképhasználónak minősül, a használatot 2014. december 31-éig köteles megszüntetni.
 
 (12) A Módtv.-vel megállapított 13/A. §-t a Módtv. hatálybalépésekor folyamatban lévő közérdekű adatigénylésekkel kapcsolatos eljárások során is alkalmazni kell.
+
+(13) Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosításáról szóló 2015. évi CXXV. törvénnyel (a továbbiakban: Módtv.2.) megállapított 112. § (6) bekezdését azon összeg átcsoportosítására is alkalmazni kell, amely feletti rendelkezési jogot a képviselő a Módtv.2. hatálybalépését megelőzően ruházta át a képviselőcsoportjára.
+
+(14) A Módtv.2.-vel megállapított 112. § (8) és (9) bekezdését az országgyűlési képviselők 2014. évi általános választását követően megalakult Országgyűlés alakuló ülésének napjától a Módtv.2. hatálybalépésének napjáig keletkezett keretmaradványok tekintetében is alkalmazni kell.
+
+(15) A Módtv.2.-vel megállapított 118. § (5a) és (6) bekezdését az országgyűlési képviselők 2014. évi általános választását követően megalakult Országgyűlés alakuló ülésének napjától a Módtv.2. hatálybalépésének napjáig keletkezett keretmaradványok tekintetében is alkalmazni kell.

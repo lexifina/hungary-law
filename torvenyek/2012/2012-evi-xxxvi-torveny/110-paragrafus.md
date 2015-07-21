@@ -1,4 +1,4 @@
-110. § (1) A képviselő kérelmére, az Országgyűlés Hivatala által biztosított, legalább 35 m2, de legfeljebb 50 m2 alapterületű budapesti lakóház vagy lakás használatára jogosult, kivéve ha
+110. § (1) A képviselő kérelmére, az Országgyűlés Hivatala által biztosított budapesti lakóház vagy lakás használatára jogosult, kivéve ha
 
 a) ő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan van, vagy
 
