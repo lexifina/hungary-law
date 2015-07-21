@@ -50,7 +50,7 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 5b.[^6] A Kormány
 
-a) egyetért azzal, hogy az egyes kiemelt sportlétesítmény-fejlesztési beruházások tekintetében a Nemzeti Sportközpontok feletti irányítási jogköröket a kormánybiztos gyakorolja,
+a)[^7] egyetért azzal, hogy a nemzeti fejlesztési miniszter által meghatározott kiemelt sportlétesítmény-fejlesztési beruházások tekintetében a Nemzeti Sportközpontok feletti irányítási jogköröket a kormánybiztos gyakorolja,
 
 b) felhívja a nemzeti fejlesztési minisztert, hogy – a kormánybiztos bevonásával – gondoskodjon az a) pont végrehajtásához szükséges intézkedések megtételéről.
 
@@ -58,13 +58,13 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a Nemzeti Sportközpontok irányítási jogainak nemzeti fejlesztési miniszterhez történő átadását követően azonnal
 
-6.[^7] A kormánybiztos tevékenységét a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (8) bekezdése szerinti titkárság nem segíti.
+6.[^8] A kormánybiztos tevékenységét a Nemzeti Fejlesztési Minisztérium keretében működő titkárság segíti.
 
-6a.[^8] A Kormány egyetért azzal, hogy a kormánybiztos feladataival – a Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok kivételével – összefüggésben lefolytatott, közbeszerzési eljárás alapján létrejött szerződéses jogviszony tekintetében a Miniszterelnökség jogutódja a Nemzeti Fejlesztési Minisztérium.
+6a.[^9] A Kormány egyetért azzal, hogy a kormánybiztos feladataival – a Miniszterelnökség budavári elhelyezéséhez szükséges felújítási és építési feladatok kivételével – összefüggésben lefolytatott, közbeszerzési eljárás alapján létrejött szerződéses jogviszony tekintetében a Miniszterelnökség jogutódja a Nemzeti Fejlesztési Minisztérium.
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8.[^9]
+8.[^10]
 
 [^1]: A 2. pont b) alpontja az 1048/2015. (II. 11.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 2. pont g) alpontját az 1048/2015. (II. 11.) Korm. határozat 7. pont b) alpontja hatályon kívül helyezte.
@@ -72,6 +72,7 @@ Határidő: a Nemzeti Sportközpontok irányítási jogainak nemzeti fejlesztés
 [^4]: A 2. pont j) alpontját az 1436/2014. (VII. 31.) Korm. határozat 3. pontja iktatta be.
 [^5]: A 5a. pontot az 1048/2015. (II. 11.) Korm. határozat 2. pontja iktatta be.
 [^6]: A 5b. pontot az 1048/2015. (II. 11.) Korm. határozat 2. pontja iktatta be.
-[^7]: A 6. pont az 1048/2015. (II. 11.) Korm. határozat 3. pontjával megállapított szöveg.
-[^8]: A 6a. pontot az 1048/2015. (II. 11.) Korm. határozat 3. pontja iktatta be.
-[^9]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5b. pont a) alpontja az 1476/2015. (VII. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: A 6. pont az 1476/2015. (VII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^9]: A 6a. pontot az 1048/2015. (II. 11.) Korm. határozat 3. pontja iktatta be.
+[^10]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
