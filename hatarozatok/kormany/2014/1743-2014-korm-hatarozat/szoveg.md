@@ -18,17 +18,7 @@ belügyminiszter
 
 Határidő: 2015. július 31.
 
-2. felhívja a belügyminisztert, hogy a Miniszterelnökséget vezető miniszter és az igazságügyi miniszter bevonásával, az érintett miniszterekkel és a Nemzeti Hírközlési és Informatikai Tanáccsal együttműködve vizsgálja felül az elektronikus közigazgatási szolgáltatások kiterjesztése tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény és az állami és közszolgáltatásokat szabályozó törvények összhangját annak érdekében, hogy a közigazgatás számára vagy által nyújtott elektronikus szolgáltatások – a „Digitális Nemzet Fejlesztési Program” megvalósításáról szóló 1631/2014. (XI. 6.) Korm. határozat 8. pont a) alpontja szerinti egységes elektronikus közigazgatási keretrendszerbe illesztve – a szélesebb értelemben vett közszolgáltatások elektronikus támogatására alkalmazhatóak legyenek, és a normaszöveg-javaslatokat terjessze a Kormány elé,
-
-Felelős: belügyminiszter
-
-Miniszterelnökséget vezető miniszter
-
-igazságügyi miniszter
-
-érintett miniszterek
-
-Határidő: 2015. március 31.
+2.[^1]
 
 3. felhívja a Miniszterelnökséget vezető minisztert, hogy – a nemzetgazdasági miniszter, a nemzeti fejlesztési miniszter és a belügyminiszter bevonásával – dolgozza ki az elektronikus közigazgatási szolgáltatások, valamint a kormányzati informatikai rendszerek hosszú távú fenntartását és üzemeltetését költséghatékonyan biztosító finanszírozási és szervezeti modellt, és gondoskodjon annak a 2016. évi költségvetés tervezési folyamatában történő gyakorlati alkalmazásáról,
 
@@ -157,3 +147,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 belügyminiszter
 
 Határidő: először 2015. március 15.
+
+[^1]: A 2. pontot az 1486/2015. (VII. 21.) Korm. határozat 12. pontja visszavonta.
