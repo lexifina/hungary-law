@@ -14,6 +14,6 @@ b) mesterfokozat „Master” vagy „magister” (rövidítve MA, MSc).
 
 (6) A mesterfokozattal rendelkezők az oklevelük által tanúsított szakképzettség előtt az „okleveles” megjelölést használják (okleveles mérnök, okleveles közgazdász, okleveles tanár stb.). A mesterfokozatot eredményező jogászképzésre épülő második jogi mesterszakon oklevelet szerzettek a „Legum Magister” vagy „Master of Laws” (rövidítve: LL. M.) cím használatára jogosultak. A tanárképzésben oklevelet szerzettek a „Master of Education” (rövidítve: MEd) cím használatára jogosultak.
 
-(7) Az orvos, a fogorvos, a gyógyszerész, az állatorvos, a jogász szakon oklevelet szerzett személyek a doktori cím használatára jogosultak. Ezek rövidített jelölése: dr. med., dr. med. dent., dr. pharm., dr. vet., dr. jur.
+(7) Az orvos, a fogorvos, a gyógyszerész, az állatorvos, a jogász és az államtudományi szakon oklevelet szerzett személyek a doktori cím használatára jogosultak. Ezek rövidített jelölése: dr. med., dr. med. dent., dr. pharm., dr. vet., dr. jur, dr. rer. pol.
 
 (8) A felsőoktatási intézmény rektora – a köztársasági elnök előzetes hozzájárulásával – „Promotio sub auspiciis praesidentis Rei Publicae” kitüntetéssel avatja doktorrá azt, akinek a középiskolában és a felsőoktatási intézményben, valamint a doktori képzésben folytatott tanulmányai során a teljesítményét mindig a legmagasabbra értékelték, feltéve továbbá, hogy a doktori fokozatszerzési eljárás során is kiemelkedő teljesítményt nyújtott. A kitüntetéses doktorrá avatás részletes feltételeit a Kormány állapítja meg.

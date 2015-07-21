@@ -24,11 +24,15 @@ c) megküldi a főiskolai rektor megbízására és felmentésére, a főiskolai
 
 d) javaslatot tesz statisztikai adatszolgáltatásra;
 
+e) hallgatói kompetenciamérést rendel el,
+
+f) a külföldi magyar nyelvű felsőoktatás támogatása céljából felsőoktatási együttműködési programot hirdet meg.
+
 (3) A miniszter felsőoktatás-fejlesztéssel kapcsolatos feladatai:
 
 a) a felsőoktatás rendszere fejlesztési terveinek elkészíttetése, beleértve a középtávú fejlesztési tervet,
 
-b) a felsőoktatásban jelentkező képzési, oktatási problémák vizsgálata, megoldások kidolgoztatása,
+b) a felsőoktatásban jelentkező képzési, oktatási problémák vizsgálata, megoldások kidolgoztatása, az országos hallgatói kompetenciamérés szakmai feltételeinek megteremtése,
 
 c) a felsőoktatásban folyó kutatásokhoz szükséges szervezeti és anyagi feltételek biztosítása,
 

@@ -2,9 +2,9 @@
 
 ## VEGYES RENDELKEZÉSEK
 
-## 63. A közigazgatási, rendészeti, katonai felsőoktatás, illetve egyes intézmények sajátos szabályozása
+## 63. Az államtudományi és közigazgatási, rendészeti, katonai felsőoktatás, illetve egyes intézmények sajátos szabályozása
 
-104. § (1) E törvény rendelkezéseit a közigazgatási, a rendészeti, a katonai felsőoktatásra, valamint az ilyen képzést folytató felsőoktatási intézményre, az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni. A Nemzeti Közszolgálati Egyetem tekintetében:
+104. § (1) E törvény rendelkezéseit a Nemzeti Közszolgálati Egyetemre és az általa folytatott államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, továbbá nemzetközi és európai közszolgálati felsőoktatásra, valamint az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni. A Nemzeti Közszolgálati Egyetem tekintetében:
 
 a) a 13/A. § és a 37. § (4a) bekezdése nem alkalmazható, ebben az intézményben a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott magasabb vezetői megbízások adhatók;
 
