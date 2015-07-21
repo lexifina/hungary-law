@@ -1,8 +1,8 @@
 ## 8. Működési alap
 
-14. § (1) A működési alap finanszírozásának módját és a hozzájárulás mértékét kizárólag a termelői szervezet legfőbb döntéshozó szerve állapíthatja meg.
+14. § (1)[^22] A működési alap finanszírozásának módját és a működési alaphoz történő pénzügyi hozzájárulás mértékét kizárólag a termelői szervezet legfőbb döntéshozó szerve állapíthatja meg.
 
-(2)[^15] A működési alap felhasználásának módjáról a termelői szervezet létesítő okiratában meghatározott, a tagok képviseletében eljáró testület dönt. A döntésben nem vehet részt az a tag, akinek a gazdaságában a működési alap felhasználásával beruházás történik, vagy aki a működési programban foglalat intézkedés vagy tevékenyég végrehajtására a termelői szervezettel szerződést köt.
+(2)[^23] A működési alap felhasználásának módjáról a termelői szervezet létesítő okiratában meghatározott, a tagok képviseletében eljáró testület dönt. A döntésben nem vehet részt az a tag, akinek a gazdaságában a működési alap felhasználásával beruházás történik, vagy aki a működési programban foglalat intézkedés vagy tevékenyég végrehajtására a termelői szervezettel szerződést köt.
 
 (3) A bizottsági rendelet 51. cikkében hivatkozott referencia időszak a működési program végrehajtásának évét megelőző naptári év. A termelői szervezet indokolt esetben új működési program benyújtásával egyidejűleg eltérő referencia időszak alkalmazását is kérheti a működési program teljes időtartamára.
 
@@ -14,4 +14,5 @@
 
 (7) A működési alap támogatásáról a működési programban foglalt intézkedések végrehajtását követően, a bizottsági rendelet 69. cikke alapján benyújtott támogatási kérelem alapján az MVH dönt.
 
-[^15]: A 14. § (2) bekezdése a 22/2014. (III. 14.) VM rendelet 90. § b) pontja szerint módosított szöveg.
+[^22]: A 14. § (1) bekezdése a 41/2015. (VII. 20.) FM rendelet 13. §-ával megállapított szöveg.
+[^23]: A 14. § (2) bekezdése a 22/2014. (III. 14.) VM rendelet 90. § b) pontja szerint módosított szöveg.

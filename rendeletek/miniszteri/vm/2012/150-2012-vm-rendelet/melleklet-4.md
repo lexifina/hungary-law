@@ -106,6 +106,8 @@
 
 ## (beküldendő minden év február 15-ig)
 
+|  |  |  |  |  |  |  | 3. táblázat |
+
 | 1 | Értékesítés | … naptári év |
 
 | 2 | mennyiség (t) | értékesített termék nettó árbevétele (ezer Ft) |
@@ -118,11 +120,11 @@
 
 | 3.1.2 | nagyker/nagybani |  |  |
 
-| 3.1.3. | kiskereskedők |  |  |
+| 3.1.3 | kiskereskedők |  |  |
 
 | 3.1.4 | egyéb |  |  |
 
-| 3.2. |  | feldolgozásra összesen |  |  |
+| 3.2 |  | feldolgozásra összesen |  |  |
 
 | 3.2.1 |  | ezen belül | feldolgozó ipar részére frissen értékesített |  |  |
 
@@ -200,17 +202,33 @@
 
 | 5.3 | egyéb termelő termése |  |  |
 
-## Megjegyzések:
+| 6. | Vevők |  |  |
 
-## TÉSZ = zöldség-gyümölcs termelői szervezet
+| 6.1 | TÉSZ, TÉSZ-társulás, TCS-től független vevők összesen |  |  |
 
-## TÉSZ-társulás = zöldség-gyümölcs termelői szervezetek társulása
+| 6.2 | Azon vevők amelyekben a TÉSZ, TÉSZ-társulás, TCS vagy ezek tagjai tulajdoni hányaddal rendelkeznek |  |  |
 
-## TCS = zöldség-gyümölcs termelői csoport
+| 6.3 | ezen belül | A TÉSZ, TÉSZ-társulás, TCS vagy ezek tagjainak összesített tulajdoni hányada nem haladja meg az ötven százalékot |  |  |
 
-## egyéb termelő = nem tagja sem TÉSZ-nek, sem TÉSZ-társulásnak, sem TCS-nak
+| 6.4 | A TÉSZ, TÉSZ-társulás, TCS vagy ezek tagjainak összesített tulajdoni hányada meghaladja az ötven százalékot |  |  |
 
-## (8) A 1234/2007/EK tanácsi rendelet 125a. cikkének (2) bekezdése szerint
+| 6.5 | Azon vevők felsorolása amelyekben a TÉSZ, TÉSZ-társulás, TCS vagy ezek tagjainak összesített tulajdoni hányada meghaladja az ötven százalékot |
+
+| 6.5.1 |  |
+
+| 6.5.2 |  |
+
+|  | Megjegyzések: |  |  |  |
+
+|  | TÉSZ = zöldség-gyümölcs termelői szervezet |  |
+
+|  | TÉSZ-társulás = zöldség-gyümölcs termelői szervezetek társulása |
+
+|  | TCS = zöldség-gyümölcs termelői csoport |  |
+
+|  | egyéb termelő = nem tagja sem TÉSZ-nek, sem TÉSZ-társulásnak, sem TCS-nak |
+
+|  | (8) Az 1234/2007/EK tanácsi rendelet 125a. cikkének (2) bekezdése szerint |
 
 ## 4. táblázat
 

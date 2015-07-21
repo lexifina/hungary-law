@@ -10,10 +10,10 @@
 
 (5) Az elfogadott működési programmal és működési alappal rendelkező termelői szervezetek részére nemzeti támogatás nyújtható a működési program finanszírozására, amely nem haladhatja meg a tagok valamint a termelői szervezet által befizetett hozzájárulás nyolcvan százalékát.
 
-(6)[^37] A zöldség-gyümölcs termelői csoportok létrejöttének ösztönzése és adminisztratív működésük elősegítése érdekében a tanácsi rendelet 103a. cikk (1) bekezdés a) pontjában meghatározott nemzeti támogatás nyújtható. Az elismerési tervben szereplő tevékenységekhez nyújtható – a tanácsi rendelet 103a. cikk (1) bekezdés b) pontjában meghatározott – nemzeti támogatás mértéke legalább öt százalék.
+(6)[^45] A zöldség-gyümölcs termelői csoportok létrejöttének ösztönzése és adminisztratív működésük elősegítése érdekében a tanácsi rendelet 103a. cikk (1) bekezdés a) pontjában meghatározott nemzeti támogatás nyújtható. Az elismerési tervben szereplő tevékenységekhez nyújtható – a tanácsi rendelet 103a. cikk (1) bekezdés b) pontjában meghatározott – nemzeti támogatás mértéke legalább öt százalék.
 
 (7) A nemzeti forrásból nyújtott támogatásokról külön jogszabály rendelkezik.
 
 (8) Az MVH a tanácsi rendelet 103a. cikk (1) bekezdése, valamint 103d. cikkének alkalmazása során meghozott határozatokat a minisztériumnak is megküldi.
 
-[^37]: A 24. § (6) bekezdése a 65/2013. (VII. 29.) VM rendelet 26. §-ával megállapított szöveg.
+[^45]: A 24. § (6) bekezdése a 65/2013. (VII. 29.) VM rendelet 26. §-ával megállapított szöveg.
