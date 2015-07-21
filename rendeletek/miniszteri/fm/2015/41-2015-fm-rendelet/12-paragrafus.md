@@ -1,0 +1,1 @@
+## „(4) A termelői szervezet vagy a termelői szervezet társulása köteles a bizottsági rendelet 27. cikkében meghatározottak szerint megkötött, kiszervezésre vonatkozó szerződést annak megkötésétől számított tizenöt napon belül megküldeni a miniszter és az MVH részére.”

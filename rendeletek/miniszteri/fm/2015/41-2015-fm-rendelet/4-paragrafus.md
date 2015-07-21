@@ -1,0 +1,3 @@
+## 3. § A 24/2010. (III. 19.) FVM rendelet 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Bármely termelő tag azon termékének termését, amellyel korábban más zöldség-gyümölcs termelői csoportnak volt tagja, kizárólag abban az esetben lehet összesen öt év időtartamig figyelembe venni, ha az összevont támogatási kérelmet benyújtó zöldség-gyümölcs termelői csoport igazolni tudja, hogy az adott termék termését – azon zöldség-gyümölcs termelői csoportok, amelyeknél tag volt – összesen kevesebb, mint öt éven keresztül vették figyelembe az értékesített termék értékének a tanácsi rendelet 103a. cikk szerinti támogatás igénybevétele érdekében történő meghatározása során.”
