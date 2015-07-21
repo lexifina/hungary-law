@@ -1,10 +1,10 @@
 ## VIII. Fejezet
 
-## A KÖZIGAZGATÁSI, RENDÉSZETI ÉS KATONAI FELSŐOKTATÁS FELÜGYELETE
+## A FELSŐOKTATÁS FELÜGYELETE
 
 40. § (1) Felügyeletet gyakorló miniszter
 
-a) a közigazgatási felsőoktatás tekintetében az igazságügyért felelős miniszter és a közigazgatás-fejlesztésért felelős miniszter együttesen,
+a) az államtudományi és közigazgatási felsőoktatás tekintetében az igazságügyért felelős miniszter és a közigazgatás-fejlesztésért felelős miniszter együttesen,
 
 b) a rendészeti felsőoktatás tekintetében a rendészetért felelős miniszter,
 
