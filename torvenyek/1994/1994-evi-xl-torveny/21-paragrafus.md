@@ -38,6 +38,4 @@ a közfeladatokkal arányosan – jogszabályban meghatározott feltételek szer
 
 (7) A kutatóközpont és a kutatóintézet szellemi és anyagi kapacitásával végzett tevékenységének bevételei a kutatóhely működésének és fejlesztésének forrását képezik.
 
-(8) Az akadémiai költségvetési szerveknél foglalkoztatottakra – az MTA Titkárságának közfeladatokat ellátó köztisztviselői, ügykezelői, illetve munkavállalói kivételével – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény rendelkezéseit kell alkalmazni.
-
-(9) Az akadémiai költségvetési szervek foglalkoztatottjai számára kereset-kiegészítés állapítható meg, amelynek részletes szabályait az Akadémia szabályzatban határozza meg.
+(8)–(9)

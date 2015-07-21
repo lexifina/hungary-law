@@ -10,7 +10,7 @@
 
 (6) Az Akadémia, valamint – engedélyével – az akadémiai költségvetési szerv a vagyonából, az államháztartáson kívüli bevételének a kiadások után fennmaradt részéből, vállalkozási tartalékából zártkörűen működő részvénytársaságot, korlátolt felelősségű társaságot alapíthat, vagy ilyenekben részesedést szerezhet, ha a cég üzleti terve szerint három éven belül nyereségessé válik, továbbá a hiányt a célelszámolási számlán kezelt összegből, vagyonból finanszírozza. Az Akadémia mint köztestület gazdasági társaságaira az akadémiai költségvetési szervek gazdasági társaságaira vonatkozó szabályok megfelelően alkalmazandók, azzal, hogy a tulajdonosi jogokat az elnök gyakorolja.
 
-(7) Az Akadémia vagyonával kapcsolatos végrehajtási jogkört és az elszámolási, valamint a nyilvántartási feladatokat az MTA Titkárságán belül működő Vagyonkezelő Szervezet látja el. Az Akadémia vagyonával kapcsolatos véleményezési, döntés-előkészítő jogkör a Vagyonkezelő Testület hatáskörébe tartozik.
+(7) Az Akadémia vagyonával kapcsolatos végrehajtási jogkört és az elszámolási, valamint a nyilvántartási feladatokat az MTA Titkársága látja el. Az Akadémia vagyonával kapcsolatos véleményezési, döntés-előkészítő jogkör a Vagyonkezelő Testület hatáskörébe tartozik.
 
 (8) A Vagyonkezelő Testület a munkájáról félévente jelentést tesz a Vezetői Kollégiumnak. Az Akadémia vagyonával való gazdálkodásról az elnök évente jelentést tesz a Közgyűlésnek.
 

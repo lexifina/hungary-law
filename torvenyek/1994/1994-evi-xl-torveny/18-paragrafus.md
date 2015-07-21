@@ -10,7 +10,7 @@
 
 (5) Az akadémiai kutatóhálózat kutatóhelyein foglalkoztatott kutatók (a továbbiakban: kutatók) munkájukat tudományos meggyőződésüknek megfelelően végzik. Ezzel ellentétes tevékenységre nem kötelezhetők. Tudományos eredményeiket szabadon tehetik közzé, ha ezzel mások törvényes, különösen a szellemi tulajdonra vonatkozó jogait nem sértik.
 
-(6) A kutatók besorolásánál a felsőoktatásról szóló 2005. évi CXXXIX. törvény 93. § (2) bekezdése szerinti kutatói munkaköröket kell alkalmazni.
+(6)
 
 (7) A kutatóközpontok és kutatóintézetek munkáját és felügyeletét külső tanácsadó testület segíti, amely a hazai és külföldi tudományos közösségek tekintélyes tagjaiból áll. A külső tanácsadó testület tagjainak felkéréséről és felmentéséről az Akadémia elnöke gondoskodik az Alapszabályban rögzített eljárás alapján.
 
