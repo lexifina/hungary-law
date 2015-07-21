@@ -6,7 +6,7 @@ b) 9/A. § (1) bekezdésében, 23/A. §-ában, 40. § (1) bekezdés a) pontjába
 
 c) 43. §-ában az „A közigazgatási” szövegrész helyébe az „Az államtudományi és közigazgatási”;
 
-d) 3. § 1., 2. és 3. pontjában a „szakjai” szövegrészek helyébe a „szakok” és
+d)
 
 e) 3. § 1. pontjában a „mesterképzési szakok” szövegrész helyébe a „mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is”
 
