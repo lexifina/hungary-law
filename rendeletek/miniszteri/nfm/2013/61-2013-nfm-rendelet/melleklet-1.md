@@ -266,6 +266,8 @@ c) a 4.1, a 4.2 és a 4.3 osztály tartányos szakosító vizsgájához hatályo
 
 4. Ismeretfelújító vizsgára az a hallgató bocsátható, aki az adott osztályra és szállítási módra a vizsga időpontjában érvényes ADR oktatási bizonyítvánnyal rendelkezik.”
 
-24. Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
+24.[^5] Az ADR Szabályzat 8.5 fejezetében lévő S12 utasítás a következő kiegészítéssel alkalmazható:
 
-„A járművezetők ezt a képzést az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet szerinti, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
+„A járművezetők ezt a képzést az atomenergiáról szóló 1996. évi CXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 16/2000. (VI. 8.) EüM rendelet szerinti, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja. Ebben az esetben a járművezető mentesül az ADR Szabályzat 8.2.1.1 és 8.2.1.2 bekezdéseinek előírásai alól.”
+
+[^5]: Az 1. melléklet 24. pontja a 43/2015. (VII. 20.) NFM rendelet 2. §-ával megállapított szöveg.
