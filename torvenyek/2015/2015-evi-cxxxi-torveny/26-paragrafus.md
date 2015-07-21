@@ -1,0 +1,3 @@
+26. § Az Elismerési tv. 40. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 38. § szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatásnyújtó Magyarország területén való, határon átnyúló, a Kormány rendeletében meghatározott szolgáltatási tevékenység folytatására irányuló szándékát annak első alkalommal való megkezdése előtt köteles bejelenteni az adott szabályozott szakma tekintetében az elismerésért felelős hatóságnak, illetve a 41. § szerinti előzetes ellenőrzést végző hatóságnak. A szolgáltatásnyújtó a bejelentést követően Magyarország egész területén jogosulttá válik a szolgáltatásnyújtásra.”
