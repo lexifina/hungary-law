@@ -1,5 +1,5 @@
 ## kell alkalmazni.
 
-1. melléklet a 18/2013. (IX. 5.) HM rendelethez[^63]
+1. melléklet a 18/2013. (IX. 5.) HM rendelethez[^98]
 
-[^63]: Az 1. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^98]: Az 1. melléklet a 9/2015. (VII. 13.) HM rendelet 18. § (1) bekezdésével megállapított szöveg.

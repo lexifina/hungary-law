@@ -1,8 +1,6 @@
-## 7. §[^15] Az ellátmány havi nettó összege a külföldön betöltött beosztás alapulvételével az 1. melléklet szerinti szorzószám és az alapellátmány szorzatával egyenlő. Az alapellátmány a 2. mellékletben az állomáshely szerinti országra meghatározott ellátmányalap és a 3. melléklet szerinti ellátmánypótlék együttes összege. Részmunkaidőben történő foglalkoztatás esetén az ellátmány havi nettó összegét a foglalkoztatás időtartamával arányosan kell megállapítani.
+8. § (1)[^25]
 
-8. § (1)[^16]
-
-(2)[^17] A családi ellátmánypótlékra jogosító gyermek tankötelezettségének megszűnését követően a kiküldöttnek a családi ellátmánypótlék továbbfolyósításának előfeltételeként évente, a tanévkezdést követő 15 napon belül iskolalátogatási igazolást kell benyújtania az illetékes pénzügyi ellátó szervhez.
+(2)[^26] A családi ellátmánypótlékra jogosító gyermek tankötelezettségének megszűnését követően a kiküldöttnek a családi ellátmánypótlék továbbfolyósításának előfeltételeként évente, a tanévkezdést követő 15 napon belül iskolalátogatási igazolást kell benyújtania az illetékes pénzügyi ellátó szervhez.
 
 (3) A családi ellátmánypótlék havi nettó összege
 
@@ -24,14 +22,16 @@ ca) 15%-a a gyermek 12. életévének betöltéséig,
 
 cb) 20%-a a gyermek 12. életévének betöltését követően.
 
-(4)[^18] A kiküldött a (3) bekezdés szerinti családi ellátmánypótlék időarányos részére jogosult házastársa, illetve a 2. § (1) bekezdés 3. pontjában meghatározott életkori feltételeknek megfelelő és a (2) bekezdés szerinti gyermeke alkalmi látogatásakor, feltéve, hogy a jogosultság a külszolgálati ellátmány megállapításáról szóló munkáltatói döntésben előzetesen megállapításra került, és a kiküldött a házastársa, illetve gyermeke megérkezését és tartózkodása várható időtartamát az engedélyező elöljáró tudomásulvételi záradékával ellátva az illetékes pénzügyi ellátó szervnek írásban bejelentette. A kiküldött a családi ellátmánypótlék összegének megállapítása érdekében köteles hozzátartozói hazautazását az engedélyező elöljáró tudomásulvételi záradékával ellátva az illetékes pénzügyi ellátó szervnek írásban bejelenteni. A kiküldött az e bekezdés szerinti bejelentéseket a hozzátartozók ki- és hazautazását követő 3 munkanapon belül köteles az engedélyező elöljáró részére megküldeni. A családi ellátmánypótlék összegét az állomáshelyen történő tartózkodás időtartamával arányosan úgy kell megállapítani, hogy a megérkezés és az elutazás napja teljes napnak számít.
+(4)[^27] A kiküldött a (3) bekezdés szerinti családi ellátmánypótlék időarányos részére jogosult házastársa, illetve a 2. § (1) bekezdés 3. pontjában meghatározott életkori feltételeknek megfelelő és a (2) bekezdés szerinti gyermeke alkalmi látogatásakor, feltéve, hogy a jogosultság a külszolgálati ellátmány megállapításáról szóló munkáltatói döntésben előzetesen megállapításra került, és a kiküldött a házastársa, illetve gyermeke megérkezését és tartózkodása várható időtartamát az állományilletékes parancsnok vagy az alapító okirattal létrehozott és önálló munkaköri jegyzékkel vagy állománytáblával rendelkező honvédelmi szervezet esetén a szervezet vezetője (a továbbiakban együtt: szolgálati elöljáró) tudomásulvételi záradékával ellátva az illetékes pénzügyi ellátó szervnek írásban bejelentette.
 
-(5)[^19] A kiküldött a családi ellátmánypótlék összegének megállapítása érdekében köteles írásban bejelenteni az illetékes személyügyi szervnek a családi ellátmánypótlékra jogosító hozzátartozó által szerzett jövedelmet és jövedelempótló juttatást, valamint az annak mértékében bekövetkezett változásokat. A bejelentést a kiküldöttnek először a családi ellátmánypótlék igénylésekor, a családi ellátmánypótlékra jogosító hozzátartozó jövedelmében vagy jövedelempótló juttatásában bekövetkezett változás esetén a változástól számított 3 munkanapon belül kell megtennie.
+(4a)[^28] A kiküldött a családi ellátmánypótlék összegének megállapítása érdekében köteles hozzátartozói hazautazását a szolgálati elöljáró tudomásulvételi záradékával ellátva az illetékes pénzügyi ellátó szervnek írásban bejelenteni. A kiküldött az e bekezdés szerinti bejelentéseket a hozzátartozók ki- és hazautazását követő 3 munkanapon belül köteles a szolgálati elöljáró részére megküldeni. A családi ellátmánypótlék összegét az állomáshelyen történő tartózkodás időtartamával arányosan úgy kell megállapítani, hogy a megérkezés és az elutazás napja teljes napnak számít.
+
+(5)[^29] A kiküldött a családi ellátmánypótlék összegének megállapítása érdekében köteles írásban bejelenteni az illetékes személyügyi szervnek a családi ellátmánypótlékra jogosító hozzátartozó által szerzett jövedelmet és jövedelempótló juttatást, valamint az annak mértékében bekövetkezett változásokat. A bejelentést a kiküldöttnek először a családi ellátmánypótlék igénylésekor, a családi ellátmánypótlékra jogosító hozzátartozó jövedelmében vagy jövedelempótló juttatásában bekövetkezett változás esetén a változástól számított 3 munkanapon belül kell megtennie.
 
 (6) A kiküldött a (3) bekezdés b) pont bb) alpontja és c) pont cb) alpontja szerinti magasabb összegű családi ellátmánypótlékra abban a hónapban jogosult először, amelyben a gyermek a 12. életévét betölti. A magasabb összegű családi ellátmánypótlékot a teljes hónapra kell megállapítani.
 
-[^15]: A 7. § a 9/2014. (IV. 30.) HM rendelet 2. §-ával megállapított szöveg.
-[^16]: A 8. § (1) bekezdését a 9/2014. (IV. 30.) HM rendelet 10. §-a hatályon kívül helyezte.
-[^17]: A 8. § (2) bekezdése a 3/2015. (VI. 17.) HM rendelet 1. §-ával megállapított szöveg.
-[^18]: A 8. § (4) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § f) pontja szerint módosított szöveg.
-[^19]: A 8. § (5) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § g) pontja szerint módosított szöveg.
+[^25]: A 8. § (1) bekezdését a 9/2014. (IV. 30.) HM rendelet 10. §-a hatályon kívül helyezte.
+[^26]: A 8. § (2) bekezdése a 3/2015. (VI. 17.) HM rendelet 1. §-ával megállapított szöveg.
+[^27]: A 8. § (4) bekezdése a 9/2015. (VII. 13.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^28]: A 8. § (4a) bekezdését a 9/2015. (VII. 13.) HM rendelet 5. § (2) bekezdése iktatta be.
+[^29]: A 8. § (5) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § g) pontja szerint módosított szöveg.

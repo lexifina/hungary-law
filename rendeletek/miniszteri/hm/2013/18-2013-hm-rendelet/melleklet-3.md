@@ -186,6 +186,6 @@
 
 | 92. | Vatikán | EUR | 836 |
 
-3. melléklet a 18/2013. (IX. 5.) HM rendelethez[^65]
+3. melléklet a 18/2013. (IX. 5.) HM rendelethez[^100]
 
-[^65]: A 3. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^100]: A 3. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (3) bekezdésével megállapított szöveg.
