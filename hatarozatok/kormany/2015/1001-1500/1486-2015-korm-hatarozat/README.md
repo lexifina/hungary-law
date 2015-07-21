@@ -1,0 +1,9 @@
+# 1486/2015. (VII. 21.) Korm. határozat
+
+a Digitális Nemzet Fejlesztési Program megvalósításával kapcsolatos aktuális feladatokról, valamint egyes kapcsolódó kormányhatározatok módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1486-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-07-21 | 2015-1486-30-22.1 | 1486/2015. (VII. 21.) Korm. határozat |
