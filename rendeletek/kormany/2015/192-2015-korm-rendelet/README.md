@@ -1,0 +1,9 @@
+# 192/2015. (VII. 21.) Korm. rendelet
+
+egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-192-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-07-22 | 2015-192-20-22.1 | 192/2015. (VII. 21.) Korm. rendelet |
