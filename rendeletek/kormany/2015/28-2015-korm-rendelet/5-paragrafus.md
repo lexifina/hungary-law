@@ -1,6 +1,6 @@
 ## 5. § A Kormány egészségügyi államigazgatási szervként az OGYÉI-t jelöli ki
 
-a) a gyógyszertárak vonatkozásában az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 20. § (1), (2), (4), (7), (9) és (11) bekezdése;
+a)[^1]
 
 b) a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény
 
@@ -18,8 +18,11 @@ d) az egészségügyi hatósági és igazgatási tevékenységről szóló 1991.
 
 da) 6. § (1) bekezdés h), i), o) és q) pontja,
 
-db) tekintetében gyógyszerészeti igazgatási hatáskörben eljárva az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 13/A. § (1a), (1b) és (2) bekezdése,
+db)[^2] tekintetében gyógyszerészeti igazgatási hatáskörben eljárva az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 10. és 11. §-a, 13/A. § (1a), (1b) és (2) bekezdése,
 
 dc) 14. § b) pontja,
 
 dd) 14. § f) pontja
+
+[^1]: Az 5. § a) pontját a 192/2015. (VII. 21.) Korm. rendelet 57. §-a hatályon kívül helyezte.
+[^2]: Az 5. § d) pont db) alpontja a 192/2015. (VII. 21.) Korm. rendelet 56. §-ával megállapított szöveg.
