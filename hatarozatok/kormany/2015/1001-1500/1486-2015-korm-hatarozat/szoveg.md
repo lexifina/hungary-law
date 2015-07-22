@@ -214,32 +214,6 @@ Határidő: 2015. október 15.
 
 9. A Kormány felkéri a Nemzeti Hírközlési és Informatikai Tanácsot, hogy – a szükséges adatállomány rendelkezésre állásának biztosításával és az adatkezelés tekintetében a Kormányzati Informatikai Fejlesztési Ügynökség bevonásával – 2018. december 31-ig gondoskodjon a Digitális Nemzet Fejlesztési Program megvalósítását elősegítő, annak gazdasági, társadalmi és versenyképességi hatásait bemutató monitoring rendszer kiépítéséről, valamint működtetéséről.
 
-10. A „Digitális Nemzet Fejlesztési Program” település-központú kísérleti alprogramjának megvalósításához szükséges források biztosításáról szóló 1854/2014. (XII. 30.) Korm. határozat 3. pontja a következő új c) alponttal egészül ki:
+10–12.[^1]
 
-(felhívja a nemzeti fejlesztési minisztert, hogy az alprogram keretében a KIFÜ útján)
-
-„c) a Miskolci Egyetem közreműködésével valósítson meg Nyíregyháza területén egy köznevelési intézményben modellértékű nevelési program adaptációjához kapcsolódó modellprogramot és gondoskodjon annak monitoringjáról.
-
-Felelős: emberi erőforrások minisztere
-
-nemzeti fejlesztési miniszter
-
-Határidő: a modellprogram megvalósításra: 2015. december 31.
-
-az utókövetésre: 2016. május 31.”
-
-11. A „Digitális Nemzet Fejlesztési Program” település-központú kísérleti alprogramjának megvalósításához szükséges források biztosításáról szóló 1854/2014. (XII. 30.) Korm. határozat
-
-a) 3. pontja felvezető szövegében a „nemzeti fejlesztési minisztert, hogy” szövegrész helyébe a „nemzeti fejlesztési minisztert és az emberi erőforrások miniszterét, hogy” szöveg,
-
-b) 3.pont a) alpontjában a „2015. augusztus 31.” szövegrész helyébe a „2016. május 31.” szöveg,
-
-c) 3. pont b) alpontjában a „2015. december 31.” szövegrész helyébe a „2016. június 30.” szöveg,
-
-d) 5. pontjában a „2015. június 30.” szövegrész helyébe a „2015. augusztus 31.” szöveg,
-
-e) 8. pont a) alpontjában a „gondoskodjon az önkormányzati” szövegrész helyébe a „gondoskodjon az EKOP-2.1.25 azonosító jelű „Önkormányzati ASP központ felállítása” című kiemelt projektben megvalósuló önkormányzati” szövegrész, valamint az „október 31.” szövegrész helyébe a „december 31.” szöveg
-
-lép.
-
-12. A Kormány visszavonja az elektronikus közigazgatás kiterjesztésével kapcsolatos feladatokról szóló 1743/2014. (XII. 15.) Korm. határozat 2. pontját.
+[^1]: A 10–12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
