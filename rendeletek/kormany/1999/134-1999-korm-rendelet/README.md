@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-134-20-
 | 2013-07-06 | 1999-134-20-22.31 | 325/2011. (XII. 28.) Korm. rendelet |
 | 2014-01-01 | 1999-134-20-22.32 | 520/2013. (XII. 30.) Korm. rendelet |
 | 2015-03-01 | 1999-134-20-22.33 | 347/2009. (XII. 30.) Korm. rendelet |
+| 2015-07-22 | 1999-134-20-22.34 | 192/2015. (VII. 21.) Korm. rendelet |

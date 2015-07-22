@@ -1,6 +1,6 @@
-## 9. §[^54] E rendelet 6/C. §-a a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 2006. december 15-i 1998/2006/EK bizottsági rendelet (HL L 379., 2006. 12. 28., 5–10. o.) hatálya alá tartozó támogatást tartalmaz.
+## 9. §[^59] A 6/C. § az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) hatálya alá tartozó támogatást tartalmaz.
 
-1. számú melléklet a 134/1999. (VIII. 31.) Korm. rendelethez[^55]
+1. számú melléklet a 134/1999. (VIII. 31.) Korm. rendelethez[^60]
 
 ## Finanszírozási előleg igénylő lap
 
@@ -34,5 +34,5 @@ Dátum:
 
 | cégjegyzésre jogosult aláírása | személyi jog jogosultjának aláírása |
 
-[^54]: A 9. §-t a 48/2004. (III. 19.) Korm. rendelet 2. §-a (2) bekezdésének c) pontja iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 24. §-a iktatta be.
-[^55]: Az 1. számú mellékletet a 308/2001. (XII. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 347/2009. (XII. 30.) Korm. rendelet 9. §-val megállapított, a 351/2010. (XII. 30.) Korm. rendelet 60. § c) pontja, a 137/2012. (VI. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^59]: A 9. §-t újonnan a 137/2012. (VI. 29.) Korm. rendelet 24. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^60]: Az 1. számú mellékletet a 308/2001. (XII. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 347/2009. (XII. 30.) Korm. rendelet 9. §-val megállapított, a 351/2010. (XII. 30.) Korm. rendelet 60. § c) pontja, a 137/2012. (VI. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.
