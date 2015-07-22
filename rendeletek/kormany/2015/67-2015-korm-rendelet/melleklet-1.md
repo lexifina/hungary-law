@@ -710,35 +710,23 @@ Vásárosbéc
 
 Zádor
 
-3. Bács-Kiskun megye
+3.[^2] Bács-Kiskun megye
 
 3.1. Bajai Járási Hivatal
 
 3.1.1. Székhelye: Baja
 
-Munkaerőpiaci pont: Bácsalmás
-
 3.1.2. Illetékesség:
 
 Baja
 
-Bácsalmás
-
-Bácsbokod
-
-Bácsborsód
-
 Bácsszentgyörgy
-
-Bácsszőlős
 
 Bátmonostor
 
 Csátalja
 
 Csávoly
-
-Csikéria
 
 Dávod
 
@@ -754,14 +742,6 @@ Gara
 
 Hercegszántó
 
-Katymár
-
-Kunbaja
-
-Madaras
-
-Mátételke
-
 Nagybaracska
 
 Nemesnádudvar
@@ -770,15 +750,55 @@ Sükösd
 
 Szeremle
 
-Tataháza
-
 Vaskút
 
-3.2. Kalocsai Járási Hivatal
+3.2. Bácsalmási Járási Hivatal
 
-3.2.1. Székhelye: Kalocsa
+3.2.1. Székhelye: Bácsalmás
 
 3.2.2. Illetékesség:
+
+Bácsalmás
+
+Bácsbokod
+
+Bácsborsód
+
+Bácsszőlős
+
+Csikéria
+
+Katymár
+
+Kunbaja
+
+Madaras
+
+Mátételke
+
+Tataháza
+
+3.3. Jánoshalmai Járási Hivatal
+
+3.3.1. Székhelye: Jánoshalma
+
+3.3.2. Illetékesség:
+
+Borota
+
+Jánoshalma
+
+Kéleshalom
+
+Mélykút
+
+Rém
+
+3.4. Kalocsai Járási Hivatal
+
+3.4.1. Székhelye: Kalocsa
+
+3.4.2. Illetékesség:
 
 Bátya
 
@@ -822,11 +842,11 @@ Szakmár
 
 Uszód
 
-3.3. Kecskeméti Járási Hivatal
+3.5. Kecskeméti Járási Hivatal
 
-3.3.1. Székhelye: Kecskemét
+3.5.1. Székhelye: Kecskemét
 
-3.3.2. Illetékesség:
+3.5.2. Illetékesség:
 
 Ágasegyháza
 
@@ -860,11 +880,11 @@ Orgovány
 
 Városföld
 
-3.4. Kiskőrösi Járási Hivatal
+3.6. Kiskőrösi Járási Hivatal
 
-3.4.1. Székhelye: Kiskőrös
+3.6.1. Székhelye: Kiskőrös
 
-3.4.2. Illetékesség:
+3.6.2. Illetékesség:
 
 Akasztó
 
@@ -896,11 +916,11 @@ Tabdi
 
 Tázlár
 
-3.5. Kiskunfélegyházi Járási Hivatal
+3.7. Kiskunfélegyházi Járási Hivatal
 
-3.5.1. Székhelye: Kiskunfélegyháza
+3.7.1. Székhelye: Kiskunfélegyháza
 
-3.5.2. Illetékesség:
+3.7.2. Illetékesség:
 
 Bugac
 
@@ -914,25 +934,17 @@ Pálmonostora
 
 Petőfiszállás
 
-3.6. Kiskunhalasi Járási Hivatal
+3.8. Kiskunhalasi Járási Hivatal
 
-3.6.1. Székhelye: Kiskunhalas
+3.8.1. Székhelye: Kiskunhalas
 
-Munkarőpiaci pont: Jánoshalma
-
-3.6.2. Illetékesség:
+3.8.2. Illetékesség:
 
 Balotaszállás
 
-Borota
-
 Harkakötöny
 
-Jánoshalma
-
 Kelebia
-
-Kéleshalom
 
 Kiskunhalas
 
@@ -940,21 +952,17 @@ Kisszállás
 
 Kunfehértó
 
-Mélykút
-
 Pirtó
-
-Rém
 
 Tompa
 
 Zsana
 
-3.7. Kiskunmajsai Járási Hivatal
+3.9. Kiskunmajsai Járási Hivatal
 
-3.7.1. Székhelye: Kiskunmajsa
+3.9.1. Székhelye: Kiskunmajsa
 
-3.7.2. Illetékesség:
+3.9.2. Illetékesség:
 
 Csólyospálos
 
@@ -968,11 +976,11 @@ Móricgát
 
 Szank
 
-3.8. Kunszentmiklósi Járási Hivatal
+3.10. Kunszentmiklósi Járási Hivatal
 
-3.8.1. Székhelye: Kunszentmiklós
+3.10.1. Székhelye: Kunszentmiklós
 
-3.8.2. Illetékesség:
+3.10.2. Illetékesség:
 
 Apostag
 
@@ -992,11 +1000,11 @@ Szalkszentmárton
 
 Tass
 
-3.9. Tiszakécskei Járási Hivatal
+3.11. Tiszakécskei Járási Hivatal
 
-3.9.1. Székhelye: Tiszakécske
+3.11.1. Székhelye: Tiszakécske
 
-3.9.2. Illetékesség:
+3.11.2. Illetékesség:
 
 Lakitelek
 
@@ -7323,3 +7331,4 @@ Zalaszentmihály
 Zalatárnok
 
 [^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
