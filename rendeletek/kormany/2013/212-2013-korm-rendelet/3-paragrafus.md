@@ -12,9 +12,9 @@ bc) a hitelkérelem benyújtásának időpontjáig a hitelcéllal érintett gyó
 
 bd) tudomásul veszi, hogy amennyiben a ba) és bb) alpont alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően más de minimis támogatás igénybevétele miatt, úgy arról köteles haladéktalanul tájékoztatni a pénzügyi intézményt és a támogatást nyújtó szervet;
 
-c) csatolja az Országos Tisztifőorvosi Hivatal nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
+c)[^6] csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
 
-d)[^6] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Egészségügyi Nyilvántartási és Képzési Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
+d)[^7] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Egészségügyi Nyilvántartási és Képzési Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
 
 e) csatolja a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságnak a legfőbb szerve ülésének jegyzőkönyvében rögzített döntéséről készült másolatot a tulajdonosi szerkezet megváltoztatásáról, amely döntés legalább a következőket tartalmazza:
 
@@ -36,4 +36,5 @@ g) kötelezettséget vállal arra, hogy a Patika Hitelprogram keretében felvett
 
 h) csatolja nyilatkozatát arról, hogy a gyógyszerészi foglalkozás gyakorlását kizáró ok vele szemben nem áll fenn.
 
-[^6]: A 3. § d) pontja a 30/2015. (II. 25.) Korm. rendelet 81. §-a szerint módosított szöveg.
+[^6]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^7]: A 3. § d) pontja a 30/2015. (II. 25.) Korm. rendelet 81. §-a szerint módosított szöveg.

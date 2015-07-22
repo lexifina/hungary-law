@@ -1,9 +1,9 @@
 ## 11. § Ha e rendelet másként nem rendelkezik, a kamattámogatás támogatással kapcsolatos szabályaira az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet alkalmazandó.
 
-12. § (1)[^8] Az általános csekély összegű (de minimis) rendelet 6. cikk (1) bekezdése szerinti kötelezettséget a kamattámogatás tekintetében a támogatást nyújtó szerv köteles teljesíteni.
+12. § (1)[^9] Az általános csekély összegű (de minimis) rendelet 6. cikk (1) bekezdése szerinti kötelezettséget a kamattámogatás tekintetében a támogatást nyújtó szerv köteles teljesíteni.
 
 (2) Nem ítélhető meg csekély összegű támogatás az általános csekély összegű (de minimis) rendelet 1. cikkében meghatározottakhoz.
 
 (3) Csekély összegű támogatás azonos elszámolható költségek vonatkozásában nem halmozható állami támogatással, ha az így halmozott összeg támogatási intenzitása meghaladná az irányadó uniós állami támogatási szabályban meghatározott támogatási intenzitást. A támogatást nyújtó szerv gondoskodik az uniós állami támogatási szabályokban meghatározott támogatáshalmozódási szabályok betartásáról.
 
-[^8]: A 12. § (1) bekezdése a 334/2014. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 12. § (1) bekezdése a 334/2014. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
