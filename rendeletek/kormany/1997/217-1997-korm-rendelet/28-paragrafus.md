@@ -1,4 +1,4 @@
-28. § (1)[^394] A tizenkét évesnél fiatalabb beteg gyermek ápolása, illetve kórházi tartózkodása címén járó táppénz megállapításánál előzményként azt az időtartamot kell figyelembe venni, amelyre ugyanazon gyermek ápolása, illetve kórházi tartózkodása címén a gyermek első születésnapjáig születésének napját, azután pedig a legutóbbi születésnapját követően táppénzt folyósítottak.
+28. § (1)[^394] A tizenkét évesnél fiatalabb beteg gyermek ápolása, illetve kórházi tartózkodása címén járó táppénz megállapításánál előzményként azt az időtartamot kell figyelembe venni, amelyre ugyanazon gyermek ápolása, illetve kórházi tartózkodása címén, ugyanazon biztosítási jogviszony alapján, a gyermek első születésnapjáig a születésének napját, azután pedig a legutóbbi születésnapját követően táppénzt folyósítottak.
 
 (1a)[^395] A 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása, illetve kórházi tartózkodása címén méltányosságból folyósított táppénz megállapításánál előzményként azt az időtartamot kell figyelembe venni, amelyre ugyanazon gyermek ápolása, illetve kórházi tartózkodása címén a gyermek legutóbbi születésnapját követően táppénzt folyósítottak.
 
@@ -10,7 +10,7 @@
 
 (5)[^398] A fennálló biztosítási jogviszony kezdőnapjának a pénzbeli ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszony első napja minősül. Az Ebtv. 39/A. § (1) bekezdésének alkalmazásánál a fennálló biztosítási jogviszony kezdő napja nem változik, ha az ellátásra jogosult az Ebtv. 48/A. § (1) bekezdése szerinti folyamatos biztosítási időn belül ugyanannál a foglalkoztatónál, ugyanolyan jogviszony alapján ismét biztosítottá válik. Törvény szerinti jogutódlás esetén a biztosítási jogviszony kezdő napja megegyezik a jogelődnél létesített biztosítási jogviszony kezdő napjával.
 
-[^394]: A Vhr. 28. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^394]: A Vhr. 28. § (1) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^395]: A Vhr. 28. § (1a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^396]: A Vhr. 28. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
 [^397]: A Vhr. 28. § (4) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 18. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

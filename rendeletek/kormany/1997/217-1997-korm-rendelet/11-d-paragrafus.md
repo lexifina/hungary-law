@@ -24,15 +24,17 @@ cd)[^235] az Ebtv. 26. § (1) bekezdés d) pontja esetében a biztosított nyila
 
 ce)[^236] az Ebtv. 26. § (1) bekezdés e) pontja esetében a biztosítottat kezelő szakorvos javaslatát, amely tartalmazza az állapotváltozás tényét és leírását, melyből megállapítható az alkatrészcsere indokoltsága,
 
-cf)[^237] az Ebtv. 26. § (1) bekezdés e) pontja esetében a 11/F. §-ban foglaltakra vonatkozó árajánlatot.
+cf)[^237] az Ebtv. 26. § (1) bekezdés e) pontja esetében a 11/F. §-ban foglaltakra vonatkozó árajánlatot;
 
-d)[^238]
+cg)[^238] az Ebtv. 26. § (2b) bekezdése szerinti esetben a biztosítottat kezelő szakorvos javaslatát, amelyből megállapítható a gyógyászati segédeszköz neve, az eszköz szükségességének indokoltsága, a kölcsönzés várható időtartama, valamint a kölcsönzést végző egészségügyi szolgáltatónak a kölcsönzés napi díjára vonatkozó árajánlatát és az eszköz megfelelőségét igazoló dokumentációt;
 
-e)[^239] az Ebtv. 26. § (1) bekezdés c) és d) pontja szerinti méltányossági kérelmeknél a kezelő szakorvos által, illetve az Ebtv. 26. § (2) bekezdése szerinti méltányossági kérelmeknél a rendelésre jogosult orvos által külön jogszabály szerint kiállított vényt.
+d)[^239]
 
-(3)[^240] A külön jogszabály szerinti indikáción túli gyógyszerrendelés szabályai alapján rendelt, illetve a fekvőbeteg-ellátás során alkalmazott gyógyszer méltányossági kérelméhez
+e)[^240] az Ebtv. 26. § (1) bekezdés c) és d) pontja szerinti méltányossági kérelmeknél a kezelő szakorvos által, illetve az Ebtv. 26. § (2) bekezdése szerinti méltányossági kérelmeknél a rendelésre jogosult orvos által külön jogszabály szerint kiállított vényt.
 
-a)[^241] abban az esetben, ha az adott
+(3)[^241] A külön jogszabály szerinti indikáción túli gyógyszerrendelés szabályai alapján rendelt, illetve a fekvőbeteg-ellátás során alkalmazott gyógyszer méltányossági kérelméhez
+
+a)[^242] abban az esetben, ha az adott
 
 aa) járóbeteg-ellátás keretében rendelt gyógyszer valamely forgalomba hozatalra engedélyezett indikációban társadalombiztosítási támogatásban – a külön jogszabály szerinti érték nélküli támogatási kategória kivételével – normatív jogcímen részesül,
 
@@ -44,15 +46,15 @@ b) az a) pont alá nem tartozó gyógyszer esetén a (2) bekezdésben – a fekv
 
 kell mellékelni.
 
-(3a)[^242] Ugyanazon gyógyszerre, gyógyászati segédeszközre vonatkozó ismételt méltányossági kérelem esetén a (2) bekezdésben foglaltakat kell alkalmazni, azzal, hogy a (2) bekezdés a) pontjától eltérően csak a megelőző kérelem benyújtása óta eltelt időszakban bekövetkezett állapot változást dokumentáló leleteket szükséges csatolni.
+(3a)[^243] Ugyanazon gyógyszerre, gyógyászati segédeszközre vonatkozó ismételt méltányossági kérelem esetén a (2) bekezdésben foglaltakat kell alkalmazni, azzal, hogy a (2) bekezdés a) pontjától eltérően csak a megelőző kérelem benyújtása óta eltelt időszakban bekövetkezett állapot változást dokumentáló leleteket szükséges csatolni.
 
-(4)[^243] Az OEP határozatát megküldi a kezelőorvosnak, a beteg által a (2) bekezdés alapján megjelölt gyógyszertárnak, gyártónak vagy forgalmazónak. A határozatban fel kell tüntetni a beteg számára kiváltható gyógyszer vagy gyógyászati segédeszköz adatait, mennyiségét, a megállapított támogatás alapjául figyelembe vett árát, a méltányosságból megállapított támogatás összegét, és a méltányosságból megállapított támogatás időtartamát. A kérelmezőt tájékoztatni kell arról, hogy a (2) bekezdés b) pont bb) alpontja esetén a gyógyszert melyik gyógyszertárban válthatja ki.
+(4)[^244] Az OEP határozatát megküldi a kezelőorvosnak, a beteg által a (2) bekezdés alapján megjelölt gyógyszertárnak, gyártónak vagy forgalmazónak. A határozatban fel kell tüntetni a beteg számára kiváltható gyógyszer vagy gyógyászati segédeszköz adatait, mennyiségét, a megállapított támogatás alapjául figyelembe vett árát, a méltányosságból megállapított támogatás összegét, és a méltányosságból megállapított támogatás időtartamát. A kérelmezőt tájékoztatni kell arról, hogy a (2) bekezdés b) pont bb) alpontja esetén a gyógyszert melyik gyógyszertárban válthatja ki.
 
-(4a)[^244] Az OEP az OGYÉI által kiadott engedély, illetve nyilatkozat másolatát a (4) bekezdés szerinti határozattal együtt megküldi a (2) bekezdés b) pont bb) alpontja szerint rendelt gyógyszer támogatással történő kiszolgáltatására kijelölt, külön szerződéssel rendelkező gyógyszertárnak.
+(4a)[^245] Az OEP az OGYÉI által kiadott engedély, illetve nyilatkozat másolatát a (4) bekezdés szerinti határozattal együtt megküldi a (2) bekezdés b) pont bb) alpontja szerint rendelt gyógyszer támogatással történő kiszolgáltatására kijelölt, külön szerződéssel rendelkező gyógyszertárnak.
 
-(5)[^245] A (3) bekezdés a) pontja szerinti kérelmet az OEP tizenkét napon belül, az indikáción túli gyógyszerrendelésnek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló külön jogszabály szerint sürgős szükséggé történt minősítése esetén pedig soron kívül bírálja el.
+(5)[^246] A (3) bekezdés a) pontja szerinti kérelmet az OEP tizenkét napon belül, az indikáción túli gyógyszerrendelésnek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló külön jogszabály szerint sürgős szükséggé történt minősítése esetén pedig soron kívül bírálja el.
 
-(6)[^246] A (2) bekezdés alapján megjelölt vagy az OEP által kijelölt gyógyszertár a méltányossági kérelem alapján engedélyezett gyógyszerről és a kiadott mennyiségéről nyilvántartást vezet, melyeket a vonatkozó hatósági engedélyre is rávezet. A nyilvántartott adatokat 5 évig meg kell őrizni.
+(6)[^247] A (2) bekezdés alapján megjelölt vagy az OEP által kijelölt gyógyszertár a méltányossági kérelem alapján engedélyezett gyógyszerről és a kiadott mennyiségéről nyilvántartást vezet, melyeket a vonatkozó hatósági engedélyre is rávezet. A nyilvántartott adatokat 5 évig meg kell őrizni.
 
 [^229]: A Vhr. 11/D. § előtti alcímét a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 113/2005. (VI. 25.) Korm. rendelet 11. §-ával megállapított, a 366/2010. (XII. 30.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
 [^230]: A Vhr. 11/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
@@ -63,12 +65,13 @@ kell mellékelni.
 [^235]: A Vhr. 11/D. § (2) bekezdés c) pont cd) alpontját a 366/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
 [^236]: A Vhr. 11/D. § (2) bekezdés c) pont ce) alpontját az 520/2013. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^237]: A Vhr. 11/D. § (2) bekezdés c) pont cf) alpontját az 520/2013. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^238]: A Vhr. 11/D. § (2) bekezdés d) pontját a 447/2012. (XII. 29.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
-[^239]: A Vhr. 11/D. § (2) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
-[^240]: A Vhr. 11/D. § új (3) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
-[^241]: A Vhr. 11/D. § (3) bekezdés a) pont záró szövegrésze a 30/2015. (II. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^242]: A Vhr. 11/D. § (3a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be.
-[^243]: A Vhr. 11/D. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése. A (4) bekezdést a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 14. § 12. pontja, a 447/2012. (XII. 29.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
-[^244]: A Vhr. 11/D. § (4a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^245]: A Vhr. 11/D. § (4) bekezdését a 281/2004. (X. 20.) Korm. rendelet 7. §-ának (4) bekezdése iktatta be, számozását (5) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése, szövege a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 13. pontja szerint módosított szöveg.
-[^246]: A Vhr. 11/D. § (6) bekezdését újonnan a 447/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^238]: A Vhr. 11/D. § (2) bekezdés c) pont cg) alpontját a 192/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^239]: A Vhr. 11/D. § (2) bekezdés d) pontját a 447/2012. (XII. 29.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
+[^240]: A Vhr. 11/D. § (2) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^241]: A Vhr. 11/D. § új (3) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva.
+[^242]: A Vhr. 11/D. § (3) bekezdés a) pont záró szövegrésze a 30/2015. (II. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^243]: A Vhr. 11/D. § (3a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^244]: A Vhr. 11/D. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése. A (4) bekezdést a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 14. § 12. pontja, a 447/2012. (XII. 29.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^245]: A Vhr. 11/D. § (4a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^246]: A Vhr. 11/D. § (4) bekezdését a 281/2004. (X. 20.) Korm. rendelet 7. §-ának (4) bekezdése iktatta be, számozását (5) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése, szövege a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 366/2010. (XII. 30.) Korm. rendelet 14. § 13. pontja szerint módosított szöveg.
+[^247]: A Vhr. 11/D. § (6) bekezdését újonnan a 447/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdése iktatta be.

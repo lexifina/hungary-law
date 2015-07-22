@@ -1,12 +1,12 @@
-11/E. §[^247] (1)[^248] A kérelem elbírálása során az OEP a beteg kórtörténete, a betegség súlyossága, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz kérelmező általi használatának orvosszakmai indokoltsága, költsége és költséghatékonysága, valamint a várható egészségnyereség alapján, a kórkép előfordulási gyakoriságának a figyelembevételével dönt.
+11/E. §[^248] (1)[^249] A kérelem elbírálása során az OEP a beteg kórtörténete, a betegség súlyossága, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz kérelmező általi használatának orvosszakmai indokoltsága, költsége és költséghatékonysága, valamint a várható egészségnyereség alapján, a kórkép előfordulási gyakoriságának a figyelembevételével dönt.
 
-(1a)[^249] Korábban nem kérelmezett hatóanyag, indikáció vagy eszközfajta esetén az OEP az általa felkért, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz szakmai megítélésében kompetens orvos, vagy kompetenciával és egyéb szakirányú képesítéssel rendelkező szakember véleményét is kikéri.
+(1a)[^250] Korábban nem kérelmezett hatóanyag, indikáció vagy eszközfajta esetén az OEP az általa felkért, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz szakmai megítélésében kompetens orvos, vagy kompetenciával és egyéb szakirányú képesítéssel rendelkező szakember véleményét is kikéri.
 
 (2) A kérelem elbírálásakor figyelemmel kell lenni a támogatással rendelhető komparátor technológiákra, valamint arra, hogy a kérelmező azokkal miért nem látható el.
 
 (3) A kérelmezett gyógyszerár-támogatás megállapítása bármely kérelmező esetében első alkalommal legfeljebb egy évre történhet.
 
-(4)[^250]
+(4)[^251]
 
 (5) A 11/D. § (2) bekezdése alapján megjelölt közforgalmú gyógyszertár működésének ideiglenes szünetelése, illetve megszűnése esetén a gyógyszertár vezetője
 
@@ -20,7 +20,7 @@ b) értesíti a beteg választása szerinti, ennek hiányában a legközelebbi k
 
 (6) A kérelem elbírálását követően a beteg a 11/D. § (2) bekezdése alapján megjelölt gyógyszertár, illetve gyógyászati segédeszköz gyártó vagy forgalmazó helyett indokolt esetben az OEP részére történő bejelentést követően másikat jelölhet meg.
 
-[^247]: A Vhr. 11/E. §-t a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^248]: A Vhr. 11/E. § (1) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^249]: A Vhr. 11/E. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^250]: A Vhr. 11/E. § (4) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.
+[^248]: A Vhr. 11/E. §-t a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^249]: A Vhr. 11/E. § (1) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^250]: A Vhr. 11/E. § (1a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^251]: A Vhr. 11/E. § (4) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.
