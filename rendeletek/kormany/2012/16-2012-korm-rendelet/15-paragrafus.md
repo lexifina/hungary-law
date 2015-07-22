@@ -8,4 +8,16 @@ a) a megkötendő szerződést a Kbt. 94. § (2) bekezdés c) pontjában foglalt
 
 b) az adott betegség kezelésére szolgáló, korábban beszerzett gyógyszer, orvostechnikai eszköz másikkal történő helyettesítése a Kbt. 94. § (4) bekezdés b) pontja szerint bizonyos betegségcsoportok esetében nem lehetséges a kezelésre szoruló betegek egészségi állapotának veszélyeztetése nélkül, vagy az a betegek kezelésében, az országos ellátásban jelentős, aránytalanul nagy nehézséget eredményezne.
 
-(3) Az e rendelet hatálya alá tartozó áruk tekintetében a Kbt. 94. § (2) bekezdés d) pontja szerinti rendkívüli sürgősség a terápiás alkalmazással indokolható abban az esetben, ha a sürgős ellátási igény fennállása igazoltan megállapítható. A jogalap igazolásához az illetékes egészségügyi szakmai kollégium vezetőjének vagy a gyógyszerészeti államigazgatási szervnek az egyetértő állásfoglalása szükséges. Az indokolásban ki kell térni annak igazolására, hogy a rendkívüli sürgősség nem az ajánlatkérő hibájából ered.
+(3)[^5] Az e rendelet hatálya alá tartozó áruk tekintetében a Kbt. 94. § (2) bekezdés d) pontja szerinti rendkívüli sürgősség a terápiás alkalmazással indokolható akkor, ha a sürgős ellátási igény fennállása igazoltan megállapítható. A jogalap igazolásához
+
+a) orvostechnikai eszköz közbeszerzésekor, ha a közbeszerzést
+
+aa) az OEP folytatja le, az illetékes egészségügyi szakmai kollégium vezetőjének,
+
+ab) nem az OEP folytatja le, a fekvőbeteg-gyógyintézet orvos igazgatójának,
+
+b) gyógyszer közbeszerzésekor a gyógyszerészeti államigazgatási szerv
+
+egyetértő állásfoglalása szükséges. Az indokolásban ki kell térni annak igazolására, hogy a rendkívüli sürgősség nem az ajánlatkérő hibájából ered.
+
+[^5]: A 15. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 51. §-ával megállapított szöveg.
