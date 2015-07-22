@@ -22,4 +22,8 @@ i) az orvostechnikai eszközök eseti használatbavételével kapcsolatos dönt�
 
 j) az orvostechnikai eszközök megfelelőségértékelésére való kijelöléssel kapcsolatban hozott döntések esetében, és
 
-k) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással kapcsolatos eljárásokban hozott döntések esetében.
+k) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással kapcsolatos eljárásokban hozott döntések esetében,
+
+l)[^2] az Eütv. 110. § (4a) bekezdése szerinti, a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység végzésére irányuló engedélyezési eljárásban.
+
+[^2]: A 9. § l) pontját a 192/2015. (VII. 21.) Korm. rendelet 58. §-a iktatta be.
