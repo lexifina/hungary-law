@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-351-20-
 | 2015-06-01 | 2013-351-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-06-02 | 2013-351-20-22.8 | 2010: CXXX. törvény |
 | 2015-07-01 | 2013-351-20-22.9 | 157/2015. (VI. 25.) Korm. rendelet |
+| 2015-07-22 | 2013-351-20-22.10 | 192/2015. (VII. 21.) Korm. rendelet |
