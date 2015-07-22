@@ -30,7 +30,7 @@
 
 | 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság; ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az BM Országos Katasztrófavédelmi Főigazgatóság | ha nem az OTH jár el első fokon: BM Országos Katasztrófavédelmi Főigazgatóság |
 
-5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^135]
+5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^134]
 
 ADATLAP
 
@@ -156,4 +156,4 @@ Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
 
-[^135]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.
+[^134]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.

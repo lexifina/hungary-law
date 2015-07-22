@@ -1,4 +1,4 @@
-## 10. [^98] A közigazgatási hatósági eljárásokban vizsgálandó szakkérdések köre, és közreműködő szakhatóságok kijelölése
+## 10. [^97] A közigazgatási hatósági eljárásokban vizsgálandó szakkérdések köre, és közreműködő szakhatóságok kijelölése
 
 23. § (1) A Kormány a természetes fürdővízzé nyilvánítási eljárásban
 
@@ -64,4 +64,4 @@ első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban
 
 (10) A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-[^98]: A 10. alcím (23. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (9) bekezdésével megállapított szöveg.
+[^97]: A 10. alcím (23. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (9) bekezdésével megállapított szöveg.
