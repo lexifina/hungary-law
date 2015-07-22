@@ -22,7 +22,7 @@ h) közfinanszírozott egészségügyi szolgáltatónak a működési engedély�
 
 (3)[^96] Az egészségügyi közszolgáltatást végző egészségügyi szolgáltatóra vonatkozó, a (2) bekezdés e)–g) pontja szerinti felfüggesztés és működési engedély visszavonása esetén a betegellátás átmeneti biztosítása érdekében más egészségügyi szolgáltató kijelöléséről a kijelölésre kerülő egészségügyi szolgáltató működési engedélyét kiadó egészségügyi államigazgatási szerv dönt.
 
-(4)[^97] Az egészségügyi szolgáltató működését a szolgáltatás helye szerinti járási hivatal akkor is ellenőrizheti, ha a szolgáltatásra jogosító működési engedélyt az Országos Tisztifőorvosi Hivatal adta ki. A járási hivatal az ellenőrzésről készült jegyzőkönyv egy példányát haladéktalanul, de legfeljebb nyolc napon belül megküldi az engedélyt kiadó egészségügyi államigazgatási szerv részére.
+(4)[^97] Az egészségügyi szolgáltató működését az Országos Tisztifőorvosi Hivatal felkérésére a szolgáltatás helye szerinti járási hivatal akkor is ellenőrizheti, ha a szolgáltatásra jogosító működési engedélyt az Országos Tisztifőorvosi Hivatal adta ki. A járási hivatal az ellenőrzésről készült jegyzőkönyv egy példányát haladéktalanul, de legfeljebb nyolc napon belül megküldi az engedélyt kiadó egészségügyi államigazgatási szerv részére.
 
 (5) Az egészségügyi államigazgatási szerv a tapasztalt közegészségügyi hiányosságok esetén saját hatáskörben intézkedik, és erről értesíti a működési engedélyt kiadó egészségügyi államigazgatási szervet. Egyéb hiányosság esetén intézkedést kezdeményez a működési engedélyt kiadó egészségügyi államigazgatási szervnél.
 
@@ -31,5 +31,5 @@ h) közfinanszírozott egészségügyi szolgáltatónak a működési engedély�
 [^94]: A 16. § a 325/2011. (XII. 28.) Korm. rendelet 42. §-ával megállapított szöveg.
 [^95]: A 16. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 35. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 57. § f) pontja szerint módosított szöveg.
 [^96]: A 16. § (3) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^97]: A 16. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^97]: A 16. § (4) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 32. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 60. § (2) bekezdés b) pontja, a 192/2015. (VII. 21.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
 [^98]: A 16. § (6) bekezdését a 136/2013. (V. 10.) Korm. rendelet 3. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 13. §-a szerint módosított szöveg.

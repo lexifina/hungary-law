@@ -1,6 +1,6 @@
 ## Az egészségügyi szolgáltató tevékenységének szüneteltetése[^101]
 
-18. §[^102] (1)[^103] Az egészségügyi közszolgáltatást végző szolgáltató a működési engedélyében szereplő bármely egészségügyi szolgáltatás ellátását a fenntartó hozzájárulásával szüneteltetheti. A szüneteltetést legalább nyolc nappal korábban be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek, megjelölve a szünetelő szervezeti egység helyett egészségügyi szolgáltatást nyújtó szervezeti egységet annak azonosító kódjának feltüntetésével. Amennyiben a szünetelést bejelentő egészségügyi szolgáltatónál nincs az adott szakmában más szervezeti egység, az egészségügyi szolgáltató más egészségügyi szolgáltatóval megállapodik a helyette történő egészségügyi szolgáltatásról. A szünetelésről szóló bejelentéshez csatolni kell a fenntartó hozzájárulását, valamint a megállapodást. A szüneteléssel kapcsolatban nem kell módosítani a működési engedélyt.
+18. §[^102] (1)[^103] Az egészségügyi közszolgáltatást végző szolgáltató a működési engedélyében szereplő bármely egészségügyi szolgáltatás ellátását – a fenntartó tájékoztatása mellett – szüneteltetheti. A szüneteltetést legalább nyolc nappal korábban be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek, megjelölve a szünetelő szervezeti egység helyett egészségügyi szolgáltatást nyújtó szervezeti egységet annak azonosító kódjának feltüntetésével. Amennyiben a szünetelést bejelentő egészségügyi szolgáltatónál nincs az adott szakmában más szervezeti egység, az egészségügyi szolgáltató más egészségügyi szolgáltatóval megállapodik a helyette történő egészségügyi szolgáltatásról. A szünetelésről szóló bejelentéshez csatolni kell a megállapodást. A szüneteléssel kapcsolatban nem kell módosítani a működési engedélyt.
 
 (2)[^104] Amennyiben a szünetelést bejelentő szolgáltató nem csatolja a szünetelés bejelentéséhez az (1) bekezdés szerinti megállapodást, az egészségügyi államigazgatási szerv dönt az egészségügyi szolgáltatás nyújtását átmenetileg végző szolgáltató kijelöléséről. A kijelölésről a kijelölésre kerülő egészségügyi szolgáltató működési engedélyét kiadó egészségügyi államigazgatási szerv dönt.
 
@@ -18,7 +18,7 @@
 
 [^101]: A 18. §-t megelőző alcím az 520/2013. (XII. 30.) Korm. rendelet 35. § g) pontja szerint módosított szöveg.
 [^102]: A 18. § a 325/2011. (XII. 28.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^103]: A 18. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^103]: A 18. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 33. § d) pontja, a 192/2015. (VII. 21.) Korm. rendelet 34. § c) pontja szerint módosított szöveg.
 [^104]: A 18. § (2) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
 [^105]: A 18. § (3) bekezdése a 40/2014. (II. 24.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^106]: A 18. § (4) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.
