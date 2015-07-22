@@ -4,8 +4,8 @@ a)–c)
 
 d)–f)
 
-g) VIII. fejezetének címében a „KÖZIGAZGATÁSI, RENDÉSZETI ÉS KATONAI”
+g)
 
 szövegrész.
 
-(2) Hatályát veszti az NKE tv. 41. § (1) és (3) bekezdése.
+(2)
