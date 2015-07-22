@@ -1,3 +1,3 @@
-12. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^562]
+12. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^569]
 
-[^562]: A 12. számú melléklet a 447/2012. (XII. 29.) Korm. rendelet 28. § o) pontja szerint módosított szöveg.
+[^569]: A 12. számú melléklet a 447/2012. (XII. 29.) Korm. rendelet 28. § o) pontja szerint módosított szöveg.

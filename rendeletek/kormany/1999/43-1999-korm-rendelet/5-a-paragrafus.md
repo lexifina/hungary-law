@@ -22,7 +22,9 @@ d)–e)[^48]
 
 (7a)[^52] Ha az (1) bekezdés szerinti adathiány, illetve a (2) bekezdés szerinti adathiba folyamatosan, a (3) bekezdés szerinti listára való felkerülését követő hetedik egyeztetési időpontban is fennáll, az OEP az érintett tételeket – az (5) bekezdés szerinti szankció mellőzésével – véglegesen kivezeti a (3) bekezdés szerinti listáról. A kivezetett tételek finanszírozására nem kerül sor.
 
-(8)[^53] Az Ebtv. 5/B. § u) pontja szerinti intézményi előjegyzési lista tekintetében az (1)–(7) bekezdésében foglaltakat alkalmazni kell.
+(7b)[^53] A (4)–(7) bekezdésben foglaltakat nem kell alkalmazni a finanszírozási szerződés hatálybalépését követő két hónap teljesítményének elszámolása során.
+
+(8)[^54] Az Ebtv. 5/B. § u) pontja szerinti intézményi előjegyzési lista tekintetében az (1)–(7b) bekezdésben foglaltakat alkalmazni kell.
 
 [^47]: Az 5/A. §-t a 254/2013. (VII. 5.) Korm. rendelet 22. §-a iktatta be.
 [^48]: Az 5/A. § (2) bekezdés d)–e) pontját az 519/2013. (XII. 30.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
@@ -30,4 +32,5 @@ d)–e)[^48]
 [^50]: Az 5/A. § (6) bekezdése az 519/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^51]: Az 5/A. § (7) bekezdését az 519/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
 [^52]: Az 5/A. § (7a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 25. §-a iktatta be.
-[^53]: Az 5/A. § (8) bekezdését az 519/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^53]: Az 5/A. § (7b) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 18. §-a iktatta be.
+[^54]: Az 5/A. § (8) bekezdését az 519/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
