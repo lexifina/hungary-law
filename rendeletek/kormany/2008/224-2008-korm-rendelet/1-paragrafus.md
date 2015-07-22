@@ -42,19 +42,19 @@ f)[^14] a kémiai biztonsági értékelés és jelentés elkészítésére és a
 
 g)[^15] a 649/2012/EU európai parlamenti és tanácsi rendelet 7. cikkében, 8. cikkében, 11. cikk (4) bekezdésében, 14. cikk (4), (6), (8), (10) és (11) bekezdésében foglalt rendelkezéseket megsérti;
 
-h)[^16] a veszélyes anyag és a veszélyes keverék osztályozására, csomagolására, feliratozására, címkézésére vonatkozó előírásokat, így a Kbtv. 3–5., 10. és 14–17. §-ában, az 1907/2006/EK európai parlamenti és tanácsi rendelet 65. cikkében és az 1272/2008/EK európai parlamenti és tanácsi rendelet 4. cikkében, valamint azzal összhangban
+h)[^16] a veszélyes anyag és a veszélyes keverék osztályozására, csomagolására, feliratozására, címkézésére vonatkozó előírásokat, így a Kbtv. 3. §-ában és 14–16. §-ában, az 1907/2006/EK európai parlamenti és tanácsi rendelet 65. cikkében és az 1272/2008/EK európai parlamenti és tanácsi rendelet 4. cikkében, valamint azzal összhangban
 
-ha) az osztályozás során az 1272/2008/EK európai parlamenti és tanácsi rendelet 5. cikkében, 6. cikkében, 7. cikkében, 9. cikkében, 10. cikkében, 11. cikkében, 12. cikkében, 13. cikkében, 14. cikkében, 15. cikkében és 61. cikkében foglaltakat megsérti,
+ha)[^17] az osztályozás során az 1272/2008/EK európai parlamenti és tanácsi rendelet 5. cikkében, 6. cikkében, 7. cikkében, 8. cikkében, 9. cikkében, 10. cikkében, 11. cikkében, 12. cikkében, 13. cikkében, 14. cikkében, 15. cikkében és 61. cikkében foglaltakat megsérti,
 
-hb) a címkézés során az 1272/2008/EK európai parlamenti és tanácsi rendelet 17. cikkében, 18. cikkében, 19. cikkében, 20. cikkében, 21. cikkében, 22. cikkében, 23. cikkében, 24. cikkében, 25. cikkében, 26. cikkében, 27. cikkében, 30. cikkében, 31. cikkében, 32. cikkében, 33. cikkében és 61. cikkében foglaltakat megsérti,
+hb)[^18] a címkézés során az 1272/2008/EK európai parlamenti és tanácsi rendelet 17. cikkében, 18. cikkében, 19. cikkében, 20. cikkében, 21. cikkében, 22. cikkében, 23. cikkében, 24. cikkében, 25. cikkében, 26. cikkében, 27. cikkében, 29. cikkében, 30. cikkében, 31. cikkében, 32. cikkében, 33. cikkében és 61. cikkében foglaltakat megsérti,
 
 hc) a csomagolás során az 1272/2008/EK európai parlamenti és tanácsi rendelet 35. cikkében és 61. cikkében, továbbá 48. cikkében foglaltakat megsérti;
 
-i)[^17] veszélyes anyaggal, illetve veszélyes keverékkel végzett tevékenységével a (2) bekezdés e) pontjában meghatározott eseten kívül foglalkozási mérgezést vagy az emberi élet, testi épség veszélyeztetését, az egészség károsítását, illetőleg az épített vagy a természetes környezet egyéb módon történő veszélyeztetését, illetve károsítását idézi elő.
+i)[^19] veszélyes anyaggal, illetve veszélyes keverékkel végzett tevékenységével a (2) bekezdés e) pontjában meghatározott eseten kívül foglalkozási mérgezést vagy az emberi élet, testi épség veszélyeztetését, az egészség károsítását, illetőleg az épített vagy a természetes környezet egyéb módon történő veszélyeztetését, illetve károsítását idézi elő.
 
-j)[^18] az anyagok osztályozásának és címkézésének harmonizálása kapcsán a gyártó, importőr és továbbfelhasználó adatszolgáltatási kötelezettségét, valamint a szállítók általános információ-megőrzési kötelezettségét meghatározó előírásokat, így az 1272/2008/EK európai parlamenti és tanácsi rendelet 37. cikk (6) bekezdésében és 49. cikkében előírtakat megsérti,
+j)[^20] az anyagok osztályozásának és címkézésének harmonizálása kapcsán a gyártó, importőr és továbbfelhasználó adatszolgáltatási kötelezettségét, valamint a szállítók általános információ-megőrzési kötelezettségét meghatározó előírásokat, így az 1272/2008/EK európai parlamenti és tanácsi rendelet 37. cikk (6) bekezdésében és 49. cikkében előírtakat megsérti,
 
-k)[^19] az osztályozási és címkézési jegyzékbe történő bejelentési kötelezettséget meghatározó előírásokat, így az 1272/2008/EK európai parlamenti és tanácsi rendelet 40. cikkében és 41. cikkében előírtakat megsérti.
+k)[^21] az osztályozási és címkézési jegyzékbe történő bejelentési kötelezettséget meghatározó előírásokat, így az 1272/2008/EK európai parlamenti és tanácsi rendelet 40. cikkében és 41. cikkében előírtakat megsérti.
 
 (4) Különös méltánylást érdemlő esetben, a 2. § szerinti szempontok érvényre juttatása érdekében, az eset összes körülményeire tekintettel a (2) bekezdésben foglalt kötelezettségszegések esetén a bírság kivételesen az ott meghatározott legkisebb összegnél alacsonyabb mértékben is megállapítható, de nem lehet kevesebb 100 000 forintnál.
 
@@ -73,7 +73,9 @@ k)[^19] az osztályozási és címkézési jegyzékbe történő bejelentési k�
 [^13]: Az 1. § (3) bekezdés e) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § c) pontja, valamint a 3. § a) pontja szerint módosított szöveg.
 [^14]: Az 1. § (3) bekezdés f) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § c) pontja, valamint a 3. § a) pontja szerint módosított szöveg.
 [^15]: Az 1. § (3) bekezdés g) pontja a 145/2010. (IV. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 447/2012. (XII. 29.) Korm. rendelet 71. § a) és b) pontja szerint módosított szöveg.
-[^16]: Az 1. § (3) bekezdés h) pontja a 145/2010. (IV. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^17]: Az 1. § (3) bekezdés i) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § g) pontja szerint módosított szöveg.
-[^18]: Az 1. § (3) bekezdés j) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^19]: Az 1. § (3) bekezdés k) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^16]: Az 1. § (3) bekezdés h) pontja a 145/2010. (IV. 29.) Korm. rendelet 1. § (2) bekezdésével megállapított, nyitó szövegrésze a 192/2015. (VII. 21.) Korm. rendelet 39. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^17]: Az 1. § (3) bekezdés h) pont ha) alpontja a 192/2015. (VII. 21.) Korm. rendelet 39. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^18]: Az 1. § (3) bekezdés h) pont hb) alpontja a 192/2015. (VII. 21.) Korm. rendelet 39. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^19]: Az 1. § (3) bekezdés i) pontja a 145/2010. (IV. 29.) Korm. rendelet 2. § g) pontja szerint módosított szöveg.
+[^20]: Az 1. § (3) bekezdés j) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^21]: Az 1. § (3) bekezdés k) pontját a 145/2010. (IV. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be.
