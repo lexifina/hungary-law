@@ -34,15 +34,15 @@ c) vizsgálati terv lényeges módosításával kapcsolatos szakkérdések,
 
 d) rendkívüli, az engedélyező által megjelölt soron kívüli eljárást megalapozó indok esetén az etikai bizottság elnökének döntése szerinti eljárások.
 
-(3)[^54] Cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy bevonásával tervezett klinikai vizsgálat esetében az etikai bizottság szakhatósági állásfoglalásának kialakítása során megvizsgálja, hogy az Eütv. 159. § (4) és (5) bekezdésében előírtak maradéktalanul megvalósulnak-e, azzal, hogy cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen, illetve teljesen korlátozott nagykorúak, valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:9. §-a szerint cselekvőképtelen nagykorúak esetében a kérdéses betegségnek és az érintett betegcsoportnak megfelelő szakvizsgával rendelkező, kiskorúakon végzett klinikai vizsgálat esetében pedig csecsemő- és gyermekgyógyász szakvizsgával rendelkező szakértőt, továbbá szükség esetén pedagógust vagy pszichiátert vesz igénybe.
+(3)[^55] Cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy bevonásával tervezett klinikai vizsgálat esetében az etikai bizottság szakhatósági állásfoglalásának kialakítása során megvizsgálja, hogy az Eütv. 159. § (4) és (5) bekezdésében előírtak maradéktalanul megvalósulnak-e, azzal, hogy cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen, illetve teljesen korlátozott nagykorúak, valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:9. §-a szerint cselekvőképtelen nagykorúak esetében a kérdéses betegségnek és az érintett betegcsoportnak megfelelő szakvizsgával rendelkező, kiskorúakon végzett klinikai vizsgálat esetében pedig csecsemő- és gyermekgyógyász szakvizsgával rendelkező szakértőt, továbbá szükség esetén pedagógust vagy pszichiátert vesz igénybe.
 
 (4) Az etikai bizottság szakhatósági állásfoglalásában nyilatkozik az (1)–(2) bekezdésben foglaltak alapján a klinikai vizsgálat szakmai-etikai megfelelőségéről, illetve a megfeleléshez szükséges további feltételekről.
 
 (5) Az etikai bizottság multicentrikus klinikai vizsgálat esetében szakhatósági állásfoglalásának kialakítása során figyelembe veszi az Európai Gazdasági Térségről szóló megállapodásban (a továbbiakban: EGT-megállapodás) részes valamely állam etikai bizottsága által a vizsgálatról már kiadott véleményt is, amennyiben a megbízó ennek teljes szövegét – szükség esetén magyar fordításban – rendelkezésre bocsátja.
 
-(6)[^55]
+(6)[^56]
 
 (7) Az engedélyező az etikai bizottság eljárásainak dokumentációs rendjét a Helyes Klinikai Gyakorlat (a továbbiakban: GCP) elvei alapján legalább évente egyszer minőségbiztosítási szempontból ellenőrzi.
 
-[^54]: A 24. § (3) bekezdése a 46/2014. (II. 26.) Korm. rendelet 9. § b) és c) pontja szerint módosított szöveg.
-[^55]: A 24. § (6) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés d) pontja hatályon kívül helyezte.
+[^55]: A 24. § (3) bekezdése a 46/2014. (II. 26.) Korm. rendelet 9. § b) és c) pontja szerint módosított szöveg.
+[^56]: A 24. § (6) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés d) pontja hatályon kívül helyezte.

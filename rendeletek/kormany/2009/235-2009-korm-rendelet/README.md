@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-235-20-
 | 2014-03-15 | 2009-235-20-22.11 | 46/2014. (II. 26.) Korm. rendelet |
 | 2015-03-01 | 2009-235-20-22.12 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2009-235-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-07-22 | 2009-235-20-22.14 | 192/2015. (VII. 21.) Korm. rendelet |
