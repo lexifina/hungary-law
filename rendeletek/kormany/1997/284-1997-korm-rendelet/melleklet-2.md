@@ -44,13 +44,13 @@
 
 | 3. | Gépjármű-vezetői, belvízi hajózási szolgálati és belvízi kedvtelési célú vízijármű-vezetői alkalmassági vizsgálat |  |
 
-|  |  | a) ha a 40. életévét még nem töltötte be: |  |
+|  |  | a) ha a 40. – gépjármű-vezetői alkalmassági vizsgálat esetén az 50. – életévét még nem töltötte be: |  |
 
 |  |  |  | aa) | első fokon | 7 200 Ft |
 
 |  |  |  | ab) | másodfokon | 10 800 Ft |
 
-|  |  | b) ha a 40. életévét betöltötte, de a 60. életévét még nem érte el: |  |
+|  |  | b) ha a 40. – gépjármű-vezetői alkalmassági vizsgálat esetén az 50. – életévét betöltötte, de a 60. életévét még nem érte el: |  |
 
 |  |  |  | ba) | első fokon | 4 800 Ft |
 
@@ -140,4 +140,4 @@
 
 | 16. | Járványügyi érdekből nem kötelező védőoltással történő immunizálás, kivéve a) a térítésmentes védőoltással történő immunizálást és b) – az a) pont hatálya alá nem tartozó körben is – a pneumococcus baktérium, a human papilloma vírus és az influenza megbetegedés elleni immunizálást | 2 000 Ft |
 
-[^23]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^23]: A 2. számú melléklet a 35/2013. (II. 14.) Korm. rendelet 2. §-ával megállapított, a 434/2013. (XI. 19.) Korm. rendelet 1. §-a, az 520/2013. (XII. 30.) Korm. rendelet 22. §-a, a 40/2014. (II. 24.) Korm. rendelet 20. §-a, a 192/2015. (VII. 21.) Korm. rendelet 17. §-a szerint módosított szöveg.
