@@ -24,7 +24,7 @@ b) az anyagnak a GyT. Mellékletébe történő felvételét, vagy
 
 c)[^80] az anyagnak az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletből történő törlését és az 1. melléklet D) jegyzékére történő áthelyezését.
 
-(8)[^81] Amennyiben valamely, az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben szereplő vegyületcsoporthoz tartozó anyag a GyT. Mellékletébe vagy az 1. melléklet más jegyzékére felvételre kerül, az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendeletben a vegyületcsoport mellett ezen anyag kivételként kerül feltüntetésre.
+(8)[^81]
 
 (9)[^82] Az OAC az értékeléshez bekéri az OGYÉI és az egészségügyi szakmai kollégium véleményét, valamint a Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ (a továbbiakban: Nemzeti Drog Fókuszpont), továbbá a szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló kormányrendelet szerint szakvélemény adására kizárólagosan kijelölt szervek és a rendőrség birtokában lévő, az adott szer kóros élvezetére utaló információkat és a KKB állásfoglalását.
 
@@ -36,6 +36,6 @@ c)[^80] az anyagnak az új pszichoaktív anyaggá minősített anyagokról vagy 
 [^78]: A 27. § (6) bekezdés nyitó szövegrésze a 367/2014. (XII. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^79]: A 27. § (7) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
 [^80]: A 27. § (7) bekezdés c) pontja az 520/2013. (XII. 30.) Korm. rendelet 90. §-ával megállapított, a 367/2014. (XII. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^81]: A 27. § (8) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^81]: A 27. § (8) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 53. § b) pontja hatályon kívül helyezte.
 [^82]: A 27. § (9) bekezdése a 30/2015. (II. 25.) Korm. rendelet 65. § h) pontja szerint módosított szöveg.
 [^83]: A 27. § (10) bekezdése a 367/2014. (XII. 30.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
