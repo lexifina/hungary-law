@@ -1,4 +1,4 @@
-17/B. §[^220] (1) A szakellátási kapacitások és ellátási területek tárgyában a konszolidációs törvény 7. § (2) bekezdése alapján hozott határozatokra hivatkozva az OTH-hoz 2012. július 15-éig benyújtott, a Tv. 14. § (8) bekezdése szerinti tartalékkapacitások terhére járóbeteg-szakellátási, illetve nappali ellátási kapacitások megállapítására irányuló kérelem elbírálása során a 4/B. §-nak a Módr6. által megállapított (2a) bekezdését kell alkalmazni, az (1), (2), (2b) és (3) bekezdését nem kell alkalmazni.
+17/B. §[^222] (1) A szakellátási kapacitások és ellátási területek tárgyában a konszolidációs törvény 7. § (2) bekezdése alapján hozott határozatokra hivatkozva az OTH-hoz 2012. július 15-éig benyújtott, a Tv. 14. § (8) bekezdése szerinti tartalékkapacitások terhére járóbeteg-szakellátási, illetve nappali ellátási kapacitások megállapítására irányuló kérelem elbírálása során a 4/B. §-nak a Módr6. által megállapított (2a) bekezdését kell alkalmazni, az (1), (2), (2b) és (3) bekezdését nem kell alkalmazni.
 
 (2) Az (1) bekezdés alapján annak az egészségügyi szolgáltatónak a fenntartója nyújthat be kérelmet, akinek a konszolidációs törvény 7. § (2) bekezdése alapján hozott határozat eredményeként legalább egy szakmában megszűnt a 2012. június 30-án érvényes finanszírozási szerződése alapján végzett aktív fekvőbeteg-szakellátása, és járóbeteg-szakellátási kapacitás megállapítására irányuló kérelem esetében a TVK kihasználtsági mutatója eléri a 100 százalékot, valamint az adott szakmában az egy órára jutó esetszám eléri az országos átlagot a 2011. finanszírozási év adatai alapján.
 
@@ -18,4 +18,4 @@ mennyiségű kapacitást állapíthat meg azzal, hogy az átváltáskor a 8/A. �
 
 (7) Az OTH az (1)–(5) bekezdés alapján hozott határozatokat megküldi az OEP részére. Az (1)–(5) bekezdés szerinti eljárásban megállapított kapacitásokon végzett ellátások finanszírozására a miniszteri tartalékban rendelkezésre álló összeg terhére történő kifizetésekhez való hozzájárulás érdekében az OEP megkeresi az egészségbiztosításért felelős minisztert.
 
-[^220]: A 17/B. §-t a 137/2012. (VI. 29.) Korm. rendelet 43. §-a iktatta be.
+[^222]: A 17/B. §-t a 137/2012. (VI. 29.) Korm. rendelet 43. §-a iktatta be.

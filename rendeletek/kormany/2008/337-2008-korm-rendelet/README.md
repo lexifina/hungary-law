@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-337-20-
 | 2014-09-05 | 2008-337-20-22.36 | 125/2013. (IV. 26.) Korm. rendelet |
 | 2015-01-01 | 2008-337-20-22.37 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2015-03-01 | 2008-337-20-22.38 | 30/2015. (II. 25.) Korm. rendelet |
+| 2015-07-22 | 2008-337-20-22.39 | 192/2015. (VII. 21.) Korm. rendelet |

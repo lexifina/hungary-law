@@ -1,6 +1,6 @@
-## Kapacitások visszavonása[^194]
+## Kapacitások visszavonása[^196]
 
-15/B. §[^195] (1) Az OTH a következő szempontokat veszi figyelembe a Tv. 11/B. § (3) bekezdésében meghatározott döntéshez:
+15/B. §[^197] (1) Az OTH a következő szempontokat veszi figyelembe a Tv. 11/B. § (3) bekezdésében meghatározott döntéshez:
 
 a) a befogadott kapacitás révén a szolgáltatáshoz való hozzáférés lehetősége – az ellátási terület megállapítását követően – nem változik vagy javul,
 
@@ -20,5 +20,5 @@ c) a befogadott kapacitást végző szolgáltató által nyújtott szakmák kör
 
 (7) Ha a Tv. 11/B. § (1) vagy (3) bekezdése alapján hozott határozat olyan kapacitás visszavonásáról rendelkezik, amelyhez kapcsolódó ellátás elszámolására az egészségügyért felelős miniszter rendeletében megnevezett egészségügyi szolgáltatók jogosultak, a finanszírozási szerződés (6) bekezdés szerinti módosulását, illetve megszűnését követően végzett ellátások elszámolására az érintett szolgáltató nem jogosult.
 
-[^194]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^195]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^196]: A 15/B. §-t megelőző alcímet a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^197]: A 15/B. §-t a 185/2011. (IX. 9.) Korm. rendelet 9. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.

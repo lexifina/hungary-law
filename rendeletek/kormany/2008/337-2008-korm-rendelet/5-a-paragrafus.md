@@ -58,6 +58,8 @@ c) az egynapos ellátások
 
 (5f)[^88] A HIV fertőzött betegek gondozását a jogszabályban nevesített egészségügyi szolgáltatók ellátási terület nélkül végzik.
 
+(6)[^89] A CT diagnosztika és az MRI diagnosztika szakmában az ellátási területet nem kell progresszivitási szintenként meghatározni.
+
 [^75]: Az 5/A. §-t megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
 [^76]: Az 5/A. §-t a 363/2010. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
 [^77]: Az 5/A. § (1a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 24. § (1) bekezdése iktatta be.
@@ -72,3 +74,4 @@ c) az egynapos ellátások
 [^86]: Az 5/A. § (5d) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be.
 [^87]: Az 5/A. § (5e) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 6. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
 [^88]: Az 5/A. § (5f) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^89]: Az 5/A. § (6) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 40. §-a iktatta be.

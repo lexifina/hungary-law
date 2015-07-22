@@ -1,4 +1,4 @@
-15. §[^191] (1) A TBB az üléséig beérkezett hiánytalan kérelmek alapján – a (2)–(5) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
+15. §[^193] (1) A TBB az üléséig beérkezett hiánytalan kérelmek alapján – a (2)–(5) bekezdésben foglaltak figyelembevételével – javaslatot (a továbbiakban: befogadási javaslat) tesz az egészségügyért felelős miniszternek a többletkapacitás befogadására.
 
 (2) A TBB a befogadási javaslatának elkészítése során
 
@@ -32,7 +32,7 @@ d) az ellátott terület népegészségügyi mutatóihoz szakmai összetételéb
 
 e) segíti az egészségügyi rendszerhez való hozzáférési esélyek kiegyenlítését.
 
-(3a)[^192] A befogadási javaslat elkészítése során nem részesíthető előnyben az a 12. § (1) bekezdése szerinti többletkapacitás igény a fejlesztés fizikai megvalósításától számított 3 éven belül, amely esetében a fejlesztést megelőzően az egészségügyi szolgáltató vagy fenntartója nyilatkozott arról, hogy nincsen többletkapacitásra vonatkozó igénye.
+(3a)[^194] A befogadási javaslat elkészítése során nem részesíthető előnyben az a 12. § (1) bekezdése szerinti többletkapacitás igény a fejlesztés fizikai megvalósításától számított 3 éven belül, amely esetében a fejlesztést megelőzően az egészségügyi szolgáltató vagy fenntartója nyilatkozott arról, hogy nincsen többletkapacitásra vonatkozó igénye.
 
 (4) A befogadási javaslat elkészítése során figyelembe kell venni, hogy a befogadásra kerülő kapacitás várható éves teljesítményének finanszírozott összege nem haladhatja meg a központi költségvetésről szóló törvényben erre a célra rendelkezésre álló források összegét.
 
@@ -50,5 +50,5 @@ d) a finanszírozás javasolt kezdési időpontját.
 
 (7) A TBB a befogadási javaslatában csak azon szolgáltatók rehabilitációs osztályain nyújtott ellátások esetében javasolhatja a szorzó emelkedését, illetve befogadását, amelyek – az OTH állásfoglalása szerint – megfelelnek a jogszabályban meghatározott szakmai szempontoknak, vagy ennek hiányában a szakmai minimumfeltételekről szóló rendeletben meghatározott feltételeknek.
 
-[^191]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
-[^192]: A 15. § (3a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 70. §-a iktatta be.
+[^193]: A 15. § az 520/2013. (XII. 30.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^194]: A 15. § (3a) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 70. §-a iktatta be.
