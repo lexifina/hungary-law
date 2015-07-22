@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-131-00-00
 | --- | --- | --- |
 | 2015-07-21 | 2015. évi CXXXI. törvény | 2015-131-00-00.0 (közlönyállapot) |
 | 2015-07-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-131-00-00.1 |
+| 2015-07-22 | 2010. évi CXXX. törvény | 2015-131-00-00.2 |
