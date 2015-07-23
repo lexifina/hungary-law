@@ -1,0 +1,370 @@
+# A Kormány 204/2015. (VII. 23.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 108. szám, 2015. július 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/564a587eb586d5dc9b9c03cffe9a6838e7806332/dokumentumok/56e6fc7a948d50c13715e95880d65d3d8709a39a/letoltes)
+
+---
+
+A Kormány 204/2015. (VII. 23.) Korm. rendelete
+a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet, valamint
+az egyes migrációs, illetve menekültügyi tárgyú és más kormányrendeletek jogharmonizációs célú
+módosításáról
+A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 12. pontjában,
+a 2. alcím tekintetében a közbeszerzésekről szóló 2011. évi CVIII. törvény 182. § (1) bekezdésének 13. pontjában,
+a 3. alcím tekintetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. §
+(1) bekezdés a), g) és m) pontjában,
+a 4. alcím tekintetében a menedékjogról szóló 2007. évi LXXX. törvény 93. § (1) bekezdésében,
+az 5. alcím tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés c) pontjában, az államhatárról szóló
+2007. évi LXXXIX. törvény 16. § (4) bekezdés e) pontjában,
+a 6. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 40. §
+(4) bekezdésében,
+
+a 7. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 7. § (4) és
+(5) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó
+építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet
+módosítása
+1. §
+A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági
+engedélyezési eljárások szabályairól szóló 40/2002. (III. 21). Korm. rendelet 2. § 1. pontja helyébe a következő
+rendelkezés lép:
+(E rendelet alkalmazásában:)
+„1. Honvédelmi és katonai célú építmény, építményrész, építményegyüttes, ideértve az ezekhez az ingatlanokhoz
+közvetlenül tartozó nyomvonal jellegű építményeket is (a továbbiakban együtt: építmény): az az építmény, amelynek
+sajátos honvédelmi vagy katonai rendeltetésére tekintettel – beleértve a nemzetközi katonai szerződésekből eredő
+kötelezettséget is – honvédségi szolgálati viszonyon kívüli használata korlátozott, kivéve, ha az kizárólag sport-,
+üdülés-, lakás-, kulturális, művelődési, oktatási, igazgatási célra szolgál, vagy abban szociális, illetve egészségügyi
+tevékenységet végeznek, valamint Magyarország területének a személyek határátlépésére irányadó szabályok
+közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet 2. cikk 2. pontja szerinti külső határnak megfelelő
+határvonaltól, illetve a határjeltől számított 10 méteres sávjában, az államhatárról szóló 2007. évi LXXXIX. törvény
+5. § (1) bekezdésében foglalt célok megvalósítása érdekében létesülő építmény.”
+2. A védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti
+célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos
+szabályokról szóló 228/2004. (VII. 30.) Korm. rendelet módosítása
+2. § (1) A védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt
+áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokról szóló 228/2004. (VII. 30.)
+Korm. rendelet 4. § l) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„l) katonai célú építési beruházás: a HM vagyonkezelésében lévő, illetve a HM, a HM közvetlen alárendeltségébe,
+közvetlen és fenntartói irányítása, valamint felügyelete alá tartozó szervezetek és a Magyar Honvédség katonai
+szervezetei használatában lévő épületen, építményen, építményrészen, építményegyüttesen és ingatlanon
+– ideértve az ingatlanokhoz közvetlenül tartozó nyomvonal jellegű építményeket –, valamint Magyarország
+területének a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK
+rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 10 méteres
+sávjában, az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében foglalt célok megvalósítása
+érdekében megvalósuló építési beruházás.”
+(2) A védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt
+áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokról szóló 228/2004. (VII. 30.)
+Korm. rendelet 9. § (1) bekezdésében a „Közbeszerzési tv.-ben” szövegrész helyébe a „közbeszerzésekről szóló
+2011. évi CVIII. törvényben (a továbbiakban: Közbeszerzési tv.)”szöveg lép.
+3. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet módosítása
+3. §
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról
+szóló 114/2007. (V. 24.) Korm. rendelet (a továbbiakban: Harmvhr.) 1. §-a a következő g) ponttal egészül ki:
+[A Tv.-ben szabályozott közigazgatási hatósági eljárások (a továbbiakban: idegenrendészeti eljárások) során a következő
+hatóságok (a továbbiakban: idegenrendészeti hatóságok) járnak el:]
+„g) az V. fejezet alkalmazása tekintetében az általa elrendelt kiutasítás, önkéntes távozás, kitoloncolás, valamint
+beutazási és tartózkodási tilalom kapcsán a menekültügyi hatóság.”
+
+4. §
+A Harmvhr. 114. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+„(2a) A Tv. 43. § (2) bekezdés b) pontja alapján a menekültügyi hatóság a menedékjogról szóló 2007. évi
+LXXX. törvényben meghatározott esetekben jogosult kiutasítás elrendelésére.
+(2b) A menekültügyi hatóság által elrendelt kiutasítás végrehajtására a harmadik országbeli állampolgár
+tartózkodásának helye szerint illetékes regionális igazgatóság intézkedik.”
+5. §
+A Harmvhr. 121/A. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
+„(3) Ha a megkeresett tagállam felelőssége az egy harmadik országbeli állampolgár vagy egy hontalan személy
+által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam
+meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU
+európai parlamenti és tanácsi rendelet (a továbbiakban: Dublin III. rendelet) alapján beáll, a menekültügyi hatóság
+a kérelmező át-vagy visszaadásáról rendelkező végzést (a továbbiakban: átadásáról rendelkező végzés) a felelősség
+beállásának napjától vagy a Dublin III. rendelet 22. cikk (1) és (6) bekezdésében, 25. cikk (1) bekezdésében, illetve
+28. cikk (3) bekezdésében foglalt határidők lejártát követő nyolc napon belül köteles meghozni.
+(4) A kérelmező átadásáról rendelkező végzés a Dublin III. rendelet 26. cikk (1) és (2) bekezdésében, a 27. cikk (1) és
+(2) bekezdésében, valamint a 29. cikk (1) és (2) bekezdésében foglaltakat tartalmazza.”
+6. §
+A Harmvhr. 123. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Tv. 50. § (4) bekezdésében, a 61. § (4) bekezdés e) pontjában, valamint a 62. § (4) bekezdésben meghatározott
+megtérítési kötelezettséget a kiutasítást végrehajtó hatóság végzésben rendeli el. A kötelezettséget az elrendeléstől
+számított három hónapon belül kell teljesíteni. A teljesítési határidő eredménytelen eltelte esetén a Tv. 50. §
+(4) bekezdés b)–d) pontjában felsorolt személyek és szervezetek vonatkozásában a közigazgatási végrehajtás
+szabályait kell alkalmazni.”
+7. §
+A Harmvhr. 124. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az eljáró idegenrendészeti hatóság a kiutasítás elrendelésére irányuló eljárásban vagy a kiutasítás végrehajtása
+során a non-refoulement követelmény fennállásának vizsgálata érdekében köteles beszerezni a menekültügyi
+hatóság véleményét, amely a megkeresést soron kívül teljesíti. A menekültügyi hatóság véleményében foglaltaktól
+az eljáró idegenrendészeti hatóság nem térhet el. Nem kell vizsgálni a Tv. 51. § (1) bekezdésében foglalt tilalom
+fennállását, ha a visszairányítás EGT-tagállam területére történik. A menekültügyi hatóság a menekültügyi eljárása
+során a kiutasítás elrendelése előtt a non-refoulement követelmény fennállását a menekültügyi eljárásban vizsgálja.”
+8. §
+A Harmvhr. 126. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Idegenrendészeti őrizetet a kiutasítást elrendelő vagy a menekültügyi hatóság által elrendelt kiutasítást
+végrehajtó regionális igazgatóság vagy a Rendőrség rendelhet el.”
+9. §
+A Harmvhr. 131. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Közösségi szállás az idegenrendészeti eljárás alatt álló külföldiek, a Tv. 29. § (1) bekezdés a)–c) pontja alapján
+humanitárius célú tartózkodási engedéllyel rendelkező, illetve az emberkereskedelem áldozatává vált harmadik
+országbeli állampolgárok elhelyezésére szolgáló, a Hivatal által fenntartott szálláshely.”
+10. §
+A Harmvhr. 136. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A közösségi szálláson nyújtott szolgáltatások költségét – a humanitárius célú tartózkodási engedéllyel
+rendelkező, illetve a menekültügyi hatóság vagy bíróság által nemzetközi vagy kiegészítő védelemben részesített
+harmadik országbeli állampolgár kivételével – a szálláshely szerint illetékes regionális igazgatóság a szállás
+elhagyásakor költségjegyzékben állapítja meg. Az összeg számításának módját külön jogszabály határozza meg.”
+11. §
+A Harmvhr. 142. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Visszairányítás végrehajtása esetén a kitoloncolást a Rendőrség, kiutasítás végrehajtása esetén
+az idegenrendészeti kiutasítást elrendelő idegenrendészeti hatóság vagy a bíróság által elrendelt kiutasítást
+végrehajtó regionális igazgatóság rendeli el. A Tv. 65. § (2) bekezdésében meghatározott esetben a menekültügyi
+hatóság által elrendelt kiutasítás végrehajtása esetén a kitoloncolást a harmadik országbeli állampolgár
+tartózkodásának helye szerint illetékes regionális igazgatóság rendeli el.”
+
+12. §
+A Harmvhr. 146. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Tv. 67. § (4) és (7) bekezdésének alkalmazása során a rendőr azt a harmadik országbeli állampolgárt,
+a) aki az ellenőrzés során magát lejárt vagy érvénytelen tartózkodásra jogosító engedéllyel igazolta vagy
+az ellenőrzés során magyarországi tartózkodásának jogszerűségét nem tudta igazolni,
+aa) ha vele szemben a 114. § (2) bekezdése alapján a Rendőrség rendelhet el idegenrendészeti kiutasítást,
+a Rendőrség ellenőrzés helye szerint illetékes helyi szervéhez,
+ab) egyéb esetben az ellenőrzés helye szerint illetékes regionális igazgatósághoz;
+b) aki a személyazonosságát nem tudta igazolni, a Rendőrség ellenőrzés helye szerint illetékes helyi szervéhez;
+c) aki az ellenőrzés során a nemzetközi védelem iránti kérelem előterjesztésére vonatkozó szándékát
+az idegenrendészeti hatóság előtt kinyilvánítja a menekültügyi hatóság eljárásának megkezdése érdekében
+az ellenőrzés helye szerint illetékes menekültügyi hatósághoz – ha a harmadik országbeli állampolgárral szemben
+büntetőeljárás lefolytatásának nincs helye –
+előállítja, illetve vele szemben visszatartás intézkedést alkalmazhat.”
+13. §
+A Harmvhr. 113. § (2)–(4) bekezdésében, valamint a 117. § (2) bekezdésében az „idegenrendészeti hatóság”
+szövegrész helyébe az„idegenrendészeti vagy menekültügyi hatóság”szöveg lép.
+14. §
+A Harmvhr. 183. § (2) bekezdése a következő l) ponttal egészül ki:
+(E rendelet)
+„l) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott
+nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és
+eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet,
+valamint az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem
+megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról
+szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1560/2003/EK rendelet
+módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet”
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
+4. A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.)
+Korm. rendelet módosítása
+15. §
+A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról rendelkező 301/2007. (XI. 9.) Korm. rendelet
+(a továbbiakban: Metvhr.) 7/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A menekültügyi hatóság vagy miniszter menekültkénti elismerésről szóló döntést csak akkor hozhat, ha
+a szakhatóság a külföldi menekültkénti elismerésével szemben kifogást nem emel.”
+16. §
+A Metvhr. 36/D. § (1) bekezdésének a) pontja helyébe a következő rendelkezés lép:
+(Az őrizet olyan épületben vagy épületrészben létesíthető, ahol)
+„a) az elismerését kérő elhelyezésére szolgáló helyiségekben fejenként lehetőség szerint legalább 15 m3 légtér
+és 5 m2 mozgástér, a házastársak és a kiskorú gyermekkel rendelkező családok részére különálló – a családtagok
+számára is figyelemmel – legalább 8 m2 mozgásteret magában foglaló lakótér,”
+(biztosítható.)
+17. § (1) A Metvhr. 64. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Ha a külföldi elismerés iránti kérelem benyújtására irányuló szándékát idegenrendészeti eljárás során
+nyilvánítja ki, nyilatkozatát az eljáró hatóság jegyzőkönyvbe foglalja, és – a jegyzőkönyv, valamint az általa
+rögzített ujjnyomat-lap egyidejű megküldésével – haladéktalanul értesíti a menekültügyi hatóságot, egyidejűleg
+a menekültügyi hatóság tájékoztatását kéri arra vonatkozóan, hogy az elismerés iránti kérelmének benyújtása
+esetén a külföldi elismerését kérőként fog-e területen maradási joggal rendelkezni.”
+(2) A Metvhr. 64. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A menekültügyi hatóság a (2) bekezdésben foglalt tájékoztatás-kérést haladéktalanul, de legkésőbb 24 órán
+belül teljesíti.”
+
+(3) A Metvhr. 64. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A menekültügyi hatóság az értesítést követően haladéktalanul, de legkésőbb 3 napon belül gondoskodik
+a külföldi elismerés iránti kérelmének rögzítéséről, majd a kérelem rögzítését követően gondoskodik a külföldi
+elhelyezésére szolgáló befogadó állomásra szállításáról, kivéve, ha a külföldi
+a) ügyében a repülőtéri eljárásra vonatkozó szabályok irányadók,
+b) személyi szabadságot korlátozó kényszerintézkedés, intézkedés, büntetés, vagy idegenrendészeti eljárásban
+korábban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll, vagy
+c) jogszerűen tartózkodik Magyarország területén és nem kéri befogadó állomáson történő elhelyezését.”
+18. §
+A Metvhr. a következő 64/A. §-sal egészül ki:
+„64/A. § (1) A menekültügyi hatóság az elismerés iránti kérelem rögzítését követő munkanapon megkeresi
+a szakhatóságot.
+(2) A megkeresésben a menekültügyi hatóság a szakhatóság részére továbbítja a kérelmező menekültügyi
+nyilvántartásban kezelt adatait. A szakhatóság megkeresésére a menekültügyi hatóság a kérelemhez csatolt
+okiratokba betekintést biztosít.
+(3) A szakhatóság a kérelmezőt meghallgathatja.
+(4) Ha a szakhatósági állásfoglalás megküldését követően a külföldire vonatkozóan olyan adat merül fel, amely
+a szakhatósági állásfoglalás visszavonását indokolja, a szakhatóság az új szakhatósági állásfoglalását a menekültügyi
+hatóságnak haladéktalanul megküldi.”
+19. §
+A Metvhr. 66. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A menekültügyi eljárás során az elismerését kérő részére kézbesítendő iratokat egyidejűleg törvényes
+képviselője, gyermekvédelmi gyámja, ügygondnoka vagy meghatalmazottja részére is kézbesíteni kell.”
+20. §
+A Metvhr. 72. § (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(2) A menekültügyi hatóság az országinformációs központ jelentésének beszerzésétől eltekinthet
+a) ha a kérelem elfogadhatatlan, vagy a Tv. 51. § (7) bekezdés a)–d) pontjai alapján gyorsított eljárás lefolytatásának
+van helye, továbbá
+b) ha az elismerés visszavonására irányuló eljárás a jogállásról történő önkéntes lemondáson alapul.”
+21. §
+A Metvhr. 73. §-a helyébe a következő rendelkezések lépnek:
+„73. § Az elismerését kérő menekültként, oltalmazottként vagy menedékesként történő elismerése esetén a Tv. 42. §
+(1) bekezdésében meghatározott kapcsolatfelvétel tilalma az elismerés visszavonásáról rendelkező jogorvoslattal
+tovább nem támadható döntés meghozataláig áll fenn.”
+22. §
+A Metvhr. 79. §-a helyébe a következő rendelkezés lép:
+„79. § A menekültügyi hatóság a kiutasítás, kitoloncolás valamint a beutazási és tartózkodási tilalom elrendelése
+során a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet szabályainak megfelelő alkalmazásával jár el.”
+23. §
+A Metvhr. 82. §-a helyébe a következő rendelkezés lép:
+„82. § (1) A menekültügyi hatóság a kérelmezőt – a Tv. 43. §-ában, valamint e rendelet 74–77. §-ában foglaltak
+szerint – személyesen meghallgatja.
+(2) A személyes meghallgatást a menekültkénti vagy oltalmazottkénti elismerés iránti kérelem (e fejezetben
+a továbbiakban: kérelem) benyújtását követően haladéktalanul le kell folytatni.”
+24. § (1) A Metvhr. 83. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Tv. 49. § (2) bekezdése szerinti eljárás (a továbbiakban: dublini eljárás) magában foglalja az egy harmadik
+országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem
+iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok
+megállapításáról szóló 604/2013/EU európai parlamenti és tanácsi rendelet, valamint az egy harmadik ország
+állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős
+tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi
+rendelet részletes alkalmazási szabályainak megállapításáról szóló 1560/2003/EK bizottsági rendelet módosításáról
+
+szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendeletet (a továbbiakban együtt: dublini
+rendeletek) alkalmazó állam (a továbbiakban: tagállam) hatóságának megkeresését, a más tagállam hatóságával
+történő egyeztetést, az átadás-átvételi eljárás lefolytatását, valamint a kérelmező átadását, illetve visszaadását
+(a továbbiakban együtt: átadás).”
+(2) A Metvhr. 83. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+„(3) Ha a megkeresett tagállam felelőssége az egy harmadik országbeli állampolgár vagy egy hontalan személy
+által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam
+meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU
+európai parlamenti és tanácsi rendelet (a továbbiakban: Dublin III. rendelet) alapján beáll, a menekültügyi hatóság
+a kérelmező át-vagy visszaadásáról rendelkező végzést (a továbbiakban: átadásáról rendelkező végzés) rendelkező
+végzést a felelősség beállásának napjától, vagy a Dublin III. rendelet 22. cikk (1) és (6) bekezdésében, 25. cikk
+(1) bekezdésében, illetve 28. cikk (3) bekezdésében foglalt határidők lejártát követő nyolc napon belül köteles
+meghozni.
+(4) A kérelmező átadásáról rendelkező végzés a Dublin III. rendelet 26. cikk (1) és (2) bekezdésében, 27. cikk (1) és
+(2) bekezdésében, valamint 29. cikk (1) és (2) bekezdésében foglaltakat tartalmazza.”
+25. §
+A Metvhr. 96. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Dublini eljárás lefolytatásának – a menekültügyi eljárás megszüntetése eseteinek kivételével – csak
+a menekültügyi hatóság menekültügyi eljárást befejező döntésének meghozataláig van helye.”
+26. § (1) A Metvhr. 117. § (1) bekezdése az alábbi m) és n) ponttal egészül ki:
+(E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel együtt – a következő közösségi jogi aktusoknak történő
+megfelelést szolgálja:)
+„m) a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló 2013. június 26-i
+2013/33/EU európai parlamenti és tanácsi irányelv;
+n) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban
+használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK parlamenti és tanácsi irányelvnek.”
+(2) A Metvhr. 117. § (2) bekezdése az alábbi d) és e) ponttal egészül ki:
+(E rendelet – a menedékjogról szóló 2007. évi LXXX. törvénnyel együtt – a következő közösségi jogi aktusok
+végrehajtásához szükséges rendelkezéseket állapít meg:)
+„d) az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem
+megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításról
+szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1561/2003/EK rendelet
+módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet;
+e) az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott
+nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és
+eljárási szabályok megállapításáról szóló 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet.”
+27. § (1) A Metvhr. 74. § (1) bekezdésében az „ügygondnoka” szövegrész helyébe az „ügygondnoka vagy gyermekvédelmi
+gyámja”szöveg lép.
+(2) A Metvhr. 74. § (2) bekezdésében, valamint a 76. § (2) bekezdésében az „ügygondnok” szövegrész helybe
+az„ügygondnok vagy gyermekvédelmi gyám”szöveg lép.
+(3) A Metvhr. 76. § (1) bekezdésében az „ügygondnokát” szövegrész helyébe az „ügygondnokát vagy gyermekvédelmi
+gyámját”szöveg lép.
+(4) A Metvhr. 77. § (1) bekezdésében a„43. § (2) bekezdés”szövegrész helybe a„43. § (2) bekezdés a) pontja”szöveg lép.
+28. §
+Hatályát veszti a Metvhr.
+a) A VII. fejezet„Az előzetes vizsgálati eljárás”és„A részletes vizsgálati eljárás”alcímei,
+b) 87–89. §-ai,
+c) 96. § (1) bekezdése.
+
+5. A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.)
+Korm. rendelet módosítása
+29. §
+A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet
+a következő 7. §-sal egészül ki:
+„7. § A Kormány az államhatárról szóló 2007. évi LXXXIX. törvény szerinti közérdekű használati jog gyakorlójaként
+az Országos Rendőr-főkapitányságot jelöli ki azzal, hogy az államhatárról szóló 2007. évi LXXXIX. törvény 5. §
+(1) bekezdése szerinti feladatok ellátása érdekében a feladat- és hatáskörrel rendelkező szervek és személyek
+az ingatlant használhassák.”
+6. A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet
+módosítása
+30. §
+A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 3. § (1) bekezdése
+az alábbi c) és d) ponttal egészül ki:
+(Támogatás nyújtható)
+„c) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig annak, aki menekültként,
+oltalmazottként vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+d) annak a harmadik országbeli állampolgárnak, akinek az idegenrendészeti hatóság a harmadik országbeli
+állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pont alapján
+kijelölt helyen való tartózkodását rendelte el”
+(legfeljebb 4 hónap időtartamra szóló, határozott idejű közfoglalkoztatási jogviszony keretében, napi 4 órás
+munkaidőben történő foglalkoztatására.)
+31. §
+A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 4. § (1) bekezdése
+az alábbi c) és d) ponttal egészül ki:
+(Támogatás nyújtható)
+„c) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig annak, aki menekültként,
+oltalmazottként vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+d) annak a harmadik országbeli állampolgárnak, akinek az idegenrendészeti hatóság a harmadik országbeli
+állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pont alapján
+kijelölt helyen való tartózkodását rendelte el”
+(határozott idejű közfoglalkoztatási jogviszony keretében, napi 6–8 órás munkaidőben történő foglalkoztatására.)
+32. §
+A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 6. § (1) bekezdése
+helyébe az alábbi rendelkezés lép:
+„(1) Támogatás nyújtható az Országgyűlés vagy a Kormány által meghatározott cél elérésére irányuló program
+keretében történő,
+a) az álláskereső, vagy
+b) a foglalkoztatást helyettesítő támogatásra jogosult személy, vagy
+c) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig annak, aki menekültként,
+oltalmazottként, vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+d) annak a harmadik országbeli állampolgárnak, akinek az idegenrendészeti hatóság a harmadik országbeli
+állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pont alapján
+kijelölt helyen való tartózkodását rendelte el
+határozott idejű közfoglalkoztatási jogviszony keretében, napi 6–8 órás munkaidőben történő foglalkoztatására.”
+
+7. A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont
+kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli
+mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont
+kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon
+engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi
+foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.)
+Korm. rendelet módosítása
+33. §
+A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján
+történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal
+munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint
+a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi
+foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet 15. §
+(1) bekezdése a következő 25. ponttal egészül ki:
+(A harmadik országbeli állampolgár Magyarország területén foglalkoztatásra irányuló jogviszony keretében történő
+foglalkoztatásához nincs szükség engedélyre)
+„25. a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló
+2011. évi CVI. törvény 1. § (4) bekezdés b) pontja alapján közfoglalkoztatottként foglalkoztatható természetes
+személy közfoglalkoztatási jogviszony keretében történő munkavégzéséhez.”
+8. Záró rendelkezések
+34. §
+Ez a rendelet 2015. augusztus 1-jén lép hatályba.
+35. § (1) Ez a rendelet
+a) a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló, 2013. június 26-i
+2013/32/EU európai parlamenti és tanácsi irányelvnek,
+b) a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló, 2013. június
+26-i 2013/33/EU európai parlamenti és tanácsi irányelvnek,
+c) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való
+elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott
+védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és
+tanácsi irányelvnek, valamint
+d) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban
+használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és
+tanácsi irányelvnek
+való megfelelést szolgálja.
+(2) Ez a rendelet az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében
+benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó
+feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi
+rendelet, valamint egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog
+iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok
+megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló
+1560/2003/EK rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
