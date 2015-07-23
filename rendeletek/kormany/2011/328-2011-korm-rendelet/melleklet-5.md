@@ -52,7 +52,7 @@
 
 | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-5. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^14]
+5. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^24]
 
 JÖVEDELEMNYILATKOZAT A SZEMÉLYI TÉRÍTÉSI DÍJ MEGÁLLAPÍTÁSÁHOZ
 
@@ -184,4 +184,4 @@ IV. Egyebek
 
 2. A cselekvőképességet teljesen korlátozó gondnokság alatt állók esetében a gondnok aláírása, a cselekvőképességet részlegesen korlátozó gondnokság alatt állók esetében a gondnok és a gondnokolt együttes aláírása szükséges.
 
-[^14]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a, a 70/2015. (III. 30.) Korm. rendelet 185. §-a szerint módosított szöveg.
+[^24]: Az 5. melléklet a 98/2013. (III. 29.) Korm. rendelet 29. § b) pontja, a 197/2013. (VI. 13.) Korm. rendelet 4. §-a, a 69/2014. (III. 13.) Korm. rendelet 15. § b) és c) pontja, a 364/2014. (XII. 30.) Korm. rendelet 131. §-a, a 24/2015. (II. 20.) Korm. rendelet 41. §-a, a 70/2015. (III. 30.) Korm. rendelet 185. §-a szerint módosított szöveg.
