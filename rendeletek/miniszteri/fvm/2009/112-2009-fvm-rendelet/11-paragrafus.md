@@ -14,7 +14,7 @@ d) október 1–31.
 
 ## között lehet postai úton benyújtani a megvalósítás helye szerinti illetékes MVH kirendeltséghez, az MVH által a honlapján közzétett formanyomtatványon.
 
-(1a)[^54] A kifizetési kérelmeket a 2015. évben az (1) bekezdésben foglalt benyújtási időszakoktól eltérően kizárólag január 1. és 31., április 1. és 30., valamint július 1. és 31. között lehet benyújtani, az (1) bekezdés szerinti módon.
+(1a)[^54] A kifizetési kérelmeket a 2015. évben az (1) bekezdésben foglalt benyújtási időszakoktól eltérően kizárólag január 1. és 31., április 1. és 30., valamint július 1. és augusztus 31. között lehet benyújtani, az (1) bekezdés szerinti módon.
 
 (2)[^55] A kifizetési kérelemnek tartalmaznia kell az alábbiakat:
 
@@ -51,7 +51,7 @@ c)[^58] a kifizetési kérelem alapjául szolgáló időszakra vonatkozóan a 8.
 (5) Működési támogatás igénybevételére irányuló kifizetési kérelmet a 3. § (1) bekezdés a)–c) pontjaiban foglaltakra irányuló fejlesztés utolsó kifizetési kérelmének benyújtási időpontjától kezdődően felmerült kiadásokra lehet benyújtani.
 
 [^53]: A 11. § (1) bekezdése a 137/2012. (XII. 22.) VM rendelet 16. §-ával megállapított szöveg.
-[^54]: A 11. § (1a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 12. §-a iktatta be, szövege a 28/2015. (VI. 9.) MvM rendelet 25. § b) pontja szerint módosított szöveg.
+[^54]: A 11. § (1a) bekezdését a 12/2014. (XII. 30.) MvM rendelet 12. §-a iktatta be, szövege a 34/2015. (VII. 22.) MvM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^55]: A 11. § (2) bekezdése a 84/2012. (VIII. 2.) VM rendelet 6. §-ával megállapított szöveg.
 [^56]: A 11. § (3) bekezdése a 84/2012. (VIII. 2.) VM rendelet 6. §-ával megállapított szöveg.
 [^57]: A 11. § (3) bekezdés b) pontja a 126/2012. (XII. 12.) VM rendelet 4. § (3) bekezdésével megállapított szöveg.
