@@ -182,6 +182,6 @@
 
 | 89. | 1913 | Teleszkópos rakodók |
 
-8. melléklet a 26/2015. (V. 6.) MvM rendelethez[^14]
+8. melléklet a 26/2015. (V. 6.) MvM rendelethez[^16]
 
-[^14]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
