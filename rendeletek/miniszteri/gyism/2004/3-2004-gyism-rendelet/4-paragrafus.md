@@ -4,4 +4,6 @@ a) a képviselő-testület határozatát a megterhelésről, az adásvételről,
 
 b) a beruházási program megvalósításának pénzügyi fedezetét megalapozó egyes források rendelkezésre bocsátását igazoló ígérvényeket;
 
-c) a külön jogszabály szerinti egyéb dokumentációt.
+c)[^12]
+
+[^12]: A 4. § c) pontját a 37/2015. (VII. 15.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.

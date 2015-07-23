@@ -1,1 +1,0 @@
-14. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba, és ezzel egyidejűleg hatályát veszti az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény szerinti méltányossági hozzájárulás eljárási szabályairól szóló 2/2001. (III. 14.) ISM rendelet.
