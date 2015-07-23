@@ -52,6 +52,6 @@
 
 ## (Pénzügyi intézmény neve)
 
-5a. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^10]
+5a. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^14]
 
-[^10]: Az 5a. mellékletet a 16/2015. (VI. 4.) MNB rendelet 2. §-a iktatta be.
+[^14]: Az 5a. mellékletet a 16/2015. (VI. 4.) MNB rendelet 2. §-a iktatta be.

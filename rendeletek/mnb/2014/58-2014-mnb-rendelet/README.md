@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-58-20-2
 | 2015-02-01 | 2014-58-20-2C.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-02-21 | 2014-58-20-2C.3 | 3/2015. (II. 20.) MNB rendelet |
 | 2015-06-07 | 2014-58-20-2C.4 | 16/2015. (VI. 4.) MNB rendelet |
+| 2015-07-23 | 2014-58-20-2C.5 | 22/2015. (VII. 20.) MNB rendelet |

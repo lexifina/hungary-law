@@ -28,7 +28,7 @@
 
 ## *megfelelő feltüntetendő, a többi törlendő
 
-8. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^11]
+8. melléklet az 58/2014. (XII. 17.) MNB rendelethez[^15]
 
 ## A 8. § (1) bekezdés szerinti tájékoztató a Pénzügyi Békéltető Testület előtti eljárás és a döntés elleni jogorvoslat szabályairól
 
@@ -60,4 +60,4 @@ A Pénzügyi Békéltető Testület eljárást megszüntető vagy kötelezést t
 
 E jogorvoslat is kérelem formájában kezdeményezhető és az e célra rendszeresített nyomtatványokon nyújtható be a Pénzügyi Békéltető Testülethez, de az adott ügyben illetékes bíróságnak kell címezni. A nyomtatványok elérhetők a pénzügyi intézmények ügyfélfogadásra nyitva álló helyiségeiben vagy kérhetők a Pénzügyi Békéltető Testülettől, illetve letölthetők az elszámolásra kötelezett pénzügyi intézmények, valamint a Magyar Nemzeti Bank (http://mnb.hu) és a Pénzügyi Békéltető Testület honlapjáról (http://penzugyibekeltetotestulet.hu) is.
 
-[^11]: A 8. melléklet a 16/2015. (VI. 4.) MNB rendelet 3. §-ával megállapított szöveg.
+[^15]: A 8. melléklet a 16/2015. (VI. 4.) MNB rendelet 3. §-ával megállapított szöveg.
