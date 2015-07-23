@@ -1,0 +1,1 @@
+## „19/C. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó támogatások részletes feltételeiről szóló egyes rendeletek módosításáról szóló 34/2015. (VII. 22.) MvM rendelettel [a továbbiakban: 34/2015. (VII. 22.) MvM rendelet] megállapított 9. § (13) bekezdést a 34/2015. (VII. 22.) MvM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
