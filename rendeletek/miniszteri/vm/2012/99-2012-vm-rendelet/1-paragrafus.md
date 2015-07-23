@@ -1,6 +1,6 @@
 ## 1. Értelmező rendelkezések
 
-1. § (1)[^1] E rendelet alkalmazásában:
+1. § (1)[^2] E rendelet alkalmazásában:
 
 1. arculati elemek: a kedvezményezettnek a tájékoztatásra és nyilvánosságra vonatkozó rendelkezések értelmében, a támogatással megvalósított beruházáson és eszközein feltüntetett, az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 2006. december 15-i 1974/2006/EK bizottsági rendelet VI. melléklet 3.1. szerinti szlogen, az Európai Unió zászlajának logója, LEADER logó, Darányi Ignác Terv logó, az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) logója, valamint a LEADER Helyi Akciócsoport (a továbbiakban: LEADER HACS) logója;
 
@@ -52,4 +52,4 @@ g) lakóhellyel vagy tartózkodási hellyel rendelkező természetes személy,
 
 (2) Az e rendeletben nem szabályozott kérdések vonatkozásában a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), és az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) szereplő szabályokat kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 1. §-ával megállapított szöveg.

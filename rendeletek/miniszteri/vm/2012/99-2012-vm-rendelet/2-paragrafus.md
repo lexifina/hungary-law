@@ -1,16 +1,16 @@
 ## 2. Támogatás igénybevételének általános feltételei
 
-2. § (1)[^2] Támogatási kérelem benyújtására az ügyfél jogosult, amely az együttműködési projekt végrehajtásához helyi partnereket vonhat be. Amennyiben az ügyfél nem LEADER HACS, abban az esetben a nemzetközi együttműködési projektbe legalább egy magyarországi LEADER HACS helyi partnerként való bevonása szükséges.
+2. § (1)[^3] Támogatási kérelem benyújtására az ügyfél jogosult, amely az együttműködési projekt végrehajtásához helyi partnereket vonhat be. Amennyiben az ügyfél nem LEADER HACS, abban az esetben a nemzetközi együttműködési projektbe legalább egy magyarországi LEADER HACS helyi partnerként való bevonása szükséges.
 
-(2)[^3] Amennyiben az ügyfél magyarországi LEADER HACS illetékességi területén lakóhellyel vagy tartózkodási hellyel rendelkező természetes személy, pályázat benyújtására abban az esetben jogosult, ha:
+(2)[^4] Amennyiben az ügyfél magyarországi LEADER HACS illetékességi területén lakóhellyel vagy tartózkodási hellyel rendelkező természetes személy, pályázat benyújtására abban az esetben jogosult, ha:
 
 a) vállalja, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig egyéni vállalkozóként nyilvántartásba veteti magát, illetve ha a pályázattal érintett tevékenység működési engedélyhez kötött új tevékenység, akkor az utolsó kifizetési kérelem benyújtásáig felveszi az egyéni vállalkozói tevékenységei közé, vagy
 
 b) mezőgazdasági őstermelőként benyújtott pályázatában meghatározott fejlesztés saját előállítású vagy helyi termék előállítására, feldolgozására, valamint piacra jutásának elősegítését célzó tevékenységre irányul.
 
-(2a)[^4] A (2) bekezdés a) pontjától eltérően az önálló tevékenységet végző magánszemély természetes személynek, valamint a Vhr. 2. § (3) bekezdés c) pontja alapján turisztikai tevékenységek ösztönzése jogcím keretében falusi szálláshelyet üzemeltető természetes személynek nem kell vállalnia, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig egyéni vállalkozóként nyilvántartásba veteti magát.
+(2a)[^5] A (2) bekezdés a) pontjától eltérően az önálló tevékenységet végző magánszemély természetes személynek, valamint a Vhr. 2. § (3) bekezdés c) pontja alapján turisztikai tevékenységek ösztönzése jogcím keretében falusi szálláshelyet üzemeltető természetes személynek nem kell vállalnia, hogy a támogatás megítélését követően az első kifizetési kérelem benyújtásának időpontjáig egyéni vállalkozóként nyilvántartásba veteti magát.
 
-(2b)[^5] Az alábbi nemzetközi együttműködési intézkedésekre vehető igénybe támogatás:
+(2b)[^6] Az alábbi nemzetközi együttműködési intézkedésekre vehető igénybe támogatás:
 
 a) az Európai Unión belül: legalább egy ügyfél és legalább egy, más európai uniós tagállamban működő LEADER HACS között megvalósuló együttműködési projekt,
 
@@ -26,10 +26,10 @@ b) együttműködés harmadik országokkal: legalább egy ügyfél és legalább
 
 (7) A megvalósíthatósági tanulmány értékelését az IH által létrehozott Szakmai Bizottság az 1. mellékletben szereplő értékelési szempontok alapján végzi. Pozitív elbírálás esetén az IH hozzájáruló nyilatkozatot állít ki. Amennyiben a megvalósíthatósági tanulmány nem megfelelően kidolgozott, az IH átdolgozó javaslatokról szóló válaszlevelet küld.
 
-(8)[^6] Az e rendelet alapján benyújtott támogatási kérelemben megjelölt költségvetés a benyújtott megvalósíthatósági tanulmányban jóváhagyott összesen igényelt támogatás, azaz a főösszeg vonatkozásában legfeljebb 10% mértékéig térhet el. Amennyiben több mint 10% a főösszeg tekintetében az eltérés, vagy az ügyfél által vállalt tevékenységek módosulnak, abban az esetben a támogatási kérelem elutasításra kerül.
+(8)[^7] Az e rendelet alapján benyújtott támogatási kérelemben megjelölt költségvetés a benyújtott megvalósíthatósági tanulmányban jóváhagyott összesen igényelt támogatás, azaz a főösszeg vonatkozásában legfeljebb 10% mértékéig térhet el. Amennyiben több mint 10% a főösszeg tekintetében az eltérés, vagy az ügyfél által vállalt tevékenységek módosulnak, abban az esetben a támogatási kérelem elutasításra kerül.
 
-[^2]: A 2. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 2. §-ával megállapított szöveg.
-[^3]: A 2. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § (2a) bekezdését a 93/2013. (X. 10.) VM rendelet 2. §-a iktatta be.
-[^5]: A 2. § (2b) bekezdését a 93/2013. (X. 10.) VM rendelet 2. §-a iktatta be.
-[^6]: A 2. § (8) bekezdését a 121/2013. (XII. 16.) VM rendelet 26. § (1) bekezdése iktatta be.
+[^3]: A 2. § (1) bekezdése a 93/2013. (X. 10.) VM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 93/2013. (X. 10.) VM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § (2a) bekezdését a 93/2013. (X. 10.) VM rendelet 2. §-a iktatta be.
+[^6]: A 2. § (2b) bekezdését a 93/2013. (X. 10.) VM rendelet 2. §-a iktatta be.
+[^7]: A 2. § (8) bekezdését a 121/2013. (XII. 16.) VM rendelet 26. § (1) bekezdése iktatta be.
