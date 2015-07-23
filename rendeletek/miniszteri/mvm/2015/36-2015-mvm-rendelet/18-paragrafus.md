@@ -1,0 +1,3 @@
+18. § (1) Ha a munkáltatói kölcsönben részesített alkalmazott szolgálati jogviszonya a munkáltatói kölcsön teljes kiegyenlítése előtt megszűnik, a munkáltatói kölcsönt a főigazgató hozzájárulásával az új munkáltató – az alkalmazott szolgálati jogviszonyának megszűnését követő első nappal – írásbeli nyilatkozatban átvállalhatja.
+
+(2) A munkáltatói kölcsönben részesített alkalmazottnak a munkáltatói kölcsön fennállása alatt bekövetkező halála esetén örököse vagy túlélő házastársa (élettársa) – írásbeli kérelemre, a főigazgató hozzájárulásával – a munkáltatói kölcsönt változatlan feltételek mellett fizetheti vissza, feltéve, hogy az alkalmazott elhalálozásának időpontjában állandó jelleggel vele együtt lakott.
