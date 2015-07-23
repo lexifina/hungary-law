@@ -14,7 +14,7 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 (2) Amennyiben az ügyfél az 1. melléklet 2. szakmai szempontjához az együttműködési megállapodásokat nem nyújtja be vagy nem a (1) bekezdésében meghatározott formai és tartalmi követelményeknek megfelelően nyújtja be, a fenti értékelési szempont nem vehető figyelembe.
 
-(3)[^5] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfélnek a műveletet 2015. július 31. napjáig kell megvalósítani.
+(3)[^5] A Vhr. 25. § (2) bekezdésében foglaltaktól eltérően az ügyfélnek a műveletet 2015. augusztus 31. napjáig kell megvalósítani.
 
 (4)[^6]
 
@@ -28,7 +28,7 @@ f) az együttműködő partnerek cégszerű aláírását.
 
 (9)[^9] A (3) bekezdésben foglalt megvalósítási határidőn belül az ügyfél teljes bizonyító erejű magánokiratba foglalt, visszavonhatatlan nyilatkozatában vállalhatja, hogy az intézkedésben való jogosulatlan részvétel jogkövetkezményeinek alkalmazása mellett a támogatás egészéről lemond.
 
-[^5]: A 10. § (3) bekezdése a 7/2015. (II. 17.) MvM rendelet 75. § (1) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 89. § a) pontja szerint módosított szöveg.
+[^5]: A 10. § (3) bekezdése a 34/2015. (VII. 22.) MvM rendelet 6. §-ával megállapított szöveg.
 [^6]: A 10. § (4) bekezdését a 28/2015. (VI. 9.) MvM rendelet 90. § b) pontja hatályon kívül helyezte.
 [^7]: A 10. § (5) bekezdését a 121/2013. (XII. 16.) VM rendelet 37. §-a hatályon kívül helyezte.
 [^8]: A 10. § (8) bekezdése a 8/2014. (XI. 19.) MvM rendelet 23. § (2) bekezdésével megállapított szöveg.
