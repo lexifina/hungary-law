@@ -10,11 +10,11 @@
 
 (6) Induló vállalkozás esetén a Vhr. 7. § (1) bekezdés c) pontjában meghatározott, a nehéz helyzetben lévő vállalkozásokra vonatkozó szabályokat nem kell alkalmazni.
 
-(7)[^3] A támogatási határozattal jóváhagyott műveletet 2015. július 31. napjáig kell megvalósítani.
+(7)[^4] A támogatási határozattal jóváhagyott műveletet 2015. augusztus 31. napjáig kell megvalósítani.
 
 (8) Az e rendelet alapján nyújtott támogatások tekintetében a Vhr. 12. § (4) bekezdésében, illetve a Vhr. 33. § (4) bekezdésében foglaltak nem alkalmazandóak.
 
-(9)[^4]
+(9)[^5]
 
-[^3]: A 3. § (7) bekezdése a 7/2015. (II. 17.) MvM rendelet 71. § (1) bekezdésével megállapított, a 28/2015. (VI. 9.) MvM rendelet 76. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § (9) bekezdését az 1/2014. (IX. 15.) MvM rendelet 29. §-a hatályon kívül helyezte.
+[^4]: A 3. § (7) bekezdése a 34/2015. (VII. 22.) MvM rendelet 5. §-ával megállapított szöveg.
+[^5]: A 3. § (9) bekezdését az 1/2014. (IX. 15.) MvM rendelet 29. §-a hatályon kívül helyezte.

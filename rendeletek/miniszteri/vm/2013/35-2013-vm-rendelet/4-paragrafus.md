@@ -36,7 +36,7 @@ cf) az ajánlattevő aláírását, valamint
 
 cg) az árajánlat kiállításának dátumát.
 
-(6a)[^5] Az ajánlattevő olyan tevékenysége tekintetében adhat árajánlatot, amelyet az adóhatósághoz legkésőbb az ügyfélnek az MVH előtt folyamatban lévő eljárása vagy a jogorvoslati eljárás során bejelentett. A nem bejelentett tevékenység tekintetében adott árajánlat vonatkozásában adategyeztetésnek, illetve nyilatkozattételnek van helye.
+(6a)[^6] Az ajánlattevő olyan tevékenysége tekintetében adhat árajánlatot, amelyet az adóhatósághoz legkésőbb az ügyfélnek az MVH előtt folyamatban lévő eljárása vagy a jogorvoslati eljárás során bejelentett. A nem bejelentett tevékenység tekintetében adott árajánlat vonatkozásában adategyeztetésnek, illetve nyilatkozattételnek van helye.
 
 (7) Elektronikus árajánlat esetén a (6) bekezdés c) pont cf) alpontja szerinti követelményt nem kell alkalmazni, azonban ha az árajánlattevő az ajánlatát elektronikus levélben adta, mellékelni kell az elektronikus levelet és az elektronikus levél csatolmányainak is meg kell felelniük a (6) bekezdés a)–b) pontjában és a c) pont ca), cb), cc), cd), ce), cg) alpontjában meghatározott követelménynek. Webáruházból letöltött árajánlat esetén a (6) bekezdés c) pont ca), cf) és cg) alpontja szerinti követelményt nem kell alkalmazni. Az elektronikus árajánlat akkor fogadható el, ha tartalmazza a webáruház honlap címét.
 
@@ -52,4 +52,4 @@ a) jogszabályban meghatározott árral rendelkező eszköz vagy szolgáltatás 
 
 b) tradicionális eszköz beszerzése esetében, amely árajánlat egyúttal igazolja, hogy az eszköz hordozza a megismertetni kívánt időszakban használt eszköz formai és funkcionális jellemzőit, és az árajánlat becsatolása mellett az ügyfél nyilatkozik arról, hogy az árajánlat alapján beszerzett tradicionális eszköz kereskedelmi forgalomban nem kapható.
 
-[^5]: A 4. § (6a) bekezdését a 8/2014. (XI. 19.) MvM rendelet 16. § (1) bekezdése iktatta be.
+[^6]: A 4. § (6a) bekezdését a 8/2014. (XI. 19.) MvM rendelet 16. § (1) bekezdése iktatta be.

@@ -4,7 +4,7 @@
 
 1. arculati elemek: a kedvezményezettnek a tájékoztatásra és nyilvánosságra vonatkozó rendelkezések értelmében, a támogatással megvalósított beruházáson és eszközein feltüntetett, az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló, 2006. december 15-i 1974/2006/EK bizottsági rendelet VI. melléklet 3. pont 3.1. alpontja szerinti „Európai Mezőgazdasági és Vidékfejlesztési Alap: A vidéki területekbe beruházó Európa.” szlogen, az Európai Unió zászlajának logója, LEADER logó, Darányi Ignác Terv logó, az Új Magyarország Vidékfejlesztési Program (a továbbiakban: ÚMVP) logója, valamint a LEADER HACS logója;
 
-2.[^1]
+2.[^2]
 
 3. előadó: szakmai, tudományos ismereteket átadó személy, valamint színész, énekes, zenész, táncos vagy más személy, aki az irodalmi vagy művészeti alkotásokat vagy a népművészet kifejeződéseit megjeleníti, énekli, elmondja, elszavalja, eljátssza, tolmácsolja, vagy más módon előadja;
 
@@ -42,9 +42,9 @@
 
 20. tradicionális eszköz: az a hagyományos, újonnan kereskedelmi forgalomban nem kapható gép, eszköz, tárgy, amely a hagyományos népi kultúra, szellemi és tárgyi örökség ápolásának, bemutatásának céljából korhű formai jellegeket hordozóan és funkcionalitással készült;
 
-21.[^2] ügyfél: az a természetes személy, önálló tevékenységet végző magánszemély, mikro-, kis- és középvállalkozás, nonprofit szervezet, egyházi jogi személy, települési önkormányzat, települési nemzetiségi önkormányzat vagy önálló jogi személyiséggel rendelkező önkormányzati társulás, amely fejlesztést valósít meg valamely LEADER HACS illetékességi területen.
+21.[^3] ügyfél: az a természetes személy, önálló tevékenységet végző magánszemély, mikro-, kis- és középvállalkozás, nonprofit szervezet, egyházi jogi személy, települési önkormányzat, települési nemzetiségi önkormányzat vagy önálló jogi személyiséggel rendelkező önkormányzati társulás, amely fejlesztést valósít meg valamely LEADER HACS illetékességi területen.
 
 (2) Az e rendeletben nem szabályozott kérdésekben a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Törvény), valamint az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendeletben (a továbbiakban: Vhr.) foglaltakat kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdés 2. pontját a 121/2013. (XII. 16.) VM rendelet 31. § (5) bekezdése hatályon kívül helyezte.
-[^2]: Az 1. § (1) bekezdés 21. pontja a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés 2. pontját a 121/2013. (XII. 16.) VM rendelet 31. § (5) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (1) bekezdés 21. pontja a 121/2013. (XII. 16.) VM rendelet 31. § (4) bekezdése szerint módosított szöveg.
