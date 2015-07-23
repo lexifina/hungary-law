@@ -1,3 +1,3 @@
-## 19. § A Kr. 18/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 18–19. §[^3]
 
-## „(2) A háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatására az OEP az OTH szakmai javaslata alapján pályázatot ír ki.”
+[^3]: A 18–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 57. § Hatályát veszti a 28/2015. Korm. rendelet 5. § a) pontja.
+## 56–57. §[^25]
 
 ## 18. Az Egészségügyi Nyilvántartási és Képzési Központról szóló 29/2015. (II. 25.) Korm. rendelet módosítása
+
+[^25]: Az 56–57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

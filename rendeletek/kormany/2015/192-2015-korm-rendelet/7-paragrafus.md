@@ -1,3 +1,0 @@
-## 6. § A 217/1997. Korm. rendelet 26. §-a helyébe a következő rendelkezés lép:
-
-## „26. § Ha a csecsemőgondozási díjra vagy gyermekgondozási díjra való jogosultság az álláskeresési támogatás vagy vállalkozói járadék folyósításának ideje alatt, a folyósítás szünetelése alatt, vagy ezek megszűnését követő 42 napon belül nyílik meg, a csecsemőgondozási díj és a gyermekgondozási díj összegét a jogosultság kezdő napján érvényes minimálbér alapján kell megállapítani, azonban a pénzbeli ellátás naptári napi alapja nem haladhatja meg az álláskeresési támogatás vagy vállalkozói járadék alapját képező összeg harmincad részét.”
