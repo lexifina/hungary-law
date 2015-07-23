@@ -1,3 +1,3 @@
-## 6. § Az Ügyrend 52. §-a a következő mondattal egészül ki:
+## 1–6. §[^1]
 
-## „Ha a főtitkár vagy az előadó alkotmánybíró hiánypótlást rendel el, és az Alkotmánybíróság a bírói kezdeményezést nem utasítja vissza a hiánypótlás elmaradása vagy elégtelensége miatt, az első tervezet előterjesztésének és az indítvány elbírálásának a határideje a hiánypótlás beérkezésekor kezdődik.”
+[^1]: Az 1–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
