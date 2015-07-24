@@ -1,0 +1,5 @@
+2. § (1) A négyzet alakú emlékérme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 14 gramm, mérete 28,43 mm x 28,43 mm, széle sima.
+
+(2) Az emlékérme előlapján, a középmezőben a Szilvay Kornél által szabadalmaztatott egyetemes oltógép ábrázolása látható. Az emlékérme szélén, fent, jobb oldalon, egymás alatti két sorban a „2000” értékjelzés és a „FORINT” felirat, lent a „MAGYARORSZÁG” felirat olvasható. A bal oldalon az emlékérme szélén, a peremmel párhuzamosan, az oltógép ábrázolása felett a „2015” verési évszám, alatta a „BP.” verdejel olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben, kerettel körbevéve Szilvay Kornél portréja látható, a bal alsó sarokban Bitó Balázs tervezőművész mesterjegyével. Az emlékérme szélén, a kereten kívül, fent a „SZILVAY KORNÉL”, a jobb oldalon, a peremmel párhuzamosan az „A SZÁRAZOLTÁS ATYJA”, lent, jobbra rendezve az „1890 – 1957”, a bal oldalon, a peremmel párhuzamosan a „TŰZOLTÓPARANCSNOK” felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
