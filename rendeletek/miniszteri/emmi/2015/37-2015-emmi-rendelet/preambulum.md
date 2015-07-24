@@ -1,1 +1,0 @@
-A sportról szóló 2004. évi I. törvény 79. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
