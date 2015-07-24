@@ -32,11 +32,11 @@
 
 13. a számviteli szétválasztásra vonatkozó részletes szabályokat;
 
-14. a víziközmű-fejlesztési hozzájárulás meghatározásának alapelveit, szempontjait és a díjak elemeit;
+14. a használati díj, valamint a víziközmű-fejlesztési hozzájárulás meghatározásának szempontjait és a díjak elemeit;
 
 15. a víziközmű-szolgáltatás díjainak szerkezetét;
 
-16. a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
+16. a víziközműves kapcsolódó szolgáltatás körében az átadási árra vonatkozó javaslat minimális tartalmi követelményeit, az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
 
 17.
 
@@ -48,7 +48,9 @@
 
 21. a védendő felhasználók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő felhasználókat megillető különleges bánásmód részletes szabályait, a védendő felhasználói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit;
 
-22. a mellékvízmérőkön mért fogyasztáson alapuló elszámolási mód esetén az elkülönített vízhasználók és a víziközmű-szolgáltató sajátos feladatait, a kötelezettség megszegésének következményeit, az elszámolási mód alkalmazhatóságának műszaki feltételeit, a házi és csatlakozó ivóvízhálózat ellenőrzési rendjét, továbbá az elszámolás alapját képező szennyvízmennyiség meghatározásának részletes szabályait
+22. a mellékvízmérőkön mért fogyasztáson alapuló elszámolási mód esetén az elkülönített vízhasználók és a víziközmű-szolgáltató sajátos feladatait, a kötelezettség megszegésének következményeit, az elszámolási mód alkalmazhatóságának műszaki feltételeit, a házi és csatlakozó ivóvízhálózat ellenőrzési rendjét, továbbá az elszámolás alapját képező szennyvízmennyiség meghatározásának részletes szabályait;
+
+23. az ideiglenes szolgáltatásra vonatkozó átmeneti díjkérelem tartalmi és formai követelményeit, az átmeneti díj meghatározásánál figyelembe vehető ráfordítások körét
 
 rendeletben állapítsa meg.
 
@@ -64,12 +66,24 @@ rendeletben állapítsa meg.
 
 5.
 
-6. szabályozza a víziközmű térképi nyilvántartás tartalmi és formai követelményeit;
-
-7. állapítsa meg a víziközmű térképi nyilvántartás adatainak szolgáltatására, az adatszolgáltatás díjának mértékére vonatkozó részletes szabályokat;
+6–7.
 
 8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási terv, valamint beruházási terv részletes tartalmi és formai követelményeit;
 
-9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat.
+9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
+
+10. állapítsa meg a víziközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végzendő szolgáltatások körét és annak díjait, a felhasználók számára ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
 
 (3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy rendeletben szabályozza a Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
+
+(4) Felhatalmazást kap a Hivatal elnöke, hogy
+
+1. a használati díjak mértékét,
+
+2. a rendszeres adatszolgáltatásra kötelezett engedélyesek vagy ellátásért felelősök és az általuk szolgáltatandó adatok körét, valamint az adatszolgáltatási kötelezettség határidejét,
+
+3. a közszolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
+
+4. a víziközmű-fejlesztési hozzájárulás mértékét
+
+rendeletben állapítsa meg.

@@ -8,7 +8,7 @@
 
 a) a természeti erőforrások kíméletének elve: a víziközmű-szolgáltatás kialakítása és fejlesztése tekintetében azt a műszaki, közgazdasági és szervezeti megoldást kell előnyben részesíteni, amely az ország természeti erőforrásainak védelmét, így különösen az ivóvíznyerő források és készletek, valamint a tisztítottszennyvíz-befogadók hosszú távú, fenntartható igénybevételét szolgálják,
 
-b) az ellátásbiztonság elve: a víziközmű-szolgáltatás kialakítása, fejlesztése tekintetében azt a műszaki, közgazdasági és szervezeti megoldást kell előnyben részesíteni, amely
+b) az ellátásbiztonság elve: a víziközmű-szolgáltatás kialakítása, üzemeltetése, fejlesztése tekintetében azt a műszaki, közgazdasági és szervezeti megoldást kell előnyben részesíteni, amely
 
 ba) a felhasználók egészséges ivóvízzel való ellátását nagyobb üzemi biztonság mellett – szakmailag megalapozott ismeretek, várakozások alapján – legalább egy település közigazgatási területén belül egységesen működtethető vízvezeték-hálózatként folyamatosan és hosszú távon képes biztosítani; továbbá
 

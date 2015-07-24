@@ -1,5 +1,5 @@
 ## 5. A víziközművek vagyonértékelése, nyilvántartása
 
-12. § (1) A víziközmű tulajdonosa a 16. § szerinti pályázat kiírását – ennek hiányában az üzemeltetési szerződés megkötését – megelőzően a tulajdonában lévő víziközmű vonatkozásában vagyonértékelést végeztet. A vagyonértékelés költségei a víziközmű-rendszer üzemeltetésbe adásából származó bevételek terhére is finanszírozhatóak.
+12. § (1) A víziközmű tulajdonosa a 16. § szerinti pályázat kiírását – ha pályázat kiírására nem kerül sor, az üzemeltetési szerződés megkötését – megelőzően, a 78. §-ban meghatározott víziközmű tulajdonos pedig az ott meghatározott határidőig az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon vagyonértékelést végez. A vagyonértékelés költsége a használati díjból is finanszírozható.
 
 (2) A vagyonértékelés az üzemeltetési szerződés mellékletét képezi.

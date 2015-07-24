@@ -18,7 +18,7 @@ eb) a víziközmű-szolgáltató a víziközművet az ellátás biztonságát, �
 
 ec) az engedély kiadásának feltételei már nem állnak fenn, és engedélymódosítással a jogszerű állapot nem állítható helyre,
 
-ed) jogszabályváltozás miatt az engedély kiadását meg kellene tagadni, vagy
+ed) a 36. § (1) bekezdésében meghatározott jogszabály megváltozását követően, a megváltozott feltételeknek a víziközmű-szolgáltató a jogszabályban biztosított felkészülési időt követően nem tesz eleget, vagy
 
 ee) az engedélyt megtévesztéssel, valótlan adatok szolgáltatásával vagy más jogszabálysértő módon szerezték meg.
 

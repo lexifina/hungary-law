@@ -8,4 +8,4 @@ c) a felhasználási helyekre vonatkozó, a fogyasztás megállapításához sz�
 
 d) a víziközmű térképi nyilvántartás adatállományát,
 
-e) a további víziközmű-működtetés tekintetében szükséges műszaki dokumentumokat, adatokat.
+e) a további víziközmű-működtetés tekintetében szükséges műszaki dokumentumokat, adatokat, ideértve az 55. § szerinti bekötési kötelezettséggel érintett ingatlan azonosításához szükséges helyrajzi számot és címet.

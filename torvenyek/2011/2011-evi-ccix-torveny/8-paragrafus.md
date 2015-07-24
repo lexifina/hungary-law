@@ -1,7 +1,5 @@
 8. § (1) Ha a víziközmű nem állami vagy önkormányzati beruházásban jön létre, a beruházó a víziközmű tulajdonjogát a víziközmű üzembe helyezésének időpontjában az ellátásért felelősre átruházza. Az átruházásról a felek szerződést kötnek.
 
-(2) Ha a beruházás harmadik személy ingatlanán valósult meg, akkor a víziközműnek a vízvezetési szolgalmi jogát kell az ellátásért felelősre átruházni.
+(2) Az ellátásért felelős az átvételt csak abban az esetben tagadhatja meg, ha a létrehozott vízilétesítmény nem felel meg a 6. § (4) és (5) bekezdésében meghatározott követelményeknek.
 
-(3) Az ellátásért felelős köteles az átruházáshoz hozzájárulni, ha a beruházás megvalósításához annak megkezdése előtt írásban hozzájárult.
-
-(4) Ha az ellátásért felelős és az érintett víziközmű-rendszerre nézve vele víziközmű üzemeltetési jogviszonyban nem álló beruházó, az (1) és a (3) bekezdés szerinti víziközmű térítésmentes átruházásáról állapodik meg, a térítésmentes vagyonátruházás az általános forgalmi adó szempontjából közcélú adománynak, a társasági adó szempontjából a beruházó vállalkozási, bevételszerző tevékenységével összefüggő költségnek, ráfordításnak minősül.
+(3) Ha az ellátásért felelős és az érintett víziközmű-rendszerre nézve vele víziközmű üzemeltetési jogviszonyban nem álló beruházó, az (1) bekezdés szerinti víziközmű térítésmentes átruházásáról állapodik meg, a térítésmentes vagyonátruházás az általános forgalmi adó szempontjából közcélú adománynak minősül.

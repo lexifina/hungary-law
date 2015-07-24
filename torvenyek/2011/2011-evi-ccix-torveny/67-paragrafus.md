@@ -2,6 +2,8 @@
 
 67. § (1) Víziközműves kapcsolódó szolgáltatás visszterhes szerződés (a továbbiakban: átadási szerződés) alapján nyújtható egymással kapcsolatban álló, víziközmű-szolgáltatók által működtetett víziközmű-rendszerek átadási pontján keresztül.
 
+(1a) Az átadási szerződés alapján fizetésre kötelezett víziközmű-szolgáltató az átadási szerződés vagy annak módosítása egy aláírt példányát az aláírástól számított 30 napon belül tájékoztatásul megküldi a Hivatalnak.
+
 (2) A víziközmű-szolgáltatók között a mennyiségi elszámolás mérőberendezés mérési adatai alapján történik.
 
 (3) Az ivóvíz átadási árát és az átvett szennyvíz kezelési díját (a továbbiakban együtt: átadási ár) – az átadási mennyiségek figyelembevételével a miniszter rendeletben állapítja meg. Az átadási ár megállapításakor rendelkezni kell arról, hogy az átadási árat mely – a rendelet hatálybalépését követő – időponttól kell alkalmazni.

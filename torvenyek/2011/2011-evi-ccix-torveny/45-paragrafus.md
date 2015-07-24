@@ -20,17 +20,17 @@ f) díjbeszedési szolgáltatatás,
 
 g) felhasználási hely ellenőrzése, vagy
 
-h) fogyasztásmérő berendezések cseréje.
+h) bekötési vízmérő cseréje.
 
 (5) A (4) bekezdésben foglalt kiszervezett tevékenységet 2014. december 31. napját követően
 
-a) kizárólag az állam, települési önkormányzat vagy ezek közös tulajdonában álló gazdasági társaság, vagy
+a) kizárólag az állam, települési önkormányzat vagy ezek közös, minősített többségű közvetlen, vagy közvetett tulajdonában álló gazdasági társaság, vagy
 
 b) kizárólag
 
 ba) az a) pont szerinti gazdasági társaság és
 
-bb) rajta kívül az állam, települési önkormányzat vagy ezek együttes tulajdonában álló gazdasági társaság
+bb) rajta kívül az állam, települési önkormányzat vagy ezek együttes, minősített többségű közvetlen, vagy közvetett tulajdonában álló gazdasági társaság
 
 végezhet.
 

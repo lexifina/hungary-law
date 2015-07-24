@@ -4,11 +4,11 @@ a) az ellátásért felelős
 
 aa) az üzemeltetési szerződés megkötésére irányuló pályázatot a Hivatal jóváhagyása nélkül írta ki,
 
-ab) megszegi a használati díj kezelésére és felhasználására vonatkozó, a 18. §-ban rögzített szabályokat;
+ab) megszegi az e törvényben vagy a felhatalmazása alapján kiadott jogszabályokban és a Hivatal határozatában foglalt ellátásért felelősre vonatkozó előírásokat és ez az ellátásbiztonságot veszélyezteti;
 
 b) a víziközmű-szolgáltató
 
-ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét a Hivatal által kiadott jogerős működési engedély vagy az üzemeltetési szerződés, beszerzési szabályzat, üzletszabályzat jóváhagyása nélkül folytatja,
+ba) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét a Hivatal által kiadott jogerős működési engedély vagy üzemeltetési szerződés jóváhagyása nélkül folytatja, ide nem értve a 31/A. § (1) bekezdésében szabályozott ideiglenes szolgáltatást,
 
 bb) a víziközmű-üzemeltetési feladatainak elvégzésében a kiszervezésre vonatkozó szabályok megsértésével, nem engedélyezett vagy előzetesen be nem jelentett személyt vesz igénybe,
 
@@ -18,7 +18,7 @@ bd) a tevékenységét a beszerzési szabályzat, üzletszabályzat Hivatal ált
 
 c) az ellátásért felelős vagy a víziközmű-szolgáltató a Hivatal által jóváhagyott felújítási és pótlási tervben, illetve a beruházási tervben foglaltak végrehajtását elmulasztotta.
 
-(2) Rendkívüli bírság szabható ki, ha a víziközmű-szolgáltató:
+(2) Víziközmű-felügyeleti bírság szabható ki, ha a víziközmű-szolgáltató:
 
 a) a víziközmű-szolgáltatási vagy a víziközmű-üzemeltetési tevékenységét – a vízügyi hatóság hatáskörébe nem tartozó esetkörben – neki felróható módon nem a jogszabályi vagy hatósági előírásoknak megfelelően folytatja,
 
@@ -28,6 +28,8 @@ c) keresztfinanszírozást alkalmaz,
 
 d) jogszabálysértő díjat vagy árat alkalmaz,
 
-e) az általa működtetett szolgáltatással kapcsolatban nem teljesíti a jogszabályban, engedélyben, üzletszabályzatban vagy a felhasználókkal kötött szerződésekben meghatározott előírást,
+e)
 
 f) a Hivatal részére rosszhiszeműen, valótlan adatot közölt.
+
+(3) Víziközmű-felügyeleti bírság szabható ki azzal a gazdálkodó szervezettel szemben is, amely víziközmű-szolgáltatási tevékenységet a Hivatal engedélye nélkül végzi.

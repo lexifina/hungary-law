@@ -6,7 +6,7 @@
 
 (3) A víziközmű-szolgáltató
 
-a) a víziközmű működtetését – az üzemeltetési szerződésben meghatározott terjedelemben – biztonságosan, hatékonyan és megbízhatóan, a környezetvédelmi követelmények, valamint az ellátásbiztonság figyelembevételével végzi,
+a) a víziközmű üzemeltetését – az üzemeltetési szerződésben meghatározott terjedelemben – biztonságosan, hatékonyan és megbízhatóan, a környezetvédelmi követelmények, valamint az ellátásbiztonság figyelembevételével végzi,
 
 b) a víziközmű-fejlesztéseket – az üzemeltetési szerződésben meghatározott terjedelemben – időben úgy végzi el, hogy az általa üzemeltetett víziközmű-rendszer a víziközmű-szolgáltatási ágazatok vonatkozásában hosszú távon ki tudja elégíteni az ésszerű igényeket, valamint
 

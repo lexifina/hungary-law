@@ -1,7 +1,9 @@
 ## 4. A víziközmű-fejlesztés
 
-10. § (1) A víziközmű-fejlesztés megvalósításáról – ha e törvény másként nem rendelkezik – az ellátásért felelős gondoskodik.
+10. § (1) A víziközmű-fejlesztés megvalósításáról – ha e törvény vagy kormányrendelet másként nem rendelkezik – az ellátásért felelős gondoskodik.
 
-(2) Ha a víziközmű-fejlesztést a víziközmű-szolgáltató végzi, akkor a víziközmű az üzembe helyezésének napjával az ellátásért felelős tulajdonába kerül, és az ellátásért felelős jogosult arra vonatkozó vízvezetési szolgalmi jog alapítására.
+(2) Ha a víziközmű-fejlesztést a víziközmű-szolgáltató vagy önkormányzatok társulása, illetve az önkormányzatok társulása konzorciumi megállapodás keretében végzi, akkor a víziközmű az üzembe helyezésének napjával az ellátásért felelős vagy felelősök tulajdonába kerül. A társulás tagjai ezt megelőzően megállapodhatnak a megvalósított víziközművön fennálló tulajdoni részesedésük mértékéről. Megállapodás hiányában tulajdoni részesedés a víziközmű-fejlesztéshez történő anyagi hozzájárulás mértéke szerint alakul.
 
-(3) Ha az ellátásért felelős és a víziközmű-szolgáltató üzemeltetési szerződésben a víziközmű-szolgáltató beruházásában megvalósuló víziközmű térítésmentes átruházásáról állapodik meg, a térítésmentes vagyonátruházás az általános forgalmi adó, valamint az energiaellátók jövedelemadója szempontjából közcélú adománynak, a társasági adó szempontjából a víziközmű-szolgáltató vállalkozási, bevételszerző tevékenyégével összefüggő költségnek, ráfordításnak minősül. A vagyonátruházás akkor sem jár a társasági adó, illetve az energiaellátók jövedelemadó alapjának növelésével, ha az átadás a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozások között történik.
+(3) Újonnan létrehozott víziközmű-rendszer esetében a beruházásban érdekelt ellátásért felelősök a 9. § (3) bekezdésében meghatározott feladatokról a próbaüzem induló napjáig megállapodnak.
+
+(4) Ha a (2) bekezdés szerint megvalósuló tulajdonba adás térítésmentes, a vagyonátruházás az általános forgalmi adó szempontjából közcélú adománynak minősül.

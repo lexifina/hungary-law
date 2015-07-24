@@ -1,0 +1,1 @@
+31/C. § Az ideiglenes szolgáltatási tevékenység ellátása során a koncessziós szerződéses üzemeltetési jogviszonyban álló gazdasági társaságot a szerződött víziközmű-szolgáltatóval azonos jogok illetik meg és azonos kötelezettségek terhelik.

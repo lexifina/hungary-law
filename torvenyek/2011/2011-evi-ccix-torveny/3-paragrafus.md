@@ -2,7 +2,7 @@
 
 ## A VÍZIKÖZMŰVEKKEL KAPCSOLATOS FELADAT- ÉS HATÁSKÖRÖK
 
-3. § (1) Az e törvényben meghatározott hatósági feladatokat – a (2) bekezdésben foglalt kivételekkel – a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) látja el.
+3. § (1) Az e törvényben meghatározott kivételekkel a víziközművekkel kapcsolatos hatósági feladatokat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) látja el.
 
 (2) Az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a víziközmű-szolgáltatás korlátozásával vagy felfüggesztésével kapcsolatos, jogszabályban és üzletszabályzatban foglalt rendelkezések lakossági felhasználókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt (a továbbiakban: Fgytv.) kell alkalmazni azzal, hogy az e törvény szerinti lakossági felhasználó az Fgytv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
 
@@ -12,12 +12,14 @@
 
 (5) A fogyasztóvédelmi hatóság az eljárása során az Fgytv.-ben foglalt jogkövetkezményeken kívül – jogsértés megállapítása esetén – az alábbi jogkövetkezményeket is alkalmazhatja:
 
-a) a víziközmű-szolgáltató üzletszabályzatában foglaltak betartására kötelezés;
+a) a víziközmű-szolgáltató üzletszabályzatának a (2) és (3) bekezdés szerinti eljárás tárgyát érintő rendelkezései betartására kötelezés;
 
 b) a víziközmű-szolgáltató olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása; vagy
 
-c) ha a lakossági felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
+c) a 73. § b) pontjában meghatározott esetkörön kívül, ha a lakossági felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
 
 (6) A víziközmű-szolgáltatókkal szemben felmerülő panaszok ügyében – a (2)–(4) bekezdésben foglaltak kivételével – a Hivatal jár el.
 
 (7) A (2)–(6) bekezdés szerinti hatósági eljárást megelőzően a felhasználó köteles panaszával igazolható módon a víziközmű-szolgáltatóhoz fordulni.
+
+(8) Az ivóvíz-szolgáltatás korlátozás jogszerűségével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és megyei kormányhivatal járási (főváros kerületi) hivatala (továbbiakban: járási hivatal) jár el.

@@ -4,7 +4,9 @@
 
 a) a 16. § és a 9. § (5) bekezdés szerinti eljárásában 30 nap,
 
-b) a 35. § szerinti eljárásában 6 hónap.
+b) 31/B. § szerinti eljárásában 45 nap,
+
+c) 35. § és 37. § szerinti eljárásában 6 hónap.
 
 (3) A Hivatal döntésének bírósági felülvizsgálata esetében nincs helye a végrehajtás felfüggesztésének, ha a határozat
 

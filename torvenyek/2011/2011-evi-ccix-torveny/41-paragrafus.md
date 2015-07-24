@@ -1,4 +1,4 @@
-41. § (1) Bírság kiszabásakor a Hivatal mérlegeli a jogsértés körülményeit, különös tekintettel
+41. § (1) A jogkövetkezmények alkalmazásakor a Hivatal mérlegeli a jogsértés körülményeit, különös tekintettel
 
 a) a jogellenes magatartás súlyára (az ellátás veszélyeztetésének mértékére, a magánérdekek sérelmének körére, kiterjedtségére) és a felróhatóság mértékére;
 
@@ -12,7 +12,7 @@ e) a Hivatal eljárását megelőzően a jogsértő állapot megszüntetése ér
 
 f) a jogsértő állapot megszüntetésére hozott intézkedéseket segítő magatartásra.
 
-(2) A bírság ismételten kiszabható.
+(2)
 
 (3) A bírság adók módjára behajtható köztartozásnak minősül.
 

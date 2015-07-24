@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában:
 
-1. átadási pont: olyan víziközmű, amely beépített mérőberendezés, elzárószerelvény és mintavételi lehetőség útján biztosítja két víziközmű-rendszer kapcsolatát, valamint az összekapcsolt víziközmű-rendszerek üzemeltetése során az ivóvízátadás, -átvétel és a szennyvízátadás, -átvétel mennyiségi és minőségi elszámolásának műszaki feltételeit,
+1. átadási pont: a víziközmű törzshálózat azon része, amely beépített mérőberendezés, elzárószerelvény és mintavételi lehetőség útján biztosítja két víziközmű-rendszer kapcsolatát, valamint az összekapcsolt víziközmű-rendszerek üzemeltetése során az ivóvízátadás, -átvétel és a szennyvízátadás, -átvétel mennyiségi és minőségi elszámolásának műszaki feltételeit,
 
 2. bekötési vízmérő: a felhasználási hely ivóvízhasználatának mérésére szolgáló, az ivóvíz-bekötővezeték végpontjára telepített mérő,
 
@@ -12,7 +12,7 @@
 
 5. felhasználási hely: az a víziközmű-szolgáltatásba bekapcsolt ingatlan, amelyen a víziközmű-szolgáltatást a felhasználó igénybe veszi,
 
-6. felhasználó: a víziközmű-szolgáltatást e törvény szerinti szerződéses jogviszony keretében igénybe vevő természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki (amely) a víziközmű-szolgáltatásba bekapcsolt ingatlan használója, és sorban mögötte az ingatlan tulajdonosa,
+6. felhasználó: a víziközmű-szolgáltatást e törvény szerinti szerződéses jogviszony keretében vagy a 31/A. § (1) bekezdésében meghatározott ideiglenes szolgáltatás időtartama alatt a víziközmű-szolgáltató előzetes hozzájárulásával ténylegesen igénybe vevő természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet, aki (amely) a víziközmű-szolgáltatásba bekapcsolt ingatlan használója, és sorban mögötte az ingatlan tulajdonosa,
 
 7. felhasználói egyenérték: olyan mutatószám, amely a víziközmű-szolgáltatást igénybe vevő felhasználók számosságát – víziközmű-szolgáltatási ágazatonként, a felhasználók kapacitás igényeire figyelemmel – az 1. melléklet szerinti képlet alapján egységesen fejezi ki,
 
@@ -22,15 +22,15 @@
 
 10. házi szennyvízhálózat: a felhasználási helyen keletkező szennyvíz összegyűjtését szolgáló – az ingatlan alkotórészét képező – vezeték, valamint annak kiegészítő elemei (így különösen szennyvízmennyiség-mérő, szennyvízminőség-ellenőrző akna, szennyvíz-előkezelő mű),
 
-11. ivóvíz-bekötővezeték: a víziközmű-szolgáltatásba bekapcsolt ingatlanon az ivóvíz-törzshálózat és a házi ivóvízhálózat vagy a csatlakozó ivóvízhálózat között kiépített vezeték a tartozékaival, valamint a bekötési vízmérő, amely
+11. ivóvíz-bekötővezeték: az ivóvíz-törzshálózat és a házi ivóvízhálózat vagy a csatlakozó ivóvízhálózat között kiépített vezeték a tartozékaival, valamint a bekötési vízmérő, amely
 
 a) bekötési vízmérő esetében
 
 aa) úszótelkes és telekhatáron kialakított zártsorú beépítésnél az épület külső falsíkjáig terjed,
 
-ab) egyéb esetekben a bekötési vízmérőt követően a vízmérési helyen beépített elzárószerelvény bekötési vízmérő felőli csatlakozó pontjáig, ennek hiányában a bekötési vízmérőt követő 10 cm-es vezetékszakasz végéig terjed,
+ab) önálló vízmérő aknaként kialakított vízmérési helyen bekötési vízmérőt követő elzáró szerelvényig, ennek hiányában a bekötési vízmérőt követő 10 cm-es vezetékszakasz végéig terjed,
 
-b) bekötési vízmérő hiányában az ivóvíz-törzshálózattól a közterület és az ingatlan határvonaláig húzódó vezetékszakasz végéig terjed,
+b) bekötési vízmérő hiányában, vagy ha a bekötési vízmérőt nem önálló műtárgyként kialakított vízmérési helyen építették ki, az ivóvíz-törzshálózattól a közterület és az ingatlan határvonaláig húzódó vezetékszakasz végéig terjed,
 
 12. ivóvíz-törzshálózat: olyan a víziközmű-rendszer részét képező hálózat, amely az ivóvíz-főnyomóvezetékből, az erre kapcsolt elosztóvezetékekből és ezek berendezéseiből áll,
 
@@ -64,11 +64,11 @@ szolgálja,
 
 a) önállóan, kizárólag egy település ellátását biztosítja (szigetüzem),
 
-b) önállóan, több település ellátását is szolgálja, és rajta a tulajdoni viszonyok azonosak,
+b) önállóan, több település ellátását is szolgálja,
 
 c) átadási pontokkal egyértelműen körülhatárolt, a kapcsolódó szolgáltatás nyújtását is, vagy kizárólagosan azt biztosítja,
 
-d) átadási pontokkal egyértelműen körülhatárolt, kapcsolódó szolgáltatással kiegészülve egy településre nézve, vagy azonos tulajdoni viszonyok mellett több településre nézve, képes biztosítani a víziközmű-szolgáltatás műszaki feltételeit,
+d) átadási pontokkal egyértelműen körülhatárolt, kapcsolódó szolgáltatással kiegészülve egy vagy több településre nézve képes biztosítani a víziközmű-szolgáltatás műszaki feltételeit,
 
 24. víziközmű-szolgáltatás: a közműves ivóvízellátás az ahhoz kapcsolódó tűzivíz biztosítással, továbbá a közműves szennyvízelvezetés és -tisztítás, ide értve az egyesített rendszerű csapadékvíz-elvezetést is, mely tevékenységek által megnyilvánuló szolgáltatások közül az egyiket, vagy mindkettőt a víziközmű-szolgáltató a felhasználó részére közszolgáltatási jogviszony keretében nyújtja (a továbbiakban együtt: víziközmű-szolgáltatási ágazatok),
 
@@ -88,4 +88,6 @@ b) amelyen a keletkező szennyvíz részben, vagy egészben történő elvezeté
 
 30. fogyatékkal élő felhasználó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a víziközmű-szolgáltatás felfüggesztése vagy annak korlátozása közvetlenül veszélyezteti,
 
-31. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
+31. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
+
+32. egyedi szennyvízkezelő berendezés: olyan vízilétesítmény, amely legfeljebb egy ingatlanon keletkező települési szennyvíz nem közműves, biológiai tisztítását energiabevitel segítségével végzi,

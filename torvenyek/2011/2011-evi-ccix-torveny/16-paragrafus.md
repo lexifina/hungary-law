@@ -8,7 +8,7 @@
 
 (5) A 9. § (2) bekezdés szerinti esetben, a víziközmű-rendszer működtetése körében a tulajdonosi jogok gyakorlása tekintetében, az állami vagyonról szóló törvény rendelkezéseit kell alkalmazni.
 
-(6) Vagyonkezelési, továbbá bérleti-üzemeltetési szerződés kizárólag olyan víziközmű-szolgáltató társasággal jöhet létre:
+(6) Vagyonkezelési, továbbá bérleti-üzemeltetési szerződés kizárólag olyan víziközmű-szolgáltató társasággal (a továbbiakban: szerződött víziközmű-szolgáltató) jöhet létre:
 
 a) amely kizárólag az ellátásért felelős, vagy rajta kívül az állam, települési önkormányzat, vagy ezek közös tulajdonában áll;
 

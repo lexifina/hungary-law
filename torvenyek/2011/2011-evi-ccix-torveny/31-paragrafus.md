@@ -1,1 +1,1 @@
-31. § Bérleti-üzemeltetési szerződés esetében a víziközmű üzemeltetési jogának megszerzése ellenérték fizetéséhez köthető, gyakorlása kizárólag bérleti, vagy használati díj fizetése ellenében folytatható.
+31. § Bérleti-üzemeltetési szerződés esetében a víziközmű üzemeltetési jogának gyakorlása kizárólag használati díj fizetése ellenében folytatható.

@@ -1,0 +1,3 @@
+31/D. § (1) A felhasználó és a szerződött víziközmű-szolgáltató közötti jogviszonyok tekintetében az ideiglenes szolgáltatás időtartama alatt az e törvényben, a végrehajtására kiadott kormányrendeletben és az üzletszabályzatban meghatározott rendelkezéseket megfelelően alkalmazni kell.
+
+(2) Ha jogszabály másként nem rendelkezik vagy a felek eltérő megállapodása hiányában az (1) bekezdés alkalmazásában a szerződött víziközmű-szolgáltató előzetes hozzájárulásával üzembe helyezett bekötéssel rendelkező felhasználó és a szerződött víziközmű-szolgáltató közötti közszolgáltatási szerződés az ideiglenes szolgáltatás tényleges igénybevétele napjától hatályos.

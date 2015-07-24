@@ -4,13 +4,7 @@
 
 (2)
 
-(3) A Hivatal a miniszterrel egyetértésben a jogszabályban rögzített szolgáltatási díjtól eltérő díj alkalmazásához való hozzájárulást adhat a víziközmű-szolgáltató kérelmére abban az esetben, ha a településen beruházás keretében megvalósult, olyan víziközművet helyeznek üzembe, amelynek eredményeként addig nem nyújtott víziközmű-szolgálatatás kerül bevezetésre.
-
-(4) A kérelemben részletesen és teljeskörűen alá kell támasztani, hogy – a 62. § (1) bekezdésében és a (3) bekezdésben foglaltakra figyelemmel – az adott díj megváltoztatását mely körülmények és milyen mértékben indokolják.
-
-(5) A Hivatal a díjemelésre vonatkozó kezdeményezést közigazgatási hatósági eljárás keretében negyvenöt napon belül bírálja el. A Hivatal a kezdeményezésben foglaltaktól eltérően is megállapíthatja a díjemelés mértékét azzal, hogy az a kezdeményezésben megjelölt mértéknél nem lehet magasabb.
-
-(6) A víziközmű-szolgáltató a Hivatal határozatában meghatározott díjat a határozat jogerőre emelkedését követően alkalmazhatja.
+(3)–(6)
 
 (7) A Hivatal a 65. § (2) bekezdése szerinti javaslatát első alkalommal 2014. október 15-ig küldi meg.
 

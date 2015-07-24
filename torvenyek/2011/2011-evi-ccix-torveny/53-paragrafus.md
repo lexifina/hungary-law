@@ -8,7 +8,7 @@ c) a víziközmű-szolgáltató a közszolgáltatási szerződést a (2) bekezd�
 
 (2) A közszolgáltatási szerződést a víziközmű-szolgáltató azonnali hatállyal kizárólag akkor mondhatja fel, ha:
 
-a) annak fenntartása a víziközmű-rendszer teljesítőképességét meghaladó igénybevételt eredményez, kivéve ha ez a víziközmű-szolgáltató beleegyezésével történt,
+a) annak fenntartása a víziközmű-rendszer teljesítőképességét meghaladó igénybevételt eredményez,
 
 b) a felhasználó nem működik együtt a felhasználási hely szabályos kialakítása vagy a fogyasztásmérő berendezés elhelyezése, leolvasása érdekében, víziközmű-szolgáltató a felhasználót az együttműködésre a (3) bekezdésben foglaltak szerint legalább kétszer írásban felszólította, és a második felszólítás sem vezetett eredményre, vagy
 
