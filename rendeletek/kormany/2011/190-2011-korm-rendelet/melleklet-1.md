@@ -1,6 +1,6 @@
-## 43–45. §[^56]
+## 43–45. §[^58]
 
-1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^57]
+1. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^59]
 
 ## Nukleáris anyagok, radioaktív sugárforrások és radioaktív hulladékok kategorizálása
 
@@ -102,5 +102,5 @@ Di – a KHEM rendeletben az i. izotópra vonatkozó izotóp-specifikus normaliz
 
 Si – a radioaktív hulladék aktivitáskoncentrációját, a hulladék szétszóródási képességét, a hulladéktároló edény robusztusságát és a hulladék hozzáférhetőségét figyelembe vevő tényező.
 
-[^56]: A 43–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
+[^58]: A 43–45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
