@@ -1,4 +1,4 @@
-## 14. §[^34] Az 1. § (1) bekezdésében és a 4. § (1) bekezdésében, illetve a 13. § (1) bekezdésében meghatározott intézmények a központosított közbeszerzési díjat közvetlenül fizetik meg. Azon közbeszerzésekre, amelyek megvalósulását az Európai Unióból származó forrásból támogatják, az igénybevevő intézmények díjfizetésre vonatkozó kötelezettsége teljesítésének biztosítására a központi beszerző szervezet a minisztériummal együttműködést alakít ki.
+## 14. §[^35] Az 1. § (1) bekezdésében és a 4. § (1) bekezdésében, illetve a 13. § (1) bekezdésében meghatározott intézmények a központosított közbeszerzési díjat közvetlenül fizetik meg. Azon közbeszerzésekre, amelyek megvalósulását az Európai Unióból származó forrásból támogatják, az igénybevevő intézmények díjfizetésre vonatkozó kötelezettsége teljesítésének biztosítására a központi beszerző szervezet a minisztériummal együttműködést alakít ki.
 
 ## A központi beszerzési rendszerhez történő kapcsolódás
 
@@ -6,4 +6,4 @@
 
 (2) Az intézmények a központosított közbeszerzési rendszer használata folyamán végig, de különösen az igénybejelentések és a megrendelések teljesítése kapcsán kötelesek adatszolgáltatási és egyéb kötelezettségeiket határidőben teljesíteni, annak érdekében, hogy a központosított közbeszerzési rendszer működtetésével elérni kívánt gazdasági célok megvalósuljanak.
 
-[^34]: A 14. § a 238/2013. (VI. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 267. § c) pontja szerint módosított szöveg.
+[^35]: A 14. § a 238/2013. (VI. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 267. § c) pontja szerint módosított szöveg.
