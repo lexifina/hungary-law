@@ -50,7 +50,7 @@
 
 | 6.4. | Ha a nukleáris létesítmény telepítése, létesítése termőföldön valósul meg. | Termőföld mennyiségi védelme követelményeinek kérdésében. | létesítési engedély | földügyért felelős miniszter |
 
-2. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^21]
+2. melléklet a 112/2011. (VII. 4.) Korm. rendelethez[^22]
 
 Az OAH radioaktívhulladék-tárolókhoz kapcsolódó hatósági eljárásaiban közreműködő szakhatóságok
 
@@ -94,4 +94,4 @@ Az OAH radioaktívhulladék-tárolókhoz kapcsolódó hatósági eljárásaiban 
 
 | 19. | Radioaktívhulladék-tároló létesítmény telepítése, létesítése termőföldön. | Termőföld mennyiségi védelme követelményeinek kérdésében. | telepítési engedély | ingatlanügyi hatáskörben eljáró járási (fővárosi kerületi) hivatal; több, ingatlanügyi hatáskörben eljáró járási hivatal illetékességi területét érintő esetben az ingatlanügyi hatáskörben eljáró fővárosi és megyei kormányhivatal |
 
-[^21]: A 2. mellékletet a 156/2014. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 33. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 175. § (3)–(5) bekezdése szerint módosított szöveg.
+[^22]: A 2. mellékletet a 156/2014. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 311/2014. (XII. 11.) Korm. rendelet 33. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 175. § (3)–(5) bekezdése szerint módosított szöveg.

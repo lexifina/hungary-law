@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-112-20-
 | 2014-06-30 | 2011-112-20-22.12 | 156/2014. (VI. 30.) Korm. rendelet |
 | 2015-01-11 | 2011-112-20-22.13 | 190/2011. (IX. 19.) Korm. rendelet |
 | 2015-04-01 | 2011-112-20-22.14 | 190/2011. (IX. 19.) Korm. rendelet |
+| 2015-07-24 | 2011-112-20-22.15 | 207/2015. (VII. 23.) Korm. rendelet |
