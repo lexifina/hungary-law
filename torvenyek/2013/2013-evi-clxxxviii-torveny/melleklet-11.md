@@ -91,11 +91,3 @@ Hulladékgazdálkodási közszolgáltatás
 4.4. Egyéb: feltüntetése csak abban az esetben szükséges, ha a felhasználó támogatásban részesült, vagy túlfizetett, vagy bármilyen egyéb, a fizetendő összeget befolyásoló tétel felmerült (pl. kamat, tartozás). A számlán konkrétan fel kell tüntetni azt a jogcímet, ami alapján a tétel feltüntetésre került, több ilyen tétel esetén azokat külön sorokban kell szerepeltetni.
 
 4.5 Edénybérleti díj: amennyiben a kiállított számla vonatkozásában értelmezhető.
-
-4.6. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása ebben az elszámolt időszakban: a hatályos árképzésből eredő megtakarítás a 2013. június 30-án hatályos árképzéshez képest (a 2013. július 1-jét követően elszámolt összes díj a 2013. június 30-án hatályos árképzése alapján számított ellenértékének bruttó értéke és a 2013. július 1-jét követő fogyasztás alapján fizetendő összeg bruttó értékének összesített különbsége összegszerűen feltüntetve). Társasház vagy lakásszövetkezet esetében a megtakarítás összegét a hulladékról szóló törvény 91. § (3) bekezdésében foglalt tájékoztatási kötelezettség teljesítésére figyelemmel kell meghatározni.
-
-4.7. A rezsidíj csökkentésének eredményeképpen az Ön megtakarítása 2013. július 1-je óta összesen: 2013. július 1-jét követően a 4.6. pont alapján számított megtakarítások összesen.
-
-4.8. Tétel megnevezése a harmadik oldalon: Az egyes tételekhez kapcsolódó sorokban nem szükséges az összes oszlophoz tartozó cellát kitölteni, csak amely értelemszerűen alkalmazható.
-
-4.9. Teljesítés kelte: Az általános forgalmi adóról szóló törvény rendelkezései alapján nem kell feltüntetni, ha az megegyezik a számla kibocsátásának keltével.
