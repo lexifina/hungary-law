@@ -1,6 +1,6 @@
-## 42–43. §[^70]
+## 42–43. §[^74]
 
-1. melléklet a 118/2011. (VII. 11.) Korm. rendelethez[^71]
+1. melléklet a 118/2011. (VII. 11.) Korm. rendelethez[^75]
 
-[^70]: A 42–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^71]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^74]: A 42–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: Az 1. melléklet a 37/2012. (III. 9.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
