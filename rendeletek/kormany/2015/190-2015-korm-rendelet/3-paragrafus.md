@@ -1,7 +1,3 @@
-## „(6) Az intézmény vezetője a gyermekétkeztetés normatív kedvezményeiről és azok igénybevételének módjáról tájékoztatja a kötelezettet
+## 2. §[^2]
 
-## a) a beíratáskor,
-
-## b) az ellátás igénybevételének megkezdésekor, és
-
-## c) a normatív kedvezmények megváltozásakor.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
