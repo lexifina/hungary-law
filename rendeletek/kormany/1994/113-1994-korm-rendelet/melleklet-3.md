@@ -48,6 +48,6 @@
 
 ## jegyző aláírása
 
-3. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^46]
+3. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^47]
 
-[^46]: Az R. 3. számú melléklete a 213/2007. (VIII. 7.) Korm. rendelet 18. § c) pontjának cg)–ch) alpontja, az 58/2008. (III. 26.) Korm. rendelet 5. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 332/2010. (XII. 27.) Korm. rendelet 4. § c) és g)–h) pontja, a 95/2012. (V. 15.) Korm. rendelet 26. § (3) bekezdés c)–e) pontja, a 174/2012. (VII. 26.) Korm. rendelet 5. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 12. § (3) bekezdés h)–j) pontja szerint módosított szöveg.
+[^47]: Az R. 3. számú melléklete a 213/2007. (VIII. 7.) Korm. rendelet 18. § c) pontjának cg)–ch) alpontja, az 58/2008. (III. 26.) Korm. rendelet 5. § (4) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 332/2010. (XII. 27.) Korm. rendelet 4. § c) és g)–h) pontja, a 95/2012. (V. 15.) Korm. rendelet 26. § (3) bekezdés c)–e) pontja, a 174/2012. (VII. 26.) Korm. rendelet 5. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 12. § (3) bekezdés h)–j) pontja szerint módosított szöveg.

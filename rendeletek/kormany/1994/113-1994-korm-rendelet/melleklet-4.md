@@ -70,7 +70,7 @@
 
 ## (fővárosi és megyei kormányhivatal vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője)
 
-4. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^47]
+4. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^48]
 
 …………………… JÁRÁSI HIVATALNAK
 
@@ -100,4 +100,4 @@ Minden újonnan hadigondozásba vett személy esetén kitöltendő!
 
 * A nem kívánt szövegrész törlendő!
 
-[^47]: Az R. 4. számú melléklete a 174/2012. (VII. 26.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
+[^48]: Az R. 4. számú melléklete a 174/2012. (VII. 26.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
