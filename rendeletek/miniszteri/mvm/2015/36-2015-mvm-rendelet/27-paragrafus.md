@@ -1,1 +1,3 @@
-27. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok alkalmazottainak lakás célú munkáltatói támogatásáról szóló 2/1995. (XII. 12.) TNM rendelet, valamint a polgári nemzetbiztonsági szolgálatok alkalmazottainak lakás célú munkáltatói támogatásáról szóló 2/1995. (XII. 12.) TNM rendelet módosításáról szóló 1/2010. (I. 14.) PTNM rendelet.
+27. §[^1]
+
+[^1]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
