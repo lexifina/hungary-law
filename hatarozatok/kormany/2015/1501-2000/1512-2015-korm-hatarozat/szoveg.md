@@ -88,12 +88,6 @@ Határidő: folyamatos
 
 9. Ez a határozat a közzétételét követő napon lép hatályba.
 
-10. Hatályát veszti a „Nemzeti Közszolgálati Egyetem elhelyezése a Ludovika Campusban” elnevezésű állami beruházás egyes kérdéseiről szóló 1158/2012. (V. 18.) Korm. határozat 4–15. pontja.
+10–11.[^1]
 
-11. A Kormány visszavonja
-
-a) az európai uniós fejlesztési források biztosításáról a Nemzeti Közszolgálati Egyetem elhelyezése a Ludovika Campusban állami beruházás megvalósításához és egyéb kapcsolódó feladatokról szóló 1642/2012. (XII. 19.) Korm. határozatot;
-
-b) a Nemzeti Közszolgálati Egyetem–Ludovika Campus elnevezésű állami beruházás megvalósításához időarányosan szükséges beruházási források biztosításáról szóló 1186/2013. (IV. 9.) Korm. határozatot;
-
-c) a „Nemzeti Közszolgálati Egyetem elhelyezése a Ludovika Campusban” elnevezésű állami beruházás 2014–2020 közötti forrásának indikatív tervezéséről szóló 1297/2013. (V. 30.) Korm. határozatot.
+[^1]: A 10–11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
