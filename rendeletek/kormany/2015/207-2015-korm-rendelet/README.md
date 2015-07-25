@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-207-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-07-24 | 2015-207-20-22.1 | 207/2015. (VII. 23.) Korm. rendelet |
+| 2015-07-25 | 2015-207-20-22.2 | 2010: CXXX. törvény |
