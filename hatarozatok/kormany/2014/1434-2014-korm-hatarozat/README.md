@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1434-30
 | --- | --- | --- |
 | 2014-07-31 | 2014-1434-30-22.1 | 1434/2014. (VII. 31.) Korm. határozat |
 | 2015-02-15 | 2014-1434-30-22.2 | 1048/2015. (II. 11.) Korm. határozat |
+| 2015-07-27 | 2014-1434-30-22.3 | 1520/2015. (VII. 27.) Korm. határozat |

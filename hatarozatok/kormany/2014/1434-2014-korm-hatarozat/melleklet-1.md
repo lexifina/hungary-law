@@ -1,4 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Budai Várban található Karmelita kolostor átépítésével összefüggő beruházás megvalósítása érdekében szükségessé váló tervezési-, illetve mérnök-lebonyolító és mérnök tanácsadó, valamint műszaki ellenőr kiválasztása céljából lefolytatásra kerülő közbeszerzési eljárások fedezetének biztosítására 756,2 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím javára az 1. melléklet szerint;
+## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Budai Várban található Karmelita kolostor átépítésével összefüggő beruházás megvalósítása érdekében szükségessé váló tervezési-, illetve mérnök-lebonyolító és mérnök tanácsadó, valamint műszaki ellenőr kiválasztása céljából lefolytatásra kerülő közbeszerzési eljárások fedezetének biztosítására 756,2 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím javára az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,9 +10,9 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2016. június 30.
 
-## 2.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzetgazdasági miniszter bevonásával gondoskodjon arról, hogy Magyarország 2015. és 2016. évi központi költségvetésében a Budai Várban található Karmelita kolostor átépítésével összefüggő beruházás tervezési-, illetve mérnök-lebonyolító és mérnök tanácsadó, valamint műszaki ellenőri feladatokra összesen 704,3 millió forint összegű forrás rendelkezésére álljon úgy, hogy abból a beruházás céljaira a 2015. évben 585,4 millió forint, a 2016. évben pedig 118,9 millió forint felhasználható legyen.
+## 2.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzetgazdasági miniszter bevonásával gondoskodjon arról, hogy Magyarország 2015. és 2016. évi központi költségvetésében a Budai Várban található Karmelita kolostor átépítésével összefüggő beruházás tervezési-, illetve mérnök-lebonyolító és mérnök tanácsadó, valamint műszaki ellenőri feladatokra összesen 704,3 millió forint összegű forrás rendelkezésére álljon úgy, hogy abból a beruházás céljaira a 2015. évben 585,4 millió forint, a 2016. évben pedig 118,9 millió forint felhasználható legyen.
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
@@ -82,4 +82,5 @@ Költségvetési év: 2014.
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1048/2015. (II. 11.) Korm. határozat 6. pontja és 7. pont d) alpontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1520/2015. (VII. 27.) Korm. határozat 17. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1048/2015. (II. 11.) Korm. határozat 6. pontja és 7. pont d) alpontja szerint módosított szöveg.
