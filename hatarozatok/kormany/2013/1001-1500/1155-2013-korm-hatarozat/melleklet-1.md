@@ -1,4 +1,4 @@
-## 1.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében a Kozma utcai zsidó temető felújítására, a Farkasréti zsidó temető hősi parcellájának felújítására és kiadvány elkészítésére 200,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 1. Honvédelmi Minisztérium cím, 3. HM Fegyverzeti és Hadbiztosi Hivatal alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére.
+## 1.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében a Kozma utcai zsidó temető felújítására, a Farkasréti zsidó temető hősi parcellájának felújítására és kiadvány elkészítésére 200,0 millió forint 1. melléklet szerinti egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény (a továbbiakban: Kvtv.) 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 1. Honvédelmi Minisztérium cím, 3. HM Fegyverzeti és Hadbiztosi Hivatal alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Rendkívüli kormányzati intézkedések cím terhére.
 
 ## Az átcsoportosítás tekintetében:
 
@@ -10,7 +10,7 @@
 
 ## Felelős: honvédelmi miniszter
 
-## Határidő: 2014. december 31.
+## Határidő: 2015. október 31.
 
 ## 2. egyetért azzal, hogy az 1. pontban foglalt feladat végrehajtása tekintetében a szakmai felügyeletet – a honvédelmi miniszterrel együttműködve – a Nemzeti Emlékhely és Kegyeleti Bizottság lássa el.
 
@@ -100,4 +100,4 @@ Költségvetési év: 2013.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: Az 1. pont az 1053/2014. (II. 11.) Korm. határozat 1–2. pontja szerint módosított szöveg.
+[^2]: Az 1. pont az 1053/2014. (II. 11.) Korm. határozat 1. pontja, az 1520/2015. (VII. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
