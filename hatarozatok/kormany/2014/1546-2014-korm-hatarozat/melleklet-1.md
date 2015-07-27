@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2016. június 30.[^1]
 
 1. melléklet az 1546/2014. (IX. 29.) Korm. határozathoz
 
@@ -63,3 +63,5 @@
 | Nemzetgazdasági Minisztérium | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1520/2015. (VII. 27.) Korm. határozat 21. pontja szerint módosított szöveg.
