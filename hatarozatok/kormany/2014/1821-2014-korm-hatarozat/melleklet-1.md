@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. december 31.[^1]
 
 1. melléklet az 1821/2014. (XII. 19.) Korm. határozathoz
 
@@ -65,3 +65,5 @@
 | Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 60,0 |  |  |  |  |  |  |  |  |  |  |  | 60,0 |
 
 | Nemzetgazdasági Minisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1520/2015. (VII. 27.) Korm. határozat 32. pontja szerint módosított szöveg.
