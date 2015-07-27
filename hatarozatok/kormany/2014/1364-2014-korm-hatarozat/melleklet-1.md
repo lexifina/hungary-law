@@ -4,7 +4,7 @@
 
 ## Határidő: 2014. december 31.
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Beruházás megvalósításához szükséges 127,0 millió forint átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Nemzeti Örökség Intézete cím javára az 1. melléklet szerint;
+## 2.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva a Beruházás megvalósításához szükséges 127,0 millió forint átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Nemzeti Örökség Intézete cím javára az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -16,7 +16,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. augusztus 31.
 
 ## 3. felhívja a Miniszterelnökséget vezető minisztert, hogy az Intézet útján, a megfelelő tudományos intézmények bevonásával tegye meg a szükséges intézkedéseket a Mauzóleumban elhelyezett Széchényi Pál holttestének antropológiai, illetve minden egyéb szükséges tudományos vizsgálata, a Széchényi-család további nagycenki sírjainak állapotfelmérése, és a szükséges intézkedési terv elkészítése iránt, továbbá az intézkedési tervről és annak megvalósításához szükséges forrásokról szóló előterjesztést terjessze a Kormány elé;
 
@@ -83,3 +83,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1520/2015. (VII. 27.) Korm. határozat 14. pontja szerint módosított szöveg.
