@@ -24,7 +24,7 @@
 
 ## Felelős: földművelésügyi miniszter, honvédelmi miniszter, külgazdasági és külügyminiszter, nemzetpolitikáért felelős miniszterelnök-helyettes a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30., a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
+## Határidő: 2015. június 30., a Földművelésügyi Minisztérium részére átcsoportosított összeg tekintetében 2016. január 31., a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1968/2013. (XII. 17.) Korm. határozatban (a továbbiakban: Határozat1.) foglaltaktól eltérően a geszti Arany János Általános Iskola elhelyezését biztosító új iskolaépület építése céljából átcsoportosított 516,0 millió forint elszámolási és visszatérítési határideje a Határozat1.-ben foglaltaktól eltérően 2015. június 30.
 
@@ -180,6 +180,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont záró szövegrésze az 1354/2015. (VI. 2.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: Az 1. pont záró szövegrésze az 1520/2015. (VII. 27.) Korm. határozat 24. pontja szerint módosított szöveg.
 [^2]: A 4–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
