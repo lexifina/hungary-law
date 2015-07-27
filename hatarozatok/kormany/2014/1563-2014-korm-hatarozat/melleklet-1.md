@@ -16,7 +16,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, nemzetpolitikáért felelős miniszterelnök-helyettes, honvédelmi miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos, a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30., a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
+## Határidő: 2015. június 30., a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 56. Holokauszt emlékévvel kapcsolatos kiemelt projektek támogatása jogcímcsoport, a 2. Fejezeti általános tartalék alcím és a 20. Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ cím részére átcsoportosított összeg tekintetében 2015. december 31., a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
 
 ## 3. A Kormány a Kvtv. 37. § (5) bekezdésében biztosított jogkörében eljárva 11 801 ezer forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet I. Országgyűlés fejezet, 9. Pártalapítványok támogatása címen belül, a 3. melléklet szerint.
 
@@ -40,7 +40,7 @@
 
 1. melléklet az 1563/2014. (X. 2.) Korm. határozathoz
 
-[^1]: A 2. pont az 1354/2015. (VI. 2.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1520/2015. (VII. 27.) Korm. határozat 22. pontja szerint módosított szöveg.
 [^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 7–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
