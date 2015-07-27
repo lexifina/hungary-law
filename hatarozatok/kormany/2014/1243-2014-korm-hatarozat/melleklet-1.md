@@ -10,9 +10,11 @@
 
 ## Felelős: Miniszterelnökséget vezető államtitkár
 
-## Határidő: 2015. június 30.[^1]
+## Határidő: 2016. június 30.
 
 1. melléklet az 1243/2014. (IV. 10.) Korm. határozathoz
+
+4K05395_0
 
 | XI. Miniszterelnökség ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2014. Millió forintban, egy tizedessel |
 
@@ -65,5 +67,3 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: Az 1812/2014. (XII. 19.) Korm. határozat 20. pontja szerint módosított szöveg.
