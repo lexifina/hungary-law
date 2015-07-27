@@ -1,4 +1,4 @@
-## 1. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva 2614,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
+## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva 2614,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -16,7 +16,7 @@
 
 ## az Országos Bírósági Hivatal elnöke
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. június 30., a Nemzeti Táncszínház új játszóhelye kialakításának támogatása jogcímcsoport javára átcsoportosított 150,0 millió forint tekintetében 2016. június 30.
 
 ## 2. A Kormány a 2013. évi kötelezettségvállalással terhelt, azonban meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terheltté vált költségvetési maradványokból
 
@@ -42,7 +42,7 @@
 
 ## 5. A Kormány egyetért azzal, hogy a Zágrábi Magyar Intézet alapítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1615/2012. (XII. 18.) Korm. határozat (a továbbiakban: Határozat1.) végrehajtása során a Határozat1. 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 12. Balassi Intézet cím javára átcsoportosított 1200,0 millió forintból 240,0 millió forint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím terhére kerüljön felhasználásra és elszámolásra 2015. március 31-i elszámolási, és visszafizetési kötelezettség teljesítésére vonatkozó határidővel.
 
-## 6–7.[^1]
+## 6–7.[^2]
 
 ## 8. A Kormány egyetért azzal, hogy a Liszt Ferenc Zeneművészeti Egyetem kiemelt kategóriájú koncertjeinek szervezése, a Concerto Akadémia Nonprofit Korlátolt Felelősségű Társaság támogatása, továbbá a magyar komolyzenei koncepció kidolgozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1193/2014. (III. 28.) Korm. határozat (a továbbiakban: Határozat2.) végrehajtása során a Határozat2. 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 4. Művészeti tevékenységek és egyéb fejezeti feladatok támogatása jogcímcsoport javára átcsoportosított 900,0 millió forintból 163,9 millió forint a K1. Személyi juttatások kiemelt előirányzat, 44,3 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat, 441,8 millió forint a K3. Dologi kiadások kiemelt előirányzat, 250,0 millió forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -50,9 +50,10 @@
 
 ## 10. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2013. évi kötelezettségvállalással terhelt költségvetési maradványok rendkívüli visszahagyásáról és egyes kormányhatározatok módosításáról szóló 1426/2014. (VII. 28.) Korm. határozat (a továbbiakban: Határozat4.) végrehajtása során a Határozat4. 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – az I. Országgyűlés fejezet, 24. Nemzeti Választási Iroda cím, 1. Nemzeti Választási Iroda alcím javára átcsoportosított 7000,0 millió forint az I. Országgyűlés fejezet, 24. Nemzeti Választási Iroda cím, 2. Fejezeti kezelésű előirányzatok alcím, 2. A 2014. évi választások előkészítése jogcímcsoport terhére kerüljön felhasználásra és elszámolásra.
 
-## 11.[^2]
+## 11.[^3]
 
 1. melléklet az 1457/2014. (VIII. 14.) Korm. határozathoz
 
-[^1]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1520/2015. (VII. 27.) Korm. határozat 18. pontja szerint módosított szöveg.
+[^2]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
