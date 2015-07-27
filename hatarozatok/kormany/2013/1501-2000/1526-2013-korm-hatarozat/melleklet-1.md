@@ -24,7 +24,7 @@
 
 ## nemzeti fejlesztési miniszter
 
-## Határidő: az a) alpont tekintetében 2015. június 30., a b) alpont tekintetében 2014. október 31., a c) alpont tekintetében 2015. június 30., a d) alpont tekintetében 2013. december 31.
+## Határidő: az a) alpont tekintetében 2016. június 30., a b) alpont tekintetében 2014. október 31., a c) alpont tekintetében 2015. június 30., a d) alpont tekintetében 2013. december 31.
 
 ## 3.[^2] a 2. pont szerinti költségvetési forrásból:
 
@@ -238,5 +238,5 @@ Költségvetési év: 2013.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: A 2. pont az 1547/2014. (IX. 29.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1547/2014. (IX. 29.) Korm. határozat 6. pontja, az 1520/2015. (VII. 27.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: A 3. pont az 1547/2014. (IX. 29.) Korm. rendelet 7. pontjával megállapított szöveg.
