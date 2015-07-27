@@ -52,7 +52,7 @@
 
 ## Felelős: vidékfejlesztési miniszter
 
-## Határidő: 2015. április 30.
+## Határidő: 2015. december 31.
 
 1. melléklet az 1817/2013. (XI. 14.) Korm. határozathoz
 
@@ -61,4 +61,4 @@ XVII. Nemzeti Fejlesztési Minisztérium
 XI. Miniszterelnökség
 
 [^1]: Az 1. pont az 1721/2014. (XII. 5.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^2]: Az 5. pont az 1563/2014. (X. 2.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1520/2015. (VII. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
