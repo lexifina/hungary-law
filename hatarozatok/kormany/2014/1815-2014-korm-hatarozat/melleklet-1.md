@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. szeptember 30.[^1]
 
 1. melléklet az 1815/2014. (XII. 19.) Korm. határozathoz
 
@@ -73,3 +73,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1520/2015. (VII. 27.) Korm. határozat 29. pontja szerint módosított szöveg.
