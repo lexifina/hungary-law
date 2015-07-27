@@ -8,7 +8,7 @@
 
 ## Határidő: azonnal
 
-## 3. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva a német–magyar barátság évéhez kapcsolódó programsorozat lebonyolítása érdekében 700,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 61. Német–magyar barátság évéhez kapcsolódó programsorozat jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
+## 3.[^1] az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva a német–magyar barátság évéhez kapcsolódó programsorozat lebonyolítása érdekében 700,0 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 61. Német–magyar barátság évéhez kapcsolódó programsorozat jogcímcsoport javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -20,7 +20,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. december 31.
 
 ## 4. felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy gondoskodjanak a német–magyar barátság évéhez kapcsolódó programsorozat végrehajtásához 2015. évben szükséges 800,0 millió forintnak a Miniszterelnökség fejezetben történő rendelkezésre állásáról.
 
@@ -93,3 +93,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont az 1520/2015. (VII. 27.) Korm. határozat 23. pontja szerint módosított szöveg.
