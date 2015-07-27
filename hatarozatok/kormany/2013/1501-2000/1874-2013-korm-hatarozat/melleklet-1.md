@@ -26,8 +26,8 @@
 
 ## Felelős: vidékfejlesztési miniszter
 
-## Határidő: 2015. április 30.
+## Határidő: 2015. december 31.
 
 1. melléklet az 1874/2013. (XI. 28.) Korm. határozathoz
 
-[^1]: A 3. pont az 1563/2014. (X. 2.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1520/2015. (VII. 27.) Korm. határozat 8. pontja szerint módosított szöveg.
