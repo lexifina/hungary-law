@@ -10,8 +10,10 @@
 
 (6) Ha a központi hivatalt a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter irányítja, az (5) bekezdést nem kell alkalmazni.
 
-(7) A központi hivatal vezetője – ha törvény vagy kormányrendelet eltérően nem rendelkezik – államtitkári illetményre és juttatásokra jogosult.
+(7) A központi hivatal vezetője – ha törvény vagy kormányrendelet eltérően nem rendelkezik – államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosult.
 
 (8) A központi hivatal vezetőjének helyettese – ha törvény vagy kormányrendelet eltérően nem rendelkezik – helyettes államtitkári illetményre jogosult.
+
+(8a) A központi hivatal vezetője és a központi hivatal vezetőjének helyettese kormányzati szolgálati jogviszonyban áll. Törvény vagy kormányrendelet eltérő rendelkezése hiányában a központi hivatal vezetője és a központi hivatal vezetőjének helyettese jogviszonyára a közszolgálati tisztviselőkről szóló törvény vezetői munkakört betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
 
 (9) A központi hivatalra – ha jogszabály eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.

@@ -10,7 +10,7 @@
 
 (5) A miniszteri biztos megbízatása meghatározott időre, de legfeljebb hat hónapra szól. A miniszteri biztos e megbízatása visszavonással vagy az őt kinevező miniszter hatáskörgyakorlása megszűnésével is megszűnik.
 
-(6) A miniszteri biztos legfeljebb helyettes államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
+(6) A miniszteri biztos helyettes államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
 (7) A miniszteri biztosra a 33. § (1) bekezdését alkalmazni kell.
 

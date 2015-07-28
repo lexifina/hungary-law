@@ -2,4 +2,4 @@
 
 (2) E törvényben nem szereplő megbízatás kormányzati feladatok teljesítésére nem adható.
 
-(3) A (2) bekezdésben meghatározott tilalom nem akadálya annak, hogy a miniszterelnök diplomáciai, személyes tanácsadói vagy egyéb eseti jellegű feladat miniszterelnöki megbízottként történő ellátására megbízást adjon. A megbízás díjazásaként legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint az államtitkári juttatások köthetők ki.
+(3) A (2) bekezdésben meghatározott tilalom nem akadálya annak, hogy a miniszterelnök diplomáciai, személyes tanácsadói vagy egyéb eseti jellegű feladat miniszterelnöki megbízottként történő ellátására megbízást adjon. A megbízás díjazásaként a miniszterelnöki megbízott részére legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki.

@@ -16,10 +16,12 @@
 
 (9) Ha a kormányhivatal felügyeletét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el, a (8) bekezdést nem kell alkalmazni.
 
-(10) A kormányhivatal vezetője – ha törvény eltérően nem rendelkezik – államtitkári illetményre és juttatásokra jogosult.
+(10) A kormányhivatal vezetője – ha törvény eltérően nem rendelkezik – államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosult.
 
 (11) A kormányhivatal vezetőjének helyettese – ha törvény eltérően nem rendelkezik – helyettes államtitkári illetményre jogosult.
 
-(12) Ha a kormányhivatalt testület vezeti, és törvény eltérően nem rendelkezik, a testület elnöke államtitkári illetményre és juttatásokra, a testület tagjai helyettes államtitkári illetményre jogosultak.
+(11a) A kormányhivatal vezetője és a kormányhivatal vezetőjének helyettese kormányzati szolgálati jogviszonyban áll. Törvény eltérő rendelkezése hiányában a kormányhivatal vezetője és a kormányhivatal vezetőjének helyettese jogviszonyára a közszolgálati tisztviselőkről szóló törvény vezetői munkakört betöltő kormánytisztviselőjére vonatkozó szabályokat kell alkalmazni.
+
+(12) Ha a kormányhivatalt testület vezeti, és törvény eltérően nem rendelkezik, a testület elnöke államtitkári illetményre és kormányrendeletben meghatározott juttatásokra, a testület tagjai helyettes államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosultak.
 
 (13) A kormányhivatalra – ha törvény eltérően nem rendelkezik – a 63–68. §-t kell alkalmazni.

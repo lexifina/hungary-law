@@ -4,7 +4,7 @@
 
 ## Felhatalmazó rendelkezések
 
-75. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a miniszter, az államtitkár, a kormánybiztos, a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos és a miniszterelnöki biztos juttatásait.
+75. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányhivatal vezetője és a központi hivatal vezetője juttatásait.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a minisztériumokban működő államtitkárok, helyettes államtitkárok és állami vezetői megbízással nem rendelkező kormánybiztosok, miniszteri biztosok számát.
 

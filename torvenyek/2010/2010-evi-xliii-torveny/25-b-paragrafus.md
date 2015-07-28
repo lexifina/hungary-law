@@ -12,9 +12,9 @@ e) hivatalos külföldi kiküldetése idején kíséretre, az állami vezetők t
 
 f) külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára,
 
-g) – a szolgáltatást nyújtó egészségügyi intézmény és a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére, és
+g) – a szolgáltatást nyújtó egészségügyi intézmény és a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére
 
-h) – a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját magában foglaló térítési díj ellenében – a Kormány központi üdülőjének használatára
+h)
 
 jogosult.
 
@@ -22,4 +22,4 @@ jogosult.
 
 (3) Ha az (1) bekezdés e) pontja szerinti külföldre utazás menetrendszerű repülőgéppel vagy vonattal történik, a miniszterelnök első osztályt vagy ennek megfelelő utazási komfortfokozatot vehet igénybe. Az ezen juttatások és szolgáltatások biztosításával kapcsolatos feladatokat a kormányzati tevékenység összehangolásáért felelős miniszter látja el.
 
-(4) Az (1) bekezdés h) pontja szerinti jogosultság megilleti a miniszterelnökkel együtt üdülő családtagját, gyermekének házastársát, szülőjét és unokáját is.
+(4)
