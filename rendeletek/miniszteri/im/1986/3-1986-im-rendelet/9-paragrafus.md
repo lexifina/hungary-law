@@ -6,7 +6,7 @@
 
 (3) Ha a bíróság a szakértői díj egészben vagy részben való előlegezésére a felet kötelezte és annak összegét előzetesen elnöki letétbe helyeztette, a szakértői díjat és költségelőleget az eljáró bíróság székhelye szerint illetékes bírósági gazdasági hivatal (a továbbiakban: BGH) fizeti ki a szakértőnek.
 
-(4) Ha a szakértői díj fedezésére elnöki letét nem volt, vagy a letétbe helyezett összeg kevésnek bizonyult, a szakértői díj megállapítására vonatkozó határozatban a felet fel kell hívni, hogy a szakértői díjat, illetőleg az elnöki letétből nem fedezett különbözetet 15 napon belül helyezze elnöki letétbe. A letétbe helyezett összeg kifizetésére a (2) és (3), valamint a (9) bekezdésben foglalt rendelkezéseket kell alkalmazni. Ha a fél a letétbe helyezést elmulasztja, a bíróság végzésben kötelezi a felet a szakértői díj letéttel nem fedezett részének a szakértő részére történő megfizetésére.
+(4)[^36] Ha a szakértői díj fedezésére elnöki letét nem volt, vagy a letétbe helyezett összeg kevésnek bizonyult, a szakértői díj megállapítására vonatkozó határozatban a felet fel kell hívni, hogy a szakértői díjat, illetőleg az elnöki letétből nem fedezett különbözetet 15 napon belül helyezze elnöki letétbe. A letétbe helyezett összeg kifizetésére a (2)–(3) és (9)–(9a) bekezdésben foglalt rendelkezéseket kell alkalmazni. Ha a fél a letétbe helyezést elmulasztja, a bíróság végzésben kötelezi a felet a szakértői díj letéttel nem fedezett részének a szakértő részére történő megfizetésére.
 
 (5) Ha a szakértői díjra előzetesen letétbe helyezett vagy bizalmi őrzésbe vett összeg a szakértői díjat előreláthatóan nem fedezi, a szakértő köteles a kirendelésről való tudomásszerzéstől számított 8 napon belül ezt – a rendelkezésére álló adatok alapján megítélése szerint hiányzó összeg és az annak megalapozottságát alátámasztó számítások megjelölésével együtt – a kirendelő szerv felé haladéktalanul jelezni. Több szakértő egyidejű kirendelése esetén e jelzést a szakértőknek együttesen kell megtenniük.
 
@@ -18,6 +18,10 @@
 
 (9) A bíróság a szakértői díjról szóló jogerős határozatot vagy utalványt – kifizetés céljából – a díjjegyzék egy példányával együtt 8 napon belül megküldi az illetékes BGH-nak, amely 3 munkanapon belül felhívja a szakértőt a számla benyújtására. A BGH a megállapított szakértői díjat (költségelőleg fizetése esetén a szakértői díj kifizetett költségelőleggel csökkentett összegét) a számla benyújtásától számított 8 munkanapon belül kiutalja. Ha a szakértő a díjat 30 napon belül nem veszi át, részére azt postán kell megküldeni a postaköltségek levonásával.
 
+(9a)[^37] Ha a szakértőt bíróság rendeli ki, számla kibocsátására köteles szakértő a számlát a kirendelő bíróság székhelye szerinti törvényszék nevére és címére állítja ki, függetlenül attól, hogy a szakértői költséget az állam vagy a fél előlegezte.
+
 (10) Más kirendelő hatóság – a saját szervezetére és működésére vonatkozó szabályok figyelembe vételével – a költségelőleg megállapításáról és kiutalásáról a Szaktv. és a (8) bekezdés rendelkezéseinek megfelelő módon és határidőben, a szakvélemény díjának megállapításáról és kiutalásáról pedig a (9) bekezdés rendelkezéseinek megfelelően 30 napon belül rendelkezik.
 
 [^35]: A 9. § a 31/2012. (VI. 29.) KIM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^36]: A 9. § (4) bekezdése a 13/2015. (VII. 27.) IM rendelet 4. §-a szerint módosított szöveg.
+[^37]: A 9. § (9a) bekezdését a 13/2015. (VII. 27.) IM rendelet 1. §-a iktatta be.
