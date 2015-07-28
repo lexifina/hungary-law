@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-124-20-
 | 2011-01-01 | 2005-124-20-0L.11 | 95/2006. (XII. 27.) GKM rendelet |
 | 2012-01-01 | 2005-124-20-0L.12 | 95/2006. (XII. 27.) GKM rendelet |
 | 2014-03-15 | 2005-124-20-0L.13 | 12/2014. (III. 14.) NFM rendelet |
+| 2015-07-28 | 2005-124-20-0L.14 | 44/2015. (VII. 20.) NFM rendelet |

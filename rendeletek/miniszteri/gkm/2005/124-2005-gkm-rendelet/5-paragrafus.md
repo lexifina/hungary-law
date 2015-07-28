@@ -1,31 +1,72 @@
-## A tachográfok beépítésére és vizsgálatára vonatkozó követelmények
+## A tachográfok szerelésére és vizsgálatára vonatkozó követelmények[^18]
 
-5. § (1)[^14] Az 561/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó járműbe tachográfot a külön jogszabályban meghatározott feltételeknek megfelelő, a tachográf kategóriájára vonatkozóan a közlekedési hatóságnál bejelentett gépjárműfenntartó szervezet (a továbbiakban: tachográf műhely), továbbá új, még használatba nem vett jármű esetében a jármű, illetőleg a tachográf gyártója építhet be.
+5. §[^19] (1) Az 561/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó járműbe tachográfot
 
-(2) A digitális tachográf illesztését, ellenőrzését és a digitális tachográf által tárolt adatok letöltését és kezelését a digitális tachográf műhely a digitális tachográf gyártmányára és típusára vonatkozó korlátozás nélkül végezheti, amennyiben a tachográf típusa tekintetében a szükséges eszközök a rendelkezésére állnak.
+a) a gépjármű-fenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben meghatározott feltételeknek megfelelő, a tachográf működési elvére vonatkozóan a közlekedési hatóságnál bejelentett és a tachográf készülék szerelésére e rendelet alapján a közlekedési hatóság által kiadott engedéllyel rendelkező tachográf műhely és
 
-(3)[^15] A (2) bekezdésben meghatározott tevékenységeket a digitális tachográf műhelyben olyan személy végezheti, akit a digitális tachográfok illesztéséhez, ellenőrzéséhez és adatkezeléséhez szükséges ismeretekre – a közlekedési hatóság által jóváhagyott tematika alapján – kiképeztek és személyre szóló műhelykártyával rendelkezik.
+b) új, még használatba nem vett jármű esetében a jármű gyártója, valamint a járműgyártó által működtetett önálló szervezeti egység vagy a tachográf gyártója
 
-(4)[^16] A digitális tachográf üzembe helyezését, aktiválását és javítását a digitális tachográf gyártója, vagy annak a külön jogszabály[^17] szerint a közlekedési hatóság által elismert hazai képviselője (a továbbiakban: a készülékgyártó hazai képviselete) által e tevékenységre a tachográf típusa tekintetében szerződéssel megbízott, a gépjárműfenntartó szervezetek személyi és dologi feltételeiről szóló rendeletben meghatározott digitális tachográf műhely végezheti.
+szerelhet be.
 
-(5) A (4) bekezdésben meghatározott tevékenységek végzése esetében az aktiválást vagy a javítást végző személynek a digitális tachográf gyártója, vagy a készülékgyártó hazai képviselete által a digitális tachográf gyártmányára és típusára vonatkozóan meghatározott képzettséggel is rendelkeznie kell.
+(2) A tachográf szerelését – a tachográf beszerelése és javítása kivételével – tachográf műhelyben a közlekedési hatóság engedélyével rendelkező tachográf szerelő a tachográf gyártmányára és típusára vonatkozó korlátozás nélkül végezheti, amennyiben a tachográf típusa tekintetében a szükséges eszközök és információk rendelkezésére állnak, valamint a meglévő engedélye feljogosítja a tachográf működési elvére is figyelemmel.
 
-(6)[^18] A tachográf műhely a tachográf megvizsgálásáról minden alkalommal vizsgálati jelentést készít, amelyet két éven át megőriz, és azt a közlekedési hatóság kérésére rendelkezésre bocsátja.
+(3) Digitális tachográf műhelyben a tachográf szerelését olyan személy végezheti, aki a digitális tachográf szereléshez szükséges – a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló rendelet szerinti, a 165/2014/EU európai parlamenti és tanácsi rendeletben és a tachográf gyártója által meghatározott – szakmai ismereteket megszerezte, és ennek igazolása alapján személyre szóló műhelykártyával rendelkezik.
 
-(7)[^19] A tachográf műhely a tachográfot befolyásoló eszközök használatának feltárása és megelőzése érdekében a menetíró készülékek közúti ellenőrzések alkalmával és jogosultsággal rendelkező műhelyek által végzett ellenőrzésével kapcsolatos helyes végrehajtási gyakorlatra vonatkozó iránymutatásokról szóló, 2009. január 23-i 2009/60/EK bizottsági ajánlás Melléklet 4. Fejezet B–D. pontjában meghatározott módszereket alkalmazhatja.
+(4) Az analóg tachográf készülék belső lezárását biztosító plombák megbontását igénylő szerelésére is kiterjedő engedélyt
 
-(8)[^20] A tachográf műhely a tachográfot befolyásoló eszközök feltárását bejelenti a közlekedési hatóságnak, és az eszközt eltávolítja a járműből. Ha a tachográf műhely a vizsgálati jelentés elkészítését, a befolyásoló eszközök eltávolítását vagy a befolyásoló eszközök feltárásának bejelentését elmulasztja, akkor közlekedési hatóság a 13. §-ban meghatározott szankciókat alkalmazhatja a tachográf műhellyel szemben.
+a) az a tachográf szerelő kaphat, aki e tevékenységre a készüléktípus tekintetében képzésben részült és a tachográf gyártója vagy annak hazai képviselete a képzettségét igazolja,
 
-(9)[^21] A digitális tachográffal ellátott járművek esetében csak az összes adat letöltését, elemzését, a digitális aláírás érintetlenségéről való meggyőződést, valamint a befolyásoló eszköz eltávolítását követően kell a tachográfot teljesen újrakalibrálni és új beépítési plakettet felhelyezni.
+b) az a tachográf műhely kaphat, amely
 
-(10)[^22] Az analóg tachográfok esetében a befolyásoló eszköz eltávolítását követően a tachográfot ellenőrizni kell a megfelelő üzemelés és a helyes működés szempontjából, majd teljesen újra kell kalibrálni és új beépítési plakettel ellátni.
+ba) rendelkezik e tevékenység végzéséhez szükséges műszaki feltételekkel,
 
-[^14]: Az 5. § (1) bekezdése a 42/2007. (IV. 4.) GKM rendelet 2. §-ával megállapított és a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^15]: Az 5. § (3) bekezdése a 95/2006. (XII. 27.) GKM rendelet 69. § e) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^16]: Az 5. § (4) bekezdése a 95/2006. (XII. 27.) GKM rendelet 69. § e) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^17]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet 11. § (2) bekezdés.
-[^18]: Az 5. § (6) bekezdését a 75/2009. (XII. 9.) KHEM rendelet 1. §-a iktatta be.
-[^19]: Az 5. § (7) bekezdését a 75/2009. (XII. 9.) KHEM rendelet 1. §-a iktatta be.
-[^20]: Az 5. § (8) bekezdését a 75/2009. (XII. 9.) KHEM rendelet 1. §-a iktatta be.
-[^21]: Az 5. § (9) bekezdését a 75/2009. (XII. 9.) KHEM rendelet 1. §-a iktatta be.
-[^22]: Az 5. § (10) bekezdését a 75/2009. (XII. 9.) KHEM rendelet 1. §-a iktatta be.
+bb) alkalmaz e tevékenységre vonatkozó engedéllyel rendelkező tachográf szerelőt, és
+
+bc) a tachográf gyártójával vagy a gyártó hazai képviseletével e tevékenységre feljogosítással rendelkezik.
+
+(5) A tachográf műhely engedélyezése iránti kérelemhez csatolni kell
+
+a) a tachográf gyártója vagy a gyártó hazai képviselete által kiállított igazolást arról, hogy a tachográf műhely rendelkezik
+
+aa) legalább egy tachográf gyártóval, vagy annak a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben foglaltak szerint a közlekedési hatóság által elismert hazai képviselőjével (a továbbiakban: a készülékgyártó hazai képviselete) e tevékenység végzésére a tachográf típusa tekintetében tachográf szerelési feljogosítással, valamint
+
+ab) a gyártó által támasztott, a tachográf szereléséhez szükséges feltételeknek való megfeleléséről szóló igazolással (a továbbiakban: tanúsítvány);
+
+b) annak igazolását, hogy a kérelmező az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősül,
+
+c) a tachográf műhely képviseletére jogosult személy aláírási címpéldányát.
+
+(6) A tanúsítvány meglétét az engedély kiállításának dátumát követő második év elteltét megelőző harminc napon belül és azt követően is kétévente a tachográf műhelynek igazolnia kell.
+
+(7) A közlekedési hatóság az engedély kiadását megelőzően szemle keretében győződik meg arról, hogy a kérelmet benyújtó gépjárműfenntartó szervezet rendelkezik-e az engedélyezéshez szükséges személyi és tárgyi feltételekkel.
+
+(8) Az engedély tartalmazza:
+
+a) a tachográf műhely üzemeltetője
+
+aa) megnevezését,
+
+ab) székhelyének címét,
+
+ac) tachográf szerelésére feljogosított telephelyének címét,
+
+ad) adószámát,
+
+ae) cégjegyzékszámát,
+
+af) pénzforgalmi számlájának számát és a számláját vezető pénzintézet megnevezését,
+
+ag) elektronikus levelezési címét, valamint
+
+ah) képviselőjének nevét;
+
+b) a kezelt tachográfok működési módját (analóg, digitális vagy mindkettő);
+
+c) a tachográf műhelynek a közlekedési hatóság által működtetett információs rendszerben nyilvántartásra kerülő adatokkal kapcsolatos, a közlekedési hatóságnak történő adatszolgáltatás módját és az adatok körét.
+
+(9) Az engedély jogosultja helyébe polgári jogi jogutódja léphet, amennyiben a jogutódlást követő 15 napon belül a jogutódlás megállapítása iránt kérelmet terjeszt elő és az e rendeletben előírt feltételeknek megfelel.
+
+(10) A tachográf beszerelését és javítását végző személynek a digitális tachográf gyártója, vagy a készülékgyártó hazai képviselete által a digitális tachográf gyártmányára és típusára vonatkozóan meghatározott képzettséggel is rendelkeznie kell.
+
+[^18]: Az 5. §-t megelőző alcím a 44/2015. (VII. 20.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 5. § a 44/2015. (VII. 20.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.

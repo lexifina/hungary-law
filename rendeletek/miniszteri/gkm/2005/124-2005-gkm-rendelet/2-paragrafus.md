@@ -20,7 +20,7 @@ ec) ellenőri kártya: a 3821/85/EGK tanácsi rendelet I.B. melléklete I. fejez
 
 ed) üzembentartói kártya: a 3821/85/EGK tanácsi rendelet I.B. melléklete I. fejezetének l) pontjában meghatározott tachográf kártya;
 
-f)[^3] műhely: a tachográf beépítését, üzembe helyezését, aktiválását, illesztését, illetőleg javítását végző, a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló külön jogszabálynak[^4] megfelelő, a közlekedési hatóságnál bejelentett gépjármű fenntartó szervezet;
+f)[^4] tachográf műhely: a tachográf szerelésére – a közlekedési hatóság engedélye alapján – jogosult, a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben foglaltaknak megfelelő, a közlekedési hatóságnál bejelentett gépjármű fenntartó szervezet;
 
 g) gépjárművezető: a 3821/85/EGK tanácsi rendelet hatálya alá tartozó gépjármű vezetője;
 
@@ -46,13 +46,24 @@ r) javítás: a 3821/85/EGK tanácsi rendelet I.B. melléklete I. fejezetének g
 
 s) szokásos tartózkodási hely: a tachográf kártya kérelmezője, vagy tulajdonosa tekintetében a 3821/85/EGK tanácsi rendelet 14. cikk (3) bekezdés a) pontjában meghatározott hely, amely általában a lakóhely;
 
-t)[^10] tevékenységigazoló lap: a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos forma- nyomtatványról szóló 2007/230/EK határozat módosításáról szóló, 2009. december 14-i 2009/959/EU bizottsági határozat mellékletében meghatározott okmány, amelyen a munkáltató igazolja, és a gépjárművezető nyilatkozik arról, hogy betegállományban volt, szabadságát, pihenőidejét, készenléti idejét töltötte, a járművezetésen kívüli egyéb tevékenységet végzett vagy egy meghatározott időszakban nem végzett az 561/2006/EK európai parlamenti és tanácsi rendelet vagy a 2001. évi IX. törvénnyel kihirdetett, a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (a továbbiakban: AETR Megállapodás) hatálya alá tartozó tevékenységet.
+t)[^10]
 
-[^3]: A 2. § f) pontja a 95/2006. (XII. 27.) GKM rendelet 69. § a) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^4]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
+u)[^11] tachográf szerelése: a tachográf beszerelése, üzembe helyezése, aktiválása, illesztése, kalibrálása, műszaki ellenőrzése, időszakos vizsgálata, javítása, valamint a digitális tachográf által tárolt adatok tachográf műhelyben történő letöltése;
+
+v)[^12] tachográf szerelő: a közlekedési hatóság engedélye alapján tachográf szerelésére jogosult személy;
+
+w)[^13] tachográf javítása: az r) pont alá nem tartozó, a tachográf készülék belső lezárását biztosító plombák megbontását igénylő szerelés;
+
+x)[^14] tachográf működési elve: a tachográf adatrögzítésének módja, amely lehet analóg, vagy digitális.
+
+[^4]: A 2. § f) pontja a 44/2015. (VII. 20.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § h) pontja a 42/2007. (IV. 4.) GKM rendelet 1. §-ával megállapított szöveg.
 [^6]: – A közúti közlekedésről szóló 1988. évi I. törvény 20. §-ának (11) bekezdése, 44. §-ának (2) bekezdése és 44/A. §-ának (2) bekezdése. – A közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének ellenőrzéséről szóló 66/2007. (IV. 4.) Korm. rendelet. – A közúti szállításra vonatkozó egyes szociális jogszabályok alapján végzett közlekedési hatósági ellenőrzés részletes szabályairól szóló 43/2007. (IV. 4.) GKM rendelet.
 [^7]: A 2. § k) pontja a 95/2006. (XII. 27.) GKM rendelet 69. § b) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 49. §-a szerint módosított szöveg.
 [^8]: A 2. § l) pontja a 95/2006. (XII. 27.) GKM rendelet 69. § c) pontja, a 48/2009. (IX. 30.) KHEM rendelet 43. § (1) bekezdése, a 91/2011. (XII. 30.) NFM rendelet 49. §-a szerint módosított szöveg.
 [^9]: A gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet.
-[^10]: A 2. § t) pontját a 76/2007. (VIII. 30.) GKM rendelet 2. §-a iktatta be, szövege a 9/2010. (II. 26.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2. § t) pontját a 76/2007. (VIII. 30.) GKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 44/2015. (VII. 20.) NFM rendelet 12. § a) pontja.
+[^11]: A 2. § u) pontját a 44/2015. (VII. 20.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^12]: A 2. § v) pontját a 44/2015. (VII. 20.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^13]: A 2. § w) pontját a 44/2015. (VII. 20.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^14]: A 2. § x) pontját a 44/2015. (VII. 20.) NFM rendelet 5. § (2) bekezdése iktatta be.
