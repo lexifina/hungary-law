@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-126-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 2010-126-00-00.15 |
 | 2015-04-01 | 2015. évi VI. törvény | 2010-126-00-00.16 |
 | 2015-07-01 | 2015. évi XLII. törvény | 2010-126-00-00.17 |
+| 2015-07-28 | 2015. évi CXXVI. törvény | 2010-126-00-00.18 |

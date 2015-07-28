@@ -4,7 +4,7 @@
 
 a) a fővárosi és megyei kormányhivatalok feladat- és hatáskörére, szervezetére, működésére és ellenőrzésére vonatkozó részletes szabályokat,
 
-b)
+b) a kormánymegbízott juttatásait,
 
 c) a fővárosi és megyei kormányhivatal, valamint a járási hivatalok irányításának részletes szabályait,
 
