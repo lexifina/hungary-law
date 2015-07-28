@@ -1,0 +1,1 @@
+5. § A Ksztv. 31. § (7) bekezdésében az „államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult” szövegrész helyébe az „államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult” szöveg lép.

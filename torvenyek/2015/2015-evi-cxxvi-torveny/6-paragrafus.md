@@ -1,0 +1,1 @@
+6. § A Ksztv. 38. § (6) bekezdésében a „legfeljebb helyettes államtitkári illetménynek megfelelő összegű díjazásra és juttatásokra jogosult” szövegrész helyébe a „helyettes államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult” szöveg lép.

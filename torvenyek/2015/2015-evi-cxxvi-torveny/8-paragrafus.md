@@ -1,0 +1,1 @@
+8. § A Ksztv. 73. § (7) bekezdésében az „államtitkári illetményre és juttatásokra jogosult” szövegrész helyébe az „államtitkári illetményre és kormányrendeletben meghatározott juttatásokra jogosult” szöveg lép.
