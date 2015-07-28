@@ -6,7 +6,7 @@
 
 (2) A kiegyenlítő fizetések számítása során figyelembe kell venni:
 
-a) a kiegyenlítő fizetések által érintett árszabályozási időszakra vonatkozó, a földgáz rendszerhasználat árszabályozásának kereteiről szóló 74/2009. (XII. 7.) KHEM rendeletben (a továbbiakban: árszabályozási rendelet) foglalt elvek szerinti rendszeres ármegállapítás során használt eljárási rendnek megfelelően kiszámított (indexált) indokolt költség alapján az adott tárgyévet lefedő gázévekre megállapított indokolt árbevétel-tömeget, ide nem értve az árszabályozási rendelet 1. melléklete alapján szabályozott díjú szolgáltatásból származó árbevétel tömeget,
+a)[^2] a kiegyenlítő fizetések által érintett árszabályozási időszakra vonatkozó, a földgáz rendszerhasználat árszabályozásának kereteiről szóló 74/2009. (XII. 7.) KHEM rendeletben (a továbbiakban: árszabályozási rendelet) foglalt elvek szerinti rendszeres ármegállapítás során használt eljárási rendnek megfelelően kiszámított (indexált) indokolt költség alapján az adott tárgyévet lefedő gázévekre megállapított indokolt árbevétel-tömeget, ide nem értve az árszabályozási rendelet 1. melléklete alapján szabályozott díjú szolgáltatásból származó árbevétel-tömeget,
 
 b) a rendszerhasználói modellezett, valamint tény kapacitáslekötéseket, a szállított földgázmennyiséget, valamint ezek változását az elszámolási időszakban érvényes mértékegységek szerint,
 
@@ -16,7 +16,7 @@ d) az engedélyesek által a szállítási rendszerüzemeltetésből származó 
 
 e) az árszabályozási rendelet 3/A. §-a szerinti visszatérítési kötelezettséget, továbbá
 
-f) az indokolt árbevétel-igény meghatározásban bekövetkezett módszertani változásokat.
+f)[^3] az indokolt árbevétel-igény mértékében bekövetkezett változást, illetve az annak meghatározásában bekövetkezett módszertani változásokat.
 
 (3) Az engedélyesek közötti kiegyenlítő fizetéseknek az elszámolási időszakra (tárgyévre) vonatkozó összege
 
@@ -35,3 +35,6 @@ b) negatív, az engedélyes kiegyenlítő kifizetésre jogosult.
 (5) A kiegyenlítő kifizetésekből befolyt összegeket az engedélyes egyéb bevételként tartja nyilván és tájékoztatási kötelezettsége miatt az egyéb bevételeken belül a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) számára elkülönítetten is köteles kimutatni.
 
 (6) A kiegyenlítő befizetéseket az engedélyes egyéb ráfordításként tartja nyilván és tájékoztatási kötelezettsége miatt az egyéb ráfordításokon belül a Hivatal számára elkülönítetten is köteles kimutatni.
+
+[^2]: A 2. § (2) bekezdés a) pontja a 4/2015. (VII. 27.) MEKH rendelet 9. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés f) pontja a 4/2015. (VII. 27.) MEKH rendelet 1. §-ával megállapított szöveg.
