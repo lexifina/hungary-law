@@ -1,4 +1,4 @@
-6. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^159]
+6. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^161]
 
 ## A járműfenntartó tevékenységhez alkalmazható egyes gépjárművizsgáló berendezések (műszerek) méréstechnikai követelményei
 
@@ -120,4 +120,4 @@
 
 8 Guide to Expression of uncertainty in Calibration. Magyar fordítását lásd: Mérésügyi közlemények XXXIX. évfolyam 1998/3 56–65. oldal.
 
-[^159]: A 6. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a 29/2004. (III. 12.) GKM rendelet 6. §-ának (4) bekezdése szerint módosított szöveg. A Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^161]: A 6. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege a 29/2004. (III. 12.) GKM rendelet 6. §-ának (4) bekezdése szerint módosított szöveg. A Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.

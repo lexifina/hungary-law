@@ -1,6 +1,6 @@
-5. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^157]
+5. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez[^159]
 
-## A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^158]
+## A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata[^160]
 
 A járműfenntartó szervezetek mérési, vizsgálati tevékenységének szabályzata
 
@@ -116,5 +116,5 @@ Megjegyzések:
 
 6 A nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény.
 
-[^157]: Az 5. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 29/2004. (III. 12.) GKM rendelet 6. §-ának (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
-[^158]: Az 5. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^159]: Az 5. számú mellékletet a 37/2001. (XI. 14.) KöViM rendelet 6. § (3) bekezdése iktatta be, szövege Magyar Közlöny 2001. évi 136. számában megjelent helyesbítésnek megfelelő szöveg. Az 5. számú melléklet a 29/2004. (III. 12.) GKM rendelet 6. §-ának (3) bekezdése, a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^160]: Az 5. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.

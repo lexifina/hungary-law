@@ -24,7 +24,7 @@ ed)[^61] digitális tachográf beépítését, üzembe helyezését, aktiválás
 
 f)[^62] az 1. számú melléklet 19. pontja szerinti járműbontó tevékenység végzése esetében a környezetvédelmi hatóság által kiadott veszélyes hulladékkezelésre feljogosító engedélyének adatait, amennyiben a bejelentést nem a veszélyes hulladékkezelési tevékenység engedélyezése iránti kérelemmel egyidejűleg teszik meg.
 
-(3)[^63]
+(3)[^63] Az 1. számú melléklet 18. pontjában meghatározott járműfenntartó tevékenység esetében az (1) és (2) bekezdésben meghatározott bejelentés közlekedési hatóság általi nyilvántartásba vételéről kiadott hatósági bizonyítvány a 165/2014/EU európai parlamenti és tanácsi rendelet 24. cikkében meghatározottak szerinti jogosultságot tanúsítja.
 
 (4)[^64] A járműfenntartó szervezet köteles bejelenteni a közlekedési hatóság részére – az időtartam megjelölésével – a tevékenység szüneteltetését, a tevékenység megszüntetését, valamint a (2) bekezdésben meghatározott adatok tekintetében bekövetkezett változásokat.
 
@@ -38,5 +38,5 @@ f)[^62] az 1. számú melléklet 19. pontja szerinti járműbontó tevékenység
 [^60]: A tevékenység végzésére szóló megbízásokhoz szükséges elismertség iránti kérelmet a menetíró, illetve a sebességkorlátozó típus gyártója vagy a gyártótól a tevékenység teljes körű hazai képviseletére jogosultságot szerzett képviselet (vezérképviselet) nyújthat be a KFF-hez.
 [^61]: A 11. § (2) bekezdése e) alpontjának ed) alpontját a 124/2005. (XII. 29.) GKM rendelet 16. § (3) bekezdése iktatta be.
 [^62]: A 11. § (2) bekezdésének f) pontját a 29/2004. (III. 12.) GKM rendelet 3. §-a iktatta be, szövege a 63/2009. (XI. 23.) KHEM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^63]: A 11.§ (3) bekezdését a 13/1993. (V. 12.) KHVM rendelet 19.§-a hatályon kívül helyezte.
+[^63]: A 11.§ (3) bekezdését a 13/1993. (V. 12.) KHVM rendelet 19. §-a hatályon kívül helyezte, újonnan a 44/2015. (VII. 20.) NFM rendelet 1. §-a iktatta be.
 [^64]: A 11. § (4) bekezdése a 63/2009. (XI. 23.) KHEM rendelet 4. § (4) bekezdésével megállapított szöveg.

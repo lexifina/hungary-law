@@ -1,6 +1,6 @@
 2. számú melléklet az 1/1990. (IX. 29.) KHVM rendelethez
 
-## A járműfenntartó tevékenységek irányításához szükséges felső- és középfokú szakképesítések[^103]
+## A járműfenntartó tevékenységek irányításához szükséges felső- és középfokú szakképesítések[^105]
 
 1. Autószerelői szakiránynak megfelelő
 
@@ -42,4 +42,4 @@ b) középfokú képesítés
 
 — azonos az 1/b pontban foglaltakkal.
 
-[^103]: A 2. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^105]: A 2. számú melléklet címe a 63/2009. (XI. 23.) KHEM rendelet 8. § 1. pontja szerint módosított szöveg.
