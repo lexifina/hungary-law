@@ -1,0 +1,1 @@
+## „(1) A kártyakibocsátó és tachográf szerelését engedélyező hatóság a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben meghatározott ellenőrzései során kiemelten ellenőrzi a digitális tachográf műhely tevékenységét és ezen belül az engedélyben foglaltaknak való megfelelést, valamint a műhelykártya jogszerű használatát.”
