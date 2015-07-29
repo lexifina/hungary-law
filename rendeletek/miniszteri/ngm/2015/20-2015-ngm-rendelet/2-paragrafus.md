@@ -1,0 +1,3 @@
+## 1. § A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény egyes rendelkezéseinek végrehajtásáról szóló 8/2004. (III. 10.) PM rendelet (a továbbiakban: PM rendelet) 2. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) Ha a dohánygyártmány adóraktári engedélyt kérelmező dohánygyártmány gyártására alkalmas gép előállítását és tesztelését végzi, az adóraktári engedélykérelemhez az (1) bekezdés f) pontjában foglalt dokumentumok helyett a tesztelni tervezett gépek általános műszaki leírását, technológiai rajzát és technológiai folyamatábráját kell csatolnia.”
