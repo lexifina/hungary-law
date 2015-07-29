@@ -1,0 +1,1 @@
+## 3. § Az R. 1. §-ában a „Polgári Törvénykönyvről szóló 1959. évi IV. törvény 685. § c) pontjában” szövegrész helyébe a „polgári perrendtartásról szóló 1952. évi III. törvény 396. §-ában” szöveg lép.
