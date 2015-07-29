@@ -1,3 +1,5 @@
-## 20. §[^56] A honvédelemért felelős miniszter a határozatot bármikor felfüggesztheti, ha tudomást szerez a gazdálkodó szervezettel kapcsolatos olyan információról, amely a gazdálkodó szervezet szakmai, gazdasági alkalmasságát megkérdőjelezi. A felfüggesztés indoka különösen a gazdálkodó szervezet pénzügyi, vagyoni helyzetét, belső struktúráját, tevékenységét érintő, de fenti okokon túlmenően bármely olyan változás, amely a gazdálkodó szervezet alkalmasságát kétségessé teszi. A felfüggesztés időtartama alatt a gazdálkodó szervezet az NSIP keretében kiírásra kerülő beszerzési eljárásokon nem vehet részt.
+21. §[^52] (1) Ha a gazdálkodó szervezet tárgyévi adatszolgáltatásának értékelése alapján a honvédemért felelős miniszter a gazdálkodó szervezet szakmai vagy gazdasági alkalmatlanságát állapítja meg, a honvédelmért felelős miniszter a határozatot a következő adatszolgáltatási időszak végéig felfüggeszti.
 
-[^56]: A 20. § a 117/2007. (V. 31.) Korm. rendelet 12. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint, a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+(2) Ha a honvédelemért felelős miniszter az (1) bekezdés alapján felfüggesztett határozattal rendelkező gazdálkodó szervezetnek a felfüggesztést követő éves adatszolgáltatásának értékelése alapján újbóli szakmai vagy gazdasági alkalmatlanságát állapítja meg, a gazdálkodó szervezet határozatát visszavonja.
+
+[^52]: A 21. § a 197/2015. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
