@@ -1,4 +1,4 @@
-31/B. §[^201] (1) A nem jövedéki engedélyes kereskedő a Jöt. 110. § (7a) bekezdése szerinti, bontott kiszerelésű alkoholtermékről és borról a vámhatóság által előzetesen jóváhagyott és hitelesített nyilvántartást vezet.
+31/B. §[^203] (1) A nem jövedéki engedélyes kereskedő a Jöt. 110. § (7a) bekezdése szerinti, bontott kiszerelésű alkoholtermékről és borról a vámhatóság által előzetesen jóváhagyott és hitelesített nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás a következő adatokat tartalmazza:
 
@@ -10,4 +10,4 @@ c) a bontott termék felhasználásának időpontja.
 
 (3) Az (1) bekezdés szerinti nyilvántartást a nem jövedéki engedélyes kereskedő köteles naprakészen vezetni és naptári hónaponként lezárni.
 
-[^201]: A 31/B. §-t a 76/2013. (XII. 31.) NGM rendelet 7. §-a iktatta be.
+[^203]: A 31/B. §-t a 76/2013. (XII. 31.) NGM rendelet 7. §-a iktatta be.

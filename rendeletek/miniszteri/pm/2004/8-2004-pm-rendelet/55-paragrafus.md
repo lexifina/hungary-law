@@ -1,8 +1,8 @@
 ## Bérfőzés
 
-55. §[^296] (1)[^297] A bérfőzető személyesen vagy megbízottja útján adhatja át a gyümölcsöt, gyümölcsből származó alapanyagot (a továbbiakban együtt: gyümölcscefre) a szeszfőzde részére. Az átadásakor a bérfőzető a 31. számú melléklet szerinti bérfőzési naplóban nyilatkozik a gyümölcscefre fajtájáról és mennyiségéről, vagy azokról írásban foglalt nyilatkozatot ad át a megbízottja útján. Nyilatkozat hiányában a szeszfőzde felelős vezetője állapítja meg a gyümölcscefre fajtáját.
+55. §[^298] (1)[^299] A bérfőzető személyesen vagy megbízottja útján adhatja át a gyümölcsöt, gyümölcsből származó alapanyagot (a továbbiakban együtt: gyümölcscefre) a szeszfőzde részére. Az átadásakor a bérfőzető a 31. számú melléklet szerinti bérfőzési naplóban nyilatkozik a gyümölcscefre fajtájáról és mennyiségéről, vagy azokról írásban foglalt nyilatkozatot ad át a megbízottja útján. Nyilatkozat hiányában a szeszfőzde felelős vezetője állapítja meg a gyümölcscefre fajtáját.
 
-(2)[^298] A gyümölcscefre lepárlását megelőzően a bérfőzető a bérfőzési naplóban nyilatkozik vagy külön, írásban foglalt nyilatkozatot ad át megbízottja útján arról, hogy
+(2)[^300] A gyümölcscefre lepárlását megelőzően a bérfőzető a bérfőzési naplóban nyilatkozik vagy külön, írásban foglalt nyilatkozatot ad át megbízottja útján arról, hogy
 
 a) a kierjedt gyümölcscefre nem tartalmaz hozzáadott mesterséges vagy természetes eredetű cukorból, izocukorból vagy mézből származó alkoholt,
 
@@ -10,7 +10,7 @@ b) a bérfőzető vagy háztartásának tagja rendelkezik gyümölcstermő terü
 
 (3) A (2) bekezdésben meghatározott nyilatkozat hiányában a gyümölcscefre bérfőzés keretében nem főzhető le.
 
-(4)[^299] A bérfőzető a bérfőzött párlat átvételét megelőzően a bérfőzési naplóban nyilatkozik a szeszfőzdének arról, hogy
+(4)[^301] A bérfőzető a bérfőzött párlat átvételét megelőzően a bérfőzési naplóban nyilatkozik a szeszfőzdének arról, hogy
 
 a) általa és a vele egy háztartásban élők által a tárgyévben az átvétel időpontjáig milyen mennyiségben került a Jöt. 64. § (3) bekezdés a) és b) pontja szerinti adómérték alá tartozó párlat átvételre,
 
@@ -18,13 +18,13 @@ b) az átvételre kerülő bérfőzött párlatból mekkora mennyiséget kíván
 
 c) sem a bérfőzető, sem a vele egy háztartásban élők a tárgyévben nem állítottak elő magánfőzés keretében párlatot.
 
-(5)[^300] A bérfőzde a Jöt. 64. § (3) bekezdés a) pontja szerinti adómértékkel előállított párlat adóját a párlat bérfőzető részére történő átadásakor szedi be a bérfőzetőtől.
+(5)[^302] A bérfőzde a Jöt. 64. § (3) bekezdés a) pontja szerinti adómértékkel előállított párlat adóját a párlat bérfőzető részére történő átadásakor szedi be a bérfőzetőtől.
 
-(6)–(7)[^301]
+(6)–(7)[^303]
 
-[^296]: Az 55. § a 39/2004. (IX. 28.) PM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (2) bekezdése alapján a rendelkezést a bérfőzött pálinka mennyiségével történő, a 2004. október 1. napját követően esedékes első elszámolás napját követő naptól kell alkalmazni.
-[^297]: Az 55. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 45. § 4. pontja szerint módosított szöveg.
-[^298]: Az 55. § (2) bekezdés nyitó szövegrésze az 52/2012. (XII. 29.) NGM rendelet 45. § 5. pontja szerint módosított szöveg.
-[^299]: Az 55. § (4) bekezdése a 4/2010. (VIII. 13.) NGM rendelet 1. §-ával megállapított, nyitó szövegrésze az 52/2012. (XII. 29.) NGM rendelet 45. § 6. pontja szerint módosított szöveg.
-[^300]: Az 55. § (5) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 2. pontja hatályon kívül helyezte, újonnan a 45/2014. (XII. 30.) NGM rendelet 5. §-a iktatta be.
-[^301]: Az 55. § (6)–(7) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 2. pontja hatályon kívül helyezte.
+[^298]: Az 55. § a 39/2004. (IX. 28.) PM rendelet 1. §-ával megállapított szöveg, e módosító rendelet 9. §-ának (2) bekezdése alapján a rendelkezést a bérfőzött pálinka mennyiségével történő, a 2004. október 1. napját követően esedékes első elszámolás napját követő naptól kell alkalmazni.
+[^299]: Az 55. § (1) bekezdése az 52/2012. (XII. 29.) NGM rendelet 45. § 4. pontja szerint módosított szöveg.
+[^300]: Az 55. § (2) bekezdés nyitó szövegrésze az 52/2012. (XII. 29.) NGM rendelet 45. § 5. pontja szerint módosított szöveg.
+[^301]: Az 55. § (4) bekezdése a 4/2010. (VIII. 13.) NGM rendelet 1. §-ával megállapított, nyitó szövegrésze az 52/2012. (XII. 29.) NGM rendelet 45. § 6. pontja szerint módosított szöveg.
+[^302]: Az 55. § (5) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 2. pontja hatályon kívül helyezte, újonnan a 45/2014. (XII. 30.) NGM rendelet 5. §-a iktatta be.
+[^303]: Az 55. § (6)–(7) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 2. pontja hatályon kívül helyezte.

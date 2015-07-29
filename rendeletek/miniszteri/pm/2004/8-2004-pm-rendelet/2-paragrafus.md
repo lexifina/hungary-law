@@ -38,7 +38,7 @@ q)[^20] szeszfőzde adóraktár esetében a közvetlen értékesítésre vonatko
 
 (2)[^21] Az engedélyezési eljárás során az adóraktár helyszínrajzát, műszaki, technikai és építési dokumentumait, az (1) bekezdés i) pontja szerinti engedélyek, illetve – a boradóraktári engedély kérelmező kivételével – az adóraktárban használt tárolótartályokra, tárolóedényekre, mérőberendezésekre vonatkozó hitelesítési bizonylatok eredeti példányát, a műszaki, technológiai és üzemmód leírását, továbbá – a szőlőbor és az ásványolaj előállítására, valamint a jövedéki termék önálló tárolására, raktározására vagy önálló palackozására engedélyt kérelmező kivételével – a jövedéki termék gyártmánylapját a vámszerv kérésére kell a kérelmezőnek benyújtania, vagy a helyszínen bemutatnia.
 
-(3)[^22]
+(3)[^22] Ha a dohánygyártmány adóraktári engedélyt kérelmező dohánygyártmány gyártására alkalmas gép előállítását és tesztelését végzi, az adóraktári engedélykérelemhez az (1) bekezdés f) pontjában foglalt dokumentumok helyett a tesztelni tervezett gépek általános műszaki leírását, technológiai rajzát és technológiai folyamatábráját kell csatolnia.
 
 (4) A Jöt. 72. §-a (7) bekezdésének és 78. §-a (6) bekezdésének alkalmazásában összefüggő helyrajzi számokon szereplő üzemnek kell tekinteni azt a több helyrajzi számon elhelyezkedő üzemet is, amely helyrajzi számainak folytonosságát csak út, vasúti vágány vagy vízfolyás szakítja meg.
 
@@ -58,6 +58,6 @@ q)[^20] szeszfőzde adóraktár esetében a közvetlen értékesítésre vonatko
 [^19]: A 2. § (1) bekezdésének p) pontját a 40/2007. (XII. 29.) PM rendelet 2. § (2) bekezdése iktatta be, szövege a 17/2009. (IX. 29.) PM rendelet 3. § (4) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 87. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult eljárásokban kell alkalmazni.
 [^20]: A 2. § (1) bekezdés q) pontját a 76/2013. (XII. 31.) NGM rendelet 3. §-a iktatta be.
 [^21]: A 2. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 37. pontja, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése szerint módosított szöveg.
-[^22]: A 2. § (3) bekezdését az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^22]: A 2. § (3) bekezdését az 54/2011. (XII. 29.) NGM rendelet 30. § (1) bekezdés 1. pontja hatályon kívül helyezte, újonnan a 20/2015. (VII. 28.) NGM rendelet 1. §-a iktatta be.
 [^23]: A 2. § (5) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2009. (XII. 29.) PM rendelet 4. § (4) bekezdése iktatta be.
 [^24]: A 2. § (6)–(7) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
