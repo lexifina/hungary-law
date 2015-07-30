@@ -1,0 +1,1 @@
+A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 57. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
