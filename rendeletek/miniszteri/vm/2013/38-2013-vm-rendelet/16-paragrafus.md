@@ -16,21 +16,17 @@ c) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdas�
 
 d) az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2012. évben igényelhető támogatások részletes feltételeiről szóló 57/2012. (VI. 21.) VM rendelet alapján benyújtott kérelemre kiadott támogatási határozat, vagy kizárólag forráshiányra való hivatkozásról szóló elutasító döntés másolatát,
 
+e)[^31] az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők inndulásához a 2014. évben igényelhető támogatások részletes feltételeiről szóló 34/2014. (IV. 4.) VM rendelet alapján benyújtott kérelemre kiadott támogatási határozat, vagy kizárólag forráshiányra való hivatkozásról szóló elutasító döntés másolatát,
+
+f)[^32] az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők indulásához a 2015. évben igényelhető támogatások részletes feltételeiről szóló 24/2015. (IV. 28.) MvM rendelet alapján benyújtott kérelemre kiadott támogatási határozat, vagy kizárólag forráshiányra való hivatkozásról szóló elutasító döntés másolatát,
+
 akkor részére a telepítési jogtartalékból az újratelepítési jogot térítésmentesen kell nyújtani.
 
-(4)[^5] Abban az esetben, ha a telepítési jogtartalékban lévő újratelepítési jog mennyisége nem elegendő valamennyi kérelem jóváhagyására,
+(4)[^33] A kérelmeket a benyújtás napjának sorrendjében – hiánypótolt kérelmek esetén a hiánypótlás benyújtásának napja szerinti sorrendben – kell jóváhagyni. Abban az esetben, ha a telepítési jogtartalékban lévő újratelepítési jog mennyisége nem elegendő valamennyi kérelem jóváhagyására, először azok a kérelmek hagyhatóak jóvá a kérelmek beérkezésének sorrendjében, amelyek tekintetében a kérelmező az újratelepítési jog vásárlási kérelmével egyidejűleg telepítési engedély iránti kérelmet nyújt be, és vállalja, hogy a vásárolt jogot annak időbeli hatálya alatt, de legkésőbb a vásárlás borpiaci évét követő második borpiaci év végéig oltalom alatt álló eredetmegjelöléssel, vagy oltalom alatt álló földrajzi jelzéssel előállított bort adó ültetvény telepítéséhez használja fel.
 
-a) először azok a kérelmek hagyhatóak jóvá, amelyekben megjelölt terület az I. termőhelyi kataszteri osztályba tartozik;
+(5)[^34] Az a természetes személy, jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, akinek olyan újratelepítési jog volt a tulajdonában, amely 2006. augusztus 1-jét követő kivágással keletkezett, és a tulajdonában lévő telepítési jog 2014. augusztus 1-jén telepítési jogtartalékba került, és ez a személy 2014. augusztus 1. és 2014. december 31. között a telepítési jogtartalékból telepítési jogot vásárolt, egy alkalommal térítésmentesen igényelhet újratelepítési jogot a telepítési jogtartalékból. Az ilyen jogon térítésmentesen igényelt újratelepítési jog nagysága nem haladhatja meg a jogtartalékba került újratelepítési jog nagyságát.
 
-b) ha az a) pont szerinti kérelmek nem merítik ki a telepítési jogtartalékot, a II/1. termőhelyi kataszteri osztályba tartozó területekre vonatkozó kérelmek hagyhatók jóvá;
-
-c) ha az a) és b) pont szerinti kérelmek nem merítik ki a telepítési jogtartalékot, a II/2. termőhelyi kataszteri osztályba tartozó területekre vonatkozó kérelmek is jóváhagyhatók.
-
-(5)[^6] Abban az esetben, ha az adott kataszteri osztály tekintetében nem elegendő a telepítési jogtartalékban lévő újratelepítési jog mennyisége, úgy a kérelmek a következő sorrend figyelembe vételével hagyhatóak jóvá:
-
-a) először azok a kérelmek hagyhatók jóvá, amelyek magasabb termőhelyi kataszteri pontértékű területre vonatkoznak;
-
-b) ha ugyanazon termőhelyi kataszteri pontértékű területre vonatkozó kérelmek között fogy el a telepítési jogtartalék, úgy azon kérelem hagyható jóvá, amelyik beérkezésének dátuma korábbi.
-
-[^5]: A 16. § (4) bekezdését a 12/2014. (II. 21.) VM rendelet 9. §-a iktatta be.
-[^6]: A 16. § (5) bekezdését a 12/2014. (II. 21.) VM rendelet 9. §-a iktatta be.
+[^31]: A 16. § (3) bekezdés e) pontját a 43/2015. (VII. 27.) FM rendelet 10. § (1) bekezdése iktatta be.
+[^32]: A 16. § (3) bekezdés f) pontját a 43/2015. (VII. 27.) FM rendelet 10. § (1) bekezdése iktatta be.
+[^33]: A 16. § (4) bekezdését a 12/2014. (II. 21.) VM rendelet 9. §-a iktatta be, szövege a 43/2015. (VII. 27.) FM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^34]: A 16. § (5) bekezdését a 12/2014. (II. 21.) VM rendelet 9. §-a iktatta be, szövege a 43/2015. (VII. 27.) FM rendelet 10. § (2) bekezdésével megállapított szöveg.

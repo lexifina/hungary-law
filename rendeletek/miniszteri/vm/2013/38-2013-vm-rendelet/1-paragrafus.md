@@ -10,6 +10,8 @@
 
 4. fiatal mezőgazdasági termelő: az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló támogatások igénybevételének általános szabályairól szóló 23/2007. (IV. 17.) FVM rendelet 3. § 30. pontja szerinti termelő;
 
-5. művelet: borszőlőültetvény telepítés, fajtaváltás, kivágás;
+5.[^2] művelet: borszőlőültetvény telepítés, fajtaváltás (ideértve az átoltást is), kivágás;
 
 6. összefüggő terület: a kérelemben megjelölt, a kérelmező használatában lévő, akár több helyrajzi számon nyilvántartott művelettel érintett terület, amelyet művelettel nem érintett terület – kivéve út, csatorna, árok – nem szakít meg.
+
+[^2]: Az 1. § 5. pontja a 43/2015. (VII. 27.) FM rendelet 1. §-ával megállapított szöveg.

@@ -14,10 +14,12 @@ c) kivágási engedély száma,
 
 d) kivágás ideje,
 
-e) az átvevő nyilatkozatát arra vonatkozóan, hogy az újratelepítési jogot kizárólag oltalom alatt álló eredetmegjelöléssel, vagy oltalom alatt álló földrajzi jelzéssel előállított bor előállítására alkalmas szőlőültetvény létesítésére vagy oltványiskola művelésére használja fel.
+e)[^25] az átvevő nyilatkozatát arra vonatkozóan, hogy az újratelepítési jogot kizárólag oltalom alatt álló eredetmegjelöléssel, vagy oltalom alatt álló földrajzi jelzéssel előállított bor előállítására alkalmas szőlőültetvény létesítésére használja fel.
 
 (4) Az átruházásra vonatkozó kérelemhez csatolni kell az újratelepítési jog átruházásáról szóló eredeti szerződést, amelyet teljes bizonyító erejű magánokiratba vagy közokiratba kell foglalni. A szerződésnek tartalmaznia kell legalább az átadó és az átvevő nevét, címét, az újratelepítési jog adatait, valamint az átadó és az átvevő aláírását.
 
 (5) Az átruházásra vonatkozó kérelemről a hegybíró dönt. A kérelemre hozott helyt adó, vagy részben helyt adó döntés alapján az újratelepítési jogot át kell vezetni az átvevő tulajdonába az újratelepítési jogok nyilvántartásában.
 
 (6) Az újratelepítési jog átruházása csak akkor jegyezhető be az újratelepítési jogok nyilvántartásába, ha átvevő rendelkezik MVH ügyfél-azonosító számmal.
+
+[^25]: A 11. § (3) bekezdés e) pontja a 43/2015. (VII. 27.) FM rendelet 15. § c) pontja szerint módosított szöveg.
