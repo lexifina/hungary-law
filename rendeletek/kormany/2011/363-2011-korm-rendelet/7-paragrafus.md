@@ -14,4 +14,6 @@
 
 5. saját bevétel: az NKE törvény 37. §-a szerinti térítési díj, továbbá az intézményi szabályzatban meghatározott szolgáltatási díj, valamint az Egyetem vállalkozási tevékenységének eredménye, gazdasági társaságtól kapott támogatásból származó bevétele, továbbá a pályázat útján kifejezetten ösztöndíj fizetésére kapott támogatás;
 
-6. közszolgálati ösztöndíjas hallgató: az Egyetem rendészeti képzésben részt vevő ösztöndíjas hallgatója, valamint azon hallgatója, akit nem terhel képzési költségtérítés, illetve önköltség fizetési kötelezettség.
+6.[^11]
+
+[^11]: A 7. § 6. pontját a 205/2015. (VII. 23.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.

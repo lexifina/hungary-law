@@ -6,4 +6,6 @@ b) az Egyetem által térítésmentesen biztosított szolgáltatásokat.
 
 (2) A hallgatói juttatások számításának szabályait az FT határozza meg.
 
-(3) Az e rendelet szerinti közszolgálati ösztöndíjas jogállásban és a honvédtiszti alap- és mesterképzésben eltöltött képzési idő nem számít bele a felsőoktatási jogszabályok szerint számított támogatási időbe. Az államilag támogatott felsőoktatási képzési idő nem számít bele az e rendelet szerinti közszolgálati ösztöndíjas képzési időbe, illetve a honvédtiszti alap- és mesterképzés képzési idejébe.
+(3)[^18]
+
+[^18]: A 9. § (3) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

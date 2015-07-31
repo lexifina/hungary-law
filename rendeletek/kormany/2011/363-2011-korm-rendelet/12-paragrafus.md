@@ -1,41 +1,17 @@
 ## szerint nyújtott költségvetési támogatása terhére nyújtható.
 
-## 12. § Az Egyetem a hallgatói juttatásokhoz rendelkezésre álló forrásokat az alábbi jogcímeken használhatja fel:
+12. §[^23] (1) A Jó Állam Ösztöndíj célja – az Egyetem nemzetköziesítése érdekében – a hallgatók részvételének támogatása az Egyetem idegen nyelvű részképzésében és idegen nyelvű szakján.
 
-a) teljesítmény alapú ösztöndíj kifizetésére, amely lehet
+(2) Az ösztöndíjban olyan személy részesülhet – állampolgárságára tekintet nélkül –, aki megfelel az Egyetem azon idegen nyelvű részképzésére, illetve idegen nyelvű szakjára vonatkozó felvételi követelményeknek, melyek tekintetében az Egyetem lehetővé teszi az ösztöndíjra történő pályázást.
 
-aa) tanulmányi ösztöndíj,
+(3) Az ösztöndíj az alábbi pénzbeli juttatást foglalja magában a tanulmányok ideje alatt
 
-ab) köztársasági ösztöndíj,
+a) a képzés önköltségének biztosítása részben vagy egészben,
 
-ac) intézményi szakmai, tudományos és közéleti ösztöndíj,
+b) szállás biztosítása az Egyetem kollégiumában vagy szállójában,
 
-b) szociális alapú ösztöndíj kifizetésére, amely lehet
+c) megélhetési költségekhez történő hozzájárulás,
 
-ba) rendszeres szociális ösztöndíj,
+d) a Magyarországra történő beutazás és a Magyarországon kívüli lakóhelyre történő hazautazás költségeihez történő hozzájárulás.
 
-bb) rendkívüli szociális ösztöndíj,
-
-bc) a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj intézményi része,
-
-bd) a külföldi hallgatók miniszteri ösztöndíja,
-
-be) alaptámogatás,
-
-bf) szakmai gyakorlaton való részvétel támogatása,
-
-c) doktorandusz ösztöndíjra,
-
-d) egyéb, az Egyetem térítési és juttatási szabályzatában meghatározott ösztöndíj kifizetésére, valamint
-
-e) az intézményi működési költségek finanszírozására, amely lehet
-
-ea) a jegyzet-előállítás támogatása, elektronikus tankönyvek, tananyagok és a felkészüléshez szükséges elektronikus eszközök beszerzése, valamint a fogyatékossággal élő hallgatók tanulmányait segítő eszközök beszerzése,
-
-eb) a kulturális tevékenység, valamint a sporttevékenység támogatása,
-
-ec) kollégium fenntartása, működtetése,
-
-ed) kollégiumi férőhely bérlése, kollégiumi felújítás, továbbá
-
-ee) a hallgatói önkormányzat működésének támogatása.
+[^23]: A 12. § a 205/2015. (VII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.

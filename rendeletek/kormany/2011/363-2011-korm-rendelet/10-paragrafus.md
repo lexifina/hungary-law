@@ -1,5 +1,8 @@
-10. § (1) A hallgató tanulmányi teljesítménye alapján – az Egyetem térítési és juttatási szabályzatában meghatározottak szerint – mentesíthető a fizetési kötelezettség alól.
+10. § (1)[^19] A hallgató a vagyoni viszonyaira, jövedelmi helyzetére, tanulmányi eredményére tekintettel – az Egyetem térítési és juttatási szabályzatában meghatározottak szerint – fizetési kötelezettségeinek teljesítéséhez mentesség, részletfizetési lehetőség vagy halasztás iránti kérelmet nyújthat be.
 
 (2) Nem adható mentesség, részletfizetési kedvezmény vagy halasztott fizetési lehetőség az Egyetem térítési és juttatási szabályzatában meghatározott szankciós befizetések alól, továbbá a közösségi célú tevékenységben való részvétel alapján.
 
-(3) A fizetési kötelezettség teljesítéséhez kapcsolódó kérelmeket az Egyetem szervezeti és működési szabályzata szerint létrehozott bizottság bírálja el.
+(3)[^20]
+
+[^19]: A 10. § (1) bekezdése a 205/2015. (VII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^20]: A 10. § (3) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
