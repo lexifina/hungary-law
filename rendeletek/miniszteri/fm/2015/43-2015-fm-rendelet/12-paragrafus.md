@@ -1,3 +1,0 @@
-## 11. § A 38/2013. (V. 24.) VM rendelet 17. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az újratelepítési jog vásárlása iránti kérelmet a HNT által rendszeresített és honlapján közzétett nyomtatványon, postai úton vagy személyesen, a HNT által közzétett értékesítési felhívásban meghatározott határidőn belül kell benyújtani a gazdasági aktát vezető hegybíró részére. A kérelemnek tartalmaznia kell a kérelmező nevét, MVH ügyfél-azonosító számát és a gazdasági akta számát, a számlavezető pénzintézet nevét és a bankszámlaszámát, valamint a vásárolni kívánt újratelepítési jog nagyságát.”
