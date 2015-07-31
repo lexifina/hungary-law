@@ -1,0 +1,3 @@
+6. § Az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló 211/2015. (VII. 23.) Korm. rendelet 2. §-a a következő (3) bekezdéssel kiegészülve lép hatályba:
+
+„(3) E rendelet hatálya nem terjed ki a közérdekű használati jog gyakorlásával összefüggésben okozott – a kártalanítás körén kívül eső – egyéb károk megtérítésére irányuló kárigényekre. Az ilyen kártérítési igények az általános rendőrségi feladatok ellátására létrehozott szervvel szemben a Polgári Törvénykönyvről szóló törvénynek a szerződésen kívül okozott károkért való felelősségre vonatkozó szabályai szerint érvényesíthetők.”
