@@ -1,0 +1,9 @@
+## 1. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a Magyar Tudományos Akadémia irányítása alá tartozó költségvetési szerveknél, illetve más kutató- és kutatást kiegészítő intézeteknél történő végrehajtásáról szóló 84/2011. (V. 26.) Korm. rendelet 2. §-a és az azt megelőző [A Kjt. 20. §-a (3) bekezdés b) pontjához] alcím helyébe a következő rendelkezés lép:
+
+## „[A Kjt. 20. §-a (3) bekezdéséhez]
+
+## 2. § (1) A munkáltatónál magasabb vezető és vezető megbízással rendelkező, illetve a pénzügyi kötelezettségvállalásra jogosult vezetői megbízással nem rendelkező közalkalmazottak esetében a magyar nyelv tudása alkalmazási feltétel.
+
+## (2) A Kjt. 20. § (2) bekezdés c) pontjában foglaltaktól eltérően tudományos kutatói munkakör betöltése érdekében – a munkavállalás feltételei tekintetében a külön jogszabály szerinti feltételek fennállása esetén – a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény alapján 90 napot meghaladó tartózkodásra jogosult személlyel közalkalmazotti jogviszony létesíthető.”
+
+2. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
