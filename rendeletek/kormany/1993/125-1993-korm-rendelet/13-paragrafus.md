@@ -18,7 +18,7 @@ e)[^60]
 
 (3) A vizsgabizottság elnöke és tagja lehet
 
-a)[^61] az a közszolgálati jogviszonyban álló személy, aki állam- és jogtudományi egyetemi végzettséggel vagy igazgatásszervezői, közigazgatás-szervezői képesítéssel rendelkezik;
+a)[^61] az a közszolgálati jogviszonyban álló személy, aki állam- és jogtudományi egyetemi végzettséggel, vagy okleveles közigazgatási menedzser, okleveles közigazgatási szakértő vagy igazgatásszervező, közigazgatás-szervezői képesítéssel rendelkezik;
 
 b) az a felsőfokú képesítéssel rendelkező tanár, aki általános iskolában állampolgári ismeretek tantárgyat oktat.
 
@@ -43,7 +43,7 @@ b) az a felsőfokú képesítéssel rendelkező tanár, aki általános iskoláb
 [^58]: A 13. § (2) bekezdésének a) pontját a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
 [^59]: A 13. § (2) bekezdésének d) pontját a 103/2001. (VI. 21.) Korm. rendelet 11. §-a hatályon kívül helyezte.
 [^60]: A 13. § (2) bekezdésének e) pontját a 119/2005. (VI. 28.) Korm. rendelet 19. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
-[^61]: A 13. § (3) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 9. § i) pontja, a 347/2013. (IX. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^61]: A 13. § (3) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 9. § i) pontja, a 347/2013. (IX. 30.) Korm. rendelet 1. §-a, a 205/2015. (VII. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^62]: A 13. § (3a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^63]: A 13. § (4) bekezdése a 103/2001. (VI. 21.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg.
 [^64]: A 13. § (5) bekezdése a 103/2001. (VI. 21.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított szöveg, harmadik mondata a 318/2008. (XII. 23.) Korm. rendelet 17. § (1) bekezdés 51. pontja, a 174/2012. (VII. 26.) Korm. rendelet 4. § c) pontja, a 417/2012. (XII. 29.) Korm. rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
