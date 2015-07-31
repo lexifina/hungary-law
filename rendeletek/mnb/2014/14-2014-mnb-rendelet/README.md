@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-14-20-2
 | --- | --- | --- |
 | 2014-07-01 | 2014-14-20-2C.1 | 14/2014. (V. 19.) MNB rendelet |
 | 2014-07-02 | 2014-14-20-2C.2 | 2010: CXXX. törvény |
+| 2015-07-31 | 2014-14-20-2C.3 | 26/2015. (VII. 30.) MNB rendelet |
