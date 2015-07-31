@@ -1,0 +1,216 @@
+# A Kormány 215/2015. (VII. 31.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 112. szám, 2015. július 31. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/f991160a555dc40950f7fba3181d9e075ee3072d/dokumentumok/ae3c76751176739f5c00598a179825f047fa2ce9/letoltes)
+
+---
+
+A Kormány 215/2015. (VII. 31.) Korm. rendelete
+a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító
+Zártkörűen Működő Részvénytársaság működésével összefüggő kormányrendeletek módosításáról
+A Kormány
+a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi
+XLII. törvény 26. § (1) bekezdés c) pontjában,
+a 2. alcím tekintetében a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról
+szóló 1994. évi XLII. törvény 26. § (1) bekezdés b) pontjában,
+a 3. alcím tekintetében a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról
+szóló 1994. évi XLII. törvény 26. § (1) bekezdés e) pontjában,
+a 4. alcím tekintetében a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról
+szóló 1994. évi XLII. törvény 26. § (1) bekezdés d) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló
+85/1998. (V. 6.) Korm. rendelet módosítása
+1. § (1) A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.)
+Korm. rendelet (a továbbiakban: R1.) 1. §-a a következő (1b) bekezdéssel egészül ki:
+„(1b) Az Eximbank az 1. § (1) bekezdés d), f) és g) pontjában szereplő, hitelintézetnek nem minősülő pénzügyi
+intézménynek csak abban az esetben nyújthat az e rendelet hatálya alá tartozó refinanszírozási hitelt, ha
+a pénzügyi intézmény – így különösen a pénzügyi vállalkozás – bemutatja az Eximbank részére, hogy rendelkezik
+a szükséges prudenciális előírásokat tartalmazó belső szabályzattal. Az Eximbank az erre vonatkozó követelményt
+üzletpolitikájában rögzíti vagy a követelmény teljesülését belső szabályzatában leírt módon ellenőrzi.”
+(2) Az R1. 2. §-a a következő g) ponttal egészül ki:
+(Az Eximbank a következő, a 6. §-ban meghatározott feltételeknek megfelelő exporthitelek, refinanszírozási exporthitelek,
+egyéb export célú hitelek, egyéb export célú refinanszírozási hitelek, versenyképességet javító hitelek, versenyképességet
+javító refinanszírozási hitelek és exportkövetelések megvásárlásához nyújtott refinanszírozási hitelek kapcsán számolhat
+el a központi költségvetéssel a magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító
+Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló miniszteri rendeletben
+foglaltak szerint:)
+
+„g) a 6. § (11) bekezdésében meghatározott külkereskedelmi szerződés teljesítésében részt vevő belföldi
+gazdálkodó szervezet vevőinek – feltéve, ha a 6. § szerinti, a magyar származású export mértékére vonatkozó
+feltételek teljesülnek –”
+(nyújtott hitelek.)
+(3) Az R1. 3. § e) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazása szempontjából:)
+„e) export: olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok
+szerint exportárbevételként számol el, ideértve a Törvény 1. § (5a) bekezdése szerinti beszállítói ügylet vagy
+exportcélú befektetés eredményeként keletkező árbevételt, exportárbevételt is, valamint a 6. § (11) bekezdése
+vonatkozásában a belföldi gazdálkodó szervezet teljesítése eredményeként létrejövő árbevételt is;”
+(4) Az R1. 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Áruexport e rendelet szerint akkor finanszírozható, ha a külkereskedelmi szerződés alapján teljesített ügylet
+keretében kiszállításra kerülő áruk legalább fele magyar származásúnak minősül, amely feltétel teljesülését
+az Eximbank belső szabályzatában foglaltak szerint ellenőrzi. Az áruk magyar származásának megállapítására és
+igazolására a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK tanácsi rendelet végrehajtására vonatkozó
+rendelkezések megállapításáról szóló 1993. július 2-i 2454/93/EGK bizottsági rendelet rendelkezéseit, a közösségi
+vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 19. §-ában foglaltakat, valamint a közösségi vámjog
+végrehajtásának részletes szabályairól szóló miniszteri rendeletben foglaltakat kell alkalmazni azzal, hogy
+a külkereskedelmi tevékenységet folytató gazdálkodó szervezet köteles a származási bizonyítványt az annak
+kiadására felhatalmazott kamarai szervtől beszerezni és azt az Eximbankhoz, refinanszírozás esetén a finanszírozó
+hitelintézethez benyújtani.”
+(5) Az R1. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Építési, szerelési, technológiai szerelési, tervezési és az ezekhez közvetlenül kapcsolódó szolgáltatások
+elvégzésére vonatkozó külkereskedelmi szerződés e rendelet szerint akkor finanszírozható, ha a finanszírozási
+költségekkel csökkentett értékének legalább egynegyed része magyar származású exportnak minősül. Erről
+a Magyar Kereskedelmi és Iparkamara az Eximbank által jóváhagyott eljárás alapján állít ki származási igazolást.
+Egynegyed résznél kisebb magyar származású export esetében a finanszírozás csak a magyar származású export
+exporthitelezésére, valamint az 1. § (2) bekezdésében meghatározott feltételeknek megfelelő követelésvásárlásra
+terjedhet ki. Amennyiben a külkereskedelmi szerződés részteljesítést is lehetővé tesz, a részteljesítés elfogadottnak
+tekinthető, ha a részteljesítéskori magyar hányad mértéke megfelel a kivitelezési ütemtervben előre meghatározott
+magyar hányadnak.”
+(6) Az R1. 6. §-a a következő (8)–(11) bekezdéssel egészül ki:
+„(8) Az (1) és (3) bekezdésben meghatározott alacsonyabb magyar származású export esetén – amely azonban
+nem lehet kevesebb, mint az (1) és (3) bekezdésben meghatározott arány fele – teljes finanszírozás abban
+az esetben nyújtható, ha az exportügylet megvalósulásához nemzeti érdek fűződik. A nemzeti érdekű finanszírozás
+jóváhagyása a Törvény 1. § (2) bekezdése szerinti miniszter által jóváhagyott döntési rendben meghatározott
+eljárás szerint történik. Nemzeti érdekű finanszírozás akkor nyújtható, ha a Magyarország hatályos külgazdasági
+stratégiájában foglaltakra tekintettel a külkereskedelmi szerződés teljesítésében részt vevő belföldi gazdálkodó
+szervezetnél az ügylet hatására
+a) a finanszírozási szerződés megkötésének évét megelőző lezárt üzleti évhez képest a foglalkoztatottak éves
+átlagos statisztikai állományi létszámának – így különösen a fő tevékenységet támogató létszámának – legalább
+15%-kal történő növelése,
+b) új exportpiacok megszerzése magyar származású áruk kivitelének megkezdésével vagy a meglévő
+exportpiacokon az export volumenének legalább 10%-kal történő növelése,
+c) a beszállítói tevékenység volumenének 15%-kal történő növelése, vagy
+d) a megújuló energiaszektorba, vagy innovatív ágazatba tartozó ügyletek megvalósítása
+következik be.
+(9) Az Eximbank az üzletszabályzatban rögzíti, és legalább évente felülvizsgálja a nemzeti érdek meghatározását
+alátámasztó szempontokat, az annak igazolásául szolgáló eljárási szabályokat és dokumentációs követelményeket.
+(10) Amennyiben az Eximbank több, egymással összefüggő szerződéshez kapcsolódóan nyújt finanszírozást, akkor
+az ebben a §-ban meghatározott mértékű magyar származású export mértékére vonatkozó előírásnak a több,
+egymással összefüggő szerződés alapján teljesített valamennyi exportügyletre vetítve kell teljesülnie.
+(11) E § vonatkozásában külkereskedelmi szerződésnek minősül
+a) a belföldi gazdálkodó szervezet,
+
+b) – ha a teljesítés helye szerinti ország irányadó jogszabályai értelmében a belföldi gazdálkodó szervezet az adott
+országban nem jogosult a teljesítésre – a belföldi gazdálkodó szervezet által vagy a Polgári Törvénykönyvről
+szóló 2013. évi V. törvény 8:2 §-a szerinti közvetlen vagy közvetett többségi befolyásával – a (3) bekezdés szerinti
+építési, szerelési, technológiai szerelési, tervezési és az ezekhez közvetlenül kapcsolódó szolgáltatások elvégzésére
+vonatkozó szerződések esetében legalább 33%-os részesedésével – az adott ország joga szerint alapított gazdasági
+társaság, vagy
+c) az a) és b) pontban meghatározottak hiányában a nem a teljesítés helye szerinti országban bejegyzett gazdálkodó
+szervezet
+által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.”
+(7) Az R1.
+a) 1. § (1) bekezdés d) és f) pontjában a „hitelintézeteknek” szövegrész helyébe a „pénzügyi intézményeknek”
+szöveg,
+b) 1. § (1) bekezdés g) pontjában a„hitelintézetek”szövegrész helyébe a„pénzügyi intézmények”szöveg,
+c) 2. § e) pontjában az„exportőrnek és”szövegrész helyébe az„exportőrnek,”szöveg és
+d) 2. § f) pontjában a„finanszírozásához nyújtott hitelek.”szövegrész helyébe a„finanszírozásához és”szöveg
+lép.
+2. A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány
+készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló
+312/2001. (XII. 28.) Korm. rendelet módosítása
+2. § (1) A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető
+kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.)
+Korm. rendelet (a továbbiakban: R2.) 2. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„h) export: olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok
+szerint exportárbevételként számol el, ideértve az Etv. 1. § (5a) bekezdése szerinti beszállítói ügylet vagy exportcélú
+befektetés eredményeként keletkező árbevételt, exportárbevételt, valamint a 7. § (11) bekezdések vonatkozásában
+a belföldi gazdálkodó szervezet teljesítése eredményeként létrejövő árbevételt is;”
+(2) Az R2. 2. § (1) bekezdése a következő y) ponttal egészül ki:
+(E rendelet alkalmazásában)
+„y) külföldi székhelyű hitelbiztosító: minden olyan nemzetközi szervezet, OECD tagországban bejegyzett biztosító és
+exporthitel-ügynökség, amely a rá irányadó jog szabályai szerint jogosult nem piacképes kockázatokra vonatkozó
+biztosítási tevékenységet végezni.”
+(3) Az R2. 4. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(A Mehib Rt. által biztosítható:)
+„b) a külföldi adóssal szembeni exportirányú külkereskedelmi szerződésből és hitelszerződésből származó
+követelés, ideértve az érdekeltség biztosítottól átvett áru külföldi adós részére történő továbbértékesítéséből,
+vagy az érdekeltség általi feldolgozását követő továbbértékesítéséből származó követelését is, feltéve, hogy
+a külkereskedelmi keretszerződés keretében teljesített export megfelel a 7. § (1) vagy (7) bekezdésében előírt
+magyar hányadra vonatkozó előírásoknak,”
+(4) Az R2. 4. § (1) bekezdése a következő k) ponttal egészül ki:
+(A Mehib Rt. által biztosítható:)
+„k) a 7. § (11) bekezdésében meghatározott külkereskedelmi szerződés keretében teljesített exporthoz kapcsolódó
+nem piacképes kockázat, feltéve, ha a 7. §-ban szereplő, a magyar származású export mértékére vonatkozó előírások
+teljesülnek.”
+(5) Az R2. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Áruexport esetén a Mehib Rt. kockázatviselésének feltétele, hogy a külkereskedelmi ügylet keretében kiszállított
+áruk legalább fele magyar származásúnak minősüljön, amely feltétel teljesülését a Mehib Rt. belső szabályzatában
+foglaltak szerint ellenőrzi. A részteljesítés elfogadottnak tekintendő, ha az áruexport részteljesítéskori magyar
+hányad mértéke megfelel a biztosítási kötvényben előre meghatározott teljesítési ütemterv szerinti magyar
+hányadnak. Amennyiben a biztosítási kötvényben nem kerül rögzítésre az áruexport teljesítési ütemterve, és
+a külkereskedelmi ügylet keretében megvalósuló áruexport az e bekezdésben előírt magyar hányadot nem éri
+el, úgy a Mehib Rt. kockázatvállalása – a (7) bekezdésben foglalt kivétellel – csak a magyar hányadra terjedhet
+
+ki. Az áruk magyar származásának megállapítására és igazolására a Közösségi Vámkódex létrehozásáról szóló
+2913/92/EGK tanácsi rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 1993. július 2-i
+2454/93/EGK bizottsági rendeletet, a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 19. §-ában
+foglaltakat, valamint a közösségi vámjog végrehajtásának részletes szabályairól szóló miniszteri rendeletben
+foglaltakat kell alkalmazni azzal, hogy a külkereskedelmi tevékenységet folytató gazdálkodó szervezet köteles
+a származási bizonyítványt az annak kiadására felhatalmazott kamarai szervtől beszerezni, és azt a Mehib Rt. részére
+átadni.”
+(6) Az R2. 7. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+„(3) Építési, szerelési, technológiai szerelési, tervezési és az ezekhez közvetlenül kapcsolódó szolgáltatások
+elvégzésére vonatkozó szerződések finanszírozási költségekkel csökkentett értékének legalább egynegyed
+részben magyar származású exportnak kell minősülnie. Erről a Magyar Kereskedelmi és Iparkamara a Mehib Rt.
+által jóváhagyott eljárás alapján állít ki származási igazolást. Egynegyed résznél kisebb magyar hányad esetén
+a Mehib Rt. kockázatvállalása a (7) bekezdésben meghatározott kivétellel csak a magyar hányadra terjedhet ki.
+Amennyiben a külkereskedelmi szerződés részteljesítést is lehetővé tesz, a részteljesítés elfogadottnak tekintendő,
+ha a részteljesítéskori magyar hányad mértéke megfelel a biztosítási kötvényben előre meghatározott magyar
+hányadnak.
+(4) Az (1)–(3) bekezdésben foglaltak alkalmazása során
+a) más biztosító által viszontbiztosított – a Mehib Rt. kockázatvállalását nem jelentő – szerződés esetén
+a viszontbiztosított hányadot figyelmen kívül kell hagyni,
+b) a Mehib Rt. által nyújtott viszontbiztosítás esetén a Mehib Rt. által viszontbiztosított hányadot kell figyelembe
+venni.”
+(7) Az R2. 7. §-a a következő (11) bekezdéssel egészül ki:
+„(11) Az (1)–(8) bekezdésben foglaltak alkalmazása során külkereskedelmi szerződésnek minősül
+a) a belföldi gazdálkodó szervezet,
+b) – ha a teljesítés helye szerinti ország irányadó jogszabályai értelmében a belföldi gazdálkodó szervezet az adott
+országban nem jogosult a teljesítésre – a belföldi gazdálkodó szervezet által vagy a Ptk. 8:2 §-a szerinti közvetlen
+vagy közvetett többségi befolyásával – a (3) bekezdés szerinti építési, szerelési, technológiai szerelési, tervezési és
+az ezekhez közvetlenül kapcsolódó szolgáltatások elvégzésére vonatkozó szerződések esetében legalább 33%-os
+részesedésével – az adott ország joga szerint alapított gazdasági társaság, vagy
+c) az a) és b) pontban meghatározottak hiányában a nem a teljesítés helye szerinti országban bejegyzett gazdálkodó
+szervezet
+által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.”
+3. Az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes
+szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet módosítása
+3. § (1) Az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló
+232/2003. (XII. 16.) Korm. rendelet (a továbbiakban: R3.) 3. § e) pontja helyébe a következő rendelkezés lép:
+(A kötött segélyhitelezés alanyai:)
+„e) belföldi székhelyű, áru vagy szolgáltatás exportját végző gazdálkodó szervezet, amely cég Magyarországon
+bejegyzett fővállalkozóként, konzorcium vezetőjeként vagy a fogadó országban bejegyzett konzorcium
+vezetőjeként, vegyesvállalat tagjaként, vagy külföldi leányvállalata, fióktelepe által végzi a kötött segélyhitel tárgyát
+képező tevékenységet,”
+(2) Az R3. 10. §-a helyébe a következő rendelkezés lép:
+„10. § Kötött segélyhitel konstrukcióban az áruk és szolgáltatások származásával kapcsolatos előírásokra, az igazolás
+és ellenőrzés módjára a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére,
+a Kormány készfizető kezessége mellett vállalható, nem-piacképes kockázatú biztosítások feltételeiről szóló
+312/2001. (XII. 28. ) Korm. rendelet 7. § (1)–(8) és (11) bekezdéseit kell alkalmazni.”
+
+4. A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák,
+valamint a deviza- és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes
+szabályairól szóló 435/2012. (XII. 29.) Korm. rendelet módosítása
+4. § (1) A Magyar Export-Import Bank Zrt. által az állam készfizető kezessége mellett vállalható garanciák, valamint a deviza-
+és kamatcsere ügyletek pótlási- és kamatköltségei feltételeiről és részletes szabályairól szóló 435/2012. (XII. 29.)
+Korm. rendelet (a továbbiakban: R4.) 1. § 10. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„10. rövid lejáratú garancia: a finanszírozó hitelintézetnek a Magyar Export-Import Bank Részvénytársaság
+kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet (a továbbiakban: 85/1998. Korm. rendelet)
+8. § (1) bekezdése alapján nyújtott refinanszírozási hitelből refinanszírozott származékos kölcsönszerződés, vagy
+két évet meg nem meghaladó kölcsönszerződés biztosítékául a Magyar Export-Import Bank Zártkörűen Működő
+Részvénytársaság (a továbbiakban: Eximbank) által, az EK-Szerződés 87. és 88. cikkének a kezességvállalás
+formájában nyújtott állami támogatásra való alkalmazásáról szóló bizottsági közlemény (HL C 155., 2008.06.20.
+10–22. o.) előírásaival összhangban vállalt garancia;”
+(2) Az R4. 1. § 15. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„15. hitelfedezeti garancia: a legalább két éves, vagy két évet meghaladó futamidejű hitelhez az Eximbank által,
+az EK-Szerződés 87. és 88. cikkének a kezességvállalás formájában nyújtott állami támogatásra való alkalmazásáról
+szóló bizottsági közlemény (HL C 155., 2008.06.20. 10–22. o.) előírásaival összhangban vállalt garancia;”
+5. Záró rendelkezések
+5. §
+Ez a rendelet 2015. augusztus 31-én lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
