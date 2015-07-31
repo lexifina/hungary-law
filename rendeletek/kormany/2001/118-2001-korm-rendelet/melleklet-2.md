@@ -8,7 +8,7 @@
 
 ## – egyetemek bölcsészettudományi karán pszichológia és szociológia szakon,
 
-## – egyetemek és főiskolák államigazgatási, gazdasági, humánerőforrás-menedzseri, személyügyi, személyügyi szervezői, igazgatásszervezői, közigazgatás-szervezői, szociális igazgatási, munka- és pályatanácsadói szakán
+## – egyetemek és főiskolák államigazgatási, gazdasági, humánerőforrás-menedzseri, személyügyi, személyügyi szervezői, igazgatásszervezői, közigazgatás-szervezői, közigazgatási mesterképzési, szociális igazgatási, munka- és pályatanácsadói szakán
 
 ## szerzett oklevél, valamint
 
@@ -64,5 +64,5 @@
 
 5. A magán-munkaközvetítői tevékenység folytatásának helye(i), az irodahelyiség(ek) címe, telefonszáma, felszereltsége (telefon, telefax, számítógép, egyéb).
 
-[^55]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^55]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a, a 205/2015. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^56]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

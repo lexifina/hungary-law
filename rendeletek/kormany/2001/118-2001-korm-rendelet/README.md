@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-118-20-
 | 2015-01-01 | 2001-118-20-22.13 | 182/2009. (IX. 10.) Korm. rendelet |
 | 2015-02-15 | 2001-118-20-22.14 | 383/2014. (XII. 31.) Korm. rendelet |
 | 2015-04-01 | 2001-118-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-07-31 | 2001-118-20-22.16 | 347/2013. (IX. 30.) Korm. rendelet |
