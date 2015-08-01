@@ -8,7 +8,7 @@
 
 | 3. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Vácduka közigazgatási területén fekvő, 202 helyrajzi számú ingatlan |
 
-| 4. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Mezőcsát közigazgatási területén fekvő, 6/19 helyrajzi számú ingatlan |
+| 4. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Mezőcsát közigazgatási területén fekvő, 3272/5 helyrajzi számú ingatlan |
 
 | 5. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tornaterem-fejlesztés | Szécsény közigazgatási területén fekvő, 1272 helyrajzi számú ingatlan |
 
@@ -112,7 +112,7 @@
 
 | 55. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Budapest közigazgatási területén fekvő, 1783/6 helyrajzi számú ingatlan |
 
-| 56. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Kemecse közigazgatási területén fekvő, 1290 helyrajzi számú ingatlan, illetve az ebből az ingatlanból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanok |
+| 56. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Kemecse közigazgatási területén fekvő, 1290/1 helyrajzi számú ingatlan |
 
 | 57. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Füzesgyarmat közigazgatási területén fekvő, 512/30 helyrajzi számú ingatlan |
 
@@ -120,9 +120,9 @@
 
 | 59. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Enying közigazgatási területén fekvő, 1474/58 helyrajzi számú ingatlan |
 
-| 60. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Putnok közigazgatási területén fekvő, 1130 helyrajzi számú ingatlan |
+| 60. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Putnok közigazgatási területén fekvő, 1130/1 helyrajzi számú ingatlan |
 
-| 61. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Tolna közigazgatási területén fekvő, 970/89 helyrajzi számú ingatlan |
+| 61. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Tolna közigazgatási területén fekvő, 970/121 helyrajzi számú ingatlan |
 
 | 62. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Edelény közigazgatási területén fekvő, 1193/4 helyrajzi számú ingatlan |
 
@@ -130,25 +130,25 @@
 
 | 64. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Abádszalók közigazgatási területén fekvő, 3014/1 helyrajzi számú ingatlan |
 
-| 65. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Bélapátfalva közigazgatási területén fekvő, 111/2 helyrajzi számú ingatlan |
+| 65. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Bélapátfalva közigazgatási területén fekvő, 966 helyrajzi számú ingatlan |
 
-| 66. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Tokaj közigazgatási területén fekvő, 1196 helyrajzi számú ingatlan |
+| 66. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Tokaj közigazgatási területén fekvő, 1047/15 helyrajzi számú ingatlan |
 
 | 67. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Derecske közigazgatási területén fekvő, 834 helyrajzi számú ingatlan |
 
 | 68. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Pannonhalma közigazgatási területén fekvő, 473/1 helyrajzi számú ingatlan |
 
-| 69. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Baktalórántháza közigazgatási területén fekvő, 712/6 helyrajzi számú ingatlan |
+| 69. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Baktalórántháza közigazgatási területén fekvő, 576/1 helyrajzi számú ingatlan |
 
 | 70. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Balassagyarmat közigazgatási területén fekvő, 3186/2 helyrajzi számú ingatlan |
 
-| 71. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Csenger közigazgatási területén fekvő, 451 helyrajzi számú ingatlan |
+| 71. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Csenger közigazgatási területén fekvő, 1063/1 helyrajzi számú ingatlan |
 
 | 72. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Fehérgyarmat közigazgatási területén fekvő, 1005/1 helyrajzi számú ingatlan |
 
 | 73. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Szob közigazgatási területén fekvő, 579 helyrajzi számú ingatlan |
 
-| 74. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Törökszentmiklós közigazgatási területén fekvő, 3998/2, 3995, 3996, 4034/4, 3998/1 helyrajzi számú ingatlanok, illetve az ezekből az ingatlanokból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanok |
+| 74. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Törökszentmiklós közigazgatási területén fekvő, 3995 helyrajzi számú ingatlan |
 
 | 75. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanuszoda-fejlesztés | Vajszló közigazgatási területén fekvő, 37/2 helyrajzi számú ingatlan |
 
