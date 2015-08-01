@@ -1,1 +1,1 @@
-57. § A részletes vizsgálati eljárásban e törvény végrehajtási rendeletében meghatározott rendvédelmi szerv szakhatóságként vesz részt.
+57. § Az eljárásban az e törvény végrehajtására kiadott kormányrendeletben meghatározott rendvédelmi szerv szakhatóságként vesz részt. A szakhatósági eljárás ügyintézési határideje nyolc nap.

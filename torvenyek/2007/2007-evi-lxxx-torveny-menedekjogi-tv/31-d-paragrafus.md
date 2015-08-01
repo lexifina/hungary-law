@@ -12,7 +12,9 @@ a) a menekültügyi őrizet tartamának a bíróság részéről történő els�
 
 b) a kifogással, illetve a menekültügyi őrizet további meghosszabbításával kapcsolatos eljárásban, ha személyes meghallgatását az érintett kéri.
 
-(6) A személyes meghallgatást az őrizet helyén és az elismerését kérő jogi képviselője távollétében is meg lehet tartani.
+(6) A meghallgatást az elismerését kérő jogi képviselője távollétében is meg lehet tartani.
+
+(6a) A meghallgatást az őrizet helyén kell megtartani, amennyiben annak feltételei az őrizet helyén adottak.
 
 (7) A személyes meghallgatást a bíróság mellőzheti, ha
 

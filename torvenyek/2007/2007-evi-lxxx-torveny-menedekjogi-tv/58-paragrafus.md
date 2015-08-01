@@ -1,4 +1,4 @@
-58. § (1) A menekültügyi hatóság az részletes vizsgálati eljárás során megvizsgálja, hogy
+58. § (1) A menekültügyi hatóság a 47. § (1) bekezdésében foglalt vizsgálatot követően az eljárás során megvizsgálja, hogy
 
 a) fennállnak-e a kérelmező menekültkénti elismerésének feltételei, továbbá
 

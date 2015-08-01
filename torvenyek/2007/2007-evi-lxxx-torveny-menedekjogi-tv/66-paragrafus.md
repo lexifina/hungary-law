@@ -1,15 +1,23 @@
-66. § (1) A részletes vizsgálati eljárás megszűnik, ha a kérelmező meghalt.
+66. § (1) Az eljárás megszűnik, ha a kérelmező meghal.
 
-(2) A menekültügyi hatóság a részletes vizsgálati eljárást megszünteti, ha az 52. § (2) bekezdésében foglalt feltétel fennáll.
+(2) A menekültügyi hatóság a rendelkezésre álló adatok alapján dönt, vagy az eljárást megszünteti, ha a kérelmező
 
-(3) A menekültügyi hatóság a rendelkezésre álló adatok alapján dönt, vagy a részletes vizsgálati eljárást megszünteti, ha
+a) kérelmét írásban visszavonja,
 
-a) az 52. § (2a) bekezdés b)–e) pontjában foglalt feltétel fennáll,
+b) a nyilatkozattételt megtagadja és ezzel a kérelem elbírálását megakadályozza,
 
-b) a kérelmező a nyilatkozattételt megtagadja és ezzel a kérelem érdemi elbírálását megakadályozza vagy
+c) személyes meghallgatásán írásbeli felszólításra nem jelenik meg és távolmaradását megfelelően nem igazolja,
 
-c) az 51. § (2) vagy (5) bekezdés alapján a kérelem részletes vizsgálati eljárás nélküli elutasításának lett volna helye.
+d) a számára kijelölt szálláshelyet vagy tartózkodási helyet 48 órát meghaladóan engedély nélkül elhagyva, ismeretlen helyre távozott és távolmaradását megfelelően nem igazolja,
 
-(4) Ha a menekültügyi hatóság a részletes vizsgálati eljárást megszünteti, a továbbiakban az 52. § (3) bekezdésben foglaltakat kell megfelelően alkalmazni.
+e) kiutasításának vagy kiadatásának végrehajtására került sor az 54. § (2)–(3) bekezdése alapján, vagy
 
-(5) A részletes vizsgálati eljárást megszüntető végzéssel szemben – az 53. § (3)–(5) bekezdésében foglaltaknak megfelelően – bírósági felülvizsgálatnak van helye.
+f) ujjnyomatának vagy arcképmásának rögzítését megakadályozza vagy lehetetlenné teszi.
+
+(3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontjain alapuló megszüntetés eseteiben rendelkezik a 45. § (5) és (7)–(8) bekezdéseiben foglaltak szerint a külföldi törvény szerinti kiutasításáról és kitoloncolásáról, valamint megállapítja a beutazási és tartózkodási tilalom időtartamát.
+
+(4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben bírósági felülvizsgálatnak nincs helye.
+
+(5) Az eljárást a (2) bekezdés e)–f) pontja alapján megszüntető végzéssel szemben – az 53. § (3)–(5) bekezdésében foglaltaknak megfelelően – bírósági felülvizsgálatnak van helye.
+
+(6) A kérelmező a megszüntető végzés közlését követő 9 hónapig kérheti a (2) bekezdés b)–d) pontja alapján megszüntetett eljárás folytatását. Az eljárás folytatását a kérelmező csak személyesen, a menekültügyi hatóságnál kérheti. A határidőn belül előterjesztett, folytatás kérésére vonatkozó beadvány alapján a menekültügyi hatóság az eljárást a megszüntető döntést megelőző eljárási cselekménytől folytatja. Az eljárás folytatását a kérelmező egy alkalommal kérheti.

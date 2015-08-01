@@ -1,0 +1,1 @@
+51/A. § Amennyiben a biztonságos származási ország, vagy a biztonságos harmadik ország a kérelmezőt nem veszi át, vagy nem veszi vissza, a menekültügyi hatóság döntését visszavonja és az eljárást folytatja.

@@ -8,7 +8,7 @@ a) az e törvényben meghatározott feltételek szerint Magyarország területé
 
 b) az e törvényben és külön jogszabályban meghatározott feltételek szerint ellátásra, támogatásra és szállásra;
 
-c) az elismerés iránti kérelem benyújtásától számított kilenc hónapon belül a befogadó állomás területén, azt követően a külföldiekre vonatkozó általános szabályok szerint történő munkavégzésre;
+c) az elismerés iránti kérelem benyújtásától számított kilenc hónapon belül a befogadó állomás területén, vagy a közfoglalkoztató által meghatározott munkahelyen, kilenc hónapot követően a külföldiekre vonatkozó általános szabályok szerint történő munkavégzésre;
 
 d) a menekültügyi eljárás időtartama alatt az Egyesült Nemzetek Szervezete Menekültügyi Főbiztosságával, illetve más nemzetközi szervezettel vagy civil szervezettel való kapcsolat felvételére és fenntartására.
 
@@ -23,3 +23,7 @@ c) a menekültügyi hatóság által számára kijelölt szálláshelyen – az 
 d) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni.
 
 e)
+
+(3) Az elismerését kérő személyazonosításra alkalmas, hiteles okmányok hiányában köteles minden tőle telhetőt megtenni személyazonosságának tisztázása érdekében, így különösen ennek érdekében felvenni a kapcsolatot családtagjaival, rokonaival, jogi képviselőjével, illetve – nem állami, vagy azzal kapcsolatban lévő üldöző esetén – származási országa hatóságaival.
+
+(4) Az elismerését kérő nem köteles felvenni a kapcsolatot a (3) bekezdésben foglalt személlyel, ha az a személy az üldöző.
