@@ -2,9 +2,9 @@
 
 a) belföldi vagy határon átmenő országos közforgalmú vasút 2. kocsiosztályán,
 
-b) helyközi (távolsági) autóbuszjáraton,
+b)[^7] menetrend szerinti országos, regionális és elővárosi autóbuszjáraton,
 
-c) elővárosi buszon, HÉV-en,
+c)[^8] elővárosi vasúton (HÉV-en),
 
 d) menetrend szerint közlekedő hajón, kompon, vagy réven
 
@@ -19,3 +19,6 @@ a) 2010-ben 30 000 forint,
 b) 2011-től minden évben az előző évben irányadó összegnek a Központi Statisztikai Hivatal által a megelőző évre megállapított és közzétett éves átlagos fogyasztói árnövekedés mértékével növelt összege.
 
 (4) A hazautazással kapcsolatos költségtérítés e rendeletben meghatározott felső korlátjának a tárgyévre vonatkozó mértékét a foglalkoztatáspolitikáért felelős miniszter 2011-től kezdődően minden év január 25-ig hivatalos lapjában közzéteszi.
+
+[^7]: A 3. § (1) bekezdés b) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdés c) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

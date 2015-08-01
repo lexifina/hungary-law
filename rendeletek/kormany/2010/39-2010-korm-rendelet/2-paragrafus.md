@@ -16,8 +16,11 @@ e)[^5] tartózkodási hely: annak a Magyarország vagy az EGT-állam területén
 
 f) munkavállaló: a magyar állampolgár és az EGT-állam polgára;
 
-g) hosszú várakozás: az az időtartam, amely a munkavállaló személyi, családi vagy egyéb körülményeire tekintettel aránytalanul hosszú, és amely az út megtételéhez szükséges időt meghaladja.
+g) hosszú várakozás: az az időtartam, amely a munkavállaló személyi, családi vagy egyéb körülményeire tekintettel aránytalanul hosszú, és amely az út megtételéhez szükséges időt meghaladja;
+
+h)[^6] gyermek: az Mt. 294. § (1) bekezdés c) pontjában meghatározott személy.
 
 [^3]: A 2. § c) pontja a 265/2013. (VII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^4]: A 2. § d) pontja a 144/2012. (VII. 3.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^5]: A 2. § e) pontja a 144/2012. (VII. 3.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^6]: A 2. § h) pontját a 193/2015. (VII. 21.) Korm. rendelet 2. § (1) bekezdése iktatta be.
