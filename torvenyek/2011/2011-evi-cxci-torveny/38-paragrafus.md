@@ -1,6 +1,6 @@
 38. § (1) A 23–24. § alkalmazásában
 
-a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott jogerős döntést követő harmadik hónap első napjáig,
+a) a 33. § szerinti felülvizsgálattal érintett személyek esetében a felülvizsgálat alapján hozott jogerős döntést követő harmadik hónap első napjáig, a 38/C. § szerint a komplex minősítés alól mentesülő személyek esetében a rokkantsági ellátás időtartama alatt,
 
 b) az a) pont alá nem tartozó személyek esetében a (2) bekezdés szerinti hatósági bizonyítvány kiállítását követő harmadik hónap első napjáig, de legkésőbb 2012. december 31-éig
 
@@ -19,3 +19,5 @@ c) a 33. § (1) bekezdése alapján rehabilitációs ellátásban részesülő s
 d) azt az a)–c) pont alá nem tartozó személyt is, akinek a foglalkoztatása alapján a munkáltató 2012 decemberében megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtott költségvetési támogatásban részesült, a 26/A. § szerinti hatósági bizonyítvány kiállításának napjáig, de legkésőbb 2013. december 31-éig,
 
 e) a rehabilitációs járadékban részesülő személyt is.
+
+f) a 38/C. § szerint a komplex minősítés alól mentesülő személyt is az öregségi nyugdíjkorhatár betöltéséig.

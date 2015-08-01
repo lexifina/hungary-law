@@ -1,0 +1,1 @@
+38/D. § Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2015. évi CXXXIII. törvénnyel megállapított 19. § (1a) bekezdését és 38/C. §-t a 2015. augusztus 1-jén folyamatban lévő felülvizsgálati eljárásokban még nem kell alkalmazni.
