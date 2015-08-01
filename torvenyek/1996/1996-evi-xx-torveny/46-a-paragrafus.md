@@ -10,11 +10,11 @@ a) az (1) és (2) bekezdés adatainak felhasználásával létrehozza a termész
 
 b) az összerendelési kapcsolati kód képzése és annak a csak általa visszafejthető titkosított változatának létrehozása, valamint a titkosított kapcsolati kód összerendelési bejegyzéshez történő hozzárendelése céljából megkeresi a 10/A. § (2) bekezdésében meghatározott azonosító képzésére jogosult szervet (a továbbiakban: összerendelési kapcsolati kód képzésére jogosult szerv).
 
-(5) A 10/A. § (2) bekezdés c)–j) pontja szerinti adatkezelő szerv a (4) bekezdés b) pontja szerinti megkeresésben foglaltak teljesítése során az összerendelési kapcsolati kód titkosított változatát, valamint ahhoz kapcsoltan az összerendelési kapcsolati kód alanyának természetes személyazonosító adatait tartalmazó adatállományt átadja az összerendelési nyilvántartást vezető szervnek.
+(5) A 10/A. § (2) bekezdés c)–j) és l) pontja szerinti adatkezelő szerv a (4) bekezdés b) pontja szerinti megkeresésben foglaltak teljesítése során az összerendelési kapcsolati kód titkosított változatát, valamint ahhoz kapcsoltan az összerendelési kapcsolati kód alanyának természetes személyazonosító adatait tartalmazó adatállományt átadja az összerendelési nyilvántartást vezető szervnek.
 
 (6) Az adatkezelő az (5) bekezdés szerinti adatállomány összeállítása céljából azon azonosítókhoz rendel összerendelési kapcsolati kódot, amelyek:
 
-a) a 10/A. § (2) bekezdés e) és g) pontja szerinti okmányok esetében személyazonosság igazolására történő felhasználási célból érvényesnek minősülnek,
+a) a 10/A. § (2) bekezdés e), g) és l) pontja szerinti okmányok esetében személyazonosság igazolására történő felhasználási célból érvényesnek minősülnek,
 
 b) a 10/A. § (2) bekezdés f) pontja szerinti okmány esetében a 10/A. § (6) bekezdése szerinti megszüntetési ok nem áll fenn,
 
