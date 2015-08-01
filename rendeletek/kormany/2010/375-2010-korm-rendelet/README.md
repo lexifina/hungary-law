@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-375-20-
 | 2014-01-01 | 2010-375-20-22.12 | 382/2013. (XI. 4.) Korm. rendelet |
 | 2014-12-01 | 2010-375-20-22.13 | 296/2014. (XI. 28.) Korm. rendelet |
 | 2015-04-01 | 2010-375-20-22.14 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-08-01 | 2010-375-20-22.15 | 204/2015. (VII. 23.) Korm. rendelet |
