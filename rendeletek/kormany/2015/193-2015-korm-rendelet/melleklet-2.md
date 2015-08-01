@@ -4,6 +4,6 @@
 
 ## „d) középfokú munkaerő-piaci ügyintéző, munkaerő-piaci menedzser és munkaerő-piaci szolgáltatási ügyintéző szakképesítés.”
 
-2. melléklet a 193/2015. (VII. 21.) Korm. rendelethez[^5]
+2. melléklet a 193/2015. (VII. 21.) Korm. rendelethez[^3]
 
-[^5]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
