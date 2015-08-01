@@ -1,3 +1,3 @@
-## 4–5. §[^1]
+## 4–5. §[^4]
 
-[^1]: A 4–5. § a 18. § (2) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
+[^4]: A 4–5. § a 18. § (2) bekezdése alapján 2015. szeptember 1-jén lép hatályba.

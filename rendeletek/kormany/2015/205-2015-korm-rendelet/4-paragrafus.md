@@ -1,5 +1,3 @@
-## 3. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló 363/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R.) 2. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## „(2) Az FT ülésén a tagok, az FT hivatalának vezetője és a rektor vesz részt. Az FT ülés állandó, tanácskozási jogú meghívottja a külpolitikáért felelős miniszter által vezetett minisztérium képviselője. Részt vehet továbbá a tag által erre felkért szakértő, valamint a tagok által közösen meghatározott személy is, ha részvételük elősegíti a megalapozott döntéshozatalt.
-
-## (3) Az FT ülése akkor határozatképes, ha minden tagja jelen van. A testület egy tag távollétében is határozatképes, amennyiben a jelen nem lévő tag vállalja, hogy 2 napon belül elektronikus levelező rendszeren vagy postai úton megküldi az FT hivatalának kézzel aláírt szavazatát. Sürgős döntési helyzetben bármely tag kezdeményezheti az elektronikus levelező rendszeren vagy postai úton történő előterjesztést és a szavazást.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
