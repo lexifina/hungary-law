@@ -7,11 +7,3 @@
 (3) A 8. § (4) bekezdése 2017. január 1-jén lép hatályba.
 
 (4) A 21. § (2) bekezdése 2018. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
