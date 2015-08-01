@@ -1,9 +1,0 @@
-6. § (1) A szolgáltató elektronikus úton történő szerződéskötéskor is köteles biztosítani, hogy a kis- és középvállalkozások az előfizetői szerződés megkötésekor kérhessék az egyéni előfizetőkre vonatkozó szabályok vonatkozásukban történő alkalmazását, amennyiben az általuk igénybe venni kívánt szolgáltatás az egyéni előfizetők számára is elérhető a szolgáltató általános szerződési feltételei szerint. Ebben az esetben a szolgáltató a részletes – az előnyöket és hátrányokat bemutató – tájékoztatást elektronikus úton köteles megadni, a tájékoztatás megtörténtét a szolgáltató elektronikus úton, a tájékoztatás módjához igazodóan köteles igazolni.
-
-(2) Az Eht. 127. § (4b) bekezdésében foglalt ajánlat és tájékoztatás megtörténtét a szolgáltató köteles igazolni. A tájékoztatás elmaradása esetén az előfizetői szerződésben az előfizetőt érintő, a hosszabb határozott időből eredő bármilyen hátrányos jogkövetkezmény semmis.
-
-(3) A szolgáltató általános szerződési feltételeiben lehetővé teheti mobil internet hozzáférési szolgáltatásra kötött előfizetői szerződés esetén, hogy az előfizető a szerződéstől elállhasson. Az elállási jog gyakorlására a szolgáltatás nyújtásának megkezdésétől számított legalább 5 napot kell biztosítani. A szerződés megkötésével egyidejűleg a szolgáltató köteles tájékoztatni az előfizetőt, hogy biztosítja-e az elállási jogot.
-
-(4) A szolgáltató nem követelhet az előfizetőtől díjat, ellenszolgáltatást, ha olyan szolgáltatást, terméket vagy elektronikus hírközlő eszközt értékesít, amelyet az előfizető nem rendelt meg. A szolgáltató erre vonatkozó ajánlatának hallgatólagos vagy ráutaló magatartással történő elfogadását az előfizető elfogadó nyilatkozatának elmulasztása esetén sem lehet vélelmezni.
-
-(5) Az 5–6. § rendelkezéseit a kizárólag elektronikus levelezés vagy azzal egyenértékű egyéni kommunikációs eszközzel tett címzett nyilatkozatok útján kötött előfizetői szerződésekre is alkalmazni kell.

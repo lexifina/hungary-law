@@ -1,3 +1,0 @@
-24. § (1) Az országos belföldi tudakozó szolgáltatás nyújtásához az adatainak abban történő felhasználásához hozzájárulását adó előfizető nevét, lakcímének a szolgáltatóval nyilvánosságra hozatal céljából közölt részét és kapcsolási számát az egyetemes elektronikus hírközlési szolgáltató térítésmentesen kapja meg az előfizetői hozzáférést nyújtó érintett telefonszolgáltatóktól. Az e célból átadott információk csak az egyetemes tudakozó szolgáltatáshoz használhatók fel.
-
-(2) A telefonszolgáltatók kötelesek lehetővé tenni, hogy az országos belföldi tudakozó szolgáltatás az Európai Gazdasági Térség más végfelhasználói számára hanghívás vagy SMS útján közvetlenül hozzáférhető legyen.
