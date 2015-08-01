@@ -30,4 +30,6 @@ Határidő: a mindenkori éves költségvetés tervezésével egyidejűleg
 
 4. egyetért azzal, hogy a Nemzeti Sportközpontok által a Program keretében lefolytatott beruházások mentesüljenek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontjában foglaltak alól;
 
-5. visszavonja a köznevelési infrastruktúra-bővítő beruházások, kiemelten tanuszoda, tornaterem, tanterem megvalósításához kapcsolódó Nemzeti Köznevelési Infrastruktúra Fejlesztési Programról szóló 1086/2014. (II. 28.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
