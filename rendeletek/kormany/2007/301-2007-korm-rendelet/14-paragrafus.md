@@ -1,8 +1,8 @@
-## Szerződés alapján vagy adomány felhasználása útján teljesített ellátások[^25]
+## Szerződés alapján vagy adomány felhasználása útján teljesített ellátások[^26]
 
-14. § (1)[^26] A befogadással összefüggő feladatok hatékonyabb végrehajtása érdekében a menekültügyi hatóság az egyes ellátást és támogatást célzó feladatok teljesítésére a (2) bekezdésben felsorolt szervezetekkel szerződést köthet.
+14. § (1)[^27] A befogadással összefüggő feladatok hatékonyabb végrehajtása érdekében a menekültügyi hatóság az egyes ellátást és támogatást célzó feladatok teljesítésére a (2) bekezdésben felsorolt szervezetekkel szerződést köthet.
 
-(2)[^27] A menekültügyi hatóság különösen civil szervezettel, helyi önkormányzattal, egyházi jogi személlyel, alapítvánnyal, ezek intézményével, gazdálkodó szervezettel, valamint egyéb jogi személlyel (a továbbiakban: szolgáltató) szerződést köthet
+(2)[^28] A menekültügyi hatóság különösen civil szervezettel, helyi önkormányzattal, egyházi jogi személlyel, alapítvánnyal, ezek intézményével, gazdálkodó szervezettel, valamint egyéb jogi személlyel (a továbbiakban: szolgáltató) szerződést köthet
 
 a) az elismerését kérő számára a befogadás anyagi feltételeinek biztosítására;
 
@@ -30,6 +30,6 @@ e) a szerződés érvényességi idejét, felmondásának módját, valamint az 
 
 (5) A szerződéshez – szükség esetén – mellékelni kell a szolgáltató jogállására vonatkozó bírósági határozat, illetve a szerződésben vállalt feladatok ellátásához szükséges hatósági engedély másolatát.
 
-[^25]: A 14. §-át megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^26]: A 14. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^27]: A 14. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^26]: A 14. §-át megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^27]: A 14. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^28]: A 14. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.

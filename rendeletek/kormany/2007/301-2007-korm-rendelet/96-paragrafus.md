@@ -1,11 +1,11 @@
-## 95. §[^185] Ha a menekültügyi hatóság a kérelmet a Tv. 51. § (2) bekezdés e) pontja alapján utasítja el, a jogerős elutasító határozat közlésével egyidejűleg a külföldi részére igazolást állít ki, melyben a harmadik ország érintett hatóságait – a harmadik ország hivatalos nyelvén – tájékoztatja a kérelem elutasításának tényéről és indokáról.
+## 95. §[^195] Ha a menekültügyi hatóság a kérelmet a Tv. 51. § (2) bekezdés e) pontja alapján utasítja el, a jogerős elutasító határozat közlésével egyidejűleg a külföldi részére igazolást állít ki, melyben a harmadik ország érintett hatóságait – a harmadik ország hivatalos nyelvén – tájékoztatja a kérelem elutasításának tényéről és indokáról.
 
 ## Dublini eljárás
 
-96. § (1)[^186] Ha a dublini eljárás lefolytatására az részletes vizsgálati eljárásban kerül sor, a 83–85. §-ban foglaltakat megfelelően alkalmazni kell.
+96. § (1)[^196]
 
-(2)[^187] Dublini eljárás lefolytatásának csak a menekültügyi hatóság részletes vizsgálati eljárást lezáró döntése meghozataláig van helye.
+(2)[^197] Dublini eljárás lefolytatásának – a menekültügyi eljárás megszüntetése eseteinek kivételével – csak a menekültügyi hatóság menekültügyi eljárást befejező döntésének meghozataláig van helye.
 
-[^185]: A 95. § a 81/2012. (IV. 13.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^186]: A 96. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
-[^187]: A 96. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése szerint módosított szöveg.
+[^195]: A 95. § a 81/2012. (IV. 13.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^196]: A 96. § (1) bekezdését a 204/2015. (VII. 23.) Korm. rendelet 28. § c) pontja hatályon kívül helyezte.
+[^197]: A 96. § (2) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 25. §-ával megállapított szöveg.

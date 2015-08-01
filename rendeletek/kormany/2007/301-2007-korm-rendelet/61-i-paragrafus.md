@@ -1,4 +1,4 @@
-61/I. §[^142] (1) A menekültügyi hatóság a családsegítő szolgálat, a közreműködő civil szervezet, vagy a menekült vagy oltalmazott önkéntes jelzése alapján – a 61/H. § (3) bekezdése szerinti felfüggesztés esetét ide nem értve a Tv. 32/D. § (1) bekezdése szerint – az integrációs támogatás folyósítását határozattal felfüggesztheti, amíg a felfüggesztésre okot adó körülmények fennállnak.
+61/I. §[^144] (1) A menekültügyi hatóság a családsegítő szolgálat, a közreműködő civil szervezet, vagy a menekült vagy oltalmazott önkéntes jelzése alapján – a 61/H. § (3) bekezdése szerinti felfüggesztés esetét ide nem értve a Tv. 32/D. § (1) bekezdése szerint – az integrációs támogatás folyósítását határozattal felfüggesztheti, amíg a felfüggesztésre okot adó körülmények fennállnak.
 
 (2) A felfüggesztés időtartamának az arra okot adó körülménnyel arányosnak kell lennie. A támogatás folyósítását a menekültügyi hatóság határozattal újra elrendelheti, amennyiben a felfüggesztésre okot adó körülmények megszűntek.
 
@@ -8,4 +8,4 @@
 
 (5) A Tv. 32/D. § (1) bekezdés c) pontja és a 32/D. § (2) bekezdés a) pontja alapján a menekült vagy az oltalmazott a 30 napot meghaladó fekvőbeteg-gyógyintézeti ellátása következtében alkalmazott felfüggesztésnek vagy megszüntetésnek elsősorban a támogató szolgáltatásokra kell vonatkoznia. Ha a fekvőbeteg-gyógyintézeti ellátásban részesülő menekültnek vagy oltalmazottnak nincs nagykorú családtagja, a családsegítő szolgálatnak vagy közreműködő civil szervezetnek – ha a menekült vagy oltalmazott egészségi állapota ezt indokolttá teszi, az akadályoztatás tényét – szükség szerint jelzi a munkáltató, az oktatási intézmény, a nyelvi szolgáltató és a lakhatást biztosító ingatlan tulajdonosa, bérbeadója vagy fenntartója felé.
 
-[^142]: A 61/I. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^144]: A 61/I. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.

@@ -1,4 +1,4 @@
-112. §[^199] (1) A Tv. 92. § (2) bekezdése alapján azon menekült vagy oltalmazott,
+112. §[^209] (1) A Tv. 92. § (2) bekezdése alapján azon menekült vagy oltalmazott,
 
 a) akinek 2014. január 1-jén a jogszabályban meghatározott támogatás iránti kérelme elbírálása folyamatban van, vagy támogatásban 2014. január 1-jét megelőzően kevesebb, mint 6 hónapja részesül, egyedülálló személy esetén a 61/G. § (3) bekezdés a) pontja, család esetén a 61/G. § (4) bekezdés a) pontja szerint meghatározott összegű integrációs támogatásra jogosult, továbbá 24 hónapos időtartamra köthet integrációs szerződést;
 
@@ -16,4 +16,4 @@ d) aki támogatásban 2014. január 1-jét megelőzően több, mint 18 hónapja 
 
 (5) Az integrációs támogatás összegére és az integrációs szerződésre egyebekben a 61/A–61/N. § rendelkezései irányadóak.
 
-[^199]: A 112. § e rendelet 109. § (2) bekezdése alapján hatályát vesztette, újonnan a 446/2013. (XI. 28.) Korm. rendelet 35. §-a iktatta be.
+[^209]: A 112. § e rendelet 109. § (2) bekezdése alapján hatályát vesztette, újonnan a 446/2013. (XI. 28.) Korm. rendelet 35. §-a iktatta be.

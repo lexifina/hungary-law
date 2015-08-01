@@ -1,4 +1,4 @@
-37/A. §[^87] (1) A menedékest az alábbi ellátások és támogatások illetik meg:
+37/A. §[^89] (1) A menedékest az alábbi ellátások és támogatások illetik meg:
 
 a) a befogadás anyagi feltételeinek további biztosítása,
 
@@ -32,4 +32,4 @@ a) az ingyenes magyar nyelvoktatás, valamint
 
 b) a rendszeres létfenntartási támogatás.
 
-[^87]: A 37/A. §-t a 446/2013. (XI. 28.) Korm. rendelet 20. §-a iktatta be.
+[^89]: A 37/A. §-t a 446/2013. (XI. 28.) Korm. rendelet 20. §-a iktatta be.

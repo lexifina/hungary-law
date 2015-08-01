@@ -1,8 +1,8 @@
-## Az őrizet végrehajtására szolgáló létesítményekre vonatkozó követelmények[^81]
+## Az őrizet végrehajtására szolgáló létesítményekre vonatkozó követelmények[^82]
 
-36/D. §[^82] (1) Az őrizet olyan épületben vagy épületrészben létesíthető, ahol
+36/D. §[^83] (1) Az őrizet olyan épületben vagy épületrészben létesíthető, ahol
 
-a) az elismerését kérő elhelyezésére szolgáló helyiségekben fejenként legalább 15 m3 légtér és 5 m2 mozgástér, a házastársak és a kiskorú gyermekkel rendelkező családok részére különálló – a családtagok számára is figyelemmel – legalább 8 m2 mozgásteret magában foglaló lakótér,
+a)[^84] az elismerését kérő elhelyezésére szolgáló helyiségekben fejenként lehetőség szerint legalább 15 m3 légtér és 5 m2 mozgástér, a házastársak és a kiskorú gyermekkel rendelkező családok részére különálló – a családtagok számára is figyelemmel – legalább 8 m2 mozgásteret magában foglaló lakótér,
 
 b) az étkezés, a szabadidő eltöltésére, beleértve a kiskorú elismerését kérő korának megfelelő játék- és rekreációs tevékenységet, illetve a látogatók fogadására alkalmas közösségi helyiség,
 
@@ -38,5 +38,6 @@ c) a kiskorú gyermekkel rendelkező családokat
 
 külön épületben vagy épületrészben kell elhelyezni.
 
-[^81]: A 36/D. §-t megelőző alcímet a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
-[^82]: A 36/D. §-t a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
+[^82]: A 36/D. §-t megelőző alcímet a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
+[^83]: A 36/D. §-t a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
+[^84]: A 36/D. § (1) bekezdés a) pontja a 204/2015. (VII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
