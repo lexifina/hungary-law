@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2015-01-30 | 2014. évi CXI. törvény | 1997-154-00-00.70 |
 | 2015-04-01 | 2015. évi VI. törvény | 1997-154-00-00.71 |
 | 2015-07-01 | 2015. évi LXXVII. törvény | 1997-154-00-00.72 |
+| 2015-08-01 | 2015. évi CXXIII. törvény | 1997-154-00-00.73 |
