@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-116-20-
 | --- | --- | --- |
 | 2015-05-08 | 2015-116-20-22.1 | 116/2015. (V. 7.) Korm. rendelet |
 | 2015-05-09 | 2015-116-20-22.2 | 2010: CXXX. törvény |
+| 2015-08-01 | 2015-116-20-22.3 | 2010: CXXX. törvény |
