@@ -12,7 +12,7 @@ e) a megállapodást a születendő gyermek születési családi nevére,
 
 f) az érvényes házasság magyar jog szerinti kezdő időpontját,
 
-g) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilvánításának tényét,
+g) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
 
 h) a b) pontban szereplő adatoknak a házasság fennállása alatt bekövetkezett változását, valamint a házasság megszűnését követően a magyar állampolgárság megszerzését, megszűnését és a házassági névviselési forma módosítását,
 

@@ -30,4 +30,16 @@ m) tolmács: a tolmács és a jelbeszédben jártas személy,
 
 n) származási hely: az anya nyilatkozata alapján az anya lakóhelye vagy tartózkodási helye, ismeretlen anya esetén a gyámhatóság által megállapított hely, hazai anyakönyvezés esetén – kérelemre – az anya lakóhelye, illetve ha az nem ismert, a gyermek születési helye,
 
-o) személyazonosság igazolására alkalmas hatósági igazolvány: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29. § (4) bekezdésében meghatározott igazolványok.
+o) személyazonosság igazolására alkalmas hatósági igazolvány: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján személyazonosság igazolására alkalmas igazolványok,
+
+p) családi név korrekciója: az 1953. január 1-jén hatályba lépett kötőjel kötelező használatával és a megkülönböztető betűjel eltörlésével kapcsolatos rendelkezések következtében kialakult névviselés rendezése,
+
+q) adatbejegyzés: adat rögzítése az elektronikus nyilvántartásba,
+
+r) adatmódosítás: adatváltozás bejegyzése vagy hibás adat javításának elvégzése,
+
+s) adattörlés: az anyakönyvben szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
+
+t) eseményazonosító: az adott anyakönyvi eseményt azonosító alfanumerikus azonosító,
+
+u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történő bejegyzésekor, az adattörléskor, valamint az egyéb elektronikus ügyindításkor képzett alfanumerikus azonosító.

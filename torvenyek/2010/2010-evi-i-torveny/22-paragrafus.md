@@ -14,7 +14,9 @@ d) a házasulók a házasságkötés törvényes feltételeit nem igazolták,
 
 e) a házasulók a házasságkötésükhöz a jogszabályban előírt felmentést vagy engedélyt nem mutatták be,
 
-f) a bíróság valamelyik házasuló cselekvőképességét a házasságkötésre vonatkozó jognyilatkozat tételében korlátozta, és a gyámhatóság a házasságkötésre engedélyt nem adott, vagy a házasuló a házasságkötés időpontjában olyan állapotban van, hogy az ügyei viteléhez szükséges belátási képessége átmenetileg hiányzik.
+f) a bíróság valamelyik házasulót cselekvőképességet teljesen korlátozó gondnokság alá helyezte vagy a házasuló a házasság megkötésekor cselekvőképtelen állapotban van,
+
+g) a gyámhatóság a kiskorú házasságkötésére engedélyt nem adott vagy a 17. § (4) bekezdésében meghatározott érvényességi idő lejárt.
 
 (3) Az anyakönyvvezető a házasulók valamelyikének közeli halállal fenyegető egészségi állapota esetén sem adhat felmentést házassági akadály alól.
 

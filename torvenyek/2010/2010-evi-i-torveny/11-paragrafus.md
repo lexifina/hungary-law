@@ -2,4 +2,4 @@
 
 (2) A házassági névviselési forma módosítására irányuló eljárás lefolytatására a házasságkötést nyilvántartó anyakönyvvezető illetékes.
 
-(3)
+(3) A családi név korrekciójára irányuló eljárás lefolytatására bármelyik anyakönyvvezető illetékes.

@@ -6,7 +6,7 @@ a) a központi nyilvántartó szerv az arra jogosultnak közvetlen hozzáférés
 
 b) a központi nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezést végző hatóság törvényben meghatározott kötelező adattovábbítást végez,
 
-c) a központi nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezést végző hatóság az arra jogosult részére adatigénylés alapján adattovábbítást végez,
+c) az anyakönyvezető és a hazai anyakönyvezést végző hatóság az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 
 d) a 4. § (1) bekezdésében felsoroltak és a hivatásos konzuli tisztviselő az arra jogosult részére anyakönyvi okiratot állít ki, vagy
 

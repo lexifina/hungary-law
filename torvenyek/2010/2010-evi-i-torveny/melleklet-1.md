@@ -4,7 +4,7 @@
 
 ## 1. A szervet megjelölő azonosító.
 
-## 2. Egyedi elektronikus anyakönyvi azonosító.
+## 2. A születés eseményazonosítója.
 
 ## 3. A gyermek
 
@@ -46,13 +46,9 @@
 
 ## 5. Az anya 69/B. § (1) bekezdés b) pont bj) alpontja szerinti adata.
 
-## 6. A szülők
+## 6. A szülők 69/D. § (1) bekezdés a) pontja szerinti adata.
 
-## 6.1. 69/D. § (1) bekezdés a) pontja szerinti adata vagy
-
-## 6.2. élettársi kapcsolata nyilvántartásba vételének helye és ideje.
-
-## 7. Ha az anya özvegy, a férj
+## 7. Ha az anya özvegy, a volt férj
 
 ## 7.1. 69/F. § (1) bekezdés a) pontja és
 
@@ -72,187 +68,193 @@
 
 ## 13. A kiállítás kelte.
 
-## 14. A születést bejelentő intézmény neve és címe.
+## 14. A születést bejelentő intézmény neve és címe, képviselőjének neve és aláírása, az intézmény bélyegzőlenyomata.
 
-## b) Jegyzőkönyv a házasság bejelentéséről
+## 15. Magánszemély bejelentő neve, aláírása, lakcíme, személyazonosító okmányának típusa, okmányazonosítója, érvényességi ideje, kiállító hatósága.
+
+## b) Jegyzőkönyv a házasságkötési szándék bejelentéséről
 
 ## 1. A szervet megjelölő azonosító.
 
-## 2. A 69/D. § (1) bekezdés a) pontja szerinti adat.
+## 2. A házasságkötés eseményazonosítója.
 
-## 3. A házastársak
+## 3. A 69/D. § (1) bekezdés a) pontja szerinti adat.
 
-## 3.1. 69/B. § (1) bekezdés b) pont ba) alpontja és g) vagy h) pontja,
+## 4. A házastársak
 
-## 3.2. 69/B. § (1) bekezdés b) pont bb) alpontja,
+## 4.1. 69/B. § (1) bekezdés b) pont ba) alpontja és g) vagy h) pontja,
 
-## 3.3. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában 69/B. § (1) bekezdés b) pont bc) alpontja,
+## 4.2. 69/B. § (1) bekezdés b) pont bb) alpontja,
 
-## 3.4. 69/B. § (1) bekezdés b) pont bi) alpontja és g) vagy h) pontja,
+## 4.3. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában 69/B. § (1) bekezdés b) pont bc) alpontja,
 
-## 3.5. 69/B. § (1) bekezdés b) pont bj) alpontja,
+## 4.4. 69/B. § (1) bekezdés b) pont bi) alpontja és g) vagy h) pontja,
 
-## 3.6. 69/B. § (1) bekezdés b) pont bf) alpontja és g) vagy h) pontja,
+## 4.5. 69/B. § (1) bekezdés b) pont bj) alpontja,
 
-## 3.7. 69/B. § (1) bekezdés b) pont bg) alpontja és g) vagy h) pontja,
+## 4.6. 69/B. § (1) bekezdés b) pont bf) alpontja és g) vagy h) pontja,
 
-## 3.8. 69/B. § (1) bekezdés a) pontja,
+## 4.7. 69/B. § (1) bekezdés b) pont bg) alpontja és g) vagy h) pontja,
 
-## 3.9. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja
+## 4.8. 69/B. § (1) bekezdés a) pontja,
+
+## 4.9. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja
 
 ## szerinti adata,
 
-## 3.10. lakóhelye,
+## 4.10. lakóhelye,
 
-## 3.11. menekült vagy oltalmazott jogállása,
+## 4.11. menekült vagy oltalmazott jogállása,
 
-## 3.12. előző állampolgársága,
+## 4.12. előző állampolgársága,
 
-## 3.13. előző lakóhelye.
+## 4.13. előző lakóhelye.
 
-## 4. A bemutatott okiratok tekintetében
+## 5. A bemutatott okiratok tekintetében
 
-## 4.1. a személyazonosság igazolására szolgáló okmány típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+## 5.1. a személyazonosság igazolására szolgáló okmány típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
 
-## 4.2. a születési anyakönyvi kivonat okmányazonosítója, a kiállító hatóság megnevezése, az egyedi elektronikus anyakönyvi azonosító vagy a folyószám,
+## 5.2. a születési anyakönyvi kivonat okmányazonosítója, a kiállító hatóság megnevezése, az egyedi elektronikus anyakönyvi azonosító vagy a folyószám,
 
-## 4.3. a személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
+## 5.3. a személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
 
-## 4.4. a családi állapot igazolására bemutatott okirat és a kiállító hatóság megnevezése,
+## 5.4. a családi állapot igazolására bemutatott okirat és a kiállító hatóság megnevezése,
 
-## 4.5. a házassági engedély, felmentés, a kiállító hatóság megnevezése, az engedély, felmentés érvényességi ideje,
+## 5.5. a házassági engedély, felmentés, a kiállító hatóság megnevezése, az engedély, felmentés érvényességi ideje,
 
-## 4.6. az állampolgárságot igazoló okirat típusa, száma, a kiállító hatóság megnevezése, az okirat érvényességi ideje.
+## 5.6. az állampolgárságot igazoló okirat típusa, száma, a kiállító hatóság megnevezése, az okirat érvényességi ideje.
 
-## 5. Megjegyzés
+## 6. Megjegyzés
 
-## 5.1. a termen kívüli házasságkötés tényéről,
+## 6.1. a termen kívüli házasságkötés tényéről,
 
-## 5.2. az egyik fél közeli halállal fenyegető állapotáról.
+## 6.2. az egyik fél közeli halállal fenyegető állapotáról.
 
-## 6. A házassági akadályok elhallgatásának következményeire való figyelmeztetés után a menyasszony és a vőlegény nyilatkozata arról, hogy egymással házasságot kívánnak kötni, és legjobb tudomásuk szerint házasságkötésüknek törvényi akadálya nincs.
+## 7. A házassági akadályok elhallgatásának következményeire való figyelmeztetés után a menyasszony és a vőlegény nyilatkozata arról, hogy egymással házasságot kívánnak kötni és legjobb tudomásuk szerint házasságkötésüknek törvényi akadálya nincs.
 
-## 7. A menyasszony és a vőlegény nyilatkozata a születendő közös gyermekeik családi nevéről.
+## 8. A menyasszony és a vőlegény nyilatkozata a születendő közös gyermekeik családi nevéről.
 
-## 8. A házasság hivatali helyiségen kívüli vagy hivatali munkaidőn kívüli megkötése iránti kérelem és a nyilatkozatok.
+## 9. A házasság hivatali helyiségen kívüli vagy hivatali munkaidőn kívüli megkötése iránti kérelem és a nyilatkozatok.
 
-## 9. A harmincnapos várakozási idő alóli felmentés iránti kérelem és indokolása.
+## 10. A 30 napos várakozási idő alóli felmentés iránti kérelem és indokolása.
 
-## 10. A tanúsítvány alóli felmentés iránti kérelem és indokolása.
+## 11. A tanúsítvány bemutatása alóli felmentés iránti kérelem és indokolása.
 
-## 11. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
+## 12. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
 
-## 12. A menyasszony aláírása.
+## 13. A menyasszony aláírása.
 
-## 13. A vőlegény aláírása.
+## 14. A vőlegény aláírása.
 
-## 14. A tolmács aláírása.
+## 15. A tolmács aláírása.
 
-## 15. A házasságkötésnél közreműködő anyakönyvvezető családi és utóneve.
+## 16. A házasságkötésnél közreműködő anyakönyvvezető családi és utóneve.
 
-## 16. A tanúk és a tolmács
+## 17. A tanúk és a tolmács
 
-## 16.1. családi és utóneve,
+## 17.1. családi és utóneve,
 
-## 16.2. lakcíme,
+## 17.2. lakcíme,
 
-## 16.3. bemutatott személyazonosságot igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+## 17.3. bemutatott személyazonosságot igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
 
-## 16.4. aláírása.
+## 17.4. aláírása.
 
-## 17. Megjegyzés a nemzetiségi nyelven történő házasságkötésről.
+## 18. Megjegyzés a nemzetiségi nyelven történő házasságkötésről.
 
-## 18. A kiállítás kelte.
+## 19. A kiállítás kelte.
 
 ## c) Jegyzőkönyv bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről
 
 ## 1. A szervet megjelölő azonosító.
 
-## 2. A 69/E. § (1) bekezdés a) pontja szerinti adat.
+## 2. A bejegyzett élettársi kapcsolat eseményazonosítója.
 
-## 3. A bejegyzett élettársak
+## 3. A 69/E. § (1) bekezdés a) pontja szerinti adat.
 
-## 3.1. 69/B. § (1) bekezdés b) pont ba) alpontja és g) vagy h) pontja,
+## 4. A bejegyzett élettársak
 
-## 3.2. 69/B. § (1) bekezdés b) pont bb) alpontja,
+## 4.1. 69/B. § (1) bekezdés b) pont ba) alpontja és g) vagy h) pontja,
 
-## 3.3. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában bc) alpontja,
+## 4.2. 69/B. § (1) bekezdés b) pont bb) alpontja,
 
-## 3.4. 69/B. § (1) bekezdés b) pont be) alpontja,
+## 4.3. 69/B. § (1) bekezdés b) pont bd) alpontja, annak hiányában bc) alpontja,
 
-## 3.5. 69/B. § (1) bekezdés b) pont bj) alpontja,
+## 4.4. 69/B. § (1) bekezdés b) pont bc) alpontja,
 
-## 3.6. 69/B. § (1) bekezdés b) pont bf) alpontja és g) vagy h) pontja,
+## 4.5. 69/B. § (1) bekezdés b) pont bj) alpontja,
 
-## 3.7. 69/B. § (1) bekezdés b) pont bg) alpontja és g) vagy h) pontja,
+## 4.6. 69/B. § (1) bekezdés b) pont bf) alpontja és g) vagy h) pontja,
 
-## 3.8. 69/B. § (1) bekezdés a) pontja,
+## 4.7. 69/B. § (1) bekezdés b) pont bg) alpontja és g) vagy h) pontja,
 
-## 3.9. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja
+## 4.8. 69/B. § (1) bekezdés a) pontja,
+
+## 4.9. magyar állampolgársága vagy a 69/B. § (1) bekezdés b) pont bh) alpontja
 
 ## szerinti adata,
 
-## 3.10. lakóhelye,
+## 4.10. lakóhelye,
 
-## 3.11. menekült vagy oltalmazott jogállása,
+## 4.11. menekült vagy oltalmazott jogállása,
 
-## 3.12. előző állampolgársága,
+## 4.12. előző állampolgársága,
 
-## 3.13. előző lakóhelye.
+## 4.13. előző lakóhelye.
 
-## 4. A bemutatott okiratok tekintetében
+## 5. A bemutatott okiratok tekintetében
 
-## 4.1. a személyazonosság igazolására szolgáló okmány típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+## 5.1. a személyazonosság igazolására szolgáló okmány típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
 
-## 4.2. a születési anyakönyvi kivonat okmányazonosítója, a kiállító hatóság megnevezése, az egyedi elektronikus anyakönyvi azonosító vagy a folyószám,
+## 5.2. a születési anyakönyvi kivonat okmányazonosítója, a kiállító hatóság megnevezése, az egyedi elektronikus anyakönyvi azonosító vagy a folyószám,
 
-## 4.3. a személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
+## 5.3. a személyi azonosítót és lakcímet igazoló hatósági igazolvány száma,
 
-## 4.4. a családi állapot igazolására bemutatott okirat és a kiállító hatóság megnevezése,
+## 5.4. a családi állapot igazolására bemutatott okirat és a kiállító hatóság megnevezése,
 
-## 4.5. a bejegyzett élettársi kapcsolat létesítésére vonatkozó engedély, felmentés, a kiállító hatóság megnevezése, az engedély, felmentés érvényességi ideje,
+## 5.5. a bejegyzett élettársi kapcsolat létesítésére vonatkozó engedély, felmentés, a kiállító hatóság megnevezése, az engedély, felmentés érvényességi ideje,
 
-## 4.6. az állampolgárságot igazoló okirat típusa, száma, a kiállító hatóság megnevezése, az okirat érvényességi ideje.
+## 5.6. az állampolgárságot igazoló okirat típusa, száma, a kiállító hatóság megnevezése, az okirat érvényességi ideje.
 
-## 5. Megjegyzés
+## 6. Megjegyzés
 
-## 5.1. a bejegyzett élettársi kapcsolat hivatalos helyiségen kívüli létesítésének tényéről,
+## 6.1. a bejegyzett élettársi kapcsolat hivatalos helyiségen kívüli létesítésének tényéről,
 
-## 5.2. az egyik fél közeli halállal fenyegető állapotáról.
+## 6.2. az egyik fél közeli halállal fenyegető állapotáról.
 
-## 6. A bejegyzett élettársi kapcsolat létrejötte akadályai elhallgatásának következményeire való figyelmeztetés után a felek nyilatkozata arról, hogy egymással bejegyzett élettársi kapcsolatot kívánnak létesíteni, és legjobb tudomásuk szerint ennek törvényi akadálya nincs.
+## 7. A bejegyzett élettársi kapcsolat létrejötte akadályai elhallgatásának következményeire való figyelmeztetés után a felek nyilatkozata arról, hogy egymással bejegyzett élettársi kapcsolatot kívánnak létesíteni és legjobb tudomásuk szerint ennek törvényi akadálya nincs.
 
-## 7. A bejegyzett élettársi kapcsolat hivatalos helyiségen vagy hivatali munkaidőn kívüli létesítése iránti kérelem és a nyilatkozatok.
+## 8. A bejegyzett élettársi kapcsolat hivatalos helyiségen vagy hivatali munkaidőn kívüli létesítése iránti kérelem és a nyilatkozatok.
 
-## 8. A tanúsítvány alóli felmentés iránti kérelem és indokolása.
+## 9. A tanúsítvány alóli felmentés iránti kérelem és indokolása.
 
-## 9. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
+## 10. A jegyzőkönyvet felvevő anyakönyvvezető aláírása.
 
-## 10. A felek aláírása.
+## 11. A felek aláírása.
 
-## 11. A tolmács aláírása.
+## 12. A tolmács aláírása.
 
-## 12. A bejegyzett élettársi kapcsolat létesítésénél közreműködő anyakönyvvezető családi és utóneve.
+## 13. A bejegyzett élettársi kapcsolat létesítésénél közreműködő anyakönyvvezető családi és utóneve.
 
-## 13. A tanúk és a tolmács
+## 14. A tanúk és a tolmács
 
-## 13.1. születési családi és utóneve,
+## 14.1. születési családi és utóneve,
 
-## 13.2. lakcíme,
+## 14.2. lakcíme,
 
-## 13.3. bemutatott személyazonosságot igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
+## 14.3. bemutatott személyazonosságot igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
 
-## 13.4. aláírása.
+## 14.4. aláírása.
 
-## 14. Megjegyzés a nemzetiségi nyelven történő bejegyzett élettársi kapcsolat létesítéséről.
+## 15. Megjegyzés a nemzetiségi nyelven történő bejegyzett élettársi kapcsolat létesítéséről.
 
-## 15. A kiállítás kelte.
+## 16. A kiállítás kelte.
 
 ## d) Jegyzőkönyv a haláleset bejelentéséről
 
 ## 1. A szervet megjelölő azonosító.
 
-## 2. Egyedi elektronikus anyakönyvi azonosító.
+## 2. A haláleset eseményazonosítója.
 
 ## 3. A 69/F. § (1) bekezdés a) pontja szerinti adat.
 
@@ -284,7 +286,7 @@
 
 ## 5.11. menekült vagy oltalmazott jogállása.
 
-## 6. Az életben levő házastárs vagy bejegyzett élettárs
+## 6. A túlélő házastárs vagy bejegyzett élettárs
 
 ## 6.1. 69/B. § (1) bekezdés b) pont ba) alpontja és g) vagy h) pontja,
 
@@ -302,9 +304,9 @@
 
 ## 10. Az elhalt személyi azonosítóját és lakcímét igazoló hatósági igazolvány száma.
 
-## 11. A bejelentő
+## 11. A magánszemély bejelentő
 
-## 11.1. születési családi és utóneve,
+## 11.1. családi és utóneve, születési családi és utóneve,
 
 ## 11.2. minősége, amelyben a bejelentést tette,
 
@@ -312,7 +314,9 @@
 
 ## 11.4. személyazonosságát igazoló okmányának típusa, okmányazonosítója, a kiállító hatóság megnevezése, az okmány érvényességi ideje,
 
-## 11.5. nyilatkozata arról, hogy a jegyzőkönyvbe bejegyzett adatok a valóságnak megfelelnek.
+## 11.5. nyilatkozata arról, hogy a jegyzőkönyvbe bejegyzett adatok a valóságnak megfelelnek,
+
+## 11.6. aláírása.
 
 ## 12. A jegyzőkönyvet felvevő személy neve és aláírása.
 
@@ -320,4 +324,4 @@
 
 ## 14. A kiállítás kelte.
 
-## 15. A halálesetet bejelentő intézmény neve és címe.
+## 15. A halálesetet bejelentő intézmény neve és címe, képviselőjének neve és aláírása, az intézmény bélyegzőjének lenyomata.

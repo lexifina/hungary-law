@@ -1,4 +1,4 @@
-30. § (1) A házastársak, a házassági tanúk, az anyakönyvvezető, továbbá – ha a házasságkötésnél közreműködik – a tolmács a házasságkötési lapot aláírják. A házasságkötési lap anyakönyvi alapirat.
+30. § (1) A házastársak, a házassági tanúk, az anyakönyvvezető, továbbá – ha a házasságkötésnél közreműködik – a tolmács a házasságkötési lapot aláírják. Amennyiben a házasságot polgármester előtt kötötték meg, a polgármester és az anyakönyvvezető is aláírja a házasságkötési lapot. A házasságkötési lap anyakönyvi alapirat.
 
 (2) Ha valamelyik házasuló a 28. § (2) bekezdése szerinti kérdésre nem igennel válaszol, a nyilatkozatot feltételhez vagy időhöz köti, a házasság nem jön létre. E tényt az anyakönyvvezető a jelenlévők előtt kijelenti.
 

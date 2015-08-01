@@ -10,7 +10,7 @@ d) a tanúk és a tolmács családi és utónevét,
 
 e) az érvényes bejegyzett élettársi kapcsolatnak a magyar jog szerinti kezdő időpontját,
 
-f) a bejegyzett élettársi kapcsolat megszűnésének, megszüntetésének, felbontásának vagy érvénytelenné nyilvánításának tényét,
+f) a bejegyzett élettársi kapcsolat megszűnésének, megszüntetésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
 
 g) a b) pontban szereplő adatoknak a bejegyzett élettársi kapcsolat fennállása alatt bekövetkezett változását, valamint a bejegyzett élettársi kapcsolat megszűnését követően a magyar állampolgárság megszerzését és megszűnését,
 

@@ -44,11 +44,11 @@ c) a születendő gyermek családi nevére vonatkozó megállapodást,
 
 d) a házasság
 
-da) megszűnésének tényét,
+da) megszűnésének tényét, idejét,
 
-db) érvénytelenné nyilvánításának tényét,
+db) érvénytelenné nyilvánításának tényét, idejét,
 
-e) a házastársak házassági nevének módosítását a hatálybalépés megjelölésével,
+e) a házastársak házassági neve módosításának tényét a hatálybalépés megjelölésével,
 
 f) az érvényes házasságnak a magyar jog szerinti kezdő időpontját.
 
@@ -117,3 +117,5 @@ fc) a határozat jogerőre emelkedésének időpontját.
 (7) Ha az anyakönyvbe a nemzetiségi nyelv szabályai szerint bejegyzett születési családi és utónév vagy házassági név a magyar ábécében nem szereplő betűt tartalmaz, az anyakönyvi kivonat tartalmazza a születési családi és utónévnek vagy házassági névnek a magyar ábécé betűivel való átírását.
 
 (8) Külföldi felhasználás céljából diplomáciai felülhitelesítéshez szükséges közbenső felülhitelesítéssel, diplomáciai felülhitelesítéssel, valamint Apostille-tanúsítvánnyal a 2006. március 1-jét követően kiállított anyakönyvi kivonatot lehet ellátni.
+
+(9) Amennyiben az anyakönyvi kivonatot postai úton igényelik és azt nem személyesen veszik át az anyakönyvvezetőnél, az ügyfél-azonosítás hiánya miatt azt kizárólag az igénylő bejelentett lakó- vagy tartózkodási helyére címezve, könyvelt postai küldeményként lehet feladni.

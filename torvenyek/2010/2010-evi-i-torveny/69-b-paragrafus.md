@@ -18,7 +18,7 @@ bf) anyjának születési családi és utónevét,
 
 bg) apjának születési családi és utónevét,
 
-bh) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszerzését vagy megszűnését,
+bh) igazolt nem magyar állampolgárságát, hontalanságát vagy ismeretlen állampolgárságát, magyar állampolgárságának megszerzését vagy megszűnését, valamint a magyar állampolgárság megszűnése után megszerzett külföldi állampolgárságot, ha az érintettnek a megszűnés után Magyarországon anyakönyvi eseménye történik; hazai anyakönyvezés esetén a gyermek magyar állampolgárság megszerzésének idejét, valamint előző állampolgárságát;
 
 bi) házassági nevét,
 
@@ -38,8 +38,8 @@ h) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén a család
 
 (1a) A szülő születési nevének megváltozását a kiskorú gyermek anyakönyvi bejegyzésébe akkor is rögzíteni kell, ha a szülő nem kérte a névváltoztatás hatályának a kiskorú gyermekre történő kiterjesztését, vagy a gyermek nem a névváltoztatással érintett szülő születési családi nevét viseli.
 
-(2) A szülő születési családi és utónevének megváltozását nagykorú személy esetében kizárólag a nagykorú személy kérelmére kell az anyakönyvbe bejegyezni.
+(2) A szülő születési családi és utónevének megváltozását vagy a családi név korrekcióját nagykorú személy esetében kizárólag a nagykorú személy kérelmére kell a saját személyazonosító adatainál adatváltozásként átvezetni és megjeleníteni.
 
-(3) Nem jegyezhető be az anyakönyvbe a szülő utónevének megváltozása, ha az a nemének megváltozásával összefüggésben történt.
+(3) Nem vezethető át adatváltozásként a szülők neme adatának és ahhoz kapcsolódóan az utónevének megváltozása a gyermek személyazonosító adatainál.
 
 (4) A nem megváltozásának anyakönyvbe való bejegyzését meg kell tagadni, ha az érintett személy házassága vagy bejegyzett élettársi kapcsolata fennáll.

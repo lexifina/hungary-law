@@ -4,7 +4,11 @@
 
 (2) A szülő családi nevének megváltoztatása a szülők erre irányuló kérelmére kiterjed a szülő családi nevét viselő cselekvőképtelen kiskorú gyermek családi nevére is. A szülő családi nevének megváltoztatása a szülők erre irányuló kérelme és a korlátozottan cselekvőképes kiskorú hozzájárulása esetén terjed ki a korlátozottan cselekvőképes kiskorúra.
 
-(3) Ha a nevet változtató házastárs nevét a másik házastárs valamilyen formában viseli, a névváltoztatás rá is kiterjed.
+(2a) Amennyiben nem a névváltoztatást kérő szülő a gyermek törvényes képviselője, a névváltoztatáshoz a törvényes képviselő hozzájárulása is szükséges.
+
+(2b) Kiskorú nevében a törvényes képviselője nyújthat be névváltoztatási kérelmet. A korlátozottan cselekvőképes kiskorú kérelmezőnek a névváltoztatáshoz hozzá kell járulnia.
+
+(3) Ha a kérelmező nevét a házastársa házassági névként viseli, a névváltoztatás hatálya rá is kiterjed.
 
 (4) Az (5) bekezdésben foglalt esetet kivéve nem lehet engedélyezni
 

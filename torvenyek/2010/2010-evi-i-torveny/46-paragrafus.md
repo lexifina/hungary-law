@@ -12,4 +12,4 @@ d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utó
 
 (3) A választható nemzetiségi utóneveket az érintett országos nemzetiségi önkormányzatok által összeállított nemzetiségi utónévjegyzék tartalmazza.
 
-(4) Az utónévjegyzékben nem szereplő nemzetiségi utónév anyakönyvezhetőségéről az érintett országos nemzetiségi önkormányzat állásfoglalása az irányadó. Az érintett országos nemzetiségi önkormányzat állásfoglalását a megkereséstől számított harminc napon belül adja meg. Azt az utónevet, amelynek bejegyzését az érintett országos nemzetiségi önkormányzat jóváhagyta, a nemzetiségi utónévjegyzékbe fel kell venni.
+(4) Nemzetiségi családi név, valamint a nemzetiségi utónévjegyzékben nem szereplő nemzetiségi utónév anyakönyvezhetőségéről az érintett országos nemzetiségi önkormányzat állásfoglalása az irányadó. Az érintett országos nemzetiségi önkormányzat állásfoglalását a megkereséstől számított 30 napon belül adja meg. Azt az utónevet, amelynek bejegyzését az érintett országos nemzetiségi önkormányzat jóváhagyta, a nemzetiségi utónévjegyzékbe fel kell venni.

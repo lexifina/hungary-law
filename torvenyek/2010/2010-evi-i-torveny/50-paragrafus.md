@@ -22,6 +22,10 @@ ah) lakóhelyét, annak hiányában tartózkodási helyét, valamint ha ilyennel
 
 ai) személyazonosságát és magyar állampolgárságát igazoló okiratának típusát, számát és érvényességi idejét,
 
+aj) nemét,
+
+ak) állampolgárságát.
+
 b) – ha a kérelmező családi állapota férjes vagy nős – a névváltoztatással érintett házastársa
 
 ba) születési családi és utónevét,
@@ -50,8 +54,8 @@ d) a kérelem indokolását,
 
 e) a kérelmező nyilatkozatát arról, hogy a választott családi név nem sért személyhez fűződő jogot,
 
-f) a kérelmező nyilatkozatát arról, hogy a – születési vagy házassági – nevének megváltoztatását az anyakönyvi eljárásról szóló jogszabályokban meghatározott eljárásban korábban engedélyezték-e,
+f) a kérelmező nyilatkozatát arról, hogy saját, házastársa, bejegyzett élettársa, kiskorú gyermeke – születési vagy házassági – nevének megváltoztatását az anyakönyvi eljárásról szóló jogszabályokban meghatározott eljárásban korábban engedélyezték-e,
 
-g) nyilatkozatot arról, hogy a kérelmezett név a Polgári Törvénykönyv névviselésre irányadó rendelkezéseit nem sérti.
+g) nyilatkozatot arról, hogy a kérelmezett név a Ptk. névviselésre irányadó rendelkezéseit nem sérti.
 
 (3) A születési név megváltoztatására irányuló kérelemben meg kell jelölni azt a családi, illetve utónevet, amelyet a kérelmező új névként kíván viselni.

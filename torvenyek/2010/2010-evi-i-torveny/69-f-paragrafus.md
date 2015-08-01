@@ -8,7 +8,7 @@ c) az a) és b) pontban foglalt adatok megváltozását,
 
 d) az adatot bejegyző személy nevét és felhasználói azonosítóját,
 
-e) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
+e) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát, a papír alapú anyakönyv azonosítóját és
 
 f) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
 
