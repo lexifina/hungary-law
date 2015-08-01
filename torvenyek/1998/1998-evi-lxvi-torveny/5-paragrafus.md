@@ -10,7 +10,7 @@ d) az egyes bányászati dolgozók társadalombiztosítási kedvezményeiről sz
 
 e) az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 51/C. §-ában meghatározott szolgáltatás,
 
-f) az iskolai szövetkezet és az iskolai szövetkezeti csoport nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának az iskolai szövetkezet, illetve az iskolai szövetkezeti csoport tevékenységében kifejtett személyes közreműködéséért a törvény hatálybalépését követően kapott ellenszolgáltatás.
+f) az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagjának – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is – az iskolaszövetkezet tevékenységében kifejtett személyes közreműködéséért kapott ellenszolgáltatás,
 
 g)
 

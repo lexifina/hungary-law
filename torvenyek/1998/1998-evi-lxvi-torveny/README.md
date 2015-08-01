@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-66-00-00
 | 2013-08-01 | 2013. évi CXXIII. törvény | 1998-66-00-00.29 |
 | 2014-01-01 | 2013. évi CC. törvény | 1998-66-00-00.30 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 1998-66-00-00.31 |
+| 2015-08-01 | 2015. évi CXXIII. törvény | 1998-66-00-00.32 |
