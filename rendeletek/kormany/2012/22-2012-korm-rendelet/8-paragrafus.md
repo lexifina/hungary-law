@@ -36,7 +36,7 @@ db)[^22] az eszközök NÉBIH, valamint a megyei kormányhivatalok közötti át
 
 (13) A NÉBIH ellátja a növényvédő szerek forgalomba hozataláról valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló az Európai Parlament és a Tanács 1107/2009/EK rendelet 75. cikk (1) bekezdés szerinti hatáskörrel rendelkező hatósági, és (2) bekezdés szerinti nemzeti koordináló hatósági feladatokat.
 
-(14)[^24] Az évente befolyt felügyeleti díjnak az Éltv. 47/B. § (10) bekezdése szerint fejlesztésre fordítandó 10%-a a NÉBIH bevétele. A felügyeleti díj bevétel fennmaradó összegének 40%-a a NÉBIH bevétele, 60%-át a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium részére tovább kell utalni.
+(14)[^24] Az évente befolyt felügyeleti díj – az Éltv. 47/B. § (10) bekezdése szerint fejlesztésre fordítandó – 10%-a, valamint a felügyeleti díj bevétel ezt követően fennmaradó összegének a 40%-a a NÉBIH bevétele. A további fennmaradó 60% felügyeleti díj összeget a NÉBIH negyedévente, a tárgynegyedévet követő hónap ötödik napjáig átutalja a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium részére. A közigazgatás-szervezésért felelős miniszter által vezetett minisztérium a felügyeleti díj bevételt elkülönített alszámlán kezeli és továbbutalja a megyei kormányhivatalok részére.
 
 (15)[^25] Az Éltv. 47/B. § (11) bekezdése szerinti beszámoló elkészítése érdekében a megyei kormányhivatal beszámolót készít, amelyet a tárgyévet követő év március 15-éig köteles a NÉBIH-nek megküldeni.
 
@@ -53,7 +53,7 @@ db)[^22] az eszközök NÉBIH, valamint a megyei kormányhivatalok közötti át
 [^21]: A 8. § (10) bekezdés d) pont da) alpontja a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés f) pontja szerint módosított szöveg.
 [^22]: A 8. § (10) bekezdés d) pont db) alpontja a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés f) pontja szerint módosított szöveg.
 [^23]: A 8. § (11) bekezdése a 68/2013. (III. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^24]: A 8. § (14) bekezdése a 219/2014. (VIII. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^24]: A 8. § (14) bekezdése a 116/2015. (V. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^25]: A 8. § (15) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés g) pontja szerint módosított szöveg.
 [^26]: A 8. § (16) bekezdését a 68/2013. (III. 8.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 98/2014. (III. 25.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^27]: A 8. § (17) bekezdését a 68/2013. (III. 8.) Korm. rendelet 2. § (3) bekezdése iktatta be.
