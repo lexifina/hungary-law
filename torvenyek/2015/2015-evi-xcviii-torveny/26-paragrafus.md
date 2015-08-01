@@ -8,10 +8,4 @@ c) 40. § – a szőlőtermesztésről és a borgazdálkodásról szóló 2004. 
 
 d) 44. § (3) bekezdése.
 
-(2) Hatályát veszti a Bortv.
-
-a) 10. § (2) és (3) bekezdése,
-
-b) 13. § (8) bekezdése,
-
-c) 43. §-a.
+(2)
