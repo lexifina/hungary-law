@@ -32,7 +32,7 @@
 
 |  | 15. | Állattartó létesítmények és technológiák esetén a bontási eljárás kivételével. | Az állategészségügyi előírások érvényesítése. | élelmiszerlánc-biztonsági és állat-egészségügyi feladatkörében eljáró megyei kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-2. számú melléklet a 40/2002. (III. 21.) Korm. rendelethez[^25]
+2. számú melléklet a 40/2002. (III. 21.) Korm. rendelethez[^26]
 
 ## Az építésügyi hatósági engedély iránti kérelem adattartalma
 
@@ -58,4 +58,4 @@
 
 11. Keltezés, az építtető cégszerű aláírása.
 
-[^25]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 268. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 268. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

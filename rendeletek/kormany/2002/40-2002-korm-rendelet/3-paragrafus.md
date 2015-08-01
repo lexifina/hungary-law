@@ -1,4 +1,4 @@
-3. § (1)[^4] A Kormány a honvédelmi és katonai célú építményekkel kapcsolatos építésügyi hatósági jogkör gyakorlójaként, országos illetékességgel
+3. § (1)[^5] A Kormány a honvédelmi és katonai célú építményekkel kapcsolatos építésügyi hatósági jogkör gyakorlójaként, országos illetékességgel
 
 a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
 
@@ -8,4 +8,4 @@ b) másodfokon a honvédelemért felelős minisztert
 
 (2) A katonai építésügyi hatóság hatósági jogkörének gyakorlása során csak a jogszabályoknak van alárendelve, a hatósági ügyekben hozandó döntésében nem utasítható.
 
-[^4]: A 3. § (1) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
