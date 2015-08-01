@@ -6,4 +6,4 @@
 
 (4) A felülvizsgálati kérelemről a bíróság – a felülvizsgálati kérelem beérkezésétől számított nyolc napon belül – nemperes eljárásban, a rendelkezésre álló iratok alapján dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
 
-(5) A bírósági felülvizsgálat során a visszaadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek a végzés végrehajtására nincs halasztó hatálya.
+(5) A bírósági felülvizsgálat során a visszaadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek a végzés végrehajtására halasztó hatálya van.

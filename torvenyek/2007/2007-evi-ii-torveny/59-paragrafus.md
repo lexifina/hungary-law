@@ -10,7 +10,9 @@
 
 (5) Az őrizet hetvenkét órán túli bírói meghosszabbításakor minden esetben, a kifogással és az őrizet további meghosszabbításával kapcsolatos eljárásban az őrizetbe vett kérelmére személyes meghallgatást kell tartani.
 
-(6) A meghallgatást az őrizet helyén és a harmadik országbeli állampolgár jogi képviselője távollétében is meg lehet tartani.
+(6) A meghallgatást a harmadik országbeli állampolgár jogi képviselője távollétében is meg lehet tartani.
+
+(6a) A meghallgatást az őrizet helyén kell megtartani, amennyiben annak feltételei az őrizet helyén adottak.
 
 (7) A meghallgatást a bíróság mellőzheti, ha a harmadik országbeli állampolgár a megjelenésre fekvőbeteg-gyógyintézetben történő ápolása miatt képtelen, illetve ha a kifogás vagy az indítvány nem a jogosulttól származik.
 

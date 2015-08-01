@@ -1,6 +1,6 @@
 ## A kitoloncolás
 
-65. § (1) A visszairányítást, illetve a kiutasítást elrendelő bírósági vagy idegenrendészeti hatósági határozatot hatósági kísérettel (a továbbiakban: kitoloncolás) kell végrehajtani, ha a harmadik országbeli állampolgár
+65. § (1) A visszairányítást, illetve a kiutasítást elrendelő bírósági vagy idegenrendészeti, vagy menekültügyi hatósági döntést hatósági kísérettel (a továbbiakban: kitoloncolás) kell végrehajtani, ha a harmadik országbeli állampolgár
 
 a) szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult;
 
@@ -10,7 +10,7 @@ c) kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben v
 
 d) a kiutasító határozatban meghatározott határnapot követő napig az Európai Unió tagállamainak területét nem hagyta el.
 
-(2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban, illetve a bírói kiutasítás végrehajtását elrendelő végzésben kell rendelkezni, egyéb esetben külön határozattal vagy végzéssel kell elrendelni.
+(2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban, illetve a bírói kiutasítás végrehajtását elrendelő végzésben kell rendelkezni, egyéb esetben külön határozattal vagy végzéssel kell elrendelni. A menekültügyi hatóság által elrendelt kiutasítást követően az (1) bekezdés d) pontjában foglalt esetben az idegenrendészeti hatóság a kitoloncolást önálló határozattal rendeli el.
 
 (3) A kitoloncolást elrendelő önálló határozat vagy végzés ellen a harmadik országbeli állampolgár végrehajtási kifogást terjeszthet elő. A végrehajtási kifogás a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő.
 

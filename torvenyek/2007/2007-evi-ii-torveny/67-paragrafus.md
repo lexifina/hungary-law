@@ -13,3 +13,7 @@
 (4b) Az idegenrendészeti hatóság a (4a) bekezdésben meghatározott célból rögzített ujjnyomat-adatot kizárólag a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet 1. cikk 4. pontjában foglaltak megállapítása céljából, annak befejezéséig kezelheti, ezt követően haladéktalanul törli.
 
 (5) Ha az előállítás időtartama alatt a harmadik országbeli állampolgár tartózkodásának jogcíme vagy a harmadik országbeli állampolgár személyazonossága nem állapítható meg, a harmadik országbeli állampolgárral szemben legfeljebb tizenkét óra időtartamra visszatartás intézkedést kell alkalmazni, amely ellen panasznak van helye.
+
+(6) Ha az előállítás alatt álló harmadik országbeli állampolgárok kivételesen nagy száma súlyos terhet ró az idegenrendészeti hatóság kapacitására, az (5) bekezdésben foglalt visszatartás intézkedést az idegenrendészeti hatóság legfeljebb huszonnégy óra időtartamra rendelheti el, amely ellen panasznak van helye.
+
+(7) Ha a harmadik országbeli állampolgár az előállítás vagy visszatartás időtartama alatt nemzetközi védelem iránti kérelem előterjesztésére vonatkozó szándékát az idegenrendészeti hatóság előtt kinyilvánítja, az idegenrendészeti hatóság a harmadik országbeli állampolgárral szemben az előállítás vagy visszatartás időtartamán túl további, legfeljebb tizenkét óra időtartamra visszatartás intézkedést alkalmazhat a menekültügyi hatóság intézkedéséig. A visszatartás ellen panasznak van helye.
