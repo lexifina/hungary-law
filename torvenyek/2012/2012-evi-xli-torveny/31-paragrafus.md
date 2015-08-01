@@ -6,6 +6,8 @@
 
 (3) A személyszállítási közszolgáltatási utazási kedvezmények mértékét, a jogosultak körét és a kedvezmények igénybevételének feltételeit a Kormány rendeletben állapítja meg.
 
+(3a) Amennyiben a szolgáltatás tekintetében elektronikus kártya kerül bevezetésre, jogszabály a közszolgáltatási utazási kedvezmények igénybevételét közlekedési kártya használatához kötheti.
+
 (4) A közszolgáltatási szerződésben és a feladatellátási szerződésben meghatározott díjak, a kedvezményes díjak és a díjmentes utazások igénybevételéhez szükséges utazási okmányok alkalmazását – a közszolgáltatási szerződésben és a feladatellátási szerződésben rögzített kereteken belül – a közlekedési szolgáltató díjszabásában köteles rögzíteni és közzétenni.
 
 (5) Az ellátásért felelős a díjat megállapíthatja tételesen vagy a díj kiszámítására vonatkozó módszer meghatározásával. A díjat úgy kell megállapítani, hogy a hatékonyan működő közlekedési szolgáltató közlekedési közszolgáltatásokkal felmerülő indokolt költségeire és a működéséhez szükséges nyereségre fedezetet biztosítson, tekintettel az elvonásokra és a támogatásokra is, valamint biztosítsa a személyszállítási közszolgáltatások egyéni közlekedéssel szembeni versenyképességét.

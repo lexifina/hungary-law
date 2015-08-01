@@ -48,6 +48,8 @@ d) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra
 
 15. közlekedési szolgáltató: a Vtv.-ben meghatározott vasúti hatóság és vasúti igazgatási szerv, az e törvényben meghatározott közlekedési hatóság vagy a hajózási hatóság által kiadott, a tevékenység végzésére jogosító engedély birtokában e törvény alapján személyszállítási szolgáltatási tevékenységet végző gazdálkodó szervezet;
 
+15a. közlekedési kártya: olyan, az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) 2. § 3. pontja szerinti, közhiteles adatokkal, vizuálisan megszemélyesített, a közforgalmú személyszállítási szolgáltatás igénybevétele céljából kibocsátott, külön jogszabályban meghatározott elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó, amely az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott utazási okmányként teljesíti az utasmédia követelményrendszerét. A Nektv. 4. § (5) bekezdésében meghatározott elsődleges kártyának tekintendő, személyazonosság közhiteles igazolására szolgáló kártya formátumú okmányhoz a közlekedési kártya mint másodlagos kártya – amennyiben annak műszaki és technikai feltételei adottak – a jogosult kérelmére hozzárendelhető;
+
 16. közösségi busszal végzett személyszállítás: hazai vagy európai uniós forrásból vásárolt közúti járművel, saját számlás személyszállítás keretében végzett személyszállítás;
 
 17. közszolgáltatási kötelezettség: minden, az 1370/2007/EK rendelet 2. cikk e) pontjában meghatározott kötelezettség;
