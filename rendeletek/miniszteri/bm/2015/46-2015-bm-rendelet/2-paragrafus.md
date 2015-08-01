@@ -1,1 +1,0 @@
-## „p) Nemzeti Kommunikációs Hivatal.”
