@@ -1,6 +1,6 @@
-83. § (1)[^100] A törzskönyv elvesztésekor, eltulajdonításakor, megsemmisülésekor annak sorszámát a közlekedési igazgatási hatóság értesítése alapján a Hivatal a Hivatalos Értesítőben és a kormányzati honlapon közzéteszi.
+83. § (1)[^101] A törzskönyv elvesztésekor, eltulajdonításakor, megsemmisülésekor annak sorszámát a közlekedési igazgatási hatóság értesítése alapján a Hivatal a Hivatalos Értesítőben és a kormányzati honlapon közzéteszi.
 
-(2)[^101] Az elveszett, eltulajdonított, megsemmisült törzskönyv csak a sorszámának a Hivatalos Értesítőben való közzétételét követő 15. nap eltelte után pótolható. A törzskönyv elvesztéséről, eltulajdonításáról, megsemmisüléséről, illetve megtalálásáról felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton indított törzskönyv pótlás esetében az ügyfél elektronikus úton tett nyilatkozata elektronikus úton kerül a Hivatalnak továbbításra.
+(2)[^102] Az elveszett, eltulajdonított, megsemmisült törzskönyv csak a sorszámának a Hivatalos Értesítőben való közzétételét követő 15. nap eltelte után pótolható. A törzskönyv elvesztéséről, eltulajdonításáról, megsemmisüléséről, illetve megtalálásáról felvett jegyzőkönyvet okmánytári alapiratként a közlekedési igazgatási hatóság a Hivatalnak továbbítja. Az elektronikus úton indított törzskönyv pótlás esetében az ügyfél elektronikus úton tett nyilatkozata elektronikus úton kerül a Hivatalnak továbbításra.
 
 (3) Amennyiben a közzétételt követően valamely érdekelt fél a járművel, vagy törzskönyvvel kapcsolatos jogosultságát a megjelölt határidőn belül igazolja, a törzskönyv nem pótolható.
 
@@ -10,5 +10,5 @@
 
 (6) A tulajdonjog változásának nyilvántartásba vételére az (1) bekezdésben meghatározott közzétételt követő 15. nap után kerülhet sor.
 
-[^100]: A 83. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 614. §-a szerint módosított szöveg.
-[^101]: A 83. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 15. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 614. §-a szerint módosított szöveg.
+[^101]: A 83. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 614. §-a szerint módosított szöveg.
+[^102]: A 83. § (2) bekezdése az 5/2013. (I. 16.) Korm. rendelet 15. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 614. §-a szerint módosított szöveg.

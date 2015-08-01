@@ -8,13 +8,13 @@ b) a járművezetéstől eltiltás hatálya alatt áll, vagy
 
 c) az egészségi, pályaalkalmassági, képzési és vizsgáztatási előírásoknak nem felel meg.
 
-(2)[^46] A vezetési jogosultság szünetelése a bíróság vagy szabálysértési hatóság határozata alapján járműkategóriába, kombinált kategóriába, járműfajtába tartozó járművezetésre is kiterjedhet.
+(2)[^47] A vezetési jogosultság szünetelése a bíróság vagy szabálysértési hatóság határozata alapján járműkategóriába, kombinált kategóriába, járműfajtába tartozó járművezetésre is kiterjedhet.
 
 (3) Szünetel a vezetésre való jogosultság:
 
 a) a közlekedésbiztonsági alkalmatlanság jogerős megállapításának napjától az alkalmasság igazolásának a közlekedési igazgatási hatóság előtti bemutatás időpontjáig, ha a járművezető a járművezetésre közlekedésbiztonsági szempontból alkalmatlan,
 
-b)[^47] a büntetőeljárás jogerős befejezéséig:
+b)[^48] a büntetőeljárás jogerős befejezéséig:
 
 ba) a vezetői engedély helyszíni elvételének napjától, vagy ennek hiányában
 
@@ -24,7 +24,7 @@ bc) ismeretlen tettes ellen, a 32. § a) pontjában meghatározott bűncselekmé
 
 c) a közúti járművek vezetésétől történő eltiltás lejáratának a napjától az utánképzésen való részvétel közlekedési igazgatási hatóság előtti igazolásáig, ha a járművezető engedélyét csak az utánképzést követően kaphatja vissza,
 
-d)[^48] az alkalmas minősítésű igazolás közlekedés igazgatási hatóság előtti bemutatásáig
+d)[^49] az alkalmas minősítésű igazolás közlekedés igazgatási hatóság előtti bemutatásáig
 
 da) az alkalmatlanság megállapításának a napjától, ha a járművezetőt egészségi, pályaalkalmassági szempontból alkalmatlannak minősítették,
 
@@ -46,21 +46,21 @@ d) a 32. § c) pontja esetén az ellenőrző hatóság intézkedéséről szól�
 
 (6) Amennyiben a vezetési jogosultság szünetelésének feltételét az eljáró hatóság az eljárás megindítását követően észleli, a helyszíni elvétel szabályait értelemszerűen alkalmazni kell.
 
-(7)[^49] A vezetési jogosultság az eltiltással érintett kategóriára, kombinált kategóriára vonatkozó vezetési jogosultság szünetelésének elrendeléséről, annak nyilvántartásba vételéről, a vezetői engedély visszavonásáról, valamint a külföldi hatóság által kiállított vezetői engedély bevonásáról a közlekedési igazgatási hatóság dönt.
+(7)[^50] A vezetési jogosultság az eltiltással érintett kategóriára, kombinált kategóriára vonatkozó vezetési jogosultság szünetelésének elrendeléséről, annak nyilvántartásba vételéről, a vezetői engedély visszavonásáról, valamint a külföldi hatóság által kiállított vezetői engedély bevonásáról a közlekedési igazgatási hatóság dönt.
 
 (8) A (3) bekezdés b) pontja esetén a vezetői engedélyt a határidő letelte előtt vissza kell adnia vádemelést megelőzően az ügyben eljáró ügyészség, a vádemelést követően az ügyben eljáró bíróság értesítése alapján. A közlekedési igazgatási hatóság a vezetői engedély visszaadásának és a vezetési jogosultság szünetelésének megszűnését a nyilvántartásba bejegyzi, és ezekről az értesítést küldő hatóságot tájékoztatja.
 
-(9)[^50] A közlekedési igazgatási hatóság a vezetői engedély visszavonásáról, bevonásáról és a vezetési jogosultság szüneteléséről határozatot hoz, amelyben kötelezi az ügyfelet a vezetői engedély leadására, ha annak elvételére a 32. §-ban foglaltak ellenére a helyszínen nem került sor vagy a helyszíni elvétel kizárt. A határozat meghozatalával egyidejűleg a vezetői engedély visszavonásának, bevonásának, leadásának és a vezetési jogosultság szünetelésének tényét a közlekedési igazgatási hatóság nyilvántartásba veszi.
+(9)[^51] A közlekedési igazgatási hatóság a vezetői engedély visszavonásáról, bevonásáról és a vezetési jogosultság szüneteléséről határozatot hoz, amelyben kötelezi az ügyfelet a vezetői engedély leadására, ha annak elvételére a 32. §-ban foglaltak ellenére a helyszínen nem került sor vagy a helyszíni elvétel kizárt. A határozat meghozatalával egyidejűleg a vezetői engedély visszavonásának, bevonásának, leadásának és a vezetési jogosultság szünetelésének tényét a közlekedési igazgatási hatóság nyilvántartásba veszi.
 
 (10) A helyszínen vagy az eljáró hatóság által elvett vezetői engedélyt csak a közlekedési igazgatási hatóság adhatja vissza.
 
 (11) Amennyiben az eljárás alá vont külföldi állampolgárnak nincs magyarországi lakó- vagy tartózkodási helye, vezetési jogosultság szünetelésének elrendelésére, annak nyilvántartásba vételére a cselekmény elkövetési helye szerint illetékes közlekedési igazgatási hatóság intézkedik.
 
-(12)[^51] Ha a vezetői engedély, az annak kiadása alapjául szolgáló okmány, vagy az ezekbe tett bejegyzés hamis, hamisított, vagy valótlan tényt, jogosultságot tartalmaz, a nyomozó hatóság lefoglalást megszüntető, vagy a büntetőeljárást lezáró határozata alapján, továbbá a más EGT-állam illetékes hatóságának értesítése alapján a közlekedési igazgatási hatóság a vezetői engedélyt visszavonja és egyidejűleg intézkedik az engedély-nyilvántartásban szereplő valótlan adatok javítására, törlésére vagy az okmány érvénytelenítését követő selejtezésre.
+(12)[^52] Ha a vezetői engedély, az annak kiadása alapjául szolgáló okmány, vagy az ezekbe tett bejegyzés hamis, hamisított, vagy valótlan tényt, jogosultságot tartalmaz, a nyomozó hatóság lefoglalást megszüntető, vagy a büntetőeljárást lezáró határozata alapján, továbbá a más EGT-állam illetékes hatóságának értesítése alapján a közlekedési igazgatási hatóság a vezetői engedélyt visszavonja és egyidejűleg intézkedik az engedély-nyilvántartásban szereplő valótlan adatok javítására, törlésére vagy az okmány érvénytelenítését követő selejtezésre.
 
-[^46]: A 36. § (2) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^47]: A 36. § (3) bekezdés b) pontja az 544/2013. (XII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^48]: A 36. § (3) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^49]: A 36. § (7) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^50]: A 36. § (9) bekezdése az 5/2013. (I. 16.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^51]: A 36. § (12) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 14. § (3) bekezdésévelmegállapított szöveg.
+[^47]: A 36. § (2) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^48]: A 36. § (3) bekezdés b) pontja az 544/2013. (XII. 30.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^49]: A 36. § (3) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^50]: A 36. § (7) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^51]: A 36. § (9) bekezdése az 5/2013. (I. 16.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^52]: A 36. § (12) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 14. § (3) bekezdésévelmegállapított szöveg.
