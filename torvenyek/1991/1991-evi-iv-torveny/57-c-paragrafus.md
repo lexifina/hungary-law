@@ -10,7 +10,7 @@ d) az állami felnőttképzési intézmény számára a (4) bekezdésben meghat�
 
 szükséges hozzáférést.
 
-(2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (3) bekezdésének 2–3. pontjaiban meghatározott adatokba betekinthet.
+(2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (3) bekezdésének 2–3. pontjaiban és a (9) bekezdésében meghatározott adatokba betekinthet.
 
 (3) A járási hivatal a szociális juttatásokra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai érdekében az adatbázisnak az 57/B. § (3) bekezdés 1. pont b), ca)–ce), cg) és d) alpontjában, valamint a 2. pont ab) és af) alpontjában szereplő adataiba tekinthet be.
 

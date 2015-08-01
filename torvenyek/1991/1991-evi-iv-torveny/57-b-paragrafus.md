@@ -147,3 +147,7 @@ b) aki 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 
 (8) Felhatalmazást kap a Kormány, hogy (3) bekezdés 3. pont g) alpontja szerint az adatbázisba felvételre kerülő adatok körét rendeletben állapítsa meg.
+
+(9) Az adatbázis a menekültként, oltalmazottként vagy menedékesként történő elismerés iránti kérelmet benyújtó (a továbbiakban együtt: elismerést kérő) közfoglalkoztatott, valamint az idegenrendészeti hatóság döntése alapján kijelölt tartózkodási helyen élő harmadik országbeli állampolgár közfoglalkoztatott esetében a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, szálláshelyét, továbbá a (3) bekezdés 2. a) pont aa), ac) és ad) alpontjában, valamint a (3) bekezdés 2. b) pont bb)–bf) alpontjában meghatározott adatokat tartalmazza.
+
+(10) Az elismerést kérő adatait az állami foglalkoztatási szerv a menekültügyi hatóság elismerésre irányuló kérelmet elutasító döntés jogerőre emelkedéséről szóló értesítése alapján az adatbázisból haladéktalanul törli, kivéve, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kijelölt helyen való tartózkodását rendelte el.

@@ -6,7 +6,7 @@
 
 a) természetes személyazonosító adatok,
 
-b) állampolgárság, bevándorolt, letelepedett, menekült vagy oltalmazott jogállás,
+b) állampolgárság, bevándorolt, letelepedett, menekült vagy oltalmazott jogállás, a menekültügyi hatóságnál a menekültként, oltalmazottként, vagy menedékesként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének ténye,
 
 c) lakcím (lakóhely, tartózkodási hely) és értesítési cím,
 
