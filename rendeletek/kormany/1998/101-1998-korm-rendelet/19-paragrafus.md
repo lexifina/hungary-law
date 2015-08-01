@@ -6,7 +6,7 @@
 
 (4)[^108] Ha a kérelem felvételénél végrehajtott adategyeztetéskor a személyiadat- és lakcímnyilvántartás adatai nem egyeznek meg a bemutatott okmány vagy okirat adataival – a hazatérés céljából kiállított ideiglenes magánútlevél iránti kérelem kivételével – vizsgálni kell az eltérés okát, és indokolt esetben a személyiadat- és lakcímnyilvántartás adatait haladéktalanul helyesbíteni kell. A helyesbítést magyar állampolgár esetén kizárólag az elektronikus anyakönyvi nyilvántartás adatai alapján lehet elvégezni.
 
-(5)[^109]
+(5)[^109] A személyazonosító igazolvány kiadásáról és nyilvántartásáról szóló kormányrendelet szerinti egységes arcképmás- és aláírás-felvételezés szabályait az úti okmány kiadására irányuló hatósági eljárásban az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
 (6)[^110] A konzuli tisztviselőnél benyújtott magánútlevél, diplomata- és a külügyi szolgálati útlevél iránti kérelem esetén a személyazonosság és a magyar állampolgárság ellenőrzése az érvényes magyar útlevél vagy érvényes állampolgársági bizonyítvány, illetőleg az érvényes személyazonosító igazolvány alapján is elvégezhető.
 
@@ -16,7 +16,7 @@
 
 [^107]: A 19. § (1) bekezdése a 168/1999. (XI. 24.) Korm. rendelet 49. §-a (2) bekezdésének d) pontja, a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
 [^108]: A 19. § új (4) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 12. §-a iktatta a szövegbe, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatva. A 19. § (4) bekezdése a 197/2006. (IX. 27.) Korm. rendelet 14. §-a, a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 409/2012. (XII. 28.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
-[^109]: A 19. § eredeti (4) bekezdésének számozását a 122/2004. (IV. 29.) Korm. rendelet 12. §-a (5) bekezdésre változtatta. A 19. § (5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^109]: A 19. § eredeti (4) bekezdésének számozását a 122/2004. (IV. 29.) Korm. rendelet 12. §-a (5) bekezdésre változtatta. A 19. § (5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 194/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
 [^110]: A 19. § eredeti (5) bekezdésének számozását a 122/2004. (IV. 29.) Korm. rendelet 12. §-a (6) bekezdésre változtatta, szövege a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 98/2010. (IV. 2.) Korm. rendelet 6. §-a, a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése a) pontja szerint módosított szöveg.
 [^111]: A 19. § (7) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
 [^112]: A 19. § (8) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 409/2012. (XII. 28.) Korm. rendelet 10. § (2) bekezdése.
