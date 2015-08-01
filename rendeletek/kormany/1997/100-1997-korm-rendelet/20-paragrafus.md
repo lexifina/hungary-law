@@ -4,13 +4,13 @@
 
 (3) A vizsgateremben az ülésrendet a vizsganap kezdetekor a felügyelő tanár – az előzetes csoportbeosztás alapján – úgy köteles kialakítani, hogy a vizsgázók egymást ne zavarhassák és ne segíthessék.
 
-(4) A vizsganap kezdetekor az igazgató a felügyelő tanár jelenlétében mindegyik vizsgateremben megállapítja a jelenlévők személyazonosságát. Ezt követően ismerteti az írásbeli vizsga szabályait, az elkövetett szabálytalanság következményeit, majd kiosztja a feladatlapokat. A feladatlapok kiosztásakor a vizsgázók közül csak a vizsgázásra kijelölt csoport tagjai lehetnek jelen.
+(4)[^136] A vizsgázónak legalább harminc perccel az írásbeli vizsga időpontja előtt meg kell jelennie a vizsga helyszínén. A vizsga kezdete előtt az igazgató a felügyelő tanár jelenlétében mindegyik vizsgateremben megállapítja a jelenlévők személyazonosságát. Ezt követően az igazgató ismerteti az írásbeli vizsga szabályait, az elkövetett szabálytalanság következményeit, majd kiosztja a feladatlapokat. A feladatlapok kiosztásakor a vizsgázók közül csak a vizsgázásra kijelölt csoport tagjai lehetnek jelen.
 
 (5) A vizsgázóknak a feladat elkészítéséhez útbaigazítás, segítség nem adható.
 
 (6) A vizsgateremben és a folyosón gondoskodni kell az állandó felügyeletről. A felügyelő tanárok az igazgató által előre megállapított sorrendben, óránként váltják egymást. A felügyelő tanár feladata annak megakadályozása, hogy a vizsgázó meg nem engedett segédeszközt használjon, társaitól vagy más személytől segítséget vegyen igénybe.
 
-(7)[^136] A 6. § (7) bekezdése szerint a vizsgázó kérelmére, az igazgató engedélye alapján
+(7)[^137] A 6. § (7) bekezdése szerint a vizsgázó kérelmére, az igazgató engedélye alapján
 
 a) a 19. § (1) bekezdésben meghatározott időt legfeljebb egy órával (60 perc) meg kell növelni,
 
@@ -18,9 +18,10 @@ b) lehetővé kell tenni, hogy az iskolai tanulmányok során alkalmazott segéd
 
 c) engedélyezni kell, hogy az írásbeli vizsga helyett szóbeli beszámolót tegyen, vagy a szóbeli vizsgát írásban teljesítse,
 
-d)[^137] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része alól, amennyiben a középiskolában a megfelelő tantárgyból nem mentesítették az értékelés, minősítés egésze alól.
+d)[^138] a tanuló a vizsgán mentesülhet az értékelés egy vagy több része alól, amennyiben a középiskolában a megfelelő tantárgyból nem mentesítették az értékelés, minősítés egésze alól.
 
 [^134]: A 20. § a 256/2005. (XII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^135]: A 20. § (1) bekezdése a 253/2006. (XII. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^136]: A 20. § (7) bekezdés nyitó szövegrésze a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
-[^137]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^136]: A 20. § (4) bekezdése a 36/2015. (III. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^137]: A 20. § (7) bekezdés nyitó szövegrésze a 106/2012. (VI. 1.) Korm. rendelet 9. § j) pontja szerint módosított szöveg.
+[^138]: A 20. § (7) bekezdésének d) pontját a 253/2006. (XII. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.

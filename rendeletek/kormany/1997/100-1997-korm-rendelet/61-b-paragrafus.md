@@ -1,6 +1,6 @@
-## 61/A. §[^356] A 2013. évi május–júniusi vizsgaidőszaktól kezdődően emelt szintű érettségi vizsga abból a vizsgatárgyból tehető, amely – mint a felsőoktatási felvételi eljárás során figyelembe vehető érettségi vizsgatárgy – a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. mellékletében szerepel.
+## 61/A. §[^359] A 2013. évi május–júniusi vizsgaidőszaktól kezdődően emelt szintű érettségi vizsga abból a vizsgatárgyból tehető, amely – mint a felsőoktatási felvételi eljárás során figyelembe vehető érettségi vizsgatárgy – a felsőoktatási felvételi eljárásról szóló 423/2012. (XII. 29.) Korm. rendelet 2. mellékletében szerepel.
 
-## 61/B. §[^357]
+## 61/B. §[^360]
 
-[^356]: A 61/A. §-t újonnan a 254/2009. (XI. 20.) Korm. rendelet 5. §-a iktatta be, szövege a 423/2012. (XII. 29.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg.
-[^357]: A 61/B. §-t a 423/2012. (XII. 29.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte.
+[^359]: A 61/A. §-t újonnan a 254/2009. (XI. 20.) Korm. rendelet 5. §-a iktatta be, szövege a 423/2012. (XII. 29.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg.
+[^360]: A 61/B. §-t a 423/2012. (XII. 29.) Korm. rendelet 49. § a) pontja hatályon kívül helyezte.
