@@ -4,7 +4,7 @@
 
 a) a polgár lakcímbejelentése;
 
-b) a polgár kérelme a személyazonosító igazolvány kiállítása iránt, az ehhez csatolt okiratok, az arcképmása és a saját kezű aláírása, illetve az újszülött arcképmása;
+b) a polgár kérelme a személyazonosító igazolvány kiállítása, valamint az egységes arcképmás- és aláírás-felvételezés iránt, az ehhez csatolt okiratok, az arcképmása és a saját kezű aláírása, illetve az újszülött arcképmása;
 
 c) az anyakönyv;
 
