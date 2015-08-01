@@ -2,7 +2,7 @@
 
 (2) Főtörzszászlós rendfokozattal rendszeresített beosztások betöltésére az MH vezénylő zászlós tehet javaslatot.
 
-94/A.[^77] (1) Ha a tiszti vagy az altiszti állomány tagjáról a tárgyévben éves teljesítményértékelés nem készíthető, akkor előmenetelének tervezése érdekében az értékelőnek a teljesítményértékelési eljárás során rögzítenie kell
+94/A.[^79] (1) Ha a tiszti vagy az altiszti állomány tagjáról a tárgyévben éves teljesítményértékelés nem készíthető, akkor előmenetelének tervezése érdekében az értékelőnek a teljesítményértékelési eljárás során rögzítenie kell
 
 a) a tárgyévet megelőző évi teljesítményértékelés során a 7. melléklet I–III. pontja szerinti értékelési szempontok vonatkozásában elért eredményt,
 
@@ -14,4 +14,4 @@ c) a 94/B. § (2) bekezdése szerinti helyőrségeket.
 
 (3) Az (1) bekezdés szerint végrehajtott eljárás során készített dokumentum az előmenetel tervezés során figyelembe vehető, de a tárgyévet követő évben az egyes értékelési szempontok vonatkozásában elért eredményt már nem lehet figyelembe venni.
 
-[^77]: A 94/A. §-t a 4/2015. (VI. 22.) HM rendelet 18. §-a iktatta be.
+[^79]: A 94/A. §-t a 4/2015. (VI. 22.) HM rendelet 18. §-a iktatta be.

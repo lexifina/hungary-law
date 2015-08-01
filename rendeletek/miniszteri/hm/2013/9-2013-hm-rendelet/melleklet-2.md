@@ -376,7 +376,7 @@
 
 | 187. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
 
-2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^137]
+2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^140]
 
 A MUNKAKÖRI KÖVETELMÉNYEK MEGÁLLAPÍTÁSÁHOZ ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE, VALAMINT A MUNKAKÖRI KÖVETELMÉNYEK MEGHATÁROZÁSA
 
@@ -1700,40 +1700,4 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.18.2. díszelgő
 
-## 5K08209_40
-
-|  | A | B | C | D | E | F | G |
-
-| 1. | Rendszeresített rendfokozat | Képesítési és egyéb munkaköri követelmények |
-
-| 2. | iskolai végzettség | szak- képzettség | egyéb képzettségi követelmény | egészségi kizáró korláto- zások | pszichikai követel- mények |
-
-| 3. | 15 | ezredes | EKV | FF | FVT | K23, K24 | Pa/V, Pv/IV |
-
-| 4. | 14 | alezredes |  | F1-F8, K15, K23, K24, K25 | Pa/IV, Pv/IV |
-
-| 5. | 13 | őrnagy | FKV |
-
-| 6. | 12 | százados |
-
-| 7. | 11 | főhadnagy | F1-F8, K15, K25 |
-
-| 8. | 09 | főtörzszászlós | É | BSZF | Pa/III, Pm/III |
-
-| 9. | 08 | törzszászlós | BZK, SZKF |
-
-| 10. | 07 | zászlós |
-
-| 11. | 06 | főtörzsőrmester | BK, KF |
-
-| 12. | 05 | törzsőrmester |
-
-| 13. | 03 | szakaszvezető | ÁI |  |
-
-| 14. | 02 | tizedes |
-
-| 15. | 01 | őrvezető |
-
-2.18.3. katonazenész
-
-[^137]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^140]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított szöveg.

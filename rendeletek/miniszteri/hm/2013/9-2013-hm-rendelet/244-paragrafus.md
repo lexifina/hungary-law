@@ -26,6 +26,6 @@ tölti ki.
 
 (3) A tényleges szolgálatteljesítés a bevonulási időponttól a tényleges szolgálatból történő elbocsátásig tart. Az állományilletékes honvédségi szervezet az önkéntes tartalékos katona tényleges szolgálatból történő elbocsátását megelőző 2 munkanappal értesíti a központi katonai igazgatási szervet az elbocsátás tervezett időpontjáról.
 
-(4)[^109] Az önkéntes tartalékos katona tényleges szolgálatból történő elbocsátásakor az állományilletékes honvédségi szervezet átadja részére a tényleges katonai szolgálat lefolyásáról szóló igazolást.
+(4)[^112] Az önkéntes tartalékos katona tényleges szolgálatból történő elbocsátásakor az állományilletékes honvédségi szervezet átadja részére a tényleges katonai szolgálat lefolyásáról szóló igazolást.
 
-[^109]: A 244. § (4) bekezdését a 6/2014. (IV. 14.) HM rendelet 7. §-a iktatta be.
+[^112]: A 244. § (4) bekezdését a 6/2014. (IV. 14.) HM rendelet 7. §-a iktatta be.

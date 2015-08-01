@@ -1,4 +1,4 @@
-69/A. §[^62] (1) A Hjt. 123. § (2) bekezdése alapján a szolgálati beosztásokat a (2)–(5) bekezdésben foglaltak szerint kell a Hjt. 5. melléklete szerinti besorolási osztályokba besorolni.
+69/A. §[^64] (1) A Hjt. 123. § (2) bekezdése alapján a szolgálati beosztásokat a (2)–(5) bekezdésben foglaltak szerint kell a Hjt. 5. melléklete szerinti besorolási osztályokba besorolni.
 
 (2) A (3) és a (4) bekezdésbe nem tartozó, Magyarországon települő honvédségi szervezet, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény munkaköri jegyzékében, állománytáblájában, továbbá a Magyarországon települő katonai szervezethez vezényelt állományra vonatkozó állománytáblában szereplő
 
@@ -26,4 +26,4 @@ tartozik.
 
 (5) A (2)–(4) bekezdésben foglaltaktól eltérően az 1. § 10. pont b), c), h), j) és m) alpontja szerinti tevékenységhez kötődően vagy a Magyarországon települő honvédségi szervezet külföldön működő szervezeti eleménél létrehozott szolgálati beosztás, ha azt az állomány tagja szolgálati érdekből, tartós külföldi szolgálatra vezénylés keretében külföldön látja el, a VII. besorolási osztályba tartozik.
 
-[^62]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be.
+[^64]: A 69/A. §-t a 4/2015. (VI. 22.) HM rendelet 15. §-a iktatta be.

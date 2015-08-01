@@ -4,7 +4,7 @@ a) az iratismertetést követően összefoglaló jelentésben foglalja össze a 
 
 b) a keletkezett iratokat és az összefoglaló jelentést felterjeszti a fegyelmi jogkört gyakorlónak.
 
-(2)[^92] A fegyelmi jogkört gyakorló az összefoglaló jelentést, továbbá az ügyben készült iratokat megvizsgálja, és az iratok kézhezvételétől számított 5 napon belül személyes meghallgatást tűz ki, ha megítélése szerint a fegyelmi vizsgálat anyaga a fegyelmi felelősség elbírálására alkalmas. A vizsgáló az állomány eljárás alá vont tagját a személyes meghallgatásról értesíti, a képviselőt pedig felhívja a személyes meghallgatáson való részvételre.
+(2)[^94] A fegyelmi jogkört gyakorló az összefoglaló jelentést, továbbá az ügyben készült iratokat megvizsgálja, és az iratok kézhezvételétől számított 5 napon belül személyes meghallgatást tűz ki, ha megítélése szerint a fegyelmi vizsgálat anyaga a fegyelmi felelősség elbírálására alkalmas. A vizsgáló az állomány eljárás alá vont tagját a személyes meghallgatásról értesíti, a képviselőt pedig felhívja a személyes meghallgatáson való részvételre.
 
 (3) A fegyelmi jogkört gyakorló a személyes meghallgatást az állomány eljárás alá vont tagja, képviselője, valamint a vizsgáló jelenlétében tartja meg. A személyes meghallgatásról feljegyzést kell készíteni, és azt az iratokhoz kell csatolni.
 
@@ -16,4 +16,4 @@ b) az iratokat a fenyítésre vonatkozó javaslatával együtt, szolgálati úto
 
 (5) Az elöljáró parancsnok az iratok kézhezvételétől számított 15 napon belül személyes meghallgatást tűz ki, és dönt a fegyelmi ügyben, ha a fegyelmi vizsgálat anyaga a fegyelmi felelősség elbírálására alkalmas.
 
-[^92]: A 145. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 5. §-ával megállapított szöveg.
+[^94]: A 145. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 5. §-ával megállapított szöveg.

@@ -60,11 +60,11 @@ n)[^5] a külföldi két- vagy többoldalú megbeszéléseken, szakmai egyeztet�
 
 o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légtérben működtetett fegyveres készenléti szolgálat fenntartása érdekében végzett külföldi szolgálatteljesítés.
 
-11. munkakör: a munkafolyamat, a tevékenység alapegysége, amely a munkamegosztás alapján elkülönül és meghatározza az azt betöltő személy elvégzendő feladatait, jog- és hatáskörét, felelősségét és kötelezettségeit, valamint a szükséges szakmai, egészségi, pszichikai, fizikai követelményeket,
+11.[^7] munkakör: a munkafolyamat, a tevékenység alapegysége, amely a munkamegosztás alapján elkülönül és meghatározza az azt betöltő személy elvégzendő feladatait, jog- és hatáskörét, felelősségét és kötelezettségeit, valamint a szükséges szakmai, pszichikai követelményeket, illetve az egészségi korlátozásokat,
 
 12. műveleti szabadnap: a műveletben történő részvételre vezényelt állomány pihentetése, rekreációja érdekében biztosítandó naptári nap, amelynek mértékét a vonatkozó nemzetközi megállapodások, az adott nemzetközi missziót működtető nemzetközi szervezet által kiadott műveleti utasítás, valamint a magyar állományra jellemző körülmények és a vezénylés alapján a miniszter határozzák meg,
 
-13.[^7]
+13.[^8]
 
 14. szakmai felelős: a miniszter által kijelölt, a munkakörök betöltéséhez szükséges szakmai követelmények, az előmenetel szakmai feltételei és a képzési követelmények meghatározásáért felelős honvédelmi szervezet,
 
@@ -78,4 +78,5 @@ o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légt�
 [^4]: Az 1. § 10. pont m) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 3. pontja szerint módosított szöveg.
 [^5]: Az 1. § 10. pont n) alpontja a 4/2015. (VI. 22.) HM rendelet 27. § 4. pontja szerint módosított szöveg.
 [^6]: Az 1. § 10. pont o) alpontját a 4/2015. (VI. 22.) HM rendelet 1. §-a iktatta be.
-[^7]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^7]: Az 1. § 11. pontja a 10/2015. (VII. 30.) HM rendelet 82. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 80. §-át.
+[^8]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
