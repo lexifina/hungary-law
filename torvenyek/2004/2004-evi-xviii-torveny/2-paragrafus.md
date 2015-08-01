@@ -16,7 +16,7 @@
 
 7. szőlőfajták osztályba sorolása: a borszőlőfajták e törvény felhatalmazása alapján kiadott rendeletben engedélyezett vagy ideiglenesen engedélyezett kategóriába sorolása.
 
-8. törzsszőlő: a szaporítóanyag-termelés céljából létesített, termőre fordulás után prebázis állomány, központi és üzemi törzsültetvény kategóriában a növénytermesztési hatóság által – a szaporítóanyagokra vonatkozó jogszabályok szerint – elismert borszőlő.
+8. törzsszőlő: a szaporítóanyag-termelés céljából létesített, termőre fordulás után prebázis, bázis vagy certifikált kategóriában a növénytermesztési hatóság által – a szaporítóanyagokra vonatkozó jogszabályok szerint – elismert borszőlő.
 
 9. kísérleti szőlő: az osztályba sorolást megalapozó vizsgálat vagy a szőlőtermesztés fejlesztése céljából telepített borszőlőültetvény.
 
@@ -30,7 +30,7 @@
 
 14. borászati üzem: borászati termékek előállítására, kiszerelésére és tárolására vonatkozó működési engedéllyel rendelkező üzem.
 
-15. borászati termék: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről („az egységes közös piacszervezésről szóló rendelet”) szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: 1234/2007/EK tanácsi rendelet) XIb. mellékletében szereplő szőlészeti és borászati termékek, továbbá a friss borszőlő, a töppedt borszőlő és az aszúsodott borszőlő.
+15. borászati termék: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) VII. melléklet II. részében szereplő szőlőből készült termékek.
 
 16. gazdasági akta: a 479/2008/EK tanácsi rendeletnek a szőlőkataszter, a kötelező bejelentések, a piaci felügyelethez szükséges információgyűjtés, a borászati termékek fuvarozásához szükséges kísérőokmányok, valamint a borágazatban vezetendő nyilvántartás tekintetében történő alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2009. május 26-i 436/2009/EK rendelet I. melléklet 1. pontja szerinti adattartalmú, egy természetes személyre, jogi személyre vagy jogi személyiség nélküli szervezetre vonatkozó, azonosító számmal ellátott nyilvántartás.
 

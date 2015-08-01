@@ -4,7 +4,7 @@
 
 a) a jogszabályokban meghatározott, illetőleg a jelölésében foglalt jellemzőket nem elégíti ki,
 
-b) a jogszabályokban megengedett anyagokat nem megengedett mértékben tartalmaz,
+b) a jogszabályokban nem megengedett anyagokat vagy megengedett anyagokat nem megengedett mértékben tartalmaz,
 
 c) a származási bizonyítványban vagy a forgalomba hozatali engedélyben foglaltaktól eltérően jelölt,
 

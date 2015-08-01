@@ -2,7 +2,7 @@
 
 11. § (1) Aki 1000 m2-nél nagyobb területen borszőlőt művel vagy területnagyságtól függetlenül borszőlőültetvényének termését értékesíti, illetve értékesítésre bort készít, továbbá, aki borszőlőt, mustot, illetve bort továbbfeldolgozás vagy továbbfeldolgozásra értékesítés céljából vásárol (a továbbiakban együttesen: adatszolgáltató), köteles a borszőlőterületéről, a bor tárolására alkalmas eszközeiről, tárolóteréről, szüretelési, feldolgozási, értékesítési, felhasználási tevékenységéről nyilvántartást vezetni, adatot szolgáltatni a hegyközségnek.
 
-(2) A hegybíró az adatszolgáltatóról gazdasági aktát vezet. A gazdasági akta tartalmazza az adatszolgáltató nevét, lakcímét, illetve székhelyét, adószámát, adóazonosító jelét, hegyközségi nyilvántartási számát, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv által adott regisztrációs számát. A gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+(2) A hegybíró az adatszolgáltatóról gazdasági aktát vezet. A gazdasági akta tartalmazza az adatszolgáltató nevét, lakcímét, illetve székhelyét, adószámát, adóazonosító jelét, gazdasági akta számát, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítóját. A gazdasági aktára vonatkozó adatközlés módját, a gazdasági akta vezetésének szabályait, adattartalmának felhasználását e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
 (3) Az adatszolgáltató a gazdasági aktában szereplő adataiban történő változást minden borpiaci év végéig köteles a hegybírónak bejelenteni.
 

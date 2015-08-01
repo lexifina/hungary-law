@@ -4,7 +4,7 @@
 
 (3) Tokaji fordítás: a kipréselt aszútésztára felöntött meghatározott termőhelyről származó mustból vagy azonos évjáratú borból alkoholos erjedés útján készült, fahordóban érlelt tokaji borkülönlegesség, amely jellegzetes érlelési illattal és zamattal rendelkezik.
 
-(4) Tokaji szamorodni: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott szőlőbogyókat is tartalmazó, válogatás nélkül szedett szőlőfürtök feldolgozásával előállított mustból alkoholos erjedés útján nyert tokaji borkülönlegesség, melyet legalább egy évig fahordóban érlelnek.
+(4) Tokaji szamorodni: a Tokaji borvidék területén termett, a Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott és egészséges szőlőszemek feldolgozásával előállított, és a forgalomba hozatalt megelőzően fahordóban érlelt tokaji borkülönlegesség.
 
 (5) Tokaji aszú: a Tokaji borvidék területén termett borszőlő Botrytis cinerea hatására nemesen rothadt, tőkén aszúsodott, szüretkor kézzel külön szedett, feldolgozott szőlőbogyóinak az ugyanott termett szőlőből készült mustban, részben erjedt szőlőmustban, még erjedésben lévő újborban vagy azonos évjáratú borban történő áztatását követő alkoholos erjedés útján nyert, és a forgalomba hozatal előtt fahordóban érlelt tokaji borkülönlegesség.
 

@@ -1,4 +1,4 @@
-23. § (1) A borszőlő, illetve a bor származási bizonyítványa igazolja:
+23. § (1) A borszőlő, illetve a borászati termék származási bizonyítványa igazolja:
 
 a) a származási helyet,
 
@@ -16,7 +16,7 @@ g) az évjáratot,
 
 h) a bor savtartalmának módosítására vonatkozó tényt.
 
-(2) A borszőlő származási bizonyítványát a hegybíró adja ki. A származási bizonyítványok részletes adattartalmát, kiadási rendjét e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
+(2) A származási bizonyítványt a hegybíró adja ki. A származási bizonyítványok részletes adattartalmát, kiadási rendjét e törvény felhatalmazása alapján kiadott rendelet tartalmazza.
 
 (3) A forgalomba hozatali engedélykérelemhez csatolni kell a származási bizonyítványt. Származási bizonyítvány hiányában vagy valótlan adatok feltüntetése esetén a borászati hatóság forgalomba hozatali engedélyt nem ad ki.
 

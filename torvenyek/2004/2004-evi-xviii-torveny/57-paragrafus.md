@@ -6,7 +6,7 @@
 
 a) a szőlő termőhelyi katasztere felvételezésének, a kataszterbe sorolás, a kataszteri osztály módosítás, a kataszterből való törlés szabályait;
 
-b) a borvidékeket és a hozzájuk tartozó települések listáját, a borvidéki régiókat és működésükre vonatkozó szabályokat, a védett eredetű borokat, a védett eredetű borok készítésére, kiszerelésére, jelölésére, minősítésének eljárására és ellenőrzésére vonatkozó szabályokat;
+b) a borvidékeket és a hozzájuk tartozó települések listáját, a borrégiókat és működésükre vonatkozó szabályokat, a védett eredetű borokat, a védett eredetű borok készítésére, kiszerelésére, jelölésére, minősítésének eljárására és ellenőrzésére vonatkozó szabályokat;
 
 c) a borkészítésre alkalmas szőlőfajtákat és a borkészítésre alkalmas szőlőfajták osztályba sorolásának rendjét;
 

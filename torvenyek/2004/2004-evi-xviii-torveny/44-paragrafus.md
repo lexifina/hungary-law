@@ -12,7 +12,7 @@ d) a gyártástechnológia műszaki feltételeit,
 
 e) a kereskedelmi forgalomba kerülő borászati termékek minőségét,
 
-f) a pincekönyv szakmai tartalmát (az ellenőrzés eredményét a pincekönyvbe is be kell jegyezni),
+f) a 19. § szerinti nyilvántartás szakmai tartalmát,
 
 g) a pincékben és a kereskedelemben – rendszeres mintavétellel – a borok minőségét,
 
@@ -20,7 +20,7 @@ h) az import borászati termékek minőségét,
 
 i)
 
-j) a bor származási bizonyítványok valóságtartalmát,
+j) a borászati termék származási bizonyítványának valóságtartalmát a borászati üzemben, és a hegybíró által vezetett nyilvántartásokban,
 
 k) a borszőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonását,
 
@@ -30,6 +30,6 @@ m) a helyi borbíráló bizottságok működését.
 
 (2) A helyszíni ellenőrzés során készült jegyzőkönyvben fel kell tüntetni az ellenőrzés keretében elrendelt ideiglenes intézkedést is. A borászati hatóság a hegybíró hatáskörébe is tartozó esetekben a jegyzőkönyv egy példányát a borászati üzem helye szerint illetékes hegyközségnek is megküldi.
 
-(3) A borászati hatóság ellátja a lepárlási, valamint a mustsűrítménnyel való mustjavítási intézkedésekhez kapcsolódó szakmai ellenőrzési feladatokat.
+(3)
 
 (4) A borászati hatóság a helyi borbíráló bizottságokról nyilvántartást vezet. E nyilvántartás közhiteles hatósági nyilvántartásnak minősül. A borászati hatóság a nyilvántartást honlapján is közzéteszi. A nyilvántartás tartalmazza a helyi borbíráló bizottság nevét, a helyi borbíráló bizottságot működtető szervezet nevét, a helyi borbíráló bizottság székhelyét, a helyi borbíráló bizottság működésének helyét, a helyi borbíráló bizottság nyilvántartásba vételének dátumát.

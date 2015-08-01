@@ -1,6 +1,6 @@
 25. § (1) Közfogyasztásra forgalomba hozott borászati termék az, amelyet a fogyasztónak vagy kereskedelmi szervnek közvetlenül értékesítenek.
 
-(2) A vámhatóság a Jöt.-ben az egyszerűsített adóraktár-engedélyesekre előírt tárgyidőszakonkénti mennyiségi elszámolás benyújtási határideje hónapját követő három hónapon belül megküldi a borászati hatóságnak a tárgyidőszakra vonatkozóan – egyszerűsített adóraktár-engedélyesenként (nevét, címét, cégnevét, székhelyét, adószámát is feltüntetve) részletezve – az Európai Unió tagállamaiból összesen, továbbfeldolgozás céljából beszerzett bor mennyiségére vonatkozó adatokat, mely adatokat a borászati hatóság átadhatja az illetékes hegyközségnek.
+(2) A vámhatóság egyszerűsített adóraktár-engedélyesenként (nevét, címét, cégnevét, székhelyét, adószámát is feltüntetve) részletezve az Európai Unió tagállamaiból továbbfeldolgozás céljából, vagy az Európai Unión kívülről beszerzett borászati termékről a borpiac közös szervezéséről szóló 479/2008/EK tanácsi rendeletnek a támogatási programok, a harmadik országokkal folytatott kereskedelem, a termelési potenciál és borágazat ellenőrzése tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló 555/2008/EK bizottsági rendelet 95a. cikke szerinti nyilvántartásból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint adatot szolgáltat a borászati hatóság részére.
 
 (3)
 

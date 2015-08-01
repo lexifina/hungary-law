@@ -4,11 +4,13 @@
 
 (2)
 
-(3) Az osztályba sorolást megalapozó kísérleti és törzsszőlő létesítésére bármely fajta szaporítóanyaga felhasználható, amely
+(3) Törzsszőlő létesítésére vagy az osztályba sorolást megalapozó kísérleti szőlőültetvény létesítésére bármely fajta szaporítóanyaga felhasználható, amely
 
 a) a Nemzeti Fajtajegyzékben vagy a Közösségi Fajtajegyzékben szerepel, vagy
 
-b) állami elismerésre bejelentett és egyedi szaporítási engedéllyel rendelkezik.
+b) állami elismerésre bejelentett és egyedi szaporítási engedéllyel rendelkezik,
+
+c) a Nemzeti Agrárkutatási és Innovációs Központ Szőlészeti és Borászati Kutatóintézet Kárpát-medencei szőlőfajta gyűjteményében szerepel.
 
 (4) Az a borszőlőfajta sorolható osztályba engedélyezett fajtaként, amely
 
