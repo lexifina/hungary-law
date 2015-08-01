@@ -1,4 +1,4 @@
-37/B. § (1) A 36. § (1) bekezdés a) és c) pontja szerinti esetben az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása szünetel.
+37/B. § (1) A 36. § (1) bekezdése szerinti esetekben az egészségkárosodási és gyermekfelügyeleti támogatás folyósítása szünetel.
 
 (1a)
 

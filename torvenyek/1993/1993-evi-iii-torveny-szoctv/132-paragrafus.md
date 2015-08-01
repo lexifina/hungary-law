@@ -14,7 +14,7 @@ d) a pénzbeli és természetbeni szociális ellátások igénylésének és meg
 
 e) a személyes gondoskodást nyújtó ellátásokért fizetendő térítési díjak megállapításának részletes szabályait,
 
-f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
+f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 92/K. § (8)–(10) bekezdése szerinti közzététel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
 
 g) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
 
@@ -40,7 +40,7 @@ r) a szociális intézményekben ellátott személyek állapotának felülvizsg�
 
 s) a bírság megállapításának és megfizetésének részletes eljárási szabályait;
 
-t) az energiafelhasználási támogatás mértékére, a támogatásra való jogosultság megállapításának feltételeire és a jogosultak körére, a támogatás igénylésére, megállapítására, érvényesítésére, a támogatás jogszerű igénybevétele ellenőrzésének és a jogosulatlanul igénybe vett támogatás visszakövetelésének rendjére, továbbá a támogatás forrásául szolgáló előirányzat kezelésére és felhasználására vonatkozó szabályokat;
+t)
 
 u) az egyházi kiegészítő támogatás megtérítésének részletes szabályait;
 

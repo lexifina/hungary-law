@@ -10,4 +10,4 @@ b) egészségügyi szolgáltatásra való jogosultságot
 
 állapít meg.
 
-(2) A 32–32/A. §-t az e Fejezet szerinti ellátásokra – az 55/D. §-ban meghatározott kivétellel – alkalmazni kell.
+(2) A 32–32/A. §-t az e Fejezet szerinti ellátásokra alkalmazni kell.

@@ -60,7 +60,7 @@ n)
 
 (1a) Az (1) bekezdés a) pontjában foglaltaktól eltérően e törvény alkalmazásában nem minősül jövedelemnek
 
-1. a temetési segély, az alkalmanként adott átmeneti segély, az önkormányzati segély, rendkívüli települési támogatás, a lakásfenntartási támogatás, az adósságcsökkentési támogatás,
+1. a rendkívüli települési támogatás, a lakásfenntartási támogatás, az adósságcsökkentési támogatás, valamint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez, a gyógyszerkiadások viseléséhez és a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek részére nyújtott települési támogatás,
 
 2. a rendkívüli gyermekvédelmi támogatás, a Gyvt. 20/A. §-a szerinti támogatás, a Gyvt. 20/B. §-ának (4)–(5) bekezdése szerinti pótlék, a nevelőszülők számára fizetett nevelési díj és külön ellátmány,
 
@@ -86,7 +86,7 @@ n)
 
 (2) E törvény 6. §-a és a II - III. Fejezet alkalmazásában hajléktalan a bejelentett lakóhellyel nem rendelkező személy, kivéve azt, akinek bejelentett lakóhelye a hajléktalan szállás.
 
-(3) E törvény 7., 78., 84. és 89. §-ainak alkalmazásában hajléktalan az, aki éjszakáit közterületen vagy nem lakás céljára szolgáló helyiségben tölti.
+(3) E törvény 7., 84. és 89. §-ainak alkalmazásában hajléktalan az, aki éjszakáit közterületen vagy nem lakás céljára szolgáló helyiségben tölti.
 
 (4)
 

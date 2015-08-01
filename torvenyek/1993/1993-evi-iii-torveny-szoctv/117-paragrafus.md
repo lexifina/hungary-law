@@ -20,7 +20,9 @@ nyújtó intézmények esetén.
 
 a) a személyi térítési díj nem haladhatja meg az ellátott havi jövedelmének 80%-át,
 
-b) a térítési díjra a tartós bentlakásos intézmények térítési díjára vonatkozó szabályokat kell alkalmazni.
+b) a térítési díjra – a (2b) bekezdés szerinti kivétellel – a tartós bentlakásos intézmények térítési díjára vonatkozó szabályokat kell alkalmazni.
+
+(2b) A 117/C. § szabályait nem lehet alkalmazni arra az igénybevevőre, aki fogyatékos személyek, pszichiátriai vagy szenvedélybetegek ápoló-gondozó otthonában rendelkezik intézményi jogviszonnyal a támogatott lakhatás igénybevételét megelőzően.
 
 (3) Tartós bentlakásos intézményi ellátás esetén a személyi térítési díj az intézményi térítési díjjal megegyező összeg, ha a jövedelemhányad eléri vagy meghaladja az intézményi térítési díj összegét.
 

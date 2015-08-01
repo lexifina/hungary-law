@@ -1,6 +1,6 @@
 ## Települési támogatás
 
-45. § (1) A képviselő-testület az e törvény rendelkezései alapján nyújtott pénzbeli és természetbeni ellátások kiegészítéseként, önkormányzati rendeletben meghatározott feltételek alapján települési támogatást nyújt. Települési támogatás keretében nyújtható támogatás különösen
+45. § (1) A képviselő-testület az e törvény rendelkezései alapján nyújtott pénzbeli és természetbeni ellátások kiegészítéseként, önkormányzati rendeletben meghatározott feltételek alapján – pénzbeli vagy természetbeni formában – települési támogatást nyújt. Települési támogatás keretében nyújtható támogatás különösen
 
 a) a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez,
 

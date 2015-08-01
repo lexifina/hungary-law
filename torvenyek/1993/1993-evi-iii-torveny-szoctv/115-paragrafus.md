@@ -8,7 +8,7 @@
 
 a) állami fenntartó esetén a (2) bekezdés szerinti értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat, ezt követően a fenntartó döntésének felülvizsgálata bíróságtól kérhető,
 
-b) nem állami fenntartó esetén a bíróságtól kérheti a térítési díj megállapítását.
+b) egyházi és nem állami fenntartó esetén a bíróságtól kérheti a térítési díj megállapítását.
 
 (5) A fenntartó döntéséig, illetve a bíróság jogerős határozatáig a korábban megállapított személyi térítési díjat kell megfizetni.
 
