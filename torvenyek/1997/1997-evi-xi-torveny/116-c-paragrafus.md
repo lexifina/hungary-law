@@ -4,11 +4,11 @@ a) mezőgazdasági termékek és élelmiszerek esetében az 1151/2012/EU rendele
 
 b) szeszes italok esetében a 110/2008/EK rendelet 22. cikkének (1) bekezdésében említett terméktanúsító szervezetek;
 
-c) szőlészeti és borászati termékek esetében az 1234/2007/EK rendelet 118p. cikkének (1) bekezdésében említett terméktanúsító szervezetek.
+c) szőlészeti és borászati termékek esetében az 1308/2013/EU rendelet 94. cikk (2) bekezdésének i) pontjában említett ellenőrző szervezetek, illetve az ízesített borászati termékek esetében a 251/2014/EU rendelet 23. cikk (1) bekezdésében említett terméktanúsító szervezetek.
 
 (2) Az (1) bekezdés szerinti külön jogszabály
 
-a) feltételhez kötheti a földrajziárujelző-oltalomban részesülő mezőgazdasági termékek és élelmiszerek, szeszes italok, valamint szőlészeti és borászati termékek előállítását, illetve forgalomba hozatalát, valamint
+a) feltételhez kötheti a földrajziárujelző-oltalomban részesülő mezőgazdasági termékek és élelmiszerek, szeszes italok, szőlészeti és borászati termékek, valamint ízesített borászati termékek előállítását, illetve forgalomba hozatalát, valamint
 
 b) megtilthatja a földrajzi árujelző használatát.
 

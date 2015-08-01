@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-11-00-00
 | 2013-10-25 | 2013. évi CLIX. törvény | 1997-11-00-00.28 |
 | 2014-01-01 | 2013. évi XVI. törvény | 1997-11-00-00.29 |
 | 2014-03-15 | 2014. évi XV. törvény | 1997-11-00-00.30 |
+| 2015-08-01 | 2015. évi XCVIII. törvény | 1997-11-00-00.31 |

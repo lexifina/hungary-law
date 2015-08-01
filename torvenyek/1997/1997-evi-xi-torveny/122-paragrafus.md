@@ -16,4 +16,6 @@ c) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és ere
 
 d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet III. fejezete;
 
-e) a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet II. része II. címe I. fejezetének Ia. szakasza.
+e) a szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet II. része II. címe I. fejezetének 2. szakasza,
+
+f) az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 251/2014/EU európai parlamenti és tanácsi rendelet III. fejezete.
