@@ -6,13 +6,13 @@ a) meghatározza az Egyezményből eredő feladatok végrehajtásának koncepci�
 
 b) érvényesíti a világörökségi szempontokat a világörökségi területet érintő jogszabályokban, illetve átfogó tervezési programokban;
 
-c) előkészíti a világörökségi területek, valamint a várományos területek világörökségi kezelési tervét (a továbbiakban: világörökségi kezelési terv), kezdeményezi annak felülvizsgálatát, illetve – szükség esetén – módosítását, valamint ellátja az ebből eredő egyéb feladatokat;
+c) előkészíti a világörökségi területek, valamint a Kormány döntése alapján a Világörökség Jegyzékbe javasolt várományos területek világörökségi kezelési tervét (a továbbiakban: világörökségi kezelési terv), kezdeményezi annak felülvizsgálatát, illetve – szükség esetén – módosítását, valamint ellátja az ebből eredő egyéb feladatokat;
 
 d) gondoskodik a világörökségi terület állapotának felméréséről és folyamatos figyelemmel kíséréséről, továbbá megteszi a kiemelkedő egyetemes érték megőrzéséhez, bemutatásához, fenntartásához, valamint az azt érő káros hatások bekövetkezésének megelőzéséhez szükséges intézkedéseket;
 
 e) felügyeli a világörökségi gondnokságok e törvényben, valamint e törvény alapján kiadott külön jogszabályban meghatározott tevékenységét, és külön jogszabályban meghatározott esetekben intézkedik a világörökségi gondnokság megbízásának visszavonásáról;
 
-f) évente jelentést tesz a Kormánynak, és négyévente beszámol az Országgyűlésnek a világörökségi területek állapotáról és az Egyezményből eredő feladatok ellátásáról;
+f) négyévente beszámol a Kormánynak és az Országgyűlésnek a világörökségi területek állapotáról és az Egyezményből eredő feladatok ellátásáról;
 
 g) szükség esetén gondoskodik a világörökségi területtel kapcsolatos módosítás, így különösen a világörökségi terület határának, a világörökségi helyszín elnevezésének, valamint kiemelkedő egyetemes értékének megváltoztatása Központhoz történő bejelentéséről;
 
@@ -22,4 +22,8 @@ i) ellátja a világörökséggel kapcsolatos, az Egyezményből eredő nemzetk�
 
 j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles körben történő megismertetését, bemutatását, valamint fejlesztését elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról, valamint
 
-k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről.
+k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről;
+
+l) gondoskodik a hazai Világörökségi Várományos Helyszínek Jegyzékének vezetéséről,
+
+m) Kormányrendeletben kijelölt szerv útján gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.

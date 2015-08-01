@@ -20,4 +20,4 @@ a) a világörökségi gondnokság kiválasztásának részletes szabályait, a 
 
 b) a Világörökségi Várományos Helyszínek Jegyzékét.
 
-(3) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy rendeletben állapítsa meg az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
+(3)

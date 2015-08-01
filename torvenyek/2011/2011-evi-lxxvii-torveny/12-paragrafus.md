@@ -10,7 +10,9 @@ b) a 9. § (2) bekezdésében meghatározott szakértői költségeket;
 
 c) a területrendezési tervek és településrendezési eszközök világörökségi kezelési tervben foglaltak szerinti felülvizsgálatát és módosítását;
 
-d) a 4/A. § szerinti felülvizsgálattal összefüggésben felmerülő, másra át nem hárítható költségeket és egyéb fizetési kötelezettségeket.
+d) a 4/A. § szerinti felülvizsgálattal összefüggésben felmerülő, másra át nem hárítható költségeket és egyéb fizetési kötelezettségeket;
+
+e) a Világörökség Jegyzékbe jelölendő helyszín jelölésének költségeit.
 
 (3) Az állam a központi költségvetésből támogatást nyújt az alábbi feladatok ellátásához:
 
