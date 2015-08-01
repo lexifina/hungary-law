@@ -20,7 +20,7 @@ f) a szülőknek az ellátás mellett jogi, pszichológiai és mentálhigiénés
 
 g) közreműködik – a gyermekjóléti szolgálattal együttműködve – az átmeneti gondozást szükségessé tevő okok megszüntetésében, a család helyzetének rendezésében, otthontalanságának megszüntetésében.
 
-(4) A családok átmeneti otthona krízisközpontot működtethet.
+(4) Krízisközpontként kizárólag a családok átmeneti otthona működhet.
 
 (5) A krízisközpont befogadja a hozzátartozók közötti erőszak miatt krízishelyzetbe került, a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló törvény szerint bántalmazottnak minősülő személyt és azt a vele egy háztartásban élő személyt, akinek tartására jogszabály, szerződés vagy bírósági határozat alapján köteles (a továbbiakban együtt: bántalmazott család).
 
@@ -44,4 +44,14 @@ b) a bántalmazott vállalja a külön jogszabályban meghatározott előtakaré
 
 c) a bántalmazott vállalja a külön jogszabályban meghatározott társadalmi reintegrációt segítő programban való részvételt.
 
-(9) A krízisközpont működtetését az állam a jogszabályban meghatározott eljárási rend szerint kiválasztott fenntartókkal kötött finanszírozási szerződés útján támogatja. A finanszírozási szerződést – ha jogszabály másként nem rendelkezik – három évre kell megkötni.
+(9) Titkos menedékházként kizárólag a családok átmeneti otthona működhet.
+
+(10) A titkos menedékház befogadja a kapcsolati erőszak miatt krízishelyzetbe került, illetve otthontalanná vált bántalmazottat és gyermekét, valamint az (5) bekezdés szerinti bántalmazott családot.
+
+(11) A titkos menedékház a (10) bekezdésben foglalt személy számára legfeljebb hat hónap időtartamra
+
+a) lakhatást biztosít, és szükség esetén biztosítja az étkeztetést, a ruházattal való ellátást, a mentálhigiénés ellátást, valamint segítséget nyújt az egészségügyi ellátáshoz való hozzáféréshez,
+
+b) közreműködik – a gyermekjóléti, illetve családsegítő szolgálattal együttműködve – a titkos menedékház szolgáltatást szükségessé tevő okok megszüntetésében, a család, az egyén helyzetének rendezésében, otthontalanságának megszüntetésében,
+
+c) segítséget nyújt a bántalmazás következtében kialakult pszichés sérülések kezelésében és jogi tanácsadással segíti a (10) bekezdésben foglalt személy érdekeinek védelmét.

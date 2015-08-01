@@ -1,0 +1,1 @@
+167. § A Módtv.-vel megállapított 25. § (6) és (7) bekezdését, 92. § (2) bekezdését és (6) bekezdés c) pontját, 93. § (2) bekezdés b) pontját, 93. § (9) bekezdés b) pontját és 93. § (10) bekezdés b) pontját a 2014. január 15-én folyamatban lévő ügyekben is alkalmazni kell.

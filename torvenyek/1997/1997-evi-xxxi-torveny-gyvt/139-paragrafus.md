@@ -48,7 +48,7 @@ a) a alternatív napközbeni ellátás esetén,
 
 b) házi gyermekfelügyelet esetén,
 
-c) gyermekjóléti szolgáltatás esetén, ha a gyermekjóléti szolgáltatás nyújtása az első találkozást követően tett intézkedéssel lezárható,
+c)
 
 d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén,
 
