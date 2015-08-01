@@ -16,6 +16,10 @@ c) a belső határon az ellenőrzés ideiglenes bevezetésének feltételeit,
 
 d) a határátkelőhely rendjének kötelező tartalmát, megállapításának módját, részletes eljárási szabályait és feltételeit.
 
+e) az 5. § szerinti közérdekű használati jog gyakorlására jogosult szerveket és személyeket,
+
+f) az 5/A. § szerinti kártalanítás és kártalanítási eljárás szabályait.
+
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 
 (6) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a határjegyzőkönyvet rendeletben hagyja jóvá.

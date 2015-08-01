@@ -1,0 +1,1 @@
+5/C. § Ha az 5/B. § szerinti létesítmény üzemeltetésére, illetve az ingatlan igénybevételére az 5. § (1) bekezdése szerinti célból már nincs szükség, az ingatlan eredeti állapotát helyre kell állítani.
