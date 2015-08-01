@@ -1,0 +1,3 @@
+30. § A Hktv. 34. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az elfogadott rendtartást meg kell küldeni a hegyközségi tanácsnak, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, ellentétes a borvidéki rendtartással, ellentétes a Hegyközségek Nemzeti Tanácsának a rendtartás megküldéséig elfogadott határozataival, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközség közgyűlésének a kifogásolt rendelkezést újra kell tárgyalnia. A rendtartást – kifogás híján – a hegyközségi tanácsnak történő megküldését követő harminc nap elteltével közzé kell tenni.”

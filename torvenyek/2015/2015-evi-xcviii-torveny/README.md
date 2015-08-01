@@ -1,0 +1,7 @@
+# 2015. évi XCVIII. törvény a szőlő- és bortermeléssel kapcsolatos egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-98-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2015-08-01 | 2015. évi XCVIII. törvény | 2015-98-00-00.0 (közlönyállapot) |

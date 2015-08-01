@@ -1,0 +1,3 @@
+11. § A Bortv. 24/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Borászati terméket – a must kivételével – közfogyasztásra forgalomba hozni vagy továbbfeldolgozás céljából Magyarország területéről kivinni csak abban az esetben lehet, ha azt tételenként a borászati hatóság vagy e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételeknek megfelelő szervezet laboratóriumi és érzékszervi vizsgálatok alá vetette, és ennek alapján minőségét megállapította, és megfelelőnek minősítette, vagy az Európai Gazdasági Térség valamely szerződő államának erre hatáskörrel rendelkező szerve, illetve egyéb, uniós jogi aktusban meghatározott szervezet, a rá vonatkozó szabályok szerint minőségét megállapította és megfelelőnek minősítette.”

@@ -1,0 +1,3 @@
+13. § A Bortv. 33. §-a helyébe a következő rendelkezés lép:
+
+„33. § A más terület terméséből származó borászati terméket a területről származó borászati terméktől elkülönítve, külön borászati üzemben kell tartani, és tárolóedényét (hordóját) olyan megjelöléssel kell ellátni, amely a borászati termék származását kétséget kizáró módon feltünteti. A kizárólag házi fogyasztás céljára bevitt idegen eredetű borászati termék a Tokaji borvidékről származó borászati termékkel egy borászati üzemben is tartható, származását és a házi fogyasztás céljára utaló jelzést azonban a tárolóedényen (hordón) ilyen esetben is fel kell tüntetni.”
