@@ -16,7 +16,7 @@ e) a hegyközségi járulék mértékének meghatározása.
 
 (3) A közgyűlést az alapszabályban meghatározott időközönként, de évente legalább egy alkalommal össze kell hívni.
 
-(4) A közgyűlés időpontjáról és napirendjéről meghívó kiküldésével minden tagot írásban kell értesíteni azzal a figyelmeztetéssel, hogy a közgyűlés a megjelent tagok számára tekintet nélkül határozatképes.
+(4) A közgyűlés időpontjáról és napirendjéről meghívó kiküldésével minden tagot írásban kell értesíteni azzal a figyelmeztetéssel, hogy a közgyűlés a megjelent tagok számára tekintet nélkül határozatképes. Írásbeli közlésnek minősül a meghívó elektronikus levélben való megküldése is.
 
 (5) A közgyűlésen
 
@@ -26,7 +26,7 @@ b) a hegybíró nyilvántartása alapján szőlőültetvénnyel nem rendelkező 
 
 illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát birtokolhatja akkor is, ha az a) pont alapján többre lenne jogosult.
 
-(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi járulékfizetési kötelezettségének pedig az év első közgyűlésének napját megelőzően legalább öt nappal eleget tett.
+(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi járulékfizetési kötelezettségének pedig a közgyűlés napját megelőzően legalább öt nappal eleget tett.
 
 (7) Ha e törvény vagy az alapszabály másként nem rendelkezik a közgyűlés a határozatait a jelenlévő tagokat megillető szavazatok szerint megállapított egyszerű szavazattöbbséggel hozza.
 

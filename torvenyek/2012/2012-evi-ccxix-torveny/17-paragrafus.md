@@ -1,6 +1,6 @@
 ## 14. A tagsági viszony keletkezése és megszűnése
 
-17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a borvidéken kívül a szőlészeti és borászati termelő tevékenységet végző nyilvántartásba vételi kötelezettsége azon hónapot követő hónap első napjával keletkezik, amelyben a tevékenységét megkezdi.
+17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a borvidéken kívül a szőlészeti és borászati termelőtevékenységet végző nyilvántartásba-vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
 (2) A szőlészeti és borászati felvásárló nyilvántartásba vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 

@@ -14,7 +14,7 @@ b) első fokon eljár a közigazgatási hatósági ügyekben,
 
 c) az e törvényben, valamint jogszabályban meghatározott módon a hegyközség által vezetett nyilvántartásokból adatot szolgáltat,
 
-d) kiadja a telepítési és kivágási engedélyeket, vezeti az újratelepítési jogok nyilvántartását,
+d) kiadja a telepítési engedélyeket és a kivágási engedélyeket, vezeti az újratelepítési jogok és a telepítési engedélyek nyilvántartását,
 
 e) vezeti a gazdasági aktát, ellenőrzi a gazdasági aktában nyilvántartott területek állapotát, a nyilvántartott adatok valóságtartalmát,
 
@@ -34,7 +34,13 @@ j) a szőlőtermelőnek a szőlőterületére, szőlőfajtáira, a tárgyévi te
 
 (5) A közgyűlés, illetve a választmány döntése alapján az elnök a 7. § (1) bekezdésének cb) és d) pontja, valamint a 22. § (1) bekezdése szerinti elnöki feladatok ellátásával külön megállapodással megbízhatja a hegybírót.
 
-(6) A hegybíró a közgyűlésen és a választmány ülésén beszámol a tevékenységéről.
+(5a) A Hegyközségek Nemzeti Tanácsának döntése alapján a hegybíró külön megállapodás alapján a Hegyközségek Nemzeti Tanácsa, mint szakmaközi szervezet által hozott intézkedések ellenőrzésével megbízható.
+
+(5b) A hegybíró a szakmaközi szervezet által hozott intézkedések megvalósulásának ellenőrzése során jegyzőkönyvben rögzíti az általa tapasztalt hiányosságokat. A jegyzőkönyvet három munkanapon belül megküldi a szakmaközi szervezetnek vagy kiterjesztett intézkedés esetén a hatósági ellenőrzésre jogosult hatóságnak.
+
+(5c) A megküldött ellenőrzési jegyzőkönyv alapján a szakmaközi szervezet vagy kiterjesztett intézkedés esetén az ellenőrzésre jogosult hatóság az ellenőrzést köteles lefolytatni. Az ellenőrzésre jogosult hatóság az ellenőrzés eredményéről a szakmaközi szervezetet tájékoztatja.
+
+(6) A hegybírót meg kell hívni a közgyűlés és a választmány ülésére. A hegybíró a közgyűlésen és a választmány ülésén beszámol a tevékenységéről.
 
 (7) A hegybírói tisztség betöltésére a pályázatot a hegyközség választmánya írja ki. A hegybíró személyére a beérkezett pályázatok értékelése alapján a Hegyközségek Nemzeti Tanácsa felé a választmány tesz javaslatot. A hegybíró munkáltatója – az 58. § (4) bekezdésben foglalt eltéréssel – Hegyközségek Nemzeti Tanácsa. A hegybíró felett a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja, aki e jogok gyakorlására – a kinevezés és felmentés kivételével – a hegyközségi tanács titkárát is feljogosíthatja. A hegybíró kinevezése határozatlan időre szól. A 22. § (1) bekezdés szerint működő hegyközség esetében a hegybíró felett a munkáltatói jogok teljes körét a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
 
