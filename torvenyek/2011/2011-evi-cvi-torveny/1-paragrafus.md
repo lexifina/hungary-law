@@ -64,7 +64,13 @@ k) a kötelező önkormányzati feladat ellátásában közreműködő, törvén
 
 a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
 
-b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti álláskereső, ideértve azt az álláskeresőt is, akinek álláskeresőként való nyilvántartása a közfoglalkoztatási jogviszonya miatt szünetel (a továbbiakban együtt: álláskereső), vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül.
+b) megfelel az alábbi feltételek valamelyikének:
+
+ba) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerinti álláskereső, ideértve azt az álláskeresőt is, akinek álláskeresőként való nyilvántartása a közfoglalkoztatási jogviszonya miatt szünetel (a továbbiakban együtt: álláskereső), vagy a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti rehabilitációs ellátásban részesül,
+
+bb) a menekültügyi őrizetben lévő személy kivételével kérelmének jogerős elbírálásáig az, aki menekültként, oltalmazottként, vagy menedékesként történő elismerés iránti kérelmet nyújtott be, vagy
+
+bc) olyan harmadik országbeli állampolgár, akinek az idegenrendészeti hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 62. § (1) bekezdés a), c), d), f) pontok alapján kijelölt helyen való tartózkodását rendelte el.
 
 (4a) Az álláskeresőt három hónap időtartamra ki kell zárni a közfoglalkoztatásból, ha
 
