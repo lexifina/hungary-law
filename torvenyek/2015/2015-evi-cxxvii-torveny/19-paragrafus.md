@@ -1,0 +1,5 @@
+19. § A menedékjogról szóló 2007. évi LXXX. törvény 2. § m) pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„m) dublini eljárás: az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU európai parlamenti és tanácsi rendelet, valamint az egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról szóló 1560/2003/EK bizottsági rendelet módosításáról szóló, 2014. január 30-i 118/2014/EU bizottsági végrehajtási rendeletet (a továbbiakban együtt: dublini rendeletek) alkalmazó állam (a továbbiakban: tagállam) meghatározására és a kérelmező átadás-átvételére irányuló eljárás;”

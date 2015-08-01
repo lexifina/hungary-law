@@ -1,0 +1,5 @@
+2. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/B. § a következő (9) és (10) bekezdéssel egészül ki:
+
+„(9) Az adatbázis a menekültként, oltalmazottként vagy menedékesként történő elismerés iránti kérelmet benyújtó (a továbbiakban együtt: elismerést kérő) közfoglalkoztatott, valamint az idegenrendészeti hatóság döntése alapján kijelölt tartózkodási helyen élő harmadik országbeli állampolgár közfoglalkoztatott esetében a közfoglalkoztatott természetes személyazonosító adatait, lakóhelyét, tartózkodási helyét, szálláshelyét, továbbá a (3) bekezdés 2. a) pont aa), ac) és ad) alpontjában, valamint a (3) bekezdés 2. b) pont bb)–bf) alpontjában meghatározott adatokat tartalmazza.
+
+(10) Az elismerést kérő adatait az állami foglalkoztatási szerv a menekültügyi hatóság elismerésre irányuló kérelmet elutasító döntés jogerőre emelkedéséről szóló értesítése alapján az adatbázisból haladéktalanul törli, kivéve, ha az idegenrendészeti hatóság a harmadik országbeli állampolgár kijelölt helyen való tartózkodását rendelte el.”
