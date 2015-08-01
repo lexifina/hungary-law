@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-163-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-07-11 | 2014-163-20-22.1 | 163/2014. (VII. 10.) Korm. rendelet |
+| 2015-08-01 | 2014-163-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
