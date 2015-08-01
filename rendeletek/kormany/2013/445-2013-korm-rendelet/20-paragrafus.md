@@ -1,4 +1,4 @@
-20. § (1)[^37] A kormányhivatal szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását, ha
+20. § (1)[^41] A kormányhivatal szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását, ha
 
 a) nem állnak fenn a 19. § (1) bekezdés a)–d) pontjában meghatározott feltételek,
 
@@ -24,13 +24,13 @@ i) a harmadik országbeli állampolgár magyarországi foglalkoztatására a ké
 
 j) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatását az összevont engedély iránti kérelem benyújtásának időpontjától számított százhúsz napon belül nem kívánja megkezdeni.
 
-(2)[^38] Az (1) bekezdés e) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
+(2)[^42] Az (1) bekezdés e) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
 
-(3)[^39] Az (1) bekezdés i) pontja tekintetében nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását.
+(3)[^43] Az (1) bekezdés i) pontja tekintetében nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását.
 
-(4)[^40] A kormányhivatal egyéb foglalkoztatási szempont mérlegelése alapján dönthet arról, hogy szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását.
+(4)[^44] A kormányhivatal egyéb foglalkoztatási szempont mérlegelése alapján dönthet arról, hogy szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását.
 
-(5)[^41] A (4) bekezdésben meghatározott egyéb foglalkoztatási szempont, ha
+(5)[^45] A (4) bekezdésben meghatározott egyéb foglalkoztatási szempont, ha
 
 a) az összevont engedély iránti kérelem benyújtásának időpontjában a harmadik országbeli állampolgár által ellátandó tevékenységre vonatkozóan a Nemzeti Foglalkoztatási Alapból támogatott olyan képzés van folyamatban, amely a harmadik országbeli állampolgár foglalkoztatásának tervezett megkezdését megelőzően befejeződik,
 
@@ -40,11 +40,11 @@ c) az előzetes megállapodást megkötő foglalkoztatónál a kérelem benyújt
 
 d) az előzetes megállapodásban a harmadik országbeli állampolgár által ellátandó tevékenységért az erre a tevékenységre vonatkozó országos átlagos személyi alapbérnél lényegesen alacsonyabb alapbér – ideértve az illetményt és a díjazást – szerepel.
 
-(6)[^42] A (5) bekezdés d) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által ellátandó tevékenységért megjelölt alapbér – ideértve az illetményt és a díjazást – az erre a tevékenységre vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.
+(6)[^46] A (5) bekezdés d) pontjában meghatározott feltétel szempontjából a harmadik országbeli állampolgár által ellátandó tevékenységért megjelölt alapbér – ideértve az illetményt és a díjazást – az erre a tevékenységre vonatkozó országos személyi alapbérnél akkor minősül lényegesen alacsonyabbnak, ha nem haladja meg annak nyolcvan százalékát.
 
-[^37]: A 20. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (5) bekezdésével megállapított szöveg.
-[^38]: A 20. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 7. § (17) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
-[^39]: A 20. § (3) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
-[^40]: A 20. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^41]: A 20. § (5) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
-[^42]: A 20. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
+[^41]: A 20. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (5) bekezdésével megállapított szöveg.
+[^42]: A 20. § (2) bekezdése a 89/2014. (III. 20.) Korm. rendelet 7. § (17) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^43]: A 20. § (3) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
+[^44]: A 20. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^45]: A 20. § (5) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.
+[^46]: A 20. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (12) bekezdése iktatta be.

@@ -6,7 +6,7 @@
 
 2. harmadik országbeli állampolgárnak kulcsszemélyzetként történő munkavégzéséhez,
 
-3. naptári évenként a többségi külföldi tulajdonban lévő gazdasági társaság által a megelőző év december 31-ei munkajogi állományi létszám öt százalékát meg nem haladó létszámú harmadik országbeli állampolgár munkavégzéséhez,
+3.[^14] a többségi külföldi tulajdonban lévő gazdasági társaság esetében, naptári negyedévenként, a megelőző naptári negyedév munkajogi állományi létszáma öt százalékát meg nem haladó létszámú harmadik országbeli állampolgár munkavégzéséhez,
 
 4. a külföldi állam diplomáciai vagy konzuli képviseletének személyzete közeli hozzátartozója magyarországi foglalkoztatásához, az államok között fennálló viszonosság hiányában,
 
@@ -40,10 +40,12 @@
 
 (3) Az (1) bekezdés 1. és 2. pontjában meghatározott esetekben a 6. §-ban foglalt szempontokat sem kell vizsgálni.
 
-(4) Az (1) bekezdés 3. pontja alkalmazása szempontjából, a megelőző év december 31-ei munkajogi állományi létszám öt százalékának kiszámításánál minden olyan harmadik országbeli állampolgárt figyelembe kell venni, akinek foglalkoztatására munkavállalási engedély vagy összevont engedély alapján kerül sor.
+(4)[^15] Az (1) bekezdés 3. pontja alkalmazása szempontjából, a megelőző naptári negyedév munkajogi állományi létszám öt százalékának kiszámításánál minden olyan harmadik országbeli állampolgárt figyelembe kell venni, akinek foglalkoztatására munkavállalási engedély vagy összevont engedély alapján kerül sor.
 
 (5) Az (1) bekezdés 4. pontjában meghatározott viszonosság fennállásának tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-(6)[^14] Az (1) bekezdés 13. pontjában meghatározott esetben az engedély kiadásakor nem kell vizsgálni a 3. § (2) bekezdés c) pontjában írt feltétel fennállását, és a kérelemhez a képzettséget, végzettséget tanúsító okiratok másolatait nem kell csatolni. A kérelemhez csatolni kell a filmalkotás magyarországi gyártásának elvégzésére vagy a koprodukciós filmalkotás gyártására kötött magánjogi szerződést, valamint a filmalkotás Nemzeti Média és Hírközlési Hatóság Hivatalánál történő nyilvántartásba vételére irányuló kérelem benyújtásáról szóló igazolást.
+(6)[^16] Az (1) bekezdés 13. pontjában meghatározott esetben az engedély kiadásakor nem kell vizsgálni a 3. § (2) bekezdés c) pontjában írt feltétel fennállását, és a kérelemhez a képzettséget, végzettséget tanúsító okiratok másolatait nem kell csatolni. A kérelemhez csatolni kell a filmalkotás magyarországi gyártásának elvégzésére vagy a koprodukciós filmalkotás gyártására kötött magánjogi szerződést, valamint a filmalkotás Nemzeti Média és Hírközlési Hatóság Hivatalánál történő nyilvántartásba vételére irányuló kérelem benyújtásáról szóló igazolást.
 
-[^14]: A 9. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (6) bekezdése iktatta be.
+[^14]: A 9. § (1) bekezdés 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^15]: A 9. § (4) bekezdése a 193/2015. (VII. 21.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^16]: A 9. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (6) bekezdése iktatta be.

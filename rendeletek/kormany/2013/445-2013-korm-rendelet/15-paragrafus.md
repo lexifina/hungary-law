@@ -44,14 +44,19 @@
 
 21. a hivatásos sportolónak munkavégzés keretében folytatott sporttevékenységéhez, és az edző sporttevékenységre való felkészítő tevékenységéhez,
 
-22. az 1999. évi CXVII. törvénnyel kihirdetett az Észak-Atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló 1951. június 19-én Londonban kelt Megállapodás (a továbbiakban: NATO-SOFA Megállapodás) részes államainak a NATO-SOFA Megállapodás I. Cikk 1. pont a) és b) alpontjában meghatározott és Magyarország területén szolgálati célból tartózkodó fegyveres ereje és polgári állománya tagjai közeli hozzátartozóinak munkavégzéséhez a szolgálati célú tartózkodás idejére a részes államok közt fennálló viszonosság alapján,
+22.[^29] az 1999. évi CXVII. törvénnyel kihirdetett, az Észak-Atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló 1951. június 19-én Londonban kelt Megállapodás (a továbbiakban: NATO-SOFA Megállapodás) részes államainak a NATO-SOFA Megállapodás I. Cikk 1. pont a) és b) alpontjában meghatározott és Magyarország területén szolgálati célból tartózkodó fegyveres ereje és polgári állománya tagjai közeli hozzátartozóinak munkavégzéséhez,
 
 23. a Harmtv. 19. §-ában meghatározott családegyesítő családi együttélés biztosítása céljából kiadott, érvényes tartózkodási engedéllyel rendelkező és legalább egy éve jogszerűen Magyarország területén tartózkodó családtagjának, feltéve, hogy a családegyesítő engedély nélkül foglalkoztatható, valamint
 
-24. a menekültként, oltalmazottként elismert személy családtagjának, vagy a menekültként elismert kísérő nélküli kiskorú esetén szülőjének, ennek hiányában gyámjának, feltéve, hogy a családi együttélés biztosítása céljából kiadott, érvényes tartózkodási engedéllyel rendelkezik.
+24. a menekültként, oltalmazottként elismert személy családtagjának, vagy a menekültként elismert kísérő nélküli kiskorú esetén szülőjének, ennek hiányában gyámjának, feltéve, hogy a családi együttélés biztosítása céljából kiadott, érvényes tartózkodási engedéllyel rendelkezik,
+
+25.[^30] a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (4) bekezdés b) pontja alapján közfoglalkoztatottként foglalkoztatható természetes személy közfoglalkoztatási jogviszony keretében történő munkavégzéséhez.
 
 (2) Az (1) bekezdésben meghatározott mentesség nem vonatkozik a harmadik országbeli állampolgárnak a mentesség alá eső tevékenységét meghaladó munkavégzésére.
 
 (3) Az (1) bekezdés 3. és 5. pontjában meghatározott viszonosság fennállásának tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
 (4) A mentesség alapjául szolgáló feltételek fennállását a foglalkoztatónak kell bizonyítani.
+
+[^29]: A 15. § (1) bekezdés 22. pontja a 193/2015. (VII. 21.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^30]: A 15. § (1) bekezdés 25. pontját a 204/2015. (VII. 23.) Korm. rendelet 33. §-a iktatta be.
