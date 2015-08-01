@@ -114,27 +114,31 @@
 
 1.42.[^29] az ÁROP 2.2.18 „Közigazgatási szolgáltatások használatára való ösztönzés és azokról tájékoztatás” elnevezésű projekt keretei között megvalósuló, tájékoztató célú Vállalkozói Portál;
 
-1.43.[^30] a települési ügysegéd által szolgáltatásként elérhető szakrendszerek kivételével – az e-közigazgatásért felelős miniszterrel kötött egyedi megállapodás szerint – a települési ügysegédek feladatai ellátásához szükséges informatikai rendszerek, beleértve a szükséges végfelhasználói hardver és szoftver infrastruktúra biztonságos és menedzselt üzemeltetését és karbantartását.
+1.43.[^30] a települési ügysegéd által szolgáltatásként elérhető szakrendszerek kivételével – az e-közigazgatásért felelős miniszterrel kötött egyedi megállapodás szerint – a települési ügysegédek feladatai ellátásához szükséges informatikai rendszerek, beleértve a szükséges végfelhasználói hardver és szoftver infrastruktúra biztonságos és menedzselt üzemeltetését és karbantartását;
+
+1.44.[^31] a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet 5. § (1) bekezdése szerinti adatbázis informatikai rendszer üzemeltetése az 5. § (1a) bekezdésben meghatározott körben;
 
 2. A központi szolgáltató a következő informatikai rendszerek fejlesztéséről gondoskodik:
 
 2.1. Az 1.17. pont szerinti önkormányzati ASP központot kiszolgáló informatikai rendszer.
 
-2.2.[^31] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
+2.2.[^32] A külön jogszabályban meghatározott nemzeti mobil fizetési rendszer működését biztosító informatikai rendszer.
 
-2.3.[^32] Az 1.30. pontja szerinti KÖKIR és kapcsolódó szakrendszerei.
+2.3.[^33] Az 1.30. pontja szerinti KÖKIR és kapcsolódó szakrendszerei.
 
-2.4.[^33]
+2.4.[^34]
 
-2.5.[^34] Az 1.1. pontban meghatározott feltételrendszer szerint az 1.1.1–1.1.5. alpontban nevesített rendszerek.
+2.5.[^35] Az 1.1. pontban meghatározott feltételrendszer szerint az 1.1.1–1.1.5. alpontban nevesített rendszerek.
 
-2.6.[^35] Az 1.37. pontja szerinti e-közigazgatási mobil alkalmazások és ezekhez kapcsolódó informatikai rendszerek fejlesztése,
+2.6.[^36] Az 1.37. pontja szerinti e-közigazgatási mobil alkalmazások és ezekhez kapcsolódó informatikai rendszerek fejlesztése,
 
-2.7.[^36] Az 1.40. pont szerinti szakrendszer,
+2.7.[^37] Az 1.40. pont szerinti szakrendszer,
 
-2.8.[^37] Az 1.41. pont szerinti tájékoztató portál,
+2.8.[^38] Az 1.41. pont szerinti tájékoztató portál,
 
-2.9.[^38] Az 1.42. pont szerinti tájékoztató portál.
+2.9.[^39] Az 1.42. pont szerinti tájékoztató portál,
+
+2.10.[^40] Az 1.44. pontja szerinti adatbázis informatikai rendszer fejlesztése.
 
 3. A központi szolgáltató a következő informatikai rendszerek fejlesztésében működik közre:
 
@@ -158,9 +162,9 @@
 
 3.10. Az 1.26. pont szerinti Mentés irányítási rendszer;
 
-3.11.[^39] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer;
+3.11.[^41] Az 1.32. pont szerinti Egységes Kormányzati Ügyiratkezelő Rendszer;
 
-3.12.[^40] Az 1.43. pont szerinti települési ügysegédek feladatait kiszolgáló végfelhasználói hardver és szoftver infrastruktúra rendszer.
+3.12.[^42] Az 1.43. pont szerinti települési ügysegédek feladatait kiszolgáló végfelhasználói hardver és szoftver infrastruktúra rendszer.
 
 [^12]: A 6. §-t a 46/2015. (VII. 28.) BM rendelet 2. §-a iktatta be.
 [^13]: Az 1. melléklet 1. pont 1.1.3. alpontja a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -181,13 +185,15 @@
 [^28]: Az 1. melléklet 1. pont 1.41. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
 [^29]: Az 1. melléklet 1. pont 1.42. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
 [^30]: Az 1. melléklet 1. pont 1.43. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^31]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
-[^32]: Az 1. melléklet 2. pont 2.3. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be.
-[^33]: Az 1. melléklet 2. pont 2.4. alpontját a 3/2015. (II. 11.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 46/2015. (VII. 28.) BM rendelet 4. § (1) bekezdése.
-[^34]: Az 1. melléklet 2. pont 2.5. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^35]: Az 1. melléklet 2. pont 2.6. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^36]: Az 1. melléklet 2. pont 2.7. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^37]: Az 1. melléklet 2. pont 2.8. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^38]: Az 1. melléklet 2. pont 2.9. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^39]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
-[^40]: Az 1. melléklet 3. pont 3.12. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^31]: Az 1. melléklet 1. pont 1.44. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (2) bekezdése iktatta be.
+[^32]: Az 1. melléklet 2.2. pontját a 31/2013. (VI. 18.) NFM rendelet 7. § (2) bekezdése iktatta be.
+[^33]: Az 1. melléklet 2. pont 2.3. alpontját a 60/2014. (XII. 12.) BM rendelet 1. §-a iktatta be.
+[^34]: Az 1. melléklet 2. pont 2.4. alpontját a 3/2015. (II. 11.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 46/2015. (VII. 28.) BM rendelet 4. § (1) bekezdése.
+[^35]: Az 1. melléklet 2. pont 2.5. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^36]: Az 1. melléklet 2. pont 2.6. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^37]: Az 1. melléklet 2. pont 2.7. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^38]: Az 1. melléklet 2. pont 2.8. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^39]: Az 1. melléklet 2. pont 2.9. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^40]: Az 1. melléklet 2. pont 2.10. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (2) bekezdése iktatta be.
+[^41]: Az 1. melléklet 3. pont 3.11. alpontját a 68/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
+[^42]: Az 1. melléklet 3. pont 3.12. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be.
