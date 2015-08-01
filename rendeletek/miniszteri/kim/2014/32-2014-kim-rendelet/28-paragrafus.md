@@ -1,4 +1,4 @@
-## 27. §[^7] A központi anyakönyvi szerv a nem megváltozásával összefüggésben történt névváltoztatásról haladéktalanul értesíti a születést nyilvántartó anyakönyvvezetőt a nem megváltozásának az anyakönyvbe való bejegyzése érdekében. A nyilvántartó anyakönyvvezető a nem megváltozását a központi anyakönyvi szerv értesítése alapján jegyzi be az anyakönyvbe.
+## 27. §[^37] A központi anyakönyvi szerv a nem megváltozásával összefüggésben történt névváltoztatásról haladéktalanul értesíti a születést nyilvántartó anyakönyvvezetőt a nem megváltozásának az anyakönyvi nyilvántartásba való bejegyzése érdekében. A nyilvántartó anyakönyvvezető a nem megváltozását a központi anyakönyvi szerv alapiratnak minősülő értesítése alapján jegyzi be az anyakönyvbe.
 
 ## 11. A bejegyzést követő feladatok
 
@@ -9,6 +9,8 @@ a) születés, házasságkötés, bejegyzett élettársi kapcsolat létesítése
 b) teljesíti a jogszabályban előírt adatszolgáltatást és
 
 c) a fővárosi és megyei kormányhivatal kivételével elhelyezi az anyakönyvi irattárban a bejegyzéshez kapcsolódó iratokat és az eljárás során keletkezett egyéb iratokat.
+
+(1a)[^38] A fővárosi és megyei kormányhivatal az eljárása során keletkezett alapiratokat megküldi a nyilvántartó anyakönyvvezetőnek.
 
 (2) Az anyakönyvi kivonatot
 
@@ -24,4 +26,5 @@ d) haláleset esetén a temetésről gondoskodni köteles személynek vagy szerv
 
 (3) Az anyakönyvvezető a haláleset anyakönyvezése után, vagy ha az anyakönyvezést elhalasztja, a halottvizsgálati bizonyítványnak a temetésről gondoskodni köteles személy vagy szerv számára átadott példányára az anyakönyvezés megtörténtét vagy az elhalasztás tényét feljegyzi, azt aláírja, bélyegzőlenyomatával ellátja és a bejelentőnek átadja.
 
-[^7]: A 27. § a 38/2014. (VII. 16.) BM rendelet 3. § c) és d) pontja szerint módosított szöveg.
+[^37]: A 27. § a 38/2014. (VII. 16.) BM rendelet 3. § c) és d) pontja, a 43/2015. (VII. 15.) BM rendelet 37. § 12. pontja szerint módosított szöveg.
+[^38]: A 28. § (1a) bekezdését a 43/2015. (VII. 15.) BM rendelet 14. §-a iktatta be.

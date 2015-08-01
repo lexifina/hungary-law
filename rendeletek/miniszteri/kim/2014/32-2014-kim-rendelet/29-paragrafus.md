@@ -28,10 +28,13 @@ e) az elhalt személy születési családi és utónevét.
 
 (4) Ha a gyermek születését azért nem lehet anyakönyvezni, mert sem születési családi, sem utóneve nem ismert, az anyakönyvvezető haladéktalanul értesíti a gyámhivatalt. Az anyakönyvvezető a gyámhivatal határozata alapján jegyzi be az anyakönyvbe a gyermek születésével összefüggő adatokat.
 
-(5) Ha az anyakönyvezés elhalasztását követő harminc napon belül a hiányzó adatok beszerzése nem járt eredménnyel, az anyakönyvvezető a születést vagy a halálesetet a rendelkezésre álló adatokkal anyakönyvezi.
+(5)[^39] Ha az anyakönyvezés elhalasztását követő harminc napon belül a hiányzó adatok beszerzése nem járt eredménnyel, az anyakönyvvezető a születést vagy a halálesetet a rendelkezésre álló adatokkal anyakönyvezi. Amennyiben a bejelentést követő harmincadik napon a gyermek születési családi vagy utóneve nem ismert, az anyakönyvvezető a családi vagy utónév rovatba a „megállapítása folyamatban” szavakat jegyzi be.
 
 (6) Ha a haláleset bejelentésével összefüggésben a (2) bekezdés c)–e) pontjában foglalt adatok az anyakönyvezés elhalasztását követően sem válnak ismertté, a rendőrség feladat- és hatáskörrel rendelkező szervének értesítése alapján az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
 
-(7) Ha a haláleset pontos éve, hónapja és napja nem volt megállapítható, az anyakönyvben a halottvizsgálati bizonyítványon szereplő vagy egyébként megállapított időpontot vagy időintervallumot kell feltüntetni.
+(7)[^40] Ha a haláleset pontos éve, hónapja és napja nem volt megállapítható, az anyakönyvben és az anyakönyvi okiraton a halottvizsgálati bizonyítványon szereplő vagy egyébként megállapított időpontot vagy időintervallumot kell feltüntetni.
 
 (8) Mindkét házastárs vagy mindkét bejegyzett élettárs halála esetén, ha a halottvizsgálati bizonyítványból az elhalálozás sorrendje nem állapítható meg, az anyakönyvvezető a családi állapotra vonatkozó adatot nem jegyzi be.
+
+[^39]: A 29. § (5) bekezdése a 43/2015. (VII. 15.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^40]: A 29. § (7) bekezdése a 43/2015. (VII. 15.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.

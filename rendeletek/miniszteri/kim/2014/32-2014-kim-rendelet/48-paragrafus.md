@@ -2,10 +2,14 @@
 
 (2) A papír alapon benyújtott, anyakönyvi okirat kiállítása iránti kérelmet az anyakönyvi okirattal érintett adattartalomnak az elektronikus anyakönyvbe történő bejegyzése érdekében az EAK rendszerben a kérelem beérkezésétől számított öt napon belül rögzíteni kell.
 
-(3) Anyakönyvi okiratot postai úton, hivatalos iratként kell kézbesíteni. Az illetékköteles anyakönyvi okiratot a külpolitikáért felelős miniszter útján kell külföldre továbbítani.
+(3)[^63] Anyakönyvi okiratot postai úton, hivatalos iratként kell kézbesíteni. Az illetékköteles anyakönyvi okiratot a külpolitikáért felelős miniszter útján kell külföldre továbbítani, a lerovandó illeték mértékének közlésével.
 
-(4) Az anyakönyvi okiratokat kizárólag elektronikai eszközzel lehet kiállítani. A kiállított anyakönyvi okiratokon javítani vagy helyesbíteni, a kiállított anyakönyvi okiratból törölni nem lehet.
+(4)[^64] Az anyakönyvi hatósági bizonyítványt kizárólag elektronikai eszközök felhasználásával lehet kiállítani és kinyomtatni. A kiállított hatósági bizonyítványon javítást, törlést vagy adattal történő kiegészítést végezni nem lehet.
 
-(5) Anyakönyvi kivonat kizárólag az EAK rendszeren keresztül, a központi nyilvántartó szerv által rendszeresített, biztonsági patronnal ellátott nyomtató használatával állítható ki.
+(5)[^65] Anyakönyvi kivonat kizárólag az EAK rendszeren keresztül, a központi nyilvántartó szerv által rendszeresített, biztonsági patronnal ellátott nyomtató használatával állítható ki. A kiállított anyakönyvi kivonaton javítást, törlést vagy adattal történő kiegészítést végezni nem lehet.
 
 (6) Az anyakönyvvezető – a hazai anyakönyvezést végző hatóság kivételével – a külföldre kézbesítendő anyakönyvi okiratot a fővárosi és megyei kormányhivatalnak küldi meg, amely azzal kapcsolatban a kézhezvételtől számított nyolc napon belül a (3) bekezdés szerint jár el.
+
+[^63]: A 48. § (3) bekezdése a 43/2015. (VII. 15.) BM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^64]: A 48. § (4) bekezdése a 43/2015. (VII. 15.) BM rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^65]: A 48. § (5) bekezdése a 43/2015. (VII. 15.) BM rendelet 23. § (2) bekezdésével megállapított szöveg.

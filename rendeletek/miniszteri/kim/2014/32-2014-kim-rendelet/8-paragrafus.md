@@ -20,4 +20,11 @@ f) az elektronikus anyakönyvi nyilvántartás informatikai rendszerének (a tov
 
 (4) Az anyakönyvvezető hivatalos körbélyegzője tartalmazza az illetékességi területe szerinti település államigazgatási helységnevét és az anyakönyvvezető megjelölést, valamint Magyarország címerét. Ha egy településen több anyakönyvi bélyegzőt használnak, a bélyegzőket számozással kell ellátni.
 
+(4a)[^14] A fővárosi és megyei kormányhivatal körbélyegzője tartalmazza a kormányhivatal megnevezését, továbbá Magyarország címerét és a körbélyegző számát.
+
+(4b)[^15] A központi anyakönyvi szerv körbélyegzője tartalmazza a szerv megnevezését, továbbá Magyarország címerét és a körbélyegző számát.
+
 (5) A papír alapú anyakönyveket, az anyakönyvi alapiratokat, a biztonsági tintával töltött íróeszközt, a megszemélyesítetlen anyakönyvi kivonat nyomtatványokat, a felhasználói kártyát és a hivatalos körbélyegzőt munkaidőben használaton kívül és munkaidőn kívül tűzbiztos, zárható, más személyek számára hozzáférhetetlen tárolóban kell elhelyezni.
+
+[^14]: A 8. § (4a) bekezdését a 43/2015. (VII. 15.) BM rendelet 5. §-a iktatta be.
+[^15]: A 8. § (4b) bekezdését a 43/2015. (VII. 15.) BM rendelet 5. §-a iktatta be.

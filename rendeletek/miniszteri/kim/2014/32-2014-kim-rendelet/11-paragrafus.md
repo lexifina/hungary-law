@@ -1,11 +1,14 @@
 11. § (1) A halálesetet
 
-a) intézetben történt haláleset esetén az intézet az anyakönyvi eljárásról szóló törvényben foglalt adatokat tartalmazó, a bejelentő által aláírt jegyzőkönyv adatainak közlésével,
+a)[^18] intézetben történt haláleset esetén az intézet az At.-ban foglalt adatokat tartalmazó, a bejelentő által aláírt jegyzőkönyv adatainak közlésével,
 
-b) intézeten kívül történt haláleset esetén a bejelentő a halottvizsgálati bizonyítvány alapján az anyakönyvi eljárásról szóló törvényben foglalt adatokat tartalmazó, a bejelentő által aláírt jegyzőkönyv adatainak közlésével, vagy
+b)[^19] intézeten kívül történt haláleset esetén a bejelentő a halottvizsgálati bizonyítvány alapján az At.-ban foglalt adatokat tartalmazó, a bejelentő által aláírt jegyzőkönyv adatainak közlésével, vagy
 
 c) intézeten kívül történt haláleset esetén a halottvizsgálati bizonyítványt kitöltő személy a halottvizsgálati bizonyítványnak az anyakönyvvezető részére történő megküldésével
 
 ## jelenti be.
 
 (2) A haláleset bejelentése tekintetében az egészségügyi intézményt és a szociális intézményt kell intézetnek tekinteni.
+
+[^18]: A 11. § (1) bekezdés a) pontja a 43/2015. (VII. 15.) BM rendelet 37. § 3. pontja szerint módosított szöveg.
+[^19]: A 11. § (1) bekezdés b) pontja a 43/2015. (VII. 15.) BM rendelet 37. § 3. pontja szerint módosított szöveg.
