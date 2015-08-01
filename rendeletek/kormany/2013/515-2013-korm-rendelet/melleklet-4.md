@@ -40,7 +40,7 @@
 
 ## 20. Építésügyi hatósági szolgáltatás iránti kérelem
 
-## 21.[^21] Műemlékre kiterjedő, az államot megillető elővásárlási jognyilatkozat iránti kérelem
+## 21.[^22] Műemlékre kiterjedő, az államot megillető elővásárlási jognyilatkozat iránti kérelem
 
 ## 22. Az építőipari vállalkozói kivitelezői tevékenység bejelentése
 
@@ -80,7 +80,7 @@
 
 ## 40. Nyugdíjbiztosítási igazgatóságnál nyilvántartott adatokba történő betekintés iránti kérelem
 
-## 41.[^22]
+## 41.[^23]
 
 ## 42. Törlesztési kötelezettség felfüggesztése iránti kérelem az egyes lakáscélú kölcsönökből eredő adósságok rendezésével kapcsolatban
 
@@ -98,7 +98,7 @@
 
 ## 49. Megváltozott munkaképességű személyek ellátása folyósításához kapcsolódó bejelentés
 
-## 50.[^23]
+## 50.[^24]
 
 ## 51. Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány iránti kérelem
 
@@ -110,11 +110,11 @@
 
 ## 55. Aktív korúak ellátása iránti kérelem
 
-## 56.[^24]
+## 56.[^25]
 
 ## 57. Az Egészségbiztosítási Alap terhére méltányosságból adható egyszeri segély iránti kérelem
 
-## 58.[^25] Táppénz, gyermekápolási táppénz, csecsemőgondozási díj, gyermekgondozási díj megállapítása iránti méltányossági kérelem
+## 58.[^26] Táppénz, gyermekápolási táppénz, csecsemőgondozási díj, gyermekgondozási díj megállapítása iránti méltányossági kérelem
 
 ## 59. Nevelési ellátásra való jogosultság megállapítása iránti kérelem (családi pótlék)
 
@@ -124,7 +124,7 @@
 
 ## 62. Vándortábor útvonalának több népegészségügyi szolgálat területi illetékességét érintő bejelentése
 
-## 63.[^26]
+## 63.[^27]
 
 ## 64. Gyermek családi és utónevének megállapítása iránti kérelem
 
@@ -282,293 +282,293 @@
 
 ## 141. Rendszeres gyermekvédelmi kedvezményre való jogosultság megállapítása iránti kérelem
 
-## 142.[^27] Útdíjfizetési kompenzáció iránti kérelem
+## 142.[^28] Útdíjfizetési kompenzáció iránti kérelem
 
-## 143.[^28] Látogatási célú beutazás és tartózkodás esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 13. § (1) bekezdés d)–g) pontjában foglalt feltételek fennállásának igazolását célzó meghívólevél hatósági záradékolása iránti kérelem
+## 143.[^29] Látogatási célú beutazás és tartózkodás esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 13. § (1) bekezdés d)–g) pontjában foglalt feltételek fennállásának igazolását célzó meghívólevél hatósági záradékolása iránti kérelem
 
-## 144.[^29] Harmadik országbeli állampolgár magyarországi szálláshelyének bejelentése
+## 144.[^30] Harmadik országbeli állampolgár magyarországi szálláshelyének bejelentése
 
-## 145.[^30] Az Európai Gazdasági Térség állampolgár és a harmadik ország állampolgárságával rendelkező családtag úti okmánya, személyazonosító igazolványa, illetve tartózkodási jogát igazoló okmánya eltulajdonításának, megsemmisülésének, elvesztésének bejelentése
+## 145.[^31] Az Európai Gazdasági Térség állampolgár és a harmadik ország állampolgárságával rendelkező családtag úti okmánya, személyazonosító igazolványa, illetve tartózkodási jogát igazoló okmánya eltulajdonításának, megsemmisülésének, elvesztésének bejelentése
 
-## 146.[^31] A harmadik országbeli állampolgár úti okmánya, valamint tartózkodásra jogosító engedélye elvesztésének, eltulajdonításának vagy megsemmisülésének bejelentése
+## 146.[^32] A harmadik országbeli állampolgár úti okmánya, valamint tartózkodásra jogosító engedélye elvesztésének, eltulajdonításának vagy megsemmisülésének bejelentése
 
-## 147.[^32] Kozmetikai termék gyártási tevékenységének bejelentése
+## 147.[^33] Kozmetikai termék gyártási tevékenységének bejelentése
 
-## 148.[^33] Előzetes hozzájárulás és előzetes szakhatósági állásfoglalás iránti kérelem családi napközi, alternatív napközbeni ellátás szolgáltatói nyilvántartásba történő bejegyzésével, a szolgáltatói nyilvántartásban szereplő adatainak módosításával kapcsolatban
+## 148.[^34] Előzetes hozzájárulás és előzetes szakhatósági állásfoglalás iránti kérelem családi napközi, alternatív napközbeni ellátás szolgáltatói nyilvántartásba történő bejegyzésével, a szolgáltatói nyilvántartásban szereplő adatainak módosításával kapcsolatban
 
-## 149.[^34] Sírnyitás engedélyezésére irányuló kérelem
+## 149.[^35] Sírnyitás engedélyezésére irányuló kérelem
 
-## 150.[^35] Fertőzésben elhunyt személy sírhelyére rátemetés engedélyezésére irányuló kérelem
+## 150.[^36] Fertőzésben elhunyt személy sírhelyére rátemetés engedélyezésére irányuló kérelem
 
-## 151.[^36] Az Országos Tisztifőorvosi Hivatal által engedélyezett légi úton történő szúnyog- és szúnyoglárva irtás esetén a kezelés tényleges időpontjának és helyének bejelentése
+## 151.[^37] Az Országos Tisztifőorvosi Hivatal által engedélyezett légi úton történő szúnyog- és szúnyoglárva irtás esetén a kezelés tényleges időpontjának és helyének bejelentése
 
-## 152.[^37] Gyógyszerészi gondozási tevékenység bejelentése
+## 152.[^38] Gyógyszerészi gondozási tevékenység bejelentése
 
-## 153.[^38] Földi járműről végzett szúnyogirtás bejelentése
+## 153.[^39] Földi járműről végzett szúnyogirtás bejelentése
 
-## 154.[^39] Letelepedés keretében végzett tartós szálláshasználati szolgáltatási tevékenység folytatásának bejelentése
+## 154.[^40] Letelepedés keretében végzett tartós szálláshasználati szolgáltatási tevékenység folytatásának bejelentése
 
-## 155.[^40] Tartós szálláshasználati szolgáltatási tevékenységet folytatókról vezetett nyilvántartásból való törlés iránti kérelem
+## 155.[^41] Tartós szálláshasználati szolgáltatási tevékenységet folytatókról vezetett nyilvántartásból való törlés iránti kérelem
 
-## 156.[^41] Utazásszervezői és/vagy utazásközvetítői tevékenység kapcsán vezetett hatósági nyilvántartásban szereplő adatok megváltozásának bejelentése
+## 156.[^42] Utazásszervezői és/vagy utazásközvetítői tevékenység kapcsán vezetett hatósági nyilvántartásban szereplő adatok megváltozásának bejelentése
 
-## 157.[^42] Csecsemőgondozási díj iránti kérelem
+## 157.[^43] Csecsemőgondozási díj iránti kérelem
 
-## 158.[^43] Gyermekgondozási díj iránti kérelem
+## 158.[^44] Gyermekgondozási díj iránti kérelem
 
-## 159.[^44] Európai Egészségbiztosítási Kártya kiállítása iránti kérelem
+## 159.[^45] Európai Egészségbiztosítási Kártya kiállítása iránti kérelem
 
-## 160.[^45] Külszolgálatos kormánytisztviselő és kormányzati ügykezelő részére kiállítható Európai Egészségbiztosítási Kártya kiállítása iránti kérelem
+## 160.[^46] Külszolgálatos kormánytisztviselő és kormányzati ügykezelő részére kiállítható Európai Egészségbiztosítási Kártya kiállítása iránti kérelem
 
-## 161.[^46] Biztosítási kötelezettség elbírálása iránti kérelem (E101, E102, E103)
+## 161.[^47] Biztosítási kötelezettség elbírálása iránti kérelem (E101, E102, E103)
 
-## 162.[^47] Az egészségügyi szolgáltatásra való jogosultságról elnevezésű nyomtatvány/jogosultság igazolás fennálló és zárult időszakra (E 104, E 106, E 109, E 121) kiállítása iránti kérelem (E 107. E 001/S009, S016, S017, S018, S019, S044, S045, S071)
+## 162.[^48] Az egészségügyi szolgáltatásra való jogosultságról elnevezésű nyomtatvány/jogosultság igazolás fennálló és zárult időszakra (E 104, E 106, E 109, E 121) kiállítása iránti kérelem (E 107. E 001/S009, S016, S017, S018, S019, S044, S045, S071)
 
-## 163.[^48] Igazolás iránti kérelem az egészségügyi szolgáltatásra való jogosultságról elnevezésű nyomtatvány (E 106, E 109, E 120, E 121/ S072, S073, S1) nyilvántartásba vétele egy másik tagállamban fennálló jogosultság esetén
+## 163.[^49] Igazolás iránti kérelem az egészségügyi szolgáltatásra való jogosultságról elnevezésű nyomtatvány (E 106, E 109, E 120, E 121/ S072, S073, S1) nyilvántartásba vétele egy másik tagállamban fennálló jogosultság esetén
 
-## 164.[^49] Igazolás az egészségügyi szolgáltatásra való jogosultság megszüntetéséről elnevezésű nyomtatvány (E 108/S016, S017, S018) nyilvántartásba vétele egy másik tagállamban megszűnt jogosultság esetén
+## 164.[^50] Igazolás az egészségügyi szolgáltatásra való jogosultság megszüntetéséről elnevezésű nyomtatvány (E 108/S016, S017, S018) nyilvántartásba vétele egy másik tagállamban megszűnt jogosultság esetén
 
-## 165.[^50] Egészségügyi ellátásra való jogosultságról szóló igazolások és egyéb igazolások kiadása iránti kérelem uniós rendeletek alapján, zárult jogosultsági időszakra/helyben lakási időszakra vonatkozóan (E104/S040, S041)
+## 165.[^51] Egészségügyi ellátásra való jogosultságról szóló igazolások és egyéb igazolások kiadása iránti kérelem uniós rendeletek alapján, zárult jogosultsági időszakra/helyben lakási időszakra vonatkozóan (E104/S040, S041)
 
-## 166.[^51] Információkérésre irányuló kérelem biztosítási időkről (E104)
+## 166.[^52] Információkérésre irányuló kérelem biztosítási időkről (E104)
 
-## 167.[^52] Egészségügyi szolgáltatások biztosítása iránti kérelem egy másik tagállamban fennálló lakóhely esetén (E106, E109)
+## 167.[^53] Egészségügyi szolgáltatások biztosítása iránti kérelem egy másik tagállamban fennálló lakóhely esetén (E106, E109)
 
-## 168.[^53] Egészségügyi szolgáltatások biztosítása iránti kérelem egy másik tagállamban lakóhellyel rendelkező nyugdíjas részére (E121)
+## 168.[^54] Egészségügyi szolgáltatások biztosítása iránti kérelem egy másik tagállamban lakóhellyel rendelkező nyugdíjas részére (E121)
 
-## 169.[^54] Egészségügyi többletszolgáltatások biztosítása iránti kérelem üzemi baleset, illetve foglalkozási megbetegedés esetén (E123)
+## 169.[^55] Egészségügyi többletszolgáltatások biztosítása iránti kérelem üzemi baleset, illetve foglalkozási megbetegedés esetén (E123)
 
-## 170.[^55] Nagykorú családtag jogosultságának bejegyzése iránti kérelem rendezetlen magyarországi jogviszony esetén (E106, E109)
+## 170.[^56] Nagykorú családtag jogosultságának bejegyzése iránti kérelem rendezetlen magyarországi jogviszony esetén (E106, E109)
 
-## 171.[^56] Táppénz iránti kérelem
+## 171.[^57] Táppénz iránti kérelem
 
-## 172.[^57] Gyermekápolási táppénz iránti kérelem
+## 172.[^58] Gyermekápolási táppénz iránti kérelem
 
-## 173.[^58] Baleseti táppénz iránti kérelem
+## 173.[^59] Baleseti táppénz iránti kérelem
 
-## 174.[^59] Jogalap nélkül felvett pénzbeli ellátás, baleseti táppénz és utazási költségtérítés, valamint mulasztási és eljárási bírság megfizetésével kapcsolatos méltányossági kérelem
+## 174.[^60] Jogalap nélkül felvett pénzbeli ellátás, baleseti táppénz és utazási költségtérítés, valamint mulasztási és eljárási bírság megfizetésével kapcsolatos méltányossági kérelem
 
-## 175.[^60] Közgyógyellátási igazolvány elvesztésének, megrongálódásának bejelentése és cseréje iránti kérelem
+## 175.[^61] Közgyógyellátási igazolvány elvesztésének, megrongálódásának bejelentése és cseréje iránti kérelem
 
-## 176.[^61] Társadalombiztosítási Azonosító Jellel rendelkező magyar állampolgár külföldi biztosításának bejelentése
+## 176.[^62] Társadalombiztosítási Azonosító Jellel rendelkező magyar állampolgár külföldi biztosításának bejelentése
 
-## 177.[^62] Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány iránti kérelem újszülött részére
+## 177.[^63] Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány iránti kérelem újszülött részére
 
-## 178.[^63] Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány iránti kérelem kiskorú részére
+## 178.[^64] Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány iránti kérelem kiskorú részére
 
-## 179.[^64] Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány iránti kérelem átmeneti vagy tartós nevelésbe vett kiskorú részére
+## 179.[^65] Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány iránti kérelem átmeneti vagy tartós nevelésbe vett kiskorú részére
 
-## 180.[^65] Társadalombiztosítási Azonosító Jellel kapcsolatos adatmódosítás bejelentése
+## 180.[^66] Társadalombiztosítási Azonosító Jellel kapcsolatos adatmódosítás bejelentése
 
-## 181.[^66] Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlat kiadása iránti kérelem
+## 181.[^67] Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlat kiadása iránti kérelem
 
-## 182.[^67] Költségmentesség iránti kérelem a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlat kiadásával összefüggésben
+## 182.[^68] Költségmentesség iránti kérelem a Társadalombiztosítási Azonosító Jelet igazoló hatósági igazolvány másodlat kiadásával összefüggésben
 
-## 183.[^68] Időskorúak járadékára vagy ápolási díjra jogosult személy kérelme az ügyben keletkezett iratok megküldése iránt lakcímváltozás esetén
+## 183.[^69] Időskorúak járadékára vagy ápolási díjra jogosult személy kérelme az ügyben keletkezett iratok megküldése iránt lakcímváltozás esetén
 
-## 184.[^69] Időskorúak járadékának felülvizsgálata iránti kérelem
+## 184.[^70] Időskorúak járadékának felülvizsgálata iránti kérelem
 
-## 185.[^70] Családtámogatási ellátások kapcsán az ellátásra való jogosultságot, illetve annak összegét érintő adatokra vonatkozó bejelentés
+## 185.[^71] Családtámogatási ellátások kapcsán az ellátásra való jogosultságot, illetve annak összegét érintő adatokra vonatkozó bejelentés
 
-## 186.[^71] Sajátos nevelési igény tényének megállapításával kapcsolatos bejelentés
+## 186.[^72] Sajátos nevelési igény tényének megállapításával kapcsolatos bejelentés
 
-## 187.[^72] Egybefüggően három hónapot meghaladó külföldi tartózkodás bejelentése fogyatékossági támogatás ügyében
+## 187.[^73] Egybefüggően három hónapot meghaladó külföldi tartózkodás bejelentése fogyatékossági támogatás ügyében
 
-## 188.[^73] Fogyatékossági támogatás továbbfolyósítása iránti kérelem
+## 188.[^74] Fogyatékossági támogatás továbbfolyósítása iránti kérelem
 
-## 189.[^74] Adókedvezmény megállapításához szükséges fogyatékossági támogatással kapcsolatos hatósági igazolvány kiadása iránti kérelem
+## 189.[^75] Adókedvezmény megállapításához szükséges fogyatékossági támogatással kapcsolatos hatósági igazolvány kiadása iránti kérelem
 
-## 190.[^75] Vakok személyi járadékában részesített személy részéről a lakcímében bekövetkezett változás, illetőleg a járadék folyósításának megszüntetését előidéző ok bejelentése
+## 190.[^76] Vakok személyi járadékában részesített személy részéről a lakcímében bekövetkezett változás, illetőleg a járadék folyósításának megszüntetését előidéző ok bejelentése
 
-## 191.[^76] Kereset kiegészítés megállapítása iránti kérelem
+## 191.[^77] Kereset kiegészítés megállapítása iránti kérelem
 
-## 192.[^77] Földgázpiaci egyetemes szolgáltatáshoz kapcsolódó nagycsaládos háztartások számára kedvezmény megállapítása iránti kérelem
+## 192.[^78] Földgázpiaci egyetemes szolgáltatáshoz kapcsolódó nagycsaládos háztartások számára kedvezmény megállapítása iránti kérelem
 
-## 193.[^78] Nagycsaládos kedvezményre vonatkozóan a felhasználási hely és jogosultságot érintő egyéb adat megváltozása esetén az erről szóló adatváltozás bejelentése
+## 193.[^79] Nagycsaládos kedvezményre vonatkozóan a felhasználási hely és jogosultságot érintő egyéb adat megváltozása esetén az erről szóló adatváltozás bejelentése
 
-## 194.[^79] Tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott kérelem, közérdekű bejelentés, panasz (a Gazdasági Versenyhivatalnál benyújtható bejelentés kivételével)
+## 194.[^80] Tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt benyújtott kérelem, közérdekű bejelentés, panasz (a Gazdasági Versenyhivatalnál benyújtható bejelentés kivételével)
 
-## 195.[^80] Ingatlanhasználó hulladékgazdálkodási közszolgáltatóval szemben benyújtott kérelme
+## 195.[^81] Ingatlanhasználó hulladékgazdálkodási közszolgáltatóval szemben benyújtott kérelme
 
-## 196.[^81] Felhasználó földgáz-szolgáltatóval szemben benyújtott kérelme
+## 196.[^82] Felhasználó földgáz-szolgáltatóval szemben benyújtott kérelme
 
-## 197.[^82] Felhasználó vízközmű-szolgáltatóval szemben benyújtott kérelme
+## 197.[^83] Felhasználó vízközmű-szolgáltatóval szemben benyújtott kérelme
 
-## 198.[^83] Felhasználó villamosenergia-szolgáltatóval szemben benyújtott kérelme
+## 198.[^84] Felhasználó villamosenergia-szolgáltatóval szemben benyújtott kérelme
 
-## 199.[^84] Felhasználó távhő-szolgáltatóval szemben benyújtott kérelme
+## 199.[^85] Felhasználó távhő-szolgáltatóval szemben benyújtott kérelme
 
-## 200.[^85] Általános kereskedelmi jogszabályok megtartásához, illetve panaszkezeléshez kapcsolódó kérelem, közérdekű bejelentés, panasz
+## 200.[^86] Általános kereskedelmi jogszabályok megtartásához, illetve panaszkezeléshez kapcsolódó kérelem, közérdekű bejelentés, panasz
 
-## 201.[^86] Ártájékoztatással összefüggő kérelem, közérdekű bejelentés, panasz
+## 201.[^87] Ártájékoztatással összefüggő kérelem, közérdekű bejelentés, panasz
 
-## 202.[^87] Fiatalkorúak alkohol-, dohány-, illetve szexuális termékkel történő kiszolgálása miatti kérelem, közérdekű bejelentés, panasz
+## 202.[^88] Fiatalkorúak alkohol-, dohány-, illetve szexuális termékkel történő kiszolgálása miatti kérelem, közérdekű bejelentés, panasz
 
-## 203.[^88] Üzleten kívül kötött szerződések alapján nyújtott szolgáltatások, illetve termékértékesítési tevékenység vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
+## 203.[^89] Üzleten kívül kötött szerződések alapján nyújtott szolgáltatások, illetve termékértékesítési tevékenység vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
 
-## 204.[^89] Elektronikus kereskedelmi tevékenységhez kapcsolódó kérelem, közérdekű bejelentés, panasz
+## 204.[^90] Elektronikus kereskedelmi tevékenységhez kapcsolódó kérelem, közérdekű bejelentés, panasz
 
-## 205.[^90] Hírközlési szolgáltató tevékenységével kapcsolatos kérelem
+## 205.[^91] Hírközlési szolgáltató tevékenységével kapcsolatos kérelem
 
-## 206.[^91] Szavatosság és jótállás vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
+## 206.[^92] Szavatosság és jótállás vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
 
-## 207.[^92] Idegenforgalmi szolgáltatásokkal összefüggő kérelem, közérdekű bejelentés, panasz
+## 207.[^93] Idegenforgalmi szolgáltatásokkal összefüggő kérelem, közérdekű bejelentés, panasz
 
-## 208.[^93] Szállás időben megosztott használati jogára vonatkozó szerződésekkel és azok alapján nyújtott szolgáltatásokkal kapcsolatos kérelem, közérdekű bejelentés, panasz
+## 208.[^94] Szállás időben megosztott használati jogára vonatkozó szerződésekkel és azok alapján nyújtott szolgáltatásokkal kapcsolatos kérelem, közérdekű bejelentés, panasz
 
-## 209.[^94] Élelmiszerek jelölésével kapcsolatos megtévesztő kereskedelmi gyakorlatokkal összefüggő kérelem, közérdekű bejelentés, panasz
+## 209.[^95] Élelmiszerek jelölésével kapcsolatos megtévesztő kereskedelmi gyakorlatokkal összefüggő kérelem, közérdekű bejelentés, panasz
 
-## 210.[^95] Termékbiztonság vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
+## 210.[^96] Termékbiztonság vonatkozásában benyújtott kérelem, közérdekű bejelentés, panasz
 
-## 211.[^96] Rehabilitációs ellátás folyósításának szüneteltetésére irányuló bejelentés
+## 211.[^97] Rehabilitációs ellátás folyósításának szüneteltetésére irányuló bejelentés
 
-## 212.[^97] Rehabilitációs ellátás újbóli folyósítása iránti kérelem
+## 212.[^98] Rehabilitációs ellátás újbóli folyósítása iránti kérelem
 
-## 213.[^98] Rehabilitációs ellátás megszüntetése iránti kérelem
+## 213.[^99] Rehabilitációs ellátás megszüntetése iránti kérelem
 
-## 214.[^99] Rokkantsági ellátás megszüntetése iránti kérelem
+## 214.[^100] Rokkantsági ellátás megszüntetése iránti kérelem
 
-## 215.[^100] Öregségi nyugdíj megállapítása iránti kérelem
+## 215.[^101] Öregségi nyugdíj megállapítása iránti kérelem
 
-## 216.[^101] Nők kedvezményes öregségi nyugdíjának megállapítása iránti kérelem
+## 216.[^102] Nők kedvezményes öregségi nyugdíjának megállapítása iránti kérelem
 
-## 217.[^102] Nyugdíj összegének folyósítás nélküli megállapítása (rögzített nyugdíj) iránti kérelem
+## 217.[^103] Nyugdíj összegének folyósítás nélküli megállapítása (rögzített nyugdíj) iránti kérelem
 
-## 218.[^103] Saját jogú nyugdíjasként történő foglalkoztatás esetén járó nyugdíjnövelés megállapítása iránti kérelem
+## 218.[^104] Saját jogú nyugdíjasként történő foglalkoztatás esetén járó nyugdíjnövelés megállapítása iránti kérelem
 
-## 219.[^104] Árvaellátás megállapítása iránti kérelem
+## 219.[^105] Árvaellátás megállapítása iránti kérelem
 
-## 220.[^105] Szülői nyugdíj megállapítása iránti kérelem
+## 220.[^106] Szülői nyugdíj megállapítása iránti kérelem
 
-## 221.[^106] Özvegyi nyugdíj megállapítása iránti kérelem
+## 221.[^107] Özvegyi nyugdíj megállapítása iránti kérelem
 
-## 222.[^107] Baleseti hozzátartozói nyugellátás (özvegyi nyugdíj) megállapítása iránti kérelem
+## 222.[^108] Baleseti hozzátartozói nyugellátás (özvegyi nyugdíj) megállapítása iránti kérelem
 
-## 223.[^108] Baleseti hozzátartozói nyugellátás (árvaellátás) megállapítása iránti kérelem
+## 223.[^109] Baleseti hozzátartozói nyugellátás (árvaellátás) megállapítása iránti kérelem
 
-## 224.[^109] Baleseti hozzátartozói nyugellátás (szülői nyugdíj) megállapítása iránti kérelem
+## 224.[^110] Baleseti hozzátartozói nyugellátás (szülői nyugdíj) megállapítása iránti kérelem
 
-## 225.[^110] Rokkantsági járadék megállapítása iránti kérelem
+## 225.[^111] Rokkantsági járadék megállapítása iránti kérelem
 
-## 226.[^111] Baleseti járadék megállapítása iránti kérelem
+## 226.[^112] Baleseti járadék megállapítása iránti kérelem
 
-## 227.[^112] Állapotrosszabbodásra hivatkozással baleseti fokozatnak megfelelő járadék megállapítása iránti kérelem
+## 227.[^113] Állapotrosszabbodásra hivatkozással baleseti fokozatnak megfelelő járadék megállapítása iránti kérelem
 
-## 228.[^113] Baleseti járadék feléledésének a megállapítása iránti kérelem
+## 228.[^114] Baleseti járadék feléledésének a megállapítása iránti kérelem
 
-## 229.[^114] Korhatár előtti ellátás megállapítása iránti kérelem
+## 229.[^115] Korhatár előtti ellátás megállapítása iránti kérelem
 
-## 230.[^115] Korhatár előtti ellátás megszüntetése iránti kérelem
+## 230.[^116] Korhatár előtti ellátás megszüntetése iránti kérelem
 
-## 231.[^116] Öregségi nyugdíjkorhatár betöltését követően az öregségi nyugdíj összegének ismételt megállapítása iránti kérelem
+## 231.[^117] Öregségi nyugdíjkorhatár betöltését követően az öregségi nyugdíj összegének ismételt megállapítása iránti kérelem
 
-## 232.[^117] Gyermektartásdíj továbbfolyósítása iránti kérelem
+## 232.[^118] Gyermektartásdíj továbbfolyósítása iránti kérelem
 
-## 233.[^118] Gyám, hivatásos gyám, családbafogadó gyám kirendelésére irányuló kérelem
+## 233.[^119] Gyám, hivatásos gyám, családbafogadó gyám kirendelésére irányuló kérelem
 
-## 234.[^119] Kérelem a szülői felügyeleti jog gyakorlásával kapcsolatban
+## 234.[^120] Kérelem a szülői felügyeleti jog gyakorlásával kapcsolatban
 
-## 235.[^120] Családba fogadásra, illetve családba fogadás megszüntetésére irányuló kérelem
+## 235.[^121] Családba fogadásra, illetve családba fogadás megszüntetésére irányuló kérelem
 
 4. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^21]: A 3. melléklet 21. pontja a 221/2014. (IX. 4.) Korm. rendelet 791. § d) pontja szerint módosított szöveg.
-[^22]: A 3. melléklet 41. pontját a 24/2015. (II. 20.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte.
-[^23]: A 3. melléklet 50. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése hatályon kívül helyezte.
-[^24]: A 3. melléklet 56. pontját a 24/2015. (II. 20.) Korm. rendelet 44. § (1) bekezdése hatályon kívül helyezte.
-[^25]: A 3. melléklet 58. pontja a 397/2014. (XII. 31.) Korm. rendelet 93. § 2. pontja szerint módosított szöveg.
-[^26]: A 3. melléklet 63. pontját a 131/2014. (IV. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^27]: A 3. melléklet 142. pontját a 60/2015. (III. 24.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 7. § (2) bekezdését.
-[^28]: A 3. melléklet 143. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^29]: A 3. melléklet 144. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^30]: A 3. melléklet 145. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^31]: A 3. melléklet 146. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^32]: A 3. melléklet 147. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^33]: A 3. melléklet 148. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^34]: A 3. melléklet 149. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^35]: A 3. melléklet 150. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^36]: A 3. melléklet 151. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^37]: A 3. melléklet 152. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^38]: A 3. melléklet 153. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^39]: A 3. melléklet 154. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^40]: A 3. melléklet 155. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^41]: A 3. melléklet 156. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^42]: A 3. melléklet 157. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^43]: A 3. melléklet 158. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^44]: A 3. melléklet 159. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^45]: A 3. melléklet 160. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^46]: A 3. melléklet 161. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^47]: A 3. melléklet 162. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^48]: A 3. melléklet 163. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^49]: A 3. melléklet 164. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^50]: A 3. melléklet 165. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^51]: A 3. melléklet 166. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^52]: A 3. melléklet 167. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^53]: A 3. melléklet 168. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^54]: A 3. melléklet 169. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^55]: A 3. melléklet 170. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^56]: A 3. melléklet 171. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^57]: A 3. melléklet 172. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^58]: A 3. melléklet 173. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^59]: A 3. melléklet 174. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^60]: A 3. melléklet 175. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^61]: A 3. melléklet 176. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^62]: A 3. melléklet 177. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^63]: A 3. melléklet 178. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^64]: A 3. melléklet 179. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^65]: A 3. melléklet 180. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^66]: A 3. melléklet 181. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^67]: A 3. melléklet 182. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^68]: A 3. melléklet 183. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^69]: A 3. melléklet 184. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^70]: A 3. melléklet 185. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^71]: A 3. melléklet 186. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^72]: A 3. melléklet 187. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^73]: A 3. melléklet 188. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^74]: A 3. melléklet 189. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^75]: A 3. melléklet 190. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^76]: A 3. melléklet 191. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^77]: A 3. melléklet 192. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^78]: A 3. melléklet 193. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^79]: A 3. melléklet 194. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^80]: A 3. melléklet 195. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^81]: A 3. melléklet 196. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^82]: A 3. melléklet 197. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^83]: A 3. melléklet 198. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^84]: A 3. melléklet 199. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^85]: A 3. melléklet 200. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^86]: A 3. melléklet 201. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^87]: A 3. melléklet 202. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^88]: A 3. melléklet 203. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^89]: A 3. melléklet 204. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^90]: A 3. melléklet 205. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^91]: A 3. melléklet 206. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^92]: A 3. melléklet 207. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^93]: A 3. melléklet 208. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^94]: A 3. melléklet 209. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^95]: A 3. melléklet 210. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^96]: A 3. melléklet 211. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^97]: A 3. melléklet 212. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^98]: A 3. melléklet 213. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^99]: A 3. melléklet 214. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^100]: A 3. melléklet 215. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^101]: A 3. melléklet 216. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^102]: A 3. melléklet 217. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^103]: A 3. melléklet 218. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^104]: A 3. melléklet 219. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^105]: A 3. melléklet 220. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^106]: A 3. melléklet 221. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^107]: A 3. melléklet 222. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^108]: A 3. melléklet 223. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^109]: A 3. melléklet 224. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^110]: A 3. melléklet 225. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^111]: A 3. melléklet 226. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^112]: A 3. melléklet 227. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^113]: A 3. melléklet 228. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^114]: A 3. melléklet 229. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^115]: A 3. melléklet 230. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^116]: A 3. melléklet 231. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^117]: A 3. melléklet 232. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^118]: A 3. melléklet 233. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^119]: A 3. melléklet 234. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
-[^120]: A 3. melléklet 235. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^22]: A 3. melléklet 21. pontja a 221/2014. (IX. 4.) Korm. rendelet 791. § d) pontja szerint módosított szöveg.
+[^23]: A 3. melléklet 41. pontját a 24/2015. (II. 20.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte.
+[^24]: A 3. melléklet 50. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése hatályon kívül helyezte.
+[^25]: A 3. melléklet 56. pontját a 24/2015. (II. 20.) Korm. rendelet 44. § (1) bekezdése hatályon kívül helyezte.
+[^26]: A 3. melléklet 58. pontja a 397/2014. (XII. 31.) Korm. rendelet 93. § 2. pontja szerint módosított szöveg.
+[^27]: A 3. melléklet 63. pontját a 131/2014. (IV. 18.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^28]: A 3. melléklet 142. pontját a 60/2015. (III. 24.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 7. § (2) bekezdését.
+[^29]: A 3. melléklet 143. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^30]: A 3. melléklet 144. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^31]: A 3. melléklet 145. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^32]: A 3. melléklet 146. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^33]: A 3. melléklet 147. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^34]: A 3. melléklet 148. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^35]: A 3. melléklet 149. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^36]: A 3. melléklet 150. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^37]: A 3. melléklet 151. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^38]: A 3. melléklet 152. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^39]: A 3. melléklet 153. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^40]: A 3. melléklet 154. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^41]: A 3. melléklet 155. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^42]: A 3. melléklet 156. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^43]: A 3. melléklet 157. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^44]: A 3. melléklet 158. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^45]: A 3. melléklet 159. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^46]: A 3. melléklet 160. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^47]: A 3. melléklet 161. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^48]: A 3. melléklet 162. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^49]: A 3. melléklet 163. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^50]: A 3. melléklet 164. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^51]: A 3. melléklet 165. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^52]: A 3. melléklet 166. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^53]: A 3. melléklet 167. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^54]: A 3. melléklet 168. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^55]: A 3. melléklet 169. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^56]: A 3. melléklet 170. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^57]: A 3. melléklet 171. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^58]: A 3. melléklet 172. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^59]: A 3. melléklet 173. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^60]: A 3. melléklet 174. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^61]: A 3. melléklet 175. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^62]: A 3. melléklet 176. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^63]: A 3. melléklet 177. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^64]: A 3. melléklet 178. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^65]: A 3. melléklet 179. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^66]: A 3. melléklet 180. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^67]: A 3. melléklet 181. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^68]: A 3. melléklet 182. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^69]: A 3. melléklet 183. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^70]: A 3. melléklet 184. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^71]: A 3. melléklet 185. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^72]: A 3. melléklet 186. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^73]: A 3. melléklet 187. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^74]: A 3. melléklet 188. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^75]: A 3. melléklet 189. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^76]: A 3. melléklet 190. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^77]: A 3. melléklet 191. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^78]: A 3. melléklet 192. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^79]: A 3. melléklet 193. pontját a 86/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^80]: A 3. melléklet 194. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^81]: A 3. melléklet 195. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^82]: A 3. melléklet 196. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^83]: A 3. melléklet 197. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A 3. melléklet 198. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^85]: A 3. melléklet 199. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^86]: A 3. melléklet 200. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^87]: A 3. melléklet 201. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^88]: A 3. melléklet 202. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^89]: A 3. melléklet 203. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^90]: A 3. melléklet 204. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^91]: A 3. melléklet 205. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^92]: A 3. melléklet 206. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^93]: A 3. melléklet 207. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^94]: A 3. melléklet 208. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^95]: A 3. melléklet 209. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^96]: A 3. melléklet 210. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^97]: A 3. melléklet 211. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^98]: A 3. melléklet 212. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^99]: A 3. melléklet 213. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^100]: A 3. melléklet 214. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^101]: A 3. melléklet 215. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^102]: A 3. melléklet 216. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^103]: A 3. melléklet 217. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^104]: A 3. melléklet 218. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^105]: A 3. melléklet 219. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^106]: A 3. melléklet 220. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^107]: A 3. melléklet 221. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^108]: A 3. melléklet 222. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^109]: A 3. melléklet 223. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^110]: A 3. melléklet 224. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^111]: A 3. melléklet 225. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^112]: A 3. melléklet 226. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^113]: A 3. melléklet 227. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^114]: A 3. melléklet 228. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^115]: A 3. melléklet 229. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^116]: A 3. melléklet 230. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^117]: A 3. melléklet 231. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^118]: A 3. melléklet 232. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^119]: A 3. melléklet 233. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^120]: A 3. melléklet 234. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
+[^121]: A 3. melléklet 235. pontját a 156/2015. (VI. 25.) Korm. rendelet 1. §-a iktatta be.
