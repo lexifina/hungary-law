@@ -1,4 +1,4 @@
-76. §[^193] (1) A befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár a 74. §-ban meghatározott támogatás kérelmezése esetén – írásbeli kérelme benyújtásával egyidejűleg – a VI. melléklet szerinti nyilatkozat kitöltésével köteles nyilatkozni vagyoni és jövedelmi helyzetéről.
+76. §[^194] (1) A befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár a 74. §-ban meghatározott támogatás kérelmezése esetén – írásbeli kérelme benyújtásával egyidejűleg – a VI. melléklet szerinti nyilatkozat kitöltésével köteles nyilatkozni vagyoni és jövedelmi helyzetéről.
 
 (2) A befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár támogatásra irányuló kérelmét a szálláshelye szerint illetékes regionális igazgatóság bírálja el.
 
@@ -20,4 +20,4 @@ köteles ezt a szálláshelye szerint illetékes regionális igazgatóságnak le
 
 (7) A támogatásban részesülő befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár köteles harminc napot meghaladó külföldi tartózkodását vagy a támogatás átvételében való más akadályoztatását a szálláshelye szerint illetékes regionális igazgatóságnak – külföldre távozását megelőzően vagy az akadály felmerültét követően haladéktalanul – bejelenteni. A bejelentés alapján a támogatás folyósítása – a távollét időtartama alatt vagy az akadály megszűnéséig – szünetel. Ha a befogadott, illetve az emberkereskedelem áldozatává vált harmadik országbeli állampolgár a bejelentési kötelezettségének nem tesz eleget és a támogatást a következő esedékes folyósítás időpontjáig nem veszi át, a regionális igazgatóság a támogatás folyósítását megszünteti.
 
-[^193]: A 76. § a 221/2013. (VI. 24.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^194]: A 76. § a 221/2013. (VI. 24.) Korm. rendelet 17. §-ával megállapított szöveg.
