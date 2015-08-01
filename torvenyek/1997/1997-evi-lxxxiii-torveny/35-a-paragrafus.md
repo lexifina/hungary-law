@@ -1,1 +1,1 @@
-### 35/A. §
+35/A. § A háziorvosi, házi gyermekorvosi szolgáltató kormányrendeletben meghatározottak szerint jogosult szakmailag megalapozott és költséghatékony beutalási tevékenysége alapján az E. Alapból külön díjazásra, amelyet a háziorvosi, házi gyermekorvosi ellátáshoz kapcsolódó fejlesztési célokra fordíthat.

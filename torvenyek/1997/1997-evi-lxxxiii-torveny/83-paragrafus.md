@@ -84,6 +84,8 @@ d) határozza meg a térségi várólista alapján történő ellátás-igénybe
 
 (2h) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a várólistával, intézményi előjegyzéssel, illetve betegfogadási listával kapcsolatos nyilvántartási, jelentési vagy adatszolgáltatási kötelezettség nem teljesítése esetén az egészségügyi szolgáltató finanszírozásából a 20/A. § (10) bekezdése alapján visszatartásra, illetve levonásra kerülő összeg mértékét, a visszatartás időtartamát, továbbá a visszatartással és a levonással kapcsolatos eljárási szabályokat.
 
+(2i) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 35/A. § szerinti külön díjazás feltételeit és felhasználásának részletes szabályait.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,

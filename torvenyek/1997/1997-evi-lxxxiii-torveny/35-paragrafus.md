@@ -4,7 +4,11 @@
 
 (2) Az E. Alapból a finanszírozási szerződésben foglalt feladatokra folyósított összeg nem mentesíti a szolgáltató fenntartóját (tulajdonos, kezelő) az egyéb jogszabályokban előírt fenntartási és fejlesztési kötelezettségek alól. A finanszírozás keretében folyósított összeg csak a finanszírozási szerződésben foglalt feladatokra használható fel.
 
-(3) Abban az esetben, amikor a finanszírozási szerződés megkötésének szempontjából a helyi önkormányzat minősül egészségügyi szolgáltatónak, a finanszírozás keretében kapott összeg az egészségügyi szolgáltatók működésével kapcsolatos igazgatási kiadásaira nem használható fel.
+(3) Ha a finanszírozási szerződés megkötésének szempontjából a helyi önkormányzat vagy a helyi önkormányzat intézménye minősül egészségügyi szolgáltatónak, a finanszírozás keretében kapott összeg
+
+a) az egészségügyi szolgáltatók működésével kapcsolatos igazgatási kiadásokra nem használható fel,
+
+b) felhasználásáról a helyi önkormányzat vagy a helyi önkormányzat intézménye az érintett egészségügyi dolgozókat havonta tájékoztatja.
 
 (4) A finanszírozott egészségügyi szolgáltató részére – a biztosítási jogviszony keretében igénybe vehető egészségügyi szolgáltatások igénybevehetőségét veszélyeztető – kritikus gazdálkodási helyzet esetén, amennyiben annak megelőzésére, illetve elhárítására saját hatáskörben bizonyíthatóan minden lehetséges intézkedést megtett, valamint a tulajdonos – amennyiben jogszabály eltérően nem rendelkezik – saját forrásaiból meghatározott arányú konkrét hozzájárulást és garanciát vállal, az egészségbiztosító – az E. Alap éves költségvetésében e célra megjelölt előirányzat terhére – egyszeri, kamatmentes működési költségelőleget nyújthat.
 
