@@ -1,3 +1,3 @@
-## 1. §[^1]
+## 1. § A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet (a továbbiakban: R.) 5. §-a a következő (1a) bekezdéssel egészül ki:
 
-[^1]: Az 1. § az 5. § (2) bekezdése alapján 2015. augusztus 1-jén lép hatályba.
+## „(1a) Az (1) bekezdés szerinti adatbázis informatikai rendszere üzemeltetésével kapcsolatos, az e rendeletben foglalt hatósági feladatok elvégzéséhez szükséges adatbázis berendezés-, hűtőkör- és adatnyilvántartó, számlázási, valamint személy- és cégképesítő IT rendszerének informatikai támogatását, e rendszer üzemeltetési, rendelkezésre állási és adatfeldolgozással kapcsolatos feladatainak ellátását a Hatóság a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendeletben kijelölt központi szolgáltató igénybevételével látja el.”
