@@ -1,0 +1,3 @@
+15. § (1) A kártyakibocsátó kártyakibocsátással kapcsolatos tevékenységét a működtető hatósági ellenőrzés keretében vizsgálja.
+
+(2) Ha a működtető a hatósági ellenőrzés során azt állapítja meg, hogy a kártyakibocsátó a jogszabályban meghatározott kötelezettségét megszegi, a működtető – határidő tűzésével – kötelezi a kártyakibocsátót a hiányosság pótlására, egyidejűleg a kártyakibocsátó kártyakibocsátással kapcsolatos tevékenységét – a személyes adatok védelmével kapcsolatos súlyos hiányosság esetén, vagy a NEK biztonságos működését súlyosan veszélyeztető esetben – azonnali hatállyal felfüggesztheti.

@@ -1,0 +1,9 @@
+## 11. A kártyaelfogadó
+
+20. § (1) A kártyaelfogadó a kártya elektronikus leolvasása során hozzáfér a NEK központi nyilvántartásnak a kártya érvényességére vonatkozó, a 8. § (2) bekezdés b) pont be) alpontja és c) pont ce) alpontja szerinti adatához, a 8. § (3) bekezdés b) pont bd) alpontja és c) pont cd) alpontja szerinti adatához, valamint a 8. § (4) bekezdés b) pontja szerinti adatához. Érvénytelen kártya esetén a NEK központi nyilvántartás kizárólag az érvénytelenség tényére vonatkozó adatot szolgáltatja.
+
+(2) Az (1) bekezdés szerinti adatszolgáltatás alapján érvényes kártya esetében a kártyaelfogadó hozzáfér a NEK központi nyilvántartás 8. § (2) bekezdés b) pont bc) alpontja, 8. § (3) bekezdés b) pont bb) alpontja, valamint 8. § (4) bekezdés a) pontja és – a 4. § (4) szerinti korlátozás feloldását követően – a 8. § (2) bekezdés c) pont cc) alpontja, valamint 8. § (3) bekezdés c) pont cb) alpontja szerinti adatához. Ennek az adatnak a segítségével a kártyaelfogadó – jogszabály vagy a kártyakibocsátóval kötött szerződés alapján – hozzáfér a kibocsátási célt képező jogosultság vagy egyéb tény fennállásának ellenőrzése céljából a jogosultságot tartalmazó, a kártyakibocsátó által vezetetett nyilvántartás 19. § g) pontjában meghatározott adatához.
+
+(3) Jogszabály vagy – a szerződés megkötését követően kiállított kártyák tekintetében – a kártyakibocsátók által kötött szerződés rendelkezhet úgy, hogy a kártyaelfogadó hozzáférhet valamely kártyakibocsátó által kibocsátott kártya alapján a más kártyakibocsátó által vezetett nyilvántartásnak a 19. § g) pontjában meghatározott adatához.
+
+(4) A (3) bekezdés szerinti szerződés megkötéséről a kártyakibocsátó a működtetőt haladéktalanul tájékoztatja. A működtető e tájékoztatás alapján a (3) bekezdés szerinti hozzáférés lehetőségét a NEK központi nyilvántartásban rögzíti.

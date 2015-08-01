@@ -1,0 +1,17 @@
+## 12. Záró rendelkezések
+
+21. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a működtetőt és a regisztrációs szervet.
+
+(2) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy rendeletben határozza meg
+
+a) a NEK-rendszerhez való kapcsolódás, valamint a kártyakibocsátási folyamat műszaki, technológiai, biztonsági előírásait, a kártya műszaki tulajdonságait, biztonsági okmány esetén a hitelesítés rendjét,
+
+b) a kártyaelfogadóra irányadó műszaki, technológiai követelményeket,
+
+c) a megszemélyesítést végző minősítése során vizsgálandó műszaki és biztonsági követelményeket.
+
+(3) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg
+
+a) a kártyakibocsátói engedélyezésre irányuló hatósági eljárások igazgatási szolgáltatási díját, a megfizetés szabályait,
+
+b) a NEK szolgáltatásaiért a kártyakibocsátó által időszakosan fizetendő díj mértéke megállapításának szempontjait, megfizetése módjának szabályait.

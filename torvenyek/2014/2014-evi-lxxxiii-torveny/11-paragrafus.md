@@ -1,0 +1,1 @@
+11. § A működtető a NEK-nyilvántartásban szereplő adatokról törvény, vagy az érintett hozzájárulása alapján adatot szolgáltat a kártya egyedi sorszámát vagy elektronikus egyedi azonosítóját és a kártyafelhasználó nevét megjelölő, az adat kezelésére jogosult kártyaelfogadó részére a kártya adatainak ellenőrzése, illetve az érintett személy azonosítása céljából.
