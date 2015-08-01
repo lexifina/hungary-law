@@ -1,0 +1,1 @@
+## „(7) Ha a külföldi anyakönyvi okirat nem tartalmazza az anyakönyvi esemény helye szerinti település nevét, azt más külföldi okirat, annak hiányában az ügyfél személyes nyilatkozata alapján kell bejegyezni.”

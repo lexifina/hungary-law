@@ -1,0 +1,5 @@
+## 25. § A Vhr. 54. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(2) Ha az anyakönyvi okirat kiállítása vagy anyakönyvi adat szolgáltatása iránti kérelem alapján nem állapítható meg, hogy az igazolni kért anyakönyvi esemény a főváros mely kerületében történt, illetve hogy az igazolni kért anyakönyvi esemény bekövetkezésének helye az illetékességi szabályok alapján az anyakönyvi esemény bekövetkezésekor mely fővárosi kerülethez tartozott, az anyakönyvvezető, a konzuli tisztviselő vagy a kérelmező az anyakönyvi okirat kiállítása és az anyakönyvi adat szolgáltatása iránti kérelmet továbbítja Budapest Főváros Kormányhivatalának.
+
+## (3) A kérelem (2) bekezdés szerinti továbbítása esetén a kutatást Budapest Főváros Kormányhivatala folytatja le. Ha a kutatás eredményeképpen megállapítható, hogy az anyakönyvi okirat kiállítására vagy az anyakönyvi adat szolgáltatására melyik anyakönyvvezető illetékes, a kérelmet továbbítja az illetékes anyakönyvvezetőnek. Ha a kutatás nem vezet eredményre, erről a megkereső személyt vagy szervet értesíti.”

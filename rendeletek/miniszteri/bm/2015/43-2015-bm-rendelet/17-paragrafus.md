@@ -1,0 +1,3 @@
+## „(7) Abban az esetben, ha a gyermek emberi reprodukcióra irányuló különleges eljárásból származik, az anyakönyvi bejegyzés teljesítéséhez az egészségügyről szóló 1997. évi CLIV. törvény 179. § (4) bekezdése szerinti igazolást kell csatolni.
+
+## (8) Az anyakönyvi bejegyzés teljesítésére jogosult az igazságügyért felelős miniszter nyilatkozatát kéri, ha a gyermek családi jogállásának rendezését külföldön tett apai elismerő nyilatkozattal, illetve az apaság megállapításáról szóló külföldi bírósági vagy más hatósági határozattal igazolják, vagy a gyermek vonatkozásában az apaság vélelmének megdöntéséről külföldön bírósági vagy más hatósági határozatot hoztak.”

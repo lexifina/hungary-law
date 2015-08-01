@@ -1,0 +1,3 @@
+## 6. § A Vhr. 13. §-a a következő (3a) bekezdéssel egészül ki:
+
+## „(3a) Amennyiben a fővárosi és megyei kormányhivatal megállapítja a külföldi okiratok megfelelőségét, döntése alapján a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének időpontja kitűzhető. Ellenkező esetben az anyakönyvvezető – a fővárosi és megyei kormányhivatal döntése alapján – hiánypótlási felhívást bocsát ki a kormányhivatal megállapítása alapján. Amennyiben a felek a hiánypótlási felhívásban előírtakat legkésőbb a házassági jegyzőkönyv érvényességi idejének lejártát megelőző hatvanadik napig nem teljesítik, az anyakönyvvezető az eljárást megszünteti.”
