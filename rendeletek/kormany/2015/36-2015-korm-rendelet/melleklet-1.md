@@ -1,3 +1,3 @@
-1. melléklet a 36/2015. (III. 6.) Korm. rendelethez[^11]
+1. melléklet a 36/2015. (III. 6.) Korm. rendelethez[^9]
 
-[^11]: Az 1. melléklet a 12. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^9]: Az 1. melléklet a 12. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.

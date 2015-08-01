@@ -1,4 +1,4 @@
-## 11. §[^10]
+## 11. §[^8]
 
 12. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
 
@@ -8,4 +8,4 @@
 
 (4) A 10. § b) és c) pontja, valamint a 2. és a 3. melléklet 2017. január 1-jén lép hatályba.
 
-[^10]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
