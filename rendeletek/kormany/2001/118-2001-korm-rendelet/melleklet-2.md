@@ -48,9 +48,9 @@
 
 ## c) középfokú iskolai végzettség és legalább ötéves, a b) pontban felsorolt humánpolitikai területen eltöltött gyakorlat; vagy
 
-## d) a 7/1993. (XII. 30.) MüM rendelet mellékleteként kiadott Országos Képzési Jegyzékben meghatározott munkaerő-piaci ügyintéző és munkaerő-piaci menedzser szakképesítés.
+## d)[^56] középfokú munkaerő-piaci ügyintéző, munkaerő-piaci menedzser és munkaerő-piaci szolgáltatási ügyintéző szakképesítés.
 
-2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^56]
+2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^57]
 
 ## A magán-munkaközvetítői tevékenység folytatásához szükséges bejelentés adattartalma
 
@@ -65,4 +65,5 @@
 5. A magán-munkaközvetítői tevékenység folytatásának helye(i), az irodahelyiség(ek) címe, telefonszáma, felszereltsége (telefon, telefax, számítógép, egyéb).
 
 [^55]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a, a 205/2015. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^56]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^56]: Az 1. számú melléklet d) pontja a 193/2015. (VII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^57]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
