@@ -26,4 +26,6 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (9) A praxisjog bérbe, haszonbérbe nem adható és gyakorlásának joga sem ingyenesen, sem visszterhesen más részére át nem engedhető.
 
+(9a) Az Egészségbiztosítási Alapból a finanszírozás keretében folyósított összeg a praxisjog megszerzése érdekében felhasználható.
+
 (10) A tartósan betöltetlen háziorvosi körzetek miatti ellátási különbségek kiegyenlítésére, a hátrányos helyzetű települési önkormányzatok egészségügyi alapellátási feladatai megszervezésének segítésére külön jogszabály szerint működtetett Praxisprogram szolgál.

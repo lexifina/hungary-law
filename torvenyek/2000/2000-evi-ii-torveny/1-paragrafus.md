@@ -2,7 +2,7 @@
 
 (2) E törvény alkalmazásában
 
-a) önálló orvosi tevékenység: a területi ellátási kötelezettség körében az egészségügyről szóló 1997. évi CLIV. törvény szerint a háziorvos, a házi gyermekorvos, a fogorvos (a továbbiakban együtt: háziorvos) által nyújtott egészségügyi ellátás;
+a) önálló orvosi tevékenység: a területi ellátási kötelezettség körében az egészségügyi alapellátásról szóló törvény szerint a háziorvos, a házi gyermekorvos, a fogorvos (a továbbiakban együtt: háziorvos) által nyújtott egészségügyi ellátás;
 
 b) orvos: a külön jogszabály szerint vezetett alap- és működési nyilvántartásban szereplő orvosi, fogorvosi szakképesítéssel rendelkező személy;
 

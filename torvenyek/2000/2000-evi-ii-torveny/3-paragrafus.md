@@ -30,4 +30,6 @@ ab) a praxiskezelőt kijelölje, valamint feladat- és hatáskörét, továbbá 
 
 ac) a praxiskezelő által nyújtott kamatmentes visszatérítendő támogatásra, valamint a praxiskezelő által szedett díjra vonatkozó részletes szabályokat rendeletben megállapítsa,
 
+ad) a feladat-ellátási szerződés formai követelményeit rendeletben meghatározza,
+
 b) az egészségügyért felelős miniszter, hogy a praxisjog alapján végzett tevékenység gyakorlásának és ellenőrzésének részletes szakmai szabályait, továbbá a helyettesítésre, a tevékenység végzéséhez szükséges szakképesítésre és az alkalmassági vizsgálatra vonatkozó szabályokat rendeletben meghatározza.
