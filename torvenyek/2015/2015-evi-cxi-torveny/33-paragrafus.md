@@ -1,5 +1,0 @@
-33. § Az At. 80. §-a helyébe a következő rendelkezés lép:
-
-„80. § (1) Az anyakönyvvezető és a hazai anyakönyvezést végző hatóság a statisztikáról szóló törvényben meghatározott népmozgalmi adatgyűjtéssel kapcsolatos feladatai teljesítése céljából az anyakönyvi eljárás során a népmozgalmi adatszolgáltatás teljesítéséig kezeli a népmozgalmi adatszolgáltatás körébe tartozó, a statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott adatokat. Az anyakönyvvezető és a hazai anyakönyvezést végző hatóság által kezelt, a népmozgalmi adatszolgáltatás körébe tartozó adatokból a Központi Statisztikai Hivatal részére teljesítendő adattovábbítás kivételével adattovábbítás nem teljesíthető.
-
-(2) Az elektronikus anyakönyvben kezelt adatok közül a Központi Statisztikai Hivatal a statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott a népmozgalmi adatszolgáltatás körébe tartozó adatokat a központi nyilvántartó szervtől elektronikus formában, térítésmentesen jogosult átvenni.”
