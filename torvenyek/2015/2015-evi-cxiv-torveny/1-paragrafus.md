@@ -1,5 +1,0 @@
-1. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény (a továbbiakban: Sztv.) 2. §-a a következő 15a. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„15a. közlekedési kártya: olyan, az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) 2. § 3. pontja szerinti, közhiteles adatokkal, vizuálisan megszemélyesített, a közforgalmú személyszállítási szolgáltatás igénybevétele céljából kibocsátott, külön jogszabályban meghatározott elektronikus adat tárolására vagy művelet elvégzésére alkalmas eszközt tartalmazó hordozó, amely az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott utazási okmányként teljesíti az utasmédia követelményrendszerét. A Nektv. 4. § (5) bekezdésében meghatározott elsődleges kártyának tekintendő, személyazonosság közhiteles igazolására szolgáló kártya formátumú okmányhoz a közlekedési kártya mint másodlagos kártya – amennyiben annak műszaki és technikai feltételei adottak – a jogosult kérelmére hozzárendelhető;”
