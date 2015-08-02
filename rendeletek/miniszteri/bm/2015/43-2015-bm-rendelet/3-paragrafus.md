@@ -1,3 +1,0 @@
-## 2. § A Vhr. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a településen az anyakönyvi igazgatási feladatok az anyakönyvvezető akadályoztatása vagy az anyakönyvvezetői feladatokat ellátó személy hiánya miatt nem láthatóak el, a jegyző kérelmére a helyettesítésről a fővárosi és megyei kormányhivatal az illetékességi területéhez tartozó települési önkormányzatok képviselő-testülete hivatalainak anyakönyvvezetői közül történő kijelöléssel gondoskodik. A helyettesítendő és a helyettesítő anyakönyvvezetők munkáltatóinak a helyettesítésről szóló megállapodásukat a kérelemhez csatolni kell.”
