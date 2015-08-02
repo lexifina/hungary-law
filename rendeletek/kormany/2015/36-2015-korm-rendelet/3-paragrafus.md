@@ -1,3 +1,3 @@
-## 2. § Az R. 6. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „(7) Ha a vizsgázót a közoktatásról szóló törvény 30. § (9) bekezdése alapján a kötelező és a kötelezően választandó érettségi vizsgatárgynak megfelelő tantárgyból mentesítették a középiskolában az értékelés, minősítés alól, vagy az Nkt. 56. § (1) bekezdése alapján a kötelező és a kötelezően választandó érettségi vizsgatárgynak megfelelő tantárgyból középiskolában mentesítették az érdemjegyekkel és osztályzatokkal történő értékelés, minősítés alól, akkor az adott tantárgy helyett a vizsgázó egy másik, általa választott vizsgatárgyból tehet érettségi vizsgát. A vizsgázó részére – a szakértői bizottság szakvéleménye alapján – kérelmére engedélyezni kell az írásbeli beszámoló szóbeli beszámolóval vagy a szóbeli beszámoló írásbeli beszámolóval történő felváltását, és biztosítani kell a hosszabb felkészülési időt.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
