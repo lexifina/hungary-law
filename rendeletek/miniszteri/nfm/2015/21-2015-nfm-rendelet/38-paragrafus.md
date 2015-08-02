@@ -1,0 +1,1 @@
+## 37. § Amatőr építésű légijármű építéséhez alkalmazandó alkalmassági előírásként az Európai Unió, vagy valamely tagállamában kiadott vagy elfogadott, a légijárművek alkalmasságára vonatkozó előírás vagy szabvány választható.

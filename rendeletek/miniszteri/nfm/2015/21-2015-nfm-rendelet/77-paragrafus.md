@@ -1,0 +1,29 @@
+77. § (1) A karbantartási kézikönyvnek legalább a következőket kell tartalmaznia:
+
+a) a felelős vezető által aláírt nyilatkozatot, amely megerősíti, hogy a karbantartó szervezet folyamatosan, a jelen rendeletben meghatározottak szerint működik,
+
+b) a karbantartó szervezet által elvégezhető munkák körét,
+
+c) a 83. § (1) bekezdés d) pontjában meghatározott személy vagy személyek vagy szervezet nevét,
+
+d) a szervezeti ábrát,
+
+e) a tanúsító személyek nevét és felelősségi hatáskörüket,
+
+f) a létesítmények helyét és általános leírását,
+
+g) a karbantartó szervezet eljárásait,
+
+h) a karbantartó szervezet kézikönyve módosításának eljárásait.
+
+(2) A karbantartási kézikönyv módosításához – a (3) bekezdésben meghatározott kivétellel – a légiközlekedési hatóság jóváhagyása szükséges. A jóváhagyás során a légiközlekedési hatóság a jelen rendeletben meghatározott követelményeknek történő megfelelést vizsgálja.
+
+(3) Ha az (1) bekezdés h) pontjában meghatározott karbantartási kézikönyv kisebb módosításaira vonatkozó eljárás, beleértve a kisebb módosítás tartalmát, abban az esetben a kisebb módosításokhoz a légiközlekedési hatóság jóváhagyására nincs szükség.
+
+(4) A karbantartó szervezet saját létesítményeiben, az általa elvégzett karbantartás során, a karbantartási kézikönyvben meghatározottak szerint, – a karbantartási dokumentációban meghatározott feltételekkel – saját felhasználásra alkatrészeket készíthet.
+
+(5) A karbantartási kézikönyv mintapéldányának (a továbbiakban: minta karbantartási kézikönyv) jóváhagyása is kérhető a légiközlekedési hatóságtól.
+
+(6) A minta karbantartási kézikönyvnek – a konkrét szervezetre vonatkozó adatok kivételével – az (1) bekezdésben meghatározottakat kell tartalmaznia.
+
+(7) Ha a karbantartási engedély iránti kérelemhez a légiközlekedési hatóság által jóváhagyott minta karbantartási kézikönyvet nyújtottak be, akkor a karbantartási kézikönyv azon módosításaihoz szükséges a légiközlekedési hatóság jóváhagyása, amelyeket a minta kézikönyv nem tartalmazott.

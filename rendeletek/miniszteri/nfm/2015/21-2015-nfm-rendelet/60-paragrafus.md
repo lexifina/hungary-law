@@ -1,0 +1,3 @@
+60. § (1) A repülés előtti ellenőrzés elvégzéséért a légijármű vezetője a felelős. Az ellenőrzést a légijármű vezetője, a karbantartó szervezet vagy a légijárművek és légijármű komponensek karbantartásának személyi jogosításairól és képzési követelményeiről szóló rendeletben meghatározott, megfelelő szakszolgálati engedéllyel rendelkező személy (a továbbiakban: szakképzett személy) végezheti el.
+
+(2) A légijármű üzemeltetési kézikönyvében szereplő, a légijármű repülésre történő előkészítéséhez kapcsolódó feladatok (pl. vitorlázó repülőgép szárnyainak összeszerelése vagy repülés előtti ellenőrzés) elvégzése a légijármű vezetőjének a feladata, és nem minősül karbantartási feladatnak.

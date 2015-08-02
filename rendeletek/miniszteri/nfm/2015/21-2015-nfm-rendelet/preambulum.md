@@ -1,0 +1,1 @@
+A légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (1) bekezdés y) pontjában, valamint a 74. § (2) bekezdés d), h) és o) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
