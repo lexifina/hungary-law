@@ -1,3 +1,5 @@
+## 83. §[^2]
+
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
 TÁBLÁZAT ÉS MAGYARÁZAT A BETEGSÉGEK ÉS FOGYATÉKOSSÁGOK EGÉSZSÉGI ALKALMASSÁGI FOKOZATÁNAK MEGÁLLAPÍTÁSÁHOZ
@@ -2607,3 +2609,15 @@ e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
 | 1. | enyhe | I | I | K | K | N70–N71, N73 |
 
 | 2. | súlyos | E | E | K | K |
+
+a) Salpingo-oophoritis chronica, abscessus ovarii, salpingitis, pyosalpinx, abscessus cavi Douglasi, peritonitis chronica pelvicis femininae, adhaesiones peritoneales pelvicis femininae, endomyometritis, uterus abscessus.
+
+b) We, teljes vérkép és vizelet, máj- és vesefunctios laboratóriumi vizsgálatok, váladék bacteriológiai és cytológiai vizsgálata, kismedencei és hasi UH, szükség szerint laparoscopia.
+
+c) Nőgyógyászati elbírálást minden esetben nőgyógyász szakorvos végezze. A minősítéshez nélkülözhetetlen a 2 hétnél nem régebbi laborvizsgálati leletek, 1 hónapnál nem régebbi váladék és 2 hónapnál nem régebbi colposcopos és cytologiai lelet. Hivatásos és szerződéses állományba vételkor a minősítés a 136.1 „E”.
+
+d) K: 3, 4, 6, 11, 12, 14, 15, 21; F: 1–2.
+
+e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
+
+[^2]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
