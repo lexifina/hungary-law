@@ -1,5 +1,0 @@
-## 5. § A Harmvhr. 121/A. § (3) és (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Ha a megkeresett tagállam felelőssége az egy harmadik országbeli állampolgár vagy egy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló, 2013. június 26-i 604/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Dublin III. rendelet) alapján beáll, a menekültügyi hatóság a kérelmező át-vagy visszaadásáról rendelkező végzést (a továbbiakban: átadásáról rendelkező végzés) a felelősség beállásának napjától vagy a Dublin III. rendelet 22. cikk (1) és (6) bekezdésében, 25. cikk (1) bekezdésében, illetve 28. cikk (3) bekezdésében foglalt határidők lejártát követő nyolc napon belül köteles meghozni.
-
-## (4) A kérelmező átadásáról rendelkező végzés a Dublin III. rendelet 26. cikk (1) és (2) bekezdésében, a 27. cikk (1) és (2) bekezdésében, valamint a 29. cikk (1) és (2) bekezdésében foglaltakat tartalmazza.”

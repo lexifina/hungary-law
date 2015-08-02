@@ -1,3 +1,0 @@
-## 7. § A Harmvhr. 124. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az eljáró idegenrendészeti hatóság a kiutasítás elrendelésére irányuló eljárásban vagy a kiutasítás végrehajtása során a non-refoulement követelmény fennállásának vizsgálata érdekében köteles beszerezni a menekültügyi hatóság véleményét, amely a megkeresést soron kívül teljesíti. A menekültügyi hatóság véleményében foglaltaktól az eljáró idegenrendészeti hatóság nem térhet el. Nem kell vizsgálni a Tv. 51. § (1) bekezdésében foglalt tilalom fennállását, ha a visszairányítás EGT-tagállam területére történik. A menekültügyi hatóság a menekültügyi eljárása során a kiutasítás elrendelése előtt a non-refoulement követelmény fennállását a menekültügyi eljárásban vizsgálja.”
