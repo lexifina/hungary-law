@@ -1,1 +1,0 @@
-## Változtatás a légijárművön
