@@ -1,1 +1,0 @@
-3. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/C. § (2) bekezdésében az „57/B. § (3) bekezdésének 2–3. pontjaiban meghatározott” szövegrész helyébe az „57/B. § (3) bekezdésének 2–3. pontjaiban és a (9) bekezdésében meghatározott” szöveg lép.
