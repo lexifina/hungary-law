@@ -1,1 +1,0 @@
-## 4. Az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalok általánostól eltérő illetékességi területéről szóló 67/2015. (III. 30.) Korm. rendelet módosítása
