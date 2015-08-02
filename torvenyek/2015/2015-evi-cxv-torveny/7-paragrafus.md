@@ -1,5 +1,0 @@
-7. § A Vötv. 9. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A hatósági eljárásokban hatóságként eljáró vagy közreműködő örökségvédelmi és természetvédelmi hatóság a világörökségi helyszínek és a Világörökség Jegyzékbe jelölendő helyszín által hordozott kiemelkedő egyetemes érték megőrzése érdekében a világörökségi területen vagy a Világörökség Jegyzékbe jelölendő helyszínen és védőövezetében az e törvényben és a világörökségi kezelési tervben foglaltakat eljárása során köteles érvényre juttatni.
-
-(2) Amennyiben a világörökségi területet és a Világörökség Jegyzékbe jelölendő helyszínt és védőövezetét érintő restaurálási, helyreállítási, fejlesztési és építési, bányászati tevékenységre és művelési ág megváltoztatására irányuló kérelem esetében szakértői vélemény beszerzése szükséges, az eljáró hatóság – a saját költségei terhére – jogszabályban meghatározott, a védelem jellege szerinti szakértőt rendel ki, vagy kikéri a miniszter világörökségi feladatait segítő, kormányrendeletben meghatározott szerv véleményét.”
