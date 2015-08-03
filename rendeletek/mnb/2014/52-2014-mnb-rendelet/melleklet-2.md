@@ -210,4 +210,6 @@
 
 ## 5.7. Az értékpapírok állományára vonatkozó jelentésekben az érvénytelen, valamint a lejárt értékpapírokat nem kell szerepeltetni.
 
-2. melléklet az 52/2014. (XII. 9.) MNB rendelethez
+2. melléklet az 52/2014. (XII. 9.) MNB rendelethez[^3]
+
+[^3]: A 2. melléklet a 21/2015. (VI. 29.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
