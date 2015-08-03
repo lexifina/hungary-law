@@ -1,4 +1,4 @@
-## 140. § Hatályát veszti a polgári légijárművek típus- és légialkalmasságáról szóló 63/2001. (XII. 23.) KöViM rendelet.
+## 140. §[^7]
 
 1. melléklet a 21/2015. (V. 4.) NFM rendelethez
 
@@ -295,3 +295,5 @@
 | 76. | 79 | Olajrendszer | Az olajrendszertisztító és -szűrő alkatrészek tisztítása és cseréje. | Nem | Igen | Igen |
 
 | 77. |  |  | A motor- és a hajtóműolaj cseréje, utántöltése. | Nem | Igen | Igen |
+
+[^7]: A 140. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
