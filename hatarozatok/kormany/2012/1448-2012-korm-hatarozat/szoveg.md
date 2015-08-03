@@ -28,7 +28,7 @@ Határidő: folyamatos
 
 3. felhívja a nemzeti fejlesztési minisztert, hogy a Nemzeti Fejlesztési Ügynökség útján a projekt valamennyi kifizetésének elszámolhatósági vizsgálatát végezze el és az 1. pontban hivatkozott szerződéseket módosító és egységes szerkezetbe foglaló szerződésben a finanszírozás rendje úgy kerüljön megállapításra, hogy a korábbi automatikus támogatási rendszer – amely alapján minden uniós támogatásból nem kifizethető tétel állami forrásból kerül finanszírozásra – szűnjön meg;
 
-4. a 2015. július 31-ig meg nem valósult projektelemek, továbbá a 2015. július 31-ig ki nem egyenlített vállalkozói követelések további finanszírozása kizárólag az 1. pontban meghatározott szerződés helyébe lépő új szerződés megkötésével lehetséges;
+4.[^1]
 
 5. az állami finanszírozás folyósításának feltétele az 1. pont szerinti szerződésben rögzített önrész Budapest Főváros Önkormányzata általi biztosítása;
 
@@ -51,3 +51,5 @@ nemzetgazdasági miniszter
 Nemzeti Fejlesztési Ügynökség
 
 Határidő: folyamatos
+
+[^1]: A 4. pontot az 1536/2015. (VIII. 3.) Korm. határozat 3. pontja visszavonta.
