@@ -1,4 +1,4 @@
-## 1.[^1]
+## 1.[^2]
 
 ## 2. felhívja a nemzeti fejlesztési minisztert, hogy az 1. pontban meghatározott kiemelt projektre figyelemmel a Gazdaságfejlesztési Operatív Program 2011–2013. közötti időszakra szóló akciótervének egységes szerkezetű módosítására vonatkozó javaslatát terjessze a Nemzeti Fejlesztési Kormánybizottság elé,
 
@@ -32,20 +32,15 @@
 
 ## Határidő: a Jaspers által kiadott minőségbiztosítási vélemény kézhezvételéig folyamatosan
 
-## e)[^2]
+## e)[^3]
 
-## f) felhívja a nemzetgazdasági minisztert és a nemzeti fejlesztési minisztert, hogy a központi költségvetésről szóló törvényekben az ELI-ALPS nagyprojekt előrehaladásával összhangban biztosítsa az ELI ALPS projektet megvalósító ELI-HU Nonprofit Kft. nemzetközi és hazai feladatellátásához szükséges, a 2. mellékletben meghatározott összegű működési forrást,
+## f)[^4]
 
-## Felelős: nemzetgazdasági miniszter
-
-## nemzeti fejlesztési miniszter
-
-## Határidő: 2012. december 31.
-
-## 4.[^3]
+## 4.[^5]
 
 1. melléklet az 1461/2012. (X. 26.) Korm. határozathoz
 
-[^1]: Az 1. pontot a 1037/2013. (II. 1.) Korm. határozat 3. pontja visszavonta.
-[^2]: A 3. pont e) alpontját a 1037/2013. (II. 1.) Korm. határozat 3. pontja visszavonta.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pontot a 1037/2013. (II. 1.) Korm. határozat 3. pontja visszavonta.
+[^3]: A 3. pont e) alpontját a 1037/2013. (II. 1.) Korm. határozat 3. pontja visszavonta.
+[^4]: A 3. pont f) alpontját az 1541/2015. (VIII. 3.) Korm. határozat 10. pont a) alpontja visszavonta.
+[^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
