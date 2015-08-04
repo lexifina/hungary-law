@@ -14,9 +14,9 @@ e) biztosítási szerződés alapján kiállított – készfizető kezességvá
 
 f) az Áht. 92. § (1) bekezdése szerinti állami kezesség.
 
-(1a)[^232] Az EMVA-ból származó forrásból nyújtott támogatás esetén kizárólag előleg fizetése esetén kell az előleg összegével megegyező összegű biztosítékot nyújtani. Biztosítékként kizárólag készpénzletét, vagy az (1) bekezdés a), d), e) pontjában meghatározott biztosíték ajánlható fel.
+(1a)[^233] Az EMVA-ból származó forrásból nyújtott támogatás esetén kizárólag előleg fizetése esetén kell az előleg összegével megegyező összegű biztosítékot nyújtani. Biztosítékként kizárólag készpénzletét, vagy az (1) bekezdés a), d), e) pontjában meghatározott biztosíték ajánlható fel.
 
-(2)[^233] A biztosítéknak rendelkezésre kell állnia a fenntartási kötelezettség megszűnéséig, az EMVA-ból származó forrásból nyújtott támogatás esetén az előleggel történő elszámolás elfogadásáig. A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható azzal, hogy az érintett biztosíték érvényességének lejártát legalább negyvenöt nappal megelőzően annak meghosszabbítását vagy cseréjét a kedvezményezettnek igazolnia kell. Ennek elmaradása a kifizetések elutasítását, illetve szabálytalansági eljárást von maga után, továbbá az irányító hatóság a támogatási szerződéstől elállhat.
+(2)[^234] A biztosítéknak rendelkezésre kell állnia a fenntartási kötelezettség megszűnéséig, az EMVA-ból származó forrásból nyújtott támogatás esetén az előleggel történő elszámolás elfogadásáig. A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható azzal, hogy az érintett biztosíték érvényességének lejártát legalább negyvenöt nappal megelőzően annak meghosszabbítását vagy cseréjét a kedvezményezettnek igazolnia kell. Ennek elmaradása a kifizetések elutasítását, illetve szabálytalansági eljárást von maga után, továbbá az irányító hatóság a támogatási szerződéstől elállhat.
 
 (3) A biztosítéki értéknek fedeznie kell legalább a kifizetési igénylésben igényelt, továbbá a már kifizetett támogatás együttes összegét. A záró kifizetési igényléshez a biztosíték értékét csak akkor szükséges kiegészíteni, ha az addig nyújtott biztosíték nem éri el a kedvezményezett által a fenntartási időszakban nyújtandó biztosítéki értéket. Biztosíték legfeljebb a projektre megítélt támogatási összeget elérő értékig kérhető. Nem kell biztosítékot nyújtani a húszmillió forintot meghaladó, de az ötvenmillió forintot meg nem haladó támogatással megvalósuló beruházási projekt esetén a fenntartási időszakra vonatkozóan. Az ötvenmillió forintot meghaladó támogatással megvalósuló beruházási projekt esetén a fenntartási időszakra a kifizetett támogatás 50%-ának megfelelő mértékű biztosítékot kell nyújtani.
 
@@ -32,5 +32,5 @@ f) az Áht. 92. § (1) bekezdése szerinti állami kezesség.
 
 (9) A kedvezményezett a kifizetési igénylésben igényelt támogatási összegnek megfelelően megemelt biztosíték meglétét legkésőbb a kifizetési igénylés benyújtásával egyidejűleg köteles igazolni. Ha ez a kifizetési igénylés hiánypótlását követően is elmarad, a kifizetési igénylést el kell utasítani. Ha a kedvezményezett a megemelt biztosíték meglétét később igazolja, akkor az elutasított kifizetési kérelem ismételten benyújtható.
 
-[^232]: A 83. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 48. §-a iktatta be.
-[^233]: A 83. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 90. pontja szerint módosított szöveg.
+[^233]: A 83. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 48. §-a iktatta be.
+[^234]: A 83. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 90. pontja szerint módosított szöveg.

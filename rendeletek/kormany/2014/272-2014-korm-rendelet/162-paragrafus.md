@@ -14,6 +14,6 @@ e) ugyanazon kedvezményezettel szemben más szabálytalansági eljárás van fo
 
 f) a kifizetést követően az eredeti pénzügyi állapot nem állítható helyre.
 
-(3)[^442]
+(3)[^443]
 
-[^442]: A 162. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 36. pontja hatályon kívül helyezte.
+[^443]: A 162. § (3) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 36. pontja hatályon kívül helyezte.

@@ -12,8 +12,8 @@ c) a szabálytalansági döntést megsemmisíti, és új szabálytalansági elj�
 
 (4) Ha a jogorvoslati kérelmet elbíráló döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a döntést hozó szervezet a hibát az erre irányuló kérelemre vagy hivatalból kijavítja, ha az nem hat ki az ügy érdemére.
 
-(5)[^467] A jogorvoslati kérelmet elbíráló döntést az európai uniós források felhasználásáért felelős miniszter a döntés kézbesítését követő harminc napon belül visszavonja, és új döntést hoz, ha a jogorvoslati kérelem elbírálását követően tudomására jutott tény alapján a döntés jogszabályt sért, vagy a támogatási szerződésbe, illetve a felhívás szerinti tájékoztatásban foglaltakba ütközik. A közlésről a (3) bekezdés szerint gondoskodik.
+(5)[^468] A jogorvoslati kérelmet elbíráló döntést az európai uniós források felhasználásáért felelős miniszter a döntés kézbesítését követő harminc napon belül visszavonja, és új döntést hoz, ha a jogorvoslati kérelem elbírálását követően tudomására jutott tény alapján a döntés jogszabályt sért, vagy a támogatási szerződésbe, illetve a felhívás szerinti tájékoztatásban foglaltakba ütközik. A közlésről a (3) bekezdés szerint gondoskodik.
 
 (6) Az európai uniós források felhasználásáért felelős miniszter jogorvoslati kérelem tárgyában hozott döntése ellen ismételten e rendelet szerint jogorvoslati kérelem előterjesztésének nincs helye.
 
-[^467]: A 173. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 208. pontja szerint módosított szöveg.
+[^468]: A 173. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 208. pontja szerint módosított szöveg.

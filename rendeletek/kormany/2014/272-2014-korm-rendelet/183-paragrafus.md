@@ -1,4 +1,4 @@
-183. §[^489] (1) Az igazoló hatóság minden év augusztus 15-ig átadja az audit hatóságnak az aktuális számviteli évben az Európai Bizottsághoz benyújtott kifizetési kérelmek alapját jelentő tételeket statisztikai mintavételezés céljából. Az audit hatóság a számviteli évben benyújtott kifizetési kérelmekből több alkalommal is végezhet mintavételt. Az igazoló hatóság az audit hatóság kérését követő tizenöt napon belül átadja a statisztikai mintavételezés alapjául szolgáló tételeket az audit hatóságnak.
+183. §[^490] (1) Az igazoló hatóság minden év augusztus 15-ig átadja az audit hatóságnak az aktuális számviteli évben az Európai Bizottsághoz benyújtott kifizetési kérelmek alapját jelentő tételeket statisztikai mintavételezés céljából. Az audit hatóság a számviteli évben benyújtott kifizetési kérelmekből több alkalommal is végezhet mintavételt. Az igazoló hatóság az audit hatóság kérését követő tizenöt napon belül átadja a statisztikai mintavételezés alapjául szolgáló tételeket az audit hatóságnak.
 
 (2) Az irányító hatóság minden év október 15-ig elkészíti a számviteli évről az éves összefoglalót, a vezetői nyilatkozatot, majd azokat megküldi az audit hatóságnak és az igazoló hatóságnak.
 
@@ -24,4 +24,4 @@ január 31-ig küldi meg az igazoló hatóságnak és az audit hatóságnak.
 
 (9) Az érintett intézmények az éves elszámolás dokumentumait az 1303/2013/EU európai parlamenti és tanácsi rendelet 74. cikke szerinti elektronikus adatcsere rendszerbe február 15-ig feltöltik.
 
-[^489]: A 183. § a 144/2015. (VI. 12.) Korm. rendelet 95. §-ával megállapított szöveg.
+[^490]: A 183. § a 144/2015. (VI. 12.) Korm. rendelet 95. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@ a) a projekt támogatási szerződésnek megfelelő fizikai és pénzügyi előr
 
 b) azt, hogy a kifizetési igényléshez benyújtott alátámasztó bizonylatok és dokumentumok eredeti példánya rendelkezésre állnak, megegyeznek a kifizetési kérelemhez benyújtott másolattal,
 
-c)[^398] a kifizetés igényléshez benyújtott összesítőkhöz kapcsolódó elszámoló bizonylatokat,
+c)[^399] a kifizetés igényléshez benyújtott összesítőkhöz kapcsolódó elszámoló bizonylatokat,
 
 d) az elszámoló bizonylatokhoz tartozó szerződéseket és a kapcsolódó teljesítésigazolásokat,
 
@@ -22,7 +22,7 @@ j) a projekt szintű elkülönített számviteli nyilvántartás vezetését,
 
 k) a projektben vállalt indikátorok és projekt szintű mérföldkövek teljesülését.
 
-(2)[^399] Az elszámoló bizonylatok ellenőrzése történhet mintavételezés alapján, az irányító hatóság által előzetesen jóváhagyott módszertan szerint.
+(2)[^400] Az elszámoló bizonylatok ellenőrzése történhet mintavételezés alapján, az irányító hatóság által előzetesen jóváhagyott módszertan szerint.
 
 (3) A fenntartási időszakban kockázatelemzés alapján, mintavétellel kiválasztott projektek körében vizsgálni kell
 
@@ -34,8 +34,8 @@ b) a projekttel kapcsolatos dokumentumok nyilvántartását és megőrzését.
 
 (5) Az irányító hatóság vagy az irányító hatóság által megbízott személy az általa végzett helyszíni ellenőrzésről készített jegyzőkönyvet, továbbá az intézkedési tervek teljesüléséről szóló kedvezményezetti tájékoztatót rögzíti a monitoring és információs rendszerben.
 
-(6)[^400] EMVA forrás esetében a helyszíni ellenőrzésre vonatkozó szabályokat az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági rendeletében (a továbbiakban: 809/2014/EU bizottsági végrehajtási rendelet) foglalt ellenőrzési szabályok szerinti eltérésekkel kell alkalmazni.
+(6)[^401] EMVA forrás esetében a helyszíni ellenőrzésre vonatkozó szabályokat az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági rendeletében (a továbbiakban: 809/2014/EU bizottsági végrehajtási rendelet) foglalt ellenőrzési szabályok szerinti eltérésekkel kell alkalmazni.
 
-[^398]: A 146. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 83. § (1) bekezdésével megállapított szöveg.
-[^399]: A 146. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 172. pontja szerint módosított szöveg.
-[^400]: A 146. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 83. § (2) bekezdése iktatta be.
+[^399]: A 146. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 83. § (1) bekezdésével megállapított szöveg.
+[^400]: A 146. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 172. pontja szerint módosított szöveg.
+[^401]: A 146. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 83. § (2) bekezdése iktatta be.
