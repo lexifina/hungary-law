@@ -1,0 +1,7 @@
+## 11. Beépített tűzoltó berendezés
+
+18. § (1) Az ideiglenes lelátó helyiségeit automatikus vízzel oltó berendezéssel kell védeni, amely lehet része az uszoda tűzoltó berendezésének.
+
+(2) A védelemből kihagyható területeket és a rendszer további kialakítását a BM OKF-fel egyeztetett módon kell kialakítani.
+
+(3) Az automatikus tűzoltó berendezés létesítését és használatbavételét a BM OKF-fel engedélyeztetni kell.
