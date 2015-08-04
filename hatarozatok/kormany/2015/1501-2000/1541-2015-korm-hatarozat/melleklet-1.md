@@ -52,10 +52,8 @@
 
 ## Határidő: azonnal
 
-## 10. visszavonja
-
-## a) a GOP-1.1.1/B konstrukció kódú [az „ELI lézer kutatóközpont megvalósítása (ELI-ALPS) nagyprojekt 1. fázis” című] projekt kiemelt projektként történő nevesítéséről, valamint az ELI (Extreme Light Infrastructure) integrált európai kutatási nagyberendezés magyarországi megvalósítása érdekében szükséges intézkedésekről szóló 1461/2012. (X. 26.) Korm. határozat 3. pont f) alpontját és 2. mellékletét.
-
-## b) a GOP-1.1.1/B konstrukció kódú [az „ELI lézer kutatóközpont megvalósítása (ELI-ALPS) nagyprojekt 1. fázis” című] projekt forráskeretének módosításáról szóló 1037/2013. (II. 1.) Korm. határozatot.
+## 10.[^1]
 
 1. melléklet az 1541/2015. (VIII. 3.) Korm. határozathoz
+
+[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
