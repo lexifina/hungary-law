@@ -1,69 +1,65 @@
 ## Az erdőtervrendelet tartalmi követelményei
 
-## 1. A körzet neve
+## Az erdőtervrendeletben az adott évben erdőtervezett erdőtervezési körzetekre vonatkozó egyedi rendelkezéseket erdőtervezési körzetenként egy-egy mellékletben, az alábbi tartalommal kell meghatározni.
 
-## 2. A körzeti erdőtervezés speciális célja, tervezési alapelvek
+## 1. Az erdőtervezési körzet neve
 
-## 3. Az erdészeti igazgatási egységek (erdőrészlet, erdőtag), az erdő külső határainak kialakítására, és fenntartására vonatkozó speciális szabályok
+## 2. A körzeti erdőtervezés egyedi szempontjai, céljai és alapelvei
 
-## 4. Az erdészeti feltáró hálózat kialakítására, fenntartására és bővítésére vonatkozó szempontok
+## Az erdőtervezési körzet azon jelentős sajátosságainak bemutatása, amelyek az általános elvektől eltérő körzeti erdőtervezési alapelveket indokolják.
 
-## 5. Az üzemmódok megállapítására, megváltoztatására vonatkozó szabályok, így különösen:
+## 3. Az erdészeti igazgatási egységek (erdőrészletek, erdőtagok) kialakításának körzeti erdőtervezési alapelvei
 
-## a) a faanyagtermelést nem szolgáló erdők lehatárolásának szempontjai
+## Az erdészeti igazgatási egységek kialakításra vonatkozó, az általános elvektől eltérő, jellemzően technikai jellegű körzeti erdőtervezési alapelvek.
 
-## b) szálaló és átalakító üzemmódban kezelendő erdők, erdőtömbök kialakításának szempontjai
+## 4. Az üzemmódok megállapítására vonatkozó körzeti erdőtervezési alapelvek
 
-## 6. A védelmi és közjóléti rendeltetésű erdők kezelésének szempontjai
+## Az erdőtervezési körzetre jellemző természeti és gazdálkodási viszonyok mellett az erdő üzemmódjának megállapítása során figyelembe veendő egyedi szempontok, így különösen
 
-## a) gyakorlati célkitűzések
+## a) a faanyagtermelést nem szolgáló erdők lehatárolásának szempontjai, valamint
 
-## b) természetvédelmi, vízügyi, egyéb védelmi stratégiák
+## b) a szálaló és átalakító üzemmódú erdők, erdőtömbök kialakításának szempontjai.
 
-## c) kezelési lehetőségek, korlátozások és tilalmak
+## 5. A közjóléti és védelmi rendeltetésű erdők körzeti erdőtervezésének alapelvei, valamint védett természeti terület esetében az erdőszerkezet-átalakítás tervezett üteme és mértéke
 
-## 7. A védett természeti területek esetében az erdőszerkezet-átalakítás tervezett üteme és mértéke
+## Az erdőtervezési körzet erdeiben fennálló konkrét és jelentős közjóléti illetve védelmi célok teljesülése érdekében indokolt, a körzeti erdőtervezés és az erdőtervek útján érvényesíthető erdőgazdálkodási korlátozások, előírások illetve javaslatok meghatározása az alábbi csoportosításban:
 
-## 8. A körzetben alkalmazandó vágásérettségi szakaszok meghatározása.
+## 5.1. Közjóléti rendeltetésű park- és gyógyerdők
 
-## A vágásos és átalakító üzemmódban kezelt erdőkre a vágásérettségi szakaszokat faállománytípus-csoportonként, az elsődleges rendeltetések, illetve a védelmi rendeltetésen belül védett és nem védett kategóriák szerint elkülönítve kell megadni.
+## 5.2. Természetvédelmi rendeltetésű erdők
 
-## 9. Az erdőnevelési beavatkozások során az előhasználatok tervezésének szabályai
+## 5.3. Natura 2000 rendeltetésű erdők
 
-## a) A vágásos és átalakító üzemmódban kezelt, gazdasági rendeltetésű erdőkben az egyes fakitermelési módok szerint elkülönítve kell a fakitermelések erélyét megadni, a kitermelhető fatömeggel, vagy körlapösszeggel jellemezve, annak legkisebb és legnagyobb értékét meghatározva.
+## 5.4. Egyéb védelmi rendeltetésű erdők
 
-## b) Faültetvény és kultúrerdő természetességi állapotba tartozó erdők esetén az erdőnevelései beavatkozások során végzett fakitermelések erélye az a) pontban foglaltaktól eltérő értékekkel is tervezhető.
+## 5.5. Az erdő rendeltetésétől független, a védett vagy fokozottan védett erdei fajok kedvező természetvédelmi helyzetét elősegítő erdőtervezési alapelvek
 
-## c) A vágásos és átalakító üzemmódban kezelt, védelmi és közjóléti rendeltetésű erdőkben az egyes fakitermelési módokra vonatkozó speciális tervezési szempontok.
+## Természetvédelmi rendeltetésű erdők esetében ha szükséges, a kötelezően végrehajtandó erdőszerkezet-átalakítások tervezett ütemére és mértékére is ki kell térni.
 
-## d) Az erdőnevelés során kímélendő fafajok felsorolása.
+## 6. A fakitermelések és erdőfelújítások körzeti erdőtervezésének alapelvei, valamint a fenntartható erdőgazdálkodás tartamosságát és fejlesztését szolgáló keretértékei
 
-## 10. Véghasználatokra és erdőfelújításokra vonatkozó keretszámok, feltételek meghatározása
+## A körzeti erdőtervezés során az erdőtervezési körzetre jellemző természeti- és faállományviszonyok mellett alkalmazandó, valamint a fentiekben meghatározott egyedi körzeti erdőtervezési szempontok érvényesítését szolgáló tervezési alapelvek és keretértékek (előhasználati erélyek, vágásérettségi szakaszok, valamint az egyes véghasználati módok 10 évre vonatkozó keretszámai) az alábbi csoportosításban:
 
-## a) A véghasználatra tervezhető legnagyobb terület meghatározása, ahol a területadatokat a tárgyévi aktuális adattári adatok, az elmúlt tervidőszak tapasztalatai, valamint a vágásérettségi korokra és az üzemmód változtatásra vonatkozó tervezési elképzelések alapján kell meghatározni.
+## 6.1. Az erdőnevelések erdőtervezésének alapelvei és keretértékei
 
-## b) A külön jogszabályban foglaltaktól eltérő erdőfelújítási határidők meghatározása.
+## 6.2. A véghasználatok és erdőfelújítások erdőtervezésének alapelvei és keretértékei
 
-## c) A tarvágásra jelölhető faállomány típusok meghatározása, kiemelt figyelemmel az őshonos fafajú erdőkre (hazai nyár, hazai fűz, éger).
+## Ebben a pontban lehet, illetve kell kitérni például az erdőtervezési körzet erdeire rendeltetéstől függetlenül érvényes alábbi erdőtervezési irányelvekre:
 
-## d) A hagyásfák és hagyásfa csoportok kialakításának módja, területi aránya, vagy mennyisége, szerkezete, fafaja.
+## 6.2.1. az erdőnevelések során kímélendő fafajok felsorolása,
 
-## e) A holtfa mennyiségére és területi elhelyezkedésére vonatkozó szempontok.
+## 6.2.2. a tarvágásra jelölhető faállomány típusok meghatározása, kiemelt figyelemmel az őshonos fafajú erdőkre (hazai nyár, hazai fűz, éger),
 
-## 11. A fakitermelések során végzett terepi anyagmozgatásra vonatkozó speciális szabályok
+## 6.2.3. a hagyásfák és hagyásfa csoportok kialakításának módja, területi aránya vagy mennyisége, szerkezete, fafaja, valamint
 
-## a) Az anyagmozgatások során érvényesítendő korlátozások az erdőtalaj, a források, az erdei tavak és vízfolyások, a fennmaradó faállomány védelme érdekében.
+## 6.2.4. a fakitermelések során visszahagyandó holtfa mennyisége, és területi elhelyezkedésének szempontjai.
 
-## b) Erdei rakodó kialakítására vonatkozó szempontok.
+## 7. A vegetációs időszak meghatározása a fakitermelések védett természeti területen történő korlátozása szempontjából
 
-## 12. A védett természeti terület esetében a vegetációs időszakra vonatkozó előírások
+## A természet védelméről szóló törvény 33. § (4) bekezdésében foglalt rendelkezés (védett természeti területeken fakitermelés végzése vegetációs időszakban) egyértelmű alkalmazhatósága érdekében a vegetációs időszak erdőtervezési körzetenként történő meghatározása.
 
-## 13. Az állami erdőkre vonatkozó speciális szabályok, különösen:
+## 8. A 100%-os állami tulajdonban lévő erdőkre vonatkozó erdőtervezési alapelvek.
 
-## a) Az erdő rendeltetésének megállapítására vonatkozó szabályok, különös tekintettel a talajvédelmi rendeltetésű erdőkre.
+4–6. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^19]
 
-## b) A tarvágásra jelölhető faállomány típusok meghatározása, kiemelt figyelemmel az őshonos fafajú erdőkre (hazai nyár, hazai fűz, éger)
-
-4–6. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^18]
-
-[^18]: A 4–6. mellékletet a 96/2011. (X. 17.) VM rendelet 15. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^19]: A 4–6. mellékletet a 96/2011. (X. 17.) VM rendelet 15. § (1) bekezdés e) pontja hatályon kívül helyezte.

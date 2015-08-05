@@ -1,6766 +1,6762 @@
-## Az erdőtervezési körzetek neve, illetve a körzeteket alkotó helységek jegyzéke és kódja
+## Az erdőtervezési körzetek, valamint a körzeteket alkotó helységek (név, erdészeti azonosító) listája a körzeti erdőtervezést végző megyei kormányhivatalok szerint
 
-## Erdőtervezési körzet    Helységek és kódjaik
+## 1. Pest Megyei Kormányhivatal
 
-## 01  Pest Megyei Kormányhivatal Erdészeti Igazgatósága
+## 1.1. Alsó-Tápió-vidéki erdőtervezési körzet
 
-## Alsó-Tápió-vidéki
+## 1.1.1. Farmos (5630)
 
-| Farmos | (5630) |
+## 1.1.2. Nagykáta (5639)
 
-| Nagykáta | (5639) |
+## 1.1.3. Tápióbicske (5644)
 
-| Tápióbicske | (5644) |
+## 1.1.4. Tápiógyörgye (5587)
 
-| Tápiógyörgye | (5587) |
+## 1.1.5. Tápiószele (5588)
 
-| Tápiószele | (5588) |
+## 1.1.6. Tápiószentmárton (5649)
 
-| Tápiószentmárton | (5649) |
+## 1.1.7. Tápiószőlős (5589)
 
-| Tápiószőlős | (5589) |
+## 1.2. Budai-hegyek erdőtervezési körzet
 
-## Budai-hegyek
+## 1.2.1. Biatorbágy (5555)
 
-| Biatorbágy | (5555) |
+## 1.2.2. Budajenő (5556)
 
-| Budajenő | (5556) |
+## 1.2.3. Budakeszi (5557)
 
-| Budakeszi | (5557) |
+## 1.2.4. Budaörs (5537)
 
-| Budaörs | (5537) |
+## 1.2.5. Diósd (5558)
 
-| Diósd | (5558) |
+## 1.2.6. Érd (5559)
 
-| Érd | (5559) |
+## 1.2.7. Herceghalom (5905)
 
-| Herceghalom | (5905) |
+## 1.2.8. Nagykovácsi (5560)
 
-| Nagykovácsi | (5560) |
+## 1.2.9. Páty (5561)
 
-| Páty | (5561) |
+## 1.2.10. Perbál (5562)
 
-| Perbál | (5562) |
+## 1.2.11. Pusztazámor (5565)
 
-| Pusztazámor | (5565) |
+## 1.2.12. Remeteszőlős (5686)
 
-| Remeteszőlős | (5686) |
+## 1.2.13. Sóskút (5566)
 
-| Sóskút | (5566) |
+## 1.2.14. Százhalombatta (5567)
 
-| Százhalombatta | (5567) |
+## 1.2.15. Tárnok (5568)
 
-| Tárnok | (5568) |
+## 1.2.16. Telki (5569)
 
-| Telki | (5569) |
+## 1.2.17. Tinnye (5570)
 
-| Tinnye | (5570) |
+## 1.2.18. Tök (5571)
 
-| Tök | (5571) |
+## 1.2.19. Törökbálint (5572)
 
-| Törökbálint | (5572) |
+## 1.2.20. Zsámbék (5573)
 
-| Zsámbék | (5573) |
+## 1.3. Budapesti erdőtervezési körzet
 
-## Budapesti
+## 1.3.1. Budapest_I. (9501)
 
-| Budapest, I. | (9501) |
+## 1.3.2. Budapest_II. (9502)
 
-| Budapest, II. | (9502) |
+## 1.3.3. Budapest_III. (9503)
 
-| Budapest, III. | (9503) |
+## 1.3.4. Budapest_IV. (9504)
 
-| Budapest, IV. | (9504) |
+## 1.3.5. Budapest_IX. (9509)
 
-| Budapest, V. | (9505) |
+## 1.3.6. Budapest_V. (9505)
 
-| Budapest, VI. | (9506) |
+## 1.3.7. Budapest_VI. (9506)
 
-| Budapest, VII. | (9507) |
+## 1.3.8. Budapest_VII. (9507)
 
-| Budapest, VIII. | (9508) |
+## 1.3.9. Budapest_VIII. (9508)
 
-| Budapest, IX. | (9509) |
+## 1.3.10. Budapest_X. (9510)
 
-| Budapest, X. | (9510) |
+## 1.3.11. Budapest_XI. (9511)
 
-| Budapest, XI. | (9511) |
+## 1.3.12. Budapest_XII. (9512)
 
-| Budapest, XII. | (9512) |
+## 1.3.13. Budapest_XIII. (9513)
 
-| Budapest, XIII. | (9513) |
+## 1.3.14. Budapest_XIV. (9514)
 
-| Budapest, XIV. | (9514) |
+## 1.3.15. Budapest_XIX. (9519)
 
-| Budapest, XV. | (9515) |
+## 1.3.16. Budapest_XV. (9515)
 
-| Budapest, XVI. | (9516) |
+## 1.3.17. Budapest_XVI. (9516)
 
-| Budapest, XVII. | (9517) |
+## 1.3.18. Budapest_XVII. (9517)
 
-| Budapest, XVIII. | (9518) |
+## 1.3.19. Budapest_XVIII. (9518)
 
-| Budapest, XIX. | (9519) |
+## 1.3.20. Budapest_XX. (9520)
 
-| Budapest, XX. | (9520) |
+## 1.3.21. Budapest_XXI. (9521)
 
-| Budapest, XXI. | (9521) |
+## 1.3.22. Budapest_XXII. (9522)
 
-| Budapest, XXII. | (9522) |
+## 1.3.23. Budapest_XXIII. (9523)
 
-| Budapest, XXIII. | (9523) |
+## 1.4. Csévharaszt-Felső-Tápió-vidéki erdőtervezési körzet
 
-## Csévharaszt-Felső-Tápió-vidéki
+## 1.4.1. Bénye (5628)
 
-| Bénye | (5628) |
+## 1.4.2. Csévharaszt (5621)
 
-| Csévharaszt | (5621) |
+## 1.4.3. Ecser (5629)
 
-| Ecser | (5629) |
+## 1.4.4. Felsőpakony (5631)
 
-| Felsőpakony | (5631) |
+## 1.4.5. Gomba (5632)
 
-| Gomba | (5632) |
+## 1.4.6. Gyál (5633)
 
-| Gyál | (5633) |
+## 1.4.7. Gyömrő (5634)
 
-| Gyömrő | (5634) |
+## 1.4.8. Inárcs (5622)
 
-| Inárcs | (5622) |
+## 1.4.9. Kakucs (5623)
 
-| Kakucs | (5623) |
+## 1.4.10. Káva (5635)
 
-| Káva | (5635) |
+## 1.4.11. Kóka (5636)
 
-| Kóka | (5636) |
+## 1.4.12. Maglód (5637)
 
-| Maglód | (5637) |
+## 1.4.13. Mende (5638)
 
-| Mende | (5638) |
+## 1.4.14. Monor (5624)
 
-| Monor | (5624) |
+## 1.4.15. Monorierdő (5646)
 
-| Monorierdő | (5646) |
+## 1.4.16. Nyáregyháza (5625)
 
-| Nyáregyháza | (5625) |
+## 1.4.17. Ócsa (5611)
 
-| Ócsa | (5611) |
+## 1.4.18. Pánd (5640)
 
-| Pánd | (5640) |
+## 1.4.19. Péteri (5641)
 
-| Péteri | (5641) |
+## 1.4.20. Sülysáp (5900)
 
-| Sülysáp | (5900) |
+## 1.4.21. Szentlőrinckáta (5642)
 
-| Szentlőrinckáta | (5642) |
+## 1.4.22. Szentmártonkáta (5643)
 
-| Szentmártonkáta | (5643) |
+## 1.4.23. Tápióság (5645)
 
-| Tápióság | (5645) |
+## 1.4.24. Tápiószecső (5648)
 
-| Tápiószecső | (5648) |
+## 1.4.25. Tóalmás (5650)
 
-| Tóalmás | (5650) |
+## 1.4.26. Újhartyán (5626)
 
-| Újhartyán | (5626) |
+## 1.4.27. Újlengyel (5598)
 
-| Újlengyel | (5598) |
+## 1.4.28. Úri (5651)
 
-| Úri | (5651) |
+## 1.4.29. Üllő (5652)
 
-| Üllő | (5652) |
+## 1.4.30. Vasad (5627)
 
-| Vasad | (5627) |
+## 1.4.31. Vecsés (5653)
 
-| Vecsés | (5653) |
+## 1.5. Dél-Vértesi erdőtervezési körzet
 
-## Dél-Vértesi
+## 1.5.1. Bodmér (2598)
 
-| Bodmér | (2598) |
+## 1.5.2. Csákberény (2589)
 
-| Csákberény | (2589) |
+## 1.5.3. Csákvár (2549)
 
-| Csákvár | (2549) |
+## 1.5.4. Gánt (2592)
 
-| Gánt | (2592) |
+## 1.5.5. Szár (2594)
 
-| Szár | (2594) |
+## 1.5.6. Szárliget (4581)
 
-| Szárliget | (4581) |
+## 1.5.7. Újbarok (2595)
 
-| Újbarok | (2595) |
+## 1.5.8. Vértesboglár (2578)
 
-| Vértesboglár | (2578) |
+## 1.6. Gerecsei erdőtervezési körzet
 
-## Gerecsei
+## 1.6.1. Annavölgy (4580)
 
-| Annavölgy | (4580) |
+## 1.6.2. Bajna (4526)
 
-| Bajna | (4526) |
+## 1.6.3. Bajót (4502)
 
-| Bajót | (4502) |
+## 1.6.4. Csolnok (4516)
 
-| Csolnok | (4516) |
+## 1.6.5. Dág (4517)
 
-| Dág | (4517) |
+## 1.6.6. Dorog (4518)
 
-| Dorog | (4518) |
+## 1.6.7. Dunaalmás (4545)
 
-| Dunaalmás | (4545) |
+## 1.6.8. Dunaszentmiklós (4510)
 
-| Dunaszentmiklós | (4510) |
+## 1.6.9. Epöl (4527)
 
-| Epöl | (4527) |
+## 1.6.10. Gyermely (4528)
 
-| Gyermely | (4528) |
+## 1.6.11. Héreg (4529)
 
-| Héreg | (4529) |
+## 1.6.12. Lábatlan (4511)
 
-| Lábatlan | (4511) |
+## 1.6.13. Leányvár (4519)
 
-| Leányvár | (4519) |
+## 1.6.14. Máriahalom (4520)
 
-| Máriahalom | (4520) |
+## 1.6.15. Mogyorósbánya (4505)
 
-| Mogyorósbánya | (4505) |
+## 1.6.16. Nagysáp (4521)
 
-| Nagysáp | (4521) |
+## 1.6.17. Neszmély (4512)
 
-| Neszmély | (4512) |
+## 1.6.18. Nyergesújfalu (4506)
 
-| Nyergesújfalu | (4506) |
+## 1.6.19. Sárisáp (4523)
 
-| Sárisáp | (4523) |
+## 1.6.20. Süttő (4513)
 
-| Süttő | (4513) |
+## 1.6.21. Szomód (4514)
 
-| Szomód | (4514) |
+## 1.6.22. Szomor (4530)
 
-| Szomor | (4530) |
+## 1.6.23. Tardos (4515)
 
-| Tardos | (4515) |
+## 1.6.24. Tát (4508)
 
-| Tát | (4508) |
+## 1.6.25. Tokod (4524)
 
-| Tokod | (4524) |
+## 1.6.26. Tokodaltáró (4579)
 
-| Tokodaltáró | (4579) |
+## 1.6.27. Úny (4525)
 
-| Úny | (4525) |
+## 1.7. Gerecse-Vértesi erdőtervezési körzet
 
-## Gerecse-Vértesi
+## 1.7.1. Baj (4541)
 
-| Baj | (4541) |
+## 1.7.2. Bicske (2593)
 
-| Bicske | (2593) |
+## 1.7.3. Bokod (4531)
 
-| Bokod | (4531) |
+## 1.7.4. Dad (4558)
 
-| Dad | (4558) |
+## 1.7.5. Kecskéd (4532)
 
-| Kecskéd | (4532) |
+## 1.7.6. Kömlőd (4534)
 
-| Kömlőd | (4534) |
+## 1.7.7. Környe (4535)
 
-| Környe | (4535) |
+## 1.7.8. Óbarok (2608)
 
-| Oroszlány | (4533) |
+## 1.7.9. Oroszlány (4533)
 
-| Óbarok | (2608) |
+## 1.7.10. Tarján (4575)
 
-| Tarján | (4575) |
+## 1.7.11. Tata (4553)
 
-| Tata | (4553) |
+## 1.7.12. Tata-Agostyán (4509)
 
-| Tata-Agostyán | (4509) |
+## 1.7.13. Tatabánya (4536)
 
-| Tatabánya | (4536) |
+## 1.7.14. Várgesztes (4537)
 
-| Várgesztes | (4537) |
+## 1.7.15. Vértessomló (4538)
 
-| Vértessomló | (4538) |
+## 1.7.16. Vértestolna (4576)
 
-| Vértestolna | (4576) |
+## 1.7.17. Vértesszőlős (4555)
 
-| Vértesszőlős | (4555) |
+## 1.8. Gödöllői erdőtervezési körzet
 
-## Gödöllői
+## 1.8.1. Acsa (5515)
 
-| Acsa (5515) |
+## 1.8.2. Aszód (5516)
 
-| Aszód (5516) |
+## 1.8.3. Csomád (5501)
 
-| Csomád (5501) |
+## 1.8.4. Csömör (5502)
 
-| Csömör (5502) |
+## 1.8.5. Domony (5503)
 
-| Domony (5503) |
+## 1.8.6. Dunakeszi (5504)
 
-| Dunakeszi (5504) |
+## 1.8.7. Erdőkertes (5505)
 
-| Erdőkertes (5505) |
+## 1.8.8. Fót (5507)
 
-| Fót (5507) |
+## 1.8.9. Galgagyörk (5517)
 
-| Galgagyörk (5517) |
+## 1.8.10. Galgamácsa (5518)
 
-| Galgamácsa (5518) |
+## 1.8.11. Göd (5901)
 
-| Göd (5901) |
+## 1.8.12. Gödöllő (5508)
 
-| Gödöllő (5508) |
+## 1.8.13. Iklad (5519)
 
-| Iklad (5519) |
+## 1.8.14. Kartal (5520)
 
-| Kartal (5520) |
+## 1.8.15. Kerepes (5509)
 
-| Kerepes (5509) |
+## 1.8.16. Kistarcsa (5510)
 
-| Kistarcsa (5510) |
+## 1.8.17. Mogyoród (5511)
 
-| Mogyoród (5511) |
+## 1.8.18. Nagytarcsa (5535)
 
-| Nagytarcsa (5535) |
+## 1.8.19. Őrbottyán (5903)
 
-| Őrbottyán (5903) |
+## 1.8.20. Szada (5512)
 
-| Szada (5512) |
+## 1.8.21. Vácegres (5523)
 
-| Vácegres (5523) |
+## 1.8.22. Váckisújfalu (5524)
 
-| Váckisújfalu (5524) |
+## 1.8.23. Veresegyház (5514)
 
-| Veresegyház (5514) |
+## 1.8.24. Verseg (5525)
 
-| Verseg (5525) |
+## 1.9. Gödöllői-dombság erdőtervezési körzet
 
-## Gödöllői-dombság
+## 1.9.1. Bag (5526)
 
-| Bag (5526) |
+## 1.9.2. Dány (5533)
 
-| Dány (5533) |
+## 1.9.3. Galgahévíz (5527)
 
-| Galgahévíz (5527) |
+## 1.9.4. Hévízgyörk (5528)
 
-| Hévízgyörk (5528) |
+## 1.9.5. Isaszeg (5534)
 
-| Isaszeg (5534) |
+## 1.9.6. Pécel (5536)
 
-| Pécel (5536) |
+## 1.9.7. Tura (5529)
 
-| Tura (5529) |
+## 1.9.8. Vácszentlászló (5531)
 
-| Vácszentlászló (5531) |
+## 1.9.9. Valkó (5530)
 
-| Valkó (5530) |
+## 1.9.10. Zsámbok (5532)
 
-| Zsámbok (5532) |
+## 1.10. Mezőföldi erdőtervezési körzet
 
-## Mezőföldi
+## 1.10.1. Adony (2500)
 
-| Adony | (2500) |
+## 1.10.2. Alap (2501)
 
-| Alap | (2501) |
+## 1.10.3. Alcsútdoboz (2547)
 
-| Alcsútdoboz | (2547) |
+## 1.10.4. Alsószentiván (2502)
 
-| Alsószentiván | (2502) |
+## 1.10.5. Baracs (2503)
 
-| Baracs | (2503) |
+## 1.10.6. Baracska (2548)
 
-| Baracska | (2548) |
+## 1.10.7. Beloiannisz (2504)
 
-| Beloiannisz | (2504) |
+## 1.10.8. Besnyő (2505)
 
-| Besnyő | (2505) |
+## 1.10.9. Cece (2506)
 
-| Cece | (2506) |
+## 1.10.10. Csabdi (2596)
 
-| Csabdi | (2596) |
+## 1.10.11. Daruszentmiklós (2609)
 
-| Daruszentmiklós | (2609) |
+## 1.10.12. Dunaújváros (2507)
 
-| Dunaújváros | (2507) |
+## 1.10.13. Előszállás (2508)
 
-| Előszállás | (2508) |
+## 1.10.14. Ercsi (2509)
 
-| Ercsi | (2509) |
+## 1.10.15. Etyek (2550)
 
-| Etyek | (2550) |
+## 1.10.16. Felcsút (2551)
 
-| Felcsút | (2551) |
+## 1.10.17. Gárdony (2553)
 
-| Gárdony | (2553) |
+## 1.10.18. Gyúró (2554)
 
-| Gyúró | (2554) |
+## 1.10.19. Hantos (2510)
 
-| Hantos | (2510) |
+## 1.10.20. Iváncsa (2511)
 
-| Iváncsa | (2511) |
+## 1.10.21. Kajászó (2556)
 
-| Kajászó | (2556) |
+## 1.10.22. Kápolnásnyék (2557)
 
-| Kápolnásnyék | (2557) |
+## 1.10.23. Kisapostag (2512)
 
-| Kisapostag | (2512) |
+## 1.10.24. Kőszárhegy (2558)
 
-| Kőszárhegy | (2558) |
+## 1.10.25. Kulcs (2607)
 
-| Kulcs | (2607) |
+## 1.10.26. Lovasberény (2580)
 
-| Lovasberény | (2580) |
+## 1.10.27. Magyaralmás (2559)
 
-| Magyaralmás | (2559) |
+## 1.10.28. Mány (2597)
 
-| Mány | (2597) |
+## 1.10.29. Martonvásár (2560)
 
-| Martonvásár | (2560) |
+## 1.10.30. Mezőfalva (2513)
 
-| Mezőfalva | (2513) |
+## 1.10.31. Moha (2561)
 
-| Moha | (2561) |
+## 1.10.32. Nadap (2562)
 
-| Nadap | (2562) |
+## 1.10.33. Nagykarácsony (2514)
 
-| Nagykarácsony | (2514) |
+## 1.10.34. Nagylók (2516)
 
-| Nagylók | (2516) |
+## 1.10.35. Nagyvenyim (2515)
 
-| Nagyvenyim | (2515) |
+## 1.10.36. Pákozd (2563)
 
-| Pákozd | (2563) |
+## 1.10.37. Pátka (2581)
 
-| Pátka | (2581) |
+## 1.10.38. Pázmánd (2564)
 
-| Pázmánd | (2564) |
+## 1.10.39. Perkáta (2517)
 
-| Perkáta | (2517) |
+## 1.10.40. Pusztaszabolcs (2518)
 
-| Pusztaszabolcs | (2518) |
+## 1.10.41. Rácalmás (2519)
 
-| Rácalmás | (2519) |
+## 1.10.42. Ráckeresztúr (2520)
 
-| Ráckeresztúr | (2520) |
+## 1.10.43. Sárbogárd (2521)
 
-| Sárbogárd | (2521) |
+## 1.10.44. Sárbogárd-Pusztaegres (2541)
 
-| Sárbogárd-Pusztaegres | (2541) |
+## 1.10.45. Sáregres (2522)
 
-| Sáregres | (2522) |
+## 1.10.46. Sárkeresztes (2566)
 
-| Sárkeresztes | (2566) |
+## 1.10.47. Sárkeszi (2605)
 
-| Sárkeszi | (2605) |
+## 1.10.48. Sárosd (2523)
 
-| Sárosd | (2523) |
+## 1.10.49. Sárszentmihály (2567)
 
-| Sárszentmihály | (2567) |
+## 1.10.50. Seregélyes (2525)
 
-| Seregélyes | (2525) |
+## 1.10.51. Söréd (2588)
 
-| Söréd | (2588) |
+## 1.10.52. Sukoró (2568)
 
-| Sukoró | (2568) |
+## 1.10.53. Szabadbattyán (2569)
 
-| Szabadbattyán | (2569) |
+## 1.10.54. Szabadegyháza (2526)
 
-| Szabadegyháza | (2526) |
+## 1.10.55. Székesfehérvár (2570)
 
-| Székesfehérvár | (2570) |
+## 1.10.56. Tabajd (2571)
 
-| Tabajd | (2571) |
+## 1.10.57. Tordas (2572)
 
-| Tordas | (2572) |
+## 1.10.58. Úrhida (2573)
 
-| Úrhida | (2573) |
+## 1.10.59. Vajta (2527)
 
-| Vajta | (2527) |
+## 1.10.60. Vál (2574)
 
-| Vál | (2574) |
+## 1.10.61. Velence (2575)
 
-| Velence | (2575) |
+## 1.10.62. Vereb (2576)
 
-| Vereb | (2576) |
+## 1.10.63. Vértesacsa (2577)
 
-| Vértesacsa | (2577) |
+## 1.10.64. Zámoly (2579)
 
-| Zámoly | (2579) |
+## 1.10.65. Zichyújfalu (2606)
 
-| Zichyújfalu | (2606) |
+## 1.11. Mezőföld-Sárrét erdőtervezési körzet
 
-## Mezőföld-Sárrét
+## 1.11.1. Aba (2528)
 
-| Aba | (2528) |
+## 1.11.2. Csősz (2529)
 
-| Csősz | (2529) |
+## 1.11.3. Dég (2530)
 
-| Dég | (2530) |
+## 1.11.4. Enying (2531)
 
-| Enying | (2531) |
+## 1.11.5. Füle (2552)
 
-| Füle | (2552) |
+## 1.11.6. Igar (2532)
 
-| Igar | (2532) |
+## 1.11.7. Jenő (2555)
 
-| Jenő | (2555) |
+## 1.11.8. Káloz (2533)
 
-| Káloz | (2533) |
+## 1.11.9. Kisláng (2534)
 
-| Kisláng | (2534) |
+## 1.11.10. Lajoskomárom (2535)
 
-| Lajoskomárom | (2535) |
+## 1.11.11. Lepsény (2536)
 
-| Lepsény | (2536) |
+## 1.11.12. Mátyásdomb (2537)
 
-| Mátyásdomb | (2537) |
+## 1.11.13. Mezőkomárom (2538)
 
-| Mezőkomárom | (2538) |
+## 1.11.14. Mezőszentgyörgy (2539)
 
-| Mezőszentgyörgy | (2539) |
+## 1.11.15. Mezőszilas (2540)
 
-| Mezőszilas | (2540) |
+## 1.11.16. Nádasdladány (2604)
 
-| Nádasdladány | (2604) |
+## 1.11.17. Polgárdi (2565)
 
-| Polgárdi | (2565) |
+## 1.11.18. Sárkeresztúr (2542)
 
-| Sárkeresztúr | (2542) |
+## 1.11.19. Sárszentágota (2543)
 
-| Sárszentágota | (2543) |
+## 1.11.20. Soponya (2544)
 
-| Soponya | (2544) |
+## 1.11.21. Szabadhidvég (2545)
 
-| Szabadhídvég | (2545) |
+## 1.11.22. Tác (2546)
 
-| Tác | (2546) |
+## 1.12. Nagykőrösi erdőtervezési körzet
 
-## Nagykőrösi
+## 1.12.1. Abony (5574)
 
-| Abony | (5574) |
+## 1.12.2. Cegléd (5576)
 
-| Cegléd | (5576) |
+## 1.12.3. Csemő (5578)
 
-| Csemő | (5578) |
+## 1.12.4. Jászkarajenő (5580)
 
-| Jászkarajenő | (5580) |
+## 1.12.5. Kocsér (5581)
 
-| Kocsér | (5581) |
+## 1.12.6. Kőröstetétlen (5582)
 
-| Kőröstetétlen | (5582) |
+## 1.12.7. Mikebuda (5583)
 
-| Mikebuda | (5583) |
+## 1.12.8. Nagykőrös (5584)
 
-| Nagykőrös | (5584) |
+## 1.12.9. Nyársapát (5585)
 
-| Nyársapát | (5585) |
+## 1.12.10. Törtel (5590)
 
-| Törtel | (5590) |
+## 1.12.11. Újszilvás (5591)
 
-| Újszilvás | (5591) |
+## 1.13. Pilisi-Visegrádi erdőtervezési körzet
 
-## Pilisi-Visegrádi
+## 1.13.1. Budakalász (5541)
 
-| Budakalász | (5541) |
+## 1.13.2. Csobánka (5542)
 
-| Csobánka | (5542) |
+## 1.13.3. Dunabogdány (5551)
 
-| Dunabogdány | (5551) |
+## 1.13.4. Kesztölc (4504)
 
-| Esztergom-Pilisszentkereszt | (5544) |
+## 1.13.5. Kisoroszi (5552)
 
-| Kesztölc | (4504) |
+## 1.13.6. Pilisborosjenő (5538)
 
-| Kisoroszi | (5552) |
+## 1.13.7. Piliscsaba (5563)
 
-| Pilisborosjenő | (5538) |
+## 1.13.8. Piliscsév (4522)
 
-| Piliscsaba | (5563) |
+## 1.13.9. Pilisjászfalu (5684)
 
-| Piliscsév | (4522) |
+## 1.13.10. Pilisvörösvár (5680)
 
-| Pilisjászfalu | (5684) |
+## 1.13.11. Pilisszántó (5543)
 
-| Pilisvörösvár | (5680) |
+## 1.13.12. Pilisszentiván (5564)
 
-| Pilisszántó | (5543) |
+## 1.13.13. Pilisszentkereszt (5544)
 
-| Pilisszentiván | (5564) |
+## 1.13.14. Pócsmegyer (5548)
 
-| Pócsmegyer | (5548) |
+## 1.13.15. Solymár (5539)
 
-| Solymár | (5539) |
+## 1.13.16. Tahitótfalu (5553)
 
-| Tahitótfalu | (5553) |
+## 1.13.17. Üröm (5540)
 
-| Üröm | (5540) |
+## 1.13.18. Visegrád (5554)
 
-| Visegrád | (5554) |
+## 1.14. Pilismaróti erdőtervezési körzet
 
-## Pilismaróti
+## 1.14.1. Dömös (4500)
 
-| Dömös | (4500) |
+## 1.14.2. Esztergom (4503)
 
-| Esztergom | (4503) |
+## 1.14.3. Esztergom-Pilisszentlélek (4507)
 
-| Esztergom-Pilisszentlélek | (4507) |
+## 1.14.4. Pilismarót (4501)
 
-| Pilismarót | (4501) |
+## 1.15. Pusztavacsi erdőtervezési körzet
 
-## Pusztavacsi
+## 1.15.1. Albertirsa (5575)
 
-| Albertirsa | (5575) |
+## 1.15.2. Alsónémedi (5599)
 
-| Alsónémedi | (5599) |
+## 1.15.3. Apaj (5904)
 
-| Apaj | (5904) |
+## 1.15.4. Áporka (5600)
 
-| Áporka | (5600) |
+## 1.15.5. Bugyi (5601)
 
-| Bugyi | (5601) |
+## 1.15.6. Ceglédbercel (5577)
 
-| Ceglédbercel | (5577) |
+## 1.15.7. Dabas (5592)
 
-| Dabas | (5592) |
+## 1.15.8. Dánszentmiklós (5579)
 
-| Dánszentmiklós | (5579) |
+## 1.15.9. Délegyháza (5602)
 
-| Délegyháza | (5602) |
+## 1.15.10. Dömsöd (5603)
 
-| Dömsöd | (5603) |
+## 1.15.11. Dunaharaszti (5604)
 
-| Dunaharaszti | (5604) |
+## 1.15.12. Dunavarsány (5605)
 
-| Dunavarsány | (5605) |
+## 1.15.13. Halásztelek (5606)
 
-| Halásztelek | (5606) |
+## 1.15.14. Hernád (5593)
 
-| Hernád | (5593) |
+## 1.15.15. Kiskunlacháza (5607)
 
-| Kiskunlacháza | (5607) |
+## 1.15.16. Lórév (5608)
 
-| Lórév | (5608) |
+## 1.15.17. Majosháza (5609)
 
-| Majosháza | (5609) |
+## 1.15.18. Makád (5610)
 
-| Makád | (5610) |
+## 1.15.19. Örkény (5594)
 
-| Örkény | (5594) |
+## 1.15.20. Pilis (5586)
 
-| Pilis | (5586) |
+## 1.15.21. Pusztavacs (5595)
 
-| Pusztavacs | (5595) |
+## 1.15.22. Ráckeve (5612)
 
-| Ráckeve | (5612) |
+## 1.15.23. Szigetbecse (5613)
 
-| Szigetbecse | (5613) |
+## 1.15.24. Szigetcsép (5614)
 
-| Szigetcsép | (5614) |
+## 1.15.25. Szigethalom (5615)
 
-| Szigethalom | (5615) |
+## 1.15.26. Szigetszentmárton (5616)
 
-| Szigetszentmárton | (5616) |
+## 1.15.27. Szigetszentmiklós (5617)
 
-| Szigetszentmiklós | (5617) |
+## 1.15.28. Szigetújfalu (5618)
 
-| Szigetújfalu | (5618) |
+## 1.15.29. Táborfalva (5597)
 
-| Táborfalva | (5597) |
+## 1.15.30. Taksony (5619)
 
-| Taksony | (5619) |
+## 1.15.31. Tatárszentgyörgy (5596)
 
-| Tatárszentgyörgy | (5596) |
+## 1.15.32. Tököl (5620)
 
-| Tököl | (5620) |
+## 1.16. Súri-Bakonyaljai erdőtervezési körzet
 
-## Súri-Bakonyaljai
+## 1.16.1. Ács (4540)
 
-| Ács | (4540) |
+## 1.16.2. Ácsteszér (4562)
 
-| Ácsteszér | (4562) |
+## 1.16.3. Aka (4573)
 
-| Aka | (4573) |
+## 1.16.4. Almásfüzitő (4539)
 
-| Almásfüzitő | (4539) |
+## 1.16.5. Ászár (4563)
 
-| Ászár | (4563) |
+## 1.16.6. Bábolna (4543)
 
-| Bábolna | (4543) |
+## 1.16.7. Bakonybánk (4564)
 
-| Bakonybánk | (4564) |
+## 1.16.8. Bakonycsernye (2582)
 
-| Bakonycsernye | (2582) |
+## 1.16.9. Bakonysárkány (4556)
 
-| Bakonysárkány | (4556) |
+## 1.16.10. Bakonyszombathely (4565)
 
-| Bakonyszombathely | (4565) |
+## 1.16.11. Balinka (2583)
 
-| Balinka | (2583) |
+## 1.16.12. Bana (4542)
 
-| Bana | (4542) |
+## 1.16.13. Bársonyos (4566)
 
-| Bársonyos | (4566) |
+## 1.16.14. Bodajk (2584)
 
-| Bodajk | (2584) |
+## 1.16.15. Császár (4557)
 
-| Császár | (4557) |
+## 1.16.16. Csatka (4567)
 
-| Csatka | (4567) |
+## 1.16.17. Csém (4578)
 
-| Csém | (4578) |
+## 1.16.18. Csép (4544)
 
-| Csép | (4544) |
+## 1.16.19. Csókakő (2590)
 
-| Csókakő | (2590) |
+## 1.16.20. Ete (4568)
 
-| Ete | (4568) |
+## 1.16.21. Fehérvárcsurgó (2585)
 
-| Fehérvárcsurgó | (2585) |
+## 1.16.22. Hánta (4569)
 
-| Hánta | (4569) |
+## 1.16.23. Kerékteleki (4570)
 
-| Kerékteleki | (4570) |
+## 1.16.24. Kisbér (4571)
 
-| Kisbér | (4571) |
+## 1.16.25. Kisigmánd (4546)
 
-| Kisigmánd | (4546) |
+## 1.16.26. Kocs (4547)
 
-| Kocs | (4547) |
+## 1.16.27. Komárom (4548)
 
-| Komárom | (4548) |
+## 1.16.28. Mocsa (4549)
 
-| Mocsa | (4549) |
+## 1.16.29. Mór (2586)
 
-| Mór | (2586) |
+## 1.16.30. Nagyigmánd (4550)
 
-| Nagyigmánd | (4550) |
+## 1.16.31. Nagyveleg (2587)
 
-| Nagyveleg | (2587) |
+## 1.16.32. Naszály (4551)
 
-| Naszály | (4551) |
+## 1.16.33. Pusztavám (2591)
 
-| Pusztavám | (2591) |
+## 1.16.34. Réde (4572)
 
-| Réde | (4572) |
+## 1.16.35. Súr (4574)
 
-| Súr | (4574) |
+## 1.16.36. Szákszend-Szák (4559)
 
-| Szákszend-Szák | (4559) |
+## 1.16.37. Szákszend-Szend (4560)
 
-| Szákszend-Szend | (4560) |
+## 1.16.38. Tárkány (4554)
 
-| Tárkány | (4554) |
+## 1.16.39. Vérteskethely (4561)
 
-| Vérteskethely | (4561) |
+## 1.17. Szentendrei erdőtervezési körzet
 
-## Szentendrei
+## 1.17.1. Leányfalu (5546)
 
-| Leányfalu | (5546) |
+## 1.17.2. Pilisszentlászló (5547)
 
-| Pilisszentlászló | (5547) |
+## 1.17.3. Pomáz (5545)
 
-| Pomáz | (5545) |
+## 1.17.4. Szentendre (5549)
 
-| Szentendre | (5549) |
+## 1.17.5. Szigetmonostor (5550)
 
-| Szigetmonostor | (5550) |
+## 2. Veszprém Megyei Kormányhivatal
 
-## 02 Veszprém Megyei Kormányhivatal Erdészeti Igazgatósága
+## 2.1. Bakonyszentlászlói erdőtervezési körzet
 
-## Bakonyszentlászlói
+## 2.1.1. Bakonygyirót (3176)
 
-| Bakonygyirót | (3176) |
+## 2.1.2. Bakonyoszlop (8695)
 
-| Bakonyoszlop | (8695) |
+## 2.1.3. Bakonyszentkirály (8697)
 
-| Bakonyszentkirály | (8697) |
+## 2.1.4. Bakonyszentlászló (3177)
 
-| Bakonyszentlászló | (3177) |
+## 2.1.5. Bakonyszücs (8691)
 
-| Bakonyszücs | (8691) |
+## 2.1.6. Bakonytamási (8699)
 
-| Bakonytamási | (8699) |
+## 2.1.7. Csesznek (8700)
 
-| Csesznek | (8700) |
+## 2.1.8. Fenyőfő (3175)
 
-| Fenyőfő | (3175) |
+## 2.1.9. Gic (8701)
 
-| Gic | (8701) |
+## 2.1.10. Lázi (3411)
 
-| Lázi | (3411) |
+## 2.1.11. Pápateszér (8712)
 
-| Pápateszér | (8712) |
+## 2.1.12. Románd (3178)
 
-| Románd | (3178) |
+## 2.1.13. Sikátor (3179)
 
-| Sikátor | (3179) |
+## 2.1.14. Veszprémvarsány (3180)
 
-| Veszprémvarsány | (3180) |
+## 2.2. Balatonfüredi erdőtervezési körzet
 
-## Balatonfüredi
+## 2.2.1. Alsóörs (8536)
 
-| Alsóörs | (8536) |
+## 2.2.2. Aszófő (8556)
 
-| Aszófő | (8556) |
+## 2.2.3. Balatonakali (8557)
 
-| Balatonakali | (8557) |
+## 2.2.4. Balatonalmádi (8537)
 
-| Balatonakarattya | (8620) |
+## 2.2.5. Balatonalmádi-Vörösberény (8555)
 
-| Balatonalmádi | (8537) |
+## 2.2.6. Balatonfőkajár (8538)
 
-| Balatonalmádi-Vörösberény | (8555) |
+## 2.2.7. Balatonfüred (8558)
 
-| Balatonfőkajár | (8538) |
+## 2.2.8. Balatonfűzfő (8539)
 
-| Balatonfüred | (8558) |
+## 2.2.9. Balatonkenese (8540)
 
-| Balatonfűzfő | (8539) |
+## 2.2.10. Balatonszepezd (8578)
 
-| Balatonkenese | (8540) |
+## 2.2.11. Balatonszőlős (8559)
 
-| Balatonszepezd | (8578) |
+## 2.2.12. Balatonudvari (8560)
 
-| Balatonszőlős | (8559) |
+## 2.2.13. Balatonvilágos (8541)
 
-| Balatonudvari | (8560) |
+## 2.2.14. Barnag (8561)
 
-| Balatonvilágos | (8541) |
+## 2.2.15. Berhida (8542)
 
-| Barnag | (8561) |
+## 2.2.16. Csajág (8543)
 
-| Berhida | (8542) |
+## 2.2.17. Csopak (8562)
 
-| Csajág | (8543) |
+## 2.2.18. Dörgicse (8563)
 
-| Csopak | (8562) |
+## 2.2.19. Felsőörs (8544)
 
-| Dörgicse | (8563) |
+## 2.2.20. Hidegkút (8564)
 
-| Felsőörs | (8544) |
+## 2.2.21. Királyszentistván (8545)
 
-| Hidegkút | (8564) |
+## 2.2.22. Küngös (8546)
 
-| Királyszentistván | (8545) |
+## 2.2.23. Litér (8547)
 
-| Küngös | (8546) |
+## 2.2.24. Lovas (8548)
 
-| Litér | (8547) |
+## 2.2.25. Mencshely (8566)
 
-| Lovas | (8548) |
+## 2.2.26. Óbudavár (8593)
 
-| Mencshely | (8566) |
+## 2.2.27. Örvényes (8567)
 
-| Óbudavár | (8593) |
+## 2.2.28. Ősi (8549)
 
-| Örvényes | (8567) |
+## 2.2.29. Paloznak (8550)
 
-| Ősi | (8549) |
+## 2.2.30. Papkeszi (8551)
 
-| Paloznak | (8550) |
+## 2.2.31. Pécsely (8568)
 
-| Papkeszi | (8551) |
+## 2.2.32. Sóly (8552)
 
-| Pécsely | (8568) |
+## 2.2.33. Szentkirályszabadja (8553)
 
-| Sóly | (8552) |
+## 2.2.34. Tagyon (8601)
 
-| Szentkirályszabadja | (8553) |
+## 2.2.35. Tihany (8569)
 
-| Tagyon | (8601) |
+## 2.2.36. Vászoly (8570)
 
-| Tihany | (8569) |
+## 2.2.37. Veszprémfajsz (8571)
 
-| Vászoly | (8570) |
+## 2.2.38. Vilonya (8554)
 
-| Veszprémfajsz | (8571) |
+## 2.2.39. Vöröstó (8572)
 
-| Vilonya | (8554) |
+## 2.2.40. Zánka (8604)
 
-| Vöröstó | (8572) |
+## 2.3. Devecseri erdőtervezési körzet
 
-| Zánka | (8604) |
+## 2.3.1. Apácatorna (8663)
 
-## Devecseri
+## 2.3.2. Bodorfa (8664)
 
-| Apácatorna | (8663) |
+## 2.3.3. Borszörcsök (8665)
 
-| Bodorfa | (8664) |
+## 2.3.4. Csabrendek (8636)
 
-| Borszörcsök | (8665) |
+## 2.3.5. Dabronc (8637)
 
-| Csabrendek | (8636) |
+## 2.3.6. Devecser (8666)
 
-| Dabronc | (8637) |
+## 2.3.7. Doba (8667)
 
-| Devecser | (8666) |
+## 2.3.8. Gógánfa (8639)
 
-| Doba | (8667) |
+## 2.3.9. Gyepükaján (8640)
 
-| Gógánfa | (8639) |
+## 2.3.10. Hetyefő (8641)
 
-| Gyepükaján | (8640) |
+## 2.3.11. Hosztót (8642)
 
-| Hetyefő | (8641) |
+## 2.3.12. Iszkáz (8668)
 
-| Hosztót | (8642) |
+## 2.3.13. Kamond (8669)
 
-| Iszkáz | (8668) |
+## 2.3.14. Káptalanfa (8671)
 
-| Kamond | (8669) |
+## 2.3.15. Karakószörcsök (8670)
 
-| Káptalanfa | (8671) |
+## 2.3.16. Kerta (8672)
 
-| Karakószörcsök | (8670) |
+## 2.3.17. Kisberzseny (8673)
 
-| Kerta | (8672) |
+## 2.3.18. Kolontár (8674)
 
-| Kisberzseny | (8673) |
+## 2.3.19. Megyer (8645)
 
-| Kolontár | (8674) |
+## 2.3.20. Nemeshany (8675)
 
-| Megyer | (8645) |
+## 2.3.21. Nyirád (8605)
 
-| Nemeshany | (8675) |
+## 2.3.22. Oroszi (8676)
 
-| Nyirád | (8605) |
+## 2.3.23. Pusztamiske (8606)
 
-| Oroszi | (8676) |
+## 2.3.24. Rigács (8649)
 
-| Pusztamiske | (8606) |
+## 2.3.25. Somlójenő (8677)
 
-| Rigács | (8649) |
+## 2.3.26. Somlószőlős (8678)
 
-| Somlójenő | (8677) |
+## 2.3.27. Somlóvásárhely (8679)
 
-| Somlószőlős | (8678) |
+## 2.3.28. Szentimrefalva (8653)
 
-| Somlóvásárhely | (8679) |
+## 2.3.29. Tüskevár (8680)
 
-| Szentimrefalva | (8653) |
+## 2.3.30. Ukk (8654)
 
-| Tüskevár | (8680) |
+## 2.3.31. Veszprémgalsa (8658)
 
-| Ukk | (8654) |
+## 2.3.32. Zalaerdőd (8657)
 
-| Veszprémgalsa | (8658) |
+## 2.3.33. Zalagyömörő (8659)
 
-| Zalaerdőd | (8657) |
+## 2.3.34. Zalameggyes (8660)
 
-| Zalagyömörő | (8659) |
+## 2.3.35. Zalaszegvár (8662)
 
-| Zalameggyes | (8660) |
+## 2.4. Farkasgyepűi erdőtervezési körzet
 
-| Zalaszegvár | (8662) |
+## 2.4.1. Bakonybél (8690)
 
-## Farkasgyepüi
+## 2.4.2. Bakonyjákó (8682)
 
-| Bakonybél | (8690) |
+## 2.4.3. Bakonyjákó-Iharkút (8687)
 
-| Bakonyjákó | (8682) |
+## 2.4.4. Bakonykoppány (8707)
 
-| Bakonyjákó-Iharkút | (8687) |
+## 2.4.5. Csehbánya (8684)
 
-| Bakonykoppány | (8707) |
+## 2.4.6. Farkasgyepű (8685)
 
-| Csehbánya | (8684) |
+## 2.4.7. Ganna (8686)
 
-| Farkasgyepű | (8685) |
+## 2.4.8. Homokbödöge (8710)
 
-| Ganna | (8686) |
+## 2.4.9. Kislőd (8524)
 
-| Homokbödöge | (8710) |
+## 2.4.10. Magyarpolány (8688)
 
-| Kislőd | (8524) |
+## 2.4.11. Nagytevel (8711)
 
-| Magyarpolány | (8688) |
+## 2.4.12. Németbánya (8689)
 
-| Nagytevel | (8711) |
+## 2.4.13. Ugod (8693)
 
-| Németbánya | (8689) |
+## 2.4.14. Városlőd (8527)
 
-| Ugod | (8693) |
+## 2.5. Kab-hegyi erdőtervezési körzet
 
-| Városlőd | (8527) |
+## 2.5.1. Ajka (8528)
 
-## Kab-hegyi
+## 2.5.2. Ajka-Ajkarendek (8529)
 
-| Ajka | (8528) |
+## 2.5.3. Ajka-Bakonygyepes (8683)
 
-| Ajka-Ajkarendek | (8529) |
+## 2.5.4. Ajka-Padragkút (8533)
 
-| Ajka-Bakonygyepes | (8683) |
+## 2.5.5. Bánd (8510)
 
-| Ajka-Padragkút | (8533) |
+## 2.5.6. Hárskút (8512)
 
-| Bánd | (8510) |
+## 2.5.7. Herend (8523)
 
-| Hárskút | (8512) |
+## 2.5.8. Nagyvázsony (8531)
 
-| Herend | (8523) |
+## 2.5.9. Nemesvámos (8516)
 
-| Nagyvázsony | (8531) |
+## 2.5.10. Öcs (8532)
 
-| Nemesvámos | (8516) |
+## 2.5.11. Pula (8534)
 
-| Öcs | (8532) |
+## 2.5.12. Szentgál (8525)
 
-| Pula | (8534) |
+## 2.5.13. Tótvázsony (8526)
 
-| Szentgál | (8525) |
+## 2.5.14. Úrkút (8535)
 
-| Tótvázsony | (8526) |
+## 2.6. Keszthelyi-hegység erdőtervezési körzet
 
-| Úrkút | (8535) |
+## 2.6.1. Balatonederics (8614)
 
-## Keszthelyi-hegység
+## 2.6.2. Balatongyörök (9401)
 
-| Balatonederics | (8614) |
+## 2.6.3. Bazsi (8635)
 
-| Balatongyörök | (9401) |
+## 2.6.4. Cserszegtomaj (9408)
 
-| Bazsi | (8635) |
+## 2.6.5. Gyenesdiás (9402)
 
-| Cserszegtomaj | (9408) |
+## 2.6.6. Keszthely (9412)
 
-| Gyenesdiás | (9402) |
+## 2.6.7. Lesencefalu (8617)
 
-| Keszthely | (9412) |
+## 2.6.8. Lesenceistvánd (8611)
 
-| Lesencefalu | (8617) |
+## 2.6.9. Nemesvita (8618)
 
-| Lesenceistvánd | (8611) |
+## 2.6.10. Rezi (9403)
 
-| Nemesvita | (8618) |
+## 2.6.11. Sümeg (8613)
 
-| Rezi | (9403) |
+## 2.6.12. Sümegprága (8651)
 
-| Sümeg | (8613) |
+## 2.6.13. Uzsa (8619)
 
-| Sümegprága | (8651) |
+## 2.6.14. Vállus (9404)
 
-| Uzsa | (8619) |
+## 2.6.15. Várvölgy (9405)
 
-| Vállus | (9404) |
+## 2.6.16. Vonyarcvashegy (9406)
 
-| Várvölgy | (9405) |
+## 2.6.17. Zalaszántó (9429)
 
-| Vonyarcvashegy | (9406) |
+## 2.7. Pápai erdőtervezési körzet
 
-| Zalaszántó | (9429) |
+## 2.7.1. Adásztevel (8706)
 
-## Pápai
+## 2.7.2. Adorjánháza (8713)
 
-| Adásztevel | (8706) |
+## 2.7.3. Bakonypölöske (8714)
 
-| Adorjánháza | (8713) |
+## 2.7.4. Bakonyság (8741)
 
-| Bakonypölöske | (8714) |
+## 2.7.5. Bakonyszentiván (8742)
 
-| Bakonyság | (8741) |
+## 2.7.6. Béb (8708)
 
-| Bakonyszentiván | (8742) |
+## 2.7.7. Békás (8743)
 
-| Béb | (8708) |
+## 2.7.8. Csikvánd (3404)
 
-| Békás | (8743) |
+## 2.7.9. Csót (8709)
 
-| Csikvánd | (3404) |
+## 2.7.10. Csögle (8716)
 
-| Csót | (8709) |
+## 2.7.11. Dabrony (8717)
 
-| Csögle | (8716) |
+## 2.7.12. Dáka (8718)
 
-| Dabrony | (8717) |
+## 2.7.13. Döbrönte (8719)
 
-| Dáka | (8718) |
+## 2.7.14. Egeralja (8766)
 
-| Döbrönte | (8719) |
+## 2.7.15. Egyházaskesző (8745)
 
-| Egeralja | (8766) |
+## 2.7.16. Gecse (8746)
 
-| Egyházaskesző | (8745) |
+## 2.7.17. Gyarmat (3405)
 
-| Gecse | (8746) |
+## 2.7.18. Kemeneshőgyész (8748)
 
-| Gyarmat | (3405) |
+## 2.7.19. Kemenesszentpéter (8749)
 
-| Kemeneshőgyész | (8748) |
+## 2.7.20. Kiscsősz (8721)
 
-| Kemenesszentpéter | (8749) |
+## 2.7.21. Kispirit (8722)
 
-| Kiscsősz | (8721) |
+## 2.7.22. Kisszőlős (8723)
 
-| Kispirit | (8722) |
+## 2.7.23. Kup (8724)
 
-| Kisszőlős | (8723) |
+## 2.7.24. Külsővat (8725)
 
-| Kup | (8724) |
+## 2.7.25. Lovászpatona (8750)
 
-| Külsővat | (8725) |
+## 2.7.26. Magyargencs (8751)
 
-| Lovászpatona | (8750) |
+## 2.7.27. Malomsok (8752)
 
-| Magyargencs | (8751) |
+## 2.7.28. Marcalgergelyi (8726)
 
-| Malomsok | (8752) |
+## 2.7.29. Marcaltő (8753)
 
-| Marcalgergelyi | (8726) |
+## 2.7.30. Mezőlak (8754)
 
-| Marcaltő | (8753) |
+## 2.7.31. Mihályháza (8727)
 
-| Mezőlak | (8754) |
+## 2.7.32. Nagyacsád (8755)
 
-| Mihályháza | (8727) |
+## 2.7.33. Nagyalásony (8728)
 
-| Nagyacsád | (8755) |
+## 2.7.34. Nagydém (8756)
 
-| Nagyalásony | (8728) |
+## 2.7.35. Nagygyimót (8757)
 
-| Nagydém | (8756) |
+## 2.7.36. Nagypirit (8729)
 
-| Nagygyimót | (8757) |
+## 2.7.37. Nemesgörzsöny (8758)
 
-| Nagypirit | (8729) |
+## 2.7.38. Nemesszalók (8730)
 
-| Nemesgörzsöny | (8758) |
+## 2.7.39. Nóráp (8731)
 
-| Nemesszalók | (8730) |
+## 2.7.40. Noszlop (8732)
 
-| Nóráp | (8731) |
+## 2.7.41. Nyárád (8733)
 
-| Noszlop | (8732) |
+## 2.7.42. Pápa (8759)
 
-| Nyárád | (8733) |
+## 2.7.43. Pápadereske (8734)
 
-| Pápa | (8759) |
+## 2.7.44. Pápa-Kéttornyúlak (8720)
 
-| Pápadereske | (8734) |
+## 2.7.45. Pápakovácsi (8735)
 
-| Pápa-Kéttornyúlak | (8720) |
+## 2.7.46. Pápasalamon (8736)
 
-| Pápakovácsi | (8735) |
+## 2.7.47. Pápa-Tapolcafő (8738)
 
-| Pápasalamon | (8736) |
+## 2.7.48. Somlóvecse (8737)
 
-| Pápa-Tapolcafő | (8738) |
+## 2.7.49. Szerecseny (3406)
 
-| Somlóvecse | (8737) |
+## 2.7.50. Takácsi (8761)
 
-| Szerecseny | (3406) |
+## 2.7.51. Vanyola (8762)
 
-| Takácsi | (8761) |
+## 2.7.52. Várkesző (8764)
 
-| Vanyola | (8762) |
+## 2.7.53. Vaszar (8763)
 
-| Várkesző | (8764) |
+## 2.7.54. Vid (8739)
 
-| Vaszar | (8763) |
+## 2.7.55. Vinár (8740)
 
-| Vid | (8739) |
+## 2.8. Tapolcai erdőtervezési körzet
 
-| Vinár | (8740) |
+## 2.8.1. Ábrahámhegy (8900)
 
-## Tapolcai
+## 2.8.2. Badacsonytomaj (8573)
 
-| Ábrahámhegy | (8900) |
+## 2.8.3. Badacsonytördemic (8574)
 
-| Badacsonytomaj | (8573) |
+## 2.8.4. Balatoncsicsó (8575)
 
-| Badacsonytördemic | (8574) |
+## 2.8.5. Balatonhenye (8576)
 
-| Balatoncsicsó | (8575) |
+## 2.8.6. Balatonrendes (8765)
 
-| Balatonhenye | (8576) |
+## 2.8.7. Gyulakeszi (8580)
 
-| Balatonrendes | (8765) |
+## 2.8.8. Halimba (8530)
 
-| Gyulakeszi | (8580) |
+## 2.8.9. Hegyesd (8581)
 
-| Halimba | (8530) |
+## 2.8.10. Hegymagas (8582)
 
-| Hegyesd | (8581) |
+## 2.8.11. Kapolcs (8583)
 
-| Hegymagas | (8582) |
+## 2.8.12. Káptalantóti (8584)
 
-| Kapolcs | (8583) |
+## 2.8.13. Kékkút (8585)
 
-| Káptalantóti | (8584) |
+## 2.8.14. Kisapáti (8586)
 
-| Kékkút | (8585) |
+## 2.8.15. Kővágóörs (8587)
 
-| Kisapáti | (8586) |
+## 2.8.16. Köveskál (8588)
 
-| Kővágóörs | (8587) |
+## 2.8.17. Lesencetomaj (8612)
 
-| Köveskál | (8588) |
+## 2.8.18. Mindszentkálla (8589)
 
-| Lesencetomaj | (8612) |
+## 2.8.19. Monostorapáti (8590)
 
-| Mindszentkálla | (8589) |
+## 2.8.20. Monoszló (8591)
 
-| Monostorapáti | (8590) |
+## 2.8.21. Nemesgulács (8592)
 
-| Monoszló | (8591) |
+## 2.8.22. Raposka (8594)
 
-| Nemesgulács | (8592) |
+## 2.8.23. Révfülöp (8595)
 
-| Raposka | (8594) |
+## 2.8.24. Salföld (8596)
 
-| Révfülöp | (8595) |
+## 2.8.25. Sáska (8607)
 
-| Salföld | (8596) |
+## 2.8.26. Szentantalfa (8597)
 
-| Sáska | (8607) |
+## 2.8.27. Szentbékkálla (8598)
 
-| Szentantalfa | (8597) |
+## 2.8.28. Szentjakabfa (8599)
 
-| Szentbékkálla | (8598) |
+## 2.8.29. Szigliget (8600)
 
-| Szentjakabfa | (8599) |
+## 2.8.30. Szőc (8608)
 
-| Szigliget | (8600) |
+## 2.8.31. Taliándörögd (8609)
 
-| Szőc | (8608) |
+## 2.8.32. Tapolca (8602)
 
-| Taliándörögd | (8609) |
+## 2.8.33. Tapolca-Diszel (8579)
 
-| Tapolca | (8602) |
+## 2.8.34. Vigántpetend (8603)
 
-| Tapolca-Diszel | (8579) |
+## 2.8.35. Zalahaláp (8610)
 
-| Vigántpetend | (8603) |
+## 2.9. Várpalotai erdőtervezési körzet
 
-| Zalahaláp | (8610) |
+## 2.9.1. Bakonykúti (2600)
 
-## Várpalotai
+## 2.9.2. Bakonynána (8500)
 
-| Bakonykúti | (2600) |
+## 2.9.3. Csetény (8501)
 
-| Bakonynána | (8500) |
+## 2.9.4. Csór (2601)
 
-| Csetény | (8501) |
+## 2.9.5. Dudar (8502)
 
-| Csór | (2601) |
+## 2.9.6. Iszkaszentgyörgy (2602)
 
-| Dudar | (8502) |
+## 2.9.7. Isztimér (2599)
 
-| Iszkaszentgyörgy | (2602) |
+## 2.9.8. Jásd (8503)
 
-| Isztimér | (2599) |
+## 2.9.9. Kincsesbánya (2603)
 
-| Jásd | (8503) |
+## 2.9.10. Olaszfalu (8504)
 
-| Kincsesbánya | (2603) |
+## 2.9.11. Öskü (8508)
 
-| Olaszfalu | (8504) |
+## 2.9.12. Pétfürdő (8768)
 
-| Öskü | (8508) |
+## 2.9.13. Szápár (8505)
 
-| Pétfürdő | (8768) |
+## 2.9.14. Tés (8506)
 
-| Szápár | (8505) |
+## 2.9.15. Várpalota (8509)
 
-| Tés | (8506) |
+## 2.10. Zirci erdőtervezési körzet
 
-| Várpalota | (8509) |
+## 2.10.1. Borzavár (8518)
 
-## Zirci
+## 2.10.2. Eplény (8767)
 
-| Borzavár | (8518) |
+## 2.10.3. Hajmáskér (8507)
 
-| Eplény | (8767) |
+## 2.10.4. Lókút (8514)
 
-| Hajmáskér | (8507) |
+## 2.10.5. Márkó (8515)
 
-| Lókút | (8514) |
+## 2.10.6. Nagyesztergár (8519)
 
-| Márkó | (8515) |
+## 2.10.7. Pénzesgyőr (8520)
 
-| Nagyesztergár | (8519) |
+## 2.10.8. Porva (8521)
 
-| Pénzesgyőr | (8520) |
+## 2.10.9. Veszprém (8517)
 
-| Porva | (8521) |
+## 2.10.10. Veszprém-Gyulafirátót (8511)
 
-| Veszprém | (8517) |
+## 2.10.11. Veszprém-Kádárta (8513)
 
-| Veszprém-Gyulafirátót | (8511) |
+## 2.10.12. Zirc (8522)
 
-| Veszprém-Kádárta | (8513) |
+## 3. Vas Megyei Kormányhivatal
 
-| Zirc | (8522) |
+## 3.1. Alpokaljai erdőtervezési körzet
 
-## 03 Vas Megyei Kormányhivatal Erdészeti Igazgatósága
+## 3.1.1. Bozsok (8000)
 
-## Alpokaljai
+## 3.1.2. Cák (8001)
 
-| Bozsok | (8000) |
+## 3.1.3. Csepreg (8002)
 
-| Cák | (8001) |
+## 3.1.4. Gyöngyösfalu (8003)
 
-| Csepreg | (8002) |
+## 3.1.5. Horvátzsidány (8004)
 
-| Gyöngyösfalu | (8003) |
+## 3.1.6. Kiszsidány (8005)
 
-| Horvátzsidány | (8004) |
+## 3.1.7. Kőszeg (8006)
 
-| Kiszsidány | (8005) |
+## 3.1.8. Kőszegdoroszló (8007)
 
-| Kőszeg | (8006) |
+## 3.1.9. Kőszegpaty (8008)
 
-| Kőszegdoroszló | (8007) |
+## 3.1.10. Kőszegszerdahely (8009)
 
-| Kőszegpaty | (8008) |
+## 3.1.11. Lukácsháza (8010)
 
-| Kőszegszerdahely | (8009) |
+## 3.1.12. Nemescsó (8011)
 
-| Lukácsháza | (8010) |
+## 3.1.13. Ólmod (8012)
 
-| Nemescsó | (8011) |
+## 3.1.14. Peresznye (8013)
 
-| Ólmod | (8012) |
+## 3.1.15. Pusztacsó (8014)
 
-| Peresznye | (8013) |
+## 3.1.16. Tömörd (8015)
 
-| Pusztacsó | (8014) |
+## 3.1.17. Velem (8016)
 
-| Tömörd | (8015) |
+## 3.2. Alsó-Őrségi erdőtervezési körzet
 
-| Velem | (8016) |
+## 3.2.1. Bajánsenye (8214)
 
-## Alsó-Kemenesháti
+## 3.2.2. Felsőjánosfa (8215)
 
-| Bejcgyertyános | (8126) |
+## 3.2.3. Hegyhátszentjakab (8216)
 
-| Boba | (8107) |
+## 3.2.4. Ispánk (8217)
 
-| Borgáta | (8108) |
+## 3.2.5. Kercaszomor (8218)
 
-| Celldömölk | (8110) |
+## 3.2.6. Kerkáskápolna (8219)
 
-| Duka | (8111) |
+## 3.2.7. Kisrákos (8220)
 
-| Egyházashetye | (8112) |
+## 3.2.8. Nagyrákos (8221)
 
-| Gérce | (8130) |
+## 3.2.9. Őrimagyarósd (8191)
 
-| Jánosháza | (8115) |
+## 3.2.10. Őriszentpéter (8222)
 
-| Káld | (8131) |
+## 3.2.11. Pankasz (8223)
 
-| Karakó | (8116) |
+## 3.2.12. Szaknyér (8224)
 
-| Keléd | (8117) |
+## 3.2.13. Szalafő (8225)
 
-| Kemeneskápolna | (8118) |
+## 3.2.14. Szatta (8226)
 
-| Kemenespálfa | (8119) |
+## 3.2.15. Szőce (8193)
 
-| Kissomlyó | (8120) |
+## 3.2.16. Viszák (8227)
 
-| Köcsk | (8121) |
+## 3.3. Dél-Hansági erdőtervezési körzet
 
-| Mesteri | (8122) |
+## 3.3.1. Acsalag (3082)
 
-| Nemeskeresztúr | (8124) |
+## 3.3.2. Agyagosszergény (3103)
 
-| Nemeskocs | (8125) |
+## 3.3.3. Barbacs (3083)
 
-| Nyőgér | (8132) |
+## 3.3.4. Bezi (3084)
 
-| Sitke | (8101) |
+## 3.3.5. Bősárkány (3085)
 
-| Sótony | (8102) |
+## 3.3.6. Cakóháza (3086)
 
-| Vásárosmiske | (8135) |
+## 3.3.7. Csorna (3087)
 
-| Vashosszúfalu | (8134) |
+## 3.3.8. Farád (3088)
 
-## Alsó-Őrségi
+## 3.3.9. Fehértó (3089)
 
-| Bajánsenye | (8214) |
+## 3.3.10. Fertőd (3090)
 
-| Felsőjánosfa | (8215) |
+## 3.3.11. Győrsövényház (3092)
 
-| Hegyhátszentjakab | (8216) |
+## 3.3.12. Kapuvár (3093)
 
-| Ispánk | (8217) |
+## 3.3.13. Maglóca (3094)
 
-| Kercaszomor | (8218) |
+## 3.3.14. Markotabödöge (3095)
 
-| Kerkáskápolna | (8219) |
+## 3.3.15. Osli (3096)
 
-| Kisrákos | (8220) |
+## 3.3.16. Rábatamási (3097)
 
-| Nagyrákos | (8221) |
+## 3.3.17. Rábcakapi (3098)
 
-| Őrimagyarósd | (8191) |
+## 3.3.18. Szárföld (3100)
 
-| Őriszentpéter | (8222) |
+## 3.3.19. Tárnokréti (3101)
 
-| Pankasz | (8223) |
+## 3.3.20. Veszkény (3102)
 
-| Szaknyér | (8224) |
+## 3.4. Észak-Hanság és Szigetközi erdőtervezési körzet
 
-| Szalafő | (8225) |
+## 3.4.1. Bezenye (3061)
 
-| Szatta | (8226) |
+## 3.4.2. Dunakiliti (3063)
 
-| Szőce | (8193) |
+## 3.4.3. Dunaremete (3064)
 
-| Viszák | (8227) |
+## 3.4.4. Dunasziget (3400)
 
-## Dél-Hansági
+## 3.4.5. Feketeerdő (3065)
 
-| Acsalag | (3082) |
+## 3.4.6. Halászi (3066)
 
-| Agyagosszergény | (3103) |
+## 3.4.7. Hegyeshalom (3067)
 
-| Barbacs | (3083) |
+## 3.4.8. Jánossomorja (3076)
 
-| Bezi | (3084) |
+## 3.4.9. Károlyháza (3412)
 
-| Bősárkány | (3085) |
+## 3.4.10. Kimle (3050)
 
-| Cakóháza | (3086) |
+## 3.4.11. Kisbodak (3068)
 
-| Csorna | (3087) |
+## 3.4.12. Lébény (3075)
 
-| Farád | (3088) |
+## 3.4.13. Levél (3069)
 
-| Fehértó | (3089) |
+## 3.4.14. Máriakálnok (3070)
 
-| Fertőd | (3090) |
+## 3.4.15. Mosonmagyaróvár (3071)
 
-| Győrsövényház | (3092) |
+## 3.4.16. Mosonszentmiklós (3074)
 
-| Kapuvár | (3093) |
+## 3.4.17. Mosonszolnok (3078)
 
-| Maglóca | (3094) |
+## 3.4.18. Mosonudvar (3077)
 
-| Markotabödöge | (3095) |
+## 3.4.19. Püski (3072)
 
-| Osli | (3096) |
+## 3.4.20. Rajka (3073)
 
-| Rábatamási | (3097) |
+## 3.4.21. Újrónafő (3080)
 
-| Rábcakapi | (3098) |
+## 3.4.22. Várbalog (3081)
 
-| Szárföld | (3100) |
+## 3.5. Felső-Kemenesháti erdőtervezési körzet
 
-| Tárnokréti | (3101) |
+## 3.5.1. Alsóújlak (8137)
 
-| Veszkény | (3102) |
+## 3.5.2. Andrásfa (8136)
 
-## Észak-Hanság és Szigetközi
+## 3.5.3. Bérbaltavár (8106)
 
-| Bezenye | (3061) |
+## 3.5.4. Bögöte (8109)
 
-| Dunakiliti | (3063) |
+## 3.5.5. Csehi (8138)
 
-| Dunaremete | (3064) |
+## 3.5.6. Csehimindszent (8127)
 
-| Dunasziget | (3400) |
+## 3.5.7. Csipkerek (8128)
 
-| Feketeerdő | (3065) |
+## 3.5.8. Döbörhegy (8179)
 
-| Halászi | (3066) |
+## 3.5.9. Döröske (8180)
 
-| Hegyeshalom | (3067) |
+## 3.5.10. Egervölgy (8129)
 
-| Jánossomorja | (3076) |
+## 3.5.11. Egyházashollós (8165)
 
-| Károlyháza | (3412) |
+## 3.5.12. Gersekarát (8140)
 
-| Kimle | (3050) |
+## 3.5.13. Győrvár (8143)
 
-| Kisbodak | (3068) |
+## 3.5.14. Halastó (8182)
 
-| Lébény | (3075) |
+## 3.5.15. Hegyháthodász (8184)
 
-| Levél | (3069) |
+## 3.5.16. Hegyhátsál (8185)
 
-| Máriakálnok | (3070) |
+## 3.5.17. Hegyhátszentpéter (8144)
 
-| Mosonmagyaróvár | (3071) |
+## 3.5.18. Hosszúpereszteg (8113)
 
-| Mosonszentmiklós | (3074) |
+## 3.5.19. Kám (8145)
 
-| Mosonszolnok | (3078) |
+## 3.5.20. Katafa (8188)
 
-| Püski | (3072) |
+## 3.5.21. Mikosszéplak (8123)
 
-| Rajka | (3073) |
+## 3.5.22. Nádasd (8190)
 
-| Újrónafő | (3080) |
+## 3.5.23. Nagymizdó (8189)
 
-| Várbalog | (3081) |
+## 3.5.24. Nagytilaj (8148)
 
-## Felső-Kemenesháti
+## 3.5.25. Olaszfa (8150)
 
-| Alsóújlak | (8137) |
+## 3.5.26. Oszkó (8151)
 
-| Andrásfa | (8136) |
+## 3.5.27. Pácsony (8152)
 
-| Bérbaltavár | (8106) |
+## 3.5.28. Petőmihályfa (8153)
 
-| Bögöte | (8109) |
+## 3.5.29. Püspökmolnári (8154)
 
-| Csehi | (8138) |
+## 3.5.30. Rábahidvég (8155)
 
-| Csehimindszent | (8127) |
+## 3.5.31. Rum (8156)
 
-| Csipkerek | (8128) |
+## 3.5.32. Sárfimizdó (8157)
 
-| Döbörhegy | (8179) |
+## 3.5.33. Szarvaskend (8192)
 
-| Döröske | (8180) |
+## 3.5.34. Szemenye (8133)
 
-| Egervölgy | (8129) |
+## 3.5.35. Telekes (8160)
 
-| Egyházashollós | (8165) |
+## 3.5.36. Vasvár (8161)
 
-| Gersekarát | (8140) |
+## 3.5.37. Vasvár-Nagymákfa (8147)
 
-| Győrvár | (8143) |
+## 3.5.38. Zsennye (8163)
 
-| Halastó | (8182) |
+## 3.6. Felső-Őrségi és Vendvidéki erdőtervezési körzet
 
-| Hegyháthodász | (8184) |
+## 3.6.1. Alsószölnök (8194)
 
-| Hegyhátsál | (8185) |
+## 3.6.2. Apátistvánfalva (8195)
 
-| Hegyhátszentpéter | (8144) |
+## 3.6.3. Csákánydoroszló (8164)
 
-| Hosszúpereszteg | (8113) |
+## 3.6.4. Csörötnek (8196)
 
-| Kám | (8145) |
+## 3.6.5. Daraboshegy (8178)
 
-| Katafa | (8188) |
+## 3.6.6. Felsőmarác (8181)
 
-| Mikosszéplak | (8123) |
+## 3.6.7. Felsőszölnök (8198)
 
-| Nádasd | (8190) |
+## 3.6.8. Gasztony (8167)
 
-| Nagymizdó | (8189) |
+## 3.6.9. Halogy (8183)
 
-| Nagytilaj | (8148) |
+## 3.6.10. Hegyhátszentmárton (8186)
 
-| Olaszfa | (8150) |
+## 3.6.11. Ivánc (8187)
 
-| Oszkó | (8151) |
+## 3.6.12. Kemestaródfa (8170)
 
-| Pácsony | (8152) |
+## 3.6.13. Kétvölgy (8200)
 
-| Petőmihályfa | (8153) |
+## 3.6.14. Kondorfa (8201)
 
-| Püspökmolnári | (8154) |
+## 3.6.15. Magyarlak (8202)
 
-| Rábahídvég | (8155) |
+## 3.6.16. Nemesmedves (8204)
 
-| Rum | (8156) |
+## 3.6.17. Orfalu (8205)
 
-| Sárfimizdó | (8157) |
+## 3.6.18. Rábagyarmat (8207)
 
-| Szarvaskend | (8192) |
+## 3.6.19. Rátót (8209)
 
-| Szemenye | (8133) |
+## 3.6.20. Rönök (8210)
 
-| Telekes | (8160) |
+## 3.6.21. Szakonyfalu (8211)
 
-| Vasvár | (8161) |
+## 3.6.22. Szentgotthárd (8212)
 
-| Vasvár-Nagymákfa | (8147) |
+## 3.6.23. Szentgotthárd-Farkasfa (8197)
 
-| Zsennye | (8163) |
+## 3.6.24. Szentgotthárd-Jakabháza (8199)
 
-## Felső-Őrségi
+## 3.6.25. Szentgotthárd-Máriaújfalu (8203)
 
-| Csákánydoroszló | (8164) |
+## 3.6.26. Szentgotthárd-Rábafüzes (8206)
 
-| Csörötnek | (8196) |
+## 3.6.27. Szentgotthárd-Rábatótfalu (8208)
 
-| Daraboshegy | (8178) |
+## 3.6.28. Vasszentmihály (8213)
 
-| Felsőmarác | (8181) |
+## 3.7. Gyöngyös-Pinka-menti erdőtervezési körzet
 
-| Gasztony | (8167) |
+## 3.7.1. Acsád (8017)
 
-| Halogy | (8183) |
+## 3.7.2. Bucsu (8020)
 
-| Hegyhátszentmárton | (8186) |
+## 3.7.3. Dozmat (8022)
 
-| Ivánc | (8187) |
+## 3.7.4. Felsőcsatár (8024)
 
-| Kemestaródfa | (8170) |
+## 3.7.5. Gencsapáti (8025)
 
-| Kondorfa | (8201) |
+## 3.7.6. Gór (8026)
 
-| Magyarlak | (8202) |
+## 3.7.7. Horvátlövő (8027)
 
-| Nemesmedves | (8204) |
+## 3.7.8. Ják (8028)
 
-| Rábagyarmat | (8207) |
+## 3.7.9. Meszlen (8030)
 
-| Rátót | (8209) |
+## 3.7.10. Nagykölked (8031)
 
-| Rönök | (8210) |
+## 3.7.11. Nárai (8033)
 
-| Szentgotthárd | (8212) |
+## 3.7.12. Narda (8032)
 
-| Szentgotthárd-Farkasfa | (8197) |
+## 3.7.13. Nemesbőd (8034)
 
-| Szentgotthárd-Jakabháza | (8199) |
+## 3.7.14. Perenye (8035)
 
-| Szentgotthárd-Máriaújfalu | (8203) |
+## 3.7.15. Pornóapáti (8036)
 
-| Szentgotthárd-Rábafüzes | (8206) |
+## 3.7.16. Salköveskút (8038)
 
-| Szentgotthárd-Rábatótfalu | (8208) |
+## 3.7.17. Sé (8039)
 
-| Vasszentmihály | (8213) |
+## 3.7.18. Söpte (8041)
 
-## Gyöngyös-Pinka-menti
+## 3.7.19. Szeleste (8042)
 
-| Acsád | (8017) |
+## 3.7.20. Szentpéterfa (8043)
 
-| Bucsu | (8020) |
+## 3.7.21. Szombathely (8402)
 
-| Dozmat | (8022) |
+## 3.7.22. Tanakajd (8045)
 
-| Felsőcsatár | (8024) |
+## 3.7.23. Táplánszentkereszt (8046)
 
-| Gencsapáti | (8025) |
+## 3.7.24. Torony (8047)
 
-| Gór | (8026) |
+## 3.7.25. Vasasszonyfa (8048)
 
-| Horvátlövő | (8027) |
+## 3.7.26. Vaskeresztes (8049)
 
-| Ják | (8028) |
+## 3.7.27. Vassurány (8050)
 
-| Meszlen | (8030) |
+## 3.7.28. Vasszilvágy (8051)
 
-| Nagykölked | (8031) |
+## 3.8. Győri erdőtervezési körzet
 
-| Nárai | (8033) |
+## 3.8.1. Abda (3035)
 
-| Narda | (8032) |
+## 3.8.2. Ásványráró (3037)
 
-| Nemesbőd | (8034) |
+## 3.8.3. Bőny (3408)
 
-| Perenye | (8035) |
+## 3.8.4. Börcs (3040)
 
-| Pornóapáti | (8036) |
+## 3.8.5. Darnózseli (3041)
 
-| Salköveskút | (8038) |
+## 3.8.6. Dunaszeg (3042)
 
-| Sé | (8039) |
+## 3.8.7. Dunaszentpál (3043)
 
-| Söpte | (8041) |
+## 3.8.8. Enese (3044)
 
-| Szeleste | (8042) |
+## 3.8.9. Gönyű (3018)
 
-| Szentpéterfa | (8043) |
+## 3.8.10. Győr (3401)
 
-| Szombathely | (8402) |
+## 3.8.11. Győrladamér (3045)
 
-| Tanakajd | (8045) |
+## 3.8.12. Győrújfalu (3046)
 
-| Táplánszentkereszt | (8046) |
+## 3.8.13. Győrzámoly (3047)
 
-| Torony | (8047) |
+## 3.8.14. Hédervár (3048)
 
-| Vasasszonyfa | (8048) |
+## 3.8.15. Ikrény (3049)
 
-| Vaskeresztes | (8049) |
+## 3.8.16. Kisbajcs (3051)
 
-| Vassurány | (8050) |
+## 3.8.17. Kóny (3052)
 
-| Vasszilvágy | (8051) |
+## 3.8.18. Kunsziget (3053)
 
-## Győri
+## 3.8.19. Lipót (3054)
 
-| Abda | (3035) |
+## 3.8.20. Mecsér (3055)
 
-| Ásványráró | (3037) |
+## 3.8.21. Nagybajcs (3056)
 
-| Bőny | (3408) |
+## 3.8.22. Nagyszentjános (3403)
 
-| Börcs | (3040) |
+## 3.8.23. Öttevény (3057)
 
-| Darnózseli | (3041) |
+## 3.8.24. Pér (3010)
 
-| Dunaszeg | (3042) |
+## 3.8.25. Rábapatona (3031)
 
-| Dunaszentpál | (3043) |
+## 3.8.26. Rétalap (3409)
 
-| Enese | (3044) |
+## 3.8.27. Töltéstava (3016)
 
-| Gönyű | (3018) |
+## 3.8.28. Vámosszabadi (3059)
 
-| Győr | (3401) |
+## 3.8.29. Vének (3060)
 
-| Győrladamér | (3045) |
+## 3.9. Kemenesi cser erdőtervezési körzet
 
-| Győrújfalu | (3046) |
+## 3.9.1. Csönge (8091)
 
-| Győrzámoly | (3047) |
+## 3.9.2. Kemenesmagasi (8092)
 
-| Hédervár | (3048) |
+## 3.9.3. Kemenesmihályfa (8093)
 
-| Ikrény | (3049) |
+## 3.9.4. Kemenessömjén (8094)
 
-| Kisbajcs | (3051) |
+## 3.9.5. Kemenesszentmárton (8095)
 
-| Kóny | (3052) |
+## 3.9.6. Kenyeri (8096)
 
-| Kunsziget | (3053) |
+## 3.9.7. Mersevát (8097)
 
-| Lipót | (3054) |
+## 3.9.8. Nagysimonyi (8098)
 
-| Mecsér | (3055) |
+## 3.9.9. Ostffyasszonyfa (8099)
 
-| Nagybajcs | (3056) |
+## 3.9.10. Pápoc (8100)
 
-| Nagyszentjános | (3403) |
+## 3.9.11. Szergény (8103)
 
-| Öttevény | (3057) |
+## 3.9.12. Tokorcs (8104)
 
-| Pér | (3010) |
+## 3.9.13. Vönöck (8105)
 
-| Rábapatona | (3031) |
+## 3.10. Körmendi erdőtervezési körzet
 
-| Rétalap | (3409) |
+## 3.10.1. Balogunyom (8018)
 
-| Töltéstava | (3016) |
+## 3.10.2. Csempeszkopács (8139)
 
-| Vámosszabadi | (3059) |
+## 3.10.3. Egyházasrádóc (8023)
 
-| Vének | (3060) |
+## 3.10.4. Gyanógeregye (8142)
 
-## Kemenesi cser
+## 3.10.5. Harasztifalu (8168)
 
-| Csönge | (8091) |
+## 3.10.6. Kisunyom (8029)
 
-| Kemenesmagasi | (8092) |
+## 3.10.7. Körmend (8400)
 
-| Kemenesmihályfa | (8093) |
+## 3.10.8. Magyarnádalja (8172)
 
-| Kemenessömjén | (8094) |
+## 3.10.9. Magyarszecsőd (8173)
 
-| Kemenesszentmárton | (8095) |
+## 3.10.10. Molnaszecsőd (8174)
 
-| Kenyeri | (8096) |
+## 3.10.11. Nemeskolta (8149)
 
-| Mersevát | (8097) |
+## 3.10.12. Nemesrempehollós (8175)
 
-| Nagysimonyi | (8098) |
+## 3.10.13. Pinkamindszent (8176)
 
-| Ostffyasszonyfa | (8099) |
+## 3.10.14. Rábatöttös (8141)
 
-| Pápoc | (8100) |
+## 3.10.15. Rádóckölked (8037)
 
-| Szergény | (8103) |
+## 3.10.16. Sorkifalud (8158)
 
-| Tokorcs | (8104) |
+## 3.10.17. Sorkikápolna (8159)
 
-| Vönöck | (8105) |
+## 3.10.18. Sorokpolány (8040)
 
-## Körmendi
+## 3.10.19. Vasalja (8177)
 
-| Balogunyom | (8018) |
+## 3.10.20. Vasszécseny (8162)
 
-| Csempeszkopács | (8139) |
+## 3.11. Pannonhalmi-Téti erdőtervezési körzet
 
-| Egyházasrádóc | (8023) |
+## 3.11.1. Bakonypéterd (3410)
 
-| Gyanógeregye | (8142) |
+## 3.11.2. Écs (3000)
 
-| Harasztifalu | (8168) |
+## 3.11.3. Felpéc (3001)
 
-| Kisunyom | (8029) |
+## 3.11.4. Gyömöre (3020)
 
-| Körmend | (8400) |
+## 3.11.5. Győrasszonyfa (3002)
 
-| Magyarnádalja | (8172) |
+## 3.11.6. Győrság (3003)
 
-| Magyarszecsőd | (8173) |
+## 3.11.7. Győrszemere (3022)
 
-| Molnaszecsőd | (8174) |
+## 3.11.8. Győrújbarát (3402)
 
-| Nemeskolta | (8149) |
+## 3.11.9. Kajárpéc (3004)
 
-| Nemesrempehollós | (8175) |
+## 3.11.10. Koroncó (3026)
 
-| Pinkamindszent | (8176) |
+## 3.11.11. Mezőörs (3005)
 
-| Rábatöttös | (8141) |
+## 3.11.12. Mórichida (3029)
 
-| Rádóckölked | (8037) |
+## 3.11.13. Nyalka (3006)
 
-| Sorkifalud | (8158) |
+## 3.11.14. Nyúl (3007)
 
-| Sorkikápolna | (8159) |
+## 3.11.15. Pannonhalma (3008)
 
-| Sorokpolány | (8040) |
+## 3.11.16. Pázmándfalu (3009)
 
-| Vasalja | (8177) |
+## 3.11.17. Ravazd (3011)
 
-| Vasszécseny | (8162) |
+## 3.11.18. Sokorópátka (3012)
 
-## Pannonhalmi-Téti
+## 3.11.19. Táp (3013)
 
-| Bakonypéterd | (3410) |
+## 3.11.20. Tápszentmiklós (3014)
 
-| Écs | (3000) |
+## 3.11.21. Tarjánpuszta (3407)
 
-| Felpéc | (3001) |
+## 3.11.22. Tényő (3015)
 
-| Gyömöre | (3020) |
+## 3.11.23. Tét (3034)
 
-| Győrasszonyfa | (3002) |
+## 3.12. Rábaközi-Iváni cser erdőtervezési körzet
 
-| Győrság | (3003) |
+## 3.12.1. Árpás (3036)
 
-| Győrszemere | (3022) |
+## 3.12.2. Babót (3104)
 
-| Győrújbarát | (3402) |
+## 3.12.3. Bágyogszovát (3038)
 
-| Kajárpéc | (3004) |
+## 3.12.4. Beled (3105)
 
-| Koroncó | (3026) |
+## 3.12.5. Bodonhely (3039)
 
-| Mezőörs | (3005) |
+## 3.12.6. Bogyoszló (3106)
 
-| Mórichida | (3029) |
+## 3.12.7. Cirák (3168)
 
-| Nyalka | (3006) |
+## 3.12.8. Csáfordjánosfa (3169)
 
-| Nyúl | (3007) |
+## 3.12.9. Csapod (3107)
 
-| Pannonhalma | (3008) |
+## 3.12.10. Csér (3170)
 
-| Pázmándfalu | (3009) |
+## 3.12.11. Dénesfa (3171)
 
-| Ravazd | (3011) |
+## 3.12.12. Dör (3108)
 
-| Sokorópátka | (3012) |
+## 3.12.13. Edve (3109)
 
-| Táp | (3013) |
+## 3.12.14. Egyed (3110)
 
-| Tápszentmiklós | (3014) |
+## 3.12.15. Fertőendréd (3111)
 
-| Tarjánpuszta | (3407) |
+## 3.12.16. Gyóró (3172)
 
-| Tényő | (3015) |
+## 3.12.17. Himod (3113)
 
-| Tét | (3034) |
+## 3.12.18. Hövej (3114)
 
-## Rábaközi-Iváni cser
+## 3.12.19. Iván (3173)
 
-| Árpás | (3036) |
+## 3.12.20. Jobaháza (3115)
 
-| Babót | (3104) |
+## 3.12.21. Kisbabot (3024)
 
-| Bágyogszovát | (3038) |
+## 3.12.22. Kisfalud (3116)
 
-| Beled | (3105) |
+## 3.12.23. Magyarkeresztúr (3117)
 
-| Bodonhely | (3039) |
+## 3.12.24. Mérges (3028)
 
-| Bogyoszló | (3106) |
+## 3.12.25. Mihályi (3118)
 
-| Cirák | (3168) |
+## 3.12.26. Páli (3119)
 
-| Csáfordjánosfa | (3169) |
+## 3.12.27. Pásztori (3120)
 
-| Csapod | (3107) |
+## 3.12.28. Potyond (3122)
 
-| Csér | (3170) |
+## 3.12.29. Rábacsanak (3123)
 
-| Dénesfa | (3171) |
+## 3.12.30. Rábacsécsény (3032)
 
-| Dör | (3108) |
+## 3.12.31. Rábakecöl (3124)
 
-| Edve | (3109) |
+## 3.12.32. Rábapordány (3125)
 
-| Egyed | (3110) |
+## 3.12.33. Rábasebes (3126)
 
-| Fertőendréd | (3111) |
+## 3.12.34. Rábaszentandrás (3127)
 
-| Gyóró | (3172) |
+## 3.12.35. Rábaszentmihály (3058)
 
-| Himod | (3113) |
+## 3.12.36. Rábaszentmiklós (3033)
 
-| Hövej | (3114) |
+## 3.12.37. Répceszemere (3174)
 
-| Iván | (3173) |
+## 3.12.38. Sobor (3128)
 
-| Jobaháza | (3115) |
+## 3.12.39. Sopronnémeti (3129)
 
-| Kisbabot | (3024) |
+## 3.12.40. Szany (3130)
 
-| Kisfalud | (3116) |
+## 3.12.41. Szil (3131)
 
-| Magyarkeresztúr | (3117) |
+## 3.12.42. Szilsárkány (3132)
 
-| Mérges | (3028) |
+## 3.12.43. Vadosfa (3133)
 
-| Mihályi | (3118) |
+## 3.12.44. Vág (3134)
 
-| Páli | (3119) |
+## 3.12.45. Vásárosfalu (3135)
 
-| Pásztori | (3120) |
+## 3.12.46. Vitnyéd (3137)
 
-| Potyond | (3122) |
+## 3.12.47. Zsebeháza (3138)
 
-| Rábacsanak | (3123) |
+## 3.13. Répce-síki erdőtervezési körzet
 
-| Rábacsécsény | (3032) |
+## 3.13.1. Bő (8054)
 
-| Rábakecöl | (3124) |
+## 3.13.2. Bük (8021)
 
-| Rábapordány | (3125) |
+## 3.13.3. Chernelházadamonya (8056)
 
-| Rábasebes | (3126) |
+## 3.13.4. Csánig (8057)
 
-| Rábaszentandrás | (3127) |
+## 3.13.5. Hegyfalu (8060)
 
-| Rábaszentmihály | (3058) |
+## 3.13.6. Iklanberény (8062)
 
-| Rábaszentmiklós | (3033) |
+## 3.13.7. Jákfa (8063)
 
-| Répceszemere | (3174) |
+## 3.13.8. Lócs (8065)
 
-| Sobor | (3128) |
+## 3.13.9. Mesterháza (8067)
 
-| Sopronnémeti | (3129) |
+## 3.13.10. Nagygeresd (8068)
 
-| Szany | (3130) |
+## 3.13.11. Nemesládony (8069)
 
-| Szil | (3131) |
+## 3.13.12. Nick (8070)
 
-| Szilsárkány | (3132) |
+## 3.13.13. Pósfa (8074)
 
-| Vadosfa | (3133) |
+## 3.13.14. Répcelak (8078)
 
-| Vág | (3134) |
+## 3.13.15. Répceszentgyörgy (8079)
 
-| Vásárosfalu | (3135) |
+## 3.13.16. Sajtoskál (8080)
 
-| Vitnyéd | (3137) |
+## 3.13.17. Simaság (8082)
 
-| Zsebeháza | (3138) |
+## 3.13.18. Tompaládony (8084)
 
-## Répce-síki
+## 3.13.19. Tormásliget (8231)
 
-| Bő | (8054) |
+## 3.13.20. Uraiújfalu (8403)
 
-| Bük | (8021) |
+## 3.13.21. Vámoscsalád (8087)
 
-| Chernelházadamonya | (8056) |
+## 3.13.22. Vasegerszeg (8086)
 
-| Csánig | (8057) |
+## 3.13.23. Zsédeny (8090)
 
-| Hegyfalu | (8060) |
+## 3.14. Sárvár-Celldömölki erdőtervezési körzet
 
-| Iklanberény | (8062) |
+## 3.14.1. Bejcgyertyános (8126)
 
-| Jákfa | (8063) |
+## 3.14.2. Boba (8107)
 
-| Lócs | (8065) |
+## 3.14.3. Borgáta (8108)
 
-| Mesterháza | (8067) |
+## 3.14.4. Bozzai (8019)
 
-| Nagygeresd | (8068) |
+## 3.14.5. Bögöt (8055)
 
-| Nemesládony | (8069) |
+## 3.14.6. Celldömölk (8110)
 
-| Nick | (8070) |
+## 3.14.7. Csénye (8058)
 
-| Pósfa | (8074) |
+## 3.14.8. Duka (8111)
 
-| Répcelak | (8078) |
+## 3.14.9. Egyházashetye (8112)
 
-| Répceszentgyörgy | (8079) |
+## 3.14.10. Gérce (8130)
 
-| Sajtoskál | (8080) |
+## 3.14.11. Ikervár (8061)
 
-| Simaság | (8082) |
+## 3.14.12. Jánosháza (8115)
 
-| Tompaládony | (8084) |
+## 3.14.13. Káld (8131)
 
-| Tormásliget | (8231) |
+## 3.14.14. Karakó (8116)
 
-| Uraiújfalu | (8403) |
+## 3.14.15. Keléd (8117)
 
-| Vámoscsalád | (8087) |
+## 3.14.16. Kemeneskápolna (8118)
 
-| Vasegerszeg | (8086) |
+## 3.14.17. Kemenespálfa (8119)
 
-| Zsédeny | (8090) |
+## 3.14.18. Kenéz (8064)
 
-## Sárvári-Rábamente
+## 3.14.19. Kissomlyó (8120)
 
-| Bozzai | (8019) |
+## 3.14.20. Köcsk (8121)
 
-| Bögöt | (8055) |
+## 3.14.21. Megyehíd (8066)
 
-| Csénye | (8058) |
+## 3.14.22. Meggyeskovácsi (8075)
 
-| Ikervár | (8061) |
+## 3.14.23. Mesteri (8122)
 
-| Kenéz | (8064) |
+## 3.14.24. Nemeskeresztúr (8124)
 
-| Megyehíd | (8066) |
+## 3.14.25. Nemeskocs (8125)
 
-| Meggyeskovácsi | (8075) |
+## 3.14.26. Nyőgér (8132)
 
-| Ölbő | (8071) |
+## 3.14.27. Ölbő (8071)
 
-| Pecöl | (8072) |
+## 3.14.28. Pecöl (8072)
 
-| Porpác | (8073) |
+## 3.14.29. Porpác (8073)
 
-| Rábapaty | (8076) |
+## 3.14.30. Rábapaty (8076)
 
-| Sárvár | (8401) |
+## 3.14.31. Sárvár (8401)
 
-| Vát | (8088) |
+## 3.14.32. Sitke (8101)
 
-| Vép | (8089) |
+## 3.14.33. Sótony (8102)
 
-## Sopron-Fertőmelléki
+## 3.14.34. Vásárosmiske (8135)
 
-| Ágfalva | (3139) |
+## 3.14.35. Vashosszúfalu (8134)
 
-| Ebergőc | (3159) |
+## 3.14.36. Vát (8088)
 
-| Egyházasfalu | (3143) |
+## 3.14.37. Vép (8089)
 
-| Fertőboz | (3144) |
+## 3.15. Sopron-Fertőmelléki erdőtervezési körzet
 
-| Fertőhomok | (3145) |
+## 3.15.1. Ágfalva (3139)
 
-| Fertőrákos | (3146) |
+## 3.15.2. Ebergőc (3159)
 
-| Fertőszentmiklós | (3112) |
+## 3.15.3. Egyházasfalu (3143)
 
-| Fertőszéplak | (3091) |
+## 3.15.4. Fertőboz (3144)
 
-| Gyalóka | (3147) |
+## 3.15.5. Fertőhomok (3145)
 
-| Harka | (3140) |
+## 3.15.6. Fertőrákos (3146)
 
-| Hegykő | (3160) |
+## 3.15.7. Fertőszentmiklós (3112)
 
-| Hidegség | (3148) |
+## 3.15.8. Fertőszéplak (3091)
 
-| Kópháza | (3149) |
+## 3.15.9. Gyalóka (3147)
 
-| Lövő | (3161) |
+## 3.15.10. Harka (3140)
 
-| Nagycenk | (3150) |
+## 3.15.11. Hegykő (3160)
 
-| Nagylózs | (3162) |
+## 3.15.12. Hidegség (3148)
 
-| Nemeskér | (3163) |
+## 3.15.13. Kópháza (3149)
 
-| Pereszteg | (3151) |
+## 3.15.14. Lövő (3161)
 
-| Petőháza | (3121) |
+## 3.15.15. Nagycenk (3150)
 
-| Pinnye | (3164) |
+## 3.15.16. Nagylózs (3162)
 
-| Pusztacsalád | (3165) |
+## 3.15.17. Nemeskér (3163)
 
-| Répcevis | (3152) |
+## 3.15.18. Pereszteg (3151)
 
-| Röjtökmuzsaj | (3166) |
+## 3.15.19. Petőháza (3121)
 
-| Sarród | (3099) |
+## 3.15.20. Pinnye (3164)
 
-| Sopron | (3141) |
+## 3.15.21. Pusztacsalád (3165)
 
-| Sopron-Balf | (3142) |
+## 3.15.22. Répcevis (3152)
 
-| Sopronhorpács | (3153) |
+## 3.15.23. Röjtökmuzsaj (3166)
 
-| Sopronkövesd | (3154) |
+## 3.15.24. Sarród (3099)
 
-| Szakony | (3155) |
+## 3.15.25. Sopron (3141)
 
-| Újkér | (3167) |
+## 3.15.26. Sopron-Balf (3142)
 
-| Und | (3156) |
+## 3.15.27. Sopronhorpács (3153)
 
-| Völcsej | (3157) |
+## 3.15.28. Sopronkövesd (3154)
 
-| Zsira | (3158) |
+## 3.15.29. Szakony (3155)
 
-## Vendvidéki
+## 3.15.30. Újkér (3167)
 
-| Alsószölnök | (8194) |
+## 3.15.31. Und (3156)
 
-| Apátistvánfalva | (8195) |
+## 3.15.32. Völcsej (3157)
 
-| Felsőszölnök | (8198) |
+## 3.15.33. Zsira (3158)
 
-| Kétvölgy | (8200) |
+## 4. Zala Megyei Kormányhivatal
 
-| Orfalu | (8205) |
+## 4.1. Baki erdőtervezési körzet
 
-| Szakonyfalu | (8211) |
+## 4.1.1. Bak (9145)
 
-## 04 Zala Megyei Kormányhivatal Erdészeti Igazgatósága
+## 4.1.2. Baktüttös (9146)
 
-## Surdi
+## 4.1.3. Barlahida (9042)
 
-| Belezna | (9218) |
+## 4.1.4. Becsvölgye (9043)
 
-| Fityeház | (9219) |
+## 4.1.5. Bocfölde (9063)
 
-| Liszó | (9220) |
+## 4.1.6. Csatár (9147)
 
-| Molnári | (9223) |
+## 4.1.7. Csertalakos (9165)
 
-| Murakeresztúr | (9224) |
+## 4.1.8. Gellénháza (9076)
 
-| Nemespátró | (9226) |
+## 4.1.9. Gombosszeg (9044)
 
-| Petrivente | (9210) |
+## 4.1.10. Gutorfölde (9167)
 
-| Semjénháza | (9228) |
+## 4.1.11. Hahót (9148)
 
-| Surd | (9229) |
+## 4.1.12. Iborfia (9045)
 
-| Szepetnek | (9230) |
+## 4.1.13. Kustánszeg (9047)
 
-## Baki
+## 4.1.14. Lickóvadamos (9048)
 
-| Bak | (9145) |
+## 4.1.15. Nagylengyel (9091)
 
-| Baktüttös | (9146) |
+## 4.1.16. Ormándlak (9098)
 
-| Barlahida | (9042) |
+## 4.1.17. Pálfiszeg (9051)
 
-| Becsvölgye | (9043) |
+## 4.1.18. Petrikeresztúr (9052)
 
-| Bocfölde | (9063) |
+## 4.1.19. Pölöske (9150)
 
-| Csatár | (9147) |
+## 4.1.20. Sárhida (9152)
 
-| Csertalakos | (9165) |
+## 4.1.21. Söjtör (9153)
 
-| Gellénháza | (9076) |
+## 4.1.22. Szentkozmadombja (9053)
 
-| Gombosszeg | (9044) |
+## 4.1.23. Tófej (9154)
 
-| Gutorfölde | (9167) |
+## 4.1.24. Zalatárnok (9055)
 
-| Hahót | (9148) |
+## 4.2. Bánokszentgyörgyi erdőtervezési körzet
 
-| Iborfia | (9045) |
+## 4.2.1. Bánokszentgyörgy (9155)
 
-| Kustánszeg | (9047) |
+## 4.2.2. Bázakerettye (9178)
 
-| Lickóvadamos | (9048) |
+## 4.2.3. Borsfa (9157)
 
-| Nagylengyel | (9091) |
+## 4.2.4. Bucsuta (9159)
 
-| Ormándlak | (9098) |
+## 4.2.5. Lasztonya (9169)
 
-| Pálfiszeg | (9051) |
+## 4.2.6. Lispeszentadorján (9170)
 
-| Petrikeresztúr | (9052) |
+## 4.2.7. Oltárc (9160)
 
-| Pölöske | (9150) |
+## 4.2.8. Ortaháza (9172)
 
-| Sárhida | (9152) |
+## 4.2.9. Pördefölde (9174)
 
-| Söjtör | (9153) |
+## 4.2.10. Pusztaederics (9175)
 
-| Szentkozmadombja | (9053) |
+## 4.2.11. Pusztamagyaród (9161)
 
-| Tófej | (9154) |
+## 4.2.12. Pusztaszentlászló (9151)
 
-| Zalatárnok | (9055) |
+## 4.2.13. Szentliszló (9162)
 
-## Bánokszentgyörgyi
+## 4.2.14. Szentpéterfölde (9176)
 
-| Bánokszentgyörgy | (9155) |
+## 4.2.15. Valkonya (9163)
 
-| Bázakerettye | (9178) |
+## 4.2.16. Várfölde (9177)
 
-| Borsfa | (9157) |
+## 4.3. Keszthelyi erdőtervezési körzet
 
-| Bucsuta | (9159) |
+## 4.3.1. Alsópáhok (9407)
 
-| Lasztonya | (9169) |
+## 4.3.2. Döbröce (9419)
 
-| Lispeszentadorján | (9170) |
+## 4.3.3. Felsőpáhok (9409)
 
-| Oltárc | (9160) |
+## 4.3.4. Hévíz (9410)
 
-| Ortaháza | (9172) |
+## 4.3.5. Karmacs (9411)
 
-| Pördefölde | (9174) |
+## 4.3.6. Kisgörbő (9420)
 
-| Pusztaederics | (9175) |
+## 4.3.7. Kisvásárhely (9421)
 
-| Pusztamagyaród | (9161) |
+## 4.3.8. Mihályfa (9422)
 
-| Pusztaszentlászló | (9151) |
+## 4.3.9. Nagygörbő (9423)
 
-| Szentliszló | (9162) |
+## 4.3.10. Nemesbük (9413)
 
-| Szentpéterfölde | (9176) |
+## 4.3.11. Óhid (9424)
 
-| Valkonya | (9163) |
+## 4.3.12. Sármellék (9414)
 
-| Várfölde | (9177) |
+## 4.3.13. Sümegcsehi (9425)
 
-## Nagykanizsai
+## 4.3.14. Szalapa (9426)
 
-| Bocska | (9195) |
+## 4.3.15. Szentgyörgyvár (9415)
 
-| Börzönce | (9158) |
+## 4.3.16. Vindornyafok (9416)
 
-| Eszteregnye | (9197) |
+## 4.3.17. Vindornyalak (9427)
 
-| Fűzvölgy | (9199) |
+## 4.3.18. Vindornyaszőlős (9428)
 
-| Gelse | (9200) |
+## 4.4. Lenti erdőtervezési körzet
 
-| Gelsesziget | (9201) |
+## 4.4.1. Baglad (9017)
 
-| Homokkomárom | (9202) |
+## 4.4.2. Belsősárd (9019)
 
-| Hosszúvölgy | (9203) |
+## 4.4.3. Bödeháza (9020)
 
-| Kacorlak | (9204) |
+## 4.4.4. Csömödér (9021)
 
-| Magyarszentmiklós | (9207) |
+## 4.4.5. Gáborjánháza (9022)
 
-| Magyarszerdahely | (9208) |
+## 4.4.6. Hernyék (9024)
 
-| Nagybakónak | (9240) |
+## 4.4.7. Kerkabarabás (9046)
 
-| Nagykanizsa | (9209) |
+## 4.4.8. Kissziget (9027)
 
-| Nagykanizsa-Bagola | (9216) |
+## 4.4.9. Külsősárd (9028)
 
-| Nagykanizsa-Bajcsa | (9217) |
+## 4.4.10. Lendvajakabfa (9030)
 
-| Nagykanizsa-Miklósfa | (9222) |
+## 4.4.11. Lenti (9031)
 
-| Nagyrécse | (9225) |
+## 4.4.12. Mikekarácsonyfa (9049)
 
-| Pölöskefő | (9211) |
+## 4.4.13. Nemesnép (9014)
 
-| Rigyác | (9213) |
+## 4.4.14. Nova (9050)
 
-| Sormás | (9214) |
+## 4.4.15. Pórszombat (9006)
 
-| Újudvar | (9215) |
+## 4.4.16. Rédics (9037)
 
-| Zalaszentbalázs | (9164) |
+## 4.4.17. Resznek (9036)
 
-## Keszthelyi
+## 4.4.18. Szijártóháza (9038)
 
-| Alsópáhok | (9407) |
+## 4.4.19. Szilvágy (9054)
 
-| Döbröce | (9419) |
+## 4.4.20. Zalabaksa (9008)
 
-| Felsőpáhok | (9409) |
+## 4.4.21. Zalaszombatfa (9040)
 
-| Hévíz | (9410) |
+## 4.4.22. Zebecke (9041)
 
-| Karmacs | (9411) |
+## 4.5. Letenyei erdőtervezési körzet
 
-| Kisgörbő | (9420) |
+## 4.5.1. Becsehely (9156)
 
-| Kisvásárhely | (9421) |
+## 4.5.2. Csörnyeföld (9179)
 
-| Mihályfa | (9422) |
+## 4.5.3. Dobri (9180)
 
-| Nagygörbő | (9423) |
+## 4.5.4. Gosztola (9023)
 
-| Nemesbük | (9413) |
+## 4.5.5. Iklódbördőce (9025)
 
-| Óhíd | (9424) |
+## 4.5.6. Kányavár (9168)
 
-| Sármellék | (9414) |
+## 4.5.7. Kerkaszentkirály (9181)
 
-| Sümegcsehi | (9425) |
+## 4.5.8. Kerkateskánd (9026)
 
-| Szalapa | (9426) |
+## 4.5.9. Kiscsehi (9182)
 
-| Szentgyörgyvár | (9415) |
+## 4.5.10. Kistolmács (9183)
 
-| Vindornyafok | (9416) |
+## 4.5.11. Lendvadedes (9029)
 
-| Vindornyalak | (9427) |
+## 4.5.12. Letenye (9184)
 
-| Vindornyaszőlős | (9428) |
+## 4.5.13. Lovászi (9034)
 
-## Lenti
+## 4.5.14. Maróc (9185)
 
-| Baglad | (9017) |
+## 4.5.15. Murarátka (9186)
 
-| Belsősárd | (9019) |
+## 4.5.16. Muraszemenye (9187)
 
-| Bödeháza | (9020) |
+## 4.5.17. Páka (9173)
 
-| Csömödér | (9021) |
+## 4.5.18. Szécsisziget (9189)
 
-| Gáborjánháza | (9022) |
+## 4.5.19. Szentmargitfalva (9188)
 
-| Hernyék | (9024) |
+## 4.5.20. Tormafölde (9190)
 
-| Kerkabarabás | (9046) |
+## 4.5.21. Tornyiszentmiklós (9039)
 
-| Kissziget | (9027) |
+## 4.5.22. Tótszentmárton (9191)
 
-| Külsősárd | (9028) |
+## 4.5.23. Tótszerdahely (9192)
 
-| Lendvajakabfa | (9030) |
+## 4.5.24. Zajk (9193)
 
-| Lenti | (9031) |
+## 4.6. Nagykanizsai erdőtervezési körzet
 
-| Mikekarácsonyfa | (9049) |
+## 4.6.1. Bocska (9195)
 
-| Nemesnép | (9014) |
+## 4.6.2. Börzönce (9158)
 
-| Nova | (9050) |
+## 4.6.3. Eszteregnye (9197)
 
-| Pórszombat | (9006) |
+## 4.6.4. Fűzvölgy (9199)
 
-| Rédics | (9037) |
+## 4.6.5. Gelse (9200)
 
-| Resznek | (9036) |
+## 4.6.6. Gelsesziget (9201)
 
-| Szijártóháza | (9038) |
+## 4.6.7. Homokkomárom (9202)
 
-| Szilvágy | (9054) |
+## 4.6.8. Hosszúvölgy (9203)
 
-| Zalabaksa | (9008) |
+## 4.6.9. Kacorlak (9204)
 
-| Zalaszombatfa | (9040) |
+## 4.6.10. Magyarszentmiklós (9207)
 
-| Zebecke | (9041) |
+## 4.6.11. Magyarszerdahely (9208)
 
-## Letenyei
+## 4.6.12. Nagybakónak (9240)
 
-| Becsehely | (9156) |
+## 4.6.13. Nagykanizsa (9209)
 
-| Csörnyeföld | (9179) |
+## 4.6.14. Nagykanizsa-Bagola (9216)
 
-| Dobri | (9180) |
+## 4.6.15. Nagykanizsa-Bajcsa (9217)
 
-| Gosztola | (9023) |
+## 4.6.16. Nagykanizsa-Miklósfa (9222)
 
-| Iklódbördőce | (9025) |
+## 4.6.17. Nagyrécse (9225)
 
-| Kányavár | (9168) |
+## 4.6.18. Pölöskefő (9211)
 
-| Kerkaszentkirály | (9181) |
+## 4.6.19. Rigyác (9213)
 
-| Kerkateskánd | (9026) |
+## 4.6.20. Sormás (9214)
 
-| Kiscsehi | (9182) |
+## 4.6.21. Újudvar (9215)
 
-| Kistolmács | (9183) |
+## 4.6.22. Zalaszentbalázs (9164)
 
-| Lendvadedes | (9029) |
+## 4.7. Surdi erdőtervezési körzet
 
-| Letenye | (9184) |
+## 4.7.1. Belezna (9218)
 
-| Lovászi | (9034) |
+## 4.7.2. Fityeház (9219)
 
-| Maróc | (9185) |
+## 4.7.3. Liszó (9220)
 
-| Murarátka | (9186) |
+## 4.7.4. Molnári (9223)
 
-| Muraszemenye | (9187) |
+## 4.7.5. Murakeresztúr (9224)
 
-| Páka | (9173) |
+## 4.7.6. Nemespátró (9226)
 
-| Szécsisziget | (9189) |
+## 4.7.7. Petrivente (9210)
 
-| Szentmargitfalva | (9188) |
+## 4.7.8. Semjénháza (9228)
 
-| Tormafölde | (9190) |
+## 4.7.9. Surd (9229)
 
-| Tornyiszentmiklós | (9039) |
+## 4.7.10. Szepetnek (9230)
 
-| Tótszentmárton | (9191) |
+## 4.8. Szentgyörgyvölgyi erdőtervezési körzet
 
-| Tótszerdahely | (9192) |
+## 4.8.1. Alsószenterzsébet (9010)
 
-| Zajk | (9193) |
+## 4.8.2. Csesztreg (9000)
 
-## Szentgyörgyvölgyi
+## 4.8.3. Csöde (9001)
 
-| Alsószenterzsébet | (9010) |
+## 4.8.4. Felsőszenterzsébet (9011)
 
-| Csesztreg | (9000) |
+## 4.8.5. Kálócfa (9002)
 
-| Csöde | (9001) |
+## 4.8.6. Kerkafalva (9003)
 
-| Felsőszenterzsébet | (9011) |
+## 4.8.7. Kerkakutas (9004)
 
-| Kálócfa | (9002) |
+## 4.8.8. Kozmadombja (9005)
 
-| Kerkafalva | (9003) |
+## 4.8.9. Magyarföld (9012)
 
-| Kerkakutas | (9004) |
+## 4.8.10. Magyarszombatfa (8229)
 
-| Kozmadombja | (9005) |
+## 4.8.11. Márokföld (9013)
 
-| Magyarföld | (9012) |
+## 4.8.12. Pusztaapáti (9007)
 
-| Magyarszombatfa | (8229) |
+## 4.8.13. Ramocsa (9015)
 
-| Márokföld | (9013) |
+## 4.8.14. Szentgyörgyvölgy (9016)
 
-| Pusztaapáti | (9007) |
+## 4.8.15. Velemér (8230)
 
-| Ramocsa | (9015) |
+## 4.8.16. Zalalövő (9009)
 
-| Szentgyörgyvölgy | (9016) |
+## 4.9. Zalacsányi erdőtervezési körzet
 
-| Velemér | (8230) |
+## 4.9.1. Alibánfa (9056)
 
-| Zalalövő | (9009) |
+## 4.9.2. Almásháza (9119)
 
-## Zalacsányi
+## 4.9.3. Alsónemesapáti (9057)
 
-| Alibánfa | (9056) |
+## 4.9.4. Batyk (9120)
 
-| Almásháza | (9119) |
+## 4.9.5. Bezeréd (9062)
 
-| Alsónemesapáti | (9057) |
+## 4.9.6. Bókaháza (9121)
 
-| Batyk | (9120) |
+## 4.9.7. Búcsúszentlászló (9067)
 
-| Bezeréd | (9062) |
+## 4.9.8. Dötk (9072)
 
-| Bókaháza | (9121) |
+## 4.9.9. Gétye (9122)
 
-| Búcsúszentlászló | (9067) |
+## 4.9.10. Gyűrűs (9078)
 
-| Dötk | (9072) |
+## 4.9.11. Kallósd (9124)
 
-| Gétye | (9122) |
+## 4.9.12. Kehidakustány (9125)
 
-| Gyűrűs | (9078) |
+## 4.9.13. Kemendollár (9082)
 
-| Kallósd | (9124) |
+## 4.9.14. Kisbucsa (9084)
 
-| Kehidakustány | (9125) |
+## 4.9.15. Ligetfalva (9127)
 
-| Kemendollár | (9082) |
+## 4.9.16. Misefa (9088)
 
-| Kisbucsa | (9084) |
+## 4.9.17. Nagykapornak (9089)
 
-| Ligetfalva | (9127) |
+## 4.9.18. Nemesapáti (9093)
 
-| Misefa | (9088) |
+## 4.9.19. Nemeshetés (9094)
 
-| Nagykapornak | (9089) |
+## 4.9.20. Nemesrádó (9130)
 
-| Nemesapáti | (9093) |
+## 4.9.21. Nemessándorháza (9095)
 
-| Nemeshetés | (9094) |
+## 4.9.22. Nemesszentandrás (9149)
 
-| Nemesrádó | (9130) |
+## 4.9.23. Orbányosfa (9097)
 
-| Nemessándorháza | (9095) |
+## 4.9.24. Padár (9129)
 
-| Nemesszentandrás | (9149) |
+## 4.9.25. Pakod (9100)
 
-| Orbányosfa | (9097) |
+## 4.9.26. Pókaszepetk (9102)
 
-| Padár | (9129) |
+## 4.9.27. Sénye (9131)
 
-| Pakod | (9100) |
+## 4.9.28. Tekenye (9133)
 
-| Pókaszepetk | (9102) |
+## 4.9.29. Tilaj (9134)
 
-| Sénye | (9131) |
+## 4.9.30. Türje (9135)
 
-| Tilaj | (9134) |
+## 4.9.31. Vöckönd (9109)
 
-| Türje | (9135) |
+## 4.9.32. Zalaapáti (9136)
 
-| Vöckönd | (9109) |
+## 4.9.33. Zalabér (9110)
 
-| Zalaapáti | (9136) |
+## 4.9.34. Zalacsány (9137)
 
-| Zalabér | (9110) |
+## 4.9.35. Zalaistvánd (9115)
 
-| Zalacsány | (9137) |
+## 4.9.36. Zalaköveskút (9417)
 
-| Zalaistvánd | (9115) |
+## 4.9.37. Zalaszentgrót (9140)
 
-| Zalaköveskút | (9417) |
+## 4.9.38. Zalaszentgrót-Csáford (9069)
 
-| Zalaszentgrót | (9140) |
+## 4.9.39. Zalaszentgrót-Zalakoppány (9139)
 
-| Zalaszentgrót-Csáford | (9069) |
+## 4.9.40. Zalaszentgrót-Zalaudvarnok (9143)
 
-| Zalaszentgrót-Tekenye | (9133) |
+## 4.9.41. Zalaszentlászló (9141)
 
-| Zalaszentgrót-Zalakoppány | (9139) |
+## 4.9.42. Zalavég (9144)
 
-| Zalaszentgrót-Zalaudvarnok | (9143) |
+## 4.10. Zalaegerszegi erdőtervezési körzet
 
-| Zalaszentlászló | (9141) |
+## 4.10.1. Babosdöbréte (9059)
 
-| Zalavég | (9144) |
+## 4.10.2. Bagod (9060)
 
-## Zalaegerszegi
+## 4.10.3. Boncodfölde (9064)
 
-| Babosdöbréte | (9059) |
+## 4.10.4. Böde (9066)
 
-| Bagod | (9060) |
+## 4.10.5. Csonkahegyhát (9070)
 
-| Boncodfölde | (9064) |
+## 4.10.6. Dobronhegy (9071)
 
-| Böde | (9066) |
+## 4.10.7. Egervár (9074)
 
-| Csonkahegyhát | (9070) |
+## 4.10.8. Gősfa (9077)
 
-| Dobronhegy | (9071) |
+## 4.10.9. Hagyárosbörönd (9079)
 
-| Egervár | (9074) |
+## 4.10.10. Hottó (9080)
 
-| Gősfa | (9077) |
+## 4.10.11. Kávás (9081)
 
-| Hagyárosbörönd | (9079) |
+## 4.10.12. Keménfa (9083)
 
-| Hottó | (9080) |
+## 4.10.13. Kiskutas (9085)
 
-| Kávás | (9081) |
+## 4.10.14. Kispáli (9086)
 
-| Keménfa | (9083) |
+## 4.10.15. Lakhegy (9075)
 
-| Kiskutas | (9085) |
+## 4.10.16. Milejszeg (9087)
 
-| Kispáli | (9086) |
+## 4.10.17. Nagykutas (9090)
 
-| Lakhegy | (9075) |
+## 4.10.18. Nagypáli (9092)
 
-| Milejszeg | (9087) |
+## 4.10.19. Németfalu (9096)
 
-| Nagykutas | (9090) |
+## 4.10.20. Ozmánbük (9099)
 
-| Nagypáli | (9092) |
+## 4.10.21. Pethőhenye (9101)
 
-| Németfalu | (9096) |
+## 4.10.22. Salomvár (9103)
 
-| Ozmánbük | (9099) |
+## 4.10.23. Teskánd (9106)
 
-| Pethőhenye | (9101) |
+## 4.10.24. Vasboldogasszony (9107)
 
-| Salomvár | (9103) |
+## 4.10.25. Vaspör (9108)
 
-| Teskánd | (9106) |
+## 4.10.26. Zalaboldogfa (9111)
 
-| Vasboldogasszony | (9107) |
+## 4.10.27. Zalacséb (9112)
 
-| Vaspör | (9108) |
+## 4.10.28. Zalaegerszeg (9400)
 
-| Zalaboldogfa | (9111) |
+## 4.10.29. Zalaháshágy (9114)
 
-| Zalacséb | (9112) |
+## 4.10.30. Zalaszentgyörgy (9116)
 
-| Zalaegerszeg | (9400) |
+## 4.10.31. Zalaszentiván (9117)
 
-| Zalaháshágy | (9114) |
+## 4.10.32. Zalaszentlőrinc (9118)
 
-| Zalaszentgyörgy | (9116) |
+## 4.11. Zalakomári erdőtervezési körzet
 
-| Zalaszentiván | (9117) |
+## 4.11.1. Alsórajk (9194)
 
-| Zalaszentlőrinc | (9118) |
+## 4.11.2. Balatonmagyaród (9231)
 
-## Zalakomári
+## 4.11.3. Csapi (9232)
 
-| Alsórajk | (9194) |
+## 4.11.4. Dióskál (9196)
 
-| Balatonmagyaród | (9231) |
+## 4.11.5. Egeraracsa (9233)
 
-| Csapi | (9232) |
+## 4.11.6. Esztergályhorváti (9234)
 
-| Dióskál | (9196) |
+## 4.11.7. Felsőrajk (9198)
 
-| Egeraracsa | (9233) |
+## 4.11.8. Galambok (9235)
 
-| Esztergályhorváti | (9234) |
+## 4.11.9. Garabonc (9236)
 
-| Felsőrajk | (9198) |
+## 4.11.10. Kerecseny (9205)
 
-| Galambok | (9235) |
+## 4.11.11. Kilimán (9206)
 
-| Garabonc | (9236) |
+## 4.11.12. Kisrécse (9238)
 
-| Kerecseny | (9205) |
+## 4.11.13. Miháld (9221)
 
-| Kilimán | (9206) |
+## 4.11.14. Nagyrada (9241)
 
-| Kisrécse | (9238) |
+## 4.11.15. Orosztony (9242)
 
-| Miháld | (9221) |
+## 4.11.16. Pacsa (9128)
 
-| Nagyrada | (9241) |
+## 4.11.17. Pat (9243)
 
-| Orosztony | (9242) |
+## 4.11.18. Pötréte (9212)
 
-| Pacsa | (9128) |
+## 4.11.19. Sand (9227)
 
-| Pat | (9243) |
+## 4.11.20. Szentpéterúr (9132)
 
-| Pötréte | (9212) |
+## 4.11.21. Zalaigrice (9138)
 
-| Sand | (9227) |
+## 4.11.22. Zalakaros (9244)
 
-| Szentpéterúr | (9132) |
+## 4.11.23. Zalakomár (9239)
 
-| Zalaigrice | (9138) |
+## 4.11.24. Zalamerenye (9245)
 
-| Zalakaros | (9244) |
+## 4.11.25. Zalasárszeg (9246)
 
-| Zalakomár | (9239) |
+## 4.11.26. Zalaszabar (9247)
 
-| Zalamerenye | (9245) |
+## 4.11.27. Zalaszentjakab (9248)
 
-| Zalasárszeg | (9246) |
+## 4.11.28. Zalaszentmárton (9249)
 
-| Zalaszabar | (9247) |
+## 4.11.29. Zalaszentmihály (9142)
 
-| Zalaszentjakab | (9248) |
+## 4.11.30. Zalaújlak (9250)
 
-| Zalaszentmárton | (9249) |
+## 4.11.31. Zalavár (9418)
 
-| Zalaszentmihály | (9142) |
+## 5. Somogy Megyei Kormányhivatal
 
-| Zalaújlak | (9250) |
+## 5.1. Barcsi erdőtervezési körzet
 
-| Zalavár | (9418) |
+## 5.1.1. Babócsa (6172)
 
-## 05 Somogy Megyei Kormányhivatal Erdészeti Igazgatósága
+## 5.1.2. Barcs (6173)
 
-## Barcsi
+## 5.1.3. Barcs-Drávaszentes (6178)
 
-| Babócsa | (6172) |
+## 5.1.4. Barcs-Somogytarnóca (6186)
 
-| Barcs | (6173) |
+## 5.1.5. Bolhó (6174)
 
-| Barcs-Drávaszentes | (6178) |
+## 5.1.6. Csokonyavisonta (6175)
 
-| Barcs-Somogytarnóca | (6186) |
+## 5.1.7. Darány (6176)
 
-| Bolhó | (6174) |
+## 5.1.8. Drávagárdony (6177)
 
-| Csokonyavisonta | (6175) |
+## 5.1.9. Drávatamási (6179)
 
-| Darány | (6176) |
+## 5.1.10. Homokszentgyörgy (6198)
 
-| Drávagárdony | (6177) |
+## 5.1.11. Istvándi (6180)
 
-| Drávatamási | (6179) |
+## 5.1.12. Kálmáncsa (6199)
 
-| Homokszentgyörgy | (6198) |
+## 5.1.13. Kastélyosdombó (6181)
 
-| Istvándi | (6180) |
+## 5.1.14. Komlósd (6182)
 
-| Kálmáncsa | (6199) |
+## 5.1.15. Péterhida (6183)
 
-| Kastélyosdombó | (6181) |
+## 5.1.16. Szulok (6187)
 
-| Komlósd | (6182) |
+## 5.2. Igali erdőtervezési körzet
 
-| Péterhida | (6183) |
+## 5.2.1. Bonnya (6092)
 
-| Szulok | (6187) |
+## 5.2.2. Büssü (6219)
 
-## Igali
+## 5.2.3. Ecseny (6093)
 
-| Bonnya | (6092) |
+## 5.2.4. Felsőmocsolád (6094)
 
-| Büssü | (6219) |
+## 5.2.5. Fiad (6095)
 
-| Ecseny | (6093) |
+## 5.2.6. Fonó (6222)
 
-| Felsőmocsolád | (6094) |
+## 5.2.7. Gadács (6096)
 
-| Fiad | (6095) |
+## 5.2.8. Gölle (6223)
 
-| Fonó | (6222) |
+## 5.2.9. Igal (6097)
 
-| Gadács | (6096) |
+## 5.2.10. Kazsok (6098)
 
-| Gölle | (6223) |
+## 5.2.11. Kisbárapáti (6100)
 
-| Igal | (6097) |
+## 5.2.12. Kisgyalán (6230)
 
-| Kazsok | (6098) |
+## 5.2.13. Magyaratád (6101)
 
-| Kisbárapáti | (6100) |
+## 5.2.14. Orci (6233)
 
-| Kisgyalán | (6230) |
+## 5.2.15. Patalom (6234)
 
-| Magyaratád | (6101) |
+## 5.2.16. Ráksi (6104)
 
-| Orci | (6233) |
+## 5.2.17. Somodor (6105)
 
-| Patalom | (6234) |
+## 5.2.18. Somogyacsa (6106)
 
-| Ráksi | (6104) |
+## 5.2.19. Somogydöröcske (6107)
 
-| Somodor | (6105) |
+## 5.2.20. Somogyszil (6108)
 
-| Somogyacsa | (6106) |
+## 5.2.21. Szentgáloskér (6109)
 
-| Somogydöröcske | (6107) |
+## 5.2.22. Szorosad (6110)
 
-| Somogyszil | (6108) |
+## 5.2.23. Törökkoppány (6111)
 
-| Szentgáloskér | (6109) |
+## 5.2.24. Zimány (6239)
 
-| Szorosad | (6110) |
+## 5.3. Iharosi erdőtervezési körzet
 
-| Törökkoppány | (6111) |
+## 5.3.1. Csurgó (6151)
 
-| Zimány | (6239) |
+## 5.3.2. Csurgónagymarton (6159)
 
-## Iharosi
+## 5.3.3. Gyékényes (6160)
 
-| Csurgó | (6151) |
+## 5.3.4. Őrtilos (6161)
 
-| Csurgónagymarton | (6159) |
+## 5.3.5. Porrog (6163)
 
-| Gyékényes | (6160) |
+## 5.3.6. Porrogszentkirály (6164)
 
-| Őrtilos | (6161) |
+## 5.3.7. Porrogszentpál (6165)
 
-| Porrog | (6163) |
+## 5.3.8. Somogybükkösd (6166)
 
-| Porrogszentkirály | (6164) |
+## 5.3.9. Zákány (6167)
 
-| Porrogszentpál | (6165) |
+## 5.3.10. Zákányfalu (6254)
 
-| Somogybükkösd | (6166) |
+## 5.4. Kaszói erdőtervezési körzet
 
-| Zákány | (6167) |
+## 5.4.1. Bolhás (6143)
 
-| Zákányfalu | (6254) |
+## 5.4.2. Iharos (6152)
 
-## Kaszói
+## 5.4.3. Iharosberény (6153)
 
-| Bolhás | (6143) |
+## 5.4.4. Inke (6154)
 
-| Iharos | (6152) |
+## 5.4.5. Kaszó (6251)
 
-| Iharosberény | (6153) |
+## 5.4.6. Pogányszentpéter (6162)
 
-| Inke | (6154) |
+## 5.4.7. Somogycsicsó (6155)
 
-| Kaszó | (6251) |
+## 5.4.8. Somogyszob (6148)
 
-| Pogányszentpéter | (6162) |
+## 5.4.9. Szenta (6157)
 
-| Somogycsicsó | (6155) |
+## 5.4.10. Tarany (6158)
 
-| Somogyszob | (6148) |
+## 5.5. Kelet-Zselic erdőtervezési körzet
 
-| Szenta | (6157) |
+## 5.5.1. Baté (6218)
 
-| Tarany | (6158) |
+## 5.5.2. Cserénfa (6220)
 
-## Kelet-Zselic
+## 5.5.3. Csoma (6221)
 
-| Baté | (6218) |
+## 5.5.4. Gálosfa (6240)
 
-| Cserénfa | (6220) |
+## 5.5.5. Hajmás (6241)
 
-| Csoma | (6221) |
+## 5.5.6. Kaposgyarmat (6242)
 
-| Gálosfa | (6240) |
+## 5.5.7. Kaposhomok (6243)
 
-| Hajmás | (6241) |
+## 5.5.8. Kaposkeresztúr (6244)
 
-| Kaposgyarmat | (6242) |
+## 5.5.9. Kercseliget (6229)
 
-| Kaposhomok | (6243) |
+## 5.5.10. Mosdós (6231)
 
-| Kaposkeresztúr | (6244) |
+## 5.5.11. Nagyberki (6232)
 
-| Kercseliget | (6229) |
+## 5.5.12. Sántos (6235)
 
-| Mosdós | (6231) |
+## 5.5.13. Simonfa (6245)
 
-| Nagyberki | (6232) |
+## 5.5.14. Szabadi (6236)
 
-| Sántos | (6235) |
+## 5.5.15. Szentbalázs (6246)
 
-| Simonfa | (6245) |
+## 5.5.16. Taszár (6237)
 
-| Szabadi | (6236) |
+## 5.6. Lábodi erdőtervezési körzet
 
-| Szentbalázs | (6246) |
+## 5.6.1. Beleg (6142)
 
-| Taszár | (6237) |
+## 5.6.2. Csököly (6204)
 
-## Lábodi
+## 5.6.3. Görgeteg (6189)
 
-| Beleg | (6142) |
+## 5.6.4. Görgeteg-Kuntelep (6190)
 
-| Csököly | (6204) |
+## 5.6.5. Hedrehely (6196)
 
-| Görgeteg | (6189) |
+## 5.6.6. Hencse (6197)
 
-| Görgeteg-Kuntelep | (6190) |
+## 5.6.7. Kadarkút (6206)
 
-| Hedrehely | (6196) |
+## 5.6.8. Kisbajom (6135)
 
-| Hencse | (6197) |
+## 5.6.9. Kőkút (6200)
 
-| Kadarkút | (6206) |
+## 5.6.10. Lábod (6191)
 
-| Kisbajom | (6135) |
+## 5.6.11. Lad (6201)
 
-| Kőkút | (6200) |
+## 5.6.12. Mike (6192)
 
-| Lábod | (6191) |
+## 5.6.13. Nagykorpád (6145)
 
-| Lad | (6201) |
+## 5.6.14. Patosfa (6202)
 
-| Mike | (6192) |
+## 5.6.15. Rinyabesenyő (6193)
 
-| Nagykorpád | (6145) |
+## 5.6.16. Rinyakovácsi (6209)
 
-| Patosfa | (6202) |
+## 5.6.17. Szabás (6149)
 
-| Rinyabesenyő | (6193) |
+## 5.7. Marcali erdőtervezési körzet
 
-| Rinyakovácsi | (6209) |
+## 5.7.1. Balatonberény (6017)
 
-| Szabás | (6149) |
+## 5.7.2. Balatonfenyves (6018)
 
-## Marcali
+## 5.7.3. Balatonkeresztúr (6019)
 
-| Balatonberény | (6017) |
+## 5.7.4. Balatonmáriafürdő (6020)
 
-| Balatonfenyves | (6018) |
+## 5.7.5. Balatonszentgyörgy (6021)
 
-| Balatonkeresztúr | (6019) |
+## 5.7.6. Balatonújlak (6022)
 
-| Balatonmáriafürdő | (6020) |
+## 5.7.7. Csákány (6001)
 
-| Balatonszentgyörgy | (6021) |
+## 5.7.8. Csömend (6025)
 
-| Balatonújlak | (6022) |
+## 5.7.9. Főnyed (6002)
 
-| Csákány | (6001) |
+## 5.7.10. Gadány (6003)
 
-| Csömend | (6025) |
+## 5.7.11. Hollád (6026)
 
-| Főnyed | (6002) |
+## 5.7.12. Kelevíz (6133)
 
-| Gadány | (6003) |
+## 5.7.13. Kéthely (6028)
 
-| Hollád | (6026) |
+## 5.7.14. Marcali (6004)
 
-| Kelevíz | (6133) |
+## 5.7.15. Marcali-Bize (6023)
 
-| Kéthely | (6028) |
+## 5.7.16. Marcali-Boronka (6024)
 
-| Marcali | (6004) |
+## 5.7.17. Marcali-Horvátkút (6027)
 
-| Marcali-Bize | (6023) |
+## 5.7.18. Nagyszakácsi (6005)
 
-| Marcali-Boronka | (6024) |
+## 5.7.19. Nemesdéd (6006)
 
-| Marcali-Horvátkút | (6027) |
+## 5.7.20. Nemeskisfalud (6007)
 
-| Nagyszakácsi | (6005) |
+## 5.7.21. Nemesvid (6008)
 
-| Nemesdéd | (6006) |
+## 5.7.22. Sávoly (6009)
 
-| Nemeskisfalud | (6007) |
+## 5.7.23. Somogysámson (6033)
 
-| Nemesvid | (6008) |
+## 5.7.24. Somogysimonyi (6010)
 
-| Sávoly | (6009) |
+## 5.7.25. Somogyszentpál (6034)
 
-| Somogysámson | (6033) |
+## 5.7.26. Somogyzsitfa (6011)
 
-| Somogysimonyi | (6010) |
+## 5.7.27. Szegerdő (6035)
 
-| Somogyszentpál | (6034) |
+## 5.7.28. Szőkedencs (6013)
 
-| Somogyzsitfa | (6011) |
+## 5.7.29. Tapsony (6014)
 
-| Szegerdő | (6035) |
+## 5.7.30. Táska (6036)
 
-| Szőkedencs | (6013) |
+## 5.7.31. Tikos (6037)
 
-| Tapsony | (6014) |
+## 5.7.32. Varászló (6015)
 
-| Táska | (6036) |
+## 5.7.33. Vése (6016)
 
-| Tikos | (6037) |
+## 5.7.34. Vörs (6038)
 
-| Varászló | (6015) |
+## 5.8. Nagyatádi erdőtervezési körzet
 
-| Vése | (6016) |
+## 5.8.1. Bakháza (6188)
 
-| Vörs | (6038) |
+## 5.8.2. Bélavár (6168)
 
-## Nagyatádi
+## 5.8.3. Berzence (6150)
 
-| Bakháza | (6188) |
+## 5.8.4. Háromfa (6169)
 
-| Bélavár | (6168) |
+## 5.8.5. Heresznye (6170)
 
-| Berzence | (6150) |
+## 5.8.6. Nagyatád (6144)
 
-| Háromfa | (6169) |
+## 5.8.7. Ötvöskónyi (6146)
 
-| Heresznye | (6170) |
+## 5.8.8. Rinyaszentkirály (6194)
 
-| Nagyatád | (6144) |
+## 5.8.9. Rinyaújlak (6195)
 
-| Ötvöskónyi | (6146) |
+## 5.8.10. Rinyaújnép (6184)
 
-| Rinyaszentkirály | (6194) |
+## 5.8.11. Segesd (6147)
 
-| Rinyaújlak | (6195) |
+## 5.8.12. Somogyaracs (6185)
 
-| Rinyaújnép | (6184) |
+## 5.8.13. Somogyudvarhely (6156)
 
-| Segesd | (6147) |
+## 5.8.14. Vízvár (6171)
 
-| Somogyaracs | (6185) |
+## 5.9. Nagybajomi erdőtervezési körzet
 
-| Somogyudvarhely | (6156) |
+## 5.9.1. Bodrog (6112)
 
-| Vízvár | (6171) |
+## 5.9.2. Böhönye (6000)
 
-## Nagybajomi
+## 5.9.3. Gige (6205)
 
-| Bodrog | (6112) |
+## 5.9.4. Hetes (6129)
 
-| Böhönye | (6000) |
+## 5.9.5. Hosszúvíz (6130)
 
-| Gige | (6205) |
+## 5.9.6. Jákó (6131)
 
-| Hetes | (6129) |
+## 5.9.7. Kaposfő (6207)
 
-| Hosszúvíz | (6130) |
+## 5.9.8. Kaposmérő (6225)
 
-| Jákó | (6131) |
+## 5.9.9. Kisasszond (6134)
 
-| Kaposfő | (6207) |
+## 5.9.10. Kiskorpád (6136)
 
-| Kaposmérő | (6225) |
+## 5.9.11. Kutas (6137)
 
-| Kisasszond | (6134) |
+## 5.9.12. Libickozma (6029)
 
-| Kiskorpád | (6136) |
+## 5.9.13. Mesztegnyő (6138)
 
-| Kutas | (6137) |
+## 5.9.14. Mezőcsokonya (6139)
 
-| Libickozma | (6029) |
+## 5.9.15. Nagybajom (6030)
 
-| Mesztegnyő | (6138) |
+## 5.9.16. Pálmajor (6403)
 
-| Mezőcsokonya | (6139) |
+## 5.9.17. Somogyfajsz (6032)
 
-| Nagybajom | (6030) |
+## 5.9.18. Somogysárd (6140)
 
-| Pálmajor | (6403) |
+## 5.9.19. Szenyér (6012)
 
-| Somogyfajsz | (6032) |
+## 5.9.20. Újvárfalva (6141)
 
-| Somogysárd | (6140) |
+## 5.10. Nyugat-Ormánsági erdőtervezési körzet
 
-| Szenyér | (6012) |
+## 5.10.1. Lakócsa (6247)
 
-| Újvárfalva | (6141) |
+## 5.10.2. Potony (6248)
 
-## Nyugat-Ormánsági
+## 5.10.3. Szentborbás (6249)
 
-| Lakócsa | (6247) |
+## 5.10.4. Tótújfalu (6250)
 
-| Potony | (6248) |
+## 5.11. Nyugat-Zselic erdőtervezési körzet
 
-| Szentborbás | (6249) |
+## 5.11.1. Bárdudvarnok (6203)
 
-| Tótújfalu | (6250) |
+## 5.11.2. Bőszénfa (6214)
 
-## Nyugat-Zselic
+## 5.11.3. Kaposújlak (6227)
 
-| Bárdudvarnok | (6203) |
+## 5.11.4. Kaposvár (6228)
 
-| Bőszénfa | (6214) |
+## 5.11.5. Kaposvár-Kaposfüred (6224)
 
-| Kaposújlak | (6227) |
+## 5.11.6. Kaposvár-Toponár (6238)
 
-| Kaposvár | (6228) |
+## 5.11.7. Kaposszerdahely (6226)
 
-| Kaposvár-Kaposfüred | (6224) |
+## 5.11.8. Patca (6208)
 
-| Kaposvár-Toponár | (6238) |
+## 5.11.9. Szenna (6210)
 
-| Kaposszerdahely | (6226) |
+## 5.11.10. Szilvásszentmárton (6211)
 
-| Patca | (6208) |
+## 5.11.11. Visnye (6212)
 
-| Szenna | (6210) |
+## 5.11.12. Zselickisfalud (6213)
 
-| Szilvásszentmárton | (6211) |
+## 5.11.13. Zselickislak (6216)
 
-| Visnye | (6212) |
+## 5.11.14. Zselicszentpál (6217)
 
-| Zselickisfalud | (6213) |
+## 5.12. Somogyvári erdőtervezési körzet
 
-| Zselickislak | (6216) |
+## 5.12.1. Alsóbogát (6252)
 
-| Zselicszentpál | (6217) |
+## 5.12.2. Balatonboglár (6039)
 
-## Somogyvári
+## 5.12.3. Balatonboglár-Szőlőskislak (6054)
 
-| Alsóbogát | (6252) |
+## 5.12.4. Balatonlelle (6040)
 
-| Balatonboglár | (6039) |
+## 5.12.5. Buzsák (6113)
 
-| Balatonboglár-Szőlőskislak | (6054) |
+## 5.12.6. Csombárd (6128)
 
-| Balatonlelle | (6040) |
+## 5.12.7. Edde (6114)
 
-| Buzsák | (6113) |
+## 5.12.8. Fonyód (6041)
 
-| Csombárd | (6128) |
+## 5.12.9. Gamás (6042)
 
-| Edde | (6114) |
+## 5.12.10. Gyugy (6043)
 
-| Fonyód | (6041) |
+## 5.12.11. Hács (6044)
 
-| Gamás | (6042) |
+## 5.12.12. Juta (6132)
 
-| Gyugy | (6043) |
+## 5.12.13. Kisberény (6046)
 
-| Hács | (6044) |
+## 5.12.14. Látrány (6047)
 
-| Juta | (6132) |
+## 5.12.15. Lengyeltóti (6048)
 
-| Kisberény | (6046) |
+## 5.12.16. Magyaregres (6115)
 
-| Látrány | (6047) |
+## 5.12.17. Mernye (6116)
 
-| Lengyeltóti | (6048) |
+## 5.12.18. Nikla (6117)
 
-| Magyaregres | (6115) |
+## 5.12.19. Ordacsehi (6050)
 
-| Mernye | (6116) |
+## 5.12.20. Osztopán (6118)
 
-| Nikla | (6117) |
+## 5.12.21. Öreglak (6119)
 
-| Ordacsehi | (6050) |
+## 5.12.22. Pamuk (6120)
 
-| Osztopán | (6118) |
+## 5.12.23. Polány (6121)
 
-| Öreglak | (6119) |
+## 5.12.24. Pusztakovácsi (6031)
 
-| Pamuk | (6120) |
+## 5.12.25. Somogyaszaló (6122)
 
-| Polány | (6121) |
+## 5.12.26. Somogybabod (6051)
 
-| Pusztakovácsi | (6031) |
+## 5.12.27. Somogygeszti (6123)
 
-| Somogyaszaló | (6122) |
+## 5.12.28. Somogyjád (6124)
 
-| Somogybabod | (6051) |
+## 5.12.29. Somogytúr (6052)
 
-| Somogygeszti | (6123) |
+## 5.12.30. Somogyvámos (6125)
 
-| Somogyjád | (6124) |
+## 5.12.31. Somogyvár (6126)
 
-| Somogytúr | (6052) |
+## 5.12.32. Szőlősgyörök (6053)
 
-| Somogyvámos | (6125) |
+## 5.12.33. Várda (6127)
 
-| Somogyvár | (6126) |
+## 5.12.34. Visz (6055)
 
-| Szőlősgyörök | (6053) |
+## 5.13. Zamárdi erdőtervezési körzet
 
-| Várda | (6127) |
+## 5.13.1. Ádánd (6070)
 
-| Visz | (6055) |
+## 5.13.2. Andocs (6069)
 
-## Zamárdi
+## 5.13.3. Bábonymegyer (6073)
 
-| Ádaánd | (6070) |
+## 5.13.4. Balatonendréd (6056)
 
-| Andocs | (6069) |
+## 5.13.5. Balatonföldvár (6057)
 
-| Bábonymegyer | (6073) |
+## 5.13.6. Balatonőszöd (6058)
 
-| Balatonendréd | (6056) |
+## 5.13.7. Balatonszabadi (6072)
 
-| Balatonföldvár | (6057) |
+## 5.13.8. Balatonszárszó (6059)
 
-| Balatonőszöd | (6058) |
+## 5.13.9. Balatonszemes (6060)
 
-| Balatonszabadi | (6072) |
+## 5.13.10. Bálványos (6061)
 
-| Balatonszárszó | (6059) |
+## 5.13.11. Bedegkér (6074)
 
-| Balatonszemes | (6060) |
+## 5.13.12. Kánya (6076)
 
-| Bálványos | (6061) |
+## 5.13.13. Kapoly (6075)
 
-| Bedegkér | (6074) |
+## 5.13.14. Kára (6099)
 
-| Kánya | (6076) |
+## 5.13.15. Karád (6045)
 
-| Kapoly | (6075) |
+## 5.13.16. Kereki (6062)
 
-| Kára | (6099) |
+## 5.13.17. Kőröshegy (6063)
 
-| Karád | (6045) |
+## 5.13.18. Kötcse (6064)
 
-| Kereki | (6062) |
+## 5.13.19. Lulla (6077)
 
-| Kőröshegy | (6063) |
+## 5.13.20. Miklósi (6102)
 
-| Kötcse | (6064) |
+## 5.13.21. Nágocs (6103)
 
-| Lulla | (6077) |
+## 5.13.22. Nagyberény (6078)
 
-| Miklósi | (6102) |
+## 5.13.23. Nagycsepely (6049)
 
-| Nágocs | (6103) |
+## 5.13.24. Nyim (6079)
 
-| Nagyberény | (6078) |
+## 5.13.25. Pusztaszemes (6065)
 
-| Nagycsepely | (6049) |
+## 5.13.26. Ságvár (6080)
 
-| Nyim | (6079) |
+## 5.13.27. Sérsekszőlős (6081)
 
-| Pusztaszemes | (6065) |
+## 5.13.28. Siófok (6082)
 
-| Ságvár | (6080) |
+## 5.13.29. Siójut (6083)
 
-| Sérsekszőlős | (6081) |
+## 5.13.30. Som (6084)
 
-| Siófok | (6082) |
+## 5.13.31. Somogyegres (6085)
 
-| Siójut | (6083) |
+## 5.13.32. Somogymeggyes (6086)
 
-| Som | (6084) |
+## 5.13.33. Szántód (6253)
 
-| Somogyegres | (6085) |
+## 5.13.34. Szólád (6066)
 
-| Somogymeggyes | (6086) |
+## 5.13.35. Tab (6087)
 
-| Szántód | (6253) |
+## 5.13.36. Teleki (6067)
 
-| Szólád | (6066) |
+## 5.13.37. Tengőd (6088)
 
-| Tab | (6087) |
+## 5.13.38. Torvaj (6089)
 
-| Teleki | (6067) |
+## 5.13.39. Zala (6090)
 
-| Tengőd | (6088) |
+## 5.13.40. Zamárdi (6068)
 
-| Torvaj | (6089) |
+## 5.13.41. Zics (6091)
 
-| Zal | (6090) |
+## 6. Baranya Megyei Kormányhivatal
 
-| Zamárdi | (6068) |
+## 6.1. Bátaszék-Bonyhádi erdőtervezési körzet
 
-| Zics | (6091) |
+## 6.1.1. Alsónána (7582)
 
-## 06 Baranya Megyei Kormányhivatal Erdészeti Igazgatósága
+## 6.1.2. Bátaapáti (7583)
 
-## Bátaszék-Bonyhádi
+## 6.1.3. Bátaszék (7584)
 
-| Alsónána | (7582) |
+## 6.1.4. Bonyhád (7585)
 
-| Bátaapáti | (7583) |
+## 6.1.5. Cikó (7586)
 
-| Bátaszék | (7584) |
+## 6.1.6. Grábóc (7587)
 
-| Bonyhád | (7585) |
+## 6.1.7. Kakasd (7588)
 
-| Cikó | (7586) |
+## 6.1.8. Mórágy (7590)
 
-| Grábóc | (7587) |
+## 6.1.9. Mőcsény (7591)
 
-| Kakasd | (7588) |
+## 6.1.10. Szálka (7592)
 
-| Mórágy | (7590) |
+## 6.1.11. Várdomb (7594)
 
-| Mőcsény | (7591) |
+## 6.2. Bédai erdőtervezési körzet
 
-| Szálka | (7592) |
+## 6.2.1. Bár (318)
 
-| Várdomb | (7594) |
+## 6.2.2. Dunaszekcső (319)
 
-## Bédai
+## 6.2.3. Homorúd (304)
 
-| Bár | (318) |
+## 6.2.4. Kölked (320)
 
-| Dunaszekcső | (319) |
+## 6.2.5. Mohács (305)
 
-| Homorúd | (304) |
+## 6.3. Dél-Baranyai erdőtervezési körzet
 
-| Kölked | (320) |
+## 6.3.1. Aranyosgadány (190)
 
-| Mohács | (305) |
+## 6.3.2. Áta (191)
 
-## Dél-Baranyai
+## 6.3.3. Babarc (230)
 
-| Aranyosgadány | (190) |
+## 6.3.4. Belvárdgyula (193)
 
-| Áta | (191) |
+## 6.3.5. Berkesd (231)
 
-| Babarc | (230) |
+## 6.3.6. Bezedek (232)
 
-| Belvárdgyula | (193) |
+## 6.3.7. Birján (194)
 
-| Berkesd | (231) |
+## 6.3.8. Bogád (195)
 
-| Bezedek | (232) |
+## 6.3.9. Bóly (233)
 
-| Birján | (194) |
+## 6.3.10. Borjád (234)
 
-| Bogád | (195) |
+## 6.3.11. Bosta (196)
 
-| Bóly | (233) |
+## 6.3.12. Egerág (197)
 
-| Borjád | (234) |
+## 6.3.13. Ellend (235)
 
-| Bosta | (196) |
+## 6.3.14. Erdősmárok (236)
 
-| Egerág | (197) |
+## 6.3.15. Erzsébet (238)
 
-| Ellend | (235) |
+## 6.3.16. Fazekasboda (239)
 
-| Erdősmárok | (236) |
+## 6.3.17. Geresdlak (400)
 
-| Erzsébet | (238) |
+## 6.3.18. Görcsönydoboka (242)
 
-| Fazekasboda | (239) |
+## 6.3.19. Gyód (198)
 
-| Geresdlak | (400) |
+## 6.3.20. Hásságy (199)
 
-| Görcsönydoboka | (242) |
+## 6.3.21. Himesháza (244)
 
-| Gyód | (198) |
+## 6.3.22. Ivándárda (245)
 
-| Hásságy | (199) |
+## 6.3.23. Kátoly (246)
 
-| Himesháza | (244) |
+## 6.3.24. Kékesd (247)
 
-| Ivándárda | (245) |
+## 6.3.25. Keszü (201)
 
-| Kátoly | (246) |
+## 6.3.26. Kisbudmér (248)
 
-| Kékesd | (247) |
+## 6.3.27. Kisherend (202)
 
-| Keszü | (201) |
+## 6.3.28. Kiskassa (203)
 
-| Kisbudmér | (248) |
+## 6.3.29. Kislippó (249)
 
-| Kisherend | (202) |
+## 6.3.30. Kisnyárád (250)
 
-| Kiskassa | (203) |
+## 6.3.31. Kozármisleny (205)
 
-| Kislippó | (249) |
+## 6.3.32. Kökény (206)
 
-| Kisnyárád | (250) |
+## 6.3.33. Lánycsók (252)
 
-| Kozármisleny | (205) |
+## 6.3.34. Lippó (253)
 
-| Kökény | (206) |
+## 6.3.35. Liptód (254)
 
-| Lánycsók | (252) |
+## 6.3.36. Lothárd (207)
 
-| Lippó | (253) |
+## 6.3.37. Magyarsarlós (209)
 
-| Liptód | (254) |
+## 6.3.38. Majs (256)
 
-| Lothárd | (207) |
+## 6.3.39. Maráza (257)
 
-| Magyarsarlós | (209) |
+## 6.3.40. Máriakéménd (259)
 
-| Majs | (256) |
+## 6.3.41. Martonfa (258)
 
-| Maráza | (257) |
+## 6.3.42. Monyoród (261)
 
-| Máriakéménd | (259) |
+## 6.3.43. Nagybudmér (262)
 
-| Martonfa | (258) |
+## 6.3.44. Nagykozár (212)
 
-| Monyoród | (261) |
+## 6.3.45. Nagynyárád (263)
 
-| Nagybudmér | (262) |
+## 6.3.46. Olasz (214)
 
-| Nagykozár | (212) |
+## 6.3.47. Palotabozsok (267)
 
-| Nagynyárád | (263) |
+## 6.3.48. Pécsdevecser (219)
 
-| Olasz | (214) |
+## 6.3.49. Pécsudvard (220)
 
-| Palotabozsok | (267) |
+## 6.3.50. Pellérd (216)
 
-| Pécsdevecser | (219) |
+## 6.3.51. Pereked (268)
 
-| Pécsudvard | (220) |
+## 6.3.52. Peterd (217)
 
-| Pellérd | (216) |
+## 6.3.53. Pócsa (270)
 
-| Pereked | (268) |
+## 6.3.54. Pogány (221)
 
-| Peterd | (217) |
+## 6.3.55. Romonya (222)
 
-| Pócsa | (270) |
+## 6.3.56. Sárok (273)
 
-| Pogány | (221) |
+## 6.3.57. Sátorhely (409)
 
-| Romonya | (222) |
+## 6.3.58. Somberek (274)
 
-| Sárok | (273) |
+## 6.3.59. Szajk (275)
 
-| Sátorhely | (409) |
+## 6.3.60. Szalánta (223)
 
-| Somberek | (274) |
+## 6.3.61. Szebény (276)
 
-| Szajk | (275) |
+## 6.3.62. Szederkény (277)
 
-| Szalánta | (223) |
+## 6.3.63. Székelyszabar (279)
 
-| Szebény | (276) |
+## 6.3.64. Szellő (278)
 
-| Szederkény | (277) |
+## 6.3.65. Szemely (224)
 
-| Székelyszabar | (279) |
+## 6.3.66. Szilágy (280)
 
-| Szellő | (278) |
+## 6.3.67. Szilvás (225)
 
-| Szemely | (224) |
+## 6.3.68. Szőkéd (226)
 
-| Szilágy | (280) |
+## 6.3.69. Szűr (281)
 
-| Szilvás | (225) |
+## 6.3.70. Töttös (282)
 
-| Szőkéd | (226) |
+## 6.3.71. Udvar (283)
 
-| Szűr | (281) |
+## 6.3.72. Újpetre (227)
 
-| Töttös | (282) |
+## 6.3.73. Versend (284)
 
-| Udvar | (283) |
+## 6.3.74. Vokány (228)
 
-| Újpetre | (227) |
+## 6.4. Gemenci erdőtervezési körzet
 
-| Versend | (284) |
+## 6.4.1. Alsónyék (7603)
 
-| Vokány | (228) |
+## 6.4.2. Báta (7604)
 
-## Gemenci
+## 6.4.3. Bogyiszló (7595)
 
-| Alsónyék | (7603) |
+## 6.4.4. Decs (7605)
 
-| Báta | (7604) |
+## 6.4.5. Fácánkert (7597)
 
-| Bogyiszló | (7595) |
+## 6.4.6. Fadd (7596)
 
-| Decs | (7605) |
+## 6.4.7. Harc (7598)
 
-| Fácánkert | (7597) |
+## 6.4.8. Őcsény (7600)
 
-| Fadd | (7596) |
+## 6.4.9. Pörböly (7607)
 
-| Harc | (7598) |
+## 6.4.10. Sárpilis (7606)
 
-| Őcsény | (7600) |
+## 6.4.11. Sióagárd (7601)
 
-| Pörböly | (7607) |
+## 6.4.12. Szekszárd (7593)
 
-| Sárpilis | (7606) |
+## 6.4.13. Tolna (7602)
 
-| Sióagárd | (7601) |
+## 6.4.14. Tolna-Mözs (7599)
 
-| Szekszárd | (7593) |
+## 6.5. Hetvehelyi erdőtervezési körzet
 
-| Tolna | (7602) |
+## 6.5.1. Abaliget (21)
 
-| Tolna-Mözs | (7599) |
+## 6.5.2. Bakonya (22)
 
-## Hetvehelyi
+## 6.5.3. Bicsérd (24)
 
-| Abaliget | (21) |
+## 6.5.4. Boda (25)
 
-| Bakonya | (22) |
+## 6.5.5. Bodolyabér (26)
 
-| Bicsérd | (24) |
+## 6.5.6. Bükkösd (27)
 
-| Boda | (25) |
+## 6.5.7. Cserdi (28)
 
-| Bodolyabér | (26) |
+## 6.5.8. Cserkút (29)
 
-| Bükkösd | (27) |
+## 6.5.9. Csonkamindszent (30)
 
-| Cserdi | (28) |
+## 6.5.10. Dinnyeberki (31)
 
-| Cserkút | (29) |
+## 6.5.11. Helesfa (33)
 
-| Csonkamindszent | (30) |
+## 6.5.12. Hetvehely (34)
 
-| Dinnyeberki | (31) |
+## 6.5.13. Husztót (35)
 
-| Helesfa | (33) |
+## 6.5.14. Kacsóta (36)
 
-| Hetvehely | (34) |
+## 6.5.15. Kishajmás (38)
 
-| Husztót | (35) |
+## 6.5.16. Kovácsszénája (39)
 
-| Kacsóta | (36) |
+## 6.5.17. Kővágószőlős (40)
 
-| Kishajmás | (38) |
+## 6.5.18. Kővágótőttős (41)
 
-| Kovácsszénája | (39) |
+## 6.5.19. Okorvölgy (44)
 
-| Kővágószőlős | (40) |
+## 6.5.20. Orfű (45)
 
-| Kővágótöttös | (41) |
+## 6.5.21. Szentkatalin (16)
 
-| Okorvölgy | (44) |
+## 6.5.22. Szentlőrinc (47)
 
-| Orfű | (45) |
+## 6.5.23. Zók (49)
 
-| Szentkatalin | (16) |
+## 6.6. Hőgyészi erdőtervezési körzet
 
-| Szentlőrinc | (47) |
+## 6.6.1. Aparhant (7554)
 
-| Zók | (49) |
+## 6.6.2. Bonyhádvarasd (7555)
 
-## Hőgyészi
+## 6.6.3. Csibrák (7556)
 
-| Aparhant | (7554) |
+## 6.6.4. Diósberény (7557)
 
-| Bonyhádvarasd | (7555) |
+## 6.6.5. Dúzs (7558)
 
-| Csibrák | (7556) |
+## 6.6.6. Felsőnána (7559)
 
-| Diósberény | (7557) |
+## 6.6.7. Györe (7560)
 
-| Dúzs | (7558) |
+## 6.6.8. Hőgyész (7561)
 
-| Felsőnána | (7559) |
+## 6.6.9. Izmény (7562)
 
-| Györe | (7560) |
+## 6.6.10. Kalaznó (7563)
 
-| Hőgyész | (7561) |
+## 6.6.11. Kéty (7564)
 
-| Izmény | (7562) |
+## 6.6.12. Kisdorog (7565)
 
-| Kalaznó | (7563) |
+## 6.6.13. Kistormás (7567)
 
-| Kéty | (7564) |
+## 6.6.14. Kisvejke (7568)
 
-| Kisdorog | (7565) |
+## 6.6.15. Kurd (7569)
 
-| Kistormás | (7567) |
+## 6.6.16. Lengyel (7570)
 
-| Kisvejke | (7568) |
+## 6.6.17. Mucsfa (7571)
 
-| Kurd | (7569) |
+## 6.6.18. Mucsi (7572)
 
-| Lengyel | (7570) |
+## 6.6.19. Murga (7573)
 
-| Mucsfa | (7571) |
+## 6.6.20. Nagyvejke (7574)
 
-| Mucsi | (7572) |
+## 6.6.21. Szakadát (7575)
 
-| Murga | (7573) |
+## 6.6.22. Szárazd (7576)
 
-| Nagyvejke | (7574) |
+## 6.6.23. Tevel (7578)
 
-| Szakadát | (7575) |
+## 6.6.24. Varsád (7579)
 
-| Szárazd | (7576) |
+## 6.6.25. Závod (7580)
 
-| Tevel | (7578) |
+## 6.6.26. Zomba (7581)
 
-| Varsád | (7579) |
+## 6.7. Kárászi erdőtervezési körzet
 
-| Závod | (7580) |
+## 6.7.1. Egyházaskozár (311)
 
-| Zomba | (7581) |
+## 6.7.2. Hegyhátmaróc (312)
 
-## Kárászi
+## 6.7.3. Hosszúhetény (313)
 
-| Egyházaskozár | (311) |
+## 6.7.4. Kárász (292)
 
-| Hegyhátmaróc | (312) |
+## 6.7.5. Kismányok (7566)
 
-| Hosszúhetény | (313) |
+## 6.7.6. Magyaregregy (296)
 
-| Kárász | (292) |
+## 6.7.7. Máza (410)
 
-| Kismányok | (7566) |
+## 6.7.8. Nagymányok (7500)
 
-| Magyaregregy | (296) |
+## 6.7.9. Szárász (314)
 
-| Máza | (410) |
+## 6.7.10. Szászvár (402)
 
-| Nagymányok | (7500) |
+## 6.7.11. Tófű (316)
 
-| Szárász | (314) |
+## 6.7.12. Váralja (7501)
 
-| Szászvár | (402) |
+## 6.7.13. Vékény (317)
 
-| Tófű | (316) |
+## 6.8. Kisvaszari erdőtervezési körzet
 
-| Váralja | (7501) |
+## 6.8.1. Ág (288)
 
-| Vékény | (317) |
+## 6.8.2. Alsómocsolád (287)
 
-## Kisvaszari
+## 6.8.3. Bikal (289)
 
-| Ág | (288) |
+## 6.8.4. Felsőegerszeg (290)
 
-| Alsómocsolád | (287) |
+## 6.8.5. Gerényes (291)
 
-| Bikal | (289) |
+## 6.8.6. Kisvaszar (293)
 
-| Felsőegerszeg | (290) |
+## 6.8.7. Köblény (294)
 
-| Gerényes | (291) |
+## 6.8.8. Liget (295)
 
-| Kisvaszar | (293) |
+## 6.8.9. Mágocs (297)
 
-| Köblény | (294) |
+## 6.8.10. Mekényes (298)
 
-| Liget | (295) |
+## 6.8.11. Nagyhajmás (299)
 
-| Mágocs | (297) |
+## 6.8.12. Oroszló (215)
 
-| Mekényes | (298) |
+## 6.8.13. Szalatnak (300)
 
-| Nagyhajmás | (299) |
+## 6.8.14. Tékes (301)
 
-| Oroszló | (215) |
+## 6.8.15. Varga (302)
 
-| Szalatnak | (300) |
+## 6.9. Nagydorogi erdőtervezési körzet
 
-| Tékes | (301) |
+## 6.9.1. Bikács (7537)
 
-| Varga | (302) |
+## 6.9.2. Bölcske (7538)
 
-## Nagydorogi
+## 6.9.3. Dunaföldvár (7539)
 
-| Bikács | (7537) |
+## 6.9.4. Dunaszentgyörgy (7541)
 
-| Bölcske | (7538) |
+## 6.9.5. Gerjen (7542)
 
-| Dunaföldvár | (7539) |
+## 6.9.6. Györköny (7543)
 
-| Dunaszentgyörgy | (7541) |
+## 6.9.7. Kajdacs (7544)
 
-| Gerjen | (7542) |
+## 6.9.8. Kölesd (7545)
 
-| Györköny | (7543) |
+## 6.9.9. Madocsa (7546)
 
-| Kajdacs | (7544) |
+## 6.9.10. Medina (7547)
 
-| Kölesd | (7545) |
+## 6.9.11. Nagydorog (7548)
 
-| Madocsa | (7546) |
+## 6.9.12. Németkér (7549)
 
-| Medina | (7547) |
+## 6.9.13. Paks (7550)
 
-| Nagydorog | (7548) |
+## 6.9.14. Pusztahencse (7551)
 
-| Németkér | (7549) |
+## 6.9.15. Szedres (7552)
 
-| Paks | (7550) |
+## 6.9.16. Tengelic (7553)
 
-| Pusztahencse | (7551) |
+## 6.10. Pécsi erdőtervezési körzet
 
-| Szedres | (7552) |
+## 6.10.1. Komló (204)
 
-| Tengelic | (7553) |
+## 6.10.2. Magyarhertelend (208)
 
-## Pécsi
+## 6.10.3. Magyarszék (210)
 
-| Komló | (204) |
+## 6.10.4. Mánfa (407)
 
-| Magyarhertelend | (208) |
+## 6.10.5. Mecsekpölöske (211)
 
-| Magyarszék | (210) |
+## 6.10.6. Pécs (218)
 
-| Mánfa | (407) |
+## 6.11. Pécsváradi erdőtervezési körzet
 
-| Mecsekpölöske | (211) |
+## 6.11.1. Apátvarasd (229)
 
-| Pécs | (218) |
+## 6.11.2. Erdősmecske (237)
 
-## Pécsváradi
+## 6.11.3. Feked (240)
 
-| Apátvarasd | (229) |
+## 6.11.4. Hidas (243)
 
-| Erdősmecske | (237) |
+## 6.11.5. Lovászhetény (255)
 
-| Feked | (240) |
+## 6.11.6. Mecseknádasd (260)
 
-| Hidas | (243) |
+## 6.11.7. Nagypall (264)
 
-| Lovászhetény | (255) |
+## 6.11.8. Óbánya (265)
 
-| Mecseknádasd | (260) |
+## 6.11.9. Ófalu (266)
 
-| Nagypall | (264) |
+## 6.11.10. Pécsvárad (269)
 
-| Óbánya | (265) |
+## 6.11.11. Véménd (285)
 
-| Ófalu | (266) |
+## 6.11.12. Zengővárkony (286)
 
-| Pécsvárad | (269) |
+## 6.12. Pincehelyi erdőtervezési körzet
 
-| Véménd | (285) |
+## 6.12.1. Belecska (7524)
 
-| Zengővárkony | (286) |
+## 6.12.2. Gyönk (7525)
 
-## Pincehelyi
+## 6.12.3. Keszőhidegkút (7526)
 
-| Belecska | (7524) |
+## 6.12.4. Kisszékely (7527)
 
-| Gyönk | (7525) |
+## 6.12.5. Miszla (7528)
 
-| Keszőhidegkút | (7526) |
+## 6.12.6. Nagyszékely (7529)
 
-| Kisszékely | (7527) |
+## 6.12.7. Ozora (7530)
 
-| Miszla | (7528) |
+## 6.12.8. Pálfa (7531)
 
-| Nagyszékely | (7529) |
+## 6.12.9. Pincehely (7532)
 
-| Ozora | (7530) |
+## 6.12.10. Sárszentlőrinc (7533)
 
-| Pálfa | (7531) |
+## 6.12.11. Simontornya (7534)
 
-| Pincehely | (7532) |
+## 6.12.12. Tolnanémedi (7535)
 
-| Sárszentlőrinc | (7533) |
+## 6.12.13. Udvari (7536)
 
-| Simontornya | (7534) |
+## 6.13. Sásdi erdőtervezési körzet
 
-| Tolnanémedi | (7535) |
+## 6.13.1. Bakóca (1)
 
-| Udvari | (7536) |
+## 6.13.2. Baranyajenő (2)
 
-## Sásdi
+## 6.13.3. Baranyaszentgyörgy (3)
 
-| Bakóca | (1) |
+## 6.13.4. Gödre (401)
 
-| Baranyajenő | (2) |
+## 6.13.5. Kisbeszterce (10)
 
-| Baranyaszentgyörgy | (3) |
+## 6.13.6. Meződ (12)
 
-| Gödre | (401) |
+## 6.13.7. Mindszentgodisa (4)
 
-| Kisbeszterce | (10) |
+## 6.13.8. Palé (13)
 
-| Meződ | (12) |
+## 6.13.9. Sásd (14)
 
-| Mindszentgodisa | (4) |
+## 6.13.10. Szágy (15)
 
-| Palé | (13) |
+## 6.13.11. Tarrós (17)
 
-| Sásd | (14) |
+## 6.13.12. Tormás (18)
 
-| Szágy | (15) |
+## 6.13.13. Vásárosdombó (19)
 
-| Tarrós | (17) |
+## 6.13.14. Vázsnok (20)
 
-| Tormás | (18) |
+## 6.14. Sellyei erdőtervezési körzet
 
-| Vásárosdombó | (19) |
+## 6.14.1. Bánfa (69)
 
-| Vázsnok | (20) |
+## 6.14.2. Bogdása (70)
 
-## Sellyei
+## 6.14.3. Bürüs (71)
 
-| Bánfa | (69) |
+## 6.14.4. Dencsháza (73)
 
-| Bogdása | (70) |
+## 6.14.5. Drávafok (74)
 
-| Bürüs | (71) |
+## 6.14.6. Drávaiványi (75)
 
-| Dencsháza | (73) |
+## 6.14.7. Drávakeresztúr (403)
 
-| Drávafok | (74) |
+## 6.14.8. Drávasztára (77)
 
-| Drávaiványi | (75) |
+## 6.14.9. Endrőc (78)
 
-| Drávakeresztúr | (403) |
+## 6.14.10. Felsőszentmárton (79)
 
-| Drávasztára | (77) |
+## 6.14.11. Gyöngyfa (80)
 
-| Endrőc | (78) |
+## 6.14.12. Gyöngyösmellék (81)
 
-| Felsőszentmárton | (79) |
+## 6.14.13. Kákics (83)
 
-| Gyöngyfa | (80) |
+## 6.14.14. Katádfa (82)
 
-| Gyöngyösmellék | (81) |
+## 6.14.15. Kemse (84)
 
-| Kákics | (83) |
+## 6.14.16. Kétújfalu (85)
 
-| Katádfa | (82) |
+## 6.14.17. Királyegyháza (86)
 
-| Kemse | (84) |
+## 6.14.18. Markóc (89)
 
-| Kétújfalu | (85) |
+## 6.14.19. Marócsa (90)
 
-| Királyegyháza | (86) |
+## 6.14.20. Okorág (405)
 
-| Markóc | (89) |
+## 6.14.21. Rózsafa (99)
 
-| Marócsa | (90) |
+## 6.14.22. Sellye (100)
 
-| Okorág | (405) |
+## 6.14.23. Sósvertike (101)
 
-| Rózsafa | (99) |
+## 6.14.24. Sumony (102)
 
-| Sellye | (100) |
+## 6.14.25. Szentdénes (103)
 
-| Sósvertike | (101) |
+## 6.14.26. Szentegát (406)
 
-| Sumony | (102) |
+## 6.14.27. Szörény (104)
 
-| Szentdénes | (103) |
+## 6.14.28. Teklafalu (105)
 
-| Szentegát | (406) |
+## 6.14.29. Várad (107)
 
-| Szörény | (104) |
+## 6.14.30. Zádor (109)
 
-| Teklafalu | (105) |
+## 6.14.31. Zaláta (108)
 
-| Várad | (107) |
+## 6.15. Szigetvári erdőtervezési körzet
 
-| Zádor | (109) |
+## 6.15.1. Almamellék (50)
 
-| Zaláta | (108) |
+## 6.15.2. Almáskeresztúr (51)
 
-## Szigetvári
+## 6.15.3. Basal (52)
 
-| Almamellék | (50) |
+## 6.15.4. Boldogasszonyfa (310)
 
-| Almáskeresztúr | (51) |
+## 6.15.5. Botykapeterd (53)
 
-| Basal | (52) |
+## 6.15.6. Csebény (54)
 
-| Boldogasszonyfa | (310) |
+## 6.15.7. Csertő (55)
 
-| Botykapeterd | (53) |
+## 6.15.8. Hobol (408)
 
-| Csebény | (54) |
+## 6.15.9. Horváthertelend (57)
 
-| Csertő | (55) |
+## 6.15.10. Ibafa (58)
 
-| Hobol | (408) |
+## 6.15.11. Kisdobsza (411)
 
-| Horváthertelend | (57) |
+## 6.15.12. Kistamási (88)
 
-| Ibafa | (58) |
+## 6.15.13. Magyarlukafa (308)
 
-| Kisdobsza | (411) |
+## 6.15.14. Merenye (91)
 
-| Kistamási | (88) |
+## 6.15.15. Molvány (92)
 
-| Magyarlukafa | (308) |
+## 6.15.16. Mozsgó (59)
 
-| Merenye | (91) |
+## 6.15.17. Nagydobsza (412)
 
-| Molvány | (92) |
+## 6.15.18. Nagypeterd (60)
 
-| Mozsgó | (59) |
+## 6.15.19. Nagyváty (61)
 
-| Nagydobsza | (412) |
+## 6.15.20. Nemeske (95)
 
-| Nagypeterd | (60) |
+## 6.15.21. Nyugotszenterzsébet (62)
 
-| Nagyváty | (61) |
+## 6.15.22. Patapoklosi (63)
 
-| Nemeske | (95) |
+## 6.15.23. Pettend (97)
 
-| Nyugotszenterzsébet | (62) |
+## 6.15.24. Somogyapáti (64)
 
-| Patapoklosi | (63) |
+## 6.15.25. Somogyhárságy (309)
 
-| Pettend | (97) |
+## 6.15.26. Somogyhatvan (306)
 
-| Somogyapáti | (64) |
+## 6.15.27. Somogyviszló (65)
 
-| Somogyhárságy | (309) |
+## 6.15.28. Szentlászló (66)
 
-| Somogyhatvan | (306) |
+## 6.15.29. Szigetvár (67)
 
-| Somogyviszló | (65) |
+## 6.15.30. Szulimán (68)
 
-| Szentlászló | (66) |
+## 6.15.31. Tótszentgyörgy (106)
 
-| Szigetvár | (67) |
+## 6.15.32. Vásárosbéc (307)
 
-| Szulimán | (68) |
+## 6.16. Tamási erdőtervezési körzet
 
-| Tótszentgyörgy | (106) |
+## 6.16.1. Attala (7880)
 
-| Vásárosbéc | (307) |
+## 6.16.2. Csikóstőttős (7882)
 
-## Tamási
+## 6.16.3. Dalmand (7502)
 
-| Attala | (7880) |
+## 6.16.4. Dombóvár (7503)
 
-| Csikóstőttős | (7882) |
+## 6.16.5. Döbrököz (7504)
 
-| Dalmand | (7502) |
+## 6.16.6. Értény (7505)
 
-| Dombóvár | (7503) |
+## 6.16.7. Felsőnyék (7506)
 
-| Döbrököz | (7504) |
+## 6.16.8. Fürged (7507)
 
-| Értény | (7505) |
+## 6.16.9. Gyulaj (7508)
 
-| Felsőnyék | (7506) |
+## 6.16.10. Iregszemcse (7509)
 
-| Fürged | (7507) |
+## 6.16.11. Jágónak (7883)
 
-| Gyulaj | (7508) |
+## 6.16.12. Kapospula (7881)
 
-| Iregszemcse | (7509) |
+## 6.16.13. Kaposszekcső (7884)
 
-| Jágónak | (7883) |
+## 6.16.14. Kocsola (7510)
 
-| Kapospula | (7881) |
+## 6.16.15. Koppányszántó (7511)
 
-| Kaposszekcső | (7884) |
+## 6.16.16. Lápafő (7512)
 
-| Kocsola | (7510) |
+## 6.16.17. Magyarkeszi (7513)
 
-| Koppányszántó | (7511) |
+## 6.16.18. Nagykónyi (7514)
 
-| Lápafő | (7512) |
+## 6.16.19. Nagyszokoly (7515)
 
-| Magyarkeszi | (7513) |
+## 6.16.20. Nak (7516)
 
-| Nagykónyi | (7514) |
+## 6.16.21. Pári (7517)
 
-| Nagyszokoly | (7515) |
+## 6.16.22. Regöly (7518)
 
-| Nak | (7516) |
+## 6.16.23. Szakály (7519)
 
-| Pári | (7517) |
+## 6.16.24. Szakcs (7520)
 
-| Regöly | (7518) |
+## 6.16.25. Tamási (7521)
 
-| Szakály | (7519) |
+## 6.16.26. Újireg (7522)
 
-| Szakcs | (7520) |
+## 6.16.27. Várong (7523)
 
-| Tamási | (7521) |
+## 6.17. Vajszlói erdőtervezési körzet
 
-| Újireg | (7522) |
+## 6.17.1. Adorjás (110)
 
-| Várong | (7523) |
+## 6.17.2. Alsószentmárton (111)
 
-## Vajszlói
+## 6.17.3. Babarcszőlős (112)
 
-| Adorjás | (110) |
+## 6.17.4. Baksa (113)
 
-| Alsószentmárton | (111) |
+## 6.17.5. Baranyahidvég (114)
 
-| Babarcszőlős | (112) |
+## 6.17.6. Beremend (115)
 
-| Baksa | (113) |
+## 6.17.7. Besence (116)
 
-| Baranyahídvég | (114) |
+## 6.17.8. Bisse (117)
 
-| Beremend | (115) |
+## 6.17.9. Bogádmindszent (118)
 
-| Besence | (116) |
+## 6.17.10. Cún (119)
 
-| Bisse | (117) |
+## 6.17.11. Csányoszró (72)
 
-| Bogádmindszent | (118) |
+## 6.17.12. Csarnóta (120)
 
-| Cún | (119) |
+## 6.17.13. Diósviszló (121)
 
-| Csányoszró | (72) |
+## 6.17.14. Drávacsehi (122)
 
-| Csarnóta | (120) |
+## 6.17.15. Drávacsepely (123)
 
-| Diósviszló | (121) |
+## 6.17.16. Drávapalkonya (124)
 
-| Drávacsehi | (122) |
+## 6.17.17. Drávapiski (125)
 
-| Drávacsepely | (123) |
+## 6.17.18. Drávaszabolcs (126)
 
-| Drávapalkonya | (124) |
+## 6.17.19. Drávaszerdahely (127)
 
-| Drávapiski | (125) |
+## 6.17.20. Egyházasharaszti (128)
 
-| Drávaszabolcs | (126) |
+## 6.17.21. Garé (129)
 
-| Drávaszerdahely | (127) |
+## 6.17.22. Gerde (130)
 
-| Egyházasharaszti | (128) |
+## 6.17.23. Gilvánfa (131)
 
-| Garé | (129) |
+## 6.17.24. Gordisa (132)
 
-| Gerde | (130) |
+## 6.17.25. Görcsöny (133)
 
-| Gilvánfa | (131) |
+## 6.17.26. Harkány (134)
 
-| Gordisa | (132) |
+## 6.17.27. Hegyszentmárton (135)
 
-| Görcsöny | (133) |
+## 6.17.28. Hirics (136)
 
-| Harkány | (134) |
+## 6.17.29. Illocska (137)
 
-| Hegyszentmárton | (135) |
+## 6.17.30. Ipacsfa (138)
 
-| Hirics | (136) |
+## 6.17.31. Ivánbattyán (139)
 
-| Illocska | (137) |
+## 6.17.32. Kásád (140)
 
-| Ipacsfa | (138) |
+## 6.17.33. Kémes (141)
 
-| Ivánbattyán | (139) |
+## 6.17.34. Kisasszonyfa (142)
 
-| Kásád | (140) |
+## 6.17.35. Kisdér (143)
 
-| Kémes | (141) |
+## 6.17.36. Kisharsány (144)
 
-| Kisasszonyfa | (142) |
+## 6.17.37. Kisjakabfalva (145)
 
-| Kisdér | (143) |
+## 6.17.38. Kistapolca (147)
 
-| Kisharsány | (144) |
+## 6.17.39. Kistótfalu (148)
 
-| Kisjakabfalva | (145) |
+## 6.17.40. Kisszentmárton (146)
 
-| Kistapolca | (147) |
+## 6.17.41. Kórós (149)
 
-| Kistótfalu | (148) |
+## 6.17.42. Kovácshida (150)
 
-| Kisszentmárton | (146) |
+## 6.17.43. Lapáncsa (151)
 
-| Kórós | (149) |
+## 6.17.44. Lúzsok (152)
 
-| Kovácshida | (150) |
+## 6.17.45. Magyarbóly (153)
 
-| Lapáncsa | (151) |
+## 6.17.46. Magyarmecske (154)
 
-| Lúzsok | (152) |
+## 6.17.47. Magyartelek (155)
 
-| Magyarbóly | (153) |
+## 6.17.48. Márfa (157)
 
-| Magyarmecske | (154) |
+## 6.17.49. Márok (159)
 
-| Magyartelek | (155) |
+## 6.17.50. Matty (156)
 
-| Márfa | (157) |
+## 6.17.51. Nagycsány (160)
 
-| Márok | (159) |
+## 6.17.52. Nagyharsány (161)
 
-| Matty | (156) |
+## 6.17.53. Nagytótfalu (162)
 
-| Nagycsány | (160) |
+## 6.17.54. Ócsárd (163)
 
-| Nagyharsány | (161) |
+## 6.17.55. Old (164)
 
-| Nagytótfalu | (162) |
+## 6.17.56. Ózdfalu (165)
 
-| Ócsárd | (163) |
+## 6.17.57. Palkonya (166)
 
-| Old | (164) |
+## 6.17.58. Páprád (167)
 
-| Ózdfalu | (165) |
+## 6.17.59. Pécsbagota (168)
 
-| Palkonya | (166) |
+## 6.17.60. Piskó (169)
 
-| Páprád | (167) |
+## 6.17.61. Rádfalva (170)
 
-| Pécsbagota | (168) |
+## 6.17.62. Regenye (171)
 
-| Piskó | (169) |
+## 6.17.63. Sámod (172)
 
-| Rádfalva | (170) |
+## 6.17.64. Siklós (173)
 
-| Regenye | (171) |
+## 6.17.65. Siklósbodony (174)
 
-| Sámod | (172) |
+## 6.17.66. Siklósnagyfalu (175)
 
-| Siklós | (173) |
+## 6.17.67. Szabadszentkirály (176)
 
-| Siklósbodony | (174) |
+## 6.17.68. Szaporca (413)
 
-| Siklósnagyfalu | (175) |
+## 6.17.69. Szava (178)
 
-| Szabadszentkirály | (176) |
+## 6.17.70. Szőke (179)
 
-| Szaporca | (413) |
+## 6.17.71. Tengeri (180)
 
-| Szava | (178) |
+## 6.17.72. Tésenfa (182)
 
-| Szőke | (179) |
+## 6.17.73. Téseny (183)
 
-| Tengeri | (180) |
+## 6.17.74. Túrony (184)
 
-| Tésenfa | (182) |
+## 6.17.75. Vajszló (185)
 
-| Téseny | (183) |
+## 6.17.76. Vejti (186)
 
-| Túrony | (184) |
+## 6.17.77. Velény (187)
 
-| Vajszló | (185) |
+## 6.17.78. Villány (188)
 
-| Vejti | (186) |
+## 6.17.79. Villánykövesd (189)
 
-| Velény | (187) |
+## 7. Bács-Kiskun Megyei Kormányhivatal
 
-| Villány | (188) |
+## 7.1. Alsó-Duna-menti erdőtervezési körzet
 
-| Villánykövesd | (189) |
+## 7.1.1. Bátya (501)
 
-## 07 Bács-Kiskun Megyei Kormányhivatal Erdészeti Igazgatósága
+## 7.1.2. Drágszél (514)
 
-## Alsó-Duna-menti
+## 7.1.3. Dunaszentbenedek (502)
 
-| Bátya | (501) |
+## 7.1.4. Dusnok (503)
 
-| Drágszél | (514) |
+## 7.1.5. Érsekcsanád (504)
 
-| Dunaszentbenedek | (502) |
+## 7.1.6. Fajsz (505)
 
-| Dusnok | (503) |
+## 7.1.7. Foktő (506)
 
-| Érsekcsanád | (504) |
+## 7.1.8. Géderlak (507)
 
-| Fajsz | (505) |
+## 7.1.9. Kalocsa (508)
 
-| Foktő | (506) |
+## 7.1.10. Miske (518)
 
-| Géderlak | (507) |
+## 7.1.11. Nemesnádudvar (519)
 
-| Kalocsa | (508) |
+## 7.1.12. Ordas (509)
 
-| Miske | (518) |
+## 7.1.13. Sükösd (510)
 
-| Nemesnádudvar | (519) |
+## 7.1.14. Uszód (511)
 
-| Ordas | (509) |
+## 7.2. Ásotthalmi erdőtervezési körzet
 
-| Sükösd | (510) |
+## 7.2.1. Ásotthalom (2000)
 
-| Uszód | (511) |
+## 7.2.2. Bordány (2001)
 
-## Ásotthalmi
+## 7.2.3. Mórahalom (2002)
 
-| Ásotthalom | (2000) |
+## 7.2.4. Öttömös (2003)
 
-| Bordány | (2001) |
+## 7.2.5. Pusztamérges (2004)
 
-| Mórahalom | (2002) |
+## 7.2.6. Ruzsa (2005)
 
-| Öttömös | (2003) |
+## 7.2.7. Üllés (2006)
 
-| Pusztamérges | (2004) |
+## 7.2.8. Zákányszék (2007)
 
-| Ruzsa | (2005) |
+## 7.3. Bajai erdőtervezési körzet
 
-| Üllés | (2006) |
+## 7.3.1. Bácsbokod (602)
 
-| Zákányszék | (2007) |
+## 7.3.2. Bácsborsód (603)
 
-## Bajai
+## 7.3.3. Bácsszentgyörgy (604)
 
-| Bácsbokod | (602) |
+## 7.3.4. Baja (500)
 
-| Bácsborsód | (603) |
+## 7.3.5. Bátmonostor (605)
 
-| Bácsszentgyörgy | (604) |
+## 7.3.6. Borota (512)
 
-| Baja | (500) |
+## 7.3.7. Csátalja (606)
 
-| Bátmonostor | (605) |
+## 7.3.8. Csávoly (513)
 
-| Borota | (512) |
+## 7.3.9. Dávod (607)
 
-| Csátalja | (606) |
+## 7.3.10. Dunafalva (620)
 
-| Csávoly | (513) |
+## 7.3.11. Érsekhalma (614)
 
-| Dávod | (607) |
+## 7.3.12. Felsőszentiván (515)
 
-| Dunafalva | (620) |
+## 7.3.13. Gara (608)
 
-| Érsekhalma | (614) |
+## 7.3.14. Hajós (613)
 
-| Felsőszentiván | (515) |
+## 7.3.15. Hercegszántó (609)
 
-| Gara | (608) |
+## 7.3.16. Nagybaracska (610)
 
-| Hajós | (613) |
+## 7.3.17. Rém (521)
 
-| Hercegszántó | (609) |
+## 7.3.18. Szeremle (611)
 
-| Nagybaracska | (610) |
+## 7.3.19. Vaskút (612)
 
-| Rém | (521) |
+## 7.4. Bugaci erdőtervezési körzet
 
-| Szeremle | (611) |
+## 7.4.1. Ágasegyháza (556)
 
-| Vaskút | (612) |
+## 7.4.2. Ballószög (557)
 
-## Bugaci
+## 7.4.3. Bugac (568)
 
-| Ágasegyháza | (556) |
+## 7.4.4. Bugacpusztaháza (618)
 
-| Ballószög | (557) |
+## 7.4.5. Fülöpjakab (617)
 
-| Bugac | (568) |
+## 7.4.6. Gátér (569)
 
-| Bugacpusztaháza | (618) |
+## 7.4.7. Helvécia (558)
 
-| Fülöpjakab | (617) |
+## 7.4.8. Jakabszállás (570)
 
-| Gátér | (569) |
+## 7.4.9. Jászszentlászló (571)
 
-| Helvécia | (558) |
+## 7.4.10. Kiskunfélegyháza (572)
 
-| Jakabszállás | (570) |
+## 7.4.11. Kunszállás (573)
 
-| Jászszentlászló | (571) |
+## 7.4.12. Móricgát (619)
 
-| Kiskunfélegyháza | (572) |
+## 7.4.13. Pálmonostora (574)
 
-| Kunszállás | (573) |
+## 7.4.14. Petőfiszállás (575)
 
-| Móricgát | (619) |
+## 7.4.15. Tiszaalpár (555)
 
-| Pálmonostora | (574) |
+## 7.4.16. Tiszaug (621)
 
-| Petőfiszállás | (575) |
+## 7.5. Harkakötönyi erdőtervezési körzet
 
-| Tiszaalpár | (555) |
+## 7.5.1. Balotaszállás (590)
 
-| Tiszaug | (621) |
+## 7.5.2. Csólyospálos (577)
 
-## Harkakötönyi
+## 7.5.3. Harkakötöny (578)
 
-| Balotaszállás | (590) |
+## 7.5.4. Kiskunmajsa (580)
 
-| Csólyospálos | (577) |
+## 7.5.5. Kömpöc (581)
 
-| Harkakötöny | (578) |
+## 7.5.6. Szank (576)
 
-| Kiskunmajsa | (580) |
+## 7.5.7. Tázlár (582)
 
-| Kömpöc | (581) |
+## 7.5.8. Zsana (583)
 
-| Szank | (576) |
+## 7.6. Kecskeméti erdőtervezési körzet
 
-| Tázlár | (582) |
+## 7.6.1. Felsőlajos (616)
 
-| Zsana | (583) |
+## 7.6.2. Fülöpháza (541)
 
-## Kecskeméti
+## 7.6.3. Kecskemét (561)
 
-| Felsőlajos | (616) |
+## 7.6.4. Kerekegyháza (543)
 
-| Fülöpháza | (541) |
+## 7.6.5. Kunbaracs (545)
 
-| Kecskemét | (561) |
+## 7.6.6. Ladánybene (548)
 
-| Kerekegyháza | (543) |
+## 7.6.7. Lajosmizse (549)
 
-| Kunbaracs | (545) |
+## 7.6.8. Lakitelek (562)
 
-| Ladánybene | (548) |
+## 7.6.9. Nyárlőrinc (564)
 
-| Lajosmizse | (549) |
+## 7.6.10. Szentkirály (563)
 
-| Lakitelek | (562) |
+## 7.6.11. Tiszakécske (565)
 
-| Nyárlőrinc | (564) |
+## 7.6.12. Városföld (567)
 
-| Szentkirály | (563) |
+## 7.7. Kelebiai erdőtervezési körzet
 
-| Tiszakécske | (565) |
+## 7.7.1. Bácsalmás (591)
 
-| Városföld | (567) |
+## 7.7.2. Bácsszőlős (592)
 
-## Kelebiai
+## 7.7.3. Csikéria (593)
 
-| Bácsalmás | (591) |
+## 7.7.4. Katymár (594)
 
-| Bácsszőlős | (592) |
+## 7.7.5. Kelebia (595)
 
-| Csikéria | (593) |
+## 7.7.6. Kisszállás (596)
 
-| Katymár | (594) |
+## 7.7.7. Kunbaja (597)
 
-| Kelebia | (595) |
+## 7.7.8. Madaras (598)
 
-| Kisszállás | (596) |
+## 7.7.9. Mátételke (599)
 
-| Kunbaja | (597) |
+## 7.7.10. Mélykút (589)
 
-| Madaras | (598) |
+## 7.7.11. Tataháza (600)
 
-| Mátételke | (599) |
+## 7.7.12. Tompa (601)
 
-| Mélykút | (589) |
+## 7.8. Kiskőrösi erdőtervezési körzet
 
-| Tataháza | (600) |
+## 7.8.1. Akasztó (523)
 
-| Tompa | (601) |
+## 7.8.2. Bócsa (524)
 
-## Kiskőrösi
+## 7.8.3. Császártöltés (525)
 
-| Akasztó | (523) |
+## 7.8.4. Csengőd (526)
 
-| Bócsa | (524) |
+## 7.8.5. Homokmégy (517)
 
-| Császártöltés | (525) |
+## 7.8.6. Izsák (560)
 
-| Csengőd | (526) |
+## 7.8.7. Kaskantyú (530)
 
-| Homokmégy | (517) |
+## 7.8.8. Kecel (531)
 
-| Izsák | (560) |
+## 7.8.9. Kiskőrös (532)
 
-| Kaskantyú | (530) |
+## 7.8.10. Orgovány (533)
 
-| Kecel | (531) |
+## 7.8.11. Öregcsertő (520)
 
-| Kiskőrös | (532) |
+## 7.8.12. Páhi (534)
 
-| Orgovány | (533) |
+## 7.8.13. Soltszentimre (535)
 
-| Öregcsertő | (520) |
+## 7.8.14. Soltvadkert (536)
 
-| Páhi | (534) |
+## 7.8.15. Szakmár (522)
 
-| Soltszentimre | (535) |
+## 7.8.16. Tabdi (537)
 
-| Soltvadkert | (536) |
+## 7.8.17. Újtelek (615)
 
-| Szakmár | (522) |
+## 7.9. Kiskunhalasi erdőtervezési körzet
 
-| Tabdi | (537) |
+## 7.9.1. Imrehegy (584)
 
-| Újtelek | (615) |
+## 7.9.2. Jánoshalma (587)
 
-## Kiskunhalasi
+## 7.9.3. Kéleshalom (588)
 
-| Imrehegy | (584) |
+## 7.9.4. Kiskunhalas (579)
 
-| Jánoshalma | (587) |
+## 7.9.5. Kunfehértó (585)
 
-| Kéleshalom | (588) |
+## 7.9.6. Pirtó (586)
 
-| Kiskunhalas | (579) |
+## 7.10. Kisteleki erdőtervezési körzet
 
-| Kunfehértó | (585) |
+## 7.10.1. Baks (2008)
 
-| Pirtó | (586) |
+## 7.10.2. Balástya (2009)
 
-## Kisteleki
+## 7.10.3. Csanytelek (2011)
 
-| Baks | (2008) |
+## 7.10.4. Csengele (2012)
 
-| Balástya | (2009) |
+## 7.10.5. Dóc (2021)
 
-| Csanytelek | (2011) |
+## 7.10.6. Forráskút (2015)
 
-| Csengele | (2012) |
+## 7.10.7. Kistelek (2016)
 
-| Dóc | (2021) |
+## 7.10.8. Ópusztaszer (2023)
 
-| Forráskút | (2015) |
+## 7.10.9. Pusztaszer (2017)
 
-| Kistelek | (2016) |
+## 7.10.10. Sándorfalva (2022)
 
-| Ópusztaszer | (2023) |
+## 7.10.11. Szatymaz (2024)
 
-| Pusztaszer | (2017) |
+## 7.10.12. Tömörkény (2018)
 
-| Sándorfalva | (2022) |
+## 7.10.13. Zsombó (2019)
 
-| Szatymaz | (2024) |
+## 7.11. Körös-Maros közi erdőtervezési körzet
 
-| Tömörkény | (2018) |
+## 7.11.1. Almáskamarás (1000)
 
-| Zsombó | (2019) |
+## 7.11.2. Battonya (1001)
 
-## Körös-Maros közi
+## 7.11.3. Békés (1030)
 
-| Almáskamarás | (1000) |
+## 7.11.4. Békéscsaba (1031)
 
-| Battonya | (1001) |
+## 7.11.5. Békéssámson (1032)
 
-| Békés | (1030) |
+## 7.11.6. Békésszentandrás (1033)
 
-| Békéscsaba | (1031) |
+## 7.11.7. Csabacsűd (1034)
 
-| Békéssámson | (1032) |
+## 7.11.8. Csabaszabadi (1080)
 
-| Békésszentandrás | (1033) |
+## 7.11.9. Csanádapáca (1035)
 
-| Csabacsűd | (1034) |
+## 7.11.10. Csárdaszállás (1060)
 
-| Csabaszabadi | (1080) |
+## 7.11.11. Csorvás (1036)
 
-| Csanádapáca | (1035) |
+## 7.11.12. Doboz (1037)
 
-| Csárdaszállás | (1060) |
+## 7.11.13. Dombegyház (1002)
 
-| Csorvás | (1036) |
+## 7.11.14. Dombiratos (1003)
 
-| Doboz | (1037) |
+## 7.11.15. Elek (1004)
 
-| Dombegyház | (1002) |
+## 7.11.16. Gádoros (1039)
 
-| Dombiratos | (1003) |
+## 7.11.17. Gerendás (1040)
 
-| Elek | (1004) |
+## 7.11.18. Gyomaendrőd (1038)
 
-| Gádoros | (1039) |
+## 7.11.19. Gyula (1005)
 
-| Gerendás | (1040) |
+## 7.11.20. Hunya (1043)
 
-| Gyomaendrőd | (1038) |
+## 7.11.21. Kamut (1044)
 
-| Gyula | (1005) |
+## 7.11.22. Kardos (1079)
 
-| Hunya | (1043) |
+## 7.11.23. Kardoskút (1045)
 
-| Kamut | (1044) |
+## 7.11.24. Kaszaper (1007)
 
-| Kardos | (1079) |
+## 7.11.25. Kétegyháza (1009)
 
-| Kardoskút | (1045) |
+## 7.11.26. Kétsoprony (1046)
 
-| Kaszaper | (1007) |
+## 7.11.27. Kevermes (1008)
 
-| Kétegyháza | (1009) |
+## 7.11.28. Kisdombegyház (1010)
 
-| Kétsoprony | (1046) |
+## 7.11.29. Kondoros (1047)
 
-| Kevermes | (1008) |
+## 7.11.30. Köröstarcsa (1061)
 
-| Kisdombegyház | (1010) |
+## 7.11.31. Kunágota (1012)
 
-| Kondoros | (1047) |
+## 7.11.32. Lőkösháza (1013)
 
-| Köröstarcsa | (1061) |
+## 7.11.33. Magyarbánhegyes (1014)
 
-| Kunágota | (1012) |
+## 7.11.34. Magyardombegyház (1015)
 
-| Lőkösháza | (1013) |
+## 7.11.35. Medgyesbodzás (1016)
 
-| Magyarbánhegyes | (1014) |
+## 7.11.36. Medgyesegyháza (1017)
 
-| Magyardombegyház | (1015) |
+## 7.11.37. Mezőberény (1062)
 
-| Medgyesbodzás | (1016) |
+## 7.11.38. Mezőhegyes (1018)
 
-| Medgyesegyháza | (1017) |
+## 7.11.39. Mezőkovácsháza (1019)
 
-| Mezőberény | (1062) |
+## 7.11.40. Murony (1049)
 
-| Mezőhegyes | (1018) |
+## 7.11.41. Nagybánhegyes (1021)
 
-| Mezőkovácsháza | (1019) |
+## 7.11.42. Nagykamarás (1022)
 
-| Murony | (1049) |
+## 7.11.43. Nagyszénás (1051)
 
-| Nagybánhegyes | (1021) |
+## 7.11.44. Orosháza (1052)
 
-| Nagykamarás | (1022) |
+## 7.11.45. Örménykút (1053)
 
-| Nagyszénás | (1051) |
+## 7.11.46. Pusztaföldvár (1054)
 
-| Orosháza | (1052) |
+## 7.11.47. Pusztaottlaka (1023)
 
-| Örménykút | (1053) |
+## 7.11.48. Szabadkígyós (1026)
 
-| Pusztaföldvár | (1054) |
+## 7.11.49. Szarvas (1056)
 
-| Pusztaottlaka | (1023) |
+## 7.11.50. Telekgerendás (1057)
 
-| Szabadkígyós | (1026) |
+## 7.11.51. Tótkomlós (1058)
 
-| Szarvas | (1056) |
+## 7.11.52. Újkígyós (1027)
 
-| Telekgerendás | (1057) |
+## 7.11.53. Végegyháza (1029)
 
-| Tótkomlós | (1058) |
+## 7.12. Körös-vidéki erdőtervezési körzet
 
-| Újkígyós | (1027) |
+## 7.12.1. Bélmegyer (1059)
 
-| Végegyháza | (1029) |
+## 7.12.2. Biharugra (1064)
 
-## Körös-vidéki
+## 7.12.3. Bucsa (1065)
 
-| Bélmegyer | (1059) |
+## 7.12.4. Dévaványa (1066)
 
-| Biharugra | (1064) |
+## 7.12.5. Ecsegfalva (1067)
 
-| Bucsa | (1065) |
+## 7.12.6. Füzesgyarmat (1068)
 
-| Dévaványa | (1066) |
+## 7.12.7. Geszt (1069)
 
-| Ecsegfalva | (1067) |
+## 7.12.8. Kertészsziget (1070)
 
-| Füzesgyarmat | (1068) |
+## 7.12.9. Körösladány (1071)
 
-| Geszt | (1069) |
+## 7.12.10. Körösnagyharsány (1072)
 
-| Kertészsziget | (1070) |
+## 7.12.11. Körösújfalu (1073)
 
-| Körösladány | (1071) |
+## 7.12.12. Kötegyán (1011)
 
-| Körösnagyharsány | (1072) |
+## 7.12.13. Méhkerék (1020)
 
-| Körösújfalu | (1073) |
+## 7.12.14. Mezőgyán (1074)
 
-| Kötegyán | (1011) |
+## 7.12.15. Okány (1075)
 
-| Méhkerék | (1020) |
+## 7.12.16. Sarkad (1055)
 
-| Mezőgyán | (1074) |
+## 7.12.17. Sarkadkeresztúr (1025)
 
-| Okány | (1075) |
+## 7.12.18. Szeghalom (1076)
 
-| Sarkad | (1055) |
+## 7.12.19. Tarhos (1063)
 
-| Sarkadkeresztúr | (1025) |
+## 7.12.20. Újszalonta (1028)
 
-| Szeghalom | (1076) |
+## 7.12.21. Vésztő (1077)
 
-| Tarhos | (1063) |
+## 7.12.22. Zsadány (1078)
 
-| Újszalonta | (1028) |
+## 7.13. Közép-Duna-menti erdőtervezési körzet
 
-| Vésztő | (1077) |
+## 7.13.1. Apostag (538)
 
-| Zsadány | (1078) |
+## 7.13.2. Dunaegyháza (539)
 
-## Közép-Duna-menti
+## 7.13.3. Dunapataj (527)
 
-| Apostag | (538) |
+## 7.13.4. Dunatetétlen (528)
 
-| Dunaegyháza | (539) |
+## 7.13.5. Dunavecse (540)
 
-| Dunapataj | (527) |
+## 7.13.6. Fülöpszállás (542)
 
-| Dunatetétlen | (528) |
+## 7.13.7. Harta (529)
 
-| Dunavecse | (540) |
+## 7.13.8. Kunadacs (544)
 
-| Fülöpszállás | (542) |
+## 7.13.9. Kunpeszér (546)
 
-| Harta | (529) |
+## 7.13.10. Kunszentmiklós (547)
 
-| Kunadacs | (544) |
+## 7.13.11. Solt (550)
 
-| Kunpeszér | (546) |
+## 7.13.12. Szabadszállás (551)
 
-| Kunszentmiklós | (547) |
+## 7.13.13. Szalkszentmárton (552)
 
-| Solt | (550) |
+## 7.13.14. Tass (553)
 
-| Szabadszállás | (551) |
+## 7.13.15. Újsolt (554)
 
-| Szalkszentmárton | (552) |
+## 7.14. Marosszög-Csanádi erdőtervezési körzet
 
-| Tass | (553) |
+## 7.14.1. Algyő (2020)
 
-| Újsolt | (554) |
+## 7.14.2. Ambrózfalva (2052)
 
-## Marosszög-Csanádi
+## 7.14.3. Apátfalva (2053)
 
-| Algyő | (2020) |
+## 7.14.4. Árpádhalom (2025)
 
-| Ambrózfalva | (2052) |
+## 7.14.5. Csanádalberti (2054)
 
-| Apátfalva | (2053) |
+## 7.14.6. Csanádpalota (2055)
 
-| Árpádhalom | (2025) |
+## 7.14.7. Csongrád (2013)
 
-| Csanádalberti | (2054) |
+## 7.14.8. Derekegyház (2027)
 
-| Csanádpalota | (2055) |
+## 7.14.9. Deszk (2039)
 
-| Csongrád | (2013) |
+## 7.14.10. Domaszék (2040)
 
-| Derekegyház | (2027) |
+## 7.14.11. Eperjes (2028)
 
-| Deszk | (2039) |
+## 7.14.12. Fábiánsebestyén (2029)
 
-| Domaszék | (2040) |
+## 7.14.13. Felgyő (2014)
 
-| Eperjes | (2028) |
+## 7.14.14. Ferencszállás (2056)
 
-| Fábiánsebestyén | (2029) |
+## 7.14.15. Földeák (2057)
 
-| Felgyő | (2014) |
+## 7.14.16. Hódmezővásárhely (2030)
 
-| Ferencszállás | (2056) |
+## 7.14.17. Királyhegyes (2058)
 
-| Földeák | (2057) |
+## 7.14.18. Kiszombor (2059)
 
-| Hódmezővásárhely | (2030) |
+## 7.14.19. Klárafalva (2043)
 
-| Királyhegyes | (2058) |
+## 7.14.20. Kövegy (2060)
 
-| Kiszombor | (2059) |
+## 7.14.21. Kübekháza (2044)
 
-| Klárafalva | (2043) |
+## 7.14.22. Magyarcsanád (2061)
 
-| Kövegy | (2060) |
+## 7.14.23. Makó (2062)
 
-| Kübekháza | (2044) |
+## 7.14.24. Maroslele (2045)
 
-| Magyarcsanád | (2061) |
+## 7.14.25. Mártély (2032)
 
-| Makó | (2062) |
+## 7.14.26. Mindszent (2033)
 
-| Maroslele | (2045) |
+## 7.14.27. Nagyér (2063)
 
-| Mártély | (2032) |
+## 7.14.28. Nagylak (2064)
 
-| Mindszent | (2033) |
+## 7.14.29. Nagymágocs (2034)
 
-| Nagyér | (2063) |
+## 7.14.30. Nagytőke (2035)
 
-| Nagylak | (2064) |
+## 7.14.31. Óföldeák (2065)
 
-| Nagymágocs | (2034) |
+## 7.14.32. Pitvaros (2066)
 
-| Nagytőke | (2035) |
+## 7.14.33. Röszke (2046)
 
-| Óföldeák | (2065) |
+## 7.14.34. Szeged (2047)
 
-| Pitvaros | (2066) |
+## 7.14.35. Szegvár (2036)
 
-| Röszke | (2046) |
+## 7.14.36. Székkutas (2038)
 
-| Szeged | (2047) |
+## 7.14.37. Szentes (2037)
 
-| Szegvár | (2036) |
+## 7.14.38. Tiszasziget (2050)
 
-| Székkutas | (2038) |
+## 7.14.39. Újszentiván (2051)
 
-| Szentes | (2037) |
+## 8. Hajdú-Bihar Megyei Kormányhivatal
 
-| Tiszasziget | (2050) |
+## 8.1. Baktalórántházai erdőtervezési körzet
 
-| Újszentiván | (2051) |
+## 8.1.1. Baktalórántháza (6663)
 
-## 08 Hajdú-Bihar Megyei Kormányhivatal Erdészeti Igazgatósága
+## 8.1.2. Berkesz (6664)
 
-## Baktalórántházai
+## 8.1.3. Besenyőd (6665)
 
-| Baktalórántháza | (6663) |
+## 8.1.4. Gemzse (6706)
 
-| Berkesz | (6664) |
+## 8.1.5. Gyulaháza (6666)
 
-| Besenyőd | (6665) |
+## 8.1.6. Hodász (6559)
 
-| Gemzse | (6706) |
+## 8.1.7. Ilk (6667)
 
-| Gyulaháza | (6666) |
+## 8.1.8. Jármi (6668)
 
-| Hodász | (6559) |
+## 8.1.9. Jéke (6710)
 
-| Ilk | (6667) |
+## 8.1.10. Kántorjánosi (6669)
 
-| Jármi | (6668) |
+## 8.1.11. Laskod (6670)
 
-| Jéke | (6710) |
+## 8.1.12. Levelek (6671)
 
-| Kántorjánosi | (6669) |
+## 8.1.13. Lövőpetri (6715)
 
-| Laskod | (6670) |
+## 8.1.14. Máriapócs (6673)
 
-| Levelek | (6671) |
+## 8.1.15. Nagydobos (6674)
 
-| Lövőpetri | (6715) |
+## 8.1.16. Nyírgyulaj (6675)
 
-| Máriapócs | (6673) |
+## 8.1.17. Nyíribrony (6676)
 
-| Nagydobos | (6674) |
+## 8.1.18. Nyírjákó (6677)
 
-| Nyírgyulaj | (6675) |
+## 8.1.19. Nyírkarász (6678)
 
-| Nyíribrony | (6676) |
+## 8.1.20. Nyírkércs (6679)
 
-| Nyírjákó | (6677) |
+## 8.1.21. Nyírlövő (6719)
 
-| Nyírkarász | (6678) |
+## 8.1.22. Nyírmada (6680)
 
-| Nyírkércs | (6679) |
+## 8.1.23. Nyírparasznya (6681)
 
-| Nyírlövő | (6719) |
+## 8.1.24. Nyírtass (6682)
 
-| Nyírmada | (6680) |
+## 8.1.25. Ófehértó (6685)
 
-| Nyírparasznya | (6681) |
+## 8.1.26. Ópályi (6686)
 
-| Nyírtass | (6682) |
+## 8.1.27. Őr (6687)
 
-| Ófehértó | (6685) |
+## 8.1.28. Pap (6720)
 
-| Ópályi | (6686) |
+## 8.1.29. Papos (6688)
 
-| Őr | (6687) |
+## 8.1.30. Petneháza (6689)
 
-| Pap | (6720) |
+## 8.1.31. Pócspetri (6690)
 
-| Papos | (6688) |
+## 8.1.32. Pusztadobos (6691)
 
-| Petneháza | (6689) |
+## 8.1.33. Ramocsaháza (6692)
 
-| Pócspetri | (6690) |
+## 8.1.34. Rohod (6693)
 
-| Pusztadobos | (6691) |
+## 8.1.35. Szabolcsbáka (6723)
 
-| Ramocsaháza | (6692) |
+## 8.1.36. Tornyospálca (6729)
 
-| Rohod | (6693) |
+## 8.1.37. Vaja (6696)
 
-| Szabolcsbáka | (6723) |
+## 8.2. Debrecen-Halápi erdőtervezési körzet
 
-| Tornyospálca | (6729) |
+## 8.2.1. Álmosd (3564)
 
-| Vaja | (6696) |
+## 8.2.2. Debrecen (3558)
 
-## Debrecen-Halápi
+## 8.2.3. Hajdúbagos (3559)
 
-| Álmosd | (3564) |
+## 8.2.4. Hosszúpályi (3560)
 
-| Debrecen | (3558) |
+## 8.2.5. Kokad (3567)
 
-| Hajdúbagos | (3559) |
+## 8.2.6. Létavértes (3901)
 
-| Hosszúpályi | (3560) |
+## 8.2.7. Mikepércs (3561)
 
-| Kokad | (3567) |
+## 8.2.8. Monostorpályi (3562)
 
-| Létavértes | (3901) |
+## 8.2.9. Sáránd (3563)
 
-| Mikepércs | (3561) |
+## 8.2.10. Újléta (3570)
 
-| Monostorpályi | (3562) |
+## 8.3. Guthi erdőtervezési körzet
 
-| Sáránd | (3563) |
+## 8.3.1. Bagamér (3565)
 
-| Újléta | (3570) |
+## 8.3.2. Fülöp (3566)
 
-## Guthi
+## 8.3.3. Nyírábrány (3569)
 
-| Bagamér | (3565) |
+## 8.3.4. Nyíracsád (3574)
 
-| Fülöp | (3566) |
+## 8.3.5. Nyíradony (3575)
 
-| Nyírábrány | (3569) |
+## 8.3.6. Nyírlugos (6551)
 
-| Nyíracsád | (3574) |
+## 8.3.7. Nyírmártonfalva (3576)
 
-| Nyíradony | (3575) |
+## 8.3.8. Vámospércs (3571)
 
-| Nyírlugos | (6551) |
+## 8.4. Hajdúhát-Bihari erdőtervezési körzet
 
-| Nyírmártonfalva | (3576) |
+## 8.4.1. Ártánd (3509)
 
-| Vámospércs | (3571) |
+## 8.4.2. Bakonszeg (3510)
 
-## Hajdúhát-Bihari
+## 8.4.3. Balmazújváros (3500)
 
-| Ártánd | (3509) |
+## 8.4.4. Báránd (3511)
 
-| Bakonszeg | (3510) |
+## 8.4.5. Bedő (3512)
 
-| Balmazújváros | (3500) |
+## 8.4.6. Berekböszörmény (3513)
 
-| Báránd | (3511) |
+## 8.4.7. Berettyóújfalu (3900)
 
-| Bedő | (3512) |
+## 8.4.8. Bihardancsháza (3516)
 
-| Berekböszörmény | (3513) |
+## 8.4.9. Biharkeresztes (3517)
 
-| Berettyóújfalu | (3900) |
+## 8.4.10. Biharnagybajom (3518)
 
-| Bihardancsháza | (3516) |
+## 8.4.11. Bihartorda (3519)
 
-| Biharkeresztes | (3517) |
+## 8.4.12. Bocskaikert (3584)
 
-| Biharnagybajom | (3518) |
+## 8.4.13. Bojt (3520)
 
-| Bihartorda | (3519) |
+## 8.4.14. Csökmő (3521)
 
-| Bocskaikert | (3584) |
+## 8.4.15. Darvas (3522)
 
-| Bojt | (3520) |
+## 8.4.16. Derecske (3523)
 
-| Csökmő | (3521) |
+## 8.4.17. Ebes (3524)
 
-| Darvas | (3522) |
+## 8.4.18. Esztár (3525)
 
-| Derecske | (3523) |
+## 8.4.19. Földes (3526)
 
-| Ebes | (3524) |
+## 8.4.20. Furta (3527)
 
-| Esztár | (3525) |
+## 8.4.21. Gáborján (3528)
 
-| Földes | (3526) |
+## 8.4.22. Hajdúböszörmény (3577)
 
-| Furta | (3527) |
+## 8.4.23. Hajdúdorog (3578)
 
-| Gáborján | (3528) |
+## 8.4.24. Hajdúhadház (3582)
 
-| Hajdúböszörmény | (3577) |
+## 8.4.25. Hajdúnánás (3579)
 
-| Hajdúdorog | (3578) |
+## 8.4.26. Hajdúsámson (3573)
 
-| Hajdúhadház | (3582) |
+## 8.4.27. Hajdúszoboszló (3529)
 
-| Hajdúnánás | (3579) |
+## 8.4.28. Hajdúszovát (3530)
 
-| Hajdúsámson | (3573) |
+## 8.4.29. Hencida (3531)
 
-| Hajdúszoboszló | (3529) |
+## 8.4.30. Hortobágy (3503)
 
-| Hajdúszovát | (3530) |
+## 8.4.31. Kaba (3532)
 
-| Hencida | (3531) |
+## 8.4.32. Kismarja (3533)
 
-| Hortobágy | (3503) |
+## 8.4.33. Komádi (3534)
 
-| Kaba | (3532) |
+## 8.4.34. Konyár (3535)
 
-| Kismarja | (3533) |
+## 8.4.35. Körösszakál (3536)
 
-| Komádi | (3534) |
+## 8.4.36. Körösszegapáti (3537)
 
-| Konyár | (3535) |
+## 8.4.37. Magyarhomorog (3538)
 
-| Körösszakál | (3536) |
+## 8.4.38. Mezőpeterd (3539)
 
-| Körösszegapáti | (3537) |
+## 8.4.39. Mezősas (3540)
 
-| Magyarhomorog | (3538) |
+## 8.4.40. Nádudvar (3544)
 
-| Mezőpeterd | (3539) |
+## 8.4.41. Nagyhegyes (3541)
 
-| Mezősas | (3540) |
+## 8.4.42. Nagykereki (3542)
 
-| Nádudvar | (3544) |
+## 8.4.43. Nagyrábé (3543)
 
-| Nagyhegyes | (3541) |
+## 8.4.44. Pocsaj (3545)
 
-| Nagykereki | (3542) |
+## 8.4.45. Püspökladány (3546)
 
-| Nagyrábé | (3543) |
+## 8.4.46. Sáp (3547)
 
-| Pocsaj | (3545) |
+## 8.4.47. Sárrétudvari (3548)
 
-| Püspökladány | (3546) |
+## 8.4.48. Szentpéterszeg (3549)
 
-| Sáp | (3547) |
+## 8.4.49. Szerep (3550)
 
-| Sárrétudvari | (3548) |
+## 8.4.50. Téglás (3583)
 
-| Szentpéterszeg | (3549) |
+## 8.4.51. Tépe (3552)
 
-| Szerep | (3550) |
+## 8.4.52. Tetétlen (3551)
 
-| Téglás | (3583) |
+## 8.4.53. Told (3553)
 
-| Tépe | (3552) |
+## 8.4.54. Újiráz (3554)
 
-| Tetétlen | (3551) |
+## 8.4.55. Váncsod (3555)
 
-| Told | (3553) |
+## 8.4.56. Vekerd (3556)
 
-| Újiráz | (3554) |
+## 8.4.57. Zsáka (3557)
 
-| Váncsod | (3555) |
+## 8.5. Közép-Tiszai erdőtervezési körzet
 
-| Vekerd | (3556) |
+## 8.5.1. Abádszalók (7064)
 
-| Zsáka | (3557) |
+## 8.5.2. Balsa (6501)
 
-## Közép-Tiszai
+## 8.5.3. Berekfürdő (7076)
 
-| Abádszalók | (7064) |
+## 8.5.4. Csataszög (7078)
 
-| Balsa | (6501) |
+## 8.5.5. Egyek (3501)
 
-| Berekfürdő | (7076) |
+## 8.5.6. Fegyvernek (7000)
 
-| Csataszög | (7078) |
+## 8.5.7. Folyás (3902)
 
-| Egyek | (3501) |
+## 8.5.8. Görbeháza (3502)
 
-| Fegyvernek | (7000) |
+## 8.5.9. Hunyadfalva (7077)
 
-| Folyás | (3902) |
+## 8.5.10. Karcag (7001)
 
-| Görbeháza | (3502) |
+## 8.5.11. Kenderes (7002)
 
-| Hunyadfalva | (7077) |
+## 8.5.12. Kisújszállás (7003)
 
-| Karcag | (7001) |
+## 8.5.13. Kőtelek (7034)
 
-| Kenderes | (7002) |
+## 8.5.14. Kuncsorba (7004)
 
-| Kisújszállás | (7003) |
+## 8.5.15. Kunhegyes (7005)
 
-| Kőtelek | (7034) |
+## 8.5.16. Kunmadaras (7006)
 
-| Kuncsorba | (7004) |
+## 8.5.17. Nagyiván (7065)
 
-| Kunhegyes | (7005) |
+## 8.5.18. Nagykörű (7035)
 
-| Kunmadaras | (7006) |
+## 8.5.19. Örményes (7007)
 
-| Nagyiván | (7065) |
+## 8.5.20. Polgár (3504)
 
-| Nagykörű | (7035) |
+## 8.5.21. Rakamaz (6528)
 
-| Örményes | (7007) |
+## 8.5.22. Szabolcs (6530)
 
-| Polgár | (3504) |
+## 8.5.23. Szorgalmatos (6735)
 
-| Rakamaz | (6528) |
+## 8.5.24. Timár (6532)
 
-| Szabolcs | (6530) |
+## 8.5.25. Tiszabő (7008)
 
-| Szorgalmatos | (6735) |
+## 8.5.26. Tiszabura (7066)
 
-| Timár | (6532) |
+## 8.5.27. Tiszacsege (3505)
 
-| Tiszabő | (7008) |
+## 8.5.28. Tiszadada (6534)
 
-| Tiszabura | (7066) |
+## 8.5.29. Tiszaderzs (7067)
 
-| Tiszacsege | (3505) |
+## 8.5.30. Tiszadob (6535)
 
-| Tiszadada | (6534) |
+## 8.5.31. Tiszaeszlár (6536)
 
-| Tiszaderzs | (7067) |
+## 8.5.32. Tiszafüred (7068)
 
-| Tiszadob | (6535) |
+## 8.5.33. Tiszagyenda (7069)
 
-| Tiszaeszlár | (6536) |
+## 8.5.34. Tiszagyulaháza (3506)
 
-| Tiszafüred | (7068) |
+## 8.5.35. Tiszaigar (7070)
 
-| Tiszagyenda | (7069) |
+## 8.5.36. Tiszalök (6537)
 
-| Tiszagyulaháza | (3506) |
+## 8.5.37. Tiszanagyfalu (6538)
 
-| Tiszaigar | (7070) |
+## 8.5.38. Tiszaörs (7071)
 
-| Tiszalök | (6537) |
+## 8.5.39. Tiszaroff (7072)
 
-| Tiszanagyfalu | (6538) |
+## 8.5.40. Tiszaszentimre (7073)
 
-| Tiszaörs | (7071) |
+## 8.5.41. Tiszaszőlős (7074)
 
-| Tiszaroff | (7072) |
+## 8.5.42. Tiszavasvári (6541)
 
-| Tiszaszentimre | (7073) |
+## 8.5.43. Tomajmonostora (7075)
 
-| Tiszaszőlős | (7074) |
+## 8.5.44. Túrkeve (7010)
 
-| Tiszavasvári | (6541) |
+## 8.5.45. Újszentmargita (3507)
 
-| Tomajmonostora | (7075) |
+## 8.5.46. Újtikos (3508)
 
-| Túrkeve | (7010) |
+## 8.6. Nyírbátori erdőtervezési körzet
 
-| Újszentmargita | (3507) |
+## 8.6.1. Bátorliget (6900)
 
-| Újtikos | (3508) |
+## 8.6.2. Encsencs (6546)
 
-## Nyirbátori
+## 8.6.3. Kisléta (6547)
 
-| Bátorliget | (6900) |
+## 8.6.4. Nyírbátor (6564)
 
-| Encsencs | (6546) |
+## 8.6.5. Nyírbéltek (6548)
 
-| Kisléta | (6547) |
+## 8.6.6. Nyírbogát (6549)
 
-| Nyírbátor | (6564) |
+## 8.6.7. Nyírcsászári (6566)
 
-| Nyírbéltek | (6548) |
+## 8.6.8. Nyírderzs (6567)
 
-| Nyírbogát | (6549) |
+## 8.6.9. Nyírgelse (6550)
 
-| Nyírcsászári | (6566) |
+## 8.6.10. Nyírmihálydi (6552)
 
-| Nyírderzs | (6567) |
+## 8.6.11. Nyírpilis (6553)
 
-| Nyírgelse | (6550) |
+## 8.6.12. Nyírvasvári (6570)
 
-| Nyírmihálydi | (6552) |
+## 8.6.13. Ömböly (6554)
 
-| Nyírpilis | (6553) |
+## 8.6.14. Penészlek (6555)
 
-| Nyírvasvári | (6570) |
+## 8.6.15. Piricse (6556)
 
-| Ömböly | (6554) |
+## 8.7. Nyíregyházi erdőtervezési körzet
 
-| Penészlek | (6555) |
+## 8.7.1. Apagy (6662)
 
-| Piricse | (6556) |
+## 8.7.2. Balkány (6500)
 
-## Nyíregyházi
+## 8.7.3. Beszterec (6502)
 
-| Apagy | (6662) |
+## 8.7.4. Biri (6503)
 
-| Balkány | (6500) |
+## 8.7.5. Bököny (6504)
 
-| Beszterec | (6502) |
+## 8.7.6. Buj (6505)
 
-| Biri | (6503) |
+## 8.7.7. Demecser (6506)
 
-| Bököny | (6504) |
+## 8.7.8. Érpatak (6507)
 
-| Buj | (6505) |
+## 8.7.9. Gávavencsellő (6904)
 
-| Demecser | (6506) |
+## 8.7.10. Geszteréd (6509)
 
-| Érpatak | (6507) |
+## 8.7.11. Ibrány (6510)
 
-| Gávavencsellő | (6904) |
+## 8.7.12. Kállósemjén (6511)
 
-| Geszteréd | (6509) |
+## 8.7.13. Kálmánháza (6512)
 
-| Ibrány | (6510) |
+## 8.7.14. Kék (6514)
 
-| Kállósemjén | (6511) |
+## 8.7.15. Kemecse (6513)
 
-| Kálmánháza | (6512) |
+## 8.7.16. Kótaj (6515)
 
-| Kék | (6514) |
+## 8.7.17. Magy (6672)
 
-| Kemecse | (6513) |
+## 8.7.18. Nagycserkesz (6516)
 
-| Kótaj | (6515) |
+## 8.7.19. Nagyhalász (6517)
 
-| Magy | (6672) |
+## 8.7.20. Nagykálló (6518)
 
-| Nagycserkesz | (6516) |
+## 8.7.21. Napkor (6519)
 
-| Nagyhalász | (6517) |
+## 8.7.22. Nyírbogdány (6520)
 
-| Nagykálló | (6518) |
+## 8.7.23. Nyíregyháza (6902)
 
-| Napkor | (6519) |
+## 8.7.24. Nyíregyháza-Oros (6526)
 
-| Nyírbogdány | (6520) |
+## 8.7.25. Nyírpazony (6522)
 
-| Nyíregyháza | (6902) |
+## 8.7.26. Nyírtelek (6524)
 
-| Nyíregyháza-Oros | (6526) |
+## 8.7.27. Nyírtét (6683)
 
-| Nyírpazony | (6522) |
+## 8.7.28. Nyírtura (6525)
 
-| Nyírtelek | (6524) |
+## 8.7.29. Paszab (6527)
 
-| Nyírtét | (6683) |
+## 8.7.30. Sényő (6529)
 
-| Nyírtura | (6525) |
+## 8.7.31. Szakoly (6531)
 
-| Paszab | (6527) |
+## 8.7.32. Székely (6695)
 
-| Sényő | (6529) |
+## 8.7.33. Tiszabercel (6533)
 
-| Szakoly | (6531) |
+## 8.7.34. Tiszarád (6539)
 
-| Székely | (6695) |
+## 8.7.35. Tiszatelek (6540)
 
-| Tiszabercel | (6533) |
+## 8.7.36. Újfehértó (6542)
 
-| Tiszarád | (6539) |
+## 8.7.37. Vasmegyer (6543)
 
-| Tiszatelek | (6540) |
+## 8.8. Rétköz-Beregi erdőtervezési körzet
 
-| Újfehértó | (6542) |
+## 8.8.1. Ajak (6698)
 
-| Vasmegyer | (6543) |
+## 8.8.2. Anarcs (6699)
 
-## Rétköz-Beregi
+## 8.8.3. Aranyosapáti (6700)
 
-| Ajak | (6698) |
+## 8.8.4. Barabás (6574)
 
-| Anarcs | (6699) |
+## 8.8.5. Benk (6701)
 
-| Aranyosapáti | (6700) |
+## 8.8.6. Beregdaróc (6575)
 
-| Barabás | (6574) |
+## 8.8.7. Beregsurány (6576)
 
-| Benk | (6701) |
+## 8.8.8. Csaroda (6580)
 
-| Beregdaróc | (6575) |
+## 8.8.9. Dombrád (6702)
 
-| Beregsurány | (6576) |
+## 8.8.10. Döge (6703)
 
-| Csaroda | (6580) |
+## 8.8.11. Eperjeske (6704)
 
-| Dombrád | (6702) |
+## 8.8.12. Fényeslitke (6705)
 
-| Döge | (6703) |
+## 8.8.13. Gégény (6707)
 
-| Eperjeske | (6704) |
+## 8.8.14. Gelénes (6593)
 
-| Fényeslitke | (6705) |
+## 8.8.15. Gulács (6596)
 
-| Gégény | (6707) |
+## 8.8.16. Győröcske (6708)
 
-| Gelénes | (6593) |
+## 8.8.17. Gyüre (6709)
 
-| Gulács | (6596) |
+## 8.8.18. Hetefejércse (6901)
 
-| Győröcske | (6708) |
+## 8.8.19. Jánd (6600)
 
-| Gyüre | (6709) |
+## 8.8.20. Kékcse (6711)
 
-| Hetefejércse | (6901) |
+## 8.8.21. Kisvárda (6713)
 
-| Jánd | (6600) |
+## 8.8.22. Kisvarsány (6712)
 
-| Kékcse | (6711) |
+## 8.8.23. Komoró (6714)
 
-| Kisvárda | (6713) |
+## 8.8.24. Lónya (6611)
 
-| Kisvarsány | (6712) |
+## 8.8.25. Mándok (6716)
 
-| Komoró | (6714) |
+## 8.8.26. Márokpapi (6614)
 
-| Lónya | (6611) |
+## 8.8.27. Mátyus (6615)
 
-| Mándok | (6716) |
+## 8.8.28. Mezőladány (6717)
 
-| Márokpapi | (6614) |
+## 8.8.29. Nagyvarsány (6718)
 
-| Mátyus | (6615) |
+## 8.8.30. Pátroha (6721)
 
-| Mezőladány | (6717) |
+## 8.8.31. Rétközberencs (6722)
 
-| Nagyvarsány | (6718) |
+## 8.8.32. Szabolcsveresmart (6724)
 
-| Pátroha | (6721) |
+## 8.8.33. Tákos (6641)
 
-| Rétközberencs | (6722) |
+## 8.8.34. Tarpa (6640)
 
-| Szabolcsveresmart | (6724) |
+## 8.8.35. Tiszaadony (6642)
 
-| Tákos | (6641) |
+## 8.8.36. Tiszabezdéd (6725)
 
-| Tarpa | (6640) |
+## 8.8.37. Tiszakanyár (6726)
 
-| Tiszaadony | (6642) |
+## 8.8.38. Tiszakerecseny (6645)
 
-| Tiszabezdéd | (6725) |
+## 8.8.39. Tiszamogyorós (6727)
 
-| Tiszakanyár | (6726) |
+## 8.8.40. Tiszaszalka (6647)
 
-| Tiszakerecseny | (6645) |
+## 8.8.41. Tiszaszentmárton (6728)
 
-| Tiszamogyorós | (6727) |
+## 8.8.42. Tiszavid (6648)
 
-| Tiszaszalka | (6647) |
+## 8.8.43. Tivadar (6650)
 
-| Tiszaszentmárton | (6728) |
+## 8.8.44. Tuzsér (6730)
 
-| Tiszavid | (6648) |
+## 8.8.45. Újdombrád (6734)
 
-| Tivadar | (6650) |
+## 8.8.46. Újkenéz (6731)
 
-| Tuzsér | (6730) |
+## 8.8.47. Vámosatya (6657)
 
-| Újdombrád | (6734) |
+## 8.8.48. Vásárosnamény (6903)
 
-| Újkenéz | (6731) |
+## 8.8.49. Záhony (6732)
 
-| Vámosatya | (6657) |
+## 8.8.50. Zsurk (6733)
 
-| Vásárosnamény | (6903) |
+## 8.9. Szatmár-Nagyecsedi erdőtervezési körzet
 
-| Záhony | (6732) |
+## 8.9.1. Botpalád (6577)
 
-| Zsurk | (6733) |
+## 8.9.2. Cégénydányád (6578)
 
-## Szatmár-Nagyecsedi
+## 8.9.3. Csaholc (6579)
 
-| Botpalád | (6577) |
+## 8.9.4. Császló (6581)
 
-| Cégénydányád | (6578) |
+## 8.9.5. Csegöld (6582)
 
-| Csaholc | (6579) |
+## 8.9.6. Csenger (6583)
 
-| Császló | (6581) |
+## 8.9.7. Csengersima (6584)
 
-| Csegöld | (6582) |
+## 8.9.8. Csengerújfalu (6585)
 
-| Csenger | (6583) |
+## 8.9.9. Darnó (6586)
 
-| Csengersima | (6584) |
+## 8.9.10. Fábiánháza (6557)
 
-| Csengerújfalu | (6585) |
+## 8.9.11. Fehérgyarmat (6587)
 
-| Darnó | (6586) |
+## 8.9.12. Fülesd (6589)
 
-| Fábiánháza | (6557) |
+## 8.9.13. Fülpösdaróc (6590)
 
-| Fehérgyarmat | (6587) |
+## 8.9.14. Gacsály (6591)
 
-| Fülesd | (6589) |
+## 8.9.15. Garbolc (6592)
 
-| Fülpösdaróc | (6590) |
+## 8.9.16. Géberjén (6595)
 
-| Gacsály | (6591) |
+## 8.9.17. Győrtelek (6558)
 
-| Garbolc | (6592) |
+## 8.9.18. Gyügye (6597)
 
-| Géberjén | (6595) |
+## 8.9.19. Hermánszeg (6598)
 
-| Győrtelek | (6558) |
+## 8.9.20. Jánkmajtis (6601)
 
-| Gyügye | (6597) |
+## 8.9.21. Kérsemjén (6602)
 
-| Hermánszeg | (6598) |
+## 8.9.22. Kisar (6603)
 
-| Jánkmajtis | (6601) |
+## 8.9.23. Kishódos (6604)
 
-| Kérsemjén | (6602) |
+## 8.9.24. Kisnamény (6605)
 
-| Kisar | (6603) |
+## 8.9.25. Kispalád (6606)
 
-| Kishódos | (6604) |
+## 8.9.26. Kisszekeres (6607)
 
-| Kisnamény | (6605) |
+## 8.9.27. Kocsord (6560)
 
-| Kispalád | (6606) |
+## 8.9.28. Komlódtótfalu (6608)
 
-| Kisszekeres | (6607) |
+## 8.9.29. Kölcse (6609)
 
-| Kocsord | (6560) |
+## 8.9.30. Kömörő (6610)
 
-| Komlódtótfalu | (6608) |
+## 8.9.31. Magosliget (6612)
 
-| Kölcse | (6609) |
+## 8.9.32. Mánd (6613)
 
-| Kömörő | (6610) |
+## 8.9.33. Mátészalka (6561)
 
-| Magosliget | (6612) |
+## 8.9.34. Méhtelek (6616)
 
-| Mánd | (6613) |
+## 8.9.35. Mérk (6562)
 
-| Mátészalka | (6561) |
+## 8.9.36. Milota (6617)
 
-| Méhtelek | (6616) |
+## 8.9.37. Nábrád (6622)
 
-| Mérk | (6562) |
+## 8.9.38. Nagyar (6618)
 
-| Milota | (6617) |
+## 8.9.39. Nagyecsed (6563)
 
-| Nábrád | (6622) |
+## 8.9.40. Nagyhódos (6620)
 
-| Nagyar | (6618) |
+## 8.9.41. Nagyszekeres (6621)
 
-| Nagyecsed | (6563) |
+## 8.9.42. Nemesborzova (6623)
 
-| Nagyhódos | (6620) |
+## 8.9.43. Nyírcsaholy (6565)
 
-| Nagyszekeres | (6621) |
+## 8.9.44. Nyírkáta (6568)
 
-| Nemesborzova | (6623) |
+## 8.9.45. Nyírmeggyes (6569)
 
-| Nyírcsaholy | (6565) |
+## 8.9.46. Olcsva (6684)
 
-| Nyírkáta | (6568) |
+## 8.9.47. Olcsvaapáti (6624)
 
-| Nyírmeggyes | (6569) |
+## 8.9.48. Ököritófülpös (6625)
 
-| Olcsva | (6684) |
+## 8.9.49. Panyola (6626)
 
-| Olcsvaapáti | (6624) |
+## 8.9.50. Pátyod (6627)
 
-| Ököritófülpös | (6625) |
+## 8.9.51. Penyige (6628)
 
-| Panyola | (6626) |
+## 8.9.52. Porcsalma (6629)
 
-| Pátyod | (6627) |
+## 8.9.53. Rápolt (6630)
 
-| Penyige | (6628) |
+## 8.9.54. Rozsály (6631)
 
-| Porcsalma | (6629) |
+## 8.9.55. Sonkád (6632)
 
-| Rápolt | (6630) |
+## 8.9.56. Szamosangyalos (6633)
 
-| Rozsály | (6631) |
+## 8.9.57. Szamosbecs (6634)
 
-| Sonkád | (6632) |
+## 8.9.58. Szamoskér (6635)
 
-| Szamosangyalos | (6633) |
+## 8.9.59. Szamossályi (6636)
 
-| Szamosbecs | (6634) |
+## 8.9.60. Szamostatárfalva (6637)
 
-| Szamoskér | (6635) |
+## 8.9.61. Szamosújlak (6638)
 
-| Szamossályi | (6636) |
+## 8.9.62. Szamosszeg (6694)
 
-| Szamostatárfalva | (6637) |
+## 8.9.63. Szatmárcseke (6639)
 
-| Szamosújlak | (6638) |
+## 8.9.64. Terem (6571)
 
-| Szamosszeg | (6694) |
+## 8.9.65. Tiborszállás (6572)
 
-| Szatmárcseke | (6639) |
+## 8.9.66. Tiszabecs (6643)
 
-| Terem | (6571) |
+## 8.9.67. Tiszacsécse (6644)
 
-| Tiborszállás | (6572) |
+## 8.9.68. Tiszakóród (6646)
 
-| Tiszabecs | (6643) |
+## 8.9.69. Tisztaberek (6649)
 
-| Tiszacsécse | (6644) |
+## 8.9.70. Tunyogmatolcs (6651)
 
-| Tiszakóród | (6646) |
+## 8.9.71. Túristvándi (6652)
 
-| Tisztaberek | (6649) |
+## 8.9.72. Túrricse (6653)
 
-| Tunyogmatolcs | (6651) |
+## 8.9.73. Tyukod (6654)
 
-| Túristvándi | (6652) |
+## 8.9.74. Ura (6655)
 
-| Túrricse | (6653) |
+## 8.9.75. Uszka (6656)
 
-| Tyukod | (6654) |
+## 8.9.76. Vállaj (6573)
 
-| Ura | (6655) |
+## 8.9.77. Vámosoroszi (6658)
 
-| Uszka | (6656) |
+## 8.9.78. Zajta (6660)
 
-| Vállaj | (6573) |
+## 8.9.79. Zsarolyán (6661)
 
-| Vámosoroszi | (6658) |
+## 8.10. Szolnok-Jászsági erdőtervezési körzet
 
-| Zajta | (6660) |
+## 8.10.1. Alattyán (7049)
 
-| Zsarolyán | (6661) |
+## 8.10.2. Besenyszög (7030)
 
-## Szolnok-Jászsági
+## 8.10.3. Cibakháza (7011)
 
-| Alattyán | (7049) |
+## 8.10.4. Csépa (7013)
 
-| Besenyszög | (7030) |
+## 8.10.5. Cserkeszőlő (7012)
 
-| Cibakháza | (7011) |
+## 8.10.6. Jánoshida (7050)
 
-| Csépa | (7013) |
+## 8.10.7. Jászágó (7052)
 
-| Cserkeszőlő | (7012) |
+## 8.10.8. Jászalsószentgyörgy (7031)
 
-| Jánoshida | (7050) |
+## 8.10.9. Jászapáti (7051)
 
-| Jászágó | (7052) |
+## 8.10.10. Jászárokszállás (7053)
 
-| Jászalsószentgyörgy | (7031) |
+## 8.10.11. Jászberény (7054)
 
-| Jászapáti | (7051) |
+## 8.10.12. Jászboldogháza (7032)
 
-| Jászárokszállás | (7053) |
+## 8.10.13. Jászdózsa (7055)
 
-| Jászberény | (7054) |
+## 8.10.14. Jászfelsőszentgyörgy (7056)
 
-| Jászboldogháza | (7032) |
+## 8.10.15. Jászfényszaru (7057)
 
-| Jászdózsa | (7055) |
+## 8.10.16. Jászivány (7058)
 
-| Jászfelsőszentgyörgy | (7056) |
+## 8.10.17. Jászjákóhalma (7059)
 
-| Jászfényszaru | (7057) |
+## 8.10.18. Jászkisér (7060)
 
-| Jászivány | (7058) |
+## 8.10.19. Jászladány (7033)
 
-| Jászjákóhalma | (7059) |
+## 8.10.20. Jászszentandrás (7061)
 
-| Jászkisér | (7060) |
+## 8.10.21. Jásztelek (7062)
 
-| Jászladány | (7033) |
+## 8.10.22. Kengyel (7014)
 
-| Jászszentandrás | (7061) |
+## 8.10.23. Kétpó (7015)
 
-| Jásztelek | (7062) |
+## 8.10.24. Kunszentmárton (7016)
 
-| Kengyel | (7014) |
+## 8.10.25. Martfű (7017)
 
-| Kétpó | (7015) |
+## 8.10.26. Mesterszállás (7018)
 
-| Kunszentmárton | (7016) |
+## 8.10.27. Mezőhék (7019)
 
-| Martfű | (7017) |
+## 8.10.28. Mezőtúr (7020)
 
-| Mesterszállás | (7018) |
+## 8.10.29. Nagyrév (7021)
 
-| Mezőhék | (7019) |
+## 8.10.30. Öcsöd (7022)
 
-| Mezőtúr | (7020) |
+## 8.10.31. Pusztamonostor (7063)
 
-| Nagyrév | (7021) |
+## 8.10.32. Rákóczifalva (7036)
 
-| Öcsöd | (7022) |
+## 8.10.33. Rákócziújfalu (7037)
 
-| Pusztamonostor | (7063) |
+## 8.10.34. Szajol (7038)
 
-| Rákóczifalva | (7036) |
+## 8.10.35. Szászberek (7039)
 
-| Rákócziújfalu | (7037) |
+## 8.10.36. Szelevény (7023)
 
-| Szajol | (7038) |
+## 8.10.37. Szolnok (7040)
 
-| Szászberek | (7039) |
+## 8.10.38. Tiszaföldvár (7024)
 
-| Szelevény | (7023) |
+## 8.10.39. Tiszainoka (7025)
 
-| Szolnok | (7040) |
+## 8.10.40. Tiszajenő (7041)
 
-| Tiszaföldvár | (7024) |
+## 8.10.41. Tiszakürt (7026)
 
-| Tiszainoka | (7025) |
+## 8.10.42. Tiszapüspöki (7042)
 
-| Tiszajenő | (7041) |
+## 8.10.43. Tiszasas (7027)
 
-| Tiszakürt | (7026) |
+## 8.10.44. Tiszasüly (7043)
 
-| Tiszapüspöki | (7042) |
+## 8.10.45. Tiszatenyő (7028)
 
-| Tiszasas | (7027) |
+## 8.10.46. Tiszavárkony (7044)
 
-| Tiszasüly | (7043) |
+## 8.10.47. Tószeg (7045)
 
-| Tiszatenyő | (7028) |
+## 8.10.48. Törökszentmiklós (7009)
 
-| Tiszavárkony | (7044) |
+## 8.10.49. Újszász (7046)
 
-| Tószeg | (7045) |
+## 8.10.50. Vezseny (7047)
 
-| Törökszentmiklós | (7009) |
+## 8.10.51. Zagyvarékas (7048)
 
-| Újszász | (7046) |
+## 9. Borsod-Abaúj-Zemplén Megyei Kormányhivatal
 
-| Vezseny | (7047) |
+## 9.1. Alsó-Hegyközi erdőtervezési körzet
 
-| Zagyvarékas | (7048) |
+## 9.1.1. Felsőregmec (1549)
 
-## 09 Borsod-Abaúj-Zemplén Megyei Kormányhivatal Erdészeti Igazgatósága
+## 9.1.2. Füzérradvány (1554)
 
-## Alsó-Hegyközi
+## 9.1.3. Kishuta (1544)
 
-| Felsőregmec | (1549) |
+## 9.1.4. Kovácsvágás (1545)
 
-| Füzérradvány | (1554) |
+## 9.1.5. Mikóháza (1546)
 
-| Kishuta | (1544) |
+## 9.1.6. Nagyhuta (1534)
 
-| Kovácsvágás | (1545) |
+## 9.1.7. Vágáshuta (1548)
 
-| Mikóháza | (1546) |
+## 9.1.8. Vilyvitány (1558)
 
-| Nagyhuta | (1534) |
+## 9.2. Bánhorváti erdőtervezési körzet
 
-| Vágáshuta | (1548) |
+## 9.2.1. Bánhorváti (1743)
 
-| Vilyvitány | (1558) |
+## 9.2.2. Berente (1907)
 
-## Bánhorváti
+## 9.2.3. Borsodbóta (1744)
 
-| Bánhorváti | (1743) |
+## 9.2.4. Csokvaomány (1850)
 
-| Berente | (1907) |
+## 9.2.5. Dédestapolcsány (1753)
 
-| Borsodbóta | (1744) |
+## 9.2.6. Kazincbarcika (1745)
 
-| Csokvaomány | (1850) |
+## 9.2.7. Királd (1746)
 
-| Dédestapolcsány | (1753) |
+## 9.2.8. Lénárddaróc (1853)
 
-| Kazincbarcika | (1745) |
+## 9.2.9. Nagybarca (1747)
 
-| Királd | (1746) |
+## 9.2.10. Nekézseny (1755)
 
-| Lénárddaróc | (1853) |
+## 9.2.11. Sajóivánka (1748)
 
-| Nagybarca | (1747) |
+## 9.2.12. Sajómercse (1749)
 
-| Nekézseny | (1755) |
+## 9.2.13. Sajóvelezd (1750)
 
-| Sajóivánka | (1748) |
+## 9.2.14. Sáta (1756)
 
-| Sajómercse | (1749) |
+## 9.2.15. Uppony (1751)
 
-| Sajóvelezd | (1750) |
+## 9.2.16. Vadna (1752)
 
-| Sáta | (1756) |
+## 9.3. Bodrogközi erdőtervezési körzet
 
-| Uppony | (1751) |
+## 9.3.1. Alsóberecki (1500)
 
-| Vadna | (1752) |
+## 9.3.2. Bodroghalom (1501)
 
-## Bodrogközi
+## 9.3.3. Cigánd (1503)
 
-| Alsóberecki | (1500) |
+## 9.3.4. Dámóc (1504)
 
-| Bodroghalom | (1501) |
+## 9.3.5. Felsőberecki (1505)
 
-| Cigánd | (1503) |
+## 9.3.6. Györgytarló (1506)
 
-| Dámóc | (1504) |
+## 9.3.7. Karcsa (1507)
 
-| Felsőberecki | (1505) |
+## 9.3.8. Karos (1508)
 
-| Györgytarló | (1506) |
+## 9.3.9. Kenézlő (1509)
 
-| Karcsa | (1507) |
+## 9.3.10. Kisrozvágy (1510)
 
-| Karos | (1508) |
+## 9.3.11. Lácacséke (1511)
 
-| Kenézlő | (1509) |
+## 9.3.12. Nagyrozvágy (1512)
 
-| Kisrozvágy | (1510) |
+## 9.3.13. Olaszliszka (1513)
 
-| Lácacséke | (1511) |
+## 9.3.14. Pácin (1514)
 
-| Nagyrozvágy | (1512) |
+## 9.3.15. Révleányvár (1515)
 
-| Olaszliszka | (1513) |
+## 9.3.16. Ricse (1516)
 
-| Pácin | (1514) |
+## 9.3.17. Sárazsadány (1517)
 
-| Révleányvár | (1515) |
+## 9.3.18. Semjén (1520)
 
-| Ricse | (1516) |
+## 9.3.19. Tiszacsermely (1521)
 
-| Sárazsadány | (1517) |
+## 9.3.20. Tiszakarád (1522)
 
-| Semjén | (1520) |
+## 9.3.21. Tolcsva (1541)
 
-| Tiszacsermely | (1521) |
+## 9.3.22. Vajdácska (1523)
 
-| Tiszakarád | (1522) |
+## 9.3.23. Vámosújfalu (1524)
 
-| Tolcsva | (1541) |
+## 9.3.24. Viss (1525)
 
-| Vajdácska | (1523) |
+## 9.3.25. Zalkod (1526)
 
-| Vámosújfalu | (1524) |
+## 9.3.26. Zemplénagárd (1527)
 
-| Viss | (1525) |
+## 9.4. Csereháti erdőtervezési körzet
 
-| Zalkod | (1526) |
+## 9.4.1. Abaújlak (1627)
 
-| Zemplénagárd | (1527) |
+## 9.4.2. Debréte (1704)
 
-## Csereháti
+## 9.4.3. Felsővadász (1640)
 
-| Abaújlak | (1627) |
+## 9.4.4. Gadna (1643)
 
-| Debréte | (1704) |
+## 9.4.5. Gagybátor (1673)
 
-| Felsővadász | (1640) |
+## 9.4.6. Gagyvendégi (1645)
 
-| Gadna | (1643) |
+## 9.4.7. Hegymeg (1676)
 
-| Gagybátor | (1673) |
+## 9.4.8. Irota (1677)
 
-| Gagyvendégi | (1645) |
+## 9.4.9. Keresztéte (1653)
 
-| Hegymeg | (1676) |
+## 9.4.10. Krasznokvajda (1655)
 
-| Irota | (1677) |
+## 9.4.11. Kupa (1656)
 
-| Keresztéte | (1653) |
+## 9.4.12. Lak (1678)
 
-| Krasznokvajda | (1655) |
+## 9.4.13. Meszes (1680)
 
-| Kupa | (1656) |
+## 9.4.14. Pamlény (1661)
 
-| Lak | (1678) |
+## 9.4.15. Perecse (1662)
 
-| Meszes | (1680) |
+## 9.4.16. Rakaca (1682)
 
-| Pamlény | (1661) |
+## 9.4.17. Rakacaszend (1683)
 
-| Perecse | (1662) |
+## 9.4.18. Szakácsi (1684)
 
-| Rakaca | (1682) |
+## 9.4.19. Szászfa (1665)
 
-| Rakacaszend | (1683) |
+## 9.4.20. Tomor (1667)
 
-| Szakácsi | (1684) |
+## 9.4.21. Tornabarakony (1709)
 
-| Szászfa | (1665) |
+## 9.4.22. Tornaszentjakab (1712)
 
-| Tomor | (1667) |
+## 9.4.23. Viszló (1713)
 
-| Tornabarakony | (1709) |
+## 9.5. Dél-Borsodi erdőtervezési körzet
 
-| Tornaszentjakab | (1712) |
+## 9.5.1. Alsózsolca (1774)
 
-| Viszló | (1713) |
+## 9.5.2. Arnót (1775)
 
-## Dél-Borsodi
+## 9.5.3. Ároktő (1801)
 
-| Alsózsolca | (1774) |
+## 9.5.4. Berzék (1776)
 
-| Arnót | (1775) |
+## 9.5.5. Borsodgeszt (1828)
 
-| Ároktő | (1801) |
+## 9.5.6. Borsodivánka (1802)
 
-| Berzék | (1776) |
+## 9.5.7. Bőcs (1777)
 
-| Borsodgeszt | (1828) |
+## 9.5.8. Bükkábrány (1830)
 
-| Borsodivánka | (1802) |
+## 9.6. Dél-Borsodi erdőtervezési körzet
 
-| Bőcs | (1777) |
+## 9.6.1. Bükkaranyos (1829)
 
-| Bükkábrány | (1830) |
+## 9.6.2. Csincse (1904)
 
-| Bükkaranyos | (1829) |
+## 9.6.3. Egerlövő (1803)
 
-| Csincse | (1904) |
+## 9.6.4. Emőd (1831)
 
-| Egerlövő | (1803) |
+## 9.6.5. Felsőzsolca (1779)
 
-| Emőd | (1831) |
+## 9.6.6. Gelej (1804)
 
-| Felsőzsolca | (1779) |
+## 9.6.7. Gesztely (1780)
 
-| Gelej | (1804) |
+## 9.6.8. Girincs (1781)
 
-| Gesztely | (1780) |
+## 9.6.9. Harsány (1832)
 
-| Girincs | (1781) |
+## 9.6.10. Hejőbába (1805)
 
-| Harsány | (1832) |
+## 9.6.11. Hejőkeresztúr (1806)
 
-| Hejőbába | (1805) |
+## 9.6.12. Hejőkürt (1807)
 
-| Hejőkeresztúr | (1806) |
+## 9.6.13. Hejőpapi (1808)
 
-| Hejőkürt | (1807) |
+## 9.6.14. Hejőszalonta (1809)
 
-| Hejőpapi | (1808) |
+## 9.6.15. Hernádkak (1782)
 
-| Hejőszalonta | (1809) |
+## 9.6.16. Hernádnémeti (1783)
 
-| Hernádkak | (1782) |
+## 9.6.17. Igrici (1810)
 
-| Hernádnémeti | (1783) |
+## 9.6.18. Kesznyéten (1784)
 
-| Igrici | (1810) |
+## 9.6.19. Kiscsécs (1785)
 
-| Kesznyéten | (1784) |
+## 9.6.20. Kistokaj (1786)
 
-| Kiscsécs | (1785) |
+## 9.6.21. Köröm (1787)
 
-| Kistokaj | (1786) |
+## 9.6.22. Mályi (1788)
 
-| Köröm | (1787) |
+## 9.6.23. Mezőcsát (1811)
 
-| Mályi | (1788) |
+## 9.6.24. Mezőkeresztes (1834)
 
-| Mezőcsát | (1811) |
+## 9.6.25. Mezőkövesd (1843)
 
-| Mezőkeresztes | (1834) |
+## 9.6.26. Mezőnagymihály (1812)
 
-| Mezőkövesd | (1843) |
+## 9.6.27. Mezőnyárád (1835)
 
-| Mezőnagymihály | (1812) |
+## 9.6.28. Muhi (1789)
 
-| Mezőnyárád | (1835) |
+## 9.6.29. Nagycsécs (1813)
 
-| Muhi | (1789) |
+## 9.6.30. Négyes (1815)
 
-| Nagycsécs | (1813) |
+## 9.6.31. Nemesbikk (1814)
 
-| Négyes | (1815) |
+## 9.6.32. Nyékládháza (1790)
 
-| Nemesbikk | (1814) |
+## 9.6.33. Onga (1791)
 
-| Nyékládháza | (1790) |
+## 9.6.34. Ónod (1792)
 
-| Onga | (1791) |
+## 9.6.35. Oszlár (1816)
 
-| Ónod | (1792) |
+## 9.6.36. Sajóhidvég (1793)
 
-| Oszlár | (1816) |
+## 9.6.37. Sajólád (1794)
 
-| Sajóhídvég | (1793) |
+## 9.6.38. Sajóörös (1817)
 
-| Sajólád | (1794) |
+## 9.6.39. Sajópálfala (1795)
 
-| Sajóörös | (1817) |
+## 9.6.40. Sajópetri (1796)
 
-| Sajópálfala | (1795) |
+## 9.6.41. Sajószöged (1818)
 
-| Sajópetri | (1796) |
+## 9.6.42. Sály (1836)
 
-| Sajószöged | (1818) |
+## 9.6.43. Szakáld (1819)
 
-| Sály | (1836) |
+## 9.6.44. Szentistván (1820)
 
-| Szakáld | (1819) |
+## 9.6.45. Tibolddaróc (1837)
 
-| Szentistván | (1820) |
+## 9.6.46. Tiszabábolna (1821)
 
-| Tibolddaróc | (1837) |
+## 9.6.47. Tiszadorogma (1822)
 
-| Tiszabábolna | (1821) |
+## 9.6.48. Tiszakeszi (1823)
 
-| Tiszadorogma | (1822) |
+## 9.6.49. Tiszalúc (1608)
 
-| Tiszakeszi | (1823) |
+## 9.6.50. Tiszapalkonya (1824)
 
-| Tiszalúc | (1608) |
+## 9.6.51. Tiszatarján (1826)
 
-| Tiszapalkonya | (1824) |
+## 9.6.52. Tiszaújváros (1900)
 
-| Tiszatarján | (1826) |
+## 9.6.53. Tiszavalk (1827)
 
-| Tiszaújváros | (1900) |
+## 9.6.54. Vatta (1838)
 
-| Tiszavalk | (1827) |
+## 9.7. Dél-Bükki erdőtervezési körzet
 
-| Vatta | (1838) |
+## 9.7.1. Bükkszentkereszt (1770)
 
-## Dél-Bükki
+## 9.7.2. Kács (1833)
 
-| Bükkszentkereszt | (1770) |
+## 9.7.3. Kisgyőr (1771)
 
-| Kács | (1833) |
+## 9.7.4. Répáshuta (1772)
 
-| Kisgyőr | (1771) |
+## 9.8. Erdőbényei erdőtervezési körzet
 
-| Répáshuta | (1772) |
+## 9.8.1. Abaújalpár (1573)
 
-## Erdőbényei
+## 9.8.2. Abaújkér (1574)
 
-| Abaújalpár | (1573) |
+## 9.8.3. Abaújszántó (1580)
 
-| Abaújkér | (1574) |
+## 9.8.4. Baskó (1537)
 
-| Abaújszántó | (1580) |
+## 9.8.5. Boldogkőújfalu (1575)
 
-| Baskó | (1537) |
+## 9.8.6. Erdőbénye (1577)
 
-| Boldogkőújfalu | (1575) |
+## 9.8.7. Sima (1579)
 
-| Erdőbénye | (1577) |
+## 9.9. Erdőhorváti erdőtervezési körzet
 
-| Sima | (1579) |
+## 9.9.1. Erdőhorváti (1538)
 
-## Erdőhorváti
+## 9.9.2. Háromhuta (1529)
 
-| Erdőhorváti | (1538) |
+## 9.9.3. Komlóska (1532)
 
-| Háromhuta | (1529) |
+## 9.10. Felső-Hegyközi erdőtervezési körzet
 
-| Komlóska | (1532) |
+## 9.10.1. Bózsva (1903)
 
-## Felső-Hegyközi
+## 9.10.2. Filkeháza (1550)
 
-| Bózsva | (1903) |
+## 9.10.3. Füzér (1551)
 
-| Filkeháza | (1550) |
+## 9.10.4. Füzérkajata (1552)
 
-| Füzér | (1551) |
+## 9.10.5. Füzérkomlós (1553)
 
-| Füzérkajata | (1552) |
+## 9.10.6. Hollóháza (1555)
 
-| Füzérkomlós | (1553) |
+## 9.10.7. Kéked (1562)
 
-| Hollóháza | (1555) |
+## 9.10.8. Nyíri (1556)
 
-| Kéked | (1562) |
+## 9.10.9. Pálháza (1547)
 
-| Nyíri | (1556) |
+## 9.10.10. Pányok (1563)
 
-| Pálháza | (1547) |
+## 9.10.11. Pusztafalu (1557)
 
-| Pányok | (1563) |
+## 9.11. Fonyi erdőtervezési körzet
 
-| Pusztafalu | (1557) |
+## 9.11.1. Arka (1566)
 
-## Fónyi
+## 9.11.2. Boldogkőváralja (1576)
 
-| Arka | (1566) |
+## 9.11.3. Fony (1560)
 
-| Boldogkőváralja | (1576) |
+## 9.11.4. Hejce (1568)
 
-| Fony | (1560) |
+## 9.11.5. Hernádcéce (1569)
 
-| Hejce | (1568) |
+## 9.11.6. Korlát (1570)
 
-| Hernádcéce | (1569) |
+## 9.11.7. Mogyoróska (1539)
 
-| Korlát | (1570) |
+## 9.11.8. Regéc (1540)
 
-| Mogyoróska | (1539) |
+## 9.11.9. Vilmány (1571)
 
-| Regéc | (1540) |
+## 9.11.10. Vizsoly (1572)
 
-| Vilmány | (1571) |
+## 9.12. Gömöri erdőtervezési körzet
 
-| Vizsoly | (1572) |
+## 9.12.1. Alsószuha (1725)
 
-## Gömöri
+## 9.12.2. Bánréve (1734)
 
-| Alsószuha | (1725) |
+## 9.12.3. Dövény (1735)
 
-| Bánréve | (1734) |
+## 9.12.4. Dubicsány (1736)
 
-| Dövény | (1735) |
+## 9.12.5. Gömörszőlős (1726)
 
-| Dubicsány | (1736) |
+## 9.12.6. Hét (1737)
 
-| Gömörszőlős | (1726) |
+## 9.12.7. Jákfalva (1692)
 
-| Hét | (1737) |
+## 9.12.8. Kelemér (1738)
 
-| Jákfalva | (1692) |
+## 9.12.9. Putnok (1739)
 
-| Kelemér | (1738) |
+## 9.12.10. Ragály (1729)
 
-| Putnok | (1739) |
+## 9.12.11. Sajógalgóc (1740)
 
-| Ragály | (1729) |
+## 9.12.12. Sajókaza (1741)
 
-| Sajógalgóc | (1740) |
+## 9.12.13. Sajópüspöki (1860)
 
-| Sajókaza | (1741) |
+## 9.12.14. Serényfalva (1742)
 
-| Sajópüspöki | (1860) |
+## 9.12.15. Szuhafő (1730)
 
-| Serényfalva | (1742) |
+## 9.12.16. Zádorfalva (1732)
 
-| Szuhafő | (1730) |
+## 9.13. Gönci erdőtervezési körzet
 
-| Zádorfalva | (1732) |
+## 9.13.1. Abaújvár (1559)
 
-## Gönci
+## 9.13.2. Garadna (1614)
 
-| Abaújvár | (1559) |
+## 9.13.3. Gönc (1561)
 
-| Garadna | (1614) |
+## 9.13.4. Göncruszka (1567)
 
-| Gönc | (1561) |
+## 9.13.5. Hernádpetri (1615)
 
-| Göncruszka | (1567) |
+## 9.13.6. Hernádszurdok (1616)
 
-| Hernádpetri | (1615) |
+## 9.13.7. Hernádvécse (1617)
 
-| Hernádszurdok | (1616) |
+## 9.13.8. Hidasnémeti (1618)
 
-| Hernádvécse | (1617) |
+## 9.13.9. Novajidrány (1621)
 
-| Hidasnémeti | (1618) |
+## 9.13.10. Pusztaradvány (1622)
 
-| Novajidrány | (1621) |
+## 9.13.11. Telkibánya (1564)
 
-| Pusztaradvány | (1622) |
+## 9.13.12. Tornyosnémeti (1625)
 
-| Telkibánya | (1564) |
+## 9.13.13. Zsujta (1565)
 
-| Tornyosnémeti | (1625) |
+## 9.14. Hernád völgyi erdőtervezési körzet
 
-| Zsujta | (1565) |
+## 9.14.1. Abaújszolnok (1628)
 
-## Hernádvölgyi
+## 9.14.2. Alsógagy (1629)
 
-| Abaújszolnok | (1628) |
+## 9.14.3. Alsóvadász (1773)
 
-| Alsógagy | (1629) |
+## 9.14.4. Aszaló (1630)
 
-| Alsóvadász | (1773) |
+## 9.14.5. Baktakék (1631)
 
-| Aszaló | (1630) |
+## 9.14.6. Beret (1632)
 
-| Baktakék | (1631) |
+## 9.14.7. Büttös (1611)
 
-| Beret | (1632) |
+## 9.14.8. Csenyéte (1633)
 
-| Büttös | (1611) |
+## 9.14.9. Csobád (1634)
 
-| Csenyéte | (1633) |
+## 9.14.10. Detek (1635)
 
-| Csobád | (1634) |
+## 9.14.11. Encs (1636)
 
-| Detek | (1635) |
+## 9.14.12. Fáj (1612)
 
-| Encs | (1636) |
+## 9.14.13. Fancsal (1637)
 
-| Fáj | (1612) |
+## 9.14.14. Felsődobsza (1638)
 
-| Fancsal | (1637) |
+## 9.14.15. Felsőgagy (1639)
 
-| Felsődobsza | (1638) |
+## 9.14.16. Forró (1641)
 
-| Felsőgagy | (1639) |
+## 9.14.17. Fulókércs (1613)
 
-| Forró | (1641) |
+## 9.14.18. Gagyapáti (1644)
 
-| Fulókércs | (1613) |
+## 9.14.19. Gibárt (1578)
 
-| Gagyapáti | (1644) |
+## 9.14.20. Halmaj (1646)
 
-| Gibárt | (1578) |
+## 9.14.21. Hernádbűd (1592)
 
-| Halmaj | (1646) |
+## 9.14.22. Hernádkércs (1647)
 
-| Hernádbűd | (1592) |
+## 9.14.23. Hernádszentandrás (1648)
 
-| Hernádkércs | (1647) |
+## 9.14.24. Homrogd (1649)
 
-| Hernádszentandrás | (1648) |
+## 9.14.25. Ináncs (1650)
 
-| Homrogd | (1649) |
+## 9.14.26. Kány (1651)
 
-| Ináncs | (1650) |
+## 9.14.27. Kázsmárk (1652)
 
-| Kány | (1651) |
+## 9.14.28. Kiskinizs (1654)
 
-| Kázsmárk | (1652) |
+## 9.14.29. Léh (1657)
 
-| Kiskinizs | (1654) |
+## 9.14.30. Litka (1619)
 
-| Léh | (1657) |
+## 9.14.31. Méra (1620)
 
-| Litka | (1619) |
+## 9.14.32. Monaj (1658)
 
-| Méra | (1620) |
+## 9.14.33. Nagykinizs (1659)
 
-| Monaj | (1658) |
+## 9.14.34. Nyésta (1660)
 
-| Nagykinizs | (1659) |
+## 9.14.35. Pere (1598)
 
-| Nyésta | (1660) |
+## 9.14.36. Rásonysápberencs (1663)
 
-| Pere | (1598) |
+## 9.14.37. Selyeb (1664)
 
-| Rásonysápberencs | (1663) |
+## 9.14.38. Szalaszend (1623)
 
-| Selyeb | (1664) |
+## 9.14.39. Szemere (1624)
 
-| Szalaszend | (1623) |
+## 9.14.40. Szentistvánbaksa (1666)
 
-| Szemere | (1624) |
+## 9.14.41. Szikszó (1799)
 
-| Szentistvánbaksa | (1666) |
+## 9.15. Jósvafői erdőtervezési körzet
 
-| Szikszó | (1799) |
+## 9.15.1. Aggtelek (1714)
 
-## Jósvafői
+## 9.15.2. Égerszög (1715)
 
-| Aggtelek | (1714) |
+## 9.15.3. Imola (1727)
 
-| Égerszög | (1715) |
+## 9.15.4. Jósvafő (1716)
 
-| Imola | (1727) |
+## 9.15.5. Kánó (1728)
 
-| Jósvafő | (1716) |
+## 9.15.6. Szinpetri (1719)
 
-| Kánó | (1728) |
+## 9.15.7. Szőlősardó (1721)
 
-| Szinpetri | (1719) |
+## 9.15.8. Teresztenye (1722)
 
-| Szőlősardó | (1721) |
+## 9.15.9. Tornakápolna (1723)
 
-| Teresztenye | (1722) |
+## 9.15.10. Trizs (1731)
 
-| Tornakápolna | (1723) |
+## 9.15.11. Zubogy (1733)
 
-| Trizs | (1731) |
+## 9.16. Lillafüredi erdőtervezési körzet
 
-| Zubogy | (1733) |
+## 9.16.1. Miskolc (1769)
 
-## Lillafüredi
+## 9.17. Parasznyai erdőtervezési körzet
 
-| Miskolc | (1769) |
+## 9.17.1. Alacska (1758)
 
-## Parasznyai
+## 9.17.2. Boldva (1670)
 
-| Alacska | (1758) |
+## 9.17.3. Borsodszirák (1671)
 
-| Boldva | (1670) |
+## 9.17.4. Hangács (1675)
 
-| Borsodszirák | (1671) |
+## 9.17.5. Kondó (1759)
 
-| Hangács | (1675) |
+## 9.17.6. Mályinka (1754)
 
-| Kondó | (1759) |
+## 9.17.7. Nyomár (1681)
 
-| Mályinka | (1754) |
+## 9.17.8. Parasznya (1760)
 
-| Nyomár | (1681) |
+## 9.17.9. Radostyán (1761)
 
-| Parasznya | (1760) |
+## 9.17.10. Sajóbábony (1762)
 
-| Radostyán | (1761) |
+## 9.17.11. Sajóecseg (1763)
 
-| Sajóbábony | (1762) |
+## 9.17.12. Sajókápolna (1764)
 
-| Sajóecseg | (1763) |
+## 9.17.13. Sajókeresztúr (1765)
 
-| Sajókápolna | (1764) |
+## 9.17.14. Sajólászlófalva (1766)
 
-| Sajókeresztúr | (1765) |
+## 9.17.15. Sajósenye (1797)
 
-| Sajólászlófalva | (1766) |
+## 9.17.16. Sajószentpéter (1767)
 
-| Sajósenye | (1797) |
+## 9.17.17. Sajóvámos (1798)
 
-| Sajószentpéter | (1767) |
+## 9.17.18. Szirmabesenyő (1800)
 
-| Sajóvámos | (1798) |
+## 9.17.19. Tardona (1757)
 
-| Szirmabesenyő | (1800) |
+## 9.17.20. Varbó (1768)
 
-| Tardona | (1757) |
+## 9.17.21. Ziliz (1685)
 
-| Varbó | (1768) |
+## 9.18. Sárospataki erdőtervezési körzet
 
-| Ziliz | (1685) |
+## 9.18.1. Alsóregmec (1528)
 
-## Sárospataki
+## 9.18.2. Bodrogolaszi (1502)
 
-| Alsóregmec | (1528) |
+## 9.18.3. Hercegkút (1530)
 
-| Bodrogolaszi | (1502) |
+## 9.18.4. Makkoshotyka (1533)
 
-| Hercegkút | (1530) |
+## 9.18.5. Sárospatak (1901)
 
-| Makkoshotyka | (1533) |
+## 9.18.6. Sátoraljaújhely (1519)
 
-| Sárospatak | (1901) |
+## 9.18.7. Sátoraljaújhely-Károlyfalva (1531)
 
-| Sátoraljaújhely | (1519) |
+## 9.18.8. Sátoraljaújhely-Rudabányácska (1535)
 
-| Sátoraljaújhely-Károlyfalva | (1531) |
+## 9.19. Szendrői erdőtervezési körzet
 
-| Sátoraljaújhely- |  |
+## 9.19.1. Abod (1668)
 
-| Rudabányácska | (1535) |
+## 9.19.2. Alsótelekes (1686)
 
-## Szendrői
+## 9.19.3. Balajt (1669)
 
-| Abod | (1668) |
+## 9.19.4. Damak (1672)
 
-| Alsótelekes | (1686) |
+## 9.19.5. Edelény (1687)
 
-| Balajt | (1669) |
+## 9.19.6. Felsőkelecsény (1688)
 
-| Damak | (1672) |
+## 9.19.7. Felsőnyárád (1689)
 
-| Edelény | (1687) |
+## 9.19.8. Felsőtelekes (1690)
 
-| Felsőkelecsény | (1688) |
+## 9.19.9. Galvács (1674)
 
-| Felsőnyárád | (1689) |
+## 9.19.10. Izsófalva (1691)
 
-| Felsőtelekes | (1690) |
+## 9.19.11. Kurityán (1693)
 
-| Galvács | (1674) |
+## 9.19.12. Ládbesenyő (1679)
 
-| Izsófalva | (1691) |
+## 9.19.13. Múcsony (1694)
 
-| Kurityán | (1693) |
+## 9.19.14. Ormosbánya (1905)
 
-| Ládbesenyő | (1679) |
+## 9.19.15. Rudabánya (1695)
 
-| Múcsony | (1694) |
+## 9.19.16. Rudolftelep (1906)
 
-| Ormosbánya | (1905) |
+## 9.19.17. Szendrő (1696)
 
-| Rudabánya | (1695) |
+## 9.19.18. Szendrőlád (1697)
 
-| Rudolftelep | (1906) |
+## 9.19.19. Szuhakálló (1698)
 
-| Szendrő | (1696) |
+## 9.19.20. Szuhogy (1699)
 
-| Szendrőlád | (1697) |
+## 9.20. Szerencsi erdőtervezési körzet
 
-| Szuhakálló | (1698) |
+## 9.20.1. Alsódobsza (1588)
 
-| Szuhogy | (1699) |
+## 9.20.2. Bekecs (1589)
 
-## Szerencsi
+## 9.20.3. Bodrogkeresztúr (1581)
 
-| Alsódobsza | (1588) |
+## 9.20.4. Bodrogkisfalud (1902)
 
-| Bekecs | (1589) |
+## 9.20.5. Csobaj (1590)
 
-| Bodrogkeresztúr | (1581) |
+## 9.20.6. Golop (1591)
 
-| Bodrogkisfalud | (1902) |
+## 9.20.7. Legyesbénye (1593)
 
-| Csobaj | (1590) |
+## 9.20.8. Mád (1583)
 
-| Golop | (1591) |
+## 9.20.9. Megyaszó (1594)
 
-| Legyesbénye | (1593) |
+## 9.20.10. Mezőzombor (1595)
 
-| Mád | (1583) |
+## 9.20.11. Monok (1596)
 
-| Megyaszó | (1594) |
+## 9.20.12. Prügy (1599)
 
-| Mezőzombor | (1595) |
+## 9.20.13. Rátka (1600)
 
-| Monok | (1596) |
+## 9.20.14. Sóstófalva (1601)
 
-| Prügy | (1599) |
+## 9.20.15. Szegi (1582)
 
-| Rátka | (1600) |
+## 9.20.16. Szegilong (1584)
 
-| Sóstófalva | (1601) |
+## 9.20.17. Szerencs (1602)
 
-| Szegi | (1582) |
+## 9.20.18. Taktabáj (1603)
 
-| Szegilong | (1584) |
+## 9.20.19. Taktaharkány (1604)
 
-| Szerencs | (1602) |
+## 9.20.20. Taktakenéz (1605)
 
-| Taktabáj | (1603) |
+## 9.20.21. Taktaszada (1606)
 
-| Taktaharkány | (1604) |
+## 9.20.22. Tállya (1586)
 
-| Taktakenéz | (1605) |
+## 9.20.23. Tarcal (1585)
 
-| Taktaszada | (1606) |
+## 9.20.24. Tiszaladány (1607)
 
-| Tállya | (1586) |
+## 9.20.25. Tiszatardos (1609)
 
-| Tarcal | (1585) |
+## 9.20.26. Tokaj (1587)
 
-| Tiszaladány | (1607) |
+## 9.20.27. Újcsanálos (1610)
 
-| Tiszatardos | (1609) |
+## 9.21. Tornai erdőtervezési körzet
 
-| Tokaj | (1587) |
+## 9.21.1. Becskeháza (1700)
 
-| Újcsanálos | (1610) |
+## 9.21.2. Bódvalenke (1701)
 
-## Tornai
+## 9.21.3. Bódvarákó (1702)
 
-| Becskeháza | (1700) |
+## 9.21.4. Bódvaszilas (1703)
 
-| Bódvalenke | (1701) |
+## 9.21.5. Hidvégardó (1705)
 
-| Bódvarákó | (1702) |
+## 9.21.6. Komjáti (1706)
 
-| Bódvaszilas | (1703) |
+## 9.21.7. Martonyi (1707)
 
-| Hidvégardó | (1705) |
+## 9.21.8. Perkupa (1717)
 
-| Komjáti | (1706) |
+## 9.21.9. Szalonna (1708)
 
-| Martonyi | (1707) |
+## 9.21.10. Szin (1718)
 
-| Perkupa | (1717) |
+## 9.21.11. Szögliget (1720)
 
-| Szalonna | (1708) |
+## 9.21.12. Tornanádaska (1710)
 
-| Szin | (1718) |
+## 9.21.13. Tornaszentandrás (1711)
 
-| Szögliget | (1720) |
+## 9.21.14. Varbóc (1724)
 
-| Tornanádaska | (1710) |
+## 10. Heves Megyei Kormányhivatal
 
-| Tornaszentandrás | (1711) |
+## 10.1. Berceli erdőtervezési körzet
 
-| Varbóc | (1724) |
+## 10.1.1. Bér (5074)
 
-## 10 Heves Megyei Kormányhivatal Erdészeti Igazgatósága
+## 10.1.2. Bercel (5073)
 
-## Berceli
+## 10.1.3. Bokor (5075)
 
-| Bér | (5074) |
+## 10.1.4. Buják (5011)
 
-| Bercel | (5073) |
+## 10.1.5. Csécse (5012)
 
-| Bokor | (5075) |
+## 10.1.6. Cserháthaláp (5079)
 
-| Buják | (5011) |
+## 10.1.7. Cserhátsurány (5080)
 
-| Csécse | (5012) |
+## 10.1.8. Cserhátszentiván (5081)
 
-| Cserháthaláp | (5079) |
+## 10.1.9. Egyházasdengeleg (5083)
 
-| Cserhátsurány | (5080) |
+## 10.1.10. Erdőkürt (5084)
 
-| Cserhátszentiván | (5081) |
+## 10.1.11. Erdőtarcsa (5085)
 
-| Egyházasdengeleg | (5083) |
+## 10.1.12. Héhalom (5087)
 
-| Erdőkürt | (5084) |
+## 10.1.13. Herencsény (5076)
 
-| Erdőtarcsa | (5085) |
+## 10.1.14. Kálló (5129)
 
-| Héhalom | (5087) |
+## 10.1.15. Kisbágyon (5015)
 
-| Herencsény | (5076) |
+## 10.1.16. Kutasó (5088)
 
-| Kálló | (5129) |
+## 10.1.17. Palotás (5095)
 
-| Kisbágyon | (5015) |
+## 10.1.18. Szanda (5096)
 
-| Kutasó | (5088) |
+## 10.1.19. Szarvasgede (5029)
 
-| Palotás | (5095) |
+## 10.1.20. Szirák (5098)
 
-| Szanda | (5096) |
+## 10.1.21. Terény (5077)
 
-| Szarvasgede | (5029) |
+## 10.1.22. Vanyarc (5099)
 
-| Szirák | (5098) |
+## 10.2. Diósjenő-Királyréti erdőtervezési körzet
 
-| Terény | (5077) |
+## 10.2.1. Berkenye (5122)
 
-| Vanyarc | (5099) |
+## 10.2.2. Borsosberény (5102)
 
-## Diósjenő-Királyréti
+## 10.2.3. Diósjenő (5123)
 
-| Berkenye | (5122) |
+## 10.2.4. Nógrád (5124)
 
-| Borsosberény | (5102) |
+## 10.2.5. Szokolya (5668)
 
-| Diósjenő | (5123) |
+## 10.2.6. Verőce (5669)
 
-| Nógrád | (5124) |
+## 10.3. Egri erdőtervezési körzet
 
-| Szokolya | (5668) |
+## 10.3.1. Andornaktálya (4000)
 
-| Verőce | (5669) |
+## 10.3.2. Balaton (4027)
 
-## Egri
+## 10.3.3. Bélapátfalva (4028)
 
-| Andornaktálya | (4000) |
+## 10.3.4. Bükkszentmárton (4029)
 
-| Balaton | (4027) |
+## 10.3.5. Demjén (4002)
 
-| Bélapátfalva | (4028) |
+## 10.3.6. Eger (4004)
 
-| Bükkszentmárton | (4029) |
+## 10.3.7. Egerbakta (4005)
 
-| Demjén | (4002) |
+## 10.3.8. Egerszalók (4007)
 
-| Eger | (4004) |
+## 10.3.9. Egerszólát (4008)
 
-| Egerbakta | (4005) |
+## 10.3.10. Kerecsend (4010)
 
-| Egerszalók | (4007) |
+## 10.3.11. Mikófalva (4030)
 
-| Egerszólát | (4008) |
+## 10.3.12. Mónosbél (4031)
 
-| Kerecsend | (4010) |
+## 10.3.13. Noszvaj (4016)
 
-| Mikófalva | (4030) |
+## 10.3.14. Novaj (4017)
 
-| Mónosbél | (4031) |
+## 10.3.15. Ostoros (4018)
 
-| Noszvaj | (4016) |
+## 10.3.16. Szarvaskő (4032)
 
-| Novaj | (4017) |
+## 10.3.17. Szomolya (1864)
 
-| Ostoros | (4018) |
+## 10.4. Felsőtárkányi erdőtervezési körzet
 
-| Szarvaskő | (4032) |
+## 10.4.1. Bogács (1839)
 
-| Szomolya | (1864) |
+## 10.4.2. Bükkzsérc (1840)
 
-## Felsőtárkányi
+## 10.4.3. Cserépfalu (1841)
 
-| Bogács | (1839) |
+## 10.4.4. Cserépváralja (1842)
 
-| Bükkzsérc | (1840) |
+## 10.4.5. Felsőtárkány (4024)
 
-| Cserépfalu | (1841) |
+## 10.4.6. Tard (1844)
 
-| Cserépváralja | (1842) |
+## 10.5. Gyöngyössolymosi erdőtervezési körzet
 
-| Felsőtárkány | (4024) |
+## 10.5.1. Abasár (4107)
 
-| Tard | (1844) |
+## 10.5.2. Apc (4111)
 
-## Gyöngyössolymosi
+## 10.5.3. Gyöngyös (4108)
 
-| Abasár | (4107) |
+## 10.5.4. Gyöngyösoroszi (4112)
 
-| Apc | (4111) |
+## 10.5.5. Gyöngyöspata (4113)
 
-| Gyöngyös | (4108) |
+## 10.5.6. Gyöngyössolymos (4109)
 
-| Gyöngyösoroszi | (4112) |
+## 10.5.7. Gyöngyöstarján (4114)
 
-| Gyöngyöspata | (4113) |
+## 10.5.8. Mátraszentimre (4110)
 
-| Gyöngyössolymos | (4109) |
+## 10.5.9. Pálosvörösmart (4120)
 
-| Gyöngyöstarján | (4114) |
+## 10.5.10. Szűcsi (4117)
 
-| Mátraszentimre | (4110) |
+## 10.5.11. Zagyvaszántó (4118)
 
-| Pálosvörösmart | (4120) |
+## 10.6. Hatvan-Hevesi erdőtervezési körzet
 
-| Szűcsi | (4117) |
+## 10.6.1. Adács (4059)
 
-| Zagyvaszántó | (4118) |
+## 10.6.2. Aldebrő (4060)
 
-## Hatvan-Hevesi
+## 10.6.3. Átány (4062)
 
-| Adács | (4059) |
+## 10.6.4. Atkár (4061)
 
-| Aldebrő | (4060) |
+## 10.6.5. Besenyőtelek (4001)
 
-| Átány | (4062) |
+## 10.6.6. Boconád (4063)
 
-| Atkár | (4061) |
+## 10.6.7. Boldog (4064)
 
-| Besenyőtelek | (4001) |
+## 10.6.8. Csány (4065)
 
-| Boconád | (4063) |
+## 10.6.9. Detk (4066)
 
-| Boldog | (4064) |
+## 10.6.10. Dormánd (4003)
 
-| Csány | (4065) |
+## 10.6.11. Ecséd (4068)
 
-| Detk | (4066) |
+## 10.6.12. Egerfarmos (4006)
 
-| Dormánd | (4003) |
+## 10.6.13. Erdőtelek (4069)
 
-| Ecséd | (4068) |
+## 10.6.14. Erk (4070)
 
-| Egerfarmos | (4006) |
+## 10.6.15. Feldebrő (4071)
 
-| Erdőtelek | (4069) |
+## 10.6.16. Füzesabony (4009)
 
-| Erk | (4070) |
+## 10.6.17. Gyöngyöshalász (4072)
 
-| Feldebrő | (4071) |
+## 10.6.18. Halmajugra (4073)
 
-| Füzesabony | (4009) |
+## 10.6.19. Hatvan (4400)
 
-| Gyöngyöshalász | (4072) |
+## 10.6.20. Heréd (4075)
 
-| Halmajugra | (4073) |
+## 10.6.21. Heves (4076)
 
-| Hatvan | (4400) |
+## 10.6.22. Hevesvezekény (4077)
 
-| Heréd | (4075) |
+## 10.6.23. Hort (4078)
 
-| Heves | (4076) |
+## 10.6.24. Kál (4080)
 
-| Hevesvezekény | (4077) |
+## 10.6.25. Kápolna (4081)
 
-| Hort | (4078) |
+## 10.6.26. Karácsond (4079)
 
-| Kál | (4080) |
+## 10.6.27. Kerekharaszt (4401)
 
-| Kápolna | (4081) |
+## 10.6.28. Kompolt (4085)
 
-| Karácsond | (4079) |
+## 10.6.29. Kömlő (4011)
 
-| Kerekharaszt | (4401) |
+## 10.6.30. Lőrinci (4115)
 
-| Kompolt | (4085) |
+## 10.6.31. Ludas (4086)
 
-| Kömlő | (4011) |
+## 10.6.32. Maklár (4012)
 
-| Lőrinci | (4115) |
+## 10.6.33. Mezőszemere (4013)
 
-| Ludas | (4086) |
+## 10.6.34. Mezőtárkány (4014)
 
-| Maklár | (4012) |
+## 10.6.35. Nagyfüged (4088)
 
-| Mezőszemere | (4013) |
+## 10.6.36. Nagykökényes (4089)
 
-| Mezőtárkány | (4014) |
+## 10.6.37. Nagyréde (4090)
 
-| Nagyfüged | (4088) |
+## 10.6.38. Nagytálya (4015)
 
-| Nagykökényes | (4089) |
+## 10.6.39. Nagyút (4091)
 
-| Nagyréde | (4090) |
+## 10.6.40. Petőfibánya (4119)
 
-| Nagytálya | (4015) |
+## 10.6.41. Rózsaszentmárton (4116)
 
-| Nagyút | (4091) |
+## 10.6.42. Szihalom (4021)
 
-| Petőfibánya | (4119) |
+## 10.6.43. Tarnabod (4093)
 
-| Rózsaszentmárton | (4116) |
+## 10.6.44. Tarnaméra (4094)
 
-| Szihalom | (4021) |
+## 10.6.45. Tarnaörs (4095)
 
-| Tarnabod | (4093) |
+## 10.6.46. Tarnazsadány (4098)
 
-| Tarnaméra | (4094) |
+## 10.6.47. Tenk (4099)
 
-| Tarnaörs | (4095) |
+## 10.6.48. Tófalu (4100)
 
-| Tarnazsadány | (4098) |
+## 10.6.49. Vámosgyörk (4101)
 
-| Tenk | (4099) |
+## 10.6.50. Vécs (4103)
 
-| Tófalu | (4100) |
+## 10.6.51. Visonta (4104)
 
-| Vámosgyörk | (4101) |
+## 10.6.52. Visznek (4105)
 
-| Vécs | (4103) |
+## 10.6.53. Zaránk (4106)
 
-| Visonta | (4104) |
+## 10.7. Kelet-Cserháti erdőtervezési körzet
 
-| Visznek | (4105) |
+## 10.7.1. Ecseg (5013)
 
-| Zaránk | (4106) |
+## 10.7.2. Egyházasgerge (5041)
 
-## Kelet-Cserháti
+## 10.7.3. Etes (5014)
 
-| Ecseg | (5013) |
+## 10.7.4. Ipolytarnóc (5043)
 
-| Egyházasgerge | (5041) |
+## 10.7.5. Karancskeszi (5044)
 
-| Etes | (5014) |
+## 10.7.6. Karancsság (5045)
 
-| Ipolytarnóc | (5043) |
+## 10.7.7. Kisbárkány (5016)
 
-| Karancskeszi | (5044) |
+## 10.7.8. Kishartyán (5017)
 
-| Karancsság | (5045) |
+## 10.7.9. Kozárd (5019)
 
-| Kisbárkány | (5016) |
+## 10.7.10. Lucfalva (5020)
 
-| Kishartyán | (5017) |
+## 10.7.11. Márkháza (5021)
 
-| Kozárd | (5019) |
+## 10.7.12. Mátraszőlős (5022)
 
-| Lucfalva | (5020) |
+## 10.7.13. Mátraverebély (5023)
 
-| Márkháza | (5021) |
+## 10.7.14. Mihálygerge (5048)
 
-| Mátraszőlős | (5022) |
+## 10.7.15. Nagybárkány (5024)
 
-| Mátraverebély | (5023) |
+## 10.7.16. Nógrádmegyer (5065)
 
-| Mihálygerge | (5048) |
+## 10.7.17. Piliny (5050)
 
-| Nagybárkány | (5024) |
+## 10.7.18. Ságújfalu (5026)
 
-| Nagykeresztúr | (5135) |
+## 10.7.19. Sámsonháza (5027)
 
-| Nógrádmegyer | (5065) |
+## 10.7.20. Sóshartyán (5028)
 
-| Piliny | (5050) |
+## 10.7.21. Szalmatercs (5051)
 
-| Ságújfalu | (5026) |
+## 10.7.22. Szécsényfelfalu (5052)
 
-| Sámsonháza | (5027) |
+## 10.7.23. Vizslás (5031)
 
-| Sóshartyán | (5028) |
+## 10.8. Kemencei erdőtervezési körzet
 
-| Szalmatercs | (5051) |
+## 10.8.1. Bernecebaráti (5681)
 
-| Szécsényfelfalu | (5052) |
+## 10.8.2. Drégelypalánk (5116)
 
-## Kemencei
+## 10.8.3. Hont (5117)
 
-| Bernecebaráti | (5681) |
+## 10.8.4. Horpács (5118)
 
-| Drégelypalánk | (5116) |
+## 10.8.5. Ipolyvece (5119)
 
-| Hont | (5117) |
+## 10.8.6. Kemence (5654)
 
-| Horpács | (5118) |
+## 10.8.7. Nagyoroszi (5120)
 
-| Ipolyvece | (5119) |
+## 10.8.8. Perőcsény (5655)
 
-| Kemence | (5654) |
+## 10.8.9. Tésa (5656)
 
-| Nagyoroszi | (5120) |
+## 10.9. Kiskörei erdőtervezési körzet
 
-| Perőcsény | (5655) |
+## 10.9.1. Kisköre (4083)
 
-| Tésa | (5656) |
+## 10.9.2. Pély (4092)
 
-## Kiskörei
+## 10.9.3. Poroszló (4019)
 
-| Kisköre | (4083) |
+## 10.9.4. Sarud (4020)
 
-| Pély | (4092) |
+## 10.9.5. Tarnaszentmiklós (4097)
 
-| Poroszló | (4019) |
+## 10.9.6. Tiszanána (4022)
 
-| Sarud | (4020) |
+## 10.9.7. Újlőrincfalva (4023)
 
-| Tarnaszentmiklós | (4097) |
+## 10.10. Nagybátonyi erdőtervezési körzet
 
-| Tiszanána | (4022) |
+## 10.10.1. Bátonyterenye-Kisterenye (5018)
 
-| Újlőrincfalva | (4023) |
+## 10.10.2. Bátonyterenye-Nagybátony (5004)
 
-## Nagybátonyi
+## 10.10.3. Dorogháza (5000)
 
-| Bátonyterenye-Kisterenye | (5018) |
+## 10.10.4. Jobbágyi (5002)
 
-| Bátonyterenye-Nagybátony | (5004) |
+## 10.10.5. Mátramindszent (5003)
 
-| Dorogháza | (5000) |
+## 10.10.6. Nagykeresztúr (5135)
 
-| Jobbágyi | (5002) |
+## 10.10.7. Pásztó (5007)
 
-| Mátramindszent | (5003) |
+## 10.10.8. Rákóczibánya (5136)
 
-| Pásztó | (5007) |
+## 10.10.9. Szuha (5008)
 
-| Rákóczibánya | (5136) |
+## 10.10.10. Szurdokpüspöki (5009)
 
-| Szuha | (5008) |
+## 10.10.11. Tar (5010)
 
-| Szurdokpüspöki | (5009) |
+## 10.11. Nagymarosi erdőtervezési körzet
 
-| Tar | (5010) |
+## 10.11.1. Ipolydamásd (5660)
 
-| Vizslás | (5031) |
+## 10.11.2. Ipolytölgyes (5658)
 
-## Nagymarosi
+## 10.11.3. Kismaros (5661)
 
-| Ipolydamásd | (5660) |
+## 10.11.4. Kóspallag (5662)
 
-| Ipolytölgyes | (5658) |
+## 10.11.5. Letkés (5663)
 
-| Kismaros | (5661) |
+## 10.11.6. Márianosztra (5664)
 
-| Kóspallag | (5662) |
+## 10.11.7. Nagybörzsöny (5659)
 
-| Letkés | (5663) |
+## 10.11.8. Nagymaros (5665)
 
-| Márianosztra | (5664) |
+## 10.11.9. Szob (5666)
 
-| Nagybörzsöny | (5659) |
+## 10.11.10. Vámosmikola (5657)
 
-| Nagymaros | (5665) |
+## 10.11.11. Zebegény (5667)
 
-| Szob | (5666) |
+## 10.12. Nyugat-Borsodi erdőtervezési körzet
 
-| Vámosmikola | (5657) |
+## 10.12.1. Arló (1845)
 
-| Zebegény | (5667) |
+## 10.12.2. Borsodnádasd (1846)
 
-## Nyugat-Borsodi
+## 10.12.3. Borsodszentgyörgy (1847)
 
-| Arló | (1845) |
+## 10.12.4. Domaháza (1855)
 
-| Borsodnádasd | (1846) |
+## 10.12.5. Farkaslyuk (1908)
 
-| Borsodszentgyörgy | (1847) |
+## 10.12.6. Hangony (1856)
 
-| Domaháza | (1855) |
+## 10.12.7. Járdánháza (1852)
 
-| Farkaslyuk | (1908) |
+## 10.12.8. Kissikátor (1857)
 
-| Hangony | (1856) |
+## 10.12.9. Ózd (1858)
 
-| Járdánháza | (1852) |
+## 10.12.10. Sajónémeti (1859)
 
-| Kissikátor | (1857) |
+## 10.13. Parádi erdőtervezési körzet
 
-| Ózd | (1858) |
+## 10.13.1. Bodony (4049)
 
-| Sajónémeti | (1859) |
+## 10.13.2. Mátraballa (4051)
 
-## Parádi
+## 10.13.3. Mátraderecske (4052)
 
-| Bodony | (4049) |
+## 10.13.4. Parád (4053)
 
-| Mátraballa | (4051) |
+## 10.13.5. Parádsasvár (4054)
 
-| Mátraderecske | (4052) |
+## 10.13.6. Recsk (4055)
 
-| Parád | (4053) |
+## 10.13.7. Sirok (4056)
 
-| Parádsasvár | (4054) |
+## 10.13.8. Szajla (4057)
 
-| Recsk | (4055) |
+## 10.14. Pétervásárai erdőtervezési körzet
 
-| Sirok | (4056) |
+## 10.14.1. Cered (5130)
 
-| Szajla | (4057) |
+## 10.14.2. Erdőkövesd (4033)
 
-## Pétervásárai
+## 10.14.3. Istenmezeje (4034)
 
-| Cered | (5130) |
+## 10.14.4. Ivád (4035)
 
-| Erdőkövesd | (4033) |
+## 10.14.5. Kisfüzes (4036)
 
-| Istenmezeje | (4034) |
+## 10.14.6. Mátranovák (5132)
 
-| Ivád | (4035) |
+## 10.14.7. Mátraterenye (5005)
 
-| Kisfüzes | (4036) |
+## 10.14.8. Nemti (5006)
 
-| Mátranovák | (5132) |
+## 10.14.9. Pétervására (4037)
 
-| Mátraterenye | (5005) |
+## 10.14.10. Szilaspogony (5133)
 
-| Nemti | (5006) |
+## 10.14.11. Váraszó (4038)
 
-| Pétervására | (4037) |
+## 10.14.12. Zabar (5134)
 
-| Szilaspogony | (5133) |
+## 10.15. Romhányi erdőtervezési körzet
 
-| Váraszó | (4038) |
+## 10.15.1. Alsópetény (5100)
 
-| Zabar | (5134) |
+## 10.15.2. Balassagyarmat (5054)
 
-## Romhányi
+## 10.15.3. Bánk (5101)
 
-| Alsópetény | (5100) |
+## 10.15.4. Becske (5078)
 
-| Balassagyarmat | (5054) |
+## 10.15.5. Csesztve (5055)
 
-| Bánk | (5101) |
+## 10.15.6. Debercsény (5082)
 
-| Becske | (5078) |
+## 10.15.7. Dejtár (5103)
 
-| Csesztve | (5055) |
+## 10.15.8. Érsekvadkert (5104)
 
-| Debercsény | (5082) |
+## 10.15.9. Galgaguta (5086)
 
-| Dejtár | (5103) |
+## 10.15.10. Ipolyszög (5106)
 
-| Érsekvadkert | (5104) |
+## 10.15.11. Kétbodony (5107)
 
-| Galgaguta | (5086) |
+## 10.15.12. Kisecset (5108)
 
-| Kétbodony | (5107) |
+## 10.15.13. Legénd (5089)
 
-| Kisecset | (5108) |
+## 10.15.14. Magyarnándor (5090)
 
-| Legénd | (5089) |
+## 10.15.15. Mohora (5091)
 
-| Magyarnándor | (5090) |
+## 10.15.16. Nézsa (5092)
 
-| Mohora | (5091) |
+## 10.15.17. Nógrádkövesd (5093)
 
-| Nézsa | (5092) |
+## 10.15.18. Nógrádsáp (5094)
 
-| Nógrádkövesd | (5093) |
+## 10.15.19. Patak (5121)
 
-| Nógrádsáp | (5094) |
+## 10.15.20. Pusztaberki (5109)
 
-| Patak | (5121) |
+## 10.15.21. Romhány (5111)
 
-| Pusztaberki | (5109) |
+## 10.15.22. Szátok (5112)
 
-| Romhány | (5111) |
+## 10.15.23. Szécsénke (5097)
 
-| Szátok | (5112) |
+## 10.15.24. Szente (5113)
 
-| Szécsénke | (5097) |
+## 10.15.25. Tereske (5114)
 
-| Szente | (5113) |
+## 10.16. Salgótarjáni erdőtervezési körzet
 
-| Tereske | (5114) |
+## 10.16.1. Bárna (5032)
 
-## Salgótarjáni
+## 10.16.2. Karancsalja (5033)
 
-| Bárna | (5032) |
+## 10.16.3. Karancsberény (5034)
 
-| Karancsalja | (5033) |
+## 10.16.4. Karancslapujtő (5035)
 
-| Karancsberény | (5034) |
+## 10.16.5. Kazár (5036)
 
-| Karancslapujtő | (5035) |
+## 10.16.6. Mátraszele (5037)
 
-| Kazár | (5036) |
+## 10.16.7. Salgótarján (5025)
 
-| Mátraszele | (5037) |
+## 10.16.8. Salgótarján-Somoskő (5038)
 
-| Salgótarján | (5025) |
+## 10.16.9. Salgótarján-Zagyvaróna (5040)
 
-| Salgótarján-Somoskő | (5038) |
+## 10.16.10. Somoskőújfalu (5039)
 
-| Somoskőújfalu | (5039) |
+## 10.17. Szécsényi erdőtervezési körzet
 
-| Salgótarján-Zagyvaróna | (5040) |
+## 10.17.1. Alsótold (5053)
 
-## Szécsényi
+## 10.17.2. Csitár (5056)
 
-| Alsótold | (5053) |
+## 10.17.3. Endrefalva (5042)
 
-| Csitár | (5056) |
+## 10.17.4. Felsőtold (5057)
 
-| Endrefalva | (5042) |
+## 10.17.5. Garáb (5058)
 
-| Felsőtold | (5057) |
+## 10.17.6. Hollókő (5059)
 
-| Garáb | (5058) |
+## 10.17.7. Hugyag (5060)
 
-| Hollókő | (5059) |
+## 10.17.8. Iliny (5061)
 
-| Hugyag | (5060) |
+## 10.17.9. Litke (5046)
 
-| Iliny | (5061) |
+## 10.17.10. Ludányhalászi (5047)
 
-| Litke | (5046) |
+## 10.17.11. Magyargéc (5062)
 
-| Ludányhalászi | (5047) |
+## 10.17.12. Nagylóc (5063)
 
-| Magyargéc | (5062) |
+## 10.17.13. Nógrádmarcal (5064)
 
-| Nagylóc | (5063) |
+## 10.17.14. Nógrádsipek (5066)
 
-| Nógrádmarcal | (5064) |
+## 10.17.15. Nógrádszakál (5049)
 
-| Nógrádsipek | (5066) |
+## 10.17.16. Őrhalom (5067)
 
-| Nógrádszakál | (5049) |
+## 10.17.17. Patvarc (5068)
 
-| Őrhalom | (5067) |
+## 10.17.18. Rimóc (5069)
 
-| Patvarc | (5068) |
+## 10.17.19. Szécsény (5070)
 
-| Rimóc | (5069) |
+## 10.17.20. Szügy (5071)
 
-| Szécsény | (5070) |
+## 10.17.21. Varsány (5072)
 
-| Szügy | (5071) |
+## 10.18. Szilvásváradi erdőtervezési körzet
 
-| Varsány | (5072) |
+## 10.18.1. Bükkmogyorósd (1848)
 
-## Szilvásváradi
+## 10.18.2. Csernely (1849)
 
-| Bükkmogyorósd | (1848) |
+## 10.18.3. Nagyvisnyó (4025)
 
-| Csernely | (1849) |
+## 10.18.4. Szilvásvárad (4026)
 
-| Nagyvisnyó | (4025) |
+## 10.19. Tarnaleleszi erdőtervezési körzet
 
-| Szilvásvárad | (4026) |
+## 10.19.1. Bátor (4039)
 
-## Tarnaleleszi
+## 10.19.2. Bekölce (4040)
 
-| Bátor | (4039) |
+## 10.19.3. Bükkszék (4050)
 
-| Bekölce | (4040) |
+## 10.19.4. Bükkszenterzsébet (4041)
 
-| Bükkszék | (4050) |
+## 10.19.5. Egerbocs (4042)
 
-| Bükkszenterzsébet | (4041) |
+## 10.19.6. Egercsehi (4043)
 
-| Egerbocs | (4042) |
+## 10.19.7. Fedémes (4044)
 
-| Egercsehi | (4043) |
+## 10.19.8. Hevesaranyos (4045)
 
-| Fedémes | (4044) |
+## 10.19.9. Szentdomonkos (4046)
 
-| Hevesaranyos | (4045) |
+## 10.19.10. Szúcs (4047)
 
-| Szentdomonkos | (4046) |
+## 10.19.11. Tarnalelesz (4048)
 
-| Szúcs | (4047) |
+## 10.19.12. Terpes (4058)
 
-| Tarnalelesz | (4048) |
+## 10.20. Váci erdőtervezési körzet
 
-| Terpes | (4058) |
+## 10.20.1. Csörög (5685)
 
-## Váci
+## 10.20.2. Csővár (5670)
 
-| Csörög | (5685) |
+## 10.20.3. Felsőpetény (5105)
 
-| Csővár | (5670) |
+## 10.20.4. Keszeg (5125)
 
-| Felsőpetény | (5105) |
+## 10.20.5. Kisnémedi (5671)
 
-| Keszeg | (5125) |
+## 10.20.6. Kosd (5682)
 
-| Kisnémedi | (5671) |
+## 10.20.7. Nőtincs (5126)
 
-| Kosd | (5682) |
+## 10.20.8. Ősagárd (5127)
 
-| Nőtincs | (5126) |
+## 10.20.9. Penc (5672)
 
-| Ősagárd | (5127) |
+## 10.20.10. Püspökhatvan (5673)
 
-| Penc | (5672) |
+## 10.20.11. Püspökszilágy (5674)
 
-| Püspökhatvan | (5673) |
+## 10.20.12. Rád (5675)
 
-| Püspökszilágy | (5674) |
+## 10.20.13. Rétság (5110)
 
-| Rád | (5675) |
+## 10.20.14. Szendehely (5128)
 
-| Rétság | (5110) |
+## 10.20.15. Sződ (5676)
 
-| Szendehely | (5128) |
+## 10.20.16. Sződliget (5513)
 
-| Sződ | (5676) |
+## 10.20.17. Tolmács (5115)
 
-| Sződliget | (5513) |
+## 10.20.18. Vác (5683)
 
-| Tolmács | (5115) |
+## 10.20.19. Vácduka (5677)
 
-| Vác | (5683) |
+## 10.20.20. Váchartyán (5678)
 
-| Vácduka | (5677) |
+## 10.20.21. Vácrátót (5679)
 
-| Váchartyán | (5678) |
+## 10.21. Verpeléti erdőtervezési körzet
 
-| Vácrátót | (5679) |
+## 10.21.1. Domoszló (4067)
 
-## Verpeléti
+## 10.21.2. Kisnána (4084)
 
-| Domoszló | (4067) |
+## 10.21.3. Markaz (4087)
 
-| Kisnána | (4084) |
+## 10.21.4. Tarnaszentmária (4096)
 
-| Markaz | (4087) |
-
-| Tarnaszentmária | (4096) |
-
-| Verpelét | (4102) |
+## 10.21.5. Verpelét (4102)
 
 2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^17]
 
