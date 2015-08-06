@@ -180,9 +180,9 @@ A fajok élőhelyéül szolgáló erdőben a fakitermelési munkák során idős
 
 |  | 15. | Egyéb fenyvesek | 40–60 | – | – | – |
 
-* Egyéb kemény lombosnak számítva az intenzíven terjedő amerikai kőrisesek és zöld juharosok.
+## * Egyéb kemény lombosnak számítva az intenzíven terjedő amerikai kőrisesek és zöld juharosok.
 
-** Állami gazdálkodók esetén a körzet véghasználati keretszámainak elérése esetén
+## ** Állami gazdálkodók esetén a körzet véghasználati keretszámainak elérése esetén
 
 5.2.2. Gazdasági rendeltetésű, 130 m3-nél nagyobb hektáronkénti fatömegű akácosban, továbbá a részletben előforduló hazai nyár faegyedek sarjaztatására alkalmatlan termőhelyen álló és 35%-nál nagyobb nemes nyár elegyarányú nemes nyár elegyes hazai nyárasokban véghasználat már 25 éves kortól tervezhető.
 
@@ -198,7 +198,7 @@ A fajok élőhelyéül szolgáló erdőben a fakitermelési munkák során idős
 
 |  | 3. | Összesen | 2800 |
 
-* Hiteles, és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
+## * Hiteles, és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
 
 5.2.4. Véghasználatként tarvágás jogszabály eltérő rendelkezése hiányában az alábbi esetekben tervezhető, engedélyezhető:
 

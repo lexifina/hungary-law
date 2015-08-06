@@ -18,7 +18,7 @@ a) a 2,0 hektár vagy annál nagyobb végvágott vagy tarvágott területen lehe
 
 b) a 2,0 hektárnál kisebb végvágott vagy tarvágott területen kisebb csoportokban
 
-## maradjanak vissza a területen.
+maradjanak vissza a területen.
 
 (8) A véghasználat során a hagyásfákat, hagyásfa csoportokat lehetőség szerint őshonos fafajokból, idősebb, de még állékony, illetve böhöncös, odvas faegyedekből kell visszahagyni. A hagyásfa csoportokat továbbá úgy kell kialakítani, hogy azok a természetvédelmi vagy közjóléti jelentőségű, ismert vonalas, illetve pontszerű helyszíneket (így különösen fokozottan védett madár fészke, forrás, patakmeder, barlang bejárata, erdei emlékmű vagy közjóléti létesítmény, berendezés) is tartalmazzák.
 
@@ -33,3 +33,5 @@ a) kiemelt közjóléti, természetvédelmi, örökségvédelmi vagy árvízvéd
 b) faanyagtermelést nem szolgáló erdőkben szükségessé váló fakitermelések esetében,
 
 c) az engedélyezett igénybevételek végre nem hajtott fakitermelései esetében
+
+tervezhető.

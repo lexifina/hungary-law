@@ -140,7 +140,7 @@ megőrzését.
 
 |  | 4. | Összesen | 3900 |
 
-* Hiteles, és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
+## * Hiteles, és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
 
 6.2.4. Véghasználatként tarvágás jogszabály eltérő rendelkezése hiányában az alábbi esetekben tervezhető, engedélyezhető:
 

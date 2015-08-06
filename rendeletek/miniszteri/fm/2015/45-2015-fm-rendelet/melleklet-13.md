@@ -220,6 +220,8 @@ A fajok állományainak élőhelyéül szolgáló erdőben szeptember 1. és nov
 
 6.2.1. Az erdőtervezés során alkalmazandó vágásérettségi szakaszok:
 
+## 5K18217_1
+
 |  |  | A | B | C | D | E |
 
 |  | 1. | Faállománytípus neve | Vágásérettségi szakaszok (év) |

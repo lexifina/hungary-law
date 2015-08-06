@@ -116,7 +116,7 @@ A nyilvántartott fészektől számított 100 méteren belül a természetvédel
 
 |  | 3. | Növedékfokozó gyérítés | 40 | 110 |
 
-* A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
+## * A nem megfelelő egészségi állapotú, vagy faállomány-szerkezetű erdők esetében a táblázat értékeitől indokolt mértékben el lehet térni.
 
 5.1.2. A kétszintes állományok gyérítésénél az alsó szintre csak kivételes indokkal tervezhető fakitermelés.
 

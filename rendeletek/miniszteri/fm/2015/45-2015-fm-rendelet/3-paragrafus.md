@@ -1,5 +1,3 @@
-## erdőtag és erdőrészlet azonosítói csak a védetté nyilvánító jogszabályban foglalt területi lehatárolás Országos Erdőállomány Adattárban (a továbbiakban: Adattár) való egyértelmű nyomon követhetőségének biztosításával változtathatók meg.
-
 ## 2. Az erdőgazdálkodás üzemmódjának megállapítására vonatkozó erdőtervezési alapelvek
 
 3. § (1) Faanyagtermelést nem szolgáló üzemmódot indokolt megállapítani azokra az erdőkre vonatkozóan

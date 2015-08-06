@@ -1,5 +1,3 @@
-## tervezhető.
-
 ## 4. Természetvédelmi célú erdőtervezési alapelvek
 
 5. § (1) E rendeletben szereplő előírásokat védett természeti területek esetében az adott területre vonatkozó, jogszabályban kihirdetett természetvédelmi kezelési tervben, illetve a vonatkozó természetvédelmi jogszabályokban foglalt sajátos előírásoknak megfelelő eltérésekkel kell alkalmazni.

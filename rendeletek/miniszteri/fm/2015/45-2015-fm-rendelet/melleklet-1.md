@@ -1,5 +1,3 @@
-## 10. § Az erdőterv rendelet előkészítésének, és a körzeti erdőterv készítésének szabályairól szóló 11/2010. (II. 4.) FVM rendelet 3. számú melléklete helyébe a 17. melléklet lép.
-
 1. melléklet a 45/2015. (VII. 28.) FM rendelethez
 
 1. Az erdőtervezési körzet neve

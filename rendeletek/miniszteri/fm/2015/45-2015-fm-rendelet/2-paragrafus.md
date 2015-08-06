@@ -1,5 +1,3 @@
-## tartalmazza.
-
 ## 1. Az erdőrészletek kialakítására vonatkozó erdőtervezési alapelvek
 
 2. § (1) A körzeti erdőtervezés során az erdő faállomány-, termőhelyi-, tulajdon-, illetve erdőgazdálkodási viszonyok, továbbá közérdekű funkciók, rendeltetések tekintetében jelentősen eltérő részeit lehetőség szerint a természetben jól fellelhető határok mentén önálló erdőrészletként kell elhatárolni.
@@ -19,3 +17,5 @@ d) a szálaló és átalakító üzemmódú erdőtömbök optimális kialakítá
 a) védett, illetve fokozottan védett természeti területen található erdők, valamint
 
 b) az erdőrezervátumok
+
+erdőtag és erdőrészlet azonosítói csak a védetté nyilvánító jogszabályban foglalt területi lehatárolás Országos Erdőállomány Adattárban (a továbbiakban: Adattár) való egyértelmű nyomon követhetőségének biztosításával változtathatók meg.

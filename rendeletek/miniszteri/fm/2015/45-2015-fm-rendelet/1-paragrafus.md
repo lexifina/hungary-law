@@ -9,3 +9,5 @@ aa) az erdőtervezési körzetek mindegyikére vonatkozóan a 2–7. §,
 ab) az egyes erdőtervezési körzetekre vonatkozóan az 1–15. melléklet,
 
 b) az erdőgazdálkodás tartamosságát és fejlesztését szolgáló keretértékeit az egyes erdőtervezési körzetekre vonatkozóan az 1–15. melléklet
+
+tartalmazza.
