@@ -248,7 +248,7 @@
 
 | 120 | R25 | Állam által vállalt kezességek | MÁK | negyedéves | elektronikus úton (EBEAD) | tárgyidőszakot követő 51. nap | MNB Statisztikai igazgatóság |
 
-| 121 | R26 | Az euróban vezetett ÁFA számlák miatt nem-rezidensekkel szemben fennálló követelések és tartozások állománya és forgalma | Nemzeti Adó- és Vámhivatal | negyedéves | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 10. munkanap | MNB Statisztikai igazgatóság |
+| 121 | R26 | Az euróban vezetett ÁFA számlák miatt nem-rezidensekkel szemben fennálló követelések és tartozások állománya és forgalma | Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) | negyedéves | elektronikus úton (EBEAD) | tárgyidőszakot követő hónap 10. munkanap | MNB Statisztikai igazgatóság |
 
 | 122 | R27 | Belföldi magánszemélyek külföldi és külföldi magánszemélyek belföldi ingatlanbefektetései | azon ingatlanközvetítői tevékenységet végzők, amelyek közvetítésével a rezidens magánszemélyek külföldi, illetve a külföldi magánszemélyek belföldi ingatlan adásvételeire vonatkozóan a tárgyidőszakban megkötött szerződések szerinti vételárak összege eléri az 500 millió Ft-ot | éves | elektronikus úton (EBEAD) | tárgyidőszakot követő év március 10. munkanap | MNB Statisztikai igazgatóság |
 
@@ -284,6 +284,10 @@
 
 | 3 | Z03 | A fogyasztói árindex számításához felhasznált bolti szintű, anonimizált áradatok | KSH | megállapodás szerint | elektronikus úton | megállapodás szerint | MNB Kutatási főosztály |
 
+| 4 | Z04 | Természetes személyek anonimizált jövedelmi adatai | NAV | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint | MNB Statisztikai igazgatóság |
+
+| 5 | Z05 | Központi hitelinformációs rendszer anonimizált adatai | központi hitelinformációs rendszert működtető pénzügyi vállalkozás | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint | MNB Statisztikai igazgatóság |
+
 2. melléklet a 48/2014. (XI. 27.) MNB rendelethez[^6]
 
-[^6]: A 2. melléklet a 4/2015. (III. 6.) MNB rendelet 5. §-a, a 21/2015. (VI. 29.) MNB rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet a 4/2015. (III. 6.) MNB rendelet 5. §-a, a 21/2015. (VI. 29.) MNB rendelet 1. § (2) bekezdése, a 27/2015. (VIII. 6.) MNB rendelet 2. §-a szerint módosított szöveg.
