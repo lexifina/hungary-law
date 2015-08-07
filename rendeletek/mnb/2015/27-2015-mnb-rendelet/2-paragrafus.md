@@ -1,0 +1,1 @@
+## 1. § A jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 48/2014. (XI. 27.) MNB rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
