@@ -1,0 +1,11 @@
+## 4. § Ha a menekültügyi hatóság megállapítja, hogy az elismerését kérő vagy a nemzetközi védelemben részesített az ujjnyomatvétel időpontjától számított tíz éven belül szerzett magyar állampolgárságot, erről az adatfeldolgozó szervet haladéktalanul tájékoztatja. Az adatfeldolgozó szerv a tájékoztatást követően haladéktalanul intézkedik az érintett személyre vonatkozó adatok törlése iránt.
+
+5. § (1) Az idegenrendészeti hatóság az ujjnyomatot az elfogást követő negyvennyolc órán belül rögzíti és haladéktalanul továbbítja az adatfeldolgozó szerv felé, kivéve, ha a harmadik országbeli állampolgár kitoloncolására az elfogást követően azonnal sor kerül, továbbá, fogvatartott esetén.
+
+(2) Az eljáró idegenrendészeti hatóság legkésőbb a szabadítást megelőző munkanapon köteles a nyomatlap megküldésével egyidejűleg tájékoztatni az adatfeldolgozó szervet a fogvatartott harmadik országbeli állampolgár szabadításáról. Ha az idegenrendészeti eljárásban az őrizet megszüntetésére a Harmvhr. 114. § (2) bekezdésében vagy a 126. § (2) bekezdés a) pontjában meghatározott idegenrendészeti hatóság hatáskörének megszűnése miatt kerül sor, és az eljárás folytatására hatáskörrel rendelkező idegenrendészeti hatóság a harmadik országbeli állampolgár őrizetét nem rendeli el, erről a nyomatlap megküldésével egyidejűleg haladéktalanul köteles tájékoztatni az adatfeldolgozó szervet.
+
+(3) Az adatfeldolgozó szerv haladéktalanul, de legkésőbb az elfogástól számított hetvenkét órán belül, fogvatartott személyek esetén a szabadon bocsátást megelőzően továbbítja a központi rendszerbe az Eurodac II. rendelet 14. cikk (2) bekezdése szerinti adatokat.
+
+(4) A harmadik országbeli állampolgárt az ujjnyomatvételt megelőzően az Eurodac II. rendelet 29. cikk (1) bekezdésében és a Dublin III. rendelet 4. cikk (1) bekezdésében foglaltaknak megfelelően az általa értett nyelven vagy olyan nyelven, amelyet ésszerűen feltételezhetően megért, írásban és szükség esetén szóban tájékoztatni kell.
+
+(5) Az ujjnyomatvétel megtagadása esetén a harmadik országbeli állampolgárt annak következményeiről az általa értett nyelven, vagy olyan nyelven, amelyet feltételezhetően megért írásban és szükség esetén szóban tájékoztatni kell. A tájékoztatást követően az ujjnyomatvételt ismételten meg kell kísérelni.
