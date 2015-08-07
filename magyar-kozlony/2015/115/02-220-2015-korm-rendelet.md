@@ -1,0 +1,94 @@
+# A Kormány 220/2015. (VIII. 7.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 115. szám, 2015. augusztus 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3829c9676d6c29e8e8e2a79387debc6b19733a60/dokumentumok/fc77ce11d2798f39af1f6852e0995f0ddc33fc72/letoltes)
+
+---
+
+A Kormány 220/2015. (VIII. 7.) Korm. rendelete
+a kormányablakokról szóló 515/2013. (XII. 30.) Korm. rendelet és a területi államigazgatási
+szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló
+70/2015. (III. 30.) Korm. rendelet módosításáról
+A Kormány
+a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (3) és
+(5) bekezdésében,
+a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi
+integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 21. § a) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A kormányablakokról szóló 515/2013. (XII. 30.) Korm. rendelet (a továbbiakban: R.) 3. melléklete az 1. melléklet
+szerint módosul.
+(2) Az R. 4. melléklete a 2. melléklet szerint módosul.
+2. §
+A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról
+szóló 70/2015. (III. 30.) Korm. rendelet 265. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A 240. § (1)–(3) és (7) bekezdése, valamint az 57. melléklet 2016. január 1-jén lép hatályba.”
+3. §
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 220/2015. (VIII. 7.) Korm. rendelethez
+1. Az R. 3. melléklete a következő 236–270. ponttal egészül ki:
+„236. Az ügyfél vagy az adatkérő – a kormányhivatal által egészségbiztosítási feladatkörében kezelt – személyes,
+illetve egészségügyi adatai megismerésére vonatkozó kérelme
+237. Azonnali pénzügyi segély iránti kérelem áldozatsegítő szolgáltatás keretében
+238. Bűncselekmények áldozatainak okmánypótlásához hatósági bizonyítvány kiállítása iránti kérelem
+239. Méltányossági kérelem álláskeresési ellátások visszakövetelése esetén
+240. Költségek megtérítése iránti kérelem a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló
+1991. évi IV. törvény 32. §-a alapján
+241. Álláskeresési járadék folyósítása időtartamának hátralevő idejére eső összegének egy összegben történő
+kifizetése iránti kérelem
+242. Munkaviszony fennállásának okirati bizonyítása iránti kérelem
+243. Biztosítási jogviszony tisztázása érdekében okirati bizonyítási eljárás lefolytatása iránti kérelem társas vállalkozó
+esetén
+244. Biztosítási jogviszony tisztázása érdekében okirati bizonyítási eljárás lefolytatása iránti kérelem tanulószerződés
+alapján szakképző iskolai tanulmányokat folytató tanuló esetén
+245. Biztosítási jogviszony tisztázása érdekében okirati bizonyítási eljárás lefolytatása iránti kérelem a díjazás
+ellenében munkavégzésre irányuló egyéb jogviszony (megbízási, illetve vállalkozási jogviszony) esetén
+246. Belföldinek nem minősülő egyszerűsített foglalkoztatás keretében alkalmazott természetes személy kérelme
+a Társadalombiztosítási Azonosító Jelet igazoló okmány kiadása iránt
+
+247. Húsvizsgálat iránti kérelem
+248. Foglalkoztatást elősegítő, ajánlott képzésben történő részvétel képzési költségének támogatása iránti, illetve
+keresetpótló juttatás vagy kereset-kiegészítés megállapítása iránti kérelem
+249. Földhasználati bejelentés
+250. Kérelem a gyám, a gondnok vagyon- és bérlakás-kezeléséhez kapcsolódó jognyilatkozata érvényességéhez
+szükséges jóváhagyása iránt
+251. Kérelem a gyermek, gondnokság alá helyezett személy személyes tulajdonát képező készpénzvagyont érintő
+jognyilatkozat jóváhagyására
+252. Hadirokkant magasabb járadékosztályba való besorolása iránti kérelme
+253. Álláskeresési járadék megszüntetése iránti kérelem (bejelentés)
+254. Személyi jövedelemadó kedvezmény igénybevételéhez szükséges hatósági bizonyítvány kiállítása iránti
+kérelem
+255. Álláskeresőként nyilvántartott időtartamra, az utolsó munkáltató megnevezésére vonatkozó hatósági
+bizonyítvány kiállítása iránti kérelem
+256. Pártfogó ügyvédi képviselet engedélyezése iránti kérelem
+257. Közfoglalkoztatási mintaprogramok támogatása iránti kérelem
+258. Hosszabb időtartamú közfoglalkoztatás támogatása iránti kérelem
+259. Közúti járművek forgalomba helyezés előtti vizsgálatának elvégzésére irányuló kérelem
+260. Digitális tachográf kártya kiadása iránti kérelem
+261. Lassú járművek és pótkocsijaik forgalomba helyezés előtti és időszakos vizsgálata elvégzésére irányuló kérelem
+262. Közúti járművek műszaki adatainak, adatváltozásának igazolására, vagy környezetvédelmi plakett pótlására
+irányuló kérelem
+263. Járművek forgalomba helyezéséhez szükséges honosítási eljárás lefolytatása iránti kérelem
+264. Előzetes eredetiségvizsgálat elvégzésére vonatkozó kérelem
+265. Közúti járművek egyedi forgalomba helyezésének engedélyezése iránti kérelem
+266. Közúti járművek forgalomba helyezés előtti műszaki vizsgálata iránti kérelem
+267. Gépjármű, mezőgazdasági vontató, valamint pótkocsi időszakos vizsgálata iránti kérelem
+268. I. és II. forgalmi kategóriájú készítmények forgalmazására, vásárlására és felhasználására jogosító igazolványok
+kiadása iránti kérelem
+269. Szabad mozgás és tartózkodás jogával rendelkező személy engedélymentes foglalkoztatásának bejelentése
+270. Hadigondozási igényjogosultság megállapítására vonatkozó kérelem”
+2. Az R 3. melléklet 233. pontja helyébe a következő rendelkezés lép:
+„233. Gyám, családba fogadó gyám kirendelésére irányuló kérelem”
+3. Hatályát veszti az R. 3. melléklet 36. pontja.
+2. melléklet a 220/2015. (VIII. 7.) Korm. rendelethez
+Az R. 4. melléklete a következő 48–57. ponttal egészül ki:
+„48. Haszonélvezeti jog törlése iránti kérelem
+49. Álláskeresési járadék szüneteltetése iránti kérelem (bejelentés)
+50. Álláskeresési járadék megállapítása iránti kérelem
+51. Álláskeresés szünetelésének bejelentése nyilvántartásba vétel céljából
+52. Álláskeresők nyilvántartásból való törlése iránti kérelem (bejelentés)
+53. Álláskeresők nyilvántartásba vétele iránti kérelem
+54. Bérgarancia támogatás iránti, bérgarancia támogatás iránti ismételt kérelem
+55. Munkahely-teremtési támogatás iránti pályázat
+56. Vállalkozóvá válási támogatás iránti pályázat (6 havi minimálbérre)
+57. Munkahely-megőrzési támogatás iránti kérelem”

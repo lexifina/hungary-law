@@ -1,0 +1,288 @@
+# A Kormány 1552/2015. (VIII. 7.) Korm. határozata
+
+Magyar Közlöny 2015. évi 115. szám, 2015. augusztus 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3829c9676d6c29e8e8e2a79387debc6b19733a60/dokumentumok/fc77ce11d2798f39af1f6852e0995f0ddc33fc72/letoltes)
+
+---
+
+A Kormány 1552/2015. (VIII. 7.) Korm. határozata
+a védelmi felkészítés egyes kérdéseiről
+1. A Kormány a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető
+intézkedésekről szóló 2011. évi CXIII. törvény 21. § (1) bekezdés e)–i) pontjában, 21. § (3) bekezdés b) pontjában,
+továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető
+intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm.
+rendelet 41. § (3) bekezdésében foglalt feladatainak végrehajtása érdekében
+a) az 1. mellékletben foglaltak szerint elfogadja a védelmi felkészítés 2015. évi feladattervét;
+b) felhívja a honvédelmi minisztert, hogy készítsen jelentést a Kormány számára a védelmi felkészítés
+2015. évi feladatainak végrehajtásáról, valamint a „honvédelmi- és gazdasági felkészülés központi kiadásai”,
+a „Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítása”, illetve a „K-600 hírrendszer
+működtetésére”jogcímeken biztosított előirányzatok felhasználásáról;
+Felelős: honvédelmi miniszter
+Határidő: 2016. február 1.
+c) felhívja a honvédelmi minisztert, hogy készítsen előterjesztést a védelmi felkészítés körébe tartozó,
+2016. évre javasolt feladatokról;
+Felelős: honvédelmi miniszter
+Határidő: 2016. február 1.
+d) felhívja a honvédelmi minisztert, hogy – a honvédelmi igazgatás központi döntés-előkészítő és végrehajtás-
+koordináló szakmai szerve útján – kísérje figyelemmel a feladattervben foglaltak végrehajtását és szükség
+esetén tegyen javaslatot a teljesítést segítő intézkedésekre;
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+e) felhívja a honvédelmi minisztert, hogy a honvédelmi igazgatás központi döntés-előkészítő és
+végrehajtás-koordináló szakmai szerve útján koordinálja a honvédelmi- és a gazdasági felkészülés, illetve
+a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítását, valamint határozza meg a
+K-600/KTIR Hírközlési és Informatikai Rendszer működtetésével és annak az e-közigazgatási rendszerhez való
+kapcsolódásával összefüggő alkalmazási követelményeket;
+Felelős: honvédelmi miniszter
+belügyminiszter
+Határidő: folyamatos
+
+f) felkéri a legfőbb ügyészt, az Országos Bírósági Hivatal elnökét, a Magyar Nemzeti Bank elnökét,
+a Médiaszolgáltatás-támogató és Vagyonkezelő Alap vezérigazgatóját, az önálló szabályozó szerv vezetőjét
+és az autonóm államigazgatási szerv vezetőjét, hogy szakterületüket érintően működjenek együtt
+a védelmi felkészítés és a válságkezelés feladatainak végrehajtásáért felelős szervekkel az 1. mellékletben
+meghatározott feladatok végrehajtásában.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1138/2014. (III. 14.) Korm. határozat.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1552/2015. (VIII. 7.) Korm. határozathoz
+A védelmi felkészítés 2015. évi feladatterve
+1. Nemzeti Intézkedési Rendszer
+a) A Nemzeti Intézkedések Gyűjteményében foglalt intézkedések felülvizsgálata az ágazati felelős szervek
+bevonásával.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: 2015. szeptember 30.
+b) Nemzeti Intézkedések Gyűjteményének egyes intézkedéseiben szereplő ágazati intézkedési tervek
+kidolgozása, a korábban kidolgozott intézkedési tervek szükség szerinti felülvizsgálata.
+Felelős: miniszterek
+Határidő: 2015. október 30.
+c) Az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) Válságreagálási Rendszerével összhangban álló
+Nemzeti Intézkedési Rendszer (a továbbiakban: NIR) ágazati feladatainak végrehajtásáról szóló beszámoló
+elkészítése és a honvédelmi miniszter részére történő megküldése a 11. pontban meghatározottakkal
+összhangban.
+Felelős: miniszterek
+Határidő: 2015. november 30.
+d) A védelmi felkészítés körébe tartozó, 2015. évben végrehajtott, és 2016. évre javasolt feladatokról szóló
+kormány-előterjesztés részeként beszámoló készítése a NIR működésének összesített tapasztalatairól,
+különös tekintettel az a) alpont szerint elvégzett felülvizsgálat eredményére, valamint az ágazati
+feladatok végrehajtására, továbbá szükség szerint javaslattétel a Kormány részére a Nemzeti Intézkedések
+Gyűjteményében foglalt intézkedések módosítására, kiegészítésére vagy hatályon kívül helyezésére.
+Felelős: honvédelmi miniszter
+Határidő: 2016. február 1.
+e) Az ágazati javaslatok alapján a NATO Válságreagálási Rendszer kézikönyvének éves módosítására vonatkozó
+nemzeti álláspont összeállítása és megküldése a NATO részére.
+Felelős: honvédelmi miniszter
+Határidő: NATO által meghatározott időpont
+2. A polgári-katonai-rendvédelmi együttműködés feladatai
+a) Az átfogó megközelítés Kormány által elfogadott 2013–2016. közötti időszakra vonatkozó Akcióterve alapján
+aa) a biztonsági kérdésekkel kapcsolatos kormányzati és ágazati stratégiák soron következő módosítása
+során a stratégiákban meg kell jeleníteni az átfogó megközelítést, mint a civil-katonai-rendvédelmi
+együttműködés alapelvét (Akcióterv 3. akció);
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: folyamatos
+ab) ágazatonként és válságtípusonként meg kell határozni az egyes ágazatok felügyelete alá tartozó
+potenciális beavatkozó, valamint azok tevékenységét irányító, koordináló szervek körét, e szervek
+
+feladat- és hatáskörét, az együttműködés módját (Akcióterv 4. akció), és az erről szóló tájékoztatót
+meg kell küldeni a honvédelmi miniszternek;
+Felelős: honvédelmi miniszter
+a feladatkörükben érintett miniszterek
+Határidő: 2015. október 1.
+ac) véglegesíteni kell az átfogó megközelítés érvényesülését elősegítő, az ab) alpont alapján
+azonosított potenciálisan résztvevő szereplőkre vonatkozó támogatási, juttatási és egyéb ösztönző
+rendszereket, mechanizmusokat (Akcióterv 6. akció);
+Felelős: honvédelmi miniszter
+Határidő: 2015. november 30.
+ad) a válságkezelési gyakorlatok tematikájának, forgatókönyvének kidolgozásakor törekedni kell
+a komplex válságkezelés elvének érvényesítésére, a válságkezelésben érintett polgári, katonai,
+rendvédelmi szervek lehetőség szerinti bevonására, együttműködésük hangsúlyozására (Akcióterv
+8. akció).
+Felelős: miniszterek
+Határidő: folyamatos
+b) A fegyveres összeütközés időszakában végrehajtandó polgári védelmi feladatokra történő felkészítés
+végrehajtása a Honvédelmi Minisztérium által megadott képzési követelmények alapján.
+Felelős: belügyminiszter
+Határidő: 2015. november 30.
+c) A b) alpont szerinti felkészítés végrehajtásával kapcsolatban, a Honvédelmi Minisztérium által megadott
+képzési követelményeken túl, szükség szerint további szakmai követelmények meghatározása.
+Felelős: belügyminiszter
+Határidő: 2015. szeptember 30.
+d) A NATO „Stabilizáció és Újjáépítés (S&R)” képességcéljaival kapcsolatos feladatok tervezése, a végrehajtás
+koordinációja, a felajánlott civil képességek alkalmazásra történő felkészítése.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: 2015. november 30.
+e) A katonai és rendvédelmi szervek által alkalmazott jelkészlet és a térképi ábrázolás felülvizsgálata, NATO
+szabvány szerinti egységesítése.
+Felelős: honvédelmi miniszter
+belügyminiszter
+Határidő: 2015. november 30.
+3. A védelmi felkészítés feladatai
+a) Külön terv szerint, a védelmi igazgatás rendszerében központi, területi (megyei), helyi (járási) és települési
+szinten honvédelmi igazgatási feladatot ellátók továbbképzése a Nemzeti Közszolgálati Egyetem
+Hadtudományi és Honvédtisztképző Kar közreműködésével.
+Felelős: honvédelmi miniszter
+Miniszterelnökséget vezető miniszter
+megyei, fővárosi, helyi védelmi bizottságok
+Határidő: folyamatos
+b) A Honvédelmi Minisztérium által irányított„Honvédelmi kötelék” program keretében a honvédelmi igazgatás
+területi szintjein lebonyolítandó honvédelmi versenyek és más rendezvények szervezése és végrehajtása.
+Felelős: honvédelmi miniszter
+megyei, fővárosi, helyi védelmi bizottságok
+Határidő: a„Honvédelmi kötelék”programhoz igazodóan
+c) A minisztériumok honvédelmi feladatainak tervezését és végrehajtását elősegítő honvédelmi igazgatási
+szakértői rendszer működésének és bővítési lehetőségeinek vizsgálata, ennek eredményéről a Kormány
+tájékoztatása.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: a védelmi felkészítés 2015. évi feladatainak végrehajtásáról szóló jelentéshez igazodóan.
+
+4. A honvédelmi típusú különleges jogrend időszaki jogszabály-tervezetek kidolgozásának megkezdése, előzetes
+szakmai egyeztetése
+a) A rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet és a váratlan támadás idején bevezetendő
+rendkívüli intézkedések jogszabálytervezeteivel kapcsolatos kidolgozó munka folytatása az érintett
+miniszterek bevonásával, a honvédelmi miniszter részére megküldött jogszabálytervezetek szakmai
+véleményezése.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: 2015. október 31.
+b) A Kormány részére szóló előterjesztésben a Kormány tájékoztatása az a) alpont szerinti feladat
+végrehajtásáról, a véglegesített jogszabálytervezetek bemutatása.
+Felelős: Miniszterelnökséget vezető miniszter
+honvédelmi miniszter
+Határidő: 2015. december 15.
+c) A közigazgatási rendszer központi szintjének rendkívüli állapotban történő működésével kapcsolatos
+kormányzati koncepció bemutatása a Kormány részére szóló előterjesztésben, szükség szerint javaslattétel
+a szabályozási feladatokra.
+Felelős: Miniszterelnökséget vezető miniszter
+honvédelmi miniszter
+Határidő: 2015. szeptember 30.
+5. Válságkezelési gyakorlatokkal, rendezvényekkel összefüggő feladatok
+a) A NATO 2015. évi válságkezelési gyakorlat (CMX 15) nemzeti végrehajtásával kapcsolatos feladatok ellátása.
+Felelős: honvédelmi miniszter
+miniszterek
+megyei (fővárosi), helyi védelmi bizottságok
+Határidő: a gyakorlat levezetési tervének megfelelően
+b) A NATO 2016. évi válságkezelési gyakorlat (CMX 16) nemzeti feladatainak előkészítése, részvétel a gyakorlat
+tervezésével összefüggő szövetségi feladatok végrehajtásában, a záró tervezői konferencia magyarországi
+végrehajtása.
+Felelős: honvédelmi miniszter
+miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: a NATO által a gyakorlat végrehajtására meghatározott időpont
+c) A „Védelmi Igazgatás 2015” gyakorlatsorozat előkészítése, megszervezése és végrehajtása a honvédelmi
+igazgatás központi, területi, helyi és települési szerveinek részvételével, a Honvédelmi Minisztérium külön terve
+szerint, egyik elemében együttműködésben a Nemzeti Közszolgálati Egyetem„Végvár 2015”gyakorlatával.
+Felelős: honvédelmi miniszter
+miniszterek
+megyei, fővárosi, helyi védelmi bizottságok
+Határidő: 2015. november 30.
+d) Mobil Orvosi Segélyhely működtetési gyakorlat végrehajtása a CMX 15 gyakorlat keretében.
+Felelős: emberi erőforrások minisztere
+honvédelmi miniszter
+illetékes megyei védelmi bizottság
+Határidő: a gyakorlat levezetési tervének megfelelően
+e) Civil-katonai labordiagnosztikai, illetve mintavevő gyakorlat végrehajtása.
+Felelős: emberi erőforrások minisztere
+honvédelmi miniszter
+Határidő: 2015. november 30.
+f) Komplex civil-katonai egészségügyi gyakorlat végrehajtása
+Felelős: emberi erőforrások minisztere
+honvédelmi miniszter
+megyei, fővárosi védelmi bizottságok
+Határidő: 2015. november 30.
+
+6. A nemzetgazdaságra háruló honvédelmi feladatok
+a) A védelmi célú tartalékolás rendszerének átalakításával kapcsolatban megkezdett tárcaközi együttműködés
+folytatása a Miniszterelnökség koordinálásával, a védelmi célú tartalékolás új koncepcióját tartalmazó
+előterjesztés készítése a Kormány számára.
+Felelős: Miniszterelnökséget vezető miniszter
+miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2015. szeptember 1.
+b) Az a) alpont szerinti koncepció Kormány általi elfogadását követően a védelmi célú tartalékolás rendszerére
+vonatkozó ágazati szabályozók kiadása, szükség esetén a kapcsolódó jogszabályok felülvizsgálata.
+Felelős: miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2015. november 30.
+c) A gazdaságbiztonsági, gazdaságfelkészítési és lakosság ellátási tervezés egyszerűsítése, módszertanának
+korszerűsítése érdekében a jelenlegi szabályozási környezet felülvizsgálata.
+Felelős: nemzetgazdasági miniszter
+miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2015. november 30.
+d) A rögzített hadiipari kapacitást biztosító gazdálkodó szervezetek ellenőrzése a Nemzetgazdasági
+Minisztérium koordinációjában, a követelménytámasztó-szervek bevonásával évente legalább egy
+alkalommal.
+Felelős: nemzetgazdasági miniszter
+honvédelmi miniszter
+belügyminiszter
+Határidő: 2015. november 30.
+7. A védelmi igazgatás tervrendszerének kialakításával kapcsolatos feladatok
+a) A védelmi igazgatás központi szintű tervdokumentációjának (honvédelmi intézkedési terv) elkészítése.
+Felelős: miniszterek
+Határidő: 2015. november 30.
+b) Honvédelmi intézkedési terv készítésére kötelezett, honvédelemben közreműködő egyéb szervek
+meghatározása ágazatonként.
+Felelős: miniszterek
+Határidő: 2015. november 30.
+8. A Honvédelmi Tanács és a Kormány speciális működési feltételeivel összefüggő feladatok
+a) A Honvédelmi Tanács és a Kormány speciális működési feltételeit biztosító létesítmények meghatározott
+követelmények szerinti működtetése, a képességek fenntartása.
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+b) A K-600/KTIR Hírközlési és Informatikai Rendszer kormányzati célú működési és fejlesztési feltételeinek
+biztosítása.
+Felelős: honvédelmi miniszter
+Határidő: folyamatos
+c) Az a) és b) alpont szerinti működtetéssel, képesség-fenntartással kapcsolatos feladatok ellátásához szükséges
+2015. évi szerződések megkötése.
+Felelős: belügyminiszter
+honvédelmi miniszter
+Határidő: 2015. október 30.
+d) Ki kell dolgozni a kormányzat működését támogató informatikai infrastruktúra működés folytonosságának
+fenntartására vonatkozó, illetve különleges jogrend időszakában a kormányzat folyamatos működéséhez
+szükséges információk és adatok biztosítása érdekében az e-védelmi igazgatás integrált, e-közigazgatás
+rendszeréhez kapcsolódó követelményeket.
+
+Felelős: honvédelmi miniszter
+belügyminiszter
+Miniszterelnökséget vezető miniszter
+Határidő: 2015. november 30.
+e) A Honvédelmi Tanács és a Kormány speciális működési feltételeit biztosító létesítményben a kormányzat
+különleges jogrendben történő működéséhez nélkülözhetetlen, georedundáns informatikai rendszerek
+kialakításának és működtetésének támogatása.
+Felelős: honvédelmi miniszter
+belügyminiszter
+Miniszterelnökséget vezető miniszter
+Határidő: 2015. november 30.
+9. Létfontosságú rendszerek és létesítmények védelme
+A honvédelmi érdekből létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló
+kormányrendelet hatálybalépését követően az ágazatok által honvédelmi érdekből létfontosságúnak
+beazonosított vagy jelölt rendszerrel, rendszerelemmel kapcsolatos feladatok végrehajtása az ágazatokat felügyelő
+minisztériumokkal.
+Felelős: honvédelmi miniszter
+miniszterek
+Határidő: 2015. november 30.
+10. A honvédelmi miniszter által jóváhagyott terv alapján – az érintett államigazgatási szervek bevonásával – átfogó,
+felügyeleti ellenőrzés lefolytatása a Heves Megyei Védelmi Bizottságnál, valamint a Budapest Főváros Védelmi
+Bizottságnál és munkaszervezeteiknél, továbbá honvédelmi célellenőrzés végrehajtása a Szabolcs-Szatmár-Bereg
+Megyei Védelmi Bizottságnál és munkaszervezeténél.
+Felelős: honvédelmi miniszter
+belügyminiszter
+nemzetgazdasági miniszter
+emberi erőforrások minisztere
+az érintett megyei, fővárosi védelmi bizottságok
+Határidő: 2015. november 30.
+11. A Kormány számára összeállításra kerülő jelentéshez tájékoztató megküldése a honvédelmi miniszter részére a
+2015. évi védelmi igazgatási feladatterv végrehajtásáról, a jóváhagyott költségvetési források felhasználásáról.
+Felelős: miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2015. november 30.
+12. Javaslatok megküldése a honvédelmi miniszter részére a védelmi felkészítés 2016. évi feladattervének összeállítása
+érdekében a feladatokhoz tartozó költségvetési igények megjelölésével.
+Felelős: miniszterek
+megyei, fővárosi védelmi bizottságok
+Határidő: 2015. november 30.

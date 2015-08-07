@@ -1,0 +1,71 @@
+# A Kormány 223/2015. (VIII. 7.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 115. szám, 2015. augusztus 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3829c9676d6c29e8e8e2a79387debc6b19733a60/dokumentumok/fc77ce11d2798f39af1f6852e0995f0ddc33fc72/letoltes)
+
+---
+
+A Kormány 223/2015. (VIII. 7.) Korm. rendelete
+a halgazdálkodási és a halvédelmi bírságról szóló 314/2014. (XII. 12.) Korm. rendelet módosításáról
+A Kormány a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 71. § 2. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A halgazdálkodási és a halvédelmi bírságról szóló 314/2014. (XII. 12.) Korm. rendelet [a továbbiakban:
+Korm. rendelet] 4. § q) pontja helyébe a következő rendelkezés lép és a § a következő r)–s) ponttal egészül ki:
+[A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) által nem megengedett
+módon vagy eszközzel, vagy tilalmi időben történő horgászat vagy halászat esetén a halvédelmi bírság mértéke]
+„q) a nem nyilvántartott halgazdálkodási vízterületen őshonos hal kifogása esetén: 10 000–100 000 forint,
+r) a halfogásra alkalmas horgászkészség halfogási célú használata során folyamatos felügyelet nélkül hagyása
+esetén: 10 000–30 000 forint,
+s) a Hhvtv. 46. § (4) bekezdésében nem szereplő egyéb, a Hhvtv. 46. § (1) bekezdése szerinti tiltott fogási eszköz vagy
+mód alkalmazása esetén: 10 000–100 000 forint.”
+2. §
+A Korm. rendelet 5. §-a helyébe a következő rendelkezés lép:
+„5. § A nem fogható őshonos hal jogosulatlan kifogását megvalósító személlyel szemben kiszabható halvédelmi
+bírság mértéke megegyezik a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló
+rendeletben megállapított, az őshonos halfajokra vonatkozó halgazdálkodási értékkel. Amennyiben a halvédelmi
+bírság mértéke az egyedenként számított és összesített érték alapján nem éri el a 15 000 forintot, akkor a bírság
+mértékét 15 000 forintban kell megállapítani. A bírság nem haladhatja meg a Hhvtv. 67. § (3) bekezdése szerinti
+legmagasabb összeget.”
+3. §
+A Korm. rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Méret- vagy mennyiségi korlátozással vagy tilalmi idővel védett hal jogosulatlan kifogását megvalósító
+személyre kiszabható halvédelmi bírság mértéke megegyezik a halgazdálkodás és a halvédelem egyes szabályainak
+megállapításáról szóló rendeletben megállapított, az őshonos halfajokra vonatkozó halgazdálkodási értékkel.
+Amennyiben a halvédelmi bírság mértéke az egyedenként számított és összesített érték alapján nem éri el
+a 20 000 forintot, akkor a bírság mértékét 20 000 forintban kell megállapítani. A bírság összege nem haladhatja meg
+a Hhvtv. 67. § (3) bekezdése szerinti legmagasabb összeget.”
+4. §
+A Korm. rendelet 3. alcíme helyébe a következő alcím lép:
+„3. Az eltiltás
+15. § (1) Az állami horgászjegy, turista állami horgászjegy, állami halászjegy váltásától, illetve a halászati engedély
+kérelmezésétől való eltiltás (a továbbiakban együtt: eltiltás) időtartama:
+a) az 1. § (2) bekezdésében, a 3. § a) pontjában, a 4. § k) és r) pontjában meghatározott esetekben: 3–6 hónap,
+b) az 1. § (1) bekezdésében, a 3. § b) pontjában, a 4. § q) pontjában, a 12. § (2) bekezdésében meghatározott
+esetekben: 3–12 hónap,
+c) a 4. § s) pontjában, a 6. § (1) bekezdésében meghatározott esetekben: 3–18 hónap,
+d) a 9. § c) pontjában meghatározott esetekben: 6 hónap,
+
+e) a 3. § c) pontjában, a 4. § l) és n) pontjában, a 6. § (3) bekezdésében meghatározott esetekben: 6–18 hónap,
+f) a 9. § b) pontjában meghatározott esetben: 12 hónap,
+g) a 9.§ a) pontjában meghatározott esetben: 18 hónap,
+h) a 4. § o) pontjában meghatározott esetben: 1–2 év,
+i) a 2. §-ban, a 4. § d)–g), i), m) és p) pontjában, a 6. § (2) bekezdésében, a 10. §-ban meghatározott esetekben: 1–3 év,
+j) a 4. § h) és j) pontjában meghatározott esetekben: 2–3 év, továbbá
+k) a 4. § a)–c) pontjában meghatározott esetekben: 3 év.
+(2) Az 5. §-ban, a 11. §-ban, a 12. § (1) bekezdésében, valamint a 13. §-ban meghatározottak esetében
+a halgazdálkodási hatóság az eltiltás időtartamát a Hhvtv. 43. § (3) bekezdésében foglaltak figyelembevételével,
+különösen a kiszabott halvédelmi bírság mértékéhez arányosítva 3 hónap és 3 év közötti időtartamban állapítja
+meg.
+(3) Az eltiltás időtartama a 7. §-ban meghatározottak teljesülésekor
+a) horgászkészség esetén:
+aa) az 1. § (1) bekezdésében meghatározott bírságtétel megállapításakor 3–12 hónap,
+ab) az 1. § (2) bekezdésében meghatározott bírságtétel megállapításakor 3–6 hónap,
+b) halászeszköz esetén: 1–3 év.”
+5. § (1) A Korm. rendelet 6. § (3) bekezdésében az„50 000–100 000 forint”szövegrész helyébe a„30 000–100 000 forint”szöveg
+lép.
+(2) A Korm. rendelet 8. §-ában a „halvédelmi bírság” szövegrész helyébe a „halvédelmi bírság és az ahhoz rendelhető
+eltiltás”szöveg lép.
+6. §
+Ez a rendelet a kihirdetését követő 16. napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

@@ -1,0 +1,152 @@
+# A Kormány 224/2015. (VIII. 7.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 115. szám, 2015. augusztus 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3829c9676d6c29e8e8e2a79387debc6b19733a60/dokumentumok/fc77ce11d2798f39af1f6852e0995f0ddc33fc72/letoltes)
+
+---
+
+A Kormány 224/2015. (VIII. 7.) Korm. rendelete
+az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló
+92/2010. (III. 31.) Korm. rendelet módosításáról
+A Kormány a minősített adat védelméről szóló 2009. évi CLV. törvény 37. § e) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló
+92/2010. (III. 31.) Korm. rendelet (a továbbiakban: Korm. rendelet) 10. §-át követően a következő 2/A. alcímmel és
+10/A–10/D. §-sal egészül ki:
+„2/A. Az iparbiztonsági ellenőrzés speciális szabályai
+10/A. § (1) A Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel
+kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) 3. §
+(1) bekezdésében meghatározott telephely biztonsági tanúsítvány kiadására irányuló iparbiztonsági ellenőrzés
+során az NBF a jelen alcímben foglalt szabályok szerint jár el.
+(2) Az (1) bekezdésben foglalt eljárás alapján kiadott telephely biztonsági tanúsítvány alapján
+a) a gazdálkodó szervezet saját telephelyén minősített adatot nem kezelhet,
+b) a telephely biztonsági tanúsítvány a gazdálkodó szervezetet a 2015. évi VII. törvény 3. § (1) bekezdésében
+meghatározott szerződés, illetve alvállalkozói szerződés (a továbbiakban együtt: végrehajtási szerződés)
+megkötésére feljogosítja.
+(3) Az NBF az (1) bekezdés szerinti iparbiztonsági ellenőrzést a 10/B. § (1) bekezdésben foglalt kérelem benyújtásától
+számított legfeljebb 120 nap alatt folytatja le.
+
+10/B. § (1) A 10/A. § (1) bekezdése szerinti telephely biztonsági tanúsítvány kiadásához szükséges iparbiztonsági
+ellenőrzést a gazdálkodó szervezet a 2. mellékletben meghatározott adattartalommal az NBF elnöke által
+rendszeresített és az NBF honlapján közzétett Cég-adatlap megküldésével kezdeményezi az NBF-nél.
+A kérelemhez a gazdálkodó szervezet csatolja a kérelem benyújtását megelőző két teljes gazdasági év mérlegét és
+eredmény-kimutatását.
+(2) Az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat elvégzi a (4)–(6) bekezdésében meghatározott
+feladatokat.
+(3) Az NBF az iparbiztonsági ellenőrzés megkezdéséről írásban tájékoztatja a gazdálkodó szervezet vezetőjét,
+aki az (5) bekezdésben meghatározott személyeket haladéktalanul értesíti a nemzetbiztonsági ellenőrzésük
+szükségességéről.
+(4) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § f) pontjában meghatározott cégellenőrzés
+során a nemzetbiztonsági szolgálat a gazdálkodó szervezet által kitöltött Cég-adatlapban foglalt adatok
+valóságtartalmát ellenőrzi annak megítélése érdekében, hogy sérülnek-e Magyarország nemzetbiztonsági érdekei
+végrehajtási szerződésnek a gazdálkodó szervezettel való megkötése esetén. A nemzetbiztonsági szolgálat
+szakvéleményben foglal állást az ellenőrzött gazdálkodó szervezet esetében a nemzetbiztonsági szempontú
+biztonsági kockázati tényező fennállásáról vagy annak hiányáról. A nemzetbiztonsági szolgálat a gazdálkodó
+szervezet cégellenőrzését az NBF elnökének megkeresését követően soron kívül folytatja le.
+(5) A nemzetbiztonsági szolgálat végrehajtja a gazdálkodó szervezet vezető tisztségviselőinek, a kijelölésre kerülő
+biztonsági vezetőnek, valamint a gazdálkodó szervezet kérelmében megjelölt személyeknek a nemzetbiztonsági
+ellenőrzését.
+(6) Az (5) bekezdésben meghatározott személyek a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény
+2. számú mellékletében szereplő kérdőíveket a (3) bekezdésben meghatározott tájékoztatás kézhezvételétől
+számított 8 napon belül kitöltik, és postai úton visszajuttatják az NBF részére, amelynek alapján az NBF elnöke
+kezdeményezi a nemzetbiztonsági ellenőrzést.
+(7) Az NBF elnöke a (4) bekezdés szerinti cégellenőrzést és a (6) bekezdésben foglaltak szerint kézhez vett biztonsági
+kérdőívek beérkezését követően az (5) bekezdésben megjelölt személyek nemzetbiztonsági ellenőrzését egyszerre
+kezdeményezi a nemzetbiztonsági szolgálatnál.
+10/C. § (1) A 10/B. §-ban meghatározott eljárás lefolytatását követően az NBF a (2) bekezdésben meghatározott
+biztonsági feltételek teljesülése esetén haladéktalanul kiadja a telephely biztonsági tanúsítványt, a biztonsági
+feltételek hiányában pedig a telephely biztonsági tanúsítvány kiadását megtagadja.
+(2) A telephely biztonsági tanúsítvány akkor adható ki, ha a gazdálkodó szervezet
+a) cégellenőrzése kockázati tényezőt nem tárt fel,
+b) a 10/B. § (5) bekezdésében meghatározott személyi kör érvényes személyi biztonsági tanúsítvánnyal rendelkezik
+és
+c) saját alkalmazásában álló – az NBF elnöke egyetértésével kinevezett – biztonsági vezetőt foglalkoztat.
+10/D. § (1) A telephely biztonsági tanúsítvány érvényessége alatt
+a) a gazdálkodó szervezet az NBF elnökének egyetértésével kinevezett biztonsági vezetőt foglalkoztat,
+b) a gazdálkodó szervezet vezetője kötelezi magát arra, hogy további végrehajtási szerződést csak olyan gazdálkodó
+szervezettel köt, amely a 10/A. § (1) bekezdésében meghatározott érvényes telephely biztonsági tanúsítvánnyal
+rendelkezik,
+c) a biztonsági vezető biztosítja és elősegíti, hogy a telephely biztonsági tanúsítvány érvényessége alatt az NBF és
+a nemzetbiztonsági szolgálat a jogszabályban meghatározott feladatát végrehajthassa,
+d) a biztonsági vezető minden év június 30-áig az ismételten kitöltött Cég-adatlapot eljuttatja az NBF részére.
+(2) A gazdálkodó szervezet biztonsági vezetője a változás beálltát követő 5 napon belül bejelenti az NBF-nek,
+amennyiben az iparbiztonsági ellenőrzés folyamán vagy a telephely biztonsági tanúsítvány érvényessége alatt
+a Cég-adatlap tartalmában vagy a személyi biztonsági tanúsítvánnyal rendelkező, 10/B. § (5) bekezdése szerinti
+személyek körében változás áll be, a gazdálkodó szervezet ellen csőd-, felszámolási vagy végelszámolási eljárás
+indul, vagy a Gazdasági Versenyhivatal jogerős elmarasztaló határozatot hoz.
+(3) Az NBF – ha a bejelentés, vagy egyéb módon a tudomására jutó információ indokolttá teszi – intézkedik
+a gazdálkodó szervezet újbóli cégellenőrzésének végrehajtására a nemzetbiztonsági szolgálat felé.
+(4) Az NBF külön nyilvántartást vezet a 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvánnyal
+rendelkező gazdálkodó szervezetről. A nyilvántartás
+a) a gazdálkodó szervezet nevét, rövidített nevét, címét,
+b) az iparbiztonsági ellenőrzés elrendelésének és megszüntetésének dátumát, a megszüntetés okát, valamint
+
+c) a telephely biztonsági tanúsítvány kiadásának dátumát
+tartalmazza.
+(5) A (4) bekezdésben meghatározott adatokat az NBF a telephely biztonsági tanúsítvány visszavonását követő
+5 évig kezeli, ezt követően a nyilvántartásából törli.
+(6) Az NBF a telephely biztonsági tanúsítvány kiállításának vagy visszavonásának tényét közli az Alkotmányvédelmi
+Hivatallal, továbbá a cégellenőrzést végző nemzetbiztonsági szolgálattal, ha a cégellenőrzést nem
+az Alkotmányvédelmi Hivatal végezte.
+(7) A 10/A. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány visszavonásig érvényes.
+(8) Az NBF a telephely biztonsági tanúsítványt visszavonja
+a) ha a 10/C. § (2) bekezdés a)–c) pontjában meghatározott feltételek már nem állnak fenn,
+b) ha a gazdálkodó szervezet az (1) bekezdésében meghatározott biztonsági követelményeket nem teljesíti,
+c) ha a cégellenőrzésről készült szakvélemény kockázati tényezőt tartalmaz, vagy
+d) ha a (2) bekezdés szerinti bejelentési kötelezettségének a gazdálkodó szervezet biztonsági vezetője nem tesz
+eleget.
+(9) Amennyiben a telephely biztonsági tanúsítvány visszavonására a (8) bekezdésben foglaltak miatt kerül sor,
+a gazdálkodó szervezet a visszavonásról szóló határozat jogerőre emelkedésétől számított 2 éven belül nem
+kérelmezheti újabb iparbiztonsági ellenőrzés végrehajtását a 10/A. § (1) bekezdése szerint.”
+2. §
+A Korm. rendelet 18. §-a helyébe a következő rendelkezés lép:
+„18. § (1) E rendeletnek az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes
+szabályairól szóló 92/2010. (III. 31.) Korm. rendelet módosításáról szóló 224/2015. (VIII. 7.) Korm. rendelettel
+(a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépésekor folyamatban lévő ügyekben
+(eljárásokban) is alkalmazni kell.
+(2) A Mód. Kr. hatálybalépésekor folyamatban lévő iparbiztonsági ellenőrzés esetén a gazdálkodó szervezet
+a Mód. Kr. hatálybalépését követő 8 napon belül az NBF-nél a 2. melléklet szerinti Cég-adatlap megküldésével
+kérelmezheti, hogy az iparbiztonsági ellenőrzés lefolytatására a 10/A–10/D. §-ban foglaltak szerint kerüljön sor.
+(3) Hiánytalan kérelem benyújtása esetén az NBF az iparbiztonsági ellenőrzést a 10/A–10/D. §-ban foglalt
+szabályoknak megfelelően folytatja le azzal, hogy a 10/A. § (3) bekezdésében foglalt határidőbe a kérelem
+benyújtását megelőzően az iparbiztonsági ellenőrzés során eltelt határidő is beleszámít.”
+3. §
+A Korm. rendelet az 1. melléklet szerinti 2. melléklettel egészül ki.
+4. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 224/2015. (VIII. 7.) Korm. rendelethez
+„2. melléklet a 92/2010. (III. 31.) Korm. rendelethez
+Az NBF elnöke a 10/B. § (1) bekezdése szerinti Cég-adatlapot az alábbi adattartalommal rendszeresíti:
+1. ÁLTALÁNOS ADATOK
+1.1. a gazdálkodó szervezet megnevezése
+1.2. pénzforgalmi jelzőszáma
+1.3. KSH törzsszáma
+1.4. cégjegyzés száma CG
+1.5. a számlakezelő pénzintézet adatai
+1.6. a gazdálkodó szervezet jegyzett tőkéje
+1.7. az alapítás időpontja
+1.8. az alapító tagok
+1.9. a gazdálkodó szervezet jelenlegi tulajdonosainak megnevezése
+
+1.10. a gazdálkodó szervezet érdekeltsége más cégekben
+1.11. a legjellemzőbb TEÁOR kódjai és azok megnevezése
+1.12. a gazdálkodó szervezet székhelyének adatai
+1.13. a gazdálkodó szervezet telephelyei
+1.14. a gazdálkodó szervezet fióktelepei
+1.15. a gazdálkodó szervezetnek üzleti kapcsolatai
+1.16. a gazdálkodó szervezet vezető tisztségviselőinek külföldi személyekkel, szervezetekkel való kapcsolatai.
+2. A GAZDÁLKODÓ SZERVEZET VEZETŐ TISZTSÉGVISELŐJE ÉS TESTÜLETEI
+2.1. a gazdálkodó szervezet vezető tisztségviselőjének természetes személyazonosító adatai
+2.2. a felügyelő bizottság tagjainak megnevezése
+2.3. a könyvvizsgáló megnevezése
+2.4. a biztonsági vezető természetes személyazonosító adatai
+2.5. a 10/B. § (5) bekezdés szerint a gazdálkodó szervezet által meghatározott természetes személy(ek)
+természetes személyazonosító adatai.
+3. A GAZDÁLKODÓ SZERVEZET HELYZETE GAZDASÁGBIZTONSÁGI SZEMPONTBÓL
+3.1. a gazdálkodó szervezet működésére irányuló, külföldiek által történő ellenőrzési és befolyásolási kísérletek
+3.2. fontosnak ítélt és a biztonsági ellenőrzést elősegítő egyéb közlendő.
+4. NYILATKOZATOK
+5. MELLÉKLETEK
+a gazdálkodó szervezet előző évi mérlege és ennek kiegészítő melléklete, valamint eredmény-kimutatása.”
