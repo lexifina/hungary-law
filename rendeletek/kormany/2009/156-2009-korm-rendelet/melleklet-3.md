@@ -8,6 +8,6 @@
 
 | 4. | Menetlevél nem megfelelő kiállítása, vezetése, hiányzó rovatonként (adatonként), ide értve az elektronikus menetlevelet is, de legfeljebb | 10 000 50 000 | szállító gépjárművezető |
 
-3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^48]
+3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^49]
 
-[^48]: A 3. melléklet a 272/2009. (XII. 1.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^49]: A 3. melléklet a 272/2009. (XII. 1.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
