@@ -1,0 +1,9 @@
+# 176/2015. (VII. 7.) Korm. rendelet
+
+a személygépkocsival díj ellenében végzett közúti személyszállításról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-176-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-08-07 | 2015-176-20-22.1 | 176/2015. (VII. 7.) Korm. rendelet |
