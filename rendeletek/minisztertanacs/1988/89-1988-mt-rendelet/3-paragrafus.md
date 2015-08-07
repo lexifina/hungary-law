@@ -1,3 +1,3 @@
-3. §[^4] A közúti közlekedési szolgáltatás csak abban az esetben kezdhető meg, ha a szolgáltatást végző a 2. § (1) bekezdésében megjelölt tevékenységre az engedélyt megszerezte, vagy a 2. § (2) bekezdésében előírt bejelentési kötelezettségének eleget tett, továbbá a 2. § (1) bekezdés a) vagy b) pontjában foglalt tevékenységhez használt, engedélyezett járművet a jogszabályban meghatározott színű hatósági jelzéssel (a továbbiakban: különleges rendszámtábla) látták el.
+3. §[^4]
 
-[^4]: A 3. § a 261/2011. (XII. 7.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
+[^4]: A 3. §-t a 176/2015. (VII. 7.) Korm. rendelet 31. § (1) bekezdés a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 26. §-át.

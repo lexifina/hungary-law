@@ -1,5 +1,3 @@
-14. § Személygépkocsival díj ellenében árut szállítani (fuvarozni) általában nem szabad. Ez a tilalom nem vonatkozik a személygépkocsi
+14. §[^25]
 
-a) csomagterében fuvarozott árura (egyéb tárgyra);
-
-b) utastérben fuvarozott, az üres üléseken elhelyezett olyan megfelelően csomagolt árura, amelynek magassága a személygépkocsi ablakainak alsó szélét nem éri el és tömege ülésenként a 68 kg-ot nem haladja meg.
+[^25]: A 14. §-t a 176/2015. (VII. 7.) Korm. rendelet 31. § (1) bekezdés e) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 26. §-át.

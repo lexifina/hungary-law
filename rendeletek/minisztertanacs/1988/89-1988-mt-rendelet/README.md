@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1988-89-20-6
 | 2014-03-15 | 1988-89-20-65.40 | 53/2014. (III. 3.) Korm. rendelet |
 | 2014-08-18 | 1988-89-20-65.41 | 171/2014. (VII. 18.) Korm. rendelet |
 | 2015-04-01 | 1988-89-20-65.42 | 168/2007. (VI. 28.) Korm. rendelet |
+| 2015-08-07 | 1988-89-20-65.43 | 176/2015. (VII. 7.) Korm. rendelet |
