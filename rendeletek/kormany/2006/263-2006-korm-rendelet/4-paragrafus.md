@@ -1,3 +1,11 @@
+## A fővárosi és megyei kormányhivatal közlekedési hatósági feladatainak ellátása[^8]
+
+## 3/A.[^9] § (1) A fővárosi és megyei kormányhivatal közlekedési hatósági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
+
+## (2) A fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) pontjában meghatározott hatásköröket a Nemzeti Közlekedési Hatóság Központ (a továbbiakban: Központ) gyakorolja.
+
+## (3) A közlekedésért felelős miniszter az (1) bekezdésben meghatározott irányítási és ellenőrzési feladatainak ellátásában a Központ közreműködik.
+
 ## A közlekedési hatóságok kijelölése[^10]
 
 4. §[^11] (1) A Kormány közlekedési hatóságként
@@ -196,11 +204,13 @@ bb) másodfokon az illetékes fővárosi és megyei kormányhivatal
 
 22.[^45] a gumiabroncsok üzemanyag-hatékonyság és más lényeges paraméterek tekintetében történő címkézéséről szóló, 2009. november 25-i 1222/2009/EK európai parlamenti és tanácsi rendelet szerinti hitelesítési eljárás lefolytatása és a gumiabroncsok üzemanyag-hatékonyság és más lényeges paraméterek tekintetében történő címkézéséről szóló, 2009. november 25-i 1222/2009/EK európai parlamenti és tanácsi rendelet 4–6. cikkében foglaltak betartásának ellenőrzése,
 
-23.[^46] a (15) bekezdés szerinti eljárásban felvett ellenőrzési jegyzőkönyv – amennyiben azok megállapításai jogsértést tartalmaznak – alapján kezdeményezett eljárás
+23.[^46] a (15) bekezdés szerinti eljárásban felvett ellenőrzési jegyzőkönyv – amennyiben azok megállapításai jogsértést tartalmaznak – alapján kezdeményezett eljárás,
+
+24.[^47] a személytaxi-szolgáltatáshoz kapcsolódó önálló diszpécserszolgálati tevékenység engedélyezése és ellenőrzése során.
 
 ## során.
 
-(5a)[^47] Közlekedési hatóságként útügyekben első fokon az illetékes fővárosi és megyei kormányhivatal jár el:
+(5a)[^48] Közlekedési hatóságként útügyekben első fokon az illetékes fővárosi és megyei kormányhivatal jár el:
 
 1. a (2) bekezdés b)–d) pontjaiban és a (4) bekezdésben meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével összefüggő ügyek,
 
@@ -272,11 +282,11 @@ bb) másodfokon az illetékes fővárosi és megyei kormányhivatal
 
 ## során.
 
-(6)[^48] Az (5) bekezdés 1–17. és 19. pontjában, továbbá a 4/A. §-ban meghatározott feladatokkal összefüggésben a Közúti Gépjármű-közlekedési Hivatal jogosult országos illetékességgel hatósági ellenőrzést végezni, az ellenőrzés eredményeként a jogszabályban meghatározott jogkövetkezményeket alkalmazni.
+(6)[^49] Az (5) bekezdés 1–17. és 19. pontjában, továbbá a 4/A. §-ban meghatározott feladatokkal összefüggésben a Közúti Gépjármű-közlekedési Hivatal jogosult országos illetékességgel hatósági ellenőrzést végezni, az ellenőrzés eredményeként a jogszabályban meghatározott jogkövetkezményeket alkalmazni.
 
 (7) Ha a tervezett építmény több azonos hatáskörű közlekedési hatóság illetékességi területét érinti, az a közlekedési hatóság jár el az építmény egészére vonatkozóan, amelynek területén a hosszabb útszakasz van, ha pedig azok egyenlő hosszúságúak, az a közlekedési hatóság jár el, amelyhez a kérelmet korábban benyújtották.
 
-(8)[^49] Magyarország tekintetében a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendeletben a tagállam hatósága számára meghatározott feladatokat
+(8)[^50] Magyarország tekintetében a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendeletben a tagállam hatósága számára meghatározott feladatokat
 
 a) a menetíró készülék (a továbbiakban: tachográf), az adatrögzítő lap, valamint a tachográf-kártya jóváhagyása tekintetében a Közúti Gépjármű-közlekedési Hivatal,
 
@@ -290,19 +300,19 @@ d) a tachográf-kártya nyilvántartás központi adatkezelési és nemzetközi 
 
 (9) A Kormány a regisztrációs adóról szóló 2003. évi CX. törvény 10/C. §-ában meghatározott szakhatóságként azokban az eljárásokban, ahol első fokon
 
-a)[^50] a Nemzeti Adó- és Vámhivatal Békés Megyei Vám- és Pénzügyőri Igazgatósága jár el, az első fokú eljárásban a közlekedési hatáskörében eljáró Békés Megyei Kormányhivatalt, a másodfokú eljárásban a Központot,
+a)[^51] a Nemzeti Adó- és Vámhivatal Békés Megyei Vám- és Pénzügyőri Igazgatósága jár el, az első fokú eljárásban a közlekedési hatáskörében eljáró Békés Megyei Kormányhivatalt, a másodfokú eljárásban a Központot,
 
-b)[^51] a Nemzeti Adó- és Vámhivatal Komárom-Esztergom Megyei Vám- és Pénzügyőri Igazgatósága jár el, az első fokú eljárásban a közlekedési hatáskörében eljáró Komárom-Esztergom Megyei Kormányhivatalt, a másodfokú eljárásban a Központot, és
+b)[^52] a Nemzeti Adó- és Vámhivatal Komárom-Esztergom Megyei Vám- és Pénzügyőri Igazgatósága jár el, az első fokú eljárásban a közlekedési hatáskörében eljáró Komárom-Esztergom Megyei Kormányhivatalt, a másodfokú eljárásban a Központot, és
 
-c)[^52] a Nemzeti Adó- és Vámhivatal Vas Megyei Vám- és Pénzügyőri Igazgatósága jár el, az első fokú eljárásban a közlekedési hatáskörében eljáró Vas Megyei Kormányhivatalt, a másodfokú eljárásban a Központot
+c)[^53] a Nemzeti Adó- és Vámhivatal Vas Megyei Vám- és Pénzügyőri Igazgatósága jár el, az első fokú eljárásban a közlekedési hatáskörében eljáró Vas Megyei Kormányhivatalt, a másodfokú eljárásban a Központot
 
 ## jelöli ki.
 
-(10)[^53]
+(10)[^54]
 
 (11) Gyorsforgalmi utak kivételével országos, a helyi közutak, és a közforgalom elől el nem zárt magánutak engedélyezése során ezen utak 30 m-nél nagyobb szabadnyílású műtárgyai, valamint alagútjai műszaki engedélyezésében az Útügyi, Vasúti és Hajózási Hivatal első fokon szakhatóságként jár el.
 
-(12)[^54] A Szolg.tv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként e kormányrendeletben szabályozott hatáskörökhöz igazodóan a közlekedési hatóság jár el a következő szolgáltatási tevékenységek tekintetében:
+(12)[^55] A Szolg.tv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként e kormányrendeletben szabályozott hatáskörökhöz igazodóan a közlekedési hatóság jár el a következő szolgáltatási tevékenységek tekintetében:
 
 a) a közúti járművezetők vizsgáztatása és a közúti közlekedési szakemberek tanfolyami képzése, továbbképzése, utánképzése és vizsgáztatása, az e képzésekkel és vizsgáztatásokkal összefüggő iskolavezetői, szakoktatói és vizsgabiztosi tevékenység,
 
@@ -316,16 +326,18 @@ e) a veszélyes áru szállítási biztonsági tanácsadói
 
 ## tevékenység.
 
-(13)[^55] A központi közlekedési közigazgatási bírságnyilvántartás vezetésével kapcsolatos feladatokat elsőfokon a Közúti Gépjármű-közlekedési Hivatal látja el.
+(13)[^56] A központi közlekedési közigazgatási bírságnyilvántartás vezetésével kapcsolatos feladatokat elsőfokon a Közúti Gépjármű-közlekedési Hivatal látja el.
 
-(14)[^56] A Közúti Gépjármű-közlekedési Hivatal hatáskörébe tartozó eljárásokban az ügyfél a kérelmet a közlekedési hatáskörében eljáró fővárosi és megyei kormányhivatalnál is benyújthatja.
+(14)[^57] A Közúti Gépjármű-közlekedési Hivatal hatáskörébe tartozó eljárásokban az ügyfél a kérelmet a közlekedési hatáskörében eljáró fővárosi és megyei kormányhivatalnál is benyújthatja.
 
-(15)[^57] A Kormány az (5) bekezdésben kijelölt hatóságon kívül
+(15)[^58] A Kormány az (5) bekezdésben kijelölt hatóságon kívül
 
 a) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére az Állami Autópálya Kezelő Zártkörűen Működő Részvénytársaságot,
 
 b) a közúti járműre előírt tömeg- és mérethatárok betartásának ellenőrzésére a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaságot
 
+[^8]: A 3/A. §-t megelőző alcímet a 326/2010. (XII. 27.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3/A. §-t a 326/2010. (XII. 27.) Korm. rendelet 3. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 84. § (1) bekezdésével megállapított szöveg.
 [^10]: A 4. §-t megelőző alcím a 326/2010. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^11]: A 4. § a 326/2010. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^12]: A 4. § (1) bekezdés b) pontja a 296/2012. (X. 17.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
@@ -363,14 +375,15 @@ b) a közúti járműre előírt tömeg- és mérethatárok betartásának ellen
 [^44]: A 4. § (5) bekezdés 21. pontját a 261/2011. (XII. 7.) Korm. rendelet 40. § (2) bekezdése iktatta be. E módosító rendelet 36. § (3) bekezdése alapján a 2011. december 8-át követően indult és megismételt eljárásokban kell alkalmazni.
 [^45]: A 4. § (5) bekezdés 22. pontját a 323/2012. (XI. 16.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^46]: A 4. § (5) bekezdés 23. pontját a 323/2012. (XI. 16.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^47]: A 4. § (5a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 84. § (8) bekezdése iktatta be.
-[^48]: A 4. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (9) bekezdésével megállapított szöveg. [Ugyanezen módosító rendelet 84. § (18) bekezdés 4. pontjával elrendelt módosítás, amely szerint a „megyei (fővárosi) közlekedési felügyelőségek” szövegrész helyébe a „közlekedési hatóságként eljáró fővárosi és megyei kormányhivatalok” szöveg lép, nem vezethető át.]
-[^49]: A 4. § (8) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
-[^50]: A 4. § (9) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 5. pontja szerint módosított szöveg.
-[^51]: A 4. § (9) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 6. pontja szerint módosított szöveg.
-[^52]: A 4. § (9) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 7. pontja szerint módosított szöveg.
-[^53]: A 4. § (10) bekezdését a 70/2015. (III. 30.) Korm. rendelet 84. § (19) bekezdés a) pontja hatályon kívül helyezte.
-[^54]: A 4. § (12) bekezdése a 175/2011. (VIII. 31.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^55]: A 4. § (13) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 160. §-a iktatta be.
-[^56]: A 4. § (14) bekezdését a 175/2011. (VIII. 31.) Korm. rendelet 9. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 8. pontja szerint módosított szöveg.
-[^57]: A 4. § (15) bekezdését a 323/2012. (XI. 16.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^47]: A 4. § (5) bekezdés 24. pontját a 176/2015. (VII. 7.) Korm. rendelet 29. §-a iktatta be, alkalmazására lásd e módosító rendelet 26. §-át.
+[^48]: A 4. § (5a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 84. § (8) bekezdése iktatta be.
+[^49]: A 4. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (9) bekezdésével megállapított szöveg. [Ugyanezen módosító rendelet 84. § (18) bekezdés 4. pontjával elrendelt módosítás, amely szerint a „megyei (fővárosi) közlekedési felügyelőségek” szövegrész helyébe a „közlekedési hatóságként eljáró fővárosi és megyei kormányhivatalok” szöveg lép, nem vezethető át.]
+[^50]: A 4. § (8) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^51]: A 4. § (9) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 5. pontja szerint módosított szöveg.
+[^52]: A 4. § (9) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 6. pontja szerint módosított szöveg.
+[^53]: A 4. § (9) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 7. pontja szerint módosított szöveg.
+[^54]: A 4. § (10) bekezdését a 70/2015. (III. 30.) Korm. rendelet 84. § (19) bekezdés a) pontja hatályon kívül helyezte.
+[^55]: A 4. § (12) bekezdése a 175/2011. (VIII. 31.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^56]: A 4. § (13) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 160. §-a iktatta be.
+[^57]: A 4. § (14) bekezdését a 175/2011. (VIII. 31.) Korm. rendelet 9. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 8. pontja szerint módosított szöveg.
+[^58]: A 4. § (15) bekezdését a 323/2012. (XI. 16.) Korm. rendelet 1. § (6) bekezdése iktatta be.

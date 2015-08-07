@@ -2,9 +2,9 @@
 
 5. § (1) Légiközlekedési hatóságként a Kormány a Hatóságot jelöli ki.
 
-(2)[^65] A légiközlekedési hatóság hatáskörébe utalt ügyekben első fokon a Légügyi Hivatal, másodfokon a Központ jár el.
+(2)[^66] A légiközlekedési hatóság hatáskörébe utalt ügyekben első fokon a Légügyi Hivatal, másodfokon a Központ jár el.
 
-(3)[^66] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a légiközlekedési hatóság jár el a következő szolgáltatási tevékenységek tekintetében:
+(3)[^67] A Szolgtv. szerinti, a szolgáltatás felügyeletét ellátó hatóságként – ha kormányrendelet eltérően nem rendelkezik – a légiközlekedési hatóság jár el a következő szolgáltatási tevékenységek tekintetében:
 
 a) a légiutas-kísérők szakirányú földi kiképzése,
 
@@ -16,19 +16,19 @@ d) az Lt. 20/A. §-a szerinti szakértői tevékenység, valamint
 
 e) a c) pont szerinti tevékenységet folytatók képzése.
 
-(4)[^67] A légiközlekedési hatóság hatásköre kiterjed Magyarország területén
+(4)[^68] A légiközlekedési hatóság hatásköre kiterjed Magyarország területén
 
 a) a polgári légiközlekedési és légiközlekedéssel kapcsolatos tevékenységre,
 
 b) a polgári légijárművekre,
 
-c)[^68] az állami repülések célját szolgáló repülőterek kivételével minden repülőtérre és leszállóhelyre, valamint
+c)[^69] az állami repülések célját szolgáló repülőterek kivételével minden repülőtérre és leszállóhelyre, valamint
 
 d) a légiközlekedés földi létesítményeire és – a kizárólag katonai repülések céljára szolgálók kivételével – a léginavigációs földi berendezésekre.
 
-(5)[^69] A légiközlekedési hatóság hatósági feladatai a következők:
+(5)[^70] A légiközlekedési hatóság hatósági feladatai a következők:
 
-1.[^70] a lajstromozásra kötelezett légijárművek állami lajstromozása, Magyarország Állami Légijármű Lajstromának (a továbbiakban: lajstrom) vezetése,
+1.[^71] a lajstromozásra kötelezett légijárművek állami lajstromozása, Magyarország Állami Légijármű Lajstromának (a továbbiakban: lajstrom) vezetése,
 
 2. az engedélyhez kötött légiközlekedési és légiközlekedéssel összefüggő tevékenység engedélyezésével összefüggő eljárások lefolytatása és e tevékenységek folytatásának ellenőrzése,
 
@@ -36,7 +36,7 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 4. a lajstromozásra kötelezett légijárművek egyedi légialkalmasságának vizsgálata és ellenőrzése, valamint a légialkalmassági bizonyítvány kiadása és időbeli hatályának meghosszabbítása,
 
-5.[^71]
+5.[^72]
 
 6. a repülőterek állapotának és üzemben tartásának vizsgálata és ellenőrzése, valamint a repülőtér üzemben tartási engedélyének kiadása és időbeli hatályának meghosszabbítása, a repülőtérrendek jóváhagyása,
 
@@ -44,7 +44,7 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 8. a légiközlekedési akadállyal kapcsolatos légiközlekedési hatósági eljárásnak a rendészetért felelős miniszter által vezetett minisztérium és a honvédelemért felelős miniszter által vezetett minisztérium illetékes szerveivel egyetértésben való lefolytatása,
 
-9.[^72] kiadja a légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyeket és a légiközlekedési szakszemélyzet szakszolgálati engedélyeit a különböző szakszolgálati tevékenységekre vonatkozó előírások alapján,
+9.[^73] kiadja a légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyeket és a légiközlekedési szakszemélyzet szakszolgálati engedélyeit a különböző szakszolgálati tevékenységekre vonatkozó előírások alapján,
 
 10. a szakszolgálati engedély kiadásához, meghosszabbításához előírt repülő-egészségügyi alkalmasság hatósági minősítése,
 
@@ -52,7 +52,7 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 12. légialkalmassági bizonyítvány nélküli kísérleti, próba- vagy műszaki célú repülés engedélyezése,
 
-13.[^73]
+13.[^74]
 
 14. a menetjegyek kiállításának engedélyezése a légitársaság részére,
 
@@ -74,19 +74,19 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 23. légijármű üzemben tartási feltételeinek vizsgálata, ellenőrzése, valamint a légijármű üzemben tartási engedély kiadása, időbeli hatályának meghosszabbítása,
 
-24.[^74] a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 300/2008/EK rendelet) 9. cikke szerinti felelős hatósági feladatok ellátása,
+24.[^75] a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 300/2008/EK rendelet) 9. cikke szerinti felelős hatósági feladatok ellátása,
 
-25.[^75] az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és tanácsi rendelet 4. cikke rendelkezésének megfelelően kijelölt nemzeti felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt feladatok végrehajtásáról, valamint a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló, 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet 9. cikk (1) bekezdésében meghatározott konzultáció lefolytatásáról, továbbá a légiforgalmi irányítói szakszolgálati engedélyekre és egyes tanúsításokra vonatkozó részletes szabályoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 2011. augusztus 10-i 805/2011/EU bizottsági rendelet (a továbbiakban: 805/2011/EU bizottsági rendelet) 4. cikke szerinti nemzeti felügyeleti hatóságként gondoskodik a 805/2011/EU bizottsági rendeletben meghatározott feladatok ellátásáról,
+25.[^76] az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és tanácsi rendelet 4. cikke rendelkezésének megfelelően kijelölt nemzeti felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt feladatok végrehajtásáról, valamint a léginavigációs szolgálatok közös díjszámítási rendszerének létrehozásáról szóló, 2013. május 3-i 391/2013/EU bizottsági végrehajtási rendelet 9. cikk (1) bekezdésében meghatározott konzultáció lefolytatásáról, továbbá a légiforgalmi irányítói szakszolgálati engedélyekre és egyes tanúsításokra vonatkozó részletes szabályoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 2011. augusztus 10-i 805/2011/EU bizottsági rendelet (a továbbiakban: 805/2011/EU bizottsági rendelet) 4. cikke szerinti nemzeti felügyeleti hatóságként gondoskodik a 805/2011/EU bizottsági rendeletben meghatározott feladatok ellátásáról,
 
 26. a Nemzeti Hírközlési Hatósággal, a Kormányzati Frekvenciagazdálkodási Hatósággal együttműködve nemzeti és nemzetközi frekvenciaegyeztetést végez a légiközlekedést szolgáló légiforgalmi célú földi rádióberendezések üzembe helyezési eljárásának keretében,
 
-27.[^76] a légi járművek és kapcsolódó termékek, alkatrészek és berendezések légialkalmassági és környezetvédelmi tanúsítása, valamint a tervező és gyártó szervezetek tanúsítása végrehajtási szabályainak megállapításáról szóló, 2012. augusztus 3-i 748/2012/EU bizottsági rendelet (a továbbiakban: 748/2012/EU bizottsági rendelet) I. melléklet 21.B.25. pont (a) alpontjának megfelelően kijelölt illetékes hatóságként gondoskodik a 748/2012/EU bizottsági rendelet A. szakasz F., G., H., I. és P. alrészében meghatározott feladatok végrehajtásáról,
+27.[^77] a légi járművek és kapcsolódó termékek, alkatrészek és berendezések légialkalmassági és környezetvédelmi tanúsítása, valamint a tervező és gyártó szervezetek tanúsítása végrehajtási szabályainak megállapításáról szóló, 2012. augusztus 3-i 748/2012/EU bizottsági rendelet (a továbbiakban: 748/2012/EU bizottsági rendelet) I. melléklet 21.B.25. pont (a) alpontjának megfelelően kijelölt illetékes hatóságként gondoskodik a 748/2012/EU bizottsági rendelet A. szakasz F., G., H., I. és P. alrészében meghatározott feladatok végrehajtásáról,
 
 28. a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2003. november 20-i 2042/2003/EK bizottsági rendelet (a továbbiakban: 2042/2003/EK rendelet) I. melléklet M.B.102 pontja a) alpontjának, II. melléklet 145.B.10 pontja 1. alpontjának, III. melléklet 66.B.10. pontja a) alpontjának, valamint IV. melléklet 147.B.10 pontja a) alpontjának megfelelően kijelölt illetékes hatóságként gondoskodik az e pontokban meghatározott feladatok végrehajtásáról,
 
 29. gondoskodik – az Európai Repülésbiztonsági Ügynökséggel kötött megállapodás alapján – a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet 20. cikk (2) bekezdésében meghatározott feladatok végrehajtásáról,
 
-30.[^77] jóváhagyja Magyarország területén kereskedelmi célból leszálló, illetve onnan induló, menetrend szerinti nemzetközi repülést végrehajtó légitársaság menetrendjét,
+30.[^78] jóváhagyja Magyarország területén kereskedelmi célból leszálló, illetve onnan induló, menetrend szerinti nemzetközi repülést végrehajtó légitársaság menetrendjét,
 
 31. lefolytatja a kihasználatlan légiközlekedési joggal üzemeltethető légiútvonalra szóló felhatalmazással kapcsolatos eljárást,
 
@@ -94,59 +94,59 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 33. a légitársaság üzletszabályzatának jóváhagyása és teljesítésének ellenőrzése, a repülőterek ellenőrzése, a repülőtér üzemben tartási engedélyének kiadása és időbeli hatályának meghosszabbítása, valamint a repülőtérrendek jóváhagyása során feladatkörében gondoskodik a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet végrehajtásáról,
 
-34.[^78] a gazdasági célú légi közlekedési tevékenység engedélyezése során gondoskodik a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendeletnek való megfelelésről, kivéve annak 23. és 24. cikkében foglaltakat;
+34.[^79] a gazdasági célú légi közlekedési tevékenység engedélyezése során gondoskodik a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendeletnek való megfelelésről, kivéve annak 23. és 24. cikkében foglaltakat;
 
-35.[^79] a légitársaság üzletszabályzatának jóváhagyása és teljesítésének ellenőrzése során gondoskodik a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet 23. és 24. cikkének való megfelelésről;
+35.[^80] a légitársaság üzletszabályzatának jóváhagyása és teljesítésének ellenőrzése során gondoskodik a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet 23. és 24. cikkének való megfelelésről;
 
-36.[^80] gondoskodik az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról szóló, 2009. március 30-i 262/2009/EK bizottsági rendeletben meghatározott lekérdezési kód kiosztásáról és a kapcsolódó feladatok végrehajtásáról;
+36.[^81] gondoskodik az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról szóló, 2009. március 30-i 262/2009/EK bizottsági rendeletben meghatározott lekérdezési kód kiosztásáról és a kapcsolódó feladatok végrehajtásáról;
 
-37.[^81] ellátja a légi járműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon légi járművek esetében, amelyek külön jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek.
+37.[^82] ellátja a légi járműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon légi járművek esetében, amelyek külön jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek.
 
-38.[^82] elfogadja a légiközlekedési szakszemélyzet képzési szervezete, a gazdasági célú légiközlekedési tevékenység végzésére kiadott, üzemben tartási engedéllyel rendelkező légijármű üzemben tartója, a kereskedelmi repülőtér üzemben tartója, a légijármű karbantartó, tervező és gyártó szervezetek által kidolgozott Repülésbiztonság-irányítási Rendszert, valamint ellenőrzi annak működtetését,
+38.[^83] elfogadja a légiközlekedési szakszemélyzet képzési szervezete, a gazdasági célú légiközlekedési tevékenység végzésére kiadott, üzemben tartási engedéllyel rendelkező légijármű üzemben tartója, a kereskedelmi repülőtér üzemben tartója, a légijármű karbantartó, tervező és gyártó szervezetek által kidolgozott Repülésbiztonság-irányítási Rendszert, valamint ellenőrzi annak működtetését,
 
-39.[^83] kiadja a földi kiszolgáláshoz szükséges engedélyt, a földi kiszolgálás feltételeinek és engedélyezési rendjének szabályairól szóló jogszabályban foglaltak alapján korlátozza a földi kiszolgálók számát, kiválasztási eljárást folytat le, kidolgozza és honlapján közzéteszi a kiválasztási folyamatot és a kiválasztási szempontokat tartalmazó hatósági tájékoztatót, különleges intézkedést rendel el, jóváhagyja a repülőtér üzemben tartója által készített, a különleges intézkedéseket megalapozó korlátozások felszámolása érdekében készített intézkedési tervet és ellenőrzi annak, továbbá a számviteli elkülönítés végrehajtását,
+39.[^84] kiadja a földi kiszolgáláshoz szükséges engedélyt, a földi kiszolgálás feltételeinek és engedélyezési rendjének szabályairól szóló jogszabályban foglaltak alapján korlátozza a földi kiszolgálók számát, kiválasztási eljárást folytat le, kidolgozza és honlapján közzéteszi a kiválasztási folyamatot és a kiválasztási szempontokat tartalmazó hatósági tájékoztatót, különleges intézkedést rendel el, jóváhagyja a repülőtér üzemben tartója által készített, a különleges intézkedéseket megalapozó korlátozások felszámolása érdekében készített intézkedési tervet és ellenőrzi annak, továbbá a számviteli elkülönítés végrehajtását,
 
-40.[^84] a légiközlekedés védelmében közreműködő szervezetek védelmi programjának és azon alapuló belső minőségbiztosítási rendszerének és védelmi képzési tervének jóváhagyása,
+40.[^85] a légiközlekedés védelmében közreműködő szervezetek védelmi programjának és azon alapuló belső minőségbiztosítási rendszerének és védelmi képzési tervének jóváhagyása,
 
-41.[^85] a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programban meghatározottak szerinti a légiközlekedés védelmi minőségbiztosítási ellenőrző rendszer működtetése, és a 300/2008/EK európai parlamenti és tanácsi rendeletnek a polgári légiközlekedés-védelem terén végrehajtandó nemzeti minőségbiztosítási programokra vonatkozó követelmények tekintetében való módosításáról szóló, 2010. január 8-i 18/2010/EU bizottsági rendeletben meghatározott feladatokat ellátása,
+41.[^86] a Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Programban meghatározottak szerinti a légiközlekedés védelmi minőségbiztosítási ellenőrző rendszer működtetése, és a 300/2008/EK európai parlamenti és tanácsi rendeletnek a polgári légiközlekedés-védelem terén végrehajtandó nemzeti minőségbiztosítási programokra vonatkozó követelmények tekintetében való módosításáról szóló, 2010. január 8-i 18/2010/EU bizottsági rendeletben meghatározott feladatokat ellátása,
 
-42.[^86] a légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének, működtetésének jóváhagyása, azok felügyelete és ellenőrzése,
+42.[^87] a légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének, működtetésének jóváhagyása, azok felügyelete és ellenőrzése,
 
-43.[^87] a légiközlekedés védelmében közreműködő szervezet légiközlekedés védelmi tisztje kijelölésének jóváhagyása,
+43.[^88] a légiközlekedés védelmében közreműködő szervezet légiközlekedés védelmi tisztje kijelölésének jóváhagyása,
 
-44.[^88] a 300/2008/EK rendelet 6. cikke alapján szigorúbb intézkedések alkalmazásának elrendelése,
+44.[^89] a 300/2008/EK rendelet 6. cikke alapján szigorúbb intézkedések alkalmazásának elrendelése,
 
-45.[^89] a Nemzeti Polgári Légiközlekedés Védelmi Képzési Program, valamint a 300/2008/EK rendeletnek megfelelően a védelmi személyek, oktatók tanúsítása,
+45.[^90] a Nemzeti Polgári Légiközlekedés Védelmi Képzési Program, valamint a 300/2008/EK rendeletnek megfelelően a védelmi személyek, oktatók tanúsítása,
 
-46.[^90] a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2010. március 4-i 185/2010/EU bizottsági rendelet (a továbbiakban: 185/2010/EU rendelet) melléklet 1.2.2.2. b) pontjában megjelölt repülőszemélyzeti azonosító kártya kiadása, vagy a kiadás légitársaságnak való engedélyezése,
+46.[^91] a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2010. március 4-i 185/2010/EU bizottsági rendelet (a továbbiakban: 185/2010/EU rendelet) melléklet 1.2.2.2. b) pontjában megjelölt repülőszemélyzeti azonosító kártya kiadása, vagy a kiadás légitársaságnak való engedélyezése,
 
-47.[^91] a meghatalmazott ügynök, az ismert szállító, a repülőtéri készletek ismert beszállítójának és a fedélzeti ellátmány meghatalmazott beszállítójának engedélyezése,
+47.[^92] a meghatalmazott ügynök, az ismert szállító, a repülőtéri készletek ismert beszállítójának és a fedélzeti ellátmány meghatalmazott beszállítójának engedélyezése,
 
-48.[^92] a légiközlekedés védelmi esemény kivizsgálása,
+48.[^93] a légiközlekedés védelmi esemény kivizsgálása,
 
-49.[^93] a tiltott tárgyaknak a repülőtér nyilvánosság elől elzárt területére történő bevitelére vonatkozó felmentések megadása, személyek vizsgálat alóli felmentés megadása,
+49.[^94] a tiltott tárgyaknak a repülőtér nyilvánosság elől elzárt területére történő bevitelére vonatkozó felmentések megadása, személyek vizsgálat alóli felmentés megadása,
 
-50.[^94] a nemzeti légiközlekedés védelmi programok és a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010/774/EU bizottsági határozat (a továbbiakban: 2010/774/EU bizottsági határozat) alapján nemzeti légiközlekedés-védelmi határozatban állapítja meg a légiközlekedés védelmében közreműködő szervezetek védelmi feladatait, valamint a 2010/774/EU bizottsági határozat melléklet 8.1.1. pontja és 9.1.1. pontja alapján a 2010/774/EU bizottsági határozatban megjelölt átvizsgálások gyakoriságát,
+50.[^95] a nemzeti légiközlekedés védelmi programok és a 300/2008/EK rendelet 18. cikkének a) pontjában említett információkat tartalmazó, a közös légiközlekedés védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2010/774/EU bizottsági határozat (a továbbiakban: 2010/774/EU bizottsági határozat) alapján nemzeti légiközlekedés-védelmi határozatban állapítja meg a légiközlekedés védelmében közreműködő szervezetek védelmi feladatait, valamint a 2010/774/EU bizottsági határozat melléklet 8.1.1. pontja és 9.1.1. pontja alapján a 2010/774/EU bizottsági határozatban megjelölt átvizsgálások gyakoriságát,
 
-51.[^95] a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervek ellenőrzése,
+51.[^96] a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervek ellenőrzése,
 
-52.[^96] a polgári célú légiközlekedés területén a repülésbiztonsági szervezet engedélyezése, felügyelete,
+52.[^97] a polgári célú légiközlekedés területén a repülésbiztonsági szervezet engedélyezése, felügyelete,
 
-53.[^97] független felügyeleti hatóságként gondoskodik a kereskedelmi repülőtér légijármű által történő igénybevételéért fizetendő díj megállapításának elveiről és módszereiről szóló miniszteri rendeletben meghatározott hatósági feladatok végrehajtásáról,
+53.[^98] független felügyeleti hatóságként gondoskodik a kereskedelmi repülőtér légijármű által történő igénybevételéért fizetendő díj megállapításának elveiről és módszereiről szóló miniszteri rendeletben meghatározott hatósági feladatok végrehajtásáról,
 
-54.[^98] a légiközlekedési szakszemélyzet jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése,
+54.[^99] a légiközlekedési szakszemélyzet jogaira és kötelezettségeire vonatkozó rendelkezések betartásának ellenőrzése,
 
-55.[^99] a 185/2010/EU rendelet Melléklet 6.8. fejezetében meghatározott légifuvarozó kijelölése, ellenőrzése, valamint a harmadik országbeli meghatalmazott ügynök és ismert beszállító ellenőrzése,
+55.[^100] a 185/2010/EU rendelet Melléklet 6.8. fejezetében meghatározott légifuvarozó kijelölése, ellenőrzése, valamint a harmadik országbeli meghatalmazott ügynök és ismert beszállító ellenőrzése,
 
-56.[^100] a 185/2010/EU rendelet Melléklet 11.6. pontjában meghatározott uniós légiközlekedés védelmi ellenőrzés végrehajtása, valamint az uniós légiközlekedési védelmi ellenőrök jóváhagyása,
+56.[^101] a 185/2010/EU rendelet Melléklet 11.6. pontjában meghatározott uniós légiközlekedés védelmi ellenőrzés végrehajtása, valamint az uniós légiközlekedési védelmi ellenőrök jóváhagyása,
 
-57.[^101] részt vesz a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének létrehozásáról szóló 2013. május 3-i 390/2013/EU bizottsági végrehajtási rendeletben (a továbbiakban: 390/2013/EU bizottsági végrehajtási rendelet) meghatározott követelményeknek megfelelő, funkcionális légtérblokk szintjén létrehozandó teljesítménytervek kidolgozásában, majd a tervre vonatkozó javaslatot továbbítja a közlekedésért felelős miniszter részére, aki a tervet annak elfogadása esetén továbbítja az Európai Bizottsághoz.
+57.[^102] részt vesz a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének létrehozásáról szóló 2013. május 3-i 390/2013/EU bizottsági végrehajtási rendeletben (a továbbiakban: 390/2013/EU bizottsági végrehajtási rendelet) meghatározott követelményeknek megfelelő, funkcionális légtérblokk szintjén létrehozandó teljesítménytervek kidolgozásában, majd a tervre vonatkozó javaslatot továbbítja a közlekedésért felelős miniszter részére, aki a tervet annak elfogadása esetén továbbítja az Európai Bizottsághoz.
 
-(6)[^102] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
+(6)[^103] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
-(7)[^103] A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő két hónap.
+(7)[^104] A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő két hónap.
 
-(8)[^104] Az ügyintézési határidő három hónap a következő közigazgatási hatósági eljárásokban:
+(8)[^105] Az ügyintézési határidő három hónap a következő közigazgatási hatósági eljárásokban:
 
 a) légijármű és légijármű berendezés karbantartó szervezetek jóváhagyása,
 
@@ -154,21 +154,21 @@ b) légijármű üzemben tartási engedély kiadása, módosítása,
 
 c) a 2042/2003/EK rendelet I. melléklet M. rész A. szakasz G. alrész szerinti folyamatos légialkalmasság-irányító szervezet jóváhagyása,
 
-d)[^105] Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján lefolytatott eljárás.
+d)[^106] Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján lefolytatott eljárás.
 
 e) légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
 
-f)[^106] a 300/2008/EK rendelet 4. cikk (4) bekezdésében meghatározott eljárás,
+f)[^107] a 300/2008/EK rendelet 4. cikk (4) bekezdésében meghatározott eljárás,
 
-g)[^107] a légiközlekedés védelmi események kivizsgálása,
+g)[^108] a légiközlekedés védelmi események kivizsgálása,
 
 h) repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése, valamint
 
-i)[^108]
+i)[^109]
 
-(9)[^109] Az ügyintézési határidő három hónap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
+(9)[^110] Az ügyintézési határidő három hónap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
-(10)[^110] Az ügyintézési határidő 6 hónap
+(10)[^111] Az ügyintézési határidő 6 hónap
 
 a) a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló,
 
@@ -180,9 +180,9 @@ d) repülés-szimulációs oktatóeszköz engedélyének kiadására és módos�
 
 ## hatósági eljárásokban.
 
-(10a)[^111] Az ügyintézési határidő 60 nap a kereskedelmi repülőtér díjszabályzatának elfogadására, valamint a díjszabályzat módosításának jóváhagyására irányuló hatósági eljárásban.
+(10a)[^112] Az ügyintézési határidő 60 nap a kereskedelmi repülőtér díjszabályzatának elfogadására, valamint a díjszabályzat módosításának jóváhagyására irányuló hatósági eljárásban.
 
-(11)[^112] Ha
+(11)[^113] Ha
 
 a) a repülőtér zajgátló védőövezetének kijelölésére irányuló,
 
@@ -194,71 +194,71 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 
 ## eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság tizenöt napon belül bocsátja ki a hiánypótlási felhívást.
 
-(12)[^113] A szakhatósági állásfoglalást
+(12)[^114] A szakhatósági állásfoglalást
 
-a)[^114] repülőtér légiközlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárásban a szakhatósági állásfoglalást húsz napon,
+a)[^115] repülőtér légiközlekedés védelme szempontjából kis repülőtérré minősítése iránti eljárásban a szakhatósági állásfoglalást húsz napon,
 
-b)[^115] a légiközlekedés védelmi tiszt és biztonsági vezető kijelölésének jóváhagyására irányuló eljárásban harminc napon,
+b)[^116] a légiközlekedés védelmi tiszt és biztonsági vezető kijelölésének jóváhagyására irányuló eljárásban harminc napon,
 
-c)[^116] nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére, továbbá a meghatalmazott ügynök (ellenőrzött szállító), valamint az ismert feladó és fedélzeti ellátmány meghatalmazott beszállítója minősítésére és jóváhagyására irányuló eljárásban harminc napon,
+c)[^117] nemzeti légiközlekedés védelmi minőségbiztosítási ellenőrök kijelölésére, továbbá a meghatalmazott ügynök (ellenőrzött szállító), valamint az ismert feladó és fedélzeti ellátmány meghatalmazott beszállítója minősítésére és jóváhagyására irányuló eljárásban harminc napon,
 
-d)[^117] repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv, valamint a Légiközlekedés Védelmi és Kényszerhelyzeti Terv jóváhagyására irányuló eljárásban húsz napon,
+d)[^118] repülőtéri védelmi program, az ahhoz kapcsolódó belső védelmi minőségbiztosítási program és védelmi képzési terv, valamint a Légiközlekedés Védelmi és Kényszerhelyzeti Terv jóváhagyására irányuló eljárásban húsz napon,
 
-e)[^118] a 300/2008/EK európai parlamenti és tanácsi rendelet 18. cikk a) pontjában említett információkat tartalmazó, a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 774/2010/EU bizottsági határozat 12. számú függeléke hatálya alá eső légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének és működtetésének jóváhagyására irányuló eljárásában húsz napon
+e)[^119] a 300/2008/EK európai parlamenti és tanácsi rendelet 18. cikk a) pontjában említett információkat tartalmazó, a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 774/2010/EU bizottsági határozat 12. számú függeléke hatálya alá eső légiközlekedés védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének és működtetésének jóváhagyására irányuló eljárásában húsz napon
 
 belül kell kiadni.
 
-[^65]: Az 5. § (2) bekezdése a 326/2010. (XII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^66]: Az 5. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^67]: Az 5. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, szövege a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^68]: Az 5. § (4) bekezdés c) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^69]: Az 5. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^70]: Az 5. § (5) bekezdés 1. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^71]: Az 5. § (5) bekezdés 5. pontját a 159/2010. (V. 6.) Korm. rendelet 47. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 43. §-át.
-[^72]: Az 5. § (5) bekezdés 9. pontja a 212/2012. (VII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^73]: Az 5. § (5) bekezdés 13. pontját a 159/2010. (V. 6.) Korm. rendelet 47. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 43. §-át.
-[^74]: Az 5. § (5) bekezdés 24. pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
-[^75]: Az 5. § (5) bekezdés 25. pontja a 389/2014. (XII. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^76]: Az 5. § (5) bekezdés 27. pontja a 389/2014. (XII. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^77]: Az 5. § (5) bekezdés 30. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^78]: Az 5. § (5) bekezdés 34. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^79]: Az 5. § (5) bekezdés 35. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^80]: Az 5. § (5) bekezdés 36. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^81]: Az 5. § (5) bekezdés 37. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^82]: Az 5. § (5) bekezdés 38. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
-[^83]: Az 5. § (5) bekezdés 39. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
-[^84]: Az 5. § (5) bekezdés 40. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^85]: Az 5. § (5) bekezdés 41. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^86]: Az 5. § (5) bekezdés 42. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^87]: Az 5. § (5) bekezdés 43. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^88]: Az 5. § (5) bekezdés 44. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^89]: Az 5. § (5) bekezdés 45. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^90]: Az 5. § (5) bekezdés 46. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^91]: Az 5. § (5) bekezdés 47. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^92]: Az 5. § (5) bekezdés 48. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^93]: Az 5. § (5) bekezdés 49. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^94]: Az 5. § (5) bekezdés 50. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
-[^95]: Az 5. § (5) bekezdés 51. pontját a 175/2011. (VIII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^96]: Az 5. § (5) bekezdés 52. pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^97]: Az 5. § (5) bekezdés 53. pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^98]: Az 5. § (5) bekezdés 54. pontját a 212/2012. (VII. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^99]: Az 5. § (5) bekezdés 55. pontját a 389/2014. (XII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^100]: Az 5. § (5) bekezdés 56. pontját a 389/2014. (XII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^101]: Az 5. § (5) bekezdés 57. pontját a 389/2014. (XII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^102]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^103]: Az 5. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^104]: Az 5. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^105]: Az 5. § (8) bekezdés d) pontját a 323/2012. (XI. 16.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte, újonnan a 389/2014. (XII. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^106]: Az 5. § (8) bekezdés f) pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
-[^107]: Az 5. § (8) bekezdés g) pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
-[^108]: Az 5. § (8) bekezdés i) pontját a 323/2012. (XI. 16.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.
-[^109]: Az 5. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^110]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva. Az 5. § (10) bekezdése a 323/2012. (XI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^111]: Az 5. § (10a) bekezdését a 212/2012. (VII. 30.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^112]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése, szövege a 323/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^113]: Az 5. § (12) bekezdését a 169/2010. (V. 11.) Korm. rendelet 48. § (4) bekezdése iktatta be.
-[^114]: Az 5. § (12) bekezdés a) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^115]: Az 5. § (12) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^116]: Az 5. § (12) bekezdés c) pontja a 175/2011. (VIII. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
-[^117]: Az 5. § (12) bekezdés d) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^118]: Az 5. § (12) bekezdés e) pontja a 175/2011. (VIII. 31.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^66]: Az 5. § (2) bekezdése a 326/2010. (XII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^67]: Az 5. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^68]: Az 5. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, szövege a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^69]: Az 5. § (4) bekezdés c) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^70]: Az 5. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^71]: Az 5. § (5) bekezdés 1. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^72]: Az 5. § (5) bekezdés 5. pontját a 159/2010. (V. 6.) Korm. rendelet 47. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^73]: Az 5. § (5) bekezdés 9. pontja a 212/2012. (VII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^74]: Az 5. § (5) bekezdés 13. pontját a 159/2010. (V. 6.) Korm. rendelet 47. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^75]: Az 5. § (5) bekezdés 24. pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
+[^76]: Az 5. § (5) bekezdés 25. pontja a 389/2014. (XII. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^77]: Az 5. § (5) bekezdés 27. pontja a 389/2014. (XII. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^78]: Az 5. § (5) bekezdés 30. pontja a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^79]: Az 5. § (5) bekezdés 34. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^80]: Az 5. § (5) bekezdés 35. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^81]: Az 5. § (5) bekezdés 36. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^82]: Az 5. § (5) bekezdés 37. pontját a 350/2009. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^83]: Az 5. § (5) bekezdés 38. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
+[^84]: Az 5. § (5) bekezdés 39. pontját a 108/2010. (IV. 9.) Korm. rendelet 5. §-a iktatta be.
+[^85]: Az 5. § (5) bekezdés 40. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^86]: Az 5. § (5) bekezdés 41. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^87]: Az 5. § (5) bekezdés 42. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^88]: Az 5. § (5) bekezdés 43. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^89]: Az 5. § (5) bekezdés 44. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^90]: Az 5. § (5) bekezdés 45. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^91]: Az 5. § (5) bekezdés 46. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^92]: Az 5. § (5) bekezdés 47. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^93]: Az 5. § (5) bekezdés 48. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^94]: Az 5. § (5) bekezdés 49. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^95]: Az 5. § (5) bekezdés 50. pontját a 169/2010. (V. 11.) Korm. rendelet 48. § (2) bekezdése iktatta be.
+[^96]: Az 5. § (5) bekezdés 51. pontját a 175/2011. (VIII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^97]: Az 5. § (5) bekezdés 52. pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^98]: Az 5. § (5) bekezdés 53. pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^99]: Az 5. § (5) bekezdés 54. pontját a 212/2012. (VII. 30.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^100]: Az 5. § (5) bekezdés 55. pontját a 389/2014. (XII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^101]: Az 5. § (5) bekezdés 56. pontját a 389/2014. (XII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^102]: Az 5. § (5) bekezdés 57. pontját a 389/2014. (XII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^103]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^104]: Az 5. § (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, szövege a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^105]: Az 5. § (8) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^106]: Az 5. § (8) bekezdés d) pontját a 323/2012. (XI. 16.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte, újonnan a 389/2014. (XII. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^107]: Az 5. § (8) bekezdés f) pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
+[^108]: Az 5. § (8) bekezdés g) pontja a 169/2010. (V. 11.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
+[^109]: Az 5. § (8) bekezdés i) pontját a 323/2012. (XI. 16.) Korm. rendelet 8. § (2) bekezdése hatályon kívül helyezte.
+[^110]: Az 5. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^111]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva. Az 5. § (10) bekezdése a 323/2012. (XI. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^112]: Az 5. § (10a) bekezdését a 212/2012. (VII. 30.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^113]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése, szövege a 323/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^114]: Az 5. § (12) bekezdését a 169/2010. (V. 11.) Korm. rendelet 48. § (4) bekezdése iktatta be.
+[^115]: Az 5. § (12) bekezdés a) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^116]: Az 5. § (12) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^117]: Az 5. § (12) bekezdés c) pontja a 175/2011. (VIII. 31.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.
+[^118]: Az 5. § (12) bekezdés d) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (83) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^119]: Az 5. § (12) bekezdés e) pontja a 175/2011. (VIII. 31.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. §-a alapján a 2011. szeptember 1-jét követően indult eljárásokban és megismételt eljárásokban is alkalmazni kell.

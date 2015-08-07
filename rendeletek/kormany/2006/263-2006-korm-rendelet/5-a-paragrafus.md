@@ -1,16 +1,16 @@
-## A katonai légügyi hatóság kijelölése[^119]
+## A katonai légügyi hatóság kijelölése[^120]
 
-5/A. §[^120] (1) Katonai légügyi hatóságként a Kormány a Hatóságot jelöli ki.
+5/A. §[^121] (1) Katonai légügyi hatóságként a Kormány a Hatóságot jelöli ki.
 
-(2)[^121] A katonai légügyi hatóság hatáskörébe utalt ügyekben első fokon a Légügyi Hivatal, másodfokon a honvédelemért felelős miniszter jár el. Amennyiben az eljárásban a légiközlekedési hatóság és a katonai légügyi hatóság egyaránt érintett, első fokon a Légügyi Hivatal, másodfokon a honvédelemért felelős miniszter jár el azzal, hogy a másodfokú eljárásba a Központot szakhatóságként be kell vonni.
+(2)[^122] A katonai légügyi hatóság hatáskörébe utalt ügyekben első fokon a Légügyi Hivatal, másodfokon a honvédelemért felelős miniszter jár el. Amennyiben az eljárásban a légiközlekedési hatóság és a katonai légügyi hatóság egyaránt érintett, első fokon a Légügyi Hivatal, másodfokon a honvédelemért felelős miniszter jár el azzal, hogy a másodfokú eljárásba a Központot szakhatóságként be kell vonni.
 
-(3)[^122] A katonai légügyi hatóság feladatai a következők:
+(3)[^123] A katonai légügyi hatóság feladatai a következők:
 
 a) az állami légijárművek nyilvántartása,
 
 b) az állami célra szolgáló légijárművek típusalkalmasságának és egyedi légialkalmasságának vizsgálata, tanúsítása,
 
-c)[^123] az állami repülések célját szolgáló repülőterek, valamint a kizárólag az állami repülések célját szolgáló földi léginavigációs berendezések üzemben tartásának szakmai ellenőrzése,
+c)[^124] az állami repülések célját szolgáló repülőterek, valamint a kizárólag az állami repülések célját szolgáló földi léginavigációs berendezések üzemben tartásának szakmai ellenőrzése,
 
 d) a honvédelmi légiforgalmi és repülésmeteorológiai szolgálatok működésének ellenőrzése,
 
@@ -22,11 +22,11 @@ g) a szakszolgálati engedély elnyeréséhez, illetőleg meghosszabbításához
 
 h) légialkalmassági bizonyítvány nélküli kísérleti, próba- vagy műszaki célú repülés engedélyezése,
 
-i)[^124] az állami célú légiközlekedés területén a repülésbiztonsági szervezet engedélyezése, felügyelete,
+i)[^125] az állami célú légiközlekedés területén a repülésbiztonsági szervezet engedélyezése, felügyelete,
 
-j)[^125] az állami repülések célját szolgáló repülőterek repülőtéri navigációs berendezései hatósági mérésének (kalibrálás) és hitelesítésének hatósági ellenőrzése,
+j)[^126] az állami repülések célját szolgáló repülőterek repülőtéri navigációs berendezései hatósági mérésének (kalibrálás) és hitelesítésének hatósági ellenőrzése,
 
-k)[^126] az állami repülések céljára szolgáló repülőterek zajgátló védőövezetének kijelölése,
+k)[^127] az állami repülések céljára szolgáló repülőterek zajgátló védőövezetének kijelölése,
 
 l) tárgy állami légijárműből történő kidobásának, szórásának engedélyezése,
 
@@ -34,19 +34,19 @@ m) az egyedi légialkalmassági engedéllyel nem rendelkező állami légijárm�
 
 n) nyilvános repülőrendezvény megtartásának engedélyezése,
 
-o)[^127] a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 1. § (3) bekezdése szerinti eseti légtér kijelölése.
+o)[^128] a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 1. § (3) bekezdése szerinti eseti légtér kijelölése.
 
-(4)[^128] A katonai légügyi hatóság hatásköre kiterjed:
+(4)[^129] A katonai légügyi hatóság hatásköre kiterjed:
 
 a) az állami repülési földi szolgálatok tevékenységére,
 
 b) az állami légijárművekre,
 
-c)[^129] az állami repülések célját szolgáló repülőterekre, valamint a kizárólag az állami repülések céljait szolgáló repülési létesítményekre és léginavigációs földi berendezésekre, valamint
+c)[^130] az állami repülések célját szolgáló repülőterekre, valamint a kizárólag az állami repülések céljait szolgáló repülési létesítményekre és léginavigációs földi berendezésekre, valamint
 
 d) az állami légiközlekedési és légiközlekedéssel összefüggő tevékenységre.
 
-(5)[^130] Az ügyintézési határidő három hónap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
+(5)[^131] Az ügyintézési határidő három hónap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
 
 a) állami légijármű és légijármű berendezés karbantartó szervezetek jóváhagyása,
 
@@ -54,18 +54,18 @@ b) az állami légijárművekkel előforduló légiközlekedési balesetekkel é
 
 c) az állami repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése, valamint
 
-d)[^131] az állami repülések célját szolgáló repülőtér zajgátló védőövezetének kijelölése.
+d)[^132] az állami repülések célját szolgáló repülőtér zajgátló védőövezetének kijelölése.
 
-[^119]: Az 5/A. §-t megelőző alcímet a 166/2007. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
-[^120]: Az 5/A. §-t a 166/2007. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
-[^121]: Az 5/A. § (2) bekezdése a 326/2010. (XII. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 334. § a) pontja szerint módosított szöveg.
-[^122]: Az 5/A. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^123]: Az 5/A. § (3) bekezdés c) pontja a 159/2010. (V. 6.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
-[^124]: Az 5/A. § (3) bekezdés i) pontját a 159/2010. (V. 6.) Korm. rendelet 47. § b) pontja hatályon kívül helyezte, újonnan a 177/2011. (IX. 1.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^125]: Az 5/A. § (3) bekezdés j) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^126]: Az 5/A. § (3) bekezdés k) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^127]: Az 5/A. § (3) bekezdés o) pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (3) bekezdése iktatta be.
-[^128]: Az 5/A. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^129]: Az 5/A. § (4) bekezdés c) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^130]: Az 5/A. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^131]: Az 5/A. § (5) bekezdés d) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^120]: Az 5/A. §-t megelőző alcímet a 166/2007. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^121]: Az 5/A. §-t a 166/2007. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^122]: Az 5/A. § (2) bekezdése a 326/2010. (XII. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 334. § a) pontja szerint módosított szöveg.
+[^123]: Az 5/A. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^124]: Az 5/A. § (3) bekezdés c) pontja a 159/2010. (V. 6.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^125]: Az 5/A. § (3) bekezdés i) pontját a 159/2010. (V. 6.) Korm. rendelet 47. § b) pontja hatályon kívül helyezte, újonnan a 177/2011. (IX. 1.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^126]: Az 5/A. § (3) bekezdés j) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^127]: Az 5/A. § (3) bekezdés k) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^128]: Az 5/A. § (3) bekezdés o) pontját a 177/2011. (IX. 1.) Korm. rendelet 12. § (3) bekezdése iktatta be.
+[^129]: Az 5/A. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^130]: Az 5/A. § (4) bekezdés c) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^131]: Az 5/A. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^132]: Az 5/A. § (5) bekezdés d) pontja a 350/2009. (XII. 30.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
