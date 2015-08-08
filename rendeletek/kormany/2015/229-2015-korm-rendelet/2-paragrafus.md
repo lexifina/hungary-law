@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a régióközi együttműködés előmozdításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
