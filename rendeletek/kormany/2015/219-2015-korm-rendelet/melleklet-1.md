@@ -1,6 +1,4 @@
-## 7. § A közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 46/2011. (III. 25.) Korm. rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Nem terjed ki a rendelet hatálya a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, illetőleg szolgáltatások megrendelésére vonatkozó sajátos szabályokról szóló 228/2004. (VII. 30.) Korm. rendelet hatálya alá tartozó beszerzésekre, a közbeszerzési törvény 9. § (1) bekezdés c) és e) pontja alá eső, a Magyar Honvédség műveleti alkalmazásával közvetlenül összefüggő beszerzésekre, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény hatálya alá tartozó szervezetek beszerzéseire, a külpolitikáért felelős miniszter által vezetett minisztérium irányítása alá tartozó külképviseletek beszerzéseire, a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium állami protokoll feladatokkal összefüggő beszerzéseire, a Magyar Nemzeti Bank beszerzéseire, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés c) pontjában meghatározott feladatokkal összefüggő beszerzésekre, az ideiglenes biztonsági határzárral kapcsolatos beszerzésekre, valamint azon beszerzésekre, amelyek megvalósítása részben vagy egészben nem hazai költségvetési forrásból történik.”
+## 7. §[^1]
 
 1. melléklet a 219/2015. (VIII. 6.) Korm. rendelethez
 
@@ -43,3 +41,5 @@ A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé n
 18. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
