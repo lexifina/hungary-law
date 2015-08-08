@@ -424,9 +424,9 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 4,17 | 17,45 | 16,83 | 38,45 |
+| 3. | 3,55 | 17,45 | 18,78 | 39,78 |
 
-| 4. | Többletkötelezettség-vállalás: 2,27 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 3,60 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 0% |
 
@@ -438,7 +438,7 @@
 
 | 2. | 2007–2015. | 2015. hátralévő | Összesen |
 
-| 3. | 58,25 | 10,44 | 68,69 |
+| 3. | 61,59 | 8,43 | 70,02 |
 
 7.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -460,13 +460,13 @@
 
 | 7. | 7.12.0 | Az ivóvízminőség-javító projektek műszaki-gazdasági előkészítéséhez szükséges szakmai háttér-dokumentáció és adatállomány elkészítése | 0,00 | 0,00 | 4,00 | Az ivóvízminőség-javító projektek műszaki-gazdasági előkészítéséhez szükséges szakmai háttér-dokumentáció és adatállomány elkészítése. | nemzeti fejlesztési miniszter | – |
 
-| 8. | 7.13.0 | Egyházi épületek 2014–2020 időszakban megvalósuló energiahatékonysági fejlesztéseinek előkészítése | 0,00 | 0,00 | 2,00 | Egyházi épületek energetikai fejlesztésére irányuló beruházási projektek előkészítése a 20142020 programozási időszakra. | nemzeti fejlesztési miniszter | – |
+| 8. | 7.13.0 | Egyházi épületek 2014–2020 időszakban megvalósuló energiahatékonysági fejlesztéseinek előkészítése | 0,00 | 0,00 | 3,32 | Egyházi épületek energetikai fejlesztésére irányuló beruházási projektek előkészítése a 20142020 programozási időszakra. | nemzeti fejlesztési miniszter | – |
 
 | 9. | 7.14.0 | Kormányhivatalok és Minisztériumok 2014–2020 időszakban megvalósuló energiahatékonysági fejlesztéseinek előkészítése | 0,00 | 0,00 | 2,90 | A konstrukció célja a kormányhivatalok és minisztériumok épületeinek energetikai fejlesztésére irányuló beruházási projektek előkészítése a 2014–2020 programozási időszakra. | nemzeti fejlesztési miniszter | – |
 
 7.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 7.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-7.3.3. A 7.3.1. pontban foglalt táblázat 5. és 6. sora szerinti 7.9.0 és 7.11.0 konstrukció 2,27 Mrd Ft többletkötelezettség-vállalást tartalmaz.
+7.3.3. A 7.3.1. pontban foglalt táblázat 5., 6. és 8. sora szerinti 7.9.0, 7.11.0 és 7.13.0 konstrukció 3,60 Mrd F többletkötelezettség-vállalást tartalmaz.
 
 8. Az 8. prioritás: Technikai segítségnyújtás
 
@@ -521,4 +521,4 @@
 [^3]: Az 1. pont f) alpontját az 1367/2015. (VI. 3.) Korm. határozat 3. pontja iktatta be.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1371/2015. (VI. 4.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
 [^5]: A 4. pontot az 1464/2015. (VII. 15.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
-[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja szerint módosított szöveg. [Az 1371/2015. (VI. 4.) Korm. határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át. Az 1464/2015. (VII. 15.) Korm. határozat 2. pont c) pont cb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „61,79” szövegrész helyébe a „71,61” szöveg lép, nem vezethető át. Az 1507/2015. (VII. 15.) Korm. határozat 1. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „71,61” szövegrész helyébe a „81,42” szöveg, nem vezethető át. ]
+[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1371/2015. (VI. 4.) Korm. határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át. Az 1464/2015. (VII. 15.) Korm. határozat 2. pont c) pont cb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „61,79” szövegrész helyébe a „71,61” szöveg lép, nem vezethető át. Az 1507/2015. (VII. 15.) Korm. határozat 1. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „71,61” szövegrész helyébe a „81,42” szöveg, nem vezethető át. ]
