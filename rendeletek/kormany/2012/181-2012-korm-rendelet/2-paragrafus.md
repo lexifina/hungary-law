@@ -1,1 +1,0 @@
-## 1. § A Kormány a B.M. Invest Ingatlanforgalmazó, Beruházó és Kivitelező Korlátolt Felelősségű Társaság (Cg. 01-09-686933, székhely: 1121 Budapest, Csillagvölgyi út 6/a.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
