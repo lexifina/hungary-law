@@ -6,8 +6,8 @@
 
 (4) A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet 9. §-ának az időszakos vizsgálat keretében elvégzett előzetes eredetiségvizsgálat díjának visszatérítéséről szóló 86/2010. (III. 26.) Korm. rendelet által megállapított (4) bekezdésében a „(3)” szövegrész helyett „(4)” szöveg lép hatályba.
 
-(5)[^13]
+(5)[^17]
 
 (6) Az R. 54. § (2) bekezdésének első mondata a következő szöveggel lép hatályba: „A sokszorosításra átadott eredeti adathordozón nem kerül feltüntetésre a 39. § (3) bekezdés f) pontja szerinti adat.”
 
-[^13]: A 21. § (5) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 466. §-a hatályon kívül helyezte.
+[^17]: A 21. § (5) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 466. §-a hatályon kívül helyezte.

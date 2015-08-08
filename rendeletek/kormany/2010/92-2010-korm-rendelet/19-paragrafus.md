@@ -1,7 +1,3 @@
-## 18. § Az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultság feltételeiről, a jogosultság megszerzésével kapcsolatos eljárás szabályairól és az eljáró szervezetről szóló 164/2002. (VIII. 2.) Korm. rendelet (a továbbiakban: NATO R.) 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A honvédelemért felelős miniszter nyilvántartást vezet a „NATO Beszállításra Alkalmas” határozattal, a NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvánnyal, valamint az azok alapján kiállított megfelelőségi tanúsítvánnyal (Declaration of Eligibility) rendelkező cégekről. A honvédelemért felelős miniszter szükség esetén kiállítja és a NATO felé megküldi a megfelelőségi tanúsítványt.”
-
 19. § (1) A NATO R. 6. § (1) bekezdésében a „minősítéseknek” szövegrész helyébe „minősítésnek” szöveg lép.
 
 (2) A NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó részletes szabályokról szóló 40/2005. (III. 10.) Korm. rendelet 1. § (3) bekezdésében a „„Minősített NATO Beszállításra Alkalmas” határozattal” szövegrész helyébe a „NATO Beszállításra Alkalmas” határozattal és NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvánnyal” szövegrész lép.
