@@ -1,1 +1,0 @@
-## 1. § A Kormány a SZIGET-VÍZ Korlátolt Felelősségű Társaság (Cg. 02-09-064787, székhely: 7900 Szigetvár, Gyár u. 1.) gazdasági társaságot a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 65. §-a alapján stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősíti.
