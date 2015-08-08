@@ -1,3 +1,5 @@
+## 31. §[^2]
+
 1. melléklet a 176/2015. (VII. 7.) Korm. rendelethez
 
 ## A vállalkozás szakmai irányítójára vonatkozó követelmények
@@ -37,3 +39,5 @@ Az elméleti tantárgyakból 25 tesztkérdésre kell válaszolni, az elérhető 
 A vizsga során 3 feladatot kell a vizsgázóknak esszé formájában kifejteni a fenti négy vizsgatárggyal kapcsolatos elméleti ismeretanyagból.
 
 Ezeket a feladatokat a közlekedési hatóság által kiadott feladatlapokon kell elkészíteni. Az esettanulmány kitöltésére fordítható idő 30 perc.
+
+[^2]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,0 @@
-## „(2) Az e rendeletben foglaltak megtartását – a hatásköre gyakorlására vonatkozó szabályok szerint – a közlekedési hatóság ellenőrzi. Az ellenőrzést végző szerv hatáskörébe tartozóan lefolytatja a szabálysértési vagy közigazgatási eljárást, és a közúti közlekedési szolgáltatási tevékenység gyakorlásának jogát felfüggesztheti.”
