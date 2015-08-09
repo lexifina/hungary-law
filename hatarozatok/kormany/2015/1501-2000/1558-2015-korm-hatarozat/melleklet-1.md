@@ -14,31 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat 1. melléklet
-
-## a) 7.2.1. pontjában foglalt táblázat
-
-## aa) A:3 mezőjében a „4,17” szövegrész helyébe a „3,55” szöveg,
-
-## ab) C:3 mezőjében a „16,83” szövegrész helyébe a „18,78” szöveg,
-
-## ac) D:3 mezőjében a „38,45” szövegrész helyébe a „39,78” szöveg,
-
-## ad) A:4–D:4 mezőjében a „2,27” szövegrész helyébe a „3,60” szöveg,
-
-## b) 7.2.2. pontjában foglalt táblázat
-
-## ba) A:3 mezőjében az „58,25” szövegrész helyébe a „61,59” szöveg,
-
-## bb) B:3 mezőjében a „10,44” szövegrész helyébe a „8,43” szöveg,
-
-## bc) C:3 mezőjében a „68,69” szövegrész helyébe a „70,02” szöveg,
-
-## c) 7.3.1. pontjában foglalt táblázat E:8 mezőjében a „2,00” szövegrész helyébe a „3,32” szöveg,
-
-## d) 7.3.3. pontjában az „5. és 6. sora szerinti 7.9.0 és 7.11.0 konstrukció 2,27 Mrd Ft” szövegrész helyébe az „5., 6. és 8. sora szerinti 7.9.0, 7.11.0 és 7.13.0 konstrukció 3,60 Mrd Ft” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1558/2015. (VIII. 7.) Korm. határozathoz
 
@@ -107,3 +83,5 @@
 | 31. | KEOP-7.13.0/15- 2015-0031 | Energiahatékonysági fejlesztések előkészítése a Nyitott Ajtó Baptista Gyülekezet, a Baptista Tevékeny Szeretet Misszió és a Miskolc-Szirmai Református Egyházközség összefogásával | Nyitott Ajtó Baptista Gyülekezet | 70 023 800 | 2015. augusztus 31. | 2015. szeptember 15. |
 
 | 32. | KEOP-7.13.0/15- 2015-0032 | A Magyar Pünkösdi Egyház 2014–2020 időszakban megvalósuló energiahatékonysági fejlesztéseinek előkészítése | Magyar Pünkösdi Egyház | 79 613 487 | 2015. augusztus 31. | 2015. szeptember 15. |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veszette.
