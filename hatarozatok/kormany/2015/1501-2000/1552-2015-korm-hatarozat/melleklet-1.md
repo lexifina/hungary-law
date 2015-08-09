@@ -32,7 +32,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1138/2014. (III. 14.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1552/2015. (VIII. 7.) Korm. határozathoz
 
@@ -381,3 +381,5 @@ Felelős: miniszterek
 megyei, fővárosi védelmi bizottságok
 
 Határidő: 2015. november 30.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
