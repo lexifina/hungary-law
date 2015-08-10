@@ -12,7 +12,9 @@
 
 (5b)[^169] A szociális foglalkoztatás 2015. évi támogatására általános pályázatot nem kell kiírni, a 2014. december 31-én hatályos támogatási szerződések hatálya 2015. december 31-éig meghosszabbodik, a támogatási időszak 2015. december 31-éig tart.
 
-(6)[^170] A 16. § (2) bekezdésétől eltérően a 2013. évre vállalt feladatmutatót 2012. november 30-áig kell bejelenteni.
+(5c)[^170] A szociális foglalkoztatás 2016. év első félévi támogatására általános pályázatot nem kell kiírni, a 2015. december 31-én hatályos támogatási szerződések hatálya 2016. június 30-ig meghosszabbodik, a támogatási időszak 2016. június 30-ig tart.
+
+(6)[^171] A 16. § (2) bekezdésétől eltérően a 2013. évre vállalt feladatmutatót 2012. november 30-áig kell bejelenteni.
 
 [^163]: A 17. § (2) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
 [^164]: A 17. § (3) bekezdését a 371/2007. (XII. 23.) Korm. rendelet 11. § (3) bekezdésének d) pontja hatályon kívül helyezte, újonnan a 142/2008. (V. 16.) Korm. rendelet 2. § (2) bekezdése iktatta be.
@@ -21,4 +23,5 @@
 [^167]: A 17. § (5) bekezdését a 371/2007. (XII. 23.) Korm. rendelet 11. § (3) bekezdésének d) pontja hatályon kívül helyezte, újonnan a 317/2012. (XI. 13.) Korm. rendelet 12. §-a iktatta be.
 [^168]: A 17. § (5a) bekezdését a 335/2013. (IX. 20.) Korm. rendelet 3. §-a iktatta be.
 [^169]: A 17. § (5b) bekezdését a 252/2014. (X. 2.) Korm. rendelet 1. §-a iktatta be.
-[^170]: A 17. § (6) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 12. §-a iktatta be.
+[^170]: A 17. § (5c) beekzdését a 222/2015. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^171]: A 17. § (6) bekezdését a 317/2012. (XI. 13.) Korm. rendelet 12. §-a iktatta be.
