@@ -14,7 +14,7 @@ cb) bármilyen arányú tulajdonában álló gazdasági társaság (ide nem ért
 
 az (1) bekezdésben foglaltak biztosítására nem használható.
 
-(1b) Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója vagy élettársa, vagy a 111. § (3) bekezdésében meghatározott személy, illetve ezek közeli hozzátartozója vagy élettársa a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
+(1b) Az (1a) bekezdésben foglaltakon túl az (1) bekezdésben foglaltak biztosítására nem használható olyan ingatlan, amely párt tulajdonában vagy vagyonkezelésében van, valamint amely olyan gazdasági társaság tulajdonában van, amelyben bármely képviselő közeli hozzátartozója vagy élettársa, vagy a 111. § (3) bekezdésében meghatározott személy, illetve ezek közeli hozzátartozója vagy élettársa a gazdasági társaság vezető tisztségviselője, cégvezetője, ügyvezetője, felügyelőbizottsági tagja.
 
 (2) Az (1) bekezdés szerinti ingatlannak a használatbavételi, illetve fennmaradási engedélytől, ennek hiányában az eredeti rendeltetéstől eltérő – az (1) bekezdésben foglaltak biztosítására történő – használatához az építésügyi hatóság engedélye nem szükséges.
 
