@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-33-20-2
 | --- | --- | --- |
 | 2015-07-02 | 2015-33-20-2W.1 | 33/2015. (VI. 24.) NFM rendelet |
 | 2015-07-03 | 2015-33-20-2W.2 | 2010: CXXX. törvény |
+| 2015-08-14 | 2015-33-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
