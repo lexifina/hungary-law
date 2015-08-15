@@ -1,1 +1,0 @@
-## Hallgatói azonosító szám
