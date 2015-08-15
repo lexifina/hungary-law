@@ -6,7 +6,7 @@
 
 ## b) gondoskodni kell a vészhelyzeti alapokhoz, költségvetési eszközökhöz és pénzügyi forrásokhoz való hozzáférésről úgy, hogy lefedje a klasszikus (afrikai) sertéspestis járvány elleni harc valamennyi szempontját;
 
-## c)[^77] utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást. Ha szükséges az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni küzdelem valamennyi stratégiájának irányításáért. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetőjének tagnak kell lennie ebben a szervben, és meg kell valósítania az összeköttetést a központi döntéshozó szerv és a 27. § szerinti nemzeti járványvédelmi központ között;
+## c)[^104] utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást. Ha szükséges az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni küzdelem valamennyi stratégiájának irányításáért. A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi szakterülete vezetőjének tagnak kell lennie ebben a szervben, és meg kell valósítania az összeköttetést a központi döntéshozó szerv és a 27. § szerinti országos járványvédelmi központ között;
 
 ## d) gondoskodni kell a megfelelő források elérhetőségéről, hogy biztosítva legyen a gyors és hatékony munka, beleértve a laboratóriumi személyzetet, eszközt és infrastruktúrát;
 
@@ -22,95 +22,7 @@
 
 ## gc) kommunikációs technikai gyakorlaton azért, hogy megszervezzen egy információs hadjáratot tekintettel egy folyamatban lévő járványra a hatóságokat, sertéstartókat és az állatorvosokat megcélozva.
 
-9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^78]
+9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^105]
 
-.................. Járási Állategészségügyi Ikt. sz.:
-
-és Élelmiszer-ellenőrző Tárgy: helyi zárlat elrendelése
-
-Hivatala Előadó:
-
-......................................................
-
-HATÁROZAT
-
-Klasszikus (afrikai) sertéspestis* fertőzöttség megállapítása miatt ............................................................................. (név)
-
-....................................................................................................................................................................... tephely (udvar)
-
-helyi zárlatát
-
-rendelem el.
-
-A zárlat által érintett sertésállomány:
-
-## 3K65289M_0
-
-|  | tenyészkan |  | db | ebből beteg: |  | db |
-
-|  | tenyészkoca |  | db | ebből beteg: |  | db |
-
-|  | hízó |  | db | ebből beteg: |  | db |
-
-|  | szopósmalac |  | db | ebből beteg: |  | db |
-
-|  | összesen |  | db |  |  |
-
-## A sertéseket a telepen (udvaron belül) eredeti helyükön kell tartani, vagy zárt helyen úgy elhelyezni, hogy más sertésekkel ne érintkezhessenek.
-
-## Tilos sertéseket a telepről kivinni, vagy sertéseket oda bevinni.
-
-## A telepet (udvart)
-
-## – sertéshús,
-
-## – elhullott sertés,
-
-## – takarmány, anyagok, eszközök, trágya vagy bármilyen hulladék csak engedélyemmel hagyhatja el.
-
-## A telepre (udvarra) személyek belépése és kilépése ruhacsere és fertőtlenítés mellett, engedélyemmel történhet.
-
-## Járművek ki- vagy belépése fertőtlenítés mellett, engedélyemmel történhet.
-
-## A helyi zárlat ellenőrzésével .............................. hatósági állatorvost bízom meg.
-
-## A határozat ellen a kézhezvételtől számított 15 napon belül, a ................................................. Járási Állategészségügyi és Élelmiszer-ellenőrző Hivatalhoz címzett, hivatalomhoz benyújtott fellebbezéssel lehet élni.
-
-## A határozat fellebbezésre tekintet nélkül végrehajtandó.
-
-## INDOKOLÁS
-
-## .............................. név .............................. telephely (udvar) sertésállományában klasszikus* (afrikai)* sertéspestis fertőzöttséget állapítottam meg az előfordult klinikai tünetek, kórbonctani elváltozások alapján. A Nemzeti Élelmiszerlánc-biztonsági Hivatal ............... számú lelete a klasszikus* (afrikai)* sertéspestis vírusát, illetve a vírus antigénnel reagáló ellenanyagát mutatta ki, ezért az állategészségügyről szóló 1995. évi XCI. törvény 6. § (4) bekezdésének d) pontja, valamint a 75/2002. (VIII. 16.) FVM rendelet 5. §-a alapján a rendelkező részben foglaltak szerint határoztam.
-
-## A fellebbezési lehetőséget az 1957. évi IV. törvény 62. §-a alapján biztosítottam.
-
-## A határozat fellebbezésre tekintet nélküli végrehajtása az állategészségügyről szóló 1995. évi XCI. törvény 6. §-ának (5) bekezdésén alapul.
-
-## Dátum: ......................................................................................................
-
-## ......................................................................
-
-## járási főállatorvos
-
-## A határozatot kapják:
-
-1. .............................. állattartó
-
-2. Hatósági állatorvos
-
-3. .............................. Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
-
-4. Települési (fővárosban a fővárosi kerületi) önkormányzat jegyzője
-
-5. Állami feladattal megbízott magánállatorvos(ok)
-
-6. Magánállatorvos(ok)
-
-7. Irattár
-
-___________
-
-* A nem kívánt rész törlendő.
-
-[^77]: A 8. számú melléklet c) pontja a 70/2013. (VII. 31.) VM rendelet 20. § t) pontja szerint módosított szöveg.
-[^78]: A 9. számú melléklet a 151/2012. (XII. 29.) VM rendelet 13. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 20. § u)–v) pontja szerint módosított szöveg.
+[^104]: A 8. számú melléklet c) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 33. pontja szerint módosított szöveg.
+[^105]: A 9–20. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 9. § b) pontja hatályon kívül helyezte.

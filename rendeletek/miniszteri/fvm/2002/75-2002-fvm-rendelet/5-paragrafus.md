@@ -1,6 +1,6 @@
 ## Klasszikus sertéspestis megerősítése esetén hozandó intézkedések
 
-5. § (1)[^12] Ha a klasszikus sertéspestis fertőzöttséget a laboratóriumi vizsgálatok megerősítik, a járási főállatorvos a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
+5. § (1)[^13] Ha a klasszikus sertéspestis fertőzöttséget a laboratóriumi vizsgálatok megerősítik, a járási hivatal a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
 
 a) valamennyi, a gazdaságban található sertést késedelem nélkül, hatósági állatorvos felügyelete mellett vértelen úton le kell ölni oly módon, hogy a sertéspestis vírusának a leölés során történő terjedési kockázata kizárható legyen. Ha a sertéseket a leölés helyére elszállítják, a szállítást zárt, csepegésmentes gépkocsikkal kell végezni. A gépkocsikat a gazdaság elhagyása előtt és a sertések lerakása után fertőtleníteni kell. A fertőzés terjedésének megakadályozása érdekében vagy diagnosztikai célból a fertőzésre gyanús sertéseket a betegség hatósági megállapítása előtt is le lehet ölni. Az állatok leölése (levágása) külön jogszabályban leírt állami kártalanítás mellett történik. A leölést (levágást) elrendelő határozat fellebbezésre tekintet nélkül végrehajtandó;
 
@@ -22,8 +22,10 @@ i) a 8. § szerinti járványtani vizsgálatot kell végezni;
 
 j) a betegség megállapításáról a települési (fővárosban a fővárosi kerületi) önkormányzat jegyzőjét értesíteni kell.
 
-(2) Amennyiben a betegség kitörését laboratóriumban, állatkertben, vadasparkban vagy olyan bekerített területen állapítják meg, ahol tudományos, illetve ritka fajták védelmére szolgáló céllal tartanak sertéseket, a minisztérium az (1) bekezdés a) és e) pontjában foglaltaktól eltérően rendelkezhet, azonban az eltérés nem sértheti a járványvédelem alapvető érdekeit.
+(2)[^14] Amennyiben a betegség kitörését laboratóriumban, állatkertben, vadasparkban vagy olyan bekerített területen állapítják meg, ahol tudományos, illetve ritka fajták védelmére szolgáló céllal tartanak sertéseket, az országos főállatorvos az (1) bekezdés a) és e) pontjában foglaltaktól eltérően rendelkezhet, azonban az eltérés nem sértheti a járványvédelem alapvető érdekeit.
 
-(3) A betegség terjedésének megakadályozására a minisztérium a 21. §-ban szabályozott eljárásnak megfelelően vészvakcinázást rendelhet el.
+(3)[^15] A betegség terjedésének megakadályozására az országos főállatorvos a 21. §-ban szabályozott eljárásnak megfelelően vészvakcinázást rendelhet el.
 
-[^12]: Az 5. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 13. § b) pontja szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 4. pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 7. pontja szerint módosított szöveg.
+[^15]: Az 5. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 7. pontja szerint módosított szöveg.

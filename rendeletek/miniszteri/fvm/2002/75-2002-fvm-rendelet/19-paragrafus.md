@@ -1,34 +1,22 @@
-## Diagnosztikai eljárások és a biológiai biztonsággal kapcsolatos követelmények
+## A klasszikus sertéspestis nemzeti referencia laboratóriumának feladatai, kutatások végzése[^62]
 
-19. § (1) A klasszikus sertéspestis jelenlétének kimutatására szolgáló diagnosztikai eljárásokat, mintavételezéseket és laboratóriumi vizsgálatokat a diagnosztikai kézikönyv alapján kell elvégezni.
+19. §[^63] (1) A klasszikus sertéspestis nemzeti referencia laboratóriuma (a továbbiakban: NRL) felelős azért, hogy a klasszikus sertéspestis jelenlétének kimutatására és a vírusizolátumok genotípusának azonosítására szolgáló laboratóriumi vizsgálatokat a diagnosztikai kézikönyv alapján végezzék el. Ebből a célból külön megállapodásokat köthet a közösségi referencialaboratóriummal és a többi tagállam nemzeti laboratóriumával.
 
-(2)[^57] A 4. számú melléklet rendelkezéseinek megfelelően, a szabványok és diagnosztikai módszerek koordinációjáért felelős nemzeti laboratórium a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH).
+(2) Az NRL felelős a klasszikus sertéspestissel kapcsolatos vizsgálatokat végző laboratóriumokban alkalmazott szabványok és diagnosztikai módszerek összehangolásáért. Ennek érdekében
 
-(3) A (2) bekezdésben foglalt nemzeti laboratóriumok kapcsolatban állnak az Unió – 5. számú mellékletben leírt – referencialaboratóriumával.
+a) diagnosztikai reagenseket adhat az egyes laboratóriumoknak;
 
-(4) A klasszikus sertéspestis egységes diagnosztikai eljárásokkal történő kimutatásának biztosítása céljából e rendelet hatálybalépését követően ki kell adni a klasszikus sertéspestis diagnosztikai kézikönyvet, amely a következőket tartalmazza:
+b) ellenőrzi a laboratóriumok által használt diagnosztikai reagensek minőségét;
 
-a) a klasszikus sertéspestis diagnosztikai laboratóriumai által, valamint a mintaszállítás során betartandó alapvető biológiai biztonsági követelményeket és minőségi szabványokat;
+c) rendszeres időközönként összehasonlító vizsgálatokat végez;
 
-b) a klasszikus sertéspestis jelenlétének kimutatása vagy kizárása céljából végzett klinikai vagy post-mortem vizsgálatok feltételeit és a követendő eljárásokat;
+d) megőrzi a klasszikus sertéspestis hazai megállapított eseteiből és kitörésekből származó vírusizolátumokat.
 
-c) a klasszikus sertéspestis laboratóriumi vizsgálatokkal történő megállapítása vagy kizárása céljából, élő sertésből és sertéshullából való mintavételt, valamint e rendelet alkalmazása során a virológiai és szerológiai szűrővizsgálatokhoz szükséges mintavételt;
+(3) Az NRL feladatait a NÉBIH Állategészségügyi Diagnosztikai Igazgatóságának budapesti laboratóriuma látja el.
 
-d) a klasszikus sertéspestis kimutatására szolgáló laboratóriumi vizsgálatokat, beleértve:
+(4) Az országos főállatorvos – a NÉBIH szakvéleménye alapján – maximum 5 év időtartamra más laboratóriumnak is engedélyt adhat a szerodiagnosztikai vizsgálatok elvégzésére.
 
-da) a klasszikus sertéspestis vírusa és egyéb, a pestivírus[^58] genusba tartozó vírus közötti differenciáldiagnosztikai teszteket, és
+(5) A megfelelő biológiai biztonság érdekében a klasszikus sertéspestis vírusán és annak genomján, antigénjén és vakcinákon a kutatás, a diagnosztika és a gyártásra történő felhasználás során beavatkozást csak az országos főállatorvos által jóváhagyott intézményben lehet végezni.
 
-db) amennyiben rendelkezésre állnak, a markervakcina és klasszikus sertéspestis vadvírusa által termelt ellenanyagok megkülönböztetésére szolgáló megbízható teszteket;
-
-dc) a laboratóriumi vizsgálatok eredményeinek értékelési kritériumait;
-
-e) a klasszikus sertéspestis-izolátumok genotipizálására szolgáló laboratóriumi technikákat.
-
-(5) A megfelelő biológiai biztonság érdekében a klasszikus sertéspestis vírusán és annak genomján, antigénjén és vakcinákon a kutatás, a diagnosztika és a gyártásra történő felhasználás során beavatkozást csak a minisztérium által jóváhagyott intézményben lehet végezni.
-
-(6) A 4. és 5. számú melléklet rendelkezései és a diagnosztikai kézikönyv kiegészíthetők vagy módosíthatók.
-
-(7) A diagnosztikai eljárások során a diagnosztikai kézikönyvben foglaltakat, a diagnosztikai kézikönyv megjelenéséig e rendelet 6. számú mellékletében foglalt diagnosztikai eljárásokat kell alkalmazni.
-
-[^57]: A 19. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § p) pontja szerint módosított szöveg.
-[^58]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.
+[^62]: A 19. §-t megelőző alcím a 46/2015. (VIII. 7.) FM rendelet 4. §-ával megállapított szöveg.
+[^63]: A 19. § a 46/2015. (VIII. 7.) FM rendelet 4. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-6. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^76]
+6. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^103]
 
-[^76]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.
+[^103]: A Magyar Közlöny 2002. évi 129. számában megjelent helyesbítésnek megfelelő szöveg.

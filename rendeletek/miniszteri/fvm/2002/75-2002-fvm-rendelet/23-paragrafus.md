@@ -1,6 +1,6 @@
-23. § (1)[^60] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a vakcinázási időszak alatt a következőkről gondoskodik:
+23. § (1)[^67] A megyei kormányhivatal a vakcinázási időszak alatt a következőkről gondoskodik:
 
-a)[^61] a vakcinázási övezetet élő sertés nem hagyhatja el, kivéve, ha azonnali vágás céljából az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt, a vakcinázási övezetben vagy ahhoz közel található vágóhídra vagy – ártalmatlanítás céljából – feldolgozóüzembe szállítják;
+a)[^68] a vakcinázási övezetet élő sertés nem hagyhatja el, kivéve, ha azonnali vágás céljából a megyei kormányhivatal által kijelölt, a vakcinázási övezetben vagy ahhoz közel található vágóhídra vagy – ártalmatlanítás céljából – feldolgozóüzembe szállítják;
 
 b) az összes, a vészvakcinázás során vakcinázott sertésből előállított friss sertéshúst vagy ártalmatlanítják, vagy a 12. § (3) bekezdésében foglalt rendelkezéseknek megfelelően megjelölik és kezelik;
 
@@ -18,13 +18,13 @@ c) szeropozitív kocák malacainak a származási gazdaságból történő kisz�
 
 ca) azonnali vágás vágóhídon,
 
-cb)[^62] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kijelölt gazdaság, ahonnan közvetlenül vágóhídra szállítják,
+cb)[^69] a megyei kormányhivatal által kijelölt gazdaság, ahonnan közvetlenül vágóhídra szállítják,
 
 cc) egy másik gazdaság, miután a szerológiai teszt a klasszikus sertéspestis vírusával szemben termelődő ellenanyagokra nézve negatív eredménnyel zárult.
 
-(4) A vészvakcinázást a minisztérium akkor is elrendelheti, ha
+(4)[^70] A vészvakcinázást az országos főállatorvos akkor is elrendelheti, ha
 
-a)[^63] a vakcinázási műveletek elkezdése előtt az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal vészvakcinázási tervet készíttet;
+a)[^71] a vakcinázási műveletek elkezdése előtt a megyei kormányhivatallal vészvakcinázási tervet készíttet;
 
 b) a 22. §-ban felsorolt információkon túlmenően a terv előírja, hogy a vakcinázási műveletek befejezését követően a vakcinázott összes sertést a lehető legrövidebb időn belül levágják, az (1) bekezdés a) pontjában szabályozott rendelkezéseknek megfelelően. A levágott sertésekből származó friss húst vagy ártalmatlanítják, vagy megjelölik és a 12. § (3) bekezdésében foglalt rendelkezéseknek megfelelően kezelik.
 
@@ -34,7 +34,7 @@ a) az (1) bekezdés a) pontjában szabályozott rendelkezéseknek megfelelően a
 
 b) az összes gazdaságban, ahol vakcinázott sertéseket tartottak, a 14. §-nak megfelelően elvégezték a takarítási és fertőtlenítési műveleteket.
 
-(6)[^64] Amennyiben az (1) bekezdés szerint elrendelt intézkedéseket felfüggesztették, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak biztosítani kell, hogy
+(6)[^72] Amennyiben az (1) bekezdés szerint elrendelt intézkedéseket felfüggesztették, a megyei kormányhivatalnak biztosítani kell, hogy
 
 a) a sertéseket az (5) bekezdés b) pontja szerinti gazdaságokba a takarítási és fertőtlenítési műveletek befejezését követően legalább 10 napig ne telepítsék be újra;
 
@@ -42,15 +42,17 @@ b) a sertéseket az újratelepítést követően a vakcinázási övezetben tal�
 
 (7) Azokban az esetekben, ahol a vakcinázási kampány során marker vakcinát használtak, felmentés adható az (1)–(3) bekezdésekben foglalt rendelkezések alól, különös tekintettel a vakcinázott sertések és húsok megjelölésére és ezt követő felhasználására, valamint a feldolgozott termékek rendeltetésére. Az engedélyezés feltételei az alábbiak:
 
-a) a vakcinázási tervet a vakcinázási műveletek megkezdése előtt, a 22. §-ban foglalt rendelkezéseknek megfelelően a minisztérium jóváhagyta;
+a)[^73] a vakcinázási tervet a vakcinázási műveletek megkezdése előtt, a 22. §-ban foglalt rendelkezéseknek megfelelően az országos főállatorvos jóváhagyta;
 
-b)[^65] az érintett élelmiszerlánc-biztonsági és állategészségügyi igazgatóság külön kérelmet nyújt be a minisztériumnál, amely a vakcinázási program kivitelezését, eredményeit és a járványügyi helyzet egészét bemutató átfogó jelentést tartalmaz; és
+b)[^74] az érintett megyei kormányhivatal külön kérelmet nyújt be a NÉBIH-nek, amely a vakcinázási program kivitelezését, eredményeit és a járványügyi helyzet egészét bemutató átfogó jelentést tartalmaz; és
 
 c) a 25. §-ban foglaltak alapján elvégezték a vakcinázási kampány végrehajtásának helyszíni ellenőrzését.
 
-[^60]: A 23. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^61]: A 23. § (1) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^62]: A 23. § (3) bekezdés c) pont cb) alpontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^63]: A 23. § (4) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 20. § q) pontja szerint módosított szöveg.
-[^64]: A 23. § (6) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § n) pontja szerint módosított szöveg.
-[^65]: A 23. § (7) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^67]: A 23. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 11. pontja szerint módosított szöveg.
+[^68]: A 23. § (1) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja szerint módosított szöveg.
+[^69]: A 23. § (3) bekezdés c) pont cb) alpontja a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja szerint módosított szöveg.
+[^70]: A 23. § (4) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 7. pontja szerint módosított szöveg.
+[^71]: A 23. § (4) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 17. pontja szerint módosított szöveg.
+[^72]: A 23. § (6) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 18. pontja szerint módosított szöveg.
+[^73]: A 23. § (7) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 7. pontja szerint módosított szöveg.
+[^74]: A 23. § (7) bekezdés b) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 19. pontja szerint módosított szöveg.

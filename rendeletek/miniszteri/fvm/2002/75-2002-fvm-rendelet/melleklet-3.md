@@ -26,7 +26,7 @@
 
 a) a takarítási és fertőtlenítési műveletek hatósági állatorvos felügyelete és utasítása alapján történnek;
 
-b)[^74] az alkalmazott fertőtlenítőszereket és koncentrációit hivatalosan az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hagyja jóvá, hogy biztosítható legyen a klasszikus (afrikai) sertéspestisvírus elpusztítása;
+b)[^100] az alkalmazott fertőtlenítőszereket és koncentrációit hivatalosan a megyei kormányhivatal hagyja jóvá, hogy biztosítható legyen a klasszikus (afrikai) sertéspestisvírus elpusztítása;
 
 c) a fertőtlenítőszerek aktivitását felhasználás előtt ellenőrizni kell, mivel bizonyos fertőtlenítőszerek hatása a hosszú tárolás során megszűnik;
 
@@ -86,4 +86,4 @@ b) a hígtrágyát a fertőzött anyag utolsó hozzáadása után legalább 42 n
 
 4. Az 1. és 2. pontok alóli felmentéssel, szabad tartású gazdaságok esetében, az illetékes hatóság különleges takarítási és fertőtlenítési eljárást fogadhat el, figyelembe véve a telep típusát és az időjárási körülményeket.
 
-[^74]: A 3. számú melléklet 1. pont b) alpontja a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^100]: A 3. számú melléklet 1. pont b) alpontja a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja szerint módosított szöveg.

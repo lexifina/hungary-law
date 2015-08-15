@@ -1,8 +1,8 @@
-## Járványvédelmi központok és szakértői csoportok
+## Járványvédelmi központok és nemzeti szakértői csoport[^84]
 
-27. § (1) A minisztérium a klasszikus sertéspestis járványkitörés esetén haladéktalanul nemzeti járványvédelmi központot hoz létre.
+27. §[^85] (1) Az országos főállatorvos a klasszikus sertéspestis járványkitörés esetén haladéktalanul országos járványvédelmi központot hoz létre.
 
-(2) A nemzeti járványvédelmi központnak irányítania és ellenőriznie kell a (3) bekezdés szerinti helyi járványvédelmi központok működését. A nemzeti járványvédelmi központ felelős:
+(2) Az országos járványvédelmi központnak irányítania és ellenőriznie kell a (3) bekezdés szerinti helyi járványvédelmi központok működését. Az országos járványvédelmi központ felelős:
 
 a) a szükséges védelmi intézkedések meghatározásáért;
 
@@ -16,21 +16,33 @@ e) szükséges esetben a vészvakcinázás megszervezéséért és az oltási te
 
 f) kapcsolat tartásáért a diagnosztikai laboratóriumokkal, a tömegtájékoztatási eszközökkel és a rendőrhatóságokkal a speciális intézkedések biztosítása érdekében.
 
-(3)[^67] Klasszikus sertéspestis járványkitörés estén a minisztérium haladéktalanul helyi járványvédelmi központokat szerveztet az élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal.
+(3) Klasszikus sertéspestis járványkitörés esetén a megyei kormányhivatal haladéktalanul helyi járványvédelmi központot hoz létre.
 
-(4) A nemzeti járványvédelmi központ bizonyos feladatai a helyi járványvédelmi központnak átadhatók.
+(4) Az országos járványvédelmi központ bizonyos feladatai a helyi járványvédelmi központnak átadhatók.
 
-(5)[^68] A minisztériumnak létre kell hoznia egy folyamatosan működő szakértői csoportot, amely segíti az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot a klasszikus sertéspestis elleni védekezésben. Járványkitörés esetén a szakértői csoport segítséget nyújt az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak:
+(5) Az országos főállatorvosnak állatorvosokból, vadászokból, vadbiológusokból és járványügyi szakértőkből létre kell hoznia egy folyamatosan működő nemzeti szakértői csoportot, amely segíti a megyei kormányhivatalokat a klasszikus sertéspestis elleni védekezésben.
+
+(6) A nemzeti szakértői csoport a klasszikus sertéspestisnek a vaddisznókban való megállapítása esetén:
+
+a) tanulmányozza a járványhelyzetet, és javaslatot tesz a fertőzött terület meghatározására,
+
+b) javaslatot tesz a fertőzött területen a 17. § (2) bekezdés a) pont aa)–ah) alpontokban foglaltakon túl alkalmazandó intézkedésekre, amelyek magukban foglalhatják a vadászat felfüggesztését,
+
+c) javaslatokat ad a megyei kormányhivatalnak a betegség felszámolására vonatkozó terv összeállításával kapcsolatosan,
+
+d) segítséget nyújt a megyei kormányhivatalnak a klasszikus sertéspestisnek a fertőzött területen történő felszámolására hozott intézkedések hatékonyságának igazolása érdekében végzett ellenőrzések során.
+
+(7) Járványkitörés esetén a nemzeti szakértői csoport segítséget nyújt az országos és helyi járványvédelmi központoknak
 
 a) a járványvédelmi vizsgálatban;
 
 b) a laboratóriumi minták vételében, feldolgozásában és értékelésében;
 
-c) a járványvédelmi intézkedések meghozatalában.
+c) a járványvédelmi intézkedések meghozatalában, különös tekintettel a leküzdés során alkalmazandó eljárások tökélesítésére és továbbfejlesztésére.
 
-(6) A minisztérium biztosítja a nemzeti, a helyi járványvédelmi központok és a szakértői csoport számára a személyzetet, helyiségeket és eszközöket, beleértve a szükséges kommunikációs eszközöket, tiszta és hatékony utasítási láncot és ügyvitelt, az e rendeletben meghatározott járványvédelmi intézkedések azonnali végrehajtása érdekében. A nemzeti és a helyi járványvédelmi központok, valamint a szakértői csoport személyzetének, helyiségeinek, eszközeinek, utasítási láncának és ügyvitelének részleteit a 26. § szerinti készenléti tervben kell meghatározni.
+(8) A NÉBIH biztosítja az országos járványvédelmi központ és a nemzeti szakértői csoport számára a személyzetet, helyiségeket és eszközöket, beleértve a hatékony ügyvitelhez szükséges kommunikációs eszközöket, az e rendeletben meghatározott járványvédelmi intézkedések azonnali végrehajtása érdekében. A helyi járványvédelmi központ személyzetét, helyiségeit és eszközeit, beleértve a szükséges kommunikációs eszközöket a megyei kormányhivatal biztosítja. Az országos és a helyi járványvédelmi központok, valamint a nemzeti szakértői csoport személyzetének, helyiségeinek, eszközeinek, utasítási láncának és ügyvitelének részleteit a 26. § szerinti országos készenléti tervben kell meghatározni.
 
-(7) A nemzeti és a helyi járványvédelmi központok, valamint a szakértői csoport működéséhez és funkciójához szükséges további szempontok határozhatók meg.
+(9) Az országos főállatorvos az országos és a helyi járványvédelmi központok, valamint a nemzeti szakértői csoport működéséhez és funkciójához szükséges további szempontokat határozhat meg.
 
-[^67]: A 27. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § q) pontja szerint módosított szöveg.
-[^68]: A 27. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § n) és r) pontja szerint módosított szöveg.
+[^84]: A 27. §-t megelőző alcím a 46/2015. (VIII. 7.) FM rendelet 7. §-ával megállapított szöveg.
+[^85]: A 27. § a 46/2015. (VIII. 7.) FM rendelet 7. §-ával megállapított szöveg.

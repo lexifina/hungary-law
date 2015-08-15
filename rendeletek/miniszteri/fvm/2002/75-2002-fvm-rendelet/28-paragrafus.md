@@ -6,6 +6,6 @@ a) tilos az élelmiszer-hulladék feletetése sertésekkel;
 
 b) a nemzetközi közúti, vasúti, légi és vízi személy- és teherszállításoknál keletkező élelmiszer-hulladékot össze kell gyűjteni és hatósági felügyelet mellett ártalmatlanná kell tenni.
 
-(2)[^69] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az (1) bekezdésben foglaltakról minden évben jelentést tesz a minisztériumnak.
+(2)[^86] A megyei kormányhivatal az (1) bekezdésben foglaltakról minden évben jelentést tesz a NÉBIH-nek.
 
-[^69]: A 28. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^86]: A 28. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 11. és 16. pontja szerint módosított szöveg.

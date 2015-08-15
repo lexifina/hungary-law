@@ -1,8 +1,8 @@
 ## Tervek a klasszikus sertéspestisnek egy vaddisznóállományban történő felszámolására
 
-18. § (1)[^55] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság – a 17. §-ban meghatározott intézkedések sérelme nélkül – a klasszikus sertéspestis vaddisznókban történt első előfordulásának megállapítását követő 90 napon belül írásos tervezetet nyújt be a minisztériumnak, a fertőzöttnek nyilvánított területen a betegség felszámolására és a területen található gazdaságok sertésállományainak megvédésére.
+18. § (1)[^57] A nemzeti szakértői csoport javaslata alapján a megyei kormányhivatal – a klasszikus sertéspestis vaddisznókban való első megállapításától számított – 30 napon belül összeállítja a betegség felszámolására vonatkozó tervet és megküldi felülvizsgálatra a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH). A NÉBIH a tervezetet további 30 napon belül véleményezi, szükség esetén módosítja és jóváhagyásra az országos főállatorvos elé terjeszti. A jóváhagyott felszámolási tervet az országos főállatorvos megküldi a Bizottságnak. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
 
-(2) A minisztérium a tervet megvizsgálja és megállapítja, hogy annak alapján a kívánt cél elérhető-e. A tervet – szükség esetén módosításokkal – jóváhagyja. A terv később – a szerzett tapasztalatok figyelembevételével – módosítható vagy kiegészíthető.
+(2)[^58]
 
 (3) Az (1) bekezdés szerinti terv jóváhagyása után az abban foglalt intézkedések felváltják a 17. §-ban meghatározott bevezető intézkedéseket.
 
@@ -10,7 +10,7 @@
 
 a) a 17. § szerint végzett járványtani vizsgálatok és ellenőrzések eredményeiről, valamint a betegség földrajzi eloszlásáról;
 
-b)[^56] a fertőzött terület kiterjedéséről, melynek meghatározásakor az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
+b)[^59] a fertőzött terület kiterjedéséről, melynek meghatározásakor a megyei kormányhivatal az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
 
 ba) a terület vaddisznóállománya,
 
@@ -54,11 +54,14 @@ m) a megállapított kiterjedésű fertőzött területen fennálló betegség f
 
 n) a terv végrehajtásáért és a koordinációért felelős hatósági állatorvos személyéről;
 
-o) olyan rendszerről, amelynek alapján a 17. § (2) bekezdése szerint kijelölt szakértői csoport rendszeresen át tudja tekinteni a betegség-felszámolási terv eredményeit;
+o)[^60] olyan rendszerről, amelynek alapján a nemzeti szakértői csoport rendszeresen át tudja tekinteni a betegség-felszámolási terv eredményeit;
 
 p) a betegség monitorozására szolgáló intézkedésekről, amelyek akkor lépnek életbe, amikor az adott fertőzött területen legalább 12 hónap eltelt a klasszikus sertéspestis utolsó, vaddisznókban megállapított előfordulása után; ezeket a monitoring intézkedéseket legalább tizenkét hónapig kell fenntartani, és tartalmazniuk kell legalább azokat az intézkedéseket, amelyek a g) és k) pontok szerint már életbe léptek.
 
-(5) Az adott fertőzött területen lévő járványügyi helyzetet és a betegség felszámolási terv eredményeit a minisztériumnak hathavonta kell benyújtani.
+(5)[^61] Az adott fertőzött területen lévő járványügyi helyzetet és a betegség felszámolási terv eredményeit a NÉBIH-nek hathavonta kell benyújtani.
 
-[^55]: A 18. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
-[^56]: A 18. § (4) bekezdés b) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § e) pontja szerint módosított szöveg.
+[^57]: A 18. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 3. §-ával megállapított szöveg.
+[^58]: A 18. § (2) bekezdését a 46/2015. (VIII. 7.) FM rendelet 9. § a) pontja hatályon kívül helyezte.
+[^59]: A 18. § (4) bekezdés b) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja szerint módosított szöveg.
+[^60]: A 18. § (4) bekezdés o) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 15. pontja szerint módosított szöveg.
+[^61]: A 18. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 16. pontja szerint módosított szöveg.

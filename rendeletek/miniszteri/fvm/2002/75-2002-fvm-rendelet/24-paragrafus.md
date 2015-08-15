@@ -2,7 +2,7 @@
 
 24. § (1) A 20. § (1) bekezdésében foglalt rendelkezés ellenére, ha vaddisznókban megállapítják a klasszikus sertéspestist, és a rendelkezésre álló járványügyi adatok arra utalnak, hogy fennáll a terjedés veszélye, a (2) és (3) bekezdésekben szabályozott eljárásoknak és rendelkezéseknek megfelelően alkalmazható a vaddisznók vészvakcinázása.
 
-(2)[^66] Ha a minisztérium vakcinázást kíván elrendelni, a területileg illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósággal vészvakcinázási tervet kell készíttetni az alábbi szempontok szerint:
+(2)[^75] Ha az országos főállatorvos vakcinázást kíván elrendelni, a területileg illetékes megyei kormányhivatallal vészvakcinázási tervet kell készíttetni az alábbi szempontok szerint:
 
 a) a vészvakcinázás iránti kérelemre okot adó járványhelyzet;
 
@@ -24,16 +24,19 @@ i) a vakcinázási kampány várható eredményei és a vakcinázás hatékonys�
 
 j) a terv végrehajtásáért felelős felügyelő és koordináló hatósági állatorvos;
 
-k) az olyan céllal kialakított rendszer, hogy a 17. § (2) bekezdésének a) pontja alapján kijelölt szakértői csoport rendszeresen át tudja tekinteni a vakcinázási kampány eredményeit;
+k)[^76] az olyan céllal kialakított rendszer, hogy a nemzeti szakértői csoport rendszeresen át tudja tekinteni a vakcinázási kampány eredményeit;
 
 l) a vészhelyzettel kapcsolatos egyéb kérdések.
 
-(3) A minisztérium haladéktalanul megvizsgálja a tervet, elsősorban azért, hogy az összhangban legyen a 18. § (1) bekezdése szerinti betegség-felszámolási terv alapján hozott intézkedésekkel.
+(3)[^77] Az illetékes megyei kormányhivatal felülvizsgálatra megküldi a tervet a NÉBIH-nek. A NÉBIH haladéktalanul megvizsgálja a tervet, elsősorban azért, hogy az összhangban legyen a 18. § (1) bekezdése szerinti betegség-felszámolási terv alapján hozott intézkedésekkel. Ha a NÉBIH megfelelőnek találja a vészvakcinázási tervet, akkor jóváhagyásra megküldi az országos főállatorvosnak, ellenkező esetben átdolgozásra visszaküldi a megyei kormányhivatalnak. Az országos főállatorvos a jóváhagyott vészvakcinázási tervet megküldi a Bizottságnak.
 
 (4) Ha a vakcinázási övezet egy másik állam területéhez közel esik, ahol szintén hatályban vannak vaddisznókban előforduló klasszikus sertéspestis felszámolására hozott intézkedések, biztosítani kell a vakcinázási terv és a más államban alkalmazott intézkedések közötti összhangot.
 
 (5) A vészvakcinázási terv a helyzet alakulásától függően a (3)–(4) bekezdésben foglaltaknak megfelelően később módosítható vagy kiegészíthető.
 
-(6) A vakcinázási terv eredményeit bemutató jelentést – a 18. § (4) bekezdésében említett jelentéssel együtt – a minisztériumnak hat havonta be kell nyújtani.
+(6)[^78] A vakcinázási terv eredményeit bemutató jelentést – a 18. § (4) bekezdésében említett jelentéssel együtt – a NÉBIH-nek hat havonta be kell nyújtani.
 
-[^66]: A 24. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § q) pontja szerint módosított szöveg.
+[^75]: A 24. § (2) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 7. és 20. pontja szerint módosított szöveg.
+[^76]: A 24. § (2) bekezdés k) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 21. pontja szerint módosított szöveg.
+[^77]: A 24. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 6. §-ával megállapított szöveg.
+[^78]: A 24. § (6) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 16. pontja szerint módosított szöveg.

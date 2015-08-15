@@ -10,7 +10,7 @@
 
 3. gazdaság: bármely mezőgazdasági vagy egyéb épület, épületegyüttes, ahol állandó vagy ideiglenes jelleggel sertéseket tenyésztenek vagy tartanak;
 
-4. diagnosztikai kézikönyv: a klasszikus sertéspestis egységes diagnosztikai eljárásokkal történő kimutatását biztosító, a 19. § (4) bekezdése szerinti kézikönyv;
+4.[^4] diagnosztikai kézikönyv: a klasszikus sertéspestis megállapítására szolgáló diagnosztikai eljárásokat, mintavételi módszereket és a laboratóriumi vizsgálati eredmények értékelési szempontjait megállapító diagnosztikai kézikönyv jóváhagyásáról szóló, 2002. február 1-jei 2002/106/EK bizottsági határozat mellékleteként kiadott eljárási útmutató;
 
 5. klasszikus sertéspestis-fertőzöttségre gyanús sertés: olyan sertés vagy sertéshulla, amelynek klinikai tünetei vagy kórbonctani elváltozásai, illetve a diagnosztikai kézikönyv alapján végzett laboratóriumi vizsgálatának eredményei a klasszikus sertéspestis esetleges előfordulására utalnak;
 
@@ -32,7 +32,7 @@ b) a betegség jelenlétét a diagnosztikai kézikönyvben foglaltak szerint vé
 
 12. fertőzésnek kitett vaddisznó-populáció: olyan vaddisznóállomány, melynek vére nem tartalmaz ellenanyagot a klasszikus sertéspestis vírusával szemben;
 
-13.[^4] sertéstartó: olyan természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek sertés van a tulajdonában, illetve sertést tart;
+13.[^5] sertéstartó: olyan természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek sertés van a tulajdonában, illetve sertést tart;
 
 14. élelmiszer-hulladék: az emberi fogyasztásra szánt élelmiszerekből származó bármely hulladék, amely éttermekből, feldolgozóüzemekből, konyhákból vagy a sertéstartó személy háztartásából kerül ki;
 
@@ -50,4 +50,5 @@ b) a betegség jelenlétét a diagnosztikai kézikönyvben foglaltak szerint vé
 
 21. jelzősertés: az a sertés, amelyet a klasszikus sertéspestis vírusával szembeni ellenanyagok jelenlétére megvizsgáltak és negatívnak találtak, vagy amely a zárlat alatt álló területen kívüli gazdaságból származik.
 
-[^4]: A 2. § 13. pontja a 22/2014. (III. 14.) VM rendelet 12. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 4. pontja a 46/2015. (VIII. 7.) FM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § 13. pontja a 22/2014. (III. 14.) VM rendelet 12. § b) pontja szerint módosított szöveg.
