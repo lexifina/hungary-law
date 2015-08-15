@@ -1,3 +1,3 @@
-## 106. §[^258] Az e rendeletben foglalt hatósági eljárásokban közreműködő egyes európai közösségi intézmények elérhetőségét a NÉBIH honlapján közzéteszi.
+## 106. §[^260] Az e rendeletben foglalt hatósági eljárásokban közreműködő egyes európai közösségi intézmények elérhetőségét a NÉBIH honlapján közzéteszi.
 
-[^258]: A 106. § a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^260]: A 106. § a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

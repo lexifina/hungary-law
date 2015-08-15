@@ -162,6 +162,12 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 
 72.[^28] Kábítószerként kezelendő készítmény: a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet 1. melléklet K1, K2 és P2 jegyzékén szereplő, kábítószernek vagy pszichotróp anyagnak minősülő hatóanyagot tartalmazó állatgyógyászati készítmény.
 
+73.[^29] Transzponder: állatgyógyászati segédanyagnak minősülő, csak olvasható, passzív, rádiófrekvenciás, elektronikus azonosító eszköz, mikrochip, amely megfelel
+
+a) a kedvtelésből tartott állatok esetében a kedvtelésből tartott állatok nem kereskedelmi célú mozgásáról és a 998/2003/EK rendelet hatályon kívül helyezésérő szóló, 2013. június 12-i 576/2013/EU európai parlamenti és tanácsi rendelet II. mellékletében,
+
+b) a lófélék esetében a 90/426/EGK és a 90/427/EGK tanácsi irányelvnek a lófélék azonosítási módszereinek tekintetében történő végrehajtásáról szóló 2008. június 6-i 504/2008/EK bizottsági rendelet 2. cikk (2) bekezdés b) pontjában
+
 [^4]: A 3. § a 70/2013. (VII. 31.) VM rendelet 111. § 1. és 2. pontja szerint módosított szöveg.
 [^5]: A 4. § 17a. pontját a 22/2014. (III. 14.) VM rendelet 71. § (1) bekezdése iktatta be.
 [^6]: A 4. § 50. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
@@ -187,3 +193,4 @@ d) kémiai (pl. elemek, a természetben előforduló kémiai anyagok, valamint k
 [^26]: A 4. § 70. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^27]: A 4. § 71. pontját a 33/2010. (IV. 7.) FVM rendelet 2. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^28]: A 4. § 72. pontját a 77/2013. (IX. 10) VM rendelet 1. §-a iktatta be.
+[^29]: A 4. § 73. pontját a 46/2015. (VIII. 7.) FM rendelet 48. §-a iktatta be.

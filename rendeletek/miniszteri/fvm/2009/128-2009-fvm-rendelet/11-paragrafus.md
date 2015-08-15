@@ -6,7 +6,7 @@ b) ezek hiányában
 
 ba) az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló miniszteri rendelet vagy a 726/2004/EK rendelet alapján engedélyezett gyógyszerkészítményt, illetve
 
-bb)[^43] más tagállamban a 2001/82/EK irányelvnek megfelelően ugyanazon állatfajra más bántalomra vagy ugyanazon bántalomra egy másik élelmiszer-termelő állatfaj kezelésére engedélyezett és a NÉBIH 7. § szerinti engedélyével rendelkező állatgyógyászati készítményt, vagy
+bb)[^45] más tagállamban a 2001/82/EK irányelvnek megfelelően ugyanazon állatfajra más bántalomra vagy ugyanazon bántalomra egy másik élelmiszer-termelő állatfaj kezelésére engedélyezett és a NÉBIH 7. § szerinti engedélyével rendelkező állatgyógyászati készítményt, vagy
 
 c) ezek hiányában közforgalmú gyógyszertárban állatorvosi vény alapján a FoNo, FoNoVet, illetve a hatályos Gyógyszerkönyvek előírásainak megfelelően előállított officinális készítményt vagy magisztrális készítményt.
 
@@ -18,7 +18,7 @@ c) ezek hiányában közforgalmú gyógyszertárban állatorvosi vény alapján 
 
 (5) Amennyiben a felhasznált gyógyszeren nincs feltüntetve a kezelendő állatfajra vonatkozó élelmezés-egészségügyi várakozási idő, az állatorvos által előírt élelmezés-egészségügyi várakozási idő nem lehet kevesebb, mint tojás és tej esetében 7 nap, baromfi és emlős állatok ehető szövetei esetében 28 nap, halhús esetében 500 napfok.
 
-(6)[^44] Ha az állatorvos e § előírásait alkalmazza, köteles nyilvántartást vezetni az állatok vizsgálatának időpontjáról, a tulajdonos nevéről, a kezelt állatok tartási helyéről és számáról, a diagnózisról, az alkalmazott készítményekről és adagolásukról, a kezelés időtartamáról és az előírt élelmezés-egészségügyi várakozási időről. A nyilvántartást az állatorvosnak 5 évig meg kell őriznie, és azt a járási állategészségügyi és élelmiszer-ellenőrző hivatal (a továbbiakban: járási állategészségügyi hivatal) által végzett ellenőrzésnél a hatóság rendelkezésére kell bocsátania.
+(6)[^46] Ha az állatorvos e § előírásait alkalmazza, köteles nyilvántartást vezetni az állatok vizsgálatának időpontjáról, a tulajdonos nevéről, a kezelt állatok tartási helyéről és számáról, a diagnózisról, az alkalmazott készítményekről és adagolásukról, a kezelés időtartamáról és az előírt élelmezés-egészségügyi várakozási időről. A nyilvántartást az állatorvosnak 5 évig meg kell őriznie, és azt az állategészségügyi és élelmiszer-ellenőrző hatáskörében eljáró járási hivatal (a továbbiakban: járási hivatal) által végzett ellenőrzésnél a hatóság rendelkezésére kell bocsátania.
 
-[^43]: A 11. § (1) bekezdés b) pont bb) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^44]: A 11. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 7. pontja szerint módosított szöveg.
+[^45]: A 11. § (1) bekezdés b) pont bb) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^46]: A 11. § (6) bekezdése a 46/2015. (VIII. 7.) FM rendelet 52. § 3. pontja szerint módosított szöveg.
