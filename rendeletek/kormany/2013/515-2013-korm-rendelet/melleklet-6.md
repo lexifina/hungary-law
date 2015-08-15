@@ -20,8 +20,8 @@
 
 ## 10. Cégbejegyzési és változásbejegyzési eljárásról tájékoztatás
 
-## 11.[^150] Egységes elektronikuskártya-kibocsátási keretrendszer kártyafelhasználói regisztráció
+## 11.[^196] Egységes elektronikuskártya-kibocsátási keretrendszer kártyafelhasználói regisztráció
 
 6. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^150]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^196]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
