@@ -1,3 +1,6 @@
-1. melléklet a 31/2011. (X. 24.) KIM rendelethez[^14]
+## 4. §[^6] Ez a rendelet a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló, 2003. május 26-i 1059/2003/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^14]: Az 1. melléklet a 13/2013. (VII. 9.) KIM rendelet 3. §-ával megállapított szöveg.
+1. melléklet a 31/2011. (X. 24.) KIM rendelethez[^7]
+
+[^6]: A 4. §-t a 37/2015. (VIII. 12.) MvM rendelet 3. §-a iktatta be.
+[^7]: Az 1. melléklet a 37/2015. (VIII. 12.) MvM rendelet 4. §-ával megállapított szöveg.
