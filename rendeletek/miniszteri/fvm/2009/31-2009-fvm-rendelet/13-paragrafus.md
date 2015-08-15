@@ -1,6 +1,6 @@
-13. § (1)[^44] A NÉBIH készenléti tervet dolgoz ki e rendeletben meghatározott intézkedések alkalmazásának módjáról. A készenléti tervnek legalább a következőkre kell kiterjedniük:
+13. § (1)[^70] A NÉBIH készenléti tervet dolgoz ki e rendeletben meghatározott intézkedések alkalmazásának módjáról. A készenléti tervnek legalább a következőkre kell kiterjedniük:
 
-a) nemzeti járványvédelmi központ felállítása a járványügyi intézkedések összehangolása céljából;
+a)[^71] országos járványvédelmi központ felállítása a járványügyi intézkedések összehangolása céljából;
 
 b) a védelmi intézkedések helyi szinten történő összehangolása céljából megfelelően felszerelt helyi járványvédelmi központok listája;
 
@@ -20,7 +20,11 @@ i) a kéknyelv betegség elleni vakcinák mennyiségére vonatkozó adat, amely 
 
 j) rendelkezések a készenléti terv végrehajtására.
 
-(2)[^45] A NÉBIH a kéknyelv betegségre vonatkozó készenléti tervet jóváhagyásra megküldi az Európai Bizottságnak.
+(2)[^72] A NÉBIH a kéknyelv betegségre vonatkozó készenléti tervet jóváhagyásra megküldi az Európai Bizottságnak.
 
-[^44]: A 13. § (1) bekezdés nyitó szövegrésze a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
-[^45]: A 13. § (2) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
+(3)[^73] A NÉBIH a kéknyelv betegségre fogékony állatok forgalmazásával kapcsolatosan útmutatót adhat ki.
+
+[^70]: A 13. § (1) bekezdés nyitó szövegrésze a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
+[^71]: A 13. § (1) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 46. § 20. pontja szerint módosított szöveg.
+[^72]: A 13. § (2) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
+[^73]: A 13. § (3) bekezdését a 46/2015. (VIII. 7.) FM rendelet 43. §-a iktatta be.
