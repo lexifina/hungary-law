@@ -6,21 +6,21 @@
 
 ## 2. Afrikai sertéspestis
 
-## 3.[^16] Aujeszky-betegség
+## 3.[^18] Aujeszky-betegség
 
 ## 4. Bőrcsomósodáskór
 
 ## 5. Brucellózis (Brucella abortus, Brucella melitensis, Brucella suis)
 
-## 6.[^17]
+## 6.[^19]
 
 ## 7. Hólyagos szájgyulladás
 
 ## 8. Juh- és kecskehimlő (Capripox)
 
-## 9.[^18]
+## 9.[^20]
 
-## 10.[^19] Kéknyelv betegség (Bluetongue)
+## 10.[^21] Kéknyelv betegség (Bluetongue)
 
 ## 11. Keleti marhavész
 
@@ -34,7 +34,7 @@
 
 ## 16. Lovak fertőző kevésvérűsége
 
-## 17.[^20] Lovak járványos agy- és gerincvelő-gyulladásának alábbi típusai:
+## 17.[^22] Lovak járványos agy- és gerincvelő-gyulladásának alábbi típusai:
 
 ## 17.1. Japán encephalitis (Japanese encephalitis)
 
@@ -46,7 +46,7 @@
 
 ## 17.5. Nyugat-nílusi láz (West Nile fever, WNF)
 
-## 18.[^21] Madárinfluenza (HPAI baromfiban, fogságban élő és vadon élő madarakban, LPAI baromfiban és fogságban élő madarakban)
+## 18.[^23] Madárinfluenza (HPAI baromfiban, fogságban élő és vadon élő madarakban, LPAI baromfiban és fogságban élő madarakban)
 
 ## 19. Mézelő méhek nyúlós és enyhébb költésrothadása
 
@@ -82,7 +82,17 @@
 
 ## 35. Veszettség
 
-## 36.[^22] Szarvasok epizootiás haemorrhagiás betegsége
+## 36.[^24] Szarvasok epizootiás haemorrhagiás betegsége
+
+## 37.[^25] Brucella ovis (Camelidae, Tragulidae, Cervidae, Giraffidae, Bovidae és Antilocapridae fajok)
+
+## 38.[^26] Ebola (nem emberi főemlősök)
+
+## 39.[^27] Majomhimlő (Rodentia fajok és nem emberi főemlősök)
+
+## 40.[^28] Fertőző sertésbénulás
+
+## 41.[^29] Psittacosis (Psittaciformes fajok)
 
 ## B. Víziállatokat érintő betegségek
 
@@ -90,13 +100,13 @@
 
 ## 2. Bonamia ostreae-fertőzés
 
-## 3.[^23]
+## 3.[^30]
 
 ## 4. Járványos vérképzőszervi elhalás (Epizootic haematopoietic necrosis, EHN)
 
 ## 5. Koi herpesz vírus betegség
 
-## 6.[^24] Lazacok fertőző vérszegénysége: az ISAV vírusnemzetség HPR-deletált genotípusával való fertőzés
+## 6.[^31] Lazacok fertőző vérszegénysége: az ISAV vírusnemzetség HPR-deletált genotípusával való fertőzés
 
 ## 7. Marteilia refringens-fertőzés
 
@@ -116,15 +126,20 @@
 
 ## 15. Yellowhead-betegség (Yellowhead disease)
 
-2. számú melléklet a 113/2008. (VIII. 30.) FVM rendelethez[^25]
+2. számú melléklet a 113/2008. (VIII. 30.) FVM rendelethez[^32]
 
-[^16]: Az 1. számú melléklet A. pontjának 3. alpontja a 30/2009. (III. 27.) FVM rendelet 26. § (3) bekezdésével megállapított szöveg.
-[^17]: Az 1. számú melléklet A rész 6. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
-[^18]: Az 1. számú melléklet A rész 9. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
-[^19]: Az 1. számú melléklet A. pontjának 10. alpontja a 31/2009. (III. 27.) FVM rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^20]: Az 1. számú melléklet A. rész 17. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^21]: Az 1. számú melléklet A. rész 18. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^22]: Az 1. számú melléklet A. részének 36. pontját a 20/2011. (III. 25.) VM rendelet 4. § (2) bekezdése iktatta be.
-[^23]: Az 1. számú melléklet B rész 3. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
-[^24]: Az 1. számú melléklet B. rész 6. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^25]: A 2. számú melléklet az 51/2013. (VI. 17.) VM rendelet 12. §-ával megállapított szöveg.
+[^18]: Az 1. számú melléklet A. pontjának 3. alpontja a 30/2009. (III. 27.) FVM rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^19]: Az 1. számú melléklet A rész 6. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^20]: Az 1. számú melléklet A rész 9. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^21]: Az 1. számú melléklet A. pontjának 10. alpontja a 31/2009. (III. 27.) FVM rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^22]: Az 1. számú melléklet A. rész 17. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^23]: Az 1. számú melléklet A. rész 18. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^24]: Az 1. számú melléklet A. részének 36. pontját a 20/2011. (III. 25.) VM rendelet 4. § (2) bekezdése iktatta be.
+[^25]: Az 1. melléklet A. pont 37. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^26]: Az 1. melléklet A. pont 38. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^27]: Az 1. melléklet A. pont 39. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^28]: Az 1. melléklet A. pont 40. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^29]: Az 1. melléklet A. pont 41. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^30]: Az 1. számú melléklet B rész 3. pontját az 51/2013. (VI. 17.) VM rendelet 14. §-a hatályon kívül helyezte.
+[^31]: Az 1. számú melléklet B. rész 6. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^32]: A 2. számú melléklet az 51/2013. (VI. 17.) VM rendelet 12. §-ával megállapított szöveg.

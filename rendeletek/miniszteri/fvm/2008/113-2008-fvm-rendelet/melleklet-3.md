@@ -62,6 +62,16 @@
 
 ## 24. Veszettség (Rabies)
 
+## 25.[^33] Brucella ovis (Camelidae, Tragulidae, Cervidae, Giraffidae, Bovidae és Antilocapridae fajok)
+
+## 26.[^34] Ebola (nem emberi főemlősök)
+
+## 27.[^35] Majomhimlő (Rodentia fajok és nem emberi főemlősök)
+
+## 28.[^36] Fertőző sertésbénulás
+
+## 29.[^37] Psittacosis (Psittaciformes fajok)
+
 ## A.2. jegyzék (a 6/A. § szerint jelentendő betegségek listája)
 
 ## 1. Szarvasmarha-brucellózis
@@ -76,7 +86,7 @@
 
 ## 1. Pisztrángfélék fertőző vérképzőszervi elhalása (Infectious haemapoietic necrosis)
 
-## 2.[^26] Lazacok fertőző vérszegénysége: az ISAV vírusnemzetség HPR-deletált genotípusával való fertőzés (Infectious salmon anaemia: infection with genotype HPR- deleted of the genus Isavirus, ISAV)
+## 2.[^38] Lazacok fertőző vérszegénysége: az ISAV vírusnemzetség HPR-deletált genotípusával való fertőzés (Infectious salmon anaemia: infection with genotype HPR- deleted of the genus Isavirus, ISAV)
 
 ## 3. Pisztrángok vírusos vérfertőzése (Viral haemorrhagic septicaemia)
 
@@ -168,4 +178,9 @@ b) a 2. számú melléklet B. részében felsorolt, a víziállatokat érintő m
 
 2. Az 1. pontban nem említett betegségkitöréseket másodlagos kitörésnek kell tekinteni, és havi rendszerességgel kell jelenteni.
 
-[^26]: A 2. számú melléklet B. rész 2. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^33]: A 2. melléklet A.1. jegyzék 25. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^34]: A 2. melléklet A.1. jegyzék 26. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^35]: A 2. melléklet A.1. jegyzék 27. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^36]: A 2. melléklet A.1. jegyzék 28. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^37]: A 2. melléklet A.1. jegyzék 29. alpontját a 46/2015. (VIII. 7.) FM rendelet 25. §-a iktatta be.
+[^38]: A 2. számú melléklet B. rész 2. pontja a 32/2014. (XII. 9.) FM rendelet 7. § (2) bekezdésével megállapított szöveg.
