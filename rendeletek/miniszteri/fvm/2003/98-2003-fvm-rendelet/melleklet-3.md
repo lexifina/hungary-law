@@ -1,6 +1,6 @@
 3. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
 
-## Irányelvek a vektorok felkutatására
+Irányelvek a vektorok felkutatására
 
 I. A vektorok iránti kutatást a sertések élő és pihenőhelyein és a környező területen kell végrehajtani. A vektorok rendszerint régi árnyékos épületekben találhatók, ahol a hőmérsékleti feltételek és a páratartalom megfelelő.
 

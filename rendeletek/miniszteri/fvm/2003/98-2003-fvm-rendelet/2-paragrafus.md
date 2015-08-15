@@ -8,7 +8,7 @@
 
 4. Gazdaság: bármely mezőgazdasági vagy egyéb épület, épületegyüttes, ahol állandó vagy ideiglenes jelleggel sertéseket tenyésztenek vagy tartanak, ez a meghatározás azonban nem vonatkozik a vágóhidakon, valamint közlekedési eszközökön és vadászati célra bekerített területen vaddisznót tartó vadasparkra.
 
-5. Diagnosztikai kézikönyv: az afrikai sertéspestis egységes diagnosztikai eljárásokkal történő kimutatását biztosító, a 18. § (3) bekezdése szerinti kézikönyv.
+5.[^2] Diagnosztikai kézikönyv: az afrikai sertéspestis diagnosztikai kézikönyvének jóváhagyásáról szóló, 2003. május 26-i 2003/422/EK bizottsági határozat mellékleteként kiadott, az afrikai sertéspestis egységes diagnosztikai eljárásokkal történő kimutatását biztosító eljárási útmutató.
 
 6. Afrikai sertéspestis-fertőzöttségre gyanús sertés: olyan sertés vagy sertéshulla, amelynek klinikai tünetei vagy kórbonctani elváltozásai, illetve a diagnosztikai kézikönyv alapján végzett laboratóriumi vizsgálatának eredményei az afrikai sertéspestis esetleges előfordulására utalnak.
 
@@ -24,7 +24,7 @@
 
 12. Kontaktgazdaság: olyan gazdaság, ahová az afrikai sertéspestist – akár az elhelyezkedése okán, akár személyek, sertések vagy járművek mozgása eredményeképpen vagy bármely egyéb módon – behurcolhatták.
 
-13.[^2] Sertéstartó: olyan természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek sertés van a tulajdonában, illetve sertést tart.
+13.[^3] Sertéstartó: olyan természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek sertés van a tulajdonában, illetve sertést tart.
 
 14. Ártalmatlanítás: a fertőzési veszélyt jelentő anyagok engedélyezett üzemben történő feldolgozással, vagy elégetéssel történő kezelését vagy elásását jelenti oly módon, hogy az afrikai sertéspestis vírusának terjedése elkerülhetővé válik.
 
@@ -32,6 +32,8 @@
 
 16. Levágás: az állat halálának elvéreztetés útján történő előidézése.
 
-17. Vektor: az Ornithodorus erraticus fajba tartozó kullancs.
+17.[^4] Vektor: az Ornithodoros erraticus fajba tartozó kullancs.
 
-[^2]: A 2. § 13. pontja a 22/2014. (III. 14.) VM rendelet 16. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § 5. pontja a 46/2015. (VIII. 7.) FM rendelet 10. §-ával megállapított szöveg.
+[^3]: A 2. § 13. pontja a 22/2014. (III. 14.) VM rendelet 16. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § 17. pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 1. pontja szerint módosított szöveg.

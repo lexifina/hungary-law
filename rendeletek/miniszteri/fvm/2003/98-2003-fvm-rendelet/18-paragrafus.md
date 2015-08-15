@@ -1,22 +1,30 @@
-## Diagnosztikai eljárások és a biológiai biztonsággal kapcsolatos követelmények
+## Az afrikai sertéspestis nemzeti referencia laboratóriumának feladatai, kutatások végzése[^75]
 
-18. § (1)[^70] A szabványok és diagnosztikai módszerek koordinációjáért felelős nemzeti laboratórium a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH).
+18. §[^76] (1) Az afrikai sertéspestis nemzeti referencia laboratóriuma (a továbbiakban: NRL) felelős azért, hogy az afrikai sertéspestis jelenlétének kimutatására és a vírusizolátumok genotípusának azonosítására szolgáló laboratóriumi vizsgálatokat a diagnosztikai kézikönyv alapján végezzék el. Ebből a célból külön megállapodásokat köthet a közösségi referencialaboratóriummal és a többi tagállam nemzeti referencia laboratóriumával.
 
-(2) Biztosítani kell, hogy az afrikai sertéspestis jelenlétének kimutatására szolgáló mintavételek és vizsgálatok a diagnosztikai kézikönyv alapján történjenek.
+(2) Az NRL felelős a betegséggel kapcsolatos vizsgálatokat végző laboratóriumokban alkalmazott szabványok és diagnosztikai módszerek összehangolásáért. Ebből a célból:
 
-(3) Az afrikai sertéspestis egységes diagnosztikai eljárásokkal történő kimutatásának és a klasszikus sertéspestistől történő megfelelő elkülönítésének biztosítása céljából ezen rendelet hatálybalépésének időpontját követő 2 hónapon belül afrikai sertéspestis diagnosztikai kézikönyvet kell kiadni, amely a következőket tartalmazza az afrikai sertéspestis:
+a) elvégzi az afrikai sertéspestis diagnosztizálásával kapcsolatos vizsgálatokat;
 
-a) diagnosztikai laboratóriumai által, valamint a mintaszállítás során betartandó alapvető biológiai biztonsági követelményeket;
+b) diagnosztikai reagensekkel láthatja el az egyes laboratóriumokat;
 
-b) jelenlétének kimutatása vagy kizárása céljából végzett klinikai vagy post-mortem vizsgálatok feltételeit és a követendő eljárásokat;
+c) ellenőrzi a használatos valamennyi diagnosztikai reagens minőségét;
 
-c) laboratóriumi vizsgálatokkal történő megállapítása vagy kizárása céljából, élő sertésből és sertéshullából való mintavételt, valamint e rendelet alkalmazása során a virológiai és szerológiai szűrővizsgálatokhoz szükséges mintavételt;
+d) rendszeres időközönként összehasonlító vizsgálatokat végez;
 
-d) izolátumok genotípusának megállapítására szolgáló laboratóriumi vizsgálatok eredményeinek értékelését;
+e) megőrzi az afrikai sertéspestis hazai megállapított eseteiből származó vírusizolátumokat;
 
-e) izolátumok genotípusának megállapítására szolgáló laboratóriumi technikákat.
+f) együttműködik az afrikai sertéspestis közösségi referencialaboratóriumával.
 
-(4)[^71] A megfelelő biológiai biztonság érdekében az afrikai sertéspestis vírusán és annak genomján, antigénjén és vakcinákon a kutatás, a diagnosztika és a gyártásra történő felhasználás során beavatkozást csak a VM által jóváhagyott intézményben lehet végezni.
+(3) Az NRL feladatait a NÉBIH Állategészségügyi Diagnosztikai Igazgatóságának budapesti laboratóriuma látja el.
 
-[^70]: A 18. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 23. pontja szerint módosított szöveg.
-[^71]: A 18. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
+(4) Az NRL az (5) és (6) bekezdésben foglalt kivétellel kizárólagosan végzi az e rendeletben előírt hatósági laboratóriumi vizsgálatokat.
+
+(5) A NÉBIH Állategészségügyi Diagnosztikai Igazgatóság debreceni és kaposvári laboratóriumai részt vesznek a szerodiagnosztikai vizsgálatok végrehajtásában, különös tekintettel a járványügyi felmérő, illetve a monitoring programok keretében történő vizsgálatokra.
+
+(6) Az országos főállatorvos – a NÉBIH szakvéleménye alapján – maximum 5 év időtartamra más laboratóriumnak is engedélyt adhat a szerodiagnosztikai vizsgálatok elvégzésére.
+
+(7) A megfelelő biológiai biztonság érdekében az afrikai sertéspestis vírusán és annak genomján, antigénjén és vakcinákon a kutatás, a diagnosztika és a gyártásra történő felhasználás során beavatkozást csak az országos főállatorvos által jóváhagyott intézményben lehet végezni.
+
+[^75]: A 18. §-t megelőző alcím a 46/2015. (VIII. 7.) FM rendelet 17. §-ával megállapított szöveg.
+[^76]: A 18. § a 46/2015. (VIII. 7.) FM rendelet 18. §-ával megállapított szöveg.

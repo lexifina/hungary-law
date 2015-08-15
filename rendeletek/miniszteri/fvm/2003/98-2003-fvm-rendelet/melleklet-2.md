@@ -1,12 +1,12 @@
 2. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
 
-## A takarítás, fertőtlenítés és az insecticidekkel való kezelés elvei és módszerei
+A takarítás, fertőtlenítés és az insecticidekkel való kezelés elvei és módszerei
 
 1. Általános elvek és eljárások:
 
 a) a takarítást és fertőtlenítést hatósági állatorvos felügyelete és utasítása alapján kell végezni;
 
-b)[^86] az alkalmazott fertőtlenítőszereket és koncentrációit az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság hagyja jóvá;
+b)[^90] az alkalmazott fertőtlenítőszereket és koncentrációit a megyei kormányhivatal hagyja jóvá;
 
 c) a fertőtlenítőszerek aktivitását felhasználás előtt ellenőrizni kell, mivel bizonyos fertőtlenítőszerek hatása a hosszú tárolás során megszűnik;
 
@@ -66,4 +66,4 @@ b) a hígtrágyát a fertőzött anyag utolsó kibocsátása után legalább 42 
 
 4. Az 1. és 2. pontok alóli felmentéssel, szabad tartású gazdaságok esetében, az illetékes hatóság különleges takarítási és fertőtlenítési eljárást fogadhat el, figyelembe véve a telep típusát és az időjárási körülményeket.
 
-[^86]: A 2. számú melléklet 1. pont b) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 11. pontja szerint módosított szöveg.
+[^90]: A 2. számú melléklet 1. pont b) alpontja a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.

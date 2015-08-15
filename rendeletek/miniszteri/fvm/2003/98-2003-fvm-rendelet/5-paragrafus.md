@@ -1,6 +1,6 @@
 ## Afrikai sertéspestis megállapítása esetén hozandó intézkedések
 
-5. § (1)[^11] Ha az afrikai sertéspestis fertőzöttség gyanúját a laboratóriumi vizsgálatok megerősítik, a járási főállatorvos a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
+5. § (1)[^13] Ha az afrikai sertéspestis fertőzöttséget a laboratóriumi vizsgálatok megerősítik, a járási hivatal a betegséget hivatalosan megállapítja, és helyi zárlatot rendel el. A helyi zárlat a 4. § (2) bekezdésében foglaltakon túl a következőkre terjed ki:
 
 a) valamennyi, a gazdaságban található sertést késedelem nélkül, hatósági állatorvos felügyelete mellett le kell ölni oly módon, hogy az afrikai sertéspestis vírusának a leölés során történő terjedési kockázata kizárható legyen;
 
@@ -28,10 +28,10 @@ l) a 8. § szerint járványügyi vizsgálatot kell végezni;
 
 m) a betegség megállapításáról a települési (fővárosban a fővárosi kerületi) önkormányzat jegyzőjét mielőbb értesíteni kell.
 
-(2)[^12] Amennyiben a betegség kitörését laboratóriumban, állatkertben, vadasparkban vagy olyan bekerített területen állapítják meg, ahol tudományos, illetve ritka fajták védelmére szolgáló céllal tartanak sertéseket, a VM az (1) bekezdés a) és g) pontjában foglaltaktól eltérően rendelkezhet, a járványvédelem alapvető érdekeinek figyelembevételével.
+(2)[^14] Amennyiben a betegség kitörését laboratóriumban, állatkertben, vadasparkban vagy olyan bekerített területen állapítják meg, ahol tudományos, illetve ritka fajták védelmére szolgáló céllal tartanak sertéseket, az országos főállatorvos az (1) bekezdés a) és g) pontjában foglaltaktól eltérően rendelkezhet, a járványvédelem alapvető érdekeinek figyelembevételével.
 
-(3)[^13] A (2) bekezdés szerinti döntésről a VM haladéktalanul tájékoztatja a Bizottságot.
+(3)[^15] A (2) bekezdés szerinti döntésről az országos főállatorvos haladéktalanul tájékoztatja a Bizottságot.
 
-[^11]: Az 5. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
-[^12]: Az 5. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
-[^13]: Az 5. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
+[^13]: Az 5. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 5–6. pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
+[^15]: Az 5. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.

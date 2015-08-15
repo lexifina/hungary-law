@@ -1,8 +1,8 @@
 ## Afrikai sertéspestis gyanúja esetén hozandó intézkedések
 
-4. § (1)[^6] Ha a járási főállatorvos afrikai sertéspestis megbetegedésről vagy annak gyanújáról értesül, köteles haladéktalanul hatósági állatorvost küldeni a helyszínre, aki a diagnosztikai kézikönyvben ismertetett eljárásoknak megfelelően megkezdi a betegség megállapítására vagy kizárására irányuló vizsgálatokat. A hatósági állatorvosnak a gazdaságban ellenőriznie kell a sertésnyilvántartást és a sertések azonosítására szolgáló megjelöléseket.
+4. § (1)[^8] Ha a járási hivatal afrikai sertéspestis megbetegedésről vagy annak gyanújáról értesül, köteles haladéktalanul hatósági állatorvost küldeni a helyszínre, aki a diagnosztikai kézikönyvben ismertetett eljárásoknak megfelelően megkezdi a betegség megállapítására vagy kizárására irányuló vizsgálatokat. A hatósági állatorvosnak a gazdaságban ellenőriznie kell a sertésnyilvántartást és a sertések azonosítására szolgáló megjelöléseket.
 
-(2)[^7] Amennyiben a hatósági állatorvos a fertőzöttséget vagy a fertőzöttség gyanúját kizárni nem tudja, a járási főállatorvos a gazdaság hatósági megfigyelését rendeli el az alábbi intézkedések szerint:
+(2)[^9] Amennyiben a hatósági állatorvos a fertőzöttséget vagy a fertőzöttség gyanúját kizárni nem tudja, a járási hivatal a gazdaság hatósági megfigyelését rendeli el az alábbi intézkedések szerint:
 
 a) a gazdaságban található sertéseket korcsoport szerint nyilvántartásba kell venni, a nyilvántartást naprakészen kell vezetni, beszámítva a fertőzésgyanús időszak alatt történt elléseket és elhullásokat is, és minden korcsoportban fel kell tüntetni a beteg, elhullott vagy feltehetően fertőzött sertések számát;
 
@@ -10,7 +10,7 @@ b) a nyilvántartást a hatósági állatorvosnak minden látogatáskor ellenőr
 
 c) a gazdaságban lévő összes sertést a szállásában kell tartani vagy a gazdaságon belül olyan helyre kell elzárni, ahol el lehet különíteni a fertőzöttségre gyanús állatokat;
 
-d)[^8] a gazdaságba nem hozható be, illetve onnan nem vihető ki sertés, továbbá a járási főállatorvos az állatmozgások tilalmát szükség esetén kiterjesztheti más állatfajokra is;
+d)[^10] a gazdaságba nem hozható be, illetve onnan nem vihető ki sertés, továbbá a járási hivatal az állatmozgások tilalmát szükség esetén kiterjesztheti más állatfajokra is;
 
 e) a hatósági állatorvos engedélye nélkül a gazdaságból nem vihető ki a sertéshús, sertéshúskészítmény, -ondó, -petesejt, -embrió, takarmány, eszközök, anyagok, sertéshulla vagy olyan hulladék, amely feltételezhetően terjesztheti az afrikai sertéspestist, továbbá azok nem bocsáthatók kereskedelmi forgalomba sem;
 
@@ -24,16 +24,16 @@ i) a 8. § szerint járványügyi vizsgálatot kell végezni.
 
 (3) A (2) bekezdésben felsorolt intézkedéseket addig nem lehet feloldani, amíg az afrikai sertéspestis gyanúját hivatalosan ki nem zárták.
 
-(4)[^9] Ahol a járványügyi helyzet megkívánja, a járási főállatorvos:
+(4)[^11] Ahol a járványügyi helyzet megkívánja, a járási hivatal:
 
 a) a (2) bekezdés szerinti gazdaságban foganatosíthatja az 5. § (1) bekezdésében felsorolt intézkedéseket;
 
-b)[^10] védőkörzetet rendelhet el a (2) bekezdésben említett gazdaság körül.
+b)[^12] védőkörzetet rendelhet el a (2) bekezdésben említett gazdaság körül.
 
 (5) Az 5. § (1) bekezdésében felsorolt intézkedések alkalmazását csak az afrikai sertéspestis vírusával fertőzött vagy fertőzöttségre gyanús sertésekre, illetve tartási helyükre korlátozhatja, ha ezeket a sertéseket a gazdaságban tartott többi sertéstől teljesen elkülönítve tartják, gondozzák és takarmányozzák. A leölésre kerülő sertésekből a diagnosztikai kézikönyv által előírt számú vérmintát kell venni, az afrikai sertéspestis vírusa jelenlétének megállapítása vagy kizárása céljából.
 
-[^6]: A 4. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
-[^7]: A 4. § (2) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
-[^8]: A 4. § (2) bekezdés d) pontja a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
-[^9]: A 4. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 20. § b) pontja szerint módosított szöveg.
-[^10]: A 4. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 3. pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdés d) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
+[^12]: A 4. § (4) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 3. pontja szerint módosított szöveg.

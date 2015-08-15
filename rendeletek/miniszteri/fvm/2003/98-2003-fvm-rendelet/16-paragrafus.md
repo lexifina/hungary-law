@@ -1,6 +1,6 @@
 ## Tervek az afrikai sertéspestisnek egy vaddisznóállományban történő felszámolására
 
-16. §[^64] (1)[^65] A VM – a 15. §-ban meghatározott intézkedések sérelme nélkül – az afrikai sertéspestis vaddisznókban történt első előfordulásának megállapítását követő 90 napon belül írásos tervezetet nyújt be a Bizottságnak, a fertőzöttnek nyilvánított területen a betegség felszámolására és a területen található gazdaságok sertésállományainak megvédésére. A Bizottság a tervet megvizsgálja és megállapítja, hogy annak alapján a kívánt cél elérhető-e, és a tervet jóváhagyja. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
+16. §[^68] (1)[^69] A nemzeti szakértői csoport javaslata alapján a megyei kormányhivatal – az afrikai sertéspestis vaddisznókban való első megállapításától számított – 30 napon belül összeállítja a betegség felszámolására vonatkozó tervet és felülvizsgálatra a NÉBIH-nek megküldi. A NÉBIH a tervezetet 30 napon belül véleményezi, szükség esetén módosítja és jóváhagyásra az országos főállatorvos elé terjeszti. A jóváhagyott felszámolási tervet az országos főállatorvos megküldi a Bizottságnak. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
 
 (2) Az (1) bekezdés szerinti terv jóváhagyása után az abban foglalt intézkedések felváltják a 15. §-ban meghatározott bevezető intézkedéseket.
 
@@ -8,7 +8,7 @@
 
 a) a 15. § szerint végzett járványügyi vizsgálatok és ellenőrzések eredményeiről, valamint a betegség földrajzi elterjedéséről;
 
-b)[^66] a fertőzött terület kiterjedéséről, melynek meghatározásakor az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
+b)[^70] a fertőzött terület kiterjedéséről, melynek meghatározásakor a megyei kormányhivatal az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
 
 ba) a terület vaddisznóállományát,
 
@@ -46,15 +46,16 @@ j) azokról a kritériumokról, melyek a foganatosított intézkedések megszün
 
 k) a terv végrehajtásáért és a koordinációért felelős hatósági állatorvos személyéről;
 
-l) olyan rendszerről, amelynek alapján a 15. § (2) bekezdése a) pontja szerint kijelölt szakértői csoport rendszeresen át tudja tekinteni a betegségfelszámolási terv eredményeit;
+l)[^71] olyan rendszerről, amelynek alapján a nemzeti szakértői csoport rendszeresen át tudja tekinteni a betegségfelszámolási terv eredményeit;
 
 m) a betegség monitorozására szolgáló intézkedésekről, amelyek akkor lépnek életbe, amikor az adott fertőzött területen legalább 12 hónap eltelt az afrikai sertéspestis utolsó, vaddisznókban megállapított előfordulása után.
 
 (4) A monitoring intézkedéseket legalább tizenkét hónapig kell fenntartani, és tartalmazniuk kell legalább azokat az intézkedéseket, amelyek a (3) bekezdés g) és h) pontok szerint már folynak.
 
-(5)[^67] Az adott fertőzött területen lévő járványügyi helyzetről és a betegségfelszámolási terv eredményeiről a VM hathavonta tájékoztatja a Bizottságot.
+(5)[^72] Az adott fertőzött területen lévő járványügyi helyzetről és a betegségfelszámolási terv eredményeiről az országos főállatorvos hathavonta tájékoztatja a Bizottságot.
 
-[^64]: A 16. § a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
-[^65]: A 16. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
-[^66]: A 16. § (3) bekezdés b) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 11. pontja szerint módosított szöveg.
-[^67]: A 16. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
+[^68]: A 16. § a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^69]: A 16. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 16. §-ával megállapított szöveg.
+[^70]: A 16. § (3) bekezdés b) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
+[^71]: A 16. § (3) bekezdés l) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 14. pontja szerint módosított szöveg.
+[^72]: A 16. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.

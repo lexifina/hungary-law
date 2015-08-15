@@ -10,7 +10,7 @@
 
 ## d) szükség esetén az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni tevékenység valamennyi stratégiájának irányításáért;
 
-## e)[^88] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság vezetőjének tagnak kell lennie ebben a szervben és meg kell valósítania az összeköttetést a központi döntéshozó szerv és nemzeti járványvédelmi központ között;
+## e)[^93] a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi szakterülete vezetőjének tagnak kell lennie ebben a szervben és meg kell valósítania az összeköttetést a központi döntéshozó szerv és országos járványvédelmi központ között;
 
 ## f) gondoskodni kell a megfelelő források elérhetőségéről, hogy biztosítva legyen a gyors és hatékony munka, beleértve a laboratóriumi személyzetet, eszközt és infrastruktúrát;
 
@@ -24,83 +24,7 @@
 
 ## hc) kommunikációs technikai gyakorlaton annak érdekében, hogy képes legyen megszervezni – egy feltételezett kitörés esetén – az információs láncot a hatóságok és állatorvosok felé.
 
-7. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^89]
+7. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^94]
 
-## HATÁROZAT
-
-| .................................. Járási Hivatal Járási Állat-egészségügyi és Élelmiszer-ellenőrző Hivatala | Ikt.sz.: |
-
-|  | Tárgy: hatósági megfigyelés elrendelése |
-
-| ................................................................................... | Előadó: |
-
-HATÁROZAT
-
-Afrikiai sertéspestissel való fertőzöttség gyanújának megállapítása miatt név
-
-telep (udvar)
-
-hatósági megfigyelést
-
-rendelek el.
-
-A hatósági megfigyelés alá vont állomány létszáma:
-
-tenyészkan ................... db
-
-tenyészkoca ................... db
-
-hízó ................... db
-
-szopósmalac ................... db
-
-A hatósági megfigyeléssel hatósági állatorvost bízom meg.
-
-A sertéseket a telepen (udvaron belül) eredeti helyükön kell tartani vagy zárt helyen úgy elhelyezni, hogy más sertésekkel ne érintkezhessenek.
-
-Tilos sertéseket a telepről kivinni vagy sertéseket oda bevinni.
-
-A telepet (udvart)
-
-– sertéshús,
-
-– elhullott sertés,
-
-– takarmány, anyagok, eszközök, trágya vagy bármilyen hulladék
-
-csak engedélyemmel hagyhatja el.
-
-A telepre (udvarra) személyek belépése és kilépése ruhacsere és fertőtlenítés mellett, engedélyemmel történhet.
-
-A határozat ellen a kézhezvételtől számított 15 napon belül a Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatóságához címzett, hivatalomnál benyújtott fellebbezéssel lehet élni. A határozat fellebbezésre tekintet nélkül végrehajtandó.
-
-INDOKOLÁS
-
-............................................... név ............................................... telep (udvar) sertésállományában afrikai sertéspestis fertőzöttség gyanúját állapítottam meg az előfordult klinikai tünetek, kórbonctani elváltozások, laboratóriumi vizsgálatok, illetve állatforgalmi adatok alapján, melyek az afrikai sertéspestis lehetséges jelenlétét jelzik, ezért az 1995. évi XCI. törvény 6. § (4) bekezdésének b) pontja, valamint a 98/2003. (VIII. 22.) FVM rendelet .... §-a alapján a rendelkező részben foglaltak szerint határoztam.
-
-A jogorvoslati lehetőséget az 1957. évi IV. törvény 62. §-a alapján biztosítottam.
-
-A határozat fellebbezésre tekintet nélküli végrehajtása az állategészségügyről szóló 1995. évi XCI. törvény 6. §-ának (5) bekezdésén alapul.
-
-Dátum: ...............................................................
-
-|  | ................................................................. |
-
-|  | járási főállatorvos |
-
-A határozatot kapják:
-
-1. Állattartó
-
-2. Hatósági állatorvos
-
-3. .................................. Megyei Kormányhivatal Élelmiszerlánc-biztonsági és Állategészségügyi Igazgatósága
-
-4. Települési (fővárosban a fővárosi kerületi) önkormányzat jegyzője
-
-5. Településen dolgozó magánállatorvos(ok)
-
-6. Irattár
-
-[^88]: A 6. számú melléklet e) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 29. pontja szerint módosított szöveg.
-[^89]: A 7. számú melléklet a 151/2012. (XII. 29.) VM rendelet 20. § c)–d) pontja, a 70/2013. (VII. 31.) VM rendelet 29. § 31. pontja, a 19/2014. (III. 12.) VM rendelet 10. § d) pontja szerint módosított szöveg.
+[^93]: A 6. számú melléklet e) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 18. pontja szerint módosított szöveg.
+[^94]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.

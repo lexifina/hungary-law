@@ -1,12 +1,12 @@
 1. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez
 
-## A betegség bejelentése
+A betegség bejelentése
 
 1. Minden elsődleges kitöréssel, vaddisznókban megállapított első előfordulással vagy vágóhídon, illetve szállítóeszközön észlelt esettel kapcsolatban a megerősítést követő 24 órán belül a Nemzetközi Járványügyi Hivatalhoz és az Európai Unió Bizottságához be kell jelenteni az alábbiakat:
 
 a) a bejelentés időpontja (dátuma);
 
-b)[^83] Magyarország;
+b)[^87] Magyarország;
 
 c) a betegség megnevezését;
 
@@ -40,9 +40,9 @@ f) kitörés esetén a legközelebbi sertéstartó gazdaságtól való távolsá
 
 g) ha az afrikai sertéspestist vágóhídon vagy szállítóeszközön állapították meg, a gazdaság vagy gazdaságok helyét, ahonnan fertőzött sertések vagy hulláik származnak.
 
-3.[^84] A másodlagos kitörésekről az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság rendszeresen jelentést küld a VM-nek.
+3.[^88] Az 1. és 2. pontban foglaltak teljesítése érdekében az elsődleges és másodlagos kitörésekről a megyei kormányhivatal haladéktalanul jelentést küld a NÉBIH-nek. A NÉBIH késedelem nélkül tájékoztatja az országos főállatorvost, illetve részt vesz a Nemzetközi Járványügyi Hivatalhoz és a Bizottsághoz küldendő jelentések összeállításában.
 
-4.[^85] A VM biztosítja, hogy az afrikai sertéspestis valamely gazdaságban, vágóhídon vagy szállítóeszközön fellépő kitörésével vagy előfordulásával kapcsolatban az 1–3. pontnak megfelelően nyújtott információkat a lehető leghamarabb írásos jelentés követi a Nemzetközi Állategészségügyi Hivatal, az Európai Bizottság és a többi állam számára, amely legalább a következőket tartalmazza:
+4.[^89] Az országos főállatorvos biztosítja, hogy az afrikai sertéspestis valamely gazdaságban, vágóhídon vagy szállítóeszközön fellépő kitörésével vagy előfordulásával kapcsolatban az 1–3. pontnak megfelelően nyújtott információkat a lehető leghamarabb írásos jelentés kövesse a Nemzetközi Állategészségügyi Hivatal, a Bizottság és a többi tagállam számára, amely legalább a következőket tartalmazza:
 
 a) az időpontot, amikor a sertéseket a gazdaságban, a vágóhídon vagy szállítóeszközön leölték, és hulláikat ártalmatlanították;
 
@@ -66,6 +66,6 @@ gc) a sertések leölésekor a gazdaságokban vett minták laboratóriumi vizsg�
 
 Ha a sertéseket a kontaktgazdaságokban nem ölték le, felvilágosítást kell adni a döntés okairól.
 
-[^83]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.
-[^84]: A 1. számú melléklet 3. pontja a 70/2013. (VII. 31.) VM rendelet 29. § 11. és 27. pontja szerint módosított szöveg.
-[^85]: A 1. számú melléklet 4. pontja a 70/2013. (VII. 31.) VM rendelet 29. § 35. pontja szerint módosított szöveg.
+[^87]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.
+[^88]: Az 1. számú melléklet 3. pontja a 46/2015. (VIII. 7.) FM rendelet 20. §-ával megállapított szöveg.
+[^89]: Az 1. számú melléklet 4. pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 20. §-ával megállapított szöveg.

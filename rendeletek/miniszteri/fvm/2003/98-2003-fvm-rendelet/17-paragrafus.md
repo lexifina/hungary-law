@@ -1,6 +1,6 @@
 ## A vektorok útján történő afrikai sertéspestis vírus terjedésének megelőzésére szolgáló intézkedések
 
-17. § (1)[^68] Ha az afrikai sertéspestis kapcsán a vektorok jelenléte nem zárható ki, az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak intézkedni kell:
+17. § (1)[^73] Ha az afrikai sertéspestis kapcsán a vektorok jelenléte nem zárható ki, a megyei kormányhivatalnak intézkedni kell:
 
 a) a fertőzött épületeknek és környezetüknek a vektorok jelenlétére vonatkozó átvizsgálásáról, ha szükséges, minta begyűjtéséről a 3. számú mellékletnek megfelelően;
 
@@ -12,7 +12,7 @@ bb) további monitoring ellenőrző vizsgálatok elvégzéséről és felszámol
 
 c) azon területeken, ahol a vektorok jelenlétét megállapítják, de felszámolásuk bármilyen okból nem lehetséges a gazdaságban hatéves időtartamra a sertés tartásának tiltásáról, valamint más háziállatok tartására vonatkozó tiltás lehetséges bevezetéséről.
 
-(2)[^69] Az (1) bekezdésben foglaltak végrehajtásáról a VM tájékoztatja a Bizottságot.
+(2)[^74] Az (1) bekezdésben foglaltak végrehajtásáról az országos főállatorvos tájékoztatja a Bizottságot.
 
-[^68]: A 17. § (1) bekezdés nyitó szövegrésze a 19/2014. (III. 12.) VM rendelet 10. § c) pontja szerint módosított szöveg. [A 17. § (1) bekezdés nyitó szövegrészében a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontjával elrendelt módosítás, amely szerint a „védőkörzetben” szövegrész helyébe „megfigyelési körzetben” szöveg lép, nem vezethető át.]
-[^69]: A 17. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 29. § 2. pontja szerint módosított szöveg.
+[^73]: A 17. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 15. pontja szerint módosított szöveg. [A 17. § (1) bekezdés nyitó szövegrészében a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontjával elrendelt módosítás, amely szerint a „védőkörzetben” szövegrész helyébe „megfigyelési körzetben” szöveg lép, nem vezethető át.]
+[^74]: A 17. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.
