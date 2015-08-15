@@ -10,4 +10,6 @@
 
 (5) A transzponderrel való megjelölés megtörténtét az állatorvos az útlevélbe a transzponderhez tartozó vonalkód elhelyezésével bejegyzi, és aláírásával, valamint kamarai bélyegzőjével igazolja.
 
-(6) A transzponder kizárólag az állatgyógyászati termékekről szóló külön jogszabály szerinti, az állatgyógyászati készítmények kis-, illetve nagykereskedelmét végző gyógyszertárban árusítható, és csak állatorvos részére adható ki. A gyógyszertár köteles a transzponderek forgalmáról az azok által hordozott kód és az átvevő állatorvos nevének és bélyegző-sorszámának feltüntetésével nyilvántartást vezetni, azt hatósági ellenőrzés céljára 5 évig megőrizni, és ezen adatokat a NÉBIH felhívására rendszeresen a NÉBIH rendelkezésére bocsátani.
+(6)[^1] A transzponder kizárólag az állatgyógyászati termékekről szóló külön jogszabály szerinti, kis- és nagykereskedelmi tevékenységet végző forgalmazó által árusítható, és csak állatorvos részére adható ki. A forgalmazó köteles a transzponderek forgalmáról az azok által hordozott kód és az átvevő állatorvos nevének és bélyegző-sorszámának feltüntetésével nyilvántartást vezetni, azt hatósági ellenőrzés céljára 5 évig megőrizni, és ezen adatokat a NÉBIH felhívására rendszeresen a NÉBIH rendelkezésére bocsátani.
+
+[^1]: Az 5. § (6) bekezdése a 46/2015. (VIII. 7.) FM rendelet 66. §-ával megállapított szöveg.
