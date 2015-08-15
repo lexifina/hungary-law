@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-122-00-00
 | --- | --- | --- |
 | 2015-07-14 | 2015. évi CXXII. törvény | 2015-122-00-00.0 (közlönyállapot) |
 | 2015-07-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-122-00-00.1 |
+| 2015-08-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-122-00-00.2 |
