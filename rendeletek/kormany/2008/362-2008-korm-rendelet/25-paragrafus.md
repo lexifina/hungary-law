@@ -1,5 +1,5 @@
-## 24. §[^24]
+## 24. §[^25]
 
 ## A veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló 95/2006. (IV. 18.) Korm. rendelet módosítása
 
-[^24]: A 24. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^25]: A 24. § a 45. § (4) bekezdése alapján hatályát vesztette.

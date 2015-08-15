@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-362-20-
 | 2015-03-05 | 2008-362-20-22.15 | 300/2014. (XII. 5.) Korm. rendelet |
 | 2015-03-12 | 2008-362-20-22.16 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2008-362-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-08-15 | 2008-362-20-22.18 | 300/2014. (XII. 5.) Korm. rendelet |

@@ -1,5 +1,5 @@
-## 10. §[^10]
+## 10. §[^11]
 
 ## A villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló 285/2007. (X. 29.) Korm. rendelet módosítása
 
-[^10]: A 10. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^11]: A 10. § a 45. § (4) bekezdése alapján hatályát vesztette.
