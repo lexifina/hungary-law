@@ -8,7 +8,7 @@
 
 | ..................................................... gyűjtőhely kezelő |
 
-3. melléklet a 45/2012. (V. 8.) VM rendelethez
+3. melléklet a 45/2012. (V. 8.) VM rendelethez[^62]
 
 Kereskedelmi okmány állati melléktermékek és származtatott termékek Magyarországon belül történő szállításához
 
@@ -32,17 +32,17 @@ Kereskedelmi okmány állati melléktermékek és származtatott termékek Magya
 
 | 6. A melléktermék származási helye, átadó (állattartó) neve, címe: |
 
-|  | 6.1. Átadó nyilvántartási száma vagy ENAR tenyészetkódja: |
+|  | 6.1. Átadó azonosító száma vagy ENAR tenyészetkódja: |
 
 | 7. A szállító neve, címe : |
 
-|  | 7.1. Szállító nyilvántartási száma: |
+|  | 7.1. Szállító azonosító száma: |
 
 |  | 7.2. A szállító jármű rendszáma: |
 
 | 8. Az átvevő (címzett) neve, címe: |
 
-|  | 8.1. Az átvevő nyilvántartási száma : |
+|  | 8.1. Az átvevő azonosító száma : |
 
 | 9. Származtatott termék esetén |
 
@@ -75,3 +75,5 @@ Az eredeti példány a rendeltetési helyig kíséri a szállítmányt, a 2. pé
 ** Az 1069/2009/EK európai parlamenti és tanácsi rendelet vonatkozó cikkére és pontjára utalni csak 3. kategóriájú anyagok esetén kötelező.
 
 *** Csak 3. kategóriájú és takarmányozásra szánt anyagok, valamint elhullott állatok esetén.
+
+[^62]: A 3. melléklet a 46/2015. (VIII. 7.) FM rendelet 64. § 19. pontja szerint módosított szöveg.

@@ -1,22 +1,26 @@
 ## Jelentés a ...................... évben átadott állati eredetű melléktermékekről, az átvevők szerinti bontásban
 
-| A melléktermék birtokos neve és székhelye : |
+## A melléktermék birtokos neve és székhelye:
 
-| Telephely címe: | , telephely áeü. azonosító száma: |
+## Telephely címe: , Telephely azonosító száma:
 
-| A jelentésért felelős neve: ..................................................., telefonszáma: ......................................, e-mail címe: |
+## A jelentésért felelős neve: , telefonszáma: ,
+
+## e-mail címe:
 
 | Az átvevő neve | Székhelye | Telephelye | Azonosító száma | Átadott melléktermék kategóriája és tömege (kg) |
 
-| 1. kategória | 2. kategória | 3. kategória |
+|  |  |  |  | 1. kategória | 2. kategória | 3. kategória |
 
 | Összesen |  |  |  |  |  |  |
 
-| Kelt: ……………………………………, …………… (év) ………………… (hónap) ……. (nap) |
+## Kelt: ..........................................................., ........................... (év) ....................................................... (hónap) ................ (nap)
 
-| .............................................................. cégszerű aláírás |
+## ...................................................................
 
-5. melléklet a 45/2012. (V. 8.) VM rendelethez
+## cégszerű aláírás
+
+5. melléklet a 45/2012. (V. 8.) VM rendelethez[^64]
 
 I. Jelentés a ....................... évben átvett állati eredetű melléktermékekről, az átadók szerinti bontásban
 
@@ -24,11 +28,11 @@ I. Jelentés a ....................... évben átvett állati eredetű mellékte
 
 | Telephelye címe: |
 
-| Telephely áeü. azonosító száma: |
+| Telephely azonosító száma: |
 
 | A jelentésért felelős neve: |
 
-| Telefonszáma: ............................................................... E-mail címe: |
+| Telefonszáma: | E-mail címe: |
 
 | Átadó | Átvett melléktermék kategóriája és tömege (kg) |
 
@@ -36,17 +40,19 @@ I. Jelentés a ....................... évben átvett állati eredetű mellékte
 
 | 1. Állattartó telep |  |  |  |
 
-| 2. Vágóhíd vagy más élelmiszeripari létesítmény |  |  |  |
+| 2. Vágóhíd |  |  |  |
 
 | 3. Települési gyűjtőhely |  | Nem lehetséges | Nem lehetséges |
 
 | 4. Vadfeldolgozó, vadbegyűjtő |  |  |  |
 
-| 4. Kereskedelmi egységek |  |  |  |
+| 5. Kereskedelmi egységek |  |  |  |
 
-| 5. Vendéglátó ipari egységek |  |  |  |
+| 6. Vendéglátó ipari egységek |  |  |  |
 
-| 6. Állati eredetű melléktermék szállító vagy állati melléktermék gyűjtő-átrakó telep |  |  |  |
+| 7. Állati eredetű melléktermék szállító vagy állati |  |  |  |
+
+| melléktermék gyűjtő-átrakó telep |  |  |  |
 
 | 8. Komposztáló telep, biogáz üzem | Nem lehetséges |  |  |
 
@@ -54,17 +60,17 @@ I. Jelentés a ....................... évben átvett állati eredetű mellékte
 
 | 10. Állateledel előállító üzem | Nem lehetséges |  |  |
 
-| 11. Egyéb: ........................................................................ |  |  |  |
+| 11. Egyéb élelmiszeripari vállalkozás |  |  |  |
 
-| 12. Egyéb: ....................................................................... |  |  |  |
-
-| 13. Egyéb: ....................................................................... |  |  |  |
+| 12. Egyéb: .................................................... |  |  |  |
 
 | Mindösszesen |  |  |  |
 
-## Kelt: ……………………………………., ………… (év) ………… (hónap) ….. (nap)
+## Kelt: ............................................................., ...................... (év) ........................................................ (hónap) ................ (nap)
 
-| ................................................................ cégszerű aláírás |
+## ...................................................................
+
+## cégszerű aláírás
 
 II. Jelentés a ....................... évben átvett és kezelt állati eredetű melléktermékekről
 
@@ -72,11 +78,11 @@ II. Jelentés a ....................... évben átvett és kezelt állati eredet
 
 | Telephelye címe: |
 
-| Telephely áeü. azonosító száma: |
+| Telephely azonosító száma: |
 
 | A jelentésért felelős neve: |
 
-| Telefonszáma: ............................................................... E-mail címe: |
+| Telefonszáma: | E-mail címe: |
 
 | Kezelés módja | Átvett melléktermék kategóriája és tömege (kg) |
 
@@ -88,7 +94,7 @@ II. Jelentés a ....................... évben átvett és kezelt állati eredet
 
 | 3. Feldolgozás 2–7. módszer szerint | Nem lehetséges | Nem lehetséges |  |
 
-| 4. Feldolgozás utáni égetés, együttégetés |  |  |  |
+| 4. Feldolgozás utáni égetés, együttégetés, tüzelés |  |  |  |
 
 | 5. Feldolgozás utáni komposztálás, biogáz előállítás | Nem lehetséges |  |  |
 
@@ -96,22 +102,24 @@ II. Jelentés a ....................... évben átvett és kezelt állati eredet
 
 | 7. Feldolgozás utáni szántóföldi kihelyezés |  |  |  |
 
-| 8. Komposztálás, biogáz előállítás (előzetes feldolgozás nélkül) | xxxxxxxxxxx Nem lehetséges |  |  |
+| 8. Komposztálás, biogáz előállítás (előzetes feldolgozás nélkül) | Nem lehetséges |  |  |
 
 | 9. Műszaki termék előállítás |  |  |  |
 
-| 10. Állateledel előállítás | xxxxxxxxxxx Nem lehetséges | Nem lehetséges |  |
+| 10. Állateledel előállítás | Nem lehetséges | Nem lehetséges |  |
 
-| 11. Egyéb: ............................................................ |  |  |  |
+| 11. Készleten tartott mennyiség (nem kezelt): |  |  |  |
 
-| 12. Egyéb: ............................................................ |  |  |  |
-
-| 13. Egyéb: ............................................................ |  |  |  |
+| 12. Egyéb: |  |  |  |
 
 | Mindösszesen |  |  |  |
 
-## Kelt: ……………………………., ………… (év) ………… (hónap) …………… (nap)
+## Kelt: ............................................................., ...................... (év) ........................................................ (hónap) ................ (nap)
 
-| ................................................................ cégszerű aláírás |
+## ...................................................................
 
-III. Jelentés a ....................... évben átvett és továbbadott állati eredetű melléktermékekről
+## cégszerű aláírás
+
+III. Jelentés a ....................... évben átvett és feldolgozva vagy feldolgozatlanul továbbadott állati eredetű melléktermékekről
+
+[^64]: Az 5. melléklet a 46/2015. (VIII. 7.) FM rendelet 63. § (1) bekezdésével megállapított szöveg.

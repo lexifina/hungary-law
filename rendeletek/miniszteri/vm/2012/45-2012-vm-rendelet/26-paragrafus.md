@@ -2,7 +2,7 @@
 
 26. § (1) A hatósági ellenőrzéseket az 1069/2009/EK európai parlamenti és tanácsi rendelet 45. cikkének, valamint a 142/2011/EU bizottsági rendelet 32–33. cikkének figyelembevételével kell végezni.
 
-(2)[^20] Az 1069/2009/EK európai parlamenti és tanácsi rendelet szerint nyilvántartásba vett létesítmények, illetve engedélyezett üzemek hatósági ellenőrzése a járási állategészségügyi hivatal feladata, de az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság, illetve a NÉBIH (a továbbiakban együtt: állategészségügyi hatóság) is jogosult ellenőrzést végezni.
+(2)[^52] Az 1069/2009/EK európai parlamenti és tanácsi rendelet szerint nyilvántartásba vett létesítmények, illetve engedélyezett üzemek hatósági ellenőrzése a járási hivatal feladata, de a megyei kormányhivatal, illetve a NÉBIH (a továbbiakban együtt: állategészségügyi hatóság) is jogosult ellenőrzést végezni.
 
 (3) Az ellenőrzés legalább az alábbiakra terjed ki:
 
@@ -24,6 +24,7 @@ h) bármely szükségesnek vélt ellenőrzés végrehajtására,
 
 i) laboratóriumi célra történő szúrópróbaszerű mintavételre.
 
-(4) Az üzemek ellenőrzésének gyakoriságát az 1069/2009/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően – kockázatelemzés alapján – az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság határozza meg az integrált többéves nemzeti ellenőrzési terv (ITNET) alapján.
+(4)[^53] Az üzemek ellenőrzésének gyakoriságát az 1069/2009/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően – kockázatelemzés alapján – a megyei kormányhivatal határozza meg az integrált többéves nemzeti ellenőrzési terv (ITNET) alapján.
 
-[^20]: A 26. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja szerint módosított szöveg.
+[^52]: A 26. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 5. és 9. pontja szerint módosított szöveg.
+[^53]: A 26. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 5. pontja szerint módosított szöveg.

@@ -1,9 +1,9 @@
-## 32–35. §[^24]
+## 32–35. §[^59]
 
-36. § (1)[^25]
+36. § (1)[^60]
 
-(2)[^26]
+(2)[^61]
 
-[^24]: A 32–35. §-t a 36. § (2) bekezdése hatályon kívül helyezte.
-[^25]: A 36. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 36. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 32–35. §-t a 36. § (2) bekezdése hatályon kívül helyezte.
+[^60]: A 36. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 36. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

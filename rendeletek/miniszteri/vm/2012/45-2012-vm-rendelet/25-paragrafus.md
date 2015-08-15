@@ -6,8 +6,12 @@
 
 (3) Az 1. és 2. kategóriába tartozó melléktermékeknek és az ezekből származó csont- és húslisztnek, valamint zsírnak más tagállamból történő beszállítását a beszállító írásbeli kérelmére a NÉBIH engedélyezi, ha a beszállítással kapcsolatban járványügyi kockázat nem merül fel.
 
-(4) A feldolgozott állati eredetű fehérjék behozatalához szükséges engedélyt az adott üzem telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóság legalább egy évre, de legfeljebb a működési engedély jogosultsági idejének tartamára adja meg.
+(4)[^49] A feldolgozott állati eredetű fehérjék behozatalához szükséges engedélyt az adott üzem telephelye szerint illetékes megyei kormányhivatal legalább egy évre, de legfeljebb a működési engedély jogosultsági idejének tartamára adja meg.
 
-(5) Az 1. és 2. kategóriába sorolt állati eredetű melléktermékek és az ezekből származó csont- és húsliszt, zsír, illetve feldolgozott állati eredetű fehérjék más tagállamba szállítását, illetve más tagállamból történő fogadását az azt feladó, illetve fogadó magyarországi üzemnek a feladás, illetve fogadás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatóságnak a szállítmány indítását megelőző 48 órán, illetve érkezését követő 24 órán belül be kell jelenteni. A bejelentéssel egyidejűleg meg kell küldeni az 1069/2009/EK európai parlamenti és tanácsi rendelet által meghatározott kereskedelmi okmány vagy állategészségügyi bizonyítvány egy kitöltött példányát.
+(5)[^50] Az 1. és 2. kategóriába sorolt állati eredetű melléktermékek és az ezekből származó csont- és húsliszt, zsír, illetve feldolgozott állati eredetű fehérjék más tagállamba szállítását, illetve más tagállamból történő fogadását az azt feladó, illetve fogadó magyarországi üzemnek a feladás, illetve fogadás helye szerint illetékes megyei kormányhivatalnak a szállítmány indítását megelőző 48 órán, illetve érkezését követő 24 órán belül be kell jelenteni. A bejelentéssel egyidejűleg meg kell küldeni az 1069/2009/EK európai parlamenti és tanácsi rendelet által meghatározott kereskedelmi okmány vagy állategészségügyi bizonyítvány egy kitöltött példányát.
 
-(6) Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság a TRACES-rendszeren keresztül 24 órán belül tájékoztatja a fogadó ország illetékes hatóságát a szállítmány indításáról, illetve a küldő ország illetékes hatóságát a szállítmány megérkezéséről.
+(6)[^51] A megyei kormányhivatal a TRACES-rendszeren keresztül 24 órán belül tájékoztatja a fogadó ország illetékes hatóságát a szállítmány indításáról, illetve a küldő ország illetékes hatóságát a szállítmány megérkezéséről.
+
+[^49]: A 25. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 10. pontja szerint módosított szöveg.
+[^50]: A 25. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 14. pontja szerint módosított szöveg.
+[^51]: A 25. § (6) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 3. pontja szerint módosított szöveg.

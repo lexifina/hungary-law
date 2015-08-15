@@ -1,18 +1,18 @@
-| Az átvevő neve és székhelye: |
+| A továbbadó neve és székhelye: |
 
 | Telephelye címe: |
 
-| Telephely áeü. azonosító száma: |
+| Telephely azonosító száma: |
 
 | A jelentésért felelős neve: |
 
-| Telefonszáma: ............................................................... E-mail címe: |
+| Telefonszáma: E-mail címe: |
 
 | Átvevő | Átadott melléktermék kategóriája és tömege (kg) |
 
 | 1. kategória | 2. kategória | 3. kategória |
 
-| 1. Égető, együttégető üzem |  |  |  |
+| 1. Égető, együttégető, tüzelő üzem |  |  |  |
 
 | 2. Feldolgozó üzem |  |  |  |
 
@@ -26,18 +26,34 @@
 
 | 7. Állati eredetű melléktermék szállító vagy állati melléktermék gyűjtő-átrakó telep |  |  |  |
 
-| 8. Egyéb: ................................................................................. |  |  |  |
+| 8. Szerves trágya és talajjavító előállító üzem | Nem lehetséges |  |  |
 
-| 9. Egyéb: ................................................................................. |  |  |  |
-
-| 10. Egyéb: .............................................................................. |  |  |  |
+| 9. Egyéb: |  |  |  |
 
 | Mindösszesen |  |  |  |
 
-## Kelt: ……………………………., ………… (év) ………… (hónap) …………… (nap)
+## Kelt: ............................................................., ...................... (év) ........................................................ (hónap) ................ (nap)
 
-| ................................................................ cégszerű aláírás |
+## ...................................................................
 
-6. melléklet a 45/2012. (V. 8.) VM rendelethez[^27]
+## cégszerű aláírás
 
-[^27]: A 6. mellékletet a 36. § (2) bekezdése hatályon kívül helyezte.
+6. melléklet a 45/2012. (V. 8.) VM rendelethez[^65]
+
+Jelentés a ………… évben szállított állati melléktermékről
+
+A szállító neve és székhelye:
+
+Telephelye címe:
+
+Telephely azonosító száma:
+
+| Típus | Szállított állati melléktermék kategóriája és tömege (kg) |
+
+| 1. kategória | 2. kategória | 3. kategória |
+
+| Feldolgozatlan állati melléktermék |  |  |  |
+
+| Feldolgozott állati melléktermék |  |  |  |
+
+[^65]: A 6. mellékletet a 36. § (2) bekezdése hatályon kívül helyezte, újonnan a 46/2015. (VIII. 7.) FM rendelet 63. § (2) bekezdése iktatta be.
