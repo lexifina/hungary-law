@@ -1,6 +1,18 @@
-## 34–47. §[^1]
+48. § (1) A felsőoktatási intézmény az üres oklevél, oklevélmelléklet formanyomtatványokat – az előállító nyomdával történt egyeztetést követően – az átvétel megkezdésétől a kibocsátás végleges megszüntetéséig a szigorú számadási kötelezettség alá eső bizonylatokra vonatkozó előírások szerint nyilvántartja. A Hivatal hatósági ellenőrzés keretében vizsgálhatja az intézmény nyilvántartását.
 
-48. § (1)–(8)[^2]
+(2) A felsőoktatási intézmény az üres oklevél, oklevélmelléklet formanyomtatványokat zárt helyen elhelyezi oly módon, hogy ahhoz csak a felsőoktatási intézmény szabályzatában meghatározott személyek férjenek hozzá.
+
+(3) A felsőoktatási intézmény az elrontott és a kicserélt oklevél, oklevélmelléklet formanyomtatványokról nyilvántartást vezet és jegyzőkönyvet készít. A javítást követően új oklevelet, oklevélmellékletet kell kiadni és a rontott, kicserélt példányokat meg kell semmisíteni.
+
+(4) A felsőoktatási intézmény az elveszett, ellopott vagy megsemmisült üres oklevél, oklevélmelléklet formanyomtatványokról haladéktalanul jegyzőkönyvet vesz fel.
+
+(5) A felsőoktatási intézmény – a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelettől eltérően – az átadást követően elveszett, ellopott, megsemmisült oklevélről kérelemre oklevélmásodlatot állít ki a 46. § (2) bekezdésében meghatározott formanyomtatványon. A másodlat tartalmában megegyezik a törzslap 46. § (7) bekezdésében foglalt mellékletével, továbbá tartalmazza a 9. mellékletben meghatározott másodlati záradékot és a hitelesítést. A másodlat nyilvántartásának rendje megegyezik az oklevél nyilvántartásának rendjével. Ugyanazon oklevélről további másodlat kiállításakor úgy kell eljárni, mint az első másodlat kiadásakor.
+
+(6) A felsőoktatási intézmény hivatalból vagy kérelemre a hibásan kiállított oklevelet bevonja és megsemmisíti, a törzslapon a hiba javítását a 36. § (7) bekezdés b) pontja szerint átvezeti, és a javított törzslap alapján az oklevelet ismét kiállítja a 46. § (2) bekezdésében meghatározott formanyomtatványon. Az oklevél tartalmazza a 9. mellékletben meghatározott javítási záradékot és a hitelesítést.
+
+(7) Ha a felsőoktatási intézmény a (6) bekezdésben foglaltak szerint új oklevelet állít ki, és a változás érinti az oklevélmelléklet tartalmát, akkor az oklevélmellékletet – a korábbi oklevélmelléklet bevonása és megsemmisítése mellett – újra kiadja.
+
+(8) A felsőoktatási intézmény a (3)–(7) bekezdés szerint megsemmisített, elveszett, ellopott, megsemmisült (e bekezdésben a továbbiakban együtt: megsemmisült) oklevél, oklevélmelléklet adatait (az intézmény neve, a szervezeti egység neve, a formanyomtatvány megnevezése, cikkszáma, sorszáma, az oklevél tulajdonosának neve, személyes adatai, az oklevél, oklevélmelléklet sorszáma) az új oklevél, oklevélmelléklet kiállítását követő tizenöt napon belül bejelenti a Hivatalnak. A megsemmisült oklevél, oklevélmelléklet adatait (az intézmény neve, a formanyomtatvány cikkszáma és sorszáma, oklevél, oklevélmelléklet sorszáma) a Hivatal honlapján nyilvánosságra kell hozni és a minisztérium hivatalos lapjában közzé kell tenni.
 
 (9) A felsőoktatási intézmény az általa vagy jogelődje által kiállított oklevelet és oklevélmellékletet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 114. § és 121. §-ában szabályozottak szerint érvénytelenné nyilváníthatja, ha bebizonyosodik, hogy az oklevelet jogellenesen szerezték meg.
 
@@ -8,8 +20,4 @@
 
 (11) Ha az oklevelet kiállító intézmény jogutód nélkül szűnt meg, a (9) és (10) bekezdés szerinti eljárásban a Hivatal, másodfokú hatóságként a miniszter jár el.
 
-(12)[^3]
-
-[^1]: A 34–47. § a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
-[^2]: A 48. § (1)–(8) bekezdése a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
-[^3]: A 48. § (12) bekezdése a 67. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
+(12) A (9) bekezdés szerint érvénytelennek nyilvánított oklevél alapjául szolgáló tanulmányokról a 36. § (10) bekezdése szerinti törzslapkivonatot kell kiállítani az érvénytelenné nyilvánító határozat jogerőre emelkedésével.
