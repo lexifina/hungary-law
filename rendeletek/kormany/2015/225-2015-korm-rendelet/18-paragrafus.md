@@ -1,0 +1,27 @@
+18. § (1) A hulladékminősítésre irányuló eljárásban a környezetvédelemért felelős miniszter által normatív utasításban létrehozott Hulladékminősítő Bizottság szakértőként jár el.
+
+(2) A Hulladékminősítő Bizottság által készített szakértői vélemény minimális tartalmi elemeit a 2. melléklet 2. pontja határozza meg.
+
+(3) Állati melléktermékre vonatkozó kérelem esetén az OKTF a kérelmet a hulladék képződésének vagy kezelésének helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal részére a mintavizsgálati dokumentummal együtt a beérkezéstől számított 8 napon belül megküldi, és a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének felváltásáról szóló, 2014. december 18-i 1357/2014/EU bizottsági rendelet (a továbbiakban: 1357/2014/EU rendelet) szerinti HP9 veszélyességi jellemző vonatkozásában kikéri véleményét. Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal a véleményét a kézhezvételtől számított 15 napon belül küldi meg az OKTF részére.
+
+(4) Az OKTF a minősítési eljárás tárgyát képező hulladék veszélyes vagy nem veszélyes voltáról az 1357/2014/EU rendeletben, továbbá e rendelet 2. melléklet 3. pontjában foglaltak alapján dönt.
+
+(5) Az OKTF a minősítés tárgyában a döntését a kérelem benyújtását követő 60 napon belül hozza meg.
+
+(6) Az OKTF döntése a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottakon túlmenően legalább a következőket tartalmazza:
+
+a) a Hulladékminősítő Bizottság szakértői véleményének és a vélemény indokolásának összefoglalását, a szakértői vélemény keltezését, a tagok nevét;
+
+b) a minősített hulladék hulladékjegyzék szerinti típusának megnevezését, azonosító kódját, megjelenési formáját, halmazállapotát, veszélyessége esetén a veszélyességi jellemzőjét; új hulladéktípus esetén a hulladék megnevezésére vonatkozó javaslatot;
+
+c) a minősített hulladék kezeléséhez alkalmazandó kezelési technológiára vonatkozó javaslatot;
+
+d) a mintavételre és a laboratóriumi vizsgálatra felkért akkreditált laboratórium nevét, címét;
+
+e) a minősítést megalapozó vizsgálatok körülményeit és eredményeit;
+
+f) a minősítési eljárás során készített jegyzőkönyvek megállapításainak összefoglalását.
+
+(7) Az OKTF a minősítés eredményét a határozathozatalt követő 15 napon belül az Országos Környezetvédelmi Információs Rendszer publikus felületén közzéteszi.
+
+(8) A Hulladékminősítő Bizottság tagjai a minősítést megalapozó vizsgálatokban, továbbá a laboratórium vizsgálati jelentésének elkészítésében nem vehetnek részt.

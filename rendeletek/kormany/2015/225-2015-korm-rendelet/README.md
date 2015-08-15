@@ -1,0 +1,9 @@
+# 225/2015. (VIII. 7.) Korm. rendelet
+
+a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-225-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-08-15 | 2015-225-20-22.1 | 225/2015. (VIII. 7.) Korm. rendelet |

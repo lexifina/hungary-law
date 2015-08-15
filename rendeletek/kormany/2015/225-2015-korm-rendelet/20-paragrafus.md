@@ -1,0 +1,3 @@
+20. § (1) Az e rendelet szerinti Hulladékminősítő Bizottságot legkésőbb e rendelet hatálybalépésétől számított 6 hónapon belül létre kell hozni. A Hulladékminősítő Bizottság tagjainak miniszteri utasítás alapján történő kinevezéséig a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló 98/2001. (VI. 15.) Korm. rendelet [a továbbiakban: 98/2001. (VI. 15.) Korm. rendelet] szerinti Hulladékminősítő Bizottság a hulladék minősítésével kapcsolatos feladatait a 98/2001. (VI. 15.) Korm. rendeletben meghatározottak szerint látja el.
+
+(2) A veszélyes hulladék szállításához szükséges, a 98/2001. (VI. 15.) Korm. rendeletben meghatározott szállítási lapok ('SZ' és 'K' kísérőjegyek) e rendelet hatálybalépését követő 9 hónapig használhatók.
