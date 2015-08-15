@@ -1,5 +1,9 @@
 ## 4. Az eljárás lefolytatására hatáskörrel rendelkező hatóság
 
-4. §[^4]
+## 4. § A bírságolással kapcsolatos
 
-[^4]: A 4. § az 5. § (2) bekezdése alapján 2015. augusztus 15-én lép hatályba.
+1. elsőfokú eljárás lefolytatására az ideiglenes biztonsági határzár helye szerint illetékes megyei rendőr-főkapitányság,
+
+2. másodfokú eljárás lefolytatására az Országos Rendőr-főkapitányság
+
+rendelkezik hatáskörrel.
