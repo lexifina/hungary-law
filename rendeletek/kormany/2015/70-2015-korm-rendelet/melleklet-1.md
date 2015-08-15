@@ -1,3 +1,3 @@
-1–56. melléklet a 70/2015. (III. 30.) Korm. rendelethez[^268]
+1–56. melléklet a 70/2015. (III. 30.) Korm. rendelethez[^269]
 
-[^268]: Az 1–56. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^269]: Az 1–56. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
