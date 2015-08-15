@@ -1,0 +1,3 @@
+## 6. § A 75/2002. (VIII. 16.) FVM rendelet 24. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az illetékes megyei kormányhivatal felülvizsgálatra megküldi a tervet a NÉBIH-nek. A NÉBIH haladéktalanul megvizsgálja a tervet, elsősorban azért, hogy az összhangban legyen a 18. § (1) bekezdése szerinti betegség-felszámolási terv alapján hozott intézkedésekkel. Ha a NÉBIH megfelelőnek találja a vészvakcinázási tervet, akkor jóváhagyásra megküldi az országos főállatorvosnak, ellenkező esetben átdolgozásra visszaküldi a megyei kormányhivatalnak. Az országos főállatorvos a jóváhagyott vészvakcinázási tervet megküldi a Bizottságnak.”

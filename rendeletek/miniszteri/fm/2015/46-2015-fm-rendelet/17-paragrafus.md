@@ -1,0 +1,3 @@
+## 16. § A 98/2003. (VIII. 22.) FVM rendelet 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A nemzeti szakértői csoport javaslata alapján a megyei kormányhivatal – az afrikai sertéspestis vaddisznókban való első megállapításától számított – 30 napon belül összeállítja a betegség felszámolására vonatkozó tervet és felülvizsgálatra a NÉBIH-nek megküldi. A NÉBIH a tervezetet 30 napon belül véleményezi, szükség esetén módosítja és jóváhagyásra az országos főállatorvos elé terjeszti. A jóváhagyott felszámolási tervet az országos főállatorvos megküldi a Bizottságnak. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.”

@@ -1,0 +1,1 @@
+## „(6) Az állati eredetű melléktermék tulajdonosának (állattartónak) a kiskapacitású égetőművel rendelkező állattartó telepeken keletkezett, és a kiskapacitású égetőműben, helyben ártalmatlanított állati eredetű melléktermékekről kizárólag a (3) bekezdés szerint kell jelentést tennie.”

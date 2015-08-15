@@ -1,0 +1,1 @@
+## „(6) A 2. kategóriába sorolt anyagok közül takarmányozásra kizárólag az alábbiak használhatóak fel, ha azt a megyei kormányhivatal engedélyezte a köz- és állategészségügyi kockázatok figyelembe vételével:”
