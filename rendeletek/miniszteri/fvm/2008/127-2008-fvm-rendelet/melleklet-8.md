@@ -14,7 +14,7 @@
 
 ## A vizsgálatokat csak hiánytalanul kitöltött megrendelő esetén végezzük el. Aláírások és cégszerű megrendelés esetén bélyegzőlenyomat nélkül a vizsgálatokat az intézet nem végzi el. A megrendelést és a mellékletet kérjük 3 példányban megküldeni.
 
-8. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^149]
+8. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^158]
 
 ## Víziállat-egészségőri igazolás
 
@@ -54,7 +54,7 @@ I. A származási gazdaság
 
 ## Egyéb közlemény:
 
-II. Alulírott víziállat-egészségőr igazolom, hogy a fent megnevezett fajú halakat a 127/2008. (IX.29.) FVM rendelet 16. §-a alapján előzetes helyszíni szemle alapján megvizsgáltam.
+II. Alulírott víziállat-egészségőr igazolom, hogy a fent megnevezett fajú halakat a 127/2008. (IX.29.) FVM rendelet alapján előzetes helyszíni szemle alapján megvizsgáltam.
 
 ## A halak betegségre mutató elváltozást nem mutatnak.
 
@@ -66,4 +66,4 @@ II. Alulírott víziállat-egészségőr igazolom, hogy a fent megnevezett fajú
 
 III. Csak a tenyésztett víziállatok tenyésztés, továbbtartás vagy állománypótlás céljából történő forgalomba hozatala esetén kell kitölteni!
 
-[^149]: A 8. számú mellékletet a 32/2014. (XII. 9.) FM rendelet 8. § (31) bekezdés b) pontja iktatta be.
+[^158]: A 8. számú mellékletet a 32/2014. (XII. 9.) FM rendelet 8. § (31) bekezdés b) pontja iktatta be, szövege a 46/2015. (VIII. 7.) FM rendelet 33. §-a és 35. §-a szerint módosított szöveg.

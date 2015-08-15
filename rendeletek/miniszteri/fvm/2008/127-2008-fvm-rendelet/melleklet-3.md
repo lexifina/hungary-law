@@ -24,7 +24,7 @@
 
 ## Felügyeleti és vizsgálati tevékenységek a gazdaságokban és a puhatestű-tenyésztési területeken
 
-| Jelen lévő fajok | Az A. részben említett egészségügyi állapot | Kockázati szint | Felügyelet | Az élelmiszerlánc- biztonsági és állategészségügyi igazgatóság által elvégzendő ellenőrző vizsgálat gyakorisága (7. §)* | Az állat-egészségügyi felügyeleti rendszer keretében elvégzendő vizsgálat gyakori- sága (10. §)* | Az egészségügyi állapot fenntartásához szükséges ellenőrzésekre, mintavételekre és felügyeleti tevékenységekre vonatkozó sajátos követelmények |
+| Jelen lévő fajok | Az A. részben említett egészségügyi állapot | Kockázati szint | Felügyelet | A megyei kormányhivatal által elvégzendő ellenőrző vizsgálat gyakorisága (7. §)* | Az állat-egészségügyi felügyeleti rendszer keretében elvégzendő vizsgálat gyakori- sága (10. §)* | Az egészségügyi állapot fenntartásához szükséges ellenőrzésekre, mintavételekre és felügyeleti tevékenységekre vonatkozó sajátos követelmények |
 
 | A 3. számú mellékletben felsorolt betegségekre nem fogékony fajok | I. kategória Az 51. § (1) bekezdésének a) vagy b) pontjával vagy az 52. § (1) bekezdésének a) vagy b) pontjával összhangban betegségtől mentes minősítés | Alacsony | Passzív | Négyévente 1 | Négyévente 1 | Az 54. § szerinti betegségtől mentes állapot fenntartására vonatkozó sajátos követelmények |
 
@@ -92,7 +92,7 @@
 
 ## Az aktív felügyelet az alábbiakat foglalja magában:
 
-## a) az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által vagy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság helyett más képesített víziállat-egészségőr által végzett rutinvizsgálat,
+## a) a megyei kormányhivatal által vagy a megyei kormányhivatal helyett más képesített víziállat-egészségőr által végzett rutinvizsgálat,
 
 ## b) a tenyésztett víziállat-populációnak a gazdaságban vagy a puhatestű-tenyésztési területen a klinikai betegség vonatkozásában végzett vizsgálata,
 
@@ -102,12 +102,12 @@
 
 ## A célzott felügyelet az alábbiakat foglalja magában:
 
-## a) az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által vagy az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság helyett más képesített víziállat-egészségőr által végzett rutinvizsgálat,
+## a) a megyei kormányhivatal által vagy a megyei kormányhivatal helyett más képesített víziállat-egészségőr által végzett rutinvizsgálat,
 
 ## b) előírt minták vétele a tenyésztett víziállatokból és azok meghatározott módszerekkel meghatározott kórokozó(k) tekintetében végzett vizsgálata,
 
 ## c) meghatározott betegségek vagy bármely megnövekedett mértékű pusztulás bekövetkeztének vagy gyanújának azonnali kötelező bejelentése.
 
-3. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^130]
+3. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^138]
 
-[^130]: A 3. számú melléklet az 51/2013. (VI. 17.) VM rendelet 16. §-ával megállapított, a 32/2014. (XII. 9.) FM rendelet 9. § c) pontja szerint módosított szöveg.
+[^138]: A 3. számú melléklet az 51/2013. (VI. 17.) VM rendelet 16. §-ával megállapított, a 32/2014. (XII. 9.) FM rendelet 9. § c) pontja szerint módosított szöveg.

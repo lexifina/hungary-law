@@ -8,7 +8,7 @@
 
 2. Átmosóterület: egyértelműen jelölt határvonalakkal rendelkező és bójákkal, cölöpökkel vagy egyéb rögzített eszközzel jelzett, valamint kizárólag az élő puhatestűek természetes tisztítására használt édesvízi, tengeri, torkolati vagy lagúnaterület;
 
-3.[^4] Bérhorgászati terület: olyan mesterséges tó vagy egyéb létesítmény vagy ilyen tevékenységet folytató halgazdálkodási vízterület, amelyben a tenyésztett víziállat populációt állománypótlással tartják fenn kizárólag szabadidős horgászat céljából;
+3.[^4] Bérhorgászati terület: olyan mesterséges tó vagy egyéb létesítmény vagy ilyen tevékenységet folytató nyilvántartott halgazdálkodási vízterület, amelyben a tenyésztett víziállat populációt állománypótlással tartják fenn kizárólag szabadidős horgászat céljából;
 
 4. Betegség: a víziállatok egy vagy több kórokozó által okozott klinikai vagy nem klinikai fertőzése;
 
@@ -30,7 +30,7 @@
 
 13. Forgalomba hozatal: a tenyésztett víziállatok értékesítése, beleértve az eladásra történő felkínálást vagy az átruházás bármely más – akár ellenérték fejében történő, akár ingyenes – formáját és a víziállatok gazdaságból vagy puhatestű-tenyésztési területről történő elvitelének bármilyen formáját;
 
-14.[^6] Gazdaság: víziállat-tenyésztő vállalkozás által működtetett olyan helyiség, zárt terület vagy létesítmény, ahol tenyésztett víziállatokat forgalomba hozatal céljából tartanak, beleértve az ilyen célra használt haltermelési létesítményt és az ilyen tevékenységet folytató halgazdálkodási vízterületet, ahol nem kizárólag vadon élő víziállatot tartanak, az átmeneti tárolók és azon helyiségek, zárt területek vagy létesítmények kivételével, ahol emberi fogyasztás céljából lehalászott vagy kifogott vadon élő víziállatokat átmenetileg, leölésig, és etetés nélkül tartanak;
+14.[^6] Gazdaság: víziállat-tenyésztő vállalkozás által működtetett olyan helyiség, zárt terület vagy létesítmény, ahol tenyésztett víziállatokat forgalomba hozatal céljából tartanak, beleértve az ilyen célra használt haltermelési létesítményt és az ilyen tevékenységet folytató nyilvántartott halgazdálkodási vízterületet, az átmeneti tárolók és azon helyiségek, zárt területek vagy létesítmények kivételével, ahol emberi fogyasztás céljából lehalászott vagy kifogott vadon élő víziállatokat átmenetileg, leölésig, és etetés nélkül tartanak;
 
 15. Haltakarmány-előállítás: a víziállatok haltakarmányozási célú feldolgozása, keverése, kezelése és csomagolása;
 
@@ -98,9 +98,9 @@ e)[^11] a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. t
 
 f)[^12] az állati eredetű élelmiszerek forgalomba hozatalának és az értékesítés helyén történő élelmiszer-előállításnak élelmiszer-higiéniai feltételeiről szóló 64/2007. (VII. 23.) FVM–EüM együttes rendelet
 
-[^4]: A 3. § (1) bekezdés 3. pontja a 32/2014. (XII. 9.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. § (1) bekezdés 3. pontja a 46/2015. (VIII. 7.) FM rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdés 7. pontja a 32/2014. (XII. 9.) FM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^6]: A 3. § (1) bekezdés 14. pontja a 32/2014. (XII. 9.) FM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdés 14. pontja a 46/2015. (VIII. 7.) FM rendelet 27. § (2) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdés 34. pontját a 32/2014. (XII. 9.) FM rendelet 8. § (5) bekezdése iktatta be.
 [^8]: A 3. § (1) bekezdés 35. pontját a 32/2014. (XII. 9.) FM rendelet 8. § (5) bekezdése iktatta be.
 [^9]: A 3. § (1) bekezdés 36. pontját a 32/2014. (XII. 9.) FM rendelet 8. § (5) bekezdése iktatta be.

@@ -8,7 +8,7 @@ Engedéllyel rendelkező víziállat-tenyésztő
 
 vállalkozás
 
-1.[^127] A NÉBIH az egyes víziállat-tenyésztő vállalkozásokra vonatkozó következő minimuminformációkat rögzíti a 6. § szerinti nyilvántartásban:
+1.[^135] A NÉBIH az egyes víziállat-tenyésztő vállalkozásokra vonatkozó következő minimuminformációkat rögzíti a 6. § szerinti nyilvántartásban:
 
 a) a víziállat-tenyésztő vállalkozás neve, illetve cégneve és címe, illetve székhelye, valamint a kapcsolattartásra vonatkozó adatok (telefon, fax, e-mail),
 
@@ -30,7 +30,7 @@ II. RÉSZ
 
 Engedéllyel rendelkező feldolgozólétesítmények
 
-## A NÉBIH az engedéllyel rendelkező feldolgozólétesítményekre vonatkozó következő minimuminformációkat rögzíti a 6. § szerinti nyilvántartásban:[^128]
+## A NÉBIH az engedéllyel rendelkező feldolgozólétesítményekre vonatkozó következő minimuminformációkat rögzíti a 6. § szerinti nyilvántartásban:[^136]
 
 a) az engedélyezett feldolgozólétesítmény neve, cégneve és címe, székhelye, valamint a kapcsolattartásra vonatkozó adatok (telefon, fax, e-mail),
 
@@ -42,5 +42,5 @@ d) az engedéllyel rendelkező feldolgozólétesítmény szennyvízkezelő rends
 
 e) az engedéllyel rendelkező feldolgozólétesítményben élelmiszer-előállítás céljából feldolgozásra kerülő tenyésztett víziállatfajok.
 
-[^127]: Az 1. számú melléklet I. rész 1. pont nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]
-[^128]: Az 1. számú melléklet II. rész nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]
+[^135]: Az 1. számú melléklet I. rész 1. pont nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]
+[^136]: Az 1. számú melléklet II. rész nyitó szövegrésze az 51/2013. (VI. 17.) VM rendelet 17. § i) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § h) pontjával elrendelt módosítás, amely szerint az „Az MgSzH Központ” szövegrész helyébe az „A NÉBIH” szöveg lép, nem vezethető át.]

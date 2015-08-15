@@ -1,4 +1,4 @@
-## Fogékony fajok esetében a koi herpesz-vírus betegség kimutatására irányuló 1 éven belüli diagnosztikai vizsgálatok eredményközlőjének iktatószáma(i) és dátuma(i): (csatolandó a diagnosztikai vizsgálatok eredményét tartalmazó, NRL által kiállított eredményközlő másolata)
+## Fogékony fajok esetében a koi herpesz-vírus betegség vagy egyéb betegség (…………………………….) kimutatására irányuló 1 éven belüli diagnosztikai vizsgálatok eredményközlőjének iktatószáma(i) és dátuma(i): (csatolandó a diagnosztikai vizsgálatok eredményét tartalmazó, NRL által kiállított eredményközlő másolata).
 
 ## Kelt: ………………………. 20………………………………
 
@@ -10,13 +10,9 @@
 
 ## Készült: 3 példányban (eredeti példányt szállítmánnyal kell küldeni; másolati példány a származási gazdaságban marad; tőpéldány a kiállítónál marad)
 
-9. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^150]
+9. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^159]
 
-Állattartó nyilatkozata
-
-belföldi élő, előkészítés nélkül, emberi fogyasztás céljából és emberi fogyasztást megelőző, előkészítés céljából forgalomba hozott halszállításhoz
-
-(Élelmiszerláncra vonatkozó információ)
+## Állattartói nyilatkozat halak előkészítés nélkül, emberi fogyasztás céljából és emberi fogyasztást megelőző, előkészítés céljából történő belföldi forgalomba hozatalához (Élelmiszerláncra vonatkozó információ)
 
 Sorszám:
 
@@ -64,7 +60,15 @@ g) Az állatok állatgyógyászati készítménnyel csak az állatorvos utasít�
 
 h) Az állatoknak adott, 0 napnál nagyobb élelmezés-egészségügyi várakozási idejű állatgyógyászati készítmények és egyéb kezelések
 
-|  | Készítmény neve | Kezelés időpontja | Várakozási idő (napfok) |
+|  | A | B | C |
+
+|  | Készítmény neve | Kezelés időpontja | Várakozási idő (lebomlási nap) |
+
+| 1. |  |  |  |
+
+| 2. |  |  |  |
+
+| … |  |  |  |
 
 Az állatgyógyászati termékekről szóló 128/2009. (X. 6.) FVM rendelet 11. § (5) bekezdése szerint amennyiben a felhasznált gyógyszeren nincs feltüntetve a kezelendő állatfajra vonatkozó élelmezés-egészségügyi várakozási idő, az állatorvos által előírt élelmezés-egészségügyi várakozási idő nem lehet kevesebb, mint halhús esetében 500 napfok.
 
@@ -82,4 +86,4 @@ Dátum: .................................................. (érvényes: a kiáll
 
 gazdaság képviselője
 
-[^150]: A 9. számú mellékletet a 32/2014. (XII. 9.) FM rendelet 8. § (31) bekezdés c) pontja iktatta be.
+[^159]: A 9. számú mellékletet a 32/2014. (XII. 9.) FM rendelet 8. § (31) bekezdés c) pontja iktatta be, szövege a 46/2015. (VIII. 7.) FM rendelet 33. §-a szerint módosított szöveg.
