@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti a 98/2001. (VI. 15.) Korm. rendelet.
+## 22. §[^1]
 
 1. melléklet a 225/2015. (VIII. 7.) Korm. rendelethez
 
@@ -213,3 +213,5 @@ d) a veszélyes hulladék átadójának KTJ-azonosítója (ha van);
 e) a ”Gy” lap száma;
 
 f) a bizonylat kiállításának helye, időpontja, az eljáró felek aláírása.
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
