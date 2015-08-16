@@ -1,3 +1,0 @@
-## 32. § A 127/2008. (IX. 29.) FVM rendelet 59. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Amennyiben a képesített víziállat-egészségőr a 16. § (1) bekezdése, a 19. § (3) bekezdése, valamint a 20. § (3) bekezdése szerinti víziállat-egészségőri igazolás kiállítására vonatkozó szabályokat megszegi, a megyei kormányhivatal a tevékenységének végzését határozott időre, teljesen vagy részlegesen felfüggesztheti, korlátozhatja, megtilthatja, az újbóli tevékenységét oktatáson való részvétel igazolásához és a vizsgakövetelmények teljesítéséhez kötheti. A képesítés újbóli megszerzése a visszavonástól számított 3 év elteltével a 10. § (2) bekezdése szerinti tanfolyam ismételt elvégzését követő eredményes vizsgához kötött.”
