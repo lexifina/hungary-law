@@ -70,7 +70,7 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 14. Összesen
 
-4K09115M_2
+5K18057M_2
 
 | Az ügyek száma, megoszlása | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 
@@ -168,4 +168,8 @@ a ....... év ............... hónapjában elintézett ügyekről
 
 * Azokban az esetekben, amelyeknél egyidejűleg vannak folyamatban az egyetemleges felelős adóstársak elleni végrehajtások, a pénzkövetelést csak egy alkalommal kell feltüntetni.
 
-[^110]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja, a 17/2014. (III. 13.) KIM rendelet 19. §-a, a 18/2014. (III. 13.) KIM rendelet 54. §-a, 21/2014. (III. 13.) KIM rendelet 7. § (2)–(3) bekezdése, a 29/2014. (IV. 30.) KIM rendelet 1. § (8) bekezdése szerint módosított szöveg.
+5. Európai öröklési bizonyítványok
+
+| Kiállított európai öröklési bizonyítványok száma: |  |
+
+[^110]: Az 5. számú melléklet a 28/2010. KIM rendelet 1. §-ával megállapított, a 40/2011. (XII. 30.) KIM rendelet 7. § e) pontja, a 17/2014. (III. 13.) KIM rendelet 19. §-a, a 18/2014. (III. 13.) KIM rendelet 54. §-a, 21/2014. (III. 13.) KIM rendelet 7. § (2)–(3) bekezdése, a 29/2014. (IV. 30.) KIM rendelet 1. § (8) bekezdése, a 12/2015. (VII. 23.) IM rendelet 1. §-a szerint módosított szöveg.

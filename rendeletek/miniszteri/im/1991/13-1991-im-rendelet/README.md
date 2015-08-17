@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-13-20-0
 | 2014-01-01 | 1991-13-20-06.22 | 34/2013. (XII. 23.) KIM rendelet |
 | 2014-03-15 | 1991-13-20-06.23 | 21/2014. (III. 13.) KIM rendelet |
 | 2014-07-01 | 1991-13-20-06.24 | 29/2014. (IV. 30.) KIM rendelet |
+| 2015-08-17 | 1991-13-20-06.25 | 40/2011. (XII. 30.) KIM rendelet |
