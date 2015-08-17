@@ -4,4 +4,4 @@
 
 (3) Amennyiben a végrehajtást kérő kézbesítési megbízottat nem jelöl meg, vagy az (1) bekezdésben meghatározott iratokat a kézbesítési megbízott részére kézbesíteni nem lehet, az iratot hirdetmény útján kell kézbesíteni. A Pp. 102. § (2) és (5)–(7) bekezdéseit megfelelően alkalmazni kell.
 
-(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, és az 1215/2012/EU rendelet szerinti határozat végrehajtására indult eljárásban.
+(4) Nem kell kézbesítési megbízottat megjelölni a 861/2007/EK rendelet, a 4/2009/EK tanácsi rendelet, az 1215/2012/EU rendelet, és a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti határozat végrehajtására indult eljárásban.

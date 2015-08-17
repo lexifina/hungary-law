@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2015-04-18 | 2015. évi XL. törvény | 1994-53-00-00.109 |
 | 2015-07-03 | 2015. évi LXXIX. törvény | 1994-53-00-00.110 |
 | 2015-07-09 | 2015. évi CVII. törvény | 1994-53-00-00.111 |
+| 2015-08-17 | 2015. évi LXXI. törvény | 1994-53-00-00.112 |

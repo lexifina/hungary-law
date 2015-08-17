@@ -1,6 +1,6 @@
 ## Végrehajtási lap
 
-15. § (1) Az első fokon eljárt bíróság végrehajtási lapot állít˙ki
+15. § (1) Az első fokon eljárt bíróság végrehajtási lapot állít ki
 
 a) a bíróság polgári ügyben hozott marasztaló határozata alapján,
 

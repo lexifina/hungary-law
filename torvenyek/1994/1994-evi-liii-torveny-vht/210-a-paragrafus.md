@@ -2,7 +2,9 @@
 
 a) a 44/2001/EK tanácsi rendelet szerinti, a bírósági határozat (perbeli egyezség) és közokirat végrehajthatóságának megállapítására irányuló eljárás során – ha a 44/2001/EK tanácsi rendelet másképpen nem rendelkezik – és
 
-b) a hágai jegyzőkönyv hatálya alá nem tartozó tagállamban, a 4/2009/EK tanácsi rendelet szerinti tartási ügyben hozott bírósági határozat (perbeli egyezség) és kiállított közokirat végrehajthatóságának megállapítására irányuló eljárás során – ha a 4/2009/EK tanácsi rendelet másképpen nem rendelkezik –
+b) a hágai jegyzőkönyv hatálya alá nem tartozó tagállamban, a 4/2009/EK tanácsi rendelet szerinti tartási ügyben hozott bírósági határozat (perbeli egyezség) és kiállított közokirat végrehajthatóságának megállapítására irányuló eljárás során – ha a 4/2009/EK tanácsi rendelet másképpen nem rendelkezik –,
+
+c) a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti öröklési ügyben hozott bírósági határozat (perbeli egyezség) és kiállított közokirat végrehajthatóságának megállapítására irányuló eljárás során – ha a 650/2012/EU európai parlamenti és tanácsi rendelet másképpen nem rendelkezik
 
 az e Fejezetben foglaltak szerint jár el.
 
