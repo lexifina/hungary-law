@@ -1,4 +1,4 @@
-## 35. §[^42]
+## 35. §[^43]
 
 ## Az iratboríték
 
@@ -10,4 +10,4 @@
 
 (4) A pótborítékon fel kell jegyezni az ügy számát és az elküldött iratok sorszámát, a befejezés időpontját és az iratok elküldésének napját. Az iratok visszaérkezése után a pótborítékot az iratok között kell elhelyezni.
 
-[^42]: A 35. §-t a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^43]: A 35. §-t a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése hatályon kívül helyezte.

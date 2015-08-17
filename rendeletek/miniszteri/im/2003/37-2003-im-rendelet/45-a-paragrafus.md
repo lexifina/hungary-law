@@ -1,6 +1,6 @@
-## A végrehajtási záradék megküldése[^48]
+## A végrehajtási záradék megküldése[^49]
 
-45/A. §[^49] (1) A közjegyző a végrehajtás végrehajtási záradékkal való elrendelését követően a végrehajtás elrendelése iránti ügy iratai között őrzi a végrehajtási záradék alapjául szolgáló okiratnak a végrehajtási kérelemhez csatolt hiteles kiadmányát, a bírósági végrehajtónak pedig a végrehajtási záradékot és a végrehajtási záradék alapjául szolgáló okirat hiteles kiadmányát küldi meg.
+45/A. §[^50] (1) A közjegyző a végrehajtás végrehajtási záradékkal való elrendelését követően a végrehajtás elrendelése iránti ügy iratai között őrzi a végrehajtási záradék alapjául szolgáló okiratnak a végrehajtási kérelemhez csatolt hiteles kiadmányát, a bírósági végrehajtónak pedig a végrehajtási záradékot és a végrehajtási záradék alapjául szolgáló okirat hiteles kiadmányát küldi meg.
 
 (2) A közjegyző a végrehajtás elrendelésekor
 
@@ -12,8 +12,8 @@ b) a végrehajtást kérő részére és – az adósnak történő kézbesíté
 
 (3) Ha a fél végrehajtás elrendelése iránti kérelméhez nem csatolja a végrehajtás alapjául szolgáló közjegyzői okirat hiteles kiadmányát vagy annak nem hiteles másolatát, azt a közjegyző kérelemre a hiteles kiadmány és nem hiteles másolat készítésére irányadó szabályoknak megfelelően – az eljárás lefolytatásához szükséges számban – maga készíti el.
 
-(4)[^50] A közjegyzőnek a végrehajtás elrendeléséhez a végrehajtási záradék alapjául szolgáló közjegyzői okirat hiteles másolatát kell használnia abban az esetben, ha a végrehajtási záradék alapjául szolgáló okirat a MOKK levéltárában vagy a törvényszék irattárában került elhelyezésre, továbbá akkor is, ha a végrehajtási záradék alapjául szolgáló okiratot készítő közjegyzőt tartós helyettes helyettesíti.
+(4)[^51] A közjegyzőnek a végrehajtás elrendeléséhez a végrehajtási záradék alapjául szolgáló közjegyzői okirat hiteles másolatát kell használnia abban az esetben, ha a végrehajtási záradék alapjául szolgáló okirat a MOKK levéltárában vagy a törvényszék irattárában került elhelyezésre, továbbá akkor is, ha a végrehajtási záradék alapjául szolgáló okiratot készítő közjegyzőt tartós helyettes helyettesíti.
 
-[^48]: A 45/A. §-t megelőző alcímet a 28/2010. (XII. 31.) KIM rendelet 3. § (3) bekezdése iktatta be.
-[^49]: A 45/A. §-t a 28/2010. (XII. 31.) KIM rendelet 3. § (3) bekezdése iktatta be.
-[^50]: A 45/A. § (4) bekezdése a 40/2011. (XII. 30.) KIM rendelet 26. § b) pontja szerint módosított szöveg.
+[^49]: A 45/A. §-t megelőző alcímet a 28/2010. (XII. 31.) KIM rendelet 3. § (3) bekezdése iktatta be.
+[^50]: A 45/A. §-t a 28/2010. (XII. 31.) KIM rendelet 3. § (3) bekezdése iktatta be.
+[^51]: A 45/A. § (4) bekezdése a 40/2011. (XII. 30.) KIM rendelet 26. § b) pontja szerint módosított szöveg.
