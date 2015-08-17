@@ -2,6 +2,6 @@
 
 (2) Az 1–22. § a rendelet kihirdetését követő 30. napon lép hatályba.
 
-(3)–(4)[^23]
+(3)–(4)[^27]
 
-[^23]: A 23. § (3)–(4) bekezdése e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
+[^27]: A 23. § (3)–(4) bekezdése e rendelet 26. § (1) bekezdése alapján hatályát vesztette.

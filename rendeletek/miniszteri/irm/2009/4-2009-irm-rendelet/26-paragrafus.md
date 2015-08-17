@@ -1,6 +1,6 @@
-## 25. §[^27]
+## 25. §[^31]
 
-26. §[^28]
+26. §[^32]
 
 Melléklet a 4/2009. (III. 6.) IRM rendelethez
 
@@ -46,5 +46,5 @@ P. H.
 
 megküldő
 
-[^27]: A 25. § e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
-[^28]: A 26. § a (3) bekezdése alapján hatályát vesztette.
+[^31]: A 25. § e rendelet 26. § (1) bekezdése alapján hatályát vesztette.
+[^32]: A 26. § a (3) bekezdése alapján hatályát vesztette.

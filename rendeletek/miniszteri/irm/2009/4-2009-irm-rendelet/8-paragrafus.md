@@ -1,9 +1,5 @@
-## 8. §[^8] A közjegyző a nyilvántartásba az intézkedésnek megfelelően jegyzi be továbbá
+8. §[^11] (1) A közjegyző a nyilvántartásba az intézkedésnek megfelelően jegyzi be a nyilvántartásban szereplő és általa kihirdetett valamennyi végintézkedés kihirdetésének időpontját és az annak alapján lefolytatott hagyatéki eljárás ügyszámát.
 
-a) az általa készített vagy letétbe vett végintézkedéshez kapcsolódó új végintézkedés készítésének vagy letétbe vételének tényét a 6–7. §-ban foglaltaknak megfelelően,
+(2) Ha a közjegyző által meghozott teljes hatályú hagyatékátadó végzés utóörökös nevezést tartalmaz, a közjegyző az előörökös 6. § a) pontja szerinti személyes adatait, valamint a teljes hatályú hagyatékátadó végzés ügyszámát is bejegyzi a bejegyzésre irányadó eljárás szerint a nyilvántartásba.
 
-b) a nyilvántartásba bejegyzett végintézkedés kihirdetésének időpontját, vagy
-
-c) a nyilvántartásba bejegyzett végintézkedés felhasználásával lefolytatott hagyatéki eljárás ügyszámát és jogerős befejezésének időpontját.
-
-[^8]: A 8. § e rendelet 23. § (2) bekezdése alapján 2009. április 5-én lépett hatályba.
+[^11]: A 8. § a 12/2015. (VII. 23.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.
