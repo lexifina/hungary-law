@@ -30,6 +30,16 @@ m) a megismételt hagyatéki eljárás ingatlan-nyilvántartásba való feljegyz
 
 végzés ellen.
 
-(3) A (2) bekezdésben foglalt fellebbezésnek a végzés végrehajtására halasztó hatálya nincs.
+(2a) Fellebbezésnek van helye
+
+a) az európai öröklési bizonyítvány kiállítása iránti kérelem tárgyában hozott,
+
+b) az európai öröklési bizonyítvány kiállítása iránti kérelemnek helyt adó végzés megváltoztatása vagy hatályon kívül helyezése tárgyában hozott,
+
+c) az európai öröklési bizonyítvány hatályának felfüggesztése tárgyában hozott
+
+végzés ellen.
+
+(3) A (2) bekezdésben és (2a) bekezdés c) pontjában foglalt fellebbezésnek a végzés végrehajtására halasztó hatálya nincs.
 
 (4) Az eljárást befejező végzés elleni fellebbezésben kifogásolható a bizonyítási indítványt elutasító végzés.

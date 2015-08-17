@@ -1,4 +1,4 @@
-29. § (1) A leltározást a vagyon fekvésének helyén a szemlére vonatkozó szabályok szerint kell elvégezni, ha
+29. § (1) A leltározást a belföldi vagyon fekvésének helyén a szemlére vonatkozó szabályok szerint kell elvégezni, ha
 
 a) az öröklésben érdekelt méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő vagy ügyeinek vitelében akadályozott személy öröklési érdeke veszélyeztetve van,
 

@@ -1,6 +1,6 @@
 ## Biztosítási intézkedés
 
-32. § (1) Ha a hagyaték átadására még nem került sor, az öröklésben érdekelt azonban valószínűsítette, hogy a hagyatékhoz tartozó vagyontárgy veszélyben van, az öröklésben érdekelt indokolt kérelmére – amíg a leltárt meg nem küldte a közjegyzőnek, a jegyző, azt követően – a közjegyző végzésben biztosítási intézkedésként elrendelheti a leltárba felvett vagyonnak, a vagyon meghatározott részének vagy egyes vagyontárgyaknak
+32. § (1) Ha a hagyaték átadására még nem került sor, az öröklésben érdekelt azonban valószínűsítette, hogy a hagyatékhoz tartozó vagyontárgy veszélyben van, az öröklésben érdekelt indokolt kérelmére – amíg a leltárt meg nem küldte a közjegyzőnek, a jegyző, azt követően – a közjegyző végzésben biztosítási intézkedésként elrendelheti a leltárba felvett belföldi vagyonnak, e vagyon meghatározott részének vagy egyes vagyontárgyaknak
 
 a) bírósági letétbe helyezését,
 

@@ -1,0 +1,1 @@
+43/B. § A hagyatéki leltárban szereplő külföldi vagyonnak, e vagyon meghatározott részének vagy egyes vagyontárgyaknak a biztosítása érdekében az öröklésben érdekelt indokolt kérelmére a közjegyző hagyatéki eljárási igazolást ad ki. A hagyatéki eljárási igazolás nem minősül biztosítási intézkedésnek.

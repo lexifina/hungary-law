@@ -36,7 +36,7 @@ j) másodlagos öröklési vita: az öröklésben érdekeltek között a hagyat�
 
 k) osztályos egyezség: a hagyatéki eljárásban az örökösként érdekeltek között létrejött – a hagyatékban való részesedés mellett és kizárólag a hagyatéki vagyonra (annak egészére vagy részére) vonatkozóan kötött –, a hagyatékból való részesedést a hagyaték megnyíltára visszamenőleges hatállyal meghatározó, élők közötti jogügyletnek nem minősülő egyezség;
 
-l) öröklésben érdekelt: az örökösként érdekelt, továbbá az, aki az eljárásban hagyatéki hitelezőként, igénylőként vagy kötelesrészre jogosultként lépett fel, továbbá a biztosítási intézkedés, illetve a jogorvoslat iránti kérelem előterjesztése körében a gyámhatóság;
+l) öröklésben érdekelt: az örökösként érdekelt, továbbá az, aki az eljárásban hagyatéki hitelezőként, igénylőként vagy kötelesrészre jogosultként lépett fel, továbbá a 650/2012/EU európai parlamenti és tanácsi rendelet szerinti végrendeleti végrehajtó és hagyatéki gondnok, valamint a biztosítási intézkedés, illetve a jogorvoslat iránti kérelem előterjesztése körében a gyámhatóság;
 
 m) öröklési jogi vita: az örökösként érdekeltek között abban a kérdésben felmerült vita, hogy a hagyaték kit és milyen jogcímen illet, valamint a természetben kiadni igényelt kötelesrész tárgyában felmerült vita;
 
