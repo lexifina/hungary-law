@@ -1,13 +1,3 @@
-## Az R1. 4. számú melléklet 2. pontja a következő l)–n) alponttal egészül ki:
-
-## (Krónikus aktív hepatitis C kezelésére (a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási protokoll alapján):)
-
-## „l) dasabuvir,
-
-## m) ombitasvir/paritaprevir/ritonavir,
-
-## n) ledipasvir/sofosbuvir”
-
 5. melléklet a 38/2015. (VIII. 17.) EMMI rendelethez
 
 „17. melléklet a 31/2010. (V. 13.) EüM rendelethez

@@ -1,4 +1,4 @@
-## 6. § A finanszírozási eljárásrendekről szóló 31/2010. (V. 13.) EüM rendelet 17. melléklete helyébe az 5. melléklet lép.
+## 6. §[^5]
 
 ## 3. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) Az 1–3. §, valamint a 4. § (1)–(3) bekezdése 2015. szeptember 1-jén lép hatályba.
 
 (3) Az 5. § 2015. november 1-jén lép hatályba.
+
+[^5]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
