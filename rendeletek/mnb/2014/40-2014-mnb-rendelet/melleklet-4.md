@@ -70,7 +70,9 @@
 
 ## 6. Nyilatkozom, hogy a társaság hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
-## 7. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 7. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 8.Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## IV. Mellékletek
 
@@ -154,7 +156,9 @@
 
 ## 6. Nyilatkozom, hogy a társaság vagy kérelmező hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
-## 7. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 7. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 8. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## IV. Mellékletek
 
@@ -236,7 +240,9 @@
 
 ## 6. Nyilatkozom, hogy a társaság hozzájárul az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának az MNB által megkeresett szervek útján történő ellenőrzéséhez.
 
-## 7. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 7. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 8. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## IV. Mellékletek
 
@@ -352,9 +358,7 @@
 
 ## 3. többes kiemelt közvetítői,
 
-## 4. alkuszi
-
-## engedélyét a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 32. § (2) és (4) bekezdése, valamint 35. § (1) bekezdése alapján vissza kívánja adni, egyben kéri a Magyar Nemzeti Bankot (a továbbiakban: MNB), hogy azt jelen kérelme alapján vonja vissza.
+## 4. alkuszi engedélyét a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 32. § (2) és (4) bekezdése, valamint 35. § (1) bekezdése alapján vissza kívánja adni, egyben kéri a Magyar Nemzeti Bankot (a továbbiakban: MNB), hogy azt jelen kérelme alapján vonja vissza.
 
 ## III. Nyilatkozatok
 
@@ -476,7 +480,7 @@
 
 ## aláírás/cégszerű aláírás
 
-4. melléklet a 40/2014. (X. 29.) MNB rendelethez
+4. melléklet a 40/2014. (X. 29.) MNB rendelethez[^6]
 
 A Bszt., Kbftv. és a Tpt. hatálya alá tartozó, a befektetési vállalkozást, az árutőzsdei szolgáltatót, az ÁÉKBV-alapkezelőt, az alternatív befektetési alapkezelőt (ABAK), a tőzsdét, az elszámolóházi, az értéktári tevékenységet végző szervezetet érintő, a rendelet 2. §-ában meghatározott engedélyezési, jóváhagyási és nyilvántartásba vételi kérelmek, valamint bejelentések formanyomtatványa
 
@@ -572,6 +576,80 @@ I. Azonosító adatok
 
 3.9.4. megszerezni kívánt értékpapír ISIN-kódja:
 
+4. Vezető állású személy jelöltet azonosító adatok
+
+4.1. Tisztség pontos megjelölése vezető tisztségviselő/részvénytársasági formában működő befektetési vállalkozás ügyvezetője/külföldi (harmadik országbeli) fióktelep formájában működő befektetési vállalkozás vezetője/igazgatósági tag/felügyelőbizottsági tag/létesítő okirat vagy belső szabályzat által vezető állású személyként meghatározott személy
+
+4.2. Név:
+
+4.3. Születési név:
+
+4.4. Anyja neve:
+
+4.5. Születési hely:
+
+4.6. Születési idő:
+
+4.7. Állampolgárság:
+
+4.8. Lakcím (postai irányítószám, település, közterület neve, közterület jellege, házszám, emelet, ajtó):
+
+4.9. Levelezési cím (postai irányítószám, település, közterület neve, közterület jellege, házszám, emelet, ajtó):
+
+4.10. Személyi igazolvány száma:
+
+4.11. Útlevélszáma:
+
+4.12. Egyéb személyazonosság igazolására alkalmas igazolvány megnevezése (típusa):
+
+4.13. Egyéb személyazonosság igazolására alkalmas igazolvány száma:
+
+4.14. Első számú vezető:
+
+4.14.1. igen
+
+4.14.2. nem
+
+4.14.3. adatszolgáltatásban később jelentem
+
+4.15. Tisztség alapja:
+
+4.15.1. megválasztás
+
+4.15.1.1. első megválasztás
+
+4.15.1.2. újraválasztás
+
+4.15.2. kinevezés
+
+4.15.2.1. első kinevezés
+
+4.15.2.2. újbóli kinevezés
+
+4.16. Alkalmazott
+
+4.16.1. igen
+
+4.16.2. nem
+
+4.17. Cégjegyzési jog:
+
+4.17.1. nincs
+
+4.17.2. van
+
+4.17.1.1. önálló
+
+4.17.1.2. együttes
+
+4.17.3. adatszolgáltatásban később jelentem
+
+4.18. Első számú vezető esetében
+
+4.18.1. e-mail cím (munkahelyi):
+
+4.18.2. telefon (munkahelyi):
+
 II. Kérelem
 
 1. Kérem, hogy a Magyar Nemzeti Bank (a továbbiakban: MNB) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 8. § (1) bekezdése alapján engedélyezze a társaság számára a Bszt. 5. § (1) bekezdésében meghatározott alábbi befektetési szolgáltatási tevékenységek végzését:
@@ -634,11 +712,13 @@ II. Kérelem
 
 3.11. egyéb, a 3.1-3.10. pontban nem említett eszközhöz joghoz, kötelezettséghez, indexhez, intézkedéshez kapcsolódó származtatott ügylet, eszköz, amely rendelkezik a többi származtatott eszköz valamelyikének jellemzőivel, ideértve azt, hogy valamely szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek vele, elismert elszámolóházon keresztül számolják el és teljesítik vagy rendszeres pótbefizetési kötelezettség érvényes rá, valamint az 1287/2006/EK bizottsági rendelet 39. cikkében meghatározott származtatott ügylet.
 
-III. Nyilatkozatok
+III. Nyilatkozatok
 
 1. Nyilatkozom arról, hogy a társaság irányítása Magyarország területén létesítendő központi irodában történik.
 
-2. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+2. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek
+
+3. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 IV. Mellékletek
 
@@ -856,7 +936,7 @@ II. Kérelem
 
 4.3. a Bszt. 6. § e)-g) pontjaiban meghatározott pénzügyi eszköz.
 
-III. Nyilatkozat
+III. Nyilatkozat
 
 A kérelmező nyilatkozatai
 
@@ -877,6 +957,10 @@ A kérelmező nyilatkozatai
 3.1.1. az ügyfelével szemben fennálló elismert kötelezettségeinek eleget tett,
 
 3.1.2. szerződéseinek teljesítését más árutőzsdei szolgáltató átvállalta.
+
+4. Tevékenységi engedélyezés (kizárólag új piacra lépés) esetén szükséges nyilatkozat
+
+Nyilatkozom, hogy a II.1. pont szerinti engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
 
 IV. Mellékletek
 
@@ -1018,7 +1102,9 @@ III. Nyilatkozatok
 
 3. Nyilatkozom, hogy a minősített befolyás megszerzése a befektetési vállalkozás Magyarország területén található központi irodából történő irányítását nem veszélyezteti.
 
-4. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+4. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek
+
+5. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 IV. Mellékletek
 
@@ -1116,9 +1202,9 @@ I. Azonosító adatok
 
 3.13. Megszerezni kívánt értékpapír ISIN-kódja:
 
-4. Ügyvezető, igazgatóság elnöke vagy felügyelőbizottság elnöke jelöltet azonosító adatok
+4. Ügyvezető, igazgatóság tagja, vagy felügyelőbizottság tagja, teljes tevékenységet irányító személy, befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy jelöltet azonosító adatok
 
-4.1. Tisztség pontos megjelölése ügyvezető/igazgatóság elnöke/felügyelőbizottság elnöke
+4.1. Tisztség pontos megjelölése ügyvezető/igazgatóság tagja/felügyelőbizottság tagja/ teljes tevékenységet irányító személy/befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy
 
 4.2. Név:
 
@@ -1224,96 +1310,4 @@ II. Kérelem
 
 2.2. befektetési tanácsadás,
 
-2.3. kollektív befektetési értékpapírok letéti őrzése, letétkezelése és az ezzel kapcsolatos adminisztratív szolgáltatások, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja.
-
-3. Kérem, hogy az MNB a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 6. §-ában meghatározott alábbi pénzügyi eszközök vonatkozásában engedélyezze a társaság részére a II. 2. pontban megjelölt portfóliókezelési, befektetési tanácsadási, letéti őrzési és letétkezelési tevékenységek végzését:
-
-3.1. az átruházható értékpapír,
-
-3.2. a pénzpiaci eszköz,
-
-3.3. a kollektív befektetési forma által kibocsátott értékpapír,
-
-3.4. az értékpapírhoz, devizához, kamatlábhoz vagy hozamhoz kapcsolódó opció, határidős ügylet, csereügylet, határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, eszköz, pénzügyi index vagy intézkedés, amely fizikai leszállítással teljesíthető vagy pénzben kiegyenlíthető,
-
-3.5. az áruhoz kapcsolódó opció, határidős ügylet, csereügylet, határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, eszköz, amelyet pénzben kell kiegyenlíteni vagy az ügyletben résztvevő felek valamelyikének választása szerint pénzben kiegyenlíthető, ide nem értve a teljesítési határidő lejártát vagy más megszűnési okot,
-
-3.6. az áruhoz kapcsolódó opció, határidős ügylet, csereügylet, valamint bármely más származtatott ügylet, eszköz, amely fizikai leszállítással teljesíthető, feltéve hogy azzal szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek,
-
-3.7. a 3.6. pont alá nem tartozó, más származtatott pénzügyi eszköz jellemzőivel rendelkező, áruhoz kapcsolódó opció, tőzsdei és tőzsdén kívüli határidős ügylet, csereügylet, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető, és nem kereskedelmi célt szolgál, ha azt elismert elszámolóházon keresztül számolják el vagy rendszeres pótbefizetési kötelezettség érvényes rá,
-
-3.8. a hitelkockázat átruházását célzó származtatott ügylet,
-
-3.9. a különbözetre vonatkozó pénzügyi megállapodás,
-
-3.10. az éghajlati, időjárási változóhoz, fuvardíjhoz, légszennyező anyag vagy üvegházhatású gáz kibocsátásához, inflációs rátához vagy más hivatalos gazdasági statisztikához kapcsolódó opció, határidős ügylet, csereügylet, határidős kamatláb-megállapodás vagy bármely más származtatott ügylet, eszköz, amelyet pénzben kell kiegyenlíteni vagy amely az ügyletben résztvevő felek valamelyikének választása szerint pénzben kiegyenlíthető, ide nem értve azt az esetet, ha a megszűnés oka a nemteljesítés,
-
-3.11. egyéb, a 3.1-3.10. pontban nem említett eszközhöz joghoz, kötelezettséghez, indexhez, intézkedéshez kapcsolódó származtatott ügylet, eszköz, amely rendelkezik a többi származtatott eszköz valamelyikének jellemzőivel, ideértve azt, hogy valamely szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek vele, elismert elszámolóházon keresztül számolják el és teljesítik vagy rendszeres pótbefizetési kötelezettség érvényes rá, valamint az 1287/2006/EK bizottsági rendelet 39. cikkében meghatározott származtatott ügylet.
-
-III. Nyilatkozatok
-
-1. Nyilatkozom, hogy az alapítani kívánt társaság:
-
-1.1. más EGT-államban székhellyel rendelkező befektetési vállalkozás, hitelintézet, befektetési alapkezelő, biztosító, kollektív befektetési forma leányvállalata,
-
-1.2. más EGT-államban székhellyel rendelkező befektetési vállalkozás, hitelintézet, befektetési alapkezelő, biztosító, kollektív befektetési forma anyavállalatának leányvállalata,
-
-1.3. ellenőrző befolyással rendelkező természetes vagy jogi személy részvényese más EGT-államban székhellyel rendelkező befektetési vállalkozásban, hitelintézetben, befektetési alapkezelőben, biztosítóban, kollektív befektetési formában ellenőrző befolyással rendelkezik.
-
-2. Nyilatkozom, hogy a befektetési szolgáltatási és kiegészítő szolgáltatási tevékenység végzésének irányítása a Magyarország területén létesítendő központi irodában történik.
-
-3. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
-
-IV. Mellékletek
-
-V. Megjegyzés
-
-Keltezés: ___________, ____ (év) _____ (hónap) ____ (nap)
-
-………………………………
-
-aláírás/cégszerű aláírás
-
-7. ÁÉKBV-alapkezelő tevékenységi köre módosításának engedélyezése iránti kérelem formanyomtatványa
-
-I. Azonosító adatok
-
-A kérelmező társaságot (a továbbiakban: társaság) azonosító adatok
-
-1. név:
-
-2. székhely (postai irányítószám, település, közterület neve, közterület jellege, házszám, emelet, ajtó):
-
-3. adószám első 8 számjegye (törzsszám):
-
-4. kapcsolattartó
-
-4.1. neve:
-
-4.2. telefonszáma:
-
-II. Kérelem
-
-Kérem, hogy a Magyar Nemzeti Bank (a továbbiakban: MNB) a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 5. §-a alapján engedélyezze a társaság számára a befektetési alapkezelés (kollektív portfóliókezelés) Kbftv. 6. § (1) bekezdése szerinti egyes résztevékenységeit magában foglaló tevékenységi körének módosítását az alábbiak szerint:
-
-1. A társaság az alábbi tevékenységi kört/köröket kívánja felvenni
-
-2. A társaság az alábbi tevékenységi kört/köröket kívánja leadni
-
-3. Kérem, hogy az MNB a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 6. §-ában meghatározott alábbi pénzügyi eszközök vonatkozásában engedélyezze a társaság részére a II. 1. pontban megjelölt portfóliókezelési, befektetési tanácsadási, vagy letéti őrzési, letétkezelési tevékenységek végzését:
-
-3.1. az átruházható értékpapír,
-
-3.2. a pénzpiaci eszköz,
-
-3.3. a kollektív befektetési forma által kibocsátott értékpapír,
-
-3.4. az értékpapírhoz, devizához, kamatlábhoz vagy hozamhoz kapcsolódó opció, határidős ügylet, csereügylet, határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, eszköz, pénzügyi index vagy intézkedés, amely fizikai leszállítással teljesíthető vagy pénzben kiegyenlíthető,
-
-3.5. az áruhoz kapcsolódó opció, határidős ügylet, csereügylet, határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, eszköz, amelyet pénzben kell kiegyenlíteni vagy az ügyletben résztvevő felek valamelyikének választása szerint pénzben kiegyenlíthető, ide nem értve a teljesítési határidő lejártát vagy más megszűnési okot,
-
-3.6. az áruhoz kapcsolódó opció, határidős ügylet, csereügylet, valamint bármely más származtatott ügylet, eszköz, amely fizikai leszállítással teljesíthető, feltéve hogy azzal szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek,
-
-3.7. a 3.6. pont alá nem tartozó, más származtatott pénzügyi eszköz jellemzőivel rendelkező, áruhoz kapcsolódó opció, tőzsdei és tőzsdén kívüli határidős ügylet, csereügylet, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető, és nem kereskedelmi célt szolgál, ha azt elismert elszámolóházon keresztül számolják el vagy rendszeres pótbefizetési kötelezettség érvényes rá,
-
-3.8. a hitelkockázat átruházását célzó származtatott ügylet,
+[^6]: A 4. melléklet a 28/2015. (VIII. 12.) MNB rendelet 5. §-a szerint módosított szöveg. E módosító rendelet 12. §-a alapján a 2015. augusztus 20-át követően indult eljárásokban kell alkalmazni.

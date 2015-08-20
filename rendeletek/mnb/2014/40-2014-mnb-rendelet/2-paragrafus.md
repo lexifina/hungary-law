@@ -18,9 +18,11 @@
 
 9. alternatív befektetési alapkezelő (ABAK) tevékenységi köre módosításának engedélyezése,
 
-10. befektetési alapkezelőnél ügyvezető, igazgatóság elnöke, felügyelőbizottság elnöke megválasztásának, kinevezésének, újraválasztásának engedélyezése,
+10.[^1] befektetési alapkezelőnél ügyvezető, igazgatóság tagja, felügyelőbizottság tagja, teljes tevékenységet irányító személy, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy megválasztásának, kinevezésének, újraválasztásának engedélyezése,
 
 11. tőzsde, elszámolóházi és értéktári tevékenységet végző szervezet, központi szerződő fél szabályzatának, szabályzata módosításának jóváhagyása,
+
+11a.[^2] befektetési vállalkozásnál vezető állású személyek megválasztásának, kinevezésének, újraválasztásának engedélyezése,
 
 12. befektetési vállalkozásnál és árutőzsdei szolgáltatónál bejelentés köteles személy megválasztásának, kinevezésének, újraválasztásának bejelentése és nyilvántartásba vétele,
 
@@ -39,3 +41,6 @@
 19. Bszt. szerinti függő ügynök és további közvetítő nyilvántartásba vétele,
 
 20. Kbftv. szerinti közvetítő és további közvetítő nyilvántartásba vétele.
+
+[^1]: A 2. § 10. pontja a 28/2015. (VIII. 12.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. §-a alapján a 2015. augusztus 20-át követően indult eljárásokban kell alkalmazni.
+[^2]: A 2. § 11a. pontját a 28/2015. (VIII. 12.) MNB rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 12. §-a alapján a 2015. augusztus 20-át követően indult eljárásokban kell alkalmazni.

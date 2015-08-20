@@ -244,13 +244,15 @@
 
 ## 1.1. Nyilatkozom, hogy a társaság irányítása a Magyarországon létesítendő főirodában történik.
 
-## 1.2. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 1.2. Nyilatkozom, hogy az alapítandó pénzügyi vállalkozás tevékenységét az alábbi időpontban kívánja megkezdeni:
 
-## 1.3. Nyilatkozom, hogy az alapítandó pénzügyi vállalkozás tevékenységét az alábbi időpontban kívánja megkezdeni:
+## 1.3. Nyilatkozom, hogy a társaság a jogszabályban meghatározott, illetve jogszabályon alapuló adatszolgáltatások teljesítésére felkészült, mellyel kapcsolatban további dokumentumokat mellékelek.
 
-## 1.4. Nyilatkozom, hogy a társaság a jogszabályban meghatározott, illetve jogszabályon alapuló adatszolgáltatások teljesítésére felkészült, mellyel kapcsolatban további dokumentumokat mellékelek.
+## 1.4. Nyilatkozom, hogy a pénzügyi vállalkozás a külön törvényben meghatározott központi hitelinformációs rendszerhez csatlakozni kíván, mellyel kapcsolatban további dokumentumokat mellékelek.
 
-## 1.5. Nyilatkozom, hogy a pénzügyi vállalkozás a külön törvényben meghatározott központi hitelinformációs rendszerhez csatlakozni kíván, mellyel kapcsolatban további dokumentumokat mellékelek.
+## 1.5. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 1.6. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## 2. Befolyásoló részesedés szerzés engedélyezését kérő természetes személyek nyilatkozatai
 
@@ -566,7 +568,9 @@
 
 ## 2. Nyilatkozom, hogy az egyesüléssel – beolvadással vagy összeolvadással – létrejövő pénzügyi intézmény a jogszabályban meghatározott, illetve jogszabályon alapuló adatszolgáltatások teljesítésére felkészült.
 
-## 3. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 3. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 4. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## V. Mellékletek
 
@@ -1094,7 +1098,9 @@
 
 ## 5. Nyilatkozom, hogy a jogutód pénzügyi intézmények a külön törvényben meghatározott központi hitelinformációs rendszerhez csatlakozni kívánnak, mellyel kapcsolatban további dokumentumokat mellékelek.
 
-## 6. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 6. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 7. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## V. Mellékletek
 
@@ -1374,7 +1380,9 @@
 
 ## 1. A kérelmező nyilatkozata
 
-## 1.1. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 1.1. Nyilatkozom, hogy az engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 1.2. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## 2. Befolyásoló részesedés szerzés engedélyezését kérő nem természetes személyek nyilatkozatai
 
@@ -1482,7 +1490,9 @@
 
 ## 7. Nyilatkozom, hogy a zálogfiók működtetését az alábbi személyek végzik, mely személyek közt a feladatok megosztásának szabályozása megtörtént:
 
-## 8. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 8. Nyilatkozom, hogy a II.1. pont szerinti engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 9. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## IV. Mellékletek
 
@@ -1550,7 +1560,9 @@
 
 ## 1. A kérelmező nyilatkozatai
 
-## 1.1. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
+## 1.1. Nyilatkozom, hogy a II.1. vagy II.2. pont szerinti engedélyezési eljárásért az igazgatási szolgáltatási díjat az engedélyezési eljárás megindításával egyidejűleg megfizettem, amellyel kapcsolatban további dokumentumot mellékelek.
+
+## 1.2. Nyilatkozom, hogy az engedély kiadása érdekében szükséges minden lényeges tényt és adatot közöltem az MNB-vel.
 
 ## 2. A kiemelt közvetítő igénybevételének engedélyezésekor szükséges további nyilatkozatok
 
@@ -1962,4 +1974,6 @@
 
 ## aláírás/cégszerű aláírás
 
-3. melléklet a 40/2014. (X. 29.) MNB rendelethez
+3. melléklet a 40/2014. (X. 29.) MNB rendelethez[^5]
+
+[^5]: A 3. melléklet a 28/2015. (VIII. 12.) MNB rendelet 4. §-a szerint módosított szöveg. E módosító rendelet 12. §-a alapján a 2015. augusztus 20-át követően indult eljárásokban kell alkalmazni.
