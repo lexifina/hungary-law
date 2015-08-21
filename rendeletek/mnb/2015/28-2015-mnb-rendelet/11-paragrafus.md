@@ -1,1 +1,3 @@
-## 10. § A Rendelet 9. melléklete a 9. melléklet szerint módosul.
+## 1–10. §[^1]
+
+[^1]: Az 1–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
