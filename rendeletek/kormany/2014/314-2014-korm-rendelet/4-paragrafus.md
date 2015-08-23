@@ -32,4 +32,12 @@ o) az állami halászjegyhez kötött halászeszközökkel történő halászat 
 
 p) a halászati engedélyhez kötött halászeszközökkel történő halászat során, a nyilvántartott halgazdálkodási vízterületre vonatkozó halfogási tilalmi időben történő hal kifogása esetén: 50 000–200 000 forint,
 
-q) a Hhvtv. 46. § (4) bekezdésében nem szereplő egyéb, a Hhvtv. 46. § (1) bekezdése szerint tiltott fogási eszköz vagy fogási mód alkalmazása esetén: 50 000–100 000 forint.
+q)[^1] a nem nyilvántartott halgazdálkodási vízterületen őshonos hal kifogása esetén: 10 000–100 000 forint,
+
+r)[^2] a halfogásra alkalmas horgászkészség halfogási célú használata során folyamatos felügyelet nélkül hagyása esetén: 10 000–30 000 forint,
+
+s)[^3] a Hhvtv. 46. § (4) bekezdésében nem szereplő egyéb, a Hhvtv. 46. § (1) bekezdése szerinti tiltott fogási eszköz vagy mód alkalmazása esetén: 10 000–100 000 forint.
+
+[^1]: A 4. § q) pontja a 223/2015. (VIII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § r) pontját a 223/2015. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 4. § s) pontját a 223/2015. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.
