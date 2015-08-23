@@ -1,0 +1,3 @@
+## 3. § A Korm. rendelet 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Méret- vagy mennyiségi korlátozással vagy tilalmi idővel védett hal jogosulatlan kifogását megvalósító személyre kiszabható halvédelmi bírság mértéke megegyezik a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben megállapított, az őshonos halfajokra vonatkozó halgazdálkodási értékkel. Amennyiben a halvédelmi bírság mértéke az egyedenként számított és összesített érték alapján nem éri el a 20 000 forintot, akkor a bírság mértékét 20 000 forintban kell megállapítani. A bírság összege nem haladhatja meg a Hhvtv. 67. § (3) bekezdése szerinti legmagasabb összeget.”
