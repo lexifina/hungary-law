@@ -1,3 +1,0 @@
-## 2. § A Korm. rendelet 5. §-a helyébe a következő rendelkezés lép:
-
-## „5. § A nem fogható őshonos hal jogosulatlan kifogását megvalósító személlyel szemben kiszabható halvédelmi bírság mértéke megegyezik a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló rendeletben megállapított, az őshonos halfajokra vonatkozó halgazdálkodási értékkel. Amennyiben a halvédelmi bírság mértéke az egyedenként számított és összesített érték alapján nem éri el a 15 000 forintot, akkor a bírság mértékét 15 000 forintban kell megállapítani. A bírság nem haladhatja meg a Hhvtv. 67. § (3) bekezdése szerinti legmagasabb összeget.”
