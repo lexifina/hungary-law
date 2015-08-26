@@ -1,0 +1,110 @@
+# A köztársasági elnök 364/2015. (VIII. 26.) KE határozata
+
+Magyar Közlöny 2015. évi 119. szám, 2015. augusztus 26. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/d1cfd4748718a72630eaa16027c768ac376c7515/dokumentumok/d183a365dd43fd428e1dc123055826d8c5326693/letoltes)
+
+---
+
+A köztársasági elnök 364/2015. (VIII. 26.) KE határozata
+egyetemi tanári kinevezésekről
+Az Alaptörvény 9. cikk (4) bekezdés c) pontja, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 27. §
+(3) bekezdése alapján – az emberi erőforrások miniszterének a fenntartóval egyetértésben tett javaslatára –
+Dr. Ábrahám Istvánt,
+Dr. Ács Nándort,
+Dr. Aubert Antalt,
+Dr. Bagi Dánielt,
+Dr. Bakonyi Tamást,
+Balázs Gábor DLA-t,
+Dr. Berde Évát,
+Dr. Bergou Jánost,
+Besesekné Dr. Molnár Gyöngyvért,
+Dr. Bodó Gábort,
+
+Dr. Borbás Anikót,
+Dr. Bozóki Zoltán Józsefet,
+Dr. Cinkler Tibort,
+Dr. Csámpai Antalt,
+Dr. Csanádi Zoltánt,
+Dr. Csutora Máriát,
+Dr. Csuzdi Csabát,
+Dr. Dezső Balázst,
+Dr. Dusek Tamást,
+Dr. Farkas István Pétert,
+Dr. Ferencz Marcelt,
+Dr. Ferenczi Miklóst,
+Dr. Fónai Mihály Ferencet,
+Dr. Füzi Jánost,
+Dr. Fűzné Dr. Pikó Bettina Franciskát,
+Dr. Gáti Istvánt,
+Dr. Geiszt Miklóst,
+Dr. Gelei Andreát,
+Dr. Gergely Árpád Lászlót,
+Dr. Gingl Zoltánt,
+Dr. Gribovszki Zoltánt,
+Dr. Gulyás Lászlót,
+Dr. Gyulai Rollandot,
+Dr. Hajdu Ottót,
+Dr. Halász Gábor Józsefet,
+Dr. Halbritter András Ernőt,
+Dr. Horn Ildikót,
+Dr. Horváth Dezsőt,
+Dr. Kacskovics Imrét,
+Dr. Kállay Mihály Balázst,
+Dr. Kálmán Bernadette-et,
+Dr. Kappanyos Andrást,
+Dr. Karátson Jánost,
+Dr. Kertész András Tibort,
+Dr. Keserű György Miklóst,
+Dr. Kiss Rita Máriát,
+Dr. Koppa Pált,
+Dr. Kovács Mihályt,
+Dr. Kőrösi Gábort,
+Dr. Kroó Katalint,
+Dr. Lázárné Dr. Oláh Juditot,
+Dr. Lente Gábort,
+Dr. Mezősi Emesét,
+Dr. Mócsai Attilát,
+Molnár György DLA-t,
+Dr. Muraközy Lászlót,
+Dr. Nagy Beátát,
+Dr. Nagy Péter Viktort,
+Dr. Nemes Attilát,
+Dr. Nemes László Norbertet,
+Dr. Nguyen Duc Quangot,
+Dr. Nuzzo Armandót,
+Dr. Olay Csabát,
+Dr. Ormos Mihályt,
+
+Dr. Pálinkó Istvánt,
+Dr. Péntek Mártát,
+Dr. Pinke Gyulát,
+Dr. Piskóti Istvánt,
+Dr. Polgár Csabát,
+Dr. Radeleczki Sándort,
+Dr. Radnai Mártát,
+Dr. Rakonczai Jánost,
+Dr. Ravaszné Dr. Zsolnai Anikót,
+Sass Valéria DLA-t,
+Selmeczi György DLA-t,
+Dr. Simon Mariannát,
+Dr. Solymosi István Tamást,
+Dr. Stumpf Istvánt,
+Dr. Szabó Andrást,
+Dr. Szatmáry Károlyt,
+Dr. Szilágyi Zsófiát,
+Dr. Szűcs Gabriellát,
+Dr. Tallér Zsófiát,
+Dr. Tapolcai Jánost,
+Dr. Tóth Józsefet,
+Dr. Tóth Pétert,
+Dr. Varga Istvánt,
+Dr. Varga Jánost és
+Dr. Vaszil Györgyöt
+2015. szeptember 1. napjával egyetemi tanárrá kinevezem.
+Budapest, 2015. augusztus 6.
+ Áder János s. k.,
+ köztársasági elnök
+Ellenjegyzem:
+Budapest, 2015. augusztus 18.
+ Balog Zoltán s. k.,
+ emberi erőforrások minisztere
+KEH ügyszám: IV-3/04630-2/2015.
