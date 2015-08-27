@@ -4,6 +4,9 @@
 
 a) az nem haladhatja meg a termelői szerveződés rendelkezésére álló szabad csekély összegű támogatási keretét, és
 
-b) az legfeljebb a hitelkamat 50%-a lehet, de nem haladhatja meg az évi 4 százalékpontot.
+b)[^3] az legfeljebb a hitelkamat 60%-a lehet, de nem haladhatja meg az évi 4 százalékpontot.
 
-(3) A kamattámogatás forrása a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény 1. melléklet XII. Vidékfejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Nemzeti támogatások alcím, 8. Folyó kiadások és jövedelemtámogatások jogcímcsoport szerinti előirányzat.
+(3)[^4] A kamattámogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú, Folyó kiadások és jövedelemtámogatások fejezeti kezelésű előirányzat-felhasználási keretszámla.
+
+[^3]: A 2. § (2) bekezdés b) pontja a 49/2015. (VIII. 12.) FM rendelet 15. § (13) bekezdése szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 49/2015. (VIII. 12.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
