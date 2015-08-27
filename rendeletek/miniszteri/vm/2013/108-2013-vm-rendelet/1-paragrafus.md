@@ -20,8 +20,11 @@ b)[^2] az Európai Unió működéséről szóló szerződés 107. és 108. cikk
 
 8. támogatástartalom: az élelmiszeripari vállalkozás számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
-9. támogatástartalom-igazolás: a kedvezményes kamat támogatástartalmáról szóló, az MFB Zrt. által kiállított igazolás, a kamattámogatás támogatástartalmáról szóló, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által kiállított igazolás, valamint a kedvezményes kezességvállalás támogatástartalmáról szóló, a kezességvállaló intézmény által kiállított igazolás, amelyek a támogatási kategóriát is megjelölik.
+9. támogatástartalom-igazolás: a kedvezményes kamat támogatástartalmáról szóló, az MFB Zrt. által kiállított igazolás, a kamattámogatás támogatástartalmáról szóló, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által kiállított igazolás, valamint a kedvezményes kezességvállalás támogatástartalmáról szóló, a kezességvállaló intézmény által kiállított igazolás, amelyek a támogatási kategóriát is megjelölik;
+
+10.[^4] kiegészítő kamattámogatási kérelem: a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely legfeljebb a kiegészítő kamattámogatási kérelem beadásának naptári negyedévét megelőző második naptári negyedév első napjától kezdődően, a hitel hátralévő futamidejére vonatkozik.
 
 [^1]: Az 1. § 1. pont a) alpontja a 36/2014. (IV. 4.) VM rendelet 96. §-ával megállapított szöveg.
 [^2]: Az 1. § 1. pont b) alpontja a 18/2014. (X. 29.) FM rendelet 48. §-ával megállapított szöveg.
 [^3]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 100. §-a hatályon kívül helyezte.
+[^4]: Az 1. § 10. pontját a 48/2015. (VIII. 12.) FM rendelet 14. § (1) bekezdése iktatta be.
