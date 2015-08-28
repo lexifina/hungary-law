@@ -24,6 +24,6 @@ Határidő: 2015. szeptember 30.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1359/2014. (VI. 30.) Korm. határozat a következő 2a. ponttal egészül ki:
+3.[^1]
 
-„2a. A Kormány a kormánybiztos feladatkörébe utalja a 2024-ben sorra kerülő XXXIII. Olimpiai Játékok, valamint a XVII. Paralimpiai Játékok Budapesten történő megrendezése érdekében benyújtásra kerülő pályázat elkészítésével kapcsolatos kormányzati feladatok ellátását. A kormánybiztos tevékenységét e feladatok tekintetében – az 5a. pontban foglaltaktól eltérően – közvetlenül a miniszterelnök irányítja.”
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
