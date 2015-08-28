@@ -32,20 +32,6 @@
 
 ## r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-3. melléklet a 47/2015. (VIII. 12.) FM rendelethez
+3–4. melléklet a 47/2015. (VIII. 12.) FM rendelethez[^2]
 
-1. A 120/2012. (XI. 23.) VM rendelet 1. melléklet 5.1. alpontja helyébe a következő rendelkezés lép:
-
-(A vállalkozás nyilatkozata arról, hogy)
-
-## „5.1. milyen mértékű kamattámogatást és mely időponttól kezdődően kíván igénybe venni,”
-
-2. A 120/2012. (XI. 23.) VM rendelet 1. melléklet 5.3. alpontja helyébe a következő rendelkezés lép:
-
-(A vállalkozás nyilatkozata arról, hogy)
-
-## „5.3. tudomásul veszi, hogy amennyiben a 4. § (1) bekezdés e) pont ea) alpontja alapján tett nyilatkozat támogatási adataiban változás következik be, úgy arról köteles haladéktalanul tájékoztatni a pénzügyi intézményt;”
-
-3. A 120/2012. (XI. 23.) VM rendelet 1. melléklet 5.5. alpontja helyébe a következő rendelkezés lép:
-
-(A vállalkozás nyilatkozata arról, hogy)
+[^2]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

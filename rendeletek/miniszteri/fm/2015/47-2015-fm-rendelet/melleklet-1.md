@@ -1,3 +1,5 @@
+## 15. §[^1]
+
 1. melléklet a 47/2015. (VIII. 12.) FM rendelethez
 
 ## A kamattámogatási kérelem adattartalma
@@ -29,3 +31,5 @@
 7.2. hogy a rendelkezésre álló szabad csekély összegű támogatási keret alapján kerüljön megállapításra az igénybe vehető kamattámogatás mértéke és ezen összeg mértékéig az MVH zárolás, lekötés érdekében eljárjon;
 
 8. Keltezés, aláírás.
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
