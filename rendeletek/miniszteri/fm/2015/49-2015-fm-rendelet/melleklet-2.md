@@ -32,20 +32,6 @@
 
 ## r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-2. melléklet a 49/2015. (VIII. 12.) FM rendelethez
+2. melléklet a 49/2015. (VIII. 12.) FM rendelethez[^2]
 
-1. A 15/2014. (X. 9.) FM rendelet 1. mellékletében a „Q” meghatározása helyébe a következő rendelkezés lép:
-
-## „Q – adott évben a hitelhez nyújtott – egyéni referencia kamatláb alapján számított kamattámogatást meg nem haladó – kamattámogatás összege a kamattámogatási kérelemben megjelölt százalékpont és a törlesztési ütemterv alapján számítva, forintban. Kiegészítő kamattámogatási kérelem esetén csak a kamattámogatás növekményt kell figyelembe venni a kiegészítő kamattámogatási kérelemben feltüntetett kezdőidőponttól a hitel teljes futamidejére
-
-## Ha iH >= iER és iER > iF , akkor Q = (iER – iF)*H,
-
-## Ha iH >= iER és iER <= iF , akkor Q = 0;
-
-## Ha iH < iER és iH > iF , akkor Q = (iH – iF)*H,
-
-## Ha iH < iER és iH = iF , akkor Q = 0,”
-
-2. A 15/2014. (X. 9.) FM rendelet 1. mellékletében az „n” meghatározása helyébe a következő rendelkezés lép:
-
-„n – évek száma, a támogatástartalom a kamattámogatási kérelem beérkezésének naptári negyedévét közvetlenül megelőző második naptári negyedév első napjától a hitel futamidejének utolsó napjáig terjedő időszak alapján kerül kiszámításra,”
+[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
