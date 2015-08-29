@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme réz (90%) és cink (10%) ötvözetéből készült, súlya 18,4 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján, a jobb oldali mezőben a Mohácsi Nemzeti Emlékhelyen található szélcsengős kopjafa részletének ábrázolása látható. Az ábrázolástól balra, fent, az emlékérme széléhez igazítva, két vízszintes sorban a „2000” értékjelzés és a „FORINT” felirat, lent, az emlékérme szélén, köriratban a „MAGYARORSZÁG” felirat olvasható. Az ábrázolástól jobbra, fent, köriratban a „BP.” verdejel és a „2015” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőtől kissé jobbra egy, a Mohácsi Nemzeti Emlékhelyen található kopjafa részletének ábrázolása látható. Az ábrázolástól balra a Mohácsi Nemzeti Emlékhely emblémája látható, az emlékérme szélén, köriratban a „MOHÁCSI NEMZETI EMLÉKHELY” felirat olvasható. Az ábrázolástól jobbra a nemzeti emlékhelyek emblémája látható, alatta, vízszintesen az „1526” évszám olvasható. Az emlékérme jobb alsó szélén Szabó Virág tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
