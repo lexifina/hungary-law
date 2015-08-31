@@ -18,7 +18,7 @@ f)[^6] állami adós által vállalt szerződéses kötelezettség: a 4. § (1) 
 
 g)[^7] garancia: ajánlattételi (tender)-, előleg-visszafizetési-, teljesítési,- jólteljesítési-, szavatossági- vagy visszatartási- garancia;
 
-h)[^8] export: olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok szerint exportárbevételként számol el, ideértve az Etv. 1. § (5a) bekezdése szerinti beszállítói ügylet vagy exportcélú befektetés eredményeként keletkező exportárbevételt is;
+h)[^8] export: olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok szerint exportárbevételként számol el, ideértve az Etv. 1. § (5a) bekezdése szerinti beszállítói ügylet vagy exportcélú befektetés eredményeként keletkező árbevételt, exportárbevételt, valamint a 7. § (11) bekezdések vonatkozásában a belföldi gazdálkodó szervezet teljesítése eredményeként létrejövő árbevételt is;
 
 i)[^9] szállítói hitel: olyan tagállami származású áruk vagy szolgáltatások exportjáról szóló, egy vagy több szállító és egy vagy több vevő közötti kereskedelmi szerződésre vonatkozik, ahol a vevő(k) vállalja (vállalják), hogy a szállító(k)nak készpénzzel vagy hitelmegállapodás keretében fizet(nek);
 
@@ -58,18 +58,20 @@ v)[^25] egyéb módozat: az o), q), r), d), g) pontban meghatározott termékekh
 
 w)[^26] faktoring biztosítás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) bekezdés l) pontjában meghatározott pénzügyi szolgáltatási tevékenységhez az Etv. 3. § (3) bekezdés a) és b) pontjában foglaltaknak megfelelően nyújtott biztosítási vagy viszontbiztosítási fedezet,
 
-x)[^27] gazdálkodó szervezet: az Etv. 1. § (5a) bekezdés 3. pontjában meghatározott szervezet.
+x)[^27] gazdálkodó szervezet: az Etv. 1. § (5a) bekezdés 3. pontjában meghatározott szervezet,
+
+y)[^28] külföldi székhelyű hitelbiztosító: minden olyan nemzetközi szervezet, OECD tagországban bejegyzett biztosító és exporthitel-ügynökség, amely a rá irányadó jog szabályai szerint jogosult nem piacképes kockázatokra vonatkozó biztosítási tevékenységet végezni.
 
 (2) Az állami adósra vonatkozó előírásokat kell alkalmazni az (1) bekezdés b) pontja szerinti szervezet esetében, ha a kötelezettségeiért az állami adós, mint kezes vállal felelősséget.
 
-(3)[^28] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
+(3)[^29] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
 
 [^3]: A 2. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdésének d) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^5]: A 2. § (1) bekezdésének e) pontját a 48/2003. (IV. 3.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
 [^6]: A 2. § (1) bekezdésének f) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^7]: A 2. § (1) bekezdésének g) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 2. § (1) bekezdésének h) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdésének h) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 215/2015. (VII. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdésének i) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^10]: A 2. § (1) bekezdésének j) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
 [^11]: A 2. § (1) bekezdés k) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
@@ -89,4 +91,5 @@ x)[^27] gazdálkodó szervezet: az Etv. 1. § (5a) bekezdés 3. pontjában megha
 [^25]: A 2. § (1) bekezdés v) pontját a 185/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
 [^26]: A 2. § (1) bekezdés w) pontját az 537/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be.
 [^27]: A 2. § (1) bekezdés x) pontját a 80/2014. (III. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^28]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^28]: A 2. § (1) bekezdés y) pontját a 215/2015. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^29]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
