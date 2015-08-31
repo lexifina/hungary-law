@@ -54,6 +54,6 @@ i) figyelemmel kíséri, és feladatkörében eljárva gondozza a már betelepü
 
 j) feladatkörével összefüggésben részt vesz külföldi konferenciákon, rendezvényeken.
 
-(3)[^2]
+(3)[^4]
 
-[^2]: A 3. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 841. §-a iktatta be, hatályon kívül helyezte az 1/2015. (I. 15.) Korm. rendelet 2. §-a.
+[^4]: A 3. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 841. §-a iktatta be, hatályon kívül helyezte az 1/2015. (I. 15.) Korm. rendelet 2. §-a.
