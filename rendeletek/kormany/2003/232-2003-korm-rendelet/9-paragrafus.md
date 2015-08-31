@@ -1,6 +1,6 @@
 ## 8. § A segélyhitelnyújtás feltételeinek meg kell felelniük az OECD Megállapodás szerződéskötés időpontjában hatályos rendelkezéseinek.
 
-9. §[^15] (1) Kötött segélyhitel nem nyújtható olyan állami vagy magánprojekthez, amely piaci vagy az OECD Megállapodásban foglalt feltételekkel finanszírozva, üzleti alapon megvalósítható. E rendelkezés nem vonatkozik
+9. §[^16] (1) Kötött segélyhitel nem nyújtható olyan állami vagy magánprojekthez, amely piaci vagy az OECD Megállapodásban foglalt feltételekkel finanszírozva, üzleti alapon megvalósítható. E rendelkezés nem vonatkozik
 
 a) a de minimis hitellel,
 
@@ -24,4 +24,4 @@ b) az OECD Fenntartható Hitelezés Elveiről Szóló Egyezményben előírt min
 
 (5) A segélyhitelügyletben részt vevőknek írásban nyilatkozniuk kell arról, hogy az OECD „Vesztegetésről és a hivatalosan támogatott exporthitelekről” szóló cselekvési nyilatkozatban foglaltak értelmében nem vettek részt az ügylettel kapcsolatos vesztegetésben és nincs tudomásuk korrupcióról. Jelen rendelet alapján segélyhitel abban az esetben folyósítható, ha az Eximbank által az OECD „Államilag támogatott exporthitelek közös környezetvédelmi szemléletéről” szóló Ajánlásának megfelelően előzetesen elvégzett környezeti célú átvilágítás és a környezeti hatástanulmány alapján a finanszírozott ügylet nem minősül a környezetre nézve károsnak.
 
-[^15]: A 9. § a 299/2010. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^16]: A 9. § a 299/2010. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
