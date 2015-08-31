@@ -1,3 +1,3 @@
-## 10/B. §[^56]
+## 10/B. §[^65]
 
-[^56]: A 10/B. §-t a 140/2014. (IV. 30.) Korm. rendelet 1. § (11) bekezdése iktatta be, hatályon kívül helyezte e módosító rendelet 3. §-a.
+[^65]: A 10/B. §-t a 140/2014. (IV. 30.) Korm. rendelet 1. § (11) bekezdése iktatta be, hatályon kívül helyezte e módosító rendelet 3. §-a.
