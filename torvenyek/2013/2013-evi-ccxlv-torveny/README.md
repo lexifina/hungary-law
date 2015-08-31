@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-245-00-00
 | 2014-09-02 | 2010. évi CXXX. törvény | 2013-245-00-00.8 |
 | 2015-01-01 | 2014. évi CI. törvény | 2013-245-00-00.9 |
 | 2015-01-02 | 2010. évi CXXX. törvény | 2013-245-00-00.10 |
+| 2015-08-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-245-00-00.11 |
