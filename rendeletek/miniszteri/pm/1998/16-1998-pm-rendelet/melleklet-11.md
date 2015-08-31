@@ -1,4 +1,4 @@
-11. melléklet a 16/1998. (V. 20.) PM rendelethez[^79]
+11. melléklet a 16/1998. (V. 20.) PM rendelethez[^84]
 
 1. táblázat
 
@@ -252,4 +252,80 @@ lehívásához forgalmi típusú ügyleteknél
 
 | .............................................. Cégszerű aláírás | .............................................. Igazgatóság elnökének aláírása |
 
-[^79]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja, a 20/2014. (IV. 30.) NGM rendelet 1. § 13. pontja és 2. § 3. pontja szerint módosított szöveg.
+5. táblázat
+
+A MEHIB Zrt. ellenőrzési listája az általa kötött viszontbiztosítási szerződésből
+
+eredően fizetendő összeg költségvetésből történő lehívásához
+
+|  | A | B |
+
+| A MEHIB Zrt. által nyújtott viszontbiztosításra vonatkozó adatok |
+
+| 1. | viszontbiztosító (cégneve, székhelye) | Magyar Exporthitel Biztosító Zrt. |
+
+| 2. | viszontbiztosított külföldi székhelyű hitelbiztosító/ direkt biztosító (cégneve, székhelye) |  |
+
+| 3. | viszontbiztosítási szerződés száma |  |
+
+| 4. | viszontbiztosítási szerződés dátuma |  |
+
+| 5. | viszontbiztosítási szerződésben meghatározott kárviselési hányad meghatározása és mértéke |  |
+
+| 6. | viszontbiztosítási szerződés alapján a Mehib Zrt.-re eső biztosítási díj megfizetésre került | igen |
+
+| 7. | viszontbiztosítási szerződés alapján a Mehib Zrt. által vállalt kockázat nem-piacképesnek minősül | igen |
+
+| a külföldi székhelyű hitelbiztosító által biztosított ügylettel kapcsolatos alapvető adatok |
+
+| 8. | kockázat nem-piacképesnek minősül | igen |
+
+| 9. | biztosított (cégneve, székhelye) |  |
+
+| 10. | biztosítási szerződés megkötésének dátuma |  |
+
+| 11. | biztosítási szerződés száma |  |
+
+| 12. | biztosítási módozat |  |
+
+| 13. | biztosított ügylettel kapcsolatos adatok |  |
+
+|  | szerződő felek |  |
+
+| szerződéskötés dátuma |  |
+
+| szerződés tárgya |  |
+
+| szerződés devizaneme |  |
+
+| biztosítási esemény megnevezése |  |
+
+| 14. | biztosított ügylet teljesítésében részt vevő belföldi gazdálkodó szervezet (cégneve, székhelye) |  |
+
+| külföldi székhelyű hitelbiztosító általi kárfizetésre vonatkozó adatok |
+
+| 15. | külföldi székhelyű hitelbiztosító által teljesített kárfizetés összege és devizaneme |  |
+
+| 16. | külföldi székhelyű hitelbiztosító által teljesített kárfizetés időpontja |  |
+
+| 17. | biztosítási esemény bekövetkezésének időpontja |  |
+
+| 18. | Mehib Zrt. a külföldi székhelyű hitelbiztosító általi kárelbírálást a viszontbiztosítási szerződésben rögzítettek szerint megvizsgálta | igen |
+
+| MehibZrt.-t, mint viszontbiztosítót a viszontbiztosítási szerződésből eredően terhelő fizetési kötelezettség |
+
+| 19. | teljesült és igazolásra került a magyar származású export [312/2001. (XII. 28.) Korm. rendelet 7. §] | igen |
+
+| 20. | a viszontbiztosítási szerződés értelmében a Mehib Zrt.-re eső fizetési kötelezettség összege és pénzneme |  |
+
+| 21. | a viszontbiztosítási szerződés értelmében a Mehib Zrt.-re eső fizetési kötelezettség esedékessége |  |
+
+312/2001. (XII. 28.) Korm. rendelet = a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet
+
+Dátum: ....................................
+
+Készítette: ................................
+
+| ............................................................... Cégszerű aláírás | ............................................................................. Igazgatóság elnökének aláírása |
+
+[^84]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja, a 20/2014. (IV. 30.) NGM rendelet 1. § 13. pontja és 2. § 3. pontja, a 22/2015. (VIII. 28.) NGM rendelet 7. § (4) bekezdése szerint módosított szöveg.

@@ -48,6 +48,8 @@
 
 | 4. | Összesen: |  |  |  |  |  |  |  |
 
+| 5. | Összesen sorból nemzeti érdekű fedezetnyújtás (Szerződésenként) |  |  |  |  |  |  |  |
+
 ## Dátum: ....................................................
 
 ## Készítette: ..............................................
@@ -96,6 +98,26 @@
 
 ## Cégszerű aláírás
 
-5. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^73]
+## 5. táblázat a Mehib Zrt. által nyújtott viszontbiztosítási állományról ... év .... negyedévében
 
-[^73]: Az 5. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (3) bekezdésével megállapított, a 22/2011. (VI. 21.) NGM rendelet 12. § j) pontja szerint módosított szöveg.
+|  | A | B | C |
+
+| 1. | Ország | Érték |
+
+| millió Forint | ezer Deviza |
+
+| ... |  |  |  |
+
+| 2. | Összesen: |  |  |
+
+## Dátum: ....................................
+
+## Készítette: ................................
+
+## ...............................................................
+
+## Cégszerű aláírás
+
+5. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^78]
+
+[^78]: Az 5. számú melléklet a 22/2015. (VIII. 28.) NGM rendelet 7. § (3) bekezdésével megállapított szöveg.

@@ -12,11 +12,15 @@
 
 (4a)[^8] A Növekedési Hitelprogramhoz nyújtott garancia esetén az Eximbank a (4) bekezdésben előírt táblázatokhoz mellékeli nyilatkozatát arról, hogy a garanciát a KR. 13/A. § b) vagy c) pontja közül melyik szerint nyújtotta.
 
-(5)[^9] Az Eximbank a (3) bekezdés szerinti garanciabeváltás okafogyottságáról vagy az értesítésben szereplőnél kisebb összegéről haladéktalanul értesíti az államháztartásért felelős minisztert és a Magyar Államkincstárat.
+(4b)[^9] Amennyiben szükséges a (4) bekezdés szerinti adatszolgáltatásnak az igazgatóság elnöke általi aláírása, a Magyar Államkincstár értesítésére vonatkozó határidő a beváltásra vonatkozó igény Eximbankhoz történő beérkezésétől számított 10. munkanap.
 
-(6)[^10] Az Eximbank a Magyar Állam kockázatának felmérése céljából, az állami készfizető kezességgel fedezett exportcélú garanciaügyletekből adódó be nem váltott kötelezettségeket negyedévente rendszeresen – a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet (a továbbiakban: számviteli Korm. rendelet) általános előírásaival összhangban – a saját kockázatra vállalt kötelezettséggel azonos módon külön is minősíti. E minősítés során fedezetként nem vehető figyelembe a Magyar Állam készfizető kezességvállalása.
+(4c)[^10] Amennyiben a hiánypótlásra a (4) bekezdésben meghatározott határidő eredménytelenül telt el, a határidő nem hosszabbítható meg, a kérelmet a (4) bekezdés szerint ismételten be kell nyújtani.
 
-(7)[^11] Az Eximbank a (6) bekezdés szerinti minősítést követően a kötelezettségek egyes minősítési kategóriákba tartozó állományának nagyságáról a tárgynegyedévet követő hónap 15-éig tájékoztatja az államháztartásért felelős minisztert.
+(5)[^11] Az Eximbank a (3) bekezdés szerinti garanciabeváltás okafogyottságáról vagy az értesítésben szereplőnél kisebb összegéről haladéktalanul értesíti az államháztartásért felelős minisztert és a Magyar Államkincstárat.
+
+(6)[^12] Az Eximbank a Magyar Állam kockázatának felmérése céljából, az állami készfizető kezességgel fedezett exportcélú garanciaügyletekből adódó be nem váltott kötelezettségeket negyedévente rendszeresen – a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 250/2000. (XII. 24.) Korm. rendelet (a továbbiakban: számviteli Korm. rendelet) általános előírásaival összhangban – a saját kockázatra vállalt kötelezettséggel azonos módon külön is minősíti. E minősítés során fedezetként nem vehető figyelembe a Magyar Állam készfizető kezességvállalása.
+
+(7)[^13] Az Eximbank a (6) bekezdés szerinti minősítést követően a kötelezettségek egyes minősítési kategóriákba tartozó állományának nagyságáról a tárgynegyedévet követő hónap 15-éig tájékoztatja az államháztartásért felelős minisztert.
 
 (8) Az Eximbank éves beszámolójáról készített könyvvizsgálói jelentésben külön ki kell térni a kötelezettségek (6) bekezdés szerinti minősítésének valódiságára és a kötelezettségek egyes minősítési kategóriákba tartozó állományának nagyságára.
 
@@ -27,6 +31,8 @@
 [^6]: A 2. § (3a) bekezdését a 48/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdése iktatta be.
 [^7]: A 2. § (4) bekezdését a 9/2010. (III. 23.) PM rendelet 11. §-a hatályon kívül helyezte, újonnan a 16/2012. (VI. 28.) NGM rendelet 2. §-a iktatta be. Szövege az 54/2012. (XII. 29.) NGM rendelet 6. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § (4a) bekezdését a 48/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdése iktatta be.
-[^9]: A 2. § (5) bekezdése a 9/2010. (III. 23.) PM rendelet 1. § (2) bekezdésével megállapított, a 16/2012. (VI. 28.) NGM rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^10]: A 2. § (6) bekezdése a 9/2010. (III. 23.) PM rendelet 1. § (2) bekezdésével megállapított, az 54/2012. (XII. 29.) NGM rendelet 6. § c) pontja szerint módosított szöveg.
-[^11]: A 2. § (7) bekezdése a 22/2011. (VI. 21.) NGM rendelet 12. § d) pontja szerint módosított szöveg.
+[^9]: A 2. § (4b) bekezdését a 22/2015. (VIII. 28.) NGM rendelet 1. §-a iktatta be.
+[^10]: A 2. § (4c) bekezdését a 22/2015. (VIII. 28.) NGM rendelet 1. §-a iktatta be.
+[^11]: A 2. § (5) bekezdése a 9/2010. (III. 23.) PM rendelet 1. § (2) bekezdésével megállapított, a 16/2012. (VI. 28.) NGM rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 2. § (6) bekezdése a 9/2010. (III. 23.) PM rendelet 1. § (2) bekezdésével megállapított, az 54/2012. (XII. 29.) NGM rendelet 6. § c) pontja szerint módosított szöveg.
+[^13]: A 2. § (7) bekezdése a 22/2011. (VI. 21.) NGM rendelet 12. § d) pontja szerint módosított szöveg.

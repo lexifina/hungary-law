@@ -1,4 +1,4 @@
-10. melléklet a 16/1998. (V. 20.) PM rendelethez[^78]
+10. melléklet a 16/1998. (V. 20.) PM rendelethez[^83]
 
 1. táblázat
 
@@ -180,4 +180,4 @@ Az Eximbank Zrt. ellenőrzési listája kereskedelmi és egyéb garanciák bevá
 
 | ................................................... Cégszerű aláírás | ................................................... Igazgatóság elnökének aláírása |
 
-[^78]: A 10. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés a) pontjával megállapított és a 19/2013. (VI. 17.) NGM rendelet 3–4. §-a, a 20/2014. (IV. 30.) NGM rendelet 1. § 4–12. pontja és 2. § 2. pontja, a 48/2014. (XII. 30.) NGM rendelet 6. §-a szerint módosított szöveg.
+[^83]: A 10. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés a) pontjával megállapított és a 19/2013. (VI. 17.) NGM rendelet 3–4. §-a, a 20/2014. (IV. 30.) NGM rendelet 1. § 4–12. pontja és 2. § 2. pontja, a 48/2014. (XII. 30.) NGM rendelet 6. §-a szerint módosított szöveg.
