@@ -34,6 +34,6 @@
 
 ## 6. Az R1. 3. számú melléklet EÜ70 24. pontjának „Kijelölt intézmények” táblázatában a „Magyar Honvédség Honvédkórház” szövegrész helyébe a „Magyar Honvédség Egészségügyi Központ” szöveg, a „Vas Megyei Markusovszky Kórház Egyetemi Oktató Kórház Nonprofit Zrt.” szövegrész helyébe a „Markusovszky Egyetemi Oktatókórház” szöveg lép.
 
-4. melléklet a 38/2015. (VIII. 17.) EMMI rendelethez[^6]
+4. melléklet a 38/2015. (VIII. 17.) EMMI rendelethez[^4]
 
-[^6]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
