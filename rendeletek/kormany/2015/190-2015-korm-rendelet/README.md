@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-190-20-
 | --- | --- | --- |
 | 2015-07-23 | 2015-190-20-22.1 | 190/2015. (VII. 20.) Korm. rendelet |
 | 2015-07-24 | 2015-190-20-22.2 | 2010: CXXX. törvény |
+| 2015-09-01 | 2015-190-20-22.3 | 2010: CXXX. törvény |
