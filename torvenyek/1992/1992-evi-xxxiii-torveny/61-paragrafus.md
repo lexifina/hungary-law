@@ -30,7 +30,7 @@ db) a középiskolai végzettséget igénylő szakképesítéshez kötött munka
 
 e) az „E” fizetési osztályba
 
-ea) az egyetemi, főiskolai végzettséget nem tanúsító felsőfokú szakképesítéshez kötött munkakör,
+ea) az egyetemi, főiskolai végzettséget nem tanúsító felsőfokú szakképesítéshez, felsőoktatási szakképzésben szerzett szakképzettséghez kötött munkakör,
 
 eb) a középiskolai végzettséghez kötött akkreditált iskolai rendszerű felsőfokú szakképesítéshez kötött munkakör;
 

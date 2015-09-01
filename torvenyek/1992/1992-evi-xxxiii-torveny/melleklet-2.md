@@ -4,19 +4,37 @@ A felsőoktatási intézményben oktatói munkakört, valamint a tudományos kut
 
 |
 
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+1.
+
+|
+
 Munkakör
 
 |
 
-Fizetési
-
-fokozat
+Fizetési fokozat
 
 |
 
-Arányszám
+Arányszám (%)
 
-(%)
+|
+
+2.
 
 |
 
@@ -32,6 +50,10 @@ Egyetemi tanár
 
 |
 
+3.
+
+|
+
 Egyetemi tanár
 
 |
@@ -41,6 +63,10 @@ Egyetemi tanár
 |
 
 103
+
+|
+
+4.
 
 |
 
@@ -56,6 +82,26 @@ Egyetemi tanár
 
 |
 
+5.
+
+|
+
+Egyetemi docens (amennyiben habilitációval rendelkezik)
+
+|
+
+4
+
+|
+
+85
+
+|
+
+6.
+
+|
+
 Egyetemi docens
 
 |
@@ -65,6 +111,10 @@ Egyetemi docens
 |
 
 76
+
+|
+
+7.
 
 |
 
@@ -80,6 +130,10 @@ Egyetemi docens
 
 |
 
+8.
+
+|
+
 Egyetemi docens
 
 |
@@ -89,6 +143,10 @@ Egyetemi docens
 |
 
 70
+
+|
+
+9.
 
 |
 
@@ -104,6 +162,10 @@ Egyetemi adjunktus
 
 |
 
+10.
+
+|
+
 Egyetemi adjunktus
 
 |
@@ -116,6 +178,10 @@ Egyetemi adjunktus
 
 |
 
+11.
+
+|
+
 Egyetemi adjunktus
 
 |
@@ -125,6 +191,10 @@ Egyetemi adjunktus
 |
 
 50
+
+|
+
+12.
 
 |
 
@@ -140,6 +210,10 @@ Egyetemi tanársegéd
 
 |
 
+13.
+
+|
+
 Egyetemi tanársegéd (gyakornok)
 
 |
@@ -149,6 +223,26 @@ Egyetemi tanársegéd (gyakornok)
 |
 
 37
+
+|
+
+14.
+
+|
+
+Főiskolai tanár (amennyiben habilitációval rendelkezik)
+
+|
+
+4.
+
+|
+
+90
+
+|
+
+15.
 
 |
 
@@ -164,6 +258,10 @@ Főiskolai tanár
 
 |
 
+16.
+
+|
+
 Főiskolai tanár
 
 |
@@ -173,6 +271,10 @@ Főiskolai tanár
 |
 
 78
+
+|
+
+17.
 
 |
 
@@ -188,6 +290,10 @@ Főiskolai tanár
 
 |
 
+18.
+
+|
+
 Főiskolai docens
 
 |
@@ -197,6 +303,10 @@ Főiskolai docens
 |
 
 61
+
+|
+
+19.
 
 |
 
@@ -212,6 +322,10 @@ Főiskolai docens
 
 |
 
+20.
+
+|
+
 Főiskolai docens
 
 |
@@ -221,6 +335,10 @@ Főiskolai docens
 |
 
 55
+
+|
+
+21.
 
 |
 
@@ -236,6 +354,10 @@ Főiskolai adjunktus
 
 |
 
+22.
+
+|
+
 Főiskolai adjunktus
 
 |
@@ -248,6 +370,10 @@ Főiskolai adjunktus
 
 |
 
+23.
+
+|
+
 Főiskolai adjunktus
 
 |
@@ -257,6 +383,10 @@ Főiskolai adjunktus
 |
 
 45
+
+|
+
+24.
 
 |
 
@@ -272,6 +402,10 @@ Főiskolai tanársegéd
 
 |
 
+25.
+
+|
+
 Kutatóprofesszor, tudományos tanácsadó
 
 |
@@ -281,6 +415,10 @@ Kutatóprofesszor, tudományos tanácsadó
 |
 
 106
+
+|
+
+26.
 
 |
 
@@ -296,6 +434,10 @@ Kutatóprofesszor, tudományos tanácsadó
 
 |
 
+27.
+
+|
+
 Kutatóprofesszor, tudományos tanácsadó
 
 |
@@ -305,6 +447,10 @@ Kutatóprofesszor, tudományos tanácsadó
 |
 
 100
+
+|
+
+28.
 
 |
 
@@ -320,6 +466,10 @@ Tudományos főmunkatárs
 
 |
 
+29.
+
+|
+
 Tudományos főmunkatárs
 
 |
@@ -329,6 +479,10 @@ Tudományos főmunkatárs
 |
 
 73
+
+|
+
+30.
 
 |
 
@@ -344,6 +498,10 @@ Tudományos főmunkatárs
 
 |
 
+31.
+
+|
+
 Tudományos munkatárs
 
 |
@@ -356,6 +514,10 @@ Tudományos munkatárs
 
 |
 
+32.
+
+|
+
 Tudományos segédmunkatárs
 
 |
@@ -365,3 +527,35 @@ Tudományos segédmunkatárs
 |
 
 40
+
+|
+
+33.
+
+|
+
+Mesteroktató
+
+|
+
+2.
+
+|
+
+54
+
+|
+
+34.
+
+|
+
+Mesteroktató
+
+|
+
+1.
+
+|
+
+51
