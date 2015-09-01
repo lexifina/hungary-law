@@ -1,4 +1,4 @@
-20. §[^144] (1) A működési támogatás visszakövetelésére és a kamat követelésére a Hivatal jogosult. A követelést a fenntartóval írásban kell közölni, egyidejűleg a fenntartót figyelmeztetni kell a jogkövetkezményekre.
+20. §[^148] (1) A működési támogatás visszakövetelésére és a kamat követelésére a Hivatal jogosult. A követelést a fenntartóval írásban kell közölni, egyidejűleg a fenntartót figyelmeztetni kell a jogkövetkezményekre.
 
 (2) Ha a visszafizetendő támogatás és a fizetendő kamat együttes összege nem éri el az ezer forintot, a tartozást nem kell nyilvántartani és megfizetni.
 
@@ -6,4 +6,4 @@
 
 (4) A működési támogatás visszaköveteléséről, a követelt kamatról, valamint a fizetési kedvezmény engedélyezéséről és visszavonásáról a Hivatal haladéktalanul értesíti a folyósító igazgatóságot.
 
-[^144]: A 20. § a 353/2014. (XII. 29.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^148]: A 20. § a 353/2014. (XII. 29.) Korm. rendelet 56. §-ával megállapított szöveg.

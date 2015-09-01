@@ -22,19 +22,19 @@ c)[^18] támogató szolgáltatás és közösségi alapellátás esetén az adot
 
 ca) gyermekjóléti alapellátásban – a gyermekjóléti szolgáltatás kivételével –,
 
-cb) szociális szakellátásban vagy
+cb) szociális szakosított ellátásban – az éjjeli menedékhely kivételével – vagy
 
 cc) gyermekvédelmi szakellátásban
 
-## is részesül, a (8) bekezdésben meghatározott kivételekkel.
+## is részesül, a (8) és (8a) bekezdésben meghatározott kivételekkel.
 
 (8)[^19] A támogató szolgáltatás szállítási szolgáltatásával és a szállítási szolgáltatáshoz kapcsolódó személyi segítéssel teljesített feladatmutató meghatározása során figyelembe kell venni az azzal az ellátottal teljesített feladatmutatót, aki ugyanazon a napon
 
-a) fogyatékos személyek nappali ellátásában,
+a)[^20]
 
 b) gyermekjóléti alapellátásban,
 
-c) fogyatékos személyek gondozóházában, idősek otthonában, fogyatékos személyek otthonában, fogyatékos személyek rehabilitációs intézményében, fogyatékos személyek rehabilitációs célú lakóotthonában vagy fogyatékos személyek ápoló-gondozó célú lakóotthonában bentlakásos szociális intézményi ellátásban,
+c)[^21] fogyatékos személyek gondozóházában, időskorúak gondozóházában, idősek otthonában, fogyatékos személyek otthonában, fogyatékos személyek rehabilitációs intézményében, fogyatékos személyek rehabilitációs célú lakóotthonában vagy fogyatékos személyek ápoló-gondozó célú lakóotthonában bentlakásos szociális intézményi ellátásban,
 
 d) támogatott lakhatásban,
 
@@ -44,7 +44,9 @@ f) utógondozói ellátásban, utógondozásban
 
 ## is részesül.
 
-(9)[^20] Ha az ellátott ugyanazon a napon több engedélyestől is igénybe vesz
+(8a)[^22] Közösségi alapellátás esetén figyelembe kell venni az azzal az ellátottal teljesített feladatmutatót, aki ugyanazon a napon pszichiátriai betegek rehabilitációs célú lakóotthonában vagy szenvedélybetegek rehabilitációs célú lakóotthonában bentlakásos szociális intézményi ellátásban is részesül.
+
+(9)[^23] Ha az ellátott ugyanazon a napon több engedélyestől is igénybe vesz
 
 a) pszichiátriai betegek részére nyújtott közösségi alapellátást vagy
 
@@ -54,6 +56,9 @@ b) szenvedélybetegek részére nyújtott közösségi alapellátást,
 [^15]: A 2. § (1) bekezdése a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^16]: A 2. § (5) bekezdése a 89/2013. (III. 28.) Korm. rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^17]: A 2. § (7) bekezdés a) pontja a 357/2010. (XII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^18]: A 2. § (7) bekezdés c) pontját a 279/2009. (XII. 9.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 89/2013. (III. 28.) Korm. rendelet 4. § e) pontja, újonnan a 353/2014. (XII. 29.) Korm. rendelet 54. § (1) bekezdése iktatta be.
+[^18]: A 2. § (7) bekezdés c) pontját újonnan a 353/2014. (XII. 29.) Korm. rendelet 54. § (1) bekezdése iktatta be, szövege a 221/2015. (VIII. 7.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^19]: A 2. § (8) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 54. § (2) bekezdése iktatta be.
-[^20]: A 2. § (9) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 54. § (2) bekezdése iktatta be.
+[^20]: A 2. § (8) bekezdés a) pontját a 221/2015. (VIII. 7.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^21]: A 2. § (8) bekezdés c) pontja a 221/2015. (VIII. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^22]: A 2. § (8a) bekezdését a 221/2015. (VIII. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^23]: A 2. § (9) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 54. § (2) bekezdése iktatta be.
