@@ -88,7 +88,7 @@ b) l) pontja szerinti szakterület körébe a gondozási szükséglet megállap�
 
 c) m) pontja szerinti szakterület körébe a fogyatékos személyek alapvizsgálata, a rehabilitációs alkalmassági vizsgálat és az ellátottak állapotának felülvizsgálata során a fogyatékos személyek alapvizsgálatáról, a rehabilitációs alkalmassági vizsgálatról, továbbá a szociális intézményekben ellátott személyek állapotának felülvizsgálatáról szóló 92/2008. (IV. 23.) Korm. rendelet szerinti;
 
-d)[^1] n) pontja szerinti szakterület körébe a komplex minősítési eljárás során a Nemzeti Rehabilitációs és Szociális Hivatalról, valamint eljárásának részletes szabályairól szóló kormányrendelet szerinti
+d)[^1] n) pontja szerinti szakterület körébe a komplex minősítési eljárás során a Nemzeti Rehabilitációs és Szociális Hivatalról szóló kormányrendelet szerinti
 
 szociális szakértői feladatok ellátása tartozik.
 
@@ -110,4 +110,4 @@ c) a (3) bekezdés j) pontja szerinti szakterület esetében a szociális szolg�
 
 d) a (3) bekezdés k) pontja szerinti szakterület esetében a szociális szolgáltatások, szociális intézmények minőségügyi rendszerével, illetve minőségbiztosításával kapcsolatos feladatok ellátására.
 
-[^1]: Az 1. § (4) bekezdés d) pontja a 25/2010. (XII. 30.) NEFMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (4) bekezdés d) pontja a 39/2015. (VIII. 28.) EMMI rendelet 11. §-a szerint módosított szöveg.
