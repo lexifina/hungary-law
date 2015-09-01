@@ -48,4 +48,6 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (6) Az (1) bekezdés b) pontja és d) pont db) alpontja szerinti telephely alatt a legfeljebb 10 járművet üzemeltető üzemben tartó által a külön jogszabály szerint bejelentett tárolóhely is értendő.
 
+(6a) A járműnyilvántartás tartalmazza a természetes személlyel szemben megindított bírósági adósságrendezési eljárás tényét.
+
 (7) A járműnyilvántartás az (1)–(5) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.

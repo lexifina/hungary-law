@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2015-06-21 | 2015. évi LXX. törvény | 1999-84-00-00.47 |
 | 2015-06-30 | 2015. évi LXXXVII. törvény | 1999-84-00-00.48 |
 | 2015-07-01 | 2015. évi XXXV. törvény | 1999-84-00-00.49 |
+| 2015-09-01 | 2015. évi CV. törvény | 1999-84-00-00.50 |
