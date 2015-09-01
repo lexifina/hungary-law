@@ -1,120 +1,128 @@
-## TANÁRI MESTERSZAKOK JEGYZÉKE
+## TANÁRI MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 
 ## 1. Közismereti tanárszakok
 
-|  | műveltségi terület | tanárszak |
+|  | A | B |
 
-|  | magyar nyelv és irodalom | magyartanár1 (általános iskolai) |
+| 1. | műveltségi terület | tanárszak |
 
-|  | magyartanár1 (középiskolai) |
+| 2. | magyar nyelv és irodalom | magyartanár1 (általános iskolai) |
 
-|  | idegen nyelvek | angol nyelv és kultúra tanára1 (általános iskolai) |
+| 3. |  | magyartanár1 (középiskolai) |
 
-|  | angol nyelv és kultúra tanára1 (középiskolai) |
+| 4. |  | magyar mint idegen nyelv tanára3 |
 
-|  | német és nemzetiségi német nyelv és kultúra tanára1 (általános iskolai) |
+| 5. | idegen nyelvek | angol nyelv és kultúra tanára1 (általános iskolai) |
 
-|  | német és nemzetiségi német nyelv és kultúra tanára1 (középiskolai) |
+| 6. |  | angol nyelv és kultúra tanára1 (középiskolai) |
 
-|  | bolgár és nemzetiségi bolgár nyelv és kultúra tanára2 |
+| 7. |  | német nyelv és kultúra tanára1 (általános iskolai) |
 
-|  | finn nyelv és kultúra tanára3 |
+| 8. |  | német nyelv és kultúra tanára1 (középiskolai) |
 
-|  | francia nyelv és kultúra tanára2 |
+| 9. |  | német és nemzetiségi német nyelv és kultúra tanára1 (általános iskolai) |
 
-|  | holland nyelv és kultúra tanára2 |
+| 10. |  | német és nemzetiségi német nyelv és kultúra tanára1 (középiskolai) |
 
-|  | horvát és nemzetiségi horvát nyelv és kultúra tanára2 |
+| 11. |  | bolgár és nemzetiségi bolgár nyelv és kultúra tanára2 |
 
-|  | japán nyelv és kultúra tanára2 |
+| 12. |  | finn nyelv és kultúra tanára3 |
 
-|  | latin nyelv és kultúra tanára2 |
+| 13. |  | francia nyelv és kultúra tanára2 |
 
-|  | lengyel és nemzetiségi lengyel nyelv és kultúra tanára2 |
+| 14. |  | holland nyelv és kultúra tanára2 |
 
-|  | kínai nyelv és kultúra tanára2 |
+| 15. |  | horvát és nemzetiségi horvát nyelv és kultúra tanára2 |
 
-|  | olasz nyelv és kultúra tanára2 |
+| 16. |  | japán nyelv és kultúra tanára2 |
 
-|  | orosz nyelv és kultúra tanára2 |
+| 17. |  | latin nyelv és kultúra tanára2 |
 
-|  | portugál nyelv és kultúra tanára2 |
+| 18. |  | lengyel és nemzetiségi lengyel nyelv és kultúra tanára2 |
 
-|  | román és nemzetiségi román nyelv és kultúra tanára2 |
+| 19. |  | kínai nyelv és kultúra tanára2 |
 
-|  | romológiatanár (romani nyelv és kultúra vagy beás nyelv és kultúra tanára) 2 |
+| 20. |  | olasz nyelv és kultúra tanára2 |
 
-|  | spanyol nyelv és kultúra tanára2 |
+| 21. |  | orosz nyelv és kultúra tanára2 |
 
-|  | szerb és nemzetiségi szerb nyelv és kultúra tanára2 |
+| 22. |  | portugál nyelv és kultúra tanára2 |
 
-|  | szlovák és nemzetiségi szlovák nyelv és kultúra tanára2 |
+| 23. |  | román és nemzetiségi román nyelv és kultúra tanára2 |
 
-|  | szlovén és nemzetiségi szlovén nyelv és kultúra tanára2 |
+| 24. |  | romológiatanár (romani nyelv és kultúra vagy beás nyelv és kultúra tanára) 2 |
 
-|  | újgörög és nemzetiségi görög nyelv és kultúra tanára2 |
+| 25. |  | spanyol nyelv és kultúra tanára2 |
 
-|  | ukrán és nemzetiségi ukrán nyelv és kultúra tanára2 |
+| 26. |  | szerb és nemzetiségi szerb nyelv és kultúra tanára2 |
 
-|  | matematika | matematikatanár1 (általános iskolai) |
+| 27. |  | szlovák és nemzetiségi szlovák nyelv és kultúra tanára2 |
 
-|  | matematikatanár1 (középiskolai) |
+| 28. |  | szlovén és nemzetiségi szlovén nyelv és kultúra tanára2 |
 
-|  | ember és társadalom | történelemtanár és állampolgári ismeretek tanára1 (általános iskolai) |
+| 29. |  | újgörög és nemzetiségi görög nyelv és kultúra tanára2 |
 
-|  | történelemtanár és állampolgári ismeretek tanára1 (középiskolai) |
+| 30. |  | ukrán és nemzetiségi ukrán nyelv és kultúra tanára2 |
 
-|  | filozófiatanár3 |
+| 31. | matematika | matematikatanár1 (általános iskolai) |
 
-|  | erkölcstan- és etikatanár2 |
+| 32. |  | matematikatanár1 (középiskolai) |
 
-|  | hon- és népismerettanár2 |
+| 33. | ember és társadalom | történelemtanár és állampolgári ismeretek tanára1 (általános iskolai) |
 
-|  | könyvtárostanár2 |
+| 34. |  | történelemtanár és állampolgári ismeretek tanára1 (középiskolai) |
 
-|  | közösségi művelődés tanár2 |
+| 35. |  | filozófiatanár3 |
 
-|  | ember és természet | biológiatanár1 (egészségtan) (általános iskolai) |
+| 36. |  | etikatanár2 |
 
-|  | biológiatanár1 (egészségtan) (középiskolai) |
+| 37. |  | hon- és népismerettanár2 |
 
-|  | kémiatanár1 (általános iskolai) |
+| 38. |  | könyvtárostanár2 |
 
-|  | kémiatanár1 (középiskolai) |
+| 39. |  | közösségi művelődés tanár2 |
 
-|  | fizikatanár1 (természettudományi gyakorlatok) (általános iskolai) |
+| 40. | ember és természet | biológiatanár1 (egészségtan) (természettudományi gyakorlatok) (általános iskolai) |
 
-|  | fizikatanár1 (természettudományi gyakorlatok) (középiskolai) |
+| 41. |  | biológiatanár1 (egészségtan) (természettudományi gyakorlatok) (középiskolai) |
 
-|  | természetismeret-környezettan tanár2 |
+| 42. |  | kémiatanár1 (természettudományi gyakorlatok) (általános iskolai) |
 
-|  | földünk-környezetünk | földrajztanár1 (általános iskolai) |
+| 43. |  | kémiatanár1 (természettudományi gyakorlatok) (középiskolai) |
 
-|  | földrajztanár1 (középiskolai) |
+| 44. |  | fizikatanár1 (természettudományi gyakorlatok) (általános iskolai) |
 
-|  | informatika | informatikatanár1 (általános iskolai) |
+| 45. |  | fizikatanár1 (természettudományi gyakorlatok) (középiskolai) |
 
-|  | informatikatanár1 (középiskolai) |
+| 46. |  | természetismeret-környezettan tanár2(természettudományi gyakorlatok) |
 
-|  | művészetek | ének-zene tanár2 |
+| 47. | földünk-környezetünk | földrajztanár1 (általános iskolai) |
 
-|  | népzene- és népikultúra-tanár2 |
+| 48. |  | földrajztanár1 (középiskolai) |
 
-|  | média-, mozgókép- és kommunikációtanár2 |
+| 49. | informatika | informatikatanár1 (általános iskolai) |
 
-|  | rajz- és vizuáliskultúra-tanár2 |
+| 50. |  | informatikatanár1 (középiskolai) |
 
-|  | művészettörténet-tanár3 |
+| 51. | művészetek | ének-zene tanár2 |
 
-|  | dráma- és színházismeret-tanár2 |
+| 52. |  | népzene- és népikultúra-tanár2 |
 
-|  | testnevelés és sport | testnevelő tanár1 (általános iskolai) |
+| 53. |  | média-, mozgókép- és kommunikációtanár2 |
 
-|  | testnevelő tanár1 (középiskolai) |
+| 54. |  | rajz- és vizuáliskultúra-tanár2 |
 
-|  | gyógytestnevelő-egészségfejlesztő tanár2 |
+| 55. |  | művészettörténet-tanár3 |
 
-|  | életvitel és gyakorlat | technika-, életvitel- és gyakorlat-tanár2 |
+| 56. |  | dráma- és színházismeret-tanár2 |
+
+| 57. | testnevelés és sport | testnevelő tanár1 (általános iskolai) |
+
+| 58. |  | testnevelő tanár1 (középiskolai) |
+
+| 59. |  | gyógytestnevelő-egészségfejlesztő tanár2 |
+
+| 60. | életvitel és gyakorlat | technika-, életvitel- és gyakorlat-tanár2 |
 
 ## A közismereti tanárszakok párosítási feltételei
 
@@ -122,57 +130,59 @@
 
 ## 2/ A tanárszak csak az 1/ tanárszakokkal párosítható osztatlan, kétszakos képzésben. A tanárszak indítható a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló egyszakos képzésben. Az ének-zene tanár, a népzene- és népikultúra-tanár, a rajz- és vizuáliskultúra-tanár, a média-, mozgókép- és kommunikációtanár, a dráma- és színházismeret-tanár szakok egymással is párosíthatók. A gyógytestnevelő-egészségfejlesztő tanár szak csak a testnevelő tanár szakkal párosítható.
 
-## 3/ A tanárszak csak a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló képzésben szervezhető meg és egyszakos képzésben is felvehető.
+## 3/ A tanárszak csak a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló képzésben és felsőfokú – főiskolai, egyetemi szintű vagy mesterfokozatú – végzettség és tanári szakképzettség birtokában újabb tanári szakképzettség megszerzésére irányuló képzésben szervezhető meg és egyszakos képzésben is felvehető.
 
 ## 2. Szakmai tanárszakok
 
-|  | szakmai terület | tanárszak |
+|  | A | B |
 
-|  | műszaki | mérnöktanár (szakirányok: gépészet-mechatronika, elektrotechnika-elektronika, informatika, bio-vegyipar, építő-építészet, könnyűipar, faipar, nyomdaipar, közlekedés, környezetvédelem-vízgazdálkodás, polgári és biztonságvédelem, műszaki-gazdasági) |
+| 1. | szakmai terület | tanárszak |
 
-|  | közgazdasági | közgazdásztanár (szakirányok: közgazdaságtan, pénzügy-számvitel, ügyvitel, vendéglátás-idegenforgalmi, kereskedelem-marketing, vállalkozási ismeretek); |
+| 2. | műszaki | mérnöktanár (szakirányok: gépészet-mechatronika, elektrotechnika-elektronika, informatika, bio-vegyipar, építő-építészet, könnyűipar, faipar, nyomdaipar, közlekedés, környezetvédelem-vízgazdálkodás, polgári és biztonságvédelem, műszaki-gazdasági) |
 
-|  | agrár | agrármérnöktanár (szakirányok: mezőgazdaság, mezőgazdasági gépész, élelmiszer, erdészet- és vadgazdálkodás, földmérés, kertészet- és parképítés); |
+| 3. | közgazdasági | közgazdásztanár (szakirányok: közgazdaságtan, pénzügy-számvitel, ügyvitel, vendéglátás-idegenforgalmi, kereskedelem-marketing, vállalkozási ismeretek); |
 
-|  | gyógypedagógia | gyógypedagógia-tanár |
+| 4. | agrár | agrármérnöktanár (szakirányok: mezőgazdaság, mezőgazdasági gépész, élelmiszer, erdészet- és vadgazdálkodás, földmérés, kertészet- és parképítés); |
 
-|  | zeneművészet1 | zenetanár (szakirányok: zongoratanár, orgonatanár, csembalótanár, hárfatanár, gitártanár, lanttanár, harmonikatanár, cimbalomtanár, hegedűtanár, mélyhegedűtanár, gordonkatanár, gordontanár, fuvolatanár, furulyatanár, oboatanár, klarinéttanár, szaxofontanár, fagott-tanár, kürttanár, trombitatanár, harsonatanár, tubatanár, ütőhangszertanár, magánénektanár, jazz-zongoratanár, jazzgitártanár, jazzbasszusgitár-tanár, jazzbőgőtanár, jazzszaxofontanár, jazztrombitatanár, jazzharsonatanár, jazzdobtanár, jazzénektanár, jazz-zeneszerzéstanár, zeneismeret-tanár, egyházzenetanár, ének-zene tanár.) |
+| 5. | gyógypedagógia | gyógypedagógia-tanár |
 
-|  | zeneművésztanár (szakirányok: zongoraművésztanár, zongorakísérő-korrepetítor tanár, csembalóművész-tanár, orgonaművész-tanár, hárfaművésztanár, gitárművésztanár, cimbalomművész-tanár, harmonikaművész-tanár, hegedűművész-tanár, mélyhegedűművész-tanár, gordonkaművész-tanár, gordonművésztanár, fuvolaművész-tanár, oboaművész-tanár, klarinétművész-tanár, szaxofonművész-tanár, fagottművésztanár, kürtművésztanár, trombitaművész-tanár, harsonaművész-tanár, tubaművésztanár, ütőhangszerművész a tanár, énekművésztanár, régizene csembalóművész-tanár, régizene blockflöteművész-tanár, népi hegedűművész-tanár, népi brácsaművész-tanár, népi bőgő-/cselló-/ütőgardon-/tamburabőgőművész-tanár, népi furulyaművész-tanár, népi klarinét-/tárogatóművész-tanár, népi dudaművésztanár, népi cimbalomművész-tanár, tamburaművész-tanár, népi citera-koboz-tekerőművész-tanár, népi harmonikaművész-tanár, népi énekművész-tanár, népzeneelmélet-tanár, egyházzeneművész-tanár (egyházzene-kóruskarnagy, egyházzene-orgonaművész) zeneszerzőtanár, muzikológus-tanár, zeneelmélet-tanár, kóruskarnagyművész-tanár, ének-zene művésztanár) |
+| 6. | zeneművészet1 | zenetanár (szakirányok: zongoratanár, orgonatanár, csembalótanár, hárfatanár, gitártanár, lanttanár, harmonikatanár, cimbalomtanár, hegedűtanár, mélyhegedűtanár, gordonkatanár, gordontanár, fuvolatanár, furulyatanár, oboatanár, klarinéttanár, szaxofontanár, fagott-tanár, kürttanár, trombitatanár, harsonatanár, tubatanár, ütőhangszertanár, magánénektanár, jazz-zongoratanár, jazzgitártanár, jazzbasszusgitár-tanár, jazzbőgőtanár, jazzszaxofontanár, jazztrombitatanár, jazzharsonatanár, jazzdobtanár, jazzénektanár, jazz-zeneszerzéstanár, zeneismeret-tanár, egyházzenetanár, ének-zene tanár.) |
 
-|  | táncművészet | tánctanár (szakirányok: klasszikus balett, néptánc, moderntánc, kortárstánc, színházi tánc, társastánc, tánctörténet és -elmélet) |
+| 7. |  | zeneművésztanár (szakirányok: zongoraművésztanár, zongorakísérő-korrepetítor tanár, csembalóművész-tanár, orgonaművész-tanár, hárfaművésztanár, gitárművésztanár, cimbalomművész-tanár, harmonikaművész-tanár, hegedűművész-tanár, mélyhegedűművész-tanár, gordonkaművész-tanár, gordonművésztanár, fuvolaművész-tanár, oboaművész-tanár, klarinétművész-tanár, szaxofonművész-tanár, fagottművésztanár, kürtművésztanár, trombitaművész-tanár, harsonaművész-tanár, tubaművésztanár, ütőhangszerművész a tanár, énekművésztanár, régizene csembalóművész-tanár, régizene blockflöteművész-tanár, népi hegedűművész-tanár, népi brácsaművész-tanár, népi bőgő-/cselló-/ütőgardon-/tamburabőgőművész-tanár, népi furulyaművész-tanár, népi klarinét-/tárogatóművész-tanár, népi dudaművésztanár, népi cimbalomművész-tanár, tamburaművész-tanár, népi citera-koboz-tekerőművész-tanár, népi harmonikaművész-tanár, népi énekművész-tanár, népzeneelmélet-tanár, egyházzeneművész-tanár (egyházzene-kóruskarnagy, egyházzene-orgonaművész) zeneszerzőtanár, muzikológus-tanár, zeneelmélet-tanár, kóruskarnagyművész-tanár, ének-zene művésztanár) |
 
-|  | táncművésztanár (szakirány: klasszikus balett, néptánc, moderntánc, kortárstánc, színházi tánc, társastánc) |
+| 8. | táncművészet | tánctanár (szakirányok: klasszikus balett, néptánc, moderntánc, kortárstánc, színházi tánc, társastánc, tánctörténet és -elmélet) |
 
-|  | ipar-, építő-, film- és videoművészet, multimédia | design- és vizuálisművészet-tanár |
+| 9. |  | táncművésztanár (szakirány: klasszikus balett, néptánc, moderntánc, kortárstánc, színházi tánc, társastánc) |
 
-|  | képzőművészet | képzőművésztanár |
+| 10. | ipar-, építő-, film- és videoművészet, multimédia | design- és vizuálisművészet-tanár |
 
-|  | színház- és filmművészet | színházművészeti tanár |
+| 11. | képzőművészet | képzőművésztanár |
 
-|  | filmművészeti tanár |
+| 12. | színház- és filmművészet | színházművészeti tanár |
 
-|  | egészségügy | egészségügyi tanár |
+| 13. |  | filmművészeti tanár |
 
-|  | neveléstudomány | pedagógiatanár2 |
+| 14. | egészségügy | egészségügyi tanár |
+
+| 15. | neveléstudomány | pedagógiatanár2 |
 
 ## A szakmai, művészeti tanárszakok (szakirányok) párosítási feltételei
 
-## 1/ Zenetanár szakon osztatlan kétszakos képzésben a zeneismeret-tanár szakirány az ének-zene tanár szakiránnyal párosítható. Zeneművésztanár szakon kétszakos osztatlan képzésben a kóruskarnagyművész-tanár az ének-zene művésztanár vagy a zeneelmélet-tanár szakiránnyokkal, a zeneelmélet-tanár szakirány az ének-zene művésztanár vagy a kóruskarnagyművész-tanár szakirányokkal, az egyházzeneművész-tanár szakirány az ének-zene művésztanár szakiránnyal, a népi hangszeres-tanár szakirány a népi ének szakiránnyal, a népi hangszeres-tanár és a népi ének szakirányok a népzeneelmélet-tanár szakiránnyal, továbbá a népi hangszeres szakirányok egymással párosíthatók.
+## 1/ Zenetanár szakon osztatlan kétszakos képzésben a zeneismeret-tanár szakirány az ének-zene tanár szakiránnyal párosítható. Zeneművésztanár szakon kétszakos osztatlan képzésben a kóruskarnagyművész-tanár az ének-zene művésztanár vagy a zeneelmélet-tanár szakirányokkal, a zeneelmélet-tanár szakirány az ének-zene művésztanár vagy a kóruskarnagyművész-tanár szakirányokkal, az egyházzeneművész-tanár szakirány az ének-zene művésztanár szakiránnyal, a népi hangszeres-tanár szakirány a népi ének szakiránnyal, a népi hangszeres-tanár és a népi ének szakirányok a népzeneelmélet-tanár szakiránnyal, továbbá a népi hangszeres szakirányok egymással párosíthatók.
 
-## 2/A tanárszak csak a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló képzésben szervezhető meg és egyszakos képzésben is felvehető.
+## 2/ A tanárszak csak a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló képzésben szervezhető meg és egyszakos képzésben is felvehető.
 
 ## 3. Hitéleti tanárszak
 
-|  | szakmai terület | tanárszak |
+|  | A | B |
 
-|  | hitoktatási terület | hittanár-nevelőtanár1 (általános iskolai) |
+| 1. | szakmai terület | tanárszak |
 
-|  | hittanár-nevelőtanár1 (középiskolai) |
+| 2. | hitoktatási terület | hittanár-nevelőtanár1 |
 
 ## A hittanár-nevelőtanár szak párosítási feltételei
 
-## 1/ A hittanár-nevelőtanár szak párosítható közismereti tanárszakkal.
+## 1/ A hittanár-nevelőtanár szak párosítható közismereti tanárszakkal.”
 
 2. melléklet a 283/2012. (X. 4.) Korm. rendelethez
 

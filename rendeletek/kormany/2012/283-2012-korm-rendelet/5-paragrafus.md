@@ -10,6 +10,12 @@ c) művészeti tanárszakon a művészeti képzési terület szerinti nem tanár
 
 (2) Az 1. mellékletben meghatározott tanárszakokon a tanárszak szakterülete szerinti nem tanári szakon szerzett mesterfokozatot követően a 3. § (1) bekezdés b)–c) pontjai szerinti tanári felkészítés követelményeinek teljesítésével szerezhető meg a tanári szakképzettség.
 
-(3) A felsőfokú – főiskolai, egyetemi szintű vagy mesterfokozatú – végzettség és tanári szakképzettség birtokában újabb tanári szakképzettség egyszakos képzésben is szerezhető. A képzésben a tanári felkészítés 3. § (1) bekezdés ba) és c) pontja szerinti követelményeket teljesítettnek kell tekinteni.
+(3)[^1] A felsőfokú – főiskolai, egyetemi szintű vagy mesterfokozatú – végzettség és tanári szakképzettség birtokában újabb tanári szakképzettség egyszakos képzésben szerezhető meg. A képzésben a tanári felkészítés 3. § (1) bekezdés ba) és c) pontja szerinti követelményeket teljesítettnek kell tekinteni.
 
-(4) Tanító szakképzettség birtokában, tanárszakon való továbbtanulás során, a tanári felkészítés 3. § (1) bekezdés ba) pontja szerinti követelményeit teljesítettnek kell tekinteni. Tanári szakképzettséget egyszakos képzésben is lehet szerezni. A szakterületi ismeretek elismerésére a kreditelismerés általános szabályai az irányadóak.
+(4)[^2] Tanító szakképzettség birtokában, tanárszakon való továbbtanulás során, a tanári felkészítés 3. § (1) bekezdés ba) pontja szerinti követelményeit teljesítettnek kell tekinteni. Tanári szakképzettséget egyszakos képzésben lehet szerezni. A szakterületi ismeretek elismerésére a kreditelismerés általános szabályai az irányadóak.
+
+(5)[^3] Alapfokozat és szakképzettség birtokában tanári szakképzettség az 1. mellékletben meghatározott tanárszakokon osztatlan tanárképzésben szerezhető. A 3. § (1) bekezdés a) pontja szerinti szakterületi ismeretek részeként az alapképzési ismeretekből az annak megfelelő tanári szakon legalább 100 kreditet kell elismerni. Az alapképzésben a második tanári szakhoz megszerzett differenciált szakmai ismereteket – az annak megfelelő második tanári szakképzettséghez – 50 kredit beszámításával kell elismerni.
+
+[^1]: Az 5. § (3) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 12. § (9) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 5. § (4) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 14. § e) pont ea) alpontja szerint módosított szöveg.
+[^3]: Az 5. § (5) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 12. § (1) bekezdése iktatta be.
