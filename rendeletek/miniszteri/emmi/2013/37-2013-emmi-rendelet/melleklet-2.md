@@ -346,7 +346,7 @@
 
 | 24 | 23 | 51 | 223 | 01 | Relé jelnyelvi tolmács | Szociális szolgáltatások | szociál- és nyugdíjpolitikáért felelős miniszter |
 
-2. melléklet a 37/2013. (V. 28.) EMMI rendelethez
+2. melléklet a 37/2013. (V. 28.) EMMI rendelethez[^4]
 
 Az 1. sorszámú Aneszteziológiai szakasszisztens megnevezésű szakképesítés-ráépülés szakmai és vizsgakövetelménye
 
@@ -574,7 +574,7 @@ A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképz
 
 7.1. Szakmai előképzettség:
 
-54 720 01 azonosító számú Egészségügyi asszisztens szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés, 54 723 02 1000 00 00 azonosító számú Csecsemő- és gyermekápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
+54 720 01 azonosító számú Egészségügyi asszisztens szakképesítés, 55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés, 54 723 02 1000 00 00 azonosító számú Csecsemő- és gyermekápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, 54 5012 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 55 723 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
 
 7.2. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
@@ -788,9 +788,9 @@ A szakképesítés-ráépülés kapcsolatos előírások az állami szakképzés
 
 7. EGYEBEK
 
-7.1.Szakmai előképzettség:
+7.1. Szakmai előképzettség:
 
-54 720 01 azonosító számú Egészségügyi asszisztens szakképesítés, 52 720 01 0010 52 01 azonosító számú Általános asszisztens szakképesítés vagy legalább azonos szintű, egészségügyi szakmacsoporton belüli szakirányú ismereteket tartalmazó szakképesítés, 55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség
+54 720 01 azonosító számú Egészségügyi asszisztens szakképesítés, 52 720 01 0010 52 01 azonosító számú Általános asszisztens szakképesítés vagy legalább azonos szintű, egészségügyi szakmacsoporton belüli szakirányú ismereteket tartalmazó szakképesítés, 55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, 55 723 02 azonosító számú Csecsemő- és gyermekápoló, 54 723 01 0010 54 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 723 02 1000 00 00 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 5012 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
 
 7.2.A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
@@ -1036,7 +1036,7 @@ A 4. sorszámú Ápoló megnevezésű szakképesítés-ráépülés szakmai és 
 
 1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 1
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: -
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 800–1200
 
 2. EGYÉB ADATOK
 
@@ -1168,7 +1168,9 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
 
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele: -
+Az iskolarendszeren kívüli szakképzésben az 5.2. alpontban előírt valamennyi modulzáró vizsga eredményes letétele, az előírt gyakorlatok igazolt teljesítése.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
 |  |  | A | B | C |
 
@@ -1176,7 +1178,9 @@ Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizo
 
 |  | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
 
-|  | 5.2.3. | - | - | - |
+|  | 5.2.3. | 11113-12 | Szakápolási feladatok | szóbeli |
+
+|  | 5.2.4. | 11114-12 | Kompetenciabővítő ismeretek az ápolásban | gyakorlati |
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
@@ -1305,6 +1309,8 @@ Fax: +36 1 323 2079
 E-mail: meszk@meszk.hu
 
 7.2. Az ápoló szakképesítés képzésének szervezésekor figyelembe kell venni a szakképesítések elismeréséről szóló Európai Parlament és Tanács 2005/36/EK. irányelvének, 3. szakasz 31. cikkében, valamint az V. mellékletében előírt minimálisan kötelező képzési feltételeket.
+
+7.3. Iskolarendszeren kívüli szakképzés csak az Emberi Erőforrás Fejlesztési Operatív Program 2014. évi kiírásához kapcsolódó Felzárkóztató egészségügyi ápolói szakképzési program keretében indítható az egészségügyért felelős miniszter által erre kijelölt intézmény által.
 
 A 5. sorszámú Boncmester megnevezésű szakképesítés szakmai és vizsgakövetelménye
 
@@ -1780,7 +1786,7 @@ A 7. sorszámú Csecsemő és gyermekápoló megnevezésű szakképesítés-rá�
 
 1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 1
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: -
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 800–1200
 
 2. EGYÉB ADATOK
 
@@ -1886,15 +1892,19 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
 
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele: -
+Az iskolarendszeren kívüli szakképzésben az 5.2. alpontban előírt valamennyi modulzáró vizsga eredményes letétele, az előírt gyakorlatok igazolt teljesítése.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
 |  |  | A | B | C |
 
 |  | 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
 
-|  | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékeny- sége |
+|  | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
 
-|  | 5.2.3. | - | - | - |
+|  | 5.2.3. | 11121-12 | Szakápolás csecsemő- és gyermek betegek esetén | szóbeli |
+
+|  | 5.2.4. | 11122-12 | Kompetencia bővítő ismeretek a csecsemő- és gyermekápolásban | gyakorlati |
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
@@ -2104,6 +2114,8 @@ Fax: +36 1 323 2079
 
 E-mail: meszk@meszk.hu
 
+7.2. Iskolarendszeren kívüli szakképzés csak az Emberi Erőforrás Fejlesztési Operatív Program 2014. évi kiírásához kapcsolódó Felzárkóztató egészségügyi ápolói szakképzési program keretében indítható az egészségügyért felelős miniszter által erre kijelölt intézmény által.
+
 A 8. sorszámú Diabetológiai szakápoló és edukátor megnevezésű szakképesítés-ráépülés szakmai és vizsgakövetelménye
 
 1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
@@ -2300,9 +2312,11 @@ A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképz
 
 7. EGYEBEK
 
-7.1.Szakmai előképzettség:
+7.1. Szakmai előképzettség:
 
-55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
+55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés,
+
+54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, 55 723 02 azonosító számú Csecsemő- és gyermekápoló, 54 723 01 0010 54 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 723 02 1000 00 00 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 5012 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
 
 7.2.A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
@@ -3024,7 +3038,9 @@ A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképz
 
 7.1. Szakmai előképzettség:
 
-55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség, vagy egészségügyi főiskolai végzettség, vagy felsőoktatási intézményben egészségtudományi képzési területen szerzett szakképzettség ,valamint legalább a szakképesítéssel azonos szintű, egészségügyi szakmacsoporton belüli, szakirányú ismereteket tartalmazó szakképesítés, vagy ennek megfelelő, OKJ előtti, államilag elismert szakirányú szakképesítés.
+55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés,
+
+54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés, 54 5012 01 azonosító számú Ápoló szakképesítés, 55 723 02 azonosító számú Csecsemő- és gyermekápoló, 54 723 01 0010 54 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 723 02 1000 00 00 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 5012 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség, Védőnő (BSc) végzettség, vagy egészségügyi főiskolai végzettség, vagy felsőoktatási intézményben egészségtudományi képzési területen szerzett szakképzettség, valamint legalább a szakképesítéssel azonos szintű, egészségügyi szakmacsoporton belüli, szakirányú ismereteket tartalmazó szakképesítés, vagy ennek megfelelő, OKJ előtti, államilag elismert szakirányú szakképesítés.
 
 7.2. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
 
@@ -3520,7 +3536,9 @@ A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképz
 
 7.1. Szakmai előképzettség:
 
-54 720 01 azonosító számú Egészségügyi asszisztens szakképesítés, 55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
+54 720 01 azonosító számú Egészségügyi asszisztens szakképesítés, 55 723 01 azonosító számú Ápoló szakképesítés,
+
+54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, 55 723 02 azonosító számú Csecsemő- és gyermekápoló, 54 723 01 0010 54 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 723 02 1000 00 00 azonosító számú Csecsemő- és gyermekápoló szakképesítés, 54 5012 02 azonosító számú Csecsemő- és gyermekápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
 
 7.2. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet: Magyar Egészségügyi Szakdolgozói Kamara
 
@@ -4206,886 +4224,4 @@ A 17. sorszámú Fizioterápiás szakasszisztens megnevezésű szakképesítés-
 
 3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
 
-A fizioterápiás szakasszisztens a fizioterápiás team tagjaként, szakmáját hivatásszerűen gyakorolja a megfelelő elméleti tudás birtokában. Szakmai ismereteit folyamatosan bővíti és az új ismereteket a szakmaterületen alkalmazni tudja. Megfelelő kapcsolat-teremtő képességgel rendelkezik és betartja az etikai normákat.
-
-A szakképesítés ráépüléssel rendelkező képes:
-
-- prevenciós, rekreációs, rehabilitációs területen a fizioterápiás szakmai feladatokat önállóan, a szakorvos, vagy gyógytornász utasítása alapján végezni a hatékony betegellátás érdekében
-
-- a kezelési ellenjavallatok és technikai meghibásodásokat felismerni, és azok elhárítását megoldani
-
-3.3. Kapcsolódó szakképesítések
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 54 720 01 |  | Egészségügyi asszisztens | szakképesítés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  |  | A | B |
-
-|  | 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 4.2. | azonosító száma | megnevezése |
-
-|  | 4.3. | 11141-12 | A fizioterápia elmélete és gyakorlata |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele, az előírt szakmai gyakorlatok igazolt teljesítése.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  |  | A | B | C |
-
-|  | 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
-
-|  | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevé- kenysége |
-
-|  | 5.2.3. | 11141-12 | A fizioterápia elmélete és gyakorlata | írásbeli és gyakorlati |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: Fizioterápia
-
-A vizsgafeladat ismertetése: Munkaterület előkészítése, a beteg fogadása, a kezelőlap értelmezése, a beteg előkészítése, a kezelés kivitelezése, megfigyelés, adminisztrálás, a kezelő eszköz fertőtlenítése
-
-A vizsgafeladat időtartama: 30 perc
-
-A vizsgafeladat értékelési súlyaránya: 50%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Elméleti ismeretek reprodukálása
-
-A vizsgafeladat ismertetése: Az írásbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben megadott követelménymodulokhoz tartozó témakörök mindegyikét tartalmazza
-
-A vizsgafeladat időtartama: 60 perc
-
-A vizsgafeladat értékelési súlyaránya: 25%
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: A fizioterápiás szakasszisztensi feladatok ellátásához szükséges elméleti ismereteit, tudását alkalmazás szinten visszaadja
-
-A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben szereplő szakmai követelménymodulok témaköreinek mindegyikét tartalmazza
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 25%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és Felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  |  | A |
-
-|  | 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-|  | 6.2. | Kis- és középfrekvenciás kezelőgépek |
-
-|  | 6.3. | Nagyfrekvenciás kezelőgépek |
-
-|  | 6.4. | Fényterápia eszközei |
-
-|  | 6.5. | Lézerterápia eszközei |
-
-|  | 6.6. | Ultrahang-terápiás készülék |
-
-|  | 6.7. | Magnetoterápiás készülék |
-
-|  | 6.8. | TENS |
-
-|  | 6.9. | Tangentor, hidroterápiás eszközök |
-
-|  | 6.10. | Iszapkezelés eszközei/parafangó |
-
-|  | 6.11. | Gyógymedence |
-
-|  | 6.12. | Elektródok, elektródák |
-
-|  | 6.13. | Közti anyagok, fogyó anyagok |
-
-|  | 6.14. | Rögzítő eszközök |
-
-|  | 6.15. | Kezelőágy |
-
-|  | 6.16. | Kezelőszék |
-
-|  | 6.17. | Fertőtlenítés eszközei, fertőtlenítőszerek |
-
-|  | 6.18. | Vérnyomásmérő, fonendoszkóp |
-
-|  | 6.19. | Dokumentumok, dokumentáció, számítógép |
-
-|  | 6.20. | Egyszer használatos eszközök |
-
-7. EGYEBEK
-
-7.1. Szakmai előképzettség:
-
-54 720 01 azonosító számú Egészségügyi asszisztens szakképesítés, 52 720 01 0010 52 01 azonosító számú Általános asszisztens szakképesítés, 55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
-
-7.2. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
-
-Magyar Egészségügyi Szakdolgozói Kamara
-
-1087 Budapest, Könyves Kálmán krt. 76.
-
-Levelezési cím: 1450 Budapest, Pf.: 214.
-
-Telefonszám: +36 1 323 2070
-
-Fax: +36 1 323 2079
-
-E-mail: meszk@meszk.hu
-
-A 18. sorszámú Fogászati asszisztens megnevezésű szakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 54 720 02
-
-1.2. Szakképesítés megnevezése: Fogászati asszisztens
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1400-1700
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 50%
-
-2.7. Gyakorlati képzési idő aránya: 50%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-5 évfolyamos képzés esetén a 9. évfolyamot követően 70 óra, a 10. évfolyamot követően 105 óra, a 11. évfolyamot követően 140 óra;
-
-2 évfolyamos képzés esetén az első szakképzési évfolyamot követően 160 óra
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
-
-|  |  | A | B | C |
-
-|  | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
-
-|  | 3.1.2. | 3325 | Fogászati asszisztens | Fogászati asszisztens |
-
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-A fogászati asszisztens a fogorvos irányítása és ellenőrzése mellett segédkezik a fogászati kezeléseknél, tisztán tartja, fertőtleníti, előkészíti a műszereket és a kezeléshez szükséges különböző fogászati eszközöket, elvégzi az adminisztratív teendőket.
-
-A szakképesítéssel rendelkező képes:
-
-- előkészíteni a fogászati kezelésekhez műszereket, anyagokat, eszközöket
-
-- a munkakörhöz szükséges műszerek, eszközök, gépek precíz kezelését végezni
-
-- prevenciós, diagnosztikai, konzerváló fogászati, parodontológiai, protetikai, dento-alveoláris sebészeti, gyermekfogászati, fogszabályozási kezeléseknél, beavatkozásoknál a fogorvosnak segédkezni
-
-- orvosi utasításra önállóan végezni kompetencia-körnek megfelelő ellátási-, vizsgálati-, gondozási-, rehabilitációs feladatokat
-
-- pszichés támogatást nyújtani a páciensnek
-
-- sürgősségi esetek ellátásában segédkezni az orvosnak
-
-- a fogászati eljárásokkal kapcsolatban felvilágosítást nyújtani és a pácienst segíteni
-
-- egészségnevelő, -fejlesztő tevékenységet folytatni
-
-- a vizsgáló-, kezelőhelyiségeket és a műszereket tisztán, sterilen tartani
-
-- felhasználói szintű informatikai tevékenységet végezni
-
-- dokumentációs, ügyviteli, koordinációs feladatot ellátni
-
-3.3. Kapcsolódó szakképesítések
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 55 725 11 | Klinikai fogászati higiénikus | szakképesítés-ráépülés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  |  | A | B |
-
-|  | 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképe- sítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 4.2. | azonosító száma | megnevezése |
-
-|  | 4.3. | 11110-12 | Egészségügyi alapismeretek |
-
-|  | 4.4. | 11221-12 | Alapápolás |
-
-|  | 4.5. | 11222-12 | Klinikumi ismeretek |
-
-|  | 4.6. | 11142-12 | Fogászati ismeretek |
-
-|  | 4.7. | 11143-12 | Gyermekfogászat, fogszabályozás |
-
-|  | 4.8. | 11498-12 | Foglalkoztatás I. (érettségire épülő képzések esetén) |
-
-|  | 4.9. | 11499-12 | Foglalkoztatás II. |
-
-|  | 4.10. | 11500-12 | Munkahelyi egészség és biztonság |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele, az előírt szakmai gyakorlatok igazolt teljesítése.
-
-Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  |  | A | B | C |
-
-|  | 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
-
-|  | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.3. | 11110-12 | Egészségügyi alapismeretek | gyakorlati és írásbeli |
-
-|  | 5.2.4. | 11221-12 | Alapápolás | gyakorlati |
-
-|  | 5.2.5. | 11222-12 | Klinikumi ismeretek | írásbeli és szóbeli |
-
-|  | 5.2.6. | 11142-12 | Fogászati ismeretek | gyakorlati és szóbeli |
-
-|  | 5.2.7. | 11143-12 | Gyermekfogászat, fogszabályozás | gyakorlati és szóbeli |
-
-|  | 5.2.8. | 11498-12 | Foglalkoztatás I. (érettségire épülő képzések esetén) | írásbeli |
-
-|  | 5.2.9. | 11499-12 | Foglalkoztatás II. | írásbeli |
-
-|  | 5.2.10. | 11500-12 | Munkahelyi egészség és biztonság | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: Fogászati ismeretek, gyermekfogászati, fogszabályozási alapfeladatok
-
-A vizsgafeladat ismertetése: Feladatleírásban rögzítetten, a páciens kezelőlapja alapján a fogászati kezelés és fogászati beavatkozás során asszisztensi és dokumentációs feladatok ellátása
-
-A vizsgafeladat időtartama: 60 perc
-
-A vizsgafeladat értékelési súlyaránya: 45%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Komplex szakmai írásbeli feladatsor
-
-A vizsgafeladat ismertetése: Központilag összeállított feladatsor, amely a 4. Szakmai követelmények fejezetben megadott Egészségügyi alapismeretek, Klinikumi ismeretek, Fogászati ismeretek, Gyermekfogászat, fogszabályozás követelménymodulokhoz tartozó témakörök mindegyikét tartalmazza.
-
-A vizsgafeladat időtartama: 90 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Komplex szakmai szóbeli feladatsor
-
-A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben szereplő Egészségügyi alapismeretek, Klinikumi ismeretek, Fogászati ismeretek, Gyermekfogászat, fogszabályozás szakmai követelménymodulok témaköreinek mindegyikét tartalmazza
-
-A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 35%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és Felnőttképzés Vizsgák menüpontjában
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  |  | A |
-
-|  | 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-|  | 6.2. | Elméleti oktatáshoz és demonstrációs gyakorlatokhoz oktatóhely- ség |
-
-|  | 6.3. | Informatika szaktanterem számítógépekkel és perifériákkal |
-
-|  | 6.4. | Oktatástechnikai eszközök (tábla, projektor, számítógép) |
-
-|  | 6.5. | Szakmai dia-és fóliasorozatok |
-
-|  | 6.6. | Alapszintű újraélesztés eszköze (szimulátor) |
-
-|  | 6.7. | A beteg ember komfortérzésének biztosításához szükséges eszkö- zök |
-
-|  | 6.8. | Betegágy és tartozéka, éjjeliszekrény, karosszék |
-
-|  | 6.9. | A beteg kényelmét szolgáló eszközök |
-
-|  | 6.10. | Dokumentációk |
-
-|  | 6.11. | Életjelek mérésére szolgáló eszközök |
-
-|  | 6.12. | EKG-készülék |
-
-|  | 6.13. | Testsúly, testmagasság és derék-körfogat mérésére szolgáló eszkö- zök |
-
-|  | 6.14. | Infúzió és injekció adásához szükséges eszközök (fantomok) |
-
-|  | 6.15. | Vércukor-meghatározó készülék |
-
-|  | 6.16. | Vércsoport-meghatározásához szükséges eszközök |
-
-|  | 6.17. | Felszerelt kötözőkocsi (fantomok) |
-
-|  | 6.18. | Felszerelt ágyazókocsi |
-
-|  | 6.19. | Fertőtlenítőszerek és eszközök |
-
-|  | 6.20. | Diagnosztikai beavatkozásokhoz szükséges eszközök |
-
-|  | 6.21. | Szájsebészetben alkalmazott eszközök |
-
-|  | 6.22. | Fogászati eszközök |
-
-|  | 6.23. | Fogszabályozásnál alkalmazott eszközök |
-
-|  | 6.24. | Fogászati röntgenkészülék |
-
-|  | 6.25. | Mérőműszerek, mérlegek |
-
-|  | 6.26. | Dokumentumok |
-
-|  | 6.27. | Archiválás eszközei |
-
-7. EGYEBEK
-
-7.1. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
-
-Magyar Egészségügyi Szakdolgozói Kamara
-
-1087 Budapest, Könyves Kálmán krt. 76.
-
-Levelezési cím: 1450 Budapest, Pf.: 214.
-
-Telefonszám: +36 1 323 2070
-
-Fax: +36 1 323 2079
-
-E-mail: meszk@meszk.hu
-
-A 19. sorszámú Foglalkozásegészségügyi szakápoló megnevezésű szakképesítés-ráépülés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés-ráépülés azonosító száma: 55 723 06
-
-1.2. Szakképesítés-ráépülés megnevezése: Foglalkozásegészségügyi szakápoló
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500-720
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: 55 723 01 Ápoló szakképesítés (bővebben a 7. Egyebek fejezetben)
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 50%
-
-2.7. Gyakorlati képzési idő aránya: 50%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
-
-|  |  | A | B | C |
-
-|  | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munka- kör(ök) |
-
-|  | 3.1.2. | 3311 | Ápoló, szakápoló | Foglalkozás-egészségügyi szakápoló |
-
-3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
-
-A foglalkozás-egészségügyi szakápoló részt vesz a foglalkozás-egészségügy preventív, klinikai, egészség-megőrzési, és egészségfejlesztési feladataiban. Tevékenységét foglalkozás-egészségügyi alapszolgálatnál, szakellátó helyen vagy központban végzi. Részt vesz a foglalkozás-egészségügy preventív, klinikai, egészség-megőrzési, egészségfejlesztési feladatokban, a foglalkozási betegségek felismerésében, kezelésében, a munkavégzésből, munkakörnyezetből származó egészségkárosító kóroki tényezők észlelésében, munkahelyek munkaegészségügyi feladatainak ellátásában, adminisztrációs, kommunikációs, adatszolgáltató tevékenységben. A foglalkozás-egészségügyi szakápoló, mint a foglalkozás-egészségügyi team tagja, feladatait részben önállóan, részben pedig a foglalkozás-egészségügyi szakorvos utasítására vagy vele együttműködve végzi.
-
-A szakképesítés-ráépüléssel rendelkező képes:
-
-- a foglalkozás-egészségügyi szolgálatok primer preventív tevékenységében közreműködni
-
-- külön jogszabályokban meghatározott munkaköri, szakmai, egészségi alkalmassági vizsgálatok végzésében közreműködni, a munkavállalók szakorvosi vizsgálatát megszervezni
-
-- a foglalkozási megbetegedések felismerésében, kezelésében részt venni
-
-- a krónikus megbetegedésben szenvedő munkavállalók gondozásában közreműködni
-
-- külön jogszabályban meghatározottak szerint a foglalkozási megbetegedések, fokozott expozíciós esetek bejelentésében és kivizsgálásában közreműködni
-
-- a munkahelyi veszélyforrások feltárásában, a munkavégzés egészségkárosító hatásainak vizsgálatában közreműködni
-
-- a helyszíni (általános és foglalkozás-specifikus) higiénés vizsgálatok végzésében közreműködni, hiányosságok esetén felhívni az érintettek figyelmét a munkahigiénés/foglalkozás-egészségügyi/munkabiztonsági/kémiai biztonsági/élelmiszerbiztonsági/járványügyi szabályok betartására
-
-- a munkavállalók, álláskeresők, tanulók munkájával felmerülő kockázatokról, a megelőzés lehetőségéről, az egyéni védőeszközök használatáról tájékoztatást, felvilágosítást adni, tanácsadást végezni
-
-- népegészségügyi programok szervezésében közreműködni
-
-- a munkakörhöz kötött és nem kötött védőoltások beadásában részt venni,
-
-- az elsősegélynyújtás, sürgősségi orvosi ellátás megszervezésében és a munkatársi elsősegélynyújtók szakmai felkészítésében közreműködni
-
-- a balesetek és egyéb oxiológiai esetek elsődleges ellátásában közreműködni
-
-- a munkavállalók foglalkozási rehabilitációjának megvalósításában közreműködni
-
-- adminisztrációs, dokumentációs tevékenységet végezni
-
-3.3. Kapcsolódó szakképesítések
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 55 723 01 | Ápoló | szakképesítés-ráépülés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  |  | A | B |
-
-|  | 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 4.2. | azonosító száma | megnevezése |
-
-|  | 4.3. | 11144-12 | Foglalkozásegészségügyi szakápolás |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele, az előírt szakmai gyakorlatok igazolt teljesítése.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  |  | A | B | C |
-
-|  | 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
-
-|  | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékeny- sége |
-
-|  | 5.2.3. | 11144-12 | Foglalkozásegészségügyi szak- ápolás | gyakorlati és szóbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: Foglalkozásegészségügyi szakápolás gyakorlati alapfeladatainak kivitelezése.
-
-A vizsgafeladat ismertetése: A feladatleírásban rögzített munkahelyzetnek és paramétereknek megfelelően műszeres vizsgálatok (látásélesség és színlátás vizsgálat, audiometria, Doppler, légzésfunkció, EKG) végzése, közreműködés a munkaköri, szakmai, egészségügyi alkalmassági vizsgálatoknál, a munkavállalók szakorvosi vizsgálatára küldésében. Balesetek és egyéb oxiológiai esetek elsődleges ellátása.
-
-A vizsgafeladat időtartama: 60 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Elméleti ismeretek reprodukálása A vizsgafeladat ismertetése: Az írásbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben megadott követelménymodul témaköreinek mindegyikét tartalmazza.
-
-A vizsgafeladat időtartama: 90 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: A foglalkozás-egészségügyi szakápolásához szükséges elméleti ismeretek alkalmazás szintű felidézése. A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben szereplő szakmai követelménymodulok témaköreinek mindegyikét tartalmazza
-
-A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és Felnőttképzés Vizsgák menüpontjában
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  |  | A |
-
-|  | 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-|  | 6.2. | Műszerelő asztal |
-
-|  | 6.3. | Infúziós eszközök |
-
-|  | 6.4. | Légútbiztosítás eszközei |
-
-|  | 6.5. | Első ellátás, elsősegélynyújtás eszközei |
-
-|  | 6.6. | Beavatkozások eszközei, műszerei |
-
-|  | 6.7. | Munkaköri szakmai alkalmassági vizsgálathoz szükséges diag- nosztikai eszközök (EKG, Doppler, oszcillometria, légzésfunkció, audiométer, látásvizsgálat eszközei) |
-
-|  | 6.8. | Szakápolás eszközei |
-
-|  | 6.9. | Oxigénterápia eszközei |
-
-|  | 6.10. | Dokumentáció és archiválás eszközei |
-
-|  | 6.11. | Elméleti oktatáshoz és a demonstrációs gyakorlatokhoz oktatóhe- lyiség |
-
-|  | 6.12. | Oktatástechnikai eszközök (tábla, projektor, számítógép) |
-
-7. EGYEBEK
-
-7.1. Szakmai előképzettség:
-
-55 723 01 azonosító számú Ápoló szakképesítés, 54 723 01 0010 54 01 azonosító számú Ápoló szakképesítés, 54 723 01 1000 00 00 azonosító számú Ápoló szakképesítés és az 54 5012 01 azonosító számú Ápoló szakképesítés, valamint Okleveles ápoló (egyetemi végzettség), Okleveles ápoló (MSc), Egyetemi okleveles ápoló, Ápoló (BSc), Ápoló (főiskolai végzettség), Diplomás ápoló végzettség.
-
-7.2. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
-
-Magyar Egészségügyi Szakdolgozói Kamara
-
-1087 Budapest, Könyves Kálmán krt. 76.
-
-Levelezési cím: 1450 Budapest, Pf.: 214.
-
-Telefonszám: +36 1 323 2070
-
-Fax: +36 1 323 2079
-
-E-mail: meszk@meszk.hu
-
-A 20. sorszámú Fogtechnikus megnevezésű szakképesítés-ráépülés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés-ráépülés azonosító száma: 55 724 01
-
-1.2. Szakképesítés-ráépülés megnevezése: Fogtechnikus
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 0,5
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 360-440
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: 54 724 01 Fogtechnikus gyakornok
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 30%
-
-2.7. Gyakorlati képzési idő aránya: 70%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
-
-|  |  | A | B | C |
-
-|  | 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munka- kör(ök) |
-
-|  | 3.1.2. | 3333 | Fogtechnikus | Fogműves |
-
-|  | 3.1.3. |
-
-|  | Fogtechnikus |
-
-3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
-
-A fogtechnikus fogtechnikai laboratóriumban fogpótlásokat, illetve javításokat készít. A fogpótlások készítésénél betartja a technológiai előírásokat. Munkája során együttműködik a fogorvossal, az asszisztenciával és a pácienssel. Szakterülete elhivatottságot igényel, ennek érdekében folyamatosan továbbképzéseken, konferenciákon vesz részt, tájékozódik a szaksajtóból, ismeri az új fogtechnikai eljárásokat, gnathológiai szempontokat. Feladatai elvégzése közben betartja a munkavédelmi, tűzvédelmi és ergonómiai szabályokat.
-
-Szakszerűen kommunikál és alkalmazza informatikai ismereteit.
-
-A szakképesítés-ráépüléssel rendelkező képes:
-
-- kivehető műanyag alaplemezes és fémlemezzel kombinált fogpótlásokat készíteni
-
-- rögzített fogpótlásokat készíteni
-
-- kombinált munkákat készíteni
-
-- orthodontiai (fogszabályozó) készülékeket előállítani
-
-- implantátum felépítményeket készíteni
-
-- helyreállító (restauratív) készülékeket előállítani
-
-- olyan fogműveket készíteni, melyek a fogazattal vannak kapcsolatban (harapásemelő sínek, védősínek)
-
-- fogpótlás és fogmű javításokat végezni
-
-A fogpótlások készítése manuális módszerekkel és CAD-CAM módszerrel (számítógépes tervezés és gyártás) is történhet.
-
-3.3. Kapcsolódó szakképesítések
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 54 724 01 | Fogtechnikus gyakornok | szakképesítés |
-
-| 3.3.4. | 55 724 02 | Fülilleszték készítő | szakképesítés-ráépülés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  |  | A | B |
-
-|  | 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-|  | 4.2. | azonosító száma | megnevezése |
-
-|  | 4.3. | 11145-12 | Kombinált munka, orthodontiai készülék és implantátum felépítmény |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele, valamint a szakmai gyakorlat igazolt teljesítése.
-
-Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
-
-Vizsgamunka leadása az első vizsganapon..
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  |  | A | B | C |
-
-|  | 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
-
-|  | 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-|  | 5.2.3. | 11145-12 | Kombinált munka, orthodontiai készülék és implantátum felépítmény | gyakorlati és szóbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A) A vizsgafeladat megnevezése: Kombinált munka primer elemeinek mintázása és frézelése
-
-A vizsgafeladat ismertetése: Felső, vagy alsó kombinált munka készítéséhez 5 tagú mintázat készítése frézelt vállal és interlockkal.
-
-A vizsgafeladat időtartama: 120 perc
-
-A vizsgafeladat értékelési súlyaránya: 35%
-
-B) A vizsgafeladat megnevezése: Háromtagú híd leplezése kerámiával
-
-A vizsgafeladat ismertetése: Vizsgamunka (háromtagú híd fémvázának) bemutatása. A feladathoz a vizsgázó a gyakorlata során elkészíti a fémvázat, amelyet opákerezve kell hozni. a vizsga helyszínére. A vizsga helyszínén a vizsgamunkát bemutatja, majd elkészíti a háromtagú híd kerámiával történő leplezését (front és laterál státuszban).
-
-A vizsgafeladat időtartama: 360 perc
-
-A vizsgafeladat értékelési súlyaránya: 35%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: - perc
-
-A vizsgafeladat értékelési súlyaránya: -%
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Komplex szóbeli szakmai feladatsor a Kombinált munka, orthodontiai készülék és implantátum felépítmény modul tartalmából
-
-A vizsgafeladat ismertetése:
-
-Kombinált munka, Orthodontiai készülék, Implantátum felépítmény készítés
-
-A vizsgafeladat időtartama: 45 perc (felkészülési idő 30 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítés-ráépüléssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és Felnőttképzés Vizsgák menüpontjában
-
-Az 55 724 01 Fogtechnikus szakmai vizsga kizárólag azon a vizsgahelyszínen szervezhető meg, ahol az 54 724 01 Fogtechnikus gyakornok szakmai vizsgája is szervezésre kerül.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  |  | A |
-
-|  | 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-|  | 6.2. | Elméleti oktatáshoz és demonstrációs gyakorlatokhoz oktatóhely- ség |
-
-|  | 6.3. | Informatika szaktanterem számítógépekkel és perifériákkal |
-
-|  | 6.4. | Oktatástechnikai eszközök (tábla, projektor, számítógép) |
-
-|  | 6.5. | Szakmai dia-és fóliasorozatok |
-
-|  | 6.6. | Tanulónként : | munkaasztal mikromotorral, megfelelő megvilágí- óval |
-
-|  | Fogtechnikus tással és elszív |
-
-|  | 6.7. | Bunsen-égő |
-
-|  | 6.8. | Középértékű artikulátor |
-
-|  | 6.9. | Fogtechnikai laboratóriumi kéziszerszámok és eszközök |
-
-|  | 6.10. | Közösen használt berendezések |
-
-|  | 6.11. | Gipszcsiszoló |
-
-|  | 6.12. | Polírmotor elszívóval |
-
-|  | 6.13. | Forrázó, polimerizáló berendezés |
-
-|  | 6.14. | Vákuumkeverő |
-
-|  | 6.15. | Előmelegítő-és kitüzelő kemencék |
-
-|  | 6.16. | Öntvénytisztító elszívóval |
-
-|  | 6.17. | Kerámia kályha |
-
-|  | 6.18. | Kompresszor |
-
-|  | 6.19. | Ultrahangos tisztító vagy gőzborotva |
-
-|  | 6.20. | Frézgép |
-
-|  | 6.21. | Vibrátor |
-
-|  | 6.22. | Elektropolír |
-
-|  | 6.23. | Öntőgép |
-
-|  | 6.24. | Mártóviasz melegítő |
-
-|  | 6.25. | Asztali nagyító |
-
-|  | 6.26. | CAD/CAM tervező program |
-
-7. EGYEBEK
-
-7.1. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
-
-Magyar Egészségügyi Szakdolgozói Kamara 1087 Budapest, Könyves Kálmán krt. 76.
-
-Levelezési cím: 1450 Budapest, Pf.: 214.
-
-Telefonszám: +36 1 323 2070
-
-Fax: +36 1 323 2079
-
-E-mail: meszk@meszk.hu
-
-A 21. sorszámú Fogtechnikus gyakornok megnevezésű szakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 54 724 01
-
-1.2. Szakképesítés megnevezése: Fogtechnikus gyakornok
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1400-1700
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 30%
-
-2.7. Gyakorlati képzési idő aránya: 70%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama:
+[^4]: A 2. melléklet a 41/2015. (VIII. 31.) EMMI rendelet 1. §-a szerint módosított szöveg.
