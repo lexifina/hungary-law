@@ -373,3 +373,7 @@ XXIV. A településrendezéssel kapcsolatos
 kártalanítási eljárás illetéke
 
 A településrendezéssel kapcsolatos kártalanítási eljárás illetéke a követelt kárösszeg 2%-a, de legalább 5000 Ft és legfeljebb 500 000 Ft.
+
+Természetes személyek adósságrendezési eljárásában az adósságrendezési nyilvántartásba történő bejegyzés törlésére irányuló kérelem illetéke
+
+XXV. Természetes személyek adósságrendezési eljárásában az adósságrendezési nyilvántartásba történő bejegyzések törlésére irányuló kérelem illetéke 10 000 forint.
