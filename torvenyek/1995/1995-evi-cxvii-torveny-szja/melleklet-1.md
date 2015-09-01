@@ -372,6 +372,14 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 
 7.28. az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló törvény rendelkezései végrehajtása következtében megszűnt kötelezettség.
 
+7.29. a természetes személyek adósságrendezési eljárásában
+
+a) az adóssal, adóstárssal a bíróságon kívüli adósságrendezés során kötött megállapodásban vagy a bírósági adósságrendezési eljárásban kötött egyezségkötés, valamint az egyezség módosítása során elengedett követelés,
+
+b) az a követelés, amelyet az adósnak a bírósági adósságrendezési eljárásban az adósságtörlesztési határozat, az adósságtörlesztési határozat módosítása, valamint a mentesítő határozat alapján nem kell megfizetnie,
+
+c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által hozott adósságtörlesztési határozatban az adós számára meghatározott adósságrendezési kötelezettség teljesítése érdekében települési önkormányzattól, munkáltatótól, közhasznú szervezettől vagy egyházi jogi személytől kapott támogatás vagy adomány, ha annak egy naptári évben egy adományozótól juttatott összege havi átlagban nem éri el az öregségi nyugdíj legkisebb összegének másfélszeresét.
+
 8. A nem pénzben kapott juttatások közül adómentes:
 
 8.1. az állam, a helyi önkormányzat vagy az egyházi jogi személy forrásából nyújtott oktatási, egészségügyi és szociális ellátás (ideértve a gyermek, a tanuló, a beteg, illetve a szociális ellátásra jogosult részére ingyenesen vagy kedvezményesen természetben biztosított étkeztetést is) azzal, hogy az üdültetés és a gyógyüdültetés nem minősül egészségügyi, illetőleg szociális ellátásnak;

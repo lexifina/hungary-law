@@ -86,4 +86,4 @@ b) lakásra vonatkozó vagyoni értékű jog
 
 (7) Az Szja tv. 2008. január 1-je előtt hatályos rendelkezései szerint lakásszerzési kedvezménnyel szerzett lakás átruházása esetén a (6) bekezdés alkalmazásában számított összegbe be kell számítani a lakásszerzési kedvezmény alapjaként érvényesített összeget, ha az ilyen lakás átruházása a lakásszerzési kedvezmény érvényesítésének évében vagy azt követő negyedik naptári év utolsó napját megelőzően történt.
 
-(8)
+(8) Nem kell jövedelmet megállapítani az ingatlan, vagyoni értékű jog átruházására tekintettel megszerzett bevétel után, ha azt a bevételt az adózó a természetes személyek adósságrendezéséről szóló törvényben szabályozott bíróságon kívüli adósságrendezési megállapodás, bírósági adósságrendezési egyezség vagy adósságtörlesztési határozat alapján teljes egészében a tartozásai megfizetésére fordítja. Abban az esetben, ha a bevételt a magánszemély csak részben fordítja a tartozásai megfizetésére, akkor azt a jövedelemrészt kell megállapítani, amely a tartozások megfizetésére fordított bevétel és a teljes bevétel különbözete alapján meghatározható.
