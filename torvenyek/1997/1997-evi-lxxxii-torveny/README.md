@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-82-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 1997-82-00-00.62 |
 | 2015-01-11 | 2014. évi XCIX. törvény | 1997-82-00-00.63 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 1997-82-00-00.64 |
+| 2015-09-01 | 2015. évi CV. törvény | 1997-82-00-00.65 |

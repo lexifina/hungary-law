@@ -28,7 +28,9 @@ m) külön törvényben meghatározott feltételek megléte esetén az Európai 
 
 n) az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben i) pontjában meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel,
 
-o) alapvető jogok biztosával
+o) alapvető jogok biztosával,
+
+p) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
 szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
