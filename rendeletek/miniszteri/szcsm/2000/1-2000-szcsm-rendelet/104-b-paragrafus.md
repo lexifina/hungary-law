@@ -14,7 +14,7 @@ d) gyűjti és rendszerezi a régióban működő, hajléktalan emberek ellátá
 
 e) számítógépes adatbázisában nyilvántartja a bejelentések kapcsán tett intézkedéseket,
 
-f)[^251] tevékenységéről és az észlelt problémákról rendszeresen tájékoztatja a regionális módszertani intézményt.
+f)[^251] tevékenységéről és az észlelt problémákról rendszeresen tájékoztatja a Hivatal módszertani feladatokat ellátó szervezeti egységét.
 
 (3) A diszpécserszolgálat a (2) bekezdés szerinti feladatokat
 
@@ -24,4 +24,4 @@ b) a téli időszakon kívül legalább munkaidőben biztosítja, és gondoskodi
 
 [^249]: A 104/B. §-t megelőző alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be.
 [^250]: A 104/B. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 35. §-a iktatta be, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
-[^251]: A 104/B. § (2) bekezdésének f) pontja a 3/2008. (IV. 15.) SZMM rendelet 14. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^251]: A 104/B. § (2) bekezdésének f) pontja a 3/2008. (IV. 15.) SZMM rendelet 14. § (2) bekezdésének b) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 3. § d) pontja szerint módosított szöveg.

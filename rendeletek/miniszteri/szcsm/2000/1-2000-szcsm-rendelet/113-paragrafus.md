@@ -1,4 +1,4 @@
-113. §[^270] (1) Szakképzettnek kell tekinteni azon személyt – függetlenül attól, hogy 2010. december 31-én szociális intézménynél, szolgáltatónál van-e foglalkoztatva –, aki
+113. §[^272] (1) Szakképzettnek kell tekinteni azon személyt – függetlenül attól, hogy 2010. december 31-én szociális intézménynél, szolgáltatónál van-e foglalkoztatva –, aki
 
 a) a 2010. december 31-én hatályos 3. számú melléklet szerinti felsőfokú végzettséggel rendelkezik, vagy
 
@@ -10,11 +10,11 @@ meghatározott képesítéssel rendelkezik.
 
 (3) Amennyiben a (2) bekezdés szerinti személy 2010. december 31-ét követően szociális intézménynél, szolgáltatónál szakmai létszámnormába tartozó új jogviszonyt létesít, az új jogviszonya tekintetében is szakképzettnek kell tekinteni azzal, hogy az új jogviszony létrejöttétől számított 10 éven belül köteles a 3. számú mellékletnek a tanulmányok megkezdésekor hatályos előírásai szerinti képesítést megszerezni. E kötelezettség alól mentesül az a személy, akinek az új jogviszony létrejöttekor legfeljebb tíz év van hátra a reá irányadó öregségi nyugdíjkorhatár betöltéséig.
 
-(4)[^271] Az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 2/2015. (I. 14.) EMMI rendelet hatálybalépését[^272] megelőző napon szociális intézményben foglalkoztatott általános ápoló, általános asszisztens, felnőtt szakápoló szakközépiskolai végzettséggel vagy szakiskolai képesítéssel rendelkező személy szakképzettnek tekintendő, azzal, hogy rá a (3) bekezdésben foglaltakat nem kell alkalmazni.
+(4)[^273] Az egyes szociális tárgyú miniszteri rendeletek módosításáról szóló 2/2015. (I. 14.) EMMI rendelet hatálybalépését[^274] megelőző napon szociális intézményben foglalkoztatott általános ápoló, általános asszisztens, felnőtt szakápoló szakközépiskolai végzettséggel vagy szakiskolai képesítéssel rendelkező személy szakképzettnek tekintendő, azzal, hogy rá a (3) bekezdésben foglaltakat nem kell alkalmazni.
 
-(5)[^273] Szakképzettnek kell tekinteni azt a személyt, aki a 2010. december 31-én hatályos 3. számú melléklet szerinti felsőfokú végzettséget vagy OKJ-s szakképesítést szerez, amennyiben tanulmányait 2011. január 1-jét megelőzően kezdte meg.
+(5)[^275] Szakképzettnek kell tekinteni azt a személyt, aki a 2010. december 31-én hatályos 3. számú melléklet szerinti felsőfokú végzettséget vagy OKJ-s szakképesítést szerez, amennyiben tanulmányait 2011. január 1-jét megelőzően kezdte meg.
 
-[^270]: A 113. §-t a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte, újonnan a 26/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
-[^271]: A 113. § (4) bekezdését a 2/2015. (I. 14.) EMMI rendelet 11. §-a iktatta be.
-[^272]: A hatálybalépés napja: 2015. január 17.
-[^273]: A 113. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 11. §-a iktatta be.
+[^272]: A 113. §-t a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 14. pontja hatályon kívül helyezte, újonnan a 26/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^273]: A 113. § (4) bekezdését a 2/2015. (I. 14.) EMMI rendelet 11. §-a iktatta be.
+[^274]: A hatálybalépés napja: 2015. január 17.
+[^275]: A 113. § (5) bekezdését a 2/2015. (I. 14.) EMMI rendelet 11. §-a iktatta be.

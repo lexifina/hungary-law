@@ -1,4 +1,4 @@
-## 39/I. §[^136] Közösségi gondozó vagy közösségi koordinátor munkakörben alkalmazott személynek a foglalkoztatás kezdő időpontjától rendelkeznie kell a Nemzeti Család- és Szociálpolitikai Intézet által kiadott közösségi pszichiátriai ellátással kapcsolatos képzés tanúsítványával. Felmentés adható, amennyiben a munkakört betöltendő személy a képzésben már hallgatói jogviszonnyal rendelkezik és azt két éven belül elvégzi. A közösségi pszichiátriai ellátással kapcsolatos képzésre történő jelentkezéseket a Nemzeti Család- és Szociálpolitikai Intézethez kell benyújtani.
+## 39/I. §[^136] Közösségi gondozó vagy közösségi koordinátor munkakörben alkalmazott személynek a foglalkoztatás kezdő időpontjától rendelkeznie kell a Nemzeti Család- és Szociálpolitikai Intézet vagy a Hivatal által kiadott közösségi pszichiátriai ellátással kapcsolatos képzés tanúsítványával. Felmentés adható, amennyiben a munkakört betöltendő személy a képzésben már hallgatói jogviszonnyal rendelkezik és azt két éven belül elvégzi. A közösségi pszichiátriai ellátással kapcsolatos képzésre történő jelentkezéseket a Hivatalhoz kell benyújtani.
 
 39/J. §[^137] (1) A szenvedélybetegek közösségi ellátása olyan önkéntesen igénybe vehető, hosszú távú, közösségi alapú, az ellátott otthonában, illetve lakókörnyezetében történő gondozás, amelynek célja az életmódváltozás elindítása, segítése és folyamatos nyomon követése.
 
@@ -14,6 +14,6 @@ c) pszicho-szociális rehabilitáció: a munkához való hozzájutás, a szabadi
 
 (4) A szenvedélybetegek közösségi ellátására egyebekben e rendelet közösségi pszichiátriai ellátásra vonatkozó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy a közösségi gondozóknak, illetve koordinátoroknak nem kell speciális képzésen részt venni.
 
-[^136]: A 39/I. §-t a 4/2004. (I. 28.) ESZCSM rendelet 14. §-a iktatta be, szövege a 9/2009. (IV. 11.) SZMM rendelet 8. §-ával megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 4. § a) pontja szerint módosított szöveg.
+[^136]: A 39/I. §-t a 4/2004. (I. 28.) ESZCSM rendelet 14. §-a iktatta be, szövege a 9/2009. (IV. 11.) SZMM rendelet 8. §-ával megállapított, a 24/2010. (XII. 30.) NEFMI rendelet 4. § a) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
 [^137]: A 39/J. §-t a 4/2004. (I. 28.) ESZCSM rendelet 14. §-a iktatta a szövegbe.
 [^138]: A 39/J. § (3) bekezdését a 9/2006. (XII. 27.) SZMM rendelet 10. § (7) bekezdésének c) pontja hatályon kívül helyezte.
