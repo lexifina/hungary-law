@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-50-00-00
 | 2013-01-01 | 2012. évi CCXI. törvény | 2009-50-00-00.18 |
 | 2013-09-01 | 2013. évi XXXIV. törvény | 2009-50-00-00.19 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2009-50-00-00.20 |
+| 2015-09-01 | 2015. évi CVII. törvény | 2009-50-00-00.21 |
