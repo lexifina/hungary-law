@@ -4,142 +4,188 @@
 
 ## Melléklet a 2011. évi CXXII. törvényhez
 
-I. Az azonosító adatok
+## I. Az azonosító adatok
 
-1. Természetes személy személyazonosító és lakcím adatai: név, születési név, anyja neve, születési hely, idő, állampolgárság, lakcím, postacím, személyi igazolvány (útlevél) száma, egyéb, a személyazonosság igazolására a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint alkalmas igazolvány száma.
+## 1. Természetes személy személyazonosító és lakcím adatai: név, születési név, anyja neve, születési hely, idő, állampolgárság, lakcím, postacím, személyi igazolvány (útlevél) száma, egyéb, a személyazonosság igazolására a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint alkalmas igazolvány száma.
 
-2. A referenciaadat-szolgáltatót azonosító adatok: név, rövidített név, székhely, telephely és fióktelep címe, adószám, a képviseletre jogosultak neve és beosztása.
+## 2. A referenciaadat-szolgáltatót azonosító adatok: név, rövidített név, székhely, telephely és fióktelep címe, adószám, a képviseletre jogosultak neve és beosztása.
 
-II. A központi hitelinformációs rendszerben az ügyfelekről nyilvántartható adatok
+## II. A központi hitelinformációs rendszerben az ügyfelekről nyilvántartható adatok
 
-1. Természetes személyekkel kapcsolatban nyilvántartható adatok:
+## 1. Természetes személyekkel kapcsolatban nyilvántartható adatok:
 
-1.1. Azonosító adatok:
+## 1.1. Azonosító adatok:
 
-a) név,
+## a) név,
 
-b) születési név,
+## b) születési név,
 
-c) születési idő, hely,
+## c) születési idő, hely,
 
-d) anyja születési neve,
+## d) anyja születési neve,
 
-e) személyi igazolvány (útlevél) szám vagy egyéb, a személyazonosság igazolására a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint alkalmas igazolvány száma,
+## e) személyi igazolvány (útlevél) szám vagy egyéb, a személyazonosság igazolására a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint alkalmas igazolvány száma,
 
-f) lakcím,
+## f) lakcím,
 
-g) levelezési cím,
+## g) levelezési cím,
 
-h) elektronikus levelezési cím.
+## h) elektronikus levelezési cím.
 
-1.2. Az adatszolgáltatás tárgyát képező szerződés adatai:
+## 1.2. Az adatszolgáltatás tárgyát képező szerződés adatai:
 
-a) a szerződés típusa és azonosítója (száma),
+## a) a szerződés típusa és azonosítója (száma),
 
-b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
+## b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
 
-c) ügyféli minőség (adós, adóstárs),
+## c) ügyféli minőség (adós, adóstárs),
 
-d) a szerződés összege és devizaneme, valamint a törlesztés módja és gyakorisága,
+## d) a szerződés összege és devizaneme, valamint a törlesztés módja és gyakorisága,
 
-e) a 11. § (1) bekezdésében meghatározott feltételek bekövetkezésének időpontja,
+## e) a 11. § (1) bekezdésében meghatározott feltételek bekövetkezésének időpontja,
 
-f) a 11. § (1) bekezdésében meghatározott feltételek bekövetkezésekor fennálló lejárt és meg nem fizetett tartozás összege,
+## f) a 11. § (1) bekezdésében meghatározott feltételek bekövetkezésekor fennálló lejárt és meg nem fizetett tartozás összege,
 
-g) a lejárt és meg nem fizetett tartozás megszűnésének módja és időpontja,
+## g) a lejárt és meg nem fizetett tartozás megszűnésének módja és időpontja,
 
-h) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés,
+## h) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés,
 
-i) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, pénzneme,
+## i) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, pénzneme,
 
-j) fennálló tőketartozás összege és pénzneme,
+## j) fennálló tőketartozás összege és pénzneme,
 
-k) a szerződéses összeg törlesztő részletének összege és devizaneme.
+## k) a szerződéses összeg törlesztő részletének összege és devizaneme.
 
-1.3. Az adatszolgáltatás tárgyát képező szerződés adatai:
+## 1.3. Az adatszolgáltatás tárgyát képező szerződés adatai:
 
-a) az igénylés elutasításának időpontja, indoka,
+## a) az igénylés elutasításának időpontja, indoka,
 
-b) okirati bizonyítékok,
+## b) okirati bizonyítékok,
 
-c) jogerős bírósági határozat száma, az eljáró bíróság megnevezése, a határozat rendelkező részének tartalma.
+## c) jogerős bírósági határozat száma, az eljáró bíróság megnevezése, a határozat rendelkező részének tartalma.
 
-1.4. A készpénz-helyettesítő fizetési eszköz használatával kapcsolatos adatok:
+## 1.4. A készpénz-helyettesítő fizetési eszköz használatával kapcsolatos adatok:
 
-a) a készpénz-helyettesítő fizetési eszköz típusa és azonosítója (száma),
+## a) a készpénz-helyettesítő fizetési eszköz típusa és azonosítója (száma),
 
-b) a letiltás időpontja,
+## b) a letiltás időpontja,
 
-c) a letiltott készpénz-helyettesítő fizetési eszközzel végrehajtott műveletek időpontja, száma, összege,
+## c) a letiltott készpénz-helyettesítő fizetési eszközzel végrehajtott műveletek időpontja, száma, összege,
 
-d) a jogosulatlan felhasználások száma,
+## d) a jogosulatlan felhasználások száma,
 
-e) az okozott kár összege,
+## e) az okozott kár összege,
 
-f) a bírósági határozat jogerőre emelkedésének időpontja,
+## f) a bírósági határozat jogerőre emelkedésének időpontja,
 
-g) perre utaló megjegyzés.
+## g) perre utaló megjegyzés.
 
-1.5. A hozzájárulás megtagadásával kapcsolatos adatok:
+## 1.5. A hozzájárulás megtagadásával kapcsolatos adatok:
 
-a) a nyilatkozat kelte (hely, dátum),
+## a) a nyilatkozat kelte (hely, dátum),
 
-b) a referenciaadat-szolgáltató azonosító adatai,
+## b) a referenciaadat-szolgáltató azonosító adatai,
 
-c) az ügyfél azonosító adatai,
+## c) az ügyfél azonosító adatai,
 
-d) a hozzájárulás megtagadására utaló megjegyzés.
+## d) a hozzájárulás megtagadására utaló megjegyzés.
 
-2. Vállalkozásokkal kapcsolatban nyilvántartható adatok:
+## 1.6. az adósságrendezési eljárást kezdeményező adós, adóstársa, továbbá az adósságrendezési eljárásban az adós mellett résztvevő egyéb kötelezettre vonatkozóan:
 
-2.1. azonosító adatok:
+## 1.6.1. Az adósságrendezési eljárásnak az adósságrendezési nyilvántartás szerinti ügyazonosító száma,
 
-a) cégnév, név,
+## 1.6.2. Az adósságrendezési eljárás adatai:
 
-b) székhely,
+## a) az adósságrendezési eljárás kezdeményezése benyújtásának dátuma,
 
-c) cégjegyzékszám, egyéni vállalkozói igazolvány szám,
+## b) az adósságrendezési eljárás típusa (bíróságon kívüli vagy bírósági adósságrendezés)
 
-d) adószám.
+## c) az adósságrendezési eljárás kezdő dátuma:
 
-2.2. Az adatszolgáltatás tárgyát képező szerződés adatai:
+## ca) a bíróságon kívüli adósságrendezés kezdeményezéséről a Családi Csődvédelmi Szolgálat által közzétett hirdetmény dátuma, vagy
 
-a) a szerződés típusa és azonosítója (száma),
+## cb) a bírósági adósságrendezést elrendelő bírósági határozat jogerőre emelkedésének napja,
 
-b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
+## d) az adósságrendezésben érintett főhitelező adószáma, megnevezése,
 
-c) a szerződés megszűnésének módja,
+## e) az adósságrendezési eljárásban az adósságrendezés tárgyában történő megegyezés:
 
-d) a szerződés összege és devizaneme, valamint a törlesztés módja és gyakorisága,
+## ea) a bíróságon kívüli adósságrendezési megállapodás létrejöttének dátuma, vagy
 
-e) a 14. §-ban meghatározott feltételek bekövetkezésének időpontja,
+## eb) a bírósági adósságrendezési egyezséget jóváhagyó bírósági végzés jogerőre emelkedésének napja,
 
-f) a 14. §-ban meghatározott feltételek bekövetkezésekor fennálló lejárt és meg nem fizetett tartozás összege,
+## f) az adósságrendezési eljárás megszűnésének napja:
 
-g) a lejárt és meg nem fizetett tartozás esedékességének időpontja és összege,
+## fa) a bíróságon kívüli adósságrendezés sikertelenségének a Családi Csődvédelmi Szolgálat részére történő bejelentése napja, vagy
 
-h) a lejárt és meg nem fizetett tartozás megszűnésének időpontja és módja,
+## fb) a bírósági adósságrendezési eljárást elutasító bírósági végzés jogerőre emelkedésének napja,
 
-i) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés,
+## fc) a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését megállapító bírósági határozat jogerőre emelkedésének napja
 
-j) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, valamint pénzneme,
+## fd) a bírósági adósságrendezési egyezség hatálya megszűnésének bírósági megállapítása esetén az ezt megállapító bírósági határozat jogerőre emelkedésének napja,
 
-k) fennálló tőketartozás összege és pénzneme,
+## fe) az adós (adóstárs) mentesítéséről szóló bírósági határozat jogerőre emelkedésének napja,
 
-l) a szerződéses összeg törlesztő részletének összege és devizaneme.
+## ff) az adóst mentesítő határozatot hatályon kívül helyező bírósági határozat jogerőre emelkedésének napja,
 
-2.3. Azon pénzforgalmi számlákkal kapcsolatos adatok, amelyeken sorba állított követeléseket tartottak nyilván:
+## fg) az adósságrendezésnek az adós, adóstárs mentesülése nélküli megszüntetéséről rendelkező bírósági határozat jogerőre emelkedésének napja,
 
-a) a pénzforgalmi számla vezetésére vonatkozó szerződés azonosítója (száma),
+## fh) a bíróságon kívüli adósságrendezés sikeres lezárásának a Családi Csődvédelmi Szolgálat részére történő bejelentése napja
 
-b) a sorba állított követelések összege és devizaneme,
+## g) az adósságrendezési eljárás szakaszai: „Kezdeményezés benyújtása”, „Kezdeményezett”, „Megegyezett”, „Lezárt”
 
-c) a követelések sorba állításának kezdő és megszűnési időpontja,
+## 1.6.3. Az ügyfél érintettsége (adós, adóstárs, az adósságrendezési eljárásban részt vevő egyéb kötelezett).
 
-d) perre utaló megjegyzés.
+## 2. Vállalkozásokkal kapcsolatban nyilvántartható adatok:
 
-2.4. A készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződésre vonatkozó adatok:
+## 2.1. azonosító adatok:
 
-a) a szerződés megkötésének, lejáratának, megszűnésének, felfüggesztésének időpontja,
+## a) cégnév, név,
 
-b) perre utaló megjegyzés.
+## b) székhely,
+
+## c) cégjegyzékszám, egyéni vállalkozói igazolvány szám,
+
+## d) adószám.
+
+## 2.2. Az adatszolgáltatás tárgyát képező szerződés adatai:
+
+## a) a szerződés típusa és azonosítója (száma),
+
+## b) a szerződés megkötésének, lejáratának, megszűnésének időpontja,
+
+## c) a szerződés megszűnésének módja,
+
+## d) a szerződés összege és devizaneme, valamint a törlesztés módja és gyakorisága,
+
+## e) a 14. §-ban meghatározott feltételek bekövetkezésének időpontja,
+
+## f) a 14. §-ban meghatározott feltételek bekövetkezésekor fennálló lejárt és meg nem fizetett tartozás összege,
+
+## g) a lejárt és meg nem fizetett tartozás esedékességének időpontja és összege,
+
+## h) a lejárt és meg nem fizetett tartozás megszűnésének időpontja és módja,
+
+## i) a követelés másik referenciaadat-szolgáltató részére történő átruházására, perre utaló megjegyzés,
+
+## j) előtörlesztés ténye, ideje, az előtörlesztett összeg és a fennálló tőketartozás összege, valamint pénzneme,
+
+## k) fennálló tőketartozás összege és pénzneme,
+
+## l) a szerződéses összeg törlesztő részletének összege és devizaneme.
+
+## 2.3. Azon pénzforgalmi számlákkal kapcsolatos adatok, amelyeken sorba állított követeléseket tartottak nyilván:
+
+## a) a pénzforgalmi számla vezetésére vonatkozó szerződés azonosítója (száma),
+
+## b) a sorba állított követelések összege és devizaneme,
+
+## c) a követelések sorba állításának kezdő és megszűnési időpontja,
+
+## d) perre utaló megjegyzés.
+
+## 2.4. A készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződésre vonatkozó adatok:
+
+## a) a szerződés megkötésének, lejáratának, megszűnésének, felfüggesztésének időpontja,
+
+## b) perre utaló megjegyzés.

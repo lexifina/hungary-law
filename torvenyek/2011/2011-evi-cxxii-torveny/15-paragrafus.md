@@ -1,6 +1,6 @@
 ## III. ÜGYFÉLVÉDELEM ÉS JOGORVOSLAT
 
-15. § (1) Az adatszolgáltatás tárgyát képező szerződés előkészítése során a referenciaadat-szolgáltató írásban tájékoztatja a szerződés megkötése ügyében eljáró természetes személyt a KHR-re irányadó szabályokról, a nyilvántartás céljáról, a nyilvántartott személyt megillető jogokról, arról, hogy a KHR által kezelt adatokat csak a törvényben meghatározott célra lehet felhasználni, arról, hogy adatai az 5. § (2) bekezdése szerint átadásra kerülnek, valamint a 11–13. § szerint átadásra kerülhetnek.
+15. § (1) Az adatszolgáltatás tárgyát képező szerződés előkészítése során a referenciaadat-szolgáltató írásban tájékoztatja a szerződés megkötése ügyében eljáró természetes személyt a KHR-re irányadó szabályokról, a nyilvántartás céljáról, a nyilvántartott személyt megillető jogokról, arról, hogy a KHR által kezelt adatokat csak a törvényben meghatározott célra lehet felhasználni, arról, hogy adatai az 5. § (2) bekezdése szerint átadásra kerülnek, valamint a 11–13/A. § szerint átadásra kerülhetnek.
 
 (2) Az (1) bekezdés szerinti tájékoztatásnak részét képezi a Magyar Nemzeti Bank által a honlapján megjelentetett mintatájékoztató.
 

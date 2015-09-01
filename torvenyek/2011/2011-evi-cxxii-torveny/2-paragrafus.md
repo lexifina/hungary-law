@@ -22,7 +22,9 @@ f) referenciaadat-szolgáltató:
 
 4. az értékpapír-kölcsönzést végző befektetési vállalkozás, befektetési alap, befektetési alapkezelő, elszámolóházi tevékenységet végző szervezet, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, pénzügyi intézmény, központi értéktár és biztosító, valamint
 
-5. a határon átnyúló szolgáltatást végző, az Európai Unió másik tagállamában székhellyel rendelkező hitelező, ha a KHR-hez csatlakozott.
+5. a határon átnyúló szolgáltatást végző, az Európai Unió másik tagállamában székhellyel rendelkező hitelező, ha a KHR-hez csatlakozott,
+
+6. a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény szerinti adósságrendezési eljárásokban eljáró Családi Csődvédelmi Szolgálat.
 
 g) vállalkozás: a gazdasági társaság, fióktelep, az európai részvénytársaság, a szövetkezet, az európai szövetkezet, az európai gazdasági egyesülés, a lakásszövetkezet és az egyéni vállalkozó, ide nem értve a referenciaadat-szolgáltatót.
 
@@ -41,3 +43,5 @@ kell érteni.
 (3) A nyilvántartott személy távközlési eszköz vagy elektronikus kommunikáció útján továbbított szöveges üzenetben való értesítést is igényelhet a referenciaadat-szolgáltatótól, valamint a KHR-t kezelő pénzügyi vállalkozástól. A természetes személy e törvényben meghatározott nyilatkozatát a referenciaadat-szolgáltató bármely fiókjában is megteheti írásban.
 
 (4) Az e törvényben meghatározottak szerint haladéktalanul elvégzendő cselekményeket legfeljebb egy munkanapon belül kell elvégezni.
+
+(5) A Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény szerinti eljárásokban meghatározott feladatai ellátása körében adatszolgáltatási, hiteljelentési, tranzakciós és kezelési díj fizetésére nem köteles.

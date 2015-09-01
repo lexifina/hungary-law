@@ -10,7 +10,25 @@ c) az adat átadásának időpontja a 12. §, a 13. § és a 14/A. § szerinti e
 
 d) a követelések sorba állításának megszűnési időpontja a 14/B. § szerinti esetben,
 
-e) a vállalkozásnak a pénzügyi szolgáltatásra vonatkozó szerződése megszűnésének időpontja.
+e) a vállalkozásnak a pénzügyi szolgáltatásra vonatkozó szerződése megszűnésének időpontja,
+
+f) a 13/A. § (1) bekezdés szerinti esetben az adósságrendezési eljárás megszűnésének dátuma:
+
+fa) a bíróságon kívüli adósságrendezés sikertelensége Családi Csődvédelmi Szolgálat részére történő bejelentésének napja,
+
+fb) a bírósági adósságrendezési eljárást elutasító bírósági végzés jogerőre emelkedésének napja,
+
+fc) a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését megállapító bírósági határozat jogerőre emelkedésének dátuma,
+
+fd) a bírósági adósságrendezési egyezség hatálya megszűnését megállapító bírósági határozat esetén az ezt megállapító bírósági határozat jogerőre emelkedésének dátuma,
+
+fe) az adós (adóstárs) mentesítéséről szóló bírósági határozat jogerőre emelkedésének dátuma,
+
+ff) az adóst mentesítő határozatot hatályon kívül helyező bírósági határozat jogerőre emelkedésének napja,
+
+fg) az adósságrendezésnek az adós, adóstárs mentesülése nélküli megszüntetéséről rendelkező bírósági határozat jogerőre emelkedésének dátuma,
+
+fh) a bíróságon kívüli adósságrendezés sikeres lezárásának a Családi Csődvédelmi Szolgálat részére történő bejelentése napja.
 
 (3) A KHR-t kezelő pénzügyi vállalkozás haladéktalanul és véglegesen törli a referenciaadatot, ha a referenciaadat-szolgáltató nem állapítható meg, vagy ha tudomására jut, hogy a referenciaadat jogellenesen került a KHR-be.
 

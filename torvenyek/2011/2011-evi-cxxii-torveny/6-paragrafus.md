@@ -12,7 +12,9 @@ c) a 12. § a) pontjában meghatározott esetben az okirati bizonyíték rendelk
 
 d) a 12. § b) pontjában és a 13. §-ban meghatározott esetekben a jogerős bírósági határozat tartalmáról való tudomásszerzés időpontja,
 
-e) a 14/A. §-ban meghatározott esetben a készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződés felmondásának vagy felfüggesztésének időpontja.
+e) a 14/A. §-ban meghatározott esetben a készpénz-helyettesítő fizetési eszköz elfogadására irányuló szerződés felmondásának vagy felfüggesztésének időpontja,
+
+f) a 13/A. § (1) bekezdésében meghatározott esetben az adósságrendezési eljárás kezdeményezése benyújtásának dátuma.
 
 (4) A referenciaadat-szolgáltató adatátadási kötelezettsége a már átadott referenciaadatok módosulása esetén is fennáll. Ebben az esetben a referenciaadat-szolgáltató az adatot az arról való tudomásszerzést követő öt munkanapon belül írásban átadja a KHR-t kezelő pénzügyi vállalkozás részére.
 
@@ -20,4 +22,14 @@ e) a 14/A. §-ban meghatározott esetben a készpénz-helyettesítő fizetési e
 
 (6) Amennyiben a nyilvántartott személy az adatszolgáltatás tárgyát képező szerződés hatálya alatt előtörlesztést teljesít, a referenciaadat-szolgáltató az előtörlesztést követő öt munkanapon belül átadja a KHR-t kezelő pénzügyi vállalkozás részére a melléklet II. fejezet 1.2 pont i) alpontja, illetve 2.2 pont j) alpontja szerinti adatot.
 
-(7) Ha a KHR-t kezelő pénzügyi vállalkozás adatot szolgáltat a Magyar Nemzeti Bank részére, a továbbított adatok érintettel való kapcsolatának megállapítását véglegesen lehetetlenné teszi.
+(7) A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNB tv.) 4. § (1), (3), (6), (7) és (9) bekezdésében meghatározott feladatai ellátása érdekében a Magyar Nemzeti Bank a KHR-t kezelő pénzügyi vállalkozástól
+
+a) vállalkozásokkal kapcsolatban – ide nem értve az egyéni vállalkozót – a melléklet II. fejezet 2.1 pont d) alpontjában, valamint a 2.2 pontjában meghatározott adatokra vonatkozóan,
+
+b) természetes személyekkel és egyéni vállalkozókkal kapcsolatban a melléklet II. fejezet 1.2. pont b), c)–g), i) és j) alpontjában meghatározott adatokra, valamint a szerződés típusára vonatkozóan,
+
+feladatköre megjelölésével az egyedi adatokra vonatkozóan is kérhet adatszolgáltatást.
+
+(8) Ha a Magyar Nemzeti Bank természetes személyekkel vagy egyéni vállalkozókkal kapcsolatos egyedi adatszolgáltatást kér, a KHR-t kezelő pénzügyi vállalkozás az adatszolgáltatást csak úgy teljesítheti, hogy ezt megelőzően az adatoknak az érintett személlyel való kapcsolata megállapítását véglegesen lehetetlenné teszi.
+
+(9) A (7) és (8) bekezdés szerinti adatszolgáltatás során kapott adatokat a Magyar Nemzeti Bank a megjelölt feladatkörével összefüggő elemzések, a felügyeleti jogkörében igényelt adatok ellenőrzése, továbbá a statisztikai célra igényelt adatok helyességének vizsgálata érdekében használhatja fel, és ezt követően csak egyedi azonosításra alkalmatlan formában kezelheti. A KHR-ből átvett adatokkal kapcsolatos titoktartási kötelezettségre az MNB tv. 150. § (1) bekezdésében foglaltakat kell alkalmazni, továbbá a Magyar Nemzeti Bank az átvett adatok elkülönített kezelése, továbbá fizikai és logikai védelme érdekében köteles a belső szabályzataiban meghatározott intézkedéseket megtenni.

@@ -1,0 +1,5 @@
+13/A. § (1) A Családi Csődvédelmi Szolgálat a KHR-t kezelő pénzügyi vállalkozás részére írásban átadja azoknak a természetes személynek a melléklet II. fejezetének 1.1 és 1.6 pontja szerinti referenciaadatait, akik az adósságrendezési eljárásba adósként, adóstársként vagy egyéb kötelezettként bevonásra kerültek.
+
+(2) Az (1) bekezdés szerinti adatátadásról a KHR-t kezelő pénzügyi vállalkozás írásban értesítést küld azon referenciaadat-szolgáltatók részére, akik az érintett természetes személyhez tartozóan a KHR-ben az adatszolgáltatás tárgyát képező szerződések alapján fennálló követeléssel rendelkeznek.
+
+(3) A Családi Csődvédelmi Szolgálat és az 5. § (2) bekezdés szerinti adatátadást elvégző referenciaadat-szolgáltató a nyilvántartott személyről a szerződés illetve az adósságrendezési eljárás időtartalma alatt értesítést kérhet a KHR-t kezelő pénzügyi vállalkozástól a 11–13. § alapján kezelt adatokban bekövetkezett változásról, a nyilvántartott személynek az 5. § (3) bekezdésben meghatározott, illetve a természetes személyek adósságrendezési eljárásának kezdeményezésekor tett nyilatkozata alapján.
