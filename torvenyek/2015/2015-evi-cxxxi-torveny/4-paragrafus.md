@@ -1,0 +1,1 @@
+4. § A Kjt. 61. § (1) bekezdés e) pont ea) alpontjában a „felsőfokú szakképesítéshez” szövegrész helyébe a „felsőfokú szakképesítéshez, felsőoktatási szakképzésben szerzett szakképzettséghez” szöveg lép.
