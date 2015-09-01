@@ -4,7 +4,7 @@
 
 ## A végrehajtói szolgálat keletkezése
 
-232. § (1) Az önálló bírósági végrehajtót (e fejezetben a továbbiakban: végrehajtó) a miniszter nevezi ki határozatlan időre, meghatározott székhelyre és meghatározott járásbíróság mellé.
+232. § (1) Az önálló bírósági végrehajtót (e fejezetben a továbbiakban: végrehajtó) a miniszter nevezi ki hét évre, de legfeljebb a 65. életéve betöltésének napjáig, meghatározott székhelyre és meghatározott járásbíróság mellé.
 
 (2) Ugyanarra a székhelyre, illetőleg ugyanazon járásbíróság mellé több végrehajtót is ki lehet nevezni.
 

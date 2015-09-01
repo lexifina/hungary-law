@@ -10,4 +10,4 @@ a) a lakás céljára létesített és az ingatlan-nyilvántartásban lakóház 
 
 b) az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épületet, épületcsoportot és az azonos helyrajzi szám alatt hozzá tartozó föld együttesét.
 
-(5)
+(5) A 138/C. § alkalmazásában lakóingatlan az ingatlan-nyilvántartásban üdülő rendeltetési jelleggel nyilvántartott ingatlan, ha az ingatlan címe megegyezik az adós lakóhely igazolására szolgáló személyazonosító okmányában megjelölt címmel és lakóhelye a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben az ingatlanban volt.

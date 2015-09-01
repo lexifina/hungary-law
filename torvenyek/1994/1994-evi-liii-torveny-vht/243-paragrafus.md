@@ -1,7 +1,15 @@
 ## A végrehajtó helyettesítése
 
-243. § (1) A végrehajtó köteles bejelenteni az állandó helyettesét a kamarának; állandó helyettes bármely önálló bírósági végrehajtó lehet.
+243. § (1) A végrehajtót az általa foglalkoztatott, legalább egyéves végrehajtó-helyettesi gyakorlattal rendelkező végrehajtó-helyettes vagy az állandó helyettese helyettesítheti.
 
-(2) A kamara az állandó helyettes részére a helyettesítésre történő kirendelésről okiratot állít ki.
+(2) A végrehajtó a kinevezését követő 90 napon belül köteles bejelenteni az állandó helyettesét a Kar hivatali szervének, és azzal egyidejűleg be kell nyújtania az állandó helyettes helyettesítésre vonatkozó elfogadó nyilatkozatát.
 
-(3) Ha a végrehajtási ügy intézése során egyidejűleg több helyszínen is végrehajtási cselekményt kell foganatosítani, a végrehajtó és állandó helyettese, valamint a végrehajtó által foglalkoztatott végrehajtó-helyettes a különböző helyszíneken – ugyanabban a végrehajtási ügyben is – egyidejűleg eljárhat.
+(3) Ha a végrehajtónak több végrehajtó-helyettese van, ki kell jelölnie azt a helyettest, aki a helyettesítésre jogosult, és a kijelölést haladéktalanul be kell jelentenie a Kar hivatali szervének.
+
+(4) Állandó helyettes bármely végrehajtó lehet. Az állandó helyettes új állandó helyettes bejelentéséig köteles ellátni helyettesítési feladatait. A végrehajtó kettőnél több állandó helyettességet nem vállalhat.
+
+(5) A végrehajtó-helyettes a munkaviszonya fennállása alatt köteles ellátni helyettesítési feladatait.
+
+(6) A helyettesített végrehajtó által foglalkoztatott végrehajtó-helyettes a helyettesítés tartama alatt a helyettesítést ellátó állandó helyettes vagy végrehajtó-helyettes utasításait köteles teljesíteni.
+
+(7) Ha a végrehajtási ügy intézése során egyidejűleg több helyszínen is végrehajtási cselekményt kell foganatosítani, a végrehajtó és állandó helyettese, valamint a végrehajtó által foglalkoztatott végrehajtó-helyettes a különböző helyszíneken – ugyanabban a végrehajtási ügyben is – egyidejűleg eljárhat.

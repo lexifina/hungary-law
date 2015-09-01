@@ -4,11 +4,11 @@ a) magyar állampolgár,
 
 b)
 
-c) a 18. évét betöltötte,
+c)
 
 d) az országgyűlési képviselők választásán választható,
 
-e) középfokú iskolai végzettséggel rendelkezik,
+e) egyetemi jogi végzettséggel rendelkezik,
 
 f) egyéves végrehajtójelölti gyakorlatot szerzett,
 
@@ -22,7 +22,7 @@ h) önálló bírósági végrehajtóval vagy végrehajtói irodával végrehajt
 
 (4) A végrehajtó-helyettesek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtó-helyettes tekintetében a 233. § (2) bekezdés a)–d) pontjában foglalt körülmény vizsgálata során a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.
 
-(5) A kamara törli a végrehajtó-helyettest a végrehajtó-helyettesek névjegyzékéből, ha
+(5) A Kar hivatali szerve törli a végrehajtó-helyettest a végrehajtó-helyettesek névjegyzékéből, ha
 
 a) a végrehajtó-helyettesi munkakör betöltésére irányuló munkaviszonya megszűnt,
 
@@ -34,4 +34,4 @@ d) elhalálozott,
 
 e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtó-helyettesek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
 
-f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget kamarai felszólításra 30 napon belül nem szüntette meg.
+f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget Kar hivatali szerve felszólítására 30 napon belül nem szüntette meg.

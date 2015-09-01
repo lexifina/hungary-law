@@ -1,56 +1,56 @@
-250/A. § (1) A kamara a tagjairól az e §-ban foglaltak szerint vezet nyilvántartást. A nyilvántartás – a (2) bekezdés a), d–f) pontjában, a (3) bekezdés d), f), valamint a (4) bekezdés d) pontjában megjelölt adatok, továbbá a végrehajtó-helyettes és végrehajtójelölt alkalmazásának kezdő időpontjára és a munkavégzésből történő hosszabb időtartamú kiesésére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+250/A. § (1) A Kar a tagjairól és a végrehajtójelöltekről az e §-ban foglaltak szerint vezet nyilvántartást. A nyilvántartás – a (2) bekezdés 1. és 3–5. pontjában, a (3) bekezdés d) és e) pontjában, valamint a (4) bekezdés d) pontjában megjelölt adatok, továbbá a végrehajtó-helyettes és végrehajtójelölt alkalmazásának kezdő időpontjára és a munkavégzésből történő hosszabb időtartamú kiesésére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A végrehajtók névjegyzéke a következő adatokat tartalmazza:
 
-a) természetes személyazonosító adatok,
+1. természetes személyazonosító adatok,
 
-b)
+2. székhely, illetékességi terület,
 
-c) székhely, illetékességi terület,
+3. az iskolai végzettséget tanúsító okirat kiállítója, kelte,
 
-d) az iskolai végzettséget tanúsító okirat kiállítója, kelte, minősítése,
+4. a jogi szakvizsga letételéről szóló oklevél száma, kelte,
 
-e) a jogi szakvizsga letételéről szóló oklevél száma, kelte és a jogi szakvizsga eredménye,
+5. a végrehajtói szakvizsga-bizonyítvány kelte, száma,
 
-f) a végrehajtói szakvizsga-bizonyítvány kelte,
+6. a végrehajtói kinevezést megelőző szakmai gyakorlat adatai,
 
-g) az önálló bírósági végrehajtói kinevezést megelőző szakmai gyakorlat adatai,
+7. a kinevezés napja és időtartama,
 
-h) a kinevezés napja,
+8. az eskütétel napja,
 
-i) az eskütétel napja,
+9. a hivatalba lépés napja,
 
-j) a hivatalba lépés napja,
+10. a végrehajtó körbélyegzőinek lenyomata,
 
-k) a végrehajtó körbélyegzőinek lenyomata,
+11. a végrehajtó állandó helyettese,
 
-l) a végrehajtó állandó helyettese,
+12. a végrehajtó által alkalmazott végrehajtó-helyettes, végrehajtójelölt,
 
-m) a végrehajtó részére kirendelt tartós helyettes,
+13. a végrehajtó helyettesítésére kijelölt végrehajtó-helyettes,
 
-n) a végrehajtó által alkalmazott végrehajtó-helyettes, végrehajtójelölt,
+14. az áthelyezés napja,
 
-o) az áthelyezés napja,
+15. a végrehajtói szolgálat megszűnésének napja, oka,
 
-p) az önálló bírósági végrehajtói szolgálat megszűnésének napja, oka,
+16. a szolgálat megszűnése esetén a végrehajtói iratok átadásának vagy irattárba helyezésének napja,
 
-q) a szolgálat megszűnése esetén a végrehajtói iratok átadásának vagy irattárba helyezésének napja,
+17. a végrehajtó ügyvitelének, hivatali működésének és magatartásának vizsgálati időpontja,
 
-r) a hivatalvizsgálatok időpontja,
+18. fegyelmi büntetések,
 
-s) fegyelmi büntetések,
+19. a végrehajtó ellen indult panaszügyek,
 
-t) a végrehajtói letéti számla (számlák) száma, a számlát vezető hitelintézet neve,
+20. a végrehajtó vállalkozói és letéti számlájának száma, a letéti számla feletti rendelkezésre jogosult neve, a számlát vezető hitelintézet neve,
 
-u) a végrehajtó irodájának és kézbesítési irodájának címe,
+21. a végrehajtó irodájának és kézbesítési irodájának címe,
 
-v) a végrehajtó kamarai azonosító száma,
+22. a végrehajtó azonosító száma,
 
-w) a végrehajtó hivatali elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát.
+23. a végrehajtó hivatali elektronikus aláírás-tanúsítványa érvényességének kezdete és lejárta.
 
 (3) A végrehajtó-helyettesek névjegyzéke a következő adatokat tartalmazza:
 
-a) a (2) bekezdés a), b) és d)–f) pontjaiban foglalt adatok,
+a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok,
 
 b) a névjegyzékbe vétel és az abból történő törlés időpontja,
 
@@ -58,13 +58,11 @@ c) a végrehajtó-helyettest alkalmazó végrehajtó neve és székhelye, a vég
 
 d) az alkalmazás (munkaviszony) megszűnésének napja és módja,
 
-e) fegyelmi büntetések,
-
-f) a végrehajtó-helyettes hivatali elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát.
+e) a végrehajtó-helyettes hivatali elektronikus aláírás tanúsítványa érvényességének kezdete és lejárta.
 
 (4) A végrehajtójelöltek névjegyzéke a következő adatokat tartalmazza:
 
-a) a (2) bekezdés a), b), d) és e) pontjaiban foglalt adatok,
+a) a (2) bekezdés 1., 3–4. pontjában foglalt adatok,
 
 b) a névjegyzékbe vétel és az abból történő törlés napja,
 
@@ -72,22 +70,20 @@ c) a végrehajtójelöltet alkalmazó végrehajtó neve és székhelye, a végre
 
 d) az alkalmazás (munkaviszony) megszűnésének napja és módja,
 
-e) a végrehajtói kézbesítési vizsga letételének időpontja, a végrehajtói kézbesítésre felhatalmazott végrehajtójelöltek névjegyzékébe vétel és az abból történő törlés időpontja,
+e) a végrehajtói kézbesítési vizsga letételének időpontja, a végrehajtói kézbesítésre felhatalmazott végrehajtójelöltek névjegyzékébe vétel és az abból történő törlés időpontja.
 
-f) fegyelmi büntetések.
-
-(5) A végrehajtók helyettesítésére kirendelt tartós helyettesek névjegyzéke a következő adatokat tartalmazza:
+(5) A helyettesek névjegyzéke a következő adatokat tartalmazza:
 
 a) természetes személyazonosító adatok,
 
-b) – saját iroda működtetésével ellátott helyettesítés esetén – a végrehajtói letéti számla száma, a számlát vezető hitelintézet neve, valamint a tartós helyettes irodájának és kézbesítési irodájának címe, több tartós helyettes kirendelése esetén a tartós helyettesre vonatkozó ügyelosztási szabályok,
+b)
 
 c) a helyettesített végrehajtó neve, székhelye, illetékességi területe,
 
 d) a helyettesítés kezdő és befejező napja.
 
-(6) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt a kamarai névjegyzékben szereplő adatainak megváltozásáról köteles a kamarát a változástól számított 15 napon belül tájékoztatni.
+(6) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt a Kar által vezetett névjegyzékben szereplő adatainak megváltozásáról köteles a kamarát a változástól számított 15 napon belül tájékoztatni.
 
-(7) A névjegyzékből történő törlést követően az e §-ban megjelölt személyek adatait a kamara 50 évig köteles megőrizni.
+(7) A névjegyzékből történő törlést követően az e §-ban megjelölt személyek adatait a Kar 50 évig köteles megőrizni.
 
-(8) A kamara a szervezeti és működési szabályzatában kimondhatja, hogy az e §-ban szabályozott névjegyzékekben egyéb, személyes adatnak nem minősülő adatokat is nyilván kell tartani.
+(8) A Kar a szervezeti és működési szabályzatában kimondhatja, hogy az e §-ban szabályozott névjegyzékekben egyéb, személyes adatnak nem minősülő adatokat is nyilván kell tartani.

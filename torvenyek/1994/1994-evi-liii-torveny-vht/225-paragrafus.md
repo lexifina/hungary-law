@@ -24,7 +24,7 @@ e) a végrehajtójelölt (e fejezetben a továbbiakban együtt: végrehajtó).
 
 (3) Ha az adós ellen az önálló bírósági, valamint a törvényszéki végrehajtó hatáskörébe tartozó eljárás is folyamatban van, az eljárást az a végrehajtó folytatja, akinek a hatáskörébe tartozik a korábban elrendelt végrehajtás.
 
-(4) Az önálló bírósági végrehajtó közös irodában (242. §) és végrehajtói iroda keretében (254/A.–254/C. §) is folytathatja tevékenységét.
+(4)
 
 (5) Az önálló bírósági végrehajtó ellátja a számára külön jogszabályban megállapított feladatokat is.
 

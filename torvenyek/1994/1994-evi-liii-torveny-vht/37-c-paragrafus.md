@@ -8,7 +8,7 @@ b) a címzett számára elektronikus tértivevényt állít ki a jogszabályban 
 
 (3) A kézbesítési rendszer az irat átvételének tényéről elektronikus okirati formában a feladó számára az átvételt tanúsító, elektronikus tértivevényt állít ki a jogszabályban meghatározott tartalommal és megküldi a feladó elektronikus levélcímére.
 
-(4) A kamara a kézbesítési rendszer működtetése során
+(4) A Kar hivatali szerve a kézbesítési rendszer működtetése során
 
 a) a kézbesítési rendszerben kézbesítendő és kézbesített elektronikus iratoknak,
 
@@ -26,4 +26,4 @@ elkülönített elhelyezésére szolgáló tárhely fenntartásával biztosítja
 
 (8) A végrehajtó az elektronikusan kézbesítendő, de papír alapon rendelkezésre álló iratok másolatát hivatalos elektronikus irattá alakítja és intézkedik azok a kézbesítési rendszeren keresztül történő elektronikus kézbesítéséről; illetve a papír alapon kézbesítendő, de elektronikusan rendelkezésre álló iratok másolatát a kézbesítési rendszerből a végrehajtó egyedileg nyomtatja ki és intézkedik azok papír alapú kézbesítéséről.
 
-(9) A kézbesítési rendszer üzemeltetési költségei a kamarát terhelik, a felhasználók számára annak használata ingyenes.
+(9) A kézbesítési rendszer üzemeltetési költségei a Kart terhelik, a felhasználók számára annak használata ingyenes.

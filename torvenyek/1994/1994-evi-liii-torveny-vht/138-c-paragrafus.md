@@ -1,0 +1,1 @@
+138/C. § Lakóingatlan lefoglalásának tényét a végrehajtást kérő, a végrehajtási jog bejegyzéséről szóló határozat részére történt kézbesítése után, köteles bejelenteni az ingatlan fekvése szerint illetékes jegyzőnek, aki a bejelentésről 8 napon belül igazolást állít ki. Az igazolást a végrehajtást kérő köteles megküldeni a végrehajtónak.

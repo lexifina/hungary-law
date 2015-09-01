@@ -1,6 +1,6 @@
 ## Az ingatlan értékesítésének időpontja
 
-139. § (1) A végrehajtó a lefoglalt ingatlan értékesítése iránt a végrehajtást kérő kérelmére akkor intézkedhet, ha a 7. § (2) bekezdése szerint a követelés viszonylag rövidebb időn belüli behajtása másképpen nem lehetséges, és a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 45 nap eltelt.
+139. § (1) A végrehajtó a lefoglalt ingatlan értékesítése iránt a végrehajtást kérő kérelmére akkor intézkedhet, ha a 7. § (2) bekezdése szerint a követelés viszonylag rövidebb időn belüli behajtása másképpen nem lehetséges, és a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 45 nap vagy a 138/C. § szerinti – a jegyző által igazolt – bejelentéstől számított 60 nap eltelt.
 
 (2) Ha a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 8 napon belül igénypert indítottak, az igényelt ingatlan értékesítése iránt az igényper jogerős befejezése után lehet intézkedni.
 

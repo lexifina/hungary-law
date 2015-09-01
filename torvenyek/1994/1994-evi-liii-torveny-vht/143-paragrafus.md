@@ -22,4 +22,4 @@ j) 10 millió Ft-ot meg nem haladó becsérték esetén a becsérték 2%-ának m
 
 k) tájékoztatást arról, hogy az árverezőkre vonatkozó törvényi rendelkezésekről, az elektronikus ajánlattétel feltételeiről és határidejének lejártáról, a vételár megfizetéséről, második árverés tartásáról szóló tájékoztatás az elektronikus árverési hirdetmények nyilvántartásában érhető el.
 
-(2) A kamara az (1) bekezdés k) pontjában foglaltakról szóló általános tájékoztatást folyamatosan közzéteszi az elektronikus árverési hirdetmények nyilvántartásában.
+(2) A Kar hivatali szerve az (1) bekezdés k) pontjában foglaltakról szóló általános tájékoztatást folyamatosan közzéteszi az elektronikus árverési hirdetmények nyilvántartásában.

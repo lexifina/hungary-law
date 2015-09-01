@@ -2,6 +2,6 @@
 
 (2) A bizonyítási eljárás során a fegyelmi tanács tanút és szakértőt hallgathat meg, okiratot ismertethet, és bármilyen bizonyítási eszközt felhasználhat. A kérdezés joga a fegyelmi tanács minden tagját megilleti.
 
-(3) Az eljárás alá vont személy és képviselője, valamint a miniszternek és a kamarának a képviselője a bizonyítékokra nyilatkozatot tehet, az eljárás alá vont személyhez, a tanúhoz, a szakértőhöz és a vizsgálóbiztoshoz kérdést intézhet.
+(3) Az eljárás alá vont személy és képviselője, valamint a miniszternek és a Kar hivatali szervének a képviselője a bizonyítékokra nyilatkozatot tehet, az eljárás alá vont személyhez, a tanúhoz, a szakértőhöz és a vizsgálóbiztoshoz kérdést intézhet.
 
-(4) A bizonyítási eljárás befejezése után sorrendben a miniszternek és a kamarának a képviselője, az eljárás alá vont személy és a képviselője kap szót; legvégül az eljárás alá vont személy nyilatkozhat.
+(4) A bizonyítási eljárás befejezése után sorrendben a miniszternek és a Kar hivatali szervének a képviselője, az eljárás alá vont személy és a képviselője kap szót; legvégül az eljárás alá vont személy nyilatkozhat.

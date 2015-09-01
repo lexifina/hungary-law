@@ -1,8 +1,8 @@
-253/F. § (1) A kamara a felhasználók számára az interneten közzéteszi az elektronikus árverési rendszer működésének és árverezőként történő igénybevételének a miniszter rendeletében meghatározott technikai feltételeit (felhasználási szabályzat). A felhasználási szabályzatot a miniszter hagyja jóvá.
+253/F. § (1) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi az elektronikus árverési rendszer működésének és árverezőként történő igénybevételének a miniszter rendeletében meghatározott technikai feltételeit (felhasználási szabályzat). A felhasználási szabályzatot a miniszter hagyja jóvá.
 
-(2) A kamara köteles gondoskodni az elektronikus árverési rendszerben kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg sérülésük vagy megsemmisülésük elleni védelméről.
+(2) A Kar hivatali szerve köteles gondoskodni az elektronikus árverési rendszerben kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg sérülésük vagy megsemmisülésük elleni védelméről.
 
-(3) A kamara naplót készít
+(3) A Kar hivatali szerve naplót készít
 
 a) az elektronikus árverési rendszer üzemben tartási idejéről,
 

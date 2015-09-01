@@ -6,6 +6,6 @@ b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az id
 
 c) a 233. § (2) bekezdés b)–d) vagy i) pontjában meghatározott körülmény bekövetkezését megállapító bírósági vagy gyámhatósági határozat jogerőre emelkedésének napjától kezdődően,
 
-d) a tartós helyettesítés egyéves időtartama lejártát követő naptól, ha nem kerül sor a tartós helyettesítés meghosszabbítására [245. § (1) bekezdés c) pont, 245. § (5) bekezdés],
+d)
 
 e) a 238. §-ban meghatározott eskütételt megelőzően.

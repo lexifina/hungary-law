@@ -1,15 +1,25 @@
-251. § (1) A kamara szervei:
+251. § (1) A Kar szervei:
 
-a) a közgyűlés, amely minden kamarai tagot magában foglal,
+a) a közgyűlés, amely a Kar minden tagját magában foglalja,
 
-b) a választmány, amely az elnökség tagjaiból, továbbá a főváros és a megyék egy-egy küldöttjéből áll,
+b) az öttagú elnökség,
 
-c) a héttagú elnökség,
+c) a Kar hivatali szerve.
 
-d) a számvizsgáló bizottság, amely elnökből és két tagból áll.
+(2) A Kar egyetemi jogi végzettséggel rendelkező végrehajtó tagja az elnökség tagjává és elnökévé megválasztható, kivéve, ha a 267. § (1) bekezdés d) vagy e) pontja szerinti fegyelmi büntetés hatálya alatt áll.
 
-(2) A kamara végrehajtó tagjai a kamara szerveiben tisztséget viselhetnek, azok elnökévé vagy tagjává megválaszthatók, kivéve, ha a 267. § (1) bekezdésének d) vagy e) pontja szerinti fegyelmi büntetés hatálya alatt állnak.
+(3) A Kar a munkájának elősegítésére szakmai bizottságokat hozhat létre.
 
-(3) Az elnökség a tagjai közül megválasztja a kamara elnökét és ügyvezető alelnökét, valamint az elnökségi titkárt. A számvizsgáló bizottság a tagjai közül választja meg az elnökét. A kamara elnökének megválasztását a miniszternek jóvá kell hagynia.
+(4) A Kar tagja jogosult:
 
-(4) A kamara a munkájának elősegítésére további tisztségeket és bizottságokat hozhat létre, hivatalt tarthat fenn, és ügyintézőket alkalmazhat.
+a) a Kar által létrehozott szakmai bizottságokban részt venni;
+
+b) a Kar hivatali szerve által nyújtott szolgáltatásokat igénybe venni;
+
+c) a szakmai képzéseken oktatónak jelentkezni;
+
+d) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatásába bevonható végrehajtónak, végrehajtó-helyettesnek jelentkezni.
+
+(5) A Kar végrehajtó tagja jogosult vizsgálóbiztosnak jelentkezni.
+
+(6) Az elnökség a tagjai közül megválasztja a Kar elnökét és alelnökét.

@@ -1,49 +1,39 @@
-231. § (1) A miniszter a kamara felügyeletének ellátására, továbbá a kamara hatékony működésének elősegítésére miniszteri biztost nevezhet ki. A miniszteri biztos az e törvényben meghatározottak szerint gyakorolja a (2)–(4) bekezdésben foglalt azon kamarai jogosítványokat, melyeket a kinevezéséről szóló utasítás a feladatkörébe utal. A miniszteri biztos a kamara jogosítványait akként gyakorolhatja, ahogyan azt a jogszabály a kamara részére előírja. Miniszteri biztos kinevezése esetén a kamara bármely pénzügyi kötelezettségvállalásához, a szerződések teljesítésének elfogadásához és a kifizetésekhez a miniszteri biztos jóváhagyására van szükség, és kizárólag ő gyakorolja a kamarai alkalmazottak feletti munkáltatói jogokat.
+231. § (1) A miniszter a Kar felügyeletének ellátására, továbbá a Kar hatékony működésének elősegítésére miniszteri biztost nevezhet ki. A miniszteri biztos az e törvényben meghatározottak szerint gyakorolja a (2)–(3) bekezdésben foglalt azon jogosítványokat, amelyeket a kinevezés a feladatkörébe utal. A miniszteri biztos a Kar jogosítványait akként gyakorolhatja, ahogyan azt a jogszabály a Kar részére előírja. Miniszteri biztos kinevezése esetén a Kar bármely pénzügyi kötelezettségvállalásához, a szerződések teljesítésének elfogadásához és a kifizetésekhez a miniszteri biztos jóváhagyására van szükség, és kizárólag ő gyakorolja a Kar alkalmazottai feletti munkáltatói jogokat.
 
 (2) A miniszteri biztos
 
-a) részt vehet a kamara közgyűlésén és a kamara más szerveinek ülésén,
+a) részt vehet a Kar szerveinek ülésén,
 
-b) tájékoztatást kérhet a kamarai szervektől és azok tisztségviselőitől,
+b) tájékoztatást kérhet a Kar szerveitől és azok tisztségviselőitől,
 
-c) megismerheti a kamara és szervei által kezelt valamennyi adatot,
+c) megismerheti a Kar és szervei által kezelt valamennyi adatot,
 
-d) megtekintheti a kamara és szervei bármely iratát,
+d) megtekintheti a Kar és szervei bármely iratát,
 
-e) beléphet a kamara és szervei által használt bármely helyiségbe,
+e) beléphet a Kar és szervei által használt bármely helyiségbe,
 
-f) elrendelheti a kamara gazdálkodásának és informatikai rendszereinek vizsgálatát,
+f) felügyeli a Kar ügyintézési és ügyviteli tevékenységét,
 
-g) rendkívüli közgyűlést hívhat össze.
+g) elrendelheti a Kar gazdálkodásának és informatikai rendszereinek vizsgálatát,
+
+h) rendkívüli közgyűlést hívhat össze.
 
 (3) A miniszteri biztos a kinevezésében foglaltaktól függően
 
-a) tájékoztatást nyújt a sajtó, a rádió és a televízió részére a végrehajtási ügyekről,
+a) tájékoztatást nyújt a sajtó, a rádió és a televízió részére a végrehajtási ügyekről és a Kar ügyeiről,
 
-b) elrendelheti a végrehajtó összeférhetetlenségének ellenőrzését, és a kamara által lefolytatott ellenőrzés eredményétől függően az összeférhetetlenség fennállását bejelenti a miniszter felé,
+b) elrendelheti a végrehajtó összeférhetetlenségének ellenőrzését, és a Kar által lefolytatott ellenőrzés eredményétől függően az összeférhetetlenség fennállását bejelenti a miniszter felé,
 
 c) elrendelheti a 226/A. §-ban foglaltak betartásának ellenőrzését,
 
-d)–e)
+d) iránymutatás kiadását kezdeményezheti,
 
-f) dönt a tartós helyettes kirendeléséről, valamint a tartós helyettesi kirendelés megszüntetéséről,
+e) jóváhagyja az ugyanazon járásbíróság mellett működő végrehajtók esetében a végrehajtási ügyek elosztásának rendjét, és az ügyek elosztásának rendje év közbeni megváltoztatását,
 
-g) engedélyezi a végrehajtók közös irodájának létesítését és a végrehajtói iroda alapítását,
+f) javaslatot tesz a miniszternek végrehajtói álláshely létesítésére és megszüntetésére,
 
-h) iránymutatás kiadását kezdeményezheti,
+g) felterjesztés előtt jóváhagyja a végrehajtói kinevezési javaslatot.
 
-i) jóváhagyja az ugyanazon járásbíróság mellett működő végrehajtók esetében a végrehajtási ügyek elosztásának rendjét, és jóváhagyja az ügyek elosztásának rendje év közbeni megváltoztatását,
+(4) A miniszteri biztos által gyakorolt jogkörök vonatkozásában a Kar jogosítványai szünetelnek.
 
-j) a végrehajtói állásra az állás létesítésétől (megüresedésétől) számított 3 hónapon belül pályázatot ír ki,
-
-k) a kamarai felterjesztés előtt jóváhagyja a végrehajtói kinevezési javaslatot.
-
-(4) A miniszteri biztos által gyakorolt jogkörök vonatkozásában a kamarai jogosítványok szünetelnek.
-
-(5) A miniszteri biztos felügyeli
-
-a)–b)
-
-c) a kamara ügyintézési és ügyviteli tevékenységét [253/B. § (3) bekezdés].
-
-(6) A miniszteri biztos a tevékenységéről havonta beszámol a miniszternek.
+(5) A miniszteri biztos a tevékenységéről negyedévente beszámol a miniszternek.

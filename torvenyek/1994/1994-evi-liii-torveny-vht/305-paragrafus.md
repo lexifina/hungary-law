@@ -8,7 +8,7 @@
 
 (5) A végrehajtási kifogás előterjesztésére és elbírálására vonatkozó, a módosító törvénnyel megállapított rendelkezéseket a módosító törvény hatálybalépését követően megtett (elmulasztott) végrehajtói intézkedés ellen előterjesztett végrehajtási kifogás esetében kell alkalmazni. A bírósági végrehajtó a fél vagy más érdekelt részére a módosító törvény hatálybalépését követően első alkalommal kézbesítendő iratban feltünteti a módosító törvénnyel megállapított, a végrehajtási kifogás előterjesztésére és elbírálására vonatkozó rendelkezésekről szóló tájékoztatást.
 
-(6) A végrehajtási ügyek nyilvántartása a 2013. augusztus 1-jét követően érkezett végrehajtási ügyek nyilvántartott adatainak fennállását tanúsítja hitelesen, a 2013. augusztus 1-jét megelőzően érkezett végrehajtási ügyek nyilvántartott adatai tekintetében a kamara által kiállított tanúsítvány tájékoztatást tartalmaz a végrehajtási ügyekről vezetett nyilvántartás adatairól; az erről szóló tájékoztatást a tanúsítvány tartalmazza.
+(6) A végrehajtási ügyek nyilvántartása a 2013. augusztus 1-jét követően érkezett végrehajtási ügyek nyilvántartott adatainak fennállását tanúsítja hitelesen, a 2013. augusztus 1-jét megelőzően érkezett végrehajtási ügyek nyilvántartott adatai tekintetében a Kar által kiállított tanúsítvány tájékoztatást tartalmaz a végrehajtási ügyekről vezetett nyilvántartás adatairól; az erről szóló tájékoztatást a tanúsítvány tartalmazza.
 
 (7) Az elektronikus kapcsolattartásra köteles felek 2012. augusztus 30-áig kötelesek bejelenteni a 35/D. § (1) bekezdésében foglalt adataikat a bírósági végrehajtónak, és bemutatni az adatok igazolására szolgáló iratokat.
 

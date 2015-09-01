@@ -8,7 +8,7 @@ c) végrehajtó-helyettes és végrehajtójelölt esetén a foglalkoztató végr
 
 d) végrehajtói iroda tagja esetén az iroda másik végrehajtó tagja.
 
-(2) A fegyelmi eljárásban részt vevő kamarát a szervezeti és működési szabályzatában megjelölt tagja, alkalmazottja, illetve ügyvéd képviselheti.
+(2) A fegyelmi eljárásban részt vevő Kart a Kar hivatali szervének vezetője, az általa kijelölt jelölt alkalmazottja, illetve ügyvéd képviselheti.
 
 (3) A fegyelmi eljárást az eljárás minden szakaszában a nyilvánosság kizárásával kell lefolytatni.
 

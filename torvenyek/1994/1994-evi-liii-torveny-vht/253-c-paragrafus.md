@@ -1,3 +1,9 @@
-253/C. § (1) A kamara szervezeti és működési szabályzatot készít, amelyben – e törvény keretei között – megállapítja a saját szervezetének, működési rendjének és gazdálkodásának, továbbá a 250. §-ban foglalt feladatok ellátásának részletes szabályait.
+253/C. § (1) A Kar hivatali szervének vezetője az elnökség bevonásával szervezeti és működési szabályzatot készít, amely – e törvény keretei között – tartalmazza a Kar szervezetének, működési rendjének és gazdálkodásának, továbbá a Kar feladatai ellátásának részletes szabályait.
 
-(2) A kamara a szervezeti és működési szabályzatát, valamint iránymutatását a meghozatalától számított 30 napon belül köteles jóváhagyás végett bemutatni a miniszternek.
+(2) A szervezeti és működési szabályzatot, valamint az iránymutatást a meghozatalától számított 15 napon belül jóváhagyás végett be kell mutatni a miniszternek. A miniszter a szervezeti és működési szabályzat, illetve az iránymutatás megküldésétől számított 30 napon belül kifogással élhet a szervezeti és működési szabályzat, illetve iránymutatás azon rendelkezésével szemben, amely – elfogadása esetén – a 253/D. § alapján törvényességi felügyeleti intézkedést indokolna.
+
+(3) Az etikai szabályzat jóváhagyására a Kar szervezeti és működési szabályzatának jóváhagyására vonatkozó szabályokat kell alkalmazni.
+
+(4) A Kar elnöksége maga határozza meg az ügyrendjét.
+
+(5) A Kar hivatali szerve internetes honlapot tart fenn, ahol közzéteszi a szervezeti és működési szabályzatot, az elnökség ügyrendjét, az etikai szabályzatot és az iránymutatásokat.

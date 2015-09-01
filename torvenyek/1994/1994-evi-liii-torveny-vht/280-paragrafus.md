@@ -1,6 +1,6 @@
 ## Az elsőfokú fegyelmi tanács eljárása
 
-280. § A fegyelmi tanács a vizsgálóbiztos jelentését figyelembe véve, a jelentés beérkezését követő 30 napon belül a következőképpen intézkedik:
+280. § A fegyelmi tanács a vizsgálóbiztos jelentését figyelembe véve, a jelentés, annak kiegészítése esetén a kiegészített jelentés beérkezését követő 30 napon belül a következőképpen intézkedik:
 
 a) a vizsgálat kiegészítését rendeli el, és az iratokat visszaadja a vizsgálóbiztosnak,
 

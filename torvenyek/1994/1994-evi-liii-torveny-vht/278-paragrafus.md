@@ -1,9 +1,9 @@
 ## A fegyelmi eljárás megindítása
 
-278. § (1) Fegyelmi vétség alapos gyanúja esetén a miniszter, az Igazságügyi Hivatal főigazgatója, a törvényszék elnöke vagy a kamara elnöke feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
+278. § (1) Fegyelmi vétség alapos gyanúja esetén a miniszter, az Igazságügyi Hivatal főigazgatója, a törvényszék elnöke vagy a Kar hivatali szervének vezetője feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
 
-(2) A fegyelmi tanács a feljelentésnek a fegyelmi bíróság elnökéhez való érkezésétől számított 30 napon belül határozattal dönt arról, hogy a fegyelmi eljárást megindítja-e.
+(2)
 
-(3) A fegyelmi eljárást megindító határozatban a fegyelmi tanács – a (4) bekezdésben foglalt eset kivételével – vizsgálatot rendel el, és ennek a lefolytatására vizsgálóbiztost rendel ki.
+(3) A fegyelmi tanács a feljelentésnek a fegyelmi bíróság elnökéhez való érkezésétől számított 30 napon belül – a (4) bekezdésben foglalt kivétellel – határozattal elrendeli a vizsgálatot és annak lefolytatására vizsgálóbiztost rendel ki.
 
-(4) Egyszerű ügyben a fegyelmi tanács — vizsgálóbiztos kirendelése nélkül — azonnal tárgyalást tűz ki, vagy fegyelmi intézkedést hoz (291. §). A tárgyalást 30 napon belüli időpontra kell kitűzni.
+(4) Egyszerű ügyben a fegyelmi tanács — vizsgálóbiztos kirendelése nélkül — azonnal tárgyalást tűz ki, vagy 30 napon belül fegyelmi intézkedést hoz (291. §). A tárgyalást 30 napon belüli időpontra kell kitűzni.

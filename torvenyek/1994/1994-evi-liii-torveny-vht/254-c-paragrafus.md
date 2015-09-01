@@ -4,7 +4,7 @@
 
 a) a végrehajtói iroda nevét és székhelyét,
 
-b) a végrehajtói iroda tagjait nevük (cégnevük) és lakóhelyük (székhelyük) feltüntetésével; a végrehajtó tag esetében nevét, szolgálati helyét (annak a járásbíróságnak a megnevezését, amelyre kinevezték), hivatali helyiségének címét, illetékességi területének kiterjesztését és terjedelmét,
+b) a tagok nevét, szolgálati helyét (annak a járásbíróságnak a megnevezését, amelyre kinevezték), hivatali helyiségének címét, illetékességi területének kiterjesztését és terjedelmét,
 
 c) az irodavezető végrehajtó nevét és hivatali helyiségének címét, több irodavezető esetén az irodavezetés és képviselet szabályait,
 

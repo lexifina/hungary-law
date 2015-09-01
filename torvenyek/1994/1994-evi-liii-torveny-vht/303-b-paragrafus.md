@@ -15,3 +15,5 @@ bb) a munkahelyteremtés, munkaerő-megtartás és helyben maradás elősegíté
 (4) Ha az (1) bekezdés szerinti végrehajtási eljárásban a lakóingatlan nem a végrehajtást kérő tulajdonába kerül, akkor a végrehajtási eljárásban a továbbiakban a 2014. évi XXXVIII. törvény 17. §-ában foglalt szabályok szerint kell eljárni.
 
 (5) Az e §-ban foglalt szabályokat a 303. § (9) bekezdése szerinti devizakölcsön szerződések esetében kell alkalmazni.
+
+(6) E törvénynek a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvénnyel megállapított rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
