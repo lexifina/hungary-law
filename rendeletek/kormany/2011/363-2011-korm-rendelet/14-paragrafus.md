@@ -1,4 +1,4 @@
-## 13. §[^24] A közszolgálati ösztöndíjas, illetve önköltséges (költségtérítéses) képzési forma közötti átsorolásról szóló döntést a tanév végén a képzési időszak lezárását követően, de legkésőbb a következő képzési időszak kezdetét megelőző 40 nappal kell meghozni.
+## 13. §[^29] A közszolgálati ösztöndíjas, illetve önköltséges (költségtérítéses) képzési forma közötti átsorolásról szóló döntést a tanév végén a képzési időszak lezárását követően, de legkésőbb a következő képzési időszak kezdetét megelőző 40 nappal kell meghozni.
 
 ## 1. A fenntartók által működtetett kollégiumok, szállók alapszolgáltatásai, a kérhető térítési díj legmagasabb összege, a kollégium komfortfokozat szerinti osztályba sorolásának feltételei
 
@@ -18,4 +18,4 @@ d) IV. komfortfokozatú az a kollégiumi férőhely, amennyiben szobánként vag
 
 (4) A (3) bekezdés d) pontja alkalmazása során felújítás minden olyan ráfordítás, amely a kollégium komfort fokozatának megváltoztatását eredményezi, kivéve az állagmegőrzését célzó ráfordítást.
 
-[^24]: A 13. § a 205/2015. (VII. 23.) Korm. rendelet 10. § j) pontja szerint módosított szöveg.
+[^29]: A 13. § a 205/2015. (VII. 23.) Korm. rendelet 10. § j) pontja szerint módosított szöveg.

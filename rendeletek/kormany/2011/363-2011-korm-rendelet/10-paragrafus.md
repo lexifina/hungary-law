@@ -1,8 +1,8 @@
-10. § (1)[^19] A hallgató a vagyoni viszonyaira, jövedelmi helyzetére, tanulmányi eredményére tekintettel – az Egyetem térítési és juttatási szabályzatában meghatározottak szerint – fizetési kötelezettségeinek teljesítéséhez mentesség, részletfizetési lehetőség vagy halasztás iránti kérelmet nyújthat be.
+10. § (1)[^24] A hallgató a vagyoni viszonyaira, jövedelmi helyzetére, tanulmányi eredményére tekintettel – az Egyetem térítési és juttatási szabályzatában meghatározottak szerint – fizetési kötelezettségeinek teljesítéséhez mentesség, részletfizetési lehetőség vagy halasztás iránti kérelmet nyújthat be.
 
 (2) Nem adható mentesség, részletfizetési kedvezmény vagy halasztott fizetési lehetőség az Egyetem térítési és juttatási szabályzatában meghatározott szankciós befizetések alól, továbbá a közösségi célú tevékenységben való részvétel alapján.
 
-(3)[^20]
+(3)[^25]
 
-[^19]: A 10. § (1) bekezdése a 205/2015. (VII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^20]: A 10. § (3) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
+[^24]: A 10. § (1) bekezdése a 205/2015. (VII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^25]: A 10. § (3) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.

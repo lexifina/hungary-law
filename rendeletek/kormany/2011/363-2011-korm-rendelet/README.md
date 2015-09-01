@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-363-20-
 | 2014-09-05 | 2011-363-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-07-01 | 2011-363-20-22.8 | 157/2015. (VI. 25.) Korm. rendelet |
 | 2015-07-31 | 2011-363-20-22.9 | 205/2015. (VII. 23.) Korm. rendelet |
+| 2015-09-01 | 2011-363-20-22.10 | 205/2015. (VII. 23.) Korm. rendelet |

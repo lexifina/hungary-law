@@ -6,6 +6,6 @@ b) az Egyetem által térítésmentesen biztosított szolgáltatásokat.
 
 (2) A hallgatói juttatások számításának szabályait az FT határozza meg.
 
-(3)[^18]
+(3)[^23]
 
-[^18]: A 9. § (3) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^23]: A 9. § (3) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.

@@ -1,3 +1,5 @@
+## 6/B. §[^15] A képzési jegyzékbe felvett szak indítására – az NKE törvényben meghatározott eltéréssel – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendeletet kell alkalmazni.
+
 ## IV. Fejezet
 
 ## AZ EGYETEM HALLGATÓINAK JUTTATÁSAIVAL ÉS AZ ÁLTALUK FIZETENDŐ EGYES TÉRÍTÉSEKKEL KAPCSOLATOS SZABÁLYOK
@@ -14,6 +16,7 @@
 
 5. saját bevétel: az NKE törvény 37. §-a szerinti térítési díj, továbbá az intézményi szabályzatban meghatározott szolgáltatási díj, valamint az Egyetem vállalkozási tevékenységének eredménye, gazdasági társaságtól kapott támogatásból származó bevétele, továbbá a pályázat útján kifejezetten ösztöndíj fizetésére kapott támogatás;
 
-6.[^11]
+6.[^16]
 
-[^11]: A 7. § 6. pontját a 205/2015. (VII. 23.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^15]: A 6/B. §-t a 205/2015. (VII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^16]: A 7. § 6. pontját a 205/2015. (VII. 23.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
