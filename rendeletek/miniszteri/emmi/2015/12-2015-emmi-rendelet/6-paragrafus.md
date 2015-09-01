@@ -1,4 +1,4 @@
-## 5. §[^5]
+## 5. § Hatályát veszti a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet 52. §-a és az azt megelőző alcíme.
 
 ## 6. Záró rendelkezések
 
@@ -7,5 +7,3 @@
 (2) Az 1. § 2015. június 4-én lép hatályba.
 
 (3) Az 5. § 2015. szeptember 1-jén lép hatályba.
-
-[^5]: Az 5. § a 6. § (3) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
