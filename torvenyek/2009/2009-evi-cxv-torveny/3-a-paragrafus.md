@@ -6,7 +6,7 @@ a) vezeti az egyéni vállalkozók nyilvántartását,
 
 b) működteti a nyilvántartási és ügyviteli feladatokat szolgáló informatikai rendszert,
 
-c) a 11. § (3) bekezdése szerint hatósági ellenőrzést végez, valamint
+c) a 19/B. § szerint hatósági ellenőrzést végez, valamint
 
 d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
@@ -20,6 +20,6 @@ c) tájékoztatást nyújt az egyéni vállalkozói tevékenység folytatásáho
 
 d) ellátja az egyéni vállalkozói igazolvány kiállításával és nyilvántartásával kapcsolatos feladatokat,
 
-e) az egyéni vállalkozó székhelye szerinti illetékességgel – ellenőrzési terv alapján – hatósági ellenőrzést folytat, valamint
+e) az egyéni vállalkozó székhelye szerinti illetékességgel hatósági ellenőrzést folytat, valamint
 
 f) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.

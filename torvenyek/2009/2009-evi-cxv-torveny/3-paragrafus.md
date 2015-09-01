@@ -10,7 +10,7 @@ d) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 (2) Nem lehet egyéni vállalkozó:
 
-a) aki korlátozottan cselekvőképes vagy cselekvőképtelen,
+a) kiskorú személy, valamint aki cselekvőképességet érintő gondnokság alatt áll,
 
 b) akit
 
@@ -23,3 +23,5 @@ miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elít�
 c) akit szándékos bűncselekmény miatt jogerősen egy évet meghaladó, végrehajtandó szabadságvesztére ítéltek, amíg az elítéléséhez fűződő hátrányos jogkövetkezmények alól nem mentesül,
 
 d) aki egyéni cég tagja vagy gazdasági társaság korlátlanul felelős tagja.
+
+(3) Egy természetes személynek egyidejűleg egy egyéni vállalkozói jogviszonya állhat fenn.

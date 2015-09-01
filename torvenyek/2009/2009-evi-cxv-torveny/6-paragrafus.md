@@ -1,6 +1,6 @@
 6. § (1) A bejelentésnek tartalmaznia kell:
 
-a) a bejelentő családi és utónevét, születési családi és utónevét, anyja családi és utónevét, születési helyét és idejét, lakcímét vagy szálláshelyét (a továbbiakban együtt: lakcím), értesítési címét, állampolgárságát,
+a) a bejelentő családi és utónevét, születési családi és utónevét, anyja családi és utónevét, születési helyét és idejét, lakcímét vagy szálláshelyét (a továbbiakban együtt: lakcím), állampolgárságát,
 
 b) nyilatkozatot arról, hogy nem állnak fenn a 3. §-ban meghatározott kizáró okok,
 
@@ -13,3 +13,5 @@ e) az adózás rendjéről szóló 2003. évi XCII. törvényben (a továbbiakba
 (2) A bejelentési űrlapnak tájékoztatást kell tartalmaznia arról, hogy a bejelentő mely adatai és milyen célból kerülnek be az egyéni vállalkozói nyilvántartásba és ezek közül melyek lesznek bárki számára megismerhető, nyilvános adatok.
 
 (3) A székhely, telephely, fióktelep fogalmára a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) rendelkezéseit kell alkalmazni.
+
+(4) Az 5. § (2) bekezdés b) pontja szerinti bejelentés során kitöltött bejelentési űrlap írásbeli jognyilatkozatnak minősül.

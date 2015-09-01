@@ -1,6 +1,6 @@
 ## Felhatalmazások
 
-39. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró szervek feladatait, valamint az egyéni vállalkozók ellenőrzésének részletes szabályait.
+39. § (1)
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel, az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az egyéni vállalkozói tevékenység megkezdésével, szünetelésével, változás-bejelentésével és megszüntetésével kapcsolatos űrlapok tartalmát.
 

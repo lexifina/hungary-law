@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti bejelentést
 
-a) személyesen a Hatóság útján vagy
+a) a Hatóság útján vagy
 
 b) ügyfélkapun keresztül az erre a célra rendszeresített űrlapon (a továbbiakban: elektronikus bejelentés)
 
