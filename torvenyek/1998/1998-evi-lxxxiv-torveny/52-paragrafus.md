@@ -1,1 +1,1 @@
-52. §
+52. § A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 15. §-t és 37. § (7)–(9) bekezdést – a 15. § (1) bekezdés a) pontjának és (2) bekezdésének kivételével – az óvodai nevelésben való részvételi kötelezettség megszegése körében 2016. január 1-jétől kell alkalmazni.

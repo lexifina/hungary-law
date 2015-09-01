@@ -10,8 +10,8 @@
 
 (6) A családi pótlékot az elrendelést, illetve a megszüntetést követő második hónaptól kell természetben biztosítani, illetve pénzbeli formában folyósítani.
 
-(7) Az iskoláztatási támogatás szüneteltetése esetén a fővárosi és megyei kormányhivatal – a (8) bekezdésben foglalt kivétellel – az iskoláztatási támogatás szüneteltetését elrendelő döntése jogerőre emelkedésének hónapját megelőző hónapra járó ellátást folyósítja utolsó alkalommal a jogosult részére.
+(7) A családi pótlék szüneteltetése esetén a fővárosi és megyei kormányhivatal – a (8) bekezdésben foglalt kivétellel – a családi pótlék szüneteltetését elrendelő döntése jogerőre emelkedésének hónapját megelőző hónapra járó ellátást folyósítja utolsó alkalommal a jogosult részére.
 
-(8) Ha az iskoláztatási támogatás szüneteltetését elrendelő döntés jogerőre emelkedésének hónapja május, június vagy július, úgy a folyósítás szüneteltetése az augusztus hónapra járó ellátással indul.
+(8) Ha a családi pótlék szüneteltetését elrendelő döntés jogerőre emelkedésének hónapja május, június vagy július, úgy a folyósítás szüneteltetése az augusztus hónapra járó ellátással indul.
 
-(9) Az iskoláztatási támogatás szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésben megjelölt hónapra, ennek hiányában a kezdeményezés hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a fővárosi és megyei kormányhivatalnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.
+(9) A családi pótlék szüneteltetésének megszüntetése esetén az ellátást első alkalommal a gyámhatóság iskoláztatási támogatás szüneteltetésének megszüntetésére irányuló kezdeményezésben megjelölt hónapra, ennek hiányában a kezdeményezés hónapjára kell ismételten folyósítani. Ebben az esetben a folyósításra visszamenőlegesen, a fővárosi és megyei kormányhivatalnak a szüneteltetést megszüntető döntése meghozatalát követően kerül sor.

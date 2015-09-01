@@ -1,25 +1,23 @@
-## A tankötelezettség mulasztásával összefüggő rendelkezések
+## Az óvodai nevelésben való részvételi kötelezettség megszegésével, valamint a tankötelezettség mulasztásával összefüggő rendelkezések
 
-15. § (1) Ha a tanköteles vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény igazgatójának jelzése alapján a gyámhatóság
+15. § (1) Ha az óvodai nevelésben való részvételre kötelezett, a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – az óvodai nevelésben való részvételi kötelezettségét megszegi vagy a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény vezetőjének jelzése alapján a gyámhatóság
 
-a) az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja az iskoláztatási támogatás jogosultját a b) pontban meghatározott jogkövetkezményre,
+a) az adott nevelési évben igazolatlanul mulasztott ötödik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja a családi pótlék jogosultját a b) pontban meghatározott jogkövetkezményre,
 
-b) az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a fővárosi és megyei kormányhivatalnál az ellátás szüneteltetését.
+b) az adott évben igazolatlanul mulasztott huszadik óvodai nevelési nap, vagy az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után – a jelzés beérkezésétől számított 8 napon belül – kezdeményezi a fővárosi és megyei kormányhivatalnál az ellátás szüneteltetését.
 
-(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a közoktatási intézmény kötelező tanórai foglalkozásai tekintetében
+(2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha az óvodai nevelésben való részvételi kötelezettséget olyan gyermek szegi meg, illetve a kötelező tanórai foglalkozások tekintetében olyan gyermek mulaszt igazolatlanul,
 
-a) nevelőszülőnél elhelyezett,
+a) akit nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyeztek el, vagy
 
-b) gyermekotthonban elhelyezett,
+b) aki gyermekvédelmi gondoskodás alatt áll és javítóintézetben vagy büntetés-végrehajtási intézetben helyezték el.
 
-c) javítóintézetben nevelt vagy büntetés-végrehajtási intézetben lévő, gyermekvédelmi gondoskodás alatt álló,
+(3) A fővárosi és megyei kormányhivatal a gyámhatóság kezdeményezésére megszünteti a családi pótlék szüneteltetését, ha
 
-d) szociális intézményben elhelyezett
+a) a Gyvt. 68/A. § (2) bekezdés szerinti felülvizsgálattal érintett időszakban
 
-gyermek mulasztott.
+aa) a gyermek igazolatlanul mulasztott óvodai nevelési napjainak száma nem haladta meg a három napot, vagy
 
-(3) A fővárosi és megyei kormányhivatal a gyámhatóság kezdeményezésére megszünteti az iskoláztatási támogatás szüneteltetését, ha
+ab) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma nem haladta meg az ötöt; vagy
 
-a) a gyermek (személy) igazolatlanul mulasztott kötelező tanórai foglalkozásainak száma a Gyvt. 68/A. § (2) bekezdés szerinti felülvizsgálattal érintett időszakban nem haladta meg az ötöt, vagy
-
-b) a (2) bekezdésben meghatározott esetek valamelyike bekövetkezett.
+b) a (2) bekezdésben meghatározott esetek valamelyike következett be.
