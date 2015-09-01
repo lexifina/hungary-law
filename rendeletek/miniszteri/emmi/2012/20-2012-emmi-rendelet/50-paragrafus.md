@@ -1,6 +1,6 @@
 ## 18. Az óvodai elhelyezés, a tanulói jogviszony, a kollégiumi, externátusi elhelyezés, a kollégiumi tagság megszűnése
 
-50. § (1)[^80] Megszűnik az óvodai elhelyezés – a közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: közoktatási törvény) 74. § (3) bekezdésében foglaltak kivételével –, ha a gyermek az óvodából igazolatlanul tíznél több napot van távol, feltéve, hogy az óvoda a szülőt legalább két alkalommal írásban figyelmeztette az igazolatlan mulasztás következményeire.
+50. § (1)[^80]
 
 (2) A gyermek óvodai jogviszonyának megszűnéséről az óvoda írásban értesíti a gyermek állandó lakóhelye, ennek hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzőjét.
 
@@ -18,5 +18,5 @@
 
 (9) Ha a kollégiumi tagsági jogviszony megszűnik, a tanuló adatait a jogviszony megszűnésével egyidejűleg a kollégium tanulói nyilvántartásából törölni kell.
 
-[^80]: Az 50. § (1) bekezdése a 22/2013. (III. 22.) EMMI rendelet 8. § (1) bekezdésével megállapított, a 45/2014. (X. 27.) EMMI rendelet 54. § 18. pontja szerint módosított szöveg.
+[^80]: Az 50. § (1) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 25. § b) pontja hatályon kívül helyezte.
 [^81]: Az 50. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 19. §-ával megállapított szöveg.

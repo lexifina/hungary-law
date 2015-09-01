@@ -10,6 +10,6 @@ d) az óvodai törzskönyv,
 
 e) a tankötelezettség megállapításához szükséges szakvélemény (a továbbiakban: óvodai szakvélemény),
 
-f)[^119] a gyermek fejlődését nyomon követő dokumentáció.
+f)[^122] a gyermek fejlődését nyomon követő dokumentáció.
 
-[^119]: A 88. § f) pontját a 22/2013. (III. 22.) EMMI rendelet 15. §-a iktatta be.
+[^122]: A 88. § f) pontját a 22/2013. (III. 22.) EMMI rendelet 15. §-a iktatta be.

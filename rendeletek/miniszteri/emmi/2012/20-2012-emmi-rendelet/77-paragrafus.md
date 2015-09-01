@@ -4,6 +4,6 @@
 
 (2) Ha a tanuló a következő tanév kezdetéig azért nem tett eleget a tanulmányi követelményeknek, mert az előírt vizsga letételére a nevelőtestülettől halasztást kapott, az engedélyezett határidő lejártáig tanulmányait felsőbb évfolyamon folytathatja.
 
-(3)–(4)[^113]
+(3)–(4)[^116]
 
-[^113]: A 77. § (3)–(4) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 18. §-a hatályon kívül helyezte.
+[^116]: A 77. § (3)–(4) bekezdését a 32/2015. (VI. 19.) EMMI rendelet 18. §-a hatályon kívül helyezte.

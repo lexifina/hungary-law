@@ -1,4 +1,4 @@
-## 69. [^250] Az Arany János Kollégiumi Program
+## 69. [^253] Az Arany János Kollégiumi Program
 
 174. § (1) Az Arany János Kollégiumi Programban részt vehet az a kollégium és középiskola, amelynek célja megteremteni a feltételeket ahhoz, hogy a hátrányos és halmozottan hátrányos helyzetű, továbbá a különböző társadalmi hátránnyal küzdő tanulók megkezdhessék és sikeresen befejezhessék a középfokú tanulmányaikat, középiskolai végzettséget szerezhessenek, továbbá javuljanak esélyeik a felsőfokú tanulmányok megkezdésében.
 
@@ -46,4 +46,4 @@ c) a bc)–be) pontokban szereplő feltételek szerint felvehető tanulók arán
 
 (9) Az intézmény tájékoztatja a tanulót az Arany János Kollégiumi Programban való részvétel során őt megillető jogokról és az őt terhelő kötelezettségekről.
 
-[^250]: A 69. alcím (174. §) a 45/2014. (X. 27.) EMMI rendelet 45. §-ával megállapított szöveg.
+[^253]: A 69. alcím (174. §) a 45/2014. (X. 27.) EMMI rendelet 45. §-ával megállapított szöveg.

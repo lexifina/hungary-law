@@ -2,7 +2,7 @@
 
 105. § (1) Az iskola a pedagógiai munka tervezéséhez tantárgyfelosztást készít.
 
-(2)[^130] A tantárgyfelosztás
+(2)[^133] A tantárgyfelosztás
 
 a) a tanév évszámát,
 
@@ -30,4 +30,4 @@ i) a fenntartó által engedélyezett pedagógus-álláshelyek számát
 
 (5) Az alapfokú művészeti iskolában és a művészeti szakközépiskolában a tantárgyfelosztásban az egyéni órák és a csoportos tantárgyak óráit azzal az eltéréssel kell feltüntetni, hogy abból a (2) bekezdés tartalma megállapítható legyen.
 
-[^130]: A 105. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^133]: A 105. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 25. §-ával megállapított szöveg.

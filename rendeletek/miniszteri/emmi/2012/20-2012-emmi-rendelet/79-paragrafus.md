@@ -10,9 +10,9 @@
 
 (4) Az országos pedagógiai mérések előkészítéséhez az iskolák a hivatal által rendelkezésre bocsátott informatikai rendszerben szolgáltatnak adatot a hivatal részére. Az informatikai rendszerben szolgáltatott adatok valódiságáért az iskola vezetője felelős.
 
-(5)[^114] Az országos mérések keretében az érintett nevelési-oktatási intézmények elvégzik az adatfelvételt. Az adatfelvétel hivatal által meghatározott szabályainak betartásáért és az adatfelvétel során szolgáltatott adatok valódiságáért az iskola vezetője a felelős. A hivatal az idegen nyelvi mérés kivételével összegyűjti a méréshez alkalmazott feladatlapokat és kérdőíveket, továbbá gondoskodik azok feldolgozásáról. A hivatal előállítja az országos mutatókat és az elemzés szempontjából releváns részminták alapstatisztikáit, valamint azokat az összevont mutatókat, amelyek alapján az iskola és a fenntartó összehasonlíthatja az iskola teljesítményét az országos mutatókkal és a hasonló helyzetű iskolák statisztikai jellemzőivel.
+(5)[^117] Az országos mérések keretében az érintett nevelési-oktatási intézmények elvégzik az adatfelvételt. Az adatfelvétel hivatal által meghatározott szabályainak betartásáért és az adatfelvétel során szolgáltatott adatok valódiságáért az iskola vezetője a felelős. A hivatal az idegen nyelvi mérés kivételével összegyűjti a méréshez alkalmazott feladatlapokat és kérdőíveket, továbbá gondoskodik azok feldolgozásáról. A hivatal előállítja az országos mutatókat és az elemzés szempontjából releváns részminták alapstatisztikáit, valamint azokat az összevont mutatókat, amelyek alapján az iskola és a fenntartó összehasonlíthatja az iskola teljesítményét az országos mutatókkal és a hasonló helyzetű iskolák statisztikai jellemzőivel.
 
-(6)[^115] Az Nkt. 80. § (1) bekezdése szerinti
+(6)[^118] Az Nkt. 80. § (1) bekezdése szerinti
 
 a) 6. évfolyamos mérésben a 2. § (2) bekezdése szerinti 5/NY elnevezésű nyelvi előkészítő évfolyamot vagy 5/N elnevezésű nemzetiségi előkészítő évfolyamot elvégzett tanulók az 5. évfolyamon,
 
@@ -22,5 +22,5 @@ c) 10. évfolyamos mérésben a 2. § (2) bekezdése szerinti 5/NY, 7/NY, 9/NY v
 
 d) 10. évfolyamos mérésben a 2. § (2) bekezdése szerint a Hídprogram keretében tanulók a H/II/1. elnevezésű évfolyamon, majd középiskolai továbbhaladásuk esetén a 10. évfolyamon
 
-[^114]: A 79. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^115]: A 79. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 14. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^117]: A 79. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^118]: A 79. § (6) bekezdését a 22/2013. (III. 22.) EMMI rendelet 14. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 23. § (2) bekezdésével megállapított szöveg.

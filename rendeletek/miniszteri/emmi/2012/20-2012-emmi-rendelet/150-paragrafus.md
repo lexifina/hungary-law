@@ -1,4 +1,4 @@
-150. §[^198] (1) A köznevelési intézmény ellenőrzése esetén az érintett intézmény vezetője legkésőbb az ellenőrzési terv elkészítése évének november 30-áig feltölti a hivatal által működtetett informatikai támogató rendszerbe
+150. §[^201] (1) A köznevelési intézmény ellenőrzése esetén az érintett intézmény vezetője legkésőbb az ellenőrzési terv elkészítése évének november 30-áig feltölti a hivatal által működtetett informatikai támogató rendszerbe
 
 a) az ellenőrzést megelőző két tanév munkatervét és éves beszámolóját,
 
@@ -10,4 +10,4 @@ c) az intézményi eredményeket, ide értve az ellenőrzés évét megelőző �
 
 (3) Az intézményvezető az intézményellenőrzés lezárását követő negyvenöt napon belül, az összegző szakértői dokumentuma alapján öt évre szóló intézkedési tervet készít, amelyben kijelöli az intézmény pedagógiai-szakmai munkája fejlesztésének feladatait. Az intézkedési tervet a nevelőtestület az intézményellenőrzés összegző szakértői dokumentumának 147. § (8) bekezdése szerinti rögzítésétől számított hatvan napon belül hagyja jóvá. Az intézkedési tervet az érintett intézmény vezetője a jóváhagyást követően haladéktalanul feltölti a hivatal által működtetett informatikai támogató rendszerbe, amely azt elérhetővé teszi az intézmény fenntartója, valamint a hivatal számára.
 
-[^198]: A 150. § a 22/2015. (IV. 21.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^201]: A 150. § a 22/2015. (IV. 21.) EMMI rendelet 15. §-ával megállapított szöveg.

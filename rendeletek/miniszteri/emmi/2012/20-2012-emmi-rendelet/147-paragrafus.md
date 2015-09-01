@@ -12,7 +12,7 @@
 
 (7) Az ellenőrzésben érintett pedagógus, szakértő, valamint az érintett intézmény vezetője haladéktalanul köteles értesíteni a hivatalt minden olyan körülményről, amely az ellenőrzés lebonyolítását akadályozza vagy veszélyezteti. Az időpontot és a szakértők kijelölését az érintettek kezdeményezésére a hivatal módosíthatja, amelyről haladéktalanul értesíti az érintetteket. Ha a pedagógus, az intézményvezető neki fel nem róható okból nem tud részt venni a rá vonatkozó ellenőrzésben, a hivatal új időpontot jelöl ki a számára. E szabály alkalmazásában a pedagógusnak, az intézményvezetőnek fel nem róható ok minden olyan, a részvételt gátló esemény, körülmény, amelynek bekövetkezése nem vezethető vissza a pedagógus, az intézményvezető szándékos vagy gondatlan magatartására.
 
-(7a)[^194] Az ellenőrzést vezető szakértő az ellenőrzés időpontja előtt legalább tizenöt nappal felveszi a kapcsolatot az érintett intézmény vezetőjével és egyeztetik az ellenőrzés ütemezésével és tartalmával kapcsolatos részleteket.
+(7a)[^197] Az ellenőrzést vezető szakértő az ellenőrzés időpontja előtt legalább tizenöt nappal felveszi a kapcsolatot az érintett intézmény vezetőjével és egyeztetik az ellenőrzés ütemezésével és tartalmával kapcsolatos részleteket.
 
 (8) Az ellenőrzést vezető szakértő a látogatást követő szakértői egyeztetésnek megfelelően elkészíti az ellenőrzés tapasztalatait összegző szakértői dokumentumot, és azt az ellenőrzést követő tizenöt napon belül rögzíti az informatikai támogató rendszerben.
 
@@ -20,4 +20,4 @@
 
 (10) Az ellenőrzés (8) bekezdés szerinti összegző szakértői dokumentumának rögzítését követő tizenöt napon belül az ellenőrzésben érintett személy, továbbá intézményellenőrzés esetén az intézmény vezetője a nevelőtestülettel egyeztetve értékelőlapot tölthet ki a szakértőkről a hivatal által működtetett informatikai támogató rendszerben. A hivatal az értékelőlapot a szakértői tevékenység egységes értékelési szempontjai alapján állítja össze. A hivatal a szakértőről készült értékelőlapok tartalmáról minden év november 30-ig összesítő kimutatást készít, amelyet az informatikai támogató rendszerben elérhetővé tesz a szakértő számára.
 
-[^194]: A 147. § (7a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 10. §-a iktatta be.
+[^197]: A 147. § (7a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 10. §-a iktatta be.
