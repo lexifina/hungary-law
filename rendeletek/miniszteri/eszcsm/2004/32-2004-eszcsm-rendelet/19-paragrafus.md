@@ -2,9 +2,9 @@
 
 ## Eljárási szabályok
 
-19. § (1)[^113] Az OEP főigazgatója a forgalomba hozatalra engedélyezett gyógyszerek E. Alapból történő támogatásával, illetve a támogatás megváltoztatásával, vagy megszüntetésével kapcsolatos – a normál eljárásrendbe tartozó kérelmek esetén – feladatok ellátására Egészségügyi Technológia-értékelő Bizottságot hoz létre.
+19. § (1)[^116] Az OEP főigazgatója a forgalomba hozatalra engedélyezett gyógyszerek E. Alapból történő támogatásával, illetve a támogatás megváltoztatásával, vagy megszüntetésével kapcsolatos – a normál eljárásrendbe tartozó kérelmek esetén – feladatok ellátására Egészségügyi Technológia-értékelő Bizottságot hoz létre.
 
-(2)[^114] Az OEP az egyes gyógyszerek társadalombiztosítási támogatásba való befogadásról és a támogatás mértékéről, alapjáról normál eljárás esetén az OGYÉI és az egészségügyi szakmai kollégium szakvéleményének kikérését követően dönt.
+(2)[^117] Az OEP az egyes gyógyszerek társadalombiztosítási támogatásba való befogadásról és a támogatás mértékéről, alapjáról normál eljárás esetén az OGYÉI és az egészségügyi szakmai kollégium szakvéleményének kikérését követően dönt.
 
-[^113]: A 19. § (1) bekezdése az 53/2006. (XII. 28.) EüM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult eljárásokban kell alkalmazni.
-[^114]: A 19. § (2) bekezdése a 10/2004. (XII. 15.) EüM rendelet 13. §-ával megállapított, a 45/2009. (XII. 18.) EüM rendelet 4. § (5) bekezdése, a 47/2011. (VII. 27.) NEFMI rendelet 13. § j) pontja, a 10/2015. (II. 23.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^116]: A 19. § (1) bekezdése az 53/2006. (XII. 28.) EüM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 19. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult eljárásokban kell alkalmazni.
+[^117]: A 19. § (2) bekezdése a 10/2004. (XII. 15.) EüM rendelet 13. §-ával megállapított, a 45/2009. (XII. 18.) EüM rendelet 4. § (5) bekezdése, a 47/2011. (VII. 27.) NEFMI rendelet 13. § j) pontja, a 10/2015. (II. 23.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
