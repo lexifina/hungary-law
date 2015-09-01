@@ -42,7 +42,7 @@ Az alapvető lakossági szolgáltatások
 
 19. A törvényben meghatározott gyermekétkeztetési feladatok (Gyvt.)
 
-20. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások: aktív korúak ellátása, rendkívüli települési támogatás, lakásfenntartási támogatás, önkormányzati segély, köztemetés, közgyógyellátás, rendszeres gyermekvédelmi kedvezmény, óvodáztatási támogatás (Szoctv. és Gyvt.)
+20. A szociális rászorultságtól függő pénzbeli és természetbeni ellátások: aktív korúak ellátása, rendkívüli települési támogatás, lakásfenntartási támogatás, önkormányzati segély, köztemetés, közgyógyellátás, rendszeres gyermekvédelmi kedvezmény (Szoctv. és Gyvt.)
 
 21. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (Mötv.)
 
