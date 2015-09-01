@@ -1,3 +1,3 @@
-## 16. §[^5]
+## 16. §[^4]
 
-[^5]: A 16. § a 25. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^4]: A 16. § a 25. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
