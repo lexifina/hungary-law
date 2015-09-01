@@ -23,3 +23,5 @@
 (10) Ha az elszámolásra köteles, végelszámolás vagy felszámolási eljárás alatt nem álló pénzügyi intézménynek az elszámoláshoz szükséges információk nem állnak teljeskörűen rendelkezésére, és ezt igazolni tudja a Felügyelet felé, akkor az érintett fogyasztói kölcsönszerződés vonatkozásában jogosult a Felügyelet által jóváhagyott becslési módszertan szerint eljárni.
 
 (11) A Magyar Nemzeti Bank fogyasztóvédelmi eljárás keretében ellenőrzi, hogy a végelszámolás vagy a felszámolási eljárás alatt nem álló pénzügyi intézmény a (10) bekezdésben foglalt feltételek fennállása esetén megfelelően alkalmazza-e a becslési módszertant.
+
+(12) A fogyasztó a (3) bekezdés alapján hat hónapos elévülési időn belül jogosult igényelni az elszámolás elkészítését. Az elévülés kezdő időpontja a 16. § (3) bekezdése szerinti honlapon történő közzétételt követő második hónap első napja.

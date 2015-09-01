@@ -5,3 +5,5 @@
 (3) Ha a (2) bekezdés szerinti elszámolás eredményeként a követeléskezelő tartozik a fogyasztónak, annak kifizetésére a követeléskezelő köteles, azonban az így kifizetett összeg megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől. A követeléskezelő a követelése összegének az engedményezett követelés vételárához képest bekövetkezett csökkenéséből az őt ért pénzügyi veszteség arányos megtérítését igényelheti az elszámolásra köteles pénzügyi intézménytől. Ha a követeléskezelő az engedményezett követelést nem közvetlenül az elszámolásra köteles pénzügyi intézménytől szerezte, a (2) bekezdés szerinti elszámolásban valamennyi fél együttműködik.
 
 (4) E § rendelkezéseit kell alkalmazni abban az esetben is, ha a követeléskezelő követelése teljesítés eredményeképpen szűnt meg.
+
+(5) A (2) bekezdés szerinti elszámolási igényét a fogyasztó hat hónapos elévülési időn belül jogosult érvényesíteni. Az elévülés kezdő időpontja az (1) bekezdés szerinti, a követelés engedményezésének időpontjára elkészített elszámolásról szóló tájékoztató levélnek, a fogyasztó részére való kézbesítését követő második hónap első napja.

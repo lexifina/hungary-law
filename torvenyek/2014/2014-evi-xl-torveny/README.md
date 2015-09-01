@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-40-00-00
 | 2015-02-01 | 2014. évi LXXVIII. törvény | 2014-40-00-00.6 |
 | 2015-02-28 | 2015. évi II. törvény | 2014-40-00-00.7 |
 | 2015-05-18 | 2015. évi LII. törvény | 2014-40-00-00.8 |
+| 2015-09-01 | 2015. évi CV. törvény | 2014-40-00-00.9 |
