@@ -39,5 +39,3 @@ b) a javasolt maximális arányt,
 c) az érintett vezető állású személyek és munkavállalók számára, beosztására vonatkozó adatokat, valamint
 
 d) a befektetési vállalkozás stabil tőkealapjának fenntartására vonatkozó követelményre gyakorolt hatást.
-
-10. A 9. pont c) alpontjában megjelölt személyek sem közvetlenül, sem közvetve nem gyakorolhatják részvényesi, tulajdonosi vagy tagi szavazati jogaikat a 8. pont c) alpontja szerinti határozat meghozatalakor.

@@ -30,7 +30,9 @@ i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítéséne
 
 j) a feladatkörében eljáró alapvető jogok biztosával, valamint
 
-k) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal
+k) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
+
+l) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
 szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett írásbeli megkeresése esetén.
 
