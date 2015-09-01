@@ -1,23 +1,23 @@
-98. § (1)[^669] Az ideiglenes hatályú elhelyezés felülvizsgálata során az illetékes gyámhivatal
+98. § (1)[^645] Az ideiglenes hatályú elhelyezés felülvizsgálata során az illetékes gyámhivatal
 
 a) meghallgatja a Gyvt. 128. §-ában meghatározott személyeket,
 
-b)[^670] környezettanulmányt készít vagy szerez be,
+b)[^646] környezettanulmányt készít vagy szerez be,
 
-c)[^671] kikéri mindazon szervek véleményét, amelyek a gyermekkel az ideiglenes hatályú elhelyezést megelőzően foglalkoztak,
+c)[^647] kikéri mindazon szervek véleményét, amelyek a gyermekkel az ideiglenes hatályú elhelyezést megelőzően foglalkoztak,
 
-d)[^672] megelőző pártfogás alatt álló gyermek esetén megállapítja a gyermek megelőző pártfogásának fennállását, valamint tájékoztatja a gyermek szülőjét vagy más törvényes képviselőjét és a megelőző pártfogó felügyelőt arról, hogy ha a gyermeket nevelésbe veszik, a megelőző pártfogás fenntartásáról vagy megszüntetéséről a nevelésbe vételt elrendelő határozatában fog dönteni.
+d)[^648] megelőző pártfogás alatt álló gyermek esetén megállapítja a gyermek megelőző pártfogásának fennállását, valamint tájékoztatja a gyermek szülőjét vagy más törvényes képviselőjét és a megelőző pártfogó felügyelőt arról, hogy ha a gyermeket nevelésbe veszik, a megelőző pártfogás fenntartásáról vagy megszüntetéséről a nevelésbe vételt elrendelő határozatában fog dönteni.
 
-(2)[^673] A gyámhivatal az ideiglenes hatályú elhelyezést megszünteti, ha annak okai nem állnak fenn, és indokolt esetben elrendeli a gyermek védelembe vételét.
+(2)[^649] A gyámhivatal az ideiglenes hatályú elhelyezést megszünteti, ha annak okai nem állnak fenn, és indokolt esetben elrendeli a gyermek védelembe vételét.
 
-(3)[^674] A Gyvt. 72. §-ának (1) bekezdésében meghatározott beutaló szerv által elrendelt ideiglenes hatályú elhelyezés megszüntetéséről – ha annak okai már nem állnak fenn – kizárólag a gyámhivatal dönt.
+(3)[^650] A Gyvt. 72. §-ának (1) bekezdésében meghatározott beutaló szerv által elrendelt ideiglenes hatályú elhelyezés megszüntetéséről – ha annak okai már nem állnak fenn – kizárólag a gyámhivatal dönt.
 
-(4)[^675] A gyámhivatal az ideiglenes hatályú elhelyezés megszüntetését elrendelő határozatában megjelöli az ideiglenes hatályú elhelyezés utolsó napját.
+(4)[^651] A gyámhivatal az ideiglenes hatályú elhelyezés megszüntetését elrendelő határozatában megjelöli az ideiglenes hatályú elhelyezés utolsó napját.
 
-[^669]: A 98. § (1) bekezdésének felvezető mondata a 14/2003. (II. 12.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^670]: A 98. § (1) bekezdés b) pontja a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^671]: A 98. § (1) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 24. pontja szerint módosított szöveg.
-[^672]: A 98. § (1) bekezdés d) pontját a 353/2014. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^673]: A 98. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (12) bekezdésével megállapított szöveg.
-[^674]: A 98. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^675]: A 98. § (4) bekezdését a 97/2013. (III. 29.) Korm. rendelet 30. §-a iktatta be.
+[^645]: A 98. § (1) bekezdésének felvezető mondata a 14/2003. (II. 12.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^646]: A 98. § (1) bekezdés b) pontja a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^647]: A 98. § (1) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 24. pontja szerint módosított szöveg.
+[^648]: A 98. § (1) bekezdés d) pontját a 353/2014. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^649]: A 98. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (12) bekezdésével megállapított szöveg.
+[^650]: A 98. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^651]: A 98. § (4) bekezdését a 97/2013. (III. 29.) Korm. rendelet 30. §-a iktatta be.

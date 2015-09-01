@@ -4,23 +4,23 @@
 
 ## Az örökbefogadhatónak nyilvánítás
 
-37. §[^171] (1)[^172] Az örökbefogadhatónak nyilvánítás iránti eljárás során a gyámhivatal a nevelésbe vett gyermek örökbefogadását akkor segíti elő, ha a gyermek életkora, egészségi állapota és egyéb körülményei alapján örökbefogadására – a gyermekvédelmi szakszolgálatnak és az országos örökbefogadást elősegítő szervnek a Gyvt. 141/F. § (2) bekezdése szerinti tájékoztatása alapján – reális esély van.
+37. §[^172] (1)[^173] Az örökbefogadhatónak nyilvánítás iránti eljárás során a gyámhivatal a nevelésbe vett gyermek örökbefogadását akkor segíti elő, ha a gyermek életkora, egészségi állapota és egyéb körülményei alapján örökbefogadására – a gyermekvédelmi szakszolgálatnak és az országos örökbefogadást elősegítő szervnek a Gyvt. 141/F. § (2) bekezdése szerinti tájékoztatása alapján – reális esély van.
 
-(1a)[^173] Az örökbefogadhatónak nyilvánítás és az annak meghosszabbítása iránti eljárás a nevelésbe vett gyermek gyermekvédelmi gyámjának kérelmére vagy hivatalból indul. A hivatalból induló eljárást a gyermekvédelmi szakszolgálat, a gyermeket gondozó intézmény vagy a gyermekjogi képviselő is kezdeményezheti az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatalnál.
+(1a)[^174] Az örökbefogadhatónak nyilvánítás és az annak meghosszabbítása iránti eljárás a nevelésbe vett gyermek gyermekvédelmi gyámjának kérelmére vagy hivatalból indul. A hivatalból induló eljárást a gyermekvédelmi szakszolgálat, a gyermeket gondozó intézmény vagy a gyermekjogi képviselő is kezdeményezheti az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatalnál.
 
-(1b)[^174] Ha a gyermek nevelésbe vétele ügyében eljárni illetékes gyámhivatal észleli az örökbefogadhatóvá nyilvánítás szükségességét, az iratok egyidejű megküldésével jelzi azt az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatalnak.
+(1b)[^175] Ha a gyermek nevelésbe vétele ügyében eljárni illetékes gyámhivatal észleli az örökbefogadhatóvá nyilvánítás szükségességét, az iratok egyidejű megküldésével jelzi azt az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatalnak.
 
-(1c)[^175] Az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatal döntését közli a szülővel, a gyermekvédelmi gyámmal, a gyermekvédelmi szakszolgálattal, a gyermeket gondozó intézménnyel, a gyermek nevelésbe vétele ügyében eljárni illetékes gyámhivatallal és – ha az eljárás az ő kérelmére indult – a gyermekjogi képviselővel.
+(1c)[^176] Az örökbefogadhatóvá nyilvánítás iránti eljárás lefolytatására illetékes gyámhivatal döntését közli a szülővel, a gyermekvédelmi gyámmal, a gyermekvédelmi szakszolgálattal, a gyermeket gondozó intézménnyel, a gyermek nevelésbe vétele ügyében eljárni illetékes gyámhivatallal és – ha az eljárás az ő kérelmére indult – a gyermekjogi képviselővel.
 
-(2)[^176] Az örökbefogadhatónak nyilvánítás kérdésében a megyeszékhelyen működő gyámhivatal, a fővárosban Budapest Főváros Kormányhivatala gyermekvédelmi és gyámügyi feladatkörében eljáró XI. Kerületi Hivatala, Pest megyében a Pest Megyei Kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró Szentendrei Járási Hivatala (e Fejezet alkalmazásában a továbbiakban együtt: kijelölt gyámhivatal) – ha nem indult a szülői felügyeleti jog megszüntetése iránti per – soron kívül jár el.
+(2)[^177] Az örökbefogadhatónak nyilvánítás kérdésében a megyeszékhelyen működő gyámhivatal, a fővárosban Budapest Főváros Kormányhivatala gyermekvédelmi és gyámügyi feladatkörében eljáró XI. Kerületi Hivatala, Pest megyében a Pest Megyei Kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró Szentendrei Járási Hivatala (e Fejezet alkalmazásában a továbbiakban együtt: kijelölt gyámhivatal) – ha nem indult a szülői felügyeleti jog megszüntetése iránti per – soron kívül jár el.
 
-(3)[^177] Ha az örökbefogadhatónak nyilvánítás indoka az, hogy
+(3)[^178] Ha az örökbefogadhatónak nyilvánítás indoka az, hogy
 
 a) a szülő gyermekével önhibájából nem tart kapcsolatot és életvitelén, körülményein a nevelésbe vétel megszüntetése érdekében nem változtat, vagy a szülő fél éven át gyermekével semmilyen formában nem tart kapcsolatot, a kijelölt gyámhivatal meghallgatja a szülőt, a gyermek gyermekvédelmi gyámját, valamint a nevelőszülőt vagy a gyermeket gondozó gyermekotthoni alkalmazottat, és környezettanulmányt készít,
 
 b) a szülő lakó- vagy tartózkodási helyét az új lakó- vagy tartózkodási helye megjelölése nélkül megváltoztatta, a kijelölt gyámhivatal a 12. §-ban foglaltak szerint intézkedik a lakó- vagy tartózkodási hely felkutatása iránt, valamint meghallgatja a gyermek gyermekvédelmi gyámját és a nevelőszülőt vagy a gyermeket gondozó gyermekotthoni alkalmazottat.
 
-(4)[^178] A kijelölt gyámhivatal az örökbefogadhatónak nyilvánítás előtt köteles kikérni, ha az eljárás
+(4)[^179] A kijelölt gyámhivatal az örökbefogadhatónak nyilvánítás előtt köteles kikérni, ha az eljárás
 
 a) hivatalból indul, ideértve a gyermekjogi képviselő kezdeményezése alapján hivatalból indult eljárást is:
 
@@ -28,19 +28,19 @@ aa) a szülő lakó- vagy tartózkodási helye (utolsó ismert lakó- vagy tart�
 
 ab) a gyermekvédelmi szakszolgálat véleményét a gyermek elhelyezési tervében foglaltak teljesítéséről,
 
-ac)[^179] a gyermek gyermekvédelmi gyámjának, a gyermeket gondozó intézménynek, illetve – ha a gyermek nevelőszülőnél nevelkedik – a nevelőszülői hálózat működtetőjének véleményét a szülő-gyermek kapcsolat alakulásáról, valamint arról, ha a kapcsolattartás a gyámhivatal határozatában szabályozottól – a (7) bekezdésben foglaltak szerint – jelentősen eltérően valósult meg;
+ac)[^180] a gyermek gyermekvédelmi gyámjának, a gyermeket gondozó intézménynek, illetve – ha a gyermek nevelőszülőnél nevelkedik – a nevelőszülői hálózat működtetőjének véleményét a szülő-gyermek kapcsolat alakulásáról, valamint arról, ha a kapcsolattartás a gyámhivatal határozatában szabályozottól – a (7) bekezdésben foglaltak szerint – jelentősen eltérően valósult meg;
 
 b) a gyermekvédelmi szakszolgálat kezdeményezésére hivatalból indul, az aa) és ac) alpontban felsorolt véleményeket;
 
-c)[^180] a gyermekotthon vagy – nevelőszülőnél nevelkedő nevelésbe vett gyermek esetén – a nevelőszülői hálózat működtetőjének kezdeményezésére hivatalból indul, az a) pont aa) és ab) alpontjában felsorolt szervek, továbbá a gyermek gyermekvédelmi gyámjának – a szülő-gyermek kapcsolat alakulását tartalmazó – véleményét;
+c)[^181] a gyermekotthon vagy – nevelőszülőnél nevelkedő nevelésbe vett gyermek esetén – a nevelőszülői hálózat működtetőjének kezdeményezésére hivatalból indul, az a) pont aa) és ab) alpontjában felsorolt szervek, továbbá a gyermek gyermekvédelmi gyámjának – a szülő-gyermek kapcsolat alakulását tartalmazó – véleményét;
 
-d)[^181] a gyermek gyermekvédelmi gyámjának kérelmére indul, az aa) és ab) alpontban felsorolt, továbbá a gyermeket gondozó intézmény vagy – ha a gyermek nevelőszülőnél nevelkedik – a nevelőszülői hálózat működtetőjének véleményét a szülő-gyermek kapcsolat alakulásáról.
+d)[^182] a gyermek gyermekvédelmi gyámjának kérelmére indul, az aa) és ab) alpontban felsorolt, továbbá a gyermeket gondozó intézmény vagy – ha a gyermek nevelőszülőnél nevelkedik – a nevelőszülői hálózat működtetőjének véleményét a szülő-gyermek kapcsolat alakulásáról.
 
-(5)[^182] A kijelölt gyámhivatal az örökbefogadhatóvá nyilvánítással és annak meghosszabbításával egyidejűleg a gyermek érdekében a szülő kapcsolattartási jogát szünetelteti. A kijelölt gyámhivatal a kapcsolattartás szünetelését a 31. § (4) bekezdésében foglalt időtartamra rendeli el, amely időtartamot a (3) bekezdés a) pontja szerinti örökbefogadhatónak nyilvánítás során figyelmen kívül kell hagyni.
+(5)[^183] A kijelölt gyámhivatal az örökbefogadhatóvá nyilvánítással és annak meghosszabbításával egyidejűleg a gyermek érdekében a szülő kapcsolattartási jogát szünetelteti. A kijelölt gyámhivatal a kapcsolattartás szünetelését a 31. § (4) bekezdésében foglalt időtartamra rendeli el, amely időtartamot a (3) bekezdés a) pontja szerinti örökbefogadhatónak nyilvánítás során figyelmen kívül kell hagyni.
 
-(6)[^183] Amennyiben az örökbefogadhatónak nyilvánított nevelésbe vett gyermek örökbefogadásának előkészítése vagy örökbefogadásának engedélyezésére irányuló eljárás során telik le a szülő kapcsolattartási jogának szünetelésére megállapított időtartam, a kijelölt gyámhivatal jogosult a szülő kapcsolattartási jogát az örökbefogadási eljárás jogerős befejezéséig tovább szüneteltetni.
+(6)[^184] Amennyiben az örökbefogadhatónak nyilvánított nevelésbe vett gyermek örökbefogadásának előkészítése vagy örökbefogadásának engedélyezésére irányuló eljárás során telik le a szülő kapcsolattartási jogának szünetelésére megállapított időtartam, a kijelölt gyámhivatal jogosult a szülő kapcsolattartási jogát az örökbefogadási eljárás jogerős befejezéséig tovább szüneteltetni.
 
-(7)[^184] A gyámhivatal határozatában szabályozottól jelentősen eltér a kapcsolattartás, ha az örökbe fogadhatóvá nyilvánítás során vizsgált időszakban [Ptk. 4:124. § (1) bekezdés a) pontja] a kapcsolattartásra jogosult szülő önhibájából
+(7)[^185] A gyámhivatal határozatában szabályozottól jelentősen eltér a kapcsolattartás, ha az örökbe fogadhatóvá nyilvánítás során vizsgált időszakban [Ptk. 4:124. § (1) bekezdés a) pontja] a kapcsolattartásra jogosult szülő önhibájából
 
 a) több alkalommal két hónapnál hosszabb ideig nem látogatja meg a gyermeket,
 
@@ -48,23 +48,23 @@ b) kapcsolattartási jogát nem a gyámhivatal határozatában előírt helyszí
 
 c) kapcsolattartási jogát a gyermeket veszélyeztető módon gyakorolja.
 
-(8)[^185] Ha az örökbefogadhatóvá nyilvánítás Ptk. 4:124. § (1) bekezdése szerinti, legfeljebb két évre szóló időtartama a gyermek örökbefogadásának engedélyezése iránti eljárás során telik le, akkor az örökbefogadhatónak nyilvánító határozat hatálya meghosszabbodik az eljárás jogerős befejezéséig.
+(8)[^186] Ha az örökbefogadhatóvá nyilvánítás Ptk. 4:124. § (1) bekezdése szerinti, legfeljebb két évre szóló időtartama a gyermek örökbefogadásának engedélyezése iránti eljárás során telik le, akkor az örökbefogadhatónak nyilvánító határozat hatálya meghosszabbodik az eljárás jogerős befejezéséig.
 
-(9)[^186] A kijelölt gyámhivatal az örökbefogadhatóvá nyilvánítás időtartamát a Ptk. 4:124. § (2) bekezdése alapján további legfeljebb két évvel meghosszabbítja, ha a gyermek örökbefogadása nem történt meg, nincs folyamatban örökbefogadás engedélyezése iránti eljárás, és a gyermek örökbefogadására az (1) bekezdés szerint reális esély van.
+(9)[^187] A kijelölt gyámhivatal az örökbefogadhatóvá nyilvánítás időtartamát a Ptk. 4:124. § (2) bekezdése alapján további legfeljebb két évvel meghosszabbítja, ha a gyermek örökbefogadása nem történt meg, nincs folyamatban örökbefogadás engedélyezése iránti eljárás, és a gyermek örökbefogadására az (1) bekezdés szerint reális esély van.
 
-[^171]: A 37. § a 14/2003. (II. 12.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^172]: A 33/B. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^173]: A 37. § (1a) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^174]: A 37. § (1b) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^175]: A 37. § (1c) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^176]: A 37. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^177]: A 37. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^178]: A 37. § (4) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 10. § (3) bekezdésével megállapított, nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 8. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
-[^179]: A 37. § (4) bekezdés a) pont ac) alpontja a 360/2010. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 5. pontja szerint módosított szöveg.
-[^180]: A 37. § (4) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^181]: A 37. § (4) bekezdés d) pontja a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 5. pontja szerint módosított szöveg.
-[^182]: A 37. § (5) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^183]: A 37. § (6) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 9. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja, a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 6. pontja szerint módosított szöveg.
-[^184]: A 37. § (7) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^185]: A 37. § (8) bekezdését a 70/2014. (III. 13.) Korm. rendelet 20. § (4) bekezdése iktatta be.
-[^186]: A 37. § (9) bekezdését a 70/2014. (III. 13.) Korm. rendelet 20. § (4) bekezdése iktatta be.
+[^172]: A 37. § a 14/2003. (II. 12.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^173]: A 33/B. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^174]: A 37. § (1a) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^175]: A 37. § (1b) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^176]: A 37. § (1c) bekezdését a 97/2013. (III. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^177]: A 37. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^178]: A 37. § (3) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^179]: A 37. § (4) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 10. § (3) bekezdésével megállapított, nyitó szövegrésze a 360/2010. (XII. 30.) Korm. rendelet 25. § 8. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja szerint módosított szöveg.
+[^180]: A 37. § (4) bekezdés a) pont ac) alpontja a 360/2010. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 5. pontja szerint módosított szöveg.
+[^181]: A 37. § (4) bekezdés c) pontja a 97/2013. (III. 29.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^182]: A 37. § (4) bekezdés d) pontja a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 5. pontja szerint módosított szöveg.
+[^183]: A 37. § (5) bekezdése a 70/2014. (III. 13.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^184]: A 37. § (6) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 9. pontja, a 174/2012. (VII. 26.) Korm. rendelet 12. § (16) bekezdés 7. pontja, a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 6. pontja szerint módosított szöveg.
+[^185]: A 37. § (7) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^186]: A 37. § (8) bekezdését a 70/2014. (III. 13.) Korm. rendelet 20. § (4) bekezdése iktatta be.
+[^187]: A 37. § (9) bekezdését a 70/2014. (III. 13.) Korm. rendelet 20. § (4) bekezdése iktatta be.

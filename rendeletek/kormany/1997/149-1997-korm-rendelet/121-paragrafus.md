@@ -1,4 +1,4 @@
-## 120/A. §[^748] Ha a gyámhivatal illetékessége megszűnik, az ügy áttételéről szóló végzésről a gyámhivatal értesíti a gondozási díj fizetésére kötelezettet, szükség esetén munkáltatóját, a megyei kirendeltséget, valamint a kötelezett lakóhelye vagy ennek hiányában tartózkodási helye szerint illetékes jegyzőt.
+## 120/A. §[^724] Ha a gyámhivatal illetékessége megszűnik, az ügy áttételéről szóló végzésről a gyámhivatal értesíti a gondozási díj fizetésére kötelezettet, szükség esetén munkáltatóját, a megyei kirendeltséget, valamint a kötelezett lakóhelye vagy ennek hiányában tartózkodási helye szerint illetékes jegyzőt.
 
 ## XVI. Fejezet
 
@@ -6,7 +6,7 @@
 
 ## Az utógondozás elrendelése
 
-121. §[^749] (1) A gyámhivatal az otthonteremtési támogatás céljának megvalósulása érdekében az utógondozás biztosítására elsősorban a fiatal felnőtt korábbi gondozási helyét, vagy – ha a támogatás céljának elérését elősegíti – a fiatal felnőtt választása szerinti gyermekvédelmi szakszolgálat által meghatározott otthont nyújtó ellátást biztosító intézményt jelöli ki, amely a kijelölést követően köteles ellátni az utógondozást.
+121. §[^725] (1) A gyámhivatal az otthonteremtési támogatás céljának megvalósulása érdekében az utógondozás biztosítására elsősorban a fiatal felnőtt korábbi gondozási helyét, vagy – ha a támogatás céljának elérését elősegíti – a fiatal felnőtt választása szerinti gyermekvédelmi szakszolgálat által meghatározott otthont nyújtó ellátást biztosító intézményt jelöli ki, amely a kijelölést követően köteles ellátni az utógondozást.
 
 (2) Az utógondozás elrendeléséről szóló határozatban a gyámhivatal felhívja az utógondozás biztosítására köteles intézmény vezetőjét, hogy
 
@@ -16,12 +16,12 @@ b) gondoskodjon arról, hogy az utógondozó az utógondozás eredményéről
 
 ba) évente,
 
-bb)[^750] a gyámhivatal felhívására bármikor, és
+bb)[^726] a gyámhivatal felhívására bármikor, és
 
 bc) az utógondozás megszűnésekor vagy megszüntetésekor
 
 adjon tájékoztatást a gyámhivatalnak.
 
-[^748]: A 120/A. §-t a 349/2012. (XII. 12.) Korm. rendelet 17. §-a iktatta be.
-[^749]: A 121. § a 97/2013. (III. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
-[^750]: A 121. § (2) bekezdés b) pont bb) alpontja a 70/2015. (III. 30.) Korm. rendelet 25. § (4) bekezdés j) pontja szerint módosított szöveg.
+[^724]: A 120/A. §-t a 349/2012. (XII. 12.) Korm. rendelet 17. §-a iktatta be.
+[^725]: A 121. § a 97/2013. (III. 29.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^726]: A 121. § (2) bekezdés b) pont bb) alpontja a 70/2015. (III. 30.) Korm. rendelet 25. § (4) bekezdés j) pontja szerint módosított szöveg.

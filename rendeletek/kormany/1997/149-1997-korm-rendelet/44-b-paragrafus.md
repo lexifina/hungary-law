@@ -1,6 +1,6 @@
-## Az örökbefogadáshoz tett szülői hozzájáruló nyilatkozat visszavonása[^250]
+## Az örökbefogadáshoz tett szülői hozzájáruló nyilatkozat visszavonása[^251]
 
-44/B. §[^251] (1) A szülő, ha a gyermek örökbefogadásának engedélyezése iránt
+44/B. §[^252] (1) A szülő, ha a gyermek örökbefogadásának engedélyezése iránt
 
 a) eljárás van folyamatban, a gyermek örökbefogadása ügyében eljáró gyámhivatal előtt, vagy
 
@@ -30,5 +30,5 @@ a) a szülőnek vagy más hozzátartozónak a gyermek családban való nevelked�
 
 b) az örökbe fogadni szándékozó személynek ahhoz, hogy együtt tudjon működni a gyermek sorsának rendezésében.
 
-[^250]: A 44/B. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 31. §-a iktatta be.
-[^251]: A 44/B. §-t a 70/2014. (III. 13.) Korm. rendelet 31. §-a iktatta be.
+[^251]: A 44/B. §-t megelőző alcímet a 70/2014. (III. 13.) Korm. rendelet 31. §-a iktatta be.
+[^252]: A 44/B. §-t a 70/2014. (III. 13.) Korm. rendelet 31. §-a iktatta be.

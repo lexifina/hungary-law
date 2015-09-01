@@ -1,6 +1,6 @@
-## A nevelésbe vétel megszüntetése és megszűnése[^723]
+## A nevelésbe vétel megszüntetése és megszűnése[^699]
 
-110. §[^724] (1) A nevelésbe vételt megszüntető, illetve a megszűnést megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+110. §[^700] (1) A nevelésbe vételt megszüntető, illetve a megszűnést megállapító határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) az arra jogosult szülő vagy családbafogadó gyám felhívását a gyermek gondozására,
 
@@ -22,7 +22,7 @@ i) a gondozásidíj-fizetési kötelezettség megszüntetését,
 
 j) az illetékes járási hivatal felhívását a közgyógyellátási igazolvány visszavonása érdekében,
 
-k)[^725] megelőző pártfogás alatt álló gyermek esetén – az ok megjelölésével – a megelőző pártfogás megszüntetését vagy megszűnését.
+k)[^701] megelőző pártfogás alatt álló gyermek esetén – az ok megjelölésével – a megelőző pártfogás megszüntetését vagy megszűnését.
 
 (2) Ha a nevelésbe vétel a gyermek nagykorúvá válása miatt szűnik meg, a gyámhivatal a 143. § szerint jár el.
 
@@ -30,6 +30,6 @@ k)[^725] megelőző pártfogás alatt álló gyermek esetén – az ok megjelöl
 
 (4) Ha a nevelésbe vétel a gyermek családbafogadásával szűnik meg, a gyámhivatal a 92. § és a 146. § (5) bekezdése alapján jár el.
 
-[^723]: A 110. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^724]: A 110. § a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^725]: A 110. § (1) bekezdés k) pontját a 353/2014. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^699]: A 110. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^700]: A 110. § a 97/2013. (III. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^701]: A 110. § (1) bekezdés k) pontját a 353/2014. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
