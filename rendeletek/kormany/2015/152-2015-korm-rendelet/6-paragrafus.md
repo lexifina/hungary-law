@@ -1,0 +1,7 @@
+## 5. § A kijelölt tagállami kapcsolattartási pont adatait (a kapcsolattartási pont nevét, a kapcsolattartási pont feladatainak ellátását elősegítő szervezeti egység és vezetőjének megnevezését, a kapcsolattartási pont címét, elektronikus elérhetőségeit), a magyar elektronikus azonosítási rendszer leírását e rendelet hatálybalépését követően haladéktalanul meg kell küldeni a többi tagállamnak, a bejelentési űrlap-tervezetet, valamint az eIDAS-rendelet 9. cikk (1) és (5) bekezdésében említett végrehajtási jogi aktusok értelmében szükséges további dokumentumokat pedig az együttműködési hálózatnak. A kapcsolattartási pont adatainak változását a változást követő 8 napon belül meg kell küldeni az együttműködési hálózatnak.
+
+## 6. § Ez a rendelet
+
+a) a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet II. Fejezete,
+
+b) a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról szóló 910/2014/EU európai parlamenti és tanácsi rendelet 12. cikkének (7) bekezdése értelmében vett, a tagállamok által az elektronikus azonosítás területén folytatandó együttműködésre vonatkozó eljárási szabályok megállapításáról szóló, 2015. február 24-i 2015/296/EU bizottsági végrehajtási határozat

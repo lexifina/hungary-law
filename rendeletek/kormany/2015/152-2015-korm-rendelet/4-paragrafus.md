@@ -1,0 +1,1 @@
+## 3. § Az eIDAS-rendelet 12. cikk (5) és (6) bekezdése szerinti tagállami együttműködés előmozdítására létrejövő együttműködési hálózat tevékenységében a kijelölt tagállami kapcsolattartási pont vesz részt.
