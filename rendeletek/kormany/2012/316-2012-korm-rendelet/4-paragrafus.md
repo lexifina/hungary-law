@@ -1,10 +1,10 @@
-## 2. Intézményfenntartói feladat- és hatáskör
+## 2. [^4] A Főigazgatóság feladat- és hatásköre
 
-4. § (1)[^4] A Kormány a Főigazgatóságot jelöli ki
+4. § (1)[^5] A Kormány a Főigazgatóságot jelöli ki
 
 a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény alapján átvett szociális és gyermekvédelmi intézményekkel, valamint a szociális és gyermekvédelmi tevékenységet végző alapítványokkal, közalapítványokkal, gazdasági társaságokkal kapcsolatos, 9. § (1) bekezdése szerinti,
 
-b)[^5] az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvény 2. § (3) bekezdése, a 9. § (1) bekezdése és a 9/A. § (2) bekezdése szerinti
+b)[^6] az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvény 2. § (3) bekezdése, a 9. § (1) bekezdése és a 9/A. § (2) bekezdése szerinti
 
 feladatok ellátására [az a) és b) pont szerinti intézmények a továbbiakban együtt: átvett intézmények].
 
@@ -44,5 +44,6 @@ f) összegyűjti, ellenőrzi a fenntartott intézmények gazdálkodására vonat
 
 (5) A kirendeltség feladatainak ellátása során a főigazgató egyetértése szükséges az intézményi térítési díj összegének meghatározásához.
 
-[^4]: A 4. § (1) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 65. §-ával megállapított szöveg.
-[^5]: A 4. § (1) bekezdés b) pontja a 448/2013. (XI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^4]: A 2. alcím címe a 221/2015. (VIII. 7) Korm. rendelet 11. §-ával megállapított szöveg.
+[^5]: A 4. § (1) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^6]: A 4. § (1) bekezdés b) pontja a 448/2013. (XI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
