@@ -22,7 +22,7 @@ j)[^12]
 
 k)[^13]
 
-l)[^14] megállapítja az óvodáztatási támogatásra való jogosultságot,
+l)[^14]
 
 m)[^15] ellátja a törvényben vagy kormányrendeletben hatáskörébe utalt egyéb gyermekvédelmi és gyámügyi feladatokat.
 
@@ -35,6 +35,6 @@ m)[^15] ellátja a törvényben vagy kormányrendeletben hatáskörébe utalt eg
 [^11]: A 3. § (1) bekezdés i) pontját a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés h) pont ha) alpontja hatályon kívül helyezte, újonnan a 97/2013. (III. 29.) Korm. rendelet 67. §-a iktatta be.
 [^12]: A 3. § (1) bekezdés j) pontját a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés h) pont ha) alpontja hatályon kívül helyezte.
 [^13]: A 3. § (1) bekezdés új k) pontját a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése iktatta be, egyidejűleg az eredeti k) pont megjelölését m) pontra változtatta, hatályon kívül helyezte a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés h) pont ha) alpontja.
-[^14]: A 3. § (1) bekezdés l) pontját a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^14]: A 3. § (1) bekezdés l) pontját a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 29. §-a.
 [^15]: A 3. § (1) bekezdés eredeti k) pontjának megjelölését m) pontra változtatta a 173/2009. (VIII. 29.) Korm. rendelet 47. § (1) bekezdése.
 [^16]: A 3. § (2) bekezdését a 360/2010. (XII. 30.) Korm. rendelet 54. §-a hatályon kívül helyezte.
