@@ -42,33 +42,47 @@ biztosítja a déli meleg főétkezést és két további étkezést.
 
 (3a) Ha a fenntartó vagy a települési önkormányzat a gyermekétkeztetést vásárolt szolgáltatás útján biztosítja, az intézményi térítési díj megállapítása érdekében az étkeztetést biztosító szolgáltató köteles elkülönítetten kimutatni a gyermekétkeztetéssel összefüggésben felmerülő nyersanyagköltséget.
 
-(4) A gyermekétkeztetés személyi térítési díját az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg. Ha a fenntartó kizárólag a bölcsődei ellátás keretében biztosított gyermekétkeztetésre állapít meg személyi térítési díjat, a személyi térítési díj meghatározásánál a 150. § (1)–(3) bekezdését nem kell alkalmazni.
+(4) A gyermekétkeztetés személyi térítési díját az intézményvezető a (3) bekezdés szerinti napi összeg általános forgalmi adóval növelt összegének és az igénybe vett étkezések számának, valamint az (5) és (5a) bekezdésben megjelölt normatív kedvezményeknek a figyelembevételével állapítja meg. Ha a fenntartó kizárólag a bölcsődei ellátás keretében biztosított gyermekétkeztetésre állapít meg személyi térítési díjat, a személyi térítési díj meghatározásánál a 150. § (1)–(3) bekezdését nem kell alkalmazni.
 
 (4a) Ha az étkeztetési feladatot települési önkormányzat látja el, a (4) bekezdés alkalmazásában intézményvezető alatt a települési önkormányzat azon intézményének vezetőjét kell érteni, amely a gyermekétkeztetést biztosítja. Ha a kötelezett a személyi térítési díjat vitatja, illetve annak csökkentését vagy elengedését kéri, a személyi térítési díj összegéről történő értesítés kézhezvételétől számított nyolc napon belül a települési önkormányzathoz fordulhat. Ha a települési önkormányzat intézmény közreműködése nélkül biztosítja a gyermekétkeztetést, a személyi térítési díj megállapítására, annak vitatására, csökkentésére és elengedésére vonatkozó szabályokat rendeletében állapítja meg.
 
-(5) Gyermekétkeztetés esetén
+(5) A gyermekétkeztetés során az intézményi térítési díj 100%-át normatív kedvezményként kell biztosítani (a továbbiakban: ingyenes étkezés)
 
-a) a rendszeres gyermekvédelmi kedvezményben részesülő
+a) a bölcsődei ellátásban vagy óvodai nevelésben részesülő gyermek után, ha
 
-aa) bölcsődés,
+aa) rendszeres gyermekvédelmi kedvezményben részesül,
 
-ab) óvodás,
+ab) tartósan beteg vagy fogyatékos, vagy olyan családban él, amelyben tartósan beteg vagy fogyatékos gyermeket nevelnek,
 
-ac) 1–8. évfolyamon nappali rendszerű iskolai oktatásban részt vevő,
+ac) olyan családban él, amelyben három vagy több gyermeket nevelnek,
 
-ad) fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó intézményben elhelyezett, aa)–ac) alpont szerinti életkorú
+ad) olyan családban él, amelyben a szülő nyilatkozata alapján az egy főre jutó havi jövedelem összege nem haladja meg a kötelező legkisebb munkabér személyi jövedelemadóval, munkavállalói, egészségbiztosítási és nyugdíjjárulékkal csökkentett összegének 130%-át, vagy
 
-gyermek után az intézményi térítési díj 100%-át,
+ae) nevelésbe vették;
 
-b) az a) pont alá nem tartozó, rendszeres gyermekvédelmi kedvezményben részesülő gyermek és tanuló után az intézményi térítési díj 50%-át,
+b) az 1–8. évfolyamon nappali rendszerű iskolai oktatásban részt vevő tanuló után, ha
 
-c) három- vagy többgyermekes családoknál gyermekenként az intézményi térítési díj 50%-át,
+ba) rendszeres gyermekvédelmi kedvezményben részesül, vagy
 
-d) az ad) alpont alá nem tartozó, tartósan beteg vagy fogyatékos gyermek, tanuló után az intézményi térítési díj 50%-át,
+bb) nevelésbe vették;
 
-e) azon nevelésbe vett gyermek után, aki bölcsődés, óvodás vagy tanulói jogviszonyban áll és nappali rendszerű iskolai oktatásban vesz részt, valamint azon utógondozói ellátásban részesülő fiatal felnőtt után, aki tanulói jogviszonyban áll és nappali rendszerű iskolai oktatásban vesz részt, az intézményi térítési díj 100%-át
+c) azon a) és b) pont szerinti életkorú, rendszeres gyermekvédelmi kedvezményben részesülő gyermek után, akit fogyatékos gyermekek számára nappali ellátást nyújtó, az Szt. hatálya alá tartozó intézményben helyeztek el;
 
-kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: normatív kedvezmény].
+d) az 1–8. évfolyamon felül nappali rendszerű iskolai oktatásban részt vevő tanuló után, ha
+
+da) nevelésbe vették, vagy
+
+db) utógondozói ellátásban részesül.
+
+(5a) A gyermekétkeztetés során az intézményi térítési díj 50%-át normatív kedvezményként kell biztosítani (a továbbiakban: kedvezményes étkezés)
+
+a) az 1–8. évfolyamon felül nappali rendszerű iskolai oktatásban részt vevő tanuló után, ha rendszeres gyermekvédelmi kedvezményben részesül;
+
+b) az 1–8. és az azon felüli évfolyamon nappali rendszerű iskolai oktatásban részt vevő tanuló után, ha olyan családban él, amelyben három vagy több gyermeket nevelnek, feltéve, hogy az (5) bekezdés b) pont ba) alpontja alapján a tanuló nem részesül ingyenes étkezésben;
+
+c) az (5) bekezdés b) és d) pontja szerinti életkorú, tartósan beteg vagy fogyatékos gyermek után, feltéve, hogy az (5) bekezdés b)–d) pontja alapján a gyermek nem részesül ingyenes étkezésben.
+
+(5b) Az ingyenes vagy kedvezményes étkezés jogosultsági feltételeinek fennállását a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló kormányrendeletben foglaltak szerint kell igazolni.
 
 (6) A normatív kedvezmény csak egy jogcímen vehető igénybe.
 
@@ -78,7 +92,7 @@ kedvezményként kell biztosítani [az a)–e) pont a továbbiakban együtt: nor
 
 (9) A gyermek lakóhelye szerint illetékes önkormányzat, illetve – ha a gyermek nem állami fenntartású nevelési-oktatási intézményben részesül étkezésben – a nevelési-oktatási intézmény vezetője – a nem állami fenntartó által megállapított szabályok keretei között – a gyermek egyéni rászorultsága alapján további gyermekenkénti kedvezményt állapíthat meg.
 
-(10) Az (5) bekezdés c) pontja szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
+(10) Az (5) bekezdés a) pont ac) alpontja és az (5a) bekezdés b) pontja szerinti normatív kedvezmény megállapításához közös háztartásban élőként kell figyelembe venni
 
 a) a tizennyolc éven aluli,
 
@@ -87,6 +101,16 @@ b) a huszonöt évesnél fiatalabb, köznevelési intézményben nappali rendsze
 c) életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos
 
 gyermeket, kivéve a nevelőszülőnél ideiglenes hatállyal elhelyezett gyermeket, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermeket és utógondozói ellátásban részesülő fiatal felnőttet.
+
+(10a) Az (5) bekezdés a) pont ad) alpontjában meghatározott összeg számításánál – a kérelem benyújtásának időpontjában – közös háztartásban élő családtagként kell figyelembe venni az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező
+
+a) szülőt, a szülő házastársát vagy élettársát,
+
+b) (10) bekezdés szerinti gyermeket,
+
+c) az a) és b) pontba nem tartozó, a Ptk. családjogra irányadó szabályai alapján a szülő vagy házastársa által eltartott rokont.
+
+(10b) A családbafogadó gyám a saját és a gyámsága alatt álló gyermek tekintetében is kérheti az ingyenes vagy kedvezményes étkezésre való jogosultság megállapítását, ha az (5) vagy (5a) bekezdésben meghatározott feltételek valamelyik gyermek tekintetében fennállnak. Az (5) bekezdés a) pont ac) alpontja és az (5a) bekezdés b) pontja szerinti esetben a családbafogadó gyám saját gyermekeinek és a gyámsága alatt álló gyermekeknek a számát össze kell adni. A (10a) bekezdés alkalmazásában szülő alatt a családbafogadó gyámot is érteni kell.
 
 (11) A normatív kedvezményt a tanuló után a nappali rendszerű oktatásban való részvétele befejezéséig kell biztosítani.
 

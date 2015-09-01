@@ -4,6 +4,4 @@
 
 (3) A 2013. szeptember 1-jén utógondozói ellátásban részesülő, tanulói vagy hallgatói jogviszonyban álló fiatal felnőtt halmozottan hátrányos helyzetét a fiatal felnőtt kérelmére, annak hiányában hivatalból legkésőbb 2014. január 31-éig meg kell állapítani.
 
-(4) A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvény 29. §-ával megállapított 20/C. §-t a 2013. augusztus 31-ét követően óvodáztatási támogatás megállapítása iránt indult új ügyekben és a 2013. szeptember 1-jét megelőzően megállapított óvodáztatási támogatásnak a 2014. szeptember 1-jét követően esedékes, további alkalommal történő folyósítására kell alkalmazni.
-
-(5) A települési önkormányzat jegyzője a 2013. szeptember 1-jét megelőzően megállapított óvodáztatási támogatásra való jogosultsággal rendelkező személyeket legkésőbb 2013. december 31-éig levélben tájékoztatja a további óvodáztatási támogatás folyósításának 2013. szeptember 1-jétől hatályos szabályairól, valamint a halmozottan hátrányos helyzet megállapítására vonatkozó rendelkezésekről.
+(4)–(5)

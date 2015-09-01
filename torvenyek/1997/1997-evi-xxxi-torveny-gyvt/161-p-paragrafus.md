@@ -1,1 +1,1 @@
-161/P. § A szociális és gyermekvédelmi tárgyú törvények Magyary Egyszerűsítési Programmal összefüggő módosításáról, valamint egyéb törvények módosításáról szóló 2013. évi XXVII. törvény 28. §-ával megállapított 20/C. §-t a 2013. március 31-ét követően indult ügyekben és a 2013. április 1-jét megelőzően megállapított óvodáztatási támogatásnak a 2013. március 31-ét követően esedékes, további alkalommal történő folyósítására kell alkalmazni.
+161/P. §

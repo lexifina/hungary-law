@@ -1,19 +1,19 @@
-68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
+68/A. § (1) A gyámhatóság a Cst. 15. § (1) bekezdés b) pontja szerinti esetben kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetését és elrendeli a 16. életévét be nem töltött, védelembe vétel hatálya alatt nem álló gyermek védelembe vételét.
 
-(2) A gyámhatóság az iskoláztatási támogatás szüneteltetésének szükségességét
+(2) A gyámhatóság
 
-a) három tanítási hónapot magában foglaló időszakonként, és
+a) három nevelési hónapot vagy tanítási hónapot magában foglaló időszakonként, és
 
-b) a tanítási év lezárását követő 15 napon belül, feltéve, hogy az iskoláztatási támogatás szüneteltetésének kezdő időpontja vagy az utolsó felülvizsgálat óta legalább egy hónap eltelt
+b) – feltéve, hogy a családi pótlék szüneteltetésének kezdő időpontja vagy az utolsó felülvizsgálat óta legalább egy hónap eltelt – a nevelési év vagy tanítási év lezárását követő 15 napon belül
 
-felülvizsgálja.
+felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
-(3) A gyámhatóság a (2) bekezdés szerinti felülvizsgálati eljárás eredményeként, ha a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban ötnél több kötelező tanórai foglalkozást igazolatlanul
+(3) Ha a gyámhatóság a (2) bekezdés szerinti felülvizsgálati eljárás eredményeként azt állapítja meg, hogy a gyermek (fiatal felnőtt) a felülvizsgálattal érintett időszakban háromnál több óvodai nevelési napot, illetve ötnél több kötelező tanórai foglalkozást igazolatlanul
 
-a) mulasztott, megállapítja, hogy az iskoláztatási támogatás szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
+a) mulasztott, egyidejűleg megállapítja, hogy a családi pótlék szüneteltetése megszüntetéséhez szükséges feltétel nem áll fenn,
 
-b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetésének megszüntetését.
+b) nem mulasztott, kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetésének megszüntetését.
 
-(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a fővárosi és megyei kormányhivatalnál az iskoláztatási támogatás szüneteltetésének megszüntetését, ha a gyermek (fiatal felnőtt) nevelőszülőnél, gyermekotthonban, szociális intézményben történő elhelyezésére került sor, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
+(4) A gyámhatóság a (3) bekezdés b) pontjában foglaltakon túl kezdeményezi a fővárosi és megyei kormányhivatalnál a családi pótlék szüneteltetésének megszüntetését, ha a gyermeket (fiatal felnőttet) nevelőszülőnél, gyermekotthonban vagy szociális intézményben helyezték el, vagy a gyermekvédelmi gondoskodás alatt álló gyermek (fiatal felnőtt) javítóintézetbe, büntetés-végrehajtási intézetbe került.
 
 (5) A gyámhatóságnak a (3) bekezdés b) pontja és (4) bekezdés szerinti intézkedése ellen nincs helye fellebbezésnek.

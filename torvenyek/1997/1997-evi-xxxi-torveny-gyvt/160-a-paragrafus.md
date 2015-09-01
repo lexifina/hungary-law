@@ -1,1 +1,1 @@
-160/A. § A 2008. évi XXXI. törvény 15. §-ával megállapított, a Gyvt. 20/C. §-ában foglalt pénzbeli támogatás az új jelentkezők részére első ízben annak a szülőnek folyósítható, aki harmadik, illetve negyedik életévét betöltött gyermekét 2009. január 1-jét követően íratta be az óvodába. Azoknak az érintett körbe tartozó szülőknek, akik három-, illetve négyéves, gyermeküket 2009. január 1-je előtt már beíratták az óvodába, első alkalommal 2009 júniusában tízezer forintot kell folyósítani.
+160/A. §
