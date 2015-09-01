@@ -10,7 +10,13 @@ a) a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: s
 
 b)
 
-c) a nemzeti felsőoktatási rendszerről szóló törvényben meghatározott, az államilag támogatott létszám tekintetében a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlat támogatása (a továbbiakban: gyakorlatigényes alapképzési szak),
+c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvényben (a továbbiakban: Nftv.) meghatározott, az államilag támogatott létszám tekintetében
+
+ca) a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlat (a továbbiakban: gyakorlatigényes alapképzési szak),
+
+cb) a duális képzés keretében szervezett gyakorlati képzés (a továbbiakban: duális képzés)
+
+támogatása,
 
 d)
 

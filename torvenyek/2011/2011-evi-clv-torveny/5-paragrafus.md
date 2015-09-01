@@ -12,7 +12,13 @@ folytatott gyakorlati képzés – ideértve a szorgalmi idő befejezését köv
 
 b)
 
-c) az államilag támogatott létszám tekintetében a gyakorlatigényes alapképzési szak keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső képzőhelyen, a hallgatóval kötött hallgatói munkaszerződés alapján kerül sor,
+c) az államilag támogatott létszám tekintetében
+
+ca) gyakorlatigényes alapképzési szak vagy
+
+cb) duális képzés
+
+keretében szervezett szakmai gyakorlattal, ha a szakmai gyakorlatra külső képzőhelyen, a hallgatóval kötött munkaszerződés alapján kerül sor,
 
 d) a hozzájárulásra kötelezett saját munkavállalói számára a felnőttképzésről szóló törvényben meghatározott felnőttképzési szerződés és a munka törvénykönyvéről szóló törvény szerinti tanulmányi szerződés vagy a tanulmányok folytatására történő munkáltatói kötelezés alapján megszervezett szakmai vagy nyelvi képzés – ide nem értve a hatósági jellegű képzéseket – jogszabályban meghatározott költségeivel,
 
