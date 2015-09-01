@@ -1,4 +1,4 @@
-6. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^25]
+6. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^29]
 
 NYILATKOZAT
 
@@ -92,4 +92,4 @@ A jövedelemszámítás szabályai
 
 9. A családban az egy főre jutó havi jövedelem összegének kiszámítása: a család összes nettó jövedelme [a 2. pont szerinti személyek 3. pont szerinti jövedelmének együttes összege] csökkentve a fizetett gyermektartásdíj összegével, majd osztva a jövedelemszámításnál figyelembe veendő személyek számával [2. pont].
 
-[^25]: A 6. mellékletet a 190/2015. (VII. 20.) Korm. rendelet 7. §-a iktatta be.
+[^29]: A 6. mellékletet a 190/2015. (VII. 20.) Korm. rendelet 7. §-a iktatta be.
