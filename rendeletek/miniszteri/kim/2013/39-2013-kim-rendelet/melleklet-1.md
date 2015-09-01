@@ -12,7 +12,7 @@ b) MS Windows XP vagy későbbi verzió, vagy LINUX operációs rendszer,
 
 c) 1 darab nagyméretű LCD monitor (minimum 26”),
 
-d)[^3] 1 darab legalább 9.5”-os táblaszámítógép (több profilt kezelni képes szabad felhasználású operációs rendszer/min. Android v4.2/, NFC támogatás, beleértve az NFC read/write mód támogatását, lopás elleni rögzítés),
+d)[^7] 1 darab legalább 9.5”-os táblaszámítógép (több profilt kezelni képes szabad felhasználású operációs rendszer/min. Android v4.2/, NFC támogatás, beleértve az NFC read/write mód támogatását, lopás elleni rögzítés),
 
 e) IVÜSZ szolgáltatáshoz web-kamera és headset.
 
@@ -40,7 +40,7 @@ e) NTG hálózaton belüli zárt, IP telefon rendszer és készülékek,
 
 f) védett WIFI hálózat legalább az ügyfélfogadást végző munkahelyeket lefedve (beleértve a potenciálisan ügyfélfogadásra bevont helyeket is),
 
-g)[^4] legalább 1 darab A3 formátumot előállítani képes nagy teljesítményű hálózati multifunkciós nyomtató, MS Windows és LINUX operációs rendszer támogatással,
+g)[^8] legalább 1 darab A3 formátumot előállítani képes nagy teljesítményű hálózati multifunkciós nyomtató, MS Windows és LINUX operációs rendszer támogatással,
 
 h) ügyfélhívó rendszer (a legalább 5 kiszolgáló munkahellyel rendelkező kormányablak esetében).
 
@@ -80,5 +80,5 @@ b) ügyfél-elégedettség mérés,
 
 c) elektronikus fizetés.
 
-[^3]: Az 1. melléklet 1. pont d) alpontja a 8/2014. (II. 12.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 1. melléklet 4. pont g) alpontja a 8/2014. (II. 12.) KIM rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 1. pont d) alpontja a 8/2014. (II. 12.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 1. melléklet 4. pont g) alpontja a 8/2014. (II. 12.) KIM rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.
