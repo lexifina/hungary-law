@@ -62,4 +62,8 @@ A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozó
 
 | 24. | Egységes örökbefogadási nyilvántartás | Nemzeti Rehabilitációs és Szociális Hivatal | elektronikus adatfeldolgozás | kötelező |
 
-[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24–25. §-a, az 513/2013. (XII. 29.) Korm. rendelet 32. §-a, a 221/2014. (IX. 4.) Korm. rendelet 556. §-a, a 70/2015. (III. 30.) Korm. rendelet 171. §-a, a 183/2015. (VII. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
+| 25. | természetes személyek közhiteles országos adósságrendezési nyilvántartása, az adósságrendezési eljárással összefüggő hirdetményi rendszer | Magyar Közlöny Lap- és Könyvkiadó Kft. | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+
+| 26. | természetes személyek adósságrendezési eljárásával összefüggő nyomtatványellenőrzési és nyomtatványkitöltő informatikai rendszer | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | elektronikus adatfeldolgozás | az adatkezelő döntésétől függő |
+
+[^1]: A melléklet a 404/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, a 43/2013. (II. 19.) Korm. rendelet 24–25. §-a, az 513/2013. (XII. 29.) Korm. rendelet 32. §-a, a 221/2014. (IX. 4.) Korm. rendelet 556. §-a, a 70/2015. (III. 30.) Korm. rendelet 171. §-a, a 183/2015. (VII. 10.) Korm. rendelet 1. §-a, a 218/2015. (VIII. 6.) Korm. rendelet 4. §-a szerint módosított szöveg.
