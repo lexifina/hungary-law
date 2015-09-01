@@ -1,6 +1,6 @@
 88. § (1) A miniszter a külgazdasági ügyekért való felelőssége keretében előkészíti a nemzetközi fejlesztési együttműködésre vonatkozó jogszabályokat.
 
-(2)[^52] A miniszter a külgazdasági ügyekért való felelőssége keretében
+(2)[^55] A miniszter a külgazdasági ügyekért való felelőssége keretében
 
 a) kialakítja a Kormány külgazdasági politikáját,
 
@@ -28,4 +28,4 @@ h) koordinálja az Európai Duna Stratégiával kapcsolatos kormányzati feladat
 
 i) felel a külgazdasági diplomata hálózat irányításáért, kezdeményezi a szakdiplomaták kinevezését és felmentését.
 
-[^52]: A 88. § (2) bekezdése az 1/2015. (I. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^55]: A 88. § (2) bekezdése az 1/2015. (I. 15.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 27. § A miniszter a határrendészetért való felelőssége keretében előkészíti az államhatár őrizetére és a határforgalom ellenőrzésére vonatkozó jogszabályokat.
 
-28. § (1)[^23] A miniszter a helyi önkormányzatokért való felelőssége keretében – jogszabályban meghatározott tárgykörben e rendelet szerinti miniszterrel együttműködve – előkészíti a helyi önkormányzatokra, a helyi önkormányzatok tulajdonára és vagyonára, a helyi önkormányzatok adósságrendezésére és a helyi önkormányzati képviselők és polgármesterek jogállására vonatkozó jogszabályokat.
+28. § (1)[^24] A miniszter a helyi önkormányzatokért való felelőssége keretében – jogszabályban meghatározott tárgykörben e rendelet szerinti miniszterrel együttműködve – előkészíti a helyi önkormányzatokra, a helyi önkormányzatok tulajdonára és vagyonára, a helyi önkormányzatok adósságrendezésére és a helyi önkormányzati képviselők és polgármesterek jogállására vonatkozó jogszabályokat.
 
 (2) A miniszter a helyi önkormányzatokért való felelőssége keretében
 
@@ -16,7 +16,7 @@ e) közreműködik az ágazati és térségi fejlesztési programok helyi önkor
 
 f) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás és egyeztetés rendjét,
 
-g)[^24] az önkormányzati érdekszövetségek javaslatának kikérését követően a 9. § (2) bekezdés c) pontjának figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait.
+g)[^25] az önkormányzati érdekszövetségek javaslatának kikérését követően a 9. § (2) bekezdés c) pontjának figyelembevételével kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait.
 
-[^23]: A 28. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 821. §-ával megállapított szöveg.
-[^24]: A 28. § (2) bekezdés g) pontját a 167/2014. (VII. 17.) Korm. rendelet 13. §-a iktatta be.
+[^24]: A 28. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 821. §-ával megállapított szöveg.
+[^25]: A 28. § (2) bekezdés g) pontját a 167/2014. (VII. 17.) Korm. rendelet 13. §-a iktatta be.
