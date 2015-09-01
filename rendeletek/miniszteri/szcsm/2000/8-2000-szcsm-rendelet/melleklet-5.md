@@ -50,4 +50,4 @@
 
 5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^20]
 
-[^20]: Az 5. számú melléklet a 24/2010. (XII. 30.) NEFMI rendelet 5. §-a szerint módosított szöveg.
+[^20]: Az 5. számú melléklet a 39/2015. (VIII. 28.) EMMI rendelet 4. §-a szerint módosított szöveg.
