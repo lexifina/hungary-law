@@ -12,7 +12,7 @@
 
 ## e) érzékszervek működésének vizsgálata:
 
-## ea) hallás vizsgálata,
+## ea)[^35] hallás objektív vizsgálata,
 
 ## eb) látás vizsgálata,
 
@@ -60,7 +60,7 @@
 
 ## i) korai fogászati szűrés és gondozás.
 
-## 4. 6–18 év között kétévente[^35]:
+## 4. 6–18 év között kétévente[^36]:
 
 ## a) teljes fizikális vizsgálat,
 
@@ -68,7 +68,7 @@
 
 ## c) az anamnézis alapján veszélyeztetett gyerekek kiszűrése, szükség esetén szakorvosi vizsgálatra irányítása,
 
-## d)[^36] pajzsmirigy tapintásos vizsgálata 4. évfolyamtól,
+## d)[^37] pajzsmirigy tapintásos vizsgálata 4. évfolyamtól,
 
 ## e) a testmagasság, testtömeg, a testi fejlettség és tápláltsági állapot hazai standardok szerinti értékelése, a nemi fejlődés értékelése,
 
@@ -76,7 +76,7 @@
 
 ## g) érzékszervek működésének vizsgálata a szakmai irányelveknek megfelelően, a színlátás vizsgálata,
 
-## h)[^37] mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre,
+## h)[^38] mozgásszervek vizsgálata: különös tekintettel a lábstatikai problémákra és a gerinc-rendellenességekre,
 
 ## i) vérnyomásmérés,
 
@@ -100,14 +100,15 @@
 
 ## h) vérnyomásmérés,
 
-## i)[^38] pajzsmirigy tapintásos vizsgálata.
+## i)[^39] pajzsmirigy tapintásos vizsgálata.
 
 ## A családi anamnézis, a teljes körű fizikális vizsgálat eredményei alapján, amennyiben a szakorvos indokoltnak tartja, célzott vizsgálatok végzése szükséges.
 
-2. számú melléklet az 51/1997. (XII. 18.) NM rendelethez[^39]
+2. számú melléklet az 51/1997. (XII. 18.) NM rendelethez[^40]
 
-[^35]: Amennyiben a vizsgálat éve egybeesik a 16 éves kori záró állapotvizsgálattal, abban az esetben a két vizsgálatot összevontan kell elvégezni.
-[^36]: Az 1. számú melléklet 4. pont d) alpontja a 19/2010. (IV. 22.) EüM rendelet 3. § (5) bekezdése szerint módosított szöveg.
-[^37]: Az 1. számú melléklet 4. pont h) alpontja a 19/2010. (IV. 22.) EüM rendelet 4. §-a szerint módosított szöveg.
-[^38]: Az 1. számú melléklet 5. pont i) alpontját a 19/2010. (IV. 22.) EüM rendelet 3. § (4) bekezdése iktatta be.
-[^39]: A melléklet eredeti szövege II. fejezetének megjelölését 2. számú mellékletre változtatta a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének b) és d) pontja.
+[^35]: Az 1. számú melléklet 1. pont e) pont ea) alpontja a 16/2015. (III. 30.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^36]: Amennyiben a vizsgálat éve egybeesik a 16 éves kori záró állapotvizsgálattal, abban az esetben a két vizsgálatot összevontan kell elvégezni.
+[^37]: Az 1. számú melléklet 4. pont d) alpontja a 19/2010. (IV. 22.) EüM rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^38]: Az 1. számú melléklet 4. pont h) alpontja a 19/2010. (IV. 22.) EüM rendelet 4. §-a szerint módosított szöveg.
+[^39]: Az 1. számú melléklet 5. pont i) alpontját a 19/2010. (IV. 22.) EüM rendelet 3. § (4) bekezdése iktatta be.
+[^40]: A melléklet eredeti szövege II. fejezetének megjelölését 2. számú mellékletre változtatta a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének b) és d) pontja.
