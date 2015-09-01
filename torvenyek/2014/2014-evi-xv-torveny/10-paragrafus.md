@@ -44,7 +44,7 @@ n) az állami adóhatóság igazolását arról, hogy a kérelmező köztartozá
 
 o) a kérelmező székhelye és a helyi adókról szóló törvény szerinti telephelye szerinti önkormányzati adóhatóság által a részére kiállított 30 napnál nem régebbi nemleges adóigazolást,
 
-p) a Magyar Bírósági Végrehajtói Kamara által kiállított tanúsítványt arról, hogy a kérelmező a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel,
+p) a Magyar Bírósági Végrehajtói Kar által kiállított tanúsítványt arról, hogy a kérelmező a végrehajtási ügyek nyilvántartásában végrehajtási eljárás adósaként nem szerepel,
 
 q) a kérelmező vezető állású személyének, természetes személy tagjának, munkavállalójának bővített tartalmú (a foglalkozástól, a közügyektől való eltiltást is tartalmazó) hatósági erkölcsi bizonyítványát,
 

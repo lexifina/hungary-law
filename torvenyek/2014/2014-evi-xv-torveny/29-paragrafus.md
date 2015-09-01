@@ -12,7 +12,9 @@ d) nemzetbiztonsági szolgálat,
 
 e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, és
 
-f) a pénzügyi információs egységként működő hatóság
+f) a pénzügyi információs egységként működő hatóság,
+
+g) a természetes személyek adósságrendezése során a főhitelező, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő
 
 ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellátásához szükséges mértékben és ideig kezelhetnek.
 
