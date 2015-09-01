@@ -1,6 +1,6 @@
 ## 7. A hiteladós és a zálogkötelezett visszavásárlási joga
 
-10. § (1) A Nemzeti Eszközkezelő az adásvételi szerződés megkötésével egyidejűleg a hiteladós vagy – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezett javára visszavásárlási jogot enged, amelyet a hiteladós vagy a zálogkötelezett a tulajdonjog-bejegyzés ranghelyének alapjául szolgáló kérelem iktatási dátumát követő hatodik hónap első napjától a tulajdonjog-bejegyzés ranghelyének alapjául szolgáló kérelem iktatási dátumát követő hatvanadik hónap utolsó napjáig gyakorolhat.
+10. § (1) A Nemzeti Eszközkezelő az adásvételi szerződés megkötésével egyidejűleg a hiteladós vagy – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezett javára visszavásárlási jogot enged, amelyet a hiteladós vagy a zálogkötelezett a tulajdonjog-bejegyzés ranghelyének alapjául szolgáló kérelem iktatási dátumát követő hatodik hónap első napjától a tulajdonjog-bejegyzés ranghelyének alapjául szolgáló kérelem iktatási dátumát követő hetvenkettedik hónap utolsó napjáig gyakorolhat.
 
 (2) A visszavásárlási jog a hiteladóst vagy – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet akkor is megilleti, ha a lakóingatlan a települési önkormányzat tulajdonába kerül. A települési önkormányzat tulajdonába került lakóingatlan esetében a visszavásárlási jogot a hiteladós vagy a zálogkötelezett a települési önkormányzattal szemben gyakorolhatja.
 

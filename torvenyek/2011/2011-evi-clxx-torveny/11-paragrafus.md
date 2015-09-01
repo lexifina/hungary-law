@@ -20,4 +20,4 @@ d) azon személyek nevét és születési időpontját, akiknek a nyilvántartá
 
 e) a felajánlott tulajdoni hányadnak megfelelő ingatlanrész kizárólagos használatára vonatkozó megállapodást és annak mellékletét, ha a felajánlott lakóingatlan az ingatlan-nyilvántartás szerint közös tulajdonban áll,
 
-f) a hiteladós – illetve, ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezett – méltányossági kérelmét, ha a lakóingatlan megvásárlását méltányosságból kéri.
+f)

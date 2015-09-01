@@ -1,5 +1,5 @@
 12. § (1) A pénzügyi intézmény a szándéknyilatkozat benyújtásától számított 8 napon belül megvizsgálja, hogy a 8. § (1) bekezdés a)–h) pontjában meghatározott feltételek fennállnak-e, és erről a hiteladóst, valamint ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettet írásban tájékoztatja.
 
-(1a) Ha a pénzügyi intézmény az (1) bekezdés szerinti vizsgálat során megállapítja, hogy a 8. § (1) bekezdés a)–g) pontjában meghatározott valamely feltétel vagy az 1. § d) pontjának a tartozás késedelmére vonatkozó feltétele nem teljesül és a hiányok pótlására nincs mód, felhívja a hiteladóst és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet a méltányossági kérelem benyújtásának lehetőségére.
+(1a)
 
 (2) A pénzügyi intézmény a szándéknyilatkozat benyújtásától számított legkésőbb 30 napon belül dönt arról, hogy a lakóingatlan tulajdonjogának átruházásához előzetes elvi hozzájárulását adja. Ha a pénzügyi intézmény a tulajdonjog átruházásához nem járul hozzá, erről haladéktalanul tájékoztatja a hiteladóst, és – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezettet.

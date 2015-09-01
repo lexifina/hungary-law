@@ -12,7 +12,7 @@
 
 (4) A Nemzeti Eszközkezelő
 
-a) alapítására és működésére a gazdasági társaságokról szóló törvényt,
+a) alapítására és működésére a gazdasági társaságokra vonatkozó jogszabályokat,
 
 b) az állami vagyonnal való gazdálkodására az állami vagyonról szóló törvényt
 

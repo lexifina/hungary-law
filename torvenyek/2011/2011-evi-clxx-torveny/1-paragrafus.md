@@ -12,7 +12,7 @@ b) életjáradék nyújtója: életjáradéki szerződés megkötésével üzlet
 
 c) háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
 
-d) hiteladós: az a természetes személy, akinek pénzügyi intézménnyel szemben jelzáloghitel-szerződésből eredő lejárt és nem teljesített fizetési kötelezettségéből a mindenkori kötelező legkisebb munkabér havi összegének kétszeresét, és 2013. január 1-jén száznyolcvan napot elérő vagy meghaladó késedelmes tartozása áll fenn, ideértve a 2013. január 1-jét megelőzően áthidaló kölcsön nyújtásával finanszírozott jelzáloghitel-szerződésből eredő késedelmes tartozást is, ha az áthidaló kölcsönszerződésből eredő tartozás 2013. január 1-jén fennállt,
+d) hiteladós: az a természetes személy, akinek pénzügyi intézménnyel szemben jelzáloghitel-szerződésből eredő lejárt és nem teljesített fizetési kötelezettségéből a mindenkori kötelező legkisebb munkabér havi összegének kétszeresét elérő vagy meghaladó, és 2015. január 1-jén száznyolcvan napot elérő vagy meghaladó késedelmes tartozása áll fenn, ideértve a 2015. január 1-jét megelőzően áthidaló kölcsön nyújtásával finanszírozott jelzáloghitel-szerződésből eredő késedelmes tartozást is ha az áthidaló kölcsönszerződésből eredő tartozás 2015. január 1-jén fennállt,
 
 e) hitelező: az a pénzügyi intézmény és pénzügyi intézménynek nem minősülő jogosult, akinek javára a lakóingatlanon jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
 
