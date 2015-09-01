@@ -24,7 +24,7 @@ e) a jelölt nyilatkozatát az Fgytv. 24/A. §-a szerinti függetlenség, párta
 
 f)[^13] a jelölt nyilatkozatát arról, hogy a jelölést megelőző három év során állt-e, és milyen időtartamban állt munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban az őt jelölő egyesülettel vagy annak tagjával.
 
-g)[^14]
+g)[^14] a jelölt életkorát igazoló hatósági igazolvány másolatát.
 
 [^8]: A 3/A. §-t a 131/2010. (IV. 21.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 182/2011. (IX. 2.) Korm. rendelet 10. § (1) bekezdés a) pontja.
 [^9]: A 4. § (1) bekezdés nyitó szövegrésze a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés d) pontja szerint módosított szöveg.
@@ -32,4 +32,4 @@ g)[^14]
 [^11]: A 4. § (2) bekezdés b) pontja a 182/2011. (IX. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^12]: A 4. § (2) bekezdés d) pontja a 152/2010. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 314/2011. (XII. 23.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^13]: A 4. § (2) bekezdés f) pontja a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés e) pontja szerint módosított szöveg.
-[^14]: A 4. § (2) bekezdés g) pontját a 182/2011. (IX. 2.) Korm. rendelet 10. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^14]: A 4. § (2) bekezdés g) pontját a 182/2011. (IX. 2.) Korm. rendelet 10. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 306/2012. (X. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.

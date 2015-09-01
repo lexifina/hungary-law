@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-215-20-
 | 2011-09-05 | 2008-215-20-22.3 | 182/2011. (IX. 2.) Korm. rendelet |
 | 2012-01-01 | 2008-215-20-22.4 | 182/2011. (IX. 2.) Korm. rendelet |
 | 2012-11-03 | 2008-215-20-22.5 | 306/2012. (X. 29.) Korm. rendelet |
+| 2015-09-01 | 2008-215-20-22.6 | 306/2012. (X. 29.) Korm. rendelet |

@@ -1,4 +1,4 @@
-11/A. §[^38] (1) A békéltető testületi tagnak jelölt személy az elnöknek a kijelölési eljárás szabályait, illetve a jogát vagy jogos érdekét sértő intézkedése ellen vagy intézkedésének elmulasztása miatt, továbbá a tag jelölésére javaslatot tett fogyasztóvédelmi egyesület, illetve a tagot kijelelő megyei (fővárosi) kereskedelmi és iparkamara vagy megyei (fővárosi) agrárkamara az elnöknek a kijelölési eljárás szabályait sértő intézkedése ellen vagy intézkedésének elmulasztása miatt kifogást terjeszthet elő.
+11/A. §[^30] (1) A békéltető testületi tagnak jelölt személy az elnöknek a kijelölési eljárás szabályait, illetve a jogát vagy jogos érdekét sértő intézkedése ellen vagy intézkedésének elmulasztása miatt, továbbá a tag jelölésére javaslatot tett fogyasztóvédelmi egyesület, illetve a tagot kijelelő megyei (fővárosi) kereskedelmi és iparkamara vagy megyei (fővárosi) agrárkamara az elnöknek a kijelölési eljárás szabályait sértő intézkedése ellen vagy intézkedésének elmulasztása miatt kifogást terjeszthet elő.
 
 (2) A kifogást a sérelmezett intézkedésről való tudomásszerzéstől számított nyolc napon belül, de legfeljebb az új testület megalakulásáig kell előterjeszteni az elnöknél, aki azt – a kifogásolt intézkedésre vagy mulasztásra vonatkozó nyilatkozatával és iratokkal együtt – három napon belül továbbítja a fogyasztóvédelemért felelős miniszternek.
 
@@ -6,4 +6,4 @@
 
 (4) A tanács a kifogást tizenöt munkanapon belül vizsgálja meg. A tanács tagjai a kifogás vizsgálata során nem utasíthatóak. Ha a tanács megállapítja e rendelet megsértését, a kijelölési eljárás kifogással érintett szakaszát érvénytelenné nyilvánítja, és a kifogással érintett elnököt annak megismétlésére, illetve a leghatékonyabb intézkedés foganatosítására hívja fel, aminek a kifogással érintett elnök haladéktalanul köteles eleget tenni. A tanács az alaptalan kifogást elutasítja. A tanács tagjai a kifogás vizsgálata során tudomásukra jutott adatok tekintetében titoktartásra kötelesek.
 
-[^38]: A 11/A. §-t a 306/2012. (X. 29.) Korm. rendelet 3. § (6) bekezdése iktatta be.
+[^30]: A 11/A. §-t a 306/2012. (X. 29.) Korm. rendelet 3. § (6) bekezdése iktatta be.

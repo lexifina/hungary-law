@@ -1,4 +1,4 @@
-3. § (1)[^4] Az új testület tagjainak kijelölését a fogyasztói érdekek képviseletét ellátó egyesületek (a továbbiakban: fogyasztóvédelmi egyesületek) általi kijelölés tekintetében hirdetmény közzétételével, a megyei (fővárosi) kereskedelmi és iparkamara, valamint a megyei (fővárosi) agrárkamara (a továbbiakban együtt: kamarák) általi kijelölés tekintetében pedig felhívás kibocsátásával kell kezdeményezni.
+3. § (1)[^4] Az új testület tagjainak kijelölését a fogyasztói érdekek képviseletét ellátó egyesületek (a továbbiakban: fogyasztóvédelmi egyesületek) általi kijelölés tekintetében hirdetmény közzétételével, a kamarák általi kijelölés tekintetében pedig felhívás kibocsátásával kell kezdeményezni.
 
 (2)[^5] A testület illetékességi területén működő fogyasztóvédelmi egyesületeket legalább egy megyei (fővárosi) napilapban közzétett hirdetményben kell jelölésre felhívni, megjelölve egyúttal a testületbe általuk kijelölendő összes tagok, valamint azon belül a jogász szakképzettséggel rendelkező tagok minimális és az általános öregségi nyugdíjkorhatárt betöltött tagok maximális számát. A hirdetményt a békéltető testületek honlapján, valamint a fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján is közzé kell tenni.
 
@@ -6,7 +6,7 @@
 
 (4)[^7] A fogyasztóvédelmi egyesületek jelölésre vonatkozó javaslatait a hirdetmény megyei (fővárosi) napilapban történő közzétételétől számított harminc napon belül, a kamarák általi kijelölést a felhívás kézhezvételétől számított negyvenöt napon belül kell írásban benyújtani az elnökhöz. Határidőben benyújtottnak minősül a határidő utolsó napján postára adott javaslat, illetve kijelölés is.
 
-[^4]: A 3. § (1) bekezdése a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés a)–b) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés a)–b) és i) pontja szerint módosított szöveg.
 [^5]: A 3. § (2) bekezdése a 182/2011. (IX. 2.) Korm. rendelet 3. §-ával megállapított, a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés c) és j) pontja szerint módosított szöveg.
 [^6]: A 3. § (3) bekezdése a 182/2011. (IX. 2.) Korm. rendelet 3. §-ával megállapított, a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés j) pontja szerint módosított szöveg.
 [^7]: A 3. § (4) bekezdése a 131/2010. (IV. 21.) Korm. rendelet 11. § a) pontja, a 306/2012. (X. 29.) Korm. rendelet 3. § (8) bekezdés b) pontja szerint módosított szöveg.
