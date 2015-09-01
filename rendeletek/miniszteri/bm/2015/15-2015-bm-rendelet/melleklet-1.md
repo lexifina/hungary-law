@@ -76,25 +76,25 @@ B) Rendvédelmi szervek
 
 1.2.4.[^2] a Bűnügyi Főigazgatóság Bűnügyi Főosztály Bűnügyi Osztálya, a Korrupció és Gazdasági Bűnözés Elleni Osztály, a Bűnügyi Elemző-Értékelő Főosztály Bűnügyi Adatkezelési és Alkalmazás Felügyeleti Osztálya valamennyi munkaköre
 
-1.2.5. Bűnügyi Technikai Osztály hivatásos munkakörei, a Bűnügyi Koordinációs Osztály vezetője és helyettese, a Budapesti Rendőr-főkapitányság Hivatala Titokvédelmi, Ügykezelési és Kártérítési Osztály vezetője
+1.2.5.[^3]
 
 1.2.6. a Rendészeti Főigazgatóság Határrendészeti Főosztály Dokumentációs Osztály valamennyi munkaköre, a FRONTEX nemzeti kapcsolattartási pontot működtető munkakör, az EU döntéshozatali mechanizmusában részvételre kijelölt rendőrségi szakértő, a munkavégzése során védelmi igazgatási feladatokat ellátó munkakör, az Ügyeleti Főosztály hivatásos munkakörei
 
 1.2.7. az Ellenőrzési Szolgálat valamennyi munkaköre
 
-1.3. a Készenléti Rendőrség munkakörei közül
+1.3.[^4] a Készenléti Rendőrség munkakörei közül
 
 1.3.1. a főosztályvezetői és az azzal azonos jogállású beosztást betöltők, valamint a helyettesítésükkel megbízott vezetői beosztást betöltők
 
-1.3.2. a Személy- és Objektumvédelmi Igazgatóságon a Személyvédelmi Főosztály és a Megelőző-Védelmi Osztály valamennyi munkaköre
+1.3.2. a Személy- és Objektumvédelmi Igazgatóságon a Személyvédelmi Főosztály és a Megelőző és Tanúvédelmi Osztály valamennyi munkaköre
 
-1.3.3. a Különleges Szolgálatok Igazgatóságán a Tanúvédelmi Szolgálat valamennyi munkaköre
+1.3.3. a Különleges Szolgálatok Igazgatóságán a Bevetési Főosztály III. Bevetést Támogató Osztály valamennyi munkaköre
 
 1.3.4. a Nemzeti Nyomozó Iroda valamennyi munkaköre
 
-1.3.5.[^3] a Gazdasági Ellátó Központban a közbeszerzési és EU pályázati eljárásban résztvevő munkakör és a leltározási feladatokat ellátó munkakör
+1.3.5. a Köztársasági Elnöki Őrség valamennyi munkaköre
 
-1.3.6.[^4] a Kiemelt Ügyeket Felderítő Főosztály valamennyi munkaköre
+1.3.6. a Kiemelt Ügyeket Felderítő Főosztály valamennyi munkaköre
 
 1.4. a Repülőtéri Rendőr Igazgatóság munkakörei közül
 
@@ -116,11 +116,11 @@ B) Rendvédelmi szervek
 
 1.7.2. a Budapesti Rendőr-főkapitányság főosztályvezetői és az azzal azonos jogállású beosztást betöltők, valamint a helyettesítésükkel megbízott vezetői beosztást betöltők munkaköre
 
-1.7.3. a Budapesti Rendőr-főkapitányság Bűnügyi Szervek Korrupciós és Gazdasági Bűnözés Elleni Főosztály, a Felderítő Főosztály, az Értékelő Osztály, valamint a Bűnügyi Bevetési Osztály valamennyi munkaköre
+1.7.3.[^6] a Budapesti Rendőr-főkapitányság Bűnügyi Szervek Korrupciós és Gazdasági Bűnözés Elleni Főosztály, a Felderítő Főosztály, az Értékelő Osztály, a Bűnügyi Bevetési Osztály valamennyi munkaköre, a Bűnügyi Technikai Osztály hivatásos munkakörei, a Bűnügyi Koordinációs Osztály vezetője és helyettese, valamint a Budapesti Rendőr-főkapitányság Hivatala Titokvédelmi, Ügykezelési és Kártérítési Osztály vezetője
 
 1.7.4. a rendőrkapitányságokon és határrendészeti kirendeltségeken a közlekedésrendészeti, igazgatásrendészeti osztályok vezetőinek kivételével a vezetői munkakör, valamint a helyettesítésükkel megbízott munkakör
 
-1.8.[^6] A Nemzetközi Bűnügyi Együttműködési Központ munkakörei közül:
+1.8.[^7] A Nemzetközi Bűnügyi Együttműködési Központ munkakörei közül:
 
 1.8.1. az igazgató és az igazgatóhelyettes;
 
@@ -130,7 +130,9 @@ B) Rendvédelmi szervek
 
 1.8.4. a Nemzetközi Bűnügyi Együttműködési Központ Bűnügyi Ellátó Igazgatóság valamennyi munkaköre.
 
-1.9.[^7] A Rendőrségi Oktatási és Kiképző Központ munkakörei közül a vezetői munkakörök, valamint a helyettesítésükre kijelölt munkakörök
+1.8.[^8] a Nemzetközi Bűnügyi Együttműködési Központ valamennyi munkaköre
+
+1.9.[^9] A Rendőrségi Oktatási és Kiképző Központ munkakörei közül a vezetői munkakörök, valamint a helyettesítésükre kijelölt munkakörök
 
 2. A büntetés-végrehajtási szervezet
 
@@ -140,7 +142,7 @@ B) Rendvédelmi szervek
 
 2.3. a személyi védelemről szóló jogszabály szerint a személyi védelem és a Védelmi Program által meghatározott feladatok végrehajtásában résztvevő, illetve e tárgykörökben keletkezett adatokat kezelő személyek
 
-2.4. a Büntetés-végrehajtás Országos Parancsnokság főosztályvezetője, osztályvezetője, és az ügyeletes tiszt
+2.4.[^10] a Büntetés-végrehajtás Országos Parancsnokság szolgálatvezetője, szolgálatvezető-helyettese, főosztályvezetője, főosztályvezető-helyettese, osztályvezetője, az országos parancsnok és helyettesei titkárságvezetője, valamint a főügyeletes
 
 2.5. a büntetés-végrehajtási intézetek és intézmények vezetője, helyettese, gazdasági vezetője, osztályvezetője
 
@@ -220,6 +222,12 @@ C) Központi hivatalok
 
 2.12. a nemzetbiztonsági szolgálatok és a titkosszolgálati eszközök használatára jogosult szervek munkájának támogatásában résztvevő munkakör
 
+2.13.[^11] az Operatív Szolgáltatási Osztály valamennyi munkaköre
+
+2.14.[^12] a hatósági elnökhelyettes irányítása alá tartozó területen adatszolgáltatói, adategyeztetői, adatkezelői és folyamatirányítói munkakörök
+
+2.15.[^13] az informatikai elnökhelyettes irányítása alá tartozó terület valamennyi munkaköre
+
 3. A Szervezett Bűnözés Elleni Koordinációs Központ
 
 3.1. valamennyi munkakör
@@ -250,6 +258,14 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 3.1. a főigazgató és szervezetszerű helyettese
 
+3.2.[^14] a vezető-kiválasztási eljárásban résztvevő pszichológus, tréner, vezető tréner, kiválasztási szakértő, kiválasztási asszisztens
+
+3.3.[^15] a gazdasági igazgató, a közgazdasági osztályvezető
+
+3.4.[^16] a Közigazgatási Személyzetfejlesztési Igazgatóság vezetője, a Személyügyi Szolgáltatási Osztály osztályvezetője, a Nyilvántartási Csoport valamennyi munkatársa
+
+3.5.[^17] az informatikus
+
 4. Nemzetközi Oktatási Központ
 
 4.1. a főigazgató és a főigazgató-helyettes
@@ -257,9 +273,19 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 4.2. az ILEA Magyar Titkárság, a KERA Magyar Nemzeti Iroda, a CEPOL Magyar Nemzeti Iroda osztályvezetői
 
 [^1]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.1. pont 1.1.7. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (1) bekezdése iktatta be.
-[^2]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.1. pont 1.2.4. alpontja a 37/2015. (VI. 16.) BM rendelet 85. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.1. pont 1.3.5. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (3) bekezdése iktatta be.
-[^4]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.1. pont 1.3.6. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (3) bekezdése iktatta be.
+[^2]: Az 1. melléklet B) Rendvédelmi szervek 1.2.4. alpontja a 48/2015. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet B) Rendvédelmi szervek 1.2.5. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a hatályon kívül helyezte.
+[^4]: Az 1. melléklet B) Rendvédelmi szervek 1.3. pontja a 48/2015. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.5. alpontját a 37/2015. (VI. 16.) BM rendelet 86. §-a hatályon kívül helyezte.
-[^6]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.8. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (4) bekezdése iktatta be.
-[^7]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.9. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (4) bekezdése iktatta be.
+[^6]: Az 1. melléklet B) Rendvédelmi szervek 1.7.3. alpontja a 48/2015. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.8. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (4) bekezdése iktatta be.
+[^8]: Az 1. melléklet B) Rendvédelmi szervek újabb 1.8. pontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^9]: Az 1. melléklet „B) Rendvédelmi szervek” alcím 1. pont 1.9. alpontját a 37/2015. (VI. 16.) BM rendelet 85. § (4) bekezdése iktatta be.
+[^10]: Az 1. melléklet B) Rendvédelmi szervek 2.4. pontja a 48/2015. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet C) Központi hivatalok 2. pont 2.13. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^12]: Az 1. melléklet C) Központi hivatalok 2. pont 2.14. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^13]: Az 1. melléklet C) Központi hivatalok 2. pont 2.15. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^14]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.2. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^15]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.3. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^16]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.4. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^17]: Az 1. melléklet D) Központi államigazgatási szervnek nem minősülő költségvetési szervek 3. pont 3.5. alpontját a 48/2015. (VIII. 31.) BM rendelet 1. §-a iktatta be.
