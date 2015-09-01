@@ -1,6 +1,6 @@
 2/A. §[^6] (1) Beépített tűzjelző vagy beépített tűzoltó berendezés tervezői tevékenység végzéséhez
 
-a) a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet 2. mellékletében megállapított műszaki képzési területen szerzett mérnöki szakképzettség;
+a)[^7] a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelet 3. mellékletében megállapított műszaki képzési területen szerzett mérnöki szakképzettség;
 
 b) a szakterületnek megfelelő érvényes tűzvédelmi szakvizsga bizonyítvány,
 
@@ -11,3 +11,4 @@ szükséges.
 (2) Beépített tűzjelző vagy beépített tűzoltó berendezés tervezői jogosultság megállapításánál a szakmai gyakorlati idő igazolása a végzettség megszerzését követő legalább ötéves beépített tűzjelző vagy beépített tűzoltó berendezés tervezési szakterületen végzett gyakorlattal történhet.
 
 [^6]: A 2/A. §-t a 74/2012. (IV. 13.) Korm. rendelet 20. §-a iktatta be.
+[^7]: A 2/A. § (1) bekezdés a) pontja a 139/2015. (VI. 9.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.

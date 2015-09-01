@@ -1,4 +1,4 @@
-## A beszámolóval végződő kötelező továbbképzés követelményrendszere[^12]
+## A beszámolóval végződő kötelező továbbképzés követelményrendszere[^13]
 
 ## A beszámoló követelményei két főrészből állnak: általános és különös követelmények.
 
@@ -34,7 +34,7 @@
 
 ## 7.1. az Országos Tűzvédelmi Szabályzat szerkezetét,
 
-## 7.2.[^13] a kockázati osztályba, valamint az anyagok tűzveszélyességi osztályba sorolására vonatkozó előírásokat,
+## 7.2.[^14] a kockázati osztályba, valamint az anyagok tűzveszélyességi osztályba sorolására vonatkozó előírásokat,
 
 ## 7.3. a tűzállósági fokozatokat, és a telepítési,- tűztávolságokra vonatkozó előírásokat,
 
@@ -116,7 +116,7 @@
 
 ## A vizsgázótól számon kérhető követelményekre vonatkozó jogszabályok, jogszabályrészek, szabványok és segédanyagok jegyzéke a szakmai kamarák honlapján találhatók. A listát a szakmai kamarák évente aktualizálják a jogszabályok és szabványok változásainak megfelelően.
 
-2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^14]
+2. melléklet a 375/2011. (XII. 31.) Korm. rendelethez[^15]
 
 I. A MÉRNÖKI KAMARÁK HATÁSKÖRÉBE TARTOZÓ TŰZVÉDELMI SZAKTERÜLETEK
 
@@ -134,7 +134,7 @@ d) építmények tűzgátló szerkezeteinek tervezése;
 
 e) építmények telepítési-, tűztávolságának tervezése;
 
-f)[^15] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
+f)[^16] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
 
 g) építmények tűzterhelésének, tűzidőtartamának tervezése;
 
@@ -190,7 +190,7 @@ d) építmények tűzgátló szerkezeteinek tervezése;
 
 e) építmények telepítési-, tűztávolságának tervezése;
 
-f)[^16] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
+f)[^17] a kockázati osztály és az anyagok tűzveszélyességi osztályának megállapítása;
 
 g) építmények tűzterhelésének, tűzidőtartamának tervezése;
 
@@ -204,8 +204,8 @@ k) építmények elektromos, villámvédelmi és gépészeti rendszerei tűzvéd
 
 l) építmények tűzoltásának tűzoltási feltételeinek tervezése.
 
-[^12]: Az 1. melléklet címe az 522/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^13]: Az 1. melléklet 1. pont 7.2. alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^14]: A 2. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^15]: A 2. melléklet I. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^16]: A 2. melléklet II. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet címe az 522/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet 1. pont 7.2. alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^15]: A 2. melléklet a 74/2012. (IV. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. melléklet I. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^17]: A 2. melléklet II. pont 1. pont f) alpontja a 300/2014. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
