@@ -38,7 +38,9 @@ n) a Magyar Könyvvizsgálói Kamara által a pénzügyi intézménynél működ
 
 o) a feladatkörében eljáró kormányzati ellenőrzési szervvel,
 
-p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel
+p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel,
+
+q) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
 szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
 

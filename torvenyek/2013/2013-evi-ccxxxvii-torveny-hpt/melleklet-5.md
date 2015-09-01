@@ -31,5 +31,3 @@ c) a hitelintézetek reorganizációjáról és felszámolásáról szóló 2001
 d) a pénzügyi rendszereknek a pénzmosás, valamint terrorizmus finanszírozása céljára való felhasználásának megelőzéséről szóló 2005. október 26-i 2005/60/EK európai parlamenti és tanácsi irányelvnek,
 
 e) a 185. § (1) bekezdés f) pontjában a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról szóló 2009. április 23-i 2009/22/EK európai parlamenti és tanácsi irányelvnek,
-
-f) a 98/26/EK, 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK és 2009/65/EK irányelvnek az európai felügyeleti hatóság (Európai Bankhatóság), az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2010. november 24-i 2010/78/EU európai parlamenti és tanácsi irányelvnek,
