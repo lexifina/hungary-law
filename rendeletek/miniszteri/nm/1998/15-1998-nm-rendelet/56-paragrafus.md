@@ -4,7 +4,7 @@
 
 (2) A szülő az átmeneti otthon házirendje, illetve a helyettes szülővel történt megállapodás szerint látogathatja meg, illetve viheti el a gyermeket, és élhet a kapcsolattartás egyéb formáival (levelezés, telefonkapcsolat, ajándékozás, csomagküldés).
 
-(2a)[^252] A helyettes szülőnél, a gyermekek átmeneti otthonában vagy a családok átmeneti otthonában ellátott gyermek különélő hozzátartozójával való kapcsolattartásának elősegítése érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően – a helyettes szülői hálózat működtetője, a gyermekek átmeneti otthona vagy a családok átmeneti otthona
+(2a)[^257] A helyettes szülőnél, a gyermekek átmeneti otthonában vagy a családok átmeneti otthonában ellátott gyermek különélő hozzátartozójával való kapcsolattartásának elősegítése érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően – a helyettes szülői hálózat működtetője, a gyermekek átmeneti otthona vagy a családok átmeneti otthona
 
 a) segíti a kapcsolattartás során felmerülő problémák megoldását, szükség esetén pszichológus, mentálhigiénés szakember bevonásával,
 
@@ -18,4 +18,4 @@ cb) a felügyelt kapcsolattartáson történtekről és a szülő-gyermek kapcso
 
 (3) Az átmeneti gondozást nyújtó a gyermek átmeneti gondozásáról értesíti a szülő lakóhelye (tartózkodási helye) szerinti gyermekjóléti szolgálatot és együttműködik vele az átmeneti gondozást szükségessé tevő okok megszüntetése, a gyermek mielőbbi hazakerülése érdekében.
 
-[^252]: Az 56. § (2a) bekezdését a 28/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^257]: Az 56. § (2a) bekezdését a 28/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.

@@ -1,11 +1,11 @@
-140. § (1)[^483] Az egyéni elhelyezési tervet úgy kell előkészíteni, hogy alkalmas legyen a gondozott gyermek saját családjába történő visszatérésének, az örökbefogadásnak, vagy más családot pótló környezetbe kerülésének elősegítésére.
+140. § (1)[^488] Az egyéni elhelyezési tervet úgy kell előkészíteni, hogy alkalmas legyen a gondozott gyermek saját családjába történő visszatérésének, az örökbefogadásnak, vagy más családot pótló környezetbe kerülésének elősegítésére.
 
-(2)[^484] Az egyéni elhelyezési tervnek a Gyer. 107. § (2)–(3) bekezdésében meghatározott rendelkezéseket kell tartalmaznia.
+(2)[^489] Az egyéni elhelyezési tervnek a Gyer. 107. § (2)–(3) bekezdésében meghatározott rendelkezéseket kell tartalmaznia.
 
 (3) A tervben külön fel kell tüntetni a gyámhivatal jóváhagyását igénylő rendelkezéseket.
 
-(4)[^485] A speciális ellátást igénylő gyermek esetén az elhelyezési tervnek – a (2)–(3) bekezdésben meghatározottakon túl – tartalmaznia kell a speciális gyermekotthoni elhelyezés várható idejét, a speciális ellátást szükségessé tevő problémát, továbbá annak a személynek, nevelőszülőnek vagy gyermekotthonnak a megjelölését, ahova a speciális gyermekotthoni elhelyezés megszüntetését követően a gyermek kerülni fog.
+(4)[^490] A speciális ellátást igénylő gyermek esetén az elhelyezési tervnek – a (2)–(3) bekezdésben meghatározottakon túl – tartalmaznia kell a speciális gyermekotthoni elhelyezés várható idejét, a speciális ellátást szükségessé tevő problémát, továbbá annak a személynek, nevelőszülőnek vagy gyermekotthonnak a megjelölését, ahova a speciális gyermekotthoni elhelyezés megszüntetését követően a gyermek kerülni fog.
 
-[^483]: A 140. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 21. pontja szerint módosított szöveg.
-[^484]: A 140. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 36. § g) pontja szerint módosított szöveg.
-[^485]: A 140. § (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 84. §-a iktatta be.
+[^488]: A 140. § (1) bekezdése a 26/2013. (III. 29.) EMMI rendelet 37. § 21. pontja szerint módosított szöveg.
+[^489]: A 140. § (2) bekezdése a 26/2013. (III. 29.) EMMI rendelet 36. § g) pontja szerint módosított szöveg.
+[^490]: A 140. § (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 84. §-a iktatta be.

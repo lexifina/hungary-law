@@ -1,4 +1,4 @@
-## 90/A. §[^312] A szakszolgálatnál az utógondozási feladatokat az elhelyezési vagy gyermekvédelmi ügyintéző látja el.
+## 90/A. §[^317] A szakszolgálatnál az utógondozási feladatokat az elhelyezési vagy gyermekvédelmi ügyintéző látja el.
 
 91. § (1) Az utógondozó segítséget nyújt a fiatal felnőttnek az otthonteremtési támogatás iránti kérelem elkészítéséhez és benyújtásához.
 
@@ -8,4 +8,4 @@
 
 (4) Az utógondozó a gyámhivatal határozatában foglaltak szerint együttműködik a fiatal felnőttel a támogatás összegének célszerű felhasználásában, és erről tájékoztatja a gyámhivatalt.
 
-[^312]: A 90/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 5. §-a iktatta be.
+[^317]: A 90/A. §-t a 83/2013. (XII. 29.) EMMI rendelet 5. §-a iktatta be.

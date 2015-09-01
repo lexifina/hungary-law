@@ -2,9 +2,9 @@
 
 ## alkalmazására
 
-19. § (1)[^103] A gyermekjóléti szolgálat a gyermekvédelmi gondoskodás körébe tartozó hatósági intézkedések közül javaslatot tehet a gyámhivatalnak a gyermek védelembe vételére, megelőző pártfogására, ideiglenes hatályú elhelyezésére vagy nevelésbe vételére.
+19. § (1)[^105] A gyermekjóléti szolgálat a gyermekvédelmi gondoskodás körébe tartozó hatósági intézkedések közül javaslatot tehet a gyámhivatalnak a gyermek védelembe vételére, megelőző pártfogására, ideiglenes hatályú elhelyezésére vagy nevelésbe vételére.
 
-(2)[^104] Az (1) bekezdés szerinti javaslatban a gyermekjóléti szolgálat a gyermekvédelmi nyilvántartás megfelelő adatlapján ismerteti a gyermek helyzetét, különösen
+(2)[^106] Az (1) bekezdés szerinti javaslatban a gyermekjóléti szolgálat a gyermekvédelmi nyilvántartás megfelelő adatlapján ismerteti a gyermek helyzetét, különösen
 
 a) a veszélyeztető körülményeket, azoknak a gyermekre gyakorolt hatását,
 
@@ -16,13 +16,13 @@ d) a javaslattétel elkészítéséig biztosított alapellátásokat, valamint a
 
 e) a gyermeknek és a szülőnek (törvényes képviselőnek) a javaslattétel elkészítéséig tanúsított együttműködési készségét, illetve annak hiányát,
 
-f)[^105] ha a gyermeket gondozó szülő együtt él a szülői felügyeleti jogától megfosztott másik szülővel, és emiatt a gyermek nem áll szülői felügyelet alatt,
+f)[^107] ha a gyermeket gondozó szülő együtt él a szülői felügyeleti jogától megfosztott másik szülővel, és emiatt a gyermek nem áll szülői felügyelet alatt,
 
-g)[^106] – megelőző pártfogás alatt álló gyermek esetén – a megelőző pártfogás elrendelését, mellőzését, fenntartását vagy megszüntetését alátámasztó körülményeket.
+g)[^108] – megelőző pártfogás alatt álló gyermek esetén – a megelőző pártfogás elrendelését, mellőzését, fenntartását vagy megszüntetését alátámasztó körülményeket.
 
 (3) A gyermeket fenyegető közvetlen és súlyos veszély esetén a szolgálat csak a veszély tényét és jellegét nevezi meg, és a többi adat feltárásának mellőzésével tesz javaslatot a hatóság intézkedésére. A hiányzó adatokat a hatóság felhívásától függően szerzi be.
 
-[^103]: A 19. § (1) bekezdése a 6/2015. (I. 28.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^104]: A 19. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 16. §-ával megállapított szöveg.
-[^105]: A 19. § (2) bekezdés f) pontját a 19/2014. (III. 13.) EMMI rendelet 9. §-a iktatta be.
-[^106]: A 19. § (2) bekezdés g) pontját a 6/2015. (I. 28.) EMMI rendelet 5. § (2) bekezdése iktatta be.
+[^105]: A 19. § (1) bekezdése a 6/2015. (I. 28.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^106]: A 19. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 16. §-ával megállapított szöveg.
+[^107]: A 19. § (2) bekezdés f) pontját a 19/2014. (III. 13.) EMMI rendelet 9. §-a iktatta be.
+[^108]: A 19. § (2) bekezdés g) pontját a 6/2015. (I. 28.) EMMI rendelet 5. § (2) bekezdése iktatta be.

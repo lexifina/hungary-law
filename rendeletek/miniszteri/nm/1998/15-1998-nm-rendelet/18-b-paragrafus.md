@@ -1,4 +1,4 @@
-## 18/B. §[^102] A gyermekjóléti szolgálat családgondozója és a megelőző pártfogó felügyelő a megelőző pártfogás alatt álló gyermek bűnismétlésének megelőzése érdekében történő együttműködés keretében
+## 18/B. §[^104] A gyermekjóléti szolgálat családgondozója és a megelőző pártfogó felügyelő a megelőző pártfogás alatt álló gyermek bűnismétlésének megelőzése érdekében történő együttműködés keretében
 
 a) közösen végezhetnek környezettanulmányt,
 
@@ -12,4 +12,4 @@ e) a gyermekkel és a családdal kapcsolatos tapasztalataikat megosztják egymá
 
 f) a gyermekkel közös megbeszélést tarthatnak.
 
-[^102]: A 18/B. §-t a 6/2015. (I. 28.) EMMI rendelet 4. §-a iktatta be.
+[^104]: A 18/B. §-t a 6/2015. (I. 28.) EMMI rendelet 4. §-a iktatta be.
