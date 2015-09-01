@@ -1,6 +1,6 @@
-## (Az Lt. 64. §-ához, 65/A. §-ához és 66. §-ához)[^35]
+## (Az Lt. 64. §-ához, 65/A. §-ához és 66. §-ához)[^38]
 
-26. §[^36]
+26. §[^39]
 
-[^35]: A Vhr. 26. §-át megelőző alcím a 108/2010. (IV. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^36]: A Vhr. 26. §-át a 267/2011. (XII. 13.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^38]: A Vhr. 26. §-át megelőző alcím a 108/2010. (IV. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^39]: A Vhr. 26. §-át a 267/2011. (XII. 13.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.

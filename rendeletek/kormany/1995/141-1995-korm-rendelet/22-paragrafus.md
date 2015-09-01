@@ -1,6 +1,6 @@
 ## (Az Lt. 52. §-ához)
 
-22. §[^27] (1) Légi járművel fel- és leszállni – a (2) bekezdésben foglalt kivétellel – repülőtéren vagy leszállóhelyen szabad.
+22. §[^30] (1) Légi járművel fel- és leszállni – a (2) bekezdésben foglalt kivétellel – repülőtéren vagy leszállóhelyen szabad.
 
 (2) A fel- és leszállás nem repülőtéren vagy leszállóhelyen is történhet a következő esetekben:
 
@@ -12,10 +12,10 @@ c) a légi jármű tulajdonságai miatt a leszállás helye előzetesen nem hat�
 
 d) a leszállás a biztonság érdekében, veszélyhelyzetben szükséges,
 
-e)[^28] helikopter fel- és leszállása a 22/A. §-ban meghatározott feltételek szerint.
+e)[^31] helikopter fel- és leszállása a 22/A. §-ban meghatározott feltételek szerint.
 
-(3)[^29] A (2) bekezdés szerinti fel- és leszállással okozott kárt és személyiségi jogi jogsértésért járó sérelemdíjat meg kell téríteni.
+(3)[^32] A (2) bekezdés szerinti fel- és leszállással okozott kárt és személyiségi jogi jogsértésért járó sérelemdíjat meg kell téríteni.
 
-[^27]: A Vhr. 22. §-a a 159/2010. (V. 6.) Korm. rendelet 44. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
-[^28]: A Vhr. 22. § (2) bekezdés e) pontját a 206/2014. (VIII. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^29]: A Vhr. 22. § (3) bekezdése az 53/2014. (III. 13.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A Vhr. 22. §-a a 159/2010. (V. 6.) Korm. rendelet 44. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 43. §-át.
+[^31]: A Vhr. 22. § (2) bekezdés e) pontját a 206/2014. (VIII. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^32]: A Vhr. 22. § (3) bekezdése az 53/2014. (III. 13.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
