@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2015-06-15 | 2014. évi CV. törvény | 2011-190-00-00.28 |
 | 2015-07-01 | 2014. évi XCIX. törvény | 2011-190-00-00.29 |
 | 2015-08-31 | 2013. évi CCXLV. törvény | 2011-190-00-00.30 |
+| 2015-09-01 | 2013. évi CXXXVII. törvény | 2011-190-00-00.31 |
