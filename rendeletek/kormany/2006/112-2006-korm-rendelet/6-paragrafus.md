@@ -6,7 +6,7 @@ b) a szociális intézmény szakmai programja és a foglalkoztatási szakmai pro
 
 c) a szociális foglalkoztatás céljainak megfelelően
 
-végzi-e. A szociális hatóság az ellenőrzés során a foglalkoztatás helyén, valamint a szociális intézményben helyszíni szemlét tart, ennek keretében megvizsgálja a külön jogszabály szerinti személyi és tárgyi feltételek teljesülését. A szociális hatóság az ellenőrzés során a szociális intézmény szakmai programja és a foglalkoztatási szakmai program összhangjának megvalósulása tekintetében szakvéleményt kér a Szociális és Gyermekvédelmi Főigazgatóságtól, amely a szakvéleményt 30 napon belül adja meg.
+## végzi-e. A szociális hatóság az ellenőrzés során a foglalkoztatás helyén, valamint a szociális intézményben helyszíni szemlét tart, ennek keretében megvizsgálja a külön jogszabály szerinti személyi és tárgyi feltételek teljesülését. A szociális hatóság az ellenőrzés során a szociális intézmény szakmai programja és a foglalkoztatási szakmai program összhangjának megvalósulása tekintetében szakvéleményt kér a Hivatal módszertani feladatokat ellátó szervezeti egységétől, amely a szakvéleményt 30 napon belül adja meg.
 
 (2)[^56] A szociális hatóság az ellenőrzésről készült jegyzőkönyvet megküldi a szociális intézménynek és az intézmény fenntartójának, továbbá a folyósító igazgatóságnak.
 
@@ -50,9 +50,9 @@ g)[^62] a szociális intézményt törölték a szolgáltatói nyilvántartásb�
 
 (7)[^63]
 
-(8)[^64] A Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: Hivatal) a (2) és a (4)–(6) bekezdésben foglaltak szerint – a szociális hatóság egyidejű értesítése mellett – ellenőrizheti, hogy a foglalkoztató a szociális foglalkoztatást a jogszabályokban, a szociális foglalkoztatási engedélyben és a szolgáltatói nyilvántartásban foglaltak szerint végzi-e.
+(8)[^64] A Hivatal a (2) és a (4)–(6) bekezdésben foglaltak szerint – a szociális hatóság egyidejű értesítése mellett – ellenőrizheti, hogy a foglalkoztató a szociális foglalkoztatást a jogszabályokban, a szociális foglalkoztatási engedélyben és a szolgáltatói nyilvántartásban foglaltak szerint végzi-e.
 
-[^54]: A 6. § (1) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított, záró szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 16. § (1) bekezdés b) pontja, a 349/2012. (XII. 12.) Korm. rendelet 44. § b) pontja, nyitó és záró szövegrésze a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^54]: A 6. § (1) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 21. § (1) bekezdésével megállapított, záró szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 16. § (1) bekezdés b) pontja, a 349/2012. (XII. 12.) Korm. rendelet 44. § b) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 5. § c) pontja, nyitó és záró szövegrésze a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés e) pontja szerint módosított szöveg.
 [^55]: A 6. § (1) bekezdés a) pontja a 369/2013. (X. 24.) Korm. rendelet 53. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^56]: A 6. § (2) bekezdése a 371/2007. (XII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 279/2009. (XII. 9.) Korm. rendelet 33. § (2) bekezdés a) pont ac) alpontja, a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^57]: A 6. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 78. § (2) bekezdésével megállapított szöveg.
@@ -62,4 +62,4 @@ g)[^62] a szociális intézményt törölték a szolgáltatói nyilvántartásb�
 [^61]: A 6. § (6) bekezdésének d) pontja a 174/2009. (VIII. 29.) Korm. rendelet 36. § (3) bekezdésének ba) alpontja szerint módosított szöveg. E módosító rendelet 35. § (10) bekezdése alapján a rendelkezést a 2009. szeptember 1. napján folyamatban lévő ügyekben is alkalmazni kell.
 [^62]: A 6. § (6) bekezdésének g) pontját a 174/2009. (VIII. 29.) Korm. rendelet 21. § (3) bekezdése iktatta be, szövege a 369/2013. (X. 24.) Korm. rendelet 53. § (3) bekezdés d) pontja szerint módosított szöveg.
 [^63]: A 6. § új (7) bekezdését a 174/2009. (VIII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (8) bekezdésre változtatva. A 6. § (7) bekezdését a 357/2010. (XII. 30.) Korm. rendelet 17. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^64]: A 6. § (7) bekezdését a 371/2007. (XII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 174/2009. (VIII. 29.) Korm. rendelet 21. § (4) bekezdése, szövege a 332/2010. (XII. 27.) Korm. rendelet 19. § b) pontja, a 369/2013. (X. 24.) Korm. rendelet 53. § (3) bekezdés e) pontja, a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^64]: A 6. § (7) bekezdését a 371/2007. (XII. 23.) Korm. rendelet 4. § (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 174/2009. (VIII. 29.) Korm. rendelet 21. § (4) bekezdése, szövege a 332/2010. (XII. 27.) Korm. rendelet 19. § b) pontja, a 369/2013. (X. 24.) Korm. rendelet 53. § (3) bekezdés e) pontja, a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés c) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

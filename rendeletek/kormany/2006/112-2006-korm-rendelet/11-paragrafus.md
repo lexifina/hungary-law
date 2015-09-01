@@ -10,7 +10,7 @@ b) egy tagját a helyi önkormányzatokért felelős miniszter jelöli ki,
 
 c)[^85] egy tagját a Hivatal jelöli ki,
 
-d)[^86] egy tagját a Nemzeti Család- és Szociálpolitikai Intézet jelöli ki,
+d)[^86] egy tagját a Hivatal módszertani feladatokat ellátó szervezeti egysége jelöli ki,
 
 e)[^87]
 
@@ -37,7 +37,7 @@ b) a bizottság tagja olyan szervezet ügyintéző és képviseleti szervének, 
 [^83]: A 11. § a 279/2009. (XII. 9.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^84]: A 11. § (1) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja, a 357/2010. (XII. 30.) Korm. rendelet 16. § (1) bekezdés e) pontja, a 317/2012. (XI. 13.) Korm. rendelet 13. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^85]: A 11. § (3) bekezdés c) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^86]: A 11. § (3) bekezdés d) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^86]: A 11. § (3) bekezdés d) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § a) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
 [^87]: A 11. § (3) bekezdés e) pontját a 317/2012. (XI. 13.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
 [^88]: A 11. § (5) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
 [^89]: A 11. § (6) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
