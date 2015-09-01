@@ -6,13 +6,13 @@
 
 2. dohánytermék gyártására és kereskedelmére irányuló tevékenység: az a vállalkozási tevékenység, amelyet a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben (a továbbiakban: Jöt.) meghatározott dohánytermék
 
-a) adóraktár engedélyese,
+a) adóraktár-engedélyese,
 
-b) importálója, vagy
+b) importálója vagy
 
 c) bejegyzett kereskedője
 
-e minőségében végzett, vagy végez, feltéve, hogy a dohánytermék gyártására, a Jöt.-ben meghatározott szabadforgalomba bocsátásra, vagy magyarországi forgalomba hozatalára, kereskedelmére irányuló tevékenységéből származó nettó árbevétele a 2014. évben elérte, vagy meghaladta az összes nettó árbevétele 50%-át;
+e minőségében végzett vagy végez, feltéve, hogy a dohánytermék gyártására, a Jöt.-ben meghatározott szabadforgalomba bocsátásra vagy magyarországi forgalomba hozatalára, kereskedelmére irányuló tevékenységéből származó nettó árbevétele az adóévben elérte az összes nettó árbevétele 50%-át;
 
 3. nettó árbevétel: a számvitelről szóló törvényben meghatározott értékesítés nettó árbevétele;
 
