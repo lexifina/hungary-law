@@ -36,7 +36,9 @@ q) a feladatkörében eljáró alapvető jogok biztosával,
 
 r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 
-s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval
+s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval,
+
+t) a természetes személyek adósságrendezési eljárásában eljáró Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
 szemben, ha az a)–j), n), s) és t) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a k)–m) és p)–r) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
