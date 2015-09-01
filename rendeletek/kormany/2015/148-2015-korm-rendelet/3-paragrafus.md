@@ -1,3 +1,3 @@
-## 2. §[^2]
+## 2. § A Korm. rendelet a következő 5/E. §-sal egészül ki:
 
-[^2]: A 2. § az 5. § (2) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
+## „5/E. § Az Oktatási Hivatal elektronikus hírközlési szolgáltatásra vonatkozó igényeit a Fejlesztési Program információs hálózatán keresztül köteles kielégíteni.”
