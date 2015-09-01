@@ -1,5 +1,5 @@
-## 37–38. §[^4]
+## 37–38. §[^3]
 
 ## 22. Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet
 
-[^4]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

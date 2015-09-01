@@ -24,6 +24,6 @@
 
 | 11. | Az energiahatékonyságról szóló 2015. évi LVII. törvény 17. §-a szerinti kötelezettség alóli kivételek és azok változása | Nemzeti Fejlesztési Minisztérium | a kivételt megállapító jogszabály szövege | a szabályozás kihirdetését követően haladéktalanul |
 
-10–11. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^7]
+10–11. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^6]
 
-[^7]: A 10–11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 10–11. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

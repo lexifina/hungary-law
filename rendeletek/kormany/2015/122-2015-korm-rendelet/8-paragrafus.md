@@ -1,4 +1,4 @@
-## 7. §[^1]
+## 7. § Az energiapolitikáért felelős miniszter gondoskodik a felújítandó központi kormányzati épületek nyilvántartásában szereplő adatok közzétételéről az általa vezetett minisztérium honlapján.
 
 ## 6. A közintézmények által megkötésre kerülő energiahatékonyság-alapú szerződés kötelező tartalmi elemei
 
@@ -45,5 +45,3 @@ k) az energiahatékonysági szolgáltatással elért megtakarítás rendszeres m
 l) az energiahatékonysági szolgáltatással elért megtakarítás pénzbeli értékének felek közötti megosztására vonatkozó rendelkezések,
 
 m) az előzetes energetikai auditálás eredménye.
-
-[^1]: A 7. § a 28. § (2) bekezdése a 2015. szeptember 1-jén lép hatályba.
