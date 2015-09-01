@@ -1,11 +1,10 @@
-## 1. §[^1]
+## 1. §[^2]
 
 ## 2. § Hatályát veszti
 
-a)[^2]
+a) az OM rendelet 1. számú melléklet II. Enyhén értelmi fogyatékos tanulók nevelését, oktatását ellátó általános iskolák (1–8. évfolyam) előkészítő szakiskolák (9–10. évfolyam) speciális szakiskolák 9–10. évfolyamai számára című kerettanterve,
 
 b)[^3]
 
-[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. § a) pontja a 22. § (2) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 2. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
