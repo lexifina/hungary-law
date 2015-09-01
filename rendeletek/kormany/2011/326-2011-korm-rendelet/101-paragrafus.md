@@ -20,6 +20,7 @@ i) a közlekedési hatóság a járművet a forgalomban való részvételre vég
 
 j) a jármű üzemben tartója a jogerősen kiszabott közigazgatási bírság megfizetési kötelezettségének nem tett eleget és a jármű forgalomból történő kivonását az eljáró hatóság kezdeményezte.
 
-(2) Ha az arra feljogosított hatóság a jármű lefoglalását a forgalomból történő kivonás mellőzésével, vagy büntetőeljárásban a bíróság a jármű zár alá vételét rendelte el, annak tényét – az elidegenítési és terhelési tilalom egyidejű bejegyzésével – a nyilvántartásban haladéktalanul rögzíteni kell. A jármű forgalomból történő kivonása esetén a közlekedési igazgatási hatóság határozata tartalmazza az elidegenítési és terhelési tilalom nyilvántartási bejegyzésének megtörténtét.
+(2)[^122] Ha az arra feljogosított hatóság a jármű lefoglalását a forgalomból történő kivonás mellőzésével, vagy büntetőeljárásban a bíróság a jármű zár alá vételét rendelte el, továbbá ha a Családi Csődvédelmi Szolgálat a természetes személy által kezdeményezett adósságrendezési eljárásról értesít, ennek tényét – az elidegenítési és terhelési tilalom egyidejű bejegyzésével – a nyilvántartásban haladéktalanul rögzíteni kell. A jármű forgalomból történő kivonása esetén a közlekedési igazgatási hatóság határozata tartalmazza az elidegenítési és terhelési tilalom nyilvántartási bejegyzésének megtörténtét.
 
 [^121]: A 101. § (1) bekezdés b) pontja az 5/2013. (I. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^122]: A 101. § (2) bekezdése a 218/2015. (VIII. 6.) Korm. rendelet 5. §-ával megállapított szöveg.
