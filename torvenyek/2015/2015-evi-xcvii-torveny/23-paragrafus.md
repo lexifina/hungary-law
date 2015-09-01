@@ -1,0 +1,1 @@
+23. § A jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre kiszabott végrehajtási bírságot, illetve ágazatfelügyeleti bírságot mind a kötelezettel, mind a kötelezett vezető tisztségviselőjével szemben egyidejűleg is ki lehet szabni.

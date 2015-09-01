@@ -1,0 +1,1 @@
+11. § A nyers tej első felvásárlója a Rendelet 151. cikkének megfelelően köteles havonta jelenteni a hozzájuk szállított nyers tej mennyiségét a Központi Statisztikai Hivatalnak (a továbbiakban: KSH), amelyről a KSH a miniszter közvetítésével tájékoztatja a Bizottságot.

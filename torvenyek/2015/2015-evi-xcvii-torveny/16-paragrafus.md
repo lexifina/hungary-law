@@ -1,0 +1,1 @@
+16. § Az elismert szakmaközi szervezet az elismeréssel kapcsolatosan fennálló tájékoztatási és adatszolgáltatási kötelezettségét a miniszter felé évente egyszer, e törvény végrehajtására kiadott rendeletben meghatározott határidőig teljesíti.
