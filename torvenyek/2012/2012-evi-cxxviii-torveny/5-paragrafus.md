@@ -1,1 +1,0 @@
-5. § Az elismert szakmaközi szervezethez az ágazat bármely szereplője csatlakozhat, abban az esetben, ha ez a csatlakozás nem jár a szakmaközi szervezet számára az elismerési feltételek elvesztésével.

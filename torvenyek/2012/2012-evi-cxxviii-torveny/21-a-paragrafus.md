@@ -1,1 +1,0 @@
-21/A. § E törvénynek a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseiről szóló 2012. évi CXXVIII. törvény módosításáról szóló 2012. évi CLXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és megismételt eljárásokban is alkalmazni kell.
