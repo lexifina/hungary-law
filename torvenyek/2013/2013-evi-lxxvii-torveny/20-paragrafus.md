@@ -1,6 +1,6 @@
 ## V. Fejezet
 
-## AZ ENGEDÉLLYEL RENDELKEZŐ KÉPZŐ INTÉZMÉNYEK ELLENŐRZÉSE, JOGKÖVETKEZMÉNYEK
+## ELLENŐRZÉS, JOGKÖVETKEZMÉNYEK
 
 20. § (1) A hatóság ellenőrzi, hogy az 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
@@ -14,9 +14,19 @@ b) felnőttképzési tevékenysége – a (2) bekezdésben foglalt eltéréssel 
 
 (4) A hatóság a felnőttképzési tevékenység folytatására vonatkozó jogszabályi előírások megtartását felnőttképzési szakértő és felnőttképzési programszakértő bevonásával ellenőrzi, és eljár ezek megsértése esetén. A hatóság az ellenőrzést szükség szerint, de kétévenként legalább egy alkalommal, az engedély megszerzését megelőzően képzési tevékenységet nem folytató intézmények esetén az engedély első két évében évente legalább egy alkalommal – az 1. § (2) bekezdés a)–b) pontja szerinti képzések esetén felnőttképzési programszakértő bevonásával – köteles lefolytatni. A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást (a továbbiakban: OSAP) nem teljesítettek.
 
-(5) Ha a felnőttképzést folytató intézmény a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér havi összege ötszörösétől tízszereséig terjedő összegű bírságot szab ki, azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekben a bírság mértéke nem lehet kevesebb a kötelező legkisebb munkabér havi összegének nyolcszorosánál. Ha a felnőttképzést folytató intézmény engedély nélkül végez képzést, vele szemben a hatóság a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki azzal, hogy ha az engedély nélkül folytatott képzés időtartama meghaladja a három hónapot, vagy a képzésben résztvevők száma a száz főt, a bírság mértéke a kötelező legkisebb munkabér havi összegének tízszerese.
+(5) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany
+
+a) a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér egyhavi összegétől annak tízszereséig terjedő összegű bírságot szab ki, azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekben a bírság mértéke nem lehet kevesebb a kötelező legkisebb munkabér havi összegének nyolcszorosánál,
+
+b) engedély nélkül végez képzést, vele szemben a hatóság
+
+ba) az 1. § (2) bekezdés a) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki,
+
+bb) az 1. § (2) bekezdés b)–d) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki, azzal, hogy ha az engedély nélkül folytatott képzés időtartama meghaladja a három hónapot, vagy a képzésben részt vevők száma a száz főt, a bírság mértéke a kötelező legkisebb munkabér havi összegének tízszerese.
 
 (6) Ha az engedéllyel rendelkező felnőttképzést folytató intézmény a feltárt jogszabálysértést a hatóság határozata alapján nem szünteti meg, vagy ismételten jogszabálysértést követ el, engedélyét a hatóság egy évre részben vagy teljesen visszavonja és ezzel egyidejűleg a kötelező legkisebb munkabér havi összege ötszörösétől tízszereséig terjedő összegű bírságot szab ki. A (11) bekezdésben foglalt súlyosabban minősülő esetekben engedélyét két évre részben vagy teljesen visszavonja, és ezzel egyidejűleg vele szemben a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki.
+
+(6a) Ha az 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény a 17/B. §-ban meghatározott rendelkezéseket megsérti, a hatóság vele szemben a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki.
 
 (7) Az engedély részbeni visszavonása esetén az intézmény az engedély visszavonását tartalmazó határozatban megjelölt képzéseit nem folytathatja, az engedély teljes visszavonása esetén az engedély visszavonását elrendelő határozatban megjelölt időtartamig felnőttképzési tevékenységet nem folytathat.
 

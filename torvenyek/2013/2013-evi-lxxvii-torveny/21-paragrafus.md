@@ -30,7 +30,7 @@ c) a képzésben részt vevő társadalombiztosítási azonosító jelét.
 
 (3) Az (1) bekezdésben foglalt adatokat államháztartási vagy európai uniós források igénybevételének és felhasználásának ellenőrzése céljából az e támogatásokat ellenőrző szervek számára továbbítani kell.
 
-(4) A felnőttképzést folytató intézmény tevékenységéről – az (5) bekezdésben foglalt kivétellel – az OSAP szerint statisztikai célú adatszolgáltatásra kötelezett.
+(4) Az iskolarendszeren kívüli képzési tevékenységet folytató, az 1. § (1) bekezdés c) pontjában meghatározott jogalany tevékenységéről – az (5) bekezdésben foglalt kivétellel – az OSAP szerint statisztikai célú adatszolgáltatásra kötelezett.
 
 (5) Az OKJ szerinti szakképesítések vizsgáiról, valamint az államilag elismert nyelvvizsgákról a hatóság szolgáltat adatot az OSAP szerint.
 

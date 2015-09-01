@@ -6,13 +6,13 @@ a) a képzés megnevezését és – a képzési program nyilvántartásba véte
 
 b) a képzés során megszerezhető kompetenciát,
 
-c) a képzésbe való bekapcsolódás és részvétel feltételeit,
+c) a képzésbe való bekapcsolódás és részvétel feltételeit, a képzés célját és célcsoportját,
 
 d) a tervezett képzési időt,
 
-e) a képzés egyéni felkészülés, csoportos képzés, távoktatás szerinti formájának meghatározását,
+e) az 1. § (2) bekezdés a), b) és d) pontja szerinti képzés esetén a képzés egyéni felkészítés, csoportos képzés, távoktatás szerinti formájának, az 1. § (2) bekezdés c) pontja szerinti nyelvi képzés esetén a nyelvi képzés típusának, valamint formájának megjelölését,
 
-f) a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és gyakorlati óraszámot,
+f) a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és – ha a tananyagegység tartalmaz gyakorlati képzést – a gyakorlati óraszámot,
 
 g) a maximális csoportlétszámot,
 

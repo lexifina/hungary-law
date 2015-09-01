@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-77-00-00
 | 2013-09-02 | 2010. évi CXXX. törvény | 2013-77-00-00.4 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2013-77-00-00.5 |
 | 2015-06-12 | 2015. évi LXVI. törvény | 2013-77-00-00.6 |
+| 2015-09-01 | 2015. évi LXVI. törvény | 2013-77-00-00.7 |
