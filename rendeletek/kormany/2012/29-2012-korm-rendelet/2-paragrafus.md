@@ -10,7 +10,7 @@
 
 (6)[^6] A fővárosi és megyei kormányhivataloknál foglalkoztatott kormánytisztviselőkre megfelelően kell alkalmazni a 3. melléklet képesítési előírásait, amennyiben az 1. melléklet nem tartalmaz rájuk vonatkozóan képesítési előírást.
 
-(7)[^7] Az 1. és 3. melléklet alkalmazásában azoknál a feladatköröknél, ahol az I. besorolási osztályba soroláshoz képesítési követelményként egyes felsőoktatási képzési területeken szerezhető szakképzettségek is meghatározásra kerültek, a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendelet 1. és 2. számú melléklete szerinti megfelelő képzési területeken szerezhető szakképzettséggel rendelkezőket is képesítettnek kell tekinteni.
+(7)[^7] Az 1. és 3. melléklet alkalmazásában azoknál a feladatköröknél, ahol az I. besorolási osztályba soroláshoz képesítési követelményként egyes felsőoktatási képzési területeken szerezhető szakképzettségek is meghatározásra kerültek, a felsőfokú végzettséggel és a felsőoktatási alap- és mesterképzésről szóló jogszabályok szerinti megfelelő képzési területeken szerezhető szakképzettséggel rendelkezőket is képesítettnek kell tekinteni.
 
 (8)[^8] E rendelet alkalmazásában
 
@@ -21,5 +21,5 @@ b) hittudományi képzettség: a hittanár-nevelő tanár szakképzettség, vala
 [^4]: A 2. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 192. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^5]: A 2. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 192. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^6]: A 2. § (6) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés a) pontja, a 70/2015. (III. 30.) Korm. rendelet 192. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^7]: A 2. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 192. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^7]: A 2. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 192. § (3) bekezdés d) pontja, a 139/2015. (VI. 9.) Korm. rendelet 13. § (4) bekezdése szerint módosított szöveg.
 [^8]: A 2. § (8) bekezdését a 70/2015. (III. 30.) Korm. rendelet 192. § (1) bekezdése iktatta be.
