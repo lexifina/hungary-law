@@ -10,7 +10,7 @@ c) azonnal a gyermekkel és a fiatal felnőttel kapcsolatos rendkívüli esemén
 
 d) azonnal a gyermeknek a nevelőszülőtől történő huszonnégy órát meghaladó engedély nélküli eltávozásáról, és
 
-e)[^11] azonnal a saját életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen
+e)[^13] azonnal a saját életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen
 
 ea) a Gyvt. 15. § (8) bekezdésében meghatározott kizáró ok bekövetkeztéről,
 
@@ -28,4 +28,4 @@ eg) a harminc napnál hosszabb időre történő külföldre utazás szándéká
 
 eh) az egészségi állapotában beálló olyan romlásról, melynek következtében a későbbiekben feltételezhetően hosszabb ideig nem lesz képes ellátni a gyermeket.
 
-[^11]: A 14. § e) pontja a 353/2014. (XII. 29.) Korm. rendelet 84. §-ával megállapított szöveg.
+[^13]: A 14. § e) pontja a 353/2014. (XII. 29.) Korm. rendelet 84. §-ával megállapított szöveg.
