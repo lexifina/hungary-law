@@ -34,21 +34,21 @@ o) orvos-szakmai módszertani feladatellátáshoz kapcsolódó képességvizsgá
 
 p) a megváltozott munkaképességű munkavállalók foglalkoztatására, és az azt elősegítő támogatásokra, szolgáltatásokra vonatkozóan tájékoztatási, információnyújtási feladatokat lát el.
 
-(2) A Hivatal szociális, gyermekjóléti, gyermekvédelmi és társadalmi felzárkózási feladatkörében
+(2)[^1] A Hivatal szociális, gyermekjóléti, gyermekvédelmi, társadalmi felzárkózási és drogpolitikai feladatkörében
 
 a) működést engedélyező szervként jár el, továbbá ellátja a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásával és ellenőrzésével, valamint az ehhez szükséges iratminták kiadásával kapcsolatos egyéb feladatokat,
 
 b) ellátja a szociális szolgáltatók és intézmények jelentési rendszerével kapcsolatos feladatokat,
 
-c) vezeti a szociális szolgáltatások, a gyermekjóléti alapellátások és a gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából vezetett nyilvántartást,
+c) ellátja a szociális intézményi foglalkoztatással, a szociális foglalkoztatási támogatás pályáztatásával és finanszírozásával kapcsolatos feladatokat,
 
-d) vezeti a hivatásos gondnoki feladatot ellátó személyek nyilvántartását,
+d) az elsőfokú eljárásban szakhatósági állásfoglalást ad a szociális és a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás (a továbbiakban: befogadás) szakkérdésében,
 
-e) ellátja a szociális intézményi foglalkoztatással, a szociális foglalkoztatási támogatás pályáztatásával és finanszírozásával kapcsolatos feladatokat,
+e) ellátja az utcai szociális munka, a krízisközpontok és a Biztos Kezdet Gyerekházak finanszírozásával kapcsolatos feladatokat,
 
-f) az elsőfokú eljárásban szakhatósági állásfoglalást ad a szociális és a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadás (a továbbiakban: befogadás) szakkérdésében,
+f) vezeti a szociális szolgáltatások, a gyermekjóléti alapellátások és a gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából vezetett nyilvántartást,
 
-g) ellátja a támogató szolgáltatás, a közösségi ellátások, az utcai szociális munka, a krízisközpontok és a Biztos Kezdet Gyerekházak finanszírozásával kapcsolatos feladatokat,
+g) vezeti a hivatásos gondnoki feladatot ellátó személyek nyilvántartását,
 
 h) vezeti az Országos Szociálpolitikai Szakértői Névjegyzéket,
 
@@ -56,17 +56,39 @@ i) vezeti az Országos Gyermekvédelmi Szakértői Névjegyzéket,
 
 j) vezeti a Jelnyelvi Tolmácsok Országos Névjegyzékét,
 
-k) részt vesz a komplex szükségletfelmérés elvégzésében,
+k) vezeti a személyes gondoskodást nyújtó szervezetekben szakmai tevékenységet végző szakképzett személyek működési nyilvántartását,
 
-l) ellátja a központi szociális, gyermekjóléti és gyermekvédelmi információs rendszerek fejlesztésével és működtetésével kapcsolatos feladatokat,
+l) jogszabályban meghatározott személyt jelöl ki a komplex szükségletfelmérés elvégzéséhez,
 
-m) működteti a Szociális Ágazati Portált.
+m) ellátja a központi szociális, gyermekjóléti és gyermekvédelmi információs rendszerek fejlesztésével és működtetésével kapcsolatos feladatokat,
+
+n) működteti a Szociális Ágazati Portált,
+
+o) módszertani útmutatókkal, ajánlásokkal és egyéb kiadványokkal segíti a szolgáltatók, intézmények és hálózatok szakmai feladatainak teljesítését, az aktív szociálpolitikai eszközök alkalmazását,
+
+p) részt vesz a minőségfejlesztési stratégia, a standardok, a szolgáltatási protokollok, valamint a szakmai ellenőrzés módszertanának és eljárásrendjének kidolgozásában,
+
+q) javaslatot tesz az országos ellátórendszer fejlesztésére, részt vesz az ellátórendszer fejlesztéséhez szükséges források tervezésében,
+
+r) új szolgáltatási formák és szakmai módszerek bevezetése érdekében modellkísérleteket szervez,
+
+s) kutatásokat folytat és szervez,
+
+t) hatásvizsgálatokat, adatgyűjtést, tényfeltáró, elemző, stratégiai és döntés-előkészítő tanulmányokat készít a szociálpolitikai, társadalmi felzárkózási és drogpolitikai stratégiai döntések megalapozására,
+
+u) közreműködik irányelvek és standardok kifejlesztésében a Nemzeti Drogellenes Stratégia végrehajtásához, valamint
+
+v) pályázatkezelői feladatokat lát el.
 
 (3) A Hivatal képzési feladatai körében
 
 a) ellátja az Országos Szociálpolitikai Szakértői Névjegyzékben, az Országos Gyermekvédelmi Szakértői Névjegyzékben, a Rehabilitációs Orvosszakértői Névjegyzékben és a Foglalkozási Rehabilitációs Szakértői Névjegyzékben szereplő szakértők továbbképzésével összefüggő feladatokat,
 
-b) közreműködik a rehabilitációval foglalkozó személyek rehabilitációs szakmai humánerőforrás-fejlesztésében és szakmai képzésében.
+b) közreműködik a rehabilitációval foglalkozó személyek rehabilitációs szakmai humánerőforrás-fejlesztésében és szakmai képzésében,
+
+c)[^2] működteti a szociális ágazat képzési, továbbképzési, alap- és szakvizsga rendszerét, minősíti a továbbképzési programokat, és
+
+d)[^3] a szociális szolgáltatások szakmacsoport szakképesítései esetében szakmai vizsgát szervez.
 
 (4) A Hivatal
 
@@ -77,3 +99,7 @@ b) közreműködik a feladat- és hatáskörébe tartozó jogalkalmazói és sza
 c) javaslatot tesz a miniszternek a feladat- és hatáskörét érintő jogszabályok megalkotására és módosítására, közreműködik előkészítésükben, és véleményezi azok tervezetét,
 
 d) tevékenységéről évente beszámol a miniszternek, és gondoskodik a beszámolónak a Hivatal honlapján történő közzétételéről.
+
+[^1]: A 3. § (2) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (3) bekezdés c) pontját a 221/2015. (VIII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^3]: A 3. § (3) bekezdés d) pontját a 221/2015. (VIII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be.

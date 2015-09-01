@@ -33,3 +33,9 @@ e) a rehabilitációs orvosszakértők továbbképzésével,
 f) a Foglalkozási Rehabilitációs Szakértői Névjegyzékkel,
 
 g) a foglalkozási rehabilitációs szakértők továbbképzésével
+
+## összefüggő feladatok ellátására a Hivatalt jelöli ki.
+
+(4)[^6] A Kormány az Szt. 58. § (1) bekezdése szerinti és a Gyvt. 96. § (7) bekezdése szerinti módszertani feladatokat ellátó szervként a módszertani feladatokat ellátó szervezeti egységet jelöli ki.
+
+[^6]: Az 5. § (4) bekezdését a 221/2015. (VIII. 7.) Korm. rendelet 26. §-a iktatta be.
