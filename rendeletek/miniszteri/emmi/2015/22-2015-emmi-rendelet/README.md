@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-22-20-5
 | 2015-04-23 | 2015-22-20-5H.2 | 2010: CXXX. törvény |
 | 2015-06-15 | 2015-22-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-06-16 | 2015-22-20-5H.4 | 2010: CXXX. törvény |
+| 2015-09-01 | 2015-22-20-5H.5 | Nemzeti Jogszabálytár (egységes szerkezet) |

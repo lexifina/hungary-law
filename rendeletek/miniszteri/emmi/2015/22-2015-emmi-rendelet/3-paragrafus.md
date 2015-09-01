@@ -1,3 +1,5 @@
-## 2. §[^2]
+## 2. § Az R. 20. § (2a) és (2b) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 26. § (3) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
+## „(2a) Az a szülő, aki az Nkt. 8. § (2) bekezdésben foglaltak alapján felmentést kér a kötelező óvodai nevelésben való részvétel alól, az óvodai beiratkozásra az (1) bekezdésben meghatározott időtartam kezdő időpontjáig nyújtja be kérelmét a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes jegyzőhöz, továbbá a kérelem másolatát a kötelező felvételt biztosító óvoda vezetőjéhez. Ha a szülő nem települési önkormányzati fenntartású óvodába kívánja beíratni gyermekét, akkor a kötelező óvodai nevelésben való részvétel alóli felmentési kérelmét az óvoda fenntartójához nyújtja be, továbbá a kérelem másolatát megküldi a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes jegyzőhöz.
+
+## (2b) A kötelező óvodai nevelésbe beíratott gyermek szülője az óvodai beiratkozást követően a (2a) bekezdésben meghatározott eljárás szerint a nevelési év során kérheti a kötelező óvodai nevelésben való részvétel alóli felmentést, ha a gyermek családi körülményei, képességeinek kibontakoztatása, sajátos helyzete indokolja.”
