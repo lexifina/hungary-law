@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^83]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^104]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -206,7 +206,17 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.26.2. az a férőhelyszám, amelynek erejéig az engedélyes befogadhatja a gyermek otthontalanná vált szülőjét,
 
-3.1.27. családok átmeneti otthona: férőhelyszám,
+3.1.27. családok átmeneti otthona:
+
+3.1.27.1. férőhelyszám,
+
+3.1.27.2. ha a családok átmeneti otthona krízisközpontként működik,
+
+3.1.27.2.1. az erre vonatkozó adat,
+
+3.1.27.2.2. a félutas ház címe,
+
+3.1.27.3. ha a családok átmeneti otthona titkos menedékházként működik, az erre vonatkozó adat,
 
 3.1.28. nevelőszülői hálózat:
 
@@ -310,7 +320,7 @@ A szolgáltatói nyilvántartás adatai
 
 3.7. valamennyi szolgáltatás esetén az ellátási terület,
 
-3.8. az Szt. vagy a Gyvt. alapján befogadásra köteles szolgáltatás, illetve ellátotti létszám, férőhelyszám esetén a szolgáltatás befogadására és a befogadott ellátotti létszámra, férőhelyszámra vonatkozó adatok, illetve az arra a szolgáltatásra, ellátotti létszámra, férőhelyszámra vonatkozó adat, amely után a fenntartó az Szt. vagy a Gyvt. alapján befogadás nélkül jogosult költségvetési támogatásra azzal, hogy a befogadott és befogadás nélkül költségvetési támogatásra jogosító ellátotti létszám, férőhelyszám összesen nem lehet magasabb a bejegyzett ellátotti létszámnál, férőhelyszámnál,
+3.8. az Szt. vagy a Gyvt. alapján befogadásra köteles szolgáltatás, illetve ellátotti létszám, férőhelyszám, feladatmutató esetén a szolgáltatás befogadására és a befogadott ellátotti létszámra, férőhelyszámra, feladatmutatóra vonatkozó adatok, illetve az arra a szolgáltatásra, ellátotti létszámra, férőhelyszámra, feladatmutatóra vonatkozó adat, amely után a fenntartó az Szt. vagy a Gyvt. alapján befogadás nélkül jogosult költségvetési támogatásra azzal, hogy a befogadott és befogadás nélkül költségvetési támogatásra jogosító ellátotti létszám, férőhelyszám összesen nem lehet magasabb a bejegyzett ellátotti létszámnál, férőhelyszámnál,
 
 3.9. egyházi fenntartó és nem állami fenntartó esetén – ha a fenntartó az engedélyes által nyújtott szolgáltatásra ellátási szerződést kötött – az ellátási szerződést megkötő helyi önkormányzat, társulás, illetve állami szerv neve, székhelye, valamint az a szolgáltatás és – olyan szolgáltatás esetén, amelynél a szolgáltatói nyilvántartás ezt az adatot tartalmazza – ellátotti létszám, jelzőkészülékszám, férőhelyszám, amelyre az ellátási szerződés kiterjed, továbbá az ellátási szerződés megszűnésének időpontja, ha az ellátási szerződést határozott időre kötötték.
 
@@ -342,4 +352,4 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^83]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja szerint módosított szöveg.
+[^104]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.

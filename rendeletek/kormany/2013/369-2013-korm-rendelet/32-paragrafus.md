@@ -1,12 +1,10 @@
-32. § (1) A működést engedélyező szerv a szakmai program véleményezésére a 20. § (2) bekezdésében foglaltak szerint a Főigazgatóságot, illetve a kijelölt egyházi módszertani intézményt szakértőként rendeli ki
+32. § (1)[^65] A megyei működést engedélyező szerv a szakmai program véleményezésére a 20. § (2) bekezdésében foglaltak szerint a Hivatal módszertani feladatokat ellátó szervezeti egységét, az Intézetet, illetve a kijelölt egyházi módszertani intézményt szakértőként rendeli ki
 
 a) fenntartóváltozás esetén, az általános jogutódlással történő fenntartóváltozás kivételével,
 
 b) ha a módosítás új szolgáltatás vagy szociális szolgáltatás esetén új ellátotti csoport bejegyzésére irányul, vagy
 
-c) ha szakértő kirendelése a működést engedélyező szerv szerint a szakmai program módosulása miatt szükséges,
-
-kivéve, ha az engedélyes a Főigazgatóság fenntartásában van, vagy az engedélyest a kérelem alapján a Főigazgatóság fenntartásába kívánják adni.
+c) ha szakértő kirendelése a működést engedélyező szerv szerint a szakmai program módosulása miatt egyéb okból szükséges.
 
 (2) Családi gyermekfelügyelet esetén ki kell kérni a védőnő véleményét, ha a családi gyermekfelügyelet körülményei megváltoznak.
 
@@ -18,8 +16,15 @@ b) nappali szociális ellátás, bentlakásos szociális intézményi ellátás,
 
 c) támogatott lakhatás esetén, ha a módosítás célja lakhatási szolgáltatást biztosító ingatlan bejegyzése,
 
-d) rehabilitációs szociális intézményi ellátás esetén, ha a módosítás célja külső férőhelyek bejegyzése, valamint
+d)[^66] rehabilitációs szociális intézményi ellátás esetén, ha a módosítás célja külső férőhelyek bejegyzése,
 
-e) az a)–d) pontban nem említett esetben, ha a helyszíni szemle tartása egyéb okból indokolt.
+e)[^67] családok átmeneti otthona esetén, ha a módosítás célja félutas ház bejegyzése, valamint
+
+f)[^68] az a)–e) pontban nem említett esetben, ha a helyszíni szemle tartása egyéb okból indokolt.
 
 (4) A működést engedélyező szerv támogató szolgáltatás esetén szemlét tart, ha a szolgáltatáshoz másik gépjárművet kívánnak használni.
+
+[^65]: A 32. § (1) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^66]: A 32. § (3) bekezdés d) pontja a 221/2015. (VIII. 7.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^67]: A 32. § (3) bekezdés e) pontja a 221/2015. (VIII. 7.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^68]: A 32. § (3) bekezdés f) pontját a 221/2015. (VIII. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.

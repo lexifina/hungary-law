@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-369-20-
 | 2014-09-05 | 2013-369-20-22.4 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2013-369-20-22.5 | 353/2014. (XII. 29.) Korm. rendelet |
 | 2015-04-01 | 2013-369-20-22.6 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-09-01 | 2013-369-20-22.7 | 221/2015. (VIII. 7.) Korm. rendelet |
