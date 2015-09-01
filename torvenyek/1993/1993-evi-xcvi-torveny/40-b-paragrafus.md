@@ -24,7 +24,9 @@ k) a Gazdasági Versenyhivatallal,
 
 l) külön törvényben meghatározott feltételek megléte esetén az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések foganatosításáért felelős szervvel,
 
-m) alapvető jogok biztosával
+m) alapvető jogok biztosával,
+
+n) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
 szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
