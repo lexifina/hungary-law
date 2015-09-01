@@ -10,7 +10,7 @@
 
 (5) Az intézményvezetői pályázati eljárás előkészítésével összefüggő feladatokat – ide nem értve a pályázati feltételek meghatározását – az állami intézményfenntartó központ vezetője, a köznevelési intézményt fenntartó települési önkormányzat jegyzője, más fenntartó esetén a megbízási jogkör gyakorlójának megbízottja (a továbbiakban: pályáztató) látja el.
 
-(6)[^92] Az intézményvezetői magasabb vezetői megbízásra irányuló pályázati felhívást – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20/A. § (4) bekezdésében meghatározottakon túl – a miniszter által vezetett minisztérium hivatalos lapjában is közzé kell, egyéb magasabb vezetői, vezetői megbízás esetén közzé lehet tenni. A pályázat benyújtásának határidejét ezekben az esetekben is a személyügyi központ internetes oldalán történő közzétételtől kell számítani.
+(6)[^93] Az intézményvezetői magasabb vezetői megbízásra irányuló pályázati felhívást – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20/A. § (4) bekezdésében meghatározottakon túl – a miniszter által vezetett minisztérium hivatalos lapjában is közzé kell, egyéb magasabb vezetői, vezetői megbízás esetén közzé lehet tenni. A pályázat benyújtásának határidejét ezekben az esetekben is a személyügyi központ internetes oldalán történő közzétételtől kell számítani.
 
 (7) A pályázati felhívásnak a Kjt. 20/A. § (3) bekezdésében foglaltakon kívül tartalmaznia kell:
 
@@ -22,4 +22,4 @@ c) a megbízás kezdő napját és megszűnésének időpontját, valamint
 
 d) a beosztáshoz kapcsolódó juttatásokat.
 
-[^92]: A 22. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 754. §-a szerint módosított szöveg.
+[^93]: A 22. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 754. §-a szerint módosított szöveg.

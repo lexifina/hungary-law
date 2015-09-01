@@ -1,4 +1,4 @@
-1/A. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^128]
+1/A. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^129]
 
 1. A Pedagógus I. fokozatba történő besorolás értékelése 2015. évben
 
@@ -20,4 +20,4 @@
 
 | 3 | Ha a munkakör részét képezi foglalkozás, tanóra megtartása, a pedagógus által vezetett foglalkozás értékelése Ha a munkakör részét nem képezi foglalkozás, tanóra megtartása, a munkakör ellátása során keletkezett dokumentum elemzése | 40 |
 
-[^128]: Az 1/A. mellékletet a 89/2015. (IV. 9.) Korm. rendelet 20. §-a iktatta be.
+[^129]: Az 1/A. mellékletet a 89/2015. (IV. 9.) Korm. rendelet 20. §-a iktatta be.

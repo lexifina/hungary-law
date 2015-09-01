@@ -1,4 +1,4 @@
-## 40. §[^127]
+## 40. §[^128]
 
 1. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez
 
@@ -40,4 +40,4 @@
 
 | Az országos pedagógiai-szakmai ellenőrzés összegző értékelése |
 
-[^127]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^128]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
