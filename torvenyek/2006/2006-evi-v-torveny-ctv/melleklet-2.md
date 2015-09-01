@@ -140,7 +140,7 @@
 
 ## b) ügyvezetői nyilatkozat a nem pénzbeli hozzájárulás rendelkezésre bocsátásáról, a tagnak a nem pénzbeli hozzájárulás értékelésére vonatkozó nyilatkozatával együtt;
 
-## 10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kamara alapítási engedélye;
+## 10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási engedélye;
 
 ## 11. közjegyzői iroda esetén a területi kamara elnökségének alapítási engedélye.
 
