@@ -8,4 +8,4 @@
 
 (5) Az egyházi fenntartó kezdeményezésére a MAB-on belül hittudományi kérdésekkel foglalkozó bizottságot kell működtetni.
 
-(6) Az egyházi felsőoktatási intézmény működésére a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseit, e törvény 94. § (2), (3), (6) és (8) bekezdését, valamint a 95. § (2), (3) és (6) bekezdését kell alkalmazni.
+(6) Az egyházi felsőoktatási intézmény működésére a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény és az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló törvény rendelkezéseit, e törvény 94. § (2), (3), (6) bekezdését, valamint a 95. § (2), (3) és (6) bekezdését kell alkalmazni.

@@ -14,13 +14,7 @@ c) önköltséges hallgató.
 
 (2) Az (1) bekezdésben meghatározott hallgatók számára – kormányrendeletben meghatározottak szerint – a magyar állam biztosítja a hallgatói hitel igénybevételének lehetőségét.
 
-(2a) A hallgatói hitel az (1) bekezdés
-
-a) a) pontja szerinti hallgató számára a hallgatói léttel kapcsolatos költségek,
-
-b) b) és c) pontjában meghatározott hallgató számára a hallgatói léttel, valamint a képzéssel kapcsolatos költségek
-
-finanszírozásához járul hozzá.
+(2a)
 
 (3) A magyar állami ösztöndíjjal támogatott hallgató képzésének jogszabályban meghatározott költségét, valamint a magyar állami részösztöndíjjal támogatott hallgató képzési költségének felét az állam, az önköltséges képzés költségeit a hallgató viseli. A magyar állami (rész)ösztöndíjjal támogatott képzésre tekintettel a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által megállapított visszafizetési kötelezettség adók módjára behajtandó köztartozás. Bármely képzési ciklusban, felsőoktatási szakképzésben, szakirányú továbbképzésben részt vevő hallgató lehet magyar állami (rész)ösztöndíjjal támogatott, függetlenül annak munkarendjétől.
 
@@ -28,7 +22,7 @@ finanszírozásához járul hozzá.
 
 (5) A (4) bekezdés szerinti döntés előkészítésében
 
-a) a miniszter felkérésére részt vesz a Felsőoktatási Tervezési Testület, valamint
+a)
 
 b) a 72. § (5) bekezdése szerint közreműködik az Országos Doktori Tanács.
 
@@ -38,7 +32,7 @@ a) a nemzetstratégiai és vidékfejlesztési stratégiai célokat,
 
 b) a közép- és hosszú távú munkaerő-piaci előrejelzéseket,
 
-c) a végzett hallgatók pályakövetési adatait és
+c) a végzett hallgatók pályakövetési adatait
 
 d)
 

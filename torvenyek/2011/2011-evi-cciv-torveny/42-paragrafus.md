@@ -10,6 +10,8 @@ b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugya
 
 (3) Az (1)–(2) bekezdésekben meghatározott kérelmek teljesítésének feltételeit a fogadó felsőoktatási intézmény határozza meg.
 
-(4) Aki a felsőoktatási intézménybe felvételt vagy átvételt nyert, beiratkozással hallgatói jogviszonyt létesíthet.
+(4) Aki a felsőoktatási intézménybe felvételt vagy átvételt nyert, a felvételről, átvételről szóló döntés jogerőre emelkedését követően jogosult beiratkozással hallgatói jogviszonyt létesíteni, továbbá köteles a 43. § (2) bekezdésében meghatározott kötelezettségek teljesítésére.
 
 (5) A hallgatói jogviszony fennállása alatt újabb beiratkozásra nincs szükség. A hallgatónak az intézményi szabályozásban meghatározottak szerint – a képzési időszak megkezdése előtt – be kell jelentkeznie az adott képzési időszakra. Nem jelentkezhet be az a hallgató, aki a lejárt fizetési kötelezettségeinek nem tett eleget.
+
+(6) Az (1) bekezdés b) pontja szerinti átvételre – a Kormány rendeletében meghatározottak kivételével – csak azonos végzettségi szintet eredményező szakok között kerülhet sor.

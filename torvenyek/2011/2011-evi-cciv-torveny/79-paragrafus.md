@@ -6,7 +6,7 @@
 
 79. § (1) Magyar állampolgár engedély nélkül folytathat tanulmányokat külföldi felsőoktatási intézményben.
 
-(2) Az államilag elismert külföldi felsőoktatási intézményben folytatott képzéshez a miniszter által vezetett minisztérium – pályázati úton elnyerhető – ösztöndíjjal nyújthat segítséget.
+(2) Az államilag elismert külföldi felsőoktatási intézményben folytatott képzéshez a miniszter által vezetett minisztérium ösztöndíjjal nyújthat segítséget.
 
 (3) Ha a magyar állampolgár nemzetiséghez tartozik, a miniszter által vezetett minisztérium – pályázati úton elnyerhető – ösztöndíjjal nyújt segítséget az anyanyelven folytatott felsőfokú tanulmányokban való részvételhez.
 

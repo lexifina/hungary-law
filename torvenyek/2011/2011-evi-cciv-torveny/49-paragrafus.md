@@ -6,7 +6,15 @@
 
 49. § (1) A felsőoktatási intézményben folytatott tanulmányok során a tanulmányi követelmények teljesítését – az egyes tantárgyakhoz, tantervi egységekhez rendelt – tanulmányi pontokban (a továbbiakban: kredit) kell kifejezni és érdemjeggyel minősíteni. A hallgatónak az adott képzésben történő előrehaladását a megszerzett kreditek összege, minőségét az érdemjegye fejezi ki.
 
-(2) A hallgató részére biztosítani kell, hogy tanulmányai során az oklevél megszerzéséhez előírt összes kredit legalább öt százalékáig, az intézmény szervezeti és működési szabályzata alapján szabadon választható tárgyakat vehessen fel – vagy e tárgyak helyett teljesíthető önkéntes tevékenységben vehessen részt –, továbbá az összes kreditet legalább húsz százalékkal meghaladó kreditértékű tantárgy közül választhasson. Biztosítani kell, hogy a hallgató egyéni tanulmányi rendjében – külön önköltség, illetve térítési díj fizetése nélkül – az összes előírt kreditet tíz százalékkal meghaladó kreditértékű tárgyat vehessen fel.
+(2) A hallgató részére biztosítani kell, hogy tanulmányai során az oklevél megszerzéséhez előírt összes kredit legalább öt százalékáig, az intézmény szervezeti és működési szabályzata alapján szabadon választható tárgyakat vehessen fel – vagy e tárgyak helyett teljesíthető önkéntes tevékenységben vehessen részt –, továbbá az összes kreditet legalább húsz százalékkal meghaladó kreditértékű tantárgy közül választhasson.
+
+(2a) Biztosítani kell, hogy a hallgató egyéni tanulmányi rendjében – külön önköltség, illetve térítési díj fizetése nélkül –
+
+a) az összes előírt kreditet tíz százalékkal meghaladó kreditértékű tárgyat, továbbá azt, hogy
+
+b) az összes előírt kredit tíz százalékáig terjedően nem magyar nyelven oktatott tárgyat
+
+vehessen fel.
 
 (3) A hallgató a tanulmányaihoz tartozó tantárgyakat annak a felsőoktatási intézménynek, amellyel hallgatói jogviszonyban áll, másik képzésében, továbbá más felsőoktatási intézményben mint vendéghallgató is felveheti.
 

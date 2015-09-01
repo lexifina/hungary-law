@@ -1,20 +1,14 @@
-31. § (1) Nem foglalkoztatható tovább az az oktató, aki az oktatói munkakörben történő foglalkoztatásának kezdetétől számított
+31. § (1)
 
-a) nyolcadik év elteltéig az adjunktusi munkakör
+(2) A 27. § (1) bekezdés e) pontjában meghatározott oktató kivételével, nem foglalkoztatható tovább az az oktató, aki az oktatói munkakörben történő foglalkoztatásának kezdetétől számított tíz év elteltével nem szerzett tudományos fokozatot.
 
-b)
+(3) A (2) bekezdésben meghatározott határidőbe nem számít be az az időszak, amely alatt a munkaviszony, illetve közalkalmazotti jogviszony kilencven napnál hosszabb ideig szülési szabadság miatt, gyermekgondozás céljából, közeli hozzátartozó ápolása céljából, keresőképtelen betegség miatt, valamint külföldi felsőoktatási intézményben vagy kutatóintézetben való munkavállalás vagy szakmai tanulmányút miatt szünetel. A határidő elteltével az oktató munkaviszonya, közalkalmazotti jogviszonya megszűnik.
 
-betöltéséhez szükséges feltételeket nem teljesítette.
-
-(2) Nem foglalkoztatható továbbá az az oktató sem, aki az oktatói munkakörben történő foglalkoztatásának kezdetétől számított tizenkettedik év elteltéig nem szerzett tudományos fokozatot.
-
-(3) Az (1)–(2) bekezdésben meghatározott határidőkbe nem számit be az az időszak, amely alatt a munkaviszony, illetve közalkalmazotti jogviszony kilencven napnál hosszabb ideig szülési szabadság miatt, gyermekgondozás céljából, közeli hozzátartozó ápolása céljából, keresőképtelen betegség miatt, valamint külföldi felsőoktatási intézményben vagy kutatóintézetben való munkavállalás vagy szakmai tanulmányút miatt szünetel. A határidő elteltével az oktató munkaviszonya, közalkalmazotti jogviszonya megszűnik.
-
-(4) Az egyetemi, főiskolai tanári, kutatóprofesszori, tudományos tanácsadói munkakörökben az oktató és a kutató a hetvenedik életévének betöltéséig foglalkoztatható. A főiskolai, illetve egyetemi tanár esetén a foglalkoztatásra irányuló jogviszony megszüntetésére a rektor jogosult.
+(4) Az oktató és a kutató a hetvenedik életévének betöltéséig foglalkoztatható. A főiskolai, illetve egyetemi tanár esetén a foglalkoztatásra irányuló jogviszony megszüntetésére a rektor jogosult.
 
 (5) A munkáltató rendes felmondással, illetve felmentéssel – a munka törvénykönyvében és a közalkalmazottak jogállásáról szóló törvényben meghatározottakon túl – az oktatói munkakörben történő foglalkoztatást megszüntetheti, ha az oktató
 
-a) nem teljesítette a foglalkoztatási követelményrendszerben meghatározottakat,
+a) nem teljesítette a foglalkoztatási követelményrendszerben meghatározott, a munkáltató által legalább ötévente felülvizsgált, ellenőrzött feltételeket,
 
 b) nem teljesítette azokat a munkakör betöltéséhez szükséges feltételeket, amelyeket a munkáltató – megfelelő határidő biztosításával – a munkaszerződésben vagy a kinevezési okmányban előírt,
 

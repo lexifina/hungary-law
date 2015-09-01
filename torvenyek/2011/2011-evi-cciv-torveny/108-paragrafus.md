@@ -4,7 +4,7 @@
 
 1. doktori értekezés: a doktorjelölt által készített írásmű, alkotás vagy munka, amellyel a doktorjelölt – a doktori fokozatszerzési eljárás során – bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
 
-1. a. duális képzés: a műszaki, informatika, agrár, természettudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, illetve e képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
+1. a. duális képzés: a műszaki, informatika, agrár, természettudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
 
 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 
@@ -28,27 +28,11 @@
 
 12. intézményi dokumentum: az alapító okirat, továbbá az e törvényben előírt szabályzatok, programok, tervek, így a szervezeti és működési szabályzat, képzési program, intézményfejlesztési terv, hallgatói önkormányzat alapszabálya, a számviteli törvény és végrehajtási rendelete szerinti belső szabályzat;
 
-13. kar: egy vagy több képzési területen, tudományterületen több, a képzési programban rögzített szakmailag összetartozó képzés oktatási és tudományos kutatási, illetve alkotó művészeti tevékenység feladatait ellátó szervezeti egység;
-
-a) egyetemi kar az a szervezeti egység, amelyen
-
-aa) a teljes munkaidőben foglalkoztatott oktatók létszáma eléri a 40 főt
-
-ab) a teljes munkaidőben foglalkoztatott oktatók és kutatók legalább fele rendelkezik tudományos fokozattal; a tudományos fokozattal rendelkező oktatók rendszeres kutató tevékenységet folytatnak
-
-ac) az egy teljes munkaidőben foglalkoztatott, tudományos fokozattal rendelkező oktatóra jutó teljes idejű nappali képzésben részt vevő hallgatók száma nem haladja meg a 35 főt
-
-ad) a teljes munkaidőben foglalkoztatott oktatók és kutatók közül legalább három az egyetem doktori iskolájának a törzstagja;
-
-b) főiskolai kar az a szervezeti egység, amelyen
-
-ba) a teljes munkaidőben foglalkoztatott oktatók létszáma eléri a 35 főt
-
-bb) a teljes munkaidőben foglalkoztatott oktatók legalább harmada rendelkezik tudományos fokozattal;
+13.
 
 14. képesítési keretrendszer: a többciklusú képzés egyes végzettségi szintjeinek minden képzési területre vonatkozó általános jellemzői;
 
-15. képzési ág: a képzési terület azon szakjainak összessége, amelyeknek a képzési tartalma a képzés kezdeti szakaszában azonos;
+15.
 
 16. képzési és kimeneti követelmények: azoknak az ismereteknek, jártasságoknak, készségeknek, képességeknek (kompetencia) összessége, illetve az a tudás, amelynek megszerzése esetén az adott szakon oklevél kiadható;
 
@@ -64,13 +48,15 @@ b) a doktori képzés tervét
 
 tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, illetve az oktatási programmal és a tantárgyi programokkal, valamint az értékelési és ellenőrzési módszerekkel, eljárásokkal és szabályokkal együtt;
 
-20. képzési terület: azoknak a szakoknak és képzési ágaknak kormányrendeletben meghatározott összessége, amelyek hasonló vagy részben megegyező képzési tartalommal rendelkeznek;
+20. képzési terület: azoknak a szakoknak kormányrendeletben meghatározott összessége, amelyek hasonló vagy részben megegyező képzési tartalommal rendelkeznek;
 
 21. kis létszámú szak: nemzetközi kötelezettségvállalás, kultúr- és oktatáspolitikai érdekek alapján indított képzés, amelynek éves, magyar állami (rész)ösztöndíjjal támogatott felvehető létszáma országosan nem haladja meg a húsz főt, továbbá a nemzetiségi képzés;
 
 22. klinika: az az egészségügyi szolgáltató, amely a felsőoktatási intézmény szervezeti egységeként közreműködik az orvosképzéssel összefüggő képzési és kutatási feladatok ellátásában;
 
 23. konzultáció: a felsőoktatási intézmény oktatója által a hallgató részére biztosított személyes megbeszélés lehetősége;
+
+23a. közösségi felsőoktatási képzési központ: felsőoktatási intézmény székhelyén kívül működő, felsőoktatási intézménynek nem minősülő szervezet, amely a működési engedélyében meghatározott képzési terület és maximális hallgatói létszám erejéig a képzésre vonatkozó működési jogosultsággal, a szükséges oktatói karral rendelkező felsőoktatási intézménnyel kötött megállapodás alapján a felsőoktatási intézmény és annak hallgatói számára biztosítja a felsőoktatási oktatási alaptevékenység, a képzés tárgyi és ingatlanhasználati – a felsőoktatási intézménnyel kötött megállapodásban foglaltak szerint pénzügyi – feltételeit.
 
 24. kredit: a hallgatói tanulmányi munka mértékegysége, amely a tantárgy, illetve a tantervi egység vonatkozásában kifejezi azt a becsült időt, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges; egy kredit átlagosan harminc tanulmányi munkaórát jelent, a kredit értéke – feltéve, hogy a hallgató teljesítményét elfogadták – nem függ attól, hogy a hallgató a tudására milyen értékelést kapott;
 
@@ -118,6 +104,6 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 46. tudományterületek: a bölcsészettudományok, a hittudomány, az agrártudományok, a műszaki tudományok, az orvos- és egészségtudományok, a társadalomtudományok, a természettudományok és a művészetek, amelyek tudományágakra tagozódnak;
 
-47. végbizonyítvány (abszolutórium): a tantervben előírt vizsgák eredményes letételét és – a nyelvvizsga letételének és szakdolgozat (diplomamunka) elkészítésének kivételével – más tanulmányi követelmények teljesítését, illetve a szakdolgozathoz (diplomamunkához) rendelt kreditpontok kivételével a képzési és kimeneti követelményekben előírt kreditpontok megszerzését igazolja, amely minősítés és értékelés nélkül tanúsítja, hogy a hallgató a tantervben előírt tanulmányi és vizsgakövetelménynek mindenben eleget tett;
+47. végbizonyítvány (abszolutórium): a tantervben előírt vizsgák eredményes letételét és – a nyelvvizsga letételének és szakdolgozat (diplomamunka) elkészítésének kivételével – más tanulmányi követelmények teljesítését, illetve a képzési és kimeneti követelményekben előírt kreditpontok megszerzését igazolja, amely minősítés és értékelés nélkül tanúsítja, hogy a hallgató a tantervben előírt tanulmányi és vizsgakövetelménynek mindenben eleget tett;
 
 48. vizsga: az ismeretek, készségek és képességek elsajátításának, megszerzésének – értékeléssel egybekötött – ellenőrzési formája.

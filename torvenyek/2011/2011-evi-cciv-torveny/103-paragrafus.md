@@ -1,4 +1,4 @@
-103. § (1) Azokban a felsőoktatási intézményekben, ahol általános iskolai vagy középiskolai tanárképzés legalább kettő szakon folyik, a tanárképzés szakmai, tartalmi, szervezeti és tudományos feladatainak összehangolását, valamint az elméleti és gyakorlati képzés szervezését a tanárképző központ biztosítja, amelynek vezetője főigazgató. Intézményenként egy tanárképző központ létesíthető.
+103. § (1) Azokban a felsőoktatási intézményekben, ahol általános iskolai vagy középiskolai tanárképzés folyik, a tanárképzés szakmai, tartalmi, szervezeti és tudományos feladatainak összehangolását, valamint az elméleti és gyakorlati képzés szervezését a tanárképző központ biztosítja, amelynek vezetője főigazgató. Intézményenként egy tanárképző központ létesíthető.
 
 (2) A tanárképző központ koordinálja különösen a hallgatói meghallgatást, kiválasztást, felvételt, átvételt, a kreditelismerés, a pedagógiai szakképzés, a záróvizsga letételének folyamatát, és szervezi, ellenőrzi, valamint értékeli az iskolai gyakorlatot. Nyomon követi a hallgatói előremenetelt, pályakövetést végez.
 
@@ -12,6 +12,6 @@
 
 (7) A nemzetiségi pedagógusképzésben a nemzetiség nyelvét a képzés teljes időtartama alatt oktatni kell.
 
-(8) A nemzetiségi pedagógusképzés a finanszírozás szempontjából kis létszámú szaknak minősül.
+(8) A nemzetiségi pedagógusképzés kis létszámú szaknak minősül.
 
 (9) A felsőoktatási intézmények megállapodása alapján közös képzésben is indítható tanárképzés. Az így szervezett képzésben a szak meghirdetője és az oklevél kiadója a szakindítási engedéllyel rendelkező intézmény. A közös képzésben közös oklevelet kell kiadni. Az egyházi felsőoktatási intézmény által indított közös képzésben – feltéve, hogy az hitéleti tanári képzésre is irányul – a hallgatói jogviszony az egyházi felsőoktatási intézménnyel jön létre.

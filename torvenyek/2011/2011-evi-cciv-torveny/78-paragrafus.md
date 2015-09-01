@@ -12,10 +12,10 @@ b) a kiállított oklevél az érintett országok belső joga szerint felsőokta
 
 c) a magyar és a külföldi felsőoktatási intézmény rendelkezik jogosultsággal arra a képzésre, amelynek képzési és kimeneti követelményei megegyeznek a megállapodás tárgyát képező képzés képzési és kimeneti követelményeivel,
 
-d) a magyar felsőoktatási intézmény kreditátviteli bizottsága nyilatkozik arról, hogy a szakindítási engedéllyel rendelkező képzés és a megállapodás tárgyát képező képzés közötti kredit-egyenértékűség eléri a hetvenöt százalékot,
+d)
 
 e) a hallgató legalább harminc kreditet a szakindítási engedéllyel rendelkező magyar felsőoktatási intézményben teljesít.
 
 (4) A (3) bekezdésben foglalt képzés esetében nem szükséges a külföldi felsőoktatási intézmény magyarországi működésének engedélyezése.
 
-(5) Az oktatási hivatal a megállapodást és a képzést nyilvántartásba veszi, amennyiben a magyar intézmény szenátusa határoz a (3) bekezdésben meghatározott feltételek fennállásáról. Ennek hiányában a szakindításra vonatkozó általános szabályokat kell szabályozni.
+(5) Az oktatási hivatal a megállapodást és a képzést a szakindításra vonatkozó általános szabályok alapján veszi nyilvántartásba.

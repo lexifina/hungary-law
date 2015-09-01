@@ -12,6 +12,12 @@ b) a hallgatói önkormányzati választásokon a felsőoktatási intézmény te
 
 (2) A hallgatói önkormányzat alapszabálya határozza meg a hallgatói önkormányzat működésének a rendjét. Az alapszabályt a hallgatói önkormányzat küldöttgyűlése fogadja el, és a szenátus jóváhagyásával válik érvényessé. Az alapszabály jóváhagyásáról a szenátusnak legkésőbb a beterjesztést követő harmincadik nap eltelte utáni első ülésen nyilatkoznia kell.
 
+(2a) A hallgatói önkormányzat tisztségviselője
+
+a) megbízatási ideje – valamennyi hallgatói önkormányzati tisztségének időtartamát egybeszámítva – legfeljebb négy év lehet,
+
+b) nem tölthet be olyan intézményi társaságban vezető tisztségviselői feladatokat, nem lehet tagja a felügyelőbizottságnak, nem láthat el könyvvizsgálói feladatot, amelyet a felsőoktatási intézmény hozott létre, vagy amelyben részesedéssel rendelkezik.
+
 (3) Az alapszabály jóváhagyása csak akkor tagadható meg, ha az jogszabálysértő vagy ellentétes a felsőoktatási intézmény szervezeti és működési szabályzatával. Az alapszabályt, illetve módosítását jóváhagyottnak kell tekinteni, ha a szenátus a meghatározott határidőn belül nem nyilatkozott.
 
 (4) A hallgatói önkormányzat működéséhez és a feladatai elvégzéséhez a felsőoktatási intézmény biztosítja a feltételeket, amelynek jogszerű felhasználását, a hallgatói önkormányzat törvényes működését ellenőrizni köteles. A hallgatói önkormányzat feladatainak ellátásához térítésmentesen használhatja a felsőoktatási intézmény helyiségeit, berendezéseit, ha ezzel nem korlátozza a felsőoktatási intézmény működését.

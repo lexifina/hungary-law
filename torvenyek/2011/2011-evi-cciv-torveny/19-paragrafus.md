@@ -26,7 +26,7 @@ b) annak, akit oktatói, kutatói, illetve tanári munkakörben közalkalmazotti
 
 ba) oktatói azonosítót,
 
-bb) kérelemre oktatói, kutatói, alkalmazotti igazolványt;
+bb)
 
 c) a felsőoktatási felvételi eljárásra jelentkezőknek, a hallgatóknak hallgatói azonosítót,
 
@@ -34,6 +34,6 @@ d) a hallgatóknak kérelemre diákigazolványt
 
 ad ki.
 
-(5) A felsőoktatás információs rendszerében egy személynek a (4) bekezdés b) pontja, vagy a (4) bekezdés c) pontja alapján egy azonosítója és egy igazolványa lehet.
+(5) A felsőoktatás információs rendszerében egy személynek a (4) bekezdés b) pontja, vagy a (4) bekezdés c) pontja alapján egy azonosítója lehet.
 
-(6) Az oktatói és a hallgatói azonosító, valamint az oktatói, kutatói, alkalmazotti igazolvány és a diákigazolvány-nyilvántartások körében kezelendő adatok körét, az adatkezelés célját, időtartamát, az adatok továbbításának feltételeit, valamint az azonosítók és az igazolványok műszaki-technológiai jellemzőit, felhasználói funkcióit a 3. melléklet rögzíti. Az azonosítók és az igazolványok kiadásának rendjét a Kormány rendeletben szabályozza.
+(6) Az oktatói és a hallgatói azonosító, valamint a diákigazolvány-nyilvántartások körében kezelendő adatok körét, az adatkezelés célját, időtartamát, az adatok továbbításának feltételeit, valamint az azonosítók és az igazolványok műszaki-technológiai jellemzőit, felhasználói funkcióit a 3. melléklet rögzíti. Az azonosítók és az igazolványok kiadásának rendjét a Kormány rendeletben szabályozza.

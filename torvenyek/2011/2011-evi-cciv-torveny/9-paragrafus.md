@@ -4,17 +4,31 @@
 
 (3) Egyetem az a felsőoktatási intézmény, amelyik
 
-a) legalább két képzési területen jogosult mesterképzésre, valamint legalább két tudományterületen doktori képzésre és doktori fokozat odaítélésére;
+a) legalább nyolc alapképzési és hat mesterképzési szakon jogosult képzésre, valamint doktori képzésre és doktori fokozat odaítélésére,
 
-b) munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, kutatóinak legalább ötven százaléka tudományos fokozattal rendelkezik;
+b) munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, kutatóinak legalább hatvan százaléka tudományos fokozattal rendelkezik,
 
-c) legalább három egyetemi karral rendelkezik;
+c) képzéseit képes idegen nyelven folytatni az általa indított szakok egy részén, valamint
 
-d) tudományos diákköröket működtet;
+d) tudományos diákkört működtet.
 
-e) az általa indított szakok egy részén képzéseit képes idegen nyelven folytatni.
+(3a) Az alkalmazott tudományok egyeteme az a felsőoktatási intézmény, amelyik
 
-(4) A főiskola kari struktúrában is működtethető, munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, kutatóinak legalább harmada tudományos fokozattal rendelkezik. A főiskola tudományos diákköröket működtethet.
+a) legalább négy alapképzési szakon és két mesterképzési szakon jogosult képzésre,
+
+b) – ha a működési engedélye a 108. § 1a. pontjában meghatározott képzési területre, szakra kiterjed – legalább két szakon duális képzést folytat,
+
+c) munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, kutatóinak legalább negyvenöt százaléka tudományos fokozattal rendelkezik,
+
+d) képzéseit képes idegen nyelven folytatni az általa indított szakok egy részén, valamint
+
+e) tudományos diákkört működtet.
+
+(4) A főiskola az a felsőoktatási intézmény, amelyik
+
+a) munkaviszony, illetve közalkalmazotti jogviszony keretében foglalkoztatott oktatóinak, kutatóinak legalább harmada tudományos fokozattal rendelkezik, valamint
+
+b) tudományos diákkört működtethet.
 
 (5)
 

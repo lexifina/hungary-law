@@ -1,6 +1,6 @@
 ## XXVIII. Fejezet
 
-## AZ ORVOS- ÉS EGÉSZSÉGTUDOMÁNYI, ILLETVE AGRÁRTUDOMÁNYI KÉPZÉST FOLYTATÓ FELSŐOKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
+## AZ ORVOS- ÉS EGÉSZSÉGTUDOMÁNYI KÉPZÉST FOLYTATÓ FELSŐOKTATÁSI INTÉZMÉNYEKRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
 
 ## 59. Az egészségügyi felsőoktatási intézmény működése
 
@@ -10,7 +10,7 @@ a) a felsőoktatási intézmény részeként működtethetnek,vagy
 
 b) a felsőoktatási intézménytől elkülönített szervezeti keretben létesíthetnek és tarthatnak fenn.
 
-(2) Az egészségügyi felsőoktatási intézmény – az (1) bekezdésben foglaltakon túl – egészségügyi szolgáltatóval társulhat.
+(2)
 
 (3) Az (1) bekezdés b) pontja esetében az egészségügyi szolgáltatót önálló alapító okirattal vagy egyéb létesítő okirattal hozhatja létre az egészségügyi felsőoktatási intézmény.
 

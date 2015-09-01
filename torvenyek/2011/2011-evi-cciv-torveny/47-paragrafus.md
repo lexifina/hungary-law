@@ -8,7 +8,7 @@
 
 (3) Egy adott fokozat (oklevél) megszerzéséhez igénybe vehető támogatási idő legfeljebb két félévvel lehet hosszabb, mint az adott tanulmányok képzési ideje. Az adott szak támogatási idejébe az azonos szakon korábban igénybe vett támogatási időt be kell számítani. Ha a hallgató az így meghatározott támogatási idő alatt az adott fokozatot (oklevelet) nem tudja megszerezni, a tanulmányait e szakon önköltséges képzési formában folytathatja akkor is, ha az (1) bekezdés szerinti támogatási időt egyébként még nem merítette ki.
 
-(4) A fogyatékossággal élő hallgató támogatási idejét a felsőoktatási intézmény legfeljebb négy félévvel megnövelheti.
+(4) A fogyatékossággal élő hallgató (1) bekezdésben meghatározott támogatási idejét a felsőoktatási intézmény legfeljebb négy félévvel megnövelheti.
 
 (5) A hallgató által igénybe vett támogatási időnek minősül minden olyan félév, amelyre a hallgató bejelentkezett.
 

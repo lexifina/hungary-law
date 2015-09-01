@@ -14,7 +14,7 @@
 
 a) működteti
 
-aa) a felsőoktatás információs rendszerét, a felsőoktatási információs rendszer működéséért felelős szervet, az oktatási hivatalt, a külföldi bizonyítványok és oklevelek elismeréséért felelős szervet,
+aa) a felsőoktatási információs rendszer működéséért felelős szervet, az oktatási hivatalt, a külföldi bizonyítványok és oklevelek elismeréséért felelős szervet,
 
 ab) az oktatási jogok biztosának hivatalát,
 

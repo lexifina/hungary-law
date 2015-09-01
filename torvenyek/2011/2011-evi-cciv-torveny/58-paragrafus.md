@@ -12,4 +12,4 @@ c) az időközben megszűnt hallgatói jogviszonnyal rendelkezett hallgatót
 
 érintő döntésekre, illetve mulasztásokra.
 
-(4) A jogorvoslati eljárás rendjét a felsőoktatási intézmény szervezeti és működési szabályzatában – a jelen törvényben és a Kormány rendeletében meghatározott keret között – szabályozza.
+(4) A jogorvoslati eljárás rendjét a felsőoktatási intézmény szervezeti és működési szabályzatában – a jelen törvényben meghatározott keret között – szabályozza.

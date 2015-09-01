@@ -4,7 +4,7 @@
 
 (2) Állami felsőoktatási intézmény esetén a fenntartó
 
-a) egységes elvek szerint határozza meg a rektor, kancellár juttatásait,
+a) határozza meg a rektor, kancellár juttatásait,
 
 b) hagyja jóvá a rektor munkaköri leírásának az oktatói, kutatói feladatoktól elkülönülő részét, valamint a kancellár munkaköri leírását.
 
@@ -14,7 +14,7 @@ b) hagyja jóvá a rektor munkaköri leírásának az oktatói, kutatói feladat
 
 (4) Állami felsőoktatási intézmény esetén
 
-a) a 12. § (3) bekezdés g) pontjában meghatározott egyetértési jogot az állami vagyon felügyeletéért felelős miniszter,
+a)
 
 b) a belső ellenőrzési vezető megbízásának és a megbízása visszavonásának jogát a fenntartó előzetes egyetértésével a kancellár
 

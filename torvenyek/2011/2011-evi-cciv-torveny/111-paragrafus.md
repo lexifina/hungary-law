@@ -4,13 +4,11 @@
 
 ## 69. A képzési tevékenység feltételeire vonatkozó átmeneti rendelkezések
 
-111. § (1) Az e törvényben meghatározott felvételi rendszert első alkalommal a 2013/2014. tanévre történő felsőoktatási jelentkezéssel kapcsolatos általános felvételi eljárásban kell alkalmazni. E törvény 40. § (2) bekezdése szerint a felvételi vizsga feltételeként meghatározott nyelvi követelményt a Kormány rendeletében a 2016 szeptemberében első évfolyamon induló alap-, osztatlan képzésre jelentkezők tekintetében, illetve azt követő évfolyamokra jelentkezők tekintetében ír elő. A 40. § (4) bekezdése szerinti nyelvi követelményt először a 2016 szeptemberében induló első évfolyamon kell alkalmazni azok tekintetében, akik e törvény hatálybalépését megelőzően nyelvi követelmény teljesítése nélkül szereztek oklevelet.
+111. § (1) Az e törvényben meghatározott felvételi rendszert első alkalommal a 2013/2014. tanévre történő felsőoktatási jelentkezéssel kapcsolatos általános felvételi eljárásban kell alkalmazni. E törvény 40. § (2) bekezdése szerint a felvétel feltételeként meghatározott nyelvi követelményt a Kormány rendeletében a 2016 szeptemberében első évfolyamon induló alap-, osztatlan képzésre jelentkezők tekintetében, illetve azt követő évfolyamokra jelentkezők tekintetében írhat elő. A 40. § (4) bekezdése szerinti nyelvi követelményt először a 2016 szeptemberében induló első évfolyamon kell alkalmazni azok tekintetében, akik e törvény hatálybalépését megelőzően nyelvi követelmény teljesítése nélkül szereztek oklevelet.
 
 (2)
 
-(3) Ha a ciklusokra bontott, osztott képzés az adott szakon a továbbiakban osztatlan formában szervezhető meg, az adott alapképzési szakon és a teljes alapképzési szak beszámításával indított mesterszakon szakindítási engedéllyel rendelkező felsőoktatási intézmény – kormányrendeletben meghatározottak szerint – osztatlan képzés indítását kezdeményezheti.
-
-(4) A felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: 2005. évi felsőoktatási törvény) 106. § (7) bekezdése alapján nyilvántartásba vett, indított képzések első évfolyamára 2012 szeptemberét követően nem vehető fel hallgató. A megkezdett képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2016/2017-es tanévben – fejezhetők be.
+(3)–(4)
 
 (6)
 

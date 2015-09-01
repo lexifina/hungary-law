@@ -14,6 +14,6 @@ c) a teljes munkaidőre megállapított kötelező legkisebb munkabér (minimál
 
 d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredményéről tájékoztatja az intézmény honos országának illetékes szerveit.
 
-(3) A magyarországi felsőoktatási intézmények által kötelezően használt, központilag kibocsátásra kerülő nyomtatványok előállítását és forgalomba hozatalát az oktatási hivatal engedélyezi. Az engedély a jogszabályi előírásoknak történő megfelelés hiányában tagadható meg.
+(3) A felsőoktatási intézményben csak olyan, e törvény végrehajtási rendeletében meghatározott, kötelezően használandó nyomtatvány alkalmazható, amelyet az oktatási hivatal kormányrendeletben meghatározottak szerint jóváhagyott. A jóváhagyott oklevél-, oklevélmelléklet-nyomtatvány előállításához, forgalmazásához az oktatási hivatal engedélye szükséges.
 
 (4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre a Ket. rendelkezéseit kell alkalmazni.

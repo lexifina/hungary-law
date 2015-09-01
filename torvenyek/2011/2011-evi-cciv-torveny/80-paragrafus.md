@@ -10,7 +10,9 @@ b) ha a 39. § (1) bekezdésében felsorolt hallgató – a 39. § (1) bekezdés
 
 c) a költségvetés pályázati úton elnyerhető ösztöndíj folyósításával nyújthat segítséget a tanulmányok folytatásához,
 
-d) a felsőfokú tanulmányok megkezdése előtt legfeljebb két féléven keresztül – hallgatói jogviszony keretében – előkészítő tanulmányokat folytathatnak.
+d) a felsőfokú tanulmányok megkezdése előtt legfeljebb két féléven keresztül – hallgatói jogviszony keretében – előkészítő tanulmányokat folytathatnak,
+
+e) az államközi megállapodás alapján, a miniszter által működtetett ösztöndíjprogram keretében ösztöndíjjal támogatott hallgató az ösztöndíjjal támogatott időszakra vonatkozóan nem köteles a magyar állami (rész)ösztöndíjhoz kapcsolódó, e törvényben meghatározott sajátos feltételek teljesítésére.
 
 (3) A 39. § (1) bekezdés f) pontja szerinti – a miniszter által kiírt pályázatot elnyert – személyek a miniszter által meghatározott létszámban jogosultak magyar állami (rész)ösztöndíjjal támogatott képzésben részt venni.
 

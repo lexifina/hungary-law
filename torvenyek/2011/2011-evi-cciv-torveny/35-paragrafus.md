@@ -6,6 +6,6 @@
 
 (3) Az oktató, tanári munkakörben foglalkoztatott személy, a tudományos kutató a képzési feladatok ellátása során a hallgatókkal összefüggő tevékenységével kapcsolatban büntetőjogi védelem szempontjából közfeladatot ellátó személy.
 
-(4) A munkaviszonyban, közalkalmazotti jogviszonyban foglalkoztatott tanár, oktató, kutató oktatói igazolványa felmutatásával jogosult igénybe venni az oktatók részére biztosított kedvezményeket. Az igazolvány közokirat.
+(4)
 
 (5) Az oktatói, tudományos kutatói, tanári munkakörben foglalkoztatott az oktatási jogok biztosának az eljárását kezdeményezheti.

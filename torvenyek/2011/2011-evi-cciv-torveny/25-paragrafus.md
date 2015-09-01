@@ -4,7 +4,7 @@
 
 ## 14. Az oktatói munkakörök, a munkaköri címek
 
-25. § (1) Az oktatói feladat – a (3) bekezdésben meghatározott kivétellel – oktatói munkakörben látható el, költségvetési szervként működő felsőoktatási intézményben az oktatói munkakörre létesített közalkalmazotti jogviszonyban, más felsőoktatási intézményben pedig az oktatói munkakörre létesített munkaviszonyban. Az oktatói munkakörben való foglalkoztatáshoz mesterfokozat szükséges.
+25. § (1) Az oktatói feladat – a (3) bekezdésben meghatározott kivétellel – oktatói munkakörben látható el, költségvetési szervként működő felsőoktatási intézményben az oktatói munkakörre létesített közalkalmazotti jogviszonyban, más felsőoktatási intézményben pedig az oktatói munkakörre létesített munkaviszonyban. Az oktatói munkakörben való foglalkoztatáshoz legalább mesterfokozat szükséges.
 
 (2) Az oktatói feladatok és a tudományos kutatói feladatok egy munkakörben is elláthatók, ebben az esetben a munkaszerződésben, közalkalmazotti kinevezésben kell meghatározni, hogy az egyes feladatokat a foglalkoztatás – teljes vagy rész- – munkaidejének milyen hányadában kell ellátni.
 

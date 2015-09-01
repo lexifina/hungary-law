@@ -1,0 +1,1 @@
+13/D. § A konzisztóriumi tagság megszűnik a megbízatás lejártával, a tag halálával, lemondásával, illetve visszahívásával. A miniszter jogosult a delegált tagot – a visszahívás okának megjelölésével – visszahívni. A lemondás elfogadása, illetve a visszahívás a miniszter hatáskörébe tartozik.

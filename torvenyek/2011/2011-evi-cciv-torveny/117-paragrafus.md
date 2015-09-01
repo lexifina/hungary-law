@@ -1,6 +1,6 @@
 117. § (1) 2013. június 30-án megszűnik a 2005. évi felsőoktatási törvény 96. § (5) és (10) bekezdése alapján második alkalommal hosszabbított vagy a hatvanöt éves életkoron túlnyúló magasabb vezetői megbízás.
 
-(2) A miniszterrel kötött, 2011. december 31-én hatályos megállapodás alapján támogatott egyház, egyházi jogi személy vagy alapítvány által fenntartott diákotthon kivételével a 2005. évi felsőoktatási törvény rendelkezései szerint nyilvántartásba vett diákotthonokat, valamint az azokra vonatkozó az információs rendszer által kezelt adatokat az oktatási hivatal 2013. szeptember 1-jén törli a nyilvántartásából, és kezdeményezi a felsőoktatási információs rendszerből való törlést.
+(2)
 
 (3) A 2005. évi felsőoktatási törvény rendelkezései szerint nyilvántartásba vett tanulói jogviszonyban folytatott felsőfokú szakképzéseket, valamint az azokra vonatkozó az információs rendszer által kezelt adatokat az oktatási hivatal a képzés kifutó rendszerű befejezésével, de legkésőbb 2016. szeptember 1-jén törli a nyilvántartásából.
 

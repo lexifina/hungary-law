@@ -8,7 +8,9 @@ b) adjunktus,
 
 c) főiskolai, illetve egyetemi docens,
 
-d) főiskolai, illetve egyetemi tanár.
+d) főiskolai, illetve egyetemi tanár,
+
+e) mesteroktató.
 
 (2) Az oktatói munkakörben történő alkalmazás együtt jár a munkakör megnevezésével azonos munkaköri cím adományozásával és e munkaköri cím használatának jogával.
 

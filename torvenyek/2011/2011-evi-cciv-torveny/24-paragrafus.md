@@ -18,6 +18,8 @@
 
 (5) A felsőoktatásban az alkalmazás feltétele, hogy az alkalmazott büntetlen előéletű legyen, ne álljon a tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és rendelkezzen az előírt végzettséggel és szakképzettséggel.
 
+(5a) Az (5) bekezdésben meghatározott, a büntetlen előéletre és a foglalkozástól eltiltás hiányára vonatkozó feltételt nem kell igazolni, ha a kizáró ok hiányát a felsőoktatási intézménnyel fennállt korábbi megbízási vagy foglalkoztatási jogviszonyára tekintettel a foglalkoztatni kívánt személy már igazolta, és a korábbi jogviszony megszűnése óta legfeljebb hat hónap telt el.
+
 (6) A közalkalmazottak jogállásáról szóló törvény
 
 a) 40. § (5) bekezdésében foglaltaktól eltérően a rektor számára a jutalom meghatározása és a teljesítés értékelése e törvény 73. § (3) bekezdésében foglaltak alkalmazásával történhet,

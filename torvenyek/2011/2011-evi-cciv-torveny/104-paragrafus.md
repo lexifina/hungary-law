@@ -12,7 +12,7 @@ b) a rektor pályázatát az intézmény Fenntartói Testülete írja ki és a s
 
 c) az intézmény felelős vezetője és képviselője a rektor, aki eljár és dönt mindazokban az ügyekben, amelyeket a Nemzeti Közszolgálati Egyetemről szóló törvény, a szervezeti és működési szabályzat, a kollektív szerződés nem utal más személy vagy testület hatáskörébe;
 
-d) az intézményben a szükséges gazdálkodási intézkedések és javaslatok előkészítéséért a gazdasági főigazgató felelős.
+d) az intézményben a szükséges gazdálkodási intézkedések és javaslatok előkészítéséért a gazdasági főigazgató felelős, konzisztórium létesítésére nem kerül sor.
 
 (1a) A honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében e törvényt a honvédek jogállásáról szóló törvényben foglalt eltérésekkel együtt kell alkalmazni.
 
