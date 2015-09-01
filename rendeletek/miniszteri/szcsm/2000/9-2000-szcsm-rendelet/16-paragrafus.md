@@ -1,14 +1,14 @@
-## 15/A. §[^99]
+## 15/A. §[^102]
 
-## Záró és átmeneti rendelkezések[^100]
+## Záró és átmeneti rendelkezések[^103]
 
 16. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^101]
+(2)[^104]
 
-(3)[^102]
+(3)[^105]
 
-[^99]: A 15/A. §-t és az azt megelőző alcímet a 16/2003. (IV. 9.) ESZCSM rendelet 15. §-a iktatta be, a §-t és alcímét a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdésének b) pontja hatályon kívül helyezte.
-[^100]: A 16. §-t megelőző alcím a 41/2012. (XI. 28.) EMMI rendelet 9. §-ával megállapított szöveg.
-[^101]: A 16. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 8. pontja hatályon kívül helyezte.
-[^102]: A 16. § (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 15. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^102]: A 15/A. §-t és az azt megelőző alcímet a 16/2003. (IV. 9.) ESZCSM rendelet 15. §-a iktatta be, a §-t és alcímét a 4/2004. (I. 28.) ESZCSM rendelet 28. § (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^103]: A 16. §-t megelőző alcím a 41/2012. (XI. 28.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^104]: A 16. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 44. §-ának 8. pontja hatályon kívül helyezte.
+[^105]: A 16. § (3) bekezdését a 12/2006. (XII. 27.) SZMM rendelet 15. § (3) bekezdésének c) pontja hatályon kívül helyezte.

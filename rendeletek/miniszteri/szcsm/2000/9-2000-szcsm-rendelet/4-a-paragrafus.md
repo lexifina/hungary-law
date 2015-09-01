@@ -1,6 +1,6 @@
-4/A. §[^32] (1) A továbbképzés szervezője a 3. § (5) bekezdés szerinti minősített továbbképzésekről – csoportonként – nyilvántartást vezet.
+4/A. §[^33] (1) A továbbképzés szervezője a 3. § (5) bekezdés szerinti minősített továbbképzésekről – csoportonként – nyilvántartást vezet.
 
-(2)[^33] Az (1) bekezdés szerinti nyilvántartás a program engedélyszámát és címét, a továbbképzés helyszínét, időpontját, időtartamát, a jelenléti ívet és a részvételi díjat, továbbá
+(2)[^34] Az (1) bekezdés szerinti nyilvántartás a program engedélyszámát és címét, a továbbképzés helyszínét, időpontját, időtartamát, a jelenléti ívet és a részvételi díjat, továbbá
 
 a) a 3. § (5) bekezdésének a) pontja szerinti minősített továbbképzés esetében
 
@@ -24,11 +24,11 @@ e) a 3. § (5) bekezdésének e) pontja szerinti minősített továbbképzés es
 
 (4) A továbbképzés szervezőjének legalább egy alkalommal, legkésőbb a továbbképzés végén – kérdőív formájában – lehetőséget kell biztosítani a minősített továbbképzések résztvevői számára a továbbképzés értékelésére. A résztvevők által kitöltött kérdőívet a továbbképzés szervezője nyilvántartja.
 
-(5)[^34] Az (1)–(4) bekezdés szerinti nyilvántartásokat (a továbbiakban együtt: továbbképzési nyilvántartás) a továbbképzés szervezőjének a továbbképzés lezárultát követően öt évig meg kell őrizni.
+(5)[^35] Az (1)–(4) bekezdés szerinti nyilvántartásokat (a továbbiakban együtt: továbbképzési nyilvántartás) a továbbképzés szervezőjének a továbbképzés lezárultát követően öt évig meg kell őrizni.
 
-(6)[^35] Az Intézet, illetve az általa kijelölt szakértő jogosult a továbbképzési nyilvántartásba a helyszínen betekinteni. A betekintési jog gyakorlásához a továbbképzés szervezője köteles a továbbképzési nyilvántartást rendelkezésre bocsátani és az ahhoz kapcsolódó felvilágosítást megadni.
+(6)[^36] A Hivatal, illetve az általa kijelölt szakértő jogosult a továbbképzési nyilvántartásba a helyszínen betekinteni. A betekintési jog gyakorlásához a továbbképzés szervezője köteles a továbbképzési nyilvántartást rendelkezésre bocsátani és az ahhoz kapcsolódó felvilágosítást megadni.
 
-[^32]: A 4/A. §-t a 12/2006. (XII. 27.) SZMM rendelet 5. §-a iktatta be.
-[^33]: A 4/A. § (2) bekezdés nyitó szövegrésze a 41/2012. (XI. 28.) EMMI rendelet 13. § h) pontja szerint módosított szöveg.
-[^34]: A 4/A. § (5) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 13. § i) pontja szerint módosított szöveg.
-[^35]: A 4/A. § (6) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^33]: A 4/A. §-t a 12/2006. (XII. 27.) SZMM rendelet 5. §-a iktatta be.
+[^34]: A 4/A. § (2) bekezdés nyitó szövegrésze a 41/2012. (XI. 28.) EMMI rendelet 13. § h) pontja szerint módosított szöveg.
+[^35]: A 4/A. § (5) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 13. § i) pontja szerint módosított szöveg.
+[^36]: A 4/A. § (6) bekezdése a 24/2010. (XII. 30.) NEFMI rendelet 6. § (2) bekezdés e) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 5. § c) pontja szerint módosított szöveg.
