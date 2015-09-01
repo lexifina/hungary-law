@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2015-01-01 | 2006-63-20-22.38 | 353/2014. (XII. 29.) Korm. rendelet |
 | 2015-03-01 | 2006-63-20-22.39 | 24/2015. (II. 20.) Korm. rendelet |
 | 2015-04-01 | 2006-63-20-22.40 | 70/2015. (III. 30.) Korm. rendelet |
+| 2015-09-01 | 2006-63-20-22.41 | 395/2007. (XII. 27.) Korm. rendelet |

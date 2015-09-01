@@ -1,4 +1,4 @@
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^214]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^215]
 
 ## KÉRELEM
 
@@ -184,4 +184,4 @@ e) lakáson belül – segédeszköz igénybevételével is – közlekedni.
 
 4.4.2. a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló miniszteri rendelet szerinti igazolást.
 
-[^214]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése, a 69/2014. (III. 13.) Korm. rendelet 13. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § d) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés v) pontja szerint módosított szöveg.
+[^215]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése, a 69/2014. (III. 13.) Korm. rendelet 13. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § d) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés v) pontja szerint módosított szöveg.

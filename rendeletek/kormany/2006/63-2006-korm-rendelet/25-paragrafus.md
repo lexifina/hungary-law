@@ -28,7 +28,7 @@ c) a fekvőbeteg-szakellátást nyújtó intézmény vagy területileg illetéke
 
 a) az (1) bekezdés a)[^111] pont aa) alpontjában foglalt igazolás felülvizsgálatát a népegészségügyi feladatkörében általa kijelölt, az ápolást indokoló diagnózis szerinti szakorvostól vagy szervtől,
 
-b) az (1) bekezdés a) pont ab) alpontjában foglalt szakvélemény felülvizsgálatát a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: Főigazgatóság) mint módszertani feladatot ellátó szerv által kijelölt szakértőtől
+b)[^112] az (1) bekezdés a) pont ab) alpontjában foglalt szakvélemény felülvizsgálatát a Nemzeti Rehabilitációs és Szociális Hivatal módszertani feladatokat ellátó önálló szervezeti egysége (a továbbiakban: módszertani feladatokat ellátó szerv) által kijelölt szakértőtől
 
 ## kérheti.
 
@@ -38,3 +38,4 @@ b) az (1) bekezdés a) pont ab) alpontjában foglalt szakvélemény felülvizsg�
 [^109]: A 25. § (1) bekezdés c) pontját a 24/2015. (II. 20.) Korm. rendelet 28. § i) pontja hatályon kívül helyezte.
 [^110]: A 25. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (6) bekezdésével megállapított szöveg.
 [^111]: A 25. § (4) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés j) pontja szerint módosított szöveg.
+[^112]: A 25. § (4) bekezdés b) pontja a 221/2015. (VIII. 7.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

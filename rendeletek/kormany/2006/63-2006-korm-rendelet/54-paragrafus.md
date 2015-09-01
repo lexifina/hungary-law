@@ -1,3 +1,3 @@
-54. §[^199]
+54. §[^200]
 
-[^199]: Az 54. §-t a 326/2006. (XII. 23.) Korm. rendelet 12. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^200]: Az 54. §-t a 326/2006. (XII. 23.) Korm. rendelet 12. § (4) bekezdésének c) pontja hatályon kívül helyezte.

@@ -38,6 +38,6 @@
 
 ## A jogosult aláírása
 
-14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^225]
+14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^226]
 
-[^225]: A 14. számú mellékletet a 331/2011. (XII. 29.) Korm. rendelet 16. § c) pontja iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § w) pontja.
+[^226]: A 14. számú mellékletet a 331/2011. (XII. 29.) Korm. rendelet 16. § c) pontja iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § w) pontja.

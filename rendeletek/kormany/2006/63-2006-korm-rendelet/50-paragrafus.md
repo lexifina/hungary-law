@@ -1,4 +1,4 @@
-## 49. §[^195] Az igazolványok előállításának feltételeiről, valamint a háziorvosok 10. számú melléklet szerinti nyomtatvánnyal történő ellátásáról az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatal gondoskodik.
+## 49. §[^196] Az igazolványok előállításának feltételeiről, valamint a háziorvosok 10. számú melléklet szerinti nyomtatvánnyal történő ellátásáról az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatal gondoskodik.
 
 ## Egészségügyi szolgáltatásra való jogosultság
 
@@ -6,10 +6,10 @@
 
 (2) A kérelem elbírálása során meg kell vizsgálni, hogy a kérelmező az egészségügyi szolgáltatás igénybevételére más jogcímen valóban nem jogosult.
 
-(3)[^196] Ha a kérelmező nem rendelkezik Társadalombiztosítási Azonosító Jellel, a bizonyítványban a „Társadalombiztosítási Azonosító Jellel nem rendelkezik” szöveget kell feltüntetni.
+(3)[^197] Ha a kérelmező nem rendelkezik Társadalombiztosítási Azonosító Jellel, a bizonyítványban a „Társadalombiztosítási Azonosító Jellel nem rendelkezik” szöveget kell feltüntetni.
 
-(4)[^197] A szociális rászorultság egészségügyi szolgáltatás igénybevétele céljából történő megállapítása iránti ismételt kérelem a korábbi jogosultságot igazoló hatósági bizonyítvány érvényességi idejének lejártát megelőző 30 napon belül is benyújtható. Ebben az esetben az új jogosultságot legkorábban a korábbi jogosultság megszűnését követő naptól lehet megállapítani.
+(4)[^198] A szociális rászorultság egészségügyi szolgáltatás igénybevétele céljából történő megállapítása iránti ismételt kérelem a korábbi jogosultságot igazoló hatósági bizonyítvány érvényességi idejének lejártát megelőző 30 napon belül is benyújtható. Ebben az esetben az új jogosultságot legkorábban a korábbi jogosultság megszűnését követő naptól lehet megállapítani.
 
-[^195]: A 49. § a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés q) pontja szerint módosított szöveg.
-[^196]: Az 50. § (3) bekezdését a 392/2013. (XI. 12.) Korm. rendelet 12. §-a iktatta be.
-[^197]: Az 50. § (4) bekezdését a 24/2015. (II. 20.) Korm. rendelet 24. §-a iktatta be.
+[^196]: A 49. § a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés q) pontja szerint módosított szöveg.
+[^197]: Az 50. § (3) bekezdését a 392/2013. (XI. 12.) Korm. rendelet 12. §-a iktatta be.
+[^198]: Az 50. § (4) bekezdését a 24/2015. (II. 20.) Korm. rendelet 24. §-a iktatta be.

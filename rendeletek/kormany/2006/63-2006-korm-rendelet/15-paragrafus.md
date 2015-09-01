@@ -12,7 +12,7 @@ bb)[^68] a tartósan beteg, az autista, illetve a testi, érzékszervi, értelmi
 
 (2)[^69] Ha az egészségkárosodott személy a kérelemhez nem csatolta a rehabilitációs szakértői szervnek vagy jogelődjének a munkaképesség-csökkenés, az egészségkárosodás vagy az egészségi állapot minősítését tartalmazó, érvényes és hatályos határozatát, szakhatósági állásfoglalását vagy szakvéleményét, az Szt. 33. § (1b) bekezdésében meghatározott szakkérdést a járási hivatal a Nemzeti Rehabilitációs és Szociális Hivatalról szóló 74/2015. (III. 30.)Korm. rendelet 4. alcímében foglaltak szerint vizsgálja. Ha az első fokú eljárásban a szakkérdést vizsgálni kell, az ügyintézési határidő 50 nap.
 
-(2a)[^70] Másodfokú hatósági eljárásban nem kell vizsgálni az Szt. 33. § (1a) bekezdés szerinti szakkérdést, ha a fellebbezés nem érinti az első fokú határozatban a szakkérdéssel kapcsolatban tett megállapításokat.
+(2a)[^70] Másodfokú hatósági eljárásban nem kell vizsgálni az Szt. 33. § (1b) bekezdés szerinti szakkérdést, ha a fellebbezés nem érinti az első fokú határozatban a szakkérdéssel kapcsolatban tett megállapításokat.
 
 (3)[^71] Az Szt. 33. § (1) bekezdés b)–g) pontjában meghatározott személy esetében – az (1) bekezdésben foglaltakon túlmenően – a kérelem elbírálásához szükséges
 
@@ -44,7 +44,7 @@ b)[^74] autista, testi, érzékszervi, értelmi vagy beszédfogyatékos állapot
 [^67]: A 15. § (1) bekezdés bevezető szövegrésze a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont bb) alpontjával megállapított szöveg.
 [^68]: A 15. § (1) bekezdése b) pontjának bb) alpontja a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdése a) pontjának ac) alpontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
 [^69]: A 15. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 76. § (2) bekezdésével megállapított szöveg.
-[^70]: A 15. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (3) bekezdése iktatta be.
+[^70]: A 15. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (3) bekezdése iktatta be, szövege a 221/2015. (VIII. 7.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^71]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 76. § (4) bekezdésével megállapított szöveg.
 [^72]: A 15. § (4) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 12. §-ával megállapított, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^73]: A 15. § (5) bekezdés a) pontja a 331/2011. (XII. 29.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
