@@ -6,7 +6,7 @@ a) közjegyző volt, akkor az országos kamarát,
 
 b) ügyvéd volt, akkor a Magyar Ügyvédi Kamarát,
 
-c) önálló bírósági végrehajtó volt, akkor a Magyar Bírósági Végrehajtói Kamarát,
+c) önálló bírósági végrehajtó volt, akkor a Magyar Bírósági Végrehajtói Kart,
 
 d) igazságügyi szakértő volt, akkor a Magyar Igazságügyi Szakértői Kamarát,
 
