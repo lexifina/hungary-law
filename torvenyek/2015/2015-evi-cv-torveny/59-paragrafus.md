@@ -1,0 +1,3 @@
+59. § (1) Ha a bírósági adósságrendezési egyezségkötés lebonyolítása az e törvényben meghatározott eljárási szabályoknak nem felel meg, a bíróság az egyezség jóváhagyását megtagadja, és elrendeli a bírósági egyezségkötés újbóli lefolytatatását, és ezt a végzést kézbesíti az adósnak, a hitelezőknek, és megküldi a családi vagyonfelügyelőnek, valamint az egyéb kötelezettnek. A végzés ellen önálló fellebbezésnek nincs helye.
+
+(2) A végzés kézhezvételét követően a családi vagyonfelügyelő ismételten megkísérli az egyezség létrehozását az e törvényben meghatározott módon azzal, hogy az egyezségkötési tárgyalást 45 napon belül le kell zárni. A határidő eredménytelen eltelte esetén a 54. § (3)–(6) bekezdésében foglaltakat kell alkalmazni.

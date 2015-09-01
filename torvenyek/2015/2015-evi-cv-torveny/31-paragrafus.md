@@ -1,0 +1,23 @@
+## 11. Sikertelen bíróságon kívüli adósságrendezés
+
+31. § (1) Ha
+
+a) a 25. § (3) bekezdés szerinti igazolás főhitelező általi kézhezvételétől számított 90 napon belül – amennyiben a hitelezők között a főhitelezőn és kapcsolt vállalkozásain kívül más hitelezők vannak, akkor 120 napon belül – nem jön létre a bíróságon kívüli adósságrendezési megállapodás, vagy
+
+b) a főhitelező bejelenti a Családi Csődvédelmi Szolgálatnak, hogy a bíróságon kívüli adósságrendezési megállapodás felmondásának lenne helye, tekintettel az olyan, a 25. § (4) bekezdése szerint bejelentett és igazolt hitelezői követelésre, amelynek bejelentését az adós, adóstárs a bíróságon kívüli adósságrendezés kezdeményezésekor, illetve a bíróságon kívüli adósságrendezés alatt elmulasztotta, vagy
+
+c) a főhitelező vagy a hitelezők bármelyike a Családi Csődvédelmi Szolgálat számára bejelenti, hogy az adós, adóstárs az e törvényben vagy az adósságrendezési megállapodásban vállalt kötelezettségeit felhívás ellenére 30 nap múlva sem teljesíti,
+
+a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Szolgálatnak, és erről a bejelentésről írásban az adóst, adóstársat az egyéb kötelezetteket és a hitelezőket értesíti, az a) pont szerinti esetben pedig ha volt adósságrendezési megállapodásra vonatkozóan javaslat, azt is eljuttatja a Családi Csődvédelmi Szolgálatnak, megjelölve, hogy az abban foglaltakat melyik hitelezői követelésre vonatkozóan nem fogadták el.
+
+(2) Az (1) bekezdés szerinti esetben a Családi Csődvédelmi Szolgálat a bíróságon kívüli adósságrendezés sikertelen lefolytatását az ARE nyilvántartásba bejegyzi.
+
+(3) A Családi Csődvédelmi Szolgálat a bíróságon kívüli adósságrendezés 25. § (2) bekezdése szerinti sikertelen kezdeményezésének vagy a bíróságon kívüli adósságrendezés sikertelen lefolytatásának tényét haladéktalanul bejegyzi az ARE nyilvántartásba, és erről írásban értesíti az adóst, a főhitelezőt, a biztosított hitelezőket, az egyéb kötelezetteket és – ha a rendelkezésére álló adatok szerint az adós ellen végrehajtási eljárás van elrendelve – a végrehajtást foganatosító hatóságot, illetve bírósági végrehajtót.
+
+(4) Ha a Családi Csődvédelmi Szolgálat az (1) bekezdés a) pontja szerinti okból a bíróságon kívüli adósságrendezés sikertelen lefolytatásának tényét állapította meg, a Családi Csődvédelmi Szolgálat honlapján hirdetményt tesz közzé arról, hogy az adós bírósági adósságrendezést kezdeményezett, és felhívja az ismert és ismeretlen hitelezőket követeléseik 30 napon belüli bejelentésére, és a 88. § (3) bekezdés a) pontja szerinti nyilvántartásba-vételi díjnak a Családi Csődvédelmi Szolgálat erre a célra nyitott kincstári számlájára történő befizetésére. A hirdetményben fel kell hívni a hitelezők figyelmét az 1. § (3) bekezdésében foglalt jogkövetkezményekre.
+
+(5) A Családi Csődvédelmi Szolgálat az adós bírósági adósságrendezés iránti, 19. § (13) bekezdés szerinti kérelmét, annak mellékleteit, valamint a bíróságon kívüli adósságrendezés dokumentumait postai úton eljuttatja az adós lakóhelye szerinti, hatáskörrel, illetékességgel rendelkező bíróságnak. A dokumentumokhoz olyan elektronikus adathordozót kell csatolni, amely tartalmazza a kérelemnek és mellékleteinek informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát. A Családi Csődvédelmi Szolgálat csatolja továbbá az ARE nyilvántartásba történő bejegyzések adatait és a bejegyzés alapjául szolgáló okiratok másolatát is.
+
+(6) A Családi Csődvédelmi Szolgálat a (5) bekezdés szerinti dokumentumok csatolásakor közli a bírósággal az adott bírósági adósságrendezési eljárásban közreműködő illetékes területi Családi Csődvédelmi Szolgálat nevét, címét, postai és elektronikus levélcímét, és az adott ügyre vonatkozóan az illetékes területi Családi Csődvédelmi Szolgálat által kijelölt családi vagyonfelügyelő és annak teljes jogkörrel rendelkező helyettesei (a továbbiakban együtt: családi vagyonfelügyelő) nevét, az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, valamint az említett személyek közös postai címét és elektronikus levélcímét.
+
+(7) Ha a (4) bekezdés szerinti hirdetményben közzétett határidő alatt bejelentett hitelezői követeléseket a családi vagyonfelügyelő vitatja, azt 15 napon belül elbírálásra a bíróság elé terjeszti.

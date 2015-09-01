@@ -1,0 +1,3 @@
+67. § (1) Az egyezség módosítására irányuló eljárásra az egyezségkötésre vonatkozó rendelkezéseket megfelelően alkalmazni kell.
+
+(2) Ha az egyezség módosítása nem jött létre, adósságtörlesztési eljárás lefolytatásának van helye. A bíróság az adósságtörlesztési eljárás elrendeléséről szóló végzést a családi vagyonfelügyelő erről szóló értesítése kézhezvételétől számított 15 napon belül – ha pedig az egyezség módosításának jóváhagyását elutasítja, az erről szóló végzésével egyidejűleg hozza meg. Az adós, adóstárs továbbra is az adósságrendezés hatálya alatt marad, az adós és a hitelezők a bíróság adósságtörlesztési végzésének jogerőre emelkedéséig továbbra is az egyezség végrehajtására kötelesek.

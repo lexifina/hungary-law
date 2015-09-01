@@ -1,0 +1,1 @@
+92. § Az ARE nyilvántartásból történő adatszolgáltatásért, valamint az ARE nyilvántartás adatairól kiállítandó tanúsítványért a Családi Csődvédelmi Szolgálat részére külön jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.

@@ -1,0 +1,1 @@
+27. § A 25. § (4) bekezdés szerinti hirdetmény közzétételének napjától az adós vagy az adóstárs vagyontárgyán alapított óvadékból a jogosult a követelését közvetlenül kielégítheti, a fennmaradó összeggel 5 napon belül köteles az adóssal elszámolni, és az elszámolásról a Családi Csődvédelmi Szolgálatot értesíteni.

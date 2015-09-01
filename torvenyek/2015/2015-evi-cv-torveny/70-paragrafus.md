@@ -1,0 +1,13 @@
+## 26. Adósságtörlesztési terv előkészítése
+
+70. § (1) A családi vagyonfelügyelő az adós és az adóstárs bevonásával – felfüggesztett végrehajtási eljárás vagy felfüggesztett bírósági végrehajtáson kívüli zálogértékesítés esetén a végrehajtónak, illetve a zálogjogosult hitelezőnek az adósságrendezésbe bevonható vagyonra vonatkozó adatszolgáltatása alapján – összeállítja az adós tartós adósságtörlesztési eljárásban rendelkezésre álló vagyonának és a bevételi forrásainak listáját.
+
+(2) A családi vagyonfelügyelő felhívja a hitelezőket arra, hogy – az adós, adóstárs szükség szerinti bevonásával és egyidejű értesítésével – 30 napon belül állítsák össze követeléseiknek az adósságtörlesztési eljárás elrendelésekor fennálló összegére és azoknak 74. § szerinti, az adósságtörlesztési eljárás szerinti besorolására vonatkozó listát. Ha a hitelező ennek a kötelezettségének nem tesz eleget vagy azt hiányosan teljesíti, a családi vagyonfelügyelő a (3) bekezdés szerinti jogkövetkezményekre való figyelmeztetéssel legfeljebb 15 napos póthatáridőt tűz.
+
+(3) Ha a hitelező vagy a végrehajtó az (1) vagy (2) bekezdés szerinti kötelezettségeit nem vagy hiányosan teljesíti, a családi vagyonfelügyelő ezt a tényt közli a bírósággal. A bíróság a hitelezőre vagy a végrehajtóra 20 000 forinttól 100 000 forintig terjedő pénzbírságot szab ki és póthatáridőt tűz. A póthatáridő elmulasztása miatt igazolásának nincs helye. Ha a póthatáridő kitűzése is eredménytelen, akkor a hitelező követelését az adósságtörlesztés során figyelmen kívül kell hagyni, és erre a követelésre a 40. § (5)–(6) bekezdésben foglaltakat kell alkalmazni.
+
+(4) Az adós és az adóstárs az (1) és (2) bekezdés szerinti listára és az adósságtörlesztés szerinti besorolásra a családi vagyonfelügyelő felhívásától számított 15 napon belül észrevételt tehet, amelyhez csatolja az okirati bizonyítékokat és az észrevételt megküldi az érintett hitelezőnek is. A határidő elmulasztása miatt igazolásnak nincs helye.
+
+(5) Ha a hitelező az adósságtörlesztés elrendelését követően az adóssal szemben fennálló követeléséről részben vagy egészben lemond, az adóson kívül a családi vagyonfelügyelőt is írásban értesítenie kell. Ha a hitelező követelése jogszabály erejénél fogva szűnik meg vagy változik, erről a tényről az adóst és a családi vagyonfelügyelőt haladéktalanul értesítenie kell.
+
+(6) A családi vagyonfelügyelő az (1)–(2), (4) és (5) bekezdés szerinti iratok alapján összeállítja az adós, adóstárs vagyontárgyaira, egyéb vagyoni elemeire, rendszeres, a tartós adósságtörlesztésbe bevonható jövedelmére vonatkozó adatokat, és a hitelezői követeléseket a 74. §-ban foglaltak szerinti kategóriákba besorolja (a továbbiakban: adósságtörlesztési hitelezői besorolás).

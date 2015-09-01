@@ -1,0 +1,5 @@
+62. § (1) Ha az ismételt záró elszámolás adatai szerint az adós, adóstárs az egyezségben meghatározott hitelezői követeléseket az egyezségben meghatározott módon maradéktalanul nem fizette meg, a családi vagyonfelügyelő erről jegyzőkönyvet vesz fel, amelyet megküld a bíróságnak, a hitelezőknek, az adósnak, adóstársnak és az egyéb kötelezetteknek.
+
+(2) A bíróság az (1) bekezdés szerinti jegyzőkönyv kézhezvételétől számított 15 napon belül az egyezséget jóváhagyó végzést hatályon kívül helyezi, és egyben elrendeli az adósságtörlesztési eljárás lefolytatását, és az erről szóló végzést kézbesíti az adósnak, adóstársnak és a hitelezőnek, és megküldi a családi vagyonfelügyelőnek, valamint az egyéb kötelezettnek. A végzés ellen csak az adós és az adóstárs nyújthat be fellebbezést, a végzés kézbesítésétől számított 8 napon belül.
+
+(3) Az egyezséget jóváhagyó végzést hatályon kívül helyező, és egyben az adósságtörlesztési eljárás elrendeléséről szóló jogerős végzés tényét be kell jegyezni az ARE nyilvántartásba.

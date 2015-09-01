@@ -1,0 +1,3 @@
+84. § (1) A bírósági adósságrendezést megszüntető végzés jogerőre emelkedésének napján megszűnnek az adóst és a hitelezőket az adósságrendezésre tekintettel megillető jogok és kötelezettségek. Az adósságrendezés elrendelését megelőzően elrendelt végrehajtást folytatni kell. Az adós által az adósságrendezési eljárásban meg nem fizetett díjat és költségtérítést végrehajtási költségként kell behajtani.
+
+(2) Ha az adósságrendezés elrendelését megelőzően az adós tartozásával összefüggésben zálogtárgy értékesítése iránti eljárás volt folyamatban, az értékesítést folytatni lehet, az adósságrendezés alatt lefolytatott értékesítésből származó bevétellel a zálogjogosult a külön jogszabály szerint köteles az adósnak elszámolni.

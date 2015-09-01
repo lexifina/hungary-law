@@ -1,0 +1,1 @@
+65. § A 64. § szerinti kérelemben meg kell jelölni, hogy az egyezség mely részének módosítását milyen időszakra kezdeményezik, és részletesen elő kell adni az egyezség módosítását indokoló körülményeket az azokat igazoló okiratok csatolásával együtt. A kérelmet a családi vagyonfelügyelőnél kell előterjeszteni.
