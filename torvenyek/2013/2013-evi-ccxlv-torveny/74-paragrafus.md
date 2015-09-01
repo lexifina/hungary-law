@@ -1,3 +1,0 @@
-## 17. A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény módosítása
-
-74. §
