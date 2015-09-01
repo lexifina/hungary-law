@@ -10,7 +10,7 @@ c) felvétel a harmadik országbeli könyvvizsgálók és a harmadik országbeli
 
 d) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetésének engedélyezése, valamint a szüneteltetést követően a tevékenység újbóli ellátásának engedélyezése,
 
-e) kamarai tag könyvvizsgáló, könyvvizsgáló cég minősítésének megadása, a minősítés visszavonása,
+e)
 
 f) felvétel az okleveles könyvvizsgálói képzési programba, továbbá a könyvvizsgáló jelöltek névjegyzékébe, valamint az azokból való törlés,
 

@@ -6,7 +6,7 @@ a) írásbeli megrovás,
 
 b) pénzbírság,
 
-c) a 49. § szerinti minősítés megvonása,
+c) a 49. § szerinti minősítés megvonásának kezdeményezése,
 
 d) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetésének meghatározott időre történő elrendelése,
 

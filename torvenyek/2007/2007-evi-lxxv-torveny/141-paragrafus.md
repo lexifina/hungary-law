@@ -22,4 +22,4 @@ i) a képzési program végrehajtásához szükséges személyi és tárgyi felt
 
 (3) Az OKKT a képzési programot a kamara elnökségének jóváhagyásával akkreditálhatja.
 
-(4) Az OKKT gondoskodik a kamara okleveles könyvvizsgálói szakképzési és vizsgaszabályzatának kidolgozásáról, a szabályzatot jóváhagyásra az elnökségnek megküldi.
+(4) Az OKKT gondoskodik a kamara okleveles könyvvizsgálói szakképzési és vizsgaszabályzatának, továbbá a szakmai minősítő vizsgáról szóló szabályzatának kidolgozásáról, a szabályzatot jóváhagyásra az elnökségnek megküldi.

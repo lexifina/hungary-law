@@ -1,1 +1,1 @@
-51. § A minősített kamarai tag könyvvizsgáló, a minősített könyvvizsgáló cég köteles írásban bejelenteni, ha a minősítés előírt feltételei a továbbiakban már nem állnak fenn.
+51. § A minősített kamarai tag könyvvizsgáló, a minősített könyvvizsgáló cég köteles 30 napon belül írásban bejelenteni a közfelügyeleti hatóságnak, ha a minősítés előírt feltételei a továbbiakban már nem állnak fenn.

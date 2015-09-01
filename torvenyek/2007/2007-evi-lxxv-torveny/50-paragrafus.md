@@ -1,4 +1,10 @@
-50. § (1) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég 49. § szerinti minősítést a kamarától kaphat. A minősítés tekintetében a kamara felvételi bizottsága jár el.
+50. § (1) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég 49. § szerinti minősítéséről a közfelügyeleti hatóság dönt. A minősítés iránti kérelem elbírálásáért az ügyfél igazgatási szolgáltatási díjat köteles fizetni. Az igazgatási szolgáltatási díj a közfelügyelet hatóság bevétele. Az igazgatási szolgáltatási díj fizetésének részletes szabályait a miniszter rendeletben állapítja meg.
+
+(1a) A 49. § szerinti minősítés iránti kérelmet az 1., illetve 2. melléklet szerinti adattartalommal kell a közfelügyeleti hatósághoz benyújtani.
+
+(1b) A közfelügyeleti hatóság a 49. § szerinti minősítés iránti kérelem beérkezésétől számított 15 napon belül – határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet, amennyiben a kérelem nem felel meg az e törvény szerinti követelményeknek.
+
+(1c) A 49. § szerinti minősítés iránti kérelem tárgyában a közfelügyeleti hatóság a kérelem beérkezésétől számított 60 napon belül dönt.
 
 (2) Kérelem alapján minősítést a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
 
@@ -10,20 +16,24 @@ c) legalább három éven át jogszabályi kötelezettségen alapuló könyvvizs
 
 (3) Kérelem alapján minősítést a könyvvizsgáló cég akkor kaphat, ha megfelel az alábbi feltételeknek:
 
-a) igazolja, hogy van legalább egy olyan, a megfelelő minősítéssel rendelkező kamarai tag könyvvizsgáló, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és
+a) igazolja, hogy van legalább egy olyan, a megfelelő minősítéssel rendelkező kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és
 
 b) vállalja, hogy működése során az a kamarai tag könyvvizsgáló, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez olyan gazdálkodó tekintetében, amelyre vonatkozóan a minősítést külön jogszabály előírja, rendelkezik a megfelelő minősítéssel.
 
-(4) A (2) és (3) bekezdés szerinti kérelem elbírálása során ki kell kérni az érintett állami szerv véleményét, továbbá figyelembe kell venni a kérelmező tekintetében lefolytatott minőségellenőrzés(ek), kamarai minőségellenőrzés(ek) eredményét, valamint a kérelmezővel szemben lefolytatott fegyelmi eljárásokat.
+(4) A (2) és (3) bekezdés szerinti kérelem elbírálása során ki kell kérni az érintett állami szerv egyetértését, továbbá figyelembe kell venni a kérelmező tekintetében lefolytatott minőségellenőrzés(ek), kamarai minőségellenőrzés(ek) eredményét, valamint a kérelmezővel szemben lefolytatott fegyelmi eljárásokat.
 
 (5) A minősítés megadását meg kell tagadni,
 
-a) ha a kérelem benyújtását megelőző 3 éven belül azt a kérelmezőtől fegyelmi eljárás keretében megvonták,
+a) ha a kérelem benyújtását megelőző 3 éven belül azt a kérelmezőtől megvonták,
 
-b) ha a (4) bekezdésben foglalt információk alapján nem biztosított, hogy a kérelmező a minősítésnek megfelelő gazdálkodó tekintetében megfelelően látja el a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
+b) ha a rendelkezésre álló információk alapján megalapozottan feltételezhető, hogy a kérelmező a minősítésnek megfelelő gazdálkodó tekintetében nem tudja ellátni a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
 
-(6) A minősítés megadásáról igazolást kell adni, és a minősítést rögzíteni kell a kamarai nyilvántartásokban is.
+(6) A minősítés megadásáról a közfelügyeleti hatóság dönt, amelyről értesíti a kamarát. A minősítést a minősítésnek megfelelő részletezésben a kamara rögzíti a közhiteles hatósági nyilvántartásnak minősülő kamarai tag könyvvizsgálókra, könyvvizsgáló cégekre vonatkozó kamarai nyilvántartásokban.
 
 (7) A minősített kamarai tag könyvvizsgálókról, könyvvizsgáló cégekről a minősítésnek megfelelő részletezésben külön – közhiteles hatósági nyilvántartásnak minősülő – nyilvántartást kell vezetni.
 
 (8) A szakmai minősítő vizsga tartalmi követelményeit, az eljárási és az értékelési szabályokat a kamara külön szabályzatban határozza meg. A szakmai minősítő vizsgának legalább részben írásbeli vizsgának kell lennie.
+
+(9) A (8) bekezdés szerinti külön szabályzatot a közfelügyeleti hatóság hagyja jóvá.
+
+(10) A 49/A. § a)–d) és g) pontja szerinti minősítések esetén a minősítés megadásának feltétele, hogy az adott minősítésre előírt szakmai minősítő vizsgát a könyvvizsgáló sikeresen teljesítette.

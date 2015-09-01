@@ -4,7 +4,7 @@
 
 a) a kamarai tagsági viszony, valamint a könyvvizsgáló cég engedélye megszűnésének megállapításáért,
 
-b) a kamarai tag könyvvizsgáló, könyvvizsgáló cég 49. § szerinti minősítésének visszavonásáért,
+b)
 
 c) a harmadik országbeli könyvvizsgálók és a harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből történő törlésért,
 
