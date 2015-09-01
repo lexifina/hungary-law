@@ -26,4 +26,6 @@ ha) a házasságkötéssel kapcsolatos feladatai ellátása céljából a 3. § 
 
 hb) a családi jogállás rendezésével kapcsolatos feladatai ellátása céljából a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
 
-i) a járási hivatal szervezeti egységeként működő okmányiroda és a Központi Okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat.
+i) a járási hivatal szervezeti egységeként működő okmányiroda a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat,
+
+j) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala az egyéni vállalkozói tevékenység ellenőrzésével kapcsolatos hatósági, a közúti közlekedési igazgatási, illetve a személyi okmány ügyintézési eljárásokban a 3. § (1) bekezdés a)–e) pontjában szereplő adatokat.
