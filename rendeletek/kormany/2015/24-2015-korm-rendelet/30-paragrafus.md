@@ -1,5 +1,3 @@
-## 29. §[^10]
+## 29. § Hatályát veszti a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 3. § (1) bekezdés l) pontja.
 
 ## 6. A közforgalmú személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet módosítása
-
-[^10]: A 29. § a 45. § (4) bekezdése alapján 2015. szeptember 1-jén lép hatályba.
