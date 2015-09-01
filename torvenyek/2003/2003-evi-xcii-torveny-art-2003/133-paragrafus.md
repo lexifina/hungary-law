@@ -16,7 +16,7 @@ b) a beszedett helyi adóra,
 
 c) a kifizető által a magánszemélytől levont járulékokra.
 
-(4) Magánszemély esetében a fizetési könnyítés az (1) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy az adó azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos megterhelést jelent.
+(4) Magánszemély esetében a fizetési könnyítés az (1) bekezdés a) pontjában foglaltak figyelmen kívül hagyásával is engedélyezhető, ha a kérelmező igazolja vagy valószínűsíti, hogy az adó azonnali vagy egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel súlyos megterhelést jelent. Magánszemély vagy egyéni vállalkozó esetében a fizetési könnyítés az (1) bekezdés a) pontja, valamint a (3) bekezdés figyelmen kívül hagyásával is engedélyezhető, ha a pénzügyi intézménnyel szemben fennálló hitelszerződés, kölcsönszerződés vagy pénzügyi lízingszerződés alapján fennálló kötelezettségei törlesztőrészleteinek megemelkedése vagy az ezzel érintett hitelszerződés felmondása aránytalanul súlyos megterhelést jelent, továbbá az adósságrendezési eljárás során.
 
 (5) Fizetési könnyítés iránti kérelem benyújtása, illetve a kérelem teljesítése esetén a következő pótlékokat kell felszámítani, valamint az a) és c) pont alkalmazásakor határozatban közölni:
 
@@ -26,7 +26,7 @@ b) a jogi személy, egyéb szervezet kérelme, továbbá a magánszemélynek az 
 
 c) a kérelem teljesítése esetén a fizetési könnyítés időtartamára az elsőfokú határozat keltének napjától a kérelem benyújtásának napján érvényes jegybanki alapkamatnak megfelelő mértékben.
 
-(6) A pótlékok kiszabása kivételes méltánylást érdemlő esetben mellőzhető. Az (5) bekezdés a) és c) pontjában említett pótlékokra egyebekben a késedelmi pótlékra vonatkozó szabályokat kell alkalmazni.
+(6) A pótlékok kiszabása kivételes méltánylást érdemlő esetben mellőzhető. Ilyen oknak tekintendő az is, ha a magánszemély vagy egyéni vállalkozó részére az adóhatóság a fizetési könnyítést pénzügyi intézménnyel szemben fennálló, hitelszerződés, kölcsönszerződés vagy pénzügyi lízingszerződés alapján keletkezett fizetési kötelezettségei törlesztőrészleteinek megemelkedése vagy az említett szerződések felmondása miatt, vagy az általa kezdeményezett adósságrendezési eljárásra tekintettel engedélyezte. Az (5) bekezdés a) és c) pontjában említett pótlékokra egyebekben a késedelmi pótlékra vonatkozó szabályokat kell alkalmazni.
 
 (7) Törvény a fizetési halasztási, részletfizetési kedvezmény más eseteit is meghatározhatja, engedélyezését csak törvény zárhatja ki.
 
