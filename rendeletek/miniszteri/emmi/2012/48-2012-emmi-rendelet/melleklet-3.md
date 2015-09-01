@@ -72,7 +72,7 @@
 
 ## 19. Éves költségvetés, költségvetési beszámolók, költségvetési bizonylatok | 5
 
-3. melléklet a 48/2012. (XII. 12.) EMMI rendelethez[^62]
+3. melléklet a 48/2012. (XII. 12.) EMMI rendelethez[^63]
 
 Jegyzék a pedagógiai intézet kötelező (minimális) eszközeiről és felszereléseiről
 
@@ -184,4 +184,4 @@ Megjegyzés:
 
 Az eszköz- és felszerelés biztosítási kötelezettség igazodik a helyiségek kialakításához. A helyiségek rendeltetésszerű használatához szükséges felszereléseket biztosítani kell.
 
-[^62]: A 3. melléklet a 26/2015. (V. 22.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^63]: A 3. melléklet a 26/2015. (V. 22.) EMMI rendelet 15. §-ával megállapított szöveg.

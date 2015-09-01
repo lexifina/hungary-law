@@ -1,5 +1,5 @@
-## 31. §[^59]
+## 31. §[^60]
 
 ## 10. Jogharmonizációs záradék
 
-[^59]: A 31. §-t a 26/2015. (V. 22.) EMMI rendelet 17. § p) pontja hatályon kívül helyezte.
+[^60]: A 31. §-t a 26/2015. (V. 22.) EMMI rendelet 17. § p) pontja hatályon kívül helyezte.
