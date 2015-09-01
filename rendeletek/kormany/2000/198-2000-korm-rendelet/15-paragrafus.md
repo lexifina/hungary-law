@@ -10,6 +10,6 @@
 
 (3) A tulajdonjogra vonatkozó bejegyzésben fel kell tüntetni a tulajdonszerzés jogcímét.
 
-(4)[^16] Az állam tulajdonjogának bejegyzésénél meg kell jelölni az állam tulajdonosi jogainak gyakorlóját.
+(4)[^18] Az állam tulajdonjogának bejegyzésénél meg kell jelölni az állam tulajdonosi jogainak gyakorlóját.
 
-[^16]: A 15. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 209. § a) pontja szerint módosított szöveg.
+[^18]: A 15. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 209. § a) pontja szerint módosított szöveg.

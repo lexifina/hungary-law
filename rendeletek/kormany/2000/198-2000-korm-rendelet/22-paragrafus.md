@@ -1,6 +1,6 @@
-## Vételi és eladási jog[^18]
+## Vételi és eladási jog[^20]
 
-22. §[^19] (1) A vételi és az eladási jogot az egész úszólétesítményre vagy közös tulajdonban álló úszólétesítménynek a tulajdonostársat megillető eszmei hányadára lehet bejegyezni.
+22. §[^21] (1) A vételi és az eladási jogot az egész úszólétesítményre vagy közös tulajdonban álló úszólétesítménynek a tulajdonostársat megillető eszmei hányadára lehet bejegyezni.
 
 (2) A vételi és az eladási jog bejegyzése nem akadályozza további jogok és jogilag jelentős tények feljegyzését.
 
@@ -12,5 +12,5 @@
 
 (6) Ha a vételi vagy az eladási jogot meghatározott időre kötötték ki, a bejegyzésben meg kell jelölni e jog gyakorlásának végső időpontját.
 
-[^18]: A 22. §-t megelőző alcím címe az 53/2014. (III. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^19]: A 22. § az 53/2014. (III. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^20]: A 22. §-t megelőző alcím címe az 53/2014. (III. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^21]: A 22. § az 53/2014. (III. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
