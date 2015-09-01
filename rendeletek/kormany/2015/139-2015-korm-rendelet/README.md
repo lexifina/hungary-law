@@ -1,0 +1,9 @@
+# 139/2015. (VI. 9.) Korm. rendelet
+
+a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-139-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-09-01 | 2015-139-20-22.1 | 139/2015. (VI. 9.) Korm. rendelet |
