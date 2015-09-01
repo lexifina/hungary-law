@@ -1,4 +1,4 @@
-11. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^21]
+11. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^24]
 
 Igénylőlap időskorúak járadékához
 
@@ -40,4 +40,4 @@ A (10) oszlopban az igénylés időpontját követően jogerőre emelkedett dön
 
 A (11) oszlopban az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
 
-[^21]: A 11. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés g) pontja, újonnan a 353/2014. (XII. 29.) Korm. rendelet 34. § a) pontja iktatta be.
+[^24]: A 11. számú mellékletet a 341/2008. (XII. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be, hatályon kívül helyezte a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés g) pontja, újonnan a 353/2014. (XII. 29.) Korm. rendelet 34. § a) pontja iktatta be.

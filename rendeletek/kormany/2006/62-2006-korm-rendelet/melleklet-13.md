@@ -30,7 +30,7 @@
 
 | Megjegyzések: A (10) oszlopban az igénylés időpontját követően jogerőre emelkedett döntések alapján a tárgyhónapra tekintettel várhatóan kifizetendő összeget kell feltüntetni. A (11) oszlopban az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni. |
 
-13. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^23]
+13. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^26]
 
 Igénylőlap foglalkoztatást helyettesítő támogatáshoz
 
@@ -70,4 +70,4 @@ Megjegyzés:
 
 (8) oszlop: Az előző havi kifizetéshez igényelt, és fel nem használt összeget kell feltüntetni.
 
-[^23]: A 13. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés a) pontja iktatta be.
+[^26]: A 13. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 13. § (2) bekezdés a) pontja iktatta be.

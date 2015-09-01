@@ -1,3 +1,3 @@
-6. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^16]
+6. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^19]
 
-[^16]: A 6. számú mellékletet a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte.
+[^19]: A 6. számú mellékletet a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés g) pontja hatályon kívül helyezte.

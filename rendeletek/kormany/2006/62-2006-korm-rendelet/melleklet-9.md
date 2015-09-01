@@ -1,3 +1,3 @@
-9. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^19]
+9. számú melléklet a 62/2006. (III. 27.) Korm. rendelethez[^22]
 
-[^19]: A 9. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^22]: A 9. számú mellékletet a 24/2015. (II. 20.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
