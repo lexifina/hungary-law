@@ -1,0 +1,1 @@
+## „o) a szolgáltatói nyilvántartás adatait az ellenőrzés során megállapított tényeknek és a jogszabályoknak megfelelően – az a) és e)–i) pontban foglaltakon túl – hivatalból módosíthatja, ha a fenntartó elmulasztott adatmódosítást kérni.”
