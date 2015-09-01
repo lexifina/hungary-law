@@ -6,7 +6,7 @@
 
 (2) Az óvoda a gyermek hároméves korától ellátja – a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározottak szerint – a gyermek napközbeni ellátásával összefüggő feladatokat is.
 
-(3) A gyermek – ha e törvény másképp nem rendelkezik – abban az évben, amelyben az ötödik életévét betölti, a nevelési év kezdő napjától napi négy órát köteles óvodai nevelésben részt venni.
+(3)
 
 (4)
 

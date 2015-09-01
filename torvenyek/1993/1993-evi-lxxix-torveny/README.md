@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-79-00-00
 | 2013-08-01 | 2013. évi CXXXIII. törvény | 1993-79-00-00.73 |
 | 2013-09-01 | 2011. évi CXC. törvény | 1993-79-00-00.74 |
 | 2014-01-01 | 2013. évi CCXXXII. törvény | 1993-79-00-00.75 |
+| 2015-09-01 | 2011. évi CXC. törvény | 1993-79-00-00.76 |
