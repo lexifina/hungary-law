@@ -1,1 +1,0 @@
-## 8. § A RIB a feladatainak ellátására állandó vagy eseti szakbizottságot alakíthat. A szakbizottság elnökét és tagjait – a RIB munkaszervezete vezetőjének javaslatára és a RIB ülésének állásfoglalása alapján – a RIB elnöke kéri fel tisztségének ellátására.
