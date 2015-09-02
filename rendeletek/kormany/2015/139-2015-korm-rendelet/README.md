@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-139-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-09-01 | 2015-139-20-22.1 | 139/2015. (VI. 9.) Korm. rendelet |
+| 2015-09-02 | 2015-139-20-22.2 | 2010: CXXX. törvény |
