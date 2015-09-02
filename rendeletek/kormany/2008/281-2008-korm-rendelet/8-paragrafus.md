@@ -1,4 +1,4 @@
-## 7. §[^1] Az utas haladéktalanul köteles tájékoztatni az utazásszervezőt arról, ha az utazás megkezdése előtt az utazási szerződésből fakadó jogait és kötelezettségeit átruházta.
+## 7. §[^4] Az utas haladéktalanul köteles tájékoztatni az utazásszervezőt arról, ha az utazás megkezdése előtt az utazási szerződésből fakadó jogait és kötelezettségeit átruházta.
 
 8. § (1) Az utas az utazási szerződéstől írásban tett nyilatkozattal az utazás megkezdése előtt bármikor elállhat.
 
@@ -26,4 +26,4 @@ b) elállhat a szerződéstől.
 
 (9) Az utasnak az utazás megkezdését megelőző harmincöt napnál, szálláshely (apartman) igénybevételére irányuló utazási szerződés esetében pedig negyvenöt napnál korábbi elállása esetére bánatpénzként legfeljebb a szolgáltatás díjának (a részvételi díjnak) tíz százaléka követelhető. Az utazás megkezdését megelőző hatvan napnál korábbi elállás esetére bánatpénz nem követelhető.
 
-[^1]: A 7. § a 80/2014. (III. 14.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^4]: A 7. § a 80/2014. (III. 14.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
