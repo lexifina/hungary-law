@@ -1,1 +1,0 @@
-## „e) az a)–c) pontban, a (2) és (3) bekezdésben, valamint a 7/B. §-ban meghatározott feladatok és tevékenységek, valamint a miniszter és az áldozatsegítésért felelős miniszter 2/A. § szerinti szakmai irányítói jogköreinek ellátása érdekében országosan egységes informatikai rendszert működtet,”
