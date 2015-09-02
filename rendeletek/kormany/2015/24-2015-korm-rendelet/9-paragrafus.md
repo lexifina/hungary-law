@@ -1,1 +1,0 @@
-## 2. A „Sikeres Magyarországért Panel Plusz” Hitelprogram keretében lakásszövetkezet, illetve társasház által felvett kölcsönhöz kapcsolódó támogatás nyújtásáról szóló 156/2005. (VIII. 15.) Korm. rendelet módosítása
