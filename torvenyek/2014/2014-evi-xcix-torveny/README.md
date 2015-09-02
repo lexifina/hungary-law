@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-99-00-00
 | 2015-07-01 | 2015. évi LXVI. törvény | 2014-99-00-00.15 |
 | 2015-07-02 | 2010. évi CXXX. törvény | 2014-99-00-00.16 |
 | 2015-09-01 | 2015. évi VIII. törvény | 2014-99-00-00.17 |
+| 2015-09-02 | 2010. évi CXXX. törvény | 2014-99-00-00.18 |
