@@ -46,7 +46,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a turizmusért felelős miniszter, hogy
 
-a) az utazásszervezői szakmai minősítő vizsga követelményeit,
+a)
 
 b) az idegenvezetői tevékenység folytatásának részletes feltételeit, valamint az idegenvezetői tevékenység bejelentésének és az idegenvezetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 

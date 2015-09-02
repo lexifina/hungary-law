@@ -2,9 +2,9 @@
 
 (2) Tartós szálláshasználati szolgáltatási tevékenység csak akkor folytatható, ha a vállalkozás
 
-a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó büntetlen előéletű, nem áll a tartós szálláshasználati szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
+a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll a tartós szálláshasználati szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 
-b) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző öt éven belül a tartós szálláshasználati szolgáltatási tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak a tartós szálláshasználati szolgáltatási tevékenység végzésétől.
+b) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző öt éven belül a tartós szálláshasználati szolgáltatási tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak a tartós szálláshasználati szolgáltatási tevékenység végzésétől.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő tartós szálláshasználati szolgáltatási tevékenység folytatására irányuló szándékát köteles a kereskedelmi hatóságnak bejelenteni.
 

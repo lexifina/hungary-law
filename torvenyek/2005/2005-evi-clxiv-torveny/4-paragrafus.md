@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti engedély csak annak a vállalkozásnak adható, amelynek
 
-a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó büntetlen előéletű, nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
+a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 
 b) nincs az adózás rendjéről szóló törvény szerinti köztartozása.
 
