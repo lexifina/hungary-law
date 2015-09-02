@@ -1,3 +1,0 @@
-72. § Az Nftv. 94. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A magán felsőoktatási intézmények a 12. § (7) és (8) bekezdésében, a 29. § (1) bekezdésében, a 37. § (1) bekezdés e) pontjában és (3)–(6) bekezdésében, a 83. § (1) és (5) bekezdésében foglalt rendelkezésektől, továbbá a 13. § (5) bekezdésében előírt nyelvi követelmény nyelvvizsga-bizonyítvánnyal vagy azzal egyenértékű okirattal való igazolási kötelezettségétől a szervezeti és működési szabályzatukban eltérhetnek azzal, hogy a 37. § (1) bekezdésben meghatározottak mellett magasabb vezetőként gazdasági vezetőt foglalkoztatnak. Magán felsőoktatási intézményekben a 13/A–13/D. § és a 37. § (4a) bekezdése nem alkalmazható.”
