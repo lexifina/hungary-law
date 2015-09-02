@@ -1,5 +1,5 @@
-## 5. §[^2]
+## 5. §[^4]
 
 ## 2. A finanszírozási eljárásrendekről szóló 31/2010. (V. 13.) EüM rendelet módosítása
 
-[^2]: Az 5. § a 7. § (3) bekezdése alapján 2015. november 1-jén lép hatályba.
+[^4]: Az 5. § a 7. § (3) bekezdése alapján 2015. november 1-jén lép hatályba.
