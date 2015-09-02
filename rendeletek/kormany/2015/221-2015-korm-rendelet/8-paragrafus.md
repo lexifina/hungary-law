@@ -1,1 +1,0 @@
-## „(8a) Közösségi alapellátás esetén figyelembe kell venni az azzal az ellátottal teljesített feladatmutatót, aki ugyanazon a napon pszichiátriai betegek rehabilitációs célú lakóotthonában vagy szenvedélybetegek rehabilitációs célú lakóotthonában bentlakásos szociális intézményi ellátásban is részesül.”

@@ -1,1 +1,0 @@
-## „(5) A Hivatal ellenőrzésére a 36. § (3) bekezdésében, a 37. § (6) és (7) bekezdésében, a 39. § (3), (4) és (6) bekezdésében, a 40–43. §-ban, valamint gyermekek napközbeni ellátása esetén a 37. § (2)–(4) bekezdésében foglaltakat alkalmazni kell azzal, hogy a Hivatal a bírságot kiszabó jogerős határozat másolatát a miniszternek küldi meg.”

@@ -1,3 +1,5 @@
-## 10. § Hatályát veszti a Tkr. 2. § (8) bekezdés a) pontja.
+## 7–10. §[^4]
 
 ## 5. A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet módosítása
+
+[^4]: A 7–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
