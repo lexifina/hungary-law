@@ -1,3 +1,3 @@
-## 17–21. §[^5]
+## 17–21. §[^6]
 
-[^5]: A 17–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 17–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
