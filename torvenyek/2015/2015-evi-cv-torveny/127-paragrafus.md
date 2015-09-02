@@ -1,5 +1,3 @@
-## „44/A. § Forintalapú fogyasztói kölcsönszerződések esetén a pénzügyi intézmény az e törvény és az egyes fogyasztói kölcsönszerződések devizanemének módosulásával és a kamatszabályokkal kapcsolatos kérdések rendezéséről szóló 2014. évi LXXVII. törvény szerinti elszámolásokat az ügyféllel szemben 2015. június 30-i nappal teljesíti azzal, hogy az elszámolások hatásait az ügyfélre vonatkozó belső nyilvántartásaiban, valamint a számviteli nyilvántartásaiban 2015. szeptember 30-ig – ha pedig a pénzügyi intézmény vagy a Felügyelet által e törvény vagy a 2014. évi XXXVIII. törvény alapján indított polgári peres eljárás befejezésére 2015. augusztus 1. napja után kerül sor, akkor a polgári peres eljárás befejezésétől számított hatvanadik napig – vezeti át, illetve rögzíti.”
-
 ## 65. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
 127. § A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 138. § (1) bekezdés c) pontja a következő szöveggel lép hatályba:
