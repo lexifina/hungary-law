@@ -1,0 +1,1 @@
+## 1. § Az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó rendelkezéseket a 2010/713/EU bizottsági határozat tartalmazza.
