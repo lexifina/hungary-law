@@ -1,0 +1,637 @@
+# A Kormány 1567/2015. (IX. 4.) Korm. határozata
+
+Magyar Közlöny 2015. évi 123. szám, 2015. szeptember 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e9effa7d6eb5496e647e0ba8914f405919289869/dokumentumok/25b8f51c4369adfad92a0dde39f906f05a2fb1ae/letoltes)
+
+---
+
+A Kormány 1567/2015. (IX. 4.) Korm. határozata
+az építésügy átalakítását célzó intézkedési tervről és a hozzá kapcsolódó feladatokról
+A Kormány
+1. elfogadja az építésüggyel kapcsolatos társadalompolitikai elképzelések megvalósítását célzó intézkedésekről szóló
+1032/2015. (I. 30.) Korm. határozat végrehajtását szolgáló, az 1. mellékletben foglalt, az építésügy átalakítását célzó
+intézkedési tervet (a továbbiakban: Intézkedési Terv);
+2. felhívja a Miniszterelnökséget vezető minisztert, hogy koordinálja az Intézkedési Terv végrehajtását;
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: folyamatos
+3. felhívja a feladatkörükben érintett minisztereket, hogy a Miniszterelnökséget vezető miniszter megkeresésére
+a szükséges adatok és információk rendelkezésre bocsátásával segítsék elő az Intézkedési Terv tárcaközi
+koordinációját, és biztosítsák az intézkedések folyamatos nyomon követését;
+Felelős: érintett miniszterek
+Határidő: folyamatos
+4. felhívja a Miniszterelnökséget vezető minisztert, a nemzetgazdasági minisztert, valamint a földművelésügyi
+minisztert, hogy működjenek együtt az egyes intézkedések végrehajtásához szükséges költségvetési források
+tervezése, és azok biztosítása érdekében a rendelkezésre álló források figyelembevételével;
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+földművelésügyi miniszter
+Határidő: folyamatos
+5. felhívja a feladatkörükben érintett minisztereket, hogy az Intézkedési Tervben foglalt feladatok végrehajtásáról
+készítsenek beszámolót, és azt küldjék meg a Miniszterelnökséget vezető miniszternek;
+Felelős: az Intézkedési Tervben felelősként megjelölt érintett miniszterek
+Határidő: 2016. május 31.
+
+6. felhívja a Miniszterelnökséget vezető minisztert, hogy az 5. pontban foglaltak szerint elkészített beszámolók alapján
+készítsen jelentést a Kormány számára az Intézkedési Tervben foglalt feladatok végrehajtásáról.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: 2017. október 31.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1567/2015. (IX. 4.) Korm. határozathoz
+Az építésügy átalakítását célzó intézkedési terv
+1. A lakossági építkezésekhez kapcsolódó bürokráciacsökkentés
+1.1. Az ügyintézés hatékonyabbá tétele érdekében az általános építésügyi hatósági hatáskört a jegyzőtől a járási
+hivatalba kell integrálni, hogy az engedélyezési eljárásokban a szakhatósági közreműködés az integráció
+következtében nagymértékben lecsökkenjen, aminek a szervezeti, személyi és forrásigényét, valamint
+hatásait vizsgálni kell. Valamennyi járásban legalább egy építésügyi hatóságot létre kell hozni.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+igazságügyi miniszter
+Végrehajtás: jogalkotás, kormányrendelet módosítás
+Határidő: 2016. december 31.
+Forrás: a finanszírozás tervezett forrása a központi költségvetés
+1.2. Felül kell vizsgálni az Építésügyi Szolgáltatási Pontok helyét, mennyiségét, a létesítés feltételeit, és javaslatot
+kell tenni az igényekhez igazodó korszerűsítésre.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Végrehajtás: jogalkotás, kormányrendelet módosítás
+Határidő: 2016. december 31.
+Forrás: a finanszírozás tervezett forrása a központi költségvetés
+1.3. A készülő általános közigazgatási rendtartásról szóló törvény vegye figyelembe az építésügyi- és
+építésfelügyeleti hatósági eljárások különleges szabályait, tekintettel az építésügy társadalomban betöltött
+kiemelt szerepére.
+Felelős: igazságügyi miniszter
+Miniszterelnökséget vezető miniszter
+Végrehajtás: jogalkotás, törvény-, kormányrendelet módosítás
+Határidő: 2016. január 31.
+Forrás: a finanszírozás tervezett forrása a központi költségvetés
+1.4. A lakossági építkezések támogatása érdekében átlagosnak tekinthető minimum méret meghatározásával
+egy gyorsabb eljárásmenet kialakítása indokolt. Legfeljebb 160 m2 hasznos alapterületű lakóépület
+(legfeljebb 3 szint: pince+földszint+tetőtér) építése vagy meglévő lakóépület legfeljebb 160 m2 hasznos
+alapterületűvé történő bővítése vagy átalakítása esetén, amennyiben szakhatósági közreműködés,
+és építésügyi követelmények vizsgálatán túlmenő szakkérdés vizsgálat nem szükséges, az építésügyi
+hatóságnak tudomásulvételi eljárást kell lefolytatnia.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Végrehajtás: jogalkotás, törvény, kormányrendelet módosítás
+Határidő: 2016. december 31.
+Forrás: nincs forrásigény
+
+1.5. A lakossági építkezések támogatása és az épített környezetünk minőségének növelése érdekében tájegységi
+karaktereket hordozó Nemzeti Mintaterv-katalógust kell kidolgozni, amely a műszaki dokumentációhoz
+kapcsolódóan tartalmazza a tételes anyag és munkaidő ráfordítás kimutatását.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+igazságügyi miniszter
+Végrehajtás: jogalkotás, törvény, kormányrendelet módosítás
+Határidő: 2016. december 31.
+Forrás: a finanszírozás tervezett 100 millió forint forrása a központi költségvetés
+1.6. A szakmai kamarák bevonásával az építési tevékenység végzéséhez kapcsolódó dokumentációk teljes
+körű, átfogó és folyamatos monitoring-felülvizsgálata, a hazai sajátosságokhoz igazodó Építészeti, Mérnöki
+Tervezési és Szolgáltatási Rendszer bevezetéséhez kapcsolódóan.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Végrehajtás: jogalkotás, kormányrendelet módosítás
+Határidő: 2016. december 31.
+Forrás: nincs forrásigény
+2. A tervező szerepe, jogai és kötelezettségei
+2.1. Az érintett szakmai szervezetek bevonásával ki kell dolgozni az Építészeti, Mérnöki Tervezési és Szolgáltatási
+Rendszert és a hozzá kapcsolódó minimális tervezői díjszabást, az érintett jogszabályok módosítását.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: 2016. december 15.
+2.2. Az érintett szakmai szervezetek bevonásával be kell vezetni a kötelező tervezői nyilatkozattételt és annak
+körét, amelynek során a tervezőnek az egyes tervdokumentációk elkészítésekor nyilatkoznia kell arról,
+hogy a tervezés során az elvárható legmagasabb minőség figyelembevételével a jogszabályok és a szakmai
+előírások betartásával járt el, valamint az Építészeti, Mérnöki Tervezési és Szolgáltatási Rendszer alapján
+a jogszabályban meghatározott tartalmú nyilatkozatot kell tennie arról, hogy az építőipari kivitelezés
+a terveknek megfelelően valósult meg.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: 2016. december 15.
+Forrás: nincs forrásigény
+2.3. Meg kell határozni a tervezői művezetés kötelező jellegű bevezetésének eseteit és az építőipari kivitelezés
+tervezői felügyeletét, illetve annak szabályait be kell építeni az építőipari kivitelezési tevékenységről szóló
+191/2009. (IX. 15.) Korm. rendeletbe, illetve az egyéb érintett jogszabályokba.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: 2016. december 15.
+2.4. Meg kell határozni az egyszerűsített e-építési napló tartalmi és alkalmazási követelményeit, és a szabályokat
+be kell építeni az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendeletbe, illetve
+az egyéb érintett jogszabályokba.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: 2016. december 15.
+2.5. Intézkedni kell a generáltervező, a felelős tervező, az építésügyi igazgatási szakértő, a beruházás-lebonyolító
+intézményének (fogalmának és feladatainak) meghatározásáról, valamint az építőipari kivitelezési
+tevékenységről szóló 191/2009. (IX. 15.) Korm. rendeletben és egyéb érintett jogszabályokban történő
+szabályozásáról.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: 2016. december 15.
+
+2.6. Meg kell határozni a tervezési szerződés kötelező tartalmi elemeit és gondoskodni kell azoknak az épített
+környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben és egyéb érintett jogszabályokban
+történő szabályozásáról különös tekintettel
+a) a szerzői jogi kérdésekre,
+b) az építmény kivitelezési dokumentációjára,
+c) a terveknek megfelelő bekerülési költségekre,
+d) jelentős eltérés vizsgálatának lehetőségére, szankcionálására.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: 2016. december 15.
+2.7. Az érintett szakmai szervezetek bevonásával ki kell alakítani a tervezőket és a teljes építési beruházási
+folyamatot és az üzemeltetést érintő szakmafelügyeleti rendszert, és ehhez kapcsolódóan ki kell dolgozni
+a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény és
+az érintett jogszabályok módosítását.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: 2016. december 15.
+Forrás: nincs forrásigény
+2.8. Az érintett szakmai szervezetek bevonásával ki kell alakítani a tervezőkre és az építőipari kivitelezőkre
+vonatkozó felelősségbiztosítási keretrendszert. A felelősségbiztosítás kereteinek és elemeinek
+meghatározását követően el kell végezni a szükséges jogszabály-módosításokat.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+nemzetgazdasági miniszter
+Határidő: a keretrendszer kialakítása tekintetében 2016. december 31.
+a jogszabály módosítások tekintetében 2017. december 31.
+2.9. Felül kell vizsgálni az európai uniós projektekhez kapcsolódó arculati kézikönyvet és annak megfelelően
+intézkedni kell a közpénzből megvalósuló épületeken és köztereken a felelős tervező nevének feltüntetési
+lehetőségéről.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: 2016. december 15.
+3. Szerzői jogi szabályozás építészeti alkotásokra, műszaki létesítményekre és azok terveire
+3.1. A Szellemi Tulajdon Nemzeti Hivatala elnökének bevonásával meg kell határozni a nemzeti tervvagyonba
+tartozó tervdokumentációk körét, amelyek tekintetében – a jogszerzés időpontjában hatályos szerzői jogi
+jogszabályoknak megfelelően – a szerzői vagyoni jogokat az állam gyakorolja, és ki kell jelölni a nemzeti
+tervvagyonnal kapcsolatos engedélyezési jogot gyakorló szervezetet.
+Felelős: igazságügyi miniszter
+Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+Határidő: 2016. március 31.
+3.2. A Szellemi Tulajdon Nemzeti Hivatala elnökének bevonásával meg kell vizsgálni az építészeti alkotásokkal
+kapcsolatos, szerzői jogi szempontból lényeges adatokat tartalmazó nyilvántartási rendszer felállításának
+lehetőségét, külön figyelemmel annak más releváns nyilvántartási rendszerrel való összekapcsolásának
+lehetőségére is.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: 2016. március 31.
+3.3. A Szellemi Tulajdon Nemzeti Hivatala elnökének bevonásával
+a) meg kell vizsgálni a szerzői jogról szóló 1999. évi LXXVI. törvény 41/A. § (1) bekezdése szerint
+árva műnek minősülő építészeti alkotások átdolgozásának a Szellemi Tulajdon Nemzeti Hivatala
+általi engedélyezésére vonatkozó szabályozási lehetőségeket, és ha az ilyen típusú engedélyezés
+az irányadó nemzetközi és európai uniós előírások alapján lehetséges, ki kell dolgozni ennek
+feltételeit,
+
+b) meg kell vizsgálni a munkaviszonyban létrehozott művekkel kapcsolatban a szerzői jogról
+szóló 1999. évi LXXVI. törvény 30. §-a alapján megszerzett szerzői vagyoni jogok jogi
+helyzetének rendezésére vonatkozó lehetőségeket, különös tekintettel a bírósági cégeljárásról
+és a végelszámolásról szóló 2006. évi V. törvény 119. § (1) bekezdése szerinti vagyonrendezési
+eljárás alkalmazhatóságának kérdésére, és szükség esetén módosítani kell, vagy ki kell egészíteni
+a szabályozást,
+c) javaslatot kell kidolgozni az építésüggyel kapcsolatos szerzői jogi kérdésekre vonatkozó társadalmi
+jogtudatosság növelése érdekében szükséges intézkedésekre,
+d) meg kell vizsgálni a tervpályázati eljárások szabályairól szóló 305/2011. (XII. 23.) Korm. rendelet
+tervpályázatok felhasználására vonatkozó rendelkezéseinek a szerzői jogról szóló 1999. évi
+LXXVI. törvény szabályainak megfelelő módosításának szükségességét
+Felelős: igazságügyi miniszter
+Miniszterelnökséget vezető miniszter
+Határidő: 2016. március 31.
+4. A közepes és nagy léptékű, közpénzből illetve európai uniós forrásból megvalósuló építési beruházások támogatása
+4.1. El kell készíteni az Építészeti, Mérnöki Tervezési és Szolgáltatási Rendszer kötelezően alkalmazandó
+egységes módszertanát a közepes és nagy léptékű, közpénzből, illetve európai uniós forrásból megvalósuló
+beruházások tekintetében, különös tekintettel
+a) a minimálisan 35 napos ajánlattételi határidő biztosítására az ajánlattevői kör számára,
+b) a kiválasztás kötelező elemeinek bővítésére a tételes árazott költségvetéssel,
+c) arra, hogy az építőipari kivitelező kiválasztása folyamatának megkezdését előzze meg az építtetőt
+képviselő építési műszaki ellenőr megbízása,
+d) a beruházás-lebonyolítói jogosultság visszaállítására.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+Határidő: 2016. január 1.
+4.2. A reális költségbecslési adatok támogatása érdekében az ÉMI Építésügyi Minőségellenőrző
+Innovációs Nonprofit Kft. bevonásával ki kell dolgozni és üzemeltetni kell a kötelező, tételre bontott
+költség-adatszolgáltatást.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: 2016. január 1.
+Forrás: központi költségvetés, évi 50 millió forint
+4.3. Össze kell állítani az építőanyagokra, építéstechnológiákra, építészeti programokra és épületszerkezetekre
+vonatkozó szabványlistát, érvényben levő szabvány hiányában pedig ki kell dolgozni műszaki irányelveket,
+továbbá az építési beruházások tekintetében biztosítani kell az előkészítés és lebonyolítás minőségi
+megvalósításának ellenőrzését, nyomon követését az építésüggyel összefüggő szabvány vonatkozásában,
+az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. bevonásával.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+Határidő: 2017. január 1.
+4.4. Létre kell hozni a 2014–2020-as európai uniós programozási időszak fejlesztési forrásainak hatékonyabb
+felhasználásának, valamint a gazdaságos és fenntartható üzemeltetés érdekében egy Nemzeti Beruházás-
+előkészítési Alapot.
+Felelős: nemzetgazdasági miniszter
+Miniszterelnökséget vezető miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2017. január 1.
+5. Az építésügyi hatósági eljárásban az állami végrehajtás lehetőségének biztosítása
+5.1. Meg kell teremteni a végrehajtást foganatosító hatóság számára a végrehajtási költség legalább részbeni
+előlegezésének lehetőségét. Létre kell hozni a végrehajtási költség előlegezését biztosító pénzügyi alapot,
+amelynek célja a forráshiány miatt megakadó végrehajtási eljárások lefolytatásának elősegítése előlegezés
+útján; elő kell készíteni az alappal kapcsolatosan a szükséges jogszabály-módosításokat.
+
+Felelős: igazságügyi miniszter
+Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+Határidő: az általános közigazgatási rendtartásról szóló törvény kodifikációjához igazodva
+Forrás: központi költségvetés
+5.2. Minden tárcának fel kell mérnie a feladatkörébe tartozó hatósági eljárások tekintetében a végrehajtás
+foganatosításának eredményességét, melyről beszámolót kell készíteniük az igazságügyi miniszter részére
+az általános közigazgatási rendtartásról szóló törvény végrehajtási rendelkezéseinek kidolgozásához.
+Felelős: igazságügyi miniszter
+miniszterelnökséget vezető miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+földművelésügyi miniszter
+nemzetgazdasági miniszter
+honvédelmi miniszter
+emberi erőforrások minisztere
+Határidő: 2015. november 30.
+5.3. Az 5.1. pontban meghatározott alap számára a 2017. évi központi költségvetésben, majd ezt követően
+folyamatosan forrást kell tervezni.
+Felelős: nemzetgazdasági miniszter
+Végrehajtás: költségvetési tervezés
+Határidő: 2017. évi és az azt követő évek központi költségvetésének tervezése során
+6. Az E-építési koncepcióban foglaltak megvalósítása
+6.1. Javaslatot kell tenni a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft.
+közreműködésével – a Nemzeti Média és Hírközlési Hatóság bevonásával – az építésügyi közigazgatási
+eljárások elektronizálásához szükséges jogszabályi környezet módosítására.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+Határidő: 2015. december 31.
+6.2. Létre kell hozni az innovatív, szolgáltató szemléletű, felhasználóbarát építésügyi közigazgatási eljárások
+elektronizálását támogató E-építési keretrendszert a Lechner Tudásközpont Területi, Építészeti és Informatikai
+Nonprofit Kft. közreműködésével, a Nemzeti Média és Hírközlési Hatóság bevonásával.
+Felelős: Miniszterelnökséget vezető miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+Határidő: a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Programhoz (KÖFOP) igazodva,
+Forrás: a KÖFOP 2014–2020 keretein belül tervezett
+6.3. Létre kell hozni az E-építési keretrendszert kiszolgáló, az építésügyi adatgyűjtést és megjelenítést támogató
+3D Magyarország rendszert, a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft.
+közreműködésével és a Földmérési és Távérzékelési Intézet bevonásával.
+Felelős: Miniszterelnökséget vezető miniszter
+földművelésügyi miniszter
+Határidő: a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Programhoz (KÖFOP) igazodva
+Forrás: a KÖFOP 2014–2020 keretein belül tervezett
+6.4. Az E-építési keretrendszer és a 3D Magyarország szolgáltatásainak hatékony használata érdekében meg
+kell valósítani a felhasználói kör képzését, továbbképzését, tájékoztatását, szemléletformálását szolgáló
+programot, a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft. közreműködésével.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Programhoz (KÖFOP) igazodva
+Forrás: a KÖFOP 2014–2020 keretein belül tervezett
+
+7. Új területrendezési, településfejlesztési és -rendezési tervrendszer
+7.1. Ki kell dolgozni a területrendezési tervek és a településrendezési eszközök egymásra épülő rendszerének
+hatékonysága, a 2014–2020-as európai uniós programozási időszakban megvalósuló fejlesztések elősegítése,
+a Modern Városok Program támogatása, valamint az ágazati célok területi koordinációja érdekében
+a) a területrendezési tervek egy időben történő készítésének és elfogadásának jogszabályi feltételeit,
+b) a területrendezési tervek és településrendezési eszközök új tartalmi követelményrendszerét
+összhangban a terület- és településfejlesztési tervezéssel,
+c) a közösségi tervezés és a lakosság véleményezésbe történő bevonása ösztönzésének új, hatékony
+módszertanát.
+Felelős: Miniszterelnökséget vezető miniszter
+belügyminiszter
+igazságügyi miniszter
+nemzetgazdasági miniszter
+emberi erőforrások minisztere
+földművelésügyi miniszter
+nemzeti fejlesztési miniszter
+honvédelmi miniszter
+Határidő: 2015. december 15.
+Forrás: nem igényel forrást
+7.2. Az egységes, egymásra épülő tervhierarchia megteremtése érdekében el kell készíteni a területrendezési
+tervek módosításához a településrendezési tervezéssel szinkronban lévő, adattartalmában módosított állami
+ingatlan-nyilvántartási térképi adatbázist, az állami topográfiai térképi adatbázist az állami távérzékelési
+adatbázist és ezek ingyenes szolgáltatását a tervezéshez.
+Felelős: földművelésügyi miniszter
+Miniszterelnökséget vezető miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+nemzetgazdasági miniszter
+honvédelmi miniszter
+a forrás biztosítása tekintetében: nemzetgazdasági miniszter
+Határidő: 2016. június 30.
+Forrás: 200 millió forint forrás biztosítása a központi költségvetésből, a Földművelésügyi Minisztérium
+fejezetében
+7.3. A 2014–2020-as európai uniós programozási időszakra megfogalmazott, átfogó fejlesztések területi
+megalapozása, valamint a Modern Városok Program támogatása érdekében, összhangban az Országos
+Fejlesztési és Területfejlesztési Koncepcióval
+a) el kell készíteni az új tervezési rendszerben az ország és a kiemelt térségek területrendezési tervét,
+b) az a) alpontban foglalt feladat végrehajtásával párhuzamosan koordinálni és finanszírozni kell
+a megyei területrendezési tervek módosítását,
+c) biztosítani kell az új tervezési rendszerben készülő területrendezési tervek, valamint
+a településfejlesztési dokumentumok és a településrendezési eszközök egységes digitális felületen
+történő egyeztetését a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft.
+bevonásával,
+d) az a)–c) alpontban foglalt feladatok ellátásához gondoskodni kell a 2016. évi központi költségvetés
+terhére 550 millió forint, a 2017. évi központi költségvetés terhére 350 millió forint többletforrás
+biztosításáról.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+belügyminiszter
+földművelésügyi miniszter
+nemzeti fejlesztési miniszter
+honvédelmi miniszter
+emberi erőforrások minisztere
+
+Határidő: az a)–b) alpont tekintetében: 2017. december 15.
+a c) alpont tekintetében: 2016. december 15.
+a d) alpont tekintetében: folyamatos
+Forrás: 900 millió forint forrás a központi költségvetésből
+7.4. Magyarország versenyképességének növelése, a 2014–2020-as európai uniós programozási időszak
+forrásainak hatékony felhasználása, a fejlesztések átláthatóságának biztosítása és a szabályozások gyorsítása
+érdekében
+a) gondoskodni kell a Dokumentációs Központnak az új tervezési rendszerben készülő
+területrendezési tervek és településrendezési eszközök közhiteles digitális kezelésére és
+adatszolgáltatásra, valamint a településfejlesztési koncepciók és integrált településfejlesztési
+stratégiák gyűjtésre és adatszolgáltatásra alkalmassá tételéről a Lechner Tudásközpont Területi,
+Építészeti és Informatikai Nonprofit Kft. útján,
+b) ki kell alakítani az ágazati és önkormányzati fejlesztésekkel kapcsolatos döntéstámogató Nemzeti
+Fejlesztési Potenciál Térképet és adatbázist a Lechner Tudásközpont Területi, Építészeti és
+Informatikai Nonprofit Kft. útján,
+c) az a) és b) alpontban megfogalmazott feladatok ellátásához gondoskodni kell a 2016. évi központi
+költségvetés terhére 50 millió forint, a 2017. évi központi költségvetés terhére 60 millió forint forrás
+biztosításáról.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+belügyminiszter
+a források biztosításáért: nemzetgazdasági miniszter
+Határidő: a) és b) alpont esetében 2017. december 15.
+c) alpont esetében azonnal, illetve a 2017. évi költségvetés tervezése során
+Forrás: 110 millió forint a központi költségvetésből
+7.5. A lakossági építkezések és befektetői beruházások rugalmas megvalósulásának elősegítése, valamint
+Magyarország III. Nemzeti Energia-hatékonysági Cselekvési Tervének településrendezési támogatása
+érdekében ki kell dolgozni
+a) a családi házas lakóterületek településrendezési szabályozási tartalmának egyszerűsítését,
+b) a gazdasági területekre vonatkozó településrendezési keretszabályokat és alkalmazásuk eljárási
+rendjét,
+c) a mérnöki létesítmények településkép-védelmi véleményezési eljárásának részletszabályait,
+d) a Helyspecifikus Településklimatológiai Vizsgálat, valamint a klímatudatos településrendezés
+gyakorlati módszertanát és az infokommunikációs, hírközlési mérnöki és különleges építmények
+elhelyezésének települési szabályozásának módszertanát a Nemzeti Média- és Hírközlési Hatóság
+bevonásával.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzeti fejlesztési miniszter
+földművelésügyi miniszter
+Határidő: 2015. december 15.
+7.6. Ki kell dolgozni a települési önkormányzatok településfejlesztési dokumentumai és településrendezési
+eszközei elkészítéséhez szükséges, az állami ingatlan-nyilvántartási térképi adatbázis, az állami topográfiai
+térképi adatbázis, és az állami távérzékelési adatbázis díjmentességét biztosító jogszabályi és finanszírozási
+feltételeket.
+Felelős: földművelésügyi miniszter
+Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+nemzetgazdasági miniszter
+belügyminiszter
+Határidő: 2016. június 30.
+Forrás: 3 milliárd forint forrás a 2017. évi és 3 milliárd forint forrás a 2018. évi központi költségvetésből
+a Földművelésügyi minisztérium fejezetében
+
+7.7. A Digitális Nemzet Fejlesztési Programmal, a Smart City és a Modern Városok fejlesztési programmal, illetve
+az előkészítés alatt lévő Nemzeti Tájstratégiával összhangban ki kell dolgozni
+a) a Nemzeti Településpolitikát,
+b) a Nemzeti Településpolitika Cselekvési Programját.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+emberi erőforrás miniszter
+földművelésügyi miniszter
+Határidő: az a) alpont tekintetében 2016. június 30.
+a b) alpont tekintetében 2017. június 30.
+8. Külterületen történő építési lehetőségek rendezése
+8.1. A külterületen történő építkezéseknek a Nemzeti Településpolitikával összhangban lévő, a mezőgazdasági
+termelést támogató, a települések fejlődését előremozdító, a hagyományos építészeti értékek és
+hagyományos tájhasználat megőrzését lehetővé tevő és a külterületi építkezések rendezetlen viszonyait
+komplex módon kezelő támogatása és szabályozása érdekében
+a) el kell készíteni a településfejlesztési és településrendezési szempontú átfogó Országos Külterületi
+Beépítés-katasztert,
+b) biztosítani kell a 2016. évi központi költségvetés terhére 500 millió forint forrást az a) alpont szerinti
+Országos Külterületi Beépítés-kataszter elkészítésére.
+Felelős: Miniszterelnökséget vezető miniszter
+földművelésügyi miniszter
+igazságügyi miniszter
+nemzetgazdasági miniszter
+emberi erőforrások minisztere
+honvédelmi miniszter
+a források biztosításáért: nemzetgazdasági miniszter
+Határidő: az a) alpont tekintetében 2016. december 15.
+az b) alpont tekintetében 2016. január 1.
+Forrás: 500 millió forint a központi költségvetésből
+8.2. Magyarország adottságainak és településfejlesztési potenciáljának hosszú távú biztosítása érdekében ki
+kell dolgozni a külterületi beépítési módok egyedi adottságaihoz alkalmazkodó szabályozási javaslatot,
+a tervekhez szükséges jelkulcs- és fogalomrendszert.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+nemzetgazdasági miniszter
+honvédelmi miniszter
+földművelésügyi miniszter
+emberi erőforrások minisztere
+Határidő: 2016. december 15.
+8.3. A külterületeken élő családok és ott működő családi gazdaságok és vállalkozások segítése érdekében ki kell
+dolgozni a Magyarországi Tanyák és Zártkertek Programot.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+belügyminiszter
+földművelésügyi miniszter
+emberi erőforrások minisztere
+Határidő: 2017. június 30.
+9. A balatoni fejlesztéseket támogató új tervrendszer
+9.1. A Balaton kiemelt üdülőkörzet területrendezési tervrendszerének átláthatóbbá és költséghatékonyabbá
+tétele érdekében meg kell teremteni a partvonal-szabályozási és vízpart-rehabilitációs tervezés
+területrendezési tervbe történő integrálásának és egyszerűsítésének jogszabályi feltételeit.
+
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi minisztérium
+nemzetgazdasági miniszter
+belügyminiszter
+földművelésügyi miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2015. december 15.
+9.2. A Balaton kiemelt üdülőkörzet területén, a 2014–2020-as európai uniós programozási időszakban
+megvalósuló fejlesztések, különösen a kerékpárutak, a védművek, a zöldterületek, a parti sétányok és
+a csónakkikötők összehangolt fejlesztésének területi megalapozása, a települési szabályozás gyorsítása
+és egyszerűsítése érdekében, összhangban a Balaton Településfejlesztési Koncepciójával és a Balaton
+Területfejlesztési Stratégiai Programjával
+a) el kell készíteni a Balaton kiemelt üdülőkörzet új területrendezési tervét,
+b) az érintett minisztereknek a szakterületükön kezelt szak-adatállományukból a Balatont érintő
+információk tekintetében gondoskodniuk kell naprakész adatszolgáltatás biztosításáról
+a Miniszterelnökséget vezető miniszter részére az a) alpontban foglaltak teljesítéséhez,
+c) biztosítani kell a 2016. költségvetési évben 350 millió forint, a 2017. évben 165 millió forint
+forrást a Miniszterelnökség fejezetében a Balaton kiemelt üdülőkörzet területrendezési tervének
+elkészítéséhez és a b) alpontban foglalt adatszolgáltatások feltételeinek megteremtéséhez.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+földművelésügyi miniszter
+honvédelmi miniszter
+emberi erőforrások minisztere
+Határidő: az a) alpont tekintetében 2017. december 15.
+a b) alpont tekintetében 2016. június 30.
+a c) alpont tekintetében azonnal, illetve a 2017. évi költségvetés tervezése során
+10. Az építési beruházásokkal kapcsolatos közbeszerzések szakmaspecifikus eljárási szabályelemei
+10.1. Ki kell dolgozni az új közbeszerzési rendszer építési beruházásokra, valamint azokhoz kapcsolódó tervezői és
+mérnöki szolgáltatásokra vonatkozó végrehajtási rendeletét.
+Határidő: a közbeszerzésekről szóló új törvény elfogadáshoz igazodva
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+igazságügyi miniszter
+11. Az építészeti tervek minőség alapú kiválasztási rendszere
+11.1. Meg kell vizsgálni a korszerűsítés érdekében az építészeti minőség, a legnagyobb hozzáadott érték,
+a fenntarthatóság és gazdaságosság elveit előtérbe helyezve az építészeti tervek minőség alapú kiválasztási
+rendszerének jogszabályi környezetét.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2016. december 31.
+12. Főépítész és tervtanács
+12.1. Az épített környezet minőségének országos biztosítása érdekében
+a) létre kell hozni az 59 építésigazgatási szervezettel rendelkező járásközpontban az állami főépítészi
+hálózatot és az általuk működtetett, rendszeresen ülésező tervtanácsot,
+b) a kiemelt jelentőségű területeken önálló főépítészi státuszt kell biztosítani,
+c) a – járási, megyei, kiemelt és országos szintű – állami főépítészek rendszeresen ülésező tervtanácsot
+működtessenek,
+d) korszerűsíteni kell a főépítészi továbbképzési és vizsgarendszert,
+
+e) a nemzetgazdasági szempontból kiemelt beruházások tervtanácsi támogatására felül kell vizsgálni
+a vonatkozó jogszabályokat,
+f) a szakmai garanciák megtartása és kibővítése mellett korszerűsíteni kell a főépítészek és
+a tervtanácsok működésének szakmai és eljárási szabályait, az érintett szakmai szervezetek
+bevonásával.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: az a) és b) pont tekintetében a működési egyszeri költség azonnal, majd minden évben
+a c) pont tekintetében 2016. január 1., majd minden évben
+Forrás: az a) és b) pont tekintetében működési egyszeri költség 310 millió forint, majd 2016-tól évi
+740 millió forint. központi költségvetésből
+c) alpont tekintetében évi 175 millió forint a központi költségvetésből
+12.2. Ki kell alakítani a főmérnöki rendszert amely támogatja a főépítész és a polgármesterek munkáját, valamint
+a 2014–2020-as európai uniós források hatékony felhasználását.
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2016. január 1.
+13. Állami középület-állomány kataszterének létrehozása
+13.1. Az állami középület-kataszter létrehozása, fenntartható működtetése, valamint megbízható és naprakész
+adatokkal való folyamatos feltöltése érdekében – lehetőség szerint Európai Uniós finanszírozási keretek
+között – meg kell teremteni
+a) a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft. által fejlesztendő
+térinformatikai rendszer működését és adatokkal való feltöltését támogató jogszabályi hátteret,
+b) a 2D alapú tervadatbázis rögzítését,
+c) a Nemzeti BIM (Building Information Modelling) szabvány létrehozását.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: 2015. december 31.
+Forrás: Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program (KÖFOP) 2014–2020 keretein belül
+tervezett
+13.2. Az állami középület-kataszter létrehozása, valamint fenntartható működtetése érdekében jogszabályban
+biztosítani kell az állami középület-kataszter és az elektronikus formában feldolgozható tulajdoni lapok
+adatbázisa közötti naprakész informatikai adat-kapcsolat lehetőségét.
+Felelős: Miniszterelnökséget vezető miniszter
+földművelésügyi miniszter
+Határidő: 2015. december 31.
+13.3. Az állami középület-kataszter létrehozása, valamint fenntartható működtetése érdekében jogszabályban
+biztosítani kell az állami középület-kataszter és a Központosított Címregiszter közötti naprakész informatikai
+adatkapcsolat lehetőségét.
+Felelős: Miniszterelnökséget vezető miniszter
+belügyminiszter
+földművelésügyi miniszter
+Határidő: 2015. december 31.
+13.4. Meg kell teremteni az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. által üzemeltetett Nemzeti
+Épület Energetikai Rendszerbe történő adatszolgáltatási kötelezettség jogszabályi hátterét, valamint
+az állami középület-kataszteren belül kialakítandó adatbázisok és létesítménygazdálkodási rendszer
+megfelelő működésének biztosítása érdekében jogszabályban biztosítani kell az állami középület-kataszter
+és a Nemzeti Épület Energetikai Rendszer közötti naprakész informatikai adat-kapcsolat lehetőségét.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2015. december 31.
+
+13.5. Az állami középület-kataszter létrehozása, valamint fenntartható működtetése érdekében jogszabályban
+biztosítani kell az állami középület-kataszter és a Magyar Nemzeti Vagyonkezelő Zrt. közötti informatikai
+adat-kapcsolat lehetőségét.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+nemzeti fejlesztési miniszter
+Határidő: 2015. december 31.
+14. Tér- és környezetkultúra nevelés, szemléletformálás
+14.1. Gondoskodni kell a Nemzeti építészetpolitika dokumentumban megfogalmazott értékek népszerűsítéséről.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: folyamatos
+14.2. Az épített és természeti környezetünk minősége és az általános építészeti kultúra népszerűsítése érdekében
+pályázati jelleggel elérhető civil támogatási alapot kell létrehozni önálló költségvetési soron.
+Felelős: nemzetgazdasági miniszter
+Miniszterelnökséget vezető miniszter
+Határidő: azonnal és a tárgyévi költségvetésben évente
+Forrás: 2016. január 1-től évi 100 millió forint a központi költségvetésből a Miniszterelnökség
+fejezetében
+14.3. Ki kell dolgozni és országos szinten be kell vezetni a települési„Szép utca”programot.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: 2016. január 31.
+14.4. A nemzeti köznevelésről szóló 2011. évi CXC. törvény és az egyéb érintett jogszabályok felülvizsgálatát
+követően egységes koncepciót kell kidolgozni a tér- és környezetkultúra és környezetesztétika témájának
+az alapoktatásban történő megerősítésére, különös tekintettel
+a) a Nemzeti alaptanterv kiadásáról, bevezetéséről és alkalmazásáról szóló 110/2012. (VI. 4.)
+Korm. rendelet felülvizsgálatával a téri nevelést érintő témák beemelésére a műveltségi területek
+fejlesztési feladatai közé,
+b) a kerettantervek kiadásának és jóváhagyásának rendjéről szóló 51/2012. (XII. 21.) EMMI rendelet
+felülvizsgálatával a téri nevelést érintő témák beépítésére a kerettantervek tematikus egységeibe,
+c) a tanórán kívüli, téri nevelést elősegítő foglalkozások megszervezésére,
+d) a pedagógusképzést folytató intézmények képzési programjai részére a téri- és környezetkultúra
+oktatását célzó tananyag fejlesztésére, az építészeti felsőoktatásban szükséges tananyagok,
+taneszközök készítésére,
+e) útmutató kidolgozására az óvodák, általános iskolák és középiskolák építészeti, ergonómiai
+követelményeinek kialakításához,
+f) tematikus programokhoz, módszertanokhoz, óratervekhez, pályázatokhoz, tanulmányi
+kirándulásokhoz kapcsolódó, átfogó programcsomag kidolgozására.
+Felelős: emberi erőforrások minisztere
+igazságügyi miniszter
+Miniszterelnökséget vezető miniszter
+Határidő: 2017. december 31.
+14.5. Átfogó, a szakképzésről szóló 2011. évi CLXXXVII. törvényt érintő felülvizsgálatot követően, a gyakorlati
+igényekhez igazodóan, programtervet kell kidolgozni az építőipari szakoktatáshoz kapcsolódóan.
+Felelős: nemzetgazdasági miniszter
+Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+emberi erőforrások minisztere
+Határidő: 2016. december 31.
+14.6. A tervezői tevékenység piacképességének növelése érdekében és az építészmérnöki tevékenységen belül
+lezajlott nagymértékű szakosodási folyamatokra tekintettel, a Magyar Építészképző Intézmények Fóruma
+bevonásával az építészeti felsőoktatást és az építészeti szakmagyakorlás jogosultsági kereteit korszerűsíteni
+kell:
+
+a) az építészképző intézmények bevonásával az osztatlan építészmérnök képzés mellett a társadalmi
+piaci és szakmai elvárásoknak megfelelően kerüljenek kialakításra az építész képzéseken belül
+a választható specializációk,
+b) a kamarák bevonásával ki kell dolgozni, az egyes szakterületekre képzett építészmérnök
+szakemberek megfelelő tervezési jogosultsághoz jutásának feltételeit.
+Felelős: emberi erőforrások minisztere
+Miniszterelnökséget vezető miniszter
+Határidő: 2015. október 31.
+15. Nemzeti Tervezési és Építésügyi Fogalomtár
+15.1. Az építésügyi beruházásokkal kapcsolatos gyorsabb tervezési-egyeztetési tevékenység érdekében szakmai
+munkacsoportot kell létrehozni a Nemzeti Média- és Hírközlési Hatóság bevonásával és ennek keretein
+belül ki kell dolgozni a területi tervezéssel és építésüggyel kapcsolatos digitális, a nyilvánosság számára
+hozzáférhető Nemzeti Tervezési és Építésügyi Fogalomtárat, amely alapját képezi az egységes jogszabályi
+fogalomhasználatnak.
+Felelős: Miniszterelnökséget vezető miniszter
+igazságügyi miniszter
+belügyminiszter
+nemzeti fejlesztési miniszter
+földművelésügyi miniszter
+nemzetgazdasági miniszter
+honvédelmi miniszter
+emberi erőforrások minisztere
+Határidő: 2016. június 30.
