@@ -10,9 +10,7 @@
 
 ## Határidő: azonnal
 
-## 4. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 2014–2020 közötti programozási időszak azonos célt szolgáló operatív programjának az Európai Bizottság által történő elfogadása esetén a projekt teljes támogatási igényének az Integrált Közlekedésfejlesztési Operatív Programból (a továbbiakban: IKOP) történő finanszírozásáról, a 3. pont szerinti kötelezettségvállalás Közlekedés Operatív Programból (a továbbiakban: KÖZOP) történő törlésével egyidejűleg,
-
-## 5. egyetért azzal, hogy a KÖZOP 1. prioritása esetében – a 3. pontban foglaltakra tekintettel – a 4. pont teljesülésével felszabaduló források terhére újabb kötelezettséget ne lehessen vállalni,
+## 4–5.[^2]
 
 ## 6. egyetért a projekt kettő szakaszra bontásával,
 
@@ -37,3 +35,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | A projekt támogatása (Ft) | A projekt KÖZOP-ból biztosított támogatása (Ft) | A projekt IKOP-ból biztosított támogatása (Ft) | Projekt támogatási intenzitása (%) | Projekt rövid bemutatása |
 
 | 2. | KÖZOP-1.5.0-09- 11-2014-0008 | 8. sz. főút Várpalota I. szakasz 23+900–29+700 km szelvények közötti szakasz tervezése és kivitelezése | Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság | 33 914 845 205 | 12 349 466 479 | 21 565 378 726 | 100 | Várpalota elkerülő I. üteme fejlesztésének keretében új nyomvonalon, 6 km-en létesül gyorsforgalmi út 2x2 sávos, kialakítással. A beruházás várhatóan 2018. közepére valósul meg. |
+
+[^2]: A 4–5. pontot az 1592/2015. (IX. 4.) Korm. határozat 10. pontja visszavonta.
