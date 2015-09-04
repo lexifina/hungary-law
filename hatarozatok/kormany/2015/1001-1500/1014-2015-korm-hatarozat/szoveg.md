@@ -96,6 +96,8 @@ emberi erőforrások minisztere
 
 Határidő: folyamatos, de legkésőbb 2015. május 15.
 
+9/A.[^1] egyetért azzal, hogy az operatív program keretösszegét el nem érő kötelezettségvállalási szinttel rendelkező operatív programok esetén a pályázati kiírás meghirdetéséhez, a kötelezettségvállaláshoz és a támogatási szerződés megkötéséhez nem szükséges a Kormány vagy a Nemzeti Fejlesztési Kormánybizottság előzetes hozzájárulása az operatív program teljes keretösszegét elérő kötelezettségvállalás megtételéig;
+
 10. felhívja a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagjait, hogy gondoskodjanak a tartaléklisták felülvizsgálatáról, és – ha azok alapján kötelezettség már nem vállalható – megszüntetéséről azzal, hogy ezt követően csak a Kormány vagy a Nemzeti Fejlesztési Kormánybizottság előzetes hozzájárulásával lehet tartaléklistát megszüntetni;
 
 Felelős: Miniszterelnökséget vezető miniszter
@@ -168,7 +170,7 @@ emberi erőforrások minisztere
 
 Határidő: folyamatos, de legkésőbb 2015. április 30.
 
-16.[^1] egyetért azzal, hogy ha a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja
+16.[^2] egyetért azzal, hogy ha a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja
 
 a) olyan támogatási szerződést köt, illetve
 
@@ -288,7 +290,8 @@ Határidő: folyamatos
 
 II.
 
-1–2.[^2]
+1–2.[^3]
 
-[^1]: Az I. 16. pont az 1186/2015. (III. 30.) Korm. határozattal megállapított szöveg.
-[^2]: A II. rész 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az I. rész 9/A. pontját az 1579/2015. (IX. 4.) Korm. határozat III. pontja iktatta be.
+[^2]: Az I. 16. pont az 1186/2015. (III. 30.) Korm. határozattal megállapított szöveg.
+[^3]: A II. rész 1–2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
