@@ -1,4 +1,4 @@
-## 1.[^1]
+## 1.[^2]
 
 ## 2. jóváhagyja a 2. melléklet szerinti projektek támogatásának növelését,
 
@@ -8,10 +8,10 @@
 
 ## Határidő: azonnal
 
-## 4.[^2]
+## 4.[^3]
 
-1. melléklet az 1466/2014. (VIII. 15.) Korm. határozathoz[^3]
+1. melléklet az 1466/2014. (VIII. 15.) Korm. határozathoz[^4]
 
-[^1]: Az 1. pontot az 1530/2014. (IX. 18.) Korm. határozat 4. pontja visszavonta.
-[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. mellékletet az 1530/2014. (IX. 18.) Korm. határozat 4. pontja visszavonta.
+[^2]: Az 1. pontot az 1530/2014. (IX. 18.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. mellékletet az 1530/2014. (IX. 18.) Korm. határozat 4. pontja visszavonta.
