@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1530-30
 | 2014-09-18 | 2014-1530-30-22.1 | 1530/2014. (IX. 18.) Korm. határozat |
 | 2014-09-19 | 2014-1530-30-22.2 | 2010: CXXX. törvény |
 | 2014-12-05 | 2014-1530-30-22.3 | 1725/2014. (XII. 5.) Korm. határozat |
+| 2015-09-04 | 2014-1530-30-22.4 | 1587/2015. (IX. 4.) Korm. határozat |
