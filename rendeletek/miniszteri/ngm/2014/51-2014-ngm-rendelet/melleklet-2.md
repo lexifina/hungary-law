@@ -28,7 +28,7 @@
 
 | 0401 | Tej és tejszín nem sűrítve, cukor vagy más édesítőanyag hozzáadása nélkül |
 
-| 0402 | Tej és tejszín sűrítve vagy cukor vagy más édesítőanyag hozzáadásával |
+| 0402 | Tej és tejszín sűrítve, cukor vagy más édesítőanyag hozzáadásával |
 
 | 0403 | Író, aludttej és tejföl, joghurt, kefir és más erjesztett vagy savanyított tej és tejföl sűrítve vagy cukrozva vagy más édesítőanyag hozzáadásával vagy ízesítve vagy gyümölcs, diófélék vagy kakaó hozzáadásával is |
 
@@ -44,15 +44,11 @@
 
 | 0409 | Természetes méz |
 
-| 0601 | Hagyma, gumó, gumós gyökér, hagymagumó, gyökércsíra és rizóma vegetatív nyugalmi állapotban, fejlődésben, növekedésben (vegetációban) vagy virágzásban; cikórianövény és -gyökér, a 1212 vtsz. alá tartozó gyökér kivételével |
-
-| 0602 | Más élő növény (beleértve azok gyökereit is), dugvány és oltvány; gombacsíra |
-
 | 0701 | Burgonya frissen vagy hűtve |
 
 | 0702 | Paradicsom frissen vagy hűtve |
 
-| 0703 | Vöröshagyma, gyöngyhagyma, fokhagyma, póréhagyma és más hagymaféle frissen vagy hűtve |
+| 0703 ex. 0703 10 11 | Vöröshagyma, gyöngyhagyma, fokhagyma, póréhagyma és más hagymaféle frissen vagy hűtve |
 
 | 0704 | Káposzta, karfiol, karalábé, kelkáposzta és élelmezési célra alkalmas hasonló káposztaféle frissen vagy hűtve |
 
@@ -68,25 +64,23 @@
 
 | 0710 | Zöldség (nyersen, vagy gőzöléssel vagy vízben forrázással főzve is) fagyasztva |
 
-| 0711 | Zöldségfélék ideiglenesen tartósítva (pl. kén-dioxid-gázzal, sós lében, kénes vízben vagy más tartósítóoldatban), de közvetlen fogyasztásra nem alkalmas állapotban |
+| 0711 | Zöldségfélék ideiglenesen tartósítva (pl. kén-dioxid-gázzal, sós lében, kénes vízben vagy más tartósító oldatban), de közvetlen fogyasztásra nem alkalmas állapotban |
 
-| 0712 | Szárított zöldség egészben, aprítva, szeletelve, törve vagy porítva, de tovább nem elkészítve |
+| 0712 ex. 0712 90 11 | Szárított zöldség egészben, aprítva, szeletelve, törve vagy porítva, de tovább nem elkészítve |
 
-| 0713 | Szárított hüvelyes zöldség kifejtve, hántolva vagy felesen is |
+| 0713 ex. 0713 10 10 ex. 0713 33 10 | Szárított hüvelyes zöldség kifejtve, hántolva vagy felesen is |
 
 | 0714 | Manióka, nyílgyökér, szálepgyökér, csicsóka, édesburgonya és magas keményítő- vagy inulintartalmú hasonló gyökér és gumó frissen, hűtve, fagyasztva vagy szárítva, egészben, szeletelve vagy labdacs (pellet) formában tömörítve is; szágóbél |
-
-| 0803 | Banán, beleértve a plantain fajtát is, frissen vagy szárítva |
 
 | 0801 | Kókuszdió, brazildió és kesudió frissen vagy szárítva, héjastól is |
 
 | 0802 | Más dióféle frissen vagy szárítva, héjastól is |
 
+| 0803 | Banán, beleértve a plantain fajtát is, frissen vagy szárítva |
+
 | 0804 | Datolya, füge, ananász, avokádó, guajava, mangó és mangosztán frissen vagy szárítva |
 
 | 0805 | Citrusfélék frissen vagy szárítva |
-
-| 0806 | Szőlő frissen vagy szárítva |
 
 | 0807 | Dinnye (beleértve a görögdinnyét is) és papaya frissen |
 
@@ -106,7 +100,7 @@
 
 | 1007 | Cirokmag |
 
-| 1008 | Hajdina, köles és kanárimag; más gabonaféle |
+| 1008 ex. 1008 6000 | Hajdina, köles és kanárimag; más gabonaféle |
 
 | 1101 | Búzaliszt vagy kétszeres liszt |
 
@@ -144,9 +138,21 @@
 
 | 1702 | Más cukor, beleértve a vegytiszta tejcukrot, malátacukrot, szőlőcukrot és a gyümölcscukrot is, szilárd állapotban; cukorszirup hozzáadott ízesítő- vagy színezőanyagok nélkül; műméz, természetes mézzel keverve is; égetett cukor |
 
-2. melléklet az 51/2014. (XII. 31.) NGM rendelethez
+2. melléklet az 51/2014. (XII. 31.) NGM rendelethez[^2]
 
 | Vámtarifaszám | Egyéb kockázatos termékek megnevezése |
+
+| 0601 | Hagyma, gumó, gumós gyökér, hagymagumó, gyökércsíra és rizóma vegetatív nyugalmi állapotban, fejlődésben, növekedésben (vegetációban) vagy virágzásban; cikórianövény és -gyökér, a 1212 vtsz. alá tartozó gyökér kivételével |
+
+| 0602 ex. 0602 10 10 ex. 0602 20 10 | Más élő növény (beleértve azok gyökereit is), dugvány és oltvány; gombacsíra |
+
+| 0703 10 11 | Dughagyma |
+
+| 0712 90 11 | Csemege kukorica hibrid vetőmag |
+
+| 0713 10 10 | Borsó (Pisum sativum) vetésre |
+
+| 0713 33 10 | Vesebab, ideértve a fehér babot is (Phaseolus vulgaris) vetésre |
 
 | 2309 | Állatok etetésére szolgáló készítmény |
 
@@ -156,33 +162,13 @@
 
 | 2706 | Kátrány kőszénből, barnaszénből vagy tőzegből desztillálva és más ásványi kátrány, víztelenítve is, vagy részlegesen desztillálva, beleértve a rekonstruált kátrányt is |
 
-| 2707 | Kőszénkátrány magas hőfokon történő lepárlásából nyert olaj és más termék; hasonló termékek, amelyekben az aromás alkotórészek tömege meghaladja a nem aromás alkotórészek tömegét |
-
-| ex. 2707 10 |
-
-| ex. 2707 20 |
-
-| ex. 2707 30 |
-
-| ex. 2707 50 |
+| 2707 ex. 2707 10 ex. 2707 20 ex. 2707 30 ex. 2707 50 | Kőszénkátrány magas hőfokon történő lepárlásából nyert olaj és más termék; hasonló termékek, amelyekben az aromás alkotórészek tömege meghaladja a nem aromás alkotórészek tömegét |
 
 | 2712 | Vazelin; paraffinviasz, mikrokristályos kőolajviasz, paraffingács, ozokerit, lignitviasz, tőzegviasz, más ásványi viasz és szintézissel vagy más eljárással előállított hasonló termék, színezve is |
 
 | 2715 | Természetes aszfaltot, természetes bitument, ásványolaj-bitument, ásványi kátrányt vagy ásványi kátrányszurkot tartalmazó bitumenes keverék (pl. bitumenes masztix, lepárlási maradvány) |
 
-| 2902 | Ciklikus szénhidrogének |
-
-| ex. 2902 20 |
-
-| ex. 2902 30 |
-
-| ex. 2902 41 |
-
-| ex. 2902 42 |
-
-| ex. 2902 43 |
-
-| ex. 2902 44 |
+| 2902 ex. 2902 20 ex. 2902 30 ex. 2902 41 ex. 2902 42 ex. 2902 43 ex. 2902 44 | Ciklikus szénhidrogének |
 
 | 3102 | Ásványi vagy vegyi nitrogén trágyázószer |
 
@@ -196,21 +182,11 @@
 
 | 3808 | Rovarölők, patkányirtók, gombaölők, gyomirtók, csírázásgátló termékek, és növénynövekedés-szabályozó szerek, fertőtlenítők és hasonló termékek, a kiskereskedelemben szokásos formában vagy csomagolásban kiszerelve, vagy mint készítmények vagy készáruk (pl. kénezett szalag, kénezett kanóc, és kéngyertya és légyfogó papír) |
 
-| 3811 | Kopogásgátló szerek, antioxidánsok, gyantásodásgátlók, viszkozitást javítók, korróziógátló készítmények és más elkészített adalékanyagok ásványolajhoz (beleértve a benzinhez valót) vagy más, azonos céllal ásványolajként használt folyadékokhoz |
-
-| ex. 3811 11 10 |
-
-| ex. 3811 11 90 |
-
-| ex. 3811 19 |
-
-| ex. 3811 90 |
+| 3811 ex. 3811 11 10 ex. 3811 11 90 ex. 3811 19 ex. 3811 90 | Kopogásgátló szerek, antioxidánsok, gyantásodásgátlók, viszkozitást javítók, korróziógátló készítmények és más elkészített adalékanyagok ásványolajhoz (beleértve a benzinhez valót) vagy más, azonos céllal ásványolajként használt folyadékokhoz |
 
 | 3814 | Máshol nem említett szerves oldószerkeverékek és hígítók; elkészített lakk- vagy festékeltávolítók |
 
-| 3824 | Elkészített kötőanyagok öntödei formához vagy maghoz; máshol nem említett vegyipari vagy rokon ipari termékek és készítmények (beleértve a természetes termékek keverékét is) |
-
-| ex. 3824 90 99 |
+| 3824 ex. 3824 71 00 ex. 3824 72 00 ex. 3824 73 00 ex.3824 74 00 ex. 3824 75 00 ex. 3824 76 00 ex. 3824 77 00 ex. 3824 78 00 ex. 3824 79 00 ex. 3824 81 00 ex. 3824 82 00 ex. 3824 83 00 ex. 3824 90 87 ex. 3824 90 92 ex. 3824 90 93 ex. 3824 90 96 | Elkészített kötőanyagok öntödei formához vagy maghoz; máshol nem említett vegyipari vagy rokon ipari termékek és készítmények (beleértve a természetes termékek keverékét is) |
 
 | 4401 | Tűzifa hasáb, tuskó, rőzse, köteg vagy hasonló formában; faforgács vagy hasonló részek; fűrészpor, és fahulladék és -maradék, hasáb, brikett, labdacs (pellet) vagy hasonló alakra tömörítve is |
 
@@ -260,7 +236,7 @@
 
 | 6205 | Férfi- vagy fiúing |
 
-| 6206 | Női vagy leánykablúz, -ing és –ingblúz |
+| 6206 | Női vagy leánykablúz, -ing és -ingblúz |
 
 | 6207 | Férfi- vagy fiúatléta és más -alsóing, -alsónadrág, -rövidnadrág, -hálóing, -pizsama, -fürdőköpeny, -háziköntös és hasonló áru |
 
@@ -297,3 +273,5 @@
 | 6405 | Más lábbeli |
 
 | 6406 | Lábbelirész (beleértve a felsőrészt is, a belső talphoz erősítve is); kiemelhető talpbélés, sarokemelő és hasonló áru; lábszárvédő, bokavédő és hasonló áru és ezek részei |
+
+[^2]: A 2. melléklet a 23/2015. (IX. 4.) NGM rendelet 11. § (2) bekezdésével megállapított szöveg.
