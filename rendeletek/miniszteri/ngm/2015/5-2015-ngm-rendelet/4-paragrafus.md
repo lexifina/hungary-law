@@ -28,4 +28,14 @@ f) a postai szolgáltatásokról szóló törvény szerint postai küldeményké
 
 g) ugyanazon feladótól ugyanazon címzett részére ugyanazon útdíjköteles gépjárművel egy fuvarozás keretében szállítandó nem kockázatos termékek, ha azok együttes bruttó tömege a 2500 kg-ot és azok együttes adó nélküli értéke az 5 millió forintot nem haladja meg,
 
-h) ugyanazon feladótól ugyanazon címzett részére ugyanazon útdíjköteles gépjárművel egy fuvarozás keretében szállítandó kockázatos termékek, ha azok együttes bruttó tömege az 500 kg-ot és azok együttes adó nélküli ellenértéke az 1 millió forintot nem haladja meg.
+h) ugyanazon feladótól ugyanazon címzett részére ugyanazon útdíjköteles gépjárművel egy fuvarozás keretében szállítandó kockázatos termékek, ha azok együttes bruttó tömege az 500 kg-ot és azok együttes adó nélküli ellenértéke az 1 millió forintot nem haladja meg,
+
+i)[^2] a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet hatálya alá tartozó biztonsági okmányok, valamint azok alapanyagai és félkész termékei,
+
+j)[^3] az egyes áruk, szolgáltatások és anyagi értéket képviselő jogok vámhatárt vagy országhatárt átlépő kereskedelméről szóló 52/2012. (III. 28.) Korm. rendelet szerinti engedéllyel rendelkező biztonsági papír,
+
+k)[^4] a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (2) bekezdése szerinti bankjegy- és érmekibocsátás keretében szállított termék, ideértve azok alapanyagait és az előállítására szolgáló eszközöket is.
+
+[^2]: A 4. § (2) bekezdés i) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.
+[^3]: A 4. § (2) bekezdés j) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.
+[^4]: A 4. § (2) bekezdés k) pontját a 23/2015. (IX. 4.) NGM rendelet 12. §-a iktatta be.

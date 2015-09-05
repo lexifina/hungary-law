@@ -34,6 +34,6 @@ b) az Európai Unió más tagállamából vagy belföldi feladási címről belf
 
 (8) Az EKAER számot – a 15 napos érvényességi ideje alatt az érvénytelenítés indokának megadásával – érvénytelenítheti az adózó, az adózó törvényes képviselője vagy állandó meghatalmazottja, valamint az általa erre a 14. § (2) bekezdése szerint kijelölt személy.
 
-(9)[^2]
+(9)[^5]
 
-[^2]: A 15. § (9) bekezdését a 22. § b) pontja hatályon kívül helyezte.
+[^5]: A 15. § (9) bekezdését a 22. § b) pontja hatályon kívül helyezte.
