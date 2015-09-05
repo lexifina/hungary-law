@@ -1,0 +1,1 @@
+## feladatai végrehajtásában.
