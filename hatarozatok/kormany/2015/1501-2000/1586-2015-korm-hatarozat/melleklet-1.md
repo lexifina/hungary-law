@@ -28,7 +28,7 @@
 
 ## Határidő: 2015. december 15.
 
-## 5. visszavonja a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról, valamint a prioritás keretében megvalósuló projektek támogatásának növeléséről szóló 1466/2014. (VIII. 15.) Korm. határozat 2. mellékletében foglalt táblázat 5. sorát.
+## 5.[^2]
 
 1. melléklet az 1586/2015. (IX. 4.) Korm. határozathoz
 
@@ -37,3 +37,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Projekt támogatása (nettó Ft) | Többlettámogatás (nettó Ft) | Projekt megnövelt támogatása (nettó Ft) | Támogatás intenzitása (%) | Projekt rövid bemutatása | Támogathatóság feltételei |
 
 | 2. | KEOP-1.2.0/ 09-11-2011- 0052 | Fegyvernek és Örményes szennyvízelvezetése és tisztítása | Fegyvernek Város Önkormányzata és Örményes Községi Önkormányzat | 2 639 431 295 | 807 285 652 | 3 446 716 947 | 94,826943 | Fegyvernek város területén a projekt keretében 45,8 km gravitációs csatornát, 4,4 km belterületi és 2,7 km külterületi nyomóvezetéket építenek ki. Örményes településen kiépítenek 9,5 km gravitációs gerincvezetéket, ahhoz kapcsolódóan 461 db bekötést, valamint az összegyűjtött szennyvíz fegyverneki végátemelőbe történő továbbítását biztosító 8,8 km hosszú nyomóvezetéket. Az összegyűjtött szennyvizet egy új szennyvíztisztító telepen tisztítják meg. | a) A támogatást igénylőnek a közbeszerzési eljárást eredményesen le kell zárnia. b) A támogatást igénylőnek el kell fogadnia, hogy ha a közbeszerzési eljárás során alacsonyabb árajánlat kerül nyertesként kihirdetésre, akkor a támogató jogosult a támogatási szerződés módosítása során ezen alacsonyabb összegnek megfelelően csökkentett támogatás támogatási szerződésben történő rögzítésére. c) A közbeszerzési eljárás vonatkozásában rendelkezésre kell állnia a központi koordinációs szerv által kiállított szabályossági tanúsítványnak. d) A többletforrással arányos önerő rendelkezésre állását igazolni kell. |
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
