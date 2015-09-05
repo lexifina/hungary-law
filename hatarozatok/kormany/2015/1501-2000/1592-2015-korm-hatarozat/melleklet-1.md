@@ -52,6 +52,8 @@
 
 ## Határidő: 2015. október 31.
 
-## 10. visszavonja a KÖZOP-1.5.0-09-11-2014-0008 azonosító számú („8. sz. főút Várpalota I. szakasz 23+900–29+700 km szelvények közötti szakasz tervezése és kivitelezése” című) egymilliárd forintot meghaladó támogatási igényű projektjavaslat akciótervi nevesítéséről, támogatásának jóváhagyásáról és finanszírozásáról szóló 1376/2014. (VII. 8.) Korm. határozat 4. és 5. pontját.
+## 10.[^2]
 
 1. melléklet az 1592/2015. (IX. 4.) Korm. határozathoz
+
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
