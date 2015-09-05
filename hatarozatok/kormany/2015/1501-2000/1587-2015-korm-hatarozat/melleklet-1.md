@@ -28,10 +28,8 @@
 
 ## Határidő: folyamatos
 
-## 8. visszavonja
-
-## a) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról, valamint a prioritás keretében megvalósuló egyes projektek támogatásának növeléséről szóló 1530/2014. (IX. 18.) Korm. határozat 2. mellékletében foglalt táblázat 6. sorát, valamint
-
-## b) a Környezet és Energia Operatív Program 2011–2013. évekre szóló akcióterve 1. prioritásának módosításáról, valamint a prioritás keretében megvalósítani tervezett egyes projektjavaslatok támogatásának jóváhagyásáról és a prioritás keretében megvalósuló projektek támogatásának növeléséről szóló 1725/2014. (XII. 5.) Korm. határozat 3. mellékletében foglalt táblázat 8. sorát.
+## 8.[^2]
 
 1. melléklet az 1587/2015. (IX. 4.) Korm. határozathoz
+
+[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
