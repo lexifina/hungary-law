@@ -90,7 +90,7 @@
 
 ## P. H.
 
-7. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^62]
+7. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^63]
 
 A 4. § (7a) bekezdése szerinti, e-közigazgatásért felelős miniszter jóváhagyásának beszerzésére köteles szervek:
 
@@ -154,4 +154,4 @@ A 4. § (7a) bekezdése szerinti, e-közigazgatásért felelős miniszter jóvá
 
 30. Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ
 
-[^62]: A 7. mellékletet a 30/2015. (II. 25.) Korm. rendelet 58. §-a iktatta be.
+[^63]: A 7. mellékletet a 30/2015. (II. 25.) Korm. rendelet 58. §-a iktatta be.

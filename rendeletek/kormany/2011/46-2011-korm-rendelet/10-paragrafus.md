@@ -1,8 +1,8 @@
-## 10. §[^38] A 9. §-ban foglalt szabályok megsértése esetén a miniszter kezdeményezheti
+## 10. §[^39] A 9. §-ban foglalt szabályok megsértése esetén a miniszter kezdeményezheti
 
-a)[^39] a közbeszerzési törvényben meghatározott feltételek fennállása esetén a Közbeszerzési Döntőbizottságnál jogorvoslati eljárás megindítását;
+a)[^40] a közbeszerzési törvényben meghatározott feltételek fennállása esetén a Közbeszerzési Döntőbizottságnál jogorvoslati eljárás megindítását;
 
 b) a szerződést aláíró, illetve jóváhagyó felelős személy fegyelmi és kártérítési felelősségre vonását a fegyelmi jogkör gyakorlójánál.
 
-[^38]: A 10. § nyitó szövegrésze a 241/2014. (IX. 23.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
-[^39]: A 10. § a) pontja a 287/2011. (XII. 22.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.
+[^39]: A 10. § nyitó szövegrésze a 241/2014. (IX. 23.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^40]: A 10. § a) pontja a 287/2011. (XII. 22.) Korm. rendelet 23. §-ával megállapított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.

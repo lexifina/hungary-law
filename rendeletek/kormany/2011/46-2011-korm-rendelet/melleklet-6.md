@@ -80,6 +80,6 @@
 
 ## P. H.
 
-6. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^61]
+6. melléklet a 46/2011. (III. 25.) Korm. rendelethez[^62]
 
-[^61]: A 6. mellékletet a 241/2014. (IX. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^62]: A 6. mellékletet a 241/2014. (IX. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
