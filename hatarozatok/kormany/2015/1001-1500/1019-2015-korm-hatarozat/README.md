@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1019-30
 | --- | --- | --- |
 | 2015-01-23 | 2015-1019-30-22.1 | 1019/2015. (I. 22.) Korm. határozat |
 | 2015-01-24 | 2015-1019-30-22.2 | 2010: CXXX. törvény |
+| 2015-09-05 | 2015-1019-30-22.3 | 1568/2015. (IX. 4.) Korm. határozat |
