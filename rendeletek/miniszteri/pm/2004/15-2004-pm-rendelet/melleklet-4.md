@@ -106,6 +106,6 @@
 
 ## A Folyószámla Feletti Rendelkezés Bizonylatot 1 példányban kell kitölteni.
 
-4. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^202]
+4. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^203]
 
-[^202]: A 4. számú melléklet a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 78. § (1), (4) és (11) bekezdése, a 13/2012. (VI. 25.) NGM rendelet 10. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^203]: A 4. számú melléklet a 17/2009. (IX. 29.) PM rendelet 36. § (4) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 78. § (1), (4) és (11) bekezdése, a 13/2012. (VI. 25.) NGM rendelet 10. § (3) bekezdés d) pontja szerint módosított szöveg.

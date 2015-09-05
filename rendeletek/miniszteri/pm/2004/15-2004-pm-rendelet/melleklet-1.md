@@ -1,6 +1,6 @@
-## 89. §[^198] Ez a rendelet a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet, valamint a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 1993. július 2-i 2454/93/EGK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 89. §[^199] Ez a rendelet a Közösségi Vámkódex létrehozásáról szóló, 1992. október 12-i 2913/92/EGK tanácsi rendelet, valamint a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendelet végrehajtására vonatkozó rendelkezések megállapításáról szóló 1993. július 2-i 2454/93/EGK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^199]
+1. számú melléklet a 15/2004. (IV. 5.) PM rendelethez[^200]
 
-[^198]: A 89. §-t az 57/2014. (XII. 31.) NGM rendelet 7. §-a iktatta be.
-[^199]: Az 1. számú melléklet a 37/2004. (VIII. 11.) PM rendelet 12. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 78. § (1), (4)–(5) és (11) bekezdése szerint módosított szöveg.
+[^199]: A 89. §-t az 57/2014. (XII. 31.) NGM rendelet 7. §-a iktatta be.
+[^200]: Az 1. számú melléklet a 37/2004. (VIII. 11.) PM rendelet 12. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 78. § (1), (4)–(5) és (11) bekezdése szerint módosított szöveg.

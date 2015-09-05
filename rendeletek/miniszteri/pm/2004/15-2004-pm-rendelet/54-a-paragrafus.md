@@ -1,4 +1,4 @@
-## VII/A.[^76] A FIZETÉSI HALASZTÁS ÉS A RÉSZLETFIZETÉS ENGEDÉLYEZÉSÉNEK RÉSZLETES SZABÁLYAI
+## VII/A.[^77] A FIZETÉSI HALASZTÁS ÉS A RÉSZLETFIZETÉS ENGEDÉLYEZÉSÉNEK RÉSZLETES SZABÁLYAI
 
 54/A. § (1) A Vtv. 54/A. § (1) bekezdése szerinti fizetési könnyítés esetében a vámhatóság
 
@@ -12,4 +12,4 @@ engedélyezhet.
 
 (3) Az engedélyezés során az 56. § (2) bekezdés d) és e) pontjában foglalt feltételeket a Magyarországon letelepedett kérelmező esetében a vámhatóság saját közhiteles hatósági nyilvántartásai alapján, valamint a Vtv. 1. § (4) bekezdésében foglaltak szerint vizsgálja.
 
-[^76]: A VII/A. fejezetet (54/A. §) a 67/2013. (XII. 23.) NGM rendelet 1. §-a iktatta be.
+[^77]: A VII/A. fejezetet (54/A. §) a 67/2013. (XII. 23.) NGM rendelet 1. §-a iktatta be.

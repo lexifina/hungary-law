@@ -1,4 +1,4 @@
-## [^171] XVI/B. LEFOGLALÁSRA, ELKOBZÁSRA, MEGSEMMISÍTÉSRE VONATKOZÓ RENDELKEZÉSEK
+## [^172] XVI/B. LEFOGLALÁSRA, ELKOBZÁSRA, MEGSEMMISÍTÉSRE VONATKOZÓ RENDELKEZÉSEK
 
 72/E. § (1) Az eljáró vámszerv a lefoglalt dolgokat – a vámigazgatási eljárás lefolytatásához szükséges áruazonosításra alkalmas módon – jelzéssel látja el.
 
@@ -6,4 +6,4 @@
 
 (3) A Vtv. 61/C. § (14) bekezdésében foglalt eszközök átadásának, elszámolásának részletes szabályait a NAV elnöke határozza meg.
 
-[^171]: A XVI/B. fejezetet (72/E. §) az 57/2014. (XII.31.) NGM rendelet 5. §-a iktatta be.
+[^172]: A XVI/B. fejezetet (72/E. §) az 57/2014. (XII.31.) NGM rendelet 5. §-a iktatta be.

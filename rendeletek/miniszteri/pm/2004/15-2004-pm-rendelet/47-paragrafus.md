@@ -1,4 +1,4 @@
-47. §[^55] (1) A vámkódex 199. cikkében foglaltak sérelme nélkül, a szabad forgalomba bocsátás során a jövedéki adóra nyújtott biztosítékrész az áru kiadásával egyidejűleg felszabadítható, amennyiben az importáló a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény szerinti adóraktár-engedélyes, adómentes felhasználó, felhasználói engedélyes vagy bejegyzett feladó.
+47. §[^56] (1) A vámkódex 199. cikkében foglaltak sérelme nélkül, a szabad forgalomba bocsátás során a jövedéki adóra nyújtott biztosítékrész az áru kiadásával egyidejűleg felszabadítható, amennyiben az importáló a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény szerinti adóraktár-engedélyes, adómentes felhasználó, felhasználói engedélyes vagy bejegyzett feladó.
 
 (2) Az (1) bekezdésben említett vámeljárás során az importálónak nem kell a jövedéki adórészre biztosítékot nyújtania, amennyiben rendelkezik:
 
@@ -8,4 +8,4 @@ b) általános forgalmi adó biztosítása alóli mentességről szóló vámhat
 
 c) általános forgalmi adó önadózással történő teljesítésére vonatkozó vámhatósági engedéllyel.
 
-[^55]: A 47. § a 13/2012. (VI. 25.) NGM rendelet 5. §-ával megállapított szöveg.
+[^56]: A 47. § a 13/2012. (VI. 25.) NGM rendelet 5. §-ával megállapított szöveg.
