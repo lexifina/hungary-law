@@ -1,4 +1,4 @@
-## 13. §[^12] Védő kirendelése esetén a kirendelő határozatnak tartalmaznia kell az eljáró nyomozó hatóság megnevezését, a gyanúsított nevét, lakcímét, a gyanúsításban közölt bűncselekmény Btk. szerinti megnevezését, a kirendelésre való utalást és az ügyvéd, illetve az európai közösségi jogász megnevezését.
+## 13. §[^12] Védő kirendelése esetén a kirendelő határozatnak tartalmaznia kell az eljáró nyomozó hatóság megnevezését, a gyanúsított nevét, lakcímét, a gyanúsításban közölt bűncselekménynek a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti megnevezését, a kirendelésre való utalást és az ügyvéd, illetve az európai közösségi jogász megnevezését.
 
 14. § (1) Ha a gyanúsított a kihallgatása előtt arra hivatkozik, hogy már előzetesen védőt hatalmazott meg, és a kihallgatásáról a védő értesítését kéri, a nyomozó hatóság – telefaxon vagy elektronikus úton, ha ez nem lehetséges, távbeszélőn – értesíti a védőt.
 
@@ -8,4 +8,4 @@
 
 (4) A védő értesítésével, illetve a megjelenésével vagy távolmaradásával kapcsolatos tényeket a kihallgatásról készült jegyzőkönyvben fel kell tüntetni.
 
-[^12]: A 13. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 8. §-ával megállapított szöveg.
+[^12]: A 13. § a 24/2006. (IX. 28.) PM–IRM együttes rendelet 8. §-ával megállapított, a 23/2015. (IX. 4.) NGM rendelet 6. § 1. pontja szerint módosított szöveg.
