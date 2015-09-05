@@ -76,16 +76,6 @@ nemzeti fejlesztési miniszter
 
 Határidő: 2015. szeptember 30.
 
-II. A 2007–2013 közötti programozási időszak operatív programjainak 2015. évi eredményes zárásával összefüggő érdekeltségi ösztönző rendszerrel kapcsolatos feladatokról szóló 1060/2015. (II. 18.) Korm. határozat 1. d) pontja helyébe a következő pont lép:
+II–III.[^1]
 
-[A Kormány
-
-1. felhívja az érintett minisztereket, hogy a 2007–2013 közötti programozási időszak operatív programjai eredményes zárásával összefüggő érdekeltségi ösztönző rendszert (a továbbiakban: ösztönző rendszer) a következő alapelvek mentén alakítsák ki:]
-
-„d) a célfeladat teljesítésének mérése 2015-ben két vagy az érintett miniszter döntése alapján három alkalommal – május 31-én és december 15-én, illetve az érintett miniszter döntése alapján szeptember 30-án is – történik a terv-tény arány teljesítése alapján;”
-
-III. A 2007–2013 közötti programozási időszak operatív programjai eredményes zárásával összefüggő 2015. évi feladatokra vonatkozó cselekvési tervről és a Nemzeti Stratégiai Referencia Keret 2014. évi munkatervéről szóló 1051/2014. (II. 7.) Korm. határozat módosításáról szóló 1014/2015. (I. 22.) Korm. határozat I. része a következő 9/A. ponttal egészül ki:
-
-(A Kormány)
-
-„9/A. egyetért azzal, hogy az operatív program keretösszegét el nem érő kötelezettségvállalási szinttel rendelkező operatív programok esetén a pályázati kiírás meghirdetéséhez, a kötelezettségvállaláshoz és a támogatási szerződés megkötéséhez nem szükséges a Kormány vagy a Nemzeti Fejlesztési Kormánybizottság előzetes hozzájárulása az operatív program teljes keretösszegét elérő kötelezettségvállalás megtételéig;”
+[^1]: A II–III. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
