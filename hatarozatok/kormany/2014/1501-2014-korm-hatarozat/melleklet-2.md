@@ -2,7 +2,7 @@
 
 | 1. | Pályázati azonosító | Pályázó neve | Összes elszámolható költség (Ft) |
 
-| 2. | KEOP-5.6.0/12-2013-0002 | Heim Pál Gyermekkórház | 542 489 460 |
+| 2. | KEOP-5.6.0/12-2013-0002 | Heim Pál Gyermekkórház | 842 489 460 |
 
 | 3. | KEOP-5.6.0/12-2013-0003 | Nemzeti Sportközpontok | 360 000 000 |
 
@@ -14,9 +14,9 @@
 
 | 7. | KEOP-5.6.0/12-2013-0033 | Klebelsberg Intézményfenntartó Központ | 988 460 468 |
 
-| 8. | KEOP-5.6.0/12-2013-0034 | Klebelsberg Intézményfenntartó Központ | 900 389 532 |
+| 8. | KEOP-5.6.0/12-2013-0034 | Klebelsberg Intézményfenntartó Központ | 949 354 494 |
 
-| 9. | KEOP-5.6.0/12-2013-0035 | Klebelsberg Intézményfenntartó Központ | 780 150 000 |
+| 9. | KEOP-5.6.0/12-2013-0035 | Klebelsberg Intézményfenntartó Központ | 787 849 227 |
 
 | 10. | KEOP-5.6.0/12-2013-0040 | Mozgássérült Emberek Rehabilitációs Központja | 736 798 102 |
 
@@ -84,7 +84,7 @@
 
 | 42. | KEOP-5.6.0/12-2013-0038 | Nógrád Megyei Kormányhivatal | 177 430 000 |
 
-| 43. | KEOP-5.6.0/12-2013-0039 | Vas Megyei Kormányhivatal | 187 307 767 |
+| 43. | KEOP-5.6.0/12-2013-0039 | Vas Megyei Kormányhivatal | 284 980 635 |
 
 | 44. | KEOP-5.6.0/12-2013-0045 | Hajdú-Bihar Megyei Kormányhivatal | 269 303 838 |
 
@@ -96,13 +96,13 @@
 
 | 48. | KEOP-5.6.0/12-2013-0049 | Békés Megyei Kormányhivatal | 611 258 862 |
 
-| 49. | KEOP-5.6.0/12-2014-0001 | Országos Onkológiai Intézet | 517 772 728 |
+| 49. | KEOP-5.6.0/12-2014-0001 | Országos Onkológiai Intézet | 535 832 128 |
 
 | 50. | KEOP-5.6.0/12-2014-0002 | Győr-Moson-Sopron Megyei Rendőr-főkapitányság | 338 000 000 |
 
 | 51. | KEOP-5.6.0/12-2014-0003 | Pest Megyei Rendőr-főkapitányság | 458 190 954 |
 
-| 52. | KEOP-5.6.0/12-2014-0004 | Veszprém Megyei Rendőr-főkapitányság | 263 000 000 |
+| 52. | KEOP-5.6.0/12-2014-0004 | Veszprém Megyei Rendőr-főkapitányság | 404 628 521 |
 
 | 53. | KEOP-5.6.0/12-2014-0005 | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 383 000 000 |
 
@@ -112,7 +112,7 @@
 
 | 56. | KEOP-5.6.0/12-2014-0008 | Pest Megyei Rendőr-főkapitányság | 144 594 304 |
 
-| 57. | KEOP-5.6.0/12-2014-0009 | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 157 385 933 |
+| 57. | KEOP-5.6.0/12-2014-0009 | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 467 385 933 |
 
 | 58. | KEOP-5.6.0/12-2014-0010 | Bács-Kiskun Megyei Rendőr-főkapitányság | 157 490 638 |
 
