@@ -1,0 +1,9 @@
+# 237/2015. (IX. 4.) Korm. rendelet
+
+a Budai Vigadó felújítására irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-237-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-09-05 | 2015-237-20-22.1 | 237/2015. (IX. 4.) Korm. rendelet |
