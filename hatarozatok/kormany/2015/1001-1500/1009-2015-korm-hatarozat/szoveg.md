@@ -1,6 +1,6 @@
 1. A Kormány – a Kárpát-medencében élők 1944–45-ben kezdődő, a Szovjetunióba kényszermunkára történő internálásának 70. évfordulójáról történő méltó megemlékezés céljából – a 2015. évet a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékévévé (a továbbiakban: Emlékév) nyilvánítja.
 
-2. A Kormány az 1. pont szerinti cél megvalósítására a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján – javaslattevő, véleményező és tanácsadói tevékenységet végző szervként – 2016. február 25. napjáig működő Emlékbizottságot (a továbbiakban: Bizottság) hoz létre.
+2.[^1] A Kormány az 1. pont szerinti cél megvalósítására a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján – javaslattevő, véleményező és tanácsadói tevékenységet végző szervként – 2017. február 25. napjáig működő Emlékbizottságot (a továbbiakban: Bizottság) hoz létre.
 
 3. A Bizottság feladatkörében
 
@@ -95,3 +95,5 @@ Felelős: emberi erőforrások minisztere
 Határidő: 2015. február 28.
 
 17. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont az 1572/2015. (IX. 4.) Korm. határozat 1. pontjával megállapított szöveg.
