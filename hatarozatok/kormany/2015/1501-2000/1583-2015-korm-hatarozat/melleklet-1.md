@@ -26,40 +26,8 @@
 
 ## 3. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete a 2. melléklet szerint módosul.
 
-## 4. A Határozat 1. melléklet
-
-## a) 2.2.1. pontjában foglalt táblázat
-
-## aa) A:3 mezőjében a „137,07” szövegrész helyébe a „136,22” szöveg,
-
-## ab) C:3 mezőjében a „19,35” szövegrész helyébe a „18,34” szöveg,
-
-## ac) D:3 mezőjében a „157,68” szövegrész helyébe a „155,82” szöveg,
-
-## b) 2.2.2. pontjában foglalt táblázat
-
-## ba) A:3 mezőjében a „409,22” szövegrész helyébe a „423,59” szöveg,
-
-## bb) B:3–C:3 mezőjében a „27,63” szövegrész helyébe a „13,26” szöveg,
-
-## bc) D:3 mezőjében a „436,84” szövegrész helyébe a „436,85” szöveg,
-
-## c) 2.3.1. pontjában foglalt táblázat
-
-## ca) C:3–C:4 mezőjében a „65,46” szövegrész helyébe a „61,52” szöveg,
-
-## cb) C:5 mezőjében a „8,11” szövegrész helyébe a „6,47” szöveg,
-
-## cc) C:6 mezőjében a „4,22” szövegrész helyébe a „2,47” szöveg,
-
-## cd) E:7 mezőjében a „0,76” szövegrész helyébe a „0,17” szöveg,
-
-## ce) C:12–C:13 mezőjében a „28,44” szövegrész helyébe a „36,47” szöveg,
-
-## cf) E:16 mezőjében a „4,07” szövegrész helyébe a „3,96” szöveg,
-
-## cg) E:17 mezőjében a „4,62” szövegrész helyébe a „4,31” szöveg
-
-## lép.
+## 4.[^2]
 
 1. melléklet az 1583/2015. (IX. 4.) Korm. határozathoz
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
