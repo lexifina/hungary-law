@@ -1,1 +1,0 @@
-A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 10. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
