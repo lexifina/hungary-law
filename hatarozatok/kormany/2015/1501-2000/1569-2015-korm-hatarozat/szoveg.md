@@ -18,4 +18,6 @@ Határidő: a forrásigény felmerülésének időpontjához igazodóan
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti a Kárpát-medencei Tehetségkutató Zártkörűen Működő Részvénytársaság megalapításáról szóló 1381/2015. (VI. 12.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
