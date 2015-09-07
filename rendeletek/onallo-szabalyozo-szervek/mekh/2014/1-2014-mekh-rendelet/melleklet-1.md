@@ -1,4 +1,4 @@
-1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^11]
+1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^12]
 
 Igazgatási szolgáltatási díjak
 
@@ -636,25 +636,27 @@ E) Víziközmű-szolgáltatással kapcsolatos hatósági eljárások igazgatási
 
 | 23 | b) | módosításának jóváhagyására irányuló eljárás | 25 |
 
-| 24 | Hatósági díjtól eltérő díj alkalmazásának előzetes jóváhagyása | 150 |
+| 24 | A Vksztv. 31/A. § (4) bekezdés szerinti átmeneti díj megállapítása | 150 |
 
-| 25 | Gördülő fejlesztési terv jóváhagyása |  |
+| 25 | Víziközmű-rendszer gördülő fejlesztési tervének jóváhagyása |  |
 
-| 26 | a) | felújítási és pótlási terv jóváhagyása | 325 |
+| 26 | a) | felújítási és pótlási terv jóváhagyása | a tárgyév június 1-jén hatályos víziközmű-szolgáltatási engedélyben az adott víziközmű- rendszerre meghatározott felhasználói egyenértékenként 0,001, de legalább 10 |
 
-| 27 | b) | beruházási terv jóváhagyása | 175 |
+| 27 | b) | beruházási terv jóváhagyása | a tárgyév június 1-jén, hatályos víziközmű- szolgáltatási engedélyben az adott víziközmű- rendszerre meghatározott felhasználói egyenértékenként 0,001, de legalább 10 |
 
-| 28 | Víziközművé minősítés | 50 |
+| 28 | Víziközmű-rendszer gördülő fejlesztési tervének módosítása | a 26–27. pont alapján meghatározott díj 50%-a |
 
-| 29 | Nemzeti Víziközmű Nyilvántartásból adatszolgáltatási eljárás |  |
+| 29 | Víziközművé minősítés iránti kérelem | 50 |
+
+| 30 | Nemzeti Víziközmű Nyilvántartásból adatszolgáltatási eljárás |  |
 
 |  | a) | másolat kiadása | 5 |
 
-|  | b) | másolat kiadása, 2. oldaltól megkezdett oldalanként | 0,5 |
+|  | aa) | ezenfelül több oldalas másolat esetén, a 2. oldaltól megkezdett oldalanként | 0,5 |
 
-|  | c) | kivonat kiadása | 3 |
+|  | b) | kivonat kiadása | 3 |
 
-|  | d) | kivonat kiadása, 2. oldaltól megkezdett oldalanként | 0,5 |
+|  | ba) | ezenfelül több oldalas kivonat esetén, a 2. oldaltól megkezdett oldalanként | 0,5 |
 
 F) Hulladékgazdálkodási közszolgáltatással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -664,4 +666,22 @@ F) Hulladékgazdálkodási közszolgáltatással kapcsolatos hatósági eljárá
 
 | 2 | A Ht. 47/B. §-a szerinti hulladékgazdálkodási közszolgáltatási díj megállapítása | 150 |
 
-[^11]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a szerint módosított szöveg.
+G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
+
+|  | A | B |
+
+| 1 | Az igazgatási szolgáltatási díj-köteles hatósági eljárás megnevezése | Igazgatási szolgáltatási díj mértéke (ezer forint) |
+
+| 2 | regisztráló szervezetek regisztráló tevékenység engedélyezésére irányuló kérelmének elbírálása | 1000 |
+
+| 3 | regisztráló szervezetek engedély módosítás iránti kérelmének elbírálása | 200 |
+
+| 4 | nem kötelező energetikai auditálás során készített energetikai audit kérelemre történő ellenőrzése | 1000 |
+
+| 5 | nagyvállalatok által elvégeztetett kötelező energetikai audit kérelemre történő ellenőrzése | 1500 |
+
+| 6 | költséghaszon- elemzés elbírálása | 200 |
+
+| 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
+
+[^12]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a szerint módosított szöveg.
