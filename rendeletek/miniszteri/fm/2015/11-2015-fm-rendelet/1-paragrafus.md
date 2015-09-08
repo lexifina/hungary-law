@@ -4,7 +4,7 @@
 
 2. fiatal mezőgazdasági termelő: az 1307/2013/EU rendelet 50. cikk (2) bekezdése szerinti mezőgazdasági termelő;
 
-3. mezőgazdasági termelő: az 1307/2013/EU rendelet 4. cikk (1) bekezdés a) pontja szerinti személy;
+3.[^1] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
 
 4. tényleges és hosszú távú ellenőrzés: a jogi személyben vezető tisztségviselőnek minősülő fiatal mezőgazdasági termelő olyan, irányítási, valamint a haszon és a pénzügyi kockázatok tekintetében történő döntés meghozatalára vonatkozó jogköre, amelyet a szavazati jogok többsége biztosít számára;
 
@@ -19,3 +19,5 @@ ba) a szövetkezetnek nem minősülő jogi személyben szintén vezető tisztsé
 bb) szövetkezet esetében a szintén vezető tisztségviselőnek minősülő, mezőgazdasági termeléssel összefüggő személyes közreműködést végző tagok szavazata; valamint
 
 c) azon természetes személy vagy személyek szavazata, akik a jogi személyben szintén vezető tisztségviselőnek minősülnek, de a fiatal mezőgazdasági termelőnél nem rendelkeznek egyenként több szavazattal, és közvetlen támogatásra jogosult mezőgazdasági termelőnek minősülő más jogi személyben vagy személyekben maguk is tényleges és hosszú távú ellenőrzést gyakorolnak.
+
+[^1]: Az 1. § 3. pontja az 52/2015. (IX. 7.) FM rendelet 34. §-ával megállapított szöveg.
