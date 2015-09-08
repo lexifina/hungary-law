@@ -1,6 +1,6 @@
 ## Kérelem adattartalma a termeltetői bejegyzésre
 
-## I.[^36] Azonosító adatok:
+## I.[^37] Azonosító adatok:
 
 ## Az ügyfél adószáma, adóazonosító jele, ügyfél-azonosítója.
 
@@ -28,7 +28,7 @@
 
 ## 4. Keltezés és a kérelmező (cégszerű) aláírása.
 
-2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^37]
+2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^38]
 
 ## Támogatási kérelem adattartalma
 
@@ -82,5 +82,5 @@ c) termelőknél vagy állattartóknál kint lévő előleg összesen;
 
 8. Keltezés és a Nemzeti Élelmiszerlánc-biztonsági Hivatal Elnökének aláírása és bélyegzője.
 
-[^36]: Az 1. számú melléklet I. pontja a 36/2014. (IV. 4.) VM rendelet 28. § b) pontja szerint módosított szöveg.
-[^37]: A 2.számú melléklet a 36/2014. (IV. 4.) VM rendelet 27. §-ával megállapított szöveg.
+[^37]: Az 1. számú melléklet I. pontja a 36/2014. (IV. 4.) VM rendelet 28. § b) pontja szerint módosított szöveg.
+[^38]: A 2.számú melléklet a 36/2014. (IV. 4.) VM rendelet 27. §-ával megállapított szöveg.
