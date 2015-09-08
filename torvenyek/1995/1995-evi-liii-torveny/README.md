@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-53-00-00
 | 2015-01-01 | 2014. évi XCIX. törvény | 1995-53-00-00.60 |
 | 2015-04-01 | 2015. évi VIII. törvény | 1995-53-00-00.61 |
 | 2015-08-01 | 2015. évi CXV. törvény | 1995-53-00-00.62 |
+| 2015-09-08 | 2015. évi CXL. törvény | 1995-53-00-00.63 |
