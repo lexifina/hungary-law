@@ -34,7 +34,7 @@
 
 14. Mezőgazdasági Parcella Azonosító Rendszer: a Mezőgazdasági Parcella Azonosító Rendszerről szóló miniszteri rendelet szerinti adatbázis;
 
-15. mezőgazdasági termelő: az a természetes személy, jogi személy, vagy egyéb szervezet, aki vagy amely – a mezőgazdasági termelők részére nyújtandó közvetlen támogatás igénybevételére vonatkozó szabályokról szóló miniszteri rendelet szerint – közvetlen támogatásra jogosult;
+15.[^2] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
 
 16. nitrogénmegkötő növényekkel bevetett terület: a 2. mellékletben felsorolt, vagy a 21. § (2) bekezdésében meghatározott bármely nitrogénmegkötő növénnyel vagy azok keverékével hasznosított földterület;
 
@@ -59,3 +59,4 @@
 (2) Az (1) bekezdésben foglaltakon túl e rendelet alkalmazásában az 50/2008. (IV. 24.) FVM rendelet szerinti fogalom-meghatározásokat kell figyelembe venni.
 
 [^1]: Az 1. § (1) bekezdés 4. pontja a 40/2015. (VII. 13.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 15. pontja az 52/2015. (IX. 7.) FM rendelet 28. §-ával megállapított szöveg.

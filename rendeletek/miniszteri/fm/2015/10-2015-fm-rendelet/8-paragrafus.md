@@ -16,7 +16,7 @@ f) a (2) bekezdés szerint megállapított növénykultúra.
 
 (2) Ha az egységes kérelemben bejelentett növénykultúra nem szerepel a 6. mellékletben, akkor az MVH az egységes nemzetközi binominális nomenklatúra alapján állapítja meg, hogy az adott növénykultúra különböző növénykultúrának minősül-e.
 
-(3)[^6] Ha a táblaszegély vagy a vízvédelmi sáv az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatás igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet 1. § 14. pontja szerinti támogatható terület, akkor az egységes kérelemben a táblaszegélyt vagy a vízvédelmi sávot a szomszédos szántóterület hasznosításával azonos hasznosításúnak vagy parlagon hagyott területként kell bejelenteni, és a terménydiverzifikáció szempontjából is ekként vehető figyelembe.
+(3)[^11] Ha a táblaszegély vagy a vízvédelmi sáv az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatás igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet 1. § 14. pontja szerinti támogatható terület, akkor az egységes kérelemben a táblaszegélyt vagy a vízvédelmi sávot a szomszédos szántóterület hasznosításával azonos hasznosításúnak vagy parlagon hagyott területként kell bejelenteni, és a terménydiverzifikáció szempontjából is ekként vehető figyelembe.
 
 (4) Azon területek esetében, ahol a termesztés úgy valósul meg, hogy két vagy több növénykultúrát külön sorban termesztenek és mindegyik növénykultúra a terület legalább 25%-át elfoglalja, az egyes termesztett növénykultúrák önálló növénykultúraként vehetők figyelembe.
 
@@ -28,4 +28,4 @@ f) a (2) bekezdés szerint megállapított növénykultúra.
 
 (8) Az MVH a mezőgazdasági termelő által használt, minősített vetőmag származási bizonylatát jogosult ellenőrizni.
 
-[^6]: A 8. § (3) bekezdése a 40/2015. (VII. 13.) FM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^11]: A 8. § (3) bekezdése a 40/2015. (VII. 13.) FM rendelet 11. § (3) bekezdésével megállapított szöveg.

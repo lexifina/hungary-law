@@ -1,4 +1,4 @@
-## 27/B. §[^22] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó egyes rendeletek módosításáról szóló 40/2015. (VII. 13.) FM rendelettel [a továbbiakban: 40/2015. (VII. 13.) FM rendelet] megállapított, 1. § (1) bekezdés 4. pontját, 3. § (2) bekezdés a) pontját, 8. § (3) bekezdését, 9. § b) pontját, 13. § (1) bekezdés h) pontját, 14. § (1) bekezdését, 16. § (3) és (6) bekezdését, valamint 20. § (1) bekezdését a 40/2015. (VII. 13.) FM rendelet hatálybalépésekor[^23] folyamatban lévő ügyekben is alkalmazni kell.
+## 27/C. §[^32] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] megállapított 3. § (2), (3), (4) és (7) bekezdését, 17. § (1) bekezdését és 26. §-át az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^33] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 27. Az Európai Unió jogának való megfelelés
 
@@ -16,5 +16,5 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^22]: A 27/B. §-t a 40/2015. (VII. 13.) FM rendelet 11. § (10) bekezdése iktatta be.
-[^23]: A hatálybalépés időpontja 2015. július 14.
+[^32]: A 27/C. §-t az 52/2015. (IX. 7.) FM rendelet 32. §-a iktatta be.
+[^33]: A hatálybalépés időpontja 2015. szeptember 8.
