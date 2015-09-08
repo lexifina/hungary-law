@@ -14,6 +14,12 @@ a) húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésb
 
 b)[^1] nyolc hónapnál idősebb, még nem ellett, húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született nőivarú szarvasmarha vagy bivaly;
 
+2a.[^2] átruházás: a támogatási kérelemben bejelentett állatok összességének a birtokon tartási időszak alatt egy átvevőnek történő eladása és a történelmi bázis jogosultságról szóló miniszteri rendelet (a továbbiakban: Bázisrendelet) szerinti átruházás;
+
+2b.[^3] átruházó: az a mezőgazdasági termelő, akinek a támogatási kérelmében bejelentett állatai átruházásra kerültek egy másik mezőgazdasági termelő részére, valamint a Bázisrendelet szerinti átadó;
+
+2c.[^4] átvevő: az a mezőgazdasági termelő, akire a támogatási kérelemben bejelentett összes állatot átruházzák, valamint a Bázisrendelet szerinti átvevő;
+
 3. cukorrépa integrátor:
 
 a) az a természetes személy, valamint az egyes termékek beszerzését, értékesítését, vagy ahhoz kapcsolódó tevékenységek szolgáltatását nyújtó, a polgári perrendtartásról szóló 1952. évi III. törvény 396. § szerinti gazdálkodó szervezet, aki vagy amely a támogatás igénylésének évében saját maga termelt, illetve termékértékesítési szerződéssel cukorrépa-termelőkkel termeltetett cukorrépáját a cukorrépa kvótajogosult számára értékesíti, vagy
@@ -28,9 +34,9 @@ b) a termelői csoportokról szóló miniszteri rendelet szerint működő, áll
 
 7. gazdálkodási napló: a 8. melléklet szerint elkészített napló;
 
-8.[^2] hízottbika: legalább 9 hónapos szarvasmarha vagy bivaly;
+8.[^5] hízottbika: legalább 9 hónapos szarvasmarha vagy bivaly;
 
-9. mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk a) pontja szerinti termelő;
+9.[^6] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
 
 10. minősített szaporítóanyag:
 
@@ -63,4 +69,8 @@ c) a zöldségnövények és az ipari zöldségnövények vonatkozásában, a b)
 17. tőszámbeállottság: a tárgyévben az adott támogatási jogcím vonatkozásában igényelt területen a termés hozatalára képes egyedek és a telepítési engedélyben meghatározott tőszám szerinti egyedek – telepítési engedély hiányában a területen meghatározó térállásra jellemző tőszám alapján számított egyedek – aránya.
 
 [^1]: Az 1. § 2. pont b) alpontja a 40/2015. (VII. 13.) FM rendelet 10. § (6) bekezdés a) pontja szerint módosított szöveg.
-[^2]: Az 1. § 8. pontja a 40/2015. (VII. 13.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 2a. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 2b. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
+[^4]: Az 1. § 2c. pontját az 52/2015. (IX. 7.) FM rendelet 24. § (1) bekezdése iktatta be.
+[^5]: Az 1. § 8. pontja a 40/2015. (VII. 13.) FM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 9. pontja az 52/2015. (IX. 7.) FM rendelet 24. § (2) bekezdésével megállapított szöveg.

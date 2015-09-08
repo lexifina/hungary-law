@@ -4,7 +4,7 @@
 
 a) a támogatási kérelem benyújtásának napján a tenyészetben lévő olyan anyatehenet tart, amely nem tartozik a 2. mellékletben felsorolt fajtákhoz, és a Szarvasmarha ENAR rendelet szerinti nyilvántartásban 99-es kódon „egyéb tejhasznú”, 88-as kódon Brown Swiss, 03-as kódon Borzderes, vagy 15-ös kódon Kosztromai fajtával bejelentett fajtához, vagy olyan állományhoz tartozik, amelyben 50%-ot meghaladó mértékben hústermelés céljából nevelnek borjakat,
 
-b)[^7] gondoskodik a tenyészetében lévő állatállománynak a Szarvasmarha ENAR rendelet szerinti, de legkésőbb tárgyév május 22-éig megvalósuló jelöléséről, folyamatos nyilvántartásáról és az adatok bejelentéséről,
+b)[^14] gondoskodik a tenyészetében lévő állatállománynak a Szarvasmarha ENAR rendelet szerinti, de legkésőbb tárgyév május 22-éig megvalósuló jelöléséről, folyamatos nyilvántartásáról és az adatok bejelentéséről,
 
 c) a tenyészet vonatkozásban igazolja, hogy az a támogatási kérelem benyújtásának időpontjában gümőkor-, brucellózis- és leukózismentes,
 
@@ -18,7 +18,7 @@ g) vállalja, hogy a támogatási kérelemben bejelentett állatokat folyamatosa
 
 (2) Az (1) bekezdés c) pontja szerinti mentességnek már a támogatási kérelem benyújtásakor fenn kell állnia, amelyet a hatósági állatorvos vagy a járási főállatorvos igazol.
 
-(3)[^8] A támogatási kérelem tárgyévente az egységes kérelem benyújtásának kezdő napja és május 22. között nyújtható be.
+(3)[^15] A támogatási kérelem tárgyévente az egységes kérelem benyújtásának kezdő napja és május 22. között nyújtható be.
 
 (4) A támogatási kérelemhez mellékelni kell a hatósági állatorvos vagy a járási főállatorvos által kiállított, (2) bekezdés szerinti igazolás másolatát.
 
@@ -44,5 +44,5 @@ e) a mezőgazdasági termelő a b) pont szerinti bejelentéshez a (2) bekezdésb
 
 (10) Ha a mezőgazdasági termelő a SAPS-ÁNT rendelet szerinti anyatehéntartás támogatáshoz kapcsolódó átmeneti nemzeti támogatással érintett állat után kíván anyatehén tartásához kapcsolódó termeléshez kötött közvetlen támogatást igénybe venni, és benyújtotta a SAPS-ÁNT rendelet szerinti, az anyatehéntartás támogatásához kapcsolódó átmeneti nemzeti támogatás igénybevételéhez szükséges igazolásokat, akkor ezen igazolásokat az MVH a (2) bekezdésben és a (6) bekezdés b) pontjában meghatározott igazolásként fogadja el.
 
-[^7]: A 11. § (1) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § b) pontja szerint módosított szöveg.
-[^8]: A 11. § (3) bekezdése a 17/2015. (IV. 9.) FM rendelet 16. § b) pontja, a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § c) pontja szerint módosított szöveg.
+[^14]: A 11. § (1) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § b) pontja szerint módosított szöveg.
+[^15]: A 11. § (3) bekezdése a 17/2015. (IV. 9.) FM rendelet 16. § b) pontja, a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § c) pontja szerint módosított szöveg.

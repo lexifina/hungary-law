@@ -1,4 +1,4 @@
-## 3/A. §[^3] Támogatás igénybevételére jogosult az a mezőgazdasági termelő is, aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy a támogatás feltételeinek egyébként megfelel.
+## 3/A. §[^7] Támogatás igénybevételére jogosult az a mezőgazdasági termelő is, aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy a támogatás feltételeinek egyébként megfelel.
 
 ## 4. A támogatási kérelem elbírálása, ellenőrzése
 
@@ -30,4 +30,4 @@ b) be kell mutatnia az adott gazdálkodási évre vonatkozó, az adott támogat�
 
 (8) A mezőgazdasági termelő a (7) bekezdés szerinti dokumentumot öt évig köteles megőrizni.
 
-[^3]: A 3/A. §-t a 17/2015. (IV. 9.) FM rendelet 12. §-a iktatta be.
+[^7]: A 3/A. §-t a 17/2015. (IV. 9.) FM rendelet 12. §-a iktatta be.
