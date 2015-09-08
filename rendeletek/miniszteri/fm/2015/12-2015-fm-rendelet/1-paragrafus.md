@@ -36,7 +36,7 @@ c) a 2014. évi egységes kérelem tekintetében nem került bejelentésre tábl
 
 14. mezőgazdasági parcella: az 1306/2013/EU rendelet 67. cikk (4) bekezdés a) pontja szerinti földterület, figyelemmel az adott támogatási jogcím sajátosságaira;
 
-15. mezőgazdasági termelő: az 1307/2013/EU rendelet 4. cikk (1) bekezdés a) pontja szerinti termelő;
+15.[^1] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
 
 16. módosítás: a támogatási igény növelésére irányuló adatváltozás bejelentése;
 
@@ -54,7 +54,9 @@ c) egy adott fizikai blokk nem támogatható területe,
 
 d) az egybeművelt terület,
 
-e) egyes, a MEPAR rendelet 1. § j) pontja szerinti tematikus rétegek (a továbbiakban: tematikus fedvény) területe;
+e) egyes, a MEPAR rendelet 1. § j) pontja szerinti tematikus rétegek (a továbbiakban: tematikus fedvény) területe,
+
+f)[^2] MePAR-ban lehatárolt ökológiai jelentőségű terület;
 
 20. referenciaterület mérete:
 
@@ -75,3 +77,6 @@ e) a tematikus fedvények területe;
 23. terménycsoport: a 640/2014/EU rendelet 17. cikk (1) bekezdése szerint megkülönböztetett területek;
 
 24. vélelmezett örökös: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási törvény) 45. § (9) bekezdésének megfelelően az ügyféllel annak halálakor együtt élt azon házastársa vagy törvényes rend szerinti örököse, aki az e rendelet szerinti eljárást megindítja a hagyatéki eljárás jogerős lezárását megelőzően.
+
+[^1]: Az 1. § 15. pontja az 52/2015. (IX. 7.) FM rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 19. pont f) alpontját az 52/2015. (IX. 7.) FM rendelet 35. § (2) bekezdése iktatta be.

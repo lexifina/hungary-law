@@ -16,7 +16,7 @@ d) a 2. § (1) bekezdésben meghatározott, az egyes támogatásokra vonatkozó 
 
 a) nem haladja meg a referenciaterület méretének a 809/2014/EU rendelet 38. cikk (4) bekezdése szerinti mérési tűréshatárokkal (a továbbiakban: mérési tűréshatár) számolt területét, akkor az MVH a túligénylés arányában a referenciaterület méretéig csökkenti a referenciaterületen belüli támogatási igénylésekben megjelölt területeket,
 
-b) meghaladja a mérési tűréshatárral számolt referenciaterületet, akkor az MVH vagy végzés kibocsátásával értesíti az érintett ügyfeleket és egyúttal felszólítja őket a kérelemben megadott adatoknak a valóságnak megfelelő helyesbítésére (a továbbiakban: adategyeztetés) – amely adategyeztetés során tett nyilatkozatot az ügyfélnek az ügyfélkapun keresztül, elektronikus úton kell benyújtania –, vagy a (8) bekezdés b) pontja szerint jár el,
+b)[^14] meghaladja a mérési tűréshatárral számolt referenciaterületet, akkor az MVH vagy végzés kibocsátásával értesíti az érintett ügyfeleket és egyúttal felszólítja őket a kérelemben megadott adatoknak a valóságnak megfelelő helyesbítésére (a továbbiakban: adategyeztetés) – amely adategyeztetés során tett nyilatkozatot az ügyfélnek az ügyfélkapun keresztül, elektronikus úton kell benyújtania –, vagy a (7) bekezdés b) pontja szerint jár el,
 
 c) vizsgálata során megállapításra kerül, hogy az adott referenciaterületen egyetlen ügyfél érintett, akkor a referenciaterületet meghaladó terület jogosulatlan igénylésnek számít, és az MVH a támogatási igénylésekben megjelölt területet csökkenti a referenciaterület mértékéig.
 
@@ -37,3 +37,5 @@ b) a mérési tűréshatárral számolt referenciaterületet meghaladó túligé
 (9) Ha adott referenciaterületen az ügyfelek által a 4. § (2) bekezdés b) pontja szerint bejelentett táblák grafikus adatai egymással teljes átfedést mutatnak, akkor az MVH végzés kibocsátásával az érintett területek vonatkozásában egyeztetésre hívja fel az ügyfeleket, felszólítva a megadott grafikus tábla adatok helyesbítésére. A helyesbítést az ügyfél ügyfélkapun keresztül elektronikus úton köteles megtenni.
 
 (10) Ha a (9) bekezdésben megállapított átfedés az ügyfelek által benyújtott helyesbítéseket követően továbbra is fennáll, az MVH adminisztratív ellenőrzést vagy fizikai ellenőrzést folytat le az érintett táblák vonatkozásában.
+
+[^14]: A 22. § (3) bekezdés b) pontja az 52/2015. (IX. 7.) FM rendelet 37. § b) pontja szerint módosított szöveg.
