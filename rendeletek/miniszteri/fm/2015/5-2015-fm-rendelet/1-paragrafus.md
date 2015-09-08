@@ -24,7 +24,7 @@
 
 10. kiegészítő történelmi bázis jogosultság: a kiegészítő történelmi bázis jogosultság megállapításáról szóló miniszteri rendelet szerinti jogosultság;
 
-11. mezőgazdasági termelő: az olyan természetes személy, jogi személy, vagy egyéb gazdálkodó szervezet, amely mezőgazdasági tevékenységét az Európai Unió területén folytatja;
+11.[^3] mezőgazdasági termelő: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
 
 12. nem mezőgazdasági célra ideiglenesen használt terület: a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU rendelet) 32. cikk (3) bekezdésében meghatározott terület;
 
@@ -44,3 +44,4 @@
 
 [^1]: Az 1. § 2. pontja a 40/2015. (VII. 13.) FM rendelet 8. § (4) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § 7. pontját a 17/2015. (IV. 9.) FM rendelet 11. §-a hatályon kívül helyezte.
+[^3]: Az 1. § 11. pontja az 52/2015. (IX. 7.) FM rendelet 21. §-ával megállapított szöveg.

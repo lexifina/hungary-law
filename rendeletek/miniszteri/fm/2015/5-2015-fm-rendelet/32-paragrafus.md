@@ -1,4 +1,4 @@
-## 31/A. § E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó egyes rendeletek módosításáról szóló 40/2015. (VII. 13.) FM rendelettel [a továbbiakban: 40/2015. (VII. 13.) FM rendelet] megállapított 1. § 2. pontját, 13. § (10)–(12) bekezdését és 2. melléklet 1. pontját a 40/2015. (VII. 13.) FM rendelet hatálybalépésekor[^16] folyamatban lévő ügyekben is alkalmazni kell.
+## 31/B. §[^20] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] megállapított 1. § 11. pontját, 16. § (2) bekezdését és 23. § (2) bekezdését az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^21] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 32. § Ez a rendelet
 
@@ -10,4 +10,5 @@ c) a közös agrárpolitika finanszírozásáról, irányításáról és monito
 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU bizottsági felhatalmazáson alapuló rendeletnek
 
-[^16]: A hatálybalépés időpontja 2015. július 14.
+[^20]: A 31/B. §-t az 52/2015. (IX. 7.) FM rendelet 23. §.a iktatta be.
+[^21]: A hatálybalépés időpontja 2015. szeptember 8.
