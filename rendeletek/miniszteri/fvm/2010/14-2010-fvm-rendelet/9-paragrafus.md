@@ -1,17 +1,5 @@
+## 8. §[^16]
+
 ## Átruházás, ideiglenes átengedés
 
-9. § (1) A tejtermelő tulajdonában lévő kvótamennyisége legfeljebb harminc százalékát, de legalább ötszáz kilogrammot a Tv. szerint regisztrált, gazdaságában tejtermeléssel foglalkozó tejtermelő, vagy tejtermelői tevékenységet folytatni kívánó, TIR tenyészetkóddal rendelkező termelő részére ideiglenesen átengedheti. Az ideiglenes átengedés időtartama esetenként nem haladhatja meg az egy kvótaévet.
-
-(2) Az ideiglenes átengedés kizárólag az adott kvótaévben, a teljes kvótaévre vonatkozóan történhet, amelyet a kvóta eredeti tulajdonosának az adott kvótaév december 31-éig kell bejelentenie az együttműködő szervezetnek. Az ideiglenes átengedés jóváhagyásáról az MVH dönt, egyúttal gondoskodik a tejtermelő rendelkezésére álló kvótamennyiségben bekövetkezett változás tejkvóta nyilvántartásban történő átvezetéséről. A döntési határidő az adott kvótaév kezdete és július 15-e között beadott kérelmek esetében a 3. § (3) bekezdése szerinti határozat közlésétől számítandó. A jóváhagyott ideiglenes átengedés az adott kvótaév kezdetétől az adott kvótaévben hatályos. Az ideiglenesen átengedett kvóta tovább ideiglenesen nem engedhető át.
-
-(3) A kvótatulajdonos kvótamennyiségét vagy annak egy részét a Tv. szerint regisztrált, gazdaságában tejtermeléssel foglalkozó tejtermelő vagy tejtermelői tevékenységet folytatni kívánó, TIR tenyészetkóddal rendelkező termelő részére átruházhatja.
-
-(4) A tejtermelő teljes kvótamennyiségét csak abban az esetben adhatja el, ha az ENAR nyilvántartás szerinti tenyészetében a neve alatt nem szerepel 24 hónapnál idősebb nőivarú nem hús-, illetve egyéb húshasznú szarvasmarha. Amennyiben nem hús-, illetve egyéb húshasznú tehénállománnyal rendelkezik, úgy egyedenként háromezer kilogramm tejkvótával kell rendelkeznie. Kivételt képez az a magánszemély, aki legfeljebb kettő darab huszonnégy hónapnál idősebb nőivarú nem hús-, illetve egyéb húshasznú szarvasmarhát saját célú tejfelhasználásra tart.
-
-(5) Az átruházásról szóló szerződést és az átruházási kérelmet a vevőnek a szerződéskötést követő tizenöt napon belül, de legkésőbb december 31-éig kell benyújtania az együttműködő szervezethez. Az átruházási kérelemről az MVH dönt, egyúttal gondoskodik a tejtermelő rendelkezésére álló kvótamennyiségben bekövetkezett változás tejkvóta nyilvántartásban történő átvezetéséről. A döntési határidő az adott kvótaév kezdete és július 15-e között beadott kérelmek esetében a 3. § (3) bekezdése szerinti határozat közlésétől számítandó. Az átruházási kérelmet, illetve ideiglenes átengedési kérelmet kizárólag az adott kvótaévre vonatkozóan lehet benyújtani. A jóváhagyott átruházás az adott kvótaév kezdetétől hatályos.
-
-(6) Beszállítási kvóta átruházása esetén a kérelemhez mellékelni kell az eladó felvásárlójának igazolását az eladó által az adott kvótaév során beszállított tej mennyiségéről (kilogramm) és annak valódi zsírtartalmáról (kilogramm), valamint a vevő felvásárlójának szándéknyilatkozatát a vásárolt kvóta nagyságának megfelelő tejmennyiség átvételéről.
-
-(7) Az adásvételi szerződés megkötésének kvótaévében a (3) bekezdés szerint megvásárolt kvóta vagy annak egy része nem ruházható át, illetve ideiglenesen nem engedhető át.
-
-(8) A fiatal tejtermelők részére fenntartott nemzeti tartalékból igényelt kvóta nem lehet tárgya sem átruházásnak, sem ideiglenes átengedésnek, csak a nemzeti tartalék ezen célra fenntartott részébe adható vissza.
+[^16]: A 8. §-t az 52/2015. (IX. 7.) FM rendelet 13. § d) pontja hatályon kívül helyezte.

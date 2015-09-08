@@ -1,4 +1,4 @@
-## 18. §[^12]
+## 18. §[^27] E rendeletnek az egyes közvetlen támogatásokkal kapcsolatos, valamint egyéb agrártárgyú miniszteri rendeletek módosításáról szóló 52/2015. (IX. 7.) FM rendelettel [a továbbiakban: 52/2015. (IX. 7.) FM rendelet] hatályon kívül helyezett 1. § 7., 11., 12., 13., 14., 15., 16., 18., 19., 20. pontját, 2. §-át, 3. §-át, 4. § (6) bekezdését, 5–10. §-át, valamint 14. § (3) és (4) bekezdését az 52/2015. (IX. 7.) FM rendelet hatálybalépésekor[^28] folyamatban lévő ügyekben alkalmazni kell.
 
 19. § (1) E rendelet hatálybalépésével egyidejűleg hatályát veszti a tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló 43/2008. (IV. 4.) FVM rendelet, azzal hogy rendelkezéseit a folyamatban lévő ügyekben alkalmazni kell.
 
@@ -6,4 +6,5 @@
 
 (3) A 18. §-ban foglalt rendelkezéseket a folyamatban lévő ügyekben is alkalmazni kell.
 
-[^12]: A 18. §-t a 20. § (1) bekezdése hatályon kívül helyezte.
+[^27]: A 18. §-t a 20. § (1) bekezdése hatályon kívül helyezte, újonnan az 52/2015. (IX. 7.) FM rendelet 10. §-a iktatta be.
+[^28]: A hatálybalépés időpontja 2015. szeptember 8.
