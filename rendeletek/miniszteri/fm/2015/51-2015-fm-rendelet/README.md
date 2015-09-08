@@ -1,0 +1,9 @@
+# 51/2015. (IX. 7.) FM rendelet
+
+a pénzügyi fegyelem alkalmazásából eredő visszatérítésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-51-20-11
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-09-08 | 2015-51-20-11.1 | 51/2015. (IX. 7.) FM rendelet |
