@@ -1,4 +1,4 @@
-2. melléklet a 78/2013. (IX. 10.) VM rendelethez[^22]
+2. melléklet a 78/2013. (IX. 10.) VM rendelethez[^31]
 
 A támogatás maximális mértéke
 
@@ -108,4 +108,4 @@ A támogatás maximális mértéke
 
 | 48. | Hőlégfúvó | 150 000 |
 
-[^22]: A 2. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^31]: A 2. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.

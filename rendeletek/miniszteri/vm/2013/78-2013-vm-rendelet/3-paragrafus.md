@@ -6,11 +6,11 @@ a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 b) a támogatási kérelem benyújtásának időpontjában:
 
-ba) nem rendelkezik lejárt esedékességű adótartozással, vámtartozással, vagy adók módjára behajtható köztartozással, kivéve, ha az adóhatóság számára fizetési halasztást vagy részletfizetést engedélyezett,
+ba)[^6]
 
-bb)[^5] nem áll felszámolási eljárás, végelszámolási eljárás, csődeljárás alatt,
+bb)[^7] nem áll felszámolási, végelszámolási eljárás vagy csődeljárás alatt, illetve természetes személy esetében nem áll gazdálkodási tevékenységgel összefüggő végrehajtási eljárás alatt,
 
-bc)[^6]
+bc)[^8]
 
 c) a támogatási kérelem benyújtásának időpontjában a támogatási kérelmében szereplő törzskönyvezett sertéstenyészet állattartójaként szerepel a TIR nyilvántartásban;
 
@@ -22,15 +22,16 @@ f) a tenyészetében tartott sertésállomány vonatkozásában a 116/2003. (XI.
 
 g) vállalja, hogy
 
-ga)[^7] az 1. melléklettel összhangban a tenyészállatokat, szaporítóanyagot, illetve eszközöket beszerzi,
+ga)[^9] az 1. melléklettel összhangban a tenyészállatokat, szaporítóanyagot, illetve eszközöket beszerzi,
 
 gb) a támogatás alapját képező tenyészsertéseket a kifizetési határozat kézhezvételét követő naptól kezdődően egy éven át folyamatosan birtokán tartja, valamint
 
 gc) az eszközöket a jóváhagyó kifizetési határozat kézhezvételét követő naptól kezdődően egy éven át rendeltetésszerűen használja;
 
-h)[^8] nyilatkozik arról, hogy megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) és c) pontjában foglalt feltételeknek.
+h)[^10] nyilatkozik arról, hogy megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) és c) pontjában foglalt feltételeknek.
 
-[^5]: A 3. § b) pont bb) alpontja a 22/2014. (XI. 3.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § b) pont bc) alpontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte.
-[^7]: A 3. § g) pont ga) alpontja a 22/2014. (XI. 3.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^8]: A 3. § h) pontját a 22/2014. (XI. 3.) FM rendelet 3. § (3) bekezdése iktatta be.
+[^6]: A 3. § b) pont ba) alpontját az 52/2015. (IX. 7.) FM rendelet 20. §-a hatályon kívül helyezte.
+[^7]: A 3. § b) pont bb) alpontja az 52/2015. (IX. 7.) FM rendelet 16. §-ával megállapított szöveg.
+[^8]: A 3. § b) pont bc) alpontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte.
+[^9]: A 3. § g) pont ga) alpontja a 22/2014. (XI. 3.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^10]: A 3. § h) pontját a 22/2014. (XI. 3.) FM rendelet 3. § (3) bekezdése iktatta be.
