@@ -1,0 +1,1 @@
+## „(5) Ha a felvásárló az (1) bekezdésben meghatározott összesített adatszolgáltatási kötelezettségét június 15-éig nem teljesíti, vagy az adatszolgáltatás tartalma a havi kimutatásokhoz viszonyítottan mennyiségi eltérést mutat, akkor az MVH húsz napon belül a felvásárlót tizenöt napos határidő tűzésével teljesítésre szólítja fel.”
