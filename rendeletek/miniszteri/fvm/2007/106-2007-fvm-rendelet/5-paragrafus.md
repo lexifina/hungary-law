@@ -1,10 +1,10 @@
 5. § (1) Az anyatehén-, hízott-bika-, extenzifikációs szarvasmarha- és kedvezőtlen adottságú területeken történő anyajuhtartás támogatása esetén az átruházható, illetve ideiglenesen átengedhető minimális támogatási jogosultság jogcímenként 1 egységnyi történelmi bázis jogosultság.
 
-(2)[^17] Tejtermelés támogatás esetén, amennyiben a kérelem nem a teljes történelmi bázis jogosultság átruházására, illetve ideiglenes átengedésére vonatkozik, a minimálisan átírható mennyiség 500 egység történelmi bázis jogosultság.
+(2)[^18] Tejtermelés támogatás esetén, amennyiben a kérelem nem a teljes történelmi bázis jogosultság átruházására, illetve ideiglenes átengedésére vonatkozik, a minimálisan átírható mennyiség 500 egység történelmi bázis jogosultság.
 
 (3) Az átvevő nem részesülhet az átadó rendelkezésére álló történelmi bázis jogosultság számánál nagyobb mértékben a történelmi bázis jogosultságból.
 
-(4)[^18] Az MVH a nyilvántartásában
+(4)[^19] Az MVH a nyilvántartásában
 
 a) egész számban tartja nyilván a tejtermelés támogatás történelmi bázisjogosultság mértékét, ahol a legkisebb átírható mennyiség 1 egység;
 
@@ -32,7 +32,5 @@ cd) a Burley dohány, és
 
 ce) a Virginia dohány
 
-támogatása történelmi bázisjogosultság mértékét, ahol a legkisebb átírható mennyiség 0,01 egység.
-
-[^17]: Az 5. § (2) bekezdése a 27/2013. (IV. 26.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (4) bekezdését a 27/2013. (IV. 26.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^18]: Az 5. § (2) bekezdése a 27/2013. (IV. 26.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 5. § (4) bekezdését a 27/2013. (IV. 26.) VM rendelet 2. § (2) bekezdése iktatta be.
