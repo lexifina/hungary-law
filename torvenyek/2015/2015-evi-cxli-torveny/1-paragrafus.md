@@ -1,0 +1,3 @@
+1. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 84/ZS. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 29/B. § (2) bekezdését és 48. § (3) bekezdés b) pontjában az eltartott (kedvezményezett eltartott) adóazonosító jelének közlését előíró rendelkezést a 2017. január 1-jét megelőzően megtett nyilatkozatok esetében úgy kell alkalmazni, hogy az eltartott (kedvezményezett eltartott) adóazonosító jelének hiányában természetes személyazonosító adatait és lakcímét kell feltüntetni.”
