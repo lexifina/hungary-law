@@ -1,0 +1,1 @@
+5/D. § Az 5. § (1) bekezdésében meghatározott létesítménnyel és tranzitzóna kialakításával összefüggő közigazgatási hatósági eljárásokat – a kártalanítási, építésügyi, valamint a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzéséhez szükséges eljárások kivételével – nem kell lefolytatni.

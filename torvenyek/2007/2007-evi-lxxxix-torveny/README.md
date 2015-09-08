@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-89-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2007-89-00-00.6 |
 | 2013-07-01 | 2013. évi XCIII. törvény | 2007-89-00-00.7 |
 | 2015-08-01 | 2015. évi CXXVII. törvény | 2007-89-00-00.8 |
+| 2015-09-08 | 2015. évi CXL. törvény | 2007-89-00-00.9 |

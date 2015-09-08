@@ -7,3 +7,5 @@
 [Felhatalmazást kap a Kormány, hogy rendeletben]
 
 „d) megállapítsa az államhatár vonalát rögzítő okmányok nyilvántartási példányai kezelésének, tárolásának rendjét, és a változások átvezetésének szabályait.”
+
+17. § Az egyes törvényeknek a tömeges bevándorlás kezelésével összefüggő módosításáról szóló 2015. évi CXL. törvénnyel (a továbbiakban: Módtv.) megállapított 5/A. § (4) bekezdését a Módtv. hatálybalépését követően történő igénybevétel esetén kell alkalmazni.
