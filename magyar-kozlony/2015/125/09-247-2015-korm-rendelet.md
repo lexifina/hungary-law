@@ -1,0 +1,93 @@
+# A Kormány 247/2015. (IX. 8.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 125. szám, 2015. szeptember 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/384b41825a8d4365be245c6a589a7ea35343bb9c/dokumentumok/dab0524a63fad0a5451543647f6ddd70c91ce160/letoltes)
+
+---
+
+A Kormány 247/2015. (IX. 8.) Korm. rendelete
+a Nemzeti Rehabilitációs és Szociális Hivatalról szóló 74/2015. (III. 30.) Korm. rendelet és a súlyos
+mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet
+módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, továbbá a megváltozott
+munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 28. § (1) bekezdés
+b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. A Nemzeti Rehabilitációs és Szociális Hivatalról szóló 74/2015. (III. 30.) Korm. rendelet módosítása
+1. §
+A Nemzeti Rehabilitációs és Szociális Hivatalról szóló 74/2015. (III. 30.) Korm. rendelet (a továbbiakban: Nrszhr.)
+10. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A rehabilitációs hatóság – a szakértői bizottság elnöke kivételével – kormányzati szolgálati jogviszonyban nem
+álló szakértőt is igénybe vehet.”
+2. §
+Az Nrszhr. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A megkereső hatóság a rehabilitációs hatóság rendelkezésére bocsátja a minősítés elvégzéséhez szükséges
+iratokat, így
+a) az érintett személy egészségi állapotára, gyógykezelésére, rehabilitációjára vonatkozó összefoglaló adatokat
+tartalmazó, a munkaképesség-változás vagy a súlyos fogyatékosság véleményezése céljából kiállított beutalót,
+b) az érintett személy folyamatos gondozását, gyógykezelését és az aktuális állapotát bemutató kezelőorvosi
+véleményt,
+c) az a) és b) pont szerinti iratokban feltüntetett körülményekkel összefüggő további egészségügyi dokumentációt,
+
+d) ha az érintett személy foglalkoztatott, a foglalkozás-egészségügyi alapszolgáltatás orvosának tájékoztatóját
+az érintett személy munkaköri feladatairól, a munkavégzés körülményeiről, kockázati viszonyairól, valamint arról,
+hogy egészségi állapota alapján jelenlegi munkakörében továbbfoglalkoztatható-e, valamint
+e) a jogszabály vagy az eljáró hatóság által rendszeresített formanyomtatványt és nyilatkozatot.”
+3. §
+Az Nrszhr. 12. §-a helyébe a következő rendelkezés lép:
+„12. § (1) A rehabilitációs hatóság a személyes vizsgálatot mellőzheti, ha
+a) a rehabilitációs hatóság vagy jogelődje által kiállított, az érintett személy rendelkezésére álló szakvéleményben,
+szakhatósági állásfoglalásban vagy határozatban foglaltak szerint az érintett személy állapota végleges,
+b) a rehabilitációs hatóság vagy jogelődje által kiállított, az érintett személy rendelkezésére álló szakvélemény,
+szakhatósági állásfoglalás vagy határozat időbeli hatálya alatt kerül sor az újabb minősítésre, vagy
+c) az érintett személy állapota a rendelkezésre álló orvosi dokumentáció, egyéb irat alapján megalapozottan
+megítélhető.
+(2) A személyes vizsgálatot a (3)–(5) bekezdésben meghatározott kivételekkel a rehabilitációs hatóság székhelyén
+vagy telephelyén kell elvégezni. Ha a minősítés az (1) bekezdésben foglaltak szerint a személyes vizsgálat
+mellőzésével történik, azt az ügyben illetékes rehabilitációs hatóságtól eltérő rehabilitációs hatóság is elvégezheti.
+(3) A személyes vizsgálatot kivételesen, az érintett személy hozzájárulása esetén az illetékes rehabilitációs
+hatósággal szomszédos megyében működő rehabilitációs hatóság is elvégezheti, ha annak székhelyén vagy
+telephelyén történő megjelenés az érintett személy számára nem jelent aránytalan terhet.
+(4) A személyes vizsgálat az érintett személy lakó- vagy tartózkodási helyén is elvégezhető, ha a minősítéshez
+a lakhatási viszonyainak, környezetének, önellátási vagy önkiszolgálási képességének megismerése szükséges.
+(5) A személyes vizsgálatot az érintett személy lakó- vagy tartózkodási helyén kell elvégezni, ha a háziorvosa
+indoklással ellátott igazolást ad arról, hogy állapota nem teszi lehetővé a rehabilitációs hatóság székhelyén vagy
+telephelyén való megjelenést. A háziorvosnak az igazoláshoz mellékelnie kell a vizsgálati jogcím szerinti, az igény
+benyújtásakor fennálló egészségi állapotot igazoló szakorvosi leleteket is.
+(6) Ha a rendelkezésre álló orvosi dokumentáció, egyéb iratok között, vagy az iratok és a személyes vizsgálat
+megállapításai között ellentmondás merül fel, a komplex minősítés során eljáró orvosszakértő kiegészítő orvosi
+vizsgálatot rendelhet el.
+(7) Komplex minősítés esetén a rehabilitációs hatóság a rehabilitációs javaslat elkészítéséhez képességfelmérő
+vizsgálatot végezhet.
+(8) A kiegészítő egészségügyi és a képességfelmérő vizsgálat elvégzésére a rehabilitációs hatóság együttműködési
+megállapodást köthet a megfelelő személyi és tárgyi feltételekkel rendelkező szolgáltatóval.”
+4. §
+Az Nrszhr. a következő 18. §-sal egészül ki:
+„18. § E rendeletnek a Nemzeti Rehabilitációs és Szociális Hivatalról szóló 74/2015. (III. 30.) Korm. rendelet és
+a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet
+módosításáról szóló 247/2015. (IX. 8.) Korm. rendelettel (a továbbiakban: Mód.r.) megállapított szabályait a Mód.r.
+hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+5. §
+Az Nrszhr. 16. § (1) és (2) bekezdésében a„2016.”szövegrész helyébe a„2018.”szöveg lép.
+2. A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló
+102/2011. (VI. 29.) Korm. rendelet módosítása
+6. §
+A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet
+(a továbbiakban: Kr.) 8/A. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A közlekedőképesség minősítését a közlekedési kedvezmény tárgyában hozott, a közlekedőképesség súlyos
+akadályozottságának hiányára alapozott elutasító döntés jogerőre emelkedését, vagy – más szerv megkeresésére
+vagy a komplex minősítés keretében elvégzett minősítés esetén – a rehabilitációs hatóság vagy rehabilitációs
+szakértői szerv közlekedőképesség minősítésére vonatkozó szakvéleménye kiállítását követő 12 hónapon belül csak
+akkor kell elvégezni, ha a kezelőorvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként
+a kérelmet érdemi vizsgálat nélkül el kell utasítani.”
+
+7. §
+Az Kr. a következő 14/D. §-sal egészül ki:
+„14/D. § A Nemzeti Rehabilitációs és Szociális Hivatalról szóló 74/2015. (III. 30.) Korm. rendelet és a súlyos
+mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosításáról
+szóló 247/2015. (XI. 8.) Korm. rendelettel (a továbbiakban: Mkmr3.) megállapított 8/A. § (3a) bekezdésében
+foglaltakat az Mkmr3. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+3. Záró rendelkezés
+8. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
