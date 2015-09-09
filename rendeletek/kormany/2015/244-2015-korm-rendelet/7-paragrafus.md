@@ -1,0 +1,3 @@
+## 6. § A Rendelet 16. §-a helyébe a következő rendelkezés lép:
+
+## „16. § Az állami vagyon használója, haszonélvezője vagy vagyonkezelője az erre irányuló szerződéses jogviszony megszűnésekor, valamint jogszabályban vagy a szerződésben meghatározott esetben köteles az állami vagyon értékének az átvételkor fennálló állapothoz viszonyított különbözetével (csökkenésével vagy növekedésével) elszámolni. A szerződő felek a jogviszony megszűnéséről rendelkező megállapodásban megállapíthatják az elszámolás időpontját is, azzal, hogy azt a jogviszony megszűnésétől számított egy éven belül el kell végezni.”
