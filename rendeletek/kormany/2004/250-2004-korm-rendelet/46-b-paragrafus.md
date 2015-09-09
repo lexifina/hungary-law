@@ -1,8 +1,8 @@
-## V. Fejezet[^30]
+## V. Fejezet[^33]
 
-## A FELSZÁMOLÓI ÉRTESÍTÉSEK KÉZBESÍTÉSÉRE VONATKOZÓ SZABÁLYOK[^31]
+## A FELSZÁMOLÓI ÉRTESÍTÉSEK KÉZBESÍTÉSÉRE VONATKOZÓ SZABÁLYOK[^34]
 
-46/B. §[^32] (1) A felszámolói értesítés kézbesítésére a bírósági irat végrehajtói kézbesítésére vonatkozó rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
+46/B. §[^35] (1) A felszámolói értesítés kézbesítésére a bírósági irat végrehajtói kézbesítésére vonatkozó rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (2) A felszámolói értesítés kézbesítésére irányuló kérelemben meg kell jelölni a felszámoló (felszámolóbiztos) által kézbesíteni kívánt értesítés tárgyát, iktatási számát, valamint a felszámolási eljárás kezdő időpontját, továbbá a kérelemhez csatolni kell a felszámolói értesítés papír alapú másolatát.
 
@@ -12,6 +12,6 @@
 
 (5) Az eredményes kézbesítésről a kérelmezőt kell értesíteni.
 
-[^30]: Az V. fejezetet (46/B. §) a 238/2009. (X. 20.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
-[^31]: Az V. fejezetet címét a 238/2009. (X. 20.) Korm. rendelet 3. §-a iktatta be.
-[^32]: A 46/B. §-t a 238/2009. (X. 20.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
+[^33]: Az V. fejezetet (46/B. §) a 238/2009. (X. 20.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
+[^34]: Az V. fejezetet címét a 238/2009. (X. 20.) Korm. rendelet 3. §-a iktatta be.
+[^35]: A 46/B. §-t a 238/2009. (X. 20.) Korm. rendelet 3. §-a iktatta be. Alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.

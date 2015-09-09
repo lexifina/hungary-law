@@ -1,4 +1,4 @@
-## VI. Fejezet[^33]
+## VI. Fejezet[^36]
 
 ## A FIZETÉSI MEGHAGYÁS KÉZBESÍTÉSÉRE VONATKOZÓ SZABÁLYOK
 
@@ -10,8 +10,9 @@
 
 (4) A kézbesítés díját a fizetési meghagyásos eljárásért a Magyar Országos Közjegyzői Kamara részére járó díj megfizetésével azonos módon kell megfizetni.
 
-(5) A kézbesítési ügy a Magyar Bírósági Végrehajtói Kamarának a végrehajtható okiratok és a kézbesítendő iratok elosztására szolgáló informatikai alkalmazása útján, a 3. § (1) bekezdésben megjelölt végrehajtó részére kerül kiosztásra; a kézbesítendő irat pedig a fizetési meghagyásról a végrehajtó által a kézbesítés céljára kiállított papír alapú másolat.
+(5)[^37] A kézbesítési ügy a Magyar Bírósági Végrehajtói Karnak a végrehajtható okiratok és a kézbesítendő iratok elosztására szolgáló informatikai alkalmazása útján, a 3. § (1) bekezdésben megjelölt végrehajtó részére kerül kiosztásra; a kézbesítendő irat pedig a fizetési meghagyásról a végrehajtó által a kézbesítés céljára kiállított papír alapú másolat.
 
 (6) A 7–9. §-t a fizetési meghagyás kézbesítése során nem lehet alkalmazni.
 
-[^33]: A VI. fejezetet (46/C–46/E. §) a 142/2010. (IV. 28.) Korm. rendelet 3. §-a iktatta be.
+[^36]: A VI. fejezetet (46/C–46/E. §) a 142/2010. (IV. 28.) Korm. rendelet 3. §-a iktatta be.
+[^37]: A 46/C. § (5) bekezdése a 242/2015. (IX. 8.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.

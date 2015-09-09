@@ -1,4 +1,4 @@
-## VII. Fejezet[^34]
+## VII. Fejezet[^38]
 
 ## A Vht. 183/B. §-a szerinti helyiségbérleti szerződés megszűnését eredményező nyilatkozat kézbesítése
 
@@ -18,4 +18,4 @@ c) olyan fényképet, amelyből az ingatlan-nyilvántartási térképen a helyis
 
 (5) A végrehajtó a kérelmező által kézbesíteni kívánt iratra a következő szövegű záradékot vezeti: „a .....................közjegyző által ..................... szám alatt kiállított közjegyzői okiratról készített, azzal megegyező tartalmú fénymásolat.”; és feltünteti a záradékon a fénymásolat készítésének dátumát, továbbá ellátja azt aláírásával és körbélyegzőjének lenyomatával is.
 
-[^34]: A VII. Fejezetet (46/F. §) a 68/2014. (III. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^38]: A VII. Fejezetet (46/F. §) a 68/2014. (III. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.
