@@ -36,7 +36,7 @@ b) a védett területek, védőövezetek, védőterületek kijelölését és a 
 
 c) a víz használatával összefüggő gazdasági elemzést, a vízszolgáltatások tekintetében a költség-visszatérülés elvének érvényesítését;
 
-d) a felszín alatti vizek védelméről szóló külön jogszabály szerint meghatározott küszöbértékeket és a meghatározásukra vonatkozó információk összefoglalását;
+d)[^18] a felszín alatti vizek védelméről szóló kormányrendelet szerint meghatározott küszöbértékeket és a meghatározásukra vonatkozó, e rendelet 2. számú mellékletének 11. pontjában felsorolt információkat, illetve annak okát, ha valamely előírt információ nem szerepel a vízgyűjtő-gazdálkodási tervben;
 
 e) a felszín alatti vizek kémiai állapotának meghatározásáról készült, e rendelet 2. számú melléklete szerint összeállított összefoglalót; beleértve a szennyezett területekről származó szennyezőanyag-csóvák hatásának értékelését is;
 
@@ -58,3 +58,4 @@ g) a felszín alatti vizek kémiai állapotának értékelését, beleértve ann
 [^15]: A 3. § (3) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
 [^16]: A 3. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
 [^17]: A 3. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § i) pontja hatályon kívül helyezte.
+[^18]: A 3. § (6) bekezdés d) pontja a 248/2015. (IX. 8.) Korm. rendelet 9. §-ával megállapított szöveg.

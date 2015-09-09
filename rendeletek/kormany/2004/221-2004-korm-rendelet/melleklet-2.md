@@ -92,7 +92,9 @@
 
 |  | 4–2 | Balaton közvetlen | KÖDUVIZIG, Székesfehérvár |
 
-2. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^49]
+2. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^51]
+
+A vízgyűjtő-gazdálkodási terv
 
 I. A vízgyűjtő-gazdálkodási terv tartalma
 
@@ -134,7 +136,7 @@ e) a víz mennyiségi, kémiai és hőmérsékleti állapotában mutatkozó roml
 
 f) a szennyezőforrásokhoz, szennyezett területekhez kapcsolódó szennyezettségi csóvák jellemzése, hatásának értékelése.
 
-3. Az ivóvízkivételre kijelölt területek és a védett területek e rendelet 14. §-a szerinti azonosítása és térképi ábrázolása;
+3. Az ivóvíz kivételre kijelölt területek és a védett területek e rendelet 14. §-a szerinti azonosítása és térképi ábrázolása.
 
 4. a vizek állapotának megfigyelésére a 15. § szerint létesített monitoring hálózatok térképi ábrázolása:
 
@@ -146,7 +148,7 @@ b) az ökológiai és kémiai állapotra, valamint az ökológiai potenciálra;
 
 4.2. felszín alatti vizek esetében a megfigyelés kémiai, mennyiségi és fizikai állapotra terjed ki;
 
-4.3. a védett területek esetében a fenti megfigyeléseket ki kell egészíteni azoknak a jellemzőknek a megfigyelésével, amelyeket az egyes védett területek kijelöléséről szóló jogszabályok előírnak;
+4.3. a védett területek esetében a fenti megfigyeléseket ki kell egészíteni azoknak a jellemzőknek a megfigyelésével, amelyeket az egyes védett területek kijelöléséről szóló jogszabályok előírnak.
 
 5. A felszín alatti vizek vizsgálatának egyes szabályairól, és a felszíni vizek megfigyelésének és állapotértékelésének egyes szabályairól szóló külön jogszabály szerint kialakított monitoring programok eredményeinek bemutatása térképi formában a következőkről:
 
@@ -154,21 +156,21 @@ b) az ökológiai és kémiai állapotra, valamint az ökológiai potenciálra;
 
 5.2. a felszín alatti vizek állapota (kémiai és mennyiségi);
 
-5.3. a védett területek állapota;
+5.3. a védett területek állapota.
 
-6. az 1–5. pontokban előírt térképi ábrázolás térinformatikai rendszerben, digitális térképi adatbázisban, Egységes Országos Vetületi koordinátákkal meghatározva;
+6. Az 1–5. pontokban előírt térképi ábrázolás térinformatikai rendszerben, digitális térképi adatbázisban, Egységes Országos Vetületi koordinátákkal meghatározva.
 
-7. A felszíni és felszín alatti vizekre és a védett területekre a külön jogszabályokban e rendelet 5. §-a szerint megállapított környezeti célkitűzések listája,
+7. A felszíni és felszín alatti vizekre és a védett területekre a külön jogszabályokban e rendelet 5. §-a szerint megállapított környezeti célkitűzések listája.
 
-8. Az eredeti célkitűzés teljesíthetetlenségével kapcsolatos információk 7–10. § szerinti részletezése;
+8. Az eredeti célkitűzés teljesíthetetlenségével kapcsolatos információk 7–10. § szerinti részletezése.
 
-9. Összefoglaló leírás a vízhasználatoknak a 16. és 17. §-ok szerinti gazdasági elemzéséről;
+9. Összefoglaló leírás a vízhasználatoknak a 16. és 17. §-ok szerinti gazdasági elemzéséről.
 
 10. A 18. § szerint kidolgozott intézkedési programok összefoglalása, beleértve
 
-– azokat az intézkedéseket, amelyekkel az 5. § (1) bekezdésben megállapított célkitűzések teljesíthetők;
+– azokat az intézkedéseket, amelyekkel az 5. § (1) bekezdésben megállapított célkitűzések teljesíthetők,
 
-– azoknak az intézkedéseknek az összefoglalását, amelyeket azokkal a víztestekkel kapcsolatban kell meghozni, amelyeknél az 5. § (1) bekezdésében és a külön jogszabályokban megfogalmazott célkitűzések nem teljesíthetők;
+– azoknak az intézkedéseknek az összefoglalását, amelyeket azokkal a víztestekkel kapcsolatban kell meghozni, amelyeknél az 5. § (1) bekezdésében és a külön jogszabályokban megfogalmazott célkitűzések nem teljesíthetők,
 
 – azon intézkedések összefoglalását, amelyeket az olyan víztestekkel kapcsolatban kell meghatározni, amelyek esetében valószínűtlen, hogy teljesülnek az 5. §-ban meghatározott célkitűzések;
 
@@ -190,46 +192,64 @@ b) az ökológiai és kémiai állapotra, valamint az ökológiai potenciálra;
 
 10.9. a balesetszerű szennyezések hatásainak megelőzésére és csökkentésére tett intézkedések összefoglalása;
 
-10.10. a környezeti célkitűzések teljesítése érdekében tett kiegészítő intézkedések összefoglalása;
+10.10. a környezeti célkitűzések teljesítése érdekében tett kiegészítő intézkedések összefoglalása.
 
 11. Azon szennyező anyagokról és indikátoraikról biztosítandó információk, amelyekre küszöbértékeket határoztak meg, az alábbi adattartalommal:
 
-11.1. a kockázatosként jellemzett felszín alatti víztestek vagy víztestcsoportok számára, valamint az ilyen osztályozáshoz hozzájáruló szennyező anyagokra és szennyezési indikátorokra vonatkozó információ, beleértve a megfigyelt koncentrációkat/értékeket;
+11.1. információk a kockázatosként jellemzett felszín alatti víztestek vagy felszín alatti víztestcsoportok mindegyikéről, beleértve az alábbiakat:
 
-11.2. a kockázatosként jellemzett felszín alatti víztestek mindegyikére vonatkozó információk, különös tekintettel a víztestek méretére, a felszín alatti víztestek, valamint az azokhoz kapcsolódó felszíni vizek és az azoktól közvetlenül függő szárazföldi ökoszisztémák közötti kapcsolatra, és – a természetben előforduló anyagok esetében – a felszín alatti víztestekben lévő természetes háttérkoncentrációkra;
+a) a víztestek mérete,
 
-11.3. a küszöbértékek, meghatározásuk módja, valamint az, hogy azokat nemzeti szinten, a vízgyűjtő kerület vagy a nemzetközi vízgyűjtő kerületnek a tagállam területére eső részének szintjén, illetve a felszín alatti víztest vagy víztestcsoport szintjén kell-e alkalmazni;
+b) minden olyan szennyező anyag vagy szennyezési indikátor, amely a víztesteket kockázatosként jellemzi,
 
-11.4. Az emberi tevékenység eredményeként a felszín alatti vízben kialakuló sósvíz-koncentrációk tekintetében annak indokolása, hogy a szulfátra és kloridra, vagy a vezetőképességre vonatkozó küszöbértékek megállapítására került sor;
+c) azok a környezetminőségi célkitűzések, amelyekre a kockázat vonatkozik, beleértve a víztest tényleges vagy lehetséges jogszerű felhasználását vagy funkcióit, valamint a víztestek, az azokhoz kapcsolódó felszíni vizek és az azoktól közvetlenül függő szárazföldi ökoszisztémák közötti kapcsolat,
 
-11.5. a küszöbértékek és az alábbiak közötti viszonyra vonatkozó információk:
+d) a természetben előforduló anyagok esetében a felszín alatti víztestek természetes háttér-koncentrációi,
 
-11.5.1. a természetben előforduló anyagok esetében a megfigyelt háttérkoncentrációk,
+e) a küszöbértékek túllépése esetén információk a túllépésekről;
 
-11.5.2. a környezetminőségi célkitűzések és egyéb, nemzeti, közösségi vagy nemzetközi szinten fennálló vízvédelmi előírások, valamint
+11.2.
 
-11.5.3. a szennyező anyagok toxikológiájára, ökotoxikológiájára, a környezetben való tartós megmaradására, bioakkumulációs képességére és diszperziós tendenciájára vonatkozó bármely információ.
+a) küszöbértékek, valamint az, hogy azokat nemzeti szinten, a vízgyűjtő kerület vagy a nemzetközi vízgyűjtő kerületnek a tagállam területére eső részének szintjén, illetve a felszín alatti víztest vagy víztestcsoport szintjén kell-e alkalmazni,
 
-12. Az egyes részvízgyűjtőkre, azok részeire, egyes témakörökre vagy víztípusokra vonatkozó részletes programok és tervek jegyzéke, azok tartalmának összefoglalásával;
+b) az emberi tevékenység eredményeként a felszín alatti vízben kialakuló sósvíz-koncentrációk tekintetében annak indokolása, hogy a szulfátra és kloridra vagy a vezetőképességre vonatkozó küszöbértékek megállapítására került sor;
 
-13. A közvélemény tájékoztatására és konzultációkra tett intézkedések összefoglalása azok eredményei és az eredményekből következően a tervben végrehajtott változtatások;
+11.3. a küszöbértékek és az alábbiak egyike közötti kapcsolat:
 
-14. A közvélemény tájékoztatásához felhasznált dokumentumok, a 18. § (6) és (7) bekezdései szerint elfogadott szabályozások, intézkedések, valamint a 15. §, illetőleg a külön jogszabályok szerinti monitoring hálózat adatainak hozzáférési helyei;
+a) háttér-koncentrációk a természetben előforduló anyagok esetében,
 
-15. A hatáskörrel rendelkező hatóság megnevezése és adatai;
+b) kapcsolódó felszíni vizek és a közvetlenül függő szárazföldi ökoszisztémák,
+
+c) környezetminőségi célkitűzések és egyéb, nemzeti, uniós vagy nemzetközi szinten érvényben lévő vízvédelmi előírások,
+
+d) a szennyező anyagok toxikológiájára, ökotoxikológiájára, a környezetben való tartós megmaradására, bioakkumulációs képességére és diszperziós tendenciájára vonatkozó bármely információ;
+
+11.4. a háttér-koncentrációk meghatározásának a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006. december 12-i 2006/118/EK irányelv IV. melléklet A. rész 3. pontjában meghatározott elveken alapuló módszere;
+
+11.5. annak okai, hogy miért nem határoztak meg a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006. december 12-i 2006/118/EK irányelv IV. melléklet B. részében azonosított bármely szennyező anyagra és indikátorra vonatkozóan küszöbértéket;
+
+11.6. a felszín alatti vizek kémiai állapotértékelésének fő elemei, beleértve a megfigyelési eredmények összesítésének szintjét, módszerét és időszakát, az elfogadható mértékű túllépés definícióját és kiszámításának módszerét a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006. december 12-i 2006/118/EK irányelv 4. cikk (2) bekezdése c) pontjának i. alpontja és a III. melléklet 3. pontja szerint.
+
+12. Az egyes részvízgyűjtőkre, azok részeire, egyes témakörökre vagy víztípusokra vonatkozó részletes programok és tervek jegyzéke, azok tartalmának összefoglalásával.
+
+13. A közvélemény tájékoztatására és konzultációkra tett intézkedések összefoglalása azok eredményei és az eredményekből következően a tervben végrehajtott változtatások.
+
+14. A közvélemény tájékoztatásához felhasznált dokumentumok, a 18. § (6) és (7) bekezdése szerint elfogadott szabályozások, intézkedések, valamint a 15. § és a külön jogszabályok szerinti monitoring hálózat adatainak hozzáférési helyei.
+
+15. A hatáskörrel rendelkező hatóság megnevezése és adatai.
 
 16. Mindazok a dokumentumok, amelyeket egyéb jogszabály a vízgyűjtő-gazdálkodási terv tartalmaként ír elő.
 
 II. A vízgyűjtő-gazdálkodási terv felülvizsgálata során beépítendő további tartalmi elemek
 
-1. A vízgyűjtő-gazdálkodási terv előző változatának közreadása óta végzett változtatások, korszerűsítések összefoglalása, beleértve a 7–10. § szerint végrehajtott felülvizsgálatok összefoglalást is;
+1. A vízgyűjtő-gazdálkodási terv előző változatának közreadása óta végzett változtatások, korszerűsítések összefoglalása, beleértve a 7–10. § szerint végrehajtott felülvizsgálatok összefoglalást is.
 
-2. a környezeti célkitűzések elérése irányában tett előrehaladás számbavétele, továbbá az előző terv időszakára vonatkozó monitoring eredményeinek térképi bemutatása és részletes indoklás minden olyan környezeti célkitűzéshez, amelyet nem lehetett elérni;
+2. A környezeti célkitűzések elérése irányában tett előrehaladás számbavétele, továbbá az előző terv időszakára vonatkozó monitoring eredményeinek térképi bemutatása és részletes indoklás minden olyan környezeti célkitűzéshez, amelyet nem lehetett elérni.
 
-3. előző vízgyűjtő-gazdálkodási tervben előirányzott, nem végrehajtott intézkedések összefoglalása és a végrehajtás elmaradásának indokolása;
+3. Előző vízgyűjtő-gazdálkodási tervben előirányzott, nem végrehajtott intézkedések összefoglalása és a végrehajtás elmaradásának indokolása.
 
-4. A vízgyűjtő-gazdálkodási terv előző változatának közreadása óta elfogadott közbenső intézkedések összefoglalása;
+4. A vízgyűjtő-gazdálkodási terv előző változatának közreadása óta elfogadott közbenső intézkedések összefoglalása.
 
 5. A felszín alatti vizek védelméről szóló külön jogszabály szerint megállapított küszöbértékeket érintő változásokról szóló jelentés.
 
-[^49]: A 2. számú melléklet a 314/2008. (XII. 22.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^51]: A 2. számú melléklet a 248/2015. (IX. 8.) Korm. rendelet 11. §-ával megállapított szöveg.
