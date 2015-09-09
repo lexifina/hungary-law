@@ -1,0 +1,9 @@
+# 245/2015. (IX. 8.) Korm. rendelet
+
+a Nemzeti Eszközkezelő Zrt. működésével kapcsolatos egyes szabályokról szóló 128/2012. (VI. 26.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-245-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2015-09-09 | 2015-245-20-22.1 | 245/2015. (IX. 8.) Korm. rendelet |
