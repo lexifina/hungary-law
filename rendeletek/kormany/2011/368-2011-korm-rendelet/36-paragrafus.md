@@ -1,10 +1,10 @@
 ## [Az Áht. 31. § (3) bekezdéséhez]
 
-36. §[^111] (1)[^112] Az államháztartás központi alrendszerébe tartozó költségvetési szerv saját hatáskörben a költségvetési kiadási előirányzatokat a 34/A. § és a 34/B. § szerinti költségvetési bevételi előirányzatok – az Áht. 30. § (3) bekezdése, a 34/A. § és a 34/B. § rendelkezései megtartása mellett történő – növelésével egyidejűleg, továbbá a B813. Maradvány igénybevétele rovaton elszámolt maradvány által fedezett módon, annak összegéig megemelheti.
+36. §[^115] (1)[^116] Az államháztartás központi alrendszerébe tartozó költségvetési szerv saját hatáskörben a költségvetési kiadási előirányzatokat a 34/A. § és a 34/B. § szerinti költségvetési bevételi előirányzatok – az Áht. 30. § (3) bekezdése, a 34/A. § és a 34/B. § rendelkezései megtartása mellett történő – növelésével egyidejűleg, továbbá a B813. Maradvány igénybevétele rovaton elszámolt maradvány által fedezett módon, annak összegéig megemelheti.
 
 (2) A költségvetési szerv személyi juttatások költségvetési kiadási előirányzatai
 
-a)[^113] a 35. § szerint jóváhagyott többletbevétellel és a 34/B. § szerinti bevételi előirányzatokkal fedezett módon,
+a)[^117] a 35. § szerint jóváhagyott többletbevétellel és a 34/B. § szerinti bevételi előirányzatokkal fedezett módon,
 
 b) a költségvetési szerv kötelezettségvállalással terhelt költségvetési maradványának személyi juttatásokból származó részével,
 
@@ -20,6 +20,6 @@ növelhető.
 
 (5) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kezelő szerve a bevételek kiemelt előirányzatain belül az egyes rovatok bevételi előirányzatait saját hatáskörben módosíthatja – növelheti és csökkentheti –, ha a tervezett bevételek jogcímének változása miatt az indokolt, de a bevételi kiemelt előirányzat megváltoztatása nem szükséges.
 
-[^111]: Az Ávr. 36. §-a a 397/2014. (XII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^112]: Az Ávr. 36. § (1) bekezdése a 20/2015. (II. 17.) Korm. rendelet 16. § (1) bekezdés c) pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 4. pontja szerint módosított szöveg.
-[^113]: Az Ávr. 36. § (2) bekezdés a) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 5. pontja szerint módosított szöveg.
+[^115]: Az Ávr. 36. §-a a 397/2014. (XII. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^116]: Az Ávr. 36. § (1) bekezdése a 20/2015. (II. 17.) Korm. rendelet 16. § (1) bekezdés c) pontja, a 175/2015. (VII. 7.) Korm. rendelet 28. § 4. pontja szerint módosított szöveg.
+[^117]: Az Ávr. 36. § (2) bekezdés a) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 5. pontja szerint módosított szöveg.

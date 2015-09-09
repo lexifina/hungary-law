@@ -1,3 +1,3 @@
-180–181. §[^460]
+180–181. §[^486]
 
-[^460]: Az Ávr. 180–181. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be, hatályon kívül helyezte a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 26–27. pontja.
+[^486]: Az Ávr. 180–181. §-át a 497/2013. (XII. 29.) Korm. rendelet 60. § (1) bekezdése iktatta be, hatályon kívül helyezte a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 26–27. pontja.

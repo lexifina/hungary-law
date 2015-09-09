@@ -4,21 +4,21 @@
 
 a) a költségvetési szerv alapításáról szóló jogszabály teljes megjelölését, ha a költségvetési szerv alapításáról jogszabály rendelkezett,
 
-b) a költségvetési szerv alapító okiratának – ha azt az alapítás óta módosították, a hatályos, egységes szerkezetbe foglalt alapító okiratának – keltét, számát, az alapítás időpontját,
+b)[^50] a költségvetési szerv alapító okiratának keltét, számát, az alapítás időpontját,
 
-c)[^48] az ellátandó, és a kormányzati funkció szerint besorolt alaptevékenységek, rendszeresen ellátott vállalkozási tevékenységek megjelölését,
+c)[^51] az ellátandó, és a kormányzati funkció szerint besorolt alaptevékenységek, rendszeresen ellátott vállalkozási tevékenységek megjelölését,
 
 d) azon gazdálkodó szervezetek részletes felsorolását, amelyek tekintetében a költségvetési szerv alapítói, tulajdonosi (tagsági, részvényesi) jogokat gyakorol,
 
-e)[^49] a szervezeti felépítést és a működés rendjét, a szervezeti egységek – ezen belül a gazdasági szervezet – megnevezését, feladatait, a költségvetési szerv szervezeti ábráját,
+e)[^52] a szervezeti felépítést és a működés rendjét, a szervezeti egységek – ezen belül a gazdasági szervezet – megnevezését, feladatait, a költségvetési szerv szervezeti ábráját,
 
 f) azon ügyköröket, amelyek során a szervezeti egységek vezetői a költségvetési szerv képviselőjeként járhatnak el,
 
-g) a szervezeti és működési szabályzatban nevesített munkakörökhöz tartozó feladat- és hatásköröket, a hatáskörök gyakorlásának módját, a helyettesítés rendjét, az ezekhez kapcsolódó felelősségi szabályokat,
+g)[^53] a szervezeti és működési szabályzatban nevesített munkakörökhöz tartozó feladat- és hatásköröket, a hatáskörök gyakorlásának módját, a helyettesítés rendjét (ideértve – a költségvetési szerv vezetőjének és gazdasági vezetőjének akadályoztatása esetén vagy ha a tisztség ideiglenesen nincs betöltve – az általános helyettesítés rendjét), az ezekhez kapcsolódó felelősségi szabályokat,
 
 h) jogszabályban meghatározott kivétellel a munkáltatói jogok gyakorlásának – ideértve az átruházott munkáltatói jogokat is – rendjét, és
 
-i)[^50] azoknak a költségvetési szerveknek a felsorolását, amelyek tekintetében a költségvetési szerv az Áht. 10. § (4a) és (4b) bekezdése alapján a 9. § (1) bekezdése szerinti feladatokat ellátja.
+i)[^54] azoknak a költségvetési szerveknek a felsorolását, amelyek tekintetében a költségvetési szerv az Áht. 10. § (4a) és (4b) bekezdése alapján a 9. § (1) bekezdése szerinti feladatokat ellátja.
 
 (2) A költségvetési szerv vezetője belső szabályzatban rendezi a működéséhez kapcsolódó, pénzügyi kihatással bíró, jogszabályban nem szabályozott kérdéseket, így különösen
 
@@ -26,7 +26,7 @@ a) a tervezéssel, gazdálkodással – így különösen a kötelezettségváll
 
 b) a beszerzések lebonyolításával kapcsolatos eljárásrendet,
 
-c) a belföldi és külföldi kiküldetések elrendelésével és lebonyolításával, elszámolásával kapcsolatos kérdéseket,[^51]
+c) a belföldi és külföldi kiküldetések elrendelésével és lebonyolításával, elszámolásával kapcsolatos kérdéseket,[^55]
 
 d) az anyag- és eszközgazdálkodás számviteli politikában nem szabályozott kérdéseit,
 
@@ -34,13 +34,13 @@ e) a reprezentációs kiadások felosztását, azok teljesítésének és elszá
 
 f) a gépjárművek igénybevételének és használatának rendjét,
 
-g)[^52] a vezetékes- és mobiltelefonok használatát, és
+g)[^56] a vezetékes- és mobiltelefonok használatát, és
 
 h) a közérdekű adatok megismerésére irányuló kérelmek intézésének, továbbá a kötelezően közzéteendő adatok nyilvánosságra hozatalának rendjét.
 
-(3)[^53] A központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a kezelt központi kezelésű előirányzatokkal, fejezeti kezelésű előirányzatokkal, elkülönített állami pénzalapokkal, társadalombiztosítás pénzügyi alapjaival kapcsolatos tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladataira nézve külön szabályzatot készít a (2) bekezdés a) pontjában meghatározott tartalommal. Ha a központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap terhére költségvetési támogatás nyújtható, az e bekezdés szerinti szabályzatban rendelkezni kell az előirányzatok módosításának, átcsoportosításának, a támogatói döntések meghozatala és a kötelezettségvállalás belső egyeztetési és engedélyezési eljárási, továbbá dokumentációs szabályairól, határidőiről, a pénzügyi teljesítés, a beszámoltatás, az ellenőrzés feladatainak rendjéről, mindezek határidőiről, szervezeti megosztásáról, az egyes szervezeti egységek feladatairól is.
+(3)[^57] A központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a kezelt központi kezelésű előirányzatokkal, fejezeti kezelésű előirányzatokkal, elkülönített állami pénzalapokkal, társadalombiztosítás pénzügyi alapjaival kapcsolatos tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladataira nézve külön szabályzatot készít a (2) bekezdés a) pontjában meghatározott tartalommal. Ha a központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap terhére költségvetési támogatás nyújtható, az e bekezdés szerinti szabályzatban rendelkezni kell az előirányzatok módosításának, átcsoportosításának, a támogatói döntések meghozatala és a kötelezettségvállalás belső egyeztetési és engedélyezési eljárási, továbbá dokumentációs szabályairól, határidőiről, a pénzügyi teljesítés, a beszámoltatás, az ellenőrzés feladatainak rendjéről, mindezek határidőiről, szervezeti megosztásáról, az egyes szervezeti egységek feladatairól is.
 
-(3a)[^54] A (2) bekezdésben meghatározott szempontok figyelembevételével belső szabályzataiban rendelkezik
+(3a)[^58] A (2) bekezdésben meghatározott szempontok figyelembevételével belső szabályzataiban rendelkezik
 
 a) az önkormányzati hivatal a helyi önkormányzat és a helyi nemzetiségi önkormányzat,
 
@@ -54,10 +54,12 @@ sajátos tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolg�
 
 (5) A költségvetési szerv szervezeti egységei által ellátott feladatok munkafolyamatainak leírását, a szervezeti egység vezetőinek és alkalmazottainak feladat- és hatáskörét, a helyettesítés rendjét, továbbá a szervezeti egység költségvetési szerven belüli belső és azon kívüli külső kapcsolattartásának módját, szabályait – ha azokról a szervezeti és működési szabályzat vagy a költségvetési szerv más szabályzata nem rendelkezik – a szervezeti egységek ügyrendje tartalmazza.
 
-[^48]: Az Ávr. 13. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja, a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^49]: Az Ávr. 13. § (1) bekezdés e) pontja a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^50]: Az Ávr. 13. § (1) bekezdés i) pontja a 397/2014. (XII. 31.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^51]: Lásd a 28/2014. (XII. 23.) NGM utasítást.
-[^52]: Az Ávr. 13. § (2) bekezdés g) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
-[^53]: Az Ávr. 13. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^54]: Az Ávr. 13. § (3a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^50]: Az Ávr. 13. § (1) bekezdés b) pontja a 243/2015. (IX. 8.) Korm. rendelet 12. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^51]: Az Ávr. 13. § (1) bekezdés c) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 6. pontja, a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^52]: Az Ávr. 13. § (1) bekezdés e) pontja a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^53]: Az Ávr. 13. § (1) bekezdés g) pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
+[^54]: Az Ávr. 13. § (1) bekezdés i) pontja a 397/2014. (XII. 31.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^55]: Lásd a 28/2014. (XII. 23.) NGM utasítást.
+[^56]: Az Ávr. 13. § (2) bekezdés g) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
+[^57]: Az Ávr. 13. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^58]: Az Ávr. 13. § (3a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.

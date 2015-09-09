@@ -1,4 +1,4 @@
-31. §[^91] (1) A kincstári költségvetést
+31. §[^95] (1) A kincstári költségvetést
 
 a) a fejezetbe sorolt költségvetési szervekre és fejezeti kezelésű előirányzatokra a fejezetet irányító szerv,
 
@@ -12,4 +12,4 @@ készíti el. A Kincstár által készített kincstári költségvetéshez az á
 
 (3) Költségvetési szerv év közben történő alapítása esetén a költségvetési szerv törzskönyvi nyilvántartásba való bejegyzését, új központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja előirányzata év közben történő létrehozása esetén a létrehozást követő nyolc napon belül kell a kincstári költségvetést megállapítani és – ha annak elkészítésére nem a Kincstár köteles – megküldeni a Kincstárnak.
 
-[^91]: Az Ávr. 31. §-a a 397/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^95]: Az Ávr. 31. §-a a 397/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@
 
 2. felsőoktatásban szerzett gazdasági szakképzettség: a felsőoktatásban gazdaságtudományok képzési területen vagy a többciklusú képzés bevezetése előtt annak megfelelő egyetemi, főiskolai szakon szerzett szakképzettség,
 
-3. foglalkoztató: a központosított illetményszámfejtési körbe tartozó költségvetési szerv, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § a) pont 6. alpontja szerinti esetben a Magyar Államkincstár (a továbbiakban: Kincstár),
+3.[^2] foglalkoztató: a központosított illetményszámfejtési körbe tartozó jogi személy, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 4. § a) pont 6. alpontja szerinti esetben a Magyar Államkincstár (a továbbiakban: Kincstár),
 
 4. forgótőke: a központosított illetményszámfejtés esetén a megbízó és a Kincstár között létrejött megállapodás alapján olyan engedményezés, amely jogszabályon és a munkavállaló egyéni megbízásán alapuló munkáltatói fizetési kötelezettség – ideértve a társadalombiztosítási szolgáltatások kifizetőhelyi kötelezettségét is – teljesítésének fedezetét képezi,
 
@@ -27,3 +27,4 @@
 10. törzskönyvi okirat: a törzskönyvi jogi személy törzskönyvi nyilvántartásba vétele, törzskönyvi nyilvántartásba vett adatai változásának bejelentése és a törzskönyvi jogi személy törzskönyvi nyilvántartásból való törlése során a kérelemhez csatolandó valamennyi okirat – a vezetői kinevezésről, megbízásról szóló okirat kivételével –, valamint a Kincstárnak a törzskönyvi nyilvántartás vezetése során keletkezett döntése és más okirata.
 
 [^1]: Az Ávr. I. fejezete (1–1/D. §) a 397/2014. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^2]: Az Ávr. 1. § 3. pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.

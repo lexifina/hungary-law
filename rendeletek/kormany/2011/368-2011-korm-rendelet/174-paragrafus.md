@@ -1,3 +1,3 @@
-174. §[^441]
+174. §[^467]
 
-[^441]: Az Ávr. 174. §-t az 56/2012. (III. 30.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^467]: Az Ávr. 174. §-t az 56/2012. (III. 30.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.

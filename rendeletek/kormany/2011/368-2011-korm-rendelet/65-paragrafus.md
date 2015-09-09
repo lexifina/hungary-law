@@ -1,3 +1,3 @@
-65. §[^193]
+65. §[^211]
 
-[^193]: Az Ávr. 65. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 10. pontja hatályon kívül helyezte.
+[^211]: Az Ávr. 65. §-át a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 10. pontja hatályon kívül helyezte.

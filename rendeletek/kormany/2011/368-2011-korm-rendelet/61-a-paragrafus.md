@@ -1,4 +1,4 @@
-61/A. §[^178] (1) A költségvetési főfelügyelő, felügyelő a kijelölt szerv tekintetében
+61/A. §[^183] (1) A költségvetési főfelügyelő, felügyelő a kijelölt szerv tekintetében
 
 a) előzetesen véleményezi
 
@@ -32,4 +32,4 @@ g) az eszközök értékesítésére és selejtezésére irányuló intézkedés
 
 (5) A költségvetési főfelügyelő, felügyelő az (1) bekezdés a) pont ab) és ac) alpontja és a (3) bekezdésben meghatározott intézkedések tekintetében a kijelölt szerv vezetőjénél, illetve az állami tulajdonú gazdasági társaság vezető tisztségviselőjénél kifogással élhet. A kifogás eredménytelensége esetén a költségvetési főfelügyelő, felügyelő javaslatot tehet az intézkedés felfüggesztésére. Az indokolt javaslatot kijelölt szerv esetén annak vezetőjének, a fejezetet irányító szerv vezetőjének és az államháztartásért felelős miniszternek, állami tulajdonú gazdasági társaság esetén az állami tulajdonú gazdasági társaság vezető tisztségviselőjének, az állami tulajdonú gazdasági társaság tekintetében tulajdonosi joggyakorlóként eljáró szervezet vezetőjének és az államháztartásért felelős miniszternek kell megküldeni. Az intézkedés az államháztartásért felelős miniszter jóváhagyása esetén hajtható végre.
 
-[^178]: Az Ávr. 61/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 6. §-a iktatta be.
+[^183]: Az Ávr. 61/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 6. §-a iktatta be.

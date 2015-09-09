@@ -1,16 +1,11 @@
-87. §[^206] (1) A költségvetési támogatás a beszámoló vagy a részbeszámoló elfogadását megelőzően is – a költségvetési támogatás céljához, a támogatott tevékenység megvalósítási időszakának hosszához, a kedvezményezett saját forrásának mértékéhez igazodó módon – folyósítható (a továbbiakban: támogatási előleg).
+87. §[^224] (1) A költségvetési támogatás a beszámoló vagy a részbeszámoló elfogadását megelőzően is – a költségvetési támogatás céljához, a támogatott tevékenység megvalósítási időszakának hosszához, a kedvezményezett saját forrásának mértékéhez igazodó módon – folyósítható (a továbbiakban: támogatási előleg).
 
-(2)[^207] A támogatási előleg összegét a pályázati kiírás vagy a támogatási szerződés határozza meg.
+(2)[^225] A támogatási előleg összegét a pályázati kiírás vagy a támogatási szerződés határozza meg.
 
-(3) A 76. § (1) bekezdés d) pontja szerinti költségterv szerint részletekben kell folyósítani azt a támogatási előleget, amely az ötmillió forintot meghaladja. E rendelkezést nem kell alkalmazni
-
-a) az olyan költségvetési támogatásokra, amelyek esetén a támogatott tevékenység időtartama a hatvan napot nem haladja meg,
-
-b) a kincstári körbe tartozó kedvezményezettek részére nyújtott költségvetési támogatásokra, valamint a Kincstárnál vezetett fizetési számlára folyósított költségvetési támogatásokra,
-
-c) a központi költségvetés Áht. 14. § (3) bekezdése szerinti fejezetéből biztosított költségvetési támogatásokra.
+(3)[^226]
 
 (4) A támogatási előleget vagy annak első részletét a támogatási szerződésben meghatározott határidőn belül kell folyósítani.
 
-[^206]: Az Ávr. 87. §-a a 82/2015. (III. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^207]: Az Ávr. 87. § (2) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 29. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^224]: Az Ávr. 87. §-a a 82/2015. (III. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^225]: Az Ávr. 87. § (2) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 29. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^226]: Az Ávr. 87. § (3) bekezdését a 243/2015. (IX. 8.) Korm. rendelet 12. § (2) bekezdés 4. pontja hatályon kívül helyezte.
