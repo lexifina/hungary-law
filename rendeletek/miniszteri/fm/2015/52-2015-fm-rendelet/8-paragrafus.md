@@ -1,5 +1,0 @@
-## 7. § A tehéntej termékpálya szabályozásában alkalmazott kvótarendszerről szóló 14/2010. (II. 23.) FVM rendelet [a továbbiakban: 14/2010. (II. 23.) FVM rendelet] 1. § 6. pontja helyébe a következő rendelkezés lép:
-
-## (E rendelet alkalmazásában:)
-
-## „6. jóváhagyott felvásárló: olyan, a Tv. szerint nyilvántartásba vett és e rendelet szerinti felvásárlóként nyilvántartott természetes vagy jogi személy, illetve egyéb szervezet, aki vagy amely a termelői nyerstejet a tejtermelőtől azért veszi át, hogy azt – akár bérfeldolgozás keretében – gyűjtő, csomagoló, hűtő vagy feldolgozó folyamatnak vesse alá vagy értékesítse, vagy azt egy vagy több olyan vállalkozásnak továbbadja, amely tejet vagy tejterméket kezel vagy feldolgoz, és e tevékenységének folytatásához a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) jóváhagyásával rendelkezik, továbbá egyazon földrajzi terület felvásárlóinak olyan szövetkezése, amely tagjai számára fizetési kötelezettség teljesítésével kapcsolatosan előírt adminisztrációs és könyvviteli tevékenységet végez;”
