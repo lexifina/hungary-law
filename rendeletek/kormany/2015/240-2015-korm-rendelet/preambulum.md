@@ -1,0 +1,1 @@
+A Kormány a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 106. § (1) bekezdés h) és i) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva, a következőket rendeli el:

@@ -1,0 +1,1 @@
+## 5. § A bíróságon kívüli és a bírósági adósságrendezési ügyek iratanyagának megőrzéséről, digitalizálásáról, archiválásáról, valamint az Are. tv.-ben, más jogszabályban és az iratkezelési szabályzatban, jogszabályban meghatározott határidő elteltével történő selejtezéséről a CsSz illetékes területi szerve gondoskodik.
