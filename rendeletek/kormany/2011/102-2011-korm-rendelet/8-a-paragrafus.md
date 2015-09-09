@@ -22,12 +22,15 @@ a) a közlekedőképesség súlyos akadályozottságának fennállását vagy fe
 
 b) a következő felülvizsgálat időpontját.
 
+(3a)[^44] A közlekedőképesség minősítését a közlekedési kedvezmény tárgyában hozott, a közlekedőképesség súlyos akadályozottságának hiányára alapozott elutasító döntés jogerőre emelkedését, vagy – más szerv megkeresésére vagy a komplex minősítés keretében elvégzett minősítés esetén – a rehabilitációs hatóság vagy rehabilitációs szakértői szerv közlekedőképesség minősítésére vonatkozó szakvéleménye kiállítását követő 12 hónapon belül csak akkor kell elvégezni, ha a kezelőorvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként a kérelmet érdemi vizsgálat nélkül el kell utasítani.
+
 (4) A közlekedőképesség vizsgálata a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti komplex minősítés keretében is kérhető.
 
-(5)[^44]
+(5)[^45]
 
 [^40]: A 4/A. alcímet (8/A. §) a 61/2012. (III. 30.) Korm. rendelet 13. §-a iktatta be.
 [^41]: A 8/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (3) bekezdésével megállapított szöveg.
 [^42]: A 8/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (4) bekezdésével megállapított szöveg.
 [^43]: A 8/A. § (3) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 172. § (5) bekezdése szerint módosított szöveg.
-[^44]: A 8/A. § (5) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^44]: A 8/A. § (3a) bekezdését a 247/2015. (IX. 8.) Korm. rendelet 6. §-a iktatta be.
+[^45]: A 8/A. § (5) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
