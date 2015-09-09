@@ -1,8 +1,6 @@
-## 10/G. § Ha a bérlő az általa lakott ingatlant olyan műszaki ok, hiba fennállása miatt nem tudja használni, amelynek elhárítására a NET tv., az Ltv. vagy a lakásbérleti szerződés alapján a bérbeadó vagy a bérlő köteles lenne, a bérbeadó a rendelkezésére álló üres tartalék ingatlanban ideiglenes elhelyezést biztosíthat a bérlő számára. Ebben az esetben a bérlő visszaköltözéséig az addig lakott ingatlanra vonatkozó bérleti jogviszony szünetel. A bérbeadó és a bérlő az ideiglenes elhelyezést biztosító tartalék ingatlanra a műszaki hiba elhárításának időpontjáig szóló bérleti szerződést kötnek.
-
 ## 7. A Nemzeti Eszközkezelő feladatainak ellátására kizárólagos jog alapján történő kijelölés
 
-11. § (1)[^48] A NET tv. 4. § (2) bekezdésében meghatározott feladatokat kizárólagos jog alapján – a 11/A. §-ban meghatározott kivétellel – a MÁV Létesítményüzemeltető és Vasútőr Korlátolt Felelősségű Társaság (a továbbiakban: Kijelölt Szolgáltató) látja el.
+11. § (1)[^51] A NET tv. 4. § (2) bekezdésében meghatározott feladatokat kizárólagos jog alapján – a 11/A. §-ban meghatározott kivétellel – a MÁV Létesítményüzemeltető és Vasútőr Korlátolt Felelősségű Társaság (a továbbiakban: Kijelölt Szolgáltató) látja el.
 
 (2) A Kijelölt Szolgáltató által ellátandó feladatok pontos körét a 2. melléklet határozza meg.
 
@@ -10,4 +8,4 @@
 
 (4) A Kijelölt Szolgáltató a feladatot közszolgáltatás keretében látja el.
 
-[^48]: A 11. § (1) bekezdése a 368/2013. (X. 24.) Korm. rendelet 7. §-ával megállapított, a 390/2014. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^51]: A 11. § (1) bekezdése a 368/2013. (X. 24.) Korm. rendelet 7. §-ával megállapított, a 390/2014. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.

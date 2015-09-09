@@ -44,7 +44,17 @@ keresőtevékenységet folytatónak kell tekinteni az egyéni vállalkozót, azt
 
 11.[^11] Törvény: a Kúriának a pénzügyi intézmények fogyasztói kölcsönszerződéseire vonatkozó jogegységi határozatával kapcsolatos egyes kérdések rendezéséről szóló 2014. évi XXXVIII. törvény;
 
-12.[^12] elszámolási törvény: a Törvény 3. § (5) bekezdése és 4. § (3) bekezdése szerinti külön törvény.
+12.[^12] elszámolási törvény: a Törvény 3. § (5) bekezdése és 4. § (3) bekezdése szerinti külön törvény;
+
+13.[^13] jövedelem: az elismert költségekkel és a befizetési kötelezettséggel csökkentett
+
+a) a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel);
+
+b) az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni;
+
+14.[^14] elismert költség: a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj; ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával; ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetve állattenyésztés esetén 94%-ának megfelelő összeggel;
+
+15.[^15] befizetési kötelezettség: a személyi jövedelemadó, az egyszerűsített vállalkozói adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségbiztosítási hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
 
 [^1]: Az eredeti 1. alcím megjelölését I. Fejezetre változtatta, és szövegét (1. §) megállapította a 431/2012. (XII. 29.) Korm. rendelet 1. §-a.
 [^2]: Az 1. § 1. pontja a 111/2013. (IV. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -58,3 +68,6 @@ keresőtevékenységet folytatónak kell tekinteni az egyéni vállalkozót, azt
 [^10]: Az 1. § 10. pontját a 81/2014. (III. 14.) Korm. rendelet 1. §-a iktatta be.
 [^11]: Az 1. § 11. pontját a 243/2014. (IX. 24.) Korm. rendelet 1. §-a iktatta be.
 [^12]: Az 1. § 12. pontját a 243/2014. (IX. 24.) Korm. rendelet 1. §-a iktatta be.
+[^13]: Az 1. § 13. pontját a 245/2015. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
+[^14]: Az 1. § 14. pontját a 245/2015. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
+[^15]: Az 1. § 15. pontját a 245/2015. (IX. 8.) Korm. rendelet 1. §-a iktatta be.

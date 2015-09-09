@@ -2,7 +2,7 @@
 
 a) adósságkezelési és együttműködési megállapodást köt a bérbeadóval,
 
-b) közjegyzői okiratba foglalt tartozáselismerő nyilatkozatot tesz a bérbeadóval szemben fennálló tartozásairól, amelynek költségei a bérbeadót terhelik, és
+b)[^44] tartozáselismerő nyilatkozatot tesz a bérbeadóval szemben fennálló tartozásairól, és
 
 c) hozzájárul a lakóingatlan vonatkozásában a javára bejegyzett visszavásárlási jog ingatlan-nyilvántartásból való törléséhez.
 
@@ -10,7 +10,7 @@ c) hozzájárul a lakóingatlan vonatkozásában a javára bejegyzett visszavás
 
 (3) Ha a megszűnt bérleti szerződésben bérlőtársak szerepeltek, a bérbeadó a határozott idejű bérleti szerződést is a bérlőtársakkal köti meg. Ha valamelyik bérlőtárs nem kívánja megkötni a határozott idejű bérleti szerződést, a bérbeadó azt a fennmaradó bérlőtársakkal köti meg azzal, hogy a nem szerződő bérlőtársnak a megszűnt bérleti szerződésből eredő, bérbeadóval szemben keletkezett, lejárt tartozásokért való felelőssége nem szűnik meg.
 
-(4)[^44] Az adósságkezelési és együttműködési megállapodás kötelező tartalmi eleme, hogy a bérlő vállalja, hogy
+(4)[^45] Az adósságkezelési és együttműködési megállapodás kötelező tartalmi eleme, hogy a bérlő vállalja, hogy
 
 a) a bérleti jogviszonyból eredő, a bérbeadóval szemben fennálló, lejárt esedékességű tartozásait 12 hónap alatt megfizeti a bérbeadónak,
 
@@ -26,4 +26,5 @@ bd) kapcsolatot tart a Segítő Szervezettel, illetve a képviseletében eljár�
 
 (5) Az adósságkezelési és együttműködési megállapodás előírhatja, hogy a bérlő egyéb, az általa lakott ingatlannal kapcsolatos, a NET tv. 23. § i) pontja alapján megszűnt bérleti jogviszony fennállása alatt az általa felhalmozott, lejárt esedékességű tartozásokat – így különösen a társasházi közös költség tartozást – a határozott idejű bérleti jogviszony fennállása alatt köteles megfizetni.
 
-[^44]: A 10/B. § (4) bekezdése a 81/2014. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^44]: A 10/B. § (1) bekezdés b) pontja a 245/2015. (IX. 8.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^45]: A 10/B. § (4) bekezdése a 81/2014. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.

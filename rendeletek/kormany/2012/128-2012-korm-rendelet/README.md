@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-128-20-
 | 2014-09-25 | 2012-128-20-22.10 | 243/2014. (IX. 24.) Korm. rendelet |
 | 2015-01-01 | 2012-128-20-22.11 | 390/2014. (XII. 31.) Korm. rendelet |
 | 2015-03-01 | 2012-128-20-22.12 | 24/2015. (II. 20.) Korm. rendelet |
+| 2015-09-09 | 2012-128-20-22.13 | 245/2015. (IX. 8.) Korm. rendelet |
