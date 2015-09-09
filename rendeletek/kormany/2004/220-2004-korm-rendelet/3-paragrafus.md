@@ -94,7 +94,11 @@
 
 46.[^24] jó ökológiai állapot: a felszíni víztestre meghatározott környezeti célkitűzések elérésének lehetőségét biztosító ökológiai állapot, amely azzal jellemezhető, hogy a biológiai minőségi elemek, az ökológiát támogató fizikai-kémiai elemek és a vízgyűjtő-gazdálkodási tervről szóló miniszteri rendeletben meghatározott, egyéb specifikus szennyező anyagok koncentrációja nem haladja meg a vízminőségi határértékek által meghatározott koncentráció szintjét;
 
-47.[^25] bióta: adott élőhelyen található élőlények összessége.
+47.[^25] bióta: adott élőhelyen található élőlények összessége;
+
+48.[^26] mátrix: a vízi környezet eleme, nevezetesen víz, üledék vagy bióta;
+
+49.[^27] bióta-taxon: tetszőleges szintű rendszertani kategóriába tartozó speciális – környezetminősítésre alkalmas – vízi élőlénycsoport.
 
 [^5]: A 3. § 3. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^6]: A 3. § 5. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
@@ -117,3 +121,5 @@
 [^23]: A 3. § 45. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^24]: A 3. § 46. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^25]: A 3. § 47. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^26]: A 3. § 48. pontját a 248/2015. (IX. 8.) Korm. rendelet 4. §-a iktatta be.
+[^27]: A 3. § 49. pontját a 248/2015. (IX. 8.) Korm. rendelet 4. §-a iktatta be.

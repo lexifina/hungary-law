@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-220-20-
 | 2014-01-02 | 2004-220-20-22.21 | 208/2006. (X. 16.) Korm. rendelet |
 | 2015-01-01 | 2004-220-20-22.22 | 310/2014. (XII. 11.) Korm. rendelet |
 | 2015-07-01 | 2004-220-20-22.23 | 310/2014. (XII. 11.) Korm. rendelet |
+| 2015-09-09 | 2004-220-20-22.24 | 248/2015. (IX. 8.) Korm. rendelet |

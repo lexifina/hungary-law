@@ -2,27 +2,27 @@
 
 ## A) A fő szennyező anyagok indikatív listája
 
-## 1. Szerves halogén vegyületek és olyan anyagok, amelyek ilyen vegyületeket alkothatnak a vízi környezetben.
+## 1. Szerves halogén vegyületek és olyan anyagok, amelyek ilyen vegyületeket alkothatnak a vízi környezetben,
 
-## 2. Szerves foszforvegyületek.
+## 2. Szerves foszforvegyületek,
 
-## 3. Szerves ónvegyületek.
+## 3. Szerves ónvegyületek,
 
-## 4. Anyagok és készítmények, vagy ezek lebomlási termékei, amelyekről bebizonyosodott, hogy karcinogén vagy mutagén tulajdonságokkal rendelkeznek, vagy pedig olyan tulajdonságokkal, amelyek kedvezőtlen hatással vannak a szteroidogén, thyroid, szaporodási vagy endokrin függő funkciókra a vízikörnyezetben vagy azon keresztül.
+## 4. Anyagok és készítmények vagy ezek lebomlási termékei, amelyekről bebizonyosodott, hogy karcinogén vagy mutagén tulajdonságokkal rendelkeznek vagy pedig olyan tulajdonságokkal, amelyek kedvezőtlen hatással vannak a szteroidogén, thyroid, szaporodási vagy endokrin függő funkciókra a vízikörnyezetben vagy azon keresztül,
 
-## 5. Perzisztens szénhidrogének és perzisztens vagy bioakkumulációra hajlamos szerves toxikus anyagok.
+## 5. Perzisztens szénhidrogének és perzisztens vagy bioakkumulációra hajlamos szerves toxikus anyagok,
 
-## 6. Cianidok.
+## 6. Cianidok,
 
-## 7. Fémek és vegyületeik.
+## 7. Fémek és vegyületeik,
 
-## 8. Arzén és vegyületei.
+## 8. Arzén és vegyületei,
 
-## 9. Biocidok és növényvédő szerek.
+## 9. Biocidok és növényvédő szerek,
 
-## 10. Szuszpenzióban levő anyagok.
+## 10. Szuszpenzióban levő anyagok,
 
-## 11. Az eutrofizációt elősegítő anyagok (különösen a nitrátok és a foszfátok).
+## 11. Az eutrofizációt elősegítő anyagok (különösen a nitrátok és a foszfátok),
 
 ## 12. Az oxigénháztartásra kedvezőtlen hatással levő anyagok (és az olyan paraméterekkel mérhetők, mint a BOI és KOI).
 
@@ -30,231 +30,247 @@
 
 ## I. listába tartozó anyagok
 
-## 1. Higany
+## 1. Higany,
 
-## 2. Kadmium
+## 2. Kadmium,
 
-## 3. Hexaklórciklohexán (HCH)
+## 3. Hexaklórciklohexán (HCH),
 
-## 4. Széntetraklorid
+## 4. Széntetraklorid,
 
-## 5. DDT
+## 5. DDT,
 
-## 6. Pentaklórfenol
+## 6. Pentaklórfenol,
 
-## 7–10. Aldrin, Dieldrin, Endrin, Izodrin
+## 7–10. Aldrin, Dieldrin, Endrin, Izodrin,
 
-## 11. Hexaklórbenzol
+## 11. Hexaklórbenzol,
 
-## 12. Hexaklórbutadién
+## 12. Hexaklórbutadién,
 
-## 13. Triklórmetán (kloroform)
+## 13. Triklórmetán (kloroform),
 
-## 14. 1,2-diklóretán
+## 14. 1,2-diklóretán,
 
-## 15. Triklóretilén
+## 15. Triklóretilén,
 
-## 16. Perklóretilén
+## 16. Perklóretilén,
 
-## 17. Triklórbenzol
+## 17. Triklórbenzol.
 
 ## II. listába tartozó anyagok, anyagcsoportok
 
-## 1. Fémek és vegyületeik
+## 1. Fémek és vegyületeik,
 
-## 2. Biocidek és az I. listában nem szereplő származékaik
+## 2. Biocidek és az I. listában nem szereplő származékaik,
 
-## 3. A vízi környezetből emberi fogyasztásra kinyert termékekben káros íz- és/vagy szaghatást okozó anyagok és a vízben ilyen anyagokat előidéző vegyületek
+## 3. A vízi környezetből emberi fogyasztásra kinyert termékekben káros íz- és/vagy szaghatást okozó anyagok és a vízben ilyen anyagokat előidéző vegyületek,
 
-## 4. A szilícium mérgező vagy nem lebomló szerves vegyületei, továbbá a vízben ilyen vegyületeket alkotó anyagok, kivéve azokat, amelyek biológiailag ártalmatlanok, vagy a vízben rövid idő alatt ártalmatlan anyagokká alakulnak át
+## 4. A szilícium mérgező vagy nem lebomló szerves vegyületei, továbbá a vízben ilyen vegyületeket alkotó anyagok, kivéve azokat, amelyek biológiailag ártalmatlanok vagy a vízben rövid idő alatt ártalmatlan anyagokká alakulnak át,
 
-## 5. Szervetlen foszforvegyületek és elemi foszfor
+## 5. Szervetlen foszforvegyületek és elemi foszfor,
 
-## 6. Lebomló ásványolajok és kőolaj eredetű szénhidrogének
+## 6. Lebomló ásványolajok és kőolaj eredetű szénhidrogének,
 
-## 7. Cianidok és fluoridok
+## 7. Cianidok és fluoridok,
 
-## 8. Az oxigénháztartást károsan befolyásoló anyagok, elsősorban ammónia, nitritek
+## 8. Az oxigénháztartást károsan befolyásoló anyagok, elsősorban ammónia, nitritek,
 
-## 9. Azbeszt
+## 9. Azbeszt.
 
 ## C) A következőkben felsorolt I. listába tartozó anyagok kibocsátása tilos
 
-## 1. Hexaklór-ciklohexán (HCH)
+## 1. Hexaklór-ciklohexán (HCH),
 
-## 2. Aldrin
+## 2. Aldrin,
 
-## 3. Dieldrin
+## 3. Dieldrin,
 
-## 4. Endrin
+## 4. Endrin,
 
-## 5. Isodrin
+## 5. Isodrin,
 
-## 6. DDT
+## 6. DDT,
 
-## 7. Pentaklórfenol
+## 7. Pentaklórfenol.
 
 ## D) A következőkben felsorolt I. listába tartozó anyagok kibocsátása az alábbi technológiákból tilos
 
 ## 1. Széntetraklorid
 
-## 1.1. Széntetraklorid gyártás perklórozással (mosást is tartalmazó eljárások és mosással nem járó eljárások)
+## 1.1. Széntetraklorid gyártás perklórozással (mosást is tartalmazó eljárások és mosással nem járó eljárások),
 
-## 1.2. Klórmetánok gyártása metán klórozással (beleértve a nagynyomású elektrolitikus klórfejlesztést) és metanolból
+## 1.2. Klórmetánok gyártása metán klórozással (beleértve a nagynyomású elektrolitikus klórfejlesztést) és metanolból,
 
-## 1.3. Klórozott fluorozott szénhidrogének (CFC) gyártása
+## 1.3. Klórozott fluorozott szénhidrogének (CFC) gyártása,
 
-## 1.4. Széntetrakloridot oldószerként felhasználó üzemek (a termékbe való beépülés nélkül)
+## 1.4. Széntetrakloridot oldószerként felhasználó üzemek (a termékbe való beépülés nélkül),
 
-## 1.5. Minden egyéb gyártási technológia
+## 1.5. Minden egyéb gyártási technológia.
 
 ## 2. Hexaklórbenzol (HCB)
 
-## 2.1. HCB gyártása és feldolgozása
+## 2.1. HCB gyártása és feldolgozása,
 
-## 2.2. Perklóretilén (PER) és széntetraklorid (CCl4) gyártása perklórozással
+## 2.2. Perklóretilén (PER) és széntetraklorid (CC14) gyártása perklórozással,
 
-## 2.3. Triklóretilén gyártása és/vagy perklóretilén gyártása más eljárással
+## 2.3. Triklóretilén gyártása és/vagy perklóretilén gyártása más eljárással,
 
-## 2.4. Kvintozént és teknazént gyártó üzemek
+## 2.4. Kvintozént és teknazént gyártó üzemek.
 
 ## 3. Hexaklórbutadién (HCBD)
 
-## 3.1. Perklóretilén (PER) és széntetraklorid (CCl4) gyártása perklórozással
+## 3.1. Perklóretilén (PER) és széntetraklorid (CC14) gyártása perklórozással,
 
-## 3.2. Triklóretilén gyártása és/vagy perklóretilén gyártása más eljárással
+## 3.2. Triklóretilén gyártása és/vagy perklóretilén gyártása más eljárással.
 
-## 4. Kloroform (CHCl3)
+## 4. Kloroform (CHC13)
 
-## 4.1. Klórmetánok gyártása metanolból vagy metanol és metán keverékéből
+## 4.1. Klórmetánok gyártása metanolból vagy metanol és metán keverékéből,
 
-## 4.2. Klórmetánok gyártása metán klórozásával
+## 4.2. Klórmetánok gyártása metán klórozásával,
 
-## 4.3. Klórozott fluorozott szénhidrogének (CFC) gyártása
+## 4.3. Klórozott fluorozott szénhidrogének (CFC) gyártása.
 
 ## 5. Triklóretilén (TRI)
 
-## 5.1. Triklóretilén (TRI) és perklóretilén (PER) gyártása
+## 5.1. Triklóretilén (TRI) és perklóretilén (PER) gyártása.
 
 ## 6. Perklóretilén (PER)
 
-## 6.1. Triklóretilén (TRI) és perklóretilén (PER) gyártása (TRI-PER) eljárással
+## 6.1. Triklóretilén (TRI) és perklóretilén (PER) gyártása (TRI-PER) eljárással,
 
-## 6.2. Széntetraklorid és perklóretilén gyártása (TETRA-PER) eljárás
+## 6.2. Széntetraklorid és perklóretilén gyártása (TETRA-PER) eljárás,
 
-## 6.3. Klórozott fluorozott szénhidrogének (CFC) gyártása
+## 6.3. Klórozott fluorozott szénhidrogének (CFC) gyártása.
 
 ## 7. Triklórbenzol (TCB)
 
-## 7.1. TCB gyártása hexaklórciklohexán (HCH) dehidroklórozásával és/vagy TCB feldolgozása
+## 7.1. TCB gyártása hexaklórciklohexán (HCH) dehidroklórozásával és/vagy TCB feldolgozása,
 
-## 7.2. Klórbenzol gyártása és/vagy feldolgozása benzol klórozásával
+## 7.2. Klórbenzol gyártása és/vagy feldolgozása benzol klórozásával.
 
 ## E) Az elsőbbségi és elsőbbségi veszélyes anyagok, anyagcsoportok listája
 
 |  | A | B | C | D | E |
 
-| 1 | Sorszám | CAS-számi | EU-számii | Az elsőbbségi anyag neveiii | Elsőbbségi veszélyes anyagként azonosítva |
+| 1. | Sorszám | CAS-szám(1) | EU-szám(2) | Az elsőbbségi anyag neve(3) | Elsőbbségi veszélyes anyagként azonosítva |
 
-| 2 | (1) | 15972-60-8 | 240-110-8 | Alaklór |  |
+| 2. | (1) | 15972-60-8 | 240-110-8 | Alaklór |  |
 
-| 3 | (2) | 120-12-7 | 204-371-1 | Antracén | X |
+| 3. | (2) | 120-12-7 | 204-371-1 | Antracén |  |
 
-| 4 | (3) | 1912-24-9 | 217-617-8 | Atrazin |  |
+| 4. | (3) | 1912-24-9 | 217-617-8 | Atrazin |  |
 
-| 5 | (4) | 71-43-2 | 200-753-7 | Benzol |  |
+| 5. | (4) | 71-43-2 | 200-753-7 | Benzol |  |
 
-| 6 | (5) | nem alkalmazható | nem alkalmazható | Brómozott difeniléteriv | Xv |
+| 6. | (5) | nem alkalmazható | nem alkalmazható | Brómozott difeniléter | X(4) |
 
-| 7 | 32534-81-9 | nem alkalmazható | pentabróm-difeniléter (rokonvegyület-számok: 28., 47., 99., 100., 153. és 154.) |  |
+| 7. | (6) | 7440-43-9 | 231-152-8 | Kadmium és vegyületei | X |
 
-| 8 | (6) | 7440-43-9 | 231-152-8 | Kadmium és vegyületei | X |
+| 8. | (7) | 85535-84-8 | 287-476-5 | Klóralkánok, C10-13 | X |
 
-| 9 | (7) | 85535-84-8 | 287-476-5 | Klóralkánok, C10-13 iv | X |
+| 9. | (8) | 470-90-6 | 207-432-0 | Klórfenvinfosz |  |
 
-| 10 | (8) | 470-90-6 | 207-432-0 | Klórfenvinfosz |  |
+| 10. | (9) | 2921-88-2 | 220-864-4 | Klórpirifosz (etilklórpirifosz) |  |
 
-| 11 | (9) | 2921-88-2 | 220-864-4 | Klórpirifosz (etilklórpirifosz) |  |
+| 11. | (10) | 107-06-2 | 203-458-1 | 1,2-diklór-etán |  |
 
-| 12 | (10) | 107-06-2 | 203-458-1 | 1,2-diklór-etán |  |
+| 12. | (11) | 75-09-2 | 200-838-9 | Diklór-metán |  |
 
-| 13 | (11) | 75-09-2 | 200-838-9 | Diklór-metán |  |
+| 13. | (12) | 117-81-7 | 204-211-0 | Di[2-etilhexil]ftalát (DEHP) | X |
 
-| 14 | (12) | 117-81-7 | 204-211-0 | Di[2-etilhexil]ftalát (DEHP) |  |
+| 14. | (13) | 330-54-1 | 206-354-4 | Diuron |  |
 
-| 15 | (13) | 330-54-1 | 206-354-4 | Diuron |  |
+| 15. | (14) | 115-29-7 | 204-079-4 | Endoszulfán |  |
 
-| 16 | (14) | 115-29-7 | 204-079-4 | Endoszulfán | X |
+| 16. | (15) | 206-44-0 | 205-912-4 | Fluorantén |  |
 
-| 17 | (15) | 206-44-0 | 205-912-4 | Fluoranténvi |  |
+| 17. | (16) | 118-74-1 | 204-273-9 | Hexaklór-benzol | X |
 
-| 18 | (16) | 118-74-1 | 204-273-9 | Hexaklór-benzol | X |
+| 18. | (17) | 87-68-3 | 201-765-5 | Hexaklór-butadién | X |
 
-| 19 | (17) | 87-68-3 | 201-765-5 | Hexaklór-butadién | X |
+| 19. | (18) | 608-73-1 | 210-168-9 | Hexaklór-ciklohexán | X |
 
-| 20 | (18) | 608-73-1 | 210-158-9 | Hexaklór-ciklohexán | X |
+| 20. | (19) | 34123-59-6 | 251-835-4 | Izoproturon |  |
 
-| 21 | (19) | 34123-59-6 | 251-835-4 | Izoproturon |  |
+| 21. | (20) | 7439-92-1 | 231-100-4 | Ólom és vegyületei |  |
 
-| 22 | (20) | 7439-92-1 | 231-100-4 | Ólom és vegyületei |  |
+| 22. | (21) | 7439-97-6 | 231-106-7 | Higany és vegyületei | X |
 
-| 23 | (21) | 7439-97-6 | 231-106-7 | Higany és vegyületei | X |
+| 23. | (22) | 91-20-3 | 202-049-5 | Naftalin |  |
 
-| 24 | (22) | 91-20-3 | 202-049-5 | Naftalin |  |
+| 24. | (23) | 7440-02-0 | 231-111-4 | Nikkel és vegyületei |  |
 
-| 25 | (23) | 7440-02-0 | 231-111-14 | Nikkel és vegyületei |  |
+| 25. | (24) | nem alkalmazható | nem alkalmazható | Nonilfenol | X(5) |
 
-| 26 | (24) | 25154-52-3 | 246-672-0 | Nonilfenol | X |
+| 26. | (25) | nem alkalmazható | nem alkalmazható | Oktilfenol(6) |  |
 
-| 27 | 104-40-5 | 203-199-4 | (4-nonilfenol) | X |
+| 27. | (26) | 608-93-5 | 210-172-0 | Pentaklór-benzol | X |
 
-| 28 | (25) | 1806-26-4 | 217-302-5 | Oktilfenol |  |
+| 28. | (27) | 87-86-5 | 201-778-6 | Pentaklór-fenol |  |
 
-| 29 | 140-66-9 | nem alkalmazható | (4-[1,1’,3,3’-tetrametil-butil] fenol) |  |
+| 29. | (28) | nem alkalmazható | nem alkalmazható | Poliaromás szénhidrogének (PAH)(7) | X |
 
-| 30 | (26) | 608-93-5 | 210-172-5 | Pentaklór-benzol | X |
+| 30. | (29) | 122-34-9 | 204-535-2 | Simazin |  |
 
-| 31 | (27) | 87-86-5 | 231-152-8 | Pentaklór-fenol |  |
+| 31. | (30) | nem alkalmazható | nem alkalmazható | Tributil-ón vegyületek | X(8) |
 
-| 32 | (28) | nem alkalmazható | nem alkalmazható | Poliaromás szénhidrogének | X |
+| 32. | (31) | 12002-48-1 | 234-413-4 | Triklór-benzolok |  |
 
-| 33 | 50-32-8 | 200-028-5 | (Benzo[a]pirén) | X |
+| 33. | (32) | 67-66-3 | 200-663-8 | Triklór-metán (kloroform) |  |
 
-| 34 | 205-99-2 | 205-911-9 | (Benzo[b]fluorantén) | X |
+| 34. | (33) | 1582-09-8 | 216-428-8 | Trifluralin |  |
 
-| 35 | 191-24-2 | 205-883-8 | (Benzo(g,h,i)perilén) | X |
+| 35. | (34) | 115-32-2 | 204-082-0 | Dikofol |  |
 
-| 36 | 207-08-9 | 205-916-6 | (Benzo[k]fluorantén) | X |
+| 36. | (35) | 1763-23-1 | 217-179-8 | Perfluoroktán-szulfonát és származékai (PFOS) | X |
 
-| 37 | 193-39-5 | 205-893-2 | (Indeno[1,2,3-cd]pirén) | X |
+| 37. | (36) | 124495-18-7 | nem alkalmazható | Kinoxifen |  |
 
-| 38 | (29) | 122-34-9 | 204-535-2 | Simazin |  |
+| 38. | (37) | nem alkalmazható | nem alkalmazható | Dioxinok és dioxin jellegű vegyületek | X(9) |
 
-| 39 | (30) | nem alkalmazható | nem alkalmazható | Tributil-ón vegyületek | X |
+| 39. | (38) | 74070-46-5 | 277-704-1 | Aklonifen |  |
 
-| 40 | 36643-28-4 | nem alkalmazható | (Tributil-ón-kation) | X |
+| 40. | (39) | 42576-02-3 | 255-894-7 | Bifenox |  |
 
-| 41 | (31) | 12002-48-1 | 234-413-4 | Triklór-benzolok |  |
+| 41. | (40) | 28159-98-0 | 248-872-3 | Cibutrin |  |
 
-| 42 | (32) | 67-66-3 | 200-663-8 | Triklór-metán (kloroform) |  |
+| 42. | (41) | 52315-07-8 | 257-842-9 | Cipermetrin(10) |  |
 
-| 43 | (33) | 1582-09-8 | 216-428-8 | Trifluralin |  |
+| 43. | (42) | 62-73-7 | 200-547-7 | Diklórfosz |  |
 
-## Megjegyzés
+| 44. | (43) | nem alkalmazható | nem alkalmazható | Hexabróm-ciklododekánok (HBCDD) | X(11) |
 
-## i CAS: Kémiai Nyilvántartó Szolgálat (Chemical Abstracts Service)
+| 45. | (44) | 76-44-8/ 1024-57-3 | 200-962-3/ 213-831-0 | Heptaklór és heptaklór-epoxid | X |
 
-## ii EU-szám: Létező Kereskedelmi Vegyi Anyagok Európai Jegyzéke (European Inventory of Existing Commercial Chemical Substances, EINECS) vagy Törzskönyvezett Vegyi Anyagok Európai Jegyzéke (European List of Notified Chemical Substances, ELINCS).
+| 46. | (45) | 886-50-0 | 212-950-5 | Terbutrin |  |
 
-## iii Amennyiben anyagok csoportjait választották ki, tipikus egyedi képviselőket tüntettek fel indikatív paraméterekként (zárójelben sorszám nélkül). Ezen anyagcsoportok esetében az indikatív paramétert analitikai módszerrel kell meghatározni.
+## Megjegyzés és jelmagyarázat:
 
-## iv Az anyagok ezen csoportjaiba rendes körülmények között jelentős számú egyedi vegyület tartozik. Jelen esetben megfelelő indikatív paraméterek nem adhatók meg.
+## (1) CAS: Vegyianyag Nyilvántartási Szolgálat (Chemical Abstracts Service).
 
-## v Kizárólag pentabróm-bifenil-éter (CAS-szám: 32534-81-9)
+## (2) EU-szám: Létező Kereskedelmi Vegyi Anyagok Európai Jegyzéke (EINECS) vagy Törzskönyvezett Vegyi Anyagok Európai Jegyzéke (ELINCS).
 
-## vi A fluorantin egyéb, veszélyesebb poliaromás szénhidrogének képviselőjeként szerepel a jegyzékben.
+## (3) Amennyiben anyagok csoportjait választották ki, kifejezett eltérő rendelkezés hiányában tipikus egyedi képviselőket határoztak meg a környezetminőségi előírások megállapításának összefüggésében.
 
-2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^198]
+## (4) Kizárólag tetra-, penta-, hexa- és heptabróm-difenil-éter (CAS -számok: 40088-47-9, 32534-81-9, 36483-60-0, illetve 68928-80-3).
+
+## (5) Nonilfenol (CAS 25154-52-3, EU 246-672-0), beleértve a 4-nonilfenol (CAS 104-40-5, EU 203-199-4) és a 4-nonilfenol (elágazó) (CAS 84852-15-3, EU 284-325-5) izomereket.
+
+## (6) Oktilfenol (CAS 1806-26-4, EU 217-302-5), beleértve a 4-[1,1’,3,3’-tetrametil-butil]-fenol (CAS 140-66-9, EU 205-426-2) izomert.
+
+## (7) Beleértve a benzo[a]pirént (CAS 50-32-8, EU 200-028-5), a benzo[b]fluorantént (CAS 205-99-2, EU 205-911-9), a benzo[g,h,i]perilént (CAS 191-24-2, EU 205-883-8), a benzo[k]fluorantént (CAS 207-08-9, EU 205-916-6), az indeno[1,2,3-cd]pirént (CAS 193-39-5, EU 205-893-2), és kivéve az antracént, a fluorantént és a naftalint, amelyeket külön felsorolás tartalmaz.
+
+## (8) Beleértve a tributil-ón-kationt (CAS 36643-28-4).
+
+## (9) Ez a következő vegyületekre vonatkozik: 7 poliklórozott dibenzo-p-dioxin (PCDD): 2,3,7,8-T4CDD (CAS 1746-01-6), 1,2,3,7,8-P5CDD (CAS 40321-76-4), 1,2,3,4,7,8-H6CDD (CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (CAS 57653-85-7), 1,2,3,7,8,9-H6CDD (CAS 19408-74-3), 1,2,3,4,6,7,8-H7CDD (CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (CAS 3268-87-9), 10 poliklórozott dibenzo-furán (PCDF): 2,3,7,8-T4CDF (CAS 51207-31-9), 1,2,3,7,8-P5CDF (CAS 57117-41-6), 2,3,4,7,8-P5CDF (CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (CAS 57117-44-9), 1,2,3,7,8,9-H6CDF (CAS 72918-21-9), 2,3,4,6,7,8-H6CDF (CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (CAS 67562-39-4), 1,2,3,4,7,8,9-H7CDF (CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (CAS 39001-02-0), 12 dioxin jellegű poliklórozott bifenil (PCB-DL): 3,3’,4,4’-T4CB (PCB 77, CAS 32598-13-3), 3,3’,4’,5-T4CB (PCB 81, CAS 70362-50-4), 2,3,3’,4,4’-P5CB (PCB 105, CAS 32598-14-4), 2,3,4,4’,5-P5CB (PCB 114, CAS 74472-37-0), 2,3’,4,4’,5-P5CB (PCB 118, CAS 31508-00-6), 2,3’,4,4’,5’-P5CB (PCB 123, CAS 65510-44-3), 3,3’,4,4’,5-P5CB (PCB 126, CAS 57465-28-8), 2,3,3’,4,4’,5-H6CB (PCB 156, CAS 38380-08-4), 2,3,3’,4,4’,5’-H6CB (PCB 157, CAS 69782-90-7), 2,3’,4,4’,5,5’-H6CB (PCB 167, CAS 52663-72-6), 3,3’,4,4’,5,5’-H6CB (PCB 169, CAS 32774-16-6), 2,3,3’,4,4’,5,5’-H7CB (PCB 189, CAS 39635-31-9).
+
+## (10) Az 52315-07-8 CAS-szám egy cipermetrin-izomerkeverékre vonatkozik: alfa-cipermetrin (CAS 67375-30-8), béta-cipermetrin (CAS 65731-84-2), théta-cipermetrin (CAS 71697-59-1) és zéta-cipermetrin (52315-07-8).
+
+## (11) Ez az 1,3,5,7,9,11-hexabróm-ciklododekánra (CAS 25637–99–4), az 1,2,5,6,9,10-hexabróm-ciklododekánra (CAS 3194–55–6), az α-hexabróm-ciklododekánra (CAS 134237–50–6), a β-hexabróm-ciklododekánra (CAS 134237–51–7) és a γ-hexabróm-ciklododekánra (CAS 134237–52–8) vonatkozik.
+
+2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^201]
 
 ## 2/I. A csatornabírság és a vízszennyezési bírság számítása
 
@@ -740,4 +756,4 @@ A vízvédelmi bírság mértéke, ha a kibocsátó
 
 | j) vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát | 200 000 Ft/eset |
 
-[^198]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése, az 558/2013. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^201]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése, az 558/2013. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
