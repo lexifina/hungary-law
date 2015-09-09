@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-89-20-2
 | 2015-04-18 | 2015-89-20-22.2 | 2010: CXXX. törvény |
 | 2015-09-01 | 2015-89-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-09-02 | 2015-89-20-22.4 | 2010: CXXX. törvény |
+| 2015-09-09 | 2015-89-20-22.5 | 249/2015. (IX. 8.) Korm. rendelet |

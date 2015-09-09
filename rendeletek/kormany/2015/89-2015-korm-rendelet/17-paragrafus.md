@@ -1,3 +1,3 @@
 ## 16. §[^5]
 
-[^5]: A 16. § a 25. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^5]: A 16. § a 249/2015. (IX. 8.) Korm. rendelet 19. § a) pontja alapján nem lép hatályba.
