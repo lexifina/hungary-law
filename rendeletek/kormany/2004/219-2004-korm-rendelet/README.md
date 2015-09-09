@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-219-20-
 | 2014-09-10 | 2004-219-20-22.25 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-01-01 | 2004-219-20-22.26 | 310/2014. (XII. 11.) Korm. rendelet |
 | 2015-04-01 | 2004-219-20-22.27 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2015-09-09 | 2004-219-20-22.28 | 248/2015. (IX. 8.) Korm. rendelet |

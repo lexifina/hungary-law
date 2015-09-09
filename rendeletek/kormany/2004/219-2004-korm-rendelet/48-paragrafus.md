@@ -10,7 +10,9 @@ d) a felszín alatti vizek szennyezés és állapotromlás elleni védelméről 
 
 e) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 7. cikk 3. pontjának, 12. cikk (1) és (3) bekezdésének;
 
-f) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) című, 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelvnek
+f) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) című, 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelvnek;
+
+g)[^284] a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006/118/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2014. június 20-i 2014/80/EU bizottsági irányelvnek
 
 ## való megfelelést szolgálja.
 
@@ -23,3 +25,4 @@ b) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^283]: A 48. § a 480/2013. (XII. 17.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^284]: A 48. § (1) bekezdés g) pontját a 248/2015. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
