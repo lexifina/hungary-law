@@ -252,9 +252,9 @@
 
 | 2. | 2011. | 2012. | 2013. | Összesen |
 
-| 3. | 45,95 | 0,00 | 93,26 | 139,21 |
+| 3. | 45,73 | 0,00 | 96,26 | 141,99 |
 
-| 4. | Többletkötelezettség-vállalás: 11,56 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 14,29 Mrd Ft |
 
 | 5. | Az Európai Szociális Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 0% |
 
@@ -266,7 +266,7 @@
 
 | 2. | 2007–2014. | 2014–2015. | Összesen |
 
-| 3. | 172,09 | 9,10 | 181,19 |
+| 3. | 171,44 | 12,47 | 183,91 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -278,23 +278,23 @@
 
 | 2. | 2011. | 2012. | 2013. |
 
-| 3. | 4.2.0 | Helyi hő- és hűtési energiaigény kielégítése megújuló energiaforrásokból | 19,55 | 0,00 | 0,00 | Helyi hő, hűtési és villamosenergia-igény kielégítése megújuló energiaforrásokkal. | nemzeti fejlesztési miniszter | – |
+| 3. | 4.2.0 | Helyi hő- és hűtési energiaigény kielégítése megújuló energiaforrásokból | 19,49 | 0,00 | 0,00 | Helyi hő, hűtési és villamosenergia-igény kielégítése megújuló energiaforrásokkal. | nemzeti fejlesztési miniszter | – |
 
 | 4. | 4.3.0 | Megújuló energia alapú térségfejlesztés | 1,58 | 0,00 | 0,00 | Megújuló energiaforrás-felhasználás térségfejlesztő hatással, mintaprojekt jelleggel. | nemzeti fejlesztési miniszter | – |
 
-| 5. | 4.4.0 | Megújuló energia alapú villamosenergia-, kapcsolt hő és villamosenergia-, valamint biometán termelés | 14,89 | 0,00 | 0,00 | Villamosenergia-előállítás napenergia, biomassza segítségével, vízenergia hasznosítása, biogáztermelés és felhasználás, geotermális energia hasznosítása, szélenergia hasznosítása, megújuló energiaforrások kombinálása. | nemzeti fejlesztési miniszter | – |
+| 5. | 4.4.0 | Megújuló energia alapú villamosenergia-, kapcsolt hő és villamosenergia-, valamint biometán termelés | 14,73 | 0,00 | 0,00 | Villamosenergia-előállítás napenergia, biomassza segítségével, vízenergia hasznosítása, biogáztermelés és felhasználás, geotermális energia hasznosítása, szélenergia hasznosítása, megújuló energiaforrások kombinálása. | nemzeti fejlesztési miniszter | – |
 
 | 6. | 4.7.0 | Geotermikus alapú hő-, illetve villamosenergia-termelő projektek előkészítési és projektfejlesztési tevékenységeinek támogatása | 0,62 | 0,00 | 0,00 | Geotermális projektek előkészítése. | nemzeti fejlesztési miniszter | – |
 
 | 7. | 4.9.0 | Épületenergetikai fejlesztések megújuló energiaforrás hasznosítással kombinálva | 9,31 | 0,00 | 0,00 | Épületek hőtechnikai adottságainak javítása, fűtési, hűtési használatimelegvíz-rendszerek korszerűsítése rendszerek korszerűsítése, világítási rendszerek korszerűsítése, megújuló energiaforrásokkal történő kombinálása (különösen napkollektor, biomassza, napelem, hőszivattyú). | nemzeti fejlesztési miniszter | – |
 
-| 8. | 4.10.0 | Megújuló energiaforrás alapú hő- és villamosenergia-termelés | 0,00 | 0,00 | 89,76 | Napenergia (használati melegvíz, fűtési igény), biomassza (használati melegvíz, fűtési igény), biogáz-, depóniagáz-előállítás, geotermikus energia használata, hőszivattyús rendszerek kialakítása, hűtés megújuló energiaforrással, megújuló energiaforrások kombinálása, megújuló energiaforrások közösségi távfűtő rendszerben történő hasznosítása, villamos energia előállítása megújuló energiaforrásból (kivéve az értékesítési célú napelem-beruházások, vállalkozások részére). | nemzeti fejlesztési miniszter | belügyminiszter |
+| 8. | 4.10.0 | Megújuló energiaforrás alapú hő- és villamosenergia-termelés | 0,00 | 0,00 | 92,76 | Napenergia (használati melegvíz, fűtési igény), biomassza (használati melegvíz, fűtési igény), biogáz-, depóniagáz-előállítás, geotermikus energia használata, hőszivattyús rendszerek kialakítása, hűtés megújuló energiaforrással, megújuló energiaforrások kombinálása, megújuló energiaforrások közösségi távfűtő rendszerben történő hasznosítása, villamos energia előállítása megújuló energiaforrásból (kivéve az értékesítési célú napelem-beruházások, vállalkozások részére). | nemzeti fejlesztési miniszter | belügyminiszter |
 
 | 9. | 4.11.0 | Napelemes rendszer fejlesztése költségvetési és állami szervek villamos-energia költségének csökkentése érdekében | 0,00 | 0,00 | 3,50 | A konstrukció célja napelemes rendszer fejlesztése költségvetési és állami szervek villamos-energia költségének csökkentése érdekében. | nemzeti fejlesztési miniszter | – |
 
 4.3.2. Az Európai Pénzügyi Stabilitási Mechanizmus keretében a 4.3.1. pontban foglalt táblázat C–E oszlopában meghatározott támogatás uniós hányada 85%-ról 95%-ra növekedhet. Ez a rendelkezésre álló keretet csökkenti, ha nem kerül sor költségvetési kompenzációra.
 
-4.3.3. A 4.3.1. pontban foglalt táblázat 5., 8. és 9. sora szerinti 4.4.0, 4.10.0 és 4.11.0 konstrukció 11,56 Mrd Ft többletkötelezettség-vállalást tartalmaz.
+4.3.3. A 4.3.1. pontban foglalt táblázat 5., 8. és 9. sora szerinti 4.4.0, 4.10.0 és 4.11.0 konstrukció 14,29 Mrd Ft többletkötelezettség-vállalást tartalmaz.
 
 5. Az 5. prioritás: Hatékony energia-felhasználás
 
@@ -521,4 +521,4 @@
 [^3]: Az 1. pont f) alpontját az 1367/2015. (VI. 3.) Korm. határozat 3. pontja iktatta be.
 [^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1371/2015. (VI. 4.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
 [^5]: A 4. pontot az 1464/2015. (VII. 15.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1507/2015. (VII. 23.) Korm. határozat 2. pontja.
-[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja, az 1583/2015. (IX. 4.) Korm. határozat 4. pontja szerint módosított szöveg. [Az 1371/2015. (VI. 4.) Korm. határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át. Az 1464/2015. (VII. 15.) Korm. határozat 2. pont c) pont cb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „61,79” szövegrész helyébe a „71,61” szöveg lép, nem vezethető át. Az 1507/2015. (VII. 15.) Korm. határozat 1. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „71,61” szövegrész helyébe a „81,42” szöveg, nem vezethető át. ]
+[^6]: Az 1. melléklet az 1180/2015. (III. 25.) Korm. határozat 2–3. pontja, az 1181/2015. (III. 25.) Korm. határozat 2. pontja, az 1290/2015. (V. 5.) Korm. határozat 3. pontja, az 1292/2015. (V. 5.) Korm. határozat 3. és 4. pontja, az 1294/2015. (V. 6.) Korm. határozat 7. pontja, az 1357/2015. (VI. 2.) Korm. határozat 6–7. pontja, az 1358/2015. (VI. 2.) Korm. határozat 3–4. pontja, az 1367/2015. (VI. 3.) Korm. határozat 4. pontja, az 1371/2015. (VI. 4.) Korm. határozat 2. pontja, az 1416/2015. (VI. 24.) Korm. határozat 3. pontja, az 1464/2015. (VII. 15.) Korm. határozat 2. pont b)–e) pontja, az 1507/2015. (VII. 23.) Korm. határozat 1. pontja, az 1508/2015. (VII. 23.) Korm. határozat 3. pontja, az 1540/2015. (VIII. 3.) Korm. határozat 1. pontja, az 1558/2015. (VIII. 7.) Korm. határozat 3. pontja, az 1583/2015. (IX. 4.) Korm. határozat 4. pontja, az 1627/2015. (IX. 8.) Korm. határozat 3. pontja szerint módosított szöveg. [Az 1371/2015. (VI. 4.) Korm. határozat 2. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „46,81” szövegrész helyébe a „61,79” szöveg lép, nem vezethető át. Az 1464/2015. (VII. 15.) Korm. határozat 2. pont c) pont cb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „61,79” szövegrész helyébe a „71,61” szöveg lép, nem vezethető át. Az 1507/2015. (VII. 15.) Korm. határozat 1. pont b) pont bb) alpontjával elrendelt módosítás, amely szerint az 1. melléklet 5.2.2. pontjában foglalt táblázat B:3 mezőjében a „71,61” szövegrész helyébe a „81,42” szöveg, nem vezethető át. ]

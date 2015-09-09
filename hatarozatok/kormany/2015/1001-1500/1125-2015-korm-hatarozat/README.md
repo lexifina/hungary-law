@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1125-30
 | 2015-08-04 | 2015-1125-30-22.12 | 1180/2015. (III. 25.) Korm. határozat |
 | 2015-08-08 | 2015-1125-30-22.13 | 1180/2015. (III. 25.) Korm. határozat |
 | 2015-09-05 | 2015-1125-30-22.14 | 1180/2015. (III. 25.) Korm. határozat |
+| 2015-09-09 | 2015-1125-30-22.15 | 1180/2015. (III. 25.) Korm. határozat |
