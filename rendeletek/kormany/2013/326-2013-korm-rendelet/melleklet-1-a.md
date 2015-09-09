@@ -1,23 +1,13 @@
-1/A. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^129]
-
-1. A Pedagógus I. fokozatba történő besorolás értékelése 2015. évben
+## A Pedagógus I. és Pedagógus II. fokozat elérésére irányuló minősítő vizsga és minősítési eljárás esetében
 
 |  | A | B |
 
 | 1 | Az értékelés elemei | % |
 
-| 2 | A pedagógus teljes szakmai tevékenységét bemutató portfólió értékelése A portfólióvédés értékelése | 60 |
+| 2 | A pedagógus teljes szakmai tevékenységét bemutató portfólió értékelése. | 60 |
 
-| 3 | Ha a munkakör részét képezi foglalkozás, tanóra megtartása, a pedagógus által vezetett foglalkozás értékelése Ha a munkakör részét nem képezi foglalkozás, tanóra megtartása, a munkakör ellátása során keletkezett dokumentum elemzése | 40 |
+| 3 | Ha a munkakör részét képezi foglalkozás, tanóra megtartása, a pedagógus által vezetett foglalkozás értékelése. Ha a munkakör részét nem képezi foglalkozás, tanóra megtartása, a munkakör ellátása során keletkezett dokumentum elemzése. Ettől eltérően, a Gyvt. hatálya alá tartozó intézmény pedagógusa esetében az értékelés az OH által kidolgozott, a miniszter által jóváhagyott és az OH honlapján közzétettek szerint történik. | 40 |
 
-2. A Pedagógus II. fokozatba történő besorolás értékelése 2015. évben
+1/A. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^84]
 
-|  | A | B |
-
-| 1 | Az értékelés elemei | % |
-
-| 2 | A pedagógus teljes szakmai tevékenységét bemutató portfólió értékelése A portfólióvédés értékelése | 60 |
-
-| 3 | Ha a munkakör részét képezi foglalkozás, tanóra megtartása, a pedagógus által vezetett foglalkozás értékelése Ha a munkakör részét nem képezi foglalkozás, tanóra megtartása, a munkakör ellátása során keletkezett dokumentum elemzése | 40 |
-
-[^129]: Az 1/A. mellékletet a 89/2015. (IV. 9.) Korm. rendelet 20. §-a iktatta be.
+[^84]: Az 1/A. mellékletet a 89/2015. (IV. 9.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 249/2015. (IX. 8.) Korm. rendelet 17. § l) pontja.

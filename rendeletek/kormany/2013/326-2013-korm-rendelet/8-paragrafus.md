@@ -1,42 +1,31 @@
-8. § (1) A portfólió egy olyan dokumentumgyűjtemény, amely alapján végigkísérhető a pedagóguskompetenciák fejlődése, a pedagógus szakmai útja, tevékenysége, nehézségei és sikerei egyrészt a tények tükrében, másrészt a pedagógus reflexiói, értelmezése alapján. A portfólió tartalmazza:
+8. § (1) A minősítő vizsga és a Pedagógus II. fokozat megszerzéséhez szükséges minősítési eljárás részei:
 
-a) a szakmai önéletrajzot,
+a) a portfólió feltöltése,
 
-b)[^40] a nevelő-oktató munka alap- és szabadon választható dokumentumait,
+b) a portfólió előzetes vizsgálata,
 
-c) a pedagógiai szakmai és egyéb tevékenységek bemutatását, dokumentumait,
+c) ha a munkakör részét képezi foglalkozás, tanóra megtartása – ide nem értve az óvodapszichológus, iskolapszichológus, pszichológus közvetlen pszichológiai foglalkozását – a foglalkozás, vagy az óra látogatása,
 
-d) önálló alkotói, művészeti tevékenységek bemutatását, dokumentumait,
+d) az információk értékelése, felkészülés a portfólióvédés lebonyolítására, ennek során a feltöltött portfólió alapján megfogalmazott kérdéseknek a portfólióvédés előtt legalább hét nappal a pedagógus részére történő eljuttatása, valamint
 
-e) a pedagógust foglalkoztató intézmény intézményi környezetének rövid bemutatását, valamint
+e) a portfólióvédés.
 
-f) a szakmai életút értékelését.
+(2) A Mesterpedagógus fokozat eléréséhez szükséges minősítési eljárás részei:
 
-(2) A minősítési eljárás során a pedagógus értékelésének elemei, az értékelés szempontjai a pedagóguskompetenciákhoz kapcsolódnak, indikátorok meghatározásával.
+a) a felkészülési terv elkészítése,
 
-(3) A köznevelési intézményben alkalmazott pedagógus értékelésének elemei, a pedagóguskompetenciák:
+b) a Mesterpedagógusi pályázat elkészítése,
 
-a) szakmai feladatok, szaktudományos, szaktárgyi, tantervi tudás,
+c) a Mesterpedagógusi pályázat bemutatása és védése.
 
-b) pedagógiai folyamatok, tevékenységek tervezése és a megvalósításukhoz kapcsolódó önreflexiók,
+(3) A Kutatótanár fokozat eléréséhez szükséges minősítési eljárás részei:
 
-c) a tanulás támogatása,
+a) a Kutatótanári pályázat elkészítése, valamint
 
-d) a tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesülése, a hátrányos helyzetű, sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló többi gyermekkel, tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges megfelelő módszertani felkészültség,
+b) a Kutatótanári pályázat bemutatása és védése.
 
-e) a tanulói csoportok, közösségek alakulásának segítése, fejlesztése, esélyteremtés, nyitottság a különböző társadalmi-kulturális sokféleségre, integrációs tevékenység, osztályfőnöki tevékenység,
+(4) A Mesterpedagógus, a Kutatótanár fokozat eléréséhez szükséges minősítési eljárás része a pályázati információk értékelése, felkészülés a bemutató portfólióvédés lebonyolítására, ennek során – a minősítő bizottság által – a feltöltött bemutató portfólió alapján megfogalmazott kérdéseknek a portfólióvédés előtt legalább öt nappal a pedagógus részére történő eljuttatása.
 
-f) pedagógiai folyamatok és a tanulók személyiségfejlődésének folyamatos értékelése, elemzése,
+(5) A Mesterpedagógus és a Kutatótanár fokozatot szerzett pedagógusnak – kivéve az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként részt vevő, szaktanácsadói feladatokat ellátó, vagy pedagógiai szakmai szolgáltatási feladatot ellátó pedagógust – a Mesterpedagógus vagy Kutatótanár fokozatba sorolásától számított 5 év elteltével – az adott fokozat megerősítése érdekében – a Mesterpedagógus, illetve Kutatótanár pályázatát meg kell újítania. A megújítás keretében a pedagógusnak a pályázata megvalósulását kell értékelnie, illetve bemutatnia.
 
-g) kommunikáció és szakmai együttműködés, problémamegoldás, valamint
-
-h) elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért.
-
-(4) A (3) bekezdés szerinti pedagógus értékelési elemeket, pedagóguskompetenciákat a pedagógiai szakszolgálati intézményben és a pedagógiai-szakmai szolgáltató intézményben pedagógus-munkakörben, pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottak vonatkozásában azzal az eltéréssel kell alkalmazni, hogy csak a munkakörük ellátásával összefüggésben értelmezhető pedagógus értékelési elemek, pedagóguskompetenciák kerülnek figyelembevételre.
-
-(5) A minősítő vizsga és minősítési eljárás során használt kérdőívek, értékelőlapok, megfigyelési, önértékelési szempontok, feldolgozási segédletek és szempontsorok (a továbbiakban együtt: pedagógusértékelési eszközök) egységesek és nyilvánosak.
-
-(6)[^41] A portfólió részletes követelményeit, a tartalmi elemekhez tartozó alap- és szabadon választható dokumentumok listáját az OH dolgozza ki, és teszi közzé az OH honlapján. A pedagógusértékelési eszközöket az OH dolgozza ki, és a miniszter hagyja jóvá. A miniszter által jóváhagyott pedagógusértékelési eszközöket az OH közzéteszi a honlapján.
-
-[^40]: A 8. § (1) bekezdés b) pontja a 268/2014. (XI. 3.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^41]: A 8. § (6) bekezdése a 89/2015. (IV. 9.) Korm. rendelet 8. §-ával megállapított szöveg.
+(6) Ha a Mesterpedagógus és a Kutatótanár fokozatot szerzett pedagógus a pályázatát nem újítja meg, őt vissza kell sorolni a Mesterpedagógus és a Kutatótanár fokozatba történt besorolását megelőzően elért legmagasabb fokozatba és a fizetési kategória megállapításához figyelembe vehető jogviszonyának megfelelő kategóriába kell besorolni.

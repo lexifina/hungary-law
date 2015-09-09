@@ -1,73 +1,69 @@
-## Köznevelési intézmények
+|  | A | B | C | D | E | F | G | H | I | J | K |
 
-| Munkakör megnevezése | Fizetési osztályok |
+| 1 | Munkakör megnevezése | A | B | C | D | E | F | G | H | I | J |
 
-| A | B | C | D | E | F | G | H | I | J |
+| 2 | Nevelő és oktató munkát közvetlenül segítő munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-| Nevelő és oktató munkát közvetlenül segítő munkakörök |
+| 3 | óvodatitkár, iskolatitkár, kollégiumi titkár |  |  | * | * | * | * |  |  |  |  |
 
-| óvodatitkár, iskolatitkár, kollégiumi titkár |  |  | * | * | * | * |  |  |  |  |
+| 4 | dajka | * | * | * | * |  |  |  |  |  |  |
 
-| dajka | * | * | * | * |  |  |  |  |  |  |
+| 5 | gondozónő és takarító | * | * | * | * |  |  |  |  |  |  |
 
-| gondozónő és takarító | * | * | * | * |  |  |  |  |  |  |
+| 6 | laboráns |  |  | * | * | * | * |  |  |  |  |
 
-| laboráns |  |  | * | * | * | * |  |  |  |  |
+| 7 | könyvtáros |  |  |  |  | * | * | * | * | * | * |
 
-| pedagógiai asszisztens |  |  | * | * | * | * |  |  |  |  |
+| 8 | szakorvos |  |  |  |  |  |  |  |  | * | * |
 
-| könyvtáros |  |  | * | * | * | * |  |  |  |  |
+| 9 | pedagógiai felügyelő |  |  |  |  |  | * | * | * | * | * |
 
-| szakorvos |  |  |  |  |  |  |  |  | * | * |
+| 10 | gyermek- és ifjúságvédelmi felügyelő |  |  | * | * | * | * |  |  |  |  |
 
-| gyermek- és ifjúságvédelmi felügyelő |  |  | * | * | * | * |  |  |  |  |
+| 11 | pedagógiai asszisztens |  |  | * | * | * | * |  |  |  |  |
 
-| gyógypedagógiai asszisztens |  |  |  |  | * | * |  |  |  |  |
+| 12 | gyógypedagógiai asszisztens |  |  |  |  | * | * |  |  |  |  |
 
-| szabadidő-szervező |  |  |  |  | * | * | * | * | * | * |
+| 13 | szabadidő-szervező |  |  |  |  | * | * | * | * | * | * |
 
-| pszichopedagógus |  |  |  |  |  | * | * | * | * | * |
+| 14 | pszichopedagógus |  |  |  |  |  | * | * | * | * | * |
 
-| műszaki vezető |  |  | * | * | * | * |  |  |  |  |
+| 15 | műszaki vezető |  |  | * | * | * | * |  |  |  |  |
 
-| szakmacsoportos képzésben vezető |  |  | * | * | * | * |  |  |  |  |
+| 16 | ápoló |  |  | * | * | * | * |  |  |  |  |
 
-| ápoló |  |  | * | * | * | * |  |  |  |  |
+| 17 | hangszerkarbantartó |  |  |  | * |  |  |  |  |  |  |
 
-| hangszerkarbantartó |  |  |  | * |  |  |  |  |  |  |
+| 18 | jelmez- és viselettáros |  | * | * | * |  |  |  |  |  |  |
 
-| úszómester |  |  |  | * |  |  |  |  |  |  |
+| 19 | úszómester |  |  |  | * |  |  |  |  |  |  |
 
-| rendszergazda |  |  |  |  | * | * | * | * |  |  |
+| 20 | rendszergazda |  |  |  |  | * | * | * | * |  |  |
 
-| gyermek-és ifjúságvédelmi felelős |  |  |  |  | * | * | * | * | * | * |
+| 21 | Egyéb munkakörök |  |  |  |  |  |  |  |  |  |  |
 
-| szociális munkás |  |  |  | * | * | * | * | * | * | * |
+| 22 | munkaügyi, személyzeti előadó |  |  |  | * | * | * |  |  |  |  |
 
-| Egyéb munkakörök |
+| 23 | gazdasági dolgozó |  |  | * | * | * | * | * | * |  |  |
 
-| munkaügyi, személyzeti előadó |  |  |  | * | * | * |  |  |  |  |
+| 24 | műszaki dolgozó |  | * | * | * | * | * |  |  |  |  |
 
-| gazdasági dolgozó |  |  | * | * | * | * |  |  |  |  |
+| 25 | oktatástechnikus |  |  | * | * | * | * |  |  |  |  |
 
-| műszaki dolgozó |  | * | * | * | * | * |  |  |  |  |
+| 26 | számítógép-kezelő |  |  |  | * | * | * |  |  |  |  |
 
-| oktatástechnikus |  |  | * | * | * | * |  |  |  |  |
+| 27 | számítógép-rendszerprogramozó |  |  |  | * | * | * |  |  |  |  |
 
-| számítógép-kezelő |  |  |  | * | * | * |  |  |  |  |
+| 28 | ügyviteli gépkezelő |  |  |  | * | * | * |  |  |  |  |
 
-| számítógép-rendszerprogramozó |  |  |  | * | * | * |  |  |  |  |
+| 29 | ügyviteli dolgozó |  |  | * | * | * | * |  |  |  |  |
 
-| ügyviteli gépkezelő |  |  |  | * | * | * |  |  |  |  |
+| 30 | könyvtáros technikus |  |  |  | * | * | * |  |  |  |  |
 
-| ügyviteli dolgozó |  |  | * | * | * | * |  |  |  |  |
+| 31 | könyvtáros asszisztens |  |  |  | * | * | * |  |  |  |  |
 
-| könyvtáros technikus |  |  |  | * | * | * |  |  |  |  |
+| 32 | kisegítő dolgozó | * | * | * |  |  |  |  |  |  |  |
 
-| könyvtáros asszisztens |  |  |  | * | * | * |  |  |  |  |
+3. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^86]
 
-| kisegítő dolgozó | * | * | * |  |  |  |  |  |  |  |
-
-3. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^131]
-
-[^131]: A 3. melléklet a 146/2015. (VI. 12.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^86]: A 3. melléklet a 146/2015. (VI. 12.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.

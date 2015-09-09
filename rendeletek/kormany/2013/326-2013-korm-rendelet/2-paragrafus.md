@@ -2,61 +2,34 @@
 
 ## A PEDAGÓGUSOK ELŐMENETELI ÉS ILLETMÉNYRENDSZERE
 
-## 1. A köznevelési intézményben pedagógus-munkakörben foglalkoztatottak fokozatokba történő besorolásához szükséges követelmények
+## 1/B. [^2] A köznevelési intézményben pedagógus-munkakörben foglalkoztatottak fokozatokba történő besorolásához szükséges követelmények
 
-2. § (1) A köznevelési intézményben a munkakör betöltéséhez előírt végzettséggel és szakképzettséggel, valamint két évnél kevesebb szakmai gyakorlattal rendelkező pedagógus-munkakörben foglalkoztatottat (a továbbiakban: pedagógus) Gyakornok fokozatba (a továbbiakban: gyakornok) kell besorolni. A gyakornok számára a foglalkoztatási jogviszony létesítésekor gyakornoki idő kikötése kötelező.
+2. § (1) A köznevelési intézményben a pedagógus előmeneteli rendszer hatálya alá tartozó munkakör betöltéséhez előírt végzettséggel és szakképzettséggel, valamint két évnél kevesebb szakmai gyakorlattal rendelkező pedagógust, továbbá a (3) és (4) bekezdés szerinti esetben a pedagógust Gyakornok fokozatba kell besorolni. A gyakornok számára a foglalkoztatási jogviszony létesítésekor, a kinevezésben, munkaszerződésben két év gyakornoki idő kikötése kötelező.
 
-(2)[^3] A gyakornoki idő két év. A gyakornoki idő kikötésekor a jogviszony létesítése előtt megszerzett szakmai gyakorlatot be kell számítani, azzal, hogy gyakornoki időként a két évből hátra levő időt kell a kinevezésben, a munkaszerződésben rögzíteni. Ha a határozott időre szóló közalkalmazotti jogviszony, munkaviszony időtartama rövidebb, mint a gyakornok számára megállapítandó gyakornoki idő, akkor a gyakornoki időt a határozott idő lejártáig kell kikötni.
+(2) A két év gyakornoki időbe a foglalkoztatási jogviszony létesítése előtt megszerzett szakmai gyakorlat idejét be kell számítani azzal, hogy gyakornoki időként a két évből hátra levő időt kell – a (3) bekezdésben foglaltakra is figyelemmel – a kinevezésben, a munkaszerződésben rögzíteni. Ha az ilyen módon számított gyakornoki idő lejárta és a minősítő vizsga között kevesebb, mint egy hónap lenne hátra, a gyakornoki időt egy hónappal vagy a pedagógus kérésére legfeljebb hat hónappal meg kell hosszabbítani.
 
-(2a)[^4] A gyakornok
+(3) Ha a foglalkoztatási jogviszony létesítésekor a pedagógus rendelkezik a 6. § (1) és (2) bekezdése szerinti két év szakmai gyakorlattal, de még nincs a 6. § (3) bekezdése szerinti hat év szakmai gyakorlati ideje, számára – kivéve, ha sikeres minősítő vizsgát tett – hat hónap gyakornoki időt kell kikötni.
 
-a) a gyakornoki idő lejártának hónapjában, vagy
+(4) Ha a korábbi foglalkoztatási jogviszonyának fennállása alatt sikertelen minősítő vizsgát tett pedagógus létesít újabb foglalkoztatási jogviszonyt, számára két év gyakornoki időt kell kikötni.
 
-b) ha a gyakornoki idő nem a tanítási év közben jár le, a tanítási év utolsó hónapjában
+(5) Ha a pedagógus határozott időre szóló foglalkoztatási jogviszonyának időtartama rövidebb, mint a gyakornok számára megállapítandó gyakornoki idő, akkor a gyakornoki időt a határozott idő lejártáig kell kikötni.
+
+(6) A gyakornok
+
+a) az (1)–(5) bekezdés szerint megállapított gyakornoki idő lejártának hónapjában, vagy
+
+b) ha a gyakornoki idő a tanítási évet követő nyári szünet alatt jár le, a tanítási év május hónapjában
 
 tesz minősítő vizsgát.
 
-(3) A minősítő vizsgán megfelelt minősítést kapott gyakornokot a Pedagógus I. fokozatba kell besorolni.
+(7) A (6) bekezdés b) pontjában foglalt esetben a gyakornoki idő a minősítő vizsga sikeres letételének időpontjáig tart.
 
-(4) A gyakornoki idő a vizsga napját követő nappal kezdődően két évvel meghosszabbodik, ha a minősítő vizsgán a gyakornok „nem felelt meg” minősítést kapott. A gyakornoki idő egyéb esetben nem hosszabbítható meg. A gyakornok a két évvel meghosszabbított gyakornoki idő lejártának hónapjában, vagy amennyiben a gyakornoki idő nem a tanítási év közben jár le, a tanítási év utolsó hónapjában megismételt minősítő vizsgát tesz. A minősítő vizsgán „megfelelt” vagy „nem felelt meg” minősítés adható.
+(8) Ha a gyakornok minősítő vizsgája sikeres volt, őt a Pedagógus I. fokozatba kell besorolni.
 
-(5) Ha a (4) bekezdés szerinti megismételt minősítő vizsgán a pedagógus „nem felelt meg” minősítést kapott, és pedagógus-munkakörre újabb foglalkoztatási jogviszonyt létesít, az (1)–(5) bekezdésben, valamint az Nkt. 64. § (8) bekezdésében foglaltakat ismételten alkalmazni kell.
+(9) A gyakornoki idő a vizsga napját követő nappal kezdődően két évvel meghosszabbodik, ha a pedagógus minősítő vizsgája sikertelenül zárult. A meghosszabbított gyakornoki időre az (1)–(8) bekezdésben foglaltakat kell megfelelően alkalmazni. A gyakornoki idő egyéb esetben nem hosszabbítható meg.
 
-(6) A munkáltatónak a jogviszony létesítésekor a kinevezési okmányban, munkaszerződésben elő kell írnia azt az időpontot, ameddig a gyakornok minősítő vizsgát köteles tenni.
+(10) Ha a (9) bekezdés szerint megismételt minősítő vizsga is sikertelenül zárult és a pedagógus pedagógus-munkakörre újabb foglalkoztatási jogviszonyt létesít, az (1)–(9) bekezdésben, valamint az Nkt. 64. § (8) bekezdésében foglaltakat ismételten alkalmazni kell.
 
-(7) A minősítő vizsga részei:
+(11) A munkáltató a foglalkoztatási jogviszony létesítésekor köteles írásban tájékoztatni a gyakornokot a minősítő vizsga esedékességének időpontjáról. Ha a minősítő vizsga időpontja – különösen a foglalkoztatási jogviszony szünetelése miatt – módosul, erről a gyakornokot írásban tájékoztatni kell.
 
-a)[^5] a gyakornok legalább két foglalkozásának, tanórájának látogatása és elemzése, ha a munkakör részét képezi foglalkozás, tanóra megtartása – ide nem értve az óvodapszichológus, iskolapszichológus, pszichológus közvetlen pszichológiai foglalkozását –, valamint
-
-b) a gyakornok portfóliójának áttekintése, értékelése (portfólióvédés).
-
-(8) A minősítő vizsga értékelésének részei:
-
-a) portfólióvédés,
-
-b)[^6] amennyiben a munkakör részét képezi foglalkozás, tanóra megtartása, a meglátogatott foglalkozás, tanóra értékelése,
-
-c)[^7] az országos pedagógiai-szakmai ellenőrzés során a látogatott foglalkozások tapasztalatainak és az összegző értékelésnek a megismerése, valamint
-
-d)[^8] az intézményi önértékelés gyakornokra vonatkozó megállapításainak, valamint a szakmai vezető (a továbbiakban: mentor) gyakornokra vonatkozó értékelésének megismerése.
-
-(9) A portfólióvédés alkalmával az értékelt pedagógus bemutatja önértékelését, továbbá számot ad a munkaköréhez kapcsolódó pedagógiai, szakmai felkészültségéről, valamint a pedagógust foglalkoztató intézmény pedagógiai programjával összefüggő kérdésekről.
-
-(10) A minősítő vizsga során a három tagból álló minősítő bizottság (a továbbiakban: minősítő bizottság)
-
-a)[^9] a gyakornok által feltöltött portfólió alapján áttekinti és értékeli a gyakornok szakmai tevékenységét, eredményeit, valamint az intézményi önértékelés gyakornokra vonatkozó részeit, ennek során – az 1. mellékletben foglaltak szerint – kiemelten figyelembe veszi a 8. § (3) bekezdésében meghatározott pedagóguskompetenciákat és tevékenységeket, továbbá a feltöltött portfólió alapján kérdéseket fogalmaz meg, amelyeket a portfólióvédés előtt legalább hét nappal eljuttat a gyakornok részére,
-
-b) értékeli a meglátogatott foglalkozást és a portfólióvédést, valamint
-
-c)[^10] elkészíti az összegző értékelést, amelyet feltölt az Oktatási Hivatal (a továbbiakban: OH) által működtetett informatikai támogató rendszerbe.
-
-(11) A Pedagógus I. fokozatba lépéshez a gyakornoknak az értékelés során legalább hatvan százalékot kell elérnie.
-
-[^3]: A 2. § (2) bekezdése a 89/2015. (IV. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (2a) bekezdését a 89/2015. (IV. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: A 2. § (7) bekezdés a) pontja a 268/2014. (XI. 3.) Korm. rendelet 5. §-ával megállapított, a 89/2015. (IV. 9.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^6]: A 2. § (8) bekezdés b) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^7]: A 2. § (8) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^8]: A 2. § (8) bekezdés d) pontja a 89/2015. (IV. 9.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^9]: A 2. § (10) bekezdés a) pontja a 89/2015. (IV. 9.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^10]: A 2. § (10) bekezdés c) pontja a 99/2014. (III. 25.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^2]: Az 1/B. alcímet (2–5. §-t) a 249/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be. A II. fejezet eredeti 1. alcímét a 249/2015. (IX. 8.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.

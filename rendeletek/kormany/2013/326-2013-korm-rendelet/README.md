@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-326-20-
 | 2015-04-17 | 2013-326-20-22.8 | 89/2015. (IV. 9.) Korm. rendelet |
 | 2015-07-01 | 2013-326-20-22.9 | 146/2015. (VI. 12.) Korm. rendelet |
 | 2015-09-01 | 2013-326-20-22.10 | 89/2015. (IV. 9.) Korm. rendelet |
+| 2015-09-09 | 2013-326-20-22.11 | 249/2015. (IX. 8.) Korm. rendelet |

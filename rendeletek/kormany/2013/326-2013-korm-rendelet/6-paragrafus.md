@@ -1,25 +1,39 @@
 ## foglalkoztatottak legfeljebb egy-egy százaléka sorolható be.
 
-## 2. A gyakornoki idő és a mentor
+## 2. [^3] A szakmai gyakorlat
 
-6. § (1)[^26] Az intézményvezető kijelöli a mentort, aki segíti a gyakornokot a köznevelési intézményi szervezetbe történő beilleszkedésben és a pedagógiai-módszertani feladatok gyakorlati megvalósításában. A mentor legalább félévente írásban értékeli a gyakornok tevékenységét, és az értékelést átadja az intézményvezetőnek és a gyakornoknak.
+6. § (1) A magasabb fokozatba történő előrelépéshez és a gyakornoki idő teljesítéséhez szükséges szakmai gyakorlatnak kell elfogadni
 
-(1a)[^27] Óvodapszichológus, iskolapszichológus munkakörben foglalkoztatott gyakornok esetében – ha a nevelési-oktatási intézményben nem áll alkalmazásban olyan pszichológus szakképzettséggel rendelkező személy pedagógus-munkakörben, aki a gyakornok óvodapszichológus, iskolapszichológus mentorálását elláthatná – az intézményvezető a pedagógiai szakszolgálati intézmény óvodapszichológus, iskolapszichológus munkakörben foglalkoztatott munkatársának mentorként való kijelölését kérheti a fenntartótól, feltéve, hogy a nevelési-oktatási intézmény és a pedagógiai szakszolgálat fenntartója azonos, egyéb esetben a nevelési-oktatási intézmény és a pedagógiai szakszolgálati intézmény fenntartója között létrejött megállapodás alapján kell a mentorálási feladatokat megszervezni.
+a) a pedagógus-munkakörben foglalkoztatási jogviszonyban,
 
-(1b)[^28] A Gyvt. hatálya alá tartozó intézmény esetében – ha a gyakornok munkakörével azonos pedagógus-munkakörben foglalkoztatott mentor nem jelölhető ki – a mentori feladatokat az intézményvezető vagy döntése alapján a gyakornok közvetlen szakmai felettese látja el.
+b) a pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatási jogviszonyban,
 
-(2) A mentor támogatja a gyakornokot az általa ellátott pedagógus-munkakörrel kapcsolatos tevékenységében, e körben segíti
+c) az óraadói megbízásra szóló polgári jogi jogviszony keretében,
 
-a) az iskola helyi tantervében és pedagógiai programjában, az óvoda, a kollégium pedagógiai programjában a munkaköri feladataira vonatkozó előírások értelmezésében és szakszerű alkalmazásában,
+d) az Európai Iskolákban pedagógus-munkakörben munkaviszonyban,
 
-b) a tanítási (foglalkozási) órák felépítésének, az alkalmazott pedagógiai módszereknek, tanításhoz alkalmazott segédleteknek, tankönyveknek, taneszközöknek (foglalkozási eszközöknek) a célszerű megválasztásában,
+e) a pedagógus-képzést folytató felsőoktatási intézményben folytatott oktatói tevékenységgel,
 
-c) a tanítási (foglalkozási) órák előkészítésével, megtervezésével és eredményes megtartásával kapcsolatos írásbeli teendők ellátásában, valamint
+f) az oktatásért felelős miniszter (a továbbiakban: miniszter) igazolása alapján közszolgálati jogviszony keretében a köznevelés országos irányításával összefüggő munkakörben, vagy
 
-d) a minősítő vizsgára való felkészülésében.
+g) kizárólag nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazottak esetében a nevelő-oktató munkát közvetlenül segítő munkakörben
 
-(3) A mentor szükség szerint, de negyedévenként legalább egy, legfeljebb négy alkalommal látogatja a gyakornok tanítási (foglalkozási) óráját, és ezt követően óramegbeszélést tart, továbbá, amennyiben a gyakornok igényli, hetente konzultációs lehetőséget biztosít számára.
+## eltöltött időt.
 
-[^26]: A 6. § (1) bekezdése a 89/2015. (IV. 9.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^27]: A 6. § (1a) bekezdését a 89/2015. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
-[^28]: A 6. § (1b) bekezdését a 89/2015. (IV. 9.) Korm. rendelet 6. §-a iktatta be.
+(2) A Gyvt. hatálya alá tartozó intézményben az (1) bekezdésben foglaltakon kívül szakmai gyakorlatnak kell tekinteni az alábbi foglalkoztatási jogviszonyok keretében:
+
+a) a család-, gyermek- és ifjúságvédelem területén egyetemi, főiskolai végzettséghez kötött szakmai munkakörben, vezető beosztásban,
+
+b) a szociális-képzést folytató felsőoktatási intézményben folytatott oktatói, terepkoordinátori tevékenységgel összefüggő munkakörben, vagy
+
+c) a gyermekek és az ifjúság védelméért felelős miniszter igazolása alapján közszolgálati jogviszony keretében a gyermek- és ifjúságvédelem országos irányításával összefüggő munkakörben
+
+## eltöltött időt is.
+
+(3) Ha a pedagógus-munkakörre foglalkoztatási jogviszonyt létesítő személy nem rendelkezik az (1) és (2) bekezdés szerint számított két év szakmai gyakorlattal, de bármely más munkakörben, vagy részben az (1) és (2) bekezdésben foglalt jogviszonyban, részben más munkakörben szerzett legalább hat év munkaviszony jellegű jogviszonnyal rendelkezik, mentesül az előmeneteli rendszer gyakornoki szakasza követelményeinek teljesítése alól és a Pedagógus I. fokozatba kerül besorolásra.
+
+(4) A (3) bekezdés nem alkalmazható abban az esetben, ha a gyakornok legalább egy alkalommal sikertelen minősítő vizsgát tett.
+
+(5) Ha a pedagógus-munkakörben foglalkoztatott személy korábbi munkáltatója a besoroláskor szakmai gyakorlatként vette figyelembe a (2) bekezdésben szereplő időt, és a pedagógus-munkakörben foglalkoztatott személy ezt követően nem a Gyvt. hatálya alá tartozó intézményben létesít foglalkoztatási jogviszonyt, a korábban figyelembe vett szakmai gyakorlat időtartama emiatt utóbb nem csökkenthető.
+
+[^3]: A 2. alcím (6–6/A. §) a 249/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
