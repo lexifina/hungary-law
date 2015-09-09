@@ -1,6 +1,6 @@
 ## 6. Az ellenőrre vonatkozó általános és szakmai követelmények
 
-## 11. §[^1] Ellenőrzési tevékenységet az láthat el, aki
+## 11. §[^8] Ellenőrzési tevékenységet az láthat el, aki
 
 a) legalább 3 éves jogi, vagy ellenőrzési, vagy pénzügyi, vagy számviteli gyakorlattal és a következő szakirányú szakképzettségek valamelyikével rendelkezik:
 
@@ -10,4 +10,4 @@ ab) más, az aa) alpontban meg nem határozott felsőfokú végzettséggel és e
 
 b) felsőfokú végzettséggel és legalább 3 éves végrehajtói vagy végrehajtó-helyettesi szolgálati jogviszonnyal rendelkezik.
 
-[^1]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 263. §-ával megállapított szöveg.
+[^8]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 263. §-ával megállapított szöveg.
