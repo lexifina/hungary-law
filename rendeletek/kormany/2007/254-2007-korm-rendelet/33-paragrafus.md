@@ -32,7 +32,7 @@ b) az alapítás időpontját, a működési időtartamot, az alapítókat megil
 
 c) a jegyzett, illetve saját tőke összegét;
 
-d)[^128] az állam tulajdoni részesedését a társaságban;
+d)[^147] az állam tulajdoni részesedését a társaságban;
 
 e) átlagos statisztikai létszámot;
 
@@ -56,4 +56,4 @@ k) a kulturális örökségvédelemmel, környezet- és természetvédelemmel ka
 
 (6) A kiíró a pályázók bármelyikének biztosított információt, adatot és egyéb szolgáltatást köteles a többi pályázó számára is ugyanolyan módon biztosítani.
 
-[^128]: A 33. § (2) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 399. § a) pontja szerint módosított szöveg.
+[^147]: A 33. § (2) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 399. § a) pontja szerint módosított szöveg.

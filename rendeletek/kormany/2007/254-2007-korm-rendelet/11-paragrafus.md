@@ -1,19 +1,19 @@
-11. §[^55] (1)[^56]
+11. §[^68] (1)[^69]
 
-(2)[^57] Az Nvtv. 11. § (9) bekezdése szerinti átruházás esetén az átruházással a tulajdonosi joggyakorlóval kötött vagyonkezelési szerződésben az új vagyonkezelő a régi helyébe lép (szerződéses jogutódlás).
+(2)[^70] Az Nvtv. 11. § (9) bekezdése szerinti esetben az átruházással a tulajdonosi joggyakorlóval kötött vagyonkezelési szerződésben az új vagyonkezelő a régi vagyonkezelő helyébe lép. Az új vagyonkezelő a jogutódlásról annak hatálybalépésétől számított tizenöt napon belül írásban értesíti a tulajdonosi joggyakorlót. A tulajdonosi joggyakorló az értesítés kézhezvételétől számított hatvan napon belül elkészíti a vagyonkezelési szerződés módosítását.
 
-(3)–(5)[^58]
+(3)–(5)[^71]
 
-(6)[^59] Az új vagyonkezelő a szerződéses jogutódlásról tizenöt napon belül köteles írásban értesíteni a tulajdonosi joggyakorlót, aki az értesítés kézhezvételétől számított hatvan napon belül elkészíti a változásokkal egységes szerkezetbe foglalt vagyonkezelési szerződést.
+(6)[^72]
 
-(7)[^60] Amennyiben központi költségvetési szerv átalakítása, megszüntetése során a vagyoni, vagyonkezelői jogok, kötelezettségek jogutódlásáról jogszabály vagy átalakító, megszüntető okirat rendelkezik (intézményi jogutódlás), a jogutódlásról az alapítói jogok gyakorlója a jogszabály kihirdetésével, illetve az átalakító, megszüntető okirat közzétételével egyidejűleg köteles tájékoztatni a tulajdonosi joggyakorlót.
+(7)[^73] Amennyiben központi költségvetési szerv átalakítása, megszüntetése során a vagyoni, vagyonkezelői jogok, kötelezettségek jogutódlásáról jogszabály vagy átalakító, megszüntető okirat rendelkezik (intézményi jogutódlás), a jogutódlásról az alapítói jogok gyakorlója a jogszabály kihirdetésével, illetve az átalakító, megszüntető okirat közzétételével egyidejűleg köteles tájékoztatni a tulajdonosi joggyakorlót.
 
-(8)[^61]
+(8)[^74]
 
-[^55]: A 11. § a 348/2010. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^56]: A 11. § (1) bekezdését a 356/2011. (XII. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.
-[^57]: A 11. § (2) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § e)–f) pontja szerint módosított szöveg.
-[^58]: A 11. § (3)–(5) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
-[^59]: A 11. § (6) bekezdése a 77/2014. (III. 14.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^60]: A 11. § (7) bekezdése a 77/2014. (III. 14.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^61]: A 11. § (8) bekezdését a 356/2011. (XII. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.
+[^68]: A 11. § a 348/2010. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^69]: A 11. § (1) bekezdését a 356/2011. (XII. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.
+[^70]: A 11. § (2) bekezdése a 244/2015. (IX. 8.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^71]: A 11. § (3)–(5) bekezdését a 77/2014. (III. 14.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^72]: A 11. § (6) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
+[^73]: A 11. § (7) bekezdése a 77/2014. (III. 14.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^74]: A 11. § (8) bekezdését a 356/2011. (XII. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.
