@@ -32,37 +32,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezet és Energia Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1125/2015. (III. 6.) Korm. határozat 1. melléklet
-
-## a) 4.2.1. pontjában foglalt táblázat
-
-## aa) A:3 mezőjében a „45,95” szövegrész helyébe a „45,73” szöveg,
-
-## ab) C:3 mezőjében a „93,26” szövegrész helyébe a „96,26” szöveg,
-
-## ac) D:3 mezőjében a „139,21” szövegrész helyébe a „141,99” szöveg,
-
-## ad) A:4–D:4 mezőjében a „11,56” szövegrész helyébe a „14,29” szöveg,
-
-## b) 4.2.2. pontjában foglalt táblázat
-
-## ba) A:3 mezőjében a „172,09” szövegrész helyébe a „171,44” szöveg,
-
-## bb) B:3 mezőjében a „9,10” szövegrész helyébe a „12,47” szöveg,
-
-## bc) C:3 mezőjében a „181,19” szövegrész helyébe a „183,91” szöveg,
-
-## c) 4.3.1. pontjában foglalt táblázat
-
-## ca) C:3 mezőjében a „19,55” szövegrész helyébe a „19,49” szöveg,
-
-## cb) C:5 mezőjében a „14,89” szövegrész helyébe a „14,73” szöveg,
-
-## cc) E:8 mezőjében a „89,76” szövegrész helyébe a „92,76” szöveg,
-
-## d) 4.3.3. pontjában a „11,56” szövegrész helyébe a „14,29” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1627/2015. (IX. 8.) Korm. határozathoz
 
@@ -105,3 +75,5 @@
 | 18. | Környezet és Energia Operatív Program | 4.10.0. | Megújuló energia alapú hő- és villamos- energia- termelés | Pápai Várkertfürdő tanuszoda technológiai hő- és villamosenergia- igényének kielégítése megújuló energiaforrások alkalmazásával | Pápa Város Önkormányzata | 166 | A projekt célja, hogy a fejlesztéssel érintett uszodában hőszivattyú alkalmazásával a létesítmény technológiai hőigényének, valamint az 50 kVA csatlakozási teljesítmény alatti (HMKE méretű) napelemes rendszer vagy rendszerek kialakítása után, a létesítmény állapotára vonatkozó technológiai villamosenergia-igényének részbeni vagy teljes közvetlen kielégítése. | 2015. október 15. | 2015. október 30. |
 
 | 19. | Környezet és Energia Operatív Program | 4.10.0. | Megújuló energia alapú hő- és villamos- energia- termelés | Csík Ferenc tanuszoda technológiai hő- és villamosenergia- igényének kielégítése megújuló energiaforrások alkalmazásával | Keszthely Város Önkormányzata | 166 | A projekt célja, hogy a fejlesztéssel érintett uszodában hőszivattyú alkalmazásával a létesítmény technológiai hőigényének, valamint az 50 kVA csatlakozási teljesítmény alatti (HMKE méretű) napelemes rendszer vagy rendszerek kialakítása után, a létesítmény állapotára vonatkozó technológiai villamosenergia-igényének részbeni vagy teljes közvetlen kielégítése. | 2015. október 15. | 2015. október 30. |
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
