@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-245-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-09-09 | 2015-245-20-22.1 | 245/2015. (IX. 8.) Korm. rendelet |
+| 2015-09-10 | 2015-245-20-22.2 | 2010: CXXX. törvény |

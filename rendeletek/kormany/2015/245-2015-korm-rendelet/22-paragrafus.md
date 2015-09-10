@@ -1,12 +1,14 @@
-## 21. § A Rendelet 3. §-ában a „hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: NET tv.)” szövegrész helyébe a „NET tv.” szöveg lép.
+## 16–21. §[^3]
 
 ## 22. § Hatályát veszti a Rendelet
 
-a)–b)[^2]
+a)–b)[^4]
 
-c) 10/B. § (1) bekezdés b) pontjában a „közjegyzői okiratba foglalt”, valamint az „amelynek költségei a bérbeadót terhelik,” szövegrész,
+c)[^5]
 
-d)[^3]
+d)[^6]
 
-[^2]: A 22. § a)–b) pontja a 23. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
-[^3]: A 22. § d) pontja a 23. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^3]: A 16–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 22. § a)–b) pontja a 23. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
+[^5]: A 22. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 22. § d) pontja a 23. § (3) bekezdése alapján 2016. január 1-jén lép hatályba.
