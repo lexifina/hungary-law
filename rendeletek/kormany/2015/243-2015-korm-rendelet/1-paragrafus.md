@@ -1,13 +1,9 @@
-1. § (1) Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 62/A. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+1. § (1)[^1]
 
-(A foglalkoztató)
+(2)[^2]
 
-## „c) az egyéni járulék és a személyi jövedelemadó megállapításához kapcsolódóan a foglalkoztatóval foglalkoztatási jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állók, illetve jogszabály alapján biztosítottnak minősülő olyan természetes személyek nyilatkozatát, akiknek vagy akikhez kapcsolódóan a biztosítási jogviszonnyal összefüggésben a foglalkoztató kifizetést teljesít (a továbbiakban együtt: foglalkoztatott), valamint a foglalkoztatót terhelő közterheket befolyásoló nyilatkozatokat,”
+(3)[^3]
 
-## (papír alapon, eredeti példányban, a megküldött dokumentumok összesítő jegyzékével együtt küldi meg a Kincstárnak legkésőbb az azok beérkezését, átvételét követő harmadik munkanapig.)
-
-(2)[^1]
-
-(3) Az Ávr. 62/A. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-[^1]: Az 1. § (2) bekezdése a 13. § (2) bekezdése alapján 2015. november 1-jén lép hatályba.
+[^1]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. § (2) bekezdése a 13. § (2) bekezdése alapján 2015. november 1-jén lép hatályba.
+[^3]: Az 1. § (3) bekezdése a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
