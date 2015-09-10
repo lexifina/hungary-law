@@ -1,1 +1,0 @@
-## „(5) A tulajdonosi joggyakorlók a (3) bekezdés szerinti adatszolgáltatást a rábízott vagyonuk december 31-i tárgyévi állományáról évente egyszer, a tárgyévet követő év június 30. napjáig kötelesek teljesíteni az MNV Zrt. részére.”

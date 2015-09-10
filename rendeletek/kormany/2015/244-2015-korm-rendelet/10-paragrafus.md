@@ -1,3 +1,0 @@
-## 9. § A Rendelet 45. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az árverési hirdetmény közzétételének – ide nem értve az elektronikus árverési hirdetményt – legalább tizenöt nappal meg kell előznie a hirdetményben megjelölt árverési időpontot. A hirdetményt – az elektronikus árverési hirdetmények kivételével – a 32. § (2) bekezdésében megjelölt módon, valamint az elektronikus árverési hirdetmények nyilvántartásában kell közzétenni, továbbá az árverés helyszínén, ingatlan esetében – a felépítmény nélküli ingatlan kivételével – az ingatlanon is ki kell függeszteni. Valamennyi árverési hirdetmény közzététele időpontjának az elektronikus árverési hirdetmények nyilvántartásában történő közzététel napját kell tekinteni.”
