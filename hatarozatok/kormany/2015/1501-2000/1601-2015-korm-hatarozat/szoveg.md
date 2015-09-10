@@ -16,6 +16,8 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatosan, a Nemzeti Energiahatékonysági Cselekvési Tervben meghatározott határidőkkel összhangban
 
-2. Hatályát veszti a Magyarország II. Nemzeti Energiahatékonysági Cselekvési Tervéről 2016-ig, kitekintéssel 2020-ra című 1374/2011. (XI. 8.) Korm. határozat.
+2.[^1]
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
