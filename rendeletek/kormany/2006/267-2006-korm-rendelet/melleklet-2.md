@@ -12,6 +12,6 @@
 
 | 6. | Veszprém Megyei Kormányhivatal | Fejér, Győr-Moson-Sopron, Vas és Veszprém megye |
 
-2. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^30]
+2. melléklet a 267/2006. (XII. 20.) Korm. rendelethez[^33]
 
-[^30]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 70/2015. (III. 30.) Korm. rendelet 85. § (5) bekezdésével megállapított szöveg.
+[^33]: A 2. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 22. § (3) bekezdése iktatta be, egyidejűleg az eredeti melléklet megjelölését 1. mellékletre változtatta. A 2. melléklet a 70/2015. (III. 30.) Korm. rendelet 85. § (5) bekezdésével megállapított szöveg.

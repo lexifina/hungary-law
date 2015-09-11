@@ -6,7 +6,7 @@
 
 (3) A fővárosi és megyei kormányhivatal bányafelügyeleti hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket a Hivatal gyakorolja.
 
-(4) A bányafelügyelet hatáskörébe tartozó hatósági ügyekben – a (4) bekezdésben, valamint a 3/A–3/C. §-ban és a 4. §-ban foglaltak kivételével – első fokon a kormányhivatal, másodfokon a Hivatal jár el. Több kormányhivatal illetékességi területét érintő, a bányafelügyelet hatáskörébe tartozó hatósági ügy esetén az eljáró kormányhivatalt a Hivatal elnöke jelöli ki.
+(4)[^5] A bányafelügyelet hatáskörébe tartozó hatósági ügyekben – az (5) bekezdésben, valamint a 3/A–3/C. §-ban és a 4. §-ban foglaltak kivételével – első fokon a kormányhivatal, másodfokon a Hivatal jár el. Több kormányhivatal illetékességi területét érintő, a bányafelügyelet hatáskörébe tartozó hatósági ügy esetén az eljáró kormányhivatalt a Hivatal elnöke jelöli ki.
 
 (5) A Hivatal első fokú hatáskörébe tartozik:
 
@@ -110,3 +110,4 @@ d) az Európai Parlament és Tanács a tengeri olaj- és gázipari tevékenység
 
 [^3]: A 2. §-t a 70/2015. (III. 30.) Korm. rendelet 85. § (9) bekezdése hatályon kívül helyezte.
 [^4]: A 3. § a 70/2015. (III. 30.) Korm. rendelet 85. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (4) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.

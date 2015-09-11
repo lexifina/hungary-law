@@ -38,7 +38,7 @@
 
 | 7. | Ha az eljárás a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy nyilvántartott műemléki érték vagy műemlék telkét érint, és az eljárással érintett tevékenység megkezdéséhez, bányatelek megállapításhoz környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | A régészeti örökség és a műemléki érték védelme jogszabályban meghatározott követelményeinek a kérelemben foglaltak szerint vagy további feltételek melletti megfelelősége. | IGEN | IGEN | NEM | IGEN | NEM | IGEN | kulturális örökségvédelmi feladatkörében eljáró Budapest Főváros Kormányhivatala |
 
-4. melléklet a 267/2004. (XII. 20.) Korm. rendelethez[^32]
+4. melléklet a 267/2004. (XII. 20.) Korm. rendelethez[^35]
 
 A Hivatalnak a szénhidrogének felszín alatti tárolására vonatkozó bányatelek megállapításával, valamint a szén-dioxid geológiai tárolásával kapcsolatos engedélyezési eljárásaiban közreműködő szakhatóságok kijelölése
 
@@ -72,4 +72,4 @@ A Hivatalnak a szénhidrogének felszín alatti tárolására vonatkozó bányat
 
 | 14. | Ha az eljárás a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyet, régészeti védőövezet területét, műemléki területet vagy nyilvántartott műemléki érték vagy műemlék telkét érint, és az eljárással érintett tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges. | Annak elbírálása kérdésében, hogy a kérelem a régészeti örökség és a műemléki érték védelme jogszabályban meghatározott követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | fővárosi és megyei kormányhivatal kulturális örökségvédelmi feladatkörében, eljáró járási (fővárosi kerületi) hivatala | IGEN | IGEN | NEM | IGEN |
 
-[^32]: A 4. mellékletet a 70/2015. (III. 30.) Korm. rendelet 85. § (7) bekezdése iktatta be.
+[^35]: A 4. mellékletet a 70/2015. (III. 30.) Korm. rendelet 85. § (7) bekezdése iktatta be.

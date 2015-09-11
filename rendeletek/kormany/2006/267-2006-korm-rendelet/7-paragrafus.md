@@ -1,6 +1,6 @@
-## 7. §[^18] E rendelet 2007. január 1-jén lép hatályba
+## 7. §[^20] E rendelet 2007. január 1-jén lép hatályba
 
-a)–e)[^19]
+a)–e)[^21]
 
-[^18]: A 7. § bevezető szövegrésze a 118/2008. (V. 8.) Korm. rendelet 1. § 231. pontja szerint módosított szöveg.
-[^19]: A 7. § a)–e) pontját a 118/2008. (V. 8.) Korm. rendelet 1. § 231. pontja hatályon kívül helyezte.
+[^20]: A 7. § bevezető szövegrésze a 118/2008. (V. 8.) Korm. rendelet 1. § 231. pontja szerint módosított szöveg.
+[^21]: A 7. § a)–e) pontját a 118/2008. (V. 8.) Korm. rendelet 1. § 231. pontja hatályon kívül helyezte.
