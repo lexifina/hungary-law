@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-68-20-2
 | 2014-01-02 | 2013-68-20-2X.4 | 2010: CXXX. törvény |
 | 2015-01-01 | 2013-68-20-2X.5 | 43/2014. (XII. 30.) NGM rendelet |
 | 2015-04-01 | 2013-68-20-2X.6 | 43/2014. (XII. 30.) NGM rendelet |
+| 2015-09-11 | 2013-68-20-2X.7 | 24/2015. (IX. 10.) NGM rendelet |
