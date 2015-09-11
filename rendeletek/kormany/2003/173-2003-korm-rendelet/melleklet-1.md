@@ -1,5 +1,6 @@
-## 27. § E rendelet – a magánszálláshelyek idegenforgalmi célú hasznosításáról szóló 110/1997. (VI. 25.) Korm. rendelettel, a kereskedelmi és a fizetővendéglátó szálláshelyek osztályba sorolásáról, valamint a falusi szálláshelyek minősítéséről szóló 45/1998. (VI. 24.) IKIM rendelettel, valamint az Országos Statisztikai Adatgyűjtési Programról szóló kormányrendelettel együtt – a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban a Tanács idegenforgalomra vonatkozó statisztikai adatok gyűjtéséről szóló 95/57/EK irányelvével összeegyeztethető szabályozást tartalmaz.
+## 28. §[^64] E rendelet a termékek tevékenység szerinti, új statisztikai osztályozásáról (CPA, magyarul: TESZOR) és a 3696/93/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 451/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. október 29-i 1209/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^64]
+1. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^65]
 
-[^64]: Az 1. számú melléklet a 218/2007. (VIII. 15.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
+[^64]: A 28. §-t a 258/2015. (IX. 10.) Korm. rendelet 1. §-a iktatta be.
+[^65]: Az 1. számú melléklet a 258/2015. (IX. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

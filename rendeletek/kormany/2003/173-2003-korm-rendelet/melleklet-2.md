@@ -1,49 +1,47 @@
 ## Nem üzleti célú közösségi, szabadidős szálláshelynek minősülő létesítmények
 
-| Típus | Altípus | Jelzőszám | SZJ |
+|  | A | B | C | D |
 
-| Megnevezése |
+| 1. | Típus | Altípus | Jelzőszám | TESZOR’15 |
 
-| I. Üdülő | (910) | —— |
+| 2. | Megnevezése |
 
-|  | Üdülő | 911 | 55.23.12.0 |
+| 3. | I. Üdülő | (910) | – |
 
-| Gyermeküdülő | 912 | 55.23.12.0 |
+| 4. |  | 1. Üdülő | 911 | 55.20.11 |
 
-|  | Villa | 913 | 55.23.12.0 |
+| 5. | 2. Gyermeküdülő | 912 | 55.20.11 |
 
-| II. Gyermek- és ifjúsági tábor | (920) | —— |
+| 6. | 3. Villa | 913 | 55.20.11 |
 
-|  | Gyermek- és ifjúsági tábor | 921 | 55.23.11.0 |
+| 7. | II. Gyermek- és ifjúsági tábor | (920) | – |
 
-| Telepített sátortábor | 922 | 55.22.10.0 |
+| 8. |  | 1. Gyermek- és ifjúsági tábor | 921 | 55.20.11 |
 
-| III. Nomád táborhely | 930 | 55.22.10.0* 70.20.12.8** |
+| 9. | 2. Telepített sátortábor | 922 | 55.20.11 |
 
-| IV. Hegyi menedékház | (940) | —— |
+| 10. | III. Nomád táborhely | 930 | 55.30.11 |
 
-|  | Turistaház | 941 | 55.21.10.2 |
+| 11. | IV. Hegyi menedékház | (940) | – |
 
-| Kulcsosház | 942 | 55.21.10.2 |
+| 12. |  | 1. Turistaház | 941 | 55.20.11 |
 
-| Matracszállás | 943 | 55.21.10.2 |
+| 13. | 2. Kulcsosház | 942 | 55.20.11 |
 
-| V. Bivakszállás | (950) | —— |
+| 14. | 3. Matracszállás | 943 | 55.20.11 |
 
-|  | Bivakszállás | 951 | 55.23.15.0 |
+| 15. | V. Bivakszállás | (950) | – |
 
-| Téliesített bivakszállás | 952 | 55.23.15.0 |
+| 16. |  | 1. Bivakszállás | 951 | 55.30.11 |
 
-| VI. Pihenőház | (960) | —— |
+| 17. | 2. Téliesített bivakszállás | 952 | 55.30.11 |
 
-|  | Munkásszállás | 961 | 55.23.15.0 |
+| 18. | VI. Pihenőház | (960) | – |
 
-| Vendégszállás | 962 | 55.23.15.0 |
+| 19. |  | 1. Munkásszállás | 961 | 55.20.11 |
 
-| VII. Diákotthon, kollégium | 970 | 55.23.15.0 |
+| 20. | 2. Vendégszállás | 962 | 55.20.11 |
 
-## * Az ingatlantulajdonos (vagyonkezelő) által nyújtott szolgáltatás esetén.
-
-## ** Az ingatlan bérlője (üzemeltetője) által nyújtott szolgáltatás esetén.
+| 21. | VII. Diákotthon, kollégium | 970 | 55.20.11 |
 
 2. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez
