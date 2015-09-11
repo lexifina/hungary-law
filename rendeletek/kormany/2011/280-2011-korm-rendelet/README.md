@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-280-20-
 | 2013-03-29 | 2011-280-20-22.4 | 240/2012. (VIII. 30.) Korm. rendelet |
 | 2014-05-02 | 2011-280-20-22.5 | 240/2012. (VIII. 30.) Korm. rendelet |
 | 2014-09-05 | 2011-280-20-22.6 | 240/2012. (VIII. 30.) Korm. rendelet |
+| 2015-09-11 | 2011-280-20-22.7 | 257/2015. (IX. 10.) Korm. rendelet |

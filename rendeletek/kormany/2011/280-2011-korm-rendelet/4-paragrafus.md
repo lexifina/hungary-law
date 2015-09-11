@@ -1,6 +1,6 @@
 ## 3. § A szakképzési hozzájárulást az Szht. 5. § szerint gyakorlati képzés szervezésével teljesítő hozzájárulásra kötelezett a bruttó kötelezettsége mértékét az e rendeletben meghatározott módon számított csökkentő tétel figyelembe vételével csökkentheti.
 
-4. § (1) Az a hozzájárulásra kötelezett, aki a szakközépiskolával vagy szakiskolával (a továbbiakban együtt: szakképző iskola) kötött együttműködési megállapodás alapján folytatott gyakorlati képzés szervezésével tesz eleget hozzájárulási kötelezettségének, éves és havi bruttó kötelezettségét a (2)–(4) bekezdésben meghatározott módon számított csökkentő tétel összegével csökkentheti.
+4. § (1)[^1] Az a hozzájárulásra kötelezett, aki a szakképzésről szóló 2011. évi CLXXXVII. törvényben (a továbbiakban: Sztv.) meghatározott szakképző iskolával kötött együttműködési megállapodás alapján folytatott gyakorlati képzés szervezésével tesz eleget hozzájárulási kötelezettségének, éves és havi bruttó kötelezettségét a (2)–(4) bekezdésben meghatározott módon számított csökkentő tétel összegével csökkentheti.
 
 (2) Az együttműködési megállapodással érintett tanuló esetében a gyakorlati képzési normatíva összegét egy napra meghatározva, az alapnormatíva összegének 130-cal történő elosztásával kell kiszámítani.
 
@@ -8,6 +8,7 @@
 
 (4) A szakképzési hozzájárulási előleg fizetésénél a csökkentő tétel havi összegét a tárgyév 1–11. hónapjára vonatkozóan tanulónként a gyakorlati képzési normatíva napi összege és a tárgyhónapban teljesített gyakorlati képzési napok számának szorzata képezi.
 
-(5)[^1] Az a hozzájárulásra kötelezett, aki a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerinti felsőfokú szakképzés keretében együttműködési megállapodás alapján folytatott gyakorlati képzés szervezésével tesz eleget hozzájárulási kötelezettségének, éves és havi bruttó kötelezettségét a (2)–(4) bekezdésben meghatározott módon számított csökkentő tétel összegével csökkentheti.
+(5)[^2] Az a hozzájárulásra kötelezett, aki a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerinti felsőfokú szakképzés keretében együttműködési megállapodás alapján folytatott gyakorlati képzés szervezésével tesz eleget hozzájárulási kötelezettségének, éves és havi bruttó kötelezettségét a (2)–(4) bekezdésben meghatározott módon számított csökkentő tétel összegével csökkentheti.
 
-[^1]: A 4. § (5) bekezdését a 331/2012. (XI. 28.) Korm. rendelet 11. §-a iktatta be.
+[^1]: A 4. § (1) bekezdése a 257/2015. (IX. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § (5) bekezdését a 331/2012. (XI. 28.) Korm. rendelet 11. §-a iktatta be.
