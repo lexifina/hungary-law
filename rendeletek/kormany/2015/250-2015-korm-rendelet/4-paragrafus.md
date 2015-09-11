@@ -1,0 +1,3 @@
+## 3. § Az R. a következő 114. §-sal egészül ki:
+
+## „114. § E rendeletnek az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet, valamint az új ideiglenes befogadó állomások építésére irányuló beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 212/2015. (VII. 31.) Korm. rendelet módosításáról szóló 250/2015. (IX. 8.) Korm. rendelettel (a továbbiakban: MódR2.) megállapított 32. § (2) bekezdését és 111. § (1) bekezdését a MódR2. hatálybalépésekor hatályos helyi építési szabályzat, szabályozási terv módosításának hiányában is alkalmazni kell.”
