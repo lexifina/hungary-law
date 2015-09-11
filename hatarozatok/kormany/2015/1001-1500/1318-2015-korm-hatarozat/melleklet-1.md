@@ -24,4 +24,6 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1318/2015. (V. 21.) Korm. határozathoz
+1. melléklet az 1318/2015. (V. 21.) Korm. határozathoz[^2]
+
+[^2]: Az 1. melléklet az 1646/2015. (IX. 10.) Korm. határozat 1. és 3. pontja szerint módosított szöveg.
