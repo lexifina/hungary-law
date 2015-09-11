@@ -1,8 +1,8 @@
 ## (A VET 104. §-ához)
 
-## A vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli hálózat tulajdonosára vonatkozó szétválasztási szabályok[^312]
+## A vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli hálózat tulajdonosára vonatkozó szétválasztási szabályok[^316]
 
-100. §[^313] (1) Az átviteli hálózat tulajdonosa által készített megfelelési programra és megfelelési jelentésre – a vertikálisan integrált villamosenergia-ipari vállalkozás tagjaira vonatkozó rendelkezések kivételével – a 94. § (1)–(2) bekezdését és a 95–97. § rendelkezéseit kell alkalmazni azzal, hogy a hálózati engedélyes alatt az átviteli hálózat tulajdonosát kell érteni.
+100. §[^317] (1) Az átviteli hálózat tulajdonosa által készített megfelelési programra és megfelelési jelentésre – a vertikálisan integrált villamosenergia-ipari vállalkozás tagjaira vonatkozó rendelkezések kivételével – a 94. § (1)–(2) bekezdését és a 95–97. § rendelkezéseit kell alkalmazni azzal, hogy a hálózati engedélyes alatt az átviteli hálózat tulajdonosát kell érteni.
 
 (2) Az átviteli hálózat tulajdonosa által készített megfelelési programnak tartalmaznia kell a 94. § (3) bekezdés 1–3., 5–6., 8–16. és 18–19. pontjában foglaltakat azzal, hogy a hálózati engedélyes alatt az átviteli hálózat tulajdonosát kell érteni.
 
@@ -12,8 +12,8 @@ a) a szétválasztáshoz kapcsolódó peres és egyéb vitás ügyek bemutatása
 
 b) a 95. § (3) bekezdés a)–g) pontjában foglaltak azzal, hogy hálózati engedélyes alatt az átviteli hálózat tulajdonosát kell érteni.
 
-(4)[^314] Átviteli rendszerüzemeltető esetén a vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli hálózat tulajdonosa köteles a VET 153. § (2) bekezdésében foglaltaknak megfelelni.
+(4)[^318] Átviteli rendszerüzemeltető esetén a vertikálisan integrált villamosenergia-ipari vállalkozás részét képező átviteli hálózat tulajdonosa köteles a VET 153. § (2) bekezdésében foglaltaknak megfelelni.
 
-[^312]: A Vhr. 100. §-t megelőző alcímet a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
-[^313]: A Vhr. 100. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^314]: A Vhr. 100. § (4) bekezdését a 75/2011. (V. 2.) Korm. rendelet 7. §-a iktatta be.
+[^316]: A Vhr. 100. §-t megelőző alcímet a 75/2011. (V. 2.) Korm. rendelet 6. §-a iktatta be.
+[^317]: A Vhr. 100. § a 75/2011. (V. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^318]: A Vhr. 100. § (4) bekezdését a 75/2011. (V. 2.) Korm. rendelet 7. §-a iktatta be.

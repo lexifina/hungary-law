@@ -1,4 +1,4 @@
-29/E. §[^139] (1) A VET 63/B. §-a, valamint e rendelet 29/E–29/H. §-a és 128/B. §-a alkalmazásában minimális szolgáltatás:
+29/E. §[^143] (1) A VET 63/B. §-a, valamint e rendelet 29/E–29/H. §-a és 128/B. §-a alkalmazásában minimális szolgáltatás:
 
 a) a társasház személyfelvonóinak működőképességéhez szükséges villamosenergia-ellátás és
 
@@ -22,4 +22,4 @@ b) a VET 63/B. § (2) bekezdés b) pontja szerinti társasház esetében a fizet
 
 (5) A VET 63/B. § (2) bekezdés a) pontja szerinti esetben a minimális szolgáltatást egyidejűleg csak egy társasház veheti igénybe ugyanarra a fogyatékkal élő fogyasztóra tekintettel.
 
-[^139]: A Vhr. 29/E. §-át a 119/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
+[^143]: A Vhr. 29/E. §-át a 119/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.

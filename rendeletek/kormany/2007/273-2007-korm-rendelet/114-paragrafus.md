@@ -4,18 +4,18 @@
 
 114. § (1) A rendszerhasználó részére villamos energiát értékesítő egyetemes szolgáltató, kereskedő, termelői engedélyes, valamint közvetlenül szervezett piacról, vagy külföldről villamos energiát vásárló rendszerhasználó köteles együttműködni az átviteli rendszerirányítóval a tárgyhónapra vonatkozó hiteles mennyiségi adatok előállítása, szükség szerinti átadása érdekében.
 
-(2)[^339] Az átviteli rendszerirányító havonta számlát állít ki, és nyújt be a VET 147. §-ának (2) bekezdése szerinti kötelezettek felé.
+(2)[^343] Az átviteli rendszerirányító havonta számlát állít ki, és nyújt be a VET 147. §-ának (2) bekezdése szerinti kötelezettek felé.
 
-(3)[^340]
+(3)[^344]
 
-(4)[^341] A számla a tárgyhónapra vonatkozó hiteles adatokon alapul. A számla tartalmazza a kötelezett teljes tárgyhavi fizetési kötelezettségét, a VET 147. § (1) bekezdésében előírt jogcímek szerinti részletezésben.
+(4)[^345] A számla a tárgyhónapra vonatkozó hiteles adatokon alapul. A számla tartalmazza a kötelezett teljes tárgyhavi fizetési kötelezettségét, a VET 147. § (1) bekezdésében előírt jogcímek szerinti részletezésben.
 
-(5)[^342] Az átviteli rendszerirányító a számlát úgy állítja ki, hogy a kötelezett a számlában feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően kézhez vehesse. A fizetés esedékessége a számla kézhezvételétől számított 5. munkanap.
+(5)[^346] Az átviteli rendszerirányító a számlát úgy állítja ki, hogy a kötelezett a számlában feltüntetett esedékesség időpontját legalább öt munkanappal megelőzően kézhez vehesse. A fizetés esedékessége a számla kézhezvételétől számított 5. munkanap.
 
-(6)[^343] A fizetési kötelezettségekkel kapcsolatos számlákra vonatkozó kifogásokat a számla kézhezvételétől számított 4 munkanapon belül lehet a jogosulttal közölni. A számlára vonatkozó kifogás esetén a nem vitatott részek esedékessége nem változik.
+(6)[^347] A fizetési kötelezettségekkel kapcsolatos számlákra vonatkozó kifogásokat a számla kézhezvételétől számított 4 munkanapon belül lehet a jogosulttal közölni. A számlára vonatkozó kifogás esetén a nem vitatott részek esedékessége nem változik.
 
-[^339]: A Vhr. 114. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^340]: A Vhr. 114. § (3) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (4) bekezdése hatályon kívül helyezte.
-[^341]: A Vhr. 114. § (4) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^342]: A Vhr. 114. (5) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
-[^343]: A Vhr. 114. (6) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
+[^343]: A Vhr. 114. § (2) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^344]: A Vhr. 114. § (3) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (4) bekezdése hatályon kívül helyezte.
+[^345]: A Vhr. 114. § (4) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^346]: A Vhr. 114. (5) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.
+[^347]: A Vhr. 114. (6) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 23. § (5) bekezdése szerint módosított szöveg.

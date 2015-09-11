@@ -44,7 +44,9 @@ g) a felhasználó vagy az (1e) bekezdés esetében a bejelentő – és új fel
 
 (1e)[^84] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a villamosenergia-kereskedő számára bejelenteni. A bejelentésnek legalább az (1b) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia.
 
-(2)[^85] A 2. számú melléklet 13.1. pontjától eltérően, ha a felhasználó hálózathasználati szerződését megbízottként a villamosenergia-kereskedő kezeli,
+(1f)[^85] Ha a felhasználó hálózathasználati szerződését a villamosenergia-kereskedő kezeli megbízottként, a felhasználó az (1) bekezdés szerinti bejelentés keretében a hálózathasználati szerződésének felmondásáról is nyilatkozik.
+
+(2)[^86] A 2. számú melléklet 13.1. pontjától eltérően, ha a felhasználó hálózathasználati szerződését megbízottként a villamosenergia-kereskedő kezeli,
 
 a) a felhasználó (1) bekezdés szerinti bejelentésének tartalmaznia kell a 2. számú melléklet 13.1. pontja szerinti nyilatkozatot, és
 
@@ -68,4 +70,5 @@ b) a hálózati engedélyes helyszíni ellenőrzését megakadályozza,
 [^82]: A Vhr. 22/A. § (1c) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
 [^83]: A Vhr. 22/A. § (1d) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
 [^84]: A Vhr. 22/A. § (1e) bekezdését a 252/2012. (IX. 7.) Korm. rendelet 1. §-a iktatta be.
-[^85]: A Vhr. 22/A. § (2) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^85]: A Vhr. 22/A. § (1f) bekezdését a 254/2015. (IX. 10.) Korm. rendelet 5. §-a iktatta be.
+[^86]: A Vhr. 22/A. § (2) bekezdése a 252/2012. (IX. 7.) Korm. rendelet 2. §-ával megállapított szöveg.

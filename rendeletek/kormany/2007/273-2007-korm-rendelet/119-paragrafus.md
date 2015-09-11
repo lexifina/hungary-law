@@ -1,5 +1,5 @@
 ## (A VET 176. §-ához)
 
-119. §[^356]
+119. §[^360]
 
-[^356]: A Vhr. 119. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
+[^360]: A Vhr. 119. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.

@@ -2,13 +2,13 @@
 
 ## Védendő fogyasztókra vonatkozó részletes szabályok
 
-30. §[^143] (1) A VET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek a háztartásában élő személy:
+30. §[^147] (1) A VET és e rendelet alkalmazásában szociálisan rászoruló fogyasztónak azt a természetes személyt kell tekinteni, aki, vagy akinek a háztartásában élő személy:
 
 a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 32/B. §-a szerinti időskorúak járadékában részesül,
 
 b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
 
-c)[^144] a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban vagy a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
+c)[^148] a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban vagy a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
 
 d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
 
@@ -18,7 +18,7 @@ f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a tám
 
 g) a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket,
 
-h)[^145] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll.
+h)[^149] a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a Nemzeti Eszközkezelővel bérleti jogviszonyban áll.
 
 (2) E cím alkalmazásában a háztartás fogalmát a Szoctv. 4. § (1) bekezdés f) pontja szerint kell értelmezni.
 
@@ -34,7 +34,7 @@ eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás cé
 
 (5) Az elosztó köteles a szociálisan rászoruló fogyasztót a rászorultság igazolását követő 8 napon belül nyilvántartásba venni, és a nyilvántartásba vételről a fogyasztóval jogviszonyban álló villamosenergia-kereskedőt a fogyasztóval egyidejűleg értesíteni.
 
-(6)[^146]
+(6)[^150]
 
 (7) Ha a nyilvántartásba vétel alapjául szolgáló körülmény határozott ideig áll fenn, és annak meghosszabbítását a védendő fogyasztó – a véghatáridő lejártát 30 nappal megelőzően az elosztó által a részére megküldött írásbeli figyelemfelhívás ellenére – nem igazolja, az igazoló iratban meghatározott véghatáridő lejártát követő 8 napon belül az elosztó az érintett védendő fogyasztót törli a nyilvántartásból. A nyilvántartásból való törlésről az érintett védendő fogyasztót az elosztó értesíti. A fogyasztó adatainak megállapíthatósága tekintetében a VET 65. § (4) bekezdésében foglaltak ebben az esetben is irányadók.
 
@@ -42,7 +42,7 @@ eredeti példányának bemutatásával igazolhatja. Az elosztó az igazolás cé
 
 (9) Jogosultságának a VET 65. § (4) bekezdése szerinti ismételt igazolására a szociálisan rászoruló fogyasztó első ízben a nyilvántartásba történő felvételét követő naptári évben köteles.
 
-[^143]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
-[^144]: A Vhr. 30. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^145]: A Vhr. 30. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 3. §-a iktatta be.
-[^146]: A Vhr. 30. § (6) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^147]: A Vhr. 30. §-a a 20/2009. (I. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. február 15. napján fennálló díjhátralékokkal kapcsolatos eljárások tekintetében is alkalmazni kell.
+[^148]: A Vhr. 30. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^149]: A Vhr. 30. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 3. §-a iktatta be.
+[^150]: A Vhr. 30. § (6) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 24. § (2) bekezdése hatályon kívül helyezte.

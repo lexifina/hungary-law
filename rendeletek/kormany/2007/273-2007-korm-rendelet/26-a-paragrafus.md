@@ -1,10 +1,10 @@
 ## (A VET 50. §-ához)
 
-## Közszolgáltatási kötelezettség keretében villamosenergia-vételezésre jogosult szervezetek köre[^117]
+## Közszolgáltatási kötelezettség keretében villamosenergia-vételezésre jogosult szervezetek köre[^121]
 
-26/A. §[^118] (1) Az egyetemes szolgáltatóhoz tett igénybejelentés esetén közszolgáltatási kötelezettség keretében az egyetemes szolgáltatóra vonatkozó VET 48. §-a, valamint a VET 50. § (2) bekezdése szerinti szerződéskötési kötelezettség kedvezményezettjeként, az egyetemes szolgáltatásra vonatkozó árképzési szabályoknak megfelelő áron a következő szervezetek jogosultak az egyetemes szolgáltatóval villamosenergia-vásárlási szerződést kötni, ha a VET 50. § (3) bekezdése alapján egyébként nem jogosultak egyetemes szolgáltatásra:
+26/A. §[^122] (1) Az egyetemes szolgáltatóhoz tett igénybejelentés esetén közszolgáltatási kötelezettség keretében az egyetemes szolgáltatóra vonatkozó VET 48. §-a, valamint a VET 50. § (2) bekezdése szerinti szerződéskötési kötelezettség kedvezményezettjeként, az egyetemes szolgáltatásra vonatkozó árképzési szabályoknak megfelelő áron a következő szervezetek jogosultak az egyetemes szolgáltatóval villamosenergia-vásárlási szerződést kötni, ha a VET 50. § (3) bekezdése alapján egyébként nem jogosultak egyetemes szolgáltatásra:
 
-a)[^119] a Magyar Államkincstár által vezetett törzskönyvi nyilvántartásba bejegyzett költségvetési szervek, kisebbségi önkormányzatok, a helyi önkormányzatok, a települési és területi kisebbségi önkormányzatok társulásai, a települési önkormányzatok társulása,;
+a)[^123] a Magyar Államkincstár által vezetett törzskönyvi nyilvántartásba bejegyzett költségvetési szervek, kisebbségi önkormányzatok, a helyi önkormányzatok, a települési és területi kisebbségi önkormányzatok társulásai, a települési önkormányzatok társulása,;
 
 b) a (2) bekezdés szerinti fenntartó által működtetett alábbi közfeladatot ellátó intézmények:
 
@@ -18,9 +18,9 @@ bd) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXI
 
 (2) Az (1) bekezdés b) pontja szerinti fenntartónak minősül:
 
-a)[^120] a központi költségvetési szerv, a helyi önkormányzat, a helyi önkormányzatok intézményi társulása, , az országos kisebbségi önkormányzat, a települési kisebbségi önkormányzat és a területi kisebbségi önkormányzat (a továbbiakban együtt: állami fenntartó);
+a)[^124] a központi költségvetési szerv, a helyi önkormányzat, a helyi önkormányzatok intézményi társulása, , az országos kisebbségi önkormányzat, a települési kisebbségi önkormányzat és a területi kisebbségi önkormányzat (a továbbiakban együtt: állami fenntartó);
 
-b)[^121] az egyházi jogi személy;
+b)[^125] az egyházi jogi személy;
 
 c) az alapítvány, a közalapítvány és annak alapító okiratban jogi személlyé nyilvánított szervezeti egysége.
 
@@ -28,8 +28,8 @@ c) az alapítvány, a közalapítvány és annak alapító okiratban jogi szemé
 
 (4) Az egyetemes szolgáltatóval megkötésre kerülő villamosenergia-vásárlási szerződésre egyebekben az általános rendelkezések alkalmazandóak azzal, hogy az e §-ban meghatározott jogosultakat az egyetemes szolgáltatással járó ellátási kötelezettségen, az áralkalmazáson, és a végső menedékes jogintézménye keretében biztosított ellátási jogosultságon kívül egyéb kedvezmény nem illeti meg.
 
-[^117]: A Vhr. 26/A. §-át megelőző alcímet a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
-[^118]: A Vhr. 26/A. §-át a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
-[^119]: A Vhr. 26/A. § (1) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^120]: A Vhr. 26/A. § (2) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^121]: A Vhr. 26/A. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^121]: A Vhr. 26/A. §-át megelőző alcímet a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^122]: A Vhr. 26/A. §-át a 350/2008. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^123]: A Vhr. 26/A. § (1) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^124]: A Vhr. 26/A. § (2) bekezdés a) pontja a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^125]: A Vhr. 26/A. § (2) bekezdés b) pontja a 297/2013. (VII. 29.) Korm. rendelet 41. §-ával megállapított szöveg.

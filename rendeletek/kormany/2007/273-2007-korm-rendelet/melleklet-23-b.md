@@ -188,7 +188,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló fogyasztó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^452]
+23/b. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^458]
 
 Kérelem fogyatékkal élő személyként a védendő fogyasztók nyilvántartásába történő
 
@@ -212,20 +212,4 @@ c) anyja neve:
 
 d) születési helye és ideje:
 
-e) lakóhelye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
-
-f) tartózkodási helye (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó):
-
-g) ellátási szünet esetén értesítendő személy családi és utóneve, értesítési címe (irányítószám, település, utca/út/tér, házszám, lépcsőház, emelet, ajtó), telefonszáma:
-
-Ha a villamosenergia-kereskedő által kiállított számlán megjelölt személy nem saját jogán, hanem a vele egy háztartásban élő személyre tekintettel kéri védendő fogyasztóként történő nyilvántartásba vételét (nyilvántartásba vételének meghosszabbítását), e személy
-
-a) családi és utóneve:
-
-b) születési neve:
-
-c) anyja neve:
-
-d) születési helye és ideje:
-
-[^452]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. §-a, a 24/2015. (II. 20.) Korm. rendelet 32. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 107. § (2) bekezdése szerint módosított szöveg.
+[^458]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A 23/b. számú melléklet a 378/2011. (XII. 31.) Korm. rendelet 31. § (14) bekezdésével megállapított, a 95/2012. (V. 15.) Korm. rendelet 38. §-a, a 24/2015. (II. 20.) Korm. rendelet 32. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 107. § (2) bekezdése szerint módosított szöveg.
