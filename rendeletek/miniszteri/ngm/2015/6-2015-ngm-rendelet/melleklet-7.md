@@ -94,7 +94,7 @@
 
 | 45 | 233321 |  | Adósságkezelés költségei | Adósságkezelés költségeinek fedezése. | ÁKK Zrt. |  |  | Az összeget a Kincstár az ÁKK Zrt. által kibocsátott számla alapján minden hónap 5-éig folyósítja egyenlő részletekben. |  |  | Kincstár |  |  |
 
-7. melléklet a 6/2015. (III. 18.) NGM rendelethez
+7. melléklet a 6/2015. (III. 18.) NGM rendelethez[^4]
 
 XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi kezelésű előirányzatai
 
@@ -108,7 +108,7 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 
 | 4 |  | Lakástámogatások |  |  |  |  |  |  |  |  |  |  |
 
-| 5 | 005137 |  | Egyéb lakástámogatások | Lakástámogatási rendszer kiadásai | A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendeletben (a továbbiakban: R14.), a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendeletben (a továbbiakban: R15.), a lakásépítési támogatásról szóló 256/2011. (XII. 6.) Korm. rendeletben (a továbbiakban: R16.), az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendeletben (a továbbiakban: R17.), a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendeletben (a továbbiakban: R18.) ,és a lakáselőtakarékosság állami támogatásáról szóló 215/1996. (XII. 23.) Korm. rendeletben (a továbbiakban: R19.) meghatározott jogosulti kör. |  |  | Az R14., az R15., az R16., az R17., az R18.,és az R19. alapján a Kincstár végzi. |  |  | Kincstár |  |  |
+| 5 | 005137 |  | Egyéb lakástámogatások | A lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendeletben (a továbbiakban: R14.), a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendeletben (a továbbiakban: R15.), a lakásépítési támogatásról szóló 256/2011. (XII. 6.) Korm. rendeletben (a továbbiakban: R16.), az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendeletben (a továbbiakban: R17.), a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendeletben (a továbbiakban: R18.) és a lakáselőtakarékosság állami támogatásáról szóló 215/1996. (XII. 23.) Korm. rendeletben (a továbbiakban: R19.) meghatározott támogatások nyújtása és az ahhoz kapcsolódó szolgáltatások igénybevételével összefüggő kiadások teljesítése. | Költségvetési szervek, államháztartáson kívüli jogi személyek. |  |  | Az R14., az R15., az R16., az R17., az R18.,és az R19. alapján a Kincstár végzi. |  |  | A kötelezettség- vállalás és a teljesítés igazolása kivételével a Kincstár. |  |  |
 
 | 6 |  | Vállalkozások folyó támogatása |  |  |  |  |  |  |  |  |  |  |
 
@@ -259,3 +259,5 @@ XLII. A költségvetés közvetlen bevételei és kiadásai fejezet központi ke
 | 79 | 251001 |  | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap támogatása | Elkülönített állami pénzalap részére központi támogatás biztosítása. | Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap |  |  | Az Ávr. 133. § (4) bekezdése szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
 
 | 80 | 349139 |  | Nemzeti Kutatási, Fejlesztési és Innovációs Alap támogatása | Elkülönített állami pénzalap részére központi támogatás biztosítása. | Nemzeti Kutatási, Fejlesztési és Innovációs Alap |  |  | Az Ávr. 133. § (4) bekezdése szerint, előirányzat-felhasználási terv alapján. |  |  | Kincstár |  |  |
+
+[^4]: A 7. melléklet a 24/2015. (IX. 10.) NGM rendelet 2. §-a szerint módosított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-6-20-2X
 | 2015-03-20 | 2015-6-20-2X.2 | 2010: CXXX. törvény |
 | 2015-04-01 | 2015-6-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-04-02 | 2015-6-20-2X.4 | 2010: CXXX. törvény |
+| 2015-09-11 | 2015-6-20-2X.5 | 24/2015. (IX. 10.) NGM rendelet |
