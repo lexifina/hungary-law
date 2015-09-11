@@ -8,7 +8,7 @@
 
 ## 3.[^1]
 
-1. melléklet az 1291/2015. (V. 5.) Korm. határozathoz
+1. melléklet az 1291/2015. (V. 5.) Korm. határozathoz[^2]
 
 ## A TÁRSADALMI INFRASTRUKTÚRA OPERATÍV PROGRAM 2011–2013. ÉVEKRE SZÓLÓ AKCIÓTERVE
 
@@ -236,7 +236,7 @@ A prioritás célja a TIOP eredményes és hatékony megvalósítása. A technik
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 0,06 | 0,37 | 0,31 | 0,00 | 3,55 | 4,29 |
+| 3. | 0,06 | 0,37 | 0,31 | 0,00 | 4,75 | 5,49 |
 
 | 4. | Többletkötelezettség-vállalás: 1,26 Mrd Ft |
 
@@ -250,7 +250,7 @@ A prioritás célja a TIOP eredményes és hatékony megvalósítása. A technik
 
 | 2. | 2007–2013. | 2014. | 2015. | Összesen |
 
-| 3. | 13,80 | 0,00 | 3,55 | 17,35 |
+| 3. | 13,80 | 0,00 | 4,75 | 18,55 |
 
 4.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -264,4 +264,7 @@ A prioritás célja a TIOP eredményes és hatékony megvalósítása. A technik
 
 | 3. | 4.2.1. | Az OP lebonyolításával kapcsolatos egyéb feladatok | 0,06 | 0,37 | 0,31 | 0,00 | 3,55 | A konstrukció célja a TIOP lebonyolításával kapcsolatos feladatok megvalósítása: 1. monitoring bizottság üléseinek megrendezése, 2. éves megvalósítási jelentések készítése, 3. tanulmányok, elemzések készítése, 4. szakértői tanácsadás, 5. szakmai rendezvények megvalósítása, 6. szakmai anyagok fordítása, tolmácsolás, 7. humánkapacitás-fejlesztés, valamint 8. államháztartási rendszeren belüli non-profit szervezetek operatív program tervezését és sikeres végrehajtását szolgáló specifikus tevékenységeinek és feladatainak ellátása. | emberi erőforrások minisztere | – |
 
+| 4. | 4.1.2. | Vásárolt kommunikációs szolgáltatások | 0,00 | 0,00 | 0,00 | 0,00 | 1,20 | A Társadalmi Infrastruktúra Operatív Program intézkedéseivel kapcsolatos kommunikációs célú feladatok ellátása. | emberi erőforrások minisztere | – |
+
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1652/2015. (IX. 10.) Korm. határozat 3–4. pontja szerint módosított szöveg.
