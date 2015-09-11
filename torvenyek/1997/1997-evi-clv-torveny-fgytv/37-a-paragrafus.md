@@ -26,22 +26,54 @@ d) hivatkozás a fogyasztóvédelemért felelős miniszter által vezetett minis
 
 e) a 37. § szerinti eljárási szabályzatok.
 
-(3) A békéltető testületek honlapján közzé kell tenni a következőket:
+(3) A békéltető testület naprakész, az eljárására vonatkozó és könnyen hozzáférhető információkkal ellátott internetes honlapot működtet, amelyen biztosítja, hogy a fogyasztó online úton is benyújthassa kérelmét és annak mellékleteit. Az internetes honlapon közzé kell tenni és kérés esetén elektronikus úton a felek rendelkezésére kell bocsátani legalább a következő információkat:
 
-a) a békéltető testület címe, telefonszáma és elektronikus levélcíme,
+a) a békéltető testület elérhetőségeit, így különösen székhelyét, postacímét, e-mail címét, telefonszámát, valamint faxszámát,
 
-b) a békéltető testület tagjainak a 23/A. §-ban meghatározott listája,
+b) annak tényét, hogy a békéltető testületet az Európai Bizottság jegyzékében nyilvántartásba vették-e,
 
-c) hivatkozás a fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzétett, az (1) bekezdés c) pontja szerinti tájékoztatás elérhetőségére,
+c) a békéltető testületi tagok nevét, az őket jelölő fogyasztói érdekek képviseletét ellátó egyesület vagy gazdasági kamara megnevezését, valamint megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,
 
-d) az országos eljárási szabályzat,
+d) a békéltető testületi tagok függetlenségére és pártatlanságára vonatkozó törvényes követelményeket,
 
-e) a békéltető testület eljárási szabályzata,
+e) a békéltető testületi tagok esetleges tagságát az alternatív vitarendezési fórumok határokon átnyúló vitarendezést elősegítő hálózatában,
 
-f) a békéltető testület 36/A. § szerinti összefoglaló tájékoztatói,
+f) a békéltető testület hatáskörére vonatkozó információkat,
 
-g) a békéltető testületek eljárását akadályozó vállalkozásoknak a 36/B. §-ban meghatározott adatokat tartalmazó jegyzéke,
+g) azt a tájékoztatást, amely szerint a békéltető testület eljárása jogszabályon, valamint adott esetben ezt részletező országos eljárási szabályzaton, saját eljárási szabályzatán alapul,
 
-h) a békéltető testületnél a 36/C. § (1) bekezdése alapján általános alávetési nyilatkozatot tett vállalkozások jegyzéke az alávetés esetleges korlátozásának megadásával,
+h) azt a tájékoztatást, hogy a békéltető testületi eljárást kizárólag fogyasztónak minősülő személy kezdeményezheti a békéltető testület hatáskörébe tartozó ügyekben akkor, ha már előzetesen megkísérelte a fogyasztói jogvita rendezését és a vita megkísérlésének tényére vonatkozóan bizonyítékkal rendelkezik,
 
-i) hivatkozás az egyes békéltető testületeknél a 36/C. § (1) bekezdése alapján általános alávetési nyilatkozatot tett vállalkozásoknak a fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzétett, az (1) bekezdés f) pontja szerinti jegyzék, valamint a Magyar Kereskedelmi és Iparkamara által a (2) bekezdés c) pontja szerint közzétett jegyzék elérhetőségére.
+i) arra vonatkozó tájékoztatást, hogy a fogyasztó bármikor visszavonhatja kérelmét,
+
+j) a fogyasztói jogvitával érintett felek költségviselésére vonatkozó tájékoztatást,
+
+k) a békéltető testületi eljárás átlagos időtartamát,
+
+l) a békéltető testületi eljárás során meghozatalra kerülő lehetséges döntésekre, azok joghatására és kikényszeríthetőségére, valamint ennek módjára vonatkozó tájékoztatást,
+
+m) a békéltető testület tevékenységére vonatkozó éves beszámolót.
+
+(4) A békéltető testületek, valamint az Európai Fogyasztói Központok Hálózatának Magyarországon működő központja, továbbá a fogyasztói érdekek képviseletét ellátó egyesületek, valamint a kereskedelmi és iparkamarák internetes honlapjukon közzéteszik az Európai Bizottságnak a békéltető testületekről vezetett jegyzékét.
+
+(5) A békéltető testületekről a fogyasztóvédelemért felelős miniszter nyilvántartást vezet, amely a (6) bekezdés a), d) és e) pontjaiban meghatározott adatokat tartalmazza.
+
+(6) A békéltető testületek a nyilvántartásba vételük érdekében a következőkről tájékoztatják a fogyasztóvédelemért felelős minisztert:
+
+a) név, elérhetőség és honlapcím,
+
+b) felépítés és finanszírozás, ideértve a békéltető testületi tagok személyére, javadalmazására, megbízatásuk idejére és arra a szervezetre vonatkozó információkat, amelynek a megbízásában állnak,
+
+c) a békéltető testületi eljárások átlagos időtartama a 36/A. § (1) bekezdés szerinti tájékoztató benyújtását követően,
+
+d) a békéltető testületek hatáskörébe tartozó ügyek,
+
+e) nyilatkozat arról, hogy a békéltető testület megfelel a (3) bekezdésben, a 18. § (6) bekezdésében, a 27. §-ban, a 28/A. §-ban, a 29. § (3)–(5b) bekezdésében, a 30. § (2) bekezdésében, a 33. § (5) bekezdésében, valamint a 36/A. § (1) és (2) bekezdésében meghatározott minőségi követelményeknek.
+
+(7) Ha a békéltető testület nem teljesíti a (6) bekezdés e) pontjában meghatározott követelményeket vagy elmulasztja a 36/A. § (1) bekezdésében meghatározott tájékoztatási kötelezettségét, a fogyasztóvédelemért felelős miniszter felszólítja a békéltető testületet a követelmények és a tájékoztatás haladéktalan teljesítésére. Ha a békéltető testület a felszólítást követő kilencven nap elteltével sem felel meg a követelményeknek vagy nem adja meg a szükséges tájékoztatást, a fogyasztóvédelemért felelős miniszter törli a békéltető testületet a nyilvántartásból, és az erről szóló döntését megküldi a békéltető testület részére.
+
+(8) Az (5) bekezdés szerinti adatok megváltozása esetén a békéltető testület haladéktalanul értesíti a fogyasztóvédelemért felelős minisztert.
+
+(9) A fogyasztóvédelemért felelős miniszter az (5) bekezdés szerinti nyilvántartást megküldi az Európai Bizottság részére.
+
+(10) A fogyasztóvédelemért felelős miniszter az (5) bekezdés szerinti nyilvántartásban bekövetkezett változásról értesíti az Európai Bizottságot.

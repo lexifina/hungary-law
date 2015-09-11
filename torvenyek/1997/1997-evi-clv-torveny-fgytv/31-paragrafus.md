@@ -1,4 +1,4 @@
-31. § (1) A kérelem, illetve a válaszirat az eljárás során szabadon módosítható vagy kiegészíthető, kivéve, ha az eljáró tanács ennek lehetőségét az ezzel okozott késedelemre tekintettel kizárja, vagy a vállalkozás az alávetésre hivatkozva a kérelem módosítása, illetőleg kiegészítése ellen tiltakozik.
+31. § (1) A kérelem, illetve a válaszirat az eljárás során szabadon módosítható vagy kiegészíthető, kivéve, ha az eljáró tanács ennek lehetőségét az ezzel okozott késedelemre tekintettel kizárja, vagy a vállalkozás az eseti alávetésre hivatkozva a kérelem módosítása, illetőleg kiegészítése ellen tiltakozik.
 
 (2) Ha a meghallgatáson bármelyik fél szabályszerű értesítés ellenére nem jelenik meg, vagy nem terjeszti elő bizonyítékait, a tanács lefolytatja az eljárást, és a rendelkezésre álló adatok alapján dönt.
 
@@ -10,7 +10,9 @@ b) a felek az eljárás megszüntetésében megállapodnak,
 
 c) az eljárás folytatása lehetetlen,
 
-d) az eljárás folytatására a tanács megítélése szerint bármely okból – ideértve azt az esetet is, ha a kérelem megalapozatlansága meghallgatás tartása nélkül megállapítható – nincs szükség.
+d) az eljárás folytatására a tanács megítélése szerint bármely okból – ideértve azt az esetet is, ha a kérelem megalapozatlansága meghallgatás tartása nélkül megállapítható – nincs szükség,
+
+e) a 29. § (4) bekezdése szerinti valamely körülmény a tudomására jut.
 
 (4) A tanács az ügy érdemében szótöbbséggel dönt.
 
