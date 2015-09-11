@@ -2,6 +2,6 @@
 
 ## Egyensúlytartás
 
-107. §[^338] A szállítási rendszerüzemeltető a hidraulikai egyensúly fenntartása érdekében jogosult a 108. § (1) bekezdése szerinti egyensúlyozó eszközöket igénybe venni az ÜKSZ-ben meghatározott módon.
+107. §[^359] A szállítási rendszerüzemeltető a hidraulikai egyensúly fenntartása érdekében jogosult a 108. § (1) bekezdése szerinti egyensúlyozó eszközöket igénybe venni az ÜKSZ-ben meghatározott módon.
 
-[^338]: A Vhr. 107. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
+[^359]: A Vhr. 107. §-a a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.

@@ -1,4 +1,4 @@
-89. §[^278] (1) A rendszerhasználó a betáplálási-kiadási ponton lekötött kapacitásra, és az összekapcsolási pontra vonatkozóan nominálást és napon belüli újranominálást ad le az érintett rendszerüzemeltetők informatikai platformjára az ÜKSZ-ben rögzített folyamatoknak megfelelően.
+89. §[^294] (1) A rendszerhasználó a betáplálási-kiadási ponton lekötött kapacitásra, és az összekapcsolási pontra vonatkozóan nominálást és napon belüli újranominálást ad le az érintett rendszerüzemeltetők informatikai platformjára az ÜKSZ-ben rögzített folyamatoknak megfelelően.
 
 (2) A rendszerüzemeltetők – a kapcsolt kapacitásokra leadott együttes nominálási eljárás keretében leadott nominálások kivételével – nominálási egyezőségi vizsgálatot folytatnak le az (1) bekezdés szerinti betáplálási-kiadási ponton, valamint az összekapcsolási ponton az ÜKSZ-ben meghatározott szabályoknak megfelelően.
 
@@ -6,4 +6,4 @@
 
 (4) A rendszerüzemeltetők a kapacitáslekötési, nominálási, újranominálási és allokálási feladataikhoz szükséges adatokat kötelesek elektronikus módon, az ÜKSZ-ben meghatározott eljárásrend szerint a kapcsolódó rendszerüzemeltetők, valamint a rendszerhasználók részére eljuttatni.
 
-[^278]: A Vhr. 89. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^294]: A Vhr. 89. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

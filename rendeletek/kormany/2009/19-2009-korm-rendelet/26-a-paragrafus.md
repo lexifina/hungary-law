@@ -1,4 +1,4 @@
-## Kereskedőváltás[^116]
+## Kereskedőváltás[^124]
 
 26/A. § (1) Ha a földgázkereskedő a GET 31/B. § (1) bekezdés b) pontja szerinti értesítést küld a felhasználónak – így különösen a felmondás benyújtásának időpontjáig lejárt tartozásról –, a földgázkereskedő köteles részletesen tájékoztatni a felhasználót a nem teljesített szerződéses feltételekről és azok teljesítésének módjáról.
 
@@ -6,22 +6,22 @@
 
 (3) A kereskedőváltással érintett földgázkereskedők a GET 31/B. § (4) bekezdése szerinti bejelentést az ÜKSZ szerinti részletes adattartalommal és formátumban kötelesek a rendszerüzemeltető felé megtenni.
 
-(4)[^117] A rendszerüzemeltetők kötelesek az ÜKSZ részeként kereskedőváltás esetére a rendszerhasználati szerződések megkötésére és módosítására egységes eljárásrendet kidolgozni és alkalmazni.
+(4)[^125] A rendszerüzemeltetők kötelesek az ÜKSZ részeként kereskedőváltás esetére a rendszerhasználati szerződések megkötésére és módosítására egységes eljárásrendet kidolgozni és alkalmazni.
 
 (5) Ha a rendszerüzemeltető a korábbi vagy az új földgázkereskedő (3) bekezdés szerinti adatközlésének hibája miatt a kereskedőváltásból eredő kötelezettségeit nem tudja végrehajtani, köteles dokumentálható módon egyeztetni az érintett földgázkereskedőkkel az érintett adat kijavításáról vagy pótlásáról úgy, hogy a GET 31/B. § (4) bekezdés szerinti kötelezettségét határidőben teljesíteni tudja.
 
-(6)[^118] A záró mérőállás meghatározására a felhasználó, a korábbi és az új földgázkereskedő megállapodása az irányadó.
+(6)[^126] A záró mérőállás meghatározására a felhasználó, a korábbi és az új földgázkereskedő megállapodása az irányadó.
 
-(7)[^119] Ha a felek a rendszerüzemeltető GET 31/B. § (4) bekezdése szerinti értesítéséig nem állapodnak meg a záró mérőállásban, a rendszerüzemeltető
+(7)[^127] Ha a felek a rendszerüzemeltető GET 31/B. § (4) bekezdése szerinti értesítéséig nem állapodnak meg a záró mérőállásban, a rendszerüzemeltető
 
 a) távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében a földgáz-kereskedelmi szerződés megszűnésének időpontjában, vagy
 
 b) nem távlehívható fogyasztásmérő berendezéssel rendelkező felhasználó esetében a földgáz-kereskedelmi szerződés megszűnésének napjáig az új földgázkereskedő költségére köteles gondoskodni a fogyasztásmérő berendezés leolvasásáról. A rendszerüzemeltető a nem távlehívható fogyasztásmérő berendezés esetében a záró mérőállást a leolvasás alapján arányosítással határozza meg.
 
-(8)[^120] A rendszerüzemeltető az elszámoláshoz szükséges adatokat a leolvasást követő 3 napon belül közli a korábbi és az új földgázkereskedővel, amely alapján a korábbi földgázkereskedő köteles végszámlát kibocsátani a földgáz-kereskedelmi szerződés megszűnésétől számított 20 napon belül. Az új földgázkereskedő által kiállított első számla kezdő mérőállásának a korábbi földgázkereskedő által kiállított végszámlán szereplő záró mérőállással azonosnak kell lennie.
+(8)[^128] A rendszerüzemeltető az elszámoláshoz szükséges adatokat a leolvasást követő 3 napon belül közli a korábbi és az új földgázkereskedővel, amely alapján a korábbi földgázkereskedő köteles végszámlát kibocsátani a földgáz-kereskedelmi szerződés megszűnésétől számított 20 napon belül. Az új földgázkereskedő által kiállított első számla kezdő mérőállásának a korábbi földgázkereskedő által kiállított végszámlán szereplő záró mérőállással azonosnak kell lennie.
 
-[^116]: A Vhr. „Kereskedőváltás” alcímét (a Vhr. 26/A–26/B. §-t) a 100/2011. (VI. 29.) Korm. rendelet 27. §-a iktatta be.
-[^117]: A Vhr. 26/A. § (4) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 21. § 3. pontja szerint módosított szöveg.
-[^118]: A Vhr. 26/A. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^119]: A Vhr. 26/A. § (7) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
-[^120]: A Vhr. 26/A. § (8) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
+[^124]: A Vhr. „Kereskedőváltás” alcímét (a Vhr. 26/A–26/B. §-t) a 100/2011. (VI. 29.) Korm. rendelet 27. §-a iktatta be.
+[^125]: A Vhr. 26/A. § (4) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 21. § 3. pontja szerint módosított szöveg.
+[^126]: A Vhr. 26/A. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^127]: A Vhr. 26/A. § (7) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 40. §-a iktatta be.
+[^128]: A Vhr. 26/A. § (8) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 40. §-a iktatta be.

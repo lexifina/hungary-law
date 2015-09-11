@@ -1,4 +1,4 @@
-14. §[^77] (1) A telephelyi szolgáltatónak rendelkeznie kell:
+14. §[^78] (1) A telephelyi szolgáltatónak rendelkeznie kell:
 
 a) a telephelyi vezeték üzemeltetési jogával,
 
@@ -10,9 +10,9 @@ d) a tevékenység normál üzemmenetétől eltérő körülmények közötti fo
 
 e) vezetékes szolgáltatás nyújtására, valamint a telephelyi felhasználó igénye esetén a földgáz értékesítésre vonatkozó szerződéssel,
 
-f)[^78] a csatlakozó szállítási rendszerüzemeltetővel vagy földgázelosztóval megkötött, együttműködési megállapodással.
+f)[^79] a csatlakozó szállítási rendszerüzemeltetővel vagy földgázelosztóval megkötött, együttműködési megállapodással.
 
-(2)[^79] Az (1) bekezdés f) pontjában megjelölt, szállítási rendszerüzemeltetővel vagy a földgázelosztóval megkötött együttműködési megállapodásnak ki kell terjednie:
+(2)[^80] Az (1) bekezdés f) pontjában megjelölt, szállítási rendszerüzemeltetővel vagy a földgázelosztóval megkötött együttműködési megállapodásnak ki kell terjednie:
 
 a) a telephelyi vezeték és a földgázelosztó és -szállítóhálózat csatlakozási pontjának használatára, valamint az ehhez kapcsolódó kötelezettségek és felelősségek rögzítésére,
 
@@ -28,6 +28,6 @@ f) kapacitásfejlesztésnél történő eljárásokra,
 
 g) a földgáz rendszerek közötti átadásánál követendő normál és rendkívüli üzemmeneti eljárásokra.
 
-[^77]: A Vhr. 14. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^78]: A Vhr. 14. § (1) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (2) bekezdése szerint módosított szöveg.
-[^79]: A Vhr. 14. § (2) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (2) bekezdése szerint módosított szöveg.
+[^78]: A Vhr. 14. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^79]: A Vhr. 14. § (1) bekezdés f) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (2) bekezdése szerint módosított szöveg.
+[^80]: A Vhr. 14. § (2) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (2) bekezdése szerint módosított szöveg.
