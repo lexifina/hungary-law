@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-34-00-00
 | 2014-11-26 | 2014. évi LXXIII. törvény | 2004-34-00-00.17 |
 | 2015-01-01 | 2014. évi XCIX. törvény | 2004-34-00-00.18 |
 | 2015-06-07 | 2015. évi LVII. törvény | 2004-34-00-00.19 |
+| 2015-09-11 | 2015. évi CXXXVII. törvény | 2004-34-00-00.20 |

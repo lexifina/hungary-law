@@ -8,4 +8,6 @@ b) a bírság kiszabásának alapjául szolgáló tényállás megvalósulásáv
 
 c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, vagy
 
-d) a jogsértésre a személyeknek koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó személlyel szemben került sor.
+d) a jogsértésre a személyeknek koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó személlyel szemben került sor,
+
+e) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a fogyasztóvédelemről szóló 1997. évi CLV. törvény 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
