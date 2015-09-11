@@ -1,8 +1,8 @@
-## Zaj- és rezgés elleni védelem[^188]
+## Zaj- és rezgés elleni védelem[^186]
 
 55. § (1) Az építményt és részeit, szerkezeteit úgy kell méretezni és megvalósítani, hogy a környezetéből ható zaj- és rezgéshatásoknak (pl. szeizmikus és forgalmi rezgéshatásoknak) az előírt mértékben ellenálljon, illetőleg azt meghatározott mértékig csillapítsa.
 
-(2)[^189] Az építményt és részeit, az önálló rendeltetési egységet, helyiséget úgy kell megvalósítani, ehhez az építési anyagokat, az épületszerkezeteket és a rögzített berendezési tárgyakat úgy kell megválasztani és beépíteni, hogy a rendeltetésszerű használatuk során keletkező zaj- és rezgéshatás az építmény helyiségeinek, tereinek és külső környezetének rendeltetésszerű használatát ne akadályozza, az előírt mértéknél nagyobb zaj- és rezgéshatással ne terhelje, továbbá feleljen meg a vonatkozó jogszabályok és szabványok előírásainak.
+(2)[^187] Az építményt és részeit, az önálló rendeltetési egységet, helyiséget úgy kell megvalósítani, ehhez az építési anyagokat, az épületszerkezeteket és a rögzített berendezési tárgyakat úgy kell megválasztani és beépíteni, hogy a rendeltetésszerű használatuk során keletkező zaj- és rezgéshatás az építmény helyiségeinek, tereinek és külső környezetének rendeltetésszerű használatát ne akadályozza, az előírt mértéknél nagyobb zaj- és rezgéshatással ne terhelje, továbbá feleljen meg a vonatkozó jogszabályok és szabványok előírásainak.
 
-[^188]: Az 55. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 32. § 6. pontja szerint módosított szöveg.
-[^189]: Az 55. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^186]: Az 55. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 32. § 6. pontja szerint módosított szöveg.
+[^187]: Az 55. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

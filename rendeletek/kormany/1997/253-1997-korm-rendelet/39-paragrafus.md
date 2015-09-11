@@ -1,6 +1,6 @@
 ## Építmény elhelyezése közterületen
 
-39. § (1)[^137] Közterületen, közterület alatt és közterület fölött építményt, építményrészt elhelyezni, kialakítani csak a helyi építési szabályzat alapján, valamint a 35. § (8) bekezdése és (9) bekezdése b) pontja, továbbá a 40. § előírásai szerint lehet.
+39. § (1)[^135] Közterületen, közterület alatt és közterület fölött építményt, építményrészt elhelyezni, kialakítani csak a helyi építési szabályzat alapján, valamint a 35. § (8) bekezdése és (9) bekezdése b) pontja, továbbá a 40. § előírásai szerint lehet.
 
 (2) A járdán építmény, köztárgy, berendezés csak abban az esetben állhat, ha
 
@@ -12,7 +12,7 @@ c) a járművezetők kilátását nem gátolja, a közúti forgalmi jelzések fe
 
 d) a közművek elhelyezését, üzemeltetését, karbantartását nem akadályozza (2. ábra).
 
-(3)[^138] A járdán építmények, köztárgyak, berendezések, korlátok csak az előírt szélességű gyalogossáv és az úttest felőli biztonsági sáv közötti berendezési sávban állhatnak. Növényzet a gyalogossáv és a telekhatár közötti területen is telepíthető. A kijelölt gyalogos-átkelőhelyektől a forgalom haladási irányával ellenkező irányban, továbbá a gyalogos-átkelőhely nélküli forgalmi csomópontban az úttest szegélyének sarokpontjától mért 5,00 m-en belüli részén 0,50 m-nél magasabb építmény, kilátást zavaró köztárgy, berendezés és növényzet nem állhat.
+(3)[^136] A járdán építmények, köztárgyak, berendezések, korlátok csak az előírt szélességű gyalogossáv és az úttest felőli biztonsági sáv közötti berendezési sávban állhatnak. Növényzet a gyalogossáv és a telekhatár közötti területen is telepíthető. A kijelölt gyalogos-átkelőhelyektől a forgalom haladási irányával ellenkező irányban, továbbá a gyalogos-átkelőhely nélküli forgalmi csomópontban az úttest szegélyének sarokpontjától mért 5,00 m-en belüli részén 0,50 m-nél magasabb építmény, kilátást zavaró köztárgy, berendezés és növényzet nem állhat.
 
-[^137]: A 39. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^138]: A 39. § (3) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 30. pontja szerint módosított szöveg.
+[^135]: A 39. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^136]: A 39. § (3) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 30. pontja szerint módosított szöveg.

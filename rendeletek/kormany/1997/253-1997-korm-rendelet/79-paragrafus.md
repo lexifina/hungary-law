@@ -1,6 +1,6 @@
-## Gázvezetékek, gázfogyasztó készülékek[^271]
+## Gázvezetékek, gázfogyasztó készülékek[^269]
 
-79. § (1)[^272] A gázenergia felhasználása az építmény biztonságát, állékonyságát és az egészséget nem veszélyeztetheti. Gázvezetéket, gázfogyasztó készüléket, gázfelhasználó technológiát, valamint ezek tartozékait (gázberendezés) építményben alkalmazni csak a vonatkozó jogszabályok, szabványok és ágazati előírások szerint szabad.
+79. § (1)[^270] A gázenergia felhasználása az építmény biztonságát, állékonyságát és az egészséget nem veszélyeztetheti. Gázvezetéket, gázfogyasztó készüléket, gázfelhasználó technológiát, valamint ezek tartozékait (gázberendezés) építményben alkalmazni csak a vonatkozó jogszabályok, szabványok és ágazati előírások szerint szabad.
 
 (2) Égéstermék-elvezetés nélküli gázkészülék (főző, sütő, vízmelegítő, fűtő stb.) nem alkalmazható
 
@@ -14,17 +14,17 @@ d) közvetlen természetes szellőzés nélküli helyiségben.
 
 (3) A gázkészülék működéséhez szükséges légtérbővítés (szellőzőnyílás) a (2) bekezdésben említett helyiségekre nem nyílhat.
 
-(4)[^273] Nevelési-oktatási építménynek a 0–18 éves gyermekek, tanulók tartózkodására szolgáló helyiségében, terében gázfogyasztó készülék és kapcsolója, automatikája, csak úgy alkalmazható, ha ahhoz a gyermekek, tanulók nem férhetnek hozzá.
+(4)[^271] Nevelési-oktatási építménynek a 0–18 éves gyermekek, tanulók tartózkodására szolgáló helyiségében, terében gázfogyasztó készülék és kapcsolója, automatikája, csak úgy alkalmazható, ha ahhoz a gyermekek, tanulók nem férhetnek hozzá.
 
-(5)[^274] Gázkészülék nem helyezhető el villamos kezelőhelyiségben.
+(5)[^272] Gázkészülék nem helyezhető el villamos kezelőhelyiségben.
 
-(6)[^275] Nyílt lángú gázfogyasztó készüléket a padlószint felett 1,20 m-nél alacsonyabban lévő benyíló, forgó ablakszárny alatt elhelyezni nem szabad.
+(6)[^273] Nyílt lángú gázfogyasztó készüléket a padlószint felett 1,20 m-nél alacsonyabban lévő benyíló, forgó ablakszárny alatt elhelyezni nem szabad.
 
-(7)[^276] Gázvezeték nem vezethető villamos kezelőhelyiségben és ennek falában, födémében, padozatában.
+(7)[^274] Gázvezeték nem vezethető villamos kezelőhelyiségben és ennek falában, födémében, padozatában.
 
-[^271]: A 79. §-t megelőző alcím a 182/2008. (VII. 14.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^272]: A 79. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 34. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^273]: A 79. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének r) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^274]: A 79. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte, újonnan a 211/2012. (VII. 30.) Korm. rendelet 21. § (1) bekezdése iktatta be.
-[^275]: A 79. § (6) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének r) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^276]: A 79. § (7) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^269]: A 79. §-t megelőző alcím a 182/2008. (VII. 14.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^270]: A 79. § (1) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 34. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^271]: A 79. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének r) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^272]: A 79. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte, újonnan a 211/2012. (VII. 30.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^273]: A 79. § (6) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének r) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^274]: A 79. § (7) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 21. § (2) bekezdése iktatta be.

@@ -1,17 +1,15 @@
-## 32. § Valamennyi építési övezetben, illetőleg övezetben – ha a helyi építési szabályzat, szabályozási terv másként nem rendelkezik – elhelyezhetők:
+32. §[^96] (1) Valamennyi építési övezetben, illetve övezetben – ha a helyi építési szabályzat, szabályozási terv másként nem rendelkezik – elhelyezhetők:
 
 1. a nyomvonal jellegű építmények és műtárgyaik, a külön jogszabályok keretei között,
 
 2. a köztárgyak,
 
-3.[^96] a kutatást és az ismeretterjesztést szolgáló műtárgyak,
+3. a kutatást és az ismeretterjesztést szolgáló műtárgyak,
 
-4.[^97] a honvédelmi és katonai, valamint nemzetbiztonsági építmények,
+4. a nyilvános illemhelyek, hulladékgyűjtők,
 
-5. a nyilvános illemhelyek, hulladékgyűjtők,
+5. a megújuló energiaforrás műtárgya, amely használata során az építési övezetben, övezetben az alaprendeltetésnek megfelelő használatot nem korlátozza, vagy attól nem igényel védelmet.
 
-6.[^98] a megújuló energiaforrás műtárgya, amely használata során az építési övezetben, övezetben az alaprendeltetésnek megfelelő használatot nem korlátozza, vagy attól nem igényel védelmet.
+(2) A honvédelmi és katonai, valamint nemzetbiztonsági építmények valamennyi építési övezetben, illetve övezetben – a telek megengedett beépített területére és beépítési magasságára e rendeletben, továbbá a helyi építési szabályzatban meghatározott előírásokra tekintet nélkül – elhelyezhetők.
 
-[^96]: A 32. § 3. pontja a 182/2008. (VII. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^97]: A 32. § 4. pontja a 182/2008. (VII. 14.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^98]: A 32. § 6. pontját a 182/2008. (VII. 14.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^96]: A 32. § a 250/2015. (IV. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
