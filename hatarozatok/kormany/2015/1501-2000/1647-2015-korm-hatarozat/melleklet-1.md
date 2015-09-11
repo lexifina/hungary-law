@@ -66,7 +66,7 @@
 
 ## Határidő: folyamatos
 
-## 2. A NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársasággal szemben fennálló, peres úton érvényesíthető követelések forrásának biztosításáról szóló 1449/2015. (VII. 6.) Korm. határozat 1. pontjában a „kapcsán” szövegrész helyébe a „kapcsán a 2015. évben” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1647/2015. (IX. 10.) Korm. határozathoz
 
@@ -77,3 +77,5 @@
 | 2. | KÖZOP Kohéziós Alapból származó forrás (nettó, Ft) | KÖZOP hazai társfinanszírozásból származó forrás (ÁFA) (Ft) | IKOP Kohéziós Alapból származó forrás (nettó, Ft) | Hazai költségvetési forrás (ÁFA) (Ft) | KÖZOP Kohéziós Alapból származó forrás (nettó, Ft) | KÖZOP hazai társfinanszírozásból származó forrás (ÁFA) (Ft) | IKOP Kohéziós Alapból származó forrás (nettó, Ft) | Hazai költségvetési forrás (ÁFA) (Ft) |
 
 | 3. | KÖZOP- 2.5.0-09-11- 2013-0001 | Budapest Kelenföld– Székesfehérvár vasútvonal rekonstrukciója 1/3. ütem: Székesfehérvár vasúti csomópont átépítése | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 19 000 000 000 | 5 130 000 000 | 19 500 000 000 | 5 265 000 000 | 26 360 879 063 | 6 469 385 886 | 11 039 120 937 | 3 628 614 114 | A projekt keretében átépítik a székesfehérvári állomás vágányhálózatát, ennek révén a legnagyobb hatékonysággal lehet kiszolgálni az utasok igényeit és lebonyolítani a forgalmat. |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

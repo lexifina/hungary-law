@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1647-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-09-10 | 2015-1647-30-22.1 | 1647/2015. (IX. 10.) Korm. határozat |
+| 2015-09-11 | 2015-1647-30-22.2 | 1171/2023. (IV. 28.) Korm. határozat |
