@@ -1,3 +1,0 @@
-## 1. § A gyakorlati képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásánál figyelembe vehető gyakorlati képzési normatívák mértékéről és a csökkentő tétel számításáról szóló 280/2011. (XII. 20.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az a hozzájárulásra kötelezett, aki a szakképzésről szóló 2011. évi CLXXXVII. törvényben (a továbbiakban: Sztv.) meghatározott szakképző iskolával kötött együttműködési megállapodás alapján folytatott gyakorlati képzés szervezésével tesz eleget hozzájárulási kötelezettségének, éves és havi bruttó kötelezettségét a (2)–(4) bekezdésben meghatározott módon számított csökkentő tétel összegével csökkentheti.”
