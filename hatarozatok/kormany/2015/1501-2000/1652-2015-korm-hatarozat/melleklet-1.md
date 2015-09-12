@@ -16,22 +16,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Társadalmi Infrastruktúra Operatív Program 2011–2013. évekre szóló akciótervének megállapításáról szóló 1291/2015. (V. 5.) Korm. határozat [a továbbiakban: 1291/2015. (V. 5.) Korm. határozat] 1. melléklete a 2. melléklet szerint módosul.
-
-## 4. Az 1291/2015. (V. 5.) Korm. határozat 1. melléklet
-
-## a) 4.2.1. pontjában foglalt táblázat
-
-## aa) E:3 mezőjében a „3,55” szövegrész helyébe a „4,75” szöveg,
-
-## ab) F:3 mezőjében a „4,29” szövegrész helyébe az „5,49” szöveg,
-
-## b) 4.2.2. pontjában foglalt táblázat
-
-## ba) C:3 mezőjében a „3,55” szövegrész helyébe a „4,75” szöveg,
-
-## bb) E:3 mezőjében a „17,35” szövegrész helyébe a „18,55” szöveg
-
-## lép.
+## 3–4.[^2]
 
 1. melléklet az 1652/2015. (IX. 10.) Korm. határozathoz
+
+[^2]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
