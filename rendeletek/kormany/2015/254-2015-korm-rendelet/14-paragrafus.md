@@ -1,1 +1,0 @@
-## „(6) Az ügyfélszolgálatok GET 63. § (5) bekezdése szerinti összevont kezelése akkor lehetséges, ha az adott járás területén az egyetemes szolgáltató által ellátott felhasználók száma nem haladja meg a 2500-at.”

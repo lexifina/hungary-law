@@ -1,1 +1,3 @@
-## „(4a) Az ügyfélszolgálatok VET 50/A. § (2) bekezdése szerinti összevont kezelése akkor lehetséges, ha az adott járás területén az egyetemes szolgáltató által ellátott felhasználók száma nem haladja meg a 2500-at.”
+## 5–6. §[^2]
+
+[^2]: Az 5–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

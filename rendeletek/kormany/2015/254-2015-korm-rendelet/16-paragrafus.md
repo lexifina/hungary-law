@@ -1,3 +1,3 @@
-## 15. §[^3]
+## 15. §[^7]
 
-[^3]: A 15. § a 23. § (2) bekezdése alapján 2015. szeptember 25-én lép hatályba.
+[^7]: A 15. § a 23. § (2) bekezdése alapján 2015. szeptember 25-én lép hatályba.

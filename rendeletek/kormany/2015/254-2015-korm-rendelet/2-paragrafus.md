@@ -1,3 +1,0 @@
-## 1. § A Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet (a továbbiakban: R1.) 3/C. §-a helyébe a következő rendelkezés lép:
-
-## „3/C. § A Hivatal a szén-dioxid szállítására és tárolására alkalmas létesítmények engedélyezésével kapcsolatos eljárásában összegyűjti a 256/2014/EU európai parlamenti és tanácsi rendelet mellékletének 5. pontja szerinti projektekre vonatkozó jelentéstételhez szükséges adatokat, és az 1113/2014/EU európai bizottsági végrehajtási rendelet szerinti formában továbbítja azokat a Magyar Energetikai és Közmű-szabályozási Hivatal részére.”
