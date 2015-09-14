@@ -1,0 +1,135 @@
+# A Kormány 260/2015. (IX. 14.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 127. szám, 2015. szeptember 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2e1fcec45fcd4d4155c225cd0cd285d06dbe0def/dokumentumok/b09270f67372a4fe94781159faf8d5aa9cdf98d2/letoltes)
+
+---
+
+A Kormány 260/2015. (IX. 14.) Korm. rendelete
+a tömeges bevándorlás kezelésével összefüggő és más kormányrendeletek jogharmonizációs célú
+módosításáról
+A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5. pontjában kapott
+felhatalmazás alapján,
+az 2. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés
+12. pontjában kapott felhatalmazás alapján,
+a 3. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 6., 12.1.
+és 12.7. pontjában kapott felhatalmazás alapján,
+a 4. alcím tekintetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. §
+(1) bekezdés a)–c), valamint e)–q) pontjában kapott felhatalmazás alapján,
+a 5. alcím tekintetében a menedékjogról szóló 2007. évi LXXX. törvény 93. § (1) bekezdés a)–i) pontjában, valamint
+(2) bekezdésében kapott felhatalmazás alapján,
+a 6. alcím tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés a), b), d), h)–o), q)–s) és
+w)–y) pontjában kapott felhatalmazás alapján,
+a 7. alcím tekintetében az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdés f) pontjában kapott felhatalmazás
+alapján,
+a 8. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet
+módosítása
+1. §
+Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 24. §-a
+a következő (3) és (4) bekezdéssel egészül ki:
+„(3) Tömeges bevándorlás okozta válsághelyzet esetén az új ideiglenes befogadó állomások építésére irányuló
+beruházások számára kijelölt telkek különleges beépítésre szánt területfelhasználási egységnek tekintendők.
+(4) A (3) bekezdésben meghatározott telkek beépítési feltételeinek meghatározásánál e kormányrendelet
+előírásaitól el lehet térni, a beépítés nagysága szükség esetén 100% is lehet.”
+2. A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó
+építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet
+módosítása
+2. §
+A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági
+engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet 2. § 1. pontja helyébe a következő
+rendelkezés lép:
+(E rendelet alkalmazásában:)
+„1. Honvédelmi és katonai célú építmény, építményrész, építményegyüttes, ideértve az ezekhez az ingatlanokhoz
+közvetlenül tartozó nyomvonal jellegű építményeket is (a továbbiakban együtt: építmény): az az építmény, amely
+sajátos honvédelmi vagy katonai rendeltetésére tekintettel – beleértve a nemzetközi katonai szerződésekből eredő
+kötelezettséget is –honvédségi szolgálati viszonyon kívüli használata korlátozott, kivéve, ha az kizárólag sport,
+üdülési, lakás, kulturális, művelődési, oktatási, igazgatási célra szolgál, vagy abban szociális, illetve egészségügyi
+tevékenységet végeznek.”
+
+3. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló
+343/2006. (XII. 23.) Korm. rendelet módosítása
+3. § (1) Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm.
+rendelet 3/B. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Az (1) bekezdés szerinti nemzetbiztonsági célú építmény, építményrész, épületegyüttes
+a) a nemzetbiztonsági szolgálatok által Magyarország függetlenségének biztosítása és törvényes rendjének védelme
+érdekében végzett tevékenység során használt vagy kifejezetten e célból létesített – különösen a titkosszolgálati
+tevékenység, valamint a titkos információgyűjtés végzésével, illetve támogatásával közvetlenül kapcsolatba hozható
+– építmény vagy terület, mely ingatlan vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek
+összességét, illetve a vagyonkezelői jogot, továbbá a tulajdonosi joggyakorlóval, illetve vagyonkezelővel kötött
+megállapodáson alapuló jogot a nemzetbiztonsági szolgálatok gyakorolják, valamint
+b) az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében és 15/A. §-ában meghatározott, valamint
+a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló
+törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló építmények.”
+(2) Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm.
+rendelet 3/B. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3) és (4) bekezdéssel egészül
+ki:
+„(2) A nemzetbiztonsági célú, illetve rendeltetésű építmények vonatkozásában az építésügyi hatósági
+jogkör gyakorlása során az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint
+az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: Eng.R.) mellett
+a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi
+hatósági engedélyezési eljárások szabályairól szóló kormányrendeletben, az építésfelügyeleti hatósági jogkör
+gyakorlása során a honvédelmi és katonai célú építményekkel kapcsolatos építésfelügyeleti tevékenységről szóló
+kormányrendeletben meghatározott eljárási szabályokat kell megfelelően alkalmazni.
+(3) A tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények
+a) építésügyi hatósági engedélyezése során három napon belül helyszíni szemlét kell tartani és a helyszíni szemlén
+résztvevő szakhatóság állásfoglalását elektronikusan helyben, de legkésőbb a helyszíni szemlét követő napon adja
+meg,
+b) az építésügyi hatósági engedélyezési eljárások az Étv. 4. § (3a) bekezdése, valamint 6. § (3) bekezdése szerinti
+kormányrendelet alapján lefolytathatók a hatályos településrendezési eszközök eltérő rendelkezése esetén is,
+c) jogszerűtlen építési tevékenysége során az Eng. R. 55. §-a alkalmazható.
+(4) A (3) bekezdés szerinti, szállás jellegű, nem életvitelszerű, átmeneti tartózkodásra szolgáló épületet vagy önálló
+rendeltetési egységet úgy kell megtervezni és kialakítani, hogy annak helyiségei, vagy a rendeltetésével hozzá
+tartozó építmények helyiségei a tervezési program szerint tegyék lehetővé
+a) a pihenést (az alvást),
+b) a tisztálkodást, az illemhely-használatot, valamint
+c) a mosást, főzést, élelmiszertárolást, mosogatást, az étkezést, valamint a használathoz szükséges berendezések és
+használati tárgyak tárolását, továbbá egyéb ellátást nyújtó szolgáltatásokat.”
+4. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet módosítása
+4. §
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról
+szóló 114/2007. (V. 24.) Korm. rendelet 129. § (3) bekezdés helyébe a következő rendelkezés lép:
+„(3) Az őrizetben lévő
+a) férfiakat és nőket,
+b) a házastársakat,
+c) a kiskorú gyermekkel rendelkező családokat, valamint
+d) az idegenrendészeti őrizet és az előzetes letartóztatás hatálya alatt lévő személyeket
+külön épületben vagy épületrészben kell elhelyezni.”
+
+5. A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.)
+Korm. rendelet módosítása
+5. §
+A menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet 36/D. §
+(3) bekezdése a következő d) ponttal egészül ki:
+(Az őrizetben lévő)
+„d) őrizet és az előzetes letartóztatás hatálya alatt lévő személyeket”
+(külön épületben vagy épületrészben kell elhelyezni.)
+6. A régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló
+39/2015. (III. 11.) Korm. rendelet módosítása
+6. §
+A régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet
+30. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem
+alatt álló építményekben és építményegyüttesekben vagy azok területén, telkén még a tömeges bevándorlás
+okozta válsághelyzetben sem alakítható ki a menedékjogról szóló törvény és a harmadik országbeli állampolgárok
+beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva
+tartására szolgáló rendeltetés vagy ilyen rendeltetésű építmény.”
+7. Az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló
+211/2015. (VII. 23.) Korm. rendelet módosítása
+7. §
+Hatályát veszti az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló
+211/2015. (VII. 23.) Korm. rendelet 2. § (4) bekezdése.
+8. A határőrizeti célú ideiglenes biztonsági határzár építésén dolgozók védelméről, továbbá
+az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló
+211/2015. (VII. 23.) Korm. rendelet módosításáról szóló 213/2015. (VII. 31.) Korm. rendelet hatályon
+kívül helyezése
+8. §
+Hatályát veszti a határőrizeti célú ideiglenes biztonsági határzár építésén dolgozók védelméről, továbbá
+az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló 211/2015.
+(VII. 23.) Korm. rendelet módosításáról szóló 213/2015. (VII. 31.) Korm. rendelet.
+9. Záró rendelkezések
+9. §
+Ez a rendelet 2015. szeptember 15-én lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

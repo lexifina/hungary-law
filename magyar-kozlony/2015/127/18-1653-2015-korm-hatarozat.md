@@ -1,0 +1,597 @@
+# A Kormány 1653/2015. (IX. 14.) Korm. határozata
+
+Magyar Közlöny 2015. évi 127. szám, 2015. szeptember 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2e1fcec45fcd4d4155c225cd0cd285d06dbe0def/dokumentumok/b09270f67372a4fe94781159faf8d5aa9cdf98d2/letoltes)
+
+---
+
+A Kormány 1653/2015. (IX. 14.) Korm. határozata
+az Országos Fogyatékosságügyi Program végrehajtásának 2015–2018. évekre vonatkozó Intézkedési
+Tervéről
+1. A Kormány
+a) elfogadja az Országos Fogyatékosságügyi Program végrehajtásának 2015–2018. évekre vonatkozó
+– az Országos Fogyatékosságügyi Programról (2015–2025.) szóló 15/2015. (IV. 7.) OGY határozat alapján
+készített, az 1. mellékletben foglalt – Intézkedési Tervét (a továbbiakban: Intézkedési Terv);
+b) felhívja az érintett minisztereket, hogy az Intézkedési Tervben foglalt feladatok végrehajtásáról készítsenek
+beszámolót, és azt küldjék meg az emberi erőforrások miniszterének;
+Felelős: érintett miniszterek
+Határidő: 2019. május 31.
+c) felhívja az emberi erőforrások miniszterét, hogy a b) pontban foglaltak szerint elkészített beszámolók alapján
+készítsen jelentést a Kormány számára az Intézkedési Tervben foglalt feladatok végrehajtásáról;
+Felelős: emberi erőforrások minisztere
+Határidő: 2019. október 31.
+d) felhívja az emberi erőforrások miniszterét, valamint a nemzetgazdasági minisztert, hogy működjenek együtt
+az egyes intézkedések végrehajtásához szükséges költségvetési források tervezése és azok biztosítása
+érdekében a rendelkezésre álló források figyelembevételével.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+Határidő: folyamatos
+2. A Kormány
+a) felhívja az emberi erőforrások miniszterét, hogy koordinálja az Országos Fogyatékosságügyi Program és
+az annak megvalósítását elősegítő Intézkedési Terv végrehajtását;
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+b) felhívja az érintett minisztereket, hogy az emberi erőforrások miniszterének megkeresésére a szükséges
+adatok és információk rendelkezésre bocsátásával segítsék elő az Intézkedési Terv tárcaközi koordinációját, és
+biztosítsák az intézkedések folyamatos nyomon követését.
+Felelős: érintett miniszterek
+Határidő: folyamatos
+3. Ez a határozat a közzétételét követő napon lép hatályba.
+4. Hatályát veszti az új Országos Fogyatékosügyi Program végrehajtásának 2012–2013. évekre vonatkozó intézkedési
+tervéről szóló 1056/2012. (III. 9.) Korm. határozat.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1653/2015. (IX. 14.) Korm. határozathoz
+Az Országos Fogyatékosságügyi Program végrehajtásának 2015–2018. évekre vonatkozó Intézkedési
+Terve
+1. A fogyatékos emberek társadalmi befogadását támogató szakmai fejlesztések
+1.1. A köznevelés rendszerén belül szemléletformáló programokat kell indítani a fogyatékos személyek,
+valamint a fogyatékos személyeket képviselő érdekvédelmi szervezetek bevonásával a gyermekek, tanulók,
+a pedagógusok, óvodapedagógusok és a szülők érzékenyítése érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. december 31.
+Forrás: a finanszírozás tervezett forrása az Emberi Erőforrás Fejlesztési Operatív Program
+(a továbbiakban: EFOP), melyről az éves fejlesztési keretek során születik döntés
+1.2. A társadalom érzékenyítése érdekében szemléletformáló programokat kell indítani – különös tekintettel
+a fogyatékos személyek társadalmi inklúziójának megvalósulására – a Család, Esélyteremtési és Önkéntes
+Házak országos hálózata, a fogyatékos személyek, valamint a fogyatékos személyeket képviselő érdekvédelmi
+szervezetek bevonásával.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/20/3 és 20/30/25/5 sor
+1.3. Országos kutatás útján fel kell tárni a pszichoszociális fogyatékossággal élő személyek körét, társadalmi és
+munkaerő-piaci helyzetét, az általuk igényelt szolgáltatások körét és jellegét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. december 31.
+Forrás: központi költségvetés
+1.4. Szakmai szervezetek bevonásával ágazati együttműködés keretében kell szakmai fejlesztési javaslatot
+kidolgozni a pszichoszociális fogyatékos személyekhez kapcsolódó egészségügyi és szociális szolgáltatások
+fejlesztésének lehetőségeiről.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: forrást nem igényel
+2. Egészségügy
+2.1. A fogyatékos személyek egészségügyi ellátásában résztvevő orvosok és szakdolgozók fogyatékosság-
+specifikus felkészítése érdekében az információátadást és kompetenciafejlesztést megcélzó továbbképzési
+programterveket kell kidolgozni és tájékoztató kiadványokat kell készíteni.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: központi költségvetés
+2.2. Javítani kell a fogyatékos személyek egészségügyi ellátásokhoz való egyenlő esélyű hozzáférését, ennek
+érdekében a betegszervezetek, valamint a fogyatékos személyeket képviselő érdekvédelmi szervezetek
+bevonásával kell felmérni a különböző fogyatékossággal élő gyermekek és felnőttek szűrő- és egyéb
+diagnosztikai vizsgálatokhoz való hozzáférését. A felmérés eredményeire alapozva – a helyi sajátosságok
+figyelembevételével – programokat kell kidolgozni a szolgáltatások elérhetőségének javítása érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+2.3. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 12. §
+(4) bekezdésében rögzített kötelezettség végrehajtása érdekében nyilvános, akadálymentes, elektronikusan
+hozzáférhető tájékoztató felületet kell létrehozni.
+Felelős: emberi erőforrások minisztere
+Határidő: 2015. december 31.
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/20/6 sor
+
+2.4. Meg kell vizsgálni a méltányosságból nyújtott támogatással kölcsönözhető gyógyászati segédeszközök
+körének bővítési lehetőségét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. december 31.
+Forrás: központi költségvetés
+2.5. Munkacsoport keretében át kell tekinteni a támogató technológiai eszközök hozzáférésének feltételeit,
+valamint a támogatással igénybe vehető eszközök körét, el kell különíteni az életvitelt segítő, valamint
+a gyógyászati segédeszközök fogalmát. Meg kell vizsgálni a támogató technológiai eszközök kölcsönzés
+keretében való hozzájutásának feltételeit, és javaslatokat kell kidolgozni annak érdekében, hogy az igénylők
+a valós szükségletüknek megfelelő eszközökhöz jussanak.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: forrást nem igényel
+3. Korai fejlesztés, oktatás, képzés
+3.1. Az egyenlő minőségű koragyermekkori intervenciós szolgáltatásokhoz való területileg egyenletes hozzáférés
+biztosítása érdekében növelni kell a területen dolgozó szakemberek számát, ágazatközi együttműködést és
+egységes eljárásrendet kell kialakítani. A gyermekút nyomon követését szolgáló korszerű adatstruktúrát kell
+kidolgozni, valamint az érintett ágazatok háttérintézményei által kezelt adatbázisok átjárhatóságával a szülők
+és a szakemberek számára létre kell hozni egy egységes tájékoztatási rendszert.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: EFOP 1. prioritás 9. konstrukció
+3.2. Jogszabályi előírások révén kell megerősíteni a gyermekjóléti szolgáltatás koragyermekkori intervencióban
+– különösen az egészségügyi szolgáltatásokhoz, családtervezési, pszichológiai, nevelési, mentálhigiénés
+tanácsadáshoz való hozzáférést segítő feladatok során – betöltött ügyfélirányító szerepkörét, a szolgáltatás
+országos elérhetőségének biztosítását és megfelelő színvonalú ellátását.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: központi költségvetés
+3.3. Képzési programokat kell kidolgozni a koragyermekkori intervenciós szolgáltatásokban résztvevő
+valamennyi szakember kompetenciafejlesztése, szemléletformálása és a családokkal való partneri
+együttműködésük kialakítása érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: EFOP 1. prioritás 9. konstrukció
+3.4. Az inkluzív oktatás feltételeinek megteremtése érdekében munkacsoport keretében kell feltérképezni és
+elemezni az utazó gyógypedagógusi, utazó konduktori hálózat jelenlegi rendszerét. Meg kell határozni
+a fejlesztések új irányait és szabályozási javaslatot kell kidolgozni, amely az inkluzív oktatás szervezeti
+kereteinek kialakítását alapozza meg.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: forrást nem igényel
+3.5. A 3.4. alpont szerinti intézkedés eredményeinek figyelembevételével programot kell indítani az utazó
+gyógypedagógusi, utazó konduktori hálózat szakmai protokolljainak és tárgyi eszközeinek fejlesztése
+érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+3.6. Fejleszteni kell a pedagógiai szakszolgálati intézményrendszert, ennek keretében különösen szükséges
+a megújuló szakszolgálati feladatok megsegítése, az egységes protokollok implementációjának vizsgálata,
+az infrastrukturális feltételek javítása.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+
+3.7. A tehetség felismerése és társadalmi hasznosulása érdekében támogatni kell a fogyatékos fiatalokat integráló
+tehetségsegítő programokat, valamint a fogyatékos fiatalok tehetségsegítő programokban való részvételét.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet
+3.8. Meg kell teremteni a köznevelési, az egészségügyi és a szociális továbbképzési rendszer fogyatékossággal
+érintett képzéseinek kapcsolódási pontjait, az elérhető kreditek kölcsönös elismertetésével gondoskodni kell
+azok átjárhatóságáról, össze kell hangolni az ágazati képzési jogszabályokat.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+3.9. A középsúlyos értelmi fogyatékos tanulók, továbbá a szakképzésből kiszoruló vagy arra még nem felkészült
+enyhe értelmi fogyatékos tanulók munkaerő-piaci esélyeinek javítása érdekében meg kell teremteni
+a piacképes ismereteket biztosító hatékonyabb gyakorlati képzések jogszabályi keretét.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+Határidő: 2016. december 31.
+Forrás: központi költségvetés
+3.10. A fogyatékos fiatalok felsőoktatásban való részvételének elősegítése és lemorzsolódásuk megelőzése
+érdekében egyénre szabott komplex szolgáltatásokat kell kidolgozni és bevezetni, meg kell teremteni
+a fogyatékosságügyi koordinátorok országos hálózatát, tevékenységüket ajánlásokkal, jó gyakorlatok
+bemutatásával kell segíteni.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. május 31.
+Forrás: fogyatékos hallgatók után járó kiegészítő támogatás
+3.11. Elő kell segíteni a fogyatékosságügyi, hozzáférhetőségi, rehabilitációs ismeretek beépülését a releváns
+felsőoktatási képzésekbe.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. augusztus 31.
+Forrás: forrást nem igényel
+3.12. El kell készíteni a magyar jelnyelv sztenderdizációját és nyelvészeti leírását.
+Felelős: emberi erőforrások minisztere
+Határidő: 2015. október 31.
+Forrás: Társadalmi Megújulás Operatív Program (a továbbiakban: TÁMOP) 5.4.6./B-13/1-2013-0001
+azonosító jelű,„JelEsély: A magyar jelnyelv sztenderdizációjának elméleti és gyakorlati lépései”
+című kiemelt projekt
+3.13. Az érintett szakmai és civil szervezetek bevonásával ágazatközi munkacsoportot kell létrehozni a bilingvális
+oktatás bevezetése feltételrendszerének, ütemezésének, valamint a szükséges képzések, tananyagok,
+módszertan rendszerének kidolgozása érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: azonnal
+Forrás: forrást nem igényel
+3.14. Projektet kell indítani a bilingvális oktatási módszer bevezetésének és a magyar jelnyelv oktatásának
+megalapozása, személyi feltételeinek megteremtése, valamint a bilingvális oktatáshoz szükséges módszertan
+és tananyagok kidolgozása érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. március 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+3.15. Annak érdekében, hogy a fogyatékos fiatalok a jövőbeni munkájuk szempontjából releváns kompetenciákat
+biztosító gyakorlati képzésekben részesüljenek, meg kell vizsgálni az egyéni képességeikhez igazodó,
+beilleszkedésüket elősegítő program indításának lehetőségét és annak feltételeit, amely támogatja a későbbi
+nyílt munkaerőpiacra történő belépésüket.
+
+Felelős: Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+emberi erőforrások minisztere
+Határidő: 2015. december 31.
+Forrás: forrást nem igényel
+4. Foglalkoztatás
+4.1. Meg kell vizsgálni a fogyatékos és a megváltozott munkaképességű személyek foglalkoztatásának növelése
+érdekében az atipikus foglalkoztatás nyújtotta lehetőségeket, az ellátható tevékenységeket. A vizsgálat
+alapján meg kell határozni az atipikus foglalkoztatás speciális szervezési igényeit, foglalkoztatási formáktól
+függően fel kell mérni a koordinációs feladatokat, szükséges eszközbeszerzési igényeket, valamint
+a potenciális munkavállalók megfelelő felkészítéséhez szükséges képzéseket, átképzéseket.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+Határidő: 2016. évtől folyamatosan
+Forrás: EFOP 1. prioritás
+Gazdaságfejlesztési és Innovációs Operatív Program (a továbbiakban: GINOP) 5. prioritás
+4.2. A fogyatékos és megváltozott munkaképességű személyek munkalehetőségeinek bővítése, valamint
+szélesebb körű nyílt munkaerő-piaci elhelyezése érdekében fenn kell tartani a foglalkoztatást segítő
+szolgáltatások országos hálózatát és módszertani központját, továbbá a média és a közigazgatási szervek
+bevonásával népszerűsítő programokat szükséges szervezni a munkáltatók szemléletváltása, a célcsoportba
+tartozó személyek foglalkoztatási lehetőségeinek megismerése érdekében.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+belügyminiszter
+Miniszterelnökséget vezető miniszter
+Határidő: folyamatos, a szolgáltató hálózat és a kommunikáció esetében 2015. december 31.
+Forrás: a TÁMOP 5.3.8 azonosító jelű,„A leghátrányosabb helyzetű csoportok munkaerő-piaci
+esélyeinek növelése érdekében motiváló képzések és kapcsolódó szolgáltatások támogatása”
+elnevezésű projekt A1, A2 komponense; az Alternatív Munkaerő-piaci Szolgáltatások, melynek
+finanszírozása 2015-ben a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet,
+20/46 Megváltozott munkaképességűek foglalkoztatásával összefüggő bértámogatás sorról
+történik; EFOP 1. prioritás
+4.3. A munkáltatókkal szélesebb körben meg kell ismertetni a Nemzeti Foglalkoztatási Szolgálat által működtetett
+Virtuális Munkaerő-piaci Portált, ezen keresztül a munkaerő-piaci szolgáltatásokat, valamint a rehabilitációs
+hatóságok szolgáltatásait, amely lehetőséget kínál a munkáltatók részére a fogyatékos és megváltozott
+munkaképességű személyek számára felajánlott nyílt munkaerő-piaci álláshelyeik bejelentésére.
+Felelős: nemzetgazdasági miniszter
+Határidő: 2015. évtől folyamatosan
+Forrás: központi költségvetés XV. Nemzetgazdasági Minisztérium fejezet, 1/1/3 sor
+4.4. Támogatni kell a fogyatékos és megváltozott munkaképességű személyek munkavégzésük helyére történő
+eljutását, a munkavégzést segítő, lehetővé tevő speciális eszközök, berendezések beszerzését, a munkahelyek
+megfelelő, szükség és igény szerinti adaptációját. Mindezeket a megváltozott munkaképességű személyek
+foglalkoztatását elősegítő projektekben elszámolható költségként kell szerepeltetni.
+Felelős: nemzetgazdasági miniszter
+emberi erőforrások minisztere
+Miniszterelnökséget vezető miniszter
+Határidő: 2017. évtől kezdődően
+Forrás: a finanszírozás tervezett forrása a GINOP 1. prioritás, melyről az éves fejlesztési keretek
+tervezése során születik döntés, EFOP 1. prioritás
+5. Szociális szolgáltatások és ellátások
+5.1. Támogatni kell az integrált bölcsődei és óvodai ellátást, ennek megalapozására meg kell vizsgálni
+a fogyatékos gyermekek megfelelő ellátásának feltételeit és az ellátásuk szükségleteit annak érdekében,
+hogy a fogyatékos gyermekek minél nagyobb számban vehessék igénybe a szolgáltatásokat. A vizsgálatot
+követően szolgáltatásfejlesztési javaslatokat kell megfogalmazni.
+
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: forrást nem igényel
+5.2. Meg kell vizsgálni annak lehetőségét, hogy a bölcsődei ellátási formán túl, a napközbeni ellátás egyéb
+formáinál miként lehet ösztönözni a szolgáltatókat a sajátos nevelési igényű, fogyatékos gyermekek
+ellátására. A vizsgálat eredményeire alapozva fejlesztési javaslatokat kell kidolgozni.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+Határidő: 2016. szeptember 30.
+Forrás: központi költségvetés
+5.3. A fogyatékos személyek nappali ellátása tekintetében fel kell mérni az elérhető szolgáltatások hatékonyságát
+és azok országos lefedettségét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2015. szeptember 30.
+Forrás: forrást nem igényel
+5.4. Szabályozási szinten kell lehetővé tenni a fogyatékos személyek részére a szociális alapszolgáltatások
+infrastruktúrájának bővítését, fejlesztését, különös tekintettel a nappali ellátást biztosító intézményekre.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+Határidő: folyamatosan
+Forrás: Terület- és Településfejlesztési Operatív Program
+5.5. Felül kell vizsgálni a fogyatékos emberek személyes életvezetését, önálló életvitelét támogató szociális
+szakemberek képzését, és szükség esetén módosítani, fejleszteni kell a szakemberek képzési követelményeit
+– ennek részeként meg kell jeleníteni a fogyatékosságügyhöz kapcsolódó ágazatok (kiemelten
+az egészségügy, az oktatás, a foglalkoztatás) szakmai, módszertani ismereteit –, továbbá bővíteni kell
+a képzésekbe bevont szakemberek körét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. évtől folyamatosan
+Forrás: az EFOP 3.8.2. azonosító jelű,„Szociális humánerőforrás fejlesztése fenntartótól függetlenül”
+elnevezésű projekt
+5.6. Fel kell mérni az idősek otthonaiban az intézményi jogviszonnyal rendelkező fogyatékos személyek számát,
+továbbá számszerűsíteni kell az idősek otthonaiban és a fogyatékos személyek otthonaiban a szolgáltatást
+igénybe vevők között mutatkozó átfedéseket.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: forrást nem igényel
+5.7. Fejleszteni kell az autista személyek ellátásában szereppel bíró szolgáltatásokat, támogatni kell
+az autizmus specifikus szolgáltatások kialakítását, javítani kell az autista személyek és családjaik számára
+a szolgáltatásokhoz való hozzáférést.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+5.8. Folytatni kell a fogyatékos személyek, valamint a pszichoszociális fogyatékossággal élő személyek átmeneti
+és rehabilitációs intézményeinek korszerűsítését.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+5.9. A fogyatékos személyek saját lakókörnyezetükben való ellátásának elősegítése érdekében fejleszteni
+kell a támogató szolgáltatás infrastruktúráját, gondoskodni kell új gépjárművek beszerzéséről, valamint
+a meglévő gépjárműpark cseréjéről és karbantartásáról. Növelni kell a támogató szolgáltatások kapacitását,
+biztosítani kell a szolgáltatás országos lefedettségét és fogyatékosságtípustól függetlenül biztosítani kell
+a szolgáltatáshoz való egyenletes, egyenlő esélyű hozzáférést.
+
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet
+5.10. Folyamatosan biztosítani kell a súlyos fogyatékos személyek fogyatékossági támogatásának és a vakok
+személyi járadékának évenkénti emelését.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+Határidő: évenként, a nyugdíjemelés időpontjának megfelelően
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet
+5.11. Át kell tekinteni az ápolási díj szabályrendszerét, különös tekintettel a jelenlegi széttagolt állapotvizsgálati
+rendszer egységesítése, valamint az ápolási díjban részesülők szociális biztonságának erősítése
+szempontjából.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. június 30.
+Forrás: forrást nem igényel
+5.12. Munkacsoport keretében át kell tekinteni a megváltozott munkaképességű személyek számára nyújtott
+ellátások szabályozását, valamint a szociális foglalkoztatás szabályrendszerét az ellátásokban részesülők
+szociális biztonságának erősítése, valamint annak érdekében, hogy az ellátások hatékonyabban támogassák
+a megváltozott munkaképességű személyek foglalkoztatását. Ennek keretében megvalósul a megváltozott
+munkaképességű emberek részére biztosított szociális foglalkoztatási rendszer átalakítása.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. június 30.
+Forrás: forrást nem igényel
+6. Komplex rehabilitáció
+6.1. Továbbképzési programok kidolgozásával és kapcsolódó képzések indításával fejleszteni kell a felnőtt
+korú fogyatékos személyek komplex minősítését végző, szakértői bizottságokban dolgozó szakemberek
+fogyatékosság specifikus kompetenciáját.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. évtől folyamatosan
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+6.2. A fogyatékossággal élő és megváltozott munkaképességű személyek ellátásaihoz kapcsolódó minősítési
+folyamatok racionalizálása, fejlesztése, hatékonyságának növelése érdekében, munkacsoport keretében kell
+áttekinteni a komplex minősítés folyamatát.
+Felelős: emberi erőforrások minisztere
+Miniszterelnökséget vezető miniszter
+Határidő: 2015. december 31.
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet
+6.3. Fejleszteni kell a felnőttkorban látássérülté vált személyek számára elemi rehabilitációs szolgáltatást nyújtó
+szervezetek kapacitását.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/20/8 sor
+6.4. Munkacsoportot kell létrehozni a Funkcióképesség, fogyatékosság és egészség nemzetközi osztályozása
+(FNO) gyakorlati alkalmazása feltételeinek vizsgálata céljából.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. december 31.
+Forrás: forrást nem igényel
+6.5. A komplex rehabilitáció hatékonyságának növelése és a rehabilitációs életút folyamatának nyomon
+követhetősége érdekében végre kell hajtani azokat az informatikai fejlesztéseket, amelyek az adatbázisok
+összekapcsolásával és megfelelő rendszerezésével – az adatvédelmi szempontokra figyelemmel – alkalmasak
+naprakész információkat tartalmazó központi információs felület kialakítására.
+
+Felelős: emberi erőforrások minisztere
+Miniszterelnökséget vezető miniszter
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+6.6. Elő kell készíteni a látássérült személyek elemi rehabilitációjának szakmai tartalmát szabályozó jogszabály
+tervezetét, valamint meg kell vizsgálni annak lehetőségét, hogy az elemi rehabilitációs szolgáltatás a jövőben
+valamennyi fogyatékossági csoport számára elérhető legyen.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: forrást nem igényel
+6.7. Át kell tekinteni a fogyatékos és megváltozott munkaképességű személyek foglalkozási rehabilitációjában
+részt vevő szakemberek jogszabályban előírt képzettségi követelményeit és a rehabilitációs szükségletekhez,
+feladatokhoz igazodóan kell azokat módosítani.
+Felelős: emberi erőforrások minisztere
+Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+Határidő: 2018. december 31.
+Forrás: forrást nem igényel
+7. Önrendelkezés, önálló életvitel
+7.1. Át kell tekinteni a támogatott döntéshozatalra vonatkozó bírósági és gyámhatósági jogalkalmazói
+gyakorlatot, ennek alapján az érintett érdekvédelmi szervezetek bevonásával képzéseket kell kidolgozni
+és indítani a bírák, igazságügyi orvosszakértők, gyámhatóságok, szociális, valamint egészségügyi
+intézményekben dolgozó szakemberek, gyermekvédelmi gyámok, továbbá a hivatásos támogatók és
+a hivatásos gondnokok részére.
+Felelős: emberi erőforrások minisztere
+igazságügyi miniszter
+Miniszterelnökséget vezető miniszter
+Határidő: 2016. évtől folyamatosan
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/18 és 20/8 sor
+7.2. Létre kell hozni egy ágazatközi, az érintett civil résztvevőkkel kiegészített munkacsoportot a lakás
+és lakókörnyezet akadálymentesítésének támogatási rendszerére vonatkozó felülvizsgálat, valamint
+a támogatási rendszer átalakítására vonatkozó javaslat kidolgozása céljából.
+Felelős: emberi erőforrások minisztere
+Miniszterelnökséget vezető miniszter
+nemzetgazdasági miniszter
+Határidő: 2016. április 15.
+Forrás: forrást nem igényel
+7.3. Létre kell hozni azt a szakmai műhelyt, amely a szociális intézmény férőhely kiváltás koordinatív-módszertani
+támogatását biztosítja.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: az EFOP 1.9.1. azonosító jelű,„Szociális intézményi férőhelykiváltási szakmai koordinációs
+műhely kialakítása, a kiváltásra történő képzés és felkészítés biztosítása”elnevezésű projekt
+7.4. Az előző évek tapasztalataira alapozva felül kell vizsgálni a férőhelykiváltással és a támogatott lakhatással
+kapcsolatos jogszabályi környezetet a fogyatékos gyermekekre is figyelemmel.
+Felelős: emberi erőforrások minisztere
+Határidő: 2015. december 31.
+Forrás: forrást nem igényel
+7.5. Projektet kell indítani a tartós bentlakást nyújtó szociális intézményi férőhelyek személyközpontú, tényleges
+kiváltása, valamint a kapcsolódó szolgáltatások fejlesztése érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+
+8. Fogyatékos személyek és családjaik
+8.1. Az egészségfejlesztési irodák továbbfejlesztésére és számának növelésére irányuló projekt részeként javítani
+kell a fogyatékos személyek és családtagjaik egyenlő esélyű hozzáférését az irodák szolgáltatásaihoz.
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/10/2 sor és EFOP
+1. prioritás 8. konstrukció
+8.2. A fogyatékos személyek és az őket otthonukban ellátó hozzátartozók munkaerő-piaci re-integrációja
+érdekében olyan ösztönző-rendszereket kell kidolgozni, amelyek megfelelően motiválják a munkáltatókat
+a rugalmas foglalkoztatási formák alkalmazására.
+Felelős: nemzetgazdasági miniszter
+Határidő: 2017. december 31.
+Forrás: a GINOP 5.3.2. azonosító jelű,„A rugalmas foglalkoztatás elterjesztése a konvergencia régiókban
+– rugalmas, családbarát foglalkoztatási módszerek bevezetése a munkáltatóknál”program
+8.3. Projektet kell indítani a fogyatékos emberek és családjaik otthonában nyújtott időszakos kísérés és ellátás
+szolgáltatás országos lefedettségének biztosítása érdekében, ennek keretében növelni kell a nyújtott
+szolgáltatási óraszámok és a szolgáltatásba bevont családok számát.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. évtől folyamatosan
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+8.4. Komplex programokat és helyi pályázatokat kell kidolgozni a fogyatékos gyermeket nevelő családok,
+valamint a fogyatékos szülők mentálhigiénés támogatása érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: 2015. évtől folyamatosan
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/16/7 sor és az EFOP
+1.2.1. azonosító jelű,„Védőháló a családokért”elnevezésű projekt
+8.5. Meg kell vizsgálni, hogy az alapfokú oktatási intézménybe járó gyermekek fogyatékos szülője számára miként
+lehet biztosítani a gyermek által használt tankönyvek egyenlő esélyű hozzáférhetőségét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: forrást nem igényel
+9. Közlekedés
+9.1. Fejleszteni kell az egyenlő esélyű hozzáférés feltételeit a menetrendszerinti közösségi közlekedésben,
+ez magába foglalja a személyszállításban részt vevő járművek, a pályaudvarok, az állomás és a megállóhely
+személyforgalom lebonyolítására és kiszolgálására szolgáló részeinek hozzáférhetőségét.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2018. december 31.
+Forrás: központi költségvetés
+9.2. Figyelemmel kell kísérni a közlekedés hozzáférhetőségét érintő nemzetközi egyezményekből, európai uniós
+normákból, valamint ajánlásokból adódó feladatokat, biztosítani kell a hazai szabályozási környezet és
+az ezekből adódó feladatok összehangolását.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: folyamatosan
+Forrás: központi költségvetés
+10. Sport, kultúra, turizmus
+10.1. Fejleszteni kell a fogyatékos személyek hazai és nemzetközi versenysportját, valamint bővíteni kell
+a rendelkezésre álló speciális sporteszközök körét, továbbá biztosítani kell a sportegészségügyi hálózathoz
+való egyenlő esélyű hozzáférést.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: központi költségvetés
+10.2. Fejleszteni kell a fogyatékos személyek terápiás, rehabilitációs jellegű sportoktatását és a kapcsolódó
+sporttevékenységek fogyatékos személyek számára is egyenlő eséllyel való hozzáférhetőségét.
+
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: központi költségvetés
+10.3. Aktualizálni kell a 2009-ben készített, fogyatékos emberek szabadidős utazási szokásaira vonatkozó éves
+kutatást, így a vendégkör sajátos turisztikai szolgáltatási igényeinek ismeretében lehetőség nyílik az egyes
+fogyatékosságtípusok szerinti elvárások alapján akadálymentesnek minősülő turisztikai szolgáltatások
+azonosítására és a nemzeti turisztikai marketing szervezet (Magyar Turizmus Zrt.) online adatbázisában
+hozzáférhetővé tételére. A fogyatékos turisták magas színvonalú kiszolgálása érdekében bővíteni
+kell a turisztikai szolgáltatók akadálymentes turizmussal kapcsolatos ismereteit, és szemléletformáló
+programokkal kell támogatni őket.
+Felelős: nemzetgazdasági miniszter
+emberi erőforrások minisztere
+Határidő: 2018. május 31.
+Forrás: Turisztikai célelőirányzat
+GINOP 1.3.5. azonosító jelű„Nemzeti turisztikai marketing és keresletösztönző program”
+10.4. Támogatni kell a fogyatékos személyek akadálymentes könyvtárhasználatát, ennek keretén belül el kell
+végezni a könyvtárak szakértői szintű helyszíni vizsgálatát.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: 2015. és 2016. évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/11/1
+sor, EFOP 3. prioritás 3. konstrukció és 4. prioritás 1. konstrukció
+10.5. A 10.4. alpontban foglalt feladat megvalósulását követően, annak eredményeire támaszkodva támogatni kell
+a fogyatékossággal élő személyek könyvtárhasználatát segítő innovációkat és a könyvtári dokumentumok
+minél szélesebb körű hozzáférhetőségét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: EFOP 3. prioritás 3. konstrukció és 4. prioritás 1. konstrukció
+10.6. Módszertani támogatás nyújtásával, mentorhálózat létrehozásával támogatni kell a közművelődési
+szakemberek munkáját, valamint szakmai továbbképzését és felkészítését, hogy erősödhessen a helyi
+közösségek, azokon keresztül az egyének, különösen a fogyatékos személyek önálló cselekvési szándéka és
+képessége, továbbá társadalmi szerepvállalása.
+Felelős: emberi erőforrások minisztere
+nemzetgazdasági miniszter
+Határidő: 2018. december 31.
+Forrás: EFOP 1. prioritás 3. konstrukció
+10.7. Biztosítani kell a munkaerő-piacról kiszorult hátrányos és halmozottan hátrányos helyzetű emberek,
+különösen a fogyatékos személyek formális oktatásba és a munkaerőpiacra történő be-, illetve visszalépését
+elősegítő, az egész életen át tartó tanuláshoz szükséges kompetenciák és önsegítő képességek fejlesztését.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: EFOP 3. prioritás 7. konstrukció
+10.8. Kompetencia- és személyiségfejlesztő programokat kell indítani – elsősorban tanórán kívüli és szabadidős
+kulturális tevékenységek, nem formális, informális tanulási alkalmak megvalósításával –, melyek elősegítik
+a fogyatékos személyek tanuláshoz történő hozzáférését, az olvasási, szövegértési és digitális kompetenciák
+fejlesztését, valamint az anyanyelvi, a viselkedési és a befogadási kultúra fejlesztését.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: EFOP 3. prioritás 3. konstrukció
+11. Többszörösen veszélyeztetett csoportok
+11.1. A fogyatékos nők társadalmi integrációja érdekében pályázati programokat kell indítani a helyi
+önkormányzatok, civil szervezetek, egyházi közösségek részére.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: az EFOP 1.2.1. azonosító jelű,„Védőháló a családokért”elnevezésű projekt
+
+11.2. Az emberi erőforrások minisztere által adományozható elismerést kell alapítani a fogyatékos gyermeket
+nevelő nevelőszülők számára munkájuk elismerése céljából.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/18 és 20/20/6 sor
+11.3. Felül kell vizsgálni az örökbe fogadni szándékozók felkészítését és a fogyatékos gyermeket örökbefogadók
+támogatásának lehetőségeit, és intézkedéseket – egyebek mellett szemléletformáló programokat – kell
+kidolgozni annak érdekében, hogy növekedjen az örökbefogadott fogyatékossággal élő gyermekek száma.
+Felelős: emberi erőforrások minisztere
+Határidő: 2016. december 31.
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, Nemzeti Család- és
+Szociálpolitikai Intézet
+11.4. Nevelőszülők, nevelőszülőket támogató gyermekvédelmi szakemberek számára a fogyatékos gyermekek
+nevelésével, ellátásával kapcsolatos ismeretek növelését, kompetenciáik fejlesztését célzó intézkedéseket
+kell kidolgozni és megvalósítani annak érdekében, hogy növekedjen a gyermekvédelmi szakellátáson belül
+a nevelőszülőknél élő fogyatékos gyermekek száma.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. november 30.
+Forrás: az EFOP 3.8.2. azonosító jelű,„Szociális humánerőforrás fejlesztése fenntartótól függetlenül”
+elnevezésű projekt
+11.5. Fejleszteni kell a súlyos és halmozottan fogyatékos gyermekek komplex ellátását, ezen belül kiemelt
+fontosságú a gyermekek szociális és egészségügyi szükségleteinek, valamint köznevelési ellátásának
+(fejlesztő nevelés-oktatás) személyi, szakmai, módszertani és infrastrukturális feltételeinek fejlesztése.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+11.6. Elő kell készíteni egy problématérképen alapuló, a meglévő szakmai adatokat és tapasztalatokat magában
+foglaló kutatási tervet a halmozottan fogyatékos személyek jelenlegi helyzetének feltárása érdekében.
+Felelős: emberi erőforrások minisztere
+Határidő: 2015. december 31.
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20/20/8 sor
+11.7. Kiemelt projekt keretében ki kell dolgozni és modellezni kell a kommunikációjukban súlyosan akadályozott
+személyek társadalmi integrációját biztosító minőségi komplex kommunikációs szolgáltatások rendszerét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. december 31.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+12. Hozzáférhetőség
+12.1. Meg kell valósítani a hozzáférés minél magasabb fokú szintjének elérése érdekében a projektben résztvevő
+kormányhivatalok „egyablakos ügyintézés”-t végző pontjainak (kormányablakok), illetve a kormányhivatalok
+ügyfelek fogadására szolgáló tereinek komplex (fizikai és infokommunikációs) akadálymentesítését.
+Felelős: emberi erőforrások minisztere
+Miniszterelnökséget vezető miniszter
+Határidő: 2015. december 31.
+Forrás: a Társadalmi Infrastrukrúra Operatív Program 3.3.1/A-12/2 azonosító jelű,
+„a közszolgáltatásokhoz való egyenlő esélyű hozzáférés megteremtése: akadálymentesítés”
+projekt
+12.2. Előzetes felmérésre alapozva a hatályos szabványok figyelembevételével meg kell teremteni valamennyi
+fogyatékos személy számára a kormányzati honlapok hozzáférhetőségét.
+Felelős: Miniszterelnökséget vezető miniszter
+Határidő: 2016. április 15.
+Forrás: központi költségvetés XI. Miniszterelnökség fejezet
+12.3. Aktualizálni kell az akadálymentes épített környezet tervezését segítő módszertani segédletet.
+
+Felelős: Miniszterelnökséget vezető miniszter
+emberi erőforrások minisztere
+Határidő: 2015. október 1.
+Forrás: központi költségvetés XI. Miniszterelnökség fejezet, 30/1/38 sor
+12.4. Folytatni kell a közszolgáltatások komplex akadálymentesítését, ennek keretében biztosítani kell járási
+szinten legalább egy bölcsőde, óvoda, továbbá alapfokú oktatási intézmény teljes körű hozzáférhetőségét.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. április 15.
+Forrás: a finanszírozás tervezett forrása az EFOP, melyről az éves fejlesztési keretek során születik döntés
+12.5. Ki kell dolgozni a pénzintézeti szolgáltatások egyenlő esélyű és biztonságos hozzáférhetőségének jogszabályi
+keretrendszerét.
+Felelős: nemzetgazdasági miniszter
+Határidő: 2015. december 31.
+Forrás: forrást nem igényel
+12.6. A látássérült személyek médiaszolgáltatásokhoz való egyenlő esélyű hozzáférése érdekében audio-narráció
+alkalmazásával kell modellprogramot indítani.
+Felelős: emberi erőforrások minisztere
+Határidő: 2017. december 31.
+Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet
