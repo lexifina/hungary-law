@@ -1,0 +1,25 @@
+14. § (1) A dohánytermelő a 9–13. § szerinti támogatás igénylése mellett és azzal egyidejűleg a gazdaságában található dohányszárító működési költségeinek csökkentése céljából általános csekély összegű támogatást igényelhet a rendelkezésére álló olyan támogatási jogosultság után, amelyre sem a dohánytermelő, sem a vele együttműködő termelő nem igényelt mezőgazdasági csekély összegű támogatást, és amellyel kapcsolatban a 4. § (1) bekezdés c) és d) pontjában foglalt kötelezettségeit a tárgyévben teljesítette.
+
+(2) Az (1) bekezdésben foglalt támogatás további feltétele, hogy a dohánytermelő a dohányszárítót dohánylevél szárítás céljára tárgyévben ténylegesen működtesse, és erről a (3) bekezdés szerinti üzemnaplóval alátámasztott nyilatkozatot tegyen.
+
+(3) Az (2) bekezdésben meghatározott működtetés nyilvántartása céljából az (1) bekezdésben foglalt támogatásra jogosult dohánytermelő a saját és a bérszárított dohány termelése vonatkozásában is köteles telephelyenként üzemnaplót vezetni az MVH által rendszeresített és a honlapján közleményben közzétett nyomtatványnak megfelelően. Az üzemnaplót a számvitelről szóló törvény szerinti számviteli bizonylatként kell kezelni.
+
+(4) Bérszárítás esetén az üzemnaplót mind a bérbeadónak, mind pedig a bérbevevőnek alá kell írnia, amelyből egy példányt a bérbevevő kap meg.
+
+(5) A természetes szárítású dohány esetében az (1)–(4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a dohányszárító működési költségei alatt a felhasznált tüzelőanyag helyett a számlával igazoltan megvásárolt természetes alapanyagú fűzőzsineg felhasználását kell érteni (hektáronként 7x2 kilogrammos keresztorsó).
+
+(6) Az energiával fűtött dohányszárítónként vagy az (5) bekezdés szerinti dohányszárítók falugazdász által igazolt minden 400 légköbmétere után az igényelhető, általános csekély összegű támogatás legfeljebb 1,5 millió forint, de legfeljebb a dohánytermelő által aktivált, és a 4. § (3) bekezdése szerinti kötelezettség-megosztással nem érintett összes támogatási jogosultságai számánál öttel kisebb szám megszorozva 300 000 Ft-tal, de legfeljebb 61 666 euró, vagy, ha – a támogatáshalmozódási szabályokra is figyelemmel – alacsonyabb, akkor a dohánytermelő rendelkezésére álló szabad általános csekély összegű támogatási keretösszeg.
+
+(7) A (6) bekezdés vonatkozásában figyelembe vehető dohányszárítók számát úgy kell megállapítani, hogy a dohánytermelő tulajdonában lévő, illetve általa bérbe vett, tárgyévben üzemeltetett, energiával fűtött dohányszárítók számából egyet, továbbá minden öt kötelezettség-megosztással érintett támogatási jogosultság után még egyet, a természetes szárítású dohány szárítására használt és a dohánytermelő tulajdonában lévő, tárgyévben használt szárítók összes légköbméteréből 400 légköbmétert, továbbá minden öt kötelezettség-megosztással érintett jogosultság után még 400 légköbmétert le kell vonni.
+
+(8) Az (5) bekezdésben foglalt fűzőzsineg-felhasználást igazoló bizonylatokat a dohánytermelő köteles az általános csekély összegű támogatás iránti kérelméhez csatolni.
+
+(9) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU rendelet hatálya alá tartozó, a folyó pénzügyi évben, valamint az azt megelőző két pénzügyi év során odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak megfelelő forintösszeget.
+
+(10) Amennyiben a dohányszárítót tárgyévben több dohánytermelő is használja, akkor a dohányszárító üzemeltetése után a (6) bekezdés szerinti támogatást az üzemnaplóban dokumentált használat arányában kell az egyes dohánytermelők között megosztani.
+
+(11) A bérbe adható szabad dohányszárítók legmagasabb számát tulajdonosonként úgy kell megállapítani, hogy a dohányszárító tulajdonosának tulajdonában lévő összes működő dohányszárító számából le kell vonni mindazon szárítók számánál eggyel többet, amelyek után a tulajdonos a (6) bekezdésben foglalt támogatást igényelte, továbbá minden öt kötelezettség-megosztással érintett, a dohányszárító tulajdonosának tulajdonában lévő jogosultság után még egyet.
+
+(12) A dohánytermelő által a (7) bekezdésben hivatkozott összes – levonás nélkül számított –, tárgyévben saját vagy bérszárítás céljára üzemeltetett dohányszárító számát a falugazdásznak kell igazolnia. Az igazolás másolatát – szabad szárítókapacitás bérbevétele esetén a bérszárítást igazoló dokumentum másolatával együtt – a támogatási kérelemhez kell csatolni
+
+(13) A (6) bekezdés szerinti, támogatásra rendelkezésre álló összeg a 13. § (1) bekezdése szerint megállapított, összes mezőgazdasági csekély összegű támogatás levonása után a 12. §-ban meghatározott keretösszegből fennmaradó összeg. Ha a (6) bekezdés szerint kifizethető összes általános csekély összegű támogatás meghaladja a rendelkezésre álló összeget, akkor a támogatás mértékét minden dohánytermelő vonatkozásában arányos csökkentéssel kell megállapítani.

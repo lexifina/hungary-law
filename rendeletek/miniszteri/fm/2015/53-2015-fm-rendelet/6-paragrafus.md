@@ -1,0 +1,7 @@
+6. § (1) A 2016. évtől kezdődően a szerkezetátalakítási program alapján vállalt elismert tevékenységből származó árbevétel mint feltétel nem vagy csak részleges teljesítése esetén az MVH – a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kéréseiről szóló 2007. évi XVII. törvényben (a továbbiakban: Eljárási törvény) foglaltak szerint – a dohánytermelő vonatkozásában nem teljesítési bírságot szab ki, amelynek mértéke az elmaradt árbevétel összegének kétszáz forintos egységértékeiként egy euró. A szerkezetátalakítási program alapján vállalt élőmunka ráfordítási kötelezettség feltételeinek nem vagy csak részleges teljesítése esetén az Eljárási törvény szerinti nem teljesítési bírság mértéke a dohánytermelő vonatkozásában munkaóránként egy euró.
+
+(2) A szerkezetátalakítási program előírásai teljesítési arányának meghatározásánál azt a szerkezetátalakítási programban való részvételhez kapcsolódó, munkaórához vagy árbevételhez kötött feltételt kell figyelembe venni, amelyet a dohánytermelő a legkisebb mértékben teljesített.
+
+(3) A szerkezetátalakítási programban vállalt kötelezettségek megsértése miatt fizetendő nem teljesítési bírságról, valamint a szerkezetátalakítási program előírásai teljesítési arányának meghatározásáról az MVH határozatot hoz.
+
+(4) Az (1) bekezdésben foglalt szankciók egyidejűleg összevontan nem alkalmazhatóak, közülük a magasabb összegű bírságot kell alkalmazni.
