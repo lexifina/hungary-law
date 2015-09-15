@@ -1,0 +1,1 @@
+## „(3) E rendelet a 2008/105/EK európai parlamenti és tanácsi irányelv alapján a vízpolitika keretében uniós szintű monitoring alá helyezendő anyagok megfigyelési listájának összeállításáról szóló 2015. március 20-i 2015/495/EU bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.”
