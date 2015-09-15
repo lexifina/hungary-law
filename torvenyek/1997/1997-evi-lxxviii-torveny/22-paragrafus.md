@@ -10,6 +10,8 @@ c) az építészeti örökség védelme, a régészet, illetőleg a környezet- 
 
 d) a meglévő építménynek állagmegóvási, valamint a terület jövőbeni rendeltetésének megfelelő átalakításával, korszerűsítésével, bővítésével kapcsolatos építési munkák, továbbá
 
-e) a meglévő lakóépület új, önálló lakást nem eredményező átalakítása, legfeljebb egy alkalommal 25 m2-rel történő bővítése és felújítása
+e) a meglévő lakóépület új, önálló lakást nem eredményező átalakítása, legfeljebb egy alkalommal 25 m2-rel történő bővítése és felújítása,
+
+f) tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények, építési tevékenységeinek végzése
 
 kivételével más építési munkát végezni nem szabad.

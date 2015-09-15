@@ -30,7 +30,7 @@ l) végrehajtási,
 
 m) szakhatósági, valamint
 
-n) veszélyhelyzet esetén szükségessé váló építési tevékenység tudomásulvételi
+n) veszélyhelyzet, továbbá tömeges bevándorlás okozta válsághelyzet esetén szükségessé váló építési tevékenység tudomásulvételi
 
 eljárásokat folytat, és jogszabályban meghatározott esetben és módon építésügyi hatósági szolgáltatást nyújt.
 
