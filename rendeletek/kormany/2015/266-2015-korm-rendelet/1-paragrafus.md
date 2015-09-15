@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek az ingatlan-nyilvántartás szerinti Budapest belterület 28049 és 28051 helyrajzi számú ingatlanokon megvalósítandó, a Közbeszerzési és Ellátási Főigazgatóság irányító- és logisztikai központjának kialakítását célzó beruházással függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez szükségesek.
