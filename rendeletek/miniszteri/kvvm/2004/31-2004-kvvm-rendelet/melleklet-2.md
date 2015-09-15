@@ -1,4 +1,4 @@
-2. melléklet a 31/2004. (XII. 30.) KvVM rendelethez
+2. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^22]
 
 ## Az ökológiai állapot osztályozásának általános meghatározásai
 
@@ -50,7 +50,7 @@ Az alábbi szöveg az ökológiai minőség egy általános meghatározását ad
 
 | 2.3. Fizikai-kémiai minőségi elemek | 2.2.3. sz. táblázat |
 
-## 4M16633_9
+## 5K19297M_9
 
 | Elem | Kiváló állapot | Jó állapot | Mérsékelt állapot |
 
@@ -58,9 +58,9 @@ Az alábbi szöveg az ökológiai minőség egy általános meghatározását ad
 
 | Specifikus szintetikus szennyező anyagok | A koncentrációk a nullához közeliek és legalább az általánosan használt legfejlettebb analitikai eljárások kimutathatósági határa alattiak. | A koncentrációk nem haladják meg a 3.5 szakaszban részletezett eljárásokkal megállapított szinteket, nem érintve a 91/414/EK és a 98/8/EK irányelveket (<EQS). | A biológiai minőségi elemeknek az előbbiekben meghatározott értékeinek megfelelő viszonyok. |
 
-| Specifikus nem szintetikus szennyező anyagok | A koncentrációk a zavartalan viszonyokra általában jellemző tartományon belül maradnak (háttér-szintek =bgl). | A koncentrációk nem haladják meg a 3.5 szakaszban6 részletezett eljárásokkal megállapított szinteket, nem érintve a 91/414/EK és a 98/8/EK irányelveket (<EQS). | A biológiai minőségi elemeknek az előbbiekben meghatározott értékeinek megfelelő viszonyok. |
+| Specifikus nem szintetikus szennyező anyagok | A koncentrációk a zavartalan viszonyokra általában jellemző tartományon belül maradnak (háttér-szintek =bgl). | A koncentrációk nem haladják meg a 3.5 szakaszban23 részletezett eljárásokkal megállapított szinteket, nem érintve a 91/414/EK és a 98/8/EK irányelveket (<EQS). | A biológiai minőségi elemeknek az előbbiekben meghatározott értékeinek megfelelő viszonyok. |
 
-## 6 Az itt levezetett szintek alkalmazása nem kívánhatja meg a szennyezőanyag-koncentrációknak a háttér-szintek alá csökkentését (EQS > bgl).
+## 23 Az itt levezetett szintek alkalmazása nem kívánhatja meg a szennyezőanyag-koncentrációknak a háttér-szintek alá csökkentését (EQS > bgl).
 
 3. A kiváló, a jó és a mérsékelt ökológiai állapot meghatározása tavakban
 
@@ -90,7 +90,7 @@ Az alábbi szöveg az ökológiai minőség egy általános meghatározását ad
 
 | 2.3.3. sz. táblázat |
 
-## 4M16633_15
+## 5K19297M_15
 
 | Elem | Kiváló állapot | Jó állapot | Mérsékelt állapot |
 
@@ -122,13 +122,13 @@ Az alábbi szöveg az ökológiai minőség egy általános meghatározását ad
 
 | Morfo-lógiai viszonyok | A holtág mélységének változékonysága, a fenéküledék mennyisége és szerkezete, valamint a parti sáv viszonyai teljesen vagy közel teljesen megfelelnek a zavartalan viszonyoknak. | A biológiai minőségi elemeknek az előbbiekben meghatározott értékeinek megfelelő viszonyok. | A biológiai minőségi elemeknek az előbbiekben meghatározott értékeinek megfelelő viszonyok. |
 
-## 4M16633_20
+## 5K19297M_20
 
 | 4.3. Fizikai-kémiai minőségi elemek1 | 2.4.3. sz. táblázat |
 
 ## 1 A rövidítések a következők: bgl = háttér-szint, EQS = környezetminőségi szint.
 
-## 4M16633_21
+## 5K19297M_21
 
 | Elem | Kiváló állapot | Jó állapot | Mérsékelt állapot |
 
@@ -150,7 +150,7 @@ Az alábbi szöveg az ökológiai minőség egy általános meghatározását ad
 
 | 5.2.Fizikai-kémiai elemek | 2.5.2. sz. táblázat |
 
-## 4M16633_25
+## 5K19297M_25
 
 | Elem | Maximális ökológiai potenciál | Jó ökológiai potenciál | Mérsékelt ökológiai potenciál |
 
@@ -164,29 +164,31 @@ Az alábbi szöveg az ökológiai minőség egy általános meghatározását ad
 
 6. Eljárás a kémiai minőségi szintek megállapítására
 
-A vízi bióta védelmével kapcsolatban a veszélyes szennyező anyagok környezetminőségi szintjeinek megállapításakor a következők szerint kell eljárni. A szinteket a vízre, az üledékre vagy a biótára lehet megállapítani.
+A vízi ökoszisztéma védelmével kapcsolatban a veszélyes szennyező anyagok környezetminőségi és/vagy vízminőségi határértékének megállapításakor a következők szerint kell eljárni. A határértékeket a vízre, az üledékre vagy a biótára lehet megállapítani.
 
 Ha lehetséges, az akut és a krónikus adatokat egyaránt be kell szerezni a következőkben ismertetett, a szóban forgó víztestre jellemző lényeges taxonokra, de ugyanígy más olyan vízi taxonokra is, amelyekre adatok állnak rendelkezésre. A taxonok „alapkészlete” a következő:
 
-– algák és/vagy egyéb makrofitonok
+– algák
 
-– daphnia vagy a sós vizekre nézve reprezentatív organizmusok
+– makrofitonok,
+
+– daphnia vagy a sós vizekre nézve reprezentatív organizmusok és
 
 – halak.
 
-A környezetminőségi szint megállapítása
+A környezetminőségi határérték megállapítása
 
 A legnagyobb átlagos éves koncentráció megállapítása a következő eljárás szerint történik:
 
-a) Minden esetben megfelelő biztonsági tényezőket kell megállapítani, összhangban a rendelkezésre álló adatok természetével és minőségével, továbbá „Az újonnan számbavett anyagok kockázatbecsléséről szóló 93/67/EGK bizottsági irányelv és a meglévő anyagok kockázatbecsléséről szóló 1488/94 számú bizottsági rendelet kiegészítésére kiadott műszaki útmutató” II. részének 2.3.1 szakaszában foglalt iránymutatással, valamint az alábbi táblázatban foglalt biztonsági tényezőkkel:
+a) Minden esetben megfelelő biztonsági tényezőket kell megállapítani, összhangban a rendelkezésre álló adatok természetével és minőségével, továbbá „Az újonnan számbavett anyagok kockázatbecsléséről szóló 93/67/EGK bizottsági irányelv és a meglévő anyagok kockázatbecsléséről szóló 1488/94 számú bizottsági rendelet kiegészítésére kiadott műszaki útmutató” II. részének 2.3.1. szakaszában foglalt iránymutatással, valamint az alábbi táblázatban foglalt biztonsági tényezőkkel:
 
 |  | Biztonsági tényező |
 
-| Legalább egy akut L(E)C50 az alapkészlet minden egyes trofikus szintjéből | 1 000 |
+| Legalább egy akut L(E)C50 az alapkészlet minden egyes trofikus szintjéből | 1000 |
 
 | Egy krónikus NOEC (vagy hal, vagy daphnia, vagy egy, a sós vizekre nézve reprezentatív organizmus) | 100 |
 
-| Két krónikus NOEC két trofikus szintet képviselő fajokból (hal és/vagy daphnia, vagy egy, a sós vizekre és/vagy algákra nézve reprezentatív organizmus) | 50 |
+| Két krónikus NOEC két trofikus szintet képviselő fajokból (hal és/vagy daphnia, vagy egy, a sós vizekre és/vagy algákra nézve reprezentatív organizmus | 50 |
 
 | Krónikus NOEC-k, három trofikus szintet képviselő legalább három fajból (rendesen hal, daphnia, vagy egy, a sós vizekre és algákra jellemző organizmus) | 10 |
 
@@ -198,4 +200,5 @@ c) az így levezetett szintet egybe kell vetni a terepi vizsgálatokból szárma
 
 d) a kiszámított szintet a pontosabb biztonsági tényező számítása érdekében szakértői felülvizsgálatnak és társadalmi vitának kell alávetni.
 
+[^22]: A 2. melléklet a 49/2015. (IX. 8.) BM rendelet 5. §-a szerint módosított szöveg.
 [^1.]: A rövidítések a következők: bgl = háttér-szint, EQS = környezetminőségi szint.

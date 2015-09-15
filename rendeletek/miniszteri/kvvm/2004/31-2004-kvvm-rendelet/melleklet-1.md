@@ -1,6 +1,6 @@
 1. melléklet a 31/2004. (XII. 30.) KvVM rendelethez
 
-## Vízminőségi elemek az ökológiai állapot és potenciál osztályozásához, valamint a referencia értékek kialakításához[^17]
+## Vízminőségi elemek az ökológiai állapot és potenciál osztályozásához, valamint a referencia értékek kialakításához[^21]
 
 I. Vízfolyások
 
@@ -120,4 +120,4 @@ c) a szintetikus szennyező anyagokra vonatkozó referencia feltételként azt a
 
 4. Amennyiben valamely víztest-típus esetében nem lehet megbízható típus-specifikus referencia feltételeket kialakítani egy az e mellékletben meghatározott vízminőségi elemre vonatkozóan annak nagyfokú, de nem szezonális változékonysága miatt –, úgy azt az elemet ki lehet zárni az adott felszíni víz típus ökológiai állapotának értékeléséből. Ez esetben, a vízgyűjtőgazdálkodási tervben, a figyelmen kívül hagyott vízminőségi elem figyelmen kívül hagyásának okát indokolni kell.
 
-[^17]: Az 1. számú melléklet címe a 34/2008. (XII. 31.) KvVM rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^21]: Az 1. számú melléklet címe a 34/2008. (XII. 31.) KvVM rendelet 5. § (2) bekezdése szerint módosított szöveg.

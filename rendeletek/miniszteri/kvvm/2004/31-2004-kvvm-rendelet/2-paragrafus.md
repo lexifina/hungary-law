@@ -11,3 +11,7 @@ b) a felszíni vizek állapotára vonatkozó jellemzők megfigyelése (a tovább
 c) állapotértékelés: egy adott felszíni víztest vízminőségi elemei jellemzésének egy adott referencia feltételhez történő viszonyítása, továbbá az e rendelet 3. melléklete szerinti osztályba sorolása, illetőleg a kockázatos helyzetű víztest tényének megállapítása;
 
 d) kockázatos helyzetű felszíni víztest: az a víztest, amelyet az állapotának jellemzése ilyennek minősít adathiány miatt vagy azért, mert annak állapota 2015. december 22-ig valószínűen nem éri el a jó állapotot.
+
+e)[^1] PBT anyagok: perzisztens, bioakkumulatív, toxikus anyagok, vagyis a környezetben hosszan tartó ideig megmaradó, bizonyos élő szervezetekben felhalmozódó mérgező anyagok.
+
+[^1]: A 2. § e) pontját a 49/2015. (IX. 8.) BM rendelet 2. §-a iktatta be.

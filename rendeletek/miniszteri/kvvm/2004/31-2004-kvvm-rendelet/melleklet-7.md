@@ -300,44 +300,6 @@
 
 |  | ** Határvíz vizsgálatokban országhatáron kívül lévő mintavételi helyek |
 
-7. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^21]
+7. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^27]
 
-A minőségi elemek megfigyelésénél referenciaként alkalmazható szabványosított módszerek
-
-| Makroszkópikus gerinctelenek mintázása |  |
-
-| MSZ EN ISO 5667–3:2003 | Vízminőség – Mintavétel – 3. Rész: Útmutató a minták tartósításához és kezeléséhez |
-
-| MSZ EN 27828:1998 | Vízminőség – Biológiai mintavétel – Útmutató a vízi fenéklakó makroszkópikus gerinctelenek kézi hálós mintavételéhez |
-
-| MSZ EN 28265:1998 | Vízminőség – A biológiai mintavétel módszerei – Útmutató a kavicsos aljzatú sekély édesvizekben élő fenéklakó makroszkópikus gerinctelenek gyűjtésére alkalmas mennyiségi mintavevők szerkezetéhez és használatához |
-
-| MSZ EN ISO 9391:2000 | Vízminőség – Mélyvízi makroszkópikus gerinctelenek mintavétele – Útmutató a telepítéshez, a minőségi és a mennyiségi mintavevők használatához |
-
-| MSZ EN ISO 8689–1:2000 | Folyók biológiai osztályozása I. Rész: Iránymutatás a fenéklakó, makroszkópikus gerinctelenek áramló vizekben történő számbavételéből származó biológiai minőségi adatok értelmezéséhez |
-
-| MSZ EN ISO 8689–2:2000 | Folyók biológiai osztályozása II Rész: Iránymutatás a fenéklakó, makroszkópikus gerinctelenek áramló vizekben történő számbavételéből származó biológiai minőségi adatok bemutatásához |
-
-| Makrofitonok mintázása |  |
-
-| MSZ EN 14184:2004: | Vízminőség. Útmutató a folyóvizek vízi makrofitáinak felméréséhez |
-
-| Halak mintázása |  |
-
-| MSZ EN 14011:2003: | Vízminőség. Halak mintavétele elektromos halászati módszerrel |
-
-| MSZ EN 14757:2006: | Vízminőség. Halak mintavétele több nyílásméretű eresztőhálóval |
-
-| MSZ EN 14962:2006: | Vízminőség. Útmutató a halak mintavételi módszereinek alkalmazási területéhez és kiválasztásához |
-
-| Diatomák mintázása, minta feldolgozása és az adatok értékelése |
-
-| MSZ EN 13946: 2003: | Vízminőség. Útmutató folyók bentikus kovamoszatainak általános mintavételéhez és minta-előkészítéséhez |
-
-| MSZ EN 14407:2004: | Vízminőség. Útmutató szabvány folyóvizekből vett minták bentikus kovamoszatjainak azonosításához, számlálásához és értékeléséhez |
-
-| A hidrológiai-morfológiai jellemzők értékelése |  |
-
-| MSZ EN 14614: 2005: | Vízminőség. Útmutató szabvány folyóvizek hidro-morfológiai jellemzőinek értékeléséhez |
-
-[^21]: A 7. számú mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be.
+[^27]: A 7. mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 7. §-ával megállapított szöveg.

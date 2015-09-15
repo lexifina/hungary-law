@@ -1,6 +1,6 @@
-## 8. §[^9] A felszíni víztestek megfigyelése érdekében feltáró, operatív, illetve vizsgálati monitorozó programokat kell kialakítani.
+## 8. §[^12] A felszíni víztestek megfigyelése érdekében feltáró, operatív, illetve vizsgálati monitorozó programokat kell kialakítani.
 
-8/A. §[^10] (1) A feltáró monitorozó program célja a víztestek állapotának jellemzése, a hatásvizsgálat kiegészítése, információk gyűjtése az egyéb monitorozó programok tervezéséhez, a természeti viszonyokból és emberi tevékenységből származó hosszú távú változások értékelése. Feltáró monitorozást a 4. számú mellékletben meghatározott paraméterekre és az előírt mérési gyakorisággal kell folytatni.
+8/A. §[^13] (1) A feltáró monitorozó program célja a víztestek állapotának jellemzése, a hatásvizsgálat kiegészítése, információk gyűjtése az egyéb monitorozó programok tervezéséhez, a természeti viszonyokból és emberi tevékenységből származó hosszú távú változások értékelése. Feltáró monitorozást a 4. számú mellékletben meghatározott paraméterekre és az előírt mérési gyakorisággal kell folytatni.
 
 (2) A feltáró monitoring rendszer megfigyelési pontjait úgy kell megválasztani, hogy az ország felszíni vízkészletét alkotó víztestek, víztest-csoportok állapotának vizsgálatához összességében elegendő mennyiségű megfigyelési adat álljon rendelkezésre.
 
@@ -34,5 +34,5 @@ e) az egyéb vízgyűjtőbe vagy részvízgyűjtőbe jelentős mennyiségben bev
 
 (5) Amennyiben a feltáró megfigyelés eredménye alapján megállapítható, hogy a vizsgált víztest elérte a jó állapotot, és a vízgyűjtő-gazdálkodási terv készítése során végzett, a víztestet érő terhelések vizsgálata szerint nem feltételezhető a későbbiekben a terhelések és azok hatásainak változása, úgy a feltáró megfigyelést a továbbiakban elegendő minden harmadik vízgyűjtő-gazdálkodási terv időszakában elvégezni.
 
-[^9]: A 8. § a 34/2008. (XII. 31.) KvVM rendelet 3. §-ával megállapított szöveg.
-[^10]: A 8/A. §-t a 34/2008. (XII. 31.) KvVM rendelet 3. §-a iktatta be.
+[^12]: A 8. § a 34/2008. (XII. 31.) KvVM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 8/A. §-t a 34/2008. (XII. 31.) KvVM rendelet 3. §-a iktatta be.
