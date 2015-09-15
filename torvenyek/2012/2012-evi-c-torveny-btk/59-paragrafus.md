@@ -10,6 +10,6 @@
 
 a) aki Magyarország területén legalább tíz éve jogszerűen tartózkodik, vagy
 
-b) akinek a családi élet tiszteletben tartásához való joga sérülne,
+b) aki Magyarország területén jogszerűen tartózkodik, és a családi élet tiszteletben tartásához való joga sérülne,
 
 csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén lehet helye kiutasításnak, feltéve, hogy az elkövetőnek az országban tartózkodása a közbiztonságot jelentősen veszélyeztetné.

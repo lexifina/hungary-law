@@ -6,7 +6,7 @@ a) a bűncselekmény elkövetéséből eredő vagyonra, amelyet az elkövető a 
 
 b) a vagyonra, amelyet az elkövető bűnszervezetben való részvétele ideje alatt szerzett,
 
-c) a vagyonra, amelyet a kábítószer-kereskedelem elkövetője a bűncselekmény elkövetésének ideje alatt szerzett,
+c) a vagyonra, amelyet a kábítószer-kereskedelem vagy az embercsempészés elkövetője a bűncselekmény elkövetésének ideje alatt szerzett,
 
 d) a vagyonra, amely a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyon helyébe lépett,
 
@@ -22,7 +22,7 @@ f) a vagyonra, amely az adott vagy ígért vagyoni előny tárgya volt.
 
 a) az (1) bekezdés b) pontja esetében a bűnszervezetben való részvétel,
 
-b) az (1) bekezdés c) pontja esetében a kábítószer forgalomba hozatalának, illetve az azzal való kereskedés
+b) az (1) bekezdés c) pontja esetében a kábítószer forgalomba hozatalának, illetve az azzal való kereskedés, továbbá az embercsempészés üzletszerű vagy bűnszövetségben történő elkövetésének
 
 ideje alatt szerzett valamennyi vagyont.
 

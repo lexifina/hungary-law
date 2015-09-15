@@ -4,4 +4,6 @@ a) a próbaidő alatt megállapítják, hogy a szabadságvesztés végrehajtás�
 
 b) az elkövetőt a próbaidő alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélik, vagy
 
-c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi.
+c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi,
+
+d) a 60. § (2a) bekezdése alapján kiutasított elkövető a felfüggesztett szabadságvesztés próbaideje alatt Magyarország területére visszatér.
