@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az MVM Hungarowind Szélerőmű Üzemeltető Korlátolt Felelősségű Társaságnak a költségvetési szervek villamosenergia költségének csökkentése érdekében napelemes erőmű létrehozására irányuló, az ingatlan-nyilvántartás szerint Pécs 23430 helyrajzi számú ingatlanon megvalósuló beruházásával összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
