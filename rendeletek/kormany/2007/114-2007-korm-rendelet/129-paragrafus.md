@@ -32,7 +32,17 @@ k) az őrizetben lévő harmadik országbeli állampolgárok és a személyzet e
 
 (2a)[^318] A (2) bekezdésben foglaltaktól el lehet térni a Tv. 61/A. § (1) bekezdésében meghatározott szükséghelyzet esetén, amennyiben az elhelyezés őrzött szálláson nem megoldható.
 
-(3)[^319] Az őrizetben lévő férfiakat és nőket, a házastársakat és a kiskorú gyermekkel rendelkező családokat külön épületben vagy épületrészben kell elhelyezni.
+(3)[^319] Az őrizetben lévő
+
+a) férfiakat és nőket,
+
+b) a házastársakat,
+
+c) a kiskorú gyermekkel rendelkező családokat, valamint
+
+d) az idegenrendészeti őrizet és az előzetes letartóztatás hatálya alatt lévő személyeket
+
+## külön épületben vagy épületrészben kell elhelyezni.
 
 (4)[^320] A Hivatal és a Rendőrség a Tv. 61/A. § (1) bekezdésében meghatározott szükséghelyzet bekövetkezéséről, az alkalmazott intézkedésekről, valamint a szükséghelyzet megszűnéséről soron kívül értesíti az idegenrendészetért és menekültügyért felelős miniszter útján az Európai Bizottságot.
 
@@ -40,5 +50,5 @@ k) az őrizetben lévő harmadik országbeli állampolgárok és a személyzet e
 [^316]: 129. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
 [^317]: 129. § (1a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (2) bekezdése iktatta be.
 [^318]: 129. § (2a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (3) bekezdése iktatta be.
-[^319]: 129. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 68. § (4) bekezdésével megállapított szöveg.
+[^319]: A 129. § (3) bekezdése a 260/2015. (IX. 14.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^320]: 129. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 68. § (5) bekezdése iktatta be.
