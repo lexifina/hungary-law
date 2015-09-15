@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-168-20-
 | 2014-07-20 | 2014-168-20-22.2 | 2010: CXXX. törvény |
 | 2015-01-01 | 2014-168-20-22.3 | 373/2014. (XII. 31.) Korm. rendelet |
 | 2015-07-08 | 2014-168-20-22.4 | 177/2015. (VII. 7.) Korm. rendelet |
+| 2015-09-15 | 2014-168-20-22.5 | 264/2015. (IX. 14.) Korm. rendelet |

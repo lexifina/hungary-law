@@ -1,4 +1,4 @@
-## 4. § Az MVH a Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
+## 4. §[^3] Az MVH a Nemzeti Agrárkutatási és Innovációs Központ szakértői közreműködését veheti igénybe az alábbi feladatai végrehajtása során:
 
 a) a szárított takarmány kvótával szabályozott támogatása kapcsán:
 
@@ -31,3 +31,5 @@ ec) a jóváhagyás feltételei teljesítésének éves ellenőrzése;
 f) az Európai Unió környezetvédelmi, állatjóléti és -higiéniai előírásainak való megfeleléshez nyújtott támogatás keretében a kérelmek elbírálásához kapcsolódó műszaki szakvéleményezés lebonyolítása;
 
 g) az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtandó támogatások keretében a kérelmek elbírálásához kapcsolódó műszaki-technológiai segédletek kidolgozása, eseti szakvélemény nyújtása, valamint helyszíni ellenőrzések elvégzése.
+
+[^3]: A 4. § nyitó szövegrésze a 264/2015. (IX. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.

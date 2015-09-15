@@ -1,6 +1,6 @@
-## 1. § A rendelet hatálya az Európai Mezőgazdasági Garancia Alapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában támogatott egyes intézkedésekre terjed ki.
+## 1. §[^1] A rendelet hatálya az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott, a 2007–2013. évi programozási időszak egyes intézkedéseire, valamint az Európai Mezőgazdasági Garancia Alapból támogatott egyes intézkedésekre terjed ki.
 
-## 2. § A Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH) az alábbi feladatokat ruházhatja át:
+## 2. §[^2] A Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a Nemzeti Élelmiszerlánc-biztonsági Hivatalra (a továbbiakban: NÉBIH), valamint a fővárosi és megyei kormányhivatalra az alábbi feladatokat ruházhatja át:
 
 a) a szőlőterületek szerkezet-átalakításának és -átállításának támogatásával kapcsolatos helyszíni ellenőrzés;
 
@@ -31,3 +31,6 @@ db) ültetvények korszerűsítése, telepítése,
 dc) évelő, lágy szárú energiaültetvények telepítése,
 
 dd) fiatal erdők állománynevelése.
+
+[^1]: Az 1. § a 264/2015. (IX. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 264/2015. (IX. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
