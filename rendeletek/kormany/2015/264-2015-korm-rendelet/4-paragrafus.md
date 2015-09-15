@@ -1,0 +1,1 @@
+## 3. § A 168/2014. (VII. 18.) Korm. rendelet 4. §-ában a „Vidékfejlesztési Minisztérium Mezőgazdasági Gépesítési Intézete” szövegrész helyébe a „Nemzeti Agrárkutatási és Innovációs Központ” szöveg lép.
