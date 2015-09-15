@@ -1,4 +1,4 @@
-## 9–14. §[^6]
+## 9–14. §[^8]
 
 ## 15. § Ez a rendelet
 
@@ -10,4 +10,4 @@
 
 való megfelelést szolgálja.
 
-[^6]: A 9–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
