@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján a GDF SUEZ Energia Magyarország Zártkörűen Működő Részvénytársaságban (székhely: 6724 Szeged, Pulcz utca 44., cégjegyzékszám: 06-10-000336) fennálló minősített többségi részesedésnek a Fővárosi Gázművek Zártkörűen Működő Részvénytársaság által a GDF International S.A.S.-től történő megszerzését – tekintettel a földgáz-közszolgáltatási tevékenységet is végző, piaci alapokon megszervezett, hosszú távon fenntartható módon működő és az ellátás biztonságát fokozó nemzeti közműszolgáltatási rendszer megszervezésére – közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
