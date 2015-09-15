@@ -24,13 +24,15 @@
 
 ## 11. Adóazonosító jel
 
-## 12. Értesítési cím
+## 12.
 
 ## II. Egyéni vállalkozói tevékenységgel kapcsolatos nyilatkozatok
 
-## 1. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evtv.) 3. § (2) bekezdésében meghatározott kizáró okokról szóló nyilatkozat
+## 1. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evtv.) 3. § (2) és (3) bekezdésében meghatározott kizáró okokról szóló nyilatkozat
 
 ## 2. Engedély- és bejelentésköteles tevékenységek végzéséhez kapcsolódó nyilatkozatok
+
+## 3. Az egyéni vállalkozó székhelyével, telephelyével, fióktelepével kapcsolatos, az Evtv. 16. § (6) bekezdése szerinti nyilatkozat
 
 ## III. Vállalkozó tevékenységére vonatkozó adatok
 
@@ -90,9 +92,9 @@
 
 ## VII. Adatvédelmi tájékoztatás
 
-## A nyilvántartást vezető szerv az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (Evtv.) alapján, az információs önrendelkezési jogról és az információszabadságról szóló törvénynek megfelelően adatokat rögzít az egyéni vállalkozói nyilvántartásban. A nyilvántartás a bejelentett adatok közül az egyéni vállalkozók nyilvántartási számmal történő azonosítása, más egyéni vállalkozótól való megkülönböztetése céljából, illetve az egyéni vállalkozók tevékenységének átláthatóbbá tétele, jogszerű működésük ellenőrzése céljából az alábbi adatokra terjed ki:
+## A nyilvántartást vezető szerv az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (Evtv.) alapján, az információs önrendelkezési jogról és az információszabadságról szóló törvénynek megfelelően adatokat rögzít az egyéni vállalkozói nyilvántartásban. A nyilvántartás a bejelentett adatok közül az egyéni vállalkozók nyilvántartási számmal történő azonosítása, más egyéni vállalkozótól való megkülönböztetése céljából, illetve az egyéni vállalkozók tevékenységének átláthatóbbá tétele, jogszerű működésük ellenőrzése céljából az alábbi adatokat tartalmazza:
 
-## –  az egyéni vállalkozó természetes személyazonosító adatait, lakcímét (szálláshelyét), állampolgárságát, értesítési címét,
+## –  az egyéni vállalkozó természetes személyazonosító adatait, lakcímét (szálláshelyét), állampolgárságát,
 
 ## –  az egyéni vállalkozók nyilvántartásába történő felvétel napját,
 
@@ -106,9 +108,15 @@
 
 ## –  az egyéni vállalkozó statisztikai számjelét és nyilvántartási számát,
 
-## –  ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét, valamint
+## – ha az egyéni vállalkozó rendelkezik igazolvánnyal, az igazolvány számát, kiállításának helyét és keltét, a kiállító hatóság megnevezését, az igazolvány cseréje, pótlása megtagadásának tényét, az igazolvány visszavonásának és érvénytelenségének tényét,
 
-## –  a törlés időpontját és okát.
+## – a törlés időpontját és okát, valamint
+
+## – ha az egyéni vállalkozó halála esetén az Evtv. 17. § (1) bekezdése szerint a tevékenység folytatására kerül sor, az egyéni vállalkozói tevékenység özvegy, illetve örökös általi folytatásának tényét,
+
+## – ha az egyéni vállalkozó gondokság alá helyezése esetén az egyéni vállalkozói tevékenységet az Evtv. 17. § (2) bekezdése szerint a törvényes képviselő folytatja, a tevékenység folytatásának tényét, a törvényes képviselő természetes személyazonosító adatait, lakcímét, valamint
+
+## – elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket.
 
 ## A nyilvántartást vezető szerv köteles az alábbi adatokat naprakészen, bárki számára díjmentesen megtekinthetően az interneten folyamatosan közzétenni:
 
@@ -154,27 +162,27 @@ I. A vállalkozás azonosításához szükséges adatok
 
 II. Megváltozott adatok
 
-1. Családi név
+1.
 
-2. Utónév
+2.
 
-3. Születési családi név
+3.
 
-4. Születési utónév
+4.
 
-5. Anyja családi neve
+5.
 
-6. Anyja utóneve
+6.
 
-7. Születési hely
+7.
 
-8. Születési idő
+8.
 
-9. Lakcím (szálláshely)
+9.
 
-10. Értesítési cím
+10.
 
-11. Állampolgárság
+11.
 
 12. Főtevékenység
 
@@ -236,9 +244,11 @@ V. Nyilatkozat az egyéni vállalkozói tevékenység szüneteltetéséről, fol
 
 VI. Egyéni vállalkozói tevékenységgel kapcsolatos nyilatkozatok
 
-1. Az Evtv. 3. § (2) bekezdésében meghatározott kizáró okokról szóló nyilatkozat
+1. Az Evtv. 3. § (2) és (3) bekezdésében meghatározott kizáró okokról szóló nyilatkozat
 
 2. Az engedély- és bejelentésköteles tevékenységekhez kapcsolódó nyilatkozatok
+
+3. Az egyéni vállalkozó székhelyével, telephelyével, fióktelepével kapcsolatos, az Evtv. 16. § (6) bekezdése szerinti nyilatkozat
 
 VII. Vállalkozó cselekvőképességéhez kapcsolódó adatok, nyilatkozatok
 
@@ -250,9 +260,9 @@ b) Törvényes képviselő lakcíme (szálláshelye)
 
 c) Törvényes képviselő adóazonosító jele
 
-d) Az egyéni vállalkozó cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó, és a törvényes képviselőt kijelölő okirat száma
+d) Az egyéni vállalkozó cselekvőképességet érintő gondnokság alá helyezést elrendelő, és a törvényes képviselőt kijelölő okirat száma
 
-e) A cselekvőképtelenség vagy a korlátozott cselekvőképesség hatálybalépésének ideje
+e) A cselekvőképességet érintő gondnokság alá helyezés hatálybalépésének ideje
 
 2. Nyilatkozat egyéni vállalkozói tevékenység folytatásáról az egyéni vállalkozó cselekvőképessé válása esetén
 
@@ -260,4 +270,4 @@ a) A cselekvőképesség korlátozását megszüntető okirat száma
 
 b) A cselekvőképesség korlátozását megszüntető határozat jogerőre emelkedésének ideje, vagy a határozatban foglalt azon időpont, amikortól a cselekvőképesség korlátozásának megszüntetése hatályos
 
-[^2]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (IV. 21.) KIM rendelet 2. §-a és 4. § c) pontja, a 3/2013. (III. 25.) KIM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. melléklet a 21/2010. (XII. 22.) KIM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (IV. 21.) KIM rendelet 2. §-a és 4. § c) pontja, a 3/2013. (III. 25.) KIM rendelet 2. § (2) bekezdése, a 22/2015. (IX. 14.) IM rendelet 1. § (2) bekezdése és 2. § c) pontja szerint módosított szöveg.

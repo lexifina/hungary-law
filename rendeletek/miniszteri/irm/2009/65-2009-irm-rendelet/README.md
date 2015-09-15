@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-65-20-1
 | 2011-01-01 | 2009-65-20-1U.2 | 21/2010. (XII. 22.) KIM rendelet |
 | 2012-05-06 | 2009-65-20-1U.3 | 21/2010. (XII. 22.) KIM rendelet |
 | 2013-03-26 | 2009-65-20-1U.4 | 21/2010. (XII. 22.) KIM rendelet |
+| 2015-09-15 | 2009-65-20-1U.5 | 21/2010. (XII. 22.) KIM rendelet |
