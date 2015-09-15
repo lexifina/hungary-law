@@ -1,4 +1,4 @@
-32. §[^96] (1) Valamennyi építési övezetben, illetve övezetben – ha a helyi építési szabályzat, szabályozási terv másként nem rendelkezik – elhelyezhetők:
+32. §[^98] (1) Valamennyi építési övezetben, illetve övezetben – ha a helyi építési szabályzat, szabályozási terv másként nem rendelkezik – elhelyezhetők:
 
 1. a nyomvonal jellegű építmények és műtárgyaik, a külön jogszabályok keretei között,
 
@@ -12,4 +12,4 @@
 
 (2) A honvédelmi és katonai, valamint nemzetbiztonsági építmények valamennyi építési övezetben, illetve övezetben – a telek megengedett beépített területére és beépítési magasságára e rendeletben, továbbá a helyi építési szabályzatban meghatározott előírásokra tekintet nélkül – elhelyezhetők.
 
-[^96]: A 32. § a 250/2015. (IV. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^98]: A 32. § a 250/2015. (IV. 8.) Korm. rendelet 1. §-ával megállapított szöveg.

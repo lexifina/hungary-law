@@ -1,6 +1,6 @@
-## Különleges beépítésre nem szánt terület[^90]
+## Különleges beépítésre nem szánt terület[^92]
 
-30/B. §[^91] (1) A különleges beépítésre nem szánt területbe azok a területek tartoznak, amelyeken az elhelyezhető építmények rendeltetésük miatt jelentős hatást gyakorolnak a környezetükre vagy a környezetük megengedett külső hatásaitól is védelmet igényelnek.
+30/B. §[^93] (1) A különleges beépítésre nem szánt területbe azok a területek tartoznak, amelyeken az elhelyezhető építmények rendeltetésük miatt jelentős hatást gyakorolnak a környezetükre vagy a környezetük megengedett külső hatásaitól is védelmet igényelnek.
 
 (2) Különleges beépítésre nem szánt terület
 
@@ -36,5 +36,5 @@ ba) a megengedett legnagyobb beépítettség: 5%,
 
 bb) a legkisebb zöldfelület: 20%.
 
-[^90]: A 30/B. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
-[^91]: A 30/B. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^92]: A 30/B. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
+[^93]: A 30/B. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 22. §-ával megállapított szöveg.

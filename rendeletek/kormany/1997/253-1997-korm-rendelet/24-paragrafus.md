@@ -34,4 +34,10 @@ n) a mezőgazdasági üzemi terület,
 
 o) az egyéb, a 10–23. §-ban foglaltak egyikébe sem sorolható, helyi sajátosságot hordozó terület.
 
+(3)[^68] Tömeges bevándorlás okozta válsághelyzet esetén az új ideiglenes befogadó állomások építésére irányuló beruházások számára kijelölt telkek különleges beépítésre szánt területfelhasználási egységnek tekintendők.
+
+(4)[^69] A (3) bekezdésben meghatározott telkek beépítési feltételeinek meghatározásánál e kormányrendelet előírásaitól el lehet térni, a beépítés nagysága szükség esetén 100% is lehet.
+
 [^67]: A 24. § a 90/2012. (IV. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^68]: A 24. § (3) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
+[^69]: A 24. § (4) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
