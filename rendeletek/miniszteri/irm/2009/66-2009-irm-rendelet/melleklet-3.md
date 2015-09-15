@@ -66,7 +66,7 @@
 
 | ……………………….. |  |
 
-| Vállalkozó telephelyei (fióktelephelyei): |
+| Vállalkozó telephelyei (fióktelepei): |
 
 | ......... No. | .......................... Irányítószám | .......................................... Város, község | ................... Kerület |
 

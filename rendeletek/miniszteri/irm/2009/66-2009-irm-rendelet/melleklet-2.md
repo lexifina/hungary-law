@@ -14,7 +14,7 @@
 
 | Statisztikai számjele: |
 
-| Fő tevékenységi köre: |
+| Főtevékenysége: |
 
 | Kelt: |
 
@@ -70,7 +70,7 @@
 
 | ……………………….. |  |
 
-| Vállalkozó telephelyei (fióktelephelyei): |
+| Vállalkozó telephelyei (fióktelepei): |
 
 | ......... No. | .......................... Irányítószám | .......................................... Város, község | ................... Kerület |
 
@@ -86,4 +86,4 @@
 
 2. melléklet a 66/2009. (XII. 17.) IRM rendelethez[^17]
 
-[^17]: A 2. melléklet a 13. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba, szövege a 41/2011. (XII. 30.) KIM rendelet 32. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet a 13. § (2) bekezdése alapján 2010. július 1-jén lépett hatályba, szövege a 41/2011. (XII. 30.) KIM rendelet 32. §-a, a 22/2015. (IX. 14.) IM rendelet 3. § (5) bekezdése szerint módosított szöveg.
