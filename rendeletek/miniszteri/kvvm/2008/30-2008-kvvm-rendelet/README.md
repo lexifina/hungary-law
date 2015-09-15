@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-30-20-0
 | 2013-06-01 | 2008-30-20-0N.5 | 40/2013. (V. 24.) VM rendelet |
 | 2014-01-01 | 2008-30-20-0N.6 | 147/2011. (XII. 23.) VM rendelet |
 | 2014-12-25 | 2008-30-20-0N.7 | 67/2014. (XII. 17.) BM rendelet |
+| 2015-09-15 | 2008-30-20-0N.8 | 49/2015. (IX. 8.) BM rendelet |
