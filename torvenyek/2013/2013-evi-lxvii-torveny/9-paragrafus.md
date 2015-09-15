@@ -24,7 +24,9 @@ h) a nemzetközi szerződés, nemzetközi egyezmény (NATO, Schengheni Megállap
 
 i) a humanitárius segélyszállítmányokat szállító gépjárművek üzemeltetőit, ezen feladatok ellátása során,
 
-j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja.
+j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja,
+
+k) az államhatárról szóló törvényben meghatározott tömeges bevándorlás okozta válsághelyzetben elrendelt szállítási feladatok végrehajtásában részt vevők által üzemben tartott gépjárművet az ezen feladat ellátása során.
 
 (2) Nem kell díjat fizetni a közút lezárásának vagy forgalma korlátozásának, elterelésének időtartama alatt azon az egyébként útdíjköteles elemi útszakaszon, amelyet a közút lezárására, vagy forgalmának korlátozására, elterelésére jogosult szervek terelőútként jelöltek ki.
 

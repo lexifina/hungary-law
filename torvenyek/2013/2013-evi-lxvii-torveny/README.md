@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-67-00-00
 | 2014-12-30 | 2014. évi XCIX. törvény | 2013-67-00-00.10 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2013-67-00-00.11 |
 | 2015-07-01 | 2014. évi XCIX. törvény | 2013-67-00-00.12 |
+| 2015-09-15 | 2015. évi CXL. törvény | 2013-67-00-00.13 |
