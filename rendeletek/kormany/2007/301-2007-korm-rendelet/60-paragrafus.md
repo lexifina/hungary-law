@@ -1,8 +1,8 @@
-## 59. §[^126] A befogadó állomáson elhelyezett különleges bánásmódot igénylő menekült, oltalmazott, valamint menedékes ellátására és támogatására a 32–34. §-ban foglaltakat megfelelően kell alkalmazni.
+## 59. §[^127] A befogadó állomáson elhelyezett különleges bánásmódot igénylő menekült, oltalmazott, valamint menedékes ellátására és támogatására a 32–34. §-ban foglaltakat megfelelően kell alkalmazni.
 
 ## A menekültnek, az oltalmazottnak és a menedékesnek nyújtott ellátás és támogatás megvonása és megtagadása
 
-60. §[^127] (1)[^128] A menekültügyi hatóság a befogadás anyagi feltételeinek, továbbá az e rendelet alapján nyújtott ellátások és támogatások korlátozásáról vagy megvonásáról határozott vagy határozatlan időre szólóan rendelkezik.
+60. §[^128] (1)[^129] A menekültügyi hatóság a befogadás anyagi feltételeinek, továbbá az e rendelet alapján nyújtott ellátások és támogatások korlátozásáról vagy megvonásáról határozott vagy határozatlan időre szólóan rendelkezik.
 
 (2) Kiskorú menekült, oltalmazott és menedékes esetében elsődlegesen a befogadás anyagi feltételeinek, továbbá az e rendelet alapján nyújtott ellátások és támogatások korlátozása alkalmazandó. Megvonás vagy megtagadás esetén messzemenően figyelembe kell venni a gyermek mindenek felett álló érdekeit, valamint az arányosság elvét.
 
@@ -10,9 +10,9 @@
 
 (4) Különleges bánásmódot igénylő személyek esetében a korlátozó, megvonó vagy megtagadó intézkedések csak különösen indokolt esetben érinthetik a befogadás azon anyagi feltételeit, amelyekben a menekült, az oltalmazott és a menedékes egyéni helyzetére tekintettel részesül.
 
-(5)[^129] Amennyiben a korlátozás vagy megvonás határozatlan időre szólt és az annak alapjául szolgáló okok elhárultak, a menekültügyi hatóság a menekült, az oltalmazott és a menedékes egyedi helyzetének mérlegelését követően a korlátozott vagy megvont befogadás anyagi feltételeit, vagy az e rendelet alapján nyújtott ellátásokat és támogatásokat – határozattal – hivatalból vagy a menekült, az oltalmazott és a menedékes kérelmére újból biztosíthatja.
+(5)[^130] Amennyiben a korlátozás vagy megvonás határozatlan időre szólt és az annak alapjául szolgáló okok elhárultak, a menekültügyi hatóság a menekült, az oltalmazott és a menedékes egyedi helyzetének mérlegelését követően a korlátozott vagy megvont befogadás anyagi feltételeit, vagy az e rendelet alapján nyújtott ellátásokat és támogatásokat – határozattal – hivatalból vagy a menekült, az oltalmazott és a menedékes kérelmére újból biztosíthatja.
 
-[^126]: Az 59. § a 446/2013. (XI. 28.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^127]: A 60. § a 290/2010. (XII. 21.) Korm. rendelet 108. §-ával megállapított szöveg.
-[^128]: A 60. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja, a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés h) pontja szerint módosított szöveg.
-[^129]: A 60. § (5) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja, a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^127]: Az 59. § a 446/2013. (XI. 28.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^128]: A 60. § a 290/2010. (XII. 21.) Korm. rendelet 108. §-ával megállapított szöveg.
+[^129]: A 60. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja, a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^130]: A 60. § (5) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 35. § c) pontja, a 446/2013. (XI. 28.) Korm. rendelet 36. § (2) bekezdés i) pontja szerint módosított szöveg.

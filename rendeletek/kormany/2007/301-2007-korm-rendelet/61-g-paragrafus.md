@@ -1,6 +1,6 @@
-## 61/F. §[^141] A menekült vagy oltalmazott társadalmi beilleszkedésének elősegítése, így különösen az integrációs szerződés megkötése, az integrációs támogatás folyósítása, a szolgáltatások biztosítása során figyelemmel kell lenni a különleges bánásmódot igénylő személyek helyzetéből fakadó sajátos szükségletekre.
+## 61/F. §[^142] A menekült vagy oltalmazott társadalmi beilleszkedésének elősegítése, így különösen az integrációs szerződés megkötése, az integrációs támogatás folyósítása, a szolgáltatások biztosítása során figyelemmel kell lenni a különleges bánásmódot igénylő személyek helyzetéből fakadó sajátos szükségletekre.
 
-61/G. §[^142] (1) Az integrációs szerződés időtartama alatt a menekült vagy az oltalmazott integrációs támogatásra jogosult, amelyet a menekültügyi hatóság az integrációs szerződés megkötésére irányuló kérelem alapján határozatban állapít meg.
+61/G. §[^143] (1) Az integrációs szerződés időtartama alatt a menekült vagy az oltalmazott integrációs támogatásra jogosult, amelyet a menekültügyi hatóság az integrációs szerződés megkötésére irányuló kérelem alapján határozatban állapít meg.
 
 (2) Az integrációs támogatás az integrációs szerződés aláírásának időpontjától teljes hónapra jár, ha az integrációs szerződés aláírása a hónap 15. napjáig megtörténik. Ha az integrációs szerződés aláírására a hónap 15. napját követően kerül sor, a támogatás az integrációs szerződés aláírását követő hónaptól teljes hónapra jár.
 
@@ -26,5 +26,5 @@ d) az integrációs szerződés negyedik hat hónapja alatt az a) pont szerinti 
 
 (5) A családok számára nyújtott támogatás havi összege nem haladhatja meg összességében a 215 000 Ft-ot. Amennyiben a családtagok száma alapján a család számára maximálisan ez az összeg állapítható meg, a támogatás összege hathavonta a (4) bekezdés szerinti mértékben csökken.
 
-[^141]: A 61/F. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
-[^142]: A 61/G. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^142]: A 61/F. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^143]: A 61/G. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.

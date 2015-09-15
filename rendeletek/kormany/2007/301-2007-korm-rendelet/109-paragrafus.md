@@ -10,6 +10,6 @@
 
 109. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
 
-(2)–(3)[^207]
+(2)–(3)[^208]
 
-[^207]: A 109. § (2)–(3) bekezdése e rendelet 109. § (2) bekezdése alapján hatályát vesztette.
+[^208]: A 109. § (2)–(3) bekezdése e rendelet 109. § (2) bekezdése alapján hatályát vesztette.

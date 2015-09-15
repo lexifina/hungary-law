@@ -1,10 +1,10 @@
 ## V. Fejezet
 
-## A MENEKÜLT, AZ OLTALMAZOTT, VALAMINT A MENEDÉKES ELLÁTÁSA ÉS TÁMOGATÁSA; AZ INTEGRÁCIÓS SZERZŐDÉS[^87]
+## A MENEKÜLT, AZ OLTALMAZOTT, VALAMINT A MENEDÉKES ELLÁTÁSA ÉS TÁMOGATÁSA; AZ INTEGRÁCIÓS SZERZŐDÉS[^88]
 
 ## A menekült, az oltalmazott, valamint a menedékes számára nyújtott ellátások és támogatások rendszere
 
-37. §[^88] (1) A befogadó állomáson tartózkodó menekültet és oltalmazottat az alábbi ellátások és támogatások illetik meg:
+37. §[^89] (1) A befogadó állomáson tartózkodó menekültet és oltalmazottat az alábbi ellátások és támogatások illetik meg:
 
 a) a befogadás anyagi feltételeinek további biztosítása,
 
@@ -38,5 +38,5 @@ e) az integrációs szerződés alapján nyújtott támogató szolgáltatások, 
 
 f) az integrációs támogatás.
 
-[^87]: Az V. Fejezet címe a 446/2013. (XI. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^88]: A 37. § a 446/2013. (XI. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^88]: Az V. Fejezet címe a 446/2013. (XI. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^89]: A 37. § a 446/2013. (XI. 28.) Korm. rendelet 19. §-ával megállapított szöveg.

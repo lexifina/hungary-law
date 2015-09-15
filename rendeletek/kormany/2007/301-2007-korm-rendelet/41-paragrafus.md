@@ -2,7 +2,7 @@
 
 ## Befogadó állomáson nyújtott elhelyezés és ellátás
 
-41. §[^98] (1) A befogadó állomáson nyújtott elhelyezést és ellátást a menekült és az oltalmazott az elismerésről szóló jogerős határozat keltétől számított két hónapig térítésmentesen veheti igénybe, ha lakhatása más módon nem biztosított. A menekültet és az oltalmazottat a befogadó állomáson való tartózkodása alatt a befogadó állomás munkatársaival való együttműködési kötelezettség terheli.
+41. §[^99] (1) A befogadó állomáson nyújtott elhelyezést és ellátást a menekült és az oltalmazott az elismerésről szóló jogerős határozat keltétől számított két hónapig térítésmentesen veheti igénybe, ha lakhatása más módon nem biztosított. A menekültet és az oltalmazottat a befogadó állomáson való tartózkodása alatt a befogadó állomás munkatársaival való együttműködési kötelezettség terheli.
 
 (2) A menekült és az oltalmazott együttműködési kötelezettsége keretében köteles közreműködni a befogadó állomásról történő kiköltözéséhez szükséges feltételek megteremtésében, lakhatási lehetőségek felkutatásában.
 
@@ -12,4 +12,4 @@
 
 (5) A menekült, az oltalmazott és a menedékes befogadó állomáson történő elhelyezésére és ellátására egyebekben a 21. §-ban foglaltak irányadók.
 
-[^98]: A 41. § a 446/2013. (XI. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^99]: A 41. § a 446/2013. (XI. 28.) Korm. rendelet 23. §-ával megállapított szöveg.

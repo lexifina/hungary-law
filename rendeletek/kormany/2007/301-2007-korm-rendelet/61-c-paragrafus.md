@@ -1,4 +1,4 @@
-61/C. §[^138] (1) A menekült vagy az oltalmazott az integrációs szerződés időbeli hatálya alatt köteles
+61/C. §[^139] (1) A menekült vagy az oltalmazott az integrációs szerződés időbeli hatálya alatt köteles
 
 a) lakóhelyét a menekültügyi hatóság és a családsegítő szolgálat számára bejelenteni,
 
@@ -14,4 +14,4 @@ f) a családsegítő szolgálat által biztosított kapcsolattartási alkalmakon
 
 (2) A menekült vagy az oltalmazott az integrációs szerződés időbeli hatálya alatt jogosult a családsegítő szolgálat vagy közreműködő civil szervezet által nyújtott támogató szolgáltatással kapcsolatosan a menekültügyi hatóság felé észrevételt tenni.
 
-[^138]: A 61/C. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.
+[^139]: A 61/C. §-t a 446/2013. (XI. 28.) Korm. rendelet 34. §-a iktatta be.

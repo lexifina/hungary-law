@@ -34,10 +34,13 @@ a) férfiakat és nőket,
 
 b) a házastársakat, valamint
 
-c) a kiskorú gyermekkel rendelkező családokat
+c) a kiskorú gyermekkel rendelkező családokat,
+
+d)[^85] őrizet és az előzetes letartóztatás hatálya alatt lévő személyeket
 
 külön épületben vagy épületrészben kell elhelyezni.
 
 [^82]: A 36/D. §-t megelőző alcímet a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
 [^83]: A 36/D. §-t a 221/2013. (VI. 24.) Korm. rendelet 43. §-a iktatta be.
 [^84]: A 36/D. § (1) bekezdés a) pontja a 204/2015. (VII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^85]: A 36/D. § (3) bekezdés d) pontját a 260/2015. (IX. 14.) Korm. rendelet 5. §-a iktatta be.
