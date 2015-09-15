@@ -1,0 +1,1 @@
+542/G. § Ha az 542/D. §-ban meghatározott bűncselekmények miatt indult büntetőügyben a terheltek nagy száma indokolja, az ügyeket el kell különíteni, kivéve, ha ez a tényállás szoros összefüggésére tekintettel nem lehetséges, vagy ha az együttes elbírálás a büntetőeljárás befejezését nem hátráltatja.

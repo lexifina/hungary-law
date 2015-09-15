@@ -1,0 +1,1 @@
+542/S. § Az ügyész a gyanúsítottkénti kihallgatásról készült jegyzőkönyvben foglaltakkal azonos tényállás és minősítés szerint vádat emel, és indítványt tesz az ügy nyilvános ülésen történő elbírálására, a megállapodásban rögzített nemű, mértékű, tartamú büntetés, illetve intézkedés alkalmazására, annak alsó és felső határának megjelölésével.

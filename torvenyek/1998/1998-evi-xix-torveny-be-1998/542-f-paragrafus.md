@@ -1,0 +1,1 @@
+542/F. § Az 542/D. §-ban meghatározott bűncselekmények miatt indult büntetőügyben az ismeretlen helyen tartózkodó Magyarországon bejelentett lakóhellyel vagy tartózkodási hellyel nem rendelkező terhelt részére a hivatalos iratot a védőnek kell kézbesíteni.
