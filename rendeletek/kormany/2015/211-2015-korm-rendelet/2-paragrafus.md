@@ -4,7 +4,7 @@
 
 (3)[^1] E rendelet hatálya nem terjed ki a közérdekű használati jog gyakorlásával összefüggésben okozott – a kártalanítás körén kívül eső – egyéb károk megtérítésére irányuló kárigényekre. Az ilyen kártérítési igények az általános rendőrségi feladatok ellátására létrehozott szervvel szemben a Polgári Törvénykönyvről szóló törvénynek a szerződésen kívül okozott károkért való felelősségre vonatkozó szabályai szerint érvényesíthetők.
 
-(4)[^2] Az Áhtv. 5. § (1) bekezdésében meghatározott létesítménnyel összefüggő közigazgatási hatósági eljárásokat – az e rendeletben meghatározott kártalanítási, valamint a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzéséhez szükséges eljárás kivételével – nem kell lefolytatni.
+(4)[^2]
 
 [^1]: A 2. § (3) bekezdését a 213/2015. (VII. 31.) Korm. rendelet 6. §-a iktatta be.
-[^2]: A 2. § (4) bekezdését a 233/2015. (VIII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 2. § (4) bekezdését a 233/2015. (VIII. 20.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 260/2015. (IX. 14.) Korm. rendelet 7. §-a.
