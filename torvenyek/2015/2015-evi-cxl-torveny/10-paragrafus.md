@@ -1,0 +1,3 @@
+10. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Veszélyhelyzet elhárítása érdekében történő vagy kihirdetett veszélyhelyzet következtében szükségessé váló, továbbá tömeges bevándorlás okozta válsághelyzetben nemzetbiztonsági érdekből végzett építési tevékenységek, valamint az építmények, építményszerkezetek veszélyes állapotának jogszerűtlen építési tevékenységgel történő, halasztást nem tűrő elhárítása vagy részleges elbontása esetén az építésügyi hatóság a megvalósult építmény, építményrész, építményszerkezet fennmaradását vagy elbontását – ha az az (1) bekezdésben előírtaknak, jogszabályban meghatározottak szerint megfelel – kérelemre tudomásul veszi.”
