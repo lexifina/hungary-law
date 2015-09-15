@@ -1,3 +1,3 @@
-## 9–10. §[^7]
+## 9–10. §[^20]
 
-[^7]: A 9–10. §-a a 11. § (1) bekezdése hatályon kívül helyezte.
+[^20]: A 9–10. §-a a 11. § (1) bekezdése hatályon kívül helyezte.

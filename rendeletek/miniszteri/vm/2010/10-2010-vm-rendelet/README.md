@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-10-20-2
 | 2012-12-23 | 2010-10-20-2Y.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-07-02 | 2010-10-20-2Y.5 | 54/2013. (VI. 24.) VM rendelet |
 | 2014-11-29 | 2010-10-20-2Y.6 | 52/2014. (XI. 28.) BM rendelet |
+| 2015-09-15 | 2010-10-20-2Y.7 | 49/2015. (IX. 8.) BM rendelet |

@@ -1,6 +1,6 @@
-3. melléklet a 10/2010. (VIII. 18.) VM rendelethez[^11]
+3. melléklet a 10/2010. (VIII. 18.) VM rendelethez[^24]
 
-Egyéb specifikus szennyező anyagok környezetminőségi határértékei:
+Egyéb specifikus szennyező anyagok vízminőségi határértékei
 
 |  | A | B |
 
@@ -14,4 +14,4 @@ Egyéb specifikus szennyező anyagok környezetminőségi határértékei:
 
 | 5. | Arzén | 20 |
 
-[^11]: A 3. mellékletet a 11. § (2) bekezdése hatályon kívül helyezte, újonnan az 54/2013. (VI. 24.) VM rendelet 5. §-a iktatta be.
+[^24]: A 3. mellékletet a 11. § (2) bekezdése hatályon kívül helyezte, újonnan az 54/2013. (VI. 24.) VM rendelet 5. §-a iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 17. §-ával megállapított szöveg.
