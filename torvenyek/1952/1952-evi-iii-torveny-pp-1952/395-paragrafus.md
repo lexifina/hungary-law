@@ -13,5 +13,3 @@
 (3) Felhatalmazást kap a Kormány, hogy a bírósági ügyintéző által peres és nemperes eljárásban ellátható feladatokat rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
-
-a) a bírósági ügyvitel rendjét az Országos Bírósági Hivatal elnöke véleményének kikérésével;

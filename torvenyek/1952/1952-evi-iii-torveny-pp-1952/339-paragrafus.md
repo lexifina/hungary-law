@@ -22,7 +22,7 @@ h) a levéltári anyag általános levéltárban történő elhelyezését elren
 
 i)
 
-j) a menekültként való elismeréssel kapcsolatban hozott,
+j)
 
 k)
 

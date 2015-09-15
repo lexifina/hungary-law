@@ -2,7 +2,7 @@
 
 340. § (1) A bíróság ítélete ellen fellebbezésnek – a (2) bekezdésben meghatározott kivétellel – nincs helye.
 
-(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezés nem vonatkozik a menekültügyi per tárgyában hozott bírósági döntésre, továbbá e rendelkezést közbeszerzési ügyekben a közbeszerzésekről szóló törvényben foglalt eltérésekkel kell alkalmazni.
+(2) A bíróság ítélete ellen fellebbezésnek van helye, ha a közigazgatási pert olyan elsőfokú határozat bírósági felülvizsgálata iránt indították, amely ellen közigazgatási úton nincs helye fellebbezésnek és e határozatot a bíróság törvény alapján megváltoztathatja. E rendelkezést közbeszerzési ügyekben a közbeszerzésekről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
 (3)
 
