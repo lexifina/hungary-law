@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-18-20-6
 | 2014-01-01 | 1996-18-20-6B.16 | 26/2005. (XI. 4.) KvVM rendelet |
 | 2014-09-06 | 1996-18-20-6B.17 | 3/2005. (II. 22.) KvVM rendelet |
 | 2014-12-25 | 1996-18-20-6B.18 | 67/2014. (XII. 17.) BM rendelet |
+| 2015-09-15 | 1996-18-20-6B.19 | 67/2014. (XII. 17.) BM rendelet |

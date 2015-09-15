@@ -98,20 +98,20 @@
 
 Az igazgatási szolgáltatási díj megállapítására és megfizetésére vonatkozó nyilatkozat
 
-1. Alulírott ......................................................................, mint a(z) ...................................................................... képviseletére jogosult személy nyilatkozom, hogy a vízjogi engedély iránti kérelemhez szükséges
+1. Alulírott .................................................................................................. mint a(z) ................................................................ képviseletére jogosult személy nyilatkozom, hogy a vízjogi engedély iránti kérelemhez szükséges
 
 ...................................................................... Ft
 
 igazgatási szolgáltatási díjat megfizettem.
 
-2. Az igazgatási szolgáltatási díj mértéke a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló 33/2005. (XII. 27.) KvVM rendelet 1. számú mellékletében foglalt I. táblázat ...................................................................... pontja(i) alapján került megfizetésre.
+2. Az igazgatási szolgáltatási díj mértéke a vízügyi és a vízvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 13/2015. (III. 31.) BM rendelet 1. mellékletének ...................................................................... pontja(i) alapján került megfizetésre.
 
-3. Az igazgatási szolgáltatási díj megállapításánál irányadó beruházás összköltsége ............................................................ Ft, amelynek létesítményenkénti bontása és annak értéke a következő:
+3. Az igazgatási szolgáltatási díj megállapításánál irányadó beruházás összköltsége ................................................................ Ft, amelynek létesítményenkénti bontása és annak értéke a következő:
 
-Kelt: ........................................, .................... (év) ........................................ (hónap) .................... (nap)
+Kelt: ..................................., ................ (év) .................................. (hónap) ............. (nap)
 
 ......................................................................
 
 aláírás
 
-[^44]: A 4. számú mellékletet a 67/2014. (XII. 17.) BM rendelet 4. §-a iktatta be.
+[^44]: A 4. számú mellékletet a 67/2014. (XII. 17.) BM rendelet 4. §-a iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 1. §-ával megállapított szöveg.
