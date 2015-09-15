@@ -1,4 +1,4 @@
-1. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^72]
+1. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^76]
 
 I. rész
 
@@ -138,4 +138,4 @@ Az 1. § (2) és (3) bekezdésében meghatározott építésügyi és építésf
 
 III. rész
 
-[^72]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése, a 487/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése, a 308/2014. (XII. 9.) Korm. rendelet 1. §-a, a 70/2015. (III. 30.) Korm. rendelet 91. § (9) bekezdése szerint módosított szöveg.
+[^76]: Az 1. mellékletet a 69/2007. (IV. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 322/2012. (XI. 16.) Korm. rendelet 41. § a) pontja iktatta be, szövege a 394/2012. (XII. 20.) Korm. rendelet 66. § (2) és (5) bekezdése, a 487/2013. (XII. 17.) Korm. rendelet 11. § (2) bekezdése, a 308/2014. (XII. 9.) Korm. rendelet 1. §-a, a 70/2015. (III. 30.) Korm. rendelet 91. § (9) bekezdése szerint módosított szöveg.

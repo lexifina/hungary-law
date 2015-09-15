@@ -28,6 +28,6 @@
 
 ## Az építésügyi hatóság a köztisztviselőnek munkavégzése során a külön jogszabály szerinti egyéni védőeszközt biztosítja.
 
-6. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^79]
+6. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^83]
 
-[^79]: A 6. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be, hatályon kívül helyezte a 196/2009. (IX. 15.) Korm. rendelet 61. § (1) bekezdésének f) pontja.
+[^83]: A 6. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be, hatályon kívül helyezte a 196/2009. (IX. 15.) Korm. rendelet 61. § (1) bekezdésének f) pontja.
