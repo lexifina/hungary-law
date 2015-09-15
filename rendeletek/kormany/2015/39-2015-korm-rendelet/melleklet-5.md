@@ -44,6 +44,6 @@
 
 ## 6. A leletanyag végleges befogadásáról szóló múzeumi nyilatkozat
 
-5. melléklet a 39/2015. (III. 11.) Korm. rendelethez[^71]
+5. melléklet a 39/2015. (III. 11.) Korm. rendelethez[^72]
 
-[^71]: Az 5. melléklet a 171/2015. (VI. 30.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^72]: Az 5. melléklet a 171/2015. (VI. 30.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.

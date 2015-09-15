@@ -20,6 +20,6 @@ g) a feltárásra vonatkozó jogszabályi követelményekre való hivatkozást �
 
 (4) Az (1) bekezdés c) és e) pontja alapján az engedélyben meghatározottaktól eltérni csak a hatóság módosított engedélyével lehet.
 
-(5)[^47] Közlekedési infrastruktúra-beruházás esetén a feltárási engedélyt fellebbezésre tekintet nélkül azonnal végrehajthatóvá kell nyilvánítani.
+(5)[^48] Közlekedési infrastruktúra-beruházás esetén a feltárási engedélyt fellebbezésre tekintet nélkül azonnal végrehajthatóvá kell nyilvánítani.
 
-[^47]: A 45. § (5) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 37. §-a iktatta be.
+[^48]: A 45. § (5) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 37. §-a iktatta be.

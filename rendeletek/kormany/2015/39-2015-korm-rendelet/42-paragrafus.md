@@ -34,10 +34,10 @@ b) az eljárás során a hatóság megkeresésére.
 
 (5) Az Ásatási Bizottság véleményezésének határideje a régészeti feltárási engedély iránti kérelem és mellékletei hiánytalan rendelkezésre bocsátásától számított tizenöt nap, nagyberuházás esetén öt nap, amely a hatóság ügyintézési határidejébe beszámít.
 
-(6)[^44] A megelőző feltárás engedélyezésére irányuló eljárásban az ügyintézési határidő
+(6)[^45] A megelőző feltárás engedélyezésére irányuló eljárásban az ügyintézési határidő
 
 a) nagyberuházás esetén tizenöt nap,
 
 b) közlekedési infrastruktúra-beruházás esetén tíz nap.
 
-[^44]: A 42. § (6) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^45]: A 42. § (6) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 35. §-ával megállapított szöveg.
