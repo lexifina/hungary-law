@@ -10,4 +10,10 @@ c) elektronikus kapcsolattartásnak;
 
 d) a jogszabálysértő döntés visszavonásáról rendelkező döntés elleni jogorvoslatnak;
 
-e) kézbesítési ügygondnok kijelölésének.
+e) kézbesítési ügygondnok kijelölésének;
+
+f) tömeges bevándorlás okozta válsághelyzet idején
+
+fa) ügygondnok kirendelése kezdeményezésének, illetve kirendelésének,
+
+fb) kézbesítési meghatalmazott megjelölésének.

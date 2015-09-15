@@ -1,0 +1,1 @@
+80/F. § Tömeges bevándorlás okozta válsághelyzet fennállása esetén az egészségügyi államigazgatási szerv haladéktalanul megvizsgálja, hogy a járványügyi intézkedések elrendelésének jogszabályban meghatározott feltételei fennállnak-e.

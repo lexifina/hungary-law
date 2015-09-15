@@ -12,6 +12,6 @@ b) a kérelmező ismeretlen helyre távozott, vagy
 
 c) az ismételt kérelem a korábbival azonos ténybeli alapon nyugszik.
 
-(5) A bíróság a menekültügyi hatóság határozatát megváltoztathatja. A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.
+(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg, a jogszabálysértő közigazgatási határozatot – az ügy érdemére ki nem ható eljárási szabály megsértésének kivételével – hatályon kívül helyezi, és szükség esetén a menekültügyi hatóságot új eljárásra kötelezi.
 
-(6) A menekültügyi hatóság 67. § (2) bekezdés szerinti tájékoztatási kötelezettsége akkor is fennáll, ha a bíróság a menekültügyi hatóság határozatát megváltoztatja, és a kérelmezőt menekültként vagy oltalmazottként elismeri.
+(6) A bíróság eljárást befejező döntésével szemben jogorvoslatnak nincs helye.

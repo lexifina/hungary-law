@@ -18,7 +18,9 @@ g) állapítsa meg a menekült, az oltalmazott és a menedékes úti okmánya ki
 
 h) jelölje ki az országinformáció szolgáltatásáért felelős szervet;
 
-i) állapítsa meg a hazatérés és a harmadik országban történő letelepedés utazási költségeinek biztosításához nyújtható támogatás feltételeit.
+i) állapítsa meg a hazatérés és a harmadik országban történő letelepedés utazási költségeinek biztosításához nyújtható támogatás feltételeit;
+
+j) kihirdesse a tömeges bevándorlás okozta válsághelyzetet, illetve állapítsa meg a tömeges bevándorlás okozta válsághelyzet elrendelésével, fennállásával, megszüntetésével összefüggő szabályokat.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat.
 
@@ -37,3 +39,5 @@ c) határozza meg az egy harmadik országbeli állampolgár vagy egy hontalan sz
 d) határozza meg a menekültügyi óvadék összege mértékét, a menekültügyi óvadék letételével összefüggő eljárási szabályokat, valamint a menekültügyi óvadék kezelésével kapcsolatos rendelkezéseket, továbbá
 
 e) határozza meg a menekültügyi őrizet végrehajtására vonatkozó részletes szabályokat,
+
+(4) Felhatalmazást kap a miniszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben, tömeges bevándorlás okozta válsághelyzetben a többségi állami tulajdonban vagy önkormányzati tulajdonban álló gazdasági társaságok számára, a tevékenységi körükbe tartozó szolgáltatások nyújtására szerződéskötési kötelezettséget írjon elő.
