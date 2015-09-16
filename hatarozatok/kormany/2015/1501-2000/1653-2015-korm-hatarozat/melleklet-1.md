@@ -38,7 +38,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Hatályát veszti az új Országos Fogyatékosügyi Program végrehajtásának 2012–2013. évekre vonatkozó intézkedési tervéről szóló 1056/2012. (III. 9.) Korm. határozat.
+## 4.[^1]
 
 1. melléklet az 1653/2015. (IX. 14.) Korm. határozathoz
 
@@ -761,3 +761,5 @@ Felelős: emberi erőforrások minisztere
 Határidő: 2017. december 31.
 
 Forrás: központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
