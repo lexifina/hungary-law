@@ -2,7 +2,7 @@
 
 (2)[^5] A nyertes pályázó a pályázatban foglalt megvalósításra vonatkozó tartalmat a hatósági szerződés megkötését követően – a NAKVI felé történő bejelentési kötelezettsége mellett – legfeljebb egy alkalommal, a miniszter előzetes jóváhagyásával módosíthatja.
 
-(3)[^6] A pályázati felhívásban előírt feltételeket és a pályázatnak a támogatási döntés alapján elfogadott részét a hatósági szerződésben foglaltak szerinti megvalósítási határidőn belül, de legkésőbb 2015. május 31-ig kell teljesíteni.
+(3)[^6] A pályázati felhívásban előírt feltételeket és a pályázatnak a támogatási döntés alapján elfogadott részét a hatósági szerződésben foglaltak szerinti megvalósítási határidőn belül, de legkésőbb 2016. május 31-ig kell teljesíteni.
 
 [^5]: A 9. § (2) bekezdése a 15/2014. (X. 9.) FM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^6]: A 9. § (3) bekezdése a 15/2014. (X. 9.) FM rendelet 12. § (3) bekezdése szerint módosított szöveg.
+[^6]: A 9. § (3) bekezdése az 54/2015. (IX. 16.) FM rendelet 4. § (2) bekezdése szerint módosított szöveg.
