@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-44-20-8
 | 2012-02-11 | 2007-44-20-82.8 | 5/2012. (II. 10.) VM rendelet |
 | 2014-04-19 | 2007-44-20-82.9 | 45/2014. (IV. 18.) VM rendelet |
 | 2015-05-14 | 2007-44-20-82.10 | 23/2015. (V. 13.) FM rendelet |
+| 2015-09-17 | 2007-44-20-82.11 | 94/2015. (XII. 23.) FM rendelet |
