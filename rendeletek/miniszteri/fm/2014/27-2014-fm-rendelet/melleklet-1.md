@@ -1,4 +1,4 @@
-## 20–21. §[^8]
+## 20–21. §[^17]
 
 1. melléklet a 27/2014. (XI. 25.) FM rendelethez
 
@@ -58,4 +58,4 @@ ____________
 
 2 A 4. § (1) bekezdés szerinti várható hozamcsökkenés a 10. és a 11. pont szerinti várható tárgyévi hozamok különbsége.
 
-[^8]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 20–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -31,3 +31,11 @@ a) aszály, nagy kiterjedésű belvíz és mezőgazdasági árvíz esetében, ha
 b) bármely mezőgazdasági káresemény bejelentését követően, ha megállapítja, hogy a mezőgazdasági káresemény nem következett be.
 
 (8) A (7) bekezdés szerinti eljárás esetén az agrárkár-megállapító szerv a lefolytatott adminisztratív ellenőrzés alapján hozza meg a (6) bekezdés szerinti határozatot a mezőgazdasági káresemény bejelentésétől számított hét napon belül.
+
+(9)[^12] A fóliás és üvegházi növénykultúrák esetében
+
+a) az agrárkár-megállapító szerv minden esetben helyszíni ellenőrzést követően hozza meg a (6) bekezdés szerinti határozatot a felhőszakadáskár, jégesőkár, őszi fagykár, tavaszi fagykár, téli fagykár, vagy viharkár vonatkozásában tett kárbejelentésről,
+
+b) a belvíz vagy mezőgazdasági árvíz vonatkozásában tett kárbejelentésre a (7) bekezdésben foglaltak alkalmazandók.
+
+[^12]: Az 5. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (3) bekezdése iktatta be.
