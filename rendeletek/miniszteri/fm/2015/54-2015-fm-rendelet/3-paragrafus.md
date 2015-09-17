@@ -1,0 +1,3 @@
+## „(1a) Az 5. § (4) bekezdés cd) és ce) pontjában foglalt jogosultságok esetében az átruházást a dohány szerkezetátalakítási nemzeti programról és az azzal összefüggésben igényelhető csekély összegű támogatások feltételeinek megállapításáról szóló 53/2015. (IX. 14.) FM rendelet 16. § (3) bekezdésében foglalt időszakban lehet kezdeményezni.”
+
+## 3. Az egységes területalapú támogatások és egyes vidékfejlesztési támogatások igényléséhez teljesítendő „Helyes Mezőgazdasági és Környezeti Állapot” fenntartásához szükséges feltételrendszer, valamint az állatok állategységre való átváltási arányának meghatározásáról szóló 50/2008. (IV. 24.) FVM rendelet módosítása
