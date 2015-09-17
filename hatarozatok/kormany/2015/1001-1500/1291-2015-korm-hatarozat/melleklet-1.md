@@ -28,9 +28,9 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 2,48 | 20,59 | 3,30 | 10,58 | 4,28 | 41,23 |
+| 3. | 2,48 | 20,59 | 3,30 | 10,17 | 5,08 | 41,62 |
 
-| 4. | Többletkötelezettség-vállalás: 14,05 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 14,44 Mrd Ft |
 
 | 5. | Az Európai Regionális Fejlesztési Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85% |
 
@@ -42,7 +42,7 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 2. | 2007–2013. | 2014. | 2015. | Összesen |
 
-| 3. | 155,83 | 4,89 | 14,78 | 175,50 |
+| 3. | 155,83 | 4,48 | 15,58 | 175,89 |
 
 1.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -66,6 +66,8 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 8. | 1.2.1.A | Agóra – multifunkcionális közösségi központok és területi közművelődési tanácsadó szolgálat infrastrukturális feltételeinek kialakítása | 0,00 | 2,02 | 0,00 | 1,50 | 0,52 | A program alapvető célja olyan multifunkcionális közösségi központok fejlesztése, amelyek alkalmassá válnak szakmai-tanácsadó és módszertani feladatok elvégzésére, a sajátosan kialakított épített környezetben a közösségi-művelődési, oktatási-felnőttképzési és szolgáltató funkciók mentén gazdag kulturális kínálatot biztosító működésre, és a helyi társadalom fejlesztésére. A konstrukció a területi tanácsadó szerep feltételeinek megteremtésére irányul a harmincezer főnél nagyobb városokban. | emberi erőforrások minisztere | – |
 
+| 8a. | 1.2.1.A1 | Agóra – multifunkcionális közösségi központok és területi közművelődési tanácsadó szolgálat infrastrukturális feltételeinek kialakítása – Kísérleti, településcsoportos Agóra-fejlesztés | 0,00 | 0,00 | 0,00 | 0,00 | 0,80 | A konstrukció alapvető célja olyan közművelődési intézményrendszer kialakítása, amely a közoktatási és közművelődési rendszerek összekapcsolása, az egész életen át tartó tanulás feltételeinek javítása és infrastrukturális hátterének kialakítása, valamint fejlesztése révén lehetőséget teremt a jobb minőségű kulturális szolgáltatások biztosítására. A létrejövő intézmény segíti az egyének társadalmi érvényesüléséhez szükséges kompetenciák megszerzését, továbbá szolgáltatásai által elősegíti a közösségi és civil aktivitás dinamizálását, így hozzájárulhat a társadalmi befogadás javulásához. | emberi erőforrások minisztere | – |
+
 | 9. | 1.2.1.B | Nemzeti Kulturális Térinformációs Rendszer Szolgáltató és Tanácsadó Multifunkcionális Módszertani Központ létrehozása | 0,00 | 1,60 | 0,00 | 0,00 | 0,49 | A konstrukció országos módszertani központ létrehozására irányul a digitális tanulás és tudásszerzés érdekében, a TÁMOP-3.2.14. számú („Egységes Nemzeti Oktatási és Kulturális Térinformációs Rendszer létrehozása” című) konstrukcióhoz kapcsolódó rendszer infrastrukturális hátterének biztosítására, az elektronikus oktatási és kulturális adatok iskolarendszeren belüli és kívüli, egyéni és csoportos keretek között történő felhasználásával kapcsolatos oktatási célok ellátására. Különösen fontos, hogy a központ hátrányos helyzetű térségben működjön. | emberi erőforrások minisztere | – |
 
 | 10. | 1.2.2. | Múzeumok és levéltárak iskolabarát fejlesztése, oktatási-képzési szerepének infrastrukturális erősítése 3. ütem | 0,87 | 0,74 | 0,00 | 0,00 | 0,00 | A múzeumokban és levéltárakban őrzött tudásbázis nagyobb oktatási hasznosulása érdekében cél: 1. a képzési potenciál magasabb fokú kihasználása az átfogó kompetencia- és készségfejlesztés érdekében (oktatóterek), 2. kiállítások formájában nem vagy ritkán látható állományhoz való hozzáférés kiszélesítése, kiemelt figyelemmel az oktatási hasznosulás lehetőségeire, a fizikai közelség és tanulmányozhatóság lehetőségeinek megteremtésére (látványtárak, tanulmányi raktárak), 3. a digitalizált kulturális örökségi értékekhez való hozzáférés elősegítése (virtuális pontok). | emberi erőforrások minisztere | – |
@@ -74,7 +76,7 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 12. | 1.2.5. | Infrastrukturális fejlesztések az esélyegyenlőség elvű minőségi oktatás és az egész életen át tartó tanulás támogatása érdekében az LHH kistérségekben | 0,00 | 0,32 | 0,00 | 0,00 | 0,00 | A konstrukció célja az élethosszig tartó tanulás kulcskompetenciáinak fejlesztéséhez szükséges egységes alapinformatikai infrastruktúra kialakítása a leghátrányosabb helyzetű (LHH) kistérségek közoktatási és közművelődési intézményeiben a kompetencia-alapú oktatás elterjesztése és a területi különbségek mérséklése érdekében. | emberi erőforrások minisztere | – |
 
-| 13. | 1.2.6. | „Világsátor” – multifunkcionális közösségi és kulturális központ infrastrukturális feltételeinek kialakítása | 0,00 | 1,70 | 0,00 | 0,55 | 0,31 | A konstrukció célja a roma kultúra kincseinek összegyűjtésére és hozzáférhetővé tételére, a roma kultúrára építő nem formális és informális képzések, valamint a közösségi tevékenységek, rendezvények, gyermek- és ifjúsági programok lebonyolítására alkalmas intézmény kialakítása. | emberi erőforrások minisztere | – |
+| 13. | 1.2.6. | „Világsátor” – multifunkcionális közösségi és kulturális központ infrastrukturális feltételeinek kialakítása | 0,00 | 1,70 | 0,00 | 0,14 | 0,31 | A konstrukció célja a roma kultúra kincseinek összegyűjtésére és hozzáférhetővé tételére, a roma kultúrára építő nem formális és informális képzések, valamint a közösségi tevékenységek, rendezvények, gyermek- és ifjúsági programok lebonyolítására alkalmas intézmény kialakítása. | emberi erőforrások minisztere | – |
 
 | 14. | 1.3.1. | A felsőoktatási tevékenységek színvonalának emeléséhez szükséges infrastrukturális és informatikai fejlesztések támogatása | 0,00 | 0,00 | 0,00 | 0,27 | 0,00 | A konstrukció általános célja a felsőoktatási intézmények oktatással, kutatással, vállalkozással kapcsolatos infrastruktúrájának fejlesztése annak érdekében, hogy a tudásalapú társadalom és gazdaság követelményeinek megfelelő, európai és globális értelemben vett versenyképes szolgáltatásokat legyenek képesek nyújtani. A konstrukció közvetlen célja a felsőoktatási tevékenységek színvonalának emeléséhez szükséges infrastruktúra fejlesztése, valamint a műszaki es természettudományi szakokon tanuló hallgatók száma emeléséhez szükséges infrastrukturális és technológiai feltételek megteremtése. | emberi erőforrások minisztere | – |
 
@@ -84,7 +86,7 @@ Az egész életen át tartó tanuláshoz, a munkaerő-piaci helytállást biztos
 
 | 17. | 1.3.3. | AGÓRA PÓLUS – Pólus-, illetve társpólus-városok innovatív kulturális infrastruktúra-fejlesztéseinek támogatása | 0,00 | 0,00 | 0,00 | 0,16 | 0,34 | Átfogó cél a kulturális alapú városfejlesztés eszközeivel a város versenyképességének növelése, a helyben megtartott munkaerő „kinevelése”, az elvándorlási kedv mérséklése. Közvetlen cél komplex közösségi terek létrehozása, amelyek az egyes fejlesztési pólusoknak, társpólusoknak a felsőoktatásban is megjelenő tematikái mentén közérthető módon mutatják be a térségi innováció eredményeit. | emberi erőforrások minisztere | – |
 
-| 18. | Összesen | 2,48 | 20,59 | 3,30 | 10,58 | 4,28 |  |  |  |
+| 18. | Összesen | 2,48 | 20,59 | 3,30 | 10,17 | 5,08 |  |  |  |
 
 2. A 2. prioritás: Egészségügyi infrastruktúra fejlesztése
 
@@ -102,9 +104,9 @@ A prioritás célja, hogy hozzájáruljon egy szolgáltatáselvű ellátórendsz
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 0,00 | 58,99 | 27,61 | 11,82 | 17,46 | 115,88 |
+| 3. | 0,00 | 58,99 | 27,61 | 11,82 | 23,46 | 121,88 |
 
-| 4. | Többletkötelezettség-vállalás: 46,72 Mrd Ft |
+| 4. | Többletkötelezettség-vállalás: 52,72 Mrd Ft |
 
 | 5. | Az Európai Regionális Fejlesztési Alapból történő finanszírozás tervezett aránya a prioritás keretéből: 85% |
 
@@ -116,7 +118,7 @@ A prioritás célja, hogy hozzájáruljon egy szolgáltatáselvű ellátórendsz
 
 | 2. | 2007–2013. | 2014. | 2015. | Összesen |
 
-| 3. | 310,79 | 23,90 | 33,71 | 368,40 |
+| 3. | 310,79 | 23,90 | 39,71 | 374,40 |
 
 2.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -134,7 +136,7 @@ A prioritás célja, hogy hozzájáruljon egy szolgáltatáselvű ellátórendsz
 
 | 5. | 2.2.2./C | Sürgősségi ellátás fejlesztése | 0,00 | 0,00 | 0,02 | 0,00 | 0,01 | Sürgősségi betegellátás, korszerű, integrált, optimális feladatmegosztáson alapuló, szakmailag egységes rendszerének és központjainak kialakítása, fejlesztése az ellátás hatékonyságának és az ellátás minőségének növelése érdekében. A konstrukció célja a sürgősségi betegellátáshoz való hozzáférhetőség esélyegyenlőségének javítása, a lakosság biztonságérzetének és életesélyeinek növelése, a betegellátás hatékonyságának és minőségének javítása perinatális és neonatális intenzív centrumok eszközfejlesztésén és korszerű szakmai informatikai rendszerek alkalmazásán keresztül. | emberi erőforrások minisztere | – |
 
-| 6. | 2.2.4. | Struktúraváltoztatást támogató infrastruktúrafejlesztés a fekvőbeteg-szakellátásban | 0,00 | 7,99 | 5,04 | 2,15 | 0,50 | A Semmelweis-tervben megfogalmazott térségi egészségszervezés elvével összhangban alapvető cél a magas színvonalú egészségügyi ellátásokhoz való hozzáférés területi kiegyenlítése, a fennálló társadalmi esélykülönbségek csökkentése, a struktúraváltás és ellátás racionalizálásának megvalósítása a fekvőbeteg szakellátó intézményrendszerben. | emberi erőforrások minisztere | – |
+| 6. | 2.2.4. | Struktúraváltoztatást támogató infrastruktúrafejlesztés a fekvőbeteg-szakellátásban | 0,00 | 7,99 | 5,04 | 2,15 | 0,80 | A Semmelweis-tervben megfogalmazott térségi egészségszervezés elvével összhangban alapvető cél a magas színvonalú egészségügyi ellátásokhoz való hozzáférés területi kiegyenlítése, a fennálló társadalmi esélykülönbségek csökkentése, a struktúraváltás és ellátás racionalizálásának megvalósítása a fekvőbeteg szakellátó intézményrendszerben. | emberi erőforrások minisztere | – |
 
 | 7. | 2.2.5. | Korszerű regionális onkológiai hálózat kialakítása | 0,00 | 0,00 | 0,19 | 0,52 | 0,05 | A konstrukció célja az országos, költséghatékony módon működő homogén onkológiai ellátó hálózat kialakítása, valamint a regionális onkológiai centrumok és megyei decentrum intézmények rendszerének létrehozása. | emberi erőforrások minisztere | – |
 
@@ -142,15 +144,15 @@ A prioritás célja, hogy hozzájáruljon egy szolgáltatáselvű ellátórendsz
 
 | 9. | 2.2.7. | Infrastruktúra-fejlesztés az egészségpólusokban | 0,00 | 2,13 | 4,01 | 1,15 | 0,65 | A konstrukció alapvető célja minden régióban megteremteni a legmagasabb technikai színvonalú progresszív betegellátásokhoz való hozzáférést a lakosság egésze számára a betegközpontúság szem előtt tartásával. Általános cél koncentrált fejlesztés révén a progresszivitás legmagasabb szintjén a korszerű, szükségleteken alapuló, optimális kapacitású, költség-hatékonyan működő és fenntartható betegellátó rendszer kialakítása az erőforrások, valamint speciális ellátások koncentrálásán és magas szintű logisztika alkalmazásán keresztül, amely egyben a szolgáltatások minőségének javulását eredményezi. Távlati cél továbbá a lakosság elégedettségének és életminőségének növekedése a komplex ellátás és szolgáltatások biztosításával (megelőzés, kezelés, rehabilitáció, gondozás), vagy azok megszervezésével, valamint a magas progresszivitású, illetve a speciális, korszerű szolgáltatásokhoz való egyenlő hozzáférés megteremtésén keresztül. Az érintett intézmények képesek lesznek az egészségügyi struktúraátalakítás reformtörekvéseivel összhangban az egyre gyorsabb technológiai fejlődésből eredő kihívásoknak megfelelni. | emberi erőforrások minisztere | – |
 
-| 10. | 2.2.8. | Infrastrukturális fejlesztések megvalósítása | 0,00 | 0,00 | 0,00 | 5,00 | 6,30 | A konstrukció célja az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendeletben meghatározott feltételeknek való megfelelés érdekében az infrastrukturális fejlesztések, különösen az eszközbeszerzések támogatása. | emberi erőforrások minisztere | – |
+| 10. | 2.2.8. | Infrastrukturális fejlesztések megvalósítása | 0,00 | 0,00 | 0,00 | 5,00 | 10,00 | A konstrukció célja az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendeletben meghatározott feltételeknek való megfelelés érdekében az infrastrukturális fejlesztések, különösen az eszközbeszerzések támogatása. | emberi erőforrások minisztere | – |
 
 | 11. | 2.3.1. | Nemzeti Egészségügyi Informatikai (eHealth) Rendszer – Központi, intézményközi adatáramlást biztosító informatikai rendszerek fejlesztése, országos egységes központi megoldások bevezetése | 0,00 | 1,94 | 0,00 | 0,00 | 0,00 | A konstrukció célja, hogy az alap-, a járóbeteg-, és a fekvőbeteg-szolgáltatók rendelkezzenek intézményközi adatáramlást, valamint transzparens, adattorzítástól mentes betegazonosítási, betegforgalmi, finanszírozási, illetve elszámolási rendszerek működtetését lehetővé tevő, intézményen belüli informatikai megoldásokkal. | emberi erőforrások minisztere | – |
 
 | 12. | 2.3.2. | Nemzeti Egészségügyi Informatikai (eHealth) Rendszer – Elektronikus közhiteles nyilvántartások és ágazati portál fejlesztése | 0,00 | 1,47 | 0,00 | 0,00 | 0,00 | A konstrukció célja az egészségügyi ágazat közhiteles nyilvántartásainak létrehozása és publikálása, ehhez az adatkörök fenntartása, továbbá intézményi szerepköreinek és felelősségi szabályrendszerének létrehozása. | emberi erőforrások minisztere | – |
 
-| 13. | 2.3.3. | Nemzeti Egészségügyi Informatikai (eHealth) Rendszer – Térségi, funkcionálisan integrált intézményközi információs rendszerek kiépítéséhez szükséges helyi infrastruktúra fejlesztések | 0,00 | 0,00 | 3,63 | 0,00 | 0,00 | A konstrukció célja az egészségügyi ellátórendszer intézményei számára a központi informatikai szolgáltatásokhoz való csatlakozási képesség lokálisan felmerülő fejlesztéseinek biztosítása. | emberi erőforrások minisztere | – |
+| 13. | 2.3.3. | Nemzeti Egészségügyi Informatikai (eHealth) Rendszer – Térségi, funkcionálisan integrált intézményközi információs rendszerek kiépítéséhez szükséges helyi infrastruktúra fejlesztések | 0,00 | 0,00 | 3,63 | 0,00 | 2,00 | A konstrukció célja az egészségügyi ellátórendszer intézményei számára a központi informatikai szolgáltatásokhoz való csatlakozási képesség lokálisan felmerülő fejlesztéseinek biztosítása. | emberi erőforrások minisztere | – |
 
-| 14. | Összesen | 0,00 | 58,99 | 27,61 | 11,82 | 17,46 |  |  |  |
+| 14. | Összesen | 0,00 | 58,99 | 27,61 | 11,82 | 23,46 |  |  |  |
 
 3. A 3. prioritás: A munkaerő-piaci részvételt és a társadalmi befogadást támogató infrastruktúra fejlesztése
 
@@ -168,7 +170,7 @@ A prioritás célja a munkaerő-piaci és társadalmi integrációt segítő szo
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. | Összesen |
 
-| 3. | 3,00 | 42,38 | 3,98 | 2,54 | 1,13 | 53,03 |
+| 3. | 3,00 | 42,38 | 3,98 | 2,54 | 0,53 | 52,43 |
 
 | 4. | Többletkötelezettség-vállalás: 5,18 Mrd Ft |
 
@@ -182,7 +184,7 @@ A prioritás célja a munkaerő-piaci és társadalmi integrációt segítő szo
 
 | 2. | 2007–2013. | 2014. | 2015. | Összesen |
 
-| 3. | 83,25 | 9,56 | 1,13 | 93,94 |
+| 3. | 83,25 | 9,56 | 0,53 | 93,34 |
 
 3.3. A támogatási konstrukciók összefoglaló adatai (2011–2013)
 
@@ -194,7 +196,7 @@ A prioritás célja a munkaerő-piaci és társadalmi integrációt segítő szo
 
 | 2. | 2011. | 2012. | 2013. | 2014. | 2015. |
 
-| 3. | 3.2.1. | Az integrált rendszer kereteinek megteremtése a foglalkoztatási szolgálat infrastruktúrájának fejlesztésével | 0,00 | 6,00 | 0,00 | 0,00 | 0,60 | A konstrukció célja az aktív munkaerő-piaci politikák eredményességének és hatékonyságának javítása érdekében a Nemzeti Foglalkoztatási Szolgálat által nyújtott szolgáltatások infrastrukturális feltételeinek fejlesztése, a kapacitások bővítése, új feladatainak ellátásához szükséges feltételek megteremtése, valamint az új szolgáltatási modell kiterjesztése. | nemzetgazdasági miniszter | – |
+| 3. | 3.2.1. | Az integrált rendszer kereteinek megteremtése a foglalkoztatási szolgálat infrastruktúrájának fejlesztésével | 0,00 | 6,00 | 0,00 | 0,00 | 0,00 | A konstrukció célja az aktív munkaerő-piaci politikák eredményességének és hatékonyságának javítása érdekében a Nemzeti Foglalkoztatási Szolgálat által nyújtott szolgáltatások infrastrukturális feltételeinek fejlesztése, a kapacitások bővítése, új feladatainak ellátásához szükséges feltételek megteremtése, valamint az új szolgáltatási modell kiterjesztése. | nemzetgazdasági miniszter | – |
 
 | 4. | 3.2.2. | A komplex rehabilitációhoz szükséges infrastrukturális feltételek megteremtése | 0,00 | 1,30 | 0,00 | 0,27 | 0,18 | A konstrukció célja a komplex rehabilitációs szolgáltatásokhoz való hozzáférés javítása és fejlesztése új telephely létesítésével (modell értékű komplex rehabilitációs központ létrehozása) a konvergencia régióban, továbbá látássérült személyek és komplex rehabilitációt nyújtó szakemberek képzéséhez, továbbképzéséhez szükséges infrastrukturális kapacitások biztosítása. | emberi erőforrások minisztere | – |
 
@@ -218,7 +220,7 @@ A prioritás célja a munkaerő-piaci és társadalmi integrációt segítő szo
 
 | 14. | 3.5.2. | A komplex rehabilitációhoz szükséges infrastrukturális feltételek megteremtése | 0,00 | 2,25 | 0,00 | 0,00 | 0,00 | A mozgássérültek komplex rehabilitációjának és a korai intervenciós (fejlesztő) szolgáltatásoknak az infrastrukturális és személyi feltételeinek megteremtése. | emberi erőforrások minisztere | – |
 
-| 15. | Összesen | 3,00 | 42,38 | 3,98 | 2,54 | 1,13 |  |  |  |
+| 15. | Összesen | 3,00 | 42,38 | 3,98 | 2,54 | 0,53 |  |  |  |
 
 4. A 4. prioritás: Technikai segítségnyújtás
 
@@ -267,4 +269,4 @@ A prioritás célja a TIOP eredményes és hatékony megvalósítása. A technik
 | 4. | 4.1.2. | Vásárolt kommunikációs szolgáltatások | 0,00 | 0,00 | 0,00 | 0,00 | 1,20 | A Társadalmi Infrastruktúra Operatív Program intézkedéseivel kapcsolatos kommunikációs célú feladatok ellátása. | emberi erőforrások minisztere | – |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1652/2015. (IX. 10.) Korm. határozat 3–4. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1652/2015. (IX. 10.) Korm. határozat 3–4. pontja, az 1662/2015. (IX. 16.) Korm. határozat 3–4. pontja, az 1664/2015. (IX. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
