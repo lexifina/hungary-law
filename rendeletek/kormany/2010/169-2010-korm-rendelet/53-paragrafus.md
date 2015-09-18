@@ -1,3 +1,3 @@
-53. §[^141]
+53. §[^142]
 
-[^141]: Az 53. § a (4) bekezdése alapján hatályát vesztette.
+[^142]: Az 53. § a (4) bekezdése alapján hatályát vesztette.

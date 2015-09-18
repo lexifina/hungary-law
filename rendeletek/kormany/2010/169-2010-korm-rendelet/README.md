@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-169-20-
 | 2013-07-01 | 2010-169-20-22.10 | 172/2013. (V. 30.) Korm. rendelet |
 | 2015-01-30 | 2010-169-20-22.11 | 389/2014. (XII. 31.) Korm. rendelet |
 | 2015-07-01 | 2010-169-20-22.12 | 157/2015. (VI. 25.) Korm. rendelet |
+| 2015-09-18 | 2010-169-20-22.13 | 256/2015. (IX. 10.) Korm. rendelet |

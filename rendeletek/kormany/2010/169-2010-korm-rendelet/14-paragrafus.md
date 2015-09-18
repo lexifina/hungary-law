@@ -1,6 +1,6 @@
 ## 14. §[^34] Az általános rendőrségi feladatok ellátására létrehozott szerv
 
-1.[^35] irányítja a terrorcselekmény, valamint a jármű hatalomba kerítése bűncselekmények kivételével a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását Magyarország területén,
+1.[^35] a terrorcselekmény, a jármű hatalomba kerítése bűncselekmények elleni fellépés, valamint a terrorizmust elhárító szerv kijelöléséről és feladatai ellátásának részletes szabályairól szóló 295/2010. (XII. 22.) Korm. rendelet 3. § (3a) bekezdésben meghatározott esetek kivételével irányítja a légiközlekedés ellen folyamatban lévő jogellenes cselekmények felszámolását Magyarország területén,
 
 2. gondoskodik a kockázatelemzés alapján az 1. § (1) bekezdés b) és c) pontjában megjelölt hatóság által veszélyeztetett légijárműnek minősített légijármű (a továbbiakban: veszélyeztetett légijármű) rendőri biztosításáról a repülőtér területén,
 
@@ -33,7 +33,7 @@
 16.[^38] a légiközlekedés védelmi kockázatok felderítése érdekében a repülőtereken és a légiközlekedés védelmi tevékenység végzésére kötelezett jogalanynál – amennyiben az általános rendőrségi feladatok ellátására létrehozott szerv indokoltnak tartja a TEK és az AH bevonásával – ellenőrzést hajt végre, amelynek eredményéről a felelős hatóságot soron kívül értesíti.
 
 [^34]: A 14. § a 240/2011. (XI. 18.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^35]: A 14. § 1. pontja a 172/2013. (V. 30.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^35]: A 14. § 1. pontja a 256/2015. (IX. 10.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^36]: A 14. § 6. pontja a 389/2014. (XII. 31.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^37]: A 14. § 12. pontja a 389/2014. (XII. 31.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^38]: A 14. § 16. pontja a 389/2014. (XII. 31.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
