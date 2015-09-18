@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-295-20-
 | 2013-01-01 | 2010-295-20-22.6 | 416/2012. (XII. 29.) Korm. rendelet |
 | 2014-09-05 | 2010-295-20-22.7 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2010-295-20-22.8 | 102/2012. (V. 18.) Korm. rendelet |
+| 2015-09-18 | 2010-295-20-22.9 | 256/2015. (IX. 10.) Korm. rendelet |
