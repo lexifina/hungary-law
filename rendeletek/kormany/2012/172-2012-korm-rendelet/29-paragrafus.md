@@ -1,7 +1,7 @@
 ## 11. Kiküldetés az állomáshelyről
 
-29. § (1) Ha a kihelyezett a külszolgálata alatt harmadik országban ideiglenes kiküldetést teljesít, ellátmánya mellett napidíj is megilleti. A fogadó államban teljesített ideiglenes kiküldetés esetén a napidíjat a kihelyezett ellátmánya tartalmazza.
+29. §[^70] (1) Ha a kihelyezett a külszolgálata alatt harmadik országban ideiglenes kiküldetést teljesít, részére szállásköltség csak a naptári naponként 8 órát meghaladó távollét esetén jár.
 
-(2) Ha a kihelyezett az (1) bekezdés szerint ideiglenes kiküldetést teljesít, a napidíj egynapi összege a III. fejezetben foglaltak alapján kerül meghatározásra.
+(2) A kihelyezett házastársa részére szállásköltség kizárólag abban az esetben fizethető, ha a házastárs utazása indokolt és a kihelyezett diplomáciai tevékenysége keretében történő hivatalos utazásához igazolható módon kapcsolódik. Kihelyezett gyermeke részére szállásköltség nem fizethető ki.
 
-(3) A kiküldött részére szállásköltség csak a naptári naponként 8 órát meghaladó távollét esetén jár.
+[^70]: A 29. § a 236/2015. (IX. 4.) Korm. rendelet 9. §-ával megállapított szöveg.

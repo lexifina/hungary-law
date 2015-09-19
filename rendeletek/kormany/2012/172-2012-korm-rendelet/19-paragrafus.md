@@ -1,6 +1,6 @@
 19. § (1) A külszolgálat megszűnik
 
-a)[^36] a kihelyező okiratban megállapított naptári évben, a 20. § (2) bekezdése szerinti előzetes értesítésben meghatározott napon,
+a)[^40] a kihelyező okiratban megállapított naptári évben, a 20. § (2) bekezdése szerinti előzetes értesítésben meghatározott napon,
 
 b) a kihelyező okiratban meghatározott feltétel bekövetkeztével,
 
@@ -18,10 +18,17 @@ c) a kihelyezett kérelmére,
 
 d) nemzetközi jogi okokból.
 
-(3)[^37] A (2) bekezdés d) pontjában foglaltak fennállása kérdésében a kihelyező vezető dönt.
+(3)[^41] A kihelyezés visszavonásával a külszolgálatot meg kell szüntetni, ha a kihelyezett:
 
-(4)[^38] A (2) bekezdésben foglalt esetekben a nagykövet külszolgálata is megszüntethető, ez azonban a kinevezését nem érinti.
+a) a 17. § (1) bekezdésben meghatározott feltételeknek már nem felel meg vagy
 
-[^36]: A 19. § (1) bekezdés a) pontja a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés p) pontja szerint módosított szöveg.
-[^37]: A 19. § (3) bekezdése a 174/2014. (VII. 18.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 343/2012. (XII. 19.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^38]: A 19. § (4) bekezdését a 174/2014. (VII. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+b) az illetékes foglalkozás-egészségügyi szolgálat által végzett kötelező időszaki, illetve soron kívüli orvosi vizsgálaton nem jelenik meg.
+
+(4)[^42] A (2) bekezdés d) pontjában foglaltak fennállása kérdésében a kihelyező vezető dönt.
+
+(5)[^43] A (2) bekezdésben foglalt esetekben a nagykövet külszolgálata is megszüntethető, ez azonban a kinevezését nem érinti.
+
+[^40]: A 19. § (1) bekezdés a) pontja a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^41]: A 19. § (3) bekezdése a 236/2015. (IX. 4.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^42]: A 19. § (4) bekezdését a 174/2014. (VII. 18.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 236/2015. (IX. 4.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^43]: A 19. § (5) bekezdését a 236/2015. (IX. 4.) Korm. rendelet 5. § (2) bekezdése iktatta be.

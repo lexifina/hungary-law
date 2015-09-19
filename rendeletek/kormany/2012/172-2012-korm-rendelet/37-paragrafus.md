@@ -2,9 +2,9 @@
 
 ## 17. Iskoláztatási költség
 
-37. § (1)[^64] A kihelyező szerv az e §-ban foglaltak szerint biztosítja, hogy a kihelyezett ellátmánypótlékra jogosító gyermeke a kihelyezés ideje alatt az állomáshelyen az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő és elsősorban térítésmentesen igénybe vehető, vagy átlagos költségszintű oktatási intézményben óvodai, előkészítő, alap- és középfokú tanulmányokat folytathasson.
+37. § (1)[^79] A kihelyező szerv az e §-ban foglaltak szerint biztosítja, hogy a kihelyezett ellátmánypótlékra jogosító gyermeke a kihelyezés ideje alatt az állomáshelyen az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő és elsősorban térítésmentesen igénybe vehető, vagy az átlagos költségszintű oktatási intézményben előkészítő, alap- és középfokú tanulmányokat folytathasson.
 
-(2)[^65] A kihelyező vezető meghatározza és szükség szerinti rendszerességgel felülvizsgálja az állomáshelyen rendelkezésre álló azon – az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő, átlagos költségszintű, angol, német, francia és spanyol nyelven, illetve az általános gyakorlat szerint Magyarországon eredménnyel hasznosítható nyelve(ke)n képzést folytató – oktatási intézmény(ek) körét, amelyek tandíjára – a kihelyező szerv a külképviselet nevére, címére szóló számla vagy számlát helyettesítő bizonylat ellenében – térítést biztosít (tandíjtérítés).
+(2)[^80] A kihelyező vezető meghatározza és szükség szerinti rendszerességgel felülvizsgálja az állomáshelyen rendelkezésre álló azon – az átlagos hazai képzési, egészségügyi és kulturális követelményeknek megfelelő, átlagos költségszintű, angol, német, francia és spanyol nyelven, illetve az általános gyakorlat szerint Magyarországon eredménnyel hasznosítható nyelve(ke)n képzést folytató – oktatási intézmény(ek) körét, amelyek tandíjára – a kihelyező szerv a külképviselet nevére, címére szóló számla vagy számlát helyettesítő bizonylat ellenében – térítést biztosít (tandíjtérítés).
 
 (3) A tandíjtérítés mértéke tanévenként a tandíj 80 százaléka. A fennmaradó összeget a kihelyezett viseli (önrész). Ettől eltérően, amennyiben a tanévre – a kihelyezett összes ellátmánypótlékra jogosító gyermekének tandíja után – fizetendő, éves önrész a kihelyezett éves bruttó ellátmányának 20 százalékát meghaladja, akkor a kihelyező szerv az éves tandíjnak ezt a részét is megtéríti.
 
@@ -12,5 +12,5 @@
 
 (5) A kihelyezett sajátos nevelési igényű gyermeke különleges gondozás keretében történő pedagógiai, gyógypedagógiai és konduktív pedagógiai ellátásának költségeit a kihelyező szerv (2) és (3) bekezdésben foglaltak szerint téríti.
 
-[^64]: A 37. § (1) bekezdése a 47. §-ával megállapított szöveg.
-[^65]: A 37. § (2) bekezdése a 343/2014. (XII. 19.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^79]: A 37. § (1) bekezdése a 236/2015. (IX. 4.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^80]: A 37. § (2) bekezdése a 343/2014. (XII. 19.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.

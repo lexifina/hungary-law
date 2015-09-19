@@ -1,6 +1,6 @@
-## 49. §[^74] E rendeletnek a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet módosításáról szóló 174/2014. (VII. 18.) Korm. rendelettel (a továbbiakban: Módr.) módosított, illetve megállapított 9. §-át, 10. § (2) bekezdését, 12. §-át, 12/A. §-át, 21. § (2) bekezdését, 21/A. §-át, valamint a Módr. 19. § (1) bekezdése által módosított rendelkezéseket a Módr. hatálybalépését[^75] megelőzően külszolgálatra kihelyezett szakdiplomatákra is alkalmazni kell.
+## 51. §[^94] E rendeletnek a Módr2. 4. § (2) bekezdésével módosított 17. § (5) bekezdését a Módr2. hatálybalépését[^95] követően megkezdett külszolgálatokra kell alkalmazni.
 
 1. melléklet a 172/2012. (VII. 26.) Korm. rendelethez
 
-[^74]: A 49. §-t a 174/2014. (VII. 18.) Korm. rendelet 19. § (2) bekezdése iktatta be.
-[^75]: A hatálybalépés időpontja 2014. július 21.
+[^94]: Az 51. §-t a 236/2015. (IX. 4.) Korm. rendelet 14. §-a iktatta be.
+[^95]: A hatálybalépés időpontja 2015. szeptember 19.

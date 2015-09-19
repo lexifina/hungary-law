@@ -20,9 +20,9 @@ d) nemzetközi szervezet mellett működő állandó képviselet,
 
 e) külföldi magyar intézet;
 
-3.[^4] kihelyező szerv: a külpolitikáért felelős miniszter, illetve Magyarország Európai Unió melletti Állandó Képviselete (a továbbiakban: Állandó Képviselet) esetében az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium, amely az általa foglalkoztatott kormánytisztviselőt e rendelet szabályai szerint, tartós külszolgálat ellátására, kihelyező okirattal kihelyezi;
+3.[^4] kihelyező szerv: a külpolitikáért felelős miniszter által vezetett minisztérium, illetve Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: Állandó Képviselet) kihelyezésre kerülő diplomaták és szakdiplomaták esetében az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium, amely az általa foglalkoztatott kormánytisztviselőt e rendelet szabályai szerint, tartós külszolgálat ellátására, kihelyező okirattal kihelyezi;
 
-3a.[^5] kihelyező vezető: a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője, illetve az Állandó Képviselet esetében az európai uniós ügyek koordinációjáért felelős miniszter;
+3a.[^5] kihelyező vezető: a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője, illetve az Állandó Képviselet diplomatái és szakdiplomatái esetében az európai uniós ügyek koordinációjáért felelős miniszter;
 
 4. kihelyezett: kihelyező okirattal tartós külszolgálatot ellátó kormánytisztviselő és kormányzati ügykezelő;
 
@@ -30,7 +30,7 @@ e) külföldi magyar intézet;
 
 6.[^7] szakdiplomata: az a kormánytisztviselő, akit központi államigazgatási szerv egy ágazati szakmai feladatnak Magyarország külképviseletén történő ellátására, meghatározott időre helyez át a kihelyező szervhez;
 
-7.[^8] külszolgálat: Magyarország külképviseletein a kihelyező szerv munkáltatói jogkört gyakorló vezetője által – szakdiplomaták esetében a szaktárcával egyeztetett – munkaköri leírásban meghatározott, a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek között végzett tevékenység;
+7.[^8] külszolgálat: Magyarország külképviseletein a kihelyező szerv munkáltatói jogkört gyakorló vezetője által – szakdiplomaták esetében a feladatkörében érintett miniszter által vezetett minisztériummal vagy a tudományos és technológiai szakdiplomaták esetében Nemzeti Kutatási, Fejlesztési és Innovációs Hivatallal egyeztetett – munkaköri leírásban meghatározott, a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek között végzett tevékenység;
 
 8. kihelyezés: munkáltatói intézkedés, mellyel a kihelyező szerv a kormánytisztviselőt tartós külszolgálat ellátására rendeli;
 
@@ -43,9 +43,9 @@ e) külföldi magyar intézet;
 12. ellátmánypótlékra jogosító személy: a kihelyező okiratban szereplő, a kihelyezett írásbeli nyilatkozata alapján a kihelyezettel közös háztartásban, életvitelszerűen a külszolgálat helyén tartózkodó házastársa vagy élettársa (a továbbiakban együtt: házastárs), valamint gyermeke, örökbe fogadott gyermeke, a házastársa gyermeke, illetve annak örökbe fogadott gyermeke (a továbbiakban együtt: gyermeke).
 
 [^3]: A 3. § 2. pontja a 343/2014. (XII. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § 3. pontja a 343/2014. (XII. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § 3a. pontját a 343/2014. (XII. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^4]: A 3. § 3. pontja a 236/2015. (IX. 4.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § 3a. pontját a 343/2014. (XII. 19.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 236/2015. (IX. 4.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: A 3. § 5. pontja a 343/2014. (XII. 19.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^7]: A 3. § 6. pontja a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^8]: A 3. § 7. pontja a 174/2014. (VII. 18.) Korm. rendelet 19. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^8]: A 3. § 7. pontja a 236/2015. (IX. 4.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
 [^9]: A 3. § 11. pontja a 343/2014. (XII. 19.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
