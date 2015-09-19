@@ -1,0 +1,3 @@
+## 13. § A 255/2014. (X. 10.) Korm. rendelet 25. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás, valamint meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházás esetén az elszámolható költségeknek legalább 200%-kal meg kell haladniuk az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.”
