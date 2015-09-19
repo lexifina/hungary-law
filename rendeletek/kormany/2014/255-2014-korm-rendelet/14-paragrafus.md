@@ -2,7 +2,7 @@
 
 ## 9. Környezet és Energetikai Hatékonyság Operatív Program
 
-## 14. § A Környezet és Energetikai Hatékonyság Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:
+## 14. §[^110] A Környezet és Energetikai Hatékonyság Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
 
 1. ivóvízminőség-javítás ivóvíz-kezelési technológiák fejlesztésével, más vízbázisra áttéréssel, térségi rendszerek kialakításával, rekonstrukcióval, illetve ezek kombinációjával,
 
@@ -23,3 +23,5 @@
 9. távhő és hőellátó rendszerek energetikai fejlesztése, illetve megújuló alapra helyezése,
 
 10. intelligens hálózati rendszerek támogatása a villamosenergia-rendszer rugalmasságnak biztosítására.
+
+[^110]: A 14. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 12. pontja szerint módosított szöveg.

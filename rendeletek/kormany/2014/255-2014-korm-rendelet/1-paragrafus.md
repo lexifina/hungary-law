@@ -18,4 +18,8 @@ e) az Integrált Közlekedésfejlesztési Operatív Program,
 
 f) a Környezet és Energetikai Hatékonyság Operatív Program,
 
-g) a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
+g) a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program,
+
+h)[^1] a Vidékfejlesztési Program
+
+[^1]: Az 1. § h) pontját a 271/2015. (IX. 10.) Korm. rendelet 1. §-a iktatta be.
