@@ -1,0 +1,1 @@
+## „(12) A (2) bekezdés b) pont bb) alpontjának alkalmazásakor az iskolai rendszerű oktatás keretében folytatott középfokú szakképzés befejezésének időpontja alatt az első érettségi, illetve szakmunkás bizonyítvány megszerzési napját kell érteni.”

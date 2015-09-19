@@ -1,0 +1,1 @@
+## „3a. kihelyező vezető: a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője, illetve az Állandó Képviselet diplomatái és szakdiplomatái esetében az európai uniós ügyek koordinációjáért felelős miniszter;”
