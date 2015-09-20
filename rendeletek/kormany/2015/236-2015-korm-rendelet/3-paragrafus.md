@@ -1,3 +1,0 @@
-## 2. § Az R. 7. §-a helyébe a következő rendelkezés lép:
-
-## „7. § A nagykövet és a főkonzulátust vezető főkonzul külszolgálata ideje alatt a Kttv. szerinti osztályvezetői illetményre és illetménypótlékra jogosult. Az Állandó Képviselet képviselet-vezetője a külszolgálata ideje alatt, a kihelyező vezető döntése alapján legalább a Kttv. szerinti osztályvezetői illetményre és illetménypótlékra, de legfeljebb helyettes államtitkári illetményre jogosult. Egyedi döntés alapján osztályvezetői illetményre és illetménypótlékra a 4. § (1) bekezdés d)–f) pontjában felsorolt képviselet-vezető is jogosult lehet.”
