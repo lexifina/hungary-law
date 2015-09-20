@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti a minimális építőipari rezsióradíj 2014. évi mértékéről szóló 30/2014. (IV. 10.) BM rendelet.
+## 4. §[^2]
 
 1. melléklet a 40/2015. (IX. 14.) MvM rendelethez
 
@@ -65,3 +65,5 @@ A minimális építőipari rezsióradíj költségnemei és értékei
 | 29. | Elvárt eredmény értéke (23+25+27. sor összesen x 0,02) | 49 |
 
 | 30. | Mindösszesen (23+25+27+29. sor) | 2490 |
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
