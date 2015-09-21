@@ -1,0 +1,23 @@
+# A miniszterelnök 80/2015. (IX. 21.) ME határozata
+
+Magyar Közlöny 2015. évi 134. szám, 2015. szeptember 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0150c25f17d81d09ee6053e11578cb3915cc9502/dokumentumok/ac80f04da7666a928cfd0163508a68ffea58965b/letoltes)
+
+---
+
+A miniszterelnök 80/2015. (IX. 21.) ME határozata
+a Magyarország Kormánya és az Iráni Iszlám Köztársaság Kormánya közötti gazdasági együttműködési
+megállapodás létrehozására adott felhatalmazásról
+A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény 5. § (1) bekezdése szerinti hatáskörömben eljárva,
+a külgazdasági és külügyminiszter előterjesztése alapján
+1. egyetértek a Magyarország Kormánya és az Iráni Iszlám Köztársaság Kormánya közötti gazdasági együttműködési
+megállapodás (a továbbiakban: megállapodás) létrehozásával;
+2. felhatalmazom a külgazdasági és külügyminisztert, hogy a tárgyalásokon részt vevő személyeket kijelölje;
+3. felhatalmazom a külgazdasági és külügyminisztert vagy az általa kijelölt személyt, hogy a tárgyalások
+eredményeként előálló szövegtervezetet kézjegyével lássa el;
+4. felhívom a külgazdasági és külügyminisztert, hogy a megállapodás létrehozásához szükséges meghatalmazási
+okiratot adja ki;
+5. felhívom a külgazdasági és külügyminisztert, hogy a megállapodás létrehozását követően a megállapodás
+szövegének végleges megállapítására való felhatalmazásról szóló határozat tervezetét az igazságügyi miniszterrel
+egyetértésben haladéktalanul terjessze a Kormány elé.
+ Orbán Viktor s. k.,
+ miniszterelnök

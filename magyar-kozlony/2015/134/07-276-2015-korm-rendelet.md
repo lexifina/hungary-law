@@ -1,0 +1,69 @@
+# A Kormány 276/2015. (IX. 21.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 134. szám, 2015. szeptember 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0150c25f17d81d09ee6053e11578cb3915cc9502/dokumentumok/ac80f04da7666a928cfd0163508a68ffea58965b/letoltes)
+
+---
+
+A Kormány 276/2015. (IX. 21.) Korm. rendelete
+az energiával kapcsolatos termékek környezetbarát tervezési kötelezettségeinek előírásáról,
+valamint forgalomba hozatalának és megfelelőségértékelésének általános feltételeiről szóló
+65/2011. (IV. 15.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az energiával kapcsolatos termékek környezetbarát tervezési kötelezettségeinek előírásáról, valamint forgalomba
+hozatalának és megfelelőségértékelésének általános feltételeiről szóló 65/2011. (IV. 15.) Korm. rendelet
+(a továbbiakban: R.) a következő 8/A. alcímmel egészül ki:
+„8/A. A helyiségfűtő berendezések, a kombinált fűtőberendezések, a vízmelegítők és a melegvíz-
+tároló tartályok használatbavételére vonatkozó előírások
+10/A. § (1) 2015. szeptember 26-át követően – a típusengedély megszerzésének időpontjától függetlenül – nem
+vehető használatba nem egyetemes szolgáltatásra jogosult felhasználási helyen
+a) olyan fűtőberendezés, amely a 813/2013/EU bizottsági rendeletben foglalt szezonális helyiségfűtési hatásfokra,
+vízmelegítési hatásfokra és hangteljesítményszintre,
+b) olyan vízmelegítő, amely a 814/2013/EU bizottsági rendeletben foglalt vízmelegítési hatásfokra és
+hangteljesítményszintre
+vonatkozó előírásoknak nem felel meg.
+(2) 2016. július 1-ét követően – a típusengedély megszerzésének időpontjától függetlenül – nem vehető
+használatba egyetemes szolgáltatásra jogosult felhasználási helyen
+a) olyan fűtőberendezés, amely a 813/2013/EU bizottsági rendeletben foglalt szezonális helyiségfűtési hatásfokra,
+vízmelegítési hatásfokra és hangteljesítményszintre,
+b) olyan vízmelegítő, amely a 814/2013/EU bizottsági rendeletben foglalt vízmelegítési hatásfokra és
+hangteljesítményszintre
+vonatkozó előírásoknak nem felel meg.
+(3) 2017. szeptember 26-át követően – a típusengedély megszerzésének időpontjától függetlenül – nem helyezhető
+üzembe olyan melegvíztároló tartály, amely a 814/2013/EU bizottsági rendeletben foglalt hőtárolási veszteségre
+vonatkozó előírásoknak nem felel meg.
+(4) 2018. szeptember 26-át követően – a típusengedély megszerzésének időpontjától függetlenül – nem helyezhető
+üzembe
+a) olyan fűtőberendezés, amely a 813/2013/EU bizottsági rendeletben foglalt nitrogénoxid-kibocsátásra,
+b) olyan vízmelegítő, amely a 814/2013/EU bizottsági rendeletben foglalt nitrogénoxid-kibocsátásra
+vonatkozó előírásoknak nem felel meg.”
+2. §
+Az R. 12. §-a helyébe a következő rendelkezés lép:
+„12. § (1) Ez a rendelet az energiával kapcsolatos termékek környezetbarát tervezésére vonatkozó követelmények
+megállapítási kereteinek létrehozásáról szóló, 2009. október 21-i 2009/125/EK európai parlamenti és tanácsi
+irányelvnek való megfelelést szolgálja.
+
+(2) Ez a rendelet
+a) a 2009/125/EK európai parlamenti és tanácsi irányelvnek a helyiségfűtő berendezések és a kombinált
+fűtőberendezések környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról
+szóló, 2013. augusztus 2-i 813/2013/EU bizottsági rendelet,
+b) a 2009/125/EK európai parlamenti és tanácsi irányelvnek a vízmelegítők és a melegvíz-tároló tartályok
+környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló,
+2013. augusztus 2-i 814/2013/EU bizottsági rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.”
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+4. §
+Ez a rendelet
+a) a 2009/125/EK európai parlamenti és tanácsi irányelvnek a helyiségfűtő berendezések és a kombinált
+fűtőberendezések környezettudatos tervezésére vonatkozó követelmények tekintetében történő
+végrehajtásáról szóló, 2013. augusztus 2-i 813/2013/EU bizottsági rendelet,
+b) a 2009/125/EK európai parlamenti és tanácsi irányelvnek a vízmelegítők és a melegvíz-tároló tartályok
+környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló,
+2013. augusztus 2-i 814/2013/EU bizottsági rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
