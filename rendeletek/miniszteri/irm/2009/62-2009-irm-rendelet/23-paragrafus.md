@@ -2,4 +2,6 @@
 
 (2) A levéltár a raktárhelyiséget az iratok elhelyezésére szolgáló állványokkal szereli fel. A levegő szabad áramlásának biztosítása érdekében az állványzat függőleges tagja nyitott, az állványzat alsó polcát a padlótól legalább 15 cm távolságra, felső polcát a mennyezettől legalább 50 cm távolságban szükséges a levéltárnak biztosítania.
 
-(3) A letétek, végintézkedések és egyéb nagy jelentőségű, pótolhatatlan okiratok tárolása tűzbiztos páncélszekrényben történik.
+(3)[^15]
+
+[^15]: A 23. § (3) bekezdését a 24/2015. (IX. 21.) IM rendelet 3. § (8) bekezdése hatályon kívül helyezte.

@@ -4,4 +4,6 @@
 
 (3) A közjegyzői okiratokat évenkénti bontásban, ügyszám szerint növekvő sorrendbe kell rendezni, és gondoskodni kell arról, hogy az okiratok csomagolása alkalmas legyen azok sérülésmentes szállítására.
 
-(4) A levéltár a végintézkedéseket és a végintézkedéssel kapcsolatos közokiratokat (különösen a végrendelet visszavonását tartalmazó nyilatkozatot), továbbá a közjegyzői letéteket külön tűzbiztos páncélszekrényben tárolja, ezért az átadónál esetlegesen szintén külön kezelt ilyen okiratokat nem kell visszasorolni az ügyszám szerinti helyükre, hanem azok külön sorozatba rendezve is leadhatók.
+(4)[^5] Az átadónál esetlegesen külön kezelt végintézkedéseket és a végintézkedéssel kapcsolatos közokiratokat – így különösen a végrendelet visszavonását tartalmazó nyilatkozatot –, továbbá a külön kezelt közjegyzői letéteket nem kell visszasorolni az ügyszám szerinti helyükre, hanem azok külön sorozatba rendezve is leadhatók a levéltárba.
+
+[^5]: A 4. § (4) bekezdése a 24/2015. (IX. 21.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
