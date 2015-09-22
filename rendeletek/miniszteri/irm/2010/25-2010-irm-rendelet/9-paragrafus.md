@@ -40,4 +40,18 @@ c) a végrehajtás felfüggesztéséért, és
 
 d) a biztosítási intézkedés felfüggesztéséért.
 
-(5) A közjegyző írásbeli beadvány adatainak rögzítéséért 1 pontot, szóban előterjesztett kérelem rögzítéséért 2 pontot kap.
+(5)[^1] A közjegyző az írásban vagy szóban előterjesztett
+
+a) fizetési meghagyás kibocsátása iránti kérelem,
+
+b) biztosítási intézkedés elrendelése iránti kérelem,
+
+c) végrehajtási lap kiállítása iránti kérelem,
+
+d) a kötelezett joghatályos ellentmondást, elismerést, illetve teljesítésre hivatkozást tartalmazó nyilatkozata, valamint
+
+e) a jogosult Fmhtv. 30. § (2) bekezdése és 31. § (2) bekezdése szerinti nyilatkozata
+
+adattartalmának a MOKK rendszerében erre szolgáló elektronikus formanyomtatványon vagy iraton történő rögzítéséért 1 pontot kap.
+
+[^1]: A 9. § (5) bekezdése a 24/2015. (IX. 21.) IM rendelet 4. §-ával megállapított szöveg.
