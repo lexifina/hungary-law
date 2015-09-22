@@ -1,1 +1,1 @@
-## 12. § Ez a rendelet az energiával kapcsolatos termékek környezetbarát tervezésére vonatkozó követelmények megállapítási kereteinek létrehozásáról szóló, 2009. október 21-i 2009/125/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## végrehajtásához szükséges rendelkezéseket állapít meg.

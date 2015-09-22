@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-65-20-2
 | --- | --- | --- |
 | 2011-04-23 | 2011-65-20-22.1 | 65/2011. (IV. 15.) Korm. rendelet |
 | 2011-04-24 | 2011-65-20-22.2 | 2010: CXXX. törvény |
+| 2015-09-22 | 2011-65-20-22.3 | 276/2015. (IX. 21.) Korm. rendelet |
