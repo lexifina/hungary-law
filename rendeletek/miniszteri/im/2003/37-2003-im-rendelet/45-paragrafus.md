@@ -1,8 +1,8 @@
 ## Az iratok felterjesztése a bírósághoz
 
-45. § (1)[^47] A fellebbezést felterjesztő lappal, a rendezett iratokkal együtt kell a másodfokú bírósághoz felterjeszteni. A másodfokú bíróság, illetőleg a Kúria döntését igénylő egyéb ügyek iratait jelentéssel kell felterjeszteni.
+45. § (1)[^56] A fellebbezést felterjesztő lappal, a rendezett iratokkal együtt kell a másodfokú bírósághoz felterjeszteni. A másodfokú bíróság, illetőleg a Kúria döntését igénylő egyéb ügyek iratait jelentéssel kell felterjeszteni.
 
-(2)[^48] Az iratok felterjesztésekor csatolni kell a fellebbezéssel megtámadott határozat egy kiadmányát a másodfokú bíróság (Kúria) irattára részére. A pótborítékon fel kell jegyezni a felterjesztés időpontját.
+(2)[^57] Az iratok felterjesztésekor csatolni kell a fellebbezéssel megtámadott határozat egy kiadmányát a másodfokú bíróság (Kúria) irattára részére. A pótborítékon fel kell jegyezni a felterjesztés időpontját.
 
 (3) Az iratokat közvetlenül kell a másodfokú bírósághoz felterjeszteni.
 
@@ -14,5 +14,5 @@
 
 (7) Ha az irodavezető észleli, hogy a felterjesztett iratok hat hónap alatt nem érkeztek vissza, ezt jelenti a közjegyzőnek.
 
-[^47]: A 45. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 26. § a) pontja szerint módosított szöveg.
-[^48]: A 45. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 26. § a) pontja szerint módosított szöveg.
+[^56]: A 45. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 26. § a) pontja szerint módosított szöveg.
+[^57]: A 45. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 26. § a) pontja szerint módosított szöveg.

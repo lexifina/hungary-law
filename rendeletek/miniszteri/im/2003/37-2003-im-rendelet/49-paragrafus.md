@@ -8,4 +8,6 @@ b) a letéttel, az idegen iratok visszaküldésével, a csatolt iratok leszerel�
 
 (2) Ha az ellenőrzéskor az irodavezető azt észleli, hogy az (1) bekezdésben megjelölt intézkedésekre nincs utasítás, vagy az hiányos, illetőleg az utasítást csak részben vagy egyáltalán nem hajtották végre, a szükséges intézkedést megteszi vagy a közjegyzőnek intézkedésre bemutatja.
 
-(3) Azokat az alaphagyatéki (póthagyatéki) iratokat, amelyeket a közjegyző más közjegyzőtől kért meg, az eljárás jogerős befejezését követően, az általa hozott végzés egy jogerős kiadmányával az iratokat megküldő közjegyző részére vissza kell küldeni.
+(3)[^66]
+
+[^66]: A 49. § (3) bekezdését a 24/2015. (IX. 21.) IM rendelet 2. § (10) bekezdés d) pontja hatályon kívül helyezte.

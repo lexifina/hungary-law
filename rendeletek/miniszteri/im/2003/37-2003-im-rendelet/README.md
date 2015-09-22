@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-37-20-0
 | 2013-01-01 | 2003-37-20-06.12 | 62/2009. (XII. 17.) IRM rendelet |
 | 2014-03-15 | 2003-37-20-06.13 | 21/2014. (III. 13.) KIM rendelet |
 | 2015-08-17 | 2003-37-20-06.14 | 12/2015. (VII. 23.) IM rendelet |
+| 2015-09-22 | 2003-37-20-06.15 | 24/2015. (IX. 21.) IM rendelet |

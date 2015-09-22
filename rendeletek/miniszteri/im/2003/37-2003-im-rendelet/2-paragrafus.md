@@ -8,7 +8,7 @@
 
 3. csatolás: valamely ügyiratnak más ügyirattal való átmeneti összekapcsolása;
 
-4.[^10] egyesítés: több folyamatban lévő ügy összes iratának a legkorábban nyilvántartásba vett ügy száma alatti kezelése;
+4.[^12] egyesítés: kettő vagy több különböző ügy ügyiratainak végleges összekapcsolása oly módon, hogy a legkorábban érkezett iratnál történik valamennyi ügyirat kezelése;
 
 5. érkeztetés: a közjegyzőhöz érkezett beadványon (annak valamennyi példányán és mellékletén) a beadvány érkezése időpontjának (év, hónap, nap) és ügyszámának a rögzítése;
 
@@ -28,25 +28,23 @@
 
 13. kezdőirat: olyan irat, amelynek a közjegyzőnél nincs előzménye, továbbá amely jogszabály értelmében érdemben vagy ügyviteli szempontból befejezett ügyben új eljárás lefolytatását vagy a már befejezett üggyel kapcsolatban önálló intézkedést, valamely kérelem önálló elintézését igényli;
 
-14. kiadmány: az eredeti iratról készített olyan másolat, amelyet az arra feljogosított személy ,,a kiadmány hiteléül'' záradékkal, aláírásával és a közjegyző körbélyegzőjével lát el, vagy elektronikus irat esetében a külön jogszabályban meghatározott módon hitelesít;
+14.[^13] kiadmány: közjegyzői ügyben az adott székhelyen működő közjegyző által készített eredeti, keltezéssel és ügyszámmal ellátott iratról szövegazonos formában egyidejűleg vagy utólag kiállított, hiteles (hitelesítéssel ellátott) másolat, amit az ugyanazon a székhelyen arra feljogosított személy „a kiadmány hiteléül” záradékkal, a közjegyző vagy közjegyzőhelyettes megnevezéssel, az eljáró közjegyző vagy közjegyzőhelyettes neve mellett az „s. k.” toldattal, az aláírásával és a közjegyző hivatali bélyegzőjének lenyomatával lát el, vagy elektronikus irat esetében a külön jogszabályban meghatározott módon hitelesít;
 
 15. közjegyzői ügy: a jogszabály által a közjegyző hatáskörébe utalt nemperes ügy [1. § (1) bek.];
 
 16. küldemény: a beérkezett, illetve továbbításra előkészített irat, elektronikus úton érkezett vagy küldött elektronikus irat, továbbá pénz, egyéb értéktárgy;
 
-17–18.[^11]
+17–18.[^14]
 
 19. melléklet: valamely irat (beadvány) szerves tartozéka, annak kiegészítő része, amely elválaszthatatlan az irattól;
 
-20.[^12] mutatókönyv: a nyilvántartásba bejegyzett ügyek címszó szerint meghatározott résztvevőiről vezetett betűrendes nyilvántartás;
+20.[^15] mutatókönyv: a nyilvántartásba bejegyzett ügyek címszó szerint meghatározott résztvevőiről vezetett betűrendes nyilvántartás;
 
 21. sorszám: a kezdőiratot követően érkezett és keletkezett iratok folyamatosan emelkedő arab számjeggyel történő jelölése;
 
-22. szerelés: az ugyanahhoz az ügyirathoz tartozó kezdő- és utóiratok végleges jellegű összekapcsolása;
+22.[^16] szerelés: az ugyanahhoz az ügyirathoz tartozó kezdőirat és utóiratainak végleges jellegű összekapcsolása az utóiratoknak az ügyszám soron következő sorszámára iktatásával, valamint az azonos ügyre vonatkozó előzmény ügyiratnak a később iktatott ügyirattal való végleges összekapcsolása, amelynek következtében az összekapcsolt ügyiratok a továbbiakban kizárólag együtt kezelhetőek, ideértve a póthagyatéki iratokhoz a korábbi pót- és alapiratok kapcsolását, vagy felfüggesztés esetén az előzmény ügyiratnak az újból iktatott ügyirathoz történő végleges összekapcsolását, továbbá az európai fizetési meghagyásos ügy és az ahhoz kapcsolódó költségkedvezményes ügy végleges összekapcsolását is;
 
-23. tárgyalási jegyzék: a tárgyalási napra kitűzött ügyekről készített jegyzék;
-
-24. tárgyalási napló: közjegyzőnként vezetett, elsősorban a tárgyalások időpontjának, azok eredményének, a meghozott határozat megjelölésének, továbbá a közjegyzői munka mennyiségi, minőségi mutatói szempontjából fontos adatok nyilvántartására szolgáló bekötött, oldalszámozott könyv;
+23–24.[^17]
 
 25. utóirat: olyan irat, amely a közjegyzőnél már megindult ügyre vonatkozik, ha egyébként nem tekinthető kezdőiratnak;
 
@@ -58,9 +56,15 @@
 
 29. ügyszám: az ügy azonosítására szolgáló megjelölés;
 
-30.[^13] európai fizetési meghagyásos ügy: a közjegyző hatáskörébe utalt európai fizetési meghagyásos ügy, az ehhez kapcsolódó költségkedvezményes ügy és biztosítási intézkedés elrendelése iránti ügy.
+30.[^18] európai fizetési meghagyásos ügy: a közjegyző hatáskörébe utalt európai fizetési meghagyásos ügy, az ehhez kapcsolódó költségkedvezményes ügy és biztosítási intézkedés elrendelése iránti ügy;
 
-[^10]: A 2. § 4. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § a) pontja szerint módosított szöveg.
-[^11]: A 2. § 17–18. pontját a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
-[^12]: A 2. § 20. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
-[^13]: A 2. § 30. pontját a 28/2010. (XII. 31.) KIM rendelet 3. § (2) bekezdése iktatta be.
+31.[^19] másolat: közjegyzői ügyben más székhelyen működő közjegyző által kiállított eredeti iratról vagy az ügy eredeti iratáról készített olyan szövegazonos és alakhű formában utólag kiállított irat, amit az arra feljogosított személy „a másolat hiteléül” záradékkal, aláírásával és a közjegyző hivatali bélyegzőjének lenyomatával lát el, vagy elektronikus irat esetében a külön jogszabályban meghatározott módon hitelesít.
+
+[^12]: A 2. § 4. pontja a 24/2015. (IX. 21.) IM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^13]: A 2. § 14. pontja a 24/2015. (IX. 21.) IM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^14]: A 2. § 17–18. pontját a 33/2008. (XII. 31.) IRM rendelet 21. § (4) bekezdése hatályon kívül helyezte.
+[^15]: A 2. § 20. pontja a 33/2008. (XII. 31.) IRM rendelet 20. § e) pontja szerint módosított szöveg.
+[^16]: A 2. § 22. pontja a 24/2015. (IX. 21.) IM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^17]: A 2. § 23–24. pontját a 24/2015. (IX. 21.) IM rendelet 2. § (10) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: A 2. § 30. pontját a 28/2010. (XII. 31.) KIM rendelet 3. § (2) bekezdése iktatta be.
+[^19]: A 2. § 31. pontját a 24/2015. (IX. 21.) IM rendelet 2. § (6) bekezdése iktatta be.

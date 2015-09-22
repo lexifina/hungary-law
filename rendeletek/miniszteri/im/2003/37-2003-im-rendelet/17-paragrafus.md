@@ -1,7 +1,5 @@
+## 16. §[^23]
+
 ## A tárgyalási jegyzék
 
-17. § (1) A tárgyalási napra kitűzött ügyekről tárgyalási jegyzék készül.
-
-(2) A tárgyalási jegyzéken meg kell jelölni a kitűzött ügyek sorszámát, az ügyszámot, az ügy tárgyát, a tárgyalás időpontját és az örökhagyó nevét.
-
-(3) A tárgyalási jegyzék egy példányát a tárgyalások megkezdése előtt a tárgyalóterem ajtajára ki kell függeszteni.
+[^23]: A 16. §-t a 24/2015. (IX. 21.) IM rendelet 2. § (10) bekezdés c) pontja hatályon kívül helyezte.
