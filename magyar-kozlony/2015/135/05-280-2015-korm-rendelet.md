@@ -1,0 +1,231 @@
+# A Kormány 280/2015. (IX. 22.) Korm. rendelete
+
+Magyar Közlöny 2015. évi 135. szám, 2015. szeptember 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/93d66ae4b1872fe72d965855a47de3c797b6e3fe/dokumentumok/c12d5b7bc9c2074cc3f96ebcb09bf77b2fb5e972/letoltes)
+
+---
+
+A Kormány 280/2015. (IX. 22.) Korm. rendelete
+a felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014. (V. 5.) Korm. rendelet módosításáról
+A Kormány a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § (1) bekezdés d) pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014. (V. 5.) Korm. rendelet (a továbbiakban: R.) 2. §
+3. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazása szempontjából)
+„3. bejelentett tanúsító szervezet: a felvonók biztonsági követelményeiről és megfelelőségének tanúsításáról
+szóló rendelet (a továbbiakban: felvonó rendelet) hatálya alá tartozó felvonók esetében a felvonó rendeletben
+meghatározott; a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet
+(a továbbiakban: gépek rendelet) hatálya alá tartozó berendezések esetében a gépek rendeletben meghatározott
+– a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: MKEH) által kijelölt és bejelentett – tanúsító
+szervezet;”
+(2) Az R. 2. § 6. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazása szempontjából)
+„6. felújított berendezés: az a berendezés – a fabetétes vezetősínű felvonók, valamint a tömegközlekedési
+mozgólépcsők kivételével –, amelynek legalább a meghajtógépét és vezérlését, továbbá – felvonók esetében –
+fülke- és aknaajtóit 20 évnél nem régebben új egységekre cserélték;”
+(3) Az R. 2. § 8. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazása szempontjából)
+„8. felvonó leállítása: az üzemeltető önkéntes elhatározása, illetve balesetveszély esetén a nyilvántartott
+szervezet, az ellenőr, a karbantartó, a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei
+kormányhivatal (a továbbiakban: Hatóság) intézkedésének eredményeként a berendezés legfeljebb egy naptári évig
+tartó, villamos hálózatról való lekapcsolása;”
+(4) Az R. 2. § 13. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazása szempontjából)
+„13. mozgólépcső, mozgójárda leállítása: az üzemeltető önkéntes elhatározása, illetve balesetveszély esetén
+a Hatóság, a nyilvántartott szervezet, az ellenőr, a karbantartó intézkedésének eredményeként a berendezés
+legfeljebb egy naptári évig tartó, villamos hálózatról való lekapcsolása, és mindkét végpont emberi behatolás ellen
+maradandó lezárása;”
+2. § (1) Az R. 3. alcím címe helyébe a következő rendelkezés lép:
+„3. A berendezés létesítésének, használatbavételének és megszüntetésének engedélyezése, a megszüntetés
+tudomásulvétele”
+(2) Az R. 3. §-a helyébe a következő rendelkezés lép:
+„3. § (1) Ha a felvonó vagy a mozgólépcső létesítéséhez, áthelyezéséhez, átalakításához, használatbavételéhez
+vagy bontásához az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi
+hatósági szolgáltatásról szóló kormányrendelet szerinti építésügyi hatósági engedélyhez kötött építési, bontási
+tevékenység is szükséges, – az (5) bekezdésben foglalt kivétellel – a létesítést, az áthelyezést, az átalakítást,
+a használatbavételt, a bontást érintő engedélyt és az építésügyi hatósági engedélyt együttes kérelemben
+az általános vagy a sajátos építésügyi hatóságtól kell kérni. A fővárosi és megyei kormányhivatal járási (fővárosban
+a kerületi) hivatal által lefolytatott építésügyi engedélyezési eljárásban a műszaki biztonsági szakkérdés
+elbírálásában a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági
+hatóságokról szóló 320/2010. (XII. 27.) Korm. rendelet 1. melléklete szerint illetékes kormányhivatal szakértőként
+működik közre.
+(2) Ha a berendezés létesítése építési engedélyhez kötött építési tevékenységgel nem jár együtt,
+– az (5) bekezdésben foglalt kivétellel – a létesítést, a használatbavételt, a veszélytelenítés utáni ismételt
+üzemeltetést, az áthelyezést, a berendezés e rendeletben felsorolt főbb műszaki adatainak megváltozásával járó
+átalakítását első fokon a Hatóság, másodfokon országos illetékességgel az MKEH engedélyezi műszaki biztonsági
+hatósági eljárásban.
+(3) A létesítési engedély – a (2) bekezdésben meghatározott esetben – a jogerőre emelkedésének napjától
+számított két év elteltével hatályát veszti, kivéve, ha a létesítési tevékenységet ez idő alatt megkezdték és
+
+a létesítés megkezdésétől számított egy éven belül a berendezés üzembe helyezésének feltételeit megteremtették.
+Az engedély kérelemre, indokolt esetben egy alkalommal, legfeljebb további egy évre meghosszabbítható.
+(4) Ha a (2) bekezdésben meghatározott tevékenység a kulturális örökségvédelmi hatósági nyilvántartásban
+szereplő műemlék vagy nyilvántartott műemléki érték építményben valósul meg, az engedélyezési eljárásban
+a Hatóság vizsgálja, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban
+rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
+(5) Nem szükséges az (1) és a (2) bekezdésben meghatározottak szerint hatósági engedélyt kérni kisteherfelvonó,
+valamint a 0,15 m/s-nál nem nagyobb névleges sebességű, 3 méternél kisebb emelőmagasságú, személyszállításra
+is szolgáló felvonó (emelő) létesítése, áthelyezése, e rendeletben felsorolt főbb műszaki adatainak
+megváltoztatásával járó átalakítása, használatbavétele, veszélytelenítés utáni ismételt üzemeltetése és bontása
+(megszüntetése) esetében.
+(6) Az üzemeltetőnek előzetesen be kell jelentenie a Hatóság részére az (5) bekezdésben hivatkozott berendezések
+létesítését, áthelyezését, e rendeletben felsorolt főbb műszaki adatainak megváltozásával járó átalakítását,
+használatbavételét, veszélytelenítés utáni ismételt üzemeltetését és bontását.
+(7) Ha – az (5) bekezdésben meghatározott kivételektől eltekintve – a berendezés megszüntetése bontási
+engedélyhez kötött építési tevékenységgel nem jár együtt, első fokon a Hatóság, másodfokon országos
+illetékességgel az MKEH a megszüntetés tudomásulvétele iránti eljárást folytat le.”
+3. § (1) Az R. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A berendezések
+a) létesítése, áthelyezése, átalakítása iránti engedélykérelmekhez a 2. melléklet I. pontjában foglalt dokumentációt,
+valamint a 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező
+6. melléklet szerinti nyilatkozatát,
+b) használatbavétele iránti engedélykérelmekhez a 2. melléklet II. pontjában foglalt dokumentációt, valamint
+a 3. melléklet szerinti műszaki adatlapot és a használatbavételi alkalmassági nyilatkozatot,
+c) 3. § (1) bekezdése szerinti bontásának engedélyezése iránti, valamint 3. § (7) bekezdése szerinti
+megszüntetésének tudomásulvétele iránti kérelmekhez a 2. melléklet III. pontjában foglalt dokumentációt,
+valamint a 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező
+6. melléklet szerinti nyilatkozatát
+kell csatolni.”
+(2) Az R. 4. §-a a következő (6)–(8) bekezdéssel egészül ki:
+„(6) A 3. § (5) bekezdésében meghatározott berendezések esetében az üzemeltetőnek rendelkeznie kell
+a 2. melléklet szerinti dokumentációval.
+(7) A 3. § (7) bekezdésében meghatározott bontási tevékenység akkor kezdhető meg, ha az üzemeltető
+a tevékenység megkezdése előtt legalább tizenöt nappal a bontási szándékára irányuló kérelmét a 3. §
+(7) bekezdésében meghatározott hatósághoz benyújtotta. A bontási tevékenység akkor kezdhető meg, ha azt
+a hatóság a bontási kérelem beérkezésétől számított tíz napon belül nem tiltotta meg.
+(8) Az üzemeltető a bontási tevékenység befejezésének tényéről, a befejezéstől számított tizenöt napon belül
+értesíti a Hatóságot és az országos nyilvántartást vezető MKEH-t.”
+4. §
+Az R. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az MKEH a jogszerűen létesített és bejelentett berendezésekről országos nyilvántartást vezet.”
+5. § (1) Az R. 10. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A kötelező műszaki biztonságtechnikai felülvizsgálatokat naptári évenként a 20 évnél nem régebbi vagy
+felújított berendezés esetében, valamint kisteherfelvonó esetében évente felváltva egy fővizsgálatot és egy
+ellenőrző vizsgálatot, egyébként félévenként felváltva egy fővizsgálatot és egy ellenőrző vizsgálatot kell
+a nyilvántartott szervezettel elvégeztetni.”
+(2) Az R. 10. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az üzemeltető a létesítést követő 90 napon belül, majd ezt követően minden naptári év június 30-ig köteles
+a műszaki biztonságtechnikai vizsgálatok elvégeztetésével valamelyik nyilvántartott szervezetet megbízni.
+A megbízást az üzemeltető, vagy az általa közvetlenül megbízott szervezet vagy személy adhatja ki, kivéve
+a karbantartást végző személyt vagy szervezetet. Amennyiben a megbízás korábban nem került kiadásra, annak
+kiadása annak az üzemeltetőnek a feladata, akinek tulajdonában vagy üzemeltetésében a berendezés június 30-án
+
+állt. A felvonó összes, nyilvántartott szervezet által végezhető vizsgálatát csak e megbízott nyilvántartott szervezet
+végezheti. Másik nyilvántartott szervezetet megbízni csak az esetleges biztonságtechnikai hiányok elhárítását és
+ellenőrzését követően lehet.”
+(3) Az R. 10. § (7) bekezdése helyébe a következő rendelkezés lép:
+„(7) A nyilvántartott szervezetek ellenőre végzi a következő, nem rendszeres kötelező műszaki biztonságtechnikai
+felülvizsgálatokat:
+a) a felvonón, illetve a mozgólépcsőn végzett, a 29. §-ban foglaltak figyelembevételével a vonatkozó szabványok
+alapján lényegesnek minősülő beavatkozások, átalakítások, alkatrészcserék után végzendő lényeges átalakítások
+utáni vizsgálatot,
+b) az engedélyhez kötött átalakítások és a felújítások után, valamint a használatbavételi engedély feltételeként, azt
+megelőzően üzembe helyezés előtti vizsgálatot,
+c) a balesetek után vizsgálatot,
+d) a berendezés veszélytelenítése után a veszélytelenítést ellenőrző vizsgálatot.”
+(4) Az R. 10. §-a a következő (11) bekezdéssel egészül ki:
+„(11) A műszaki felülvizsgálatok elvégzésének kötelezettsége nem áll fenn a veszélytelenített berendezések,
+valamint a nyilvántartott szervezet, az ellenőr, a karbantartó vagy a Hatóság dokumentált intézkedésének hatására
+balesetveszély esetén leállított berendezések tekintetében.”
+6. §
+Az R. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az e rendelet szerinti nyilvántartásba vételt kérő szervezetnek a tevékenységre vonatkozóan éves összes
+káreseményre legalább 20 000 000 forint összegű éves, továbbá egyedi káreseményre legalább 10 000 000 forint
+összegű felelősségbiztosítással és a tevékenységére vonatkozó szabályzattal kell rendelkeznie. Legalább öt ellenőri
+jogosultsággal rendelkező természetes személyt kell munkaviszony keretében alkalmaznia, és biztosítania kell
+az ellenőrök rendszeres, évenkénti szakmai továbbképzését. A nyilvántartott szervezet az ellenőri állományának
+változását nyolc napon belül bejelenti az országos nyilvántartást vezető szervezetnek, amely kérelemre soron kívül
+ellenőri engedélyt ad a nyilvántartott szervezethez tartozó ellenőröknek. A nyilvántartásba vételt kérő szervezetnek
+a kérelmezett tevékenységre vonatkozó nemzeti akkreditáló szerv általi akkreditálással kell rendelkeznie, vagy a 2. §
+3. pontjában meghatározott bejelentett tanúsító szervezetnek kell minősülnie.”
+7. §
+Az R. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az üzemeltető a berendezés üzemeltetése során, annak rendeltetésszerű és biztonságos használatra
+alkalmas állapotáról, rendszeres és szakszerű karbantartásáról, javításáról, továbbá a szükséges és előírt műszaki
+biztonságtechnikai felülvizsgálatáról, rendszeres ellenőrzéséről, az üzemeltetés és a használat módjának
+folyamatos figyelemmel kíséréséről, valamint a műszaki hiba vagy vész esetén használatos vészjelző berendezés
+működőképességéről és szükség esetén a mentés azonnali lehetővé tételéről köteles gondoskodni.”
+8. § (1) Az R. 17. § a) pontja helyébe a következő rendelkezés lép:
+(Az üzemeltető kötelezettségei:)
+„a) a berendezés létesítéséhez, áthelyezéséhez, az e rendelet szerinti főbb műszaki adatok megváltoztatásával járó
+átalakításához, használatbavételéhez, megszüntetéséhez szükséges – jogerős és végrehajtható – hatósági engedély
+megszerzése, a 3. § (7) bekezdésében meghatározott esetben a megszüntetés tudomásvétele iránti kérelemnek és
+mellékleteinek benyújtása a Hatóság részére,”
+(2) Az R. 17. § j) pontja helyébe a következő rendelkezés lép:
+(Az üzemeltető kötelezettségei:)
+„j) csak vezetővel működtethető felvonó esetében képzett vagy betanított felvonóvezető megbízása,”
+(3) Az R. 17. § m) pontja helyébe a következő rendelkezés lép:
+(Az üzemeltető kötelezettségei:)
+„m) a 8. § (2) bekezdés g) pontjában foglalt adatok tekintetében az MKEH tájékoztatása,”
+(4) Az R. 17. §-a a következő q)–r) ponttal egészül ki:
+(Az üzemeltető kötelezettségei:)
+„q) a 3. § (5) bekezdése szerinti berendezésekkel kapcsolatos tevékenységeknek a Hatóság részére történő
+bejelentése,
+r) üzemzavar esetén a gyártó előírásai alapján a használók kiszabadításáról való gondoskodás, mely feladat
+szabványos vészjelzőrendszert alkalmazó diszpécserszolgálattal is megvalósítható.”
+
+9. §
+Az R. 18. §-a helyébe a következő rendelkezés lép:
+„18. § (1) A berendezés üzemeltetése során felvonóvezető olyan személy lehet, akit az ellenőr az adott felvonó
+vezetésére képzett vagy betanított, továbbá a 19. §-ban előírt kötelezettségek teljesítésére alkalmas.
+(2) Az ellenőr az (1) bekezdésben meghatározott személy vagy személyek nevét a felvonó- vagy mozgólépcső
+gépkönyvbe bejegyzi.”
+10. §
+Az R. 19. §-a helyébe a következő rendelkezés lép:
+„19. § A képzett vagy betanított felvonóvezető kötelezettségei:
+a) a felvonó szabályszerű vezetése,
+b) a megengedett teherbírás, a helyes be- és kiszállás, valamint a szállítás ellenőrzése,
+c) annak megakadályozása, hogy a felvonót arra jogosulatlan személyek vezessék,
+d) az üzemeltető és a tulajdonos haladéktalan értesítése − a gépkönyvbe tett bejegyzés útján is − a biztonsági
+berendezések vagy egyéb szerkezetek látható vagy észlelt rendellenességéről, hibájáról.”
+11. §
+Az R. 20. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A berendezések karbantartását a gyártói utasításban foglaltak szerinti gyakorisággal kell végezni. Ha a gyártói
+utasítás másként nem rendelkezik, két egymást követő karbantartás között a 20 évesnél nem régebben üzembe
+helyezett vagy felújított berendezés esetében 70 naptári nap, egyéb esetben 35 naptári nap telhet el.”
+12. § (1) Az R. 21. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A gépkönyv folyamatos vezetéséért és megőrzéséért az üzemeltető felel. A gépkönyvet a berendezés beépítési
+helyén, az (5) bekezdésben foglalt személyek számára hozzáférhető helyen kell tartani.”
+(2) Az R. 21. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A gépkönyvbe bejegyzést csak a Hatóság, a nyilvántartott szervezet, az ellenőr, a szerelő, a felvonó karbantartója
+és képzett vagy betanított vezetője tehetnek.”
+(3) Az R. 21. § (6) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(A gépkönyvnek tartalmaznia kell:)
+„c) amennyiben van, a képzett vagy betanított felvonóvezető nevét, adatait.”
+(4) Az R. 21. §-a a következő (7) bekezdéssel egészül ki:
+„(7) A gépkönyv nem tartalmazhat magánszemélyre vonatkozó személyes adatokat.”
+13. §
+Az R. 2. melléklete az 1. melléklet szerint módosul.
+14. §
+Hatályát veszti az R.
+a) 4. § (2) és (4) bekezdése,
+b) 9. § a) pont 9. alpontja,
+c) 9. § b) pont 6. alpontja,
+d) 20. § (4) bekezdése és
+e) 26. §-a.
+15. §
+Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
+16. §
+A 6. § a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek való megfelelést szolgálja.
+17. §
+E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti
+és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 280/2015. (IX. 22.) Korm. rendelethez
+1. Az R. 2. melléklet II. pontja helyébe a következő rendelkezés lép:
+„II. A berendezések műszaki-biztonsági használatbavételi dokumentációja
+A berendezések műszaki-biztonsági használatbavételi dokumentációja a következőket tartalmazza:
+1. felvonó esetében a biztonsági berendezést gyártó és a felvonószerelő-vállalkozás nevét és címét, mozgólépcső,
+mozgójárda esetében a gyártó vagy a felelős forgalmazó nevét és címét;
+2. a gyártó vagy a felelős forgalmazó nyilatkozatát arról, hogy az általa szállított és felszerelt (felszereltetett)
+berendezés megfelel az engedélyezett terveknek, továbbá a szükséges beállításokat és a legalább 24 órás
+próbaüzemeltetést elvégezte, és a berendezés a rendeltetésszerű és biztonságos használatra alkalmas;
+3. az üzemeltető (tulajdonos) nyilatkozatát arról, hogy a berendezés karbantartását, és – ha szükséges – vezetését
+hogyan oldja meg;
+4. a berendezés kivitelezési dokumentációját.”
+2. Az R. 2. melléklet III. pont címe helyébe a következő rendelkezés lép:
+„III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja”
+
+IX. Határozatok Tára
