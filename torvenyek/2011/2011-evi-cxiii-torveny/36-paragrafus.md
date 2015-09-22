@@ -12,7 +12,9 @@ e) egyes kijelölt létesítmények őrzése és védelme,
 
 f) részvétel a szükségállapot idején az erőszakos cselekmények elhárításában (a továbbiakban: felhasználás),
 
-g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok térítés ellenében való végrehajtása.
+g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok térítés ellenében való végrehajtása,
+
+h) a menedékjogról szóló törvény szerinti tömeges bevándorlás okozta válsághelyzet idején közreműködés az államhatár őrzésében, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtásában, valamint az államhatár rendje ellen irányuló erőszakos cselekmények elhárításában.
 
 (2) A Honvédség fegyverhasználati jog nélkül látja el a következő feladatokat:
 
