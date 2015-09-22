@@ -1,6 +1,6 @@
 ## Biztonsági intézkedés
 
-37. § A rendőr az önveszélyes állapot vagy a személyeket, illetőleg az anyagi javakat közvetlenül fenyegető veszélyhelyzet megszüntetése érdekében
+37. § A rendőr az önveszélyes állapot vagy a személyeket, illetőleg az anyagi javakat közvetlenül fenyegető veszélyhelyzet megszüntetése, továbbá az államhatár védelme érdekében
 
 a) megteszi a veszélyhelyzet elhárításához, megszüntetéséhez haladéktalanul szükséges, a feladatkörébe tartozó intézkedéseket;
 

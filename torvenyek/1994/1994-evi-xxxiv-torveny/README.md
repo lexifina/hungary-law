@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2015-04-01 | 2014. évi LXXII. törvény | 1994-34-00-00.72 |
 | 2015-04-22 | 2015. évi XXXV. törvény | 1994-34-00-00.73 |
 | 2015-07-01 | 2015. évi XLII. törvény | 1994-34-00-00.74 |
+| 2015-09-22 | 2015. évi CXLII. törvény | 1994-34-00-00.75 |
