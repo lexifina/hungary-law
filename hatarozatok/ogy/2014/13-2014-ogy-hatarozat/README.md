@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-13-30-4
 | 2015-05-11 | 2014-13-30-41.17 | 22/2015. (V. 14.) OGY határozat |
 | 2015-05-26 | 2014-13-30-41.18 | 25/2015. (V. 29.) OGY határozat |
 | 2015-06-08 | 2014-13-30-41.19 | 26/2015. (VI. 12.) OGY határozat |
+| 2015-09-22 | 2014-13-30-41.20 | 37/2015. (IX. 22.) OGY határozat |
