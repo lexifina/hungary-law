@@ -1,8 +1,8 @@
 ## Hitelesítések nyilvántartó könyve
 
-29. §[^80] (1)[^81] A közjegyző a Ktv. rendelkezései szerint záradék formájában kiállított tanúsítványokat a hitelesítések nyilvántartó könyvébe jegyzi be. A hitelesítések nyilvántartó könyvében kell feltüntetni az elektronikus letéti tárban történő elhelyezést, az elhelyezés meghosszabbítását, törlését és a letéti tárból papír alapú vagy elektronikus másolat kiadását is.
+29. §[^85] (1)[^86] A közjegyző a Ktv. rendelkezései szerint záradék formájában kiállított tanúsítványokat a hitelesítések nyilvántartó könyvébe jegyzi be. A hitelesítések nyilvántartó könyvében kell feltüntetni az elektronikus letéti tárban történő elhelyezést, az elhelyezés meghosszabbítását, törlését és a letéti tárból papír alapú vagy elektronikus másolat kiadását is.
 
-(2)[^82]
+(2)[^87]
 
 (3) Hitelesítési ügyekben a közjegyzői ügy száma: a közjegyző székhelyének azonosító száma, törve „H” betűjelzéssel, törve az ügy érkezés szerinti számával, és törve az érkezés évszámával.
 
@@ -38,9 +38,9 @@ f) jogi jelentőségű tény tanúsítása,
 
 g) elektronikus letéti tárban történő elhelyezés, az elhelyezés meghosszabbítása, törlése, a letéti tárból papír alapú vagy elektronikus másolat kiadása.
 
-(8)[^83] A névaláírás hitelesítésekor az ügyfél aláírását kinyomtatott űrlap (aláíró lap) tartalmazza, amelyen fel kell tüntetni legalább az ügyszámot, az ügyfél családi és utónevét, valamint az ügyfél aláírását. A névaláírás hitelesítési ügyekben az okmányellenőrzés sikertelenségét vagy a hitelesítés más okból történő elmaradását a hitelesítések nyilvántartó könyvének a megjegyzés rovatába „meghiúsult” bejegyzéssel kell feltüntetni.
+(8)[^88] A névaláírás hitelesítésekor az ügyfél aláírását kinyomtatott űrlap (aláíró lap) tartalmazza, amelyen fel kell tüntetni legalább az ügyszámot, az ügyfél családi és utónevét, valamint az ügyfél aláírását. A névaláírás hitelesítési ügyekben az okmányellenőrzés sikertelenségét vagy a hitelesítés más okból történő elmaradását a hitelesítések nyilvántartó könyvének a megjegyzés rovatába „meghiúsult” bejegyzéssel kell feltüntetni.
 
-[^80]: A Vhr. 29. §-a a 33/2008. (XII. 31.) IRM rendelet 5. §-ával megállapított szöveg.
-[^81]: A Vhr. 29. § (1) bekezdése a 29/2014. (IV. 30.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^82]: A Vhr. 29. § (2) bekezdését a 29/2014. (IV. 30.) KIM rendelet 1. § (10) bekezdése hatályon kívül helyezte.
-[^83]: A Vhr. 29. § (8) bekezdése a 29/2014. (IV. 30.) KIM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^85]: A Vhr. 29. §-a a 33/2008. (XII. 31.) IRM rendelet 5. §-ával megállapított szöveg.
+[^86]: A Vhr. 29. § (1) bekezdése a 29/2014. (IV. 30.) KIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^87]: A Vhr. 29. § (2) bekezdését a 29/2014. (IV. 30.) KIM rendelet 1. § (10) bekezdése hatályon kívül helyezte.
+[^88]: A Vhr. 29. § (8) bekezdése a 29/2014. (IV. 30.) KIM rendelet 1. § (3) bekezdésével megállapított szöveg.

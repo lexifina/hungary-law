@@ -1,4 +1,4 @@
-29/A. §[^84] (1) A hitelesítések nyilvántartó könyvében az ügyek 1-es ügyszámmal kezdődnek és az ügyek érkezésének megfelelően folyamatosan növekednek.
+29/A. §[^89] (1) A hitelesítések nyilvántartó könyvében az ügyek 1-es ügyszámmal kezdődnek és az ügyek érkezésének megfelelően folyamatosan növekednek.
 
 (2) A névaláírás hitelesítésnél az ügyfél által aláírt, kinyomtatott aláíró lapot a névaláírást követően meg kell őrizni.
 
@@ -6,4 +6,4 @@
 
 (4) A közjegyző az összefűzött űrlapokat az utolsó bejegyzés alatt aláírásával és hivatali bélyegző lenyomatával ellátva lezárja.
 
-[^84]: A Vhr. 29/A. §-át a 33/2008. (XII. 31.) IRM rendelet 6. §-a iktatta be, szövege a 29/2014. (IV. 30.) KIM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^89]: A Vhr. 29/A. §-át a 33/2008. (XII. 31.) IRM rendelet 6. §-a iktatta be, szövege a 29/2014. (IV. 30.) KIM rendelet 1. § (4) bekezdésével megállapított szöveg.
