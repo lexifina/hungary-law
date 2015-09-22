@@ -1,3 +1,3 @@
-## a Módr2. hatálybalépésekor[^93] már folyamatban lévő ügyekben is alkalmazni kell.
+## a Módr2. hatálybalépésekor[^94] már folyamatban lévő ügyekben is alkalmazni kell.
 
-[^93]: A hatálybalépés időpontja 2015. szeptember 19.
+[^94]: A hatálybalépés időpontja 2015. szeptember 19.

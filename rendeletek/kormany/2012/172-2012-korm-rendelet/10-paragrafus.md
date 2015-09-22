@@ -1,4 +1,4 @@
-10. §[^18] (1) A szakdiplomata külügyi-diplomáciai felkészítése:
+10. §[^19] (1) A szakdiplomata külügyi-diplomáciai felkészítése:
 
 a) – a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője döntésétől függően – egytől hat hónapig terjedhet,
 
@@ -18,4 +18,4 @@ b) az a) pontban foglaltaktól eltérően az Állandó Képviseletre kihelyezés
 
 (8) Határozott idejű áthelyezése és külszolgálata időtartama alatt a szakdiplomatára is irányadóak az általános rangadományozási és előmeneteli szabályok.
 
-[^18]: A 10. § a 343/2014. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^19]: A 10. § a 343/2014. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
