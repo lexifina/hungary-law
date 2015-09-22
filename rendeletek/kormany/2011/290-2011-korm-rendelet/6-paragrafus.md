@@ -10,15 +10,15 @@
 
 5. a polgári veszélyhelyzeti tervezés katonai feladataival összefüggő felső szintű döntések előkészítését,
 
-6.[^9] a kontrolling tevékenységet,
+6.[^11] a kontrolling tevékenységet,
 
 7. az államháztartási belső ellenőrzés kivételével az ellenőrzési rendszer felső szintű feladatainak végrehajtását,
 
 8. a Honvédség létszámkereteinek és a személyi állomány összetételének meghatározásával összefüggő felső szintű döntések előkészítését, a munkaköri jegyzékekkel kapcsolatos feladatok végrehajtását,
 
-9.[^10] a humánpolitikai intézmény- és eszközrendszerrel, így különösen az illetmény- és juttatási rendszerrel, a rekonverzió elveivel, a hosszú távú humánpolitikai intézkedésekkel összefüggő feladatok végrehajtását, továbbá a korrupció elleni tevékenység ágazati összehangolását,
+9.[^12] a humánpolitikai intézmény- és eszközrendszerrel, így különösen az illetmény- és juttatási rendszerrel, a rekonverzió elveivel, a hosszú távú humánpolitikai intézkedésekkel összefüggő feladatok végrehajtását, továbbá a korrupció elleni tevékenység ágazati összehangolását,
 
-10.[^11] a felsőoktatás, a közoktatás, a szakképzés, a tudományos kutatás Honvédséget érintő felső szintű feladatainak végrehajtását,
+10.[^13] a felsőoktatás, a közoktatás, a szakképzés, a tudományos kutatás Honvédséget érintő felső szintű feladatainak végrehajtását,
 
 11. az állami célú légiközlekedéssel összefüggő felső szintű döntések előkészítését,
 
@@ -56,21 +56,21 @@
 
 28. a hadfelszerelés-fejlesztési, a haditechnikai, és a kutatás-fejlesztési feladatok végrehajtását,
 
-29.[^12] az anyagi szabványosítási, egységesítési és a katonai minőségügyi feladatok végrehajtását, továbbá a biztonsági beruházások megvalósítását,
+29.[^14] az anyagi szabványosítási, egységesítési és a katonai minőségügyi feladatok végrehajtását, továbbá a biztonsági beruházások megvalósítását,
 
-30.[^13] a közbeszerzések és a beszerzések megvalósítását,
+30.[^15] a közbeszerzések és a beszerzések megvalósítását,
 
-31.[^14] a környezetvédelem és a természetvédelem Honvédséget érintő infrastrukturális és beruházási feladatainak végrehajtását,
+31.[^16] a környezetvédelem és a természetvédelem Honvédséget érintő infrastrukturális és beruházási feladatainak végrehajtását,
 
 32. a nemzetgazdaság védelmi felkészítésének minisztériumi feladait,
 
-33.[^15] a nemzeti rendezvények koncepciójának kidolgozásával és végrehajtásával kapcsolatos feladatokat,
+33.[^17] a nemzeti rendezvények koncepciójának kidolgozásával és végrehajtásával kapcsolatos feladatokat,
 
-34.[^16] a társadalmi kapcsolattartással, így különösen a Honvédség érdekképviseleti szerveivel történő együttműködéssel, a magyarországi vallási felekezetekkel történő kapcsolattartással, a katonai hagyományőrzéssel, továbbá a kulturális és katonai pályára-irányítással összefüggő feladatokat ellátó a felsőoktatási és köznevelési intézmény tevékenységével kapcsolatos feladatokat,
+34.[^18] a társadalmi kapcsolattartással, így különösen a Honvédség érdekképviseleti szerveivel történő együttműködéssel, a magyarországi vallási felekezetekkel történő kapcsolattartással, a katonai hagyományőrzéssel, továbbá a kulturális és katonai pályára-irányítással összefüggő feladatokat ellátó a felsőoktatási és köznevelési intézmény tevékenységével kapcsolatos feladatokat,
 
-35.[^17] a HM Tábori Lelkészi Szolgálat hivatali működésének felügyeletével kapcsolatos tevékenységet, és
+35.[^19] a HM Tábori Lelkészi Szolgálat hivatali működésének felügyeletével kapcsolatos tevékenységet, és
 
-36.[^18] az ifjúságpolitika és az esélyegyenlőség Honvédséget érintő felső szintű feladatainak végrehajtását.
+36.[^20] az ifjúságpolitika és az esélyegyenlőség Honvédséget érintő felső szintű feladatainak végrehajtását.
 
 (2) A közigazgatási államtitkár a minisztérium hivatali szervezetének vezetőjeként
 
@@ -92,13 +92,13 @@ e) a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget, 
 
 f) gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket, ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza.
 
-[^9]: A 6. § (1) bekezdés 6. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^10]: A 6. § (1) bekezdés 9. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^11]: A 6. § (1) bekezdés 10. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^12]: A 6. § (1) bekezdés 29. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^13]: A 6. § (1) bekezdés 30. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^14]: A 6. § (1) bekezdés 31. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^15]: A 6. § (1) bekezdés 33. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^16]: A 6. § (1) bekezdés 34. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^17]: A 6. § (1) bekezdés 35. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^18]: A 6. § (1) bekezdés 36. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^11]: A 6. § (1) bekezdés 6. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 6. § (1) bekezdés 9. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^13]: A 6. § (1) bekezdés 10. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^14]: A 6. § (1) bekezdés 29. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^15]: A 6. § (1) bekezdés 30. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^16]: A 6. § (1) bekezdés 31. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^17]: A 6. § (1) bekezdés 33. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^18]: A 6. § (1) bekezdés 34. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^19]: A 6. § (1) bekezdés 35. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^20]: A 6. § (1) bekezdés 36. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be.

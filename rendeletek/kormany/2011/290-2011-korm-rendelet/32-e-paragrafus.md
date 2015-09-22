@@ -1,4 +1,4 @@
-## 32/E. §[^44] A helyi védelmi bizottság – a megyei, fővárosi védelmi bizottság iránymutatása alapján – egyedi határozatban meghatározza
+## 32/E. §[^47] A helyi védelmi bizottság – a megyei, fővárosi védelmi bizottság iránymutatása alapján – egyedi határozatban meghatározza
 
 a) a honvédelemben közreműködők kiértesítésének, riasztásának, készenléte fokozásának, valamint az információk továbbításának rendjét,
 
@@ -12,4 +12,4 @@ e) az igénybevételre kijelölt technikai eszközök és ingóságok mozgásán
 
 f) a polgári veszélyhelyzeti tervezés helyi szintű feladatai koordinálásának szabályait.
 
-[^44]: A 32/E. §-t a 174/2012. (VII. 26.) Korm. rendelet 87. § (9) bekezdése iktatta be.
+[^47]: A 32/E. §-t a 174/2012. (VII. 26.) Korm. rendelet 87. § (9) bekezdése iktatta be.

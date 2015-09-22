@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-290-20-
 | 2014-09-05 | 2011-290-20-22.11 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-05-01 | 2011-290-20-22.12 | 111/2015. (IV. 30.) Korm. rendelet |
 | 2015-07-08 | 2011-290-20-22.13 | 175/2015. (VII. 7.) Korm. rendelet |
+| 2015-09-22 | 2011-290-20-22.14 | 273/2015. (IX. 21.) Korm. rendelet |

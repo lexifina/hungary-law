@@ -36,7 +36,7 @@
 
 14. irányítja a honvédelmi katasztrófavédelmi rendszer működését,
 
-15. a Hvt. 37. § (3) bekezdésében meghatározott létszámot vagy időtartamot meghaladóan engedélyezi a Honvédség katasztrófavédelemmel összefüggő feladatok végrehajtására történő igénybevételét, engedélyezi a Honvédség szállítóeszközei és műszaki munkagépeinek ideiglenes átengedését,
+15.[^6] a Hvt. 37. § (3) bekezdésében meghatározott létszámot vagy időtartamot meghaladóan engedélyezi a Honvédségnek a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdése szerinti feladatok végrehajtására történő igénybevételét, engedélyezi a Honvédség fegyverzeti szakanyagnak nem minősülő szaktechnikai eszközeinek ideiglenes átengedését,
 
 16. irányítja a katonai légiforgalmi irányító és a légvédelmi irányító szolgálatokat,
 
@@ -46,7 +46,9 @@
 
 19. együttműködik a Magyar Szabványügyi Testülettel és az érintett miniszterekkel a katonai szabványosítás irányainak meghatározásában, a katonai szabványok kidolgozásában, gondoskodik az egységes védelmi előírások és szabványosítási egyezmények előkészítéséről és végrehajtásáról, és
 
-20. irányítja a NATO és az Európai Unió védelmi tervezési feladataival kapcsolatos magyarországi feladatok ellátását, összehangolja az érintett szervezetek ezzel kapcsolatos tevékenységét.
+20. irányítja a NATO és az Európai Unió védelmi tervezési feladataival kapcsolatos magyarországi feladatok ellátását, összehangolja az érintett szervezetek ezzel kapcsolatos tevékenységét,
+
+21.[^7] tömeges bevándorlás okozta válsághelyzet esetén dönt a Honvédség menedékjogról szóló törvény szerinti közreműködéséről.
 
 (3) A miniszter a Honvédség irányításáért és vezetéséért, valamint törvényes működéséért viselt felelőssége körében
 
@@ -104,3 +106,5 @@ jogszabályokat és – jogszabályi rendezést nem igénylő kérdésekben – 
 
 [^4]: A II. Fejezet (2–15. §) a 267/2013. (VII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^5]: A 2. § (1) bekezdését a 152/2014. (VI. 6.) Korm. rendelet 136. § (2) bekezdése hatályon kívül helyezte.
+[^6]: A 2. § (2) bekezdés 15. pontja a 273/2015. (IX. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdés 21. pontját a 273/2015. (IX. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
