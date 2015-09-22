@@ -6,4 +6,6 @@ A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. t
 
 3. felhívom a külpolitikáért felelős minisztert, hogy a küldöttség részére a közgyűlésen való részvételhez szükséges meghatalmazási okiratot az adott közgyűlés előtt adja ki;
 
-4. visszavonom az ENSZ Turisztikai Világszervezete (UNWTO) részes államainak közgyűlésein történő részvételről szóló 77/2009. (X. 2.) ME határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
