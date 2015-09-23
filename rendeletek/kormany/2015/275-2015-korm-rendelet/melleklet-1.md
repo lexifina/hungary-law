@@ -1,4 +1,4 @@
-## 17. § Hatályát veszti az állami vezetők és az államigazgatási szervek köztisztviselői számára biztosított juttatásokról és azok feltételeiről szóló 192/2010. (VI. 10.) Korm. rendelet.
+## 15–17. §[^1]
 
 1. melléklet a 275/2015. (IX. 21.) Korm. rendelethez
 
@@ -37,3 +37,5 @@
 | 15 | 6. Számítástechnikai eszközök és rádiótelefon használata | jogosult | jogosult | jogosult |
 
 * Megjegyzés: A négy óra repülési időt meghaladó tengerentúli utazásnál, valamint más hosszú távú járatoknál magasabb komfortosztálynak megfelelő árú repülőjegy vásárolható.
+
+[^1]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
