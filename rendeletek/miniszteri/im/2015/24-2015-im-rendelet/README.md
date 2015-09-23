@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-24-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-09-22 | 2015-24-20-06.1 | 24/2015. (IX. 21.) IM rendelet |
+| 2015-09-23 | 2015-24-20-06.2 | 2010: CXXX. törvény |
