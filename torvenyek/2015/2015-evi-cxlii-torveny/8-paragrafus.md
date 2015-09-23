@@ -1,3 +1,0 @@
-8. § A Hvt. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul jelenteni kell, aki a kényszerítő eszköz alkalmazásának a jogszerűségét köteles megvizsgálni, majd – a műveleti területen, valamint a 36. § (1) bekezdés h) pontja szerinti feladat végrehajtása során végzett katonai tevékenység kivételével – álláspontjáról a kényszerítő eszköz alkalmazásától számított nyolc napon belül értesíti azt, akivel szemben a kényszerítő eszközt alkalmazták. Ha a kényszerítő eszközt utasításra alkalmazták, a jelentés megtétele az utasítást adó elöljáró kötelezettsége, és annak jogszerűségéről a Honvéd Vezérkar főnöke foglal állást.”
