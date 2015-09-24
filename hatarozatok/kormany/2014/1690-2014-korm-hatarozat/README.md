@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1690-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2014-11-26 | 2014-1690-30-22.1 | 1690/2014. (XI. 26.) Korm. határozat |
+| 2015-09-24 | 2014-1690-30-22.2 | 1681/2015. (IX. 24.) Korm. határozat |

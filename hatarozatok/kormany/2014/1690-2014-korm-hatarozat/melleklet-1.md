@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2015. június 30.
+## Határidő: 2015. december 31.[^1]
 
 1. melléklet az 1690/2014. (XI. 26.) Korm. határozathoz
 
@@ -73,3 +73,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1681/2015. (IX. 24.) Korm. határozat 7. pontja szerint módosított szöveg.
