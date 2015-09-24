@@ -44,7 +44,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Nemzeti Társadalmi Felzárkózási Stratégiáról, valamint végrehajtásának a 2012–2014. évekre szóló kormányzati intézkedési tervéről szóló 1430/2011. (XII. 13.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1672/2015. (IX. 22.) Korm. határozathoz
 
@@ -749,3 +749,5 @@ Felelős: emberi erőforrások minisztere
 Miniszterelnökséget vezető miniszter a Központi Statisztikai Hivatal bevonásával
 
 Határidő: folyamatos
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
