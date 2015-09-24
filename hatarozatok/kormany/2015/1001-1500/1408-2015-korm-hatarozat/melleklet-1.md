@@ -10,6 +10,8 @@
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2015. szeptember 15.
+## Határidő: 2015. november 30.[^1]
 
 1. melléklet az 1408/2015. (VI. 19.) Korm. határozathoz
+
+[^1]: Az 1681/2015. (IX. 24.) Korm. határozat 10. pontja szerint módosított szöveg.
