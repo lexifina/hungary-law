@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes, Miniszterelnökséget vezető miniszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30., a Bethlen Gábor Alapba átcsoportosított 416,0 millió forint és az Emberi Erőforrások Minisztériuma fejezetben lévő Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára átcsoportosított 150,0 millió forint tekintetében 2015. szeptember 30.[^1]
+## Határidő: 2015. június 30., a Bethlen Gábor Alapba átcsoportosított 416,0 millió forint és az Emberi Erőforrások Minisztériuma fejezetben lévő Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport javára átcsoportosított 150,0 millió forint tekintetében 2015. szeptember 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 7. Egyházi épített örökség védelme és egyéb beruházások jogcímcsoport részére a soproni Szent Orsolya Római Katolikus Általános Iskola, Gimnázium és Kollégium rekonstrukciója kapcsán átcsoportosított 50,0 millió forint tekintetében 2015. december 31. és a győri Nagyboldogasszony székesegyház belső felújítása kapcsán átcsoportosított 50,0 millió forint tekintetében 2016. január 30.[^1]
 
 1. melléklet az 1543/2014. (IX. 24.) Korm. határozathoz
 
@@ -116,4 +116,4 @@
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1520/2015. (VII. 27.) Korm. határozat 20. pontja szerint módosított szöveg.
+[^1]: Az 1681/2015. (IX. 24.) Korm. határozat 3. pontja szerint módosított szöveg.
