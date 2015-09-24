@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1520-30
 | --- | --- | --- |
 | 2015-07-27 | 2015-1520-30-22.1 | 1520/2015. (VII. 27.) Korm. határozat |
 | 2015-07-28 | 2015-1520-30-22.2 | 2010: CXXX. törvény |
+| 2015-09-24 | 2015-1520-30-22.3 | 1681/2015. (IX. 24.) Korm. határozat |

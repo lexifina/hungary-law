@@ -30,7 +30,7 @@
 
 ## 28–32.[^3]
 
-## 33. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1034/2015. (I. 30.) Korm. határozat szerint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 200,0 millió forintból 14,5 millió forint a K1. Személyi juttatások kiemelt előirányzaton, 2,1 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton és 183,4 millió forint a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
+## 33.[^4] A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1034/2015. (I. 30.) Korm. határozat szerint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása cím, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 200,0 millió forintból a XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása címen 4,8 millió forint a K1. Személyi juttatások kiemelt előirányzaton, 1,3 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton és 0,1 millió forint a K3. Dologi kiadások kiemelt előirányzaton, a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása címen 9,7 millió forint a K1. Személyi juttatások kiemelt előirányzaton, 0,8 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 177,3 millió forint a K3. Dologi kiadások kiemelt előirányzaton, 6,0 millió forint a K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
 1. melléklet az 1520/2015. (VII. 27.) Korm. határozathoz
 
@@ -241,3 +241,4 @@
 [^1]: A 3–18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 20–26. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 28–32. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 33. pont az 1681/2015. (IX. 24.) Korm. határozat 9. pontja szerint módosított szöveg.
