@@ -18,7 +18,7 @@
 
 ## a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2014. december 15., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím részére biztosított összeg, a Balassi Intézet cím részére biztosított összeg, a Miniszterelnökség fejezet Fejezeti általános tartaléka alcímre biztosított összeg, a KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára biztosított összeg és az Országos Atomenergia Hivatal cím részére biztosított összeg tekintetében 2015. június 30., a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím részére biztosított összeg tekintetében 2015. december 31.
+## Határidő: 2014. december 15., a Fővárosi, megyei kormányhivatalok és járási kormányhivatalok cím részére biztosított összeg, a Balassi Intézet cím részére biztosított összeg, a Miniszterelnökség fejezet Fejezeti általános tartaléka alcímre biztosított összeg, a KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport javára biztosított összeg és az Országos Atomenergia Hivatal cím részére biztosított összeg tekintetében 2015. június 30., a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím részére biztosított összeg tekintetében 2015. december 31., a X. Közigazgatási és Igazságügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 2. Célelőirányzatok alcím, 1. KIM felügyelete alá tartozó szervezetek és szakmai programok támogatása jogcímcsoport részére biztosított összeg tekintetében 2016. június 30.
 
 ## 2.[^2]
 
@@ -184,5 +184,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1812/2014. (XII. 19.) Korm. határozat 16. pontja, az 1520/2015. (VII. 27.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1812/2014. (XII. 19.) Korm. határozat 16. pontja, az 1520/2015. (VII. 27.) Korm. határozat 10. pontja, az 1681/2015. (IX. 24.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
